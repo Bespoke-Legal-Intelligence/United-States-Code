@@ -42,7 +42,7 @@ A report filed pursuant to subsection (c)(2) of this section shall not be receiv
 
 Nothing in this section shall limit the discretion of—
 
-&emsp;(1) the President pro tempore of the Senate in certifying to the United States Attorney forthe District of Columbia any matter pursuant to section 194 of this title; or
+&emsp;(1) the President pro tempore of the Senate in certifying to the United States Attorney for the District of Columbia any matter pursuant to section 194 of this title; or
 
 &emsp;(2) the Senate to hold any individual or entity in contempt of the Senate.
 
@@ -54,7 +54,7 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–336 substituted “section 1365 of title 28” for “section 1364 of title 28”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–336 substituted “section 1365 of title 28” for “section 1364 of title 28”.
 
 #### Section Referred to in Other Sections
 

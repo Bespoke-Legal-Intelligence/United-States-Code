@@ -80,7 +80,7 @@ In the case of a nonresident alien individual, the taxes imposed by sections 1 a
 
 &emsp;&emsp;<b>For definition of taxable income, see section 63.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title I, §112(b), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title VIII, §803(b), Dec. 30, 1969, 83 Stat. 682; Pub. L. 93–597, §3(b), Jan. 2, 1975, 88 Stat. 1951; Pub. L. 94–455, title XIX, §1901(a)(1), (b)(9), Oct. 4, 1976, 90 Stat. 1764, 1795; Pub. L. 94–569, §3(a), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title IV, §423(c)(2), July 18, 1984, 98 Stat. 801; Pub. L. 99–514, title XIII, §1301(j)(10), title XVII, §1708(a)(1), Oct. 22, 1986, 100 Stat. 2658, 2782; Pub. L. 100–647, title I, §1007(g)(13)(A), Nov. 10, 1988, 102 Stat. 3436.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title I, §112(b), Feb. 26, 1964, 78 Stat. 24; Pub. L.91–172, title VIII, §803(b), Dec. 30, 1969, 83 Stat. 682; Pub. L. 93–597, §3(b), Jan. 2, 1975, 88 Stat. 1951; Pub. L. 94–455, title XIX, §1901(a)(1), (b)(9), Oct. 4, 1976, 90 Stat. 1764, 1795; Pub. L. 94–569, §3(a), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title IV, §423(c)(2), July 18, 1984, 98 Stat. 801; Pub. L. 99–514, title XIII, §1301(j)(10), title XVII, §1708(a)(1), Oct. 22, 1986, 100 Stat. 2658, 2782; Pub. L. 100–647, title I, §1007(g)(13)(A), Nov. 10, 1988, 102 Stat. 3436.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Notwithstanding section 3302(a) of title 31, the Secretary of the Navy may autho
 
 &emsp;(2) refund in cash any difference between the amount due and the amount of the tendered check.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 471; Pub. L. 96–513, title V, §513(42), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–258, §3(b)(10), Sept. 13, 1982, 96 Stat. 1064.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 471; Pub. L. 96–513, title V, §513(42), Dec. 12, 1980, 94 Stat.2935; Pub. L. 97–258, §3(b)(10), Sept. 13, 1982, 96 Stat. 1064.)
 
 Historical and Revision Notes
 

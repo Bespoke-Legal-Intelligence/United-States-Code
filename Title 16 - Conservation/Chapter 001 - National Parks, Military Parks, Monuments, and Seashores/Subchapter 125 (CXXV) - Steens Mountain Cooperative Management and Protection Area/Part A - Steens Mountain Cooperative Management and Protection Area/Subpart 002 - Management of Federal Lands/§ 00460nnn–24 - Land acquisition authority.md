@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter that are located within the boundaries of the Cooperative Management and Protection Area shall—
+&emsp;Subject to paragraphs (2) and (3), lands or interests in lands acquired under subsection (a)of this section or part F of this subchapter that are located within the boundaries of the Cooperative Management and Protection Area shall—
 
 &emsp;&emsp;(A) become part of the Cooperative Management and Protection Area; and
 

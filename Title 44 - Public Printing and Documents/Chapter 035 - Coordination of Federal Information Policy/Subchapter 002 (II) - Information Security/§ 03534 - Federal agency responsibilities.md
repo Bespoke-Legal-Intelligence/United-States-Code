@@ -160,7 +160,7 @@ A prior section 3534, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3533 of this title; title 10 section 2224; title 15 section 7406.
+This section is referred to in section 3533 of this title; title 15 section 7406.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

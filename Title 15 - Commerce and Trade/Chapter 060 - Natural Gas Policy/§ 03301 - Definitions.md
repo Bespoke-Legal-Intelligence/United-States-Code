@@ -74,7 +74,7 @@ For purposes of this chapter—
 
 #### (12) Rollover contract
 
-&emsp;The term “rollover contract” means any contract, entered into on or after November 9, 1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978, whether or not there is an identity of parties or terms with those of such existing contract.
+&emsp;The term “rollover contract” means any contract, entered into on or after November 9, 1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978,whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (13) Existing contract
 
@@ -182,7 +182,7 @@ For purposes of this chapter—
 
 #### (28) Electric utility
 
-&emsp;The term “electric utility” means any person to the extent such person is engaged in thebusiness of the generation of electricity and sale, directly or indirectly, of electricity to the public.
+&emsp;The term “electric utility” means any person to the extent such person is engaged in the business of the generation of electricity and sale, directly or indirectly, of electricity to the public.
 
 #### (29) Mcf
 
@@ -230,7 +230,7 @@ Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(
 
 The Sherman Act (15 U.S.C. 1 et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
-The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
@@ -238,7 +238,7 @@ Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act \[amending sections 3331, 3372, 3373, 3375, 3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
+Pub. L. 101–60, §1, July 26, 1989, 103 Stat. 157, provided that: “This Act \[amending sections 3331, 3372, 3373, 3375,3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
 
 #### Short Title
 

@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Apr. 28, 1904, ch. 1766, 33 Stat. 518.
 
-The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word “may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless \* \* \* in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
+The word “supplies” is substituted for the words “coal, provisions, fodder, or supplies of any description”, in 10:1365 and 34:528. The words “pursuant to law” and “the use of”, in 10:1365 and 34:528, are omitted as surplusage. The words “as otherwise provided by law”, in 10:1365 and 34:528, are used rather than the words “under the law as it now exists”, in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word“may” is substituted for the word “shall”. The words “However, if” are substituted for the words “unless \* \* \* in which case”. The words “private persons” are substituted for the words “private parties or companies”, in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
 
 #### Amendments
 
@@ -54,5 +54,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2350b, 2643 of this title; title 46 App. sections 1187a, 1187b, 1241s.
+This section is referred to in sections 2350b, 2643 of this title; title 46 sections 53106, 53107; title 46 App. sections 1187a, 1187b, 1241s.
 

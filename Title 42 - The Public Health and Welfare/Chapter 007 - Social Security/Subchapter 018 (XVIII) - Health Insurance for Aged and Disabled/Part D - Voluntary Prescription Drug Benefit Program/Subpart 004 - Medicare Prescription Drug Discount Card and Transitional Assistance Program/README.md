@@ -1,0 +1,14 @@
+subpart 4—medicare prescription drug discount card and transitional assistance program
+
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in section 1396u–5 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “effect”.</i>
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 01395w&#8211;141 - Medicare prescription drug discount card and transitional assistance program](%C2%A7%2001395w%E2%80%93141%20-%20Medicare%20prescription%20drug%20discount%20card%20and%20transitional%20assistance%20program.md)

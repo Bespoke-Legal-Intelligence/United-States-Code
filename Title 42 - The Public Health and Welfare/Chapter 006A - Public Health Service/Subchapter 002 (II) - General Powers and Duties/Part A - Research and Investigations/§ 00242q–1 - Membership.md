@@ -20,7 +20,7 @@ The Task Force shall be composed of—
 
 &emsp;(8) the Administrator of the the <sup>1</sup> Substance Abuse and Mental Health Services Administration;
 
-&emsp;(9) the Administrator of the Health Care Financing Administration;
+&emsp;(9) the Administrator of the Centers for Medicare \& Medicaid Services;
 
 &emsp;(10) the Commissioner of Social Security;
 
@@ -52,19 +52,21 @@ The Task Force shall meet periodically at the call of the Chair, but in no event
 
 #### (1) Compensation
 
-&emsp;Members of the Task Force who are not regular full-time employees of the United States Government shall, while attending meetings and conferences of the Task Force or otherwise engaged in the business of the Task Force (including traveltime), be entitled to receive compensation at a rate fixed by the Secretary, but not exceeding the rate specified at the time of such service under GS–18 of the General Schedules established under section 5332 of title 5.
+&emsp;Members of the Task Force who are not regular full-time employees of the United StatesGovernment shall, while attending meetings and conferences of the Task Force or otherwise engaged in the business of the Task Force (including traveltime), be entitled to receive compensation at a rate fixed by the Secretary, but not exceeding the rate specified at the time of such service under GS–18 of the General Schedules established under section 5332 of title 5.
 
 #### (2) Expenses
 
 &emsp;While away from their homes or regular places of business on the business of the Task Force, members of such Task Force may be allowed travel expenses, including per diem in lieu of subsistence, as is authorized under section 5703 of title 5 for persons employed intermittently in the Government service.
 
-(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+(Pub. L. 101–557, title III, §302, Nov. 15, 1990, 104 Stat. 2769; Pub. L. 102–321, title I, §161, July 10, 1992, 106 Stat. 375; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(6)(D), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### Codification
 
-Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and notas part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Home Health Care and Alzheimer's Disease Amendments of 1990, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+2003—Subsec. (a)(9). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 1999—Subsec. (a)(11). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research”.
 

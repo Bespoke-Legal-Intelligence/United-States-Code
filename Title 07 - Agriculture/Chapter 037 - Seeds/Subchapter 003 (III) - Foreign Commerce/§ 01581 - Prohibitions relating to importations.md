@@ -16,7 +16,7 @@ The importation into the United States is prohibited of—
 
 &emsp;&emsp;(C) If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as “Do not use for food or feed or oil purposes”; <i>Provided</i>, That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as “This seed has been treated with POISON”, in red letters on a background of distinctly contrasting color; and
 
-&emsp;&emsp;(D) A description, approved by the Secretary of Agriculture as adequate for theprotection of the public, of any process used in such treatment.
+&emsp;&emsp;(D) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
 (Aug. 9, 1939, ch. 615, title III, §301, 53 Stat. 1282; Pub. L. 85–581, §12, Aug. 1, 1958, 72 Stat. 478; Pub. L. 89–686, §§13, 14, Oct. 15, 1966, 80 Stat. 978; Pub. L. 97–439, §5(b)(1), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, §441(1), Dec. 8, 1994, 108 Stat. 4973.)
 

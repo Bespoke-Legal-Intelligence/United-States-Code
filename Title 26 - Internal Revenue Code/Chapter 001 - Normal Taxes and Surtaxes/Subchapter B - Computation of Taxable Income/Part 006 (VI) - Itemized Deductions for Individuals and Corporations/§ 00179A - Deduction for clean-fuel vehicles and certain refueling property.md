@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (2) Motor vehicle
 
-&emsp;The term “motor vehicle” means any vehicle which is manufactured primarily for use onpublic streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
+&emsp;The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
 #### (3) Cost of retrofit parts includes cost of installation
 

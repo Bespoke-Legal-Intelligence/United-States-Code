@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on disclosing procurement information
 
-(1) A person described in paragraph (2) shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates. In the case of an employee of a private sector organization assigned to an agency under chapter 37 of title 5, in addition to the restriction in the preceding sentence, such employee shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information during the three-year period after the end of the assignment of such employee.
+(1) A person described in paragraph (2) shall not, other than as provided by law, knowinglydisclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates. In the case of an employee of a private sector organization assigned to an agency under chapter 37 of title 5, in addition to the restriction in the preceding sentence, such employee shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information during the three-year period after the end of the assignment of such employee.
 
 (2) Paragraph (1) applies to any person who—
 
@@ -58,7 +58,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 (4) A contractor who provides compensation to a former official knowing that such compensation is accepted by the former official in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
 
-(5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advice from the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
+(5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advicefrom the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
 
 #### (e) Penalties and administrative actions
 
@@ -200,7 +200,7 @@ Subsec. (e)(1)(A)(i), (B)(ii), (2)(A), (3)(A). Pub. L. 101–189, §814(c)(1)(A)
 
 Subsec. (e)(7)(B)(ii). Pub. L. 101–189, §814(c)(1)(E), substituted “subsection (<i>o</i>)” for “subsection (m)”.
 
-Subsec. (f). Pub. L. 101–189, §814(a)(2)(B), substituted “Restrictions resulting from procurement activities of procurement officials” for “Restrictions on Government officials and employees” as heading, and “(1) No individual who, while serving as an officer or employee of the Government or member of the Armed Forces, was a procurement official with respect to a particular procurement may knowingly—” for “No Government official or employee, civilian, or military, who has participated personally and substantially in the conduct of any Federal agency procurement or who has personally reviewed and approved the award, modification, or extension of any contract for such procurement shall—”.
+Subsec. (f). Pub. L. 101–189, §814(a)(2)(B), substituted “Restrictions resulting from procurement activities of procurement officials” for “Restrictions on Government officials and employees” as heading, and “(1) No individual who, while serving as an officer or employee of the Government or member of the Armed Forces, was a procurement official with respect to a particular procurement may knowingly—” for “No Government official or employee, civilian, or military, who has participated personally and substantially in the conduct ofany Federal agency procurement or who has personally reviewed and approved the award, modification, or extension of any contract for such procurement shall—”.
 
 Pub. L. 101–189, §814(a)(2)(A), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
@@ -240,7 +240,7 @@ Subsec. (<i>l</i>)(2). Pub. L. 101–189, §814(c)(6)(B), substituted “subsect
 
 Subsecs. (m), (n). Pub. L. 101–189, §814(a)(1)(B)(i), redesignated subsecs. (k) and (<i>l</i>) as (m) and (n), respectively. Former subsecs. (m) and (n) redesignated (<i>o</i>) and (p), respectively.
 
-Subsec. (<i>o</i>). Pub. L. 101–189, §814(a)(4), amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Government-wide regulations and guidelines deemed appropriate to carry out this section shallbe issued in the Federal Acquisition Regulation within 180 days after November 17, 1988.”
+Subsec. (<i>o</i>). Pub. L. 101–189, §814(a)(4), amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Government-wide regulations and guidelines deemed appropriate to carry out this section shall be issued in the Federal Acquisition Regulation within 180 days after November 17, 1988.”
 
 Pub. L. 101–189, §814(a)(1)(B)(i), redesignated subsec. (m) as (<i>o</i>).
 
@@ -284,5 +284,5 @@ Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 3374, 3704; title 15 sections 637, 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a; title 49 section 40110.
+This section is referred to in title 5 sections 3374, 3704; title 15 sections 637, 657a, 657f; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a; title 49 section 40110.
 

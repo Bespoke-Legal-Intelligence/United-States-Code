@@ -12,7 +12,7 @@
 
 (2) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980. Amounts appropriated under this section are authorized to remain available until expended.
 
-(3) Of the amounts authorized to be appropriated in paragraph (2) for the fiscal year 1987, not less than $2,000,000 shall be available onlyfor the purpose of controlling and eradicating amblyomma variegatum (heartwater) in bovine animals in the Caribbean.
+(3) Of the amounts authorized to be appropriated in paragraph (2) for the fiscal year 1987, not less than $2,000,000 shall be available only for the purpose of controlling and eradicating amblyomma variegatum (heartwater) in bovine animals in the Caribbean.
 
 #### (b) Use of assistance primarily in aid of rural poor; multilateral infrastructure projects; forestry projects
 

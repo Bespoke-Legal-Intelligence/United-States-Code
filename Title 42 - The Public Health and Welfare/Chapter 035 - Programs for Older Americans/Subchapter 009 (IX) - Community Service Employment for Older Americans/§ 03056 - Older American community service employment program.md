@@ -84,7 +84,7 @@
 
 (3) Of the amount for any project to be paid by the Secretary under this subsection, not more than 13.5 percent for any fiscal year shall be available for paying the costs of administration for such project, except that—
 
-&emsp;(A) whenever the Secretary determines that it is necessary to carry out the project assisted under this subchapter, based on information submitted by the grantee with which the Secretary has an agreement under subsection (b) of this section, the Secretary mayincrease the amount available for paying the cost of administration to an amount not more than 15 percent of the cost of such project; and
+&emsp;(A) whenever the Secretary determines that it is necessary to carry out the project assisted under this subchapter, based on information submitted by the grantee with which the Secretary has an agreement under subsection (b) of this section, the Secretary may increase the amount available for paying the cost of administration to an amount not more than 15 percent of the cost of such project; and
 
 &emsp;(B) whenever the grantee with which the Secretary has an agreement under subsection (b) of this section demonstrates to the Secretary that—
 

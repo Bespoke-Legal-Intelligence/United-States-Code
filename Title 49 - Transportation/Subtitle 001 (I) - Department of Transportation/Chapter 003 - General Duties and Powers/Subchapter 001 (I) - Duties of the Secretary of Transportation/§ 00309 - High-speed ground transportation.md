@@ -98,7 +98,7 @@
 
 &emsp;(E) an examination of the significant unresolved technical issues surrounding the design, engineering, construction, and operation of high-speed ground transportation systems, including the potential for the use of existing rights-of-way;
 
-&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from the full-scale development of high-speed ground transportation systems; and
+&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from thefull-scale development of high-speed ground transportation systems; and
 
 &emsp;(G) any other technical assessments the Secretary considers important for carrying out this section.
 
@@ -170,7 +170,7 @@ Prototype.—
 
 &emsp;“(A)
 
-Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility and projected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
+Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility andprojected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
 
 &emsp;&emsp;“(i) 1 member to be appointed by the Secretary,
 
@@ -190,7 +190,7 @@ Award of construction grant or contract.—Unless the Secretary and the Assistan
 
 Factors to be considered in selection.—Selection of the detailed design under this paragraph shall be based on consideration of the following factors, among others:
 
-&emsp;&emsp;“(i) The project shall be capable of utilizing Interstate highway rights-of-way along or above a significant portion of its route, and may also userailroad rights-of-way along or above any portion of the railroad route.
+&emsp;&emsp;“(i) The project shall be capable of utilizing Interstate highway rights-of-way along or above a significant portion of its route, and may also use railroad rights-of-way along or above any portion of the railroad route.
 
 &emsp;&emsp;“(ii) The total length of guideway shall be at least 19 miles and allow significant full-speed operations between stops.
 

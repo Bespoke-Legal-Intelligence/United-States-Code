@@ -46,7 +46,7 @@
 
 #### (4) Avoidance of conflict of interest
 
-&emsp;A person may not be an agent, broker, consultant, or other representative of the UnitedStates Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
+&emsp;A person may not be an agent, broker, consultant, or other representative of the United States Government, an importer, or an importing country in connection with agricultural commodities provided under this chapter during a fiscal year in which such person provides or acts as an agent, broker, consultant, or other representative of a person engaged in providing ocean transportation or transportation-related services for such commodities. For the purpose of this paragraph, the term “transportation-related services” means lightening, stevedoring, bagging, or inland transportation to the destination point.
 
 #### (c) Subchapters III and III–A program
 
@@ -70,7 +70,7 @@
 
 #### (4) Prepositioning
 
-&emsp;Funds made available for fiscal years 2001 through 2007 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries.
+&emsp;Funds made available for fiscal years 2001 through 2007 to carry out subchapters III and III-A of this chapter may be used by the Administrator to procure, transport, and store agricultural commodities for prepositioning within the United States and in foreign countries, except that for each such fiscal year not more than $2,000,000 of such funds may be usedto store agricultural commodities for prepositioning in foreign countries.
 
 #### (d) Timing of shipments
 
@@ -112,7 +112,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;The President shall submit such report not later than January 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237,title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284.)
+(July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Functions of President under subsec. (h) \[now (g)\] of this section delegated t
 
 #### Preparation of Annual Report
 
-For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752,§3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 #### Section Referred to in Other Sections
 

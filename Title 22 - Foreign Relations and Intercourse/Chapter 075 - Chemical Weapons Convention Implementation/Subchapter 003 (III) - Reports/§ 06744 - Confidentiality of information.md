@@ -12,7 +12,7 @@ Except as provided in subsection (b) or (c) of this section, any confidential bu
 
 #### (2) Information for Congress
 
-&emsp;Information shall be made available to any committee or subcommittee of Congress with appropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
+&emsp;Information shall be made available to any committee or subcommittee of Congress withappropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
 
 #### (3) Information for enforcement actions
 
@@ -42,7 +42,7 @@ Except as provided in subsection (b) or (c) of this section, any confidential bu
 
 #### (d) Criminal penalty for wrongful disclosure
 
-Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a) of this section, and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any personlocated outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
+Any officer or employee of the United States, and any former officer or employee of the United States, who by reason of such employment or official position has obtained possession of, or has access to, information the disclosure or other provision of which is prohibited by subsection (a) of this section, and who, knowing that disclosure or provision of such information is prohibited by such subsection, willfully discloses or otherwise provides the information in any manner to any person (including any person located outside the territory of the United States) not authorized to receive it, shall be fined under title 18 or imprisoned for not more than five years, or both.
 
 #### (e) Criminal forfeiture
 

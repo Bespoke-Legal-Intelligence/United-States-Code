@@ -61,7 +61,7 @@
 | (c) | Program requirements. |
 | (d) | Administration of programs. |
 | (e) | Office of Citizen Exchanges. |
-| (f) | Coordination of exchange program; reports. |
+| (f) | Coordination of exchange programs; reports. |
 | (g) | Working Group on United States Government-Sponsored International Exchanges and Training. |
 | [2461\.](%C2%A7%2002461%20-%20Exchanges%20between%20United%20States%20and%20independent%20states%20of%20the%20former%20Soviet%20Union.md) | Exchanges between United States and independent states of the former Soviet Union. |
 | (a) | Financing of exchanges with repayments on Lend-Lease debts. |

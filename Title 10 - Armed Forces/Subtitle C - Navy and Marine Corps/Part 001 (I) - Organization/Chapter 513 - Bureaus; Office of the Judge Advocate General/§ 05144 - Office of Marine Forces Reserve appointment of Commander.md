@@ -16,7 +16,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 (3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-(4) Until October 1, 2003, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
+(4) Until December 31, 2004, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
 
 &emsp;(A) the officer is qualified for service in the position; and
 
@@ -36,13 +36,15 @@ Annual Report.—(1) The Commander, Marine Forces Reserve, shall submit to the S
 
 (2) The Secretary of Defense shall transmit the annual report of the Commander, Marine Forces Reserve, under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529.)
 
 #### Prior Provisions
 
 A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, §2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Amendments
+
+2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from officers of the Marine Corps who—
 

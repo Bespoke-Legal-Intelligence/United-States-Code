@@ -30,31 +30,23 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;(A) only if the sponsor certifies to the Secretary that—
 
-&emsp;&emsp;(i) an opportunity for a public hearing was given to consider the economic, social, and environmental effects of the location and the location's consistency with the objectives of any planning that the community has carried out; and
+&emsp;&emsp;(i) an opportunity for a public hearing was given to consider the economic, social, and environmental effects of the location and the location's consistency with the objectives of any planning that the community has carried out;
 
-&emsp;&emsp;(ii) the airport management board has voting representation from the communities in which the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project;
+&emsp;&emsp;(ii) the airport management board has voting representation from the communities inwhich the project is located or has advised the communities that they have the right to petition the Secretary about a proposed project; and
 
-&emsp;(B) only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
+&emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
-&emsp;&emsp;(i) the State has not approved any applicable State or local standards; and
-
-&emsp;&emsp;(ii) the Administrator has prescribed applicable standards; and
-
-&emsp;(C) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
+&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
-&emsp;(A) completing the project would allow operations at the airport involving aircraft complying with the noise standards prescribed for “stage 2” aircraft in section 36.1 of title 14, Code of Federal Regulations, to replace existing operations involving aircraft that do not comply with those standards; and
+&emsp;(A) completing the project would allow operations at the airport involving aircraft complying with the noise standards prescribed for “stage 3” aircraft in section 36.1 of title 14, Code of Federal Regulations, to replace existing operations involving aircraft that do not comply with those standards; and
 
 &emsp;(B) the project meets the other requirements under this subchapter.
 
 (3) At the Secretary's request, the sponsor shall give the Secretary a copy of the transcript of any hearing held under paragraph (1)(A) of this subsection.
 
-(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
-
-(B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.
-
-(5) The Secretary may make a finding under paragraph (1)(C) of this subsection only after completely reviewing the matter. The review and finding must be a matter of public record.
+(4) The Secretary may make a finding under paragraph (1)(B) of this subsection only after completely reviewing the matter. The review and finding must be a matter of public record.
 
 (d)
 
@@ -92,7 +84,7 @@ Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be a
 
 &emsp;(2)
 
-Contents.—A competition plan under this subsection shall include information onthe availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, patterns of air service, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, whether the airport intends to build or acquire gates that would be used as common facilities, and airfare levels (as compiled by the Department of Transportation) compared to other large airports.
+Contents.—A competition plan under this subsection shall include information on the availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, patterns of air service, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, whether the airport intends to build or acquire gates that would be used as common facilities, and airfare levels (as compiled by the Department of Transportation) compared to other large airports.
 
 &emsp;(3)
 
@@ -110,7 +102,7 @@ Covered airport defined.—In this subsection, the term “covered airport” me
 
 Consultation With Secretary of Homeland Security.—The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187; Pub. L. 108–176, title I, §187, title III, §305, Dec. 12, 2003, 117 Stat. 2518, 2539.)
 
 Historical and Revision Notes
 
@@ -210,9 +202,27 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 
 #### Amendments
 
+2003—Subsec. (c)(1)(A)(iii). Pub. L. 108–176, §305(1), inserted “and” after semicolon at end.
+
+Pub. L. 108–176, §187, added cl. (iii).
+
+Subsec. (c)(1)(B), (C). Pub. L. 108–176, §305(2), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
+
+&emsp;“(i) the State has not approved any applicable State or local standards; and
+
+&emsp;“(ii) the Administrator has prescribed applicable standards; and”.
+
+Subsec. (c)(2)(A). Pub. L. 108–176, §305(4), substituted “stage 3” for “stage 2”.
+
+Subsec. (c)(4), (5). Pub. L. 108–176, §305(5)–(7), redesignated par. (5) as (4), substituted “paragraph (1)(B)” for “paragraph (1)(C)”, and struck out former par. (4) which read as follows:
+
+“(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
+
+“(B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.”
+
 2002—Subsec. (g). Pub. L. 107–296 added subsec. (g).
 
-2001—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by makingthe amendments to this section, to reflect the probable intent of Congress.
+2001—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
 
 2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
@@ -223,6 +233,10 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 General Aviation Airport Project Grant Application Approval.—(1) In this subsection, ‘general aviation airport’ means a public airport that is not an air carrier airport.
 
 “(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2002 Amendment
 

@@ -28,9 +28,9 @@ Section was classified to section 212b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1973—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–198, §739(g)(6), struck out “, except on those streets and roadways shown on the map referred to in section 193a of this title as being under the jurisdiction and control of the Commissioner of the District of Columbia”.
 
-1947—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
+<b>1947</b>—Subsec. (b). Act July 11, 1947, §1, struck out reference to six months after July 31, 1946, as the time for promulgation of regulations and authorized amendment of regulations.
 
 Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to be effective immediately upon placing conspicuous signs containing notice of regulations at the places affected thereby and inserted provision for payment of expenses.
 
@@ -42,7 +42,7 @@ Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, Ju
 
 #### Effective Date of 1973 Amendment
 
-Section 771 of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+Section 771(d) of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective on Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accepted the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
 
 #### Transfer of Functions
 

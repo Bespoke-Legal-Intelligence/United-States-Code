@@ -30,6 +30,10 @@ During any period that a waiver is in effect with respect to any nonmarket econo
 
 The Tariff Schedules of the United States, referred to in subsec. (c), to be treated as a reference to the Harmonized Tariff Schedule, pursuant to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2192, 2437 of this title.

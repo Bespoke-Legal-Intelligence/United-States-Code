@@ -40,7 +40,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Transfer of personnel
 
-&emsp;On the reorganization effective date, employees of the Association shall become employees of the Holding Company (or any subsidiary of the Holding Company), and the Holding Company (or any subsidiary of the Holding Company) shall provide all necessary and appropriate management and operational support (including loan servicing) to the Association, as requested by the Association. The Association, however, may obtain such management and operational support from persons or entities not associated with the Holding Company.
+&emsp;On the reorganization effective date, employees of the Association shall become employees of the Holding Company (or any subsidiary of the Holding Company), and the Holding Company (or any subsidiary of the Holding Company) shall provide all necessaryand appropriate management and operational support (including loan servicing) to the Association, as requested by the Association. The Association, however, may obtain such management and operational support from persons or entities not associated with the Holding Company.
 
 #### (4) Dividends
 
@@ -148,7 +148,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Authority to sell or exercise stock warrants; deposit of proceeds
 
-&emsp;&emsp;The District of Columbia Financial Responsibility and Management Assistance Authority is authorized to sell or exercise the stock warrants described in subparagraph (A). The District of Columbia Financial Responsibility and Management Assistance Authority shall deposit into the account established under section 1155(e) <sup>1</sup> of this title amounts collected from the sale and proceeds resulting from the exercise of the stock warrants pursuant to this subparagraph.
+&emsp;&emsp;The District of Columbia Financial Responsibility and Management Assistance Authority is authorized to sell or exercise the stock warrants described in subparagraph (A). The District of Columbia Financial Responsibility and Management Assistance Authority shall deposit into the account established under section 1155(e) <sup>1</sup> of this title amounts collected from the sale and proceeds resulting from the exercise of thestock warrants pursuant to this subparagraph.
 
 #### (10) Restrictions on transfer of Association shares and bankruptcy of Association
 
@@ -160,7 +160,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (1) Establishment of a trust
 
-&emsp;The Association shall, under the terms of an irrevocable trust agreement that is in form and substance satisfactory to the Secretary of the Treasury, the Association and the appointed trustee, irrevocably transfer all remaining obligations of the Association to the trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States ispledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with their terms. To the extent the Association cannot provide money or qualifying obligations in the amount required, the Holding Company shall be required to transfer money or qualifying obligations to the trust in the amount necessary to prevent any deficiency.
+&emsp;The Association shall, under the terms of an irrevocable trust agreement that is in form and substance satisfactory to the Secretary of the Treasury, the Association and the appointed trustee, irrevocably transfer all remaining obligations of the Association to the trust and irrevocably deposit or cause to be deposited into such trust, to be held as trust funds solely for the benefit of holders of the remaining obligations, money or direct noncallable obligations of the United States or any agency thereof for which payment the full faith and credit of the United States is pledged, maturing as to principal and interest in such amounts and at such times as are determined by the Secretary of the Treasury to be sufficient, without consideration of any significant reinvestment of such interest, to pay the principal of, and interest on, the remaining obligations in accordance with their terms. To the extent the Association cannot provide money or qualifying obligations in the amount required, the Holding Company shall be required to transfer money or qualifying obligations to the trust in the amount necessary to prevent any deficiency.
 
 #### (2) Use of trust assets
 
@@ -268,7 +268,7 @@ For purposes of this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of this title and Tables.
 
 Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
 

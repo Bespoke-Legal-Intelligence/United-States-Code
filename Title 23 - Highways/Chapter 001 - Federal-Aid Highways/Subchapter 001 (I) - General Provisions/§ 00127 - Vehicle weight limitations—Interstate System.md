@@ -86,7 +86,7 @@ Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection
 
 &emsp;&emsp;(E)
 
-Review and correction procedure.—The Secretary, on his or her own motion or upon a request by any person (including a State), shall review the list issued by theSecretary pursuant to subparagraph (D). If the Secretary determines there is cause to believe that a mistake was made in the accuracy of the final list, the Secretary shall commence a proceeding to determine whether the list published pursuant to subparagraph (D) should be corrected. If the Secretary determines that there is a mistake in the accuracy of the list the Secretary shall correct the publication under subparagraph (D) to reflect the determination of the Secretary.
+Review and correction procedure.—The Secretary, on his or her own motion or upon a request by any person (including a State), shall review the list issued by the Secretary pursuant to subparagraph (D). If the Secretary determines there is cause to believe that a mistake was made in the accuracy of the final list, the Secretary shall commence a proceeding to determine whether the list published pursuant to subparagraph (D) should be corrected. If the Secretary determines that there is a mistake in the accuracy of the list the Secretary shall correct the publication under subparagraph (D) to reflect the determination of the Secretary.
 
 &emsp;(4)
 
@@ -258,13 +258,17 @@ Funding.—There is authorized to be appropriated out of the Highway Trust Fund 
 
 Applicability of title 23.—Funds made available to carry out this subsection shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of the study under this subsection shall be 100 percent and such funds shall remain available until expended.”
 
-#### Public Transit Vehicles
+#### Over-the-Road Buses and Public Transit Vehicles
 
-Pub. L. 102–240, title I, §1023(h), as added by Pub. L. 102–388, title III, §341, Oct. 6, 1992, 106 Stat. 1552; amended by Pub. L. 104–59, title III, §326, Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1212(c), June 9, 1998, 112 Stat. 194, provided that:
+Pub. L. 102–240, title I, §1023(h), as added by Pub. L. 102–388, title III, §341, Oct. 6, 1992, 106 Stat. 1552; amended by Pub. L. 104–59, title III, §326, Nov. 28, 1995, 109 Stat. 592; Pub. L. 105–178, title I, §1212(c), June 9, 1998, 112 Stat. 194; Pub. L. 108–7, div. I, title III, §347, Feb. 20, 2003, 117 Stat. 419, provided that:
 
 “(1)
 
-Temporary exemption.—The second sentence of section 127 of title 23, United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply, for the period beginning on October 6, 1992, and ending on October 1, 2003, to any vehicle which is regularly and exclusively used as an intrastate public agency transit passenger bus.
+Temporary exemption.—The second sentence of section 127 of title 23, United States Code, relating to axle weight limitations for vehicles using the Dwight D. Eisenhower System of Interstate and Defense Highways, shall not apply, for the period beginning on October 6, 1992, and ending on October 1, 2003, to—
+
+&emsp;“(A) any over-the-road bus (as defined in section 301 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12181)); or
+
+&emsp;“(B) any vehicle that is regularly and exclusively used as an intrastate public agency transit passenger bus.
 
 “(2)
 
@@ -304,7 +308,7 @@ Section 1023(g) of Pub. L. 102–240 directed Secretary to conduct a study of St
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 
-Section 158 of Pub. L. 100–17 directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriatearrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of ‘reasonable access’ to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
+Section 158 of Pub. L. 100–17 directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of ‘reasonable access’ to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
 
 #### State-Imposed Vehicle Width Limitations
 

@@ -28,13 +28,13 @@
 
 #### (3) Denial of deduction for club dues
 
-&emsp;Notwithstanding the preceding provisions of this subsection, no deduction shall be allowedunder this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
+&emsp;Notwithstanding the preceding provisions of this subsection, no deduction shall be allowed under this chapter for amounts paid or incurred for membership in any club organized for business, pleasure, recreation, or other social purpose.
 
 #### (b) Gifts
 
 #### (1) Limitation
 
-&emsp;No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added to prior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludable from gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
+&emsp;No deduction shall be allowed under section 162 or section 212 for any expense for gifts made directly or indirectly to any individual to the extent that such expense, when added toprior expenses of the taxpayer for gifts made to such individual during the same taxable year, exceeds $25. For purposes of this section, the term “gift” means any item excludable from gross income of the recipient under section 102 which is not excludable from his gross income under any other provision of this chapter, but such term does not include—
 
 &emsp;&emsp;(A) an item having a cost to the taxpayer not in excess of $4.00 on which the name of the taxpayer is clearly and permanently imprinted and which is one of a number of identical items distributed generally by the taxpayer, or
 
@@ -100,7 +100,7 @@ Subsection (a) shall not apply to—
 
 #### (4) Recreational, etc., expenses for employees
 
-&emsp;Expenses for recreational, social, or similar activities (including facilities therefor) primarily for the benefit of employees (otherthan employees who are highly compensated employees (within the meaning of section 414(q))). For purposes of this paragraph, an individual owning less than a 10-percent interest in the taxpayer's trade or business shall not be considered a shareholder or other owner, and for such purposes an individual shall be treated as owning any interest owned by a member of his family (within the meaning of section 267(c)(4)). This paragraph shall not apply for purposes of subsection (a)(3).
+&emsp;Expenses for recreational, social, or similar activities (including facilities therefor) primarily for the benefit of employees (other than employees who are highly compensated employees (within the meaning of section 414(q))). For purposes of this paragraph, an individual owning less than a 10-percent interest in the taxpayer's trade or business shall not be considered a shareholder or other owner, and for such purposes an individual shall be treated as owning any interest owned by a member of his family (within the meaning of section 267(c)(4)). This paragraph shall not apply for purposes of subsection (a)(3).
 
 #### (5) Employees, stockholder, etc., business meetings
 
@@ -172,9 +172,9 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (4) Subsection to apply to employer as well as to traveler
 
-&emsp;&emsp;(A) Except as provided in subparagraph (B), this subsection shall apply to deductions otherwise allowable under section 162 to anyperson, whether or not such person is the individual attending the convention, seminar, or similar meeting.
+&emsp;&emsp;(A) Except as provided in subparagraph (B), this subsection shall apply to deductions otherwise allowable under section 162 to any person, whether or not such person is the individual attending the convention, seminar, or similar meeting.
 
-&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required to be included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
+&emsp;&emsp;(B) This subsection shall not deny a deduction to any person other than the individual attending the convention, seminar, or similar meeting with respect to any amount paid by such person to or on behalf of such individual if includible in the gross income of such individual. The preceding sentence shall not apply if the amount is required tobe included in any information return filed by such person under part III of subchapter A of chapter 61 and is not so included.
 
 #### (5) Reporting requirements
 
@@ -418,7 +418,7 @@ For purposes of subsection (d), the term “qualified nonpersonal use vehicle”
 
 &emsp;&emsp;&emsp;(iii) provided on an oil or gas platform or drilling rig if the platform or rig is located offshore, or
 
-&emsp;&emsp;&emsp;(iv) provided on an oil or gas platform or drilling rig, or at a support camp which isin proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
+&emsp;&emsp;&emsp;(iv) provided on an oil or gas platform or drilling rig, or at a support camp which is in proximity and integral to such platform or rig, if the platform or rig is located in the United States north of 54 degrees north latitude.
 
 > &emsp;Clauses (i) and (ii) of subparagraph (E) shall not apply to vessels primarily engaged in providing luxury water transportation (determined under the principles of subsection (m)). In the case of the employee, the exception of subparagraph (A) shall not apply to expenses described in subparagraph (D).
 
@@ -516,7 +516,7 @@ Subsec. (k)(2). Pub. L. 100–647, §1001(g)(2), amended par. (2) generally. Pri
 
 Subsec. (m)(1)(B)(ii). Pub. L. 100–647, §1001(g)(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any expense to which subsection (a) does not apply by reason of paragraph (2), (3), (4), (7), (8), or (9) of subsection (e).”
 
-Subsec. (n)(2). Pub. L. 100–647, §6003(a), struck out “or” at end of subpar. (D), substituted “, or” for theperiod at end of subpar. (E), and added subpar. (F) and flush sentence at end.
+Subsec. (n)(2). Pub. L. 100–647, §6003(a), struck out “or” at end of subpar. (D), substituted “, or” for the period at end of subpar. (E), and added subpar. (F) and flush sentence at end.
 
 Pub. L. 100–647, §1001(g)(4)(A), struck out “or” at end of subpar. (C), substituted “, or” for the period at end of subpar. (D), and added subpar. (E) and flush sentence at end.
 

@@ -2,7 +2,7 @@
 
 #### (a) First tier
 
-Any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who, violates any provision of section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of thistitle, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+Any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who, violates any provision of section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
 #### (b) Second tier
 
@@ -86,7 +86,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### Codification
 
-In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. Former subsections (a) to (c) and (h) to (k), which were classified to sections 593 to 599 of this title, were repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948, and the provisions thereof were reenacted as sections 217, 218, 219, 220, 655, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure. Sections 217, 218, 219, and 220 of Title 18 were redesignated as sections 212, 213, 214, and 215 of Title 18 by act Oct. 23, 1962, Pub. L. 87–849, §1(d), 76 Stat. 1125.
+In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A,or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title.
 
 #### Amendments
 

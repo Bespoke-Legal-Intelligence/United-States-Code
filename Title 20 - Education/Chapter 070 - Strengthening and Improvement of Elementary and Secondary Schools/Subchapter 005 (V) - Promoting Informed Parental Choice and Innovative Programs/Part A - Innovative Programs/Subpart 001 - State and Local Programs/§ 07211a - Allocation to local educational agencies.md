@@ -48,7 +48,7 @@ Not more than 15 percent of funds made available under section 7211 of this titl
 
 #### (B) Review of criteria
 
-&emsp;&emsp;The Secretary shall review criteria submitted by a State educational agency for adjusting allocations under paragraph (1) and shall approve such criteria only if the Secretary determines that such criteria are reasonably calculated to produce an adjustedallocation that reflects the relative needs of the State's local educational agencies based on the factors set forth in subparagraph (A).
+&emsp;&emsp;The Secretary shall review criteria submitted by a State educational agency for adjusting allocations under paragraph (1) and shall approve such criteria only if the Secretary determines that such criteria are reasonably calculated to produce an adjusted allocation that reflects the relative needs of the State's local educational agencies based on the factors set forth in subparagraph (A).
 
 #### (d) Payment of allocations
 

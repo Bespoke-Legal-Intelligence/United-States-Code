@@ -38,7 +38,7 @@ In the case of an exchange to which section 351, 354, 355, 356, or 361 applies�
 
 #### (c) Section 355 transactions which are not exchanges
 
-For purposes of this section, a distribution to which section 355 (or so much of section 356 asrelates to section 355) applies shall be treated as an exchange, and for such purposes the stock and securities of the distributing corporation which are retained shall be treated as surrendered, and received back, in the exchange.
+For purposes of this section, a distribution to which section 355 (or so much of section 356 as relates to section 355) applies shall be treated as an exchange, and for such purposes the stock and securities of the distributing corporation which are retained shall be treated as surrendered, and received back, in the exchange.
 
 #### (d) Assumption of liability
 
@@ -52,7 +52,7 @@ For purposes of this section, a distribution to which section 355 (or so much of
 
 #### (e) Exception
 
-This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
+This section shall not apply to property acquired by a corporation by the exchange of itsstock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
 
 #### (f) Definition of nonrecognition property in case of section 361 exchange
 
@@ -122,7 +122,7 @@ Pub. L. 94–253, §1(b)(2), added par. (3).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax ReliefAct of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
 
 #### Effective Date of 2000 Amendment
 

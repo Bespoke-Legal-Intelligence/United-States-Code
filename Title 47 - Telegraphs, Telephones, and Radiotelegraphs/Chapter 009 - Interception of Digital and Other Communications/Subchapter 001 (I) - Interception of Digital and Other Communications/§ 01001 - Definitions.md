@@ -52,7 +52,7 @@ Section 111 of title I of Pub. L. 103–414 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), this title \[enacting this subchapter and provisionsset out below\] shall take effect on the date of enactment of this Act \[Oct. 25, 1994\].
+In General.—Except as provided in subsection (b), this title \[enacting this subchapter and provisions set out below\] shall take effect on the date of enactment of this Act \[Oct. 25, 1994\].
 
 “(b)
 

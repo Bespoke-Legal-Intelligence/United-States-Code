@@ -2,11 +2,11 @@
 
 (a)
 
-Authority To Consider.—An officer in the Naval Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
+Authority To Consider.—An officer in the Naval Reserve in an active status serving in thegrade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
 
 (b)
 
-Boards.—(1) If the Secretary of the Navy determines that consideration of officers for early retirement under this section is necessary, the Secretary shall convene a continuation board under section 14101(b) of this title to recommend an appropriate number of officers for early retirement.
+Boards.—(1) If the Secretary of the Navy determines that consideration of officers for early retirement under this section is necessary, the Secretary shall convene a selection board under section 14101(b) of this title to recommend an appropriate number of officers for early retirement.
 
 (2) In the case of such a board convened to consider officers in the grade of rear admiral or major general, the Secretary of the Navy may appoint the board without regard to section 14102(b) of this title. In doing so, however, the Secretary shall ensure that—
 
@@ -18,13 +18,15 @@ Boards.—(1) If the Secretary of the Navy determines that consideration of offi
 
 Separation Under Section 14514.—An officer selected for early retirement under this section shall be separated in accordance with section 14514 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, §515, Oct. 17, 1998, 112 Stat. 2008.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, §515, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 108–136, div. A, title V, §511(b)(3), Nov. 24, 2003, 117 Stat. 1459.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 6389(f)(3) of this title, prior to repeal by Pub. L. 103–337, §1628(4).
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–136 substituted “selection board” for “continuation board”.
 
 1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization; conditions
 
-The Secretary of the Interior or the Secretary of Agriculture as the case may be, may grant easements and rights-of-way upon, over, under, across, or along any component of the nationaltrails system in accordance with the laws applicable to the national park system and the national forest system, respectively: <i>Provided</i>, That any conditions contained in such easements and rights-of-way shall be related to the policy and purposes of this chapter.
+The Secretary of the Interior or the Secretary of Agriculture as the case may be, may grant easements and rights-of-way upon, over, under, across, or along any component of the national trails system in accordance with the laws applicable to the national park system and the national forest system, respectively: <i>Provided</i>, That any conditions contained in such easements and rights-of-way shall be related to the policy and purposes of this chapter.
 
 #### (b) Cooperation of Federal agencies with Secretary of the Interior and Secretary of Agriculture
 
@@ -24,7 +24,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 (1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c) of this section, if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
 
-&emsp;(A) If such unit or entity attempts to sell, convey, or otherwise transfer such right, title, or interest or attempts to permit the use of any part of such portion for any purpose incompatible with its use for public recreation, then any and all right, title, and interest released and quitclaimed by the Secretary pursuant to this subsection shall revert to the United States.
+&emsp;(A) If such unit or entity attempts to sell, convey, or otherwise transfer such right, title,or interest or attempts to permit the use of any part of such portion for any purpose incompatible with its use for public recreation, then any and all right, title, and interest released and quitclaimed by the Secretary pursuant to this subsection shall revert to the United States.
 
 &emsp;(B) Such unit or entity shall assume full responsibility and hold the United States harmless for any legal liability which might arise with respect to the transfer, possession, use, release, or quitclaim of such right-of-way.
 
@@ -90,7 +90,7 @@ Section 2 of Pub. L. 100–470 provided that: “Congress hereby finds that—
 
 Section 5 of Pub. L. 100–470 provided that:
 
-“(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
+“(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set outas notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
 “(b) Nothing in this Act shall be construed to expand or diminish existing condemnation authorities contained in the National Trails System Act, as amended \[16 U.S.C. 1241 et seq.\].”
 

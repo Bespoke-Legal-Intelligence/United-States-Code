@@ -1,0 +1,36 @@
+### §5402. Definitions
+
+For the purpose of this chapter—
+
+&emsp;(1) “agency” means an Executive agency under section 105, but does not include the General Accounting Office;
+
+&emsp;(2) “employee” includes—
+
+&emsp;&emsp;(A) an individual paid under a statutory pay system defined in section 5302(1);
+
+&emsp;&emsp;(B) a prevailing rate employee, as defined in section 5342(a)(2); and
+
+&emsp;&emsp;(C) a category of employees included by the Office of Personnel Management following the review of an agency plan under section 5403(b)(1);
+
+> &emsp;but does not include—
+
+&emsp;&emsp;(i) an individual paid at an annual rate of basic pay for a level of the Executive Schedule, under subchapter II of chapter 53, or at a rate provided for one of those levels under another provision of law;
+
+&emsp;&emsp;(ii) a member of the Senior Executive Service paid under subchapter VIII of chapter 53, or an equivalent system;
+
+&emsp;&emsp;(iii) an administrative law judge paid under section 5372;
+
+&emsp;&emsp;(iv) a contract appeals board member paid under section 5372a;
+
+&emsp;&emsp;(v) an administrative appeals judge paid under section 5372b; and
+
+&emsp;&emsp;(vi) an individual in a position which is excepted from the competitive service because of its confidential, policy-determining, policy-making, or policy-advocating character; and
+
+&emsp;(3) “Office” means the Office of Personnel Management.
+
+(Added Pub. L. 108–136, div. A, title XI, §1129(a), Nov. 24, 2003, 117 Stat. 1642.)
+
+#### Prior Provisions
+
+A prior section 5402, added Pub. L. 95–454, title V, §501, Oct. 13, 1978, 92 Stat. 1181; amended Pub. L. 98–615, title II, §201(a), Nov. 8, 1984, 98 Stat. 3208, related to applicability of chapter, prior to repeal by Pub. L. 103–89, §3(a)(1), (c), Sept. 30, 1993, 107 Stat. 981, 983, eff. Nov. 1, 1993.
+

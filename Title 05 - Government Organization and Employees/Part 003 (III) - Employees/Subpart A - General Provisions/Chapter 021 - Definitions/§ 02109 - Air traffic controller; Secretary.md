@@ -40,5 +40,5 @@ Section effective on 90th day after May 16, 1972, see, section 10 of Pub. L. 92â
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 49 section 44506.
+This section is referred to in sections 8331, 8401, 8415 of this title; title 49 section 44506.
 

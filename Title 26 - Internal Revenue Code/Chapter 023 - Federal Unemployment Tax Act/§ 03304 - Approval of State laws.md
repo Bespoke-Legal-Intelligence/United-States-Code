@@ -20,7 +20,7 @@ The Secretary of Labor shall approve any State law submitted to him, within 30 d
 
 &emsp;&emsp;(D) amounts may be deducted from unemployment benefits and used to repay overpayments as provided in section 303(g) of the Social Security Act;
 
-&emsp;&emsp;(E) amounts may be withdrawn for the payment of short-time compensation undera plan approved by the Secretary of Labor; and
+&emsp;&emsp;(E) amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and
 
 &emsp;&emsp;(F) amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t));
 
@@ -58,7 +58,7 @@ The Secretary of Labor shall approve any State law submitted to him, within 30 d
 
 &emsp;(9)(A) compensation shall not be denied or reduced to an individual solely because he files a claim in another State (or a contiguous country with which the United States has an agreement with respect to unemployment compensation) or because he resides in another State (or such a contiguous country) at the time he files a claim for unemployment compensation;
 
-&emsp;(B) the State shall participate in any arrangements for the payment of compensation on the basis of combining an individual's wages and employment covered under the State law with his wages and employment covered under the unemployment compensation law of other States which are approved by the Secretary of Labor in consultation with the State unemployment compensation agenciesas reasonably calculated to assure the prompt and full payment of compensation in such situations. Any such arrangement shall include provisions for (i) applying the base period of a single State law to a claim involving the combining of an individual's wages and employment covered under two or more State laws, and (ii) avoiding duplicate use of wages and employment by reason of such combining;
+&emsp;(B) the State shall participate in any arrangements for the payment of compensation on the basis of combining an individual's wages and employment covered under the State law with his wages and employment covered under the unemployment compensation law of other States which are approved by the Secretary of Labor in consultation with the State unemployment compensation agencies as reasonably calculated to assure the prompt and full payment of compensation in such situations. Any such arrangement shall include provisions for (i) applying the base period of a single State law to a claim involving the combining of an individual's wages and employment covered under two or more State laws, and (ii) avoiding duplicate use of wages and employment by reason of such combining;
 
 &emsp;(10) compensation shall not be denied to any individual by reason of cancellation of wage credits or total reduction of his benefit rights for any cause other than discharge for misconduct connected with his work, fraud in connection with a claim for compensation, or receipt of disqualifying income;
 
@@ -84,7 +84,7 @@ The Secretary of Labor shall approve any State law submitted to him, within 30 d
 
 &emsp;&emsp;(B) the State law may provide for limitations on the amount of any such a reduction to take into account contributions made by the individual for the pension, retirement or retired pay, annuity, or other similar periodic payment;
 
-&emsp;(16)(A) wage information contained in the records of the agency administering the State law which is necessary (as determined by the Secretary of Health and Human Services in regulations) for purposes of determining an individual's eligibility for assistance, or the amount of such assistance, under a State program funded under part A of title IV of the Social Security Act, shall be made available to a State or political subdivision thereof when such information is specifically requested by such State or political subdivision for such purposes,
+&emsp;(16)(A) wage information contained in the records of the agency administering the State law which is necessary (as determined by the Secretary of Health and Human Services in regulations) for purposes of determining an individual's eligibility for assistance, or the amount of such assistance, under a State program funded under part A of title IV of the Social Security Act, shall be made available to a State or political subdivision thereof when such information is specifically requested bysuch State or political subdivision for such purposes,
 
 &emsp;(B) wage and unemployment compensation information contained in the records of such agency shall be furnished to the Secretary of Health and Human Services (in accordance with regulations promulgated by such Secretary) as necessary for the purposes of the National Directory of New Hires established under section 453(i) of the Social Security Act, and
 
@@ -130,7 +130,7 @@ For purposes of subsection (a)(6), the term “institution of higher education�
 
 &emsp;(4) is a public or other nonprofit institution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 443; Pub. L. 91–373, title I, §§104(a), 108(a), 121(a), 131(b)(2), 142(f)–(h), title II, §206, Aug. 10, 1970, 84 Stat. 697, 701, 704, 707, 708, 712; Pub. L. 94–455, title XIX, §§1903(a)(14), 1906(b)(13)(C), (E), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §115(c)(1), (5), title III, §§312(a), (b), 314(a), title V, §506(b), Oct. 20, 1976, 90 Stat. 2670, 2671, 2679, 2680, 2687; Pub. L. 95–19, title III, §302(a), (c), (e), Apr. 12, 1977, 91 Stat. 44, 45; Pub. L. 95–171, §2(a), Nov. 12, 1977, 91 Stat. 1353; Pub. L. 95–216, title IV, §403(b), Dec. 20, 1977, 91 Stat. 1561; Pub. L. 96–364, title IV, §414(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, §2408(a), Aug. 13, 1981, 95 Stat. 880; Pub. L. 97–248, title I, §193(a), Sept. 3, 1982, 96 Stat. 408; Pub. L. 98–21, title V, §§515(b), 521(a), 523(a), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 99–272, title XII, §12401(b)(1), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVIII, §1899A(43), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–649, title I, §162(e)(4), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 102–164, title III, §302(a), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 102–318, title IV, §401(a)(1), July 3, 1992, 106 Stat. 298; Pub. L. 103–182, title V, §507(b)(1), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(b), (c)(1), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title I, §110(<i>l</i>)(1), formerly §110(<i>l</i>)(2), title III, §316(g)(2), Aug. 22, 1996, 110 Stat. 2173, 2218, renumbered Pub. L. 105–33, title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 443; Pub. L. 91–373, title I, §§104(a), 108(a), 121(a), 131(b)(2), 142(f)–(h), title II, §206, Aug. 10, 1970, 84 Stat. 697, 701, 704, 707, 708, 712; Pub. L. 94–455, title XIX, §§1903(a)(14), 1906(b)(13)(C), (E), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §115(c)(1), (5), title III, §§312(a), (b), 314(a), title V, §506(b), Oct. 20, 1976, 90 Stat. 2670, 2671, 2679, 2680, 2687; Pub. L. 95–19, title III, §302(a), (c), (e), Apr. 12, 1977, 91 Stat. 44, 45; Pub. L. 95–171, §2(a), Nov. 12, 1977, 91 Stat. 1353; Pub. L. 95–216, title IV, §403(b), Dec. 20, 1977, 91 Stat. 1561; Pub. L. 96–364, title IV, §414(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, §2408(a), Aug. 13, 1981, 95 Stat. 880; Pub. L. 97–248, title I, §193(a), Sept. 3, 1982, 96 Stat. 408; Pub. L. 98–21, title V, §§515(b), 521(a), 523(a), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 99–272, title XII, §12401(b)(1), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVIII, §1899A(43), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–649, title I, §162(e)(4), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 102–164, title III, §302(a), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 102–318, title IV, §401(a)(1), July 3, 1992, 106 Stat. 298; Pub. L. 103–182, title V, §507(b)(1), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(b), (c)(1), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title I, §110(<i>l</i>)(1), formerly §110(<i>l</i>)(2), title III, §316(g)(2), Aug. 22, 1996, 110 Stat. 2173, 2218, renumbered Pub. L. 105–33,title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33.)
 
 #### References in Text
 
@@ -212,7 +212,7 @@ Subsec. (a)(6)(A). Pub. L. 94–566, §115(c)(1), designated existing provisions
 
 Subsec. (a)(6)(B). Pub. L. 94–566, §506(b), substituted “section 3309(a)(1)” for “section 3309(a)(1)(A)”.
 
-Subsec. (a)(12). Pub. L. 94–566, §312(a), substituted provisions that no person shall be denied compensation under such State law solely on the basis of pregnancy or termination of pregnancy for provisions that each political subdivision of the State should have the right to elect to have compensation payable to employees thereof (whose services were not otherwise subject to such law) based on service performed by such employees in the hospitals and institutions of higher education (as defined in section 3309(d)) operated by such political subdivision; and, if any such political subdivision did elect to have compensation payable to such employees thereof (A) the political subdivision elected should pay into the State unemployment fund, with respect to the service of such employees, payments (in lieu of contributions), and (B) such employees would be entitled to receive, on the basis of such service, compensation payable on the same conditions as compensation which was payable on the basis of similar service for the State which was subject to such law.
+Subsec. (a)(12). Pub. L. 94–566, §312(a), substituted provisions that no person shall be denied compensation under such State law solely on the basis of pregnancy or termination of pregnancy for provisions that each political subdivision of the State should have the rightto elect to have compensation payable to employees thereof (whose services were not otherwise subject to such law) based on service performed by such employees in the hospitals and institutions of higher education (as defined in section 3309(d)) operated by such political subdivision; and, if any such political subdivision did elect to have compensation payable to such employees thereof (A) the political subdivision elected should pay into the State unemployment fund, with respect to the service of such employees, payments (in lieu of contributions), and (B) such employees would be entitled to receive, on the basis of such service, compensation payable on the same conditions as compensation which was payable on the basis of similar service for the State which was subject to such law.
 
 Subsec. (a)(13) to (16). Pub. L. 94–566, §314(a), added pars. (13) to (15) and redesignated former par. (13) as (16).
 
@@ -352,9 +352,115 @@ Section 121(b) of Pub. L. 91–373, as amended by Pub. L. 99–514, §2, Oct. 22
 
 Amendment by section 142(f)–(h) of Pub. L. 91–373 applicable with respect to taxable year 1972 and taxable years thereafter, see section 142(i) of Pub. L. 91–373, set out as a note under section 3302 of this title.
 
+#### Additional Temporary Extended Unemployment Compensation for Displaced Airline Related Workers
+
+Pub. L. 108–11, title IV, §4002, Apr. 16, 2003, 117 Stat. 607, provided that:
+
+“(a)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘eligible individual’ means an individual whose eligibility for temporary extended unemployment compensation under the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147; 116 Stat. 21) \[title II of Pub. L. 107–147, set out as a note below\], as amended by Public Law 108–1 (117 Stat. 3), is or would be based on the exhaustion of regular compensation under State law, entitlement to which was based in whole or in part on qualifying employment performed during such individual's base period;
+
+&emsp;“(2) the term ‘qualifying employment’, with respect to an eligible individual, means employment—
+
+&emsp;&emsp;“(A) with an air carrier, employment at a facility at an airport, or with an upstream producer or supplier for an air carrier; and
+
+&emsp;&emsp;“(B) as determined by the Secretary, separation from which was due, in whole or in part, to—
+
+&emsp;&emsp;&emsp;“(i) reductions in service by an air carrier as a result of a terrorist action or security measure;
+
+&emsp;&emsp;&emsp;“(ii) a closure of an airport in the United States as a result of a terrorist action or security measure; or
+
+&emsp;&emsp;&emsp;“(iii) a military conflict with Iraq that has been authorized by Congress;
+
+&emsp;“(3) the term ‘air carrier’ means an air carrier that holds a certificate issued under chapter 411 of title 49, United States Code;
+
+&emsp;“(4) the term ‘upstream producer’ means a firm that performs additional, value-added, production processes, including firms that perform final assembly, finishing, or packaging of articles, for another firm;
+
+&emsp;“(5) the term ‘supplier’ means a firm that produces component parts for, or articles and contract services considered to be a part of the production process or services for, another firm;
+
+&emsp;“(6) the term ‘Secretary’ means the Secretary of Labor; and
+
+&emsp;“(7) the term ‘terrorist action or security measure’ means a terrorist attack on the United States on September 11, 2001, or a security measure taken in response to such attack.
+
+“(b)
+
+Additional Temporary Extended Unemployment Compensation for Eligible Individual.—In the case of an eligible individual, the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147; 116 Stat. 21), as amended by Public Law 108–1 (117 Stat. 3), shall be applied as if it had been amended in accordance with subsection (c).
+
+“(c)
+
+Modifications.—
+
+&emsp;“(1)
+
+In general.—For purposes of subsection (b), the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147; 116 Stat. 21), as amended by Public Law 108–1 (117 Stat. 3), shall be treated as if it had been amended as provided in this subsection.
+
+&emsp;“(2)
+
+Program extension.—Deem section 208 of the Temporary Extended Unemployment Compensation Act of 2002, as amended by Public Law 108–1 (117 Stat. 3), to be amended to read as follows:
+
+#### “ ‘SEC. 208. APPLICABILITY.
+
+“ ‘(a)
+
+In General.—Subject to subsection (b), an agreement entered into under this title shall apply to weeks of unemployment—
+
+&emsp;“ ‘(1) beginning after the date on which such agreement is entered into; and
+
+&emsp;“ ‘(2) ending before December 29, 2003.
+
+“ ‘(b)
+
+Transition for Amount Remaining in Account.—
+
+&emsp;“ ‘(1)
+
+In general.—Subject to paragraph (2), in the case of an individual who has amounts remaining in an account established under section 203 as of December 28, 2003, temporary extended unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such date for which the individual meets the eligibility requirements of this title, including such compensation payable by reason of amounts deposited in such account after such date pursuant to the application of subsection (c) of such section.
+
+&emsp;“ ‘(2)
+
+Limitation.—No compensation shall be payable by reason of paragraph (1) for any week beginning after December 26, 2004.’.
+
+&emsp;“(3)
+
+Additional weeks of benefits.—Deem section 203 of the Temporary Extended Unemployment Compensation Act of 2002, as amended by Public Law 108–1 (117 Stat. 3), to be amended—
+
+&emsp;&emsp;“(A) in subsection (b)(1)—
+
+&emsp;&emsp;&emsp;“(i) in subparagraph (A), by striking ‘50’ and inserting ‘150’; and
+
+&emsp;&emsp;&emsp;“(ii) by striking ‘13’ and inserting ‘39’; and
+
+&emsp;&emsp;“(B) in subsection (c)(1), by inserting ‘1/3 of’ after ‘equal to’.
+
+&emsp;“(4)
+
+Effective date of modifications described in paragraph (3).—
+
+&emsp;&emsp;“(A)
+
+In general.—The amendments described in paragraph (3)—
+
+&emsp;&emsp;&emsp;“(i) shall be deemed to have taken effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002; but
+
+&emsp;&emsp;&emsp;“(ii) shall be treated as applying only with respect to weeks of unemployment beginning on or after the date of enactment of this Act \[Apr. 16, 2003\], subject to subparagraph (B).
+
+&emsp;&emsp;“(B)
+
+Special rules.—In the case of an eligible individual for whom a temporary extended unemployment account was established before the date of enactment of this Act \[Apr. 16, 2003\], the Temporary Extended Unemployment Compensation Act of 2002 (as amended by this section) shall be applied subject to the following:
+
+&emsp;&emsp;&emsp;“(i) Any amounts deposited in the individual's temporary extended unemployment compensation account by reason of section 203(c) of such Act (commonly known as ‘TEUC–X amounts’) before the date of enactment of this Act \[Apr. 16, 2003\] shall be treated as amounts deposited by reason of section 203(b) of such Act (commonly known as ‘TEUC amounts’), as deemed to have been amended by paragraph (3)(A).
+
+&emsp;&emsp;&emsp;“(ii) For purposes of determining whether the individual is eligible for any TEUC–X amounts under such Act, as deemed to be amended by this subsection—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) any determination made under section 203(c) of such Act before the application of the amendment described in paragraph (3)(B) shall be disregarded; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any such determination shall instead be made by applying section 203(c) of such Act, as deemed to be amended by paragraph (3)(B), as of the time that all amounts established in such account in accordance with section 203(b) of such Act (as deemed to be amended under this subsection, and including any amounts described in clause (i)) are in fact exhausted.”
+
 #### Temporary Extended Unemployment Compensation
 
-Pub. L. 107–147, title II, Mar. 9, 2002, 116 Stat. 26, provided that:
+Pub. L. 107–147, title II, Mar. 9, 2002, 116 Stat. 26, as amended by Pub. L. 108–1, §1(a), Jan. 8, 2003, 117 Stat. 3; Pub. L. 108–26, §2(a), May 28, 2003, 117 Stat. 751, provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
@@ -472,7 +578,7 @@ Assistance to States.—There are appropriated out of the employment security ad
 
 “(d)
 
-Appropriations for Certain Payments.—There are appropriated from the general fund of the Treasury,without fiscal year limitation, to the extended unemployment compensation account (as so established) of the Unemployment Trust Fund (as so established) such sums as the Secretary estimates to be necessary to make the payments under this section in respect of—
+Appropriations for Certain Payments.—There are appropriated from the general fund of the Treasury, without fiscal year limitation, to the extended unemployment compensation account (as so established) of the Unemployment Trust Fund (as so established) such sums as the Secretary estimates to be necessary to make the payments under this section in respect of—
 
 &emsp;“(1) compensation payable under chapter 85 of title 5, United States Code; and
 
@@ -520,11 +626,29 @@ Review.—Any determination by a State agency under this section shall be subjec
 
 #### “SEC. 208. APPLICABILITY.
 
-“An agreement entered into under this title shall apply to weeks of unemployment—
+“(a)
+
+In General.—Except as provided in subsection (b), an agreement entered into under this title shall apply to weeks of unemployment—
 
 &emsp;“(1) beginning after the date on which such agreement is entered into; and
 
-&emsp;“(2) ending before January 1, 2003.
+&emsp;“(2) ending on or before December 31, 2003.
+
+“(b)
+
+Transition for Amount Remaining in Account.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraphs (2) and (3), in the case of an individual who has amounts remaining in an account established under section 203 as of December 31, 2003, temporary extended unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such date for which the individual meets the eligibility requirements of this title.
+
+&emsp;“(2)
+
+No augmentation after december 31, 2003.—If the account of an individual is exhausted after December 31, 2003, then section 203(c) shall not apply and such account shall not be augmented under such section, regardless of whether such individual's State is in an extended benefit period (as determined under paragraph (2) of such section).
+
+&emsp;“(3)
+
+Limitation.—No compensation shall be payable by reason of paragraph (1) for any week beginning after March 31, 2004.
 
 #### “SEC. 209. SPECIAL REED ACT TRANSFER IN FISCAL YEAR 2002.
 
@@ -569,6 +693,10 @@ Technical Amendments.—
 “(e)
 
 Regulations.—The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this section and the amendments made by this section.”
+
+\[Pub. L. 108–26, §2(b), May 28, 2003, 117 Stat. 751, provided that: “The amendments made by this section \[amending section 208 of Pub. L. 107–147, set out above\] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147 \[title II\]; 116 Stat. 21 \[26\]).”\]
+
+\[Pub. L. 108–1, §1(b), Jan. 8, 2003, 117 Stat. 4, provided that: “The amendment made by this section \[amending section 208 of Pub. L. 107–147, set out above\] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147 \[title II\]; 116 Stat. 21 \[26\]).”\]
 
 #### Profiling of New Claimants for Regular Unemployment Compensation
 
@@ -670,7 +798,7 @@ Election by states.—Notwithstanding any other provision of Federal law (and if
 
 &emsp;“(2)
 
-Weeks of benefits during phase-out.—Notwithstanding subsection (b)(1)(B) or any other provision of law, whenever an extended compensation period is beginning in a State after February 5, 1994, an individual, who is entitled to extended compensationin the new extended compensation period (whether or not the individual applies therefor) and also has remaining entitlement to emergency unemployment compensation under this Act, shall be entitled to compensation under the program in which the individual's monetary entitlement (as of the beginning of the first week of the extended compensation period) is the greater.
+Weeks of benefits during phase-out.—Notwithstanding subsection (b)(1)(B) or any other provision of law, whenever an extended compensation period is beginning in a State after February 5, 1994, an individual, who is entitled to extended compensation in the new extended compensation period (whether or not the individual applies therefor) and also has remaining entitlement to emergency unemployment compensation under this Act, shall be entitled to compensation under the program in which the individual's monetary entitlement (as of the beginning of the first week of the extended compensation period) is the greater.
 
 #### “SEC. 102. EMERGENCY UNEMPLOYMENT COMPENSATION ACCOUNT.
 
@@ -898,7 +1026,7 @@ Transfer of Funds.—Notwithstanding any other provision of law, the Secretary o
 
 &emsp;“(1) to the extended unemployment compensation account (as established by section 905 of the Social Security Act \[42 U.S.C. 1105\]) such sums as are necessary to make payments to States under this Act by reason of the amendments made by sections 101 and 102 of the Unemployment Compensation Amendments of 1992 \[sections 101 and 102 of Pub. L. 102–318, amending this Act\], and
 
-&emsp;“(2) to the employment security administration account (as established by section 901 of the Social Security Act \[42 U.S.C. 1101\]) such sums as may be necessary for purposes of assisting States in meeting administrative costs by reason of the amendmentsmade by sections 101, 102, 201, and 202 of the Unemployment Compensation Amendments of 1992 \[sections 101, 102, 201, and 202 of Pub. L. 102–318, amending this Act and Pub. L. 91–373, set out below\].
+&emsp;“(2) to the employment security administration account (as established by section 901 of the Social Security Act \[42 U.S.C. 1101\]) such sums as may be necessary for purposes of assisting States in meeting administrative costs by reason of the amendments made by sections 101, 102, 201, and 202 of the Unemployment Compensation Amendments of 1992 \[sections 101, 102, 201, and 202 of Pub. L. 102–318, amending this Act and Pub. L. 91–373, set out below\].
 
 > There is hereby appropriated from such accounts the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
 
@@ -1006,7 +1134,7 @@ Provisions of Agreement.—Any agreement entered into with a State under this se
 
 &emsp;&emsp;“(A) random selection of eligible individuals for participation in the program and for inclusion in a control group, and
 
-&emsp;&emsp;“(B) collection of data on participants and members of a control group as of the close of the 1-yearperiod and 2-year period after the operations of the program cease,
+&emsp;&emsp;“(B) collection of data on participants and members of a control group as of the close of the 1-year period and 2-year period after the operations of the program cease,
 
 &emsp;“(4) provide that not more than 5 percent of the claimants for unemployment compensation under the State law shall be selected as participants in the job search assistance program, and
 
@@ -1170,7 +1298,7 @@ Waiver of rights to certain regular benefits.—If—
 
 \[Section 3(b) of Pub. L. 102–182 provided that: “The amendments made by this section \[amending Pub. L. 102–164, set out above, and provisions set out as a note under section 352 of Title 45, Railroads\] shall apply as if included in the provisions of and the amendments made by the ‘Emergency Unemployment Compensation Act of 1991 \[Pub. L. 102–164, see section 1 set out above\].’ ”\]
 
-\[Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 541, which enacted the “Emergency Unemployment Compensation Act of 1991” containing provisions similar to those enacted by Pub. L. 102–164, set out above, did not become effective pursuant to section 10(b) of Pub. L. 102–207, which required certain action to have been taken by the President.\]
+\[Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 541, which enacted the “Emergency Unemployment CompensationAct of 1991” containing provisions similar to those enacted by Pub. L. 102–164, set out above, did not become effective pursuant to section 10(b) of Pub. L. 102–207, which required certain action to have been taken by the President.\]
 
 #### Determination of Amount of Federal Share With Respect to Certain Extended Benefits Payments
 
@@ -1248,7 +1376,7 @@ Evaluation.—(1) Each State that enters into an agreement under this section sh
 
 Financing.—(1) Notwithstanding section 303(a)(5) of the Social Security Act \[42 U.S.C. 503(a)(5)\] and section 3304(a)(4) of the Internal Revenue Code of 1986, amounts in the unemployment fund of a State may be used by a State to make payments (exclusive of expenses of administration) for self-employment allowances made under this section to an individual who is receiving them in lieu of regular unemployment compensation.
 
-“(2) In any case in which a self-employment allowance is made under this section to an individual in lieu of extended unemployment compensation under the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, set out below\], payments made under this section for self-employment allowances shall be considered to be compensation described in section 204(a)(1) of such Act and paid under State law.
+“(2) In any case in which a self-employment allowance is made under this section to an individual in lieuof extended unemployment compensation under the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, set out below\], payments made under this section for self-employment allowances shall be considered to be compensation described in section 204(a)(1) of such Act and paid under State law.
 
 “(f)
 
@@ -1424,7 +1552,7 @@ Section 194 of Pub. L. 97–248 provided that:
 
 &emsp;“(2) the amount of unemployment compensation payable to any such individual shall be a pro rata portion of the unemployment compensation which would be payable to the individual if the individual were totally unemployed;
 
-&emsp;“(3) eligible employees may be eligible for short-time compensation or regular unemployment compensation, as needed; except that no employee shall be eligible for more than the maximum entitlement during any benefit year to which he or she would have been entitled for total unemployment, and no employee shall be eligible for short-time compensation for more than twenty-six weeks in any twelve-month period; and
+&emsp;“(3) eligible employees may be eligible for short-time compensation or regular unemployment compensation, as needed; except that no employee shall be eligible for more than the maximum entitlementduring any benefit year to which he or she would have been entitled for total unemployment, and no employee shall be eligible for short-time compensation for more than twenty-six weeks in any twelve-month period; and
 
 &emsp;“(4) eligible employees will not be expected to meet the availability for work or work search test requirements while collecting short-time compensation benefits, but shall be available for their normal workweek.
 
@@ -1506,7 +1634,7 @@ Sec. 602. (a) Any State which desires to do so may enter into and participate in
 
 &emsp;“(1) the amount of the Federal supplemental compensation which shall be payable to any individual for any week of total unemployment shall be equal to the amount of the regular compensation (including dependents’ allowances) payable to him during his benefit year under the State law for a week of total unemployment;
 
-&emsp;“(2) the terms and conditions of the State law which apply to claims for extended compensation and to the payment thereof shall apply to claims for Federal supplemental compensation and the payment thereof; except where inconsistent with the provisions of this subtitle or with the regulations of the Secretary promulgated to carry out this subtitle; and
+&emsp;“(2) the terms and conditions of the State law which apply to claims for extended compensation andto the payment thereof shall apply to claims for Federal supplemental compensation and the payment thereof; except where inconsistent with the provisions of this subtitle or with the regulations of the Secretary promulgated to carry out this subtitle; and
 
 &emsp;“(3) the maximum amount of Federal supplemental compensation payable to any individual for whom an account is established under subsection (e) shall not exceed the lesser of (A) the amount established in such account for such individual, or (B) in the case of an individual filing a claim under the interstate benefit payment plan for Federal supplemental compensation, the amount which would have been established in such account if the amount established in such account were determined by reference to the applicable limit under subparagraph (A)(ii) of subsection (e)(2) applicable in the State in which the individual is filing such interstate claim under the interstate benefit payment plan for the week in which he is filing such claim.
 
@@ -1631,7 +1759,7 @@ Sec. 602. (a) Any State which desires to do so may enter into and participate in
 
 &emsp;“(B) September 12, 1982.
 
-“(2)(A) Except as provided in subparagraph (B), no Federal supplemental compensation shall be payable toany individual under an agreement entered into under this subtitle for any week beginning after March 31, 1985.
+“(2)(A) Except as provided in subparagraph (B), no Federal supplemental compensation shall be payable to any individual under an agreement entered into under this subtitle for any week beginning after March 31, 1985.
 
 “(B) In the case of any individual who is receiving Federal supplemental compensation for the week which includes March 31, 1985, such compensation shall continue to be payable to such individual in accordance with subsection (e) for any week thereafter, in a period of consecutive weeks for each of which he meets the eligibility requirements of this Act.
 
@@ -1693,7 +1821,7 @@ Sec. 606. (a)(1) If an individual knowingly has made, or caused to be made by an
 
 “(C) No repayment shall be required, and no deduction shall be made, until a determination has been made, notice thereof and an opportunity for a fair hearing has been given to the individual, and the determination has become final.
 
-“(3) Any determination by a State agency under paragraph (1) or (2) shall be subject to review in thesame manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.”
+“(3) Any determination by a State agency under paragraph (1) or (2) shall be subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.”
 
 \[Pub. L. 98–135, §1, 97 Stat. 857, provided that: “This Act \[amending section 3306 of this title and sections 1323 and 1397b of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, section 3306 of this title, and section 1323 of Title 42, and amending provisions set out as notes under this section\] may be cited as the ‘Federal Supplemental Compensation Amendments of 1983’.”\]
 
@@ -1741,7 +1869,7 @@ New Periods Begin With First Week After October 18, 1983.—For purposes of dete
 
 > such individual's eligibility for additional weeks of compensation by reason of the amendments made by this part shall not be limited or terminated by reason of any event, or failure to meet any requirement of law relating to eligibility for unemployment compensation, occurring after the date of such exhaustion of rights and before April 1, 1983 (and the period after such exhaustion and before April 1, 1983, shall not be counted for purposes of determining the expiration of the two years following the end of his benefit year for purposes of section 602(b) of the Federal Supplemental Compensation Act of 1982 \[section 602(b) of Pub. L. 97–248, set out above\]).
 
-\[“(c) The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of thisAct \[Apr. 20, 1983\], propose to each State with which he has in effect an agreement under section 602 of the Federal Supplemental Compensation Act of 1982 \[section 602 of Pub. L. 97–248, set out above\] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act \[subtitle A of title VI of Pub. L. 97–248, set out above\] in accordance with the amendments made by this part. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposed such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before such 3-week period.”\]
+\[“(c) The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Apr. 20, 1983\], propose to each State with which he has in effect an agreement under section 602 of the Federal Supplemental Compensation Act of 1982 \[section 602 of Pub. L. 97–248, set out above\] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act \[subtitle A of title VI of Pub. L. 97–248, set out above\] in accordance with the amendments made by this part. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposed such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before such 3-week period.”\]
 
 #### Modification of Agreements Under Federal Supplemental Compensation Act of 1982
 
@@ -1881,7 +2009,7 @@ Sec. 101. \[Short title\]. This Act \[enacting this note and amending Pub. L. 91
 
 “
 
-Sec. 102. \[Federal-State agreements\]. (a) \[State law requirements; termination of agreement\]. Any State, the State unemployment compensation law of which is approved by the Secretary of Labor (hereinafter in this Act referred to as the ‘Secretary’) under section 3304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which desires to do so, may enter into and participate in an agreement with the Secretary under this Act, if such State law contains (as of the date such agreement is entered into) a requirement that extended compensation be payable thereunder as provided by the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, set out below\]. Any State which is a party to an agreement under this Act may,upon providing thirty days’ written notice to the Secretary, terminate such agreement.
+Sec. 102. \[Federal-State agreements\]. (a) \[State law requirements; termination of agreement\]. Any State, the State unemployment compensation law of which is approved by the Secretary of Labor (hereinafter in this Act referred to as the ‘Secretary’) under section 3304 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which desires to do so, may enter into and participate in an agreement with the Secretary under this Act, if such State law contains (as of the date such agreement is entered into) a requirement that extended compensation be payable thereunder as provided by the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, set out below\]. Any State which is a party to an agreement under this Act may, upon providing thirty days’ written notice to the Secretary, terminate such agreement.
 
 “(b) \[Emergency compensation\]. Any such agreement shall provide that the State agency of the State will make payments of emergency compensation—
 
@@ -2031,7 +2159,7 @@ Sec. 105. (a) \[Definitions\]. For purposes of this Act—
 
 &emsp;“(2) the term ‘period of eligibility’ means, in the case of any individual, the weeks in his benefit year which begin in an extended benefit period or an emergency benefit period and, if his benefit year ends within such extended benefit period, any weeks thereafter which begin in such extended benefit period or in such emergency benefit period;
 
-&emsp;“(3) the term ‘extended benefit period’ shall have the meaning assigned to such term under section 203of the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, §203, set out below\];
+&emsp;“(3) the term ‘extended benefit period’ shall have the meaning assigned to such term under section 203 of the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, §203, set out below\];
 
 &emsp;“(4) the term ‘additional eligibility period’ means the thirteen-week period following the week in which an emergency benefit period ends in a State, as determined under section 102(c)(3); but no individual shall have an additional eligibility period unless there was payable to him in such State, for the week in which such emergency benefit period ended, either emergency compensation under this Act or extended compensation under the Federal-State Extended Unemployment Compensation Act of 1970 \[Pub. L. 91–373, title II, set out below\];
 
@@ -2081,7 +2209,7 @@ Sec. 105. (a) \[Definitions\]. For purposes of this Act—
 
 #### Modification of Agreements With States To Reflect Amendments Under Emergency Unemployment Compensation Extension Act of 1977
 
-Section 106 of Pub. L. 95–19 provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Apr. 12, 1977\], propose to each State with which he has in effect an agreement under section 102 of the Emergency Compensation Act of 1974 \[Pub. L. 93–572, set out above\] a modification of such agreement designed to provide for the payment of emergency compensation under such Act in accordance with the amendments made by this title \[enacting sections 102(h) and 105(b) of the Emergency Unemployment Compensation Act of 1974, amending sections 102(b)(2), (c)(3)(A)(ii), (e), (f)(2),104(b), and 105(a) of that Act, and enacting provisions set out as notes under this section\]. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposes such a modification of such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such 3-week period.”
+Section 106 of Pub. L. 95–19 provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Apr. 12, 1977\], propose to each State with which he has in effect an agreement under section 102 of the Emergency Compensation Act of 1974 \[Pub. L. 93–572, set out above\] a modification of such agreement designed to provide for the payment of emergency compensation under such Act in accordance with the amendments made by this title \[enacting sections 102(h) and 105(b) of the Emergency Unemployment Compensation Act of 1974, amending sections 102(b)(2), (c)(3)(A)(ii), (e), (f)(2), 104(b), and 105(a) of that Act, and enacting provisions set out as notes under this section\]. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposes such a modification of such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such 3-week period.”
 
 #### Modification of Agreements With States To Reflect Amendments Under Unemployment Compensation Amendments of 1976
 
@@ -2123,7 +2251,7 @@ Sec. 202. Each State which enters into an agreement with the Secretary of Labor,
 
 Sec. 203. (a) An individual shall be eligible to receive a payment of assistance or waiting period credit with respect to a week of unemployment occurring during and subsequent to a special unemployment assistance period in accordance with the provisions of this part if—
 
-&emsp;“(1) the individual is not eligible for compensation under any State or Federal unemployment compensation law (including the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.)) with respect to such week of unemployment, and is not receiving compensation with respect to such week of unemployment under the unemployment compensation law of Canada and is not eligible for assistance or an allowance payable with respect to such week of unemployment under such laws as the Public Works and Economic Development Act Amendments of 1974 \[42 U.S.C. 3121 et seq.\], the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\], the Trade Expansion Act of 1962, as amended \[19 U.S.C. 1801 et seq.\], or any successor legislation or similar legislation, as determined by the Secretary: <i>Provided</i>, That the individual meets the qualifying employment and wage requirements of the applicable State unemployment compensation law in the base period; and, for purposes of this proviso, employment and wages which are not covered by the State law shall be treated as though they were covered, except that employment and wages covered by any State or Federal unemployment compensationlaw, including the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.), shall be excluded to the extent that the individual is or was entitled to compensation for unemployment thereunder on the basis of such employment and wages; and
+&emsp;“(1) the individual is not eligible for compensation under any State or Federal unemployment compensation law (including the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.)) with respect to such week of unemployment, and is not receiving compensation with respect to such week of unemployment under the unemployment compensation law of Canada and is not eligible for assistance or an allowance payable with respect to such week of unemployment under such laws as the Public Works and Economic Development Act Amendments of 1974 \[42 U.S.C. 3121 et seq.\], the Disaster Relief Act of 1974 \[42 U.S.C. 5121 et seq.\], the Trade Expansion Act of 1962, as amended \[19 U.S.C. 1801 et seq.\], or any successor legislation or similar legislation, as determined by the Secretary: <i>Provided</i>, That the individual meets the qualifying employment and wage requirements of the applicable State unemployment compensation law in the base period; and, for purposes of this proviso, employment and wages which are not covered by the State law shall be treated as though they were covered, except that employment and wages covered by any State or Federal unemployment compensation law, including the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.), shall be excluded to the extent that the individual is or was entitled to compensation for unemployment thereunder on the basis of such employment and wages; and
 
 &emsp;“(2) the individual is totally or partially unemployed, and is able to work, available for work, and seeking work, within the meaning of, or as required by, the applicable State unemployment compensation law, and is not subject to disqualification under that law; and
 
@@ -2167,7 +2295,7 @@ Sec. 204. (a) A special unemployment assistance period shall commence in an area
 
 “
 
-Sec. 205. (a) The amount of assistance under this part to which an eligible individual shall be entitled for a week of unemployment shall be the weekly benefit amount for a week of unemployment that would be payable to the individual as regular compensation as computed under the provisions of the applicable State unemployment compensation law. For purposes of the preceding sentence, employment and wages which are not covered by the applicable State unemployment compensation law shall be treated as though they were covered, except that employment and wages covered by any State or Federal unemployment compensation law, including the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.), shall be excluded to the extent that the individual is or was entitled to compensation for unemployment thereunder on the basis of such employment and wages.
+Sec. 205. (a) The amount of assistance under this part to which an eligible individual shall be entitled fora week of unemployment shall be the weekly benefit amount for a week of unemployment that would be payable to the individual as regular compensation as computed under the provisions of the applicable State unemployment compensation law. For purposes of the preceding sentence, employment and wages which are not covered by the applicable State unemployment compensation law shall be treated as though they were covered, except that employment and wages covered by any State or Federal unemployment compensation law, including the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.), shall be excluded to the extent that the individual is or was entitled to compensation for unemployment thereunder on the basis of such employment and wages.
 
 “(b) Notwithstanding any provisions of State law, claims for assistance under this part may be determined, where an employment record is not available, on the basis of an affidavit submitted by an applicant.
 
@@ -2183,7 +2311,7 @@ Sec. 205. (a) The amount of assistance under this part to which an eligible indi
 
 &emsp;“(B) such repayment would be contrary to equity and good conscience.
 
-“(2) The State agency may recover the amount to be repaid, or any part thereof, by deductions from any assistance payable under this part or from any unemployment compensation payable to such individual under any Federal unemployment compensation law administered by the State agency or under any other Federal law administered by the State agency which provides for the payment of any assistance or allowance with respect to any week of unemployment, during the three-year period after the date such individuals received thepayment of the assistance to which they were not entitled, except that no single deduction may exceed 50 per centum of the weekly benefit amount from which such deduction is made.
+“(2) The State agency may recover the amount to be repaid, or any part thereof, by deductions from any assistance payable under this part or from any unemployment compensation payable to such individual under any Federal unemployment compensation law administered by the State agency or under any other Federal law administered by the State agency which provides for the payment of any assistance or allowance with respect to any week of unemployment, during the three-year period after the date such individuals received the payment of the assistance to which they were not entitled, except that no single deduction may exceed 50 per centum of the weekly benefit amount from which such deduction is made.
 
 “(3) No repayment shall be required, and no deduction shall be made, until a determination has been made, notice thereof and an opportunity for a fair hearing has been given to the individual, and the determination has become final.
 
@@ -2317,7 +2445,7 @@ Sec. 223. As used in this part, the term—
 
 \[Section 204(b)–(e) of Pub. L. 94–45 provided that:
 
-\[“(b) Assistance shall be payable to individuals under agreements entered into by States under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[Pub. L. 93–567, set out above\], by reason of the amendments made by section 201 of this Act \[amending sections 206 and 208 of the Emergency Jobs and Unemployment Assistance Act of 1974\], for weeks of unemployment beginning on or after July 1, 1975.
+\[“(b) Assistance shall be payable to individuals under agreements entered into by States under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[Pub. L. 93–567, set out above\], by reason of theamendments made by section 201 of this Act \[amending sections 206 and 208 of the Emergency Jobs and Unemployment Assistance Act of 1974\], for weeks of unemployment beginning on or after July 1, 1975.
 
 \[“(c) The amendments made by section 202 and subsections (c) and (d) of section 203 \[enacting sections 203(b) and 206(b) of the Emergency Jobs and Unemployment Assistance Act of 1974\] shall apply to weeks of unemployment beginning after the date of the enactment of this Act \[June 30, 1975\].
 
@@ -2331,7 +2459,7 @@ Section 204(a) of Pub. L. 94–45, June 30, 1975, 89 Stat. 242, provided that: �
 
 #### Special Unemployment Assistance Programs; Individuals Performing Services for Educational Institutions or Agencies
 
-Pub. L. 94–32, title I, §101, June 12, 1975, 89 Stat. 178, provided in part that: “Funds appropriated by this Act \[Second Supplemental Appropriations Act, 1975\], or any other Act, for the payments of special unemployment assistance under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[Pub. L. 93–567, titleII, set out above\] shall not be used for making such payments of assistance or waiting period credit, beginning after the date of enactment of this Act \[June 12, 1975\], to any individual who performs services in an instructional, research, or principal administrative capacity for an educational institution or agency with respect to any week commencing during the period between two successive academic years (or, when the contract provides instead for a similar period between two regular but not successive terms, during such similar period) if—
+Pub. L. 94–32, title I, §101, June 12, 1975, 89 Stat. 178, provided in part that: “Funds appropriated by this Act \[Second Supplemental Appropriations Act, 1975\], or any other Act, for the payments of special unemployment assistance under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[Pub. L. 93–567, title II, set out above\] shall not be used for making such payments of assistance or waiting period credit, beginning after the date of enactment of this Act \[June 12, 1975\], to any individual who performs services in an instructional, research, or principal administrative capacity for an educational institution or agency with respect to any week commencing during the period between two successive academic years (or, when the contract provides instead for a similar period between two regular but not successive terms, during such similar period) if—
 
 &emsp;“(1) such individual performed services in any such capacity for any educational institution or agency for the first of such academic years or terms; and
 
@@ -2383,7 +2511,7 @@ Sec. 202 \[Federal-State agreements\]. (a) \[State law requirements; termination
 
 “(ii) In the case of any State, no emergency benefit period shall last for a period of less than 26 consecutive weeks.
 
-“(iii) When a determination has been made that an emergency benefit period is beginning or ending with respect to any State, the Secretary shall cause notice of such determination to be published in the Federal Register.
+“(iii) When a determination has been made that an emergency benefit period is beginning or ending withrespect to any State, the Secretary shall cause notice of such determination to be published in the Federal Register.
 
 “(B)(i) For purposes of subparagraph (A), there is a State ‘emergency on’ indicator for a week if—
 
@@ -2407,7 +2535,7 @@ Sec. 202 \[Federal-State agreements\]. (a) \[State law requirements; termination
 
 “(d) \[Amount of emergency compensation; terms and conditions of State law for regular compensation\] For purposes of any agreement under this title—
 
-&emsp;“(1) the amount of the emergency compensation which shall be payable to any individual for any weekof total unemployment shall be equal to the amount of the regular compensation (including dependents’ allowances) payable to him during his benefit year under the State law; and
+&emsp;“(1) the amount of the emergency compensation which shall be payable to any individual for any week of total unemployment shall be equal to the amount of the regular compensation (including dependents’ allowances) payable to him during his benefit year under the State law; and
 
 &emsp;“(2) the terms and conditions of the State law which apply to claims for regular compensation and to the payment thereof shall (except where inconsistent with the provisions of this title or regulations of the Secretary promulgated to carry out this title) apply to claims for emergency compensation and the payment thereof.
 
@@ -2461,7 +2589,7 @@ Sec. 206 \[Report by Secretary of Labor\]. (a) The Secretary of Labor shall cond
 
 #### Federal-State Extended Unemployment Compensation Act of 1970
 
-Pub. L. 91–373, title II, §§201–207, Aug. 10, 1970, 84 Stat. 708–712, as amended by Pub. L. 92–599, title V, §501, Oct. 27, 1972, 86 Stat. 1326; Pub. L. 93–53, §5, July 1, 1973, 87 Stat. 137; Pub. L. 93–233, §20, Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–256, §2, Mar. 28, 1974, 88 Stat. 53; Pub. L. 93–329, §2, June 30, 1974, 88 Stat. 288; Pub. L. 93–368, §3, Aug. 7, 1974, 88 Stat. 420; Pub. L. 93–572, §§106–108, Dec. 31, 1974, 88 Stat. 1872; Pub. L. 94–45, title I, §102(b), June 30, 1975, 89 Stat. 238; Pub. L. 94–566, title I, §116(d)(1), (2),title II, §212(a), title III, §311(a), (b), Oct. 20, 1976, 90 Stat. 2672, 2677, 2678; Pub. L. 96–364, title IV, §416(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 96–499, title X, §§1022(a), 1024(a), Dec. 5, 1980, 94 Stat. 2656, 2658; Pub. L. 97–35, title XXIV, §§2401(a), (b), 2402(a), 2403(a), 2404(a), (b), title XXV, §2505(b), Aug. 13, 1981, 95 Stat. 874, 875, 876, 884; Pub. L. 97–248, title I, §191(a), Sept. 3, 1982, 96 Stat. 407; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1081; Pub. L. 98–21, title V, §522(a), Apr. 20, 1983, 97 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–318, title II, §§201, 202(a)(1), (b)(1), July 3, 1992, 106 Stat. 295, 296, provided:
+Pub. L. 91–373, title II, §§201–207, Aug. 10, 1970, 84 Stat. 708–712, as amended by Pub. L. 92–599, title V, §501, Oct. 27, 1972, 86 Stat. 1326; Pub. L. 93–53, §5, July 1, 1973, 87 Stat. 137; Pub. L. 93–233, §20, Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–256, §2, Mar. 28, 1974, 88 Stat. 53; Pub. L. 93–329, §2, June 30, 1974, 88 Stat. 288; Pub. L. 93–368, §3, Aug. 7, 1974, 88 Stat. 420; Pub. L. 93–572, §§106–108, Dec. 31, 1974, 88 Stat. 1872; Pub. L. 94–45, title I, §102(b), June 30, 1975, 89 Stat. 238; Pub. L. 94–566, title I, §116(d)(1), (2), title II, §212(a), title III, §311(a), (b), Oct. 20, 1976, 90 Stat. 2672, 2677, 2678; Pub. L. 96–364, title IV, §416(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 96–499, title X, §§1022(a), 1024(a), Dec. 5, 1980, 94 Stat. 2656, 2658; Pub. L. 97–35, title XXIV, §§2401(a), (b), 2402(a), 2403(a), 2404(a), (b), title XXV, §2505(b), Aug. 13, 1981, 95 Stat. 874, 875, 876, 884; Pub. L. 97–248, title I, §191(a), Sept. 3, 1982, 96 Stat. 407; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1081; Pub. L. 98–21, title V, §522(a), Apr. 20, 1983, 97 Stat. 148; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–318, title II, §§201, 202(a)(1), (b)(1), July 3, 1992, 106 Stat. 295, 296, provided:
 
 “
 
@@ -2523,7 +2651,7 @@ Sec. 202. \[Payment of Extended Compensation\]
 
 “(4) No provision of State law which terminates a disqualification for voluntarily leaving employment, being discharged for misconduct, or refusing suitable employment shall apply for purposes of determining eligibility for extended compensation unless such termination is based upon employment subsequent to the date of such disqualification.
 
-“(5) Notwithstanding the provisions of paragraph (2), an individual shall not be eligible for extended compensation unless, in the base period with respect to which the individual exhausted all rights to regular compensation under the State law, the individual had 20 weeks of full-time insured employment, or the equivalent in insured wages. For purposes of this paragraph, the equivalent in insured wages shall be earnings covered by the State law for compensation purposes which exceed 40 times the individual's most recent weekly benefit amount or 11/2 times the individual's insured wages in that calendar quarter of the base period in which the individual's insured wages were the highest (or one such quarter if his wages were the same for more than one such quarter). The State shall by lawprovide which one or more of the foregoing methods of measuring employment and earnings shall be used in that State.
+“(5) Notwithstanding the provisions of paragraph (2), an individual shall not be eligible for extended compensation unless, in the base period with respect to which the individual exhausted all rights to regular compensation under the State law, the individual had 20 weeks of full-time insured employment, or the equivalent in insured wages. For purposes of this paragraph, the equivalent in insured wages shall be earnings covered by the State law for compensation purposes which exceed 40 times the individual's most recent weekly benefit amount or 11/2 times the individual's insured wages in that calendar quarter of the base period in which the individual's insured wages were the highest (or one such quarter if his wages were the same for more than one such quarter). The State shall by law provide which one or more of the foregoing methods of measuring employment and earnings shall be used in that State.
 
 “(6) No payment shall be made under this Act \[see Short Title of 1970 Amendment note set out under section 3311 of this title\] to any State in respect of any extended compensation or sharable regular compensation paid to any individual for any week if, under the rules of paragraphs (3), (4), and (5), extended compensation would not have been payable to such individual for such week.
 
@@ -2683,7 +2811,7 @@ Sec. 207. \[Effective Dates\] (a) Except as provided in subsection (b)—
 
 “(b)(1) In the case of a State law approved under section 3304(a)(11) of the Internal Revenue Code of 1986, such State law may also provide that an extended benefit period may begin with a week established pursuant to such law which begins earlier than January 1, 1972, but not earlier than 60 days after the date of the enactment of this Act \[Aug. 10, 1970\].
 
-“(2) For purposes of paragraph (1) with respect to weeks beginning before January 1, 1972, the extendedbenefit period for the State shall be determined under section 203(a) solely by reference to the State ‘on’ indicator and the State ‘off’ indicator.
+“(2) For purposes of paragraph (1) with respect to weeks beginning before January 1, 1972, the extended benefit period for the State shall be determined under section 203(a) solely by reference to the State ‘on’ indicator and the State ‘off’ indicator.
 
 “(3) In the case of a State law containing a provision described in paragraph (1), section 204 shall also apply with respect to weeks of unemployment in extended benefit periods determined pursuant to paragraph (1).
 
@@ -2725,7 +2853,7 @@ Waiver of recovery of certain overpayments.—On and after the date of the enact
 
 \[Section 1022(b) of Pub. L. 96–499 provided that:
 
-\[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending section 204(a)(2) of Pub. L. 91–373, set out above\] shall apply in the case of compensation paid to individuals during eligibility periods beginning on or after the date of the enactment of this Act \[Dec. 5, 1980\].
+\[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending section 204(a)(2)of Pub. L. 91–373, set out above\] shall apply in the case of compensation paid to individuals during eligibility periods beginning on or after the date of the enactment of this Act \[Dec. 5, 1980\].
 
 \[“(2) In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to eliminate its current policy of paying regular compensation to an individual for his first week of otherwise compensable unemployment, the amendments made by this section \[amending section 204(a)(2) of Pub. L. 91–373, set out above\] shall apply in the case of compensation paid to individuals during eligibility periods beginning after the end of the first regularly scheduled session of the State legislature ending more than thirty days after the date of the enactment of this Act \[Dec. 5, 1980\].”\]
 
@@ -2745,7 +2873,7 @@ Special rule for certain states.—In the case of any State the legislature of w
 
 \[Section 212(b) of Pub. L. 94–566 provided that: “The amendment made by this section \[enacting section 204(a)(4) of Pub. L. 91–373, set out above\] shall apply with respect to compensation paid for weeks of unemployment beginning on or after January 1, 1979.”\]
 
-\[Section 311(c) of Pub. L. 94–566 provided that: “The amendment made by subsection (a) of this section \[amending section 203(d) of Pub. L. 91–373, set out above\] shall apply to weeks beginning after December31, 1976, and the amendments made by subsection (b) of this section \[amending section 203(e) of Pub. L. 91–373, set out above\] shall apply to weeks beginning after March 30, 1977.”\]
+\[Section 311(c) of Pub. L. 94–566 provided that: “The amendment made by subsection (a) of this section \[amending section 203(d) of Pub. L. 91–373, set out above\] shall apply to weeks beginning after December 31, 1976, and the amendments made by subsection (b) of this section \[amending section 203(e) of Pub. L. 91–373, set out above\] shall apply to weeks beginning after March 30, 1977.”\]
 
 #### Study and Report by Secretary of Labor Covering Emergency Unemployment Compensation Program and Special Unemployment Assistance Program; Report On or Before Jan. 1, 1977
 

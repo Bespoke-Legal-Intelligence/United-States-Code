@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available under section 6533 of this title for a fiscal year, the Secretary shall award grants to State educational agencies having applications approved under this sectionto enable the State educational agencies to reimburse low-income individuals to cover part or all of the costs of advanced placement test fees, if the low-income individuals—
+From amounts made available under section 6533 of this title for a fiscal year, the Secretary shall award grants to State educational agencies having applications approved under this section to enable the State educational agencies to reimburse low-income individuals to cover part or all of the costs of advanced placement test fees, if the low-income individuals—
 
 &emsp;(1) are enrolled in an advanced placement course; and
 

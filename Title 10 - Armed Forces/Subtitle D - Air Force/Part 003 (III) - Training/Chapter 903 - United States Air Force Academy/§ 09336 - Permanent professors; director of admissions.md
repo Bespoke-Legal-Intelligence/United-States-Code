@@ -1,10 +1,10 @@
 ### §9336. Permanent professors; director of admissions
 
-(a) A permanent professor of the Academy, other than the Dean of the Faculty, who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Air Force has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
+(a) A permanent professor of the Academy who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Air Force has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
 
 (b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Air Force has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–600, §1(22), Aug. 6, 1958, 72 Stat. 524; Pub. L. 85–861, §33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–513, title II, §218(b), title V, §504(24), Dec. 12, 1980, 94 Stat. 2886, 2917; Pub. L. 98–525, title V, §533(d)(2), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 101–189, div. A, title V, §515(a)(4), (b)(1), Nov. 29, 1989, 103 Stat. 1441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–600, §1(22), Aug. 6, 1958, 72 Stat. 524; Pub. L. 85–861, §33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–513, title II, §218(b), title V, §504(24), Dec. 12, 1980, 94 Stat. 2886, 2917; Pub. L. 98–525, title V, §533(d)(2), Oct. 19, 1984, 98 Stat. 2528; Pub. L. 101–189, div. A, title V, §515(a)(4), (b)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 108–136, div. A, title V, §529(c)(2), Nov. 24, 2003, 117 Stat. 1472.)
 
 Historical and Revision Notes<br>1956
 
@@ -30,6 +30,8 @@ The word “regular” is deleted \[in sections 9335 and 9336\] to make clear th
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–136 struck out “, other than the Dean of the Faculty,” after “Academy”.
+
 1989—Pub. L. 101–189, §515(b), substituted “director of admissions” for “registrar” in section catchline.
 
 Subsec. (b). Pub. L. 101–189, §515(a)(4), substituted “director of admissions” for “registrar” in three places.
@@ -47,6 +49,10 @@ Subsec. (a). Pub. L. 85–861 substituted “has the grade of colonel” for “
 Pub. L. 85–600, §1(22)(A), designated existing provisions as subsec. (a).
 
 Subsecs. (b), (c). Pub. L. 85–600, §1(22)(B), added subsecs. (b) and (c).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–136 applicable with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after Nov. 24, 2003, see section 529(d) of Pub. L. 108–136, set out as a note under section 9331 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -1,6 +1,6 @@
 ### §1447. Place of entry and unlading
 
-It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof of any vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
+It shall be unlawful to make entry of any vessel or to unlade the cargo or any part thereof ofany vessel elsewhere than at a port of entry: <i>Provided</i>, That upon good cause therefor being shown, the Commissioner of Customs may permit entry of any vessel to be made at a place other than a port of entry designated by him, under such conditions as he shall prescribe: <i>And provided further</i>, That any vessel laden with merchandise in bulk may proceed after entry of such vessel to any place designated by the Secretary of the Treasury for the purpose of unlading such cargo, under the supervision of customs officers if the Customs Service considers the same necessary, and in such case the compensation and expenses of such officers shall be reimbursed to the Government by the party in interest.
 
 (June 17, 1930, ch. 497, title IV, §447, 46 Stat. 714; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §649(a), Dec. 8, 1993, 107 Stat. 2208.)
 
@@ -12,7 +12,7 @@ Provisions concerning the place of entry and unlading of foreign vessels and ves
 
 Special provisions concerning the place of lading and unlading vessels laden with the products of Canada, New Brunswick, Nova Scotia, Newfoundland and Prince Edward Island were contained in R.S. §3129, prior to repeal by section 642 of the 1922 act.
 
-R.S. §2897 authorized Secretary of the Treasury, under regulations by him prescribed, to permit unloading of salt, imported from foreign places, on right bankof Mississippi River, opposite New Orleans, at any point on said bank between upper and lower corporate limits of said city, prior to repeal by act Mar. 3, 1897, ch. 389, §16, 29 Stat. 691.
+R.S. §2897 authorized Secretary of the Treasury, under regulations by him prescribed, to permit unloading of salt, imported from foreign places, on right bank of Mississippi River, opposite New Orleans, at any point on said bank between upper and lower corporate limits of said city, prior to repeal by act Mar. 3, 1897, ch. 389, §16, 29 Stat. 691.
 
 #### Amendments
 

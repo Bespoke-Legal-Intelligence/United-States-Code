@@ -20,7 +20,7 @@ For the purposes of this section:
 
 &emsp;The term “official sanction”—
 
-&emsp;&emsp;(A) means expulsion, suspension, probation, censure, condemnation, reprimand, or any other disciplinary, coercive, or adverse action taken by an institution of higher education or administrative unit of the institution; and
+&emsp;&emsp;(A) means expulsion, suspension, probation, censure, condemnation, reprimand, orany other disciplinary, coercive, or adverse action taken by an institution of higher education or administrative unit of the institution; and
 
 &emsp;&emsp;(B) includes an oral or written warning made by an official of an institution of higher education acting in the official capacity of the official.
 

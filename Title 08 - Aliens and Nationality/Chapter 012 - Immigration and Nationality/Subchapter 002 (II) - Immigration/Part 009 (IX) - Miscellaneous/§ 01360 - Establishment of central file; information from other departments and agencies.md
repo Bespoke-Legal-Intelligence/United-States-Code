@@ -2,7 +2,7 @@
 
 #### (a) Establishment of central file
 
-There shall be established in the office of the Commissioner, for the use of security and enforcement agencies of the Government of the United States, a central index, which shall contain the names of all aliens heretofore admitted or denied admission to the United States, insofar as such information is available from the existing records of the Service, and the names of all aliens hereafter admitted or denied admission to the United States, the names of their sponsors of record, if any, and such other relevant information as the Attorney General shall require as an aid to the proper enforcement of this chapter.
+There shall be established in the office of the Commissioner, for the use of security and enforcement agencies of the Government of the United States, a central index, which shall contain the names of all aliens heretofore admitted or denied admission to the United States, insofar as such information is available from the existing records of the Service, and the names of all aliens hereafter admitted or denied admission to the United States, the names of theirsponsors of record, if any, and such other relevant information as the Attorney General shall require as an aid to the proper enforcement of this chapter.
 
 #### (b) Information from other departments and agencies
 
@@ -38,5 +38,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Fraudulent Use of Social Security Account Numbers
 
-Section 414(b) of div. C of Pub. L. 104–208 provided that: “The Commissioner of Social Security shall transmit to the Attorney General, by not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\], a report on the extent to which social security account numbers and cards are used by aliens for fraudulent purposes.”
+Pub. L. 104–208, div. C, title IV, §414(b), Sept. 30, 1996, 110 Stat. 3009–669, as amended by Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
 

@@ -36,7 +36,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(D) between persons within the United States, where the fish and wildlife in question are moving in any country or countries outside the United States.
 
-&emsp;(10) The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;(10) The term “import” means to land on, bring into, or introduce into, or attempt toland on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 &emsp;(11) Repealed. Pub. L. 97–304, §4(b), Oct. 13, 1982, 96 Stat. 1420.
 

@@ -22,7 +22,7 @@ With respect to the prevention, control, and elimination of tuberculosis, the Se
 
 #### (c) Cooperation with providers of primary health services
 
-The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254c, 254b(h), or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
+The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254b, or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
 
 #### (d) Application for grant
 
@@ -84,15 +84,17 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 &emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2002.
 
-(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107 Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107 Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing and the reference to section 254c of thistitle, appearing in subsec. (c), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The reference to section 254b of this title the first place appearing, referred to in subsec. (c), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
 
 2002—Subsec. (c). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
@@ -103,6 +105,10 @@ Subsec. (g)(1)(B). Pub. L. 105–392, §405(1)(B), substituted “25 percent” 
 Subsec. (g)(2). Pub. L. 105–392, §405(2), substituted “2002” for “1998”.
 
 Pub. L. 105–392, §401(b)(1), substituted “carrying out subsection (b)” for “making grants under subsection (b)”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -30,7 +30,7 @@ Pub. L. 106–297, §1, Oct. 13, 2000, 114 Stat. 1045, provided that: “This Ac
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: “This Act \[enacting sections 14072 and 14073 of this title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the ‘Pam Lychner Sexual Offender Tracking and Identification Act of 1996’.”
+Pub. L. 104–236, §1, Oct. 3, 1996, 110 Stat. 3093, provided that: “This Act \[enacting sections 14072 and 14073 ofthis title, amending section 14071 of this title, and enacting provisions set out as notes under section 14071 of this title\] may be cited as the ‘Pam Lychner Sexual Offender Tracking and Identification Act of 1996’.”
 
 Pub. L. 104–145, §1, May 17, 1996, 110 Stat. 1345, provided that: “This Act \[amending section 14071 of this title\] may be cited as ‘Megan's Law’.”
 

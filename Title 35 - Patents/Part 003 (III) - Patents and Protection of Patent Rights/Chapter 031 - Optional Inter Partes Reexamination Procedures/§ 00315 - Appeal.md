@@ -12,7 +12,7 @@ Patent Owner.—The patent owner involved in an inter partes reexamination proce
 
 Third-Party Requester.—A third-party requester—
 
-&emsp;(1) may appeal under the provisions of section 134, and may appeal under the provisionsof sections 141 through 144, with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; and
+&emsp;(1) may appeal under the provisions of section 134, and may appeal under the provisions of sections 141 through 144, with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; and
 
 &emsp;(2) may, subject to subsection (c), be a party to any appeal taken by the patent owner under the provisions of section 134 or sections 141 through 144.
 

@@ -52,7 +52,7 @@
 
 The authority to enter into new contracts under this section shall cease to be effective on October 1, 2003.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037.)
 
 #### Amendments
 

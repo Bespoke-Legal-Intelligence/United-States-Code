@@ -18,7 +18,7 @@ Any firearm classified as a destructive device shall be identified in such manne
 
 A prior section 5842, act Aug. 16, 1954, ch. 736, 68A Stat. 725, related to books, records, and returns, prior to the general revision of this chapter by Pub. L. 90–618.
 
-Provisions similar to those comprising this section were contained in prior section 5843, act Aug. 16, 1954,ch. 736, 68A Stat. 725, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, §203(e), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
+Provisions similar to those comprising this section were contained in prior section 5843, act Aug. 16, 1954, ch. 736, 68A Stat. 725, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, §203(e), 72 Stat. 1427, prior to the general revision of this chapter by Pub. L. 90–618.
 
 #### Amendments
 

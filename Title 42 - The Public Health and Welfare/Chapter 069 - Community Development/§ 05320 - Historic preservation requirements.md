@@ -10,7 +10,7 @@ With respect to applications for assistance under section 5318 of this title, th
 
 #### (b) Actions by State historic preservation officer and Secretary of the Interior
 
-In prescribing and implementing such regulations with respect to applications submittedunder section 5318 of this title which identify any property pursuant to subsection (c)(4)(B) of such section, the Secretary of the Interior shall provide at least that—
+In prescribing and implementing such regulations with respect to applications submitted under section 5318 of this title which identify any property pursuant to subsection (c)(4)(B) of such section, the Secretary of the Interior shall provide at least that—
 
 &emsp;(1) the appropriate State historic preservation officer (as determined in accordance with regulations prescribed by the Secretary of the Interior) shall, not later than 45 days after receiving information from the applicant relating to the identification of properties which will be affected by the project for which the application is made and which may meet the criteria established by the Secretary of the Interior for inclusion on the National Register of Historic Places (together with documentation relating to such inclusion), submit his or her comments, together with such other information considered necessary by the officer, to the applicant concerning such properties; and
 
@@ -24,7 +24,7 @@ The Advisory Council on Historic Preservation shall prescribe regulations provid
 
 #### References in Text
 
-“An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended, referred to in subsec. (a)(1), probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code see section 470(a) of Title 16 and Tables.
+“An Act to establish a program for the preservation of additional historic properties throughout the Nation, and for other purposes”, approved October 14, 1966, as amended, referred to in subsec. (a)(1), probablymeans Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code see section 470(a) of Title 16 and Tables.
 
 “An Act to provide for the preservation of historical and archaeological data (including relics and specimens) which might otherwise be lost as a result of the construction of a dam”, approved June 27, 1960, as amended, referred to in subsec. (a)(2), is Pub. L. 86–523, June 27, 1960, 74 Stat. 220, as amended, which enacted sections 469 to 469c–1 of Title 16. For complete classification of this Act, see Tables.
 

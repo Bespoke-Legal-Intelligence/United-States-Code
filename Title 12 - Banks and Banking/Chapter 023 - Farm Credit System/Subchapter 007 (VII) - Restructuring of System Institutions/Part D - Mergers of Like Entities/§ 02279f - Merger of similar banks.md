@@ -34,7 +34,7 @@ Sections 2279a–2 and 2279a–3 of this title shall apply to banks merged under
 
 #### (A) Qualifications
 
-&emsp;&emsp;The outside director elected under paragraph (2)(B) shall be experienced in financial services and credit, and within the 2-year period prior to such election, shall not havebeen a borrower from, shareholder in, or director, officer, employee, or agent of any institution of the Farm Credit System.
+&emsp;&emsp;The outside director elected under paragraph (2)(B) shall be experienced in financial services and credit, and within the 2-year period prior to such election, shall not have been a borrower from, shareholder in, or director, officer, employee, or agent of any institution of the Farm Credit System.
 
 #### (B) Failure to elect
 

@@ -11,7 +11,7 @@
 | (a) | Definitions. |
 | (b) | Applicability to government. |
 | (c) | Consideration of promotion of efficiency, competition, and capital formation. |
-| 80a–3. | Definitions of investment company. |
+| 80a–3. | Definition of investment company. |
 | (a) | Definitions. |
 | (b) | Exemption from provisions. |
 | (c) | Further exemptions. |

@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management may prescribe regulations necessary to carry out this chapter.
 
-(b) The regulations of the Office may prescribe the time at which and the manner and conditions under which an employee is eligible to enroll in an approved health benefits plan described in section 8903 or 8903a of this title. The regulations may exclude an employee on the basis of the nature and type of his employment or conditions pertaining to it, such as short-term appointment, seasonal or intermittent employment, and employment of like nature. The Office may not exclude—
+(b) The regulations of the Office may prescribe the time at which and the manner and conditions under which an employee is eligible to enroll in an approved health benefits plan described in section 8903 or 8903a of this title. The regulations may exclude an employee on thebasis of the nature and type of his employment or conditions pertaining to it, such as short-term appointment, seasonal or intermittent employment, and employment of like nature. The Office may not exclude—
 
 &emsp;(1) an employee or group of employees solely on the basis of the hazardous nature of employment;
 

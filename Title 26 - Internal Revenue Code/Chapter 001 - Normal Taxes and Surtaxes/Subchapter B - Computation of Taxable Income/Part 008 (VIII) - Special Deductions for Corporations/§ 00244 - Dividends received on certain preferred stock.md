@@ -42,7 +42,7 @@ If the dividends described in subsection (a)(1) are qualifying dividends (as def
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, towhich such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 99–514 applicable to dividends received or accrued after 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1964 Amendment
 

@@ -20,7 +20,3 @@ A prior section 214 of this title was renumbered section 210.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 12 section 503.
-

@@ -44,7 +44,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (7) Deduction limitations
 
-&emsp;Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who is a party to the agreement, for the portion of his taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a manner consistent with the manner in which actual employer contributions for such plan year are determined) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determinedin accordance with regulations prescribed by the Secretary.
+&emsp;Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who is a party to the agreement, for the portion of his taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a manner consistent with the manner in which actual employer contributions for such plan year are determined) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
 
 #### (8) Employees of labor unions
 
@@ -118,7 +118,7 @@ In the case of a plan maintained by more than one employer—
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept.2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
@@ -132,7 +132,7 @@ Subsec. (c). Pub. L. 100–647, §6058(c), struck out at end “Allocations of a
 
 Subsec. (c)(4). Pub. L. 100–647, §6058(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The minimum funding standard provided by section 412 shall be determined as if all participants in the plan were employed by a single employer.”
 
-Subsec. (c)(6). Pub. L. 100–647, §6058(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan, for the portion of this taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.”
+Subsec. (c)(6). Pub. L. 100–647, §6058(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan, for the portion of this taxable yearwhich is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.”
 
 Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 

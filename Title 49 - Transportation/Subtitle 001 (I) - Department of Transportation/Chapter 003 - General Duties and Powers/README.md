@@ -47,10 +47,13 @@
 | [351\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000351%20-%20Judicial%20review%20of%20actions%20in%20carrying%20out%20certain%20transferred%20duties%20and%20powers.md) | Judicial review of actions in carrying out certain transferred duties and powers. |
 | [352\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000352%20-%20Authority%20to%20carry%20out%20certain%20transferred%20duties%20and%20powers.md) | Authority to carry out certain transferred duties and powers. |
 | [353\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000353%20-%20Toxicological%20testing%20of%20officers%20and%20employees.md) | Toxicological testing of officers and employees. |
+| [354\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000354%20-%20Investigative%20authority%20of%20Inspector%20General.md) | Investigative authority of Inspector General. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–168, §8(b)(2), Dec. 6, 2003, 117 Stat. 2035, added item 354.
 
 1994—Pub. L. 103–272, §4(j)(6)(B), (9)(B), (10)(B), July 5, 1994, 108 Stat. 1366–1368, added item 303a, struck out items 334 “Limit on aviation charges” and 335 “Authorization of appropriations”, and added item 337, subchapter III heading, and items 351 to 353.
 

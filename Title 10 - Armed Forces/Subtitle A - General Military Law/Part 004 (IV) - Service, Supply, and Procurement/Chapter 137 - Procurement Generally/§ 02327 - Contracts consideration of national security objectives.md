@@ -2,7 +2,7 @@
 
 (a)
 
-Disclosure of Ownership or Control by a Foreign Government.—The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretaryof State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
+Disclosure of Ownership or Control by a Foreign Government.—The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
 (b)
 
@@ -14,9 +14,9 @@ Prohibition on Entering Into Contracts Against the Interests of the United State
 
 (c)
 
-Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that entering into a contract with a firm or a subsidiary of a firm described in subsection (b) is not inconsistent with the national security objectives of the United States, the head of an agency may enter into a contract with such firm or subsidiary after the date on which such head of an agency submits to Congress a report on the contract.
+Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that entering into a contract with a firm or a subsidiary of a firm described in subsection (b) is not inconsistent with the national security objectives of the United States, the head of an agency may enter into a contract with such firm or subsidiary if in the best interests of the Government.
 
-(B) A report under subparagraph (A) shall include the following:
+(B) The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records shall include the following:
 
 &emsp;(i) The identity of the foreign government concerned.
 
@@ -25,8 +25,6 @@ Waiver.—(1)(A) If the Secretary of Defense determines under paragraph (2) that
 &emsp;(iii) The extent of ownership or control of the firm or subsidiary concerned (or, if appropriate in the case of a subsidiary, of the firm that owns the subsidiary) by the foreign government concerned or the agency or instrumentality of such foreign government.
 
 &emsp;(iv) The reasons for entering into the contract.
-
-(C) After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.
 
 (2) Upon the request of the head of an agency, the Secretary of Defense shall determine whether entering into a contract with a firm or subsidiary described in subsection (b) is inconsistent with the national security objectives of the United States. In making such a determination, the Secretary of Defense shall consider the following:
 
@@ -64,7 +62,7 @@ Applicability.—(1) This section does not apply to a contract for an amount les
 
 Regulations.—The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term “significant interest”.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L.100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844.)
+(Added Pub. L. 99–500, §101(c) \[title X, §951(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §951(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §951(a)(1), Nov. 14, 1986, 100 Stat. 3944, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title XII, §1231(8), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–224, §5(b)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 105–85, div. A, title VIII, §843, Nov. 18, 1997, 111 Stat. 1844; Pub. L. 108–136, div. A, title X, §1031(a)(16), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Codification
 
@@ -78,6 +76,12 @@ A prior section 2327 was renumbered section 2347 of this title.
 
 #### Amendments
 
+2003—Subsec. (c)(1)(A). Pub. L. 108–136, §1031(a)(16)(A), substituted “if in the best interests of the Government” for “after the date on which such head of an agency submits to Congress a report on the contract”.
+
+Subsec. (c)(1)(B). Pub. L. 108–136, §1031(a)(16)(B), substituted “The Secretary shall maintain records of each contract entered into by reason of subparagraph (A). Such records” for “A report under subparagraph (A)”.
+
+Subsec. (c)(1)(C). Pub. L. 108–136, §1031(a)(16)(C), struck out subpar. (C) which read as follows: “After the head of an agency submits a report to Congress under subparagraph (A) with respect to a firm or a subsidiary, such head of an agency is not required to submit a report before entering into any subsequent contract with such firm or subsidiary unless the information required to be included in such report under subparagraph (B) has materially changed since the submission of the previous report.”
+
 1997—Subsecs. (d) to (g). Pub. L. 105–85 added subsecs. (d) and (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
 1987—Subsecs. (a), (b)(2). Pub. L. 100–224 substituted “50 U.S.C. App.” for “50 U.S.C.” in parenthetical after “Export Administration Act of 1979”.
@@ -87,6 +91,10 @@ Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 #### Effective Date
 
 Section 101(c) \[title X, §951(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 951(c) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2327 of title 10, United States Code (as added by subsection (a)(1)), shall apply to contracts entered into by the Secretary of Defense after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Reports by Defense Contractors of Dealings With Terrorist Countries
 

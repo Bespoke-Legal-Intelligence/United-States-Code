@@ -4,7 +4,7 @@
 
 The Secretary, in accordance with chapter 37 of title 31, shall collect—
 
-&emsp;(1) all of the funds in a reserve account established by an eligible entity under section 7223d(a) of this title if the Secretary determines, not earlier than 2 years after the date on which the eligible entity first received funds under this subpart, that the eligible entity has failed to make substantial progress in carrying out the purposes described in section 7223d(a) of this title; or
+&emsp;(1) all of the funds in a reserve account established by an eligible entity under section 7223d(a) of this title if the Secretary determines, not earlier than 2 years after the dateon which the eligible entity first received funds under this subpart, that the eligible entity has failed to make substantial progress in carrying out the purposes described in section 7223d(a) of this title; or
 
 &emsp;(2) all or a portion of the funds in a reserve account established by an eligible entity under section 7223d(a) of this title if the Secretary determines that the eligible entity has permanently ceased to use all or a portion of the funds in such account to accomplish any purpose described in section 7223d(a) of this title.
 

@@ -4,7 +4,7 @@
 
 (b) No taxes, tolls, operating charges, fees, or any other impositions whatever shall be levied upon or collected from any vessel or other water craft, or from its passengers or crew, by any non-Federal interest, if the vessel or water craft is operating on any navigable waters subject to the authority of the United States, or under the right to freedom of navigation on those waters, except for—
 
-&emsp;(1) fees charged under section 2236 of this title; or
+&emsp;(1) fees charged under section 2236 of this title;
 
 &emsp;(2) reasonable fees charged on a fair and equitable basis that—
 
@@ -12,9 +12,11 @@
 
 &emsp;&emsp;(B) enhance the safety and efficiency of interstate and foreign commerce; and
 
-&emsp;&emsp;(C) do not impose more than a small burden on interstate or foreign commerce.
+&emsp;&emsp;(C) do not impose more than a small burden on interstate or foreign commerce; or
 
-(July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133.)
+&emsp;(3) property taxes on vessels or watercraft, other than vessels or watercraft that are primarily engaged in foreign commerce if those taxes are permissible under the United States Constitution.
+
+(July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, §829(a), Dec. 12, 2003, 117 Stat. 2597.)
 
 #### Codification
 
@@ -28,6 +30,8 @@ It was amended by act March 3, 1909, to read substantially as set forth above.
 
 #### Amendments
 
+2003—Subsec. (b)(3). Pub. L. 108–176 added par. (3).
+
 2002—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1954—Act Aug. 30, 1954, repealed last proviso requiring that an itemized statement of expenses incurred in operating, maintaining, keeping in repair, and reconstructing locks, canals, etc., other than the Panama Canal, as provided in this section, should accompany the annual report of the Chief of Engineers.
@@ -35,6 +39,10 @@ It was amended by act March 3, 1909, to read substantially as set forth above.
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–176, title VIII, §829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: “The amendment made by subsection (a) \[amending this section\] is effective on and after November 25, 2002.”
 
 #### Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities
 

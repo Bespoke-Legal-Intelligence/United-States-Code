@@ -28,7 +28,7 @@ Subject to section 9409 of this title, Lead State Agencies and Local Councils sh
 
 Each Lead State Agency designated under section 9409(c) of this title and Local Councils receiving a grant under this chapter shall ensure—
 
-&emsp;(1) that Local Councils described in section 9413 of this title work with local educational agencies to identify cognitive, social, emotional, and motor developmental abilities which are necessary to support children's readiness for school;
+&emsp;(1) that Local Councils described in section 9413 of this title work with local educationalagencies to identify cognitive, social, emotional, and motor developmental abilities which are necessary to support children's readiness for school;
 
 &emsp;(2) that the programs, services, and activities assisted under this chapter will represent developmentally appropriate steps toward the acquisition of those abilities; and
 

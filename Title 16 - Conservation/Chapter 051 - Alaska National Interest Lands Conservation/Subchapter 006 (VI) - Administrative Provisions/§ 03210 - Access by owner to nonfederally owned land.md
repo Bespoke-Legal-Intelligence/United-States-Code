@@ -2,7 +2,7 @@
 
 #### (a) Reasonable use and enjoyment of land within boundaries of National Forest System
 
-Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of Agriculture may prescribe, the Secretary shall provide such access to nonfederally owned land within the boundaries of the National Forest System as the Secretary deems adequate to secure to the owner the reasonableuse and enjoyment thereof: <i>Provided</i>, That such owner comply with rules and regulations applicable to ingress and egress to or from the National Forest System.
+Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of Agriculture may prescribe, the Secretary shall provide such access to nonfederally owned land within the boundaries of the National Forest System as the Secretary deems adequate to secure to the owner the reasonable use and enjoyment thereof: <i>Provided</i>, That such owner comply with rules and regulations applicable to ingress and egress to or from the National Forest System.
 
 #### (b) Reasonable use and enjoyment of land surrounded by public lands managed by Secretary
 
@@ -12,5 +12,9 @@ Notwithstanding any other provision of law, and subject to such terms and condit
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to theCode, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 539m–7 of this title.
 

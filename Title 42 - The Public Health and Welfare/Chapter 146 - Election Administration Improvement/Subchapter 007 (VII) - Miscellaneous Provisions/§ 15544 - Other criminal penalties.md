@@ -2,7 +2,7 @@
 
 #### (a) Conspiracy to deprive voters of a fair election
 
-Any individual who knowingly and willfully gives false information in registering or voting in violation of section 1973i(c) of this title, or conspires with another to violate such section, shall be fined or imprisoned, or both, in accordance with such section.
+Any individual who knowingly and willfully gives false information in registering or voting in violation of section 1973i(c) of this title, orconspires with another to violate such section, shall be fined or imprisoned, or both, in accordance with such section.
 
 #### (b) False information in registering and voting
 

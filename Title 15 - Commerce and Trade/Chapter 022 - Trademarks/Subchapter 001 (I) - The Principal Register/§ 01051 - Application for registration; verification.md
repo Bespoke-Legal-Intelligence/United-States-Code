@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) state exceptions to the claim of exclusive use; and
 
-&emsp;&emsp;(ii) shall specify, to the extent of the verifier's knowledge—
+&emsp;&emsp;(ii) shall <sup>1</sup> specify, to the extent of the verifier's knowledge—
 
 &emsp;&emsp;&emsp;(I) any concurrent use by others;
 
@@ -66,7 +66,7 @@ At any time during examination of an application filed under subsection (b) of t
 
 #### (e) Designation of resident for service of process and notices
 
-If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the lastdesignation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 (July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
 
@@ -154,7 +154,7 @@ Pub. L. 104–98, §1, Jan. 16, 1996, 109 Stat. 985, provided that: “This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act \[enacting section 1122 of thistitle, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Trademark Remedy Clarification Act’.”
+Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act \[enacting section 1122 of this title, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Trademark Remedy Clarification Act’.”
 
 #### Short Title of 1988 Amendment
 
@@ -192,7 +192,7 @@ Section 46(a) of act July 5, 1946, provided in part that this chapter, except as
 
 Sections 46(b) and 47 of act July 5, 1946, provided:
 
-“(b) Registrations now existing under the Act of March 3, 1881, or the Act of February 20, 1905 \[sections 81 to 109 of this title\], shall continue in full force and effect for the unexpired terms thereof and may be renewed under the provisions of section 9 of this Act \[section 1059 of this title\]. Such registrations and the renewals thereof shall be subject to and shall be entitled to the benefits of the provisions of this Act \[this chapter\] to the same extent and with the same force and effect as though registered on the principal register established by this Act \[this chapter\] except as limited in sections 8, 12, 14, and 15 of this Act \[sections 1058, 1062, 1064, 1065, of this title\]. Marks registered under the ‘ten-year proviso’ of section 5 of the Act of February 20, 1905, as amended \[former section 85 of this title\], shall be deemed to have become distinctive of the registrant's goods in commerce under paragraph (f) of section 2 of this Act \[section 1052 of this title\] and may be renewed under section 9 hereof \[section 1059 of this title\] as marks coming within said paragraph.
+“(b) Registrations now existing under the Act of March 3, 1881, or the Act of February 20, 1905 \[sections 81 to 109 of this title\], shall continue in full force and effect for the unexpired terms thereof and may be renewed under the provisions of section 9 of this Act \[section 1059 of this title\]. Such registrations and the renewals thereof shall be subject to and shall be entitled to the benefits of the provisions of this Act \[this chapter\] to the same extent and with the same force and effect as though registered on the principal register established by this Act \[this chapter\] except as limited insections 8, 12, 14, and 15 of this Act \[sections 1058, 1062, 1064, 1065, of this title\]. Marks registered under the ‘ten-year proviso’ of section 5 of the Act of February 20, 1905, as amended \[former section 85 of this title\], shall be deemed to have become distinctive of the registrant's goods in commerce under paragraph (f) of section 2 of this Act \[section 1052 of this title\] and may be renewed under section 9 hereof \[section 1059 of this title\] as marks coming within said paragraph.
 
 “Registrations now existing under the Act of March 19, 1920 \[former sections 121 to 128 of this title\], shall expire six months after the effective date of this Act \[July 5, 1947\], or twenty years from the dates of their registrations, whichever date is later. Such registrations shall be subject to and entitled to the benefits of the provisions of this Act \[this chapter\] relating to marks registered on the supplemental register established by this Act \[this chapter\], and may not be renewed unless renewal is required to support foreign registrations. In that event renewal may be effected on the supplemental register under the provisions of section 9 of this Act \[section 1059 of this title\].
 
@@ -213,4 +213,6 @@ Relief as to filing date of trademark application or registration and excusal of
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1060, 1062, 1063, 1068, 1071, 1091, 1092, 1094, 1126, 1141j of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “shall” probably should not appear.</i>
 

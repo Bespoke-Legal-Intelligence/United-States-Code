@@ -1,9 +1,5 @@
 Part B—Authority To Control; Standards and Schedules
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 50 section 404i.
-
 
 ---
 

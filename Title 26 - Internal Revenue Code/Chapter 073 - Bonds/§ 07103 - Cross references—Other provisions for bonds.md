@@ -10,7 +10,7 @@
 
 &emsp;&emsp;<b>(4) For a bond to stay collection of a penalty assessed under section 6672, see section 6672(b).</b>
 
-&emsp;&emsp;<b>(5) For bond in case of an election to postpone payment of estate tax where the value of a rever</b><b>sionary or remainder interest is included in the gross estate, see section 6165.</b>
+&emsp;&emsp;<b>(5) For bond in case of an election to postpone payment of estate tax where the value of a reversionary or remainder interest is included in the gross estate, see section 6165.</b>
 
 #### (b) Release of lien or seized property
 

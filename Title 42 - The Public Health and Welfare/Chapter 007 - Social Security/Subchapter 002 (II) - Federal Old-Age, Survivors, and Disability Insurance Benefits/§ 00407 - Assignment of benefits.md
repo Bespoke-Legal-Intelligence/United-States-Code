@@ -20,7 +20,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified gen
 
 #### Codification
 
-In subsec. (b), “April 20, 1983” substituted for “the date of the enactment of this section”, which wastranslated as meaning the date of enactment of this subsection, as the probable intent of Congress.
+In subsec. (b), “April 20, 1983” substituted for “the date of the enactment of this section”, which was translated as meaning the date of enactment of this subsection, as the probable intent of Congress.
 
 #### Amendments
 

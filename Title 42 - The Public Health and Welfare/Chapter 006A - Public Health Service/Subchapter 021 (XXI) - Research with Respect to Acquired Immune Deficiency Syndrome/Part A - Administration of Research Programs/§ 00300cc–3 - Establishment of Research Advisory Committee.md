@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After consultation with the Commissioner of Food and Drugs, the Secretary, acting through the Director of the National Institute of Allergy and Infectious Diseases, shall establish within such Institute an advisory committee to beknown as the AIDS Research Advisory Committee (hereafter in this section referred to as the “Committee”).
+After consultation with the Commissioner of Food and Drugs, the Secretary, acting through the Director of the National Institute of Allergy and Infectious Diseases, shall establish within such Institute an advisory committee to be known as the AIDS Research Advisory Committee (hereafter in this section referred to as the “Committee”).
 
 #### (b) Composition
 
@@ -52,7 +52,7 @@ Subsec. (c)(1). Pub. L. 103–43, §1811(1), in introductory provisions inserted
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
 #### Termination of Advisory Committees
 

@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (2) Allocation of limitation
 
-&emsp;The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
+&emsp;The national zone academy bond limitation for a calendar year shall be allocated by theSecretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
 
 #### (3) Designation subject to limitation amount
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the amount of bonds issued during such year which are designated under subsection (d)(1) with respect to qualified zone academies within such State,
 
-> &emsp;the limitation amount for such State for the following calendar year shall be increased by the amount of such excess. Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwardsfrom 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.
+> &emsp;the limitation amount for such State for the following calendar year shall be increased by the amount of such excess. Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.
 
 #### (f) Other definitions
 

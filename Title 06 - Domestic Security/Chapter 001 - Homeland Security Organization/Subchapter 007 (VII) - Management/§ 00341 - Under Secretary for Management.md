@@ -20,7 +20,7 @@ The Secretary, acting through the Under Secretary for Management, shall be respo
 
 &emsp;(8) Grants and other assistance management programs.
 
-&emsp;(9) The transition and reorganization process, to ensure an efficient and orderly transferof functions and personnel to the Department, including the development of a transition plan.
+&emsp;(9) The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan.
 
 &emsp;(10) The conduct of internal audits and management analyses of the programs and activities of the Department.
 
@@ -32,7 +32,7 @@ The Secretary, acting through the Under Secretary for Management, shall be respo
 
 &emsp;In addition to the responsibilities described in subsection (a) of this section, the Under Secretary for Management shall be responsible for the following:
 
-&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled “Statistical Yearbook of the Immigration and Naturalization Service” prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer of functions specified under section 251 of this title takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
+&emsp;&emsp;(A) Maintenance of all immigration statistical information of the Bureau of Border Security and the Bureau of Citizenship and Immigration Services. Such statistical information shall include information and statistics of the type contained in the publication entitled “Statistical Yearbook of the Immigration and Naturalization Service” prepared by the Immigration and Naturalization Service (as in effect immediately before the date on which the transfer of functions specified under section 251 of thistitle takes effect), including region-by-region statistics on the aggregate number of applications and petitions filed by an alien (or filed on behalf of an alien) and denied by such bureau, and the reasons for such denials, disaggregated by category of denial and application or petition type.
 
 &emsp;&emsp;(B) Establishment of standards of reliability and validity for immigration statistics collected by such bureaus.
 

@@ -2,7 +2,7 @@
 
 #### (a) “Resolution of repository siting approval” defined
 
-For purposes of this section, the term “resolution of repository siting approval” means a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That there hereby is approved the site at .......... for a repository, with respect to which a notice of disapproval was submitted by .......... on ...........”. The first blank space in such resolution shall be filled with the name of the geographic locationof the proposed site of the repository to which such resolution pertains; the second blank space in such resolution shall be filled with the designation of the State Governor and legislature or Indian tribe governing body submitting the notice of disapproval to which such resolution pertains; and the last blank space in such resolution shall be filled with the date of such submission.
+For purposes of this section, the term “resolution of repository siting approval” means a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That there hereby is approved the site at .......... for a repository, with respect to which a notice of disapproval was submitted by .......... on ...........”. The first blank space in such resolution shall be filled with the name of the geographic location of the proposed site of the repository to which such resolution pertains; the second blank space in such resolution shall be filled with the designation of the State Governor and legislature or Indian tribe governing body submitting the notice of disapproval to which such resolution pertains; and the last blank space in such resolution shall be filled with the date of such submission.
 
 #### (b) State or Indian tribe petitions
 
@@ -16,7 +16,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (1) The provisions of this subsection are enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions of repository siting approval, and such provisions supersede other rules of the Senate only to the extent that they are inconsistent with such other rules; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate, and as such they are deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutionsof repository siting approval, and such provisions supersede other rules of the Senate only to the extent that they are inconsistent with such other rules; and
 
 &emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 

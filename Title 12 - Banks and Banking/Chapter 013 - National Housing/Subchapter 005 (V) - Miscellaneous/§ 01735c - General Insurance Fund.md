@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose; mortgages or loans insurable; transfers to
 
-There is hereby created a General Insurance Fund which shall be used by the Secretary, on and after August 10, 1965, as a revolving fund forcarrying out all the insurance provisions of this chapter with the exception of those specified in subsection (e) of this section. All mortgages or loans insured under this chapter pursuant to commitments issued on or after August 10, 1965, except those specified in subsection (e) of this section, and all loans reported for insurance under section 1703 of this title on or after August 10, 1965, shall be insured under the General Insurance Fund. The Secretary shall transfer to the General Insurance Fund—
+There is hereby created a General Insurance Fund which shall be used by the Secretary, on and after August 10, 1965, as a revolving fund for carrying out all the insurance provisions of this chapter with the exception of those specified in subsection (e) of this section. All mortgages or loans insured under this chapter pursuant to commitments issued on or after August 10, 1965, except those specified in subsection (e) of this section, and all loans reported for insurance under section 1703 of this title on or after August 10, 1965, shall be insured under the General Insurance Fund. The Secretary shall transfer to the General Insurance Fund—
 
 &emsp;(1) the assets and liabilities of all insurance accounts and funds, except the Mutual Mortgage Insurance Fund, existing under this chapter immediately prior to August 10, 1965;
 
@@ -48,7 +48,7 @@ Pub. L. 103–233, §103(g)(2), added subsec. (g).
 
 1981—Subsec. (f). Pub. L. 97–35 inserted provision increasing authorization on Oct. 1, 1981.
 
-1980—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, whichshall be increased by not to exceed $93,000,000 on October 1, 1979”.
+1980—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, which shall be increased by not to exceed $93,000,000 on October 1, 1979”.
 
 1979—Subsec. (f). Pub. L. 96–153 provided for an increase of $93,000,000 on October 1, 1979.
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1709, 1715z–3, 1715z–11a, 1715z–12, 1715z–13, 1735f–20 of this title.
+This section is referred to in sections 1709, 1715z–3, 1715z–7, 1715z–11a, 1715z–12, 1715z–13, 1735f–20 of this title.
 

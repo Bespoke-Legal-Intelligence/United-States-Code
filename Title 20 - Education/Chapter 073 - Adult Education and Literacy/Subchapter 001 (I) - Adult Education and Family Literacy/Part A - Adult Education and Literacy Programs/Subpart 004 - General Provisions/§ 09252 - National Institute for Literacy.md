@@ -50,7 +50,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;&emsp;(B) to coordinate support for the provision of literacy and basic skills services across Federal agencies and at the State and local levels;
 
-&emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especially with the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
+&emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especiallywith the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
 
 &emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that show great promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the National Institute of Child Health and Human Development;
 
@@ -132,7 +132,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (A) In general
 
-&emsp;&emsp;Each member of the Board shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
+&emsp;&emsp;Each member of the Board shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selectedeach year. Any such member may be appointed for not more than 2 consecutive terms.
 
 #### (B) Vacancies
 

@@ -16,7 +16,7 @@
 
 (b) The provisions of this chapter that apply to the procurement of property apply also to contracts for its installation or alteration.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–568, title III, §301(b), July 29, 1958, 72 Stat. 432; Pub. L. 98–369, div. B, title VII, §2722(b), July 18, 1984, 98 Stat. 1187.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–568, title III, §301(b), July 29, 1958, 72 Stat. 432;Pub. L. 98–369, div. B, title VII, §2722(b), July 18, 1984, 98 Stat. 1187.)
 
 Historical and Revision Notes
 
@@ -61,6 +61,10 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see note set out under section 2302 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Acquisition, Lease, or Rental for Use by the Armed Forces of Motor Buses Manufactured Outside the United States
 

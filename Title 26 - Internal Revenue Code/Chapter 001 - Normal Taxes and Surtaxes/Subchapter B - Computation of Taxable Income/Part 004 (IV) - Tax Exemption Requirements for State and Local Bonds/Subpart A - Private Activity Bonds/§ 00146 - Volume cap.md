@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-A private activity bond issued as part of an issue meets the requirements of this section ifthe aggregate face amount of the private activity bonds issued pursuant to such issue, when added to the aggregate face amount of tax-exempt private activity bonds previously issued by the issuing authority during the calendar year, does not exceed such authority's volume cap for such calendar year.
+A private activity bond issued as part of an issue meets the requirements of this section if the aggregate face amount of the private activity bonds issued pursuant to such issue, when added to the aggregate face amount of tax-exempt private activity bonds previously issued by the issuing authority during the calendar year, does not exceed such authority's volume cap for such calendar year.
 
 #### (b) Volume cap for State agencies
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the numerator of which is the amount applicable under paragraph (1)(B) for such calendar year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the State population of the least populous State (other than a possession) for such calendar year, and
+&emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the State population of the least populousState (other than a possession) for such calendar year, and
 
 &emsp;&emsp;&emsp;(ii) the population of such possession for such calendar year.
 
@@ -264,9 +264,9 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66.)
 
-#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2003
+#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2004
 
-<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate the State ceiling for volume cap for private activity bonds for calendar year 2003, see section 3.14 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate</i><i>the State ceiling for volume cap for private activity bonds for calendar year 2004, see section 3.15 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 

@@ -22,7 +22,7 @@ Prior provisions similar to sections 179<i>l</i> to 179w of this title were cont
 
 #### Short Title
 
-Section 101 of title I of Pub. L. 104–285 provided that: “This title \[enacting this section and sections 179m to179w of this title and repealing sections 179 to 179k of this title and provisions set out as a note under section 179 of this title\] may be cited as the ‘National Film Preservation Act of 1996’.”
+Section 101 of title I of Pub. L. 104–285 provided that: “This title \[enacting this section and sections 179m to 179w of this title and repealing sections 179 to 179k of this title and provisions set out as a note under section 179 of this title\] may be cited as the ‘National Film Preservation Act of 1996’.”
 
 #### Act Referred to in Other Sections
 

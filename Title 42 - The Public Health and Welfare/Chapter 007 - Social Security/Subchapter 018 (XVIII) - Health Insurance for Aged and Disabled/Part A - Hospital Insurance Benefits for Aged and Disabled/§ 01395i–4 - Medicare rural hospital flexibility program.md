@@ -18,7 +18,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;(iii) improves access to hospital and other health services for rural residents of the State; and
 
-&emsp;&emsp;(B) has developed the rural health care plan described in subparagraph (A) in consultation with the hospital association of the State, rural hospitals located in the State, and the State Office of Rural Health (or, in the case of a State in the process of developing such plan, that assures the Secretary that the State will consult with its State hospital association, rural hospitals located in the State, and the State Office of Rural Health in developing such plan);
+&emsp;&emsp;(B) has developed the rural health care plan described in subparagraph (A) in consultation with the hospital association of the State, rural hospitals located in the State, and the State Office of Rural Health (or, in the case of a State in the process of developing such plan, that assures the Secretary that the State will consult with its State hospital association, rural hospitalslocated in the State, and the State Office of Rural Health in developing such plan);
 
 &emsp;(2) assurances that the State has designated (consistent with the rural health care plan described in paragraph (1)(A)), or is in the process of so designating, rural nonprofit or public hospitals or facilities located in the State as critical access hospitals; and
 
@@ -48,11 +48,11 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(I) is located more than a 35-mile drive (or, in the case of mountainous terrain or in areas with only secondary roads available, a 15-mile drive) from a hospital, or another facility described in this subsection; or
 
-&emsp;&emsp;&emsp;&emsp;(II) is certified by the State as being a necessary provider of health care services to residents in the area;
+&emsp;&emsp;&emsp;&emsp;(II) is certified before January 1, 2006, by the State as being a necessary provider of health care services to residents in the area;
 
 &emsp;&emsp;&emsp;(ii) makes available 24-hour emergency care services that a State determines are necessary for ensuring access to emergency care services in each area served by a critical access hospital;
 
-&emsp;&emsp;&emsp;(iii) provides not more than 15 (or, in the case of a facility under an agreement described in subsection (f) of this section, 25) acute care inpatient beds (meeting such standards as the Secretary may establish) for providing inpatient care for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;
+&emsp;&emsp;&emsp;(iii) provides not more than 25 acute care inpatient beds (meeting such standards as the Secretary may establish) for providing inpatient care for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;
 
 &emsp;&emsp;&emsp;(iv) meets such staffing requirements as would apply under section 1395x(e) of this title to a hospital located in a rural area, except that—
 
@@ -81,6 +81,30 @@ A State may establish a medicare rural hospital flexibility program described in
 &emsp;&emsp;&emsp;(ii) was a hospital that was downsized to a health clinic or health center; and
 
 &emsp;&emsp;&emsp;(iii) as of the effective date of such designation, meets the criteria for designation under subparagraph (B).
+
+#### (E) Authority to establish psychiatric and rehabilitation distinct part units
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to the succeeding provisions of this subparagraph, a critical access hospital may establish—
+
+&emsp;&emsp;&emsp;&emsp;(I) a psychiatric unit of the hospital that is a distinct part of the hospital; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a rehabilitation unit of the hospital that is a distinct part of the hospital,
+
+&emsp;&emsp;&nbsp;if the distinct part meets the requirements (including conditions of participation) that would otherwise apply to the distinct part if the distinct part were established by a subsection (d) hospital in accordance with the matter following clause (v) of section 1395ww(d)(1)(B) of this title, including any regulations adopted by the Secretary under such section.
+
+#### (ii) Limitation on number of beds
+
+&emsp;&emsp;&emsp;The total number of beds that may be established under clause (i) for a distinct part unit may not exceed 10.
+
+#### (iii) Exclusion of beds from bed count
+
+&emsp;&emsp;&emsp;In determining the number of beds of a critical access hospital for purposes of applying the bed limitations referred to in subparagraph (B)(iii) and subsection (f) of this section, the Secretary shall not take into account any bed established under clause (i).
+
+#### (iv) Effect of failure to meet requirements
+
+&emsp;&emsp;&emsp;If a psychiatric or rehabilitation unit established under clause (i) does not meet the requirements described in such clause with respect to a cost reporting period, no payment may be made under this subchapter to the hospital for services furnished in such unit during such period. Payment to the hospital for services furnished in the unit may resume only after the hospital has demonstrated to the Secretary that the unit meets such requirements.
 
 #### (d) “Rural health network” defined
 
@@ -134,7 +158,7 @@ The Secretary shall certify a facility as a critical access hospital if the faci
 
 #### (f) Permitting maintenance of swing beds
 
-Nothing in this section shall be construed to prohibit a State from designating or the Secretary from certifying a facility as a critical access hospital solely because, at the time the facility applies to the State for designation as a critical access hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the provision of extended care services, so long as the total number of beds that may be used at any time for the furnishing of either such services or acute care inpatient services does not exceed 25 beds and the number of beds used at any time for acute care inpatient services does not exceed 15 beds. For purposes of the previous sentence, any bed of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a critical access hospital shall not be counted.
+Nothing in this section shall be construed to prohibit a State from designating or the Secretary from certifying a facility as a critical access hospital solely because, at the time the facility applies to the State for designation as a critical access hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the provision of extended care services, so long as the total number of beds that may be used at any time for the furnishing of either such services or acute care inpatient services does not exceed 25 beds. For purposes of the previous sentence, any bed of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a critical access hospital shall not be counted.
 
 #### (g) Grants
 
@@ -162,7 +186,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (A) Grants to hospitals
 
-&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997.
+&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assisteligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997.
 
 #### (B) Eligible small rural hospital defined
 
@@ -182,7 +206,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staffon computer information systems, and to offset costs related to the implementation of prospective payment systems.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, and to offset costs related to the implementation of prospective payment systems.
 
 #### (F) Reports
 
@@ -200,7 +224,27 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 &emsp;&emsp;&emsp;&emsp;The Secretary shall submit a final report to such committees not later than 180 days after the completion of all of the projects for which a grant is made under this section.
 
-#### (h) Grandfathering of certain facilities
+#### (4) Additional requirements with respect to FLEX grants
+
+&emsp;With respect to grants awarded under paragraph (1) or (2) from funds appropriated for fiscal year 2005 and subsequent fiscal years—
+
+#### (A) Consultation with the state hospital association and rural hospitals on the most appropriate ways to use grants
+
+&emsp;&emsp;A State shall consult with the hospital association of such State and rural hospitals located in such State on the most appropriate ways to use the funds under such grant.
+
+#### (B) Limitation on use of grant funds for administrative expenses
+
+&emsp;&emsp;A State may not expend more than the lesser of—
+
+&emsp;&emsp;&emsp;(i) 15 percent of the amount of the grant for administrative expenses; or
+
+&emsp;&emsp;&emsp;(ii) the State's federally negotiated indirect rate for administering the grant.
+
+#### (5) Use of funds for Federal administrative expenses
+
+&emsp;Of the total amount appropriated for grants under paragraphs (1) and (2) for a fiscal year (beginning with fiscal year 2005), up to 5 percent of such amount shall be available to the Health Resources and Services Administration for purposes of administering such grants.
+
+#### (h) Grandfathering provisions
 
 #### (1) In general
 
@@ -210,23 +254,47 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 &emsp;Notwithstanding any other provision of this subchapter, with respect to any medical assistance facility or rural primary care hospital described in paragraph (1), any reference in this subchapter to a “critical access hospital” shall be deemed to be a reference to a “medical assistance facility” or “rural primary care hospital”.
 
+#### (3) State authority to waive 35-mile rule
+
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II) of this section, as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+
 #### (i) Waiver of conflicting part A provisions
 
-The Secretary is authorized to waive such provisions of this part and part D of this subchapter as are necessary to conduct the program established under this section.
+The Secretary is authorized to waive such provisions of this part and part E of this subchapter as are necessary to conduct the program established under this section.
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund formaking grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269.)
 
 #### References in Text
 
 The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-Part D of this subchapter, referred to in subsec. (i), is classified to section 1395x et seq. of this title.
+Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h)(3), is section 405(h)(1) of Pub. L. 108–173, which amended this section. See 2003 Amendment note below.
+
+Part E of this subchapter, referred to in subsec. (i), is classified to section 1395x et seq. of this title.
 
 #### Amendments
+
+2003—Subsec. (c)(2)(B)(i)(II). Pub. L. 108–173, §405(h)(1), inserted “before January 1, 2006,” after “is certified”.
+
+Subsec. (c)(2)(B)(iii). Pub. L. 108–173, §405(e)(1), substituted “25” for “15 (or, in the case of a facility under an agreement described in subsection (f) of this section, 25)”.
+
+Subsec. (c)(2)(E). Pub. L. 108–173, §405(g)(1), added subpar. (E).
+
+Subsec. (f). Pub. L. 108–173, §405(e)(2), struck out “and the number of beds used at any time for acute care inpatient services does not exceed 15 beds” after “does not exceed 25 beds”.
+
+Subsec. (g)(4), (5). Pub. L. 108–173, §405(f)(2), added pars. (4) and (5).
+
+Subsec. (h). Pub. L. 108–173, §405(h)(2)(A), substituted “provisions” for “of certain facilities” in heading.
+
+Subsec. (h)(3). Pub. L. 108–173, §405(h)(2)(B), added par. (3).
+
+Subsec. (i). Pub. L. 108–173, §101(e)(1), substituted “part E” for “part D”.
+
+Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end “, and for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008”.
 
 1999—Subsec. (c)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(c)(1)\], substituted “subparagraphs (B), (C), and (D)” for “subparagraph (B)”.
 
@@ -254,7 +322,7 @@ Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted “except 
 
 Subsec. (e)(2) to (6). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
-Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatientbeds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
+Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatient beds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
@@ -285,6 +353,12 @@ Subsec. (g)(1)(A)(ii). Pub. L. 101–508, §4008(m)(2)(B)(ii), substituted “re
 Subsec. (i)(2)(C). Pub. L. 101–508, §4008(d)(1), inserted at end “In designating facilities as rural primary care hospitals under this subparagraph, the Secretary shall give preference to facilities not meeting the requirements of clause (i) of subparagraph (A) that have entered into an agreement described in subsection (g)(2) of this section with a rural health network located in a State receiving a grant under subsection (a)(1) of this section.”
 
 Subsec. (j). Pub. L. 101–508, §4008(m)(2)(B)(iii), inserted “and part C of this subchapter” after “this part”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title IV, §405(e)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: “The amendments made by this subsection \[amending this section\] shall apply to designations made before, on, or after January 1, 2004, but any election made pursuant to regulations promulgated to carry out such amendments shall only apply prospectively.”
+
+Amendment by section 405(g)(1) of Pub. L. 108–173 applicable to cost reporting periods beginning on or after Oct. 1, 2004, see section 405(g)(3) of Pub. L. 108–173, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -348,9 +422,9 @@ Extension.—If the Secretary determines that the transition is not complete as 
 
 #### GAO Reports
 
-Section 102(a)(4) of Pub. L. 103–432 directed Comptroller General to submit to Congress, not later than 2 years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
+Section 102(a)(4) of Pub. L. 103–432 directed Comptroller General to submit to Congress, not later than 2years after Oct. 31, 1994, reports on application of requirements under subsec. (f) of this section that rural primary care hospitals provide inpatient care only to those individuals whose attending physicians certify may reasonably be expected to be discharged within 72 hours after admission and maintain average length of inpatient stay during a year that does not exceed 72 hours, and extent to which such requirements have resulted in such hospitals providing inpatient care beyond their capabilities or have limited ability of such hospitals to provide needed services.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395x, 1395ww of this title.
+This section is referred to in sections 1395f, 1395x, 1395ww of this title.
 

@@ -6,7 +6,7 @@ For the purpose of protecting and consolidating Federal lands within the Coopera
 
 #### (b) Receipt of non-Federal lands
 
-As consideration for the conveyance of the Federal lands referred to in subsection (a) of this section and the disbursement referred to insubsection (d) of this section, the Lowther (Clemens) Ranch shall convey to the Secretary a parcel of land consisting of approximately 1,078 acres, as depicted on the map referred to in section 460nnn–105(a) of this title, for inclusion in the Cooperative Management and Protection Area.
+As consideration for the conveyance of the Federal lands referred to in subsection (a) of this section and the disbursement referred to in subsection (d) of this section, the Lowther (Clemens) Ranch shall convey to the Secretary a parcel of land consisting of approximately 1,078 acres, as depicted on the map referred to in section 460nnn–105(a) of this title, for inclusion in the Cooperative Management and Protection Area.
 
 #### (c) Treatment of grazing
 

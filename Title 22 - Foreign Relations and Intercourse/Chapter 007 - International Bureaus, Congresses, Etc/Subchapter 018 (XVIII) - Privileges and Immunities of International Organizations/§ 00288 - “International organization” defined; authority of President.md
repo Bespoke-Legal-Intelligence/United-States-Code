@@ -22,11 +22,19 @@ In General.—The President shall ensure that the Government of the United State
 
 “(b)
 
-Representation by the Secretary.—The Secretary of Agriculture shall represent the Government of the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals.”
+Representation by the Secretary.—The Secretary of Agriculture shall represent the Governmentof the United States as a member of the International Cotton Advisory Committee and shall delegate the primary responsibility to represent the Government of the United States to appropriately qualified individuals.”
 
 #### Administrative Supplies for International Organizations
 
 Act Aug. 4, 1947, ch. 479, 61 Stat. 752, provided for the procurement and furnishing of administrative supplies by the Treasury Department to international organizations until July 1, 1948. This act was popularly known as the “International Organizations Procurement Act of 1947.”
+
+#### Public International Organizations Designated by Statute
+
+The following organizations to be considered public international organizations for purposes of this section:
+
+&emsp;The Global Fund to Fight AIDS, Tuberculosis and Malaria. See section 7622 of this title.
+
+&emsp;The International Development Law Institute. See section 288j of this title.
 
 #### Public International Organizations Entitled To Enjoy Certain Privileges, Exemptions, and Immunities
 
@@ -53,6 +61,8 @@ Council of Europe in Respect of the Group of States Against Corruption (GRECO), 
 Customs Cooperation Council, Ex. Ord. No. 11596, June 5, 1971, 36 F.R. 11079.
 
 European Bank for Reconstruction and Development, Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463.
+
+European Central Bank, Ex. Ord. No. 13307, May 29, 2003, 68 F.R. 33338.
 
 European Space Agency, Ex. Ord. No. 11318, Dec. 5, 1966, 31 F.R. 15307; Ex. Ord. No. 11351, May 22, 1967, 32 F.R. 7561; Ex. Ord. No. 11760, Jan. 17, 1974, 39 F.R. 2343; Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463.
 
@@ -216,5 +226,5 @@ Ex. Ord. No. 9721, May 10, 1946, 11 F.R. 5209, as amended by Ex. Ord. No. 10103,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1401; title 10 section 130c; title 15 sections 78dd–1, 78dd–2, 78dd–3; title 16 section 6104; title 18 sections 831, 1116.
+This section is referred to in section 7622 of this title; title 8 section 1401; title 10 section 130c; title 15 sections 78dd–1, 78dd–2, 78dd–3; title 16 section 6104; title 18 sections 831, 1116.
 

@@ -44,7 +44,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary vocational and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], or any other applicable program for the benefit of institutions of higher education or vocational and technical education.
+&emsp;Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary vocational and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], or any other applicable program for thebenefit of institutions of higher education or vocational and technical education.
 
 #### (2) Prohibition on alteration of grant amount
 
@@ -120,7 +120,7 @@ In this section:
 
 #### (C) Admission criteria
 
-&emsp;&emsp;Credits or clock hours toward a certificate earned in classes during a summer term shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credit earned by such student for purposes of obtaining a secondary school degree or its recognized equivalent shall be counted toward the computation of the Indian student count.
+&emsp;&emsp;Credits or clock hours toward a certificate earned in classes during a summer term shall be counted toward the computation of the Indian student count if the institution at which the student is in attendance has established criteria for the admission of such student on the basis of the student's ability to benefit from the education or training offered. The institution shall be presumed to have established such criteria if the admission procedures for such studies include counseling or testing that measures the student's aptitude to successfully complete the course in which the student has enrolled. No credit earned by such student for purposes ofobtaining a secondary school degree or its recognized equivalent shall be counted toward the computation of the Indian student count.
 
 #### (D) Determination of hours
 

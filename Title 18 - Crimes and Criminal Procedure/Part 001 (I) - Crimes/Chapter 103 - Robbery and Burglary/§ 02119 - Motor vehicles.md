@@ -20,7 +20,7 @@ Par. (3). Pub. L. 103–322, §60003(a)(14), inserted before period at end “,�
 
 #### Federal Cooperation To Prevent “Carjacking” and Motor Vehicle Theft
 
-Section 101(b) of Pub. L. 102–519 provided that: “In view of the increase of motor vehicle theft with its growing threat to human life and to the economic well-being of the Nation, the Attorney General, acting through the Federal Bureau of Investigation and the United States Attorneys, is urged to work with State and local officials to investigate car thefts, including violations of section 2119 of title 18, United States Code, for armed carjacking, and as appropriate and consistent with prosecutorial discretion, prosecute persons who allegedly violate such law and other relevant Federal statutes.”
+Section 101(b) of Pub. L. 102–519 provided that: “In view of the increase of motor vehicle theft with itsgrowing threat to human life and to the economic well-being of the Nation, the Attorney General, acting through the Federal Bureau of Investigation and the United States Attorneys, is urged to work with State and local officials to investigate car thefts, including violations of section 2119 of title 18, United States Code, for armed carjacking, and as appropriate and consistent with prosecutorial discretion, prosecute persons who allegedly violate such law and other relevant Federal statutes.”
 
 #### Section Referred to in Other Sections
 

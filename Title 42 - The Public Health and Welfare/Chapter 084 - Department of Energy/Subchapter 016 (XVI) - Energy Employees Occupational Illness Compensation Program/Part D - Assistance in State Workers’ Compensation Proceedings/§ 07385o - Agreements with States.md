@@ -14,7 +14,7 @@ Pursuant to agreements under subsection (a) of this section, the Secretary mayâ€
 
 &emsp;&emsp;(A) the application was filed by or on behalf of a Department of Energy contractor employee or employee's estate; and
 
-&emsp;&emsp;(B) the illness or death of the Department of Energy contractor employee may havebeen related to employment at a Department of Energy facility.
+&emsp;&emsp;(B) the illness or death of the Department of Energy contractor employee may have been related to employment at a Department of Energy facility.
 
 #### (c) Submittal of applications to panels
 

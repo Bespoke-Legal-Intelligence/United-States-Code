@@ -46,7 +46,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (1) Tax not to apply where failure not discovered exercising reasonable diligence
 
-&emsp;No tax shall be imposed by subsection (a) on any failure during any period for which it is established to the satisfaction of the Secretary that none of the persons referred to in subsection (e) knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;No tax shall be imposed by subsection (a) on any failure during any period for which it isestablished to the satisfaction of the Secretary that none of the persons referred to in subsection (e) knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (2) Tax not to apply to failures corrected within 30 days
 
@@ -102,7 +102,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (C) Special rule for persons providing benefits
 
-&emsp;&emsp;In the case of a person described in subsection (e)(1)(B) (and not subsection\(e)(1)(A)), the aggregate amount of tax imposed by subsection (a) for failures during a taxable year with respect to all plans shall not exceed $2,000,000.
+&emsp;&emsp;In the case of a person described in subsection (e)(1)(B) (and not subsection (e)(1)(A)), the aggregate amount of tax imposed by subsection (a) for failures during a taxable year with respect to all plans shall not exceed $2,000,000.
 
 #### (5) Waiver by Secretary
 
@@ -180,7 +180,7 @@ This section shall not apply to—
 
 #### (III) Special rule for certain bankruptcy proceedings
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(F) (relating tobankruptcy proceedings), the date of the death of the covered employee or qualified beneficiary (described in subsection (g)(1)(D)(iii)), or in the case of the surviving spouse or dependent children of the covered employee, 36 months after the date of the death of the covered employee.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(F) (relating to bankruptcy proceedings), the date of the death of the covered employee or qualified beneficiary (described in subsection (g)(1)(D)(iii)), or in the case of the surviving spouse or dependent children of the covered employee, 36 months after the date of the death of the covered employee.
 
 #### (IV) General rule for other qualifying events
 
@@ -464,7 +464,7 @@ Subsec. (g)(2). Pub. L. 104–191, §321(d)(1), inserted at end “Such term sha
 
 1993—Subsec. (f)(1). Pub. L. 103–66 inserted “the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if” after “only if”.
 
-1990—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,”.
+1990—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employeeson a typical business day during the preceding calendar year,”.
 
 1989—Subsec. (f)(2)(B)(i). Pub. L. 101–239, §6701(a)(1), as amended by Pub. L. 104–188, §1704(t)(21), inserted at end “In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.”
 
@@ -492,6 +492,10 @@ Subsec. (f)(8). Pub. L. 101–239, §7891(d)(2)(A), added par. (8).
 
 Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted “section 5000(b)(1)” for “section 162(i)”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
+
 #### Effective Date of 1996 Amendments
 
 Amendment by section 321(d)(1) of Pub. L. 104–191 applicable to contracts issued after Dec. 31, 1996, see section 321(f) of Pub. L. 104–191, set out as an Effective Date note under section 7702B of this title.
@@ -510,7 +514,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6202(b)(3)(B) of Pub. L. 101–239 applicable to items and services furnished after Dec. 19,1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
+Amendment by section 6202(b)(3)(B) of Pub. L. 101–239 applicable to items and services furnished after Dec. 19, 1989, see section 6202(b)(5) of Pub. L. 101–239, set out as a note under section 162 of this title.
 
 Section 6701(d) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date.”
 
@@ -528,7 +532,7 @@ Section 7891(d)(2)(C) of Pub. L. 101–239 provided that: “The amendments made
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for any plan year to which section 162(k) of this title (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 162 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for anyplan year to which section 162(k) of this title (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 162 of this title.
 
 #### Construction of 2002 Amendment
 

@@ -102,5 +102,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 171, 312, 465, 532, 542, 551, 553, 554, 555, 562, 898, 1212, 6035, 6103 of this title.
+This section is referred to in sections 1, 171, 312, 465, 532, 542, 551, 553, 554, 555, 562, 898, 1212, 6035, 6103 of this title.
 

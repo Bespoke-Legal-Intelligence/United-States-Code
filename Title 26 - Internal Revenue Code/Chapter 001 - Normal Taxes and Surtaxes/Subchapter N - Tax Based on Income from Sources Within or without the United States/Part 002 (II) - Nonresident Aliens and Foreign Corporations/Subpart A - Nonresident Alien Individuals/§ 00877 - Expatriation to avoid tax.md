@@ -212,9 +212,9 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 (Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096.)
 
-#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2003
+#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2004
 
-<i>For adjustment of average annual net income tax and net worth amounts under subsection (a)(2) of this section for calendar year 2003, see section 3.22 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of average annual net income tax and net worth amounts under subsection (a)(2) of this section for calendar year 2004, see section 3.24 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 

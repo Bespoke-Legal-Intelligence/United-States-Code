@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;(i) who is determined (in accordance with regulations prescribed by the Secretary of Health and Human Services) to have a communicable disease of public health significance, which shall include infection with the etiologic agent for acquired immune deficiency syndrome,
 
-&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (C), who seeks admission as an immigrant, or who seeks adjustment of status to the status of an alien lawfully admitted for permanent residence, and who has failed to present documentation of having received vaccination against vaccine-preventable diseases, which shall include at least the following diseases: mumps, measles, rubella, polio, tetanus and diphtheria toxoids, pertussis, influenza type B and hepatitis B, and any other vaccinations against vaccine-preventable diseases recommended by the Advisory Committee for Immunization Practices,
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (C), who seeks admission as an immigrant, or who seeks adjustment of status to the status of an alien lawfully admitted for permanent residence, and who has failed to present documentation of having received vaccination against vaccine-preventable diseases, which shall include at least thefollowing diseases: mumps, measles, rubella, polio, tetanus and diphtheria toxoids, pertussis, influenza type B and hepatitis B, and any other vaccinations against vaccine-preventable diseases recommended by the Advisory Committee for Immunization Practices,
 
 &emsp;&emsp;&emsp;(iii) who is determined (in accordance with regulations prescribed by the Secretary of Health and Human Services in consultation with the Attorney General)—
 
@@ -164,7 +164,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) a foreign terrorist organization, as designated by the Secretary of State under section 1189 of this title, or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a political, social or other similar group whose public endorsement of acts of terrorist activity the Secretary of State has determined undermines United States efforts to reduce or eliminate terrorist activities,
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a political, social or other similar group whose public endorsement ofacts of terrorist activity the Secretary of State has determined undermines United States efforts to reduce or eliminate terrorist activities,
 
 &emsp;&emsp;&emsp;&emsp;(V) is a member of a foreign terrorist organization, as designated by the Secretary under section 1189 of this title, or which the alien knows or should have known is a terrorist organization <sup>1</sup>
 
@@ -172,7 +172,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;(VII) is the spouse or child of an alien who is inadmissible under this section, if the activity causing the alien to be found inadmissible occurred within the last 5 years,
 
-&emsp;&emsp;&nbsp;is inadmissible. An alien who is an officer, official, representative, or spokesman of the Palestine Liberation Organization isconsidered, for purposes of this chapter, to be engaged in a terrorist activity.
+&emsp;&emsp;&nbsp;is inadmissible. An alien who is an officer, official, representative, or spokesman of the Palestine Liberation Organization is considered, for purposes of this chapter, to be engaged in a terrorist activity.
 
 #### (ii) Exception
 
@@ -252,7 +252,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;(I) designated under section 1189 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) otherwise designated, upon publication in the Federal Register, by theSecretary of State in consultation with or upon the request of the Attorney General, as a terrorist organization, after finding that the organization engages in the activities described in subclause (I), (II), or (III) of clause (iv), or that the organization provides material support to further terrorist activity; or
+&emsp;&emsp;&emsp;&emsp;(II) otherwise designated, upon publication in the Federal Register, by the Secretary of State in consultation with or upon the request of the Attorney General, as a terrorist organization, after finding that the organization engages in the activities described in subclause (I), (II), or (III) of clause (iv), or that the organization provides material support to further terrorist activity; or
 
 &emsp;&emsp;&emsp;&emsp;(III) that is a group of two or more individuals, whether organized or not, which engages in the activities described in subclause (I), (II), or (III) of clause (iv).
 
@@ -298,7 +298,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 #### (iv) Exception for close family members
 
-&emsp;&emsp;&emsp;The Attorney General may, in the Attorney General's discretion, waive the application of clause (i) in the case of an immigrant who is the parent, spouse, son, daughter, brother, or sister of a citizen of the United States or a spouse, son, or daughter of an alien lawfully admitted for permanent residence for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest if the immigrant is not a threat to the security of the United States.
+&emsp;&emsp;&emsp;The Attorney General may, in the Attorney General's discretion, waive the application of clause (i) in the case of an immigrant who is the parent, spouse, son, daughter, brother, or sister of a citizen of the United States or a spouse, son, or daughter of an alien lawfully admitted for permanent residence for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest if theimmigrant is not a threat to the security of the United States.
 
 #### (E) Participants in Nazi persecutions or genocide
 
@@ -440,7 +440,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;(I) the alien qualifies for immigrant status under subparagraph (A)(iii), (A)(iv), (B)(ii), or (B)(iii) of section 1154(a)(1) of this title,
 
-&emsp;&emsp;&emsp;&emsp;(II)(a) the alien has been battered or subjected to extreme cruelty by a spouse or parent, or by a member of the spouse's or parent's family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, or (b) the alien's child has been battered or subjected to extreme cruelty by a spouse or parent of the alien (without the active participation of the alien in the battery or cruelty) or by a member of the spouse's or parent's family residing in the same household as the alien when the spouse or parent consented to or acquiesced in such battery or cruelty and the alien did not actively participate in such battery or cruelty, and
+&emsp;&emsp;&emsp;&emsp;(II)(a) the alien has been battered or subjected to extreme cruelty by a spouse or parent, or by a member of the spouse's or parent's family residing in the same household as the alien and the spouse or parent consented or acquiesced to such battery or cruelty, or (b) the alien's child has been battered or subjected to extreme cruelty by a spouse or parent of the alien (without the active participation of the alien in the battery or cruelty) or by a member of the spouse's orparent's family residing in the same household as the alien when the spouse or parent consented to or acquiesced in such battery or cruelty and the alien did not actively participate in such battery or cruelty, and
 
 &emsp;&emsp;&emsp;&emsp;(III) there was a substantial connection between the battery or cruelty described in subclause (I) or (II) and the alien's unlawful entry into the United States.
 
@@ -618,7 +618,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;(III) has not been employed without authorization in the United States before or during the pendency of such application,
 
-&emsp;&emsp;&nbsp;the calculation of the period of time specified in clause (i)(I) shall be tolled duringthe pendency of such application, but not to exceed 120 days.
+&emsp;&emsp;&nbsp;the calculation of the period of time specified in clause (i)(I) shall be tolled during the pendency of such application, but not to exceed 120 days.
 
 #### (v) Waiver
 
@@ -682,7 +682,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 &emsp;&emsp;&emsp;&emsp;(II) is known by the Secretary of State to be intentionally providing material support or safe haven to an alien described in clause (i), or
 
-&emsp;&emsp;&emsp;&emsp;(III) is a spouse (other than the spouse who is the parent of the abducted child), child (other than the abducted child), parent, sibling, or agent of an alien described in clause (i), if such person has been designated by the Secretary of State at the Secretary's sole and unreviewable discretion, is inadmissible until the child described in clause (i) is surrendered to the person granted custody by the order described in that clause, and such person and child are permitted to return to the United States or such person's place of residence.
+&emsp;&emsp;&emsp;&emsp;(III) is a spouse (other than the spouse who is the parent of the abducted child),child (other than the abducted child), parent, sibling, or agent of an alien described in clause (i), if such person has been designated by the Secretary of State at the Secretary's sole and unreviewable discretion, is inadmissible until the child described in clause (i) is surrendered to the person granted custody by the order described in that clause, and such person and child are permitted to return to the United States or such person's place of residence.
 
 #### (iii) Exceptions
 
@@ -702,7 +702,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In the case of an alien who voted in a Federal, State, or local election (includingan initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be inadmissible under any provision of this subsection based on such violation.
+&emsp;&emsp;&emsp;In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be inadmissible under any provision of this subsection based on such violation.
 
 #### (E) Former citizens who renounced citizenship to avoid taxation
 
@@ -730,7 +730,7 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 (3) Except as provided in this subsection, an alien (A) who is applying for a nonimmigrant visa and is known or believed by the consular officer to be ineligible for such visa under subsection (a) of this section (other than paragraphs (3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), and (3)(E) of such subsection), may, after approval by the Attorney General of a recommendation by the Secretary of State or by the consular officer that the alien be admitted temporarily despite his inadmissibility, be granted such a visa and may be admitted into the United States temporarily as a nonimmigrant in the discretion of the Attorney General, or (B) who is inadmissible under subsection (a) of this section (other than paragraphs (3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), and (3)(E) of such subsection), but who is in possession of appropriate documents or is granted a waiver thereof and is seeking admission, may be admitted into the United States temporarily as a nonimmigrant in the discretion of the Attorney General. The Attorney General shall prescribe conditions, including exaction of such bonds as may be necessary, to control and regulate the admission and return of inadmissible aliens applying for temporary admission under this paragraph.
 
-(4) Either or both of the requirements of paragraph (7)(B)(i) of subsection (a) of this section may be waived by the Attorney General and the Secretary of State acting jointly (A) on the basis of unforeseen emergency in individual cases, or (B) on the basis of reciprocity with respect to nationals of foreign contiguous territory or of adjacent islands and residents thereof having a common nationality with such nationals, or (C) in the case of aliens proceeding in immediate and continuous transit through the United States under contracts authorized in section 1223(c) of this title.
+(4) Either or both of the requirements of paragraph (7)(B)(i) of subsection (a) of this section may be waived by the Attorney General and theSecretary of State acting jointly (A) on the basis of unforeseen emergency in individual cases, or (B) on the basis of reciprocity with respect to nationals of foreign contiguous territory or of adjacent islands and residents thereof having a common nationality with such nationals, or (C) in the case of aliens proceeding in immediate and continuous transit through the United States under contracts authorized in section 1223(c) of this title.
 
 (5)(A) The Attorney General may, except as provided in subparagraph (B) or in section 1184(f) of this title, in his discretion parole into the United States temporarily under such conditions as he may prescribe only on a case-by-case basis for urgent humanitarian reasons or significant public benefit any alien applying for admission to the United States, but such parole of such alien shall not be regarded as an admission of the alien and when the purposes of such parole shall, in the opinion of the Attorney General, have been served the alien shall forthwith return or be returned to the custody from which he was paroled and thereafter his case shall continue to be dealt with in the same manner as that of any other applicant for admission to the United States.
 
@@ -754,15 +754,15 @@ Except as otherwise provided in this chapter, aliens who are inadmissible under 
 
 > if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was committed solely to assist, aid, or support the alien's spouse or child (and not another individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this paragraph.
 
-(13)(A) <sup>6</sup> The Attorney General shall determine whether a ground for inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(T) of this title.
+(13)(A) The Attorney General shall determine whether a ground for inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(T) of this title, except that the ground for inadmissibility described in subsection (a)(4) of this section shall not apply with respect to such a nonimmigrant.
 
 (B) In addition to any other waiver that may be available under this section, in the case of a nonimmigrant described in section 1101(a)(15)(T) of this title, if the Attorney General considers it to be in the national interest to do so, the Attorney General, in the Attorney General's discretion, may waive the application of—
 
-&emsp;(i) paragraphs (1) and (4) of subsection (a) of this section; and
+&emsp;(i) subsection (a)(1) of this section; and
 
-&emsp;(ii) any other provision of such subsection (excluding paragraphs (3), (10)(C), and (10(E)) <sup>7</sup> if the activities rendering the alien inadmissible under the provision were caused by, or were incident to, the victimization described in section 1101(a)(15)(T)(i)(I) of this title.
+&emsp;(ii) any other provision of subsection (a) of this section (excluding paragraphs (3), (4), (10)(C), and (10(E)) <sup>6</sup> if the activities rendering the alien inadmissible under the provision were caused by, or were incident to, the victimization described in section 1101(a)(15)(T)(i)(I) of this title.
 
-(13) <sup>6</sup> The Attorney General shall determine whether a ground of inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(U) of this title. The Attorney General, in the Attorney General's discretion, may waive the application of subsection (a) of this section (other than paragraph (3)(E)) in the case of a nonimmigrant described in section 1101(a)(15)(U) of this title, if the Attorney General considers it to be in the public or national interest to do so.
+(14) The Attorney General shall determine whether a ground of inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(U) of this title. The Attorney General, in the Attorney General's discretion, may waive the application of subsection (a) of this section (other than paragraph (3)(E)) in the case of a nonimmigrant described in section 1101(a)(15)(U) of this title, if the Attorney General considers it to be in the public or national interest to do so.
 
 #### (e) Educational visitor status; foreign residence requirement; waiver
 
@@ -830,7 +830,7 @@ The Attorney General may, in his discretion, waive the application of subparagra
 
 &emsp;(B) Before making such agreement, the accredited school has been satisfied that the alien (i) is a graduate of a school of medicine which is accredited by a body or bodies approved for the purpose by the Secretary of Education (regardless of whether such school of medicine is in the United States); or (ii)(I) has passed parts I and II of the National Board of Medical Examiners Examination (or an equivalent examination as determined by the Secretary of Health and Human Services), (II) has competency in oral and written English, (III) will be able to adapt to the educational and cultural environment in which he will be receiving his education or training, and (IV) has adequate prior education and training to participate satisfactorily in the program for which he is coming to the United States. For the purposes of this subparagraph, an alien who is a graduate of a medical school shall be considered to have passed parts I and II of the National Board of Medical Examiners examination if the alien was fully and permanently licensed to practice medicine in a State on January 9, 1978, and was practicing medicine in a State on that date.
 
-&emsp;(C) The alien has made a commitment to return to the country of his nationality or last residence upon completion of the education or training for which he is coming to the United States, and the government of the country of his nationality or last residence has provided a written assurance, satisfactory to the Secretary of Health and Human Services, that there is a need in that country for persons with the skills the alien will acquire in such education or training.
+&emsp;(C) The alien has made a commitment to return to the country of his nationality or last residence upon completion of the education or training for which he is coming to the United States, and the government of the country ofhis nationality or last residence has provided a written assurance, satisfactory to the Secretary of Health and Human Services, that there is a need in that country for persons with the skills the alien will acquire in such education or training.
 
 &emsp;(D) The duration of the alien's participation in the program of graduate medical education or training for which the alien is coming to the United States is limited to the time typically required to complete such program, as determined by the Director of the United States Information Agency at the time of the alien's admission into the United States, based on criteria which are established in coordination with the Secretary of Health and Human Services and which take into consideration the published requirements of the medical specialty board which administers such education or training program; except that—
 
@@ -838,7 +838,7 @@ The Attorney General may, in his discretion, waive the application of subparagra
 
 &emsp;&emsp;(ii) the alien may, once and not later than two years after the date the alien is admitted to the United States as an exchange visitor or acquires exchange visitor status, change the alien's designated program of graduate medical education or training if the Director approves the change and if a commitment and written assurance with respect to the alien's new program have been provided in accordance with subparagraph (C).
 
-&emsp;(E) The alien furnishes the Attorney General each year with an affidavit (in such form as the Attorney General shall prescribe) that attests that the alien (i) is in good standing inthe program of graduate medical education or training in which the alien is participating, and (ii) will return to the country of his nationality or last residence upon completion of the education or training for which he came to the United States.
+&emsp;(E) The alien furnishes the Attorney General each year with an affidavit (in such form as the Attorney General shall prescribe) that attests that the alien (i) is in good standing in the program of graduate medical education or training in which the alien is participating, and (ii) will return to the country of his nationality or last residence upon completion of the education or training for which he came to the United States.
 
 (2) An alien who is a graduate of a medical school and who is coming to the United States to perform services as a member of the medical profession may not be admitted as a nonimmigrant under section 1101(a)(15)(H)(i)(b) of this title unless—
 
@@ -874,7 +874,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (1) The qualifications referred to in section 1101(a)(15)(H)(i)(c) of this title, with respect to an alien who is coming to the United States to perform nursing services for a facility, are that the alien—
 
-&emsp;(A) has obtained a full and unrestricted license to practice professional nursing in the country where the alien obtained nursing education or has received nursing education in the United States;
+&emsp;(A) has obtained a full and unrestricted license to practice professional nursing in thecountry where the alien obtained nursing education or has received nursing education in the United States;
 
 &emsp;(B) has passed an appropriate examination (recognized in regulations promulgated in consultation with the Secretary of Health and Human Services) or has a full and unrestricted license under State law to practice professional nursing in the State of intended employment; and
 
@@ -930,13 +930,13 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (E)(i) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying facilities which have filed petitions for nonimmigrants under section 1101(a)(15)(H)(i)(c) of this title and, for each such facility, a copy of the facility's attestation under subparagraph (A) (and accompanying documentation) and each such petition filed by the facility.
 
-(ii) The Secretary of Labor shall establish a process, including reasonable time limits, for the receipt, investigation, and disposition of complaints respecting a facility's failure to meet conditions attested to or a facility's misrepresentation of a material fact in an attestation. Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary). The Secretary shall conduct an investigation under this clause if there is reasonable cause to believe that a facility fails to meet conditions attested to. Subject to the time limits established under this clause, this subparagraph shall apply regardless of whether an attestation is expired or unexpired at the time a complaint is filed.
+(ii) The Secretary of Labor shall establish a process, including reasonable time limits, for the receipt, investigation, and disposition of complaints respecting a facility's failure tomeet conditions attested to or a facility's misrepresentation of a material fact in an attestation. Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary). The Secretary shall conduct an investigation under this clause if there is reasonable cause to believe that a facility fails to meet conditions attested to. Subject to the time limits established under this clause, this subparagraph shall apply regardless of whether an attestation is expired or unexpired at the time a complaint is filed.
 
 (iii) Under such process, the Secretary shall provide, within 180 days after the date such a complaint is filed, for a determination as to whether or not a basis exists to make a finding described in clause (iv). If the Secretary determines that such a basis exists, the Secretary shall provide for notice of such determination to the interested parties and an opportunity for a hearing on the complaint within 60 days of the date of the determination.
 
 (iv) If the Secretary of Labor finds, after notice and opportunity for a hearing, that a facility (for which an attestation is made) has failed to meet a condition attested to or that there was a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $1,000 per nurse per violation, with the total penalty not to exceed $10,000 per violation) as the Secretary determines to be appropriate. Upon receipt of such notice, the Attorney General shall not approve petitions filed with respect to a facility during a period of at least one year for nurses to be employed by the facility.
 
-(v) In addition to the sanctions provided for under clause (iv), if the Secretary of Labor finds,after notice and an opportunity for a hearing, that a facility has violated the condition attested to under subparagraph (A)(iii) (relating to payment of registered nurses at the prevailing wage rate), the Secretary shall order the facility to provide for payment of such amounts of back pay as may be required to comply with such condition.
+(v) In addition to the sanctions provided for under clause (iv), if the Secretary of Labor finds, after notice and an opportunity for a hearing, that a facility has violated the condition attested to under subparagraph (A)(iii) (relating to payment of registered nurses at the prevailing wage rate), the Secretary shall order the facility to provide for payment of such amounts of back pay as may be required to comply with such condition.
 
 (F)(i) The Secretary of Labor shall impose on a facility filing an attestation under subparagraph (A) a filing fee, in an amount prescribed by the Secretary based on the costs of carrying out the Secretary's duties under this subsection, but not exceeding $250.
 
@@ -1028,11 +1028,11 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 &emsp;(ii) The conditions described in clause (i) shall not apply to an application filed with respect to the employment of an H–1B nonimmigrant who is described in subparagraph (A), (B), or (C) of section 1153(b)(1) of this title.
 
-> The employer shall make available for public examination, within one working day after the date on which an application under this paragraph is filed, at the employer's principal place of business or worksite, a copy of each such application (and such accompanying documents as are necessary). The Secretary shall compile, on a current basis, a list (by employer and by occupational classification) of the applications filed under this subsection. Such list shall include the wage rate, number of aliens sought, period of intended employment, and date of need. The Secretary shall make such list available for public examination in Washington, D.C. The Secretary of Labor shall review such an application only for completeness and obvious inaccuracies. Unless the Secretary finds that the application is incomplete or obviously inaccurate, the Secretary shall provide the certification described in section 1101(a)(15)(H)(i)(b) of this title within 7 days of the date of the filing of the application. The application form shall include a clear statement explaining the liability under subparagraph (F) of a placing employer if the other employer described in such subparagraph displaces a United States worker as described in such subparagraph. Nothing in subparagraph (G) shall be construed to prohibit an employer from using legitimate selection criteria relevant to the job that are normal or customary to the type of job involved, so long as such criteria are not applied in a discriminatory manner.
+> The employer shall make available for public examination, within one working day after the date on which an application under this paragraph is filed, at the employer's principal place of business or worksite, a copy of each such application (and such accompanying documents as are necessary). The Secretary shall compile, on a current basis, a list (by employer and by occupational classification) of the applications filed under this subsection. Such list shall include the wage rate, number of aliens sought, period of intended employment, and date of need. TheSecretary shall make such list available for public examination in Washington, D.C. The Secretary of Labor shall review such an application only for completeness and obvious inaccuracies. Unless the Secretary finds that the application is incomplete or obviously inaccurate, the Secretary shall provide the certification described in section 1101(a)(15)(H)(i)(b) of this title within 7 days of the date of the filing of the application. The application form shall include a clear statement explaining the liability under subparagraph (F) of a placing employer if the other employer described in such subparagraph displaces a United States worker as described in such subparagraph. Nothing in subparagraph (G) shall be construed to prohibit an employer from using legitimate selection criteria relevant to the job that are normal or customary to the type of job involved, so long as such criteria are not applied in a discriminatory manner.
 
 (2)(A) Subject to paragraph (5)(A), the Secretary shall establish a process for the receipt, investigation, and disposition of complaints respecting a petitioner's failure to meet a condition specified in an application submitted under paragraph (1) or a petitioner's misrepresentation of material facts in such an application. Complaints may be filed by any aggrieved person or organization (including bargaining representatives). No investigation or hearing shall be conducted on a complaint concerning such a failure or misrepresentation unless the complaint was filed not later than 12 months after the date of the failure or misrepresentation, respectively. The Secretary shall conduct an investigation under this paragraph if there is reasonable cause to believe that such a failure or misrepresentation has occurred.
 
-(B) Under such process, the Secretary shall provide, within 30 days after the date such a complaint is filed, for a determination as to whether or not a reasonable basis exists to make a finding described in subparagraph (C). If the Secretary determines that such a reasonablebasis exists, the Secretary shall provide for notice of such determination to the interested parties and an opportunity for a hearing on the complaint, in accordance with section 556 of title 5, within 60 days after the date of the determination. If such a hearing is requested, the Secretary shall make a finding concerning the matter by not later than 60 days after the date of the hearing. In the case of similar complaints respecting the same applicant, the Secretary may consolidate the hearings under this subparagraph on such complaints.
+(B) Under such process, the Secretary shall provide, within 30 days after the date such a complaint is filed, for a determination as to whether or not a reasonable basis exists to make a finding described in subparagraph (C). If the Secretary determines that such a reasonable basis exists, the Secretary shall provide for notice of such determination to the interested parties and an opportunity for a hearing on the complaint, in accordance with section 556 of title 5, within 60 days after the date of the determination. If such a hearing is requested, the Secretary shall make a finding concerning the matter by not later than 60 days after the date of the hearing. In the case of similar complaints respecting the same applicant, the Secretary may consolidate the hearings under this subparagraph on such complaints.
 
 (C)(i) If the Secretary finds, after notice and opportunity for a hearing, a failure to meet a condition of paragraph (1)(B), (1)(E), or (1)(F), a substantial failure to meet a condition of paragraph (1)(C), (1)(D), or (1)(G)(i)(I), or a misrepresentation of material fact in an application—
 
@@ -1056,7 +1056,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (v) The Secretary of Labor and the Attorney General shall devise a process under which an H–1B nonimmigrant who files a complaint regarding a violation of clause (iv) and is otherwise eligible to remain and work in the United States may be allowed to seek other appropriate employment in the United States for a period not to exceed the maximum period of stay authorized for such nonimmigrant classification.
 
-(vi)(I) It is a violation of this clause for an employer who has filed an application under this subsection to require an H–1B nonimmigrant to pay a penalty for ceasing employment with the employer prior to a date agreed to by the nonimmigrant and the employer. The Secretary shall determine whether a required payment is a penalty (and not liquidated damages) pursuant to relevant State law.
+(vi)(I) It is a violation of this clause for an employer who has filed an application under thissubsection to require an H–1B nonimmigrant to pay a penalty for ceasing employment with the employer prior to a date agreed to by the nonimmigrant and the employer. The Secretary shall determine whether a required payment is a penalty (and not liquidated damages) pursuant to relevant State law.
 
 (II) It is a violation of this clause for an employer who has filed an application under this subsection to require an alien who is the subject of a petition filed under section 1184(c)(1) of this title, for which a fee is imposed under section 1184(c)(9) of this title, to reimburse, or otherwise compensate, the employer for part or all of the cost of such fee. It is a violation of this clause for such an employer otherwise to accept such reimbursement or compensation from such an alien.
 
@@ -1064,7 +1064,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (vii)(I) It is a failure to meet a condition of paragraph (1)(A) for an employer, who has filed an application under this subsection and who places an H–1B nonimmigrant designated as a full-time employee on the petition filed under section 1184(c)(1) of this title by the employer with respect to the nonimmigrant, after the nonimmigrant has entered into employment with the employer, in nonproductive status due to a decision by the employer (based on factors such as lack of work), or due to the nonimmigrant's lack of a permit or license, to fail to pay the nonimmigrant full-time wages in accordance with paragraph (1)(A) for all such nonproductive time.
 
-(II) It is a failure to meet a condition of paragraph (1)(A) for an employer, who has filed anapplication under this subsection and who places an H–1B nonimmigrant designated as a part-time employee on the petition filed under section 1184(c)(1) of this title by the employer with respect to the nonimmigrant, after the nonimmigrant has entered into employment with the employer, in nonproductive status under circumstances described in subclause (I), to fail to pay such a nonimmigrant for such hours as are designated on such petition consistent with the rate of pay identified on such petition.
+(II) It is a failure to meet a condition of paragraph (1)(A) for an employer, who has filed an application under this subsection and who places an H–1B nonimmigrant designated as a part-time employee on the petition filed under section 1184(c)(1) of this title by the employer with respect to the nonimmigrant, after the nonimmigrant has entered into employment with the employer, in nonproductive status under circumstances described in subclause (I), to fail to pay such a nonimmigrant for such hours as are designated on such petition consistent with the rate of pay identified on such petition.
 
 (III) In the case of an H–1B nonimmigrant who has not yet entered into employment with an employer who has had approved an application under this subsection, and a petition under section 1184(c)(1) of this title, with respect to the nonimmigrant, the provisions of subclauses (I) and (II) shall apply to the employer beginning 30 days after the date the nonimmigrant first is admitted into the United States pursuant to the petition, or 60 days after the date the nonimmigrant becomes eligible to work for the employer (in the case of a nonimmigrant who is present in the United States on the date of the approval of the petition).
 
@@ -1090,19 +1090,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 (F) The Secretary may, on a case-by-case basis, subject an employer to random investigations for a period of up to 5 years, beginning on the date (on or after October 21, 1998) on which the employer is found by the Secretary to have committed a willful failure to meet a condition of paragraph (1) (or has been found under paragraph (5) to have committed a willful failure to meet the condition of paragraph (1)(G)(i)(II)) or to have made a willful misrepresentation of material fact in an application. The preceding sentence shall apply to an employer regardless of whether or not the employer is an H–1B-dependent employer. The authority of the Secretary under this subparagraph shall not be construed to be subject to, or limited by, the requirements of subparagraph (A).
 
-(G)(i) If the Secretary receives specific credible information from a source, who is likely to have knowledge of an employer's practices or employment conditions, or an employer's compliance with the employer's labor condition application under paragraph (1), and whose identity is known to the Secretary, and such information provides reasonable cause to believe that the employer has committed a willful failure to meet a condition of paragraph (1)(A), (1)(B), (1)(E), (1)(F), or (1)(G)(i)(I), has engaged in a pattern or practice of failures to meet such a condition, or has committed a substantial failure to meet such a condition that affects multiple employees, the Secretary may conduct a 30-day investigation into the alleged failure or failures. The Secretary (or the Acting Secretary in the case of the Secretary's absence or disability) shall personally certify that the requirements for conducting such an investigation have been met and shall approve commencement of the investigation. The Secretary may withhold the identity of the source from the employer, and the source's identity shall not be subject to disclosure under section 552 of title 5.
-
-(ii) The Secretary shall establish a procedure for any person, desiring to provide to the Secretary information described in clause (i) thatmay be used, in whole or in part, as the basis for commencement of an investigation described in such clause, to provide the information in writing on a form developed and provided by the Secretary and completed by or on behalf of the person. The person may not be an officer or employee of the Department of Labor, unless the information satisfies the requirement of clause (iii)(II) (although an officer or employee of the Department of Labor may complete the form on behalf of the person).
-
-(iii) Any investigation initiated or approved by the Secretary under clause (i) shall be based on information that satisfies the requirements of such clause and that (I) originates from a source other than an officer or employee of the Department of Labor, or (II) was lawfully obtained by the Secretary of Labor in the course of lawfully conducting another Department of Labor investigation under this chapter or any other Act.
-
-(iv) The receipt by the Secretary of information submitted by an employer to the Attorney General or the Secretary for purposes of securing the employment of an H–1B nonimmigrant shall not be considered a receipt of information for purposes of clause (i).
-
-(v) No investigation described in clause (i) (or hearing described in clause (vii)) may be conducted with respect to information about a failure to meet a condition described in clause (i), unless the Secretary receives the information not later than 12 months after the date of the alleged failure.
-
-(vi) The Secretary shall provide notice to an employer with respect to whom the Secretary has received information described in clause (i), prior to the commencement of an investigation under such clause, of the receipt of the information and of the potential for an investigation. The notice shall be provided in such a manner, and shall contain sufficient detail, to permit the employer to respond to the allegations before an investigation is commenced. The Secretary is not required to comply with this clause if the Secretary determines that to do so would interfere with an effort by the Secretary to secure compliance by the employer with the requirements of this subsection. There shall be no judicial review of a determination by the Secretary under this clause.
-
-(vii) If the Secretary determines under this subparagraph that a reasonable basis exists to make a finding that a failure described in clause (i) has occurred, the Secretary shall provide for notice of such determination to the interested parties and an opportunity for a hearing, in accordance with section 556 of title 5, within 60 days after the date of the determination. If such a hearing is requested, the Secretary shall make a finding concerning the matter by not later than 60 days after the date of the hearing.
+(G) Omitted
 
 (H) Nothing in this subsection shall be construed as superseding or preempting any other enforcement-related authority under this chapter (such as the authorities under section 1324b of this title), or any other Act.
 
@@ -1144,7 +1132,7 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 &emsp;(D)(i) The term “lays off”, with respect to a worker—
 
-&emsp;&emsp;(I) means to cause the worker's loss of employment, other than through a dischargefor inadequate performance, violation of workplace rules, cause, voluntary departure, voluntary retirement, or the expiration of a grant or contract (other than a temporary employment contract entered into in order to evade a condition described in subparagraph (E) or (F) of paragraph (1)); but
+&emsp;&emsp;(I) means to cause the worker's loss of employment, other than through a discharge for inadequate performance, violation of workplace rules, cause, voluntary departure, voluntary retirement, or the expiration of a grant or contract (other than a temporary employment contract entered into in order to evade a condition described in subparagraph (E) or (F) of paragraph (1)); but
 
 &emsp;&emsp;(II) does not include any situation in which the worker is offered, as an alternative to such loss of employment, a similar employment opportunity with the same employer (or, in the case of a placement of a worker with another employer under paragraph (1)(F), with either employer described in such paragraph) at equivalent or higher compensation and benefits than the position from which the employee was discharged, regardless of whether or not the employee accepts the offer.
 
@@ -1182,9 +1170,9 @@ Any alien, inadmissible from the United States under paragraph (5)(A) or (7)(A)(
 
 #### (<i>o</i>) Omitted
 
-#### (p) <sup>8</sup> Computation of prevailing wage level
+#### (p) Computation of prevailing wage level
 
-(1) In computing the prevailing wage level for an occupational classification in an area of employment for purposes of subsections (n)(1)(A)(i)(II) and (a)(5)(A) of this section in the case of an employee of—
+(1) In computing the prevailing wage level for an occupational classification in an area of employment for purposes of subsections (a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II) of this section in the case of an employee of—
 
 &emsp;(A) an institution of higher education (as defined in section 1001(a) of title 20), or a related or affiliated nonprofit entity; or
 
@@ -1200,7 +1188,7 @@ Any alien admitted under section 1101(a)(15)(B) of this title may accept an hono
 
 #### (r) Exception for certain alien nurses
 
-Subsection (a)(5)(C) of this section shall not apply to an alien who seeks to enter the United States for the purpose of performing labor as a nurse who presents to the consular officer (or in the case of an adjustment of status, the Attorney General) a certified statement from the Commission on Graduates of Foreign Nursing Schools (or an equivalent independent credentialing organization approved for the certification of nurses under subsection (a)(5)(C) of this section by the Attorney General in consultation with the Secretary of Health and Human Services) that—
+Subsection (a)(5)(C) of this section shall not apply to an alien who seeks to enter the United States for the purpose of performing labor as a nurse who presents to the consular officer (or in the case of an adjustment of status, the Attorney General) a certified statement from theCommission on Graduates of Foreign Nursing Schools (or an equivalent independent credentialing organization approved for the certification of nurses under subsection (a)(5)(C) of this section by the Attorney General in consultation with the Secretary of Health and Human Services) that—
 
 &emsp;(1) the alien has a valid and unrestricted license as a nurse in a State where the alien intends to be employed and such State verifies that the foreign licenses of alien nurses are authentic and unencumbered;
 
@@ -1220,15 +1208,123 @@ Subsection (a)(5)(C) of this section shall not apply to an alien who seeks to en
 
 &emsp;&emsp;(ii) has been approved by unanimous agreement of such commission and any equivalent credentialing organizations which have been approved under subsection (a)(5)(C) of this section for the certification of nurses under this subsection.
 
-#### (p) <sup>9</sup> Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge
+#### (s) Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge
 
 In determining whether an alien described in subsection (a)(4)(C)(i) of this section is inadmissible under subsection (a)(4) of this section or ineligible to receive an immigrant visa or otherwise to adjust to the status of permanent resident by reason of subsection (a)(4) of this section, the consular officer or the Attorney General shall not consider any benefits the alien may have received that were authorized under section 1641(c) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §212, 66 Stat. 182; July 18, 1956, ch. 629, title III, §301 (a), 70 Stat. 575; Pub. L. 85–508, §23, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(b), Mar. 18, 1959, 73 Stat. 13; Pub. L. 86–648, §8, July 14, 1960, 74 Stat. 505; Pub. L. 87–256, §109(c), Sept. 21, 1961, 75 Stat. 535; Pub. L. 87–301, §§11–15, Sept. 26, 1961, 75 Stat. 654, 655; Pub. L. 89–236, §§10, 15, Oct. 3, 1965, 79 Stat. 917, 919; Pub. L. 91–225, §2, Apr. 7, 1970, 84 Stat. 116; Pub. L. 94–484, title VI, §601(a), (c), (d), Oct. 12, 1976, 90 Stat. 2300, 2301; Pub. L. 94–571, §§5, 7(d), Oct. 20, 1976, 90 Stat. 2705, 2706; Pub. L. 95–83, title III, §307(q)(1), (2), Aug. 1, 1977, 91 Stat. 394; Pub. L. 95–549, title I, §§101, 102, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 96–70, title III, §3201(b), Sept. 27, 1979, 93 Stat. 497; Pub. L. 96–212, title II, §203(d), (f), Mar. 17, 1980, 94 Stat. 107; Pub. L. 96–538, title IV, §404, Dec. 17, 1980, 94 Stat. 3192; Pub. L. 97–116, §§4, 5(a)(1), (2), (b), 18(e), Dec. 29, 1981, 95 Stat. 1611, 1612, 1620; Pub. L. 98–454, title VI, §602\[(a)\], Oct. 5, 1984, 98 Stat. 1737; Pub. L. 98–473, title II, §220(a), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–396, §14(a), Aug. 27, 1986, 100 Stat. 842; Pub. L. 99–570, title I, §1751(a), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–639, §6(a), Nov. 10, 1986, 100 Stat. 3543; Pub. L. 99–653, §7(a), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–204, title VIII, §806(c), Dec. 22, 1987, 101 Stat. 1399; Pub. L. 100–525, §§3(1)(A), 7(c)(1), (3), 8(f), 9(i), Oct. 24, 1988, 102 Stat. 2614, 2616, 2617, 2620; Pub. L. 100–690, title VII, §7349(a), Nov. 18, 1988, 102 Stat. 4473; Pub. L. 101–238, §3(b), Dec. 18, 1989, 103 Stat. 2100; Pub. L. 101–246, title I, §131(a), (c), Feb. 16, 1990, 104 Stat.31; Pub. L. 101–649, title I, §162(e)(1), (f)(2)(B), title II, §§202(b), 205(c)(3), title V, §§511(a), 514(a), title VI, §601(a), (b), (d), Nov. 29, 1990, 104 Stat. 5011, 5012, 5014, 5020, 5052, 5053, 5067, 5075; Pub. L. 102–232, title III, §§302(e)(6), (9), 303(a)(5)(B), (6), (7)(B), 306(a)(10), (12), 307(a)–(g), 309(b)(7), Dec. 12, 1991, 105 Stat. 1746, 1747, 1751, 1753–1755, 1759; Pub. L. 103–43, title XX, §2007(a), June 10, 1993, 107 Stat. 210; Pub. L. 103–317, title V, §506(a), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(b)(1), Sept. 13, 1994, 108 Stat. 2024; Pub. L. 103–416, title II, §§203(a), 219(e), (z)(1), (5), 220(a), Oct. 25, 1994, 108 Stat. 4311, 4316, 4318, 4319; Pub. L. 104–132, title IV, §§411, 412, 440(d), Apr. 24, 1996, 110 Stat. 1268, 1269, 1277; Pub. L. 104–208, div. C, title I, §124(b)(1), title III, §§301(b)(1), (c)(1), 304(b), 305(c), 306(d), 308(c)(2)(B), (d)(1), (e)(1)(B), (C), (2)(A), (6), (f)(1)(C)–(F), (3)(A), (g)(1), (4)(B), (10)(A), (H), 322(a)(2)(B), 341(a), (b), 342(a), 343, 344(a), 345(a), 346(a), 347(a), 348(a), 349, 351(a), 352(a), 355, title V, §531(a), title VI, §§602(a), 622(b), 624(a), 671(e)(3), Sept. 30, 1996, 110 Stat. 3009–562, 3009–576, 3009–578, 3009–597, 3009–607, 3009–612, 3009–616, 3009–619 to 3009–622, 3009–625, 3009–629, 3009–635 to 3009–641, 3009–644, 3009–674, 3009–689, 3009–695, 3009–698, 3009–723; Pub. L. 105–73, §1, Nov. 12, 1997, 111 Stat. 1459; Pub. L. 105–277, div. C, title IV, §§412(a)–(c), 413(a)–(e)(1), (f), 415(a), 431(a), div. G, subdiv. B, title XXII, §2226(a), Oct. 21, 1998, 112 Stat. 2681–642 to 2681–651, 2681–654, 2681–658, 2681–820; Pub. L. 105–292, title VI, §604(a), Oct. 27, 1998, 112 Stat. 2814; Pub. L. 106–95, §§2(b), 4(a), Nov. 12, 1999, 113 Stat. 1312, 1317; Pub. L. 106–120, title VIII, §809, Dec. 3, 1999, 113 Stat. 1632; Pub. L. 106–313, title I, §§106(c)(2), 107(a), Oct. 17, 2000, 114 Stat. 1254, 1255; Pub. L. 106–386, div. A, §§107(e)(3), 111(d), div. B, title V, §§1505(a), (c)(1), (d)–(f), 1513(e), Oct. 28, 2000, 114 Stat. 1478, 1485, 1525, 1526, 1536; Pub. L. 106–395, title II, §201(b)(1), (2), Oct. 30, 2000, 114 Stat. 1633, 1634; Pub. L. 106–396, title I, §101(b)(1), Oct. 30, 2000, 114 Stat. 1638; Pub. L. 107–56, title IV, §411(a), title X, §1006(a), Oct. 26, 2001, 115 Stat. 345, 394; Pub. L. 107–150, §2(a)(2), Mar. 13, 2002, 116 Stat. 74; Pub. L. 107–273, div. C, title I, §11018(c), Nov. 2, 2002, 116 Stat. 1825.)
+#### (t) Nonimmigrant professionals; labor attestations
+
+(1) No alien may be admitted or provided status as a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title in an occupational classification unless the employer has filed with the Secretary of Labor an attestation stating the following:
+
+&emsp;(A) The employer—
+
+&emsp;&emsp;(i) is offering and will offer during the period of authorized employment to aliens admitted or provided status under section 1101(a)(15)(H)(i)(b1) of this title wages that are at least—
+
+&emsp;&emsp;&emsp;(I) the actual wage level paid by the employer to all other individuals with similar experience and qualifications for the specific employment in question; or
+
+&emsp;&emsp;&emsp;(II) the prevailing wage level for the occupational classification in the area of employment,
+
+> &emsp;&emsp;whichever is greater, based on the best information available as of the time of filing the attestation; and
+
+&emsp;&emsp;(ii) will provide working conditions for such a nonimmigrant that will not adversely affect the working conditions of workers similarly employed.
+
+&emsp;(B) There is not a strike or lockout in the course of a labor dispute in the occupational classification at the place of employment.
+
+&emsp;(C) The employer, at the time of filing the attestation—
+
+&emsp;&emsp;(i) has provided notice of the filing under this paragraph to the bargaining representative (if any) of the employer's employees in the occupational classification and area for which aliens are sought; or
+
+&emsp;&emsp;(ii) if there is no such bargaining representative, has provided notice of filing in the occupational classification through such methods as physical posting in conspicuous locations at the place of employment or electronic notification to employees in the occupational classification for which nonimmigrants under section 1101(a)(15)(H)(i)(b1) of this title are sought.
+
+&emsp;(D) A specification of the number of workers sought, the occupational classification in which the workers will be employed, and wage rate and conditions under which they will be employed.
+
+(2)(A) The employer shall make available for public examination, within one working day after the date on which an attestation under this subsection is filed, at the employer's principal place of business or worksite, a copy of each such attestation (and such accompanying documents as are necessary).
+
+(B)(i) The Secretary of Labor shall compile, on a current basis, a list (by employer and by occupational classification) of the attestations filed under this subsection. Such list shall include, with respect to each attestation, the wage rate, number of aliens sought, period of intended employment, and date of need.
+
+(ii) The Secretary of Labor shall make such list available for public examination in Washington, D.C.
+
+(C) The Secretary of Labor shall review an attestation filed under this subsection only for completeness and obvious inaccuracies. Unless the Secretary of Labor finds that an attestation is incomplete or obviously inaccurate, the Secretary of Labor shall provide the certification described in section 1101(a)(15)(H)(i)(b1) of this title within 7 days of the date of the filing of the attestation.
+
+(3)(A) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting the failure of an employer to meet a condition specified in an attestation submitted under this subsection ormisrepresentation by the employer of material facts in such an attestation. Complaints may be filed by any aggrieved person or organization (including bargaining representatives). No investigation or hearing shall be conducted on a complaint concerning such a failure or misrepresentation unless the complaint was filed not later than 12 months after the date of the failure or misrepresentation, respectively. The Secretary of Labor shall conduct an investigation under this paragraph if there is reasonable cause to believe that such a failure or misrepresentation has occurred.
+
+(B) Under the process described in subparagraph (A), the Secretary of Labor shall provide, within 30 days after the date a complaint is filed, for a determination as to whether or not a reasonable basis exists to make a finding described in subparagraph (C). If the Secretary of Labor determines that such a reasonable basis exists, the Secretary of Labor shall provide for notice of such determination to the interested parties and an opportunity for a hearing on the complaint, in accordance with section 556 of title 5, within 60 days after the date of the determination. If such a hearing is requested, the Secretary of Labor shall make a finding concerning the matter by not later than 60 days after the date of the hearing. In the case of similar complaints respecting the same applicant, the Secretary of Labor may consolidate the hearings under this subparagraph on such complaints.
+
+(C)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, a failure to meet a condition of paragraph (1)(B), a substantial failure to meet a condition of paragraph (1)(C) or (1)(D), or a misrepresentation of material fact in an attestation—
+
+&emsp;(I) the Secretary of Labor shall notify the Secretary of State and the Secretary of Homeland Security of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $1,000 per violation) as the Secretary of Labor determines to be appropriate; and
+
+&emsp;(II) the Secretary of State or the Secretary of Homeland Security, as appropriate, shall not approve petitions or applications filed with respect to that employer under section 1154, 1184(c), or 1101(a)(15)(H)(i)(b1) of this title during a period of at least 1 year for aliens to be employed by the employer.
+
+(ii) If the Secretary of Labor finds, after notice and opportunity for a hearing, a willful failure to meet a condition of paragraph (1), a willful misrepresentation of material fact in an attestation, or a violation of clause (iv)—
+
+&emsp;(I) the Secretary of Labor shall notify the Secretary of State and the Secretary of Homeland Security of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 per violation) as the Secretary of Labor determines to be appropriate; and
+
+&emsp;(II) the Secretary of State or the Secretary of Homeland Security, as appropriate, shall not approve petitions or applications filed with respect to that employer under section 1154, 1184(c), or 1101(a)(15)(H)(i)(b1) of this title during a period of at least 2 years for aliens to be employed by the employer.
+
+(iii) If the Secretary of Labor finds, after notice and opportunity for a hearing, a willful failure to meet a condition of paragraph (1) or a willful misrepresentation of material fact in an attestation, in the course of which failure or misrepresentation the employer displaced a United States worker employed by the employer within the period beginning 90 days before and ending 90 days after the date of filing of any visa petition or application supported by the attestation—
+
+&emsp;(I) the Secretary of Labor shall notify the Secretary of State and the Secretary of Homeland Security of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $35,000 per violation) as the Secretary of Labor determines to be appropriate; and
+
+&emsp;(II) the Secretary of State or the Secretary of Homeland Security, as appropriate, shall not approve petitions or applications filed with respect to that employer under section 1154, 1184(c), or 1101(a)(15)(H)(i)(b1) of this title during a period of at least 3 years for aliens to be employed by the employer.
+
+(iv) It is a violation of this clause for an employer who has filed an attestation under this subsection to intimidate, threaten, restrain, coerce, blacklist, discharge, or in any other manner discriminate against an employee (which term, for purposes of this clause, includes a former employee and an applicant for employment) because the employee has disclosed information to the employer, or to any other person, that the employee reasonably believes evidences a violation of this subsection, or any rule or regulation pertaining to this subsection, or because the employee cooperates or seeks to cooperate in an investigation or other proceeding concerning the employer's compliance with the requirements of this subsection or any rule or regulation pertaining to this subsection.
+
+(v) The Secretary of Labor and the Secretary of Homeland Security shall devise a process under which a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title who files a complaint regarding a violation of clause (iv) and is otherwise eligible to remain and work in the United States may be allowed to seek other appropriate employment in the United States for a period not to exceed the maximum period of stay authorized for such nonimmigrant classification.
+
+(vi)(I) It is a violation of this clause for an employer who has filed an attestation under this subsection to require a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title to pay a penalty for ceasing employment with the employer prior to a date agreed to by the nonimmigrant and the employer. The Secretary of Labor shall determine whether a required payment is a penalty (and not liquidated damages) pursuant to relevant State law.
+
+(II) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an employer has committed a violation of this clause,the Secretary of Labor may impose a civil monetary penalty of $1,000 for each such violation and issue an administrative order requiring the return to the nonimmigrant of any amount paid in violation of this clause, or, if the nonimmigrant cannot be located, requiring payment of any such amount to the general fund of the Treasury.
+
+(vii)(I) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an attestation under this subsection and who places a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title designated as a full-time employee in the attestation, after the nonimmigrant has entered into employment with the employer, in nonproductive status due to a decision by the employer (based on factors such as lack of work), or due to the nonimmigrant's lack of a permit or license, to fail to pay the nonimmigrant full-time wages in accordance with paragraph (1)(A) for all such nonproductive time.
+
+(II) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an attestation under this subsection and who places a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title designated as a part-time employee in the attestation, after the nonimmigrant has entered into employment with the employer, in nonproductive status under circumstances described in subclause (I), to fail to pay such a nonimmigrant for such hours as are designated on the attestation consistent with the rate of pay identified on the attestation.
+
+(III) In the case of a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title who has not yet entered into employment with an employer who has had approved an attestation under this subsection with respect to the nonimmigrant, the provisions of subclauses (I) and (II) shall apply to the employer beginning 30 days after the date the nonimmigrant first is admitted into the United States, or 60 days after the date the nonimmigrant becomes eligible to work for the employer in the case of a nonimmigrant who is present in the United States on the date of the approval of the attestation filed with the Secretary of Labor.
+
+(IV) This clause does not apply to a failure to pay wages to a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title for nonproductive time due to non-work-related factors, such as the voluntary request of the nonimmigrant for an absence or circumstances rendering the nonimmigrant unable to work.
+
+(V) This clause shall not be construed as prohibiting an employer that is a school or other educational institution from applying to a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title an established salary practice of the employer, under which the employer pays to nonimmigrants under section 1101(a)(15)(H)(i)(b1) of this title and United States workers in the same occupational classification an annual salary in disbursements over fewer than 12 months, if—
+
+&emsp;(aa) the nonimmigrant agrees to the compressed annual salary payments prior to the commencement of the employment; and
+
+&emsp;(bb) the application of the salary practice to the nonimmigrant does not otherwise cause the nonimmigrant to violate any condition of the nonimmigrant's authorization under this chapter to remain in the United States.
+
+(VI) This clause shall not be construed as superseding clause (viii).
+
+(viii) It is a failure to meet a condition of paragraph (1)(A) for an employer who has filed an attestation under this subsection to fail to offer to a nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title, during the nonimmigrant's period of authorized employment, benefits and eligibility for benefits (including the opportunity to participate in health, life, disability, and other insurance plans; the opportunity to participate in retirement and savings plans; and cash bonuses and non-cash compensation, such as stock options (whether or not based on performance)) on the same basis, and in accordance with the same criteria, as the employer offers to United States workers.
+
+(D) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an employer has not paid wages at the wage level specified in the attestation and required under paragraph (1), the Secretary of Labor shall order the employer to provide for payment of such amounts of back pay as may be required to comply with the requirements of paragraph (1), whether or not a penalty under subparagraph (C) has been imposed.
+
+(E) The Secretary of Labor may, on a case-by-case basis, subject an employer to random investigations for a period of up to 5 years, beginning on the date on which the employer is found by the Secretary of Labor to have committed a willful failure to meet a condition of paragraph (1) or to have made a willful misrepresentation of material fact in an attestation. The authority of the Secretary of Labor under this subparagraph shall not be construed to be subject to, or limited by, the requirements of subparagraph (A).
+
+(F) Nothing in this subsection shall be construed as superseding or preempting any other enforcement-related authority under this chapter (such as the authorities under section 1324b of this title), or any other Act.
+
+(4) For purposes of this subsection:
+
+&emsp;(A) The term “area of employment” means the area within normal commuting distance of the worksite or physical location where the work of the nonimmigrant under section 1101(a)(15)(H)(i)(b1) of this title is or will be performed. If such worksite or location is within a Metropolitan Statistical Area, any place within such area is deemed to be within the area of employment.
+
+&emsp;(B) In the case of an attestation with respect to one or more nonimmigrants under section 1101(a)(15)(H)(i)(b1) of this title by an employer, the employer is considered to “displace” a United States worker from a job if the employer lays off the worker from a job that is essentially the equivalent of the job for which the nonimmigrant or nonimmigrants is or are sought. A job shall not be considered to be essentially equivalent of another job unless it involves essentially the same responsibilities, was held by a United States worker with substantially equivalent qualifications and experience, and is located in the same area of employment as the other job.
+
+&emsp;(C)(i) The term “lays off”, with respect to a worker—
+
+&emsp;&emsp;(I) means to cause the worker's loss of employment, other than through a discharge for inadequate performance, violation of workplace rules, cause, voluntary departure, voluntary retirement, or the expiration of a grant or contract; but
+
+&emsp;&emsp;(II) does not include any situation in which the worker is offered, as an alternative to such loss of employment, a similar employment opportunity with the same employer at equivalent or higher compensation and benefits than the position from which the employee was discharged, regardless of whether or not the employee accepts the offer.
+
+&emsp;(ii) Nothing in this subparagraph is intended to limit an employee's rights under a collective bargaining agreement or other employment contract.
+
+&emsp;(D) The term “United States worker” means an employee who—
+
+&emsp;&emsp;(i) is a citizen or national of the United States; or
+
+&emsp;&emsp;(ii) is an alien who is lawfully admitted for permanent residence, is admitted as a refugee under section 1157 of this title, is granted asylum under section 1158 of this title, or is an immigrant otherwise authorized, by this chapter or by the Secretary of Homeland Security, to be employed.
+
+(June 27, 1952, ch. 477, title II, ch. 2, §212, 66 Stat. 182; July 18, 1956, ch. 629, title III, §301 (a), 70 Stat. 575; Pub. L. 85–508, §23, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(b), Mar. 18, 1959, 73 Stat. 13; Pub. L. 86–648, §8, July 14, 1960, 74 Stat. 505; Pub. L. 87–256, §109(c), Sept. 21, 1961, 75 Stat. 535; Pub. L. 87–301, §§11–15, Sept. 26, 1961, 75 Stat. 654, 655; Pub. L. 89–236, §§10, 15, Oct. 3, 1965, 79 Stat. 917, 919; Pub. L. 91–225, §2, Apr. 7, 1970, 84 Stat. 116; Pub. L. 94–484, title VI, §601(a), (c), (d), Oct. 12, 1976, 90 Stat. 2300, 2301; Pub. L. 94–571, §§5, 7(d), Oct. 20, 1976, 90 Stat. 2705, 2706; Pub. L. 95–83, title III, §307(q)(1), (2), Aug. 1, 1977, 91 Stat. 394; Pub. L. 95–549, title I, §§101, 102, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 96–70, title III, §3201(b), Sept. 27, 1979, 93 Stat. 497; Pub. L. 96–212, title II, §203(d), (f), Mar. 17, 1980, 94 Stat. 107; Pub. L. 96–538, title IV, §404, Dec. 17, 1980, 94 Stat. 3192; Pub. L. 97–116, §§4, 5(a)(1), (2), (b), 18(e), Dec. 29, 1981, 95 Stat. 1611, 1612, 1620; Pub. L. 98–454, title VI, §602\[(a)\], Oct. 5, 1984, 98 Stat. 1737; Pub. L. 98–473, title II, §220(a), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–396, §14(a), Aug. 27, 1986, 100 Stat. 842; Pub. L. 99–570, title I, §1751(a), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–639, §6(a), Nov. 10, 1986, 100 Stat. 3543; Pub. L. 99–653, §7(a), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–204, title VIII, §806(c), Dec. 22, 1987, 101 Stat. 1399; Pub. L. 100–525, §§3(1)(A), 7(c)(1), (3), 8(f), 9(i), Oct. 24, 1988, 102 Stat. 2614, 2616, 2617, 2620; Pub. L. 100–690, title VII, §7349(a), Nov. 18, 1988, 102 Stat. 4473; Pub. L. 101–238, §3(b), Dec. 18, 1989, 103 Stat. 2100; Pub. L. 101–246, title I, §131(a), (c), Feb. 16, 1990, 104 Stat. 31; Pub. L. 101–649, title I, §162(e)(1), (f)(2)(B), title II, §§202(b), 205(c)(3), title V, §§511(a), 514(a), title VI, §601(a), (b), (d), Nov. 29, 1990, 104 Stat. 5011, 5012, 5014, 5020, 5052, 5053, 5067, 5075; Pub. L. 102–232, title III, §§302(e)(6), (9), 303(a)(5)(B), (6), (7)(B), 306(a)(10), (12), 307(a)–(g), 309(b)(7), Dec. 12, 1991, 105 Stat. 1746, 1747, 1751, 1753–1755, 1759; Pub. L. 103–43, title XX, §2007(a), June 10, 1993, 107 Stat. 210; Pub. L. 103–317, title V, §506(a), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(b)(1), Sept. 13, 1994, 108 Stat. 2024; Pub. L. 103–416, title II, §§203(a), 219(e), (z)(1), (5), 220(a), Oct. 25, 1994, 108 Stat. 4311, 4316, 4318, 4319; Pub. L. 104–132, title IV, §§411, 412, 440(d), Apr. 24, 1996, 110 Stat. 1268, 1269, 1277; Pub. L. 104–208, div. C, title I, §124(b)(1), title III, §§301(b)(1), (c)(1), 304(b), 305(c), 306(d), 308(c)(2)(B), (d)(1), (e)(1)(B), (C), (2)(A), (6), (f)(1)(C)–(F), (3)(A), (g)(1), (4)(B), (10)(A), (H), 322(a)(2)(B), 341(a), (b), 342(a), 343, 344(a), 345(a), 346(a), 347(a), 348(a), 349, 351(a), 352(a), 355, title V, §531(a), title VI, §§602(a), 622(b), 624(a), 671(e)(3), Sept. 30, 1996, 110 Stat. 3009–562, 3009–576, 3009–578, 3009–597, 3009–607, 3009–612, 3009–616, 3009–619 to 3009–622, 3009–625, 3009–629, 3009–635 to 3009–641, 3009–644, 3009–674, 3009–689, 3009–695, 3009–698, 3009–723; Pub. L. 105–73, §1, Nov. 12, 1997, 111 Stat. 1459; Pub. L. 105–277, div. C, title IV, §§412(a)–(c), 413(a)–(e)(1), (f), 415(a), 431(a), div. G, subdiv. B, title XXII, §2226(a), Oct. 21, 1998, 112 Stat. 2681–642 to 2681–651, 2681–654, 2681–658, 2681–820; Pub. L. 105–292, title VI, §604(a), Oct. 27, 1998, 112 Stat. 2814; Pub. L. 106–95, §§2(b), 4(a), Nov. 12, 1999, 113 Stat. 1312, 1317; Pub. L. 106–120, title VIII, §809, Dec. 3, 1999, 113 Stat. 1632; Pub. L. 106–313, title I, §§106(c)(2), 107(a), Oct. 17, 2000, 114 Stat. 1254, 1255; Pub. L. 106–386, div. A, §§107(e)(3), 111(d), div. B, title V, §§1505(a), (c)(1), (d)–(f), 1513(e), Oct. 28, 2000, 114 Stat. 1478, 1485, 1525, 1526, 1536; Pub. L. 106–395, title II, §201(b)(1), (2), Oct. 30, 2000, 114 Stat. 1633, 1634; Pub. L. 106–396, title I, §101(b)(1), Oct. 30, 2000, 114 Stat. 1638; Pub. L. 107–56, title IV, §411(a), title X, §1006(a), Oct. 26, 2001, 115 Stat. 345, 394; Pub. L. 107–150, §2(a)(2), Mar. 13, 2002, 116 Stat. 74; Pub. L. 107–273, div. C, title I, §11018(c), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–77, title IV, §402(b), (c), Sept. 3, 2003, 117 Stat. 940, 946; Pub. L. 108–193, §§4(b)(4), 8(a)(2), Dec. 19, 2003, 117 Stat. 2879, 2886.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 413(e)(2) of Pub. L. 105–277, see Effective and Termination Dates of 1998 Amendments note below.</i>
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
@@ -1238,17 +1334,37 @@ Section 112 of the Immigration Act of 1990, referred to in subsec. (a)(6)(E)(ii)
 
 Section 1184(<i>l</i>) of this title, referred to in subsec. (a)(6)(G), probably means the subsec. (<i>l</i>) of section 1184, which relates to nonimmigrant elementary and secondary school students and was added by Pub. L. 104–208, div. C, title VI, §625(a)(1), Sept. 30, 1996, 110 Stat. 3009–699, and redesignated subsec.(m) of section 1184 by Pub. L. 106–386, div. A, §107(e)(2)(A), Oct. 28, 2000, 114 Stat. 1478.
 
-The Social Security Act, referred to in subsec. (m)(6)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (m)(6)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) ofsubchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
+
+Subsec. (n)(2)(G) of this section is omitted to reflect the termination of amendment by section 413(e)(2) of Pub. L. 105–277, see Effective and Termination Dates of 1998 Amendments note below.
 
 Subsection (j)(3), which required the Director of the United States Information Agency to transmit an annual report to Congress on aliens submitting affidavits described in subsection (j)(1)(E) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 193 of House Document No. 103–7.
 
 #### Amendments
 
+2003—Subsec. (d)(13). Pub. L. 108–193, §8(a)(2), redesignated par. (13), relating to Attorney General's determination whether a ground for inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(U) of this title, as (14).
+
+Subsec. (d)(13)(A). Pub. L. 108–193, §4(b)(4)(A), inserted “, except that the ground for inadmissibility described in subsection (a)(4) of this section shall not apply with respect to such a nonimmigrant” before period at end.
+
+Subsec. (d)(13)(B)(i). Pub. L. 108–193, §4(b)(4)(B)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “paragraphs (1) and (4) of subsection (a) of this section; and”.
+
+Subsec. (d)(13)(B)(ii). Pub. L. 108–193, §4(b)(4)(B)(ii), substituted “subsection (a) of this section” for “such subsection” and inserted “(4),” after “(3),”.
+
+Subsec. (d)(14). Pub. L. 108–193, §8(a)(2), redesignated par. (13), relating to Attorney General's determination whether a ground for inadmissibility exists with respect to a nonimmigrant described in section 1101(a)(15)(U) of this title, as (14).
+
+Subsec. (p). Pub. L. 108–77, §§107(c), 402(b)(1), temporarily redesignated subsec. (p), relating to consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge, as (s). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (p)(1). Pub. L. 108–77, §§107(c), 402(c), temporarily substituted “(a)(5)(A), (n)(1)(A)(i)(II), and (t)(1)(A)(i)(II)” for “(n)(1)(A)(i)(II) and (a)(5)(A)”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (s). Pub. L. 108–77, §§107(c), 402(b)(1), temporarily redesignated subsec. (p), relating to consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge, as (s). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (t). Pub. L. 108–77, §§107(c), 402(b)(2), temporarily added subsec. (t). See Effective and Termination Dates of 2003 Amendment note below.
+
 2002—Subsec. (a)(4)(C)(ii). Pub. L. 107–150 substituted “(and any additional sponsor required under section 1183a(f) of this title or any alternative sponsor permitted under paragraph (5)(B) of such section)” for “(including any additional sponsor required under section 1183a(f) of this title)”.
 
-Subsec. (e). Pub. L. 107–273 substituted “section 1184(<i>l</i>)” for “ section 1184(k)”.
+Subsec. (e). Pub. L. 107–273 substituted “section 1184(<i>l</i>)” for “section 1184(k)”.
 
 2001—Subsec. (a)(2)(I). Pub. L. 107–56, §1006(a), added subpar. (I).
 
@@ -1610,7 +1726,7 @@ Subsec. (n)(2)(D). Pub. L. 102–232, §303(a)(7)(B)(v), (vi), substituted “If
 
 Pub. L. 101–649, §514(a), as amended by Pub. L. 102–232, §306(a)(12), substituted “20 years” for “ten years” in par. (17).
 
-Pub. L. 101–649, §162(e)(1), which provided that par. (5) is amended in subpar. (A), by striking “Any alien who seeks to enter the United States for the purpose of performing skilled or unskilled labor” and inserting “Any alien who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title, in subpar. (B), by inserting “who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title” after “An alien” the firstplace it appears, and by striking subpar. (C), was repealed by Pub. L. 102–232, §302(e)(6). See Construction of 1990 Amendment note below.
+Pub. L. 101–649, §162(e)(1), which provided that par. (5) is amended in subpar. (A), by striking “Any alien who seeks to enter the United States for the purpose of performing skilled or unskilled labor” and inserting “Any alien who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title, in subpar. (B), by inserting “who seeks admission or status as an immigrant under paragraph (2) or (3) of section 1153(b) of this title” after “An alien” the first place it appears, and by striking subpar. (C), was repealed by Pub. L. 102–232, §302(e)(6). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–246, §131(a), added par. (34) which read as follows: “Any alien who has committed in the United States any serious criminal offense, as defined in section 1101(h) of this title, for whom immunity from criminal jurisdiction was exercised with respect to that offense, who as a consequence of the offense and the exercise of immunity has departed the United States, and who has not subsequently submitted fully to the jurisdiction of the court in the United States with jurisdiction over the offense.”
 
@@ -1706,7 +1822,7 @@ Subsec. (j)(1)(A). Pub. L. 97–116, §5(b)(3), (4), substituted “Secretary of
 
 Subsec. (j)(1)(B). Pub. L. 97–116, §5(a)(2), (b)(3), (7)(A), (B), substituted “Secretary of Education” for “Commissioner of Education”, “(ii)(I)” for “(ii)”, and “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”; inserted “(II)” before “has competency”, “(III)” before “will be able to adapt”, and “(IV)” before “has adequate prior education”; and inserted provision that for purposes of this subparagraph an alien who is a graduate of a medical school be considered to have passed parts I and II of the National Board of Medical Examiners examination if the alien was fully and permanently licensed to practice medicine in a State on Jan. 9, 1978, and was practicing medicine in a State on that date.
 
-Subsec. (j)(1)(C). Pub. L. 97–116, §5(b)(2)–(4), struck out “(including any extension of the duration thereof under subparagraph (D))” after “to the United States” and substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” and a period for “; and” at end.
+Subsec. (j)(1)(C). Pub. L. 97–116, §5(b)(2)–(4), struck out “(including any extension of the duration thereof under subparagraph (D))” after “to the United States” and substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” and a period for “; and” at end.
 
 Subsec. (j)(1)(D). Pub. L. 97–116, §5(b)(5), substituted provision permitting aliens coming to the United States to study in medical residency training programs to remain until the typical completion date of the program, as determined by the Director of the International Communication Agency at the time of the alien's entry, based on criteria established in coordination with the Secretary of Health and Human Services, except that such duration be limited to seven years unless the alien demonstrates to the satisfaction of the Director that the country to which the alien will return after such specialty education has exceptional need for an individual trained in such specialty, and that the alien may change enrollment in programs once within two years after coming to the United States if approval of the Director is obtained and further commitments are obtained from the alien to assure that, upon completion of the program, the alien would return to his country for provision limiting the duration of the alien's participation in the program for which he is coming to the United States to not more than 2 years, with a possible one year extension.
 
@@ -1734,7 +1850,7 @@ Subsec. (j)(2)(A). Pub. L. 96–538 substituted “December 30, 1981” for “D
 
 Subsec. (d)(3). Pub. L. 95–549, §102, inserted reference to par. (33) in parenthetical text.
 
-1977—Subsec. (a)(32). Pub. L. 95–83, §307(q)(1), inserted “not accredited by a body or bodies approved for the purpose by the Commissioner of Education (regardless of whether such school of medicine is in the United States” after “graduates of a medical school” in first sentence and struck out second sentence exclusion of aliens provision with respect to application to special immigrants defined in section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of theUnited States citizens or of aliens lawfully admitted for permanent residence).
+1977—Subsec. (a)(32). Pub. L. 95–83, §307(q)(1), inserted “not accredited by a body or bodies approved for the purpose by the Commissioner of Education (regardless of whether such school of medicine is in the United States” after “graduates of a medical school” in first sentence and struck out second sentence exclusion of aliens provision with respect to application to special immigrants defined in section 1101(a)(27)(A) of this title (other than the parents, spouses, or children of the United States citizens or of aliens lawfully admitted for permanent residence).
 
 Subsec. (j)(1)(B). Pub. L. 95–83, §307(q)(2)(A), inserted cl. (i) and designated existing provisions as cl. (ii).
 
@@ -1792,9 +1908,13 @@ Subsecs. (g) to (i). Pub. L. 87–301, §§12, 14, 15, added subsecs. (f) to (h)
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and ceases to be effective on the date the Agreement ceases to be in force, see section 107 of Pub. L. 108–77, set out in a note under section 3805 of Title 19, Customs Duties.
+
 #### Effective Date of 2002 Amendments
 
-Pub. L. 107–273, div. C, title I, §11018(d), Nov. 2, 2002, 116 Stat. 1825, provided that: “The amendments made by this section \[amending this section, section 1184 of this title, and provisions set out as a note under thissection\] shall take effect as if this Act \[see Tables for classification\] were enacted on May 31, 2002.”
+Pub. L. 107–273, div. C, title I, §11018(d), Nov. 2, 2002, 116 Stat. 1825, provided that: “The amendments made by this section \[amending this section, section 1184 of this title, and provisions set out as a note under this section\] shall take effect as if this Act \[see Tables for classification\] were enacted on May 31, 2002.”
 
 Pub. L. 107–150, §2(b), Mar. 13, 2002, 116 Stat. 75, provided that: “The amendments made by subsection (a) \[amending this section and section 1183a of this title\] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act \[Mar. 13, 2002\], except that, in the case of a death occurring before such date, such amendments shall apply only if—
 
@@ -1882,7 +2002,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXII, §2226(b), Oct. 21, 1998, 112 
 
 Section 301(b)(3) of title III of div. C of Pub. L. 104–208 provided that: “In applying section 212(a)(9)(B) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(9)(B)\], as inserted by paragraph (1), no period before the title III–A effective date \[see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title\] shall be included in a period of unlawful presence in the United States.”
 
-Section 301(c)(2) of title III of div. C of Pub. L. 104–208 provided that: “The requirements of subclauses (II) and (III) of section 212(a)(6)(A)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(6)(A)(ii)(II), (III)\], as inserted by paragraph (1), shall not apply to an alien who demonstrates that the alien first arrived in the United States before the title III–A effective date (described in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
+Section 301(c)(2) of title III of div. C of Pub. L. 104–208 provided that: “The requirements of subclauses (II) and\(III) of section 212(a)(6)(A)(ii) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(6)(A)(ii)(II), (III)\], as inserted by paragraph (1), shall not apply to an alien who demonstrates that the alien first arrived in the United States before the title III–A effective date (described in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
 
 Section 306(d) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 104–132.
 
@@ -1918,7 +2038,7 @@ Amendment by section 219(e) of Pub. L. 103–416 effective as if included in the
 
 Section 219(z) of Pub. L. 103–416 provided that the amendment made by subsec. (z)(1), (5) of that section is effective as if included in the Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. 102–232.
 
-Section 220(c) of Pub. L. 103–416, as amended by Pub. L. 104–208, div. C, title VI, §622(a), Sept. 30, 1996, 110 Stat. 3009–695; Pub. L. 107–273, div. C, title I, §11018(b), Nov. 2, 2002, 116 Stat. 1825, provided that: “The amendments made by this section \[amending this section and section 1184 of this title\] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(J)\], or acquiring such status after admissionto the United States, before, on, or after the date of enactment of this Act \[Oct. 25, 1994\] and before June 1, 2004.”
+Section 220(c) of Pub. L. 103–416, as amended by Pub. L. 104–208, div. C, title VI, §622(a), Sept. 30, 1996, 110 Stat. 3009–695; Pub. L. 107–273, div. C, title I, §11018(b), Nov. 2, 2002, 116 Stat. 1825, provided that: “The amendments made by this section \[amending this section and section 1184 of this title\] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(J)\], or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act \[Oct. 25, 1994\] and before June 1, 2004.”
 
 Section 506(c) of Pub. L. 103–317, as amended by Pub. L. 105–46, §123, Sept. 30, 1997, 111 Stat. 1158; Pub. L. 105–119, title I, §111(b), Nov. 26, 1997, 111 Stat. 2458, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1994, and shall cease to have effect on October 1, 1997. The amendment made by subsection (b) \[amending section 1255 of this title\] shall take effect on October 1, 1994.”
 
@@ -2082,7 +2202,7 @@ Regulations.—Not later than 30 days after the date of the enactment of this Ac
 
 “(d)
 
-Interim Treatment.—A nonimmigrant whose authorized period of stay is extended by operation of this section, and the spouse and child of such nonimmigrant, shall be considered as having continued to maintain lawful status as a nonimmigrant through September 30, 1997.”
+Interim Treatment.—A nonimmigrant whose authorized period of stay is extended by operation of this section, and the spouse and child of such nonimmigrant, shall be considered as having continued tomaintain lawful status as a nonimmigrant through September 30, 1997.”
 
 #### References to Inadmissible Deemed To Include Excludable and References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
@@ -2218,7 +2338,7 @@ Section 3(c) of Pub. L. 101–238 provided that: “The Secretary of Labor (in c
 
 #### Prohibition on Exclusion or Deportation of Aliens on Certain Grounds
 
-Section 901 of Pub. L. 100–204, as amended by Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–246, title I, §128, Feb. 16, 1990, 104 Stat. 30, provided that no nonimmigrant alien was to be denied a visa or excluded from admission into the United States, or subject to deportation because of any past, current or expected beliefs, statements or associations which, if engaged in by a United States citizen in the United States, would be protected under the Constitution of the United States, and which provided construction regarding excludable aliens and standing to sue, prior to repeal by Pub. L. 101–649, title VI, §603(a)(21), Nov. 29, 1990, 104 Stat. 5084.
+Section 901 of Pub. L. 100–204, as amended by Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub.L. 101–246, title I, §128, Feb. 16, 1990, 104 Stat. 30, provided that no nonimmigrant alien was to be denied a visa or excluded from admission into the United States, or subject to deportation because of any past, current or expected beliefs, statements or associations which, if engaged in by a United States citizen in the United States, would be protected under the Constitution of the United States, and which provided construction regarding excludable aliens and standing to sue, prior to repeal by Pub. L. 101–649, title VI, §603(a)(21), Nov. 29, 1990, 104 Stat. 5084.
 
 #### Regulations Governing Admission, Detention, and Travel of Nonimmigrant Aliens in Guam Pursuant to Visa Waivers
 
@@ -2264,7 +2384,7 @@ Section 602(a), (b) of Pub. L. 94–484, as added by Pub. L. 95–83, title III,
 
 #### Labor Certification for Graduates of Foreign Medical Schools; Development of Data by Secretary of Health, Education, and Welfare Not Later Than Oct. 12, 1977
 
-Section 906 of Pub. L. 94–484 directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 12, 1976, to develop sufficient data to enable the Secretary of Labor to make equitable determinations with regard to applications for labor certification by graduates of foreign medical schools, such data to include the number of physicians (by specialty and bypercent of population) in a geographic area necessary to provide adequate medical care, including such care in hospitals, nursing homes, and other health care institutions, in such area.
+Section 906 of Pub. L. 94–484 directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 12, 1976, to develop sufficient data to enable the Secretary of Labor to make equitable determinations with regard to applications for labor certification by graduates of foreign medical schools, such data to include the number of physicians (by specialty and by percent of population) in a geographic area necessary to provide adequate medical care, including such care in hospitals, nursing homes, and other health care institutions, in such area.
 
 #### Resettlement of Refugee-Escapee; Reports; Formula; Termination Date; Persons Difficult To Resettle; Creation of Record of Admission for Permanent Residence
 
@@ -2280,7 +2400,7 @@ Sec. 2. Repealed. Pub. L. 89–236, §16, Oct. 3, 1965, 79 Stat. 919.\]
 
 “
 
-Sec. 3. Any alien who was paroled into the United States as a refugee-escapee, pursuant to section 1 of the Act, whose parole has not theretofore been terminated by the Attorney General pursuant to such regulations as he may prescribe under the authority of section 212(d)(5) of the Immigration and Nationality Act \[subsec. (d)(5) of this section\]; and who has been in the United States for at least two years, and who has not acquired permanent residence, shall forthwith return or be returned to the custody of the Immigration and Naturalization Service and shall thereupon be inspected and examined for admission into the United States, and his case dealt with in accordance with the provisions of sections 235, 236, and 237 of the Immigration and Nationality Act \[sections 1225, 1226, and \[former\] 1227 of this title\].
+Sec. 3. Any alien who was paroled into the United States as a refugee-escapee, pursuant to section 1 of the Act, whose parole has not theretofore been terminated by the Attorney General pursuant to such regulations as he may prescribe under the authority of section 212(d)(5) of the Immigration and Nationality Act \[subsec. (d)(5) of this section\]; and who has been in the United States for at least two years, and who has notacquired permanent residence, shall forthwith return or be returned to the custody of the Immigration and Naturalization Service and shall thereupon be inspected and examined for admission into the United States, and his case dealt with in accordance with the provisions of sections 235, 236, and 237 of the Immigration and Nationality Act \[sections 1225, 1226, and \[former\] 1227 of this title\].
 
 “
 
@@ -2320,6 +2440,44 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-ninth day of Septemb
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Proc. No. 7750. To Suspend Entry as Immigrants or Nonimmigrants of Persons Engaged in or Benefiting from Corruption
+
+Proc. No. 7750, Jan. 12, 2004, 69 F.R. 2287, provided:
+
+In light of the importance of legitimate and transparent public institutions to world stability, peace, and development, and the serious negative effects that corruption of public institutions has on the United States efforts to promote security and to strengthen democratic institutions and free market systems, and in light of the importance to the United States and the international community of fighting corruption, as evidenced by the Third Global Forum on Fighting Corruption and Safeguarding Integrity and other intergovernmental efforts, I have determined that it is in the interests of the United States to take action to restrict the international travel and to suspend the entry into the United States, as immigrants or nonimmigrants, of certain persons who have committed, participated in, or are beneficiaries of corruption in the performance of public functions where that corruption has serious adverse effects on international activity of U.S. businesses, U.S. foreign assistance goals, the security of the United States against transnational crime and terrorism, or the stability of democratic institutions and nations.
+
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States, including section 212(f) of the Immigration and Nationality Act of 1952, 8 U.S.C. 1182(f), and section 301 of title 3, United States Code, hereby find that the unrestricted immigrant and nonimmigrant entry into the United States of persons described in section 1 of this proclamation would, except as provided in sections 2 and 3 of this proclamation, be detrimental to the interests of the United States.
+
+I therefore hereby proclaim that:
+
+Section 1. The entry into the United States, as immigrants or nonimmigrants, of the following persons is hereby suspended:
+
+(a) Public officials or former public officials whose solicitation or acceptance of any article of monetary value, or other benefit, in exchange for any act or omission in the performance of their public functions has or had serious adverse effects on the national interests of the United States.
+
+(b) Persons whose provision of or offer to provide any article of monetary value or other benefit to any public official in exchange for any act or omission in the performance of such official's public functions has or had serious adverse effects on the national interests of the United States.
+
+(c) Public officials or former public officials whose misappropriation of public funds or interference with the judicial, electoral, or other public processes has or had serious adverse effects on the national interests of the United States.
+
+(d) The spouses, children, and dependent household members of persons described in paragraphs (a), (b), and (c) above, who are beneficiaries of any articles of monetary value or other benefits obtained by such persons.
+
+Sec. 2. Section 1 of this proclamation shall not apply with respect to any person otherwise covered by section 1 where entry of the person into the United States would not be contrary to the interests of the United States.
+
+Sec. 3. Persons covered by sections 1 and 2 of this proclamation shall be identified by the Secretary of State or the Secretary's designee, in his or her sole discretion, pursuant to such standards and procedures as the Secretary may establish.
+
+Sec. 4. For purposes of this proclamation, “serious adverse effects on the national interests of the United States” means serious adverse effects on the international economic activity of U.S. businesses, U.S. foreign assistance goals, the security of the United States against transnational crime and terrorism, or the stability of democratic institutions and nations.
+
+Sec. 5. Nothing in this proclamation shall be construed to derogate from United States Government obligations under applicable international agreements.
+
+Sec. 6. The Secretary of State shall have responsibility for implementing this proclamation pursuant to such procedures as the Secretary may, in the Secretary's discretion, establish.
+
+Sec. 7. This proclamation is effective immediately.
+
+Sec. 8. This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twelfth day of January, in the year of our Lord two thousand four, and of the Independence of the United States of America the two hundred and twenty-eighth.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Executive Order No. 12324
 
 Ex. Ord. No. 12324, Sept. 29, 1981, 46 F.R. 48109, which directed Secretary of State to enter into cooperative arrangements with foreign governments for purpose of preventing illegal migration to United States by sea, directed Secretary of the Department in which the Coast Guard is operating to issue appropriate instructions to Coast Guard to enforce suspension of entry of undocumented aliens and interdiction of any defined vessel carrying such aliens, and directed Attorney General to ensure fair enforcement of immigration laws and strict observance of international obligations of United States concerning those who genuinely flee persecution in their homeland, was revoked and replaced by Ex. Ord. No. 12807, §4, May 24, 1992, 57 F.R. 23134, set out below.
@@ -2330,7 +2488,7 @@ Ex. Ord. No. 12807, May 24, 1992, 57 F.R. 23133, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 212(f) and 215(a)(1) of the Immigration and Nationality Act, as amended (8 U.S.C. 1182(f) and 1185(a)(1)), and whereas:
 
-(1) The President has authority to suspend the entry of aliens coming by sea to the United States without necessary documentation, to establish reasonable rulesand regulations regarding, and other limitations on, the entry or attempted entry of aliens into the United States, and to repatriate aliens interdicted beyond the territorial sea of the United States;
+(1) The President has authority to suspend the entry of aliens coming by sea to the United States without necessary documentation, to establish reasonable rules and regulations regarding, and other limitations on, the entry or attempted entry of aliens into the United States, and to repatriate aliens interdicted beyond the territorial sea of the United States;
 
 (2) The international legal obligations of the United States under the United Nations Protocol Relating to the Status of Refugees (U.S. T.I.A.S. 6577; 19 U.S.T. 6223) to apply Article 33 of the United Nations Convention Relating to the Status of Refugees do not extend to persons located outside the territory of the United States;
 
@@ -2362,7 +2520,7 @@ Sec. 2. (a) The Secretary of the Department in which the Coast Guard is operatin
 
 (d) These actions, pursuant to this section, are authorized to be undertaken only beyond the territorial sea of the United States.
 
-Sec. 3. This order is intended only to improve the internal management of the Executive Branch. Neither this order nor any agency guidelines, procedures, instructions, directives, rules or regulations implementing this order shall create, or shall be construed to create, any right or benefit, substantive or procedural (including without limitation any right or benefit under the Administrative Procedure Act \[5 U.S.C. 551 et seq., 701 et seq.\]), legally enforceable by any party against the United States, its agencies or instrumentalities, officers, employees, or any other person. Nor shall this order be construed to require any procedures to determine whether a person is a refugee.
+Sec. 3. This order is intended only to improve the internal management of the Executive Branch. Neither this order nor any agency guidelines, procedures, instructions, directives, rules or regulations implementing this order shall create, or shall be construed to create, any right or benefit, substantive or procedural (including without limitation any right or benefit underthe Administrative Procedure Act \[5 U.S.C. 551 et seq., 701 et seq.\]), legally enforceable by any party against the United States, its agencies or instrumentalities, officers, employees, or any other person. Nor shall this order be construed to require any procedures to determine whether a person is a refugee.
 
 Sec. 4. Executive Order No. 12324 is hereby revoked and replaced by this order.
 
@@ -2384,7 +2542,7 @@ Section 1. <i>Duties and Authorities of Agency Heads</i>. Consistent with applic
 
 (b) The Secretary of State shall provide for the custody, care, safety, transportation, and other needs of undocumented aliens interdicted or intercepted in the Caribbean region whom the Secretary of Homeland Security has identified as persons in need of protection. The Secretary of State shall provide for and execute a process for resettling such persons in need of protection, as appropriate, in countries other than their country of origin, and shall also undertake such diplomatic efforts as may be necessary to address the problem of illegal migration of aliens in the Caribbean region and to facilitate the return of those aliens who are determined not to be persons in need of protection.
 
-(c)(i) The Secretary of Defense shall make available to the Secretary of Homeland Security and the Secretary of State, for the housing and care of any undocumented aliens interdicted or intercepted in the Caribbean region and taken into their custody, any facilities at Guantanamo Bay Naval Base that are excess to current military needs and the provision of which does not interfere with the operation and security of the base. The Secretary of Defense shall be responsible for providing access to such facilities and perimeter security.The Secretary of Homeland Security and the Secretary of State, respectively, shall be responsible for reimbursement for necessary supporting utilities.
+(c)(i) The Secretary of Defense shall make available to the Secretary of Homeland Security and the Secretary of State, for the housing and care of any undocumented aliens interdicted or intercepted in the Caribbean region and taken into their custody, any facilities at Guantanamo Bay Naval Base that are excess to current military needs and the provision of which does not interfere with the operation and security of the base. The Secretary of Defense shall be responsible for providing access to such facilities and perimeter security. The Secretary of Homeland Security and the Secretary of State, respectively, shall be responsible for reimbursement for necessary supporting utilities.
 
 (ii) In the event of a mass migration in the Caribbean region, the Secretary of Defense shall provide support to the Secretary of Homeland Security and the Secretary of State in carrying out the duties described in paragraphs (a) and (b) of this section regarding the custody, care, safety, transportation, and other needs of the aliens, and shall assume primary responsibility for these duties on a nonreimbursable basis as necessary to contain the threat to national security posed by the migration. The Secretary of Defense shall also provide support to the Coast Guard in carrying out the duties described in Executive Order 12807 of May 24, 1992 \[set out above\], regarding interdiction of migrants.
 
@@ -2426,7 +2584,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1102, 1151, 1153, 1154, 1157, 1158, 1159, 1160, 1181, 1183, 1183a, 1184, 1186, 1186a, 1187, 1189, 1201, 1222, 1225, 1226, 1226a, 1227, 1229a, 1229b, 1229c, 1231, 1252, 1254a, 1255, 1255a, 1258, 1259, 1282, 1284, 1322, 1326, 1327, 1356, 1365a, 1372, 1537, 1621, 1622, 1641, 1642, 1731, 1734, 1751, 1773 of this title; title 6 section 236; title 7 section 2015; title 26 section 3304; title 28 section 1821; title 42 sections 608, 1004, 1382c, 1382j, 1436a.
+This section is referred to in sections 1101, 1102, 1151, 1153, 1154, 1157, 1158, 1159, 1160, 1181, 1183, 1183a, 1184, 1186,1186a, 1187, 1189, 1201, 1222, 1225, 1226, 1226a, 1227, 1229a, 1229b, 1229c, 1231, 1252, 1254a, 1255, 1255a, 1258, 1259, 1282, 1284, 1322, 1326, 1327, 1356, 1365a, 1372, 1537, 1621, 1622, 1641, 1642, 1731, 1734, 1751, 1773 of this title; title 6 section 236; title 7 section 2015; title 26 sections 501, 3304; title 28 section 1821; title 42 sections 608, 1004, 1382c, 1382j, 1436a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
@@ -2438,11 +2596,5 @@ This section is referred to in sections 1101, 1102, 1151, 1153, 1154, 1157, 1158
 
 <i><sup>5</sup></i><i> So in original.</i>
 
-<i><sup>6</sup></i><i> So in original. Two pars. (13) have been enacted.</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be “(10)(E))”.</i>
-
-<i><sup>8</sup></i><i> So in original. Another subsec. (p) is set out after subsec. (r).</i>
-
-<i><sup>9</sup></i><i> So in original. Another subsec. (p) is set out before subsec. (q).</i>
+<i><sup>6</sup></i><i> So in original. Probably should be “(10)(E))”.</i>
 

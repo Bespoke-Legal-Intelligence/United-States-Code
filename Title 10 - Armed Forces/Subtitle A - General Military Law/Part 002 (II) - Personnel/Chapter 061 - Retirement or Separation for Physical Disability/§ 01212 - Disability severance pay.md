@@ -4,7 +4,7 @@
 
 &emsp;(A) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when he is separated and (ii) in the grade and rank in which he was serving on the date when his name was placed on the temporary disability retired list, or if his name was not carried on that list, on the date when he is separated.
 
-&emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Transportation, as the case may be, having jurisdiction over the armed force from which he is separated.
+&emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) onactive duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Homeland Security, as the case may be, having jurisdiction over the armed force from which he is separated.
 
 &emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination.
 
@@ -14,7 +14,7 @@
 
 (c) The amount of disability severance pay received under this section shall be deducted from any compensation for the same disability to which the former member of the armed forces or his dependents become entitled under any law administered by the Department of Veterans Affairs. However, no deduction may be made from any death compensation to which his dependents become entitled after his death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -52,15 +52,21 @@ In subsection (b), the words “and a part of a year that is less than six month
 
 #### Amendments
 
+2002—Subsec. (a)(2)(B). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+
 2001—Subsec. (a)(2)(C), (D). Pub. L. 107–107 struck out “for promotion” after “physical examination”.
 
 1989—Subsec. (c). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: “The amendments madeby subsection (a) \[amending this section\] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1980 Amendment
 

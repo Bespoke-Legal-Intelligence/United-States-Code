@@ -1,6 +1,6 @@
 ### §8684. Service credit: regular enlisted members; service as an officer to be counted as enlisted service
 
-An enlisted member of the Regular Air Force is entitled to count active service as an officerin the Air Force, and in the Army, as enlisted service for all purposes.
+An enlisted member of the Regular Air Force is entitled to count active service as an officer in the Air Force, and in the Army, as enlisted service for all purposes.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 535.)
 

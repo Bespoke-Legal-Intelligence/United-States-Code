@@ -6,11 +6,11 @@ Upon receipt of an application meeting the requirements of subsections (a) and (
 
 #### (b) Maximum limits of coverage
 
-The aggregate of loss or damage covered by indemnity agreements made under this chapter shall not exceed $5,000,000,000 at any one time.
+The aggregate of loss or damage covered by indemnity agreements made under this chapter shall not exceed $8,000,000,000 at any one time.
 
 #### (c) Limit for single exhibition
 
-No indemnity agreement for a single exhibition shall cover loss or damage in excess of $500,000,000.
+No indemnity agreement for a single exhibition shall cover loss or damage in excess of $600,000,000.
 
 #### (d) Deductible limit
 
@@ -22,17 +22,25 @@ If the estimated value of the items covered by an indemnity agreement for a sing
 
 &emsp;(3) not less than $10,000,000 but less than $125,000,000, then coverage under this chapter shall extend to loss or damage in excess of the first $50,000 of loss or damage to items covered;
 
-&emsp;(4) not less than $125,000,000 but less than $200,000,<sup>1</sup> then coverage under this chapter shall extend to loss or damage in excess of the first $100,000 of loss or damage to items covered;
+&emsp;(4) not less than $125,000,000 but less than $200,000,<sup>1</sup> then coverage under this chaptershall extend to loss or damage in excess of the first $100,000 of loss or damage to items covered;
 
 &emsp;(5) not less than $200,000,000 but less than $300,000,000, then coverage under the <sup>2</sup> chapter shall extend only to loss or damage in excess of the first $200,000, of loss or damage to items covered;
 
-&emsp;(6) not less than $300,000,000 but less than $400,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $300,000 of loss or damage to items covered; or
+&emsp;(6) not less than $300,000,000 but less than $400,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $300,000 of loss or damage to items covered;
 
-&emsp;(7) $400,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $400,000 of loss or damage to items covered.
+&emsp;(7) not less than $400,000,000 but less than $500,000,000, then coverage under this chapter shall extend only to loss or damage in excess of the first $400,000 of loss or damage to items covered; or
 
-(Pub. L. 94–158, §5, Dec. 20, 1975, 89 Stat. 845; Pub. L. 96–496, title III, §§301, 302, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 99–194, title III, §303, Dec. 20, 1985, 99 Stat. 1345; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–249; Pub. L. 101–512, title III, §318 \[title III, §301\], Nov. 5, 1990, 104 Stat. 1960, 1976; Pub. L. 105–277, div. A, §101(e) \[title III, §333\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–294.)
+&emsp;(8) $500,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $500,000 of loss or damage to items covered.
+
+(Pub. L. 94–158, §5, Dec. 20, 1975, 89 Stat. 845; Pub. L. 96–496, title III, §§301, 302, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 99–194, title III, §303, Dec. 20, 1985, 99 Stat. 1345; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–249; Pub. L. 101–512, title III, §318 \[title III, §301\], Nov. 5, 1990, 104 Stat. 1960, 1976; Pub. L. 105–277, div. A, §101(e) \[title III, §333\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–294; Pub. L. 108–81, title V, §501, Sept. 25, 2003, 117 Stat. 1003.)
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–81, §501(1), substituted “$8,000,000,000” for “$5,000,000,000”.
+
+Subsec. (c). Pub. L. 108–81, §501(2), substituted “$600,000,000” for “$500,000,000”.
+
+Subsec. (d)(7), (8). Pub. L. 108–81, §501(3), added pars. (7) and (8) and struck out former par. (7) which read as follows: “$400,000,000 or more, then coverage under this chapter shall extend only to loss or damage in excess of the first $400,000 of loss or damage to items covered.”
 
 1998—Subsec. (b). Pub. L. 105–277, §101(e) \[title III, §333(1)\], substituted “$5,000,000,000” for “$3,000,000,000”.
 

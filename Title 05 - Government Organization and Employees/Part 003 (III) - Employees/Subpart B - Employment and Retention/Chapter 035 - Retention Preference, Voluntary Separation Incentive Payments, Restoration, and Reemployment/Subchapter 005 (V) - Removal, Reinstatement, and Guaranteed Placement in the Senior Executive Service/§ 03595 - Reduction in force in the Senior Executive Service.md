@@ -1,6 +1,6 @@
 ### §3595. Reduction in force in the Senior Executive Service
 
-(a) An agency shall establish competitive procedures for determining who shall be removed from the Senior Executive Service in any reduction in force of career appointees within that agency. The competitive procedures shall be designed to assure that such determinations areprimarily on the basis of performance, as determined under subchapter II of chapter 43 of this title.
+(a) An agency shall establish competitive procedures for determining who shall be removed from the Senior Executive Service in any reduction in force of career appointees within that agency. The competitive procedures shall be designed to assure that such determinations are primarily on the basis of performance, as determined under subchapter II of chapter 43 of this title.
 
 (b)(1) This subsection applies to any career appointee who has successfully completed the probationary period prescribed under section 3393(d) of this title.
 
@@ -56,7 +56,7 @@ Section 5(c) of Pub. L. 97–346 provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 15, 1982\].
 
-“(2) The amendments made by this section \[amending this section\] shall apply to an individual who is a career appointee on or after September 30, 1982, except that any individual who is a career appointee on September 30, 1982, and who is described in section3595(b)(3) of title 5, United States Code, may not be removed before December 15, 1982, due to a reduction in force, unless the removal is under section 3595(b)(4)(A) of such title on the grounds the individual declined a reasonable placement offer.”
+“(2) The amendments made by this section \[amending this section\] shall apply to an individual who is a career appointee on or after September 30, 1982, except that any individual who is a career appointee on September 30, 1982, and who is described in section 3595(b)(3) of title 5, United States Code, may not be removed before December 15, 1982, due to a reduction in force, unless the removal is under section 3595(b)(4)(A) of such title on the grounds the individual declined a reasonable placement offer.”
 
 #### Effective Date
 
@@ -68,7 +68,7 @@ Section 1704(e) of Pub. L. 97–35 provided that:
 
 “(B) The provisions of section 3595(a), as added by subsection (a)(1), shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
-“(3) The effectiveness of the amendments made by this section shall be subject to section 415(b) of the Civil Service Reform Act of 1978 \[Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1154\] (5 U.S.C. 3131 note) to the same extent and manner as the amendments made by title IV of that Act.”
+“(3) The effectiveness of the amendments made by this section shall be subject to section 415(b) of the Civil Service Reform Act of 1978 \[Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1154\] (5 U.S.C. 3131 note) to thesame extent and manner as the amendments made by title IV of that Act.”
 
 #### Section Referred to in Other Sections
 

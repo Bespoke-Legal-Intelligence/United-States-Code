@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior (in this subchapter referred to as the “Secretary”) maycarry out in accordance with this subchapter a program to be known as the “Junior Duck Stamp Conservation and Design Program” (in this subchapter referred to as the “Program”) to accomplish the goals of—
+The Secretary of the Interior (in this subchapter referred to as the “Secretary”) may carry out in accordance with this subchapter a program to be known as the “Junior Duck Stamp Conservation and Design Program” (in this subchapter referred to as the “Program”) to accomplish the goals of—
 
 &emsp;(1) providing to school children environmental education opportunities relating to the conservation and management of migratory birds; and
 

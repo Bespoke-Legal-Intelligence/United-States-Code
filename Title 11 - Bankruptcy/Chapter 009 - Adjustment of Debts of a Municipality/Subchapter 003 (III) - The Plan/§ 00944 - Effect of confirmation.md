@@ -34,7 +34,7 @@ I74senate report no. 95–989
 
 \[Section 947\] Subsection (a) \[enacted as section 944(a)\] makes the provisions of a confirmed plan binding on the debtor and creditors. It is derived from section 95(a) of chapter 9 \[section 415(a) of former title 11\].
 
-Subsections (b) and (c) \[enacted as section 944(b) and (c)\] provide for the discharge of a municipality. The discharge is essentially the same as that granted under section 95(b) of the Bankruptcy Act \[section 415(b) of former title 11\].
+Subsections (b) and (c) \[enacted as section 944(b) and (c)\] provide for the discharge of a municipality. Thedischarge is essentially the same as that granted under section 95(b) of the Bankruptcy Act \[section 415(b) of former title 11\].
 
 #### Section Referred to in Other Sections
 

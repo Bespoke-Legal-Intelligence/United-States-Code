@@ -44,7 +44,7 @@ In subsection (a)(1), before clause (A), the word “paid” is substituted for 
 
 In subsection (a)(2), the words “The priority established under . . . however” are omitted as surplus.
 
-In subsection (b), the words “A representative of a person or an estate” are substituted for “executor, administrator, or assignee, or other” for clarity and toeliminate unnecessary words. The words “for whom or for which he acts”, “satisfies and”, and “from such person or estate” are omitted as surplus. The word “liable” is substituted for “answerable in his own person and estate” for consistency.
+In subsection (b), the words “A representative of a person or an estate” are substituted for “executor, administrator, or assignee, or other” for clarity and to eliminate unnecessary words. The words “for whom or for which he acts”, “satisfies and”, and “from such person or estate” are omitted as surplus. The word “liable” is substituted for “answerable in his own person and estate” for consistency.
 
 #### Section Referred to in Other Sections
 

@@ -52,7 +52,7 @@
 
 #### (c) Vacancies
 
-Any member of the Board appointed under subsection (a) of this section to fill a vacancy occurring before the expiration of the term to which such member's predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
+Any member of the Board appointed under subsection (a) of this section to fill a vacancyoccurring before the expiration of the term to which such member's predecessor was appointed shall be appointed for the remainder of such term. If the vacancy occurs prior to the expiration of the term of a member of the Board appointed under subsection (a)(1)(B) of this section, a replacement shall be appointed in the same manner in which the original appointment was made.
 
 #### (d) Removal
 

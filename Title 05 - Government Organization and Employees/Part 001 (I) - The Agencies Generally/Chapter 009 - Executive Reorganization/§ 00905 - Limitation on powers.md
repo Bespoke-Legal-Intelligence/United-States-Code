@@ -18,7 +18,7 @@
 
 (b) A provision contained in a reorganization plan may take effect only if the plan is transmitted to Congress (in accordance with section 903(b)) on or before December 31, 1984.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 91–5, Mar. 27, 1969, 83 Stat. 6; Pub. L. 92–179, §4, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 31; Pub. L. 96–230, Apr. 8, 1980, 94 Stat. 329; Pub. L. 98–614, §§2(a), 5(a), Nov. 8, 1984, 98 Stat. 3192, 3193.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 91–5, Mar. 27, 1969, 83 Stat. 6; Pub. L. 92–179, §4, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, §2, Apr.6, 1977, 91 Stat. 31; Pub. L. 96–230, Apr. 8, 1980, 94 Stat. 329; Pub. L. 98–614, §§2(a), 5(a), Nov. 8, 1984, 98 Stat. 3192, 3193.)
 
 Historical and Revision Notes
 

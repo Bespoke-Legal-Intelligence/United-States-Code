@@ -18,7 +18,7 @@ Projects.—(1) The Secretary of Defense may enter into a memorandum of understa
 
 &emsp;(E) Any other friendly foreign country.
 
-(3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
+(3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to theCommittees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 
 (b)
 
@@ -52,19 +52,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 &emsp;(D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-(f)
-
-Reports to Congress.—(1) Not later than March 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Speaker of the House of Representatives and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section. Each such report shall include—
-
-&emsp;(A) a description of the status, funding, and schedule of existing projects carried out under this section for which memoranda of understanding (or other formal agreements) have been entered into; and
-
-&emsp;(B) a description of the purpose, funding, and schedule of any new projects proposed to be carried out under this section (including those projects for which memoranda of understanding (or other formal agreements) have not yet been entered into) for which funds have been included in the budget submitted to Congress pursuant to section 1105 of title 31 for the fiscal year following the fiscal year in which the report is submitted.
-
-(2) Not later than January 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report specifying—
-
-&emsp;(A) the countries that are eligible to participate in a cooperative project agreement under this section; and
-
-&emsp;(B) the criteria used to determine the eligibility of such countries.
+\[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.\]
 
 (g)
 
@@ -77,14 +65,6 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
 (3) The Deputy Director, Defense Research and Engineering (Test and Evaluation) shall notify the Speaker of the House of Representatives and the Committees on Armed Services and on Appropriations of the Senate of the Deputy Director's intent to obligate funds made available to carry out this subsection not less than 30 days before such funds are obligated.
-
-(4) The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
-
-&emsp;(A) the equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
-
-&emsp;(B) the obligation of any funds under this subsection during the previous fiscal year; and
-
-&emsp;(C) the equipment, munitions, and technologies that were tested under this subsection and procured during the previous fiscal year.
 
 (h)
 
@@ -100,11 +80,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) to modify existing military equipment to meet United States military requirements.
 
-&emsp;(2) The term “major non-NATO ally” means a country (other than a member nation of theNorth Atlantic Treaty Organization) that is designated as a major non-NATO ally for purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
+&emsp;(2) The term “major non-NATO ally” means a country (other than a member nation of the North Atlantic Treaty Organization) that is designated as a major non-NATO ally for purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
 
 &emsp;(3) The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Prior Provisions
 
@@ -113,6 +93,20 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
+
+2003—Subsec. (f). Pub. L. 108–136 struck out subsec. (f) which required that, not later than Mar. 1 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics was to submit to the Speaker of the House and the Committees on Armed Services and Appropriations of the Senate a report on cooperative research and development projects under this section, and that, not later than Jan. 1 of each year, the Secretary of Defense was to submit to the Committees on Armed Services and Foreign Relations of the Senate and Committees on Armed Services and International Relations of the House a report specifying the countries eligible to participate in a cooperative project agreement under this section and the criteria used to determine the eligibility of such countries.
+
+2002—Subsec. (g)(1)(A). Pub. L. 107–314, §1062(f)(2), amended directory language of Pub. L. 107–107, §1212(a)(5). See 2001 Amendment note below.
+
+Subsec. (g)(4). Pub. L. 107–314, §1041(a)(9), struck out par. (4) which read as follows: “The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
+
+&emsp;“(A) the equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
+
+&emsp;“(B) the obligation of any funds under this subsection during the previous fiscal year; and
+
+&emsp;“(C) the equipment, munitions, and technologies that were tested under this subsection and procured during the previous fiscal year.”
+
+Subsec. (g)(4)(A). Pub. L. 107–314, §1062(f)(2), amended directory language of Pub. L. 107–107, §1212(a)(5). See 2001 Amendment note below.
 
 2001—Pub. L. 107–107, §1212(e)(1), substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in section catchline.
 
@@ -148,7 +142,7 @@ Subsec. (f)(2). Pub. L. 107–107, §1212(d), amended par. (2) generally. Prior 
 
 &emsp;“(B) specifying the criteria used in determining the eligibility of a country to be designated as a major non-NATO ally for purposes of this section.”
 
-Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, §1212(a)(5), substituted “countries referred to in subsection (a)(2)” for “major allies of the United States and other friendly foreign countries”.
+Subsec. (g)(1)(A), (4)(A). Pub. L. 107–107, §1212(a)(5), as amended by Pub. L. 107–314, §1062(f)(2), substituted “countries referred to in subsection (a)(2)” for “major allies of the United States and other friendly foreign countries”.
 
 Subsec. (h). Pub. L. 107–107, §1212(a)(6), substituted “member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries” for “major allies of the United States”.
 
@@ -177,6 +171,10 @@ Subsec. (i)(4). Pub. L. 103–337, §1301(b), added par. (4).
 1991—Subsec. (g)(1)(A), (4)(A). Pub. L. 102–190 inserted “and other friendly foreign countries” after “major allies of the United States”.
 
 1990—Subsec. (g)(4). Pub. L. 101–510 amended introductory provisions generally, substituting “submit to Congress each year, not later than March 1, a report containing” for “include in the annual report to Congress required by section 2457(d) of this title”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(2) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 #### Termination Date of 1992 Amendment
 

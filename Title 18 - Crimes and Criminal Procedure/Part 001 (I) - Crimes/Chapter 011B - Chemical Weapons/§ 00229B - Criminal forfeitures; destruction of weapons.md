@@ -34,7 +34,7 @@ In general.—For the purposes of forfeiture proceedings under this section, a t
 
 &emsp;&emsp;(B)
 
-Warrant of seizure.—If the court enters a temporary restraining order under this paragraph, it shall also issue a warrant authorizing the seizure of such property.
+Warrant of seizure.—If the court enters a temporary restraining order underthis paragraph, it shall also issue a warrant authorizing the seizure of such property.
 
 &emsp;&emsp;(C)
 

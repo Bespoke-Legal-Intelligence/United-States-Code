@@ -2,7 +2,7 @@
 
 #### (a) Capital gain dividend
 
-For purposes of section 243 (relating to deductions for dividends received by corporations), a capital gain dividend (as defined in section 852(b)(3)) received from a regulated investment company shall not be considered as a dividend.
+For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) and section 243 (relating to deductions for dividends received by corporations), a capital gain dividend (as defined in section 852(b)(3)) received from a regulated investment company shall not be considered as a dividend.
 
 #### (b) Other dividends
 
@@ -18,13 +18,39 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 > &emsp;&emsp;then, in computing any deduction under section 243, there shall be taken into account only that portion of such dividend designated under this subparagraph by the regulated investment company and such dividend shall be treated as received from a corporation which is not a 20-percent owned corporation.
 
-#### (B) Limitation
+#### (B) Maximum rate under section 1(h)
 
-&emsp;&emsp;The aggregate amount which may be designated as dividends under subparagraph (A) shall not exceed the aggregate dividends received by the company for the taxable year.
+#### (i) In general
+
+&emsp;&emsp;&emsp;If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the maximum rate under section 1(h)(11), rules similar to the rules of subparagraph (A) shall apply.
+
+#### (ii) Gross income
+
+&emsp;&emsp;&emsp;For purposes of clause (i), in the case of 1 or more sales or other dispositions of stock or securities, the term “gross income” includes only the excess of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the net short-term capital gain from such sales or dispositions, over
+
+&emsp;&emsp;&emsp;&emsp;(II) the net long-term capital loss from such sales or dispositions.
+
+#### (iii) Dividends from real estate investment trusts
+
+&emsp;&emsp;&emsp;For purposes of clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) paragraph (3)(B)(ii) shall not apply, and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a distribution from a trust described in such paragraph, the amount of such distribution which is a dividend shall be subject to the limitations under section 857(c).
+
+#### (iv) Dividends from qualified foreign corporations
+
+&emsp;&emsp;&emsp;For purposes of clause (i), dividends received from qualified foreign corporations (as defined in section 1(h)(11)) shall also be taken into account in computing aggregate dividends received.
+
+#### (C) Limitation
+
+&emsp;&emsp;The aggregate amount which may be designated as dividends under subparagraph (A) or (B) shall not exceed the aggregate dividends received by the company for the taxable year.
 
 #### (2) Notice to shareholders
 
-&emsp;The amount of any distribution by a regulated investment company which may be taken into account as a dividend for purposes of the deduction under section 243 shall not exceed the amount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.
+&emsp;The amount of any distribution by a regulated investment company which may be taken into account as a dividend for purposesof the maximum rate under section 1(h)(11) and the deduction under section 243 shall not exceed the amount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.
 
 #### (3) Aggregate dividends
 
@@ -48,7 +74,7 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 #### (4) Special rule for computing deduction under section 243
 
-&emsp;For purposes of subparagraph (A) of paragraph (1), an amount shall be treated as a dividend for the purpose of paragraph (1) only if adeduction would have been allowable under section 243 to the regulated investment company determined—
+&emsp;For purposes of subparagraph (A) of paragraph (1), an amount shall be treated as a dividend for the purpose of paragraph (1) only if a deduction would have been allowable under section 243 to the regulated investment company determined—
 
 &emsp;&emsp;(A) as if section 243 applied to dividends received by a regulated investment company,
 
@@ -56,9 +82,27 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 &emsp;&emsp;(C) after the application of section 246A.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, §404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, §10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1006(b)(2), Nov. 10, 1988, 102 Stat. 3393.)
+#### (5) Coordination with section 1(h)(11)
+
+&emsp;For purposes of paragraph (1)(B), an amount shall be treated as a dividend only if the amount is qualified dividend income (within the meaning of section 1(h)(11)(B)).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, §404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, §10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, §302(c), May 28, 2003, 117 Stat. 762.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–27, §§302(c)(1), 303, temporarily inserted “section 1(h)(11) (relating to maximum rate of tax on dividends) and” after “For purposes of”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(1)(B). Pub. L. 108–27, §§302(c)(2), 303, temporarily added subpar. (B). Former subpar. (B) redesignated (C). See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(1)(C). Pub. L. 108–27, §§302(c)(2), (3), 303, temporarily redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 108–27, §§302(c)(4), 303, temporarily inserted “the maximum rate under section 1(h)(11) and” after “for purposes of”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(5). Pub. L. 108–27, §§302(c)(5), 303, temporarily added par. (5). See Effective and Termination Dates of 2003 Amendment note below.
 
 1988—Subsec. (b)(3). Pub. L. 100–647 substituted “Aggregate dividends” for “Definitions” in heading and amended text generally, substituting subpars. (A) to (C) for former subpars. (A) and (B).
 
@@ -76,7 +120,7 @@ Subsec. (b)(3)(B). Pub. L. 99–514, §612(b)(6)(B)(iv), amended subpar. (B) gen
 
 1984—Subsec. (b). Pub. L. 98–369, §16(a), repealed amendments made by Pub. L. 97–34, §302(c). See 1981 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 98–369, §52(a), increased the required amount of dividends by substituting provisions directing that in any case in which (i) a dividend is received from a regulated investment company (other than a dividend to which subsection (a) applies), and (ii) such investment company meets the requirements of section 852(a) for the taxable year during which it paid such dividend, then, in computing any deduction under section 243, there shall be taken into account only that portion of such dividend thus designated by the regulated investment company, that if the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, similar rules applied, and that the aggregate amount which may be designated thus dividends shall not exceed the aggregate dividends received by the company for the taxable year for provisions which had directed that in the case of a dividend received from a regulated investment company (other than a dividend to which subsection (a) applied) (A) if such investment company met the requirements of section 852(a) for the taxable year during which it paid such dividend; and (B) the aggregate dividends received by such company during such taxable year were less than 75 percent of its gross income, then, in computing the exclusion under section 116 and the deduction under section 243, there was taken into account only that portion of the dividend which bore the same ratio to the amount of such dividend as the aggregate dividends received by such company during such taxable year to its gross income for such taxable year.
+Subsec. (b)(1). Pub. L. 98–369, §52(a), increased the required amount of dividends by substituting provisions directing that in any case in which (i) a dividend is received from a regulated investment company (other than a dividend to which subsection (a) applies), and (ii) such investment company meets the requirements of section 852(a) for the taxable year during which it paid such dividend, then, in computing any deductionunder section 243, there shall be taken into account only that portion of such dividend thus designated by the regulated investment company, that if the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, similar rules applied, and that the aggregate amount which may be designated thus dividends shall not exceed the aggregate dividends received by the company for the taxable year for provisions which had directed that in the case of a dividend received from a regulated investment company (other than a dividend to which subsection (a) applied) (A) if such investment company met the requirements of section 852(a) for the taxable year during which it paid such dividend; and (B) the aggregate dividends received by such company during such taxable year were less than 75 percent of its gross income, then, in computing the exclusion under section 116 and the deduction under section 243, there was taken into account only that portion of the dividend which bore the same ratio to the amount of such dividend as the aggregate dividends received by such company during such taxable year to its gross income for such taxable year.
 
 Subsec. (b)(3)(A). Pub. L. 98–369, §52(c), substituted provisions directing that in the case of 1 or more sales or other dispositions of stock and securities, the term “gross income” include only the excess of (i) the net short-term capital gain from such sales or dispositions, over (ii) the net long-term capital loss from such sales or dispositions for provisions which had directed that the term “gross income” not include gain from the sale or other disposition of stock or securities.
 
@@ -90,6 +134,12 @@ Subsec. (b)(4). Pub. L. 98–369, §52(b), added par. (4).
 
 Subsec. (b). Pub. L. 88–272, §§201(d)(9), (10), 229(a)(4), substituted “45 days” for “30 days” in par. (2), and struck out “the credit under section 34(a),” before “the exclusion” in par. (1), and “the credit under section 34,” before “the exclusion” in par. (2).
 
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -102,7 +152,7 @@ Amendment by Pub. L. 100–203 applicable to dividends received or accrued after
 
 Amendment by section 612(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 
-Amendment by section 655(a)(4) of Pub. L. 99–514 applicable to taxable years beginning after Oct. 22, 1986,see section 655(b) of Pub. L. 99–514, set out as a note under section 852 of this title.
+Amendment by section 655(a)(4) of Pub. L. 99–514 applicable to taxable years beginning after Oct. 22, 1986, see section 655(b) of Pub. L. 99–514, set out as a note under section 852 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -122,5 +172,5 @@ Amendment by section 229(a)(4) of Pub. L. 88–272 applicable to taxable years o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 243 of this title.
+This section is referred to in sections 1, 243, 857 of this title.
 

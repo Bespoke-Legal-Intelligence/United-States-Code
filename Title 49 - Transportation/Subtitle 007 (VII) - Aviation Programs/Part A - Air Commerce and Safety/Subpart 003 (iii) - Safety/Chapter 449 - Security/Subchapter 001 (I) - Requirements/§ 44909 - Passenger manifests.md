@@ -52,11 +52,11 @@ Passenger name records.—The carriers shall make passenger name record informat
 
 &emsp;(4)
 
-Transmission of manifest.—Subject to paragraph (5), a passenger and crew manifestrequired for a flight under paragraph (1) shall be transmitted to the Customs Service in advance of the aircraft landing in the United States in such manner, time, and form as the Customs Service prescribes.
+Transmission of manifest.—Subject to paragraph (5), a passenger and crew manifest required for a flight under paragraph (1) shall be transmitted to the Customs Service in advance of the aircraft landing in the United States in such manner, time, and form as the Customs Service prescribes.
 
 &emsp;(5)
 
-Transmission of manifests to other federal agencies.—Upon request, information provided to the Under Secretary or the Customs Service under this subsection may be shared with other Federal agencies for the purpose of protecting national security.
+Transmission of manifests to other federal agencies.—Upon request, information provided to the Under Secretary or the Customs Service under this subsection may beshared with other Federal agencies for the purpose of protecting national security.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 106–181, title VII, §718, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §115, Nov. 19, 2001, 115 Stat. 623.)
 

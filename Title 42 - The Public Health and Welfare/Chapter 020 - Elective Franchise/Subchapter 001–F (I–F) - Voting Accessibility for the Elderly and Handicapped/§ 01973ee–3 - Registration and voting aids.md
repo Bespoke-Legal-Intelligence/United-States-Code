@@ -10,7 +10,7 @@ Each State shall make available registration and voting aids for Federal electio
 
 #### (b) Medical certification
 
-No notarization or medical certification shall be required of a handicapped voter with respect to an absentee ballot or an application for such ballot, except that medical certification may berequired when the certification establishes eligibility, under State law—
+No notarization or medical certification shall be required of a handicapped voter with respect to an absentee ballot or an application for such ballot, except that medical certification may be required when the certification establishes eligibility, under State law—
 
 &emsp;(1) to automatically receive an application or a ballot on a continuing basis; or
 

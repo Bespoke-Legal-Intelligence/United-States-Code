@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any debt instrument to which this paragraph applies, the daily portion of the original issue discount shall be determined by allocating to each day in any accrual period its ratable portion of the excess (if any) of—
+&emsp;&emsp;In the case of any debt instrument to which this paragraph applies, the daily portion of the original issue discount shall be determined by allocating to each day in anyaccrual period its ratable portion of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the sum of (I) the present value determined under subparagraph (B) of all remaining payments under the debt instrument as of the close of such period, and (II) the payments during the accrual period of amounts included in the stated redemption price of the debt instrument, over
 
@@ -198,7 +198,7 @@ This section shall not apply to any holder—
 
 #### Effective Date of 1997 Amendment
 
-Section 1004(b)(1) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending thissection\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Section 1004(b)(1) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 #### Effective Date of 1986 Amendment
 

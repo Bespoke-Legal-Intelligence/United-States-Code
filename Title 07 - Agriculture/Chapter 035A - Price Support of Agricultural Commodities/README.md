@@ -234,10 +234,6 @@ Eligible recipients; barter; estimates; reprocessing and other charges.
 
 Furnishing of eligible commodities for carrying out programs of assistance in developing and friendly countries; availability of eligible commodities for nonprofit and voluntary agencies and cooperatives.
 
-(c)
-
-Ultra-high temperature processed fluid milk; two-year pilot program; report to Congress.
-
 |  |  |
 | :--- | ---: |
 | [1431a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001431a%20-%20Cotton%20donations%20to%20educational%20institutions.md) | Cotton donations to educational institutions. |
@@ -880,7 +876,7 @@ Authorization of appropriations.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 511r, 511s, 1301, 1308–3, 1309, 1310, 1314, 1314f, 1334b, 1385, 1421a, 1433c–1, 1435, 1446c, 1515, 1745, 2279, 4608, 5671, 5822, 7202, 7301, 7502 of this title; title 15 section 3391a; title 16 sections 3832, 3834, 3837d, 3839c; title 21 section 889; title 26 section 451; title 31 section 3902; title 42 section 1766; title 43 section 620c.
+This chapter is referred to in sections 511r, 511s, 1301, 1308–3, 1309, 1310, 1314, 1314f, 1334b, 1385, 1421a, 1433c–1, 1435, 1446c, 1515, 1745, 2279, 4608, 5671, 5822, 7202, 7301, 7502 of this title; title 15 section 3391a; title 16 sections 3837d, 3839c; title 21 section 889; title 26 section 451; title 31 section 3902; title 42 section 1766; title 43 section 620c.
 
 
 ---

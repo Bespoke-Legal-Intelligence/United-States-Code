@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) equal to or greater than 25 percent, the Secretary may reduce the loan rate for corn for the corresponding crop by an amount not to exceed 10 percent in any year;
 
-&emsp;&emsp;(B) less than 25 percent but not less than 12.5 percent, the Secretary may reduce the loan rate for corn for the corresponding crop by an amount not to exceed 5 percent in any year; or
+&emsp;&emsp;(B) less than 25 percent but not less than 12.5 percent, the Secretary may reduce the loan rate for corn for the corresponding cropby an amount not to exceed 5 percent in any year; or
 
 &emsp;&emsp;(C) less than 12.5 percent, the Secretary may not reduce the loan rate for corn for the corresponding crop.
 
@@ -62,7 +62,7 @@
 
 The loan rate for a marketing assistance loan under section 7231 of this title for extra long staple cotton shall be—
 
-&emsp;(1) not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the yearin which the average price was the lowest in the period; but
+&emsp;(1) not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
 
 &emsp;(2) not more than $0.7965 per pound.
 

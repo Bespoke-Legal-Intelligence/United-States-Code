@@ -10,7 +10,7 @@ A wild, scenic or recreational river area eligible to be included in the system 
 
 &emsp;(1) Wild river areas—Those rivers or sections of rivers that are free of impoundments and generally inaccessible except by trail, with watersheds or shorelines essentially primitive and waters unpolluted. These represent vestiges of primitive America.
 
-&emsp;(2) Scenic river areas—Those rivers or sections of rivers that are free of impoundments, with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads.
+&emsp;(2) Scenic river areas—Those rivers or sections of rivers that are free of impoundments,with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads.
 
 &emsp;(3) Recreational river areas—Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that may have undergone some impoundment or diversion in the past.
 

@@ -20,3 +20,7 @@ In this section, the term “socially disadvantaged farmer or rancher” has the
 
 (Pub. L. 101–624, title XXV, §2501A, as added Pub. L. 107–171, title X, §10708(a), May 13, 2002, 116 Stat. 522.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 section 590h.
+

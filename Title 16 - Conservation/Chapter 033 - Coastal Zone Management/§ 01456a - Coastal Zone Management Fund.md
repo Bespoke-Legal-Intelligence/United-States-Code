@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(v) to provide financial support to coastal states for use for investigating and applying the public trust doctrine to implement State management programs approved under section 1455 of this title.
 
-(Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
+(Pub. L. 89–454, title III, §308, as added Pub. L. 94–370, §7, July 26, 1976, 90 Stat. 1019; amended Pub. L. 95–372, title V, §§501, 503(a)–(d), Sept. 18, 1978, 92 Stat. 690, 692, 693; Pub. L. 96–464, §7, Oct. 17, 1980, 94 Stat. 2064; Pub. L. 99–272, title VI, §6047, Apr. 7, 1986, 100 Stat. 128; Pub. L. 101–508, title VI, §6209, Nov. 5, 1990, 104 Stat. 1388–308; Pub. L. 102–587, title II, §2205(b)(1)(A), (B),\(15)–(18), Nov. 4, 1992, 106 Stat. 5050, 5052; Pub. L. 104–150, §§2(b)(2), 5, June 3, 1996, 110 Stat. 1380, 1381.)
 
 #### Codification
 

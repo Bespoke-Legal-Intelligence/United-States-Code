@@ -124,7 +124,7 @@ Subsec. (2)(D). Pub. L. 97–248, §137(b)(4), substituted “any charges are im
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 6501(b) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(b) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
+Amendment by section 6501(b) of Pub. L. 101–239 applicable to appropriations for fiscal years beginningwith fiscal year 1990, and amendment by section 6503(b) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
 
 #### Effective Date of 1982 Amendment
 

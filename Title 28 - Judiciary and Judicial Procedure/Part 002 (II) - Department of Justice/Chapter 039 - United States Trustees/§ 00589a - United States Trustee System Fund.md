@@ -42,7 +42,7 @@
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end ofeach fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, O
 
 Subsec. (b)(9). Pub. L. 106–113, §1000(a)(1) \[title I\], added par. (9).
 
-1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
+1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revisingand restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
 
 Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon.
 

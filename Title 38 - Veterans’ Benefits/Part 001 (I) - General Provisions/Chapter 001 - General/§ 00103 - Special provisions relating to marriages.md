@@ -1,6 +1,6 @@
 ### §103. Special provisions relating to marriages
 
-(a) Whenever, in the consideration of any claim filed by a person as the widow or widower of a veteran for gratuitous death benefits under laws administered by the Secretary, it is established by evidence satisfactory to the Secretary that such person, without knowledge of any legal impediment, entered into a marriage withsuch veteran which, but for a legal impediment, would have been valid, and thereafter cohabited with the veteran for one year or more immediately before the veteran's death, or for any period of time if a child was born of the purported marriage or was born to them before such marriage, the purported marriage shall be deemed to be a valid marriage, but only if no claim has been filed by a legal widow or widower of such veteran who is found to be entitled to such benefits. No duplicate payments shall be made by virtue of this subsection.
+(a) Whenever, in the consideration of any claim filed by a person as the widow or widower of a veteran for gratuitous death benefits under laws administered by the Secretary, it is established by evidence satisfactory to the Secretary that such person, without knowledge of any legal impediment, entered into a marriage with such veteran which, but for a legal impediment, would have been valid, and thereafter cohabited with the veteran for one year or more immediately before the veteran's death, or for any period of time if a child was born of the purported marriage or was born to them before such marriage, the purported marriage shall be deemed to be a valid marriage, but only if no claim has been filed by a legal widow or widower of such veteran who is found to be entitled to such benefits. No duplicate payments shall be made by virtue of this subsection.
 
 (b) Where a surviving spouse has been legally married to a veteran more than once, the date of original marriage will be used in determining whether the statutory requirement as to date of marriage has been met.
 
@@ -10,17 +10,17 @@
 
 (2)(A) The remarriage of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran if the remarriage has been terminated by death or divorce unless the Secretary determines that the divorce was secured through fraud or collusion.
 
-(B) The remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under section 1781 of this title to such person as the surviving spouse of the veteran.
+(B) The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55 of the surviving spouse of a veteran shall not bar the furnishing of benefits under section 1781 of this title to such person as the surviving spouse of the veteran.
 
 (3) If the surviving spouse of a veteran ceases living with another person and holding himself or herself out openly to the public as that person's spouse, the bar to granting that person benefits as the surviving spouse of the veteran shall not apply in the case of the benefits specified in paragraph (5).
 
-(4) The first month of eligibility for benefits for a surviving spouse by reason of this subsection shall be the month after—
+(4) The first month of eligibility for benefits for a surviving spouse by reason of paragraph (2)(A) or (3) shall be the month after—
 
-&emsp;(A) the month of the termination of such remarriage, in the case of a surviving spouse described in paragraph (2); or
+&emsp;(A) the month of the termination of such remarriage, in the case of a surviving spouse described in paragraph (2)(A); or
 
 &emsp;(B) the month of the cessation described in paragraph (3), in the case of a surviving spouse described in that paragraph.
 
-(5) Paragraphs (2) and (3) apply with respect to benefits under the following provisions of this title:
+(5) Paragraphs (2)(A) and (3) apply with respect to benefits under the following provisions of this title:
 
 &emsp;(A) Section 1311, relating to dependency and indemnity compensation.
 
@@ -32,9 +32,17 @@
 
 (e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 107–135, title II, §208(e)(1), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title I, §101(a), Dec. 6, 2002, 116 Stat. 2821.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 107–135, title II, §208(e)(1), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title I, §101(a), Dec. 6, 2002, 116 Stat. 2821; Pub. L. 108–183, title I, §101(a), title VII, §708(a)(1), Dec. 16, 2003, 117 Stat. 2652, 2673.)
 
 #### Amendments
+
+2003—Subsec. (d)(2)(B). Pub. L. 108–183, §101(a), substituted “The remarriage after age 57 of the surviving spouse of a veteran shall not bar the furnishing of benefits specified in paragraph (5) to such person as the surviving spouse of the veteran. Notwithstanding the previous sentence, the remarriage after age 55” for “The remarriage after age 55”.
+
+Subsec. (d)(4). Pub. L. 108–183, §708(a)(1)(A)(i), substituted “paragraph (2)(A) or (3)” for “this subsection” in introductory provisions.
+
+Subsec. (d)(4)(A). Pub. L. 108–183, §708(a)(1)(A)(ii), substituted “paragraph (2)(A)” for “paragraph (2)”.
+
+Subsec. (d)(5). Pub. L. 108–183, §708(a)(1)(B), substituted “Paragraphs (2)(A)” for “Paragraphs (2)” in introductory provisions.
 
 2002—Subsec. (d)(2). Pub. L. 107–330 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -76,6 +84,10 @@ Subsec. (d)(3). Pub. L. 99–576, §701(2)(F), substituted “surviving spouse�
 
 1962—Subsecs. (d), (e). Pub. L. 87–674 added subsecs. (d) and (e).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–183, title I, §101(c), Dec. 16, 2003, 117 Stat. 2653, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1311 of this title\] shall take effect on January 1, 2004.”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–330, title I, §101(c), Dec. 6, 2002, 116 Stat. 2821, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date that is 60 days after the date of the enactment of this Act \[Dec. 6, 2002\].”
@@ -100,9 +112,15 @@ Amendment by Pub. L. 91–376 effective Jan. 1, 1971, see section 9 of Pub. L. 9
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
+#### Retroactive Benefits Prohibited
+
+Pub. L. 108–183, title I, §101(d), Dec. 16, 2003, 117 Stat. 2653, provided that: “No benefit may be paid to any person by reason of the amendments made by subsections (a) and (b) \[amending this section and section 1311 of this title\] for any period before the effective date specified in subsection (c) \[set out as an Effective Date of 2003 Amendment note above\].”
+
 #### Application for Benefits
 
-Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, provided that: “In the case of an individual who but for having remarried would be eligible for medical care under section 1781 of title 38, United States Code, and whose remarriage was before the date of the enactment of this Act \[Dec. 6, 2002\] and after the individual had attained age 55, the individual shall be eligible for such medical care by reason of the amendments made by subsection (a) \[amending this section\] only if an application for such medical care is received by the Secretary of Veterans Affairs during the 1-year period ending on the effective date specified in subsection (c) \[set out as an Effective Date of 2002 Amendment note above\].”
+Pub. L. 108–183, title I, §101(e), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for benefits under title 38, United States Code, by reason of the amendment made by subsection (a) \[amending this section\] and whose remarriage was before the date of the enactment of this Act \[Dec. 16, 2003\] and after the individual had attained age 57, the individual shall be eligible for such benefits by reason of such amendment only if the individual submits an application for such benefits to the Secretary of Veterans Affairs not later than the end of the one-year period beginning on the date of the enactment of this Act.”
+
+Pub. L. 107–330, title I, §101(b), Dec. 6, 2002, 116 Stat. 2821, as amended by Pub. L. 108–183, title I, §101(f), Dec. 16, 2003, 117 Stat. 2653, provided that: “In the case of an individual who but for having remarried would be eligible for medical care under section 1781 of title 38, United States Code, and whose remarriage was beforethe date of the enactment of this Act \[Dec. 6, 2002\] and after the individual had attained age 55, the individual shall be eligible for such medical care by reason of the amendments made by subsection (a) \[amending this section\] only if an application for such medical care is received by the Secretary of Veterans Affairs before the end of the one-year period beginning on the date of the enactment of the Veterans Benefits Act of 2003 \[Dec. 16, 2003\].”
 
 #### Limitation on Payments
 
@@ -132,5 +150,5 @@ Section 5 of Pub. L. 91–376, effective January 1, 1971, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5110 of this title.
+This section is referred to in sections 1311, 5110 of this title.
 

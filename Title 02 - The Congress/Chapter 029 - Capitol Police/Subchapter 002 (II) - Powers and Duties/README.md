@@ -18,3 +18,4 @@
 - [&sect; 01971 - Contributions of meals and refreshments during emergency duty](%C2%A7%2001971%20-%20Contributions%20of%20meals%20and%20refreshments%20during%20emergency%20duty.md)
 - [&sect; 01972 - Contributions of comfort and other incidental items and services during emergency duty](%C2%A7%2001972%20-%20Contributions%20of%20comfort%20and%20other%20incidental%20items%20and%20services%20during%20emergency%20duty.md)
 - [&sect; 01973 - Support and maintenance expenditures during emergency duty](%C2%A7%2001973%20-%20Support%20and%20maintenance%20expenditures%20during%20emergency%20duty.md)
+- [&sect; 01974 - Capitol Police special officers](%C2%A7%2001974%20-%20Capitol%20Police%20special%20officers.md)

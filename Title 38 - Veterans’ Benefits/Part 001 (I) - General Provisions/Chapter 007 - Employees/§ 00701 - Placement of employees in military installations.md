@@ -1,6 +1,6 @@
 ### §701. Placement of employees in military installations
 
-The Secretary may place employees of the Department in such Army, Navy, and Air Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged or released from active military, naval, or air service.
+The Secretary may place employees of the Department in such Army, Navy, and Air Force installations as may be considered advisable for the purpose of adjudicating disability claims of, and giving aid and advice to, members of the Armed Forces who are about to be discharged orreleased from active military, naval, or air service.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 394.)
 

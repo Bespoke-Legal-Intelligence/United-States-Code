@@ -30,11 +30,11 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Section 704(b) of Pub. L. 101–194 provided that: “This section and the amendments made by this section \[amending this section, section 31 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
+Section 704(b) of Pub. L. 101–194 provided that: “This section and the amendments made by this section\[amending this section, section 31 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
 
 #### Salary Levels of Senior Government Officials
 
-Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: “The rate of pay for the offices referredto under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted.”
+Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: “The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted.”
 
 Section 703 of Pub. L. 101–194 provided that:
 
@@ -134,13 +134,13 @@ Pub. L. 98–51, title III, §304, July 14, 1983, 97 Stat. 279, provided that:
 
 “(b) In the case of any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, for which the maximum rate of salary or basic pay that is payable on the date of the enactment of this Act \[July 14, 1983\] is less than the maximum rate then prescribed by law, the maximum rate prescribed by law as of such date of enactment shall be reduced to the maximum rate payable as of such date.
 
-“(c) In determining the amount of the reduction under this section in the case of any Senator, the provisions of section 129, of Public Law 97–377 \[set out as a note below\] shall be applied without regard to subsection (c) of such section.”
+“(c) In determining the amount of the reduction under this section in the case of any Senator, the provisions of section 129, of Public Law 97–377 \[set out as anote below\] shall be applied without regard to subsection (c) of such section.”
 
 #### Limitation on Maximum Rate of Salary Increases for Senior Executive, Judicial, and Legislative Positions (Including Members of Congress); Services Performed After December 17, 1982; Applicability to Senators; Construction With Provisions Relating to Annual Rates of Compensation of Officers and Employees of the Senate
 
 Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, provided that:
 
-“(b) In lieu of payment of salary increases of up to 27.2 percent as authorized by law for senior executive,judicial, and legislative positions (including Members of Congress), it is the purpose of this section \[enacting this provision and amending section 101(e) of Pub. L. 97–276, set out below\] to limit such increases to 15 percent. Notwithstanding the provisions of section 306 of S. 2939 \[set out below\] made applicable by subsection (a) of this section, nothing in subsection (a) shall (or be construed to) require that the rate of salary or pay payable to any individual for or on account of services performed after December 17, 1982, be limited to an amount less than the rate (or maximum rate, if higher) of salary or pay payable as of such date for the position involved increased by 15 percent and rounded in accordance with section 5318 of title 5, United States Code.
+“(b) In lieu of payment of salary increases of up to 27.2 percent as authorized by law for senior executive, judicial, and legislative positions (including Members of Congress), it is the purpose of this section \[enacting this provision and amending section 101(e) of Pub. L. 97–276, set out below\] to limit such increases to 15 percent. Notwithstanding the provisions of section 306 of S. 2939 \[set out below\] made applicable by subsection (a) of this section, nothing in subsection (a) shall (or be construed to) require that the rate of salary or pay payable to any individual for or on account of services performed after December 17, 1982, be limited to an amount less than the rate (or maximum rate, if higher) of salary or pay payable as of such date for the position involved increased by 15 percent and rounded in accordance with section 5318 of title 5, United States Code.
 
 “(c) Subsection (b) shall not apply to Senators.
 
@@ -190,13 +190,13 @@ Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95
 
 Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that:
 
-“(a) Notwithstanding the provisions of section 305 of H.R. 4120 made applicable by section 101(g) of this joint resolution \[set out above\], but subject to subsection (b) of this section, nothing in section 101(g) shall (or shall be construed to) require that the rate of salary or basic pay, payable to any individual for or on account of services performed after December 31, 1981, be limited to or reduced to an amount which is less than—
+“(a) Notwithstanding the provisions of section 305 of H.R. 4120 made applicable by section 101(g) of this joint resolution \[set out above\], but subject to subsection (b)of this section, nothing in section 101(g) shall (or shall be construed to) require that the rate of salary or basic pay, payable to any individual for or on account of services performed after December 31, 1981, be limited to or reduced to an amount which is less than—
 
 &emsp;“(1) $59,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level III of the Executive Schedule under section 5314 of title 5, United States Code;
 
 &emsp;“(2) $58,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5, United States Code; or
 
-&emsp;“(3) $57,500, if such individual has an office or position the salary or pay for which corresponds to therate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+&emsp;“(3) $57,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code.
 
 “(b)(1) For purposes of subsection (a), any rate of salary or pay shall be considered to correspond to the basic pay for a level of the Executive Schedule if the rate of salary or pay for that office or position is (i) fixed at a rate which is equal to or greater than the rate of basic pay for that level of the Executive Schedule or (ii) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law (other than the provisions of such section 305, as made applicable by section 101(g) of this joint resolution) or congressional resolution.
 
@@ -248,7 +248,7 @@ Pub. L. 95–429, title VI, §613, Oct. 10, 1978, 92 Stat. 1017, provided that:
 
 &emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
 
-&emsp;“(2) jointly by the Speaker of the House and the President pro tempore of the Senate, in the case ofany office or position within the legislative branch; or
+&emsp;“(2) jointly by the Speaker of the House and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
 
 &emsp;“(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
 

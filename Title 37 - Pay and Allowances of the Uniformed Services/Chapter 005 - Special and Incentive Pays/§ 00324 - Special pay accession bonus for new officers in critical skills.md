@@ -2,13 +2,13 @@
 
 (a)
 
-Accession Bonus Authorized.—Under regulations prescribed by the Secretary concerned, a person who executes a written agreement to accept a commission as an officer of the armed forces and serve on active duty in a designated critical officer skill for the period specified in the agreement may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—Under regulations prescribed by the Secretary concerned, a person who executes a written agreement to accept a commission or an appointment as an officer of the armed forces and serve on active duty in a designated critical officer skill for the period specified in the agreement may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (b)
 
 Designation of Critical Officer Skills.—The Secretary concerned shall designate the critical officer skills for the purposes of this section. A skill may be designated as a critical officer skill for an armed force under this subsection if—
 
-&emsp;(1) in order to meet requirements of the armed force, it is critical for the armed forceto have a sufficient number of officers who are qualified in that skill; and
+&emsp;(1) in order to meet requirements of the armed force, it is critical for the armed force to have a sufficient number of officers who are qualified in that skill; and
 
 &emsp;(2) in order to mitigate a current or projected significant shortage of personnel in the armed force who are qualified in that skill, it is critical to access into that armed force in sufficient numbers persons who are qualified in that skill or are to be trained in that skill.
 
@@ -26,19 +26,23 @@ Relation to Other Accession Bonus Authority.—An individual may not receive an 
 
 (f)
 
-Repayment for Failure To Commence or Complete Obligated Service.—(1) An individual who, after having received all or part of the accession bonus under an agreement referred to in subsection (a), fails to accept a commission as an officer or to commence or complete the total period of active duty service specified in the agreement shall repay to the United States the amount that bears the same ratio to the total amount of the bonus authorized for such person as the unserved part of the period of agreed active duty service bears to the total period of the agreed active duty service. However, the amount required to be repaid by the individual may not exceed the amount of the accession bonus that was paid to the individual.
+Repayment for Failure To Commence or Complete Obligated Service.—(1) An individual who, after having received all or part of the accession bonus under an agreement referred to in subsection (a), fails to accept a commission or an appointment as an officer or to commence or complete the total period of active duty service specified in the agreement shall repay to the United States the amount that bears the same ratio to the total amount of the bonus authorized for such person as the unserved part of the period of agreed active duty service bears to the total period of the agreed active duty service. However, the amount required to be repaid by the individual may not exceed the amount of the accession bonus that was paid to the individual.
 
-(2) Subject to paragraph (3), an obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
+(2) Subject to paragraph (3), an obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to theUnited States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
 
 (3) The Secretary concerned may waive, in whole or in part, the repayment requirement under paragraph (1) on a case-by-case basis if the Secretary concerned determines that repayment would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2003.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2004.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505.)
 
 #### Amendments
+
+2003—Subsecs. (a), (f)(1). Pub. L. 108–136, §623, inserted “or an appointment” after “commission”.
+
+Subsec. (g). Pub. L. 108–136, §614(e), substituted “December 31, 2004” for “December 31, 2003”.
 
 2002—Subsec. (b). Pub. L. 107–314, §1062(c)(2), struck out par. (1) designation before “The Secretary”.
 

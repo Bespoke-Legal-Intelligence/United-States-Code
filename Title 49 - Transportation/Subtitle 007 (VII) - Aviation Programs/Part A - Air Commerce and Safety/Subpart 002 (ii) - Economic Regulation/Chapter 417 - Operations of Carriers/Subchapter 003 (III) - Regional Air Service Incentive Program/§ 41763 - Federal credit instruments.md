@@ -42,7 +42,7 @@ Repayment.—
 
 &emsp;&emsp;(A)
 
-Schedule.—The Secretary shall establish a repayment schedule for each securedloan under this section based on the projected cash flow from aircraft revenues and other repayment sources.
+Schedule.—The Secretary shall establish a repayment schedule for each secured loan under this section based on the projected cash flow from aircraft revenues and other repayment sources.
 
 &emsp;&emsp;(B)
 
@@ -66,7 +66,7 @@ Loan Guarantees.—
 
 &emsp;(1)
 
-In general.—A loan guarantee under this section with respect to a loan made for an aircraft purchase shall be made in such form and on such terms and conditions and contain such covenants, representatives, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
+In general.—A loan guarantee under this section with respect to a loan made for an aircraft purchase shall be made in such form and on such terms and conditions and contain suchcovenants, representatives, warranties, and requirements (including requirements for audits) as the Secretary determines appropriate.
 
 &emsp;(2)
 
@@ -170,7 +170,7 @@ Conditions.—Subject to subsection (h), the Secretary may only make a Federal c
 
 &emsp;&emsp;&emsp;(i) to continue its operations as an air carrier; and
 
-&emsp;&emsp;&emsp;(ii) to the extent that the Secretary determines to be necessary, to continue its operations as an air carrier between the same route or routes being operated by the air carrier at the time of the issuance of the Federal credit instrument; and
+&emsp;&emsp;&emsp;(ii) to the extent that the Secretary determines to be necessary, to continue its operations as an air carrier between the same route or routes being operated by theair carrier at the time of the issuance of the Federal credit instrument; and
 
 &emsp;&emsp;(B) reasonable protection to the United States.
 

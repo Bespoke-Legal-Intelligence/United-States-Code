@@ -6,7 +6,7 @@ Not later than January 1, 1982, the Secretary shall develop data assessing the c
 
 #### (b) Guidelines; promulgation, criteria, scope, etc.
 
-Not later than April 1, 1982, the Secretary shall have promulgated necessary and appropriate guidelines for demonstrations and issued an initial request for proposals for technical and financial assistance to support public and private entities in developing and implementingdemonstration projects to gather data on the operation of methane-fueled vehicles and methane transmission, storage, and dispensing facilities, under differing climatic, atmospheric, and operating conditions and on design and technical modifications of those vehicles and facilities:
+Not later than April 1, 1982, the Secretary shall have promulgated necessary and appropriate guidelines for demonstrations and issued an initial request for proposals for technical and financial assistance to support public and private entities in developing and implementing demonstration projects to gather data on the operation of methane-fueled vehicles and methane transmission, storage, and dispensing facilities, under differing climatic, atmospheric, and operating conditions and on design and technical modifications of those vehicles and facilities:
 
 &emsp;(1) In the case of public entities, the Secretary is authorized to provide—
 
@@ -52,7 +52,7 @@ In selecting proposed demonstrations to be supported under this section, the Sec
 
 &emsp;(6) average trip lengths:
 
-> <i>Provided, however</i>, That not fewer than two demonstrations initiated in each year shall be located in a county or standard metropolitan statistical area designated by the Secretary upon recommendation of the Administrator of the Environmental Protection Agency based on severity or uniqueness of air quality conditions: <i>And provided further</i>, That the fleet or portions of fleets participating in each demonstration withfunding under this chapter shall consist of not fewer than fifty vehicles except in the case of one demonstration each year involving methane-fueled off-road agricultural equipment.
+> <i>Provided, however</i>, That not fewer than two demonstrations initiated in each year shall be located in a county or standard metropolitan statistical area designated by the Secretary upon recommendation of the Administrator of the Environmental Protection Agency based on severity or uniqueness of air quality conditions: <i>And provided further</i>, That the fleet or portions of fleets participating in each demonstration with funding under this chapter shall consist of not fewer than fifty vehicles except in the case of one demonstration each year involving methane-fueled off-road agricultural equipment.
 
 (Pub. L. 96–512, §7, Dec. 12, 1980, 94 Stat. 2830.)
 

@@ -6,7 +6,7 @@ In order to carry out the provisions of this chapter, the Center may—
 
 &emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Director be compensated at a rate to exceed the maximum rate for employees in grade GS–15 of the General Schedule under section 5332 of title 5;
 
-&emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 under section 5332 of such title;
+&emsp;(2) procure temporary and intermittent services of experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 under section 5332 of such title;
 
 &emsp;(3) prescribe such regulations as it considers necessary governing the manner in which its functions shall be carried out;
 
@@ -36,9 +36,9 @@ Subsection (b), which required the Center to submit an annual report to Congress
 
 #### Amendments
 
-1990—Subsec. (a)(6) to (11). Pub. L. 101–520 struck out “and” at end of par. (6), added pars. (7) to (11), and struck out former par. (7) which read as follows: “To make other necessary expenditures including official reception and representation expenses.”
+<b>1990</b>—Subsec. (a)(6) to (11). Pub. L. 101–520 struck out “and” at end of par. (6), added pars. (7) to (11), and struck out former par. (7) which read as follows: “To make other necessary expenditures including official reception and representation expenses.”
 
-1989—Subsec. (a)(7). Pub. L. 101–163 substituted “To make other necessary expenditures including official reception and representation expenses” for “make other necessary expenditures”.
+<b>1989</b>—Subsec. (a)(7). Pub. L. 101–163 substituted “To make other necessary expenditures including official reception and representation expenses” for “make other necessary expenditures”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

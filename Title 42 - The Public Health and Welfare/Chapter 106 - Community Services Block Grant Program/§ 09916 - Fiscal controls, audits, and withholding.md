@@ -40,7 +40,7 @@
 
 #### (2) Response to complaints
 
-&emsp;The Secretary shall respond in an expeditious and speedy manner to complaints of a substantial or serious nature that a State has failed to use funds in accordance with the provisions of this chapter, including the assurances provided by the State under section 9908 of this title. For purposes of this paragraph, a complaint of a failure to meet any one of the assurances provided under section 9908 of this title that constitutes disregarding that assurance shall be considered to be a complaint of a serious nature.
+&emsp;The Secretary shall respond in an expeditious and speedy manner to complaints of a substantial or serious nature that a State has failed to use funds in accordance with the provisions of this chapter, including the assurances provided by the State under section 9908 of this title. For purposes of this paragraph, a complaint of a failure to meet any one of theassurances provided under section 9908 of this title that constitutes disregarding that assurance shall be considered to be a complaint of a serious nature.
 
 #### (3) Investigations
 

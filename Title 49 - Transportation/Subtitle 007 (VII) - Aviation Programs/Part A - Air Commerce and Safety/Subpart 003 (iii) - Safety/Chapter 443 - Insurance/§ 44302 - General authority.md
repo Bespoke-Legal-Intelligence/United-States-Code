@@ -44,7 +44,7 @@ Extension of Policies.—
 
 &emsp;(1)
 
-In general.—The Secretary shall extend through August 31, 2003, and may extend through December 31, 2003, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+In general.—The Secretary shall extend through August 31, 2004, and may extend through December 31, 2004, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
 &emsp;(2)
 
@@ -54,7 +54,23 @@ Special rules.—Notwithstanding paragraph (1)—
 
 &emsp;&emsp;(B) the coverage in such policy shall begin with the first dollar of any covered loss that is incurred.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286.)
+(g)
+
+Aircraft Manufacturers.—
+
+&emsp;(1)
+
+In general.—The Secretary may provide to an aircraft manufacturer insurance for loss or damage resulting from operation of an aircraft by an air carrier and involving war or terrorism.
+
+&emsp;(2)
+
+Amount.—Insurance provided by the Secretary under this subsection shall be for loss or damage in excess of the greater of the amount of available primary insurance or $50,000,000.
+
+&emsp;(3)
+
+Terms and conditions.—Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498.)
 
 Historical and Revision Notes
 
@@ -110,6 +126,10 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), is the 
 
 #### Amendments
 
+2003—Subsec. (f)(1). Pub. L. 108–11, substituted “2004” for “2003” in two places.
+
+Subsec. (g). Pub. L. 108–176 added subsec. (g).
+
 2002—Subsec. (f). Pub. L. 107–296 added subsec. (f).
 
 2001—Subsec. (a)(1). Pub. L. 107–42, §201(a)(1), substituted “subsection (c)” for “subsection (b)” and “foreign-flag aircraft.” for “foreign-flag aircraft—” and struck out subpars. (A) and (B) which read as follows:
@@ -127,6 +147,10 @@ Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d)
 Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
 1997—Subsec. (a)(2). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -152,21 +176,29 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations
 
-Determination of President of the United States, No. 01–29, Sept. 23, 2001, 66 F.R. 49075, provided:
+Determination of President of the United States, No. 2004–13, Dec. 11, 2003, 69 F.R. 5237, provided:
 
 Memorandum for the Secretary of Transportation
 
-By virtue of the authority vested in me by 49 U.S.C. 44302, <i>et seq</i>., I hereby:
+By the authority vested in me by 49 U.S.C. 44302, <i>et seq.,</i> I hereby:
 
-&emsp;(1) determine that continuation of U.S.-flag commercial air service is necessary in the interest of air commerce, national security, and the foreign policy of the United States;
+1\. Determine that continuation of U.S.-flag commercial air service is necessary in the interest of air commerce, national security, and the foreign policy of the United States;
 
-&emsp;(2) approve provision by the Secretary of Transportation of insurance to U.S.-flag air carriers against loss or damage arising out of any risk from the operation of an aircraft, and/or reimbursement of insurance cost increases, in the manner and to the extent provided in Chapter 443 of 49 U.S.C., whenever he determines that such insurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States; and
+2\. Approve provision by the Secretary of Transportation of Insurance \[sic\] or reinsurance to U.S.-flag air carriers against loss or damage arising out of any risk from the operation of an aircraft in the manner and to the extent provided in Chapter 443 of 49 U.S.C.:
 
-&emsp;(3) delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(b) \[now 44306(c)\], to extend this determination for additional 60-day periods, when he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
+(a) Until August 31, 2004;
+
+(b) After August 31, 2004, but no later than December 31, 2004, when he determines that such insurance or reinsurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States; and
+
+3\. Delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(c), to extend this determination for additional periods beyond August 31, 2004, but no later than December 31, 2004, when he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
 
 You are directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(2), and to arrange for its publication in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior determinations with respect to provision of insurance to U.S.-flag commercial air service were contained in the following:
+
+Determination of the President of the United States, No. 01–29, Sept. 23, 2001, 66 F.R. 49075.
 
 #### Section Referred to in Other Sections
 

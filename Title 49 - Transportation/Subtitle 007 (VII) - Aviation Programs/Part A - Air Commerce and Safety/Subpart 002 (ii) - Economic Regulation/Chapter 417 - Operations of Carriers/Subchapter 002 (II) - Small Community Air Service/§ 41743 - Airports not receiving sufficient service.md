@@ -2,7 +2,7 @@
 
 (a)
 
-Small Community Air Service Development Pilot Program.—The Secretary of Transportation shall establish a pilot program that meets the requirements of this section for improving air carrier service to airports not receiving sufficient air carrier service.
+Small Community Air Service Development Program.—The Secretary of Transportation shall establish a program that meets the requirements of this section for improving air carrier service to airports not receiving sufficient air carrier service.
 
 (b)
 
@@ -18,7 +18,7 @@ Criteria for Participation.—In selecting communities, or consortia of communit
 
 &emsp;(1)
 
-Size.—For calendar year 1997, the airport serving the community or consortium was not larger than a small hub airport (as that term is defined in section 41731(a)(5)), and—
+Size.—For calendar year 1997, the airport serving the community or consortium was not larger than a small hub airport, and—
 
 &emsp;&emsp;(A) had insufficient air carrier service; or
 
@@ -30,11 +30,11 @@ Characteristics.—The airport presents characteristics, such as geographic dive
 
 &emsp;(3)
 
-State limit.—No more than four communities or consortia of communities, or a combination thereof, may be located in the same State.
+State limit.—Not more than 4 communities or consortia of communities, or a combination thereof, from the same State may be selected to participate in the program in any fiscal year.
 
 &emsp;(4)
 
-Overall limit.—No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program.
+Overall limit.—No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program in each year for which funds are appropriated for the program. No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.
 
 &emsp;(5)
 
@@ -44,9 +44,11 @@ Priorities.—The Secretary shall give priority to communities or consortia of c
 
 &emsp;&emsp;(B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public; and
+&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
 
-&emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited.
+&emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited; and
+
+&emsp;&emsp;(E) the assistance will be used in a timely fashion.
 
 (d)
 
@@ -68,11 +70,11 @@ In general.—The Secretary may make agreements to provide assistance under this
 
 &emsp;(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001 and $27,500,000 for each of fiscal years 2002 and 2003 to carry out this section. Such sums shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Secretary $20,000,000 for fiscal year 2001, $27,500,000 for each of fiscal years 2002 and 2003, and $35,000,000 for each of fiscal years 2004 through 2008 to carry out this section. Such sums shall remain available until expended.
 
 (f)
 
-Additional Action.—Under the pilot program established under subsection (a), the Secretary shall work with air carriers providingservice to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports (as defined in section 41731(a)(3)) to facilitate joint-fare arrangements consistent with normal industry practice.
+Additional Action.—Under the program established under subsection (a), the Secretary shall work with air carriers providing service to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports to facilitate joint-fare arrangements consistent with normal industry practice.
 
 (g)
 
@@ -92,7 +94,33 @@ Designation of Responsible Official.—The Secretary shall designate an employee
 
 Air Service Development Zone.—The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
-(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92.)
+(Added Pub. L. 106–181, title II, §203(a), Apr. 5, 2000, 114 Stat. 92; amended Pub. L. 108–11, title II, §2708, Apr. 16, 2003, 117 Stat. 601; Pub. L. 108–176, title II, §225(b)(3), title IV, §412, Dec. 12, 2003, 117 Stat. 2529, 2551.)
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–176, §412(1), (2), struck out “
+
+Pilot” before “
+
+Program” in heading and “pilot” before “program” in text.
+
+Subsec. (c)(1). Pub. L. 108–176, §225(b)(3)(A), struck out “(as that term is defined in section 41731(a)(5))” after “small hub airport” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 108–176, §412(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “No more than four communities or consortia of communities, or a combination thereof, may be located in the same State.”
+
+Subsec. (c)(4). Pub. L. 108–176, §412(3)(B), inserted at end “No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.”
+
+Pub. L. 108–11 inserted before period at end “in each year for which funds are appropriated for the program”.
+
+Subsec. (c)(5)(E). Pub. L. 108–176, §412(3)(C), added subpar. (E).
+
+Subsec. (e)(2). Pub. L. 108–176, §412(4), substituted “fiscal year 2001,” for “fiscal year 2001 and” and inserted “, and $35,000,000 for each of fiscal years 2004 through 2008” after “2003”.
+
+Subsec. (f). Pub. L. 108–176, §§225(b)(3)(B), 412(5), struck out “pilot” after “Under the” and “(as defined in section 41731(a)(3))” after “large hub airports”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 

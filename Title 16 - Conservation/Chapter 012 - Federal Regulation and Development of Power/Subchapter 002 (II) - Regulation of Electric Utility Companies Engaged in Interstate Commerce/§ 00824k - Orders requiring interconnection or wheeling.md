@@ -34,7 +34,7 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 &emsp;(B) the date on which a specific authorization of the Congress (within the meaning of the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\]) takes effect.
 
-(3) Any determination under paragraph (1) shall be reviewable only in the appropriate court of the United States upon petition filed by any aggrieved person or municipality within 60 days after such determination, and such court shall have jurisdiction to grant appropriate relief. Any applicant who applied for and obtained the order under section 824i or 824j of this title, and any electric utility or other entity subject to such order shall have the right to intervene in any such proceeding in such court. Except for review by such court (and any appeal or other review by an appellate court of the United States), no court shall have jurisdiction to consider any action brought by any person to enjoin the carrying out of any order of the Commission under section 824i or section 824j of this title requiring the TVA to take any action on the grounds that such action requires a specific authorization of the Congress pursuant to the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\].
+(3) Any determination under paragraph (1) shall be reviewable only in the appropriate court of the United States upon petition filed by any aggrieved person or municipality within 60 daysafter such determination, and such court shall have jurisdiction to grant appropriate relief. Any applicant who applied for and obtained the order under section 824i or 824j of this title, and any electric utility or other entity subject to such order shall have the right to intervene in any such proceeding in such court. Except for review by such court (and any appeal or other review by an appellate court of the United States), no court shall have jurisdiction to consider any action brought by any person to enjoin the carrying out of any order of the Commission under section 824i or section 824j of this title requiring the TVA to take any action on the grounds that such action requires a specific authorization of the Congress pursuant to the third sentence of section 15d(a) of the TVA Act \[16 U.S.C. 831n–4(a)\].
 
 #### (g) Prohibition on orders inconsistent with retail marketing areas
 
@@ -70,7 +70,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 &emsp;&emsp;(II) adhere to the procedural requirements of paragraphs (1) through (3) of section 839e(i) of this title, except that the hearing officer shall, unless the hearing officer becomes unavailable to the agency, make a recommended decision to the Administrator that states the hearing officer's findings and conclusions, and the reasons or basis thereof, on all material issues of fact, law, or discretion presented on the record; and
 
-&emsp;&emsp;(III) make a determination, setting forth the reasons for reaching any findings and conclusions which may differ from those of the hearing officer, based on the hearing record, consideration of the hearing officer'srecommended decision, section 824j of this title and this section, as amended by the Energy Policy Act of 1992, and the provisions of law as preserved in this section; and
+&emsp;&emsp;(III) make a determination, setting forth the reasons for reaching any findings and conclusions which may differ from those of the hearing officer, based on the hearing record, consideration of the hearing officer's recommended decision, section 824j of this title and this section, as amended by the Energy Policy Act of 1992, and the provisions of law as preserved in this section; and
 
 &emsp;(B) if application is made to the Commission under section 824j of this title for transmission service under terms and conditions different than those offered by the Administrator, or following the denial of a request for transmission service by the Administrator, and such application is filed within 60 days of the Administrator's final determination and in accordance with Commission procedures, the Commission shall—
 
@@ -110,7 +110,7 @@ The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 S
 
 The Rural Electrification Act of 1936, referred to in subsec. (h)(2)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
-The Energy Policy Act of 1992, referred to in subsec. (i)(2)(A)(III), (B)(i), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act tothe Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
+The Energy Policy Act of 1992, referred to in subsec. (i)(2)(A)(III), (B)(i), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
 
 #### Amendments
 

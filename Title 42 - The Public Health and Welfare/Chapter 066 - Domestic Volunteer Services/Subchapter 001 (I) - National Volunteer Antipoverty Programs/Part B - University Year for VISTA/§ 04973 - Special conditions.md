@@ -22,7 +22,7 @@ The Economic Opportunity Act of 1964, as amended, referred to in subsec. (c)(1),
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–82, §330(a)(2), (b), substituted “VISTA program” for “ACTION program” and“semester or its equivalent” for “year” after “duration of an academic” and inserted at end “Volunteers may receive a living allowance and such other support or allowances as the Director determines to be appropriate.”
+1993—Subsec. (a). Pub. L. 103–82, §330(a)(2), (b), substituted “VISTA program” for “ACTION program” and “semester or its equivalent” for “year” after “duration of an academic” and inserted at end “Volunteers may receive a living allowance and such other support or allowances as the Director determines to be appropriate.”
 
 Subsec. (c)(1). Pub. L. 103–82, §330(a)(3), substituted “UYV programs” for “UYA programs”.
 

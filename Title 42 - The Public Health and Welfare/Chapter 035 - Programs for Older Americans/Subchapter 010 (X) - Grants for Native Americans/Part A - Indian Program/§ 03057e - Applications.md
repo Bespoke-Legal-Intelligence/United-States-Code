@@ -24,7 +24,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
 
-&emsp;(11) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III of this chapter in the same geographical area.
+&emsp;(11) contain assurances that the tribal organization will coordinate services provided under this part with services provided undersubchapter III of this chapter in the same geographical area.
 
 #### (b) Population statistics development
 

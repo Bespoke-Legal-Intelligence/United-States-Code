@@ -50,7 +50,7 @@ In this Act, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The terms “person associated with a public accounting firm” (or with a “registered public accounting firm”) and “associated person of a public accounting firm” (or of a “registered public accounting firm”) mean any individual proprietor, partner, shareholder, principal, accountant, or other professional employee of a public accounting firm, or any other independent contractor or entity that, in connection with the preparation or issuance of any audit report—
+&emsp;&emsp;The terms “person associated with a public accounting firm” (or with a “registered public accounting firm”) and “associatedperson of a public accounting firm” (or of a “registered public accounting firm”) mean any individual proprietor, partner, shareholder, principal, accountant, or other professional employee of a public accounting firm, or any other independent contractor or entity that, in connection with the preparation or issuance of any audit report—
 
 &emsp;&emsp;&emsp;(i) shares in the profits of, or receives compensation in any other form from, that firm; or
 
@@ -108,7 +108,7 @@ In this Act, the following definitions shall apply:
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Actof 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 The Securities Act of 1933, referred to in par. (7), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -120,47 +120,7 @@ Pub. L. 107–204, §1(a), July 30, 2002, 116 Stat. 745, provided that: “This 
 
 #### GAO Study and Report Regarding Consolidation of Public Accounting Firms
 
-Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, provided that:
-
-“(a)
-
-Study Required.—The Comptroller General of the United States shall conduct a study—
-
-&emsp;“(1) to identify—
-
-&emsp;&emsp;“(A) the factors that have led to the consolidation of public accounting firms since 1989 and the consequent reduction in the number of firms capable of providing audit services to large national and multi-national business organizations that are subject to the securities laws;
-
-&emsp;&emsp;“(B) the present and future impact of the condition described in subparagraph (A) on capital formation and securities markets, both domestic and international; and
-
-&emsp;&emsp;“(C) solutions to any problems identified under subparagraph (B), including ways to increase competition and the number of firms capable of providing audit services to large national and multinational business organizations that are subject to the securities laws;
-
-&emsp;“(2) of the problems, if any, faced by business organizations that have resulted from limited competition among public accounting firms, including—
-
-&emsp;&emsp;“(A) higher costs;
-
-&emsp;&emsp;“(B) lower quality of services;
-
-&emsp;&emsp;“(C) impairment of auditor independence; or
-
-&emsp;&emsp;“(D) lack of choice; and
-
-&emsp;“(3) whether and to what extent Federal or State regulations impede competition among public accounting firms.
-
-“(b)
-
-Consultation.—In planning and conducting the study under this section, the Comptroller General shall consult with—
-
-&emsp;“(1) the Commission;
-
-&emsp;“(2) the regulatory agencies that perform functions similar to the Commission within the other member countries of the Group of Seven Industrialized Nations;
-
-&emsp;“(3) the Department of Justice; and
-
-&emsp;“(4) any other public or private sector organization that the Comptroller General considers appropriate.
-
-“(c)
-
-Report Required.—Not later than 1 year after the date of enactment of this Act \[July 30, 2002\], the Comptroller General shall submit a report on the results of the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.”
+Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 
 #### Sarbanes-Oxley Act of 2002 Referred to in Other Sections
 

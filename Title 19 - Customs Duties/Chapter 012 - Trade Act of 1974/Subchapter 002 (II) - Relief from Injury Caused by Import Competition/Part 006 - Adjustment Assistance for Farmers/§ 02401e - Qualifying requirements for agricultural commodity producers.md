@@ -54,7 +54,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “average adjusted gross income” means the average adjusted grossincome of a producer for each of the 3 preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The term “average adjusted gross income” means the average adjusted gross income of a producer for each of the 3 preceding taxable years.
 
 #### (II) Effective adjusted gross income
 

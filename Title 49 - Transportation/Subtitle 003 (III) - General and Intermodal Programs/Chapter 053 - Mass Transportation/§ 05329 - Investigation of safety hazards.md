@@ -12,7 +12,7 @@ Report.—Not later than June 15, 1992, the Secretary shall submit to Congress a
 
 &emsp;(2) a description of actions of the Secretary to correct or eliminate, as a requirement for making an amount available through a grant or loan under this chapter, a condition found to create a serious hazard of death or injury;
 
-&emsp;(3) a summary of all passenger-related deaths and injuries resulting from an unsafe condition in a facility, equipment, or way of operating a facility or equipment at least partly financed under this chapter;
+&emsp;(3) a summary of all passenger-related deaths and injuries resulting from an unsafecondition in a facility, equipment, or way of operating a facility or equipment at least partly financed under this chapter;
 
 &emsp;(4) a summary of all employee-related deaths and injuries resulting from an unsafe condition in a facility, equipment, or way of operating a facility or equipment at least partly financed under this chapter;
 

@@ -14,7 +14,7 @@ Research shall be carried out under awards made under subsection (b) of this sec
 
 #### (d) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $2,250,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated $2,250,000for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 through 2005.
 
 (July 1, 1944, ch. 373, title IV, §445I, as added Pub. L. 106–505, title VIII, §801(2), Nov. 13, 2000, 114 Stat. 2349.)
 

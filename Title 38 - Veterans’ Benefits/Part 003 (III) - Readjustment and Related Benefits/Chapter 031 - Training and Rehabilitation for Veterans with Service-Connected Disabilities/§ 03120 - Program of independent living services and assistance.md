@@ -6,7 +6,7 @@
 
 (c) The Secretary shall, to the maximum extent feasible, include among those veterans who are provided with programs of independent living services and assistance under this section substantial numbers of veterans described in subsection (b) of this section who are receiving long-term care in Department of Veterans Affairs hospitals and nursing homes and in nursing homes with which the Secretary contracts for the provision of care to veterans.
 
-(d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independencein daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
+(d) A program of independent living services and assistance for a veteran shall consist of such services described in section 3104(a) of this title as the Secretary determines necessary to enable such veteran to achieve maximum independence in daily living. Such veteran shall have the same rights with respect to an individualized written plan of services and assistance as are afforded veterans under section 3107 of this title.
 
 (e) Programs of independent living services and assistance shall be initiated for no more than 2,500 veterans in each fiscal year, and the first priority in the provision of such programs shall be afforded to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of a service-connected disability.
 
@@ -54,7 +54,7 @@ Subsec. (e). Pub. L. 101–237, §404(3), (7), redesignated former subsec. (a)(6
 
 Subsec. (f). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
 
-Pub. L. 101–237, §404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are (1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
+Pub. L. 101–237, §404(3), (8), redesignated former subsec. (a)(7) as (f) and substituted “in this subsection are\(1) public or nonprofit agencies or organizations, and (2)” for “in this paragraph are (A) public or nonprofit agencies or organizations, and (B)”.
 
 1988—Subsec. (a)(1). Pub. L. 100–689, §202(b)(1), substituted “entities described in paragraph (7) of this subsection” for “public or nonprofit private agencies or organizations”.
 

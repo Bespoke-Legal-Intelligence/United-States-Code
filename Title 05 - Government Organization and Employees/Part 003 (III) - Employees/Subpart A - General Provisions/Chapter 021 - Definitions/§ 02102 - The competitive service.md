@@ -60,5 +60,5 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3132, 3304 of this title; title 10 sections 1744, 1792; title 16 section 3198; title 22 section 3641; title 28 section 569; title 36 section 2102; title 42 section 2000e; title 49 section 44506.
+This section is referred to in sections 3132, 3304 of this title; title 10 section 1792; title 16 section 3198; title 22 section 3641; title 28 section 569; title 36 section 2102; title 42 section 2000e; title 49 section 44506.
 

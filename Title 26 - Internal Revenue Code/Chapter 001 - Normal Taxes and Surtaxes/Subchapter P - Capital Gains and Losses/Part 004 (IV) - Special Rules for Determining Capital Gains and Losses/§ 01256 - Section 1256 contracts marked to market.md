@@ -4,7 +4,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
+&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (andany gain or loss shall be taken into account for the taxable year),
 
 &emsp;(2) proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account by reason of paragraph (1),
 
@@ -116,7 +116,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partneror limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
+&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
 
 #### (ii) Carryover of disallowed loss
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (B) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subparagraph (A),including regulations excluding from the application of subparagraph (A) any contract (or type of contract) if its application thereto would be inconsistent with such purposes.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subparagraph (A), including regulations excluding from the application of subparagraph (A) any contract (or type of contract) if its application thereto would be inconsistent with such purposes.
 
 #### (3) Nonequity option
 

@@ -8,6 +8,7 @@
 | [672\.](%C2%A7%2000672%20-%20Reference%20to%20chapter%201209.md) | Reference to chapter 1209. |
 | \[673 to 687. Renumbered.\] |  |
 | [688\.](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md) | Retired members: authority to order to active duty; duties. |
+| [688a.](%C2%A7%2000688a%20-%20Retired%20aviators%20temporary%20authority%20to%20order%20to%20active%20duty.md) | Retired aviators: temporary authority to order to active duty. |
 | [689\.](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md) | Retired members: grade in which ordered to active duty and upon release from active duty. |
 | [690\.](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md) | Retired members ordered to active duty: limitation on number. |
 | [691\.](%C2%A7%2000691%20-%20Permanent%20end%20strength%20levels%20to%20support%20two%20major%20regional%20contingencies.md) | Permanent end strength levels to support two major regional contingencies. |
@@ -15,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §503(a)(2), Dec. 2, 2002, 116 Stat. 2530, added item 688a.
 
 1996—Pub. L. 104–201, div. A, title V, §521(c), Sept. 23, 1996, 110 Stat. 2517, added items 688, 689, and 690 and struck out former item 688 “Retired members”.
 
@@ -52,7 +55,7 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 513 of this title.
+This chapter is referred to in section 513 of this title; title 33 section 3049.
 
 
 ---
@@ -82,6 +85,7 @@ This chapter is referred to in section 513 of this title.
 - [&sect; 00686 - Renumbered &sect;12318](%C2%A7%2000686%20-%20Renumbered%20%C2%A712318.md)
 - [&sect; 00687 - Renumbered &sect;12319](%C2%A7%2000687%20-%20Renumbered%20%C2%A712319.md)
 - [&sect; 00688 - Retired members authority to order to active duty; duties](%C2%A7%2000688%20-%20Retired%20members%20authority%20to%20order%20to%20active%20duty%3B%20duties.md)
+- [&sect; 00688a - Retired aviators temporary authority to order to active duty](%C2%A7%2000688a%20-%20Retired%20aviators%20temporary%20authority%20to%20order%20to%20active%20duty.md)
 - [&sect; 00689 - Retired members grade in which ordered to active duty and upon release from active duty](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md)
 - [&sect; 00690 - Retired members ordered to active duty limitation on number](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md)
 - [&sect; 00691 - Permanent end strength levels to support two major regional contingencies](%C2%A7%2000691%20-%20Permanent%20end%20strength%20levels%20to%20support%20two%20major%20regional%20contingencies.md)

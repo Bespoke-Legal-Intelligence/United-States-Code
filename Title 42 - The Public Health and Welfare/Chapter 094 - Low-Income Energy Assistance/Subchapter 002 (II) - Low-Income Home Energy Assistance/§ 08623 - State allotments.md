@@ -4,7 +4,7 @@
 
 (1)(A) Except as provided in subparagraph (B), the Secretary shall, from that percentage of the amount appropriated under section 8621(b) of this title for each fiscal year which is remaining after reserving any amount permitted to be reserved under section 8628a of this title and after the amount of allotments for such fiscal year under subsection (b)(1) of this section is determined by the Secretary, allot to each State an amount equal to such remaining percentage multiplied by the State's allotment percentage.
 
-(B) From the sums appropriated therefor after reserving any amount permitted to be reserved under section 8628a of this title, if for any period a State has a plan which is described in section 8624(c)(1) of this title, the Secretary shall pay to such State an amount equal to 100 percent of the expenditures of such State made during such period in carrying out such plan, including administrative costs (subject to the provisions of section 8624(b)(9)(B) of this title), with respect to households described in section 8624(b)(2) of this title.
+(B) From the sums appropriated therefor after reserving any amount permitted to be reserved under section 8628a of this title, if for any perioda State has a plan which is described in section 8624(c)(1) of this title, the Secretary shall pay to such State an amount equal to 100 percent of the expenditures of such State made during such period in carrying out such plan, including administrative costs (subject to the provisions of section 8624(b)(9)(B) of this title), with respect to households described in section 8624(b)(2) of this title.
 
 (2) For purposes of paragraph (1), for fiscal year 1985 and thereafter, a State's allotment percentage is the percentage which expenditures for home energy by low-income households in that State bears to such expenditures in all States, except that States which thereby receive the greatest proportional increase in allotments by reason of the application of this paragraph from the amount they received pursuant to Public Law 98–139 shall have their allotments reduced to the extent necessary to ensure that—
 
@@ -52,7 +52,7 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 &emsp;(B) determines that the members of such tribe would be better served by means of grants made directly to provide benefits under this subchapter;
 
-> the Secretary shall reserve from amounts which would otherwise be payable to such State from amounts allotted to it under this subchapter for the fiscal year involved the amount determined under paragraph (2).
+> the Secretary shall reserve from amounts which would otherwise be payable to such State fromamounts allotted to it under this subchapter for the fiscal year involved the amount determined under paragraph (2).
 
 (2) The amount determined under this paragraph for a fiscal year is the amount which bears the same ratio to the amount which would (but for this subsection) be allotted to such State under this subchapter for such fiscal year (other than by reason of section 8626(b)(2) of this title) as the number of Indian households described in subparagraphs (A) and (B) of section 8624(b)(2) of this title and residing within the State on the reservation of the tribes or on trust lands adjacent to such reservation bears to the number of all households described in subparagraphs (A) and (B) of section 8624(b)(2) of this title in such State, or such greater amount as the Indian tribe and the State may agree upon. In cases where a tribe has no reservation, the Secretary, in consultation with the tribe and the State, shall define the number of Indian households for the determination under this paragraph.
 
@@ -62,7 +62,7 @@ Of the funds available to each State under subsection (a) of this section, a rea
 
 &emsp;(B) in any case where there is no tribal organization serving an individual for whom such a determination has been made, such other entity as the Secretary determines has the capacity to provide assistance pursuant to this subchapter.
 
-(4) In order for a tribal organization or other entity to be eligible for an amount under this subsection for a fiscal year, it shall submit to the Secretary a plan (in lieu of being under theState's plan) for such fiscal year which meets such criteria as the Secretary may by regulations prescribe.
+(4) In order for a tribal organization or other entity to be eligible for an amount under this subsection for a fiscal year, it shall submit to the Secretary a plan (in lieu of being under the State's plan) for such fiscal year which meets such criteria as the Secretary may by regulations prescribe.
 
 #### (e) Allotment of emergency funds
 
@@ -98,7 +98,7 @@ Pub. L. 105–285, §§304(b), 305(4), substituted “subsections (a) through (d
 
 Subsec. (g). Pub. L. 103–252, §304(c), added subsec. (g).
 
-1990—Subsec. (f). Pub. L. 101–501 designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “in accordance with paragraph (2) a percentage” for “up to 10 percent”, “or a combination” for “or any combination”, and “subparagraphs (A), (B), and (C)” for “paragraphs (1), (2), and (3)”, and added par. (2).
+1990—Subsec. (f). Pub. L. 101–501 designated existing provisions as par. (1), redesignated former pars. (1) to\(3) as subpars. (A) to (C), respectively, substituted “in accordance with paragraph (2) a percentage” for “up to 10 percent”, “or a combination” for “or any combination”, and “subparagraphs (A), (B), and (C)” for “paragraphs (1), (2), and (3)”, and added par. (2).
 
 1986—Subsec. (a)(1)(A). Pub. L. 99–425, §505(b)(1), inserted “after reserving any amount permitted to be reserved under section 8628a of this title and” after “remaining”.
 
@@ -112,7 +112,7 @@ Subsec. (d)(2). Pub. L. 99–425, §503, substituted “and residing within the 
 
 Subsec. (a)(4). Pub. L. 98–558, §604(b), added par. (4).
 
-Subsec. (c). Pub. L. 98–558, §603(a), inserted “until March 15 of each program year” after “reserved” and inserted “The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter, experience in assisting low-income individuals in the area tobe served, and the capacity to undertake a timely and effective energy crisis intervention program.”
+Subsec. (c). Pub. L. 98–558, §603(a), inserted “until March 15 of each program year” after “reserved” and inserted “The program for which funds are reserved by this subsection shall be administered by public or nonprofit entities which have experience in administering energy crisis programs under the Low-Income Energy Assistance Act of 1980, or under this subchapter, experience in assisting low-income individuals in the area to be served, and the capacity to undertake a timely and effective energy crisis intervention program.”
 
 Subsec. (d)(1). Pub. L. 98–558, §603(b), substituted “otherwise be payable” for “otherwise be paid” in provisions following subpar. (B).
 

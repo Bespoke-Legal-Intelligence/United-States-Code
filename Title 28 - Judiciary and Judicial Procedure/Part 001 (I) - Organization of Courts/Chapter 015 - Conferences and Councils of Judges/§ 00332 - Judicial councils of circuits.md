@@ -92,7 +92,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 
 Subsec. (h). Pub. L. 107–273, §11043(c)(2), struck out subsec. (h) as added by Pub. L. 106–553, which read as follows:
 
-“(h)(1) The United States Court of Appeals for the Federal Circuit may appoint a circuit executive, who shall serve at the pleasure of the court. In appointing a circuit executive, the court shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated by the court. The duties delegated to the circuit executive may include but need not be limited to the duties specified in subsection (e) of this section, insofar as they are applicable to the Court of Appeals for the Federal Circuit.
+“(h)(1) The United States Court of Appeals for the Federal Circuit may appoint a circuit executive, who shall serve at the pleasure of the court. In appointing a circuit executive, the court shall take into account experience in administrative and executive positions, familiarity with court procedures, and special training. The circuit executive shall exercise such administrative powers and perform such duties as may be delegated by the court. The duties delegated to the circuit executive may include but need not be limited to the duties specified in subsection (e) of this section, insofaras they are applicable to the Court of Appeals for the Federal Circuit.
 
 “(2) The circuit executive shall be paid the salary for circuit executives established under subsection (f) of this section.
 

@@ -46,7 +46,7 @@ In the case of any experiment or demonstration project conducted under subsectio
 
 #### Codification
 
-December 17, 1999, referred to in subsec. (d)(2), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–170, which enacted this section, to reflect the probable intent of Congress.
+December 17, 1999, referred to in subsec. (d)(2), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactmentof Pub. L. 106–170, which enacted this section, to reflect the probable intent of Congress.
 
 #### Demonstration Projects Providing for Reductions in Disability Insurance Benefits Based on Earnings
 
@@ -54,7 +54,7 @@ Pub. L. 106–170, title III, §302, Dec. 17, 1999, 113 Stat. 1902, provided tha
 
 “(a)
 
-Authority.—The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, aprogram for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[section 1320b–19(k)(3) of this title\]) under which benefits payable under section 223 of such Act \[section 423 of this title\], or under section 202 of such Act \[section 402 of this title\] based on the beneficiary's disability, are reduced by $1 for each $2 of the beneficiary's earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequately evaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
+Authority.—The Commissioner of Social Security shall conduct demonstration projects for the purpose of evaluating, through the collection of data, a program for title II disability beneficiaries (as defined in section 1148(k)(3) of the Social Security Act \[section 1320b–19(k)(3) of this title\]) under which benefits payable under section 223 of such Act \[section 423 of this title\], or under section 202 of such Act \[section 402 of this title\] based on the beneficiary's disability, are reduced by $1 for each $2 of the beneficiary's earnings that is above a level to be determined by the Commissioner. Such projects shall be conducted at a number of localities which the Commissioner shall determine is sufficient to adequately evaluate the appropriateness of national implementation of such a program. Such projects shall identify reductions in Federal expenditures that may result from the permanent implementation of such a program.
 
 “(b)
 
@@ -122,7 +122,7 @@ Study.—As soon as practicable after the date of the enactment of this Act \[De
 
 “(2)
 
-Report.—Not later than 5 years after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written report presenting the results of the Comptroller General's study conducted pursuant to this section, together with a recommendation as to whether the demonstration authority authorized under section 234 of the Social Security Act \[this section\] (as added by section 301 of this Act) should be made permanent.”
+Report.—Not later than 5 years after the date of the enactment of this Act \[Dec. 17, 1999\], the Comptroller General shall transmit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a written reportpresenting the results of the Comptroller General's study conducted pursuant to this section, together with a recommendation as to whether the demonstration authority authorized under section 234 of the Social Security Act \[this section\] (as added by section 301 of this Act) should be made permanent.”
 
 #### Section Referred to in Other Sections
 

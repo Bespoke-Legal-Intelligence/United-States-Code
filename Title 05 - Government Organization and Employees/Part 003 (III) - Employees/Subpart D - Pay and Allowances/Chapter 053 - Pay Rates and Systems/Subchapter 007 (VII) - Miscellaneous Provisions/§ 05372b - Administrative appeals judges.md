@@ -30,5 +30,5 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §645(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7323 of this title.
+This section is referred to in sections 5402, 7323 of this title.
 

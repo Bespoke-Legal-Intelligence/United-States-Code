@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report.—Not later than April 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
+Annual Report.—Not later than June 15 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department during the calendar year preceding the report under programs of the Department under this chapter and other programs of the Department for the provision of assistance to homeless veterans.
 
 (b)
 
@@ -26,7 +26,7 @@ General Contents of Report.—Each report under subsection (a) shall include the
 
 (c)
 
-Health Care Contents of Report.—Each report under subsection (a) shall include, withrespect to programs of the Department addressing health care needs of homeless veterans, the following:
+Health Care Contents of Report.—Each report under subsection (a) shall include, with respect to programs of the Department addressing health care needs of homeless veterans, the following:
 
 &emsp;(1) Information about expenditures, costs, and workload under the program of the Department known as the Health Care for Homeless Veterans program (HCHV).
 
@@ -44,7 +44,7 @@ Health Care Contents of Report.—Each report under subsection (a) shall include
 
 (d)
 
-Benefits Content of Report.—Each report under subsection (a) shall include, with respect to programs and activities of the Veterans Benefits Administration in processing of claims for benefits of homeless veterans during the preceding year, the following:
+Benefits Content of Report.—Each report under subsection (a) shall include, with respect to programs and activities of the VeteransBenefits Administration in processing of claims for benefits of homeless veterans during the preceding year, the following:
 
 &emsp;(1) Information on costs, expenditures, and workload of Veterans Benefits Administration claims evaluators in processing claims for benefits of homeless veterans.
 
@@ -54,7 +54,11 @@ Benefits Content of Report.—Each report under subsection (a) shall include, wi
 
 &emsp;(4) Other information that the Secretary considers relevant in assessing the programs and activities.
 
-(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914.)
+(Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 914; amended Pub. L. 108–170, title IV, §405(b), Dec. 6, 2003, 117 Stat. 2063.)
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–170 substituted “June 15 of each year” for “April 15 of each year”.
 
 #### Section Referred to in Other Sections
 

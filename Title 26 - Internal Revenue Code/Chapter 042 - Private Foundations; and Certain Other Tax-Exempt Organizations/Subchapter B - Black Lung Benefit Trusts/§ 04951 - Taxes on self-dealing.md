@@ -8,7 +8,7 @@
 
 #### (2) On trustee
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on theparticipation of any trustee of such a trust in an act of self-dealing between a disqualified person and the trust, knowing that it is such an act, a tax equal to 21/2 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any such trustee who participated in the act of self-dealing.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any trustee of such a trust in an act of self-dealing between a disqualified person and the trust, knowing that it is such an act, a tax equal to 21/2 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any such trustee who participated in the act of self-dealing.
 
 #### (b) Additional taxes
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that in the case of services described in subsection (d)(2)(C), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value ofthe other property received; except that in the case of services described in subsection (d)(2)(C), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
 &emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 

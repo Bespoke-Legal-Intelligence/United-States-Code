@@ -26,7 +26,7 @@ The research site shall be managed in accordance with the following objectives:
 
 &emsp;(1) The principal research facility shall be managed primarily for scientific research purposes. Dispersed recreation, grazing, and other uses which the Secretary determines to be compatible with scientific research may be permitted.
 
-&emsp;(2) The research site shall be managed to enhance scientific research objectives. Scientific research activities and associated research equipment and structures shall be permitted within the research site in accordance with the plan.
+&emsp;(2) The research site shall be managed to enhance scientific research objectives. Scientificresearch activities and associated research equipment and structures shall be permitted within the research site in accordance with the plan.
 
 &emsp;(3) Roads shall be limited to those necessary for scientific research activities and other reasonable activities as determined by the Secretary. Motor vehicle use shall be restricted to roads designated in the plan.
 

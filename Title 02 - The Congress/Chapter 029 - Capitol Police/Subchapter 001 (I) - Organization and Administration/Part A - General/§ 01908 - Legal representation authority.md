@@ -1,0 +1,42 @@
+### §1908. Legal representation authority
+
+#### (a) In general
+
+#### (1) Authorization of representation
+
+&emsp;Any counsel described under paragraph (2) may for the purposes of providing legal assistance and representation to the United States Capitol Police Board or the United States Capitol Police enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof, without compliance with any requirement for admission to practice before such court.
+
+#### (2) Counsel
+
+&emsp;Paragraph (1) refers to—
+
+&emsp;&emsp;(A) the General Counsel for the United States Capitol Police Board and the Chief of the Capitol Police;
+
+&emsp;&emsp;(B) the Employment Counsel for the United States Capitol Police Board and the United States Capitol Police;
+
+&emsp;&emsp;(C) any attorney employed in the Office of the General Counsel for the United States Capitol Police or the Office of Employment Counsel for the United States Capitol Police;
+
+&emsp;&emsp;(D) the counsel for, or any attorney employed by, any successor office of either office described under subparagraph (C); and
+
+&emsp;&emsp;(E) any attorney retained by contract with either office described under subparagraph (C).
+
+#### (b) Limitations
+
+#### (1) Direction for appearance
+
+&emsp;Entrance of appearance authorized under subsection (a) of this section shall be subject to the direction of the Capitol Police Board.
+
+#### (2) United States Supreme Court
+
+&emsp;The authority under subsection (a) of this section shall not apply with respect to the admission of any person to practice before the United States Supreme Court.
+
+#### (c) Effective date
+
+This section shall apply to fiscal year 2004, and each fiscal year thereafter.
+
+(Pub. L. 108–83, title I, §1002, Sept. 30, 2003, 117 Stat. 1020.)
+
+#### Codification
+
+Section is from the Legislative Branch Appropriations Act, 2004.
+

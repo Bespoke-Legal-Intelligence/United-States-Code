@@ -1,6 +1,6 @@
 ### §7602. Eligibility
 
-(a)(1) To be eligible to participate in the Educational Assistance Program under subchapter II, III, or VI of this chapter, an individual must be accepted for enrollment or be currently enrolled as a student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a field of education or training for which a scholarship may be awarded under subchapter II of this chapter, for which tuition reimbursement may be provided under subchapter III of this chapter, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be.
+(a)(1) To be eligible to participate in the Educational Assistance Program under subchapterII, III, or VI of this chapter, an individual must be accepted for enrollment or be currently enrolled as a student at a qualifying educational institution in a course of education or training that is approved by the Secretary and that leads toward completion of a degree in a field of education or training for which a scholarship may be awarded under subchapter II of this chapter, for which tuition reimbursement may be provided under subchapter III of this chapter, or for which a scholarship may be awarded under subchapter VI of this chapter, as the case may be.
 
 (2) A qualifying educational institution for purposes of this section is an educational institution that is in a State and that (as determined by the Secretary) is an accredited institution.
 

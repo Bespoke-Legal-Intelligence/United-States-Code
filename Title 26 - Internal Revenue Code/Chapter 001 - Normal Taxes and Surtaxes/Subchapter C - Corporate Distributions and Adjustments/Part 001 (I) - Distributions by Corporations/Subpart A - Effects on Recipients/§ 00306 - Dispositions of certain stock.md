@@ -24,6 +24,10 @@ If a shareholder sells or otherwise disposes of section 306 stock (as defined in
 
 &emsp;&emsp;(C) No loss shall be recognized.
 
+&emsp;&emsp;(D)
+
+Treatment as dividend.—For purposes of section 1(h)(11) and such other provisions as the Secretary may specify, any amount treated as ordinary income under this paragraph shall be treated as a dividend received from the corporation.
+
 #### (2) Redemption
 
 &emsp;If the disposition is a redemption, the amount realized shall be treated as a distribution of property to which section 301 applies.
@@ -136,9 +140,15 @@ If a substantial change is made in the terms and conditions of any stock, then, 
 
 &emsp;(3) subsection (c)(2) shall not apply unless the stock meets the requirements of such subsection both at the time of such distribution and at the time of such change.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, §702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (<i>l</i>)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, §702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (<i>l</i>)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, §302(e)(3), May 28, 2003, 117 Stat. 763.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (a)(1)(D). Pub. L. 108–27, §§302(e)(3), 303, temporarily added subpar. (D). See Effective and Termination Dates of 2003 Amendment note below.
 
 1990—Subsec. (h). Pub. L. 101–508 struck out subsec. (h) which related to stock received in distributions and reorganizations to which 1939 Code applied.
 
@@ -160,13 +170,19 @@ Subsec. (c)(4). Pub. L. 97–248, §227(a), added par. (4).
 
 1978—Subsec. (a)(3). Pub. L. 95–600, §702(a)(1), added par. (3) which related to ordinary income from the sale or redemption of section 306 stock which was carryover basis property adjusted for 1976 value. See Repeals note below.
 
-Subsec. (b)(5). Pub. L. 95–600, §702(a)(2), added par. (5) which provided that subsec. (a) of this section shall notapply to the extent that section 303 applies to a distribution in redemption of section 306 stock. See Repeals note below.
+Subsec. (b)(5). Pub. L. 95–600, §702(a)(2), added par. (5) which provided that subsec. (a) of this section shall not apply to the extent that section 303 applies to a distribution in redemption of section 306 stock. See Repeals note below.
 
 1976—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
 
 Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -34,7 +34,7 @@ Changes in phraseology were made.
 
 Subsec. (a). Pub. L. 107–56, §374(e)(1), inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any obligation or other security of the United States; or”.
 
-Subsec. (b). Pub. L. 107–56, §374(e)(2), inserted first sentence and struck out former first sentence which read as follows: “For purposes of this section, the terms ‘plate’, ‘stone’, ‘thing’, or ‘other thing’ includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury.”
+Subsec. (b). Pub. L. 107–56, §374(e)(2), inserted first sentence and struck out former first sentence which read as follows: “For purposes of this section, theterms ‘plate’, ‘stone’, ‘thing’, or ‘other thing’ includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury.”
 
 1996—Subsec. (a). Pub. L. 104–208, §§101(f) \[title VI, §648(a)\] and 2603(a), amended subsec. (a) identically, substituting “class B felony” for “class C felony” in last par.
 

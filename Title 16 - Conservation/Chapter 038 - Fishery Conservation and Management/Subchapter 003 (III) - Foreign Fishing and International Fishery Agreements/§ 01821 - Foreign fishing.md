@@ -30,11 +30,11 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;&emsp;(i) to board, and search or inspect, any such vessel at any time,
 
-&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this titlewhenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or any person has committed an act prohibited by section 1857 of this title, and
+&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this title whenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or any person has committed an act prohibited by section 1857 of this title, and
 
 &emsp;&emsp;&emsp;(iii) to examine and make notations on the permit issued pursuant to section 1824 of this title for such vessel;
 
-&emsp;&emsp;(B) the permit issued for any such vessel pursuant to section 1824 of this title be prominently displayed in the wheelhouse of such vessel;
+&emsp;&emsp;(B) the permit issued for any such vessel pursuant to section 1824 of this title beprominently displayed in the wheelhouse of such vessel;
 
 &emsp;&emsp;(C) transponders, or such other appropriate position-fixing and identification equipment as the Secretary of the department in which the Coast Guard is operating determines to be appropriate, be installed and maintained in working order on each such vessel;
 
@@ -254,7 +254,7 @@ Subsec. (i)(2)(B). Pub. L. 99–659, §103(a)(3), amended subpar. (B) generally.
 
 &emsp;“(i) the time during which the vessel engages in such fishing will be of such short duration that the placing of a United States observer aboard the vessel would be impractical, or
 
-&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out ofobserver functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
+&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out of observer functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
 
 Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
@@ -312,7 +312,7 @@ Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Foreign Fishing for Atlantic Herring and Mackerel
 

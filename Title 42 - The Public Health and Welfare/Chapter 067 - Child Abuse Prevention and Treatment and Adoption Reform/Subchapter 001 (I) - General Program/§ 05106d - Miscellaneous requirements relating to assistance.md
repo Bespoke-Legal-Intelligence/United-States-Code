@@ -22,13 +22,23 @@ The Secretary shall establish criteria designed to achieve equitable distributio
 
 No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III of this chapter may be used for any purpose other than that for which such funds were authorized to be appropriated.
 
-(Pub. L. 93–247, title I, §108, formerly §11, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 115; renumbered title I, §110, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; renumbered §108 and amended Pub. L. 104–235, title I, §§109, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079.)
+#### (d) Sense of Congress
+
+It is the sense of Congress that the Secretary should encourage all States and public and private agencies or organizations that receive assistance under this subchapter to ensure that children and families with limited English proficiency who participate in programs under this subchapter are provided materials and services under such programs in an appropriate language other than English.
+
+#### (e) Annual report
+
+A State that receives funds under section 5106a(a) of this title shall annually prepare and submit to the Secretary a report describing the manner in which funds provided under this subchapter and subchapter III of this chapter, alone or in combination with other Federal funds, were used to address the purposes and achieve the objectives of section 5106a of this title.
+
+(Pub. L. 93–247, title I, §108, formerly §11, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 115; renumbered title I, §110, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; renumbered §108 and amended Pub. L. 104–235, title I, §§109, 113(a)(1)(B), Oct. 3, 1996, 110 Stat. 3078, 3079; Pub. L. 108–36, title I, §116, June 25, 2003, 117 Stat. 812.)
 
 #### Prior Provisions
 
 A prior section 108 of Pub. L. 93–247 was classified to section 5106b of this title prior to repeal by Pub. L. 104–235.
 
 #### Amendments
+
+2003—Subsecs. (d), (e). Pub. L. 108–36 added subsecs. (d) and (e).
 
 1996—Subsecs. (c), (d). Pub. L. 104–235 redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary, in consultation with the task force and the board, shall ensure that a majority share of assistance under this subchapter and subchapters III and V of this chapter is available for discretionary research and demonstration grants.”
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title29",
- "package": "USCODE-2002-title29",
+ "package": "USCODE-2003-title29",
  "pieces": [
   {
    "id": "29_",
@@ -4335,7 +4335,7 @@
      40,
      [
       [
-       186,
+       228,
        "[Page 183]"
       ]
      ]
@@ -5178,10 +5178,14 @@
      ]
     ],
     [
-     "L",
-     170,
-     "[Page 237]",
-     true
+     "I",
+     168,
+     [
+      [
+       226,
+       "[Page 237]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 002 (II) - Research and Training/§ 00762 - National Institute on Disability and Rehabilitation Research.md",
@@ -5194,14 +5198,10 @@
    "id": "29_762a",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       111,
-       "[Page 238]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 238]",
+     true
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 002 (II) - Research and Training/§ 00762a - Research and demonstration projects.md",
@@ -5215,7 +5215,7 @@
    "marks": [
     [
      "L",
-     40,
+     38,
      "[Page 239]",
      true
     ]
@@ -5234,46 +5234,46 @@
      26,
      [
       [
-       426,
+       142,
        "[Page 240]"
       ]
      ]
     ],
     [
      "I",
-     94,
+     92,
      [
       [
-       234,
+       93,
        "[Page 241]"
       ]
      ]
     ],
     [
      "I",
-     152,
+     150,
      [
       [
-       181,
+       95,
        "[Page 242]"
       ]
      ]
     ],
     [
-     "L",
-     196,
-     "[Page 243]",
-     true
-    ],
-    [
      "I",
-     262,
+     192,
      [
       [
-       96,
-       "[Page 244]"
+       186,
+       "[Page 243]"
       ]
      ]
+    ],
+    [
+     "L",
+     258,
+     "[Page 244]",
+     true
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 002 (II) - Research and Training/§ 00764 - Research and other covered activities.md",
@@ -5287,7 +5287,7 @@
    "marks": [
     [
      "L",
-     56,
+     50,
      "[Page 245]",
      true
     ]
@@ -5311,14 +5311,10 @@
    "id": "29_771",
    "marks": [
     [
-     "I",
+     "L",
      30,
-     [
-      [
-       708,
-       "[Page 246]"
-      ]
-     ]
+     "[Page 246]",
+     true
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 003 (III) - Professional Development and Special Projects and Demonstrations/§ 00771 - Declaration of purpose and competitive basis of grants and contracts.md",
@@ -5331,26 +5327,34 @@
    "id": "29_772",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 247]",
-     true
+     "I",
+     54,
+     [
+      [
+       175,
+       "[Page 247]"
+      ]
+     ]
     ],
     [
      "I",
-     130,
+     126,
      [
       [
-       88,
+       270,
        "[Page 248]"
       ]
      ]
     ],
     [
-     "L",
-     200,
-     "[Page 249]",
-     true
+     "I",
+     194,
+     [
+      [
+       101,
+       "[Page 249]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 003 (III) - Professional Development and Special Projects and Demonstrations/§ 00772 - Training.md",
@@ -5363,27 +5367,23 @@
    "id": "29_773",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       98,
-       "[Page 250]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 250]",
+     true
     ],
     [
      "L",
-     146,
+     138,
      "[Page 251]",
      true
     ],
     [
      "I",
-     218,
+     212,
      [
       [
-       138,
+       91,
        "[Page 252]"
       ]
      ]
@@ -5400,7 +5400,7 @@
    "marks": [
     [
      "L",
-     32,
+     28,
      "[Page 253]",
      true
     ]
@@ -5415,10 +5415,14 @@
    "id": "29_775",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 254]",
-     true
+     "I",
+     40,
+     [
+      [
+       143,
+       "[Page 254]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 003 (III) - Professional Development and Special Projects and Demonstrations/§ 00775 - Recreational programs.md",
@@ -5431,10 +5435,14 @@
    "id": "29_776",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 255]",
-     true
+     "I",
+     24,
+     [
+      [
+       354,
+       "[Page 255]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 003 (III) - Professional Development and Special Projects and Demonstrations/§ 00776 - Measuring of project outcomes and performance.md",
@@ -5456,10 +5464,14 @@
    "id": "29_780",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 256]",
-     true
+     "I",
+     42,
+     [
+      [
+       115,
+       "[Page 256]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00780 - Establishment of National Council on Disability.md",
@@ -5481,10 +5493,14 @@
    "id": "29_781",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 257]",
-     true
+     "I",
+     30,
+     [
+      [
+       327,
+       "[Page 257]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00781 - Duties of National Council.md",
@@ -5495,30 +5511,30 @@
   },
   {
    "id": "29_782",
-   "marks": [],
-   "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00782 - Compensation of National Council members.md",
-   "printed_pages": [
-    257,
-    257
-   ]
-  },
-  {
-   "id": "29_783",
    "marks": [
     [
      "I",
-     4,
+     18,
      [
       [
-       89,
+       233,
        "[Page 258]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00783 - Staff of National Council.md",
+   "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00782 - Compensation of National Council members.md",
    "printed_pages": [
     257,
+    258
+   ]
+  },
+  {
+   "id": "29_783",
+   "marks": [],
+   "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00783 - Staff of National Council.md",
+   "printed_pages": [
+    258,
     258
    ]
   },
@@ -5526,10 +5542,14 @@
    "id": "29_784",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 259]",
-     true
+     "I",
+     20,
+     [
+      [
+       231,
+       "[Page 259]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 004 (IV) - National Council on Disability/§ 00784 - Administrative powers of National Council.md",
@@ -5573,36 +5593,40 @@
      8,
      [
       [
-       632,
+       316,
        "[Page 260]"
       ]
      ]
     ],
     [
      "I",
-     62,
+     60,
      [
       [
-       154,
+       107,
        "[Page 261]"
       ]
      ]
     ],
     [
      "I",
-     134,
+     130,
      [
       [
-       105,
+       116,
        "[Page 262]"
       ]
      ]
     ],
     [
-     "L",
-     214,
-     "[Page 263]",
-     true
+     "I",
+     212,
+     [
+      [
+       175,
+       "[Page 263]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/Subchapter 005 (V) - Rights and Advocacy/§ 00791 - Employment of individuals with disabilities.md",
@@ -5616,49 +5640,41 @@
    "marks": [
     [
      "L",
-     42,
+     40,
      "[Page 264]",
      true
     ],
     [
      "L",
-     96,
+     94,
      "[Page 265]",
      true
     ],
     [
-     "I",
+     "L",
      130,
-     [
-      [
-       138,
-       "[Page 266]"
-      ]
-     ]
+     "[Page 266]",
+     true
     ],
     [
      "I",
      172,
      [
       [
-       221,
+       115,
        "[Page 267]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      236,
-     [
-      [
-       107,
-       "[Page 268]"
-      ]
-     ]
+     "[Page 268]",
+     true
     ],
     [
      "L",
-     302,
+     300,
      "[Page 269]",
      true
     ]
@@ -5677,7 +5693,7 @@
      14,
      [
       [
-       282,
+       135,
        "[Page 270]"
       ]
      ]
@@ -5694,7 +5710,7 @@
    "marks": [
     [
      "L",
-     22,
+     20,
      "[Page 271]",
      true
     ],
@@ -5703,7 +5719,7 @@
      98,
      [
       [
-       235,
+       114,
        "[Page 272]"
       ]
      ]
@@ -5729,7 +5745,7 @@
    "marks": [
     [
      "L",
-     38,
+     36,
      "[Page 273]",
      true
     ]
@@ -5757,7 +5773,7 @@
      8,
      [
       [
-       135,
+       93,
        "[Page 274]"
       ]
      ]
@@ -7189,7 +7205,7 @@
      30,
      [
       [
-       232,
+       183,
        "[Page 337]"
       ]
      ]
@@ -7250,7 +7266,7 @@
     ],
     [
      "L",
-     242,
+     248,
      "[Page 341]",
      true
     ]
@@ -7269,7 +7285,7 @@
      4,
      [
       [
-       568,
+       993,
        "[Page 342]"
       ]
      ]
@@ -7289,33 +7305,33 @@
      22,
      [
       [
-       92,
+       418,
        "[Page 343]"
       ]
      ]
     ],
     [
      "I",
-     56,
+     58,
      [
       [
-       986,
+       93,
        "[Page 344]"
       ]
      ]
     ],
     [
      "L",
-     86,
+     94,
      "[Page 345]",
      true
     ],
     [
      "I",
-     154,
+     156,
      [
       [
-       91,
+       95,
        "[Page 346]"
       ]
      ]
@@ -7332,20 +7348,20 @@
    "marks": [
     [
      "I",
-     8,
+     10,
      [
       [
-       235,
+       137,
        "[Page 347]"
       ]
      ]
     ],
     [
      "I",
-     46,
+     48,
      [
       [
-       387,
+       198,
        "[Page 348]"
       ]
      ]
@@ -7361,14 +7377,10 @@
    "id": "29_1025",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       97,
-       "[Page 349]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 349]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 001 - Reporting and Disclosure/§ 01025 - Reporting of participant's benefit rights.md",
@@ -8798,10 +8810,10 @@
    "marks": [
     [
      "I",
-     42,
+     38,
      [
       [
-       107,
+       161,
        "[Page 444]"
       ]
      ]
@@ -8817,20 +8829,20 @@
    "id": "29_1167",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       190,
-       "[Page 445]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 445]",
+     true
     ],
     [
-     "L",
-     112,
-     "[Page 446]",
-     true
+     "I",
+     106,
+     [
+      [
+       106,
+       "[Page 446]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 006 - Continuation Coverage and Additional Standards for Group Health Plans/§ 01167 - Definitions and special rules.md",
@@ -8852,43 +8864,43 @@
    "id": "29_1169",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 447]",
-     true
+     "I",
+     60,
+     [
+      [
+       101,
+       "[Page 447]"
+      ]
+     ]
     ],
     [
      "I",
-     120,
+     116,
      [
       [
-       184,
+       323,
        "[Page 448]"
       ]
      ]
     ],
     [
-     "I",
-     180,
-     [
-      [
-       220,
-       "[Page 449]"
-      ]
-     ]
+     "L",
+     178,
+     "[Page 449]",
+     true
     ],
     [
      "L",
-     286,
+     282,
      "[Page 450]",
      true
     ],
     [
      "I",
-     378,
+     376,
      [
       [
-       123,
+       163,
        "[Page 451]"
       ]
      ]
@@ -8922,40 +8934,36 @@
    "id": "29_1181",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 452]",
-     true
-    ],
-    [
      "I",
-     128,
+     40,
      [
       [
-       99,
-       "[Page 453]"
+       92,
+       "[Page 452]"
       ]
      ]
     ],
     [
+     "L",
+     120,
+     "[Page 453]",
+     true
+    ],
+    [
      "I",
-     194,
+     190,
      [
       [
-       94,
+       145,
        "[Page 454]"
       ]
      ]
     ],
     [
-     "I",
-     294,
-     [
-      [
-       137,
-       "[Page 455]"
-      ]
-     ]
+     "L",
+     288,
+     "[Page 455]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart A - Requirements Relating to Portability, Access, and Renewability/§ 01181 - Increased portability through limitation on preexisting condition exclusions.md",
@@ -8969,7 +8977,7 @@
    "marks": [
     [
      "L",
-     56,
+     52,
      "[Page 456]",
      true
     ]
@@ -9006,7 +9014,7 @@
      48,
      [
       [
-       296,
+       204,
        "[Page 457]"
       ]
      ]
@@ -9023,23 +9031,19 @@
    "marks": [
     [
      "I",
-     42,
+     36,
      [
       [
-       98,
+       218,
        "[Page 458]"
       ]
      ]
     ],
     [
-     "I",
-     122,
-     [
-      [
-       105,
-       "[Page 459]"
-      ]
-     ]
+     "L",
+     114,
+     "[Page 459]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart B - Other Requirements/§ 01185a - Parity in application of certain limits to mental health benefits.md",
@@ -9070,14 +9074,10 @@
    "id": "29_1191",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       97,
-       "[Page 460]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 460]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart C - General Provisions/§ 01191 - Preemption; State flexibility; construction.md",
@@ -9090,14 +9090,10 @@
    "id": "29_1191a",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       141,
-       "[Page 461]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 461]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart C - General Provisions/§ 01191a - Special rules relating to group health plans.md",
@@ -9110,14 +9106,10 @@
    "id": "29_1191b",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       89,
-       "[Page 462]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 462]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart C - General Provisions/§ 01191b - Definitions.md",
@@ -12215,7 +12207,7 @@
      36,
      [
       [
-       226,
+       99,
        "[Page 590]"
       ]
      ]
@@ -13106,10 +13098,14 @@
    "id": "29_2801",
    "marks": [
     [
-     "L",
-     68,
-     "[Page 616]",
-     true
+     "I",
+     66,
+     [
+      [
+       273,
+       "[Page 616]"
+      ]
+     ]
     ],
     [
      "I",
@@ -13572,14 +13568,10 @@
    "id": "29_2863",
    "marks": [
     [
-     "I",
-     82,
-     [
-      [
-       90,
-       "[Page 648]"
-      ]
-     ]
+     "L",
+     76,
+     "[Page 648]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 002 (II) - Statewide and Local Workforce Investment Systems/Part E - Adult and Dislocated Worker Employment and Training Activities/§ 02863 - Within State allocations.md",
@@ -13593,52 +13585,52 @@
    "marks": [
     [
      "I",
-     26,
+     24,
      [
       [
-       270,
+       104,
        "[Page 649]"
       ]
      ]
     ],
     [
      "L",
-     92,
+     86,
      "[Page 650]",
      true
     ],
     [
-     "I",
-     170,
-     [
-      [
-       93,
-       "[Page 651]"
-      ]
-     ]
-    ],
-    [
      "L",
-     240,
-     "[Page 652]",
+     166,
+     "[Page 651]",
      true
     ],
     [
      "I",
-     318,
+     234,
      [
       [
-       223,
+       226,
+       "[Page 652]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     316,
+     [
+      [
+       100,
        "[Page 653]"
       ]
      ]
     ],
     [
      "I",
-     388,
+     386,
      [
       [
-       274,
+       166,
        "[Page 654]"
       ]
      ]
@@ -13663,37 +13655,37 @@
    "id": "29_2871",
    "marks": [
     [
-     "L",
-     62,
-     "[Page 655]",
-     true
+     "I",
+     58,
+     [
+      [
+       99,
+       "[Page 655]"
+      ]
+     ]
     ],
     [
      "I",
      118,
      [
       [
-       640,
+       99,
        "[Page 656]"
       ]
      ]
     ],
     [
-     "I",
-     184,
-     [
-      [
-       100,
-       "[Page 657]"
-      ]
-     ]
+     "L",
+     174,
+     "[Page 657]",
+     true
     ],
     [
      "I",
-     252,
+     246,
      [
       [
-       128,
+       393,
        "[Page 658]"
       ]
      ]
@@ -13734,26 +13726,30 @@
   },
   {
    "id": "29_2882",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       91,
+       "[Page 659]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02882 - Definitions.md",
    "printed_pages": [
     658,
-    658
+    659
    ]
   },
   {
    "id": "29_2883",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 659]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02883 - Establishment.md",
    "printed_pages": [
-    658,
+    659,
     659
    ]
   },
@@ -13771,10 +13767,10 @@
    "marks": [
     [
      "I",
-     58,
+     50,
      [
       [
-       94,
+       406,
        "[Page 660]"
       ]
      ]
@@ -13800,10 +13796,10 @@
    "marks": [
     [
      "I",
-     18,
+     8,
      [
       [
-       99,
+       95,
        "[Page 661]"
       ]
      ]
@@ -13819,14 +13815,10 @@
    "id": "29_2888",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       274,
-       "[Page 662]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 662]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02888 - Program activities.md",
@@ -13848,14 +13840,10 @@
    "id": "29_2890",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       110,
-       "[Page 663]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 663]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02890 - Support.md",
@@ -13887,10 +13875,10 @@
    "marks": [
     [
      "I",
-     28,
+     18,
      [
       [
-       111,
+       272,
        "[Page 664]"
       ]
      ]
@@ -13933,10 +13921,14 @@
    "id": "29_2897",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 665]",
-     true
+     "I",
+     10,
+     [
+      [
+       102,
+       "[Page 665]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02897 - Application of provisions of Federal law.md",
@@ -13949,14 +13941,10 @@
    "id": "29_2898",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       564,
-       "[Page 666]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 666]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02898 - Special provisions.md",
@@ -13970,10 +13958,10 @@
    "marks": [
     [
      "I",
-     76,
+     72,
      [
       [
-       443,
+       313,
        "[Page 667]"
       ]
      ]
@@ -13989,14 +13977,10 @@
    "id": "29_2900",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       182,
-       "[Page 668]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 668]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02900 - General provisions.md",
@@ -14027,51 +14011,47 @@
    "id": "29_2911",
    "marks": [
     [
+     "L",
+     64,
+     "[Page 669]",
+     true
+    ],
+    [
      "I",
-     70,
+     140,
      [
       [
-       92,
-       "[Page 669]"
+       218,
+       "[Page 670]"
       ]
      ]
     ],
     [
      "L",
-     154,
-     "[Page 670]",
+     216,
+     "[Page 671]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02911 - Native American programs.md",
    "printed_pages": [
     668,
-    670
+    671
    ]
   },
   {
    "id": "29_2912",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       325,
-       "[Page 671]"
-      ]
-     ]
-    ],
-    [
      "L",
-     80,
+     68,
      "[Page 672]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02912 - Migrant and seasonal farmworker programs.md",
    "printed_pages": [
-    670,
+    671,
     672
    ]
   },
@@ -14080,47 +14060,43 @@
    "marks": [
     [
      "L",
-     52,
+     38,
      "[Page 673]",
      true
     ],
     [
-     "I",
-     146,
-     [
-      [
-       108,
-       "[Page 674]"
-      ]
-     ]
+     "L",
+     132,
+     "[Page 674]",
+     true
     ],
     [
      "L",
-     222,
+     212,
      "[Page 675]",
      true
     ],
     [
      "L",
-     282,
+     278,
      "[Page 676]",
      true
     ],
     [
-     "L",
-     334,
-     "[Page 677]",
-     true
-    ],
-    [
      "I",
-     384,
+     328,
      [
       [
-       475,
-       "[Page 678]"
+       162,
+       "[Page 677]"
       ]
      ]
+    ],
+    [
+     "L",
+     380,
+     "[Page 678]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02913 - Veterans’ workforce investment programs.md",
@@ -14133,14 +14109,10 @@
    "id": "29_2914",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       139,
-       "[Page 679]"
-      ]
-     ]
+     "L",
+     50,
+     "[Page 679]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02914 - Youth opportunity grants.md",
@@ -14154,10 +14126,10 @@
    "marks": [
     [
      "I",
-     24,
+     20,
      [
       [
-       275,
+       179,
        "[Page 680]"
       ]
      ]
@@ -14174,19 +14146,15 @@
    "marks": [
     [
      "L",
-     60,
+     42,
      "[Page 681]",
      true
     ],
     [
-     "I",
-     142,
-     [
-      [
-       139,
-       "[Page 682]"
-      ]
-     ]
+     "L",
+     132,
+     "[Page 682]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02916 - Demonstration, pilot, multiservice, research, and multistate projects.md",
@@ -14199,14 +14167,18 @@
    "id": "29_2916a",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 683]",
-     true
+     "I",
+     26,
+     [
+      [
+       529,
+       "[Page 683]"
+      ]
+     ]
     ],
     [
      "L",
-     112,
+     98,
      "[Page 684]",
      true
     ]
@@ -14230,39 +14202,39 @@
    "id": "29_2918",
    "marks": [
     [
+     "L",
+     14,
+     "[Page 685]",
+     true
+    ],
+    [
+     "L",
+     90,
+     "[Page 686]",
+     true
+    ],
+    [
      "I",
-     28,
+     190,
      [
       [
-       102,
-       "[Page 685]"
+       100,
+       "[Page 687]"
       ]
      ]
     ],
     [
      "L",
-     104,
-     "[Page 686]",
-     true
-    ],
-    [
-     "L",
-     200,
-     "[Page 687]",
-     true
-    ],
-    [
-     "L",
-     288,
+     274,
      "[Page 688]",
      true
     ],
     [
      "I",
-     362,
+     350,
      [
       [
-       180,
+       139,
        "[Page 689]"
       ]
      ]
@@ -14279,7 +14251,7 @@
    "marks": [
     [
      "L",
-     42,
+     24,
      "[Page 690]",
      true
     ]
@@ -14294,10 +14266,14 @@
    "id": "29_2920",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 691]",
-     true
+     "I",
+     18,
+     [
+      [
+       417,
+       "[Page 691]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02920 - Educational assistance and training.md",
@@ -14320,23 +14296,19 @@
    "marks": [
     [
      "I",
-     76,
+     58,
      [
       [
-       101,
+       95,
        "[Page 692]"
       ]
      ]
     ],
     [
-     "I",
-     154,
-     [
-      [
-       111,
-       "[Page 693]"
-      ]
-     ]
+     "L",
+     138,
+     "[Page 693]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02931 - Requirements and restrictions.md",
@@ -14356,11 +14328,22 @@
   },
   {
    "id": "29_2933",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       139,
+       "[Page 694]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02933 - Monitoring.md",
    "printed_pages": [
     693,
-    693
+    694
    ]
   },
   {
@@ -14368,30 +14351,28 @@
    "marks": [
     [
      "I",
-     12,
+     88,
      [
       [
-       99,
-       "[Page 694]"
+       91,
+       "[Page 695]"
       ]
      ]
     ],
     [
-     "L",
-     112,
-     "[Page 695]",
-     true
-    ],
-    [
-     "L",
-     168,
-     "[Page 696]",
-     true
+     "I",
+     152,
+     [
+      [
+       221,
+       "[Page 696]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02934 - Fiscal controls; sanctions.md",
    "printed_pages": [
-    693,
+    694,
     696
    ]
   },
@@ -14400,10 +14381,10 @@
    "marks": [
     [
      "I",
-     82,
+     66,
      [
       [
-       96,
+       144,
        "[Page 697]"
       ]
      ]
@@ -14417,30 +14398,26 @@
   },
   {
    "id": "29_2936",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 698]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02936 - Administrative adjudication.md",
    "printed_pages": [
     697,
-    697
+    698
    ]
   },
   {
    "id": "29_2937",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       472,
-       "[Page 698]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02937 - Judicial review.md",
    "printed_pages": [
-    697,
+    698,
     698
    ]
   },
@@ -14449,10 +14426,10 @@
    "marks": [
     [
      "I",
-     34,
+     26,
      [
       [
-       529,
+       92,
        "[Page 699]"
       ]
      ]
@@ -14468,16 +14445,24 @@
    "id": "29_2939",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 700]",
-     true
+     "I",
+     16,
+     [
+      [
+       85,
+       "[Page 700]"
+      ]
+     ]
     ],
     [
-     "L",
-     86,
-     "[Page 701]",
-     true
+     "I",
+     74,
+     [
+      [
+       296,
+       "[Page 701]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02939 - Administrative provisions.md",
@@ -14490,10 +14475,14 @@
    "id": "29_2940",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 702]",
-     true
+     "I",
+     26,
+     [
+      [
+       286,
+       "[Page 702]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02940 - References.md",
@@ -14516,7 +14505,7 @@
    "marks": [
     [
      "L",
-     42,
+     28,
      "[Page 703]",
      true
     ]
@@ -14541,10 +14530,10 @@
    "marks": [
     [
      "I",
-     12,
+     6,
      [
       [
-       461,
+       188,
        "[Page 704]"
       ]
      ]
@@ -14561,10 +14550,10 @@
    "marks": [
     [
      "I",
-     36,
+     24,
      [
       [
-       94,
+       98,
        "[Page 705]"
       ]
      ]
@@ -14578,46 +14567,47 @@
   },
   {
    "id": "29_-ch31",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     80,
+     [
+      [
+       29,
+       "[Page 706]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/README.md",
    "printed_pages": [
     705,
-    705
+    706
    ]
   },
   {
    "id": "29_3001",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 706]",
-     true
-    ],
-    [
      "I",
-     54,
+     48,
      [
       [
-       229,
+       268,
        "[Page 707]"
       ]
      ]
     ],
     [
-     "I",
-     120,
-     [
-      [
-       113,
-       "[Page 708]"
-      ]
-     ]
+     "L",
+     102,
+     "[Page 708]",
+     true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03001 - Findings and purposes.md",
    "printed_pages": [
-    705,
+    706,
     708
    ]
   },
@@ -14626,19 +14616,23 @@
    "marks": [
     [
      "I",
-     70,
+     54,
      [
       [
-       140,
+       98,
        "[Page 709]"
       ]
      ]
     ],
     [
-     "L",
-     162,
-     "[Page 710]",
-     true
+     "I",
+     148,
+     [
+      [
+       89,
+       "[Page 710]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03002 - Definitions and rule.md",
@@ -14660,54 +14654,38 @@
    "id": "29_3011",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       144,
-       "[Page 711]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 711]",
+     true
     ],
     [
      "I",
-     114,
+     104,
      [
       [
-       101,
+       90,
        "[Page 712]"
       ]
      ]
     ],
     [
-     "I",
-     168,
-     [
-      [
-       303,
-       "[Page 713]"
-      ]
-     ]
+     "L",
+     158,
+     "[Page 713]",
+     true
     ],
     [
-     "I",
-     244,
-     [
-      [
-       324,
-       "[Page 714]"
-      ]
-     ]
+     "L",
+     220,
+     "[Page 714]",
+     true
     ],
     [
-     "I",
-     334,
-     [
-      [
-       96,
-       "[Page 715]"
-      ]
-     ]
+     "L",
+     316,
+     "[Page 715]",
+     true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03011 - Continuity grants for States that received funding for a limited period for technology-related assistance.md",
@@ -14720,49 +14698,37 @@
    "id": "29_3012",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       145,
-       "[Page 716]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 716]",
+     true
+    ],
+    [
+     "L",
+     64,
+     "[Page 717]",
+     true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03012 - State grants for protection and advocacy related to assistive technology.md",
    "printed_pages": [
     715,
-    716
+    717
    ]
   },
   {
    "id": "29_3013",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       179,
-       "[Page 717]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     86,
-     [
-      [
-       140,
-       "[Page 718]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 718]",
+     true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03013 - Administrative provisions.md",
    "printed_pages": [
-    716,
+    717,
     718
    ]
   },
@@ -14770,10 +14736,14 @@
    "id": "29_3014",
    "marks": [
     [
-     "L",
-     74,
-     "[Page 719]",
-     true
+     "I",
+     54,
+     [
+      [
+       101,
+       "[Page 719]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03014 - Technical assistance program.md",
@@ -14786,10 +14756,14 @@
    "id": "29_3015",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 720]",
-     true
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 720]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 001 (I) - State Grant Programs/§ 03015 - Authorization of appropriations.md",
@@ -14820,10 +14794,14 @@
    "id": "29_3032",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 721]",
-     true
+     "I",
+     18,
+     [
+      [
+       92,
+       "[Page 721]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 002 (II) - National Activities/§ 03032 - Technology transfer and universal design.md",
@@ -14863,10 +14841,14 @@
    "id": "29_3036",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 722]",
-     true
+     "I",
+     24,
+     [
+      [
+       91,
+       "[Page 722]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 002 (II) - National Activities/§ 03036 - President's Committee on Employment of People With Disabilities.md",
@@ -14906,10 +14888,14 @@
    "id": "29_3052",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 723]",
-     true
+     "I",
+     26,
+     [
+      [
+       90,
+       "[Page 723]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 003 (III) - Alternative Financing Mechanisms/§ 03052 - Amount of grants.md",
@@ -14940,10 +14926,14 @@
    "id": "29_3055",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 724]",
-     true
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 724]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/Subchapter 003 (III) - Alternative Financing Mechanisms/§ 03055 - Grant administration requirements.md",
@@ -14980,6 +14970,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2002-title29 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2003-title29 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 29 - Labor"
 }

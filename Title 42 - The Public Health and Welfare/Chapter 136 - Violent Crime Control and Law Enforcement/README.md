@@ -451,6 +451,21 @@ I74subpart 1—confidentiality for abused persons
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 4—transitional housing assistance grants for child victims of domestic violence, stalking, or sexual assault
+
+|  |  |
+| :--- | ---: |
+| [13975\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20004%20-%20Transitional%20Housing%20Assistance%20Grants%20for%20Child%20Victims%20of%20Domestic%20Violence%2C%20Stalking%2C%20or%20Sexual%20Assault/%C2%A7%2013975%20-%20Transitional%20housing%20assistance%20grants%20for%20child%20victims%20of%20domestic%20violence%2C%20stalking%2C%20or%20sexual%20assault.md) | Transitional housing assistance grants for child victims of domestic violence, stalking, or sexual assault. |
+| (a) | In general. |
+| (b) | Grants. |
+| (c) | Duration. |
+| (d) | Application. |
+| (e) | Report to the Attorney General. |
+| (f) | Report to Congress. |
+| (g) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part C—Civil Rights for Women
 
 |  |  |

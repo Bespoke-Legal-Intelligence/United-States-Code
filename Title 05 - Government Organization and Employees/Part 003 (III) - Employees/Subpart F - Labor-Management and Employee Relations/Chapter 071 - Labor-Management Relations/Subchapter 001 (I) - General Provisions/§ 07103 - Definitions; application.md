@@ -124,7 +124,7 @@
 
 (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
+(Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a),Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
 
 #### Amendments
 

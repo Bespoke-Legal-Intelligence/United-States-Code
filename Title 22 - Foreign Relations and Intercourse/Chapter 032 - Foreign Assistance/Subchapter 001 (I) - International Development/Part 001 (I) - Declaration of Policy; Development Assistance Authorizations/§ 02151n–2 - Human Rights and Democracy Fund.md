@@ -26,7 +26,7 @@ The purposes of the Fund shall be—
 
 #### (2) Allocation of funds for the Documentation Center of Cambodia
 
-&emsp;Of the amount authorized to be available to the Fund under paragraph (1) for fiscal year 2003, $1,000,000 is authorized to be available forthe Documentation Center of Cambodia for the purpose of collecting, cataloguing, and disseminating information about the atrocities committed by the Khmer Rouge against the Cambodian people.
+&emsp;Of the amount authorized to be available to the Fund under paragraph (1) for fiscal year 2003, $1,000,000 is authorized to be available for the Documentation Center of Cambodia for the purpose of collecting, cataloguing, and disseminating information about the atrocities committed by the Khmer Rouge against the Cambodian people.
 
 #### (3) Father John Kaiser Memorial Fund
 

@@ -72,7 +72,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of compliance by an incumbent local exchange carrier with section 251(b)(5) of this title, a State commission shall not consider the terms and conditionsfor reciprocal compensation to be just and reasonable unless—
+&emsp;&emsp;For the purposes of compliance by an incumbent local exchange carrier with section 251(b)(5) of this title, a State commission shall not consider the terms and conditions for reciprocal compensation to be just and reasonable unless—
 
 &emsp;&emsp;&emsp;(i) such terms and conditions provide for the mutual and reciprocal recovery by each carrier of costs associated with the transport and termination on each carrier's network facilities of calls that originate on the network facilities of the other carrier; and
 
@@ -128,11 +128,11 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (1) In general
 
-&emsp;A Bell operating company may prepare and file with a State commission a statement of the terms and conditions that such company generally offers within that State to comply with the requirements of section 251 of this title and the regulations thereunder and the standards applicable under this section.
+&emsp;A Bell operating company may prepare and file with a State commission a statement of the terms and conditions that such companygenerally offers within that State to comply with the requirements of section 251 of this title and the regulations thereunder and the standards applicable under this section.
 
 #### (2) State commission review
 
-&emsp;A State commission may not approve such statement unless such statement complies with subsection (d) of this section and section 251 of this title and the regulations thereunder. Except as provided in section 253 of this title, nothing in this section shall prohibit a State commission from establishing or enforcing other requirements of State law in its review of such statement, including requiringcompliance with intrastate telecommunications service quality standards or requirements.
+&emsp;A State commission may not approve such statement unless such statement complies with subsection (d) of this section and section 251 of this title and the regulations thereunder. Except as provided in section 253 of this title, nothing in this section shall prohibit a State commission from establishing or enforcing other requirements of State law in its review of such statement, including requiring compliance with intrastate telecommunications service quality standards or requirements.
 
 #### (3) Schedule for review
 

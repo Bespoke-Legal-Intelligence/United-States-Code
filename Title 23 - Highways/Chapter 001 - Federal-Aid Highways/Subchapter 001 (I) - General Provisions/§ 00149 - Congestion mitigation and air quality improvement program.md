@@ -134,7 +134,7 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies
 
-Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: “For the purposes of section 149(e) of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and water in an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles.”
+Pub. L. 105–178, title I, §1110(d)(2), June 9, 1998, 112 Stat. 144, as amended by Pub. L. 105–206, title IX, §9002(g), July 22, 1998, 112 Stat. 836, provided that: “For the purposes of section 149(e) of title 23, United States Code, the Secretary shall determine in accordance with the procedures specified in section 149(b) of such title whether water-phased hydrocarbon fuel emulsion technologies that consist of a hydrocarbon base and waterin an amount not less than 20 percent by volume reduce emissions of hydrocarbon, particulate matter, carbon monoxide, or nitrogen oxide from motor vehicles.”
 
 #### Study of CMAQ Program
 

@@ -40,7 +40,7 @@ For purposes of subsection (a)—
 
 #### (2) Reassignment upon purchase
 
-&emsp;If a person becomes a successor of an assigned operator after the enactment date, the assigned operator may transfer the assignment of an eligible beneficiary under subsection (a) to such successor, and such successor shall be treated as the assigned operatorwith respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the assigned operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. An assigned operator shall notify the trustees of the Combined Fund of any transfer described in this paragraph.
+&emsp;If a person becomes a successor of an assigned operator after the enactment date, the assigned operator may transfer the assignment of an eligible beneficiary under subsection (a) to such successor, and such successor shall be treated as the assigned operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the assigned operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. An assigned operator shall notify the trustees of the Combined Fund of any transfer described in this paragraph.
 
 #### (c) Identification of eligible beneficiaries
 
@@ -64,7 +64,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (3) Trustees
 
-&emsp;The trustees of the Combined Fund, the 1950 UMWA Benefit Plan, the 1974 UMWA Benefit Plan, the 1950 UMWA Pension Plan, and the 1974 UMWA Pension Plan shall fully and promptly cooperate with the Commissioner in furnishing, or assisting the Commissioner to obtain, any information the Commissioner needs to carry out the Commissioner's responsibilities under this section.
+&emsp;The trustees of the Combined Fund, the 1950 UMWA Benefit Plan, the 1974 UMWA Benefit Plan, the 1950 UMWA Pension Plan, and the 1974 UMWA Pension Plan shall fully and promptly cooperate with the Commissioner infurnishing, or assisting the Commissioner to obtain, any information the Commissioner needs to carry out the Commissioner's responsibilities under this section.
 
 #### (e) Notice by Commissioner
 
@@ -106,7 +106,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (5) Payment pending review
 
-&emsp;An assigned operator shall pay the premiums under section 9704 pending review bythe Commissioner of Social Security or by a court under this subsection.
+&emsp;An assigned operator shall pay the premiums under section 9704 pending review by the Commissioner of Social Security or by a court under this subsection.
 
 #### (6) Private actions
 

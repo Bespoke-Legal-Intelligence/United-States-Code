@@ -2,7 +2,7 @@
 
 #### (a) Lapse of agency or other body from which functions or programs have been transferred and positions or offices therein
 
-Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse.If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
+Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
 
 #### (b) Continuation of orders, determinations, rules, etc.
 
@@ -16,7 +16,7 @@ All orders, determinations, rules, regulations, permits, contracts, certificates
 
 #### (c) Effect of chapter on proceedings pending before Atomic Energy Commission or other department or agency
 
-The provisions of this chapter shall not affect any proceeding pending, at the time this section takes effect, before the Atomic Energy Commission or any department or agency (or component thereof) functions of which are transferred by this chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued if this chapter had not been enacted.
+The provisions of this chapter shall not affect any proceeding pending, at the time this section takes effect, before the Atomic Energy Commission or any department or agency (or component thereof) functions of which are transferred bythis chapter; but such proceedings, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this chapter had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued if this chapter had not been enacted.
 
 #### (d) Effect of chapter on suits commenced prior to effective date
 
@@ -44,7 +44,7 @@ With respect to any functions transferred by this chapter and performed after th
 
 #### (i) Limitation, curtailment, etc., of presidential functions or authority
 
-Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or tolimit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
+Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
 
 #### (j) References in chapter to provision of law deemed to include references thereto as amended or supplemented
 
@@ -60,7 +60,7 @@ Except as may be otherwise expressly provided in this chapter, all functions exp
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-References to “at the time this chapter takes effect” in subsec. (b)(2), “the date this chapter takes effect” in subsec. (d)(1), “date on which this chapter takes effect” in subsec. (f), and “the effective date of this chapter” in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
+References to “at the time this chapter takes effect” in subsec. (b)(2), “the date this chapter takes effect” in subsec. (d)(1), “date on which this chapter takes effect” in subsec. (f), and “the effective date of this chapter”in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 
 #### Transfer of Functions
 

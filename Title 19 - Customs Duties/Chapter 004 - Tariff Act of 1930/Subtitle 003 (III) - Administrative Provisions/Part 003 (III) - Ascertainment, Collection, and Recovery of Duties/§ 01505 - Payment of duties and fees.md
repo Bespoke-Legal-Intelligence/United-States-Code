@@ -16,7 +16,7 @@ Interest assessed due to an underpayment of duties, fees, or interest shall accr
 
 If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b) of this section, any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
 
-(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; Pub. L. 91–271, title II, §204(c), June 2, 1970, 84 Stat. 283; Pub. L. 95–410, title I, §103, Oct. 3, 1978, 92 Stat. 889; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 98–573, title II, §210(a), Oct. 30, 1984, 98 Stat. 2977; Pub. L. 103–182, title VI, §642(a), Dec. 8, 1993, 107 Stat. 2205; Pub. L. 104–295, §2(a), Oct. 11, 1996, 110 Stat.3515; Pub. L. 106–36, title II, §2418(e), June 25, 1999, 113 Stat. 177; Pub. L. 106–476, title I, §1451, Nov. 9, 2000, 114 Stat. 2167; Pub. L. 107–210, div. A, title III, §383, Aug. 6, 2002, 116 Stat. 992.)
+(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; Pub. L. 91–271, title II, §204(c), June 2, 1970, 84 Stat. 283; Pub. L. 95–410, title I, §103, Oct. 3, 1978, 92 Stat. 889; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 98–573, title II, §210(a), Oct. 30, 1984, 98 Stat. 2977; Pub. L. 103–182, title VI, §642(a), Dec. 8, 1993, 107 Stat. 2205; Pub. L. 104–295, §2(a), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 106–36, title II, §2418(e), June 25, 1999, 113 Stat. 177; Pub. L. 106–476, title I, §1451, Nov. 9, 2000, 114 Stat. 2167; Pub. L. 107–210, div. A, title III, §383, Aug. 6, 2002, 116 Stat. 992.)
 
 #### Prior Provisions
 
@@ -43,6 +43,10 @@ A prior provision that the collector or person acting as such should ascertain, 
 1978—Subsec. (a). Pub. L. 95–410 authorized deposit of estimated duties to be made as prescribed by regulations after time of making entry but not later than thirty days after date of entry.
 
 1970—Pub. L. 91–271 reorganized existing provisions into subsecs. (a) and (b), and struck out provisions authorizing receipt by a collector of various reports and the performance of certain functions in connection with the liquidation of an entry.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 2000 Amendment
 

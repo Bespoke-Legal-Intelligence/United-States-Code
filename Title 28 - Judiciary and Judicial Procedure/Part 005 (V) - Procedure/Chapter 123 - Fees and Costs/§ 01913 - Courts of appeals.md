@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### Court Fees for Electronic Access to Information
 
-Pub. L. 102–140, title III, §303, Oct. 28, 1991, 105 Stat. 810, as amended by Pub. L. 104–317, title IV, §403(b), Oct. 19, 1996, 110 Stat. 3854; Pub. L. 107–347, title II, §205(e), Dec. 17, 2002, 116 Stat. 2915, provided that:
+Pub. L. 102–140, title III, §303, Oct. 28, 1991, 105 Stat. 810, as amended by Pub. L. 104–317, title IV, §403(b), Oct.19, 1996, 110 Stat. 3854; Pub. L. 107–347, title II, §205(e), Dec. 17, 2002, 116 Stat. 2915, provided that:
 
 “(a) The Judicial Conference may, only to the extent necessary, prescribe reasonable fees, pursuant to sections 1913, 1914, 1926, 1930, and 1932 of title 28, United States Code, for collection by the courts under those sections for access to information available through automatic data processing equipment. These fees may distinguish between classes of persons, and shall provide for exempting persons or classes of persons from the fees, in order to avoid unreasonable burdens and to promote public access to such information. The Director of the Administrative Office of the United States Courts, under the direction of the Judicial Conference of the United States, shall prescribe a schedule of reasonable fees for electronic access to information which the Director is required to maintain and make available to the public.
 

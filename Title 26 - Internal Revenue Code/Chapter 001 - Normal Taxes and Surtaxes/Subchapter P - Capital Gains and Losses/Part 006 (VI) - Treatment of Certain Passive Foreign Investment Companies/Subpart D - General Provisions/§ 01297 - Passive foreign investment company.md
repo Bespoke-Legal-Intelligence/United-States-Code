@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (c) Look-thru in the case of 25-percent owned corporations
 
-If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stockof another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it—
+If a foreign corporation owns (directly or indirectly) at least 25 percent (by value) of the stock of another corporation, for purposes of determining whether such foreign corporation is a passive foreign investment company, such foreign corporation shall be treated as if it—
 
 &emsp;(1) held its proportionate share of the assets of such other corporation, and
 
@@ -174,5 +174,5 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 532, 542, 672, 904, 1260, 1298 of this title.
+This section is referred to in sections 1, 532, 542, 672, 904, 1260, 1298 of this title.
 

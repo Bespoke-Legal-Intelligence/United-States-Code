@@ -10,11 +10,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Codification
 
-Section is comprised of eighth par. of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under section 411 of this title.
+Section is comprised of eighth par. of section 16 of act Dec. 23, 1913. For classification to this title of otherpars. of section 16, see Codification note set out under section 411 of this title.
 
 #### Amendments
 
-1994—Pub. L. 103–325, which directed substitution in first sentence of “the Secretary of the Treasury shall” for “the Comptroller of the Currency shall under thedirection of the Secretary of the Treasury,”, was executed by making the substitution for “the Comptroller of the Currency shall, under the direction of the Secretary of the Treasury,” to reflect the probable intent of Congress.
+1994—Pub. L. 103–325, which directed substitution in first sentence of “the Secretary of the Treasury shall” for “the Comptroller of the Currency shall under the direction of the Secretary of the Treasury,”, was executed by making the substitution for “the Comptroller of the Currency shall, under the direction of the Secretary of the Treasury,” to reflect the probable intent of Congress.
 
 1963—Pub. L. 83–36 inserted “$1, $2,” after “notes of the denominations of”.
 

@@ -44,7 +44,7 @@ A covered entity—
 
 #### (2) Construction
 
-&emsp;Nothing in this subchapter shall be construed to encourage, prohibit, or authorize the conducting of drug testing for the illegal use of drugs by job applicants or employees or making employment decisions based on such test results.
+&emsp;Nothing in this subchapter shall be construed to encourage, prohibit, or authorize the conducting of drug testing for the illegal useof drugs by job applicants or employees or making employment decisions based on such test results.
 
 #### (e) Transportation employees
 

@@ -24,7 +24,7 @@ Of a Ward.—Whoever, in the special maritime and territorial jurisdiction of th
 
 Defenses.—(1) In a prosecution under subsection (a) of this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the other person had attained the age of 16 years.
 
-(2) In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
+(2) In a prosecution under this section, it is a defense, which the defendant must establish bya preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
 
 (d)
 

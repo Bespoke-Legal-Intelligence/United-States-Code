@@ -1,6 +1,6 @@
 ### §2153e. Protection of environment
 
-The President shall endeavor to provide in any agreement entered into pursuant to section 2153 of this title for cooperation between the parties in protecting the international environment from radioactive, chemical or thermal contamination arising from peaceful nuclear activities.
+The President shall endeavor to provide in any agreement entered into pursuant to section 2153of this title for cooperation between the parties in protecting the international environment from radioactive, chemical or thermal contamination arising from peaceful nuclear activities.
 
 (Pub. L. 95–242, title IV, §407, Mar. 10, 1978, 92 Stat. 148.)
 
@@ -10,7 +10,7 @@ Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and no
 
 #### Effective Date
 
-Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Delegation of Functions
 

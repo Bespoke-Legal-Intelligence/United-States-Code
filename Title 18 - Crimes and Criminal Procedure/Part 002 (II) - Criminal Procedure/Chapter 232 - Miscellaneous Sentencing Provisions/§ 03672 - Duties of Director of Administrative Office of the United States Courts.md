@@ -44,7 +44,7 @@ Section 3709 of the Revised Statutes, referred to in the seventh undesignated pa
 
 Pub. L. 100–182, §20(2), added ninth undesignated par.: “Whenever the court finds that funds are available for payment by or on behalf of a person furnished such services, training, or guidance, the court may direct that such funds be paid to the Director. Any moneys collected under this paragraph shall be used to reimburse the appropriations obligated and disbursed in payment for such services, training, or guidance.”
 
-1986—Pub. L. 99–570 and Pub. L. 99–646 added substantially identical seventh and eighth undesignated pars.containing provision relating to authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict, or a drug-dependent person and provision relating to payment for presentence studies and reports by qualified consultants and presentence examinations and reports by psychiatric and psychological examiners ordered by the court under section 3552(b) or (c).
+1986—Pub. L. 99–570 and Pub. L. 99–646 added substantially identical seventh and eighth undesignated pars. containing provision relating to authority to contract with any appropriate public or private agency or person for the detection of and care in the community of an offender who is an alcohol-dependent person, an addict, or a drug-dependent person and provision relating to payment for presentence studies and reports by qualified consultants and presentence examinations and reports by psychiatric and psychological examiners ordered by the court under section 3552(b) or (c).
 
 1949—Act May 24, 1949, inserted in fifth par. of section “and direction” after “supervision”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-There is established the Public Company Accounting Oversight Board, to oversee the audit of public companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further thepublic interest in the preparation of informative, accurate, and independent audit reports for companies the securities of which are sold to, and held by and for, public investors. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
+There is established the Public Company Accounting Oversight Board, to oversee the audit of public companies that are subject to the securities laws, and related matters, in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports for companies the securities of which are sold to, and held by and for, public investors. The Board shall be a body corporate, operate as a nonprofit corporation, and have succession until dissolved by an Act of Congress.
 
 #### (b) Status
 

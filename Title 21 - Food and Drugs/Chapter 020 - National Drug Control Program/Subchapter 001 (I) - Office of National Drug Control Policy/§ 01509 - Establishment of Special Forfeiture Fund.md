@@ -20,7 +20,7 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 #### (e) President's budget
 
-The President shall, in consultation with the Director for National Drug Control Policy, include, as part of the budget submitted to the Congress under section 1105(a) of title 31, a separate and detailed request for the use of the amounts in the Fund. This request shall reflect the priorities of the National Drug Control Strategy.
+The President shall, in consultation with the Director for National Drug Control Policy, include, as part of the budget submitted to the Congress under section 1105(a) of title 31, a separate and detailed request for the use of the amounts in the Fund. This request shall reflectthe priorities of the National Drug Control Strategy.
 
 #### (f) Funds provided supplemental
 
@@ -58,7 +58,7 @@ Subsecs. (c) to (g). Pub. L. 103–322, §90205(d), added subsec. (c) and redesi
 
 1992—Subsec. (b). Pub. L. 102–393 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Deposits in the Fund shall be made by transfer from the Department of Justice Assets Forfeiture Fund in the manner provided in section 524(c)(9) of title 28.”
 
-1990—Subsec. (b). Pub. L. 101–647 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Beginning in fiscal year 1990, there shall be deposited in the Fund not to exceed $150,000,000 in unobligated amounts remaining at the end of each fiscal yearfrom the Department of Justice Assets Forfeiture Fund (28 U.S.C. 524(c)) except that amounts specified in section 524(c)(9) of title 28 may be carried forward and remain available for appropriation in the next fiscal year.”
+1990—Subsec. (b). Pub. L. 101–647 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Beginning in fiscal year 1990, there shall be deposited in the Fund not to exceed $150,000,000 in unobligated amounts remaining at the end of each fiscal year from the Department of Justice Assets Forfeiture Fund (28 U.S.C. 524(c)) except that amounts specified in section 524(c)(9) of title 28 may be carried forward and remain available for appropriation in the next fiscal year.”
 
 #### Termination Date of 1998 Amendment
 

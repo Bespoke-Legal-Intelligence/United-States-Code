@@ -32,7 +32,7 @@ For purposes of this section—
 
 (3) For the purpose of ensuring the coordinated planning and implementation of programs authorized in subsections (e) and (h)(2) of this section, the Secretary shall enter into an interagency agreement with the Secretary of the Interior to provide for the direct participation of, and transfer of funds to, the Fish and Wildlife Service and any other agency or bureau of the Department of the Interior for the planning, design, implementation, and evaluation of such programs.
 
-(4) The Upper Mississippi River Basin Association or any other agency established under paragraph (1) of this subsection is hereby designated by Congress as the caretaker of the master plan. Any changes to the master plan recommended by the Secretary shall be submitted to such association or agency for review. Such association or agency may make such comments with respect to such recommendations and offer other recommended changes to the master plan as such association or agency deems appropriate and shall transmit such comments and other recommended changes to the Secretary. The Secretary shall transmit such recommendations along with the comments and other recommended changes of such association or agency to the Congress for approval within 90 days of the receipt of such comments or recommended changes.
+(4) The Upper Mississippi River Basin Association or any other agency established under paragraph (1) of this subsection is hereby designated by Congress as the caretaker of the master plan. Any changes to the master plan recommended by the Secretary shall be submitted to such association or agency for review. Such association or agency may make such comments with respect to such recommendations and offer other recommended changes to the master plan as such association or agency deems appropriateand shall transmit such comments and other recommended changes to the Secretary. The Secretary shall transmit such recommendations along with the comments and other recommended changes of such association or agency to the Congress for approval within 90 days of the receipt of such comments or recommended changes.
 
 #### (e) Program authority
 
@@ -102,7 +102,7 @@ Determination.—
 
 &emsp;(A)
 
-In general.—The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
+In general.—The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need forriver rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
 
 &emsp;(B)
 

@@ -18,25 +18,43 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 #### Prior Provisions
 
-Prior sections 2271 to 2279 were repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
-Section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories.
+#### Space Personnel Career Fields
 
-Section 2272, act Aug. 10, 1956, ch. 1041, 70A Stat. 124, related to contracts to obtain designs submitted in design competitions.
+Pub. L. 108–136, div. A, title V, §547, Nov. 24, 2003, 117 Stat. 1480, provided that:
 
-Section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, §160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States.
+“(a)
 
-Section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, related to procurement for experimental purposes.
+Strategy Required.—The Secretary of Defense shall develop a strategy for the Department of Defense that will—
 
-Section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, related to award of contracts and review of decisions.
+&emsp;“(1) promote the development of space personnel career fields within each of the military departments; and
 
-Section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, §131, 76 Stat. 514, related to inspection and audit of plants and books of contractors and provided criminal penalties for violations.
+&emsp;“(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable.
 
-Section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations.
+“(b)
 
-Section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft.
+Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:
 
-Section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications.
+&emsp;“(1) A statement of the strategy developed under subsection (a), together with an explanation of that strategy.
+
+&emsp;“(2) An assessment of the measures required for the Department of Defense and the military departments to integrate the space personnel career fields of the military departments.
+
+&emsp;“(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to section 8084 of title 10, United States Code, to establish for Air Force officers a career field for space.
+
+“(c)
+
+General Accounting Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
+
+“(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
+
+&emsp;“(A) Not later than June 15, 2004, the Comptroller General shall submit a report that assesses how effective that Department of Defense strategy and the efforts by the military departments, when implemented, are likely to be for developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and operation of space systems.
+
+&emsp;“(B) Not later than March 15, 2005, the Comptroller General shall submit a report that assesses, as of the date of the report—
+
+&emsp;&emsp;“(i) the effectiveness of that Department of Defense strategy and the efforts by the military departments in developing the personnel required by each of the military departments who are expert in development of space doctrine and concepts of space operations, the development of space systems, and in operation of space systems; and
+
+&emsp;&emsp;“(ii) progress made in integrating the space career fields of the military departments.”
 
 #### Comptroller General Assessment of Implementation of Recommendations of Space Commission
 

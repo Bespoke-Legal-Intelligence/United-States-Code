@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 #### (C) 1974 UMWA Benefit Plan
 
-&emsp;&emsp;The term “1974 UMWA Benefit Plan” means a UMWA Benefit Plan, participation in which is substantially limited to individuals who retired on or after January 1, 1976.
+&emsp;&emsp;The term “1974 UMWA Benefit Plan” means a UMWA Benefit Plan, participationin which is substantially limited to individuals who retired on or after January 1, 1976.
 
 #### (2) 1950 UMWA Pension Plan
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (7) Business
 
-&emsp;For purposes of this chapter, a person shall be considered to be in business if such person conducts or derives revenue from any business activity, whether or not in the coal industry.
+&emsp;For purposes of this chapter, a person shall be considered to be in business if such personconducts or derives revenue from any business activity, whether or not in the coal industry.
 
 #### (d) Enactment date
 

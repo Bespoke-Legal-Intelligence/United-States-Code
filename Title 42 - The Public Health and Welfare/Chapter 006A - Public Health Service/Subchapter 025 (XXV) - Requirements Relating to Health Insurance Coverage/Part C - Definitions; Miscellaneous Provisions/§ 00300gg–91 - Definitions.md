@@ -186,7 +186,7 @@ For purposes of this subchapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer thantwo participants as current employees on the first day of the plan year.
+&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
 
 #### (ii) State exception
 
@@ -232,7 +232,7 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300e, 300gg, 300gg–11, 300gg–21, 300gg–41, 300gg–63, 1320d, 1397cc, 1397ii, 1397jj of this title; title 21 section 360aaa–5.
+This section is referred to in sections 300e, 300gg, 300gg–11, 300gg–21, 300gg–41, 300gg–63, 1320d, 1395w–141, 1397cc, 1397ii, 1397jj of this title; title 21 section 360aaa–5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “term”.</i>
 

@@ -8,7 +8,7 @@ Manner of Service.—A complaint, notice, writ, or other process required to be 
 
 Nationwide Enforcement.—(1) Except as provided in paragraph (2)—
 
-&emsp;(A) any writ, order, judgment, or other process, including a summons and complaint, filed under this chapter may be served in any State; and
+&emsp;(A) any writ, order, judgment, or other process, including a summons and complaint, filedunder this chapter may be served in any State; and
 
 &emsp;(B) such writ, order, or judgment may be enforced by the court issuing the writ, order, or process, regardless of where the person is served with the writ, order, or process.
 

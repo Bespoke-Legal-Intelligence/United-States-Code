@@ -10,7 +10,7 @@
 
 &emsp;(4) the Congress exercise its constitutional authority to withdraw or otherwise designate or dedicate Federal lands for specified purposes and that Congress delineate the extent to which the Executive may withdraw lands without legislative action;
 
-&emsp;(5) in administering public land statutes and exercising discretionary authority granted by them, the Secretary be required to establish comprehensive rules and regulations after considering the views of the general public; and to structure adjudication procedures to assure adequate third party participation, objective administrative review of initial decisions, and expeditious decisionmaking;
+&emsp;(5) in administering public land statutes and exercising discretionary authority granted bythem, the Secretary be required to establish comprehensive rules and regulations after considering the views of the general public; and to structure adjudication procedures to assure adequate third party participation, objective administrative review of initial decisions, and expeditious decisionmaking;
 
 &emsp;(6) judicial review of public land adjudication decisions be provided by law;
 
@@ -36,7 +36,7 @@
 
 This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
+The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to section 21a of Title 30, Mineral Lands and Mining.
 
 #### Short Title of 1988 Amendment
 
@@ -74,7 +74,7 @@ Section 701 of Pub. L. 94–579 provided that:
 
 &emsp;“(5) as modifying the terms of any interstate compact;
 
-&emsp;“(6) as a limitation upon any State criminal statute or upon the police power of the respective States, or as derogating the authority of a local police officer in the performance of his duties, or as depriving any State or political subdivision thereof of any right it may have to exercise civil and criminal jurisdiction on the national resource lands; or as amending, limiting, or infringing the existing laws providing grants of lands to the States.
+&emsp;“(6) as a limitation upon any State criminal statute or upon the police power of the respective States, or as derogating the authority of a local police officer in the performance of his duties, or as depriving anyState or political subdivision thereof of any right it may have to exercise civil and criminal jurisdiction on the national resource lands; or as amending, limiting, or infringing the existing laws providing grants of lands to the States.
 
 “(h) All actions by the Secretary concerned under this Act shall be subject to valid existing rights.
 

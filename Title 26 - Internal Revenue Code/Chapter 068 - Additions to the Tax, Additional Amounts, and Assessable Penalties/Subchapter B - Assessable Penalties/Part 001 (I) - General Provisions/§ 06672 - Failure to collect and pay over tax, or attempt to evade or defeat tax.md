@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
+Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, orwillfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
 
 #### (b) Preliminary notice requirement
 
@@ -16,7 +16,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 #### (3) Statute of limitations
 
-&emsp;If a notice described in paragraph (1) with respect to any penalty is mailed or delivered in person before the expiration of the period provided by section 6501 for the assessment of such penalty (determined without regard tothis paragraph), the period provided by such section for the assessment of such penalty shall not expire before the later of—
+&emsp;If a notice described in paragraph (1) with respect to any penalty is mailed or delivered in person before the expiration of the period provided by section 6501 for the assessment of such penalty (determined without regard to this paragraph), the period provided by such section for the assessment of such penalty shall not expire before the later of—
 
 &emsp;&emsp;(A) the date 90 days after the date on which such notice was mailed or delivered in person, or
 

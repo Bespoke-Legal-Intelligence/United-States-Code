@@ -144,17 +144,5 @@ Section 405 of title IV of Pub. L. 90–22 provided that: “The amendments made
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-Section 532(c) of Pub. L. 99–433, as amended by Pub. L. 100–26, §11(b), Apr. 21, 1987, 101 Stat. 289; Pub. L. 100–180, div. A, title XIII, §1314(a)(3), Dec. 4, 1987, 101 Stat. 1175, provided that:
-
-“(1) The President may waive, as provided in paragraph (2), the requirements provided for in sections 3033(a)(2), 5033(a)(2), 5043(a)(2), and 8033(a)(2) of title 10, United States Code (as added or amended by sections 502, 512, 513, and 522, respectively).
-
-“(2) In exercising such waiver authority, the President may, in the case of any officer—
-
-&emsp;“(A) waive the requirement under section 664 of such title (as added by section 401 of this Act) for the length of a joint duty assignment if the officer has served in such an assignment for not less than two years; and
-
-&emsp;“(B) consider as a joint duty assignment any tour of duty served by the officer as a general or flag officer before the date of the enactment of this Act \[Oct. 1, 1986\] (or being served on the date of the enactment of this Act) that was considered to be a joint duty assignment or a joint equivalent assignment under regulations in effect at the time the assignment began.
-
-“(3) A waiver under paragraph (2) may not be made in the case of any officer more than four years after the date of the enactment of this Act \[Oct. 1, 1986\].
-
-“(4) A waiver under this subsection may be made only on a case-by-case basis.”
+Pub. L. 99–433, title V, §532(c), Oct. 1, 1986, 100 Stat. 1063, as amended by Pub. L. 100–26, §11(b), Apr. 21, 1987, 101 Stat. 289; Pub. L. 100–180, div. A, title XIII, §1314(a)(3), Dec. 4, 1987, 101 Stat. 1175, provided that the President may waive, on a case-by-case basis, requirements for appointment as Service Chief provided for in sections 3033(a)(2), 5033(a)(2), 5043(a)(2), and 8033(a)(2) of this title, for a period of four years after Oct. 1, 1986.
 

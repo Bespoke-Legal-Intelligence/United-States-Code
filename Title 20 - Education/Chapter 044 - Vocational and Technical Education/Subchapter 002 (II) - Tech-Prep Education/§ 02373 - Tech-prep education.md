@@ -38,7 +38,7 @@ Each tech-prep program shall—
 
 &emsp;(2) consist of at least 2 years of secondary school preceding graduation and 2 years or more of higher education, or an apprenticeship program of at least 2 years following secondary instruction, with a common core of required proficiency in mathematics, science, reading, writing, communications, and technologies designed to lead to an associate's degree or a postsecondary certificate in a specific career field;
 
-&emsp;(3) include the development of tech-prep programs for both secondary and postsecondary, including consortium, participants in the consortium that—
+&emsp;(3) include the development of tech-prep programs for both secondary and postsecondary,including consortium, participants in the consortium that—
 
 &emsp;&emsp;(A) meets academic standards developed by the State;
 

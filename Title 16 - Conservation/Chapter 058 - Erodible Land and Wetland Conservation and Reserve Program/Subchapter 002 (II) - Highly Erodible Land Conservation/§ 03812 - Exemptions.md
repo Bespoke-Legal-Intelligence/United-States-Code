@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
+1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil ConservationService, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 

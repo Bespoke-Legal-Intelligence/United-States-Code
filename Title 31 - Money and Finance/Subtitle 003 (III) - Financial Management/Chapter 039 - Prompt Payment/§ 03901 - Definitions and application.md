@@ -12,7 +12,7 @@
 
 &emsp;(3) “proper invoice” is an invoice containing or accompanied by substantiating documentation the Director of the Office of Management and Budget may require by regulation and the head of the appropriate agency may require by regulation or contract.
 
-&emsp;(4) for the purposes of determining a payment due date and the date upon which any late payment interest penalty shall begin to accrue, the head of the agency is deemed to receive an invoice—
+&emsp;(4) for the purposes of determining a payment due date and the date upon which anylate payment interest penalty shall begin to accrue, the head of the agency is deemed to receive an invoice—
 
 &emsp;&emsp;(A) on the later of—
 
@@ -38,7 +38,7 @@
 
 (2) A claim for an interest penalty not paid under this chapter may be filed in the same manner as claims are filed with respect to contracts to provide property or services for the District of Columbia Courts.
 
-(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year orafter a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
+(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year or after a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
 
 (B) If a claim for an interest penalty is filed in the manner described in paragraph (2) and interest is not available for such claims under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts, interest will accrue under this chapter as provided in paragraph (A) and from the date the claim is filed until the date the claim is paid.
 

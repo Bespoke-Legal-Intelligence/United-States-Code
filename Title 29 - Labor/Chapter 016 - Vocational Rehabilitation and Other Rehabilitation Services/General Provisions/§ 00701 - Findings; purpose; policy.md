@@ -38,7 +38,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to empower individuals with disabilities to maximize employment, economic self-sufficiency, independence, and inclusion and integration into society, through—
 
-&emsp;&emsp;(A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that include, as integralcomponents, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
+&emsp;&emsp;(A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that include, as integral components, comprehensive and coordinatedstate-of-the-art programs of vocational rehabilitation;
 
 &emsp;&emsp;(B) independent living centers and services;
 

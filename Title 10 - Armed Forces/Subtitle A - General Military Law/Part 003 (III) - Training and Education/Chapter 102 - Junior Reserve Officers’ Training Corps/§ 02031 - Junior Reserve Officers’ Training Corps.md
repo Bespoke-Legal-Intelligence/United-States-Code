@@ -30,7 +30,7 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107.)
+(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807,July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107.)
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Section 1 of Pub. L. 88–647 provided: “That the Act \[enacting this chapter,
 
 #### Issuance of Regulations
 
-Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued byPresident and by Secretary of each military department not later than Jan. 1, 1966.
+Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
 
 #### Savings Clause
 

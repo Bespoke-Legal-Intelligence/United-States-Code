@@ -22,7 +22,7 @@
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–419 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “before completing initial active duty for training has completed the requirements of a secondary school diploma (or an equivalency certificate), or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension;”.
+2000—Subsec. (a)(2). Pub. L. 106–419 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “before completing initial active duty for training hascompleted the requirements of a secondary school diploma (or an equivalency certificate), or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension;”.
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “sections 16134” for “section 16134”.
 

@@ -12,5 +12,5 @@ If the Secretary finds after reasonable notice and opportunity for hearing that 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12742, 12743, 12748 of this title.
+This section is referred to in sections 12742, 12743, 12748, 12821 of this title.
 

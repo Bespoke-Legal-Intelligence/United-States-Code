@@ -6,7 +6,7 @@ The Secretary may not make a grant under this part unless—
 
 &emsp;(1) the applicant submits to the Secretary—
 
-&emsp;&emsp;(A) a specification of the expenditures made by the applicant for early interventionservices for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant; and
+&emsp;&emsp;(A) a specification of the expenditures made by the applicant for early intervention services for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant; and
 
 &emsp;&emsp;(B) an estimate of the number of individuals to whom the applicant has provided such services for such fiscal year; and
 

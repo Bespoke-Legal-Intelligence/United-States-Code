@@ -70,7 +70,7 @@ The objectives of the Program are to—
 
 #### (A) Leadership
 
-&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
+&emsp;&emsp;The leadership activity shall be the responsibility of FEMA and shall be exercisedby chairing the Board to coordinate national efforts to improve the safety of the dams in the United States.
 
 #### (B) Technical assistance
 
@@ -106,7 +106,7 @@ The objectives of the Program are to—
 
 &emsp;&emsp;&emsp;(v) a requirement that all inspections be performed under the supervision of a State-registered professional engineer with related experience in dam design and construction;
 
-&emsp;&emsp;&emsp;(vi) the authority to issue notices, when appropriate, to require owners of dams toperform necessary maintenance or remedial work, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;
+&emsp;&emsp;&emsp;(vi) the authority to issue notices, when appropriate, to require owners of dams to perform necessary maintenance or remedial work, improve security, revise operating procedures, or take other actions, including breaching dams when necessary;
 
 &emsp;&emsp;&emsp;(vii) regulations for carrying out the legislation of the State described in this subparagraph;
 
@@ -150,7 +150,7 @@ The objectives of the Program are to—
 
 #### (C) Notification of disapproval
 
-&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
+&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shallimmediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
 
 #### (6) Review of State dam safety programs
 
@@ -196,7 +196,7 @@ The objectives of the Program are to—
 
 #### (B) Coordination and information exchange among agencies
 
-&emsp;&emsp;In carrying out subparagraph (A), the Board shall encourage coordination and information exchange among Federal andState dam safety agencies that share common problems and responsibilities for dam safety, including planning, design, construction, operation, emergency action planning, inspections, maintenance, regulation or licensing, technical or financial assistance, research, and data management.
+&emsp;&emsp;In carrying out subparagraph (A), the Board shall encourage coordination and information exchange among Federal and State dam safety agencies that share common problems and responsibilities for dam safety, including planning, design, construction, operation, emergency action planning, inspections, maintenance, regulation or licensing, technical or financial assistance, research, and data management.
 
 #### (6) Work groups
 
@@ -234,7 +234,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(9), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4260; amended Pub. L. 102–580, title II, §209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4260;amended Pub. L. 102–580, title II, §209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 

@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;(6) “participating State” means a State that has notified the Secretary under section 30303 of this title of its participation in the National Driver Register.
 
-&emsp;(7) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(7) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa,the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 &emsp;(8) “State of record” means a State that has given the Secretary a report under section 30304 of this title about an individual who is the subject of a request for information made under section 30305 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Career Enlisted Flyer Defined.—In this section, the term “eligible careerenlisted flyer” means an enlisted member of the armed forces who—
+Eligible Career Enlisted Flyer Defined.—In this section, the term “eligible career enlisted flyer” means an enlisted member of the armed forces who—
 
 &emsp;(1) is entitled to basic pay under section 204 of this title, or is entitled to pay under section 206 of this title as described in subsection (e) of this section;
 
@@ -55,7 +55,7 @@ Save Pay Provision.—If, immediately before a member receives incentive pay und
 
 (h)
 
-Specialty Code of Dropsonde System Operators.—Within the Air Force, the Secretary of the Air Force shall assign to members who are dropsonde system operators a specialty codethat identifies such members as serving in a weather specialty.
+Specialty Code of Dropsonde System Operators.—Within the Air Force, the Secretary of the Air Force shall assign to members who are dropsonde system operators a specialty code that identifies such members as serving in a weather specialty.
 
 (i)
 

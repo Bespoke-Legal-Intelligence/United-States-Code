@@ -6,7 +6,7 @@ Whoever buys or receives or has in his possession any such goods or chattels, kn
 
 Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or deception obtains with intent to convert to his own use any baggage which shall have come into the possession of any common carrier for transportation in interstate or foreign commerce or breaks into, steals, takes, carries away, or conceals any of the contents of such baggage, or buys, receives, or has in his possession any such baggage or any article therefrom of whatever nature, knowing the same to have been embezzled or stolen; or
 
-Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money,baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
+Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money, baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
 
 Shall in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -30,7 +30,7 @@ This section consolidates sections 409, 410, and 411 of title 18, U.S.C., 1940 e
 
 In the paragraph immediately preceding the last paragraph the words “and to which” were added to obviate an inadvertent and incongruous omission in the enactment of act July 24, 1946, ch. 606, §3, 60 Stat. 657. This is in harmony with corrective legislation pending before the Eightieth Congress.
 
-The definitions of “station house”, “depot”, “wagon”, “automobile”, “truck”, or “other vehicle”, contained in said section 409 of title 18, are omitted as unnecessary.
+The definitions of “station house”, “depot”, “wagon”, “automobile”, “truck”, or “other vehicle”,contained in said section 409 of title 18, are omitted as unnecessary.
 
 The smaller punishment for an offense involving $100 or less was added. (See reviser's notes under sections 641 and 645 of this title.) This improvement was suggested by United States Attorney P. F. Herrick, of Puerto Rico. (See reviser's note under section 641 of this title.)
 

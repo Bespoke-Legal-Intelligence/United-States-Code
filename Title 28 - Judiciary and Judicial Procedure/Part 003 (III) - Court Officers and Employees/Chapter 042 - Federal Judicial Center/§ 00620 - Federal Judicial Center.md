@@ -48,7 +48,7 @@ Amendment by Pub. L. 98–620 effective Oct. 1, 1985, see section 216 of Pub. L.
 
 #### Study of Intercircuit Conflicts and Structural Alternatives for Courts of Appeals by Federal Judicial Center
 
-Pub. L. 101–650, title III, §302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, §502(c), Oct.29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
+Pub. L. 101–650, title III, §302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, §502(c), Oct. 29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
 
 #### Section Referred to in Other Sections
 

@@ -52,7 +52,7 @@
 
 #### (E) Determination of Secretary regarding data on HIV cases
 
-&emsp;&emsp;If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstanding subparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.
+&emsp;&emsp;If under section 300ff–13(a)(3)(D)(i) of this title the Secretary determines that data on cases of HIV disease are not sufficiently accurate and reliable, then notwithstandingsubparagraph (D) of this paragraph, for any fiscal year prior to fiscal year 2007 the references in such subparagraph to cases of HIV disease do not have any legal effect.
 
 #### (F) Puerto Rico, Virgin Islands, Guam
 
@@ -192,7 +192,7 @@
 
 #### (d) Reallocation
 
-Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) <sup>3</sup> of this section shall be repaid to the Secretary and reallotted to other States in proportion to the original grants made to such States.
+Any amounts appropriated in any fiscal year and made available to a State under this part that have not been obligated as described in subsection (d) <sup>3</sup> of this section shall be repaid to theSecretary and reallotted to other States in proportion to the original grants made to such States.
 
 (July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334.)
 

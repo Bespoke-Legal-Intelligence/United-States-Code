@@ -6,7 +6,7 @@
 
 &emsp;(2) medical care and necessary guard hire; and
 
-&emsp;(3) the housing, care, and security of persons held in custody of a United States marshalpursuant to Federal law under agreements with State or local units of government or contracts with private entities.
+&emsp;(3) the housing, care, and security of persons held in custody of a United States marshal pursuant to Federal law under agreements with State or local units of government or contracts with private entities.
 
 (b) The Attorney General, in support of Federal prisoner detainees in non-Federal institutions, is authorized to make payments, from funds appropriated for State and local law enforcement assistance, for entering into contracts or cooperative agreements with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies, or materials required to establish acceptable conditions of confinement and detention services in any State or local jurisdiction which agrees to provide guaranteed bed space for Federal detainees within that correctional system, in accordance with regulations which are issued by the Attorney General and are comparable to the regulations issued under section 4006 of this title, except that—
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) the availability of appropriate Federal, State, and local government detention facilities.
 
-(2) In order to be eligible for a contract for the housing, care, and security of persons held in custody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
+(2) In order to be eligible for a contract for the housing, care, and security of persons held incustody of the United States Marshals pursuant to Federal law and funding under subsection (a)(3), a private entity shall—
 
 &emsp;(A) be located in a district that has been designated as needing additional Federal detention facilities pursuant to paragraph (1);
 

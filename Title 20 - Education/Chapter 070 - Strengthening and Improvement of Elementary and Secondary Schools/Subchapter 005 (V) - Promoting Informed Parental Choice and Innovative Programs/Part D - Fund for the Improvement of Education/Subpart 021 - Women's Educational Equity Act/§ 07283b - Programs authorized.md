@@ -64,7 +64,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;&emsp;(III) innovative approaches to school-community partnerships for educational equity; and
 
-&emsp;&emsp;(B) for research and development, which shall be coordinated with each of the National Education Centers of the Institute of Education Sciences to avoid duplication of research efforts, designed to advance gender equity nationwide and to help make policies and practices in educational agencies and institutions, and local communities, gender equitable, including—
+&emsp;&emsp;(B) for research and development, which shall be coordinated with each of the National Education Centers of the Institute of Education Sciences to avoid duplication of research efforts, designed to advance gender equity nationwide and to help make policiesand practices in educational agencies and institutions, and local communities, gender equitable, including—
 
 &emsp;&emsp;&emsp;(i) research and development of innovative strategies and model training programs for teachers and other education personnel;
 

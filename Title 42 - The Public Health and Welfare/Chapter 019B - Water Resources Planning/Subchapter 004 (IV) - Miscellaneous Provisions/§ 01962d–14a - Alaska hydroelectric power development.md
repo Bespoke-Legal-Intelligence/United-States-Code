@@ -4,7 +4,7 @@
 
 (1) The Congress finds that the expeditious development of hydroelectric power generating facilities in Alaska that are environmentally sound to assist the Nation in meeting existing and future energy demands is in the national interest.
 
-(2) The Congress therefore declares that the expertise of the Chief of Engineers can and should be utilized for the benefit of local public bodies in the development of projects which yield 90 per centum or more of the benefits ofthe project are attributable to hydroelectric power generation when the project is fully operational.
+(2) The Congress therefore declares that the expertise of the Chief of Engineers can and should be utilized for the benefit of local public bodies in the development of projects which yield 90 per centum or more of the benefits of the project are attributable to hydroelectric power generation when the project is fully operational.
 
 #### (b) Establishment of fund; composition
 
@@ -18,7 +18,7 @@ There is authorized to be appropriated to the Secretary for deposit in the fund 
 
 (1) If the Secretary determines that moneys in the fund are in excess of current needs, he may request the investment of such amounts as he deems advisable by the Secretary of the Treasury in direct, general obligations of, or obligations guaranteed as to both principal and interest by, the United States.
 
-(2) With the approval of the Secretary of the Treasury, the Secretary may deposit moneys of the fund in any Federal Reserve bank or other depository for funds of the United States, or in such other banks and financial institutions and under such terms and conditions as the Secretary and the Secretary of the Treasury may mutually agree.
+(2) With the approval of the Secretary of the Treasury, the Secretary may deposit moneys of the fund in any Federal Reserve bank or other depository for funds of the United States, or in such other banks and financial institutions andunder such terms and conditions as the Secretary and the Secretary of the Treasury may mutually agree.
 
 #### (e) Expenditures for phase I design memorandum stage of advanced engineering and design; withholding of favorable report to Congress prior to repayment; expenditures from non-Federal funds
 
@@ -32,7 +32,7 @@ In connection with water resources development projects which meet the criteria 
 
 (1) Prior to initiating any construction work under the authorities of this section, the Secretary and the appropriate non-Federal public authorities shall agree in writing, and submit such agreement to the Committees on Environment and Public Works and on Appropriations of the Senate and the Committees on Public Works and Transportation and on Appropriations of the House of Representatives for review and reporting to the Congress for its consideration and approval that the appropriate non-Federal public authorities will pay the full anticipated costs of constructing the project at the time such costs are incurred, together with normal contingencies and related administrative expenses of the Secretary, and such payments shall be deposited in the fund or held by the Secretary for payment of obligations incurred by the Secretary on an authorized project under this section. The agreement shall provide for an initial determination of feasibility and compliance by the project with law. The total non-Federal obligation shall be paid on or prior to the date the Chief of Engineers has estimated by agreement, that the project concerned will be available for actual generation of all or a substantial portion of the authorized hydroelectric power of the project.
 
-(2) In consideration of the obligations to be assumed by non-Federal public authorities under the provisions of this section and in recognition of the substantial investments which will be made by these authorities in reliance on the program established by this section, the United States shall assume the responsibility for paying for all costs over those fixed in the agreement with the non-Federal public authorities, if such costs are occasioned by acts of God, failure on the part of the Secretary, acting through the Chief of Engineers, to adhere to the agreedschedule of work or a failure of design: <i>Provided</i>, That payments by the Secretary of such costs shall be subject to appropriations acts.
+(2) In consideration of the obligations to be assumed by non-Federal public authorities under the provisions of this section and in recognition of the substantial investments which will be made by these authorities in reliance on the program established by this section, the United States shall assume the responsibility for paying for all costs over those fixed in the agreement with the non-Federal public authorities, if such costs are occasioned by acts of God, failure on the part of the Secretary, acting through the Chief of Engineers, to adhere to the agreed schedule of work or a failure of design: <i>Provided</i>, That payments by the Secretary of such costs shall be subject to appropriations acts.
 
 #### (h) Conveyance of title, rights, and interests of United States; Federal requirements, reservations, and provisions
 

@@ -84,7 +84,7 @@ No funds provided directly to institutions or organizations to provide services 
 
 #### (k) Preemption
 
-Nothing in this section shall be construed to preempt any provision of a State constitution orState statute that prohibits or restricts the expenditure of State funds in or by religious organizations.
+Nothing in this section shall be construed to preempt any provision of a State constitution or State statute that prohibits or restricts the expenditure of State funds in or by religious organizations.
 
 (Pub. L. 104–193, title I, §104, Aug. 22, 1996, 110 Stat. 2161.)
 

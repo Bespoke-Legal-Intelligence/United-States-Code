@@ -64,7 +64,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;&emsp;(ii) collaborate with parents and school staff and the local educational agency serving the school in the design, implementation, and monitoring of a plan that, if fully implemented, can reasonably be expected to improve student performance and help the school meet its goals for improvement, including adequate yearly progress under section 6311(b)(2)(B) of this title;
 
-&emsp;&emsp;&emsp;(iii) evaluate, at least semiannually, the effectiveness of school personnel assigned to the school, including identifying outstanding teachers and principals, andmake findings and recommendations to the school, the local educational agency, and, where appropriate, the State educational agency; and
+&emsp;&emsp;&emsp;(iii) evaluate, at least semiannually, the effectiveness of school personnel assigned to the school, including identifying outstanding teachers and principals, and make findings and recommendations to the school, the local educational agency, and, where appropriate, the State educational agency; and
 
 &emsp;&emsp;&emsp;(iv) make additional recommendations as the school implements the plan described in clause (ii) to the local educational agency and the State educational agency concerning additional assistance that is needed by the school or the school support team.
 
@@ -108,7 +108,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;(A) shall use funds reserved under section 6303(a) of this title and may use funds made available under section 6303(g) of this title for the approaches described under subsection (a)(4)(A) of this section; and
 
-&emsp;&emsp;(B) shall use State administrative funds authorized under section 6304(a) of this title to establish the statewide system of support described under subsection (a) of this section.
+&emsp;&emsp;(B) shall use State administrative funds authorized under section 6304(a) of this title to establish the statewide system of supportdescribed under subsection (a) of this section.
 
 #### (2) Reservations of funds by State
 

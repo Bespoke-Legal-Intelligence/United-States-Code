@@ -18,7 +18,7 @@ Requirement for Annual Report.—Not later than February 1 of each year, the Sec
 
 &emsp;(3) A description of the extent of the international participation in the programs of the center, including the costs incurred by the United States for the participation of each foreign nation.
 
-&emsp;(4) A description of the foreign gifts and donations, if any, accepted under any of the following provisions of law:
+&emsp;(4) A description of the gifts and donations, if any, accepted under any of the following provisions of law:
 
 &emsp;&emsp;(A) Section 2611 of this title.
 
@@ -34,13 +34,15 @@ Regional Center for Security Studies Defined.—For the purposes of this section
 
 &emsp;(2) serves as a forum for bilateral and multilateral communication and military and civilian exchanges with nations in that region.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228;amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, §931(b)(2), Nov. 24, 2003, 117 Stat. 1581.)
 
 #### References in Text
 
 Section 1306 of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (b)(4)(B), is section 1306 of Pub. L. 103–337, div. A, title XIII, Oct. 5, 1994, 108 Stat. 2892, which is not classified to the Code.
 
 #### Amendments
+
+2003—Subsec. (b)(4). Pub. L. 108–136 struck out “foreign” before “gifts”.
 
 2001—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,” in introductory provisions.
 

@@ -10,7 +10,7 @@ Right to Bring a Civil Action.—
 
 &emsp;(1)
 
-In general.—Every person that has furnished labor or material in carrying out work provided for in a contract for which a payment bond is furnished under section 3131 of this title and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute theaction to final execution and judgment for the amount due.
+In general.—Every person that has furnished labor or material in carrying out work provided for in a contract for which a payment bond is furnished under section 3131 of this title and that has not been paid in full within 90 days after the day on which the person did or performed the last of the labor or furnished or supplied the material for which the claim is made may bring a civil action on the payment bond for the amount unpaid at the time the civil action is brought and may prosecute the action to final execution and judgment for the amount due.
 
 &emsp;(2)
 

@@ -10,7 +10,7 @@ In General—In a matter related to a pipeline carrier providing transportation 
 
 (b)
 
-Initiation of Proceeding.—The Board may, where appropriate, begin a proceeding under this section on its own initiative or an interested party.
+Initiation of Proceeding.—The Board may, where appropriate, begin a proceedingunder this section on its own initiative or an interested party.
 
 (c)
 

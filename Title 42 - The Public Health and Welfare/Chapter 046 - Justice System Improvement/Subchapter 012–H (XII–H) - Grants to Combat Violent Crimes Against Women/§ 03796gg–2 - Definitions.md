@@ -12,7 +12,7 @@ In this subchapter—
 
 &emsp;(5) the term “prosecution” means any public agency charged with direct responsibility for prosecuting criminal offenders, including such agency's component bureaus (such as governmental victim services programs);
 
-&emsp;(6) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18,whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim;
+&emsp;(6) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim;
 
 &emsp;(7) the term “underserved populations” includes populations underserved because of geographic location (such as rural isolation), underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the State planning process in consultation with the Attorney General;
 
@@ -56,5 +56,5 @@ Pub. L. 106–386, div. B, §1002, Oct. 28, 2000, 114 Stat. 1491, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3002, 3796gg–6, 10420, 13971, 13992, 14041, 14042 of this title; title 20 section 7275.
+This section is referred to in sections 3002, 3796gg–6, 10402, 10420, 13971, 13992, 14041, 14042 of this title; title 20 section 7275.
 

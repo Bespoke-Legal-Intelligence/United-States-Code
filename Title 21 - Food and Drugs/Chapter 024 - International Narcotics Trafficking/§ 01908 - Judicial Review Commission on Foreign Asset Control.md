@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the “Judicial Review Commission onForeign Asset Control” (in this section referred to as the “Commission”).
+There is established a commission to be known as the “Judicial Review Commission on Foreign Asset Control” (in this section referred to as the “Commission”).
 
 #### (b) Membership and procedural matters
 
@@ -36,7 +36,7 @@ The Commission shall have as its duties the following:
 
 (1) The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this section.
 
-(2) The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this section. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the chairman of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
+(2) The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this section. Each such department, agency, bureau, board, commission,office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the chairman of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
 
 (3) The Attorney General and the Secretary of the Treasury shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, facilities, and other support services as are necessary for the performance of the Commission's duties under this section.
 

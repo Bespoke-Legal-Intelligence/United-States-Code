@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) for the purpose of obtaining a right of setoff against the debtor.
 
-(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(14),<sup>1</sup> 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days before the date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
+(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(14),<sup>1</sup> 365(h), 546(h), or 365(i)(2) of this title,if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days before the date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
 
 &emsp;(A) 90 days before the date of the filing of the petition; and
 
@@ -30,7 +30,7 @@
 
 (c) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §§395, 467, July 10, 1984, 98 Stat.365, 380; Pub. L. 101–311, title I, §105, June 25, 1990, 104 Stat. 268; Pub. L. 103–394, title II, §§205(b), 222(b), title V, §501(d)(19), Oct. 22, 1994, 108 Stat. 4123, 4129, 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §§395, 467, July 10, 1984, 98 Stat. 365, 380; Pub. L. 101–311, title I, §105, June 25, 1990, 104 Stat. 268; Pub. L. 103–394, title II, §§205(b), 222(b), title V, §501(d)(19), Oct. 22, 1994, 108 Stat. 4123, 4129, 4146.)
 
 #### Historical and Revision Notes
 

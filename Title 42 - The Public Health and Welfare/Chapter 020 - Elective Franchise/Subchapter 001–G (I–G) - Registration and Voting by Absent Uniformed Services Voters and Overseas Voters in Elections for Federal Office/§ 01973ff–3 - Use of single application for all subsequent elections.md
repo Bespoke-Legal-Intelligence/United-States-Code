@@ -10,7 +10,7 @@ Subsection (a) of this section shall not apply with respect to a voter registere
 
 #### (c) Revision of official post card form
 
-The Presidential designee shall revise the official post card form (prescribed under section 1973ff of this title) to enable a voter using the form to—
+The Presidential designee shall revise the official post card form (prescribed under section1973ff of this title) to enable a voter using the form to—
 
 &emsp;(1) request an absentee ballot for each election for Federal office held in a State during a year; or
 

@@ -28,7 +28,7 @@ To fulfill the data gathering and dissemination duties of the Administration und
 
 &emsp;(2) may enter into contracts and other agreements with qualified entities, consistent with subsection (a)(8) of this section, for the acquisition of hydrographic data and the provision of hydrographic services;
 
-&emsp;(3) shall award contracts for the acquisition of hydrographic data in accordance with title IX of the Federal Property and Administrative Services Act of 1949;<sup>1</sup> and
+&emsp;(3) shall award contracts for the acquisition of hydrographic data in accordance with title IX of the Federal Property and Administrative Services Act of 1949; <sup>1</sup> and
 
 &emsp;(4) shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems to enhance navigation safety and efficiency.
 

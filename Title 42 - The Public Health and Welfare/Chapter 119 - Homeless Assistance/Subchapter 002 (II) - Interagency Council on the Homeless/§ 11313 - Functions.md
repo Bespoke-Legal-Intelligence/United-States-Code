@@ -28,7 +28,7 @@ The Council shall—
 
 &emsp;(6) prepare the annual reports required in subsection (c)(2) of this section; and
 
-&emsp;(7) prepare and distribute to States (including State contact persons), local governments,and other public and private nonprofit organizations, a bimonthly bulletin that describes the Federal resources available to them to assist the homeless, including current information regarding application deadlines and appropriate persons to contact in each Federal agency providing the resources.
+&emsp;(7) prepare and distribute to States (including State contact persons), local governments, and other public and private nonprofit organizations, a bimonthly bulletin that describes the Federal resources available to them to assist the homeless, including current information regarding application deadlines and appropriate persons to contact in each Federal agency providing the resources.
 
 #### (b) Authority
 

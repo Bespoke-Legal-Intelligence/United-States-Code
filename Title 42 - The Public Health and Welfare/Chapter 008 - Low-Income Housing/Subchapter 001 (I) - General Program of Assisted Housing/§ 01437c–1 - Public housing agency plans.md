@@ -198,7 +198,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretarymay require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
 
 #### (g) Amendments and modifications to plans
 
@@ -266,7 +266,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;The Secretary may require, for each public housing agency that is at risk of being designated as troubled under section 1437d(j)(2) of this title or is designated as troubled under section 1437d(j)(2) of this title, that the public housing agency plan for such agency include such additional information as the Secretary determines to be appropriate, in accordance with such standards as the Secretary may establish or in accordance with such determinations as the Secretary may make on an agency-by-agency basis.
+&emsp;The Secretary may require, for each public housing agency that is at risk of being designated as troubled under section 1437d(j)(2) of this title or is designated as troubled under section 1437d(j)(2) of this title, that the public housing agency plan for such agency includesuch additional information as the Secretary determines to be appropriate, in accordance with such standards as the Secretary may establish or in accordance with such determinations as the Secretary may make on an agency-by-agency basis.
 
 #### (2) Troubled agencies
 

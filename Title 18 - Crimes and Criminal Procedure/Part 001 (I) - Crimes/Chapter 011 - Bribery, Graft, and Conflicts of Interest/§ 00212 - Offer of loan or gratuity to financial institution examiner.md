@@ -1,0 +1,74 @@
+### §212. Offer of loan or gratuity to financial institution examiner
+
+(a)
+
+In General.—Except as provided in subsection (b), whoever, being an officer, director, or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
+
+&emsp;(1) shall be fined under this title, imprisoned not more than 1 year, or both; and
+
+&emsp;(2) may be fined a further sum equal to the money so loaned or gratuity given.
+
+(b)
+
+Regulations.—A Federal financial institution regulatory agency may prescribe regulations establishing additional limitations on the application for and receipt of credit under this section and on the application and receipt of residential mortgage loans under this section, after consulting with each other Federal financial institution regulatory agency.
+
+(c)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Examiner.—The term “examiner” means any person—
+
+&emsp;&emsp;(A) appointed by a Federal financial institution regulatory agency or pursuant to the laws of any State to examine a financial institution; or
+
+&emsp;&emsp;(B) elected under the law of any State to conduct examinations of any financial institutions.
+
+&emsp;(2)
+
+Federal financial institution regulatory agency.—The term “Federal financial institution regulatory agency” means—
+
+&emsp;&emsp;(A) the Office of the Comptroller of the Currency;
+
+&emsp;&emsp;(B) the Board of Governors of the Federal Reserve System;
+
+&emsp;&emsp;(C) the Office of Thrift Supervision;
+
+&emsp;&emsp;(D) the Federal Deposit Insurance Corporation;
+
+&emsp;&emsp;(E) the Federal Housing Finance Board;
+
+&emsp;&emsp;(F) the Farm Credit Administration;
+
+&emsp;&emsp;(G) the Farm Credit System Insurance Corporation; and
+
+&emsp;&emsp;(H) the Small Business Administration.
+
+&emsp;(3)
+
+Financial institution.—The term “financial institution” does not include a credit union, a Federal Reserve Bank, a Federal home loan bank, or a depository institution holding company.
+
+&emsp;(4)
+
+Loan.—The term “loan” does not include any credit card account established under an open end consumer credit plan or a loan secured by residential real property that is the principal residence of the examiner, if—
+
+&emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
+
+&emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstances under open end consumer credit plans or for residential real property loans; and
+
+&emsp;&emsp;(C) with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
+
+(Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899.)
+
+#### Prior Provisions
+
+A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, §212, formerly §217; Pub. L. 85–699, title VII, §701(a), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; renumbered §212, Pub. L. 87–849, §1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, §962(a)(1), Aug. 9, 1989, 103 Stat. 501; Pub. L. 101–647, title XXV, §2597(b), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 103–322, title XXXIII, §§330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2899.
+
+Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer or threat to a customs officer or employee, prior to the general amendment to this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 213 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+

@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 91–387, §1, extended term for making fisheries loans, su
 
 Subsec. (b). Pub. L. 89–85, §§2, 3, substituted in par. (1) provision respecting determination of interest rate taking into consideration average market yield on outstanding Treasury obligations of comparable maturity plus additional charge toward coverage of other costs of program for former provision prescribing an interest rate of not less than 3 per centum per annum and added pars. (4) to (8), respectively.
 
-Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formula for determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
+Subsec. (c). Pub. L. 89–85, §4, extended term for making fisheries loans from June 30, 1965, to June 30, 1970, required Secretary to pay at end of each fiscal year into miscellaneous receipts of the Treasury interest on cumulative amount of appropriations available as capital to fund after July 1, 1965, less average undispersed cash balance in fund during the year, provided formulafor determination of rate of interest, and authorized deferral of interest payments but with payment of interest on deferred payments.
 
 1964—Subsec. (e). Pub. L. 88–309 added subsec. (e).
 

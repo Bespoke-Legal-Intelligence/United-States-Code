@@ -36,7 +36,7 @@ The Director of the Center shall—
 
 &emsp;(12) provide technical assistance to public and private entities that are providers of mental health services;
 
-&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental HealthCenters Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
+&emsp;(13) monitor and enforce obligations incurred by community mental health centers pursuant to the Community Mental Health Centers Act (as in effect prior to the repeal of such Act on August 13, 1981, by section 902(e)(2)(B) of Public Law 97–35 (95 Stat. 560));
 
 &emsp;(14) conduct surveys with respect to mental health, such as the National Reporting Program; and
 
@@ -80,59 +80,9 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
 
-#### Ex. Ord. No. 13263. President's New Freedom Commission on Mental Health
+#### Executive Order No. 13263
 
-Ex. Ord. No. 13263, Apr. 29, 2002, 67 F.R. 22337, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and to improve America's mental health service delivery system for individuals with serious mental illness and children with serious emotional disturbances, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is hereby established the President's New Freedom Commission on Mental Health (Commission).
-
-Sec. 2. <i>Membership</i>. (a) The Commission's membership shall be composed of:
-
-&emsp;(i) Not more than fifteen members appointed by the President, including providers, payers, administrators, and consumers of mental health services and family members of consumers; and
-
-&emsp;(ii) Not more than seven ex officio members, four of whom shall be designated by the Secretary of Health and Human Services, and the remaining three of whom shall be designated—one each—by the Secretaries of the Departments of Labor, Education, and Veterans Affairs.
-
-(b) The President shall designate a Chair from among the fifteen members of the Commission appointed by the President.
-
-Sec. 3. <i>Mission</i>. The mission of the Commission shall be to conduct a comprehensive study of the United States mental health service delivery system, including public and private sector providers, and to advise the President on methods of improving the system. The Commission's goal shall be to recommend improvements to enable adults with serious mental illness and children with serious emotional disturbances to live, work, learn, and participate fully in their communities. In carrying out its mission, the Commission shall, at a minimum:
-
-(a) Review the current quality and effectiveness of public and private providers and Federal, State, and local government involvement in the delivery of services to individuals with serious mental illnesses and children with serious emotional disturbances, and identify unmet needs and barriers to services.
-
-(b) Identify innovative mental health treatments, services, and technologies that are demonstrably effective and can be widely replicated in different settings.
-
-(c) Formulate policy options that could be implemented by public and private providers, and Federal, State, and local governments to integrate the use of effective treatments and services, improve coordination among service providers, and improve community integration for adults with serious mental illnesses and children with serious emotional disturbances.
-
-Sec. 4. <i>Principles</i>. In conducting its mission, the Commission shall adhere to the following principles:
-
-(a) The Commission shall focus on the desired outcomes of mental health care, which are to attain each individual's maximum level of employment, self-care,interpersonal relationships, and community participation;
-
-(b) The Commission shall focus on community-level models of care that efficiently coordinate the multiple health and human service providers and public and private payers involved in mental health treatment and delivery of services;
-
-(c) The Commission shall focus on those policies that maximize the utility of existing resources by increasing cost effectiveness and reducing unnecessary and burdensome regulatory barriers;
-
-(d) The Commission shall consider how mental health research findings can be used most effectively to influence the delivery of services; and
-
-(e) The Commission shall follow the principles of Federalism, and ensure that its recommendations promote innovation, flexibility, and accountability at all levels of government and respect the constitutional role of the States and Indian tribes.
-
-Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services, to the extent permitted by law, shall provide funding and administrative support for the Commission.
-
-(b) To the extent funds are available and as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), members of the Commission appointed from among private citizens of the United States may be allowed travel expenses while engaged in the work of the Commission, including per diem in lieu of subsistence. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
-
-(c) The Commission shall have a staff headed by an Executive Director, who shall be selected by the President. To the extent permitted by law, office space, analytical support, and additional staff support for the Commission shall be provided by executive branch departments and agencies.
-
-(d) Insofar as the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], may apply to the Commission, any functions of the President under that Act, except for those in section 6 of that Act, shall be performed by the Department of Health and Human Services, in accordance with the guidelines that have been issued by the Administrator of General Services.
-
-Sec. 6. <i>Reports</i>. The Commission shall submit reports to the President as follows:
-
-(a) <i>Interim Report</i>. Within 6 months from the date of this order, an interim report shall describe the extent of unmet needs and barriers to care within the mental health system and provide examples of community-based care models with success in coordination of services and providing desired outcomes.
-
-(b) <i>Final Report</i>. The final report will set forth the Commission's recommendations, in accordance with its mission as stated in section 3 of this order. The submission date shall be determined by the Chair in consultation with the President.
-
-Sec. 7. <i>Termination</i>. The Commission shall terminate 1 year from the date of this order, unless extended by the President prior to that date.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13263, Apr. 29, 2002, 67 F.R. 22337, which established President's New Freedom Commission on Mental Health, was revoked by Ex. Ord. No. 13316, §3(g), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

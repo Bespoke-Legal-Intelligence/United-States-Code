@@ -4,7 +4,7 @@ Section, added Pub. L. 100–700, §3(a), Nov. 19, 1988, 102 Stat. 4632, related
 
 #### Effective Date of Repeal
 
-Section 3(b) of Pub. L. 101–123 provided that: “The repeal made by this section \[repealing this section and provisions formerly set out as a note below\] shall be deemed to be effective on the date of enactment of Public Law 100–700 \[Nov. 19, 1988\].”
+Section 3(b) of Pub. L. 101–123 provided that: “The repeal made by this section \[repealing this section andprovisions formerly set out as a note below\] shall be deemed to be effective on the date of enactment of Public Law 100–700 \[Nov. 19, 1988\].”
 
 #### Effective Date
 

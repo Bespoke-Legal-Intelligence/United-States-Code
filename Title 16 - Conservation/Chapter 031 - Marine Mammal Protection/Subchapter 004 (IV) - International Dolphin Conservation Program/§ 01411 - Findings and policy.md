@@ -34,7 +34,7 @@ Another section 301 of Pub. L. 92–522 was renumbered section 401 and is classi
 
 #### Amendments
 
-1997—Subsec. (a)(4). Pub. L. 105–42, §6(b)(1), added par. (4) and struck out former par. (4) which read as follows: “Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have indicated their willingness to participate in appropriate multilateral agreements toreduce, and eventually eliminate, dolphin mortality in that fishery.”
+1997—Subsec. (a)(4). Pub. L. 105–42, §6(b)(1), added par. (4) and struck out former par. (4) which read as follows: “Nations harvesting yellowfin tuna in the eastern tropical Pacific Ocean have indicated their willingness to participate in appropriate multilateral agreements to reduce, and eventually eliminate, dolphin mortality in that fishery.”
 
 Subsec. (b)(2), (3). Pub. L. 105–42, §6(b)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 

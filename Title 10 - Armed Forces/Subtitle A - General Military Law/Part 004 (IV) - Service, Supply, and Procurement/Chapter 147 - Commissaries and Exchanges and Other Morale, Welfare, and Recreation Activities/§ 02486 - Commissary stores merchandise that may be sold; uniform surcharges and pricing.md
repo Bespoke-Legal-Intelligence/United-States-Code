@@ -30,11 +30,7 @@ Authorized Commissary Merchandise Categories.—Merchandise sold in, at, or by c
 
 &emsp;(11) Magazines and other periodicals.
 
-&emsp;(12) Such other merchandise categories as the Secretary of Defense may prescribe, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
-
-&emsp;&emsp;(A) any addition of, or change in, a merchandise category proposed to be made under this paragraph during the one-year period beginning on that date; and
-
-&emsp;&emsp;(B) those additions and changes in merchandise categories actually made during the preceding one-year period.
+&emsp;(12) Such other merchandise categories as the Secretary of Defense may prescribe, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.
 
 (c)
 
@@ -78,9 +74,15 @@ Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a cha
 
 (5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60; Pub. L. 107–314, div. A, title X, §1041(a)(14), Dec. 2, 2002, 116 Stat. 2645.)
 
 #### Amendments
+
+2002—Subsec. (b)(12). Pub. L. 107–314 substituted “, except that the Secretary shall notify Congress of any addition of, or change in, a merchandise category under this paragraph.” for “, except that the Secretary shall submit to Congress, not later than March 1 of each year, a report describing—
+
+&emsp;“(A) any addition of, or change in, a merchandise category proposed to be made under this paragraph during the one-year period beginning on that date; and
+
+&emsp;“(B) those additions and changes in merchandise categories actually made during the preceding one-year period.”
 
 2000—Subsec. (b)(11), (12). Pub. L. 106–398, §1 \[\[div. A\], title III, §334(a)\], added par. (11) and redesignated former par. (11) as (12).
 

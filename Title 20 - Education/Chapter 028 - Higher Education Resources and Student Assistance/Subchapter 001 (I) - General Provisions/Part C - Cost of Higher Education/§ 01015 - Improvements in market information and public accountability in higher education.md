@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) cost of attendance for a full-time undergraduate student, consistent with the provisions of section 1087<i>ll</i> of this title;
 
-&emsp;&emsp;&emsp;(iii) average amount of financial assistance received by an undergraduate student who attends an institution of higher education, including—
+&emsp;&emsp;&emsp;(iii) average amount of financial assistance received by an undergraduate studentwho attends an institution of higher education, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) each type of assistance or benefit described in section 1078(a)(2)(C)(i) <sup>1</sup> of this title;
 
@@ -74,7 +74,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### (4) Higher education market basket
 
-&emsp;The Bureau of Labor Statistics, in consultation with the Commissioner of Education Statistics, shall develop a higher education market basket that identifies the items that comprise the costs of higher education. The Bureau of Labor Statistics shall provide a report on the market basket to the Committee on Labor and Human Resources of the Senate andthe Committee on Education and the Workforce of the House of Representatives not later than September 30, 2002.
+&emsp;The Bureau of Labor Statistics, in consultation with the Commissioner of Education Statistics, shall develop a higher education market basket that identifies the items that comprise the costs of higher education. The Bureau of Labor Statistics shall provide a report on the market basket to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than September 30, 2002.
 
 #### (5) Fines
 
@@ -100,7 +100,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### References in Text
 
-Section 1078(a)(2)(C) of this title, referred to in subsec. (a)(3)(A)(iii)(I), was amended generally by Pub. L. 105–244, title IV, §417(a)(1)(C), Oct. 7, 1998, 112 Stat. 1682, and, as so amended, provisions formerly appearing in cl. (i) are now contained in cl. (ii).
+Section 1078(a)(2)(C) of this title, referred to in subsec. (a)(3)(A)(iii)(I), was amended generally by Pub. L.105–244, title IV, §417(a)(1)(C), Oct. 7, 1998, 112 Stat. 1682, and, as so amended, provisions formerly appearing in cl. (i) are now contained in cl. (ii).
 
 #### Prior Provisions
 

@@ -10,7 +10,7 @@ For each contract, the payment quantity of a contract commodity for each fiscal 
 
 #### (b) Annual payment quantity of contract commodities
 
-The payment quantity of each contract commodity covered by all contracts for each fiscalyear shall be equal to the sum of the amounts calculated under subsection (a) of this section for each individual contract.
+The payment quantity of each contract commodity covered by all contracts for each fiscal year shall be equal to the sum of the amounts calculated under subsection (a) of this section for each individual contract.
 
 #### (c) Annual payment rate
 

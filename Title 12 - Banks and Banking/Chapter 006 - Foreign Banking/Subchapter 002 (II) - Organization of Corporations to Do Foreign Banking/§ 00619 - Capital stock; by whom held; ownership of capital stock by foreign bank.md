@@ -20,7 +20,7 @@ Section is comprised of a part of section 25A, formerly section 25(a), which was
 
 #### Amendments
 
-1987—Pub. L. 100–86 inserted provisions which related to any company, other than bank as defined in section 2 of Bank Holding Company Act of 1956, that after Mar. 5, 1987, directly or indirectly acquires control of corporation organized or operating under provisions of this subchapter or subchapter I of this chapter to be subject to provisions of Bank Holding Company Act of 1956 in same manner and to same extent that bank holding companies are subject thereto, except that such company shall not by reason of this paragraph be deemed bank holding company for purpose of section 3 of such Act.
+1987—Pub. L. 100–86 inserted provisions which related to any company, other than bank as defined in section 2 of Bank Holding Company Act of 1956, that after Mar. 5, 1987, directly or indirectly acquires control of corporation organized or operating under provisions of this subchapter or subchapter I of this chapter to be subject to provisions of Bank Holding Company Act of1956 in same manner and to same extent that bank holding companies are subject thereto, except that such company shall not by reason of this paragraph be deemed bank holding company for purpose of section 3 of such Act.
 
 1978—Pub. L. 95–369 inserted “Except as otherwise provided in this subchapter” before “a majority of the shares”, and inserted provision relating to the ownership of 50 per centum of the shares of capital stock by a foreign bank with prior approval of the Board of Governors of the Federal Reserve System.
 

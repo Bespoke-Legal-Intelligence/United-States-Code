@@ -104,7 +104,7 @@ The benchmark benefit packages are as follows:
 
 #### (5) Construction on prohibited coverage
 
-&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for itemsor services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
 
 #### (d) Description of existing comprehensive State-based coverage
 
@@ -174,7 +174,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Group health plans and group health insurance coverage
 
-&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contractwith, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
+&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
 
 #### (2) Compliance with other requirements
 
@@ -184,7 +184,7 @@ The benchmark benefit packages are as follows:
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7\(§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act is classified generally to subpart 2 (§300gg–4 et seq.) of part A of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

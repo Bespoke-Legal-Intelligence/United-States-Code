@@ -56,7 +56,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance underthe National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Director or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -96,7 +96,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (C) Effect of failure to respond
 
-&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Director fails to provide a letter under subparagraph (A) before the laterof (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>1</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
+&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Director fails to provide a letter under subparagraph (A) before the later of (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>1</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
 
 #### (4) Applicability
 
@@ -176,7 +176,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (h) Fee for determining location
 
-Notwithstanding any other Federal or State law, any person who makes a loan secured byimproved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether the building or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
+Notwithstanding any other Federal or State law, any person who makes a loan secured by improved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether the building or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
 
 #### (1) Borrower fee
 
@@ -184,7 +184,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;&emsp;(A) is made pursuant to the making, increasing, extending, or renewing of the loan that is initiated by the borrower;
 
-&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>2</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>2</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
+&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>2</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-riskzones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>2</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Director, may reasonably be considered to require a determination under this subsection; or
 
 &emsp;&emsp;(C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2) of this section.
 

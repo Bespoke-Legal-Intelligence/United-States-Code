@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-There is established in the Treasury of the United States a Fisheries Promotional Fund. The Fund shall be available, to the extent provided for in appropriation Acts, for the purpose of making payments to carry out the annual marketing and promotion plan and annual budget of the National Council under this chapter.
+There is established in the Treasury of the United States a Fisheries Promotional Fund.The Fund shall be available, to the extent provided for in appropriation Acts, for the purpose of making payments to carry out the annual marketing and promotion plan and annual budget of the National Council under this chapter.
 
 #### (b) Deposits
 
@@ -16,7 +16,7 @@ There shall be deposited in the Fund—
 
 #### (c) Deposits and investments
 
-Sums in the Fund that are not currently needed for the purposes of the Fund shall be kept ondeposit in appropriate interest-bearing accounts that shall be established by the Secretary of the Treasury, or invested in obligations of, or guaranteed by, the United States. Any revenue accruing from such deposits and investments shall be deposited in the Fund.
+Sums in the Fund that are not currently needed for the purposes of the Fund shall be kept on deposit in appropriate interest-bearing accounts that shall be established by the Secretary of the Treasury, or invested in obligations of, or guaranteed by, the United States. Any revenue accruing from such deposits and investments shall be deposited in the Fund.
 
 #### (d) Authorization
 

@@ -12,7 +12,7 @@ Any servicer, mortgagee, or mortgage insurer that violates a provision of this c
 
 &emsp;&emsp;(B) in the case of a class action—
 
-&emsp;&emsp;&emsp;(i) in which the liable party is subject to section 4909 of this title, such amount as the court may allow, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the net worth of the liable party, as determined by the court; and
+&emsp;&emsp;&emsp;(i) in which the liable party is subject to section 4909 of this title, such amount as the court may allow, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the net worth of theliable party, as determined by the court; and
 
 &emsp;&emsp;&emsp;(ii) in which the liable party is not subject to section 4909 of this title, such amount as the court may allow, not to exceed $1,000 as to each member of the class, except that the total recovery under this subparagraph in any class action or series of class actions arising out of the same violation by the same liable party shall not exceed the lesser of $500,000 or 1 percent of the gross revenues of the liable party, as determined by the court;
 

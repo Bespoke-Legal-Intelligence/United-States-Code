@@ -60,7 +60,7 @@ For the purpose of this section, the term “average per pupil expenditure”, u
 
 #### (2) Special rule
 
-&emsp;Any school described in paragraph (1)(A) that wishes to receive an allocation under this subpart shall submit an application in accordance with section 7424 of this title, and shall otherwise be treated as a local educational agency for the purpose of this subpart, except that such school shall not be subject to section 7424(c)(4) of this title, section 7428(c) of this title, or section 7429 of this title.
+&emsp;Any school described in paragraph (1)(A) that wishes to receive an allocation under thissubpart shall submit an application in accordance with section 7424 of this title, and shall otherwise be treated as a local educational agency for the purpose of this subpart, except that such school shall not be subject to section 7424(c)(4) of this title, section 7428(c) of this title, or section 7429 of this title.
 
 #### (e) Ratable reductions
 

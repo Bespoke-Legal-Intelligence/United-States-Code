@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (2) Ruling amount
 
-&emsp;The term “ruling amount” means, with respect to any taxable year, the amount whichthe Secretary determines under paragraph (1) to be necessary to—
+&emsp;The term “ruling amount” means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
 
 &emsp;&emsp;(A) fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and
 
@@ -122,7 +122,7 @@ For purposes of this section, a taxpayer shall be deemed to have made a payment 
 
 1996—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
 
-1992—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specifiedin section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
+1992—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
 
 Subsec. (e)(2)(B) to (D). Pub. L. 102–486, §1917(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
@@ -166,7 +166,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending this section\
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, towhich such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

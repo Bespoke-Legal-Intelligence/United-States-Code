@@ -18,5 +18,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Permanent Structures in Above-Described Area; Approval of Plans
 
-Section 2 of Pub. L. 92–605 provided that: “This declaration \[this section\] shall apply only to portions of the above-described area which are filled or occupied by permanent structures. No such filling or erection of structures in the above-described area shall be commenced until the plans therefor have been approved bythe Secretary of the Army who shall, prior to granting such approval, give consideration to all factors affecting the general public interest and the impact of the proposed work on the environment.”
+Section 2 of Pub. L. 92–605 provided that: “This declaration \[this section\] shall apply only to portions of the above-described area which are filled or occupied by permanent structures. No such filling or erection of structures in the above-described area shall be commenced until the plans therefor have been approved by the Secretary of the Army who shall, prior to granting such approval, give consideration to all factors affecting the general public interest and the impact of the proposed work on the environment.”
 

@@ -1,6 +1,6 @@
 ### §708. Educational leave of absence
 
-(a) Under such regulations as the Secretary of Defense may prescribe after consultation with the Secretary of Transportation and subject to subsection (b), the Secretary concerned may grant to any eligible member (as defined in subsection (e)) a leave of absence for a period of not to exceed two years for the purpose of permitting the member to pursue a program of education.
+(a) Under such regulations as the Secretary of Defense may prescribe after consultation with the Secretary of Homeland Security and subject to subsection (b), the Secretary concerned may grant to any eligible member (as defined in subsection (e)) a leave of absence for a period of not to exceed two years for the purpose of permitting the member to pursue a program of education.
 
 (b)(1) A member may not be granted a leave of absence under this section unless—
 
@@ -24,9 +24,11 @@
 
 &emsp;(2) in the case of an officer, has completed the officer's initial period of obligated service on active duty.
 
-(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782.)
+(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1997—Subsec. (c)(1). Pub. L. 105–85 substituted “basic allowance for housing under section 403 of title 37, basic allowance for subsistence under section 402 of such title,” for “basic allowance for quarters or basic allowance for subsistence”.
 
@@ -35,6 +37,10 @@
 1987—Subsec. (d)(1). Pub. L. 100–26, §7(i)(2), substituted “October 19, 1984” for “the date of the enactment of this section”.
 
 Subsec. (e). Pub. L. 100–26, §7(k)(3), inserted “the term” after “In this section,”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1997 Amendment
 

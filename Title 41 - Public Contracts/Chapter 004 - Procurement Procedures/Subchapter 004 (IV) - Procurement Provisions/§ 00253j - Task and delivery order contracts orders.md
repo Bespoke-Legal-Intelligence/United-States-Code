@@ -30,7 +30,7 @@ A protest is not authorized in connection with the issuance or proposed issuance
 
 #### (e) Task and delivery order ombudsman
 
-The head of each executive agency who awards multiple task or delivery order contracts pursuant to section 253h(d)(1)(B) or 253i(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b) of this section. The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's competition advocate.
+The head of each executive agency who awards multiple task or delivery order contracts pursuant to section 253h(d)(1)(B) or 253i(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible forreviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b) of this section. The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency's competition advocate.
 
 #### (f) Applicability
 
@@ -48,5 +48,5 @@ Section not to be construed as modifying or superseding, or as intended to impai
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253h, 253i, 253k of this title; title 6 section 426.
+This section is referred to in sections 253h, 253i, 253k of this title; title 6 section 426; title 10 section 2382.
 

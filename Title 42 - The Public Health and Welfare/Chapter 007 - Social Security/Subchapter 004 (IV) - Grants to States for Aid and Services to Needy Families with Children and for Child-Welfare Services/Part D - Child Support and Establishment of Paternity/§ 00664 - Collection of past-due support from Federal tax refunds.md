@@ -18,7 +18,7 @@
 
 #### (b) Regulations; contents, etc.
 
-(1) The Secretary of the Treasury shall issue regulations, approved by the Secretary of Health and Human Services, prescribing the time or times at which States must submit notices of past-due support, the manner in which such notices must be submitted, and the necessary information that must be contained in or accompany the notices. The regulations shall be consistent with the provisions of subsection (a)(3) of this section, shall specify the minimum amount of past-due support to which the offset procedure established by subsection (a) of this section may be applied, and the fee that a State must pay to reimburse the Secretary of the Treasury for the full cost of applying the offset procedure, and shall provide that the Secretary of the Treasury will advise the Secretary of Health and Human Services, not less frequently than annually, of the States which have furnished notices of past-due support under subsection (a) of this section, the number of cases in each State with respect to which such notices have been furnished, the amount of support sought to be collected under this subsection by each State, and the amount of such collections actually made in the case of each State. Any fee paid to the Secretary of the Treasury pursuant to this subsection may be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
+(1) The Secretary of the Treasury shall issue regulations, approved by the Secretary of Health and Human Services, prescribing the time or times at which States must submit notices of past-due support, the manner in whichsuch notices must be submitted, and the necessary information that must be contained in or accompany the notices. The regulations shall be consistent with the provisions of subsection (a)(3) of this section, shall specify the minimum amount of past-due support to which the offset procedure established by subsection (a) of this section may be applied, and the fee that a State must pay to reimburse the Secretary of the Treasury for the full cost of applying the offset procedure, and shall provide that the Secretary of the Treasury will advise the Secretary of Health and Human Services, not less frequently than annually, of the States which have furnished notices of past-due support under subsection (a) of this section, the number of cases in each State with respect to which such notices have been furnished, the amount of support sought to be collected under this subsection by each State, and the amount of such collections actually made in the case of each State. Any fee paid to the Secretary of the Treasury pursuant to this subsection may be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
 
 (2) In the case of withholdings made under subsection (a)(2) of this section, the regulations promulgated pursuant to this subsection shall include the following requirements:
 
@@ -58,7 +58,7 @@ Pub. L. 105–33, §5532(i)(1), inserted “in accordance with section 657 of th
 
 Pub. L. 104–193 substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by theSecretary of the Department of the Treasury or his designee.”
+Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by the Secretary of the Department of the Treasury or his designee.”
 
 1990—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
 
@@ -80,7 +80,7 @@ Subsec. (c)(1). Pub. L. 98–378, §21(c), designated existing provisions as par
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5513(a)(4) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
+Amendment by section 5513(a)(4) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Actof 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
 
 Amendment by sections 5531(b) and 5532(i)(1) of Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 

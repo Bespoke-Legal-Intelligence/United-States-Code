@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) Coverdell education savings account
 
-&emsp;The term “Coverdell education savings account” means a trust created or organized in the United States exclusively for the purpose of paying the qualified education expenses of an individual who is the designated beneficiary of the trust (and designated as a Coverdell education savings account at the time created or organized), but only if the written governing instrument creating the trust meets the following requirements:
+&emsp;The term “Coverdell education savings account” means a trust created or organized in the United States exclusively for the purpose of paying the qualified education expenses of an individual who is the designated beneficiary of the trust (and designated as a Coverdell education savings account at the timecreated or organized), but only if the written governing instrument creating the trust meets the following requirements:
 
 &emsp;&emsp;(A) No contribution will be accepted—
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of a contributor who is an individual, the maximum amount the contributorcould otherwise make to an account under this section shall be reduced by an amount which bears the same ratio to such maximum amount as—
+&emsp;In the case of a contributor who is an individual, the maximum amount the contributor could otherwise make to an account under this section shall be reduced by an amount which bears the same ratio to such maximum amount as—
 
 &emsp;&emsp;(A) the excess of—
 
@@ -148,9 +148,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) attributable to the designated beneficiary's being disabled (within the meaning of section 72(m)(7)),
 
-&emsp;&emsp;&emsp;(iii) made on account of a scholarship, allowance, or payment described in section 25A(g)(2) received by the account holder to the extent the amount of the payment or distribution does not exceed the amount of the scholarship, allowance, or payment, or
+&emsp;&emsp;&emsp;(iii) made on account of a scholarship, allowance, or payment described in section 25A(g)(2) received by the account holder to the extent the amount of the payment or distribution does not exceed the amount of the scholarship, allowance, or payment,
 
-&emsp;&emsp;&emsp;(iv) an amount which is includible in gross income solely by application of paragraph (2)(C)(i)(II) for the taxable year.
+&emsp;&emsp;&emsp;(iv) made on account of the attendance of the designated beneficiary at the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy, to the extent that the amount of the payment or distribution does not exceed the costs of advanced education (as defined by section 2005(e)(3) of title 10, United States Code, as in effect on the date of the enactment of this section) attributable to such attendance, or
+
+&emsp;&emsp;&emsp;(v) an amount which is includible in gross income solely by application of paragraph (2)(C)(i)(II) for the taxable year.
 
 #### (C) Contributions returned before certain date
 
@@ -164,7 +166,7 @@ For purposes of this section—
 
 #### (5) Rollover contributions
 
-&emsp;Paragraph (1) shall not apply to any amount paid or distributed from a Coverdell educationsavings account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another Coverdell education savings account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary who has not attained age 30 as of such date. The preceding sentence shall not apply to any payment or distribution if it applied to any prior payment or distribution during the 12-month period ending on the date of the payment or distribution.
+&emsp;Paragraph (1) shall not apply to any amount paid or distributed from a Coverdell education savings account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another Coverdell education savings account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary whohas not attained age 30 as of such date. The preceding sentence shall not apply to any payment or distribution if it applied to any prior payment or distribution during the 12-month period ending on the date of the payment or distribution.
 
 #### (6) Change in beneficiary
 
@@ -194,13 +196,19 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
-(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46.)
+(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
+#### References in Text
+
+The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
+
 #### Amendments
+
+2003—Subsec. (d)(4)(B)(iv), (v). Pub. L. 108–121 added cl. (iv) and redesignated former cl. (iv) as (v).
 
 2002—Subsec. (d)(4)(B)(iv). Pub. L. 107–147 substituted “by application of paragraph (2)(C)(i)(II)” for “because the taxpayer elected under paragraph (2)(C) to waive the application of paragraph (2)”.
 
@@ -236,7 +244,7 @@ Subsec. (d)(2)(A), (B). Pub. L. 107–16, §§401(c)(3)(A), 901, temporarily str
 
 Subsec. (d)(2)(C). Pub. L. 107–16, §§401(g)(1), 901, temporarily amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “A taxpayer may elect to waive the application of this paragraph for any taxable year.” See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (d)(2)(D). Pub. L. 107–16, §§401(g)(2)(C), 901, in heading, temporarily substituted “deduction, credit, or exclusion” for “credit or deduction” and in text, temporarily substituted “,  credit, or exclusion” for “or credit”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(2)(D). Pub. L. 107–16, §§401(g)(2)(C), 901, in heading, temporarily substituted “deduction, credit, or exclusion” for “credit or deduction” and in text, temporarily substituted “, credit, or exclusion” for “or credit”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(4)(A). Pub. L. 107–22, §1(a)(1), substituted “a Coverdell education savings account” for “an education individual retirement account”.
 
@@ -276,6 +284,10 @@ Subsec. (d)(7). Pub. L. 105–206, §6004(d)(2)(B), inserted at end “In applyi
 
 Subsec. (d)(8). Pub. L. 105–206, §6004(d)(2)(C), added par. (8).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–121, title I, §107(b), Nov. 11, 2003, 117 Stat. 1339, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
@@ -296,7 +308,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 26 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set outas an Effective Date of 1997 Amendment note under section 26 of this title.
 
 #### Section Referred to in Other Sections
 

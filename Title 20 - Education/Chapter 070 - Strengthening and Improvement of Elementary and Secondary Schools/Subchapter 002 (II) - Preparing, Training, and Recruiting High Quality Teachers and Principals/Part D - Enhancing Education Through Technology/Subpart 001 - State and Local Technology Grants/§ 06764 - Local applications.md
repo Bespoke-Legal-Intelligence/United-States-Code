@@ -12,7 +12,7 @@ The application shall include each of the following:
 
 &emsp;(2) A description of the applicant's specific goals for using advanced technology to improve student academic achievement, aligned with challenging State academic content and student academic achievement standards.
 
-&emsp;(3) A description of the steps the applicant will take to ensure that all students and teachers in schools served by the local educational agency involved have increased access to educational technology, including how the agency would use funds under this subpart (such as combining the funds with funds from other sources), to help ensure that—
+&emsp;(3) A description of the steps the applicant will take to ensure that all students andteachers in schools served by the local educational agency involved have increased access to educational technology, including how the agency would use funds under this subpart (such as combining the funds with funds from other sources), to help ensure that—
 
 &emsp;&emsp;(A) students in high-poverty and high-needs schools, or schools identified under section 6316 of this title, have access to technology; and
 

@@ -46,7 +46,7 @@ At least every 10 years, the Secretary and the Governor, or their designees, sha
 
 #### (i) Technical assistance
 
-The Secretary, in providing technical or other assistance to the Government of American Samoa may use any authority otherwise provided to him, including requesting assistance from other Federal agencies.
+The Secretary, in providing technical or other assistance to the Government of AmericanSamoa may use any authority otherwise provided to him, including requesting assistance from other Federal agencies.
 
 (Pub. L. 100–571, §3, Oct. 31, 1988, 102 Stat. 2881.)
 

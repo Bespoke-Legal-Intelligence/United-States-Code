@@ -36,5 +36,5 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to Coast and Geodetic Survey \[now commissioned officer corps of National Oceanic and Atmospheric Administration\], by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 

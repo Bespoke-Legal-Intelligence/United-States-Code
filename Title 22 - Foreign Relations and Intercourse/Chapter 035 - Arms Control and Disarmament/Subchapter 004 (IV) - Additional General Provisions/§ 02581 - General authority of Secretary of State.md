@@ -4,7 +4,7 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
 #### (a) Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property
 
-utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended;<sup>1</sup>
+utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended; <sup>1</sup>
 
 #### (b) Employment of personnel
 

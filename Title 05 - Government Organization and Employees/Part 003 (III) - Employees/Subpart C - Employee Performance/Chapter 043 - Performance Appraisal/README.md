@@ -40,7 +40,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2108, 2302, 3502, 9508 of this title; title 6 section 293; title 7 section 7657; title 21 section 1703; title 31 section 3801; title 42 section 237.
+This chapter is referred to in sections 2108, 2302, 3502, 9508, 9902 of this title; title 6 section 293; title 7 section 7657; title 21 section 1703; title 31 section 3801; title 42 section 237.
 
 
 ---

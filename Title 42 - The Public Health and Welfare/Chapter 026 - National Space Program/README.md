@@ -79,6 +79,14 @@
 | (a) | Requirement. |
 | (b) | Definition. |
 | [2459h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459h%20-%20Cost%20effectiveness%20calculations.md) | Cost effectiveness calculations. |
+| [2459i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459i%20-%20Working%20capital%20fund.md) | Working capital fund. |
+| [2459j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459j%20-%20Enhanced-use%20lease%20of%20real%20property%20demonstration.md) | Enhanced-use lease of real property demonstration. |
+| (a) | In general. |
+| (b) | Consideration. |
+| (c) | Additional terms and conditions. |
+| (d) | Relationship to other lease authority. |
+| (e) | Lease restrictions. |
+| (f) | Plan and reporting requirements. |
 | [2460\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002460%20-%20Appropriations%3B%20prior%20authorization%20by%20Congress.md) | Appropriations; prior authorization by Congress. |
 | [2461\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002461%20-%20Congressional%20Space%20Medal%20of%20Honor%3B%20appropriations.md) | Congressional Space Medal of Honor; appropriations. |
 | [2462\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002462%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9396%2C%20%C2%A78%2C%20Dec.%2021%2C%201981%2C%2095%20Stat.%201211.md) | Repealed. |
@@ -149,6 +157,18 @@
 | [2473d.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002473d%20-%20Use%20of%20abandoned%20and%20underutilized%20buildings%2C%20grounds%2C%20and%20facilities.md) | Use of abandoned and underutilized buildings, grounds, and facilities. |
 | (a) | In general. |
 | (b) | Definition. |
+| [2473e.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002473e%20-%20National%20Aeronautics%20and%20Space%20Administration%20Science%20and%20Technology%20Scholarship%20Program.md) | National Aeronautics and Space Administration Science and Technology Scholarship Program. |
+| (a) | Establishment; selection of recipients; agreement to serve as employees. |
+| (b) | Eligibility. |
+| (c) | Application. |
+| (d) | Eligible academic programs and fields of study. |
+| (e) | Requirements for scholarship funds. |
+| (f) | Period of service. |
+| (g) | Academic standing; breach of agreement; repayment of scholarship. |
+| (h) | Termination or waiver of obligations. |
+| (i) | Definitions. |
+| (j) | Appropriations. |
+| (k) | Temporary internships. |
 | [2474\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002474%20-%20Omitted.md) | Omitted. |
 | [2475\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475%20-%20International%20cooperation.md) | International cooperation. |
 | [2475a.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475a%20-%20Competitiveness%20and%20international%20cooperation.md) | Competitiveness and international cooperation. |

@@ -4,7 +4,7 @@ The Secretary, independently or in cooperation with other branches of the Govern
 
 The Secretary shall fix and collect such fees or charges in the administration of this section as will cover, as nearly as practicable, the costs of the services provided, including administrative and supervisory costs. Such fees and charges shall be credited to the account referred to in section 511d of this title. Fees or charges collected under an agreement with a State, municipality, or person, or by an individual licensed to inspect or weight or sample tobacco under this chapter, may be disposed of in accordance with the terms of such agreement or license. Charges for expenses for travel and subsistence incurred by inspectors or weighers or samplers employed by the Secretary when required to be paid by the applicant for service, may be credited to the appropriation, or any other funds authorized in this chapter from which they were paid.
 
-This section is intended merely to provide for the furnishing of services upon request of the owner or other person financially interested in tobacco to be sampled, inspected, or weighed and shall not be construed otherwise.
+This section is intended merely to provide for the furnishing of services upon request of the owner or other person financially interested intobacco to be sampled, inspected, or weighed and shall not be construed otherwise.
 
 (Aug. 23, 1935, ch. 623, §6, 49 Stat. 732; Pub. L. 97–35, title I, §157(a)(2), Aug. 13, 1981, 95 Stat. 375.)
 

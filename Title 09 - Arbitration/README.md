@@ -1,5 +1,5 @@
 
-9 U.S.C.<br>United States Code, 2002 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+9 U.S.C.<br>United States Code, 2003 Edition<br>Title 9 - ARBITRATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 9—ARBITRATION
 
@@ -19,103 +19,29 @@
 
 1970—Pub. L. 91–368, §2, July 31, 1970, 84 Stat. 693, added analysis of chapters.
 
-Table<br>Showing where former sections of Title 9 and the laws from which such former sections were derived, have been incorporated in revised Title 9.
+#### Table
 
-<i>Title 9 Former Sections</i>
+Showing where former sections of Title 9 and the laws from which such former sections were derived, have been incorporated in revised Title 9.
 
-<i>Statutes at Large</i>
+&nbsp;
 
-<i>Title 9 New Sections</i>
-
-1
-
-Feb. 12, 1925, ch. 213, §1, 43 Stat. 883
-
-1
-
-2
-
-Feb. 12, 1925, ch. 213, §2, 43 Stat. 883
-
-2
-
-3
-
-Feb. 12, 1925, ch. 213, §3, 43 Stat. 883
-
-3
-
-4
-
-Feb. 12, 1925, ch. 213, §4, 43 Stat. 883
-
-4
-
-5
-
-Feb. 12, 1925, ch. 213, §5, 43 Stat. 884
-
-5
-
-6
-
-Feb. 12, 1925, ch. 213, §6, 43 Stat. 884
-
-6
-
-7
-
-Feb. 12, 1925, ch. 213, §7, 43 Stat. 884
-
-7
-
-8
-
-Feb. 12, 1925, ch. 213, §8, 43 Stat. 884
-
-8
-
-9
-
-Feb. 12, 1925, ch. 213, §9, 43 Stat. 885
-
-9
-
-10
-
-Feb. 12, 1925, ch. 213, §10, 43 Stat. 885
-
-10
-
-11
-
-Feb. 12, 1925, ch. 213, §11, 43 Stat. 885
-
-11
-
-12
-
-Feb. 12, 1925, ch. 213, §12, 43 Stat. 885
-
-12
-
-13
-
-Feb. 12, 1925, ch. 213, §13, 43 Stat. 886
-
-13
-
-14
-
-Feb. 12, 1925, ch. 213, §14, 43 Stat. 886
-
-Rep.
-
-15
-
-Feb. 12, 1925, ch. 213, §15, 43 Stat. 886
-
-14
+| <i>Title 9 Former Sections</i> | <i>Statutes at Large</i> | <i>Title 9 New Sections</i> |
+| :--- | :---: | ---: |
+| 1 | Feb. 12, 1925, ch. 213, §1, 43 Stat. 883 | 1 |
+| 2 | Feb. 12, 1925, ch. 213, §2, 43 Stat. 883 | 2 |
+| 3 | Feb. 12, 1925, ch. 213, §3, 43 Stat. 883 | 3 |
+| 4 | Feb. 12, 1925, ch. 213, §4, 43 Stat. 883 | 4 |
+| 5 | Feb. 12, 1925, ch. 213, §5, 43 Stat. 884 | 5 |
+| 6 | Feb. 12, 1925, ch. 213, §6, 43 Stat. 884 | 6 |
+| 7 | Feb. 12, 1925, ch. 213, §7, 43 Stat. 884 | 7 |
+| 8 | Feb. 12, 1925, ch. 213, §8, 43 Stat. 884 | 8 |
+| 9 | Feb. 12, 1925, ch. 213, §9, 43 Stat. 885 | 9 |
+| 10 | Feb. 12, 1925, ch. 213, §10, 43 Stat. 885 | 10 |
+| 11 | Feb. 12, 1925, ch. 213, §11, 43 Stat. 885 | 11 |
+| 12 | Feb. 12, 1925, ch. 213, §12, 43 Stat. 885 | 12 |
+| 13 | Feb. 12, 1925, ch. 213, §13, 43 Stat. 886 | 13 |
+| 14 | Feb. 12, 1925, ch. 213, §14, 43 Stat. 886 | Rep. |
+| 15 | Feb. 12, 1925, ch. 213, §15, 43 Stat. 886 | 14 |
 
 #### Positive Law; Citation
 
@@ -127,7 +53,7 @@ Section 2 of act July 30, 1947, ch. 392, 61 Stat. 674, provided that the section
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 17 section 1321; title 22 sections 290k–11, 1650a; title 25 section 416a; title 28 section 651; title 29 section 1401; title 35 sections 135, 294.
+This title is referred to in title 17 section 1321; title 22 sections 290k–11, 1650a; title 25 sections 415, 416a; title 28 section 651; title 29 section 1401; title 35 sections 135, 294.
 
 
 ---

@@ -78,7 +78,7 @@ Effective on October 1, 1993.—The amendments made by the following subsections
 
 &emsp;“(2)
 
-Effective on date of enactment.—The amendments made by the following subsections ofsection 2 of this Act shall be effective on and after the date of enactment of this Act \[Dec. 20, 1993\]: (b)(2), (b)(7), (b)(28), (c)(3), (c)(5), (c)(13)(B), (c)(13)(C), (c)(18), (c)(30), (c)(62) \[amending sections 1070a, 1070a–11, 1070d–33, 1075, 1077a, 1078, 1078–1, and 1085 of this title\].
+Effective on date of enactment.—The amendments made by the following subsections of section 2 of this Act shall be effective on and after the date of enactment of this Act \[Dec. 20, 1993\]: (b)(2), (b)(7), (b)(28), (c)(3), (c)(5), (c)(13)(B), (c)(13)(C), (c)(18), (c)(30), (c)(62) \[amending sections 1070a, 1070a–11, 1070d–33, 1075, 1077a, 1078, 1078–1, and 1085 of this title\].
 
 &emsp;“(3)
 

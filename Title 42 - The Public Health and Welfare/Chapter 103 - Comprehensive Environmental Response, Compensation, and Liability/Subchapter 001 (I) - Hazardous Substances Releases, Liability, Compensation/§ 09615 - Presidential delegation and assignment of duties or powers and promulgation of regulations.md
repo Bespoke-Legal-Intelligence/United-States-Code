@@ -6,7 +6,7 @@ The President is authorized to delegate and assign any duties or powers imposed 
 
 #### Ex. Ord. No. 12580. Superfund Implementation
 
-Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended by Ex. Ord. No. 12777, §1(a), Oct. 18, 1991, 56 F.R. 54757; Ex. Ord. No. 13016, Aug. 28, 1996, 61 F.R. 45871; Ex. Ord. No. 13286, §43, Feb. 28, 2003, 68 F.R. 10627, provided:
+Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended by Ex. Ord. No. 12777, §1(a), Oct. 18, 1991, 56 F.R. 54757; Ex. Ord. No. 13016, Aug. 28, 1996, 61 F.R. 45871; Ex. Ord. No. 13286, §43, Feb. 28, 2003, 68 F.R. 10627; Ex. Ord. No. 13308, June 20, 2003, 68 F.R. 37691, provided:
 
 By the authority vested in me as President of the United States of America by Section 115 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (42 U.S.C. 9615 <i>et seq</i>.) (“the Act”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
@@ -18,7 +18,7 @@ Section 1. <i>National Contingency Plan</i>. (a)(1) The National Contingency Pla
 
 (4) The RRTs may include representatives from State governments, local governments (as agreed upon by the States), and Indian tribal governments. Subject to the functions and authorities delegated to Executive departments and agencies in other sections of this order, the NRT shall provide policy and program direction to the RRTs.
 
-(b)(1) The responsibility for the revision of the NCP and all the other functions vested in the President by Sections 105(a), (b), (c), and (g), 125, and 301(f) of the Act \[42 U.S.C. 9605(a), (b), (c), (g), 9625, 9651(f)\], by Section 311(d)(1) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(d)(1)\], and by Section 4201(c) of the Oil Pollution Act of 1990 \[Pub. L. 101–380, 33 U.S.C. 1321 note\] is delegated to the Administrator of the Environmental Protection Agency (“the Administrator”).
+(b)(1) The responsibility for the revision of the NCP and all the other functions vested in the President by Sections 105(a), (b), (c), (g) and (h), 125, and 301(f) of the Act \[42 U.S.C. 9605(a), (b), (c), (g), (h), 9625, 9651(f)\], by Section 311(d)(1) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(d)(1)\], and by Section 4201(c) of the Oil Pollution Act of 1990 \[Pub. L. 101–380, 33 U.S.C. 1321 note\] is delegated to the Administrator of the Environmental Protection Agency (“the Administrator”).
 
 (2) The function vested in the President by Section 118(p) of the Superfund Amendments and Reauthorization Act of 1986 (Pub. L. 99–499) (“SARA”) \[100 Stat. 1662\] is delegated to the Administrator.
 
@@ -74,7 +74,7 @@ Sec. 3. <i>Cleanup Schedules</i>. (a) The functions vested in the President by S
 
 Sec. 4. <i>Enforcement</i>. (a) The functions vested in the President by Sections 109(d) and 122(e)(3)(A) of the Act \[42 U.S.C. 9609(d), 9622(e)(3)(A)\], relating to development of regulations and guidelines, are delegated to the Administrator, to be exercised in consultation with the Attorney General.
 
-(b)(1) Subject to subsection (a) of this Section, the functions vested in the President by Section 122 \[42 U.S.C. 9622\] (except subsection (b)(1)) are delegated to the heads of Executive departments and agencies, with respect to releases or threatened releases not on the NPL where either the release is on or the sole source of the release is from any facility under the jurisdiction, custody or control of those Executive departments and agencies. These functions may be exercised only with the concurrence of the Attorney General.
+(b)(1) Subject to subsection (a) of this Section, the functions vested in the President by Section 122 \[42 U.S.C. 9622\] (except subsection (b)(1)) are delegated tothe heads of Executive departments and agencies, with respect to releases or threatened releases not on the NPL where either the release is on or the sole source of the release is from any facility under the jurisdiction, custody or control of those Executive departments and agencies. These functions may be exercised only with the concurrence of the Attorney General.
 
 (2) Subject to subsection (a) of this Section, the functions vested in the President by Section 109 of the Act \[42 U.S.C. 9609\], relating to violations of Section 122 of the Act, are delegated to the heads of Executive departments and agencies, with respect to releases or threatened releases not on the NPL where either the release is on or the sole source of the release is from any facility under the jurisdiction, custody or control of those Executive departments and agencies. These functions may be exercised only with the concurrence of the Attorney General.
 
@@ -88,7 +88,7 @@ Sec. 4. <i>Enforcement</i>. (a) The functions vested in the President by Section
 
 (2) Subject to subsections (a), (b)(2), and (c)(2) of this Section, the functions vested in the President by Section 109 of the Act \[42 U.S.C. 9609\], relating to violations of Sections 103 and 122 of the Act \[42 U.S.C. 9603, 9622\], are delegated to the Administrator.
 
-(3) Subject to subsections (a), (b)(1), and (c)(1) of this section, the functions vested in the President by sections 106(a) \[42 U.S.C. 9606(a)\] and 122 \[42 U.S.C. 9622\] (except subsection (b)(1)) of the Act are delegated to the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, and the Department of Energy, to be exercised only with the concurrence of the Administrator, with respect to any release or threatened release affecting (1) natural resources under their trusteeship, or (2) avessel or facility subject to their custody, jurisdiction, or control. Such authority shall not be exercised at any vessel or facility at which the Administrator is the lead Federal official for the conduct or oversight of a response action. Such authority shall not be construed to authorize or permit use of the Hazardous Substance Superfund to implement section 106 or to fund performance of any response action in lieu of the payment by a person who receives but does not comply with an order pursuant to section 106(a), where such order has been issued by the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, or the Secretary of Energy. This subsection shall not be construed to limit any authority delegated by any other section of this order. Authority granted under this subsection shall be exercised in a manner to ensure interagency coordination that enhances efficiency and effectiveness.
+(3) Subject to subsections (a), (b)(1), and (c)(1) of this section, the functions vested in the President by sections 106(a) \[42 U.S.C. 9606(a)\] and 122 \[42 U.S.C. 9622\] (except subsection (b)(1)) of the Act are delegated to the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, and the Department of Energy, to be exercised only with the concurrence of the Administrator, with respect to any release or threatened release affecting (1) natural resources under their trusteeship, or (2) a vessel or facility subject to their custody, jurisdiction, or control. Such authority shall not be exercised at any vessel or facility at which the Administrator is the lead Federal official for the conduct or oversight of a response action. Such authority shall not be construed to authorize or permit use of the Hazardous Substance Superfund to implement section 106 or to fund performance of any response action in lieu of the payment by a person who receives but does not comply with an order pursuant to section 106(a), where such order has been issued by the Secretary of the Interior, the Secretary of Commerce, the Secretary of Agriculture, the Secretary of Defense, or the Secretary of Energy. This subsection shall not be construed to limit any authority delegated by any other section of this order. Authority granted under this subsection shall be exercised in a manner to ensure interagency coordination that enhances efficiency and effectiveness.
 
 (e) Notwithstanding any other provision of this Order, the authority under Sections 104(e)(5)(A) and 106(a) of the Act \[42 U.S.C. 9604(e)(5)(A), 9606(a)\] to seek information, entry, inspection, samples, or response actions from Executive departments and agencies may be exercised only with the concurrence of the Attorney General.
 
@@ -101,6 +101,10 @@ Sec. 5. <i>Liability</i>. (a) The function vested in the President by Section 10
 (d) The functions vested in the President by Section 107(f)(1) of the Act are delegated to each of the Federal trustees for natural resources designated in the NCP for resources under their trusteeship.
 
 (e) The functions vested in the President by Section 107(f)(2)(B) of the Act, to receive notification of the state natural resource trustee designations, are delegated to the Administrator.
+
+(f) The functions vested in the President by Section 107(<i>o</i>) and (p) of the Act are delegated to the heads of the Executive departments and agencies, to be exercised in consultation with the Administrator, with respect to releases or threatened releases where either the release is on or the sole source of the release is from any facility under the jurisdiction, custody, or control of those departments and agencies.
+
+(g) Subject to subsection (f) of this Section, the functions vested in the President by Section 107(<i>o</i>) and (p) of the Act are delegated to the Administrator except that, with respect to determinations regarding natural resource restoration, the Administrator shall make such determinations in consultation with the appropriate Federal natural resource trustee.
 
 Sec. 6. <i>Litigation</i>. (a) Notwithstanding any other provision of this Order, any representation pursuant to or under this Order in any judicial proceedings shall be by or through the Attorney General. The conduct and control of all litigation arising under the Act shall be the responsibility of the Attorney General.
 
@@ -170,9 +174,21 @@ Sec. 11. <i>General Provisions</i>. (a) The function vested in the President by 
 
 (f) The performance of any function under this Order shall be done in consultation with interested Federal departments and agencies represented on the NRT, as well as with any other interested Federal agency.
 
-(g) The following functions vested in the President by the Act which have been delegated or assigned by this Order may be redelegated to the head of any Executive department or agency with his consent: functions set forth in Sections 2 (except subsection (b)), 3, 4(b), 4(c), 4(d), 5(b), 5(c), and 8(c) of this Order.
+(g) The following functions vested in the President by the Act which have been delegated or assigned by thisOrder may be redelegated to the head of any Executive department or agency with his consent: functions set forth in Sections 2 (except subsection (b)), 3, 4(b), 4(c), 4(d), 5(b), 5(c), and 8(c) of this Order.
 
 (h) Executive Order No. 12316 of August 14, 1981, is revoked.
+
+Sec. 12. <i>Brownfields</i>. (a) The functions vested in the President by Sections 101(39) and (41) and 104(k) of the Act \[42 U.S.C. 9601(39), (41), 9604(k)\] are delegated to the Administrator.
+
+(b) The functions vested in the President by Section 128(b)(1)(B)(ii) of the Act \[42 U.S.C. 9628(b)(1)(B)(ii)\] are delegated to the heads of the Executive departments and agencies, to be exercised in consultation with the Administrator, with respect to property subject to their jurisdiction, custody, or control.
+
+(c) The functions vested in the President by Section 128(b)(1)(E) of the Act \[42 U.S.C. 9628(b)(1)(E)\] are delegated to the heads of Executive departments and agencies in cases where they have acted under subsection (b) of this Section.
+
+(d) Subject to subsections (b) and (c) of this Section, the functions vested in the President by Section 128 of the Act \[42 U.S.C. 9628\] are delegated to the Administrator.
+
+Sec. 13. <i>Preservation of Authorities</i>. Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+Sec. 14. <i>General Provision</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
 #### Section Referred to in Other Sections
 

@@ -176,6 +176,10 @@ Subsec. (c)(7). Pub. L. 96–537, §4(c)(3), struck out par. (7) which authorize
 
 Section 201(b) of Pub. L. 102–573 provided that: “Except with respect to the amendments made by subsection (a)(5) \[amending this section\], the amendments made by subsection (a) \[amending this section\] shall take effect three years after the date of the enactment of this Act \[Oct. 29, 1992\]. The amendments made by subsection (a)(5) shall take effect upon the date of the enactment of this Act.”
 
+#### Contract Medical Care Funds
+
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That contract medical care funds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1660a, 1671 of this title.

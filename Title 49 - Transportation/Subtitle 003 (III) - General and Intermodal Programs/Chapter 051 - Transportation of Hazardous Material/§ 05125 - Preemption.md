@@ -72,7 +72,7 @@ Fees.—(1) A State, political subdivision of a State, or Indian tribe may impos
 
 &emsp;(D) such other matters as the Secretary requests.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b),Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320.)
 
 Historical and Revision Notes
 
@@ -144,7 +144,7 @@ This amends 49:5125(a) and (b)(1) to clarify the restatement of 49 App.:1804(a)(
 
 Subsec. (b)(1)(E). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
 
-Subsec. (d). Pub. L. 103–311, §120(b), inserted after second sentence “The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publisha statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made.”
+Subsec. (d). Pub. L. 103–311, §120(b), inserted after second sentence “The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made.”
 
 Subsec. (g). Pub. L. 103–311, §107, designated existing provisions as par. (1) and added par. (2).
 

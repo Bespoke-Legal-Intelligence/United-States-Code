@@ -6,7 +6,7 @@ Time for Dissemination.—The names of the officers recommended for promotion in
 
 &emsp;(1) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
 
-&emsp;(2) In the case of officers recommended for promotion to a grade above colonel or, in the case of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
+&emsp;(2) In the case of officers recommended for promotion to a grade above colonel or, in thecase of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
 
 &emsp;(3) In the case of officers whose names have not been sooner disseminated, such names shall be promptly disseminated—
 

@@ -74,7 +74,7 @@ The Director of NIH shall—
 
 #### (f) Associate Director for Prevention; functions
 
-There shall be in the National Institutes of Health an Associate Director for Prevention. The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
+There shall be in the National Institutes of Health an Associate Director for Prevention.The Director of NIH shall delegate to the Associate Director for Prevention the functions of the Director relating to the promotion of the disease prevention research programs of the national research institutes and the coordination of such programs among the national research institutes and between the national research institutes and other public and private entities, including elementary, secondary, and post-secondary schools. The Associate Director shall—
 
 &emsp;(1) annually review the efficacy of existing policies and techniques used by the national research institutes to disseminate the results of disease prevention and behavioral research programs; and
 
@@ -116,7 +116,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (j) Data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions
 
-(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities ofthe data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services, and to the extent practicable, coordinated with other data banks containing similar information.
+(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities of the data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services, and to the extent practicable, coordinated with other data banks containing similar information.
 
 (B) The Secretary shall establish the data bank after consultation with the Commissioner of Food and Drugs, the directors of the appropriate agencies of the National Institutes of Health (including the National Library of Medicine), and the Director of the Centers for Disease Control and Prevention.
 
@@ -168,7 +168,7 @@ The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102
 
 #### Codification
 
-In subsec. (b)(4)(B),“section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” onauthority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(4)(B),“section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -256,7 +256,7 @@ Section 1907 of Pub. L. 103–43 directed Director of the National Institutes of
 
 #### Support for Bioengineering Research
 
-Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study for the purpose of determining the sources and amounts of public and private funding devoted to basic research in bioengineering, including biomaterials sciences, cellular bioprocessing, tissue and rehabilitation engineering, evaluating whether that commitment is sufficient to maintain the innovative edge that the United States has in these technologies, evaluating the role of the National Institutes of Health or any other Federal agency to achieve a greater commitment to innovation in bioengineering, and evaluating the need for better coordination and collaboration among Federal agencies and between the public and private sectors, and, not later than 1 year after June 10, 1993, to prepare and submit to Committee on Labor and Human Resources of Senate, and Committee on Energy and Commerce of House of Representatives, a report containing the findings of the study together with recommendations concerning the enactment of legislation to implement the results of such study.
+Section 1912 of Pub. L. 103–43 directed Secretary of Health and Human Services, acting through Director of the National Institutes of Health, to conduct a study for the purpose of determining the sources and amounts of public and private funding devoted to basic research in bioengineering, including biomaterials sciences, cellular bioprocessing, tissue and rehabilitation engineering, evaluating whether that commitment is sufficient to maintain the innovative edge that the United States has in these technologies, evaluating the role of the National Institutes of Health or any other Federal agency to achieve a greater commitment to innovation in bioengineering, and evaluating the need for better coordination and collaboration among Federal agencies and between the public and private sectors, and, notlater than 1 year after June 10, 1993, to prepare and submit to Committee on Labor and Human Resources of Senate, and Committee on Energy and Commerce of House of Representatives, a report containing the findings of the study together with recommendations concerning the enactment of legislation to implement the results of such study.
 
 #### Master Plan for Physical Infrastructure for Research
 

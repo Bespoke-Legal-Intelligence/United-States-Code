@@ -20,7 +20,7 @@ The study shall—
 
 The Secretary shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
 
-&emsp;(1) not later than 18 months after the commencement of the study, a report that describes the results of the study as it relates toparagraphs (1) and (2) of subsection (b) of this section, including any appropriate recommendations; and
+&emsp;(1) not later than 18 months after the commencement of the study, a report that describes the results of the study as it relates to paragraphs (1) and (2) of subsection (b) of this section, including any appropriate recommendations; and
 
 &emsp;(2) not later than 3 years after the commencement of the study, a report that describes the results of the study as it relates to paragraphs (3) and (4) of subsection (b) of this section, including the recommendations developed under paragraph (3) of subsection (b) of this section and other appropriate recommendations.
 

@@ -46,7 +46,7 @@ The date of enactment of the Passenger Vessel Safety Act of 1993, referred to in
 
 Par. (5). Pub. L. 104–324, §710(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “less than 500 gross tons”.
 
-1993—Pub. L. 103–206 amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged inexcursions or an oceanographic research vessel, the Secretary by regulation may—
+1993—Pub. L. 103–206 amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged in excursions or an oceanographic research vessel, the Secretary by regulation may—
 
 &emsp;“(1) for an excursion vessel, issue a special permit specifying the conditions of operation and equipment; and
 

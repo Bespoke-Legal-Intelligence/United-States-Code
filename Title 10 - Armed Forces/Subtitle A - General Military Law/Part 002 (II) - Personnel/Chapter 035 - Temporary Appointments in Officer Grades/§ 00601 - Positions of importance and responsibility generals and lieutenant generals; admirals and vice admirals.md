@@ -2,13 +2,13 @@
 
 (a) The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, or Marine Corps who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
-(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated under subsection (a) or by law to carry that grade shall continue to hold that grade—
+(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated undersubsection (a) or by law to carry that grade shall continue to hold that grade—
 
 &emsp;(1) while serving in that position;
 
 &emsp;(2) while under orders transferring him to another position designated under subsection (a) or by law to carry one of those grades, beginning on the day his assignment to the first position is terminated and ending on the day before the day on which he assumes the second position;
 
-&emsp;(3) while hospitalized, beginning on the day of the hospitalization and ending on the dayhe is discharged from the hospital, but not for more than 180 days; and
+&emsp;(3) while hospitalized, beginning on the day of the hospitalization and ending on the day he is discharged from the hospital, but not for more than 180 days; and
 
 &emsp;(4) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
 

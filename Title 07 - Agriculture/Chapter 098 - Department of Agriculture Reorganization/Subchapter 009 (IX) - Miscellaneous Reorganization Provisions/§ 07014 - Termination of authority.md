@@ -14,7 +14,7 @@ Subsection (a) of this section shall not affect—
 
 &emsp;(3) the authority of an agency, office, officer, or employee of the Department to continue to perform all functions delegated or assigned to the entity or person as of that termination date;
 
-&emsp;(4) the authority of the Secretary to establish in the Department the position of Under Secretary of Agriculture for Marketing and Regulatory Programs under section 7005 of this title; or
+&emsp;(4) the authority of the Secretary to establish in the Department the position of UnderSecretary of Agriculture for Marketing and Regulatory Programs under section 7005 of this title; or
 
 &emsp;(5) the authority of the Secretary to establish within the Department the position of Assistant Secretary of Agriculture for Civil Rights, and delegate duties to the Assistant Secretary, under section 6918 of this title.
 

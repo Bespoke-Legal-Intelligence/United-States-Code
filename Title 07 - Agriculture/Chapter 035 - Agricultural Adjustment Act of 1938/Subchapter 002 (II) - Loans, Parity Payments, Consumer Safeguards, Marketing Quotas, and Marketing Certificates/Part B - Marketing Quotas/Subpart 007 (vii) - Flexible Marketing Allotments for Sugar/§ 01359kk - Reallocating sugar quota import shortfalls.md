@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, on or after June 1 of each of the 20
 
 #### (b) Qualified supplying country defined
 
-In this section, the term “qualified supplying country” means one of the following foreigncountries that is allowed to export cane sugar to the United States under an agreement or any other country with which the United States has an agreement relating to the importation of cane sugar:
+In this section, the term “qualified supplying country” means one of the following foreign countries that is allowed to export cane sugar to the United States under an agreement or any other country with which the United States has an agreement relating to the importation of cane sugar:
 
 &emsp;Argentina
 

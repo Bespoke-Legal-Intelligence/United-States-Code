@@ -10,7 +10,7 @@ The Secretary of State shall be responsible for policy decisions and justificati
 
 #### (c) Detailed justification for uses and purposes of funds
 
-As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
+As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amountsand kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
 
 #### (d) Repealed. Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180
 
@@ -82,7 +82,7 @@ Annual Reports on Economic Conditions.—In order to assist the Congress in exam
 
 #### References to Security Supporting Assistance as References to Assistance Under Part IV of Subchapter II of This Chapter
 
-Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978, any reference in any law to security supporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
+Section 10(b)(6) of Pub. L. 95–384 provided that: “After September 30, 1978, any reference in any law to securitysupporting assistance shall be deemed to be a reference to assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[this part\].”
 
 #### Security Supporting Assistance Program for Egypt
 

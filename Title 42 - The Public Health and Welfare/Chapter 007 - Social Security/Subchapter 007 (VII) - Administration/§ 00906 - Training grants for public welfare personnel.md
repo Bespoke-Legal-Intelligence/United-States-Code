@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-In order to assist in increasing the effectiveness and efficiency of administration of publicassistance programs by increasing the number of adequately trained public welfare personnel available for work in public assistance programs, there are hereby authorized to be appropriated for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000.
+In order to assist in increasing the effectiveness and efficiency of administration of public assistance programs by increasing the number of adequately trained public welfare personnel available for work in public assistance programs, there are hereby authorized to be appropriated for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000.
 
 #### (b) Allocation for carrying out direct grant programs
 
@@ -26,7 +26,7 @@ The amount of any allotment to a State under subsection (b) of this section for 
 
 (2) Payments under paragraph (1) may be made in advance on the basis of estimates by the Secretary, or may be made by way of reimbursement, and adjustments may be made in future payments under this subsection to take account of overpayments or underpayments in amounts previously paid.
 
-(3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part, whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.
+(3) The Secretary may, to the extent he finds such action to be necessary, prescribe requirements to assure that any individual will repay the amount of his fellowship or traineeship received under this subsection to the extent such individual fails to serve, for the period prescribed by the Secretary, with a State or political subdivision thereof, or with the Federal Government, in connection with administration of any State or local public assistance program. The Secretary may relieve any individual of his obligation to so repay, in whole or in part,whenever and to the extent that requirement of such repayment would, in his judgment, be inequitable or would be contrary to the purposes of any of the public welfare programs established by this chapter.
 
 (Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851; amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
 

@@ -114,7 +114,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 #### (2) Termination of business
 
-&emsp;The distributions which meet the requirements of paragraph (1)(A) shall include (but shall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
+&emsp;The distributions which meet the requirements of paragraph (1)(A) shall include (butshall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
 
 &emsp;&emsp;(A) The distribution is attributable to the distributing corporation's ceasing to conduct, or consists of the assets of, a qualified trade or business.
 
@@ -220,7 +220,7 @@ Extension of time for adopting plan where acquisition subject to federal regulat
 
 &emsp;&emsp;“(iii)
 
-Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
+Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offerresulted in the intervention by such foreign regulatory body before July 23, 1982—
 
 &emsp;&emsp;&emsp;“(I) such public announcement shall be treated as a tender offer, and
 
@@ -240,7 +240,7 @@ Special rule where one-third of shares acquired during march and april 1982.—I
 
 Insurance companies.—The amendments made by this section shall not apply to distributions made by an insurance company pursuant to a plan of partial liquidation adopted before October 1, 1982, where control was acquired by the distributee or its parent after December 31, 1980, and before July 23, 1982, and the conduct of the insurance business by the distributee is conditioned on approval by a State regulatory authority.
 
-> For purposes of this paragraph, the term ‘control’ has the meaning given to such term by section 368(c) of theInternal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that in applying such section both direct and indirect ownership of stock shall be taken into account.
+> For purposes of this paragraph, the term ‘control’ has the meaning given to such term by section 368(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that in applying such section both direct and indirect ownership of stock shall be taken into account.
 
 “(3)
 
@@ -266,5 +266,5 @@ Applicability of subsec. (b)(1) to the determination of gross investment income 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 48, 301, 304, 306, 312, 318, 341, 562, 857, 1059, 1246, 1368, 1445 of this title.
+This section is referred to in sections 48, 301, 304, 306, 312, 318, 562, 857, 1059, 1246, 1368, 1445 of this title.
 

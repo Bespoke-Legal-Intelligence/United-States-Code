@@ -4,7 +4,7 @@
 
 &emsp;(1) an individual who is a member of the Armed Forces of the United States on active duty, as defined in section 101 of title 10, or a civilian, otherwise authorized to use postal services at Armed Forces installations, who holds a position or performs one or more functions in support of military operations, as designated by the military theater commander, and addressed to a place within the delivery limits of a United States post office, if—
 
-&emsp;&emsp;(A) such letter mail or <sup>1</sup> sound- or video-recorded communication is mailed by such individual at an Armed Forces post office established in an overseas area, as designated by the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, engaged in temporary military operations under arduous circumstances, serving with a friendly foreign force in an armed conflict in which the United States is not a belligerent, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretary of Defense; or
+&emsp;&emsp;(A) such letter mail or <sup>1</sup> sound- or video-recorded communication is mailed by such individual at an Armed Forces post office established in an overseas area, as designated by the President, where the Armed Forces of the United States are engaged in action against an enemy of the United States, engaged in military operations involving armed conflict with a hostile foreign force, engaged in temporary military operations under arduous circumstances, serving with afriendly foreign force in an armed conflict in which the United States is not a belligerent, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretary of Defense; or
 
 &emsp;&emsp;(B) such individual is hospitalized in a facility under the jurisdiction of the Armed Forces of the United States as a result of disease or injury incurred as a result of service in an overseas area designated by the President under clause (A) of this paragraph; or
 
@@ -44,7 +44,7 @@
 
 (d) The Department of Defense shall transfer to the Postal Service as postal revenues, out of any appropriations or funds available to the Department of Defense, as a necessary expense of the appropriations or funds and of the activities concerned, the equivalent amount of postage due, as determined by the Postal Service, for matter sent in the mails under authority of subsection (a) of this section.
 
-(e) The Department of Defense shall transfer to the Postal Service as postal revenues, out of any appropriations or funds available to the Department of Defense, as a necessary expense of the appropriations or funds and of the activities concerned, sums equal to the expenses incurred by the Postal Service, as determined by the Postal Service, in providing air transportation for mail mailed at or addressed to Armed Forces post offices established under section 406 of this title, but reimbursement under this subsection shall not include the expense of air transportation (1) for which the Postal Service collects a special charge to the extent the special charge covers the additional expense of air transportation or (2) that is provided by the Postal Service at the same postage rate or charge for mail which is neither mailed at nor addressed to an Armed Forces post office.
+(e) The Department of Defense shall transfer to the Postal Service as postal revenues, out of any appropriations or funds available to the Department of Defense, as a necessary expense of the appropriations or funds and of the activities concerned, sums equal to the expenses incurred by the Postal Service, as determined by the Postal Service, in providing air transportation for mail mailed at or addressed to Armed Forces post offices established under section 406 of this title, but reimbursement under this subsection shall not include the expense of air transportation (1) for which the Postal Service collects aspecial charge to the extent the special charge covers the additional expense of air transportation or (2) that is provided by the Postal Service at the same postage rate or charge for mail which is neither mailed at nor addressed to an Armed Forces post office.
 
 (f) This section shall be administered under such conditions, and under such regulations, as the Postal Service and the Secretary of Defense jointly may prescribe.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

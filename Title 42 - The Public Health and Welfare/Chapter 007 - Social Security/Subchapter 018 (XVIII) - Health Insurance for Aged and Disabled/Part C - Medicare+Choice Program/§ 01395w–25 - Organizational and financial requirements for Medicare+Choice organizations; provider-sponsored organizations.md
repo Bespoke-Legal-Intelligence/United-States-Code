@@ -102,7 +102,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent of the amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
 
-&emsp;(4) may make arrangements with physicians or other health care professionals, health care institutions, or any combination of such individuals or institutions to assume all or part of the financial risk on a prospective basis for the provision of basic health services by the physicians or other health professionals or through the institutions.
+&emsp;(4) may make arrangements with physicians or other health care professionals, health care institutions, or any combination of such individuals or institutions to assume all or part ofthe financial risk on a prospective basis for the provision of basic health services by the physicians or other health professionals or through the institutions.
 
 #### (c) Certification of provision against risk of insolvency for unlicensed PSOs
 
@@ -178,9 +178,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), (D), is cla
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–26, 1395w–28, 1395cc of this title; title 26 section 501.
+This section is referred to in sections 1395w–21, 1395w–26, 1395w–27a, 1395w–28, 1395w–112, 1395cc of this title; title 26 section 501.
 

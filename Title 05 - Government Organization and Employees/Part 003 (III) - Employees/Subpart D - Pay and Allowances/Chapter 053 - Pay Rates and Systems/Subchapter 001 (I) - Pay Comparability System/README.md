@@ -6,6 +6,8 @@ This subchapter is referred to in section 8340 of this title; title 2 section 18
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–136 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 

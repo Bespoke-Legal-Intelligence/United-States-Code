@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Beginning 6 months after October 21, 1998, and every 12 months thereafter, the Secretary of State shall submit a report to the appropriate congressional committees on the compliance with the provisions of the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980, by the signatory countries of the Convention. Each such report shall include the following information:
+Beginning 6 months after October 21, 1998, and every 12 months thereafter, the Secretary ofState shall submit a report to the appropriate congressional committees on the compliance with the provisions of the Convention on the Civil Aspects of International Child Abduction, done at The Hague on October 25, 1980, by the signatory countries of the Convention. Each such report shall include the following information:
 
 &emsp;(1) The number of applications for the return of children submitted by applicants in the United States to the Central Authority for the United States that remain unresolved more than 18 months after the date of filing.
 
-&emsp;(2) A list of the countries to which children in unresolved applications described in paragraph (1) are alleged to have been abducted, are being wrongfully retained in violation of United States court orders, or which have failed to comply with any of their obligationsunder such convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States.
+&emsp;(2) A list of the countries to which children in unresolved applications described in paragraph (1) are alleged to have been abducted, are being wrongfully retained in violation of United States court orders, or which have failed to comply with any of their obligations under such convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States.
 
 &emsp;(3) A list of the countries that have demonstrated a pattern of noncompliance with the obligations of the Convention with respect to applications for the return of children, access to children, or both, submitted by applicants in the United States to the Central Authority for the United States.
 

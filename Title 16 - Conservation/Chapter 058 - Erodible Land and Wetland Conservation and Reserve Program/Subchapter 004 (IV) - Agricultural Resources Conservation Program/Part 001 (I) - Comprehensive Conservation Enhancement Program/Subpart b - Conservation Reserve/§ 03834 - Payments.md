@@ -140,7 +140,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (g) Other State or local assistance
 
-In addition to any payment under this subpart, an owner or operator may receive costshare assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
+In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
 (Pub. L. 99–198, title XII, §1234, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 245.)
 

@@ -10,7 +10,7 @@ In the making of appropriations under any provision of this Act or amendment mad
 
 #### (c) Prevention
 
-In the making of appropriations under any provision of this Act or amendment made by this Act that authorizes the making of an appropriation for a prevention program for a certain fiscal year in a certain amount out of the Violent Crime Reduction Trust Fund, not to exceed 10 percent of that amount is authorized to be appropriated for that fiscal year for any other prevention program for which appropriations are authorized by any other prevention provision of this Act or amendment made by this Act. The aggregate reduction in the authorization for any particular prevention program may not exceed 10 percent of the total amount authorized to be appropriated from the Violent Crime ReductionTrust Fund for that program in this Act or amendment made by this Act.
+In the making of appropriations under any provision of this Act or amendment made by this Act that authorizes the making of an appropriation for a prevention program for a certain fiscal year in a certain amount out of the Violent Crime Reduction Trust Fund, not to exceed 10 percent of that amount is authorized to be appropriated for that fiscal year for any other prevention program for which appropriations are authorized by any other prevention provision of this Act or amendment made by this Act. The aggregate reduction in the authorization for any particular prevention program may not exceed 10 percent of the total amount authorized to be appropriated from the Violent Crime Reduction Trust Fund for that program in this Act or amendment made by this Act.
 
 #### (d) Definitions
 
@@ -128,7 +128,7 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(22) section 40241;
 
-&emsp;(23) section 10417 of this title;
+&emsp;(23) section 10417 <sup>3</sup> of this title;
 
 &emsp;(24) section 10418 of this title;
 
@@ -180,7 +180,7 @@ Section 210101, referred to in subsec. (d), is section 210101 of Pub. L. 103–3
 
 Section 20301, referred to in subsec. (d), is section 20301 of Pub. L. 103–322, 108 Stat. 1823, which amended section 1252 of Title 8, Aliens and Nationality, and enacted provisions set out as notes under sections 1231 and 1252 of Title 8.
 
-Section 20201, referred to in subsec. (d), is section 20201 of Pub. L. 103–322, 108 Stat. 1819, which enactedsubchapter XII–F (§3796ee et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
+Section 20201, referred to in subsec. (d), is section 20201 of Pub. L. 103–322, 108 Stat. 1819, which enacted subchapter XII–F (§3796ee et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
 
 Section 50001, referred to in subsec. (d), is section 50001 of Pub. L. 103–322, 108 Stat. 1955, which enacted former subchapter XII–J (§3796ii et seq.) of chapter 46 of this title and amended sections 3793 and 3797 of this title.
 
@@ -205,6 +205,8 @@ Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322
 Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322, 108 Stat. 1932, which enacted subchapter XII–I (§3796hh et seq.) of chapter 46 of this title and amended sections 3782, 3783, 3793, and 3797 of this title.
 
 Section 40241, referred to in subsec. (d), is section 40241 of Pub. L. 103–322, 108 Stat. 1934, which amended section 10409 of this title.
+
+Section 10417 of this title, referred to in subsec. (d), was repealed by Pub. L. 108–36, title IV, §412, June 25, 2003, 117 Stat. 829.
 
 Section 40601, referred to in subsec. (d), is section 40601 of Pub. L. 103–322, 108 Stat. 1950, which amended section 534 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 534 of Title 28.
 

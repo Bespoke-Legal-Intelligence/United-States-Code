@@ -26,7 +26,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322, §330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §60016. See below.
 
-Pub. L. 103–322, §60016, designated existing provisions as subsec. (a), substituted “magistrate judge” for“commissioner” in two places and “punished as provided in subsection (b)” for “fined not more than $5,000 or imprisoned not more than five years, or both”, and added subsec. (b).
+Pub. L. 103–322, §60016, designated existing provisions as subsec. (a), substituted “magistrate judge” for “commissioner” in two places and “punished as provided in subsection (b)” for “fined not more than $5,000 or imprisoned not more than five years, or both”, and added subsec. (b).
 
 1982—Pub. L. 97–291, §4(c)(1), substituted “or juror” for “, juror or witness” after “officer” in section catchline.
 

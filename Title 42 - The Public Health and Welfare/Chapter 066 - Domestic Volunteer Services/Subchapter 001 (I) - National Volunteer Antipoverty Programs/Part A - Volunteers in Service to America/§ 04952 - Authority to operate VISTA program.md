@@ -2,7 +2,7 @@
 
 This part shall be administered by one of the Assistant Directors appointed pursuant to section 12651e(d)(1)(A) of this title. Such Director may recruit, select, and train persons to serve in full-time volunteer programs consistent with the provisions and to carry out the purpose of this part.
 
-(Pub. L. 93–113, title I, §102, Oct. 1, 1973, 87 Stat. 396; Pub. L. 98–288, §3, May 21, 1984, 98 Stat. 189; Pub. L. 101–204, title I, §101(d)(1), Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §322(a), Sept. 21, 1993, 107 Stat. 899.)
+(Pub. L. 93–113, title I, §102, Oct. 1, 1973, 87 Stat. 396; Pub. L. 98–288, §3, May 21, 1984, 98 Stat. 189;Pub. L. 101–204, title I, §101(d)(1), Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §322(a), Sept. 21, 1993, 107 Stat. 899.)
 
 #### Amendments
 

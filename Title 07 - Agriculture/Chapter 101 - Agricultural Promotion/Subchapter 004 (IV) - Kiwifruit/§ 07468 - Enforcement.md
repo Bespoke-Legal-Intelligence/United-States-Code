@@ -12,7 +12,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (1) Civil penalties
 
-&emsp;Any person who willfully violates any provision of any order or regulation issued by the Secretary under this subchapter, or who fails or refuses to pay, collect, or remit any assessment or fee duly required of the person under the order or regulation, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense.
+&emsp;Any person who willfully violates any provision of any order or regulation issued by theSecretary under this subchapter, or who fails or refuses to pay, collect, or remit any assessment or fee duly required of the person under the order or regulation, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense.
 
 #### (2) Cease-and-desist orders
 
@@ -46,7 +46,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (e) Failure to obey cease-and-desist orders
 
-Any person who fails to obey a cease-and-desist order issued by the Secretary after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not morethan $500 for each offense. Each day during which the failure continues shall be considered a separate violation of the cease-and-desist order.
+Any person who fails to obey a cease-and-desist order issued by the Secretary after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $500 for each offense. Each day during which the failure continues shall be considered a separate violation of the cease-and-desist order.
 
 #### (f) Failure to pay penalties
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The management of the Farm Credit Administration shall be vested in a Farm Credit Administration Board (referred to in this part as “the Board”). The Board shall consist of three members, who shall be citizens of the United States and broadly representative of the public interest. Members of the Board shall be appointed by the President, by and with the advice and consent of the Senate. Not more than two members of the Board shall be members of the same political party. Of the persons thus appointed, one shall be designated by the President to serve as Chairman of the Board for the duration of the member's term. The members of the Board shall be ineligible during the time they are in office and for two years thereafter to hold any office, position, or employment in any institution of the Farm Credit System.
+The management of the Farm Credit Administration shall be vested in a Farm Credit Administration Board (referred to in this part as “theBoard”). The Board shall consist of three members, who shall be citizens of the United States and broadly representative of the public interest. Members of the Board shall be appointed by the President, by and with the advice and consent of the Senate. Not more than two members of the Board shall be members of the same political party. Of the persons thus appointed, one shall be designated by the President to serve as Chairman of the Board for the duration of the member's term. The members of the Board shall be ineligible during the time they are in office and for two years thereafter to hold any office, position, or employment in any institution of the Farm Credit System.
 
 #### (b) Terms of office
 
@@ -14,7 +14,7 @@ Each member of the Board, within fifteen days after notice of appointment, shall
 
 #### (d) Compensation
 
-The members of the Board shall devote their full time and attention to the business of the Board. The Chairman of the Board shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5. Each of the other members of the Boardshall receive compensation at the rate prescribed for level IV of the Executive Schedule under section 5315 of title 5. Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the member's official duties without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States. This subsection shall be subject to the provisions of section 2245 of this title.
+The members of the Board shall devote their full time and attention to the business of the Board. The Chairman of the Board shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5. Each of the other members of the Board shall receive compensation at the rate prescribed for level IV of the Executive Schedule under section 5315 of title 5. Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the member's official duties without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States. This subsection shall be subject to the provisions of section 2245 of this title.
 
 #### (e) Qualifications of Farm Credit Administration Board members
 

@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) includes any documentary materials relating to the political activities of the President or members of his staff, but only if such activities relate to or have a direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; but
 
-&emsp;&emsp;(B) does not include any documentary materials that are (i) official records of an agency (as defined in section 552(e) <sup>1</sup> of title 5, United States Code); (ii) personal records; (iii) stocks of publications and stationery; or (iv) extra copies of documents produced only for convenience of reference, when such copies are clearly so identified.
+&emsp;&emsp;(B) does not include any documentary materials that are (i) official records of an agency (as defined in section 552(e) <sup>1</sup> of title 5, United States Code); (ii) personal records;\(iii) stocks of publications and stationery; or (iv) extra copies of documents produced only for convenience of reference, when such copies are clearly so identified.
 
 &emsp;(3) The term “personal records” means all documentary  materials,  or  any  reasonably segregable portion therof,<sup>2</sup> of a purely private or nonpublic character which do not relate to or have an effect upon the carrying out of the constitutional, statutory, or other official or ceremonial duties of the President. Such term includes—
 
@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) materials relating to private political associations, and having no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; and
 
-&emsp;&emsp;(C) materials relating exclusively to the President's own election to the office of the Presidency; and materials directly relatingto the election of a particular individual or individuals to Federal, State, or local office, which have no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President.
+&emsp;&emsp;(C) materials relating exclusively to the President's own election to the office of the Presidency; and materials directly relating to the election of a particular individual or individuals to Federal, State, or local office, which have no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President.
 
 &emsp;(4) The term “Archivist” means the Archivist of the United States.
 

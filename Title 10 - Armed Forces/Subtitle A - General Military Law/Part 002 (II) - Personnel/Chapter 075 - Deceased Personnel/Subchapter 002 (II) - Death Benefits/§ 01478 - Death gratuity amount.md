@@ -1,6 +1,6 @@
 ### §1478. Death gratuity: amount
 
-(a) The death gratuity payable under sections 1475 through 1477 of this title shall be $6,000. For this purpose:
+(a) The death gratuity payable under sections 1475 through 1477 of this title shall be $12,000. For this purpose:
 
 &emsp;(1) A person covered by subsection (a)(1) of section 1475 of this title who died while traveling to or from active duty (other than for training) is considered to have been on active duty on the date of his death.
 
@@ -20,7 +20,7 @@
 
 (b) A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387.)
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520.)
 
 Historical and Revision Notes
 
@@ -56,11 +56,19 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting “$12,000” for “$6,000” in introductory provisions.
+
 1991—Subsec. (a). Pub. L. 102–190, in first sentence, substituted “1475 through 1477” for “1475–1477” and “$6,000” for “equal to six months’ pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000.”
 
 1966—Subsec. (a)(4). Pub. L. 89–718 struck out “, United States Code” after “title 37” in two places.
 
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “the first sentence of section 209(c) of title 37, United States Code” for “section 4385(c) or 9385(c) of this title”, and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the pay prescribed by the second sentence of section 209(c) of Title 37.
+
+#### Effective Date of 2003 Amendments
+
+Pub. L. 108–136, div. A, title VI, §646(b), Nov. 24, 2003, 117 Stat. 1520, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
+
+Pub. L. 108–121, title I, §102(a)(2), Nov. 11, 2003, 117 Stat. 1337, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
 #### Effective Date of 1991 Amendment; Transition Provision
 

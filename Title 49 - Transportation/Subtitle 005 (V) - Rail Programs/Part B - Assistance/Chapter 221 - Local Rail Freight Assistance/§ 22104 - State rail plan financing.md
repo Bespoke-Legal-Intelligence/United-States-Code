@@ -6,7 +6,7 @@ Entitlement and Uses.—On the first day of each fiscal year, each State is enti
 
 &emsp;(1) to establish, update, revise, and modify the State plan required by section 22102 of this title; or
 
-&emsp;(2) to carry out projects described in section 22101(a)(1), (2), or (3) of this title, as designated by the State, if those projects meet the requirements of section 22101(c)(1)(B) of this title.
+&emsp;(2) to carry out projects described in section 22101(a)(1), (2), or (3) of this title, as designatedby the State, if those projects meet the requirements of section 22101(c)(1)(B) of this title.
 
 (b)
 

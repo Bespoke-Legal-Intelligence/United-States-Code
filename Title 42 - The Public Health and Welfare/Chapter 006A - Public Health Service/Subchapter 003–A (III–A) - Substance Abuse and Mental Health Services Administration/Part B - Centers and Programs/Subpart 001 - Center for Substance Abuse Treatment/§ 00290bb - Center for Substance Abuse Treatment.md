@@ -18,7 +18,7 @@ The Director of the Center shall—
 
 &emsp;(5) collaborate with the Director of the National Institute on Drug Abuse, with the Director of the National Institute on Alcohol Abuse and Alcoholism, and with the States to promote the study, dissemination, and implementation of research findings that will improve the delivery and effectiveness of treatment services;
 
-&emsp;(6) collaborate with the Administrator of the Health Resources and Services Administrationand the Administrator of the Health Care Financing Administration to promote the increased integration into the mainstream of the health care system of the United States of programs for providing treatment services;
+&emsp;(6) collaborate with the Administrator of the Health Resources and Services Administration and the Administrator of the Centers for Medicare \& Medicaid Services to promote the increased integration into the mainstream of the health care system of the United States of programs for providing treatment services;
 
 &emsp;(7) evaluate plans submitted by the States pursuant to section 300x–32(a)(6) of this title in order to determine whether the plans adequately provide for the availability, allocation, and effectiveness of treatment services;
 
@@ -38,9 +38,9 @@ The Director of the Center shall—
 
 #### (c) Grants and contracts
 
-In carrying out the duties established in subsection (b) of this section, the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+In carrying out the duties established in subsection (b) of this section, the Director maymake grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
-(July 1, 1944, ch. 373, title V, §507, as added Pub. L. 102–321, title I, §107(2), July 10, 1992, 106 Stat. 335; amended Pub. L. 106–310, div. B, title XXXI, §3112(a), Oct. 17, 2000, 114 Stat. 1188.)
+(July 1, 1944, ch. 373, title V, §507, as added Pub. L. 102–321, title I, §107(2), July 10, 1992, 106 Stat. 335; amended Pub. L. 106–310, div. B, title XXXI, §3112(a), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 108–173, title IX, §900(e)(2)(B), Dec. 8, 2003, 117 Stat. 2372.)
 
 #### Prior Provisions
 
@@ -49,6 +49,8 @@ A prior section 290bb, act July 1, 1944, ch. 373, title V, §510, formerly Pub. 
 A prior section 507 of act July 1, 1944, which was classified to section 290aa–5 of this title, was renumbered section 504 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290aa–3 of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(6). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 2000—Subsec. (b)(2) to (6). Pub. L. 106–310, §3112(a)(1), (2), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 

@@ -8,3 +8,7 @@ The administration, protection, and promotion of said Zion National Park shall b
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Obligation of Fees for Transportation Services at Zion or Rocky Mountain National Parks
+
+For provisions relating to obligation of expenditure of fees prior to receipt for transportation service contracts, see section 140 of Pub. L. 108–7, set out as a note under section 195 of this title.
+

@@ -26,7 +26,7 @@ Other Projects.—Except as otherwise provided in this title, the Federal share 
 
 Increased Federal Share for Certain Safety Projects.—The Federal share payable on account of any project for traffic control signalization, safety rest areas, pavement marking, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
 
-(d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior isauthorized and directed to provide such statement annually.
+(d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
 
 (e)
 
@@ -64,7 +64,7 @@ Condition on receipt of credit.—To receive a credit under paragraph (1) for a 
 
 &emsp;&emsp;(C)
 
-Transportation capital expenditures defined.—In subparagraph (B), the term “non-Federal transportation capital expenditures” includes any payments made by the State for issuance of transportation-related bonds.
+Transportation capital expenditures defined.—In subparagraph (B), the term “non-Federal transportation capital expenditures” includes any payments madeby the State for issuance of transportation-related bonds.
 
 &emsp;(3)
 
@@ -126,7 +126,7 @@ Subsec. (<i>l</i>). Pub. L. 105–178, §1115(f)(1), as added by Pub. L. 105–2
 
 Subsec. (d). Pub. L. 102–240, §1022(a), which directed the substitution of “180 days” for “90 days” in subsec. (d) as redesignated, could not be executed because the phrase “90 days” does not appear in subsec. (d) as redesignated.
 
-Pub. L. 102–240, §1021(b)(3), which directed the substitution of “and (b)” for “and (c)” in subsec. (d) as redesignated”, could not be executed because the phrase “and (c)” does not appear in subsec. (d) as redesignated.
+Pub. L. 102–240, §1021(b)(3), which directed the substitution of “and (b)” for “and (c)” in subsec. (d) as redesignated, could not be executed because the phrase “and (c)” does not appear in subsec. (d) as redesignated.
 
 Pub. L. 102–240, §1021(a), (b)(2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to Federal share for projects for railway-highway crossing elimination, traffic control signalization, pavement marking, carpooling and vanpooling, and installation of traffic signs, highway lights, guardrails, and impact attenuators.
 
@@ -136,7 +136,7 @@ Subsecs. (f) to (h). Pub. L. 102–240, §1021(b)(2), redesignated subsecs. (g) 
 
 Subsec. (i). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i). Former subsec. (i) redesignated (h).
 
-Subsecs. (j) to (m). Pub. L. 102–240, §1021(b)(1), struck out subsec. (j) which related to Federal share of project financed under section 307(c) of this title, subsec. (k) which related to Federal share of projects under sections 143 and 155 of this title and projects for priority primary routes under section 147 of this title, subsec. (<i>l</i>) which related to Federal share of projects to reconstruct, resurface, restore and rehabilitate highways which incurred substantial use as result of transportation activities to meet national energy requirements, and subsec. (m) which related to Federal share of Great River Road projects under section 148 of this title.
+Subsecs. (j) to (m). Pub. L. 102–240, §1021(b)(1), struck out subsec. (j) which related to Federal share of project financed under section 307(c) of this title, subsec. (k) which related to Federal share of projects under sections 143 and 155 of this title and projects for priority primary routes under section 147 of this title, subsec. (<i>l</i>) which related to Federal share of projects to reconstruct, resurface, restore and rehabilitate highways which incurred substantial use as result of transportation activities to meet national energy requirements,and subsec. (m) which related to Federal share of Great River Road projects under section 148 of this title.
 
 Subsec. (n). Pub. L. 102–240, §1021(b)(2), redesignated subsec. (n) as (i).
 
@@ -154,7 +154,7 @@ Subsec. (m). Pub. L. 100–17, §117(d)(2), added subsec. (m).
 
 Subsec. (n). Pub. L. 100–17, §117(e), added subsec. (n).
 
-1983—Subsec. (j). Pub. L. 98–78 inserted “, and for funds allocated under the provisions of section 155 ofthis title and obligated subsequent to January 6, 1983,” after “Representatives”.
+1983—Subsec. (j). Pub. L. 98–78 inserted “, and for funds allocated under the provisions of section 155 of this title and obligated subsequent to January 6, 1983,” after “Representatives”.
 
 1983—Subsec. (c). Pub. L. 97–424, §117(a), inserted provision at end that, notwithstanding subsection (a) of this section, the Federal share payable on account of any project financed with primary funds on the Interstate System for resurfacing, restoring, rehabilitating, and reconstructing shall be the percentage provided in this subsection.
 
@@ -204,7 +204,7 @@ Subsec. (h). Pub. L. 86–70, §21(d)(4), repealed subsec. (h) which related to 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, andprovisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -334,7 +334,7 @@ Section 21(d)(4) of Pub. L. 86–70, which repealed subsec. (h) of this section,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 104, 107, 122, 125, 130, 133, 142, 147, 148, 206, 217 of this title; title 42 section 3338.
+This section is referred to in sections 104, 107, 122, 125, 130, 133, 142, 147, 148, 206, 217 of this title; title 42 section 3338; title 49 section 5339.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “such highway”.</i>
 

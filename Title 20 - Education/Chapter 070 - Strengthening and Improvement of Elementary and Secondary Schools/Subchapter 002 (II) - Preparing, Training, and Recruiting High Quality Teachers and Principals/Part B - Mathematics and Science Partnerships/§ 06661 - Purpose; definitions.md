@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this part is to improve the academic achievement of students in the areas of mathematics and science by encouraging State educational agencies, institutions of higher education, local educational agencies, elementary schools, and secondary schools to participate in programs that—
+The purpose of this part is to improve the academic achievement of students in the areas ofmathematics and science by encouraging State educational agencies, institutions of higher education, local educational agencies, elementary schools, and secondary schools to participate in programs that—
 
 &emsp;(1) improve and upgrade the status and stature of mathematics and science teaching by encouraging institutions of higher education to assume greater responsibility for improving mathematics and science teacher education through the establishment of a comprehensive, integrated system of recruiting, training, and advising mathematics and science teachers;
 
@@ -80,7 +80,7 @@ Section 6661f, Pub. L. 89–10, title II, §2257, as added Pub. L. 105–277, di
 
 Section 6661g, Pub. L. 89–10, title II, §2258, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–405, related to information dissemination. See sections 6367 and 6374 of this title.
 
-Section 6661h, Pub. L. 89–10, title II, §2259, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–405, related to State evaluations and performance reports.
+Section 6661h, Pub. L. 89–10, title II, §2259, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\],Oct. 21, 1998, 112 Stat. 2681–337, 2681–405, related to State evaluations and performance reports.
 
 Section 6661i, Pub. L. 89–10, title II, §2260, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §101(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–406; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(b)(2)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, related to authorization of appropriations, reservations from appropriations, and sunset.
 

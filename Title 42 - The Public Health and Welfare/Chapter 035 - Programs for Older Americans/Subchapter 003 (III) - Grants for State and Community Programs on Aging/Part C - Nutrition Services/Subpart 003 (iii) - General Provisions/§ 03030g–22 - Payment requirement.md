@@ -12,7 +12,7 @@ Section 3030h, Pub. L. 89–73, title III, §341, as added Pub. L. 100–175, ti
 
 Section 3030i, Pub. L. 89–73, title III, §342, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945; amended Pub. L. 102–375, title I, §102(b)(7), title III, §318, Sept. 30, 1992, 106 Stat. 1201, 1241, defined “in-home services”.
 
-Section 3030j, Pub. L. 89–73, title III, §343, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat.945, provided for the State agency to develop eligibility criteria.
+Section 3030j, Pub. L. 89–73, title III, §343, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945, provided for the State agency to develop eligibility criteria.
 
 Section 3030k, Pub. L. 89–73, title III, §344, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 946, required that funds available under former part D of this subchapter be in addition to funds otherwise expended.
 

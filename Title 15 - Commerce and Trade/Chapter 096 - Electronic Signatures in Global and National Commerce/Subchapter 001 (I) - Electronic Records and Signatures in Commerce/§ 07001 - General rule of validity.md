@@ -76,7 +76,7 @@ This subchapter does not—
 
 #### (1) Accuracy and accessibility
 
-&emsp;If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstate or foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
+&emsp;If a statute, regulation, or other rule of law requires that a contract or other record relating to a transaction in or affecting interstateor foreign commerce be retained, that requirement is met by retaining an electronic record of the information in the contract or other record that—
 
 &emsp;&emsp;(A) accurately reflects the information set forth in the contract or other record; and
 

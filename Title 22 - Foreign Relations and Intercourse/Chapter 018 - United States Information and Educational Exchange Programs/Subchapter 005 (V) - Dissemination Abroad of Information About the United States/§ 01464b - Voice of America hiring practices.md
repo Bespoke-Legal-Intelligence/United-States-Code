@@ -16,7 +16,7 @@ The prohibition referred to in this section shall not apply to—
 
 If the Broadcasting Board of Governors determines that the prohibition under subsection (a) of this section would require the termination of a specific Voice of America foreign language service, then, not less than 90 days before the Board begins to recruit such candidates, the Board shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report concerning—
 
-&emsp;(1) the number and location of speakers of the applicable foreign language who could be recruited by the Voice of America without violating this section; and
+&emsp;(1) the number and location of speakers of the applicable foreign language who could berecruited by the Voice of America without violating this section; and
 
 &emsp;(2) the efforts made by the Voice of America to recruit such individuals for employment.
 

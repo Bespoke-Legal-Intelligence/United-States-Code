@@ -44,7 +44,7 @@ For purposes of this subchapter—
 
 > &emsp;These accounts shall be shown in the budget on a cash basis.
 
-&emsp;(9) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+&emsp;(9) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee\(or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
 &emsp;(10) The term “current” has the same meaning as in section 900(c)(9) of this title.
 
@@ -58,7 +58,7 @@ A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 #### Amendments
 
-1997—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+<b>1997</b>—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
 
 Par. (5)(A). Pub. L. 105–33, §10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
 

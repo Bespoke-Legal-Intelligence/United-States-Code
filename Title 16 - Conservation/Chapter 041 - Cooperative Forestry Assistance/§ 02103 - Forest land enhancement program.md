@@ -234,7 +234,7 @@ A prior section 2103, Pub. L. 95–313, §4, July 1, 1978, 92 Stat. 367; Pub. L.
 
 #### Use of Remaining Funds
 
-Pub. L. 107–171, title VIII, §8001(b), May 13, 2002, 116 Stat. 468, provided that: “Notwithstanding the amendment made by subsection (a) \[repealing former sections 2103 and 2103b of this title\], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act \[May 13, 2002\], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 \[former sections 2103 and 2103b of this title\],as in effect on the date before the date of enactment of this Act.”
+Pub. L. 107–171, title VIII, §8001(b), May 13, 2002, 116 Stat. 468, provided that: “Notwithstanding the amendment made by subsection (a) \[repealing former sections 2103 and 2103b of this title\], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act \[May 13, 2002\], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 \[former sections 2103 and 2103b of this title\], as in effect on the date before the date of enactment of this Act.”
 
 #### Purposes of Forest Land Enhancement Program
 

@@ -28,11 +28,11 @@ There is established in the Treasury a fund to be known as the Christopher Colum
 
 #### (3) Special obligations
 
-&emsp;The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that, if such average rate is not a multiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue at the market price, is not in the public interest.
+&emsp;The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States thenforming a part of the public debt; except that, if such average rate is not a multiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue at the market price, is not in the public interest.
 
 #### (c) Sale of obligations
 
-Any obligations acquired by the fund (except special obligations issued exclusively to thefund in accordance with subsection (b)(3) of this section) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
+Any obligations acquired by the fund (except special obligations issued exclusively to the fund in accordance with subsection (b)(3) of this section) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
 
 #### (d) Interest
 

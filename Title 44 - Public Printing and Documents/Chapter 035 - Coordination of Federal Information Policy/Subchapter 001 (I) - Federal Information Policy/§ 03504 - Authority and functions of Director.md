@@ -48,7 +48,7 @@
 
 &emsp;(5) establish and oversee standards and guidelines by which agencies are to estimate the burden to comply with a proposed collection of information; <sup>1</sup>
 
-&emsp;(6) publish in the Federal Register and make available on the Internet (in consultation withthe Small Business Administration) on an annual basis a list of the compliance assistance resources available to small businesses, with the first such publication occurring not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
+&emsp;(6) publish in the Federal Register and make available on the Internet (in consultation with the Small Business Administration) on an annual basis a list of the compliance assistance resources available to small businesses, with the first such publication occurring not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
 
 (d) With respect to information dissemination, the Director shall develop and oversee the implementation of policies, principles, standards, and guidelines to—
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B) regulations promulgated by the Archivist of the United States and the Administrator of General Services; and
 
-&emsp;(3) oversee the application of records management policies, principles, standards, and guidelines, including requirements for archiving information maintained in electronic format, in the planning and design of information systems.
+&emsp;(3) oversee the application of records management policies, principles, standards, andguidelines, including requirements for archiving information maintained in electronic format, in the planning and design of information systems.
 
 (g) With respect to privacy and security, the Director shall—
 

@@ -12,7 +12,7 @@ Beginning in fiscal year 2003, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) A fee established under subsection (c)(4) of this section for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required for approval.
 
-&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(4) of this section for a human drug application for which clinical data with respect to safety or effectiveness are not required or a supplement for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required. Such feeshall be half of the amount of the fee established under clause (i).
+&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(4) of this section for a human drug application for which clinical data with respect to safety or effectiveness are not required or a supplement for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required. Such fee shall be half of the amount of the fee established under clause (i).
 
 #### (B) Payment
 
@@ -139,7 +139,7 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, fees u
 
 #### (B) Waiver of application fee
 
-&emsp;&emsp;The Secretary shall waive under paragraph (1)(D) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
+&emsp;&emsp;The Secretary shall waive under paragraph (1)(D) the application fee for the first humandrug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
 
 &emsp;&emsp;&emsp;(i) application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business; and
 
@@ -207,7 +207,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (h) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the UnitedStates Government subject to subchapter II of chapter 37 of title 31.
 
 #### (i) Written requests for waivers, reductions, and refunds
 
@@ -325,13 +325,13 @@ Subsec. (a)(2). Pub. L. 105–115, §§103(a)(3), 107, temporarily reenacted hea
 
 Subsec. (a)(3)(A). Pub. L. 105–115, §§103(a)(4)(A), 107, temporarily substituted, in cl. (i), “has been submitted for listing” for “is listed” and, in closing provisions, “Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.” for “Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.” See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (a)(3)(B). Pub. L. 105–115, §§103(a)(4)(B), 107, temporarily substituted “355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuantto regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.” for “355(j) of this title.”. See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (a)(3)(B). Pub. L. 105–115, §§103(a)(4)(B), 107, temporarily substituted “355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.” for “355(j) of this title.”. See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (b). Pub. L. 105–115, §§103(b), 107, temporarily amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fee amounts, including a schedule of fees in par. (1) and fee exceptions for certain small businesses in par. (2). See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (c). Pub. L. 105–115, §§103(c)(1), 107, temporarily substituted “Adjustments” for “Increases and adjustments” in heading. See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (c)(1). Pub. L. 105–115, §§103(c)(2), 107, temporarily substituted “Inflation adjustment” for “Revenue increase” in heading, “The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary” for “The total fee revenues established by the schedule in subsection (b)(1) of this section shall be increased by the Secretary” in introductory provisions, and “change” for “increase” after “total percentage” in subpars. (A) and (B), and inserted at end “The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection.” See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (c)(1). Pub. L. 105–115, §§103(c)(2), 107, temporarily substituted “Inflation adjustment” for “Revenueincrease” in heading, “The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary” for “The total fee revenues established by the schedule in subsection (b)(1) of this section shall be increased by the Secretary” in introductory provisions, and “change” for “increase” after “total percentage” in subpars. (A) and (B), and inserted at end “The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection.” See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 105–115, §§103(c)(3), 107, temporarily substituted “September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.” for “October 1, 1992, adjust the fees established by the schedule in subsection (b)(1) of this section for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule.” See Effective and Termination Dates of 1997 Amendment note below.
 
@@ -383,5 +383,5 @@ Section 103(h) of Pub. L. 105–115 provided that: “Any requests for waivers o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 356, 379g of this title; title 42 section 282.
+This section is referred to in sections 356, 379g, 379j–12 of this title; title 42 section 282.
 

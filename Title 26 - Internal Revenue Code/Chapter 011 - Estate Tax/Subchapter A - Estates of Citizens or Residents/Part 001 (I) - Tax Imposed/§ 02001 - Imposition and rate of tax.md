@@ -157,7 +157,7 @@ Subsec. (f)(2). Pub. L. 105–277 inserted concluding provisions.
 
 Subsec. (f). Pub. L. 105–34, §506(a), added subsec. (f).
 
-1993—Subsec. (c)(1). Pub. L. 103–66, §13208(a), substituted in table provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000 and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000 for provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000.
+1993—Subsec. (c)(1). Pub. L. 103–66, §13208(a), substituted in table provisions that if the amount on which the tax is computed is over $2,500,000 but notover $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000 and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000 for provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000.
 
 Subsec. (c)(2), (3). Pub. L. 103–66, §13208(b)(1), (2), redesignated par. (3) as (2), struck out “($18,340,000 in the case of decedents dying, and gifts made, after 1992)” after “exceed $21,040,000”, and struck out former par. (2) which related to the rates of tax on estates under this section for the years 1982 to 1992.
 
@@ -175,7 +175,7 @@ Subsec. (c)(3). Pub. L. 100–203, §10401(b)(1), added par. (3).
 
 1981—Subsec. (b)(2). Pub. L. 97–34, §402(c), inserted “which would have been” before “payable” and “, if the rate schedule set forth in subsection (c) (as in effect at the decedent's death) had been applicable at the time of such gifts” after “December 31, 1976,”.
 
-Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as par. (1), inserted heading “In general” and substituted in table provision that if the amount computed is over $2,500,000 then the tentativetax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
+Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as par. (1), inserted heading “In general” and substituted in table provision that if the amount computed is over $2,500,000 then the tentative tax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
 
 1978—Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
@@ -231,7 +231,7 @@ Section 702(h)(3) of Pub. L. 95–600 provided that: “The amendments made by t
 
 #### Effective Date of 1976 Amendment
 
-Section 2001(d)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L) of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
+Section 2001(d)(1) of Pub. L. 94–455 provided that: “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing section 2052 of this title\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending section 2035 of this title\] and subparagraphs (K) and (L) of subsection (c)(1)\[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
 
 #### Short Title
 
@@ -255,7 +255,7 @@ In general.—The provisions of subsection (a) shall apply to the estates of dec
 
 &emsp;“(2)
 
-Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estateor gift tax return showing such transfer as subject to Federal estate or gift tax.
+Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
 
 &emsp;“(3)
 

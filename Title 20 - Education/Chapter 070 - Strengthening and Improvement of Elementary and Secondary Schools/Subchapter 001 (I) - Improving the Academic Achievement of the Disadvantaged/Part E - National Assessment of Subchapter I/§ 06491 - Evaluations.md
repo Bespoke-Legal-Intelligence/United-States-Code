@@ -92,7 +92,7 @@
 
 #### (A) Interim report
 
-&emsp;&emsp;Not later than 3 years after January 8, 2002, the Secretary shall transmit to the President, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate an interim report on the national assessment conducted under this subsection.
+&emsp;&emsp;Not later than 3 years after January 8, 2002, the Secretary shall transmit to the President, the Committee on Education andthe Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate an interim report on the national assessment conducted under this subsection.
 
 #### (B) Final report
 

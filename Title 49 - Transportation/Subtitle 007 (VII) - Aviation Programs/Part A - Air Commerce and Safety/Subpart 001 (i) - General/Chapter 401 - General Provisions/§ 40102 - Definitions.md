@@ -52,7 +52,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) a partnership each of whose partners is an individual who is a citizen of the United States; or
 
-&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or a State, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
+&emsp;&emsp;(C) a corporation or association organized under the laws of the United States or aState, the District of Columbia, or a territory or possession of the United States, of which the president and at least two-thirds of the board of directors and other managing officers are citizens of the United States, which is under the actual control of citizens of the United States, and in which at least 75 percent of the voting interest is owned or controlled by persons that are citizens of the United States.
 
 &emsp;(16) “civil aircraft” means an aircraft except a public aircraft.
 
@@ -118,27 +118,39 @@ General Definitions.—In this part—
 
 &emsp;(28) “landing area” means a place on land or water, including an airport or intermediate landing field, used, or intended to be used, for the takeoff and landing of aircraft, even when facilities are not provided for sheltering, servicing, or repairing aircraft, or for receiving or discharging passengers or cargo.
 
-&emsp;(29) “mail” means United States mail and foreign transit mail.
+&emsp;(29) “large hub airport” means a commercial service airport (as defined in section 47102) that has at least 1.0 percent of the passenger boardings.
 
-&emsp;(30) “navigable airspace” means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
+&emsp;(30) “mail” means United States mail and foreign transit mail.
 
-&emsp;(31) “navigate aircraft” and “navigation of aircraft” include piloting aircraft.
+&emsp;(31) “medium hub airport” means a commercial service airport (as defined in section 47102) that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
 
-&emsp;(32) “operate aircraft” and “operation of aircraft” mean using aircraft for the purposes of air navigation, including—
+&emsp;(32) “navigable airspace” means airspace above the minimum altitudes of flight prescribed by regulations under this subpart and subpart III of this part, including airspace needed to ensure safety in the takeoff and landing of aircraft.
+
+&emsp;(33) “navigate aircraft” and “navigation of aircraft” include piloting aircraft.
+
+&emsp;(34) “nonhub airport” means a commercial service airport (as defined in section 47102) that has less than 0.05 percent of the passenger boardings.
+
+&emsp;(35) “operate aircraft” and “operation of aircraft” mean using aircraft for the purposes of air navigation, including—
 
 &emsp;&emsp;(A) the navigation of aircraft; and
 
 &emsp;&emsp;(B) causing or authorizing the operation of aircraft with or without the right of legal control of the aircraft.
 
-&emsp;(33) “person”, in addition to its meaning under section 1 of title 1, includes a governmental authority and a trustee, receiver, assignee, and other similar representative.
+&emsp;(36) “passenger boardings”—
 
-&emsp;(34) “predatory” means a practice that violates the antitrust laws as defined in the first section of the Clayton Act (15 U.S.C. 12).
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
 
-&emsp;(35) “price” means a rate, fare, or charge.
+&emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
-&emsp;(36) “propeller” includes a part, appurtenance, and accessory of a propeller.
+&emsp;(37) “person”, in addition to its meaning under section 1 of title 1, includes a governmental authority and a trustee, receiver, assignee, and other similar representative.
 
-&emsp;(37) “public aircraft” means any of the following:
+&emsp;(38) “predatory” means a practice that violates the antitrust laws as defined in the first section of the Clayton Act (15 U.S.C. 12).
+
+&emsp;(39) “price” means a rate, fare, or charge.
+
+&emsp;(40) “propeller” includes a part, appurtenance, and accessory of a propeller.
+
+&emsp;(41) “public aircraft” means any of the following:
 
 &emsp;&emsp;(A) Except with respect to an aircraft described in subparagraph (E), an aircraft used only for the United States Government, except as provided in section 40125(b).
 
@@ -150,19 +162,21 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(E) An aircraft owned or operated by the armed forces or chartered to provide transportation to the armed forces under the conditions specified by section 40125(c).
 
-&emsp;(38) “spare part” means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
+&emsp;(42) “small hub airport” means a commercial service airport (as defined in section 47102) that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
 
-&emsp;(39) “State authority” means an authority of a State designated under State law—
+&emsp;(43) “spare part” means an accessory, appurtenance, or part of an aircraft (except an aircraft engine or propeller), aircraft engine (except a propeller), propeller, or appliance, that is to be installed at a later time in an aircraft, aircraft engine, propeller, or appliance.
+
+&emsp;(44) “State authority” means an authority of a State designated under State law—
 
 &emsp;&emsp;(A) to receive notice required to be given a State authority under subpart II of this part; or
 
 &emsp;&emsp;(B) as the representative of the State before the Secretary of Transportation in any matter about which the Secretary is required to consult with or consider the views of a State authority under subpart II of this part.
 
-&emsp;(40) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
+&emsp;(45) “ticket agent” means a person (except an air carrier, a foreign air carrier, or an employee of an air carrier or foreign air carrier) that as a principal or agent sells, offers for sale, negotiates for, or holds itself out as selling, providing, or arranging for, air transportation.
 
-&emsp;(41) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
+&emsp;(46) “United States” means the States of the United States, the District of Columbia, and the territories and possessions of the United States, including the territorial sea and the overlying airspace.
 
-&emsp;(42) “air traffic control system” means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including—
+&emsp;(47) “air traffic control system” means the combination of elements used to safely and efficiently monitor, direct, control, and guide aircraft in the United States and United States-assigned airspace, including—
 
 &emsp;&emsp;(A) allocated electromagnetic spectrum and physical, real, personal, and intellectual property assets making up facilities, equipment, and systems employed to detect, track, and guide aircraft movement;
 
@@ -176,7 +190,7 @@ General Definitions.—In this part—
 
 Limited Definition.—In subpart II of this part, “control” means control by any means.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1097; Pub. L. 103–305, title VI, §601(b)(2)(B), Aug. 23, 1994, 108 Stat. 1606; Pub. L. 103–411, §3(a), Oct. 25, 1994, 108 Stat. 4236; Pub. L. 103–429, §6(46), Oct. 31, 1994, 108 Stat. 4384; Pub. L. 105–137, §6, Dec. 2, 1997, 111 Stat. 2641; Pub. L. 106–181, title III, §301, title VII, §702(a), Apr. 5, 2000, 114 Stat. 115, 155; Pub. L. 108–176, title II, §225(a), title VIII, §807, Dec. 12, 2003, 117 Stat. 2528, 2588.)
 
 Historical and Revision Notes
 
@@ -442,6 +456,10 @@ This makes a conforming amendment for consistency with the style of title 49.
 
 #### Amendments
 
+2003—Subsec. (a)(15)(C). Pub. L. 108–176, §807, inserted “which is under the actual control of citizens of the United States,” before “and in which”.
+
+Subsec. (a)(29) to (47). Pub. L. 108–176, §225(a), added pars. (29), (31), (34), (36), and (42) and redesignated former pars. (29), (30), (31), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), and (42) as (30), (32), (33), (35), (37), (38), (39), (40), (41), (43), (44), (45), (46), and (47), respectively.
+
 2000—Subsec. (a)(37). Pub. L. 106–181, §702(a), amended par. (37) generally, revising and restating provisions defining “public aircraft” to include references to qualifications found in section 40125(b) and (c).
 
 Subsec. (a)(42). Pub. L. 106–181, §301, added par. (42).
@@ -453,6 +471,10 @@ Subsec. (a)(42). Pub. L. 106–181, §301, added par. (42).
 Subsec. (a)(35). Pub. L. 103–305 struck out “for air transportation” after “charge”.
 
 Subsec. (a)(37)(B). Pub. L. 103–411 added subpar. (B) and struck out former subpar. (B) which read as follows: “does not include a government-owned aircraft transporting passengers or property for commercial purposes.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -500,5 +522,5 @@ Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 321, 1101, 1131, 5114, 40125, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511, 9783; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
+This section is referred to in sections 106, 321, 1101, 1131, 5114, 40125, 44903, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511, 9783; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
 

@@ -40,7 +40,7 @@ As used in this section—
 
 &emsp;(1) the term “housing” means (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
 
-&emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or forother essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
+&emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
 
 &emsp;(3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities or the handling of such commodities in the unprocessed stage, without respect to the source of employment, except that—
 
@@ -98,7 +98,7 @@ Subsec. (j). Pub. L. 106–569, §708(b), struck out heading and text of subsec.
 
 1988—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
 
-Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States,or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
+Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States, or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
 
 Subsec. (i). Pub. L. 100–628 added subsec. (i).
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 95–557, §504, added subsec. (g).
 
 1977—Subsec. (f)(3). Pub. L. 95–128 extended definition of “domestic farm labor” to include laborers on farms situated in Puerto Rico and the Virgin Islands and the residents of the islands after being legally admitted for permanent residence.
 
-1970—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housing and related facilities for domestic farm labor any place within the State where need exists.
+1970—Subsec. (a). Pub. L. 91–609, §801(a), authorized insurance of loans to broad-based nonprofit organizations and nonprofit organizations of farmworkers incorporated within the State and provided for housingand related facilities for domestic farm labor any place within the State where need exists.
 
 Subsec. (a)(2). Pub. L. 91–609, §801(b), substituted “1” for “5” per centum.
 

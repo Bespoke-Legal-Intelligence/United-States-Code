@@ -312,7 +312,7 @@ Section 4943.—
 
 &emsp;&emsp;“(i) the foundation does not purchase any stock or other interest in the enterprise described in subparagraph (A) after May 26, 1969, and does not acquire any stock or other interest in any other business enterprise which constitutes excess business holdings under section 4943; and
 
-&emsp;&emsp;“(ii) in the last 5 taxable years ending on or before December 31, 1970, the foundation expends substantially all of its adjusted net income (as defined in section 4942(f)) for the purpose or function for which it is organized and operated.
+&emsp;&emsp;“(ii) in the last 5 taxable years ending on or before December 31, 1970, the foundation expends substantially all of its adjusted net income (as definedin section 4942(f)) for the purpose or function for which it is organized and operated.
 
 &emsp;“(C) For purposes of section 4943(c)(6), the term ‘purchase’ does not include an exchange which is described in paragraph (2)(B) of this subsection and which is pursuant to a plan for disposition of excess business holdings.
 

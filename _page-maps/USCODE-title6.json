@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title6",
- "package": "USCODE-2002-title6",
+ "package": "USCODE-2003-title6",
  "pieces": [
   {
    "id": "6_",
@@ -27,47 +27,47 @@
      60,
      [
       [
-       68,
+       22,
        "[Page 2]"
       ]
      ]
     ],
     [
      "I",
-     206,
+     205,
      [
       [
-       46,
+       22,
        "[Page 3]"
       ]
      ]
     ],
     [
      "I",
-     350,
+     349,
      [
       [
-       16,
+       41,
        "[Page 4]"
       ]
      ]
     ],
     [
      "I",
-     515,
+     508,
      [
       [
-       40,
+       86,
        "[Page 5]"
       ]
      ]
     ],
     [
      "I",
-     678,
+     667,
      [
       [
-       22,
+       31,
        "[Page 6]"
       ]
      ]
@@ -84,26 +84,26 @@
    "marks": [
     [
      "I",
-     62,
+     54,
      [
       [
-       223,
+       140,
        "[Page 7]"
       ]
      ]
     ],
     [
      "L",
-     174,
+     132,
      "[Page 8]",
      true
     ],
     [
      "I",
-     308,
+     266,
      [
       [
-       295,
+       91,
        "[Page 9]"
       ]
      ]
@@ -117,11 +117,27 @@
   },
   {
    "id": "6_102",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 10]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/§ 00102 - Construction; severability.md",
    "printed_pages": [
     9,
-    9
+    10
+   ]
+  },
+  {
+   "id": "6_103",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/§ 00103 - Use of appropriated funds.md",
+   "printed_pages": [
+    10,
+    10
    ]
   },
   {
@@ -129,8 +145,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 001 (I) - Department of Homeland Security/README.md",
    "printed_pages": [
-    9,
-    9
+    10,
+    10
    ]
   },
   {
@@ -138,26 +154,20 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 10]",
-     true
-    ],
-    [
-     "L",
-     134,
+     78,
      "[Page 11]",
      true
     ],
     [
      "L",
-     258,
+     216,
      "[Page 12]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 001 (I) - Department of Homeland Security/§ 00111 - Executive department; mission.md",
    "printed_pages": [
-    9,
+    10,
     12
    ]
   },
@@ -166,10 +176,10 @@
    "marks": [
     [
      "I",
-     68,
+     32,
      [
       [
-       88,
+       223,
        "[Page 13]"
       ]
      ]
@@ -183,11 +193,22 @@
   },
   {
    "id": "6_113",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     54,
+     [
+      [
+       114,
+       "[Page 14]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 001 (I) - Department of Homeland Security/§ 00113 - Other officers.md",
    "printed_pages": [
     13,
-    13
+    14
    ]
   },
   {
@@ -195,8 +216,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/README.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -204,8 +225,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part A - Directorate for Information Analysis and Infrastructure Protection; Access to Information/README.md",
    "printed_pages": [
-    13,
-    13
+    14,
+    14
    ]
   },
   {
@@ -213,65 +234,57 @@
    "marks": [
     [
      "I",
-     32,
+     56,
      [
       [
-       92,
-       "[Page 14]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     74,
-     [
-      [
-       363,
+       218,
        "[Page 15]"
       ]
      ]
     ],
     [
+     "L",
+     128,
+     "[Page 16]",
+     true
+    ],
+    [
      "I",
-     166,
+     186,
      [
       [
-       153,
-       "[Page 16]"
+       414,
+       "[Page 17]"
       ]
      ]
     ],
     [
      "L",
-     216,
-     "[Page 17]",
+     266,
+     "[Page 18]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part A - Directorate for Information Analysis and Infrastructure Protection; Access to Information/§ 00121 - Directorate for Information Analysis and Infrastructure Protection.md",
    "printed_pages": [
-    13,
-    17
+    14,
+    18
    ]
   },
   {
    "id": "6_122",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       460,
-       "[Page 18]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 19]",
+     true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part A - Directorate for Information Analysis and Infrastructure Protection; Access to Information/§ 00122 - Access to information.md",
    "printed_pages": [
-    17,
-    18
+    18,
+    19
    ]
   },
   {
@@ -279,28 +292,24 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part B - Critical Infrastructure Information/README.md",
    "printed_pages": [
-    18,
-    18
+    19,
+    19
    ]
   },
   {
    "id": "6_131",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       316,
-       "[Page 19]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 20]",
+     true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part B - Critical Infrastructure Information/§ 00131 - Definitions.md",
    "printed_pages": [
-    18,
-    19
+    19,
+    20
    ]
   },
   {
@@ -308,8 +317,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part B - Critical Infrastructure Information/§ 00132 - Designation of critical infrastructure protection program.md",
    "printed_pages": [
-    19,
-    19
+    20,
+    20
    ]
   },
   {
@@ -317,20 +326,10 @@
    "marks": [
     [
      "I",
-     6,
+     38,
      [
       [
-       362,
-       "[Page 20]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     70,
-     [
-      [
-       536,
+       95,
        "[Page 21]"
       ]
      ]
@@ -338,17 +337,24 @@
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part B - Critical Infrastructure Information/§ 00133 - Protection of voluntarily shared critical infrastructure information.md",
    "printed_pages": [
-    19,
+    20,
     21
    ]
   },
   {
    "id": "6_134",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 22]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part B - Critical Infrastructure Information/§ 00134 - No private right of action.md",
    "printed_pages": [
     21,
-    21
+    22
    ]
   },
   {
@@ -356,8 +362,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part C - Information Security/README.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
@@ -365,23 +371,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part C - Information Security/§ 00141 - Procedures for sharing information.md",
    "printed_pages": [
-    21,
-    21
+    22,
+    22
    ]
   },
   {
    "id": "6_142",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 22]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part C - Information Security/§ 00142 - Privacy officer.md",
    "printed_pages": [
-    21,
+    22,
     22
    ]
   },
@@ -408,10 +407,10 @@
    "marks": [
     [
      "I",
-     60,
+     16,
      [
       [
-       112,
+       98,
        "[Page 23]"
       ]
      ]
@@ -445,16 +444,30 @@
    "id": "6_162",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 24]",
-     true
+     "I",
+     16,
+     [
+      [
+       89,
+       "[Page 24]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       184,
+       "[Page 25]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part D - Office of Science and Technology/§ 00162 - Mission of Office; duties.md",
    "printed_pages": [
     23,
-    24
+    25
    ]
   },
   {
@@ -462,33 +475,37 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part D - Office of Science and Technology/§ 00163 - Definition of law enforcement technology.md",
    "printed_pages": [
-    24,
-    24
+    25,
+    25
    ]
   },
   {
    "id": "6_164",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 25]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part D - Office of Science and Technology/§ 00164 - Abolishment of Office of Science and Technology of National Institute of Justice; transfer of functions.md",
    "printed_pages": [
-    24,
+    25,
     25
    ]
   },
   {
    "id": "6_165",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       91,
+       "[Page 26]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 002 (II) - Information Analysis and Infrastructure Protection/Part D - Office of Science and Technology/§ 00165 - National Law Enforcement and Corrections Technology Centers.md",
    "printed_pages": [
     25,
-    25
+    26
    ]
   },
   {
@@ -496,8 +513,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/README.md",
    "printed_pages": [
-    25,
-    25
+    26,
+    26
    ]
   },
   {
@@ -505,33 +522,33 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00181 - Under Secretary for Science and Technology.md",
    "printed_pages": [
-    25,
-    25
+    26,
+    26
    ]
   },
   {
    "id": "6_182",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 26]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00182 - Responsibilities and authorities of the Under Secretary for Science and Technology.md",
    "printed_pages": [
-    25,
+    26,
     26
    ]
   },
   {
    "id": "6_183",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 27]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00183 - Functions transferred.md",
    "printed_pages": [
     26,
-    26
+    27
    ]
   },
   {
@@ -539,8 +556,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00184 - Conduct of certain public health-related activities.md",
    "printed_pages": [
-    26,
-    26
+    27,
+    27
    ]
   },
   {
@@ -548,37 +565,33 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00185 - Federally funded research and development centers.md",
    "printed_pages": [
-    26,
-    26
+    27,
+    27
    ]
   },
   {
    "id": "6_186",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       227,
-       "[Page 27]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00186 - Miscellaneous provisions.md",
    "printed_pages": [
-    26,
+    27,
     27
    ]
   },
   {
    "id": "6_187",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 28]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00187 - Homeland Security Advanced Research Projects Agency.md",
    "printed_pages": [
     27,
-    27
+    28
    ]
   },
   {
@@ -586,32 +599,26 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 28]",
+     32,
+     "[Page 29]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00188 - Conduct of research, development, demonstration, testing and evaluation.md",
    "printed_pages": [
-    27,
-    28
+    28,
+    29
    ]
   },
   {
    "id": "6_189",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 29]",
-     true
-    ],
-    [
      "I",
-     68,
+     18,
      [
       [
-       230,
+       87,
        "[Page 30]"
       ]
      ]
@@ -619,33 +626,48 @@
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00189 - Utilization of Department of Energy national laboratories and sites in support of homeland security activities.md",
    "printed_pages": [
-    28,
+    29,
     30
    ]
   },
   {
    "id": "6_190",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       85,
+       "[Page 31]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00190 - Transfer of Plum Island Animal Disease Center, Department of Agriculture.md",
    "printed_pages": [
     30,
-    30
+    31
    ]
   },
   {
    "id": "6_191",
    "marks": [
     [
-     "L",
-     54,
-     "[Page 31]",
-     true
+     "I",
+     62,
+     [
+      [
+       90,
+       "[Page 32]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00191 - Homeland Security Science and Technology Advisory Committee.md",
    "printed_pages": [
-    30,
-    31
+    31,
+    32
    ]
   },
   {
@@ -653,8 +675,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00192 - Homeland Security Institute.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
@@ -662,15 +684,15 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 32]",
+     18,
+     "[Page 33]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 003 (III) - Science and Technology in Support of Homeland Security/§ 00193 - Technology clearinghouse to encourage and support innovative solutions to enhance homeland security.md",
    "printed_pages": [
-    31,
-    32
+    32,
+    33
    ]
   },
   {
@@ -678,8 +700,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/README.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -687,8 +709,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part A - Under Secretary for Border and Transportation Security/README.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -696,8 +718,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part A - Under Secretary for Border and Transportation Security/§ 00201 - Under Secretary for Border and Transportation Security.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -705,23 +727,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part A - Under Secretary for Border and Transportation Security/§ 00202 - Responsibilities.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
    "id": "6_203",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 33]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part A - Under Secretary for Border and Transportation Security/§ 00203 - Functions transferred.md",
    "printed_pages": [
-    32,
+    33,
     33
    ]
   },
@@ -736,27 +751,42 @@
   },
   {
    "id": "6_211",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       86,
+       "[Page 34]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00211 - Establishment; Commissioner of Customs.md",
    "printed_pages": [
     33,
-    33
+    34
    ]
   },
   {
    "id": "6_212",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 34]",
-     true
+     "I",
+     34,
+     [
+      [
+       170,
+       "[Page 35]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00212 - Retention of Customs revenue functions by Secretary of the Treasury.md",
    "printed_pages": [
-    33,
-    34
+    34,
+    35
    ]
   },
   {
@@ -764,8 +794,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00213 - Preservation of Customs funds.md",
    "printed_pages": [
-    34,
-    34
+    35,
+    35
    ]
   },
   {
@@ -773,8 +803,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00214 - Separate budget request for Customs.md",
    "printed_pages": [
-    34,
-    34
+    35,
+    35
    ]
   },
   {
@@ -782,19 +812,19 @@
    "marks": [
     [
      "I",
-     18,
+     24,
      [
       [
-       97,
-       "[Page 35]"
+       108,
+       "[Page 36]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00215 - Definition.md",
    "printed_pages": [
-    34,
-    35
+    35,
+    36
    ]
   },
   {
@@ -802,8 +832,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00216 - GAO report to Congress.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -811,8 +841,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00217 - Allocation of resources by the Secretary.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -820,8 +850,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part B - United States Customs Service/§ 00218 - Reports to Congress.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -829,8 +859,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -838,21 +868,25 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 36]",
+     20,
+     "[Page 37]",
      true
     ],
     [
-     "L",
-     88,
-     "[Page 37]",
-     true
+     "I",
+     90,
+     [
+      [
+       443,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00231 - Transfer of certain agricultural inspection functions of the Department of Agriculture.md",
    "printed_pages": [
-    35,
-    37
+    36,
+    38
    ]
   },
   {
@@ -860,8 +894,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00232 - Functions of Administrator of General Services.md",
    "printed_pages": [
-    37,
-    37
+    38,
+    38
    ]
   },
   {
@@ -869,8 +903,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00233 - Functions of Transportation Security Administration.md",
    "printed_pages": [
-    37,
-    37
+    38,
+    38
    ]
   },
   {
@@ -878,24 +912,28 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00234 - Preservation of Transportation Security Administration as a distinct entity.md",
    "printed_pages": [
-    37,
-    37
+    38,
+    38
    ]
   },
   {
    "id": "6_235",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 38]",
-     true
+     "I",
+     16,
+     [
+      [
+       319,
+       "[Page 39]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00235 - Coordination of information and information technology.md",
    "printed_pages": [
-    37,
-    38
+    38,
+    39
    ]
   },
   {
@@ -903,21 +941,21 @@
    "marks": [
     [
      "L",
-     54,
-     "[Page 39]",
+     66,
+     "[Page 40]",
      true
     ],
     [
      "L",
-     138,
-     "[Page 40]",
+     144,
+     "[Page 41]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00236 - Visa issuance.md",
    "printed_pages": [
-    38,
-    40
+    39,
+    41
    ]
   },
   {
@@ -925,24 +963,28 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00237 - Information on visa denials required to be entered into electronic data system.md",
    "printed_pages": [
-    40,
-    40
+    41,
+    41
    ]
   },
   {
    "id": "6_238",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 41]",
-     true
+     "I",
+     26,
+     [
+      [
+       186,
+       "[Page 42]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part C - Miscellaneous Provisions/§ 00238 - Office for Domestic Preparedness.md",
    "printed_pages": [
-    40,
-    41
+    41,
+    42
    ]
   },
   {
@@ -950,8 +992,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/README.md",
    "printed_pages": [
-    41,
-    41
+    42,
+    42
    ]
   },
   {
@@ -959,8 +1001,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/§ 00251 - Transfer of functions to Under Secretary for Border and Transportation Security.md",
    "printed_pages": [
-    41,
-    41
+    42,
+    42
    ]
   },
   {
@@ -968,15 +1010,15 @@
    "marks": [
     [
      "L",
-     40,
-     "[Page 42]",
+     58,
+     "[Page 43]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/§ 00252 - Establishment of Bureau of Border Security.md",
    "printed_pages": [
-    41,
-    42
+    42,
+    43
    ]
   },
   {
@@ -984,8 +1026,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/§ 00253 - Professional responsibility and quality review.md",
    "printed_pages": [
-    42,
-    42
+    43,
+    43
    ]
   },
   {
@@ -993,37 +1035,33 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/§ 00254 - Employee discipline.md",
    "printed_pages": [
-    42,
-    42
+    43,
+    43
    ]
   },
   {
    "id": "6_255",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       112,
-       "[Page 43]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/§ 00255 - Report on improving enforcement functions.md",
    "printed_pages": [
-    42,
+    43,
     43
    ]
   },
   {
    "id": "6_256",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 44]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part D - Immigration Enforcement Functions/§ 00256 - Sense of Congress regarding construction of fencing near San Diego, California.md",
    "printed_pages": [
     43,
-    43
+    44
    ]
   },
   {
@@ -1031,8 +1069,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/README.md",
    "printed_pages": [
-    43,
-    43
+    44,
+    44
    ]
   },
   {
@@ -1040,15 +1078,15 @@
    "marks": [
     [
      "L",
-     64,
-     "[Page 44]",
+     80,
+     "[Page 45]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00271 - Establishment of Bureau of Citizenship and Immigration Services.md",
    "printed_pages": [
-    43,
-    44
+    44,
+    45
    ]
   },
   {
@@ -1056,34 +1094,39 @@
    "marks": [
     [
      "I",
-     20,
+     30,
      [
       [
-       184,
-       "[Page 45]"
+       98,
+       "[Page 46]"
       ]
      ]
-    ],
-    [
-     "L",
-     98,
-     "[Page 46]",
-     true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00272 - Citizenship and Immigration Services Ombudsman.md",
    "printed_pages": [
-    44,
+    45,
     46
    ]
   },
   {
    "id": "6_273",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       93,
+       "[Page 47]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00273 - Professional responsibility and quality review.md",
    "printed_pages": [
     46,
-    46
+    47
    ]
   },
   {
@@ -1091,37 +1134,37 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00274 - Employee discipline.md",
    "printed_pages": [
-    46,
-    46
+    47,
+    47
    ]
   },
   {
    "id": "6_275",
-   "marks": [
-    [
-     "I",
-     30,
-     [
-      [
-       109,
-       "[Page 47]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00275 - Transition.md",
    "printed_pages": [
-    46,
+    47,
     47
    ]
   },
   {
    "id": "6_276",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       87,
+       "[Page 48]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00276 - Report on improving immigration services.md",
    "printed_pages": [
     47,
-    47
+    48
    ]
   },
   {
@@ -1129,8 +1172,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00277 - Report on responding to fluctuating needs.md",
    "printed_pages": [
-    47,
-    47
+    48,
+    48
    ]
   },
   {
@@ -1138,35 +1181,39 @@
    "marks": [
     [
      "I",
-     30,
+     42,
      [
       [
-       86,
-       "[Page 48]"
+       221,
+       "[Page 49]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00278 - Application of Internet-based technologies.md",
    "printed_pages": [
-    47,
-    48
+    48,
+    49
    ]
   },
   {
    "id": "6_279",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 49]",
-     true
+     "I",
+     70,
+     [
+      [
+       106,
+       "[Page 50]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part E - Citizenship and Immigration Services/§ 00279 - Children's affairs.md",
    "printed_pages": [
-    48,
-    49
+    49,
+    50
    ]
   },
   {
@@ -1174,27 +1221,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/README.md",
    "printed_pages": [
-    49,
-    49
+    50,
+    50
    ]
   },
   {
    "id": "6_291",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       139,
-       "[Page 50]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00291 - Abolishment of INS.md",
    "printed_pages": [
-    49,
+    50,
     50
    ]
   },
@@ -1203,44 +1239,54 @@
    "marks": [
     [
      "L",
-     80,
+     10,
      "[Page 51]",
      true
-    ]
-   ],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00292 - Voluntary separation incentive payments.md",
-   "printed_pages": [
-    50,
-    51
-   ]
-  },
-  {
-   "id": "6_293",
-   "marks": [
+    ],
     [
      "I",
-     38,
+     90,
      [
       [
-       218,
+       186,
        "[Page 52]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00292 - Voluntary separation incentive payments.md",
+   "printed_pages": [
+    50,
+    52
+   ]
+  },
+  {
+   "id": "6_293",
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00293 - Authority to conduct a demonstration project relating to disciplinary action.md",
    "printed_pages": [
-    51,
+    52,
     52
    ]
   },
   {
    "id": "6_294",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       97,
+       "[Page 53]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00294 - Sense of Congress.md",
    "printed_pages": [
     52,
-    52
+    53
    ]
   },
   {
@@ -1248,8 +1294,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00295 - Director of Shared Services.md",
    "printed_pages": [
-    52,
-    52
+    53,
+    53
    ]
   },
   {
@@ -1257,24 +1303,28 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00296 - Separation of funding.md",
    "printed_pages": [
-    52,
-    52
+    53,
+    53
    ]
   },
   {
    "id": "6_297",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 53]",
-     true
+     "I",
+     40,
+     [
+      [
+       96,
+       "[Page 54]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00297 - Reports and implementation plans.md",
    "printed_pages": [
-    52,
-    53
+    53,
+    54
    ]
   },
   {
@@ -1282,15 +1332,15 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 54]",
+     32,
+     "[Page 55]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 004 (IV) - Directorate of Border and Transportation Security/Part F - General Immigration Provisions/§ 00298 - Immigration functions.md",
    "printed_pages": [
-    53,
-    54
+    54,
+    55
    ]
   },
   {
@@ -1298,8 +1348,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/README.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
@@ -1307,8 +1357,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00311 - Under Secretary for Emergency Preparedness and Response.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
@@ -1316,33 +1366,33 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00312 - Responsibilities.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
    "id": "6_313",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 55]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00313 - Functions transferred.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
   {
    "id": "6_314",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 56]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00314 - Nuclear incident response.md",
    "printed_pages": [
     55,
-    55
+    56
    ]
   },
   {
@@ -1350,8 +1400,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00315 - Conduct of certain public health-related activities.md",
    "printed_pages": [
-    55,
-    55
+    56,
+    56
    ]
   },
   {
@@ -1359,23 +1409,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00316 - Definition.md",
    "printed_pages": [
-    55,
-    55
+    56,
+    56
    ]
   },
   {
    "id": "6_317",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 56]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00317 - Role of Federal Emergency Management Agency.md",
    "printed_pages": [
-    55,
+    56,
     56
    ]
   },
@@ -1390,11 +1433,22 @@
   },
   {
    "id": "6_319",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       139,
+       "[Page 57]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 005 (V) - Emergency Preparedness and Response/§ 00319 - Use of commercially available technology, goods, and services.md",
    "printed_pages": [
     56,
-    56
+    57
    ]
   },
   {
@@ -1402,8 +1456,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 006 (VI) - Treatment of Charitable Trusts for Members of the Armed Forces of the United States and Other Governmental Organizations/README.md",
    "printed_pages": [
-    56,
-    56
+    57,
+    57
    ]
   },
   {
@@ -1411,19 +1465,19 @@
    "marks": [
     [
      "I",
-     46,
+     56,
      [
       [
-       144,
-       "[Page 57]"
+       87,
+       "[Page 58]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 006 (VI) - Treatment of Charitable Trusts for Members of the Armed Forces of the United States and Other Governmental Organizations/§ 00331 - Treatment of charitable trusts for members of the Armed Forces of the United States and other governmental organizations.md",
    "printed_pages": [
-    56,
-    57
+    57,
+    58
    ]
   },
   {
@@ -1431,8 +1485,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/README.md",
    "printed_pages": [
-    57,
-    57
+    58,
+    58
    ]
   },
   {
@@ -1440,19 +1494,19 @@
    "marks": [
     [
      "I",
-     22,
+     34,
      [
       [
-       96,
-       "[Page 58]"
+       516,
+       "[Page 59]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/§ 00341 - Under Secretary for Management.md",
    "printed_pages": [
-    57,
-    58
+    58,
+    59
    ]
   },
   {
@@ -1460,8 +1514,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/§ 00342 - Chief Financial Officer.md",
    "printed_pages": [
-    58,
-    58
+    59,
+    59
    ]
   },
   {
@@ -1469,8 +1523,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/§ 00343 - Chief Information Officer.md",
    "printed_pages": [
-    58,
-    58
+    59,
+    59
    ]
   },
   {
@@ -1478,8 +1532,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/§ 00344 - Chief Human Capital Officer.md",
    "printed_pages": [
-    58,
-    58
+    59,
+    59
    ]
   },
   {
@@ -1487,28 +1541,24 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/§ 00345 - Establishment of Officer for Civil Rights and Civil Liberties.md",
    "printed_pages": [
-    58,
-    58
+    59,
+    59
    ]
   },
   {
    "id": "6_346",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       94,
-       "[Page 59]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 60]",
+     true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 007 (VII) - Management/§ 00346 - Consolidation and co-location of offices.md",
    "printed_pages": [
-    58,
-    59
+    59,
+    60
    ]
   },
   {
@@ -1516,8 +1566,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/README.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
@@ -1525,8 +1575,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part A - Coordination with Non-Federal Entities/README.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
@@ -1534,8 +1584,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part A - Coordination with Non-Federal Entities/§ 00361 - Office for State and Local Government Coordination.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
@@ -1543,23 +1593,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part B - Inspector General/README.md",
    "printed_pages": [
-    59,
-    59
+    60,
+    60
    ]
   },
   {
    "id": "6_371",
-   "marks": [
-    [
-     "L",
-     42,
-     "[Page 60]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part B - Inspector General/§ 00371 - Authority of the Secretary.md",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part B - Inspector General/§ 00371 - Repealed. Pub. L. 108–7, div. L, §104(c)(1), Feb. 20, 2003, 117 Stat. 531.md",
    "printed_pages": [
-    59,
+    60,
     60
    ]
   },
@@ -1592,11 +1635,22 @@
   },
   {
    "id": "6_391",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     32,
+     [
+      [
+       136,
+       "[Page 61]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part D - Acquisitions/§ 00391 - Research and development projects.md",
    "printed_pages": [
     60,
-    60
+    61
    ]
   },
   {
@@ -1604,8 +1658,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part D - Acquisitions/§ 00392 - Personal services.md",
    "printed_pages": [
-    60,
-    60
+    61,
+    61
    ]
   },
   {
@@ -1613,24 +1667,18 @@
    "marks": [
     [
      "I",
-     6,
+     68,
      [
       [
-       314,
-       "[Page 61]"
+       95,
+       "[Page 62]"
       ]
      ]
-    ],
-    [
-     "L",
-     92,
-     "[Page 62]",
-     true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part D - Acquisitions/§ 00393 - Special streamlined acquisition authority.md",
    "printed_pages": [
-    60,
+    61,
     62
    ]
   },
@@ -1648,10 +1696,10 @@
    "marks": [
     [
      "I",
-     68,
+     40,
      [
       [
-       89,
+       97,
        "[Page 63]"
       ]
      ]
@@ -1686,10 +1734,10 @@
    "marks": [
     [
      "I",
-     32,
+     6,
      [
       [
-       137,
+       94,
        "[Page 64]"
       ]
      ]
@@ -1730,11 +1778,22 @@
   },
   {
    "id": "6_423",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       97,
+       "[Page 65]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00423 - Increased simplified acquisition threshold for procurements in support of humanitarian or peacekeeping operations or contingency operations.md",
    "printed_pages": [
     64,
-    64
+    65
    ]
   },
   {
@@ -1742,52 +1801,45 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00424 - Increased micro-purchase threshold for certain procurements.md",
    "printed_pages": [
-    64,
-    64
-   ]
-  },
-  {
-   "id": "6_425",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 65]",
-     true
-    ]
-   ],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00425 - Application of certain commercial items authorities to certain procurements.md",
-   "printed_pages": [
-    64,
+    65,
     65
    ]
   },
   {
-   "id": "6_426",
+   "id": "6_425",
    "marks": [],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00426 - Use of streamlined procedures.md",
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00425 - Application of certain commercial items authorities to certain procurements.md",
    "printed_pages": [
     65,
     65
    ]
   },
   {
-   "id": "6_427",
+   "id": "6_426",
    "marks": [
     [
      "I",
      28,
      [
       [
-       94,
+       199,
        "[Page 66]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00427 - Review and report by Comptroller General.md",
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00426 - Use of streamlined procedures.md",
    "printed_pages": [
     65,
+    66
+   ]
+  },
+  {
+   "id": "6_427",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part F - Federal Emergency Procurement Flexibility/§ 00427 - Review and report by Comptroller General.md",
+   "printed_pages": [
+    66,
     66
    ]
   },
@@ -1811,11 +1863,22 @@
   },
   {
    "id": "6_441",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       95,
+       "[Page 67]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part G - Support Anti-Terrorism by Fostering Effective Technologies/§ 00441 - Administration.md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
@@ -1823,44 +1886,44 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 67]",
+     44,
+     "[Page 68]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part G - Support Anti-Terrorism by Fostering Effective Technologies/§ 00442 - Litigation management.md",
-   "printed_pages": [
-    66,
-    67
-   ]
-  },
-  {
-   "id": "6_443",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       142,
-       "[Page 68]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part G - Support Anti-Terrorism by Fostering Effective Technologies/§ 00443 - Risk management.md",
    "printed_pages": [
     67,
     68
    ]
   },
   {
-   "id": "6_444",
+   "id": "6_443",
    "marks": [],
-   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part G - Support Anti-Terrorism by Fostering Effective Technologies/§ 00444 - Definitions.md",
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part G - Support Anti-Terrorism by Fostering Effective Technologies/§ 00443 - Risk management.md",
    "printed_pages": [
     68,
     68
+   ]
+  },
+  {
+   "id": "6_444",
+   "marks": [
+    [
+     "I",
+     24,
+     [
+      [
+       92,
+       "[Page 69]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part G - Support Anti-Terrorism by Fostering Effective Technologies/§ 00444 - Definitions.md",
+   "printed_pages": [
+    68,
+    69
    ]
   },
   {
@@ -1868,27 +1931,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
    "id": "6_451",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       86,
-       "[Page 69]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00451 - Advisory committees.md",
    "printed_pages": [
-    68,
+    69,
     69
    ]
   },
@@ -1903,11 +1955,31 @@
   },
   {
    "id": "6_453",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       289,
+       "[Page 70]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00453 - Use of appropriated funds.md",
    "printed_pages": [
     69,
-    69
+    70
+   ]
+  },
+  {
+   "id": "6_453a",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00453a - Additional uses of appropriated funds.md",
+   "printed_pages": [
+    70,
+    70
    ]
   },
   {
@@ -1915,27 +1987,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00454 - Future Years Homeland Security Program.md",
    "printed_pages": [
-    69,
-    69
+    70,
+    70
    ]
   },
   {
    "id": "6_455",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       90,
-       "[Page 70]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00455 - Miscellaneous authorities.md",
    "printed_pages": [
-    69,
+    70,
     70
    ]
   },
@@ -1950,11 +2011,22 @@
   },
   {
    "id": "6_457",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       93,
+       "[Page 71]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00457 - Regulatory authority and preemption.md",
    "printed_pages": [
     70,
-    70
+    71
    ]
   },
   {
@@ -1962,8 +2034,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00458 - Counternarcotics officer.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
@@ -1971,23 +2043,16 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00459 - Office of International Affairs.md",
    "printed_pages": [
-    70,
-    70
+    71,
+    71
    ]
   },
   {
    "id": "6_460",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 71]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00460 - Prohibition of the Terrorism Information and Prevention System.md",
    "printed_pages": [
-    70,
+    71,
     71
    ]
   },
@@ -2002,30 +2067,26 @@
   },
   {
    "id": "6_462",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 72]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00462 - Office of National Capital Region Coordination.md",
    "printed_pages": [
     71,
-    71
+    72
    ]
   },
   {
    "id": "6_463",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       226,
-       "[Page 72]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00463 - Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections.md",
    "printed_pages": [
-    71,
+    72,
     72
    ]
   },
@@ -2039,12 +2100,71 @@
    ]
   },
   {
+   "id": "6_464a",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 73]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00464a - Acceptance and use of gifts.md",
+   "printed_pages": [
+    72,
+    73
+   ]
+  },
+  {
+   "id": "6_464b",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00464b - Staffing accreditation function.md",
+   "printed_pages": [
+    73,
+    73
+   ]
+  },
+  {
+   "id": "6_464c",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00464c - Student housing.md",
+   "printed_pages": [
+    73,
+    73
+   ]
+  },
+  {
+   "id": "6_464d",
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 74]",
+     true
+    ]
+   ],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00464d - Additional funds for training.md",
+   "printed_pages": [
+    73,
+    74
+   ]
+  },
+  {
+   "id": "6_464e",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00464e - Short-term medical services for students.md",
+   "printed_pages": [
+    74,
+    74
+   ]
+  },
+  {
    "id": "6_465",
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00465 - Joint Interagency Task Force.md",
    "printed_pages": [
-    72,
-    72
+    74,
+    74
    ]
   },
   {
@@ -2052,8 +2172,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00466 - Sense of Congress reaffirming the continued importance and applicability of the Posse Comitatus Act.md",
    "printed_pages": [
-    72,
-    72
+    74,
+    74
    ]
   },
   {
@@ -2061,35 +2181,48 @@
    "marks": [
     [
      "I",
-     18,
+     14,
      [
       [
-       273,
-       "[Page 73]"
+       92,
+       "[Page 75]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00467 - Coordination with the Department of Health and Human Services under the Public Health Service Act.md",
    "printed_pages": [
-    72,
-    73
+    74,
+    75
    ]
   },
   {
    "id": "6_468",
    "marks": [
     [
-     "L",
-     98,
-     "[Page 74]",
-     true
+     "I",
+     88,
+     [
+      [
+       91,
+       "[Page 76]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00468 - Preserving Coast Guard mission performance.md",
    "printed_pages": [
-    73,
-    74
+    75,
+    76
+   ]
+  },
+  {
+   "id": "6_469",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part H - Miscellaneous Provisions/§ 00469 - Fees for credentialing and background investigations in transportation.md",
+   "printed_pages": [
+    76,
+    76
    ]
   },
   {
@@ -2097,47 +2230,46 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part I - Information Sharing/README.md",
    "printed_pages": [
-    74,
-    74
+    76,
+    76
    ]
   },
   {
    "id": "6_481",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part I - Information Sharing/§ 00481 - Short title; findings; and sense of Congress.md",
    "printed_pages": [
-    74,
-    74
+    76,
+    77
    ]
   },
   {
    "id": "6_482",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       139,
-       "[Page 75]"
-      ]
-     ]
+     "L",
+     64,
+     "[Page 78]",
+     true
     ],
     [
-     "I",
-     108,
-     [
-      [
-       139,
-       "[Page 76]"
-      ]
-     ]
+     "L",
+     144,
+     "[Page 79]",
+     true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part I - Information Sharing/§ 00482 - Facilitating homeland security information sharing procedures.md",
    "printed_pages": [
-    74,
-    76
+    77,
+    79
    ]
   },
   {
@@ -2145,8 +2277,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part I - Information Sharing/§ 00483 - Report.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
@@ -2154,8 +2286,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 008 (VIII) - Coordination with Non-Federal Entities; Inspector General; United States Secret Service; Coast Guard; General Provisions/Part I - Information Sharing/§ 00484 - Authorization of appropriations.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
@@ -2163,8 +2295,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/README.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
@@ -2172,8 +2304,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/§ 00491 - National Homeland Security Council.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
@@ -2181,8 +2313,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/§ 00492 - Function.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
@@ -2190,8 +2322,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/§ 00493 - Membership.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
@@ -2199,17 +2331,28 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/§ 00494 - Other functions and activities.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    79
    ]
   },
   {
    "id": "6_495",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       229,
+       "[Page 80]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/§ 00495 - Staff composition.md",
    "printed_pages": [
-    76,
-    76
+    79,
+    80
    ]
   },
   {
@@ -2217,8 +2360,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 009 (IX) - National Homeland Security Council/§ 00496 - Relation to the National Security Council.md",
    "printed_pages": [
-    76,
-    76
+    80,
+    80
    ]
   },
   {
@@ -2226,28 +2369,17 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 010 (X) - Construction/README.md",
    "printed_pages": [
-    76,
-    76
+    80,
+    80
    ]
   },
   {
    "id": "6_511",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       90,
-       "[Page 77]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 010 (X) - Construction/§ 00511 - Information security responsibilities of certain agencies.md",
    "printed_pages": [
-    76,
-    77
+    80,
+    80
    ]
   },
   {
@@ -2255,8 +2387,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 010 (X) - Construction/§ 00512 - Construction.md",
    "printed_pages": [
-    77,
-    77
+    80,
+    80
    ]
   },
   {
@@ -2264,8 +2396,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 010 (X) - Construction/§ 00513 - Federal air marshal program.md",
    "printed_pages": [
-    77,
-    77
+    80,
+    80
    ]
   },
   {
@@ -2273,8 +2405,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/README.md",
    "printed_pages": [
-    77,
-    77
+    80,
+    80
    ]
   },
   {
@@ -2282,8 +2414,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part A - Executive Office for Immigration Review/README.md",
    "printed_pages": [
-    77,
-    77
+    80,
+    80
    ]
   },
   {
@@ -2291,17 +2423,28 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part A - Executive Office for Immigration Review/§ 00521 - Legal status of EOIR.md",
    "printed_pages": [
-    77,
-    77
+    80,
+    80
    ]
   },
   {
    "id": "6_522",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       146,
+       "[Page 81]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part A - Executive Office for Immigration Review/§ 00522 - Statutory construction.md",
    "printed_pages": [
-    77,
-    77
+    80,
+    81
    ]
   },
   {
@@ -2309,8 +2452,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part B - Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice/README.md",
    "printed_pages": [
-    77,
-    77
+    81,
+    81
    ]
   },
   {
@@ -2318,19 +2461,19 @@
    "marks": [
     [
      "I",
-     14,
+     62,
      [
       [
-       265,
-       "[Page 78]"
+       379,
+       "[Page 82]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part B - Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice/§ 00531 - Bureau of Alcohol, Tobacco, Firearms, and Explosives.md",
    "printed_pages": [
-    77,
-    78
+    81,
+    82
    ]
   },
   {
@@ -2338,28 +2481,17 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part B - Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice/§ 00532 - Explosives Training and Research Facility.md",
    "printed_pages": [
-    78,
-    78
+    82,
+    82
    ]
   },
   {
    "id": "6_533",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       219,
-       "[Page 79]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 011 (XI) - Department of Justice Divisions/Part B - Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice/§ 00533 - Personnel Management Demonstration Project.md",
    "printed_pages": [
-    78,
-    79
+    82,
+    82
    ]
   },
   {
@@ -2367,8 +2499,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/README.md",
    "printed_pages": [
-    79,
-    79
+    82,
+    82
    ]
   },
   {
@@ -2376,8 +2508,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part A - Reorganization Plan/README.md",
    "printed_pages": [
-    79,
-    79
+    82,
+    82
    ]
   },
   {
@@ -2385,68 +2517,72 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part A - Reorganization Plan/§ 00541 - Definitions.md",
    "printed_pages": [
-    79,
-    79
+    82,
+    82
    ]
   },
   {
    "id": "6_542",
    "marks": [
     [
-     "L",
-     54,
-     "[Page 80]",
-     true
-    ],
-    [
      "I",
-     156,
+     24,
      [
       [
-       301,
-       "[Page 81]"
+       97,
+       "[Page 83]"
       ]
      ]
     ],
     [
      "L",
-     230,
-     "[Page 82]",
-     true
-    ],
-    [
-     "L",
-     286,
-     "[Page 83]",
-     true
-    ],
-    [
-     "L",
-     360,
+     102,
      "[Page 84]",
      true
     ],
     [
+     "L",
+     216,
+     "[Page 85]",
+     true
+    ],
+    [
      "I",
-     426,
+     264,
      [
       [
-       215,
-       "[Page 85]"
+       112,
+       "[Page 86]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     336,
+     [
+      [
+       217,
+       "[Page 87]"
       ]
      ]
     ],
     [
      "L",
-     516,
-     "[Page 86]",
+     420,
+     "[Page 88]",
+     true
+    ],
+    [
+     "L",
+     486,
+     "[Page 89]",
      true
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part A - Reorganization Plan/§ 00542 - Reorganization plan.md",
    "printed_pages": [
-    79,
-    86
+    82,
+    89
    ]
   },
   {
@@ -2454,8 +2590,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part A - Reorganization Plan/§ 00543 - Review of congressional committee structures.md",
    "printed_pages": [
-    86,
-    86
+    89,
+    89
    ]
   },
   {
@@ -2463,8 +2599,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/README.md",
    "printed_pages": [
-    86,
-    86
+    89,
+    89
    ]
   },
   {
@@ -2472,35 +2608,48 @@
    "marks": [
     [
      "I",
-     24,
+     4,
      [
       [
-       183,
-       "[Page 87]"
+       133,
+       "[Page 90]"
       ]
      ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00551 - Transitional authorities.md",
    "printed_pages": [
-    86,
-    87
+    89,
+    90
    ]
   },
   {
    "id": "6_552",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 88]",
-     true
+     "I",
+     18,
+     [
+      [
+       183,
+       "[Page 91]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00552 - Savings provisions.md",
    "printed_pages": [
-    87,
-    88
+    90,
+    91
+   ]
+  },
+  {
+   "id": "6_552a",
+   "marks": [],
+   "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00552a - Savings provision of certain transfers made under the Homeland Security Act of 2002.md",
+   "printed_pages": [
+    91,
+    91
    ]
   },
   {
@@ -2508,8 +2657,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00553 - Terminations.md",
    "printed_pages": [
-    88,
-    88
+    91,
+    91
    ]
   },
   {
@@ -2517,8 +2666,8 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00554 - National identification system not authorized.md",
    "printed_pages": [
-    88,
-    88
+    91,
+    91
    ]
   },
   {
@@ -2526,17 +2675,28 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00555 - Continuity of Inspector General oversight.md",
    "printed_pages": [
-    88,
-    88
+    91,
+    91
    ]
   },
   {
    "id": "6_556",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       241,
+       "[Page 92]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00556 - Incidental transfers.md",
    "printed_pages": [
-    88,
-    88
+    91,
+    92
    ]
   },
   {
@@ -2544,11 +2704,11 @@
    "marks": [],
    "path": "Chapter 001 - Homeland Security Organization/Subchapter 012 (XII) - Transition/Part B - Transitional Provisions/§ 00557 - Reference.md",
    "printed_pages": [
-    88,
-    88
+    92,
+    92
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2002-title6 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2003-title6 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 06 - Domestic Security"
 }

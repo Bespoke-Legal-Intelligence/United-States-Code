@@ -10,7 +10,7 @@ The Chairperson and other members of the Board shall be appointed by the Secreta
 
 #### (c) Compensation
 
-Members of the Board who are not employees of the Government shall be paid for each daythey are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under section 5332 of title 5.
+Members of the Board who are not employees of the Government shall be paid for each day they are performing their duties (including traveltime) at the daily equivalent of the maximum rate payable for grade GS–18 of the General Schedule under section 5332 of title 5.
 
 #### (d) Removal
 

@@ -16,7 +16,7 @@
 
 #### (b) Authority to grant exceptions
 
-The regulations prescribed under subsection (a) of this section may include such additionalexceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.
+The regulations prescribed under subsection (a) of this section may include such additional exceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.
 
 (Pub. L. 106–102, title V, §504, Nov. 12, 1999, 113 Stat. 1439.)
 

@@ -28,7 +28,7 @@ No deduction shall be allowed for the following taxes:
 
 &emsp;(6) Taxes imposed by chapters 41, 42, 43, 44, 46, and 54.
 
-> Paragraph (1) shall not apply to the tax imposed by section 59A. Paragraph (1) shall not apply to any taxes to the extent such taxes are allowable as a deduction under section 164(f). A rule similar to the rule of section 943(d) shall apply for purposes of paragraph (4)(C).
+> Paragraph (1) shall not apply to the tax imposed by section 59A. Paragraph (1) shall not apply toany taxes to the extent such taxes are allowable as a deduction under section 164(f). A rule similar to the rule of section 943(d) shall apply for purposes of paragraph (4)(C).
 
 #### (b) Cross reference
 
@@ -104,7 +104,7 @@ Amendment by section 1901(a)(39) of Pub. L. 94–455 effective for taxable years
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub.L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as a note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974,but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as a note under section 410 of this title.
 
 #### Effective Date
 

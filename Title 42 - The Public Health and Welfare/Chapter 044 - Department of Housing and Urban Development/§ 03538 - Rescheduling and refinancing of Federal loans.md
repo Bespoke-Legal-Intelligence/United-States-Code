@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development is authorized to refinance any no
 
 #### References in Text
 
-The Independent Offices Appropriation Act of 1955, referred to in text, is act June 24, 1954, ch. 359, 68 Stat.272. Provisions of the act which established the revolving fund for liquidating programs are classified to section 1701g–5 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Tables.
+The Independent Offices Appropriation Act of 1955, referred to in text, is act June 24, 1954, ch. 359, 68 Stat. 272. Provisions of the act which established the revolving fund for liquidating programs are classified to section 1701g–5 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

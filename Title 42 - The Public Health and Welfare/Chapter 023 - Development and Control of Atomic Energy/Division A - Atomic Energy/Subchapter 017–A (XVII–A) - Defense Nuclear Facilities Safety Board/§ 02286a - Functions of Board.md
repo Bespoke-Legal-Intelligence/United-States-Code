@@ -6,7 +6,7 @@ The Board shall perform the following functions:
 
 #### (1) Review and evaluation of standards
 
-&emsp;The Board shall review and evaluate the content and implementation of the standardsrelating to the design, construction, operation, and decommissioning of defense nuclear facilities of the Department of Energy (including all applicable Department of Energy orders, regulations, and requirements) at each Department of Energy defense nuclear facility. The Board shall recommend to the Secretary of Energy those specific measures that should be adopted to ensure that public health and safety are adequately protected. The Board shall include in its recommendations necessary changes in the content and implementation of such standards, as well as matters on which additional data or additional research is needed.
+&emsp;The Board shall review and evaluate the content and implementation of the standards relating to the design, construction, operation, and decommissioning of defense nuclear facilities of the Department of Energy (including all applicable Department of Energy orders, regulations, and requirements) at each Department of Energy defense nuclear facility. The Board shall recommend to the Secretary of Energy those specific measures that should be adopted to ensure that public health and safety are adequately protected. The Board shall include in its recommendations necessary changes in the content and implementation of such standards, as well as matters on which additional data or additional research is needed.
 
 #### (2) Investigations
 
@@ -36,7 +36,7 @@ The Board shall perform the following functions:
 
 #### (b) Excluded functions
 
-The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomic weapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
+The functions of the Board under this subchapter do not include functions relating to the safety of atomic weapons. However, the Board shall have access to any information on atomicweapons that is within the Department of Energy and is necessary to carry out the functions of the Board.
 
 (Aug. 1, 1946, ch. 724, title I, §312, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2077; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(2), Dec. 5, 1991, 105 Stat. 1582; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

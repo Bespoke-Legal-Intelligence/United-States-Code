@@ -44,7 +44,7 @@ Not later than 180 days after September 23, 1994, each appropriate Federal banki
 
 #### (1) In general
 
-&emsp;At the discretion of the appropriate Federal banking agency, this section shall not apply if the regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
+&emsp;At the discretion of the appropriate Federal banking agency, this section shall not apply ifthe regulations of the agency provide that the aggregate amount of capital and reserves required with respect to the transfer of small business loans and leases of personal property with recourse does not exceed the aggregate amount of capital and reserves that would be required under subsection (b) of this section.
 
 #### (2) Existing transactions not affected
 

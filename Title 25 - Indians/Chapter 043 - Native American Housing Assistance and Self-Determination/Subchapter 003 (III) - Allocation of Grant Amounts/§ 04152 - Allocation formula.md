@@ -28,7 +28,7 @@ In establishing the formula, the Secretary shall consider—
 
 #### (A) In general
 
-&emsp;&emsp;Except with respect to an Indian tribe described in subparagraph (B), the formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is equal to or greater than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the total amount of such operating and modernization assistance provided for fiscal year 1996 for such tribe.
+&emsp;&emsp;Except with respect to an Indian tribe described in subparagraph (B), the formulashall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is equal to or greater than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the total amount of such operating and modernization assistance provided for fiscal year 1996 for such tribe.
 
 #### (B) Certain Indian tribes
 

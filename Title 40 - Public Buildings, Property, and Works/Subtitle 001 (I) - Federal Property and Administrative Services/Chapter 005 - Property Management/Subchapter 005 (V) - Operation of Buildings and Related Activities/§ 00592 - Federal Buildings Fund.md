@@ -20,7 +20,7 @@ In general.—The following revenues and collections shall be deposited into the
 
 &emsp;(2)
 
-Reimbursements for special services.—This subchapter does not preclude the Administrator of General Services from providing special services, not included in the standardlevel user charge, on a reimbursable basis. The reimbursements may be credited to the Fund.
+Reimbursements for special services.—This subchapter does not preclude the Administrator of General Services from providing special services, not included in the standard level user charge, on a reimbursable basis. The reimbursements may be credited to the Fund.
 
 &emsp;(3)
 
@@ -88,7 +88,7 @@ Receiving amounts.—The Administrator may receive amounts from the sale of recy
 
 &emsp;(2)
 
-Obligating amounts for recycling programs.—In addition to amounts appropriated for such purposes and without regard to subsection (c)(1), the Administrator may obligate amounts received and deposited in the Fund under paragraph (1) for programs which—
+Obligating amounts for recycling programs.—In addition to amounts appropriatedfor such purposes and without regard to subsection (c)(1), the Administrator may obligate amounts received and deposited in the Fund under paragraph (1) for programs which—
 
 &emsp;&emsp;(A) promote further source reduction and recycling programs; and
 

@@ -44,37 +44,33 @@ Notification and Elements of Analysis.—(1) Before commencing to analyze a comm
 
 &emsp;(ii) In the case of a failure to include the certification in a submitted report, the date on which the report was submitted to Congress.
 
-(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not included in the submitted report, the commercial or industrial type function covered by the analysis to which objected may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
+(B) If the Secretary determines that the report required by paragraph (1) was not submitted or that the required certification was not includedin the submitted report, the commercial or industrial type function covered by the analysis to which objected may not be the subject of a solicitation of offers for, or award of, a contract until, respectively, the report is submitted or a report containing the certification in full compliance with the certification requirement is submitted.
 
 (c)
 
-Notification of Decision.—(1) If, as a result of the completion of the examinations under subsection (b)(3), a decision is made to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, the Secretary of Defense shall submit to Congress a report describing that decision. The report shall contain the following:
+Submission of Analysis Results.—(1) Upon the completion of an analysis of a commercial or industrial type function described in subsection (a) for possible change to performance by the private sector, the Secretary of Defense shall submit to Congress a report containing the results of the analysis, including the results of the examinations required by subsection (b)(3).
 
-&emsp;(A) The date when the analysis of that commercial or industrial type function for possible change to performance by the private sector was commenced.
+(2) The report shall also contain the following:
 
-&emsp;(B) An indication that the examinations required under subsection (b)(3) have been completed.
+&emsp;(A) The date when the analysis of the function was commenced.
 
-&emsp;(C) The Secretary's certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
+&emsp;(B) The Secretary's certification that the Government calculation of the cost of performance of the function by Department of Defense civilian employees is based on an estimate of the most cost effective manner for performance of the function by Department of Defense civilian employees.
 
-&emsp;(D) The number of Department of Defense civilian employees who were performing the function when the analysis was commenced, the number of such employees whose employment was terminated or otherwise affected in implementing the most efficient organization of the function, and the number of such employees whose employment would be terminated or otherwise affected by changing to performance of the function by the private sector.
+&emsp;(C) The number of Department of Defense civilian employees who were performing the function when the analysis was commenced and the number of such employees whose employment was or will be terminated or otherwise affected by changing to performance of the function by the private sector or by implementation of the most efficient organization of the function.
 
-&emsp;(E) The Secretary's certification that the factors considered in the examinations performed under subsection (b)(3), and in the making of the decision to change performance, did not include any predetermined personnel constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.
+&emsp;(D) The Secretary's certification that the factors considered in the examinations performed under subsection (b)(3), and in the making of the decision regarding changing to performance of the function by the private sector or retaining performance in the most efficient organization of the function, did not include any predetermined personnel constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.
 
-&emsp;(F) The Secretary's certification that the examination required by subsection (b)(3)(A) as part of the analysis demonstrates that the performance of the function by the private sector will result in savings to the Government over the life of the contract.
+&emsp;(E) A statement of the potential economic effect of implementing the decision regarding changing to performance of the function by the private sector or retaining performance in the most efficient organization of the function on each affected local community, as determined in the examination under subsection (b)(3)(B)(ii).
 
-&emsp;(G) A statement of the potential economic effect of the change on each affected local community, as determined in the examination under subsection (b)(3)(B)(ii).
+&emsp;(F) A schedule for completing the change to performance of the function by the private sector or implementing the most efficient organization of the function.
+
+&emsp;(G) In the case of a commercial or industrial type function performed at a Center of Industrial and Technical Excellence designated under section 2474(a) of this title or an Army ammunition plant, a description of the effect that the manner of performance of the function, and administration of the resulting contract if any, will have on the overhead costs of the center or ammunition plant, as the case may be.
 
 &emsp;(H) The Secretary's certification that the entire analysis is available for examination.
 
-&emsp;(I) A schedule for completing the change to performance of the function by the private sector.
+(3)(A) If a decision is made to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, the change of the function to contractor performance may not begin until after the submission of the report required by paragraph (1).
 
-(2) If the commercial or industrial type function to be changed to performance by the private sector is performed at a Center of Industrial and Technical Excellence designated under section 2474(a) of this title or an Army ammunition plant—
-
-&emsp;(A) the report required by this subsection shall also include a description of the effect that the performance and administration of the resulting contract will have on the overhead costs of the center or ammunition plant, as the case may be; and
-
-&emsp;(B) notwithstanding paragraph (3), the change of the function to contractor performance may not begin until at least 60 days after the submission of the report.
-
-(3) The change of the function to contractor performance may not begin until after the submission of the report required by this subsection.
+(B) Notwithstanding subparagraph (A), in the case of a commercial or industrial type function performed at a Center of Industrial and Technical Excellence designated under section 2474(a) of this title or an Army ammunition plant, the change of the function to contractor performance may not begin until at least 60 days after the submission of the report.
 
 (d)
 
@@ -102,7 +98,7 @@ Annual Reports.—Not later than June 30 of each fiscal year, the Secretary of D
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, titleXI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061; Pub. L. 107–314, div. A, title III, §331, Dec. 2, 2002, 116 Stat. 2512.)
 
 #### Historical and Revision Notes
 
@@ -113,6 +109,8 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–314 amended heading and text of subsec. (c) generally. Prior to amendment, text related to the report to Congress by the Secretary of Defense upon a decision to change the commercial or industrial type function that was the subject of the analysis to performance by the private sector, with requirements for contents of the report and submission of the report prior to the change of the function to contractor performance.
 
 2001—Subsec. (g). Pub. L. 107–107 substituted “June 30” for “February 1”.
 
@@ -150,11 +148,73 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defenseto performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of section 2461(a) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act.”
+Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defense to performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of section 2461(a) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Delayed Implementation of Revised Office of Management and Budget Circular A–76 By Department of Defense
+
+Pub. L. 108–136, div. A, title III, §335, Nov. 24, 2003, 117 Stat. 1443, provided that:
+
+“(a)
+
+Limitation Pending Report.—No studies or competitions may be conducted under the policies and procedures contained in the revised Office of Management and Budget Circular A–76 dated May 29, 2003 (68 Fed. Reg. 32134), relating to the possible contracting out of commercial activities being performed, as of such date, by employees of the Department of Defense, until the end of the 45-day period beginning on the date on which the Secretary of Defense submits to Congress a report on the effects of the revisions.
+
+“(b)
+
+Content of Report.—The report required by subsection (a) shall contain, at a minimum, specific information regarding the following:
+
+&emsp;“(1) The extent to which the revised circular will ensure that employees of the Department of Defense have the opportunity to compete to retain their jobs.
+
+&emsp;“(2) The extent to which the revised circular will provide appeal and protest rights to employees of the Department of Defense.
+
+&emsp;“(3) Identify safeguards in the revised circular to ensure that all public-private competitions are fair, appropriate, and comply with requirements of full and open competition.
+
+&emsp;“(4) The plans of the Department to ensure an appropriate phase-in period for the revised circular, as recommended by the Commercial Activities Panel of the Government Accounting Office in its April 2002 report to Congress, including recommendations forany legislative changes that may be required to ensure a smooth and efficient phase-in period.
+
+&emsp;“(5) The plans of the Department to provide training to employees of the Department of Defense regarding the revised circular, including how the training will be funded, how employees will be selected to receive the training, and the number of employees likely to receive the training.
+
+&emsp;“(6) The plans of the Department to collect and analyze data on the costs and quality of work contracted out or retained in-house as a result of a sourcing process conducted under the revised circular.”
+
+#### Pilot Program for Best-Value Source Selection for Performance of Information Technology Services
+
+Pub. L. 108–136, div. A, title III, §336, Nov. 24, 2003, 117 Stat. 1444, provided that:
+
+“(a)
+
+Authority to Use Best-Value Criterion.—The Secretary of Defense may carry out a pilot program for the procurement of information technology services for the Department of Defense that uses a best-value criterion in the selection of the source for the performance of the information technology services.
+
+“(b)
+
+Required Examination Under Pilot Project.—Under the pilot program, the Secretary of Defense shall modify the examination otherwise required by section 2461(b)(3)(A) of title 10, United States Code, to be an examination of the performance of an information technology services function by Department of Defense civilian employees and by one or more private contractors to demonstrate whether—
+
+&emsp;“(1) a change to performance by the private sector will result in the best value to the Government over the life of the contract, as determined in accordance with the competition requirements of Office of Management and Budget Circular A–76; and
+
+&emsp;“(2) certain benefits exist, in addition to price, that warrant performance of the function by a private sector source at a cost higher than that of performance by Department of Defense civilian employees.
+
+“(c)
+
+Exemption for Pilot Program.—Section 2462(a) of title 10, United States Code, does not apply to the procurement of information technology services under the pilot program.
+
+“(d)
+
+Duration of Pilot Program.—(1) The authority to carry out the pilot program begins on the date on which the Secretary of Defense submits to Congress the report on the effect of the recent revisions to Office of Management and Budget Circular A–76, as required by section 335 of this Act \[set out above\], and expires on September 30, 2008.
+
+“(2) The expiration of the pilot program shall not affect the selection of the source for the performance of an information technology services function for the Department of Defense for which the analysis required by section 2461(b)(3) of title 10, United States Code, has been commenced before the expiration date or for which a solicitation has been issued before the expiration date.
+
+“(e) GAO
+
+Review.—Not later than February 1, 2008, the Comptroller General shall submit to Congress a report containing—
+
+&emsp;“(1) a review of the pilot program to assess the extent to which the pilot program is effective and is equitable for the potential public sources and the potential private sources of information technology services for the Department of Defense; and
+
+&emsp;“(2) any other conclusions of the Comptroller General resulting from the review.
+
+“(f)
+
+Information Technology Service Defined.—In this section, the term ‘information technology service’ means any service performed in the operation or maintenance of information technology (as defined in section 11101 of title 40, United States Code) that is necessary for or beneficial to the accomplishment of the authorized functions of the Department of Defense (other than functions which the Secretary of Defense determines must be performed by military or Government personnel).”
 
 #### Pilot Manpower Reporting System in Department of the Army
 
@@ -248,7 +308,7 @@ Standardization of Requirements.—The Secretary of Defense is authorized and en
 
 “(b)
 
-Relationship to OMB Requirements.—A standard performance work statement or a standard requestfor proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
+Relationship to OMB Requirements.—A standard performance work statement or a standard request for proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
 
 “(c)
 

@@ -90,7 +90,7 @@ In this subchapter:
 
 &emsp;(12) The term “Department of Energy facility” means any building, structure, or premise, including the grounds upon which such building, structure, or premise is located—
 
-&emsp;&emsp;(A) in which operations are, or have been, conducted by, or on behalf of, the Department of Energy (except for buildings, structures, premises, grounds, or operations covered by Executive Order No. 12344, dated February 1, 1982 (42 U.S.C. 7158 note), pertaining to the Naval Nuclear Propulsion Program); and
+&emsp;&emsp;(A) in which operations are, or have been, conducted by, or on behalf of, the Department of Energy (except for buildings, structures, premises, grounds, or operations covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval Nuclear Propulsion Program); and
 
 &emsp;&emsp;(B) with regard to which the Department of Energy has or had—
 
@@ -132,7 +132,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) worked in a job that had exposures comparable to a job that is or was monitored through the use of dosimetry badges.
 
-&emsp;&emsp;(B) The employee was so employed before January 1, 1974, by the Department of Energy or a Department of Energy contractor or subcontractor on Amchitka Island, Alaska, and was exposed to ionizing radiation in the performance of duty related to the Long Shot, Milrow, or Cannikin underground nuclear tests.
+&emsp;&emsp;(B) The employee was so employed before January 1, 1974, by the Department of Energy or a Department of Energy contractoror subcontractor on Amchitka Island, Alaska, and was exposed to ionizing radiation in the performance of duty related to the Long Shot, Milrow, or Cannikin underground nuclear tests.
 
 &emsp;&emsp;(C)(i) Subject to clause (ii), the employee is an individual designated as a member of the Special Exposure Cohort by the President for purposes of the compensation program under section 7384q of this title.
 
@@ -165,6 +165,8 @@ In this subchapter:
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498; Pub. L. 107–20, title II, §2403(a), July 24, 2001, 115 Stat. 175; Pub. L. 107–107, div. C, title XXXI, §3151(a)(1), (4)(C), Dec. 28, 2001, 115 Stat. 1371, 1374.)
 
 #### References in Text
+
+Executive Order No. 12344, referred to in par. (12)(A), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 Section 4(b)(2) of the Radiation Exposure Compensation Act, referred to in par. (17)(A), is section 4(b)(2) of Pub. L. 101–426, which is set out in a note under section 2210 of this title.
 

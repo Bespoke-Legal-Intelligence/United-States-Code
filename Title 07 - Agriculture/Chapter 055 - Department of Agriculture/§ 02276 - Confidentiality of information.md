@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 105–113, §4(b), added subsec. (e).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1502 of this title.
+This section is referred to in section 1502 of this title; title 16 section 3844.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

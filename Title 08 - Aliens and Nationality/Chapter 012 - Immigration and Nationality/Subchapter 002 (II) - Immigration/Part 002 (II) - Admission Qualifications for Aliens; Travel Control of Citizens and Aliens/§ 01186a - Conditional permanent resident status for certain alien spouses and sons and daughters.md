@@ -64,7 +64,7 @@
 
 #### (B) Hearing in removal proceeding
 
-&emsp;&emsp;In any removal proceeding with respect to an alien whose permanent resident status is terminated under subparagraph (A), the burden of proof shall be on the alien to establish compliance with the conditions of paragraphs (1)(A) and (1)(B).
+&emsp;&emsp;In any removal proceeding with respect to an alien whose permanent resident status is terminated under subparagraph (A), the burden of proof shall be on the alien to establishcompliance with the conditions of paragraphs (1)(A) and (1)(B).
 
 #### (3) Determination after petition and interview
 
@@ -92,7 +92,7 @@
 
 #### (4) Hardship waiver
 
-&emsp;The Attorney General, in the Attorney General's discretion, may remove the conditionalbasis of the permanent resident status for an alien who fails to meet the requirements of paragraph (1) if the alien demonstrates that—
+&emsp;The Attorney General, in the Attorney General's discretion, may remove the conditional basis of the permanent resident status for an alien who fails to meet the requirements of paragraph (1) if the alien demonstrates that—
 
 &emsp;&emsp;(A) extreme hardship would result if such alien is removed,
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) was not entered into for the purpose of procuring an alien's admission as an immigrant; and
 
-&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) of section 1184 of this title with respect to the alien spouse or alien son or daughter.
+&emsp;&emsp;&emsp;(ii) no fee or other consideration was given (other than a fee or other consideration to an attorney for assistance in preparation of a lawful petition) for the filing of a petition under section 1154(a) of this title or subsection (d) or (p) <sup>2</sup> of section 1184 of this title with respect to the alien spouse or alien son or daughter.
 
 #### (B) Statement of additional information
 
@@ -177,6 +177,10 @@ In this section:
 &emsp;(4) The term “petitioning spouse” means the spouse of a qualifying marriage, other than the alien.
 
 (June 27, 1952, ch. 477, title II, ch. 2, §216, as added Pub. L. 99–639, §2(a), Nov. 10, 1986, 100 Stat. 3537; amended Pub. L. 100–525, §7(a), Oct. 24, 1988, 102 Stat. 2616; Pub. L. 101–649, title VII, §701(a), Nov. 29, 1990, 104 Stat. 5085; Pub. L. 102–232, title III, §302(e)(8)(B), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 103–322, title IV, §40702(a), Sept. 13, 1994, 108 Stat. 1955; Pub. L. 104–208, div. C, title III, §308(d)(4)(E), (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–621; Pub. L. 106–553, §1(a)(2) \[title XI, §1103(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–145.)
+
+#### References in Text
+
+Subsection (p) of section 1184 of this title, referred to in subsec. (d)(1)(A)(ii), was redesignated subsec. (r) of section 1184 by Pub. L. 108–193, §8(a)(3), Dec. 19, 2003, 117 Stat. 2886.
 
 #### Codification
 
@@ -245,4 +249,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 This section is referred to in sections 1186b, 1227, 1228, 1255, 1367 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

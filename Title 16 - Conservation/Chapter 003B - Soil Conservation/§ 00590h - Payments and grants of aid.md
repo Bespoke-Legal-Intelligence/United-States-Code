@@ -50,7 +50,7 @@
 
 #### (aa) Eligibility
 
-&emsp;&emsp;&emsp;&emsp;&emsp;To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the areaunder the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
+&emsp;&emsp;&emsp;&emsp;&emsp;To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the area under the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
 
 #### (bb) Outreach
 
@@ -330,7 +330,7 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 
 #### Effective Date of 1938 Amendment
 
-Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained hereinshall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 #### Transfer of Functions
 
@@ -352,7 +352,7 @@ Pub. L. 97–218, title IV, §401, July 20, 1982, 96 Stat. 216, provided that: �
 
 #### 1970 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Adjustment by the Secretary of Agriculture, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of the rates of pay of personnel subject to this section with respect to individuals employed by county committees under subsec. (b) of this section, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of Title 5, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+Adjustment by the Secretary of Agriculture, effective on the first day of the first pay period which begins onor after Dec. 27, 1969, of the rates of pay of personnel subject to this section with respect to individuals employed by county committees under subsec. (b) of this section, by the amounts of the adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of Title 5, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 #### 1967 Increase in Rates of Compensation of Persons Employed by County Committees
 

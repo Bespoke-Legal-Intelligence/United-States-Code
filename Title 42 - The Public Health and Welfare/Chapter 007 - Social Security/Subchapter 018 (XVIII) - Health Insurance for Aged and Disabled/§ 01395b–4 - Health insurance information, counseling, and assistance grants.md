@@ -120,11 +120,11 @@ Subsec. (e)(1). Pub. L. 103–432, §171(i)(6)(C), struck out “State-wide” b
 
 Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
 
-Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignatingsubsec. (f), relating to authorization of appropriations for grants, as (g).
+Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
 Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
 
-Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
+Subsec. (f)(2) to (5). Pub. L. 103–432, §171(i)(7), in subsec. (f), relating to report to Congress, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck outformer par. (2) which read as follows: “summarizes the scope and content of training conferences convened under this section;”.
 
 Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
 
@@ -142,7 +142,7 @@ For provisions relating to changes required to conform State regulatory programs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1395w–27 of this title.
+This section is referred to in sections 1395b–9, 1395w–27 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “to”.</i>
 

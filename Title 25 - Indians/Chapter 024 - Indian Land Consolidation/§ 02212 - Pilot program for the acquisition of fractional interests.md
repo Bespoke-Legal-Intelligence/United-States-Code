@@ -44,7 +44,7 @@ In implementing subsection (a) of this section, the Secretary—
 
 #### (A) In general
 
-&emsp;&emsp;At the request of any Indian who owns at least 5 percent of the undivided interest in aparcel of trust or restricted land, the Secretary shall convey an interest acquired under this section to the Indian landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.
+&emsp;&emsp;At the request of any Indian who owns at least 5 percent of the undivided interest in a parcel of trust or restricted land, the Secretary shall convey an interest acquired under this section to the Indian landowner upon payment by the Indian landowner of the amount paid for the interest by the Secretary.
 
 #### (B) Limitation
 

@@ -58,5 +58,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 287e–2, 2152b, 2194, 2274, 2778, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j, 2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063, 7102, 7536 of this title.
+This section is referred to in sections 287e–2, 2151b, 2152b, 2194, 2274, 2778, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j, 2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063, 7102, 7536 of this title.
 

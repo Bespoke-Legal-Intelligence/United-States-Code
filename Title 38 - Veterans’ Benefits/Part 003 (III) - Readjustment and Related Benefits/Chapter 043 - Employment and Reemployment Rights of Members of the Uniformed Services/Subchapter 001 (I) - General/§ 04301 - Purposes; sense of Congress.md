@@ -14,7 +14,7 @@
 
 #### Prior Provisions
 
-A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, §2021; amended Pub. L. 94–502, title VI, §608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, §331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, §5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, §340(a), Apr. 6, 1991, 105 Stat. 92; renumbered §4301, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
+A prior section 4301, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, §2021; amended Pub.L. 94–502, title VI, §608(1), (2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 99–576, title III, §331, Oct. 28, 1986, 100 Stat. 3279; Pub. L. 102–12, §5(a), Mar. 18, 1991, 105 Stat. 36; Pub. L. 102–25, title III, §340(a), Apr. 6, 1991, 105 Stat. 92; renumbered §4301, Pub. L. 102–568, title V, §506(a), Oct. 29, 1992, 106 Stat. 4340, related to reemployment rights of persons inducted into the Armed Forces of the United States and benefits protected, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date note below.
 
 Another prior section 4301 was renumbered section 7601 of this title.
 
@@ -82,7 +82,7 @@ Rights and Benefits Relative to Notice of Intent Not To Return.—Section 4316(b
 
 Employer Pension Benefit Plans.—(1) Nothing in this Act shall be construed to relieve an employer of an obligation to provide contributions to a pension plan (or provide pension benefits), or to relieve the obligation of a pension plan to provide pension benefits, which is required by the provisions of chapter 43 of title 38, United States Code, in effect on the day before this Act takes effect \[probably means the day before Oct. 13, 1994\].
 
-“(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of this Act \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
+“(2) If any employee pension benefit plan is not in compliance with section 4318 of such title or paragraph (1) of this subsection on the date of enactment of thisAct \[Oct. 13, 1994\], such plan shall have two years to come into compliance with such section and paragraph.
 
 “(i)
 

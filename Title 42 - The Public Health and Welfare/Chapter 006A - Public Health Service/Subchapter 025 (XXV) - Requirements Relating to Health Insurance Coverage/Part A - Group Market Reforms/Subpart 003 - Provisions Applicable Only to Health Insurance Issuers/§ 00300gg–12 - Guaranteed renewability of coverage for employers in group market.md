@@ -30,7 +30,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 #### (6) Association membership ceases
 
-&emsp;In the case of health insurance coverage that is made available in the small or large group market (as the case may be) only through one or more bona fide associations, the membership of an employer in the association (on the basis of which the coverage is provided) ceases but only if such coverage is terminated under this paragraph uniformly without regard to any health status-related factor relating to any covered individual.
+&emsp;In the case of health insurance coverage that is made available in the small or large group market (as the case may be) only through one or more bona fide associations,the membership of an employer in the association (on the basis of which the coverage is provided) ceases but only if such coverage is terminated under this paragraph uniformly without regard to any health status-related factor relating to any covered individual.
 
 #### (c) Requirements for uniform termination of coverage
 
@@ -40,7 +40,7 @@ A health insurance issuer may nonrenew or discontinue health insurance coverage 
 
 &emsp;&emsp;(A) the issuer provides notice to each plan sponsor provided coverage of this type in such market (and participants and beneficiaries covered under such coverage) of such discontinuation at least 90 days prior to the date of the discontinuation of such coverage;
 
-&emsp;&emsp;(B) the issuer offers to each plan sponsor provided coverage of this type in such market, the option to purchase all (or, in the case of the large group market, any) otherhealth insurance coverage currently being offered by the issuer to a group health plan in such market; and
+&emsp;&emsp;(B) the issuer offers to each plan sponsor provided coverage of this type in such market, the option to purchase all (or, in the case of the large group market, any) other health insurance coverage currently being offered by the issuer to a group health plan in such market; and
 
 &emsp;&emsp;(C) in exercising the option to discontinue coverage of this type and in offering the option of coverage under subparagraph (B), the issuer acts uniformly without regard to the claims experience of those sponsors or any health status-related factor relating to any participants or beneficiaries covered or new participants or beneficiaries who may become eligible for such coverage.
 

@@ -56,7 +56,7 @@ For purposes of applying section 404 with respect to contributions made to or un
 
 &emsp;(3) any reference to compensation shall be considered to be a reference to the total compensation of such individual (determined with the application of subsection (b)(2)).
 
-> Any amount deductible by a domestic subsidiary under this subsection shall be deductible for its taxable year with or within which the taxable year of such domestic parent corporation ends.
+> Any amount deductible by a domestic subsidiary under this subsection shall be deductible for itstaxable year with or within which the taxable year of such domestic parent corporation ends.
 
 #### (e) Treatment as employee under related provisions
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7811(g)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(g)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Amendment by section 7831(f) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
 

@@ -64,7 +64,7 @@ Sums appropriated pursuant to this section shall remain available until expended
 
 The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
-(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347.)
+(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Secretary 
 
 #### (c) Mortgages with monthly adjustments based on selected price index; priority; regulations; number
 
-Notwithstanding the provisions of subsection (a) of this section, the Secretary may insure under any provision of this subchapter a mortgage or loan that meets the requirements of the first sentence of subsection (a) of this section and that has provisions permitting adjustment of monthly payments and outstanding principal according to changes or percentages of changes in a selected price index if the Secretary determines—
+Notwithstanding the provisions of subsection (a) of this section, the Secretary may insureunder any provision of this subchapter a mortgage or loan that meets the requirements of the first sentence of subsection (a) of this section and that has provisions permitting adjustment of monthly payments and outstanding principal according to changes or percentages of changes in a selected price index if the Secretary determines—
 
 &emsp;(1) the principal obligation of the mortgage or loan initially does not exceed the percentage of the initial appraised value of the property specified in section 1709(b) of this title as of the date the mortgage or loan is accepted for insurance; and
 
@@ -110,7 +110,7 @@ Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979”.
 
 Subsecs. (b), (c). Pub. L. 96–153, §311(5), added subsecs. (b) and (c).
 
-1978—Pub. L. 95–630 inserted “(1)” before “limiting the amount of interest” and “, or (2) requiring a minimum amortization of principal or otherwise relating to the amortization of principal under the mortgage or loan” after “payment mortgage provisions”.
+1978—Pub. L. 95–630 inserted “(1)” before “limiting the amount of interest” and “, or (2) requiring a minimum amortization of principal or otherwise relating to the amortization of principal under the mortgage or loan” after “payment mortgage provisions”.
 
 Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
 

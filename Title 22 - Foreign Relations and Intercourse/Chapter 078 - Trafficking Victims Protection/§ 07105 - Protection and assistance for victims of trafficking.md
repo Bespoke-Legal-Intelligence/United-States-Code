@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) Support for local in-country nongovernmental organization-operated hotlines, culturally and linguistically appropriate protective shelters, and regional and international nongovernmental organization networks and databases on trafficking, including support to assist nongovernmental organizations in establishing service centers and systems that are mobile and extend beyond large cities.
 
-&emsp;&emsp;(B) Support for nongovernmental organizations and advocates to provide legal, social, and other services and assistance to trafficked individuals, particularly those individuals in detention.
+&emsp;&emsp;(B) Support for nongovernmental organizations and advocates to provide legal, social, and other services and assistance to trafficked individuals, particularly those individuals in detention, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations.
 
 &emsp;&emsp;(C) Education and training for trafficked women and girls.
 
@@ -26,11 +26,11 @@
 
 #### (A) Eligibility for benefits and services
 
-&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, an alien who is a victim of a severe form of trafficking in persons shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
+&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, an alien who is a victim of a severe form of trafficking in persons, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8, shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
 
 #### (B) Requirement to expand benefits and services
 
-&emsp;&emsp;Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, without regard to the immigration status of such victims.
+&emsp;&emsp;Subject to subparagraph (C) and, in the case of nonentitlement programs, to the availability of appropriations, the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other Federal agencies shall expand benefits and services to victims of severe forms of trafficking in persons in the United States, and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8, without regard to the immigration status of such victims. In the case of nonentitlement programs funded by the Secretary of Health and Human Services, such benefits and services may include services to assist potential victims of trafficking in achieving certification and to assist minor dependent children of victims of severe forms of trafficking in persons or potential victims of trafficking.
 
 #### (C) Definition of victim of a severe form of trafficking in persons
 
@@ -42,9 +42,7 @@
 
 &emsp;&emsp;&emsp;(II) who is the subject of a certification under subparagraph (E).
 
-#### (D) Annual report
-
-&emsp;&emsp;Not later than December 31 of each year, the Secretary of Health and Human Services, in consultation with the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and the heads of other appropriate Federal agencies shall submit a report, which includes information on the number of persons who received benefits or other services under this paragraph in connection with programs or activities funded or administered by such agencies or officials during the preceding fiscal year, to the Committee on Ways and Means, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate.
+#### (D) Repealed. Pub. L. 108–193, §6(a)(2), Dec. 19, 2003, 117 Stat. 2880
 
 #### (E) Certification
 
@@ -54,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is willing to assist in every reasonable way in the investigation and prosecution of severe forms of trafficking in persons; and
 
-&emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
+&emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Attorney General is ensuring in order to effectuate prosecution of traffickers in persons.
 
@@ -71,6 +69,10 @@
 &emsp;&emsp;&emsp;&emsp;(II) location and apprehension of such persons; and
 
 &emsp;&emsp;&emsp;&emsp;(III) testimony at proceedings against such persons.
+
+#### (iv) Assistance to investigations
+
+&emsp;&emsp;&emsp;In making the certification described in this subparagraph with respect to the assistance to investigation or prosecution described in clause (i)(I), the Secretary of Health and Human Services shall consider statements from State and local law enforcement officials that the person referred to in subparagraph (C)(ii)(II) has been willing to assist in every reasonable way with respect to the investigation and prosecution of State and local crimes such as kidnapping, rape, slavery, or other forced labor offenses, where severe forms of trafficking appear to have been involved.
 
 #### (2) Grants
 
@@ -138,11 +140,13 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (g) Annual reports
 
-On or before October 31 of each year, the Attorney General shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(n)(1) or 1255(<i>l</i>)(4)(A) of title 8.
+On or before October 31 of each year, the Attorney General shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(<i>o</i>)(2) or 1255(<i>l</i>)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887.)
 
 #### References in Text
+
+Section 1101(a)(15)(T)(ii) of title 8, referred to in subsec. (b)(1)(A), (B), was in the original “section 101(a)(15)(T)(ii)”, and was translated as meaning section 101(a)(15)(T)(ii) of the Immigration and Nationality Act, act June 27, 1952, ch. 477, which is classified to section 1101(a)(15)(T)(ii) of title 8, to reflect the probable intent of Congress. Section 101 of Pub. L. 106–386 does not contain a subsec. (a)(15)(T)(ii), and section 101(a)(15)(T)(ii) of the Immigration and Nationality Act describes certain nonimmigrant aliens.
 
 Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(1)(A), is title IV (§400 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, as amended. For complete classification of title IV to the Code, see Tables.
 
@@ -154,13 +158,25 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 #### Amendments
 
+2003—Subsec. (a)(1)(B). Pub. L. 108–193, §4(a)(1), inserted before period at end “, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations”.
+
+Subsec. (b)(1)(A). Pub. L. 108–193, §4(a)(2)(A), inserted “, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “in persons”.
+
+Subsec. (b)(1)(B). Pub. L. 108–193, §4(a)(2)(B), inserted “and aliens classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “United States,” and inserted sentence at end relating to nonentitlement programs funded by the Secretary of Health and Human Services.
+
+Subsec. (b)(1)(D). Pub. L. 108–193, §6(a)(2), struck out subpar. (D) which related to annual reports on the number of persons receiving benefits or services under paragraph (1).
+
+Subsec. (b)(1)(E)(iv). Pub. L. 108–193, §4(a)(3), added cl. (iv).
+
+Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted “1184(<i>o</i>)(2)” for “1184(n)(1)”.
+
 2002—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7110 of this title.
+This section is referred to in sections 7103, 7110 of this title.
 

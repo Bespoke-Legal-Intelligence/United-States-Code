@@ -28,7 +28,7 @@ Medical and Dental School Students.—(1) Under the stipend program under this c
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as an officer for service in the Ready Reserve;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specifiedin the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
 &emsp;(D) the participant shall agree to serve in the Selected Reserve, upon successful completion of the program, for the period of service applicable under paragraph (3).
 
@@ -82,7 +82,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;&emsp;(ii) as an Air Force nurse of the Air Force;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time ofwar or national emergency as provided by law for members of the Ready Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
 &emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
@@ -104,7 +104,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before enlistment in the Ready Reserve;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specifiedin the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
 &emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
 

@@ -18,7 +18,7 @@ In general.—The Attorney General shall submit to the Congress a report of any 
 
 &emsp;&emsp;&emsp;(i) to contest affirmatively, in any judicial, administrative, or other proceeding, the constitutionality of any provision of any Federal statute, rule, regulation, program, policy, or other law; or
 
-&emsp;&emsp;&emsp;(ii) to refrain (on the grounds that the provision is unconstitutional) from defending or asserting, in any judicial, administrative, or other proceeding, the constitutionality of any provision of any Federal statute, rule, regulation, program, policy, or other law, or not to appeal or request review of any judicial, administrative, or other determination adversely affecting the constitutionality of any such provision; or
+&emsp;&emsp;&emsp;(ii) to refrain (on the grounds that the provision is unconstitutional) from defending or asserting, in any judicial, administrative, or other proceeding, the constitutionality of any provision of any Federal statute, rule, regulation, program, policy,or other law, or not to appeal or request review of any judicial, administrative, or other determination adversely affecting the constitutionality of any such provision; or
 
 &emsp;&emsp;(C) approves (other than in circumstances in which a report is submitted to the Joint Committee on Taxation, pursuant to section 6405 of the Internal Revenue Code of 1986) the settlement or compromise (other than in bankruptcy) of any claim, suit, or other action—
 
@@ -110,5 +110,5 @@ Pub. L. 107–273, div. A, title II, §202(b)(3), (4), Nov. 2, 2002, 116 Stat. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 288k.
+This section is referred to in title 2 sections 130f, 288k.
 

@@ -24,7 +24,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-The Volunteers in the Parks Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, as amended, which is classified generally to subchapter II (§18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18g of this title and Tables.
+The Volunteers in the Parks Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–357, July 29, 1970, 84 Stat. 472, as amended, which is classified generally to subchapter II (§18g et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 18g of this title and Tables.
 
 The Volunteers in the Forest Act of 1972, referred to in subsec. (b)(2)(A), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 558a of this title and Tables.
 

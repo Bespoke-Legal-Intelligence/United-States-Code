@@ -12,7 +12,7 @@ Any State may apply to the Secretary for reimbursement under this section for co
 
 &emsp;(4) The implementation of conservation actions specified in an approved conservation plan.
 
-&emsp;(5) The coordination, consolidation, or implementation of the conservation plan or conservation, actions approved under this chapter with other related plans or actions developed pursuant to the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] and the Act of August 9,1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\].
+&emsp;(5) The coordination, consolidation, or implementation of the conservation plan or conservation, actions approved under this chapter with other related plans or actions developed pursuant to the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] and the Act of August 9, 1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\].
 
 #### (b) Applications
 
@@ -22,7 +22,7 @@ Application for reimbursement under this section shall be made in such manner as
 
 No State is eligible for reimbursement under this section unless the Secretary finds that the costs, for which reimbursement is sought, have been incurred by the State as follows:
 
-&emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs have been incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
+&emsp;(1) If reimbursement is sought under subsection (a)(1) of this section, such costs havebeen incurred in developing a conservation plan that meets the requirements set forth in section 2903 of this title.
 
 &emsp;(2) If reimbursement is sought under subsection (a)(2) of this section, such costs have been incurred in revising the plan in a manner consistent with such requirements.
 
@@ -82,7 +82,7 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 &emsp;(ii) not include any other Federal moneys received by such State and applied by it, directly or indirectly, for such purposes.
 
-(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, and other scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
+(B) For purposes of subparagraph (A), inkind contributions may be in the form of, but are not limited to, personal services rendered by volunteers in carrying out surveys, censuses, andother scientific studies regarding fish and wildlife. The Secretary shall by regulation establish (i) the training experience, and other qualifications which such volunteers must have in order for their services to be considered as inkind contributions; and (ii) the standards under which the Secretary will determine the value of inkind contributions and real and personal property for purposes of subparagraph (A).
 
 (C) Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 

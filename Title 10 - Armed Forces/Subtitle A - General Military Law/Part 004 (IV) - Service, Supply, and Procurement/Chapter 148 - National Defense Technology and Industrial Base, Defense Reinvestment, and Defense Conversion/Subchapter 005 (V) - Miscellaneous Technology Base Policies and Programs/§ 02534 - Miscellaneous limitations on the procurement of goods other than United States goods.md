@@ -34,7 +34,7 @@ Valves and machine tools.—Items in the following categories:
 
 &emsp;(5)
 
-Ball bearings and roller bearings.—Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992.
+Ball bearings and roller bearings.—Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
 
 (b)
 
@@ -150,7 +150,7 @@ Implementation of Naval Vessel Component Limitation.—In implementing subsectio
 
 &emsp;(1) may not use contract clauses or certifications; and
 
-&emsp;(2) shall use management and oversight techniques that achieve the objective of thesubsection without imposing a significant management burden on the Government or the contractor involved.
+&emsp;(2) shall use management and oversight techniques that achieve the objective of the subsection without imposing a significant management burden on the Government or the contractor involved.
 
 (i)
 
@@ -178,7 +178,7 @@ Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearing
 
 (2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225.)
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548.)
 
 Historical and Revision Notes
 
@@ -197,6 +197,8 @@ Sept. 20, 1968, Pub. L. 90–500, §404, 82 Stat. 851.
 The words “of the United States under the provisions of this Act or the provisions of any other law” are omitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
 
 #### Amendments
+
+2003—Subsec. (a)(5). Pub. L. 108–136 inserted before period at end “, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer”.
 
 2001—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -309,4 +311,26 @@ Section 833(b) of Pub. L. 102–484 provided that: “Subsection (f) of section 
 #### Effective Date of 1990 Amendment
 
 Section 835(b) of Pub. L. 101–510 provided that subsec. (e) of this section, as added by section 835(a) of Pub. L. 101–510, applied with respect to systems or items procured by or provided to Department of Defense after Nov. 5, 1990.
+
+#### Elimination of Unreliable Sources of Defense Items and Components
+
+Pub. L. 108–136, div. A, title VIII, §821, Nov. 24, 2003, 117 Stat. 1546, provided that:
+
+“(a)
+
+Identification of Certain Countries.—The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of the enactment of this Act \[Nov. 24, 2003\]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense.
+
+“(b)
+
+Prohibition on Procurement of Items From Identified Countries.—The Secretary of Defense may not procure any items or components contained in military systems if the items or components, or the systems, are manufactured in any foreign country identified under subsection (a).
+
+“(c)
+
+Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (b) if the Secretary determines in writing and notifies Congress that the Department of Defense's need for the item is of such an unusual and compelling urgency that the Department would be unable to meet national security objectives.
+
+“(d)
+
+Effective Date.—(1) Subject to paragraph (2), subsection (b) applies to contracts in existence on the date of the enactment of this Act \[Nov. 24, 2003\] or entered into after such date.
+
+“(2) With respect to contracts in existence on the date of the enactment of this Act, the Secretary of Defense shall take such action as is necessary to ensure that such contracts are in compliance with subsection (b) not later than 24 months after such date.”
 

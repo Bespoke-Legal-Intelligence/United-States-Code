@@ -52,7 +52,7 @@ In this chapter:
 
 #### (12) Producer
 
-&emsp;The term “producer” means an owner, operator, landlord, tenant, or sharecropper who shares in the risk of producing a crop and who is entitled to share in the crop available formarketing from the farm, or would have shared had the crop been produced. In determining whether a grower of hybrid seed is a producer, the Secretary shall not take into consideration the existence of a hybrid seed contract.
+&emsp;The term “producer” means an owner, operator, landlord, tenant, or sharecropper who shares in the risk of producing a crop and who is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced. In determining whether a grower of hybrid seed is a producer, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
 #### (13) Secretary
 

@@ -64,7 +64,7 @@ For purposes of this subchapter, the term “written notice of allocation” mea
 
 #### (d) Nonqualified written notice of allocation
 
-For purposes of this subchapter, the term “nonqualified written notice of allocation” means a written notice of allocation which is not described in subsection (c) or a qualified check which is not cashed on or before the 90th day after the close of the payment period for thetaxable year for which the distribution of which it is a part is paid.
+For purposes of this subchapter, the term “nonqualified written notice of allocation” means a written notice of allocation which is not described in subsection (c) or a qualified check which is not cashed on or before the 90th day after the close of the payment period for the taxable year for which the distribution of which it is a part is paid.
 
 #### (e) Determination of amount paid or received
 
@@ -126,7 +126,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 #### (1) Optional netting of patronage gains and losses permitted
 
-&emsp;The net earnings of such organization may, at its option, be determined by offsetting patronage losses (including any patronage loss carried to such year) which are attributable to 1 or more allocation units (whether such units are functional, divisional, departmental, geographic, or otherwise) against patronage earnings of 1 or more other such allocation units.
+&emsp;The net earnings of such organization may, at its option, be determined by offsetting patronage losses (including any patronage loss carried to such year) which are attributable to1 or more allocation units (whether such units are functional, divisional, departmental, geographic, or otherwise) against patronage earnings of 1 or more other such allocation units.
 
 #### (2) Certain netting permitted after section 381 transactions
 
@@ -216,7 +216,7 @@ No inference.—Nothing in the amendments made by this section \[amending this s
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years ending after October 31, 1978, see section 316(c) of Pub. L. 95–600, set out as a note under section 46 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years ending after October 31, 1978, see section 316(c) ofPub. L. 95–600, set out as a note under section 46 of this title.
 
 #### Effective Date of 1969 Amendment
 

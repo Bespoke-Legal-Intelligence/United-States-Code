@@ -16,7 +16,7 @@ The Secretary shall charge and collect interest on any loan made under this sect
 
 #### (c) Use of loan
 
-A State shall use a loan made to the State under this section only for any purpose for which grant amounts received by the Stateunder section 603(a) of this title may be used, including—
+A State shall use a loan made to the State under this section only for any purpose for which grant amounts received by the State under section 603(a) of this title may be used, including—
 
 &emsp;(1) welfare anti-fraud activities; and
 
@@ -24,7 +24,7 @@ A State shall use a loan made to the State under this section only for any purpo
 
 #### (d) Limitation on total amount of loans to State
 
-The cumulative dollar amount of all loans made to a State under this section during fiscal years 1997 through 2002 shall not exceed 10 percent of the State family assistance grant.
+The cumulative dollar amount of all loans made to a State under this section during fiscal years 1997 through 2003 shall not exceed 10 percent of the State family assistance grant.
 
 #### (e) Limitation on total amount of outstanding loans
 
@@ -34,7 +34,7 @@ The total dollar amount of loans outstanding under this section may not exceed $
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated such sums as may be necessary for the cost of loans under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §406, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §406, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2128; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–40, §3(f), June 30, 2003, 117 Stat. 837.)
 
 #### Prior Provisions
 
@@ -42,7 +42,13 @@ A prior section 606, acts Aug. 14, 1935, ch. 531, title IV, §406, 49 Stat. 629;
 
 #### Amendments
 
+2003—Subsec. (d). Pub. L. 108–40 substituted “2003” for “2002”.
+
 1997—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
 
 #### Effective Date of 1997 Amendment
 

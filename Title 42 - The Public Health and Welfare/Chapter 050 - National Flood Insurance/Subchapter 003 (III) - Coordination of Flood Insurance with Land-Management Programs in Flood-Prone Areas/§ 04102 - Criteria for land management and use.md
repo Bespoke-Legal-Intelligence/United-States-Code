@@ -6,7 +6,7 @@ The Director is authorized to carry out studies and investigations, utilizing to
 
 #### (b) Extent of studies and investigations
 
-Such studies and investigations shall include, but not be limited to, laws, regulations, or ordinances relating to encroachments and obstructions on stream channels and floodways, the orderly development and use of flood plains of rivers or streams, floodway encroachment lines, and flood plain zoning, building codes, building permits, and subdivision or other building restrictions.
+Such studies and investigations shall include, but not be limited to, laws, regulations, or ordinances relating to encroachments and obstructions on stream channels and floodways, the orderly development and use of flood plains of rivers or streams, floodway encroachment lines, and flood plain zoning, building codes, buildingpermits, and subdivision or other building restrictions.
 
 #### (c) Development of comprehensive criteria designed to encourage adoption of adequate State and local measures
 
@@ -22,7 +22,7 @@ On the basis of such studies and investigations, and such other information as h
 
 > and he shall work closely with and provide any necessary technical assistance to State, interstate, and local governmental agencies, to encourage the application of such criteria and the adoption and enforcement of such measures.
 
-(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24,1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 
 #### Amendments
 

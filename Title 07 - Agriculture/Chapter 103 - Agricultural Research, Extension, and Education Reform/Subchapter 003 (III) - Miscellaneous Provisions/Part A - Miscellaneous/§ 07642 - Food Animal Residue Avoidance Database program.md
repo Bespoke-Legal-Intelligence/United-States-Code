@@ -38,7 +38,7 @@ The Secretary shall offer to enter into a contract, grant, or cooperative agreem
 
 #### (d) Indirect costs
 
-Federal funds provided by the Secretary under a contract, grant, or cooperative agreement under this section shall be subject to reduction for indirect costs of the recipient of the funds in an amount not to exceed 19 percent of the total Federal funds provided under the contract, grant, or cooperative agreement.
+Federal funds provided by the Secretary under a contract, grant, or cooperative agreementunder this section shall be subject to reduction for indirect costs of the recipient of the funds in an amount not to exceed 19 percent of the total Federal funds provided under the contract, grant, or cooperative agreement.
 
 (Pub. L. 105–185, title VI, §604, June 23, 1998, 112 Stat. 586.)
 

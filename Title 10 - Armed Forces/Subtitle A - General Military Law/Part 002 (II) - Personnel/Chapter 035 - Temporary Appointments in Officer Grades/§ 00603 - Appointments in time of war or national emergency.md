@@ -1,6 +1,6 @@
 ### §603. Appointments in time of war or national emergency
 
-(a) In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, or Marine Corps, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
+(a) In time of war, or of national emergency declared by the Congress or the President afterNovember 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, or Marine Corps, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
 
 (b) Any appointment under this section is a temporary appointment and may be vacated by the President at any time.
 
@@ -47,6 +47,20 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 #### Delegation of Functions
 
 Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+
+#### Ex. Ord. No. 13321. Appointments During National Emergency
+
+Ex. Ord. No. 13321, Dec. 17, 2003, 68 F.R. 74465, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to further respond to the national emergency I declared in Proclamation 7463 of September 14, 2001 \[50 U.S.C. 1621 note\], I hereby order as follows:
+
+Section 1. <i>Emergency Appointments Authority</i>. The emergency appointments authority at section 603 of title 10, United States Code, is invoked and made available to the Secretary of Defense in accordance with the terms of that statute and of Executive Order 12396 of December 9, 1982 \[3 U.S.C. 301 note\].
+
+Sec. 2. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any person.
+
+Sec. 3. <i>Administration</i>. This order shall be transmitted to the Congress and published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -5,7 +5,7 @@
 | [44701\.](%C2%A7%2044701%20-%20General%20requirements.md) | General requirements. |
 | [44702\.](%C2%A7%2044702%20-%20Issuance%20of%20certificates.md) | Issuance of certificates. |
 | [44703\.](%C2%A7%2044703%20-%20Airman%20certificates.md) | Airman certificates. |
-| [44704\.](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20and%20airworthiness%20certificates.md) | Type certificates, production certificates, and airworthiness certificates. |
+| [44704\.](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20airworthiness%20certificates%2C%20and%20design%20organization%20certificates.md) | Type certificates, production certificates, airworthiness certificates, and design organization certificates. |
 | [44705\.](%C2%A7%2044705%20-%20Air%20carrier%20operating%20certificates.md) | Air carrier operating certificates. |
 | [44706\.](%C2%A7%2044706%20-%20Airport%20operating%20certificates.md) | Airport operating certificates. |
 | [44707\.](%C2%A7%2044707%20-%20Examining%20and%20rating%20air%20agencies.md) | Examining and rating air agencies. |
@@ -28,10 +28,14 @@
 | [44724\.](%C2%A7%2044724%20-%20Manipulation%20of%20flight%20controls.md) | Manipulation of flight controls. |
 | [44725\.](%C2%A7%2044725%20-%20Life-limited%20aircraft%20parts.md) | Life-limited aircraft parts. |
 | [44726\.](%C2%A7%2044726%20-%20Denial%20and%20revocation%20of%20certificate%20for%20counterfeit%20parts%20violations.md) | Denial and revocation of certificate for counterfeit parts violations. |
+| [44727\.](%C2%A7%2044727%20-%20Runway%20safety%20areas.md) | Runway safety areas. |
+| [44728\.](%C2%A7%2044728%20-%20Flight%20attendant%20certification.md) | Flight attendant certification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–176, title II, §227(e)(2), title V, §502(b), title VIII, §814(b), Dec. 12, 2003, 117 Stat. 2532, 2557, 2592, substituted “Type certificates, production certificates, airworthiness certificates, and design organization certificates” for “Type certificates, production certificates, and airworthiness certificates” in item 44704 and added items 44727 and 44728.
 
 2000—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted “Aeronautical charts and related products and services” for “Aeronautical maps and charts” in item 44721 and added items 44725 and 44726.
 
@@ -49,7 +53,7 @@ This chapter is referred to in sections 106, 46301, 46316 of this title; title 1
 - [&sect; 44701 - General requirements](%C2%A7%2044701%20-%20General%20requirements.md)
 - [&sect; 44702 - Issuance of certificates](%C2%A7%2044702%20-%20Issuance%20of%20certificates.md)
 - [&sect; 44703 - Airman certificates](%C2%A7%2044703%20-%20Airman%20certificates.md)
-- [&sect; 44704 - Type certificates, production certificates, and airworthiness certificates](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20and%20airworthiness%20certificates.md)
+- [&sect; 44704 - Type certificates, production certificates, airworthiness certificates, and design organization certificates](%C2%A7%2044704%20-%20Type%20certificates%2C%20production%20certificates%2C%20airworthiness%20certificates%2C%20and%20design%20organization%20certificates.md)
 - [&sect; 44705 - Air carrier operating certificates](%C2%A7%2044705%20-%20Air%20carrier%20operating%20certificates.md)
 - [&sect; 44706 - Airport operating certificates](%C2%A7%2044706%20-%20Airport%20operating%20certificates.md)
 - [&sect; 44707 - Examining and rating air agencies](%C2%A7%2044707%20-%20Examining%20and%20rating%20air%20agencies.md)
@@ -72,3 +76,5 @@ This chapter is referred to in sections 106, 46301, 46316 of this title; title 1
 - [&sect; 44724 - Manipulation of flight controls](%C2%A7%2044724%20-%20Manipulation%20of%20flight%20controls.md)
 - [&sect; 44725 - Life-limited aircraft parts](%C2%A7%2044725%20-%20Life-limited%20aircraft%20parts.md)
 - [&sect; 44726 - Denial and revocation of certificate for counterfeit parts violations](%C2%A7%2044726%20-%20Denial%20and%20revocation%20of%20certificate%20for%20counterfeit%20parts%20violations.md)
+- [&sect; 44727 - Runway safety areas](%C2%A7%2044727%20-%20Runway%20safety%20areas.md)
+- [&sect; 44728 - Flight attendant certification](%C2%A7%2044728%20-%20Flight%20attendant%20certification.md)

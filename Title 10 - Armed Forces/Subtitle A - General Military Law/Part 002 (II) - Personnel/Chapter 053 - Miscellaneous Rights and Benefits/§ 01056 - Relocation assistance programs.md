@@ -38,7 +38,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(9), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amendedPub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(9), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Prior Provisions
 
@@ -65,4 +65,8 @@ Annual Report.—Not later than March 1 each year, the Secretary of Defense, act
 #### Implementation of Relocation Assistance Programs
 
 Section 1481(c)(4) of Pub. L. 101–510 provided that: “The program required to be carried out by section 1056 of title 10, United States Code, as added by paragraph (1), shall be established by the Secretary of Defense not later than October 1, 1990. The Secretary shall prescribe regulations to implement that section not later than July 1, 1990.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

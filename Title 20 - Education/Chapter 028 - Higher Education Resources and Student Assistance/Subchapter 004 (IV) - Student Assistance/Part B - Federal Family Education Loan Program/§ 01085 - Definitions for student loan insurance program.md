@@ -112,7 +112,7 @@ As used in this part:
 
 #### (B) Discretionary eligibility conditioned on improvement
 
-&emsp;&emsp;Notwithstanding the expiration of the exception in paragraph (2)(C), the Secretarymay, in the Secretary's discretion, continue to treat an institution described in subparagraph (A) of this paragraph as an eligible institution for each of the 1-year periods beginning on July 1 of 1999 through 2003, only if the institution submits by the beginning of such period evidence satisfactory to the Secretary that—
+&emsp;&emsp;Notwithstanding the expiration of the exception in paragraph (2)(C), the Secretary may, in the Secretary's discretion, continue to treat an institution described in subparagraph (A) of this paragraph as an eligible institution for each of the 1-year periods beginning on July 1 of 1999 through 2003, only if the institution submits by the beginning of such period evidence satisfactory to the Secretary that—
 
 &emsp;&emsp;&emsp;(i) such institution has complied and is continuing to comply with the requirements of subparagraph (A); and
 
@@ -164,7 +164,7 @@ As used in this part:
 
 &emsp;&emsp;(J) for purpose of making loans under section 1078–3 of this title, any nonprofit private agency functioning in any State as a secondary market; and
 
-&emsp;&emsp;(K) a consumer finance company subsidiary of a national bank which, as of October 7, 1998, through one or more subsidiaries: (i) acts as a small business lending company, as determined under regulations of the Small Business Administration under section 120.470 of title 13, Code of Federal Regulations (as such section is in effect on October7, 1998); and (ii) participates in the program authorized by this part pursuant to subparagraph (C), provided the national bank and all of the bank's direct and indirect subsidiaries taken together as a whole, do not have, as their primary consumer credit function, the making or holding of loans made to students under this part.
+&emsp;&emsp;(K) a consumer finance company subsidiary of a national bank which, as of October 7, 1998, through one or more subsidiaries: (i) acts as a small business lending company, as determined under regulations of the Small Business Administration under section 120.470 of title 13, Code of Federal Regulations (as such section is in effect on October 7, 1998); and (ii) participates in the program authorized by this part pursuant to subparagraph (C), provided the national bank and all of the bank's direct and indirect subsidiaries taken together as a whole, do not have, as their primary consumer credit function, the making or holding of loans made to students under this part.
 
 #### (2) Additional requirements of eligible institutions
 
@@ -260,7 +260,7 @@ Except as provided in subsection (m) of this section, the term “default” inc
 
 &emsp;(C) Any loan which has been rehabilitated before the end of such following fiscal year is not considered as in default for the purposes of this subsection. The Secretary may require guaranty agencies to collect data with respect to defaulted loans in a manner that will permit the identification of any defaulted loan for which (i) the borrower is currently making payments and has made not less than 6 consecutive on-time payments by the end of such following fiscal year, and (ii) a guaranty agency has renewed the borrower's title IV eligibility as provided in section 1078–6(b) of this title.
 
-&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup> of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
+&emsp;(D) For the purposes of this subsection, a loan made in accordance with section 1078–1 <sup>2</sup>of this title (or the portion of a loan made under section 1078–3 of this title that is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall not be considered to enter repayment until after the borrower has ceased to be enrolled in a course of study leading to a degree or certificate at an eligible institution on at least a half-time basis (as determined by the institution) and ceased to be in a period of forbearance based on such enrollment. Each eligible lender of a loan made under section 1078–1 <sup>2</sup> of this title (or a loan made under section 1078–3 of this title a portion of which is used to repay a loan made under section 1078–1 <sup>2</sup> of this title) shall provide the guaranty agency with the information necessary to determine when the loan entered repayment for purposes of this subsection, and the guaranty agency shall provide such information to the Secretary.
 
 #### (3) Regulations to prevent evasions
 
@@ -312,7 +312,7 @@ The Navajo Community College Act, referred to in subsec. (a)(2)(C)(iii), is Pub.
 
 The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), probably means the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug.10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subsec. (d)(1)(I), is act May 3, 1950, ch. 152, 64 Stat. 98, known as the Rural Rehabilitation Corporation Trust Liquidation Act, which was classified to sections 440 to 444 of former Title 40, Public Buildings, Property, and Works, and as notes set out under section 1001 of Title 7, Agriculture, and section 440 of former Title 40, and was omitted from the Code.
 
@@ -334,7 +334,7 @@ Subsec. (a)(5)(B). Pub. L. 106–554, §1(a)(1) \[title III, §312(2)\], substit
 
 Subsec. (a)(2)(A). Pub. L. 105–244, §429(a)(1)(A)(i), (ii), struck out “or” at end of cl. (i), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “there are, in the judgment of the Secretary, exceptional mitigating circumstances that would make the application of this paragraph inequitable.”
 
-Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions “If an institution continues toparticipate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.”
+Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions “If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.”
 
 Subsec. (a)(2)(C). Pub. L. 105–244, §429(a)(1)(B), substituted “July 1, 1999,” for “July 1, 1998,” in introductory provisions.
 
@@ -466,7 +466,7 @@ Pub. L. 105–244, title IV, §429(c)(2), Oct. 7, 1998, 112 Stat. 1708, provided
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) of this title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
+Amendment by Pub. L. 104–208 effective on reorganization effective date as defined in section 1087–3(h) ofthis title, see section 101(e) \[title VI, §602(b)(1)(B)\] of Pub. L. 104–208, set out as a note under section 1078–3 of this title.
 
 #### Effective Date of 1993 Amendments
 

@@ -12,7 +12,7 @@ Notwithstanding section 4002 of this title, in the case of any account establish
 
 &emsp;&emsp;(B) any funds received by such depository institution by wire transfer for deposit in such account;
 
-&emsp;&emsp;(C) any funds deposited in such account by cashier's check, certified check, teller'scheck, depository check, or traveler's check; and
+&emsp;&emsp;(C) any funds deposited in such account by cashier's check, certified check, teller's check, depository check, or traveler's check; and
 
 &emsp;&emsp;(D) any funds deposited by a government check which is described in subparagraph (A), (B), or (C) of section 4002(a)(2) of this title,
 
@@ -96,7 +96,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (A) Notice of each suspension
 
-&emsp;&emsp;Within 10 days of prescribing any regulation or issuing any order under paragraph\(1), the Board shall transmit a report of such action to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+&emsp;&emsp;Within 10 days of prescribing any regulation or issuing any order under paragraph (1), the Board shall transmit a report of such action to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 #### (B) Contents of report
 
@@ -166,7 +166,7 @@ Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4002 of this title.
+This section is referred to in sections 4002, 5015 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

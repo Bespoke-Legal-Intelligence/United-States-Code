@@ -52,7 +52,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 &emsp;&emsp;&emsp;(i) An amount equal to 10 percent of the applicable base payment for land covered by the conservation security contract.
 
-&emsp;&emsp;&emsp;(ii) An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year that are included in the conservation security contract, as described in subparagraph (C)(ii).
+&emsp;&emsp;&emsp;(ii) An amount that does not exceed 75 percent (or, in the case of a beginning farmer or rancher, 90 percent) of the average county cost of adopting or maintaining practices for the 2001 crop year thatare included in the conservation security contract, as described in subparagraph (C)(ii).
 
 &emsp;&emsp;&emsp;(iii) An enhanced payment that is determined in accordance with subparagraph (C)(iii).
 
@@ -104,7 +104,7 @@ The Secretary shall make payments under a conservation security contract as soon
 
 #### (c) Minimum practice requirement
 
-In determining a payment under subsection (b) of this section for a producer that receives apayment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III of this chapter (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
+In determining a payment under subsection (b) of this section for a producer that receives a payment under another program administered by the Secretary that is contingent on complying with requirements under subchapter II or III of this chapter (relating to the use of highly erodible land or wetland), a payment under this subpart on land subject to those requirements shall be for practices only to the extent that the practices exceed minimum requirements for the producer under those subchapters, as determined by the Secretary.
 
 #### (d) Regulations
 

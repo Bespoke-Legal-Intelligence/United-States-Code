@@ -18,7 +18,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (C) A subpoena issued under subparagraph (A) with respect to a provider of electronic communication service or remote computing service, in an investigation of a Federal offense involving the sexual exploitation or abuse of children shall not extend beyond—
 
-&emsp;(i) requiring that provider to disclose the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized, which may be relevant to an authorized law enforcement inquiry; or
+&emsp;(i) requiring that provider to disclose the information specified in section 2703(c)(2), which may be relevant to an authorized law enforcement inquiry; or
 
 &emsp;(ii) requiring a custodian of the records of that provider to give testimony concerning the production and authentication of such records or information.
 
@@ -74,13 +74,15 @@ Limitation on Use.—(1) Health information about an individual that is disclose
 
 (3) Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-(Added Pub. L. 104–191, title II, §248(a), Aug. 21, 1996, 110 Stat. 2018; amended Pub. L. 105–277, div. A, §101(b) \[title I, §122\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72; Pub. L. 105–314, title VI, §606(a)(1), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 106–544, §5(a), (b)(1), (c), Dec. 19, 2000, 114 Stat. 2716, 2718.)
+(Added Pub. L. 104–191, title II, §248(a), Aug. 21, 1996, 110 Stat. 2018; amended Pub. L. 105–277, div. A, §101(b) \[title I, §122\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72; Pub. L. 105–314, title VI, §606(a)(1), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 106–544, §5(a), (b)(1), (c), Dec. 19, 2000, 114 Stat. 2716, 2718; Pub. L. 108–21, title V, §509, Apr. 30, 2003, 117 Stat. 684.)
 
 #### Prior Provisions
 
 A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, ch. 769, §1, 68 Stat. 745; Aug. 28, 1965, Pub. L. 89–141, §2, 79 Stat. 581, set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by Pub. L. 91–452, title II, §228(a), Oct. 15, 1970, 84 Stat. 930, effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted “the information specified in section 2703(c)(2)” for “the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
 
 2000—Pub. L. 106–544, §5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
 

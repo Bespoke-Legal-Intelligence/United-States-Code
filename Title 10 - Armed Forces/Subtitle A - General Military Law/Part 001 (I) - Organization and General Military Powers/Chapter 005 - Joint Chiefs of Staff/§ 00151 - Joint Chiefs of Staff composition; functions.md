@@ -18,7 +18,7 @@ Composition.—There are in the Department of Defense the Joint Chiefs of Staff,
 
 (b)
 
-Function as Military Advisers.—The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, and the Secretary of Defense.
+Function as Military Advisers.—(1) The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, and the Secretary of Defense.
 
 (2) The other members of the Joint Chiefs of Staff are military advisers to the President, the National Security Council, and the Secretary of Defense as specified in subsections (d) and (e).
 
@@ -34,7 +34,7 @@ Consultation by Chairman.—(1) In carrying out his functions, duties, and respo
 
 (d)
 
-Advice and Opinions of Members Other Than Chairman.—(1) A member of the JointChiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, or the Secretary of Defense, as the case may be.
+Advice and Opinions of Members Other Than Chairman.—(1) A member of the Joint Chiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, or the Secretary of Defense, as the case may be.
 
 (2) The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
 
@@ -61,6 +61,10 @@ Meetings of JCS.—(1) The Chairman shall convene regular meetings of the Joint 
 &emsp;(D) determine when issues under consideration by the Joint Chiefs of Staff shall be decided.
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, §911(a), Oct. 23, 1992, 106 Stat. 2473.)
+
+#### Codification
+
+Subsec. (b)(1) is set out in this supplement to correct a typographical error in the main edition.
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §9204. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this subchapter such sums as may benecessary for each of the fiscal years 1999 through 2003.
+There is authorized to be appropriated to carry out this subchapter such sums as may be necessary for each of the fiscal years 1999 through 2003.
 
 (Pub. L. 105–220, title II, §205, Aug. 7, 1998, 112 Stat. 1062; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416.)
 

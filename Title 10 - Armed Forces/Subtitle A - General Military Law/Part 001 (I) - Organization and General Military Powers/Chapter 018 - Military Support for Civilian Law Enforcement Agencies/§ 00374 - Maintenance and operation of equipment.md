@@ -12,7 +12,7 @@
 
 &emsp;(D) a rendition of a suspected terrorist from a foreign country to the United States to stand trial.
 
-(2) Department of Defense personnel made available to a civilian law enforcement agencyunder this subsection may operate equipment for the following purposes:
+(2) Department of Defense personnel made available to a civilian law enforcement agency under this subsection may operate equipment for the following purposes:
 
 &emsp;(A) Detection, monitoring, and communication of the movement of air and sea traffic.
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) the operation of a base of operations for civilian law enforcement and supporting personnel; and
 
-&emsp;&emsp;(iii) the transportation of suspected terrorists from foreign countries to the United States for trial (so long as the requesting Federal law enforcement agency provides all security for such transportation and maintains custody over the suspect through the duration of the transportation).
+&emsp;&emsp;(iii) the transportation of suspected terrorists from foreign countries to the UnitedStates for trial (so long as the requesting Federal law enforcement agency provides all security for such transportation and maintains custody over the suspect through the duration of the transportation).
 
 (3) Department of Defense personnel made available to operate equipment for the purpose stated in paragraph (2)(D) may continue to operate such equipment into the land area of the United States in cases involving the pursuit of vessels or aircraft where the detection began outside such land area.
 
@@ -146,9 +146,13 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 107–117, div. A, title VIII, §8063(a), Jan. 10, 2002, 115 Stat. 2261, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 108–87, title VIII, §8057(a), Sept. 30, 2003, 117 Stat. 1085, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8058(a), Oct. 23, 2002, 116 Stat. 1549.
+
+Pub. L. 107–117, div. A, title VIII, §8063(a), Jan. 10, 2002, 115 Stat. 2261.
 
 Pub. L. 106–259, title VIII, §8062(a), Aug. 9, 2000, 114 Stat. 688.
 
@@ -196,7 +200,7 @@ Types of Support.—The purposes for which the Secretary of Defense may provide 
 
 &emsp;“(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
 
-&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the United States or counter-drug activities of a foreign law enforcement agency outside the United States.
+&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the UnitedStates or counter-drug activities of a foreign law enforcement agency outside the United States.
 
 &emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
 
@@ -256,49 +260,7 @@ Section 1105 of Pub. L. 100–456 related to funding and training of National Gu
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 
-Section 3057 of Pub. L. 99–570 provided that:
-
-“(a)
-
-General Requirement.—(1) Within 90 days after the date of the enactment of this Act \[Oct. 27, 1986\], the Secretary of Defense shall submit to the Congress the following:
-
-&emsp;“(A) A detailed list of all forms of assistance that shall be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies, including the United States Customs Service, the Coast Guard, the Drug Enforcement Administration, and the Immigration and Naturalization Service.
-
-&emsp;“(B) A detailed plan for promptly lending equipment and rendering drug interdiction-related assistance included on such list.
-
-“(2) The list required by paragraph (1)(A) shall include, but not be limited to, a description of the following matters:
-
-&emsp;“(A) Surveillance equipment suitable for detecting air, land, and marine drug transportation activities.
-
-&emsp;“(B) Communications equipment, including secure communications.
-
-&emsp;“(C) Support available from the reserve components of the Armed Forces for drug interdiction operations of civilian drug law enforcement agencies.
-
-&emsp;“(D) Intelligence on the growing, processing, and transshipment of drugs in drug source countries and the transshipment of drugs between such countries and the United States.
-
-&emsp;“(E) Support from the Southern Command and other unified and specified commands that is available to assist in drug interdiction.
-
-&emsp;“(F) Aircraft suitable for use in air-to-air detection, interception, tracking, and seizure by civilian drug interdiction agencies, including the Customs Service and the Coast Guard.
-
-&emsp;“(G) Marine vessels suitable for use in maritime detection, interception, tracking, and seizure by civilian drug interdiction agencies, including the Customs Service and the Coast Guard.
-
-&emsp;“(H) Such land vehicles as may be appropriate for support activities relating to drug interdiction operations by civilian drug law enforcement agencies, including the Customs Service, the Immigration and Naturalization Service, and other Federal agencies having drug interdiction or drug eradication responsibilities.
-
-“(b)
-
-Committee Approval and Final Implementation.—Within 30 days after the date on which the Congress receives the list and plan submitted under such subsection, the Committees on Armed Services of the Senate and the House of Representatives shall submit their approval or disapproval of such list and plan to the Secretary of Defense. Upon receipt of such approval or disapproval, the Secretary shall immediately convene a conference of the heads of the Federal Government agencies with jurisdiction over drug law enforcement, including the Customs Service, the Coast Guard, and the Drug Enforcement Administration, to determine the appropriate distribution of the assets, items of support, or other assistance to be made available by the Department of Defense to such agencies. Not later than 60 days after the date on which such conference convenes, the Secretary of Defense and the heads of such agencies shall enter into appropriate memoranda of agreement specifying the distribution of such assistance.
-
-“(c)
-
-Equipment Subject to Section 3052(c).—Equipment identified in this section is subject to the provisions of section 3052(c) \[100 Stat. 3207–75\].
-
-“(d)
-
-Applicability.—Subsections (a) and (b) shall not apply to any assets, equipment, items of support, or other assistance provided or authorized in any other provision of this title.
-
-“(e)
-
-Review by General Accounting Office.—The Comptroller General of the United States shall monitor the compliance of the Department of Defense with subsections (a) and (b). Not later than 90 days after the date on which the conference is convened under subsection (b), the Comptroller General shall transmit to the Congress a written report containing the Comptroller General's findings regarding the compliance of the Department of Defense with such subsections. The report shall include a review of the memoranda of agreement entered into under subsection (b).”
+Section 3057 of Pub. L. 99–570 provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for Congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department's performance by the General Accounting Office.
 
 #### Section Referred to in Other Sections
 

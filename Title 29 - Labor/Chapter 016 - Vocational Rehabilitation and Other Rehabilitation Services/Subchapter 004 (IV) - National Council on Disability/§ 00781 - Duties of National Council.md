@@ -28,7 +28,7 @@ The National Council shall—
 
 &emsp;(9) provide to the Congress on a continuing basis advice, recommendations, legislative proposals, and any additional information that the National Council or the Congress deems appropriate; and
 
-&emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts and the impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
+&emsp;(10) review and evaluate on a continuing basis new and emerging disability policy issues affecting individuals with disabilities at the Federal, State, and local levels, and in the private sector, including the need for and coordination of adult services, access to personal assistance services, school reform efforts andthe impact of such efforts on individuals with disabilities, access to health care, and policies that operate as disincentives for the individuals to seek and retain employment.
 
 #### (b) Annual reports
 

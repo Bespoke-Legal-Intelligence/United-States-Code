@@ -6,13 +6,21 @@
 
 (c) The Secretary of the Air Force may designate a general officer of the Air Force to be directly responsible for reserve affairs to the Chief of Staff of the Air Force.
 
-(d) The Secretary of Transportation may designate a flag officer of the Coast Guard to be directly responsible for reserve affairs to the Commandant of the Coast Guard.
+(d) The Secretary of Homeland Security may designate a flag officer of the Coast Guard to be directly responsible for reserve affairs to the Commandant of the Coast Guard.
 
 (e) This section does not affect the functions of the Chief of the National Guard Bureau, the Chief of Army Reserve, or the Chief of Air Force Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2976.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 264(a) of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

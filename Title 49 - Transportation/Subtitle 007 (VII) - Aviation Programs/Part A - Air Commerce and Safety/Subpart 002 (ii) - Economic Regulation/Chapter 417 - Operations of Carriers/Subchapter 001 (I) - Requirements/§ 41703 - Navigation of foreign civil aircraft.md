@@ -32,7 +32,27 @@ Providing Air Commerce.—The Secretary may authorize an aircraft permitted to n
 
 Permit Requirements Not Affected.—This section does not affect section 41301 or 41302 of this title. However, a foreign air carrier holding a permit under section 41302 does not need to obtain additional authorization under this section for an operation authorized by the permit.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1140.)
+(e)
+
+Cargo in Alaska.—
+
+&emsp;(1)
+
+In general.—For the purposes of subsection (c), eligible cargo taken on or off any aircraft at a place in Alaska in the course of transportation of that cargo by any combination of 2 or more air carriers or foreign air carriers in either direction between a place in the United States and a place outside the United States shall not be deemed to have broken its international journey in, be taken on in, or be destined for Alaska.
+
+&emsp;(2)
+
+Eligible cargo.—For purposes of paragraph (1), the term “eligible cargo” means cargo transported between Alaska and any other place in the United States on a foreign air carrier (having been transported from, or thereafter being transported to, a place outside the United States on a different air carrier or foreign air carrier) that is carried—
+
+&emsp;&emsp;(A) under the code of a United States air carrier providing air transportation to Alaska;
+
+&emsp;&emsp;(B) on an air carrier way bill of an air carrier providing air transportation to Alaska;
+
+&emsp;&emsp;(C) under a term arrangement or block space agreement with an air carrier; or
+
+&emsp;&emsp;(D) under the code of a United States air carrier for purposes of transportation within the United States.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1140; Pub. L. 108–176, title VIII, §808, Dec. 12, 2003, 117 Stat. 2588.)
 
 Historical and Revision Notes
 
@@ -85,6 +105,14 @@ In subsection (b)(2), the word “agreement” is substituted for “treaty, con
 In subsection (c), before clause (1), the word “place” is substituted for “point”, and the word “passengers” is substituted for “persons”, for consistency in the revised title.
 
 In subsection (d), the word “affect” is substituted for “limit, modify, or amend” to eliminate unnecessary words.
+
+#### Amendments
+
+2003—Subsec. (e). Pub. L. 108–176 added subsec. (e).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -82,7 +82,7 @@ For purposes of this part:
 
 #### (16) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, the Trust Territories of the Pacific Islands, or any other territory or possession of the United States.
+&emsp;The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth ofthe Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, the Trust Territories of the Pacific Islands, or any other territory or possession of the United States.
 
 #### (17) Transitional housing
 

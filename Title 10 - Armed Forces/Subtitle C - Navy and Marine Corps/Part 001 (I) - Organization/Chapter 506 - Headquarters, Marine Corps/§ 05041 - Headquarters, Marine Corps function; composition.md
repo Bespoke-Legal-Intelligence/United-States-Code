@@ -14,7 +14,7 @@
 
 &emsp;(5) Civilian employees in the Department of the Navy assigned or detailed to the Headquarters, Marine Corps.
 
-(c) Except as otherwise specifically prescribed by law, the Headquarters, Marine Corps, shall beorganized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
+(c) Except as otherwise specifically prescribed by law, the Headquarters, Marine Corps, shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
 (Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224.)
 

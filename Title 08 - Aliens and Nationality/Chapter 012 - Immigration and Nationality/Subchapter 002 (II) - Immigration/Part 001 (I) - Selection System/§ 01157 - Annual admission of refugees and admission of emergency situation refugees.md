@@ -10,7 +10,7 @@
 
 (4) In the determination made under this subsection for each fiscal year (beginning with fiscal year 1992), the President shall enumerate, with the respective number of refugees so determined, the number of aliens who were granted asylum in the previous year.
 
-(5) For any fiscal year, not more than a total of 1,000 refugees may be admitted under thissubsection or granted asylum under section 1158 of this title pursuant to a determination under the third sentence of section 1101(a)(42) of this title (relating to persecution for resistance to coercive population control methods).
+(5) For any fiscal year, not more than a total of 1,000 refugees may be admitted under this subsection or granted asylum under section 1158 of this title pursuant to a determination under the third sentence of section 1101(a)(42) of this title (relating to persecution for resistance to coercive population control methods).
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
@@ -40,7 +40,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (e) “Appropriate consultation” defined
 
-For purposes of this section, the term “appropriate consultation” means, with respect to theadmission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
+For purposes of this section, the term “appropriate consultation” means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
 
 &emsp;(1) A description of the nature of the refugee situation.
 
@@ -108,6 +108,10 @@ Section (with the exception of subsec. (c) which is effective Apr. 1, 1980) effe
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
+#### Delegation of Functions
+
+For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
 #### Bring Them Home Alive Program
 
 Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, as amended by Pub. L. 107–258, §2, Oct. 29, 2002, 116 Stat. 1738, provided that:
@@ -120,7 +124,7 @@ Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, as amended by Pub. L. 107–258
 
 “(a)
 
-Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shallgrant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
+Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
 “(b)
 
@@ -272,7 +276,7 @@ Missing status.—The term ‘missing status’, with respect to the Persian Gul
 
 &emsp;“(3)
 
-Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990,and ending on the date thereafter prescribed by Presidential proclamation or by law.”
+Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.”
 
 #### “SEC. 4. BROADCASTING INFORMATION ON THE ‘BRING THEM HOME ALIVE’ PROGRAM.
 
@@ -332,7 +336,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324, provided that:
 
 “(a)
 
@@ -352,9 +356,9 @@ Establishment of Categories.—
 
 &emsp;“(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
 
-&emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
+&emsp;“(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who aremembers of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, and 2002 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;“(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002 and 2003 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 “(c)
 
@@ -368,11 +372,13 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2002.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2003.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2002.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2003.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2002.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2003.”
+
+\[Pub. L. 108–7, §213(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “1997, 1998, 1999, 2000, 2001, 2002 and 2003” for “1997, 1998, 1999, 2000, and 2001”, was executed by making the substitution for “1997, 1998, 1999, 2000, 2001, and 2002” to reflect the probable intent of Congress.\]
 
 \[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.\]
 
@@ -387,6 +393,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2004–06, Oct. 21, 2003, 68 F.R. 63979.
 
 Presidential Determination No. 03–02, Oct. 16, 2002, 67 F.R. 65469.
 

@@ -6,5 +6,5 @@ If an officer, employee, or committee of an agency makes an adverse decision, th
 
 #### References in Text
 
-The Agricultural Credit Act of 1987, referred to in text, is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended. Title V of the Act is classified principally to chapter 82 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 2001 of Title 12, Banks and Banking, and Tables.
+The Agricultural Credit Act of 1987, referred to in text, is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended. Title V of the Act is classified principally tochapter 82 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 2001 of Title 12, Banks and Banking, and Tables.
 

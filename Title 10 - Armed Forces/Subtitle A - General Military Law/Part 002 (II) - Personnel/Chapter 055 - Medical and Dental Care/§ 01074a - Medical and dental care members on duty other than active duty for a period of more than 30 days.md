@@ -38,7 +38,7 @@
 
 &emsp;(C) An annual dental screening.
 
-&emsp;(D) The dental care identified in an annual dental screening as required to ensure that amember meets the dental standards required for deployment in the event of mobilization.
+&emsp;(D) The dental care identified in an annual dental screening as required to ensure that a member meets the dental standards required for deployment in the event of mobilization.
 
 (2) The services provided under this subsection shall be provided at no cost to the member.
 
@@ -46,9 +46,27 @@
 
 (2) Paragraph (1) applies to a member described in paragraph (1) or (2) of subsection (a) who, while being treated for (or recovering from) an injury, illness, or disease incurred or aggravated in the line of duty, is continued on active duty pursuant to a modification or extension of orders, or is ordered to active duty, so as to result in active duty for a period of more than 30 days.
 
-(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093.)
+(f)(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty for a period of more than 30 days, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
+
+(2) The notification to members of the Ready Reserve described in paragraph (1) shall include notice that the members are eligible for screening and care under this section.
+
+(3) A member provided medical or dental screening or care under paragraph (1) may not be charged for the screening or care.
+
+(Added Pub. L. 98–94, title X, §1012(a)(1), Sept. 24, 1983, 97 Stat. 664; amended Pub. L. 98–525, title VI, §631(a)(1), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 98–557, §19(4), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–145, title XIII, §1303(a)(7), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–661, div. A, title VI, §604(a)(1), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 104–106, div. A, title VII, §§702(a), 704(a), Feb. 10, 1996, 110 Stat. 371, 372; Pub. L. 105–85, div. A, title V, §513(a), Nov. 18, 1997, 111 Stat. 1730; Pub. L. 106–65, div. A, title V, §578(i)(1), title VII, §705(b), Oct. 5, 1999, 113 Stat. 629, 683; Pub. L. 107–107, div. A, title V, §513(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–106, title I, §1114, Nov. 6, 2003, 117 Stat. 1216; Pub. L. 108–136, div. A, title VII, §701, Nov. 24, 2003, 117 Stat. 1525.)
 
 #### Amendments
+
+2003—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+
+“(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
+
+“(2) The Secretary concerned shall promptly transmit to each member of the Ready Reserve eligible for screening and care under this subsection a notification of eligibility for such screening and care.
+
+“(3) A member provided medical or dental screening or care under paragraph (1) may not be charged for the screening or care.
+
+“(4) Screening and care may not be provided under this section after September 30, 2004.”
+
+Pub. L. 108–106 added subsec. (f).
 
 2001—Subsec. (a)(3). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member's residence” before period at end.
 

@@ -52,11 +52,14 @@
 | [137\.](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md) | Adoption assistance programs. |
 | [138\.](%C2%A7%2000138%20-%20Medicare%2BChoice%20MSA.md) | Medicare+Choice MSA. |
 | [139\.](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md) | Disaster relief payments. |
+| [139A.](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md) | Federal subsidies for prescription drug plans. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–173, title XII, §1202(c), Dec. 8, 2003, 117 Stat. 2480, added item 139A.
 
 2002—Pub. L. 107–134, title I, §111(b), Jan. 23, 2002, 115 Stat. 2433, added item 139 and redesignated former item 139 as 140.
 
@@ -92,7 +95,7 @@ Pub. L. 96–223, title IV, §404(b)(1), Apr. 2, 1980, 94 Stat. 306, inserted �
 
 1978—Pub. L. 95–618, title II, §242(b), Nov. 9, 1978, 92 Stat. 3194, redesignated former item 124 as 125 and added item 124.
 
-Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, §543(b), Nov. 6, 1978, 92 Stat. 2785, 2814, 2870, 2890, in item 121 substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale of exchange of residence of individual who has attained age65”, redesignated former item 124 as 128, and added items 125 to 127.
+Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, §543(b), Nov. 6, 1978, 92 Stat. 2785, 2814, 2870, 2890, in item 121 substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale of exchange of residence of individual who has attained age 65”, redesignated former item 124 as 128, and added items 125 to 127.
 
 1976—Pub. L. 94–455, title XXI, §2134(c), Oct. 4, 1976, 90 Stat. 1928, added item 120.
 
@@ -207,4 +210,5 @@ This part is referred to in section 61 of this title.
 - [&sect; 00137 - Adoption assistance programs](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md)
 - [&sect; 00138 - Medicare+Choice MSA](%C2%A7%2000138%20-%20Medicare%2BChoice%20MSA.md)
 - [&sect; 00139 - Disaster relief payments](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md)
+- [&sect; 00139A - Federal subsidies for prescription drug plans](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

@@ -8,7 +8,7 @@ It shall be the duty of the Secretary of the Treasury to hold each Trust Fund es
 
 #### (1) In general
 
-&emsp;It shall be the duty of the Secretary of the Treasury to invest such portion of any TrustFund established by subchapter A as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States. For such purpose, such obligations may be acquired—
+&emsp;It shall be the duty of the Secretary of the Treasury to invest such portion of any Trust Fund established by subchapter A as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States. For such purpose, such obligations may be acquired—
 
 &emsp;&emsp;(A) on original issue at the issue price, or
 

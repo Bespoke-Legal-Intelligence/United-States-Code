@@ -20,7 +20,7 @@
 
 &emsp;(D) to determine whether payments under such programs based on a single combined rate of reimbursement or charge for the teaching activities and patient care which residents, interns, and supervising physicians render in connection with a graduate medical education program in a patient facility would result in more equitable and economical patient care arrangements without adversely affecting the quality of such care;
 
-&emsp;(E) to determine whether coverage of intermediate care facility services and homemaker services would provide suitable alternatives toposthospital benefits presently provided under this subchapter; such experiment and demonstration projects may include:
+&emsp;(E) to determine whether coverage of intermediate care facility services and homemaker services would provide suitable alternatives to posthospital benefits presently provided under this subchapter; such experiment and demonstration projects may include:
 
 &emsp;&emsp;(i) counting each day of care in an intermediate care facility as one day of care in a skilled nursing facility, if such care was for a condition for which the individual was hospitalized,
 
@@ -54,7 +54,7 @@
 
 In the case of any experiment or demonstration project under subsection (a) of this section, the Secretary may waive compliance with the requirements of this subchapter and subchapter XIX of this chapter insofar as such requirements relate to reimbursement or payment on the basis of reasonable cost, or (in the case of physicians) on the basis of reasonable charge, or to reimbursement or payment only for such services or items as may be specified in the experiment; and costs incurred in such experiment or demonstration project in excess of the costs which would otherwise be reimbursed or paid under such subchapters may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be engaged in or developed under subsection (a) of this section until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or demonstration project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct the proposed experiment or demonstration project, and its relationship to other similar experiments and projects already completed or in process.
 
-(Pub. L. 90–248, title IV, §402(a), (b), Jan. 2, 1968, 81 Stat. 930, 931; Pub. L. 92–603, title II, §§222(b), 278(b)(2), Oct. 30, 1972, 86 Stat. 1391, 1453; Pub. L. 95–142, §17(d), Oct. 25, 1977, 91 Stat. 1202; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2193(d), Aug. 13, 1981, 95Stat. 828; Pub. L. 97–248, title I, §147, Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §2331(b), July 18, 1984, 98 Stat. 1088.)
+(Pub. L. 90–248, title IV, §402(a), (b), Jan. 2, 1968, 81 Stat. 930, 931; Pub. L. 92–603, title II, §§222(b), 278(b)(2), Oct. 30, 1972, 86 Stat. 1391, 1453; Pub. L. 95–142, §17(d), Oct. 25, 1977, 91 Stat. 1202; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2193(d), Aug. 13, 1981, 95 Stat. 828; Pub. L. 97–248, title I, §147, Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §2331(b), July 18, 1984, 98 Stat. 1088.)
 
 #### References in Text
 
@@ -106,79 +106,137 @@ Amendment by Pub. L. 97–248 effective with respect to contracts entered into o
 
 For effective date, savings, and transitional provisions relating to amendment by Pub. L. 97–35, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-#### Demonstration Project for Disease Management for Severely Chronically Ill Medicare Beneficiaries
+#### Medicare Care Management Performance Demonstration
 
-Pub. L. 106–554, §1(a)(6) \[title I, §121\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474, provided that:
+Pub. L. 108–173, title VI, §649, Dec. 8, 2003, 117 Stat. 2329, provided that:
 
 “(a)
 
-In General.—The Secretary of Health and Human Services shall conduct a demonstration project under this section (in this section referred to as the ‘project’) to demonstrate the impact on costs and health outcomes of applying disease management to medicare beneficiaries with diagnosed, advanced-stage congestive heart failure, diabetes, or coronary heart disease. In no case may the number of participants in the project exceed 30,000 at any time.
-
-“(b)
-
-Voluntary Participation.—
+Establishment.—
 
 &emsp;“(1)
 
-Eligibility.—Medicare beneficiaries are eligible to participate in the project only if—
+In general.—The Secretary \[of Health and Human Services\] shall establish a pay-for-performance demonstration program with physicians to meet the needs of eligible beneficiaries through the adoption and use of health information technology and evidence-based outcomes measures for—
 
-&emsp;&emsp;“(A) they meet specific medical criteria demonstrating the appropriate diagnosis and the advanced nature of their disease;
+&emsp;&emsp;“(A) promoting continuity of care;
 
-&emsp;&emsp;“(B) their physicians approve of participation in the project; and
+&emsp;&emsp;“(B) helping stabilize medical conditions;
 
-&emsp;&emsp;“(C) they are not enrolled in a Medicare+Choice plan.
+&emsp;&emsp;“(C) preventing or minimizing acute exacerbations of chronic conditions; and
 
-&emsp;“(2)
-
-Benefits.—A beneficiary who is enrolled in the project shall be eligible—
-
-&emsp;&emsp;“(A) for disease management services related to their chronic health condition; and
-
-&emsp;&emsp;“(B) for payment for all costs for prescription drugs without regard to whether or not they relate to the chronic health condition, except that the project may provide for modest cost-sharing with respect to prescription drug coverage.
-
-“(c)
-
-Contracts With Disease Management Organizations.—
-
-&emsp;“(1)
-
-In general.—The Secretary of Health and Human Services shall carry out the project through contracts with up to three disease management organizations. The Secretary shall not enter into such a contract with an organization unless the organization demonstrates that it can produce improved health outcomes and reduce aggregate medicare expenditures consistent with paragraph (2).
+&emsp;&emsp;“(D) reducing adverse health outcomes, such as adverse drug interactions related to polypharmacy.
 
 &emsp;“(2)
 
-Contract provisions.—Under such contracts—
+Sites.—The Secretary shall designate no more than 4 sites at which to conduct the demonstration program under this section, of which—
 
-&emsp;&emsp;“(A) such an organization shall be required to provide for prescription drug coverage described in subsection (b)(2)(B);
+&emsp;&emsp;“(A) two shall be in an urban area;
 
-&emsp;&emsp;“(B) such an organization shall be paid a fee negotiated and established by the Secretary in a manner so that (taking into account savings in expenditures under parts A and B of the medicare program under title XVIII of the Social Security Act \[this subchapter\]) there will be a net reduction in expenditures under the medicare program as a result of the project; and
+&emsp;&emsp;“(B) one shall be in a rural area; and
 
-&emsp;&emsp;“(C) such an organization shall guarantee, through an appropriate arrangement with a reinsurance company or otherwise, the net reduction in expenditures described in subparagraph (B).
+&emsp;&emsp;“(C) one shall be in a State with a medical school with a Department of Geriatrics that manages rural outreach sites and is capable of managing patients with multiple chronic conditions, one of which is dementia.
 
 &emsp;“(3)
 
-Payments.—Payments to such organizations shall be made in appropriate proportion from the Trust Funds established under title XVIII of the Social Security Act \[this subchapter\].
+Duration.—The Secretary shall conduct the demonstration program under this section for a 3-year period.
+
+&emsp;“(4)
+
+Consultation.—In carrying out the demonstration program under this section, the Secretary shall consult with private sector and non-profit groups that are undertaking similar efforts to improve quality and reduce avoidable hospitalizations for chronically ill patients.
+
+“(b)
+
+Participation.—
+
+&emsp;“(1)
+
+In general.—A physician who provides care for a minimum number of eligible beneficiaries (as specified by the Secretary) may participate in the demonstration program under this section if such physician agrees, to phase-in over the course of the 3-year demonstration period and with the assistance provided under subsection (d)(2)—
+
+&emsp;&emsp;“(A) the use of health information technology to manage the clinical care of eligible beneficiaries consistent with paragraph (3); and
+
+&emsp;&emsp;“(B) the electronic reporting of clinical quality and outcomes measures in accordance with requirements established by the Secretary under the demonstration program.
+
+&emsp;“(2)
+
+Special rule.—In the case of the sites referred to in subparagraphs (B) and (C) of subsection (a)(2), a physician who provides care for a minimum number of beneficiaries with two or more chronic conditions, including dementia (as specified by the Secretary), may participate in the program under this section if such physician agrees to the requirements in subparagraphs (A) and (B) of paragraph (1).
+
+&emsp;“(3)
+
+Practice standards.—Each physician participating in the demonstration program under this section must demonstrate the ability—
+
+&emsp;&emsp;“(A) to assess each eligible beneficiary for conditions other than chronic conditions, such as impaired cognitive ability and co-morbidities, for the purposes of developing care management requirements;
+
+&emsp;&emsp;“(B) to serve as the primary contact of eligible beneficiaries in accessing items and services for which payment may be made under the medicare program;
+
+&emsp;&emsp;“(C) to establish and maintain health care information system for such beneficiaries;
+
+&emsp;&emsp;“(D) to promote continuity of care across providers and settings;
+
+&emsp;&emsp;“(E) to use evidence-based guidelines and meet such clinical quality and outcome measures as the Secretary shall require;
+
+&emsp;&emsp;“(F) to promote self-care through the provision of patient education and support for patients or, where appropriate, family caregivers;
+
+&emsp;&emsp;“(G) when appropriate, to refer such beneficiaries to community service organizations; and
+
+&emsp;&emsp;“(H) to meet such other complex care management requirements as the Secretary may specify.
+
+> &emsp;The guidelines and measures required under subparagraph (E) shall be designed to take into account beneficiaries with multiple chronic conditions.
+
+“(c)
+
+Payment Methodology.—Under the demonstration program under this section the Secretary shall pay a per beneficiary amount to each participating physician who meets or exceeds specific performance standards established by the Secretary with respect to the clinical quality and outcome measures reported under subsection (b)(1)(B). Such amount may vary based on different levels of performance or improvement.
 
 “(d)
 
-Application of Medigap Protections to Demonstration Project Enrollees.—(1) Subject to paragraph (2), the provisions of section 1882(s)(3) \[section 1395ss(s)(3) of this title\] (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and terminationof enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice organization in a Medicare+Choice plan.
+Administration.—
 
-“(2) In applying paragraph (1)—
+&emsp;“(1)
 
-&emsp;“(A) any reference in clause (v) or (vi) of section 1882(s)(3)(B) of such Act \[section 1395ss(s)(3)(B) of this title\] to 12 months is deemed a reference to the period of the demonstration project; and
+Use of quality improvement organizations.—The Secretary shall contract with quality improvement organizations or such other entities as the Secretary deems appropriate to enroll physicians and evaluate their performance under the demonstration program under this section.
 
-&emsp;“(B) the notification required under section 1882(s)(3)(D) of such Act \[section 1395ss(s)(3)(D) of this title\] shall be provided in a manner specified by the Secretary of Health and Human Services.
+&emsp;“(2)
+
+Technical assistance.—The Secretary shall require in such contracts that the contractor be responsible for technical assistance and education as needed to physicians enrolled in the demonstration program under this section for the purpose of aiding their adoption of health information technology, meeting practice standards, and implementing required clinical and outcomes measures.
 
 “(e)
 
-Duration.—The project shall last for not longer than 3 years.
+Funding.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of the Social Security Act (42 U.S.C. 1395t) of such funds as are necessary for the costs of carrying out the demonstration program under this section.
+
+&emsp;“(2)
+
+Budget neutrality.—In conducting the demonstration program under this section, the Secretary shall ensure that the aggregate payments made by the Secretary do not exceed the amount which the Secretary estimates would have been paid if the demonstration program under this section was not implemented.
 
 “(f)
 
-Waiver.—The Secretary of Health and Human Services shall waive such provisions of title XVIII of the Social Security Act \[this subchapter\] as may be necessary to provide for payment for services under the project in accordance with subsection (c)(3).
+Waiver Authority.—The Secretary may waive such requirements of titles XI and XVIII of the Social Security Act (42 U.S.C. 1301 et seq. and 1395 et seq.) as may be necessary for the purpose of carrying out the demonstration program under this section.
 
 “(g)
 
-Report.—The Secretary of Health and Human Services shall submit to Congress an interim report on the project not later than 2 years after the date it is first implemented and a final report on the project not later than 6 months after the date of its completion. Such reports shall include information on the impact of the project on costs and health outcomes and recommendations on the cost-effectiveness of extending or expanding the project.”
+Report.—Not later than 12 months after the date of completion of the demonstration program under this section, the Secretary shall submit to Congress a report on such program, together with recommendations for such legislation and administrative action as the Secretary determines to be appropriate.
+
+“(h)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Eligible beneficiary.—The term ‘eligible beneficiary’ means any individual who—
+
+&emsp;&emsp;“(A) is entitled to benefits under part A and enrolled for benefits under part B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] and is not enrolled in a plan under part C of such title \[part C of this subchapter\]; and
+
+&emsp;&emsp;“(B) has one or more chronic medical conditions specified by the Secretary (one of which may be cognitive impairment).
+
+&emsp;“(2)
+
+Health information technology.—The term ‘health information technology’ means email communication, clinical alerts and reminders, and other information technology that meets such functionality, interoperability, and other standards as prescribed by the Secretary.”
+
+#### Demonstration Project for Disease Management for Severely Chronically Ill Medicare Beneficiaries
+
+Pub. L. 106–554, §1(a)(6) \[title I, §121\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474, provided that the Secretary of Health and Human Services was to conduct a demonstration project under this section to demonstrate the impact on costs and health outcomes of applying disease management to medicare beneficiaries with diagnosed, advanced-stage congestive heart failure, diabetes, or coronary heart disease, that the project was to last for not longer than 3 years, and that the Secretary was to submit a final report to Congress not later than 6 months after the project's completion.
 
 #### Cancer Prevention and Treatment Demonstration for Ethnic and Racial Minorities
 
@@ -292,11 +350,11 @@ Limitation.—In conducting demonstration projects, the Secretary shall ensure t
 
 #### Lifestyle Modification Program Demonstration
 
-Pub. L. 106–554, §1(a)(6) \[title I, §128\], Dec. 21, 2000, 114 Stat. 2763, 2763A–480, provided that:
+Pub. L. 106–554, §1(a)(6) \[title I, §128\], Dec. 21, 2000, 114 Stat. 2763, 2763A–480, as amended by Pub. L. 108–173, title VII, §736(b)(13), Dec. 8, 2003, 117 Stat. 2356, provided that:
 
 “(a)
 
-In General.—The Secretary of Health and Human Services shall carry out the demonstration project known as the Lifestyle Modification ProgramDemonstration, as described in the Health Care Financing Administration Memorandum of Understanding entered into on November 13, 2000, and as subsequently modified, (in this section referred to as the ‘project’) in accordance with the following requirements:
+In General.—The Secretary of Health and Human Services shall carry out the demonstration project known as the Lifestyle Modification Program Demonstration, as described in the Health Care Financing Administration Memorandum of Understanding entered into on November 13, 2000, and as subsequently modified, (in this section referred to as the ‘project’) in accordance with the following requirements:
 
 &emsp;“(1) The project shall include no fewer than 1,800 medicare beneficiaries who complete under the project the entire course of treatment under the Lifestyle Modification Program.
 
@@ -316,11 +374,11 @@ Reports.—
 
 &emsp;&emsp;“(A)
 
-Initial report.—Not later that \[sic\] 1 year after the date on which 900 medicare beneficiaries have completed the entire course of treatment under the Lifestyle Modification Program under the project, the Secretary shall submit to Congress an initial report on the study conducted under paragraph (1).
+Initial report.—Not later than 1 year after the date on which 900 medicare beneficiaries have completed the entire course of treatment under the Lifestyle Modification Program under the project, the Secretary shall submit to Congress an initial report on the study conducted under paragraph (1).
 
 &emsp;&emsp;“(B)
 
-Final report.—Not later that \[sic\] 1 year after the date on which 1,800 medicare beneficiaries have completed the entire course of treatment under such Program under the project, the Secretary shall submit to Congress a final report on the study conducted under paragraph (1).”
+Final report.—Not later than 1 year after the date on which 1,800 medicare beneficiaries have completed the entire course of treatment under such Program under the project, the Secretary shall submit to Congress a final report on the study conducted under paragraph (1).”
 
 #### Medicare Coordinated Care Demonstration Project
 
@@ -432,11 +490,11 @@ Limitation.—In conducting the demonstration project under this section, the Se
 
 &emsp;“(2)
 
-Evaluation and report.—There are authorized to be appropriated such sums as are necessary for thepurpose of developing and submitting the report to Congress under subsection (c).”
+Evaluation and report.—There are authorized to be appropriated such sums as are necessary for the purpose of developing and submitting the report to Congress under subsection (c).”
 
 #### Informatics, Telemedicine, and Education Demonstration Project
 
-Pub. L. 105–33, title IV, §4207, Aug. 5, 1997, 111 Stat. 379, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §413\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377, provided that:
+Pub. L. 105–33, title IV, §4207, Aug. 5, 1997, 111 Stat. 379, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §413\], Nov. 29, 1999, 113 Stat. 1536, 1501A–377; Pub. L. 108–173, title IV, §417, Dec. 8, 2003, 117 Stat. 2282, provided that:
 
 “(a)
 
@@ -464,7 +522,7 @@ Waiver.—The Secretary shall waive such provisions of title XVIII of the Social
 
 &emsp;“(4)
 
-Duration of project.—The project shall be conducted over a 4-year period.
+Duration of project.—The project shall be conducted over a 8-year period.
 
 “(b)
 
@@ -506,7 +564,7 @@ Payments.—
 
 &emsp;&emsp;“(A)
 
-In general.—Subject to paragraph (3), payment for such services shall be made for the costs that are related to the provision of such services. In computing such costs, the Secretary shall include costs described in subparagraph (B), but may not include costs described in subparagraph (C).
+In general.—Subject to paragraph (3), payment for such services shall be made for the costs that are related to the provision of such services. In computing such costs, the Secretary shall includecosts described in subparagraph (B), but may not include costs described in subparagraph (C).
 
 &emsp;&emsp;“(B)
 
@@ -532,7 +590,7 @@ Costs not included.—The costs described in this subparagraph are costs for any
 
 &emsp;“(3)
 
-Limitation.—The total amount of the payments that may be made under this section shall not exceed $30,000,000 for the period of the project (described in subsection (a)(4)).
+Limitation.—The total amount of the payments that may be made under this section shall not exceed $60,000,000 for the period of the project (described in subsection (a)(4)).
 
 &emsp;“(4)
 
@@ -540,7 +598,7 @@ Cost-sharing.—The project may not impose cost-sharing on a medicare beneficiar
 
 “(e)
 
-Reports.—The Secretary shall submit to the Committee on Ways and Means and the Committee \[on\]Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate interim reports on the project and a final report on the project within 6 months after the conclusion of the project. The final report shall include an evaluation of the impact of the use of telemedicine and medical informatics on improving access of medicare beneficiaries to health care services, on reducing the costs of such services, and on improving the quality of life of such beneficiaries.
+Reports.—The Secretary shall submit to the Committee on Ways and Means and the Committee \[on\] Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Finance of the Senate interim reports on the project and a final report on the project within 6 months after the conclusion of the project. The final report shall include an evaluation of the impact of the use of telemedicine and medical informatics on improving access of medicare beneficiaries to health care services, on reducing the costs of such services, and on improving the quality of life of such beneficiaries.
 
 “(f)
 
@@ -620,7 +678,7 @@ Demonstration of Joint Nursing Graduate Education Programs.—
 
 > &emsp;shall be allowable as reasonable costs under title XVIII of the Social Security Act \[this subchapter\] and reimbursed under such title on the same basis as if they were allowable direct costs of a hospital-operated approved educational program (other than an approved graduate medical education program).
 
-&emsp;“(3) The activities described in this paragraph are the activities for which the reasonable costs of conducting such activities are allowable under title XVIII of the Social Security Act if conducted under a hospital-operated approved educational program (other than an approved graduate medical education program), but only to the extent such activities are directly related to the operation of the educational program conducted pursuant to the written agreement between the hospital and the educational institution.
+&emsp;“(3) The activities described in this paragraph are the activities for which the reasonable costs of conducting such activities are allowable under titleXVIII of the Social Security Act if conducted under a hospital-operated approved educational program (other than an approved graduate medical education program), but only to the extent such activities are directly related to the operation of the educational program conducted pursuant to the written agreement between the hospital and the educational institution.
 
 &emsp;“(4) The amount paid under a demonstration program under this subsection to a hospital for a cost reporting period may not exceed $200,000.
 
@@ -632,7 +690,7 @@ Joint Undergraduate Education Program.—In the case of a hospital which (1) was
 
 #### Research on Long-Term Care Services for Medicare Beneficiaries
 
-Pub. L. 100–360, title II, §207, July 1, 1988, 102 Stat. 732, which provided for research on issues relating to thedelivery and financing of long-term care services for medicare beneficiaries, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Pub. L. 100–360, title II, §207, July 1, 1988, 102 Stat. 732, which provided for research on issues relating to the delivery and financing of long-term care services for medicare beneficiaries, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Adjustment of Contracts With Prepaid Health Plans
 
@@ -694,13 +752,15 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 #### Extension of Certain Medicare Municipal Health Services Demonstration Projects
 
-Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568, provided that:
+Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §235, Dec. 8, 2003, 117 Stat. 2210, provided that:
 
-“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval offour municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2004, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
+“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
 “(b) The Secretary shall work with each such demonstration project to develop a plan, to be submitted to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate by March 31, 1998, for the orderly transition of demonstration projects and the project participants to a non-demonstration project health care delivery system, such as through integration with a private or public health plan, including a medicaid managed care or Medicare+Choice plan.
 
 “(c) A demonstration project under subsection (a) which does not develop and submit a transition plan under subsection (b) by March 31, 1998, or, if later, 6 months after the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\], shall be discontinued as of December 31, 1998. The Secretary shall provide appropriate technical assistance to assist in the transition so that disruption of medical services to project participants may be minimized.”
+
+\[References to Medicare+Choice deemed to refer to Medicare Advantage, see section 201(b) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.\]
 
 #### Demonstration Program for Reduction of Disability and Dependency Through Provision of Preventive Health Services Under Medicare
 
@@ -724,7 +784,7 @@ Section 2320 of Pub. L. 98–369 provided that:
 
 Pub. L. 98–21, title VI, §603(b), Apr. 20, 1983, 97 Stat. 167, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
+“(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes underthis section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
 “(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
 
@@ -738,7 +798,7 @@ Section 122(i), formerly §122(h), of Pub. L. 97–248, as redesignated and amen
 
 “(1) Notwithstanding any provision of law which has the effect of restricting the time period of a hospice demonstration project in effect on July 15, 1982, pursuant to section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\], the Secretary of Health and Human Services, upon request of the hospice involved, shall permit continuation of the project until November 1, 1983, or, if later, the date on which payments can first be made to any hospice program under the amendments made by this section.
 
-“(2) Prior to September 30, 1983, the Secretary shall submit to Congress a report on the effectiveness of demonstration projects referred to in paragraph (1), including an evaluation of the cost-effectiveness of hospice care, the reasonableness of the 40-percent cap amount for hospice care as provided in section 1814(i) ofthe Social Security Act \[section 1395f(i) of this title\] (as added by this section), proposed methodology for determining such cap amount, proposed standards for requiring and measuring the maintenance of effort for utilizing volunteers as required under section 1861(dd) of such Act \[section 1395x(dd) of this title\], an evaluation of physician reimbursement for services furnished as a part of hospice care and for services furnished to individuals receiving hospice care but which are not reimbursed as a part of the hospice care, and any proposed legislative changes in the hospice care provisions of title XVIII of such Act \[this subchapter\].
+“(2) Prior to September 30, 1983, the Secretary shall submit to Congress a report on the effectiveness of demonstration projects referred to in paragraph (1), including an evaluation of the cost-effectiveness of hospice care, the reasonableness of the 40-percent cap amount for hospice care as provided in section 1814(i) of the Social Security Act \[section 1395f(i) of this title\] (as added by this section), proposed methodology for determining such cap amount, proposed standards for requiring and measuring the maintenance of effort for utilizing volunteers as required under section 1861(dd) of such Act \[section 1395x(dd) of this title\], an evaluation of physician reimbursement for services furnished as a part of hospice care and for services furnished to individuals receiving hospice care but which are not reimbursed as a part of the hospice care, and any proposed legislative changes in the hospice care provisions of title XVIII of such Act \[this subchapter\].
 
 “(3)(A) Notwithstanding the provisions of paragraph (1), the Secretary of Health and Human Services, upon request of the hospice involved, shall permit continuation of a hospice demonstration project described in paragraph (1) until September 30, 1986, if the hospice involved in such demonstration project does not provide hospice care directly but acts as a channeling agency for the provision of hospice care.
 
@@ -762,7 +822,7 @@ Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: �
 
 &emsp;“(1) the applicant for such grant is a State or an agency thereof,
 
-&emsp;“(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
+&emsp;“(2) such participant is an individual practice association which has been in existence for at least 3years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
 
 &emsp;“(3) the purpose of the inclusion of the project of such association is to test the utility of a particular rate-setting methodology, designed to be employed in prepaid health plans, in an individual practice association operation, and
 
@@ -772,7 +832,7 @@ Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: �
 
 Section 222(a) of Pub. L. 92–603, as amended by Pub. L. 97–35, title XXI, §2193(e), Aug. 13, 1981, 95 Stat. 828, provided that:
 
-“(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and services provided by them under title XVIII of the Social Security Act \[this subchapter\] and under State plans approved under title XIX of such Act \[subchapter XIX of this chapter\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently andthereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
+“(1) The Secretary of Health, Education, and Welfare \[now Health and Human Services\], directly or through contracts with, or grants to, public or private agencies or organizations, shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of various alternative methods of making payment on a prospective basis to hospitals, skilled nursing facilities, and other providers of services for care and services provided by them under title XVIII of the Social Security Act \[this subchapter\] and under State plans approved under title XIX of such Act \[subchapter XIX of this chapter\], including alternative methods for classifying providers, for establishing prospective rates of payment, and for implementing on a gradual, selective, or other basis the establishment of a prospective payment system, in order to stimulate such providers through positive (or negative) financial incentives to use their facilities and personnel more efficiently and thereby to reduce the total costs of the health programs involved without adversely affecting the quality of services by containing or lowering the rate of increase in provider costs that has been and is being experienced under the existing system of retroactive cost reimbursement.
 
 “(2) The experiments and demonstration projects developed under paragraph (1) shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods of prospective payment under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the programs involved (without committing such programs to the adoption of any prospective payment system either locally or nationally).
 

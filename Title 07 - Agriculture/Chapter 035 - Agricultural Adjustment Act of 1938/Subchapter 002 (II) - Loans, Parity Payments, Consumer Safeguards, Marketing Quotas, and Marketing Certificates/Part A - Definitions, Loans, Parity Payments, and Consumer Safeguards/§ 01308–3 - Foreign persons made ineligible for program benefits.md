@@ -8,7 +8,7 @@ Any person who is not a citizen of the United States or an alien lawfully admitt
 
 #### (b) Corporations or other entities
 
-For purposes of subsection (a) of this section, a corporation or other entity shall be considered a person that is ineligible for production adjustment payments, price support program loans, payments, or benefits if more than 10 percent of the beneficial ownership of the entity is held by persons who are not citizens of the United States or aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], unless such persons provide a substantial amount of personal labor in the production of crops on such farm. Notwithstanding the foregoing provisions of this subsection, with respect to an entity that is determined to be ineligible to receive such payments, loans, or other benefits, the Secretary may make payments, loans, and other benefits in an amount determined by the Secretary to be representative of the percentage interests of the entity that is owned by citizens of the United States and aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act.
+For purposes of subsection (a) of this section, a corporation or other entity shall be considereda person that is ineligible for production adjustment payments, price support program loans, payments, or benefits if more than 10 percent of the beneficial ownership of the entity is held by persons who are not citizens of the United States or aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], unless such persons provide a substantial amount of personal labor in the production of crops on such farm. Notwithstanding the foregoing provisions of this subsection, with respect to an entity that is determined to be ineligible to receive such payments, loans, or other benefits, the Secretary may make payments, loans, and other benefits in an amount determined by the Secretary to be representative of the percentage interests of the entity that is owned by citizens of the United States and aliens lawfully admitted into the United States for permanent residence under the Immigration and Nationality Act.
 
 #### (c) Prospective application
 
@@ -18,7 +18,7 @@ No person shall become ineligible under this section for production adjustment p
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat.163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The Farm Security and Rural Investment Act of 2002, referred to in subsec. (a), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Title I of the Act is classified principally to chapter 106 (§7901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 

@@ -20,7 +20,7 @@ The Congress finds the following:
 
 &emsp;(9) During the past decade, fish and wildlife species, including invertebrates, were added to the rapidly growing list of threatened and endangered species in North America at the average rate of over one per month.
 
-&emsp;(10) Currently, eighty-two species of invertebrates in the United States are listed as threatened or endangered under the Endangered Species Act \[16 U.S.C. 1531 et seq.\], and another nine hundred and fifty-one UnitedStates invertebrate species are candidates for listing under that Act.
+&emsp;(10) Currently, eighty-two species of invertebrates in the United States are listed as threatened or endangered under the Endangered Species Act \[16 U.S.C. 1531 et seq.\], and another nine hundred and fifty-one United States invertebrate species are candidates for listing under that Act.
 
 &emsp;(11) Proper management of fish and wildlife, before species become threatened or endangered with extinction, is the key to reversing the increasingly desperate status of fish and wildlife.
 

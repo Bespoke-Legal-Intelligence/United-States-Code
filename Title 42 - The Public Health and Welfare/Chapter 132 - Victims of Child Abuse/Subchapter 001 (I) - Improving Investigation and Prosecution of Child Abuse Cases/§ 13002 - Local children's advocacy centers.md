@@ -50,7 +50,7 @@ A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is clas
 
 1992—Pub. L. 102–586, §6(c)(1), substituted “Local children's advocacy centers” for “Authority of Director to make grants” in section catchline.
 
-Subsec. (a). Pub. L. 102–586, §6(c)(2), substituted “The Administrator, in coordination with the Director andwith the Director of the Office of Victims of Crime,” for “The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the ‘Director’), in consultation with officials of the Department of Health and Human Services,”.
+Subsec. (a). Pub. L. 102–586, §6(c)(2), substituted “The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime,” for “The Director of the Office of Victims of Crime (hereinafter in this subchapter referred to as the ‘Director’), in consultation with officials of the Department of Health and Human Services,”.
 
 Subsec. (b)(2)(B). Pub. L. 102–586, §6(c)(3), inserted “and nonoffending family members” after “neglect”.
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 102–586, §6(c)(4), added subsec. (d).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,8 +1,8 @@
 ### §61g–6. Payment of expenses of Conference of Majority and Conference of Minority from Senate contingent fund
 
-For each fiscal year (beginning with the fiscal year which ends September 30, 1982) there is authorized to be expended from the contingent fund of the Senate an amount, not in excess of $100,000, for the Conference of the Majority and an equal amount for the Conference of the Minority. Payments under this section shall be made only for expenses actually incurred by such a Conference in carrying out its functions, and shall be made upon certification and documentation of the expenses involved, by the Chairman of the Conference claiming payment hereunder and upon vouchers approved by such Chairman and by the Committee on Rules and Administration, except that vouchers shall not be required for payment of long-distance telephone calls.
+For each fiscal year (beginning with the fiscal year which ends September 30, 1982) there is authorized to be expended from the contingent fund of the Senate such amount as necessary for the Conference of the Majority and an equal amount for the Conference of the Minority. Payments under this section shall be made only for expenses actually incurred by such a Conference in carrying out its functions, and shall be made upon certification and documentation of the expenses involved, by the Chairman of the Conference claiming payment hereunder and upon vouchers approved by such Chairman and by the Committee on Rules and Administration, except that vouchers shall not be required for payment of long-distance telephone calls.
 
-(Pub. L. 97–51, §120, Oct. 1, 1981, 95 Stat. 965; Pub. L. 97–276, Oct. 2, 1982, §101(e), 96 Stat. 1189; Pub. L. 99–151, title I, §1, Nov. 13, 1985, 99 Stat. 794; Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1043; Pub. L. 101–520, title I, Nov. 5, 1990, 104 Stat. 2256; Pub. L. 107–68, title I, §105(a), Nov. 12, 2001, 115 Stat. 568.)
+(Pub. L. 97–51, §120, Oct. 1, 1981, 95 Stat. 965; Pub. L. 97–276, Oct. 2, 1982, §101(e), 96 Stat. 1189; Pub. L. 99–151, title I, §1, Nov. 13, 1985, 99 Stat. 794; Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1043; Pub. L. 101–520, title I, Nov. 5, 1990, 104 Stat. 2256; Pub. L. 107–68, title I, §105(a), Nov. 12, 2001, 115 Stat. 568; Pub. L. 108–83, title I, §2(a), Sept. 30, 2003, 117 Stat. 1010.)
 
 #### Codification
 
@@ -10,15 +10,21 @@ The 1982 amendment by Pub. L. 97–276 is based on section 105 of S. 2939, Ninet
 
 #### Amendments
 
-2001—Pub. L. 107–68 substituted “$100,000” for “$75,000”.
+<b>2003</b>—Pub. L. 108–83 substituted “such amount as necessary” for “an amount, not in excess of $100,000,” in first sentence.
 
-1990—Pub. L. 101–520 substituted “$75,000” for “$50,000”.
+<b>2001</b>—Pub. L. 107–68 substituted “$100,000” for “$75,000”.
 
-1989—Pub. L. 101–163 substituted “$50,000” for “$40,000”.
+<b>1990</b>—Pub. L. 101–520 substituted “$75,000” for “$50,000”.
 
-1985—Pub. L. 99–151 inserted “, except that vouchers shall not be required for payment of long-distance telephone calls”.
+<b>1989</b>—Pub. L. 101–163 substituted “$50,000” for “$40,000”.
 
-1982—Pub. L. 97–276 substituted “$40,000” for “$30,000”. See Codification note above.
+<b>1985</b>—Pub. L. 99–151 inserted “, except that vouchers shall not be required for payment of long-distance telephone calls”.
+
+<b>1982</b>—Pub. L. 97–276 substituted “$40,000” for “$30,000”. See Codification note above.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–83, title I, §2(b), Sept. 30, 2003, 117 Stat. 1010, provided that: “This section \[amending this section\] shall apply with respect to fiscal year 2004, and each fiscal year thereafter.”
 
 #### Effective Date of 2001 Amendment
 

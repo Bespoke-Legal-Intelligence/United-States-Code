@@ -14,7 +14,7 @@ Use of Federal Lands Highway Funds.—Funds authorized for forest highways, fore
 
 (d)
 
-State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this titleshall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
 (e)
 
@@ -132,7 +132,7 @@ In general.—In implementing section 217(g) of title 23, United States Code, th
 
 “(2)
 
-Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand,volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
+Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
 
 “(3)
 

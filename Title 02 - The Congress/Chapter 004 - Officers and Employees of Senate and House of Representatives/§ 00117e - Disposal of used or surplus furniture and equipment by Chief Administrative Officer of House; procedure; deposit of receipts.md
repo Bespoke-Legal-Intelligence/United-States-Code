@@ -20,7 +20,7 @@
 
 (C) The Committee on House Oversight shall have authority to issue regulations to carry out this paragraph.
 
-(4) The Committee on House Oversight of the House of Representatives shall have authorityto prescribe regulations to carry out this subsection.
+(4) The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this subsection.
 
 (5) As used in this section—
 
@@ -38,23 +38,23 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-2002—Par. (3)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (3)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
 
-2001—Par. (1). Pub. L. 107–68, in third sentence, substituted “for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the ‘appropriate account of the House of Representatives’ shall be the account of the Chief Administrative Officer of the House of Representatives” for “for credit to the appropriate account under the appropriation for ‘
+<b>2001</b>—Par. (1). Pub. L. 107–68, in third sentence, substituted “for credit to the appropriate account of the House of Representatives, and shall be available for expenditure in accordance with applicable law. For purposes of the previous sentence, in the case of receipts from the sale or disposal of any audio or video transcripts prepared by the House Recording Studio, the ‘appropriate account of the House of Representatives’ shall be the account of the Chief Administrative Officer of the House of Representatives” for “for credit to the appropriate account under the appropriation for ‘
 
 allowances and expenses’ under the heading ‘
 
 Contingent Expenses of the House’, and shall be available for expenditure in accordance with applicable law”.
 
-1997—Par. (2). Pub. L. 105–55, §106(1), substituted “Except as provided in paragraph (3), a donation” for “A donation” in second sentence of introductory provisions.
+<b>1997</b>—Par. (2). Pub. L. 105–55, §106(1), substituted “Except as provided in paragraph (3), a donation” for “A donation” in second sentence of introductory provisions.
 
 Pars. (3) to (5). Pub. L. 105–55, §106(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-1996—Pars. (1), (2). Pub. L. 104–186, §204(63)(A), substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Pars. (1), (2). Pub. L. 104–186, §204(63)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
 Pars. (3), (4)(B). Pub. L. 104–186, §204(63)(B), substituted “House Oversight” for “House Administration”.
 
-1989—Par. (1). Pub. L. 101–163, §103(a)(1), (2), designated existing provisions as par. (1) and struck out at end “As used in this section, the term ‘used equipment’ means such used or surplus equipment (including furniture and motor vehicles) as the Committee on House Administration of the House of Representatives may prescribe by regulation.”
+<b>1989</b>—Par. (1). Pub. L. 101–163, §103(a)(1), (2), designated existing provisions as par. (1) and struck out at end “As used in this section, the term ‘used equipment’ means such used or surplus equipment (including furniture and motor vehicles) as the Committee on House Administration of the House of Representatives may prescribe by regulation.”
 
 Pars. (2) to (4). Pub. L. 101–163, §103(a)(3), added pars. (2) to (4).
 

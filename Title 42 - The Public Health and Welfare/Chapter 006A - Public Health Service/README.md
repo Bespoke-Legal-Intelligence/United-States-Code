@@ -309,7 +309,7 @@ Active service deemed active military service with respect to laws administered 
 
 (e)
 
-Active service deemed active military service with respect to Soldiers’ and Sailors’ Civil Relief Act of 1940.
+Active service deemed active military service with respect to Servicemembers Civil Relief Act.
 
 (f)
 
@@ -742,6 +742,137 @@ Federal jurisdiction.
 
 Definitions.
 
+#### Part C—Smallpox Emergency Personnel Protection
+
+|  |  |
+| :--- | ---: |
+| [239\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239%20-%20General%20provisions.md) | General provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Voluntary program.
+
+|  |  |
+| :--- | ---: |
+| [239a.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239a%20-%20Determination%20of%20eligibility%20and%20benefits.md) | Determination of eligibility and benefits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Covered individuals.
+
+(c)
+
+Criteria for reimbursement.
+
+(d)
+
+Deadline for filing request.
+
+(e)
+
+Structured settlements at Secretary's option.
+
+(f)
+
+Review of determination.
+
+|  |  |
+| :--- | ---: |
+| [239b.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239b%20-%20Smallpox%20vaccine%20injury%20table.md) | Smallpox vaccine injury table. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Smallpox vaccine injury table.
+
+|  |  |
+| :--- | ---: |
+| [239c.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239c%20-%20Medical%20benefits.md) | Medical benefits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Benefits secondary to other coverage.
+
+|  |  |
+| :--- | ---: |
+| [239d.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239d%20-%20Compensation%20for%20lost%20employment%20income.md) | Compensation for lost employment income. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Amount of compensation.
+
+(c)
+
+Limitations.
+
+(d)
+
+Benefit in addition to medical benefits.
+
+|  |  |
+| :--- | ---: |
+| [239e.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239e%20-%20Payment%20for%20death.md) | Payment for death. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Death benefit.
+
+(b)
+
+Election in case of dependents.
+
+(c)
+
+Benefit in addition to medical benefits.
+
+|  |  |
+| :--- | ---: |
+| [239f.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239f%20-%20Administration.md) | Administration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Administration by agreement with other agency or agencies.
+
+(b)
+
+Regulations.
+
+|  |  |
+| :--- | ---: |
+| [239g.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [239h.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20C%20-%20Smallpox%20Emergency%20Personnel%20Protection/%C2%A7%2000239h%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER II—GENERAL POWERS AND DUTIES
 
 #### Part A—Research and Investigations
@@ -868,6 +999,10 @@ Authority of Secretary; building construction prohibition.
 (c)
 
 Benefits for overseas assignees.
+
+(d)
+
+Strategies to improve injection safety.
 
 |  |  |
 | :--- | ---: |
@@ -1225,19 +1360,19 @@ In general.
 
 (b)
 
-Additional provisions regarding collection of data.
+Grants and contracts.
 
 (c)
 
-Grants and contracts.
+Biennial report.
 
 (d)
 
-Biennial report.
+Applicability of privacy laws.
 
 (e)
 
-Applicability of privacy laws.
+Advisory committee.
 
 (f)
 
@@ -1710,6 +1845,36 @@ Authorization of appropriations.
 In general.
 
 (b)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–21. | Mosquito-borne diseases; coordination grants to States; assessment and control grants to political subdivisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Coordination grants to States; assessment grants to political subdivisions.
+
+(b)
+
+Prevention and control grants to political subdivisions.
+
+(c)
+
+Applications for grants.
+
+(d)
+
+Technical assistance.
+
+(e)
+
+Definition of political subdivision.
+
+(f)
 
 Authorization of appropriations.
 
@@ -2417,17 +2582,13 @@ Residents of public housing.
 
 Access grants.
 
-(j)
+(k)
 
 Applications.
 
-(k)
-
-Technical and other assistance.
-
 (<i>l</i>)
 
-Redesignated (s).
+Technical assistance.
 
 (m)
 
@@ -2449,7 +2610,7 @@ Special consideration.
 
 Audits.
 
-(s)
+(r)
 
 Authorization of appropriations.
 
@@ -2857,7 +3018,8 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 254c–17. | Telemedicine; incentive grants regarding coordination among States. |
+| 254c–17. | Repealed. |
+| 254c–18. | Telemedicine; incentive grants regarding coordination among States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2958,6 +3120,10 @@ Public information programs in designated areas.
 (i)
 
 Dissemination.
+
+(j)
+
+Regulations and report.
 
 |  |  |
 | :--- | ---: |
@@ -3261,6 +3427,10 @@ Cancellation of obligation upon death of individual; waiver or suspension of obl
 (e)
 
 Inapplicability of Federal and State statute of limitations on actions for collection.
+
+(f)
+
+Effective date.
 
 |  |  |
 | :--- | ---: |
@@ -6572,6 +6742,12 @@ Limitation.
 (d)
 
 Submission of tests and data.
+
+|  |  |
+| :--- | ---: |
+| 285<i>l</i>–6. | Methods of controlling certain insect and vermin populations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### subpart 13—national institute on deafness and other communication disorders
 
@@ -12142,6 +12318,32 @@ Requirement.
 
 Study by the Institute of Medicine.
 
+|  |  |
+| :--- | ---: |
+| 299b–7. | Research on outcomes of health care items and services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Research, demonstrations, and evaluations.
+
+(b)
+
+Recommendations.
+
+(c)
+
+Research with respect to dissemination.
+
+(d)
+
+Limitation on CMS.
+
+(e)
+
+Authorization of appropriations.
+
 #### Part C—General Provisions
 
 |  |  |
@@ -13116,6 +13318,92 @@ Definitions.
 (i)
 
 Authorization of appropriations.
+
+#### Part G—Poison Control
+
+|  |  |
+| :--- | ---: |
+| 300d–71. | Maintenance of a national toll-free number. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Rule of construction.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300d–72. | Nationwide media campaign to promote poison control center utilization. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Contract with entity.
+
+(c)
+
+Evaluation.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300d–73. | Maintenance of the poison control center grant program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Regional poison control centers.
+
+(b)
+
+Other improvements.
+
+(c)
+
+Certification.
+
+(d)
+
+Waiver of certification requirements.
+
+(e)
+
+Supplement not supplant.
+
+(f)
+
+Maintenance of effort.
+
+(g)
+
+Matching requirement.
+
+(h)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300d–74. | Rule of construction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER XI—HEALTH MAINTENANCE ORGANIZATIONS
 
@@ -19174,7 +19462,7 @@ Report.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 3796gg, 14402 of this title; title 6 section 467; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
+This chapter is referred to in sections 217a–1, 247b–4a, 299b–7, 300a–7, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 3796gg, 14402 of this title; title 6 section 467; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
 
 
 ---

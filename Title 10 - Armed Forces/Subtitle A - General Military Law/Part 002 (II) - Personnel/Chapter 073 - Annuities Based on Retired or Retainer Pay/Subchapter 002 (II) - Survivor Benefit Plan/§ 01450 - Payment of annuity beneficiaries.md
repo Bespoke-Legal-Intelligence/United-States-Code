@@ -48,7 +48,7 @@ Required offset.—If, upon the death of a person to whom section 1448 of this t
 
 &emsp;(2)
 
-Effective date of offset.—A reduction in an annuity under this section required byparagraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
+Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
 
 (d)
 
@@ -60,7 +60,7 @@ Refund of Amounts Deducted From Retired Pay When DIC Offset Is Applicable.—
 
 &emsp;(1)
 
-Full refund when dic greater than sbp annuity.—If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under section 1452 of this title shall be refunded to the surviving spouse or former spouse.
+Full refund when dic greater than sbp annuity.—If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under section 1452 of this title shallbe refunded to the surviving spouse or former spouse.
 
 &emsp;(2)
 
@@ -124,7 +124,7 @@ Copy of court order or other official statement.—Either—
 
 &emsp;&emsp;(B)
 
-Persons required to make election.—A person shall be considered for purposes ofsubparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
+Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
 
 &emsp;&emsp;&emsp;(i) the person enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to make such an election and the agreement (I) has been incorporated in or ratified or approved by a court order, or (II) has been filed with the court of appropriate jurisdiction in accordance with applicable State law; or
 
@@ -300,7 +300,7 @@ Subsec. (k)(1). Pub. L. 100–180 substituted “55 years of age” for “60 ye
 
 Subsec. (c). Pub. L. 99–661, §1343(a)(8)(C), substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
 
-Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary writtenagreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
+Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
 
 Subsec. (f)(2)(A). Pub. L. 99–661, §641(b)(2)(B), substituted “in a case in which the election is required by a court order, or in which an agreement to make the election” for “in a case in which such agreement”.
 

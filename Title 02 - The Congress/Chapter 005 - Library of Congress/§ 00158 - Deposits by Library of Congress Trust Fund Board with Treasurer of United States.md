@@ -6,15 +6,15 @@ In the absence of any specification to the contrary, the board may deposit the p
 
 #### Codification
 
-Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, second, and fourth pars. of section 2are classified to sections 156, 157, and 158a of this title, respectively.
+Section is comprised of third par. of section 2 of act Mar. 3, 1925. First, second, and fourth pars. of section 2 are classified to sections 156, 157, and 158a of this title, respectively.
 
 #### Amendments
 
-1976—Pub. L. 94–289 substituted “a rate which is the higher of the rate of 4 per centum per annum or a rate which is 0.25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum” for “the rate of 4 per centum per annum”.
+<b>1976</b>—Pub. L. 94–289 substituted “a rate which is the higher of the rate of 4 per centum per annum or a rate which is 0.25 percentage points less than a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding long-term marketable obligations of the United States, adjusted to the nearest one-eighth of 1 per centum” for “the rate of 4 per centum per annum”.
 
-1962—Pub. L. 87–522 increased the total amount of deposits which can be held by the Treasurer from $5,000,000 to $10,000,000.
+<b>1962</b>—Pub. L. 87–522 increased the total amount of deposits which can be held by the Treasurer from $5,000,000 to $10,000,000.
 
-1936—Act June 23, 1936, substituted “in the absence of any specification to the contrary” for “Should any gift or bequest so provide”.
+<b>1936</b>—Act June 23, 1936, substituted “in the absence of any specification to the contrary” for “Should any gift or bequest so provide”.
 
 #### Section Referred to in Other Sections
 

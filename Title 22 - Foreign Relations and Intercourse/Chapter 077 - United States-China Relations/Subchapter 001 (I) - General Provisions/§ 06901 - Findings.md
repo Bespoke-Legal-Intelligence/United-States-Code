@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) In 1980, the United States opened trade relations with the People's Republic of Chinaby entering into a bilateral trade agreement, which was approved by joint resolution enacted pursuant to section 2435(c) of title 19.
+&emsp;(1) In 1980, the United States opened trade relations with the People's Republic of China by entering into a bilateral trade agreement, which was approved by joint resolution enacted pursuant to section 2435(c) of title 19.
 
 &emsp;(2) Since 1980, the President has consistently extended nondiscriminatory treatment to products of the People's Republic of China, pursuant to his authority under section 2434 of title 19.
 
@@ -27,6 +27,10 @@ The Congress finds the following:
 &emsp;(12) The Congress deplores violations by the Government of the People's Republic of China of human rights, religious freedoms, and worker rights that are referred to in the Department of State's 1999 Country Reports on Human Rights Practices for the People's Republic of China, including the banning of the Falun Gong spiritual movement, denial in many cases, particularly politically sensitive ones, of effective representation by counsel and public trials, extrajudicial killings and torture, forced abortion and sterilization, restriction of access to Tibet and Xinjiang, perpetuation of “reeducation through labor”, denial of the right of workers to organize labor unions or bargain collectively with their employers, and failure to implement a 1992 memorandum of understanding prohibiting trade in products made by prison labor.
 
 (Pub. L. 106–286, div. B, title II, §202, Oct. 10, 2000, 114 Stat. 892.)
+
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–7, div. P, §1, Feb. 20, 2003, 117 Stat. 552, provided that: “This division \[amending section 7002 of this title and enacting provisions set out as notes under section 7002 of this title\] may be cited as the ‘United States-China Economic and Security Review Commission’.”
 
 #### Short Title
 
@@ -74,7 +78,7 @@ Biennial Report to Congress.—(1) Not later than April 1 of each even-numbered 
 
 &emsp;“(D) An analysis by the Director of Central Intelligence of the involvement of military specialists, weapons specialists, and intelligence specialists of the People's Republic of China in the activities of the Joint Commission established under the Agreement and in other activities conducted under the Agreement.
 
-&emsp;“(E) A determination by the Secretary of Defense, developed with the assistance of the Director of Central Intelligence, of the extent to which the activities conducted under the Agreement have enhanced the military and defense industrial base of the People's Republic of China, and an assessment of the effect that projected activities under the Agreement for the next two years, including the transfer of technology and know-how, could have on the economic and military capabilities of the People's Republic of China.
+&emsp;“(E) A determination by the Secretary of Defense, developed with the assistance of the Director of Central Intelligence, of the extent to which the activities conducted under the Agreement have enhanced themilitary and defense industrial base of the People's Republic of China, and an assessment of the effect that projected activities under the Agreement for the next two years, including the transfer of technology and know-how, could have on the economic and military capabilities of the People's Republic of China.
 
 &emsp;“(F) An assessment by the Inspector General of the Department of Commerce of—
 
@@ -239,6 +243,8 @@ Duties and Responsibilities.—The Special Coordinator shall—
 &emsp;“(6) take all appropriate steps to ensure adequate resources, staff, and bureaucratic support to fulfill the duties and responsibilities of the Special Coordinator.”
 
 \[For definitions of “Secretary” and “appropriate congressional committees” as used in subtitle B of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
+\[Functions of President under section 613(b) of Pub. L. 107–228, set out above, delegated to Secretary of State by section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.\]
 
 #### Policy of the United States With Respect to Macau
 

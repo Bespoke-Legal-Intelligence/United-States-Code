@@ -18,7 +18,7 @@ The Secretary of State (or equivalent State officer), or the officer designated 
 
 &emsp;(2) keep such reports and statements (either in original filed form or in facsimile copy by microfilm or otherwise) for 2 years after their date of receipt;
 
-&emsp;(3) make each report and statement filed therewith available as soon as practicable (but within 48 hours of receipt) for public inspection and copying during regular business hours, and permit copying of any such report or statement by hand or by duplicating machine at the request of any person, except thatsuch copying shall be at the expense of the person making the request; and
+&emsp;(3) make each report and statement filed therewith available as soon as practicable (but within 48 hours of receipt) for public inspection and copying during regular business hours, and permit copying of any such report or statement by hand or by duplicating machine at the request of any person, except that such copying shall be at the expense of the person making the request; and
 
 &emsp;(4) compile and maintain a current list of all reports and statements pertaining to each candidate.
 
@@ -40,13 +40,13 @@ Another prior section 312 of Pub. L. 92–225 was renumbered section 311, and wa
 
 #### Amendments
 
-1995—Subsec. (c). Pub. L. 104–79 added subsec. (c).
+<b>1995</b>—Subsec. (c). Pub. L. 104–79 added subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–187, §110, in revising text, added par. (1), incorporating part of first sentence reading “A copy of each statement required to be filed with the Commissioner by this subchapter shall be filed with the Secretary of State (or, if there is no office of Secretary of State, the equivalent State officer) of the appropriate State.”; and reenacted as par. (2) definition provision of second sentence, redesignating as cl. (A) prior cl. (1) provisions, inserting reference to statements respecting the campaign, striking out reference to campaign for election and provision for expenditure by the candidate, and redesignating as cl. (B) prior cl. (2), inserting reference to statements respecting the campaign and requirement only for political committees other than authorized committees to file and Secretaries of State to keep that portion of report applicable to candidates seeking election in that State.
+<b>1980</b>—Subsec. (a). Pub. L. 96–187, §110, in revising text, added par. (1), incorporating part of first sentence reading “A copy of each statement required to be filed with the Commissioner by this subchapter shall be filed with the Secretary of State (or, if there is no office of Secretary of State, the equivalent State officer) of the appropriate State.”; and reenacted as par. (2) definition provision of second sentence, redesignating as cl. (A) prior cl. (1) provisions, inserting reference to statements respecting the campaign, striking out reference to campaign for election and provision for expenditure by the candidate, and redesignating as cl. (B) prior cl. (2), inserting reference to statements respecting the campaign and requirement only for political committees other than authorized committees to file and Secretaries of State to keep that portion of report applicable to candidates seeking election in that State.
 
 Subsec. (b). Pub. L. 96–187, §110, in revising text, provided for performance of the prescribed duties by the officer designated under subsec. (a)(1); substituted in cl. (1) “reports and statements required by this Act to be filed therewith” for “reports and statements required by this subchapter to be filed with him”; substituted in cl. (2) requirement of a 2 year retention period for reports and statements after receipt in original form or in facsimile copy by microfilm for ten year retention period after such receipt and five year period when relating to House of Representatives candidates; required in cl. (3) that filed reports and statements be available within 48 hours of receipt rather than no later than end of day of receipt; and provided in cl. (4) for inclusion of reports in current list and exclusion of parts of statements.
 
-1974—Subsec. (a). Pub. L. 93–443, §208(c)(11), substituted “the Commission” for “a supervisory officer”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §208(c)(11), substituted “the Commission” for “a supervisory officer”.
 
 #### Effective Date of 1980 Amendment
 

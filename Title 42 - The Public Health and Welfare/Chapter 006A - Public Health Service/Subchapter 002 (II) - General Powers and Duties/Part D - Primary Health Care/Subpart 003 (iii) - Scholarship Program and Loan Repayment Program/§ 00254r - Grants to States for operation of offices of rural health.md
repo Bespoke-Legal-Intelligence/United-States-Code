@@ -140,7 +140,7 @@ Subsec. (k). Pub. L. 105–392, §301(3), substituted “$36,000,000” for “$
 
 #### Communications for Rural Health Providers
 
-Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66,title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
+Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
 
 Similar provisions were contained in Pub. L. 101–555, §3, Nov. 15, 1990, 104 Stat. 2760.
 

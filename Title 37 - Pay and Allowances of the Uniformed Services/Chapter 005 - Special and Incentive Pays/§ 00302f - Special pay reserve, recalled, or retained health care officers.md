@@ -30,7 +30,7 @@ Monthly Payments.—Payment of special pay pursuant to this section may be made 
 
 Special Rule for Reserve Medical and Dental Officers.—While a reserve medical or dental officer receives a special pay under section 302 or 302b of this title by reason of subsection (a), the officer shall not be entitled to special pay under section 302(h) or 302b(h) of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §634(a), Dec. 5, 1991, 105 Stat. 1381; amended Pub. L.104–106, div. A, title XV, §1501(d)(4)(A), Feb. 10, 1996, 110 Stat. 500; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
+(Added Pub. L. 102–190, div. A, title VI, §634(a), Dec. 5, 1991, 105 Stat. 1381; amended Pub. L. 104–106, div. A, title XV, §1501(d)(4)(A), Feb. 10, 1996, 110 Stat. 500; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
 
 #### Amendments
 

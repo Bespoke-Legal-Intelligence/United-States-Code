@@ -84,7 +84,7 @@ Waiver of advertising requirements.—Section 3709 of the Revised Statutes (41 U
 
 Contents of Research Program.—The Secretary shall include in surface transportation research, technology development, and technology transfer programs carried out under this title coordinated activities in the following areas:
 
-&emsp;(1) Development, use, and dissemination of indicators, including appropriate computer programs for collecting and analyzing data on the status of infrastructure facilities, to measure the performance of the surface transportation systems of the United States, including productivity, efficiency, energy use, air quality, congestion, safety, maintenance, and other factors that reflect system performance.
+&emsp;(1) Development, use, and dissemination of indicators, including appropriate computerprograms for collecting and analyzing data on the status of infrastructure facilities, to measure the performance of the surface transportation systems of the United States, including productivity, efficiency, energy use, air quality, congestion, safety, maintenance, and other factors that reflect system performance.
 
 &emsp;(2) Methods, materials, and testing to improve the durability of surface transportation infrastructure facilities and extend the life of bridge structures, including—
 
@@ -176,7 +176,7 @@ Seismic Research Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a program to study the vulnerability of the Federal-aid highway system and other surface transportation systems to seismic activity and to develop and implement cost-effective methods to reduce such vulnerability.
+Establishment.—The Secretary shall establish a program to study the vulnerabilityof the Federal-aid highway system and other surface transportation systems to seismic activity and to develop and implement cost-effective methods to reduce such vulnerability.
 
 &emsp;(2)
 
@@ -376,7 +376,7 @@ Fundamental properties of asphalts and modified asphalts.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary shall continue to carry out section 6016 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, set out as a note below\]. Additional areas of the program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
+In general.—The Secretary shall continue to carry out section 6016 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240, set out as a note below\]. Additional areas ofthe program under such section shall be asphalt-water interaction studies and asphalt-aggregate thin film behavior studies.
 
 &emsp;&emsp;“(B)
 
@@ -434,7 +434,7 @@ In general.—The Center shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) make information available to State transportation departments, the Federal Highway Administration, the construction industry, and other interested parties to assist in evaluating proposals to use traditional and nontraditional recycled and secondary materials in transportation infrastructure construction;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) encourage the increased use of traditional and nontraditional recycled and secondary materials by using sound science to analyzethoroughly all potential long-term considerations that affect the physical and environmental performance of the materials; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) encourage the increased use of traditional and nontraditional recycled and secondary materials by using sound science to analyze thoroughly all potential long-term considerations that affect the physical and environmental performance of the materials; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) work cooperatively with Federal and State officials to reduce the institutional barriers that limit widespread use of traditional and nontraditional recycled and secondary materials and to ensure that such increased use is consistent with the sustained environmental and physical integrity of the infrastructure in which the materials are used.
 
@@ -492,7 +492,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;“(2) achievement of national transportation safety goals, including the enhancement of safe operation of motor vehicles and nonmotorized vehicles, with particular emphasis on decreasing the number and severity of collisions;
 
-&emsp;“(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
+&emsp;“(3) protection and enhancement of the natural environment and communities affected by surfacetransportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
 &emsp;“(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial vehicles, passenger vehicles, and motorcycles, and including individuals with disabilities; and
 
@@ -534,7 +534,7 @@ Consultation With Federal Officials.—In carrying out the intelligent transport
 
 “(e)
 
-Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, orevaluate intelligent transportation system technologies and services.
+Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
 
 “(f)
 
@@ -730,7 +730,7 @@ Spectrum.—The Federal Communications Commission shall consider, in consultatio
 
 “(a)
 
-In General.—The Secretary shall carry out a comprehensive program of intelligent transportation system research, development and operational tests of intelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle.
+In General.—The Secretary shall carry out a comprehensive program of intelligent transportation system research, development and operational tests ofintelligent vehicles and intelligent infrastructure systems, and other similar activities that are necessary to carry out this subtitle.
 
 “(b)
 
@@ -770,7 +770,7 @@ Selection of Projects.—Under the program, the Secretary shall give priority to
 
 &emsp;“(3) encourage private sector involvement and financial commitment, to the maximum extent practicable, through innovative financial arrangements, especially public-private partnerships, including arrangements that generate revenue to offset public investment costs;
 
-&emsp;“(4) demonstrate commitment to a comprehensive plan of fully integrated intelligent transportationsystem deployment in accordance with the national architecture and standards and protocols established under section 5206;
+&emsp;“(4) demonstrate commitment to a comprehensive plan of fully integrated intelligent transportation system deployment in accordance with the national architecture and standards and protocols established under section 5206;
 
 &emsp;“(5) are part of approved plans and programs developed under applicable statewide and metropolitan transportation planning processes and applicable State air quality implementation plans, as appropriate, at the time at which Federal funds are sought;
 
@@ -1118,11 +1118,11 @@ Report to congress.—Not later than November 30, 1995, the Administrator shall 
 
 “(e)
 
-Annual Report to Congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 18, 1991\], and on or before November 30th of each year beginning thereafter, the Administrator shall transmit to Congress a report of the progress made in implementing this section.
+Annual Report to Congress.—Not later than 180 days after the date of the enactment of this Act\[Dec. 18, 1991\], and on or before November 30th of each year beginning thereafter, the Administrator shall transmit to Congress a report of the progress made in implementing this section.
 
 “(f)
 
-Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
+Authorization of Appropriations.—The Secretary shall expend from administrative and research funds deducted under section 104(a) of this title \[probably means section 104(a) of Title 23, Highways\] at least $3,000,000 for each of fiscal years 1992, 1993, 1994, 1995, and 1996 to carry out subsection (b).”
 
 \[For termination, effective May 15, 2000, of annual reporting provisions in section 6016(e) of Pub. L. 102–240, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 139 of House Document No. 103–7.\]
 

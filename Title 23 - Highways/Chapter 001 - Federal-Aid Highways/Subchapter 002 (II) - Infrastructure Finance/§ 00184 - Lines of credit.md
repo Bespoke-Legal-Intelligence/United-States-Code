@@ -18,7 +18,7 @@ Risk assessment.—Before entering into an agreement under this subsection, the 
 
 &emsp;(4)
 
-Investment-grade rating requirement.—The funding of a line of credit under this section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
+Investment-grade rating requirement.—The funding of a line of credit underthis section shall be contingent on the project's senior obligations receiving an investment-grade rating from at least 1 rating agency.
 
 (b)
 
@@ -70,7 +70,7 @@ Rights of third-party creditors.—
 
 &emsp;&emsp;(A)
 
-Against federal government.—A third-party creditor of the obligor shall nothave any right against the Federal Government with respect to any draw on the line of credit.
+Against federal government.—A third-party creditor of the obligor shall not have any right against the Federal Government with respect to any draw on the line of credit.
 
 &emsp;&emsp;(B)
 

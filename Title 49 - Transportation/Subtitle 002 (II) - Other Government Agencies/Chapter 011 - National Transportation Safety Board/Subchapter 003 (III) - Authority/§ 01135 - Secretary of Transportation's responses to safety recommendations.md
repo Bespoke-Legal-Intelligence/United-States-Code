@@ -2,7 +2,7 @@
 
 (a)
 
-General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give a formal written response to each recommendation not later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
+General.—When the National Transportation Safety Board submits a recommendation about transportation safety to the Secretary of Transportation, the Secretary shall give a formal written response to each recommendationnot later than 90 days after receiving the recommendation. The response shall indicate whether the Secretary intends—
 
 &emsp;(1) to carry out procedures to adopt the complete recommendation;
 
@@ -20,9 +20,21 @@ Public Availability.—The Board shall make a copy of each recommendation and re
 
 (d)
 
-Reports to Congress.—The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.
+Reporting Requirements.—
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755.)
+&emsp;(1)
+
+Annual secretarial regulatory status reports.—On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board's “most wanted list”. The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
+
+&emsp;(2)
+
+Failure to report.—If on March 1 of each year the Board has not received the Secretary's report required by this subsection, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary's failure to submit the required report.
+
+&emsp;(3)
+
+Termination.—This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755; Pub. L. 108–168, §6, Dec. 6, 2003, 117 Stat. 2034.)
 
 Historical and Revision Notes
 
@@ -54,9 +66,37 @@ In subsections (a) and (b), the words “carry out” are substituted for “ini
 
 In subsection (a)(1), the word “complete” is substituted for “in full” for consistency in the revised title.
 
-#### Termination of Reporting Requirements
+#### Amendments
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (d) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 138 of House Document No. 103–7.
+2003—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
+
+#### Reports on Certain Open Safety Recommendations
+
+Pub. L. 108–168, §9, Dec. 6, 2003, 117 Stat. 2035, provided that:
+
+“(a)
+
+Initial Report.—Within 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the Secretary of Transportation shall submit a report to Congress and the National Transportation Safety Board containing the regulatory status of each open safety recommendation made by the Board to the Secretary concerning—
+
+&emsp;“(1) 15-passenger van safety;
+
+&emsp;“(2) railroad grade crossing safety; and
+
+&emsp;“(3) medical certifications for a commercial driver's license.
+
+“(b)
+
+Biennial Updates.—The Secretary shall continue to report on the regulatory status of each such recommendation (and any subsequent recommendation made by the Board to the Secretary concerning a matter described in paragraph (1), (2), or (3) of subsection (a)) at 2-year intervals until—
+
+&emsp;“(1) final regulatory action has been taken on the recommendation;
+
+&emsp;“(2) the Secretary determines, and states in the report, that no action should be taken on that recommendation; or
+
+&emsp;“(3) the report, if any, required to be submitted in 2008 is submitted.
+
+“(c)
+
+Failure To Report.—If the Board has not received a report required to be submitted under subsection (a) or (b) within 30 days after the date on which that report is required to be submitted, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
 #### NTSB Safety Recommendations
 

@@ -14,7 +14,7 @@ Hearing.—The hearing shall be conducted pursuant to the provisions of section 
 
 (d)
 
-Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presently suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for treatment in a suitable facility—
+Determination and Disposition.—If, after the hearing, the court finds by a preponderance of the evidence that the defendant is presentlysuffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense, the court shall commit the defendant to the custody of the Attorney General. The Attorney General shall hospitalize the defendant for treatment in a suitable facility—
 
 &emsp;(1) for such a reasonable period of time, not to exceed four months, as is necessary to determine whether there is a substantial probability that in the foreseeable future he will attain the capacity to permit the trial to proceed; and
 

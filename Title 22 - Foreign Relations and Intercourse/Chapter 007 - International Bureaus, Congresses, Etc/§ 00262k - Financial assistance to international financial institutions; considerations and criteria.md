@@ -6,7 +6,7 @@ United States active participation in international financial institution activi
 
 #### (b) Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization
 
-The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industry sectors and international commodity markets in order to—
+The Secretary of the Treasury shall instruct the representatives of the United States to the international financial institutions described in subsection (d) of this section to take into account in their review of loans, credits, or other utilization of the resources of their respective institutions, the effect that country adjustment programs would have upon individual industrysectors and international commodity markets in order to—
 
 &emsp;(1) minimize any projected adverse impacts on such sector or markets of making such loans, credits, or utilization of resources; and
 
@@ -14,7 +14,7 @@ The Secretary of the Treasury shall instruct the representatives of the United S
 
 #### (c) Project proposals relating to mining, smelting, refining, and fabricating of minerals and metal products
 
-More specifically, the following criteria should be considered as a basis for a vote by the respective United States Executive Director to each of the international financial institutionsdescribed in subsection (d) of this section against a project proposal involving the creation of new capacity or the expansion, improvement, or modification of mining, smelting, refining, and fabricating of minerals and metal products:
+More specifically, the following criteria should be considered as a basis for a vote by the respective United States Executive Director to each of the international financial institutions described in subsection (d) of this section against a project proposal involving the creation of new capacity or the expansion, improvement, or modification of mining, smelting, refining, and fabricating of minerals and metal products:
 
 &emsp;(1) Analysis shows that the risks, returns, and incentives of a project are such that it could be financed at reasonable terms by commercial lending services.
 

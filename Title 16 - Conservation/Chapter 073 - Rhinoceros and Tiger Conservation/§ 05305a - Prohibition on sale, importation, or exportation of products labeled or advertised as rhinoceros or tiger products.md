@@ -30,7 +30,7 @@ After consultation with the Secretary of the Treasury, the Secretary of Health a
 
 #### (e) Enforcement
 
-The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this section in the manner in which the Secretaries carry out enforcement activities under section11(e) of the Endangered Species Act of 1973 (16 U.S.C. 1540(e)).
+The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this section in the manner in which the Secretaries carry out enforcement activities under section 11(e) of the Endangered Species Act of 1973 (16 U.S.C. 1540(e)).
 
 #### (f) Use of penalty amounts
 

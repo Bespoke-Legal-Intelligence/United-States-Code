@@ -18,7 +18,7 @@
 
 #### (B) Direct awards
 
-&emsp;&emsp;The Secretary may award, on a competitive basis or by formula, the amount the State educational agency is eligible to receive under paragraph (2) directly to a specially qualified agency in the State that has submitted an application in accordance with subparagraph (A) and obtained approval of the application.
+&emsp;&emsp;The Secretary may award, on a competitive basis or by formula, the amount the State educational agency is eligible to receive under paragraph (2) directly to a specially qualified agency in the State that hassubmitted an application in accordance with subparagraph (A) and obtained approval of the application.
 
 #### (C) Specially qualified agency defined
 

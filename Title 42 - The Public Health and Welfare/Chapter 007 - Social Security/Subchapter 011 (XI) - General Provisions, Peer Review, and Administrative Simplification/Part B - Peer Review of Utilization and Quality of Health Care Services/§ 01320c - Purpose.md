@@ -10,7 +10,37 @@ A prior section 1320c, act Aug. 14, 1935, ch. 531, title XI, §1151, as added Oc
 
 #### Effective Date
 
-Section 149 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(C), July 18, 1984, 98 Stat. 1102, provided that: “The amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248, enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395<i>l</i>, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out asnotes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[section 150 of Pub. L. 97–248, set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 149 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(C), July 18, 1984, 98 Stat. 1102, provided that: “The amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248, enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395<i>l</i>, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out as notes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[section 150 of Pub. L. 97–248, set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+
+#### IOM Study of QIOs
+
+Pub. L. 108–173, title I, §109(d), Dec. 8, 2003, 117 Stat. 2173, provided that:
+
+“(1)
+
+In general.—The Secretary \[of Health and Human Services\] shall request the Institute of Medicine of the National Academy of Sciences to conduct an evaluation of the program under part B of title XI of the Social Security Act \[this part\]. The study shall include a review of the following:
+
+&emsp;“(A) An overview of the program under such part.
+
+&emsp;“(B) The duties of organizations with contracts with the Secretary under such part.
+
+&emsp;“(C) The extent to which quality improvement organizations improve the quality of care for medicare beneficiaries.
+
+&emsp;“(D) The extent to which other entities could perform such quality improvement functions as well as, or better than, quality improvement organizations.
+
+&emsp;“(E) The effectiveness of reviews and other actions conducted by such organizations in carrying out those duties.
+
+&emsp;“(F) The source and amount of funding for such organizations.
+
+&emsp;“(G) The conduct of oversight of such organizations.
+
+“(2)
+
+Report to congress.—Not later than June 1, 2006, the Secretary shall submit to Congress a report on the results of the study described in paragraph (1), including any recommendations for legislation.
+
+“(3)
+
+Increased competition.—If the Secretary finds based on the study conducted under paragraph (1) that other entities could improve quality in the medicare program as well as, or better than, the current quality improvement organizations, then the Secretary shall provide for such increased competition through the addition of new types of entities which may perform quality improvement functions.”
 
 #### Coordination of PROs and Carriers
 

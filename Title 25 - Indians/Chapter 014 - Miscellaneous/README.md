@@ -2627,7 +2627,7 @@ Authorization of appropriations; reimbursement of General Fund.
 
 |  |  |
 | :--- | ---: |
-| [641\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000641%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose |
+| [641\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000641%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
 | [642\.](Subchapter%20023%20%28XXIII%29%20-%20Hopi%20Tribe%20Industrial%20Park/%C2%A7%2000642%20-%20Powers%20of%20Tribal%20Council.md) | Powers of Tribal Council. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

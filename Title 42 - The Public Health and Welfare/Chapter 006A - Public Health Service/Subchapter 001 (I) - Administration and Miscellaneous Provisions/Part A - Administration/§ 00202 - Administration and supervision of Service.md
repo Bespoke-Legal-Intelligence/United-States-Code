@@ -152,7 +152,7 @@ In summary, the reorganization plan would:
 
 I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
-Should the reorganizations in the accompanying reorganization plan take effect, they will make possible more effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
+Should the reorganizations in the accompanying reorganization plan take effect, they will make possiblemore effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
 
 I strongly recommend that the Congress allow the reorganization plan to become effective.
 

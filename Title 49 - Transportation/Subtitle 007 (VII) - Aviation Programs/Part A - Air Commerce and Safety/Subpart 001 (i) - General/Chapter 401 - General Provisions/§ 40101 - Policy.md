@@ -20,7 +20,7 @@ Economic Regulation.—In carrying out subpart II of this part and those provisi
 
 &emsp;&emsp;(B) to encourage efficient and well-managed air carriers to earn adequate profits and attract capital, considering any material differences between interstate air transportation and foreign air transportation.
 
-&emsp;(7) developing and maintaining a sound regulatory system that is responsive to the needsof the public and in which decisions are reached promptly to make it easier to adapt the air transportation system to the present and future needs of—
+&emsp;(7) developing and maintaining a sound regulatory system that is responsive to the needs of the public and in which decisions are reached promptly to make it easier to adapt the air transportation system to the present and future needs of—
 
 &emsp;&emsp;(A) the commerce of the United States;
 
@@ -100,7 +100,7 @@ Safety Considerations in Public Interest.—In carrying out subpart III of this 
 
 International Air Transportation.—In formulating United States international air transportation policy, the Secretaries of State and Transportation shall develop a negotiating policy emphasizing the greatest degree of competition compatible with a well-functioning international air transportation system, including the following:
 
-&emsp;(1) strengthening the competitive position of air carriers to ensure at least equality with foreign air carriers, including the attainment of the opportunity for air carriers to maintainand increase their profitability in foreign air transportation.
+&emsp;(1) strengthening the competitive position of air carriers to ensure at least equality withforeign air carriers, including the attainment of the opportunity for air carriers to maintain and increase their profitability in foreign air transportation.
 
 &emsp;(2) freedom of air carriers and foreign air carriers to offer prices that correspond to consumer demand.
 
@@ -228,7 +228,7 @@ In subsections (c) and (d), the reference to subpart III is added because the po
 
 In subsection (c), before clause (1), the word “Administrator” in section 306 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 749) is retained on authority of 49:106(g). The words “consider the following matters” are substituted for “give full consideration to” for consistency in this section.
 
-In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surplus the first time it appears. The words “of the United States” are omitted for consistency in the revised title and because of the definitionof “navigable airspace” in section 40102(a) of the revised title. The words “of those operations” are added for clarity.
+In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surplus the first time it appears. Thewords “of the United States” are omitted for consistency in the revised title and because of the definition of “navigable airspace” in section 40102(a) of the revised title. The words “of those operations” are added for clarity.
 
 In subsection (d)(5), the word “both” in 49 App.:1303(e) is omitted as surplus.
 
@@ -253,6 +253,12 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–176, §1(a), Dec. 12, 2003, 117 Stat. 2490, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Vision 100—Century of Aviation Reauthorization Act’.”
+
+Pub. L. 108–176, title III, §301, Dec. 12, 2003, 117 Stat. 2533, provided that: “This title \[enacting subchapter III of chapter 471 of this title, amending sections 40104, 40128, 47106, 47503, and 47504 of this title, and enacting provisions set out as notes under this section and sections 40128, 47171, 47503, and 47508 of this title\] may be cited as ‘Aviation Streamlining Approval Process Act of 2003’.”
 
 #### Short Title of 2002 Amendment
 
@@ -296,13 +302,267 @@ Section 701 of title VII of Pub. L. 104–264 provided that: “This title \[ena
 
 Section 801 of title VIII of Pub. L. 104–264 provided that: “This title \[enacting section 47133 of this title, amending sections 46301 and 47107 of this title and section 9502 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under section 47107 of this title\] may be cited as the ‘Airport Revenue Protection Act of 1996’.”
 
-Section 1101 of title XI of Pub. L. 104–264 provided that: “This title \[amending sections 44501, 44508, and 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Management Reform Act of 1996’.”
+Section 1101 of title XI of Pub. L. 104–264 provided that: “This title \[amending sections 44501, 44508, and48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Management Reform Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: “This Act \[enacting sections 41311, 41714, 41715, 47129, 47130, and 47509 of this title, amending sections 106, 10521, 11501, 40102, 40113, 40116, 40117, 41713, 41734, 44502, 44505, 44938, 45301, 46301, 47101, 47102, 47104 to 47107, 47109 to 47111, 47115, 47117 to 47119, 47504, 48101 to 48104, and 48108 of this title and section 9502 of Title 26, Internal Revenue Code, renumbering former section 47129 of this title as section 47131 of this title, enacting provisions set out as notes under this section and sections 10521, 11501, 40102, 40105, 40117, 41311, 41715, 44502, 45102, 47101, 47107, 47124, and 49101 of this title, and repealing provisions set out as a note under section 1348 of former Title 49, Transportation\] may be cited as the ‘Federal Aviation Administration Authorization Act of 1994’.”
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: “This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the ‘Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994’.”
+
+#### Revitalization of Aviation and Aeronautics
+
+Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: “Congress finds the following:
+
+&emsp;“(1) The United States has revolutionized the way people travel, developing new technologies and aircraft to move people more efficiently and more safely.
+
+&emsp;“(2) Past Federal investment in aeronautics research and development has benefited the economy and national security of the United States and the quality of life of its citizens.
+
+&emsp;“(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
+
+&emsp;“(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men and women in uniform and those charged with homeland security.
+
+&emsp;“(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviation system safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
+
+&emsp;“(6) Revitalization and coordination of the United States efforts to maintain its leadership in aviation and aeronautics are critical and must begin now.
+
+&emsp;“(7) A recent report by the Commission on the Future of the United States Aerospace Industry outlined the scope of the problems confronting the aerospace and aviation industries in the United States and found that—
+
+&emsp;&emsp;“(A) aerospace will be at the core of the Nation's leadership and strength throughout the 21st century;
+
+&emsp;&emsp;“(B) aerospace will play an integral role in the Nation's economy, security, and mobility; and
+
+&emsp;&emsp;“(C) global leadership in aerospace is a national imperative.
+
+&emsp;“(8) Despite the downturn in the global economy, projections of the Federal Aviation Administration indicate that upwards of 1,000,000,000 people will fly annually by 2013. Efforts must begin now to prepare for future growth in the number of airline passengers.
+
+&emsp;“(9) The United States must increase its investment in research and development to revitalize the aviation and aerospace industries, to create jobs, and to provide educational assistance and training to prepare workers in those industries for the future.”
+
+#### Report on Long-Term Environmental Improvements
+
+Pub. L. 108–176, title III, §321, Dec. 12, 2003, 117 Stat. 2540, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation, in consultation with the Administrator of the National Aeronautics and Space Administration, shall conduct a study of ways to reduce aircraft noise and emissions and to increase aircraft fuel efficiency. The study shall—
+
+&emsp;“(1) explore new operational procedures for aircraft to achieve those goals;
+
+&emsp;“(2) identify both near-term and long-term options to achieve those goals;
+
+&emsp;“(3) identify infrastructure changes that would contribute to attainment of those goals;
+
+&emsp;“(4) identify emerging technologies that might contribute to attainment of those goals;
+
+&emsp;“(5) develop a research plan for application of such emerging technologies, including new combustor and engine design concepts and methodologies for designing high bypass ratio turbofan engines so as to minimize the effects on climate change per unit of production of thrust and flight speed; and
+
+&emsp;“(6) develop an implementation plan for exploiting such emerging technologies to attain those goals.
+
+“(b)
+
+Report.—The Secretary shall transmit a report on the study to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure within 1 year after the date of enactment of this Act \[Dec. 12, 2003\].
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary $500,000 for fiscal year 2004 to carry out this section.”
+
+#### Reduction of Noise and Emissions From Civilian Aircraft
+
+Pub. L. 108–176, title III, §326, Dec. 12, 2003, 117 Stat. 2542, provided that:
+
+“(a)
+
+Establishment of Research Program.—From amounts made available under section 48102(a) of title 49, United States Code, the Secretary of Transportation shall establish a research program related to reducing community exposure to civilian aircraft noise or emissions through grants or other measures authorized under section 106(<i>l</i>)(6) of such title, including reimbursable agreements with other Federal agencies. The program shall include participation by educational and research institutions that have existing facilities for developing and testing noise reduction engine technology.
+
+“(b)
+
+Designation of Institute as a Center of Excellence.—The Administrator of the Federal Aviation Administration shall designate an institution described in subsection (a) as a Center of Excellence for Noise and Emission Research.”
+
+#### Air Transportation System Joint Planning and Development Office
+
+Pub. L. 108–176, title VII, §709, Dec. 12, 2003, 117 Stat. 2582, provided that:
+
+“(a)
+
+Establishment.—(1) The Secretary of Transportation shall establish in the Federal Aviation Administration a joint planning and development office to manage work related to the Next Generation Air Transportation System. The office shall be known as the Next Generation Air Transportation System Joint Planning and Development Office (in this section referred to as the ‘Office’).
+
+“(2) The responsibilities of the Office shall include—
+
+&emsp;“(A) creating and carrying out an integrated plan for a Next Generation Air Transportation System pursuant to subsection (b);
+
+&emsp;“(B) overseeing research and development on that system;
+
+&emsp;“(C) creating a transition plan for the implementation of that system;
+
+&emsp;“(D) coordinating aviation and aeronautics research programs to achieve the goal of more effective and directed programs that will result in applicable research;
+
+&emsp;“(E) coordinating goals and priorities and coordinating research activities within the Federal Government with United States aviation and aeronautical firms;
+
+&emsp;“(F) coordinating the development and utilization of new technologies to ensure that when available, they may be used to their fullest potential in aircraft and in the air traffic control system;
+
+&emsp;“(G) facilitating the transfer of technology from research programs such as the National Aeronautics and Space Administration program and the Department of Defense Advanced Research Projects Agency program to Federal agencies with operational responsibilities and to the private sector; and
+
+&emsp;“(H) reviewing activities relating to noise, emissions, fuel consumption, and safety conducted by Federal agencies, including the Federal Aviation Administration, the National Aeronautics and Space Administration, the Department of Commerce, and the Department of Defense.
+
+“(3) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, the Department of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
+
+“(4) In developing and carrying out its plans, the Office shall consult with the public and ensure the participation of experts from the private sector including representatives of commercial aviation, general aviation, aviation labor groups, aviation research and development entities, aircraft and air traffic control suppliers, and the space industry.
+
+“(b)
+
+Integrated Plan.—The integrated plan shall be designed to ensure that the Next Generation Air Transportation System meets air transportation safety, security, mobility, efficiency, and capacity needs beyond those currently included in the Federal Aviation Administration's operational evolution plan and accomplishes the goals under subsection (c). The integrated plan shall include—
+
+&emsp;“(1) a national vision statement for an air transportation system capable of meeting potential air traffic demand by 2025;
+
+&emsp;“(2) a description of the demand and the performance characteristics that will be required of the Nation's future air transportation system, and an explanation of how those characteristics were derived, including the national goals, objectives, and policies the system is designed to further, and the underlying socioeconomic determinants, and associated models and analyses;
+
+&emsp;“(3) a multiagency research and development roadmap for creating the Next Generation Air Transportation System with the characteristics outlined under clause (ii) \[(2)\], including—
+
+&emsp;&emsp;“(A) the most significant technical obstacles and the research and development activities necessary to overcome them, including for each project, the role of each Federal agency, corporations, and universities;
+
+&emsp;&emsp;“(B) the annual anticipated cost of carrying out the research and development activities; and
+
+&emsp;&emsp;“(C) the technical milestones that will be used to evaluate the activities; and
+
+&emsp;“(4) a description of the operational concepts to meet the system performance requirements for all system users and a timeline and anticipated expenditures needed to develop and deploy the system to meet the vision for 2025.
+
+“(c)
+
+Goals.—The Next Generation Air Transportation System shall—
+
+&emsp;“(1) improve the level of safety, security, efficiency, quality, and affordability of the National Airspace System and aviation services;
+
+&emsp;“(2) take advantage of data from emerging ground-based and space-based communications, navigation, and surveillance technologies;
+
+&emsp;“(3) integrate data streams from multiple agencies and sources to enable situational awareness and seamless global operations for all appropriate users of the system, including users responsible for civil aviation, homeland security, and national security;
+
+&emsp;“(4) leverage investments in civil aviation, homeland security, and national security and build upon current air traffic management and infrastructure initiatives to meet system performance requirements for all system users;
+
+&emsp;“(5) be scalable to accommodate and encourage substantial growth in domestic and international transportation and anticipate and accommodate continuing technology upgrades and advances;
+
+&emsp;“(6) accommodate a wide range of aircraft operations, including airlines, air taxis, helicopters, general aviation, and unmanned aerial vehicles; and
+
+&emsp;“(7) take into consideration, to the greatest extent practicable, design of airport approach and departure flight paths to reduce exposure of noise and emissions pollution on affected residents.
+
+“(d)
+
+Reports.—The Administrator of the Federal Aviation Administration shall transmit to the Committee on Commerce, Science, and Transportation in the Senate and the Committee on Transportation and Infrastructure and the Committee on Science in the House of Representatives—
+
+&emsp;“(1) not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the integrated plan required in subsection (b); and
+
+&emsp;“(2) annually at the time of the President's budget request, a report describing the progress in carrying out the plan required under subsection (b) and any changes to that plan.
+
+“(e)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Office $50,000,000 for each of the fiscal years 2004 through 2010.”
+
+#### Next Generation Air Transportation Senior Policy Committee
+
+Pub. L. 108–176, title VII, §710, Dec. 12, 2003, 117 Stat. 2584, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation shall establish a senior policy committee to work with the Next Generation Air Transportation System Joint Planning and Development Office. The senior policy committee shall be chaired by the Secretary.
+
+“(b)
+
+Membership.—In addition to the Secretary, the senior policy committee shall be composed of—
+
+&emsp;“(1) the Administrator of the Federal Aviation Administration (or the Administrator's designee);
+
+&emsp;“(2) the Administrator of the National Aeronautics and Space Administration (or the Administrator's designee);
+
+&emsp;“(3) the Secretary of Defense (or the Secretary's designee);
+
+&emsp;“(4) the Secretary of Homeland Security (or the Secretary's designee);
+
+&emsp;“(5) the Secretary of Commerce (or the Secretary's designee);
+
+&emsp;“(6) the Director of the Office of Science and Technology Policy (or the Director's designee); and
+
+&emsp;“(7) designees from other Federal agencies determined by the Secretary of Transportation to have an important interest in, or responsibility for, other aspects of the system.
+
+“(c)
+
+Function.—The senior policy committee shall—
+
+&emsp;“(1) advise the Secretary of Transportation regarding the national goals and strategic objectives for the transformation of the Nation's air transportation system to meet its future needs;
+
+&emsp;“(2) provide policy guidance for the integrated plan for the air transportation system to be developed by the Next Generation Air Transportation System Joint Planning and Development Office;
+
+&emsp;“(3) provide ongoing policy review for the transformation of the air transportation system;
+
+&emsp;“(4) identify resource needs and make recommendations to their respective agencies for necessary funding for planning, research, and development activities; and
+
+&emsp;“(5) make legislative recommendations, as appropriate, for the future air transportation system.
+
+“(d)
+
+Consultation.—In carrying out its functions under this section, the senior policy committee shall consult with, and ensure participation by, the private sector (including representatives of general aviation, commercial aviation, aviation labor, and the space industry), members of the public, and other interested parties and may do so through a special advisory committee composed of such representatives.”
+
+#### Reimbursement for Losses Incurred by General Aviation Entities
+
+Pub. L. 108–176, title VIII, §817, Dec. 12, 2003, 117 Stat. 2592, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation may make grants to reimburse the following general aviation entities for the security costs incurred and revenue foregone as a result of the restrictions imposed by the Federal Government following the terrorist attacks on the United States that occurred on September 11, 2001:
+
+&emsp;“(1) General aviation entities that operate at Ronald Reagan Washington National Airport.
+
+&emsp;“(2) Airports that are located within 15 miles of Ronald Reagan Washington National Airport and were operating under security restrictions on the date of enactment of this Act \[Dec. 12, 2003\] and general aviation entities operating at those airports.
+
+&emsp;“(3) General aviation entities affected by implementation of section 44939 of title 49, United States Code.
+
+&emsp;“(4) General aviation entities that were affected by Federal Aviation Administration Notices to Airmen FDC 2/1099 and 3/1862 or section 352 of the Department of Transportation and Related Agencies Appropriations Act, 2003 (Public Law 108–7, division I) \[117 Stat. 420\], or both.
+
+&emsp;“(5) Sightseeing operations that were not authorized to resume in enhanced class B air space under Federal Aviation Administration notice to airmen 1/1225.
+
+“(b)
+
+Documentation.—Reimbursement under this section shall be made in accordance with sworn financial statements or other appropriate data submitted by each general aviation entity demonstrating the costs incurred and revenue foregone to the satisfaction of the Secretary.
+
+“(c)
+
+General Aviation Entity Defined.—In this section, the term ‘general aviation entity’ means any person (other than a scheduled air carrier or foreign air carrier, as such terms are defined in section 40102 of title 49, United States Code) that—
+
+&emsp;“(1) operates nonmilitary aircraft under part 91 of title 14, Code of Federal Regulations, for the purpose of conducting its primary business;
+
+&emsp;“(2) manufactures nonmilitary aircraft with a maximum seating capacity of fewer than 20 passengers or aircraft parts to be used in such aircraft;
+
+&emsp;“(3) provides services necessary for nonmilitary operations under such part 91; or
+
+&emsp;“(4) operates an airport, other than a primary airport (as such terms are defined in such section 40102), that—
+
+&emsp;&emsp;“(A) is listed in the national plan of integrated airport systems developed by the Federal Aviation Administration under section 47103 of such title; or
+
+&emsp;&emsp;“(B) is normally open to the public, is located within the confines of enhanced class B airspace (as defined by the Federal Aviation Administration in Notice to Airmen FDC 1/0618), and was closed as a result of an order issued by the Federal Aviation Administration in the period beginning September 11, 2001, and ending January 1, 2002, and remained closed as a result of that order on January 1, 2002.
+
+> Such term includes fixed based operators, flight schools, manufacturers of general aviation aircraft and products, persons engaged in nonscheduled aviation enterprises, and general aviation independent contractors.
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $100,000,000. Such sums shall remain available until expended.”
+
+#### GAO Report on Airlines’ Actions To Improve Finances and on Executive Compensation
+
+Pub. L. 108–176, title VIII, §826, Dec. 12, 2003, 117 Stat. 2596, provided that:
+
+“(a)
+
+Finding.—Congress finds that the United States Government has by law provided substantial financial assistance to United States commercial airlines in the form of war risk insurance and reinsurance and other economic benefits and has imposed substantial economic and regulatory burdens on those airlines. In order to determine the economic viability of the domestic commercial airline industry and to evaluate the need for additional measures or the modification of existing laws, Congress needs more frequent information and independently verified information about the financial condition of these airlines.
+
+“(b) GAO
+
+Report.—Not later than one year after the date of enactment of this Act \[Dec. 12, 2003\], the Comptroller General shall prepare a report for Congress analyzing the financial condition of the United States airline industry in its efforts to reduce the costs, improve the earnings and profits and balances of each individual air carrier. The report shall recommend steps that the industry should take to become financially self-sufficient.
+
+“(c) GAO
+
+Authority.—In order to compile the report required by subsection (b), the Comptroller General, or any of the Comptroller General's duly authorized representatives, shall have access for the purpose of audit and examination to any books, accounts, documents, papers, and records of such air carriers that relate to the information required to compile the report. The Comptroller General shall submit with the report a certification as to whether the Comptroller General has had access to sufficient information to make informed judgments on the matters covered by the report.
+
+“(d)
+
+Reports to Congress.—The Comptroller General shall transmit the report required by subsection (b) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
 
 #### Mail and Freight Waivers
 
@@ -322,7 +582,7 @@ Limitations.—The Secretary may impose reasonable limitations on any such waive
 
 #### Air Carriers Required To Honor Tickets for Suspended Service
 
-Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, provided that:
+Pub. L. 107–71, title I, §145, Nov. 19, 2001, 115 Stat. 645, as amended by Pub. L. 108–7, div. I, title III, §372, Feb. 20, 2003, 117 Stat. 427; Pub. L. 108–176, title IV, §428, Dec. 12, 2003, 117 Stat. 2556, provided that:
 
 “(a)
 
@@ -334,7 +594,7 @@ Passenger Obligation.—An air carrier is not required to provide air transporta
 
 “(c)
 
-Sunset.—This section does not apply to air transportation the suspension, interruption, or discontinuance of which occurs more than 18 months after the date of enactment of this Act \[Nov. 19, 2001\].”
+Sunset.—This section does not apply to air transportation the suspension, interruption, or discontinuance of which occurs more than 36 months after the date of enactment of this Act \[Nov. 19, 2001\].”
 
 #### Relationship of Eligible Crime Victim Compensation Programs to September 11th Victim Compensation Fund
 
@@ -438,7 +698,7 @@ Forms; terms and conditions.—A Federal credit instrument shall be issued under
 
 &emsp;&emsp;“(B)
 
-Procedures.—Not later than 14 days after the date of enactment of this Act \[Sept. 22, 2001\], the Director of the Office of Management and Budget shall issue regulations setting forth procedures for application and minimum requirements, which may be supplemented by the Board in its discretion, for the issuance of Federal credit instruments under section 101(a)(1).
+Procedures.—Not later than 14 days after the date of enactment of this Act \[Sept. 22, 2001\], the Director of the Office of Management and Budget shall issue regulations setting forth proceduresfor application and minimum requirements, which may be supplemented by the Board in its discretion, for the issuance of Federal credit instruments under section 101(a)(1).
 
 “(d)
 
@@ -524,7 +784,7 @@ Total Compensation Defined.—In this section, the term ‘total compensation’
 
 “(a)
 
-Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure thatall communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
+Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
 
 “(b)
 
@@ -836,7 +1096,7 @@ In general.—The Attorney General is authorized to accept such amounts as may b
 
 &emsp;“(2)
 
-Use of separate account.—In making payments under this section, amounts contained in any account containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
+Use of separate account.—In making payments under this section, amounts contained in anyaccount containing funds provided under paragraph (1) shall be used prior to using appropriated amounts.
 
 #### “SEC. 407. REGULATIONS.
 
@@ -977,52 +1237,6 @@ Information to be included in faa financial report.—The Administrator \[of the
 “(b)
 
 Funding.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
-
-#### Passenger Cabin Air Quality
-
-Pub. L. 106–181, title VII, §725, Apr. 5, 2000, 114 Stat. 166, provided that:
-
-“(a)
-
-Study of Air Quality in Passenger Cabins in Commercial Aircraft.—
-
-&emsp;“(1)
-
-In general.—Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall arrange for and provide necessary data to the National Academy of Sciences to conduct a 12-month, independent study of air quality in passenger cabins of aircraft used in air transportation and foreign air transportation, including the collection of new data, in coordination with the Federal Aviation Administration, to identify contaminants in the aircraft air and develop recommendations for means of reducing such contaminants.
-
-&emsp;“(2)
-
-Alternative air supply.—The study should examine whether contaminants would be reduced by the replacement of engine and auxiliary power unit bleed air with an alternative supply of air for the aircraft passengers and crew.
-
-&emsp;“(3)
-
-Scope.—The study shall include an assessment and quantitative analysis of each of the following:
-
-&emsp;&emsp;“(A) Contaminants of concern, as determined by the National Academy of Sciences.
-
-&emsp;&emsp;“(B) The systems of air supply on aircraft, including the identification of means by which contaminants may enter such systems.
-
-&emsp;&emsp;“(C) The toxicological and health effects of the contaminants of concern, their byproducts, and the products of their degradation.
-
-&emsp;&emsp;“(D) Any contaminant used in the maintenance, operation, or treatment of aircraft, if a passenger or a member of the air crew may be directly exposed to the contaminant.
-
-&emsp;&emsp;“(E) Actual measurements of the contaminants of concern in the air of passenger cabins during actual flights in air transportation or foreign air transportation, along with comparisons of such measurements to actual measurements taken in public buildings.
-
-&emsp;“(4)
-
-Provision of Current Data.—The Administrator shall collect all data of the Federal Aviation Administration that is relevant to the study and make the data available to the National Academy of Sciences in order to complete the study.
-
-“(b)
-
-Collection of Aircraft Air Quality Data.—
-
-&emsp;“(1)
-
-In general.—The Administrator may consider the feasibility of using the flight data recording system on aircraft to monitor and record appropriate data related to air inflow quality, including measurements of the exposure of persons aboard the aircraft to contaminants during normal aircraft operation and during incidents involving air quality problems.
-
-&emsp;“(2)
-
-Passenger cabins.—The Administrator may also consider the feasibility of using the flight data recording system to monitor and record data related to the air quality in passengers cabins of aircraft.”
 
 #### Operations of Air Taxi Industry
 
@@ -1376,7 +1590,7 @@ Establishment.—The Administrator \[of the Federal Aviation Administration\], i
 
 “(b)
 
-Procedures for Contracts and Grants.—The Administrator and the heads of the other appropriate Federal agencies shall administer contracts and grantsentered into under the program established under subsection (a) in accordance with procedures developed jointly by the Administrator and the heads of the other appropriate Federal agencies. The procedures should include an integrated acquisition policy for contract and grant requirements and for technical data rights that are not an impediment to joint programs among the Federal Aviation Administration, the other Federal agencies involved, and industry.
+Procedures for Contracts and Grants.—The Administrator and the heads of the other appropriate Federal agencies shall administer contracts and grants entered into under the program established under subsection (a) in accordance with procedures developed jointly by the Administrator and the heads of the other appropriate Federal agencies. The procedures should include an integrated acquisition policy for contract and grant requirements and for technical data rights that are not an impediment to joint programs among the Federal Aviation Administration, the other Federal agencies involved, and industry.
 
 “(c)
 
@@ -1392,7 +1606,75 @@ Program Elements.—The program established under subsection (a) shall include�
 
 Authorization of Appropriations.—Of amounts authorized to be appropriated for fiscal years 1995 and 1996 under section 48102(a) of title 49, United States Code, as amended by section 302 of this title, there are authorized to be appropriated for fiscal years 1995 and 1996, respectively, such sums as may be necessary to carry out this section.”
 
-#### Aircraft Cabin Air Quality Research Program
+#### Air Quality in Aircraft Cabins
+
+Pub. L. 108–176, title VIII, §815, Dec. 12, 2003, 117 Stat. 2592, provided that:
+
+“(a)
+
+In General.—The Administrator of the Federal Aviation Administration shall undertake the studies and analysis called for in the report of the National Research Council entitled ‘The Airliner Cabin Environment and the Health of Passengers and Crew’.
+
+“(b)
+
+Required Activities.—In carrying out this section, the Administrator, at a minimum, shall—
+
+&emsp;“(1) conduct surveillance to monitor ozone in the cabin on a representative number of flights and aircraft to determine compliance with existing Federal Aviation Regulations for ozone;
+
+&emsp;“(2) collect pesticide exposure data to determine exposures of passengers and crew;
+
+&emsp;“(3) analyze samples of residue from aircraft ventilation ducts and filters after air quality incidents to identify the contaminants to which passengers and crew were exposed;
+
+&emsp;“(4) analyze and study cabin air pressure and altitude; and
+
+&emsp;“(5) establish an air quality incident reporting system.
+
+“(c)
+
+Report.—Not later than 30 months after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall transmit to Congress a report on the findings of the Administrator under this section.”
+
+Pub. L. 106–181, title VII, §725, Apr. 5, 2000, 114 Stat. 166, provided that:
+
+“(a)
+
+Study of Air Quality in Passenger Cabins in Commercial Aircraft.—
+
+&emsp;“(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall arrange for and provide necessary data to the National Academy of Sciences to conduct a 12-month, independent study of air quality in passenger cabins of aircraft used in air transportation and foreign air transportation, including the collection of new data, in coordination with the Federal Aviation Administration, to identify contaminants in the aircraft air and develop recommendations for means of reducing such contaminants.
+
+&emsp;“(2)
+
+Alternative air supply.—The study should examine whether contaminants would be reduced by the replacement of engine and auxiliary power unit bleed air with an alternative supply of air for the aircraft passengers and crew.
+
+&emsp;“(3)
+
+Scope.—The study shall include an assessment and quantitative analysis of each of the following:
+
+&emsp;&emsp;“(A) Contaminants of concern, as determined by the National Academy of Sciences.
+
+&emsp;&emsp;“(B) The systems of air supply on aircraft, including the identification of means by which contaminants may enter such systems.
+
+&emsp;&emsp;“(C) The toxicological and health effects of the contaminants of concern, their byproducts, and the products of their degradation.
+
+&emsp;&emsp;“(D) Any contaminant used in the maintenance, operation, or treatment of aircraft, if a passenger or a member of the air crew may be directly exposed to the contaminant.
+
+&emsp;&emsp;“(E) Actual measurements of the contaminants of concern in the air of passenger cabins during actual flights in air transportation or foreign air transportation, along with comparisons of such measurements to actual measurements taken in public buildings.
+
+&emsp;“(4)
+
+Provision of Current Data.—The Administrator shall collect all data of the Federal Aviation Administration that is relevant to the study andmake the data available to the National Academy of Sciences in order to complete the study.
+
+“(b)
+
+Collection of Aircraft Air Quality Data.—
+
+&emsp;“(1)
+
+In general.—The Administrator may consider the feasibility of using the flight data recording system on aircraft to monitor and record appropriate data related to air inflow quality, including measurements of the exposure of persons aboard the aircraft to contaminants during normal aircraft operation and during incidents involving air quality problems.
+
+&emsp;“(2)
+
+Passenger cabins.—The Administrator may also consider the feasibility of using the flight data recording system to monitor and record data related to the air quality in passengers cabins of aircraft.”
 
 Pub. L. 103–305, title III, §304, Aug. 23, 1994, 108 Stat. 1591, provided that:
 
@@ -1474,7 +1756,7 @@ In General.—Except as provided in subsection (b), no civil action for damages 
 
 Exceptions.—Subsection (a) does not apply—
 
-&emsp;“(1) if the claimant pleads with specificity the facts necessary to prove, and proves, that the manufacturer with respect to a type certificate or airworthiness certificate for, or obligations with respect to continuing airworthiness of, an aircraft or a component, system, subassembly, or other part of an aircraft knowingly misrepresented to the Federal Aviation Administration, or concealed or withheld from the Federal Aviation Administration, required information that is material and relevant to the performance or the maintenance or operation of such aircraft, or the component, system, subassembly, orother part, that is causally related to the harm which the claimant allegedly suffered;
+&emsp;“(1) if the claimant pleads with specificity the facts necessary to prove, and proves, that the manufacturer with respect to a type certificate or airworthiness certificate for, or obligations with respect to continuing airworthiness of, an aircraft or a component, system, subassembly, or other part of an aircraft knowingly misrepresented to the Federal Aviation Administration, or concealed or withheld from the Federal Aviation Administration, required information that is material and relevant to the performance or the maintenance or operation of such aircraft, or the component, system, subassembly, or other part, that is causally related to the harm which the claimant allegedly suffered;
 
 &emsp;“(2) if the person for whose injury or death the claim is being made is a passenger for purposes of receiving treatment for a medical or other emergency;
 
@@ -1484,7 +1766,7 @@ Exceptions.—Subsection (a) does not apply—
 
 “(c)
 
-General Aviation Aircraft Defined.—For the purposes of this Act, the term ‘general aviation aircraft’ means any aircraft for which a type certificate or an airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under part A of subtitle VII of title 49, United States Code, at the time of the accident.
+General Aviation Aircraft Defined.—For the purposes of this Act, the term ‘general aviation aircraft’ means any aircraft for which a type certificate oran airworthiness certificate has been issued by the Administrator of the Federal Aviation Administration, which, at the time such certificate was originally issued, had a maximum seating capacity of fewer than 20 passengers, and which was not, at the time of the accident, engaged in scheduled passenger-carrying operations as defined under regulations in effect under part A of subtitle VII of title 49, United States Code, at the time of the accident.
 
 “(d)
 

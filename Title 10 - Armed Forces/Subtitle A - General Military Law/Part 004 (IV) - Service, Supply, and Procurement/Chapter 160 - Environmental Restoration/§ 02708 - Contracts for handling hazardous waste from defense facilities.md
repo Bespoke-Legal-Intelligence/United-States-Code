@@ -52,7 +52,7 @@ Effect on Liability.—Nothing in this section shall affect the liability of the
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Amendments
 

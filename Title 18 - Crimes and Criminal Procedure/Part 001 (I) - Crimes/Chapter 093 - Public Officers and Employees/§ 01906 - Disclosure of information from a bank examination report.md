@@ -28,7 +28,7 @@ Section 3(s) of the Federal Deposit Insurance Act, referred to in text, is class
 
 1982—Pub. L. 97–258 substituted “section 714 of title 31” for “section 117(e) of the Accounting and Auditing Act of 1950” wherever appearing.
 
-1978—Pub. L. 95–320 substituted “from a bank examination report” for “by bank examiner” in section catchline and, in text, substituted “public or private, or a General Accounting Office employee with access to bank examination report information under section 117(e) of the Accounting and Auditing Act of 1950, discloses” for “public or private, discloses”, “examined by him or subject to General Accounting Office auditunder section 117(e) of the Accounting and Auditing Act of 1950 to other than” for “, examined by him, to other than”, and “either House duly authorized or as authorized by section 117(e) of the Accounting and Auditing Act of 1950 shall be fined” for “either House duly authorized, shall be fined”.
+1978—Pub. L. 95–320 substituted “from a bank examination report” for “by bank examiner” in section catchline and, in text, substituted “public or private, or a General Accounting Office employee with access to bank examination report information under section 117(e) of the Accounting and Auditing Act of 1950, discloses” for “public or private, discloses”, “examined by him or subject to General Accounting Office audit under section 117(e) of the Accounting and Auditing Act of 1950 to other than” for “, examined by him, to other than”, and “either House duly authorized or as authorized by section 117(e) of the Accounting and Auditing Act of 1950 shall be fined” for “either House duly authorized, shall be fined”.
 
 #### Exception as to Transfer of Functions
 

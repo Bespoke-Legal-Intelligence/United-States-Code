@@ -6,7 +6,7 @@ The faith of the United States is pledged that upon the completion of the acquis
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated for the first fiscal year under this subchapter, the sum of $1,000,000 and such amounts as may be necessary for the succeeding fiscal years in order to carry out the provisions of this subchapter.
+There is authorized to be appropriated for the first fiscal year under this subchapter, the sumof $1,000,000 and such amounts as may be necessary for the succeeding fiscal years in order to carry out the provisions of this subchapter.
 
 (Pub. L. 95–414, §6, Oct. 5, 1978, 92 Stat. 912.)
 

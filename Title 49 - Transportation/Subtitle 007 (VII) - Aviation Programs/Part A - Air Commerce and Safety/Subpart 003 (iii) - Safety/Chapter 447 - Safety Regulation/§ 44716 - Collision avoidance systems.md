@@ -12,7 +12,7 @@ Development and Certification.—The Administrator of the Federal Aviation Admin
 
 (b)
 
-Installation and Operation.—The Administrator shall require by regulation that, not later than 30 months after the date certification is made under subsection (a)(2) of this section, TCAS–II be installed and operated on each civil aircraft that has a maximum passenger capacity of at least 31 seats and is used to provide air transportation of passengers, including intrastate air transportation of passengers. The Administrator may extend the deadline in this subsection for not more than 2 years if the Administrator finds the extension is necessary to promote—
+Installation and Operation.—The Administrator shall require by regulation that, not later than 30 months after the date certificationis made under subsection (a)(2) of this section, TCAS–II be installed and operated on each civil aircraft that has a maximum passenger capacity of at least 31 seats and is used to provide air transportation of passengers, including intrastate air transportation of passengers. The Administrator may extend the deadline in this subsection for not more than 2 years if the Administrator finds the extension is necessary to promote—
 
 &emsp;(1) a safe and orderly transition to the operation of a fleet of civil aircraft described in this subsection equipped with TCAS–II; or
 
@@ -20,7 +20,7 @@ Installation and Operation.—The Administrator shall require by regulation that
 
 (c)
 
-Operational Evaluation.—Not later than December 30, 1990, the Administrator shall establish a one-year program to collect and assess safety and operational information from civil aircraft equipped with TCAS–II for the operational evaluation of TCAS–II. The Administrator shall encourage foreign air carriers thatoperate civil aircraft equipped with TCAS–II to participate in the program.
+Operational Evaluation.—Not later than December 30, 1990, the Administrator shall establish a one-year program to collect and assess safety and operational information from civil aircraft equipped with TCAS–II for the operational evaluation of TCAS–II. The Administrator shall encourage foreign air carriers that operate civil aircraft equipped with TCAS–II to participate in the program.
 
 (d)
 

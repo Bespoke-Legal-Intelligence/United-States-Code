@@ -14,7 +14,7 @@
 
 #### (2) Regulations
 
-&emsp;In prescribing regulations under paragraph (1) and in carrying out the provisions of this section, the Secretary shall, to the greatest extent possible, take steps to—
+&emsp;In prescribing regulations under paragraph (1) and in carrying out the provisions of thissection, the Secretary shall, to the greatest extent possible, take steps to—
 
 &emsp;&emsp;(A) expedite all applications;
 
@@ -94,7 +94,7 @@ A prior section 5181 was renumbered 5182 of this title.
 
 #### Effective Date
 
-Section 232(h)(3) of Pub. L. 96–223 provided that: “The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title\] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\].”
+Section 232(h)(3) of Pub. L. 96–223 provided that: “The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title\] shall take effect on the first day of thefirst calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\].”
 
 #### Section Referred to in Other Sections
 

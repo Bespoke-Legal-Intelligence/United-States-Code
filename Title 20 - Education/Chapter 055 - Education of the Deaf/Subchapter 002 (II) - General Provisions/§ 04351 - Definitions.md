@@ -50,7 +50,7 @@ Pub. L. 102–421, §131(2), redesignated par. (5) as (4) and struck out former 
 
 Pars. (5), (6). Pub. L. 102–421, §131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-Par. (7). Pub. L. 102–421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palautakes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
+Par. (7). Pub. L. 102–421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
 
 Pars. (8), (9). Pub. L. 102–421, §131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
 

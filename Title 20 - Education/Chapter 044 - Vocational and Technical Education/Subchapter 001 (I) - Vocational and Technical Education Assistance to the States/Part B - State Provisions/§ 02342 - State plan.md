@@ -16,7 +16,7 @@
 
 #### (3) Hearing process
 
-&emsp;The eligible agency shall conduct public hearings in the State, after appropriate andsufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including employers, labor organizations, and parents), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
+&emsp;The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including employers, labor organizations, and parents), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
 
 #### (b) Plan development
 
@@ -92,7 +92,7 @@ The State plan shall include information that—
 
 &emsp;(19) describes how funds will be used effectively to link secondary and postsecondary education;
 
-&emsp;(20) describes how the eligible agency will ensure that the data reported to the eligible agency from local educational agencies and eligible institutions under this subchapter and the data the eligible agency reports to the Secretary are complete, accurate, and reliable; and
+&emsp;(20) describes how the eligible agency will ensure that the data reported to the eligible agency from local educational agencies and eligible institutions under this subchapter andthe data the eligible agency reports to the Secretary are complete, accurate, and reliable; and
 
 &emsp;(21) contains the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts.
 

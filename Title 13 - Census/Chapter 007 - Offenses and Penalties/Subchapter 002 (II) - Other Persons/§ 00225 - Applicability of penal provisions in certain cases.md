@@ -10,7 +10,7 @@
 
 (b) The provisions for imprisonment provided by section 222 of this title shall not apply in connection with any survey conducted pursuant to subchapter II of chapter 3 of this title, or to subchapter IV of chapter 5 of this title.
 
-(c) The provisions of sections 221, 222, 223, and 224 of this title shall not apply to any censusesor surveys of governments provided for by subchapters III and IV of chapter 5 of this title, nor to other surveys provided for by subchapter IV of such chapter which are taken more frequently than annually.
+(c) The provisions of sections 221, 222, 223, and 224 of this title shall not apply to any censuses or surveys of governments provided for by subchapters III and IV of chapter 5 of this title, nor to other surveys provided for by subchapter IV of such chapter which are taken more frequently than annually.
 
 (d) Where the doctrine, teaching, or discipline of any religious denomination or church prohibits the disclosure of information relative to membership, a refusal, in such circumstances, to furnish such information shall not be an offense under this chapter.
 

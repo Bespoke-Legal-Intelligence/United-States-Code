@@ -126,7 +126,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The percentage referred to in subparagraph (A) for any year shall not exceed the percentage at which contributions are made (or required to be made) under theplan for the year for the key employee for whom such percentage is the highest for the year.
+&emsp;&emsp;&emsp;The percentage referred to in subparagraph (A) for any year shall not exceed the percentage at which contributions are made (or required to be made) under the plan for the year for the key employee for whom such percentage is the highest for the year.
 
 #### (ii) Treatment of aggregation groups
 
@@ -142,7 +142,7 @@ A top-heavy plan shall not be treated as meeting the requirement of subsection (
 
 #### (f) Coordination where employer has 2 or more plans
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
 
 #### (g) Top-heavy plan defined
 
@@ -298,7 +298,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) subparagraph (C) of section 318(a)(2) shall be applied by substituting “5 percent” for “50 percent”, and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of any employer which is not a corporation, ownership in suchemployer shall be determined in accordance with regulations prescribed by the Secretary which shall be based on principles similar to the principles of section 318 (as modified by subclause (I)).
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any employer which is not a corporation, ownership in such employer shall be determined in accordance with regulations prescribed by the Secretary which shall be based on principles similar to the principles of section 318 (as modified by subclause (I)).
 
 #### (C) Aggregation rules do not apply for purposes of determining ownership in the employer
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (4) Treatment of employees covered by collective bargaining agreements
 
-&emsp;The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Laborfinds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (5) Treatment of beneficiaries
 
@@ -376,7 +376,7 @@ Subsec. (g)(4)(E). Pub. L. 107–16, §§613(c)(2), 901, in heading temporarily 
 
 Subsec. (g)(4)(H). Pub. L. 107–16, §§613(d), 901, temporarily added subpar. (H). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (i)(1)(A). Pub. L. 107–16, §§613(a)(1)(D), 901, in concluding provisions, temporarily substituted “in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase underthis sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000.” for “For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest.” See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (i)(1)(A). Pub. L. 107–16, §§613(a)(1)(D), 901, in concluding provisions, temporarily substituted “in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000.” for “For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest.” See Effective and Termination Dates of 2001 Amendment note below.
 
 Pub. L. 107–16, §§613(a)(1)(A), 901, temporarily struck out “or any of the 4 preceding plan years” after “plan year” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -454,7 +454,7 @@ Amendment by section 1452(c)(7) of Pub. L. 104–188 applicable to limitation ye
 
 #### Effective Date of 1988 Amendment
 
-Section 1011(j)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by this paragraph \[amendingthis section\] shall apply to years beginning after December 31, 1988.”
+Section 1011(j)(3)(B) of Pub. L. 100–647 provided that: “The amendment made by this paragraph \[amending this section\] shall apply to years beginning after December 31, 1988.”
 
 Amendment by section 1011(d)(8), (i)(4)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -474,7 +474,7 @@ Section 524(b)(2) of Pub. L. 98–369 provided that: “The amendment made by th
 
 Section 524(c)(2) of Pub. L. 98–369 provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
 
-Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity andFiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date
 

@@ -40,7 +40,7 @@ Pub. L. 103–129, §6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except a
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-Rural Electrification Administration and its functions and activities transferred to Department of Agriculture, to be administered therein by Administrator under general direction and supervision of Secretary of Agriculture, by 1939 Reorg. Plan No. II, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of that plan for provisions relating to transfer of functions, records, property, personnel, and funds.
+Rural Electrification Administration and its functions and activities transferred to Department of Agriculture, to be administered therein by Administrator under general direction and supervision of Secretary of Agriculture, by 1939 Reorg. Plan No. II, set out in theAppendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of that plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
 #### Findings; Statement of Policy
 

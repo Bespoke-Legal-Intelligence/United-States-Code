@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 #### (a) Sale of inventory stock
 
-(1) The producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Flue-cured tobacco shall offer to sell the stocks of Flue-cured tobacco of the association fromthe 1976 through 1984 crops as provided in this section.
+(1) The producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Flue-cured tobacco shall offer to sell the stocks of Flue-cured tobacco of the association from the 1976 through 1984 crops as provided in this section.
 
 (2) Each producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Burley tobacco shall offer to sell its stocks of Burley tobacco from the 1982 and 1984 crops as provided in this section.
 

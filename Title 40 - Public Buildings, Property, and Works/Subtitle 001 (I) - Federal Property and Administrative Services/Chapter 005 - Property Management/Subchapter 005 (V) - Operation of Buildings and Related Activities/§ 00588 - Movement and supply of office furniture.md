@@ -38,7 +38,7 @@ In general.—Furniture and furnishings passing to the control of the Administra
 
 &emsp;&emsp;(B)
 
-Exception for trust fund.—If furniture and furnishings that were purchased from a trust fund pass to the control of the Administrator under this section, the Administrator shall reimburse the trust fund for the fair market value of the furniture and furnishings.
+Exception for trust fund.—If furniture and furnishings that were purchased from a trust fund pass to the control of theAdministrator under this section, the Administrator shall reimburse the trust fund for the fair market value of the furniture and furnishings.
 
 &emsp;(3)
 

@@ -220,7 +220,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(12) the nature of nuclear contamination is such that it may affect the health, environment, and property of United States nationals even if the acts that constitute the illegal activity occur outside the territory of the United States, and are primarily directed toward foreign nationals; and
 
-&emsp;“(13) there is presently no Federal criminal statute that provides adequate protection to United States interests from nonweapons grade, yet hazardous radioactive material, and from the illegal diversion of nuclear materials that are held for other than peaceful purposes.
+&emsp;“(13) there is presently no Federal criminal statute that provides adequate protection to United Statesinterests from nonweapons grade, yet hazardous radioactive material, and from the illegal diversion of nuclear materials that are held for other than peaceful purposes.
 
 “(b)
 
@@ -228,5 +228,5 @@ Purpose.—The purpose of this title \[enacting section 2332c of this title, ame
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 951, 1956, 2332b, 2339, 2339A, 2516 of this title.
+This section is referred to in sections 951, 1956, 2332b, 2339, 2339A, 2516 of this title; title 38 section 6105.
 

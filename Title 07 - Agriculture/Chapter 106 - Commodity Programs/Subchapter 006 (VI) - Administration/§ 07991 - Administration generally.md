@@ -40,7 +40,7 @@ The protection that was afforded producers that had an option to elect to accele
 
 #### (1) Required determination; adjustment
 
-&emsp;If the Secretary determines that expenditures under subchapters I through V of this chapter that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19), as in effect on May 13, 2002, will exceed such allowable levels for any applicablereporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed such allowable levels.
+&emsp;If the Secretary determines that expenditures under subchapters I through V of this chapter that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19), as in effect on May 13, 2002, will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed such allowable levels.
 
 #### (2) Congressional notification
 

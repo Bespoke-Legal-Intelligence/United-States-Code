@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “structured settlement factoring transaction” means a transfer of structured settlement payment rights (including portions of structured settlement payments)made for consideration by means of sale, assignment, pledge, or other form of encumbrance or alienation for consideration.
+&emsp;&emsp;The term “structured settlement factoring transaction” means a transfer of structured settlement payment rights (including portions of structured settlement payments) made for consideration by means of sale, assignment, pledge, or other form of encumbrance or alienation for consideration.
 
 #### (B) Exception
 
@@ -174,7 +174,7 @@ Transition rule.—In the case of a structured settlement factoring transaction 
 
 #### Amendments
 
-1980—Pub. L. 96–589, §6(g)(3)(E), Dec. 24, 1980, 94 Stat. 3410, substituted “Jeopardy, receiverships, etc.” for“Jeopardy, bankruptcy and receiverships” in item for chapter 70.
+1980—Pub. L. 96–589, §6(g)(3)(E), Dec. 24, 1980, 94 Stat. 3410, substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.
 
 #### Subtitle Referred to in Other Sections
 

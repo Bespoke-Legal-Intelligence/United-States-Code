@@ -1,12 +1,20 @@
 ### §64–3. Reimbursement for Capitol Police salaries paid by Senate for service at Federal Law Enforcement Training Center
 
-Notwithstanding any other provision of law, the Secretary of the Senate is authorized to receive moneys from the Department of the Treasury as reimbursements for salaries paid by the United States Senate in connection with certain officers and members of the United States Capitol Police serving as instructors at the Federal Law Enforcement Training Center. Moneys so received shall be deposited in the Treasury of the United States as miscellaneous receipts.
+Notwithstanding any other provision of law, the Chief of the Capitol Police is authorized to receive moneys from the Department of the Treasury as reimbursements for salaries paid by the Capitol Police in connection with certain officers and members of the United States Capitol Police serving as instructors at the Federal Law Enforcement Training Center. Moneys so received shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(Pub. L. 95–26, title I, §111, May 4, 1977, 91 Stat. 87.)
+(Pub. L. 95–26, title I, §111, May 4, 1977, 91 Stat. 87; Pub. L. 108–7, div. H, title I, §1018(h)(3), Feb. 20, 2003, 117 Stat. 369.)
 
 #### Codification
 
 Section is from the Supplemental Appropriations Act, 1977.
+
+#### Amendments
+
+<b>2003</b>—Pub. L. 108–7 substituted “Chief of the Capitol Police” for “Secretary of the Senate” and “the Capitol Police” for “the United States Senate”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal year 2003 and each fiscal year thereafter, see section 1907(i) of this title.
 
 #### Transfer of Functions
 

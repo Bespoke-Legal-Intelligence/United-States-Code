@@ -41,6 +41,7 @@
 | (q) | Waiver of regulations. |
 | (r) | Program evaluation and monitoring. |
 | (s) | Authorization of appropriations; allocations for staff and training. |
+| (t) | Training regarding issues relating to grandparent-headed and relative-headed families. |
 | [3536\.](%C2%A7%2003536%20-%20Annual%20reports.md) | Annual reports. |
 | [3537\.](%C2%A7%2003537%20-%20Separability.md) | Separability. |
 | [3537a.](%C2%A7%2003537a%20-%20Prohibition%20of%20advance%20disclosure%20of%20funding%20decisions.md) | Prohibition of advance disclosure of funding decisions. |
@@ -91,6 +92,7 @@
 | (c) | “Domestic product” defined. |
 | [3547\.](%C2%A7%2003547%20-%20Special%20projects.md) | Special projects. |
 | [3548\.](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md) | Semiannual report on contracts and task orders. |
+| [3549\.](%C2%A7%2003549%20-%20Investigation%20of%20violations.md) | Investigation of violations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -125,3 +127,4 @@ This chapter is referred to in title 12 section 1701d–4.
 - [&sect; 03546 - Use of domestic products](%C2%A7%2003546%20-%20Use%20of%20domestic%20products.md)
 - [&sect; 03547 - Special projects](%C2%A7%2003547%20-%20Special%20projects.md)
 - [&sect; 03548 - Semiannual report on contracts and task orders](%C2%A7%2003548%20-%20Semiannual%20report%20on%20contracts%20and%20task%20orders.md)
+- [&sect; 03549 - Investigation of violations](%C2%A7%2003549%20-%20Investigation%20of%20violations.md)

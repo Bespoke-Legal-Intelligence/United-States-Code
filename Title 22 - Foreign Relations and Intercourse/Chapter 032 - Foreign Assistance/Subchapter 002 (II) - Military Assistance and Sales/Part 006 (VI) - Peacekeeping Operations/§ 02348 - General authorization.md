@@ -6,7 +6,7 @@ The President is authorized to furnish assistance to friendly countries and inte
 
 #### Amendments
 
-1979—Pub. L. 96–92 authorized reimbursement of Department of Defense for expenses incurred in furnishing assistance to the United States limited to $5,000,000 per fiscal year unless specifically authorized.
+1979—Pub. L. 96–92 authorized reimbursement of Department of Defense for expenses incurred in furnishingassistance to the United States limited to $5,000,000 per fiscal year unless specifically authorized.
 
 #### Delegation of Functions
 

@@ -2,7 +2,7 @@
 
 #### (a) Protection of park
 
-The Secretary shall cooperate with, and seek cooperation from, other Federal, State, andlocal agencies (including the Federal Aviation Administration) to protect the park from undue noise intrusions, air pollution, and visual degradation.
+The Secretary shall cooperate with, and seek cooperation from, other Federal, State, and local agencies (including the Federal Aviation Administration) to protect the park from undue noise intrusions, air pollution, and visual degradation.
 
 #### (b) Monitoring and notification of noise pollution; conforming to noise pollution standards; enjoinder of easement violations
 

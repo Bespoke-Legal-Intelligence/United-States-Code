@@ -37,6 +37,7 @@
 | [36a.](%C2%A7%2000036a%20-%20Acquisition%20of%20scientific%20or%20technical%20books%2C%20maps%2C%20etc.%2C%20for%20library.md) | Acquisition of scientific or technical books, maps, etc., for library. |
 | [36b.](%C2%A7%2000036b%20-%20Acquisition%20of%20lands%20or%20interests%20therein%20for%20use%20in%20gaging%20streams%20or%20underground%20water%20resources.md) | Acquisition of lands or interests therein for use in gaging streams or underground water resources. |
 | [36c.](%C2%A7%2000036c%20-%20Acceptance%20of%20contributions%20from%20public%20and%20private%20sources%3B%20cooperation%20with%20other%20agencies%20in%20prosecution%20of%20projects.md) | Acceptance of contributions from public and private sources; cooperation with other agencies in prosecution of projects. |
+| [36d.](%C2%A7%2000036d%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [37\.](%C2%A7%2000037%20-%20Omitted.md) | Omitted. |
 | [38\.](%C2%A7%2000038%20-%20Topographic%20surveys%3B%20marking%20elevations.md) | Topographic surveys; marking elevations. |
 | 39, 40. | Omitted. |
@@ -81,6 +82,7 @@
 - [&sect; 00036a - Acquisition of scientific or technical books, maps, etc., for library](%C2%A7%2000036a%20-%20Acquisition%20of%20scientific%20or%20technical%20books%2C%20maps%2C%20etc.%2C%20for%20library.md)
 - [&sect; 00036b - Acquisition of lands or interests therein for use in gaging streams or underground water resources](%C2%A7%2000036b%20-%20Acquisition%20of%20lands%20or%20interests%20therein%20for%20use%20in%20gaging%20streams%20or%20underground%20water%20resources.md)
 - [&sect; 00036c - Acceptance of contributions from public and private sources; cooperation with other agencies in prosecution of projects](%C2%A7%2000036c%20-%20Acceptance%20of%20contributions%20from%20public%20and%20private%20sources%3B%20cooperation%20with%20other%20agencies%20in%20prosecution%20of%20projects.md)
+- [&sect; 00036d - Cooperative agreements](%C2%A7%2000036d%20-%20Cooperative%20agreements.md)
 - [&sect; 00037 - Omitted](%C2%A7%2000037%20-%20Omitted.md)
 - [&sect; 00038 - Topographic surveys; marking elevations](%C2%A7%2000038%20-%20Topographic%20surveys%3B%20marking%20elevations.md)
 - [&sect; 00039, 40 - Omitted](%C2%A7%2000039%2C%2040%20-%20Omitted.md)

@@ -56,7 +56,7 @@ Subsec. (f). Pub. L. 104–132, §328(a)(3), struck out subsec. (f) which read a
 
 “(1) Training services provided pursuant to this part shall not be conducted outside the United States.
 
-“(2) Personnel of the United States Government authorized to advise eligible foreign countries on antiterrorism matters shall carry out their responsibilities,to the maximum extent possible, within the United States. Such personnel may provide advice outside the United States on antiterrorism matters to eligible foreign countries for periods not to exceed thirty consecutive calendar days.
+“(2) Personnel of the United States Government authorized to advise eligible foreign countries on antiterrorism matters shall carry out their responsibilities, to the maximum extent possible, within the United States. Such personnel may provide advice outside the United States on antiterrorism matters to eligible foreign countries for periods not to exceed thirty consecutive calendar days.
 
 “(3) Employees of the Department of State shall not engage in the training of law enforcement personnel or provision of services under this part, except that employees of the Office of Security of the Department of State may provide training and services to law enforcement personnel for the physical protection of internationally protected persons and related facilities.”
 

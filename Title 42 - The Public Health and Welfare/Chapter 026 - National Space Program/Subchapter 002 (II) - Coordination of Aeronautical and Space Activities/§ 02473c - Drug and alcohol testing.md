@@ -60,7 +60,7 @@ In establishing the programs required under subsection (c) of this section, the 
 
 &emsp;(2) with respect to laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any subsequent amendments thereto, including mandatory guidelines which—
 
-&emsp;&emsp;(A) establish comprehensive standards for all aspects of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards which require the use of the best available technology for ensuring the full reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimen samples collected for controlled substances testing;
+&emsp;&emsp;(A) establish comprehensive standards for all aspects of laboratory controlled substances testing and laboratory procedures tobe applied in carrying out this section, including standards which require the use of the best available technology for ensuring the full reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimen samples collected for controlled substances testing;
 
 &emsp;&emsp;(B) establish the minimum list of controlled substances for which individuals may be tested; and
 
@@ -76,7 +76,7 @@ In establishing the programs required under subsection (c) of this section, the 
 
 &emsp;(7) provide for the confidentiality of test results and medical information of employees; and
 
-&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartialmethods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
 #### (g) Effect on other laws and regulations
 

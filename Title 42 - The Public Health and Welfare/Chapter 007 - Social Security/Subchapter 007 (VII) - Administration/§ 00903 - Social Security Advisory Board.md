@@ -34,7 +34,7 @@ On and after the date the Commissioner takes office, the Board shall advise the 
 
 &emsp;(B) 2 members (each member from a different political party) shall be appointed by the President pro tempore of the Senate with the advice of the Chairman and the Ranking Minority Member of the Senate Committee on Finance.
 
-&emsp;(C) 2 members (each member from a different political party) shall be appointed by the Speaker of the House of Representatives, with the advice of the Chairman and theRanking Minority Member of the House Committee on Ways and Means.
+&emsp;(C) 2 members (each member from a different political party) shall be appointed by the Speaker of the House of Representatives, with the advice of the Chairman and the Ranking Minority Member of the House Committee on Ways and Means.
 
 (2) The members shall be chosen on the basis of their integrity, impartiality, and good judgment, and shall be individuals who are, by reason of their education, experience, and attainments, exceptionally qualified to perform the duties of members of the Board.
 
@@ -96,7 +96,7 @@ There are authorized to be appropriated, out of the Federal Disability Insurance
 
 #### References In Text
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The provisions of title 5 relating to the competitive service, referred to in subsec. (i), are classified generally to section 3301 et seq. of Title 5.
 

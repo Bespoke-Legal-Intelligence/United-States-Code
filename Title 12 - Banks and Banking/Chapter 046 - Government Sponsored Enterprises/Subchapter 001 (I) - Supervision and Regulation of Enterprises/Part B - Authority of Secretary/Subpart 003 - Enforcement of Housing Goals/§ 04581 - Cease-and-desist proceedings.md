@@ -26,7 +26,7 @@ An order under this section shall become effective upon the expiration of the 30
 
 #### (d) Transition period limitation
 
-The Secretary may not impose any cease-and-desist order under this section for any failure by an enterprise, during the 2-year period beginning on the <sup>1</sup> January 1, 1993, to comply with an approved housing plan, unless the Secretary determines that the enterprise has intentionally failed to make a good faith effort to comply with the approved plan.
+The Secretary may not impose any cease-and-desist order under this section for any failure by an enterprise, during the 2-year period beginning on the <sup>1</sup> January 1, 1993, to comply with an approved housing plan, unless the Secretary determines that the enterprise has intentionallyfailed to make a good faith effort to comply with the approved plan.
 
 (Pub. L. 102–550, title XIII, §1341, Oct. 28, 1992, 106 Stat. 3964.)
 

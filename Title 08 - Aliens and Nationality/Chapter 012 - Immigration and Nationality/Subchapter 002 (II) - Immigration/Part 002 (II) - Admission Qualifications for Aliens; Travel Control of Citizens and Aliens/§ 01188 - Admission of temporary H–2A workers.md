@@ -18,7 +18,7 @@ The Secretary of Labor may not issue a certification under subsection (a) of thi
 
 &emsp;(2)(A) The employer during the previous two-year period employed H–2A workers and the Secretary of Labor has determined, after notice and opportunity for a hearing, that the employer at any time during that period substantially violated a material term or condition of the labor certification with respect to the employment of domestic or nonimmigrant workers.
 
-&emsp;(B) No employer may be denied certification under subparagraph (A) for more than three years for any violation described in such subparagraph.
+&emsp;(B) No employer may be denied certification under subparagraph (A) for more than threeyears for any violation described in such subparagraph.
 
 &emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if the employment for which the certification is sought is not covered by State workers’ compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers’ compensation law for comparable employment.
 
@@ -72,7 +72,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (4) Housing
 
-&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets therequirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
+&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
 
 #### (d) Roles of agricultural associations
 
@@ -100,7 +100,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 (1) Regulations shall provide for an expedited procedure for the review of a denial of certification under subsection (a)(1) of this section or a revocation of such a certification or, at the applicant's request, for a de novo administrative hearing respecting the denial or revocation.
 
-(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the time a new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
+(2) The Secretary of Labor shall expeditiously, but in no case later than 72 hours after the timea new determination is requested, make a new determination on the request for certification in the case of an H–2A worker if able, willing, and qualified eligible individuals are not actually available at the time such labor or services are required and a certification was denied in whole or in part because of the availability of qualified workers. If the employer asserts that any eligible individual who has been referred is not able, willing, or qualified, the burden of proof is on the employer to establish that the individual referred is not able, willing, or qualified because of employment-related reasons.
 
 #### (f) Violators disqualified for 5 years
 
@@ -122,7 +122,7 @@ An alien may not be admitted to the United States as a temporary agricultural wo
 
 #### (h) Miscellaneous provisions
 
-(1) The Attorney General shall provide for such endorsement of entry and exit documentsof nonimmigrants described in section 1101(a)(15)(H)(ii) of this title as may be necessary to carry out this section and to provide notice for purposes of section 1324a of this title.
+(1) The Attorney General shall provide for such endorsement of entry and exit documents of nonimmigrants described in section 1101(a)(15)(H)(ii) of this title as may be necessary to carry out this section and to provide notice for purposes of section 1324a of this title.
 
 (2) The provisions of subsections (a) and (c) of section 1184 of this title and the provisions of this section preempt any State or local law regulating admissibility of nonimmigrant workers.
 
@@ -212,7 +212,7 @@ Presidential Reports.—The President shall transmit to the Committees on the Ju
 
 &emsp;&emsp;“(A) improving the timeliness of decisions regarding admission of temporary foreign workers under the program,
 
-&emsp;&emsp;“(B) removing any economic disincentives to hiring United States citizens or permanent residentaliens for jobs for which temporary foreign workers have been requested,
+&emsp;&emsp;“(B) removing any economic disincentives to hiring United States citizens or permanent resident aliens for jobs for which temporary foreign workers have been requested,
 
 &emsp;&emsp;“(C) improving cooperation among government agencies, employers, employer associations, workers, unions, and other worker associations to end the dependence of any industry on a constant supply of temporary foreign workers, and
 

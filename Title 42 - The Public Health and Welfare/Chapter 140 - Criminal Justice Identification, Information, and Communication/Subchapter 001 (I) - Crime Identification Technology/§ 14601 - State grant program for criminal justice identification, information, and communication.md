@@ -62,7 +62,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;
 
-&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment ofrisk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
+&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
 
 &emsp;(18) notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 
@@ -74,7 +74,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (2) Information sharing
 
-&emsp;Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. The strategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—
+&emsp;Such assurances shall include a provision that ensures that a statewide strategy for information sharing systems is underway, or will be initiated, to improve the functioning of the criminal justice system, with an emphasis on integration of all criminal justice components, law enforcement, courts, prosecution, corrections, and probation and parole. Thestrategy shall be prepared after consultation with State and local officials with emphasis on the recommendation of officials whose duty it is to oversee, plan, and implement integrated information technology systems, and shall contain—
 
 &emsp;&emsp;(A) a definition and analysis of “integration” in the State and localities developing integrated information sharing systems;
 

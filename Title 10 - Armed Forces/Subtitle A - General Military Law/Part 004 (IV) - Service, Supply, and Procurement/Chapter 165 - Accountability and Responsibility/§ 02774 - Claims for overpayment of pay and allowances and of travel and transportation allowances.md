@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316, §105(b)(1), substituted “Director of the Office of Management and Budget” for “Comptroller General” in par. (1), and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
+1996—Subsec. (a). Pub. L. 104–316, §105(b)(1), substituted “Director of the Office of Management and Budget” for “Comptroller General” in par. (1), and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) whichread as follows “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
 
 Subsec. (b). Pub. L. 104–316, §105(b)(2), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
 

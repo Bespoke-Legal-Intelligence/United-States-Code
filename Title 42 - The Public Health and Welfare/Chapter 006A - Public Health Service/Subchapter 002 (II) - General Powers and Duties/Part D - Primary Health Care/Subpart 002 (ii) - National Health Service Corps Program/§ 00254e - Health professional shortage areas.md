@@ -2,7 +2,7 @@
 
 #### (a) Designation by Secretary; removal from areas designated; “medical facility” defined
 
-(1) For purposes of this subpart the term “health professional shortage area” means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment,<sup>1</sup> and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act,<sup>1</sup> that revise the definition of a health professional shortage area for purposes of this section. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence, and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
+(1) For purposes of this subpart the term “health professional shortage area” means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence, and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
 
 (2) For purposes of this subsection, the term “medical facility” means a facility for the delivery of health services and includes—
 
@@ -14,7 +14,7 @@
 
 &emsp;(D) a Federal medical facility.
 
-(3) Homeless individuals (as defined in section 254b(h)(4) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
+(3) Homeless individuals (as defined in section 254b(h)(5) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups under paragraph (1).
 
 #### (b) Criteria for designation of health professional shortage areas; promulgation of regulations
 
@@ -22,7 +22,7 @@ The Secretary shall establish by regulation criteria for the designation of area
 
 &emsp;(1) The ratio of available health manpower to the number of individuals in an area or population group, or served by a medical facility or other public facility under consideration for designation.
 
-&emsp;(2) Indicators of a need, notwithstanding the supply of health manpower, for health services for the individuals in an area or population group or served by a medical facility or otherpublic facility under consideration for designation,.<sup>2</sup>
+&emsp;(2) Indicators of a need, notwithstanding the supply of health manpower, for health services for the individuals in an area or population group or served by a medical facility or other public facility under consideration for designation.
 
 &emsp;(3) The percentage of physicians serving an area, population group, medical facility, or other public facility under consideration for designation who are employed by hospitals and who are graduates of foreign medical schools.
 
@@ -74,19 +74,39 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 &emsp;(4) the representative of any area, population group, or facility determined by the Administrator to be likely to meet the criteria described in subsection (b) of this section.
 
-(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664.)
+#### (j) Regulations and report
+
+(1) The Secretary shall submit the report described in paragraph (2) if the Secretary, acting through the Administrator of the Health Resources and Services Administration, issues—
+
+&emsp;(A) a regulation that revises the definition of a health professional shortage area for purposes of this section; or
+
+&emsp;(B) a regulation that revises the standards concerning priority of such an area under section 254f–1 of this title.
+
+(2) On issuing a regulation described in paragraph (1), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that describes the regulation.
+
+(3) Each regulation described in paragraph (1) shall take effect 180 days after the committees described in paragraph (2) receive a report referred to in such paragraph describing the regulation.
+
+(July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021.)
 
 #### References in Text
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX\(§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 332 of act July 1, 1944, was renumbered section 340, and was classified to section 256 of this title prior to repeal by Pub. L. 95–626.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–163, §2(f)(1)(A), substituted “such date of designation” for “such date of enactment” and “regarding” for “, issued after the date of enactment of this Act, that revise”.
+
+Subsec. (a)(3). Pub. L. 108–163, §2(f)(1)(B), substituted “254b(h)(5)” for “254b(h)(4)”.
+
+Subsec. (b)(2). Pub. L. 108–163, §2(f)(1)(C), struck out comma before period at end.
+
+Subsec. (j). Pub. L. 108–163, §2(f)(1)(D), added subsec. (j).
 
 2002—Subsec. (a)(1). Pub. L. 107–251, §302(a)(1)(A), inserted after first sentence “All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section.”
 
@@ -138,7 +158,7 @@ Pub. L. 101–597, §102(c)(4), redesignated par. (3) as (2) and struck out form
 
 “(A) each health systems agency (designated under section 300<i>l</i>–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
 
-“(B) the State health planning and development agency of the State (designated under section 300m of this title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
+“(B) the State health planning and development agency of the State (designated under section 300m ofthis title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
 
 Subsecs. (g), (h). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
@@ -162,11 +182,15 @@ Subsec. (h). Pub. L. 97–35, §2702(b), substituted “may” for “shall”.
 
 1977—Subsec. (c)(3). Pub. L. 95–142 added par. (3).
 
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+
 #### Effective Date of 1988 Amendments
 
 Section 631 of title VI of Pub. L. 100–628 provided that: “The amendments made by subsection (a) of section 601 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 7, 1988\], whichever occurs later.”
 
-Section 831 of title VIII of Pub. L. 100–607 provided that: “The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisionsset out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later.”
+Section 831 of title VIII of Pub. L. 100–607 provided that: “The amendments made by subsection (a) of section 801 \[amending section 256 of this title\] shall take effect in accordance with subsection (b) of such section \[formerly set out as a note under section 256 of this title\]. The amendments otherwise made by this title \[amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title\] shall take effect October 1, 1988, or upon the date of the enactment of this Act \[Nov. 4, 1988\], whichever occurs later.”
 
 #### Effective Date of 1981 Amendment
 
@@ -178,27 +202,7 @@ Section 7(e)(1) of Pub. L. 95–142 provided that: “The amendment made by subs
 
 #### Regulations
 
-Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, provided that:
-
-“(1)
-
-Report.—
-
-&emsp;“(A)
-
-In general.—The Secretary shall submit the report described in subparagraph (B) if the Secretary, acting through the Administrator of the Health Resources and Services Administration, issues—
-
-&emsp;&emsp;“(i) a regulation that revises the definition of a health professional shortage area for purposes of section 332 of the Public Health Service Act (42 U.S.C. 254e); or
-
-&emsp;&emsp;“(ii) a regulation that revises the standards concerning priority of such an area under section 333A of that Act (42 U.S.C. 254f–1).
-
-&emsp;“(B)
-
-Report.—On issuing a regulation described in subparagraph (A), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that describes the regulation.
-
-“(2)
-
-Effective date.—Each regulation described in paragraph (1)(A) shall take effect 180 days after the committees described in paragraph (1)(B) receive a report referred to in paragraph (1)(B) describing the regulation.”
+Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, which required the Secretary to submit a report to Congress, if the Secretary issued regulations revising the definition of a health professional shortage area under this section and standards concerning priority of such an area under section 254f–1 of this title, was repealed by Pub. L. 108–163, §2(f)(2), Dec. 6, 2003, 117 Stat. 2022.
 
 #### Improvement of Site Designation Process
 
@@ -219,8 +223,4 @@ Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Se
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 254c, 254d, 254f, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254n, 254p, 254t, 256f, 295p, 296j, 297q, 1395<i>l</i>, 1395m, 1395x, 9840, 11709 of this title; title 5 section 8902; title 8 section 1182.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

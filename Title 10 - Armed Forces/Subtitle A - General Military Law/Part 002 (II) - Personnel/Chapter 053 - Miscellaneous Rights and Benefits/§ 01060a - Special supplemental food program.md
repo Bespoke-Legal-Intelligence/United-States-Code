@@ -26,13 +26,13 @@ Departure From Standards.—The Secretary of Defense may authorize departures fr
 
 Rebate Agreements With Food Producers.—(1) In the administration of the program under this section, the Secretary of Defense may enter into a contract with a producer of a particular brand of food that provides for—
 
-&emsp;(A) the Secretary of Defense to procure that particular brand of food, exclusive of other brands of the same or similar food, for the purpose of providing the food in commissary stores of the Department of Defense as a supplemental food under the program; and
+&emsp;(A) the Secretary of Defense to procure that particular brand of food, exclusive of other brands of the same or similar food, for the purpose of providing the food in commissary stores or Navy Exchange Markets of the Department of Defense as a supplemental food under the program; and
 
 &emsp;(B) the producer to rebate to the Secretary amounts equal to agreed portions of the amounts paid by the Secretary for the procurement of that particular brand of food for the program.
 
 (2) The Secretary of Defense shall use competitive procedures under chapter 137 of this title to enter into contracts under this subsection.
 
-(3) The period covered by a contract entered into under this subsection may not exceed one year. No such contract may be extended by amodification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
+(3) The period covered by a contract entered into under this subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
 
 (4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to the appropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
 
@@ -62,13 +62,17 @@ Definitions.—In this section:
 
 &emsp;(4) The terms “nutrition education” and “supplemental foods” have the meanings given the terms in section 17(b) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(b)).
 
-(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, §674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title VI, §662\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, §334, Dec. 28, 2001, 115 Stat. 1059.)
+(Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, §674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title VI, §662\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, §334, Dec. 28, 2001, 115 Stat. 1059; Pub. L. 107–314, div. A, title III, §324, Dec. 2, 2002, 116 Stat. 2511.)
 
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
+
+2002—Subsec. (e)(1)(A). Pub. L. 107–314, §324(a), inserted “or Navy Exchange Markets” after “commissary stores”.
+
+Subsec. (e)(3). Pub. L. 107–314, §324(b), in first sentence, substituted “subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years” for “subsection may not exceed one year”.
 
 2001—Subsecs. (e) to (g). Pub. L. 107–107 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
@@ -90,7 +94,7 @@ Subsec. (f)(4). Pub. L. 106–65, §674(d), added par. (4).
 
 1997—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786).”
 
-1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
+1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigrationand Nationality Act (8 U.S.C. 1101 et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))”.
 
 #### Report on Implementation of Special Supplemental Food Program
 

@@ -26,6 +26,8 @@
 - [&sect; 02459f - Appropriation accounts; transfers](%C2%A7%2002459f%20-%20Appropriation%20accounts%3B%20transfers.md)
 - [&sect; 02459g - Requirement for independent cost analysis](%C2%A7%2002459g%20-%20Requirement%20for%20independent%20cost%20analysis.md)
 - [&sect; 02459h - Cost effectiveness calculations](%C2%A7%2002459h%20-%20Cost%20effectiveness%20calculations.md)
+- [&sect; 02459i - Working capital fund](%C2%A7%2002459i%20-%20Working%20capital%20fund.md)
+- [&sect; 02459j - Enhanced-use lease of real property demonstration](%C2%A7%2002459j%20-%20Enhanced-use%20lease%20of%20real%20property%20demonstration.md)
 - [&sect; 02460 - Appropriations; prior authorization by Congress](%C2%A7%2002460%20-%20Appropriations%3B%20prior%20authorization%20by%20Congress.md)
 - [&sect; 02461 - Congressional Space Medal of Honor; appropriations](%C2%A7%2002461%20-%20Congressional%20Space%20Medal%20of%20Honor%3B%20appropriations.md)
 - [&sect; 02462 - Repealed. Pub. L. 97&#8211;96, &sect;8, Dec. 21, 1981, 95 Stat. 1211](%C2%A7%2002462%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9396%2C%20%C2%A78%2C%20Dec.%2021%2C%201981%2C%2095%20Stat.%201211.md)

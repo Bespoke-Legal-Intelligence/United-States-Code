@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 &emsp;(2) The term “benefit”, “benefit of employment”, or “rights and benefits” means any advantage, profit, privilege, gain, status, account, or interest (other than wages or salary for work performed) that accrues by reason of an employment contract or agreement or an employer policy, plan, or practice and includes rights and benefits under a pension plan, a health plan, an employee stock ownership plan, insurance coverage and awards, bonuses, severance pay, supplemental unemployment benefits, vacations, and the opportunity to select work hours or location of employment.
 
-&emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States orthat is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
+&emsp;(3) The term “employee” means any person employed by an employer. Such term includes any person who is a citizen, national, or permanent resident alien of the United States employed in a workplace in a foreign country by an employer that is an entity incorporated or otherwise organized in the United States or that is controlled by an entity organized in the United States, within the meaning of section 4319(c) of this title.
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the term “employer” means any person, institution, organization, or other entity that pays salary or wages for work performed or that has control over employment opportunities, including—
 
@@ -60,7 +60,7 @@ For the purposes of this chapter—
 
 #### Prior Provisions
 
-A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1596, §2023; amended Pub.L. 97–295, §4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered §4303 and amended Pub. L. 102–568, title V, §506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
+A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1596, §2023; amended Pub. L. 97–295, §4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered §4303 and amended Pub. L. 102–568, title V, §506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under section 4301 of this title.
 
 Another prior section 4303 was renumbered section 7603 of this title.
 

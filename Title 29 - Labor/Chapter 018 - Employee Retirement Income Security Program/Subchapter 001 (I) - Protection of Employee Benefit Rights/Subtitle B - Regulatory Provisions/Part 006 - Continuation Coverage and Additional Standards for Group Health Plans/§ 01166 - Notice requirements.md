@@ -36,7 +36,7 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 1996—Subsec. (a)(3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this part” for “at the time of a qualifying event described in section 1163(2) of this title”.
 
-1989—Pub. L. 101–239, §7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted “For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
+1989—Pub. L. 101–239, §7891(d)(1)(A)(ii), designated first sentence as subsec. (a), added subsec. (b), designated second sentence as subsec. (c), and substituted“For purposes of subsection (a)(4) of this section” for “For purposes of paragraph (4)”.
 
 Pub. L. 101–239, §7891(d)(1)(A)(i)(II), inserted in last sentence “(or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan)” after “14 days”.
 

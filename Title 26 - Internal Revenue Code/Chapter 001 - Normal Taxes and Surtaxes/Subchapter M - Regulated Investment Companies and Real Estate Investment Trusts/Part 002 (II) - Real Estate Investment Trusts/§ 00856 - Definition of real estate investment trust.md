@@ -26,7 +26,7 @@ The conditions described in paragraphs (1) to (4), inclusive, of subsection (a) 
 
 A corporation, trust, or association shall not be considered a real estate investment trust for any taxable year unless—
 
-&emsp;(1) it files with its return for the taxable year an election to be a real estate investment trust or has made such election for a previous taxable year, and such election has not been terminated or revoked under subsection (g);
+&emsp;(1) it files with its return for the taxable year an election to be a real estate investment trust or has made such election for a previoustaxable year, and such election has not been terminated or revoked under subsection (g);
 
 &emsp;(2) at least 95 percent (90 percent for taxable years beginning before January 1, 1980) of its gross income (excluding gross income from prohibited transactions) is derived from—
 
@@ -262,7 +262,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible independent contractor” means, with respect to any qualified lodging facility, any independent contractorif, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate the facility, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities for any person who is not a related person with respect to the real estate investment trust or the taxable REIT subsidiary.
+&emsp;&emsp;The term “eligible independent contractor” means, with respect to any qualified lodging facility, any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate the facility, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities for any person who is not a related person with respect to the real estate investment trust or the taxable REIT subsidiary.
 
 #### (B) Special rules
 
@@ -406,7 +406,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 &emsp;&emsp;(B) a portion of the amount which such debtor receives or accrues, directly or indirectly, from tenants consists of qualified rents (as defined in subsection (d)(6)(B)),
 
-> &emsp;then the amounts which the trust receives or accrues from such debtor shall not be excluded from the term “interest” by reason of being based on the income or profits of such debtor to the extent the amounts so received are attributable to qualified rents received or accrued by such debtor.
+> &emsp;then the amounts which the trust receives or accrues from such debtor shall not be excluded from the term “interest” by reason of being based on the income or profits of such debtorto the extent the amounts so received are attributable to qualified rents received or accrued by such debtor.
 
 #### (g) Termination of election
 
@@ -470,7 +470,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (C) Treatment for purposes of unrelated business tax
 
-&emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in any pension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income from an unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the “REIT year”) as—
+&emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in any pension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income froman unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the “REIT year”) as—
 
 &emsp;&emsp;&emsp;(i) the gross income (less direct expenses related thereto) of the REIT for the REIT year from unrelated trades or businesses (determined as if the REIT were a qualified trust), bears to
 
@@ -786,7 +786,7 @@ Subsec. (i). Pub. L. 99–514, §662(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 99–514, §662(c), added subsec. (j).
 
-1984—Subsec. (c)(4)(A). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquiredafter June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+1984—Subsec. (c)(4)(A). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 1978—Subsec. (c)(2)(H). Pub. L. 95–600, §363(a)(1), added subpar. (H).
 
@@ -804,7 +804,7 @@ Subsec. (c). Pub. L. 94–455, §1604(f)(3)(A), in introductory provision substi
 
 Subsec. (c)(1). Pub. L. 94–455, §§1604(k)(2)(A), 1901(a)(111)(A), struck out reference to which began after Dec. 31, 1960 and inserted reference to such election has not been terminated or revoked under subsec. (g).
 
-Subsec. (c)(2). Pub. L. 94–455, §§1603(c)(2), 1604(a), (c)(1), in introductory provision substituted “95 percent (90 percent for taxable years beginning before January 1, 1980) of its gross income (excluding gross income from prohibited transactions)” for “90 percent of its gross income”, in subpar. (D) inserted reference to which is not property not described in section 1221(1), and added subpar. (G).
+Subsec. (c)(2). Pub. L. 94–455, §§1603(c)(2), 1604(a), (c)(1), in introductory provision substituted “95 percent (90 percent for taxable years beginning before January 1, 1980) of its gross income (excluding gross income from prohibited transactions)” for “90 percent of its gross income”, in subpar. (D) inserted reference towhich is not property not described in section 1221(1), and added subpar. (G).
 
 Subsec. (c)(3). Pub. L. 94–455, §§1603(c)(1), (3), 1604(c)(1), in introductory provision inserted “(excluding gross income from prohibited transactions) 75 percent of its gross income”, in subpar. (C) inserted reference to which is not property described in section 1221(1), and added subpar. (G).
 
@@ -874,7 +874,7 @@ In general.—Except as otherwise provided in this paragraph, the amendment made
 
 &emsp;&emsp;“(B)
 
-New trade or business or substantial new assets.—Subparagraph (A) shall cease to apply tosecurities of a corporation as of the first day after July 12, 1999, on which such corporation engages in a substantial new line of business, or acquires any substantial asset, other than—
+New trade or business or substantial new assets.—Subparagraph (A) shall cease to apply to securities of a corporation as of the first day after July 12, 1999, on which such corporation engages in a substantial new line of business, or acquires any substantial asset, other than—
 
 &emsp;&emsp;&emsp;“(i) pursuant to a binding contract in effect on such date and at all times thereafter before the acquisition of such asset;
 
@@ -978,7 +978,7 @@ Section 1608(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Effective Date of 1975 Amendment
 
-Section 6(e) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section and section 857 of this title\] apply to foreclosure property acquired after December 31, 1973. Notwithstanding the provisions of section 856(e)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a) of this section) any taxpayer required to make an election with respect to foreclosure property sooner than 90 days after the date of enactment of this Act \[Jan. 3, 1975\], may make that election at any time before the 91st day after the date of enactment of this Act.”
+Section 6(e) of Pub. L. 93–625, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[amending this section and section 857 of this title\] apply to foreclosure property acquired after December 31, 1973. Notwithstanding the provisions of section 856(e)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a) of this section) any taxpayer required to make an election with respect to foreclosure property sooner than 90 days after the date of enactment of this Act \[Jan. 3, 1975\], may make that election at any time before the 91st day after the date of enactment of this Act.”
 
 #### Effective Date of 1964 Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Training
 
-The Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration and in collaboration with the Administrator of the Health Care Financing Administration and the Director of the Centers for Disease Control and Prevention, shall conduct education and training programs for physicians and other health care providers regarding childhood lead poisoning, current screening and treatment recommendations and requirements, and the scientific, medical, and public health basis for those policies.
+The Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration and in collaboration with the Administrator of the Centers for Medicare \& Medicaid Services and the Director of the Centers for Disease Control and Prevention, shall conduct education and training programs for physicians and other health care providers regarding childhood lead poisoning, current screening and treatment recommendations and requirements, and the scientific, medical, and public health basis for those policies.
 
 #### (b) Report
 
@@ -12,11 +12,15 @@ The Secretary of Health and Human Services, acting through the Administrator of 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each <sup>1</sup> the fiscal years 2001 through 2005.
 
-(Pub. L. 106–310, div. A, title XXV, §2503, Oct. 17, 2000, 114 Stat. 1163.)
+(Pub. L. 106–310, div. A, title XXV, §2503, Oct. 17, 2000, 114 Stat. 1163; Pub. L. 108–173, title IX, §900(e)(6)(E), Dec. 8, 2003, 117 Stat. 2374.)
 
 #### Codification
 
 Section was enacted as part of the Children's Health Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

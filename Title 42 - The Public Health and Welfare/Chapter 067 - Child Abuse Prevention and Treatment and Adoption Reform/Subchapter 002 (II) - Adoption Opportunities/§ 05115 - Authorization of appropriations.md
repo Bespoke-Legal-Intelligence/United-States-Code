@@ -1,12 +1,18 @@
 ### §5115. Authorization of appropriations
 
-(a) There are authorized to be appropriated, $20,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001 to carry out programs and activities authorized.
+(a) There are authorized to be appropriated $40,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2008 to carry out programs and activities authorized under this subchapter.
 
 (b) The Secretary shall ensure that funds appropriated pursuant to authorizations in this subchapter shall remain available until expended for the purposes for which they were appropriated.
 
-(Pub. L. 95–266, title II, §205, Apr. 24, 1978, 92 Stat. 211; Pub. L. 98–457, title II, §204, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title II, §201, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §404, May 28, 1992, 106 Stat. 214; Pub. L. 104–235, title II, §213, Oct. 3, 1996, 110 Stat. 3091.)
+(Pub. L. 95–266, title II, §205, Apr. 24, 1978, 92 Stat. 211; Pub. L. 98–457, title II, §204, Oct. 9, 1984, 98 Stat. 1757; Pub. L. 100–294, title II, §201, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §404, May 28, 1992, 106 Stat. 214; Pub. L. 104–235, title II, §213, Oct. 3, 1996, 110 Stat. 3091; Pub. L. 108–36, title II, §205, June 25, 2003, 117 Stat. 822.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (a), was in the original “this subtitle”, and was translated as reading “this title”, meaning title II of Pub. L. 95–266, to reflect the probable intent of Congress, because Pub. L. 95–266 does not contain subtitles.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–36 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated, $20,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001 to carry out programs and activities authorized.”
 
 1996—Subsec. (a). Pub. L. 104–235, §213(1), substituted “$20,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001 to carry out programs and activities authorized” for “$10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995, to carry out programs and activities under this subchapter except for programs and activities authorized under sections 5113(b)(9) and 5113(c)(1) of this title”.
 

@@ -78,7 +78,7 @@ Notwithstanding any other provision of law, the Federal Housing Finance Board sh
 
 #### (c) Powers of Financing Corporation
 
-The Financing Corporation shall have only the following powers, subject to the other provisions of this section and such regulations, orders, and directions as the Federal Housing Finance Board may prescribe:
+The Financing Corporation shall have only the following powers, subject to the other provisionsof this section and such regulations, orders, and directions as the Federal Housing Finance Board may prescribe:
 
 &emsp;(1) To issue nonvoting capital stock to the Federal Home Loan Banks.
 

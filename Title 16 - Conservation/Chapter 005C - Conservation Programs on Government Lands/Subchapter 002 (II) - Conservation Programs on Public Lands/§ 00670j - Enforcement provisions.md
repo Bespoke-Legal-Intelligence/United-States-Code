@@ -12,7 +12,7 @@
 
 (2) Upon the sworn information by a competent person, any United States magistrate judge or court of competent jurisdiction may issue process for the arrest of any person charged with committing any offense under subsection (a) of this section.
 
-(3) Any person charged with committing any offense under subsection (a) of this section may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in the same manner and subject to the same conditions as provided for in section 3401 of title 18.
+(3) Any person charged with committing any offense under subsection (a) of this section may be tried and sentenced by any United States magistrate judge designated for that purpose by the court by which he was appointed, in thesame manner and subject to the same conditions as provided for in section 3401 of title 18.
 
 #### (c) Seizure and forfeiture of equipment and vessels
 

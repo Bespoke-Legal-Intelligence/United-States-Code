@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, s
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce ofHouse of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 
@@ -168,7 +168,7 @@ Composition.—The Commission shall be composed of twenty members appointed by t
 
 &emsp;“(4) One nonvoting member shall be appointed from officers or employees of the Food and Drug Administration who the Secretary determines are involved with rare diseases.
 
-> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of theGovernment, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
+> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of the Government, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
 
 “(e)
 

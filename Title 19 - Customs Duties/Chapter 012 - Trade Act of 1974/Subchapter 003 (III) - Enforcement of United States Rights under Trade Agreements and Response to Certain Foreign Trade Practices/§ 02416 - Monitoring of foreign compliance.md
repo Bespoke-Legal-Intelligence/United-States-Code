@@ -26,7 +26,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 &emsp;&emsp;&emsp;The Trade Representative is not required to revise the retaliation list or the action described in clause (i) with respect to a country, if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the Trade Representative determines that implementation of a recommendation made pursuant to a disputesettlement proceeding described in clause (i) by the country is imminent; or
+&emsp;&emsp;&emsp;&emsp;(I) the Trade Representative determines that implementation of a recommendation made pursuant to a dispute settlement proceeding described in clause (i) by the country is imminent; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the Trade Representative together with the petitioner involved in the initial investigation under this subchapter (or if no petition was filed, the affected United States industry) agree that it is unnecessary to revise the retaliation list.
 
@@ -54,7 +54,7 @@ Before making any determination under subsection (b) of this section, the Trade 
 
 &emsp;(2) provide an opportunity for the presentation of views by interested persons.
 
-(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293.)
+(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III,§314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293.)
 
 #### References in Text
 

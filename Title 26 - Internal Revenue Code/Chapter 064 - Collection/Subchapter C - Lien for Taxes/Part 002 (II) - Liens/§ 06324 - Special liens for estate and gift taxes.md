@@ -18,7 +18,7 @@ Except as otherwise provided in subsection (c)—
 
 #### (b) Lien for gift tax
 
-Except as otherwise provided in subsection (c), unless the gift tax imposed by chapter 12 issooner paid in full or becomes unenforceable by reason of lapse of time, such tax shall be a lien upon all gifts made during the period for which the return was filed, for 10 years from the date the gifts are made. If the tax is not paid when due, the donee of any gift shall be personally liable for such tax to the extent of the value of such gift. Any part of the property comprised in the gift transferred by the donee (or by a transferee of the donee) to a purchaser or holder of a security interest shall be divested of the lien imposed by this subsection and such lien, to the extent of the value of such gift, shall attach to all the property (including after-acquired property) of the donee (or the transferee) except any part transferred to a purchaser or holder of a security interest.
+Except as otherwise provided in subsection (c), unless the gift tax imposed by chapter 12 is sooner paid in full or becomes unenforceable by reason of lapse of time, such tax shall be a lien upon all gifts made during the period for which the return was filed, for 10 years from the date the gifts are made. If the tax is not paid when due, the donee of any gift shall be personally liable for such tax to the extent of the value of such gift. Any part of the property comprised in the gift transferred by the donee (or by a transferee of the donee) to a purchaser or holder of a security interest shall be divested of the lien imposed by this subsection and such lien, to the extent of the value of such gift, shall attach to all the property (including after-acquired property) of the donee (or the transferee) except any part transferred to a purchaser or holder of a security interest.
 
 #### (c) Exceptions
 
@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 88–272, §236(b), added subsec. (d).
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 101(d)(2) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
+Amendment by section 101(d)(2) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31,1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
 Amendment by section 102(d)(7) of Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 

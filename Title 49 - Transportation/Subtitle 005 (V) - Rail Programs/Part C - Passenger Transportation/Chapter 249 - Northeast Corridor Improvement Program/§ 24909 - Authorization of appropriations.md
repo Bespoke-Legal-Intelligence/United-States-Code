@@ -4,7 +4,7 @@
 
 General.—(1) Not more than $2,313,000,000 may be appropriated to the Secretary of Transportation to achieve the goals of section 24902(a)(1) <sup>1</sup> of this title. From this amount, the following amounts shall be expended by Amtrak:
 
-&emsp;(A) at least $27,000,000 for equipment modification and replacement that a State or alocal or regional transportation authority must bear because of the electrification conversion system of the Northeast Corridor under this chapter.
+&emsp;(A) at least $27,000,000 for equipment modification and replacement that a State or a local or regional transportation authority must bear because of the electrification conversion system of the Northeast Corridor under this chapter.
 
 &emsp;(B) $30,000,000—
 
@@ -88,7 +88,7 @@ Prohibition on Subsidizing Commuter and Freight Operating Losses.—Amounts appr
 
 (e)
 
-Substituting and Deferring Certain Improvements.—(1) A project for which amounts are authorized under subsection (a)(1)(C) of this section is a part of the Northeast Corridor improvement program and is not a substitute for improvements specified in the document “Corridor Master Plan II, NECIP Restructured Program” of January, 1982. However, Amtrak may defer the project to carry out the improvementand rehabilitation for which amounts are authorized under subsection (a)(1)(B) of this section. The total cost of the project that Amtrak defers may not be substantially more than the amount Amtrak is required to expend or reserve under subsection (a)(1)(B).
+Substituting and Deferring Certain Improvements.—(1) A project for which amounts are authorized under subsection (a)(1)(C) of this section is a part of the Northeast Corridor improvement program and is not a substitute for improvements specified in the document “Corridor Master Plan II, NECIP Restructured Program” of January, 1982. However, Amtrak may defer the project to carry out the improvement and rehabilitation for which amounts are authorized under subsection (a)(1)(B) of this section. The total cost of the project that Amtrak defers may not be substantially more than the amount Amtrak is required to expend or reserve under subsection (a)(1)(B).
 
 (2) Section 24902 of this title is deemed not to be fulfilled until the projects under subsection (a)(1)(C) of this section are completed.
 
@@ -212,7 +212,7 @@ In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitte
 
 Section 24902 of this title, referred to in subsecs. (a)(1), (2)(A), (E), was amended by Pub. L. 105–134, title IV, §405(b)(1), Dec. 2, 1997, 111 Stat. 2586, and, as so amended, subsec. (a) of that section was repealed and subsecs. (b), (j), and (m) were redesignated (a), (g), and (j), respectively.
 
-Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec. (b), provided appropriations forinterim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
+Act of February 28, 1975 (Public Law 94–6, 89 Stat. 11), referred to in subsec. (b), provided appropriations for interim operating assistance for Federal Railroad Administration of Department of Transportation in chapter II which is not classified to the Code.
 
 Section 602 of the Rail Passenger Service Act, referred to in subsec. (c), was classified to section 602 of Title 45, Railroads, prior to repeal by Pub. L. 102–533, §7(c), Oct. 27, 1992, 106 Stat. 3519.
 

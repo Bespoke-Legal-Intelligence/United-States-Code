@@ -2,7 +2,7 @@
 
 #### (a) Cooperative education exchange programs
 
-The Center for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall use funds made available under grants or contracts under section 6713 of this title to carry out cooperative education exchange programs in accordance with this section.
+The Center for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall use funds made available under grants orcontracts under section 6713 of this title to carry out cooperative education exchange programs in accordance with this section.
 
 #### (b) Purpose
 
@@ -52,7 +52,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 &emsp;&emsp;(E) independent research and evaluation assistance to determine—
 
-&emsp;&emsp;&emsp;(i) the effects of the cooperative education exchange programs assisted underthis section on students’ development of the knowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
+&emsp;&emsp;&emsp;(i) the effects of the cooperative education exchange programs assisted under this section on students’ development of the knowledge, skills, and traits of character essential for the preservation and improvement of constitutional democracy; and
 
 &emsp;&emsp;&emsp;(ii) effective participation in, and improvement of, an efficient market economy; and
 

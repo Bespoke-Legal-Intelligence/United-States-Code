@@ -6,7 +6,7 @@
 
 (c) The premiums charged a veteran for insurance under this section shall be paid at such time and in such manner as the Secretary prescribes. The rates for such premiums shall be based on such mortality data as the Secretary considers appropriate to cover only the mortality cost of insuring standard lives. In the case of a veteran receiving compensation or other cash benefits paid to the veteran by the Secretary, the Secretary shall deduct from such compensation or other benefits the premiums charged the veteran under this section.
 
-(d)(1) The United States shall bear the costs of insurance under this section to the extent that such costs exceed premiums established by the Secretary. Premiums collected on insurance under this section shall be credited to the “Veterans Insurance and Indemnities” appropriation account, and all disbursements of insurance proceeds under this section shall be made from that account.
+(d)(1) The United States shall bear the costs of insurance under this section to the extent thatsuch costs exceed premiums established by the Secretary. Premiums collected on insurance under this section shall be credited to the “Veterans Insurance and Indemnities” appropriation account, and all disbursements of insurance proceeds under this section shall be made from that account.
 
 (2) There are authorized to be appropriated to the Secretary for such account such amounts as may be necessary to carry out this section.
 
@@ -98,7 +98,7 @@ Savings Provision.—Mortgage protection life insurance granted to any veteran u
 
 Discontinuance of Contract Program.—(1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy of insurance purchased in accordance with the former section 806.
 
-“(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the ‘Veterans Insurance and Indemnities’ appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid bythe insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
+“(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the ‘Veterans Insurance and Indemnities’ appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid by the insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
 
 “(e)
 

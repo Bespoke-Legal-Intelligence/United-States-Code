@@ -1,5 +1,5 @@
 
-40 U.S.C.<br>United States Code, 2002 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
+40 U.S.C.<br>United States Code, 2003 Edition<br>Title 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
@@ -3749,17 +3749,35 @@ T. 40 App. §405
 
 14704
 
+#### Effective Date of 2003 Amendment by Pub. L. 108–178
+
+Pub. L. 108–178, enacting and amending notes set out below, effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as an Effective Date of 2003 Amendment note under section 5334 of Title 5, Government Organization and Employees.
+
 #### Enacting Clause
 
 Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062, provided in part that: “Certain general and permanent laws of the United States, related to public buildings, property, and works, are revised, codified, and enacted as title 40, United States Code, ‘Public Buildings, Property, and Works’ ”.
 
 #### Legislative Purpose and Construction
 
+Pub. L. 108–178, §1, Dec. 15, 2003, 117 Stat. 2637, provided that:
+
+“(a)
+
+Purpose.—The purpose of this Act \[see Tables for classification\] is to improve the United States Code by making necessary technical changes.
+
+“(b)
+
+No Substantive Change.—This Act makes no substantive change in existing law and may not be construed as making a substantive change in existing law.
+
+“(c)
+
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+
 Pub. L. 107–217, §5, Aug. 21, 2002, 116 Stat. 1303, provided that:
 
 “(a)
 
-Purpose.—The purpose of this Act is to revise, codify, and enact without substantive change the general and permanent laws of the United States related topublic buildings, property, and works, in order to remove ambiguities, contradictions, and other imperfections and to repeal obsolete, superfluous, and superseded provisions.
+Purpose.—The purpose of this Act is to revise, codify, and enact without substantive change the general and permanent laws of the United States related to public buildings, property, and works, in order to remove ambiguities, contradictions, and other imperfections and to repeal obsolete, superfluous, and superseded provisions.
 
 “(b)
 
@@ -3799,9 +3817,19 @@ Severability.—If a provision enacted by this Act is held invalid, all valid pr
 
 #### Repeals
 
+Pub. L. 108–178, §2(b), Dec. 15, 2003, 117 Stat. 2640, provided that: “Section 6(b) of Public Law 107–217 (116 Stat. 1304) \[see below\] is repealed insofar as it relates to the provisions listed below, and the provisions listed below are revived to read as if section 6(b) had not been enacted:
+
+&emsp;“(1) Section 1(a) of the Act of June 30, 1949 (ch. 288, 63 Stat. 377) \[41 U.S.C. 251 note\].
+
+&emsp;“(2) Section 509(b) of the Department of Education Organization Act (Public Law 96–88, 93 Stat. 695) \[20 U.S.C. 3508(b)\].
+
+&emsp;“(3) Public Law 101–427 (104 Stat. 927) \[23 U.S.C. 101 note\].
+
+&emsp;“(4) Section 7306 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3384).”
+
 Pub. L. 107–217, §6(a), Aug. 21, 2002, 116 Stat. 1304, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
+Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. L. 108–178, §2, Dec. 15, 2003, 117 Stat. 2637, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
 
 
 ---

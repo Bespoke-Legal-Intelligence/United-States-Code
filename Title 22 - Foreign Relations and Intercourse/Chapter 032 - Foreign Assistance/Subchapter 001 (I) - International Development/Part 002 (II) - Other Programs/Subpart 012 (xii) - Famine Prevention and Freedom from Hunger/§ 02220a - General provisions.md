@@ -2,7 +2,7 @@
 
 #### (a) Congressional objectives and findings
 
-The Congress declares that, in order to achieve the mutual goals among nations of ensuring food security, human health, agricultural growth, trade expansion, and the wise and sustainable use of natural resources, the United States should mobilize the capacities of the United States land-grant universities, other eligible universities, and public and private partners of universities in the United States andother countries, consistent with sections 2151a and 2151a–1 of this title, for: (1) global research on problems affecting food, agriculture, forestry, and fisheries; (2) improved human capacity and institutional resource development for the global application of agricultural and related environmental sciences; (3) agricultural development and trade research and extension services in the United States and other countries to support the entry of rural industries into world markets; and (4) providing for the application of agricultural sciences to solving food, health, nutrition, rural income, and environmental problems, especially such problems in low-income, food deficit countries.
+The Congress declares that, in order to achieve the mutual goals among nations of ensuring food security, human health, agricultural growth, trade expansion, and the wise and sustainable use of natural resources, the United States should mobilize the capacities of the United States land-grant universities, other eligible universities, and public and private partners of universities in the United States and other countries, consistent with sections 2151a and 2151a–1 of this title, for: (1) global research on problems affecting food, agriculture, forestry, and fisheries; (2) improved human capacity and institutional resource development for the global application of agricultural and related environmental sciences; (3) agricultural development and trade research and extension services in the United States and other countries to support the entry of rural industries into world markets; and (4) providing for the application of agricultural sciences to solving food, health, nutrition, rural income, and environmental problems, especially such problems in low-income, food deficit countries.
 
 The Congress so declares because it finds—
 
@@ -60,7 +60,7 @@ The United States should—
 
 &emsp;&emsp;(E) United States Government foreign assistance and economic cooperation programs;
 
-&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the United States, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
+&emsp;(4) generally engage the United States university community more extensively in the agricultural research, trade, and development initiatives undertaken outside the UnitedStates, with the objectives of strengthening its capacity to carry out research, teaching, and extension activities for solving problems in food production, processing, marketing, and consumption in agriculturally developing nations, and for transforming progress in global agricultural research and development into economic growth, trade, and trade benefits for aid recipient countries and United States communities and industries, and for the wise use of natural resources; and
 
 &emsp;(5) ensure that all federally funded support to universities and public and private partners of universities relating to the goals of this subpart is periodically reviewed for its performance.
 
@@ -96,7 +96,7 @@ The First Morrill Act and the Second Morrill Act, referred to in subsec. (d), re
 
 The National Sea Grant College and Program Act, referred to in subsec. (d), is title II of Pub. L. 89–454, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998, as amended, which is classified generally to subchapter II (§1121 et seq.) of chapter 22 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1121 of Title 33 and Tables.
 
-The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended, which is set out as a note under section 301 of Title 7,Agriculture. For complete classification of this Act to the Code, see Tables.
+The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended, which is set out as a note under section 301 of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Subsec. (a)(A). Pub. L. 106–373, §2(a)(2)(B), substituted “with and through
 
 Subsec. (a)(B). Pub. L. 106–373, §2(a)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “that land-grant and other universities in the United States have demonstrated over many years their ability to cooperate with foreign agricultural institutions in expanding indigenous food production for both domestic and international markets;”.
 
-Subsec. (a)(C). Pub. L. 106–373, §2(a)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
+Subsec. (a)(C). Pub. L. 106–373, §2(a)(2)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “that, in a world of growing population with rising expectations, increased food production and improved distribution, storage, and marketing in the developing countries is necessary not only to prevent hunger but to build the economic base for growth, and moreover, that the greatest potential for increasing world food supplies is in the developing countries where the gap between food need and food supply is the greatest and current yields are lowest;”.
 
 Subsec. (a)(E). Pub. L. 106–373, §2(a)(2)(E), (H), added subpar. (E) and struck out former subpar. (E) which read as follows: “that research, teaching, and extension activities, and appropriate institutional development therefor are prime factors in increasing agricultural production abroad (as well as in the United States) and in improving food distribution, storage, and marketing;”.
 
@@ -172,7 +172,7 @@ Pub. L. 95–105, title V, §510, Aug. 17, 1977, 91 Stat. 860.
 
 #### Commission on Hunger and Malnutrition
 
-Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commissionwas to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.
+Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commission was to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.
 
 #### Settlement of Debt Owed the United States
 

@@ -34,7 +34,7 @@ Fourteen. Of the Government Printing Office.
 
 #### Codification
 
-Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriation Act of Mar. 3, 1901, and theLegislative Appropriations Act of May 14, 1928, providing that facilities for study and research be afforded to investigators, students, etc., in the several States and Territories as well as in the District of Columbia.
+Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriation Act of Mar. 3, 1901, and the Legislative Appropriations Act of May 14, 1928, providing that facilities for study and research be afforded to investigators, students, etc., in the several States and Territories as well as in the District of Columbia.
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Transfer of Functions
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the Office of Personnel Management shall define, as appropriate—
 
-&emsp;&emsp;(A) with respect to prevailing rate employees other than prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the boundaries of—
+&emsp;&emsp;(A) with respect to prevailing rate employees other than prevailing rate employeesunder paragraphs (B) and (C) of section 5342(a)(2) of this title, the boundaries of—
 
 &emsp;&emsp;&emsp;(i) individual local wage areas for prevailing rate employees having regular wage schedules and rates; and
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) nonsupervisory and supervisory prevailing rate employees described under paragraphs (B) and (C) of section 5342(a)(2) of this title;
 
-&emsp;(4) for proper differentials, as determined by the Office, for duty involving unusually severe working conditions or unusually severe hazards;
+&emsp;(4) for proper differentials, as determined by the Office, for duty involving unusually severe working conditions or unusually severe hazards, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970;
 
 &emsp;(5) rules governing the administration of pay for individual employees on appointment, transfer, promotion, demotion, and other similar changes in employment status; and
 
@@ -76,7 +76,7 @@
 
 (3) Under regulations prescribed by the Office of Personnel Management, the benefits of successive step increases shall be preserved for prevailing rate employees under a regular wage schedule whose continuous service is interrupted in the public interest by service with the armed forces or by service in essential non-Government civilian employment during a period of war or national emergency.
 
-(4) Supervisory wage schedules and special wage schedules authorized under subsection (c)(3) of this section may have single or multiplerates or steps according to prevailing practices in the industry on which the schedule is based.
+(4) Supervisory wage schedules and special wage schedules authorized under subsection (c)(3) of this section may have single or multiple rates or steps according to prevailing practices in the industry on which the schedule is based.
 
 (f) A prevailing rate employee is entitled to pay at his scheduled rate plus a night differential—
 
@@ -86,7 +86,11 @@
 
 > A night differential under this subsection is a part of basic pay.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, §1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, §1113(a), Dec. 28, 2001, 115 Stat. 1239.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, §1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, §1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, §1122(a), Nov. 24, 2003, 117 Stat. 1636.)
+
+#### References in Text
+
+The Occupational Safety and Health Act of 1970, referred to in subsec. (c)(4), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -95,6 +99,8 @@ A prior section 5343, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, related to 
 Provisions similar to those comprising part of first sentence of subsec. (c) and subsec. (d) of this section were contained in Pub. L. 90–560, §4, Oct. 12, 1968, 82 Stat. 997 (formerly classified to section 5341(c) of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
+
+2003—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
 2001—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
 
@@ -114,9 +120,13 @@ Provisions similar to those comprising part of first sentence of subsec. (c) and
 
 1978—Subsecs. (a) to (c), (e)(3). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title XI, §1122(c), Nov. 24, 2003, 117 Stat. 1637, provided that: “Subject to any vested constitutional property rights, any administrative or judicial determination after the date of the enactment of this Act \[Nov. 24, 2003\] concerning backpay for a differential established under sections 5343(c)(4) or 5545(d) of such title \[this title\] shall be based on occupational safety and health standards described in the amendments made by subsections (a) and (b) \[amending this section and section 5545 of this title\].”
+
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title XI, §1113(b), Dec. 28, 2001, 115 Stat. 1239, provided that: “Wage adjustments made pursuant to the amendment made by this section \[amending this section\] shall take effect in each applicable wage area on the first normal effective date of the applicable wage survey adjustment that occurs after the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title XI, §1113(b), Dec. 28, 2001, 115 Stat. 1239, provided that: “Wage adjustments madepursuant to the amendment made by this section \[amending this section\] shall take effect in each applicable wage area on the first normal effective date of the applicable wage survey adjustment that occurs after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -140,25 +150,25 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 107–67, title VI, §613, Nov. 12, 2001, 115 Stat. 547, provided that:
+Pub. L. 108–7, div. J, title VI, §613, Feb. 20, 2003, 117 Stat. 465, provided that:
 
-“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2002, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2003, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;“(1) during the period from the date of expiration of the limitation imposed by section 613 of the Treasury and General Government Appropriations Act, 2001 \[Pub. L. 106–554, 114 Stat. 2763, 2763A–157\], until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2002, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section 613; and
+&emsp;“(1) during the period from the date of expiration of the limitation imposed by section 613 of the Treasury and General Government Appropriations Act, 2002 \[Pub. L. 107–67, 115 Stat. 547\], until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2003, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section 613; and
 
-&emsp;“(2) during the period consisting of the remainder of fiscal year 2002, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
+&emsp;“(2) during the period consisting of the remainder of fiscal year 2003, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
 
-&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 2002 under section 5303 of title 5, UnitedStates Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 2003 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2002 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in fiscal year 2001 under such section.
+&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2003 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in fiscal year 2002 under such section.
 
 “(b) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which subsection (a) is in effect at a rate that exceeds the rates that would be payable under subsection (a) were subsection (a) applicable to such employee.
 
-“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2001, shall be determined under regulations prescribed by the Office of Personnel Management.
+“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2002, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2001, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
+“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2002, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
 
-“(e) This section shall apply with respect to pay for service performed after September 30, 2001.
+“(e) This section shall apply with respect to pay for service performed after September 30, 2002.
 
 “(f) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.
 
@@ -167,6 +177,8 @@ Pub. L. 107–67, title VI, §613, Nov. 12, 2001, 115 Stat. 547, provided that:
 “(h) The Office of Personnel Management may provide for exceptions to the limitations imposed by this section if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 107–67, title VI, §613, Nov. 12, 2001, 115 Stat. 547, as amended by Pub. L. 108–2, §3, Jan. 10, 2003, 117 Stat. 5.
 
 Pub. L. 106–554, §1(a)(3) \[title VI, §613\], Dec. 21, 2000, 114 Stat. 2763, 2763A–157.
 
@@ -250,7 +262,7 @@ Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 832, provided in part
 
 Section 704 of Pub. L. 95–454 provided that:
 
-“(a) Those terms and conditions of employment and other employment benefits with respect to Governmentprevailing rate employees to whom section 9(b) of Public Law 92–392 \[set out as a note under this section\] applies which were the subject of negotiation in accordance with prevailing rates and practices prior to August 19, 1972, shall be negotiated on and after the date of the enactment of this Act \[Oct. 13, 1978\] in accordance with the provisions of section 9(b) of Public Law 92–392 without regard to any provision of chapter 71 of title 5, United States Code (as amended by this title \[title VII of Pub. L. 95–454\]), to the extent that any such provision is inconsistent with this paragraph.
+“(a) Those terms and conditions of employment and other employment benefits with respect to Government prevailing rate employees to whom section 9(b) of Public Law 92–392 \[set out as a note under this section\] applies which were the subject of negotiation in accordance with prevailing rates and practices prior to August 19, 1972, shall be negotiated on and after the date of the enactment of this Act \[Oct. 13, 1978\] in accordance with the provisions of section 9(b) of Public Law 92–392 without regard to any provision of chapter 71 of title 5, United States Code (as amended by this title \[title VII of Pub. L. 95–454\]), to the extent that any such provision is inconsistent with this paragraph.
 
 “(b) The pay and pay practices relating to employees referred to in paragraph (1) of this subsection shall be negotiated in accordance with prevailing rates and pay practices without regard to any provision of—
 
@@ -274,7 +286,7 @@ Section 9(b) of Pub. L. 92–392 provided that: “The amendments made by this A
 
 &emsp;“(1) abrogate, modify, or otherwise affect in any way the provisions of any contract in effect on the date of enactment of this Act \[Aug. 19, 1972\] pertaining to the wages, the terms and conditions of employment, and other employment benefits, or any of the foregoing matters, for Government prevailing rate employees and resulting from negotiations between Government agencies and organizations of Government employees;
 
-&emsp;“(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act \[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
+&emsp;“(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act\[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
 
 &emsp;“(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\].”
 

@@ -32,7 +32,7 @@ The amount paid to a State educational agency under subsection (a) of this secti
 
 #### (d) State consultation
 
-A State educational agency receiving funds under this section shall consult with recipientsof grants under this subpart and other individuals or organizations involved in the development or operation of programs serving limited English proficient children to ensure that such funds are used in a manner consistent with the requirements of this subpart.
+A State educational agency receiving funds under this section shall consult with recipients of grants under this subpart and other individuals or organizations involved in the development or operation of programs serving limited English proficient children to ensure that such funds are used in a manner consistent with the requirements of this subpart.
 
 #### (e) Applications
 

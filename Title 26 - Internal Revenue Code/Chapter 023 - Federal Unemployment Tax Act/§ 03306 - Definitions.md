@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 #### (3) Domestic service
 
-&emsp;In the case of domestic service in a private home, local college club, or local chapter of acollege fraternity or sorority, the term “employer” means, with respect to any calendar year, any person who during any calendar quarter in the calendar year or the preceding calendar year paid wages in cash of $1,000 or more for such service.
+&emsp;In the case of domestic service in a private home, local college club, or local chapter of a college fraternity or sorority, the term “employer” means, with respect to any calendar year, any person who during any calendar quarter in the calendar year or the preceding calendar year paid wages in cash of $1,000 or more for such service.
 
 #### (4) Special rule
 
@@ -92,15 +92,17 @@ For purposes of this chapter, the term “wages” means all remuneration for em
 
 &emsp;(12) any contribution, payment, or service, provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);
 
-&emsp;(13) any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127 or 129;
+&emsp;(13) any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, or 134(b)(4);
 
 &emsp;(14) the value of any meals or lodging furnished by or on behalf of the employer if at the time of such furnishing it is reasonable to believe that the employee will be able to exclude such items from income under section 119;
 
 &emsp;(15) any payment made by an employer to a survivor or the estate of a former employee after the calendar year in which such employee died;
 
-&emsp;(16) any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132; or
+&emsp;(16) any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132;
 
-&emsp;(17) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
+&emsp;(17) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); or
+
+&emsp;(18) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
 
 > Except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of the parenthetical matter contained in subparagraph (A) of paragraph (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages. Nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this chapter.
 
@@ -164,7 +166,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;(15)(A) service performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
 
-&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers ormagazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
+&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
 
 &emsp;(16) service performed in the employ of an international organization;
 
@@ -262,7 +264,7 @@ For purposes of this chapter, the term “agricultural labor” has the meaning 
 
 #### (m) American vessel and aircraft
 
-For purposes of this chapter, the term “American vessel” means any vessel documented or numbered under the laws of the United States; and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if its crew is employed solely by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any State; and the term “American aircraft” means an aircraft registered under the laws of the United States.
+For purposes of this chapter, the term “American vessel” means any vessel documented ornumbered under the laws of the United States; and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if its crew is employed solely by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any State; and the term “American aircraft” means an aircraft registered under the laws of the United States.
 
 #### (n) Vessels operated by general agents of United States
 
@@ -282,7 +284,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant andSeasonal Agricultural Worker Protection Act; or
+&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant and Seasonal Agricultural Worker Protection Act; or
 
 &emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
 
@@ -364,7 +366,7 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(1) individuals who meet the requirements described in paragraph (3) are eligible to receive an allowance in lieu of regular unemployment compensation under the State law for the purpose of assisting such individuals in establishing a business and becoming self-employed;
 
-&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the sameterms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
+&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the same terms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
 
 &emsp;&emsp;(A) State requirements relating to availability for work, active search for work, and refusal to accept work are not applicable to such individuals;
 
@@ -398,7 +400,7 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 For purposes of this chapter, the term “Indian tribe” has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)), and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, §110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, §7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, §4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, §504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, §1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, §314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, §3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, §4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, §101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(<i>o</i>)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, §9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, §507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, §320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, §301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, §5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(a), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, §110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, §7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, §4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, §504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, §1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, §302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, §211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, §314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, §3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, §4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, §101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(b), Dec.5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, §124(e)(2)(A), title VIII, §822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, §491(d)(37), title V, §531(d)(3), div. B, title VI, §2661(<i>o</i>)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, §12401(b)(2), title XIII, §13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, §9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(3), title XI, §§1108(g)(8), 1151(d)(2)(B), title XVIII, §§1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, §8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, §303(a), title IV, §401(a)(2), title V, §521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, §507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, §320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, §301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, §5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(a), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, §209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, §106(b)(3), Nov. 11, 2003, 117 Stat. 1339; ; Pub. L. 108–173, title XII, §1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477.)
 
 #### References in Text
 
@@ -406,13 +408,17 @@ Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, refe
 
 Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c), was comprised of sections 1600 to 1611 of former Title 26, Internal Revenue Code. Subchapter C of chapter 9 was repealed by section 7851(a)(3) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), areclassified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
+Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
 Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
 The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (<i>o</i>)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
 #### Amendments
+
+2003—Subsec. (b)(13). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
+
+Subsec. (b)(18). Pub. L. 108–173 added par. (18).
 
 2002—Subsec. (f)(2). Pub. L. 107–147 inserted “or 903(d)(4)” before “of the Social Security Act”.
 
@@ -502,7 +508,7 @@ Subsec. (b)(5)(E) to (G). Pub. L. 98–21, §324(b)(2), added subpars. (E) to (G
 
 Subsec. (b)(8). Pub. L. 98–21, §324(b)(3)(B), struck out par. (8) which related to any payment (other than vacation or sick pay) made to an employee after the month in which he attained the age of 65, if he did not work for the employer in the period for which such payment was made.
 
-Subsec. (b)(10)(A). Pub. L. 98–21, §324(b)(3)(C), struck out cl. (iii) which related to retirement after attainingan age specified in the plan referred to in subpar. (B) or in a pension plan of the employer.
+Subsec. (b)(10)(A). Pub. L. 98–21, §324(b)(3)(C), struck out cl. (iii) which related to retirement after attaining an age specified in the plan referred to in subpar. (B) or in a pension plan of the employer.
 
 Subsec. (b)(14). Pub. L. 98–21, §327(c)(1)–(3), added par. (14).
 
@@ -612,6 +618,12 @@ Subsec. (m). Pub. L. 86–778, §532(c), included aircraft in heading and define
 
 Subsec. (<i>l</i>). Act Sept. 1, 1954, repealed subsec. (<i>l</i>) which related to certain employees of Bonneville Power Administrator.
 
+#### Effective Date of 2003 Amendments
+
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+
+Amendment by Pub. L. 108–121 applicable to taxable years beginning after Dec. 31, 2002, see section 106(c) of Pub. L. 108–121, set out as a note under section 134 of this title.
+
 #### Effective Date of 2000 Amendment; Transition Rule
 
 Pub. L. 106–554, §1(a)(7) \[title I, §166(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, provided that:
@@ -648,7 +660,7 @@ Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15
 
 #### Effective Date of 1993 Amendment
 
-Section 507(e) of Pub. L. 103–182, as amended by Pub. L. 105–306, §3, Oct. 28, 1998, 112 Stat. 2926, provided that: “The provisions of this section \[amending this section, section 3304 of this title, and section 503 of Title 42, The Public Health and Welfare, and enacting provisions set out below\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 8, 1993\].”
+Section 507(e) of Pub. L. 103–182, as amended by Pub. L. 105–306, §3, Oct. 28, 1998, 112 Stat. 2926, provided that:“The provisions of this section \[amending this section, section 3304 of this title, and section 503 of Title 42, The Public Health and Welfare, and enacting provisions set out below\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 8, 1993\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -815,6 +827,10 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 Section 1 of act Sept. 1, 1954, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1955.
 
 Section 4(c) of act Sept. 1, 1954, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
+
+#### No Inference To Be Drawn From Amendment by Pub. L. 108–121
+
+No inference to be drawn from amendment to subsec. (b)(13) of this section by section 106 of Pub. L. 108–121 with respect to tax treatment of any amounts under program described in section 134(b)(4) of this title for any taxable year beginning before Jan. 1, 2003, see section 106(d) of Pub. L. 108–121, set out as a note under section 134 of this title.
 
 #### Reporting Requirements
 

@@ -28,7 +28,7 @@ Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulatio
 
 &emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unit organized to serve as a unit, the activities will support valid unit training requirements.
 
-(3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance\(other than air transportation) to an organization eligible to receive services under section 508 of this title if—
+(3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance (other than air transportation) to an organization eligible to receive services under section 508 of this title if—
 
 &emsp;(A) the State drug interdiction and counter-drug activities plan specifically recognizes the organization as being eligible to receive the services or assistance;
 
@@ -98,7 +98,7 @@ Statutory Construction.—Nothing in this section shall be construed as a limita
 
 Definitions.—For purposes of this section:
 
-&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction andcounter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
+&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
 
 &emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
 

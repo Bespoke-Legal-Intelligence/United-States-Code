@@ -48,7 +48,7 @@ By the authority vested in me as President of the United States of America by an
 
 1–101. The functions vested in the President by Public Law 96–236 (94 Stat. 336) are delegated to the United States Trade Representative.
 
-1–102. In carrying out the functions delegated to him, the United States Trade Representative shall consult with the Secretary of Agriculture and the Secretary ofState. The United States Trade Representative may, with the consent of the head of another Executive agency, redelegate some or all of those functions to the head of such agency.
+1–102. In carrying out the functions delegated to him, the United States Trade Representative shall consult with the Secretary of Agriculture and the Secretary of State. The United States Trade Representative may, with the consent of the head of another Executive agency, redelegate some or all of those functions to the head of such agency.
 
 1–103. This Order is effective July 1, 1980.
 

@@ -20,5 +20,5 @@
 
 #### Short Title of 1995 Amendment
 
-Section 1 of Pub. L. 104–11 provided that: “This Act \[amending this section and sections 410ii–1, 410ii–3, and410ii–5 of this title\] may be cited as the ‘Chacoan Outliers Protection Act of 1995’.”
+Section 1 of Pub. L. 104–11 provided that: “This Act \[amending this section and sections 410ii–1, 410ii–3, and 410ii–5 of this title\] may be cited as the ‘Chacoan Outliers Protection Act of 1995’.”
 

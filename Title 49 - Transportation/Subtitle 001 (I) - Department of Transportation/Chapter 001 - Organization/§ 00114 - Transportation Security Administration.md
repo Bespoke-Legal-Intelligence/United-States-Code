@@ -94,7 +94,7 @@ In general.—Subject to the direction and control of the Secretary, the Under S
 
 &emsp;&emsp;(B) To coordinate and oversee the transportation-related responsibilities of other departments and agencies of the Federal Government other than the Department of Defense and the military departments.
 
-&emsp;&emsp;(C) To coordinate and provide notice to other departments and agencies of the Federal Government, and appropriate agencies of State and local governments, includingdepartments and agencies for transportation, law enforcement, and border control, about threats to transportation.
+&emsp;&emsp;(C) To coordinate and provide notice to other departments and agencies of the Federal Government, and appropriate agencies of State and local governments, including departments and agencies for transportation, law enforcement, and border control, about threats to transportation.
 
 &emsp;&emsp;(D) To carry out such other duties, and exercise such other powers, relating to transportation during a national emergency as the Secretary shall prescribe.
 
@@ -174,7 +174,7 @@ Review by transportation security oversight board.—Any regulation or security 
 
 &emsp;(3)
 
-Factors to consider.—In determining whether to issue, rescind, or revise a regulation under this section, the Under Secretary shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Under Secretary may waive requirements for an analysis that estimates the number of livesthat will be saved by the regulation and the monetary value of such lives if the Under Secretary determines that it is not feasible to make such an estimate.
+Factors to consider.—In determining whether to issue, rescind, or revise a regulation under this section, the Under Secretary shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Under Secretary may waive requirements for an analysis that estimates the number of lives that will be saved by the regulation and the monetary value of such lives if the Under Secretary determines that it is not feasible to make such an estimate.
 
 &emsp;(4)
 
@@ -218,7 +218,7 @@ Law Enforcement Powers.—
 
 &emsp;(1)
 
-In general.—The Under Secretary may designate an employee of the Transportation Security Administration to serve as a law enforcement officer.
+In general.—The Under Secretary may designate an employee of the Transportation Security Administration or other Federal agency to serve as a law enforcement officer.
 
 &emsp;(2)
 
@@ -264,7 +264,7 @@ Availability of information to congress.—Paragraph (1) does not authorize info
 
 Limitation on transferability of duties.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, titleXVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318.)
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420.)
 
 #### References in Text
 
@@ -275,6 +275,8 @@ The Inspector General Act of 1978, referred to in subsec. (p), is Pub. L. 95–4
 The Aviation and Transportation Security Act, referred to in subsec. (s)(1), is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597, as amended. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 40101 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (q)(1). Pub. L. 108–7 inserted “or other Federal agency” after “Transportation Security Administration”.
 
 2002—Subsec. (<i>l</i>)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
 
@@ -322,5 +324,5 @@ Report.—Not later than 6 months after the date of enactment of this Act \[Nov.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 20105 of this title.
+This section is referred to in sections 115, 20105, 46110 of this title.
 

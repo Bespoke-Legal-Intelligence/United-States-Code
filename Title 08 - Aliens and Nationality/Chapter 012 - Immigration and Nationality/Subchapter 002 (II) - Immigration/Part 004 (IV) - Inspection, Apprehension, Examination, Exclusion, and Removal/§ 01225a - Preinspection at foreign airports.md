@@ -4,7 +4,7 @@
 
 #### (1) New stations
 
-&emsp;Subject to paragraph (5), not later than October 31, 1998, the Attorney General, in consultation with the Secretary of State, shall establish and maintain preinspection stations in at least 5 of the foreign airports that are among the 10 foreign airports which the Attorney General identifies as serving as last points of departure for the greatest numbers of inadmissible alien passengers who arrive from abroad by air at ports of entry within the United States. Such preinspection stations shall be in addition to any preinspection stations established prior to September 30, 1996.
+&emsp;Subject to paragraph (5), not later than October 31, 1998, the Attorney General, in consultation with the Secretary of State, shall establish and maintain preinspection stations in at least 5 of the foreign airports that are among the 10 foreign airports which the Attorney General identifies as serving as last points of departure for the greatest numbers of inadmissible alien passengers who arrive fromabroad by air at ports of entry within the United States. Such preinspection stations shall be in addition to any preinspection stations established prior to September 30, 1996.
 
 #### (2) Report
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) such employees and their families will not be subject to unreasonable risks to their welfare and safety; and
 
-&emsp;&emsp;(C) the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951), or the Protocol Relating to the Status of Refugees\(done at New York, January 31, 1967), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
+&emsp;&emsp;(C) the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951), or the Protocol Relating to the Status of Refugees (done at New York, January 31, 1967), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
 
 #### (b) Establishment of carrier consultant program
 

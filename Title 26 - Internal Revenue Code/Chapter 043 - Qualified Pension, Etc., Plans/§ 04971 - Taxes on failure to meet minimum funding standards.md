@@ -122,7 +122,7 @@ Subsecs. (e), (f). Pub. L. 100–203, §9305(a)(1), added subsec. (e) and redesi
 
 Subsec. (c)(1). Pub. L. 96–364, §204(1), substituted “last two sentences” for “last sentence”.
 
-Subsec. (c)(3). Pub. L. 96–596, §2(a)(2)(H), substituted provision defining taxable period as the period beginning with the end of the plan year in which there is an accumulated funding deficiency and ending on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section or the date on which the tax imposed by subsec. (a) of this section is assessed for provision defining correction period as the period beginning with the end of a plan year in which there is an accumulated funding deficiency and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and by any other period which the Secretary determines reasonable and necessary to permit a reduction of the accumulated funding deficiency to zero.
+Subsec. (c)(3). Pub. L. 96–596, §2(a)(2)(H), substituted provision defining taxable period as the period beginning with the end of the plan year in which there is an accumulated funding deficiency and ending on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section or the date on which the tax imposed by subsec. (a) of this section is assessed for provision defining correction period as the period beginning with the end of a plan year in which there is an accumulated funding deficiency and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this titleand by any other period which the Secretary determines reasonable and necessary to permit a reduction of the accumulated funding deficiency to zero.
 
 Subsec. (d). Pub. L. 96–364, §204(2), inserted provisions relating to a multiemployer plan in reorganization.
 
@@ -144,7 +144,7 @@ Amendment by section 9305(a) of Pub. L. 100–203 applicable with respect to pla
 
 #### Effective Date of 1980 Amendments
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pub. L. 96–364, set out as an Effective Date note under section 418 of this title.
 

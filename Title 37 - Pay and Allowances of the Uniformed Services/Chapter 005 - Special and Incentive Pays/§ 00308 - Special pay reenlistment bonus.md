@@ -30,6 +30,8 @@
 
 (4) Notwithstanding paragraph (1)(B), a member who agrees to train and reenlist for service in a military skill which, at the time of that agreement, is designated as critical, may be paid the bonus approved for that skill, at the rate in effect at the time of agreement, upon completion of training and qualification in that skill, if otherwise qualified under this subsection and even if that skill is no longer designated as critical at the time the member becomes eligible for payment of the bonus.
 
+(5) The Secretary of Defense may waive the eligibility requirement in paragraph (1)(B) in the case of a reenlistment or voluntary extension of enlistment by a member of the armed forces that is entered into as described in this subsection while the member is serving on active duty in Afghanistan, Iraq, or Kuwait in support of Operation Enduring Freedom or Operation Iraqi Freedom.
+
 (b) Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount.
 
 (c) For the purpose of computing the reenlistment bonus in the case of an officer with prior enlisted service who may be entitled to a bonus under subsection (a), the monthly basic pay of the grade in which he is enlisted, computed in accordance with his years of service computed under section 205 of this title, shall be used instead of the monthly basic pay to which he was entitled at the time of his release from active duty as an officer.
@@ -48,9 +50,9 @@
 
 (f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2003.
+(g) No bonus shall be paid under this section with respect to any reenlistment, or voluntary extension of an active-duty enlistment, in the armed forces entered into after December 31, 2004.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(b), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(b), 618, 619, Oct. 17, 1998, 112 Stat. 2039, 2042; Pub. L. 106–65, div. A, title VI, §§613(b), 618(a), (b), Oct. 5, 1999, 113 Stat. 650, 652; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §614(b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §614(b), Dec. 2, 2002, 116 Stat. 2568.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89–132, §3, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–277, §2(1), May 10, 1974, 88 Stat. 119; Pub. L. 95–57, §1, June 29, 1977, 91 Stat. 253; Pub. L. 95–485, title VIII, §802(a)(1), (b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–342, title VIII, §804(a), Sept. 8, 1980, 94 Stat. 1092; Pub. L. 96–579, §3(f), Dec. 23, 1980, 94 Stat. 3364; Pub. L. 97–60, title I, §117(a), Oct. 14, 1981, 95 Stat. 996; Pub. L. 97–276, title I, §131, Oct. 2, 1982, 96 Stat. 1197; Pub. L. 97–377, title I, §101(c) \[title VII, §798\], Dec. 21, 1982, 96 Stat. 1833, 1865; Pub. L. 98–14, §1, Mar. 30, 1983, 97 Stat. 55; Pub. L. 98–525, title VI, §621, Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §631(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 100–180, div. A, title VI, §§625(a), 626(a), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §611(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, §615(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(a), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(b), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(b), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(b), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §613(b), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §613(b), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §§613(b), 618, 619, Oct. 17, 1998, 112 Stat. 2039, 2042; Pub. L. 106–65, div. A, title VI, §§613(b), 618(a), (b), Oct. 5, 1999, 113 Stat. 650, 652; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §614(b), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §614(b), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §§614(b), 626(a), Nov. 24, 2003, 117 Stat. 1501, 1507.)
 
 Historical and Revision Notes
 
@@ -95,6 +97,10 @@ In subsection (a), the words “reenlists . . . after . . . compulsory or vo
 In subsection (b), the words “a total of” are omitted as surplusage.
 
 #### Amendments
+
+2003—Subsec. (a)(5). Pub. L. 108–136, §626(a), added par. (5).
+
+Subsec. (g). Pub. L. 108–136, §614(b), substituted “December 31, 2004” for “December 31, 2003”.
 
 2002—Subsecs. (a)(1)(B), (d)(2), (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
@@ -184,9 +190,13 @@ Subsec. (f). Pub. L. 95–57, §1(b), substituted “September 30, 1978” for �
 
 1965—Subsec. (g). Pub. L. 89–132 added subsec. (g).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title VI, §626(d), Nov. 24, 2003, 117 Stat. 1508, provided that: “The amendments made by this section \[amending this section and sections 308b and 308h of this title\] shall take effect as of March 18, 2003, and apply with respect to reenlistments or the voluntary extension of enlistments that are entered into on or after that date.”
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1999 Amendment
 

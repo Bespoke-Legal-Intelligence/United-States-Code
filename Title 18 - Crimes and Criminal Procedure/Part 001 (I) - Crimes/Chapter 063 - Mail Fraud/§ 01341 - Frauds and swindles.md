@@ -44,7 +44,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–204, title IX, §901, July 30, 2002, 116 Stat. 804, provided that: “This title \[enacting sections 1349 and 1350 of this title, amending this section, section 1343 of this title, and section 1131 of Title 29, Labor, and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘White-Collar Crime Penalty Enhancement Act of 2002’.”
+Pub. L. 107–204, title IX, §901, July 30, 2002, 116 Stat. 804, provided that: “This title \[enacting sections 1349 and 1350 of this title, amending this section, section1343 of this title, and section 1131 of Title 29, Labor, and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘White-Collar Crime Penalty Enhancement Act of 2002’.”
 
 #### Section Referred to in Other Sections
 

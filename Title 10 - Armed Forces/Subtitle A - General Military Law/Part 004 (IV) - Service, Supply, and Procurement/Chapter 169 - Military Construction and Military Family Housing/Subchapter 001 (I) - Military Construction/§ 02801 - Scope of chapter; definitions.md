@@ -1,6 +1,6 @@
 ### §2801. Scope of chapter; definitions
 
-(a) The term “military construction” as used in this chapter or any other provision of law includes any construction, development, conversion, or extension of any kind carried out with respect to a military installation.
+(a) The term “military construction” as used in this chapter or any other provision of law includes any construction, development, conversion, or extension of any kind carried out with respect to a military installation, whether to satisfy temporary or permanent requirements.
 
 (b) A military construction project includes all military construction work, or any contribution authorized by this chapter, necessary to produce a complete and usable facility or a complete and usable improvement to an existing facility (or to produce such portion of a complete and usable facility or improvement as is specifically authorized by law).
 
@@ -8,17 +8,23 @@
 
 &emsp;(1) The term “facility” means a building, structure, or other improvement to real property.
 
-&emsp;(2) The term “military installation” means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense.
+&emsp;(2) The term “military installation” means a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department or, in the case of an activity in a foreign country, under the operational control of the Secretary of a military department or the Secretary of Defense, without regard to the duration of operational control.
 
 &emsp;(3) The term “Secretary concerned” includes the Secretary of Defense with respect to matters concerning the Defense Agencies.
 
-&emsp;(4) The term “appropriate committees of Congress” means the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+&emsp;(4) The term “appropriate committees of Congress” means the congressional defense committees and, with respect to any project to be carried out by, or for the use of, an intelligence component of the Department of Defense, the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 (d) This chapter (other than sections 2830 and 2835) does not apply to the Coast Guard or to civil works projects of the Army Corps of Engineers.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 153; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. A, title VI, §632(b)(1), title XII, §1231(15), div. B, subdiv. 3, title I, §2306(b), Dec. 4, 1987, 101 Stat. 1105, 1160, 1216; Pub. L. 102–484, div. A, title X, §1052(37), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 102–496, title IV, §403(b), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(10), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(16), div. B, title XXVIII, §2801, Nov. 24, 2003, 117 Stat. 1611, 1719.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §2801(a), inserted before period at end “, whether to satisfy temporary or permanent requirements”.
+
+Subsec. (c)(2). Pub. L. 108–136, §2801(b), inserted before period at end “, without regard to the duration of operational control”.
+
+Subsec. (c)(4). Pub. L. 108–136, §1043(b)(16), substituted “the congressional defense committees” for “the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives”.
 
 1999—Subsec. (c)(4). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -48,7 +54,11 @@ Section 12 of Pub. L. 97–214 provided:
 
 Section 1 of Pub. L. 97–214 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Military Construction Codification Act’.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2208 of this title.
+This section is referred to in sections 2208, 2306c, 2694a, 2707 of this title.
 

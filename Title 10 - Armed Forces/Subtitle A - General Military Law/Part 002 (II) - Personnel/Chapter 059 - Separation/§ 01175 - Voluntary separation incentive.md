@@ -1,6 +1,6 @@
 ### §1175. Voluntary separation incentive
 
-(a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Transportation may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
+(a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Homeland Security may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
 
 (2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
 
@@ -8,11 +8,11 @@
 
 &emsp;(i) the separation or transfer is required by reason of the age or number of years of service of the member;
 
-&emsp;(ii) the separation or transfer is required by reason of the failure of selection for promotion or the medical disqualification of the member, except in a case in which the Secretary of Defense or the Secretary of Transportation determines that the basis for the separation or transfer is a result of a deliberate action taken by the member with the intent to avoid retention in the Ready Reserve or Standby Reserve; or
+&emsp;(ii) the separation or transfer is required by reason of the failure of selection for promotion or the medical disqualification of the member, except in a case in which the Secretary of Defense or the Secretary of Homeland Security determines that the basis for the separation or transfer is a result of a deliberate action taken by the member with the intent to avoid retention in the Ready Reserve or Standby Reserve; or
 
 &emsp;(iii) in the case of a separation, the member is separated from the reserve component for appointment or enlistment in or transfer to another reserve component of an armed force for service in the Ready Reserve or Standby Reserve of that armed force.
 
-(b) The Secretary of Defense and the Secretary of Transportation may provide the incentive to a member of the armed forces if the member—
+(b) The Secretary of Defense and the Secretary of Homeland Security may provide the incentive to a member of the armed forces if the member—
 
 &emsp;(1) has served on active duty or full-time National Guard duty or any combination of active duty and full-time National Guard duty for more than 6 but less than 20 years;
 
@@ -50,7 +50,7 @@
 
 (f) The member's right to incentive payments shall not be transferable, except that the member may designate beneficiaries to receive the payments in the event of the member's death.
 
-(g) Subject to subsection (h), payments under this provision shall be paid from appropriations available to the Department of Defense and the Department of Transportation for the Coast Guard.
+(g) Subject to subsection (h), payments under this provision shall be paid from appropriations available to the Department of Defense and the Department of Homeland Security for the Coast Guard.
 
 (h)(1) There is established on the books of the Treasury a fund to be known as the “Voluntary Separation Incentive Fund” (hereinafter in this subsection referred to as the “Fund”). The Fund shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis the liabilities of the Department of Defense under this section.
 
@@ -72,7 +72,7 @@
 
 &emsp;(A) such sums as are necessary to pay the current liabilities under this section during such period; and
 
-&emsp;(B) the amount equal to the present value, as of September 30, 1999, of the future benefitspayable under this section, as determined by the Board.
+&emsp;(B) the amount equal to the present value, as of September 30, 1999, of the future benefits payable under this section, as determined by the Board.
 
 (7)(A) For each fiscal year after fiscal year 1999, the Board shall—
 
@@ -90,13 +90,15 @@
 
 (9) The investment provisions of section 1467 of this title shall apply to the Voluntary Separation Incentive Fund.
 
-(i) The Secretary of Defense and the Secretary of Transportation may issue such regulations as may be necessary to carry out this section.
+(i) The Secretary of Defense and the Secretary of Homeland Security may issue such regulations as may be necessary to carry out this section.
 
 (j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsecs. (a)(1), (2)(B)(ii), (b), (g), (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2000—Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(b)\], substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -140,13 +142,17 @@ Subsec. (e)(6). Pub. L. 102–484, §4406(b), struck out par. (6) which read as 
 
 Subsec. (j). Pub. L. 102–484, §4405(b), added subsec. (j).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §572(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, provided that: “Subparagraph (B) of section 1175(e)(3) of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions by members to terminate voluntary separation incentive payments under section 1175 of title 10, United States Code, to be effective after September 30, 2000.”
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments madeby this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

@@ -84,6 +84,10 @@ The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96
 
 1996—Subsec. (e)(5), (6). Pub. L. 104–114, §102(g), added pars. (5) and (6).
 
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under subsec. (e) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6003, 6005, 6008, 6009, 6064 of this title.

@@ -26,7 +26,7 @@ If the Attorney General determines at any time that a declaration is invalid und
 
 #### References in Text
 
-Section 4201 of this title, referred to in subsec. (a), was in the original “section 811”, and was translated asreading “section 2561”, meaning section 2561 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 811.
+Section 4201 of this title, referred to in subsec. (a), was in the original “section 811”, and was translated as reading “section 2561”, meaning section 2561 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 811.
 
 #### Section Referred to in Other Sections
 

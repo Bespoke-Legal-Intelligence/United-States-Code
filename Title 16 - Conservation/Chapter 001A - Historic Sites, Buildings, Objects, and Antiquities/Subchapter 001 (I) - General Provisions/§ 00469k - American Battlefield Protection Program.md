@@ -30,7 +30,7 @@ The purpose of this section is to assist citizens, public and private institutio
 
 #### (A) Battlefield report
 
-&emsp;&emsp;The term “Battlefield Report” means the document entitled “Report on the Nation's Civil War Battlefields”, prepared by the Civil War Sites Advisory Commission, and dated July 1993.
+&emsp;&emsp;The term “Battlefield Report” means the document entitled “Report on the Nation'sCivil War Battlefields”, prepared by the Civil War Sites Advisory Commission, and dated July 1993.
 
 #### (B) Eligible entity
 

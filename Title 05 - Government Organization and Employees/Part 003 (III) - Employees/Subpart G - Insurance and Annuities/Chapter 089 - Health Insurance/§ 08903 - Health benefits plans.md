@@ -4,7 +4,7 @@ The Office of Personnel Management may contract for or approve the following hea
 
 &emsp;(1)
 
-Service Benefit Plan.—One Government-wide plan, which may be underwrittenby participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
+Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
 
 &emsp;(2)
 
@@ -12,7 +12,7 @@ Indemnity Benefit Plan.—One Government-wide plan, offering two levels of benef
 
 &emsp;(3)
 
-Employee Organization Plans.—Employee organization plans which offer benefits of the types referred to by section 8904(3) of this title, which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in section 8901(8)(A) of this title, which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
+Employee Organization Plans.—Employee organization plans which offer benefitsof the types referred to by section 8904(3) of this title, which are sponsored or underwritten, and are administered, in whole or substantial part, by employee organizations described in section 8901(8)(A) of this title, which are available only to individuals, and members of their families, who at the time of enrollment are members of the organization.
 
 &emsp;(4)
 

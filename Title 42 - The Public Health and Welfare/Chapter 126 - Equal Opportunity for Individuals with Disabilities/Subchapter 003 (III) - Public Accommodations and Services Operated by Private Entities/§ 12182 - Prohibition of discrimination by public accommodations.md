@@ -32,7 +32,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (C) Opportunity to participate
 
-&emsp;&emsp;Notwithstanding the existence of separate or different programs or activities providedin accordance with this section, an individual with a disability shall not be denied the opportunity to participate in such programs or activities that are not separate or different.
+&emsp;&emsp;Notwithstanding the existence of separate or different programs or activities provided in accordance with this section, an individual with a disability shall not be denied the opportunity to participate in such programs or activities that are not separate or different.
 
 #### (D) Administrative methods
 

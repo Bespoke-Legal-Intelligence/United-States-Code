@@ -46,7 +46,7 @@ The Secretary, acting through the Director, is authorized to take all actions ne
 
 When entering into contracts or making awards under subsection (b) of this section, the following shall apply:
 
-&emsp;(1) No contract or award may be made until the research project in question has been subject to a merit review, and has, in the opinion of the reviewers appointed by the Director and the Secretary, acting through the Director,been shown to have scientific and technical merit.
+&emsp;(1) No contract or award may be made until the research project in question has been subject to a merit review, and has, in the opinion of the reviewers appointed by the Director and the Secretary, acting through the Director, been shown to have scientific and technical merit.
 
 &emsp;(2) In the case of joint ventures, the Program shall not make an award unless the award will facilitate the formation of a joint venture or the initiation of a new research and development project by an existing joint venture.
 
@@ -78,7 +78,7 @@ When entering into contracts or making awards under subsection (b) of this secti
 
 &emsp;(10) Grants, contracts, and cooperative assignments under this section shall be designed to support projects which are high risk and which have the potential for eventual substantial widespread commercial application. In order to receive a grant, contract, or cooperative agreement under this section, a research and development entity shall demonstrate to the Secretary the requisite ability in research and technology development and management in the project area in which the grant, contract, or cooperative agreement is being sought.
 
-&emsp;(11)(A) Title to any intellectual property arising from assistance provided under this section shall vest in a company or companies incorporated in the United States. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practiced for or on behalf of the United States, in connection with any such intellectual property, but shall not, in the exercise of such license, publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a company incorporated in the United States, until the expiration of the first patent obtained in connection with such intellectual property.
+&emsp;(11)(A) Title to any intellectual property arising from assistance provided under this section shall vest in a company or companies incorporated in the United States. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practiced for or on behalf of the United States, in connection with any such intellectual property, but shall not, in the exercise ofsuch license, publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a company incorporated in the United States, until the expiration of the first patent obtained in connection with such intellectual property.
 
 &emsp;(B) For purposes of this paragraph, the term “intellectual property” means an invention patentable under title 35 or any patent on such an invention.
 
@@ -144,7 +144,7 @@ Subsec. (b)(2). Pub. L. 102–245, §201(c)(4), amended par. (2) generally. Prio
 
 Subsec. (d)(2). Pub. L. 102–245, §201(c)(5), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of joint ventures, the Program shall not make an award unless, in the judgment of the Secretary, acting through the Director, Federal aid is needed if the industry in question is to form a joint venture quickly.”
 
-Subsec. (d)(7) to (11). Pub. L. 102–245, §201(c)(6), redesignated pars. (8) and (9) as (7) and (8), respectively, added pars. (9) to (11), and struck out former par. (7) which read as follows: “The Federal Government shall be entitled to a share of the licensing fees and royalty payments made to and retained by any business or joint venture to which it contributes under this section in an amount proportional to the Federal share of thecosts incurred by the business or joint venture as determined by independent audit.”
+Subsec. (d)(7) to (11). Pub. L. 102–245, §201(c)(6), redesignated pars. (8) and (9) as (7) and (8), respectively, added pars. (9) to (11), and struck out former par. (7) which read as follows: “The Federal Government shall be entitled to a share of the licensing fees and royalty payments made to and retained by any business or joint venture to which it contributes under this section in an amount proportional to the Federal share of the costs incurred by the business or joint venture as determined by independent audit.”
 
 Subsec. (e). Pub. L. 102–245, §201(c)(7), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “As used in this section, the term ‘joint research and development venture’ has the meaning given to such term in section 4301(a)(6) of this title.”
 

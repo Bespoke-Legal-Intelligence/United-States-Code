@@ -72,7 +72,7 @@ June 24, 1940, ch. 412, 54 Stat. 504.
 
 #### Prior Provisions
 
-A prior section 6b, acts Feb. 23, 1931, ch. 281, 46 Stat. 1363; June 30, 1932, ch. 330, 47 Stat. 460; June 16, 1933, ch. 101, 48 Stat. 292; Mar. 28, 1934, ch. 102, title I, 48 Stat. 514; Feb. 2, 1935, ch. 3, 49 Stat. 11; Mar. 19, 1936, ch. 156, 49 Stat. 1173; June 28, 1937, ch. 396, 50 Stat. 336; May 23, 1938, ch. 259, 52 Stat. 418; Mar. 16, 1939, ch. 11, 53 Stat. 532; Apr. 18, 1940, ch. 107, 54 Stat. 131, excepted General Accounting Office from provisions of section 5 of this title, prior to repeal by act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.
+A prior section 6b, acts Feb. 23, 1931, ch. 281, 46 Stat. 1363; June 30, 1932, ch. 330, 47 Stat. 460; June 16, 1933, ch. 101, 48 Stat. 292; Mar. 28, 1934, ch. 102, title I, 48 Stat. 514; Feb. 2, 1935, ch. 3, 49 Stat. 11; Mar. 19, 1936, ch. 156, 49 Stat. 1173; June 28, 1937, ch. 396, 50 Stat. 336; May 23, 1938, ch. 259, 52 Stat. 418; Mar. 16, 1939, ch. 11, 53 Stat. 532; Apr. 18, 1940, ch. 107, 54 Stat. 131, excepted GeneralAccounting Office from provisions of section 5 of this title, prior to repeal by act Oct. 10, 1940, ch. 851, §4, 54 Stat. 1111.
 
 #### Transfer of Functions
 

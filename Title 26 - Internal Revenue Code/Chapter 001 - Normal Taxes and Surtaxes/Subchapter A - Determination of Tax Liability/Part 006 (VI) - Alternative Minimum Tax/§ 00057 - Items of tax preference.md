@@ -94,7 +94,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (7) Exclusion for gains on sale of certain small business stock
 
-&emsp;An amount equal to 42 percent of the amount excluded from gross income for the taxable year under section 1202. In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting “28 percent” for “42 percent”.
+&emsp;An amount equal to 7 percent of the amount excluded from gross income for the taxable year under section 1202.
 
 #### (b) Straight line recovery of intangibles defined
 
@@ -108,7 +108,11 @@ For purposes of paragraph (2) of subsection (a)—
 
 &emsp;If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, titleI, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
@@ -120,7 +124,9 @@ A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 #### Amendments
 
-1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “In the case of stock the holding period of which beginsafter December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
+2003—Subsec. (a)(7). Pub. L. 108–27, §§301(b)(3), 303, temporarily substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.” See Effective and Termination Dates of 2003 Amendment note below.
+
+1998—Subsec. (a)(7). Pub. L. 105–206 inserted at end “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
 
 1997—Subsec. (a)(7). Pub. L. 105–34 substituted “42 percent” for “one-half”.
 
@@ -162,9 +168,15 @@ Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted “(whether a 
 
 Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted “or 642(c)” after “section 170”.
 
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable to dispositions on or after May 6, 2003, see section 301(d)(3) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to whichsuch amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -212,7 +224,7 @@ Section 1007(f)(4) of Pub. L. 100–647 provided that:
 
 &emsp;“(i) which is described in paragraph (4) or (12) of section 57(a) of the Internal Revenue Code of 1954 (as so in effect), and
 
-&emsp;“(ii) to which paragraph (1) or (5) of section 56(a) of the Internal Revenue Code of 1986 would apply if thetaxable year referred to in subparagraph (A) began after December 31, 1986.”
+&emsp;“(ii) to which paragraph (1) or (5) of section 56(a) of the Internal Revenue Code of 1986 would apply if the taxable year referred to in subparagraph (A) began after December 31, 1986.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

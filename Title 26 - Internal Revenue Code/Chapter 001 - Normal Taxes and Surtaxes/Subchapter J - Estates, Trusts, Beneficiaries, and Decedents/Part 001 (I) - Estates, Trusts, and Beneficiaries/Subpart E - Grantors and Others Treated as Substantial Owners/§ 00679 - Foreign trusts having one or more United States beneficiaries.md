@@ -54,7 +54,7 @@
 
 #### (C) Residency starting date
 
-&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residencystarting date determined under section 7701(b)(2)(A).
+&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residency starting date determined under section 7701(b)(2)(A).
 
 #### (5) Outbound trust migrations
 
@@ -88,7 +88,7 @@ If—
 
 #### (2) Attribution of ownership
 
-&emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to or for the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
+&emsp;For purposes of paragraph (1), an amount shall be treated as paid or accumulated to orfor the benefit of a United States person if such amount is paid to or accumulated for a foreign corporation, foreign partnership, or foreign trust or estate, and—
 
 &emsp;&emsp;(A) in the case of a foreign corporation, such corporation is a controlled foreign corporation (as defined in section 957(a)),
 

@@ -38,7 +38,7 @@ In the case of an individual who pays qualified higher education expenses during
 
 #### (C) Rounding
 
-&emsp;&emsp;If any amount as adjusted under subparagraph (B) is not a multiple of $50, suchamount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
+&emsp;&emsp;If any amount as adjusted under subparagraph (B) is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50 (or if such amount is a multiple of $25, such amount shall be rounded to the next highest multiple of $50).
 
 #### (c) Definitions
 
@@ -120,9 +120,9 @@ For purposes of this section—
 
 (Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Taxable Years Beginning in 2003
+#### Adjustment of Limitation on Exclusion of Income Under This Section for Taxable Years Beginning in 2004
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States sav</i><i>ings bonds for taxpayers who pay qualified higher education expenses under this section for taxable years beginning in 2003, see section 3.12 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for taxable years beginning in 2004, see section 3.13 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -236,5 +236,5 @@ Section 6009(e) of Pub. L. 100–647 directed Secretary of the Treasury or his d
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 62, 86, 137, 219, 221, 222, 469 of this title.
+This section is referred to in sections 62, 86, 137, 219, 221, 222, 469, 6103 of this title; title 42 section 1395r.
 

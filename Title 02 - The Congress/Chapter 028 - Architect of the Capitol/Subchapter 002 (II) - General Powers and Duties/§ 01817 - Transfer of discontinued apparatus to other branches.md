@@ -6,7 +6,7 @@ The Architect of the Capitol may transfer apparatus, appliances, equipments, and
 
 #### Codification
 
-Section was classified to section 171 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 171 of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is based on section 11 of act June 26, 1912, popularly known as the “District of Columbia Appropriation Act June 26, 1912, fiscal year 1913”.
 
@@ -16,11 +16,11 @@ Act Mar. 2, 1911, ch. 192, §9, 36 Stat. 1011.
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, struck out “with the approval of the Secretary of the Interior,” after “whenever,”.
+<b>1951</b>—Act Oct. 31, 1951, struck out “with the approval of the Secretary of the Interior,” after “whenever,”.
 
-1928—Act May 29, 1928, struck out provision that required a transfer statement to be submitted in the annual report to Congress by the Superintendent of the Capitol Building and Grounds.
+<b>1928</b>—Act May 29, 1928, struck out provision that required a transfer statement to be submitted in the annual report to Congress by the Superintendent of the Capitol Building and Grounds.
 
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see PriorProvisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
 

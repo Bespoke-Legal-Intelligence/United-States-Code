@@ -44,11 +44,11 @@
 
 &emsp;&emsp;(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.
 
-&emsp;(2) Any provider that is an entity directly or indirectly owned, or with a control interest of 5 percent or more held, by an individual who has been convicted of any offense described insubsection (b), against whom a civil monetary penalty has been assessed under subsection (d), or who has been debarred from participation under this chapter.
+&emsp;(2) Any provider that is an entity directly or indirectly owned, or with a control interest of 5 percent or more held, by an individual who has been convicted of any offense described in subsection (b), against whom a civil monetary penalty has been assessed under subsection (d), or who has been debarred from participation under this chapter.
 
 &emsp;(3) Any individual who directly or indirectly owns or has a control interest in a sanctioned entity and who knows or should know of the action constituting the basis for the entity's conviction of any offense described in subsection (b), assessment with a civil monetary penalty under subsection (d), or debarment from participation under this chapter.
 
-&emsp;(4) Any provider that the Office determines, in connection with claims presented under this chapter, has charged for health care services or supplies in an amount substantially in excess of such provider's customary charge for such services or supplies (unless the Office finds there is good cause for such charge), or charged for health care services or supplies which are substantially in excess of the needs of the covered individual or which are of a quality that fails to meet professionally recognized standards for such services or supplies.
+&emsp;(4) Any provider that the Office determines, in connection with claims presented under this chapter, has charged for health care services or supplies in an amount substantially in excess of such provider's customary charge for such services or supplies (unless the Office finds there is good cause for such charge), or charged for health care services or supplies which are substantially in excess of the needsof the covered individual or which are of a quality that fails to meet professionally recognized standards for such services or supplies.
 
 &emsp;(5) Any provider that the Office determines has committed acts described in subsection (d).
 
@@ -92,7 +92,7 @@
 
 (B) A debarment shall not apply with respect to inpatient institutional services furnished to an individual who was admitted to the institution before the date the debarment would otherwise become effective until the passage of 30 days after such date, unless the Office determines that the health or safety of the individual receiving those services warrants that a shorter period, or that no such period, be afforded.
 
-(3) Any notice of debarment referred to in paragraph (1) shall specify the date as of which debarment becomes effective and the minimum period of time for which such debarment is to remain effective. In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection\(b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).
+(3) Any notice of debarment referred to in paragraph (1) shall specify the date as of which debarment becomes effective and the minimum period of time for which such debarment is to remain effective. In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection (b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).
 
 (4)(A) A provider barred from participating in the program under this chapter may, after the expiration of the minimum period of debarment referred to in paragraph (3), apply to the Office, in such manner as the Office may by regulation prescribe, for termination of the debarment.
 
@@ -146,7 +146,7 @@ Subsec. (b)(5). Pub. L. 105–266, §2(a)(2)(B), amended par. (5) generally. Pri
 
 &emsp;“(A) whose license to provide health care services or supplies has been revoked, suspended, restricted, or not renewed, by a State licensing authority for reasons relating to the provider's professional competence, professional performance, or financial integrity; or
 
-&emsp;“(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.”
+&emsp;“(B) that surrendered such a license while a formal disciplinary proceeding was pending before such anauthority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.”
 
 Subsec. (c). Pub. L. 105–266, §2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 

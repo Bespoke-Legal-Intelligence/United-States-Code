@@ -34,7 +34,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (5) Personal property subject to possessory lien
 
-&emsp;With respect to tangible personal property subject to a lien under local law securing the reasonable price of the repair or improvement of such property, as against a holder of such a lien, if such holder is, and has been, continuously in possession of such property from the time such lien arose.
+&emsp;With respect to tangible personal property subject to a lien under local law securing the reasonable price of the repair or improvementof such property, as against a holder of such a lien, if such holder is, and has been, continuously in possession of such property from the time such lien arose.
 
 #### (6) Real property tax and special assessment liens
 
@@ -192,7 +192,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 #### (i) Real property
 
-&emsp;&emsp;&emsp;In the case of real property, in one office within the State (or the county, or other governmental subdivision), as designated by the laws of such State, in which the property subject to the lien is situated; and
+&emsp;&emsp;&emsp;In the case of real property, in one office within the State (or the county, or othergovernmental subdivision), as designated by the laws of such State, in which the property subject to the lien is situated; and
 
 #### (ii) Personal property
 
@@ -276,7 +276,7 @@ For purposes of this section and section 6324—
 
 #### (1) Security interest
 
-&emsp;The term “security interest” means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
+&emsp;The term “security interest” means any interest in property acquired by contract for thepurpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
 
 #### (2) Mechanic's lienor
 
@@ -344,7 +344,7 @@ For purposes of this section and section 6324—
 
 &emsp;&emsp;(C) the withdrawal of such notice will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawalof such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
 
 > &emsp;Any such withdrawal shall be made by filing notice at the same office as the withdrawn notice. A copy of such notice of withdrawal shall be provided to the taxpayer.
 
@@ -354,9 +354,9 @@ For purposes of this section and section 6324—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
 
-#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2003
+#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2004
 
-<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in de</i><i>termining validity of certain Federal tax liens for calendar year 2003, see section 3.29 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2004, see section 3.30 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

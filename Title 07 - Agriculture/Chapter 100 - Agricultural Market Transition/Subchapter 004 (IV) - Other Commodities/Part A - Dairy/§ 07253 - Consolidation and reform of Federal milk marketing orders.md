@@ -70,7 +70,7 @@ Pub. L. 106–113, div. B, §1000(a)(8) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 
 
 “(a)
 
-Final Rule Defined.—In this section, the term ‘final rule’ means the final rule for the consolidation and reform of Federal milk marketing orders that was published in the Federal Register on September 1, 1999 (64 Fed. Reg. 47897–48021), to comply with section 143 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7253).
+Final Rule Defined.—In this section, the term ‘final rule’ means the final rule for the consolidation and reform of Federal milk marketing orders that was published in the Federal Register on September 1, 1999\(64 Fed. Reg. 47897–48021), to comply with section 143 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7253).
 
 “(b)
 
@@ -114,7 +114,7 @@ Rulemaking Required.—The Secretary of Agriculture shall conduct rulemaking, on
 
 “(c)
 
-Time Period for Rulemaking.—On December 1, 2000, the Secretary of Agriculture shall publish in theFederal Register a final decision on the Class III and Class IV milk pricing formulas. The resulting formulas shall take effect, and be implemented by the Secretary, on January 1, 2001.
+Time Period for Rulemaking.—On December 1, 2000, the Secretary of Agriculture shall publish in the Federal Register a final decision on the Class III and Class IV milk pricing formulas. The resulting formulas shall take effect, and be implemented by the Secretary, on January 1, 2001.
 
 “(d)
 

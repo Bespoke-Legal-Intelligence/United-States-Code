@@ -86,7 +86,7 @@ $500,000.
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (1) shall not apply to the value of any development right retained by thedonor in the conveyance of a qualified conservation easement.
+&emsp;&emsp;Paragraph (1) shall not apply to the value of any development right retained by the donor in the conveyance of a qualified conservation easement.
 
 #### (B) Termination of retained development right
 
@@ -150,7 +150,7 @@ $500,000.
 
 #### (9) Treatment of easements granted after death
 
-&emsp;In any case in which the qualified conservation easement is granted after the date of the decedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
+&emsp;In any case in which the qualified conservation easement is granted after the date of thedecedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 

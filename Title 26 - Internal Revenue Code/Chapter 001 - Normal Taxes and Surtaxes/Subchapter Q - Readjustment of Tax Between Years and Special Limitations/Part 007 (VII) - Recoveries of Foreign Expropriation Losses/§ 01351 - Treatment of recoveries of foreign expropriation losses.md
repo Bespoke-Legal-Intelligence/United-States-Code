@@ -8,7 +8,7 @@
 
 #### (2) Time, manner, and scope
 
-&emsp;An election under paragraph (1) shall be made at such time and in such manner as theSecretary may prescribe by regulations. An election made with respect to any foreign expropriation loss shall apply to all recoveries in respect of such loss.
+&emsp;An election under paragraph (1) shall be made at such time and in such manner as the Secretary may prescribe by regulations. An election made with respect to any foreign expropriation loss shall apply to all recoveries in respect of such loss.
 
 #### (b) Definition of foreign expropriation loss
 

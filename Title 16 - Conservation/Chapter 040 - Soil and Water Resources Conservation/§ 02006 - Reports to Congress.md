@@ -2,7 +2,7 @@
 
 #### (a) Appraisal, program, and detailed statement of policy when Congress convenes
 
-(1) At the time Congress convenes in 1980, 1987, 1996, and 2006, the President shall transmit to the Speaker of the House of Representatives and the President of the Senate the appraisal developed under section 2004 of this title and completed prior to the end of the previous year.
+(1) At the time Congress convenes in 1980, 1987, 1996, and 2006, the President shall transmit tothe Speaker of the House of Representatives and the President of the Senate the appraisal developed under section 2004 of this title and completed prior to the end of the previous year.
 
 (2) At the time Congress convenes in 1980, 1988, 1998, and 2008, the President shall transmit to the Speaker of the House of Representatives and the President of the Senate the initial program or updated program developed under section 2005 of this title and completed prior to the end of the previous year, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.
 

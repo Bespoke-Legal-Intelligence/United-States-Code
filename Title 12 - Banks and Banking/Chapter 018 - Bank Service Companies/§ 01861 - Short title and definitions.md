@@ -26,7 +26,7 @@ For the purpose of this chapter—
 
 &emsp;(3) the term “Board” means the Board of Governors of the Federal Reserve System;
 
-&emsp;(4) the term “depository institution” means an insured bank, financial institution subjectto examination by the Federal Home Loan Bank Board or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration Board;
+&emsp;(4) the term “depository institution” means an insured bank, financial institution subject to examination by the Federal Home Loan Bank Board or the National Credit Union Administration Board, or a financial institution the accounts or deposits of which are insured or guaranteed under State law and are eligible to be insured by the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration Board;
 
 &emsp;(5) the term “insured bank” shall have the meaning provided in section 1813(h) of this title;
 

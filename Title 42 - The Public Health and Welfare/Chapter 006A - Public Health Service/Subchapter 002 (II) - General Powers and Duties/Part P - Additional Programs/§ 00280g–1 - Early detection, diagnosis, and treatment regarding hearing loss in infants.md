@@ -46,7 +46,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (d) Rule of construction; religious accommodation
 
-Nothing in this section shall be construed to preempt or prohibit any State law, including State laws which do not require the screening for hearing loss of newborn infants or young children of parents who object to the screening on the grounds that such screening conflicts with the parents’ religious beliefs.
+Nothing in this section shall be construed to preempt or prohibit any State law, includingState laws which do not require the screening for hearing loss of newborn infants or young children of parents who object to the screening on the grounds that such screening conflicts with the parents’ religious beliefs.
 
 #### (e) Definitions
 
@@ -90,7 +90,7 @@ The Social Security Act, referred to in subsec. (c)(1), is act Aug. 14, 1935, ch
 
 Pub. L. 106–310, div. A, title VII, §701, Oct. 17, 2000, 114 Stat. 1120, provided that: “The purposes of this title \[enacting this section\] are to clarify the authority within the Public Health Service Act \[this chapter\] to authorize statewide newborn and infant hearing screening, evaluation and intervention programs and systems, technical assistance, a national applied research program, and interagency and private sector collaboration for policy development, in order to assist the States in making progress toward the following goals:
 
-&emsp;“(1) All babies born in hospitals in the United States and its territories should have a hearing screening before leaving the birthing facility. Babiesborn in other countries and residing in the United States via immigration or adoption should have a hearing screening as early as possible.
+&emsp;“(1) All babies born in hospitals in the United States and its territories should have a hearing screening before leaving the birthing facility. Babies born in other countries and residing in the United States via immigration or adoption should have a hearing screening as early as possible.
 
 &emsp;“(2) All babies who are not born in hospitals in the United States and its territories should have a hearing screening within the first 3 months of life.
 
@@ -98,5 +98,5 @@ Pub. L. 106–310, div. A, title VII, §701, Oct. 17, 2000, 114 Stat. 1120, prov
 
 &emsp;“(4) All newborn and infant hearing screening programs and systems should include a component for audiologic rehabilitation, medical and early intervention options that ensures linkage to any new and existing state-wide systems of intervention and rehabilitative services for newborns and infants with hearing loss.
 
-&emsp;“(5) Public policy in regard to newborn and infant hearing screening and intervention should be based on applied research and the recognition that newborns, infants, toddlers, and children who are deaf or hard-of-hearing have unique language, learning, and communication needs, and should be the result of consultation with pertinent public and private sectors.”
+&emsp;“(5) Public policy in regard to newborn and infant hearing screening and intervention should be based on applied research and the recognition that newborns, infants, toddlers, and children who are deaf orhard-of-hearing have unique language, learning, and communication needs, and should be the result of consultation with pertinent public and private sectors.”
 

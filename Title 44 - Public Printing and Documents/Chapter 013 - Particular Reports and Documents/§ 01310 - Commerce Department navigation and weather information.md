@@ -6,7 +6,7 @@ The Secretary of Commerce may cause to be printed the number of copies of tide t
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §213 (part) (Jan. 12, 1895, ch. 23, §89, 28 Stat. 622; Mar. 13, 1896, No. 23, 29 Stat. 466; Mar. 3, 1925, ch. 421, §4, 43 Stat. 1106; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 54 Stat. 1234; Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318).
+Based on 44 U.S. Code, 1964 ed., §213 (part) (Jan. 12, 1895, ch. 23, §89, 28 Stat. 622; Mar. 13, 1896, No. 23, 29 Stat. 466; Mar. 3, 1925, ch. 421, §4, 43 Stat. 1106; 1940Reorg. Plan No. IV, §8, eff. June 30, 1940, 54 Stat. 1234; Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318).
 
 This section incorporates only parts of former section 213 relating to Coast and Geodetic Survey and Weather Bureau. The balance will be found in sections 1102, 1116, 1302, 1308, 1309, 1336 of the revision.
 

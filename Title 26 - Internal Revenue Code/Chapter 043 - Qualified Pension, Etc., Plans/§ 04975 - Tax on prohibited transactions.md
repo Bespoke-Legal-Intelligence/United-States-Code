@@ -40,7 +40,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (3) Special rule for individual retirement accounts
 
-&emsp;An individual for whose benefit an individual retirement account is established and his beneficiaries shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
+&emsp;An individual for whose benefit an individual retirement account is established and hisbeneficiaries shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
 
 #### (4) Special rule for Archer MSAs
 
@@ -49,6 +49,10 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 #### (5) Special rule for Coverdell education savings accounts
 
 &emsp;An individual for whose benefit a Coverdell education savings account is established and any contributor to such account shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 530(d) applies with respect to such transaction.
+
+#### (6) Special rule for health savings accounts
+
+&emsp;An individual for whose benefit a health savings account (within the meaning of section 223(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be a health savings account by reason of the application of section 223(e)(2) to such account.
 
 #### (d) Exemptions
 
@@ -134,9 +138,11 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(D) an Archer MSA described in section 220(d),
 
-&emsp;&emsp;(E) a Coverdell education savings account described in section 530, or
+&emsp;&emsp;(E) a health savings account described in section 223(d),
 
-&emsp;&emsp;(F) a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be described in any preceding subparagraph of this paragraph.
+&emsp;&emsp;(F) a Coverdell education savings account described in section 530, or
+
+&emsp;&emsp;(G) a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be described in any preceding subparagraph of this paragraph.
 
 #### (2) Disqualified person
 
@@ -210,7 +216,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) which is otherwise defined in regulations prescribed by the Secretary.
 
-> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(<i>o</i>), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as definedin section 409(e)(4)), it meets the requirements of section 409(e).
+> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(<i>o</i>), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as defined in section 409(e)(4)), it meets the requirements of section 409(e).
 
 #### (8) Qualifying employer security
 
@@ -290,7 +296,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain transactions involving shareholder-employees
 
-&emsp;&emsp;&emsp;Subparagraph (A)(iii) shall not apply to a transaction which consists of a sale ofemployer securities to an employee stock ownership plan (as defined in subsection (e)(7)) by a shareholder-employee, a member of the family (as defined in section 267(c)(4)) of such shareholder-employee, or a corporation in which such a shareholder-employee owns stock representing a 50 percent or greater interest described in subparagraph (A).
+&emsp;&emsp;&emsp;Subparagraph (A)(iii) shall not apply to a transaction which consists of a sale of employer securities to an employee stock ownership plan (as defined in subsection (e)(7)) by a shareholder-employee, a member of the family (as defined in section 267(c)(4)) of such shareholder-employee, or a corporation in which such a shareholder-employee owns stock representing a 50 percent or greater interest described in subparagraph (A).
 
 #### (iii) Loan exception
 
@@ -318,9 +324,9 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 #### (i) Cross reference
 
-&emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of</b><b>the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479.)
 
 #### Amendment of Section
 
@@ -333,6 +339,10 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+2003—Subsec. (c)(6). Pub. L. 108–173, §1201(f)(1), added par. (6).
+
+Subsec. (e)(1)(E) to (G). Pub. L. 108–173, §1201(f)(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
 2001—Subsec. (c)(5). Pub. L. 107–22, §1(b)(1)(D), (3)(D), in heading, substituted “Coverdell education savings” for “education individual retirement” and in text, substituted “a Coverdell education savings” for “an education individual retirement”.
 
@@ -376,7 +386,7 @@ Subsec. (c)(4). Pub. L. 104–191, §301(f)(1), added par. (4).
 
 Subsec. (d)(13). Pub. L. 104–188, §1702(g)(3), substituted “408(b)(12)” for “408(b)”.
 
-Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘plan’ means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).”
+Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “For purposes of this section, the term ‘plan’ means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).”
 
 1990—Subsec. (d)(13). Pub. L. 101–508 inserted before semicolon at end “or which is exempt from section 406 of such Act by reason of section 408(b) of such Act”.
 
@@ -418,13 +428,17 @@ Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading “Leverag
 
 1976—Subsecs. (c) to (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+
 #### Effective and Termination Dates of 2001 Amendments
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 
 Pub. L. 107–16, title VI, §612(c), June 7, 2001, 115 Stat. 100, provided that: “The amendment made by this section \[amending this section and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 2001.”
 
-Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, exceptthat in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
+Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
@@ -510,7 +524,7 @@ Section 2003(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 2
 
 &emsp;“(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
 
-&emsp;“(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer real property) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
+&emsp;“(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer realproperty) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
 
 > For the purposes of this paragraph, the term ‘disqualified person’ has the meaning provided by section 4975(e)(2) of the Internal Revenue Code of 1986.”
 

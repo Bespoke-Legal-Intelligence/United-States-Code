@@ -28,17 +28,55 @@ The Director shall not delegate any of the functions of the Director to any pers
 
 #### (e) Coordination
 
-The Director shall ensure coordination of the policies and activities of the Institute with the policies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services.
+The Director shall ensure coordination of the policies and activities of the Institute with thepolicies and activities of other agencies and offices of the Federal Government having interest in and responsibilities for the improvement of museums and libraries and information services. Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.
 
-(Pub. L. 94–462, title II, §204, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294.)
+#### (f) Regulatory authority
+
+The Director may promulgate such rules and regulations as are necessary and appropriate to implement the provisions of this chapter.
+
+#### (g) Application procedures
+
+#### (1) In general
+
+&emsp;In order to be eligible to receive financial assistance under this chapter, a person or agency shall submit an application in accordance with procedures established by the Director by regulation.
+
+#### (2) Review and evaluation
+
+&emsp;The Director shall establish procedures for reviewing and evaluating applications submitted under this chapter. Actions of the Institute and the Director in the establishment, modification, and revocation of such procedures under this chapter are vested in the discretion of the Institute and the Director. In establishing such procedures, the Director shall ensure that the criteria by which applications are evaluated are consistent with the purposes of this chapter, taking into consideration general standards of decency and respect for the diverse beliefs and values of the American public.
+
+#### (3) Treatment of projects determined to be obscene
+
+#### (A) In general
+
+&emsp;&emsp;The procedures described in paragraph (2) shall include provisions that clearly specify that obscenity is without serious literary, artistic, political, or scientific merit, and is not protected speech.
+
+#### (B) Prohibition
+
+&emsp;&emsp;No financial assistance may be provided under this chapter with respect to any project that is determined to be obscene.
+
+#### (C) Treatment of application disapproval
+
+&emsp;&emsp;The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, the project for which the applicant requested financial assistance is or is not obscene.
+
+(Pub. L. 94–462, title II, §204, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, §103, Sept. 25, 2003, 117 Stat. 992.)
+
+#### References in Text
+
+This chapter, the second place it appears in subsec. (g)(2), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 204 of Pub. L. 94–462 was classified to section 963 of this title prior to the general amendment of title II of Pub. L. 94–462 by Pub. L. 104–208.
 
+#### Amendments
+
+2003—Subsec. (e). Pub. L. 108–81, §103(1), inserted at end “Where appropriate, the Director shall ensure that activities under subchapter II of this chapter are coordinated with activities under section 6383 of this title.”
+
+Subsecs. (f), (g). Pub. L. 108–81, §103(2), added subsecs. (f) and (g).
+
 #### Service of Individuals Serving on September 30, 1996
 
-Section 101(e) \[title VII, §705\] of div. A of Pub. L. 104–208 provided that: “Notwithstanding section 204 of the Museum and Library Services Act \[20 U.S.C. 9103\], the individual who was appointed to the position of Director of the Institute of Museum Services under section 205 of the Museum Services Act \[former 20 U.S.C. 964\] (as such section was in effect on the day before the date of enactment of this Act \[Sept. 30, 1996\]) and who is serving in such position on the day before the date of enactment of this Act shall serve as the first Director of the Institute of Museum and Library Services under section 204 of the Museum and Library Services Act (as added by section 2 of this Act \[probably means section 101(e) \[title VII, §702\] of title I of div. A of Pub. L. 104–208 which enacted this chapter\]), and shall serve at the pleasure of the President.”
+Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §705\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
 
 #### Section Referred to in Other Sections
 

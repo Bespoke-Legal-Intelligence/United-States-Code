@@ -6,7 +6,7 @@ The board of directors of the Corporation (hereinafter referred to as the “boa
 
 #### (b) Terms of office; successors
 
-The terms of office of the members first taking office after May 18, 1933, shall expire as designated by the President at the time of nomination, one at the end of the third year, one at the end of the sixth year, and one at the end of the ninth year, after May 18, 1933. A successor to a member of the board shall be appointed in the same manner as the original members and shall have a term of office expiring nine years from the date of the expiration of the term for which his predecessor was appointed.
+The terms of office of the members first taking office after May 18, 1933, shall expire as designated by the President at the time of nomination, one at the end of the third year, one at the end of the sixth year, and one at the end of the ninth year, after May 18, 1933. A successor to a member of the board shall be appointed in the same manner as the original members and shallhave a term of office expiring nine years from the date of the expiration of the term for which his predecessor was appointed.
 
 #### (c) Vacancies
 

@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) The Defense Intelligence Agency.
 
-&emsp;&emsp;(C) The National Imagery and Mapping Agency.
+&emsp;&emsp;(C) The National Geospatial-Intelligence Agency.
 
 &emsp;&emsp;(D) Any other component of the Department of Defense that performs intelligence functions and is designated by the Secretary of Defense as an intelligence component of the Department of Defense.
 
@@ -30,9 +30,11 @@ In this subchapter:
 
 &emsp;(7) The term “collective bargaining agreement” has the meaning given such term in section 7103(8) of title 5.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319.)
+(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319; Pub. L. 108–136, div. A, title IX, §921(d)(7), Nov. 24, 2003, 117 Stat. 1569.)
 
 #### Amendments
+
+2003—Par. (2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2000—Par. (1). Pub. L. 106–398 substituted “of the Department of Defense” for “of an intelligence component of the Department of Defense or of a military department”.
 

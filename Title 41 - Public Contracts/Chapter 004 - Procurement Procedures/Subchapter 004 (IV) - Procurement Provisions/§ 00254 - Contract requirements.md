@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 98–369, §2714(a)(3)(C), substituted “awarded after usi
 
 Subsec. (d). Pub. L. 98–369, §2712, added subsec. (d).
 
-1966—Subsec. (c). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors fromthe requirement for an examination-of-records clause, such determination to be reported to Congress.
+1966—Subsec. (c). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
 
 1952—Subsec. (b). Act July 12, 1952, substituted “property” for “supplies”.
 
@@ -96,7 +96,7 @@ Washington, D.C. 20570
 
 “3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order 13201 of February 17, 2001. Such other sanctions or remedies may be imposed as are provided in Executive Order 13201 of February 17, 2001, or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
 
-“4. The contractor will include the provisions of paragraphs (1) through (3) herein in every subcontract or purchase order entered into in connection with this contract unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order 13201 of February 17, 2001, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any such subcontract or purchase order as may be directed by the Secretary of Labor asa means of enforcing such provisions, including the imposition of sanctions for non compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor or vendor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
+“4. The contractor will include the provisions of paragraphs (1) through (3) herein in every subcontract or purchase order entered into in connection with this contract unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order 13201 of February 17, 2001, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any such subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor or vendor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
 
 (b) Whenever, through Acts of Congress or through clarification of existing law by the courts or otherwise, it appears that contractual provisions other than, or in addition to, those set out in subsection (a) of this section are needed to inform employees fully and accurately of their rights with respect to union dues, union-security agreements, or the like, the Secretary shall promptly issue such rules, regulations, or orders as are needed to cause the substitution or addition of appropriate contractual provisions in Government contracts thereafter entered into.
 
@@ -132,9 +132,9 @@ Sec. 10. The Federal Acquisition Regulatory Council (FAR Council) shall take wha
 
 Sec. 11. As it relates to notification of employee rights concerning payment of union dues or fees, Executive Order 12836 of February 1, 1993, which, among other things, revoked Executive Order 12800 of April 13, 1992, is revoked.
 
-Sec. 12. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 12836 of February 1, 1993, as it relates to notification of employee rights concerningpayment of union dues or fees, to the extent consistent with law.
+Sec. 12. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 12836 of February 1, 1993, as it relates to notification of employee rights concerning payment of union dues or fees, to the extent consistent with law.
 
-Sec. 13. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 13. This order is intended only to improve the internal management of the executive branch and is notintended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 14. The provisions of this order shall apply to contracts resulting from solicitations issued on or after the effective date of this order.
 

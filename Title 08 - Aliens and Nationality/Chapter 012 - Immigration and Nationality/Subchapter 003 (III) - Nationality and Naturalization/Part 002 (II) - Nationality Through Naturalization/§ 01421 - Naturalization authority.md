@@ -12,7 +12,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 #### (A) General jurisdiction
 
-&emsp;&emsp;Except as provided in subparagraph (B), each applicant for naturalization may choose to have the oath of allegiance under section 1448(a) of this title administered by the Attorney General or by an eligible court described in paragraph (5). Each such eligible court shall have authority to administer such oath of allegiance to persons residing within the jurisdiction of the court.
+&emsp;&emsp;Except as provided in subparagraph (B), each applicant for naturalization may choose to have the oath of allegiance undersection 1448(a) of this title administered by the Attorney General or by an eligible court described in paragraph (5). Each such eligible court shall have authority to administer such oath of allegiance to persons residing within the jurisdiction of the court.
 
 #### (B) Exclusive authority
 
@@ -70,7 +70,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 &emsp;&emsp;(A) a district court of the United States in any State, or
 
-&emsp;&emsp;(B) any court of record in any State having a seal, a clerk, and jurisdiction in actions inlaw or equity, or law and equity, in which the amount in controversy is unlimited.
+&emsp;&emsp;(B) any court of record in any State having a seal, a clerk, and jurisdiction in actions in law or equity, or law and equity, in which the amount in controversy is unlimited.
 
 #### (c) Judicial review
 
@@ -80,7 +80,7 @@ A person whose application for naturalization under this subchapter is denied, a
 
 A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
+(June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656;Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
 #### Amendments
 
@@ -154,7 +154,7 @@ General Savings Provisions.—(1) Nothing contained in this title \[amending thi
 
 “(e)
 
-Treatment of Service in Armed Forces of Foreign Country.—The amendments made by section 404\[amending section 1426 of this title\] (relating to treatment of service in armed forces of a foreign country) shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to exemptions from training or service obtained before, on, or after such date.
+Treatment of Service in Armed Forces of Foreign Country.—The amendments made by section 404 \[amending section 1426 of this title\] (relating to treatment of service in armed forces of a foreign country) shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to exemptions from training or service obtained before, on, or after such date.
 
 “(f)
 
@@ -166,7 +166,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 
 #### Section Referred to in Other Sections
 

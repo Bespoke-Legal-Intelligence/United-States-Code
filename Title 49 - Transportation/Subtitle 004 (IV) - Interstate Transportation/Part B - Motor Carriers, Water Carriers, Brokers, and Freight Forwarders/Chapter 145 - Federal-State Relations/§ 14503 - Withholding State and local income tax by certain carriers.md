@@ -34,7 +34,7 @@ Applicability to sailors.—This subsection applies to pay of a master, officer,
 
 (c)
 
-Filing of Information.—A motor and motor private carrier withholding pay from anemployee under subsection (a) of this section shall file income tax information returns and other reports only with the State and subdivision of residence of the employee.
+Filing of Information.—A motor and motor private carrier withholding pay from an employee under subsection (a) of this section shall file income tax information returns and other reports only with the State and subdivision of residence of the employee.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 901.)
 

@@ -60,7 +60,7 @@ Duty of administrator.—If the Administrator reserves funds from the allocation
 
 (2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. No grant may be made to any State under paragraph (1) unless the State has assumed primary enforcement responsibility within two years after the date the Administrator promulgates regulations for State underground injection control programs under section 300h of this title. The prohibition contained in the preceding sentence shall not apply to such grants when made to Indian Tribes.
 
-(3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of the grant recipient's cost (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, and underground water source protection program.
+(3) A grant under paragraph (1) shall be made to cover not more than 75 per centum of thegrant recipient's cost (as determined under regulations of the Administrator) in carrying out, during the one-year period beginning on the date the grant is made, and underground water source protection program.
 
 (4) In each fiscal year the Administrator shall, in accordance with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, and other relevant factors.
 

@@ -6,11 +6,11 @@ All work, including the furnishing of labor and materials, needed to complete an
 
 #### (b) Title
 
-Title to all property, real and personal, acquired for the purposes of completing any project approved by the Secretary vests in the State.
+Title to all property, real and personal, acquired for the purposes of completing anyproject approved by the Secretary vests in the State.
 
 #### (c) Disposal
 
-If a State disposes of any real or personal property acquired under this chapter, the State shall pay into the Treasury of the United States the amount of any proceeds resulting from the property disposed to the extent of and in the same ratio that funds provided under this chapter were used in the acquisition of the property.In no case shall the amount paid into the Treasury of the United States under this section exceed the amount of funds provided by this chapter for the acquisition of the property involved.
+If a State disposes of any real or personal property acquired under this chapter, the State shall pay into the Treasury of the United States the amount of any proceeds resulting from the property disposed to the extent of and in the same ratio that funds provided under this chapter were used in the acquisition of the property. In no case shall the amount paid into the Treasury of the United States under this section exceed the amount of funds provided by this chapter for the acquisition of the property involved.
 
 (Pub. L. 99–659, title III, §306, Nov. 14, 1986, 100 Stat. 3735.)
 

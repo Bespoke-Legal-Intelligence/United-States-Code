@@ -20,7 +20,7 @@
 
 (4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the District of Columbia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
-(July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16,1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. P
 
 1984—Subsec. (a)(2). Pub. L. 98–620 substituted provisions requiring the appellant to file a written notice of appeal in the Patent and Trademark Office directed to the Commissioner for provisions requiring the appellant to file the notice of appeal with the Commissioner, and struck out provision which required the notice of appeal to specify the party or parties taking the appeal, to designate the decision or part thereof appealed from, and to state that the appeal was being taken to the United States Court of Appeals for the Federal Circuit.
 
-Subsec. (a)(3). Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the UnitedStates Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office for provisions which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant, and any additional papers and evidence specified by the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
+Subsec. (a)(3). Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office for provisions which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant, and any additional papers and evidence specified by the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
 Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent and Trademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
 
@@ -96,7 +96,7 @@ For effective date and applicability of amendment by Pub. L. 85–609, see secti
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 

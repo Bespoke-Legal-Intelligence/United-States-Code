@@ -174,7 +174,7 @@ Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 49 section 30305.
+This section is referred to in title 6 section 453; title 49 section 30305.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -86,21 +86,31 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 (f)
 
+Authority To Accept Foreign Gifts and Donations.—(1) The Secretary of Defense may, on behalf of the Institute, accept foreign gifts or donations in order to defray the costs of, or enhance the operation of, the Institute.
+
+(2) Funds received by the Secretary under paragraph (1) shall be credited to appropriations available for the Department of Defense for theInstitute. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Institute for the same purposes and same period as the appropriations with which merged.
+
+(3) The Secretary of Defense shall notify Congress if the total amount of money accepted under paragraph (1) exceeds $1,000,000 in any fiscal year. Any such notice shall list each of the contributors of such money and the amount of each contribution in such fiscal year.
+
+(4) For the purposes of this subsection, a foreign gift or donation is a gift or donation of funds, materials (including research materials), property, or services (including lecture services and faculty services) from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country.
+
+(g)
+
 Fixed Costs.—The fixed costs of operating and maintaining the Institute for a fiscal year may be paid from—
 
 &emsp;(1) any funds available for that fiscal year for operation and maintenance for the executive agent designated under subsection (a)(2); or
 
 &emsp;(2) if no executive agent is designated under subsection (a)(2), any funds available for that fiscal year for the Department of Defense for operation and maintenance for Defense-wide activities.
 
-(g)
+(h)
 
 Tuition.—Tuition fees charged for persons who attend the Institute may not include the fixed costs of operating and maintaining the Institute.
 
-(h)
+(i)
 
-Annual Report.—Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall be prepared in consultation with the Secretary of State.
+Annual Report.—Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report. The report shall be prepared in consultation with the Secretary of State.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, §932, Dec. 2, 2002, 116 Stat. 2625.)
 
 #### References in Text
 
@@ -108,5 +118,13 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92
 
 #### Amendments
 
+2002—Subsecs. (f) to (h). Pub. L. 107–314, §932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+
+Subsec. (i). Pub. L. 107–314, §932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report.”
+
 2001—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2612 of this title.
 

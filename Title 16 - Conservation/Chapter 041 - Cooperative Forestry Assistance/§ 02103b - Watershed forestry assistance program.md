@@ -1,0 +1,146 @@
+### §2103b. Watershed forestry assistance program
+
+#### (a) Definition of nonindustrial private forest land
+
+In this section, the term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
+
+&emsp;(1) has existing tree cover or that is suitable for growing trees; and
+
+&emsp;(2) is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decisionmaking authority over the land.
+
+#### (b) General authority and purpose
+
+The Secretary, acting through the Chief of the Forest Service and (where appropriate) through the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials at land grant colleges and universities and 1890 institutions for the purpose of expanding State forest stewardship capacities and activities through State forestry best-management practices and other means at the State level to address watershed issues on non-Federal forested land and potentially forested land.
+
+#### (c) Technical assistance to protect water quality
+
+#### (1) In general
+
+&emsp;The Secretary, in cooperation with State foresters or equivalent State officials, shall engage interested members of the public, including nonprofit organizations and local watershed councils, to develop a program of technical assistance to protect water quality described in paragraph (2).
+
+#### (2) Purpose of program
+
+&emsp;The program under this subsection shall be designed—
+
+&emsp;&emsp;(A) to build and strengthen watershed partnerships that focus on forested landscapes at the State, regional, and local levels;
+
+&emsp;&emsp;(B) to provide State forestry best-management practices and water quality technical assistance directly to owners of nonindustrial private forest land;
+
+&emsp;&emsp;(C) to provide technical guidance to land managers and policymakers for water quality protection through forest management;
+
+&emsp;&emsp;(D) to complement State and local efforts to protect water quality and provide enhanced opportunities for consultation and cooperation among Federal and State agencies charged with responsibility for water and watershed management; and
+
+&emsp;&emsp;(E) to provide enhanced forest resource data and support for improved implementation and monitoring of State forestry best-management practices.
+
+#### (3) Implementation
+
+&emsp;In the case of a participating State, the program of technical assistance shall be implemented by State foresters or equivalent State officials.
+
+#### (d) Watershed forestry cost-share program
+
+#### (1) In general
+
+&emsp;The Secretary shall establish a watershed forestry cost-share program—
+
+&emsp;&emsp;(A) which shall be—
+
+&emsp;&emsp;&emsp;(i) administered by the Forest Service; and
+
+&emsp;&emsp;&emsp;(ii) implemented by State foresters or equivalent State officials in participating States; and
+
+&emsp;&emsp;(B) under which funds or other support provided to participating States shall be made available for State forestry best-management practices programs and watershed forestry projects.
+
+#### (2) Watershed forestry projects
+
+&emsp;The State forester, an equivalent State official of a participating State, or a Cooperative Extension official at a land grant college or university or 1890 institution, in coordination with the State Forest Stewardship Coordinating Committee established under section 2113(b) of this title (or an equivalent committee) for that State, shall make awards to communities, nonprofit groups, and owners of nonindustrial private forest land under the program for watershed forestry projects described in paragraph (3).
+
+#### (3) Project elements and objectives
+
+&emsp;A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within a State by demonstrating the value of trees and forests to watershed health and condition through—
+
+&emsp;&emsp;(A) the use of trees as solutions to water quality problems in urban and rural areas;
+
+&emsp;&emsp;(B) community-based planning, involvement, and action through State, local, and nonprofit partnerships;
+
+&emsp;&emsp;(C) application of and dissemination of monitoring information on forestry best-management practices relating to watershed forestry;
+
+&emsp;&emsp;(D) watershed-scale forest management activities and conservation planning; and
+
+&emsp;&emsp;(E)(i) the restoration of wetland (as defined by the States) and stream-side forests; and
+
+&emsp;&emsp;(ii) the establishment of riparian vegetative buffers.
+
+#### (4) Cost-sharing
+
+#### (A) Federal share
+
+#### (i) Funds under this subsection
+
+&emsp;&emsp;&emsp;Funds provided under this subsection for a watershed forestry project may not exceed 75 percent of the cost of the project.
+
+#### (ii) Other Federal funds
+
+&emsp;&emsp;&emsp;The percentage of the cost of a project described in clause (i) that is not covered by funds made available under this subsection may be paid using other Federal funding sources, except that the total Federal share of the costs of the project may not exceed 90 percent.
+
+#### (B) Form
+
+&emsp;&emsp;The non-Federal share of the costs of a project may be provided in the form of cash, services, or other in-kind contributions.
+
+#### (5) Prioritization
+
+&emsp;The State Forest Stewardship Coordinating Committee for a State, or equivalent State committee, shall prioritize watersheds in that State to target watershed forestry projects funded under this subsection.
+
+#### (6) Watershed forester
+
+&emsp;Financial and technical assistance shall be made available to the State Forester or equivalent State official to create a State watershed or best-management practice forester position to—
+
+&emsp;&emsp;(A) lead statewide programs; and
+
+&emsp;&emsp;(B) coordinate watershed-level projects.
+
+#### (e) Distribution
+
+#### (1) In general
+
+&emsp;Of the funds made available for a fiscal year under subsection (g) of this section, the Secretary shall use—
+
+&emsp;&emsp;(A) at least 75 percent of the funds to carry out the cost-share program under subsection (d) of this section; and
+
+&emsp;&emsp;(B) the remainder of the funds to deliver technical assistance, education, and planning, at the local level, through the State Forester or equivalent State official.
+
+#### (2) Special considerations
+
+&emsp;Distribution of funds by the Secretary among States under paragraph (1) shall be made only after giving appropriate consideration to—
+
+&emsp;&emsp;(A) the acres of agricultural land, nonindustrial private forest land, and highly erodible land in each State;
+
+&emsp;&emsp;(B) the miles of riparian buffer needed;
+
+&emsp;&emsp;(C) the miles of impaired stream segments and other impaired water bodies where forestry practices can be used to restore or protect water resources;
+
+&emsp;&emsp;(D) the number of owners of nonindustrial private forest land in each State; and
+
+&emsp;&emsp;(E) water quality cost savings that can be achieved through forest watershed management.
+
+#### (f) Willing owners
+
+#### (1) In general
+
+&emsp;Participation of an owner of nonindustrial private forest land in the watershed forestry assistance program under this section is voluntary.
+
+#### (2) Written consent
+
+&emsp;The watershed forestry assistance program shall not be carried out on nonindustrial private forest land without the written consent of the owner of, or entity having definitive decisionmaking over, the nonindustrial private forest land.
+
+#### (g) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2004 through 2008.
+
+(Pub. L. 95–313, §6, as added Pub. L. 108–148, title III, §302, Dec. 3, 2003, 117 Stat. 1903.)
+
+#### Prior Provisions
+
+A prior section 2103b, Pub. L. 95–313, §6, as added Pub. L. 101–624, title XII, §1216, Nov. 28, 1990, 104 Stat. 3526, established the Stewardship Incentive Program, prior to repeal by Pub. L. 107–171, title VIII, §8001(a), May 13, 2002, 116 Stat. 468.
+
+A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified to section 2105 of this title.
+

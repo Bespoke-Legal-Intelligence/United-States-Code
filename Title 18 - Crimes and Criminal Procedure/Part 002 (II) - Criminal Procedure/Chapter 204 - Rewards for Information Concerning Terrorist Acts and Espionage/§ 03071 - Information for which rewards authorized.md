@@ -12,7 +12,7 @@
 
 &emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals for commission of an act of espionage against the United States;
 
-&emsp;(2) leading to the arrest or conviction, in any country, of any individual or individuals forconspiring or attempting to commit an act of espionage against the United States; or
+&emsp;(2) leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of espionage against the United States; or
 
 &emsp;(3) leading to the prevention or frustration of an act of espionage against the United States.
 

@@ -18,7 +18,7 @@ In addition to any action that may be brought under subsection (a) of this secti
 
 #### (c) Separate offenses
 
-For the purpose of imposing civil penalties and criminal fines under this section, each dayof a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
+For the purpose of imposing civil penalties and criminal fines under this section, each day of a continuing violation shall constitute a separate offense as shall the dumping from each of several vessels, or other sources.
 
 #### (d) Injunctive relief
 
@@ -78,7 +78,7 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 1992—Subsec. (b). Pub. L. 102–580, §508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
+“(1) In addition to any action which may be brought under subsection (a) of this section, a person whoknowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
 “(2) In addition to any action which may be brought under subsection (a) of this section, any person—
 

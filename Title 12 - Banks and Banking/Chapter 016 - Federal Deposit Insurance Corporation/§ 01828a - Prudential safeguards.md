@@ -32,7 +32,7 @@
 
 #### (2) Finding
 
-&emsp;The Board of Governors of the Federal Reserve System may exercise authority underparagraph (1) if the Board finds that the exercise of such authority is—
+&emsp;The Board of Governors of the Federal Reserve System may exercise authority under paragraph (1) if the Board finds that the exercise of such authority is—
 
 &emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
 

@@ -6,7 +6,7 @@ Each health maintenance organization shall, in accordance with regulations of th
 
 &emsp;(1) Such information as the Secretary may require demonstrating that the health maintenance organization has a fiscally sound operation.
 
-&emsp;(2) A copy of the report, if any, filed with the Health Care Financing Administration containing the information required to be reported under section 1320a–3 of this title by disclosing entities and the information required to be supplied under section 1396a(a)(38) of this title.
+&emsp;(2) A copy of the report, if any, filed with the Centers for Medicare \& Medicaid Services containing the information required to be reported under section 1320a–3 of this title by disclosing entities and the information required to be supplied under section 1396a(a)(38) of this title.
 
 &emsp;(3) A description of transactions, as specified by the Secretary, between the health maintenance organization and a party in interest. Such transactions shall include—
 
@@ -60,9 +60,11 @@ Any health maintenance organization failing to file with the Secretary the annua
 
 Whoever knowingly and willfully makes or causes to be made any false statement or representation of a material fact in any statement filed pursuant to this section shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
-(July 1, 1944, ch. 373, title XIII, §1318, as added Pub. L. 95–559, §9(a), Nov. 1, 1978, 92 Stat. 2135; amended Pub. L. 97–35, title IX, §948, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–660, title VIII, §810, Nov. 14, 1986, 100 Stat. 3801.)
+(July 1, 1944, ch. 373, title XIII, §1318, as added Pub. L. 95–559, §9(a), Nov. 1, 1978, 92 Stat. 2135; amended Pub. L. 97–35, title IX, §948, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–660, title VIII, §810, Nov. 14, 1986, 100 Stat. 3801; Pub. L. 108–173, title IX, §900(e)(2)(E), Dec. 8, 2003, 117 Stat. 2372.)
 
 #### Amendments
+
+2003—Subsec. (a)(2). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 1986—Subsec. (e). Pub. L. 99–660 struck out subsec. (e) which read as follows: “The Secretary shall file an annual report with the Congress on the operation of this section. Such report shall include—
 

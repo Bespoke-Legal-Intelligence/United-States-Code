@@ -8,13 +8,13 @@ Uniform Cost Accounting.—The Secretary of Defense, with the advice and assista
 
 Preparation of Budget Requests.—(1) Amounts requested for a fiscal year for the operation of each professional military education school shall be set forth as a separate budget request in the materials submitted by the Secretary of Defense to Congress in support of the budget request for the Department of Defense.
 
-(2) As executive agent for funding professional development education at the National Defense University, including the Joint Forces Staff College, the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall prepare the annual budget for professional development education operations at the National Defense University and set forth that request as a separate budget request in the materials submitted to Congress in support of the budget request for the Department of Defense. Nothing in the preceding sentence affects policies in effect on the date of the enactment of this paragraph with respect to budgeting for the funding of logistical and base operations support for components of the National Defense University through the military departments.
+(2) As executive agent for funding professional development education at the National Defense University, including the Joint Forces Staff College, the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall prepare the annual budget for professional development education operations at the National Defense University and set forth that request as a separate budget request in the materials submitted to Congress in support of the budget request for the Department of Defense. Nothing in the preceding sentence affects policies in effect on December 28, 2001, with respect to budgeting for the funding of logistical and base operations support for components of the National Defense University through the military departments.
 
 (3) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University and the joint professional military education curricula of the other professional military education schools.
 
 (c)
 
-Comparison of Budget Requests.—Materials prepared in support of the budget request for a professional military education school shall describe whether the amount requested for that school is comparable to the amounts requested for other professional military education schools, taking into consideration the size and activities of the schools.
+Comparison of Budget Requests.—Materials prepared in support of the budget request for a professional military education schoolshall describe whether the amount requested for that school is comparable to the amounts requested for other professional military education schools, taking into consideration the size and activities of the schools.
 
 (d)
 
@@ -36,13 +36,11 @@ Professional Military Education Schools.—This section applies to each of the f
 
 &emsp;(8) The Marine Corps University.
 
-(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, §527(b), Dec. 28, 2001, 115 Stat. 1102.)
-
-#### References in Text
-
-The date of the enactment of this paragraph, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 107–107, which was approved Dec. 28, 2001.
+(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, §527(b), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 107–314, div. A, title X, §1062(a)(7), Dec. 2, 2002, 116 Stat. 2650.)
 
 #### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–314 substituted “December 28, 2001,” for “the date of the enactment of this paragraph”.
 
 2001—Subsec. (b)(2), (3). Pub. L. 107–107 added par. (2) and redesignated former par. (2) as (3).
 

@@ -240,7 +240,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6311, 6362, 7221g, 7801 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9832, 9859, 12511.
+This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6311, 6362, 7221g, 7801 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 5116h, 9832, 9859, 12511.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

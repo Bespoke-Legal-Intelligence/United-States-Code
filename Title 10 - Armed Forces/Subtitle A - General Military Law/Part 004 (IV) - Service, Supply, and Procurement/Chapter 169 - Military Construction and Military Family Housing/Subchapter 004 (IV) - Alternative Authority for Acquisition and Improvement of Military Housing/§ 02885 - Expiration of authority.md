@@ -12,3 +12,7 @@ The authority to enter into a contract under this subchapter shall expire on Dec
 
 1997—Pub. L. 105–85 substituted “on February 10, 2001” for “five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2881a of this title.
+

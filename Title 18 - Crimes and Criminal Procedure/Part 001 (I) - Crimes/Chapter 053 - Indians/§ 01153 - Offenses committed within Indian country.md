@@ -60,5 +60,5 @@ Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1162, 3242, 3551, 3598, 4042, 5032 of this title; title 25 sections 1301, 1725, 1775d, 2802; title 42 section 14135a.
+This section is referred to in sections 1162, 3242, 3551, 3598, 4042, 5032 of this title; title 16 section 539m–6; title 25 sections 1301, 1725, 1775d, 2802; title 42 section 14135a.
 

@@ -1,0 +1,82 @@
+### §539m–6. Jurisdiction over the Area
+
+#### (a) Criminal jurisdiction
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of law, jurisdiction over crimes committed in the Area shall be allocated as provided in this paragraph.<sup>1</sup>
+
+#### (2) Jurisdiction of the Pueblo
+
+&emsp;The Pueblo shall have jurisdiction over an offense committed by a member of the Pueblo or of another federally-recognized Indian tribe who is present in the Area with the permission of the Pueblo under section 539m–3(a)(4) of this title.
+
+#### (3) Jurisdiction of the United States
+
+&emsp;The United States shall have jurisdiction over—
+
+&emsp;&emsp;(A) an offense described in section 1153 of title 18 committed by a member of the Pueblo or another federally-recognized Indian tribe;
+
+&emsp;&emsp;(B) an offense committed by any person in violation of the laws (including regulations) pertaining to the protection and management of national forests;
+
+&emsp;&emsp;(C) enforcement of Federal criminal laws of general applicability; and
+
+&emsp;&emsp;(D) any other offense committed by a member of the Pueblo against a person not a member of the Pueblo.
+
+#### (4) Jurisdiction of the State of New Mexico
+
+&emsp;The State of New Mexico shall have jurisdiction over an offense under the law of the State committed by a person not a member of the Pueblo.
+
+#### (5) Overlapping jurisdiction
+
+&emsp;To the extent that the respective allocations of jurisdiction over the Area under paragraphs (2), (3), and (4) overlap, the governments shall have concurrent jurisdiction.
+
+#### (6) Federal use of State law
+
+&emsp;Under the jurisdiction of the United States described in paragraph (3)(D), Federal law shall incorporate any offense defined and punishable under State law that is not so defined under Federal law.
+
+#### (b) Civil jurisdiction
+
+#### (1) In general
+
+&emsp;Except as provided in paragraphs (2) and (3), the United States, the State of New Mexico, and local public bodies shall have the same civil adjudicatory, regulatory, and taxing jurisdiction over the Area as was exercised by those entities on the day before February 20, 2003.
+
+#### (2) Jurisdiction of the Pueblo
+
+#### (A) In general
+
+&emsp;&emsp;The Pueblo shall have exclusive civil adjudicatory jurisdiction over—
+
+&emsp;&emsp;&emsp;(i) a dispute involving only members of the Pueblo;
+
+&emsp;&emsp;&emsp;(ii) a civil action brought by the Pueblo against a member of the Pueblo; and
+
+&emsp;&emsp;&emsp;(iii) a civil action brought by the Pueblo against a member of another federally-recognized Indian tribe for a violation of an understanding between the Pueblo and the other tribe regarding use of or access to the Area for traditional or cultural uses.
+
+#### (B) Regulatory jurisdiction
+
+&emsp;&emsp;The Pueblo shall have no regulatory jurisdiction over the Area, except that the Pueblo shall have exclusive authority to—
+
+&emsp;&emsp;&emsp;(i) regulate traditional or cultural uses by the members of the Pueblo and administer access to the Area by other federally-recognized Indian tribes for traditional or cultural uses, to the extent such regulation is consistent with sections 539m to 539m–12 of this title; and
+
+&emsp;&emsp;&emsp;(ii) regulate hunting and trapping in the Area by members of the Pueblo, to the extent that the hunting or trapping is related to traditional or cultural uses, except that such hunting and trapping outside of that portion of the Area in sections 13, 14, 23, 24, and the northeast quarter of section 25 of T12N, R4E, and section 19 of T12N, R5E, N.M.P.M., Sandoval County, New Mexico, shall be regulated by the Pueblo in a manner consistent with the regulations of the State of New Mexico concerning types of weapons and proximity of hunting and trapping to trails and residences.
+
+#### (C) Taxing jurisdiction
+
+&emsp;&emsp;The Pueblo shall have no authority to impose taxes within the Area.
+
+#### (3) State and local taxing jurisdiction
+
+&emsp;The State of New Mexico and local public bodies shall have no authority within the Area to tax the uses or the property of the Pueblo, members of the Pueblo, or members of other federally-recognized Indian tribes authorized to use the Area under section 539m–3(a)(4) of this title.
+
+(Pub. L. 108–7, div. F, title IV, §408, Feb. 20, 2003, 117 Stat. 286.)
+
+#### References in Text
+
+Sections 539m to 539m–12 of this title, referred to in subsec. (b)(2)(B)(i), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–7, 539m–8, 539m–9, 539m–10, 539m–11, 539m–12 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection.”</i>
+

@@ -6,7 +6,7 @@ When any duty is imposed upon a committee involving expenses that are ordered to
 
 #### Amendments
 
-1949—Act June 22, 1949, inserted “for committee expenses not involving personal services” after “Secretary of the Senate”, and omitted the requirement that the Secretary of the Senate file the vouchers with the General Accounting Office.
+<b>1949</b>—Act June 22, 1949, inserted “for committee expenses not involving personal services” after “Secretary of the Senate”, and omitted the requirement that the Secretary of the Senate file the vouchers with the General Accounting Office.
 
 #### Transfer of Functions
 

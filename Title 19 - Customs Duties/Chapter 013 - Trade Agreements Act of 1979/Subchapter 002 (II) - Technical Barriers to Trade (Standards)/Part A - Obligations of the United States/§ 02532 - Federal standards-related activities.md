@@ -48,7 +48,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (3) Performance criteria
 
-&emsp;Each Federal agency shall, if appropriate, develop standards based on performance criteria, such as those relating to the intended use of a product and the level of performance that the product must achieve under defined conditions, rather than on design criteria, such as those relating to the physical form of the product or the types of material of which the product is made.
+&emsp;Each Federal agency shall, if appropriate, develop standards based on performance criteria, such as those relating to the intended use of a product and the level of performance that the product must achieve under defined conditions, rather than on design criteria,such as those relating to the physical form of the product or the types of material of which the product is made.
 
 #### (4) Access for foreign suppliers
 

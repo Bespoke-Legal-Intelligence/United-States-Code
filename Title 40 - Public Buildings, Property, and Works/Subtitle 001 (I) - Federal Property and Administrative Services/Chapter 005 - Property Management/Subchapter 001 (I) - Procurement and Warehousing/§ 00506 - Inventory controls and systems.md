@@ -30,7 +30,7 @@ Special considerations regarding department of defense.—
 
 &emsp;&emsp;(A)
 
-In general.—The Administrator of General Services shall carry out activitiesunder paragraph (1) with due regard to the requirements of the Department of Defense, as determined by the Secretary of Defense.
+In general.—The Administrator of General Services shall carry out activities under paragraph (1) with due regard to the requirements of the Department of Defense, as determined by the Secretary of Defense.
 
 &emsp;&emsp;(B)
 

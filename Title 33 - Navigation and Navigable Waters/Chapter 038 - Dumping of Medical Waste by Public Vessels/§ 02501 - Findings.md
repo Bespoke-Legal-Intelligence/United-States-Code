@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) The washing ashore of potentially infectious medical wastes from public vessels of theUnited States may pose serious and widespread risks to public health and to the welfare of coastal communities.
+&emsp;(1) The washing ashore of potentially infectious medical wastes from public vessels of the United States may pose serious and widespread risks to public health and to the welfare of coastal communities.
 
 &emsp;(2) Current Federal law provides inadequate protections against the disposal of such wastes from such vessels into ocean waters.
 

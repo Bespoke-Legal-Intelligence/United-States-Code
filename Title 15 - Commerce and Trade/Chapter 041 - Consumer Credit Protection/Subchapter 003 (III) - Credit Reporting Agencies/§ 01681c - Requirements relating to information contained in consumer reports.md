@@ -4,7 +4,7 @@
 
 Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
 
-(1) cases <sup>1</sup> under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
+(1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
 (2) Civil suits, civil judgments, and records of arrest that, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.
 
@@ -36,7 +36,13 @@ The provisions of subsection (a) of this section are not applicable in the case 
 
 #### (d) Information required to be disclosed
 
-Any consumer reporting agency that furnishes a consumer report that contains information regarding any case involving the consumer that arises under title 11 shall include in the report an identification of the chapter of such title 11 under which such case arises if provided by the source of the information. If any case arising or filed under title 11 is withdrawn by the consumer before a final judgment, the consumer reporting agency shall include in the report that such case or filing was withdrawn upon receipt of documentation certifying such withdrawal.
+#### (1) Title 11 information
+
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains information regarding any case involving the consumer that arises under title 11 shall include in the report an identification of the chapter of such title 11 under which such case arises if provided by the source of the information. If any case arising or filed under title 11 is withdrawn by the consumer before a final judgment, the consumer reporting agency shall include in the report that such case or filing was withdrawn upon receipt of documentation certifying such withdrawal.
+
+#### (2) Key factor in credit score information
+
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations forthe purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 
@@ -44,17 +50,79 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(4) o
 
 #### (f) Indication of dispute by consumer
 
-If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>2</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact in each consumer report that includes the disputed information.
+If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) of this title that information regarding a consumer who <sup>1</sup> was furnished to the agency is disputed by the consumer, the agency shall indicate that fact in each consumer report that includes the disputed information.
 
-(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211.)
+#### (g) Truncation of credit card and debit card numbers
+
+#### (1) In general
+
+&emsp;Except as otherwise provided in this subsection, no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the cardholder at the point of the sale or transaction.
+
+#### (2) Limitation
+
+&emsp;This subsection shall apply only to receipts that are electronically printed, and shall not apply to transactions in which the sole means of recording a credit card or debit card account number is by handwriting or by an imprint or copy of the card.
+
+#### (3) Effective date
+
+&emsp;This subsection shall become effective—
+
+&emsp;&emsp;(A) 3 years after December 4, 2003, with respect to any cash register or other machine or device that electronically prints receipts for credit card or debit card transactions that is in use before January 1, 2005; and
+
+&emsp;&emsp;(B) 1 year after December 4, 2003, with respect to any cash register or other machine or device that electronically prints receipts for credit card or debit card transactions that is first put into use on or after January 1, 2005.
+
+#### (h) Notice of discrepancy in address
+
+#### (1) In general
+
+&emsp;If a person has requested a consumer report relating to a consumer from a consumer reporting agency described in section 1681a(p) of this title, the request includes an address for the consumer that substantially differs from the addresses in the file of the consumer, and the agency provides a consumer report in response to the request, the consumer reporting agency shall notify the requester of the existence of the discrepancy.
+
+#### (2) Regulations
+
+#### (A) Regulations required
+
+&emsp;&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, prescribe regulations providing guidance regarding reasonable policies and procedures that a user of a consumer report should employ when such user has received a notice of discrepancy under paragraph (1).
+
+#### (B) Policies and procedures to be included
+
+&emsp;&emsp;The regulations prescribed under subparagraph (A) shall describe reasonable policies and procedures for use by a user of a consumer report—
+
+&emsp;&emsp;&emsp;(i) to form a reasonable belief that the user knows the identity of the person to whom the consumer report pertains; and
+
+&emsp;&emsp;&emsp;(ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
+
+(Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011.)
+
+#### Amendment of Subsections (a) and (b)
+
+<i>Pub. L. 108–159, title IV, §412(b), (c), (g), Dec. 4, 2003, 117 Stat. 2002, 2003, provided that, effective at the end of the 15-month period beginning on Dec. 4, 2003, this section is amended as follows:</i>
+
+<i>subsection (a) is amended by adding at the end the following:</i>
+
+<i>“(6) The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—</i>
+
+&emsp;<i>“(A) such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific provider or the nature of such services, products, or devices to a person other than the consumer; or</i>
+
+&emsp;<i>“(B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.” and</i>
+
+<i>subsection (b) is amended by striking “The provisions of subsection (a)” and inserting “The provisions of paragraphs (1) through (5) of subsection (a)”.</i>
 
 #### References in Text
 
-The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, whichwas classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
 
 #### Amendments
 
-1998—Subsec. (a)(2). Pub. L. 105–347, §5(1), which directed the amendment of par. (2) by substituting “Civil suits, civil judgments, and records of arrest that” for “Suits and Judgments which”, was executed by making the substitution for “Suits and judgments which” to reflect the probable intent of Congress.
+2003—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted “(1) Cases” for “(1) cases”.
+
+Subsec. (a)(2). Pub. L. 108–159, §811(c)(2)(A), made technical correction to directory language of Pub. L. 105–347, §5(1). See 1998 Amendment note below.
+
+Subsec. (d). Pub. L. 108–159, §212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (g). Pub. L. 108–159, §113, added subsec. (g).
+
+Subsec. (h). Pub. L. 108–159, §315, added subsec. (h).
+
+1998—Subsec. (a)(2). Pub. L. 105–347, §5(1), as amended by Pub. L. 108–159, §811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
 
 Subsec. (a)(5), (6). Pub. L. 105–347, §5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
 
@@ -72,6 +140,14 @@ Subsecs. (e), (f). Pub. L. 104–208, §2406(d), added subsecs. (e) and (f).
 
 1978—Subsec. (a)(1). Pub. L. 95–598 substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+
+Amendment by section 412 of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
+
+Pub. L. 108–159, title VIII, §811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall be deemed to have the same effective date as section 5(1) of Public Law 105–347 (112 Stat. 3211) \[see Effective Date of 1998 Amendment note below\].”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
@@ -86,9 +162,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681e, 1681g, 1681t of this title; title 20 sections 1080a, 1087cc.
+This section is referred to in sections 1681b, 1681e, 1681g, 1681t of this title; title 20 sections 1080a, 1087cc.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “which”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “which”.</i>
 

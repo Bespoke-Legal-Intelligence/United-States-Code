@@ -20,7 +20,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 #### (3) PHAs having urgent or serious crime problems
 
-&emsp;The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated to carry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
+&emsp;The Secretary shall, by regulations issued after notice and opportunity for public comment, set forth criteria for establishing a class of public housing agencies that have urgent or serious crime problems. The Secretary may reserve a portion of the amount appropriated tocarry out this subchapter in each fiscal year only for grants for public housing agencies in such class, except that any amounts from such portion reserved that are not obligated to agencies in the class shall be made available only for agencies that are subject to a preference under paragraph (2)(A).
 
 #### (4) Inapplicability to federally assisted low-income housing
 
@@ -28,7 +28,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 #### (c) Criteria
 
-The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection\(b)(2)(A) of this section on the basis of thresholds or criteria such as—
+The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection (b)(2)(A) of this section on the basis of thresholds or criteria such as—
 
 &emsp;(1) the extent of the drug-related or violent crime problem in and around the public or federally assisted low-income housing project or projects proposed for assistance;
 

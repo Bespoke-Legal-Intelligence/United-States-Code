@@ -72,7 +72,7 @@ Cancellation of unobligated balances.—All balances of unobligated funds withdr
 
 “(4)
 
-Cancellation of obligated balances.—On the third September 30th after the date of the enactment of this Act, all obligated balances transferred under subsection 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act, shall be canceled.
+Cancellation of obligated balances.—On the third September 30th after the date of the enactment ofthis Act, all obligated balances transferred under subsection 1552(a)(1) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act, shall be canceled.
 
 “(5)
 

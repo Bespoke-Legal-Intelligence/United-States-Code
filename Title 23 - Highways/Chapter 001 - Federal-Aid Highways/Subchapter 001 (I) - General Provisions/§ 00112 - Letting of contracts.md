@@ -44,7 +44,7 @@ Application of rates.—Once a firm's indirect cost rates are accepted under thi
 
 &emsp;&emsp;(F)
 
-Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such datashall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
 &emsp;&emsp;(G)
 
@@ -110,13 +110,13 @@ State law.—Paragraph (1) shall apply in a State except to the extent that such
 
 Design-build contracts.—Paragraph (1) shall not apply to any design-build contract approved under subsection (b)(3).
 
-(f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.
+(f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of aState are working on a project outside of such political subdivision.
 
 (g)
 
 Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design work on the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2,1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299.)
 
 #### References in Text
 

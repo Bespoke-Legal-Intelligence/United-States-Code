@@ -16,7 +16,7 @@ To the extent that the United States has jurisdiction to prohibit such activity 
 
 #### (c) Presidential determination and order with respect to United States and foreign persons
 
-If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) of this section applies), the President shall, by order, impose the sanctions described in subsection (d) of this section on such person.
+If the President determines,,<sup>1</sup> that a United States person or a foreign person has engaged ina prohibited activity (without regard to whether subsection (b) of this section applies), the President shall, by order, impose the sanctions described in subsection (d) of this section on such person.
 
 #### (d) Sanctions
 

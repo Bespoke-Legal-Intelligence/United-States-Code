@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Commerce shall establish, within the International Trade Administration, the United States and Foreign Commercial Service. The Secretary shall, to the greatest extent practicable, transfer to the Commercial Service the functions and personnel ofthe United States and Foreign Commercial Services.
+&emsp;The Secretary of Commerce shall establish, within the International Trade Administration, the United States and Foreign Commercial Service. The Secretary shall, to the greatest extent practicable, transfer to the Commercial Service the functions and personnel of the United States and Foreign Commercial Services.
 
 #### (2) Assistant Secretary of Commerce and Director General; other personnel
 
@@ -62,7 +62,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 &emsp;(C) Upon the request of the Secretary, the Secretary of State shall attach the Commercial Service Officers and other employees of each foreign office to the diplomatic mission of the United States in the country in which that foreign office is located, and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by Foreign Service personnel of comparable rank and salary.
 
-&emsp;(D) For purposes of official representation, the senior Commercial Service Officer in eachcountry shall be considered to be the senior commercial representative of the United States in that country, and the United States chief of mission in that country shall accord that officer all privileges and responsibilities appropriate to the position of senior commercial representative of other countries.
+&emsp;(D) For purposes of official representation, the senior Commercial Service Officer in each country shall be considered to be the senior commercial representative of the United States in that country, and the United States chief of mission in that country shall accord that officer all privileges and responsibilities appropriate to the position of senior commercial representative of other countries.
 
 &emsp;(E) The Secretary of State is authorized, upon the request of the Secretary, to provide office space, equipment, facilities, and such other administrative and clerical services as may be required for the operation of the foreign offices. The Secretary is authorized to reimburse or advance funds to the Secretary of State for such services.
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52\(§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 

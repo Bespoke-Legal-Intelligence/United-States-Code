@@ -6,7 +6,15 @@ Establishment.—There is established in the Treasury an account to be known as 
 
 (b)
 
-Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department or the Secretary of Defense with respect to Defense-wide appropriations accounts of the availability and source of funds described in subparagraph (B), that Secretary may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
+Funds Available for Account.—The Defense Modernization Account shall consist of the following:
+
+&emsp;(1) Amounts appropriated to the Defense Modernization Account for the costs of commencing projects described in subsection (d)(1), and amounts reimbursed to the Defense Modernization Account under subsections <sup>1</sup> (c)(1)(B)(iii) out of savings derived from such projects.
+
+&emsp;(2) Amounts transferred to the Defense Modernization Account under subsection (c).
+
+(c)
+
+Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department or the Secretary of Defense with respect to Defense-wide appropriations accounts of the availability and source of funds described in subparagraph (B), that Secretary may transfer to the Defense Modernization Account during any fiscal year any amount of funds available tothe Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
 
 (B) This subsection applies to the following funds available to the Secretary concerned:
 
@@ -14,9 +22,11 @@ Transfers to Account.—(1)(A) Upon a determination by the Secretary of a milita
 
 &emsp;(ii) Unexpired funds that are available during the final 30 days of a fiscal year for support of installations and facilities and that, as a result of economies, efficiencies, and other savings, are excess to the requirements for support of installations and facilities.
 
+&emsp;(iii) Unexpired funds in appropriations accounts that are available for procurement or operation and maintenance of a system, if and to the extent that savings are achieved for such accounts through reductions in life cycle costs of such system that result from one or more projects undertaken with respect to such systems with funds made available from the Defense Modernization Account under subsection (b)(1).
+
 (C) Any transfer under subparagraph (A) shall be made under regulations prescribed by the Secretary of Defense.
 
-(2) Funds referred to in paragraph (1) may not be transferred to the Defense Modernization Account if—
+(2) Funds referred to in paragraph (1), other than funds referred to in subparagraph (B)(iii) of such paragraph, may not be transferred to the Defense Modernization Account if—
 
 &emsp;(A) the funds are necessary for programs, projects, and activities that, as determined by the Secretary, have a higher priority than the purposes for which the funds would be available if transferred to that account; or
 
@@ -26,17 +36,15 @@ Transfers to Account.—(1)(A) Upon a determination by the Secretary of a milita
 
 (4) The period of availability of funds for expenditure provided for in sections 1551 and 1552 of title 31 may not be extended by transfer into the Defense Modernization Account.
 
-(c)
-
-Scope of Use of Funds.—Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.
-
 (d)
 
-Authorized Use of Funds.—Funds available from the Defense Modernization Account pursuant to subsection (f) or (g) may be used for the following purposes:
+Authorized Use of Funds.—Funds in the Defense Modernization Account may be used for the following purposes:
 
-&emsp;(1) For increasing, subject to subsection (e), the quantity of items and services procured under a procurement program in order to achieve a more efficient production or delivery rate.
+&emsp;(1) For paying the costs of commencing any project that, in accordance with criteria prescribed by the Secretary of Defense, is undertaken by the Secretary of a military department or the head of a Defense Agency or other element of the Department of Defense to reduce the life cycle cost of a new or existing system.
 
-&emsp;(2) For research, development, test, and evaluation and for procurement necessary for modernization of an existing system or of a system being procured under an ongoing procurement program.
+&emsp;(2) For increasing, subject to subsection (e), the quantity of items and services procured under a procurement program in order to achieve a more efficient production or delivery rate.
+
+&emsp;(3) For research, development, test, and evaluation and for procurement necessary for modernization of an existing system or of a system being procured under an ongoing procurement program.
 
 (e)
 
@@ -50,7 +58,7 @@ Limitations.—(1) Funds in the Defense Modernization Account may not be used to
 
 &emsp;(B) result in an obligation or expenditure of funds in excess of a specific limitation provided by law on the amount that may be obligated or expended, respectively, for that procurement program.
 
-(2) Funds in the Defense Modernization Account may not be used for a purpose or programfor which Congress has not authorized appropriations.
+(2) Funds in the Defense Modernization Account may not be used for a purpose or program for which Congress has not authorized appropriations.
 
 (3) Funds may not be transferred from the Defense Modernization Account in any year for the purpose of—
 
@@ -72,17 +80,29 @@ Availability of Funds by Appropriation.—In addition to transfers under subsect
 
 (h)
 
-Secretary To Act Through Comptroller.—The Secretary of Defense shall carry out this section through the Under Secretary of Defense (Comptroller), who shall be authorized to implement this section through the issuance of any necessary regulations, policies, and procedures after consultation with the General Counsel and Inspector General of the Department of Defense.
+Secretary To Act Through Comptroller.—(1) The Secretary of Defense shall carry out this section through the Under Secretary of Defense (Comptroller), who shall be authorized to implement this section through the issuance of any necessary regulations, policies, and procedures after consultation with the General Counsel and Inspector General of the Department of Defense.
+
+(2) The regulations prescribed under paragraph (1) shall, at a minimum, provide for—
+
+&emsp;(A) the submission of proposals by the Secretaries concerned or heads of Defense Agencies or other elements of the Department of Defense to the Comptroller for the use of Defense Modernization Account funds for purposes set forth in subsection (d);
+
+&emsp;(B) the use of a competitive process for the evaluation of such proposals and the selection of programs, projects, and activities to be funded out of the Defense Modernization Account from among those proposed for such funding; and
+
+&emsp;(C) the calculation of—
+
+&emsp;&emsp;(i) the savings to be derived from projects described in subsection (d)(1) that are to be funded out of the Defense Modernization Account; and
+
+&emsp;&emsp;(ii) the amounts to be reimbursed to the Defense Modernization Account out of such savings pursuant to subsection (c)(1)(B)(iii).
 
 (i)
 
-Quarterly Reports.—(1) Not later than 15 days after the end of each calendar quarter, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on the Defense Modernization Account. Each such report shall set forth the following:
+Annual Report.—(1) Not later than 15 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on the Defense Modernization Account. Each such report shall set forth the following:
 
-&emsp;(A) The amount and source of each credit to the account during that quarter.
+&emsp;(A) The amount and source of each credit to the account during that fiscal year.
 
-&emsp;(B) The amount and purpose of each transfer from the account during that quarter.
+&emsp;(B) The amount and purpose of each transfer from the account during that fiscal year.
 
-&emsp;(C) The balance in the account at the end of the quarter and, of such balance, the amount attributable to transfers to the account from each Secretary concerned.
+&emsp;(C) The balance in the account at the end of the fiscal year and, of such balance, the amount attributable to transfers to the account from each Secretary concerned.
 
 (2) The committees referred to in paragraph (1) are the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
 
@@ -94,13 +114,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
 
-&emsp;(3) The term “congressional defense committees” means—
+(k)
 
-&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+Expiration of Authority and Account.—(1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2006.
 
-&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+(2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611.)
 
 #### Codification
 
@@ -111,6 +131,30 @@ Another section 2216 was renumbered section 2216a of this title and subsequently
 A prior section 2216, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), Nov. 14, 1986, 100 Stat. 3980, related to annual reports on budgeting for inflation, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(8), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–136, §1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 108–136, §1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
+
+Subsec. (c)(1)(B)(iii). Pub. L. 108–136, §1008(c)(1), added cl. (iii).
+
+Subsec. (c)(2). Pub. L. 108–136, §1008(c)(2), inserted “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)”.
+
+Subsec. (d). Pub. L. 108–136, §1008(b), substituted “in the Defense Modernization Account” for “available from the Defense Modernization Account pursuant to subsection (f) or (g)” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Subsec. (h). Pub. L. 108–136, §1008(d), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (i). Pub. L. 108–136, §1008(e)(1), substituted “Annual Report” for “Quarterly Reports” in heading.
+
+Subsec. (i)(1). Pub. L. 108–136, §1008(e)(1), (2), substituted “fiscal year” for “calendar quarter” in introductory provisions and “fiscal year” for “quarter” in subpars. (A) to (C).
+
+Subsec. (j)(3). Pub. L. 108–136, §1043(b)(8), struck out par. (3) which read as follows: “The term ‘congressional defense committees’ means—
+
+&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+
+Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 
 1999—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -124,31 +168,11 @@ Section 912(b) of Pub. L. 104–106 provided that: “Section 2216 of title 10, 
 
 #### Expiration of Authority and Account
 
-Section 912(c) of Pub. L. 104–106 provided that:
-
-“(1) The authority under section 2216(b) of title 10, United States Code (as added by subsection (a)), to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2003.
-
-“(2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.”
+Pub. L. 104–106, div. A, title IX, §912(c), Feb. 10, 1996, 110 Stat. 410, as amended by Pub. L. 107–314, div. A, title VIII, §825(a)(1), Dec. 2, 2002, 116 Stat. 2615, provided that authority under section 2216(b) of this title to transfer funds into Defense Modernization Account terminated at close of Sept. 30, 2002, and the Account was to be closed three years later, prior to repeal by Pub. L. 108–136, div. A, title X, §1008(f)(2), Nov. 24, 2003, 117 Stat. 1587.
 
 #### GAO Reviews
 
-Section 912(d) of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title IX, §912(d), Feb. 10, 1996, 110 Stat. 410, required Comptroller General of the United States to conduct two reviews of the administration of the Defense Modernization Account, prior to repeal by Pub. L. 107–314, div. A, title VIII, §825(a)(2), Dec. 2, 2002, 116 Stat. 2615.
 
-“(1) The Comptroller General of the United States shall conduct two reviews of the administration of the Defense Modernization Account. In each review, the Comptroller General shall assess the operations and benefits of the account.
-
-“(2) Not later than March 1, 2000, the Comptroller General shall—
-
-&emsp;“(A) complete the first review; and
-
-&emsp;“(B) submit to the specified committees of Congress an initial report on the administration and benefits of the Defense Modernization Account.
-
-“(3) Not later than March 1, 2003, the Comptroller General shall—
-
-&emsp;“(A) complete the second review; and
-
-&emsp;“(B) submit to the specified committees of Congress a final report on the administration and benefits of the Defense Modernization Account.
-
-“(4) Each such report shall include any recommended legislation regarding the account that the Comptroller General considers appropriate.
-
-“(5) For purposes of this subsection, the term ‘specified committees of Congress’ means the congressionalcommittees referred to in section 2216(i)(2) of title 10, United States Code, as added by subsection (a).”
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -40,7 +40,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 > &emsp;&emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>1</sup>
 
-> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
+> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of thissubsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
 
 #### (b) User reports
 
@@ -146,7 +146,7 @@ Subsection (a) of this section shall not apply to—
 
 > A manufacturer or importer of a device who undertakes a correction or removal of a device which is not required to be reported under this paragraph shall keep a record of such correction or removal.
 
-(2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action orremoval is required and has been submitted under subsection (a) of this section.
+(2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a) of this section.
 
 (3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 
@@ -182,7 +182,7 @@ Subsec. (d). Pub. L. 105–115, §213(a)(2), struck out heading and text of subs
 
 Subsec. (e). Pub. L. 105–115, §211, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Every person who registers under section 360 of this title and is engaged in the manufacture of—
 
-&emsp;“(1) a device the failure of which would be reasonably likely to have serious adverse health consequences and which is (A) a permanently implantable device, or (B) a life sustaining or life supporting device used outside a device user facility, or
+&emsp;“(1) a device the failure of which would be reasonably likely to have serious adverse health consequences and which is (A) a permanently implantabledevice, or (B) a life sustaining or life supporting device used outside a device user facility, or
 
 &emsp;“(2) any other device which the Secretary may designate,
 

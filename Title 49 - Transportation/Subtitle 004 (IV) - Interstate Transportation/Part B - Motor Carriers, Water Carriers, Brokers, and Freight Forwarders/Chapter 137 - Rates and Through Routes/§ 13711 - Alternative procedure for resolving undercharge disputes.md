@@ -10,7 +10,7 @@ Jurisdiction of Board.—
 
 &emsp;(1)
 
-Determination.—The Board shall have jurisdiction to make a determination ofwhether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to charge or the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
+Determination.—The Board shall have jurisdiction to make a determination of whether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to charge or the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
 
 &emsp;(2)
 

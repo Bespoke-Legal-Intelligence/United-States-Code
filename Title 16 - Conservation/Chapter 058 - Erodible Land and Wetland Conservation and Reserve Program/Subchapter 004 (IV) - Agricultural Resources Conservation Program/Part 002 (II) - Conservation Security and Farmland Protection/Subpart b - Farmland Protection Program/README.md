@@ -2,7 +2,7 @@ subpart b—farmland protection program
 
 #### Codification
 
-Section 2503(a) of Pub. L. 107–171, which directed that subchapter B (this subpart) be added at the end of chapter 2 (this part) of the Food Security Act of 1985, was executed by adding subchapter B after subchapter A of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (subpart A of this part) to reflect the probable intent of Congress and a prior amendment by section 2401 of Pub. L. 107–171, which had added subchapter C (subpart C of this part) at the end of chapter 2 of subtitle D of title XII of the Food Security Act of 1985.
+Section 2503(a) of Pub. L. 107–171, which directed that subchapter B (this subpart) be added at the end of chapter 2 of the Food Security Act of 1985, was executed by adding subchapter B after subchapter A of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (subpart A of this part) to reflect the probable intent of Congress and a prior amendment by section 2401 of Pub. L. 107–171, which had added subchapter C (subpart C of this part) at the end of chapter 2 of subtitle D of title XII of the Food Security Act of 1985.
 
 #### Subpart Referred to in Other Sections
 

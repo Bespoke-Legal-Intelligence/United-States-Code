@@ -62,13 +62,13 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (B) Exception for prior obligations
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2003, in accordance with the provisions of this section.
+&emsp;&emsp;Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before March 1, 2004, in accordance with the provisions of this section.
 
 #### (c) Expenditures from Highway Trust Fund
 
 #### (1) Federal-aid highway program
 
-&emsp;Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2003, to meet those obligations of the United States heretofore or hereafter incurred which are—
+&emsp;Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before March 1, 2004, to meet those obligations of the United States heretofore or hereafter incurred which are—
 
 &emsp;&emsp;(A) authorized by law to be paid out of the Highway Trust Fund established by section 209 of the Highway Revenue Act of 1956,
 
@@ -76,11 +76,13 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;&emsp;(C) authorized to be paid out of the Highway Trust Fund under the Surface Transportation and Uniform Relocation Assistance Act of 1987,
 
-&emsp;&emsp;(D) authorized to be paid out of the Highway Trust Fund under the Intermodal Surface Transportation Efficiency Act of 1991, or
+&emsp;&emsp;(D) authorized to be paid out of the Highway Trust Fund under the Intermodal Surface Transportation Efficiency Act of 1991,
 
-&emsp;&emsp;(E) authorized to be paid out of the Highway Trust Fund under the Transportation Equity Act for the 21st Century.
+&emsp;&emsp;(E) authorized to be paid out of the Highway Trust Fund under the Transportation Equity Act for the 21st Century, or
 
-> &emsp;In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of the TEA 21 Restoration Act.
+&emsp;&emsp;(F) authorized to be paid out of the Highway Trust Fund under the Surface Transportation Extension Act of 2003.
+
+> &emsp;In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of the Surface Transportation Extension Act of 2003.
 
 #### (2) Transfers from Highway Trust Fund for certain repayments and credits
 
@@ -172,7 +174,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the SportFish Restoration Account in the Aquatic Resources Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990, and before October 1, 2005.
+&emsp;&emsp;The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration Account in the Aquatic Resources Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990, and before October 1, 2005.
 
 #### (B) Small-engine fuel taxes
 
@@ -244,7 +246,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (1) Creation of account
 
-&emsp;There is established in the Highway Trust Fund a separate account to be known as the“Mass Transit Account” consisting of such amounts as may be transferred or credited to the Mass Transit Account as provided in this subsection or section 9602(b).
+&emsp;There is established in the Highway Trust Fund a separate account to be known as the “Mass Transit Account” consisting of such amounts as may be transferred or credited to the Mass Transit Account as provided in this subsection or section 9602(b).
 
 #### (2) Transfers to Mass Transit Account
 
@@ -262,15 +264,17 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (3) Expenditures from Account
 
-&emsp;Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital-related expenditures before October 1, 2003 (including capital expenditures for new projects) in accordance with—
+&emsp;Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital-related expenditures before March 1, 2004 (including capital expenditures for new projects) in accordance with—
 
 &emsp;&emsp;(A) section 5338(a)(1) or (b)(1) of title 49,
 
-&emsp;&emsp;(B) the Intermodal Surface Transportation Efficiency Act of 1991, or
+&emsp;&emsp;(B) the Intermodal Surface Transportation Efficiency Act of 1991,
 
-&emsp;&emsp;(C) the Transportation Equity Act for the 21st Century,
+&emsp;&emsp;(C) the Transportation Equity Act for the 21st Century, or
 
-> &emsp;as such section and Acts are in effect on the date of the enactment of the TEA 21 Restoration Act.
+&emsp;&emsp;(D) the Surface Transportation Extension Act of 2003,
+
+> &emsp;as such section and Acts are in effect on the date of the enactment of the Surface Transportation Extension Act of 2003.
 
 #### (4) Limitation
 
@@ -296,7 +300,7 @@ For purposes of determining the balances of the Highway Trust Fund and the Mass 
 
 > The Secretary shall cancel obligations held by the Highway Trust Fund to reflect the reduction in the balance under this subsection.
 
-(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d), title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
+(Added Pub. L. 97–424, title V, §531(a), Jan. 6, 1983, 96 Stat. 2187; amended Pub. L. 98–369, div. A, title IV, §474(r)(43), title IX, §911(d)(1), title X, §1016(b), July 18, 1984, 98 Stat. 847, 1006, 1020; Pub. L. 99–499, title V, §521(b)(1), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–640, §7(a), Nov. 10, 1986, 100 Stat. 3547; Pub. L. 100–17, title V, §§503(a), (b), 504, Apr. 2, 1987, 101 Stat. 257, 258; Pub. L. 100–203, title X, §10502(d)(13)–(15), Dec. 22, 1987, 101 Stat. 1330–444, 1330–445; Pub. L. 100–448, §6(a)(1), (3), Sept. 28, 1988, 102 Stat. 1839; Pub. L. 101–239, title VII, §7822(b)(6), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 101–508, title XI, §11211(a)(5)(D)–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, 104 Stat. 1388–424, 1388–426, 1388–427; Pub. L. 102–240, title VIII, §§8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 103–66, title XIII, §§13242(d)(34)–(41), 13244(a), Aug. 10, 1993, 107 Stat. 527, 529; Pub. L. 103–429, §4, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–34, title IX, §901(a)–(d),title X, §1032(e)(13), (14), title XVI, §1601(f)(2), Aug. 5, 1997, 111 Stat. 871, 872, 935, 1090; Pub. L. 105–102, §1, Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–130, §9(a), Dec. 1, 1997, 111 Stat. 2560; Pub. L. 105–178, title IX, §§9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, 112 Stat. 500, 501, 503, 504, 508; Pub. L. 105–206, title IX, §9015(a), July 22, 1998, 112 Stat. 867; Pub. L. 105–225, §7(a), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 105–277, div. A, title IV, §4006(b)(1), Oct. 21, 1998, 112 Stat. 2681–912; Pub. L. 105–354, §2(c)(2), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–88, §12(a), Sept. 30, 2003, 117 Stat. 1128.)
 
 #### References in Text
 
@@ -310,11 +314,19 @@ The Intermodal Surface Transportation Efficiency Act of 1991, referred to in sub
 
 The Transportation Equity Act for the 21st Century, referred to in subsecs. (c)(1)(E) and (e)(3)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of Title 23, Highways, and Tables.
 
-The date of the enactment of the TEA 21 Restoration Act, referred to in subsecs. (c)(1) and (e)(3), is the date of enactment of title IX of Pub. L. 105–206, which was approved July 22, 1998.
+The date of the enactment of the Surface Transportation Extension Act of 2003, referred to in subsecs. (c)(1) and (e)(3), is the date of enactment of Pub. L. 108–88, which was approved Sept. 30, 2003.
+
+The Surface Transportation Extension Act of 2003, referred to in subsecs. (c)(1)(F) and (e)(3)(D), is Pub. L. 108–88, Sept. 30, 2003, 117 Stat. 1110. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of Title 23, Highways, and Tables.
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (c)(4)(B)(i), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended. Title I of that Act is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
 
 #### Amendments
+
+2003—Subsec. (b)(5)(B). Pub. L. 108–88, §12(a)(3), substituted “March 1, 2004” for “October 1, 2003”.
+
+Subsec. (c)(1). Pub. L. 108–88, §12(a)(1), substituted “March 1, 2004” for “October 1, 2003” in introductory provisions, added subpar. (F), and substituted “Surface Transportation Extension Act of 2003” for “TEA 21 Restoration Act” in concluding provisions.
+
+Subsec. (e)(3). Pub. L. 108–88, §12(a)(2), substituted “March 1, 2004” for “October 1, 2003” in introductory provisions, added subpar. (D), and substituted “Surface Transportation Extension Act of 2003” for “TEA 21 Restoration Act” in concluding provisions.
 
 2000—Subsec. (b)(5), (6). Pub. L. 106–554 redesignated par. (6) as (5) and struck out heading and text of former par. (5). Text read as follows: “For purposes of this section, the amounts which would (but for this paragraph) be required to be appropriated under subparagraphs (A) and (E) of paragraph (1) shall be reduced by—
 
@@ -386,7 +398,7 @@ Subsec. (e)(3). Pub. L. 105–225, §7(a), which added second period at the end 
 
 Pub. L. 105–178, §9002(f)(5), as added by Pub. L. 105–206, §9015(a), substituted “the date of the enactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century” in concluding provisions.
 
-Pub. L. 105–178, §9002(d)(2), substituted “2003” for “1998” in introductory provisions, added subpar. (C), and substituted “as such section and Acts are in effect on the date of enactment of the Transportation Equity Act for the 21st Century.” for “as section 5338(a)(1) or\(b)(1) and the Intermodal Surface Transportation Efficiency Act of 1991 were in effect on December 18, 1991” in concluding provisions.
+Pub. L. 105–178, §9002(d)(2), substituted “2003” for “1998” in introductory provisions, added subpar. (C), and substituted “as such section and Acts are in effect on the date of enactment of the Transportation Equity Act for the 21st Century.” for “as section 5338(a)(1) or (b)(1) and the Intermodal Surface Transportation Efficiency Act of 1991 were in effect on December 18, 1991” in concluding provisions.
 
 Subsec. (e)(4). Pub. L. 105–178, §9004(d), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account except that subsection (d)(1) shall be applied by substituting ‘12-month’ for ‘24-month’.”
 
@@ -536,6 +548,10 @@ Subsec. (e)(2). Pub. L. 98–369, §911(d)(1)(A), amended par. (2) generally, su
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–88, §12(c), Sept. 30, 2003, 117 Stat. 1129, provided that: “The amendments made by this section \[amending this section and section 9504 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 30, 2003\].”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title III, §318(e)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxes received in the Treasury after the date of the enactment of this Act \[Dec. 21, 2000\].”
@@ -616,7 +632,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-New highway trust fund treated as continuation of old.—The Highway Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the Highway Trust Fund established by section 209 of the Highway Revenue Act of 1956 \[section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, set out as a note under section 120 of Title 23, Highways\]. Any reference in any law to the Highway Trust Fund established by such section 209 shall be deemed to include (wherever appropriate) a reference to the Highway Trust Fund established by the amendments made by this section.”
+New highway trust fund treated as continuation of old.—The Highway Trust Fund established bythe amendments made by this section shall be treated for all purposes of law as the continuation of the Highway Trust Fund established by section 209 of the Highway Revenue Act of 1956 \[section 209 of act June 29, 1956, ch. 462, title II, 70 Stat. 397, set out as a note under section 120 of Title 23, Highways\]. Any reference in any law to the Highway Trust Fund established by such section 209 shall be deemed to include (wherever appropriate) a reference to the Highway Trust Fund established by the amendments made by this section.”
 
 #### Report on Nonhighway Recreational Fuel Taxes
 

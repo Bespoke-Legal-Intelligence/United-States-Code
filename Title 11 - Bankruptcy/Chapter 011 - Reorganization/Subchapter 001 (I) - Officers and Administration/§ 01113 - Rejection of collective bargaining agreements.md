@@ -8,7 +8,7 @@
 
 &emsp;(B) provide, subject to subsection (d)(3), the representative of the employees with such relevant information as is necessary to evaluate the proposal.
 
-(2) During the period beginning on the date of the making of a proposal provided for in paragraph (1) and ending on the date of the hearing provided for in subsection (d)(1), the trustee shall meet, at reasonable times, with the authorized representative to confer in good faith in attempting to reach mutually satisfactory modifications of such agreement.
+(2) During the period beginning on the date of the making of a proposal provided for in paragraph (1) and ending on the date of the hearingprovided for in subsection (d)(1), the trustee shall meet, at reasonable times, with the authorized representative to confer in good faith in attempting to reach mutually satisfactory modifications of such agreement.
 
 (c) The court shall approve an application for rejection of a collective bargaining agreement only if the court finds that—
 
@@ -20,7 +20,7 @@
 
 (d)(1) Upon the filing of an application for rejection the court shall schedule a hearing to be held not later than fourteen days after the date of the filing of such application. All interested parties may appear and be heard at such hearing. Adequate notice shall be provided to such parties at least ten days before the date of such hearing. The court may extend the time for the commencement of such hearing for a period not exceeding seven days where the circumstances of the case, and the interests of justice require such extension, or for additional periods of time to which the trustee and representative agree.
 
-(2) The court shall rule on such application for rejection within thirty days after the date of thecommencement of the hearing. In the interests of justice, the court may extend such time for ruling for such additional period as the trustee and the employees’ representative may agree to. If the court does not rule on such application within thirty days after the date of the commencement of the hearing, or within such additional time as the trustee and the employees’ representative may agree to, the trustee may terminate or alter any provisions of the collective bargaining agreement pending the ruling of the court on such application.
+(2) The court shall rule on such application for rejection within thirty days after the date of the commencement of the hearing. In the interests of justice, the court may extend such time for ruling for such additional period as the trustee and the employees’ representative may agree to. If the court does not rule on such application within thirty days after the date of the commencement of the hearing, or within such additional time as the trustee and the employees’ representative may agree to, the trustee may terminate or alter any provisions of the collective bargaining agreement pending the ruling of the court on such application.
 
 (3) The court may enter such protective orders, consistent with the need of the authorized representative of the employee to evaluate the trustee's proposal and the application for rejection, as may be necessary to prevent disclosure of information provided to such representative where such disclosure could compromise the position of the debtor with respect to its competitors in the industry in which it is engaged.
 

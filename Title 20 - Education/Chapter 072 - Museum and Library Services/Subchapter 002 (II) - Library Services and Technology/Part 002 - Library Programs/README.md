@@ -2,9 +2,7 @@ Part 2—
 
 Library Programs
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “under”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “under”.</i>
 
 
 ---

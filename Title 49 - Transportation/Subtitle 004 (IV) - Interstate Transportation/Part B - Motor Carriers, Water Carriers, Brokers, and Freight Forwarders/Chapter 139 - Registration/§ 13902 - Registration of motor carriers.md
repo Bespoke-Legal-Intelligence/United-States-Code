@@ -66,7 +66,7 @@ Preemption of state regulation regarding certain service.—No State or politica
 
 &emsp;(5)
 
-Jurisdiction over certain intrastate transportation.—Subject to section 14501(a), any intrastate transportation authorized by this subsection shall be treated as transportation subject to jurisdiction under subchapter I of chapter 135 until such time as the carrier takes such action as is necessary to establish under the laws of such State rates, rules, and practices applicable to such transportation, but in no case later than the 30th day following the date on which the motor carrier of passengers first begins providing transportation entirely in one State under this paragraph.
+Jurisdiction over certain intrastate transportation.—Subject to section 14501(a), any intrastate transportation authorized by this subsection shall be treated as transportation subject to jurisdiction under subchapter I of chapter 135 until such time as the carrier takes such action as is necessary to establish under the laws of such State rates, rules, and practices applicable to such transportation, but in no case later than the 30th day following the date on which the motor carrier of passengers first begins providingtransportation entirely in one State under this paragraph.
 
 &emsp;(6)
 
@@ -302,7 +302,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(A) all new inspector positions funded under this Act \[see Tables for classification\] have been filled and the inspectors have been fully trained;
 
-&emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
+&emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with thesafety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
 
 &emsp;&emsp;“(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
 
@@ -356,7 +356,7 @@ Memorandum of President of the United States, Jan. 1, 1994, 59 F.R. 653, provide
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium inwhole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
 As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule of liberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
 
@@ -416,7 +416,7 @@ Memorandum of President of the United States, Nov. 27, 2002, 67 F.R. 71795, prov
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
+Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuanceof certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
 
 Pursuant to 49 U.S.C. 13902(c)(3), I modified the moratorium on June 5, 2001, to allow motor carriers domiciled in the United States that are owned or controlled by persons of Mexico to obtain operating authority to transport international cargo by truck between points in the United States and to provide bus services between points in the United States.
 

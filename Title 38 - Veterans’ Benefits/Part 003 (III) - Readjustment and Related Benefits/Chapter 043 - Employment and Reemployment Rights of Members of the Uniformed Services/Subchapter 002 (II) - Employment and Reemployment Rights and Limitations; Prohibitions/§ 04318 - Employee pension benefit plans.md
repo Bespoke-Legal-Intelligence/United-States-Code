@@ -1,6 +1,6 @@
 ### §4318. Employee pension benefit plans
 
-(a)(1)(A) Except as provided in subparagraph (B), in the case of a right provided pursuant to an employee pension benefit plan (including those described in sections 3(2) and 3(33) of the Employee Retirement Income Security Act of 1974) or a right provided under any Federal or State law governing pension benefits for governmental employees, the right to pension benefitsof a person reemployed under this chapter shall be determined under this section.
+(a)(1)(A) Except as provided in subparagraph (B), in the case of a right provided pursuant to an employee pension benefit plan (including those described in sections 3(2) and 3(33) of the Employee Retirement Income Security Act of 1974) or a right provided under any Federal or State law governing pension benefits for governmental employees, the right to pension benefits of a person reemployed under this chapter shall be determined under this section.
 
 (B) In the case of benefits under the Thrift Savings Plan, the rights of a person reemployed under this chapter shall be those rights provided in section 8432b of title 5. The first sentence of this subparagraph shall not be construed to affect any other right or benefit under this chapter.
 

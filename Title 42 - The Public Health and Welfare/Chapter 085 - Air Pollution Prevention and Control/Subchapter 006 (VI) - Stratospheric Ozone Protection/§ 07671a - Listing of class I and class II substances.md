@@ -54,7 +54,7 @@ Within 60 days after November 15, 1990, the Administrator shall publish an initi
 
 &emsp;&emsp;methyl chloroform
 
-> The initial list under this subsection shall also include the isomers of the substances listed above, other than 1,1,2-trichloroethane (an isomer of methyl chloroform). Pursuant to subsection (c) of this section, the Administrator shall add to the list of class I substances any other substance that the Administrator finds causes or contributes significantly to harmful effects on the stratospheric ozone layer. The Administrator shall, pursuant to subsection (c) of this section, add to such list all substances that the Administrator determines have an ozone depletion potential of 0.2 or greater.
+> The initial list under this subsection shall also include the isomers of the substances listedabove, other than 1,1,2-trichloroethane (an isomer of methyl chloroform). Pursuant to subsection (c) of this section, the Administrator shall add to the list of class I substances any other substance that the Administrator finds causes or contributes significantly to harmful effects on the stratospheric ozone layer. The Administrator shall, pursuant to subsection (c) of this section, add to such list all substances that the Administrator determines have an ozone depletion potential of 0.2 or greater.
 
 #### (b) List of class II substances
 
@@ -144,7 +144,7 @@ In the case of any substance added to the list of class I or class II substances
 
 #### (e) Ozone-depletion and global warming potential
 
-Simultaneously with publication of the lists under this section and simultaneously with any addition to either of such lists, the Administrator shall assign to each listed substance a numerical value representing the substance's ozone-depletion potential. In addition, the Administrator shall publish the chlorine and bromine loading potential and the atmospheric lifetime of each listed substance. One year after November 15, 1990 (one year after the addition of a substance to either of such lists in the case of a substance added after the publication of the initial lists of such substances), and after notice and opportunity for public comment, the Administrator shall publish the global warming potential of each listed substance. The preceding sentence shall not be construed to be the basis of any additional regulation under this chapter. In the case of the substances referred to in table 1, the ozone-depletion potential shall be as specified in table 1, unless the Administrator adjusts the substance's ozone-depletion potential based on criteria referred to in section 7671(10) of this title:
+Simultaneously with publication of the lists under this section and simultaneously with any addition to either of such lists, the Administrator shall assign to each listed substance a numerical value representing the substance's ozone-depletion potential. In addition, the Administrator shall publish the chlorine and bromine loading potential and the atmospheric lifetime of each listed substance. One year after November 15, 1990 (one year after the addition of a substance to either of such lists in the case of a substance added after the publication of the initial lists of such substances), and after noticeand opportunity for public comment, the Administrator shall publish the global warming potential of each listed substance. The preceding sentence shall not be construed to be the basis of any additional regulation under this chapter. In the case of the substances referred to in table 1, the ozone-depletion potential shall be as specified in table 1, unless the Administrator adjusts the substance's ozone-depletion potential based on criteria referred to in section 7671(10) of this title:
 
 Table 1
 
@@ -166,7 +166,7 @@ chlorofluorocarbon-13 (CFC–13)
 
 chlorofluorocarbon-111 (CFC–111)
 
-&nbsp;1.0 
+&nbsp;1.0&nbsp;
 
 chlorofluorocarbon-112 (CFC–112)
 

@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (3) Interest
 
-&emsp;For purposes of determining interest, any payment required by this section shall be treated as a tax; except that no interest shallbe allowed with respect to any refund of a payment made under this section.
+&emsp;For purposes of determining interest, any payment required by this section shall be treated as a tax; except that no interest shall be allowed with respect to any refund of a payment made under this section.
 
 #### (4) Penalties
 
@@ -210,7 +210,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub. L. 99–514, which is set out as a note under section 1378 of this title.
+Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub.L. 99–514, which is set out as a note under section 1378 of this title.
 
 #### Amendments
 

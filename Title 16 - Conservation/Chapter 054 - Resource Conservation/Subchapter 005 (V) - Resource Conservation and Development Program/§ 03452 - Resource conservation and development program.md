@@ -4,7 +4,7 @@ The Secretary shall establish a resource conservation and development program un
 
 &emsp;(1) to conserve and improve the use of land, develop natural resources, and improve and enhance the social, economic, and environmental conditions in primarily rural areas of the United States; and
 
-&emsp;(2) to encourage and improve the capability of State, <sup>1</sup> units of government, Indian tribes, nonprofit organizations, and councils to carry out the purposes described in paragraph (1).
+&emsp;(2) to encourage and improve the capability of State,<sup>1</sup> units of government, Indian tribes, nonprofit organizations, and councils to carry out the purposes described in paragraph (1).
 
 (Pub. L. 97–98, title XV, §1529, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 272.)
 

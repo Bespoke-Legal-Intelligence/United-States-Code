@@ -1,6 +1,6 @@
 ### §358. Wage and fringe benefit determinations of Secretary
 
-It is the intent of the Congress that determinations of minimum monetary wages and fringe benefits for the various classes of service employees under the provisions of paragraphs (1) and (2) of section 351 <sup>1</sup> of this title should be made with respect to all contracts subject to this chapter, as soon as it is administratively feasible to do so. In any event, the Secretary shall make such determinations with respect to at least the following contracts subject to this chapter which are entered into during the applicable fiscal year:
+It is the intent of the Congress that determinations of minimum monetary wages andfringe benefits for the various classes of service employees under the provisions of paragraphs (1) and (2) of section 351 <sup>1</sup> of this title should be made with respect to all contracts subject to this chapter, as soon as it is administratively feasible to do so. In any event, the Secretary shall make such determinations with respect to at least the following contracts subject to this chapter which are entered into during the applicable fiscal year:
 
 &emsp;(1) For the fiscal year ending June 30, 1973, all contracts under which more than twenty-five service employees are to be employed.
 

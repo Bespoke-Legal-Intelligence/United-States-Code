@@ -36,7 +36,7 @@ As used in this subchapter—
 
 #### (B) Rule of origin
 
-&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly the growth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
+&emsp;&emsp;An article is a product of a country or instrumentality only if (i) it is wholly thegrowth, product, or manufacture of that country or instrumentality, or (ii) in the case of an article which consists in whole or in part of materials from another country or instrumentality, it has been substantially transformed into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was so transformed.
 
 #### (C) Lowered threshold for certain products as a consequence of United States-Israel free trade area provisions
 
@@ -66,7 +66,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication ofHarmonized Tariff Schedule note set out under section 1202 of the title.
+Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
 

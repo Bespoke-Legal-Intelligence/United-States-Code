@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–21, §1(a), Apr. 30, 2003, 117 Stat. 650, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003’ or ‘PROTECT Act’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title \[see Tables for classification\] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
@@ -44,13 +48,15 @@ Pub. L. 100–185, §1, Dec. 11, 1987, 101 Stat. 1279, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
+Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 
 Section 200 of title II (§§200–2304) of Pub. L. 98–473 provided that: “This title \[see Tables for classification\] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
 
 #### Severability
+
+Pub. L. 108–21, §2, Apr. 30, 2003, 117 Stat. 651, provided that: “If any provision of this Act \[see Tables for classification\], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
 Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: “Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances.”
 

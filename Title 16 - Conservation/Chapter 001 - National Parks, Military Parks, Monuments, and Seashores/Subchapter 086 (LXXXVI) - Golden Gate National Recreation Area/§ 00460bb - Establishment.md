@@ -6,11 +6,23 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–350, §1, Oct. 24, 2000, 114 Stat. 1361, provided that: “This Act \[amending section 460bb–1 of thistitle\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
+Pub. L. 106–350, §1, Oct. 24, 2000, 114 Stat. 1361, provided that: “This Act \[amending section 460bb–1 of this title\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
 
 #### Short Title of 1992 Amendment
 
 Pub. L. 102–299, §1, June 9, 1992, 106 Stat. 236, provided that: “This Act \[amending section 460bb–1 of this title and enacting provisions set out as a note under section 460bb–1 of this title\] may be cited as the ‘Golden Gate National Recreation Area Addition Act of 1992’.”
+
+#### Visitor Services in Crissy Field and Fort Point Areas
+
+Pub. L. 108–108, title I, §118, Nov. 10, 2003, 117 Stat. 1268, provided that: “Notwithstanding other provisions of law, the National Park Service hereafter may authorize, through cooperative agreement, the Golden Gate National Parks Association to provide fee-based education, interpretive and visitor service functions within the Crissy Field and Fort Point areas of the Presidio.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. F, title I, §120, Feb. 20, 2003, 117 Stat. 240.
+
+Pub. L. 107–63, title I, §123, Nov. 5, 2001, 115 Stat. 440.
+
+Pub. L. 106–291, title I, §140, Oct. 11, 2000, 114 Stat. 949.
 
 #### Exemption of Presidio Trust from California Taxes
 
@@ -68,7 +80,7 @@ Establishment.—There is established a wholly owned government corporation to b
 
 “(b)
 
-Transfer.—(1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area.The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administered by the Secretary.
+Transfer.—(1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area. The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administered by the Secretary.
 
 “(2) Within 60 days after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively which records, equipment, and other personal property are deemed to be necessary for the immediate administration of the properties to be transferred, and the Secretary shall immediately transfer such personal property to the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively what, if any, additional records, equipment, and other personal property used by the Secretary in the administration of the properties to be transferred should be transferred to the Trust.
 
@@ -86,7 +98,7 @@ In general.—The powers and management of the Trust shall be vested in a Board 
 
 &emsp;&emsp;“(A) The Secretary of the Interior or the Secretary's designee.
 
-&emsp;&emsp;“(B) 6 individuals, who are not employees of the Federal Government, appointed by the President, who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act \[Nov. 12, 1996\] and shall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives.
+&emsp;&emsp;“(B) 6 individuals, who are not employees of the Federal Government, appointed by the President, who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act \[Nov. 12, 1996\] andshall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives.
 
 &emsp;“(2)
 
@@ -140,7 +152,7 @@ Authorities.—The Trust may participate in the development of programs and acti
 
 Management Program.—The Trust shall develop a comprehensive program for management of those lands and facilities within the Presidio which are transferred to the administrative jurisdiction of the Trust. Such program shall be designed to reduce expenditures by the National Park Service and increase revenues to the Federal Government to the maximum extent possible. In carrying out this program, the Trust shall be treated as a successor in interest to the National Park Service with respect to compliance with the National Environmental Policy Act \[of 1969\] \[42 U.S.C. 4321 et seq.\] and other environmental compliance statutes. Such program shall consist of—
 
-&emsp;“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated, and which are identified in the management plan for demolition,
+&emsp;“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated,and which are identified in the management plan for demolition,
 
 &emsp;“(2) evaluation for possible demolition or replacement those buildings identified as categories 2 through 5 in the Presidio of San Francisco Historic Landmark District Historic American Buildings Survey Report, dated 1985,
 
@@ -186,7 +198,7 @@ Suits.—The Trust may sue and be sued in its own name to the same extent as the
 
 “(i)
 
-Memorandum of Agreement.—The Trust shall enter into a Memorandum of Agreement with the Secretary, acting through the Chief of the United States Park Police, for the conduct of law enforcement activities and services within those portions of the Presidiotransferred to the administrative jurisdiction of the Trust.
+Memorandum of Agreement.—The Trust shall enter into a Memorandum of Agreement with the Secretary, acting through the Chief of the United States Park Police, for the conduct of law enforcement activities and services within those portions of the Presidio transferred to the administrative jurisdiction of the Trust.
 
 “(j)
 
@@ -210,7 +222,7 @@ Leasing.—In managing and leasing the properties transferred to it, the Trust s
 
 “(<i>o</i>)
 
-Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
+Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in section 105(b) of this title, then all property under the administrative jurisdiction of the Trust pursuant to section 103(b) of this title shall betransferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) \[probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under section 2687 of Title 10, Armed Forces\], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest.
 
 “(p)
 

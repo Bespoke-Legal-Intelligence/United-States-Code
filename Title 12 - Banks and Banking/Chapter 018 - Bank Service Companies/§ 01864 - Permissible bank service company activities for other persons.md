@@ -22,7 +22,7 @@ A bank service company in which a national bank is a shareholder or member shall
 
 #### (e) Performance where State bank and national bank are shareholders or members
 
-A bank service company that has both national bank and State bank shareholders or members shall perform only those services that may lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate <sup>1</sup> and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.
+A bank service company that has both national bank and State bank shareholders or members shall perform only those services thatmay lawfully be performed by both any shareholder or member of the company which is a national bank under the law of the United States and any shareholder or member of the company which is a State bank under the law of the State in which any such State bank operate <sup>1</sup> and shall perform such services only at locations in the State at which both its State bank and national bank shareholders or members could be authorized to perform such services.
 
 #### (f) Geographic location
 

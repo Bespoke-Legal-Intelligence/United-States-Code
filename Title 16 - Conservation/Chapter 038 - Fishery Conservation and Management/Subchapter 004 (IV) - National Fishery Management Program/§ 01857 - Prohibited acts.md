@@ -50,7 +50,7 @@ It is unlawful—
 
 &emsp;&emsp;(iii) to land any such fin without the corresponding carcass.
 
-> &emsp;For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed inviolation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.
+> &emsp;For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.
 
 &emsp;(2) for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
 
@@ -130,7 +130,7 @@ Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
 Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
+1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) ofthis title” for “in fishing within the boundaries of any State”.
 
 Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 

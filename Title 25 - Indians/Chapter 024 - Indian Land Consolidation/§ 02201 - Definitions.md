@@ -32,7 +32,7 @@ Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and 2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
+Pub. L. 102–238, §1, Dec. 17, 1991, 105 Stat. 1908, provided that: “This Act \[amending sections 2203, 2703, and2718 of this title, enacting provisions set out as a note under section 1437f of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437f of Title 42\] may be cited as the ‘Technical Amendments to Various Indian Laws Act of 1991’.”
 
 #### Short Title
 

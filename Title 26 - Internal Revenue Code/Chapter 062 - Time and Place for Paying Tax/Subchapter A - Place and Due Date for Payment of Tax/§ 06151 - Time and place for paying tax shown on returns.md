@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this subchapter, when a return of tax is required under this title or regulations, the person required to make such return shall, without assessment ornotice and demand from the Secretary, pay such tax to the internal revenue officer with whom the return is filed, and shall pay such tax at the time and place fixed for filing the return (determined without regard to any extension of time for filing the return).
+Except as otherwise provided in this subchapter, when a return of tax is required under this title or regulations, the person required to make such return shall, without assessment or notice and demand from the Secretary, pay such tax to the internal revenue officer with whom the return is filed, and shall pay such tax at the time and place fixed for filing the return (determined without regard to any extension of time for filing the return).
 
 #### (b) Exceptions
 
@@ -54,7 +54,7 @@ Interest on overpayments.—For purposes of section 6611(b) in the case of any o
 
 &emsp;&emsp;“(i) the date on which application for refund or credit of such overpayment is filed,
 
-&emsp;&emsp;“(ii) the due date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 of the Internal Revenue Code of 1986 for the taxable year the tax of which is being refunded or credited, or
+&emsp;&emsp;“(ii) the due date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 of the Internal Revenue Code of1986 for the taxable year the tax of which is being refunded or credited, or
 
 &emsp;&emsp;“(iii) the date of the enactment of this Act \[Oct. 2, 1976\].
 

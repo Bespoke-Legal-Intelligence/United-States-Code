@@ -2,7 +2,7 @@
 
 #### (a) Improperly filed claims
 
-Any person (including an organization, agency, or other entity, but excluding a beneficiary, as defined in subsection (i)(5) of this section) that—
+Any person (including an organization, agency, or other entity, but excluding a beneficiary,as defined in subsection (i)(5) of this section) that—
 
 &emsp;(1) knowingly presents or causes to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1) of this section), a claim (as defined in subsection (i)(2) of this section) that the Secretary determines—
 
@@ -32,13 +32,13 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;&emsp;(B) is an officer or managing employee (as defined in section 1320a–5(b) of this title) of such an entity;
 
-&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
+&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section 1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
 
 &emsp;(6) arranges or contracts (by employment or otherwise) with an individual or entity that the person knows or should know is excluded from participation in a Federal health care program (as defined in section 1320a–7b(f) of this title), for the provision of items or services for which payment may be made under such a program; or
 
 &emsp;(7) commits an act described in paragraph (1) or (2) of section 1320a–7b(b) of this title;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; or in cases under paragraph (7), $50,000 for each such act). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; or in cases under paragraph (7), $50,000 for each such act). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
@@ -104,7 +104,7 @@ In determining the amount or scope of any penalty, assessment, or exclusion impo
 
 #### (e) Review by courts of appeals
 
-Any person adversely affected by a determination of the Secretary under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the claim was presented, by filing in such court (within sixty days following the date the person is notified of the Secretary's determination) a written petition requesting that the determination be modified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the Court <sup>1</sup> the record in the proceeding as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Secretary and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Secretary with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be made a part of the record. The Secretary may modify his findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and he shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive, and his recommendations, if any, for the modification or setting aside of his original order. Upon the filing of the record with it, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
+Any person adversely affected by a determination of the Secretary under this section may obtain a review of such determination in the United States Court of Appeals for the circuit in which the person resides, or in which the claim was presented, by filing in such court (within sixty days following the date the person is notified of the Secretary's determination) a written petition requesting that the determination bemodified or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the Court <sup>1</sup> the record in the proceeding as provided in section 2112 of title 28. Upon such filing, the court shall have jurisdiction of the proceeding and of the question determined therein, and shall have the power to make and enter upon the pleadings, testimony, and proceedings set forth in such record a decree affirming, modifying, remanding for further consideration, or setting aside, in whole or in part, the determination of the Secretary and enforcing the same to the extent that such order is affirmed or modified. No objection that has not been urged before the Secretary shall be considered by the court, unless the failure or neglect to urge such objection shall be excused because of extraordinary circumstances. The findings of the Secretary with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the hearing before the Secretary, the court may order such additional evidence to be taken before the Secretary and to be made a part of the record. The Secretary may modify his findings as to the facts, or make new findings, by reason of additional evidence so taken and filed, and he shall file with the court such modified or new findings, which findings with respect to questions of fact, if supported by substantial evidence on the record considered as a whole, shall be conclusive, and his recommendations, if any, for the modification or setting aside of his original order. Upon the filing of the record with it, the jurisdiction of the court shall be exclusive and its judgment and decree shall be final, except that the same shall be subject to review by the Supreme Court of the United States, as provided in section 1254 of title 28.
 
 #### (f) Compromise of penalties and assessments; recovery; use of funds recovered
 
@@ -134,7 +134,7 @@ Whenever the Secretary's determination to impose a penalty, assessment, or exclu
 
 For the purposes of this section:
 
-&emsp;(1) The term “State agency” means the agency established or designated to administer or supervise the administration of the State plan under subchapter XIX of this chapter or designated to administer the State's program under subchapter V of this chapter or subchapter XX of this chapter.
+&emsp;(1) The term “State agency” means the agency established or designated to administer or supervise the administration of the State plan under subchapter XIX of this chapter or designated to administer the State'sprogram under subchapter V of this chapter or subchapter XX of this chapter.
 
 &emsp;(2) The term “claim” means an application for payments for items and services under a Federal health care program (as defined in section 1320a–7b(f) of this title).
 
@@ -182,7 +182,7 @@ For the purposes of this section:
 
 #### (k) Injunctions
 
-Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of theUnited States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
+Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of the United States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
 
 #### (<i>l</i>) Liability of principal for acts of agent
 
@@ -256,7 +256,7 @@ Pub. L. 104–191, §231(a)(1), in concluding provisions, substituted “Federal
 
 Subsec. (a)(1). Pub. L. 104–191, §231(d)(1)(A), inserted “knowingly” before “presents” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 104–191, §231(e)(1), substituted “claimed, including any person who engages in a pattern or practice of presenting or causing to be presented a claim for an item or service that is based on a code that the person knows or should know will result in a greater payment to the person than the code the person knows or should know is applicable to the item or service actually provided,” for “claimed,”.
+Subsec. (a)(1)(A). Pub. L. 104–191, §231(e)(1), substituted “claimed, including any person who engages in a pattern or practice of presenting or causing to be presented a claim for an item or service that is based ona code that the person knows or should know will result in a greater payment to the person than the code the person knows or should know is applicable to the item or service actually provided,” for “claimed,”.
 
 Subsec. (a)(1)(E). Pub. L. 104–191, §231(e)(2)–(4), added subpar. (E).
 
@@ -330,7 +330,7 @@ Subsec. (<i>l</i>). Pub. L. 100–485, §608(d)(26)(I), inserted “for penaltie
 
 Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added Pub. L. 100–203, §4118(e)(1)(B), see 1987 Amendment note below.
 
-1987—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted “, butexcluding a beneficiary, as defined in subsection (i)(5) of this section” in introductory provisions.
+1987—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted “, but excluding a beneficiary, as defined in subsection (i)(5) of this section” in introductory provisions.
 
 Pub. L. 100–93, §3(a)(3)(B), in concluding provisions, inserted “(or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given)” before period at end of first sentence, and inserted at end “In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the programs under subchapter XVIII of this chapter and to direct the appropriate State agency to exclude the person from participation in any State health care program.”
 
@@ -440,7 +440,7 @@ Section 232(b) of Pub. L. 104–191 provided that: “The amendment made by subs
 
 #### Effective Date of 1989 Amendment
 
-Section 201(c) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, 1396d, and 1396n of this title, repealing section 1395w–3 of this title, and amending or repealing provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] shall take effect January 1, 1990.”
+Section 201(c) of Pub. L. 101–234 provided that: “The provisions of this section \[amending this section andsections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, 1396d, and 1396n of this title, repealing section 1395w–3 of this title, and amending or repealing provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] shall take effect January 1, 1990.”
 
 #### Effective Date of 1988 Amendments
 
@@ -504,7 +504,7 @@ Section 9313(c)(3) of Pub. L. 99–509 directed Secretary of Health and Human Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 262a, 299c–3, 704, 707, 1320a–3a, 1320a–7, 1320a–7c, 1320a–7d, 1320a–7e, 1320a–8, 1320b–10, 1320d–5, 1395b–5, 1395b–7, 1395i–3, 1395<i>l</i>, 1395m, 1395u, 1395w–2, 1395w–27, 1395y, 1395cc, 13955dd, 1395mm, 1395nn, 1395ss, 1395bbb, 1396a, 1396b, 1396r, 1396r–6, 1396r–8, 1396t, 1396u, 1397d, 1397gg, 11131, 11137 of this title; title 5 section 8904; title 10 section 1094.
+This section is referred to in sections 262a, 299c–3, 704, 707, 1320a–3a, 1320a–7, 1320a–7b, 1320a–7c, 1320a–7d, 1320a–7e, 1320a–8, 1320b–10, 1320d–5, 1395b–5, 1395b–7, 1395i–3, 1395<i>l</i>, 1395m, 1395u, 1395w–2, 1395w–3a, 1395w–27,1395w–141, 1395y, 1395cc, 13955dd, 1395mm, 1395nn, 1395ss, 1395bbb, 1396a, 1396b, 1396r, 1396r–6, 1396r–8, 1396t, 1396u, 1397d, 1397gg, 11131, 11137 of this title; title 5 section 8904; title 10 section 1094.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -4,7 +4,7 @@
 
 (b) The amount of an individual's excess earnings shall be charged to months as follows:
 
-&emsp;(1)(A) There shall be charged to each month of a year under subsection (a) an amount equal to the individual's excess earnings (as determined under paragraph (2) with respect to such year), divided by the number of the individual's supplement entitlement months for such year (as determined under paragraph (3)).
+&emsp;(1)(A) There shall be charged to each month of a year under subsection (a) an amount equalto the individual's excess earnings (as determined under paragraph (2) with respect to such year), divided by the number of the individual's supplement entitlement months for such year (as determined under paragraph (3)).
 
 &emsp;(B) Notwithstanding subparagraph (A), the amount charged to a month under subsection (a) may not exceed the amount of the annuity supplement to which the individual is entitled under section 8421 for such month (determined without regard to subsection (c) of such section).
 
@@ -16,7 +16,7 @@
 
 &emsp;(3)(A) Subject to subparagraph (B), the number of an individual's supplement entitlement months for a year shall be 12.
 
-&emsp;(B) The number determined under subparagraph (A) shall be reduced so as not to includeany month after which such individual ceases to be entitled to an annuity supplement by reason of section 8421(a)(3)(B), relating to cessation of entitlement upon attaining age 62.
+&emsp;(B) The number determined under subparagraph (A) shall be reduced so as not to include any month after which such individual ceases to be entitled to an annuity supplement by reason of section 8421(a)(3)(B), relating to cessation of entitlement upon attaining age 62.
 
 &emsp;(4)(A) For purposes of this section, and except as provided in subparagraph (B), the “earnings” and the “applicable exempt amount” of an individual shall be determined in a manner consistent with applicable provisions of section 203 of the Social Security Act.
 

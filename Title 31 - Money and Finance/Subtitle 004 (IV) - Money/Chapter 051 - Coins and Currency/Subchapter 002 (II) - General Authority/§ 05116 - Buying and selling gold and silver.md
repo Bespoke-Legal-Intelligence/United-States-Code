@@ -54,11 +54,11 @@ July 23, 1965, Pub. L. 89–81, §104, 79 Stat. 255.
 
 June 4, 1963, Pub. L. 88–36, §2, 77 Stat. 54; July 23, 1965, Pub. L. 89–81, §209, 79 Stat. 257; restated June 24, 1967, Pub. L. 90–29, §3, 81 Stat. 77.
 
-In subsection (a)(1), the words “With the approval of the President” are applied to 31:733(words after semicolon) because of 31:822b. The words “at home or abroad” in 31:733(words after semicolon) and 734 are omitted as surplus. The words “terms and” are omitted as included in “conditions”. The text of 31:733(proviso) is omitted as superseded by the Bretton Woods Agreement Act (22 U.S.C. 286 et seq.) and sections 6 and 9 of the Act of October 19, 1976 (Pub. L. 94–564, 90 Stat. 2661), repealing 31:449 that provided for parity of the dollar onterms of gold and special drawing rights. The text of 31:734(1st sentence words after semicolon) is omitted as surplus.
+In subsection (a)(1), the words “With the approval of the President” are applied to 31:733(words after semicolon) because of 31:822b. The words “at home or abroad” in 31:733(words after semicolon) and 734 are omitted as surplus. The words “terms and” are omitted as included in “conditions”. The text of 31:733(proviso) is omitted as superseded by the Bretton Woods Agreement Act (22 U.S.C. 286 et seq.) and sections 6 and 9 of the Act of October 19, 1976 (Pub. L. 94–564, 90 Stat. 2661), repealing 31:449 that provided for parity of the dollar on terms of gold and special drawing rights. The text of 31:734(1st sentence words after semicolon) is omitted as surplus.
 
 In subsection (b)(1), the words “coinage metal fund” are substituted for “bullion fund” in 31:335 as being more precise and because of section 5111 of the revised title. The words “after July 23, 1965” in 31:394 are omitted as executed. The words “to procure bullion for coinage” and 31:335(2d–last sentences) are omitted as obsolete because the Secretary of the Treasury has authority to mint coins containing silver only under section 5112(e) of the revised title and the Secretary holds sufficient silver to mint those coins. See Sen. Rept. No. 91–1084 (1970).
 
-In subsection (b)(2), the word “terms” is omitted as being included in “conditions”. The words “for at least” are substituted for “at a price not less than the monetary value of” to eliminate unnecessary words.
+In subsection (b)(2), the word “terms” is omitted as being included in “conditions”. The words “for atleast” are substituted for “at a price not less than the monetary value of” to eliminate unnecessary words.
 
 #### References in Text
 
@@ -148,5 +148,5 @@ Concurrent submission.—The report required by paragraph (1) may be incorporate
 
 #### Termination of Coinage Metal Fund
 
-All assets and liabilities of Coinage Metal Fund transferred to United States Mint Public EnterpriseFund and such coinage fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
+All assets and liabilities of Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and such coinage fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 

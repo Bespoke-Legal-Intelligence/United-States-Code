@@ -14,7 +14,7 @@
 
 | <b>In the case of any taxable year  beginning in—</b> | <b>The per child amount is—</b> |
 | :--- | ---: |
-| &nbsp;2001, 2002, 2003, or 2004 | $ 600&nbsp;&nbsp; |
+| &nbsp;2003 or 2004 | $1,000&nbsp;&nbsp; |
 | &nbsp;2005, 2006, 2007, or 2008 | &nbsp;700&nbsp;&nbsp; |
 | &nbsp;2009 | &nbsp;800&nbsp;&nbsp; |
 | &nbsp;2010 or thereafter | 1,000. |
@@ -123,13 +123,15 @@ No credit shall be allowed under this section to a taxpayer with respect to any 
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat.45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753.)
 
-#### Child Tax Credit Adjustment for Taxable Years Beginning in 2003
+#### Child Tax Credit Adjustment for Taxable Years Beginning in 2004
 
-<i>For inflation adjustment of value in subsection (d)(1)(B)(i) of this section used in determining refundable amount for taxable years beginning in 2003, see section 3.04 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of value in subsection (d)(1)(B)(i) of this section used in determining refundable amount for taxable years beginning in 2004, see section 3.04 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -138,6 +140,8 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+2003—Subsec. (a)(2). Pub. L. 108–27, §§101(a), 107, temporarily amended table by deleting items relating to calendar years 2001 and 2002 and increasing per child amount from $600 to $1,000 for calendar years 2003 or 2004. See Effective and Termination Dates of 2003 Amendment note below.
 
 2002—Subsec. (b)(3)(B). Pub. L. 107–147, §417(23)(A), amended directory language of Pub. L. 107–16, §618(b)(2)(A). See 2001 Amendment note below.
 
@@ -167,19 +171,17 @@ Subsec. (d). Pub. L. 107–16, §§201(c)(1), 901, temporarily amended subsec. h
 
 > The amount of the credit allowed under this subsection shall not be treated as a credit allowed under this subpart and shall reduce the amount of credit otherwise allowable under subsection (a) without regard to section 26(a).”
 
-> See Effective and Termination Dates of 2001 Amendment note below.
+See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(1). Pub. L. 107–16, §§201(b)(2)(C)(i), 901, temporarily substituted “subsection (b)(3)” for “section 26(a)” wherever appearing in subsec. (d), as amended by Pub. L. 107–16, §201(c). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (d)(1)(B). Pub. L. 107–16, §§201(b)(2)(C)(ii), 901, substituted “amount of credit allowed by this section” for “aggregate amount of credits allowed by this subpart” in subpar. (B) as amended by Pub. L. 107–16, §201(c). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (d)(1)(B). Pub. L. 107–16, §§201(b)(2)(C)(ii), 901, temporarily substituted “amount of credit allowed by this section” for “aggregate amount of credits allowed by this subpart” in subpar. (B) as amended by Pub. L. 107–16, §201(c). See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 107–16, §§201(d), 901, temporarily redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “For taxable years beginning after December 31, 2001, the credit determined under this subsection for the taxable year shall be reduced by the excess (if any) of—
 
 &emsp;“(A) the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year, over
 
-&emsp;“(B) the amount of the reduction under section 32(h) with respect to such taxpayer for such taxable year.”
-
-> See Effective and Termination Dates of 2001 Amendment note below.
+&emsp;“(B) the amount of the reduction under section 32(h) with respect to such taxpayer for such taxable year.” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(2)(A)(iii). Pub. L. 107–90, which directed the amendment of par. (3)(A)(iii) by substituting “section 3211(a)” for “section 3211(a)(1)”, was executed to par. (2)(A)(iii), to reflect the probable intent of Congress and the redesignation of par. (3) as (2) by Pub. L. 107–16, §201(d)(2). See above.
 
@@ -212,6 +214,20 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: “If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess.”
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Pub. L. 108–27, title I, §101(c), May 28, 2003, 117 Stat. 754, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 6429 of this title and amending this section\] shall apply to taxable years beginning after December 31, 2002.
+
+“(2)
+
+Subsection (b).—The amendments made by subsection (b) \[enacting section 6429 of this title\] shall take effect on the date of the enactment of this Act \[May 28, 2003\].”
+
+Amendments by title I of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -255,9 +271,9 @@ Section 101(e) of Pub. L. 105–34 provided that: “The amendments made by this
 
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs
 
-Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: “Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or theamount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
+Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: “Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25, 26, 32, 151, 501, 904, 1400C, 6211, 6213 of this title.
+This section is referred to in sections 25, 26, 32, 151, 501, 904, 1400C, 6211, 6213, 6429 of this title.
 

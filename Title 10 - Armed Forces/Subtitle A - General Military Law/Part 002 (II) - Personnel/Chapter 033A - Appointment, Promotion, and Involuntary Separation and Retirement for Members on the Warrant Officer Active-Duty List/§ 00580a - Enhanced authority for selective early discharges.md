@@ -30,15 +30,21 @@
 
 (d) The discharge of any warrant officer pursuant to this section shall be considered involuntary for purposes of any other provision of law.
 
-(e) This section applies to the Secretary of Transportation in the same manner and to the same extent as it applies to the Secretary of Defense. The Commandant of the Coast Guard shall take the action set forth in subsection (b) with respect to regular warrant officers of the Coast Guard.
+(e) This section applies to the Secretary of Homeland Security in the same manner and to the same extent as it applies to the Secretary of Defense. The Commandant of the Coast Guard shall take the action set forth in subsection (b) with respect to regular warrant officers of the Coast Guard.
 
-(Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855.)
+(Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1994—Subsec. (a). Pub. L. 103–337, §1070(a)(3), substituted “November 30, 1993,” for “the date of the enactment of this section”.
 
 Subsec. (e). Pub. L. 103–337, §541(g), added subsec. (e).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

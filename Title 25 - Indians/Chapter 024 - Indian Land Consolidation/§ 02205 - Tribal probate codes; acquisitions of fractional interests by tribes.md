@@ -68,7 +68,7 @@
 
 #### (A) Tribal probate codes
 
-&emsp;&emsp;Each tribal probate code enacted under subsection (a) of this section shall apply only to the estate of a decedent who dies on or after the effective date of the tribal probate code.
+&emsp;&emsp;Each tribal probate code enacted under subsection (a) of this section shall applyonly to the estate of a decedent who dies on or after the effective date of the tribal probate code.
 
 #### (B) Amendments to tribal probate codes
 
@@ -86,7 +86,7 @@
 
 #### (1) In general
 
-&emsp;If the owner of an interest in trust or restricted land devises an interest in such landto a non-Indian under section 2206(a)(6)(A) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death. The Secretary shall transfer such payment to the devisee.
+&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(a)(6)(A) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death. The Secretary shall transfer such payment to the devisee.
 
 #### (2) Limitation
 

@@ -128,7 +128,7 @@ Pub. L. 106–313, title I, §109, Oct. 17, 2000, 114 Stat. 1255, provided that:
 
 “(a)
 
-Study.—The National Science Foundation shall conduct a study of the divergence in access to high technology (commonly referred to as the ‘digital divide’) in the United States.
+Study.—The National Science Foundation shall conduct a study of the divergence in access to hightechnology (commonly referred to as the ‘digital divide’) in the United States.
 
 “(b)
 
@@ -210,7 +210,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 &emsp;“(2) facilitate the participation of experienced scientists and engineers as well as graduate and undergraduate students in helping the public understand science, engineering and technology and their impact on public policies; and
 
-&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on public policy issues, after consideration of the following eligibility factors:
+&emsp;“(3) assist nationally recognized professional societies and groups serving important public purposes in conducting a limited number of forums, conferences, and workshops to increase public understanding of science and technology, and of their impact on publicpolicy issues, after consideration of the following eligibility factors:
 
 &emsp;&emsp;“(A) the extent to which the proposal of the society or group will contribute to the development of facts, issues, and arguments relevant to public policy issues having significant scientific and technical aspects, and
 
@@ -220,7 +220,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 “(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the publicand private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
+“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 

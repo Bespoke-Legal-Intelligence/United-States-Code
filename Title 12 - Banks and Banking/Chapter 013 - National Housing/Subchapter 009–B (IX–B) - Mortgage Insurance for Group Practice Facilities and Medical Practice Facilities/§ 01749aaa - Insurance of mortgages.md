@@ -14,7 +14,7 @@ The mortgage shall—
 
 &emsp;(1) Repealed. Pub. L. 93–383, title III, §304(<i>l</i>), Aug. 22, 1974, 88 Stat. 678;
 
-&emsp;(2) not exceed 90 per centum of the amount which the Secretary estimates will be the replacement cost of the property or project when construction or rehabilitation is completed. The replacement cost of the property may include the land and the proposed physical improvements, equipment, utilities within the boundaries of the property, a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure, architects’ fees, taxes, and interest accruing during construction or rehabilitation, and other miscellaneous charges incident to construction or rehabilitation and approved by the Secretary;
+&emsp;(2) not exceed 90 per centum of the amount which the Secretary estimates will be the replacement cost of the property or project when construction or rehabilitation is completed. The replacement cost of the property may include the land and the proposed physical improvements, equipment, utilities within the boundaries of the property, a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are inaddition to those required under the minimum property standards and will be cost-effective over the life of the measure, architects’ fees, taxes, and interest accruing during construction or rehabilitation, and other miscellaneous charges incident to construction or rehabilitation and approved by the Secretary;
 
 &emsp;(3) have a maturity satisfactory to the Secretary but not to exceed twenty-five years from the beginning of the amortization of the mortgage, and provide for complete amortization of the principal obligation by periodic payments within such term as the Secretary shall prescribe; and
 
@@ -68,7 +68,7 @@ Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”
 
 Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
 
-1984—Subsec. (c)(4). Pub. L. 98–479 substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee,” for “(exclusive of premium charges for insurance, and service charges if any) at a rate of not to exceed 5 per centum per annum of the amount of the principal obligation outstanding at any time, or not to exceed such rate (not in excess of 6 per centum per annum) as the Secretary finds necessary to meet the mortgage market.”
+1984—Subsec. (c)(4). Pub. L. 98–479 substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee,” for “(exclusive of premium charges for insurance, and service charges if any) at a rate of notto exceed 5 per centum per annum of the amount of the principal obligation outstanding at any time, or not to exceed such rate (not in excess of 6 per centum per annum) as the Secretary finds necessary to meet the mortgage market.”
 
 1983—Subsec. (a). Pub. L. 98–181 substituted “September 30, 1985” for “November 30, 1983”.
 

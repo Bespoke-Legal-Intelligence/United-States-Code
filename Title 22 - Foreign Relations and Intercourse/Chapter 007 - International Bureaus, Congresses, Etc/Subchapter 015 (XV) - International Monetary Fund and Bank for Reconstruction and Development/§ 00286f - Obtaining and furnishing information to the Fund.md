@@ -2,7 +2,7 @@
 
 #### (a) Required disclosure
 
-Whenever a request is made by the Fund to the United States as a member to furnish data under article VIII, section 5, of the Articles of Agreement of the Fund, the President may, through any agency he may designate, require any person to furnish such information as the President may determine to be essential to comply with such request. In making such determination the President shall seek to collect the information only in such detail as is necessary to comply with the request of the Fund. No information so acquired shall be furnished to the Fund in such detail that the affairs of any person are disclosed.
+Whenever a request is made by the Fund to the United States as a member to furnish dataunder article VIII, section 5, of the Articles of Agreement of the Fund, the President may, through any agency he may designate, require any person to furnish such information as the President may determine to be essential to comply with such request. In making such determination the President shall seek to collect the information only in such detail as is necessary to comply with the request of the Fund. No information so acquired shall be furnished to the Fund in such detail that the affairs of any person are disclosed.
 
 #### (b) Penalty for refusal
 
@@ -10,7 +10,7 @@ In the event any person refuses to furnish such information when requested to do
 
 #### (c) Penalty for unlawful disclosures
 
-It shall be unlawful for any officer or employee of the Government, or for any advisor orconsultant to the Government, to disclose, otherwise than in the course of official duty, any information obtained under this section, or to use any such information for his personal benefit. Whoever violates any of the provisions of this subsection shall, upon conviction, be fined not more than $5,000, or imprisoned for not more than five years, or both.
+It shall be unlawful for any officer or employee of the Government, or for any advisor or consultant to the Government, to disclose, otherwise than in the course of official duty, any information obtained under this section, or to use any such information for his personal benefit. Whoever violates any of the provisions of this subsection shall, upon conviction, be fined not more than $5,000, or imprisoned for not more than five years, or both.
 
 #### (d) “Person” defined
 

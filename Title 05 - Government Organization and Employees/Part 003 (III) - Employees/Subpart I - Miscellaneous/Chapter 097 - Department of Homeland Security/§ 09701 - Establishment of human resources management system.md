@@ -110,7 +110,7 @@ Procedures.—Any procedures necessary to carry out this subsection shall be est
 
 &emsp;&emsp;(B) in the case of any employees who are not within such a unit, representation by any appropriate organization which represents a substantial percentage of those employees or, if none, in such other manner as may be appropriate, consistent with the purposes of the subsection;
 
-&emsp;&emsp;(C) the fair and expeditious handling of the consultation and mediation process described in subparagraph (B) of paragraph (1), including procedures by which, if the number of employee representatives providing recommendations exceeds 5, such representatives select a committee or other unified representative with which the Secretary and Director may meet and confer; and
+&emsp;&emsp;(C) the fair and expeditious handling of the consultation and mediation process described in subparagraph (B) of paragraph (1),including procedures by which, if the number of employee representatives providing recommendations exceeds 5, such representatives select a committee or other unified representative with which the Secretary and Director may meet and confer; and
 
 &emsp;&emsp;(D) the selection of representatives in a manner consistent with the relative number of employees represented by the organizations or other representatives involved.
 

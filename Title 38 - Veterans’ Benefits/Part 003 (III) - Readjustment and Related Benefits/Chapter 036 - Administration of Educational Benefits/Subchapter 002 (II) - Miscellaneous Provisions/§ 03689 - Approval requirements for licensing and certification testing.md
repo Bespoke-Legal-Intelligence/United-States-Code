@@ -38,7 +38,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;(ii) The organization or entity has in place a process to review complaints submitted against the organization or entity with respect to the test or the process for obtaining a license or certificate required for vocations or professions.
 
-&emsp;(G) The organization or entity furnishes to the Secretary such information with respectto the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
+&emsp;(G) The organization or entity furnishes to the Secretary such information with respect to the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
 
 &emsp;(H) The organization or entity furnishes to the Secretary the following information:
 
@@ -54,7 +54,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;&emsp;(ii) the applicability of the test over such periods of time as the Secretary determines appropriate.
 
-(2) With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
+(2) With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 ofthis title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
 
 (d)
 

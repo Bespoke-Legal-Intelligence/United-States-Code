@@ -80,7 +80,7 @@ The Civil Rights Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–352
 
 The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of Pub. L. 94–135, Nov. 28, 1975, 78 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of Pub. L. 90–321, as added by Pub.L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Executive orders referred to in subsec. (f)(11) are set out as notes under sections of the Code as follows:
 
@@ -128,7 +128,7 @@ Pub. L. 105–276, title V, §589, Oct. 21, 1998, 112 Stat. 2651, provided that:
 
 “(a)
 
-Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
+Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and providesthat the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
 
 “(b)
 
@@ -236,7 +236,7 @@ Sec. 6. <i>General Provisions.</i>
 
 (c) Section 102 of Executive Order No. 11063 is revised by deleting the term “Housing and Home Finance Agency” and inserting in lieu thereof the term “Department of Housing and Urban Development.”
 
-6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage Disclosure Act (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
+6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage DisclosureAct (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
 
 6–606. Nothing in this order shall limit the authority of the Federal banking agencies to carry out their responsibilities under current law or regulations.
 
@@ -270,7 +270,7 @@ By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I 
 
 Through this Order, I am first expanding Executive Order No. 11063 to provide protection against discrimination in programs of Federal insurance or guaranty to persons who are disabled and to families with children.
 
-Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directinghim to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
+Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directing him to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
 
 Third, I ask the heads of departments and agencies, including the Federal banking agencies, to cooperate with the Secretary of Housing and Urban Development in identifying ways to structure agency programs and activities to affirmatively further fair housing and to promptly negotiate memoranda of understanding with him to accomplish that goal.
 

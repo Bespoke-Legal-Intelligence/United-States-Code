@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(i) the number of beds (whether hospital, nursing home, or other designated beds) employed and the average bed occupancy of such beds;
 
-&emsp;&emsp;(ii) the percentage of unique patients admitted directly to outpatient care during the fiscal year who had two or more additional visits to specialized outpatient care within 30 days of their first visit, with a comparison from 1996 until the date of the report;
+&emsp;&emsp;(ii) the percentage of unique patients admitted directly to outpatient care during the fiscal year who had two or more additional visits to specialized outpatient care within 30 days of their first visit, with acomparison from 1996 until the date of the report;
 
 &emsp;&emsp;(iii) the percentage of unique inpatients with substance-use disorder diagnoses treated during the fiscal year who had one or more specialized clinic visits within three days of their index discharge, with a comparison from 1996 until the date of the report;
 

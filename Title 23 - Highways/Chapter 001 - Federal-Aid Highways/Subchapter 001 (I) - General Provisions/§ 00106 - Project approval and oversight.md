@@ -82,7 +82,7 @@ Value Engineering for NHS.—
 
 &emsp;(1)
 
-Requirement.—The Secretary shall establish a program to require States to carry out a value engineering analysis for all projects on the National Highway System with an estimated total cost of $25,000,000 or more.
+Requirement.—The Secretary shall establish a program to require States to carryout a value engineering analysis for all projects on the National Highway System with an estimated total cost of $25,000,000 or more.
 
 &emsp;(2)
 
@@ -158,11 +158,11 @@ Study.—The Secretary shall study the effectiveness and benefits of value engin
 
 “(b)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the study under subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall report to Congress on the results of the studyunder subsection (a), including recommendations on how value engineering could be utilized and improved in Federal-aid highway projects.”
 
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 
-Pub. L. 89–574, §5(b), Sept. 13, 1966, 80 Stat. 767, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized Secretary to modify project agreements entered into prior to Sept. 13, 1966, pursuant tosection 106 of this title for purpose of effectuating amendment made by this section (amending section 109(b) of this title to add a requirement of four lanes of traffic) with respect to as much of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] as may be possible.
+Pub. L. 89–574, §5(b), Sept. 13, 1966, 80 Stat. 767, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, authorized Secretary to modify project agreements entered into prior to Sept. 13, 1966, pursuant to section 106 of this title for purpose of effectuating amendment made by this section (amending section 109(b) of this title to add a requirement of four lanes of traffic) with respect to as much of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] as may be possible.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 #### (2) Shared housing arrangements
 
-&emsp;Grants under this section may be used to assist individuals who elect to reside in shared housing arrangements in the manner provided under section 1437f(p) of this title, except that, notwithstanding such section, assistance under this section may be made available to nonelderly individuals. The Secretary shall issue any standards for shared housing under this paragraph that vary from standards issued under section 1437f(p) of this title only to the extent necessary to provide for circumstances of shared housing arrangements under this paragraph that differ from circumstancesof shared housing arrangements for elderly families under section 1437f(p) of this title.
+&emsp;Grants under this section may be used to assist individuals who elect to reside in shared housing arrangements in the manner provided under section 1437f(p) of this title, except that, notwithstanding such section, assistance under this section may be made available to nonelderly individuals. The Secretary shall issue any standards for shared housing under this paragraph that vary from standards issued under section 1437f(p) of this title only to the extent necessary to provide for circumstances of shared housing arrangements under this paragraph that differ from circumstances of shared housing arrangements for elderly families under section 1437f(p) of this title.
 
 #### (b) Limitations
 

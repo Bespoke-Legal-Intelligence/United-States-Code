@@ -16,17 +16,11 @@ General.—In this subchapter—
 
 &emsp;(2) “enhanced essential air service” means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in section 41732 of this title.
 
-&emsp;(3) “hub airport” means an airport that each year has at least .25 percent of the total annual boardings in the United States.
-
-&emsp;(4) “nonhub airport” means an airport that each year has less than .05 percent of the total annual boardings in the United States.
-
-&emsp;(5) “small hub airport” means an airport that each year has at least .05 percent, but less than .25 percent, of the total annual boardings in the United States.
-
 (b)
 
 Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary of Transportation may not decide that a place described in subsection (a)(1) of this section is not an eligible place on the basis of a passenger subsidy at that place or on another basis that is not specifically stated in this subchapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1143; Pub. L. 106–181, title II, §208, Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title II, §225(b)(2), Dec. 12, 2003, 117 Stat. 2529.)
 
 Historical and Revision Notes
 
@@ -82,11 +76,57 @@ The date of the enactment of the Wendell H. Ford Aviation Investment and Reform 
 
 #### Amendments
 
+2003—Subsec. (a)(3) to (5). Pub. L. 108–176 struck out pars. (3) to (5) which defined “hub airport”, “nonhub airport”, and “small hub airport”, respectively.
+
 2000—Subsec. (a)(1). Pub. L. 106–181 redesignated subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, of subpar (A) and added subpar. (B).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Code-Sharing Pilot Program
+
+Pub. L. 108–176, title IV, §406, Dec. 12, 2003, 117 Stat. 2545, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation shall establish a pilot program under which the Secretary may require air carriers providing service with compensation under subchapter II of chapter 417 of title 49, United States Code, and major air carriers (as defined in section 41716(a)(2) of such title) serving large hub airports (as defined in section 40102 of such title) to participate in multiple code-share arrangements consistent with normal industry practice whenever and wherever the Secretary determines that such multiple code-sharing arrangements would improve air transportation services.
+
+“(b)
+
+Limitation.—The Secretary may not require air carriers to participate in the pilot program under this section for more than 10 communities receiving service under subchapter II of chapter 417 of title 49, United States Code.”
+
+#### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
+
+Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, provided that:
+
+“(a)
+
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+
+“(b)
+
+Determination of Mileage.—In reviewing an action under subsection (a), the highway mileage between an eligible place and the nearest medium hub airport or large hub airport is the highway mileage of the most commonly used route between the place and the medium hub airport or large hub airport. In identifying such route, the Secretary shall identify the most commonly used route for a community by—
+
+&emsp;“(1) consulting with the Governor of a State or the Governor's designee; and
+
+&emsp;“(2) considering the certification of the Governor of a State or the Governor's designee as to the most commonly used route.
+
+“(c)
+
+Eligibility Determination.—Not later than 60 days after receiving a request under subsection (a), the Secretary shall—
+
+&emsp;“(1) determine whether the eligible place would have been subject to an elimination of compensation eligibility for essential air service, or termination of the eligibility of such place for essential air service, under the provisions of law referred to in subsection (a) based on the determination of the highway mileage of such place from the nearest medium hub airport or large hub airport under subsection (b); and
+
+&emsp;“(2) issue a final order with respect to the eligibility of such place for essential air service compensation under subchapter II of chapter 417 of title 49, United States Code.
+
+“(d)
+
+Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2007.”
 
 #### Marketing Practices
 
@@ -130,7 +170,7 @@ Pub. L. 105–66, title III, §336, Oct. 27, 1997, 111 Stat. 1447.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41110, 41719, 41743, 41744, 47116 of this title.
+This section is referred to in sections 41110, 41719 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “was determined,”.</i>
 

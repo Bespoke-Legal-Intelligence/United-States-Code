@@ -26,7 +26,7 @@ Determination That Further Investigation Not Warranted.—
 
 &emsp;(1)
 
-Notification of division of the court.—If the Attorney General, upon completion of a preliminary investigation under this chapter, determines that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court, and the division of the court shall have no power to appoint an independent counsel with respect to the matters involved.
+Notification of division of the court.—If the Attorney General, upon completion of a preliminary investigation under this chapter, determines that there are no reasonable grounds to believe that further investigation is warranted, the Attorney General shall promptly so notify the division of the court,and the division of the court shall have no power to appoint an independent counsel with respect to the matters involved.
 
 &emsp;(2)
 

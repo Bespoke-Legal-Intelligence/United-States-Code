@@ -42,7 +42,7 @@ Pub. L. 105–261, div. A, title VII, §741(a), Oct. 17, 1998, 112 Stat. 2073, p
 
 &emsp;“(1) Organ and tissue transplantation is one of the most remarkable medical success stories in the history of medicine.
 
-&emsp;“(2) Each year, the number of people waiting for organ or tissue transplantation increases. It is estimated that there are approximately 39,000 patients, ranging in age from babies to those in retirement,awaiting transplants of kidneys, hearts, livers, and other solid organs.
+&emsp;“(2) Each year, the number of people waiting for organ or tissue transplantation increases. It is estimated that there are approximately 39,000 patients, ranging in age from babies to those in retirement, awaiting transplants of kidneys, hearts, livers, and other solid organs.
 
 &emsp;“(3) The Department of Defense has made significant progress in increasing the awareness of the importance of organ and tissue donations among members of the Armed Forces.
 

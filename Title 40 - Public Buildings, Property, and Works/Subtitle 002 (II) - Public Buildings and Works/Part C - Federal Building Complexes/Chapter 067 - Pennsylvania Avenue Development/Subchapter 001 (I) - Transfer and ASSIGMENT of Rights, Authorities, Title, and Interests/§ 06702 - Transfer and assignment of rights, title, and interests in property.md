@@ -52,7 +52,7 @@ Powers.—In carrying out the responsibilities of the Corporation transferred un
 
 &emsp;&emsp;(C) maintain any existing Corporation insurance programs;
 
-&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the Federal Government, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
+&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the FederalGovernment, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
 
 &emsp;&emsp;(E) request the Council of the District of Columbia to close any alleys necessary for the completion of development in Square 457; and
 

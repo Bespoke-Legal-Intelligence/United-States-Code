@@ -16,7 +16,7 @@ For purposes of this subchapter—
 
 &emsp;(7) the term “multidisciplinary response to child abuse” means a response to child abuse that is based on mutually agreed upon procedures among the community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that best meets the needs of child victims and their nonoffending family members;
 
-&emsp;(8) the term “nonoffending family member” means a member of the family of a victim ofchild abuse other than a member who has been convicted or accused of committing an act of child abuse; and
+&emsp;(8) the term “nonoffending family member” means a member of the family of a victim of child abuse other than a member who has been convicted or accused of committing an act of child abuse; and
 
 &emsp;(9) the term “regional children's advocacy program” means the children's advocacy program established under section 13001b(a) of this title.
 

@@ -12,7 +12,7 @@
 
 &emsp;(B) restrictions on the hours of the day and night when unsolicited telephone calls can be made to consumers,
 
-&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
+&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commissiondeems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
 
 &emsp;(D) a requirement that any person engaged in telemarketing for the solicitation of charitable contributions, donations, or gifts of money or any other thing of value, shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to solicit charitable contributions, donations, or gifts, and make such other disclosures as the Commission considers appropriate, including the name and mailing address of the charitable organization on behalf of which the solicitation is made.
 
@@ -48,7 +48,7 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 #### (A) In general
 
-&emsp;&emsp;The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securitiesdealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in the preceding sentence.
+&emsp;&emsp;The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in the preceding sentence.
 
 #### (B) Definitions
 
@@ -80,9 +80,21 @@ Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of sectio
 
 Subsec. (a)(3)(D). Pub. L. 107–56, §1011(b)(2), added subpar. (D).
 
+#### National Do-Not-Call Registry
+
+Pub. L. 108–82, §1, Sept. 29, 2003, 117 Stat. 1006, provided that:
+
+“(a)
+
+Authority.—The Federal Trade Commission is authorized under section 3(a)(3)(A) of the Telemarketing and Consumer Fraud and Abuse Prevention Act (15 U.S.C. 6102(a)(3)(A)) to implement and enforce a national do-not-call registry.
+
+“(b)
+
+Ratification.—The do-not-call registry provision of the Telemarketing Sales Rule (16 C.F.R. 310.4(b)(1)(iii)), which was promulgated by the Federal Trade Commission, effective March 31, 2003, is ratified.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6103, 6104, 6105, 6107, 6108 of this title; title 7 section 9b.
+This section is referred to in sections 6103, 6104, 6105, 6107, 6108, 7712 of this title; title 7 section 9b.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

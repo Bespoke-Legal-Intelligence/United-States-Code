@@ -10,7 +10,7 @@
 
 (c) The Office at any time may discontinue a policy purchased from a company under subsection (a) of this section.
 
-(d)(1) The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preemptany law of any State or political subdivision thereof, or any regulation issued thereunder, which relates to group life insurance to the extent that the law or regulation is inconsistent with the contractual provisions.
+(d)(1) The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any law of any State or political subdivision thereof, or any regulation issued thereunder, which relates to group life insurance to the extent that the law or regulation is inconsistent with the contractual provisions.
 
 (2) For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
 

@@ -24,7 +24,7 @@ To receive a grant under this section, a State or unit of local government shall
 
 &emsp;(3) a description of the planned activities to be undertaken with grants under this section, including an estimate of the amount to be allocated to each activity;
 
-&emsp;(4) a description of the forms of financial assistance to owners and occupants of housingthat will be provided through grants under this section; and
+&emsp;(4) a description of the forms of financial assistance to owners and occupants of housing that will be provided through grants under this section; and
 
 &emsp;(5) such assurances as the Secretary may require regarding the applicant's capacity to carry out the activities.
 
@@ -116,7 +116,7 @@ The Secretary shall publish a Notice of Funding Availability pursuant to this se
 
 #### (n) Relationship to other law
 
-Effective 2 years after the date of promulgation of regulations under section 2682 of title 15,no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
+Effective 2 years after the date of promulgation of regulations under section 2682 of title 15, no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
 
 #### (<i>o</i>) Environmental review
 
@@ -146,7 +146,7 @@ This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the origi
 
 This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715<i>l</i> of Title 12, Banks and Banking.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified generally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 

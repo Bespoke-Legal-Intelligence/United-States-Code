@@ -137,7 +137,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 499b–1, 671, 672, 673, 1446, 7958 of this title; title 12 section 1150a; title 16 section 2005b; title 18 section 433; title 41 section 22.
+This chapter is referred to in sections 499b–1, 671, 672, 673, 1446, 7958 of this title; title 12 section 1150a; title 16 section 3839bb; title 18 section 433; title 41 section 22.
 
 
 ---

@@ -10,7 +10,7 @@ each <sup>1</sup> United States Agricultural Trade Office shall be directed and
 
 #### (c) Appointment and compensation of officers
 
-Each Agricultural Trade Officer may be appointed without regard to the provisions of title 5 governing appointments in the competitiveservice, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no Agricultural Trade Officer (1) may be paid basic pay at a rate in excess of the maximum annual rate of basic pay payable for GS–17 of the General Schedule under section 5332 of such title, or (2) may be paid at a rate in excess of the highest rate paid to an Agricultural Counselor or Attache�AE1, as the case may be, who is appointed under subchapter I of this chapter to the nation in which such Officer is to serve.
+Each Agricultural Trade Officer may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates, except that no Agricultural Trade Officer (1) may be paid basic pay at a rate in excess of the maximum annual rate of basic pay payable for GS–17 of the General Schedule under section 5332 of such title, or (2) may be paid at a rate in excess of the highest rate paid to an Agricultural Counselor or Attache�AE1, as the case may be, who is appointed under subchapter I of this chapter to the nation in which such Officer is to serve.
 
 #### (d) Transmittal of information
 
@@ -30,7 +30,7 @@ No employee of any United States Agricultural Trade Office may engage in any bus
 
 #### (h) Diplomatic privileges and immunities
 
-Upon the request of the Secretary of Agriculture, the Secretary of State shall request for Agricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
+Upon the request of the Secretary of Agriculture, the Secretary of State shall request forAgricultural Trade Officers and personnel of United States Agricultural Trade Offices diplomatic privileges and immunities equivalent to those enjoyed by members of the Foreign Service of comparable rank and salary.
 
 (Aug. 28, 1954, ch. 1041, title VI, §605A, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1688; amended Pub. L. 96–465, title II, §2206(b)(1), Oct. 17, 1980, 94 Stat. 2162.)
 

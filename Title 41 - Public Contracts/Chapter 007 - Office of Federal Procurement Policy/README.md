@@ -32,8 +32,17 @@
 | [411\.](%C2%A7%2000411%20-%20Delegation%20of%20authority%20by%20Administrator.md) | Delegation of authority by Administrator. |
 | [412\.](%C2%A7%2000412%20-%20Comptroller%20General%27s%20access%20to%20information%20from%20Administrator%3B%20rule%20making%20procedure.md) | Comptroller General's access to information from Administrator; rule making procedure. |
 | [413\.](%C2%A7%2000413%20-%20Tests%20of%20innovative%20procurement%20methods%20and%20procedures.md) | Tests of innovative procurement methods and procedures. |
-| [414\.](%C2%A7%2000414%20-%20Executive%20agency%20responsibilities.md) | Executive agency responsibilities. |
+| [414\.](%C2%A7%2000414%20-%20Chief%20Acquisition%20Officers%20and%20senior%20procurement%20executives.md) | Chief Acquisition Officers and senior procurement executives. |
+| (a) | Establishment of agency Chief Acquisition Officers. |
+| (b) | Authority and functions of agency Chief Acquisition Officers. |
+| (c) | Senior procurement executive. |
 | [414a.](%C2%A7%2000414a%20-%20Personnel%20evaluation.md) | Personnel evaluation. |
+| [414b.](%C2%A7%2000414b%20-%20Chief%20Acquisition%20Officers%20Council.md) | Chief Acquisition Officers Council. |
+| (a) | Establishment. |
+| (b) | Membership. |
+| (c) | Leadership; support. |
+| (d) | Principal forum. |
+| (e) | Functions. |
 | [415\.](%C2%A7%2000415%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VI%2C%20%C2%A76003%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203364.md) | Repealed. |
 | [416\.](%C2%A7%2000416%20-%20Procurement%20notice.md) | Procurement notice. |
 | (a) | Covered executive agency activities; publication of notice; time limitations. |
@@ -123,6 +132,12 @@
 | (d) | Equitable distribution. |
 | (e) | Implementation through FAR. |
 | (f) | Micro-purchase threshold defined. |
+| [428a.](%C2%A7%2000428a%20-%20Special%20emergency%20procurement%20authority.md) | Special emergency procurement authority. |
+| (a) | Applicability. |
+| (b) | Increased thresholds. |
+| (c) | Increased limitation on use of simplified acquisition procedures. |
+| (d) | Commercial items authority. |
+| (e) | Contingency operation defined. |
 | [429\.](%C2%A7%2000429%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20not%20greater%20than%20simplified%20acquisition%20threshold%20in%20Federal%20Acquisition%20Regulation.md) | List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation. |
 | (a) | List of inapplicable provisions of law. |
 | (b) | Covered law. |
@@ -159,6 +174,11 @@
 | [436\.](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md) | Protection of constitutional rights of contractors. |
 | (a) | Prohibition. |
 | (b) | Construction. |
+| [437\.](%C2%A7%2000437%20-%20Incentives%20for%20efficient%20performance%20of%20services%20contracts.md) | Incentives for efficient performance of services contracts. |
+| (a) | Incentive for use of performance-based services contracts. |
+| (b) | Regulations. |
+| (c) | Report. |
+| (d) | Expiration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -187,8 +207,9 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00411 - Delegation of authority by Administrator](%C2%A7%2000411%20-%20Delegation%20of%20authority%20by%20Administrator.md)
 - [&sect; 00412 - Comptroller General's access to information from Administrator; rule making procedure](%C2%A7%2000412%20-%20Comptroller%20General%27s%20access%20to%20information%20from%20Administrator%3B%20rule%20making%20procedure.md)
 - [&sect; 00413 - Tests of innovative procurement methods and procedures](%C2%A7%2000413%20-%20Tests%20of%20innovative%20procurement%20methods%20and%20procedures.md)
-- [&sect; 00414 - Executive agency responsibilities](%C2%A7%2000414%20-%20Executive%20agency%20responsibilities.md)
+- [&sect; 00414 - Chief Acquisition Officers and senior procurement executives](%C2%A7%2000414%20-%20Chief%20Acquisition%20Officers%20and%20senior%20procurement%20executives.md)
 - [&sect; 00414a - Personnel evaluation](%C2%A7%2000414a%20-%20Personnel%20evaluation.md)
+- [&sect; 00414b - Chief Acquisition Officers Council](%C2%A7%2000414b%20-%20Chief%20Acquisition%20Officers%20Council.md)
 - [&sect; 00415 - Repealed. Pub. L. 103&#8211;355, title VI, &sect;6003, Oct. 13, 1994, 108 Stat. 3364](%C2%A7%2000415%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VI%2C%20%C2%A76003%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203364.md)
 - [&sect; 00416 - Procurement notice](%C2%A7%2000416%20-%20Procurement%20notice.md)
 - [&sect; 00417 - Record requirements](%C2%A7%2000417%20-%20Record%20requirements.md)
@@ -207,6 +228,7 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00426a - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;850(b), Nov. 18, 1997, 111 Stat. 1848](%C2%A7%2000426a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7850%28b%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201848.md)
 - [&sect; 00427 - Simplified acquisition procedures](%C2%A7%2000427%20-%20Simplified%20acquisition%20procedures.md)
 - [&sect; 00428 - Procedures applicable to purchases below micro-purchase threshold](%C2%A7%2000428%20-%20Procedures%20applicable%20to%20purchases%20below%20micro-purchase%20threshold.md)
+- [&sect; 00428a - Special emergency procurement authority](%C2%A7%2000428a%20-%20Special%20emergency%20procurement%20authority.md)
 - [&sect; 00429 - List of laws inapplicable to contracts not greater than simplified acquisition threshold in Federal Acquisition Regulation](%C2%A7%2000429%20-%20List%20of%20laws%20inapplicable%20to%20contracts%20not%20greater%20than%20simplified%20acquisition%20threshold%20in%20Federal%20Acquisition%20Regulation.md)
 - [&sect; 00430 - List of laws inapplicable to procurements of commercial items in Federal Acquisition Regulation](%C2%A7%2000430%20-%20List%20of%20laws%20inapplicable%20to%20procurements%20of%20commercial%20items%20in%20Federal%20Acquisition%20Regulation.md)
 - [&sect; 00431 - Commercially available off-the-shelf item acquisitions lists of inapplicable laws in Federal Acquisition Regulation](%C2%A7%2000431%20-%20Commercially%20available%20off-the-shelf%20item%20acquisitions%20lists%20of%20inapplicable%20laws%20in%20Federal%20Acquisition%20Regulation.md)
@@ -215,3 +237,4 @@ This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title;
 - [&sect; 00434 - Modular contracting for information technology](%C2%A7%2000434%20-%20Modular%20contracting%20for%20information%20technology.md)
 - [&sect; 00435 - Levels of compensation of certain contractor personnel not allowable as costs under certain contracts](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md)
 - [&sect; 00436 - Protection of constitutional rights of contractors](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md)
+- [&sect; 00437 - Incentives for efficient performance of services contracts](%C2%A7%2000437%20-%20Incentives%20for%20efficient%20performance%20of%20services%20contracts.md)

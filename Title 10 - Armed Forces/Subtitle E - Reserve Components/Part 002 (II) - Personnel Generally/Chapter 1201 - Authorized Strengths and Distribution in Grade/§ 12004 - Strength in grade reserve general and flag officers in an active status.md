@@ -28,7 +28,7 @@
 
 &emsp;(3) Those counted under section 526 of this title.
 
-(c)(1) The authorized strength of the Navy under subsection (a) is exclusive of officers counted under section 526 of this title. Of the number authorized under subsection (a), 39 are distributed among the line and the staff corps as follows:
+(c)(1) The authorized strength of the Navy under subsection (a) is exclusive of officers counted under section 526 of this title. Of the number authorized under subsection (a), 39 aredistributed among the line and the staff corps as follows:
 
 &emsp;&emsp;Line
 

@@ -110,7 +110,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginningafter Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
 
 #### Section Referred to in Other Sections
 

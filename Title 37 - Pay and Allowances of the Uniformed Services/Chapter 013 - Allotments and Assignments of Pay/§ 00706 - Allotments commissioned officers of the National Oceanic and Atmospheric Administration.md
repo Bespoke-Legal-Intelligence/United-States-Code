@@ -2,7 +2,7 @@
 
 Under regulations prescribed by the Secretary of Commerce, commissioned officers of the National Oceanic and Atmospheric Administration may make allotments or assignments of their pay.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 485; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub.L. 96–513, title V, §516(18)(A), (B), Dec. 12, 1980, 94 Stat. 2939.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 485; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §516(18)(A), (B), Dec. 12, 1980, 94 Stat. 2939.)
 
 Historical and Revision Notes
 

@@ -84,19 +84,21 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 #### (B) Physician
 
-&emsp;&emsp;The term “physician” has the meaning given such term by section 1395x(r)(1) of this title.
+&emsp;&emsp;The term “physician” has the meaning given such term by paragraphs (1), (2), (3), and (4) of section 1395x(r) of this title.
 
 #### (C) Practitioner
 
 &emsp;&emsp;The term “practitioner” has the meaning given such term by section 1395u(b)(18)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1802, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 105–33, title IV, §4507(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 439, 441.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1802, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 105–33, title IV, §4507(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 439, 441; Pub. L. 108–173, title VI, §603, Dec. 8, 2003, 117 Stat. 2301.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsec. (b)(5)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(5)(B). Pub. L. 108–173 substituted “paragraphs (1), (2), (3), and (4) of section 1395x(r)” for “section 1395x(r)(1)”.
 
 1997—Pub. L. 105–33 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

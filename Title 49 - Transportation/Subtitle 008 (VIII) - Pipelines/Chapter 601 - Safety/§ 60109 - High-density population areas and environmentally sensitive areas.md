@@ -30,7 +30,7 @@ Risk Analysis and Integrity Management Programs.—
 
 &emsp;(1)
 
-Requirement.—Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including any subsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
+Requirement.—Each operator of a gas pipeline facility shall conduct an analysis of the risks to each facility of the operator located in an area identified pursuant to subsection (a)(1) and defined in chapter 192 of title 49, Code of Federal Regulations, including anysubsequent modifications, and shall adopt and implement a written integrity management program for such facility to reduce the risks.
 
 &emsp;(2)
 
@@ -78,7 +78,7 @@ Standards.—The standards prescribed by the Secretary under paragraph (2) shall
 
 &emsp;&emsp;(A) The minimum requirements described in paragraph (3).
 
-&emsp;&emsp;(B) The type or frequency of inspections or testing of pipeline facilities, in addition tothe minimum requirements of paragraph (3)(B).
+&emsp;&emsp;(B) The type or frequency of inspections or testing of pipeline facilities, in addition to the minimum requirements of paragraph (3)(B).
 
 &emsp;&emsp;(C) The manner in which the inspections or testing are conducted.
 

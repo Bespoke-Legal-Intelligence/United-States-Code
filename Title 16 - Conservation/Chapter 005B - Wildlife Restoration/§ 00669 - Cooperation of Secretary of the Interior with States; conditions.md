@@ -16,7 +16,7 @@ Pub. L. 106–408, title I, §101(a), Nov. 1, 2000, 114 Stat. 1763, provided tha
 
 #### Short Title of 1970 Amendment
 
-Section 103 of title I of Pub. L. 91–503 provided that: “This title \[amending section 669b and sections 669c to 669g–1 of this title\] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
+Section 103 of title I of Pub. L. 91–503 provided that: “This title \[amending section 669b and sections 669c to669g–1 of this title\] may be cited as the ‘Federal Aid in Wildlife Restoration Act Amendments of 1970’.”
 
 #### Short Title
 
@@ -54,5 +54,5 @@ Pub. L. 106–553, §1(a)(2) \[title IX, §902(h)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Designation of Programs
 
-Pub. L. 106–408, title I, §131, Nov. 1, 2000, 114 Stat. 1775, provided that: “The programs established under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport FishRestoration Act (16 U.S.C. 777 et seq.) shall be known as the ‘Federal Assistance Program for State Wildlife and Sport Fish Restoration’.”
+Pub. L. 106–408, title I, §131, Nov. 1, 2000, 114 Stat. 1775, provided that: “The programs established under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.) shall be known as the ‘Federal Assistance Program for State Wildlife and Sport Fish Restoration’.”
 

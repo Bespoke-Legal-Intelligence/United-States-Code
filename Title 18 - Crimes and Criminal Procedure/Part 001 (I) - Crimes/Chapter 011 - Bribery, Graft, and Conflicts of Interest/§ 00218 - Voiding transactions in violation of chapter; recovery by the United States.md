@@ -6,7 +6,7 @@ In addition to any other remedies provided by law the President or, under regula
 
 #### Prior Provisions
 
-A prior section 218 of this title was renumbered section 213.
+A prior section 218 was renumbered section 213 of this title and subsequently repealed.
 
 #### Effective Date
 

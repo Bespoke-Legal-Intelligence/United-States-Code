@@ -32,7 +32,7 @@ Protection Against Violence and Piracy.—The Under Secretary shall prescribe re
 
 (c)
 
-Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorize the operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
+Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorizethe operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
 
 (2)(A) The Under Secretary may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
 
@@ -162,7 +162,7 @@ Short-Term Assessment and Deployment of Emerging Security Technologies and Proce
 
 &emsp;(1)
 
-In general.—The Under Secretary of Transportation for Security shall recommend to airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
+In general.—The Under Secretary of Transportation for Security shall recommendto airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
 
 &emsp;&emsp;(A) review the effectiveness of biometrics systems currently in use at several United States airports, including San Francisco International;
 
@@ -174,7 +174,7 @@ In general.—The Under Secretary of Transportation for Security shall recommend
 
 &emsp;&emsp;(E) specifically target the elimination of the “piggy-backing” phenomenon, where another person follows an authorized person through the access point.
 
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
 
 &emsp;(2)
 
@@ -200,7 +200,31 @@ Modifications.—The Secretary of Transportation may modify any requirement unde
 
 Limitation on Liability for Acts To Thwart Criminal Violence or Aircraft Piracy.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts of the individual in attempting to thwart an act of criminal violence or piracy on an aircraft if that individual reasonably believed that such an act of criminal violence or piracy was occurring or was about to occur.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307.)
+(<i>l</i>)
+
+Air Charter Program.—
+
+&emsp;(1)
+
+In general.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall implement an aviation security program for charter air carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
+
+&emsp;(2)
+
+Exemption for armed forces charters.—
+
+&emsp;&emsp;(A)
+
+In general.—Paragraph (1) and the other requirements of this chapter do not apply to passengers and property carried by aircraft when employed to provide charter transportation to members of the armed forces.
+
+&emsp;&emsp;(B)
+
+Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operation of aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
+
+&emsp;&emsp;(C)
+
+Armed forces defined.—In this paragraph, the term “armed forces” has the meaning given that term by section 101(a)(4) of title 10.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568.)
 
 Historical and Revision Notes
 
@@ -246,7 +270,7 @@ In this section, the word “passengers” is substituted for “persons” for 
 
 In subsection (a)(2), the words “the degree of” are substituted for “such” for clarity.
 
-In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” are omitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and “any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
+In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” areomitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and “any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
 
 In subsection (c)(1), the words “traveling in air transportation or intrastate air transportation from acts of criminal violence and aircraft piracy” and “whose services are made available by their employers” are omitted as surplus. The words “department, agency, or instrumentality of the Government” are substituted for “Federal department or agency” for consistency in the revised title and with other titles of the Code. The word “When” is substituted for “In any case in which” to eliminate unnecessary words. The words “receipt of”, “by order”, “the services of”, “directly”, and “at the airport concerned in such numbers and for such period of time as the Administrator may deem necessary” are omitted as surplus. The words “When deciding whether additional personnel are needed” are substituted for “In making the determination referred to in the preceding sentence” for clarity.
 
@@ -267,6 +291,8 @@ The date of enactment of the Aviation and Transportation Security Act, referred 
 The date of enactment of this Act, referred to in subsec. (j)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (j), originally (i), of this section and which was approved Nov. 19, 2001.
 
 #### Amendments
+
+2003—Subsec. (<i>l</i>). Pub. L. 108–176 added subsec. (<i>l</i>).
 
 2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
@@ -324,6 +350,10 @@ Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 Subsec. (g). Pub. L. 106–528, §4, added subsec. (g).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -337,6 +367,42 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### CAPPS2
+
+Pub. L. 108–176, title VI, §607, Dec. 12, 2003, 117 Stat. 2568, provided that:
+
+“(a)
+
+In General.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall not implement, on other than a test basis, the computer assisted passenger prescreening system (commonly known as and in this section referred to as ‘CAPPS2’) until the Under Secretary provides to Congress a certification that—
+
+&emsp;“(1) a procedure is established enabling airline passengers, who are delayed or prohibited from boarding a flight because CAPPS2 determined that they might pose a security threat, to appeal such determination and correct information contained in CAPPS2;
+
+&emsp;“(2) the error rate of the Government and private data bases that will be used to both establish identity and assign a risk level to a passenger under CAPPS2 will not produce a large number of false positives that will result in a significant number of passengers being mistaken as a security threat;
+
+&emsp;“(3) the Under Secretary has demonstrated the efficacy and accuracy of all search tools in CAPPS2 and has demonstrated that CAPPS2 can make an accurate predictive assessment of those passengers who would constitute a security threat;
+
+&emsp;“(4) the Secretary of Homeland Security has established an internal oversight board to oversee and monitor the manner in which CAPPS2 is being implemented;
+
+&emsp;“(5) the Under Secretary has built in sufficient operational safeguards to reduce the opportunities for abuse;
+
+&emsp;“(6) substantial security measures are in place to protect CAPPS2 from unauthorized access by hackers or other intruders;
+
+&emsp;“(7) the Under Secretary has adopted policies establishing effective oversight of the use and operation of the system; and
+
+&emsp;“(8) there are no specific privacy concerns with the technological architecture of the system.
+
+“(b) GAO
+
+Report.—Not later than 90 days after the date on which certification is provided under subsection (a), the Comptroller General shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science and Transportation of the Senate that assesses the impact of CAPPS2 on the issues listed in subsection (a) and on privacy and civil liberties. The report shall include any recommendations for practices, procedures, regulations, or legislation to eliminate or minimize adverse effect of CAPPS2 on privacy, discrimination, and other civil liberties.”
+
+#### Reimbursement of Air Carriers for Certain Screening and Related Activities
+
+Pub. L. 108–176, title VIII, §821, Dec. 12, 2003, 117 Stat. 2594, provided that: “The Secretary of Homeland Security, subject to the availability of funds (other than amounts in the Aviation Trust Fund) provided for this purpose, shall reimburse air carriers and airports for—
+
+&emsp;“(1) the screening of catering supplies; and
+
+&emsp;“(2) checking documents at security checkpoints.”
 
 #### Improved Flight Deck Integrity Measures
 
@@ -370,7 +436,7 @@ Implementation of Other Methods.—As soon as possible after such date of enactm
 
 “(c)
 
-Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
+Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regionswhere there is minimal threat to aviation security or national security.”
 
 #### Small and Medium Airports
 
@@ -440,7 +506,7 @@ Pub. L. 107–71, title I, §128, Nov. 19, 2001, 115 Stat. 633, which authorized
 
 #### Charter Air Carriers
 
-Pub. L. 107–71, title I, §132(a), Nov. 19, 2001, 115 Stat. 635, provided that: “Within 90 days after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Transportation \[sic\] Security shall implement an aviation security program for charter air carriers (as defined in section 40102(a)(13) of title 49, United States Code) with a maximum certificated takeoff weight of 12,500 pounds or more.”
+Pub. L. 107–71, title I, §132(a), Nov. 19, 2001, 115 Stat. 635, which provided that within 90 days after Nov. 19, 2001, the Under Secretary of Transportation for Security was to implement an aviation security program for charter air carriers with a maximum certificated takeoff weight of 12,500 pounds or more, was repealed by Pub. L. 108–176, title VI, §606(b), Dec. 12, 2003, 117 Stat. 2568.
 
 #### Physical Security for ATC Facilities
 
@@ -560,5 +626,5 @@ For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 44901, 44915, 44917, 44921, 44933, 44935, 44937, 44940, 46301, 46314, 46316 of this title.
+This section is referred to in sections 106, 40109, 44901, 44915, 44917, 44918, 44921, 44933, 44935, 44937, 44940, 46301, 46314, 46316 of this title.
 

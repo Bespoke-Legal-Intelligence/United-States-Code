@@ -18,7 +18,7 @@ For purposes of this subchapter:
 
 &emsp;(G) home health services; and
 
-&emsp;(H) preventive health services (including (i) immunizations, (ii) well-child care from birth, (iii) periodic health evaluations for adults, (iv) voluntary family planning services, (v) infertility services, and (vi) children's eye and ear examinations conducted to determine the need for vision and hearing correction).
+&emsp;(H) preventive health services (including (i) immunizations, (ii) well-child care from birth,\(iii) periodic health evaluations for adults, (iv) voluntary family planning services, (v) infertility services, and (vi) children's eye and ear examinations conducted to determine the need for vision and hearing correction).
 
 > Such term does not include a health service which the Secretary, upon application of a health maintenance organization, determines is unusual and infrequently provided and not necessary for the protection of individual health. The Secretary shall publish in the Federal Register each determination made by him under the preceding sentence. If a service of a physician described in the preceding sentence may also be provided under applicable State law by a dentist, optometrist, podiatrist, psychologist, or other health care personnel, a health maintenance organization may provide such service through a dentist, optometrist, podiatrist, psychologist, or other health care personnel (as the case may be) licensed to provide such service. Such term includes a health service directly associated with an organ transplant only if such organ transplant was required to be included in basic health services on April 15, 1985. For purposes of this paragraph, the term “home health services” means health services provided at a member's home by health care personnel, as prescribed or directed by the responsible physician or other authority designated by the health maintenance organization.
 
@@ -122,7 +122,7 @@ Par. (8). Pub. L. 97–35, §942(j), reorganized and restructured provisions and
 
 Par. (2). Pub. L. 94–460, §104(b), substituted “basic health service” for “basic health service under paragraph (1)(A) or (1)(H)” in subpars. (B) and (C), added subpar. (G), and inserted reference to “other health care personnel” in provisions following subpar. (G).
 
-Par. (4)(C). Pub. L. 94–460, §§102(b)(1), 106, substituted “as their principal professional activity engage in the coordinated practice of their profession and as a group responsibility have substantial responsibility for the delivery of health services to members of a health maintenance organization” for “as their principal professional activity and as a group responsibility engage in the coordinated practice of their profession for a health maintenance organization” in cl. (i), substituted “similar plan unrelated to the provision of specific health services” for “plan” in cl. (ii), struck out former cl. (iv) which covered the utilization of additional professional personnel, allied health professions personnel, and other health personnel as are available and appropriate for the effective and efficient delivery of theservices of the members of the group, redesignated former cl. (v) as (iv), and added cl. (v).
+Par. (4)(C). Pub. L. 94–460, §§102(b)(1), 106, substituted “as their principal professional activity engage in the coordinated practice of their profession and as a group responsibility have substantial responsibility for the delivery of health services to members of a health maintenance organization” for “as their principal professional activity and as a group responsibility engage in the coordinated practice of their profession for a health maintenance organization” in cl. (i), substituted “similar plan unrelated to the provision of specific health services” for “plan” in cl. (ii), struck out former cl. (iv) which covered the utilization of additional professional personnel, allied health professions personnel, and other health personnel as are available and appropriate for the effective and efficient delivery of the services of the members of the group, redesignated former cl. (v) as (iv), and added cl. (v).
 
 Par. (5)(B). Pub. L. 94–460, §102(b)(2), struck out former cl. (i) which covered the utilization of additional professional personnel, allied health professions personnel, and other personnel as are available and appropriate for the effective and efficient delivery of the services of the persons who are parties to the arrangement, and redesignated former cls. (ii) and (iii) as (i) and (ii), respectively.
 
@@ -156,11 +156,11 @@ Section 812(b)(2) of Pub. L. 99–660, which provided that after Apr. 1, 1988, f
 
 #### Reports Respecting Medically Underserved Areas and Population Groups and Non-Metropolitan Areas
 
-Section 5 of Pub. L. 93–222 directed Secretary of Health, Education, and Welfare to report to Congress the criteria used in the designation of medically underserved areas and population groups for purposes of par. (7) of this section by Dec. 29, 1973, and report to Congress the areas and population groups designated under par. (7) of this section, the comments of State and areawide health planning agencies, and areas which meet the definitional standards of par. (9) of this section for non-metropolitan areas by Dec. 29, 1974, and that the Office of Management and Budget may review such reports before their submission to Congress.
+Section 5 of Pub. L. 93–222 directed Secretary of Health, Education, and Welfare to report to Congressthe criteria used in the designation of medically underserved areas and population groups for purposes of par. (7) of this section by Dec. 29, 1973, and report to Congress the areas and population groups designated under par. (7) of this section, the comments of State and areawide health planning agencies, and areas which meet the definitional standards of par. (9) of this section for non-metropolitan areas by Dec. 29, 1974, and that the Office of Management and Budget may review such reports before their submission to Congress.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300e, 1395w–24, 1395x, 1395mm of this title.
+This section is referred to in sections 300e, 1395w–24, 1395w–111, 1395x, 1395mm of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “organization”.</i>
 

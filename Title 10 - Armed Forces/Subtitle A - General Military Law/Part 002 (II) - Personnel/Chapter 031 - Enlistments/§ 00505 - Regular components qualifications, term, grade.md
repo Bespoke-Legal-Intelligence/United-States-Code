@@ -6,7 +6,7 @@
 
 (c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than six years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
 
-(d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps,or Regular Coast Guard, as the case may be, for a period determined under this subsection.
+(d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 
 (2) In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than six years.
 
@@ -32,7 +32,11 @@
 
 Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secretary to accept original enlistments of persons for the duration of their minority or for a period of two, three, four, five, or six years, for provisions which limited the Secretary to accept original enlistments from male persons for the duration of their minority or for a period of two, three, four, five, or six years, and from female persons for a period of two, three, four, five, or six years.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 513, 519, 802, 3264, 16401 of this title.
+This section is referred to in sections 513, 519, 802, 16401 of this title.
 

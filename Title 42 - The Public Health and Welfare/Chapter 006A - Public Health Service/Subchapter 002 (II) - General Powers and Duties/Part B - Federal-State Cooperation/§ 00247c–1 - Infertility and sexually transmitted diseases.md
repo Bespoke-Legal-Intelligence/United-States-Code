@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 254b(h), 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254b, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -156,15 +156,17 @@ For the purpose of carrying out this section, other than subsections (<i>o</i>) 
 
 &emsp;For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1993 through 1998.
 
-(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106 Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title III, §318A, as added Pub. L. 102–531, title III, §304, Oct. 27, 1992, 106 Stat. 3490; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(ii), June 10, 1993, 107 Stat. 212; Pub. L. 103–183, title IV, §402, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, appearing in subsec. (e), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The reference to section 254b of this title the first place appearing, referred to in subsec. (e), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsec. (e), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, 256a”.
 
 2002—Subsec. (e). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
@@ -179,6 +181,10 @@ Subsec. (r)(2). Pub. L. 103–183, §402(b)(2), substituted “1998” for “19
 #### Change of Name
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 

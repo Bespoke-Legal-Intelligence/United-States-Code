@@ -14,7 +14,7 @@
 
 (e) The Authority shall make an annual report to the President for transmittal to the Congress which shall include information as to the cases it has heard and the decisions it has rendered.
 
-(f)(1) The General Counsel of the Authority shall be appointed by the President, by and with the advice and consent of the Senate, for a termof 5 years. The General Counsel may be removed at any time by the President. The General Counsel shall hold no other office or position in the Government of the United States except as provided by law.
+(f)(1) The General Counsel of the Authority shall be appointed by the President, by and with the advice and consent of the Senate, for a term of 5 years. The General Counsel may be removed at any time by the President. The General Counsel shall hold no other office or position in the Government of the United States except as provided by law.
 
 (2) The General Counsel may—
 

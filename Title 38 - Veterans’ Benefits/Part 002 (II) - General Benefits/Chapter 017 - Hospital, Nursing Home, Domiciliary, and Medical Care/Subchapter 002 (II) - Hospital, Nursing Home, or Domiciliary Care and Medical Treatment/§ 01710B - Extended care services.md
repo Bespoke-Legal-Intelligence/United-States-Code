@@ -38,7 +38,7 @@
 
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14,§8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997.)
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Report.—(1) Not later than nine months after the completion of all of the pilo
 
 #### Pilot Program Relating to Assisted Living
 
-Pub. L. 106–117, title I, §103, Nov. 30, 1999, 113 Stat. 1552, provided that:
+Pub. L. 106–117, title I, §103, Nov. 30, 1999, 113 Stat. 1552, as amended by Pub. L. 108–170, title I, §107, Dec. 6, 2003, 117 Stat. 2046, provided that:
 
 “(a)
 
@@ -152,7 +152,11 @@ Program Authority.—The Secretary \[of Veterans Affairs\] may carry out a pilot
 
 “(b)
 
-Location of Pilot Program.—The pilot program shall be carried out in a designated health care region of the Department \[of Veterans Affairs\] selected by the Secretary for purposes of this section.
+Locations of Pilot Program.—(1) The pilot program shall be carried out in a designated health care region of the Department \[of Veterans Affairs\] selected by the Secretary for purposes of this section.
+
+“(2)(A) In addition to the health care region of the Department selected for the pilot program under paragraph (1), the Secretary may also carry out the pilot program in not more than one additional designated health care region of the Department selected by the Secretary for purposes of this section.
+
+“(B) Notwithstanding subsection (f), the authority of the Secretary to provide services under the pilot program in a health care region of the Department selected under subparagraph (A) shall cease on the date that is three years after the commencement of the provision of services under the pilot program in the health care region.
 
 “(c)
 

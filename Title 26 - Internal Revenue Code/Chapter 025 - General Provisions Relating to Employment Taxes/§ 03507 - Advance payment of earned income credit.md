@@ -76,7 +76,7 @@ For purposes of this title, an earned income eligibility certificate is a statem
 
 #### (4) Failure to make advance payments
 
-&emsp;For purposes of this title (including penalties), failure to make any advance payment under this section at the time provided therefor shall be treated as the failure at such time to deduct and withhold under chapter 24 an amount equal to the amount of such advance payment.
+&emsp;For purposes of this title (including penalties), failure to make any advance payment under this section at the time provided therefor shall be treated as the failure at such time to deduct and withhold under chapter 24 anamount equal to the amount of such advance payment.
 
 #### (e) Furnishing and taking effect of certificates
 
@@ -146,7 +146,7 @@ Subsec. (f). Pub. L. 103–66, §13131(d)(6), added subsec. (f).
 
 &emsp;“(i) of not more than 14 percent of earned income not in excess of the amount of earned income taken into account under section 32(a), which
 
-&emsp;“(ii) phases out between the amount of earned income at which the phaseout begins under subsection (b) of section 32 and the amount of earned income at which the credit under section 32 is phased out under such subsection, or
+&emsp;“(ii) phases out between the amount of earned income at which the phaseout begins under subsection\(b) of section 32 and the amount of earned income at which the credit under section 32 is phased out under such subsection, or
 
 “(C) if an earned income eligibility certificate is in effect with respect to the spouse of the employee, shall treat the credit provided by section 32 as if it were a credit—
 

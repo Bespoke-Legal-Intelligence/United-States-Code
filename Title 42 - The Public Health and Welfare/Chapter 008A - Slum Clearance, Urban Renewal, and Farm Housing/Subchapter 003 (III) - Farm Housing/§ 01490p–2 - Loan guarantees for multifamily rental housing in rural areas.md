@@ -56,11 +56,11 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;(3) involve a principal obligation (including initial service charges, appraisal, inspection, and other fees as the Secretary may approve) not to exceed—
 
-&emsp;&emsp;(A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent ofthe development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
+&emsp;&emsp;(A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
 
 &emsp;&emsp;(B) in the case of a borrower that is a for-profit entity not referred to in subparagraph (A), 90 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less; and
 
-&emsp;&emsp;(C) in the case of any borrower, for such part of the property as may be attributable to dwelling use, the applicable maximum per unit dollar amount limitations under section 207(c) of the National Housing Act \[12 U.S.C. 1713(c)\];
+&emsp;&emsp;(C) in the case of any borrower, for such part of the property as may be attributableto dwelling use, the applicable maximum per unit dollar amount limitations under section 207(c) of the National Housing Act \[12 U.S.C. 1713(c)\];
 
 &emsp;(4) be secured by a first mortgage on the housing and related facilities for which the loan is made, or otherwise, as the Secretary may determine necessary to ensure repayment of the obligation; and
 
@@ -108,7 +108,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (k) Refinancing
 
-Any loan guaranteed under this section may be refinanced and extended in accordance with terms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
+Any loan guaranteed under this section may be refinanced and extended in accordance withterms and conditions that the Secretary shall prescribe, but in no event for an additional amount or term that exceeds the limitations under subsection (f) of this section.
 
 #### (<i>l</i>) Geographical targeting
 
@@ -174,7 +174,7 @@ For purposes of this section, the following definitions shall apply:
 
 Indian tribe.—The term “Indian tribe” means—
 
-&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
+&emsp;&emsp;(A) any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation, as defined by or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 etseq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 (25 U.S.C. 450 et seq.); or
 
 &emsp;&emsp;(B) any entity established by the governing body of an Indian tribe described in subparagraph (A) for the purpose of financing economic development.
 
@@ -236,11 +236,11 @@ Subsec. (v). Pub. L. 106–569, §707(8), added subsec. (v).
 
 1998—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
 
-Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec.\(u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
+Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
 
 1997—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
 
-Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read as follows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section.”
+Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out text of former subsec. (t). Text read asfollows: “There is authorized to be appropriated for fiscal year 1996 $1,000,000 for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section.”
 
 Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted “1998” for “1996”.
 

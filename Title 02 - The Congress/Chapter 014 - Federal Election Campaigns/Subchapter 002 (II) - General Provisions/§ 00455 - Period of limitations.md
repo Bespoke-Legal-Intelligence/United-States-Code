@@ -18,9 +18,9 @@ The Federal Election Campaign Act Amendments of 1974, referred to in subsec. (b)
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–155 substituted “5 years” for “3 years”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–155 substituted “5 years” for “3 years”.
 
-1976—Subsec. (a). Pub. L. 94–283, §115(f)(1), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
+<b>1976</b>—Subsec. (a). Pub. L. 94–283, §115(f)(1), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
 
 Subsec. (b)(2). Pub. L. 94–283, §115(f)(2), struck out references to sections 608, 610, 611, and 613 of title 18.
 

@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-The Board, as hereinafter provided, shall insure the member accounts of all Federal credit unions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
+The Board, as hereinafter provided, shall insure the member accounts of all Federal creditunions and it may insure the member accounts of (1) credit unions organized and operated according to the laws of any State, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, and (2) credit unions organized and operating under the jurisdiction of the Department of Defense if such credit unions are operating in compliance with the requirements of subchapter I of this chapter and regulations issued thereunder.
 
 #### (b) Application; agreement
 
@@ -12,7 +12,7 @@ Application for insurance of member accounts shall be made immediately by each F
 
 &emsp;(2) to permit and pay the reasonable cost of such examinations as in the judgment of the Board may from time to time be necessary for the protection of the fund and of other insured credit unions;
 
-&emsp;(3) to permit the Board to have access to any information or report with respect to any examination made by or for any public regulatory authority, including any commission, board, or authority having supervision of aState-chartered credit union, and furnish such additional information with respect thereto as the Board may require;
+&emsp;(3) to permit the Board to have access to any information or report with respect to any examination made by or for any public regulatory authority, including any commission, board, or authority having supervision of a State-chartered credit union, and furnish such additional information with respect thereto as the Board may require;
 
 &emsp;(4) to provide protection and indemnity against burglary, defalcation, and other similar insurable losses, of the type, in the form, and in an amount at least equal to that required by the laws under which the credit union is organized and operates;
 

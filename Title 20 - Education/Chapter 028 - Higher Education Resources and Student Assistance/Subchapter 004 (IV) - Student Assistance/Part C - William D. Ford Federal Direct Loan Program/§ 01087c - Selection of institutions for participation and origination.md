@@ -8,7 +8,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 #### (1) Application
 
-&emsp;Each institution of higher education desiring to participate in the direct student loan program under this part shall submit an application satisfactory to the Secretary containing such information and assurances as the Secretary may require.
+&emsp;Each institution of higher education desiring to participate in the direct student loanprogram under this part shall submit an application satisfactory to the Secretary containing such information and assurances as the Secretary may require.
 
 #### (2) Selection procedure
 
@@ -38,7 +38,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
 
-&emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless suchdebts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
+&emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
 
 &emsp;&emsp;(F) meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 

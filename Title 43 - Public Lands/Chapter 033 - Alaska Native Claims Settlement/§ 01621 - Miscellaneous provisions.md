@@ -14,7 +14,7 @@ The Secretary is directed to promptly issue patents to all persons who have made
 
 (2)(A)(i) Subject to valid existing rights, an unpatented mining claim or location, or portion thereof, under the general mining laws that is situated outside the boundaries of a conservation system unit (as such term is defined in the Alaska National Interest Lands Conservation Act) and within the exterior boundaries of lands validly selected by a Village or Regional Corporation pursuant to section 1611 of this title or section 1613(h) of this title and that lapses, is abandoned, relinquished, or terminated, declared null and void, or otherwise expires, after August 31, 1971, because of failure to comply with requirements of the general mining laws (including the mining laws of the State of Alaska), is deemed to be null and void for the purposes of this paragraph. The Secretary shall promptly determine the validity of such claims or locations within conservation system units.
 
-(ii) Subject to valid existing rights and to subparagraph (B), the lands outside a conservation system unit included in a mining claim or location described in clause (i) shall—
+(ii) Subject to valid existing rights and to subparagraph (B), the lands outside a conservationsystem unit included in a mining claim or location described in clause (i) shall—
 
 &emsp;(I) be considered part of the lands selected pursuant to sections 1611 of this title and 1613(h) of this title by the Village or Regional Corporation described in clause (i); and
 

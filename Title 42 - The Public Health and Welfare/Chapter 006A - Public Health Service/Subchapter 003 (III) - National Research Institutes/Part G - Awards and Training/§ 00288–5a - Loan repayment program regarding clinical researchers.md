@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the National Institutes of Health,
 
 #### (b) Application of provisions
 
-The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established under subsection (a) of this section to the same extent and in the same manner as such provisions apply to the NationalHealth Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
+The provisions of sections 254<i>l</i>–1, 254m, and 254<i>o</i> of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established under subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
 
 #### (c) Funding
 

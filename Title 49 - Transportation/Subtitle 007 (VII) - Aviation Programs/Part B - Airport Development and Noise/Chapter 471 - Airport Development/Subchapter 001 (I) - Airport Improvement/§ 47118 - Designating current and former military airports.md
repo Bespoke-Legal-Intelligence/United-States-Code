@@ -32,7 +32,7 @@ Grants.—Grants under section 47117(e)(1)(B) of this title may be made for an a
 
 (e)
 
-Terminal Building Facilities.—Not more than $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair a terminal building facility, including terminal gates used for revenue passengers getting on or off aircraft. A gate constructed, improved, or repaired under this subsection—
+Terminal Building Facilities.—From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair a terminal building facility, including terminal gates used for revenue passengers getting on or off aircraft. A gate constructed, improved, or repaired under this subsection—
 
 &emsp;(1) may not be leased for more than 10 years; and
 
@@ -40,13 +40,21 @@ Terminal Building Facilities.—Not more than $7,000,000 for each airport from a
 
 (f)
 
-Parking Lots, Fuel Farms, Utilities, Hangars, and Air Cargo Terminals.—Not more than a total of $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars and air cargo terminals of an area that is 50,000 square feet or less.
+Parking Lots, Fuel Farms, Utilities, Hangars, and Air Cargo Terminals.—
+
+&emsp;(1)
+
+Construction.—From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available to the sponsor of a current or former military airport the Secretary designates under this section to construct, improve, or repair airport surface parking lots, fuel farms, utilities, and hangars and air cargo terminals of an area that is 50,000 square feet or less.
+
+&emsp;(2)
+
+Reimbursement.—Upon approval of the Secretary, the sponsor of a current or former military airport the Secretary designates under this section may use an amount apportioned under section 47114, or made available under section 47115 or 47117(e)(1)(B), to the airport for reimbursement of costs incurred by the airport in fiscal years 2003 and 2004 for construction, improvement, or repair described in paragraph (1).
 
 (g)
 
 Designation of General Aviation Airport.—Notwithstanding any other provision of this section, one of the airports bearing a designation under subsection (a) may be a general aviation airport that was a former military installation closed or realigned under a section referred to in subsection (a)(1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1273; Pub. L. 103–305, title I, §116(b)–(d), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §124(a)–(c), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(83), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–181, title I, §130, Apr. 5, 2000, 114 Stat. 78; Pub. L. 108–176, title I, §153, Dec. 12, 2003, 117 Stat. 2507.)
 
 Historical and Revision Notes
 
@@ -110,6 +118,10 @@ Section 2905 of the Defense Base Closure and Realignment Act of 1990, referred t
 
 #### Amendments
 
+2003—Subsec. (e). Pub. L. 108–176, §153(1), substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for a fiscal year is available” in introductory provisions.
+
+Subsec. (f). Pub. L. 108–176, §153(2), (3), inserted par. (1) designation and heading, substituted “From amounts the Secretary distributes to an airport under section 47115, $10,000,000 for each of fiscal years 2004 and 2005, and $7,000,000 for each fiscal year thereafter, is available” for “Not more than a total of $7,000,000 for each airport from amounts the Secretary distributes under section 47115 of this title for fiscal years beginning after September 30, 1992, is available”, and added par. (2).
+
 2000—Subsec. (a). Pub. L. 106–181, §130(a)(1)(A), substituted “15” for “12” in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 106–181, §130(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “the Secretary finds that such grants would—
@@ -148,6 +160,10 @@ Subsec. (d). Pub. L. 103–305, §116(c), struck out at end “If an airport doe
 
 Subsec. (f). Pub. L. 103–305, §116(d), substituted “September 30, 1993–1996” for “September 30, 1993–1995”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -156,9 +172,9 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by section 5(83)(A) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47110, 47117 of this title.
+This section is referred to in sections 47110, 47117, 47119 of this title.
 

@@ -12,7 +12,7 @@ Definitions.—In this section:
 
 Special board.—(A) The term “special board” means a board that the Secretary of a military department convenes under any authority to consider whether to recommend a person for appointment, enlistment, reenlistment, assignment, promotion, retention, separation, retirement, or transfer to inactive status in a reserve component instead of referring the records of that person for consideration by a previously convened selection board which considered or should have considered that person.
 
-&emsp;(B) Such term includes a board for the correction of military records convened undersection 1552 of this title, if designated as a special board by the Secretary concerned.
+&emsp;(B) Such term includes a board for the correction of military records convened under section 1552 of this title, if designated as a special board by the Secretary concerned.
 
 &emsp;(C) Such term does not include a promotion special selection board convened under section 628 or 14502 of this title.
 
@@ -72,7 +72,7 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 Judicial Review.—(1) A person seeking to challenge an action or recommendation of a selection board, or an action taken by the Secretary of the military department concerned on the report of a selection board, is not entitled to relief in any judicial proceeding unless the action or recommendation has first been considered by a special board under this section or the Secretary concerned has denied the convening of such a board for such consideration.
 
-(2)(A) A court of the United States may review a determination by the Secretary of a military department not to convene a special board in the case of any person. In any such case, the court may set aside the Secretary's determination only if the court finds the determination to be—
+(2)(A) A court of the United States may review a determination by the Secretary of a military department not to convene a special board inthe case of any person. In any such case, the court may set aside the Secretary's determination only if the court finds the determination to be—
 
 &emsp;(i) arbitrary or capricious;
 
@@ -84,7 +84,7 @@ Judicial Review.—(1) A person seeking to challenge an action or recommendation
 
 (B) If a court sets aside a determination by the Secretary of a military department not to convene a special board, it shall remand the case to the Secretary concerned, who shall provide for consideration by a special board.
 
-(3) A court of the United States may review a recommendation of a special board or an actionof the Secretary of the military department concerned on the report of a special board. In any such case, a court may set aside the action only if the court finds that the recommendation or action was—
+(3) A court of the United States may review a recommendation of a special board or an action of the Secretary of the military department concerned on the report of a special board. In any such case, a court may set aside the action only if the court finds that the recommendation or action was—
 
 &emsp;(A) arbitrary or capricious;
 

@@ -29,7 +29,9 @@
 | :--- | ---: |
 | [41719\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041719%20-%20Air%20service%20termination%20notice.md) | Air service termination notice. |
 | [41720\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041720%20-%20Joint%20venture%20agreements.md) | Joint venture agreements. |
-| [41721\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md) | Reports by carriers on incidents involving animals during air transportation.<sup>1</sup> |
+| [41721\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md) | Reports by carriers on incidents involving animals during air transport. |
+| [41722\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041722%20-%20Delay%20reduction%20actions.md) | Delay reduction actions. |
+| [41723\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2041723%20-%20Notice%20concerning%20aircraft%20assembly.md) | Notice concerning aircraft assembly. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,6 +53,10 @@
 | [41742\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041742%20-%20Essential%20air%20service%20authorization.md) | Essential air service authorization. |
 | [41743\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041743%20-%20Airports%20not%20receiving%20sufficient%20service.md) | Airports not receiving sufficient service. |
 | [41744\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041744%20-%20Preservation%20of%20basic%20essential%20air%20service%20at%20single%20carrier%20dominated%20hub%20airports.md) | Preservation of basic essential air service at single carrier dominated hub airports. |
+| [41745\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041745%20-%20Community%20and%20regional%20choice%20programs.md) | Community and regional choice programs. |
+| [41746\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041746%20-%20Tracking%20service.md) | Tracking service. |
+| [41747\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041747%20-%20EAS%20local%20participation%20program.md) | EAS local participation program. |
+| [41748\.](Subchapter%20002%20%28II%29%20-%20Small%20Community%20Air%20Service/%C2%A7%2041748%20-%20Marketing%20program.md) | Marketing program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,6 +75,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–176, title IV, §§408(b), 410(b), 422(b), title VIII, §810(b), Dec. 12, 2003, 117 Stat. 2547, 2549, 2552, 2590, added items 41721 to 41723 and 41745 to 41748 and struck out former item 41721 “Reports by carriers on incidents involving animals during air transportation”.
 
 2000—Pub. L. 106–181, title II, §§203(b), 204(b), 210(b), 231(j)(2), title VII, §710(b), Apr. 5, 2000, 114 Stat. 93, 94, 102, 115, 160, added items 41715 to 41718, redesignated former items 41715 and 41716 as 41719 and 41720, respectively, and added items 41721, 41743, and 41744, subchapter III heading, and items 41761 to 41767.
 

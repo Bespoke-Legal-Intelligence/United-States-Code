@@ -36,7 +36,7 @@ As used in this chapter:
 
 #### (9) Handler
 
-&emsp;The term “handler” means any person engaged in the business of handling agricultural products, except such term shall not include final retailers of agricultural products that do not process agricultural products.
+&emsp;The term “handler” means any person engaged in the business of handling agriculturalproducts, except such term shall not include final retailers of agricultural products that do not process agricultural products.
 
 #### (10) Handling operation
 

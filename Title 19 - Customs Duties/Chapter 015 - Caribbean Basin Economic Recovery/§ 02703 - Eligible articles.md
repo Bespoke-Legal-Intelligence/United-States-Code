@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) entered under subheading 9802.00.80 of the HTS; or
 
-&emsp;&emsp;&emsp;&emsp;(II) entered under chapter 61 or 62 of the HTS, if, after such assembly, the articles would have qualified for entry under subheading 9802.00.80 of the HTS but for the fact that the articles were embroidered or subjected to stone-washing, enzyme-washing, acid washing,perma-pressing, oven-baking, bleaching, garment-dyeing, screen printing, or other similar processes.
+&emsp;&emsp;&emsp;&emsp;(II) entered under chapter 61 or 62 of the HTS, if, after such assembly, the articles would have qualified for entry under subheading 9802.00.80 of the HTS but for the fact that the articles were embroidered or subjected to stone-washing, enzyme-washing, acid washing, perma-pressing, oven-baking, bleaching, garment-dyeing, screen printing, or other similar processes.
 
 &emsp;&emsp;&nbsp;Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup>
 
@@ -82,7 +82,7 @@
 
 #### (ii) Other apparel articles assembled in one or more CBTPA beneficiary countries
 
-&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States). Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup> Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup>
+&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more CBTPA beneficiary countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States). Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup> Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled,if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.<sup>1</sup>
 
 #### (iii) Certain knit apparel articles
 
@@ -204,7 +204,7 @@
 
 #### (iii) Transshipment described
 
-&emsp;&emsp;&emsp;Transshipment within the meaning of this subparagraph has occurred when preferential treatment under subparagraph (B)has been claimed for a textile or apparel article on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this clause, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under subparagraph (B).
+&emsp;&emsp;&emsp;Transshipment within the meaning of this subparagraph has occurred when preferential treatment under subparagraph (B) has been claimed for a textile or apparel article on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this clause, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under subparagraph (B).
 
 #### (E) Bilateral emergency actions
 
@@ -232,7 +232,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S. Note 2(b) to subchapter II of chapter 98 of the HTS.
+&emsp;&emsp;&emsp;Clause (i) does not apply to any article accorded duty-free treatment under U.S.Note 2(b) to subchapter II of chapter 98 of the HTS.
 
 #### (B) Relationship to subsection (h) duty reductions
 
@@ -274,7 +274,7 @@
 
 &emsp;&emsp;The United States Commissioner of Customs shall conduct a study analyzing the extent to which each CBTPA beneficiary country—
 
-&emsp;&emsp;&emsp;(i) has cooperated fully with the United States, consistent with its domestic lawsand procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices, exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;
+&emsp;&emsp;&emsp;(i) has cooperated fully with the United States, consistent with its domestic laws and procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices, exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;
 
 &emsp;&emsp;&emsp;(ii) has taken appropriate measures, consistent with its domestic laws and procedures, against exporters and importers involved in instances of false declaration concerning fiber content, quantities, description, classification, or origin of textile and apparel goods; and
 
@@ -350,7 +350,7 @@
 
 &emsp;&emsp;&emsp;(i) September 30, 2008; or
 
-&emsp;&emsp;&emsp;(ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in 3317(b)(5) <sup>2</sup> ofthis title enters into force with respect to the United States and the CBTPA beneficiary country.
+&emsp;&emsp;&emsp;(ii) the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in 3317(b)(5) <sup>2</sup> of this title enters into force with respect to the United States and the CBTPA beneficiary country.
 
 #### (E) CBTPA
 
@@ -410,7 +410,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 (2) In any report by the International Trade Commission to the President under section 202(f) of the Trade Act of 1974 \[19 U.S.C. 2252(f)\] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-(3) For purposes of subsections <sup>3</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment providedby this chapter shall be treated as an increase in duty.
+(3) For purposes of subsections <sup>3</sup> section 203 of the Trade Act of 1974 \[19 U.S.C. 2253(a), (c)\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
 (4) No proclamation which provides solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
@@ -428,7 +428,7 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 &emsp;(B) the Secretary of Agriculture shall publish a notice of his determination not to recommend the imposition of emergency action and so advise the petitioner.
 
-(3) Within seven days after the President receives a recommendation from the Secretary of Agriculture to take emergency action pursuant to paragraph (2) of this subsection, he shall issue a proclamation withdrawing the duty-free treatment provided by this chapter or publish a notice of his determination not to take emergency action.
+(3) Within seven days after the President receives a recommendation from the Secretary of Agriculture to take emergency action pursuant to paragraph (2) of this subsection, he shall issuea proclamation withdrawing the duty-free treatment provided by this chapter or publish a notice of his determination not to take emergency action.
 
 (4) The emergency action provided by paragraph (3) of this subsection shall cease to apply—
 
@@ -706,7 +706,7 @@ Exception.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) produced in the United States, and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) owned by a corporation at least 50 percent of the total value of the outstanding sharesof stock of which were owned by a United States person (or persons) on or before January 1, 1986, and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) owned by a corporation at least 50 percent of the total value of the outstanding shares of stock of which were owned by a United States person (or persons) on or before January 1, 1986, and
 
 &emsp;&emsp;&emsp;“(ii) substantially all of the equipment and components of which were, on or before January 1, 1986—
 

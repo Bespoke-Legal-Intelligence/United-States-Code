@@ -16,13 +16,13 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (1) In general
 
-&emsp;A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3) bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
+&emsp;A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3)bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
 
 #### (2) Outstanding tax-exempt nonhospital bonds
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of applying paragraph (1) with respect to any issue, the outstandingtax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregate amount of tax-exempt bonds referred to in subparagraph (B)—
+&emsp;&emsp;For purposes of applying paragraph (1) with respect to any issue, the outstanding tax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregate amount of tax-exempt bonds referred to in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) which are allocated to such organization, and
 
@@ -208,7 +208,7 @@ Refundings.—The amendments made by this section shall not apply to any bond is
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,6 +18,70 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### Pilot Program for Flexible Funding of Cruiser Conversions and Overhauls
+
+Pub. L. 108–136, div. A, title I, §126, Nov. 24, 2003, 117 Stat. 1410, provided that:
+
+“(a)
+
+Establishment.—The Secretary of the Navy may carry out a pilot program of flexible funding of conversions and overhauls of cruisers of the Navy in accordance with this section.
+
+“(b)
+
+Authority.—Under the pilot program, the Secretary may, subject to subsection (d), transfer amounts described in subsection (c) to the appropriation for the Navy for procurement for shipbuilding and conversion for any fiscal year to continue to provide funds for any conversion or overhaul of a cruiser of the Navy for which funds were initially provided from the appropriation to which transferred.
+
+“(c)
+
+Funds Available for Transfer.—The amounts available for transfer under this section are amounts appropriated to the Navy for any fiscal year after fiscal year 2003 and before fiscal year 2013 for the following purposes:
+
+&emsp;“(1) For procurement, as follows:
+
+&emsp;&emsp;“(A) For shipbuilding and conversion.
+
+&emsp;&emsp;“(B) For weapons procurement.
+
+&emsp;&emsp;“(C) For other procurement.
+
+&emsp;“(2) For operation and maintenance.
+
+“(d)
+
+Limitations.—(1) A transfer may be made with respect to a cruiser under this section only to meet either (or both) of the following requirements:
+
+&emsp;“(A) An increase in the size of the workload for conversion or overhaul to meet existing requirements for the cruiser.
+
+&emsp;“(B) A new conversion or overhaul requirement resulting from a revision of the original baseline conversion or overhaul program for the cruiser.
+
+“(2) A transfer may not be made under this section before the date that is 30 days after the date on which the Secretary of the Navy transmits to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a written notification of the intended transfer. The notification shall include the following matters:
+
+&emsp;“(A) The purpose of the transfer.
+
+&emsp;“(B) The amounts to be transferred.
+
+&emsp;“(C) Each account from which the funds are to be transferred.
+
+&emsp;“(D) Each program, project, or activity from which the funds are to be transferred.
+
+&emsp;“(E) Each account to which the funds are to be transferred.
+
+&emsp;“(F) A discussion of the implications of the transfer for the total cost of the cruiser conversion or overhaul program for which the transfer is to be made.
+
+“(e)
+
+Merger of Funds.—Amounts transferred to an appropriation with respect to the conversion or overhaul of a cruiser under this section shall be credited to and merged with other funds in the appropriation to which transferred and shall be available for the conversion or overhaul of such cruiser for the same period as the appropriation to which transferred.
+
+“(f)
+
+Relationship to Other Transfer Authority.—The authority to transfer funds under this section is in addition to any other authority provided by law to transfer appropriated funds and is not subject to any restriction, limitation, or procedure that is applicable to the exercise of any such other authority.
+
+“(g)
+
+Final Report.—Not later than October 1, 2011, the Secretary of the Navy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report containing the Secretary's evaluation of the efficacy of the authority provided under this section.
+
+“(h)
+
+Termination of Program.—No transfer may be made under this section after September 30, 2012.”
+
 #### Vessel Scrapping Pilot Program
 
 Pub. L. 105–262, title VIII, §8124, Oct. 17, 1998, 112 Stat. 2333, provided that: “The Secretary of the Navy may carry out a competitively awarded vessel scrapping pilot program during fiscal years 1999 and 2000 using funds made available in this Act under the heading ‘Operation and Maintenance, Navy’ \[112 Stat. 2282\]: <i>Provided</i>, That the Secretary of the Navy shall define the program scope sufficient to gather data on the cost of scrapping Government vessels and to demonstrate cost-effective technologies and techniques to scrap such vessels in a manner that is protective of worker safety and health and the environment.”
@@ -68,7 +132,7 @@ Report on Defense Contracts.—The Secretary of Defense shall prepare a report o
 
 &emsp;“(1) the amount of Department of Defense contracts that were awarded to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d) for the most recent year for which data is available; and
 
-&emsp;“(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified inthe Secretary of Transportation's report under subsection (d).
+&emsp;“(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d).
 
 “(e)
 
@@ -194,7 +258,7 @@ Charter of Vessels Constructed.—(1) Except when the Secretary determines that 
 
 “(3) If the Secretary determines that a vessel previously chartered under the program no longer has commercial utility, the Secretary may transfer the vessel to the National Defense Reserve Fleet.
 
-“(4) A contract for the charter of a vessel under paragraph (1) shall include a provision that the charter may be terminated for national security reasons without cost to the United States.
+“(4) A contract for the charter of a vessel under paragraph (1) shall include a provision that the charter maybe terminated for national security reasons without cost to the United States.
 
 “(d)
 
@@ -262,7 +326,7 @@ Pub. L. 97–114, title VII, §791, Dec. 29, 1981, 95 Stat. 1593, provided that:
 
 &emsp;“(2) In order to conduct the numerous and growing missions of the modern American Navy, a goal of a naval inventory of approximately six hundred active ships of various types by the end of the century at the latest, is highly desirable, the exact figure to be flexible to accommodate new designs as the specific details of our naval missions evolve to meet various contingencies.
 
-&emsp;“(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as a note under this section\], in order that the Congress may more properly appropriate the funds necessary to reach a six hundred-ship goal at least by the end of the present century.”
+&emsp;“(3) The Secretary of Defense comply with section 808 of Public Law 94–106, the Department of Defense Appropriation Authorization Act of 1976 \[set out as a note under this section\], in order that the Congress may more properly appropriate the funds necessaryto reach a six hundred-ship goal at least by the end of the present century.”
 
 #### Construction of Advanced, Versatile, Survivable, and Cost-Effective Combatant Ships; Plans and Programs; Presidential Conclusions and Recommendations To Accompany Ship Authorization Requests
 

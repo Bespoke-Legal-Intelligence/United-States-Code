@@ -352,7 +352,7 @@ If data that are submitted by a registrant under subsection (d), (e), (f), or (g
 
 &emsp;(B) In the case of a pesticide that is registered for a minor agricultural use, the Administrator may reduce or waive the payment of the fee imposed under this paragraph if the Administrator determines that the fee would significantly reduce the availability of the pesticide for the use.
 
-&emsp;(C)(i) The amount of each fee prescribed under subparagraph (A) shall be adjusted by the Administrator to a level that will result in the collection under this paragraph of, to the extent practicable, an aggregate amount of $17,000,000 fiscal year 2002.<sup>3</sup>
+&emsp;(C)(i) The amount of each fee prescribed under subparagraph (A) shall be adjusted by the Administrator to a level that will result in the collection under this paragraph of, to the extent practicable, an aggregate amount of $21,500,000 for fiscal year 2003.
 
 &emsp;(ii) in each of the fiscal years 1998, 1999, and 2000, the Administrator is authorized to collect up to an additional $2,000,000 in a manner consistent with subsection (k)(5) of this section and the recommendations of the Inspector General of the Environmental Protection Agency. The total fees that may be collected under this clause shall not exceed $6,000,000.
 
@@ -374,15 +374,15 @@ If data that are submitted by a registrant under subsection (d), (e), (f), or (g
 
 &emsp;&emsp;(II) during the 3-year period prior to the most recent maintenance fee billing cycle, had an average annual gross revenue from chemicals that did not exceed $40,000,000.
 
-&emsp;(F) The Administrator shall exempt any public health pesticide from the payment of the fee prescribed under paragraph (3) if, in consultation with the Secretary of Health and Humans <sup>4</sup> Services, the Administrator determines, based on information supplied by the registrant, that the economic return to the registrant from sales of the pesticide does not support the registration or reregistration of the pesticide.
+&emsp;(F) The Administrator shall exempt any public health pesticide from the payment of the fee prescribed under paragraph (3) if, in consultation with the Secretary of Health and Humans <sup>3</sup> Services, the Administrator determines, based on information supplied by the registrant, that the economic return to the registrant from sales of the pesticide does not support the registration or reregistration of the pesticide.
 
 &emsp;(G) If any fee prescribed by this paragraph with respect to the registration of a pesticide is not paid by a registrant by the time prescribed, the Administrator, by order and without hearing, may cancel the registration.
 
-&emsp;(H) The authority provided under this paragraph shall terminate on September 30, 2002.
+&emsp;(H) The authority provided under this paragraph shall terminate on September 30, 2003.
 
 #### (6) Other fees
 
-&emsp;During the period beginning on October 25, 1988, and ending on September 30, 2002, the Administrator may not levy any other fees for the registration of a pesticide under this subchapter except as provided in paragraphs (1) through (5).
+&emsp;During the period beginning on October 25, 1988, and ending on September 30, 2003, the Administrator may not levy any other fees for the registration of a pesticide under this subchapter except as provided in paragraphs (1) through (5).
 
 #### (7) Apportionment
 
@@ -430,7 +430,7 @@ The requirements of subsections (d), (e), (f), and (i) of this section (other th
 
 #### (3) Expedited processing of similar applications
 
-&emsp;(A) The Administrator shall use for each of the fiscal years 1997 through 2002, not more than 1/10 of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources to assure the expedited processing and review of any application that—
+&emsp;(A) The Administrator shall use for each of the fiscal years 1997 through 2003, not more than 1/10 of the maintenance fees collected in such fiscal year to obtain sufficient personnel and resources to assure the expedited processing and review of any application that—
 
 &emsp;&emsp;(i) proposes the initial or amended registration of an end-use pesticide that, if registered as proposed, would be identical or substantially similar in composition and labeling to a currently-registered pesticide identified in the application, or that would differ in composition and labeling from any such currently-registered pesticide only in ways that would not significantly increase the risk of unreasonable adverse effects on the environment;
 
@@ -500,7 +500,7 @@ Any failure of the Administrator to take any action required by this section sha
 
 &emsp;There is authorized to be appropriated to carry out the purposes of this section $12,000,000 for fiscal year 1997, and such sums as may be necessary for succeeding fiscal years.
 
-(June 25, 1947, ch. 125, §4, formerly §3A, as added and renumbered §4, Pub. L. 100–532, title I, §102(a), title VIII, §801(q)(2)(A), Oct. 25, 1988, 102 Stat. 2655, 2683; amended Pub. L. 101–624, title XIV, §1493, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(4), (e), (f), Dec. 13, 1991, 105 Stat. 1895–1897; Pub. L. 104–170, title I, §103, title II, §§210(c)(2), (f)(1), 232, 237, title V, §501, Aug. 3, 1996, 110 Stat. 1490, 1496, 1498, 1508, 1509, 1536; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 686.)
+(June 25, 1947, ch. 125, §4, formerly §3A, as added and renumbered §4, Pub. L. 100–532, title I, §102(a), title VIII, §801(q)(2)(A), Oct. 25, 1988, 102 Stat. 2655, 2683; amended Pub. L. 101–624, title XIV, §1493, Nov. 28, 1990, 104 Stat. 3628; Pub. L. 102–237, title X, §1006(a)(4), (e), (f), Dec. 13, 1991, 105 Stat. 1895–1897; Pub. L. 104–170, title I, §103, title II, §§210(c)(2), (f)(1), 232, 237, title V, §501, Aug. 3, 1996, 110 Stat. 1490, 1496, 1498, 1508, 1509, 1536; Pub. L. 107–73, title III, \[(1)–(4)\], Nov. 26, 2001, 115 Stat. 686; Pub. L. 108–7, div. K, title III, \[(1)–(4)\], Feb. 20, 2003, 117 Stat. 513.)
 
 #### References in Text
 
@@ -520,15 +520,25 @@ Another prior section 4 of act June 25, 1947, was classified to section 135b of 
 
 #### Amendments
 
-2001—Pub. L. 107–73, which directed the amendment of section 136a–1 of title 7, U.S.C., was executed by making the amendments to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress. See below.
+2003—Pub. L. 108–7, which directed the amendment of “Section 136a–1 of title 7, U.S.C.”, was executed by making the amendments to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress. See below.
 
-Subsec. (i)(5)(C)(i). Pub. L. 107–73 substituted “$17,000,000” for “$14,000,000” and “fiscal year 2002” for “each fiscal year”.
+Subsec. (i)(5)(C)(i). Pub. L. 108–7, \[(1)\], substituted “$21,500,000 for fiscal year 2003” for “$17,000,000 fiscal year 2002”.
 
-Subsec. (i)(5)(H). Pub. L. 107–73 substituted “2002” for “2001”.
+Subsec. (i)(5)(H). Pub. L. 108–7, \[(2)\], substituted “2003” for “2002”.
 
-Subsec. (i)(6). Pub. L. 107–73 substituted “2002” for “2001”.
+Subsec. (i)(6). Pub. L. 108–7, \[(3)\], substituted “2003” for “2002”.
 
-Subsec. (k)(3)(A). Pub. L. 107–73 substituted “2002” for “2001” and “1/10” for “1/7” in introductory provisions.
+Subsec. (k)(3)(A). Pub. L. 108–7, \[(4)\], substituted “2003” for “2002”.
+
+2001—Pub. L. 107–73, which directed the amendment of “Section 136a–1 of title 7, U.S.C.”, was executed by making the amendments to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress. See below.
+
+Subsec. (i)(5)(C)(i). Pub. L. 107–73, \[(1)\], substituted “$17,000,000” for “$14,000,000” and “fiscal year 2002” for “each fiscal year”.
+
+Subsec. (i)(5)(H). Pub. L. 107–73, \[(2)\], substituted “2002” for “2001”.
+
+Subsec. (i)(6). Pub. L. 107–73, \[(3)\], substituted “2002” for “2001”.
+
+Subsec. (k)(3)(A). Pub. L. 107–73, \[(4)\], substituted “2002” for “2001” and “1/10” for “1/7” in introductory provisions.
 
 1996—Pub. L. 104–170, §501, which directed amendment of section 4 without specifying the name of the Act being amended, was executed to this section, which is section 4 of the Federal Insecticide, Fungicide, and Rodenticide Act, to reflect the probable intent of Congress.
 
@@ -538,11 +548,11 @@ Subsec. (d)(6). Pub. L. 104–170, §210(f)(1)(A), inserted at end provisions de
 
 Subsec. (e)(2)(B). Pub. L. 104–170, §210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-Subsec. (e)(3)(A). Pub. L. 104–170, §210(f)(1)(B), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+Subsec. (e)(3)(A). Pub. L. 104–170, §210(f)(1)(B), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is notmeeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
 Subsec. (f)(2)(B). Pub. L. 104–170, §210(c)(2), inserted at end provisions authorizing extension of deadline for production of residue chemistry data in case of minor use and setting forth conditions to be met for such extension in cls. (i) to (iv).
 
-Subsec. (f)(3). Pub. L. 104–170, §210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation oftemporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
+Subsec. (f)(3). Pub. L. 104–170, §210(f)(1)(A), inserted at end provisions delaying upon written request action with regard to unsupported minor uses, authorizing refusal of request where there are health or environmental concerns, authorizing publication of notice in Federal Register and monitoring of development of data, setting forth procedures where registrant is not meeting or has not met schedule for production of data, and authorizing denial, modification, or revocation of temporary extension where use may cause adverse effect on environment and requiring notice of such revocation to registrant.
 
 Subsec. (g)(2)(E). Pub. L. 104–170, §103, added subpar. (E).
 
@@ -596,6 +606,10 @@ Subsec. (k)(3)(A). Pub. L. 102–237, §1006(f), substituted “for each of the 
 
 Section effective on expiration of 60 days after Oct. 25, 1988, see section 901 of Pub. L. 100–532, set out as an Effective Date of 1988 Amendment note under section 136 of this title.
 
+#### Adjustment of Maximum Annual Fee Payable by Pesticide Registrants
+
+Pub. L. 108–11, title II, Apr. 16, 2003, 117 Stat. 603, provided that: “Within 30 days of enactment of this Act \[Apr. 16, 2003\], the Administrator of the Environmental Protection Agency shall adjust each ‘maximum annual fee payable’ pursuant to 7 U.S.C. 136a–1(i)(5)(D) and (E) in a manner such that maintenance fee collections made to reach the level authorized in division K of Public Law 108–7 \[see Tables for classification\] shall be established in the same proportion as those maintenance fee collections authorized in Public Law 107–73 \[see Tables for classification\].”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 136a, 136d, 136j of this title; title 21 section 346a.
@@ -604,7 +618,5 @@ This section is referred to in sections 136a, 136d, 136j of this title; title 21
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “Human”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “Human”.</i>
 

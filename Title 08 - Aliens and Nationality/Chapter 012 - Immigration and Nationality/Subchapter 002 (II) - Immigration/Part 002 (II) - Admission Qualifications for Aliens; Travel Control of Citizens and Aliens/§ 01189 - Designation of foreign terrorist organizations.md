@@ -138,7 +138,7 @@ Subsec. (a)(1)(C). Pub. L. 107–56, §411(c)(2), inserted “or terrorism” af
 
 Subsec. (a)(2)(A). Pub. L. 107–56, §411(c)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
 
-&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore,Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
+&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
 
 &emsp;“(ii) seven days after such notification, publish the designation in the Federal Register.”
 
@@ -182,5 +182,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1182 of this title; title 6 section 236; title 18 section 2339B.
+This section is referred to in section 1182 of this title; title 6 section 236; title 18 section 2339B; title 26 section 501.
 

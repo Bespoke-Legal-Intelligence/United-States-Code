@@ -36,6 +36,40 @@ Definitions.—In this section:
 
 1992—Pub. L. 102–484 renumbered section 2505 of this title as this section.
 
+#### Review of Offset Arrangements by Secretary of Defense
+
+Pub. L. 108–87, title VIII, §8138, Sept. 30, 2003, 117 Stat. 1106, provided that:
+
+“(a) The Secretary of Defense—
+
+&emsp;“(1) shall review—
+
+&emsp;&emsp;“(A) contractual offset arrangements to which the policy established under section 2532 of title 10, United States Code, applies that are in effect on the date of the enactment of this Act \[Sept. 30, 2003\];
+
+&emsp;&emsp;“(B) memoranda of understanding and related agreements to which the limitation in section 2531(c) of such title applies that have been entered into with a country with respect to which such contractual offset arrangements have been entered into and are in effect on such date; and
+
+&emsp;&emsp;“(C) waivers granted with respect to a foreign country under section 2534(d)(3) of title 10, United States Code, that are in effect on such date; and
+
+&emsp;“(2) shall determine the effects of the use of such arrangements, memoranda of understanding, agreements, and waivers on the national technology and industrial base.
+
+“(b) The Secretary shall submit a report on the results of the review under subsection (a) to Congress not later than March 1, 2005. The report shall include a discussion of each of the following:
+
+&emsp;“(1) The effects of the contractual offset arrangements on specific subsectors of the industrial base of the United States and what actions have been taken to prevent or ameliorate any serious adverse effects on such subsectors.
+
+&emsp;“(2) The extent, if any, to which the contractual offset arrangements and memoranda of understanding and related agreements have provided for technology transfer that would significantly and adversely affect the national technology and industrial base.
+
+&emsp;“(3) The extent to which the use of such contractual offset arrangements is consistent with—
+
+&emsp;&emsp;“(A) the limitation in section 2531(c) of title 10, United States Code, that prohibits implementation of a memorandum of understanding and related agreements if the President, taking into consideration the results of the interagency review, determines that such memorandum of understanding or a related agreement has or is likely to have a significant adverse effect on United States industry that outweighs the benefits of entering into or implementing such memorandum or agreement; and
+
+&emsp;&emsp;“(B) the requirements under section 2534(d) of such title that—
+
+&emsp;&emsp;&emsp;“(i) a waiver granted under such section not impede cooperative programs entered into between the Department of Defense and a foreign country and not impede the reciprocal procurement of defense items that is entered into in accordance with section 2531 of such title; and
+
+&emsp;&emsp;&emsp;“(ii) the country with respect to which the waiver is granted not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
+
+“(c) The Secretary shall submit to the President any recommendations regarding the use or administration of contractual offset arrangements and memoranda of understanding and related agreements referred to in subsection (a) that the Secretary considers an appropriate response to the findings resulting from the Secretary's review.”
+
 #### Contractual Offset Arrangements; Congressional Statement of Findings
 
 Section 825(a) of Pub. L. 100–456 provided that: “Congress makes the following findings:
@@ -90,7 +124,7 @@ Section 825(d) of Pub. L. 100–456 provided that:
 
 &emsp;“(G) A preliminary discussion of the actions referred to in paragraph (2).
 
-“(2) Not later than March 15, 1990, the President shall transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when that country or firm requires an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country. The report shall include a discussion of the following possible actions:
+“(2) Not later than March 15, 1990, the President shall transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when thatcountry or firm requires an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country. The report shall include a discussion of the following possible actions:
 
 &emsp;“(A) A requirement for an offset in favor of the United States or United States firms in any case in which the Department of Defense or any other department or agency of the United States purchases goods from such foreign country or a firm of such country.
 

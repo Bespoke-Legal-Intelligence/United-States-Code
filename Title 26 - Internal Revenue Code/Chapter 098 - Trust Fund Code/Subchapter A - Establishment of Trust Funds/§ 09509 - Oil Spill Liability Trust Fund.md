@@ -54,7 +54,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (B) $30,000,000 minimum balance
 
-&emsp;&emsp;Except in the case of payments of removal costs, a payment may be made from suchTrust Fund only if the amount in such Trust Fund after such payment will not be less than $30,000,000.
+&emsp;&emsp;Except in the case of payments of removal costs, a payment may be made from such Trust Fund only if the amount in such Trust Fund after such payment will not be less than $30,000,000.
 
 #### (d) Authority to borrow
 
@@ -100,7 +100,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (f) References to Oil Pollution Act of 1990
 
-Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
+Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to ina subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
 
 (Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573.)
 
@@ -134,7 +134,7 @@ The date of the enactment of this subsection, referred to in subsec. (f), probab
 
 “(5) amounts credited to such trust fund under section 311(s) of the Federal Water Pollution Control Act.”
 
-Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting “Expenditure purposes” for“General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
+Subsec. (c)(1). Pub. L. 101–380, §9001(b), amended par. (1) generally, substituting “Expenditure purposes” for “General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
 
 Subsec. (c)(2)(A). Pub. L. 101–380, §9001(c), substituted “$1,000,000,000” for “$500,000,000” in heading and in cl. (i), and substituted “$500,000,000” for “$250,000,000” in cl. (ii).
 

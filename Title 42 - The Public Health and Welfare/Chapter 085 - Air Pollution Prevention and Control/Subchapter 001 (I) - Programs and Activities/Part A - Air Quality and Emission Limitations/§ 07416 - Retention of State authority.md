@@ -26,5 +26,5 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7412, 7429, 7627, 7671m, 7671q of this title.
+This section is referred to in sections 7412, 7429, 7627, 7671m, 7671q of this title; title 49 section 47140.
 

@@ -12,7 +12,7 @@
 
 (4) No operator of any official plant shall allow any egg products to be moved from such plant if they are adulterated or misbranded and capable of use as human food.
 
-(c) No egg handler shall possess any eggs after the eggs have been packed into a container that is destined for the ultimate consumer unless theeggs are stored and transported under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit, as prescribed by rules and regulations promulgated by the Secretary.
+(c) No egg handler shall possess any eggs after the eggs have been packed into a container that is destined for the ultimate consumer unless the eggs are stored and transported under refrigeration at an ambient temperature of no greater than 45 degrees Fahrenheit, as prescribed by rules and regulations promulgated by the Secretary.
 
 (d) No person shall violate any provision of section 1039, 1040 or 1046 of this title.
 

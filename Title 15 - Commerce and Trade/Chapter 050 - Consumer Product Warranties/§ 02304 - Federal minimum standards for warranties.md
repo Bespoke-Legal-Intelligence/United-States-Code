@@ -18,7 +18,7 @@ In order for a warrantor warranting a consumer product by means of a written war
 
 (2) Notwithstanding paragraph (1), a warrantor may require, as a condition to replacement of, or refund for, any consumer product under subsection (a) of this section, that such consumer product shall be made available to the warrantor free and clear of liens and other encumbrances, except as otherwise provided by rule or order of the Commission in cases in which such a requirement would not be practicable.
 
-(3) The Commission may, by rule define in detail the duties set forth in subsection (a) of this section and the applicability of such duties to warrantors of different categories of consumerproducts with “full (statement of duration)” warranties.
+(3) The Commission may, by rule define in detail the duties set forth in subsection (a) of this section and the applicability of such duties to warrantors of different categories of consumer products with “full (statement of duration)” warranties.
 
 (4) The duties under subsection (a) of this section extend from the warrantor to each person who is a consumer with respect to the consumer product.
 

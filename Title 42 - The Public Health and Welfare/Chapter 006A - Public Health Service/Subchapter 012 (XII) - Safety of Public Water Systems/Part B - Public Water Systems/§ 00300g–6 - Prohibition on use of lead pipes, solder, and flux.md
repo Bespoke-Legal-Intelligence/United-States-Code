@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each owner or operator of a public water system shall identify and provide notice topersons that may be affected by lead contamination of their drinking water where such contamination results from either or both of the following:
+&emsp;&emsp;Each owner or operator of a public water system shall identify and provide notice to persons that may be affected by lead contamination of their drinking water where such contamination results from either or both of the following:
 
 &emsp;&emsp;&emsp;(i) The lead content in the construction materials of the public water distribution system.
 
@@ -58,7 +58,7 @@
 
 #### (1) Enforcement of prohibition
 
-&emsp;The requirements of subsection (a)(1) of this section shall be enforced in all States effective 24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
+&emsp;The requirements of subsection (a)(1) of this section shall be enforced in all States effective24 months after June 19, 1986. States shall enforce such requirements through State or local plumbing codes, or such other means of enforcement as the State may determine to be appropriate.
 
 #### (2) Enforcement of public notice requirements
 

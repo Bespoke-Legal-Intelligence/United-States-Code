@@ -18,19 +18,13 @@ Objectives.—The objectives for authorizing participation in a program under su
 
 &emsp;(3) To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.
 
-(d)
+(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, §1041(a)(7), Dec. 2, 2002, 116 Stat. 2645.)
 
-Biennial Report.—(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for achieving the objectives set out under subsection (c). The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to attain those objectives.
+#### Amendments
 
-(2) A biennial report under this subsection may be combined with the biennial report under section 1798(d) of this title into a single report for submission to Congress.
+2002—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:
 
-(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634.)
+“(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for achieving the objectives set out under subsection (c). The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to attain those objectives.
 
-#### First Biennial Reports
-
-First biennial report under subsec. (d) of this section to be submitted not later than Mar. 31, 2002, and to cover fiscal years 2000 and 2001, see section 584(b) of Pub. L. 106–65, set out as a note under section 1798 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1798 of this title.
+“(2) A biennial report under this subsection may be combined with the biennial report under section 1798(d) of this title into a single report for submission to Congress.”
 

@@ -16,11 +16,11 @@
 
 &emsp;(7) to investigate postal offenses and civil matters relating to the Postal Service;
 
-&emsp;(8) to offer and pay rewards for information and services in connection with violation of the postal laws, and, unless a different disposal is expressly prescribed, to pay one-half of all penalties and forfeitures imposed for violations of law affecting the Postal Service, its revenues, or property, to the person informing for the same, and to pay the other one-half into the Postal Service Fund; and
+&emsp;(8) to offer and pay rewards for information and services in connection with violation ofthe postal laws, and, unless a different disposal is expressly prescribed, to pay one-half of all penalties and forfeitures imposed for violations of law affecting the Postal Service, its revenues, or property, to the person informing for the same, and to pay the other one-half into the Postal Service Fund; and
 
 &emsp;(9) to authorize the issuance of a substitute check for a lost, stolen, or destroyed check of the Postal Service.
 
-(b)(1) The Postal Service, prior to making a determination under subsection (a)(3) of this section as to the necessity for the closing or consolidation of any post office, shall provide adequate notice of its intention to close or consolidate such post office at least 60 days prior tothe proposed date of such closing or consolidation to persons served by such post office to ensure that such persons will have an opportunity to present their views.
+(b)(1) The Postal Service, prior to making a determination under subsection (a)(3) of this section as to the necessity for the closing or consolidation of any post office, shall provide adequate notice of its intention to close or consolidate such post office at least 60 days prior to the proposed date of such closing or consolidation to persons served by such post office to ensure that such persons will have an opportunity to present their views.
 
 (2) The Postal Service, in making a determination whether or not to close or consolidate a post office—
 

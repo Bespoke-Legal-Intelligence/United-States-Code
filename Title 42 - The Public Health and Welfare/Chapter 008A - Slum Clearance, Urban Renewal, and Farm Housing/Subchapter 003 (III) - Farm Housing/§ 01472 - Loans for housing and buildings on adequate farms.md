@@ -48,7 +48,7 @@ The instruments under which the loan is made and the security given shall—
 
 (B) The Secretary may not accept an offer to prepay, or request refinancing in accordance with subsection (b)(3) of this section of, any initial loan made or insured under section 1485 of this title pursuant to a contract entered into on or after December 15, 1989.
 
-(2) If any loan which was made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, is prepaid or refinanced on or after October 8, 1980, and tenants of the housing and related facilities financed with such loan are displaceddue to a change in the use of the housing, or to an increase in rental or other charges, as a result of such prepayment or refinancing, the Secretary shall provide such tenants a priority for relocation in alternative housing assisted pursuant to this subchapter.
+(2) If any loan which was made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, is prepaid or refinanced on or after October 8, 1980, and tenants of the housing and related facilities financed with such loan are displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of such prepayment or refinancing, the Secretary shall provide such tenants a priority for relocation in alternative housing assisted pursuant to this subchapter.
 
 (3)
 
@@ -124,7 +124,7 @@ Financing of sale.—To facilitate the sale described in subparagraph (A), the S
 
 &emsp;(iii) to the extent provided in appropriation Acts, transfer any rental assistance payments that are received under section 1490a(a)(2)(A) of this title or under section 1437f of this title, or any assistance payments received under section 1490a(a)(5) of this title, with respect to the housing and related facilities involved; and
 
-&emsp;(iv) to the extent provided in appropriation Acts, provide a loan under section 1485(c)(3) of this title to the nonprofit organization or public agency whose offer to purchase is accepted under this paragraph to enable the organization or agency to purchase the housing and related facilities involved.
+&emsp;(iv) to the extent provided in appropriation Acts, provide a loan under section 1485(c)(3) ofthis title to the nonprofit organization or public agency whose offer to purchase is accepted under this paragraph to enable the organization or agency to purchase the housing and related facilities involved.
 
 (D)
 
@@ -156,7 +156,7 @@ Exception.—This paragraph shall not apply to any offer to prepay, or any reque
 
 &emsp;&emsp;(I) the borrower (and any successor in interest thereof) are obligated to ensure that tenants of the housing and related facilities financed with the loan will not be displaced due to a change in the use of the housing, or to an increase in rental or other charges, as a result of the prepayment or refinancing; or
 
-&emsp;&emsp;(II) there is an adequate supply of safe, decent, and affordable rental housing withinthe market area of the housing and related facilities and sufficient actions have been taken to ensure that the rental housing will be made available to each tenant upon displacement.
+&emsp;&emsp;(II) there is an adequate supply of safe, decent, and affordable rental housing within the market area of the housing and related facilities and sufficient actions have been taken to ensure that the rental housing will be made available to each tenant upon displacement.
 
 (H)
 
@@ -194,7 +194,7 @@ Nonprofit organization.—The term “nonprofit organization” means any privat
 
 (J)
 
-Regulations.—Notwithstanding section 1490n of this title, the Secretary shall issue final regulations to carry out this paragraph not later than 60 days after February 5, 1988. The Secretary shall provide for the regulations to take effect not later than 45 days after the date on which the regulations are issued.
+Regulations.—Notwithstanding section 1490n of this title, the Secretary shall issue finalregulations to carry out this paragraph not later than 60 days after February 5, 1988. The Secretary shall provide for the regulations to take effect not later than 45 days after the date on which the regulations are issued.
 
 #### (d) Dwelling units available to very low-income families or persons
 
@@ -444,7 +444,7 @@ Subsec. (e)(3). Pub. L. 100–242, §314, added par. (3).
 
 Subsec. (d)(2). Pub. L. 98–479 substituted “percent of the funds allocated to each State under this section shall be available only for very low-income families or persons” for “per centum of the dwelling units in each State financed under this section shall be available only for occupancy by very low-income families or persons”.
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in the case of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made orinsured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
+1983—Subsec. (a)(1). Pub. L. 98–181, §503(d)(1), (2), designated existing provisions as par. (1) and substituted “The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability. At the borrower's option, the borrower may prepay to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title” for “in the case of applicants described in clauses (1) and (2) of section 1471(a) of this title, at a rate not to exceed 5 per centum per annum on the unpaid balance of principal, and, in the case of applicants described in clause (3) of section 1471(a) of this title and applicants under sections 1473 and 1474 of this title, at a rate not to exceed 4 per centum per annum on such unpaid balance. Loans made or insured under this subchapter shall be conditioned on the borrower paying such fees and other charges as the Secretary may require and on the borrower prepaying to the Secretary as escrow agent, on terms and conditions prescribed by him, such taxes, insurance, and other expenses as the Secretary may require in accordance with section 1471(e) of this title. The Secretary may accept the personal liability of any person with adequate repayment ability who will cosign the applicant's note to compensate for any deficiency in the applicant's repayment ability”.
 
 Subsec. (a)(2). Pub. L. 98–181, §503(d)(3), added par. (2).
 
@@ -538,7 +538,7 @@ Section 304 of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §10
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: “The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub.L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: “The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988.”
 
 Pub. L. 99–500, §101(a) \[title VI, §634\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §634\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: “Notwithstanding any other provision of law, including section 502(c)(2) of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) \[subsec. (c)(2) of this section\], none of the funds appropriated under this or any other Act shall be used prior to June 30, 1987 to accept prepayment of any loan made under section 515 of the Housing Act of 1949 \[section 1485 of this title\], unless such loan was made at least twenty years prior to the date of prepayment or, for loans made before December 21, 1979, the Secretary makes a determination that a supply of adequate, comparable housing is available in the community, or that prepayment of such loans will not result in a substantial increase in rents to tenants in residence upon date of prepayment or displacement of such tenants.”
 

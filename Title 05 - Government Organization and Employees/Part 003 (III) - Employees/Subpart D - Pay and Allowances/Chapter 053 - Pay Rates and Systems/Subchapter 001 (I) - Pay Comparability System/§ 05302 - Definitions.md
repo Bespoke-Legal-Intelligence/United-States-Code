@@ -64,5 +64,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5304 of this title; title 2 section 906; title 18 section 207.
+This section is referred to in sections 5304, 5402, 9903 of this title; title 2 section 906; title 18 section 207.
 

@@ -22,7 +22,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 &emsp;&emsp;(B) require an applicant to prepare a proposal that demonstrates adequate staffing, qualifications, prior experience, and a plan for participation; and
 
-&emsp;&emsp;(C) permit an applicant to serve as the administrator of assistance made available under section 4143(d) or (e) of this title, based on the applicant's suitability and interest.
+&emsp;&emsp;(C) permit an applicant to serve as the administrator of assistance made available under section 4143(d) or (e) of this title,based on the applicant's suitability and interest.
 
 #### (4) Geographic coverage
 
@@ -38,7 +38,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (c) Conflicts of interest
 
-Eligible intermediaries selected under subsection (b) of this section to disburse assistance under section 4143 of this title shall certify thatthey will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+Eligible intermediaries selected under subsection (b) of this section to disburse assistance under section 4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
 
 &emsp;(1) establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
 

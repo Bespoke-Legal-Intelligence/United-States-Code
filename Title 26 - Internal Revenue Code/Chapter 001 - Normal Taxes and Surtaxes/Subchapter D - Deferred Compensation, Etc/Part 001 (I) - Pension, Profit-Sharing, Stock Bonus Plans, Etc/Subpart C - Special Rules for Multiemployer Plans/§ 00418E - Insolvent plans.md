@@ -100,7 +100,7 @@ For purposes of this section, for a plan year—
 
 #### (1) Permissive application
 
-&emsp;If the plan sponsor of an insolvent plan for which the resource benefit level is above thelevel of basic benefits anticipates that, for any month in an insolvency year, the plan will not have funds sufficient to pay basic benefits, the plan sponsor may apply for financial assistance from the Pension Benefit Guaranty Corporation under section 4261 of the Employee Retirement Income Security Act of 1974.
+&emsp;If the plan sponsor of an insolvent plan for which the resource benefit level is above the level of basic benefits anticipates that, for any month in an insolvency year, the plan will not have funds sufficient to pay basic benefits, the plan sponsor may apply for financial assistance from the Pension Benefit Guaranty Corporation under section 4261 of the Employee Retirement Income Security Act of 1974.
 
 #### (2) Mandatory application
 

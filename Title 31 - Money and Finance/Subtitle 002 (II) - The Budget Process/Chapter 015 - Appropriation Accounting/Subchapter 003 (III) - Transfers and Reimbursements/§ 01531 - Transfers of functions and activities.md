@@ -1,6 +1,6 @@
 ### §1531. Transfers of functions and activities
 
-(a) The balance of an appropriation available and necessary to finance or discharge a functionor activity transferred or assigned under law within an executive agency or from one executive agency to another may be transferred to and used—
+(a) The balance of an appropriation available and necessary to finance or discharge a function or activity transferred or assigned under law within an executive agency or from one executive agency to another may be transferred to and used—
 
 &emsp;(1) by the organizational unit or agency to which the function or activity was transferred or assigned; and
 

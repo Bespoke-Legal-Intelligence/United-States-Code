@@ -10,7 +10,7 @@
 
 &emsp;The sanction shall be imposed pursuant to paragraph (1) on—
 
-&emsp;&emsp;(A) the foreign person or United States person with respect to which the President makes the determination described in that paragraph;
+&emsp;&emsp;(A) the foreign person or United States person with respect to which the Presidentmakes the determination described in that paragraph;
 
 &emsp;&emsp;(B) any successor entity to that foreign person or United States person;
 
@@ -20,7 +20,7 @@
 
 #### (3) Other sanctions available
 
-&emsp;The sanction which is required to be imposed for activities described in this subsection is in addition to any other sanctionwhich may be imposed for the same activities under any other provision of law.
+&emsp;The sanction which is required to be imposed for activities described in this subsection is in addition to any other sanction which may be imposed for the same activities under any other provision of law.
 
 #### (4) Definition
 

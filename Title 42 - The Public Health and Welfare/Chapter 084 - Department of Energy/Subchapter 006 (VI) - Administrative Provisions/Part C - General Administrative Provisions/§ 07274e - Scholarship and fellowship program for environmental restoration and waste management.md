@@ -60,7 +60,7 @@ A scholarship or fellowship awarded under this section shall be taken into accou
 
 #### (h) Report to Congress
 
-Not later than January 1, 1993, the Secretary of Energy shall submit to Congress a report on activities undertaken under the program and recommendations for future activities under the program.
+Not later than January 1, 1993, the Secretary of Energy shall submit to Congress a report onactivities undertaken under the program and recommendations for future activities under the program.
 
 #### (i) Funding
 

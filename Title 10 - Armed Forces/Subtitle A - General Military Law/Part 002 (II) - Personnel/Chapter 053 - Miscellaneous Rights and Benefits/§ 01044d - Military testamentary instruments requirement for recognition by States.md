@@ -56,7 +56,7 @@ Statement To Be Included.—(1) Under regulations prescribed under this section,
 
 (f)
 
-Regulations.—Regulations for the purposes of this section shall be prescribed jointly by the Secretary of Defense and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy.
+Regulations.—Regulations for the purposes of this section shall be prescribed jointly by the Secretary of Defense and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy.
 
 (g)
 
@@ -72,5 +72,13 @@ Definitions.—In this section:
 
 &emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### Amendments
+
+2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

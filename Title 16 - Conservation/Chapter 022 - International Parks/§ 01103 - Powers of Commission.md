@@ -20,7 +20,7 @@ The Commission shall have juridical personality and all powers and capacity nece
 
 &emsp;(i) to adopt and use a seal;
 
-&emsp;(j) to obtain without reimbursement for use either in the United States or in Canada, legal, engineering, architectural, accounting, financial, maintenance, and other services, whether by assignment, detail, or otherwise, from competent agencies in the United States or in Canada, by arrangements with such agencies.
+&emsp;(j) to obtain without reimbursement for use either in the United States or in Canada, legal, engineering, architectural, accounting, financial, maintenance, and other services, whether by assignment, detail, or otherwise,from competent agencies in the United States or in Canada, by arrangements with such agencies.
 
 (Pub. L. 88–363, §4, July 7, 1964, 78 Stat. 299.)
 

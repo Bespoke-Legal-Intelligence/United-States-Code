@@ -20,7 +20,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (B) Termination of tenancy
 
-&emsp;&emsp;An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of residential rental housing assisted under this title <sup>1</sup> except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause.Any termination or refusal to renew must be preceded by not less than 30 days by the owner's service upon the tenant of a written notice specifying the grounds for the action.
+&emsp;&emsp;An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of residential rental housing assisted under this title <sup>1</sup> except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause. Any termination or refusal to renew must be preceded by not less than 30 days by the owner's service upon the tenant of a written notice specifying the grounds for the action.
 
 #### (C) Maintenance and replacement
 
@@ -62,7 +62,7 @@ Each transitional housing project receiving assistance under this part shall adh
 
 #### (2) Profit limitations on partners
 
-&emsp;A nonprofit organization that receives assistance under this part for a project shall agree to use any profit received from the operation, sale, or other disposition of the project for the purpose of providing housing for low- and moderate-income families. Profit-motivated partners in a nonprofit partnership may receive—
+&emsp;A nonprofit organization that receives assistance under this part for a project shallagree to use any profit received from the operation, sale, or other disposition of the project for the purpose of providing housing for low- and moderate-income families. Profit-motivated partners in a nonprofit partnership may receive—
 
 &emsp;&emsp;(A) not more than a 6 percent return on their equity investment from project operations; and
 
@@ -96,7 +96,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b), is Pub. 
 
 2000—Subsec. (b). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1998—Subsec. (a)(2)(D)(iii). Pub. L. 105–276 substituted “any system of preferences established under section1437d(c)(1) of this title” for “section 1437d(c)(4)(A) of this title”.
+1998—Subsec. (a)(2)(D)(iii). Pub. L. 105–276 substituted “any system of preferences established under section 1437d(c)(1) of this title” for “section 1437d(c)(4)(A) of this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

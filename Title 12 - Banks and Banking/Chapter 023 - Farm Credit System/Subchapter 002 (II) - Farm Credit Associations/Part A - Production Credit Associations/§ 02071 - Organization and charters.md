@@ -30,7 +30,7 @@ Each production credit association shall continue as a Federally chartered instr
 
 #### (5) Copy to FCA
 
-&emsp;A copy of the articles of association shall be forwarded to the Farm Credit Administrationwith the recommendations of the bank concerning the need for such an association in order to adequately serve the credit needs of eligible persons in the proposed territory and whether that territory includes any area described in the charter of another production credit association.
+&emsp;A copy of the articles of association shall be forwarded to the Farm Credit Administration with the recommendations of the bank concerning the need for such an association in order to adequately serve the credit needs of eligible persons in the proposed territory and whether that territory includes any area described in the charter of another production credit association.
 
 #### (6) Denial of charter
 

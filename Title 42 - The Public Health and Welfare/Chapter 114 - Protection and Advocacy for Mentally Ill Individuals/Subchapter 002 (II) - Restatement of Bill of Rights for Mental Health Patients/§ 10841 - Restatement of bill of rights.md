@@ -1,6 +1,6 @@
 ### §10841. Restatement of bill of rights
 
-It is the sense of the Congress that, as previously stated in title V of the Mental Health Systems Act \[42 U.S.C. 9501 et seq.\], each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require, and that in making such review and revision, States should take into account the recommendations of the President's Commission on Mental Health and the following:
+It is the sense of the Congress that, as previously stated in title V of the Mental HealthSystems Act \[42 U.S.C. 9501 et seq.\], each State should review and revise, if necessary, its laws to ensure that mental health patients receive the protection and services they require, and that in making such review and revision, States should take into account the recommendations of the President's Commission on Mental Health and the following:
 
 &emsp;(1) A person admitted to a program or facility for the purpose of receiving mental health services should be accorded the following:
 
@@ -68,7 +68,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(O) The right to referral as appropriate to other providers of mental health services upon discharge.
 
-&emsp;(2)(A) The rights described in this section should be in addition to and not in derogationof any other statutory or constitutional rights.
+&emsp;(2)(A) The rights described in this section should be in addition to and not in derogation of any other statutory or constitutional rights.
 
 &emsp;(B) The rights to confidentiality of and access to records as provided in subparagraphs (H) and (I) of paragraph (1) should remain applicable to records pertaining to a person after such person's discharge from a program or facility.
 

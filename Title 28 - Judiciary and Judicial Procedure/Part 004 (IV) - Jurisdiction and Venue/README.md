@@ -24,7 +24,7 @@
 
 1992—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 91.
 
-1982—Pub. L. 97–164, title I, §§133(j)(1), 134, title III, §301(b), Apr. 2, 1982, 96 Stat. 41, 55, substituted “United States Claims Court” for “Court of Claims” in item for chapter 91, struck out item for chapter 93 “Court of Customs and Patent Appeals”, and added item for chapter 99.
+1982—Pub. L. 97–164, title I, §§133(j)(1), 134, title III, §301(b), Apr. 2, 1982, 96 Stat. 41, 55, substituted “UnitedStates Claims Court” for “Court of Claims” in item for chapter 91, struck out item for chapter 93 “Court of Customs and Patent Appeals”, and added item for chapter 99.
 
 1980—Pub. L. 96–417, title V, §501(20), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” in item for chapter 95.
 

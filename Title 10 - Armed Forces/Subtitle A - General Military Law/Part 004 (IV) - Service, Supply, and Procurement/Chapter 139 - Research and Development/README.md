@@ -3,17 +3,19 @@
 | Sec. |  |
 | :--- | ---: |
 | [2351\.](%C2%A7%2002351%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
-| \[2352. | Repealed.\] |
+| [2352\.](%C2%A7%2002352%20-%20Defense%20Advanced%20Research%20Projects%20Agency%20biennial%20strategic%20plan.md) | Defense Advanced Research Projects Agency: biennial strategic plan. |
 | [2353\.](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md) | Contracts: acquisition, construction, or furnishing of test facilities and equipment. |
 | [2354\.](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md) | Contracts: indemnification provisions. |
 | \[2355 to 2357. Repealed.\] |  |
 | [2358\.](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md) | Research and development projects. |
 | [2359\.](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md) | Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation. |
+| [2359a.](%C2%A7%2002359a%20-%20Technology%20Transition%20Initiative.md) | Technology Transition Initiative. |
+| [2359b.](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md) | Defense Acquisition Challenge Program. |
 | [2360\.](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md) | Research and development laboratories: contracts for services of university students. |
 | [2361\.](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md) | Award of grants and contracts to colleges and universities: requirement of competition. |
 | \[2362, 2363. Repealed.\] |  |
 | [2364\.](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md) | Coordination and communication of defense research activities. |
-| \[2365. | Repealed.\] |
+| [2365\.](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md) | Global Research Watch Program. |
 | [2366\.](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md) | Major systems and munitions programs: survivability testing and lethality testing required before full-scale production. |
 | [2367\.](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md) | Use of federally funded research and development centers. |
 | \[2368 to 2370. Repealed.\] |  |
@@ -24,10 +26,15 @@
 | [2373\.](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md) | Procurement for experimental purposes. |
 | [2374\.](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md) | Merit-based award of grants for research and development. |
 | [2374a.](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md) | Prizes for advanced technology achievements. |
+| [2374b.](%C2%A7%2002374b%20-%20Prizes%20for%20achievements%20in%20promoting%20science%2C%20mathematics%2C%20engineering%2C%20or%20technology%20education.md) | Prizes for achievements in promoting science, mathematics, engineering, or technology education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title II, §§231(b), 232(b), Nov. 24, 2003, 117 Stat. 1422, 1423, added items 2352 and 2365.
+
+2002—Pub. L. 107–314, div. A, title II, §§242(a)(2), 243(b), 248(c)(2), Dec. 2, 2002, 116 Stat. 2495, 2498, 2503, added items 2359a, 2359b, and 2374b.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225, added item 2359.
 
@@ -63,7 +70,7 @@ Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, made technical amendm
 
 1986—Pub. L. 99–661, div. A, title II, §234(c)(2), Nov. 14, 1986, 100 Stat. 3849, as amended by Pub. L. 100–26, §3(1)(B), Apr. 21, 1987, 101 Stat. 273, added item 2364.
 
-Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumberedtitle IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
+Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, 1783–144, 1783–146, and Pub. L. 99–591, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143, 3341–144, 3341–146; Pub. L. 99–661, div. A, title IX, formerly title IV, §§909(a)(2), 910(a)(2), 912(a)(2), Nov. 14, 1986, 100 Stat. 3849, 3922, 3924, 3926, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; as amended by Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, amended analysis identically, adding items 2365, 2366, and 2367.
 
 1985—Pub. L. 99–145, title I, §123(a)(2), title XIV, §1457(b), Nov. 8, 1985, 99 Stat. 601, 763, added items 2362 and 2363.
 
@@ -83,7 +90,7 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02351 - Availability of appropriations](%C2%A7%2002351%20-%20Availability%20of%20appropriations.md)
-- [&sect; 02352 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1062(c)(1), Feb. 10, 1996, 110 Stat. 444](%C2%A7%2002352%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71062%28c%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20444.md)
+- [&sect; 02352 - Defense Advanced Research Projects Agency biennial strategic plan](%C2%A7%2002352%20-%20Defense%20Advanced%20Research%20Projects%20Agency%20biennial%20strategic%20plan.md)
 - [&sect; 02353 - Contracts acquisition, construction, or furnishing of test facilities and equipment](%C2%A7%2002353%20-%20Contracts%20acquisition%2C%20construction%2C%20or%20furnishing%20of%20test%20facilities%20and%20equipment.md)
 - [&sect; 02354 - Contracts indemnification provisions](%C2%A7%2002354%20-%20Contracts%20indemnification%20provisions.md)
 - [&sect; 02355 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2002(a), Oct. 13, 1994, 108 Stat. 3303](%C2%A7%2002355%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72002%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203303.md)
@@ -91,12 +98,14 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02357 - Repealed. Pub. L. 101&#8211;510, div. A, title XIII, &sect;1301(11), Nov. 5, 1990, 104 Stat. 1668](%C2%A7%2002357%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93510%2C%20div.%20A%2C%20title%20XIII%2C%20%C2%A71301%2811%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201668.md)
 - [&sect; 02358 - Research and development projects](%C2%A7%2002358%20-%20Research%20and%20development%20projects.md)
 - [&sect; 02359 - Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research&#8230;](%C2%A7%2002359%20-%20Science%20and%20technology%20programs%20to%20be%20conducted%20so%20as%20to%20foster%20the%20transition%20of%20science%20and%20technology%20to%20higher%20levels%20of%20research%E2%80%A6.md)
+- [&sect; 02359a - Technology Transition Initiative](%C2%A7%2002359a%20-%20Technology%20Transition%20Initiative.md)
+- [&sect; 02359b - Defense Acquisition Challenge Program](%C2%A7%2002359b%20-%20Defense%20Acquisition%20Challenge%20Program.md)
 - [&sect; 02360 - Research and development laboratories contracts for services of university students](%C2%A7%2002360%20-%20Research%20and%20development%20laboratories%20contracts%20for%20services%20of%20university%20students.md)
 - [&sect; 02361 - Award of grants and contracts to colleges and universities requirement of competition](%C2%A7%2002361%20-%20Award%20of%20grants%20and%20contracts%20to%20colleges%20and%20universities%20requirement%20of%20competition.md)
 - [&sect; 02362 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(3), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002362%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%283%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)
 - [&sect; 02363 - Repealed. Pub. L. 102&#8211;484, div. D, title XLII, &sect;&sect;4224(c), 4271(a)(2), Oct. 23, 1992, 106 Stat. 2683, 2695](%C2%A7%2002363%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20D%2C%20title%20XLII%2C%20%C2%A7%C2%A74224%28c%29%2C%204271%28a%29%282%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202683%2C%202695.md)
 - [&sect; 02364 - Coordination and communication of defense research activities](%C2%A7%2002364%20-%20Coordination%20and%20communication%20of%20defense%20research%20activities.md)
-- [&sect; 02365 - Repealed. Pub. L. 102&#8211;484, div. A, title VIII, &sect;821(c)(1), Oct. 23, 1992, 106 Stat. 2460](%C2%A7%2002365%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202460.md)
+- [&sect; 02365 - Global Research Watch Program](%C2%A7%2002365%20-%20Global%20Research%20Watch%20Program.md)
 - [&sect; 02366 - Major systems and munitions programs survivability testing and lethality testing required before full-scale production](%C2%A7%2002366%20-%20Major%20systems%20and%20munitions%20programs%20survivability%20testing%20and%20lethality%20testing%20required%20before%20full-scale%20production.md)
 - [&sect; 02367 - Use of federally funded research and development centers](%C2%A7%2002367%20-%20Use%20of%20federally%20funded%20research%20and%20development%20centers.md)
 - [&sect; 02368 - Repealed. Pub. L. 102&#8211;190, div. A, title VIII, &sect;821(c)(1), Dec. 5, 1991, 105 Stat. 1431](%C2%A7%2002368%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93190%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28c%29%281%29%2C%20Dec.%205%2C%201991%2C%20105%20Stat.%201431.md)
@@ -109,3 +118,4 @@ Pub. L. 99–500, §101(c) \[title X, §§909(a)(2), 910(a)(2), 912(a)(2)\], Oct
 - [&sect; 02373 - Procurement for experimental purposes](%C2%A7%2002373%20-%20Procurement%20for%20experimental%20purposes.md)
 - [&sect; 02374 - Merit-based award of grants for research and development](%C2%A7%2002374%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)
 - [&sect; 02374a - Prizes for advanced technology achievements](%C2%A7%2002374a%20-%20Prizes%20for%20advanced%20technology%20achievements.md)
+- [&sect; 02374b - Prizes for achievements in promoting science, mathematics, engineering, or technology education](%C2%A7%2002374b%20-%20Prizes%20for%20achievements%20in%20promoting%20science%2C%20mathematics%2C%20engineering%2C%20or%20technology%20education.md)

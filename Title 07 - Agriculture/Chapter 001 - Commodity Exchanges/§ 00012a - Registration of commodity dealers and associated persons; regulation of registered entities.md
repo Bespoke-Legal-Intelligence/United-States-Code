@@ -114,7 +114,7 @@ The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is t
 
 The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
-The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 and 78dd–2 of Title 15, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 #### Amendments
 

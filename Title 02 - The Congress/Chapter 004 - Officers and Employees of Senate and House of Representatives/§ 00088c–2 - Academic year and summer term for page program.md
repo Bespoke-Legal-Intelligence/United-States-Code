@@ -10,7 +10,7 @@ Section is based on section 2 of House Resolution No. 234, Ninety-eighth Congres
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “semesters of the academic year, plus a non-academic” for “terms of the academic year plus a”.
+<b>1996</b>—Pub. L. 104–186 substituted “semesters of the academic year, plus a non-academic” for “terms of the academic year plus a”.
 
 #### Effective Date
 

@@ -36,7 +36,7 @@ This section corrects a typographical error in the second paragraph of section 2
 
 1996—Pub. L. 104–132 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“In a habeas corpus proceeding before a circuit or district judge, the final order shall be subject to review,on appeal, by the court of appeals for the circuit where the proceeding is had.
+“In a habeas corpus proceeding before a circuit or district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit where the proceeding is had.
 
 “There shall be no right of appeal from such an order in a proceeding to test the validity of a warrant to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his detention pending removal proceedings.
 

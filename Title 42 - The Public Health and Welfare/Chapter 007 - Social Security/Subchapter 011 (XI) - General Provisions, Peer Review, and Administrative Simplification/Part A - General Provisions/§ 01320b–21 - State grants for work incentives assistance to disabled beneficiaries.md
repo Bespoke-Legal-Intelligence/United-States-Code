@@ -74,7 +74,7 @@ There are authorized to be appropriated to carry out this section $7,000,000 for
 
 The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsecs. (a) and (g)(3), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, and as further amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
-Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec. (e), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
+Section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, referred to in subsec.\(e), is section 101(f) of Pub. L. 106–170, which is set out as a note under section 1320b–19 of this title.
 
 #### Section Referred to in Other Sections
 

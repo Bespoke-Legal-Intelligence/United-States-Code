@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, any contract with a district entered
 
 &emsp;(2) a landholding in excess of three hundred and twenty acres of class I land or the equivalent thereof for a limited recipient receiving irrigation water on or before October 1, 1981; and
 
-&emsp;(3) the entire landholding of a limited recipient not receiving irrigation water on or before October 1, 1981: <i>Provided</i>, That the interest rate used in computing full cost under thisparagraph shall be determined by the Secretary of the Treasury on the basis of the arithmetic average of—
+&emsp;(3) the entire landholding of a limited recipient not receiving irrigation water on or before October 1, 1981: <i>Provided</i>, That the interest rate used in computing full cost under this paragraph shall be determined by the Secretary of the Treasury on the basis of the arithmetic average of—
 
 &emsp;&emsp;(A) the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations which are neither due nor callable for redemption for fifteen years from the date of issuance; and
 

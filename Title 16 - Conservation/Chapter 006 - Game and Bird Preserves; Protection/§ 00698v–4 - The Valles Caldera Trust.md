@@ -58,7 +58,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (f) Taxes
 
-The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
+The Trust and all properties administered by the Trust shall be exempt from all taxes andspecial assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
 
 #### (g) Donations
 

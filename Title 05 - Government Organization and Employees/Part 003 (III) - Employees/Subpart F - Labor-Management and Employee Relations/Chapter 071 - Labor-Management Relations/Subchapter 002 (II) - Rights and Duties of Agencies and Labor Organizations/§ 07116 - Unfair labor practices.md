@@ -58,7 +58,7 @@
 
 &emsp;(3) informs employees of the Government's policy relating to labor-management relations and representation,
 
-> shall not, if the expression contains no threat of reprisal or force or promise of benefit or was not made under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
+> shall not, if the expression contains no threat of reprisal or force or promise of benefit or was notmade under coercive conditions, (A) constitute an unfair labor practice under any provision of this chapter, or (B) constitute grounds for the setting aside of any election conducted under any provisions of this chapter.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1204.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Career appointees or candidates; chiefs of mission
 
-Except as provided in subsection (d) of this section, the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
+Except as provided in subsection (d) of this section, the following members of the Service\(hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
 
 &emsp;(1) Every member who is serving under a career appointment or as a career candidate under section 3946 of this title—
 

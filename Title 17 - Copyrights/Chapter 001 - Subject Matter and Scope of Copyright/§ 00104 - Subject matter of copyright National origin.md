@@ -744,7 +744,7 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 2003, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 2004, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This note is an attempt to present a complete and annotated list of those countries.
 
@@ -882,16 +882,6 @@ Algeria DUCC DSept. 6, 1952 DAug. 28, 1973 D6 UST 2731.
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -899,6 +889,16 @@ July 24, 1971
 Apr. 19, 1998
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 10, 1974
+
+25 UST 1341.
 
 Andorra
 
@@ -920,29 +920,29 @@ Nov. 23, 1996
 
 33 ILM 15.
 
-Antigua and Barbuda DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
+Antigua and Barbuda DBerne (Paris) DJuly 24, 1971 DMar. 17, 2000DT. Doc. 99–27..
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Mar. 17, 2000
+Jan. 1, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
-Argentina DPm DAug. 23, 1934 DAug. 23, 1934 D49 Stat. 3413.
+Argentina DBAC DAug. 11, 1910 DApr. 19, 1950 D38 Stat. 1785.
 
 &nbsp;
 
-BAC
+Pm
 
-Aug. 11, 1910
+Aug. 23, 1934
 
-Apr. 19, 1950
+Aug. 23, 1934
 
-38 Stat. 1785.
+49 Stat. 3413.
 
 &nbsp;
 
@@ -1008,6 +1008,26 @@ Armenia DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Oct. 19, 2000
+
+T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Jan. 31, 2003
+
+25 UST 309.
+
+&nbsp;
+
 Pcss
 
 May 21, 1974
@@ -1018,13 +1038,13 @@ T. Doc. 98–31.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Oct. 19, 2000
+Feb. 5, 2003
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Australia <sup>1</sup> DPm DApr. 3, 1918 DMar. 15, 1918 D40 Stat. 1764.
 
@@ -1050,13 +1070,13 @@ May 1, 1969
 
 &nbsp;
 
-Pg
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-June 22, 1974
+Mar. 1, 1978
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -1070,13 +1090,13 @@ Feb. 28, 1978
 
 &nbsp;
 
-Berne (Paris)
+Pg
 
-July 24, 1971
+Oct. 29, 1971
 
-Mar. 1, 1978
+June 22, 1974
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -1132,16 +1152,6 @@ Aug. 1, 1920
 
 &nbsp;
 
-Pxx
-
-June 15, 1960
-
-June 15, 1960
-
-74 Stat. C69.
-
-&nbsp;
-
 UCC
 
 Sept. 6, 1952
@@ -1152,13 +1162,23 @@ July 2, 1957
 
 &nbsp;
 
-Pcss \\31\\
+Pxx
 
-May 21, 1974
+June 15, 1960
 
-Aug. 6, 1982
+June 15, 1960
 
-T. Doc. 98–31.
+74 Stat. C69.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 21, 1982
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -1182,13 +1202,13 @@ Aug. 21, 1982
 
 &nbsp;
 
-Berne (Paris)
+Pcss \\31\\
 
-July 24, 1971
+May 21, 1974
 
-Aug. 21, 1982
+Aug. 6, 1982
 
-T. Doc. 99–27.
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -1244,29 +1264,19 @@ Dec. 27, 1976
 
 25 UST 1341.
 
-Bahrain DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
+Bahrain DBerne (Paris) DJuly 24, 1971 DMar. 2, 1997 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Mar. 2, 1997
+Jan. 1, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Bangladesh DUCC DSept. 6, 1952 DAug. 5, 1975 D6 UST 2731.
-
-&nbsp;
-
-UCC rev.
-
-July 24, 1971
-
-Aug. 5, 1975
-
-25 UST 1341.
 
 &nbsp;
 
@@ -1280,6 +1290,16 @@ T. Doc. 99–27.
 
 &nbsp;
 
+UCC rev.
+
+July 24, 1971
+
+Aug. 5, 1975
+
+25 UST 1341.
+
+&nbsp;
+
 WTO
 
 Apr. 15, 1994
@@ -1289,6 +1309,16 @@ Jan. 1, 1995
 33 ILM 15.
 
 Barbados DUCC DSept. 6, 1952 DJune 18, 1983 D6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+July 30, 1983
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -1312,16 +1342,6 @@ July 29, 1983
 
 &nbsp;
 
-Berne (Paris)
-
-July 24, 1971
-
-July 30, 1983
-
-T. Doc. 99–27.
-
-&nbsp;
-
 WTO
 
 Apr. 15, 1994
@@ -1341,6 +1361,16 @@ July 24, 1971
 Dec. 12, 1997
 
 T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Apr. 17, 2003
+
+25 UST 309.
 
 &nbsp;
 
@@ -1386,16 +1416,6 @@ July 1, 1909
 
 &nbsp;
 
-Berne (Paris)
-
-July 24, 1971
-
-Sept. 29, 1999
-
-T. Doc. 99–27.
-
-&nbsp;
-
 UCC
 
 Sept. 6, 1952
@@ -1403,6 +1423,16 @@ Sept. 6, 1952
 Aug. 31, 1960
 
 6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Sept. 29, 1999
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -1418,16 +1448,6 @@ Belize DUCC \\20\\ DSept. 6, 1952 DDec. 1, 1982 D6 UST 2731.
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -1435,6 +1455,16 @@ July 24, 1971
 June 17, 2000
 
 T. Doc. 99–27.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 Benin DBerne (Paris) DJuly 24, 1971 DMar. 12, 1975 DT. Doc. 99–27.
 
@@ -1462,16 +1492,6 @@ Mar. 22, 1990
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-Mar. 22, 1990
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -1479,6 +1499,16 @@ July 24, 1971
 Nov. 4, 1993
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Mar. 22, 1990
+
+25 UST 1341.
 
 &nbsp;
 
@@ -1494,16 +1524,6 @@ Bosnia-Herzegovina DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -1511,6 +1531,16 @@ July 24, 1971
 Mar. 1, 1992
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 10, 1974
+
+25 UST 1341.
 
 &nbsp;
 
@@ -1522,29 +1552,19 @@ Mar. 6, 1992
 
 T. Doc. 98–31.
 
-Botswana DWTO DApr. 15, 1994 DMay 31, 1995 D33 ILM 15.
+Botswana DBerne (Paris) DJuly 24, 1971 DApr. 15, 1998 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Apr. 15, 1998
+May 31, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Brazil DBAC DAug. 11, 1910 DAug. 31, 1915 D38 Stat. 1785.
-
-&nbsp;
-
-Pm
-
-Apr. 2, 1957
-
-Apr. 2, 1957
-
-8 UST 424.
 
 &nbsp;
 
@@ -1558,6 +1578,16 @@ Jan. 13, 1960
 
 &nbsp;
 
+Pm
+
+Apr. 2, 1957
+
+Apr. 2, 1957
+
+8 UST 424.
+
+&nbsp;
+
 Berne (Paris)
 
 July 24, 1971
@@ -1568,16 +1598,6 @@ T. Doc. 99–27.
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-Nov. 28, 1975
-
-25 UST 309.
-
-&nbsp;
-
 UCC rev.
 
 July 24, 1971
@@ -1585,6 +1605,16 @@ July 24, 1971
 Dec. 11, 1975
 
 25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Nov. 28, 1975
+
+25 UST 309.
 
 &nbsp;
 
@@ -1606,17 +1636,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Bulgaria DBerne (Paris) DJuly 24, 1971 DDec. 4, 1974 DT. Doc. 99–27.
+Bulgaria DUCC DSept. 6, 1952 DJune 7, 1975 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-June 7, 1975
+Dec. 4, 1974
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -1744,16 +1774,6 @@ Cameroon DUCC DSept. 6, 1952 DMay 1, 1973 D6 UST 2731.
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -1761,6 +1781,16 @@ July 24, 1971
 Oct. 10, 1974
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 10, 1974
+
+25 UST 1341.
 
 &nbsp;
 
@@ -1786,16 +1816,6 @@ Aug. 10, 1962
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -1803,6 +1823,16 @@ July 24, 1971
 June 26, 1998
 
 T. Doc. 99–27.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 Cape Verde
 
@@ -1852,16 +1882,6 @@ July 1, 1909
 
 &nbsp;
 
-Pm
-
-Nov. 18, 1925
-
-July 1, 1925
-
-44 Stat. 2590.
-
-&nbsp;
-
 BAC
 
 Aug. 11, 1910
@@ -1869,6 +1889,16 @@ Aug. 11, 1910
 June 14, 1955
 
 38 Stat. 1785.
+
+&nbsp;
+
+Pm
+
+Nov. 18, 1925
+
+July 1, 1925
+
+44 Stat. 2590.
 
 &nbsp;
 
@@ -1944,13 +1974,13 @@ Nov. 30, 1948
 
 &nbsp;
 
-P <sup>4</sup>
+UCC
 
-Mar. 17, 1992
+Sept. 6, 1952
 
-Mar. 17, 1992
+Oct. 30, 1992
 
-57 F. Reg. 9647.
+6 UST 2731.
 
 &nbsp;
 
@@ -1961,16 +1991,6 @@ July 24, 1971
 Oct. 15, 1992
 
 T. Doc. 99–27.
-
-&nbsp;
-
-UCC
-
-Sept. 6, 1952
-
-Oct. 30, 1992
-
-6 UST 2731.
 
 &nbsp;
 
@@ -1991,6 +2011,16 @@ Oct. 29, 1971
 Apr. 30, 1993
 
 25 UST 309.
+
+&nbsp;
+
+P <sup>4</sup>
+
+Mar. 17, 1992
+
+Mar. 17, 1992
+
+57 F. Reg. 9647.
 
 &nbsp;
 
@@ -2016,16 +2046,6 @@ June 18, 1976
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-June 18, 1976
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -2033,6 +2053,16 @@ July 24, 1971
 Mar. 7, 1988
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+June 18, 1976
+
+25 UST 1341.
 
 &nbsp;
 
@@ -2116,16 +2146,6 @@ Costa Rica DP DOct. 19, 1899 DOct. 19, 1899 D31 Stat. 1955.
 
 &nbsp;
 
-P
-
-Apr. 9, 1910
-
-July 1, 1909
-
-36 Stat. 2685.
-
-&nbsp;
-
 MCC
 
 Jan. 27, 1902
@@ -2133,6 +2153,16 @@ Jan. 27, 1902
 June 30, 1908
 
 35 Stat. 1934.
+
+&nbsp;
+
+P
+
+Apr. 9, 1910
+
+July 1, 1909
+
+36 Stat. 2685.
 
 &nbsp;
 
@@ -2186,16 +2216,6 @@ June 17, 1982
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Pcss
 
 May 21, 1974
@@ -2203,6 +2223,16 @@ May 21, 1974
 June 25, 1999
 
 T. Doc. 98–31.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 &nbsp;
 
@@ -2240,16 +2270,6 @@ Croatia DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -2260,13 +2280,13 @@ T. Doc. 99–27.
 
 &nbsp;
 
-Pcss
+UCC rev.
 
-May 21, 1974
+July 24, 1971
 
-Oct. 8, 1991
+July 10, 1974
 
-T. Doc. 98–31.
+25 UST 1341.
 
 &nbsp;
 
@@ -2277,6 +2297,16 @@ Oct. 29, 1971
 Apr. 20, 2000
 
 25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Oct. 8, 1991
+
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -2342,16 +2372,6 @@ June 18, 1957
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Apr. 20, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -2360,17 +2380,27 @@ Feb. 20, 1997
 
 T. Doc. 99–27.
 
-Cyprus DBerne (Paris) DJuly 24, 1971 DJuly 27, 1983 DT. Doc. 99–27.
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Apr. 20, 1995
+
+33 ILM 15.
+
+Cyprus DUCC DSept. 6, 1952 DDec. 19, 1990 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-Dec. 19, 1990
+July 27, 1983
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -2402,17 +2432,17 @@ July 30, 1995
 
 33 ILM 15.
 
-Czech Republic \\33\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
-
 &nbsp;
 
-UCC rev.
+WCT
 
-July 24, 1971
+Dec. 20, 1996
 
-Apr. 17, 1980
+Nov. 4, 2000
 
-25 UST 1341.
+T. Doc. 105–17.
+
+Czech Republic \\33\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
 
 &nbsp;
 
@@ -2423,6 +2453,16 @@ July 24, 1971
 Jan. 1, 1993
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Apr. 17, 1980
+
+25 UST 1341.
 
 &nbsp;
 
@@ -2528,16 +2568,6 @@ Feb. 9, 1962
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-Mar. 24, 1977
-
-25 UST 309.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -2558,6 +2588,16 @@ July 11, 1979
 
 &nbsp;
 
+Pg
+
+Oct. 29, 1971
+
+Mar. 24, 1977
+
+25 UST 309.
+
+&nbsp;
+
 WTO
 
 Apr. 15, 1994
@@ -2566,31 +2606,31 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Djibouti DWTO DApr. 15, 1994 DMay 31, 1995 D33 ILM 15.
+Djibouti DBerne (Paris) DJuly 24, 1971 DMay 13, 2002 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-May 13, 2002
+May 31, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
-Dominica DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
+Dominica DBerne (Paris) DJuly 24, 1971 DAug. 7, 1999 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Aug. 7, 1999
+Jan. 1, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
-Dominican Rep. DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
+Dominican Republic DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
@@ -2614,13 +2654,23 @@ May 8, 1983
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Dec. 24, 1997
+
+25 UST 1341.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
 
 May 8, 1983
 
-25 UST 1341.
+33 ILM 15.
 
 &nbsp;
 
@@ -2629,16 +2679,6 @@ WTO
 Apr. 15, 1994
 
 Mar. 9, 1995
-
-33 ILM 15.
-
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-Dec. 24, 1997
 
 T. Doc. 99–27.
 
@@ -2656,13 +2696,13 @@ June 5, 1957
 
 &nbsp;
 
-Pg
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-Sept. 14, 1974
+Oct. 9, 1991
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -2676,13 +2716,13 @@ Sept. 6, 1991
 
 &nbsp;
 
-Berne (Paris)
+Pg
 
-July 24, 1971
+Oct. 29, 1971
 
-Oct. 9, 1991
+Sept. 14, 1974
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -2740,16 +2780,6 @@ El Salvador DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-Feb. 9, 1979
-
-25 UST 309.
-
-&nbsp;
-
 UCC
 
 Sept. 6, 1952
@@ -2757,6 +2787,16 @@ Sept. 6, 1952
 Mar. 29, 1979
 
 6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Feb. 19, 1994
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -2770,13 +2810,13 @@ Mar. 29, 1979
 
 &nbsp;
 
-Berne (Paris)
+Pg
 
-July 24, 1971
+Oct. 29, 1971
 
-Feb. 19, 1994
+Feb. 9, 1979
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -2850,17 +2890,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Fiji DUCC DSept. 6, 1952 DMar. 13, 1972 D6 UST 2731.
+Fiji DBerne (Brussels) DJune 26, 1948 DDec. 1, 1971 D331 UNTS 217.
 
 &nbsp;
 
-Berne (Brussels)
+UCC
 
-June 26, 1948
+Sept. 6, 1952
 
-Dec. 1, 1971
+Mar. 13, 1972
 
-331 UNTS 217.
+6 UST 2731.
 
 &nbsp;
 
@@ -2906,16 +2946,6 @@ Apr. 16, 1963
 
 &nbsp;
 
-Pg \\32\\
-
-Oct. 29, 1971
-
-Apr. 18, 1973
-
-25 UST 309.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -2936,6 +2966,16 @@ Nov. 1, 1986
 
 &nbsp;
 
+Pg \\32\\
+
+Oct. 29, 1971
+
+Apr. 18, 1973
+
+25 UST 309.
+
+&nbsp;
+
 WTO
 
 Apr. 15, 1994
@@ -2944,27 +2984,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Former Yugoslav Republic of Macedonia DBerne (Paris) DJuly 24, 1971 DSept. 8, 1991 D T. Doc. 99–27.
+Former Yugoslav Republic of Macedonia DUCC DSept. 6, 1952 DJuly 30, 1997 D6 UST 2731.
 
 &nbsp;
 
-Pcss
+Berne (Paris)
 
-May 21, 1974
+July 24, 1971
 
-Nov. 17, 1991
+Sept. 8, 1991
 
-T. Doc. 98–31.
-
-&nbsp;
-
-UCC
-
-Sept. 6, 1952
-
-July 30, 1997
-
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -2985,6 +3015,26 @@ Oct. 29, 1971
 Mar. 2, 1998
 
 25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Nov. 17, 1991
+
+T. Doc. 98–31.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Apr. 4, 2001
+
+33 ILM 15.
 
 France <sup>6</sup> DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
@@ -3040,13 +3090,13 @@ Jan. 14, 1956
 
 &nbsp;
 
-Pg \\32\\
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-Apr. 18, 1973
+Oct. 10, 1974
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -3060,13 +3110,13 @@ July 10, 1974
 
 &nbsp;
 
-Berne (Paris)
+Pg \\32\\
 
-July 24, 1971
+Oct. 29, 1971
 
-Oct. 10, 1974
+Apr. 18, 1973
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -3218,13 +3268,13 @@ July 12, 1967
 
 &nbsp;
 
-Pg
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-May 18, 1974
+Oct. 10, 1974
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -3238,13 +3288,13 @@ July 10, 1974
 
 &nbsp;
 
-Berne (Paris)
+Pg
 
-July 24, 1971
+Oct. 29, 1971
 
-Oct. 10, 1974
+May 18, 1974
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -3265,6 +3315,16 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
 
 Ghana DUCC DSept. 6, 1952 DAug. 22, 1962 D6 UST 2731.
 
@@ -3312,16 +3372,6 @@ T. Doc. 99–27.
 
 &nbsp;
 
-Pcss
-
-May 21, 1974
-
-Oct. 22, 1991
-
-T. Doc. 98–31.
-
-&nbsp;
-
 Pg
 
 Oct. 29, 1971
@@ -3329,6 +3379,16 @@ Oct. 29, 1971
 Feb. 9, 1994
 
 25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Oct. 22, 1991
+
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -3340,17 +3400,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Grenada DWTO DApr. 15, 1994 DFeb. 22, 1996 D33 ILM 15.
+Grenada DBerne (Paris) DJuly 24, 1971 DSept. 22, 1998 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Sept. 22, 1998
+Feb. 22, 1996
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Guatemala DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
@@ -3376,6 +3436,16 @@ Oct. 28, 1964
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+July 28, 1997
+
+T. Doc. 99–27.
+
+&nbsp;
+
 Pg
 
 Oct. 29, 1971
@@ -3396,25 +3466,35 @@ July 21, 1995
 
 &nbsp;
 
+WPPT
+
+Dec. 20, 1996
+
+Jan. 8, 2003
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Feb. 4, 2003
+
+T. Doc. 105–17.
+
+Guinea DUCC DSept. 6, 1952 DNov. 13, 1981 D6 UST 2731.
+
+&nbsp;
+
 Berne (Paris)
 
 July 24, 1971
 
-July 28, 1997
+Nov. 20, 1980
 
 T. Doc. 99–27.
-
-Guinea DBerne (Paris) DJuly 24, 1971 DNov. 20, 1980 DT. Doc. 99–27.
-
-&nbsp;
-
-UCC
-
-Sept. 6, 1952
-
-Nov. 13, 1981
-
-6 UST 2731.
 
 &nbsp;
 
@@ -3512,7 +3592,7 @@ Jan. 30, 1996
 
 33 ILM 15.
 
-Holy See (See entry under Vatican City).
+Holy See (See Vatican City).
 
 Honduras DMCC DJan. 27, 1902 DJune 30, 1908 D35 Stat. 1934.
 
@@ -3576,7 +3656,17 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Hong Kong DPg DOct. 29, 1971 DJuly 1, 1997 D25 UST 309.
+Hong Kong DBerne (Paris) DJuly 24, 1971 DJuly 1, 1997 DT. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+July 1, 1997
+
+25 UST 309.
 
 &nbsp;
 
@@ -3587,16 +3677,6 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
-
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-July 1, 1997
-
-T. Doc. 99–27.
 
 Hungary <sup>3</sup> DCm <sup>7</sup> DJan. 30, 1912 DOct. 16, 1912 D37 Stat. 1631.
 
@@ -3632,16 +3712,6 @@ Jan. 23, 1971
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -3649,6 +3719,16 @@ July 24, 1971
 Oct. 10, 1974
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 10, 1974
+
+25 UST 1341.
 
 &nbsp;
 
@@ -3690,17 +3770,17 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Iceland DBerne (Paris) DJuly 24, 1971 DAug. 25, 1999 DT. Doc. 99–27.
+Iceland DUCC DSept. 6, 1952 DDec. 18, 1956 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-Dec. 18, 1956
+Aug. 25, 1999
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -3712,27 +3792,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-India <sup>1,</sup> \\10\\ DPm DOct. 21, 1954 DAug. 15, 1947 D5 UST 2529.
+India <sup>1,</sup> \\10\\ DUCC DSept. 6, 1952 DJan. 21, 1958 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Pm
 
-Sept. 6, 1952
+Oct. 21, 1954
 
-Jan. 21, 1958
+Aug. 15, 1947
 
-6 UST 2731.
-
-&nbsp;
-
-Pg
-
-Oct. 29, 1971
-
-Feb. 12, 1975
-
-25 UST 309.
+5 UST 2529.
 
 &nbsp;
 
@@ -3756,15 +3826,13 @@ Apr. 7, 1988
 
 &nbsp;
 
-WTO
+Pg
 
-Apr. 15, 1994
+Oct. 29, 1971
 
-Jan. 1, 1995
+Feb. 12, 1975
 
-33 ILM 15.
-
-Indonesia DP DJuly 31, 1989 DAug. 1, 1989 D103 Stat. 3069.
+25 UST 309.
 
 &nbsp;
 
@@ -3776,15 +3844,27 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+Indonesia DBerne (Paris) DJuly 24, 1971 DSept. 5, 1997 DT. Doc. 99–27.
+
 &nbsp;
 
-Berne (Paris)
+P
 
-July 24, 1971
+July 31, 1989
 
-Sept. 5, 1997
+Aug. 1, 1989
 
-T. Doc. 99–27.
+103 Stat. 3069.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 &nbsp;
 
@@ -3800,16 +3880,6 @@ Ireland <sup>1</sup> DPm \\11\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
 
 &nbsp;
 
-UCC
-
-Sept. 6, 1952
-
-Jan. 20, 1959
-
-6 UST 2731.
-
-&nbsp;
-
 Berne (Brussels)
 
 June 26, 1948
@@ -3817,6 +3887,16 @@ June 26, 1948
 July 5, 1959
 
 331 UNTS 217.
+
+&nbsp;
+
+UCC
+
+Sept. 6, 1952
+
+Jan. 20, 1959
+
+6 UST 2731.
 
 &nbsp;
 
@@ -3828,17 +3908,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Israel \\12\\ DPm DMay 4, 1950 DMay 15, 1948 D64 Stat. A402.
+Israel \\12\\ DBerne (Brussels) DJune 26, 1948 DAug. 1, 1951 D331 UNTS 217.
 
 &nbsp;
 
-Berne (Brussels)
+Pm
 
-June 26, 1948
+May 4, 1950
 
-Aug. 1, 1951
+May 15, 1948
 
-331 UNTS 217.
+64 Stat. A402.
 
 &nbsp;
 
@@ -3934,16 +4014,6 @@ Jan. 24, 1957
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-Mar. 24, 1977
-
-25 UST 309.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -3961,6 +4031,16 @@ July 24, 1971
 Jan. 25, 1980
 
 25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Mar. 24, 1977
+
+25 UST 309.
 
 &nbsp;
 
@@ -3996,16 +4076,6 @@ Jan. 11, 1994
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Mar. 9, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Pcss
 
 May 21, 1974
@@ -4013,6 +4083,16 @@ May 21, 1974
 Jan. 12, 2000
 
 T. Doc. 98–31.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Mar. 9, 1995
+
+33 ILM 15.
 
 &nbsp;
 
@@ -4058,16 +4138,6 @@ Apr. 28, 1952
 
 &nbsp;
 
-Pm \\18\\
-
-Nov. 10, 1953
-
-Apr. 28, 1952
-
-5 UST 118.
-
-&nbsp;
-
 UCC
 
 Sept. 6, 1952
@@ -4075,6 +4145,16 @@ Sept. 6, 1952
 Apr. 28, 1956
 
 6 UST 2731.
+
+&nbsp;
+
+Pm \\18\\
+
+Nov. 10, 1953
+
+Apr. 28, 1952
+
+5 UST 118.
 
 &nbsp;
 
@@ -4184,6 +4264,16 @@ Kenya DUCC DSept. 6, 1952 DSept. 7, 1966 D6 UST 2731.
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+June 11, 1993
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -4214,16 +4304,6 @@ T. Doc. 98–31.
 
 &nbsp;
 
-Berne (Paris)
-
-July 24, 1971
-
-June 11, 1993
-
-T. Doc. 99–27.
-
-&nbsp;
-
 WTO
 
 Apr. 15, 1994
@@ -4232,17 +4312,29 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Korea
+Korea DC \\19\\ DMay 19, 1908 DAug. 6, 1908 D35 Stat. 2041.
 
-C \\19\\
+&nbsp;
 
-May 19, 1908
+Berne (Paris)
 
-Aug. 6, 1908
+July 24, 1971
 
-35 Stat. 2041.
+Apr. 28, 2003
+
+T. Doc. 99–27.
 
 Korea, Republic of DUCC DSept. 6, 1952 DOct. 1, 1987 D6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 21, 1996
+
+T. Doc. 99–27.
 
 UCC rev.
 
@@ -4270,16 +4362,6 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-Aug. 21, 1996
-
-T. Doc. 99–27.
-
 Kuwait
 
 WTO
@@ -4290,17 +4372,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Kyrgyz Rep. DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
-
-&nbsp;
-
-WTO
-
-Apr. 15, 1994
-
-Dec. 20, 1998
-
-33 ILM 15.
+Kyrgyz Republic DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
 
@@ -4321,6 +4393,16 @@ Oct. 29, 1971
 Oct. 12, 2002
 
 25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Dec. 20, 1998
+
+33 ILM 15.
 
 &nbsp;
 
@@ -4440,27 +4522,17 @@ Sept. 28, 1976
 
 T. Doc. 99–27.
 
-Liechtenstein DBerne (Paris) DJuly 24, 1971 DSept. 23, 1999 DT. Doc. 99–27.
+Liechtenstein DUCC DSept. 6, 1952 DJan. 22, 1959 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-Jan. 22, 1959
+Sept. 23, 1999
 
-6 UST 2731.
-
-&nbsp;
-
-WTO
-
-Apr. 15, 1994
-
-Sept. 1, 1995
-
-33 ILM 15.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -4482,17 +4554,17 @@ Oct. 12, 1999
 
 25 UST 309.
 
-Lithuania DBerne (Paris) DJuly 24, 1971 DDec. 14, 1994 DT. Doc. 99–27.
-
 &nbsp;
 
 WTO
 
 Apr. 15, 1994
 
-May 31, 2001
+Sept. 1, 1995
 
 33 ILM 15.
+
+Lithuania DBerne (Paris) DJuly 24, 1971 DDec. 14, 1994 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -4503,6 +4575,16 @@ Oct. 29, 1971
 Jan. 27, 2000
 
 25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+May 31, 2001
+
+33 ILM 15.
 
 &nbsp;
 
@@ -4576,17 +4658,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Macao DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
+Macao DBerne (Paris) DJuly 24, 1971 DDec. 20, 1999 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Dec. 20, 1999
+Jan. 1, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Madagascar DBerne (Brussels) DJune 26, 1948 DJan. 1, 1966 D331 UNTS 217.
 
@@ -4746,16 +4828,6 @@ July 1, 1909
 
 &nbsp;
 
-UCC
-
-Sept. 6, 1952
-
-May 12, 1957
-
-6 UST 2731.
-
-&nbsp;
-
 BAC
 
 Aug. 11, 1910
@@ -4766,13 +4838,13 @@ Apr. 24, 1964
 
 &nbsp;
 
-Pg \\32\\
+UCC
 
-Oct. 29, 1971
+Sept. 6, 1952
 
-Dec. 21, 1973
+May 12, 1957
 
-25 UST 309.
+6 UST 2731.
 
 &nbsp;
 
@@ -4793,6 +4865,16 @@ July 24, 1971
 Oct. 31, 1975
 
 25 UST 1341.
+
+&nbsp;
+
+Pg \\32\\
+
+Oct. 29, 1971
+
+Dec. 21, 1973
+
+25 UST 309.
 
 &nbsp;
 
@@ -4834,17 +4916,17 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Moldova DBerne (Paris) DJuly 24, 1971 DNov. 2, 1995 DT. Doc. 99–27.
+Moldova DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-July 18, 1997
+Nov. 2, 1995
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -4886,17 +4968,17 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Monaco DPm DOct. 15, 1952 DOct. 15, 1952 D67 Stat. C16.
+Monaco DUCC DSept. 6, 1952 DSept. 16, 1955 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Pm
 
-Sept. 6, 1952
+Oct. 15, 1952
 
-Sept. 16, 1955
+Oct. 15, 1952
 
-6 UST 2731.
+67 Stat. C16.
 
 &nbsp;
 
@@ -4910,16 +4992,6 @@ T. Doc. 99–27.
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-Dec. 2, 1974
-
-25 UST 309.
-
-&nbsp;
-
 UCC rev.
 
 July 24, 1971
@@ -4927,6 +4999,16 @@ July 24, 1971
 Dec. 13, 1974
 
 25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Dec. 2, 1974
+
+25 UST 309.
 
 &nbsp;
 
@@ -4974,6 +5056,16 @@ Morocco DUCC DSept. 6, 1952 DMay 8, 1972 D6 UST 2731.
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+May 17, 1987
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -4991,16 +5083,6 @@ May 21, 1974
 June 30, 1983
 
 T. Doc. 98–31.
-
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-May 17, 1987
-
-T. Doc. 99–27.
 
 &nbsp;
 
@@ -5068,16 +5150,6 @@ June 22, 1967
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-Nov. 30, 1985
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -5085,6 +5157,16 @@ July 24, 1971
 Jan. 30, 1986
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Nov. 30, 1985
+
+25 UST 1341.
 
 &nbsp;
 
@@ -5120,16 +5202,6 @@ May 25, 1922
 
 &nbsp;
 
-Pxx
-
-Apr. 24, 1947
-
-Apr. 24, 1947
-
-61 Stat. 1065.
-
-&nbsp;
-
 Berne (Rome)
 
 June 2, 1928
@@ -5137,6 +5209,16 @@ June 2, 1928
 Dec. 4, 1947
 
 123 LNTS 232.
+
+&nbsp;
+
+Pxx
+
+Apr. 24, 1947
+
+Apr. 24, 1947
+
+61 Stat. 1065.
 
 &nbsp;
 
@@ -5202,6 +5284,26 @@ Aug. 16, 1961
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 23, 2000
+
+T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Aug. 10, 2000
+
+25 UST 309.
+
+&nbsp;
+
 Pcss \\31\\
 
 May 21, 1974
@@ -5222,35 +5324,35 @@ Sept. 3, 1995
 
 &nbsp;
 
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2003
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Mar. 6, 2003
+
+T. Doc. 105–17.
+
+Niger DUCC DSept. 6, 1952 DMay 15, 1989 D6 UST 2731.
+
+&nbsp;
+
 Berne (Paris)
 
 July 24, 1971
 
-Aug. 23, 2000
+May 21, 1975
 
 T. Doc. 99–27.
-
-&nbsp;
-
-Pg
-
-Oct. 29, 1971
-
-Aug. 10, 2000
-
-25 UST 309.
-
-Niger DBerne (Paris) DJuly 24, 1971 DMay 21, 1975 DT. Doc. 99–27.
-
-&nbsp;
-
-UCC
-
-Sept. 6, 1952
-
-May 15, 1989
-
-6 UST 2731.
 
 &nbsp;
 
@@ -5436,13 +5538,13 @@ Oct. 17, 1962
 
 &nbsp;
 
-Pg
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-June 29, 1974
+June 8, 1996
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -5456,6 +5558,16 @@ Sept. 3, 1980
 
 &nbsp;
 
+Pg
+
+Oct. 29, 1971
+
+June 29, 1974
+
+25 UST 309.
+
+&nbsp;
+
 Pcss
 
 May 21, 1974
@@ -5463,16 +5575,6 @@ May 21, 1974
 Sept. 25, 1985
 
 T. Doc. 98–31.
-
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-June 8, 1996
-
-T. Doc. 99–27.
 
 &nbsp;
 
@@ -5504,7 +5606,15 @@ May 20, 2002
 
 T. Doc. 105–17.
 
-Papua New Guinea DWTO DApr. 15, 1994 DJune 9, 1996 D33 ILM 15.
+Papua New Guinea
+
+WTO
+
+Apr. 15, 1994
+
+June 9, 1996
+
+33 ILM 15.
 
 Paraguay DBAC DAug. 11, 1910 DSept. 20, 1917 D38 Stat. 1785.
 
@@ -5520,16 +5630,6 @@ Mar. 11, 1962
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-Feb. 13, 1979
-
-25 UST 309.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -5537,6 +5637,16 @@ July 24, 1971
 Jan. 2, 1992
 
 T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Feb. 13, 1979
+
+25 UST 309.
 
 &nbsp;
 
@@ -5582,6 +5692,16 @@ Oct. 16, 1963
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 20, 1988
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -5589,16 +5709,6 @@ July 24, 1971
 July 22, 1985
 
 25 UST 1341.
-
-&nbsp;
-
-Pcss
-
-May 21, 1974
-
-Aug. 7, 1985
-
-T. Doc. 98–31.
 
 &nbsp;
 
@@ -5612,13 +5722,13 @@ Aug. 24, 1985
 
 &nbsp;
 
-Berne (Paris)
+Pcss
 
-July 24, 1971
+May 21, 1974
 
-Aug. 20, 1988
+Aug. 7, 1985
 
-T. Doc. 99–27.
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -5654,16 +5764,6 @@ Philippines DPm DOct. 21, 1948 DOct. 21, 1948 D62 Stat. 1568.
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -5671,6 +5771,16 @@ July 24, 1971
 June 18, 1997
 
 T. Doc. 99–27.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 &nbsp;
 
@@ -5706,16 +5816,6 @@ Mar. 9, 1977
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-Mar. 9, 1977
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -5723,6 +5823,16 @@ July 24, 1971
 Oct. 22, 1994
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Mar. 9, 1977
+
+25 UST 1341.
 
 &nbsp;
 
@@ -5778,16 +5888,6 @@ July 30, 1981
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Pcss
 
 May 21, 1974
@@ -5796,17 +5896,27 @@ Mar. 11, 1996
 
 T. Doc. 98–31.
 
-Qatar DWTO DApr. 15, 1994 DJan. 13, 1996 D33 ILM 15.
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
+
+Qatar DBerne (Paris) DJuly 24, 1971 DJuly 5, 2000 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-July 5, 2000
+Jan. 13, 1996
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Romania DPm \\22\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
 
@@ -5819,16 +5929,6 @@ Feb. 10, 1947
 Sept. 15, 1947
 
 61 Stat. 1757.
-
-&nbsp;
-
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
 
 &nbsp;
 
@@ -5849,6 +5949,16 @@ Oct. 29, 1971
 Oct. 1, 1998
 
 25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 &nbsp;
 
@@ -5874,13 +5984,13 @@ Russian Federation DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
 &nbsp;
 
-Pcss \\30\\
+Berne (Paris)
 
-May 21, 1974
+July 24, 1971
 
-Dec. 25, 1991
+Mar. 13, 1995
 
-T. Doc. 98–31.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -5894,16 +6004,6 @@ Mar. 9, 1995
 
 &nbsp;
 
-Berne (Paris)
-
-July 24, 1971
-
-Mar. 13, 1995
-
-T. Doc. 99–27.
-
-&nbsp;
-
 Pg
 
 Oct. 29, 1971
@@ -5912,17 +6012,27 @@ Mar. 13, 1995
 
 25 UST 309.
 
-Rwanda DBerne (Paris) DJuly 24, 1971 DMar. 1, 1984 DT. Doc. 99–27.
+&nbsp;
+
+Pcss \\30\\
+
+May 21, 1974
+
+Dec. 25, 1991
+
+T. Doc. 98–31.
+
+Rwanda DUCC DSept. 6, 1952 DNov. 10, 1989 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-Nov. 10, 1989
+Mar. 1, 1984
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -5960,16 +6070,6 @@ Saint Lucia DBerne (Paris) DJuly 24, 1971 DAug. 24, 1993 DT. Doc. 99–27.
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Pg
 
 Oct. 29, 1971
@@ -5977,6 +6077,16 @@ Oct. 29, 1971
 Apr. 2, 2001
 
 25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 &nbsp;
 
@@ -6002,6 +6112,16 @@ Saint Vincent and the Grenadines DUCC DSept. 6, 1952 DApr. 22, 1985 D6 UST 2731.
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 29, 1995
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -6020,16 +6140,6 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-Aug. 29, 1995
-
-T. Doc. 99–27.
-
 Saudi Arabia DUCC DSept. 6, 1952 DJuly 13, 1994 D6 UST 2731.
 
 &nbsp;
@@ -6046,16 +6156,6 @@ Senegal DUCC DSept. 6, 1952 DJuly 9, 1974 D6 UST 2731.
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -6063,6 +6163,16 @@ July 24, 1971
 Aug. 12, 1975
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 10, 1974
+
+25 UST 1341.
 
 &nbsp;
 
@@ -6104,7 +6214,17 @@ July 23, 1995
 
 33 ILM 15.
 
-Singapore DP DMay 18, 1987 DMay 18, 1987 D101 Stat. 2134.
+Singapore DBerne (Paris) DJuly 24, 1971 DDec. 21, 1998 DT. Doc. 99–27.
+
+&nbsp;
+
+P
+
+May 18, 1987
+
+May 18, 1987
+
+101 Stat. 2134.
 
 &nbsp;
 
@@ -6116,27 +6236,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-Dec. 21, 1998
-
-T. Doc. 99–27.
-
 Slovakia \\37\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
-
-&nbsp;
-
-UCC rev.
-
-July 24, 1971
-
-Apr. 17, 1980
-
-25 UST 1341.
 
 &nbsp;
 
@@ -6147,6 +6247,16 @@ July 24, 1971
 Jan. 1, 1993
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+Apr. 17, 1980
+
+25 UST 1341.
 
 &nbsp;
 
@@ -6192,6 +6302,16 @@ Slovenia DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+June 25, 1991
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -6202,13 +6322,13 @@ July 10, 1974
 
 &nbsp;
 
-Berne (Paris)
+Pg
 
-July 24, 1971
+Oct. 29, 1971
 
-June 25, 1991
+Oct. 15, 1996
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -6229,16 +6349,6 @@ Apr. 15, 1994
 July 30, 1995
 
 33 ILM 15.
-
-&nbsp;
-
-Pg
-
-Oct. 29, 1971
-
-Oct. 15, 1996
-
-25 UST 309.
 
 &nbsp;
 
@@ -6326,6 +6436,16 @@ Sept. 16, 1955
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Oct. 10, 1974
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -6343,16 +6463,6 @@ Oct. 29, 1971
 Aug. 24, 1974
 
 25 UST 309.
-
-&nbsp;
-
-Berne (Paris)
-
-July 24, 1971
-
-Oct. 10, 1974
-
-T. Doc. 99–27.
 
 &nbsp;
 
@@ -6418,17 +6528,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Swaziland DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
+Swaziland DBerne (Paris) DJuly 24, 1971 DDec. 14, 1998 DT. Doc. 99–27.
 
 &nbsp;
 
-Berne (Paris)
+WTO
 
-July 24, 1971
+Apr. 15, 1994
 
-Dec. 14, 1998
+Jan. 1, 1995
 
-T. Doc. 99–27.
+33 ILM 15.
 
 Sweden DP DMay 26, 1911 DJune 1, 1911 D37 Stat. 1682.
 
@@ -6454,13 +6564,13 @@ July 1, 1961
 
 &nbsp;
 
-Pg \\32\\
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-Apr. 18, 1973
+Oct. 10, 1974
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -6474,13 +6584,13 @@ July 10, 1974
 
 &nbsp;
 
-Berne (Paris)
+Pg \\32\\
 
-July 24, 1971
+Oct. 29, 1971
 
-Oct. 10, 1974
+Apr. 18, 1973
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -6526,26 +6636,6 @@ Mar. 30, 1956
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-Sept. 21, 1993
-
-25 UST 1341.
-
-&nbsp;
-
-Pcss
-
-May 21, 1974
-
-Sept. 24, 1993
-
-T. Doc. 98–31.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -6556,6 +6646,16 @@ T. Doc. 99–27.
 
 &nbsp;
 
+UCC rev.
+
+July 24, 1971
+
+Sept. 21, 1993
+
+25 UST 1341.
+
+&nbsp;
+
 Pg
 
 Oct. 29, 1971
@@ -6563,6 +6663,16 @@ Oct. 29, 1971
 Sept. 30, 1993
 
 25 UST 309.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Sept. 24, 1993
+
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -6622,16 +6732,6 @@ June 8, 1968
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -6640,7 +6740,27 @@ Sept. 2, 1995
 
 T. Doc. 99–27.
 
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
+
 Togo DBerne (Paris) DJuly 24, 1971 DApr. 30, 1975 DT. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 28, 1971
+
+June 10, 2003
+
+25 UST 309.
 
 &nbsp;
 
@@ -6652,6 +6772,26 @@ May 31, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+May 21, 2003
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 21, 2003
+
+T. Doc. 105–17.
+
 Tonga
 
 Berne (Paris)
@@ -6662,17 +6802,17 @@ June 14, 2001
 
 T. Doc. 99–27.
 
-Trinidad and Tobago DBerne (Paris) DJuly 24, 1971 DAug. 16, 1988 DT. Doc. 99–27.
+Trinidad and Tobago DUCC DSept. 6, 1952 DAug. 19, 1988 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-Aug. 19, 1988
+Aug. 16, 1988
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -6696,16 +6836,6 @@ Oct. 1, 1988
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Mar. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 Pcss
 
 May 21, 1974
@@ -6713,6 +6843,16 @@ May 21, 1974
 Nov. 1, 1996
 
 T. Doc. 98–31.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Mar. 1, 1995
+
+33 ILM 15.
 
 Tunisia DP \\26\\ DOct. 4, 1912 DOct. 4, 1912 D37 Stat. 1765.
 
@@ -6728,16 +6868,6 @@ June 19, 1969
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-June 10, 1975
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -6745,6 +6875,16 @@ July 24, 1971
 Aug. 16, 1975
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+June 10, 1975
+
+25 UST 1341.
 
 &nbsp;
 
@@ -6844,13 +6984,13 @@ United Kingdom <sup>1</sup> DUCC DSept. 6, 1952 DSept. 27, 1957 D6 UST 2731.
 
 &nbsp;
 
-Pg \\32\\
+Berne (Paris)
 
-Oct. 29, 1971
+July 24, 1971
 
-Apr. 18, 1973
+Jan. 2, 1990
 
-25 UST 309.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -6864,13 +7004,13 @@ July 10, 1974
 
 &nbsp;
 
-Berne (Paris)
+Pg \\32\\
 
-July 24, 1971
+Oct. 29, 1971
 
-Jan. 2, 1990
+Apr. 18, 1973
 
-T. Doc. 99–27.
+25 UST 309.
 
 &nbsp;
 
@@ -6934,26 +7074,6 @@ Uruguay DBAC DAug. 11, 1910 DDec. 17, 1919 D38 Stat. 1785.
 
 &nbsp;
 
-Berne (Paris)
-
-July 24, 1971
-
-Dec. 28, 1979
-
-T. Doc. 99–27.
-
-&nbsp;
-
-Pg
-
-Oct. 29, 1971
-
-Jan. 18, 1983
-
-25 UST 309.
-
-&nbsp;
-
 UCC
 
 Sept. 6, 1952
@@ -6964,6 +7084,16 @@ Apr. 12, 1993
 
 &nbsp;
 
+Berne (Paris)
+
+July 24, 1971
+
+Dec. 28, 1979
+
+T. Doc. 99–27.
+
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -6971,6 +7101,16 @@ July 24, 1971
 Apr. 12, 1993
 
 25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Jan. 18, 1983
+
+25 UST 309.
 
 &nbsp;
 
@@ -7006,16 +7146,6 @@ T. Doc. 99–27.
 
 &nbsp;
 
-Pg
-
-Oct. 29, 1971
-
-July 18, 1977
-
-25 UST 309.
-
-&nbsp;
-
 UCC rev.
 
 July 24, 1971
@@ -7024,17 +7154,17 @@ May 6, 1980
 
 25 UST 1341.
 
-Venezuela DUCC DSept. 6, 1952 DSept. 30, 1966 D6 UST 2731.
-
 &nbsp;
 
 Pg
 
 Oct. 29, 1971
 
-Nov. 18, 1982
+July 18, 1977
 
 25 UST 309.
+
+Venezuela DUCC DSept. 6, 1952 DSept. 30, 1966 D6 UST 2731.
 
 &nbsp;
 
@@ -7048,16 +7178,6 @@ T. Doc. 99–27.
 
 &nbsp;
 
-WTO
-
-Apr. 15, 1994
-
-Jan. 1, 1995
-
-33 ILM 15.
-
-&nbsp;
-
 UCC rev.
 
 July 24, 1971
@@ -7065,6 +7185,26 @@ July 24, 1971
 Feb. 11, 1997
 
 25 UST 1341.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Nov. 18, 1982
+
+25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Jan. 1, 1995
+
+33 ILM 15.
 
 Vietnam DP \\38\\ DDec. 23, 1998 DDec. 23, 1998 D63 F. Reg. 71571.
 
@@ -7082,16 +7222,6 @@ Yugoslavia \\39\\ DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
 
-UCC rev.
-
-July 24, 1971
-
-July 10, 1974
-
-25 UST 1341.
-
-&nbsp;
-
 Berne (Paris)
 
 July 24, 1971
@@ -7099,6 +7229,16 @@ July 24, 1971
 Sept. 2, 1975
 
 T. Doc. 99–27.
+
+&nbsp;
+
+UCC rev.
+
+July 24, 1971
+
+July 10, 1974
+
+25 UST 1341.
 
 &nbsp;
 
@@ -7170,7 +7310,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>12</sup> The proclamations of March 10, 1944 and May 26, 1950, regarding Great Britain and possessions, also specifically refer to Palestine (excluding Trans-Jordan). See also footnote 1.
 
-<sup>13</sup> The exchanges of notes between the United States and Italy, on the basis of which the proclamations of October 31, 1892 and May 1, 1915, were issued, were the subject of a note delivered on March 12, 1948, to the Italian Foreign Office by the American Embassy at Rome with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 44 of the Treaty of Peace with Italy. The note stated in part “that the Government of the United States of America wishes to include the reciprocal copyright arrangement between the United States and Italy effected pursuant to the exchange of notes signed at Washington October 28, 1892, and the exchanges of notes signed at Washington September 2, 1914, February 12, March 4, and March 11, 1915, among the pre-war bilateral treaties and other international agreements with Italy which the United States desires to keep in force or revive. Accordingly, it is understood that the aforementioned arrangement will continue in force and that the Government of each country will extend to the nationals of the other country treatment as favorable with respect to copyrightsas was contemplated at the time the arrangement was entered into by the two countries.” (Department of State Bulletin, April 4, 1948, p. 455).
+<sup>13</sup> The exchanges of notes between the United States and Italy, on the basis of which the proclamations of October 31, 1892 and May 1, 1915, were issued, were the subject of a note delivered on March 12, 1948, to the Italian Foreign Office by the American Embassy at Rome with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 44 of the Treaty of Peace with Italy. The note stated in part “that the Government of the United States of America wishes to include the reciprocal copyright arrangement between the United States and Italy effected pursuant to the exchange of notes signed at Washington October 28, 1892, and the exchanges of notes signed at Washington September 2, 1914, February 12, March 4, and March 11, 1915, among the pre-war bilateral treaties and other international agreements with Italy which the United States desires to keep in force or revive. Accordingly, it is understood that the aforementioned arrangement will continue in force and that the Government of each country will extend to the nationals of the other country treatment as favorable with respect to copyrights as was contemplated at the time the arrangement was entered into by the two countries.” (Department of State Bulletin, April 4, 1948, p. 455).
 
 <sup>14</sup> Treaty of Peace with Italy (Annex XV A) dated at Paris, January 10, 1947 (TIAS 1648).
 
@@ -7228,7 +7368,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 Proc. No. 3792, July 12, 1967, 32 F.R. 10341, provided:
 
-WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by thecopyright laws of the United States of America, with respect to works first produced or published outside the United States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
+WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by the copyright laws of the United States of America, with respect to works first produced or published outside the United States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
 
 WHEREAS satisfactory official assurances have been received that, since April 15, 1892, citizens of the United States have been entitled to obtain copyright in Germany for their works on substantially the same basis as German citizens without the need of complying with any formalities, provided such works secured protection in the United States; and
 

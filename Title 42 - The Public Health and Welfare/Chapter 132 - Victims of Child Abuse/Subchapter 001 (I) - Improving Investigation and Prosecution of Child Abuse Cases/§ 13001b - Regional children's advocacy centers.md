@@ -116,13 +116,13 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;&emsp;&emsp;(i) best result in developing and establishing multidisciplinary programs that respond to child abuse by assisting, training, and teaching community agencies and professionals called upon to respond to child abuse cases;
 
-&emsp;&emsp;&emsp;(ii) assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse; and
+&emsp;&emsp;&emsp;(ii) assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse;
 
-&emsp;&emsp;&emsp;(iii) carry out the objectives developed by the Board <sup>1</sup> under subsection (e)(2)(A) of this section;
+&emsp;&emsp;&emsp;(iii) carry out the objectives developed by the board under subsection (e)(2)(A) of this section;
 
-&emsp;&emsp;(C) <sup>2</sup> to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
+&emsp;&emsp;&emsp;(iv) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
 
-&emsp;&emsp;(D) <sup>2</sup> otherwise best carry out the purposes of this section.
+&emsp;&emsp;&emsp;(v) otherwise best carry out the purposes of this section.
 
 #### (5) Funding of program
 
@@ -174,13 +174,13 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;&emsp;&emsp;(III) shall have members appointed for a term not to exceed 3 years.
 
-&emsp;&emsp;(ii) Members of the Board <sup>3</sup> may be reappointed for successive terms.
+&emsp;&emsp;(ii) Members of the board may be reappointed for successive terms.
 
 #### (2) Review and recommendations
 
 #### (A) Objectives
 
-&emsp;&emsp;Not later than 180 days after November 4, 1992, and annually thereafter, the Board <sup>3</sup> shall develop and submit to the Administrator and the Director objectives for the implementation of the children's advocacy program activities described in subsection (b) of this section.
+&emsp;&emsp;Not later than 180 days after November 4, 1992, and annually thereafter, the board shall develop and submit to the Administrator and the Director objectives for the implementation of the children's advocacy program activities described in subsection (b) of this section.
 
 #### (B) Review
 
@@ -192,17 +192,23 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (3) Rules and regulations
 
-&emsp;The Board <sup>3</sup> shall promulgate such rules and regulations as it deems necessary to carry out its duties under this section.
+&emsp;The board shall promulgate such rules and regulations as it deems necessary to carry out its duties under this section.
 
 #### (f) Reporting
 
 The Attorney General and the Secretary of Health and Human Services shall submit to Congress, by March 1 of each year, a detailed review of the progress of the regional children's advocacy program activities.
 
-(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030.)
+(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030; amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667.)
 
 #### Prior Provisions
 
 A prior section 213 of Pub. L. 101–647 was renumbered section 214A and is classified to section 13003 of this title.
+
+#### Amendments
+
+2003—Subsec. (c)(4). Pub. L. 108–21, §381(a)(1), struck out “and” at end of cl. (ii) of subpar. (B), substituted “board” for “Board” in cl. (iii) of subpar. (B), and redesignated subpars. (C) and (D) as cls. (iv) and (v), respectively, of subpar. (B).
+
+Subsec. (e)(1)(B)(ii), (2)(A), (3). Pub. L. 108–21, §381(a)(2), substituted “board” for “Board”.
 
 #### Termination of Advisory Boards
 
@@ -211,10 +217,4 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 13001a, 13002, 13004 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Subpars. (C) and (D) probably should be cls. (iv) and (v), respectively, of subpar. (B).</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

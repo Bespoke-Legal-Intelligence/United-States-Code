@@ -16,7 +16,7 @@ The Secretary may enter into such contracts, agreements, and financial undertaki
 
 #### (d) Investigations and analysis of data; publication and distribution of reports
 
-The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use of the data and information to be acquired as a result of this section.
+The Secretary may make such investigations and analyses of data, and publish and distribute such reports, as he determines to be necessary or desirable to assure the most beneficial use ofthe data and information to be acquired as a result of this section.
 
 #### (e) Entitlement to insurance benefits
 

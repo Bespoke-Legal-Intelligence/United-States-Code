@@ -70,7 +70,7 @@ As a condition of receiving relief under this section, the Secretary may require
 
 &emsp;A State Director, in the case of programs administered by the State Director, and the State Conservationist, in the case of programs administered by the State Conservationist, may grant relief to a participant in accordance with subsections (b) through (d) of this section if—
 
-&emsp;&emsp;(A) the amount of loans, payments, and benefits for which relief will be provided tothe participant under this subsection is less than $20,000;
+&emsp;&emsp;(A) the amount of loans, payments, and benefits for which relief will be provided to the participant under this subsection is less than $20,000;
 
 &emsp;&emsp;(B) the total amount of loans, payments, and benefits for which relief has been previously provided to the participant under this subsection is not more than $5,000; and
 

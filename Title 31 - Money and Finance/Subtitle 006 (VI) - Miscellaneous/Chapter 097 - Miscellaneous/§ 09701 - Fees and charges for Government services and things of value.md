@@ -20,7 +20,7 @@
 
 &emsp;(1) prohibiting the determination and collection of charges and the disposition of those charges; and
 
-&emsp;(2) prescribing bases for determining charges, but a charge may be redetermined under this section consistent with the prescribed bases.
+&emsp;(2) prescribing bases for determining charges, but a charge may be redeterminedunder this section consistent with the prescribed bases.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1051.)
 

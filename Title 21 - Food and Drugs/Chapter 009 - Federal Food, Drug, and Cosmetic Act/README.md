@@ -36,7 +36,8 @@
 | (c) | Exceptions in certain cases of good faith, etc. |
 | (d) | Exceptions involving misbranded food. |
 | (e) | Prohibited distribution of human growth hormone. |
-| (f) | Violations related to devices. |
+| (f) | Redesignated (g) |
+| (g) | Violations related to devices. |
 | [333a.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000333a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XIX%2C%20%C2%A71905%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204853.md) | Repealed. |
 | [334\.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000334%20-%20Seizure.md) | Seizure. |
 | (a) | Grounds and jurisdiction. |
@@ -187,7 +188,7 @@
 | (a) | In general. |
 | (b) | Petition. |
 | (c) | “New dietary ingredient” defined. |
-| [350c.](Subchapter%20004%20%28IV%29%20-%20Food/350c.%20Maintenance%20and%20inspection%20of%20records.md) | Maintenance and inspection of records. |
+| [350c.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350c%20-%20Maintenance%20and%20inspection%20of%20records.md) | Maintenance and inspection of records. |
 | (a) | Records inspection. |
 | (b) | Regulations concerning recordkeeping. |
 | (c) | Protection of sensitive information. |
@@ -279,7 +280,7 @@
 | (e) | Delay of effective date for certain application. |
 | (f) | Notice of determinations on studies requirement. |
 | (g) | Limitations. |
-| (h) | Relationship to regulations. |
+| (h) | Relationship to pediatric research requirements. |
 | (i) | Labeling supplements. |
 | (j) | Dissemination of pediatric information. |
 | (k) | Clarification of interaction of market exclusivity under this section and market exclusivity awarded to an applicant for approval of a drug under section 355(j) of this title. |
@@ -289,6 +290,15 @@
 | [355b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355b%20-%20Adverse-event%20reporting.md) | Adverse-event reporting. |
 | (a) | Toll-free number in labeling. |
 | (b) | Drugs with pediatric market exclusivity. |
+| [355c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355c%20-%20Research%20into%20pediatric%20uses%20for%20drugs%20and%20biological%20products.md) | Research into pediatric uses for drugs and biological products. |
+| (a) | New drugs and biological products. |
+| (b) | Marketed drugs and biological products. |
+| (c) | Meaningful therapeutic benefit. |
+| (d) | Submission of assessments. |
+| (e) | Meetings. |
+| (f) | Scope of authority. |
+| (g) | Orphan drugs. |
+| (h) | Integration with other pediatric studies. |
 | [356\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356%20-%20Fast%20track%20products.md) | Fast track products. |
 | (a) | Designation of drug as fast track product. |
 | (b) | Approval of application for fast track product. |
@@ -559,6 +569,19 @@
 | (a) | Request. |
 | (b) | Statement. |
 | (c) | Inaction of Secretary. |
+| 360bbb–3. | Authorization for medical products for use in emergencies. |
+| (a) | In general. |
+| (b) | Declaration of emergency. |
+| (c) | Criteria for issuance of authorization. |
+| (d) | Scope of authorization. |
+| (e) | Conditions of authorization. |
+| (f) | Duration of authorization. |
+| (g) | Revocation of authorization. |
+| (h) | Publication; confidential information. |
+| (i) | Actions committed to agency discretion. |
+| (j) | Rules of construction. |
+| (k) | Relation to other provisions. |
+| (<i>l</i>) | Option to carry out authorized activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -694,6 +717,26 @@ I74subpart 1—freedom of information fees
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### subpart 4—fees relating to animal drugs
+
+|  |  |
+| :--- | ---: |
+| 379j–11. | Definitions. |
+| 379j–12. | Authority to assess and use animal drug fees. |
+| (a) | Types of fees. |
+| (b) | Fee amounts. |
+| (c) | Adjustments. |
+| (d) | Fee waiver or reduction. |
+| (e) | Effect of failure to pay fees. |
+| (f) | Assessment of fees. |
+| (g) | Crediting and availability of fees. |
+| (h) | Collection of unpaid fees. |
+| (i) | Written requests for waivers, reductions, and refunds. |
+| (j) | Construction. |
+| (k) | Abbreviated new animal drug applications. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part D—Information and Education
 
 |  |  |
@@ -775,20 +818,20 @@ I74subpart 1—freedom of information fees
 | (a) | Establishment. |
 | (b) | Agreements with foreign countries. |
 | (c) | Harmonizing regulatory requirements. |
-| [384\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384%20-%20Importation%20of%20covered%20products.md) | Importation of covered products. |
-| (a) | Regulations. |
-| (b) | Limitation. |
-| (c) | Records. |
-| (d) | Importation. |
+| [384\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000384%20-%20Importation%20of%20prescription%20drugs.md) | Importation of prescription drugs. |
+| (a) | Definitions. |
+| (b) | Regulations. |
+| (c) | Limitation. |
+| (d) | Information and records. |
 | (e) | Testing. |
-| (f) | Country limitation. |
-| (g) | Suspension of importations. |
-| (h) | Prohibited agreements. |
-| (i) | Studies; reports. |
-| (j) | Construction. |
-| (k) | Definitions. |
-| (<i>l</i>) | Conditions. |
-| (m) | Sunset. |
+| (f) | Registration of foreign sellers. |
+| (g) | Suspension of importation. |
+| (h) | Approved labeling. |
+| (i) | Charitable contributions. |
+| (j) | Waiver authority for importation by individuals. |
+| (k) | Construction. |
+| (<i>l</i>) | Effectiveness of section. |
+| (m) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -833,7 +876,7 @@ I74subpart 1—freedom of information fees
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 321d, 355b, 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653, 8401; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 238q, 262, 262a, 284m, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
+This chapter is referred to in sections 321d, 355b, 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653, 8401; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 238q, 262, 262a, 284m, 299b–7, 300aa–22, 300aa–23, 1395w–3, 1395w–3b, 1396r–8, 1786, 3512, 7671.
 
 
 ---

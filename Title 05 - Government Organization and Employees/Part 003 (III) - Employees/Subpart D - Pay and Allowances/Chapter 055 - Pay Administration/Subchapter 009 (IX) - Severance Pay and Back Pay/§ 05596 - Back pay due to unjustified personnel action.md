@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(i) annual leave restored under this paragraph which is in excess of the maximum leave accumulation permitted by law shall be credited to a separate leave account for the employee and shall be available for use by the employee within the time limits prescribed by regulations of the Office of Personnel Management, and
 
-&emsp;&emsp;(ii) annual leave credited under clause (i) of this subparagraph but unused and stillavailable to the employee under regulations prescribed by the Office shall be included in the lump-sum payment under section 5551 or 5552(1) of this title but may not be retained to the credit of the employee under section 5552(2) of this title.
+&emsp;&emsp;(ii) annual leave credited under clause (i) of this subparagraph but unused and still available to the employee under regulations prescribed by the Office shall be included in the lump-sum payment under section 5551 or 5552(1) of this title but may not be retained to the credit of the employee under section 5552(2) of this title.
 
 (2)(A) An amount payable under paragraph (1)(A)(i) of this subsection shall be payable with interest.
 
@@ -46,7 +46,7 @@
 
 (4) The pay, allowances, or differentials granted under this section for the period for which an unjustified or unwarranted personnel action was in effect shall not exceed that authorized by the applicable law, rule, regulations, or collective bargaining agreement under which the unjustified or unwarranted personnel action is found, except that in no case may pay, allowances, or differentials be granted under this section for a period beginning more than 6 years before the date of the filing of a timely appeal or, absent such filing, the date of the administrative determination.
 
-(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of the Foreign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
+(5) For the purpose of this subsection, “grievance” and “collective bargaining agreement” have the meanings set forth in section 7103 of this title and (with respect to members of theForeign Service) in sections 1101 and 1002 of the Foreign Service Act of 1980, “unfair labor practice” means an unfair labor practice described in section 7116 of this title and (with respect to members of the Foreign Service) in section 1015 of the Foreign Service Act of 1980, and “personnel action” includes the omission or failure to take an action or confer a benefit.
 
 (c) The Office of Personnel Management shall prescribe regulations to carry out this section. However, the regulations are not applicable to the Tennessee Valley Authority and its employees, or to the agencies specified in subsection (a)(2) of this section.
 
@@ -136,7 +136,7 @@ Method of computing interest.—The amount of interest payable under this paragr
 
 &emsp;“(C)
 
-Source.—An amount payable under this paragraph shall be paid from the appropriation made by section 1304 of title 31, United States Code, notwithstanding section 5596(b)(2)(C) of title 5, United States Code (as amended by this section) or any other provision of law.
+Source.—An amount payable under this paragraph shall be paid from the appropriation made bysection 1304 of title 31, United States Code, notwithstanding section 5596(b)(2)(C) of title 5, United States Code (as amended by this section) or any other provision of law.
 
 &emsp;“(D)
 

@@ -28,7 +28,7 @@ The Registry shall—
 
 &emsp;(6) provide case management services for any potential donor of bone marrow to whom the Registry has provided a notice that the potential donor may be suitably matched to a particular patient (which services shall be provided through a mechanism other than the system of patient advocacy under subsection (d) of this section), and conduct surveys of donors and potential donors to determine the extent of satisfaction with such services and to identify ways in which the services can be improved;
 
-&emsp;(7) with respect to searches for unrelated donors of bone marrow that are conducted through the system under paragraph (1), collect and analyze and publish data on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached; the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances; and comparisons of transplant centers regardingsearch and other costs that prior to transplantation are charged to patients by transplant centers; and
+&emsp;(7) with respect to searches for unrelated donors of bone marrow that are conducted through the system under paragraph (1), collect and analyze and publish data on the number and percentage of patients at each of the various stages of the search process, including data regarding the furthest stage reached; the number and percentage of patients who are unable to complete the search process, and the reasons underlying such circumstances; and comparisons of transplant centers regarding search and other costs that prior to transplantation are charged to patients by transplant centers; and
 
 &emsp;(8) support studies and demonstration projects for the purpose of increasing the number of individuals, especially minorities, who are willing to be marrow donors.
 
@@ -100,7 +100,7 @@ The Registry shall—
 
 &emsp;&emsp;&emsp;(v) Such other information as the Registry determines to be appropriate.
 
-&emsp;&emsp;(G) The Office shall conduct surveys of patients (or family members, physicians, orother individuals acting on behalf of patients) to determine the extent of satisfaction with the system for patient advocacy under this subsection, and to identify ways in which the system can be improved.
+&emsp;&emsp;(G) The Office shall conduct surveys of patients (or family members, physicians, or other individuals acting on behalf of patients) to determine the extent of satisfaction with the system for patient advocacy under this subsection, and to identify ways in which the system can be improved.
 
 #### (3) Case management
 
@@ -168,13 +168,13 @@ Any person who discloses the content of any record referred to in subsection (e)
 
 #### (<i>l</i>) Annual report regarding pretransplant costs
 
-The Registry shall annually submit to the Secretary the data collected under subsection (b)(7) of this section on comparisons of transplant centers regarding search and other costs that prior to transplantation are charged to patients by transplant centers. The data shall besubmitted to the Secretary through inclusion in the annual report required in section 274<i>l</i>(c) of this title.
+The Registry shall annually submit to the Secretary the data collected under subsection (b)(7) of this section on comparisons of transplant centers regarding search and other costs that prior to transplantation are charged to patients by transplant centers. The data shall be submitted to the Secretary through inclusion in the annual report required in section 274<i>l</i>(c) of this title.
 
 (July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1), (c)–(g), July 16, 1998, 112 Stat. 631–635.)
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public.”
+1998—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers,marrow transplant centers, persons with expertise in the social science, and the general public.”
 
 Subsec. (b)(2) to (8). Pub. L. 105–196, §2(b)(1), added pars. (2) to (7), redesignated former par. (7) as (8), and struck out former pars. (2) to (6) which read as follows:
 
@@ -254,7 +254,7 @@ In General.—During the period indicated pursuant to subsection (b), the Comptr
 
 &emsp;“(4) The extent to which the plan required in section 2(b)(2) of this Act \[set out as a note above\] (relating to the relationship between the Registry and donor centers) has been implemented.
 
-&emsp;“(5) The extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities have beencomplying with the standards, criteria, and procedures under subsection (e) of such section 379 \[subsec. (e) of this section\] (as redesignated by section 2(c) of this Act).
+&emsp;“(5) The extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities have been complying with the standards, criteria, and procedures under subsection (e) of such section 379 \[subsec. (e) of this section\] (as redesignated by section 2(c) of this Act).
 
 “(b)
 
@@ -262,7 +262,7 @@ Report.—A report describing the findings of the study under subsection (a) sha
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 
-Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that: “With respect to requirements for the office of patient advocacy under section 379(d) of the Public Health Service Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall ensure that, not later than 180 days after the effective date of this Act \[Oct. 1, 1998\], such office is in compliance with all requirements (established pursuant to the amendment made by section 2(d) \[amending this section\]) that are additional to the requirements that under section 379 of such Act \[this section\] were in effect with respect to patient advocacy on the day before the date of the enactment of this Act \[July 16, 1998\].”
+Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that: “With respect to requirements for the office of patient advocacy under section 379(d) of the Public Health Service Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall ensure that, not later than 180 days after the effective date of this Act \[Oct. 1, 1998\], such office is in compliance with allrequirements (established pursuant to the amendment made by section 2(d) \[amending this section\]) that are additional to the requirements that under section 379 of such Act \[this section\] were in effect with respect to patient advocacy on the day before the date of the enactment of this Act \[July 16, 1998\].”
 
 #### Section Referred to in Other Sections
 

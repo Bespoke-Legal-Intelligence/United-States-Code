@@ -38,7 +38,7 @@ Section 3245, Pub. L. 89–136, title IX, §905, as added Pub. L. 93–423, §12
 
 Section 3246, Pub. L. 89–136, title X, §1001, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853, stated the purpose of former subchapter X.
 
-Section 3246a, Pub. L. 89–136, title X, §1002, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853; amended Pub. L. 94–487, title I, §122, Oct. 12, 1976, 90 Stat. 2337, defined “eligible area”.
+Section 3246a, Pub. L. 89–136, title X, §1002, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853;amended Pub. L. 94–487, title I, §122, Oct. 12, 1976, 90 Stat. 2337, defined “eligible area”.
 
 Section 3246b, Pub. L. 89–136, title X, §1003, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853; amended Pub. L. 94–487, title I, §123, Oct. 12, 1976, 90 Stat. 2337, authorized a job opportunities program.
 

@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 107–155, §302(2), inserted “or Executive Office of the
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–155 effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of Title 2, The Congress.
 
 #### Effective Date of 1980 Amendment
 

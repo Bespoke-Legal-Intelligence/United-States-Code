@@ -56,7 +56,7 @@ Subsec. (b)(1). Pub. L. 101–637, §5(b)(1), substituted “Each year, in accor
 
 Subsec. (b)(1)(A). Pub. L. 101–637, §§5(b)(2), (3), 14(b)(6)(B), substituted “abatement activities and other response actions” for “abatement”, struck out “and the Secretary of the Department of Education” after “submit to the Administrator”, and inserted “and” after semicolon at end.
 
-Subsec. (b)(1)(B). Pub. L. 101–637, §§5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
+Subsec. (b)(1)(B). Pub. L. 101–637, §§5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section 4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
 
 Subsec. (b)(1)(C). Pub. L. 101–637, §5(b)(4), struck out subpar. (C) which read as follows: “forward to the Secretary of the Department of Education a copy of all information submitted to the Administrator in accordance with subsection (b)(3) of this section.”
 

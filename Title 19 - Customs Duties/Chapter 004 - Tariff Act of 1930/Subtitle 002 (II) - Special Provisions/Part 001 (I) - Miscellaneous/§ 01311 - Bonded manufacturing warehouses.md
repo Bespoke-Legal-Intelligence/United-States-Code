@@ -8,9 +8,9 @@ No flour, manufactured in a bonded manufacturing warehouse from wheat imported a
 
 Any materials used in the manufacture of such goods, and any packages, coverings, vessels, brands, and labels used in putting up the same may, under the regulations of the Secretary of the Treasury, be conveyed without the payment of revenue tax or duty into any bonded manufacturing warehouse, and imported goods may, under the aforesaid regulations, be transferred without the exaction of duty from any bonded warehouse into any bonded manufacturing warehouse; but this privilege shall not be held to apply to implements, machinery, or apparatus to be used in the construction or repair of any bonded manufacturing warehouse or for the prosecution of the business carried on therein.
 
-Articles or materials received into such bonded manufacturing warehouse or articles manufactured therefrom may be withdrawn or removed therefrom for direct shipment and exportation or for transportation and immediate exportation in bond to foreign countries or to the Philippine Islands under the supervision of the officer duly designated therefor by the appropriate customs officer of the port, who shall certify to such shipment and exportation, or ladening for transportation, as the case may be, describing the articles by their mark or otherwise, the quantity, the date of exportation, and the name of the vessel: <i>Provided</i>, That the by-products incident to the processes of manufacture, including waste derived from cleaning rice in bonded warehouses under the Act of March 24, 1874, ch. 65, 18 Stat. 24, in said bonded warehouses may be withdrawn for domestic consumption on the payment of duty equal to the duty which would be assessed and collected by law if such waste or by-products were imported from a foreign country: <i>Provided</i>, That all waste material may be destroyed under Government supervision. All labor performed and services rendered under these provisions shall be under the supervision of a duly designated officer of the customs and at the expense of the manufacturer.
+Articles or materials received into such bonded manufacturing warehouse or articles manufactured therefrom may be withdrawn or removed therefrom for direct shipment and exportation or for transportation and immediate exportation in bond to foreign countries or to the Philippine Islands under the supervision of the officer duly designated therefor by the appropriate customs officer of the port, who shall certify to such shipment and exportation, or ladening for transportation, as the case may be, describing the articles by their mark or otherwise, the quantity, the date of exportation, and the name of the vessel: <i>Provided</i>, That the by-products incident to the processes of manufacture, including waste derived from cleaning rice in bonded warehouses under the Act of March 24, 1874, ch. 65, 18 Stat. 24, in said bonded warehouses may be withdrawn for domestic consumption on the payment of duty equal to theduty which would be assessed and collected by law if such waste or by-products were imported from a foreign country: <i>Provided</i>, That all waste material may be destroyed under Government supervision. All labor performed and services rendered under these provisions shall be under the supervision of a duly designated officer of the customs and at the expense of the manufacturer.
 
-A careful account shall be kept by the appropriate customs officer of all merchandise delivered by him to any bonded manufacturing warehouse, and a sworn monthly return, verified by the customs officers in charge, shall be made bythe manufacturer containing a detailed statement of all imported merchandise used by him in the manufacture of exported articles.
+A careful account shall be kept by the appropriate customs officer of all merchandise delivered by him to any bonded manufacturing warehouse, and a sworn monthly return, verified by the customs officers in charge, shall be made by the manufacturer containing a detailed statement of all imported merchandise used by him in the manufacture of exported articles.
 
 Before commencing business the proprietor of any manufacturing warehouse shall file with the Secretary of the Treasury a list of all the articles intended to be manufactured in such warehouse, and state the formula of manufacture and the names and quantities of the ingredients to be used therein.
 
@@ -28,15 +28,31 @@ No article manufactured in a bonded warehouse from materials that are goods subj
 
 > If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada during the period such Agreement is in operation without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.
 
-(June 17, 1930, ch. 497, title III, §311, 46 Stat. 691; June 26, 1936, ch. 830, title IV, §404, 49 Stat. 1960; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 96–39, title VIII, §856(b), July 26, 1979, 93 Stat. 295; Pub. L. 97–446, title II, §202, Jan. 12, 1983, 96 Stat. 2350; Pub. L. 100–449, title II, §204(c)(1), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(1), Dec. 8, 1993, 107 Stat. 2088.)
+No article manufactured in a bonded warehouse from materials that are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, may be withdrawn from warehouse for exportation to Chile without assessment of a duty on the materials in their condition and quantity, and at their weight, at the time of importation into the United States. The duty shall be paid before the 61st day after the date of exportation, except that the duty may be waived or reduced by—
+
+&emsp;(1) 100 percent during the 8-year period beginning on January 1, 2004;
+
+&emsp;(2) 75 percent during the 1-year period beginning on January 1, 2012;
+
+&emsp;(3) 50 percent during the 1-year period beginning on January 1, 2013; and
+
+&emsp;(4) 25 percent during the 1-year period beginning on January 1, 2014.
+
+(June 17, 1930, ch. 497, title III, §311, 46 Stat. 691; June 26, 1936, ch. 830, title IV, §404, 49 Stat. 1960; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 96–39, title VIII, §856(b), July 26, 1979, 93 Stat. 295; Pub. L. 97–446, title II, §202, Jan. 12, 1983, 96 Stat. 2350; Pub. L. 100–449, title II, §204(c)(1), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(1), Dec. 8, 1993, 107 Stat. 2088; Pub. L. 108–77, title II, §203(b)(1), Sept. 3, 2003, 117 Stat. 925.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
-Act March 24, 1874, referred to in text, which provided that “importers’ bonded warehouses, to be used for the storage and cleansing of imported rice intended for exportation to foreign countries, may be established at any port of entry in the United States, under such rules and regulations as the Secretary of the Treasury may prescribe”, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Act March 24, 1874, referred to in text, which provided that “importers’ bonded warehouses, to be used for thestorage and cleansing of imported rice intended for exportation to foreign countries, may be established at any port of entry in the United States, under such rules and regulations as the Secretary of the Treasury may prescribe”, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 R.S. §3433, referred to in text, was amended by act Feb. 27, 1877, ch. 69, 19 Stat. 248. The provisions of R.S. §3433 as they existed prior to the amendment by act Feb. 27, 1877, were reenacted as section 10 of act Oct. 1, 1890, ch. 1244, 26 Stat. 614. Section 55 of said act Oct. 1, 1890, repealed all laws and parts of laws inconsistent therewith. The provisions of said section 10 of act Oct. 1, 1890, were incorporated into the Internal Revenue Code of 1939, as subsections (a), (b), (c), and (d)(1) of section 3177. See section 5521 of Title 26, Internal Revenue Code.
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in text, is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
+
+Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in text, is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 #### Prior Provisions
 
@@ -46,7 +62,9 @@ Section IV, M, of the act of 1913 superseded previous similar provisions of the 
 
 #### Amendments
 
-1993—Pub. L. 103–182 amended last par. generally. Prior to amendment, last par. read as follows: “No article manufactured in a bonded warehouse, except to the extent that such article is made from an article that isa drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.”
+2003—Pub. L. 108–77, §§107(c), 203(b)(1), temporarily added par. at end relating to goods subject to Chile FTA drawback. See Effective and Termination Dates of 2003 Amendment note below.
+
+1993—Pub. L. 103–182 amended last par. generally. Prior to amendment, last par. read as follows: “No article manufactured in a bonded warehouse, except to the extent that such article is made from an article that is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, may be withdrawn from such warehouse for exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without payment of a duty on such imported merchandise in its condition, and at the rate of duty in effect, at the time of importation.”
 
 1988—Pub. L. 100–449 added par. at end relating to articles withdrawn for exportation to Canada on and after Jan. 1, 1994, and to drawback-eligible goods under the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
@@ -57,6 +75,10 @@ Section IV, M, of the act of 1913 superseded previous similar provisions of the 
 1970—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector wherever appearing.
 
 1936—Act June 26, 1936, inserted par. at end relating to distilled spirits and wine.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title
 
 #### Effective Date of 1993 Amendment
 

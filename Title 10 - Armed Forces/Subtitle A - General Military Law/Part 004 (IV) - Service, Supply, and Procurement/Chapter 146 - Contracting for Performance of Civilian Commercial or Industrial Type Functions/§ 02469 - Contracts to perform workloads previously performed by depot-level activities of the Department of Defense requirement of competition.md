@@ -10,15 +10,23 @@ Requirement for Competition.—The Secretary of Defense shall ensure that the pe
 
 (b)
 
-Scope.—Subsection (a) applies to any depot-level maintenance and repair workload that has a value of not less than $3,000,000 (including the cost of labor and materials) and is being performed by a depot-level activity of the Department of Defense.
+Scope.—Except as provided in subsection (c), subsection (a) applies to any depot-level maintenance and repair workload that has a value of not less than $3,000,000 (including the cost of labor and materials) and is being performed by a depot-level activity of the Department of Defense.
 
 (c)
 
+Exception for Public-Private Partnerships.—The requirements of subsection (a) may be waived in the case of a depot-level maintenance and repair workload that is performed at a Center of Industrial and Technical Excellence designated under subsection (a) of section 2474 of this title by a public-private partnership entered into under subsection (b) of such section consisting of a depot-level activity and a private entity.
+
+(d)
+
 Inapplicability of OMB Circular A–76.—Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) does not apply to a performance change to which subsection (a) applies.
 
-(Added Pub. L. 102–484, div. A, title III, §353(a), Oct. 23, 1992, 106 Stat. 2378; amended Pub. L. 103–160, div. A, title III, §346, title XI, §1182(a)(7), Nov. 30, 1993, 107 Stat. 1625, 1771; Pub. L. 103–337, div. A, title III, §338, Oct. 5, 1994, 108 Stat. 2718; Pub. L. 104–106, div. A, title III, §311(f)(1), Feb. 10, 1996, 110 Stat. 248; Pub. L. 105–85, div. A, title III, §§355(b), 363, Nov. 18, 1997, 111 Stat. 1694, 1702; Pub. L. 106–65, div. A, title III, §334, Oct. 5, 1999, 113 Stat. 568.)
+(Added Pub. L. 102–484, div. A, title III, §353(a), Oct. 23, 1992, 106 Stat. 2378; amended Pub. L. 103–160, div. A, title III, §346, title XI, §1182(a)(7), Nov. 30, 1993, 107 Stat. 1625, 1771; Pub. L. 103–337, div. A, title III, §338, Oct. 5, 1994, 108 Stat. 2718; Pub. L. 104–106, div. A, title III, §311(f)(1), Feb. 10, 1996, 110 Stat. 248; Pub. L. 105–85, div. A, title III, §§355(b), 363, Nov. 18, 1997, 111 Stat. 1694, 1702; Pub. L. 106–65, div. A, title III, §334, Oct. 5, 1999, 113 Stat. 568; Pub. L. 108–136, div. A, title III, §333, Nov. 24, 2003, 117 Stat. 1442.)
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–136, §333(1), substituted “Except as provided in subsection (c), subsection” for “Subsection”.
+
+Subsecs. (c), (d). Pub. L. 108–136, §333(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1999—Subsec. (b). Pub. L. 106–65 inserted “(including the cost of labor and materials)” after “$3,000,000”.
 
@@ -32,7 +40,7 @@ Subsecs. (a), (b). Pub. L. 105–85, §355(b), substituted “maintenance and re
 
 “(a)
 
-Requirement for Competition.—The Secretary of Defense or the Secretary of a military departmentmay not change the performance of a depot-level maintenance workload that has a value of not less than $3,000,000 and is being performed by a depot-level activity of the Department of Defense to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload.
+Requirement for Competition.—The Secretary of Defense or the Secretary of a military department may not change the performance of a depot-level maintenance workload that has a value of not less than $3,000,000 and is being performed by a depot-level activity of the Department of Defense to performance by a contractor unless the Secretary uses competitive procedures for the selection of the contractor to perform such workload.
 
 “(b)
 

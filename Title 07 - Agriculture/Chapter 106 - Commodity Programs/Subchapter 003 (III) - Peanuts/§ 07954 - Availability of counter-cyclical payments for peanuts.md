@@ -12,7 +12,7 @@
 
 #### (3) Subsequent crop years
 
-&emsp;If counter-cyclical payments are required for any of the 2003 through 2007 crop years for peanuts, the Secretary shall make the payments to the producers on a farm to which a paymentyield and base acres for peanuts are assigned under section 7952 of this title.
+&emsp;If counter-cyclical payments are required for any of the 2003 through 2007 crop years for peanuts, the Secretary shall make the payments to the producers on a farm to which a payment yield and base acres for peanuts are assigned under section 7952 of this title.
 
 #### (b) Effective price
 
@@ -66,7 +66,7 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 
 #### (2) Availability of partial payments
 
-&emsp;If, before the end of the 12-month marketing year, the Secretary estimates that counter-cyclical payments will be required under this section for a crop year, the Secretary shall give producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) the option to receive partial payments of the counter-cyclical payment projected to be made for that crop.
+&emsp;If, before the end of the 12-month marketing year, the Secretary estimates that counter-cyclical payments will be required under thissection for a crop year, the Secretary shall give producers on a farm (or, in the case of the 2002 crop year, historic peanut producers) the option to receive partial payments of the counter-cyclical payment projected to be made for that crop.
 
 #### (3) Time for partial payments
 
@@ -116,7 +116,7 @@ If counter-cyclical payments are required to be paid for any of the 2003 through
 
 #### (i) First partial payment
 
-&emsp;&emsp;&emsp;For each of the 2003 through 2006 crop years, the first partial payment under paragraph (3) to the producers on a farmmay not exceed 35 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
+&emsp;&emsp;&emsp;For each of the 2003 through 2006 crop years, the first partial payment under paragraph (3) to the producers on a farm may not exceed 35 percent of the projected counter-cyclical payment for the crop year, as determined by the Secretary.
 
 #### (ii) Second partial payment
 

@@ -18,7 +18,7 @@ Cancellation and Rejection.—(1) On the initiative of the Secretary of Transpor
 
 &emsp;(E) the need of the air carrier and foreign air carrier for revenue sufficient to enable the air carrier and foreign air carrier, under honest, economical, and efficient management, to provide adequate and efficient air carrier and foreign air carrier transportation;
 
-&emsp;(F) whether the price will be predatory or tend to monopolize competition among air carriers and foreign air carriers in foreign air transportation;
+&emsp;(F) whether the price will be predatory or tend to monopolize competition among aircarriers and foreign air carriers in foreign air transportation;
 
 &emsp;(G) reasonably estimated or foreseeable future costs and revenues for the air carrier or foreign air carrier for a reasonably limited future period during which the price would be in effect; and
 
@@ -68,7 +68,7 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, “standard foreign fa
 
 &emsp;(ii) for a class of fares established after October 1, 1979, the fare between 2 places in effect on the effective date of the establishment of the new class.
 
-(B) At least once every 60 days for fuel costs, and at least once every 180 days for other costs, the Secretary shall adjust the standard foreign fare level for the particular foreign air transportation to which the standard foreign fare level applies by increasing or decreasing that level by the percentage change from the last previous period in the actual operating cost for each available seat-mile. In adjusting a standard foreign fare level, the Secretary may not make an adjustment to costs actually incurred. In establishing a standard foreign fare level and making adjustments in the level under this paragraph, the Secretary may use all relevant or appropriate information reasonably available to the Secretary.
+(B) At least once every 60 days for fuel costs, and at least once every 180 days for other costs, the Secretary shall adjust the standard foreign fare level for the particular foreign air transportation to which the standard foreign fare level applies by increasing or decreasing that level by the percentage change from the last previous period in the actual operating cost for each available seat-mile. In adjusting a standard foreign fare level, the Secretary may not make an adjustment to costs actually incurred. In establishing a standard foreign fare level and making adjustments in the level under this paragraph,the Secretary may use all relevant or appropriate information reasonably available to the Secretary.
 
 (2) The Secretary may not decide that a proposed fare for foreign air transportation is unreasonable on the basis that the fare is too low or too high if the proposed fare is neither more than 5 percent higher nor 50 percent lower than the standard foreign fare level for the same or essentially similar class of transportation. The Secretary by regulation may increase the 50 percent specified in this paragraph.
 
@@ -246,7 +246,7 @@ In subsection (g), the words “express” and “now . . . or hereafter issue
 
 #### References in Text
 
-Section 1002(j)(8) of the Federal Aviation Act of 1958, referred to in subsec. (e)(1)(A)(i), is section 1002(j)(8) ofPub. L. 85–726, which was classified to section 1482(j)(8) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Section 1002(j)(8) of the Federal Aviation Act of 1958, referred to in subsec. (e)(1)(A)(i), is section 1002(j)(8) of Pub. L. 85–726, which was classified to section 1482(j)(8) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
 #### Section Referred to in Other Sections
 

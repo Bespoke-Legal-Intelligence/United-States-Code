@@ -2,7 +2,7 @@
 
 The provisions of sections 668aa to 668cc–6, which, pursuant to section 12(d) of Pub. L. 91–135, Dec. 5, 1969, 83 Stat. 283, were known as the “Endangered Species Conservation Act of 1969”, are covered by section 1531 et seq. of this title.
 
-Section 668aa, Pub. L. 89–669, §1, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, §12(a), (e), Dec. 5, 1969, 83 Stat. 282,283, set out the Congressional findings, declaration of policy, and statement of purposes in seeking the protection of endangered species of fish and wildlife.
+Section 668aa, Pub. L. 89–669, §1, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, §12(a), (e), Dec. 5, 1969, 83 Stat. 282, 283, set out the Congressional findings, declaration of policy, and statement of purposes in seeking the protection of endangered species of fish and wildlife.
 
 Section 668bb, Pub. L. 89–669, §2, Oct. 15, 1966, 80 Stat. 926; Pub. L. 91–135, §12(b), (c), Dec. 5, 1969, 83 Stat. 282, set out the powers and duties of the Secretary of the Interior in carrying out the mandate of the Endangered Species Conservation Act of 1969.
 

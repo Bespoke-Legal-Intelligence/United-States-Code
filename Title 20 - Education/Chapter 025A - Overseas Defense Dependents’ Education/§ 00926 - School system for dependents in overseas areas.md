@@ -48,5 +48,5 @@ Subsec. (c)(1). Pub. L. 105–261, §561(k), substituted “during the period be
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 

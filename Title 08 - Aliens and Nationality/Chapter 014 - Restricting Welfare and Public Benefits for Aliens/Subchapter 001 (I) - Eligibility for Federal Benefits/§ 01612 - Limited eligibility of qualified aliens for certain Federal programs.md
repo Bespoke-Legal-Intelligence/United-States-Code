@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(v) an alien is admitted to the United States as an Amerasian immigrant pursuant to section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (as contained in section 101(e) of Public Law 100–202 and amended by the 9th proviso under
 
-migration and refugee assistancein title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
+migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
 
 #### (B) Certain permanent resident aliens
 
@@ -56,7 +56,7 @@ migration and refugee assistancein title II of the Foreign Operations, Export Fi
 
 #### (III) Grandfather provision
 
-&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the redetermination under subclause (I), shall only apply with respect to the benefits of an individual described in subclause (I) for months beginning on or after September 30, 1998.
+&emsp;&emsp;&emsp;&emsp;The provisions of this subsection and the redetermination under subclause (I),shall only apply with respect to the benefits of an individual described in subclause (I) for months beginning on or after September 30, 1998.
 
 #### (IV) Notice
 
@@ -118,9 +118,7 @@ migration and refugee assistancein title II of the Foreign Operations, Export Fi
 
 #### (J) Food stamp exception for certain children
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual
-
-who is under 18 years of age.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who is under 18 years of age.
 
 #### (K) Food stamp exception for certain Hmong and Highland Laotians
 
@@ -138,7 +136,7 @@ who is under 18 years of age.
 
 #### (L) Food stamp exception for certain qualified aliens
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (3) “Specified Federal program” defined
 
@@ -208,7 +206,7 @@ who is under 18 years of age.
 
 &emsp;&emsp;&emsp;(ii) on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-&emsp;&emsp;&emsp;(iii) the spouse or unmarried dependent child of an individual described in clause (i) or (ii) or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
+&emsp;&emsp;&emsp;(iii) the spouse or unmarried dependent child of an individual described in clause (i) or (ii) or the unremarried survivingspouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
 #### (D) Transition for those currently receiving benefits
 
@@ -242,7 +240,7 @@ who is under 18 years of age.
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
@@ -278,7 +276,7 @@ Subsec. (a)(2)(J). Pub. L. 107–171, §4401(b)(1), substituted “who is under 
 
 Subsec. (a)(2)(L). Pub. L. 107–171, §4401(c)(1), added subpar. (L).
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
+1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins,and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
 Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
@@ -372,7 +370,7 @@ Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided tha
 
 #### Effective Date of 1997 Amendments
 
-Section 5308 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Section 5308 of title V of Pub. L. 105–33 provided that: “Except as otherwise provided, the amendments madeby this subtitle \[subtitle D (§§5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title\] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

@@ -44,7 +44,7 @@ Priority consideration for certain projects.—In selecting projects to fund und
 
 &emsp;(4)
 
-Period of availability of discretionary funds.—Sums made available pursuant to this subsection shall remain available until expended.
+Period of availability of discretionary funds.—Sums made available pursuant to thissubsection shall remain available until expended.
 
 (d)
 
@@ -52,7 +52,7 @@ Effect of Release of Funds.—Any Federal-aid highway funds released by the fina
 
 (e) <sup>1</sup> Funds made available to the State of Alaska and the Commonwealth of Puerto Rico under this title may be expended for construction of access and development roads that will serve resource development, recreational, residential, commercial, industrial, or other like purposes.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub.L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 897; Pub. L. 89–574, §7(a), Sept. 13, 1966, 80 Stat. 768; Pub. L. 94–280, title I, §117(a), May 5, 1976, 90 Stat. 436; Pub. L. 95–599, title I, §115(a), Nov. 6, 1978, 92 Stat. 2697; Pub. L. 96–106, §5(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §115, Jan. 6, 1983, 96 Stat. 2107; Pub. L. 100–17, title I, §§114(a)–(c), (e)(2)–(4), 115, Apr. 2, 1987, 101 Stat. 150–153; Pub. L. 102–240, title I, §1020, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 102–388, title IV, §409, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1106(c)(1)(B), 1107(b), 1226(b), June 9, 1998, 112 Stat. 136, 137; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837.)
 
 #### References in Text
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 100–17, §114(b), (e)(4), inserted heading, designated ex
 
 Subsec. (f). Pub. L. 100–17, §115, inserted “and the Commonwealth of Puerto Rico” after “the State of Alaska”.
 
-1983—Subsec. (b). Pub. L. 97–424, §115(a), designated existing provisions as pars. (1) through (4), in par. (2) as so designated, substituted “for projects on the Interstate System (other than projects for which sums are apportioned under section 104(b)(5)(B)) in accordance with the following priorities: First, for high cost projects which directly contribute to the completion of an Interstate segment which is not open to traffic; and second, for projects of high cost in relation to a State's apportionment. Sums may only be made available under this paragraph in any State” for “to any other State applying for such funds for the Interstate System,” after “available by the Secretary”, struck out former cl. (1), which had required readiness to obligate funds within one year of the date the funds are made available, redesignated former cls. (2) and (3) as (A) and (B), respectively; and in par. (3) as so designated, struck out “and any amounts so apportioned remaining unexpended at the end of such period shall lapse” after “such sums are authorized”, inserted provision relating to the disposition of funds not obligated within the prescribed time period, and inserted further provision that sums made available under this paragraph shall remain available until expended.
+1983—Subsec. (b). Pub. L. 97–424, §115(a), designated existing provisions as pars. (1) through (4), in par. (2) as so designated, substituted “for projects on the Interstate System (other than projects for which sums are apportioned under section 104(b)(5)(B)) in accordance with the following priorities: First, for high cost projects which directly contribute to the completion of an Interstate segment which is not open to traffic; andsecond, for projects of high cost in relation to a State's apportionment. Sums may only be made available under this paragraph in any State” for “to any other State applying for such funds for the Interstate System,” after “available by the Secretary”, struck out former cl. (1), which had required readiness to obligate funds within one year of the date the funds are made available, redesignated former cls. (2) and (3) as (A) and (B), respectively; and in par. (3) as so designated, struck out “and any amounts so apportioned remaining unexpended at the end of such period shall lapse” after “such sums are authorized”, inserted provision relating to the disposition of funds not obligated within the prescribed time period, and inserted further provision that sums made available under this paragraph shall remain available until expended.
 
 Subsecs. (c) to (f). Pub. L. 97–424, §115(b), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 

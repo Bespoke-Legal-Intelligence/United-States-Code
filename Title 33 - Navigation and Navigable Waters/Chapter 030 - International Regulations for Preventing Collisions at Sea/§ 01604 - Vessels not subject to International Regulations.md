@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–591 substituted provision providing that the International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States for provisions that had made specific reference to harbors, rivers, and other inland waters of the United States, as defined in section 154 of this title, to the Great Lakes of North America and their connecting and tributary waters, asdefined in section 241 of this title, and to the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, as defined in section 301 of this title.
+1980—Subsec. (a). Pub. L. 96–591 substituted provision providing that the International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States for provisions thathad made specific reference to harbors, rivers, and other inland waters of the United States, as defined in section 154 of this title, to the Great Lakes of North America and their connecting and tributary waters, as defined in section 241 of this title, and to the Red River of the North and rivers emptying into the Gulf of Mexico and their tributaries, as defined in section 301 of this title.
 
 #### Effective Date of 1980 Amendment
 

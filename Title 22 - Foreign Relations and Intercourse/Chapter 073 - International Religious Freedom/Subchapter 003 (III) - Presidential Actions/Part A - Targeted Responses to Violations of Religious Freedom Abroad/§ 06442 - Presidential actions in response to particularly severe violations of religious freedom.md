@@ -92,7 +92,7 @@
 
 #### (5) Exception for ongoing, multiple, broad-based sanctions in response to human rights violations
 
-&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
+&emsp;At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title,and, as applicable, to section 6448 of this title, the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection. The sanctions so designated shall remain in effect subject to section 6449 of this title.
 
 #### (d) Statutory construction
 

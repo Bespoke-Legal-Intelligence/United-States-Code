@@ -50,7 +50,7 @@ The Secretary and the Director of Agricultural Research Services, consistent wit
 
 &emsp;(3) the epidemiology, mechanisms, and pathogenesis of antimicrobial resistance;
 
-&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy; and
+&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and theJoint Genome Institute of the Department of Energy; and
 
 &emsp;(5) other relevant research areas.
 
@@ -76,7 +76,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (3) Use of funds
 
-&emsp;An eligible entity receiving a grant under paragraph (1) shall use funds from such grantfor activities that are consistent with the factors identified by the task force under subsection (a)(3) of this section, which may include activities that—
+&emsp;An eligible entity receiving a grant under paragraph (1) shall use funds from such grant for activities that are consistent with the factors identified by the task force under subsection (a)(3) of this section, which may include activities that—
 
 &emsp;&emsp;(A) provide training to enable such entity to identify patterns of resistance rapidly and accurately;
 

@@ -166,7 +166,7 @@ No deduction shall be allowed for—
 
 #### (A) Interest expense
 
-&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
+&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayeras a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
 
 #### (B) Tax-exempt obligation
 
@@ -228,13 +228,13 @@ Par. (5). Pub. L. 98–369, §56(c), added par. (5).
 
 Pub. L. 97–34, §301(b)(2), inserted “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” after “116”.
 
-1980—Par. (2). Pub. L. 96–223 inserted “, or to purchase or carry obligations or shares, or to make deposits or other investments, the interest on which is described in section 116(c) to the extent such interest isexcludable from gross income under section 116” after “subtitle”.
+1980—Par. (2). Pub. L. 96–223 inserted “, or to purchase or carry obligations or shares, or to make deposits or other investments, the interest on which is described in section 116(c) to the extent such interest is excludable from gross income under section 116” after “subtitle”.
 
 1976—Par. (2). Pub. L. 94–455, §§1901(a)(37), 1906(b)(13)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “to purchase or carry obligations” and “or his delegate” after “Secretary”.
 
 Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
-1964—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
+1964—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by suchinstitution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
 
 #### Effective Date of 1997 Amendment
 
@@ -360,7 +360,7 @@ Conforming amendments.—The amendments made by subsection (b)(6) \[amending sec
 
 #### Effective and Termination Dates of 1980 Amendment
 
-Section 404(c) of Pub. L. 96–223, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272, provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
+Section 404(c) of Pub. L. 96–223, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272,provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
 
 #### Effective Date of 1976 Amendment
 

@@ -310,17 +310,15 @@ For purposes of this section—
 
 &emsp;&emsp;(P) Section 6324B (relating to special lien for additional estate tax).
 
+#### (j) Termination
+
+This section shall not apply to the estates of decedents dying after December 31, 2003.
+
 (Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72.)
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §521(d), (e)(3), title IX, §901, June 7, 2001, 115 Stat. 72, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, this section is temporarily amended by adding at the end the following new subsection:</i>
-
-#### <i>(j) Termination</i>
-
-<i>This section shall not apply to the estates of decedents dying after December 31, 2003.</i>
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -329,6 +327,8 @@ A prior section 2057, added Pub. L. 99–514, title XI, §1172(a), Oct. 22, 1986
 Another prior section 2057, added Pub. L. 94–455, title XX, §2007(a), Oct. 4, 1976, 90 Stat. 1890; amended Pub. L. 95–600, title VII, §702(<i>l</i>)(1), (2), Nov. 6, 1978, 92 Stat. 2934, 2935, related to bequests, etc., to certain minor children, prior to repeal by Pub. L. 97–34, title IV, §427(a), (c), Aug. 13, 1981, 95 Stat. 3181, applicable to estates of decedents dying after Dec. 31, 1981.
 
 #### Amendments
+
+2001—Subsec. (j). Pub. L. 107–16, §§521(d), 901, temporarily added subsec. (j). See Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Pub. L. 105–206, §6007(b)(1)(A), (B), renumbered section 2033A of this title as this section and substituted “interests” for “exclusion” in section catchline.
 

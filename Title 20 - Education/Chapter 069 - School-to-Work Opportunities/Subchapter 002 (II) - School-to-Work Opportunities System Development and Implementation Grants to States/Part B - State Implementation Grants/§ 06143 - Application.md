@@ -8,7 +8,7 @@
 
 #### (2) Review and comment by certain individuals and entities
 
-&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
+&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) ofthis section for the State plan described in subsection (d) of this section, then the Governor shall—
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
@@ -104,7 +104,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;&emsp;(L) the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.);
 
-&emsp;(7) describe the strategy of the State for providing training for teachers, employers, mentors, counselors, related services personnel, and others, including specialized training and technical support for the counseling and training of women, minorities, and individuals with disabilities for high-skill, high-wage careers in nontraditional employment, and provide assurances of coordination with similar trainingand technical support under other provisions of law;
+&emsp;(7) describe the strategy of the State for providing training for teachers, employers, mentors, counselors, related services personnel, and others, including specialized training and technical support for the counseling and training of women, minorities, and individuals with disabilities for high-skill, high-wage careers in nontraditional employment, and provide assurances of coordination with similar training and technical support under other provisions of law;
 
 &emsp;(8) describe how the State will adopt, develop, or assist local partnerships to adopt or develop model curricula and innovative instructional methodologies, to be used in the secondary, and where possible, the elementary grades, that integrate academic and vocational learning and promote career awareness, and that are consistent with academic and skill standards established pursuant to the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] and the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
 
@@ -142,7 +142,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(4)(I) and (d)(6)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(4)(I) and (d)(6)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L.105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Job Training Partnership Act, referred to in subsecs. (b)(4)(J) and (d)(6)(I), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Title VII of the Act was classified to subchapter VI (§1792 et seq.) of chapter 19 of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
@@ -150,7 +150,7 @@ The Goals 2000: Educate America Act, referred to in subsecs. (c) and (d)(6)(F), 
 
 The Adult Education Act, referred to in subsec. (d)(6)(A), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as amended, which was classified generally to chapter 30 (§1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6)(C), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(6)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 

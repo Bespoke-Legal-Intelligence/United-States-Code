@@ -40,7 +40,7 @@ Not later than 60 days after receiving amounts under an award under subsection (
 
 An award under subsection (a) of this section may be expended for activities that may include the following and similar activities:
 
-&emsp;(1) To develop Statewide plans (including the development of the Bioterrorism and Other Public Health Emergency Preparedness and Response Plan required under subsection (c) of this section), and community-wide plans for responding to bioterrorism and other public health emergencies that are coordinated with the capacities of applicable national, State, and local health agencies and health care providers, including poison control centers.
+&emsp;(1) To develop Statewide plans (including the development of the Bioterrorism and Other Public Health Emergency Preparedness andResponse Plan required under subsection (c) of this section), and community-wide plans for responding to bioterrorism and other public health emergencies that are coordinated with the capacities of applicable national, State, and local health agencies and health care providers, including poison control centers.
 
 &emsp;(2) To address deficiencies identified in the assessment conducted under section 247d–2 of this title.
 
@@ -144,7 +144,7 @@ For purposes of this section, the term “eligible entity” means an entity tha
 
 &emsp;&emsp;&emsp;&emsp;(II) $520,000,000 is authorized to be appropriated—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for awards under subsection (a) of this section to States, notwitstanding the eligibility conditions under subsection (b) of this section, for the purpose of enhancing the preparedness of hospitals (including children's hospitals), clinics, health centers, and primary care facilities for bioterrorism and other public health emergencies; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for awards under subsection (a) of this section to States, notwitstanding <sup>1</sup> the eligibility conditions under subsection (b) of this section, for the purpose of enhancing the preparedness of hospitals (including children's hospitals), clinics, health centers, and primary care facilities for bioterrorism and other public health emergencies; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for Federal, State, and local planning and administrative activities related to such purpose.
 
@@ -234,11 +234,13 @@ For purposes of this section, the term “eligible entity” means an entity tha
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the National Domestic Preparedness Office of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 247d–3b, 247d–7c of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “notwithstanding”.</i>
 

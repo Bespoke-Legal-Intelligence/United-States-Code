@@ -12,7 +12,7 @@ Duties.—The Board of Patent Appeals and Interferences shall, on written appeal
 
 #### Prior Provisions
 
-A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, Oct. 5, 1971, 85 Stat. 364; Pub. L.93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §2, Nov. 14, 1975, 89 Stat. 690; Pub. L. 97–247, §§7, 13, Aug. 27, 1982, 96 Stat. 320, 321; Pub. L. 102–204, §8, Dec. 10, 1991, 105 Stat. 1641, related to duties of Commissioner, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4715(a), 4731\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
+A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, Oct. 5, 1971, 85 Stat. 364; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §2, Nov. 14, 1975, 89 Stat. 690; Pub. L. 97–247, §§7, 13, Aug. 27, 1982, 96 Stat. 320, 321; Pub. L. 102–204, §8, Dec. 10, 1991, 105 Stat. 1641, related to duties of Commissioner, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4715(a), 4731\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.
 
 #### Amendments
 

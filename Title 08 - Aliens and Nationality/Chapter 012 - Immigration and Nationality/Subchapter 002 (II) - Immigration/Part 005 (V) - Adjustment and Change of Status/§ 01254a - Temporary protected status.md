@@ -76,7 +76,7 @@
 
 #### (C) Extension of designation
 
-&emsp;&emsp;If the Attorney General does not determine under subparagraph (A) that a foreign state (or part of such foreign state) no longer meets the conditions for designation under paragraph (1), the period of designation of the foreign state is extended for an additional period of 6 months (or, in the discretion of the Attorney General, a period of 12 or 18 months).
+&emsp;&emsp;If the Attorney General does not determine under subparagraph (A) that a foreignstate (or part of such foreign state) no longer meets the conditions for designation under paragraph (1), the period of designation of the foreign state is extended for an additional period of 6 months (or, in the discretion of the Attorney General, a period of 12 or 18 months).
 
 #### (4) Information concerning protected status at time of designations
 
@@ -218,7 +218,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;Paragraphs (1) and (2) are enacted—
 
-&emsp;&emsp;(A) as an exercise of the rulemaking power of the Senate and as such they are deemed a part of the rules of the Senate, but applicable only with respect to the matters described in paragraph (1) and supersede other rules of the Senate only to the extent that such paragraphs are inconsistent therewith; and
+&emsp;&emsp;(A) as an exercise of the rulemaking power of the Senate and as such they are deemed apart of the rules of the Senate, but applicable only with respect to the matters described in paragraph (1) and supersede other rules of the Senate only to the extent that such paragraphs are inconsistent therewith; and
 
 &emsp;&emsp;(B) with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner as in the case of any other rule of the Senate.
 
@@ -238,7 +238,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
 #### Amendments
 
@@ -300,7 +300,7 @@ Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals e
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Limitation on Suspension of Deportation
 
@@ -328,7 +328,7 @@ Section 304(c) of Pub. L. 102–232, as amended by Pub. L. 104–208, div. C, ti
 
 #### Effect on Executive Order 12711
 
-Section 302(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §304(a), Dec. 12, 1991, 105 Stat. 1749;Pub. L. 103–416, title II, §219(y), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding subsection (g) of section 244 of the Immigration and Nationality Act \[8 U.S.C. 1254a(g)\] (inserted by the amendment made by subsection (a)), such section shall not supersede or affect Executive Order 12711 (April 11, 1990 \[8 U.S.C. 1101 note\], relating to policy implementation with respect to nationals of the People's Republic of China).”
+Section 302(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §304(a), Dec. 12, 1991, 105 Stat. 1749; Pub. L. 103–416, title II, §219(y), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding subsection (g) of section 244 of the Immigration and Nationality Act \[8 U.S.C. 1254a(g)\] (inserted by the amendment made by subsection (a)), such section shall not supersede or affect Executive Order 12711 (April 11, 1990 \[8 U.S.C. 1101 note\], relating to policy implementation with respect to nationals of the People's Republic of China).”
 
 #### Special Temporary Protected Status for Salvadorans
 

@@ -14,7 +14,7 @@ Agreements With Certification.—
 
 &emsp;(1)
 
-In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreementshall include a plan for the State authority to participate in special investigations involving incidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
+In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreement shall include a plan for the State authority to participate in special investigations involving incidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
 
 &emsp;(2)
 

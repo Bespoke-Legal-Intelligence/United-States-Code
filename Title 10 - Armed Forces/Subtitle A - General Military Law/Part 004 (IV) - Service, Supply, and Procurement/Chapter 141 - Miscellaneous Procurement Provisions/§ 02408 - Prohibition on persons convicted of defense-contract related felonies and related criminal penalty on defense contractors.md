@@ -48,7 +48,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.”
+1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shallsubmit to Congress a report stating the reasons for the waiver.”
 
 1994—Subsec. (a)(4). Pub. L. 103–355, §4102(g), added introductory provisions and subpar. (A).
 

@@ -104,13 +104,13 @@
 
 (g)(1) Notwithstanding subsection (e) of this section, the Secretary of the Treasury may suspend the issuance of additional amounts of obligations of the United States, if such issuances could not be made without causing the public debt of the United States to exceed the public debt limit, as determined by the Secretary of the Treasury.
 
-(2) Any issuances of obligations to the Government Securities Investment Fund which, solelyby reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
+(2) Any issuances of obligations to the Government Securities Investment Fund which, solely by reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
 
 (3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then be held by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
 
 (4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 
-&emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of the public debt limit had been invested under the procedure set forth in paragraph (5), over
+&emsp;(A) amounts in the Government Securities Investment Fund that were available for investment in obligations of the United States and were not invested during such debt issuance suspension period solely by reason of thepublic debt limit had been invested under the procedure set forth in paragraph (5), over
 
 &emsp;(B) the net amount of interest actually earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period.
 
@@ -158,7 +158,7 @@ Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) a
 
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title\] shall take effect on the date of enactment of this Act \[Sept. 30, 1996\], and the Funds established under this title shall be offered for investment at the earliest practicableelection period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
+Section 101(f) \[title VI, §659 \[title I, §104\]\] provided that: “This title \[title I (§§101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title\] shall take effect on the date of enactment of this Act \[Sept. 30, 1996\], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
 
 #### Effective Date of 1990 Amendment
 

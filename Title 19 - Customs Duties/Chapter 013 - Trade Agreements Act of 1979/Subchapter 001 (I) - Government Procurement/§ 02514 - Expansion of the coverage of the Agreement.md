@@ -2,7 +2,7 @@
 
 #### (a) Overall negotiating objective
 
-The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
+The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for productsof United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) <sup>1</sup> of this title.
 
 #### (b) Sector negotiating objectives
 

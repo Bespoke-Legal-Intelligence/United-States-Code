@@ -180,7 +180,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (B) Criteria
 
-&emsp;&emsp;The standards established under subparagraph (A) shall include uniform criteria for acceptable performance under a proficiency testing program, based on the available technology and the clinical relevance of the laboratory examination or other procedure subject to such program. The criteria shall be established for all examinations and procedures and shall be uniform for each examination and procedure. The standards shall also include a system for grading proficiency testing performance to determine whether alaboratory has performed acceptably for a particular quarter and acceptably for a particular examination or procedure or category of examination or procedure over a period of successive quarters.
+&emsp;&emsp;The standards established under subparagraph (A) shall include uniform criteria for acceptable performance under a proficiency testing program, based on the available technology and the clinical relevance of the laboratory examination or other procedure subject to such program. The criteria shall be established for all examinations and procedures and shall be uniform for each examination and procedure. The standards shall also include a system for grading proficiency testing performance to determine whether a laboratory has performed acceptably for a particular quarter and acceptably for a particular examination or procedure or category of examination or procedure over a period of successive quarters.
 
 #### (C) Approved proficiency testing programs
 
@@ -234,7 +234,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted tothe Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (2) Compliance with requirements and standards
 
@@ -314,7 +314,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (1) Petition
 
-&emsp;Any laboratory which has had an intermediate sanction imposed under subsection (h) of this section or has had its certificate suspended, revoked, or limited under subsection (i) of this section may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) of this section becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;Any laboratory which has had an intermediate sanction imposed under subsection (h) of this section or has had its certificate suspended, revoked, or limited under subsection (i) of this section may, at any time within 60 days after the date the action of the Secretary under subsection (i) or (h) of this section becomes final, file a petition with the United States court of appeals for the circuit wherein the laboratory has its principal place of business for judicial review of such action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary for that purpose. As soon as practicable after receipt of the copy,the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -360,7 +360,7 @@ Any person who intentionally violates any requirement of this section or any reg
 
 On April 1, 1990 and annually thereafter, the Secretary shall compile and make available to physicians and the general public information, based on the previous calendar year, which the Secretary determines is useful in evaluating the performance of a laboratory, including—
 
-&emsp;(1) a list of laboratories which have been convicted under Federal or State laws relatingto fraud and abuse, false billings, or kickbacks,
+&emsp;(1) a list of laboratories which have been convicted under Federal or State laws relating to fraud and abuse, false billings, or kickbacks,
 
 &emsp;(2) a list of laboratories—
 
@@ -382,7 +382,7 @@ On April 1, 1990 and annually thereafter, the Secretary shall compile and make a
 
 #### (<i>o</i>) Delegation
 
-In carrying out this section, the Secretary may, pursuant to agreement, use the services or facilities of any Federal or State or local public agency or nonprofit private organization, and may pay therefor in advance or by way of reimbursement, and in such installments, as the Secretary may determine.
+In carrying out this section, the Secretary may, pursuant to agreement, use the services orfacilities of any Federal or State or local public agency or nonprofit private organization, and may pay therefor in advance or by way of reimbursement, and in such installments, as the Secretary may determine.
 
 #### (p) State laws
 
@@ -426,7 +426,7 @@ Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (
 
 #### Effective Date
 
-Section 5(b) of Pub. L. 90–174 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but notbeyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
+Section 5(b) of Pub. L. 90–174 provided that: “The amendment made by subsection (a) \[enacting this section\] shall become effective on the first day of the thirteenth month after the month \[December 1967\] in which it is enacted, except that the Secretary of Health, Education, and Welfare may postpone such effective date for such additional period as he finds necessary, but not beyond the first day of the 19th month after such month \[December 1967\] in which the amendment is enacted.”
 
 #### Studies
 
@@ -434,7 +434,7 @@ Section 4 of Pub. L. 100–578 directed Secretary to conduct studies and submit 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 263a–2, 300aa–2, 1395x, 1395aa of this title; title 35 section 287.
+This section is referred to in sections 263a–2, 300aa–2, 1395w–3, 1395x, 1395aa of this title; title 35 section 287.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “by the”.</i>
 

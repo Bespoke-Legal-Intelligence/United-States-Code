@@ -16,7 +16,7 @@ The President, in consultation with the head of each Federal agency administerin
 
 #### (3) Effect of partial benefits
 
-&emsp;Receipt of partial benefits for a major disaster or emergency shall not preclude provisionof additional Federal assistance for any part of a loss or need for which benefits have not been provided.
+&emsp;Receipt of partial benefits for a major disaster or emergency shall not preclude provision of additional Federal assistance for any part of a loss or need for which benefits have not been provided.
 
 #### (c) Recovery of duplicative benefits
 

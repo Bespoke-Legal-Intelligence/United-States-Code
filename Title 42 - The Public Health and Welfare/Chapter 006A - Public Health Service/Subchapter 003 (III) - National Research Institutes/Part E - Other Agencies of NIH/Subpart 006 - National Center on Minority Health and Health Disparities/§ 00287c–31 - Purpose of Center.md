@@ -68,7 +68,7 @@ The Director of the Center shall act as the primary Federal official with respon
 
 #### (2) Certain components of plan and budget
 
-&emsp;With respect to health disparities research activities of the agencies of the National Institutes of Health, the Director of the Center shall ensure that the plan and budget under paragraph (1) provide for—
+&emsp;With respect to health disparities research activities of the agencies of the National Institutes of Health, the Director of the Centershall ensure that the plan and budget under paragraph (1) provide for—
 
 &emsp;&emsp;(A) basic research and applied research, including research and development with respect to products;
 
@@ -172,7 +172,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Con
 
 #### Report Regarding Resources of National Institutes of Health Dedicated to Minority and Other Health Disparities Research
 
-Pub. L. 106–525, title I, §105, Nov. 22, 2000, 114 Stat. 2504, provided that: “Not later than December 1, 2003,the Director of the National Center on Minority Health and Health Disparities (established by the amendment made by section 101(a) \[enacting this section\]), after consultation with the advisory council for such Center, shall submit to the Congress, the Secretary of Health and Human Services, and the Director of the National Institutes of Health a report that provides the following:
+Pub. L. 106–525, title I, §105, Nov. 22, 2000, 114 Stat. 2504, provided that: “Not later than December 1, 2003, the Director of the National Center on Minority Health and Health Disparities (established by the amendment made by section 101(a) \[enacting this section\]), after consultation with the advisory council for such Center, shall submit to the Congress, the Secretary of Health and Human Services, and the Director of the National Institutes of Health a report that provides the following:
 
 &emsp;“(1) Recommendations for the methodology that should be used to determine the extent of the resources of the National Institutes of Health that are dedicated to minority health disparities research and other health disparities research, including determining the amount of funds that are used to conduct and support such research. With respect to such methodology, the report shall address any discrepancies between the methodology used by such Institutes as of the date of the enactment of this Act \[Nov. 22, 2000\] and the methodology used by the Institute of Medicine as of such date.
 

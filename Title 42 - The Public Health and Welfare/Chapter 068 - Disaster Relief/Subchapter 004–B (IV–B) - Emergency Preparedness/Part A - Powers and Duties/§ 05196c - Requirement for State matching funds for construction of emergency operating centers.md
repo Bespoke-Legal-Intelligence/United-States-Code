@@ -8,3 +8,7 @@ Notwithstanding any other provision of this subchapter, funds appropriated to ca
 
 Provisions similar to those in this section were contained in section 2288 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
+#### Non-Federal Cost Share
+
+Pub. L. 108–7, div. K, title IV, §419, Feb. 20, 2003, 117 Stat. 526, provided that: “Notwithstanding 42 U.S.C. 5196c, amounts provided in Public Law 107–117 \[seeTables for classification\] and subsequent appropriations Acts for the construction of emergency operations centers (or similar facilities) shall only require a 25 percent non-Federal cost share.”
+

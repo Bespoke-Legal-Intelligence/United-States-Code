@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
+&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding anyproposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
 
 #### (2) Exception
 

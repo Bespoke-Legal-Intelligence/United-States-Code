@@ -44,7 +44,7 @@
 
 #### (2) Administrative cap
 
-&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant receivedunder section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a) of this section. The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) of this section shall be considered to be administrative expenses.
+&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant received under section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a) of this section. The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) of this section shall be considered to be administrative expenses.
 
 #### (c) Charity tax credit
 

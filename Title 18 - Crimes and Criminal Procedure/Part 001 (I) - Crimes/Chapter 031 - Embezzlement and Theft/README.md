@@ -59,7 +59,7 @@ Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 #### Saint Lawrence Seaway Development Corporation
 
-Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys or property of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
+Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys orproperty of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

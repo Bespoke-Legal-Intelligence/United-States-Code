@@ -14,13 +14,15 @@
 | [180\.](%C2%A7%2000180%20-%20Service%20academy%20athletic%20programs%20review%20board.md) | Service academy athletic programs: review board. |
 | [181\.](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md) | Joint Requirements Oversight Council. |
 | [182\.](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md) | Center for Excellence in Disaster Management and Humanitarian Assistance. |
-| [183\.](%C2%A7%2000183%20-%20Advisory%20committees%20annual%20justification%20required.md) | Advisory committees: annual justification required. |
+| \[183. | Repealed.\] |
 | [184\.](%C2%A7%2000184%20-%20Department%20of%20Defense%20regional%20centers%20for%20security%20studies.md) | Department of Defense regional centers for security studies. |
 | [185\.](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md) | Financial Management Modernization Executive Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title X, §1041(a)(1)(B), Dec. 2, 2002, 116 Stat. 2645, struck out item 183 “Advisory committees: annual justification required”.
 
 2001—Pub. L. 107–107, div. A, title X, §1009(a)(2), Dec. 28, 2001, 115 Stat. 1208, added item 185.
 
@@ -57,6 +59,6 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00180 - Service academy athletic programs review board](%C2%A7%2000180%20-%20Service%20academy%20athletic%20programs%20review%20board.md)
 - [&sect; 00181 - Joint Requirements Oversight Council](%C2%A7%2000181%20-%20Joint%20Requirements%20Oversight%20Council.md)
 - [&sect; 00182 - Center for Excellence in Disaster Management and Humanitarian Assistance](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md)
-- [&sect; 00183 - Advisory committees annual justification required](%C2%A7%2000183%20-%20Advisory%20committees%20annual%20justification%20required.md)
+- [&sect; 00183 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000183%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%281%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
 - [&sect; 00184 - Department of Defense regional centers for security studies](%C2%A7%2000184%20-%20Department%20of%20Defense%20regional%20centers%20for%20security%20studies.md)
 - [&sect; 00185 - Financial Management Modernization Executive Committee](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md)

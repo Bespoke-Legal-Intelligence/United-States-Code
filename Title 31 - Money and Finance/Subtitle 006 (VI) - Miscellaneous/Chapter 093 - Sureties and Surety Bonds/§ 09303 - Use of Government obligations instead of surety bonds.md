@@ -32,7 +32,7 @@
 
 (d) When security is no longer required, a Government obligation given instead of a surety bond shall be returned to the person giving the obligation. If a person, supplying labor or material to a contractor defaulting under sections 3131 and 3133 of title 40, files with the United States Government the application and affidavit provided under section 3133(a) of title 40, the Government—
 
-&emsp;(1) may return to the contractor the Government obligation given as security (or proceeds of the Government obligation given) under sections 3131 and 3133 of title 40, only after the 90-day period for bringing a civil action under section 3133(b) of title 40; and
+&emsp;(1) may return to the contractor the Government obligation given as security (or proceeds of the Government obligation given) under sections 3131 and 3133 of title 40 only after the 90-day period for bringing a civil action under section 3133(b) of title 40; and
 
 &emsp;(2) if a civil action is brought in the 90-day period, shall hold the Government obligation or the proceeds subject to the order of the court having jurisdiction of the action.
 
@@ -52,7 +52,7 @@
 
 (f) To avoid frequent substitution of Government obligations, the Secretary may prescribe regulations limiting the effect of this section to a Government obligation maturing more than one year after the date the obligation is given as security.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 107–217, §3(h)(9), Aug. 21, 2002, 116 Stat. 1300.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1046; Pub. L. 107–217, §3(h)(9), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(f)(2), Dec. 15, 2003, 117 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -102,11 +102,17 @@ In subsection (f), the words “in order” are omitted as unnecessary. The word
 
 #### Amendments
 
+2003—Subsec. (d)(1). Pub. L. 108–178 struck out comma after “sections 3131 and 3133 of title 40”.
+
 2002—Subsec. (d). Pub. L. 107–217, §3(h)(9)(A), in introductory provisions substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(a) of title 40” for “section 3 of the Act (40 U.S.C. 270c)”.
 
 Subsec. (d)(1). Pub. L. 107–217, §3(h)(9)(B), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)” and “section 3133(b) of title 40” for “section 2 of the Act (40 U.S.C. 270b)”.
 
 Subsec. (e)(2)(A). Pub. L. 107–217, §3(h)(9)(C), substituted “sections 3131 and 3133 of title 40” for “the Act of August 24, 1935 (known as the Miller Act) (40 U.S.C. 270a–270d)”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

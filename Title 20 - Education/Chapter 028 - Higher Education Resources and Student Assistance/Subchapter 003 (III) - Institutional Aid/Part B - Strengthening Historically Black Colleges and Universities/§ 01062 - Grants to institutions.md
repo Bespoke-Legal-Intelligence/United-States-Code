@@ -24,7 +24,7 @@ From amounts available under section 1069f(a)(2) <sup>1</sup> of this title in 
 
 &emsp;(10) Establishing or enhancing a program of teacher education designed to qualify students to teach in a public elementary or secondary school in the State that shall include, as part of such program, preparation for teacher certification.
 
-&emsp;(11) Establishing community outreach programs which will encourage elementary andsecondary students to develop the academic skills and the interest to pursue postsecondary education.
+&emsp;(11) Establishing community outreach programs which will encourage elementary and secondary students to develop the academic skills and the interest to pursue postsecondary education.
 
 &emsp;(12) Other activities proposed in the application submitted pursuant to section 1063a of this title that—
 

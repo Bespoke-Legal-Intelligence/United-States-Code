@@ -24,7 +24,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;(ii) for a labor organization, or a separate segregated fund established by a labor organization, to solicit contributions to such a fund from any person other than its members and their families.
 
-(B) It shall not be unlawful under this section for a corporation, a labor organization, or a separate segregated fund established by such corporation or such labor organization, to make 2 written solicitations for contributions during the calendar year from any stockholder, executive or administrative personnel, or employee of a corporation or the families of such persons. Asolicitation under this subparagraph may be made only by mail addressed to stockholders, executive or administrative personnel, or employees at their residence and shall be so designed that the corporation, labor organization, or separate segregated fund conducting such solicitation cannot determine who makes a contribution of $50 or less as a result of such solicitation and who does not make such a contribution.
+(B) It shall not be unlawful under this section for a corporation, a labor organization, or a separate segregated fund established by such corporation or such labor organization, to make 2 written solicitations for contributions during the calendar year from any stockholder, executive or administrative personnel, or employee of a corporation or the families of such persons. A solicitation under this subparagraph may be made only by mail addressed to stockholders, executive or administrative personnel, or employees at their residence and shall be so designed that the corporation, labor organization, or separate segregated fund conducting such solicitation cannot determine who makes a contribution of $50 or less as a result of such solicitation and who does not make such a contribution.
 
 (C) This paragraph shall not prevent a membership organization, cooperative, or corporation without capital stock, or a separate segregated fund established by a membership organization, cooperative, or corporation without capital stock, from soliciting contributions to such a fund from members of such organization, cooperative, or corporation without capital stock.
 
@@ -80,7 +80,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 #### (B) Targeted communication
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “targeted communication” means an electioneering communication (as defined in section 434(f)(3) of this title) that is distributed from a television or radio broadcast stationor provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
+&emsp;&emsp;For purposes of subparagraph (A), the term “targeted communication” means an electioneering communication (as defined in section 434(f)(3) of this title) that is distributed from a television or radio broadcast station or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
 
 #### (C) Definition
 
@@ -96,13 +96,13 @@ Another prior section 316 of Pub. L. 92–225 was renumbered section 311, and is
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “‘contribution or expenditure’ includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes” for “‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “ ‘contribution or expenditure’ includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes” for “ ‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
 
 Subsec. (c). Pub. L. 107–155, §203(b), added subsec. (c).
 
 Subsec. (c)(6). Pub. L. 107–155, §204, added par. (6).
 
-1980—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted “It” for “it”.
+<b>1980</b>—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted “It” for “it”.
 
 #### Effective Date of 2002 Amendment
 

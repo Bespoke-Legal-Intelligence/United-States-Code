@@ -160,7 +160,7 @@ The term “current balance of checking and savings accounts” does not include
 
 The term “business assets” means property that is used in the operation of a trade or business, including real estate, inventories, buildings, machinery, and other equipment, patents, franchise rights, and copyrights.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
 
 #### References in Text
 
@@ -238,7 +238,7 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
-Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998,and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 

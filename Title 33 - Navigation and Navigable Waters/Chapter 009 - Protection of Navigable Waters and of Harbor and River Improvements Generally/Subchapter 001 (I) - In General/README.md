@@ -8,7 +8,7 @@
 - [&sect; 00401 - Construction of bridges, causeways, dams or dikes generally; exemptions](%C2%A7%2000401%20-%20Construction%20of%20bridges%2C%20causeways%2C%20dams%20or%20dikes%20generally%3B%20exemptions.md)
 - [&sect; 00402 - Construction of bridges, etc., over Illinois and Mississippi Canal](%C2%A7%2000402%20-%20Construction%20of%20bridges%2C%20etc.%2C%20over%20Illinois%20and%20Mississippi%20Canal.md)
 - [&sect; 00403 - Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in](%C2%A7%2000403%20-%20Obstruction%20of%20navigable%20waters%20generally%3B%20wharves%3B%20piers%2C%20etc.%3B%20excavations%20and%20filling%20in.md)
-- [&sect; 00403a - Omitted](%C2%A7%2000403a%20-%20Omitted.md)
+- [&sect; 00403a - Creation or continuance of obstruction of navigable waters](%C2%A7%2000403a%20-%20Creation%20or%20continuance%20of%20obstruction%20of%20navigable%20waters.md)
 - [&sect; 00403b - Lighting at docks and boat launching facilities](%C2%A7%2000403b%20-%20Lighting%20at%20docks%20and%20boat%20launching%20facilities.md)
 - [&sect; 00404 - Establishment of harbor lines; conditions to grants for extension of piers, etc](%C2%A7%2000404%20-%20Establishment%20of%20harbor%20lines%3B%20conditions%20to%20grants%20for%20extension%20of%20piers%2C%20etc.md)
 - [&sect; 00405 - Establishment and modification of harbor lines on Potomac and Anacostia Rivers](%C2%A7%2000405%20-%20Establishment%20and%20modification%20of%20harbor%20lines%20on%20Potomac%20and%20Anacostia%20Rivers.md)

@@ -24,7 +24,7 @@ All distilled spirits redistilled on bonded premises subsequent to production ga
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) and (d) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising subsecs. (a) and (d) of this section were contained in prior sectionsof act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 

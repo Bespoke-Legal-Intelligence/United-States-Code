@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 The term “fully insured individual” means any individual who had not less than—
 
-&emsp;(1) one quarter of coverage (whenever acquired) for each calendar year elapsing after 1950 (or, if later, the year in which he attained age 21) and before the year in which he died or (if earlier) the year in which he attained age 62, except that in no case shall an individual be a fully insured individual unless he has at least 6 quarters of coverage; or
+&emsp;(1) one quarter of coverage (whenever acquired) for each calendar year elapsing after 1950 (or, if later, the year in which he attainedage 21) and before the year in which he died or (if earlier) the year in which he attained age 62, except that in no case shall an individual be a fully insured individual unless he has at least 6 quarters of coverage; or
 
 &emsp;(2) 40 quarters of coverage; or
 
@@ -52,7 +52,7 @@ Section 104(j) of Pub. L. 92–603 provided that:
 
 “(3)(A) In the case of a man who attains or will attain age 62 in 1973, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[subsec. (a)(1) of this section and sections 423(c)(1)(A) and 416(i)(3)(A) of this title\] shall be deemed to read ‘64’.
 
-“(B) In the case of a man who attains or will attain age 62 in 1974, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act\[subsec. (a)(1) of this section and sections 423(c)(1)(A) and 416(i)(3)(A) of this title\] shall be deemed to read ‘63’.”
+“(B) In the case of a man who attains or will attain age 62 in 1974, the figure ‘65’ in sections 214(a)(1), 223(c)(1)(A), and 216(i)(3)(A) of the Social Security Act \[subsec. (a)(1) of this section and sections 423(c)(1)(A) and 416(i)(3)(A) of this title\] shall be deemed to read ‘63’.”
 
 #### Effective Date of 1961 Amendment
 

@@ -32,7 +32,7 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;&emsp;(B) a contract opportunity shall be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price; and
 
-&emsp;&emsp;(C) not later than 5 days from the date the Administration is notified of a procurementofficer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
+&emsp;&emsp;(C) not later than 5 days from the date the Administration is notified of a procurement officer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
 
 #### (3) Price evaluation preference in full and open competitions
 
@@ -96,7 +96,7 @@ The Javits-Wagner-O'Day Act, referred to in subsec. (b)(4), is act June 25, 1938
 
 #### Prior Provisions
 
-A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[36\] and is set out as a note under section 631 of this title.
+A prior section 2\[31\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 

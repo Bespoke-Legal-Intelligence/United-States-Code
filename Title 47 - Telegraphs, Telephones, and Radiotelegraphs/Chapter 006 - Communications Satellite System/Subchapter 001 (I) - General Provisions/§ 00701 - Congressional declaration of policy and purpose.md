@@ -26,6 +26,10 @@ It is not the intent of Congress by this chapter to preclude the use of the comm
 
 The Federal antitrust laws, referred to in subsec. (c), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–39, §1, June 30, 2003, 117 Stat. 835, provided that: “This Act \[amending section 763 of this title\] maybe cited as the ‘ORBIT Technical Corrections Act of 2003’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–180, §1, Mar. 17, 2000, 114 Stat. 48, provided that: “This Act \[enacting subchapter VI of this chapter\] may be cited as the ‘Open-market Reorganization for the Betterment of International Telecommunications Act’ or the ‘ORBIT Act’.”

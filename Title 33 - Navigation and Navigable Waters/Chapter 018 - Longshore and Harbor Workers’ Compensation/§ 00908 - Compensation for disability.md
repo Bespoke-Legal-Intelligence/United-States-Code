@@ -68,7 +68,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 &emsp;(A) if the employee is survived only by a widow or widower, such unpaid amount of the award shall be payable to such widow or widower,
 
-&emsp;(B) if the employee is survived only by a child or children, such unpaid amount of the award shall be paid to such child or children in equal shares,
+&emsp;(B) if the employee is survived only by a child or children, such unpaid amount of theaward shall be paid to such child or children in equal shares,
 
 &emsp;(C) if the employee is survived by a widow or widower and a child or children, such unpaid amount of the award shall be payable to such survivors in equal shares,
 
@@ -76,7 +76,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (2) Notwithstanding any other limitation in section 909 of this title, the total amount of any award for permanent partial disability pursuant to subsection (c)(1)–(20) of this section unpaid at time of death shall be payable in full in the appropriate distribution.
 
-(3) An award for disability may be made after the death of the injured employee. Except wherecompensation is payable under subsection (c)(21) of this section if there be no survivors as prescribed in this section, then the compensation payable under this subsection shall be paid to the special fund established under section 944(a) of this title.
+(3) An award for disability may be made after the death of the injured employee. Except where compensation is payable under subsection (c)(21) of this section if there be no survivors as prescribed in this section, then the compensation payable under this subsection shall be paid to the special fund established under section 944(a) of this title.
 
 (e) Temporary partial disability: In case of temporary partial disability resulting in decrease of earning capacity the compensation shall be two-thirds of the difference between the injured employee's average weekly wages before the injury and his wage-earning capacity after the injury in the same or another employment, to be paid during the continuance of such disability, but shall not be paid for a period exceeding five years.
 
@@ -96,7 +96,7 @@ Compensation for disability shall be paid to the employee as follows:
 
 (h) The wage-earning capacity of an injured employee in cases of partial disability under subsection (c)(21) of this section or under subsection (e) of this section shall be determined by his actual earnings if such actual earnings fairly and reasonably represent his wage-earning capacity: <i>Provided, however</i>, That if the employee has no actual earnings or his actual earnings do not fairly and reasonably represent his wage-earning capacity, the deputy commissioner may, in the interest of justice, fix such wage-earning capacity as shall be reasonable, having due regard to the nature of his injury, the degree of physical impairment, his usual employment, and any other factors or circumstances in the case which may affect his capacity to earn wages in his disabled condition, including the effect of disability as it may naturally extend into the future.
 
-(i)(1) Whenever the parties to any claim for compensation under this chapter, including survivors benefits, agree to a settlement, the deputy commissioner or administrative law judge shall approve the settlement within thirty days unless it is found to be inadequate or procured by duress. Such settlement may include futuremedical benefits if the parties so agree. No liability of any employer, carrier, or both for medical, disability, or death benefits shall be discharged unless the application for settlement is approved by the deputy commissioner or administrative law judge. If the parties to the settlement are represented by counsel, then agreements shall be deemed approved unless specifically disapproved within thirty days after submission for approval.
+(i)(1) Whenever the parties to any claim for compensation under this chapter, including survivors benefits, agree to a settlement, the deputy commissioner or administrative law judge shall approve the settlement within thirty days unless it is found to be inadequate or procured by duress. Such settlement may include future medical benefits if the parties so agree. No liability of any employer, carrier, or both for medical, disability, or death benefits shall be discharged unless the application for settlement is approved by the deputy commissioner or administrative law judge. If the parties to the settlement are represented by counsel, then agreements shall be deemed approved unless specifically disapproved within thirty days after submission for approval.
 
 (2) If the deputy commissioner disapproves an application for settlement under paragraph (1), the deputy commissioner shall issue a written statement within thirty days containing the reasons for disapproval. Any party to the settlement may request a hearing before an administrative law judge in the manner prescribed by this chapter. Following such hearing, the administrative law judge shall enter an order approving or rejecting the settlement.
 
@@ -150,7 +150,7 @@ Subsec. (j). Pub. L. 98–426, §8(h), added subsec. (j).
 
 1972—Subsec. (c)(20). Pub. L. 92–576, §7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
 
-Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
+Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars.\(2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
 
 &emsp;Par. (1) incorporated former introductory par. providing for payments to survivors rather than for payments “for the benefit of the persons after”; subpar. (A) incorporated former par. (1) providing for a widower rather than dependent husband;
 
@@ -164,7 +164,7 @@ Subsec. (d). Pub. L. 92–576, §5(c), in revising provisions substituted par. (
 
 &emsp;Par. (4) incorporated former par. (5), inserting provision for payment of compensation to the special fund except where payable under subsec. (c)(21) of this section.
 
-Subsec. (f)(1). Pub. L. 92–576, §9(a) added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should providecompensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in section 944 of this title. See par. (2) of this subsection.
+Subsec. (f)(1). Pub. L. 92–576, §9(a) added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should provide compensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in section 944 of this title. See par. (2) of this subsection.
 
 Subsec. (f)(2). Pub. L. 92–576, §9, incorporated proviso of first sentence and second sentence of former par. (1) in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
 

@@ -78,7 +78,7 @@ Until a majority of the voting members of the board of directors of the Corporat
 
 #### (3) Stock
 
-&emsp;The stock of the predecessor corporation issued before January 6, 1988, shall, by operation of law and without any further action by the Farm Credit Administration, the predecessorcorporation, or any court, become and be converted into stock of the Corporation established by this section.
+&emsp;The stock of the predecessor corporation issued before January 6, 1988, shall, by operation of law and without any further action by the Farm Credit Administration, the predecessor corporation, or any court, become and be converted into stock of the Corporation established by this section.
 
 #### (4) Taxation
 
@@ -122,7 +122,7 @@ Subsec. (f). Pub. L. 100–399, §203(a), added subsec. (f).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

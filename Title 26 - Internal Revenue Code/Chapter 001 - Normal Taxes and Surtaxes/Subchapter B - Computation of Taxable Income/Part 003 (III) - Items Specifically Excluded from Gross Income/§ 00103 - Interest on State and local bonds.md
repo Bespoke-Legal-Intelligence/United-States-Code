@@ -278,7 +278,7 @@ Section 1013(a)(34)(B) of Pub. L. 100–647 provided that: “Subparagraph (A) \
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except asotherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by sections 1864(b)–(e), 1865(a), 1869(a), (b), 1870, and 1871(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -411,7 +411,7 @@ Certain projects preliminarily approved before october 19, 1983, given approval.
 
 &emsp;&emsp;“(C) construction of such project began before October 19, 1983, or the substantial user was under a binding contract on such date to incur significant expenditures with respect to such project,
 
-> &emsp;such issuing authority shall allocate its share of the limitation under section 103(n) of such Code for the calendar year during which the obligations were to be issued pursuant to such resolution (or other approval) first to such project. If the amount of obligations required by all projects which meet the requirements ofthe preceding sentence exceeds the issuing authority's share of the limitation under section 103(n) of such Code, priority under the preceding sentence shall be provided first to those projects for which substantial expenditures were incurred before October 19, 1983. If any issuing authority fails to meet the requirements of this paragraph, the limitation under section 103(n) of such Code for the issuing authority for the calendar year following such failure shall be reduced by the amount of obligations with respect to which such failure occurred.
+> &emsp;such issuing authority shall allocate its share of the limitation under section 103(n) of such Code for the calendar year during which the obligations were to be issued pursuant to such resolution (or other approval) first to such project. If the amount of obligations required by all projects which meet the requirements of the preceding sentence exceeds the issuing authority's share of the limitation under section 103(n) of such Code, priority under the preceding sentence shall be provided first to those projects for which substantial expenditures were incurred before October 19, 1983. If any issuing authority fails to meet the requirements of this paragraph, the limitation under section 103(n) of such Code for the issuing authority for the calendar year following such failure shall be reduced by the amount of obligations with respect to which such failure occurred.
 
 &emsp;“(3) \[(4)\]
 
@@ -789,7 +789,7 @@ Limitations.—
 
 &emsp;“(A) In the case of a solid waste disposal facility described in paragraph (2)(A), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $65,000,000.
 
-&emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
+&emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate faceamount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
 
 &emsp;“(C) In the case of a solid waste disposal facility described in paragraph (2)(C), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $75,000,000.
 
@@ -805,7 +805,7 @@ Section 1866 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §10
 
 &emsp;“(3) the proceeds of the refunding obligation are used to redeem the refunded obligation not later than 90 days after the date of the issuance of the refunding obligation.
 
-> For purposes of the preceding sentence, the term ‘tax-exempt IDB’ means any industrial development bond (as defined in section 103(b) of the Internal Revenue Code of 1954 \[now 1986\]) the interest on which is exemptfrom tax under section 103(a) of such Code. For purposes of paragraph (1), average maturity shall be determined in accordance with subsection (b)(14)(B)(i) of such Code.”
+> For purposes of the preceding sentence, the term ‘tax-exempt IDB’ means any industrial development bond (as defined in section 103(b) of the Internal Revenue Code of 1954 \[now 1986\]) the interest on which is exempt from tax under section 103(a) of such Code. For purposes of paragraph (1), average maturity shall be determined in accordance with subsection (b)(14)(B)(i) of such Code.”
 
 \[Section 1018(m)(5) of Pub. L. 100–647 provided that: “A refunding obligation issued before July 1, 1987, shall be treated as meeting the requirement of paragraph (1) of section 1866 of the Reform Act \[Pub. L. 99–514, set out above\] if such obligation met the requirement of such paragraph as enacted by the Reform Act \[Pub. L. 99–514\].”\]
 
@@ -899,7 +899,7 @@ Certain Public Utilities.—For purposes of applying section 103(b)(3) of the In
 
 &emsp;“(2) any obligations issued after December 31, 1969, which were treated as obligations described in section 103(a) of such Code on the day on which such obligations were issued,
 
-> the term ‘exempt person’ shall include a regulated public utility having any customer service area within aState served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 (Public Law 90–364) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, and provided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting ‘and a rural electric cooperative utility’ after ‘regulated public utility’ but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
+> the term ‘exempt person’ shall include a regulated public utility having any customer service area within a State served by a public power authority which was required as a condition of a Federal Power Commission license specified by an Act of Congress enacted prior to the enactment of section 107 of the Revenue and Expenditure Control Act of 1968 (Public Law 90–364) \[June 28, 1968\] to contract to sell power to one such utility and which is authorized by State law to sell power to other such utilities, but only with respect to the purchase by any such utility and resale to its customers of any output of any electrical generation facility or any portion thereof or any use of any electrical transmission facility or any portion thereof financed by such power authority and owned by it or by such State, and provided that by agreement between such power authority and any such utility there shall be no markup in the resale price charged by such utility of that component of the resale price which represents the price paid by such utility for such output or use. The preceding sentence shall be applied by inserting ‘and a rural electric cooperative utility’ after ‘regulated public utility’ but only if not more than 1 percent of the load of the public power authority is sold to such rural electric cooperative utility.
 
 “(b)
 
@@ -1137,7 +1137,7 @@ Facilities to which paragraph (1) applies.—A facility is described in this par
 
 &emsp;&emsp;“(i) the rated capacity of the hydroelectric generating facilities at each such dam on October 18, 1979, was more than 750 megawatts,
 
-&emsp;&emsp;“(ii) the construction of the first such dam began in 1956, power at such first dam was first generatedin 1959, and full power production at such first dam began in 1961, and
+&emsp;&emsp;“(ii) the construction of the first such dam began in 1956, power at such first dam was first generated in 1959, and full power production at such first dam began in 1961, and
 
 &emsp;&emsp;“(iii) the construction of the second such dam began in 1959, power at such second dam was first generated in 1963, and full power production at such second dam began in 1964,
 

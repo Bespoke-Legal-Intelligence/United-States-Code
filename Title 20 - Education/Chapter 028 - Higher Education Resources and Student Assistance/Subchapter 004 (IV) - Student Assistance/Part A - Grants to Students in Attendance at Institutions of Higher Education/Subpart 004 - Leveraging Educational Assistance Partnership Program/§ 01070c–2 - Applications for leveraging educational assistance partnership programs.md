@@ -22,7 +22,7 @@ From a State's allotment under this subpart for any fiscal year the Secretary is
 
 &emsp;(4) provides for the selection of recipients of such grants or of such State work-study jobs on the basis of substantial financial need determined annually on the basis of criteria established by the State and approved by the Secretary, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State;
 
-&emsp;(5) provides that, effective with respect to any academic year beginning on or after October 1, 1978, all nonprofit institutions of higher education in the State are eligible to participate in the State program, except in any Statein which participation of nonprofit institutions of higher education is in violation of the constitution of the State or in any State in which participation of nonprofit institutions of higher education is in violation of a statute of the State which was enacted prior to October 1, 1978;
+&emsp;(5) provides that, effective with respect to any academic year beginning on or after October 1, 1978, all nonprofit institutions of higher education in the State are eligible to participate in the State program, except in any State in which participation of nonprofit institutions of higher education is in violation of the constitution of the State or in any State in which participation of nonprofit institutions of higher education is in violation of a statute of the State which was enacted prior to October 1, 1978;
 
 &emsp;(6) provides for the payment of the non-Federal portion of such grants or of such work-study jobs from funds supplied by such State which represent an additional expenditure for such year by such State for grants or work-study jobs for students attending institutions of higher education over the amount expended by such State for such grants or work-study jobs, if any, during the second fiscal year preceding the fiscal year in which such State initially received funds under this subpart;
 
@@ -54,7 +54,7 @@ A prior section 1070c–2, Pub. L. 89–329, title IV, §415C, as added Pub. L. 
 
 Subsec. (b)(4). Pub. L. 102–325, §404(c), inserted before semicolon at end “, except that for the purpose of collecting data to make such determination of financial need, no student or parent shall be charged a fee that is payable to an entity other than such State”.
 
-Subsec. (b)(7). Pub. L. 102–325, §404(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provides that, if the institution's allocation under this subpart is based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the institution's allocation shall be made available to such students;”.
+Subsec. (b)(7). Pub. L. 102–325, §404(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “provides that, if the institution's allocation under this subpart is based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of theinstitution's allocation shall be made available to such students;”.
 
 #### Effective Date of 1998 Amendment
 

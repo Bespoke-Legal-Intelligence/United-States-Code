@@ -102,11 +102,11 @@
 
 #### (4) Limitation
 
-&emsp;An intermittent disaster-response appointee shall not be deemed an employee of the Department of Health and Human Services for purposes other than those specifically set forth in this section.
+&emsp;An intermittent disaster-response appointee shall not be deemed an employee of the Department of Health and Human Services forpurposes other than those specifically set forth in this section.
 
 #### (f) Rule of construction regarding use of commissioned corps
 
-If the Secretary assigns commissioned officers of the Regular or Reserve Corps to serve withthe National Disaster Medical System, such assignments do not affect the terms and conditions of their appointments as commissioned officers of the Regular or Reserve Corps, respectively (including with respect to pay and allowances, retirement, benefits, rights, privileges, and immunities).
+If the Secretary assigns commissioned officers of the Regular or Reserve Corps to serve with the National Disaster Medical System, such assignments do not affect the terms and conditions of their appointments as commissioned officers of the Regular or Reserve Corps, respectively (including with respect to pay and allowances, retirement, benefits, rights, privileges, and immunities).
 
 #### (g) Definition
 

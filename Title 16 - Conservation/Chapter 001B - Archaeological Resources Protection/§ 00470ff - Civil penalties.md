@@ -2,7 +2,7 @@
 
 #### (a) Assessment by Federal land manager
 
-(1) Any person who violates any prohibition contained in an applicable regulation or permit issued under this chapter may be assessed a civil penalty by the Federal land manager concerned. No penalty may be assessed under this subsection unless such person is given notice and opportunity for a hearing with respect to suchviolation. Each violation shall be a separate offense. Any such civil penalty may be remitted or mitigated by the Federal land manager concerned.
+(1) Any person who violates any prohibition contained in an applicable regulation or permit issued under this chapter may be assessed a civil penalty by the Federal land manager concerned. No penalty may be assessed under this subsection unless such person is given notice and opportunity for a hearing with respect to such violation. Each violation shall be a separate offense. Any such civil penalty may be remitted or mitigated by the Federal land manager concerned.
 
 (2) The amount of such penalty shall be determined under regulations promulgated pursuant to this chapter, taking into account, in addition to other factors—
 
@@ -16,7 +16,7 @@
 
 #### (b) Judicial review of assessed penalties; collection of unpaid assessments
 
-(1) Any person aggrieved by an order assessing a civil penalty under subsection (a) of this section may file a petition for judicial review of such order with the United States District Court for the District of Columbia or for any other district in which such a person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date the order making such assessment was issued. The court shall hear such action on the record made before the Federal land manager and shall sustain his action if it is supported by substantial evidence on the record considered as a whole.
+(1) Any person aggrieved by an order assessing a civil penalty under subsection (a) of this section may file a petition for judicial review of such order with the United States District Court for the District of Columbia or for any other district in which such a person resides or transacts business. Such a petition may only be filed within the 30-day period beginning on the date theorder making such assessment was issued. The court shall hear such action on the record made before the Federal land manager and shall sustain his action if it is supported by substantial evidence on the record considered as a whole.
 
 (2) If any person fails to pay an assessment of a civil penalty—
 

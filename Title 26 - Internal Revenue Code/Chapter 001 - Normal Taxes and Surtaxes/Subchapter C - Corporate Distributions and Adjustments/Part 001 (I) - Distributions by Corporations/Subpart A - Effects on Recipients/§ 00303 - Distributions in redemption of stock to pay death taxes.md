@@ -38,7 +38,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (3) Relationship of shareholder to estate tax
 
-&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that the interest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
+&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that theinterest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
 
 #### (4) Additional requirements for distributions made more than 4 years after decedent's death
 
@@ -52,7 +52,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 If—
 
-&emsp;(1) a shareholder owns stock of a corporation (referred to in this subsection as “new stock”)the basis of which is determined by reference to the basis of stock of a corporation (referred to in this subsection as “old stock”),
+&emsp;(1) a shareholder owns stock of a corporation (referred to in this subsection as “new stock”) the basis of which is determined by reference to the basis of stock of a corporation (referred to in this subsection as “old stock”),
 
 &emsp;(2) the old stock was included (for Federal estate tax purposes) in determining the gross estate of a decedent, and
 

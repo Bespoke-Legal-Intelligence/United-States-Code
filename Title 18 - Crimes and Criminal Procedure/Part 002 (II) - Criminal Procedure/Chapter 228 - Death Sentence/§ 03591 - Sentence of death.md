@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) intentionally inflicted serious bodily injury that resulted in the death of the victim;
 
-&emsp;&emsp;(C) intentionally participated in an act, contemplating that the life of a person would be taken or intending that lethal force would be used in connection with a person, other than one of the participants in the offense, and the victim died as a direct result of the act; or
+&emsp;&emsp;(C) intentionally participated in an act, contemplating that the life of a personwould be taken or intending that lethal force would be used in connection with a person, other than one of the participants in the offense, and the victim died as a direct result of the act; or
 
 &emsp;&emsp;(D) intentionally and specifically engaged in an act of violence, knowing that the act created a grave risk of death to a person, other than one of the participants in the offense, such that participation in the act constituted a reckless disregard for human life and the victim died as a direct result of the act,
 

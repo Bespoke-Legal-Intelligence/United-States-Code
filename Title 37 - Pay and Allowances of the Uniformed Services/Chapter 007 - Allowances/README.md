@@ -10,6 +10,7 @@
 | [403b.](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md) | Cost-of-living allowance in the continental United States. |
 | [404\.](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md) | Travel and transportation allowances: general. |
 | [404a.](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md) | Travel and transportation allowances: temporary lodging expenses. |
+| [404b.](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20lodging%20expenses%20at%20temporary%20duty%20location%20for%20members%20on%20authorized%20leave.md) | Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave. |
 | [405\.](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20United%20States%20or%20in%20Hawaii%20or%20Alaska.md) | Travel and transportation allowances: per diem while on duty outside the United States or in Hawaii or Alaska. |
 | [405a.](%C2%A7%2000405a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md) | Travel and transportation allowances: departure allowances. |
 | [406\.](%C2%A7%2000406%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md) | Travel and transportation allowances: dependents; baggage and household effects. |
@@ -59,11 +60,13 @@
 | [433\.](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md) | Allowance for muster duty. |
 | [434\.](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
 | [435\.](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
-| [436\.](%C2%A7%2000436%20-%20Per%20diem%20allowance%20for%20lengthy%20or%20numerous%20deployments.md) | Per diem allowance for lengthy or numerous deployments. |
+| [436\.](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md) | High-deployment allowance: lengthy or numerous deployments; frequent mobilizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §541(b)(5)(B), title VI, §635(b), Nov. 24, 2003, 117 Stat. 1477, 1511, added item 404b and substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in item 436.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, §586(c)(2). See 1999 Amendment note below.
 
@@ -148,6 +151,7 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 - [&sect; 00403b - Cost-of-living allowance in the continental United States](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md)
 - [&sect; 00404 - Travel and transportation allowances general](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md)
 - [&sect; 00404a - Travel and transportation allowances temporary lodging expenses](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md)
+- [&sect; 00404b - Travel and transportation allowances lodging expenses at temporary duty location for members on authorized leave](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20lodging%20expenses%20at%20temporary%20duty%20location%20for%20members%20on%20authorized%20leave.md)
 - [&sect; 00405 - Travel and transportation allowances per diem while on duty outside the United States or in Hawaii or Alaska](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20United%20States%20or%20in%20Hawaii%20or%20Alaska.md)
 - [&sect; 00405a - Travel and transportation allowances departure allowances](%C2%A7%2000405a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md)
 - [&sect; 00406 - Travel and transportation allowances dependents; baggage and household effects](%C2%A7%2000406%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md)
@@ -192,4 +196,4 @@ This chapter is referred to in section 907 of this title; title 10 sections 1051
 - [&sect; 00433 - Allowance for muster duty](%C2%A7%2000433%20-%20Allowance%20for%20muster%20duty.md)
 - [&sect; 00434 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
 - [&sect; 00435 - Funeral honors duty allowance](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md)
-- [&sect; 00436 - Per diem allowance for lengthy or numerous deployments](%C2%A7%2000436%20-%20Per%20diem%20allowance%20for%20lengthy%20or%20numerous%20deployments.md)
+- [&sect; 00436 - High-deployment allowance lengthy or numerous deployments; frequent mobilizations](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md)

@@ -26,7 +26,7 @@ The Federal Bureau of Investigation may not disseminate information obtained pur
 
 #### (g) Rules of construction
 
-Nothing in this section shall be construed to prohibit information from being furnished by the Federal Bureau of Investigation pursuant to a subpoena or court order, in connection with ajudicial or administrative proceeding to enforce the provisions of this subchapter. Nothing in this section shall be construed to authorize or permit the withholding of information from the Congress.
+Nothing in this section shall be construed to prohibit information from being furnished bythe Federal Bureau of Investigation pursuant to a subpoena or court order, in connection with a judicial or administrative proceeding to enforce the provisions of this subchapter. Nothing in this section shall be construed to authorize or permit the withholding of information from the Congress.
 
 #### (h) Reports to Congress
 
@@ -62,11 +62,15 @@ Notwithstanding any other provision of this subchapter, the remedies and sanctio
 
 In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-(Pub. L. 90–321, title VI, §625, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426.)
+(Pub. L. 90–321, title VI, §626, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426; renumbered §626, Pub. L. 108–159, title II, §214(a)(1), Dec. 4, 2003, 117 Stat. 1980.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (g), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as the Fair Credit Reporting Act, to reflect the probable intent of Congress.
+
+#### Prior Provisions
+
+A prior section 626 of Pub. L. 90–321 was renumbered section 627 and is classified to section 1681v of this title.
 
 #### Amendments
 
@@ -76,7 +80,7 @@ This subchapter, referred to in subsec. (g), was in the original, “this Act”
 
 Subsec. (a). Pub. L. 107–56, §505(c)(1), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “Investigation, or the Director's designee” and substituted “in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary for the conduct of an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that the consumer is a foreign power or a person who is not a United States person and is an official of a foreign power, or that the consumer is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
-Subsec. (b). Pub. L. 107–56, §505(c)(2), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director's designee” and substituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
+Subsec. (b). Pub. L. 107–56, §505(c)(2), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director's designee” andsubstituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
 
 Subsec. (c). Pub. L. 107–56, §505(c)(3), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “designee of the Director” and substituted “in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring a showing in camera that the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation and there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or in clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 

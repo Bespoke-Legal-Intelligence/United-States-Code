@@ -8,11 +8,9 @@
 
 (b) Each such corporation shall submit to the Secretary an annual report providing a detailed statement of its operations, activities, and accomplishments during that year. A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit in the corporation's report to the Secretary for that year.
 
-(c) Each member of the board of directors of a corporation established under this subchapter, each employee of such a corporation, and each employee of the Department who is involved in the functions of the corporation during any year—
+(c)(1) Each member of the board of directors of a corporation established under this subchapter, each employee of such a corporation, and each employee of the Department who is involved in the functions of the corporation during any year shall be subject to Federal laws and regulations applicable to Federal employees with respect to conflicts of interest in the performance of official functions.
 
-&emsp;(1) shall be subject to Federal laws and regulations applicable to Federal employees with respect to conflicts of interest in the performance of official functions; and
-
-&emsp;(2) shall submit to the Secretary a statement signed by the executive director of the corporation certifying that each director and employee is aware of, and has complied with, such laws and regulations in the same manner as Federal employees are required to.
+(2) Each corporation established under this subchapter shall each year submit to the Secretary a statement signed by the executive director of the corporation verifying that each director and employee has certified awareness of the laws and regulations referred to in paragraph (1) and of the consequences of violations of those laws and regulations in the same manner as Federal employees are required to so certify.
 
 (d) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the corporations established under this subchapter. The report shall set forth the following information:
 
@@ -38,13 +36,15 @@
 
 &emsp;(4) The amount expended by each corporation during the year for travel conducted in conjunction with research and the amount expended for travel in conjunction with education.
 
-(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4166; renumbered §7366 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 104–262, title III, §343(c)–(e), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, §204(e), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 100–322, title II, §204(a), May 20, 1988, 102 Stat. 511, §4166; renumbered §7366 and amended Pub. L. 102–40, title IV, §§401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 104–262, title III, §343(c)–(e), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, §204(e), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–170, title IV, §402(b), Dec. 6, 2003, 117 Stat. 2062.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–170 inserted “(1)” after “(c)”, substituted “any year shall be subject” for “any year—(1) shall be subject” and “functions.” for “functions; and”, added par. (2), and struck out former par. (2) which read as follows: “shall submit to the Secretary a statement signed by the executive director of the corporation certifying that each director and employee is aware of, and has complied with, such laws and regulations in the same manner as Federal employees are required to.”
 
 2001—Subsec. (d)(2)(D). Pub. L. 107–103 made technical correction to directory language of Pub. L. 106–117, §204(e)(3). See 1999 Amendment note below.
 
@@ -82,5 +82,5 @@ Subsec. (d). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “A
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997, provided that the amendment made by section509(f) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
+Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997, provided that the amendment made by section 509(f) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
 

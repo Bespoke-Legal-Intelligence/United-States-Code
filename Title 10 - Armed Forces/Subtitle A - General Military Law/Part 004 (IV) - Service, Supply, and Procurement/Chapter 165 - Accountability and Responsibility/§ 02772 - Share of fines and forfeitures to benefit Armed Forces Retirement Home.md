@@ -32,7 +32,7 @@ Pub. L. 101–510, §1533(a)(3), inserted “and forfeitures” after “fines�
 
 Section 1533(a)(3) of Pub. L. 101–510 provided that the amendment by that section was effective Nov. 5, 1990, prior to repeal by Pub. L. 107–107, div. A, title XIV, §1409, Dec. 28, 2001, 115 Stat. 1265.
 
-Amendment by section 1533(a)(4)(A) of Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Amendment by section 1533(a)(4)(A) of Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 #### Effective Date
 
@@ -41,6 +41,10 @@ Section 342(b) of Pub. L. 101–189 provided that:
 “(1) Subsection (a) of section 2772 of such title \[10 U.S.C. 2772(a)\], as added by subsection (a), shall apply with respect to fines and forfeitures adjudged after the date of the enactment of this Act \[Nov. 29, 1989\].
 
 “(2) Subsection (b) of such section shall apply with respect to fines and forfeitures adjudged after May 31, 1990.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

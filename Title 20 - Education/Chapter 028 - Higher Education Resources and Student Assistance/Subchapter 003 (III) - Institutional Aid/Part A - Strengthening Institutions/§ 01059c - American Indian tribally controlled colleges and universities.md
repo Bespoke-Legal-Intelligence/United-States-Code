@@ -88,7 +88,7 @@ In this section:
 
 &emsp;&emsp;(A) a 5-year plan for improving the assistance provided by the Tribal College or University to Indian students, increasing the rates at which Indian secondary school students enroll in higher education, and increasing overall postsecondary retention rates for Indian students; and
 
-&emsp;&emsp;(B) such enrollment data and other information and assurances as the Secretary may require to demonstrate compliance with paragraph (1).
+&emsp;&emsp;(B) such enrollment data and other information and assurances as the Secretary mayrequire to demonstrate compliance with paragraph (1).
 
 #### (3) Special rules
 

@@ -12,7 +12,7 @@ No person shall sell, or offer for sale, colored oleomargarine or colored margar
 
 &emsp;(2) the net weight of the contents of any package sold in a retail establishment is one pound or less,
 
-&emsp;(3) there appears on the label of the package (A) the word “oleomargarine” or “margarine”in type or lettering at least as large as any other type or lettering on such label, and (B) a full and accurate statement of all the ingredients contained in such oleomargarine or margarine, and
+&emsp;(3) there appears on the label of the package (A) the word “oleomargarine” or “margarine” in type or lettering at least as large as any other type or lettering on such label, and (B) a full and accurate statement of all the ingredients contained in such oleomargarine or margarine, and
 
 &emsp;(4) each part of the contents of the package is contained in a wrapper which bears the word “oleomargarine” or “margarine” in type or lettering not smaller than 20-point type.
 
@@ -38,7 +38,7 @@ Section 7 of act Mar. 16, 1950, provided that: “This Act \[enacting this secti
 
 #### Transfer of Appropriations
 
-Section 5 of act Mar. 16, 1950, provided that: “So much of the unexpended balances of appropriations, allocations, or other funds (including funds available for the fiscal year ending June 30, 1950) for the use of the Bureau of Internal Revenue of the Treasury Department in the exercise of functions under the Oleomargarine Tax Act (26 U.S.C., §2300, subchapter A) \[now section 4591 et seq. of Title 26, Internal Revenue Code\], as the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\] may determine, shall be transferred to the Federal Security Agency (Food and Drug Administration) \[now the Department of Health and Human Services\] for use in the enforcement of this Act \[see Effective Date note above\].”
+Section 5 of act Mar. 16, 1950, provided that: “So much of the unexpended balances of appropriations, allocations, or other funds (including funds available for the fiscal year ending June 30, 1950) for the use of the Bureau of Internal Revenue of the Treasury Department in the exercise of functions under the Oleomargarine Tax Act (26 U.S.C., §2300, subchapter A) \[now section 4591 et seq. of Title 26, Internal Revenue Code\], as the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\] may determine, shall be transferred to the Federal SecurityAgency (Food and Drug Administration) \[now the Department of Health and Human Services\] for use in the enforcement of this Act \[see Effective Date note above\].”
 
 #### Section Referred to in Other Sections
 

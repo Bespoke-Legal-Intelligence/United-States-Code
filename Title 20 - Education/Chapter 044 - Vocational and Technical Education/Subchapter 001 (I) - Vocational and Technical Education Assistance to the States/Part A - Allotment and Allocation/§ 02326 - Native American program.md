@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Indian tribes and tribal organizations
 
-&emsp;The grants or contracts described in this section (other than in subsection (i) <sup>3</sup> of this section) that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section (other than in subsection (i) <sup>3</sup> of this section) that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (4) Matching
 
-&emsp;If sufficient funding is available, the Bureau of Indian Affairs shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Affairs shall expend not less than the amount expended during the prior fiscal year on vocational and technical education programs, services, and technical activities administered either directly by, or under contract with, the Bureau of Indian Affairs, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. The Secretary and the Assistant Secretary of the Interior for Indian Affairs shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Affairs.
+&emsp;If sufficient funding is available, the Bureau of Indian Affairs shall expend an amount equal to the amount made available under this subsection, relating to programs for Indians, to pay a part of the costs of programs funded under this subsection. During each fiscal year the Bureau of Indian Affairs shall expend not less than the amount expended during the prior fiscal year on vocational and technical education programs, services, and technical activities administered either directly by, or under contract with, the Bureau of Indian Affairs, except that in no year shall funding for such programs, services, and activities be provided from accounts and programs that support other Indian education programs. TheSecretary and the Assistant Secretary of the Interior for Indian Affairs shall prepare jointly a plan for the expenditure of funds made available and for the evaluation of programs assisted under this subsection. Upon the completion of a joint plan for the expenditure of the funds and the evaluation of the programs, the Secretary shall assume responsibility for the administration of the program, with the assistance and consultation of the Bureau of Indian Affairs.
 
 #### (5) Regulations
 
@@ -108,7 +108,7 @@ From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the
 
 Section 2026 of title 25, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 22 (§2001 et seq.) of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. For definition of “Bureau-funded school”, see section 2021 of Title 25.
 
-The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
+The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
 #### Prior Provisions
 

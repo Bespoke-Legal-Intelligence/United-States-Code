@@ -32,7 +32,7 @@ Functions as Acting Chief.—When there is a vacancy in the office of the Chief 
 
 (e)
 
-Succession After Chief and Vice Chief.—When there is a vacancy in the offices of both Chief and Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of theArmy National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
+Succession After Chief and Vice Chief.—When there is a vacancy in the offices of both Chief and Vice Chief of the National Guard Bureau or in the absence or disability of both the Chief and Vice Chief of the National Guard Bureau, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the senior officer of the Army National Guard of the United States or the Air National Guard of the United States on duty with the National Guard Bureau shall perform the duties of the Chief until a successor to the Chief or Vice Chief is appointed or the absence or disability of the Chief or Vice Chief ceases, as the case may be.
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826.)
 

@@ -24,7 +24,7 @@ United States Defined.—In this section, the term “United States” means the
 
 #### Prior Provisions
 
-A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 514; amended Pub. L. 98–525, title XIII, §1301(a), Oct. 19, 1984, 98 Stat. 2611; Pub. L. 99–145, title XIII, §1303(a)(1), Nov. 8, 1985, 99 Stat. 738, related to establishment, composition, and functions of combatant commands, prior to repeal by Pub. L. 99–433, §211(c)(1). See section 161 et seq. of this title. Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1102, Sept. 29, 1988, 102 Stat. 2042, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–189, §1202(b).
+A prior section 124, added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 514; amended Pub. L.98–525, title XIII, §1301(a), Oct. 19, 1984, 98 Stat. 2611; Pub. L. 99–145, title XIII, §1303(a)(1), Nov. 8, 1985, 99 Stat. 738, related to establishment, composition, and functions of combatant commands, prior to repeal by Pub. L. 99–433, §211(c)(1). See section 161 et seq. of this title. Similar provisions were contained in Pub. L. 100–456, div. A, title XI, §1102, Sept. 29, 1988, 102 Stat. 2042, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–189, §1202(b).
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Requirements of Detection and Monitoring Systems.—The Secretary of Defense sha
 
 “(b)
 
-Evaluation of Systems.—The Secretary of Defense shall identify and evaluate existing and proposed counter-drug detection and monitoring systems in lightof the requirements established under subsection (a). In carrying out such evaluation, the Secretary shall—
+Evaluation of Systems.—The Secretary of Defense shall identify and evaluate existing and proposed counter-drug detection and monitoring systems in light of the requirements established under subsection (a). In carrying out such evaluation, the Secretary shall—
 
 &emsp;“(1) assess the capabilities, strengths, and weaknesses of counter-drug detection and monitoring systems; and
 

@@ -4,11 +4,15 @@
 
 Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years in the case of retirements effective during the period beginning on October 1, 1990, and ending on December 31, 2001.
+(2)(A) In order to be eligible for voluntary retirement under any provision of this title in a grade above major or lieutenant commander, a commissioned officer of the Army, Navy, Air Force, or Marine Corps must have served on active duty in that grade for not less than three years, except that the Secretary of Defense may authorize the Secretary of a military department to reduce such period to a period not less than two years.
 
-(B) The President may waive subparagraph (A) in individual cases involving extreme hardship or exceptional or unusual circumstances. The authority of the President under the preceding sentence may not be delegated.
+(B) In the case of an officer to be retired in a general or flag officer grade, authority provided by the Secretary of Defense to the Secretary of a military department under subparagraph (A) may be exercised with respect to that officer only if approved by the Secretary of Defense or another civilian official in the Office of the Secretary of Defense appointed by the President, by and with the advice and consent of the Senate.
 
-(C) In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
+(C) Authority provided by the Secretary of Defense to the Secretary of a military department under subparagraph (A) may be delegated within that military department only to a civilian official of that military department appointed by the President, by and with the advice and consent of the Senate.
+
+(D) The President may waive subparagraph (A) in individual cases involving extreme hardship or exceptional or unusual circumstances. The authority of the President under the preceding sentence may not be delegated.
+
+(E) In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
 
 (3) A reserve or temporary officer who is notified that he will be released from active duty without his consent and thereafter requests retirement under section 3911, 6323, or 8911 of this title and is retired pursuant to that request is considered for purposes of this section, to have been retired involuntarily. An officer retired pursuant to section 1186(b)(1) of this title is considered for purposes of this section to have been retired voluntarily.
 
@@ -32,7 +36,7 @@ Grades.—(1) An officer who is serving in or has served in the grade of general
 
 (3)(A) The Secretary of Defense may delegate authority to make a certification with respect to an officer under paragraph (1) only to the Under Secretary of Defense for Personnel and Readiness or the Deputy Under Secretary of Defense for Personnel and Readiness.
 
-(B) If authority is delegated under subparagraph (A) and, in the course of consideration of an officer for a certification under paragraph (1), the Under Secretary or (if such authority is delegated to both the Under and Deputy Under Secretary) the Deputy Under Secretary makes a determination described in subparagraph (C) with respect to that officer, the Under Secretary or Deputy Under Secretary, as the case may be, may not exercise the delegated authority in that case, but shall refer the matter to the Secretary of Defense, who shall personally determine whether to issue a certification under paragraph (1) with respect to that officer.
+(B) If authority is delegated under subparagraph (A) and, in the course of consideration of an officer for a certification under paragraph (1), the Under Secretary or (if such authority is delegated to both the Under and Deputy Under Secretary) the Deputy Under Secretary makes a determination described in subparagraph (C) with respect to that officer, the Under Secretary orDeputy Under Secretary, as the case may be, may not exercise the delegated authority in that case, but shall refer the matter to the Secretary of Defense, who shall personally determine whether to issue a certification under paragraph (1) with respect to that officer.
 
 (C) A determination referred to in subparagraph (B) is a determination that there is potentially adverse information concerning an officer and that such information has not previously been submitted to the Senate in connection with the consideration by the Senate of a nomination of that officer for an appointment for which the advice and consent of the Senate is required.
 
@@ -60,11 +64,37 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (4) A person whose length of service in the highest grade held does not meet the service in grade requirements specified in this subsection shall be credited with satisfactory service in the next lower grade in which that person served satisfactorily (as determined by the Secretary of the military department concerned) for not less than six months.
 
-(5) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than 2 years in the case of retirements effective during the period beginning on October 17, 1998, and ending on December 31, 2001. The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
+(5)(A) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than two years.
 
-(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct.30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093.)
+(B) In the case of a person who, upon transfer to the Retired Reserve or discharge, is to be credited with satisfactory service in a general or flag officer grade under paragraph (1), authority provided by the Secretary of Defense to the Secretary of a military department under subparagraph (A) may be exercised with respect to that person only if approved by the Secretary of Defense or another civilian official in the Office of the Secretary of Defense appointed by the President, by and with the advice and consent of the Senate.
+
+(C) Authority provided by the Secretary of Defense to the Secretary of a military department under subparagraph (A) may be delegated within that military department only to a civilian official of that military department appointed by the President, by and with the advice and consent of the Senate.
+
+(6) The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under paragraph (5) may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
+
+(e)
+
+Advance Notice to Congressional Committees.—(1) In the case of an officer to be retired in a grade that is a general or flag officer grade who is eligible to retire in that grade only by reason of an exercise of authority under paragraph (2) of subsection (a) to reduce the three-year service-in-grade requirement otherwise applicable under that paragraph, the Secretary of Defense, before the officer is retired in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under that paragraph with respect to that officer.
+
+(2) In the case of a person to be credited under subsection (d) with satisfactory service in a grade that is a general or flag officer grade who is eligible to be credited with such service in that grade only by reason of an exercise of authority under paragraph (5) of that subsection to reduce the three-year service-in-grade requirement otherwise applicable under paragraph (3)(A) of that subsection, the Secretary of Defense, before the person is credited with such satisfactory service in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under paragraph (5) of that subsection with respect to that officer.
+
+(3) In the case of an officer to whom subsection (c) applies, the requirement for notification under paragraph (1) is satisfied if the notification is included in the certification submitted with respect to that officer under paragraph (1) of such subsection.
+
+(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, §505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, §506, Nov. 24, 2003, 117 Stat. 1457.)
 
 #### Amendments
+
+2003—Subsec. (a)(2)(A). Pub. L. 108–136, §506(a), struck out “in the case of retirements effective during the period beginning on October 1, 2002, and ending on December 31, 2003” after “two years”.
+
+Subsec. (d)(5)(A). Pub. L. 108–136, §506(b), substituted “two years” for “2 years in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003”.
+
+2002—Subsec. (a)(2)(A). Pub. L. 107–314, §505(a)(1), substituted “during the period beginning on October 1, 2002, and ending on December 31, 2003” for “during the period beginning on October 1, 1990, and ending on December 31, 2001”.
+
+Subsec. (a)(2)(B) to (E). Pub. L. 107–314, §505(a)(2), (3), added subpars. (B) and (C) and redesignated former subpars. (B) and (C) as (D) and (E), respectively.
+
+Subsec. (d)(5), (6). Pub. L. 107–314, §505(b), designated first sentence as subpar. (A), substituted “in the case of transfers to the Retired Reserve and discharges of retirement-qualified officers effective during the period beginning on October 1, 2002, and ending on December 31, 2003” for “in the case of retirements effective during the period beginning on October 17, 1998, and ending on December 31, 2001”, and added subpars. (B) and (C), and designated second sentence as (6) and substituted “paragraph (5)” for “this paragraph”.
+
+Subsec. (e). Pub. L. 107–314, §505(c), added subsec. (e).
 
 2001—Subsec. (c)(3). Pub. L. 107–107, §502, added par. (3).
 
@@ -80,7 +110,7 @@ Subsec. (d)(5). Pub. L. 106–65, §1066(a)(9)(B), substituted “October 17, 19
 
 1998—Subsec. (a)(2)(A). Pub. L. 105–261, §561(d), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-Subsec. (d)(3)(E). Pub. L. 105–261, §512(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under section 308 of title 32 or temporary Federal recognition as a reserve officer of the Air National Guard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer in that grade and also served in that position after being extended the permanent Federal recognition.”
+Subsec. (d)(3)(E). Pub. L. 105–261, §512(a), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “To the extent authorized by the Secretary of the military department concerned, a person who, after having been extended temporary Federal recognition as a reserve officer of the Army National Guard in a particular grade under section 308 of title 32 or temporary Federal recognition as a reserve officer of the Air National Guard in a particular grade under such section, served in a position for which that grade is the minimum authorized grade may be credited for purposes of subparagraph (A) as having served in that grade for the period for which the person served in that position while extended the temporary Federal recognition, but only if the person was subsequently extended permanent Federal recognition as a reserve officer inthat grade and also served in that position after being extended the permanent Federal recognition.”
 
 Subsec. (d)(3)(F). Pub. L. 105–261, §513(a), as amended by Pub. L. 106–65, §1066(b)(3), added subpar. (F).
 
@@ -142,5 +172,5 @@ For provisions relating to the time-in-grade requirement for voluntary retiremen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1406, 1407, 3961, 6151, 6323, 6325, 6383, 8961, 12771 of this title; title 33 section 857a; title 42 section 213a.
+This section is referred to in sections 1406, 1407, 3961, 6151, 6323, 6325, 6383, 8961, 12771 of this title; title 33 section 3071; title 42 section 213a.
 

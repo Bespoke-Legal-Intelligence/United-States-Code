@@ -6,7 +6,7 @@ No grant may be made under this part unless the public or nonprofit private orga
 
 &emsp;(1) provide that the organization will evaluate the need for supportive and nutrition services among older Native Hawaiians to be represented by the organization;
 
-&emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
+&emsp;(2) provide for the use of such methods of administration as are necessary for the properand efficient administration of the program to be assisted;
 
 &emsp;(3) provide assurances that the organization will coordinate its activities with the State agency on aging and with the activities carried out under subchapter III of this chapter in the same geographical area;
 

@@ -44,7 +44,7 @@ Premium sharing plans.—(A) The dental insurance plan established under subsect
 
 &emsp;(B) Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. The member's share of the premium charge may not exceed $20 per month for the enrollment.
 
-&emsp;(C) Effective as of January 1 of each year, the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
+&emsp;(C) Effective as of January 1 of each year, the amount of the premium required undersubparagraph (A) shall be increased by the percent equal to the lesser of—
 
 &emsp;&emsp;(i) the percent by which the rates of basic pay of members of the uniformed services are increased on such date; or
 
@@ -102,15 +102,17 @@ Eligible Dependent Defined.—In this section, the term “eligible dependent”
 
 &emsp;(1) means a dependent described in subparagraph (A), (D), or (I) of section 1072(2) of this title; and
 
-&emsp;(2) includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a), except that the term does not include the dependent after the end of the three-year period beginning on the date of the member's death.
+&emsp;(2) includes any such dependent of a member who dies while on active duty for a period of more than 30 days or a member of the Ready Reserve if, on the date of the death of the member, the dependent is enrolled in a dental benefits plan established under subsection (a) or is not enrolled in such a plan by reason of a discontinuance of a former enrollment under subsection (f), except that the term does not include the dependent after the end of the three-year period beginning on the date of the member's death.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174.)
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584.)
 
 #### Prior Provisions
 
 A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents’ dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
+
+2002—Subsec. (k)(2). Pub. L. 107–314 substituted “if, on the date of the death of the member, the dependent is enrolled in a dental benefits plan established under subsection (a) or is not enrolled in such a plan by reason of a discontinuance of a former enrollment under subsection (f)” for “if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a)”.
 
 2000—Subsec. (k)(2). Pub. L. 106–398 substituted “three-year period” for “one-year period”.
 

@@ -78,7 +78,7 @@ Section was enacted as part of the Federal Stewardship Act of 1990 and also as p
 
 #### Amendments
 
-1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the FoodSecurity Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
+1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
 
 1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
 

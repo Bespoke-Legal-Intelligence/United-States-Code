@@ -614,17 +614,9 @@ Sale, lease, or loan to other Nations of materials for military applications.
 | :--- | ---: |
 | [2122\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002122%20-%20Prohibitions%20governing%20atomic%20weapons.md) | Prohibitions governing atomic weapons. |
 | [2122a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002122a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20C%2C%20title%20XXXII%2C%20%C2%A73294%28e%29%281%29%28A%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20970.md) | Repealed. |
-| [2123\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002123%20-%20Critical%20technology%20partnerships.md) | Critical technology partnerships. |
+| [2123\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20008%20%28VIII%29%20-%20Military%20Application%20of%20Atomic%20Energy/%C2%A7%2002123%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Partnerships.
-
-(b)
-
-Definitions.
 
 #### SUBCHAPTER IX—ATOMIC ENERGY LICENSES
 
@@ -1006,7 +998,7 @@ Presidential investigation.
 
 (f)
 
-Certification of specific positions for investigation by FBI.
+Performance of personnel security investigations by FBI.
 
 (g)
 
@@ -1451,32 +1443,7 @@ Excessive imports for contracts or options as threatening national security; inv
 |  |  |
 | :--- | ---: |
 | [2211\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002211%20-%20Payment%20of%20claims%20or%20judgments%20for%20damage%20resulting%20from%20nuclear%20incident%20involving%20nuclear%20reactor%20of%20United%20States%20warship%3B%20exception%E2%80%A6.md) | Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions. |
-| [2212\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002212%20-%20Contractor%20liability%20for%20injury%20or%20loss%20of%20property%20arising%20out%20of%20atomic%20weapons%20testing%20programs.md) | Contractor liability for injury or loss of property arising out of atomic weapons testing programs. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Short title.
-
-(b)
-
-Federal remedies applicable; exclusiveness of remedies.
-
-(c)
-
-Procedure.
-
-(d)
-
-Actions covered.
-
-(e)
-
-“Contractor” defined.
-
-|  |  |
-| :--- | ---: |
+| [2212\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002212%20-%20Transferred.md) | Transferred. |
 | [2213\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002213%20-%20Nuclear%20Regulatory%20Commission%20annual%20charges.md) | Nuclear Regulatory Commission annual charges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2585,7 +2552,7 @@ Energy Reorganization Act requirements.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437f, 1874, 2291, 2296a–3, 2297h–5, 2297–h12, 2301, 2305, 5196e, 5197f, 5812, 5817, 5841, 5842, 5843, 5844, 5846, 5848, 5851, 5876, 5902, 5908, 6903, 6905, 7135a, 7259a, 7412, 7911, 7918, 7920, 7925, 7941, 9601, 9620, 10134, 10141, 10154, 10155, 10197, 10243, 13541 of this title; title 5 sections 7533, 8312; title 6 section 511; title 10 sections 2344, 2710; title 15 sections 2080, 2602; title 18 section 2516; title 21 section 360jj; title 22 sections 2022, 2024, 2403, 2778a, 2793, 2794, 3203, 3303, 6445; title 30 sections 541b, 541c, 541d; title 50 sections 47f, 438.
+This chapter is referred to in sections 1437f, 1874, 2291, 2296a–3, 2297h–5, 2297–h12, 2301, 2305, 5196e, 5197f, 5812, 5817, 5841, 5842, 5843, 5844, 5846, 5848, 5851, 5876, 5902, 5908, 6903, 6905, 7135a, 7259a, 7412, 7911, 7918, 7920, 7925, 7941, 9601, 9620, 10134, 10141, 10154, 10155, 10197, 10243, 13541 of this title; title 5 sections 7533, 8312; title 6 section 511; title 10 section 2344; title 15 sections 2080, 2602; title 18 section 2516; title 21 section 360jj; title 22 sections 2022, 2024, 2403, 2778a, 2793, 2794, 3203, 3303, 6445; title 30 sections 541b, 541c, 541d; title 50 sections 47f, 438.
 
 
 ---

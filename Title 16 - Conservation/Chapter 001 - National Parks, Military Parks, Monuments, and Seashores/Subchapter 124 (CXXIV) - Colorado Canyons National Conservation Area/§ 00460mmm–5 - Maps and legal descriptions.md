@@ -16,7 +16,7 @@ Copies of the Map and the legal descriptions shall be on file and available for 
 
 &emsp;(2) the Grand Junction District Office of the Bureau of Land Management in Colorado;
 
-&emsp;(3) the appropriate office of the Bureau of Land Management in Colorado, if the Grand Junction District Office is not deemed the appropriate office; and
+&emsp;(3) the appropriate office of the Bureau of Land Management in Colorado, if the GrandJunction District Office is not deemed the appropriate office; and
 
 &emsp;(4) the appropriate office of the Bureau of Land Management in Utah.
 

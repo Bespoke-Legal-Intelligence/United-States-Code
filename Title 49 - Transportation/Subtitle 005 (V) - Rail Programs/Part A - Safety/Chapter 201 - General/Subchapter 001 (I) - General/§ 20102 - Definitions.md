@@ -8,7 +8,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) commuter or other short-haul railroad passenger service in a metropolitan or suburban area and commuter railroad service that was operated by the Consolidated Rail Corporation on January 1, 1979; and
 
-&emsp;&emsp;&emsp;(ii) high speed ground transportation systems that connect metropolitan areas,without regard to whether those systems use new technologies not associated with traditional railroads; but
+&emsp;&emsp;&emsp;(ii) high speed ground transportation systems that connect metropolitan areas, without regard to whether those systems use new technologies not associated with traditional railroads; but
 
 &emsp;&emsp;(B) does not include rapid transit operations in an urban area that are not connected to the general railroad system of transportation.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established, as an independent establishment of the executive branch of the United States Government, the Barry Goldwater Scholarship and Excellence in Education Foundation.
+There is established, as an independent establishment of the executive branch of the UnitedStates Government, the Barry Goldwater Scholarship and Excellence in Education Foundation.
 
 #### (b) Board of Trustees
 

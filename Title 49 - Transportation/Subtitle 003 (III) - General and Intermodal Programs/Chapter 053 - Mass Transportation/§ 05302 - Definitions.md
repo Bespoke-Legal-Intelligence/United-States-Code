@@ -32,7 +32,7 @@ Capital project.—The term “capital project” means a project for—
 
 &emsp;(2)
 
-Chief executive officer of a state.—The term “chief executive officer of a State” includes the designee of the chief executive officer.
+Chief executive officer of a state.—The term “chief executive officer of a State”includes the designee of the chief executive officer.
 
 &emsp;(3)
 
@@ -236,7 +236,7 @@ July 9, 1964, Pub. L. 88–365, §12(c)(10), (11), 78 Stat. 306; Aug. 10, 1965, 
 
 49 App.:1608(c)(4) (last sentence).
 
-In this chapter, the words “local governmental authority” are substituted for “local public body” forconsistency in the revised title and with other titles of the United States Code.
+In this chapter, the words “local governmental authority” are substituted for “local public body” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a), before clause (1), the text of 49 App.:1608(c)(7) is omitted as surplus. The text of 49 App.:1608(c)(8) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section. In clause (1), before subclause (A), the words “capital project” are substituted for “construction” for clarity. In subclause (A), the words “actual”, “all”, and “reconstruction” are omitted as surplus. In subclause (D), the words “(whether or not such overhaul increases the useful life of the rolling stock)” are omitted as surplus. In clause (2), the words “for each of the jurisdictions included in the definition of ‘State’ ” are omitted as surplus. In clauses (3) and (10), the word “regulation” is substituted for “rule” for consistency in the revised title and with other titles of the Code and because the terms are synonymous. In clause (3)(B)(iii), the words “of persons” are omitted as surplus. In clauses (4) and (5), the word “mass” is substituted for “public” because of the restatement. In clause (4)(A), the words “including, but not limited to, fixed rail, automated guideway transit, and exclusive facilities for buses” are omitted as surplus. In clause (6)(A), the words “municipalities and other” are omitted as surplus. In clause (6)(B), the word “authority” is substituted for “public agencies and instrumentalities” for consistency in the revised title and with other titles of the Code. The word “municipalities” is omitted as surplus. In clause (7), the words “bus, or rail, or other”, “either publicly or privately owned”, and “on a . . . basis” are omitted as surplus. Clause (8) is added for clarity because the term “net project cost” has the same meaning throughout this chapter. In clause (11), the words “the Commonwealths of” are omitted as surplus. In clause (12), the word “individuals” is substituted for “commuters or others” to eliminate unnecessary words. In clause (13)(A), the words “in the case of any such area” and “entire” are omitted as surplus. The words “Secretary of Commerce” are substituted for “Bureau of the Census” because of 15:1511(e). In clause (13)(B), the words “so designated by the Bureau of Census”, “which shall be”, “responsible”, and “in cooperation with each other” are omitted as surplus.
 
@@ -264,7 +264,7 @@ Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), as amended by Pub. L. 105–10
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1997 Amendment
 

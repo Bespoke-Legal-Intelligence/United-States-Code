@@ -26,11 +26,11 @@ The head of an executive agency shall, when appropriate, use streamlined acquisi
 
 #### (b) Waiver of certain small business threshold requirements
 
-Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section 657a(b)(2)(A) of title 15 shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) of this section for a procurement referred to in section 422 of this title.
+Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section 657a(b)(2)(A) of title 15 shall not apply in the use of streamlined acquisition authorities and procedures referred toin paragraphs (1)(A) and (2)(A) of subsection (a) of this section for a procurement referred to in section 422 of this title.
 
 (Pub. L. 107–296, title VIII, §856, Nov. 25, 2002, 116 Stat. 2237.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1), was act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Section 1(a) of the Act, which provided the short title, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 

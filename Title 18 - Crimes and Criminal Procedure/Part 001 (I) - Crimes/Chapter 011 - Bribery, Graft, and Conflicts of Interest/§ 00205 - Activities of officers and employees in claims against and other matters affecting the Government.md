@@ -1,6 +1,6 @@
 ### §205. Activities of officers and employees in claims against and other matters affecting the Government
 
-(a) Whoever, being an officer or employee of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, other than in the proper discharge of his official duties—
+(a) Whoever, being an officer or employee of the United States in the executive, legislative,or judicial branch of the Government or in any agency of the United States, other than in the proper discharge of his official duties—
 
 &emsp;(1) acts as agent or attorney for prosecuting any claim against the United States, or receives any gratuity, or any share of or interest in any such claim, in consideration of assistance in the prosecution of such claim; or
 
@@ -68,7 +68,7 @@
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (i)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 10 of title I of the Act is classified generally to subchapter X (§4101 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (i)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, asamended. Chapter 10 of title I of the Act is classified generally to subchapter X (§4101 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Prior Provisions
 

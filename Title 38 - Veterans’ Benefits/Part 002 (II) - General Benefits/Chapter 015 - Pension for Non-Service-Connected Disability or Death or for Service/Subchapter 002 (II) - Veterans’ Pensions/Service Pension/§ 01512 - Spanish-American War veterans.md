@@ -18,7 +18,7 @@
 
 (B) The Secretary shall pay each month to each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (i) that provided by subparagraph (B) of subsection (a)(1) of this section, or (ii) that which is payable to the veteran under section 1521 of this title as in effect on December 31, 1978, under regulations which the Secretary shall prescribe. Each change in the amount of pension payment required by this subparagraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(b)(1) The Secretary shall pay to each veteran of the Spanish-American War who does not meet the service requirements of subsection (a), but who meets the service requirements of this subsection, a pension at the following monthly rate:
+(b)(1) The Secretary shall pay to each veteran of the Spanish-American War who does not meetthe service requirements of subsection (a), but who meets the service requirements of this subsection, a pension at the following monthly rate:
 
 &emsp;(A) $67.73; or
 
@@ -52,7 +52,7 @@ Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 1978—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
 
-Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteranwere to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
+Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
 
 1975—Subsec. (a). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
 

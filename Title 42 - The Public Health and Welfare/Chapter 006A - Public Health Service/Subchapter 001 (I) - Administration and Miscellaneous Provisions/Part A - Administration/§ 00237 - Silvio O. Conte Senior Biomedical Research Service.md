@@ -4,7 +4,7 @@
 
 (1) There shall be in the Public Health Service a Silvio O. Conte Senior Biomedical Research Service, not to exceed 500 members.
 
-(2) The authority established in paragraph (1) regarding the number of members in the Silvio O. Conte Senior Biomedical Research Service is in addition to any authority established regarding the number of members in the commissioned Regular Corps, in the Reserve Corps, and in the Senior Executive Service. Such paragraph may not be construed to require that the number of members in the commissioned Regular Corps, in the Reserve Corps, or in the Senior Executive Service be reduced to offset the number of members serving in the Silvio O. Conte Senior Biomedical Research Service (in this section referred to as the “Service”).
+(2) The authority established in paragraph (1) regarding the number of members in the Silvio O. Conte Senior Biomedical Research Service is in addition to any authority established regarding the number of members in the commissioned Regular Corps, in the Reserve Corps, and in the Senior Executive Service. Such paragraph may not be construed to require that the number ofmembers in the commissioned Regular Corps, in the Reserve Corps, or in the Senior Executive Service be reduced to offset the number of members serving in the Silvio O. Conte Senior Biomedical Research Service (in this section referred to as the “Service”).
 
 #### (b) Appointments; qualifications; provisions inapplicable to members
 

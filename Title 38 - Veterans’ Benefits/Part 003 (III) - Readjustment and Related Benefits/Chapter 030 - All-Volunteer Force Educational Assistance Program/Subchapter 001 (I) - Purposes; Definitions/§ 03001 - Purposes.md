@@ -14,7 +14,7 @@ The purposes of this chapter are—
 
 &emsp;(6) to enhance our Nation's competitiveness through the development of a more highly educated and productive work force.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2553, §1401; amended Pub. L.100–48, §5, June 1, 1987, 101 Stat. 331; renumbered §3001, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2553, §1401; amended Pub. L. 100–48, §5, June 1, 1987, 101 Stat. 331; renumbered §3001, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Prior Provisions
 

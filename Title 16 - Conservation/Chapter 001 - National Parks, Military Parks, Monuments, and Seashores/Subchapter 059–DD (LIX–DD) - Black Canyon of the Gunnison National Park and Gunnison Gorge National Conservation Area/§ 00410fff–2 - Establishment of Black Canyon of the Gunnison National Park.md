@@ -2,7 +2,9 @@
 
 #### (a) Establishment
 
-There is hereby established the Black Canyon of the Gunnison National Park in the State of Colorado as generally depicted on the map identified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.
+(1) There is hereby established the Black Canyon of the Gunnison National Park in the State of Colorado as generally depicted on the map identified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.
+
+(2) The boundary of the Park is revised to include the addition of approximately 2,530 acres, as generally depicted on the map entitled “Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications” and dated April 2, 2003.
 
 #### (b) Administration
 
@@ -24,15 +26,21 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 (C) Nothing in this subsection shall prohibit the Secretary from accepting the voluntary termination of leases or permits for grazing within the park.
 
+(D) If land within the Park on which the grazing of livestock is authorized under permits or leases under subparagraph (A) is exchanged for private land under section 410fff–3(a) of this title, the Secretary shall transfer any grazing privileges to the land acquired in the exchange.
+
 (2) Within areas of the park designated as wilderness, the grazing of livestock, where authorized under permits in existence as of October 21, 1999, shall be permitted to continue subject to such reasonable regulations, policies, and practices as the Secretary deems necessary, consistent with this subchapter, the Wilderness Act \[16 U.S.C. 1131 et seq.\], and other applicable laws and National Park Service regulations.
 
 (3) With respect to the grazing permits and leases referenced in this subsection, the Secretary shall allow grazing to continue, subject to periodic renewal—
 
-&emsp;(A) with respect to a permit or lease issued to an individual, for the lifetime of the individual who was the holder of the permit or lease on October 21, 1999; and
+&emsp;(A) with respect to a permit or lease issued to an individual, for the lifetime of the individual who was the holder of the permit or lease on October 21, 1999;
 
-&emsp;(B) with respect to a permit or lease issued to a partnership, corporation, or other legal entity, for a period which shall terminate on the same date that the last permit or lease held under subparagraph (A) terminates, unless the partnership, corporation, or legal entity dissolves or terminates before such time, in which case the permit or lease shall terminate with the partnership, corporation, or legal entity.
+&emsp;(B) with respect to the permit or lease issued to LeValley Ranch Ltd., for the lifetime of the last surviving limited partner as of October 21, 1999;
 
-(Pub. L. 106–76, §4, Oct. 21, 1999, 113 Stat. 1127.)
+&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetime of the last surviving general partner as of October 21, 1999; and
+
+&emsp;(D) with respect to a permit or lease issued to a corporation or other legal entity, for a period which shall terminate on the same date that the last permit or lease held under subparagraphs (A), (B), or (C) terminates, unless the corporation or legal entity dissolves or terminates before such time, in which case the permit or lease shall terminate with the corporation or legal entity.
+
+(Pub. L. 106–76, §4, Oct. 21, 1999, 113 Stat. 1127; Pub. L. 108–128, §§2(a), 4, Nov. 17, 2003, 117 Stat. 1355, 1356.)
 
 #### References in Text
 
@@ -46,7 +54,27 @@ Geothermal leasing laws, referred to in subsec. (d), are classified principally 
 
 The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
+#### Codification
+
+Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the “Black Canyon of the Gunnison National Park and Gunnison Gorge National Area Act of 1999”, was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–128, §2(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e)(1)(D). Pub. L. 108–128, §4(a), added subpar. (D). See Codification note above.
+
+Subsec. (e)(3). Pub. L. 108–128, §4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted “corporation or” for “partnership, corporation, or” in three places and “subparagraphs (A), (B), or (C)” for “subparagraph (A)”. See Codification note above.
+
+#### Transfer of Administrative Jurisdiction
+
+Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: “On the date of enactment of this Act \[Nov. 17, 2003\], the Secretary shall transfer the land under the jurisdiction of the Bureau of Land Management identified as ‘Tract C’ on the map described in subsection (a)(2) \[amending this section\] to the administrative jurisdiction of the National Park Service for inclusion in the Black Canyon of the Gunnison National Park.”
+
+#### Access to Water Delivery Facilities
+
+Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: “The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled ‘Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications’, and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 460fff–1 of this title.
+This section is referred to in sections 460fff–1, 460fff–3 of this title.
 

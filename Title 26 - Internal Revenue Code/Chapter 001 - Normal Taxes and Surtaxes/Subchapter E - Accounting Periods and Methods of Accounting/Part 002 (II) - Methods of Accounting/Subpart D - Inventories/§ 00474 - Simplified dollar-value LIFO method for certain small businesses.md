@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### Amendments
 
-1986—Pub. L. 99–514 amended section generally, substituting provisions relating to election by eligible small business to use simplified dollar-value method of pricing inventories for purposes of LIFO method for provisions relating to election by eligible small business which uses dollar-value method of pricing inventories under method provided by section 472(b) of this title to use one inventory pool for any trade or business of such eligible small business.
+1986—Pub. L. 99–514 amended section generally, substituting provisions relating to election by eligiblesmall business to use simplified dollar-value method of pricing inventories for purposes of LIFO method for provisions relating to election by eligible small business which uses dollar-value method of pricing inventories under method provided by section 472(b) of this title to use one inventory pool for any trade or business of such eligible small business.
 
 #### Effective Date of 1986 Amendment
 

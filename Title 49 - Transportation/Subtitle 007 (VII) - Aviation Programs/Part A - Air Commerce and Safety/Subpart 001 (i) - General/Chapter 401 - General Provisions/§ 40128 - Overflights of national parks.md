@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-General requirements.—A commercial air tour operator may not conduct commercial air tour operations over a national park or tribal lands except—
+General requirements.—A commercial air tour operator may not conduct commercial air tour operations over a national park or tribal lands, as defined by this section, except—
 
 &emsp;&emsp;(A) in accordance with this section;
 
@@ -86,21 +86,21 @@ Objective.—The objective of any air tour management plan shall be to develop a
 
 &emsp;(2)
 
-Environmental determination.—In establishing an air tour management plan under this subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
+Environmental determination.—In establishing an air tour management plan underthis subsection, the Administrator and the Director shall each sign the environmental decision document required by section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) which may include a finding of no significant impact, an environmental assessment, or an environmental impact statement and the record of decision for the air tour management plan.
 
 &emsp;(3)
 
 Contents.—An air tour management plan for a national park—
 
-&emsp;&emsp;(A) may prohibit commercial air tour operations in whole or in part;
+&emsp;&emsp;(A) may prohibit commercial air tour operations over a national park in whole or in part;
 
-&emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictions for particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
+&emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations over a national park, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictions for particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
 
-&emsp;&emsp;(C) shall apply to all commercial air tour operations within 1/2 mile outside the boundary of a national park;
+&emsp;&emsp;(C) shall apply to all commercial air tour operations over a national park that are also within 1/2 mile outside the boundary of a national park;
 
-&emsp;&emsp;(D) shall include incentives (such as preferred commercial air tour routes and altitudes, relief from caps and curfews) for the adoption of quiet aircraft technology by commercial air tour operators conducting commercial air tour operations at the park;
+&emsp;&emsp;(D) shall include incentives (such as preferred commercial air tour routes and altitudes, relief from caps and curfews) for the adoption of quiet aircraft technology by commercial air tour operators conducting commercial air tour operations over a national park;
 
-&emsp;&emsp;(E) shall provide for the initial allocation of opportunities to conduct commercial air tour operations if the plan includes a limitation on the number of commercial air tour operations for any time period; and
+&emsp;&emsp;(E) shall provide for the initial allocation of opportunities to conduct commercial air tour operations over a national park if the plan includes a limitation on the number of commercial air tour operations for any time period; and
 
 &emsp;&emsp;(F) shall justify and document the need for measures taken pursuant to subparagraphs (A) through (E) and include such justifications in the record of decision.
 
@@ -138,11 +138,11 @@ Requirements and limitations.—Interim operating authority granted under this s
 
 &emsp;&emsp;(A) shall provide annual authorization only for the greater of—
 
-&emsp;&emsp;&emsp;(i) the number of flights used by the operator to provide the commercial air tour operations within the 12-month period prior to the date of the enactment of this section; or
+&emsp;&emsp;&emsp;(i) the number of flights used by the operator to provide the commercial air tour operations over a national park within the 12-month period prior to the date of the enactment of this section; or
 
 &emsp;&emsp;&emsp;(ii) the average number of flights per 12-month period used by the operator to provide such operations within the 36-month period prior to such date of enactment, and, for seasonal operations, the number of flights so used during the season or seasons covered by that 12-month period;
 
-&emsp;&emsp;(B) may not provide for an increase in the number of commercial air tour operations conducted during any time period by the commercial air tour operator above the number that the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
+&emsp;&emsp;(B) may not provide for an increase in the number of commercial air tour operations over a national park conducted during any time period by the commercial air tour operator above the number that the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
 
 &emsp;&emsp;(C) shall be published in the Federal Register to provide notice and opportunity for comment;
 
@@ -192,7 +192,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Commercial air tour operator.—The term “commercial air tour operator” means any person who conducts a commercial air tour operation.
+Commercial air tour operator.—The term “commercial air tour operator” means any person who conducts a commercial air tour operation over a national park.
 
 &emsp;(2)
 
@@ -208,11 +208,11 @@ New entrant commercial air tour operator.—The term “new entrant commercial a
 
 &emsp;(4)
 
-Commercial air tour operation.—
+Commercial air tour operation over a national park.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “commercial air tour operation” means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within 1/2 mile outside the boundary of any national park, or over tribal lands, during which the aircraft flies—
+In general.—The term “commercial air tour operation over a national park” means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within 1/2 mile outside the boundary of any national park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park), during which the aircraft flies—
 
 &emsp;&emsp;&emsp;(i) below a minimum altitude, determined by the Administrator in cooperation with the Director, above ground level (except solely for purposes of takeoff or landing, or necessary for safe operation of an aircraft as determined under the rules and regulations of the Federal Aviation Administration requiring the pilot-in-command to take action to ensure the safe operation of the aircraft); or
 
@@ -220,7 +220,7 @@ In general.—The term “commercial air tour operation” means any flight, con
 
 &emsp;&emsp;(B)
 
-Factors to consider.—In making a determination of whether a flight is a commercial air tour operation for purposes of this section, the Administrator may consider—
+Factors to consider.—In making a determination of whether a flight is a commercial air tour operation over a national park for purposes of this section, the Administrator may consider—
 
 &emsp;&emsp;&emsp;(i) whether there was a holding out to the public of willingness to conduct a sightseeing flight for compensation or hire;
 
@@ -254,15 +254,57 @@ Administrator.—The term “Administrator” means the Administrator of the Fed
 
 Director.—The term “Director” means the Director of the National Park Service.
 
-(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186.)
+(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2)(A), (3)(C), and (f)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
+#### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–176, §323(a)(1), inserted “, as defined by this section,” after “tribal lands” in introductory provisions.
+
+Subsec. (b)(3)(A), (B). Pub. L. 108–176, §323(a)(2), inserted “over a national park” after “operations”.
+
+Subsec. (b)(3)(C). Pub. L. 108–176, §323(a)(3), inserted “over a national park that are also” after “operations”.
+
+Subsec. (b)(3)(D). Pub. L. 108–176, §323(a)(4), substituted “over a national park” for “at the park”.
+
+Subsec. (b)(3)(E). Pub. L. 108–176, §323(a)(5), inserted “over a national park” before “if the plan includes”.
+
+Subsec. (c)(2)(A)(i), (B). Pub. L. 108–176, §323(a)(6), inserted “over a national park” after “operations”.
+
+Subsec. (f)(1). Pub. L. 108–176, §323(a)(7), inserted “over a national park” after “operation”.
+
+Subsec. (f)(4). Pub. L. 108–176, §323(a)(10), inserted “
+
+over a national park” after “
+
+operation” in heading.
+
+Subsec. (f)(4)(A). Pub. L. 108–176, §323(a)(8), in introductory provisions, substituted “commercial air tour operation over a national park” for “commercial air tour operation” and “park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park),” for “park, or over tribal lands,”.
+
+Subsec. (f)(4)(B). Pub. L. 108–176, §323(a)(9), inserted “over a national park” after “operation” in introductory provisions.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+
+#### Quiet Technology Rulemaking for Air Tours Over Grand Canyon National Park
+
+Pub. L. 108–176, title III, §323(b), Dec. 12, 2003, 117 Stat. 2541, provided that:
+
+“(1)
+
+Deadline for rule.—No later than January 2005, the Secretary of Transportation shall issue a final rule to establish standards for quiet technology that are reasonably achievable at Grand Canyon National Park, based on the Supplemental Notice of Proposed Rulemaking on Noise Limitations for Aircraft Operations in the Vicinity of Grand Canyon National Park, published in the Federal Register on March 24, 2003.
+
+“(2)
+
+Resolution of disputes.—Subject to applicable administrative law and procedures, if the Secretary determines that a dispute among interested parties (including outside groups) or government agencies cannot be resolved within a reasonable time frame and could delay finalizing the rulemaking described in subsection (a), or implementation of final standards under such rule, due to controversy over adoption of quiet technology routes, establishment of incentives to encourage adoption of such routes, establishment of incentives to encourage adoption of quite technology, or other measures to achieve substantial restoration of natural quiet, the Secretary shall refer such dispute to a recognized center for environmental conflict resolution.”
 
 #### National Parks Air Tour Management
 
@@ -336,7 +378,7 @@ Modification of Existing Aircraft To Meet Standards.—A commercial air tour ope
 
 Mandate To Restore Natural Quiet.—Nothing in this Act \[should be “this title”\] shall be construed to relieve or diminish—
 
-&emsp;“(1) the statutory mandate imposed upon the Secretary of the Interior and the Administrator of the Federal Aviation Administration under Public Law 100–91 (16 U.S.C. 1a–1 note) to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park; and
+&emsp;“(1) the statutory mandate imposed upon the Secretary of the Interior and the Administrator of theFederal Aviation Administration under Public Law 100–91 (16 U.S.C. 1a–1 note) to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park; and
 
 &emsp;“(2) the obligations of the Secretary and the Administrator to promulgate forthwith regulations to achieve the substantial restoration of the natural quiet and experience at the Grand Canyon National Park.
 
@@ -394,7 +436,7 @@ Compensation; Support; FACA.—
 
 &emsp;“(1)
 
-Compensation and travel.—Members of the advisory group who are not officers or employees ofthe United States, while attending conferences or meetings of the group or otherwise engaged in its business, or while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for persons in the Government service employed intermittently.
+Compensation and travel.—Members of the advisory group who are not officers or employees of the United States, while attending conferences or meetings of the group or otherwise engaged in its business, or while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for persons in the Government service employed intermittently.
 
 &emsp;“(2)
 

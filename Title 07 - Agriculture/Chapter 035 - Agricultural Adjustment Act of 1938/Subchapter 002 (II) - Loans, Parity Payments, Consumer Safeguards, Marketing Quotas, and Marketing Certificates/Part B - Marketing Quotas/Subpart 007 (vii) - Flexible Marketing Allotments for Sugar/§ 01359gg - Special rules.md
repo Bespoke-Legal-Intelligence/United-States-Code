@@ -2,7 +2,7 @@
 
 #### (a) Transfer of acreage base history
 
-For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreagebase history of the farm to any other parcels of land of the applicant.
+For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.
 
 #### (b) Preservation of acreage base history
 

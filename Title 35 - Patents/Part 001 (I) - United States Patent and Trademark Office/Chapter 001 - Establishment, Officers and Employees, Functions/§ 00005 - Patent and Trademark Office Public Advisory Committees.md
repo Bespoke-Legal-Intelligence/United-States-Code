@@ -26,7 +26,7 @@ Basis for Appointments.—Members of each Advisory Committee—
 
 &emsp;(3) shall include individuals with substantial background and achievement in finance, management, labor relations, science, technology, and office automation.
 
-> In addition to the voting members, each Advisory Committee shall include a representative of each labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
+> In addition to the voting members, each Advisory Committee shall include a representative ofeach labor organization recognized by the United States Patent and Trademark Office. Such representatives shall be nonvoting members of the Advisory Committee to which they are appointed.
 
 (c)
 

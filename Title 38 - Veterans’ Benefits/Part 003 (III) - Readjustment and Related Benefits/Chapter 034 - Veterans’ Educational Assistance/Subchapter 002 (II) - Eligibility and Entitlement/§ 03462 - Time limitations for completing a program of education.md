@@ -4,9 +4,7 @@
 
 (a)(1) Subject to paragraph (4) of this subsection, no educational assistance shall be afforded an eligible veteran under this chapter beyond the date 10 years after the veteran's last discharge or release from active duty after January 31, 1955; except that, in the case of any eligible veteran who was prevented from initiating or completing such veteran's chosen program of education within such time period because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of such mental or physical disability, or (C) October 1, 1980, whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such veteran was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted a veteran under the preceding sentence, the delimiting period with respect to such veteran will again begin running on the first day following such veteran's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, any veteran shall be permitted to use any of such veteran's unused entitlement under section 3461 of this title for the purposes of eligibility for an education loan, pursuant to the provisions of subchapter III of chapter 36 of this title, after the delimiting date otherwise applicable to such veteran under such paragraph (1), if such veteran was pursuing an approved program of education on a full-time basis at the time of the expiration of such veteran's eligibility.
-
-(B) Notwithstanding any other provision of this chapter or chapter 36 of this title, any veteran whose delimiting period is extended under subparagraph (A) of this paragraph may continue to use any unused loan entitlement under this paragraph as long as the veteran continues to be enrolled on a full-time basis in pursuit of the approved program of education in which such veteran was enrolled at the time of expiration of such veteran's eligibility (i) until such entitlement is exhausted, (ii) until the expiration of two years after November 23, 1977, or the date of the expiration of the delimiting date otherwise applicable to such veteran under paragraph (1) of this subsection, whichever is later, or (iii) until such veteran has completed the approved program of education in which such veteran was enrolled at the end of the delimiting period referred to in paragraph (1) of this subsection, whichever occurs first.
+\[(2) Repealed. Pub. L. 108–183, title III, §306(d), Dec. 16, 2003, 117 Stat. 2661.\]
 
 \[(3) Repealed. Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34.\]
 
@@ -14,7 +12,7 @@
 
 ### Correction of Discharge
 
-(b) In the case of any eligible veteran who has been prevented, as determined by the Secretary, from completing a program of education under this chapter within the period prescribed by subsection (a), because the veteran had not met the nature of discharge requirements of this chapter before a change, correction, or modification of a discharge or dismissal made pursuant to section 1553 of title 10, the correction of the military records of the proper service department under section 1552 of title 10, or other corrective actionby competent authority, then the 10-year delimiting period shall run from the date the veteran's discharge or dismissal was changed, corrected, or modified.
+(b) In the case of any eligible veteran who has been prevented, as determined by the Secretary, from completing a program of education under this chapter within the period prescribed by subsection (a), because the veteran had not met the nature of discharge requirements of this chapter before a change, correction, or modification of a discharge or dismissal made pursuant to section 1553 of title 10, the correction of the military records of the proper service department under section 1552 of title 10, or other corrective action by competent authority, then the 10-year delimiting period shall run from the date the veteran's discharge or dismissal was changed, corrected, or modified.
 
 ### Savings Clause
 
@@ -24,13 +22,15 @@
 
 (e) No educational assistance shall be afforded any eligible veteran under this chapter or chapter 36 of this title after December 31, 1989.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 14, §1662; amended Pub. L. 90–77, title III, §305, Aug. 31, 1967, 81 Stat. 188; Pub. L. 93–337, §1, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title II, §211(3), title IV, §403(b), Oct. 15, 1976, 90 Stat. 2388, 2393; Pub. L. 95–202, title II, §203(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1439; Pub. L. 96–466, title III, §301, Oct. 17, 1980, 94 Stat. 2191; Pub. L. 97–35, title XX, §2003(b)(1), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–72, title II, §201(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(39), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title II, §206(a), Oct. 14, 1982, 96 Stat. 1435; Pub. L. 98–160, title VII, §702(10), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §§420(a)(3), 423(b)(1), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3462 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 14, §1662; amended Pub. L. 90–77, title III, §305, Aug. 31, 1967, 81 Stat. 188; Pub. L. 93–337, §1, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title II, §211(3), title IV, §403(b), Oct. 15, 1976, 90 Stat. 2388, 2393; Pub. L. 95–202, title II, §203(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1439; Pub. L. 96–466, title III, §301, Oct. 17, 1980, 94 Stat. 2191; Pub. L. 97–35, title XX, §2003(b)(1), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–72, title II, §201(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(39), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title II, §206(a), Oct. 14, 1982, 96 Stat. 1435; Pub. L. 98–160, title VII, §702(10), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §§420(a)(3), 423(b)(1), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3462 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34; Pub. L. 108–183, title III, §306(d), Dec. 16, 2003, 117 Stat. 2661.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1612(c) and 1613(a), and 1612(a) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2003—Subsec. (a)(2). Pub. L. 108–183 struck out par. (2) which related to loans under subchapter III of chapter 36 of this title.
 
 2001—Subsec. (a)(3). Pub. L. 107–14 struck out par. (3) which permitted eligible Vietnam-era veterans to use unused entitlements under section 3461 for enumerated educational purposes and directed that veterans be provided with employment counseling.
 
@@ -87,6 +87,10 @@ Subsec. (c). Pub. L. 93–337, §1(3), substituted “10-year” for “8-year�
 Subsec. (d). Pub. L. 93–337, §1(4), added subsec. (d).
 
 1967—Subsec. (c). Pub. L. 90–77 inserted second sentence respecting commencement of the delimiting period in the case of an eligible veteran discharged from active duty and pursuing training on the job or flight training.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–183, title III, §306(h)(1), Dec. 16, 2003, 117 Stat. 2661, provided that: “The amendments made by subsection (d) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 16, 2003\].”
 
 #### Effective Date of 1982 Amendment
 

@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 98–369, §130(b), substituted provision relating to excep
 
 1971—Subsec. (a). Pub. L. 92–178 provided that reference in section 1441(c)(8) to section 871(a)(1)(C) shall be treated as referring to section 881(a)(3).
 
-1966—Pub. L. 89–809 limited the withholding of tax at the 30 percent rate to items of fixed or determinable United States source income not effectively connected with the conduct of a trade or business in the United States and authorized the granting of an exemption from the withholding requirement in the case of a foreign corporation engaged in trade or business within the United States if the Secretary or his delegate determines that the withholding imposes an undue administrative burden and that the collection of the tax will not be jeopardized by the exemption.
+1966—Pub. L. 89–809 limited the withholding of tax at the 30 percent rate to items of fixed or determinable United States source income not effectively connectedwith the conduct of a trade or business in the United States and authorized the granting of an exemption from the withholding requirement in the case of a foreign corporation engaged in trade or business within the United States if the Secretary or his delegate determines that the withholding imposes an undue administrative burden and that the collection of the tax will not be jeopardized by the exemption.
 
 #### Effective Date of 1993 Amendment
 

@@ -20,9 +20,9 @@ A prior section 2506 was renumbered section 2533 of this title.
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Plan
 
-Section 4220 of Pub. L. 102–484 set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
+Section 4220 of Pub. L. 102–484 set forth requirements for the initial regulations prescribed to implement thissection, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2372, 2504 of this title; title 42 section 2123.
+This section is referred to in sections 2372, 2504 of this title; title 50 section 2794.
 

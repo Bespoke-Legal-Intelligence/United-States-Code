@@ -28,7 +28,7 @@ For purposes of this subchapter, the term—
 
 &emsp;(m) “Settlement Fund” means the Maine Indian Claims Settlement Fund established under section 1724(a) of this title; and
 
-&emsp;(n) “transfer” includes but is not limited to any voluntary or involuntary sale, grant,lease, allotment, partition, or other conveyance; any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance; and any act, event, or circumstance that resulted in a change in title to, possession of, dominion over, or control of land or natural resources.
+&emsp;(n) “transfer” includes but is not limited to any voluntary or involuntary sale, grant, lease, allotment, partition, or other conveyance; any transaction the purpose of which was to effect a sale, grant, lease, allotment, partition, or conveyance; and any act, event, or circumstance that resulted in a change in title to, possession of, dominion over, or control of land or natural resources.
 
 (Pub. L. 96–420, §3, Oct. 10, 1980, 94 Stat. 1786.)
 

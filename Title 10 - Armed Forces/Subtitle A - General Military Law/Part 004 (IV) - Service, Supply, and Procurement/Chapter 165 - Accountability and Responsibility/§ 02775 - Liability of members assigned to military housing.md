@@ -1,16 +1,16 @@
 ### §2775. Liability of members assigned to military housing
 
-(a)(1) A member of the armed forces shall be liable to the United States for damage to any family housing unit or unaccompanied personnel housing unit, or damage to or loss of any equipment or furnishings of any family housing unit or unaccompanied personnel housing unit, assigned to or provided such member if (as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the damage or loss was caused by the abuse or negligence of the member (or a dependent of the member) or of a guest of the member (or a dependent of the member).
+(a)(1) A member of the armed forces shall be liable to the United States for damage to any family housing unit or unaccompanied personnel housing unit, or damage to or loss of any equipment or furnishings of any family housing unit or unaccompanied personnel housing unit, assigned to or provided such member if (as determined under regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) the damage or loss was caused by the abuse or negligence of the member (or a dependent of the member) or of a guest of the member (or a dependent of the member).
 
 (2) A member of the armed forces—
 
 &emsp;(A) who is assigned or provided a family housing unit; and
 
-&emsp;(B) who fails to clean satisfactorily that housing unit (as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) upon termination of the assignment or provision of that housing unit,
+&emsp;(B) who fails to clean satisfactorily that housing unit (as determined under regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) upon termination of the assignment or provision of that housing unit,
 
 > shall be liable to the United States for the cost of cleaning made necessary as a result of that failure.
 
-(b) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may establish limitations on liability under this section, including (in the case of liability under subsection (a)(1)) different limitations based upon the degree of abuse or negligence involved, and may compromise or waive a claim of the United States under this section.
+(b) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may establish limitations on liability under this section, including (in the case of liability under subsection (a)(1)) different limitations based upon the degree of abuse or negligence involved, and may compromise or waive a claim of the United States under this section.
 
 (c)(1) The Secretary concerned may deduct from a member's pay an amount sufficient to pay for the cost of any repair or replacement made necessary as the result of any abuse or negligence referred to in subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2), for which the member is liable. Regulations implementing this section may also provide for the collection of amounts owed under this section by any other authorized means.
 
@@ -18,7 +18,7 @@
 
 (d) Amounts received under this section shall be credited to the family housing operations and maintenance account, in the case of damage to a family housing unit (or the equipment or furnishings of a family housing unit) or failure to clean satisfactorily a family housing unit, or to the operations and maintenance account, in the case of damage to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit), of the military department or defense agency concerned, or the operating expenses account of the Coast Guard, as appropriate. Amounts so credited shall be available for use for the same purposes and under the same circumstances as other funds in those accounts.
 
-(e) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations tocarry out this section. Such regulations shall include—
+(e) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section. Such regulations shall include—
 
 &emsp;(1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence for which a member is liable under subsection (a)(1);
 
@@ -26,9 +26,11 @@
 
 &emsp;(3) provisions for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.
 
-(Added Pub. L. 96–418, title V, §506(a), Oct. 10, 1980, 94 Stat. 1765; amended Pub. L. 97–214, §10(a)(6), July 12, 1982, 96 Stat. 175; Pub. L. 98–407, title VIII, §801(a)(1), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 99–167, title VIII, §802(a)–(d)(1), Dec. 3, 1985, 99 Stat. 986; Pub. L. 99–661, div. A, title XIII, §1343(a)(19), Nov. 14, 1986, 100 Stat. 3993.)
+(Added Pub. L. 96–418, title V, §506(a), Oct. 10, 1980, 94 Stat. 1765; amended Pub. L. 97–214, §10(a)(6), July 12, 1982, 96 Stat. 175; Pub. L. 98–407, title VIII, §801(a)(1), Aug. 28, 1984, 98 Stat. 1517; Pub. L. 99–167, title VIII, §802(a)–(d)(1), Dec. 3, 1985, 99 Stat. 986; Pub. L. 99–661, div. A, title XIII, §1343(a)(19), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsecs. (a)(1), (2)(B), (b), (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1986—Subsec. (a)(1). Pub. L. 99–661, §1343(a)(19)(A), substituted “(as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) the” for “it is determined, under regulations prescribed by the Secretary of Defense and the Secretary of Transportation when the Coast Guard is not operating as a service in the Navy, that the”.
 
@@ -62,6 +64,10 @@ Subsec. (e). Pub. L. 98–407 redesignated former subsec. (d) as (e)(1), substit
 
 1982—Subsec. (c). Pub. L. 97–214, §10(a)(6), substituted “Military Family Housing Management Account provided for in section 2831 of this title” for “family housing management account established under section 501 of Public Law 87–554 (76 Stat. 236; 42 U.S.C. 1594a–1)”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
@@ -74,7 +80,7 @@ Section effective Oct. 1, 1980, see section 608 of title VI of Pub. L. 96–418,
 
 Section 801(b) of Pub. L. 98–407 provided that:
 
-“(1) Regulations shall be prescribed under subsection (e) of section 2775 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Aug. 28, 1984\]. That section shall apply with respect to the liability of a member under such section for damage or loss to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit) or for damage or loss caused by a guest of the member or of a dependent of the member to a family housing unit (or the equipment or furnishings of a family housing unit) only in the case of damage or loss caused on or after the date that such regulations take effect.
+“(1) Regulations shall be prescribed under subsection (e) of section 2775 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Aug. 28, 1984\]. That section shall apply with respect to the liability of a member under such section for damage or loss to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit) or for damage or loss caused by a guest of the member or of a dependent of the member to a family housing unit (or the equipment or furnishings ofa family housing unit) only in the case of damage or loss caused on or after the date that such regulations take effect.
 
 “(2) The authority of the Secretary of Defense under subsection (b) of such section is applicable to any claim of the United States under such section, whether such claim arose before, on, or after the date of the enactment of this Act \[Aug. 28, 1984\].”
 

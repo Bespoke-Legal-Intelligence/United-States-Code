@@ -44,19 +44,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Study and Report Relating to Timeliness of Prospective Rulings
 
-Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, provided that:
-
-“(a)
-
-Study.—The Comptroller General shall conduct a study on the extent to which the Office of Regulations and Rulings of the Customs Service has made improvements to decrease the amount of time to issue prospective rulings from the date on which a request for the ruling is received by the Customs Service.
-
-“(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Aug. 6, 2002\], the Comptroller General shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report containing the results of the study conducted under subsection (a).
-
-“(c)
-
-Definition.—In this section, the term ‘prospective ruling’ means a ruling that is requested by an importer on goods that are proposed to be imported into the United States and that relates to the proper classification, valuation, or marking of such goods.”
+Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent to which the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

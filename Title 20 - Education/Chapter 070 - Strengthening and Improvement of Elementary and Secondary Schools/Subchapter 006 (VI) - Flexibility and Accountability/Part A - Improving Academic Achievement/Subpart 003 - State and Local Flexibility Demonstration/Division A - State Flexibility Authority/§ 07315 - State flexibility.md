@@ -84,7 +84,7 @@ In this division:
 
 &emsp;&emsp;&emsp;&emsp;(II) as otherwise provided in this division; and
 
-&emsp;&emsp;&emsp;(iii) contain an assurance that the local educational agency will, for the durationof the grant of authority, use funds consolidated under section 7321a of this title only to supplement the amount of funds that would, in the absence of those Federal funds, be made available from non-Federal sources for the education of students participating in programs assisted with the consolidated funds, and not to supplant those funds.
+&emsp;&emsp;&emsp;(iii) contain an assurance that the local educational agency will, for the duration of the grant of authority, use funds consolidated under section 7321a of this title only to supplement the amount of funds that would, in the absence of those Federal funds, be made available from non-Federal sources for the education of students participating in programs assisted with the consolidated funds, and not to supplant those funds.
 
 #### (d) Approval and selection
 
@@ -120,7 +120,7 @@ The Secretary shall—
 
 #### (A) Deemed approval
 
-&emsp;&emsp;A proposed amendment to a grant of flexibility authority submitted by a State educational agency pursuant to paragraph (1) shall be deemed to be approved by the Secretary unless the Secretary makes a written determination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the proposed amendment, that the proposed amendment is not in compliance with this division.
+&emsp;&emsp;A proposed amendment to a grant of flexibility authority submitted by a State educational agency pursuant to paragraph (1) shall be deemed to be approved by the Secretary unless the Secretary makes a writtendetermination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the proposed amendment, that the proposed amendment is not in compliance with this division.
 
 #### (B) Disapproval
 

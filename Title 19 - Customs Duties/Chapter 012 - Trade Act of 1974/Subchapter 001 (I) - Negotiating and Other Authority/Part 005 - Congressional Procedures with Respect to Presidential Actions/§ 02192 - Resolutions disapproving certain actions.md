@@ -26,7 +26,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 #### (d) Floor consideration in the House
 
-(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) A motion in the House of Representatives to proceed to the consideration of a resolution shall be highly privileged and not debatable. Anamendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the House of Representatives on a resolution shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. No amendment to, or motion to recommit, the resolution shall be in order. It shall not be in order to move to reconsider the vote by which a resolution is agreed to or disagreed to.
 
@@ -78,7 +78,7 @@ Sections 402(b) and 409(b) of the Trade Act of 1974, referred to in subsec. (a)(
 
 1994—Subsec. (a)(2). Pub. L. 103–465, as amended by Pub. L. 104–295, substituted comma for “as follows:” after “shall be filled” in introductory provisions, struck out “(B)” before “in the case”, and struck out subpar. (A) which read as follows: “in the case of a resolution referred to in section 1303(e) of this title, with the phrase ‘the determination of the Secretary of the Treasury under section 303(d) of the Tariff Act of 1930’; and”.
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of eitherHouse of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
+1990—Subsec. (a)(1)(B). Pub. L. 101–382, §132(c)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a resolution of either House of the Congress, the matter after the resolving clause of which is as follows: ‘That the \_\_\_\_\_\_ does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.’, with the first blank space being filled with the name of the resolving House, the second blank space being filled in accordance with paragraph (2), and the third blank space being filled with the appropriate date.”
 
 Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted “first” for “second” in introductory provisions and “2437(c)(2)” for “2437(c)(3)” in subpar. (C), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of a resolution referred to in section 2437(c)(2) of this title, with the phrase ‘the extension of nondiscriminatory treatment with respect to the products of \_\_\_\_\_\_’ (with this blank space being filled with the name of the country involved); and”.
 

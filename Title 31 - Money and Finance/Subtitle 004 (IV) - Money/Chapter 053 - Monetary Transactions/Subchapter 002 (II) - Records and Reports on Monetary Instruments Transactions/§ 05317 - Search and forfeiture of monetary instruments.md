@@ -1,6 +1,6 @@
 ### §5317. Search and forfeiture of monetary instruments
 
-(a) The Secretary of the Treasury may apply to a court of competent jurisdiction for a search warrant when the Secretary reasonably believes a monetary instrument is being transported and a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement. The Secretary shall include a statement of information in support of the warrant. On a showing of probable cause, the court may issue a search warrant for a designated person or a designated or describedplace or physical object. This subsection does not affect the authority of the Secretary under another law.
+(a) The Secretary of the Treasury may apply to a court of competent jurisdiction for a search warrant when the Secretary reasonably believes a monetary instrument is being transported and a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement. The Secretary shall include a statement of information in support of the warrant. On a showing of probable cause, the court may issue a search warrant for a designated person or a designated or described place or physical object. This subsection does not affect the authority of the Secretary under another law.
 
 (b)
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prio
 
 #### Termination Date of 2001 Amendment
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Effective Date of 1986 Amendment
 

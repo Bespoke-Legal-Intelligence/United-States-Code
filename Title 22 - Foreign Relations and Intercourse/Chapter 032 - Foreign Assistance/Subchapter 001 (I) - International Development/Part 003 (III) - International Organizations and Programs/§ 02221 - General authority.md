@@ -12,7 +12,7 @@ No contributions by the United States shall be made to the United Nations Relief
 
 #### (d) Audit of funds; report to Congress and the President
 
-In any case in which a fund established solely by United States contributions under this chapter or any other Act is administered by an international organization under the terms of an agreement between the United States and such international organization, such agreement shall provide that the Comptroller General of the United States shall conduct such audits as are necessary to assure that such fund is administered in accordance with such agreement. The President shall undertake to modify any existing agreement entered into before November 14, 1967, to conform to the requirements of the preceding sentence. The Comptroller General shall report simultaneously to the Congress and the President the results of the audits conducted under this subsection.
+In any case in which a fund established solely by United States contributions under this chapter or any other Act is administered by an international organization under the terms of an agreement between the United States and such international organization, such agreementshall provide that the Comptroller General of the United States shall conduct such audits as are necessary to assure that such fund is administered in accordance with such agreement. The President shall undertake to modify any existing agreement entered into before November 14, 1967, to conform to the requirements of the preceding sentence. The Comptroller General shall report simultaneously to the Congress and the President the results of the audits conducted under this subsection.
 
 #### (e) Evaluation of United Nations and its affiliated organizations; International Bank for Reconstruction and Development; Asian Development Bank
 
@@ -32,7 +32,7 @@ It is the sense of the Congress that the President should instruct the appropria
 
 The President is authorized to permit the United States to participate in and to use any of the funds made available under subchapter I of this chapter after December 29, 1981, for the purpose of furnishing assistance (on such terms and conditions as the President may determine) to the International Food Policy Research Institute.
 
-(Pub. L. 87–195, pt. I, §301, Sept. 4, 1961, 75 Stat. 433; Pub. L. 89–171, pt. I, §106 (a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(a)–(c), Sept. 19, 1966, 80 Stat. 800; Pub. L. 90–137, pt. I, §110(a), Nov. 14, 1967, 81 Stat. 453; Pub. L. 91–175, pt. I, §108(a), Dec. 30, 1969, 83 Stat. 819; Pub. L. 93–189, §9(1), Dec. 17, 1973, 87 Stat. 718; Pub. L. 94–161, title III, §313(c), Dec. 20, 1975, 89 Stat. 866; Pub. L. 95–424, title I, §§102(b)(2)(A), 117(d), Oct. 6, 1978, 92 Stat. 941, 953; Pub. L. 96–533, title VII, §702, Dec. 16, 1980, 94 Stat. 3156; Pub. L. 97–113,title III, §311(a), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560.)
+(Pub. L. 87–195, pt. I, §301, Sept. 4, 1961, 75 Stat. 433; Pub. L. 89–171, pt. I, §106 (a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(a)–(c), Sept. 19, 1966, 80 Stat. 800; Pub. L. 90–137, pt. I, §110(a), Nov. 14, 1967, 81 Stat. 453; Pub. L. 91–175, pt. I, §108(a), Dec. 30, 1969, 83 Stat. 819; Pub. L. 93–189, §9(1), Dec. 17, 1973, 87 Stat. 718; Pub. L. 94–161, title III, §313(c), Dec. 20, 1975, 89 Stat. 866; Pub. L. 95–424, title I, §§102(b)(2)(A), 117(d), Oct. 6, 1978, 92 Stat. 941, 953; Pub. L. 96–533, title VII, §702, Dec. 16, 1980, 94 Stat. 3156; Pub. L. 97–113, title III, §311(a), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560.)
 
 #### References in Text
 
@@ -46,7 +46,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 1981—Subsec. (b). Pub. L. 97–113, §734(a)(1), struck out subsec. (b) which limited contributions to United Nations Development Program and restricted assistance to Cuba. See section 2370(f) of this title.
 
-Subsec. (e)(3). Pub. L. 97–113, §734(a)(1), struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United States representatives on those organizations. See section 2394 of this title.
+Subsec. (e)(3). Pub. L. 97–113, §734(a)(1), struck out par. (3) which required reports by the President and the General Accounting Office of their evaluation of reports of international organizations to United Statesrepresentatives on those organizations. See section 2394 of this title.
 
 Subsec. (h). Pub. L. 97–113, §311(a), added subsec. (h).
 

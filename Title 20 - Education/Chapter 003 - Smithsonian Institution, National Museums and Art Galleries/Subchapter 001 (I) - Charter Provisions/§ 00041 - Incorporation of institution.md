@@ -18,6 +18,10 @@ R.S. §5579, as originally enacted, constituted the President, the Vice-Presiden
 
 1877—Act Feb. 27, 1877, substituted “Patents” for “Patent Office”.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–72, §1, Aug. 15, 2003, 117 Stat. 888, provided that: “This Act \[enacting section 253<i>l</i>–8 of Title 41, Public Contracts, enacting provisions set out as notes under section 75b of this title and section 3521 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 50 of this title\] may be cited as the ‘Smithsonian Facilities Authorization Act’.”
+
 #### Short Title of 1966 Amendment
 
 Pub. L. 89–674, §1, Oct. 15, 1966, 80 Stat. 953, provided: “That this Act \[enacting section 65a of this title and repealing section 65 of this title\] may be cited as the ‘National Museum Act of 1966’.”

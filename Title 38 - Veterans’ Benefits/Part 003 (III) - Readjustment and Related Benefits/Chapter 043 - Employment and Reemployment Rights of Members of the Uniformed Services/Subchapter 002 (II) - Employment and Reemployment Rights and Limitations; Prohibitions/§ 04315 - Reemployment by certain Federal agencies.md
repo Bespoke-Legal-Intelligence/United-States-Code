@@ -22,7 +22,7 @@
 
 (e) The Director of the Office of Personnel Management shall ensure the offer of employment to a person in a position in a Federal executive agency on the basis described in subsection (b) if—
 
-&emsp;(1) the person was an employee of an agency referred to in section 2302(a)(2)(C)(ii) of title 5at the time the person entered the service from which the person seeks reemployment under this section;
+&emsp;(1) the person was an employee of an agency referred to in section 2302(a)(2)(C)(ii) of title 5 at the time the person entered the service from which the person seeks reemployment under this section;
 
 &emsp;(2) the appropriate officer of the agency determines under subsection (c) that reemployment of the person by the agency is impossible or unreasonable; and
 

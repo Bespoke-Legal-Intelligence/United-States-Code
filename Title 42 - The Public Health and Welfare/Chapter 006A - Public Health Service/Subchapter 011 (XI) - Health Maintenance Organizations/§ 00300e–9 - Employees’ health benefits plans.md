@@ -32,7 +32,7 @@ For purposes of this section, the term “qualified health maintenance organizat
 
 (2) In any proceeding by the Secretary to assess a civil penalty under this subsection, no penalty shall be assessed until the employer charged shall have been given notice and an opportunity to present its views on such charge. In determining the amount of the penalty, or the amount agreed upon in compromise, the Secretary shall consider the gravity of the noncompliance and the demonstrated good faith of the employer charged in attempting to achieve rapid compliance after notification by the Secretary of a noncompliance.
 
-(3) In any civil action brought to review the assessment of a civil penalty assessed under this subsection, the court shall, at the request of any party to such action, hold a trial de novo on the assessment of such civil penalty and in any civil action to collect such a civil penalty, the court shall, at the request of any party to such action, hold a trial de novo on the assessment of such civil penalty unless in a prior civil action to review the assessment of such penalty the court held a trial de novo on such assessment.
+(3) In any civil action brought to review the assessment of a civil penalty assessed under this subsection, the court shall, at the request of anyparty to such action, hold a trial de novo on the assessment of such civil penalty and in any civil action to collect such a civil penalty, the court shall, at the request of any party to such action, hold a trial de novo on the assessment of such civil penalty unless in a prior civil action to review the assessment of such penalty the court held a trial de novo on such assessment.
 
 #### (e) “Employer” defined
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 99–660 effective Oct. 1, 1985, see section 815(a) of Pub.
 
 #### Effective Date of 1981 Amendment
 
-Section 942(a)(5) of Pub. L. 97–35 provided that: “The amendment made by paragraph (3)(A) \[amending this section\] shall apply with respect to the offering of a health maintenance organization in accordance with section 1310(b)(1) of the Public Health Service Act \[subsec. (b)(1) of this section\] after four years after the datethe organization becomes a qualified health maintenance organization for purposes of section 1310 of such Act \[this section\] if the health maintenance organization provides assurances satisfactory to the Secretary that upon the expiration of such four years it will provide more than one half of its basic health services which are provided by physicians through physicians or other health professionals who are members of the staff of the organization or a medical group (or groups).”
+Section 942(a)(5) of Pub. L. 97–35 provided that: “The amendment made by paragraph (3)(A) \[amending this section\] shall apply with respect to the offering of a health maintenance organization in accordance with section 1310(b)(1) of the Public Health Service Act \[subsec. (b)(1) of this section\] after four years after the date the organization becomes a qualified health maintenance organization for purposes of section 1310 of such Act \[this section\] if the health maintenance organization provides assurances satisfactory to the Secretary that upon the expiration of such four years it will provide more than one half of its basic health services which are provided by physicians through physicians or other health professionals who are members of the staff of the organization or a medical group (or groups).”
 
 #### Effective Date of 1976 Amendment
 

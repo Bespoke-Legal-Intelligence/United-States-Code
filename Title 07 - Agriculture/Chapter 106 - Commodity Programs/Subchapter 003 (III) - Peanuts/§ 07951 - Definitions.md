@@ -12,7 +12,7 @@ In this subchapter:
 
 #### (3) Effective price
 
-&emsp;The term “effective price” means the price calculated by the Secretary under section 7954of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
+&emsp;The term “effective price” means the price calculated by the Secretary under section 7954 of this title for peanuts to determine whether counter-cyclical payments are required to be made under that section for a crop year.
 
 #### (4) Direct payment
 
@@ -58,5 +58,5 @@ In this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which enacted this subchapter, amended sections 1361, 1371, 1373, 1378, 1428, and 1441 of this title, and repealed sections 1357 to 1359a and 7271 of this title. For complete classification of subtitle C to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which enacted this subchapter, amended sections 1361, 1371, 1373, 1378, 1428, and 1441 of this title, and repealedsections 1357 to 1359a and 7271 of this title. For complete classification of subtitle C to the Code, see Tables.
 

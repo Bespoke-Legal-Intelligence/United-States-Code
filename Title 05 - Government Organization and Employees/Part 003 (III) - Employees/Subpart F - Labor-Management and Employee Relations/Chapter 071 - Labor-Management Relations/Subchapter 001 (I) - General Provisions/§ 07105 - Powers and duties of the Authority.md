@@ -24,7 +24,7 @@
 
 (b) The Authority shall adopt an official seal which shall be judicially noticed.
 
-(c) The principal office of the Authority shall be in or about the District of Columbia, but the Authority may meet and exercise any or all of its powers at any time or place. Except as otherwise expressly provided by law, the Authority may, by one or more of its members or by such agents as it may designate, make any appropriate inquiry necessary to carry out its duties wherever persons subject to this chapter are located. Any member who participates in the inquiry shall not be disqualified from later participating in a decision of the Authority in any case relating to the inquiry.
+(c) The principal office of the Authority shall be in or about the District of Columbia, but theAuthority may meet and exercise any or all of its powers at any time or place. Except as otherwise expressly provided by law, the Authority may, by one or more of its members or by such agents as it may designate, make any appropriate inquiry necessary to carry out its duties wherever persons subject to this chapter are located. Any member who participates in the inquiry shall not be disqualified from later participating in a decision of the Authority in any case relating to the inquiry.
 
 (d) The Authority shall appoint an Executive Director and such regional directors, administrative law judges under section 3105 of this title, and other individuals as it may from time to time find necessary for the proper performance of its functions. The Authority may delegate to officers and employees appointed under this subsection authority to perform such duties and make such expenditures as may be necessary.
 
@@ -40,7 +40,7 @@
 
 (2) The Authority may delegate to any administrative law judge appointed under subsection (d) of this section its authority under section 7118 of this title to determine whether any person has engaged in or is engaging in an unfair labor practice.
 
-(f) If the Authority delegates any authority to any regional director or administrative law judge to take any action pursuant to subsection (e) of this section, the Authority may, upon application by any interested person filed within 60 days after the date of the action, review such action, but the review shall not, unless specifically ordered by the Authority, operate as a stay of action. The Authority may affirm, modify, or reverse any action reviewed under thissubsection. If the Authority does not undertake to grant review of the action under this subsection within 60 days after the later of—
+(f) If the Authority delegates any authority to any regional director or administrative law judge to take any action pursuant to subsection (e) of this section, the Authority may, upon application by any interested person filed within 60 days after the date of the action, review such action, but the review shall not, unless specifically ordered by the Authority, operate as a stay of action. The Authority may affirm, modify, or reverse any action reviewed under this subsection. If the Authority does not undertake to grant review of the action under this subsection within 60 days after the later of—
 
 &emsp;(1) the date of the action; or
 

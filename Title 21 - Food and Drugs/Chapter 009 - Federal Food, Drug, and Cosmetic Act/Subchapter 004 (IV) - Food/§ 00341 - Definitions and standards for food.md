@@ -1,6 +1,6 @@
 ### §341. Definitions and standards for food
 
-Whenever in the judgment of the Secretary such action will promote honesty and fair dealing in the interest of consumers, he shall promulgate regulations fixing and establishing for any food, under its common or usual name so far as practicable, a reasonable definition and standard of identity, a reasonable standard of quality, or reasonable standards of fill of container. No definition and standard of identity and no standard of quality shall be established for fresh or dried fruits, fresh or dried vegetables, or butter, except that definitions and standards of identity may be established for avocadoes, cantaloupes, citrus fruits, and melons. In prescribing any standard of fill of container, the Secretary shall give due consideration to the natural shrinkage in storage and in transit of fresh natural food and to need for the necessary packing and protective material. In the prescribing of any standard of quality for any canned fruit or canned vegetable, consideration shall be given and due allowance made for the differing characteristics of the several varieties of such fruit or vegetable. In prescribing a definition and standard of identity for any food or class of food in which optional ingredients are permitted, the Secretary shall, for the purpose of promoting honesty and fair dealing in the interest of consumers, designate the optional ingredients which shall be named on the label. Any definition and standard of identity prescribed by the Secretary for avocadoes, cantaloupes, citrus fruits, or melons shall relate only to maturity and to the effects of freezing.
+Whenever in the judgment of the Secretary such action will promote honesty and fair dealing in the interest of consumers, he shall promulgate regulations fixing and establishing for any food, under its common or usual name so far as practicable, a reasonable definition and standard of identity, a reasonable standard of quality, or reasonable standards of fill of container. No definition and standard of identity and no standard of quality shall be established for fresh or dried fruits, fresh or dried vegetables, or butter, except that definitions and standards of identity may be established for avocadoes, cantaloupes, citrus fruits, and melons. In prescribing any standard of fill of container, the Secretary shall give due consideration to the natural shrinkage in storage and in transit of fresh natural food and to need for the necessary packing and protective material. In the prescribing of any standard of quality for any canned fruit or canned vegetable, consideration shall be given and due allowance made forthe differing characteristics of the several varieties of such fruit or vegetable. In prescribing a definition and standard of identity for any food or class of food in which optional ingredients are permitted, the Secretary shall, for the purpose of promoting honesty and fair dealing in the interest of consumers, designate the optional ingredients which shall be named on the label. Any definition and standard of identity prescribed by the Secretary for avocadoes, cantaloupes, citrus fruits, or melons shall relate only to maturity and to the effects of freezing.
 
 (June 25, 1938, ch. 675, §401, 52 Stat. 1046; Apr. 15, 1954, ch. 143, §1, 68 Stat. 54; Aug. 1, 1956, ch. 861, §1, 70 Stat. 919; Pub. L. 103–80, §3(h), Aug. 13, 1993, 107 Stat. 776.)
 
@@ -30,7 +30,7 @@ In General.—The President's Council on Food Safety (as established by Executiv
 
 “(b)
 
-Authorization of Appropriations.—For the purpose of implementing the strategy developed under subsection (a), there are authorized to be appropriated$750,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.”
+Authorization of Appropriations.—For the purpose of implementing the strategy developed under subsection (a), there are authorized to be appropriated $750,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.”
 
 #### Food Safety Commission
 
@@ -144,7 +144,7 @@ Powers of the Commission.—
 
 &emsp;“(1)
 
-Hearings.—The Commission may, for the purpose of carrying out this section, hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable.
+Hearings.—The Commission may, for the purpose of carrying out this section, hold such hearings,meet and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable.
 
 &emsp;“(2)
 

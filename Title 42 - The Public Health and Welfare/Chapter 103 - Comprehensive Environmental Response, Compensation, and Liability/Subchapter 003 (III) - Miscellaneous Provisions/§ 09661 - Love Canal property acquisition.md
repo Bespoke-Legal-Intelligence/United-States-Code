@@ -10,7 +10,7 @@ No property shall be acquired pursuant to this section unless the property owner
 
 #### (c) State ownership
 
-The Administrator shall not provide any funds under this section for the acquisition of anyproperties pursuant to this section unless a public agency or authority of the State of New York first enters into a cooperative agreement with the Administrator providing assurances deemed adequate by the Administrator that the State or an agency created under the laws of the State shall take title to the properties to be so acquired.
+The Administrator shall not provide any funds under this section for the acquisition of any properties pursuant to this section unless a public agency or authority of the State of New York first enters into a cooperative agreement with the Administrator providing assurances deemed adequate by the Administrator that the State or an agency created under the laws of the State shall take title to the properties to be so acquired.
 
 #### (d) Maintenance of property
 
@@ -24,7 +24,7 @@ The Administrator shall conduct or cause to be conducted a habitability and land
 
 &emsp;(2) compare the level of hazardous waste contamination in that Area to that present in other comparable communities; and
 
-&emsp;(3) assess the potential uses of the land within the Emergency Declaration Area, including but not limited to residential, industrial, commercial and recreational, and the risks associated with such potential uses.
+&emsp;(3) assess the potential uses of the land within the Emergency Declaration Area, includingbut not limited to residential, industrial, commercial and recreational, and the risks associated with such potential uses.
 
 > The Administrator shall publish the findings of such study and shall work with the State of New York to develop recommendations based upon the results of such study.
 

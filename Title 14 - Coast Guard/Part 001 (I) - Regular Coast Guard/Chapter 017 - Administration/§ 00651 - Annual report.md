@@ -16,7 +16,3 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1976—Pub. L. 94–546 substituted “April” for “January”.
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 132 of House Document No. 103–7.
-

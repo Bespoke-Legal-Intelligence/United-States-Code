@@ -18,7 +18,7 @@
 
 &emsp;(B) abide by the terms of the predecessor contractor's collective bargaining agreement until the agreement expires or a new agreement is signed.
 
-(5) In the event of a plant closing or mass layoff (as such terms are defined in section 2101(a)(2) and (3) of title 29) at either of the gaseous diffusion plants, the Secretary of Energy shall treat any adversely affected employee of an operating contractor at either plant who was an employee at such plant on July 1, 1993, as a Department of Energy employee for purposes of sections 7274h and 7274i of this title.
+(5) In the event of a plant closing or mass layoff (as such terms are defined in section 2101(a)(2) and (3) of title 29) at either of the gaseous diffusion plants, the Secretary of Energy shall treat any adversely affected employee of an operating contractor at either plant who was an employee at such plant on July 1, 1993, as a Department of Energy employee for purposes of sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993 (42 U.S.C. 7274h–7274i).<sup>1</sup>
 
 (6)(A) The Secretary and the private corporation shall cause the post-retirement health benefits plan provider (or its successor) to continue to provide benefits for eligible persons, as described under subparagraph (B), employed by an operating contractor at either of the gaseous diffusion plants in an economically efficient manner and at substantially the same level of coverage as eligible retirees are entitled to receive on the privatization date.
 
@@ -73,6 +73,8 @@
 #### References in Text
 
 The National Labor Relations Act, referred to in subsec. (a)(3), (7)(C), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+
+Sections 3161 and 3162 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (a)(5), were classified to sections 7274h and 7274i, respectively, of this title and were renumbered sections 4604 and 4643, respectively, of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(5)(A)–(C), (14)(A)–(C), Nov. 24, 2003, 117 Stat. 1777, 1779, 1780, which are classified to sections 2704 and 2733, respectively, of Title 50, War and National Defense.
 
 Section 185 of title 29, referred to in subsec. (a)(7)(A), was in the original “section 301 of the Labor Management Relations Act (29 U.S.C. 185)”, and has been translated as reading section 301 of the Labor Management Relations Act, 1947, to reflect the probable intent of Congress.
 

@@ -21,7 +21,7 @@
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, struck out item 180 “Military retirement pay for retired judges”.
 
-1992—Pub. L. 102–572, title IX, §§902(a), 903(b), Oct. 29, 1992, 106 Stat. 4516, 4517, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading, substituted “Court of Federal Claims” for “Claims Court” in item 178, and added items 179 and 180.
+1992—Pub. L. 102–572, title IX, §§902(a), 903(b), Oct. 29, 1992, 106 Stat. 4516, 4517, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITEDSTATES CLAIMS COURT” as chapter heading, substituted “Court of Federal Claims” for “Claims Court” in item 178, and added items 179 and 180.
 
 1990—Pub. L. 101–650, title III, §306(a)(2), Dec. 1, 1990, 104 Stat. 5109, added item 178.
 

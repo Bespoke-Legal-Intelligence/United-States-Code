@@ -90,7 +90,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2) high-speed rail may have environmental advantages over certain other forms of intercity transportation;
 
-&emsp;“(3) Amtrak's Metroliner service between Washington, District of Columbia, and New York, New York, the United States premier high-speed rail service, has shown that Americans will use high-speed rail when that transportation option is available;
+&emsp;“(3) Amtrak's Metroliner service between Washington, District of Columbia, and New York, New York,the United States premier high-speed rail service, has shown that Americans will use high-speed rail when that transportation option is available;
 
 &emsp;“(4) new high-speed rail service should not receive Federal subsidies for operating and maintenance expenses;
 

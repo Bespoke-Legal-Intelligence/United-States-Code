@@ -26,7 +26,7 @@ The Commission is authorized to conduct such reasonable inspections and other en
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in subsecs. (a) and (c), is act Aug. 1, 1946, ch. 724, asadded by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsecs. (a) and (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Transfer of Functions
 

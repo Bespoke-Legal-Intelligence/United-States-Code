@@ -14,23 +14,9 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 &emsp;&emsp;(B) provide assistance for fire prevention programs in accordance with paragraph (4).
 
-#### (2) Office for administration of assistance
+#### (2) Administrative assistance
 
-#### (A) Establishment
-
-&emsp;&emsp;Before providing assistance under paragraph (1), the Director shall establish an office in the Federal Emergency Management Agency to administer the assistance under this section.
-
-#### (B) Included duties
-
-&emsp;&emsp;The duties of the office shall include the following:
-
-#### (i) Recipient selection criteria
-
-&emsp;&emsp;&emsp;To establish specific criteria for the selection of recipients of the assistance under this section.
-
-#### (ii) Grant-writing assistance
-
-&emsp;&emsp;&emsp;To provide grant-writing assistance to applicants.
+&emsp;The Director shall establish specific criteria for the selection of recipients of assistance under this section and shall provide grant-writing assistance to applicants.
 
 #### (3) Use of fire department grant funds
 
@@ -38,7 +24,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 &emsp;&emsp;(A) To hire additional firefighting personnel.
 
-&emsp;&emsp;(B) To train firefighting personnel in firefighting, emergency response (including response to a terrorism incident or use of a weapon of mass destruction), arson prevention and detection, or the handling of hazardous materials, or to train firefighting personnel to provide any of the training described in this subparagraph.
+&emsp;&emsp;(B) To train firefighting personnel in firefighting, emergency response (including response to a terrorism incident or use of a weapon of mass destruction), arson prevention and detection, maritime firefighting, or the handling of hazardous materials, or to train firefighting personnel to provide any of the training described in this subparagraph.
 
 &emsp;&emsp;(C) To fund the creation of rapid intervention teams to protect firefighting personnel at the scenes of fires and other emergencies.
 
@@ -50,7 +36,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 &emsp;&emsp;(G) To acquire additional firefighting vehicles, including fire trucks.
 
-&emsp;&emsp;(H) To acquire additional firefighting equipment, including equipment for communications, monitoring, and response to a terrorism incident or use of a weapon of mass destruction.
+&emsp;&emsp;(H) To acquire additional firefighting equipment, including equipment for fighting fires with foam in remote areas without access to water, and equipment for communications, monitoring, and response to a terrorism incident or use of a weapon of mass destruction.
 
 &emsp;&emsp;(I) To acquire personal protective equipment required for firefighting personnel by the Occupational Safety and Health Administration, and other personal protective equipment for firefighting personnel, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction.
 
@@ -118,7 +104,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (7) Maintenance of expenditures
 
-&emsp;The Director may provide assistance under this subsection only if the applicant for the assistance agrees to maintain in the fiscal year for which the assistance will be receivedthe applicant's aggregate expenditures for the uses described in paragraph (3) or (4) at or above the average level of such expenditures in the two fiscal years preceding the fiscal year for which the assistance will be received.
+&emsp;The Director may provide assistance under this subsection only if the applicant for the assistance agrees to maintain in the fiscal year for which the assistance will be received the applicant's aggregate expenditures for the uses described in paragraph (3) or (4) at or above the average level of such expenditures in the two fiscal years preceding the fiscal year for which the assistance will be received.
 
 #### (8) Report to the Director
 
@@ -148,6 +134,10 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 &emsp;In making grants to firefighting departments, the Director shall ensure that those firefighting departments that have either all-volunteer forces of firefighting personnel or combined forces of volunteer and professional firefighting personnel receive a proportion of the total grant funding that is not less than the proportion of the United States population that those firefighting departments protect.
 
+#### (12) Eligible grantee on behalf of Alaska Native villages
+
+&emsp;The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be considered an eligible grantee for purposes of receiving assistance under this section on behalf of Alaska Native villages.
+
 #### (c) Audits
 
 A recipient of a grant under this section shall be subject to audits to ensure that the grant proceeds are expended for the intended purposes and that the grant recipient complies with the requirements of paragraphs (6) and (7) of subsection (b) of this section.
@@ -160,19 +150,47 @@ In this section, the term “State” includes the District of Columbia and the 
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.
+&emsp;There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section. Of the amounts authorized in this paragraph, $3,000,000 shall be made available each year through fiscal year 2008 for foam firefighting equipment.
 
 #### (2) Administrative expenses
 
-&emsp;Of the funds appropriated pursuant to paragraph (1) for a fiscal year, the Director may use not more than three percent of the funds to cover salaries and expenses and other administrative costs incurred by the Director to operate the office established under subsection (b)(2) of this section and make grants and provide assistance under this section.
+&emsp;Of the funds appropriated pursuant to paragraph (1) for a fiscal year, the Director may use not more than three percent of the funds to cover salaries and expenses and other administrative costs incurred by the Director to make grants and provide assistance under this section.
 
-(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231.)
+(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, §421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, §205, Dec. 6, 2003, 117 Stat. 2040.)
 
 #### Codification
 
-Another section 33 of Pub. L. 93–498 is classified to section 2230 of this title.
+Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classified to section 2230 of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–169, §205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+
+“(A)
+
+Establishment.—Before providing assistance under paragraph (1), the Director shall establish an office in the Federal Emergency Management Agency to administer the assistance under this section.
+
+“(B)
+
+Included duties.—The duties of the office shall include the following:
+
+&emsp;“(i)
+
+Recipient selection criteria.—To establish specific criteria for the selection of recipients of the assistance under this section.
+
+&emsp;“(ii)
+
+Grant-writing assistance.—To provide grant-writing assistance to applicants.”
+
+Subsec. (b)(3)(B). Pub. L. 108–169, §205(b), inserted “maritime firefighting,” after “arson prevention and detection,”.
+
+Subsec. (b)(3)(H). Pub. L. 108–169, §205(c)(1), inserted “equipment for fighting fires with foam in remote areas without access to water, and” after “including”.
+
+Subsec. (b)(12). Pub. L. 108–7 added par. (12).
+
+Subsec. (e)(1). Pub. L. 108–169, §205(c)(2), inserted at end “Of the amounts authorized in this paragraph, $3,000,000 shall be made available each year through fiscal year 2008 for foam firefighting equipment.”
+
+Subsec. (e)(2). Pub. L. 108–169, §205(a)(2), struck out “operate the office established under subsection (b)(2) of this section and” before “make grants and provide assistance under this section.”
 
 2001—Subsec. (b)(3). Pub. L. 107–107, §1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
 
@@ -185,4 +203,8 @@ Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2207 of this title.
 

@@ -4,7 +4,7 @@ In securing the privatizations required by section 763 of this title, the follow
 
 #### (1) Reaffiliation prohibited
 
-&emsp;Any merger, ownership of more than one percent of the voting securities, or management ties or exclusive arrangements betweenInmarsat or any successor entity or separated entity and ICO shall be prohibited until 15 years after the completion of Inmarsat privatization under this subchapter.
+&emsp;Any merger, ownership of more than one percent of the voting securities, or management ties or exclusive arrangements between Inmarsat or any successor entity or separated entity and ICO shall be prohibited until 15 years after the completion of Inmarsat privatization under this subchapter.
 
 #### (2) Interlocking directorates or employees
 

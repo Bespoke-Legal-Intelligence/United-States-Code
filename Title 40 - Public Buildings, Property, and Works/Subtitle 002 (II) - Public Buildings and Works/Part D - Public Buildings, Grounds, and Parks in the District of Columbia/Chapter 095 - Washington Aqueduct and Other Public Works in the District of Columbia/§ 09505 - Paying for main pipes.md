@@ -6,7 +6,7 @@ Federal Government.—The Federal Government shall only pay for the number of ma
 
 (b)
 
-District of Columbia.—The District of Columbia shall pay the cost of any main pipe of the Washington Aqueduct which supplies water to the inhabitants of the District of Columbia, in the manner provided by law.
+District of Columbia.—The District of Columbia shall pay the cost of any main pipe ofthe Washington Aqueduct which supplies water to the inhabitants of the District of Columbia, in the manner provided by law.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1234.)
 

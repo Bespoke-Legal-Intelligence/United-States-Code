@@ -28,7 +28,7 @@ The Secretary, acting through the Director of the Bureau of Land Management, sha
 
 &emsp;&emsp;&emsp;(I) for installing, repairing, maintaining, and reconstructing water development projects, including guzzlers, that would enhance the Conservation Area by promoting healthy, viable, and more naturally distributed wildlife populations; and
 
-&emsp;&emsp;&emsp;(II) subject to any limitations that are not more restrictive than the limitations on such uses authorized in wilderness areas under section 208 <sup>1</sup>; and
+&emsp;&emsp;&emsp;(II) subject to any limitations that are not more restrictive than the limitations on such uses authorized in wilderness areas under section 208; <sup>1</sup> and
 
 &emsp;&emsp;(ii) include or provide recommendations on ways of minimizing the visual impacts of such activities on the Conservation Area;
 
@@ -84,7 +84,7 @@ Except as needed for administrative purposes or to respond to an emergency, the 
 
 #### (2) Private land
 
-&emsp;If the use of, or conduct of an activity on, private land that shares a boundary with theConservation Area is consistent with applicable law, nothing in this subchapter concerning the establishment of the Conservation Area shall prohibit or limit the use or conduct of the activity.
+&emsp;If the use of, or conduct of an activity on, private land that shares a boundary with the Conservation Area is consistent with applicable law, nothing in this subchapter concerning the establishment of the Conservation Area shall prohibit or limit the use or conduct of the activity.
 
 (Pub. L. 107–282, title VI, §605, Nov. 6, 2002, 116 Stat. 2010.)
 

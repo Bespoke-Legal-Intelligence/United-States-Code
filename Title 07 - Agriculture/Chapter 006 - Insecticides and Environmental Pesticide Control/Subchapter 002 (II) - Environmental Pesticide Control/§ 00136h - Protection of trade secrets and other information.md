@@ -6,7 +6,7 @@ In submitting data required by this subchapter, the applicant may (1) clearly ma
 
 #### (b) Disclosure
 
-Notwithstanding any other provision of this subchapter and subject to the limitations in subsections (d) and (e) of this section, the Administrator shall not make public information which in the Administrator's judgment contains or relates to trade secrets or commercial or financial information obtained from a person and privileged or confidential, except that, when necessary to carry out the provisions of this subchapter, information relating to formulas of products acquired by authorization of this subchapter may be revealed to any Federal agency consulted and may be revealed at a public hearing or in findings of fact issued by the Administrator.
+Notwithstanding any other provision of this subchapter and subject to the limitations in subsections (d) and (e) of this section, the Administrator shall not make public information which in the Administrator's judgment contains or relates to trade secrets or commercial or financial information obtained from a person and privileged or confidential, except that, when necessary to carry out the provisions of this subchapter, information relating to formulas of products acquired by authorization of this subchapter may be revealed to any Federal agencyconsulted and may be revealed at a public hearing or in findings of fact issued by the Administrator.
 
 #### (c) Disputes
 
@@ -14,7 +14,7 @@ If the Administrator proposes to release for inspection information which the ap
 
 #### (d) Limitations
 
-(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence,translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title. This paragraph does not authorize the disclosure of any information that—
+(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title. This paragraph does not authorize the disclosure of any information that—
 
 &emsp;(A) discloses manufacturing or quality control processes,
 

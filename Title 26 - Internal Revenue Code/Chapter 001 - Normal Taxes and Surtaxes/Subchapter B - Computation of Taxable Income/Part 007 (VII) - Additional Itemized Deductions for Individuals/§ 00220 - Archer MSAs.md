@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “small employer” means, with respect to any calendar year, any employer if such employer employed an average of 50 or fewer employees on business days duringeither of the 2 preceding calendar years. For purposes of the preceding sentence, a preceding calendar year may be taken into account only if the employer was in existence throughout such year.
+&emsp;&emsp;The term “small employer” means, with respect to any calendar year, any employer if such employer employed an average of 50 or fewer employees on business days during either of the 2 preceding calendar years. For purposes of the preceding sentence, a preceding calendar year may be taken into account only if the employer was in existence throughout such year.
 
 #### (B) Employers not in existence in preceding year
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Paragraph (2) shall not apply to any amount paid or distributed from an Archer MSA to the account holder to the extent the amount received is paid into an Archer MSA for the benefit of such holder not later than the 60th day after the day on which the holder receives the payment or distribution.
+&emsp;&emsp;Paragraph (2) shall not apply to any amount paid or distributed from an Archer MSA to the account holder to the extent the amount received is paid into an Archer MSA or a health savings account (as defined in section 223(d)) for the benefit of such holder not later than the 60th day after the day on which the holder receives the payment or distribution.
 
 #### (B) Limitation
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 #### (7) Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, betreated as an Archer MSA with respect to which such spouse is the account holder.
+&emsp;The transfer of an individual's interest in an Archer MSA to an individual's spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) shall not be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest shall, after such transfer, be treated as an Archer MSA with respect to which such spouse is the account holder.
 
 #### (8) Treatment after death of account holder
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such account shall cease to be an Archer MSA as of the date of death, and
 
-&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the fair market value of the assets in such account on such date shall be includible if such person is not the estate of such holder, in such person's gross income for the taxable year which includes such date, or if such person is the estate of such holder, in such holder's gross income for the last taxable year of such holder.
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the fair market value of the assets in such account on such date shall be includible if such person is not the estate of such holder, insuch person's gross income for the taxable year which includes such date, or if such person is the estate of such holder, in such holder's gross income for the last taxable year of such holder.
 
 #### (ii) Special rules
 
@@ -398,7 +398,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (ii) Employees with enrollment periods after October 1
 
-&emsp;&emsp;&emsp;In the case of an individual described in subclause (I) of subsection (c)(1)(A)(iii), ifthe regularly scheduled enrollment period for health plans of the individual's employer occurs during the last 3 months of the cut-off year, the cut-off date is December 31 of the cut-off year.
+&emsp;&emsp;&emsp;In the case of an individual described in subclause (I) of subsection (c)(1)(A)(iii), if the regularly scheduled enrollment period for health plans of the individual's employer occurs during the last 3 months of the cut-off year, the cut-off date is December 31 of the cut-off year.
 
 #### (iii) Self-employed individuals
 
@@ -416,7 +416,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;For purposes of this subsection, the term “MSA-participating employer” means any small employer if—
 
-&emsp;&emsp;(A) such employer made any contribution to the Archer MSA of any employee during the cut-off year or any preceding calendar year which was excludable from gross income under section 106(b), or
+&emsp;&emsp;(A) such employer made any contribution to the Archer MSA of any employee duringthe cut-off year or any preceding calendar year which was excludable from gross income under section 106(b), or
 
 &emsp;&emsp;(B) at least 20 percent of the employees of such employer who are eligible individuals for any month of the cut-off year by reason of coverage under a high deductible health plan of such employer each made a contribution of at least $100 to their Archer MSAs for any taxable year ending with or within the cut-off year which was allowable as a deduction under this section.
 
@@ -502,17 +502,17 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (D) Aggregation of accounts
 
-&emsp;&emsp;To the extent practicable, in determining the number of Archer MSAs on the basis of the reports under this paragraph, all Archer MSAs of an individual shall be treated as 1 account and all accounts of individuals who are married to each other shall be treated as 1 account.
+&emsp;&emsp;To the extent practicable, in determining the number of Archer MSAs on the basis ofthe reports under this paragraph, all Archer MSAs of an individual shall be treated as 1 account and all accounts of individuals who are married to each other shall be treated as 1 account.
 
 #### (5) Date of making determinations
 
 &emsp;Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
 
-(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61.)
+(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476.)
 
-#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2003
+#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2004
 
-<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2003, see section 3.17 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2004, see section 3.19 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -520,13 +520,15 @@ The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Au
 
 #### Prior Provisions
 
-A prior section 220 was renumbered 223 of this title.
+A prior section 220 was renumbered 224 of this title.
 
 Another prior section 220, added Pub. L. 100–647, title VI, §6007(a), Nov. 10, 1988, 102 Stat. 3687, related to jury duty pay remitted to employer, prior to repeal by Pub. L. 101–508, title XI, §11802(e)(2), Nov. 5, 1990, 104 Stat. 1388–530.
 
 Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
 
 #### Amendments
+
+2003—Subsec. (f)(5)(A). Pub. L. 108–173 inserted “or a health savings account (as defined in section 223(d))” after “paid into an Archer MSA”.
 
 2002—Subsec. (i)(2). Pub. L. 107–147, §612(a), substituted “2003” for “2002” in subpars. (A) and (B).
 
@@ -618,6 +620,10 @@ Subsec. (c)(3). Pub. L. 105–34, §1602(a)(2), redesignated subpars. (B) to (D)
 
 Subsec. (d)(2)(C). Pub. L. 105–34, §1602(a)(3), substituted “described in clauses (i) and (ii) of subsection (c)(1)(A)” for “an eligible individual”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title VI, §612(c), Mar. 9, 2002, 116 Stat. 61, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2002.”
@@ -664,5 +670,5 @@ Section 301(<i>l</i>) of Pub. L. 104–191 provided that: “The Comptroller Gen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 35, 62, 106, 138, 530, 848, 4973, 4975, 4980E, 6051, 6693 of this title; title 42 section 300e.
+This section is referred to in sections 26, 35, 62, 106, 138, 223, 530, 848, 4973, 4975, 4980E, 6051, 6693 of this title; title 42 section 300e.
 

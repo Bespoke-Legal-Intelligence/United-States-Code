@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) the Federal Bureau of Investigation;
 
-&emsp;&emsp;(E) the National Imagery and Mapping Agency; and
+&emsp;&emsp;(E) the National Geospatial-Intelligence Agency; and
 
 &emsp;&emsp;(F) as determined by the President, any Executive agency or unit thereof, the principal function of which is the conduct of foreign intelligence or counterintelligence activities; and
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(D) with respect to the Federal Bureau of Investigation, the Director of the Federal Bureau of Investigation;
 
-&emsp;&emsp;(E) with respect to the National Imagery and Mapping Agency, the Director of the National Imagery and Mapping Agency; and
+&emsp;&emsp;(E) with respect to the National Geospatial-Intelligence Agency, the Director of the National Geospatial-Intelligence Agency; and
 
 &emsp;&emsp;(F) with respect to an Executive agency designated under paragraph (1)(F), the head of such Executive agency, and with respect to a unit of an Executive agency designated under paragraph (1)(F), such individual as the President may determine.
 
@@ -44,9 +44,11 @@
 
 (d) The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
 
-(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, §322, Nov. 27, 2002, 116 Stat. 2391.)
+(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, §322, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 #### Amendments
+
+2003—Subsec. (a)(1)(E), (2)(E). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” wherever appearing.
 
 2002—Subsec. (b). Pub. L. 107–306, §322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
 

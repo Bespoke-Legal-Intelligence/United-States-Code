@@ -92,7 +92,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) Landlords
 
-&emsp;&emsp;A landlord contributing land to the farming operation if the landlord receives cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for such use of the land.
+&emsp;&emsp;A landlord contributing land to the farming operation if the landlord receives cashrent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for such use of the land.
 
 #### (B) Other persons
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) carry firearms;
 
-&emsp;(2) execute and serve search warrants, arrest warrants, administrative inspection warrants,subpenas, and summonses issued under the authority of the United States;
+&emsp;(2) execute and serve search warrants, arrest warrants, administrative inspection warrants, subpenas, and summonses issued under the authority of the United States;
 
 &emsp;(3) make arrests without warrant (A) for any offense against the United States committed in his presence, or (B) for any felony, cognizable under the laws of the United States, if he has probable cause to believe that the person to be arrested has committed or is committing a felony;
 

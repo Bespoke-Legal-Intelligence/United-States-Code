@@ -96,7 +96,7 @@ In this section, the term “eligible entity” means a State educational agency
 
 &emsp;&emsp;Each application submitted to the Secretary under subparagraph (A), other than an application for a dissemination grant under paragraph (2), shall contain—
 
-&emsp;&emsp;&emsp;(i) a description of how parents of Indian children and representatives of Indian tribes have been, and will be, involved indeveloping and implementing the activities for which assistance is sought;
+&emsp;&emsp;&emsp;(i) a description of how parents of Indian children and representatives of Indian tribes have been, and will be, involved in developing and implementing the activities for which assistance is sought;
 
 &emsp;&emsp;&emsp;(ii) assurances that the applicant will participate, at the request of the Secretary, in any national evaluation of activities assisted under this section;
 

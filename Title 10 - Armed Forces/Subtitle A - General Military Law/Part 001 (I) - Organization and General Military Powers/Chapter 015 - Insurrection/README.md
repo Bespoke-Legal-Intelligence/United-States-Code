@@ -17,7 +17,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 115 of this title; title 38 section 4312.
+This chapter is referred to in sections 101, 115 of this title; title 6 section 466; title 38 section 4312.
 
 
 ---

@@ -6,7 +6,7 @@ The Secretary shall develop and implement a program for acute detoxification and
 
 #### (b) Treatment centers or facilities
 
-(1) The Secretary shall construct, renovate, or, as necessary, purchase, and appropriately staff and operate, a youth regional treatment center in each area under the jurisdiction of an area office. For the purposes of this subsection, the area offices of the Service in Tucson and Phoenix, Arizona, shall be considered one area office and the area office in California shall be considered to be two area offices, one office whose jurisdiction shall be considered to encompass the northern area of the State of California, and one office whose jurisdiction shall be considered to encompass the remainder of the State of California.
+(1) The Secretary shall construct, renovate, or, as necessary, purchase, and appropriately staff and operate, a youth regional treatment center in each area under the jurisdiction of anarea office. For the purposes of this subsection, the area offices of the Service in Tucson and Phoenix, Arizona, shall be considered one area office and the area office in California shall be considered to be two area offices, one office whose jurisdiction shall be considered to encompass the northern area of the State of California, and one office whose jurisdiction shall be considered to encompass the remainder of the State of California.
 
 (2) For the purpose of staffing and operating such centers or facilities, funding shall be pursuant to section 13 of this title.
 

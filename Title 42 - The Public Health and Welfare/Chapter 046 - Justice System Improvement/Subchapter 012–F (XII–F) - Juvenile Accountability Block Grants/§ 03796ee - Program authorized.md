@@ -22,7 +22,7 @@ Amounts paid to a State or a unit of local government under this subchapter shal
 
 &emsp;(7) establishing juvenile gun courts for the prosecution and adjudication of juvenile firearms offenders;
 
-&emsp;(8) establishing drug court programs for juvenile offenders that provide continuing judicial supervision over juvenile offenders with substance abuse problems and the integratedadministration of other sanctions and services for such offenders;
+&emsp;(8) establishing drug court programs for juvenile offenders that provide continuing judicial supervision over juvenile offenders with substance abuse problems and the integrated administration of other sanctions and services for such offenders;
 
 &emsp;(9) establishing and maintaining a system of juvenile records designed to promote public safety;
 
@@ -30,7 +30,7 @@ Amounts paid to a State or a unit of local government under this subchapter shal
 
 &emsp;(11) establishing and maintaining accountability-based programs designed to reduce recidivism among juveniles who are referred by law enforcement personnel or agencies;
 
-&emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental health screening and treatment and substance abuse testing and treatment to such offenders;
+&emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental healthscreening and treatment and substance abuse testing and treatment to such offenders;
 
 &emsp;(13) establishing and maintaining accountability-based programs that are designed to enhance school safety;
 

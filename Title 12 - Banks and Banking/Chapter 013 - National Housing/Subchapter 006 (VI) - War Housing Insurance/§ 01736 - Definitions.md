@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-(a) The term “mortgage” means a first mortgage on real estate, in fee simple, or on a leasehold (1) under a lease for not less than ninety-nine years which is renewable; or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed; and the term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate, under the laws of the State in which the real estate is located, together with the credit instruments, if any, secured thereby.
+(a) The term “mortgage” means a first mortgage on real estate, in fee simple, or on a leasehold (1) under a lease for not less than ninety-nine years which is renewable; or (2) under alease having a period of not less than fifty years to run from the date the mortgage was executed; and the term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate, under the laws of the State in which the real estate is located, together with the credit instruments, if any, secured thereby.
 
 (b) The term “mortgagee” includes the original lender under a mortgage, and his successors and assigns approved by the Secretary; and the term “mortgagor” includes the original borrower under a mortgage and his successors and assigns.
 
@@ -10,7 +10,7 @@ As used in this subchapter—
 
 (d) The term “State” includes the several States, and Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
-(June 27, 1934, ch. 847, title VI, §601, as added Mar. 28, 1941, ch. 31, §1, 55 Stat. 55; amended Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14,1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
+(June 27, 1934, ch. 847, title VI, §601, as added Mar. 28, 1941, ch. 31, §1, 55 Stat. 55; amended Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
 
 #### Amendments
 

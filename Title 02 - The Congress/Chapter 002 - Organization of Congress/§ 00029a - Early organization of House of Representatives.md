@@ -32,7 +32,7 @@ Section is based on section 202 of House Resolution No. 988, Ninety-third Congre
 
 #### Amendments
 
-1996—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted “House Oversight” for “House Administration” in two places.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted “House Oversight” for “House Administration” in two places.
 
 Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
 

@@ -32,7 +32,7 @@ Nurse II.
 
 Nurse I.
 
-clinical podiatrist and optometrist schedule
+clinical podiatrist, chiropractor, and optometrist schedule
 
 Chief grade.
 
@@ -54,13 +54,19 @@ Associate grade.
 
 &emsp;(2) Level V for all other positions for which such basic pay is paid under this section.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, §206, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §301(a), Nov. 4, 1992, 106 Stat. 4951.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 225; amended Pub. L. 102–405, title II, §206, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §301(a), Nov. 4, 1992, 106 Stat. 4951; Pub. L. 108–170, title III, §302(d), Dec. 6, 2003, 117 Stat. 2058.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–170 substituted “
+
+clinical podiatrist, chiropractor, and optometrist schedule” for “
+
+clinical podiatrist and optometrist schedule” as third center heading in table.
 
 1992—Subsec. (b)(1). Pub. L. 102–585 inserted items relating to Nurse V through I under heading “
 
@@ -70,15 +76,19 @@ Subsec. (b)(2). Pub. L. 102–405, §206, inserted “, or comparable position�
 
 Subsec. (d)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Section 308 of Pub. L. 102–585 provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
-#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 2003
+#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 2004
 
-Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2003. See Schedule set out below:
+Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2004. See Schedule set out below:
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2003)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2004)
 
 &nbsp;
 
@@ -90,15 +100,15 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup
 
 Deputy Under Secretary for Health
 
-<sup>2</sup> $144,591
+<sup>2</sup> $148,495
 
 Associate Deputy Under Secretary for Health
 
-<sup>3</sup> 138,491
+<sup>3</sup> 142,230
 
 Assistant Under Secretaries for Health
 
-<sup>3</sup> 134,408
+<sup>3</sup> 138,037
 
 &nbsp;
 
@@ -108,153 +118,153 @@ Maximum
 
 Medical Directors
 
-$114,678
+$117,774
 
-<sup>3</sup> $129,972
+<sup>3</sup> $133,481
 
 Service Directors
 
-99,853
+102,549
 
-124,011
+127,359
 
 Director, National Center for Preventive Health
 
-85,140
+87,439
 
-124,011
+127,359
 
 Physician and Dentist Schedule
 
 Director Grade
 
-$99,853
+$102,549
 
-$124,011
+$127,359
 
 Executive Grade
 
-92,204
+94,694
 
-117,511
+120,684
 
 Chief Grade
 
-85,140
+87,439
 
-110,682
+113,674
 
 Senior Grade
 
-72,381
+74,335
 
-94,098
+96,637
 
 Intermediate Grade
 
-61,251
+62,905
 
-79,629
+81,778
 
 Full Grade
 
-51,508
+52,899
 
-66,961
+68,766
 
 Associate Grade
 
-42,976
+44,136
 
-55,873
+57,375
 
 Clinical Podiatrist and Optometrist Schedule
 
 Chief Grade
 
-$85,140
+$87,439
 
-$110,682
+$113,674
 
 Senior Grade
 
-72,381
+74,335
 
-94,098
+96,637
 
 Intermediate Grade
 
-61,251
+62,905
 
-79,629
+81,778
 
 Full Grade
 
-51,508
+52,899
 
-66,961
+68,766
 
 Associate Grade
 
-42,976
+44,136
 
-55,873
+57,375
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$85,140
+$87,439
 
-$110,682
+$113,674
 
 Assistant Director Grade
 
-72,381
+74,335
 
-94,098
+96,637
 
 Chief Grade
 
-61,251
+62,905
 
-79,629
+81,778
 
 Senior Grade
 
-51,508
+52,899
 
-66,961
+68,766
 
 Intermediate Grade
 
-42,976
+44,136
 
-55,873
+57,375
 
 Full Grade
 
-35,519
+36,478
 
-46,175
+47,422
 
 Associate Grade
 
-30,565
+31,390
 
-39,736
+40,804
 
 Junior Grade
 
-26,130
+26,836
 
-33,969
+34,891
 
 <sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Services. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
 
-<sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $134,000.
+<sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $136,900.
 
-<sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $125,400.
+<sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $128,200.
 
 <sup>4</sup> Pursuant to section 301(a) of Public Law 102–40, these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) \[former section 4107(b) of Title 38, Veterans’ Benefits\] as in effect on August 14, 1990, with subsequent adjustments.
 
@@ -392,7 +402,15 @@ Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided 
 
 #### Executive Order No. 13249
 
-Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002,was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 13282
+
+Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, which provided for adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
+
+#### Executive Order No. 13322
+
+Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

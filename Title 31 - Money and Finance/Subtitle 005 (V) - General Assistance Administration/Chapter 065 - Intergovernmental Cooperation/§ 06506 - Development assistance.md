@@ -24,7 +24,7 @@
 
 (e) To the maximum extent practicable, each executive agency carrying out a development assistance program shall consult with and seek advice from all other significantly affected executive agencies in an effort to ensure completely coordinated programs. To the extent possible, systematic planning required by individual United States Government programs (such as highway construction, urban renewal, and open space) shall be coordinated with and, to the extent authorized by law, made part of comprehensive local and areawide development planning.
 
-(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local government in the absence of substantial reasons to the contrary.
+(f) When a law of the United States provides that both a special-purpose unit of local government and a unit of general local government are eligible to receive a loan or grant, the head of an executive agency shall make the loan or grant to the unit of general local government instead of the special-purpose unit of local governmentin the absence of substantial reasons to the contrary.
 
 (g) The President may designate an executive agency to prescribe regulations to carry out this section.
 
@@ -86,7 +86,7 @@ In subsection (g), the words “Office of Management and Budget . . . other”
 
 Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended by Ex. Ord. No. 12416, Apr. 8, 1983, 48 F.R. 15587, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 401(a) of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4231(a)) \[31 U.S.C. 6506(a) and (b)\], Section 204 of the Demonstration Cities and Metropolitan Development Act of 1966 (42. U.S.C. 3334) and Section 301 of Title 3 of the United States Code, and in order to foster an intergovernmental partnership and a strengthened federalism by relying on State and local processes for the State and local government coordination and review of proposed Federal financial assistance and direct Federal development, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 401(a) of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4231(a)) \[31 U.S.C. 6506(a) and (b)\], Section 204 of the Demonstration Cities and Metropolitan Development Act of 1966 (42. U.S.C. 3334) and Section 301 of Title 3 of the United States Code, and in order to foster an intergovernmental partnership and a strengthened federalism by relying on State and local processes for the State and local government coordination and review of proposed Federal financial assistance and direct Federal development, it is hereby ordered as follows:
 
 Section 1. Federal agencies shall provide opportunities for consultation by elected officials of those State and local governments that would provide the non-Federal funds for, or that would be directly affected by, proposed Federal financial assistance or direct Federal development.
 

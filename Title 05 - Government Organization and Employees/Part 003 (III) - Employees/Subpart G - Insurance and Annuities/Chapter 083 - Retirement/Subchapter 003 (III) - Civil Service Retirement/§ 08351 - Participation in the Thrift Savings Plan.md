@@ -6,7 +6,7 @@
 
 (b)(1) Except as otherwise provided in this subsection, the provisions of subchapters III and VII of chapter 84 of this title shall apply with respect to employees and Members making contributions to the Thrift Savings Fund under subsection (a) of this section.
 
-(2)(A) An employee or Member may contribute to the Thrift Savings Fund in any pay period any amount not exceeding the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).
+(2)(A) An employee or Member may contribute to the Thrift Savings Fund in any pay periodany amount not exceeding the maximum percentage of such employee's or Member's basic pay for such pay period allowable under subparagraph (B).
 
 (B) The maximum percentage allowable under this subparagraph shall be determined in accordance with the following table:
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;2004
 
-9   
+9&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;2005
 
@@ -74,11 +74,15 @@
 
 (c) A member of the Foreign Service described in section 103(6) of the Foreign Service Act of 1980 shall be ineligible to make any election under this section.
 
-(d) A foreign national employee of the Central Intelligence Agency whose services are performed outside the United States shall be ineligible to make an election under this section.
+(d)(1) A foreign national employee of the Central Intelligence Agency whose services are performed outside the United States shall be ineligible to make an election under this section.
+
+(2)(A) Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
+
+(B) Contributions under this paragraph are subject to section 8432(d) of this title.
 
 (e) The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; Pub. L. 107–304, §1(a), Nov. 27, 2002, 116 Stat. 2363.)
+(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; Pub. L. 107–304, §1(a), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(1), Dec. 13, 2003, 117 Stat. 2632.)
 
 #### References in Text
 
@@ -87,6 +91,8 @@ Section 414(v) of the Internal Revenue Code of 1986, referred to in subsec. (b)(
 Section 103(6) of the Foreign Service Act of 1980, referred to in subsec. (c), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–177 designated existing provisions as par. (1) and added par. (2).
 
 2002—Subsec. (b)(2)(C). Pub. L. 107–304 added subpar. (C).
 
@@ -150,7 +156,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(c)\], Dec. 21, 2000, 114 S
 
 “(1)
 
-In general.—The amendments made by this section \[enacting section 8440f of this title and amending this section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
+In general.—The amendments made by this section \[enacting section 8440f of this title and amendingthis section and sections 8432 and 8440a to 8440e of this title\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].
 
 “(2)
 
@@ -172,7 +178,7 @@ Amendment by section 661(a)(3)(B)(ii) of Pub. L. 106–65 effective 180 days aft
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date asdetermined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendments
 

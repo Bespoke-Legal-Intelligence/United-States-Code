@@ -24,7 +24,7 @@ In this section, the term “significant subsidy” includes, but is not limited
 
 &emsp;(3) Direct official support for investment in the commercial shipbuilding and repair industry, or to a related entity that favors the operation of shipbuilding and repair, including but not limited to the kinds of support listed in paragraph (2)(A) through (E), and any restructuring support, except public support for social purposes directly and effectively linked to shipyard closures.
 
-&emsp;(4) Assistance in the form of grants, preferential loans, preferential tax treatment, or otherwise, that benefits or is directly relatedto shipbuilding and repair for purposes of research and development that is not equally open to domestic and foreign enterprises.
+&emsp;(4) Assistance in the form of grants, preferential loans, preferential tax treatment, or otherwise, that benefits or is directly related to shipbuilding and repair for purposes of research and development that is not equally open to domestic and foreign enterprises.
 
 &emsp;(5) Tax policies and practices that favor the shipbuilding and repair industry, directly or indirectly, such as tax credits, deductions, exemptions, and preferences, including accelerated depreciation, if such benefits are not generally available to persons or firms not engaged in shipbuilding or repair.
 

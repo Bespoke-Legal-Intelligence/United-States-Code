@@ -94,7 +94,7 @@ Special rule for certain rcsbp participants.—In the case of a participant in t
 
 &emsp;(4)
 
-Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverageis a participant who has a dependent child and who—
+Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
 
 &emsp;&emsp;(A) does not have an eligible spouse or former spouse; or
 
@@ -198,7 +198,7 @@ Right to withdraw discontinuation request.—A person may withdraw a request mad
 
 &emsp;(4)
 
-Refund of deductions from retired pay.—Upon the death of a person described inparagraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person's surviving spouse.
+Refund of deductions from retired pay.—Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person's surviving spouse.
 
 &emsp;(5)
 
@@ -280,7 +280,7 @@ Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
 1989—Subsec. (a). Pub. L. 101–189, §1402(a), inserted heading.
 
-Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
+Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows:“Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
 &emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
 

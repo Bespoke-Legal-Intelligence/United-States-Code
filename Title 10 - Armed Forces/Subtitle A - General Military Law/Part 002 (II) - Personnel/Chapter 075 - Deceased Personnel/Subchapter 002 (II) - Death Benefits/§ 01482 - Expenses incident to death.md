@@ -38,13 +38,13 @@
 
 (d) When the remains of a decedent covered by section 1481 of this title, whose death occurs after January 1, 1961, are determined to be nonrecoverable, the person who would have been designated under subsection (c) to direct disposition of the remains if they had been recovered may be—
 
-&emsp;(1) presented with a flag of the United States; however, if the person designated by subsection (c) is other than a parent of the deceased member, a flag of equal size may also be presented to the parents, and
+&emsp;(1) presented with a flag of the United States; however, if the person designated bysubsection (c) is other than a parent of the deceased member, a flag of equal size may also be presented to the parents, and
 
 &emsp;(2) reimbursed by the Secretary concerned for the necessary expenses of a memorial service.
 
 > However, the amount of the reimbursement shall be determined in the manner prescribed in subsection (b) for an interment, but may not be larger than that authorized when the United States provides the grave site. A claim for reimbursement under this subsection may be allowed only if it is presented within two years after the date of death or the date the person who would have been designated under subsection (c) to direct disposition of the remains, if they had been recovered, receives notification that the member has been reported or determined to be dead under authority of chapter 10 of title 37, whichever is later.
 
-(e) The Secretary concerned may pay the necessary expenses for the presentation of a flag tothe person designated to direct the disposition of the remains of a member of the Reserve of an armed force under his jurisdiction who dies under honorable circumstances as determined by the Secretary and who is not covered by section 1481 of this title if, at the time of such member's death, he—
+(e) The Secretary concerned may pay the necessary expenses for the presentation of a flag to the person designated to direct the disposition of the remains of a member of the Reserve of an armed force under his jurisdiction who dies under honorable circumstances as determined by the Secretary and who is not covered by section 1481 of this title if, at the time of such member's death, he—
 
 &emsp;(1) was a member of the Ready Reserve; or
 
@@ -144,5 +144,5 @@ Amendment by section 1671(c)(8) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1481, 1482a, 1490, 1513 of this title; title 38 section 2301.
+This section is referred to in sections 1481, 1482a, 1490, 1513 of this title; title 37 section 411f; title 38 section 2301.
 

@@ -62,11 +62,11 @@ In approving applications made under section 254f of this title for the assignme
 
 #### (B) Individuals
 
-&emsp;&emsp;In the case of an individual obligated to provide service under the Scholarship Program, not later than 3 months before thedate described in section 254m(b)(5) of this title, the Secretary shall provide to such individual the names of each of the entities specified as described in paragraph (2)(B)(i) that is appropriate for the individual's medical specialty and discipline.
+&emsp;&emsp;In the case of an individual obligated to provide service under the Scholarship Program, not later than 3 months before the date described in section 254m(b)(5) of this title, the Secretary shall provide to such individual the names of each of the entities specified as described in paragraph (2)(B)(i) that is appropriate for the individual's medical specialty and discipline.
 
 #### (4) Revisions
 
-&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shall be notified in writing by the Secretary of the reasons for the revision and shall have 30 days to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
+&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shall be notified in writing by the Secretary of the reasons for the revision and shall have 30 days from such notification to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
 
 #### (d) Limitation on number of entities offered as assignment choices in Scholarship Program
 
@@ -82,9 +82,11 @@ In approving applications made under section 254f of this title for the assignme
 
 &emsp;&emsp;(B) not greater than twice the number of participants determined with respect to that program year under paragraph (1).
 
-(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §304, Oct. 26, 2002, 116 Stat. 1646.)
+(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §304, Oct. 26, 2002, 116 Stat. 1646; Pub. L. 108–163, §2(h), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### Amendments
+
+2003—Subsec. (c)(4). Pub. L. 108–163 substituted “30 days from such notification” for “30 days”.
 
 2002—Subsec. (a)(1)(A). Pub. L. 107–251, §304(1), struck out “, as determined in accordance with subsection (b) of this section” after “such shortage”.
 
@@ -116,7 +118,7 @@ Pub. L. 107–251, §304(4)(A), redesignated par. (1) as (2). Former par. (2) re
 
 Subsec. (d)(3). Pub. L. 107–251, §304(4)(D), added par. (3) and struck out heading and text of former par. (3). Text read as follows:
 
-“(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
+“(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notifyentities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
 “(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
 
@@ -134,7 +136,11 @@ Subsec. (f). Pub. L. 107–251, §304(6), struck out heading and text of subsec.
 
 1990—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a) to (c)(1), (d)(1), and (e)(3).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254q–1, 11709 of this title.
+This section is referred to in sections 254d, 254e, 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254q–1, 11709 of this title.
 

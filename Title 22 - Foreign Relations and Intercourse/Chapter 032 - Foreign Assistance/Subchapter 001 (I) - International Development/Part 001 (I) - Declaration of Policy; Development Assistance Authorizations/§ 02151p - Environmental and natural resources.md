@@ -6,7 +6,7 @@ The Congress finds that if current trends in the degradation of natural resource
 
 #### (b) Assistance authority and emphasis
 
-In order to address the serious problems described in subsection (a) of this section, the President is authorized to furnish assistance under subchapter I of this chapter for developing and strengthening the capacity of developing countries to protect and manage their environment and natural resources. Special efforts shall be made to maintain and where possible to restore the land, vegetation, water, wildlife, and other resources upon which depend economic growth and human well-being, especially of the poor.
+In order to address the serious problems described in subsection (a) of this section, thePresident is authorized to furnish assistance under subchapter I of this chapter for developing and strengthening the capacity of developing countries to protect and manage their environment and natural resources. Special efforts shall be made to maintain and where possible to restore the land, vegetation, water, wildlife, and other resources upon which depend economic growth and human well-being, especially of the poor.
 
 #### (c) Implementation considerations applicable to programs and projects
 
@@ -20,7 +20,7 @@ In order to address the serious problems described in subsection (a) of this sec
 
 (2) The President may establish exceptions from the requirements of this subsection for emergency conditions and for cases in which compliance with those requirements would be seriously detrimental to the foreign policy interests of the United States.
 
-(Pub. L. 87–195, pt. I, §117, formerly §118, as added Pub. L. 95–88, title I, §113(a), Aug. 3, 1977, 91 Stat. 537; amended Pub. L. 95–424, title I, §110,Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title III, §307, Dec. 29, 1981, 95 Stat. 1533; renumbered §117 and amended Pub. L. 99–529, title III, §301(1), (2), Oct. 24, 1986, 100 Stat. 3014; Pub. L. 101–513, title V, §562(d)(4), Nov. 5, 1990, 104 Stat. 2031.)
+(Pub. L. 87–195, pt. I, §117, formerly §118, as added Pub. L. 95–88, title I, §113(a), Aug. 3, 1977, 91 Stat. 537; amended Pub. L. 95–424, title I, §110, Oct. 6, 1978, 92 Stat. 948; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title III, §307, Dec. 29, 1981, 95 Stat. 1533; renumbered §117 and amended Pub. L. 99–529, title III, §301(1), (2), Oct. 24, 1986, 100 Stat. 3014; Pub. L. 101–513, title V, §562(d)(4), Nov. 5, 1990, 104 Stat. 2031.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -118,7 +118,7 @@ Location.—In determining whether to locate a TEAM in a country, the President,
 
 #### “SEC. 646. PROMOTION OF WATER QUALITY, WATER TREATMENT SYSTEMS, AND ENERGY EFFICIENCY.
 
-“Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality, water treatment systems, and energy efficiency in the region. The grants shall be used to support jointprojects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges.
+“Subject to the availability of appropriations, the President is authorized to provide matching grants to United States associations and United States nonprofit entities for the purpose of promoting water quality, water treatment systems, and energy efficiency in the region. The grants shall be used to support joint projects, including professional exchanges, academic fellowships, training programs in the United States or in the region, cooperation in regulatory review, development of training materials, the establishment and development in the region of local chapters of the associations or nonprofit entities, and the development of online exchanges.
 
 #### “SEC. 647. GRANTS FOR PREFEASIBILITY STUDIES WITHIN A DESIGNATED SUBREGION.
 

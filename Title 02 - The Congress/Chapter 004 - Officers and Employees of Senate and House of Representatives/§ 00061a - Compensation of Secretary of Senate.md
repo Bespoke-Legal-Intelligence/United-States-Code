@@ -10,9 +10,9 @@ A prior section 61a, act Aug. 5, 1955, ch. 568, §1, 69 Stat. 499, prescribed gr
 
 #### Amendments
 
-1975—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a rate of $38,760 per annum”.
+<b>1975</b>—Pub. L. 94–59 substituted “an annual rate of compensation of $40,000” for “a rate of $38,760 per annum”.
 
-1974—Pub. L. 93–371 increased the annual rate of compensation from $27,500 to $38,760.
+<b>1974</b>—Pub. L. 93–371 increased the annual rate of compensation from $27,500 to $38,760.
 
 #### Effective Date of 1975 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) No contract or purchase on behalf of the United States shall be made, unless the same is authorized by law or is under an appropriation adequate to its fulfillment, except in the Department of Defense and in the Department of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, for clothing, subsistence, forage, fuel, quarters, transportation, or medical and hospital supplies, which, however, shall not exceed the necessities of the current year.
 
-(b) The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service inthe Navy shall immediately advise the Congress of the exercise of the authority granted in subsection (a) of this section, and shall report quarterly on the estimated obligations incurred pursuant to the authority granted in subsection (a) of this section.
+(b) The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy shall immediately advise the Congress of the exercise of the authority granted in subsection (a) of this section, and shall report quarterly on the estimated obligations incurred pursuant to the authority granted in subsection (a) of this section.
 
 (R.S. §3732; June 12, 1906, ch. 3078, 34 Stat. 255; Pub. L. 89–687, title VI, §612(e), Oct. 15, 1966, 80 Stat. 993; Pub. L. 98–557, §17(e), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 104–106, div. D, title XLIII, §4322(b)(4), Feb. 10, 1996, 110 Stat. 677.)
 

@@ -38,9 +38,9 @@
 
 &emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1) of this section;
 
-&emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
+&emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sumequal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\],as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
 
 #### (3) Schedule for payment
 
@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;(ii) such enforcement activities conducted by the Coast Guard with respect to such transportation and dumping as may be necessary to ensure to the maximum extent practicable complete compliance with the requirements of this Act; and
 
-&emsp;&emsp;(C) not to exceed one-third of such total amount shall be transferred to the UnderSecretary of Commerce for Oceans and Atmosphere for use for—
+&emsp;&emsp;(C) not to exceed one-third of such total amount shall be transferred to the Under Secretary of Commerce for Oceans and Atmosphere for use for—
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
 
@@ -324,7 +324,7 @@
 
 #### (3) Actions
 
-&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1) of this section, for any violation of subsection (a)(1) of this section or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) of this section and any such order.
+&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1) of this section, for any violation of subsection (a)(1) of this section or of an order issued by the Administrator under this section. Such an action may be brought in the district court ofthe United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) of this section and any such order.
 
 #### (h) State progress reports
 

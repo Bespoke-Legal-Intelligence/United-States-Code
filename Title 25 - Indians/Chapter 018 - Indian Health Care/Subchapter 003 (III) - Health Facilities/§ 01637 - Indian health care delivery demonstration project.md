@@ -66,11 +66,11 @@ The Secretary shall provide such technical and other assistance as may be necess
 
 #### (e) Service to ineligible persons
 
-The authority to provide services to persons otherwise ineligible for the health care benefits of the Service and the authority to extend hospital privileges in service facilities to non-Service health care practitioners as provided in section 1680c of this title may be included, subject to the terms of such section, in any demonstration project approved pursuant to this section.
+The authority to provide services to persons otherwise ineligible for the health care benefitsof the Service and the authority to extend hospital privileges in service facilities to non-Service health care practitioners as provided in section 1680c of this title may be included, subject to the terms of such section, in any demonstration project approved pursuant to this section.
 
 #### (f) Equitable treatment
 
-For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in evaluating facilitiesoperated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
+For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in evaluating facilities operated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
 
 #### (g) Equitable integration of facilities
 

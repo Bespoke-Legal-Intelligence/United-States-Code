@@ -68,7 +68,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(1) an agreement that—
 
-&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title) the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
+&emsp;&emsp;(A) subject to paragraph (2), the Secretary agrees (i) to provide the individual with a scholarship (described in subsection (g) of this section) in each such school year or years for a period of years (not to exceed four school years) determined by the individual, during which period the individual is pursuing a course of study described in subsection (b)(1)(B) of this section, and (ii) to accept (subject to the availability of appropriated funds for carrying out sections 254d through 254h and section 254j of this title)the individual into the Corps (or for equivalent service as otherwise provided in this subpart); and
 
 &emsp;&emsp;(B) subject to paragraph (2), the individual agrees—
 
@@ -102,7 +102,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;(i) the tuition of the student in such school year; and
 
-&emsp;&emsp;(ii) all other reasonable educational expenses, including fees, books, and laboratoryexpenses, incurred by the student in such school year; and
+&emsp;&emsp;(ii) all other reasonable educational expenses, including fees, books, and laboratory expenses, incurred by the student in such school year; and
 
 &emsp;(B) payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.
 
@@ -114,13 +114,13 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649.)
+(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649; Pub. L. 108–163, §2(j), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 
 Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
-Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a new section 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
+Section 292k of this title, referred to in subsec. (g)(1)(A), was in the original a reference to section 711 of act July 1, 1944. Section 711 of that Act was renumbered as section 710 by Pub. L. 97–35, title XXVII, §2720(b), Aug. 13, 1981, 95 Stat. 915, and subsequently omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 710 of act July 1, 1944, relating to insurance accounts, a newsection 711, relating to powers and responsibilities of the Secretary, and a new section 712, relating to participation by Federal credit unions, which are classified to sections 292i, 292j, and 292k, respectively, of this title.
 
 #### Codification
 
@@ -129,6 +129,8 @@ In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
 #### Amendments
+
+2003—Subsec. (d)(1)(B). Pub. L. 108–163 realigned margin.
 
 2002—Subsec. (a)(1). Pub. L. 107–251, §309(1), inserted “behavioral and mental health professionals,” after “dentists,”.
 
@@ -200,6 +202,10 @@ Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for
 
 1977—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
@@ -238,7 +244,7 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 
 “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 234(f)(1) of this title\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
-“(C) If an individual received a scholarship under the Public Health and National Health Service CorpsScholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
 
 #### Scholarship and Loan Repayment Programs
 

@@ -8,9 +8,9 @@ As used in this section, the term “pediatric studies” or “studies” means
 
 If, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), and such studies are completed within any such timeframe and the reports thereof submitted in accordance with subsection (d)(2) of this section or accepted in accordance with subsection (d)(3) of this section—
 
-&emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(D)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(D)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
+&emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
-&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(D) of such section, is deemed to be three years and six months rather than three years; and
+&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
 
 &emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
 
@@ -20,17 +20,17 @@ If, prior to approval of an application that is submitted under section 355(b)(1
 
 &emsp;&emsp;(ii) a listed patent for which a certification has been submitted under subsections (b)(2)(A)(iii) or (j)(2)(A)(vii)(III) of section 355 of this title,
 
-> &emsp;the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(4)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions); or
+> &emsp;the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(5)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions); or
 
-&emsp;(B) if the drug is the subject of a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 355 of this title, and in the patent infringement litigation resulting from the certification the court determines that the patent is valid and would be infringed, the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(4)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions).
+&emsp;(B) if the drug is the subject of a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 355 of this title, and in the patent infringement litigation resulting from the certification the court determines that the patent is valid and would be infringed, the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(5)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions).
 
 #### (c) Market exclusivity for already-marketed drugs
 
 If the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under section 355(b)(1) of this title for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, the studies are completed within any such timeframe, and the reports thereof are submitted in accordance with subsection (d)(2) of this section or accepted in accordance with subsection (d)(3) of this section—
 
-&emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(D)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(D)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
+&emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
-&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(D) of such section, is deemed to be three years and six months rather than three years; and
+&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
 
 &emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
 
@@ -40,9 +40,9 @@ If the Secretary determines that information relating to the use of an approved 
 
 &emsp;&emsp;(ii) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iii) or (j)(2)(A)(vii)(III) of section 355 of this title,
 
-> &emsp;the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(4)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions); or
+> &emsp;the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(5)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions); or
 
-&emsp;(B) if the drug is the subject of a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 355 of this title, and in the patent infringement litigation resulting from the certification the court determines that the patent is valid and would be infringed, the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(4)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions).
+&emsp;(B) if the drug is the subject of a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iv) or (j)(2)(A)(vii)(IV) of section 355 of this title, and in the patent infringement litigation resulting from the certification the court determines that the patent is valid and would be infringed, the period during which an application may not be approved under section 355(c)(3) of this title or section 355(j)(5)(B) of this title shall be extended by a period of six months after the date the patent expires (including any patent extensions).
 
 #### (d) Conduct of pediatric studies
 
@@ -104,7 +104,7 @@ If the Secretary determines that information relating to the use of an approved 
 
 #### (e) Delay of effective date for certain application
 
-If the Secretary determines that the acceptance or approval of an application under section 355(b)(2) or 355(j) of this title for a new drug may occur after submission of reports of pediatric studies under this section, which were submitted prior to the expiration of the patent (including any patent extension) or the applicable period under clauses (ii) through (iv) of section 355(c)(3)(D) of this title or clauses (ii) through (iv) of section 355(j)(5)(D) of this title, but before the Secretary has determined whether the requirements of subsection (d) of this section have been satisfied, the Secretary shall delay the acceptance or approval under section 355(b)(2) or 355(j) of this title until the determination under subsection (d) of this section is made, but any such delay shall not exceed 90 days. In the event that requirements of this section are satisfied, the applicable six-month period under subsection (b) or (c) of this section shall be deemed to have been running during the period of delay.
+If the Secretary determines that the acceptance or approval of an application under section 355(b)(2) or 355(j) of this title for a new drug may occur after submission of reports of pediatric studies under this section, which were submitted prior to the expiration of the patent (including any patent extension) or the applicable period under clauses (ii) through (iv) of section 355(c)(3)(D) of this title or clauses (ii) through (iv) of section 355(j)(5)(F) of this title, but before the Secretary has determined whether the requirements of subsection (d) of this section have been satisfied, the Secretary shall delay the acceptance or approval under section 355(b)(2) or 355(j) of this title until the determination under subsection (d) of this section is made, but any such delay shall not exceed 90 days. In the event that requirements of this section are satisfied, the applicable six-month period under subsection (b) or (c) of this section shall be deemed to have been running during the period of delay.
 
 #### (f) Notice of determinations on studies requirement
 
@@ -118,9 +118,9 @@ A drug to which the six-month period under subsection (b) or (c) of this section
 
 &emsp;(2) may not receive any additional such period under subsection (c)(1)(B) of this section.
 
-#### (h) Relationship to regulations
+#### (h) Relationship to pediatric research requirements
 
-Notwithstanding any other provision of law, if any pediatric study is required pursuant to regulations promulgated by the Secretary and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section.
+Notwithstanding any other provision of law, if any pediatric study is required by a provision of law (including a regulation) other than this section and such study meets the completeness, timeliness, and other requirements of this section, such study shall be deemed to satisfy the requirement for market exclusivity pursuant to this section.
 
 #### (i) Labeling supplements
 
@@ -140,11 +140,11 @@ Notwithstanding any other provision of law, if any pediatric study is required p
 
 &emsp;&emsp;&emsp;(i) the Commissioner shall request that the sponsor of the application make any labeling change that the Commissioner determines to be appropriate; and
 
-&emsp;&emsp;&emsp;(ii) if the sponsor of the application does not agree to make a labeling change requested by the Commissioner, the Commissioner shall refer the matter to the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee.
+&emsp;&emsp;&emsp;(ii) if the sponsor of the application does not agree to make a labeling change requested by the Commissioner, the Commissioner shall refer the matter to the Pediatric Advisory Committee.
 
-#### (B) Action by the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee
+#### (B) Action by the Pediatric Advisory Committee
 
-&emsp;&emsp;Not later than 90 days after receiving a referral under subparagraph (A)(ii), the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee shall—
+&emsp;&emsp;Not later than 90 days after receiving a referral under subparagraph (A)(ii), the Pediatric Advisory Committee shall—
 
 &emsp;&emsp;&emsp;(i) review the pediatric study reports; and
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, if any pediatric study is required p
 
 #### (C) Consideration of recommendations
 
-&emsp;&emsp;The Commissioner shall consider the recommendations of the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee and, if appropriate, not later than 30 days after receiving the recommendation, make a request to the sponsor of the application to make any labeling change that the Commissioner determines to be appropriate.
+&emsp;&emsp;The Commissioner shall consider the recommendations of the Pediatric Advisory Committee and, if appropriate, not later than 30 days after receiving the recommendation, make a request to the sponsor of the application to make any labeling change that the Commissioner determines to be appropriate.
 
 #### (D) Misbranding
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law, if any pediatric study is required p
 
 #### (E) No effect on authority
 
-&emsp;&emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under this chapter when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
+&emsp;&emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under this chapter when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
 
 #### (j) Dissemination of pediatric information
 
@@ -184,11 +184,11 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 #### (1) General rule
 
-&emsp;A drug for which an application has been submitted or approved under section 355(j) of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(D) of this title.
+&emsp;A drug for which an application has been submitted or approved under section 355(j) of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title.
 
 #### (2) Labeling
 
-&emsp;Notwithstanding clauses (iii) and (iv) of section 355(j)(5)(D) of this title, the Secretary may require that the labeling of a drug approved under section 355(j) of this title that omits a pediatric indication or other aspect of labeling as described in paragraph (1) include—
+&emsp;Notwithstanding clauses (iii) and (iv) of section 355(j)(5)(F) of this title, the Secretary may require that the labeling of a drug approved under section 355(j) of this title that omits a pediatric indication or other aspect of labeling as described in paragraph (1) include—
 
 &emsp;&emsp;(A) a statement that, because of marketing exclusivity for a manufacturer—
 
@@ -206,7 +206,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 &emsp;&emsp;(B) the availability or scope of exclusivity under section 355 of this title for pediatric formulations;
 
-&emsp;&emsp;(C) the question of the eligibility for approval of any application under section 355(j) of this title that omits any other conditions of approval entitled to exclusivity under clause (iii) or (iv) of section 355(j)(5)(D) of this title; or
+&emsp;&emsp;(C) the question of the eligibility for approval of any application under section 355(j) of this title that omits any other conditions of approval entitled to exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title; or
 
 &emsp;&emsp;(D) except as expressly provided in paragraphs (1) and (2), the operation of section 355 of this title.
 
@@ -232,13 +232,33 @@ A drug may not receive any 6-month period under subsection (b) or (c) of this se
 
 &emsp;(3) all requirements of this section are met.
 
-(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424.)
+(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461.)
 
 #### References in Text
 
 Section 290b(j)(9)(B)(i) of title 42, referred to in subsec. (d)(4)(C), was in the original “section 499(j)(9)(B)(i)” and was translated as meaning section 499(j)(9)(B)(i) of the Public Health Service Act to reflect the probable intent of Congress because there is no section 499 of the Federal Food, Drug, and Cosmetic Act and section 499 of the Public Health Service Act relates to the establishment and duties of the National Foundation for Biomedical Research.
 
 #### Amendments
+
+2003—Subsec. (b)(1)(A)(i). Pub. L. 108–173, §1104(1), substituted “(j)(5)(F)(ii)” for “(j)(5)(D)(ii)” in two places.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 108–173, §1104(2), substituted “(j)(5)(F)” for “(j)(5)(D)”.
+
+Subsec. (b)(2). Pub. L. 108–155, §3(a), substituted “355(j)(5)(B)” for “355(j)(4)(B)” in two places.
+
+Subsec. (c)(1)(A)(i). Pub. L. 108–173, §1104(1), substituted “(j)(5)(F)(ii)” for “(j)(5)(D)(ii)” in two places.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 108–173, §1104(2), substituted “(j)(5)(F)” for “(j)(5)(D)”.
+
+Subsec. (c)(2). Pub. L. 108–155, §3(a), substituted “355(j)(5)(B)” for “355(j)(4)(B)” in two places.
+
+Subsec. (e). Pub. L. 108–173, §1104(3), substituted “355(j)(5)(F)” for “355(j)(5)(D)”.
+
+Subsec. (h). Pub. L. 108–155, §2(b)(2), substituted “pediatric research requirements” for “regulations” in heading and “by a provision of law (including a regulation) other than this section” for “pursuant to regulations promulgated by the Secretary” in text.
+
+Subsec. (i)(2). Pub. L. 108–155, §3(b)(1), struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+
+Subsec. (<i>l</i>). Pub. L. 108–173, §1104(3), substituted “355(j)(5)(F)” for “355(j)(5)(D)” wherever appearing.
 
 2002—Subsec. (a). Pub. L. 107–109, §19(2), (3), redesignated subsec. (g) as (a). Former subsec. (a) redesignated (b).
 
@@ -272,7 +292,7 @@ Subsec. (i). Pub. L. 107–109, §19(2), (3), redesignated subsec. (<i>l</i>) as
 
 Subsec. (j). Pub. L. 107–109, §19(2), (3), redesignated subsec. (m) as (j). Former subsec. (j) redesignated (n).
 
-Pub. L. 107–109, §8, added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under section 355(b)(1) of this title is submitted on or before January 1, 2002. AfterJanuary 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
+Pub. L. 107–109, §8, added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under section 355(b)(1) of this title is submitted on or before January 1, 2002. After January 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
 
 &emsp;“(1) the drug was in commercial distribution as of November 21, 1997;
 
@@ -302,13 +322,17 @@ Subsec. (<i>o</i>). Pub. L. 107–109, §19(2), (3), redesignated subsec. (<i>o<
 
 Pub. L. 107–109, §11(a), added subsec. (<i>o</i>).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–109, §11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on the date of enactment of this Act \[Jan. 4, 2002\], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that are approved or pending on that date.”
 
 #### Report on Pediatric Exclusivity Program
 
-Pub. L. 107–109, §16, Jan. 4, 2002, 115 Stat. 1421, provided that: “Not later than October 1, 2006, the Comptroller General of the United States, in consultation with the Secretary of Health and Human Services, shall submit to Congress a report that addresses the following issues, using publicly available data or data otherwise available to the Government that may be used and disclosed under applicable law:
+Pub. L. 107–109, §16, Jan. 4, 2002, 115 Stat. 1421, as amended by Pub. L. 108–155, §3(b)(4), Dec. 3, 2003, 117 Stat. 1942, provided that: “Not later than October 1, 2006, the Comptroller General of the United States, in consultation with the Secretary of Health and Human Services, shall submit to Congress a report that addresses the following issues, using publicly available data or data otherwise available to the Government that may be used and disclosed under applicable law:
 
 &emsp;“(1) The effectiveness of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\] and section 409I of the Public Health Service Act \[42 U.S.C. 284m\] (as added by this Act) in ensuring that medicines used by children are tested and properly labeled, including—
 
@@ -316,7 +340,7 @@ Pub. L. 107–109, §16, Jan. 4, 2002, 115 Stat. 1421, provided that: “Not lat
 
 &emsp;&emsp;“(B) the number and importance of drugs for children that are not being tested for their use notwithstanding the provisions of this legislation, and possible reasons for the lack of testing; and
 
-&emsp;&emsp;“(C) the number of drugs for which testing is being done, exclusivity granted, and labeling changes required, including the date pediatric exclusivity is granted and the date labeling changes are made and which labeling changes required the use of the dispute resolution process established pursuant to the amendments made by this Act \[see Short Title of 2002 Amendment note set out under section 301 of this title\], together with a description of the outcomes of such process, including a description of the disputes and the recommendations of the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee.
+&emsp;&emsp;“(C) the number of drugs for which testing is being done, exclusivity granted, and labeling changes required, including the date pediatric exclusivity is granted and the date labeling changes are made and which labeling changes required theuse of the dispute resolution process established pursuant to the amendments made by this Act \[see Short Title of 2002 Amendment note set out under section 301 of this title\], together with a description of the outcomes of such process, including a description of the disputes and the recommendations of the Pediatric Advisory Committee.
 
 &emsp;“(2) The economic impact of section 505A of the Federal Food, Drug, and Cosmetic Act and section 409I of the Public Health Service Act (as added by this Act), including an estimate of—
 
@@ -380,7 +404,7 @@ Date certain for completing study.—Not later than January 10, 2003, the Comptr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 355b of this title; title 42 sections 284m, 290b.
+This section is referred to in sections 355, 355b, 355c of this title; title 42 sections 284m, 290b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

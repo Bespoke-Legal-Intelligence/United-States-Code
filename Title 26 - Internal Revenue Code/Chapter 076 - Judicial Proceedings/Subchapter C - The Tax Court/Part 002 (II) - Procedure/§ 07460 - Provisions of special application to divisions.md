@@ -2,7 +2,7 @@
 
 #### (a) Hearings, determinations, and reports
 
-A division shall hear, and make a determination upon, any proceeding instituted before the Tax Court and any motion in connection therewith, assigned to such division by the chief judge, and shall make a report of any such determination which constitutes its final disposition of the proceeding.
+A division shall hear, and make a determination upon, any proceeding instituted before theTax Court and any motion in connection therewith, assigned to such division by the chief judge, and shall make a report of any such determination which constitutes its final disposition of the proceeding.
 
 #### (b) Effect of action by a division
 

@@ -78,7 +78,7 @@ Abuse and neglect courts.—The term ‘abuse and neglect courts’ means the St
 
 &emsp;“(2)
 
-Agency attorney.—The term ‘agency attorney’ means an attorney or other individual, including any government attorney, district attorney, attorney general, State attorney, county attorney, city solicitor or attorney, corporation counsel, or privately retained special prosecutor, who represents the State or local agency administrating the programs under parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.) in a proceeding conducted by, or under the supervision of, an abuse andneglect court, including a proceeding for termination of parental rights.
+Agency attorney.—The term ‘agency attorney’ means an attorney or other individual, including any government attorney, district attorney, attorney general, State attorney, county attorney, city solicitor or attorney, corporation counsel, or privately retained special prosecutor, who represents the State or local agency administrating the programs under parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.) in a proceeding conducted by, or under the supervision of, an abuse and neglect court, including a proceeding for termination of parental rights.
 
 #### “SEC. 4. GRANTS TO STATE COURTS AND LOCAL COURTS TO AUTOMATE THE DATA COLLECTION AND TRACKING OF PROCEEDINGS IN ABUSE AND NEGLECT COURTS.
 
@@ -184,7 +184,7 @@ Information required.—An application for a grant authorized under this section
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) the number of judges assigned to the proceeding for the duration of the abuse and neglect case; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) the number of agency attorneys, children's attorneys, parent's attorneys, guardiansad litem, and volunteers participating in a court-appointed special advocate (CASA) program assigned to the proceeding during the duration of the abuse and neglect case.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) the number of agency attorneys, children's attorneys, parent's attorneys, guardians ad litem, and volunteers participating in a court-appointed special advocate (CASA) program assigned to the proceeding during the duration of the abuse and neglect case.
 
 &emsp;&emsp;“(J) A description of how the proposed system will reduce the need for paper files and ensure prompt action so that cases are appropriately listed with national and regional adoption exchanges, and public and private adoption services.
 
@@ -370,7 +370,7 @@ Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended 
 
 #### Abandoned Infants Assistance
 
-Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–236, §§2–8, Dec. 12, 1991, 105 Stat. 1812–1816; Pub. L. 104–235, title II, §§221, 222, Oct. 3, 1996, 110 Stat. 3091, 3092, provided that:
+Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–236, §§2–8, Dec. 12, 1991, 105 Stat. 1812–1816; Pub. L. 104–235, title II, §§221, 222, Oct. 3, 1996, 110 Stat. 3091, 3092; Pub. L. 108–36, title III, §§301–305, June 25, 2003, 117 Stat. 822–824, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -380,37 +380,31 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 “The Congress finds that—
 
-&emsp;“(1) throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;
+&emsp;“(1) studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants and young children and a lack of suitable shelter homes for such infants and young children have led to the abandonment of such infants and young children in hospitals for extended periods;
 
-&emsp;“(2) the inability of parents who abuse drugs to provide adequate care for such infants and young children and a lack of suitable shelter homes for such infants and young children have led to the abandonment of such infants and young children in hospitals for extended periods;
+&emsp;“(2) an unacceptable number of these infants and young children will be medically cleared for discharge, yet remain in hospitals as boarder babies;
 
-&emsp;“(3) an unacceptable number of these infants and young children will be medically cleared for discharge, yet remain in hospitals as boarder babies;
+&emsp;“(3) hospital-based child care for these infants and young children is extremely costly and deprives them of an adequate nurturing environment;
 
-&emsp;“(4) hospital-based child care for these infants and young children is extremely costly and deprives them of an adequate nurturing environment;
+&emsp;“(4) appropriate training is needed for personnel working with infants and young children with life-threatening conditions and other special needs, including those who are infected with the human immunodeficiency virus (commonly known as ‘HIV’), those who have acquired immune deficiency syndrome (commonly known as ‘AIDS’), and those who have been exposed to dangerous drugs;
 
-&emsp;“(5) training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;
+&emsp;“(5) infants and young children who are abandoned in hospitals are particularly difficult to place in foster homes, and are being abandoned in hospitals in increasing numbers by mothers dying of acquired immune deficiency syndrome, by parents abusing drugs, or by parents incapable of providing adequate care;
 
-&emsp;“(6) a particularly devastating development is the increase in the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;
+&emsp;“(6) there is a need for comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;
 
-&emsp;“(7) many such infants and young children have at least one parent who is an intravenous drug abuser;
+&emsp;“(7) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
 
-&emsp;“(8) such infants and young children are particularly difficult to place in foster homes, and are being abandoned in hospitals in increasing numbers by mothers dying of acquired immune deficiency syndrome, or by parents incapable of providing adequate care;
-
-&emsp;“(9) there is a need for comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;
-
-&emsp;“(10) there is a need to support the families of such infants and young children through the provision of services that will prevent the abandonment of the infants and children; and
-
-&emsp;“(11) there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.
+&emsp;“(8) private, Federal, State, and local resources should be coordinated to establish and maintain services described in paragraph (7) and to ensure the optimal use of all such resources.
 
 #### “TITLE I—PROJECTS REGARDING ABANDONMENT OF INFANTS AND YOUNG CHILDREN IN HOSPITALS
 
-#### “SEC. 101. ESTABLISHMENT OF PROGRAM OF DEMONSTRATION PROJECTS.
+#### “SEC. 101. ESTABLISHMENT OF LOCAL PROJECTS.
 
 “(a)
 
 In General.—The Secretary of Health and Human Services may make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to demonstrate methods—
 
-&emsp;“(1) to prevent the abandonment of infants and young children, including the provision of services tomembers of the natural family for any condition that increases the probability of abandonment of an infant or young child;
+&emsp;“(1) to prevent the abandonment of infants and young children, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child;
 
 &emsp;“(2) to identify and address the needs of abandoned infants and young children;
 
@@ -428,17 +422,17 @@ In General.—The Secretary of Health and Human Services may make grants to publ
 
 “(b)
 
-Priority in Provision of Services.—The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, in carrying out the purpose described in subsection (a) (other than with respect to paragraph (6) of such subsection), the applicant will give priority to abandoned infants and young children—
+Priority in Provision of Services.—The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees to give priority to abandoned infants and young children who—
 
-&emsp;“(1) who are infected with the human immunodeficiency virus or who have been perinatally exposed to the virus; or
+&emsp;“(1) are infected with, or have been perinatally exposed to, the human immunodeficiency virus, or have a life-threatening illness or other special medical need; or
 
-&emsp;“(2) who have been perinatally exposed to a dangerous drug.
+&emsp;“(2) have been perinatally exposed to a dangerous drug.
 
 “(c)
 
 Case Plan With Respect to Foster Care.—The Secretary may not make a grant under subsection (a) unless the applicant for the grant agrees that, if the applicant expends the grant to carry out any program of providing care to infants and young children in foster homes or in other nonmedical residential settings away from their parents, the applicant will ensure that—
 
-&emsp;“(1) a case plan of the type described in paragraph (1) of section 475 of the Social Security Act \[section 675 of this title\] is developed for each such infant and young child (to the extent that such infant and young child is not otherwise covered by such a plan); and
+&emsp;“(1) a case plan of the type described in paragraph (1) of section 475 of the Social Security Act \[section 675 of this title\] is developed for each such infant andyoung child (to the extent that such infant and young child is not otherwise covered by such a plan); and
 
 &emsp;“(2) the program includes a case review system of the type described in paragraph (5) of such section (covering each such infant and young child who is not otherwise subject to such a system).
 
@@ -484,97 +478,35 @@ Technical Assistance With Respect to Process of Applying for Grant.—The Secret
 
 Priority Requirement.—In making grants under subsection (a), the Secretary shall give priority to applicants located in States that have developed and implemented procedures for expedited termination of parental rights and placement for adoption of infants determined to be abandoned under State law.
 
-#### “SEC. 102. EVALUATIONS, STUDIES, AND REPORTS BY SECRETARY.
+#### “SEC. 102. EVALUATIONS, STUDY, AND REPORTS BY SECRETARY.
 
 “(a)
 
-Evaluations of Demonstration Projects.—The Secretary shall, directly or through contracts with public and nonprofit private entities, provide for evaluations of projects carried out under section 101 and for the dissemination of information developed as result of such projects.
+Evaluations of Local Programs.—The Secretary shall, directly or through contracts with public and nonprofit private entities, provide for evaluations of projects carried out under section 101 and for the dissemination of information developed as a result of such projects.
 
 “(b)
-
-Dissemination of Information to Individuals With Special Needs.—
-
-&emsp;“(1)(A) The Secretary may enter into contracts or cooperative agreements with public or nonprofit private entities for the development and operation of model projects to disseminate the information described in subparagraph (B) to individuals who are disproportionately at risk of dysfunctional behaviors that lead to the abandonment of infants or young children.
-
-&emsp;“(B) The information referred to in subparagraph (A) is information on the availability to individuals described in such subparagraph, and the families of the individuals, of financial assistance and services under Federal, State, local, and private programs providing health services, mental health services, educational services, housing services, social services, or other appropriate services.
-
-&emsp;“(2) The Secretary may not provide a contract or cooperative agreement under paragraph (1) to an entity unless—
-
-&emsp;&emsp;“(A) the entity has demonstrated expertise in the functions with respect to which such financial assistance is to be provided; and
-
-&emsp;&emsp;“(B) the entity agrees that in disseminating information on programs described in such paragraph, the entity will give priority—
-
-&emsp;&emsp;&emsp;“(i) to providing the information to individuals described in such paragraph who—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) engage in the abuse of alcohol or drugs, who are infected with the human immunodeficiency virus, or who have limited proficiency in speaking the English language; or
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) have been historically underserved in the provision of the information; and
-
-&emsp;&emsp;&emsp;“(ii) to providing information on programs that are operated in the geographic area in which the individuals involved reside and that will assist in eliminating or reducing the extent of behaviors described in such paragraph.
-
-&emsp;“(3) In providing contracts and cooperative agreements under paragraph (1), the Secretary may not provide more than 1 such contract or agreement with respect to any geographic area.
-
-&emsp;“(4) Subject to the availability of amounts made available in appropriations Acts for the fiscal year involved, the duration of a contract or cooperative agreement under paragraph (1) shall be for a period of 3 years, except that the Secretary may terminate such financial assistance if the Secretary determines that the entity involved has substantially failed to comply with the agreements required as a condition of the provision of the assistance.
-
-“(c)
 
 Study and Report on Number of Abandoned Infants and Young Children.—
 
-&emsp;“(1) The Secretary shall conduct a study for the purpose of determining—
+&emsp;“(1)
 
-&emsp;&emsp;“(A) an estimate of the number of infants and young children abandoned in hospitals in the United States and the number of such infants and young children who are infants and young children described in section 101(b); and
+In general.—The Secretary shall conduct a study for the purpose of determining—
 
-&emsp;&emsp;“(B) an estimate of the annual costs incurred by the Federal Government and by State and local governments in providing housing and care for such infants and young children.
+&emsp;&emsp;“(A) an estimate of the annual number of infants and young children relinquished, abandoned, or found deceased in the United States and the number of such infants and young children who are infants and young children described in section 101(b);
 
-&emsp;“(2) Not later than April 1, 1992, the Secretary shall complete the study required in paragraph (1) and submit to the Congress a report describing the findings made as a result of the study.
+&emsp;&emsp;“(B) an estimate of the annual number of infants and young children who are victims of homicide;
 
-“(d)
+&emsp;&emsp;“(C) characteristics and demographics of parents who have abandoned an infant within 1 year of the infant's birth; and
 
-Study and Report on Effective Care Methods.—
+&emsp;&emsp;“(D) an estimate of the annual costs incurred by the Federal Government and by State and local governments in providing housing and care for abandoned infants and young children.
 
-&emsp;“(1) The Secretary shall conduct a study for the purpose of determining the most effective methods for responding to the needs of abandoned infants and young children.
+&emsp;“(2)
 
-&emsp;“(2) The Secretary shall, not later than April 1, 1991, complete the study required in paragraph (1) and submit to the Congress a report describing the findings made as a result of the study.
-
-#### “SEC. 103. DEFINITIONS.
-
-“For purposes of this title:
-
-&emsp;“(1) The terms ‘abandoned’ and ‘abandonment’, with respect to infants and young children, mean that the infants and young children are medically cleared for discharge from acute-care hospital settings, but remain hospitalized because of a lack of appropriate out-of-hospital placement alternatives.
-
-&emsp;“(2) The term ‘dangerous drug’ means a controlled substance, as defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\].
-
-&emsp;“(3) The term ‘natural family’ shall be broadly interpreted to include natural parents, grandparents, family members, guardians, children residing in the household, and individuals residing in the household on a continuing basis who are in a care-giving situation with respect to infants and young children covered under this Act.
-
-#### “SEC. 104. AUTHORIZATION OF APPROPRIATIONS.
-
-“(a)
-
-In General.—
-
-&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $35,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2001.
-
-&emsp;“(2)(A) Of the amounts appropriated under paragraph (1) for any fiscal year in excess of the amount appropriated under this subsection for fiscal year 1991, as adjusted in accordance with subparagraph (B), the Secretary shall make available not less than 50 percent for grants under section 101(a) to carry out projects described in paragraph (8) of such section.
-
-&emsp;“(B) For purposes of subparagraph (A), the amount relating to fiscal year 1991 shall be adjusted for a fiscal year to a greater amount to the extent necessary to reflect the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with March of the preceding fiscal year.
-
-&emsp;“(3) Not more than 5 percent of the amounts appropriate under paragraph (1) for any fiscal year may be obligated for carrying out section 102(a).
-
-“(b)
-
-Dissemination of Information for Individuals With Special Needs.—For the purpose of carrying out section 102(b), there is authorized to be appropriated $5,000,000 for each of the fiscal years 1992 through 1995.
+Deadline.—Not later than 36 months after the date of enactment of the Keeping Children and Families Safe Act of 2003 \[June 25, 2003\], the Secretary shall complete the study required under paragraph (1) and submit to Congress a report describing the findings made as a result of the study.
 
 “(c)
 
-Administrative Expenses.—
-
-&emsp;“(1) For the purpose of the administration of this title by the Secretary, there is authorized to be appropriated for each fiscal year specified in subsection (a)(1) an amount equal to 5 percent of the amount authorized in such subsection to be appropriated for the fiscal year. With respect to the amounts appropriated under such subsection, the preceding sentence may not be construed to prohibit the expenditure of the amounts for the purpose described in such sentence.
-
-&emsp;“(2) The Secretary may not obligate any of the amounts appropriated under paragraph (1) for a fiscal year unless, from the amounts appropriated under subsection (a)(1) for the fiscal year, the Secretary has obligated for the purpose described in such paragraph an amount equal to the amounts obligated by the Secretary for such purpose in fiscal year 1991.
-
-“(d)
-
-Availability of Funds.—Amounts appropriated under this section shall remain available until expended.
+Evaluation.—The Secretary shall evaluate and report on effective methods of intervening before the abandonment of an infant or young child so as to prevent such abandonments, and effective methods for responding to the needs of abandoned infants and young children.
 
 #### “TITLE II—MEDICAL COSTS OF TREATMENT WITH RESPECT TO ACQUIRED IMMUNE DEFICIENCY SYNDROME
 
@@ -598,11 +530,57 @@ Report.—The Secretary shall, not later than 12 months after the date of the en
 
 #### “SEC. 301. DEFINITIONS.
 
-“For purposes of this Act:
+“In this Act:
 
-&emsp;“(1) The term ‘acquired immune deficiency syndrome’ includes infection with the etiologic agent for such syndrome, any condition indicating that an individual is infected with such etiologic agent, and any condition arising from such etiologic agent.
+&emsp;“(1)
 
-&emsp;“(2) The term ‘Secretary’ means the Secretary of Health and Human Services.”
+Abandoned; abandonment.—The terms ‘abandoned’ and ‘abandonment’, used with respect to infants and young children, mean that the infants and young children are medically cleared for discharge from acute-care hospital settings, but remain hospitalized because of a lack of appropriate out-of-hospital placement alternatives.
+
+&emsp;“(2)
+
+Acquired immune deficiency syndrome.—The term ‘acquired immune deficiency syndrome’ includes infection with the etiologic agent for such syndrome, any condition indicating that an individual is infected with such etiologic agent, and any condition arising from such etiologic agent.
+
+&emsp;“(3)
+
+Dangerous drug.—The term ‘dangerous drug’ means a controlled substance, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802).
+
+&emsp;“(4)
+
+Natural family.—The term ‘natural family’ shall be broadly interpreted to include natural parents, grandparents, family members, guardians, children residing in the household, and individuals residing in the household on a continuing basis who are in a care-giving situation, with respect to infants and young children covered under this Act.
+
+&emsp;“(5)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+#### “SEC. 302. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Authorization.—For the purpose of carrying out this Act, there are authorized to be appropriated $45,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2008.
+
+&emsp;“(2)
+
+Limitation.—Not more than 5 percent of the amounts appropriated under paragraph (1) for any fiscal year may be obligated for carrying out section 102(a).
+
+“(b)
+
+Administrative Expenses.—
+
+&emsp;“(1)
+
+Authorization.—For the purpose of the administration of this Act by the Secretary, there is authorized to be appropriated for each fiscal year specified in subsection (a)(1) an amount equal to 5 percent of the amount authorized in such subsection to be appropriated for the fiscal year. With respect to the amounts appropriated under such subsection, the preceding sentence may not be construed to prohibit the expenditure of the amounts for the purpose described in such sentence.
+
+&emsp;“(2)
+
+Limitation.—The Secretary may not obligate any of the amounts appropriated under paragraph (1) for a fiscal year unless, from the amounts appropriated under subsection (a)(1) for the fiscal year, the Secretary has obligated for the purpose described in such paragraph an amount equal to the amounts obligated by the Secretary for such purpose in fiscal year 2003.
+
+“(c)
+
+Availability of Funds.—Amounts appropriated under this section shall remain available until expended.”
 
 \[Pub. L. 102–236, §1, Dec. 12, 1991, 105 Stat. 1812, provided that: “This Act \[amending Pub. L. 100–505 set out above and provisions set out as a note under section 623 of Title 29, Labor\] may be cited as the ‘Abandoned Infants Assistance Act Amendments of 1991’.”\]
 

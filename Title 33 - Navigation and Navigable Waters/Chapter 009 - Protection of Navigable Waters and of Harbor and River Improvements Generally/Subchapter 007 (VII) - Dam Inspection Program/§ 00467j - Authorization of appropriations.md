@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), for each fiscal year, amounts made available under this subsection to carry out section 467f of this title shall be allocated among the States as follows:
+&emsp;&emsp;Subject to subparagraphs (B) and (C), for each fiscal year, amounts made availableunder this subsection to carry out section 467f of this title shall be allocated among the States as follows:
 
 &emsp;&emsp;&emsp;(i) One-third among States that qualify for assistance under section 467f(e) of this title.
 
@@ -58,7 +58,7 @@ A prior section 13 of Pub. L. 92–367 was classified to section 467<i>l</i> of 
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–310, §7(a)(2), substituted “$6,000,000 for each of fiscal years 2003 through2006, to remain available until expended” for “$1,000,000 for fiscal year 1998, $2,000,000 for fiscal year 1999, $4,000,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, and $4,000,000 for fiscal year 2002”.
+2002—Subsec. (a)(1). Pub. L. 107–310, §7(a)(2), substituted “$6,000,000 for each of fiscal years 2003 through 2006, to remain available until expended” for “$1,000,000 for fiscal year 1998, $2,000,000 for fiscal year 1999, $4,000,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, and $4,000,000 for fiscal year 2002”.
 
 Pub. L. 107–310, §7(a)(1), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
 

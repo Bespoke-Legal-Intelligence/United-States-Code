@@ -14,7 +14,7 @@
 
 #### (b) Charges
 
-(1) The Secretary shall impose on the department, agency, or person or entity for which research and other activities are carried out under subsection (a) of this section a charge for such research and activities in carrying out such research and activities, which shall include—
+(1) The Secretary shall impose on the department, agency, or person or entity for which research and other activities are carried out undersubsection (a) of this section a charge for such research and activities in carrying out such research and activities, which shall include—
 
 &emsp;(A) the direct cost incurred in carrying out such research and activities; and
 
@@ -54,5 +54,5 @@ The Federal Nonnuclear Energy Research and Development Act of 1974, referred to 
 
 #### Codification
 
-Section was enacted as part of the Strom Thurmond National Defense Authorization Act for Fiscal Year1999, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

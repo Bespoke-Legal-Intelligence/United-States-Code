@@ -32,7 +32,7 @@ If the Secretary considers it necessary in order to prevent the dissemination of
 
 #### (2) Management plans
 
-&emsp;In conjunction with the classification system, the Secretary may develop integratedmanagement plans for noxious weeds for the geographic region or ecological range where the noxious weed is found in the United States.
+&emsp;In conjunction with the classification system, the Secretary may develop integrated management plans for noxious weeds for the geographic region or ecological range where the noxious weed is found in the United States.
 
 #### (d) Application of least drastic action
 

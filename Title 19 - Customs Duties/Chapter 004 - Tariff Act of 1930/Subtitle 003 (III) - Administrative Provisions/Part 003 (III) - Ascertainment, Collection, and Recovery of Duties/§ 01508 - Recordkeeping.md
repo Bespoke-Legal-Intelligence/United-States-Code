@@ -14,13 +14,13 @@ Any—
 
 &emsp;(3) person whose activities require the filing of a declaration or entry, or both;
 
-> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to,statements, declarations, documents and electronically generated or machine readable data) which—
+> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which—
 
 &emsp;(A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
 
 &emsp;(B) are normally kept in the ordinary course of business.
 
-#### (b) Exportations to free trade countries
+#### (b) Exportations to NAFTA countries
 
 #### (1) Definitions
 
@@ -50,7 +50,7 @@ Any—
 
 &emsp;&emsp;&emsp;Any person that claims with respect to an article—
 
-&emsp;&emsp;&emsp;&emsp;(I) a waiver or reduction of duty under the last paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the last proviso to section 81c(a) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) a waiver or reduction of duty under the eleventh paragraph of section 1311 of this title, section 1312(b)(1) or (4) of this title, section 1562(2) of this title, or the proviso preceding the last proviso to section 81c(a) of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) a credit against a bond under section 1312(d) of this title; or
 
@@ -66,7 +66,7 @@ Any—
 
 &emsp;&emsp;&emsp;&emsp;(II) learns of the existence of such a Certificate for the article;
 
-&emsp;&emsp;&nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II), must disclose the occurrence to the Customs Service.
+&emsp;&emsp;&nbsp;that person, within 30 days after the occurrence described in subclause (I) or (II),must disclose the occurrence to the Customs Service.
 
 #### (iii) Action on claim
 
@@ -110,17 +110,63 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;Any person who fails to retain the records required by paragraph (3) of subsection (b) of this section or the regulations issued to implement that paragraph shall be liable for a civil penalty not to exceed $10,000.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515.)
+#### (f) Certificates of Origin for goods exported under the United States-Chile Free Trade Agreement
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Records and supporting documents
+
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+
+&emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) if applicable, the purchase, cost, and value of, and payment for, all materials, including recovered goods, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) if applicable, the production of the good in the form in which it was exported.
+
+#### (B) Chile FTA Certificate of Origin
+
+&emsp;&emsp;The term “Chile FTA Certificate of Origin” means the certification, established under article 4.13 of the United States-Chile Free Trade Agreement, that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to Chile
+
+&emsp;Any person who completes and issues a Chile FTA Certificate of Origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the Certificate or copies thereof).
+
+#### (3) Retention period
+
+&emsp;Records and supporting documents shall be kept by the person who issued a Chile FTA Certificate of Origin for at least 5 years after the date on which the certificate was issued.
+
+#### (g) Penalties
+
+Any person who fails to retain records and supporting documents required by subsection (f) of this section or the regulations issued to implement that subsection shall be liable for the greater of—
+
+&emsp;(1) a civil penalty not to exceed $10,000; or
+
+&emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
+
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
-The customs laws, referred to in subsec. (e)(1)(B), are classified generally to this title.
+The customs laws, referred to in subsecs. (e)(1)(B) and (g)(2), are classified generally to this title.
 
 #### Prior Provisions
 
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–77, §§107(c), 207(1), temporarily substituted “Exportations to NAFTA countries” for “Exportations to free trade countries” in heading. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(2)(B)(i)(I). Pub. L. 108–77, §§107(c), 209, temporarily substituted “the eleventh paragraph of section 1311 of this title” for “the last paragraph of section 1311 of this title” and “the proviso preceding the last proviso to section 81c(a) of this title” for “the last proviso to section 81c(a) of this title”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsecs. (f), (g). Pub. L. 108–77, §§107(c), 207(2), temporarily added subsecs. (f) and (g). See Effective and Termination Dates of 2003 Amendment note below.
 
 1996—Subsec. (c)(1). Pub. L. 104–295 inserted “, filing of a reconciliation,” after “entry”.
 
@@ -139,6 +185,10 @@ Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, 
 Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -1,6 +1,6 @@
 ### §2005. Obligations
 
-(a)(1) The Postal Service is authorized to borrow money and to issue and sell such obligations as it determines necessary to carry out the purposes of this title. The aggregate amount of any such obligations outstanding at any one time shall not exceed the maximum amount then allowable under paragraph (2) of this subsection. In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.
+(a)(1) The Postal Service is authorized to borrow money and to issue and sell such obligations as it determines necessary to carry out the purposes of this title. The aggregate amount of any such obligations outstanding at any one time shall not exceed the maximum amount then allowable under paragraph (2) of this subsection.In any one fiscal year the net increase in the amount of obligations outstanding issued for the purpose of capital improvements shall not exceed $2,000,000,000, and the net increase in the amount of obligations outstanding issued for the purpose of defraying operating expenses of the Postal Service shall not exceed $1,000,000,000.
 
 (2) The maximum amount allowable under this paragraph is—
 
@@ -42,7 +42,7 @@
 
 &emsp;(4) be exempt both as to principal and interest from all taxation now or hereafter imposed by any State or local taxing authority except estate, inheritance, and gift taxes; and
 
-&emsp;(5) not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the UnitedStates, except as provided in section 2006(c) of this title.
+&emsp;(5) not be obligations of, nor shall payment of the principal thereof or interest thereon be guaranteed by, the Government of the United States, except as provided in section 2006(c) of this title.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 740; Pub. L. 101–227, §3(a), Dec. 12, 1989, 103 Stat. 1944.)
 

@@ -62,7 +62,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;(B) results in an adjustment for each type of hospital that is reasonably related to the costs, volume, or proportion of services provided to patients eligible for medical assistance under a State plan approved under this subchapter or to low-income patients,
 
-> except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a) of this section, the payment adjustment for a disproportionate share hospital is consistent with this subsection if the appropriate increase in the rate or amount of payment is equal to at least one-third of the increase otherwise applicable under this subsection (in the case of such paragraph (1)(B)) and at least two-thirds of such increase (in the case of paragraph (2)(A)). In the case of a hospital described in subsection (d)(2)(A)(i) of this section (relating to children's hospitals), in computing the hospital's disproportionate share adjustment percentage for purposes of paragraph (1)(B) of this subsection, the disproportionatepatient percentage (defined in section 1395ww(d)(5)(F)(vi) of this title) shall be computed by substituting for the fraction described in subclause (I) of such section the fraction described in subclause (II) of that section. If a State elects in a State plan amendment under subsection (a) of this section to provide the payment adjustment described in paragraph (2), the State must include in the amendment a detailed description of the specific methodology to be used in determining the specified additional payment amount (or increased percentage payment) to be made to each hospital qualifying for such a payment adjustment and must publish at least annually the name of each hospital qualifying for such a payment adjustment and the amount of such payment adjustment made for each such hospital.
+> except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a) of this section, the payment adjustment for a disproportionate share hospital is consistent with this subsection if the appropriate increase in the rate or amount of payment is equal to at least one-third of the increase otherwise applicable under this subsection (in the case of such paragraph (1)(B)) and at least two-thirds of such increase (in the case of paragraph (2)(A)). In the case of a hospital described in subsection (d)(2)(A)(i) of this section (relating to children's hospitals), in computing the hospital's disproportionate share adjustment percentage for purposes of paragraph (1)(B) of this subsection, the disproportionate patient percentage (defined in section 1395ww(d)(5)(F)(vi) of this title) shall be computed by substituting for the fraction described in subclause (I) of such section the fraction described in subclause (II) of that section. If a State elects in a State plan amendment under subsection (a) of this section to provide the payment adjustment described in paragraph (2), the State must include in the amendment a detailed description of the specific methodology to be used in determining the specified additional payment amount (or increased percentage payment) to be made to each hospital qualifying for such a payment adjustment and must publish at least annually the name of each hospital qualifying for such a payment adjustment and the amount of such payment adjustment made for each such hospital.
 
 #### (d) Requirements to qualify as disproportionate share hospital
 
@@ -163,7 +163,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (A) In general
 
-&emsp;&emsp;The DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraph (B) and paragraph (5) by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+&emsp;&emsp;Except as provided in paragraph (6), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5) by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
 
 #### (B) Limitation
 
@@ -172,6 +172,18 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 &emsp;&emsp;&emsp;(i) the DSH allotment for the previous year, or
 
 &emsp;&emsp;&emsp;(ii) 12 percent of the total amount of expenditures under the State plan for medical assistance during the fiscal year.
+
+#### (C) Special, temporary increase in allotments on a one-time, non-cumulative basis
+
+&emsp;&emsp;The DSH allotment for any State (other than a State with a DSH allotment determined under paragraph (5))—
+
+&emsp;&emsp;&emsp;(i) for fiscal year 2004 is equal to 116 percent of the DSH allotment for the State for fiscal year 2003 under this paragraph, notwithstanding subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) for each succeeding fiscal year is equal to the DSH allotment for the State for fiscal year 2004 or, in the case of fiscal years beginning with the fiscal year specified in subparagraph (D) for that State, the DSH allotment for the State for the previous fiscal year increased by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+
+#### (D) Fiscal year specified
+
+&emsp;&emsp;For purposes of subparagraph (C)(ii), the fiscal year specified in this subparagraph for a State is the first fiscal year for which the Secretary estimates that the DSH allotment for that State will equal (or no longer exceed) the DSH allotment for that State under the law as in effect before December 8, 2003.
 
 #### (4) Special rule for fiscal years 2001 and 2002
 
@@ -191,11 +203,33 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;&emsp;The DSH allotment for any State for fiscal year 2003 or any succeeding fiscal year shall be determined under paragraph (3) without regard to the DSH allotments determined under subparagraph (A) of this paragraph.
 
-#### (5) Special rule for extremely low DSH States
+#### (5) Special rule for low DSH States
 
-&emsp;In the case of a State in which the total expenditures under the State plan (including Federal and State shares) for disproportionate share hospital adjustments under this section for fiscal year 1999, as reported to the Administrator of the Health Care Financing Administration as of August 31, 2000, is greater than 0 but less than 1 percent of the State's total amount of expenditures under the State plan for medical assistance during the fiscal year, the DSH allotment for fiscal year 2001 shall be increased to 1 percent of the State's total amount of expenditures under such plan for such assistance during such fiscal year. In subsequent fiscal years, such increased allotment is subject to an increase for inflation as provided in paragraph (3)(A).
+#### (A) For fiscal years 2001 through 2003 for extremely low DSH States
 
-#### (6) “State” defined
+&emsp;&emsp;In the case of a State in which the total expenditures under the State plan (including Federal and State shares) for disproportionate share hospital adjustments under this section for fiscal year 1999, as reported to the Administrator of the Health Care Financing Administration as of August 31, 2000, is greater than 0 but less than 1 percent of the State's total amount of expenditures under the State plan for medical assistance during the fiscal year, the DSH allotment for fiscal year 2001 shall be increased to 1 percent of the State's total amount of expenditures under such plan for such assistance during such fiscal year. In subsequent fiscal years before fiscal year 2004, such increased allotment is subject to an increase for inflation as provided in paragraph (3)(A).
+
+#### (B) For fiscal year 2004 and subsequent fiscal years
+
+&emsp;&emsp;In the case of a State in which the total expenditures under the State plan (including Federal and State shares) for disproportionate share hospital adjustments under this section for fiscal year 2000, as reported to the Administrator of the Centers for Medicare \& Medicaid Services as of August 31, 2003, is greater than 0 but less than 3 percent of the State's total amount of expenditures under the State plan for medical assistance during the fiscal year, the DSH allotment for the State with respect to—
+
+&emsp;&emsp;&emsp;(i) fiscal year 2004 shall be the DSH allotment for the State for fiscal year 2003 increased by 16 percent;
+
+&emsp;&emsp;&emsp;(ii) each succeeding fiscal year before fiscal year 2009 shall be the DSH allotment for the State for the previous fiscal year increased by 16 percent; and
+
+&emsp;&emsp;&emsp;(iii) fiscal year 2009 and any subsequent fiscal year, shall be the DSH allotment for the State for the previous year subject to an increase for inflation as provided in paragraph (3)(A).
+
+#### (6) Allotment adjustment
+
+&emsp;Only with respect to fiscal year 2004 or 2005, if a statewide waiver under section 1315 of this title is revoked or terminated before the end of either such fiscal year and there is no DSH allotment for the State, the Secretary shall—
+
+&emsp;&emsp;(A) permit the State whose waiver was revoked or terminated to submit an amendment to its State plan that would describe the methodology to be used by the State (after the effective date of such revocation or termination) to identify and make payments to disproportionate share hospitals, including children's hospitals and institutions for mental diseases or other mental health facilities (other than State-owned institutions or facilities), on the basis of the proportion of patients served by such hospitals that are low-income patients with special needs; and
+
+&emsp;&emsp;(B) provide for purposes of this subsection for computation of an appropriate DSH allotment for the State for fiscal year 2004 or 2005 (or both) that would not exceed the amount allowed under paragraph (3)(B)(ii) and that does not result in greater expenditures under this subchapter than would have been made if such waiver had not been revoked or terminated.
+
+> &emsp;In determining the amount of an appropriate DSH allotment under subparagraph (B) for a State, the Secretary shall take into account the level of DSH expenditures for the State for the fiscal year preceding the fiscal year in which the waiver commenced.
+
+#### (7) “State” defined
 
 &emsp;In this subsection, the term “State” means the 50 States and the District of Columbia.
 
@@ -209,7 +243,7 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 #### (B) Limit to public hospitals during transition period
 
-&emsp;&emsp;With respect to payment adjustments during a State fiscal year that begins before January 1, 1995, subparagraph (A) shall applyonly to hospitals owned or operated by a State (or by an instrumentality or a unit of government within a State).
+&emsp;&emsp;With respect to payment adjustments during a State fiscal year that begins before January 1, 1995, subparagraph (A) shall apply only to hospitals owned or operated by a State (or by an instrumentality or a unit of government within a State).
 
 #### (C) Modifications for private hospitals
 
@@ -293,7 +327,33 @@ Subject to subsections (f) and (g) of this section, in order to be consistent wi
 
 &emsp;Paragraph (1) shall not apply to a payment adjustment provided pursuant to a payment arrangement in effect on July 1, 1997.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570.)
+#### (j) Annual reports and other requirements regarding payment adjustments
+
+With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary shall require a State, as a condition of receiving a payment under section 1396b(a)(1) of this title with respect to a payment adjustment made under this section, to do the following:
+
+#### (1) Report
+
+&emsp;The State shall submit an annual report that includes the following:
+
+&emsp;&emsp;(A) An identification of each disproportionate share hospital that received a payment adjustment under this section for the preceding fiscal year and the amount of the payment adjustment made to such hospital for the preceding fiscal year.
+
+&emsp;&emsp;(B) Such other information as the Secretary determines necessary to ensure the appropriateness of the payment adjustments made under this section for the preceding fiscal year.
+
+#### (2) Independent certified audit
+
+&emsp;The State shall annually submit to the Secretary an independent certified audit that verifies each of the following:
+
+&emsp;&emsp;(A) The extent to which hospitals in the State have reduced their uncompensated care costs to reflect the total amount of claimed expenditures made under this section.
+
+&emsp;&emsp;(B) Payments under this section to hospitals that comply with the requirements of subsection (g) of this section.
+
+&emsp;&emsp;(C) Only the uncompensated care costs of providing inpatient hospital and outpatient hospital services to individuals described in paragraph (1)(A) of such subsection are included in the calculation of the hospital-specific limits under such subsection.
+
+&emsp;&emsp;(D) The State included all payments under this subchapter, including supplemental payments, in the calculation of such hospital-specific limits.
+
+&emsp;&emsp;(E) The State has separately documented and retained a record of all of its costs under this subchapter, claimed expenditures under this subchapter, uninsured costs in determining payment adjustments under this section, and any payments made on behalf of the uninsured from payment adjustments under this section.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430.)
 
 #### References in Text
 
@@ -308,6 +368,18 @@ Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, 
 A prior section 1923 of act Aug. 14, 1935, was renumbered section 1928 and is classified to section 1396s of this title.
 
 #### Amendments
+
+2003—Subsec. (f)(3)(A). Pub. L. 108–173, §1001(a)(1), (c)(1), substituted “Except as provided in paragraph (6), the DSH” for “The DSH” and “subparagraphs (B) and (C)” for “subparagraph (B)”.
+
+Subsec. (f)(3)(C), (D). Pub. L. 108–173, §1001(a)(2), added subpars. (C) and (D).
+
+Subsec. (f)(5). Pub. L. 108–173, §1001(b)(1), (2), (4), struck out “extremely” before “low DSH States” in heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
+
+Subsec. (f)(5)(A). Pub. L. 108–173, §1001(b)(3), which directed insertion of “before fiscal year 2004” after “In subsequent years”, was executed by making the insertion after “In subsequent fiscal years” to reflect the probable intent of Congress.
+
+Subsec. (f)(6), (7). Pub. L. 108–173, §1001(c)(2), (3), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (j). Pub. L. 108–173, §1001(d), added subsec. (j).
 
 2000—Subsec. (a)(2)(D). Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(2)(A)\], inserted “(including such patients who receive benefits through a managed care entity)” after “the proportion of low-income and medicaid patients”.
 
@@ -439,7 +511,7 @@ Amendment by section 1000(a)(6) \[title VI, §608(s)\] of Pub. L. 106–113 effe
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4711(c)(2) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to payment for items and services furnished on or after Oct. 1, 1997, see section 4711(d) of Pub. L. 105–33, set out as a note under 1396a of this title.
+Amendment by section 4711(c)(2) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to payment foritems and services furnished on or after Oct. 1, 1997, see section 4711(d) of Pub. L. 105–33, set out as a note under 1396a of this title.
 
 Section 4721(a)(2) of Pub. L. 105–33 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to payment adjustments attributable to DSH allotments for fiscal years beginning with fiscal year 1998.”
 

@@ -282,5 +282,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 172, 805, 810, 834, 852, 854, 857, 901, 1059, 1092, 1259 of this title.
+This section is referred to in sections 1, 163, 172, 805, 810, 834, 852, 854, 857, 901, 1059, 1092, 1259 of this title.
 

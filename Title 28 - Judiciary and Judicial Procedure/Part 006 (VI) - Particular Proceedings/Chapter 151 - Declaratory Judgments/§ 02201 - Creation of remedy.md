@@ -80,5 +80,5 @@ Jurisdictional amount in diversity of citizenship cases, see section 1332 of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 623; title 8 sections 1252, 1503; title 21 sections 355, 360b.
+This section is referred to in title 7 section 623; title 8 sections 1252, 1503; title 21 sections 355, 360b; title 35 section 271.
 

@@ -54,7 +54,7 @@ This chapter, referred to in subsecs. (b) and (c)(1), was in the original “thi
 
 #### Effective Date
 
-Section 16 of Pub. L. 93–205 provided that: “This Act \[enacting this chapter, amending sections 460k–1, 460<i>l</i>–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Dec. 28, 1973\].”
+Section 16 of Pub. L. 93–205 provided that: “This Act \[enacting this chapter, amending sections 460k–1, 460<i>l</i>–9,668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, repealing sections 668aa to 668cc–6 of this title, and enacting provisions set out as notes under this section\] shall take effect on the date of its enactment \[Dec. 28, 1973\].”
 
 #### Short Title of 1982 Amendment
 

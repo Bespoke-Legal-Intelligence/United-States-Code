@@ -42,7 +42,7 @@ Subsec. (e)(3). Pub. L. 103–358 substituted “or relating to the enforcement 
 
 Subsec. (e)(1). Pub. L. 100–238, §117(a)(2), inserted “subsection (d) and” after “Subject to”.
 
-Subsec. (e)(3). Pub. L. 100–238, §116, inserted at end “For the purposes of this paragraph, an amount contributed for the benefit of an individual under section8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual's account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).”
+Subsec. (e)(3). Pub. L. 100–238, §116, inserted at end “For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual's account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).”
 
 #### Effective Date of 1994 Amendments
 

@@ -44,7 +44,7 @@
 
 #### (A) States affected
 
-&emsp;&emsp;In any case in which a State allotment is established under section 1359cc(f) of this title and there are in excess of 250 sugarcane producers in the State (other than Puerto Rico), the Secretary shall make a determination under subparagraph (B).
+&emsp;&emsp;In any case in which a State allotment is established under section 1359cc(f) of this title and there are in excess of 250 sugarcaneproducers in the State (other than Puerto Rico), the Secretary shall make a determination under subparagraph (B).
 
 #### (B) Determination
 
@@ -96,7 +96,7 @@
 
 #### (7) Adjustments
 
-&emsp;Whenever the Secretary determines that, because of a natural disaster or other condition beyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State's cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
+&emsp;Whenever the Secretary determines that, because of a natural disaster or other conditionbeyond the control of producers that adversely affects a crop of sugarcane subject to proportionate shares, the amount of sugarcane produced by producers subject to the proportionate shares will not be sufficient to enable processors in the State to meet the State's cane sugar allotment and provide a normal carryover inventory of sugar, the Secretary may uniformly allow producers to harvest an amount of sugarcane in excess of their proportionate share, or suspend proportionate shares entirely, as necessary to enable processors to meet the State allotment and provide a normal carryover inventory of sugar.
 
 #### (8) Processing facility closures
 

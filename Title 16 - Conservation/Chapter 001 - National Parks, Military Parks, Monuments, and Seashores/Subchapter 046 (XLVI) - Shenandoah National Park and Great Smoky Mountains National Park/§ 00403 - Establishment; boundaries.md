@@ -4,6 +4,10 @@ When title to lands within the areas hereinafter referred to shall have been ves
 
 (May 22, 1926, ch. 363, §1, 44 Stat. 616.)
 
+#### Land Exchange in Great Smoky Mountains National Park
+
+For land exchange between National Park Service and Eastern Band of Cherokee Indians involving tract in Great Smoky Mountains National Park, see section 138 of Pub. L. 108–108, classified as a note under section 460a–5 of this title.
+
 #### Right-of-way Permits for Natural Gas Pipelines in Great Smoky Mountains National Park
 
 Pub. L. 107–223, Aug. 21, 2002, 116 Stat. 1338, authorized the Secretary of the Interior to issue right-of-way permits for natural gas pipelines existing as of Sept. 1, 2001, or proposed for certain specified locations, within the boundary of Great Smoky Mountains National Park, subject to certain terms and conditions and consistent with laws and regulations generally applicable to utility rights-of-way within units of the National Park System.

@@ -60,7 +60,7 @@ An institution which has entered into an agreement under subsection (a) of this 
 
 (1) For the purpose of promoting responsible repayment of loans made pursuant to this part, the Secretary and each institution of higher education participating in the program under this part shall enter into cooperative agreements with credit bureau organizations to provide for the exchange of information concerning student borrowers concerning whom the Secretary has received a referral pursuant to section 1087gg of this title and regarding loans held by the Secretary or an institution.
 
-(2) Each cooperative agreement made pursuant to paragraph (1) shall be made in accordance with the requirements of section 1080a of this title except that such agreement shall provide for the disclosure by the Secretary or an institution, as the case may be, to such organizations,with respect to any loan held by the Secretary or the institution, respectively, of—
+(2) Each cooperative agreement made pursuant to paragraph (1) shall be made in accordance with the requirements of section 1080a of this title except that such agreement shall provide for the disclosure by the Secretary or an institution, as the case may be, to such organizations, with respect to any loan held by the Secretary or the institution, respectively, of—
 
 &emsp;(A) the date of disbursement and the amount of such loans made to any borrower under this part at the time of disbursement of the loan;
 

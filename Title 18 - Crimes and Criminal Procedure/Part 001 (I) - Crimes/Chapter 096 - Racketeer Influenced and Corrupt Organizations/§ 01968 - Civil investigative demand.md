@@ -40,9 +40,9 @@
 
 &emsp;(i) the racketeering investigation for which any documentary material was produced under this chapter, and
 
-&emsp;(ii) any case or proceeding arising from such investigation, the custodian shall return to the person who produced such material allsuch material other than copies thereof made by the Attorney General pursuant to this subsection which has not passed into the control of any court or grand jury through the introduction thereof into the record of such case or proceeding.
+&emsp;(ii) any case or proceeding arising from such investigation, the custodian shall return to the person who produced such material all such material other than copies thereof made by the Attorney General pursuant to this subsection which has not passed into the control of any court or grand jury through the introduction thereof into the record of such case or proceeding.
 
-(6) When any documentary material has been produced by any person under this section for use in any racketeering investigation, and no such case or proceeding arising therefrom has been instituted within a reasonable time after completion of the examination and analysis of all evidence assembled in the course of such investigation, such person shall be entitled, upon written demand made upon the Attorney General, to the return of all documentary material other than copies thereof made pursuant to this subsection so produced by such person.
+(6) When any documentary material has been produced by any person under this section foruse in any racketeering investigation, and no such case or proceeding arising therefrom has been instituted within a reasonable time after completion of the examination and analysis of all evidence assembled in the course of such investigation, such person shall be entitled, upon written demand made upon the Attorney General, to the return of all documentary material other than copies thereof made pursuant to this subsection so produced by such person.
 
 (7) In the event of the death, disability, or separation from service of the custodian of any documentary material produced under any demand issued under this section or the official relief of such custodian from responsibility for the custody and control of such material, the Attorney General shall promptly—
 

@@ -2,7 +2,7 @@
 
 #### (a) Loss mitigation
 
-Upon default of any mortgage insured under this subchapter, mortgagees shall engage in loss mitigation actions for the purpose of providing an alternative to foreclosure (including but not limited to actions such as special forbearance, loss modification, and deeds in lieu of foreclosure, but not including assignment of mortgages to the Secretary under section 1710(a)(1)(A) of this title) as provided in regulations by the Secretary.
+Upon default of any mortgage insured under this subchapter, mortgagees shall engage in loss mitigation actions for the purpose of providingan alternative to foreclosure (including but not limited to actions such as special forbearance, loss modification, and deeds in lieu of foreclosure, but not including assignment of mortgages to the Secretary under section 1710(a)(1)(A) of this title) as provided in regulations by the Secretary.
 
 #### (b) Payment of partial claim
 
@@ -50,7 +50,7 @@ No provision of this chapter, or any other law, shall be construed to require th
 
 1998—Pub. L. 105–276 added subsec. (a) and redesignated former subsecs. (a) to (e) as (b) to (f), respectively.
 
-1996—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d)relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
+1996—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d) relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
 
 Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: “Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment.”
 
@@ -62,7 +62,7 @@ Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text 
 
 1980—Subsec. (a). Pub. L. 96–399 added subsec. (a). Existing undesignated provisions were designated as subsec. (b)(1).
 
-Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy providedby subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
 
 Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 

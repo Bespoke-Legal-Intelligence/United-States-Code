@@ -12,7 +12,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 &emsp;(B) shall be awarded, or otherwise finally acted upon, not later than the expiration of the 6-month period beginning on the expiration of the period described in subparagraph (A).
 
-(2) If the Secretary makes a determination that it is not practicable to administer a program referred to in paragraph (1) in accordance with the time limitations described in such paragraph, the Secretary may adjust the time limitations accordingly.
+(2) If the Secretary makes a determination that it is not practicable to administer a program referred to in paragraph (1) in accordance with the time limitations described in suchparagraph, the Secretary may adjust the time limitations accordingly.
 
 #### (c) Requirements with respect to adjustments in time limitations
 
@@ -26,7 +26,7 @@ With respect to any program for which a determination described in subsection (b
 
 Except as provided in subsection (e) of this section, the Secretary shall annually prepare, for inclusion in the comprehensive report required in section 300cc of this title, a report—
 
-&emsp;(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2) of this section, including adescription of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
+&emsp;(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2) of this section, including a description of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
 
 &emsp;(B) summarizing applications that—
 

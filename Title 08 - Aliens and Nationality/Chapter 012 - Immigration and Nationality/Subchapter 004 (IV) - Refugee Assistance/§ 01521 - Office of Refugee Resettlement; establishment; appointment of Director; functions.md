@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–236 substituted “the Secretary of State” for “and under the general policy guidance of the United States Coordinator for Refugee Affairs (hereinafter in this subchapter referred to as the ‘Coordinator’)”.
+1994—Subsec. (b). Pub. L. 103–236 substituted “the Secretary of State” for “and under the general policyguidance of the United States Coordinator for Refugee Affairs (hereinafter in this subchapter referred to as the ‘Coordinator’)”.
 
 #### Effective Date of 1994 Amendment
 
@@ -32,5 +32,5 @@ Section 101 of Pub. L. 96–212 provided that:
 
 “(a) the Congress declares that it is the historic policy of the United States to respond to the urgent needs of persons subject to persecution in their homelands, including, where appropriate, humanitarian assistance for their care and maintenance in asylum areas, efforts to promote opportunities for resettlement or voluntary repatriation, aid for necessary transportation and processing, admission to this country of refugees of special humanitarian concern to the United States, and transitional assistance to refugees in the United States. The Congress further declares that it is the policy of the United States to encourage all nations to provide assistance and resettlement opportunities to refugees to the fullest extent possible.
 
-“(b) The objectives of this Act \[see Short Title of 1980 Amendment note set out under section 1101 of this title\] are to provide a permanent and systematic procedure for the admission to this country of refugees of special humanitarian concern to the United States, andto provide comprehensive and uniform provisions for the effective resettlement and absorption of those refugees who are admitted.”
+“(b) The objectives of this Act \[see Short Title of 1980 Amendment note set out under section 1101 of this title\] are to provide a permanent and systematic procedure for the admission to this country of refugees of special humanitarian concern to the United States, and to provide comprehensive and uniform provisions for the effective resettlement and absorption of those refugees who are admitted.”
 

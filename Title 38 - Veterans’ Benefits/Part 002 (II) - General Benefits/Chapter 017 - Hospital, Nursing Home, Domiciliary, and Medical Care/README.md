@@ -57,7 +57,7 @@
 | [1728\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001728%20-%20Reimbursement%20of%20certain%20medical%20expenses.md) | Reimbursement of certain medical expenses. |
 | [1729\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729%20-%20Recovery%20by%20the%20United%20States%20of%20the%20cost%20of%20certain%20care%20and%20services.md) | Recovery by the United States of the cost of certain care and services. |
 | [1729A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md) | Department of Veterans Affairs Medical Care Collections Fund. |
-| [1729B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729B%20-%20Health%20Services%20Improvement%20Fund.md) | Health Services Improvement Fund. |
+| \[1729B. | Repealed.\] |
 | [1730\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730%20-%20Community%20residential%20care.md) | Community residential care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -118,6 +118,8 @@
 
 #### Amendments
 
+2003—Pub. L. 108–7, div. K, title I, §113(a)(2), Feb. 20, 2003, 117 Stat. 482, struck out item 1729B “Health Services Improvement Fund”.
+
 2002—Pub. L. 107–287, §4(a)(2), Nov. 7, 2002, 116 Stat. 2029, added item 1785.
 
 Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
@@ -168,7 +170,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1981—Pub. L. 97–72, title I, §§106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
 
-1980—Pub. L. 96–330, title IV, §401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defray necessary expenses” for “Statement under oath” in item 622.
+1980—Pub. L. 96–330, title IV, §401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defraynecessary expenses” for “Statement under oath” in item 622.
 
 1979—Pub. L. 96–22, title I, §§103(a)(2), 104(b), 105(b), 106(b), June 13, 1979, 93 Stat. 50, 51, 53, added items 612A, 620A, 634, and 661 to 664 and redesignated former item 634 as 635.
 
@@ -194,7 +196,7 @@ Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5313B, 5315, 5503, 7333, 8107, 8153 of this title; title 10 section 2641a; title 31 section 3803; title 42 sections 1320d, 1395w–21, 2651, 14402.
+This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5313B, 5315, 5503, 7333, 8107, 8153 of this title; title 10 section 2641a; title 31 section 3803; title 42 sections 1320d, 1395w–21, 1395w–113, 2651, 14402.
 
 
 ---

@@ -1,6 +1,6 @@
 ### §2575. Disposition of unclaimed property
 
-(a) The Secretary of any military department, and the Secretary of Transportation, under such regulations as they may respectively prescribe, may each by public or private sale or otherwise, dispose of all lost, abandoned, or unclaimed personal property that comes into the custody orcontrol of the Secretary's department, other than property subject to section 4712, 6522, or 9712 of this title or subject to subsection (c). However, property may not be disposed of until diligent effort has been made to find the owner (or the heirs, next of kin, or legal representative of the owner). The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days. If the owner (or the heirs, next of kin, or legal representative of the owner) is determined but not found, the property may not be disposed of until the expiration of 45 days after the date when notice, giving the time and place of the intended sale or other disposition, has been sent by certified or registered mail to that person at his last known address. When diligent effort to determine the owner (or heirs, next of kin, or legal representative of the owner) is unsuccessful, the property may be disposed of without delay, except that if it has a fair market value of more than $300, the Secretary may not dispose of the property until 45 days after the date it is received at a storage point designated by the Secretary.
+(a) The Secretary of any military department, and the Secretary of Homeland Security, under such regulations as they may respectively prescribe, may each by public or private sale or otherwise, dispose of all lost, abandoned, or unclaimed personal property that comes into the custody or control of the Secretary's department, other than property subject to section 4712, 6522, or 9712 of this title or subject to subsection (c). However, property may not be disposed of until diligent effort has been made to find the owner (or the heirs, next of kin, or legal representative of the owner). The diligent effort to find the owner (or the heirs, next of kin, or legal representative of the owner) shall begin, to the maximum extent practicable, not later than seven days after the date on which the property comes into the custody or control of the Secretary. The period for which that effort is continued may not exceed 45 days. If the owner (or the heirs, next of kin, or legal representative of the owner) is determined but not found, the property may not be disposed of until the expiration of 45 days after the date when notice, giving the time and place of the intended sale or other disposition, has been sent by certified or registered mail to that person at his last known address. When diligent effort to determine the owner (or heirs, next of kin, or legal representative of the owner) is unsuccessful, the property may be disposed of without delay, except that if it has a fair market value of more than $300, the Secretary may not dispose of the property until 45 days after the date it is received at a storage point designated by the Secretary.
 
 (b)(1) In the case of lost, abandoned, or unclaimed personal property found on a military installation, the proceeds from the sale of the property under this section shall be credited to the operation and maintenance account of that installation and used—
 
@@ -18,7 +18,7 @@
 
 (3) Unless a claim is filed under this subsection within 5 years after the date of the disposal of the property to which the claim relates, the claim may not be considered by a court, the Secretary of Defense (in the case of a claim filed under paragraph (1)), or the Secretary of Defense (in the case of a claim filed under paragraph (2)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, §511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, §322(a), (b), title XVI, §1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, §1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, §374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, §202(d), Oct. 19, 1996, 110 Stat. 3842.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 89–143, Aug. 28, 1965, 79 Stat. 581; Pub. L. 96–513, title V, §511(84), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 101–189, div. A, title III, §322(a), (b), title XVI, §1622(f)(1), Nov. 29, 1989, 103 Stat. 1413, 1605; Pub. L. 101–510, div. A, title XV, §1533(a)(2), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 104–106, div. A, title III, §374(a), Feb. 10, 1996, 110 Stat. 281; Pub. L. 104–316, title II, §202(d), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -60,7 +60,9 @@ In subsection (c), the words “No property \* \* \* may \* \* \* except” 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–106, §374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such aclaim may not be considered by a court or the General Accounting Office.”
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+1996—Subsec. (b). Pub. L. 104–106, §374(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The net proceeds from the sale of property under this section shall be covered into the Treasury as miscellaneous receipts. The owner (or the heirs, next of kin, or legal representative of the owner) may file a claim for those proceeds with the General Accounting Office within five years after the date of the disposal of the property. If not filed within that period, such a claim may not be considered by a court or the General Accounting Office.”
 
 Subsec. (d). Pub. L. 104–106, §374(a)(2), added subsec. (d).
 
@@ -94,9 +96,13 @@ Subsec. (c). Pub. L. 96–513, §511(84)(B), substituted “United States Soldie
 
 1965—Subsec. (a). Pub. L. 89–143 provided for notice by certified mail and substituted provision for disposition of property without delay when diligent effort to determine ownership is unsuccessful and after three months following receipt at designated storage point of property with fair market value of $25 or more, for former provision for disposition of property one year after receipt at designated storage point.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 #### Effective Date of 1989 Amendment
 

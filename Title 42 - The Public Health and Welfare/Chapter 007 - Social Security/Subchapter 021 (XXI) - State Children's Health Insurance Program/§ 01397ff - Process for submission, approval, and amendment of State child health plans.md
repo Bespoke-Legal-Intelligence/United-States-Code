@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph, an amendment to a Stateplan shall take effect on one or more effective dates specified in the amendment.
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph, an amendment to a State plan shall take effect on one or more effective dates specified in the amendment.
 
 #### (B) Amendments relating to eligibility or benefits
 

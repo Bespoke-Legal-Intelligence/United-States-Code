@@ -34,7 +34,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 &emsp;&emsp;(B) administrative law judges, may, if necessary, compel by subpoena the attendance of witnesses and the production of evidence at any designated place or hearing, and
 
-&emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior to the filing of a complaint in a case under paragraph (2).
+&emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior tothe filing of a complaint in a case under paragraph (2).
 
 > &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 

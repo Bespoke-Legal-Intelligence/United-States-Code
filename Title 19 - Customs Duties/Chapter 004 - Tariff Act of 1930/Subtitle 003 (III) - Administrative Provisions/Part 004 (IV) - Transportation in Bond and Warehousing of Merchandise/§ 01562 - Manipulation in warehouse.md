@@ -14,31 +14,57 @@ Unless by special authority of the Secretary of the Treasury, no merchandise sha
 
 &emsp;&emsp;&emsp;(ii) the total amount of customs duties paid on the merchandise to the NAFTA country;
 
-&emsp;(3) without payment of duties for exportation to any foreign country other than to a NAFTA country or to Canada when exports to that country are subject to paragraph (4);
+&emsp;(3) without payment of duties for exportation to any foreign country other than toChile, to a NAFTA country, or to Canada when exports to that country are subject to paragraph (4);
 
 &emsp;(4) without payment of duties for exportation to Canada (if that country ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates), but the exemption from the payment of duties under this paragraph applies only in the case of an exportation during the period such Agreement is in operation of merchandise that—
 
 &emsp;&emsp;(A) is only cleaned, sorted, or repacked in a bonded warehouse, or
 
-&emsp;&emsp;(B) is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988; and
+&emsp;&emsp;(B) is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988;
 
-&emsp;(5) without payment of duties for shipment to the Virgin Islands, American Samoa, Wake Island, Midway Island, Kingman Reef, Johnston Island or the island of Guam.
+&emsp;(5) without payment of duties for shipment to the Virgin Islands, American Samoa, Wake Island, Midway Island, Kingman Reef, Johnston Island or the island of Guam; and
+
+&emsp;(6)(A) without payment of duties for exportation to Chile, if the merchandise is of a kind described in any of paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act; and
+
+&emsp;(B) for exportation to Chile if the merchandise consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, except that—
+
+&emsp;&emsp;(i) the merchandise may not be withdrawn from warehouse without assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of withdrawal from the warehouse with such additions to, or deductions from, the final appraised value as may be necessary by reason of a change in condition, and
+
+&emsp;&emsp;(ii) duty shall be paid on the merchandise before the 61st day after the date of exportation, except that such duties may be waived or reduced by—
+
+&emsp;&emsp;&emsp;(I) 100 percent during the 8-year period beginning on January 1, 2004,
+
+&emsp;&emsp;&emsp;(II) 75 percent during the 1-year period beginning on January 1, 2012,
+
+&emsp;&emsp;&emsp;(III) 50 percent during the 1-year period beginning on January 1, 2013, and
+
+&emsp;&emsp;&emsp;(IV) 25 percent during the 1-year period beginning on January 1, 2014.
 
 > Merchandise may be withdrawn from bonded warehouse for consumption, or for exportation to Canada if the duty exemption under paragraph (4) of the preceding sentence does not apply, upon the payment of duties accruing thereon, in its condition and quantity, and at its weight, at the time of withdrawal from warehouse, with such additions to or deductions from the final appraised value as may be necessary by reason of change in condition. The basis for the assessment of duties on such merchandise so withdrawn for consumption shall be the adjusted final appraised value, and if the rate of duty is based upon or regulated in any manner by the value of the merchandise, such rate shall be based upon or regulated by such adjusted final appraised value. The scouring or carbonizing of wool shall not be considered a process of manufacture within the provisions of this section. Under such regulations as the Secretary of the Treasury shall prescribe, imported merchandise which has been entered and which has remained in continuous customs custody may be manipulated in accordance with the provisions of this section under customs supervision and at the risk and expense of the consignee, but elsewhere than in a bonded warehouse, in cases where neither the protection of the revenue nor the proper conduct of customs business requires that such manipulation be done in bonded warehouse.
 
-(June 17, 1930, ch. 497, title IV, §562, 46 Stat. 745; June 25, 1938, ch. 679, §§2, 25, 52 Stat. 1077, 1088; Aug. 8, 1953, ch. 397, §18(f), 67 Stat. 518; June 30, 1955, ch. 258, §2(a)(5), 69 Stat. 242; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 100–449, title II, §204(c)(4), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 103–182, title II, §203(b)(4), Dec. 8, 1993, 107 Stat. 2090.)
+(June 17, 1930, ch. 497, title IV, §562, 46 Stat. 745; June 25, 1938, ch. 679, §§2, 25, 52 Stat. 1077, 1088; Aug. 8, 1953, ch. 397, §18(f), 67 Stat. 518; June 30, 1955, ch. 258, §2(a)(5), 69 Stat. 242; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 100–449, title II, §204(c)(4), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 103–182, title II, §203(b)(4), Dec. 8, 1993, 107 Stat. 2090; Pub. L. 108–77, title II, §203(b)(4), Sept. 3, 2003, 117 Stat. 928.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
 Section 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in par. (4)(B), is section 204 of Pub. L. 100–449, which is set out in a note under section 2112 of this title.
 
+Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in par. (6), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
+
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §562, 42Stat. 978. That section was superseded by section 562 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §562, 42 Stat. 978. That section was superseded by section 562 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions substantially the same, in effect, as those in this section with respect to the quantity of merchandise which might be withdrawn, were contained in R.S. §2980, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
+
+2003—Par. (3). Pub. L. 108–77, §§107(c), 203(b)(4)(A), temporarily substituted “to Chile, to a NAFTA country,” for “to a NAFTA country”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Par. (6). Pub. L. 108–77, §§107(c), 203(b)(4)(D), temporarily added par. (6). See Effective and Termination Dates of 2003 Amendment note below.
 
 1993—Pub. L. 103–182 substituted “be withdrawn therefrom—” for “be withdrawn therefrom without payment of duties—” in second sentence, substituted “paragraph (4) of the preceding sentence” for “paragraph (1) of the preceding sentence” in third sentence, added pars. (1) to (5), and struck out former pars. (1) to (3) which read as follows:
 
@@ -61,6 +87,10 @@ Prior provisions substantially the same, in effect, as those in this section wit
 1953—Act Aug. 8, 1953, in third sentence struck out “the entered value or” after “consumption shall be”, “whichever is higher,” after “the adjusted final appraised value,”, and “; but for the purpose of the ascertainment and assessment of additional duties under section 1489 of this chapter adjustments of the final appraised value shall be disregarded” after “such adjusted final appraised value”.
 
 1938—Act June 25, 1938, inserted sentence providing for manipulation of imported merchandise entering and remaining in continuous customs custody in cases where neither the protection of the revenue nor proper conduct of business requires such manipulation be done in a bonded warehouse, and inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam”.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1993 Amendment
 

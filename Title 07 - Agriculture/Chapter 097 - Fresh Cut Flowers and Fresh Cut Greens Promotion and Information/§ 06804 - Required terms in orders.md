@@ -268,7 +268,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (2) Other contracts and agreements
 
-&emsp;The order shall provide that the PromoFlor Council may enter into a contract or agreement for administrative services. Any contract or agreement entered into under thisparagraph shall include provisions comparable to the provisions described in paragraph (1)(B).
+&emsp;The order shall provide that the PromoFlor Council may enter into a contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
 
 #### (f) Books and records of PromoFlor Council
 
@@ -350,7 +350,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may beincreased or decreased annually by not more than .25 percent of—
+&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may be increased or decreased annually by not more than .25 percent of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the gross sales price of a product sold; or
 

@@ -8,7 +8,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;(2) binding commitments have been made to ensure that—
 
-&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for the remaining useful life of such housing (as determined under subsection (c) of this section);
+&emsp;&emsp;(A) the housing will be retained as housing affordable for very low-income families or persons, low-income families or persons, and moderate-income families or persons for theremaining useful life of such housing (as determined under subsection (c) of this section);
 
 &emsp;&emsp;(B) throughout such period, adequate expenditures will be made for maintenance and operation of the housing and that the project meets housing standards established by the Secretary under subsection (d) of this section, as determined by inspections conducted under such subsection by the Secretary;
 
@@ -64,7 +64,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (1) Establishment and inspection
 
-&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchaptershall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
+&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
 
 #### (2) Sanctions
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 103–327 is based on section 601(a)–(d) of title VI of S
 
 &emsp;“(i) 30 percent of the adjusted income of the tenant; or
 
-&emsp;“(ii) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in the market area in which the eligible low-income housing is located;
+&emsp;“(ii) 90 percent of the actual rent paid for a comparable unit in comparable unassisted housing in themarket area in which the eligible low-income housing is located;
 
 > except that the rent contributions of tenants (other than tenants receiving assistance under section 1437f of title 42) occupying the housing at the time of any increase may not be reduced under this subparagraph.” See Effective and Termination Dates of 1994 Amendment note below.
 

@@ -24,7 +24,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
-(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
+(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substancesfor carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
 
 (2)(A) The Secretary shall establish a comprehensive program of research into the biological effects of low-level ionizing radiation under which program the Secretary shall conduct such research and may support such research by others through grants and contracts.
 

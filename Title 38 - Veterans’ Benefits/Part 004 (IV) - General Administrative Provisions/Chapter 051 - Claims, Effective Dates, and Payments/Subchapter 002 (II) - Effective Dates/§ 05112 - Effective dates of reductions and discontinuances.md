@@ -90,5 +90,5 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1822, 5310 of this title.
+This section is referred to in sections 1832, 5310 of this title.
 

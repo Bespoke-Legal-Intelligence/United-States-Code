@@ -26,7 +26,7 @@ Ex. Ord. No. 10264, eff. June 29, 1951, 16 F.R. 6419, provided:
 
 1\. The administration of American Samoa is hereby transferred from the Secretary of the Navy to the Secretary of the Interior, such transfer to become effective on July 1, 1951.
 
-2\. The Department of the Navy and the Department of the Interior shall proceed with the plans for the transfer of administration of American Samoa as embodied in the above-mentioned memorandum of understanding between the two departments.
+2\. The Department of the Navy and the Department of the Interior shall proceed with the plans for thetransfer of administration of American Samoa as embodied in the above-mentioned memorandum of understanding between the two departments.
 
 3\. When the transfer of administration made by this order becomes effective, the Secretary of the Interior shall take such action as may be necessary and appropriate, and in harmony with applicable law, for the administration of civil government in American Samoa.
 

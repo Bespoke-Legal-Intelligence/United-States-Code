@@ -34,5 +34,5 @@ Other changes of phraseology were made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4126 of this title; title 15 section 657a.
+This section is referred to in section 4126 of this title; title 15 sections 657a, 657f.
 

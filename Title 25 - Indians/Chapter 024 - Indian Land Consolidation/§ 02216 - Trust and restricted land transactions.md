@@ -20,7 +20,7 @@ It is the policy of the United States to encourage and assist the consolidation 
 
 &emsp;&emsp;Notwithstanding any other provision of law and only after the Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land, has been provided with an estimate of the value of the interest of the Indian pursuant to this section—
 
-&emsp;&emsp;&emsp;(i) the sale or exchange or conveyance of an interest in trust or restricted land may be made for an amount that is less than the fair market value of that interest; and
+&emsp;&emsp;&emsp;(i) the sale or exchange or conveyance of an interest in trust or restricted land maybe made for an amount that is less than the fair market value of that interest; and
 
 &emsp;&emsp;&emsp;(ii) the approval of a transaction that is in compliance with this section shall not constitute a breach of trust by the Secretary.
 

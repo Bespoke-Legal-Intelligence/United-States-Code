@@ -80,13 +80,13 @@ Temporary Detention To Permit Revocation of Conditional Release, Deportation, or
 
 Detention.—If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial. In a case described in subsection (f)(1) of this section, a rebuttable presumption arises that no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
 
-&emsp;(1) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if acircumstance giving rise to Federal jurisdiction had existed;
+&emsp;(1) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if a circumstance giving rise to Federal jurisdiction had existed;
 
 &emsp;(2) the offense described in paragraph (1) of this subsection was committed while the person was on release pending trial for a Federal, State, or local offense; and
 
 &emsp;(3) a period of not more than five years has elapsed since the date of conviction, or the release of the person from imprisonment, for the offense described in paragraph (1) of this subsection, whichever is later.
 
-> Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.), or an offense under section 924(c), 956(a), or 2332b of title 18 of the United States Code.
+> Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of the community if the judicial officer finds that there is probable cause to believe that the person committed an offense for which a maximum term of imprisonment of ten years or more is prescribed in the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.), an offense under section 924(c), 956(a), or 2332b of this title, or an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title.
 
 (f)
 
@@ -158,7 +158,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 Presumption of Innocence.—Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 
-(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302.)
+(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302; Pub. L. 108–21, title II, §203, Apr. 30, 2003, 117 Stat. 660.)
 
 #### References in Text
 
@@ -173,6 +173,8 @@ The Maritime Drug Law Enforcement Act, referred to in subsecs. (e) and (f)(1)(C)
 A prior section 3142, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(c), 80 Stat. 217, set forth provisions relating to surrender by bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–21, in concluding provisions, substituted “1901 et seq.),” for “1901 et seq.), or” and “of this title, or an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title” for “of title 18 of the United States Code”.
 
 1996—Subsec. (e). Pub. L. 104–132, §702(d), inserted “, 956(a), or 2332b” after “section 924(c)” in concluding provisions.
 
@@ -210,7 +212,7 @@ Subsec. (i). Pub. L. 99–646, §55(a), (c)(9), in introductory provision substi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
+Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note undersection 3001 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1986 Amendment
 

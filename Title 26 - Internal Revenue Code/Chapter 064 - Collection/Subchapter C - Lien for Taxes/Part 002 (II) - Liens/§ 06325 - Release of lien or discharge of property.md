@@ -48,7 +48,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary shall 
 
 &emsp;&emsp;&emsp;(i) the unsatisfied liability giving rise to the lien can be satisfied from a source other than such property; or
 
-&emsp;&emsp;&emsp;(ii) the value of the interest of the United States in the property is less than the Secretary's prior determination of such value.
+&emsp;&emsp;&emsp;(ii) the value of the interest of the United States in the property is less thanthe Secretary's prior determination of such value.
 
 #### (C) Use of deposit, etc., if action to contest lien not filed
 
@@ -142,7 +142,7 @@ Subsec. (h). Pub. L. 89–719 redesignated as subsec. (h) provisions formerly co
 
 Subsec. (c). Pub. L. 85–866, §77(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d). Pub. L. 85–866. §77(2), (3), redesignated former subsec. (c) as (d) and in heading and text struckout “partial” before “discharge”. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 85–866. §77(2), (3), redesignated former subsec. (c) as (d) and in heading and text struck out “partial” before “discharge”. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 85–866, §77(2), redesignated former subsec. (d) as (e).
 

@@ -116,7 +116,7 @@ Authority.—Subject to subsection (b), the Secretary of Defense may enter into 
 
 “(b)
 
-Limitations.—The Secretary of Defense may enter into a cooperative agreement with respect to anenvironmental technology under subsection (a) only if the Secretary determines—
+Limitations.—The Secretary of Defense may enter into a cooperative agreement with respect to an environmental technology under subsection (a) only if the Secretary determines—
 
 &emsp;“(1) that the technology has clear potential to be of significant value to the Department of Defense; and
 

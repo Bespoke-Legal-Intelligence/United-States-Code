@@ -28,7 +28,7 @@ Designation of Metropolitan Planning Organizations.—
 
 In general.—To carry out the transportation planning process required by this section, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000 individuals—
 
-&emsp;&emsp;(A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the central city or cities as defined by the Bureau of the Census); or
+&emsp;&emsp;(A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (includingthe central city or cities as defined by the Bureau of the Census); or
 
 &emsp;&emsp;(B) in accordance with procedures established by applicable State or local law.
 
@@ -52,7 +52,7 @@ Limitation on statutory construction.—Nothing in this subsection shall be cons
 
 &emsp;(4)
 
-Continuing designation.—A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitanplanning organization is redesignated under paragraph (5).
+Continuing designation.—A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitan planning organization is redesignated under paragraph (5).
 
 &emsp;(5)
 
@@ -148,7 +148,7 @@ Involvement of federal land management agencies.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Representation.—The policy board of a metropolitan planning organization designated under clause (i) shall includea representative of each Federal land management agency that has jurisdiction over land in the Lake Tahoe region.
+Representation.—The policy board of a metropolitan planning organization designated under clause (i) shall include a representative of each Federal land management agency that has jurisdiction over land in the Lake Tahoe region.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -226,7 +226,7 @@ Long-range transportation plan.—A long-range transportation plan under this se
 
 &emsp;&emsp;(C) Assess capital investment and other measures necessary to—
 
-&emsp;&emsp;&emsp;(i) ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, andrehabilitation of existing and future major roadways, as well as operations, maintenance, modernization, and rehabilitation of existing and future transit facilities; and
+&emsp;&emsp;&emsp;(i) ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, and rehabilitation of existing and future major roadways, as well as operations, maintenance, modernization, and rehabilitation of existing and future transit facilities; and
 
 &emsp;&emsp;&emsp;(ii) make the most efficient use of existing transportation facilities to relieve vehicular congestion and maximize the mobility of people and goods.
 
@@ -322,7 +322,7 @@ Requirement of anticipated full funding.—The program shall include a project, 
 
 &emsp;(4)
 
-Notice and comment.—Before approving a transportation improvement program, ametropolitan planning organization shall, in cooperation with the State and any affected public transit operator, provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with reasonable notice of and an opportunity to comment on the proposed program.
+Notice and comment.—Before approving a transportation improvement program, a metropolitan planning organization shall, in cooperation with the State and any affected public transit operator, provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with reasonable notice of and an opportunity to comment on the proposed program.
 
 &emsp;(5)
 
@@ -398,7 +398,7 @@ Selection of projects.—
 
 &emsp;&emsp;(A)
 
-In general.—All federally funded projects carried out within the boundaries of a transportation management area under this title (excluding projects carried out on the National Highway System and projects carried out under the bridge program or the Interstate maintenance program) or under chapter 53 of title 49 shall be selected for implementation from the approved transportation improvement program by the metropolitan planning organization designated for the area in consultation with the State and any affected public transit operator.
+In general.—All federally funded projects carried out within the boundaries of a transportation management area under this title (excluding projects carried out on the National Highway System and projectscarried out under the bridge program or the Interstate maintenance program) or under chapter 53 of title 49 shall be selected for implementation from the approved transportation improvement program by the metropolitan planning organization designated for the area in consultation with the State and any affected public transit operator.
 
 &emsp;&emsp;(B)
 
@@ -490,7 +490,7 @@ Unused funds.—Any funds that are not used to carry out this section may be mad
 
 (<i>o</i>)
 
-Continuation of Current Review Practice.—Since plans and programs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the plans and programs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and programs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+Continuation of Current Review Practice.—Since plans and programs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the plans and programs aresubject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and programs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 (Added Pub. L. 87–866, §9(a), Oct. 23, 1962, 76 Stat. 1148; amended Pub. L. 91–605, title I, §143, Dec. 31, 1970, 84 Stat. 1737; Pub. L. 95–599, title I, §169, Nov. 6, 1978, 92 Stat. 2723; Pub. L. 102–240, title I, §1024(a), Dec. 18, 1991, 105 Stat. 1955; Pub. L. 102–388, title V, §502(b), Oct. 6, 1992, 106 Stat. 1566; Pub. L. 103–429, §3(5), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §317, Nov. 28, 1995, 109 Stat. 588; Pub. L. 105–178, title I, §1203(a)–(m), (<i>o</i>), June 9, 1998, 112 Stat. 170–179; Pub. L. 105–206, title IX, §9003(c), July 22, 1998, 112 Stat. 839.)
 
@@ -552,7 +552,7 @@ Subsec. (g)(2). Pub. L. 105–178, §1203(g)(1), (7), (8), substituted “Long-r
 
 Subsec. (g)(2)(A). Pub. L. 105–178, §1203(g)(2), (8), substituted “An identification of” for “Identify” and “long-range transportation plan” for “long range plan”.
 
-Subsec. (g)(2)(B). Pub. L. 105–178, §1203(g)(3), added subpar. (B) and struck out former subpar. (B) whichread as follows: “Include a financial plan that demonstrates how the long-range plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any innovative financing techniques to finance needed projects and programs, including such techniques as value capture, tolls and congestion pricing.”
+Subsec. (g)(2)(B). Pub. L. 105–178, §1203(g)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “Include a financial plan that demonstrates how the long-range plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any innovative financing techniques to finance needed projects and programs, including such techniques as value capture, tolls and congestion pricing.”
 
 Subsec. (g)(3). Pub. L. 105–178, §1203(g)(8), substituted “long-range transportation plan” for “long range plan”.
 
@@ -592,7 +592,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 5
 
 1992—Subsec. (k). Pub. L. 102–388 inserted at end “The provisions of title 23, United States Code, regarding the non-Federal share shall apply to title 23 funds used for transit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects.”
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Transportation planning in certain urban areas” and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportationregions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
+1991—Pub. L. 102–240 substituted section catchline for one which read: “Transportation planning in certain urban areas” and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportation regions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
 
 1978—Subsec. (a). Pub. L. 95–599, §169(a), inserted provisions related to cooperation with local officials and specific considerations in the planning process.
 

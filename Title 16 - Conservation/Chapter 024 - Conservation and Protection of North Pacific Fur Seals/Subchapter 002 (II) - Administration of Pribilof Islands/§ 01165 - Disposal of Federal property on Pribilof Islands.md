@@ -36,7 +36,7 @@ A Memorandum of Understanding shall be entered into by the Secretary, a represen
 
 &emsp;(2) funding to be allocated by the State of Alaska for the construction of boat harbors on St. Paul and St. George Islands;
 
-&emsp;(3) assumption of the State of Alaska of traditional State responsibilities for facilities and services on such islands in accordance with applicable laws and regulations;
+&emsp;(3) assumption of the State of Alaska of traditional State responsibilities for facilitiesand services on such islands in accordance with applicable laws and regulations;
 
 &emsp;(4) preservation of wildlife resources within the Secretary's jurisdiction;
 
@@ -52,7 +52,7 @@ A Memorandum of Understanding shall be entered into by the Secretary, a represen
 
 #### (e) Taxation
 
-The grant, sale, transfer or conveyance of any real or personal property pursuant to this section shall not be subject to any form of Federal,State or local taxation. The basis for computing gain or loss on subsequent sale or disposition of such real or personal property for purposes of any Federal, State or local tax imposed on, or measured by revenue shall be the fair market value of such real or personal property at the time of receipt.
+The grant, sale, transfer or conveyance of any real or personal property pursuant to this section shall not be subject to any form of Federal, State or local taxation. The basis for computing gain or loss on subsequent sale or disposition of such real or personal property for purposes of any Federal, State or local tax imposed on, or measured by revenue shall be the fair market value of such real or personal property at the time of receipt.
 
 #### (f) Agreements with governmental agencies and third parties
 
@@ -96,7 +96,7 @@ In General.—The Secretary of Commerce shall, subject to the availability of ap
 
 Obligations of Secretary.—In carrying out cleanup activities under subsection (a), the Secretary of Commerce shall—
 
-&emsp;“(1) to the maximum extent practicable, execute agreements with the State of Alaska, and affected local governments, entities, and residents eligible to receive conveyance of lands under the Fur Seal Act of 1966 (16 U.S.C. 1161 et seq.) \[16 U.S.C. 1151 et seq.\] or other applicable law;
+&emsp;“(1) to the maximum extent practicable, execute agreements with the State of Alaska, and affectedlocal governments, entities, and residents eligible to receive conveyance of lands under the Fur Seal Act of 1966 (16 U.S.C. 1161 et seq.) \[16 U.S.C. 1151 et seq.\] or other applicable law;
 
 &emsp;“(2) manage such activities with the minimum possible overhead, delay, and duplication of State and local planning and design work;
 

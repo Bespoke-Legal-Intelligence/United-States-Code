@@ -40,15 +40,69 @@ The Administration shall not engage in the manufacture or sale of any equipment 
 
 The Administrator is authorized to assist the Nation's fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.
 
-#### (e) Coordination
+#### (e) Assistance to other Federal agencies
+
+At the request of other Federal agencies, including the Department of Agriculture and the Department of the Interior, the Administrator may provide assistance in fire prevention and control technologies, including methods of containing insect-infested forest fires and limiting dispersal of resultant fire particle smoke, and methods of measuring and tracking the dispersal of fine particle smoke resulting from fires of insect-infested fuel.
+
+#### (f) Technology evaluation and standards development
+
+#### (1) In general
+
+&emsp;In addition to, or as part of, the program conducted under subsection (a) of this section, the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
+
+&emsp;&emsp;(A) develop new, and utilize existing, measurement techniques and testing methodologies for evaluating new firefighting technologies, including—
+
+&emsp;&emsp;&emsp;(i) personal protection equipment;
+
+&emsp;&emsp;&emsp;(ii) devices for advance warning of extreme hazard;
+
+&emsp;&emsp;&emsp;(iii) equipment for enhanced vision;
+
+&emsp;&emsp;&emsp;(iv) devices to locate victims, firefighters, and other rescue personnel in above-ground and below-ground structures;
+
+&emsp;&emsp;&emsp;(v) equipment and methods to provide information for incident command, including the monitoring and reporting of individual personnel welfare;
+
+&emsp;&emsp;&emsp;(vi) equipment and methods for training, especially for virtual reality training; and
+
+&emsp;&emsp;&emsp;(vii) robotics and other remote-controlled devices;
+
+&emsp;&emsp;(B) evaluate the compatibility of new equipment and technology with existing firefighting technology; and
+
+&emsp;&emsp;(C) support the development of new voluntary consensus standards through national voluntary consensus standards organizations for new firefighting technologies based on techniques and methodologies described in subparagraph (A).
+
+#### (2) Standards for new equipment
+
+&emsp;(A) The Administrator shall, by regulation, require that new equipment or systems purchased through the assistance program established by section 2229 of this title meet or exceed applicable voluntary consensus standards for such equipment or systems for which applicable voluntary consensus standards have been established. The Administrator may waive the requirement under this subparagraph with respect to specific standards.
+
+&emsp;(B) If an applicant for a grant under section 2229 of this title proposes to purchase, with assistance provided under the grant, new equipment or systems that do not meet or exceed applicable voluntary consensus standards, the applicant shall include in the application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that do meet or exceed such standards.
+
+&emsp;(C) In making a determination whether or not to waive the requirement under subparagraph (A) with respect to a specific standard, the Administrator shall, to the greatest extent practicable—
+
+&emsp;&emsp;(i) consult with grant applicants and other members of the fire services regarding the impact on fire departments of the requirement to meet or exceed the specific standard;
+
+&emsp;&emsp;(ii) take into consideration the explanation provided by the applicant under subparagraph (B); and
+
+&emsp;&emsp;(iii) seek to minimize the impact of the requirement to meet or exceed the specific standard on the applicant, particularly if meeting the standard would impose additional costs.
+
+&emsp;(D) Applicants that apply for a grant under the terms of subparagraph (B) may include a second grant request in the application to be considered by the Administrator in the event that the Administrator does not approve the primary grant request on the grounds of the equipment not meeting applicable voluntary consensus standards.
+
+#### (g) Coordination
 
 In establishing and conducting programs under this section, the Administrator shall take full advantage of applicable technological developments made by other departments and agencies of the Federal Government, by State and local governments, and by business, industry, and nonprofit associations.
 
-(Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540.)
+(Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540; Pub. L. 108–169, title II, §202, Dec. 6, 2003, 117 Stat. 2037.)
+
+#### Amendments
+
+2003—Subsecs. (e) to (g). Pub. L. 108–169 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2216 of this title.
 

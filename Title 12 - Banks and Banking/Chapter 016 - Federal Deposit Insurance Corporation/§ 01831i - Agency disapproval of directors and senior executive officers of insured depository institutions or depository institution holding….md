@@ -4,7 +4,7 @@
 
 An insured depository institution or depository institution holding company shall notify the appropriate Federal banking agency of the proposed addition of any individual to the board of directors or the employment of any individual as a senior executive officer of such institution or holding company at least 30 days (or such other period, as determined by the appropriate Federal banking agency) before such addition or employment becomes effective, if—
 
-&emsp;(1) the insured depository institution or depository institution holding company is not in compliance with the minimum capital requirement applicable to such institution or isotherwise in a troubled condition, as determined by such agency on the basis of such institution's or holding company's most recent report of condition or report of examination or inspection; or
+&emsp;(1) the insured depository institution or depository institution holding company is not in compliance with the minimum capital requirement applicable to such institution or is otherwise in a troubled condition, as determined by such agency on the basis of such institution's or holding company's most recent report of condition or report of examination or inspection; or
 
 &emsp;(2) the agency determines, in connection with the review by the agency of the plan required under section 1831<i>o</i> of this title or otherwise, that such prior notice is appropriate.
 
@@ -38,7 +38,7 @@ The appropriate Federal banking agency shall issue a notice of disapproval with 
 
 Each appropriate Federal banking agency shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a) of this section.
 
-(Sept. 21, 1950, ch. 967, §2\[32\], as added Pub. L. 101–73, title IX, §914(a), Aug. 9, 1989, 103 Stat. 484; amended Pub. L. 104–208, div. A, title II, §2209, Sept. 30, 1996, 110 Stat. 3009–409.)
+(Sept. 21, 1950, ch. 967, §2\[32\], as added Pub. L. 101–73, title IX, §914(a), Aug. 9, 1989, 103 Stat. 484;amended Pub. L. 104–208, div. A, title II, §2209, Sept. 30, 1996, 110 Stat. 3009–409.)
 
 #### Amendments
 

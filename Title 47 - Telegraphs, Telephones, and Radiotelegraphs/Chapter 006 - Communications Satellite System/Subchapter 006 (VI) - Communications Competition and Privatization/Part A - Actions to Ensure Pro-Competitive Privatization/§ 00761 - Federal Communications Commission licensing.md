@@ -24,7 +24,7 @@
 
 #### (B) Consequences of determination
 
-&emsp;&emsp;If the Commission determines that such competition will be harmed or that grant ofsuch application or request for authority is not otherwise in the public interest, the Commission shall limit through conditions or deny such application or request, and limit or revoke previous authorizations to provide non-core services to, from, or within the United States. After due notice and opportunity for comment, the Commission shall apply the same limitations, restrictions, and conditions to all entities subject to United States jurisdiction using space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities.
+&emsp;&emsp;If the Commission determines that such competition will be harmed or that grant of such application or request for authority is not otherwise in the public interest, the Commission shall limit through conditions or deny such application or request, and limit or revoke previous authorizations to provide non-core services to, from, or within the United States. After due notice and opportunity for comment, the Commission shall apply the same limitations, restrictions, and conditions to all entities subject to United States jurisdiction using space segment owned, leased, or operated by INTELSAT, Inmarsat, or their successor entities.
 
 #### (C) National security, law enforcement, and public safety
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Exemption From Disclosure.—The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation may, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—
+Exemption From Disclosure.—The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security may, notwithstanding section 552 of title 5, authorize to be withheld from disclosure to the public personally identifying information regarding—
 
 &emsp;(1) any member of the armed forces assigned to an overseas unit, a sensitive unit, or a routinely deployable unit; and
 
@@ -36,9 +36,17 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(iii) communications stations; and
 
-&emsp;&emsp;(C) any other unit that is designated as a sensitive unit by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Transportation.
+&emsp;&emsp;(C) any other unit that is designated as a sensitive unit by the Secretary of Defense or, in the case of the Coast Guard when it is not operating as a service in the Navy, by the Secretary of Homeland Security.
 
 &emsp;(5) The term “routinely deployable unit” means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
 
-(Added Pub. L. 106–65, div. A, title X, §1044(a), Oct. 5, 1999, 113 Stat. 761.)
+(Added Pub. L. 106–65, div. A, title X, §1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### Amendments
+
+2002—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

@@ -38,7 +38,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (d)
 
-School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at eachmilitary installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
+School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
 
 (2) The school board shall be composed of the number of members, not fewer than three, prescribed by the Secretary.
 
@@ -104,7 +104,7 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 &emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
-&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (includingdue process procedures) available to infants and toddlers with disabilities under part H <sup>1</sup> of such Act (20 U.S.C. 1471 et seq.).
+&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants and toddlers with disabilities under part H <sup>1</sup> of such Act (20 U.S.C. 1471 et seq.).
 
 &emsp;(C) In the case of all other children with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities who are 3 to 5 years old under part B of such Act.
 
@@ -186,7 +186,11 @@ Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989
 
 #### Savings Provision
 
-Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affectingthe rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

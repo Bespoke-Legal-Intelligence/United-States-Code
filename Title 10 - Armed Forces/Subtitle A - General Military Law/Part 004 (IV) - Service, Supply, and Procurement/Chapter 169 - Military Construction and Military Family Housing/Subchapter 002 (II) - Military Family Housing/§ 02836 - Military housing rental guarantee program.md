@@ -2,13 +2,13 @@
 
 (a)
 
-Authority.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement to assure the occupancy of rental housing to be constructed or rehabilitated to residential use by a private developer or by a State or local housing authority on private land, on land owned by a State or local government, or on land owned by the United States, if the housing is to be located on or near a new military installation or an existing military installation that has a shortage of housing to meet the requirements of eligible members of the armed forces (with or without accompanying dependents). The authority provided under this subsection shall be exercised under uniform regulations prescribed by the Secretary of Defense.
+Authority.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement to assure the occupancy of rental housing to be constructed or rehabilitated to residential use by a private developer or by a State or local housing authority on private land, on land owned by a State or local government, or on land owned by the United States, if the housing is to be located on or near a new military installation or an existing military installation that has a shortage of housing to meet the requirements of eligible members of the armed forces (with or without accompanying dependents).The authority provided under this subsection shall be exercised under uniform regulations prescribed by the Secretary of Defense.
 
 (b)
 
-Submission and Authorization of Proposed Agreements.—(1) The Secretary of a military department, or the Secretary of Transportation with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
+Submission and Authorization of Proposed Agreements.—(1) The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
 
-(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.
+(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing rental guaranty projects for which agreements are proposed to be entered into under subsection (a) in that fiscal year.
 
 (c)
 
@@ -24,7 +24,7 @@ Content of Agreement.—An agreement under subsection (a)—
 
 &emsp;&emsp;(A) in the case of a Department of Defense agreement, to Department of Defense specifications or, at the discretion of the Secretary of the military department concerned, in compliance with the local building codes; and
 
-&emsp;&emsp;(B) in the case of an agreement for the Coast Guard, to Department of Transportation specifications;
+&emsp;&emsp;(B) in the case of an agreement for the Coast Guard, to Department of Homeland Security specifications;
 
 &emsp;(5) may not be for a term in excess of 25 years;
 
@@ -38,7 +38,7 @@ Content of Agreement.—An agreement under subsection (a)—
 
 &emsp;(10) shall provide for priority of occupancy for military families;
 
-&emsp;(11) shall include a provision authorizing the Secretary of the military department concerned, or the Secretary of Transportation with respect to the Coast Guard, to take such action as the Secretary considers appropriate to protect the interests of the United States, including rendering the agreement null and void if, in the opinion of the Secretary, the owner of the housing fails to maintain a satisfactory level of operation and maintenance;
+&emsp;(11) shall include a provision authorizing the Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard, to take such action as the Secretary considers appropriate to protect the interests of the United States, including rendering the agreement null and void if, in the opinion of the Secretary, the owner of the housing fails to maintain a satisfactory level of operation and maintenance;
 
 &emsp;(12) may provide in the agreement for the rental of a child care center, civic center building, and similar type buildings constructed for the support of family housing;
 
@@ -58,21 +58,21 @@ Conditions on Obligation of Funds.—An agreement entered into for a project pur
 
 (e)
 
-Competitive Process.—An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Transportation, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
+Competitive Process.—An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 
 (f)
 
 Notice and Wait Requirements.—An agreement may not be entered into under subsection (a) until—
 
-&emsp;(1) the Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed agreement is cost effective when compared with alternative means of furnishing the same housing facilities; and
+&emsp;(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed agreement is cost effective when compared with alternative means of furnishing the same housing facilities; and
 
-&emsp;(2) a period of 21 calendar days has expired following the date on which the economic analysis is received by those committees.
+&emsp;(2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysisis provided in an electronic medium pursuant to section 480 of this title.
 
 (g)
 
 Disputes.—The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.).
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2809(a)(1), Dec. 5, 1991, 105 Stat. 1541; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §1031(a)(43), Nov. 24, 2003, 117 Stat. 1602.)
 
 #### References in Text
 
@@ -81,6 +81,16 @@ The Contract Disputes Act of 1978, referred to in subsec. (g), is Pub. L. 95–5
 #### Prior Provisions
 
 Similar provisions were contained in Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended, which was set out as a note under section 2821 of this title, prior to repeal by Pub. L. 102–190, §2809(b).
+
+#### Amendments
+
+2003—Subsec. (f)(2). Pub. L. 108–136 substituted “21 days” for “21 calendar days” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the economic analysis is provided in an electronic medium pursuant to section 480 of this title”.
+
+2002—Subsecs. (a), (b), (c)(4)(B), (11), (e), (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

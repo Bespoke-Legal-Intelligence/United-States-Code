@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (4) Treatment as method of accounting
 
-&emsp;Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable income under an election made under this section shall be treated as a method of accounting.
+&emsp;Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable incomeunder an election made under this section shall be treated as a method of accounting.
 
 #### (d) 5-year spread of transitional adjustments for magazines
 
@@ -122,7 +122,7 @@ In applying section 481(c) with respect to any election under this section which
 
 &emsp;&emsp;In the case of any increase under paragraph (3)(B) in the account for the taxable year, an amount equal to such increase shall be included in gross income for such taxable year.
 
-> &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account undersubsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to such preceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
+> &emsp;If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to such preceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year.
 
 #### (5) Subchapter C transactions
 

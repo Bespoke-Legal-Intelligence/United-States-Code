@@ -10,7 +10,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 #### (b) Terms and conditions
 
-(1) The scholarship assistance provided under subsection (a) of this section shall be provided under the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title.
+(1) The scholarship assistance provided under subsection (a) of this section shall be providedunder the same terms and subject to the same conditions, regulations, and rules that apply to scholarship assistance provided under section 254<i>l</i> of this title.
 
 (2) The Native Hawaiian Health Scholarship program shall not be administered by or through the Indian Health Service.
 

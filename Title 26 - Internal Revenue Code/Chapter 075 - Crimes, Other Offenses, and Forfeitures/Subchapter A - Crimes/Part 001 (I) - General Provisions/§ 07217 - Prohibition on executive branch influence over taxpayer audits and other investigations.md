@@ -20,7 +20,7 @@ Subsection (a) shall not apply to any written request made—
 
 #### (d) Penalty
 
-Any person who willfully violates subsection (a) or fails to report under subsection (b) shall be punished upon conviction by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
+Any person who willfully violates subsection (a) or fails to report under subsection (b) shallbe punished upon conviction by a fine in any amount not exceeding $5,000, or imprisonment of not more than 5 years, or both, together with the costs of prosecution.
 
 #### (e) Applicable person
 

@@ -2,7 +2,7 @@
 
 With respect to those lands that are included by this subchapter and sections 431a, 451a, 482m, 673b, and 673c of this title within the Grand Teton National Park—
 
-&emsp;(a) the Secretary of the Interior shall designate and open rights-of-way, including stock driveways, over and across Federal lands within the exterior boundary of the park for the movement of persons and property to or from State and private lands within the exterior boundary of the park and to or from national forest, State, and private lands adjacent to the park. The location and use of such rights-of-way shall be subject to such regulations as may be prescribed by the Secretary of the Interior;
+&emsp;(a) the Secretary of the Interior shall designate and open rights-of-way, including stockdriveways, over and across Federal lands within the exterior boundary of the park for the movement of persons and property to or from State and private lands within the exterior boundary of the park and to or from national forest, State, and private lands adjacent to the park. The location and use of such rights-of-way shall be subject to such regulations as may be prescribed by the Secretary of the Interior;
 
 &emsp;(b) all leases, permits, and licenses issued or authorized by any department, establishment, or agency of the United States with respect to the Federal lands within the exterior boundary of the park which are in effect on September 14, 1950, shall continue in effect, subject to compliance with the terms and conditions therein set forth, until terminated in accordance with the provisions thereof;
 
@@ -72,7 +72,7 @@ Report.—Not later than 3 years from the date funding is available for the purp
 
 “(a)
 
-In General.—Subject to subsection (b), the Secretary of the Interior shall reinstate and extend for the duration of the study described in section 2(a) and until such time as the recommendations of the study are implemented, the grazing privileges described in section 2(a)(1), under the same terms and conditions as were in effect prior to the expiration of the privileges.
+In General.—Subject to subsection (b), the Secretary of the Interior shall reinstate and extend for the duration of the study described in section 2(a) and until such time as the recommendations of the study are implemented, the grazing privileges described in section2(a)(1), under the same terms and conditions as were in effect prior to the expiration of the privileges.
 
 “(b)
 

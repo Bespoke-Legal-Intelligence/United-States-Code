@@ -10,7 +10,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 #### (c) Dissemination of information
 
-In carrying out the program established under subsection (a) of this section, the Director of the Institute shall carry out activities to facilitate and enhance knowledge and understanding of nutritional disorders, including obesity, on the part of health professionals, patients, and the public through the effective dissemination of information.
+In carrying out the program established under subsection (a) of this section, the Director of the Institute shall carry out activities to facilitate and enhance knowledge and understanding of nutritional disorders, including obesity, on the part of health professionals, patients, and thepublic through the effective dissemination of information.
 
 (July 1, 1944, ch. 373, title IV, §434, as added Pub. L. 103–43, title VI, §601\[(a)\], June 10, 1993, 107 Stat. 161.)
 

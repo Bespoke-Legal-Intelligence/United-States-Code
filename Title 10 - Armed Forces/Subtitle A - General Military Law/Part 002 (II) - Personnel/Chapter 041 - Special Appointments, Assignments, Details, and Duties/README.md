@@ -6,8 +6,7 @@
 | [711a.](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md) | American National Red Cross: detail of commissioned officers. |
 | [712\.](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md) | Foreign governments: detail to assist. |
 | [713\.](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md) | State Department: assignment or detail as couriers and building inspectors. |
-| [714\.](%C2%A7%2000714%20-%20Defense%20attache%EF%BF%BDAE1%20in%20France%20required%20grade.md) | Defense attache�AE1 in France: required grade. |
-| \[715. | Repealed.\] |
+| \[714, 715. | Repealed.\] |
 | [716\.](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md) | Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service. |
 | [717\.](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md) | Members of the armed forces: participation in international sports. |
 | \[718. | Repealed.\] |
@@ -18,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §503(b), Nov. 24, 2003, 117 Stat. 1456, struck out item 714 “Defense attache�AE1 in France: required grade”.
 
 1997—Pub. L. 105–85, div. A, title V, §§501(b), 597(b), Nov. 18, 1997, 111 Stat. 1724, 1766, added items 714 and 721.
 
@@ -54,7 +55,7 @@ Pub. L. 85–599, §11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating 
 - [&sect; 00711a - American National Red Cross detail of commissioned officers](%C2%A7%2000711a%20-%20American%20National%20Red%20Cross%20detail%20of%20commissioned%20officers.md)
 - [&sect; 00712 - Foreign governments detail to assist](%C2%A7%2000712%20-%20Foreign%20governments%20detail%20to%20assist.md)
 - [&sect; 00713 - State Department assignment or detail as couriers and building inspectors](%C2%A7%2000713%20-%20State%20Department%20assignment%20or%20detail%20as%20couriers%20and%20building%20inspectors.md)
-- [&sect; 00714 - Defense attache&#65533;AE1 in France required grade](%C2%A7%2000714%20-%20Defense%20attache%EF%BF%BDAE1%20in%20France%20required%20grade.md)
+- [&sect; 00714 - Repealed. Pub. L. 108&#8211;136, div. A, title V, &sect;503(a), Nov. 24, 2003, 117 Stat. 1456](%C2%A7%2000714%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7503%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201456.md)
 - [&sect; 00715 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1662(g)(2), Oct. 5, 1994, 108 Stat. 2996](%C2%A7%2000715%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71662%28g%29%282%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202996.md)
 - [&sect; 00716 - Commissioned officers transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service](%C2%A7%2000716%20-%20Commissioned%20officers%20transfers%20among%20the%20armed%20forces%2C%20the%20National%20Oceanic%20and%20Atmospheric%20Administration%2C%20and%20the%20Public%20Health%20Service.md)
 - [&sect; 00717 - Members of the armed forces participation in international sports](%C2%A7%2000717%20-%20Members%20of%20the%20armed%20forces%20participation%20in%20international%20sports.md)

@@ -30,7 +30,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (n) The term “international arrangement” means any international agreement hereafter approved by the Congress or any treaty during the time such agreement or treaty is in full force and effect, but does not include any agreement for cooperation.
 
-(<i>o</i>) The term “Energy Committees” means the Committee on Energy and Natural Resources ofthe Senate and the Committee on Energy and Commerce of the House of Representatives.
+(<i>o</i>) The term “Energy Committees” means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 (p) The term “licensed activity” means an activity licensed pursuant to this chapter and covered by the provisions of section 2210(a) of this title.
 
@@ -40,7 +40,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (s) The term “person” means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, Government agency other than the Commission, any State or any political subdivision of, or any political entity within a State, any foreign government or nation or any political subdivision of any such government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 
-(t) The term “person indemnified” means (1) with respect to a nuclear incident occurring within the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, the person with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
+(t) The term “person indemnified” means (1) with respect to a nuclear incident occurring within the United States or outside the United States as the term is used in section 2210(c) of this title, and with respect to any nuclear incident in connection with the design, development, construction, operation, repair, maintenance, or use of the nuclear ship Savannah, theperson with whom an indemnity agreement is executed or who is required to maintain financial protection, and any other person who may be liable for public liability or (2) with respect to any other nuclear incident occurring outside the United States, the person with whom an indemnity agreement is executed and any other person who may be liable for public liability by reason of his activities under any contract with the Secretary of Energy or any project to which indemnification under the provisions of section 2210(d) of this title has been extended or under any subcontract, purchase order, or other agreement, of any tier, under any such contract or project.
 
 (u) The term “produce”, when used in relation to special nuclear material, means (1) to manufacture, make, produce, or refine special nuclear material; (2) to separate special nuclear material from other substances in which such material may be contained; or (3) to make or to produce new special nuclear material.
 
@@ -52,7 +52,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (y) The term “Restricted Data” means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.
 
-(z) The term “source material” means (1) uranium, thorium, or any other material which isdetermined by the Commission pursuant to the provisions of section 2091 of this title to be source material; or (2) ores containing one or more of the foregoing materials, in such concentration as the Commission may by regulation determine from time to time.
+(z) The term “source material” means (1) uranium, thorium, or any other material which is determined by the Commission pursuant to the provisions of section 2091 of this title to be source material; or (2) ores containing one or more of the foregoing materials, in such concentration as the Commission may by regulation determine from time to time.
 
 (aa) The term “special nuclear material” means (1) plutonium, uranium enriched in the isotope 233 or in the isotope 235, and any other material which the Commission, pursuant to the provisions of section 2071 of this title, determines to be special nuclear material, but does not include source material; or (2) any material artificially enriched by any of the foregoing, but does not include source material.
 
@@ -178,7 +178,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Section 20 of Pub. L. 100–408 provided that:
 
-“(a) Except as provided in subsection (b), the amendments made by this Act \[enacting section 2282a of this title and amending this section and sections 2210 and 2273 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 20, 1988\] and shall beapplicable with respect to nuclear incidents occurring on or after such date.
+“(a) Except as provided in subsection (b), the amendments made by this Act \[enacting section 2282a of this title and amending this section and sections 2210 and 2273 of this title\] shall become effective on the date of the enactment of this Act \[Aug. 20, 1988\] and shall be applicable with respect to nuclear incidents occurring on or after such date.
 
 “(b)(1) The amendments made by section 11 \[amending this section and section 2210 of this title\] shall apply to nuclear incidents occurring before, on, or after the date of the enactment of this Act.
 
@@ -196,7 +196,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2021, 2021b, 2022, 2077, 2113, 2114, 2139, 2153b, 2201, 2204a, 2273, 2286g, 2291, 2296a–3, 7274j, 7383j, 7384<i>l</i>, 7384q, 7922, 10101 of this title; title 10 section 801; title 18 section 1030; title 22 section 6305; title 50 section 2471.
+This section is referred to in sections 2021, 2021b, 2022, 2077, 2113, 2114, 2139, 2153b, 2201, 2204a, 2273, 2286g, 2291, 2296a–3, 7274j, 7383j, 7384<i>l</i>, 7384q, 7922, 10101 of this title; title 10 section 801; title 18 section 1030; title 22 section 6305; title 50 sections 2471, 2651, 2652, 2671, 2704.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (ii) has been enacted.</i>
 

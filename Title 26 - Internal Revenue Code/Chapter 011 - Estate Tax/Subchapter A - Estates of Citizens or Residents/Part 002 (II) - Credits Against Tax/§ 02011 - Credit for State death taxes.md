@@ -14,7 +14,7 @@ The tax imposed by section 2001 shall be credited with the amount of any estate,
 
 | <b>If the adjusted taxable  estate is:</b> | <b>The maximum tax credit  shall be:</b> |
 | :--- | ---: |
-| Not over $90,000 | 8/10ths of 1% of the amount by which the taxable estate exceeds $40,000. |
+| Not over $90,000 | 8/10ths of 1% of the amount by which the adjusted taxable estate exceeds $40,000. |
 | Over $90,000 but not over $140,000 | $400 plus 1.6% of the excess over $90,000. |
 | Over $140,000 but not over $240,000 | $1,200 plus 2.4% of the excess over $140,000. |
 | Over $240,000 but not over $440,000 | $3,600 plus 3.2% of the excess over $240,000. |
@@ -111,7 +111,7 @@ This section shall not apply to the estates of decedents dying after December 31
 
 #### Amendments
 
-2002—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
+2002—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shallbe the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
 
 2001—Subsec. (b). Pub. L. 107–16, §§531(a), 901, temporarily designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -121,7 +121,7 @@ Subsec. (g). Pub. L. 107–16, §§532(a), 901, temporarily added subsec. (g). S
 
 1976—Subsec. (a). Pub. L. 94–455, §1902(a)(12)(B), struck out “or Territory” after “State”.
 
-Subsec. (b). Pub. L. 94–455, §2001(c)(1)(A)(i), (ii), substituted “adjusted taxable estate” for “taxable estate” and inserted provision that, for purposes of this section “adjusted taxable estate” means the taxable estate reduced by $60,000.
+Subsec. (b). Pub. L. 94–455, §2001(c)(1)(A)(i), (ii), substituted “adjusted taxable estate” for “taxable estate” in two places in table and inserted provision that, for purposes of this section, “adjusted taxable estate” means the taxable estate reduced by $60,000.
 
 Subsec. (c)(2). Pub. L. 94–455, §2004(f)(3), substituted “section 6161, 6166, or 6166A” for “section 6161”.
 

@@ -146,5 +146,5 @@ Revenue loss limited.—The decrease in the amount of Federal revenue by reason 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 220, 453B, 465, 594, 807, 811, 817, 817A, 842, 848, 7702B of this title.
+This section is referred to in sections 220, 223, 453B, 465, 594, 807, 811, 817, 817A, 842, 848, 7702B of this title.
 

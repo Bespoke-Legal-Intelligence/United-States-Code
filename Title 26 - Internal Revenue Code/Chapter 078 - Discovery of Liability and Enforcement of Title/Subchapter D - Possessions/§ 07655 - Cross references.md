@@ -50,7 +50,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
 

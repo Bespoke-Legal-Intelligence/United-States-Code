@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
-&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regional agency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
+&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose localgovernment or governments, or a regional agency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
 
 &emsp;(F) require, as may be prescribed by the Administrator—
 
@@ -40,7 +40,7 @@
 
 &emsp;(H) provide for revision of such plan—
 
-&emsp;&emsp;(i) from time to time as may be necessary to take account of revisions of such nationalprimary or secondary ambient air quality standard or the availability of improved or more expeditious methods of attaining such standard, and
+&emsp;&emsp;(i) from time to time as may be necessary to take account of revisions of such national primary or secondary ambient air quality standard or the availability of improved or more expeditious methods of attaining such standard, and
 
 &emsp;&emsp;(ii) except as provided in paragraph (3)(C), whenever the Administrator finds on the basis of information available to the Administrator that the plan is substantially inadequate to attain the national ambient air quality standard which it implements or to otherwise comply with any additional requirements established under this chapter;
 
@@ -80,7 +80,7 @@
 
 (B) The Administrator shall have the authority to promulgate, implement and enforce regulations under subsection (c) of this section respecting indirect source review programs which apply only to federally assisted highways, airports, and other major federally assisted indirect sources and federally owned or operated indirect sources.
 
-(C) For purposes of this paragraph, the term “indirect source means a facility, building, structure, installation, real property, road, or highway which attracts, or may attract, mobile sources of pollution. Such term includes parking lots, parking garages, and other facilities subject to any measure for management of parking supply (within the meaning of subsection (c)(2)(D)(ii) of this section), including regulationof existing off-street parking but such term does not include new or existing on-street parking. Direct emissions sources or facilities at, within, or associated with, any indirect source shall not be deemed indirect sources for the purpose of this paragraph.
+(C) For purposes of this paragraph, the term “indirect source means a facility, building, structure, installation, real property, road, or highway which attracts, or may attract, mobile sources of pollution. Such term includes parking lots, parking garages, and other facilities subject to any measure for management of parking supply (within the meaning of subsection (c)(2)(D)(ii) of this section), including regulation of existing off-street parking but such term does not include new or existing on-street parking. Direct emissions sources or facilities at, within, or associated with, any indirect source shall not be deemed indirect sources for the purpose of this paragraph.
 
 (D) For purposes of this paragraph the term “indirect source review program” means the facility-by-facility review of indirect sources of air pollution, including such measures as are necessary to assure, or assist in assuring, that a new or modified indirect source will not attract mobile sources of air pollution, the emissions from which would cause or contribute to air pollution concentrations—
 
@@ -176,7 +176,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of this subsection.
 
-(3) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>2</sup> of this title as in effect before August7, 1977, or under section 7413(d) <sup>2</sup> of this title upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
+(3) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>2</sup> of this title as in effect before August 7, 1977, or under section 7413(d) <sup>2</sup> of this title upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
 
 #### (h) Publication of comprehensive document for each State setting forth requirements of applicable implementation plan
 
@@ -324,7 +324,7 @@ Subsec. (p). Pub. L. 101–549, §108(d), added subsec. (p).
 
 1977—Subsec. (a)(2)(A). Pub. L. 95–95, §108(a)(1), substituted “(A) except as may be provided in subparagraph (I)(i) in the case of a plan” for “(A)(i) in the case of a plan”.
 
-Subsec. (a)(2)(B). Pub. L. 95–95, §108(a)(2), substituted “transportation controls, air quality maintenanceplans, and preconstruction review of direct sources of air pollution as provided in subparagraph (D)” for “land use and transportation controls”.
+Subsec. (a)(2)(B). Pub. L. 95–95, §108(a)(2), substituted “transportation controls, air quality maintenance plans, and preconstruction review of direct sources of air pollution as provided in subparagraph (D)” for “land use and transportation controls”.
 
 Subsec. (a)(2)(D). Pub. L. 95–95, §108(a)(3), substituted “it includes a program to provide for the enforcement of emission limitations and regulation of the modification, construction, and operation of any stationary source, including a permit program as required in parts C and D and a permit or equivalent program for any major emitting facility, within such region as necessary to assure (i) that national ambient air quality standards are achieved and maintained, and (ii) a procedure” for “it includes a procedure”.
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any otherofficer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 &emsp;(12) the North American Waterfowl Management Plan, signed in 1986 by the Minister of Environment for Canada and the Secretary of the Interior for the United States and in 1994 by the Secretary of Sedesol for Mexico, provides a framework for maintaining and restoring an adequate habitat base to ensure perpetuation of populations of North American waterfowl and other migratory bird species;
 
-&emsp;(13) a tripartite agreement signed in March 1988, by the Director General for EcologicalConservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service, provides for expanded cooperative efforts in Mexico to conserve wetlands for migratory birds that spend the winter there;
+&emsp;(13) a tripartite agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service, provides for expanded cooperative efforts in Mexico to conserve wetlands for migratory birds that spend the winter there;
 
 &emsp;(14) the long-term conservation of migratory birds and habitat for these species will require the coordinated action of governments, private organizations, landowners, and other citizens; and
 

@@ -2,13 +2,13 @@
 
 #### (a) General rule
 
-No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of specified public transportation services provided by a private entity that is primarily engaged in the business of transporting people and whose operations affect commerce.
+No individual shall be discriminated against on the basis of disability in the full and equal enjoyment of specified public transportationservices provided by a private entity that is primarily engaged in the business of transporting people and whose operations affect commerce.
 
 #### (b) Construction
 
 For purposes of subsection (a) of this section, discrimination includes—
 
-&emsp;(1) the imposition or application by a <sup>1</sup> entity described in subsection (a) of this section of eligibility criteria that screen out or tend to screen out an individual with a disability orany class of individuals with disabilities from fully enjoying the specified public transportation services provided by the entity, unless such criteria can be shown to be necessary for the provision of the services being offered;
+&emsp;(1) the imposition or application by a <sup>1</sup> entity described in subsection (a) of this section of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully enjoying the specified public transportation services provided by the entity, unless such criteria can be shown to be necessary for the provision of the services being offered;
 
 &emsp;(2) the failure of such entity to—
 

@@ -32,7 +32,7 @@
 
 #### (3) Facilities
 
-&emsp;Upon the establishment of the Program, the Secretary of Defense shall identify military installations and other facilities of the Department of Defense and, in consultation with the adjutant generals of the State National Guards, National Guard facilities that may be used, in whole or in part, by the Civilian Community Corps for training or housing Corps members. The Secretary of Defense shall carry out this paragraph in consultation with the liaison office established under paragraph (1).
+&emsp;Upon the establishment of the Program, the Secretary of Defense shall identify militaryinstallations and other facilities of the Department of Defense and, in consultation with the adjutant generals of the State National Guards, National Guard facilities that may be used, in whole or in part, by the Civilian Community Corps for training or housing Corps members. The Secretary of Defense shall carry out this paragraph in consultation with the liaison office established under paragraph (1).
 
 #### (4) Information regarding Corps
 

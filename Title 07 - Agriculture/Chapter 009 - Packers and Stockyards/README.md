@@ -191,7 +191,7 @@ By order of Secretary of Agriculture, Packers and Stockyards Administration abol
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 1636 of this title; title 11 section 525; title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l</i>, 6505; title 28 section 2342.
+This chapter is referred to in section 1636 of this title; title 11 section 525; title 15 sections 45, 1607, 1681s, 1691c, 1692<i>l</i>, 6505, 7706; title 28 section 2342.
 
 
 ---

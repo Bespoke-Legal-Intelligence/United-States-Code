@@ -40,9 +40,9 @@
 
 (d) Copies of instruments granting easements over public lands under this section shall be furnished to the Secretary of the Interior.
 
-(e) Subsection (d) of section 2667 of this title shall apply with respect to proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsection applies to money rentals received pursuant to leases entered into by that Secretary under such section.
+(e) Subsections (c) and (d) of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725.)
 
 Historical and Revision Notes
 
@@ -85,6 +85,8 @@ In subsections (b) and (c), the word “easement” is substituted for the word 
 In subsection (c), the word “terminate” is substituted for the words “annulled and forfeited”. The words “and conditions” are omitted as covered by the word “terms”. The words “two-year period” are substituted for the words “a period of two consecutive years”. The words “of rights granted under authority hereof” are omitted as surplusage.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 substituted “Subsections (c) and (d)” for “Subsection (d)” and “subsections apply to in-kind consideration and” for “subsection applies to” and inserted “in-kind consideration and” before “proceeds”.
 
 2000—Subsec. (e). Pub. L. 106–398 added subsec. (e).
 

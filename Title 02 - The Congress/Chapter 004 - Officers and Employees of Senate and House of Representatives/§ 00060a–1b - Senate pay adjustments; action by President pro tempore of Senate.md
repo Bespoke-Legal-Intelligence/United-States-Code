@@ -16,5 +16,5 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–90 substituted “5303” for “5305”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–90 substituted “5303” for “5305”.
 

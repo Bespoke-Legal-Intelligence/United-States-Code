@@ -38,7 +38,7 @@ Items Eligible for Disposal.—This section applies to the following types of pr
 
 (c)
 
-Regulations.—A loan or gift made under this section shall be subject to regulations prescribed by the Secretary and to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486).
+Regulations.—A loan or gift made under this section shall be subject to regulations prescribed by the Secretary and to regulations under section 121 of title 40.
 
 (d)
 
@@ -52,7 +52,7 @@ Alternative Authorities To Make Gifts or Loans.—If any disposition is authoriz
 
 Authority To Transfer a Portion of a Vessel.—The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreement for the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443; Pub. L. 107–107, div. A, title X, §1043(a)–(c), Dec. 28, 2001, 115 Stat. 1218, 1219.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443; Pub. L. 107–107, div. A, title X, §1043(a)–(c), Dec. 28, 2001, 115 Stat. 1218, 1219; Pub. L. 107–217, §3(b)(34), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 107–314, div. A, title X, §1062(e)(2), Dec. 2, 2002, 116 Stat. 2651.)
 
 Historical and Revision Notes
 
@@ -86,6 +86,8 @@ Subsection (d) is added to note the existence of a later act, codified in §2572
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–217, as amended by Pub. L. 107–314, substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
+
 2001—Subsec. (a). Pub. L. 107–107, §1043(a)(1), inserted heading and substituted introductory provisions for provisions which read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—”.
 
 Subsec. (a)(1) to (12). Pub. L. 107–107, §1043(a)(2), capitalized the first letter after the paragraph designation in each of pars. (1) to (12), substituted a period for a semicolon at end of pars. (1) to (10) and a period for “; or” at end of par. (11), substituted “a foreign war” for “World War I or World War II” in par. (5) and “servicemen's monument” for “soldiers’ monument” in par. (6), and inserted “or memorial” after “museum” in par. (8).
@@ -110,11 +112,15 @@ Subsec. (f). Pub. L. 107–107, §1043(b)(3), added subsec. (f).
 
 Subsec. (b). Pub. L. 96–513, §513(40), substituted “section 3301” for “section 366”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title X, §1062(e), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(e)(2) is effective as if included in Pub. L. 107–217 as originally enacted.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7546 of this title.
+This section is referred to in sections 7316, 7546 of this title.
 

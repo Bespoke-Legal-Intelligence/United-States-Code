@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;(4) In recent years, administrative, statutory, or judicial action has been taken to set aside an increased amount of otherwise harvestable timberlands for conservation purposes.
 
-&emsp;(5) In the next few months and years, additional amounts of otherwise harvestabletimberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
+&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
 
 &emsp;(6) There is evidence of a shortfall in the supply of unprocessed timber in the western United States.
 

@@ -66,7 +66,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1601\], Dec. 21, 2000, 114 S
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “This title \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707,7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
+Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
 
 #### Short Title of 1998 Amendments
 
@@ -136,7 +136,7 @@ Pub. L. 89–750, §1, Nov. 3, 1966, 80 Stat. 1191, provided: “That this Act \
 
 Section 1 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, as amended by Pub. L. 107–110, §6(1), Jan. 8, 2002, 115 Stat. 1427, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Elementary and Secondary Education Act of 1965’.”
 
-Pub. L. 89–10, title X, §10971, as added by Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, which provided that subpart 2 (§§10971–10978) of part J of title X of Pub. L. 89–10, enacting subpart 2 of part J of former subchapter X of this chapter, could be cited as the “Rural Education Achievement Program”, was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
+Pub. L. 89–10, title X, §10971, as added by Pub. L. 106–554, §1(a)(1) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–89, which provided that subpart 2\(§§10971–10978) of part J of title X of Pub. L. 89–10, enacting subpart 2 of part J of former subchapter X of this chapter, could be cited as the “Rural Education Achievement Program”, was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
 Pub. L. 89–10, title X, §10999A, as added by Pub. L. 106–554, §1(a)(1) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, which provided that part L (§§10999A–10999L) of title X of Pub. L. 89–10, enacting part L of former subchapter X of this chapter, could be cited as the “Physical Education for Progress Act”, was repealed by Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986.
 
@@ -154,7 +154,7 @@ Pub. L. 107–110, title V, §502, Jan. 8, 2002, 115 Stat. 1873, provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of this Act \[see Tables for classification\] or the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), in the case of any agency or consortium that was awarded a grant under section 5111 of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 7211) or any person or agency that was awarded a contract or grant under part B, D, or E of title X of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 8031 et seq., 8091 et seq., 8131et seq.), prior to the date of enactment of this Act \[Jan. 8, 2002\], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates under such terms.
+In General.—Notwithstanding any other provision of this Act \[see Tables for classification\] or the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), in the case of any agency or consortium that was awarded a grant under section 5111 of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 7211) or any person or agency that was awarded a contract or grant under part B, D, or E of title X of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 8031 et seq., 8091 et seq., 8131 et seq.), prior to the date of enactment of this Act \[Jan. 8, 2002\], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates under such terms.
 
 “(b)
 
@@ -194,7 +194,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Since 1993, this Administration has sought to raise standards for students and to increase accountability in public education while investing more resources in elementary and secondary schools. While much has been accomplished—there has been progress in math and reading achievement, particularly for low-achieving students and students in our highest poverty schools—much more can be done, especially for low-performing schools.
 
-Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of Education (“Secretary”) shall work with State and local educational agencies (“LEAs”) to develop and implement a comprehensive strategy for providing technical assistance and other assistance to States and LEAs to strengthen their capacity to improve the performance of schools identified as low performing. This comprehensive strategy shall include a number of steps, such as:
+Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of Education (“Secretary”) shall work with State and local educational agencies (“LEAs”) to develop and implement a comprehensive strategy forproviding technical assistance and other assistance to States and LEAs to strengthen their capacity to improve the performance of schools identified as low performing. This comprehensive strategy shall include a number of steps, such as:
 
 &emsp;(1) providing States, school districts, and schools receiving funds from the school improvement fund established by Public Law 106–113, as well as other districts and schools identified for school improvement or corrective action under Title I of the ESEA \[20 U.S.C. 6301 et seq.\], with access to the latest research and information on best practices, including research on instruction and educator professional development, and with the opportunity to learn from exemplary schools and exemplary State and local intervention strategies and from each other, in order to improve achievement for all students in the low-performing schools;
 
@@ -204,7 +204,7 @@ Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of 
 
 &emsp;(4) helping States and school districts build partnerships with technical assistance providers, including, but not limited to, federally funded laboratories and centers, foundations, businesses, community-based organizations, institutions of higher education, reform model providers, and other organizations that can help local schools improve;
 
-&emsp;(5) identifying previously low-performing schools that have made significant achievement gains, and States and school districts that have been effective inimproving the achievement of all students in low-performing schools, which can serve as models and resources;
+&emsp;(5) identifying previously low-performing schools that have made significant achievement gains, and States and school districts that have been effective in improving the achievement of all students in low-performing schools, which can serve as models and resources;
 
 &emsp;(6) providing assistance and information on how to effectively involve parents in the school-improvement process, including effectively involving and informing parents at the beginning of the school year about improvement goals for their school as well as the goals for their own children, and reporting on progress made in achieving these goals;
 

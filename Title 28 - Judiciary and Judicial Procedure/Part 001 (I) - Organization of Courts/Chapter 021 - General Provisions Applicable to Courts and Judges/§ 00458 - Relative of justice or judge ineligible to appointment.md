@@ -1,6 +1,6 @@
 ### §458. Relative of justice or judge ineligible to appointment
 
-(a)(1) No person shall be appointed to or employed in any office or duty in any court who is related by affinity or consanguinity within the degree of first cousin to any justice or judge of such court.
+(a)(1) No person shall be appointed to or employed in any office or duty in any court who isrelated by affinity or consanguinity within the degree of first cousin to any justice or judge of such court.
 
 (2) With respect to the appointment of a judge of a court exercising judicial power under article III of the United States Constitution (other than the Supreme Court), subsection (b) shall apply in lieu of this subsection.
 

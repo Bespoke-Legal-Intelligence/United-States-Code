@@ -1,6 +1,6 @@
 ### §5043. Commandant of the Marine Corps
 
-(a)(1) There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of four years from officers on the active-duty list of the Marine Corps not below the grade of colonel. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
+(a)(1) There is a Commandant of the Marine Corps, appointed by the President, by and with the advice and consent of the Senate. The Commandant shall be appointed for a term of four years from the general officers of the Marine Corps. He serves at the pleasure of the President. In time of war or during a national emergency declared by Congress, he may be reappointed for a term of not more than four years.
 
 (2) The President may appoint an officer as Commandant of the Marine Corps only if—
 
@@ -24,7 +24,7 @@
 
 &emsp;(3) after approval of the plans or recommendations of the Headquarters, Marine Corps, by the Secretary, act as the agent of the Secretary in carrying them into effect;
 
-&emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Marine Corps and the Navy as the Secretary determines;
+&emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the membersand organizations of the Marine Corps and the Navy as the Secretary determines;
 
 &emsp;(5) perform the duties prescribed for him by section 171 of this title and other provisions of law; and
 
@@ -36,13 +36,15 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Commandant shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, §505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, §502(c), Feb. 10, 1996, 110 Stat. 293.)
+(Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1052; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–190, div. A, title V, §505(b), Dec. 5, 1991, 105 Stat. 1358; Pub. L. 104–106, div. A, title V, §502(c), Feb. 10, 1996, 110 Stat. 293; Pub. L. 108–136, div. A, title V, §501(b), Nov. 24, 2003, 117 Stat. 1456.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5201 of this title prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–136 substituted “from the general officers of the Marine Corps” for “from officers on the active-duty list of the Marine Corps not below the grade of colonel”.
 
 1996—Subsec. (c). Pub. L. 104–106 struck out subsec. (c) which read as follows: “An officer who is retired while serving as Commandant of the Marine Corps, or who, after serving at least two and one-half years as Commandant, is retired after completion of that service while serving in a lower grade than general, may, in the discretion of the President and by and with the advice and consent of the Senate, be retired with the grade of general.”
 

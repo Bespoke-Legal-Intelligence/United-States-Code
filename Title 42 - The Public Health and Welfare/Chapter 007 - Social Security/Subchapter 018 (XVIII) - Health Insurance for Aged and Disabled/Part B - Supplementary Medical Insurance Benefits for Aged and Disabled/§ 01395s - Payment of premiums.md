@@ -18,7 +18,7 @@ If an individual to whom subsection (a) or (b) of this section applies estimates
 
 #### (d) Deductions from civil service retirement annuities
 
-(1) In the case of an individual receiving an annuity under subchapter III of chapter 83 of title 5 or any other law administered by the Director of the Office of Personnel Management providing retirement or survivorship protection, to whom neither subsection (a) nor subsection (b) of this section applies, his monthly premiums under this part (and the monthly premiums of the spouse of such individual under this part if neither subsection (a) nor subsection (b) of this section applies to such spouse and if such individual agrees) shall, upon notice from the Secretary of Health and Human Services to the Director of the Office of Personnel Management, be collected by deducting the amount thereof from each installment of such annuity. Such deduction shall be made in such manner and at such times as the Director of the Office of Personnel Management may determine. The Director of the Office of Personnel Management shall furnish such information as the Secretary of Health and Human Services may reasonably request in order to carry out his functions under this part with respect to individuals to whom this subsection applies. A plan described in section 8903 or 8903a of title 5 may reimburse each annuitant enrolled in such plan an amount equal to the premiums paid by him under this part if such reimbursement is paid entirely from funds of such plan which are derived from sources other than the contributions described in section 8906 of such title.
+(1) In the case of an individual receiving an annuity under subchapter III of chapter 83 of title 5 or any other law administered by the Director of the Office of Personnel Management providing retirement or survivorship protection, to whom neither subsection (a) nor subsection (b) of this section applies, his monthly premiums under this part (and the monthly premiums of the spouse of such individual under this part if neither subsection (a) nor subsection (b) of this section applies to such spouse and if such individual agrees) shall, upon notice from the Secretary of Health and Human Services to the Director of the Office of Personnel Management, be collected by deducting the amount thereof from each installment of such annuity. Such deduction shall be made in such manner and at such times as the Director of the Office of Personnel Management may determine. The Director of the Office of Personnel Management shall furnish such information as the Secretary of Health and Human Services may reasonably request in order to carry out his functions under this part with respect to individuals to whom this subsection applies. A plan described in section 8903 or 8903a of title 5 may reimburse each annuitant enrolled in such plan an amount equal to the premiums paid by him under this part if such reimbursement is paid entirely from fundsof such plan which are derived from sources other than the contributions described in section 8906 of such title.
 
 (2) The Secretary of the Treasury shall, from time to time, but not less often than quarterly, transfer from the Civil Service Retirement and Disability Fund, or the account (if any) applicable in the case of such other law administered by the Director of the Office of Personnel Management, to the Federal Supplementary Medical Insurance Trust Fund the aggregate amount deducted under paragraph (1) for the period to which such transfer relates. Such transfer shall be made on the basis of a certification by the Director of the Office of Personnel Management and shall be appropriately adjusted to the extent that prior transfers were too great or too small.
 
@@ -42,7 +42,11 @@ In the case of an individual who is enrolled under the program established by th
 
 In the case of an individual enrolled in a Medicare+Choice plan, the Secretary shall provide for necessary adjustments of the monthly beneficiary premium to reflect 80 percent of any reduction elected under section 1395w–24(f)(1)(E) of this title. To the extent to which the Secretary determines that such an adjustment is appropriate, with the concurrence of any agency responsible for the administration of such benefits, such premium adjustment may be provided directly, as an adjustment to any social security, railroad retirement, or civil service retirement benefits, or, in the case of an individual who receives medical assistance under subchapter XIX of this chapter for medicare costs described in section 1396d(p)(3)(A)(ii) of this title, as an adjustment to the amount otherwise owed by the State for such medical assistance.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1840, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 306; amended Pub. L. 89–384, §4(c), Apr. 8, 1966, 80 Stat. 106; Pub. L. 90–248, title I, §166, title IV, §403(g), Jan. 2, 1968, 81 Stat. 874, 932; Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, 86 Stat. 1373, 1448, 1449; Pub. L. 93–445, title III, §306, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), July 18, 1984, 98 Stat. 1101, 1170; Pub. L. 99–53, §2(g), June 17, 1985, 99 Stat. 94; Pub. L. 100–360, title II, §212(b)(1), July 1, 1988, 102 Stat. 740; Pub. L. 100–485, title VI, §608(d)(10)(B), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(2), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(ii)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1840, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 306; amended Pub. L. 89–384, §4(c), Apr. 8, 1966, 80 Stat. 106; Pub. L. 90–248, title I, §166, title IV, §403(g), Jan. 2, 1968, 81 Stat. 874, 932; Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, 86 Stat. 1373, 1448, 1449; Pub. L. 93–445, title III, §306, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), July 18, 1984, 98 Stat. 1101, 1170; Pub. L. 99–53, §2(g), June 17, 1985, 99 Stat. 94; Pub. L. 100–360, title II, §212(b)(1), July 1, 1988, 102 Stat. 740; Pub. L. 100–485, title VI, §608(d)(10)(B), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(2), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(ii)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title II, §222(<i>l</i>)(2)(B), Dec. 8, 2003, 117 Stat. 2206.)
+
+#### Amendment of Subsection (i)
+
+<i>Pub. L. 108–173, title II, §§222(l)(2)(B), 223(a), Dec. 8, 2003, 117 Stat. 2206, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, subsection (i) of this section is amended by inserting in the first sentence “and to reflect any credit provided under section 1395w–24(b)(1)(C)(iv) of this title” after “section 1395w–24(f)(1)(E) of this title”.</i>
 
 #### References in Text
 
@@ -96,9 +100,17 @@ Subsecs. (h), (i). Pub. L. 92–603, §263(c), (d)(3), redesignated subsec. (i) 
 
 1966—Subsec. (i). Pub. L. 89–384 added subsec. (i).
 
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\]of Pub. L. 106–554, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -128,5 +140,5 @@ Section 263(f) of Pub. L. 92–603 provided that: “The amendments made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 415, 428, 1395i–2, 1395r, 1395t, 1395w–24 of this title.
+This section is referred to in sections 415, 428, 1395i–2, 1395r, 1395t, 1395w–24, 1395w–113 of this title.
 

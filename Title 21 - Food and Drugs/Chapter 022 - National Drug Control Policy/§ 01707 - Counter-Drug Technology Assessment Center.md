@@ -14,7 +14,7 @@ There shall be at the head of the Center the Director of Technology, who shall b
 
 &emsp;The Director, acting through the Director of Technology shall—
 
-&emsp;&emsp;(A) identify and define the short-, medium-, and long-term scientific and technologicalneeds of Federal, State, and local drug supply reduction agencies, including—
+&emsp;&emsp;(A) identify and define the short-, medium-, and long-term scientific and technological needs of Federal, State, and local drug supply reduction agencies, including—
 
 &emsp;&emsp;&emsp;(i) advanced surveillance, tracking, and radar imaging;
 

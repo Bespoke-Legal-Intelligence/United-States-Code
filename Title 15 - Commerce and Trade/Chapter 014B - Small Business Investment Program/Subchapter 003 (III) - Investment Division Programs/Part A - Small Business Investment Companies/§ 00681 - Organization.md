@@ -52,7 +52,7 @@ The articles of any small business investment company shall specify in general t
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, approve an application and issue a license under this subsection with respect to any applicant that—
+&emsp;&emsp;Notwithstanding any other provision of this chapter, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and goodcause, approve an application and issue a license under this subsection with respect to any applicant that—
 
 &emsp;&emsp;&emsp;(i) has private capital of not less than $3,000,000;
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 94–305, §106(d), struck out “of incorporation” after
 
 1967—Subsec. (c). Pub. L. 90–104 provided for consideration of availability of financing, the geographic area, the business reputation, ownership factor, and probability of successful operations of company including adequate profitability and financial soundness and eliminated from consideration the number of such companies previously organized in the United States and the volume of their operations.
 
-1961—Subsec. (a). Pub. L. 87–341, §11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration's approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, and that no such company shall be chartered by the Administration under this section after June 30, 1961.
+1961—Subsec. (a). Pub. L. 87–341, §11(a), provided that small business investment companies shall be incorporated, organized and chartered under State law, with a minimum succession period of thirty years unless sooner dissolved by its activities and functions, its area of operation shall be subject to the Administration's approval, and deleted provisions setting the minimum number of incorporators at 10, no company shall be chartered by the Administration unless it determined that none could be chartered under the laws of the State and operate in accordance with this chapter, andthat no such company shall be chartered by the Administration under this section after June 30, 1961.
 
 Subsec. (c). Pub. L. 87–341, §11(b)(1), (2), substituted “such a company's articles of incorporation and permit it to operate under the provisions of this chapter” for “the establishment of such a company and its proposed articles of incorporation”, and provided that if the Administration approves the company to operate under the provisions of this chapter, it may issue the company a license for such operation.
 

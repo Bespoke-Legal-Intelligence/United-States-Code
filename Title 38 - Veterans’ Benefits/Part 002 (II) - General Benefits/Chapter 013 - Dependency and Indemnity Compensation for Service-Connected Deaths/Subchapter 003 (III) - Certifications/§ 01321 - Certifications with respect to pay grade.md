@@ -2,7 +2,7 @@
 
 The Secretary concerned shall, at the request of the Secretary, certify to the Secretary the pay grade of deceased persons with respect to whose deaths applications for benefits are filed under this chapter. The certification of the Secretary concerned shall be binding upon the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1132, §421; Pub. L. 91–96, §4, Oct. 27, 1969, 83 Stat. 145; Pub.L. 94–433, title IV, §405(17), Sept. 30, 1976, 90 Stat. 1380; renumbered §1321 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1132, §421; Pub. L. 91–96, §4, Oct. 27, 1969, 83 Stat. 145; Pub. L. 94–433, title IV, §405(17), Sept. 30, 1976, 90 Stat. 1380; renumbered §1321 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

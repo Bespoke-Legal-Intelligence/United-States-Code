@@ -212,7 +212,7 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, and applicable with respec
 
 #### Effective Date of 1965 Amendment
 
-Section 809(f) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6421 of this title\] shall apply with respect to gasoline used on or after July 1, 1965.The amendments made by subsections (c) and (d) \[renumbering section 39 as 40, enacting section 39 and amending sections 72, 874, 1314, 1481, 6201, 6211, 6213, and 6401 of this title\] shall apply to taxable years beginning on or after July 1, 1965.”
+Section 809(f) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 6421 of this title\] shall apply with respect to gasoline used on or after July 1, 1965. The amendments made by subsections (c) and (d) \[renumbering section 39 as 40, enacting section 39 and amending sections 72, 874, 1314, 1481, 6201, 6211, 6213, and 6401 of this title\] shall apply to taxable years beginning on or after July 1, 1965.”
 
 #### Effective Date of 1958 Amendment
 

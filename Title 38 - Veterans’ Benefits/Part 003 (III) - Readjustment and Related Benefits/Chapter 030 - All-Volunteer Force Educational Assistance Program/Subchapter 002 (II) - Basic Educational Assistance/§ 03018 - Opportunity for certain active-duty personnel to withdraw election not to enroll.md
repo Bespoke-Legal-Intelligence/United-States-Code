@@ -10,7 +10,7 @@
 
 > shall have the opportunity, in accordance with this section and on such form as the Secretary of Defense shall prescribe, to withdraw an election made under section 3011(c)(1) or 3012(d)(1) of this title not to receive educational assistance under this chapter.
 
-(b) An individual described in clauses (1) through (3) of subsection (a) of this section who made an election under section 3011(c)(1) or 3012(d)(1) of this title and who—
+(b) An individual described in clauses (1) through (3) of subsection (a) of this section whomade an election under section 3011(c)(1) or 3012(d)(1) of this title and who—
 
 &emsp;(1) while serving on active duty during the open period, makes a withdrawal of such an election;
 

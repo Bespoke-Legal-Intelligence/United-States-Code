@@ -42,7 +42,7 @@ In this Compact:
 
 #### (5) Criminal history record repository
 
-&emsp;The term “criminal history record repository” means the State agency designated bythe Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.
+&emsp;The term “criminal history record repository” means the State agency designated by the Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.
 
 #### (6) Criminal justice
 
@@ -212,11 +212,11 @@ In carrying out their responsibilities under this Compact, the FBI and each Part
 
 #### (a) State criminal history record repositories
 
-To the extent authorized by section 552a of title 5, United States Code (commonly known asthe “Privacy Act of 1974”), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
+To the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
 
 #### (b) Criminal justice agencies and other governmental or nongovernmental agencies
 
-The FBI, to the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General, that authorizes national indices checks.
+The FBI, to the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), and State criminal history record repositories shall provide criminal history records (excluding sealed records) to criminal justice agencies and other governmental or nongovernmental agencies for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the AttorneyGeneral, that authorizes national indices checks.
 
 #### (c) Procedures
 
@@ -282,7 +282,7 @@ A State criminal history record repository or the FBI—
 
 The Council shall be composed of 15 members, each of whom shall be appointed by the Attorney General, as follows:
 
-&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compactofficers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
+&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
 
 &emsp;(2) Two at-large members, nominated by the Director of the FBI, each of whom shall serve a 3-year term, of whom—
 
@@ -370,7 +370,7 @@ Any renunciation of this Compact by a Party State shall—
 
 ### ARTICLE X—SEVERABILITY
 
-The provisions of this Compact shall be severable, and if any phrase, clause, sentence, or provision of this Compact is declared to be contrary to the constitution of any participating State, or to the Constitution of the United States, or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this Compact and the applicability thereof to any government, agency, person, or circumstance shall not be affected thereby. If a portion of this Compact is held contrary to the constitution of any Party State, all other portions of this Compact shall remain in full force and effect as to the remaining Party States and in full force and effect as to the Party State affected, as to all other provisions.
+The provisions of this Compact shall be severable, and if any phrase, clause, sentence, or provision of this Compact is declared to be contrary to the constitution of any participating State, or to the Constitution of the United States, or the applicability thereof to any government, agency, person, or circumstance is held invalid, the validity of the remainder of this Compact and the applicability thereof to any government, agency, person, or circumstance shall notbe affected thereby. If a portion of this Compact is held contrary to the constitution of any Party State, all other portions of this Compact shall remain in full force and effect as to the remaining Party States and in full force and effect as to the Party State affected, as to all other provisions.
 
 ### ARTICLE XI—ADJUDICATION OF DISPUTES
 

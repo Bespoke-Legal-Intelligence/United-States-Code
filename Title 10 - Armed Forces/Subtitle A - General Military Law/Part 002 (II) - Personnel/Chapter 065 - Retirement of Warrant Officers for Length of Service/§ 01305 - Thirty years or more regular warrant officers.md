@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in paragraph (2), a regular warrant officer (other than a regular Army warrant officer in the grade of chief warrant officer, W–5) who has at least 30 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114) shall be retired 60 days after he completes that service, except as provided by section 8301 of title 5.
 
-(2)(A) A regular Army warrant officer in the grade of chief warrant officer, W–5, who has at least 30 years of active service as a warrant officer that could be credited to him under section511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), shall be retired 60 days after the date on which he completes that service, except as provided by section 8301 of title 5.
+(2)(A) A regular Army warrant officer in the grade of chief warrant officer, W–5, who has atleast 30 years of active service as a warrant officer that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114), shall be retired 60 days after the date on which he completes that service, except as provided by section 8301 of title 5.
 
 (B) A regular Army warrant officer in a warrant officer grade below the grade of chief warrant officer, W–5, who completes 24 years of active service as a warrant officer before he is required to be retired under paragraph (1) shall be retired 60 days after the date on which he completes 24 years of active service as a warrant officer, except as provided by section 8301 of title 5.
 

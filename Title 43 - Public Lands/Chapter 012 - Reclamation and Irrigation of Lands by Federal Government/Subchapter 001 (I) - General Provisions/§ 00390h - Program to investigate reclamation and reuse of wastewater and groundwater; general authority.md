@@ -22,7 +22,7 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 
 The Reclamation Act of 1902 (Act of June 17, 1902, 32 Stat. 388), referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–16 of this title.
+Hereafter, referred to in subsec. (a), means hereafter in title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–17 of this title.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ If a State, Indian tribe, or local educational agency is prohibited by law from 
 
 #### References in Text
 
-Section 2727(b) of title 20, referred to in subsec. (b), was in the original “section 1017(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2727(b))”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6311 et seq. of Title 20, Education.
+Section 2727(b) of title 20, referred to in subsec. (b), was in the original “section 1017(b) of the Elementaryand Secondary Education Act of 1965 (20 U.S.C. 2727(b))”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6311 et seq. of Title 20, Education.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ For each of the fiscal years 1994 through 1996, the Director is authorized to ex
 
 Pub. L. 99–551 substituted “$25,312,000 for each of the fiscal years 1987, 1988, and 1989” for “$25,800,000 for fiscal year 1984, $27,000,000 for fiscal year 1985, and $28,000,000 for fiscal year 1986”.
 
-1984—Pub. L. 98–288 substituted “$25,800,000 for fiscal year 1984, $27,000,000 for fiscal year 1985, and $28,000,000for fiscal year 1986” for “$30,091,000 for fiscal year 1982 and $29,348,000 for fiscal year 1983”.
+1984—Pub. L. 98–288 substituted “$25,800,000 for fiscal year 1984, $27,000,000 for fiscal year 1985, and $28,000,000 for fiscal year 1986” for “$30,091,000 for fiscal year 1982 and $29,348,000 for fiscal year 1983”.
 
 1981—Pub. L. 97–35 substituted provisions authorizing appropriations for fiscal years 1982 and 1983, for provisions authorizing appropriations for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 

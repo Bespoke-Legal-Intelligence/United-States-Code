@@ -18,7 +18,7 @@ The Solar Heating and Cooling Demonstration Act, referred to in text, probably m
 
 The Solar Energy Research, Development, and Demonstration Act, referred to in text, probably means the Solar Energy Research, Development, and Demonstration Act of 1974, Pub. L. 93–473, Oct. 26, 1974, 88 Stat. 1431, as amended, which is classified generally to subchapter II (§5551 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
-The Energy Reorganization Act, referred to in text, probably means the Energy Reorganization Act of 1974, Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Energy Reorganization Act, referred to in text, probably means the Energy Reorganization Act of 1974, Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended,which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Codification
 

@@ -40,7 +40,7 @@ For the purposes of this section—
 
 &emsp;(2) the term “academic facilities” has the meaning provided such term under section 1132e–1(1) <sup>1</sup> of title 20.
 
-(Pub. L. 95–471, title I, §113, formerly §112, Oct. 17, 1978, 92 Stat. 1329; renumbered §113 and amended Pub. L. 98–192, §§4(a)(1), 12, Dec. 1, 1983, 97 Stat. 1336, 1340; Pub. L. 99–428, §6(b), Sept. 30, 1986, 100 Stat. 983; Pub. L. 105–244, title I, §102(a)(8)(C), title IX, §901(b)(5), (7), (12), Oct. 7, 1998, 112 Stat. 1619, 1828.)
+(Pub. L. 95–471, title I, §113, formerly §112, Oct. 17, 1978, 92 Stat. 1329; renumbered §113 andamended Pub. L. 98–192, §§4(a)(1), 12, Dec. 1, 1983, 97 Stat. 1336, 1340; Pub. L. 99–428, §6(b), Sept. 30, 1986, 100 Stat. 983; Pub. L. 105–244, title I, §102(a)(8)(C), title IX, §901(b)(5), (7), (12), Oct. 7, 1998, 112 Stat. 1619, 1828.)
 
 #### References in Text
 

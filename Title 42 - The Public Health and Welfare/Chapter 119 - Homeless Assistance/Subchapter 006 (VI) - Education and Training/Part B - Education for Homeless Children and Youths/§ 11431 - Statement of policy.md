@@ -4,7 +4,7 @@ The following is the policy of the Congress:
 
 &emsp;(1) Each State educational agency shall ensure that each child of a homeless individual and each homeless youth has equal access to the same free, appropriate public education, including a public preschool education, as provided to other children and youths.
 
-&emsp;(2) In any State that has a compulsory residency requirement as a component of the State's compulsory school attendance laws or other laws, regulations, practices, or policies that may act as a barrier to the enrollment, attendance, or success in school of homelesschildren and youths, the State will review and undertake steps to revise such laws, regulations, practices, or policies to ensure that homeless children and youths are afforded the same free, appropriate public education as provided to other children and youths.
+&emsp;(2) In any State that has a compulsory residency requirement as a component of the State's compulsory school attendance laws or other laws, regulations, practices, or policies that may act as a barrier to the enrollment, attendance, or success in school of homeless children and youths, the State will review and undertake steps to revise such laws, regulations, practices, or policies to ensure that homeless children and youths are afforded the same free, appropriate public education as provided to other children and youths.
 
 &emsp;(3) Homelessness alone is not sufficient reason to separate students from the mainstream school environment.
 

@@ -2,7 +2,7 @@
 
 There is hereby established in the Treasury of the United States a fund, to be known as the Rural Electrification and Telephone Revolving Fund (hereinafter referred to as the “fund”), consisting of:
 
-&emsp;(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905,<sup>1</sup> and 922 of this title and under this subchapter, as of May 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
+&emsp;(1) all notes, bonds, obligations, liens, mortgages, and property delivered or assigned to the Secretary pursuant to loans heretofore or hereafter made under sections 904, 905,<sup>1</sup> and 922 of this title and under this subchapter, as ofMay 11, 1973, and all proceeds from the sales hereunder of such notes, bonds, obligations, liens, mortgages, and property, which shall be transferred to and be assets of the funds;
 
 &emsp;(2) undisbursed balances of electric and telephone loans made under sections 904, 905,<sup>1</sup> and 922 of this title, which as of May 11, 1973, shall be transferred to and be assets of the fund;
 

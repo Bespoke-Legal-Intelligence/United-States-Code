@@ -10,9 +10,9 @@
 
 1982—Subsec. (a). Pub. L. 97–357 added subsec. (a).
 
-Subsec. (b). Pub. L. 97–357 redesignated existing provisions as subsec. (b) and inserted provisions relating to the removal of a Lieutenant Governor or member of the legislature of Guam.
+Subsec. (b). Pub. L. 97–357 redesignated existing provisions as subsec. (b) and inserted provisions relating tothe removal of a Lieutenant Governor or member of the legislature of Guam.
 
-1968—Pub. L. 90–497 substituted provisions for the removal of the Governor of Guam through a referendumelection for provisions for the appointment, tenure, powers, and duties of the Secretary of Guam.
+1968—Pub. L. 90–497 substituted provisions for the removal of the Governor of Guam through a referendum election for provisions for the appointment, tenure, powers, and duties of the Secretary of Guam.
 
 #### Effective Date of 1968 Amendment
 

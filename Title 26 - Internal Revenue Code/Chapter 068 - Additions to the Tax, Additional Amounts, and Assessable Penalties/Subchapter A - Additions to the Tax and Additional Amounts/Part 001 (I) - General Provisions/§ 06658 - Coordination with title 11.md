@@ -4,7 +4,7 @@
 
 No addition to the tax shall be made under section 6651, 6654, or 6655 for failure to make timely payment of tax with respect to a period during which a case is pending under title 11 of the United States Code—
 
-&emsp;(1) if such tax was incurred by the estate and the failure occurred pursuant to an order of the court finding probable insufficiency of funds of the estate to pay administrative expenses, or
+&emsp;(1) if such tax was incurred by the estate and the failure occurred pursuant to an order ofthe court finding probable insufficiency of funds of the estate to pay administrative expenses, or
 
 &emsp;(2) if—
 

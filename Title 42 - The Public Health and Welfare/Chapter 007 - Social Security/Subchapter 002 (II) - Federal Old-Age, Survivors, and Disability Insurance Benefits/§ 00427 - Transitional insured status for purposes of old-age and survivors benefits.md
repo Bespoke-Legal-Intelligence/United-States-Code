@@ -28,7 +28,7 @@ Section 402(m) of this title, referred to in subsec. (b), was repealed by Pub. L
 
 #### Amendments
 
-1983—Subsec. (a). Pub. L. 98–21, §304(a), substituted “spouse” for “wife”, “spouse's” for “wife's”, and “he or she” for “she”, wherever appearing, substituted “the” for “his” after “402(a) of this title, and of” and preceding “spouse” in two places and preceding “old-age insurance”, and inserted “or section 402(c)” after “section 402(b)” wherever appearing.
+1983—Subsec. (a). Pub. L. 98–21, §304(a), substituted “spouse” for “wife”, “spouse's” for “wife's”, and “he orshe” for “she”, wherever appearing, substituted “the” for “his” after “402(a) of this title, and of” and preceding “spouse” in two places and preceding “old-age insurance”, and inserted “or section 402(c)” after “section 402(b)” wherever appearing.
 
 Subsec. (b). Pub. L. 98–21, §304(b), substituted “surviving spouse” for “widow” and “surviving spouse's” for “widow's” wherever appearing, substituted “the” for “her” after “determining” and “The amount of”, and inserted “or section 402(f)” after “section 402(e)” wherever appearing.
 

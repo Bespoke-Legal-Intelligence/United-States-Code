@@ -98,7 +98,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
+&emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordancewith paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter and part C of subchapter I of chapter 34 of title 42 to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
 
 &emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -170,7 +170,7 @@ Title IV, referred to in subsecs. (a) and (b), means title IV of the Higher Educ
 
 Prior sections 1091b to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
-Section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amendedPub. L. 92–318, title IV, §451(a), June 23, 1972, 86 Stat. 344, authorized the Commissioner to appraise and annually report on existing and future education personnel needs.
+Section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 92–318, title IV, §451(a), June 23, 1972, 86 Stat. 344, authorized the Commissioner to appraise and annually report on existing and future education personnel needs.
 
 Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
 

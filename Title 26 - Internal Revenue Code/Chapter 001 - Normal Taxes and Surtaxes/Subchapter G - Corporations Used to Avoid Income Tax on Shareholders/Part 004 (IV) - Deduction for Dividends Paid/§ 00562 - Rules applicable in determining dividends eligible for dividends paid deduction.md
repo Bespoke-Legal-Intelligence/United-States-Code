@@ -28,7 +28,7 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88;Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Amendment Pub. L. 88–272 applicable to distributions made in any taxable year 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

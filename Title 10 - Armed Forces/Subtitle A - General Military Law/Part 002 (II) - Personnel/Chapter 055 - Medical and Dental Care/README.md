@@ -21,7 +21,7 @@
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
-| \[1076b. | Repealed.\] |
+| [1076b.](%C2%A7%2001076b%20-%20TRICARE%20program%20coverage%20for%20members%20of%20the%20Ready%20Reserve.md) | TRICARE program: coverage for members of the Ready Reserve. |
 | [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
@@ -68,6 +68,7 @@
 | [1105\.](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md) | Specialized treatment facility program. |
 | [1106\.](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md) | Submittal of claims: standard form; time limits. |
 | [1107\.](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md) | Notice of use of an investigational new drug or a drug unapproved for its applied use. |
+| [1107a.](%C2%A7%2001107a%20-%20Emergency%20use%20products.md) | Emergency use products. |
 | [1108\.](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md) | Health care coverage through Federal Employees Health Benefits program: demonstration project. |
 | [1109\.](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md) | Organ and tissue donor program. |
 | [1110\.](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md) | Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions. |
@@ -75,6 +76,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title XVI, §1603(b)(2), Nov. 24, 2003, 117 Stat. 1690, added item 1107a.
+
+Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 1076b.
 
 2001—Pub. L. 107–107, div. A, title VII, §§701(a)(2), (f)(2), 731(b), 732(a)(2), 736(c)(2), title X, §1048(a)(10), Dec. 28, 2001, 115 Stat. 1158, 1161, 1169, 1173, 1223, struck out item 1074b “Transitional medical and dental care: members on active duty in support of contingency operations”, transferred item 1074i to appear after item 1074h, and added items 1074j, 1074k, 1079b, and 1086b.
 
@@ -94,7 +99,7 @@ Pub. L. 104–106, div. A, title VII, §§705(a)(2), 735(d)(2), 738(b)(2), Feb. 
 
 1992—Pub. L. 102–484, div. D, title XLIV, §4408(a)(2), Oct. 23, 1992, 106 Stat. 2712, added item 1078a.
 
-1991—Pub. L. 102–190, div. A, title VI, §640(b), title VII, §§715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403,1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
+1991—Pub. L. 102–190, div. A, title VI, §640(b), title VII, §§715(b), 716(a)(2), Dec. 5, 1991, 105 Stat. 1385, 1403, 1404, added item 1074b, redesignated former item 1074b as 1074c, and added items 1105 and 1106.
 
 1990—Pub. L. 101–510, div. A, title VII, §713(d)(2)\[(3)\], Nov. 5, 1990, 104 Stat. 1584, substituted “Health care services incurred on behalf of covered beneficiaries: collection from third-party payers” for “Collection from third-party payers of reasonable inpatient hospital care costs incurred on behalf of retirees and dependents” in item 1095.
 
@@ -132,7 +137,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 26 sections 9801, 9832; title 29 sections 1181, 1191b; title 38 sections 1713, 7423, 8111; title 42 sections 300gg, 300gg–91, 1395w–21, 14402, 14405.
+This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 26 sections 35, 9801, 9832; title 29 sections 1181, 1191b, 2918; title 38 sections 1781, 7423, 8111; title 42 sections 300gg, 300gg–91, 1395w–21, 1395w–113, 1395w–134, 1395w–141, 14402, 14405.
 
 
 ---
@@ -158,7 +163,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
-- [&sect; 01076b - Repealed. Pub. L. 106&#8211;65, div. A, title VII, &sect;711(a), Oct. 5, 1999, 113 Stat. 685](%C2%A7%2001076b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9365%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7711%28a%29%2C%20Oct.%205%2C%201999%2C%20113%20Stat.%20685.md)
+- [&sect; 01076b - TRICARE program coverage for members of the Ready Reserve](%C2%A7%2001076b%20-%20TRICARE%20program%20coverage%20for%20members%20of%20the%20Ready%20Reserve.md)
 - [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
@@ -205,6 +210,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01105 - Specialized treatment facility program](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md)
 - [&sect; 01106 - Submittal of claims standard form; time limits](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md)
 - [&sect; 01107 - Notice of use of an investigational new drug or a drug unapproved for its applied use](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md)
+- [&sect; 01107a - Emergency use products](%C2%A7%2001107a%20-%20Emergency%20use%20products.md)
 - [&sect; 01108 - Health care coverage through Federal Employees Health Benefits program demonstration project](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md)
 - [&sect; 01109 - Organ and tissue donor program](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md)
 - [&sect; 01110 - Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md)

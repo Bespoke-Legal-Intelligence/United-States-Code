@@ -28,7 +28,7 @@ The Native Latex Commercialization and Economic Development Act of 1978, referre
 
 2002—Subsec. (a). Pub. L. 107–171, §7113(1), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$850,000,000 for each of the fiscal years 1991 through 2002”.
 
-Subsec. (b). Pub. L. 107–171, §7113(2), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
+Subsec. (b). Pub. L. 107–171, §7113(2), substituted “such sums as may be necessary for each of fiscal years1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
 
 1998—Subsecs. (a), (b). Pub. L. 105–185 substituted “2002” for “1997”.
 

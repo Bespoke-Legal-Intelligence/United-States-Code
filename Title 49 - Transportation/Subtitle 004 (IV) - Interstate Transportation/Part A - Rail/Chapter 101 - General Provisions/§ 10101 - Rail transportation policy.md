@@ -52,7 +52,7 @@ Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Surface Freight Forwarder Deregulation Act of 1986’.”
+Pub. L. 99–521, §1, Oct. 22, 1986, 100 Stat. 2993, provided that: “This Act \[see Tables for classification\] may becited as the ‘Surface Freight Forwarder Deregulation Act of 1986’.”
 
 #### Short Title of 1982 Amendment
 

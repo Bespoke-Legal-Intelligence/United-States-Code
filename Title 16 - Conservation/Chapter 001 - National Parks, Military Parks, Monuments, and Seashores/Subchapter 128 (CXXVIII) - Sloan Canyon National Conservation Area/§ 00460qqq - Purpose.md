@@ -1,6 +1,6 @@
 ### §460qqq. Purpose
 
-The purpose of this subchapter is to establish the Sloan Canyon National Conservation Area to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the cultural, archaeological, natural, wilderness, scientific, geological, historical, biological, wildlife, educational, and scenic resources of the Conservation Area.
+The purpose of this subchapter is to establish the Sloan Canyon National Conservation Areato conserve, protect, and enhance for the benefit and enjoyment of present and future generations the cultural, archaeological, natural, wilderness, scientific, geological, historical, biological, wildlife, educational, and scenic resources of the Conservation Area.
 
 (Pub. L. 107–282, title VI, §602, Nov. 6, 2002, 116 Stat. 2009.)
 

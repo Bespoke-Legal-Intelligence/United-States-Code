@@ -54,7 +54,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (5) Number of applications for grants and contracts
 
-&emsp;The Secretary shall not limit the number of applications submitted by an entity under any program authorized under this division if the additional applications describe programs serving different populations or campuses.
+&emsp;The Secretary shall not limit the number of applications submitted by an entity under anyprogram authorized under this division if the additional applications describe programs serving different populations or campuses.
 
 #### (6) Coordination with other programs for disadvantaged students
 
@@ -62,7 +62,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (7) Application status
 
-&emsp;The Secretary shall inform each entity operating programs under this division regarding the status of their application for continued funding at least 8 months prior to the expiration of the grant or contract. The Secretary, in the case of an entity that is continuing to operate a successful program under this division, shall ensure that the start-up date for a new grant or contract for such program immediately follows the termination of the preceding grant or contract so that no interruption of funding occurs for such successful reapplicants. The Secretary shall inform each entity requesting assistance under this division for a new program regarding the status oftheir application at least 8 months prior to the proposed startup date of such program.
+&emsp;The Secretary shall inform each entity operating programs under this division regarding the status of their application for continued funding at least 8 months prior to the expiration of the grant or contract. The Secretary, in the case of an entity that is continuing to operate a successful program under this division, shall ensure that the start-up date for a new grant or contract for such program immediately follows the termination of the preceding grant or contract so that no interruption of funding occurs for such successful reapplicants. The Secretary shall inform each entity requesting assistance under this division for a new program regarding the status of their application at least 8 months prior to the proposed startup date of such program.
 
 #### (d) Outreach
 
@@ -136,7 +136,7 @@ For the purpose of this division:
 
 &emsp;The Secretary may waive the service requirements in subparagraph (A) or (B) of paragraph (3) if the Secretary determines the application of the service requirements to a veteran will defeat the purpose of a program under this division.
 
-(Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I,§102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652.)
+(Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652.)
 
 #### References in Text
 

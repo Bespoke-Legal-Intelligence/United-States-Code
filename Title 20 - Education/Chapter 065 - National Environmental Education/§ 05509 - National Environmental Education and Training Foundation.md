@@ -54,7 +54,7 @@
 
 #### (6) Reimbursement of expenses
 
-&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expensesincurred by them in the performance of the duties of the Foundation.
+&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
 
 #### (7) General powers
 
@@ -132,7 +132,7 @@ Subject to the requirements of this subsection, the Administrator may provide pe
 
 #### (g) Volunteer status
 
-The Administrator may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Environmental Protection Agency, as volunteers in the performance of the functions authorized herein, in the manner provided for under this section.
+The Administrator may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from theEnvironmental Protection Agency, as volunteers in the performance of the functions authorized herein, in the manner provided for under this section.
 
 #### (h) Audits and petition of Attorney General for equitable relief
 

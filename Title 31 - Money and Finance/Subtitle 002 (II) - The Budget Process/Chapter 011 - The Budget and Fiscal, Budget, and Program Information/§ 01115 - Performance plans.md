@@ -1,12 +1,12 @@
 ### §1115. Performance plans
 
-(a) In carrying out the provisions of section 1105(a)(29),<sup>1</sup> the Director of the Office of Management and Budget shall require each agency to prepare an annual performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
+(a) In carrying out the provisions of section 1105(a)(28), the Director of the Office of Management and Budget shall require each agency to prepare an annual performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
 
 &emsp;(1) establish performance goals to define the level of performance to be achieved by a program activity;
 
 &emsp;(2) express such goals in an objective, quantifiable, and measurable form unless authorized to be in an alternative form under subsection (b);
 
-&emsp;(3) provide a description of how the performance goals and objectives are to be achieved, including the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals and objectives. <sup>2</sup>
+&emsp;(3) provide a description of how the performance goals and objectives are to be achieved,including the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals and objectives.<sup>1</sup>
 
 &emsp;(4) establish performance indicators to be used in measuring or assessing the relevant outputs, service levels, and outcomes of each program activity;
 
@@ -40,7 +40,7 @@
 
 (f) With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (a)(3).
 
-(g) For purposes of this section and sections 1116 through 1119, and sections 9703 <sup>1</sup> and 9704 the term—
+(g) For purposes of this section and sections 1116 through 1119, and sections 9703 <sup>2</sup> and 9704 the term—
 
 &emsp;(1) “agency” has the same meaning as such term is defined under section 306(f) of title 5;
 
@@ -56,15 +56,15 @@
 
 &emsp;(7) “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
-(Added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, §1311(a), Nov. 25, 2002, 116 Stat. 2289.)
+(Added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, §1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, §1421(b), Nov. 24, 2003, 117 Stat. 1667.)
 
 #### References in Text
-
-Section 1105(a)(29), referred to in subsec. (a), was redesignated section 1105(a)(28) of this title by Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388.
 
 Section 9703, referred to in subsec. (g), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136 substituted “section 1105(a)(28)” for “section 1105(a)(29)”.
 
 2002—Subsec. (a)(3). Pub. L. 107–296, §1311(a)(1), added par. (3) and struck out former par. (3) which read as follows: “briefly describe the operational processes, skills and technology, and the human, capital, information, or other resources required to meet the performance goals;”.
 
@@ -128,9 +128,9 @@ Section 9 of Pub. L. 103–62 provided that: “The Office of Personnel Manageme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 15 sections 638, 7406; title 23 section 508; title 40 section 11315; title 44 sections 3534, 3544.
+This section is referred to in sections 1105, 1116, 1117, 1118, 1119, 9703, 9704 of this title; title 5 section 306; title 15 sections 638, 7406; title 23 section 508; title 40 section 11315; title 41 section 414; title 44 sections 3534, 3544.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

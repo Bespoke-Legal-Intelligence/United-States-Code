@@ -46,7 +46,7 @@ A prior section 5042, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of pr
 
 #### Amendments
 
-1978—Subsec. (a)(2). Pub. L. 95–458 substituted in heading “Wine for personal or family use” for “Family wine” and in text provision permitting an adult to produce 200 gallons of wine per calendar year if there are 2 or more adults in the household or 100 gallons ofwine per calendar year if there is one adult in the household for provision which permitted the duly registered head of any family to produce an amount of wine not exceeding 200 gallons of wine per annum.
+1978—Subsec. (a)(2). Pub. L. 95–458 substituted in heading “Wine for personal or family use” for “Family wine” and in text provision permitting an adult to produce 200 gallons of wine per calendar year if there are 2 or more adults in the household or 100 gallons of wine per calendar year if there is one adult in the household for provision which permitted the duly registered head of any family to produce an amount of wine not exceeding 200 gallons of wine per annum.
 
 1976—Subsec. (a)(1) to (3). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 

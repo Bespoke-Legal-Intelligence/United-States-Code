@@ -153,6 +153,12 @@
 | (b) | Heavily Indebted Poor Countries review. |
 | (c) | Definition. |
 | 262p–7. | Reform of the Enhanced Structural Adjustment Facility. |
+| 262p–8. | Modification of the Enhanced HIPC Initiative. |
+| (a) | Authority. |
+| (b) | Relation to poverty and the environment. |
+| (c) | Conditions. |
+| (d) | Programs to combat HIV/AIDS and poverty. |
+| (e) | Definitions. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | (a) | In general. |
@@ -1210,6 +1216,7 @@
 - [&sect; 00262p&#8211;5 - Definitions](%C2%A7%2000262p%E2%80%935%20-%20Definitions.md)
 - [&sect; 00262p&#8211;6 - Improvement of the Heavily Indebted Poor Countries Initiative](%C2%A7%2000262p%E2%80%936%20-%20Improvement%20of%20the%20Heavily%20Indebted%20Poor%20Countries%20Initiative.md)
 - [&sect; 00262p&#8211;7 - Reform of the Enhanced Structural Adjustment Facility](%C2%A7%2000262p%E2%80%937%20-%20Reform%20of%20the%20Enhanced%20Structural%20Adjustment%20Facility.md)
+- [&sect; 00262p&#8211;8 - Modification of the Enhanced HIPC Initiative](%C2%A7%2000262p%E2%80%938%20-%20Modification%20of%20the%20Enhanced%20HIPC%20Initiative.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)

@@ -24,7 +24,7 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–275 substituted “$35,000” for “$10,000”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–275 substituted “$35,000” for “$10,000”.
 
 #### Effective Date of 1998 Amendment
 

@@ -28,7 +28,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;&emsp;(i) the completed notification required under subsection (a) of this section, or
 
-&emsp;&emsp;(ii) if such notification is not completed, the notification to the extent completed anda statement of the reasons for such noncompliance,
+&emsp;&emsp;(ii) if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance,
 
 > &emsp;from both persons, or, in the case of a tender offer, the acquiring person; and
 
@@ -86,7 +86,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (e) Additional information; waiting period extensions
 
-(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
+(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to theproposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
 
 (B)(i) The Assistant Attorney General and the Federal Trade Commission shall each designate a senior official who does not have direct responsibility for the review of any enforcement recommendation under this section concerning the transaction at issue, to hear any petition filed by such person to determine—
 
@@ -130,7 +130,7 @@ If a proceeding is instituted or an action is filed by the Federal Trade Commiss
 
 #### (h) Disclosure exemption
 
-Any information or documentary material filed with the Assistant Attorney General or the Federal Trade Commission pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
+Any information or documentary material filed with the Assistant Attorney General or theFederal Trade Commission pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 
 #### (i) Construction with other laws
 
@@ -150,7 +150,7 @@ If the end of any period of time provided in this section falls on a Saturday, S
 
 The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
 
-This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+This Act, referred to in subsec. (i)(1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (i)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
@@ -196,7 +196,7 @@ Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 172
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §630(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section \[amending this section and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–553, §1(a)(2) \[title VI, §630(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section \[amending this section and provisions set out as anote under this section\] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1999 Amendment
 

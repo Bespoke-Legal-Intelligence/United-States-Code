@@ -58,7 +58,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 #### (1) Authority
 
-&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner and if the court chooses to exercise such jurisdiction.
+&emsp;Notwithstanding any other provision of this chapter, a United States district court shall have jurisdiction to enter a judicial order of removal at the time of sentencing against an alien who is deportable, if such an order has been requested by the United States Attorney with the concurrence of the Commissioner andif the court chooses to exercise such jurisdiction.
 
 #### (2) Procedure
 
@@ -112,7 +112,7 @@ Section was formerly classified to section 1252a of this title prior to renumber
 
 #### Prior Provisions
 
-A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related to entry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
+A prior section 1228, act June 27, 1952, ch. 477, title II, ch. 4, §238, 66 Stat. 202, as amended, which related toentry through or from foreign contiguous territory and adjacent islands, was renumbered section 233 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §308(b)(4), Sept. 30, 1996, 110 Stat. 3009–615, and was transferred to section 1223 of this title.
 
 #### Amendments
 

@@ -30,7 +30,7 @@ The Secretary shall conduct a survey of the cultural resources in the immediate 
 
 #### (e) Rescue, firefighting, and law enforcement assistance
 
-For purposes of administering the recreation area, the Secretary may enter into cooperativeagreements with any Federal agency, the State of Texas, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement and fire preventive assistance.
+For purposes of administering the recreation area, the Secretary may enter into cooperative agreements with any Federal agency, the State of Texas, or any political subdivision thereof, for the rendering, on a reimbursable basis, of rescue, firefighting, and law enforcement and fire preventive assistance.
 
 (Pub. L. 101–628, title V, §506, Nov. 28, 1990, 104 Stat. 4494.)
 

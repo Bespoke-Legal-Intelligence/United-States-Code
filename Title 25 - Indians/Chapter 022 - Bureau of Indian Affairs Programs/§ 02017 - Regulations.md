@@ -20,7 +20,7 @@
 
 #### (3) Citation
 
-&emsp;The regulations shall contain, immediately following each regulatory section, a citation to any statutory provision providing authority to promulgate such regulatory section.
+&emsp;The regulations shall contain, immediately following each regulatory section, a citationto any statutory provision providing authority to promulgate such regulatory section.
 
 #### (b) Miscellaneous
 

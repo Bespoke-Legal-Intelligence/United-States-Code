@@ -2,7 +2,7 @@
 
 (a)
 
-Recommendations.—The Administrator of the Federal Aviation Administration shall makerecommendations to the Secretary of Commerce on providing meteorological services necessary for the safe and efficient movement of aircraft in air commerce. In providing the services, the Secretary shall cooperate with the Administrator and give complete consideration to those recommendations.
+Recommendations.—The Administrator of the Federal Aviation Administration shall make recommendations to the Secretary of Commerce on providing meteorological services necessary for the safe and efficient movement of aircraft in air commerce. In providing the services, the Secretary shall cooperate with the Administrator and give complete consideration to those recommendations.
 
 (b)
 

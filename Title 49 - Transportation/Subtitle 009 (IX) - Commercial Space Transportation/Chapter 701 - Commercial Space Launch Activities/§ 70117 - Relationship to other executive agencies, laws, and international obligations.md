@@ -22,7 +22,7 @@ States and Political Subdivisions.—A State or political subdivision of a State
 
 (d)
 
-Consultation.—The Secretary of Transportation is encouraged to consult with a State to simplify and expedite the approval of a space launch or reentry activity.
+Consultation.—The Secretary of Transportation is encouraged to consult with a Stateto simplify and expedite the approval of a space launch or reentry activity.
 
 (e)
 

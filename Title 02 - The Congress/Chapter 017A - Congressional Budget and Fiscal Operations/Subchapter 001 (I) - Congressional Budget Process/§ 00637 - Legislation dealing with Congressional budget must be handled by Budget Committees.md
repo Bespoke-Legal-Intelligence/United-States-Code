@@ -6,13 +6,13 @@ No bill, resolution, amendment, motion, or conference report, dealing with any m
 
 #### Codification
 
-Section was formerly classified to section 1327 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1327 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
-1990—Pub. L. 101–508 substituted “bill, resolution, amendment, motion, or conference report” for “bill or resolution, and no amendment to any bill or resolution”.
+<b>1990</b>—Pub. L. 101–508 substituted “bill, resolution, amendment, motion, or conference report” for “bill or resolution, and no amendment to any bill or resolution”.
 
-1985—Pub. L. 99–177 reenacted section without change.
+<b>1985</b>—Pub. L. 99–177 reenacted section without change.
 
 #### Effective Date of 1985 Amendment
 

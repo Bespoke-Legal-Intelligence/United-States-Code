@@ -26,7 +26,7 @@ If at the time a person sustains an injury coming within the purview of this sub
 
 #### Codification
 
-In subsecs. (b) and (c), “section 8147 of title 5” was substituted for “section 35 of such Act of September 7, 1916, as amended,” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (b) and (c), “section 8147 of title 5” was substituted for “section 35 of such Act of September 7,1916, as amended,” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

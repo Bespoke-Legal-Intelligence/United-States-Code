@@ -1,6 +1,6 @@
 ### §5024. Naval Research Advisory Committee
 
-(a) The Secretary of the Navy may appoint a Naval Research Advisory Committee consistingof not more than 15 civilians preeminent in the fields of science, research, and development work. One member of the Committee must be from the field of medicine. Each member serves for such term as the Secretary specifies.
+(a) The Secretary of the Navy may appoint a Naval Research Advisory Committee consisting of not more than 15 civilians preeminent in the fields of science, research, and development work. One member of the Committee must be from the field of medicine. Each member serves for such term as the Secretary specifies.
 
 (b) The Committee shall meet at such times as the Secretary specifies to consult with and advise the Chief of Naval Operations and the Chief of Naval Research.
 

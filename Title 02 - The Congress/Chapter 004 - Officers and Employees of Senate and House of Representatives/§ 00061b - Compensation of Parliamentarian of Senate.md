@@ -6,11 +6,11 @@ The Parliamentarian of the Senate may be paid at a maximum annual rate of compen
 
 #### Amendments
 
-1975—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
 
-1974—Pub. L. 93–371 substituted provisions authorizing a maximum annual rate of compensation not to exceed $37,620 for Parliamentarian, for provisions authorizing a gross annual compensation of $15,500 for Parliamentarian and $7,620 for Assistant Parliamentarian, effective July 1, 1974.
+<b>1974</b>—Pub. L. 93–371 substituted provisions authorizing a maximum annual rate of compensation not to exceed $37,620 for Parliamentarian, for provisions authorizing a gross annual compensation of $15,500 for Parliamentarian and $7,620 for Assistant Parliamentarian, effective July 1, 1974.
 
-1956—Act June 27, 1956, increased compensation of Parliamentarian of Senate from $8,820 basic annual compensation to $15,500 gross annual compensation, and basic annual compensation of Assistant Parliamentarian of Senate from $7,260 to $7,620, effective July 1, 1956.
+<b>1956</b>—Act June 27, 1956, increased compensation of Parliamentarian of Senate from $8,820 basic annual compensation to $15,500 gross annual compensation, and basic annual compensation of Assistant Parliamentarian of Senate from $7,260 to $7,620, effective July 1, 1956.
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

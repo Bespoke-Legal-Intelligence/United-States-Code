@@ -16,7 +16,7 @@ The program established under subsection (a) of this section shall—
 
 &emsp;(4) undertake studies and investigations of sound recording preservation activities as needed, including the efficacy of new technologies, and recommend solutions to improve these practices; and
 
-&emsp;(5) utilize the audiovisual conservation center of the Library of Congress at Culpeper, Virginia, to ensure that preserved sound recordings included in the National Recording Registry are stored in a proper manner and disseminated to researchers, scholars, and thepublic as may be appropriate in accordance with title 17 and the terms of any agreements between the Librarian and persons who hold copyrights to such recordings.
+&emsp;(5) utilize the audiovisual conservation center of the Library of Congress at Culpeper, Virginia, to ensure that preserved sound recordings included in the National Recording Registry are stored in a proper manner and disseminated to researchers, scholars, and the public as may be appropriate in accordance with title 17 and the terms of any agreements between the Librarian and persons who hold copyrights to such recordings.
 
 (Pub. L. 106–474, title I, §111, Nov. 9, 2000, 114 Stat. 2087.)
 

@@ -1,6 +1,6 @@
 ### §715. Property loss; personal injury or death: activities under certain sections of this title
 
-(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
+(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, maysettle and pay in an amount not more than $100,000 a claim against the United States for—
 
 &emsp;(1) damage to, or loss of, real property, including damage or loss incident to use and occupancy;
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 90–525 increased limitation on amount of settlement from 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–486 effective Jan. 1, 1968, except that no deductions or withholding from salary which result therefrom shall commence before the first day of the first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of this title.
+Amendment by Pub. L. 90–486 effective Jan. 1, 1968, except that no deductions or withholding from salarywhich result therefrom shall commence before the first day of the first pay period that begins on or after Jan. 1, 1968, see section 11 of Pub. L. 90–486, set out as a note under section 709 of this title.
 
 #### Effective Date of 1962 Amendment
 

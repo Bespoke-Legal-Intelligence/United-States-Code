@@ -16,7 +16,7 @@ The Director is authorized to undertake and carry out such studies and investiga
 
 &emsp;&emsp;&emsp;(iii) any remaining administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title) not included under clause (ii), which shall be recovered by a fee charged to policyholders and such fee shall not be subject to any agents’ commissions, company expense allowances, or State or local premium taxes,
 
-> &emsp;would be required in order to make such insurance available on an actuarial basis for any types and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
+> &emsp;would be required in order to make such insurance available on an actuarial basis for anytypes and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
 
 &emsp;(2) the rates, if less than the rates estimated under paragraph (1), which would be reasonable, would encourage prospective insureds to purchase flood insurance, and would be consistent with the purposes of this chapter, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title); and
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, any community that has made adequate
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
-Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Director of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Director for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community willbe considered to be in the process of restoration if—
+Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Director of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Director for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
 
 &emsp;(1) the flood protection system has been deemed restorable by a Federal agency in consultation with the local project sponsor;
 
@@ -71,6 +71,10 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon �
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Fees
+
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: “That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts.”
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

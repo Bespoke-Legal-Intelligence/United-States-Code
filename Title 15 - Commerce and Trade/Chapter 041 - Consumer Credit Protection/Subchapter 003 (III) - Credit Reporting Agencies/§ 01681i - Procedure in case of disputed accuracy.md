@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the completeness or accuracy of any item of information contained in a consumer's file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly of such dispute, the agency shall reinvestigate free of charge and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer.
+&emsp;&emsp;Subject to subsection (f) of this section, if the completeness or accuracy of any item of information contained in a consumer's file at a consumer reporting agency is disputed by the consumer and the consumer notifies the agency directly, or indirectly through a reseller, of such dispute, the agency shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate and record the current status of the disputed information, or delete the item from the file in accordance with paragraph (5), before the end of the 30-day period beginning on the date on which the agency receives the notice of the dispute from the consumer or reseller.
 
 #### (B) Extension of period to reinvestigate
 
@@ -20,11 +20,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Before the expiration of the 5-business-day period beginning on the date on which a consumer reporting agency receives notice of a dispute from any consumer in accordance with paragraph (1), the agency shall provide notification of the dispute to any person who provided any item of information in dispute, at the address and in the manner established with the person. The notice shall include all relevant information regarding the dispute that the agency has received from the consumer.
+&emsp;&emsp;Before the expiration of the 5-business-day period beginning on the date on which a consumer reporting agency receives notice of a dispute from any consumer or a reseller in accordance with paragraph (1), the agency shall provide notification of the dispute to any person who provided any item of information in dispute, at the address and in the manner established with the person. The notice shall include all relevant information regarding the dispute that the agency has received from the consumer or reseller.
 
-#### (B) Provision of other information from consumer
+#### (B) Provision of other information
 
-&emsp;&emsp;The consumer reporting agency shall promptly provide to the person who provided the information in dispute all relevant information regarding the dispute that is received by the agency from the consumer after the period referred to in subparagraph (A) and before the end of the period referred to in paragraph (1)(A).
+&emsp;&emsp;The consumer reporting agency shall promptly provide to the person who provided the information in dispute all relevant information regarding the dispute that is received by the agency from the consumer or the reseller after the period referred to in subparagraph (A) and before the end of the period referred to in paragraph (1)(A).
 
 #### (3) Determination that dispute is frivolous or irrelevant
 
@@ -52,7 +52,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, after any reinvestigation under paragraph (1) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or cannot be verified, the consumer reporting agency shall promptly delete that item of information from the consumer's file or modify that item of information, as appropriate, based on the results of the reinvestigation.
+&emsp;&emsp;If, after any reinvestigation under paragraph (1) of any information disputed by a consumer, an item of the information is found to be inaccurate or incomplete or cannot be verified, the consumer reporting agency shall—
+
+&emsp;&emsp;&emsp;(i) promptly delete that item of information from the file of the consumer, or modify that item of information, as appropriate, based on the results of the reinvestigation; and
+
+&emsp;&emsp;&emsp;(ii) promptly notify the furnisher of that information that the information has been modified or deleted from the file of the consumer.
 
 #### (B) Requirements relating to reinsertion of previously deleted material
 
@@ -118,7 +122,7 @@
 
 #### (b) Statement of dispute
 
-If the reinvestigation does not resolve the dispute, the consumer may file a brief statementsetting forth the nature of the dispute. The consumer reporting agency may limit such statements to not more than one hundred words if it provides the consumer with assistance in writing a clear summary of the dispute.
+If the reinvestigation does not resolve the dispute, the consumer may file a brief statement setting forth the nature of the dispute. The consumer reporting agency may limit such statements to not more than one hundred words if it provides the consumer with assistance in writing a clear summary of the dispute.
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
@@ -128,15 +132,101 @@ Whenever a statement of a dispute is filed, unless there is reasonable grounds t
 
 Following any deletion of information which is found to be inaccurate or whose accuracy can no longer be verified or any notation as to disputed information, the consumer reporting agency shall, at the request of the consumer, furnish notification that the item has been deleted or the statement, codification or summary pursuant to subsection (b) or (c) of this section to any person specifically designated by the consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior thereto received a consumer report for any other purpose, which contained the deleted or disputed information.
 
-(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211.)
+#### (e) Treatment of complaints and report to Congress
+
+#### (1) In general
+
+&emsp;The Commission shall—
+
+&emsp;&emsp;(A) compile all complaints that it receives that a file of a consumer that is maintained by a consumer reporting agency described in section 1681a(p) of this title contains incomplete or inaccurate information, with respect to which, the consumer appears to have disputed the completeness or accuracy with the consumer reporting agency or otherwise utilized the procedures provided by subsection (a) of this section; and
+
+&emsp;&emsp;(B) transmit each such complaint to each consumer reporting agency involved.
+
+#### (2) Exclusion
+
+&emsp;Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] shall not be subject to paragraph (1).
+
+#### (3) Agency responsibilities
+
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title that receives a complaint transmitted by the Commission pursuant to paragraph (1) shall—
+
+&emsp;&emsp;(A) review each such complaint to determine whether all legal obligations imposed on the consumer reporting agency under this subchapter (including any obligation imposed by an applicable court or administrative order) have been met with respect to the subject matter of the complaint;
+
+&emsp;&emsp;(B) provide reports on a regular basis to the Commission regarding the determinations of and actions taken by the consumer reporting agency, if any, in connection with its review of such complaints; and
+
+&emsp;&emsp;(C) maintain, for a reasonable time period, records regarding the disposition of each such complaint that is sufficient to demonstrate compliance with this subsection.
+
+#### (4) Rulemaking authority
+
+&emsp;The Commission may prescribe regulations, as appropriate to implement this subsection.
+
+#### (5) Annual report
+
+&emsp;The Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives an annual report regarding information gathered by the Commission under this subsection.
+
+#### (f) Reinvestigation requirement applicable to resellers
+
+#### (1) Exemption from general reinvestigation requirement
+
+&emsp;Except as provided in paragraph (2), a reseller shall be exempt from the requirements of this section.
+
+#### (2) Action required upon receiving notice of a dispute
+
+&emsp;If a reseller receives a notice from a consumer of a dispute concerning the completeness or accuracy of any item of information contained in a consumer report on such consumer produced by the reseller, the reseller shall, within 5 business days of receiving the notice, and free of charge—
+
+&emsp;&emsp;(A) determine whether the item of information is incomplete or inaccurate as a result of an act or omission of the reseller; and
+
+&emsp;&emsp;(B) if—
+
+&emsp;&emsp;&emsp;(i) the reseller determines that the item of information is incomplete or inaccurate as a result of an act or omission of the reseller, not later than 20 days after receiving the notice, correct the information in the consumer report or delete it; or
+
+&emsp;&emsp;&emsp;(ii) if the reseller determines that the item of information is not incomplete or inaccurate as a result of an act or omission of the reseller, convey the notice of the dispute, together with all relevant information provided by the consumer, to each consumer reporting agency that provided the reseller with the information that is the subject of the dispute, using an address or a notification mechanism specified by the consumer reporting agency for such notices.
+
+#### (3) Responsibility of consumer reporting agency to notify consumer through reseller
+
+&emsp;Upon the completion of a reinvestigation under this section of a dispute concerning the completeness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
+
+&emsp;&emsp;(A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) of this section shall be provided to the reseller in lieu of the consumer; and
+
+&emsp;&emsp;(B) the reseller shall immediately reconvey such notice to the consumer, including any notice of a deletion by telephone in the manner required under paragraph (8)(A).
+
+#### (4) Reseller reinvestigations
+
+&emsp;No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
+
+(Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998.)
+
+#### References in Text
+
+The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
+
+Pub. L. 108–159, §316(a)(1), substituted “Subject to subsection (f) of this section, if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
+
+Subsec. (a)(2)(A). Pub. L. 108–159, §316(a)(2), inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
+
+Subsec. (a)(2)(B). Pub. L. 108–159, §316(c), struck out “from consumer” after “information” in heading.
+
+Pub. L. 108–159, §316(a)(3), inserted “or the reseller” after “from the consumer”.
+
+Subsec. (a)(5)(A). Pub. L. 108–159, §314(a), substituted “shall—” and cls. (i) and (ii) for “shall promptly delete that item of information from the consumer's file or modify that item of information, as appropriate, based on the results of the reinvestigation.”
+
+Subsec. (e). Pub. L. 108–159, §313(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 108–159, §316(b), added subsec. (f).
 
 1998—Subsec. (a)(7). Pub. L. 105–347 substituted “(6)(B)(iii)” for “(6)(B)(iv)”.
 
 1996—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
 
 Subsec. (d). Pub. L. 104–208, §2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -146,7 +236,35 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
+#### Prompt Investigation of Disputed Consumer Information
+
+Pub. L. 108–159, title III, §313(b), Dec. 4, 2003, 117 Stat. 1994, provided that:
+
+“(1)
+
+Study required.—The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
+
+“(2)
+
+Report required.—Before the end of the 12-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board and the Commission shall jointly submit a progress report to the Congress on the results of the study required under paragraph (1).
+
+“(3)
+
+Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[15 U.S.C. 1681i(e)\], as added by this section.
+
+“(4)
+
+Recommendations.—The report required under paragraph (2) shall include such recommendations as the Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
+
+&emsp;“(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer's file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter;
+
+&emsp;“(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–2\]; and
+
+&emsp;“(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
+
+\[For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681j, 1681m, 1681s–2, 1681t of this title; title 20 section 1080a.
+This section is referred to in sections 1681c–2, 1681g, 1681j, 1681m, 1681s–2, 1681t of this title; title 20 section 1080a.
 

@@ -2,7 +2,7 @@
 
 The purposes of this subpart are the following:
 
-&emsp;(1) To encourage improved instruction in mathematics, science, and foreign languages as well as other subjects (such as literacy skills and vocational education).
+&emsp;(1) To encourage improved instruction in mathematics, science, and foreign languagesas well as other subjects (such as literacy skills and vocational education).
 
 &emsp;(2) To serve underserved populations, including disadvantaged, illiterate, limited English proficient populations, and individuals with disabilities through a Star Schools program under which grants are made to eligible telecommunication partnerships to enable such partnerships—
 

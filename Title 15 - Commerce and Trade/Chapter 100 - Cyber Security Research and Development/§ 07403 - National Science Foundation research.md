@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(H) remote access and wireless security; and
 
-&emsp;&emsp;(I) enhancement of law enforcement ability to detect, investigate, and prosecute cyber-crimes, including those that involve piracy of intellectual property.
+&emsp;&emsp;(I) enhancement of law enforcement ability to detect, investigate, and prosecutecyber-crimes, including those that involve piracy of intellectual property.
 
 #### (2) Merit review; competition
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(C) how the Center will contribute to increasing the number and quality of computer and network security researchers and other professionals, including individuals from groups historically underrepresented in these fields; and
 
-&emsp;&emsp;(D) how the center <sup>1</sup> will disseminate research results quickly and widely to improvecyber security in information technology networks, products, and services.
+&emsp;&emsp;(D) how the center <sup>1</sup> will disseminate research results quickly and widely to improve cyber security in information technology networks, products, and services.
 
 #### (5) Criteria
 

@@ -2,7 +2,7 @@
 
 #### (a) Cogeneration and small power production rules
 
-Not later than 1 year after November 9, 1978, the Commission shall prescribe, and from timeto time thereafter revise, such rules as it determines necessary to encourage cogeneration and small power production, and to encourage geothermal small power production facilities of not more than 80 megawatts capacity, which rules require electric utilities to offer to—
+Not later than 1 year after November 9, 1978, the Commission shall prescribe, and from time to time thereafter revise, such rules as it determines necessary to encourage cogeneration and small power production, and to encourage geothermal small power production facilities of not more than 80 megawatts capacity, which rules require electric utilities to offer to—
 
 &emsp;(1) sell electric energy to qualifying cogeneration facilities and qualifying small power production facilities <sup>1</sup> and
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (1) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each State regulatory authority shall, after notice and opportunity for public hearing, implement such rule (or revised rule) for each electric utility for which it has ratemaking authority.
 
-(2) Beginning on or before the date one year after any rule is prescribed by the Commission under subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
+(2) Beginning on or before the date one year after any rule is prescribed by the Commissionunder subsection (a) of this section or revised under such subsection, each nonregulated electric utility shall, after notice and opportunity for public hearing, implement such rule (or revised rule).
 
 #### (g) Judicial review and enforcement
 
@@ -92,7 +92,7 @@ Except for a hydroelectric project located at a Government dam (as defined in se
 
 #### (3) Fish and wildlife terms and conditions
 
-&emsp;The project meets the terms and conditions set by fish and wildlife agencies under the same procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
+&emsp;The project meets the terms and conditions set by fish and wildlife agencies under thesame procedures as provided for under section 30(c) of the Federal Power Act \[16 U.S.C. 823a(c)\].
 
 #### (k) “New dam or diversion” defined
 
@@ -146,7 +146,7 @@ Section 8(b) of Pub. L. 99–495 provided that:
 
 “(B) In the case of any petition referred to in subparagraph (A), if the applicant had a preliminary permit and had completed environmental consultations (required by Commission regulations and procedures in effect on January 1, 1986) prior to enactment, there shall be a rebuttable presumption that such applicant had committed substantial monetary resources prior to enactment.
 
-“(C) The applicant for a license or exemption for a project described in subparagraph (A) may petition the Commission for an initial determination under paragraph (1) of section 210(j) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3(j)(1)\] priorto the time the license or exemption is issued. If the Commission initially finds that the project will have substantial adverse effects on the environment within the meaning of such paragraph (1), prior to making a final finding under that paragraph the Commission shall afford the applicant a reasonable opportunity to provide for mitigation of such adverse effects. The Commission shall make a final finding under such paragraph (1) at the time the license or exemption is issued. If the Federal Energy Regulatory Commission has notified the State of its initial finding and the State has not taken any action described in paragraph (2) of section 210(j) before such final finding, the failure to take such action shall be the basis for a rebuttable presumption that there is not a substantial adverse effect on the environment related to natural, recreational, cultural, or scenic attributes for purposes of such finding.
+“(C) The applicant for a license or exemption for a project described in subparagraph (A) may petition the Commission for an initial determination under paragraph (1) of section 210(j) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3(j)(1)\] prior to the time the license or exemption is issued. If the Commission initially finds that the project will have substantial adverse effects on the environment within the meaning of such paragraph (1), prior to making a final finding under that paragraph the Commission shall afford the applicant a reasonable opportunity to provide for mitigation of such adverse effects. The Commission shall make a final finding under such paragraph (1) at the time the license or exemption is issued. If the Federal Energy Regulatory Commission has notified the State of its initial finding and the State has not taken any action described in paragraph (2) of section 210(j) before such final finding, the failure to take such action shall be the basis for a rebuttable presumption that there is not a substantial adverse effect on the environment related to natural, recreational, cultural, or scenic attributes for purposes of such finding.
 
 “(D) If a petition under subparagraph (A) is denied, all provisions of section 210(j) of the Public Utility Regulatory Policies Act of 1978 \[16 U.S.C. 824a–3(j)\] shall apply to the project regardless of when the license or exemption is issued.”
 

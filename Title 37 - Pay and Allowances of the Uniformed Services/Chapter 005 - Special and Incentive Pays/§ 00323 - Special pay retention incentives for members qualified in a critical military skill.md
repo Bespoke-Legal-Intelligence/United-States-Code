@@ -4,15 +4,13 @@
 
 Retention Bonus Authorized.—An officer or enlisted member of the armed forces who is serving on active duty and is qualified in a designated critical military skill may be paid a retention bonus as provided in this section if—
 
-&emsp;(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least 1 year; or
+&emsp;(1) in the case of an officer, the member executes a written agreement to remain on active duty for at least one year; or
 
-&emsp;(2) in the case of an enlisted member, the member reenlists or voluntarily extends the member's enlistment for a period of at least 1 year.
+&emsp;(2) in the case of an enlisted member, the member reenlists or voluntarily extends the member's enlistment for a period of at least one year.
 
 (b)
 
-Designation of Critical Skills.—(1) A designated critical military skill referred to in subsection (a) is a military skill designated as critical by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
-
-(2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall notify Congress, in advance, of each military skill to be designated by the Secretary as critical for purposes of this section. The notice shall be submitted at least 90 days before any bonus with regard to that critical skill is offered under subsection (a) and shall include a discussion of the necessity for the bonus, the amount and method of payment of the bonus, and the retention results that the bonus is expected to achieve.
+Designation of Critical Skills.—A designated critical military skill referred to in subsection (a) is a military skill designated as critical by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (c)
 
@@ -50,17 +48,23 @@ Repayment of Bonus.—(1) If an officer who has entered into a written agreement
 
 Annual Report.—Not later than February 15 of each year, the Secretary of Defense and the Secretary of Transportation shall submit to Congress a report—
 
-&emsp;(1) analyzing the effect, during the preceding fiscal year, of the provision of bonuses under this section on the retention of members qualified in the critical military skills for which the bonuses were offered; and
+&emsp;(1) analyzing the effect, during the preceding fiscal year, of the provision of bonuses underthis section on the retention of members qualified in the critical military skills for which the bonuses were offered; and
 
 &emsp;(2) describing the intentions of the Secretary regarding the continued use of the bonus authority during the current and next fiscal years.
 
 (i)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2003, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2004, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§614(d), 618, Dec. 2, 2002, 116 Stat. 2568, 2570; Pub. L. 108–136, div. A, title VI, §§614(d), 622, title X, §1045(b)(1), Nov. 24, 2003, 117 Stat. 1501, 1505, 1612.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §1045(b)(1), substituted “one year” for “1 year” in pars. (1) and (2).
+
+Subsec. (b). Pub. L. 108–136, §622, struck out “(1)” before “A designated” and par. (2) which read as follows: “The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall notify Congress, in advance, of each military skill to be designated by the Secretary as critical for purposes of this section. The notice shall be submitted at least 90 days before any bonus with regard to that critical skill is offered under subsection (a) and shall include a discussion of the necessity for the bonus, the amount and method of payment of the bonus, and the retention results that the bonus is expected to achieve.”
+
+Subsec. (i). Pub. L. 108–136, §614(d), substituted “December 31, 2004” for “December 31, 2003”.
 
 2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in pars. (1) and (2).
 

@@ -72,7 +72,23 @@ Activities assisted under this chapter may include only—
 
 &emsp;(23) activities necessary to make essential repairs and to pay operating expenses necessary to maintain the habitability of housing units acquired through tax foreclosure proceedings in order to prevent abandonment and deterioration of such housing in primarily low- and moderate-income neighborhoods;
 
-&emsp;(24) provision of direct assistance to facilitate and expand homeownership among persons of low and moderate income (except that such assistance shall not be considered a public service for purposes of paragraph (8)) by using such assistance to—
+&emsp;(24) <sup>3</sup> the construction or improvement of tornado-safe shelters for residents of manufactured housing, and the provision of assistance (including loans and grants) to nonprofit and for-profit entities (including owners of manufactured housing parks) for such construction or improvement, except that—
+
+&emsp;&emsp;(A) a shelter assisted with amounts provided pursuant to this paragraph may be located only in a neighborhood (including a manufactured housing park) that—
+
+&emsp;&emsp;&emsp;(i) contains not less than 20 manufactured housing units that are within such proximity to the shelter that the shelter is available to the residents of such units in the event of a tornado;
+
+&emsp;&emsp;&emsp;(ii) consists predominantly of persons of low and moderate income; and
+
+&emsp;&emsp;&emsp;(iii) is located within a State in which a tornado has occurred during the fiscal year for which the amounts to be used under this paragraph were made available or any of the 3 preceding fiscal years, as determined by the Secretary after consultation with the Director of the Federal Emergency Management Agency;
+
+&emsp;&emsp;(B) such a shelter shall comply with standards for construction and safety as the Secretary, after consultation with the Director of the Federal Emergency Management Agency, shall provide to ensure protection from tornadoes;
+
+&emsp;&emsp;(C) such a shelter shall be of a size sufficient to accommodate, at a single time, all occupants of manufactured housing units located within the neighborhood in which the shelter is located; and
+
+&emsp;&emsp;(D) amounts may not be used for a shelter as provided under this paragraph unlessthere is located, within the neighborhood in which the shelter is located (or, in the case of a shelter located in a manufactured housing park, within 1,500 feet of such park), a warning siren that is operated in accordance with such local, regional, or national disaster warning programs or systems as the Secretary, after consultation with the Director of the Federal Emergency Management Agency, considers appropriate to ensure adequate notice of occupants of manufactured housing located in such neighborhood or park of a tornado; and
+
+&emsp;(24) <sup>3</sup> provision of direct assistance to facilitate and expand homeownership among persons of low and moderate income (except that such assistance shall not be considered a public service for purposes of paragraph (8)) by using such assistance to—
 
 &emsp;&emsp;(A) subsidize interest rates and mortgage principal amounts for low- and moderate-income homebuyers;
 
@@ -166,7 +182,7 @@ In developing program requirements and providing assistance pursuant to paragrap
 
 Notwithstanding any other provision of law, no amount from a grant under section 5306 of this title made in fiscal year 1999 or any succeeding fiscal year may be used to assist directly in the relocation of any industrial or commercial plant, facility, or operation, from 1 area to another area, if the relocation is likely to result in a significant loss of employment in the labor market area from which the relocation occurs.
 
-(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I, §105(a), (b)(1), (c)–(e), title III, §302(a), Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659; Pub. L. 106–377, §1(a)(1) \[title II, §224\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 107–116, title VI, §631, Jan. 10, 2002, 115 Stat. 2227.)
+(Pub. L. 93–383, title I, §105, Aug. 22, 1974, 88 Stat. 641; Pub. L. 94–375, §15(b), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §105, Oct. 12, 1977, 91 Stat. 1116; Pub. L. 95–557, title I, §103(e), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §104(c)–(e), Oct. 8, 1980, 94 Stat. 1616–1618; Pub. L. 97–35, title III, §§303(a), 309(e)–(g), Aug. 13, 1981, 95 Stat. 387, 396; Pub. L. 98–181, title I, §105(a), (b)(1), (c)–(e), title III, §302(a), Nov. 30, 1983, 97 Stat. 1163, 1164, 1206; Pub. L. 98–479, title I, §101(a)(8), (9)(A), Oct. 17, 1984, 98 Stat. 2219; Pub. L. 100–242, title V, §§504, 510, 511, Feb. 5, 1988, 101 Stat. 1925, 1929; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1019; Pub. L. 101–625, title IX, §§907, 908, Nov. 28, 1990, 104 Stat. 4387, 4389; Pub. L. 102–550, title VIII, §§805, 806(a), (b), (c), 807(a), (b)(3), (c)(1), (d)–(f), 809, title X, §1012(f), Oct. 28, 1992, 106 Stat. 3846, 3847, 3849, 3850, 3905; Pub. L. 103–195, §2(a), Dec. 14, 1993, 107 Stat. 2297; Pub. L. 103–233, title II, §207, Apr. 11, 1994, 108 Stat. 365; Pub. L. 104–134, title I, §101(e) \[title II, §225\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–291; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §220, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–276, title II, §§218, 232, title V, §§588, 596(a), Oct. 21, 1998, 112 Stat. 2487, 2492, 2651, 2659; Pub. L. 106–377, §1(a)(1) \[title II, §224\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 107–116, title VI, §631, Jan. 10, 2002, 115 Stat. 2227; Pub. L. 108–146, §2, Dec. 3, 2003, 117 Stat. 1883.)
 
 #### References in Text
 
@@ -174,7 +190,7 @@ Public Law 98–8, referred to in subsec. (a)(8), is Pub. L. 98–8, Mar. 24, 19
 
 The Housing Act of 1949, referred to in subsec. (a)(10), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants and loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(13)(A), (20), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(13)(A), (20), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, isclassified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 Section 701(e) of the Housing Act of 1954, referred to in subsec. (a)(13)(B), is section 701(e) of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461(e) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
@@ -187,6 +203,12 @@ Section 1437<i>o</i> of this title, referred to in subsec. (a)(18), was repealed
 In subsec. (a)(13), “August 12, 1981” substituted for “the date prior to the date of enactment of the Housing and Community Development Amendments of 1981”.
 
 #### Amendments
+
+2003—Subsec. (a)(22). Pub. L. 108–146, §2(1), which directed amendment of par. (22) by striking out “and” at end, could not be executed because that word had been previously stricken.
+
+Subsec. (a)(23). Pub. L. 108–146, §2(2), which directed amendment of par. (23) by substituting a semicolon for period at end, could not be executed because par. (23) did not have a period at end.
+
+2003—Subsec. (a)(24). Pub. L. 108–146, §2(2), added par. (24) relating to tornado-safe shelters.
 
 2002—Subsec. (a)(8). Pub. L. 107–116 substituted “through 2003” for “through 2001”.
 
@@ -206,7 +228,7 @@ Subsec. (a)(8). Pub. L. 104–204 substituted “through 1998” for “through 
 
 Subsec. (a)(13). Pub. L. 104–134, §101(e) \[title II, §225(2)\], struck out “and” at end.
 
-Subsec. (a)(19). Pub. L. 104–134, §101(e) \[title II, §225(3), (6)\], redesignated par. (20) as (19) and struck out former par. (19) which read as follows: “provision of assistance to facilitate substantial reconstruction of housing owned and occupied by low and moderate income persons (A) where the need for the reconstruction was not determinable until after rehabilitation under this section had already commenced, or (B) where the reconstruction is part of a neighborhood rehabilitation effort and the grantee (i) determines the housing is not suitable for rehabilitation, and (ii) demonstrates to thesatisfaction of the Secretary that the cost of substantial reconstruction is significantly less than the cost of new construction and less than the fair market value of the property after substantial reconstruction;”.
+Subsec. (a)(19). Pub. L. 104–134, §101(e) \[title II, §225(3), (6)\], redesignated par. (20) as (19) and struck out former par. (19) which read as follows: “provision of assistance to facilitate substantial reconstruction of housing owned and occupied by low and moderate income persons (A) where the need for the reconstruction was not determinable until after rehabilitation under this section had already commenced, or (B) where the reconstruction is part of a neighborhood rehabilitation effort and the grantee (i) determines the housing is not suitable for rehabilitation, and (ii) demonstrates to the satisfaction of the Secretary that the cost of substantial reconstruction is significantly less than the cost of new construction and less than the fair market value of the property after substantial reconstruction;”.
 
 Subsec. (a)(20). Pub. L. 104–134, §101(e) \[title II, §225(6)\], redesignated par. (21) relating to housing services as (20). Former par. (20) redesignated (19).
 
@@ -360,7 +382,7 @@ Section 101(e) \[title II\] of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321�
 
 Pub. L. 104–120, §3(a), Mar. 28, 1996, 110 Stat. 835, provided that: “Notwithstanding the amendments made by section 907(b)(2) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, set out below\], section 105(a)(25) of the Housing and Community Development Act of 1974 \[subsec. (a)(25) \[now (24)\] of this section\], as in existence on September 30, 1995, shall apply to the use of assistance made available under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] during fiscal year 1996.”
 
-Amendment by section 907(b)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VIII, §807(b)(1), (2), Oct. 28, 1992, 106 Stat. 3849, effective “October 1, 1994 (orOctober 1, 1995, if the Secretary determines that such later date is necessary to continue to provide homeownership assistance until homeownership assistance is available under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\])”. \[Date extended by Secretary to Oct. 1, 1995, see 59 F.R. 49954, Sept. 30, 1994.\]
+Amendment by section 907(b)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VIII, §807(b)(1), (2), Oct. 28, 1992, 106 Stat. 3849, effective “October 1, 1994 (or October 1, 1995, if the Secretary determines that such later date is necessary to continue to provide homeownership assistance until homeownership assistance is available under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\])”. \[Date extended by Secretary to Oct. 1, 1995, see 59 F.R. 49954, Sept. 30, 1994.\]
 
 #### Effective Date of 1984 Amendment
 
@@ -421,4 +443,6 @@ This section is referred to in sections 5304, 5306, 5307, 5308, 5318 of this tit
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Two pars. (24) have been enacted.</i>
 

@@ -138,7 +138,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) with the information and assistance services provided under this chapter;
 
-&emsp;&emsp;&emsp;(iii) coordination and monitoring of formal and informal service delivery, including coordination and monitoring to ensure that services specified in the plan are being provided;
+&emsp;&emsp;&emsp;(iii) coordination and monitoring of formal and informal service delivery, including coordination and monitoring to ensurethat services specified in the plan are being provided;
 
 &emsp;&emsp;&emsp;(iv) periodic reassessment and revision of the status of the older individual with—
 
@@ -232,17 +232,17 @@ For the purposes of this chapter—
 
 &emsp;(38) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.
 
-&emsp;(39) The term “representative payee” means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+&emsp;(39) The term “representative payee” means a person who is appointed by a governmentalentity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
 &emsp;(40) The term “State agency” means the agency designated under section 3025(a)(1) of this title.
 
 &emsp;(41) The term “supportive service” means a service described in section 3030d(a) of this title.
 
-&emsp;(42) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act (42 U.S.C. 10408).
+&emsp;(42) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act.
 
 &emsp;(43) The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title.
 
-(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–501, title I, §101, title VIII, §801(a), Nov. 13, 2000, 114 Stat. 2227, 2291.)
+(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–501, title I, §101, title VIII, §801(a), Nov. 13, 2000, 114 Stat. 2227, 2291; Pub. L. 108–36, title IV, §416, June 25, 2003, 117 Stat. 831.)
 
 #### References in Text
 
@@ -255,6 +255,8 @@ Section 8801 of title 20, referred to in par. (12)(E)(ii), was repealed by Pub. 
 The Family Violence Prevention and Services Act, referred to in par. (42), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, as amended, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
 
 #### Amendments
+
+2003—Par. (42). Pub. L. 108–36 struck out “(42 U.S.C. 10408)” before period at end.
 
 2000—Par. (3). Pub. L. 106–501, §101(1), substituted “and the Commonwealth of the Northern Mariana Islands” for “the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
@@ -300,7 +302,7 @@ Par. (44). Pub. L. 106–501, §101(6), redesignated par. (44) as (41).
 
 Par. (3). Pub. L. 103–171, §2(1), substituted “Virgin Islands of the United States” for “Virgin Islands”.
 
-1992—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting “UnitedStates Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
+1992—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting “United States Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
 
 Pub. L. 102–375, §102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
 

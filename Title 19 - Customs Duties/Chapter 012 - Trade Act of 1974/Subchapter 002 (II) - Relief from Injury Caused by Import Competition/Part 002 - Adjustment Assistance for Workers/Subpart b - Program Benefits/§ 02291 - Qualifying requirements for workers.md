@@ -88,7 +88,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 #### (B) Marketable skills
 
-&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
+&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) andthere is a reasonable expectation of employment at equivalent wages in the foreseeable future.
 
 #### (C) Retirement
 
@@ -136,7 +136,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally tosubchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 2302 of title 20, referred to in subsec. (c)(1)(F), defines the term “area vocational and technical education school” but not the term “area vocational education school”.
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, sub
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
-1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
+1986—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 thenumber of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
 
 Subsec. (a)(5). Pub. L. 99–272, §13003(a)(1), added par. (5).
 

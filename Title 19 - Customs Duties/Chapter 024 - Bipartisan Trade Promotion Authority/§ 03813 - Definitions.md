@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) Agreement on Safeguards
 
-&emsp;The term “Agreement on Safeguards<sup>1</sup> means the agreement referred to in section 3511(d)(12) <sup>2</sup> of this title.
+&emsp;The term “Agreement on Safeguards <sup>1</sup> means the agreement referred to in section 3511(d)(12) <sup>2</sup> of this title.
 
 #### (2) <sup>3</sup> Agreement on Subsidies and Countervailing Measures
 
@@ -87,14 +87,4 @@ In this chapter:
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3802 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by closing quotation marks.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “section 3511(d)(13)”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(3)”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “section 3511(d)(12)”.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be closing quotation marks.</i>
 

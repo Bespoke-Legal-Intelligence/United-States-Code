@@ -8,7 +8,7 @@ The Secretary shall establish an advisory committee to be known as the “Adviso
 
 The Advisory Committee shall—
 
-&emsp;(1) provide advice and recommendations to the Secretary concerning grants and projects awarded or funded under section 300b–8 of this title;
+&emsp;(1) provide advice and recommendations to the Secretary concerning grants and projectsawarded or funded under section 300b–8 of this title;
 
 &emsp;(2) provide technical information to the Secretary for the development of policies and priorities for the administration of grants under section 300b–8 of this title; and
 

@@ -52,7 +52,7 @@ In any action under subsection (a) of this section, the franchisee shall have th
 
 #### (e) Discretionary power of court to compel continuation or renewal of franchise relationship; grounds for noncompulsion; right of franchisee to actual damages and attorney and expert witness fees unaffected
 
-(1) In any action under subsection (a) of this section with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of section 2802 of this title, the court may not compel a continuationor renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—
+(1) In any action under subsection (a) of this section with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of section 2802 of this title, the court may not compel a continuation or renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—
 
 &emsp;(A) the basis for such nonrenewal is a determination made by the franchisor in good faith and in the normal course of business—
 

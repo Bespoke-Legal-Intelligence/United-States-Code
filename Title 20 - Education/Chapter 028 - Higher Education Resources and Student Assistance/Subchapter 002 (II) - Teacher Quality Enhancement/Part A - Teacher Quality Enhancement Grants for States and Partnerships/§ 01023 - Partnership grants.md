@@ -44,7 +44,7 @@ From amounts made available under section 1030(2) of this title for a fiscal yea
 
 Each eligible partnership desiring a grant under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each such application shall—
 
-&emsp;(1) contain a needs assessment of all the partners with respect to teaching and learning and a description of how the partnership will coordinate with other teacher training or professional development programs, and how theactivities of the partnership will be consistent with State, local, and other education reform activities that promote student achievement;
+&emsp;(1) contain a needs assessment of all the partners with respect to teaching and learning and a description of how the partnership will coordinate with other teacher training or professional development programs, and how the activities of the partnership will be consistent with State, local, and other education reform activities that promote student achievement;
 
 &emsp;(2) contain a resource assessment that describes the resources available to the partnership, the intended use of the grant funds, including a description of how the grant funds will be fairly distributed in accordance with subsection (f) of this section, and the commitment of the resources of the partnership to the activities assisted under this part, including financial support, faculty participation, time commitments, and continuation of the activities when the grant ends; and
 

@@ -80,7 +80,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(vi) any payment made under chapter 41 of title 5, United States Code, or
 
-&emsp;&emsp;&emsp;(vii) any payment or reimbursement of traveling expenses for travel solely from one point in the United States to another point in the United States, but only if such payment or reimbursement does not exceed the actual cost of the transportation involved plus an amount for all other traveling expenses not in excess of 125 percent of the maximum amount payable under section 5702 of title 5, United States Code, for like travel by employees of the United States; and
+&emsp;&emsp;&emsp;(vii) any payment or reimbursement of traveling expenses for travel solely from one point in the United States to another point in the United States, but only if such payment or reimbursement does not exceed the actual cost of the transportationinvolved plus an amount for all other traveling expenses not in excess of 125 percent of the maximum amount payable under section 5702 of title 5, United States Code, for like travel by employees of the United States; and
 
 &emsp;&emsp;(H) the leasing by a disqualified person to a private foundation of office space for use by the foundation in a building with other tenants who are not disqualified persons shall not be treated as an act of self-dealing if—
 
@@ -156,7 +156,7 @@ Amendment by section 122(a)(2)(A) of Pub. L. 99–514 applicable to prizes and a
 
 Amendment by section 1812(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2,1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 
@@ -182,7 +182,7 @@ General Rule.—Section 4941 of the Internal Revenue Code of 1986 \[formerly I.R
 
 &emsp;“(2) the purchaser of such stock did not make any contribution to such foundation at any time during the 5-year period ending on the date of such purchase,
 
-&emsp;“(3) the aggregate contributions to such foundation by the purchaser before such date were less than$10,000 and less than 2 percent of the total contributions received by the foundation as of such date, and
+&emsp;“(3) the aggregate contributions to such foundation by the purchaser before such date were less than $10,000 and less than 2 percent of the total contributions received by the foundation as of such date, and
 
 &emsp;“(4) such purchase was pursuant to the settlement of litigation involving the purchaser.
 

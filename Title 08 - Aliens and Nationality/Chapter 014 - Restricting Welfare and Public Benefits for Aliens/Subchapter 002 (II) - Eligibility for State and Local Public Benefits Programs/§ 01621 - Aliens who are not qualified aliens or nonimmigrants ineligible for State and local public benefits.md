@@ -22,7 +22,7 @@ Subsection (a) of this section shall not apply with respect to the following Sta
 
 &emsp;(3) Public health assistance for immunizations with respect to immunizable diseases and for testing and treatment of symptoms of communicable diseases whether or not such symptoms are caused by a communicable disease.
 
-&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, orthe cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
+&emsp;(4) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (C) are necessary for the protection of life or safety.
 
 #### (c) “State or local public benefit” defined
 

@@ -1,14 +1,28 @@
 ### §1074. Medical and dental care for members and certain former members
 
-(a) Under joint regulations to be prescribed by the administering Secretaries, a member of a uniformed service who is on active duty is entitled to medical and dental care in any facility of any uniformed service.
+(a)(1) Under joint regulations to be prescribed by the administering Secretaries, a member of a uniformed service described in paragraph (2) is entitled to medical and dental care in any facility of any uniformed service.
+
+(2) Members of the uniformed services referred to in paragraph (1) are as follows:
+
+&emsp;(A) A member of a uniformed service on active duty.
+
+&emsp;(B) A member of a reserve component of a uniformed service who has been commissioned as an officer if—
+
+&emsp;&emsp;(i) the member has requested orders to active duty for the member's initial period of active duty following the commissioning of the member as an officer;
+
+&emsp;&emsp;(ii) the request for orders has been approved;
+
+&emsp;&emsp;(iii) the orders are to be issued but have not been issued; and
+
+&emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
 (b) Under joint regulations to be prescribed by the administering Secretaries, a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay may, upon request, be given medical and dental care in any facility of any uniformed service, subject to the availability of space and facilities and the capabilities of the medical and dental staff. The administering Secretaries may, with the agreement of the Secretary of Veterans Affairs, provide care to persons covered by this subsection in facilities operated by the Secretary of Veterans Affairs and determined by him to be available for this purpose on a reimbursable basis at rates approved by the President.
 
-(c)(1) Funds appropriated to a military department, the Department of Transportation (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
+(c)(1) Funds appropriated to a military department, the Department of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy), or the Department of Health and Human Services (with respect to the National Oceanic and Atmospheric Administration and the Public Health Service) may be used to provide medical and dental care to persons entitled to such care by law or regulations, including the provision of such care (other than elective private treatment) in private facilities for members of the uniformed services. If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program.
 
 (2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
 
-(B) The Secretary of Defense shall enter into arrangements with contractors under theTRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
+(B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
 
 (C) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this paragraph.
 
@@ -30,7 +44,17 @@
 
 &emsp;(iv) Any other permanent duty designated by the Secretary concerned for purposes of this paragraph.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185.)
+(d)(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is covered by such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
+
+&emsp;(A) the date of the issuance of such order; or
+
+&emsp;(B) 90 days before the date on which the period of active duty is to commence under such order for that member.
+
+(2) In this subsection, the term “delayed-effective-date active-duty order” means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
+
+(3) This subsection shall cease to be effective on December 31, 2004.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530.)
 
 Historical and Revision Notes
 
@@ -63,6 +87,24 @@ Provisions similar to those in subsec. (c) of this section were contained in Pub
 A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §708, inserted “(1)” after “(a)”, substituted “described in paragraph (2)” for “who is on active duty”, and added par. (2).
+
+Subsec. (d). Pub. L. 108–136, §703, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+
+“(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is covered by such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
+
+&emsp;“(A) the date of the issuance of such order; or
+
+&emsp;“(B) 90 days before date on which the period of active duty is to commence under such order for that member.
+
+“(2) In this subsection, the term ‘delayed-effective-date active-duty order’ means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
+
+“(3) This section shall cease to be effective on September 30, 2004.”
+
+Pub. L. 108–106 added subsec. (d).
+
+2002—Subsec. (c)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2000—Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)(A)\], substituted “uniformed services” for “armed forces” in pars. (1), (2)(A), and (3)(B).
 
@@ -104,6 +146,10 @@ Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Heal
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–186, provided that: “The amendments made by subsections (a)(1) and (b)(1) \[amending this section and section 1079 of this title\] shall take effect on October 1, 2001.”
@@ -131,6 +177,56 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Delegation of Functions
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+
+#### Disclosure of Information on Project 112 to Department of Veterans Affairs
+
+Pub. L. 107–314, div. A, title VII, §709, Dec. 2, 2002, 116 Stat. 2586, provided that:
+
+“(a)
+
+Plan for Disclosure of Information.—Not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall submit to Congress and the Secretary of Veterans Affairs a comprehensive plan for the review, declassification, and submittal to the Department of Veterans Affairs of all records and information of the Department of Defense on Project 112 that are relevant to the provision of benefits by the Secretary of Veterans Affairs to members of the Armed Forces who participated in that project.
+
+“(b)
+
+Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shall be the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
+
+“(2) The plan shall provide for completion of all activities contemplated by the plan not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
+
+“(c)
+
+Identification of Other Projects or Tests.—The Secretary of Defense also shall work with veterans and veterans service organizations to identify other projects or tests conducted by the Department of Defense that may have exposed members of the Armed Forces to chemical or biological agents.
+
+“(d) GAO
+
+Reports on Plan and Implementation.—(1) Not later than 30 days after submission of the plan under subsection (a), the Comptroller General shall submit to Congress a report reviewing the plan. The report shall include an examination of whether adequate resources have been committed, the timeliness of the information to be released to the Department of Veterans Affairs, and the adequacy of the procedures to notify affected veterans of potential exposure.
+
+“(2) Not later than six months after implementation of the plan begins, the Comptroller General shall submit to Congress a report evaluating the progress in the implementation of the plan.
+
+“(e) DOD
+
+Reports on Implementation.—(1) Not later than six months after the date of the enactment of this Act \[Dec. 2, 2002\], and upon completion of all activities contemplated by the plan under subsection (a), the Secretary of Defense shall submit to Congress and the Secretary of Veterans Affairs a report on progress in the implementation of the plan.
+
+“(2) Each report under paragraph (1) shall include, for the period covered by such report—
+
+&emsp;“(A) the number of records reviewed;
+
+&emsp;“(B) each test, if any, under Project 112 identified during such review;
+
+&emsp;“(C) for each test so identified—
+
+&emsp;&emsp;“(i) the test name;
+
+&emsp;&emsp;“(ii) the test objective;
+
+&emsp;&emsp;“(iii) the chemical or biological agent or agents involved; and
+
+&emsp;&emsp;“(iv) the number of members of the Armed Forces, and civilian personnel, potentially effected by such test; and
+
+&emsp;“(D) the extent of submittal of records and information to the Secretary of Veterans Affairs under this section.
+
+“(f)
+
+Project 112.—For purposes of this section, Project 112 refers to the chemical and biological weapons vulnerability-testing program of the Department of Defense conducted by the Deseret Test Center from 1963 to 1969. The project included the Shipboard Hazard and Defense (SHAD) project of the Navy.”
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
@@ -188,7 +284,7 @@ Duty Assignments Covered.—A duty assignment referred to in subsection (c)(1) m
 
 &emsp;“(1) Permanent duty as a recruiter.
 
-&emsp;“(2) Permanent duty at an educational institution to instruct, administer a program of instruction, orprovide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
+&emsp;“(2) Permanent duty at an educational institution to instruct, administer a program of instruction, or provide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
 
 &emsp;“(3) Permanent duty as a full-time adviser to a unit of a reserve component of the uniformed services.
 
@@ -310,7 +406,7 @@ Establishment of Program.—The Secretary of Defense and the Secretary of Vetera
 
 Funding.—Of the funds authorized to be appropriated in section 201(1) \[111 Stat. 1655\] for research, development, test, and evaluation for the Army, the sum of $4,500,000 shall be available for program element 62787A (medical technology) in the budget of the Department of Defense for fiscal year 1998 to carry out the clinical trials program established pursuant to subsection (b).”
 
-Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513, provided that:
+Pub. L. 103–337, div. A, title VII, §§721, 722, Oct. 5, 1994, 108 Stat. 2804, 2807, as amended by Pub. L. 104–106, div. A, title XV, §1504(a)(4), (5), Feb. 10, 1996, 110 Stat. 513; Pub. L. 108–136, div. A, title X, §1031(e), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 #### “SEC. 721. PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.
 
@@ -364,7 +460,7 @@ Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who
 
 Revision of the Physical Evaluation Board Criteria.—(1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Health and Human Services, shall ensure that case definitions of Persian Gulf related illnesses, as well as the Physical Evaluation Board criteria used to set disability ratings for members no longer medically qualified for continuation on active duty, are established as soon as possible to permit accurate disability ratings related to a diagnosis of Persian Gulf illnesses.
 
-“(2) Until revised disability criteria can be implemented and members of the Armed Forces can be ratedagainst those criteria, the Secretary of Defense shall ensure—
+“(2) Until revised disability criteria can be implemented and members of the Armed Forces can be rated against those criteria, the Secretary of Defense shall ensure—
 
 &emsp;“(A) that any member of the Armed Forces on active duty who may be suffering from a Persian Gulf-related illness is afforded continued military medical care; and
 
@@ -380,17 +476,7 @@ Review of Records and Rerating of Previously Discharged Gulf War Veterans.—(1)
 
 Persian Gulf Illness Medical Referral Centers.—The Secretary of Defense shall evaluate the feasibility of establishing one or more medical referral centers to provide uniform, coordinated medical care for Persian Gulf veterans on active duty who are or may be suffering from a Persian Gulf-related illness. The Secretary shall submit a report on such feasibility to the Committees on Armed Services of the Senate and House of Representatives not later than six months after the date of the enactment of this Act \[Oct. 5, 1994\].
 
-“(h)
-
-Annual Report to Congress.—(1) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report on—
-
-&emsp;“(A) efforts taken and results achieved in notifying members of the Armed Forces and their families as part of the outreach program required by subsection (a);
-
-&emsp;“(B) efforts taken to revise the Physical Evaluation Board disability rating criteria and interim efforts to adjudicate cases before the revision of the criteria; and
-
-&emsp;“(C) results of the review and rerating of previously separated servicemembers.
-
-“(2) The first report under paragraph (1) shall be submitted not later than 120 days after the date of the enactment of this Act \[Oct. 5, 1994\].
+“\[(h) Repealed. Pub. L. 108–136, div. A, title X, §1031(e), Nov. 24, 2003, 117 Stat. 1604.\]
 
 “(i)
 
@@ -400,7 +486,7 @@ Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is 
 
 “(a)
 
-In General.—The Secretary of Defense, in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services, shall conduct studies and administer grants for studies to determine—
+In General.—The Secretary of Defense, in coordination with the Secretary of Veterans Affairs andthe Secretary of Health and Human Services, shall conduct studies and administer grants for studies to determine—
 
 &emsp;“(1) the nature and causes of illnesses suffered by individuals as a consequence of service or employment by the United States in the Southwest Asia theater of operations during the Persian Gulf War; and
 
@@ -476,11 +562,11 @@ Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 241
 
 #### Study on Risk-Sharing Contracts for Health Care
 
-Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
+Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contractsin accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
 
 #### Registry of Members of Armed Forces Serving in Operation Desert Storm
 
-Pub. L. 102–190, div. A, title VII, §734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, §704, Nov. 4, 1992, 106 Stat. 4977, provided that:
+Pub. L. 102–190, div. A, title VII, §734, Dec. 5, 1991, 105 Stat. 1411, as amended by Pub. L. 102–585, title VII, §704, Nov. 4, 1992, 106 Stat. 4977; Pub. L. 108–136, div. A, title X, §1031(c)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(a)
 
@@ -504,13 +590,7 @@ Contents of Registry.—(1) The Registry shall include—
 
 “(2) The Secretary shall establish the Registry with the advice of an independent scientific organization.
 
-“(c)
-
-Reporting Requirement Relating to Exposure Studies.—The Secretary shall submit to Congress each year, at or about the time that the President's budget is submitted that year under section 1105 of title 31, United States Code, a report regarding—
-
-&emsp;“(1) the results of all on-going studies on the members referred to in subsection (a)(1) to determine the health consequences (including any short- or long-term consequences) of the exposure of such members to the fumes of burning oil; and
-
-&emsp;“(2) the need for additional studies relating to the exposure of such members to such fumes.
+“\[(c) Repealed. Pub. L. 108–136, div. A, title X, §1031(c)(1), Nov. 24, 2003, 117 Stat. 1604.\]
 
 “(d)
 
@@ -582,5 +662,5 @@ Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, which established the Special O
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1078a, 1079, 1086, 1087, 1095, 1095a, 1097, 1097a, 1108 of this title; title 38 section 8111; title 42 section 1395ggg.
+This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1076b, 1078a, 1079, 1086, 1087, 1095, 1095a, 1097, 1097a, 1108 of this title; title 38 section 8111; title 42 section 1395ggg.
 

@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (7) Time of notice to Secretary
 
-&emsp;A plan shall not be a qualified group legal services plan for any period prior to the time notification was provided to the Secretary in accordance with subsection (c)(4), if such notice is given after the time prescribed by the Secretary by regulations for giving such notice.
+&emsp;A plan shall not be a qualified group legal services plan for any period prior to the timenotification was provided to the Secretary in accordance with subsection (c)(4), if such notice is given after the time prescribed by the Secretary by regulations for giving such notice.
 
 #### (e) Termination
 
@@ -106,7 +106,7 @@ Subsec. (c)(2). Pub. L. 100–647, §1011B(a)(31)(B), substituted “there shall
 
 Subsec. (e). Pub. L. 100–647, §4002(a), substituted “1988” for “1987”.
 
-1986—Subsec. (b). Pub. L. 99–514, §1151(c)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of this section, a qualified group legal services plan is a separate written planof an employer for the exclusive benefit of his employees or their spouses or dependents to provide such employees, spouses, or dependents with specified benefits consisting of personal legal services through prepayment of, or provision in advance for, legal fees in whole or in part by the employer, if the plan meets the requirements of subsection (c).”
+1986—Subsec. (b). Pub. L. 99–514, §1151(c)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of this section, a qualified group legal services plan is a separate written plan of an employer for the exclusive benefit of his employees or their spouses or dependents to provide such employees, spouses, or dependents with specified benefits consisting of personal legal services through prepayment of, or provision in advance for, legal fees in whole or in part by the employer, if the plan meets the requirements of subsection (c).”
 
 Subsec. (c)(1). Pub. L. 99–514, §1114(b)(3)(A), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, shareholders, self-employed individuals, or highly compensated”.
 

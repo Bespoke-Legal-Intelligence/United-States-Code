@@ -46,7 +46,7 @@ A prior section 319 of Pub. L. 85–699, which amended section 80a–18 of this 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+1996—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out “, including companies operating under theauthority of section 681(d) of this title,” after “investment companies”.
 
 Subsec. (f)(1). Pub. L. 104–208, §205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
 

@@ -46,7 +46,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (1) In general
 
-&emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock onaccount of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
+&emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
 
 &emsp;&emsp;(A) such earnings and profits shall be determined as if section 312 were applied for such taxable year (and all preceding consolidated years of the member with respect to such group) without regard to subsections (k) and (n) thereof, and
 
@@ -110,7 +110,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (B) Group credit item
 
-&emsp;&emsp;The term “group credit item” means any credit allowable under part IV of subchapter A of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
+&emsp;&emsp;The term “group credit item” means any credit allowable under part IV of subchapterA of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
 
 #### (3) Other definitions
 
@@ -144,7 +144,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (4) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the provisions of this subsection, including regulations—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection, including regulations—
 
 &emsp;&emsp;(A) to prevent the avoidance of this subsection through the transfer of built-in losses to the subsidiary,
 
@@ -194,7 +194,7 @@ Subsec. (c). Pub. L. 94–455, §1507(b)(3), added subsec. (c).
 
 1964—Subsec. (a). Pub. L. 88–272, §234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
 
-Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
+Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more WesternHemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
 
 Subsec. (c). Pub. L. 88–272, §234(b)(1), struck out subsec. (c) which defined regulated public utility. See section 7701(a)(33) of this title.
 
@@ -226,7 +226,7 @@ Special rule when subsidiary leaves group.—If, by reason of a transaction afte
 
 Retired stock.—
 
-&emsp;“(A) Except as provided in subparagraph (B), if stock issued before November 18, 1989, (or described in paragraph (2)), is retired or acquired after November 17, 1989, by the corporation or another member of the same affiliated group, such stock shall be treated, forpurposes of section 1503(f)(3)(D) of such Code, as issued on the date of such retirement or acquisition.
+&emsp;“(A) Except as provided in subparagraph (B), if stock issued before November 18, 1989, (or described in paragraph (2)), is retired or acquired after November 17, 1989, by the corporation or another member of the same affiliated group, such stock shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such retirement or acquisition.
 
 &emsp;“(B) Subparagraph (A) shall not apply to any retirement or acquisition pursuant to an obligation to reissue under a binding written contract in effect on November 17, 1989, and at all times thereafter before such retirement or acquisition.
 

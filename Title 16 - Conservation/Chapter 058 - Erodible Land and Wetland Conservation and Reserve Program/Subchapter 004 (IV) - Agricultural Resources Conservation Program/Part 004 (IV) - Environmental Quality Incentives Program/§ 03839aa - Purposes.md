@@ -14,7 +14,7 @@ The purposes of the environmental quality incentives program established by this
 
 &emsp;(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
 
-&emsp;(4) assisting producers to make beneficial, cost effective changes to cropping systems,grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and
+&emsp;(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and
 
 &emsp;(5) consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.
 

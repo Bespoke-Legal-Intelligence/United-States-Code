@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an account in the House of Representatives for purposes of making payments of the House of Representatives to the Employees’ Compensation Fund under section 8147 of title 5.
+There is hereby established an account in the House of Representatives for purposes of making payments of the House of Representatives to theEmployees’ Compensation Fund under section 8147 of title 5.
 
 #### (b) Payments made from account
 

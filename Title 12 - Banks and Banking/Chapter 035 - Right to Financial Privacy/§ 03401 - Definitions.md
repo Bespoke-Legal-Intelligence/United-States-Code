@@ -2,7 +2,7 @@
 
 For the purpose of this chapter, the term—
 
-&emsp;(1) “financial institution” means any office of a bank, savings bank, card issuer as defined in section 1602(n) of title 15, industrial loan company, trust company, savings association, building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
+&emsp;(1) “financial institution”, except as provided in section 3414 of this title, means any office of a bank, savings bank, card issuer as defined in section 1602(n) of title 15, industrial loan company, trust company, savings association, building and loan, or homestead association (including cooperative banks), credit union, or consumer finance institution, located in any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, or the Virgin Islands;
 
 &emsp;(2) “financial record” means an original of, a copy of, or information known to have been derived from, any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 
@@ -42,7 +42,7 @@ For the purpose of this chapter, the term—
 
 &emsp;(8) “law enforcement inquiry” means a lawful investigation or official proceeding inquiring into a violation of, or failure to comply with, any criminal or civil statute or any regulation, rule, or order issued pursuant thereto.
 
-(Pub. L. 95–630, title XI, §1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, §744(b), title IX, §941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, §2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, §727(b)(1), Nov. 12, 1999, 113 Stat. 1475.)
+(Pub. L. 95–630, title XI, §1101, Nov. 10, 1978, 92 Stat. 3697; Pub. L. 101–73, title VII, §744(b), titleIX, §941, Aug. 9, 1989, 103 Stat. 438, 496; Pub. L. 101–647, title XXV, §2596(c), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 106–102, title VII, §727(b)(1), Nov. 12, 1999, 113 Stat. 1475; Pub. L. 108–177, title III, §374(b), Dec. 13, 2003, 117 Stat. 2628.)
 
 #### References in Text
 
@@ -55,6 +55,8 @@ The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508
 In par. (7)(H), “the Bank Secrecy Act (Public Law 91–508, title I) \[12 U.S.C. 1951 et seq.\] and subchapter II of chapter 53 of title 31” substituted for “the Bank Secrecy Act \[12 U.S.C. 1951 et seq.\] and the Currency and Foreign Transactions Reporting Act \[31 U.S.C. 1051 et seq.\] (Public Law 91–508, title I and II)”, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2003—Par. (1). Pub. L. 108–177 inserted “, except as provided in section 3414 of this title,” before “means any office”.
 
 1999—Par. (7)(G) to (I). Pub. L. 106–102 added subpar. (G) and redesignated former subpars. (G) and (H) as (H) and (I), respectively.
 

@@ -20,7 +20,7 @@
 
 (c) For purposes of this section, the term “federally recognized Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2182, §1515; amended Pub. L. 100–689, title II, §201, Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3115, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §602(a), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2182, §1515; amended Pub. L.100–689, title II, §201, Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3115, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §602(a), Nov. 2, 1994, 108 Stat. 4671.)
 
 #### References in Text
 

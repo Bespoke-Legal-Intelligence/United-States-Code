@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 &emsp;“(2) unless effective measures are promptly taken by the Federal Government and other users of energy to reduce the rate of growth of demand for energy, the United States will become increasingly dependent on the world oil market, increasingly vulnerable to interruptions of foreign oil supplies, and unable to provide the energy to meet future needs; and
 
-&emsp;“(3) all sectors of our Nation's economy must begin immediately to significantly reduce the demand fornonrenewable energy resources such as oil and natural gas by implementing and maintaining effective conservation measures for the efficient use of these and other energy sources.”
+&emsp;“(3) all sectors of our Nation's economy must begin immediately to significantly reduce the demand for nonrenewable energy resources such as oil and natural gas by implementing and maintaining effective conservation measures for the efficient use of these and other energy sources.”
 
 #### Short Title of 1988 Amendment
 

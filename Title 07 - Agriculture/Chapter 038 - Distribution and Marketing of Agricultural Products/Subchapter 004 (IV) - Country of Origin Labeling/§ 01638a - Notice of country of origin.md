@@ -42,7 +42,7 @@ Subsection (a) of this section shall not apply to a covered commodity if the cov
 
 #### (1) In general
 
-&emsp;The information required by subsection (a) of this section may be provided to consumers by means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
+&emsp;The information required by subsection (a) of this section may be provided to consumersby means of a label, stamp, mark, placard, or other clear and visible sign on the covered commodity or on the package, display, holding unit, or bin containing the commodity at the final point of sale to consumers.
 
 #### (2) Labeled commodities
 

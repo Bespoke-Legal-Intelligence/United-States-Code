@@ -68,7 +68,7 @@ An eligible State or eligible partnership that receives a grant under this part 
 
 #### (e) Teacher qualifications provided to parents upon request
 
-Any local educational agency or school that benefits from the activities assisted under this part shall make available, upon request and in an understandable and uniform format, to any parent of a student attending any school served by the local educational agency, information regarding the qualification of the student's classroom teacher with regard to the subject matter in which the teacher provides instruction. The local educational agency shall inform parents that the parents are entitled to receive the information upon request.
+Any local educational agency or school that benefits from the activities assisted under thispart shall make available, upon request and in an understandable and uniform format, to any parent of a student attending any school served by the local educational agency, information regarding the qualification of the student's classroom teacher with regard to the subject matter in which the teacher provides instruction. The local educational agency shall inform parents that the parents are entitled to receive the information upon request.
 
 (Pub. L. 89–329, title II, §205, as added Pub. L. 105–244, title II, §201, Oct. 7, 1998, 112 Stat. 1628; amended Pub. L. 107–110, title X, §1051(2), Jan. 8, 2002, 115 Stat. 2080.)
 

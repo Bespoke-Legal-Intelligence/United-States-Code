@@ -50,7 +50,7 @@
 
 #### (4) Application of current standards during accreditation
 
-&emsp;A Bureau-funded school that is seeking accreditation shall remain subject to the standards issued under this section <sup>1</sup> and in effect on the day before January 8, 2002, until such time as the school is accredited, except that if any of such standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.
+&emsp;A Bureau-funded school that is seeking accreditation shall remain subject to the standards issued under this section <sup>1</sup> and in effect on the day before January 8, 2002, until such timeas the school is accredited, except that if any of such standards are in conflict with the standards of the accrediting agency, the standards of such agency shall apply in such case.
 
 #### (5) Annual report on unaccredited schools
 
@@ -128,7 +128,7 @@
 
 #### (B) Waiver
 
-&emsp;&emsp;The Secretary shall grant a waiver which shall exempt a school from any or all of therequirements of this paragraph and paragraph (7) (though such school shall be required to comply with the standards contained in part 36 of title 25, Code of Federal Register,<sup>2</sup> as in effect on January 8, 2002) if the school—
+&emsp;&emsp;The Secretary shall grant a waiver which shall exempt a school from any or all of the requirements of this paragraph and paragraph (7) (though such school shall be required to comply with the standards contained in part 36 of title 25, Code of Federal Register,<sup>2</sup> as in effect on January 8, 2002) if the school—
 
 &emsp;&emsp;&emsp;(i) is identified in the report described in paragraph (5)(C); and
 
@@ -178,7 +178,7 @@
 
 #### (ii) Outside entity
 
-&emsp;&emsp;&emsp;If the corrective action described in clause (i) does not result in accreditation of the school, the Secretary, in conjunction with the tribal governing body, maycontract with an outside entity to operate the school in order to achieve accreditation of the school within 2 school years. Prior to entering into such a contract, the Secretary shall develop a proposal for such operation which shall include, at a minimum, the following elements:
+&emsp;&emsp;&emsp;If the corrective action described in clause (i) does not result in accreditation of the school, the Secretary, in conjunction with the tribal governing body, may contract with an outside entity to operate the school in order to achieve accreditation of the school within 2 school years. Prior to entering into such a contract, the Secretary shall develop a proposal for such operation which shall include, at a minimum, the following elements:
 
 &emsp;&emsp;&emsp;&emsp;(I) The identification of one or more outside entities each of which has demonstrated to the Secretary its ability to develop a satisfactory plan for achieving accreditation and its willingness and availability to undertake such a plan.
 
@@ -220,7 +220,7 @@
 
 #### (2) Plan
 
-&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards, specific cost estimates for meeting such standards at each school, and specific timelines for bringing each school up to the level required by such standards.
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress, all Bureau-funded schools, and the tribal governing bodies of such schools a detailed plan to ensure that all Bureau-funded schools are accredited, or if such schools are in the process of obtaining accreditation that such schools meet the Bureau standards in effect on the day before January 8, 2002, to the extent that such standards do not conflict with the standards of the accrediting agency. Such plan shall include detailed information on the status of each school's educational program in relation to the applicable standards, specific cost estimates for meeting such standards ateach school, and specific timelines for bringing each school up to the level required by such standards.
 
 #### (d) Closure or consolidation of schools
 
@@ -236,7 +236,7 @@
 
 &emsp;This subsection (other than this paragraph) shall not apply—
 
-&emsp;&emsp;(A) in those cases in which the tribal governing body for a school, or the local schoolboard concerned (if designated by the tribal governing body to act under this paragraph), requests the closure, consolidation, or substantial curtailment; or
+&emsp;&emsp;(A) in those cases in which the tribal governing body for a school, or the local school board concerned (if designated by the tribal governing body to act under this paragraph), requests the closure, consolidation, or substantial curtailment; or
 
 &emsp;&emsp;(B) if a temporary closure, consolidation, or substantial curtailment is required by facility conditions that constitute an immediate hazard to health and safety.
 
@@ -308,7 +308,7 @@
 
 #### (ii) No denial based on geographic proximity
 
-&emsp;&emsp;&emsp;With respect to applications described in this subparagraph, the Secretary shall give consideration to all factors described in subparagraph (B), but no such application shall be denied based primarily upon the geographic proximity of comparable public education.
+&emsp;&emsp;&emsp;With respect to applications described in this subparagraph, the Secretary shall give consideration to all factors described insubparagraph (B), but no such application shall be denied based primarily upon the geographic proximity of comparable public education.
 
 #### (B) Factors
 

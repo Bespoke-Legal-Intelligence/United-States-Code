@@ -1,6 +1,6 @@
 ### §1921. Extra hazard costs
 
-(a) The United States shall bear the excess mortality cost and the cost of waiver of premiums on account of total disability traceable to the extra hazard of military or naval service, as such hazard may be determined by the Secretary.
+(a) The United States shall bear the excess mortality cost and the cost of waiver of premiums on account of total disability traceableto the extra hazard of military or naval service, as such hazard may be determined by the Secretary.
 
 (b) Whenever benefits under insurance become payable because of the death of the insured as the result of disease or injury traceable to the extra hazard of military or naval service, as such hazard may be determined by the Secretary, the liability for payment of such benefits shall be borne by the United States in an amount which, when added to the reserve of the policy at the time of death of the insured will equal the then value of such benefits under such policy. Where life contingencies are involved in the calculation of the value of such benefits of insurance heretofore or hereafter matured, the calculation of such liability or liabilities shall be based upon such mortality table or tables as the Secretary may prescribe with interest at the rate of 3 per centum per annum. The Secretary shall transfer from time to time from the National Service Life Insurance appropriation to the National Service Life Insurance Fund such sums as may be necessary to carry out the provisions of this section.
 

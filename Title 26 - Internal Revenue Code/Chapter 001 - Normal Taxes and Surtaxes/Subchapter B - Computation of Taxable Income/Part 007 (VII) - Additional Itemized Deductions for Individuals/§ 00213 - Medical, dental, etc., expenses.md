@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;(2)
 
-Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
+Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential tomedical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
 
 &emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in a licensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
 
@@ -158,9 +158,9 @@ Any expense allowed as a credit under section 21 shall not be treated as an expe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062.)
 
-#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2003
+#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2004
 
-<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2003, see section 3.16 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2004, see section 3.18 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References In Text
 
@@ -218,7 +218,7 @@ Subsec. (d)(8). Pub. L. 98–369, §482(a), redesignated par. (7) as (8).
 
 Subsec. (e). Pub. L. 98–369, §474(r)(9), substituted “section 21” for “section 44A”.
 
-1982—Subsec. (a). Pub. L. 97–248, §202(a), substituted provisions that there shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expensesexceed 5 percent of adjusted gross income, for provision allowing as deductions the amount by which the amount of the expenses paid during the taxable year (reduced by any amount deductible under paragraph (2)) for medical care of the taxpayer, his spouse, and dependents (as defined in section 152) exceeded 3 percent of the adjusted gross income, and an amount (not in excess of $150) equal to one-half of the expenses paid during the taxable year for insurance which constituted medical care for the taxpayer, his spouse, and dependents.
+1982—Subsec. (a). Pub. L. 97–248, §202(a), substituted provisions that there shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expenses exceed 5 percent of adjusted gross income, for provision allowing as deductions the amount by which the amount of the expenses paid during the taxable year (reduced by any amount deductible under paragraph (2)) for medical care of the taxpayer, his spouse, and dependents (as defined in section 152) exceeded 3 percent of the adjusted gross income, and an amount (not in excess of $150) equal to one-half of the expenses paid during the taxable year for insurance which constituted medical care for the taxpayer, his spouse, and dependents.
 
 Subsec. (b). Pub. L. 97–248, §202(b)(1), amended subsec. (b) generally, substituting provision that an amount paid during the taxable year for medicine or a drug shall be taken into account under subsec. (a) only if such medicine or drug is a prescribed drug or is insulin for former provision that amounts paid during the taxable year for medicine and drugs which (but for this subsection) would have been taken into account in computing the deduction under subsec. (a) would be taken into account only to the extent that the aggregate of such amounts exceeded 1 percent of the adjusted gross income.
 
@@ -346,5 +346,5 @@ Section 17(c) of Pub. L. 85–866 provided that: “The amendments made by subse
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 35, 56, 67, 68, 72, 104, 105, 152, 162, 220, 419A, 501, 2503, 4980B, 7702B, 9832 of this title; title 29 section 1167.
+This section is referred to in sections 35, 56, 67, 68, 72, 104, 105, 152, 162, 220, 223, 419A, 501, 2503, 4980B, 6041, 7702B, 9832 of this title; title 29 section 1167.
 

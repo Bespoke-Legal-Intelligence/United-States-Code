@@ -2,7 +2,7 @@
 
 #### (a) Presidential
 
-The Director, each member of the Board, and the Commissioner for Education Statistics may be removed by the President prior to the expiration of the term of each such appointee.
+The Director, each member of the Board, and the Commissioner for Education Statistics maybe removed by the President prior to the expiration of the term of each such appointee.
 
 #### (b) Director
 

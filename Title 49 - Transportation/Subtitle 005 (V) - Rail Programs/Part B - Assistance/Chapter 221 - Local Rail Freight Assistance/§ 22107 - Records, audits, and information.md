@@ -2,7 +2,7 @@
 
 (a)
 
-Records.—Each recipient of financial assistance through an arrangement under thischapter shall keep records required by the Secretary of Transportation. The records shall be kept for 3 years after a project is completed and shall disclose—
+Records.—Each recipient of financial assistance through an arrangement under this chapter shall keep records required by the Secretary of Transportation. The records shall be kept for 3 years after a project is completed and shall disclose—
 
 &emsp;(1) the amount of, and disposition by the recipient, of the assistance;
 

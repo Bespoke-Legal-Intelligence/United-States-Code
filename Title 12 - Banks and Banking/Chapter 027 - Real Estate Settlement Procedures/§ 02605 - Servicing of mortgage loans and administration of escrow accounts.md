@@ -28,7 +28,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (C) Exception for notice provided at closing
 
-&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale,or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
+&emsp;&emsp;The provisions of subparagraphs (A) and (B) shall not apply to any assignment, sale, or transfer of the servicing of any mortgage loan if the person who makes the loan provides to the borrower, at settlement (with respect to the property for which the mortgage loan is made), written notice under paragraph (3) of such transfer.
 
 #### (3) Contents of notice
 

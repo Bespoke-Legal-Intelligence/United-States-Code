@@ -46,7 +46,7 @@ Components of Program.—The program of education for which such a grant is made
 
 &emsp;(1) Multidisciplinary instruction that encompasses the total manufacturing engineering enterprise and that may include—
 
-&emsp;&emsp;(A) manufacturing engineering education and training through classroom activities, laboratory activities, thesis projects, individual or team projects, and visits to industrial facilities, consortia, or centers of excellence in the United States and foreign countries;
+&emsp;&emsp;(A) manufacturing engineering education and training through classroom activities,laboratory activities, thesis projects, individual or team projects, and visits to industrial facilities, consortia, or centers of excellence in the United States and foreign countries;
 
 &emsp;&emsp;(B) faculty development programs;
 

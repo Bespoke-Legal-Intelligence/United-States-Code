@@ -1,6 +1,6 @@
 ### §218. Alaska Highway
 
-(a) Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, the Secretary is authorized out of the funds appropriated for the purpose of this section to provide for necessary reconstruction of such highway. Such appropriations shall remain available until expended. Notwithstanding any other provision of law, in addition to such funds, upon agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. Notwithstanding any other provision of law, any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the Transportation Equity Act for the 21st Century shall not apply to projects authorized by the preceding sentence. No expenditures shall be made for the construction of the portion of such highways that are in Canada until an agreement has been reached by the Government of Canada and the Government of the United States which shall provide, in part, that the Canadian Government—
+(a) Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, the Secretary is authorized out of the funds appropriated for the purpose of this section to provide for necessary reconstruction of such highway. Such appropriations shall remain available until expended. Notwithstanding any other provision of law, in addition to such funds, upon agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. Notwithstanding any other provision of law, any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century shall not apply to projects authorized by the preceding sentence. No expenditures shall be made for the construction of the portion of such highways that are in Canada until an agreement has been reached by the Government of Canada and the Government of the United States which shall provide, in part, that the Canadian Government—
 
 &emsp;(1) will provide, without participation of funds authorized under this title, all necessary right-of-way for the reconstruction of such highways;
 
@@ -14,13 +14,15 @@
 
 (b) The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.
 
-(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468.)
+(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413.)
 
 #### References in Text
 
-The date of the enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The Transportation Equity Act for the 21st Century, referred to in subsec.(a), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–7 inserted “reauthorization of the” before “Transportation”.
 
 1998—Subsec. (a). Pub. L. 105–277, §101(g) \[title III, §316(1)(A)\], substituted “to Haines” for “to the south Alaskan border” in first sentence, substituted “such highway or the Alaska Marine Highway System” for “such highway” in third sentence, substituted “any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the Transportation Equity Act for the 21st Century” for “any other fiscal year thereafter” in fourth sentence, substituted “construction of the portion of such highways that are in Canada until an agreement” for “construction of such highways until an agreement” in fifth sentence.
 
@@ -34,7 +36,7 @@ Subsec. (b). Pub. L. 105–277, §101(g) \[title III, §316(2)\], inserted “in
 
 Pub. L. 94–280, title I, §151, May 5, 1976, 90 Stat. 448, provided that:
 
-“(a) The Secretary of Transportation is authorized to undertake an investigation and study to determine the cost of, and the responsibility for, repairing the damage to Alaska highways that has been or will be caused by heavy truck traffic during construction of the trans-Alaska pipeline and to restore them to proper standards when construction is complete. The Secretary of Transportation shall report his initial findings to the Congress on or before September 30, 1976, and his finalconclusions on rebuilding costs no later than three months after completion of pipeline construction.
+“(a) The Secretary of Transportation is authorized to undertake an investigation and study to determine the cost of, and the responsibility for, repairing the damage to Alaska highways that has been or will be caused by heavy truck traffic during construction of the trans-Alaska pipeline and to restore them to proper standards when construction is complete. The Secretary of Transportation shall report his initial findings to the Congress on or before September 30, 1976, and his final conclusions on rebuilding costs no later than three months after completion of pipeline construction.
 
 “(b) There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to be available until expended, the sum of $200,000 for the purpose of making the study authorized by subsection (a) of this section.”
 

@@ -108,7 +108,7 @@ Section 9134(b) of Pub. L. 100–203 provided that: “The additional $50,000,00
 
 Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
-“(a)(1) Notwithstanding any provision of title XX of the Social Security Act \[this subchapter\], the amountapplicable under section 2003(c)(3) of such Act \[subsec. (c)(3) of this section\] shall be $2,725,000,000 for fiscal year 1985. Of such amount, $25,000,000 shall be allotted and used in accordance with this section.
+“(a)(1) Notwithstanding any provision of title XX of the Social Security Act \[this subchapter\], the amount applicable under section 2003(c)(3) of such Act \[subsec. (c)(3) of this section\] shall be $2,725,000,000 for fiscal year 1985. Of such amount, $25,000,000 shall be allotted and used in accordance with this section.
 
 “(2) In addition to any other amounts appropriated under this resolution \[Pub. L. 98–473\] or any Act, there are hereby appropriated $25,000,000 for fiscal year 1985, for carrying out title XX of the Social Security Act, to be used in accordance with the provisions of this section.
 
@@ -120,7 +120,7 @@ Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
 &emsp;“(1) be used only for the purpose of providing training and retraining (including training in the prevention of child abuse in child care settings) to providers of licensed or registered child care services, operators and staffs (including those receiving in-service training) of facilities where licensed or registered child care services are provided, State licensing and enforcement officials, and parents;
 
-&emsp;“(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts available under title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
+&emsp;“(2) be expended only to supplement the level of any funds that would, in the absence of the additional funds appropriated under this section, be available from other sources (including any amounts availableunder title XX of the Social Security Act \[this subchapter\] without regard to this section) for the purpose specified in paragraph (1), and shall in no case supplant such funds from other sources or reduce the level thereof; and
 
 &emsp;“(3) be separately accounted for in the reports and audits provided for in section 2006 of the Social Security Act \[section 1397e of this title\].
 

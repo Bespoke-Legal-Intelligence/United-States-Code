@@ -36,7 +36,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;The term “qualified natural gas from geopressured brine” means any natural gas—
 
-&emsp;&emsp;&emsp;(i) which is determined in accordance with section 503 of the Natural Gas PolicyAct of 1978 to be produced from geopressured brine, and
+&emsp;&emsp;&emsp;(i) which is determined in accordance with section 503 of the Natural Gas Policy Act of 1978 to be produced from geopressured brine, and
 
 &emsp;&emsp;&emsp;(ii) which is produced from any well the drilling of which began after September 30, 1978, and before January 1, 1984.
 
@@ -116,7 +116,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (E) Stripper well property
 
-&emsp;&emsp;For purposes of this paragraph, the term “stripper well property” means, with respectto any calendar year, any property with respect to which the amount determined by dividing—
+&emsp;&emsp;For purposes of this paragraph, the term “stripper well property” means, with respect to any calendar year, any property with respect to which the amount determined by dividing—
 
 &emsp;&emsp;&emsp;(i) the average daily production of domestic crude oil and domestic natural gas from producing wells on such property for such calendar year, by
 
@@ -144,7 +144,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (A) Production of crude oil in excess of depletable oil quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletableoil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
 
 #### (B) Production of natural gas in excess of depletable natural gas quantity
 
@@ -186,7 +186,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (9) Special rule for fiscal year taxpayers
 
-&emsp;In applying this subsection to a taxable year which is not a calendar year, each portion of such taxable year which occurs during a single calendar year shall be treated as if it were a short taxable year.
+&emsp;In applying this subsection to a taxable year which is not a calendar year, each portion ofsuch taxable year which occurs during a single calendar year shall be treated as if it were a short taxable year.
 
 #### (10) Certain production not taken into account
 

@@ -8,7 +8,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (2) Appropriate Federal banking agency
 
-&emsp;The term “appropriate Federal banking agency” has the same meaning as in section1813 of this title, and also includes the National Credit Union Administration Board with respect to insured credit unions.
+&emsp;The term “appropriate Federal banking agency” has the same meaning as in section 1813 of this title, and also includes the National Credit Union Administration Board with respect to insured credit unions.
 
 #### (3) Affiliate
 
@@ -62,7 +62,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (9) Development services
 
-&emsp;The term “development services” means activities that promote community development and are integral to lending or investment activities, including—
+&emsp;The term “development services” means activities that promote community developmentand are integral to lending or investment activities, including—
 
 &emsp;&emsp;(A) business planning;
 

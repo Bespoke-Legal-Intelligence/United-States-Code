@@ -32,7 +32,7 @@ Operating Expenses.—(1) Not more than $381,000,000 may be appropriated to the 
 
 Mandatory Payments.—(1) Not more than $150,000,000 for the fiscal year ending September 30, 1993, and amounts that may be necessary for the fiscal year ending September 30, 1994, may be appropriated to the Secretary to pay—
 
-&emsp;(A) tax liabilities under section 3221 of the Internal Revenue Code of 1986 (26 U.S.C. 3221) due in those fiscal years that are more than the amount needed for benefits for individualswho retire from Amtrak and for their beneficiaries;
+&emsp;(A) tax liabilities under section 3221 of the Internal Revenue Code of 1986 (26 U.S.C. 3221) due in those fiscal years that are more than the amount needed for benefits for individuals who retire from Amtrak and for their beneficiaries;
 
 &emsp;(B) obligations of Amtrak under section 8(a) of the Railroad Unemployment Insurance Act (45 U.S.C. 358(a)) due in those fiscal years that are more than obligations of Amtrak calculated on an experience-related basis; and
 

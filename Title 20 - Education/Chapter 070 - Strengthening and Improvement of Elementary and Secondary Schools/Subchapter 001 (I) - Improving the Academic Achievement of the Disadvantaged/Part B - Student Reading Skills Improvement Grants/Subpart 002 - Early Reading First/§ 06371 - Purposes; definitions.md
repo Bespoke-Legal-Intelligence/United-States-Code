@@ -22,7 +22,7 @@ The purposes of this subpart are as follows:
 
 &emsp;(4) To use screening assessments to effectively identify preschool age children who may be at risk for reading failure.
 
-&emsp;(5) To integrate such scientific reading research-based instructional materials and literacy activities with existing programs of preschools, child care agencies and programs, Head Start centers, and family literacy services.
+&emsp;(5) To integrate such scientific reading research-based instructional materials and literacy activities with existing programs of preschools, child care agencies and programs,Head Start centers, and family literacy services.
 
 #### (b) Definitions
 

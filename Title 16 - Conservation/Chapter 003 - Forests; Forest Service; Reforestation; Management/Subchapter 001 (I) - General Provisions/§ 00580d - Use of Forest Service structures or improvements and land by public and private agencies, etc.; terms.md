@@ -10,7 +10,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Conveyance of Excess Forest Service Structures
 
-Pub. L. 107–63, title III, §329, Nov. 5, 2001, 115 Stat. 471, provided that:
+Pub. L. 107–63, title III, §329, Nov. 5, 2001, 115 Stat. 471, as amended by Pub. L. 108–7, div. F, title III, §325, Feb. 20, 2003, 117 Stat. 275; Pub. L. 108–108, title III, §322, Nov. 10, 2003, 117 Stat. 1307, provided that:
 
 “(a)
 
@@ -18,17 +18,17 @@ Pilot Program Authorizing Conveyance of Excess Forest Service Structures.—The 
 
 “(b)
 
-Limitation.—Conveyances on not more than 10 sites may be made under the authority of this section, and the Secretary of Agriculture shall obtain the concurrence of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate in advance of each conveyance.
+Limitation.—Conveyances on not more than 30 sites may be made under the authority of this section, and the Secretary of Agriculture shall obtain the concurrence of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate in advance of each conveyance.
 
 “(c)
 
-Use of Proceeds.—The proceeds derived from the sale of a building or other structure under this section shall be retained by the Secretary of Agriculture and shall be available to the Secretary, without further appropriation until expended, for maintenance and rehabilitation activities within the Forest Service Region in which the building or structure is located.
+Use of Proceeds.—The proceeds derived from the sale of a building or other structure under this section shall be retained by the Secretary of Agriculture and shall be available to the Secretary, without further appropriation until expended, for maintenance and rehabilitation activities within the Forest Service Region in which the building or structure is located. Additionally, proceeds from the sale of conveyances on no more than 8 sites shall be available for construction of replacement facilities.
 
 “(d)
 
-Duration of Authority.—The authority provided by this section expires on September 30, 2005.”
+Duration of Authority.—The authority provided by this section expires on September 30, 2007.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 580k of this title.
+This section is referred to in sections 580k, 6232, 6235 of this title.
 

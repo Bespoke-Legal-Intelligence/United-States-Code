@@ -12,7 +12,7 @@ Whenever the Commission has reason to believe that a person has become subject t
 
 On the request of the Commission, the Attorney General is authorized to institute a civil action to collect a penalty imposed pursuant to this section. The Attorney General shall have the exclusive power to compromise, mitigate, or remit such civil penalties as are referred to him for collection.
 
-(Aug. 1, 1946, ch. 724, title I, §234, as added Pub. L. 91–161, §4, Dec. 24, 1969, 83 Stat. 444; amendedPub. L. 96–295, title II, §206, June 30, 1980, 94 Stat. 787; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 104–134, title III, §3116(d), Apr. 26, 1996, 110 Stat. 1321–350.)
+(Aug. 1, 1946, ch. 724, title I, §234, as added Pub. L. 91–161, §4, Dec. 24, 1969, 83 Stat. 444; amended Pub. L. 96–295, title II, §206, June 30, 1980, 94 Stat. 787; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 104–134, title III, §3116(d), Apr. 26, 1996, 110 Stat. 1321–350.)
 
 #### Amendments
 

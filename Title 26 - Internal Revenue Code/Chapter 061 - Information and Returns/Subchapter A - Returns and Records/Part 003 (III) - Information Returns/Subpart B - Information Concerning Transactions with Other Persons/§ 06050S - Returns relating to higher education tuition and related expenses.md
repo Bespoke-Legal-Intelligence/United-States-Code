@@ -28,7 +28,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;(B) the—
 
-&emsp;&emsp;&emsp;(i) aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
+&emsp;&emsp;&emsp;(i) aggregate amount of payments received or the aggregate amount billed forqualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
 
 &emsp;&emsp;&emsp;(ii) aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
 
@@ -144,7 +144,7 @@ Pub. L. 107–131, §2, Jan. 16, 2002, 115 Stat. 2411, provided that: “The ame
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxable years ending after such date, see section 412(a)(3) ofPub. L. 107–16, set out as a note under section 221 of this title.
+Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxable years ending after such date, see section 412(a)(3) of Pub. L. 107–16, set out as a note under section 221 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

@@ -12,7 +12,7 @@ Not later than 90 days after November 13, 2000, the Director of the United State
 
 #### (1) Expansion and modernization
 
-&emsp;In addition to amounts appropriated under section 7706(b) of this title, there are authorized to be appropriated to the Secretary of the Interior, to be used by the Director of the United States Geological Survey to establishthe Advanced National Seismic Research and Monitoring System—
+&emsp;In addition to amounts appropriated under section 7706(b) of this title, there are authorized to be appropriated to the Secretary of the Interior, to be used by the Director of the United States Geological Survey to establish the Advanced National Seismic Research and Monitoring System—
 
 &emsp;&emsp;(A) $33,500,000 for fiscal year 2002;
 

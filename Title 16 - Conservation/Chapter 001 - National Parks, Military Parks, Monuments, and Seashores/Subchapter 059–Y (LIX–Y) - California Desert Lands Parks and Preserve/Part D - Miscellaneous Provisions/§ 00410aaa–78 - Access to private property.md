@@ -1,6 +1,6 @@
 ### §410aaa–78. Access to private property
 
-The Secretary shall provide adequate access to nonfederally owned land or interests in land within the boundaries of the conservation units and wilderness areas designated by this Actwhich will provide the owner of such land or interest the reasonable use and enjoyment thereof.
+The Secretary shall provide adequate access to nonfederally owned land or interests in land within the boundaries of the conservation units and wilderness areas designated by this Act which will provide the owner of such land or interest the reasonable use and enjoyment thereof.
 
 (Pub. L. 103–433, title VII, §708, Oct. 31, 1994, 108 Stat. 4500.)
 

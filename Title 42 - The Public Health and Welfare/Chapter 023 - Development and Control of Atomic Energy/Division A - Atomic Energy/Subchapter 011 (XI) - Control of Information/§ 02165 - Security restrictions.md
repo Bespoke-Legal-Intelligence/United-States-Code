@@ -20,11 +20,17 @@ In the event an investigation made pursuant to subsections (a) and (b) of this s
 
 (1) If the President deems it to be in the national interest he may from time to time determine that investigations of any group or class which are required by subsections (a), (b), and (c) of this section be made by the Federal Bureau of Investigation.
 
-(2) In the case of an individual employed in a program known as a Special Access Program or a Personnel Security and Assurance Program, any investigation required by subsections (a), (b), and (c) of this section shall be made by the Federal Bureau of Investigation.
+(2) In the case of an individual employed in a program known as a Special Access Program, any investigation required by subsections (a), (b), and (c) of this section shall be made by the Federal Bureau of Investigation.
 
-#### (f) Certification of specific positions for investigation by FBI
+#### (f) Performance of personnel security investigations by FBI
 
-Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation.
+(1) Notwithstanding the provisions of subsections (a), (b), and (c) of this section, but subject to subsection (e) of this section, a majority of the members of the Commission may direct that an investigation required by such provisions on an individual described in paragraph (2) be carried out by the Federal Bureau of Investigation rather than by the Civil Service Commission.
+
+(2) An individual described in this paragraph is an individual who is employed—
+
+&emsp;(A) in a program certified by a majority of the members of the Commission to be of a high degree of importance or sensitivity; or
+
+&emsp;(B) in any other specific position certified by a majority of the members of the Commission to be of a high degree of importance or sensitivity.
 
 #### (g) Investigation standards
 
@@ -34,13 +40,17 @@ The Commission shall establish standards and specifications in writing as to the
 
 Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b) of this section, to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3144(a), Oct. 5, 1999, 113 Stat. 934.)
+(Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3144(a), Oct. 5, 1999, 113 Stat. 934; Pub. L. 108–136, div. C, title XXXI, §3131, Nov. 24, 2003, 117 Stat. 1749.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1810(b)(5) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+
+2003—Subsec. (e)(2). Pub. L. 108–136, §3131(b), struck out “or a Personnel Security and Assurance Program” after “Special Access Program”.
+
+Subsec. (f). Pub. L. 108–136, §3131(a), amended text of subsec. (f) generally. Prior to amendment, text read as follows: “Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation.”
 
 1999—Subsec. (e). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 
@@ -88,5 +98,5 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2163, 2166, 2201, 2455, 7383a of this title.
+This section is referred to in sections 2163, 2166, 2201, 2455 of this title; title 50 section 2653.
 

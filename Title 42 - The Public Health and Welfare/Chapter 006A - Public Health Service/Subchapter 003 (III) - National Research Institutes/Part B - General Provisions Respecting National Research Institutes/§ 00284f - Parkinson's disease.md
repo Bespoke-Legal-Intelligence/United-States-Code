@@ -8,7 +8,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of thenational research institutes conducting Parkinson's disease research.
+&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
 
 #### (2) Conference
 

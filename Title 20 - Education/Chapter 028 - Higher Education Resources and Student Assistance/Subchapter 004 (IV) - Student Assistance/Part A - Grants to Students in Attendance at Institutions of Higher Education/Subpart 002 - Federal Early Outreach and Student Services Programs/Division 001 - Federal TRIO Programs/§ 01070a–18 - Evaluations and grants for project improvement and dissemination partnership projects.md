@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For the purpose of improving the effectiveness of the programs and projects assisted under this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
+&emsp;For the purpose of improving the effectiveness of the programs and projects assistedunder this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
 
 #### (2) Practices
 

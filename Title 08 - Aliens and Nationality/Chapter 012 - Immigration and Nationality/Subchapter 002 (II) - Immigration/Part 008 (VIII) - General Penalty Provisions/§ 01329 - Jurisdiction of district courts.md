@@ -12,5 +12,5 @@ Pub. L. 104–208, §381(a)(1), amended first sentence generally. Prior to amend
 
 #### Effective Date of 1996 Amendment
 
-Section 381(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a)\[amending this section\] shall apply to actions filed after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 381(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to actions filed after the date of the enactment of this Act \[Sept. 30, 1996\].”
 

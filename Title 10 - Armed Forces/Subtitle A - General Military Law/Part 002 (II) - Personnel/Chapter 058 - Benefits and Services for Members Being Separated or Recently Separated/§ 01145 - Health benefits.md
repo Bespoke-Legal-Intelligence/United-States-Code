@@ -2,7 +2,7 @@
 
 (a)
 
-Transitional Health Care.—(1) For the applicable time period described in paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) shall be entitled to receive—
+Transitional Health Care.—(1) For the applicable time period described in paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
 
 &emsp;(A) medical and dental care under section 1076 of this title in the same manner as a dependent described in subsection (a)(2) of such section; and
 
@@ -58,13 +58,19 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 (e)
 
-Coast Guard.—The Secretary of Transportation shall implement this section for the Coast Guard.
+Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585.)
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
+2002—Subsec. (a)(1). Pub. L. 107–314, §706(a), amended Pub. L. 107–107, §736(a)(1). See 2001 Amendment note below.
+
+Subsec. (e). Pub. L. 107–314, §706(b), amended Pub. L. 107–107, §736(b)(2). See 2001 Amendment note below.
+
+Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+2001—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), as amended by Pub. L. 107–314, §706(a), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
 
 Subsec. (a)(2). Pub. L. 107–107, §736(a)(3), added par. (2). Former par. (2) redesignated (3).
 
@@ -72,7 +78,7 @@ Subsec. (a)(3). Pub. L. 107–107, §736(a)(2), (4), redesignated par. (2) as (3
 
 Subsec. (c)(1). Pub. L. 107–107, §736(b)(1), struck out “during the period beginning on October 1, 1990, and ending on December 31, 2001” after “armed forces”.
 
-Subsec. (e). Pub. L. 107–107, §736(b)(2), struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
+Subsec. (e). Pub. L. 107–107, §736(b)(2), as amended by Pub. L. 107–314, §706(b), substituted “the members of the Coast Guard and their dependents” for “the Coast Guard” in second sentence and struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
 
 2000—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -90,6 +96,12 @@ Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted “18-month peri
 
 Subsec. (b)(4) to (6). Pub. L. 102–484, §4407(a)(3), added pars. (4) to (6).
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
@@ -106,7 +118,25 @@ Section 4408(b) of Pub. L. 102–484 provided that: “The Secretary of Defense 
 
 For provisions prohibiting purchase of, and allowing cancellation of, conversion health policies under subsec. (b) of this section on or after Oct. 1, 1994, see section 4408(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
 
+#### Temporary Extension of Transitional Health Care Benefits
+
+Pub. L. 108–136, div. A, title VII, §704, Nov. 24, 2003, 117 Stat. 1527, provided that:
+
+“(a)
+
+Extension.—Subject to subsection (b), and notwithstanding section 1117 of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 \[Pub. L. 108–106, see below\], during the period beginning on the date of the enactment of this Act \[Nov. 24, 2003\] and ending on December 31, 2004, section 1145(a) of title 10, United States Code, shall be administered by substituting for paragraph (3) the following:
+
+“ ‘(3) Transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.’.
+
+“(b)
+
+Effective Date.—(1) Subsection (a) shall apply with respect to separations from active duty that take effect on or after the date of the enactment of this Act \[Nov. 24, 2003\].
+
+“(2) Beginning on January 1, 2005, the period for which a member is provided transitional health care benefits under section 1145(a) of title 10, United States Code, shall be adjusted as necessary to comply with the limits provided under paragraph (3) of such section.”
+
+Similar provisions were contained in Pub. L. 108–106, title I, §1117, Nov. 6, 2003, 117 Stat. 1218.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078a, 1142 of this title.
+This section is referred to in sections 1076b, 1078a, 1142 of this title.
 

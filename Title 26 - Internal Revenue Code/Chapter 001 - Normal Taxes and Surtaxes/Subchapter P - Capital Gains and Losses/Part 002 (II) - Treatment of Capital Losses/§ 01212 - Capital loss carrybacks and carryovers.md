@@ -26,9 +26,9 @@
 
 #### (A) Foreign expropriation capital loss defined
 
-&emsp;&emsp;For purposes of this subsection, the term “foreign expropriation capital loss” means, for any taxable year, the sum of the losses taken into account in computing the net capital loss for such year which are—
+&emsp;&emsp;For purposes of this subsection, the term “foreign expropriation capital loss” means,for any taxable year, the sum of the losses taken into account in computing the net capital loss for such year which are—
 
-&emsp;&emsp;&emsp;(i) losses sustained directly by reason of the expropriation, intervention, seizure, orsimilar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing, or
+&emsp;&emsp;&emsp;(i) losses sustained directly by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing, or
 
 &emsp;&emsp;&emsp;(ii) losses (treated under section 165(g)(1) as losses from the sale or exchange of capital assets) from securities which become worthless by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing.
 
@@ -194,7 +194,7 @@ Subsec. (c)(6)(B), (7)(A). Pub. L. 98–369, §102(e)(3)(C), as amended by Pub. 
 
 1978—Subsec. (a)(1)(C)(ii). Pub. L. 95–600 substituted “succeeding the loss year” for “exceeding the loss year”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text “except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted“capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
+1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text“except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted “capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
 
 1969—Pub. L. 91–172, §512(f)(1), substituted “carrybacks and carryovers” for “carryover” in section catchline.
 
@@ -264,7 +264,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 91–688, §3, Jan. 12, 1971, 84 Stat. 2073, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a) For purposes of applying section 1212(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 512 of the Tax Reform Act of 1969) in the case of a corporation which makes an election under subsection (b), any net capital loss sustained ina taxable year beginning after December 31, 1969, may not be carried back to any taxable year beginning before January 1, 1970, for which it was subject to taxation under section 802 of such Code \[section 802 of this title\], if the carryback of such loss would result in an increase in such corporation's income tax liability for any such taxable year.
+“(a) For purposes of applying section 1212(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by section 512 of the Tax Reform Act of 1969) in the case of a corporation which makes an election under subsection (b), any net capital loss sustained in a taxable year beginning after December 31, 1969, may not be carried back to any taxable year beginning before January 1, 1970, for which it was subject to taxation under section 802 of such Code \[section 802 of this title\], if the carryback of such loss would result in an increase in such corporation's income tax liability for any such taxable year.
 
 “(b) An election to have the provisions of subsection (a) apply shall be made by a corporation—
 

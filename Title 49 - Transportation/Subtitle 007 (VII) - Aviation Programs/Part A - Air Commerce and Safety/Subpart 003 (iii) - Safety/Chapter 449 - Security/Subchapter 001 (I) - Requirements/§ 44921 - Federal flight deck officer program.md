@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Under Secretary of Transportation for Security shall establish a program to deputize volunteer pilots of air carriers providing passenger air transportation or intrastate passenger air transportation as Federal law enforcement officers to defend the flight decks of aircraft of such air carriers against acts of criminal violence or air piracy. Such officers shall be known as “Federal flight deck officers”.
+Establishment.—The Under Secretary of Transportation for Security shall establish a program to deputize volunteer pilots of air carriers providing air transportation or intrastate air transportation as Federal law enforcement officers to defend the flight decks of aircraft of such air carriers against acts of criminal violence or air piracy. Such officers shall be known as “Federal flight deck officers”.
 
 (b)
 
@@ -28,7 +28,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(D) The placement of the firearm of a Federal flight deck officer on board the aircraft to ensure both its security and its ease of retrieval in an emergency.
 
-&emsp;&emsp;(E) An analysis of the risk of catastrophic failure of an aircraft as a result of the discharge (including an accidental discharge) of a firearm to be used in the program into theavionics, electrical systems, or other sensitive areas of the aircraft.
+&emsp;&emsp;(E) An analysis of the risk of catastrophic failure of an aircraft as a result of the discharge (including an accidental discharge) of a firearm to be used in the program into the avionics, electrical systems, or other sensitive areas of the aircraft.
 
 &emsp;&emsp;(F) The division of responsibility between pilots in the event of an act of criminal violence or air piracy if only 1 pilot is a Federal flight deck officer and if both pilots are Federal flight deck officers.
 
@@ -126,7 +126,7 @@ Qualification.—A pilot is qualified to be a Federal flight deck officer under 
 
 &emsp;(3)
 
-Deputization by other federal agencies.—The Under Secretary may request another Federal agency to deputize, as Federalflight deck officers under this section, those pilots that the Under Secretary determines are qualified to be such officers.
+Deputization by other federal agencies.—The Under Secretary may request another Federal agency to deputize, as Federal flight deck officers under this section, those pilots that the Under Secretary determines are qualified to be such officers.
 
 &emsp;(4)
 
@@ -198,13 +198,29 @@ Exemption.—This section shall not apply to air carriers operating under part 1
 
 &emsp;(2)
 
-Pilot defined.—The term “pilot” means an individual who has final authority and responsibility for the operation and safety of the flight or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command.
+Pilot defined.—The term “pilot” means an individual who has final authority and responsibility for the operation and safety of the flight or any other flight deck crew member.
 
-(Added Pub. L. 107–296, title XIV, §1402(a), Nov. 25, 2002, 116 Stat. 2300.)
+&emsp;(3)
+
+All-cargo air transportation.—In this section, the term “air transportation” includes all-cargo air transportation.
+
+(Added Pub. L. 107–296, title XIV, §1402(a), Nov. 25, 2002, 116 Stat. 2300; amended Pub. L. 108–176, title VI, §609(b), Dec. 12, 2003, 117 Stat. 2570.)
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (b)(1), (2), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–176, §609(b)(1), struck out “passenger” before “air transportation” in two places.
+
+Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted “or any other flight deck crew member” for “or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command”.
+
+Subsec. (k)(3). Pub. L. 108–176, §609(b)(3), added par. (3).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 
@@ -213,4 +229,20 @@ Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–29
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Equitable Implementation of 2003 Amendments
+
+Pub. L. 108–176, title VI, §609(c), Dec. 12, 2003, 117 Stat. 2570, provided that: “In carrying out the amendments made by subsection (d) \[probably means subsec. (b), which amended this section\], the Under Secretary for Border and Transportation Security of the Department of Homeland Security shall ensure that passenger and cargo pilots are treated equitably in receiving access to training as Federal flight deck officers.”
+
+#### Time for Implementation
+
+Pub. L. 108–176, title VI, §609(d), Dec. 12, 2003, 117 Stat. 2570, provided that: “The requirements of subsection (e) \[section 609 of Pub. L. 108–176 has no subsec. (e)\] shall have no effect on the deadlines for implementation contained in section 44921 of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Dec. 12, 2003\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 44940 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The words “the Under Secretary” probably should not appear.</i>
 

@@ -146,7 +146,7 @@ Section 613 of title VI of Pub. L. 100–86 provided that:
 
 “(a)
 
-Date of Enactment.—Except as provided in subsection (b), this title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under sections 248a and 4001 of this title\] shall take effect on the date of the enactment of this title \[Aug. 10, 1987\].
+Date of Enactment.—Except as provided in subsection (b), this title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] shall take effect on the date of the enactment of this title \[Aug. 10, 1987\].
 
 “(b) 1
 
@@ -154,9 +154,13 @@ Year After Date of Enactment.—Sections 603, 604, 605, 606, 610, and 611 \[enac
 
 #### Short Title
 
-Section 601 of title VI of Pub. L. 100–86 provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under sections 248a and 4001 of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
+Section 601 of title VI of Pub. L. 100–86 provided that: “This title \[enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title\] may be cited as the ‘Expedited Funds Availability Act’.”
 
 #### Separability
 
 If any provision of Pub. L. 100–86 or the application thereof to any person or circumstances is held invalid, the remainder of Pub. L. 100–86 and the application of the provision to other persons not similarly situated or to other circumstances not to be affected thereby, see section 1205 of Pub. L. 100–86, set out as a note under section 226 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5002 of this title.
 

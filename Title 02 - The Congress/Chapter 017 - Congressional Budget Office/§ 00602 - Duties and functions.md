@@ -36,7 +36,7 @@ At the request of the Committee on the Budget of either House, personnel of the 
 
 #### (f) Use of computers and other techniques
 
-The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain theservices of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
+The Director may equip the Office with up-to-date computer capability (upon approval of theCommittee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain the services of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
 
 #### (g) Studies
 
@@ -72,7 +72,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10103(a), inserted “primary” before “duty” in first sentence.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10103(a), inserted “primary” before “duty” in first sentence.
 
 Subsec. (e). Pub. L. 105–33, §10103(b), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text of par. (1) of subsec. (e) read as follows: “The duties, functions, and personnel of the Joint Committee on Reduction of Federal Expenditures are transferred to the Office, and the Joint Committee is abolished.” Par. (2) of subsec. (e) repealed section 571 of former Title 31, Money and Finance.
 
@@ -80,15 +80,15 @@ Subsec. (e)(1)(C). Pub. L. 105–33, §10103(c), added subpar. (C).
 
 Subsecs. (f) to (h). Pub. L. 105–33, §10103(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
-1996—Subsec. (g). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1995—Subsec. (c)(2), (3). Pub. L. 104–4, §102(1)(A), added par. (2) and redesignated former par. (2) as (3).
+<b>1995</b>—Subsec. (c)(2), (3). Pub. L. 104–4, §102(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (h). Pub. L. 104–4, §102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
 
-1990—Subsecs. (a)(1), (f)(1). Pub. L. 101–508 substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
+<b>1990</b>—Subsecs. (a)(1), (f)(1). Pub. L. 101–508 substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
 
-1985—Subsec. (f)(1). Pub. L. 99–177, §221(a), substituted “February 15” for “April 1”.
+<b>1985</b>—Subsec. (f)(1). Pub. L. 99–177, §221(a), substituted “February 15” for “April 1”.
 
 Subsec. (f)(3). Pub. L. 99–177, §221(b), added par. (3).
 
@@ -112,5 +112,5 @@ Section effective on day on which first Director of Congressional Budget Office 
 
 #### Credit Reform
 
-Pub. L. 100–119, title II, §212, Sept. 29, 1987, 101 Stat. 787, provided that: “The Congressional Budget Office, in consultation with the General Accounting Office, shall study and report to Congress on Federal direct loan and loan guarantee programs for fiscal year 1987 and fiscal year 1988. The report shall be submitted as soon aspracticable to all congressional committees of appropriate jurisdiction. The report shall provide information and recommendations on: (1) more accurately measuring the costs to the Federal Government of such credit programs, (2) comparing the cost of credit programs to other forms of Federal assistance, and (3) improving the allocation of resources between credit and other programs. The report shall also discuss the considerations involved in establishing a system for using the information on the costs of credit programs as part of the budget process.”
+Pub. L. 100–119, title II, §212, Sept. 29, 1987, 101 Stat. 787, provided that: “The Congressional Budget Office, inconsultation with the General Accounting Office, shall study and report to Congress on Federal direct loan and loan guarantee programs for fiscal year 1987 and fiscal year 1988. The report shall be submitted as soon as practicable to all congressional committees of appropriate jurisdiction. The report shall provide information and recommendations on: (1) more accurately measuring the costs to the Federal Government of such credit programs, (2) comparing the cost of credit programs to other forms of Federal assistance, and (3) improving the allocation of resources between credit and other programs. The report shall also discuss the considerations involved in establishing a system for using the information on the costs of credit programs as part of the budget process.”
 

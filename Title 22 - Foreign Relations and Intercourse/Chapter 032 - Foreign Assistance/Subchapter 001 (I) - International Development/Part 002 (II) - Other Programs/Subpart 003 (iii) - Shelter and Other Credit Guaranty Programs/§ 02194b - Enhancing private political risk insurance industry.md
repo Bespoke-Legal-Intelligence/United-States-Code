@@ -2,7 +2,7 @@
 
 #### (a) Cooperative programs
 
-In order to encourage greater availability of political risk insurance for eligible investors byenhancing the private political risk insurance industry in the United States, and to the extent consistent with this subpart, the Corporation shall undertake programs of cooperation with such industry, and in connection with such programs may engage in the following activities:
+In order to encourage greater availability of political risk insurance for eligible investors by enhancing the private political risk insurance industry in the United States, and to the extent consistent with this subpart, the Corporation shall undertake programs of cooperation with such industry, and in connection with such programs may engage in the following activities:
 
 &emsp;(1) Utilizing its statutory authorities, encourage the development of associations, pools, or consortia of United States private political risk insurers.
 

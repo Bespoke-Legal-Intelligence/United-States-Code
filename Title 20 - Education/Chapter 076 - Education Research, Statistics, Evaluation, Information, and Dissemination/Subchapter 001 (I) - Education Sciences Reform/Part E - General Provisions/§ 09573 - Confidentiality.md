@@ -40,7 +40,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (C) Application
 
-&emsp;&emsp;This paragraph does not apply to requests for individually identifiable informationsubmitted by or on behalf of the individual identified in the information.
+&emsp;&emsp;This paragraph does not apply to requests for individually identifiable information submitted by or on behalf of the individual identified in the information.
 
 #### (2) Employee or staff violations
 
@@ -76,7 +76,7 @@ The Director shall ensure that all individually identifiable information about s
 
 &emsp;Notwithstanding subsections (a) and (b) of this section, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
 
-&emsp;&emsp;(A) collect reports, records, and information (including individually identifiable information) in the possession of the Director that are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18 or an act of domestic or international terrorism as defined in section 2331 of that title; and
+&emsp;&emsp;(A) collect reports, records, and information (including individually identifiable information) in the possession of the Directorthat are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18 or an act of domestic or international terrorism as defined in section 2331 of that title; and
 
 &emsp;&emsp;(B) for official purposes related to the investigation or prosecution of an offense described in paragraph (1)(A), retain, disseminate, and use (including as evidence at trial or in other administrative or judicial proceedings) such information, consistent with such guidelines as the Attorney General, after consultation with the Secretary, shall issue to protect confidentiality.
 
@@ -100,7 +100,7 @@ Subsecs. (a) to (c) of section 9007 of this title, which were transferred to thi
 
 #### Amendments
 
-2002—Subsecs. (c) to (e). Pub. L. 107–279, §401(a)(6), transferred subsecs. (a) to (c) of section 9007 of this titleto this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
+2002—Subsecs. (c) to (e). Pub. L. 107–279, §401(a)(6), transferred subsecs. (a) to (c) of section 9007 of this title to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
 
 #### Section Referred to in Other Sections
 

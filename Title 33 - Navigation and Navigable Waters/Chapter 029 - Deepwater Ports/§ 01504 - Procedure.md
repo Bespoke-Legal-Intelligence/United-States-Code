@@ -26,7 +26,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 &emsp;(F) with respect to construction in phases, a detailed description of each phase, including anticipated dates of completion for each of the specific components thereof;
 
-&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+&emsp;(G) the location and capacity of existing and proposed storage facilities and pipelines whichwill store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
 &emsp;(H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
 
@@ -58,7 +58,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 #### (f) NEPA compliance
 
-For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4332) \[42 U.S.C. 4321 et seq.\]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
+For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42U.S.C. 4332) \[42 U.S.C. 4321 et seq.\]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
 
 #### (g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings
 
@@ -98,7 +98,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

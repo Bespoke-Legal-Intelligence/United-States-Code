@@ -14,7 +14,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;(B) make recommendations to Congress concerning such payment policies;
 
-&emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report to Congress containing the results of such reviews and its recommendations concerning such policies; and
+&emsp;&emsp;(C) by not later than March 1 of each year (beginning with 1998), submit a report toCongress containing the results of such reviews and its recommendations concerning such policies; and
 
 &emsp;&emsp;(D) by not later than June 15 of each year, submit a report to Congress containing an examination of issues affecting the medicare program, including the implications of changes in health care delivery in the United States and in the market for health care services on the medicare program and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title.
 
@@ -40,7 +40,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;&emsp;Specifically, the Commission shall review payment policies under parts A and B of this subchapter, including—
 
-&emsp;&emsp;&emsp;(i) the factors affecting expenditures for services in different sectors, including the process for updating hospital, skilled nursing facility, physician, and other fees,
+&emsp;&emsp;&emsp;(i) the factors affecting expenditures for the efficient provision of services in different sectors, including the process for updating hospital, skilled nursing facility, physician, and other fees,
 
 &emsp;&emsp;&emsp;(ii) payment methodologies, and
 
@@ -70,6 +70,10 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 &emsp;With respect to each recommendation contained in a report submitted under paragraph (1), each member of the Commission shall vote on the recommendation, and the Commission shall include, by member, the results of that vote in the report containing the recommendation.
 
+#### (8) Examination of budget consequences
+
+&emsp;Before making any recommendations, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities.
+
 #### (c) Membership
 
 #### (1) Number and appointment
@@ -80,11 +84,11 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (A) In general
 
-&emsp;&emsp;The membership of the Commission shall include individuals with national recognition for their expertise in health finance and economics, actuarial science, health facility management, health plans and integrated delivery systems, reimbursement of health facilities, allopathic and osteopathic physicians, and other providers of health services, and other related fields, who provide a mix of different professionals, broad geographic representation, and a balance between urban and rural representatives.
+&emsp;&emsp;The membership of the Commission shall include individuals with national recognition for their expertise in health finance and economics, actuarial science, health facility management, health plans and integrated delivery systems, reimbursement of health facilities, allopathic and osteopathic physicians, and other providers of health services, and other related fields, who provide a mix of different professionals, broad geographicrepresentation, and a balance between urban and rural representatives.
 
 #### (B) Inclusion
 
-&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
+&emsp;&emsp;The membership of the Commission shall include (but not be limited to) physicians and other health professionals, experts in the area of pharmaco-economics or prescription drug benefit programs, employers, third-party payers, individuals skilled in the conduct and interpretation of biomedical, health services, and health economics research and expertise in outcomes and effectiveness research and technology assessment. Such membership shall also include representatives of consumers and the elderly.
 
 #### (C) Majority nonproviders
 
@@ -92,7 +96,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members.
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
 
 #### (3) Terms
 
@@ -150,7 +154,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (3) Access of GAO to information
 
-&emsp;The Comptroller General shall have unrestricted access to all deliberations, records,and nonproprietary data of the Commission, immediately upon request.
+&emsp;The Comptroller General shall have unrestricted access to all deliberations, records, and nonproprietary data of the Commission, immediately upon request.
 
 #### (4) Periodic audit
 
@@ -166,15 +170,25 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. Sixty percent of such appropriation shall be payable from the Federal Hospital Insurance Trust Fund, and 40 percent of such appropriation shall be payable from the Federal Supplementary Medical Insurance Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1805, as added Pub. L. 105–33, title IV, §4022(a), Aug. 5, 1997, 111 Stat. 350; amended Pub. L. 105–277, div. J, title V, §5202(a), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(a)(2)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–347; Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 108–173, title VII, §735(a)–(c)(1), (e)(1), Dec. 8, 2003, 117 Stat. 2353, 2354.)
 
 #### References in Text
 
 Parts A, B, and C of this subchapter, referred to in subsec. (b)(2)(A), (B), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
+The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (b)(2)(B)(i). Pub. L. 108–173, §735(b), inserted “the efficient provision of” after “expenditures for”.
+
+Subsec. (b)(8). Pub. L. 108–173, §735(a), added par. (8).
+
+Subsec. (c)(2)(B). Pub. L. 108–173, §735(e)(1), inserted “experts in the area of pharmaco-economics or prescription drug benefit programs,” after “other health professionals,”.
+
+Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end “Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
 
 2000—Subsec. (b)(1)(D). Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1)\], substituted “June 15 of each year,” for “June 1 of each year (beginning with 1998),”.
 
@@ -183,6 +197,14 @@ Subsec. (b)(7). Pub. L. 106–554, §1(a)(6) \[title V, §544(b)\], added par. (
 1999—Subsec. (b)(1)(D). Pub. L. 106–113 inserted “and including a review of the estimate of the conversion factor submitted under section 1395w–4(d)(1)(E)(ii) of this title” before period at end.
 
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “17” for “15”.
+
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title VII, §735(c)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Effective Date of 2000 Amendment
 
@@ -207,6 +229,10 @@ Transition.—As quickly as possible after the date a majority of members of Med
 “(3)
 
 Continuing responsibility for reports.—The MedPAC shall be responsible for the preparation and submission of reports required by law to be submitted (and which have not been submitted by the date of establishment of the MedPAC) by the ProPAC and the PPRC, and, for this purpose, any reference in law to either such Commission is deemed, after the appointment of the MedPAC, to refer to the MedPAC.”
+
+#### Appointment of Experts in Prescription Drugs
+
+Pub. L. 108–173, title VII, §735(e)(2), Dec. 8, 2003, 117 Stat. 2354, provided that: “The Comptroller General of the United States shall ensure that the membership of the Commission \[Medicare Payment Advisory Commission\] complies with the amendment made by paragraph (1) \[amending this section\] with respect to appointments made on or after the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
@@ -234,7 +260,7 @@ Report.—Not later than December 31, 2001, the Commission shall submit to Congr
 
 #### MedPAC Report
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that:“The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
 
 #### MedPAC Study of Rural Providers
 

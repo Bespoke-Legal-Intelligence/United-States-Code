@@ -22,9 +22,17 @@ Test Guidelines.—(1) Survivability and lethality tests required under subsecti
 
 (c)
 
-Waiver Authority.—(1) The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.
+Waiver Authority.—(1) The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary determines that live-fire testing of such system or program would be unreasonably expensive and impractical and submits a certification of that determination to Congress—
 
-(2) In the case of a covered system (or covered product improvement program for a covered system), the Secretary may waive the application of the survivability and lethality tests of this section to such system or program and instead allow testing of the system or program in combat by firing munitions likely to be encountered in combat at components, subsystems, and subassemblies, together with performing design analyses, modeling and simulation, and analysis of combat data. Such alternative testing may not be carried out in the case of any covered system (or covered product improvement program for a covered system) unless the Secretary certifies to Congress, before the system or programenters system development and demonstration, that the survivability and lethality testing of such system or program otherwise required by this section would be unreasonably expensive and impracticable.
+&emsp;(A) before Milestone B approval for the system or program; or
+
+&emsp;(B) in the case of a system or program initiated at—
+
+&emsp;&emsp;(i) Milestone B, as soon as is practicable after the Milestone B approval; or
+
+&emsp;&emsp;(ii) Milestone C, as soon as is practicable after the Milestone C approval.
+
+(2) In the case of a covered system (or covered product improvement program for a covered system), the Secretary may waive the application of the survivability and lethality tests of this section to such system or program and instead allow testing of the system or program in combat by firing munitions likely to be encountered in combat at components, subsystems, and subassemblies, together with performing design analyses, modeling and simulation, and analysis of combat data. Such alternative testing may not be carried out in the case of any covered system (or covered product improvement program for a covered system) unless the Secretary certifies to Congress, before the system or program enters system development and demonstration, that the survivability and lethality testing of such system or program otherwise required by this section would be unreasonably expensive and impracticable.
 
 (3) The Secretary shall include with any certification under paragraph (1) or (2) a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.
 
@@ -62,13 +70,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a modification or upgrade will be made to a major munitions program or a missile program which (as determined by the Secretary of Defense) is likely to affect significantly the lethality of the munition or missile produced under the program.
 
-&emsp;(7) The term “congressional defense committees” means—
+&emsp;(7) The term “Milestone B approval” means a decision to enter into system development and demonstration pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+&emsp;(8) The term “Milestone C approval” means a decision to enter into production and deployment pursuant to guidance prescribed by the Secretary of Defense for the management of Department of Defense acquisition programs.
 
-&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181.)
+(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 107–314, div. A, title VIII, §818, Dec. 2, 2002, 116 Stat. 2611; Pub. L. 108–136, div. A, title X, §1043(b)(13), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### Codification
 
@@ -78,6 +84,16 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
+2003—Subsec. (e)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “The term ‘congressional defense committees’ means—
+
+&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+
+2002—Subsec. (c)(1). Pub. L. 107–314, §818(a), amended par. (1) generally. Prior to amendment par. (1) read as follows: “The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.”
+
+Subsec. (e)(8), (9). Pub. L. 107–314, §818(b), added pars. (8) and (9).
+
 2001—Subsec. (c)(1), (2). Pub. L. 107–107 substituted “system development and demonstration” for “engineering and manufacturing development”.
 
 1999—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
@@ -86,7 +102,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 Subsec. (e)(7). Pub. L. 104–106, §1502(a)(18)(B), added par. (7).
 
-1994—Subsec. (c)(1). Pub. L. 103–355, §3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale entgineering development” in first sentence and redesignated second sentence as par. (3).
+1994—Subsec. (c)(1). Pub. L. 103–355, §3014(a)(2), (b), substituted “engineering and manufacturing development” for “full-scale engineering development” in first sentence and redesignated second sentence as par. (3).
 
 Subsec. (c)(2). Pub. L. 103–355, §3014(a)(1), (3), added par. (2) and redesignated former par. (2) as (4).
 

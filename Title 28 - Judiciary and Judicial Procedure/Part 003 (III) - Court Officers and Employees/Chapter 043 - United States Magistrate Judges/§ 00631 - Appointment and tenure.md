@@ -50,7 +50,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§526 and 527, sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation, and section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (May 27, 1894, ch. 72, §5, 28 Stat. 74; May 28, 1896, ch. 252, §§19, 20, 29 Stat. 184; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; Apr. 19, 1930, ch. 200, §6, 46 Stat. 228; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §5, 50 Stat. 702; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Dec. 28, 1945, ch. 592, 59 Stat. 659, 660; Apr. 23, 1946, ch. 202, §1, 60 Stat. 119, 120).
+Based on title 28, U.S.C., 1940 ed., §§526 and 527, sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation, and section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (May 27, 1894, ch. 72, §5, 28 Stat. 74; May 28, 1896, ch. 252, §§19, 20, 29 Stat. 184; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; Apr. 19, 1930, ch. 200, §6, 46 Stat. 228; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §5, 50 Stat. 702; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Dec. 28, 1945, ch. 592, 59 Stat. 659, 660; Apr. 23, 1946, ch. 202, §1, 60 Stat. 119, 120).
 
 Section consolidates section 526 and a portion of 527, both of title 28, U.S.C., 1940 ed., with provisions of sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., and provisions of section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to appointment of United States commissioners. For other provisions of said sections see Distribution Table.
 
@@ -114,7 +114,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 103–353, §2(c)(2), redesignated subsecs. (k
 
 &emsp;“(A) in the District of Columbia, a member in good standing of the bar of the United States district court for the District of Columbia; or
 
-&emsp;“(B) in the Commonwealth of Puerto Rico, a member in good standing of the bar of the Supreme Court of Puerto Rico, and in the Virgin Islands of theUnited States, a member in good standing of the bar of the district court of the Virgin Islands;” after “Virgin Islands of the United States,” and struck out “the first sentence of” before “this paragraph”.
+&emsp;“(B) in the Commonwealth of Puerto Rico, a member in good standing of the bar of the Supreme Court of Puerto Rico, and in the Virgin Islands of the United States, a member in good standing of the bar of the district court of the Virgin Islands;” after “Virgin Islands of the United States,” and struck out “the first sentence of” before “this paragraph”.
 
 1988—Subsec. (e). Pub. L. 100–659 substituted “(k)” for “(j)” in introductory text, “(j)” for “(i)” in par. (3), and “(i)” for “(h)” in par. (5).
 
@@ -166,7 +166,7 @@ Subsecs. (h) to (j). Pub. L. 90–578 added subsecs. (h) to (j).
 
 #### Change of Name
 
-“United States magistrate judges”, “magistrate judge”, and “magistrate judge's” substituted for“United States magistrates”, “magistrate”, and “magistrate's”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note below.
+“United States magistrate judges”, “magistrate judge”, and “magistrate judge's” substituted for “United States magistrates”, “magistrate”, and “magistrate's”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note below.
 
 Section 321 of Pub. L. 101–650 provided that: “After the enactment of this Act \[Dec. 1, 1990\], each United States magistrate appointed under section 631 of title 28, United States Code, shall be known as a United States magistrate judge, and any reference to any United States magistrate or magistrate that is contained in title 28, United States Code, in any other Federal statute, or in any regulation of any department or agency of the United States in the executive branch that was issued before the enactment of this Act, shall be deemed to refer to a United States magistrate judge appointed under section 631 of title 28, United States Code.”
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 103–353 effective with respect to reemployments initiated
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of this title.
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistratejudges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -228,7 +228,7 @@ Section 401 of Pub. L. 90–578 provided that:
 
 “(a) No individual may serve as a United States commissioner within any judicial district after the date on which a United States magistrate \[now United States magistrate judge\] assumes office in such judicial district.
 
-“(b) An individual serving as a United States commissioner within any judicial district on the date of enactment of this Act \[Oct. 17, 1968\] who is a member in good standing of the bar of the highest court of any State may be appointed to the office of United States magistrate for an initial term, and may be reappointed to such office for successive terms, notwithstanding his failure to meet the bar membership qualification imposed by section 631(b)(1) of chapter 43, title 28, United States Code: <i>Provided, however</i>, That any appointment or reappointment of such an individual must be byunanimous vote of all the judges of the appointing district court or courts.”
+“(b) An individual serving as a United States commissioner within any judicial district on the date of enactment of this Act \[Oct. 17, 1968\] who is a member in good standing of the bar of the highest court of any State may be appointed to the office of United States magistrate for an initial term, and may be reappointed to such office for successive terms, notwithstanding his failure to meet the bar membership qualification imposed by section 631(b)(1) of chapter 43, title 28, United States Code: <i>Provided, however</i>, That any appointment or reappointment of such an individual must be by unanimous vote of all the judges of the appointing district court or courts.”
 
 #### Applicable Law
 

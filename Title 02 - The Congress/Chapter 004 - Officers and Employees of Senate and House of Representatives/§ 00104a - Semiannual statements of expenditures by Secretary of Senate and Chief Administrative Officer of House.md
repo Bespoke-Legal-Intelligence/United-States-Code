@@ -42,17 +42,17 @@ Section is based on the first paragraph of section 105 (a) of Pub. L. 88–454. 
 
 #### Amendments
 
-2000—Par. (5). Pub. L. 106–554 added par. (5).
+<b>2000</b>—Par. (5). Pub. L. 106–554 added par. (5).
 
-1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in two places.
+<b>1996</b>—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in two places.
 
-1994—Pub. L. 103–283 added par. (4).
+<b>1994</b>—Pub. L. 103–283 added par. (4).
 
-1992—Pub. L. 102–392 added par. (3).
+<b>1992</b>—Pub. L. 102–392 added par. (3).
 
-1976—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
+<b>1976</b>—Pub. L. 94–303 designated existing provisions as par. (1) and added par. (2).
 
-1964—Pub. L. 88–656 provided that information regarding persons paid by voucher for appearances as a witness before any committee of Congress in executive session shall not be included in semiannual report except for date of payment, voucher number, and amount paid, however, any information so excluded shall be included in next succeeding semiannual period.
+<b>1964</b>—Pub. L. 88–656 provided that information regarding persons paid by voucher for appearances as a witness before any committee of Congress in executive session shall not be included in semiannual report except for date of payment, voucher number, and amount paid, however, any information so excluded shall be included in next succeeding semiannual period.
 
 #### Effective Date of 2000 Amendment
 
@@ -68,7 +68,7 @@ First report after enactment.—The Secretary of the Senate may elect to compile
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–283 effective with respect to reports and statements covering periods beginning on and after Oct. 1, 1994, and appropriations made and obligations incurred on and after such date, see section 3(c) of Pub. L. 103–283, set out as a note under section 59f of this title.
+Amendment by Pub. L. 103–283 effective with respect to reports and statements covering periods beginningon and after Oct. 1, 1994, and appropriations made and obligations incurred on and after such date, see section 3(c) of Pub. L. 103–283, set out as a note under section 59f of this title.
 
 #### Termination of Reporting Requirements
 

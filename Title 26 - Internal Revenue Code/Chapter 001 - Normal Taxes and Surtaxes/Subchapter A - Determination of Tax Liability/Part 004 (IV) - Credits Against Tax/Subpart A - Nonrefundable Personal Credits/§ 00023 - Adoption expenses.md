@@ -16,7 +16,7 @@
 
 #### (3) $10,000 credit for adoption of child with special needs regardless of expenses
 
-&emsp;In the case of an adoption of a child with special needs which becomes final during a taxable year, the taxpayer shall be treated ashaving paid during such year qualified adoption expenses with respect to such adoption in an amount equal to the excess (if any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred by the taxpayer with respect to such adoption during such taxable year and all prior taxable years.
+&emsp;In the case of an adoption of a child with special needs which becomes final during a taxable year, the taxpayer shall be treated as having paid during such year qualified adoption expenses with respect to such adoption in an amount equal to the excess (if any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred by the taxpayer with respect to such adoption during such taxable year and all prior taxable years.
 
 #### (b) Limitations
 
@@ -112,7 +112,7 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 #### (A) In general
 
-&emsp;&emsp;No credit shall be allowed under this section with respect to any eligible child unlessthe taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.
+&emsp;&emsp;No credit shall be allowed under this section with respect to any eligible child unless the taxpayer includes (if known) the name, age, and TIN of such child on the return of tax for the taxable year.
 
 #### (B) Other methods
 
@@ -134,13 +134,13 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 #### (i) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
+The Secretary shall prescribe such regulations as may be appropriate to carry out this sectionand section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
 
 (Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57.)
 
-#### Adoption Expenses Credit Adjustment for Tax Years Beginning in 2003
+#### Adoption Expenses Credit Adjustment for Tax Years Beginning in 2004
 
-<i>For inflation adjustment of maximum credit allowed in subsection (a)(3) of this section for an adoption of a child with special needs, maximum credit allowed in subsection (b)(1) of this section for other adoptions, and the income limits for phaseout of adoption credit in subsection (b)(2)(A) of this section, see section 3.03 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of maximum credit allowed in subsection (a)(3) of this section for an adoption of a child with special needs, maximum credit allowed in subsection (b)(1) of this section for other adoptions, and the income limits for phaseout of adoption credit in subsection (b)(2)(A) of this section, see section 3.03 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 

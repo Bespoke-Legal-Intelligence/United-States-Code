@@ -56,7 +56,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;&emsp;(III) Morning Star Lode, mineral survey number 993, as described in patent number 36–91–0011, dated February 12, 1991;
 
-&emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times MirrorLand and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east, Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
+&emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times Mirror Land and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east, Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
 
 &emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
@@ -208,7 +208,7 @@ The purposes of this section are—
 
 #### (D) Public trail access
 
-&emsp;&emsp;The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areasin the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
+&emsp;&emsp;The management plan may include public trail access through section 28, township 8 south, range 5 east, Willamette Meridian, to Battle Ax Creek, Opal Pool and other areas in the Opal Creek Wilderness and the Opal Creek Scenic Recreation Area.
 
 #### (11) Participation
 
@@ -354,7 +354,7 @@ The purposes of this section are—
 
 &emsp;(A) The exchange directed by this subsection shall be consummated not later than 120 days after the date Rosboro offers and conveys the property described in paragraph (2) to the United States.
 
-&emsp;(B) The authority provided by this subsection shall lapse of <sup>6</sup> Rosboro fails to offer the land described in paragraph (2) within 2 years after November 12, 1996.
+&emsp;(B) The authority provided by this subsection shall lapse of <sup>6</sup> Rosboro fails to offerthe land described in paragraph (2) within 2 years after November 12, 1996.
 
 #### (6) Challenge
 
@@ -424,7 +424,7 @@ Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523,
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of acouncil established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

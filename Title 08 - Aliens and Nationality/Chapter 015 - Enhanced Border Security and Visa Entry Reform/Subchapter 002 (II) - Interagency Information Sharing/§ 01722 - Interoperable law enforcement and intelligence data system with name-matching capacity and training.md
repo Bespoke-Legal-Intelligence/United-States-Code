@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) to any Federal official responsible for determining an alien's admissibility to or deportability from the United States; and
 
-&emsp;&emsp;(C) to any Federal law enforcement or intelligence officer determined by regulation to be responsible for the investigation or identification of aliens.
+&emsp;&emsp;(C) to any Federal law enforcement or intelligence officer determined by regulationto be responsible for the investigation or identification of aliens.
 
 #### (6) Limitation on access
 

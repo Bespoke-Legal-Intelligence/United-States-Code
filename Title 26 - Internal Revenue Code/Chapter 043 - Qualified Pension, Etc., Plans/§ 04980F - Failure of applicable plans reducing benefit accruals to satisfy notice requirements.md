@@ -148,7 +148,7 @@ In general.—The period for providing any notice required by the amendments mad
 
 &emsp;“(B)
 
-Reasonable notice.—The amendments made by this section shall not apply to any plan amendment taking effect on or after the date of the enactment of this Act if, before April 25, 2001, notice wasprovided to participants and beneficiaries adversely affected by the plan amendment (and their representatives) which was reasonably expected to notify them of the nature and effective date of the plan amendment.”
+Reasonable notice.—The amendments made by this section shall not apply to any plan amendment taking effect on or after the date of the enactment of this Act if, before April 25, 2001, notice was provided to participants and beneficiaries adversely affected by the plan amendment (and their representatives) which was reasonably expected to notify them of the nature and effective date of the plan amendment.”
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

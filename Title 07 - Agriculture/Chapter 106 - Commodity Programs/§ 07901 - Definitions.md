@@ -30,7 +30,7 @@ In this chapter (other than subchapter III of this chapter):
 
 &emsp;The term “extra long staple cotton” means cotton that—
 
-&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United Statesdesignated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 
@@ -40,7 +40,7 @@ In this chapter (other than subchapter III of this chapter):
 
 #### (9) Other oilseed
 
-&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, or, if designated by the Secretary, another oilseed.
+&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, crambe, sesame seed, or, if designated by the Secretary, another oilseed.
 
 #### (10) Payment acres
 
@@ -70,13 +70,13 @@ In this chapter (other than subchapter III of this chapter):
 
 #### (15) Target price
 
-&emsp;The term “target price” means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
+&emsp;The term “target price” means the price per bushel (or other appropriate unit in the case ofupland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
 
 #### (16) United States
 
 &emsp;The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 107–171, title I, §1001, May 13, 2002, 116 Stat. 143.)
+(Pub. L. 107–171, title I, §1001, May 13, 2002, 116 Stat. 143; Pub. L. 108–7, div. A, title VII, §763(a), Feb. 20, 2003, 117 Stat. 46.)
 
 #### References in Text
 
@@ -85,6 +85,14 @@ This chapter, referred to in text, was in the original “this title”, meaning
 Subchapter III of this chapter, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
 The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Amendments
+
+2003—Par. (9). Pub. L. 108–7 inserted “crambe, sesame seed,” after “mustard seed,”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–7, div. A, title VII, §763(d), Feb. 20, 2003, 117 Stat. 47, provided that: “This section \[amending this section and sections 7932 and 7934 of this title\] and the amendments made by this section apply beginning with the 2003 crop of other oilseeds (as defined in section 1001 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 7901)), dry peas, lentils, and small chickpeas.”
 
 #### Short Title
 

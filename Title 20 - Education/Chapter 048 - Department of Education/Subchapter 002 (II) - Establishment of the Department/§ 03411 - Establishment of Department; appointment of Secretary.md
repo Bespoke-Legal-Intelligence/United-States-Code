@@ -14,7 +14,7 @@ Ex. Ord. No. 12729, Sept. 24, 1990, 55 F.R. 39389, which established the Preside
 
 #### Executive Order No. 12900
 
-Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans and directed the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, set out below.
+Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Department of Education the President's Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans anddirected the Secretary of Education to submit to the President an Annual Federal Plan to Promote Hispanic American Educational Excellence and the Director of the Office of Personnel Management to develop a program to promote recruitment of Hispanic students for positions in the Federal Government, was revoked by Ex. Ord. No. 13230, §9, Oct. 12, 2001, 66 F.R. 52843, set out below.
 
 #### Ex. Ord. No. 13230. President's Advisory Commission on Educational Excellence for Hispanic Americans
 
@@ -88,5 +88,5 @@ Term of President's Advisory Commission on Educational Excellence for Hispanic A
 
 Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

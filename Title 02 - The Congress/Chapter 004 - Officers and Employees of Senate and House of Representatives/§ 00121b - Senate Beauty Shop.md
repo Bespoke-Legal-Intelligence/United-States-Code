@@ -36,7 +36,7 @@ Section is from the Congressional Operations Appropriations Act, 1989, which is 
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–275 struck out subsec. (a) which read as follows: “The Sergeant at Arms and Doorkeeper of the Senate is authorized to employ, and fix the compensation of such employees as he determines necessary to operate the Senate Beauty Shop.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–275 struck out subsec. (a) which read as follows: “The Sergeant at Arms and Doorkeeper of the Senate is authorized to employ, and fix the compensation of such employees as he determines necessary to operate the Senate Beauty Shop.”
 
 #### Effective Date of 1998 Amendment
 

@@ -30,7 +30,7 @@ For purposes of this subtitle, the term “foreign personal holding company inco
 
 #### (6) Use of corporation property by shareholder
 
-&emsp;Amounts received as compensation (however designated and from whomsoever received) for the use of, or right to use, property of the corporation in any case where, at any time during the taxable year, 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for an individual entitled to the use of the property; whether such right is obtained directly from the corporation or by means of a sublease or other arrangement. This paragraph shall apply only to a corporation which has foreign personal holding company income for the taxable year, computed without regard to this paragraph and paragraph (7), in excess of 10 percent of its gross income.
+&emsp;Amounts received as compensation (however designated and from whomsoever received) for the use of, or right to use, property of the corporation in any case where, at any time during the taxable year, 25 percent or more in value of the outstanding stock of the corporation isowned, directly or indirectly, by or for an individual entitled to the use of the property; whether such right is obtained directly from the corporation or by means of a sublease or other arrangement. This paragraph shall apply only to a corporation which has foreign personal holding company income for the taxable year, computed without regard to this paragraph and paragraph (7), in excess of 10 percent of its gross income.
 
 #### (7) Rents
 

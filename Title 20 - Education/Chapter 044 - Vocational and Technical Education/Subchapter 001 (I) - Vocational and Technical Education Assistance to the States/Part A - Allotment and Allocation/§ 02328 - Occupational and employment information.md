@@ -2,7 +2,7 @@
 
 #### (a) National activities
 
-From funds appropriated under subsection (f) of this section, the Secretary, in consultationwith appropriate Federal agencies, is authorized—
+From funds appropriated under subsection (f) of this section, the Secretary, in consultation with appropriate Federal agencies, is authorized—
 
 &emsp;(1) to provide assistance to an entity to enable the entity—
 
@@ -78,7 +78,7 @@ Another prior section 2331 and prior sections 2332 to 2334 were omitted in the g
 
 Section 2331, Pub. L. 88–210, title II, §201, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, §2401(a), Apr. 28, 1988, 102 Stat. 324, related to use of a portion of a State's allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
 
-Section 2332, Pub. L. 88–210, title II, §202, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2452; amended Pub. L. 100–202, §101(h) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279; Pub. L. 100–297, title II, §2401(b), (c), Apr. 28, 1988, 102 Stat. 324, related to distribution ofassistance from State allotment to provide vocational education opportunities.
+Section 2332, Pub. L. 88–210, title II, §202, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2452; amended Pub. L. 100–202, §101(h) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279; Pub. L. 100–297, title II, §2401(b), (c), Apr. 28, 1988, 102 Stat. 324, related to distribution of assistance from State allotment to provide vocational education opportunities.
 
 Section 2333, Pub. L. 88–210, title II, §203, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2453; amended Pub. L. 99–159, title VII, §705, Nov. 22, 1985, 99 Stat. 905, related to allocation within individual States of the funds available for vocational education services and activities for the handicapped.
 

@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets the other requirements of this subsection.
 
-> &emsp;Except to the extent provided in regulations, a program established and maintained by 1 or more eligible educational institutions shall not be treated as a qualified tuition program unless such program provides that amounts are held in a qualified trust and such program has received a ruling or determination that such program meets the applicable requirements for a qualified tuition program. For purposes of the preceding sentence, the term “qualified trust” means a trust which is created or organized in the United States for the exclusive benefit of designated beneficiaries and with respect to which the requirements of paragraphs (2) and (5) of section 408(a) are met.
+> &emsp;Except to the extent provided in regulations, a program established and maintained by 1 or more eligible educational institutions shall not be treated as a qualified tuition programunless such program provides that amounts are held in a qualified trust and such program has received a ruling or determination that such program meets the applicable requirements for a qualified tuition program. For purposes of the preceding sentence, the term “qualified trust” means a trust which is created or organized in the United States for the exclusive benefit of designated beneficiaries and with respect to which the requirements of paragraphs (2) and (5) of section 408(a) are met.
 
 #### (2) Cash contributions
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (d) Reports
 
-Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsectionshall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
+Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
 #### (e) Other definitions and special rules
 
@@ -192,7 +192,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in the case of a change in beneficiaries described in subsection (c)(3)(C), the individual who is the new beneficiary, and
 
-&emsp;&emsp;(C) in the case of an interest in a qualified tuition program purchased by a State or local government (or agency or instrumentality thereof) or an organization described in section 501(c)(3) and exempt from taxation under section 501(a) as part of a scholarship program operated by such government or organization, the individual receiving such interest as a scholarship.
+&emsp;&emsp;(C) in the case of an interest in a qualified tuition program purchased by a State or local government (or agency or instrumentality thereof) or an organization described in section 501(c)(3) and exempt from taxationunder section 501(a) as part of a scholarship program operated by such government or organization, the individual receiving such interest as a scholarship.
 
 #### (2) Member of family
 
@@ -262,7 +262,7 @@ The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89�
 
 2001—Pub. L. 107–16, §§402(a)(4)(D), 901, temporarily struck out “State” before “tuition” in section catchline. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (a). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualifiedState tuition”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (a). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualified State tuition”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (b). Pub. L. 107–16, §§402(a)(4)(C), 901, temporarily substituted “Qualified tuition” for “Qualified State tuition” in heading. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -272,7 +272,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §§402(a)(2), 901, temporarily inserte
 
 Subsec. (b)(2). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualified State tuition”. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (b)(3) to (7). Pub. L. 107–16, §§402(a)(3)(A), (4)(A), 901, temporarily redesignated pars. (4) to (7) as (3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
+Subsec. (b)(3) to (7). Pub. L. 107–16, §§402(a)(3)(A), (4)(A), 901, temporarily redesignated pars. (4) to (7) as\(3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
 
 &emsp;“(A) used for qualified higher education expenses of the designated beneficiary,
 

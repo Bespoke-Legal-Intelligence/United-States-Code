@@ -162,6 +162,158 @@ Pub. L. 98–223, title I, §108, Mar. 2, 1984, 98 Stat. 40, provided that: “I
 
 \[Section 108 of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.\]
 
+#### Veterans’ Disability Benefits Commission
+
+Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, provided that:
+
+#### “SEC. 1501. ESTABLISHMENT OF COMMISSION.
+
+“(a)
+
+Establishment of Commission.—There is hereby established a commission to be known as the Veterans’ Disability Benefits Commission (hereinafter in this title referred to as the ‘commission’).
+
+“(b)
+
+Membership.—(1) The commission shall be composed of 13 members, appointed as follows:
+
+&emsp;“(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
+
+&emsp;“(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
+
+&emsp;“(C) Two members appointed by the majority leader of the Senate, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
+
+&emsp;“(D) Two members appointed by the minority leader of the Senate, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2).
+
+&emsp;“(E) Five members appointed by the President, at least three of whom shall be veterans who were awarded a decoration specified in paragraph (2).
+
+“(2) A decoration specified in this paragraph is any of the following:
+
+&emsp;“(A) The Medal of Honor.
+
+&emsp;“(B) The Distinguished Service Cross, the Navy Cross, or the Air Force Cross.
+
+&emsp;“(C) The Silver Star.
+
+“(3) A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+
+“(4) The appointment of members of the commission under this subsection shall be made not later than 60 days after the date of the enactment of this Act \[Nov. 24, 2003\].
+
+“(c)
+
+Period of Appointment.—Members of the commission shall be appointed for the life of the commission. A vacancy in the commission shall not affect its powers.
+
+“(d)
+
+Initial Meeting.—The commission shall hold its first meeting not later than 30 days after the date on which a majority of the members of the commission have been appointed.
+
+“(e)
+
+Meetings.—The commission shall meet at the call of the chairman.
+
+“(f)
+
+Quorum.—A majority of the members of the commission shall constitute a quorum, but a lesser number may hold hearings.
+
+“(g)
+
+Chairman.—The President shall designate a member of the commission to be chairman of the commission.
+
+#### “SEC. 1502. DUTIES OF THE COMMISSION.
+
+“(a)
+
+Study.—The commission shall carry out a study of the benefits under the laws of the United States that are provided to compensate and assist veterans and their survivors for disabilities and deaths attributable to military service.
+
+“(b)
+
+Scope of Study.—In carrying out the study, the commission shall examine and make recommendations concerning the following:
+
+&emsp;“(1) The appropriateness of such benefits under the laws in effect on the date of the enactment of this Act \[Nov. 24, 2003\].
+
+&emsp;“(2) The appropriateness of the level of such benefits.
+
+&emsp;“(3) The appropriate standard or standards for determining whether a disability or death of a veteran should be compensated.
+
+“(c)
+
+Contents of Study.—The study to be carried out by the commission under this section shall be a comprehensive evaluation and assessment of the benefits provided under the laws of the United States to compensate veterans and their survivors for disability or death attributable to military service, together with any related issues that the commission determines are relevant to the purposes of the study. The study shall include an evaluation and assessment of the following:
+
+&emsp;“(1) The laws and regulations which determine eligibility for disability and death benefits, and other assistance for veterans and their survivors.
+
+&emsp;“(2) The rates of such compensation, including the appropriateness of a schedule for rating disabilities based on average impairment of earning capacity.
+
+&emsp;“(3) Comparable disability benefits provided to individuals by the Federal Government, State governments, and the private sector.
+
+“(d)
+
+Consultation With Institute of Medicine.—In carrying out the study under this section, the commission shall consult with the Institute of Medicine of the National Academy of Sciences with respect to the medical aspects of contemporary disability compensation policies.
+
+#### “SEC. 1503. REPORT.
+
+“Not later than 15 months after the date on which the commission first meets, the commission shall submit to the President and Congress a report on the study. The report shall include the following:
+
+&emsp;“(1) The findings and conclusions of the commission, including its findings and conclusions with respect to the matters referred to in section 1502(c).
+
+&emsp;“(2) The recommendations of the commission for revising the benefits provided by the United States to veterans and their survivors for disability and death attributable to military service.
+
+&emsp;“(3) Other information and recommendations with respect to such benefits as the commission considers appropriate.
+
+#### “SEC. 1504. POWERS OF THE COMMISSION.
+
+“(a)
+
+Hearings.—The commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the commission considers advisable to carry out the purposes of this title.
+
+“(b)
+
+Information From Federal Agencies.—In addition to the information referred to in section 1502(c), the commission may secure directly from any Federal department or agency such information as the commission considers necessary to carry out the provisions of this title. Upon request of the chairman of the commission, the head of such department or agency shall furnish such information to the commission.
+
+“(c)
+
+Postal Services.—The commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+“(d)
+
+Gifts.—The commission may accept, use, and dispose of gifts or donations of services or property.
+
+#### “SEC. 1505. PERSONNEL MATTERS.
+
+“(a)
+
+Compensation of Members.—Each member of the commission who is not an officer or employee of the United States shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the commission. All members of the commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+
+“(b)
+
+Travel Expenses.—The members of the commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the commission.
+
+“(c)
+
+Staff.—(1) The chairman of the commission may, without regard to the civil service laws and regulations, appoint an executive director and such other personnel as may be necessary to enable the commission to perform its duties. The appointment of an executive director shall be subject to approval by the commission.
+
+“(2) The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+“(d)
+
+Detail of Government Employees.—Upon request of the chairman of the commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
+
+“(e)
+
+Procurement of Temporary and Intermittent Services.—The chairman of the commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+#### “SEC. 1506. TERMINATION OF COMMISSION.
+
+“The commission shall terminate 60 days after the date on which the commission submits its report under section 1503.
+
+#### “SEC. 1507. FUNDING.
+
+“(a)
+
+In General.—The Secretary of Veterans Affairs shall, upon the request of the chairman of the commission, make available to the commission such amounts as the commission may require to carry out its duties under this title.
+
+“(b)
+
+Availability.—Any sums made available to the commission under subsection (a) shall remain available, without fiscal year limitation, until the termination of the commission.”
+
 #### Treatment of Certain Income of Alaska Natives for Purposes of Need-Based Benefits
 
 Pub. L. 103–446, title V, §506, Nov. 2, 1994, 108 Stat. 4664, provided that: “Any receipt by an individual from a Native Corporation under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) of cash, stock, land, or other interests referred to in subparagraphs (A) through (E) of section 29(c) of that Act (43 U.S.C. 1626(c)) (whether such receipt is attributable to the disposition of real property, profits from the operation of real property, or otherwise) shall not be countable as income for purposes of any law administered by the Secretary of Veterans Affairs.”
@@ -198,7 +350,7 @@ Increase Payable as of January 1992.—The amount of compensation or dependency 
 
 Pub. L. 97–37, §6, Aug. 14, 1981, 95 Stat. 937, provided that:
 
-“(a) Not later than ninety days after the date of the enactment of this Act \[Aug. 14, 1981\] and at appropriate times thereafter, the Administrator shall, to the maximum extent feasible and in order to carry out the requirements of the veterans outreach services program under subchapter IV of chapter 3 \[see subchapter II ofchapter 77\] of title 38, United States Code, seek out former prisoners of war and provide them with information regarding applicable changes in law, regulations, policies, guidelines, or other directives affecting the benefits and services to which former prisoners of war are entitled under such title by virtue of the amendments made by this Act \[see Tables for classification\].
+“(a) Not later than ninety days after the date of the enactment of this Act \[Aug. 14, 1981\] and at appropriate times thereafter, the Administrator shall, to the maximum extent feasible and in order to carry out the requirements of the veterans outreach services program under subchapter IV of chapter 3 \[see subchapter II of chapter 77\] of title 38, United States Code, seek out former prisoners of war and provide them with information regarding applicable changes in law, regulations, policies, guidelines, or other directives affecting the benefits and services to which former prisoners of war are entitled under such title by virtue of the amendments made by this Act \[see Tables for classification\].
 
 “(b)(1) The Administrator shall, for not less than the three-year period beginning ninety days after the date of the enactment of this Act \[Aug. 14, 1981\], maintain a centralized record showing all claims for benefits under chapter 11 of such title that are submitted by former prisoners of war and the disposition of such claims.
 

@@ -32,5 +32,5 @@ Pub. L. 102–590, §10, Nov. 10, 1992, 106 Stat. 5141, directed Secretary of Ve
 
 #### Authorization of Appropriations
 
-Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13,1996, 110 Stat. 769; Pub. L. 106–117, title IX, §903(4), Nov. 30, 1999, 113 Stat. 1587, which authorized appropriations for fiscal years 1993 through 1997 and 2000 and 2001, was repealed by Pub. L. 107–95, §5(e)(1), Dec. 21, 2001, 115 Stat. 918.
+Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13, 1996, 110 Stat. 769; Pub. L. 106–117, title IX, §903(4), Nov. 30, 1999, 113 Stat. 1587, which authorized appropriations for fiscal years 1993 through 1997 and 2000 and 2001, was repealed by Pub. L. 107–95, §5(e)(1), Dec. 21, 2001, 115 Stat. 918.
 

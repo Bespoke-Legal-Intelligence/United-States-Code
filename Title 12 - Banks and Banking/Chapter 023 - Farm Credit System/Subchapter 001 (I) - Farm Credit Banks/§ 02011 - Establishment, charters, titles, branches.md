@@ -54,7 +54,7 @@ Effective date.—Paragraph (1) shall take effect as if such paragraph had becom
 
 #### Mandatory Merger of System Institutions
 
-Section 410 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §402, Aug. 17, 1988, 102 Stat. 999; Pub. L. 102–552, title IV, §401(a), Oct. 28, 1992, 106 Stat. 4116, provided that:
+Section 410 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §402, Aug. 17, 1988, 102 Stat. 999; Pub.L. 102–552, title IV, §401(a), Oct. 28, 1992, 106 Stat. 4116, provided that:
 
 “(a)
 
@@ -94,7 +94,7 @@ Merger of entire bank.—Notwithstanding subparagraph (B), or any other provisio
 
 &emsp;&emsp;&emsp;“(iii)
 
-Limited lending authority.—Notwithstanding any provision of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), the Farm Credit Bank resulting from a merger under this subsection shall have only the lending authorities in the States of Alabama, Louisiana, and Mississippi that the constituent banks exercised in suchStates immediately prior to the merger, except as may be provided in section 5.17(a)(2) of such Act (12 U.S.C. 2252(a)(2)).
+Limited lending authority.—Notwithstanding any provision of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), the Farm Credit Bank resulting from a merger under this subsection shall have only the lending authorities in the States of Alabama, Louisiana, and Mississippi that the constituent banks exercised in such States immediately prior to the merger, except as may be provided in section 5.17(a)(2) of such Act (12 U.S.C. 2252(a)(2)).
 
 &emsp;&emsp;“(B)
 
@@ -170,7 +170,7 @@ In general.—Not later than 30 days after the issuance of an order by the Farm 
 
 &emsp;&emsp;“(B)
 
-Duties.—The arbitrator shall determine the terms and conditions of the merger required under an order issued under paragraph (1)(D), such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders and borrowers of the associations, andthe other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. The arbitrator shall have the authority to hire staff and secure the services of consultants as necessary to discharge the duties of the arbitrator under this paragraph.
+Duties.—The arbitrator shall determine the terms and conditions of the merger required under an order issued under paragraph (1)(D), such that the terms and conditions are fair and equitable to the two banks, their affiliated associations, the stockholders and borrowers of the associations, and the other institutions of the Farm Credit System, and are designed to protect or enhance the safety and soundness of the Farm Credit System. The arbitrator shall have the authority to hire staff and secure the services of consultants as necessary to discharge the duties of the arbitrator under this paragraph.
 
 &emsp;&emsp;“(C)
 
@@ -322,7 +322,7 @@ In general.—Except as provided in clause (ii), if at any time prior to the com
 
 &emsp;&emsp;&emsp;“(ii)
 
-Arbitrated merger.—If at any time after the Farm Credit Administration issues an order under paragraph (1)(D), but prior to the completion of the merger required under this subsection, the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration shall, after consultation with the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, take such action as it deems necessary pursuant to the authorities provided under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) to return the operation of the Federal Intermediate Credit Bank of Jackson to a safe and sound condition, pending the completion of the merger under paragraph (2).
+Arbitrated merger.—If at any time after the Farm Credit Administration issues an order under paragraph (1)(D), but prior to the completion of the merger required under this subsection, the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration shall, after consultation with the boards of directors of the Federal Intermediate Credit Bank of Jackson and the Farm Credit Bank of Texas, take such action as it deems necessary pursuant to the authorities provided under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) to return the operation of the Federal Intermediate Credit Bank of Jackson to a safeand sound condition, pending the completion of the merger under paragraph (2).
 
 &emsp;&emsp;“(J)
 
@@ -362,7 +362,7 @@ Procedures.—Notwithstanding any other provision of law, the court may set rule
 
 &emsp;&emsp;&emsp;“(iii)
 
-Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shallbe expedited in every way. The court shall render its final decision relative to any challenge not later than 50 days from the date the challenge is brought unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.
+Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge not later than 50 days from the date the challenge is brought unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.
 
 &emsp;&emsp;“(C)
 

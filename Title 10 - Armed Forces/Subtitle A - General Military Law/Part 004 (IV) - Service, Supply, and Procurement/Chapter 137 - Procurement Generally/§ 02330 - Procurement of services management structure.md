@@ -32,15 +32,19 @@ Contracting Responsibilities of Designated Officials.—(1) The responsibilities
 
 (c)
 
-Definition.—In this section, the term “performance-based”, with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth requirements in clear, specific, and objective terms with measurable outcomes.
+Definition.—In this section, the term “performance-based”, with respect to a contract or a task order, means that the contract or task order, respectively, includes the use of performance work statements that set forth requirements in clear, specific, and objective terms with measurable outcomes.
 
-(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174.)
+(Added Pub. L. 107–107, div. A, title VIII, §801(b)(1), Dec. 28, 2001, 115 Stat. 1174; amended Pub. L. 107–314, div. A, title X, §1062(a)(8), Dec. 2, 2002, 116 Stat. 2650.)
 
 #### Prior Provisions
 
 A prior section 2330, added Pub. L. 100–456, div. A, title VIII, §801(a)(1), Sept. 29, 1988, 102 Stat. 2007; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(2), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–190, div. A, title VIII, §802(d), Dec. 5, 1991, 105 Stat. 1414, related to integrated financing policy, prior to repeal by Pub. L. 102–484, div. D, title XLII, §4271(a)(1), Oct. 23, 1992, 106 Stat. 2695.
 
 Another prior section 2330 was renumbered section 2349 of this title.
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–314 inserted comma after “a task order”.
 
 #### Establishment and Implementation of Management Structure
 
@@ -78,33 +82,49 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘performance-based’, with respect to a contract or a task order means that the contract or task order, respectively, includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
 
-#### Savings Goals for Procurements of Services
+#### Performance Goals for Procurements of Services
 
-Pub. L. 107–107, div. A, title VIII, §802, Dec. 28, 2001, 115 Stat. 1178, provided that:
+Pub. L. 107–107, div. A, title VIII, §802, Dec. 28, 2001, 115 Stat. 1178, as amended by Pub. L. 107–314, div. A, title VIII, §805, Dec. 2, 2002, 116 Stat. 2605, provided that:
 
 “(a)
 
-Goals.—(1) It shall be an objective of the Department of Defense to achieve savings in expenditures for procurements of services through the use of—
+Goals.—(1) It shall be an objective of the Department of Defense to achieve efficiencies in procurements of services pursuant to multiple award contracts through the use of—
 
 &emsp;“(A) performance-based services contracting;
 
-&emsp;“(B) appropriate competition for task orders under services contracts; and
+&emsp;“(B) appropriate competition for task orders under services contracts;
 
 &emsp;“(C) program review, spending analyses, and improved management of services contracts.
 
-“(2) In furtherance of such objective, the Department of Defense shall have goals to use improved management practices to achieve, over 10 fiscal years, reductions in the total amount that would otherwise be expended by the Department for the procurement of services (other than military construction) in a fiscal year by the amount equal to 10 percent of the total amount of the expenditures of the Department for fiscal year 2000 for procurement of services (other than military construction), as follows:
+“(2) In furtherance of such objective, the Department of Defense shall have the following goals:
 
-&emsp;“(A) By fiscal year 2002, a three percent reduction.
+&emsp;“(A) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the volume of the individual purchases of services that are made on a competitive basis and involve receipt of more than one offer from qualified contractors to a percentage as follows:
 
-&emsp;“(B) By fiscal year 2003, a four percent reduction.
+&emsp;&emsp;“(i) For fiscal year 2003, a percentage not less than 40 percent.
 
-&emsp;“(C) By fiscal year 2004, a five percent reduction.
+&emsp;&emsp;“(ii) For fiscal year 2004, a percentage not less than 50 percent.
 
-&emsp;“(D) By fiscal year 2011, a ten percent reduction.
+&emsp;&emsp;“(iii) For fiscal year 2011, a percentage not less than 75 percent.
+
+&emsp;“(B) To increase, as a percentage of all of the individual purchases of services made by or for the Department of Defense under multiple award contracts for a fiscal year (calculated on the basis of dollar value), the use of performance-based purchasing specifying firm fixed prices for the specific tasks to be performed to a percentage as follows:
+
+&emsp;&emsp;“(i) For fiscal year 2003, a percentage not less than 25 percent.
+
+&emsp;&emsp;“(ii) For fiscal year 2004, a percentage not less than 35 percent.
+
+&emsp;&emsp;“(iii) For fiscal year 2005, a percentage not less than 50 percent.
+
+&emsp;&emsp;“(iv) For fiscal year 2011, a percentage not less than 70 percent.
+
+“(3) The Secretary of Defense may adjust any percentage goal established in paragraph (2) if the Secretary determines in writing that such a goal is too high and cannot reasonably be achieved. In the event that the Secretary chooses to adjust such a goal, the Secretary shall—
+
+&emsp;“(A) establish a percentage goal that the Secretary determines would create an appropriate incentive for Department of Defense components to use competitive procedures or performance-based services contracting, as the case may be; and
+
+&emsp;“(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an explanation of the reasons for the Secretary's determination and a statement of the new goal that the Secretary has established.
 
 “(b)
 
-Annual Report.—Not later than March 1, 2002, and annually thereafter through March 1, 2006, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress made toward meeting the objective and goals established in subsection (a). Each report shall include, at a minimum, the following information:
+Annual Report.—Not later than March 1, 2002, and annually thereafter through March 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress made toward meeting the objective and goals established in subsection (a). Each report shall include, at a minimum, the following information:
 
 &emsp;“(1) A summary of the steps taken or planned to be taken in the fiscal year of the report to improve the management of procurements of services.
 
@@ -114,5 +134,15 @@ Annual Report.—Not later than March 1, 2002, and annually thereafter through M
 
 &emsp;“(4) An estimate of the amount that will be expended by the Department of Defense for procurements of services in the following fiscal year.
 
-&emsp;“(5) An estimate of the amount of savings that, as a result of improvement of the management practices used by the Department of Defense, will be achieved for the procurement of services by the Department in the fiscal year of the report and in the following fiscal year.”
+&emsp;“(5) Regarding the individual purchases of services that were made by or for the Department of Defense under multiple award contracts in the fiscal year preceding the fiscal year in which the report is required to be submitted, information (determined using the data collection system established under section 2330a of title 10, United States Code) as follows:
+
+&emsp;&emsp;“(A) The percentage (calculated on the basis of dollar value) of such purchases that are purchasesthat were made on a competitive basis and involved receipt of more than one offer from qualified contractors.
+
+&emsp;&emsp;“(B) The percentage (calculated on the basis of dollar value) of such purchases that are performance-based purchases specifying firm fixed prices for the specific tasks to be performed.
+
+“(c)
+
+Definitions.—(1) In this section, the terms ‘individual purchase’ and ‘multiple award contract’ have the meanings given such terms in section 803(c) of this Act \[10 U.S.C. 2304 note\].
+
+“(2) For the purposes of this section, an individual purchase of services is made on a competitive basis only if it is made pursuant to procedures described in paragraphs (2), (3), and (4) of section 803(b) of this Act \[10 U.S.C. 2304 note\].”
 

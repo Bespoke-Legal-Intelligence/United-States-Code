@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with theTask Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
+&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with the Task Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
 
 #### (2) Content of regulations
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) the crew and passengers of each vessel;
 
-&emsp;&emsp;(D) direct a vessel that is carrying ballast water into waters of the United States after operating beyond the exclusive economic zone to—
+&emsp;&emsp;(D) direct a vessel that is carrying ballast water into waters of the United States afteroperating beyond the exclusive economic zone to—
 
 &emsp;&emsp;&emsp;(i) carry out the exchange of ballast water of the vessel in waters beyond the exclusive economic zone;
 
@@ -246,7 +246,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shall not be restricted from discharging ballast water in any harbor.
+&emsp;&emsp;Except as provided in subparagraph (B), a vessel that does not exchange ballast water on the high seas under paragraph (1) shallnot be restricted from discharging ballast water in any harbor.
 
 #### (B) Great Lakes
 
@@ -262,7 +262,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 The Secretary shall ensure that vessels registered outside of the United States do not receive more favorable treatment than vessels registered in the United States when the Secretary performs studies, reviews compliance, determines effectiveness, establishes requirements, or performs any other responsibilities under this chapter.
 
-(Pub. L. 101–646, title I, §1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, §302(b)(1),Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, §4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, §2(b)(2), Oct. 26, 1996, 110 Stat. 4075.)
+(Pub. L. 101–646, title I, §1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, §302(b)(1), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, §4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, §2(b)(2), Oct. 26, 1996, 110 Stat. 4075.)
 
 #### References in Text
 

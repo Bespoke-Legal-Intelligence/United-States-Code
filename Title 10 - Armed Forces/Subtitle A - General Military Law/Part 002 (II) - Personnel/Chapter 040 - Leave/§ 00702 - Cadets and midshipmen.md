@@ -2,7 +2,7 @@
 
 (a)
 
-Graduation Leave.—Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy who, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of not more than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
+Graduation Leave.—Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academywho, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of not more than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
 
 (b)
 
@@ -101,4 +101,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date
 
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

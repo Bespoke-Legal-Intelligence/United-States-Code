@@ -2,7 +2,7 @@
 
 (a)
 
-Collection of Information on Foreign-Controlled Contractors.—The Secretary of Defense and the Secretary of Energy shall each collect and maintain a data base containing a list of, and other pertinent information on, all contractors with the Department of Defense and the Department of Energy, respectively, that are controlled by foreign persons. The data base shall contain information on such contractors for 1988 and thereafter in all cases where they are awarded contracts exceeding $100,000 in any single year by the Department of Defense or the Department of Energy.
+Collection of Information on Foreign-Controlled Contractors.—The Secretary of Defense and the Secretary of Energy shall each collect and maintain a data base containing a list of, and other pertinent information on, all contractors with the Department of Defense and the Department of Energy, respectively, that are controlled by foreign persons. The data base shall contain information on such contractors for 1988 and thereafter in all cases where they are awarded contracts exceeding $10,000,000 in any single year by the Department of Defense or the Department of Energy.
 
 (b)
 
@@ -22,9 +22,11 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 
 &emsp;(D) The Air Force Foreign Aerospace Science and Technology Center.
 
-(Added Pub. L. 102–484, div. A, title VIII, §838(a), Oct. 23, 1992, 106 Stat. 2465; amended Pub. L. 103–35, title II, §201(d)(5), (h)(2), May 31, 1993, 107 Stat. 99, 100.)
+(Added Pub. L. 102–484, div. A, title VIII, §838(a), Oct. 23, 1992, 106 Stat. 2465; amended Pub. L. 103–35, title II, §201(d)(5), (h)(2), May 31, 1993, 107 Stat. 99, 100; Pub. L. 107–314, div. A, title X, §1041(a)(16), Dec. 2, 2002, 116 Stat. 2645.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–314 substituted “$10,000,000” for “$100,000”.
 
 1993—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted “respectively, that” for “respectively, which”.
 

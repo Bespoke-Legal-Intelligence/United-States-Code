@@ -20,7 +20,7 @@
 
 #### (B) In general
 
-&emsp;&emsp;Of the amount appropriated under section 6302(f) of this title that remains after making the reservation under subparagraph (A) for a fiscal year, the Secretary shall allot to each State for the fiscal year an amount that bears the same ratio to the remainder for that fiscal year as the amount madeavailable under section 6333 of this title to the State for the preceding fiscal year bears to the total amount made available under section 6333 of this title to all States for that year.
+&emsp;&emsp;Of the amount appropriated under section 6302(f) of this title that remains after making the reservation under subparagraph (A) for a fiscal year, the Secretary shall allot to each State for the fiscal year an amount that bears the same ratio to the remainder for that fiscal year as the amount made available under section 6333 of this title to the State for the preceding fiscal year bears to the total amount made available under section 6333 of this title to all States for that year.
 
 #### (C) Reallotment
 

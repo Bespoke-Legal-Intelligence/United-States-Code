@@ -21,7 +21,7 @@ In this connection former Congressman Walter Chandler said, “Among the major s
 
 #### History of Court
 
-The United States Customs Court \[now Court of International Trade\] as “constituted on June 17, 1930”, consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972, which established the Board of General Appraisers, designated the“United States Customs Court” by act May 28, 1926, ch. 411, §1, 44 Stat. 669.
+The United States Customs Court \[now Court of International Trade\] as “constituted on June 17, 1930”, consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972, which established the Board of General Appraisers, designated the “United States Customs Court” by act May 28, 1926, ch. 411, §1, 44 Stat. 669.
 
 Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972. That section was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
 

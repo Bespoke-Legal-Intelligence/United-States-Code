@@ -22,7 +22,7 @@ For each fiscal year after the first fiscal year in which an organization or con
 
 #### (2) Dissemination
 
-&emsp;The Secretary shall disseminate annually to Congress and the public the information that each organization or consortium submits under paragraph (1).
+&emsp;The Secretary shall disseminate annually to Congress and the public the information thateach organization or consortium submits under paragraph (1).
 
 #### (c) Technical assistance
 

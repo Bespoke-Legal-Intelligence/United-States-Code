@@ -36,7 +36,7 @@ A prior section 5363, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which relat
 
 1993—Subsec. (c)(2). Pub. L. 103–89 substituted “chapter 51 or 53” for “chapter 51, 53, or 54”.
 
-1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision ofthis title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
+1990—Subsec. (a)(2) to (4). Pub. L. 101–509 substituted “5305 of this title (or corresponding prior provision of this title);” for “5303 of this title; or” in par. (2), inserted “or” at end of par. (3), and added par. (4).
 
 #### Effective Date of 1993 Amendment
 

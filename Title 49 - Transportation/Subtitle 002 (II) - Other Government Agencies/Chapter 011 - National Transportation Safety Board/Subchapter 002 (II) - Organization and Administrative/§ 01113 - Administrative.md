@@ -154,7 +154,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(b)(12), 88 Stat. 2171; July 19, 1988, Pub.
 
 In subsection (a)(1), the words “sit and act at such times and places” are omitted as unnecessary. The word “necessary” is substituted for “as the Board or such officer or employee deems advisable” because it is more accurate.
 
-In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in therevised title and with other titles of the United States Code.
+In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. The words “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted as surplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
 
@@ -193,6 +193,22 @@ GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under
 Subsec. (b)(2). Pub. L. 106–424, §3(b)(1), inserted “as offsetting collections” after “to be credited” and “The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.” at end.
 
 Subsec. (g). Pub. L. 106–424, §4, added subsec. (g).
+
+#### Relief From Contracting Requirements for Investigations Services
+
+Pub. L. 108–168, §4, Dec. 6, 2003, 117 Stat. 2033, provided that:
+
+“(a)
+
+In General.—From the date of enactment of this Act \[Dec. 6, 2003\] through September 30, 2006, the National Transportation Safety Board may enter into agreements or contracts under the authority of section 1113(b)(1)(B) of title 49, United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation.
+
+“(b)
+
+Report on Usage.—On February 1, 2006, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform, the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—
+
+&emsp;“(1) describes each contract for $25,000 or more executed by the Board to which the authority provided by subsection (a) was applied; and
+
+&emsp;“(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
 
 #### Travel Budgets
 

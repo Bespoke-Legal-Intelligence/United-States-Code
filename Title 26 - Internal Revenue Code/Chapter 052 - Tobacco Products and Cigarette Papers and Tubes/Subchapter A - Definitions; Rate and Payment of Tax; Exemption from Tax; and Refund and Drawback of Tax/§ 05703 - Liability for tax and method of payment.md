@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, in the case of taxes on tobacco products and cigarette papers and tubes removed during any semimonthly period under bond for deferred payment of tax, the last day for payment of such taxes shall be the 14th dayafter the last day of such semimonthly period.
+&emsp;&emsp;Except as otherwise provided in this paragraph, in the case of taxes on tobacco products and cigarette papers and tubes removed during any semimonthly period under bond for deferred payment of tax, the last day for payment of such taxes shall be the 14th day after the last day of such semimonthly period.
 
 #### (B) Imported articles
 
@@ -86,7 +86,7 @@ Subsec. (b)(2)(E). Pub. L. 103–465, §712(c), redesignated subpar. (D) as (E),
 
 1988—Subsec. (b)(2)(B)(i), (ii), (C). Pub. L. 100–647 substituted “the 14th day after the last day of the semimonthly period during which” for “the 14th day after the date on which”.
 
-1986—Subsec. (b)(2). Pub. L. 99–509 amended par. (2) generally. Prior to amendment par. (2), time for making of return and payment of taxes, read as follows: “In the case of tobacco products and cigarette papers and tubes removed after December 31, 1982, under bond for deferred payment of tax, the last day for filing a return and paying any tax due for each return period shall be the last day of the first succeeding return period plus 10 days.”
+1986—Subsec. (b)(2). Pub. L. 99–509 amended par. (2) generally. Prior to amendment par. (2), time for making of return and payment of taxes, read as follows: “Inthe case of tobacco products and cigarette papers and tubes removed after December 31, 1982, under bond for deferred payment of tax, the last day for filing a return and paying any tax due for each return period shall be the last day of the first succeeding return period plus 10 days.”
 
 Subsec. (b)(3). Pub. L. 99–514 inserted last sentence.
 

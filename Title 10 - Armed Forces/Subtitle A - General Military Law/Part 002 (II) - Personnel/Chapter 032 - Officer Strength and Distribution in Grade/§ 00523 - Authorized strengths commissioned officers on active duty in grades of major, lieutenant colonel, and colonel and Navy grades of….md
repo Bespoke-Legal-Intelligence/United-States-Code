@@ -51,12 +51,12 @@
 | 125,000 | 23,789 | 14,081 | 5,381 |
 | Marine Corps: |  |  |  |
 | 10,000 | 2,525 | 1,480 | 571 |
-| 12,500 | 2,900 | 1,600 | 592 |
-| 15,000 | 3,275 | 1,720 | 613 |
-| 17,500 | 3,650 | 1,840 | 633 |
-| 20,000 | 4,025 | 1,960 | 654 |
-| 22,500 | 4,400 | 2,080 | 675 |
-| 25,000 | 4,775 | 2,200 | 695\. |
+| 12,500 | 2,900 | 1,600 | 632 |
+| 15,000 | 3,275 | 1,720 | 653 |
+| 17,500 | 3,650 | 1,840 | 673 |
+| 20,000 | 4,025 | 1,960 | 694 |
+| 22,500 | 4,400 | 2,080 | 715 |
+| 25,000 | 4,775 | 2,200 | 735\. |
 
 (2) Except as provided in subsection (c), of the total number of commissioned officers serving on active duty in the Navy at the end of any fiscal year (excluding officers in categories specified in subsection (b)), the number of officers who may be serving on active duty in each of the grades of lieutenant commander, commander, and captain may not, as of the end of such fiscal year, exceed a number determined in accordance with the following table:
 
@@ -116,9 +116,11 @@
 
 (d) An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV,§414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–314, in table, increased number of officers authorized to serve on active duty in the Marine Corps in the grade of Colonel to 571, 632, 653, 673, 694, 715, and 735 from 571, 592, 613, 633, 654, 675, and 695, respectively.
 
 1996—Subsec. (a)(1). Pub. L. 104–201, §403(a), amended table generally, expanding the range of numbers of commissioned officers covered and extensively revising the numbers in each grade covered.
 
@@ -180,7 +182,7 @@ Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended b
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
-For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty, see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
+For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty,see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 

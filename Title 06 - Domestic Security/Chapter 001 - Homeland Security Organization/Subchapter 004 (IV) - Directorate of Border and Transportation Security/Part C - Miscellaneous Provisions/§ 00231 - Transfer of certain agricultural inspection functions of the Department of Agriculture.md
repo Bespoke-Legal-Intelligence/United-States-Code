@@ -88,7 +88,7 @@ The Plant Protection Act, referred to in subsec. (b)(4), is title IV of Pub. L. 
 
 The Animal Health Protection Act, referred to in subsec. (b)(5), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (b)(6), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of Title 16, Conservation, amended section 1540 of Title 16 and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of Title 16 and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of Title 16 and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (b)(6), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of Title 16, Conservation, amended section 1540 of Title 16 and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of Title 16 and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540and 3371 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of Title 16 and Tables.
 
 #### Codification
 

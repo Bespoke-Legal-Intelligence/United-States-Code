@@ -6,7 +6,7 @@ A worker, group of workers, certified or recognized union, or authorized represe
 
 #### (b) Findings of fact by Secretary; conclusiveness; new or modified findings
 
-The findings of fact by the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to such Secretary to take further evidence, and such Secretary may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+The findings of fact by the Secretary of Labor, the Secretary of Commerce, or the Secretary ofAgriculture, as the case may be, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to such Secretary to take further evidence, and such Secretary may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Determination; review by Supreme Court
 
@@ -40,7 +40,7 @@ Amendment by section 142(a) of Pub. L. 107–210 effective on the date that is 1
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
 
 #### Effective Date of 1982 Amendment
 

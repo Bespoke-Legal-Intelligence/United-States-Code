@@ -24,7 +24,7 @@ For the purpose of this section, the term “eligible entity” means—
 
 #### (c) Program authorized
 
-The Secretary is authorized to award grants to eligible entities having applications approved under this section to enable those entities to carry out the activities described in subsection (d) of this section.
+The Secretary is authorized to award grants to eligible entities having applications approved under this section to enable those entities tocarry out the activities described in subsection (d) of this section.
 
 #### (d) Authorized activities
 

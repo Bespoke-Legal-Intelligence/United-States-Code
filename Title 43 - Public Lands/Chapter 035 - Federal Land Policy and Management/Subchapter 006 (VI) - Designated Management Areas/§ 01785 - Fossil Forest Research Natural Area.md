@@ -44,7 +44,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (C) Oil and gas leases
 
-&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 of title 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretary of the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
+&emsp;&emsp;Operations on oil and gas leases issued prior to November 12, 1996, shall be subject to the applicable provisions of Group 3100 of title 43, Code of Federal Regulations (including section 3162.5–1), and such other terms, stipulations, and conditions as the Secretaryof the Interior considers necessary to avoid significant disturbance of the land surface or impairment of the natural, educational, and scientific research values of the Area in existence on November 12, 1996.
 
 #### (3) Grazing
 
@@ -98,7 +98,7 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 
 2000—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
 
-Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making thesubstitution following “consistent with”, to reflect the probable intent of Congress.
+Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making the substitution following “consistent with”, to reflect the probable intent of Congress.
 
 Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Committee on Natural Resources”.
 

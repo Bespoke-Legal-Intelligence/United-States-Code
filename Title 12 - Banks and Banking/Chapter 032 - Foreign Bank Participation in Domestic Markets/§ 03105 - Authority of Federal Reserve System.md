@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 ormore foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
+&emsp;&emsp;The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
 
 #### (B) Coordination of examinations
 
@@ -90,7 +90,7 @@
 
 #### (B) Other considerations
 
-&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall alsoconsider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
 
 #### (C) Additional conditions
 
@@ -232,7 +232,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (B) Money laundering offense defined
 
-&emsp;&emsp;The term “money laundering offense” means any criminal offense under section 1956 or 1957 of title 18 or under section 5322 of title 31.
+&emsp;&emsp;The term “money laundering offense” means any criminal offense under section1956 or 1957 of title 18 or under section 5322 of title 31.
 
 #### (j) Study on equivalence of foreign bank capital
 

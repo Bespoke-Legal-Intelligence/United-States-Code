@@ -1,6 +1,6 @@
 ### §294. Voluntary arbitration
 
-(a) A contract involving a patent or any right under a patent may contain a provision requiring arbitration of any dispute relating to patent validity or infringement arising under the contract. In the absence of such a provision, the parties to an existing patent validity or infringement dispute may agree in writing to settle such dispute by arbitration. Any such provision or agreement shall be valid, irrevocable, and enforceable, except for any grounds that exist at law or in equity for revocation of a contract.
+(a) A contract involving a patent or any right under a patent may contain a provision requiring arbitration of any dispute relating to patentvalidity or infringement arising under the contract. In the absence of such a provision, the parties to an existing patent validity or infringement dispute may agree in writing to settle such dispute by arbitration. Any such provision or agreement shall be valid, irrevocable, and enforceable, except for any grounds that exist at law or in equity for revocation of a contract.
 
 (b) Arbitration of such disputes, awards by arbitrators and confirmation of awards shall be governed by title 9, to the extent such title is not inconsistent with this section. In any such arbitration proceeding, the defenses provided for under section 282 of this title shall be considered by the arbitrator if raised by any party to the proceeding.
 

@@ -4,7 +4,7 @@
 
 (b) The court shall disclose to both the defendant and the attorney for the Government all portions of the presentence or other report pertaining to the matters described in subsection (a) of this section.
 
-(c) The provisions of this chapter, chapter 227, and Rule 32(c) of the Federal Rules of Criminal Procedure shall be the only rules applicable to proceedings under this section.
+(c) The provisions of this chapter, chapter 227, and Rule 32(c) of the Federal Rules of CriminalProcedure shall be the only rules applicable to proceedings under this section.
 
 (d)(1) Upon the request of the probation officer, but not later than 60 days prior to the date initially set for sentencing, the attorney for the Government, after consulting, to the extent practicable, with all identified victims, shall promptly provide the probation officer with a listing of the amounts subject to restitution.
 
@@ -64,7 +64,7 @@
 
 (2) A victim may at any time assign the victim's interest in restitution payments to the Crime Victims Fund in the Treasury without in any way impairing the obligation of the defendant to make such payments.
 
-(h) If the court finds that more than 1 defendant has contributed to the loss of a victim, the court may make each defendant liable for payment of the full amount of restitution or may apportion liability among the defendants to reflect the level of contribution to the victim's loss and economic circumstances of each defendant.
+(h) If the court finds that more than 1 defendant has contributed to the loss of a victim, the court may make each defendant liable for payment of the full amount of restitution or may apportion liability among the defendants to reflect the level of contribution to the victim'sloss and economic circumstances of each defendant.
 
 (i) If the court finds that more than 1 victim has sustained a loss requiring restitution by a defendant, the court may provide for a different payment schedule for each victim based on the type and amount of each victim's loss and accounting for the economic circumstances of each victim. In any case in which the United States is a victim, the court shall ensure that all other victims receive full restitution before the United States receives any restitution.
 

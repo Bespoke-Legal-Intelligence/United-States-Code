@@ -80,7 +80,7 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 502, 511 of this title.
+This chapter is referred to in sections 502, 511 of this title; title 50 App. section 549.
 
 
 ---

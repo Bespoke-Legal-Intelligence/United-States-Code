@@ -12,7 +12,7 @@ The Trust shall be governed by a 9-member Board of Trustees consisting of the fo
 
 &emsp;&emsp;(B) the Superintendent of the Bandelier National Monument, National Park Service; and
 
-&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall havespecific expertise or represent an organization or government entity as follows—
+&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall have specific expertise or represent an organization or government entity as follows—
 
 &emsp;&emsp;&emsp;(i) one trustee shall have expertise in aspects of domesticated livestock management, production, and marketing, including range management and livestock business management;
 

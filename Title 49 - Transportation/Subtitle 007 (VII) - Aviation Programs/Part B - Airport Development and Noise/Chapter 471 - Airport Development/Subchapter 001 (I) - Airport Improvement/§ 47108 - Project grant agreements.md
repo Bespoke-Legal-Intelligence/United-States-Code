@@ -2,13 +2,13 @@
 
 (a)
 
-Offer and Acceptance.—On approving a project grant application under this subchapter,the Secretary of Transportation shall offer the sponsor a grant to pay the United States Government's share of the project costs allowable under section 47110 of this title. The Secretary may impose terms on the offer that the Secretary considers necessary to carry out this subchapter and regulations prescribed under this subchapter. An offer shall state the obligations to be assumed by the sponsor and the maximum amount the Government will pay for the project from the amounts authorized under chapter 481 of this title (except sections 48102(e), 48106, 48107, and 48110). At the request of the sponsor, an offer of a grant for a project that will not be completed in one fiscal year shall provide for the obligation of amounts apportioned or to be apportioned to a sponsor under section 47114(c) of this title for the fiscal years necessary to pay the Government's share of the cost of the project. An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor. The Government may pay or be obligated to pay a project cost only after a grant agreement for the project is signed.
+Offer and Acceptance.—On approving a project grant application under this subchapter, the Secretary of Transportation shall offer the sponsor a grant to pay the United States Government's share of the project costs allowable under section 47110 of this title. The Secretary may impose terms on the offer that the Secretary considers necessary to carry out this subchapter and regulations prescribed under this subchapter. An offer shall state the obligations to be assumed by the sponsor and the maximum amount the Government will pay for the project from the amounts authorized under chapter 481 of this title (except sections 48102(e), 48106, 48107, and 48110). At the request of the sponsor, an offer of a grant for a project that will not be completed in one fiscal year shall provide for the obligation of amounts apportioned or to be apportioned to a sponsor under section 47114(c) or 47114(d)(3)(A) of this title for the fiscal years necessary to pay the Government's share of the cost of the project. An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor. The Government may pay or be obligated to pay a project cost only after a grant agreement for the project is signed.
 
 (b)
 
 Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only as provided in paragraphs (2) and (3) of this subsection.
 
-(2)(A) For a project receiving assistance under a grant approved under the Airport and Airway Improvement Act of 1982 before October 1, 1987, the amount may be increased by not more than—
+(2)(A) For a project receiving assistance under a grant approved under the Airport and Airway Improvement Act of 1982 before October 1, 1987,the amount may be increased by not more than—
 
 &emsp;(i) 10 percent for an airport development project, except a project for acquiring an interest in land; and
 
@@ -46,7 +46,7 @@ Changes to nonprimary airport status.—If the status of a primary airport chang
 
 Changes to noncommercial service airport status.—If the status of a commercial service airport changes to a noncommercial service airport at a time when a terminal development project under a phased-funding arrangement is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the arrangement subject to the availability of funds.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505.)
 
 Historical and Revision Notes
 
@@ -100,7 +100,13 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (c), is t
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–176 inserted “or 47114(d)(3)(A)” after “under section 47114(c)”.
+
 2000—Subsec. (e). Pub. L. 106–181 added subsec. (e).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

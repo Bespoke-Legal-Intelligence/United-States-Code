@@ -32,7 +32,7 @@ Pub. L. 101–630, title V, §509(b), (c), Nov. 28, 1990, 104 Stat. 4567, provid
 
 “(b)
 
-Lease of Facilities.—The Secretary of Health and Human Services, acting under section 4209(c) and 4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act \[of 1986, 25 U.S.C. 2415(c), 2474(b)\], may—
+Lease of Facilities.—The Secretary of Health and Human Services, acting under section 4209(c) and4227(b) of the Indian Alcohol and Substance Abuse Prevention and Treatment Act \[of 1986, 25 U.S.C. 2415(c), 2474(b)\], may—
 
 &emsp;“(1) without regard to section 4209(c)(2) of that Act, lease from the Tanana Chiefs Conference facilities that are located in Fairbanks, Alaska, and that the Tanana Chiefs Conference has leased from another entity, and
 

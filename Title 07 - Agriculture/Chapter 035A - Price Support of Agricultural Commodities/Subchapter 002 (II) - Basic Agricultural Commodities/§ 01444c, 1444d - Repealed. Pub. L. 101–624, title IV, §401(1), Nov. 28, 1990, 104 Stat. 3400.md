@@ -6,5 +6,5 @@ Section 1444d, act Oct. 31, 1949, ch. 792, title I, §105B, as added Dec. 22, 19
 
 #### Effective Date of Repeal
 
-Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, seesection 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
+Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 

@@ -58,7 +58,7 @@
 
 #### (C) Property attributable to accrued interest
 
-&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shallapply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
+&emsp;&emsp;Neither paragraph (1) nor so much of section 356 as relates to paragraph (1) shall apply to the extent that any stock (including nonqualified preferred stock, as defined in section 351(g)(2)), securities, or other property received is attributable to interest which has accrued on securities on or after the beginning of the holder's holding period.
 
 #### (D) Nonqualified preferred stock
 
@@ -66,7 +66,7 @@
 
 #### (4) Cross references
 
-&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (3)(C) applies), see section 356.</b>
+&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but</b><b>not including property to which paragraph (3)(C) applies), see section 356.</b>
 
 &emsp;&emsp;<b>(B) For treatment of accrued interest in the case of an exchange described in paragraph (3)(C), see section 61.</b>
 
@@ -250,7 +250,7 @@
 
 #### (1) General rule
 
-&emsp;If there is a distribution to which this subsection applies, any stock or securities in the controlled corporation shall not be treated as qualified property for purposes of subsection (c)(2) of this section or section 361(c)(2).
+&emsp;If there is a distribution to which this subsection applies, any stock or securities in thecontrolled corporation shall not be treated as qualified property for purposes of subsection (c)(2) of this section or section 361(c)(2).
 
 #### (2) Distributions to which subsection applies
 
@@ -330,7 +330,7 @@
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurposes of this subsection, including regulations—
 
 &emsp;&emsp;(A) providing for the application of this subsection where there is more than 1 controlled corporation,
 
@@ -416,7 +416,7 @@ Subsec. (c). Pub. L. 100–647, §1018(d)(5)(C), added subsec. (c).
 
 1987—Subsec. (b)(2)(D). Pub. L. 100–203, §10223(b)(3), inserted at end “For purposes of subparagraph (D), all distributee corporations which are members of the same affiliated group (as defined in section 1504(a) without regard to section 1504(b)) shall be treated as 1 distributee corporation.”
 
-Subsec. (b)(2)(D)(i). Pub. L. 100–203, §10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i)read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
+Subsec. (b)(2)(D)(i). Pub. L. 100–203, §10223(b)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “was not acquired directly (or through one or more corporations) by another corporation within the period described in subparagraph (B), or”.
 
 Subsec. (b)(2)(D)(ii). Pub. L. 100–203, §10223(b)(2), substituted “such distributee corporation” for “by another corporation”.
 
@@ -428,7 +428,7 @@ Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as s
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

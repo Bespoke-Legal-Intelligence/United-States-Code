@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 6311, 6363, 6367, 6381a, 6381d, 6381e, 6381j, 9271, 9272, 9273, 9275, 9276 of this title; title 29 sections 2822, 2841, 2864; title 42 section 3013.
+This subchapter is referred to in sections 6311, 6363, 6367, 6381a, 6381d, 6381e, 6381j, 9271, 9272, 9273, 9275, 9276 of this title; title 29 sections 2822, 2841, 2864; title 42 section 3013; title 48 section 1921d.
 
 
 ---

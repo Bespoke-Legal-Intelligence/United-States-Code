@@ -6,7 +6,7 @@ It is the purpose of—
 
 &emsp;(2) part A of this subchapter, the Retired and Senior Volunteer Program, to utilize the vast talents of older individuals willing to share their experiences, abilities, and skills in responding to a wide variety of community needs;
 
-&emsp;(3) part B of this subchapter, the foster grandparent program, to afford low-income older individuals an opportunity to provide supportive, individualized services to children with exceptional or special needs; and
+&emsp;(3) part B of this subchapter, the foster grandparent program, to afford low-income older individuals an opportunity to providesupportive, individualized services to children with exceptional or special needs; and
 
 &emsp;(4) part C of this subchapter, the senior companion program, to afford low-income older individuals the opportunity to provide personal assistance and companionship to other older individuals through volunteer service.
 

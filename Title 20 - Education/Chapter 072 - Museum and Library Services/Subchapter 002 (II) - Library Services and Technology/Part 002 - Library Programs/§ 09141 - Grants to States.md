@@ -4,23 +4,41 @@
 
 Of the funds provided to a State library administrative agency under section 9123 of this title, such agency shall expend, either directly or through subgrants or cooperative agreements, at least 96 percent of such funds for—
 
-&emsp;(1)(A) establishing or enhancing electronic linkages among or between libraries;
+&emsp;(1) expanding services for learning and access to information and educational resourcesin a variety of formats, in all types of libraries, for individuals of all ages;
 
-&emsp;(B) electronically linking libraries with educational, social, or information services;
+&emsp;(2) developing library services that provide all users access to information through local, State, regional, national, and international electronic networks;
 
-&emsp;(C) assisting libraries in accessing information through electronic networks;
+&emsp;(3) providing electronic and other linkages among and between all types of libraries;
 
-&emsp;(D) encouraging libraries in different areas, and encouraging different types of libraries, to establish consortia and share resources; or
+&emsp;(4) developing public and private partnerships with other agencies and community-based organizations;
 
-&emsp;(E) paying costs for libraries to acquire or share computer systems and telecommunications technologies; and
+&emsp;(5) targeting library services to individuals of diverse geographic, cultural, and socioeconomic backgrounds, to individuals with disabilities, and to individuals with limited functional literacy or information skills; and
 
-&emsp;(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
+&emsp;(6) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
 
 #### (b) Special rule
 
-Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section between the two purposes described in paragraphs (1) and (2) of such subsection, as appropriate, to meet the needs of the individual State.
+Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.
 
-(Pub. L. 94–462, title II, §231, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301.)
+(Pub. L. 94–462, title II, §231, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, §206, Sept. 25, 2003, 117 Stat. 999.)
+
+#### Amendments
+
+2003—Subsec. (a)(1) to (6). Pub. L. 108–81, §206(1), added pars. (1) to (6) and struck out former pars. (1) and (2) which read as follows:
+
+“(1)(A) establishing or enhancing electronic linkages among or between libraries;
+
+“(B) electronically linking libraries with educational, social, or information services;
+
+“(C) assisting libraries in accessing information through electronic networks;
+
+“(D) encouraging libraries in different areas, and encouraging different types of libraries, to establish consortia and share resources; or
+
+“(E) paying costs for libraries to acquire or share computer systems and telecommunications technologies; and
+
+“(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.”
+
+Subsec. (b). Pub. L. 108–81, §206(2), substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.
 
 #### Section Referred to in Other Sections
 

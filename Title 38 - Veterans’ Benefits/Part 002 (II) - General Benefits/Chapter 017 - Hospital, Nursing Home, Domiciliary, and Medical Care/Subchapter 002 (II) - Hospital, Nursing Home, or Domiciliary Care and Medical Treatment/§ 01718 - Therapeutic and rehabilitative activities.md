@@ -6,17 +6,25 @@
 
 (2) Notwithstanding any other provision of law, the Secretary may also furnish rehabilitative services under this subsection through contractual arrangements with nonprofit entities to provide for such therapeutic work for such patients. The Secretary shall establish appropriate fiscal, accounting, management, recordkeeping, and reporting requirements with respect to the activities of any such nonprofit entity in connection with such contractual arrangements.
 
-(c)(1) There is hereby established in the Treasury of the United States a revolving fund known as the Department of Veterans Affairs Special Therapeutic and Rehabilitation Activities Fund (hereinafter in this section referred to as the “fund”) for the purpose of furnishing rehabilitative services authorized in subsection (b) of this section. Such amounts of the fund as the Secretary may determine to be necessary to establish and maintain operating accounts for the various rehabilitative services activities may be deposited in checking accounts in other depositaries selected or established by the Secretary.
+(c)(1) There is hereby established in the Treasury of the United States a revolving fund known as the Department of Veterans Affairs Special Therapeutic and Rehabilitation Activities Fund (hereinafter in this section referred to as the “fund”) for the purpose of furnishing rehabilitative services authorized in subsection (b) or (d). Such amounts of the fund as the Secretary may determine to be necessary to establish and maintain operating accounts for the various rehabilitative services activities may be deposited in checking accounts in other depositaries selected or established by the Secretary.
 
-(2) All funds received by the Department under contractual arrangements made under subsection (b) of this section, or by nonprofit entities described in paragraph (2) of such subsection, shall be deposited in or credited to the fund, and the Secretary shall distribute out of the fund moneys to participants at rates not less than the wage rates specified in the Fair Labor Standards Act (29 U.S.C. 201 et seq.) and regulations prescribed thereunder for work of similar character.
+(2) All funds received by the Department under contractual arrangements made under subsection (b) or (d), or by nonprofit entities described in subsection (b)(2), shall be deposited in or credited to the fund, and the Secretary shall distribute out of the fund moneys to participants at rates not less than the wage rates specified in the Fair Labor Standards Act (29 U.S.C. 201 et seq.) and regulations prescribed thereunder for work of similar character.
 
 (3) The Under Secretary for Health shall prepare, for inclusion in the annual report submitted to Congress under section 529 of this title, a description of the scope and achievements of activities carried out under this section (including pertinent data regarding productivity and rates of distribution) during the prior twelve months and an estimate of the needs of the program of therapeutic and rehabilitation activities to be carried out under this section for the ensuing fiscal year.
 
-(d) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
+(d) In providing to a veteran rehabilitative services under this chapter, the Secretary may furnish the veteran with the following:
 
-(e) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
+&emsp;(1) Work skills training and development services.
 
-(f)(1) The Secretary may not consider any of the matters stated in paragraph (2) as a basis for the denial or discontinuance of a rating of total disability for purposes of compensation or pension based on the veteran's inability to secure or follow a substantially gainful occupation as a result of disability.
+&emsp;(2) Employment support services.
+
+&emsp;(3) Job development and placement services.
+
+(e) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
+
+(f) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
+
+(g)(1) The Secretary may not consider any of the matters stated in paragraph (2) as a basis for the denial or discontinuance of a rating of total disability for purposes of compensation or pension based on the veteran's inability to secure or follow a substantially gainful occupation as a result of disability.
 
 (2) Paragraph (1) applies to the following:
 
@@ -30,13 +38,19 @@
 
 (3) A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
-(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180.)
+(Added Pub. L. 87–574, §2(1), Aug. 6, 1962, 76 Stat. 308, §618; amended Pub. L. 94–581, title I, §105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, §303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, §205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered §1718 and amended Pub. L. 102–83, §§2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, §506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, §401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, §1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, §101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, §104(b), Dec. 6, 2003, 117 Stat. 2045.)
 
 #### References in Text
 
 The Fair Labor Standards Act, referred to in subsec. (c)(2), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
+
+2003—Subsec. (c)(1). Pub. L. 108–170, §104(b)(2)(A), substituted “subsection (b) or (d)” for “subsection (b) of this section”.
+
+Subsec. (c)(2). Pub. L. 108–170, §104(b)(2)(B), substituted “subsection (b) or (d)” for “subsection (b) of this section” and “subsection (b)(2)” for “paragraph (2) of such subsection”.
+
+Subsecs. (d) to (g). Pub. L. 108–170, §104(b)(1), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
 1996—Subsec. (e). Pub. L. 104–262 substituted “section 1705” for “section 1712(i)”.
 
@@ -106,13 +120,13 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Demonstration Program of Compensated Work Therapy and Therapeutic Transitional Housing
 
-Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
+Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, §103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, §102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated worktherapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, §202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
 
 #### Settlement of Claims
 
 Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067; Pub. L. 102–83, §6(a), Aug. 6, 1991, 105 Stat. 407, provided that:
 
-“(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities andpersonnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
+“(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities and personnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
 
 “(2) For the purposes of this subsection, notwithstanding section 3302 of title 31, or any other provision of law, the Secretary may utilize any funds received under any settlement made pursuant to paragraph (1) of this subsection for any purpose agreed upon by the Secretary and such corporation.”
 

@@ -116,7 +116,7 @@ For purposes of this part:
 
 &emsp;(26) The term “thermal efficiency of pool heaters” means a measure of the heat in the water delivered at the heater outlet divided by the heat input of the pool heater as measured under test conditions specified in section 2.8.1 of the American National Standard for Gas Fired Pool Heaters, Z21.56–1986, or as may be prescribed by the Secretary.
 
-&emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
+&emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity toheat potable water for use outside the heater upon demand, including—
 
 &emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 

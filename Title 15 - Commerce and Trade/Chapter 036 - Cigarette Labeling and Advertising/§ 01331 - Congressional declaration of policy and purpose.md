@@ -16,7 +16,7 @@ It is the policy of the Congress, and the purpose of this chapter, to establish 
 
 #### Effective Date of 1970 Amendment
 
-Section 3 of Pub. L. 91–222 provided in part that: “All other provisions of the amendment made by this Act \[enacting section 1340 of this title, amending this section and sections 1332 and 1335 to 1339 of this title, and enacting provisions set out as notes under this section\] except where otherwise specified shall take effect on January 1, 1970.”
+Section 3 of Pub. L. 91–222 provided in part that: “All other provisions of the amendment made by this Act\[enacting section 1340 of this title, amending this section and sections 1332 and 1335 to 1339 of this title, and enacting provisions set out as notes under this section\] except where otherwise specified shall take effect on January 1, 1970.”
 
 #### Effective Date
 

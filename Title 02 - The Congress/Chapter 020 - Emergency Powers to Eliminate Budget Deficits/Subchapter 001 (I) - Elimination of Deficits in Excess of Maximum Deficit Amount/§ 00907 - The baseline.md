@@ -34,7 +34,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (1) Inflation of current-year appropriations
 
-&emsp;Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation has not yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year, adjusted sequentially and cumulatively for expiring housing contracts as specified in paragraph (2), for social insurance administrative expenses as specified in paragraph (3), to offset pay absorption and for pay annualization as specified in paragraph (4), for inflation as specified in paragraph (5), and to account forchanges required by law in the level of agency payments for personnel benefits other than pay.
+&emsp;Budgetary resources other than unobligated balances shall be at the level provided for the budget year in full-year appropriation Acts. If for any account a full-year appropriation hasnot yet been enacted, budgetary resources other than unobligated balances shall be at the level available in the current year, adjusted sequentially and cumulatively for expiring housing contracts as specified in paragraph (2), for social insurance administrative expenses as specified in paragraph (3), to offset pay absorption and for pay annualization as specified in paragraph (4), for inflation as specified in paragraph (5), and to account for changes required by law in the level of agency payments for personnel benefits other than pay.
 
 #### (2) Expiring housing contracts
 
@@ -82,7 +82,7 @@ Pub. L. 101–508, §13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99
 
 #### Amendments
 
-1997—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
+<b>1997</b>—Subsec. (b)(2)(A). Pub. L. 105–33, §10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
 
 Subsec. (b)(2)(D). Pub. L. 105–33, §10209(a)(2), added subpar. (D).
 
@@ -90,11 +90,11 @@ Subsec. (c)(5). Pub. L. 105–33, §10209(a)(3), substituted “domestic product
 
 Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
 
-1990—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
+<b>1990</b>—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
 
 Subsec. (e). Pub. L. 101–508, §13101(e)(2), redesignated section 901(a)(6)(I) of this title as subsec. (e) of this section, and substituted “The” for “assuming, for purposes of this paragraph and subparagraph (A)(i) of paragraph (3), that the”.
 
-1987—Pub. L. 100–119, §102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
+<b>1987</b>—Pub. L. 100–119, §102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
 
 Par. (1). Pub. L. 100–119, §104(c)(2), struck out provisions of former subpar. (A) that “automatic spending increase” meant increases in budget outlays due to changes in indexes in the following Federal programs:
 

@@ -36,7 +36,7 @@ Preferential Right of Renewal.—Notwithstanding any provision of this title, th
 
 #### Alaska National Interest Lands Conservation Act
 
-Pub. L. 105–391, title IV, §415(c), Nov. 13, 1998, 112 Stat. 3516, provided that: “Nothing in this title \[see Short Title note set out under section 5901 of this title\] amends, supersedes, or otherwise affects any provision of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.) relating to revenue-producing visitor services.”
+Pub. L. 105–391, title IV, §415(c), Nov. 13, 1998, 112 Stat. 3516, provided that: “Nothing in this title \[seeShort Title note set out under section 5901 of this title\] amends, supersedes, or otherwise affects any provision of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.) relating to revenue-producing visitor services.”
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §1111. Annual reports: time for furnishing manuscript and proofs to Public Printer
 
-The appropriations made for printing and binding may not be used for an annual report or the accompanying documents unless the manuscript and proof is furnished to the Public Printer in the following manner:
+The appropriations made for printing and binding may not be used for an annual report orthe accompanying documents unless the manuscript and proof is furnished to the Public Printer in the following manner:
 
 &emsp;manuscript of the documents accompanying annual reports on or before February 1, each year;
 

@@ -40,7 +40,7 @@ Applicability of Contract Disputes Procedure to Disallowance of Cost and Assessm
 
 Specific Costs Not Allowable.—(1) The following costs are not allowable under a covered contract:
 
-&emsp;(A) Costs of entertainment, including amusement, diversion, and social activitiesand any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
+&emsp;(A) Costs of entertainment, including amusement, diversion, and social activities and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
 &emsp;(B) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
@@ -68,7 +68,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any caseexceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
@@ -202,7 +202,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the head of the agency or Secretary of the military department concerned that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the agency head or Secretary determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the agency or military department.
 
-(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
+(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or aState in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
 
 (B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
 
@@ -304,7 +304,7 @@ Subsec. (e). Pub. L. 103–355, §2101(a)(5)(A), inserted heading.
 
 Subsec. (e)(1)(B). Pub. L. 103–355, §2101(b), substituted “, a State legislature, or a legislative body of a political subdivision of a State” for “or a State legislature”.
 
-Subsec. (e)(1)(D). Pub. L. 103–355, §2101(a)(5)(B), substituted “provisions of the Federal Acquisition Regulation” for “regulations of the Secretary of Defense”
+Subsec. (e)(1)(D). Pub. L. 103–355, §2101(a)(5)(B), substituted “provisions of the Federal Acquisition Regulation” for “regulations of the Secretary of Defense”.
 
 Subsec. (e)(1)(M). Pub. L. 103–355, §2101(a)(5)(C), substituted “the Federal Acquisition Regulation” for “regulations prescribed by the Secretary of Defense”.
 
@@ -344,7 +344,7 @@ Subsec. (k). Pub. L. 103–355, §2101(a)(11)(A), inserted heading.
 
 Subsec. (k)(2)(D). Pub. L. 103–355, §2101(a)(11)(B), struck out “by the Department of Defense” after “decision” in introductory provisions.
 
-Subsec. (k)(4). Pub. L. 103–355, §2101(a)(11)(C), inserted “or Secretary of the military department concerned” after “head of the agency”, “or Secretary” after “agency head”, and “or military department” before period at end and substituted “in accordance with the Federal Acquisition Regulation” for “under regulations prescribed by such agency head”.
+Subsec. (k)(4). Pub. L. 103–355, §2101(a)(11)(C), inserted “or Secretary of the military department concerned” after “head of the agency”, “or Secretary” after “agency head”, and “or military department” before period at end and substituted “in accordance with the FederalAcquisition Regulation” for “under regulations prescribed by such agency head”.
 
 Subsec. (<i>l</i>). Pub. L. 103–355, §2101(d), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to periodic evaluation by Comptroller General of implementation of this section by Secretary of Defense.
 
@@ -390,7 +390,7 @@ Subsec. (<i>l</i>)(3). Pub. L. 102–484, §1052(26)(B)(ii), added par. (3).
 
 Subsec. (k)(5)(B)(i). Pub. L. 101–189, §853(b)(3), substituted “the Federal Acquisition Regulation” for “the single Government-wide procurement regulation issued pursuant to section 4(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)(A))”.
 
-Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (<i>l</i>), set out first, as subsec.\(k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
+Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (<i>l</i>), set out first, as subsec. (k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
 
 Subsec. (<i>l</i>). Pub. L. 101–189, §853(a)(1)(A), (C), restored the text of subsec. (k) as in effect prior to being struck out by Pub. L. 100–700, §8(b)(2) (see 1988 Amendment note below), designated such text as subsec. (<i>l</i>), and struck out former subsec. (<i>l</i>)(1), set out first, which defined “covered contract”. Former subsec. (<i>l</i>)(2), set out first, was redesignated subsec. (k)(6). Former subsec. (<i>l</i>), set out second, was redesignated (m).
 
@@ -514,6 +514,10 @@ Section 911(b) of Pub. L. 99–145 provided that:
 
 “(2) The Secretary shall review such regulations at least once every five years. The results of each such review shall be made public.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Payment of Restructuring Costs Under Defense Contracts
 
 Pub. L. 103–337, div. A, title VIII, §818, Oct. 5, 1994, 108 Stat. 2821, as amended by Pub. L. 105–85, div. A, title VIII, §804(d), Nov. 18, 1997, 111 Stat. 1834, provided that:
@@ -546,7 +550,7 @@ Report.—Not later than November 13 in each of the years 1995, 1996, and 1997, 
 
 &emsp;“(3) The Department's experience with business combinations for which the Department has agreed to allow restructuring costs since July 21, 1993, including the following:
 
-&emsp;&emsp;“(A) The estimated amount of costs associated with each restructuring that have been or will betreated as allowable costs under defense contracts, including the type and amounts of costs that would not have arisen absent the business combination.
+&emsp;&emsp;“(A) The estimated amount of costs associated with each restructuring that have been or will be treated as allowable costs under defense contracts, including the type and amounts of costs that would not have arisen absent the business combination.
 
 &emsp;&emsp;“(B) The estimated amount of savings associated with each restructuring that are expected to be achieved on defense contracts.
 

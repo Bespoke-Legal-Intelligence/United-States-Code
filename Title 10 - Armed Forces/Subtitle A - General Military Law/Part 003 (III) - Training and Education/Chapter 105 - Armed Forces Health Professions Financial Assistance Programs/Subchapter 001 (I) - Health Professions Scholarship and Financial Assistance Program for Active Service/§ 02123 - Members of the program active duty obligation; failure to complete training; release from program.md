@@ -46,5 +46,5 @@ Section 741(d)(1) of Pub. L. 104–201 provided that: “In the case of any memb
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114, 2126, 2173 of this title.
+This section is referred to in sections 632, 2114, 2126, 2173 of this title.
 

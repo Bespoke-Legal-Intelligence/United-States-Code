@@ -114,7 +114,7 @@ Pub. L. 100–71, title V, §503, July 11, 1987, 101 Stat. 468, as amended by Pu
 
 &emsp;&emsp;“(iii) the nature, frequency, and type of drug testing proposed to be instituted; and
 
-&emsp;“(C) the Director of the Office of Management and Budget has submitted in writing to the Committeeson Appropriations of the House of Representatives and the Senate a detailed, agency-by-agency analysis (as of the time of certification under subparagraph (A)) of the anticipated annual costs associated with carrying out Executive Order Numbered 12564 and all other requirements under this section during the 5-year period beginning on the date of the enactment of this Act \[July 11, 1987\].
+&emsp;“(C) the Director of the Office of Management and Budget has submitted in writing to the Committees on Appropriations of the House of Representatives and the Senate a detailed, agency-by-agency analysis (as of the time of certification under subparagraph (A)) of the anticipated annual costs associated with carrying out Executive Order Numbered 12564 and all other requirements under this section during the 5-year period beginning on the date of the enactment of this Act \[July 11, 1987\].
 
 “(2) Notwithstanding subsection (g), for purposes of this subsection, the term “agency” means—
 
@@ -252,7 +252,7 @@ Sec. 2. <i>Agency Responsibilities</i>. (a) The head of each Executive agency sh
 
 (5) Provision for identifying illegal drug users, including testing on a controlled and carefully monitored basis in accordance with this Order.
 
-Sec. 3. <i>Drug Testing Programs</i>. (a) The head of each Executive agency shall establish a program to test for the use of illegal drugs by employees in sensitive positions. The extent to which such employees are tested and the criteria for such testing shall be determined by the head of each agency, based upon the nature of the agency's mission and its employees’ duties, the efficient use of agency resources, and the danger to the public health and safety or national security that could result from the failure of an employee adequately to discharge his or her position.
+Sec. 3. <i>Drug Testing Programs</i>. (a) The head of each Executive agency shall establish a program to test for the use of illegal drugs by employees in sensitive positions. The extent to which such employees are tested and the criteria for such testing shall be determined bythe head of each agency, based upon the nature of the agency's mission and its employees’ duties, the efficient use of agency resources, and the danger to the public health and safety or national security that could result from the failure of an employee adequately to discharge his or her position.
 
 (b) The head of each Executive agency shall establish a program for voluntary employee drug testing.
 
@@ -320,7 +320,7 @@ Sec. 7. <i>Definitions</i>. (a) This Order applies to all agencies of the Execut
 
 (b) For purposes of this Order, the term “agency” means an Executive agency, as defined in 5 U.S.C. 105; the Uniformed Services, as defined in 5 U.S.C. 2101(3) (but excluding the armed forces as defined by 5 U.S.C. 2101(2)); or any other employing unit or authority of the Federal government, except the United States Postal Service, the Postal Rate Commission, and employing units or authorities in the Judicial and Legislative Branches.
 
-(c) For purposes of this Order, the term “illegal drugs” means a controlled substance included in Schedule I or II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawful under chapter 13 of that Title. The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
+(c) For purposes of this Order, the term “illegal drugs” means a controlled substance included in Schedule I or II, as defined by section 802(6) of Title 21 of the United States Code, the possession of which is unlawfulunder chapter 13 of that Title. The term “illegal drugs” does not mean the use of a controlled substance pursuant to a valid prescription or other uses authorized by law.
 
 (d) For purposes of this Order, the term “employee in a sensitive position” refers to:
 
@@ -424,7 +424,7 @@ Sec. 402. <i>Delegations to the Counsel to the President.</i>
 
 (a) Except as provided in section 401, the authority of the President under sections 203(d), 205(e), and 208(b) of title 18, United States Code, to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President is delegated to the Counsel to the President.
 
-(b) The authority of the President under sections 203(d), 205(e), and 208(b) of title 18, United States Code,to grant exemptions or approvals for individuals appointed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a), is delegated to the Counsel to the President.
+(b) The authority of the President under sections 203(d), 205(e), and 208(b) of title 18, United States Code, to grant exemptions or approvals for individuals appointed pursuant to 3 U.S.C. 105 and 3 U.S.C. 107(a), is delegated to the Counsel to the President.
 
 Sec. 403. <i>Delegation Regarding Civil Service</i>. The Office of Personnel Management and the Office of Government Ethics, as appropriate, are delegated the authority vested in the President by 5 U.S.C. 7301 to establish general regulations for the implementation of this Executive order.
 
@@ -498,7 +498,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. It is the policy of the executive branch to establish a smoke-free environment for Federal employees and members of the public visiting or using Federal facilities. The smoking of tobacco products is thus prohibited in all interior space owned, rented, or leased by the executive branch of the Federal Government, and in any outdoor areas under executive branch control in front of air intake ducts.
 
-Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surroundingspaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
+Sec. 2. <i>Exceptions</i>. The general policy established by this order is subject to the following exceptions: (a) The order does not apply in designated smoking areas that are enclosed and exhausted directly to the outside and away from air intake ducts, and are maintained under negative pressure (with respect to surrounding spaces) sufficient to contain tobacco smoke within the designated area. Agency officials shall not require workers to enter such areas during business hours while smoking is ongoing.
 
 (b) The order does not extend to any residential accommodation for persons voluntarily or involuntarily residing, on a temporary or long-term basis, in a building owned, leased, or rented by the Federal Government.
 

@@ -8,7 +8,7 @@
 
 #### (2) Eliminating a breach
 
-&emsp;Each non-exempt account within a category shall be reduced by a dollar amount calculated by multiplying the baseline level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category; except that the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent and the uniform percent applicable to all other programs under this paragraph shall be increased (if necessary) to a level sufficient to eliminate that breach. If, within a category, the discretionary spending limits for both new budget authority and outlays are breached, the uniform percentage shall be calculated by—
+&emsp;Each non-exempt account within a category shall be reduced by a dollar amount calculatedby multiplying the baseline level of sequestrable budgetary resources in that account at that time by the uniform percentage necessary to eliminate a breach within that category; except that the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent and the uniform percent applicable to all other programs under this paragraph shall be increased (if necessary) to a level sufficient to eliminate that breach. If, within a category, the discretionary spending limits for both new budget authority and outlays are breached, the uniform percentage shall be calculated by—
 
 &emsp;&emsp;(A) first, calculating the uniform percentage necessary to eliminate the breach in new budget authority, and
 
@@ -102,7 +102,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (2) Sequestration reports
 
-&emsp;When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year through 2002, as follows:
+&emsp;When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year, as follows:
 
 #### (A) Emergency appropriations
 
@@ -114,7 +114,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (C) Continuing disability reviews
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
 
@@ -132,7 +132,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;&emsp;(II) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $200,000,000, in an appropriations Act and specified to pay for the costs of continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration; and
 
-&emsp;&emsp;&emsp;(III) the term “additional outlays” means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, including outlays in thatfiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
+&emsp;&emsp;&emsp;(III) the term “additional outlays” means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
 
 #### (D) Allowance for IMF
 
@@ -178,7 +178,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;(i) If a bill or resolution making appropriations for any fiscal year appropriates an amount for the conservation spending category that is less than the limit for the conservation spending category as specified in subsection (c) of this section, then the adjustment for new budget authority and outlays for the following fiscal year for that category shall be the amount of new budget authority and outlays that equals the difference between the amount appropriated and the amount of that category specified in subsection (c) of this section.
 
-&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates an amount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) of this section.
+&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates anamount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) <sup>3</sup> of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) <sup>3</sup> of this section.
 
 &emsp;&emsp;(iii) The total amount provided for any conservation activity within the conservation spending category may not exceed any authorized ceiling for that activity.
 
@@ -186,85 +186,33 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 As used in this subchapter, the term “discretionary spending limit” means—
 
-&emsp;(1) with respect to fiscal year 1997, for the discretionary category, the current adjusted limits of new budget authority and outlays;
+&emsp;(1) with respect to fiscal year 2004—
 
-&emsp;(2) with respect to fiscal year 1998—
+&emsp;&emsp;(A) for the highway category: $31,834,000,000 in outlays;
 
-&emsp;&emsp;(A) for the defense category: $269,000,000,000 in new budget authority and $266,823,000,000 in outlays;
+&emsp;&emsp;(B) for the mass transit category: $1,462,000,000 in new budget authority and $6,629,000,000 in outlays; and
 
-&emsp;&emsp;(B) for the nondefense category: $252,357,000,000 in new budget authority and $282,853,000,000 in outlays; and
+&emsp;&emsp;(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;
 
-&emsp;&emsp;(C) for the violent crime reduction category: $5,500,000,000 in new budget authority and $3,592,000,000 in outlays;
+&emsp;(2) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
 
-&emsp;(3) with respect to fiscal year 1999—
+&emsp;(3) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
 
-&emsp;&emsp;(A) for the defense category: $271,500,000,000 in new budget authority and $266,518,000,000 in outlays;
+&emsp;(4) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;&emsp;(B) for the nondefense category: $255,699,000,000 in new budget authority and $287,850,000,000 in outlays;
+&emsp;(5) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;&emsp;(C) for the violent crime reduction category: $5,800,000,000 in new budget authority and $4,953,000,000 in outlays;
+&emsp;(6) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;&emsp;(D) for the highway category: $21,885,000,000 in outlays; and
+&emsp;(7) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;&emsp;(E) for the mass transit category: $4,401,000,000 in outlays;
+&emsp;(8) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;(4) with respect to fiscal year 2000—
-
-&emsp;&emsp;(A) for the discretionary category: $532,693,000,000 in new budget authority and $558,711,000,000 in outlays;
-
-&emsp;&emsp;(B) for the violent crime reduction category: $4,500,000,000 in new budget authority and $5,554,000,000 in outlays;
-
-&emsp;&emsp;(C) for the highway category: $24,436,000,000 in outlays; and
-
-&emsp;&emsp;(D) for the mass transit category: $4,761,000,000 in outlays;
-
-&emsp;(5) with respect to fiscal year 2001—
-
-&emsp;&emsp;(A) for the discretionary category: $637,000,000,000 in new budget authority and $612,695,000,000 in outlays;
-
-&emsp;&emsp;(B) for the highway category: $26,204,000,000 in outlays; and
-
-&emsp;&emsp;(C) for the mass transit category: $5,190,000,000 in outlays;
-
-&emsp;(6) with respect to fiscal year 2002—
-
-&emsp;&emsp;(A) for the discretionary category: $681,441,000,000 in new budget authority and $670,206,000,000 in outlays;
-
-&emsp;&emsp;(B) for the highway category: $26,977,000,000 in outlays;
-
-&emsp;&emsp;(C) for the mass transit category: $5,709,000,000 in outlays; and
-
-&emsp;&emsp;(D) for the conservation spending category: $1,760,000,000, in new budget authority and $1,473,000,000 in outlays;
-
-&emsp;(7) with respect to fiscal year 2003—
-
-&emsp;&emsp;(A) for the highway category: $27,728,000,000 in outlays;
-
-&emsp;&emsp;(B) for the mass transit category: $6,256,000,000 in outlays; and
-
-&emsp;&emsp;(C) for the conservation spending category: $1,920,000,000, in new budget authority and $1,872,000,000 in outlays;
-
-&emsp;(8) with respect to fiscal year 2004 for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;
-
-&emsp;(9) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
-
-&emsp;(10) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
-
-&emsp;(11) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
-
-&emsp;(12) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
-
-&emsp;(13) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
-
-&emsp;(14) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
-
-&emsp;(15) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
-
-&emsp;(16) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;(9) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127.)
 
 #### Termination of Section
 
@@ -274,7 +222,9 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 Section 8103 of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(1)(B)(ii)(I)(cc), (D)(i), is section 8103 of Pub. L. 105–178, which is set out as a note below.
 
-Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(C)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title,and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
+Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(C)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title, and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
+
+Subsecs. (c)(11) to (c)(16) of this section, referred to in subsec. (b)(2)(H)(ii), were redesignated subsecs. (c)(4) to (c)(9) of this section, respectively, by Pub. L. 108–88, §10(b)(2), Sept. 30, 2003, 117 Stat. 1127.
 
 #### Codification
 
@@ -282,13 +232,19 @@ Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this 
 
 #### Amendments
 
-2002—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–88, §10(a), struck out “through 2002” after “succeeding year” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 108–88, §10(b)(1), redesignated par. (8) as (1), substituted “with respect to fiscal year 2004—” for “with respect to fiscal year 2004”, added subpars. (A) and (B), redesignated remaining provisions of par. (1) as subpar. (C), and struck out former par. (1), which defined “discretionary spending limit” with respect to fiscal year 1997.
+
+Subsec. (c)(2) to (16). Pub. L. 108–88, §10(b), redesignated pars. (9) to (16) as (2) to (9), respectively, and struck out former pars. (2) to (7), which defined “discretionary spending limit” with respect to fiscal years 1998 to 2003.
+
+<b>2002</b>—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
 
 Subsec. (c)(6)(C). Pub. L. 107–117, §101(a)(2), struck out second “and” at end.
 
 Subsec. (c)(6)(D). Pub. L. 107–117, §101(a)(3), substituted “$1,473,000,000” for “$1,232,000,000”.
 
-2000—Subsec. (b)(2)(H). Pub. L. 106–291, §801(b), added subpar. (H).
+<b>2000</b>—Subsec. (b)(2)(H). Pub. L. 106–291, §801(b), added subpar. (H).
 
 Subsec. (c)(5)(A). Pub. L. 106–429 added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;”.
 
@@ -298,7 +254,7 @@ Subsec. (c)(7)(C). Pub. L. 106–291, §801(a)(2), added subpar. (C).
 
 Subsec. (c)(8) to (16). Pub. L. 106–291, §801(a)(3), added pars. (8) to (16).
 
-1998—Subsec. (b)(1). Pub. L. 105–178, §8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–178, §8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
 
 Subsec. (c)(3)(D), (E). Pub. L. 105–178, §8101(a)(1), added subpars. (D) and (E).
 
@@ -310,7 +266,7 @@ Subsec. (c)(6). Pub. L. 105–178, §8101(a)(4), substituted a dash for comma af
 
 Subsec. (c)(7). Pub. L. 105–178, §8101(a)(5), added par. (7).
 
-1997—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
 
 Subsec. (a)(3). Pub. L. 105–33, §10203(a)(2), substituted “section 905(f)” for “section 905(h)” in two places.
 
@@ -322,7 +278,7 @@ Subsec. (b)(2)(G). Pub. L. 105–89 added subpar. (G).
 
 Subsec. (c). Pub. L. 105–33, §10203(b), added subsec. (c).
 
-1996—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
+<b>1996</b>—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
 
 Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
 
@@ -330,11 +286,11 @@ Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted “$175,
 
 Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
 
-1994—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
+<b>1994</b>—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
 
 Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994” in two places.
 
-1993—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14002(c)(1)(A), substituted “1998” for “1995” in heading.
 
 Subsec. (b)(1). Pub. L. 103–66, §14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
 
@@ -350,11 +306,11 @@ Subsec. (b)(2)(F). Pub. L. 103–66, §14002(c)(1)(B)(vi), inserted before perio
 
 Subsec. (b)(2)(G). Pub. L. 103–87 added subpar. (G).
 
-1990—Pub. L. 101–508, §13101(a), amended section generally, substituting subsecs. (a) and (b) relating to enforcement of discretionary spending limits for former subsecs. (a) to (e) relating to reporting of excess deficits.
+<b>1990</b>—Pub. L. 101–508, §13101(a), amended section generally, substituting subsecs. (a) and (b) relating to enforcement of discretionary spending limits for former subsecs. (a) to (e) relating to reporting of excess deficits.
 
 Subsec. (a)(6)(I). Pub. L. 101–508, §13101(e)(2), redesignated subsec. (a)(6)(I) of this section as section 907(e) of this title.
 
-1987—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs. (a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
+<b>1987</b>—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs.\(a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
 
 Subsec. (a)(6)(B). Pub. L. 100–203, §8003(f), struck out “and” before “contract authority” and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
 
@@ -368,9 +324,9 @@ Section 119(d)(1) of Pub. L. 103–354 provided that the amendment made by that 
 
 #### Adjustment for Rounding
 
-Pub. L. 106–429, §101(a) \[title VII, §701(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64, provided that: “Under the terms of section 251(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)\] adjustments for rounding shall be provided for the first amount referred to in section 251(c)(5)(A) of such Act \[2 U.S.C. 901(c)(5)(A)\], as amended by this section, equal to 0.5 percent of such amount.”
+Pub. L. 106–429, §101(a) \[title VII, §701(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64, provided that: “Under the terms of section 251(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)\] adjustments for rounding shall be provided for the first amount referred to in section 251(c)(5)(A) of such Act \[former 2 U.S.C. 901(c)(5)(A)\], as amended by this section, equal to 0.5 percent of such amount.”
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided that: “Under the terms of section 251(b)(2) of Public Law 99–177 \[2 U.S.C. 901(b)(2)\], an adjustment for rounding shall be provided for the first amount referred to in section 251(c)(4)(A) of such Act \[2 U.S.C. 901(c)(4)(A)\] equal to 0.2 percent of such amount.”
+Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided that: “Under the terms of section 251(b)(2) of Public Law 99–177 \[2 U.S.C. 901(b)(2)\], an adjustment for rounding shall be provided for the first amount referred to in section 251(c)(4)(A) of such Act \[former 2 U.S.C. 901(c)(4)(A)\] equal to 0.2 percent of such amount.”
 
 #### Offsetting Adjustment in Discretionary Spending Limits
 
@@ -378,23 +334,23 @@ Pub. L. 105–178, title VIII, §8101(b), June 9, 1998, 112 Stat. 489, as amende
 
 “(1)
 
-Adjustment of nondefense category for fy1999.—The discretionary spending limit set forth in section 251(c)(3)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(3)(B)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $25,144,000,000 in outlays.
+Adjustment of nondefense category for fy1999.—The discretionary spending limit set forth in section 251(c)(3)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(c)(3)(B)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $25,144,000,000 in outlays.
 
 “(2)
 
-Adjustment of discretionary category for fy2000.—The discretionary spending limit set forth in section 251(c)(4)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(4)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,009,000,000 in outlays.
+Adjustment of discretionary category for fy2000.—The discretionary spending limit set forth in section 251(c)(4)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(c)(4)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,009,000,000 in outlays.
 
 “(3)
 
-Adjustment of discretionary spending limit for fy2001.—The discretionary spending limit set forth in section 251(c)(5)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(5)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,329,000,000 in outlays.
+Adjustment of discretionary spending limit for fy2001.—The discretionary spending limit set forth in section 251(c)(5)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(c)(5)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,329,000,000 in outlays.
 
 “(4)
 
-Adjustment of discretionary spending limit for fy2002.—The discretionary spending limit set forth in section 251(c)(6)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(c)(6)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,675,000,000 in outlays.”
+Adjustment of discretionary spending limit for fy2002.—The discretionary spending limit set forth in section 251(c)(6)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(c)(6)(A)\], as adjusted in conformance with section 251(b) of that Act, is reduced by $859,000,000 in new budget authority and $26,675,000,000 in outlays.”
 
 #### Level of Obligation Limitations
 
-Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, provided that:
+Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, §11(a), (b), Sept. 30, 2003, 117 Stat. 1128, provided that:
 
 “(a)
 
@@ -406,9 +362,11 @@ Highway Category.—For the purposes of section 251(b) of the Balanced Budget an
 
 &emsp;“(3) for fiscal year 2001, $27,158,000,000;
 
-&emsp;“(4) for fiscal year 2002, $27,767,000,000; and
+&emsp;“(4) for fiscal year 2002, $27,767,000,000;
 
-&emsp;“(5) for fiscal year 2003, $28,233,000,000.
+&emsp;“(5) for fiscal year 2003, $28,233,000,000; and
+
+&emsp;“(6) for fiscal year 2004, $34,498,000,000.
 
 “(b)
 
@@ -420,9 +378,11 @@ Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budg
 
 &emsp;“(3) for fiscal year 2001, $6,271,000,000;
 
-&emsp;“(4) for fiscal year 2002, $6,747,000,000; and
+&emsp;“(4) for fiscal year 2002, $6,747,000,000;
 
-&emsp;“(5) for fiscal year 2003, $7,226,000,000.
+&emsp;“(5) for fiscal year 2003, $7,226,000,000; and
+
+&emsp;“(6) for fiscal year 2004, $7,303,000,000.
 
 > For purposes of this subsection, the term ‘obligation limitations’ means the sum of budget authority and obligation limitations.”
 
@@ -433,4 +393,6 @@ This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

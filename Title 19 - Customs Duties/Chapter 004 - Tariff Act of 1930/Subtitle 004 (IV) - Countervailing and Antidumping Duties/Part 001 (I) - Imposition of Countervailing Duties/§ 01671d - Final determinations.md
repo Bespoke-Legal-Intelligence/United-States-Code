@@ -56,7 +56,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
+In general.—If the finding of the administering authority under subsection (a)(2) of this section is affirmative, then the final determination of the Commission shallinclude a finding as to whether the imports subject to the affirmative determination under subsection (a)(2) of this section are likely to undermine seriously the remedial effect of the countervailing duty order to be issued under section 1671e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -172,7 +172,7 @@ Subsec. (c)(5). Pub. L. 103–465, §264(b)(2), added par. (5).
 
 Subsec. (e). Pub. L. 100–418, §1333(a), added subsec. (e).
 
-1984—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the same class or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
+1984—Subsec. (a)(1). Pub. L. 98–573, §606, inserted provision that when an investigation under this part is initiated simultaneously with an investigation under part II of this subtitle, which involves imports of the sameclass or kind of merchandise from the same or other countries, the administering authority, if requested by the petitioner, shall extend the date of the final determination under this paragraph to the date of the final determination of the administering authority in such investigation initiated under part II of this subtitle.
 
 Subsec. (a)(2). Pub. L. 98–573, §605(a)(1), inserted provision after subpar. (B) that such findings may be affirmative even though the preliminary determination under section 1671b(e)(1) of this title was negative.
 

@@ -30,7 +30,7 @@ This subchapter shall be construed as supplementing all other laws relating to t
 
 #### (f) Definitions
 
-For the purposes of this subchapter, the terms “United States” and “State” shall include eachof the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
+For the purposes of this subchapter, the terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealthof the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
 
 (Pub. L. 95–307, §6, June 30, 1978, 92 Stat. 355.)
 

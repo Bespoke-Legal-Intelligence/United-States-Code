@@ -20,7 +20,7 @@
 
 &emsp;(4) notwithstanding the provisions of subsection (b), the Secretary may, at his discretion if he deems it to be in the public interest, prorate such petroleum among such refiners for sale, without competition, at not less than the prevailing local market price of comparable petroleum.
 
-(e) Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency or transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and that such exports are in the national interest and are in accord with the Export Administration Act of 1979.
+(e) Any petroleum produced from the naval petroleum reserves, except such petroleum which is either exchanged in similar quantities for convenience or increased efficiency or transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) and, in addition, before any petroleum subject to this section may be exported under the limitations and licensing requirement and penalty and enforcement provisions of the Export Administration Act of 1979, the President must make and publish an express finding that such exports will not diminish the total quality or quantity of petroleum available to the United States and thatsuch exports are in the national interest and are in accord with the Export Administration Act of 1979.
 
 (f) During the period of production or any extension thereof authorized by section 7422(c) of this title, the consultation and approval requirements of section 7431(a)(3) of this title are waived.
 
@@ -52,7 +52,7 @@
 
 (2) The requirements of section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239) do not apply to actions taken under this subsection.
 
-(<i>l</i>)(1) Notwithstanding any other provision of this chapter (but subject to paragraph (2)), during any period in which the production of petroleum is authorized from Naval Petroleum Reserves Numbered 1, 2, or 3, the Secretary, at the request of the Secretary of Defense, may provide any portion of the United States share of petroleum so produced to the Department of Defensefor its use, exchange, or sale in order to meet petroleum product requirements of the Department of Defense.
+(<i>l</i>)(1) Notwithstanding any other provision of this chapter (but subject to paragraph (2)), during any period in which the production of petroleum is authorized from Naval Petroleum Reserves Numbered 1, 2, or 3, the Secretary, at the request of the Secretary of Defense, may provide any portion of the United States share of petroleum so produced to the Department of Defense for its use, exchange, or sale in order to meet petroleum product requirements of the Department of Defense.
 
 (2) Petroleum may be provided to the Department of Defense under paragraph (1) either directly or by such exchange as the Secretary deems appropriate. Appropriate reimbursement reasonably reflecting the fair market value shall be provided by the Secretary of Defense for petroleum provided under this subsection.
 
@@ -60,7 +60,7 @@
 
 (4) Paragraph (1) does not apply to any petroleum set aside for small refiners under subsection (d) or placed in the Strategic Petroleum Reserve under subsection (k).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–599, §2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, §804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, §513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, §11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, §1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, §7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, §1233(e)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3401\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; Pub. L. 107–107, div. A, title X, §1048(e)(12), Dec. 28, 2001, 115 Stat. 1228.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–599, §2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, §804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, §513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, §11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, §1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, §7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, §1233(e)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 106–398, §1 \[div. C,title XXXIV, §3401\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; Pub. L. 107–107, div. A, title X, §1048(e)(12), Dec. 28, 2001, 115 Stat. 1228.)
 
 Historical and Revision Notes
 
@@ -92,7 +92,7 @@ The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
@@ -138,7 +138,7 @@ Subsec. (i). Pub. L. 96–513, §513(34)(D), substituted “(1) the Sherman Act 
 
 Subsec. (j). Pub. L. 96–513, §513(34)(E), inserted “(15 U.S.C. 717 et seq.)”.
 
-Subsec. (k). Pub. L. 96–294, §804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum under terms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
+Subsec. (k). Pub. L. 96–294, §804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum underterms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
 
 Subsec. (<i>l</i>). Pub. L. 96–294, §804(c), added subsec. (<i>l</i>).
 

@@ -42,7 +42,7 @@ Conversions of slots.—Effective May 1, 2000, slots at Chicago O'Hare Internati
 
 (c)
 
-Slots for New Entrants.—If the Secretary finds it to be in the public interest, the Secretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Ronald Reagan Washington National Airport).
+Slots for New Entrants.—If the Secretary finds it to be in the public interest, theSecretary may by order grant exemptions from the requirements under subparts K and S of part 93 of title 14, Code of Federal Regulations (pertaining to slots at high density airports), to enable new entrant air carriers to provide air transportation at high density airports (other than Ronald Reagan Washington National Airport).
 
 (d)
 

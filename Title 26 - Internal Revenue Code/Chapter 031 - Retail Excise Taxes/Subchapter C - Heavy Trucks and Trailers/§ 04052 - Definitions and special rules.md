@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any personwho is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
 
 #### (ii) Exception for retail establishment
 
@@ -170,7 +170,7 @@ Subsec. (c). Pub. L. 98–369, §735(b)(2), in amending subsec. (c) generally, d
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

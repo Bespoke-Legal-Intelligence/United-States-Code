@@ -8,7 +8,7 @@
 
 #### (2) Multilateral assistance
 
-&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of eachmultilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section), except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
+&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section), except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
 
 #### (b) Certification procedures
 
@@ -138,7 +138,7 @@ I have determined that the following major illicit drug producing and/or major i
 
 &emsp;Afghanistan and Burma
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I have attached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
+In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I haveattached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
 
 You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
 

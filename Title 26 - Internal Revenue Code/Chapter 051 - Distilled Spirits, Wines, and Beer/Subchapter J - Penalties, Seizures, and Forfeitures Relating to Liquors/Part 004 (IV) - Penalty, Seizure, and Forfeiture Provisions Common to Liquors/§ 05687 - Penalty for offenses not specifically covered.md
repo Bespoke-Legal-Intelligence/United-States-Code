@@ -1,6 +1,6 @@
 ### §5687. Penalty for offenses not specifically covered
 
-Whoever violates any provision of this chapter or regulations issued pursuant thereto, for which a specific criminal penalty is not prescribed by this chapter, shall be fined not morethan $1,000, or imprisoned not more than 1 year, or both, for each such offense.
+Whoever violates any provision of this chapter or regulations issued pursuant thereto, for which a specific criminal penalty is not prescribed by this chapter, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1412.)
 

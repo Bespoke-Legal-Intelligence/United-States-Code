@@ -158,9 +158,9 @@ Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 20
 
 Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33.
 
-Great Sand Dunes National Monument, Colorado.—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
+Great Sand Dunes National Monument, Colorado \[Monument abolished and incorporated in Great Sand Dunes National Park, see section 410hhh–2 of this title\].—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
 
-c31. For provisions relating to abolishment of Monument, see section 410hhh–2 of this title.
+c31.
 
 Hanford Reach National Monument, Washington.—Proc. No. 7319, June 9, 2000, 65 F.R. 37253.
 
@@ -210,7 +210,7 @@ Minidoka Internment National Monument, Idaho.—Proc. No. 7395, Jan. 17, 2001, 6
 
 Misty Fjords National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399\].—Proc. No. 4623, Dec. 1, 1978, 93 Stat. 1466.
 
-Montezuma Castle National Monument, Arizona.—Proc. No. 696, Sept. 8, 1906, 93 Stat. 3265; Proc. No. 2226, Feb. 23, 1937, 50 Stat. 1817.
+Montezuma Castle National Monument, Arizona.—Proc. No. 696, Sept. 8, 1906, 93 Stat. 3265; Proc. No. 2226, Feb. 23, 1937, 50 Stat. 1817; Pub. L. 108–190, Dec. 19, 2003, 117 Stat. 2867.
 
 Mound City Group National Monument, Ohio \[Monument redesignated Hopewell Culture National Historic Park, see section 401uu of this title\].—Proc. No. 1653, Mar. 2, 1923, 42 Stat. 2298; Pub. L. 96–607, title VII, §701, Dec. 28, 1980, 94 Stat. 3540.
 
@@ -236,7 +236,7 @@ Old Kasaan National Monument, Alaska \[Monument abolished and incorporated in To
 
 Oregon Caves National Monument, Oregon.—Proc. No. 876, July 12, 1909, 36 Stat. 2497.
 
-Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827.
+Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827; Pub. L. 108–64, July 29, 2003, 117 Stat. 874.
 
 Papago Saguaro National Monument, Arizona.—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
 
@@ -324,7 +324,7 @@ Agate Fossil Beds National Monument, Nebraska.—Pub. L. 89–33, June 5, 1965, 
 
 Alibates Flint Quarries National Monument, Texas.—Pub. L. 89–154, Aug. 31, 1965, 79 Stat. 587. Name changed from Alibates Flint Quarries and Texas Panhandle Pueblo Culture National Monument by Pub. L. 95–625, title III, §321(c), Nov. 10, 1978, 92 Stat. 3488.
 
-Congaree Swamp National Monument, South Carolina.—Pub. L. 94–545, Oct. 18, 1976, 90 Stat. 2517, as amended by Pub. L. 100–524, §§5, 6, Oct. 24, 1988, 102 Stat. 2607.
+Congaree Swamp National Monument, South Carolina \[Monument redesignated Congaree National Park, see section 410jjj of this title\].
 
 El Malpais National Monument, New Mexico.—Pub. L. 100–225, title I, §§101–104, Dec. 31, 1987, 101 Stat. 1539 (16 U.S.C. 460uu et seq.).
 
@@ -432,11 +432,11 @@ United States Navy Memorial, District of Columbia.—Pub. L. 96–199, title I, 
 
 U.S.S. Indianapolis Memorial, Indiana.—Pub. L. 103–160, div. A, title XI, §1165, Nov. 30, 1993, 107 Stat. 1765.
 
-Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335.
+Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348.
 
 Washington Monument National Memorial, District of Columbia.—Act Aug. 2, 1876, ch. 250, §1, 19 Stat. 123.
 
-White Cross World War I Memorial, California.—Pub. L. 107–117, div. A, title VIII, §8137, Jan. 10, 2002, 115 Stat. 2278.
+White Cross World War I Memorial, California.—Pub. L. 107–117, div. A, title VIII, §8137, Jan. 10, 2002, 115 Stat. 2278; Pub. L. 108–87, title VIII, §8121, Sept. 30, 2003, 117 Stat. 1100.
 
 World War II Memorial, Guam.—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2886\], Oct. 30, 2000, 114 Stat. 1654, 1654A–441, as amended by Pub. L. 107–107, div. B, title XXVIII, §2868, Dec. 28, 2001, 115 Stat. 1334.
 
@@ -448,7 +448,7 @@ Conveyance of property to National Academy of Sciences for erection and maintena
 
 #### Study To Add Alaska and Hawaii to Lincoln National Memorial
 
-Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital Planning Commission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
+Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interior to study feasibility of and make recommendations for recognition at an appropriate place at Lincoln National Memorial of the addition to the Union of the States of Alaska and Hawaii, directed that recommendations, after review and approval by Commission of Fine Arts, National Capital PlanningCommission, and Advisory Council on Historic Preservation, be submitted to Committees on Interior and Insular Affairs of the Senate and the House of Representatives, and, if neither committee adopted a resolution of disapproval, directed Secretary to carry out recommendations.
 
 #### Section Referred to in Other Sections
 

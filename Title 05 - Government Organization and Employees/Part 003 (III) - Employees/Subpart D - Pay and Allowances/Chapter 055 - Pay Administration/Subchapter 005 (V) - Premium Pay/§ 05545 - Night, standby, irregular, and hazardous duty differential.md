@@ -12,17 +12,17 @@
 
 (c) The head of an agency, with the approval of the Office of Personnel Management, may provide that—
 
-&emsp;(1) an employee in a position requiring him regularly to remain at, or within the confines of, his station during longer than ordinary periods of duty, a substantial part of which consists of remaining in a standby status rather than performing work, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions ofthis subchapter, except for irregular, unscheduled overtime duty in excess of his regularly scheduled weekly tour. Premium pay under this paragraph is determined as an appropriate percentage, not in excess of 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) (or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position), by taking into consideration the number of hours of actual work required in the position, the number of hours required in a standby status at or within the confines of the station, the extent to which the duties of the position are made more onerous by night, Sunday, or holiday work, or by being extended over periods of more than 40 hours a week, and other relevant factors; or
+&emsp;(1) an employee in a position requiring him regularly to remain at, or within the confines of, his station during longer than ordinary periods of duty, a substantial part of which consists of remaining in a standby status rather than performing work, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for irregular, unscheduled overtime duty in excess of his regularly scheduled weekly tour. Premium pay under this paragraph is determined as an appropriate percentage, not in excess of 25 percent, of such part of the rate of basic pay for the position as does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) (or, for a position described in section 5542(a)(3) of this title, of the basic pay of the position), by taking into consideration the number of hours of actual work required in the position, the number of hours required in a standby status at or within the confines of the station, the extent to which the duties of the position are made more onerous by night, Sunday, or holiday work, or by being extended over periods of more than 40 hours a week, and other relevant factors; or
 
 &emsp;(2) an employee in a position in which the hours of duty cannot be controlled administratively, and which requires substantial amounts of irregular, unscheduled overtime duty with the employee generally being responsible for recognizing, without supervision, circumstances which require the employee to remain on duty, shall receive premium pay for this duty on an annual basis instead of premium pay provided by other provisions of this subchapter, except for regularly scheduled overtime, night, and Sunday duty, and for holiday duty. Premium pay under this paragraph is an appropriate percentage, not less than 10 percent nor more than 25 percent, of the rate of basic pay for the position, as determined by taking into consideration the frequency and duration of irregular, unscheduled overtime duty required in the position.
 
-(d) The Office shall establish a schedule or schedules of pay differentials for duty involving unusual physical hardship or hazard. Under such regulations as the Office may prescribe, and for such minimum periods as it determines appropriate, an employee to whom chapter 51 and subchapter III of chapter 53 of this title applies is entitled to be paid the appropriate differential for any period in which he is subjected to physical hardship or hazard not usually involved in carrying out the duties of his position. However, the pay differential—
+(d) The Office shall establish a schedule or schedules of pay differentials for duty involving unusual physical hardship or hazard, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970. Under such regulations as the Office may prescribe, and for such minimum periods as it determines appropriate, an employee to whom chapter 51 and subchapter III of chapter 53 of this title applies is entitled to be paid the appropriate differential for any period in which he is subjected to physical hardship or hazard not usually involved in carrying out the duties of his position. However, the pay differential—
 
 &emsp;(1) does not apply to an employee in a position the classification of which takes into account the degree of physical hardship or hazard involved in the performance of the duties thereof, except in such circumstances as the Office may by regulation prescribe; and
 
 &emsp;(2) may not exceed an amount equal to 25 percent of the rate of basic pay applicable to the employee.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 487; Pub. L. 90–83, §1(27), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §217, Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–556, §2, Oct. 10, 1968, 82 Stat. 969; Pub. L. 91–231, §8, Apr. 15, 1970, 84 Stat. 198; Pub. L. 94–183, §2(23), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(32), Aug. 14, 1979, 93 Stat. 383; Pub. L. 97–258, §3(a)(13), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–173, §1(a), Nov. 27, 1989, 103 Stat. 1292; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §203\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1456; Pub. L. 102–378, §3(2), Oct. 2, 1992, 106 Stat. 1355.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 487; Pub. L. 90–83, §1(27), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §217, Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–556, §2, Oct. 10, 1968, 82 Stat. 969; Pub. L. 91–231, §8, Apr. 15, 1970, 84 Stat. 198; Pub. L. 94–183, §2(23), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(32), Aug. 14, 1979, 93 Stat. 383; Pub. L. 97–258, §3(a)(13), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–173, §1(a), Nov. 27, 1989, 103 Stat. 1292; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §203\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1456; Pub. L. 102–378, §3(2), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 108–136, div. A, title XI, §1122(b), Nov. 24, 2003, 117 Stat. 1637.)
 
 Historical and Revision Notes<br>1966
 
@@ -92,7 +92,11 @@ In subsection (d)(2), the words “may not . . . applicable to the employee”
 
 GS–10, referred to in subsec. (c)(1), is contained in the General Schedule which is set out under section 5332 of this title.
 
+The Occupational Safety and Health Act of 1970, referred to in subsec. (d), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 inserted before period at end of first sentence “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
 1992—Subsec. (d). Pub. L. 102–378 made technical correction to directory language of Pub. L. 101–509, §529 \[title II, §203\]. See 1990 Amendment note below.
 
@@ -116,9 +120,13 @@ Subsec. (d). Pub. L. 101–509, §529 \[title II, §203\], as amended by Pub. L.
 
 1967—Subsec. (e)(2). Pub. L. 90–206 substituted “not less than 10 percent nor more than 25 percent” for “not in excess of 15 percent”.
 
+#### Effective Date of 2003 Amendment
+
+Subject to any vested constitutional property rights, any administrative or judicial determination after Nov. 24, 2003, concerning backpay for a differential established under subsec. (d) of this section to be based on occupational safety and health standards described in the amendments made by subsections (a) and (b) of section 1122 of Pub. L. 108–136, amending this section and section 5343 of this title, see section 1122(c) of Pub. L. 108–136, set out as a note under section 5343 of this title.
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -146,5 +154,5 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5541, 5545a, 5546, 5547, 5548, 5595, 6123, 8114, 8331, 8704 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 38 section 7457.
+This section is referred to in sections 5541, 5545a, 5546, 5547, 5548, 5595, 6123, 8114, 8331, 8704, 9902 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 38 section 7457.
 

@@ -16,11 +16,11 @@
 
 (d) Subsections (a) and (b) do not apply to—
 
-&emsp;(1) officers who are discharged or transferred from an active status for physical disability, for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
+&emsp;(1) officers who are discharged or transferred from an active status for physical disability,for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
 
 &emsp;(2) commissioned warrant officers.
 
-(e)(1) A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on thedate on which the officer would otherwise be removed from an active status under section 6389, 14513, or 14514 of this title or section 740 of title 14, is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
+(e)(1) A reserve commissioned officer on active duty (other than for training) or full-time National Guard duty (other than full-time National Guard duty for training only) who, on the date on which the officer would otherwise be removed from an active status under section 6389, 14513, or 14514 of this title or section 740 of title 14, is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title may, in the discretion of the Secretary concerned and subject to paragraph (2), be retained on that duty for a period of not more than two years.
 
 (2) An officer may be retained on active duty or full-time National Guard duty under paragraph (1) only if—
 

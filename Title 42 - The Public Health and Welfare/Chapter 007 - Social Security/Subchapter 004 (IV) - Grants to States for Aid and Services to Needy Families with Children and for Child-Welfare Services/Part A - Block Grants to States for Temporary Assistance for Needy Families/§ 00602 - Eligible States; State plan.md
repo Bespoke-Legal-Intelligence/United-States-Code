@@ -50,7 +50,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 #### (5) Certification that the State will provide Indians with equitable access to assistance
 
-&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indian tribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under thispart attributable to funds provided by the Federal Government.
+&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indian tribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under this part attributable to funds provided by the Federal Government.
 
 #### (6) Certification of standards and procedures to ensure against program fraud and abuse
 

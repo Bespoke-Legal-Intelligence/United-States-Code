@@ -10,7 +10,7 @@ Subsection (a) shall not apply to a distribution by a corporation of its stock, 
 
 #### (1) Distributions in lieu of money
 
-&emsp;If the distribution is, at the election of any of the shareholders (whether exercised before or after the declaration thereof), payable either—
+&emsp;If the distribution is, at the election of any of the shareholders (whether exercised beforeor after the declaration thereof), payable either—
 
 &emsp;&emsp;(A) in its stock, or
 
@@ -118,7 +118,7 @@ For purposes of this section and section 301, the Secretary shall prescribe regu
 
 &emsp;&emsp;<b>(3) In the case of a distribution which has the effect of the payment of compensation, see section 61(a)(1).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, §421(a), Dec. 30, 1969, 83 Stat. 614; Pub.L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, §103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 101–508, title XI, §§11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, §13206(c)(1), Aug. 10, 1993, 107 Stat. 465.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 91–172, title IV, §421(a), Dec. 30, 1969, 83 Stat. 614; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title III, §321(a), (b), Aug. 13, 1981, 95 Stat. 287, 289; Pub. L. 97–448, title I, §103(f), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 101–508, title XI, §§11322(a), 11801(a)(17), (c)(7), Nov. 5, 1990, 104 Stat. 1388–463, 1388–521, 1388–524; Pub. L. 103–66, title XIII, §13206(c)(1), Aug. 10, 1993, 107 Stat. 465.)
 
 #### Amendments
 
@@ -202,7 +202,7 @@ Section 421(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(3) In cases to which Treasury Decision 6990 (promulgated January 10, 1969) would not have applied, in applying paragraphs (1) and (2) April 22, 1969, shall be substituted for January 10, 1969.
 
-“(4) Section 305(b)(4) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall not apply to anydistribution (or deemed distribution) with respect to preferred stock (including any increase in the conversion ratio of convertible stock) made before January 1, 1991, pursuant to the terms relating to the issuance of such stock which were in effect on January 10, 1969.
+“(4) Section 305(b)(4) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall not apply to any distribution (or deemed distribution) with respect to preferred stock (including any increase in the conversion ratio of convertible stock) made before January 1, 1991, pursuant to the terms relating to the issuance of such stock which were in effect on January 10, 1969.
 
 “(5) With respect to distributions made or considered as made after January 10, 1969, in taxable years ending after such date, to the extent that the amendment made by subsection (a) \[amending this section\] does not apply by reason of paragraph (2), (3), or (4) of this subsection, section 305 of the Internal Revenue Code of 1986 (as in effect before the amendment made by subsection (a)) shall continue to apply.”
 

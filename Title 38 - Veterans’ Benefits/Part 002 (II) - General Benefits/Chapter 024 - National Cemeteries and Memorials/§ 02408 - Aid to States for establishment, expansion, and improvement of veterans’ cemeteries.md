@@ -1,8 +1,6 @@
 ### §2408. Aid to States for establishment, expansion, and improvement of veterans’ cemeteries
 
-(a)(1) Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.
-
-(2) There is authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each succeeding fiscal year through fiscal year 2004 for the purpose of making grants under paragraph (1).
+(a) Subject to subsection (b) of this section, the Secretary may make grants to any State to assist such State in establishing, expanding, or improving veterans’ cemeteries owned by such State. Any such grant may be made only upon submission of an application to the Secretary in such form and manner, and containing such information, as the Secretary may require.
 
 (b) Grants under this section shall be subject to the following conditions:
 
@@ -14,13 +12,13 @@
 
 &emsp;(2) If the amount of a grant under this section is less than the amount of costs referred to in subparagraph (A) or (B) of paragraph (1), the State receiving the grant shall contribute the excess of such costs over the grant.
 
-&emsp;(3) If a State that has received a grant under this section to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made, the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
+&emsp;(3) If a State that has received a grant under this section to establish, expand, or improve a veterans’ cemetery ceases to own such cemetery, ceases to operate such cemetery as a veterans’ cemetery, or uses any part of the funds provided through such grant for a purpose other than that for which the grant was made,the United States shall be entitled to recover from such State the total of all grants made under this section to such State in connection with such cemetery.
 
 (c)(1) In addition to the conditions specified in subsection (b) of this section, any grant to a State under this section to assist such State in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of section 2404 of this title.
 
 (2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
-(d)(1) In addition to the conditions specified in subsections (b) and (c), any grant made on or after November 21, 1997, to a State under this section to assist such State in establishing, expanding, or improving a veterans’ cemetery shall be made subject to the condition specified in paragraph (2).
+(d)(1) In addition to the conditions specified in subsections (b) and (c), any grant made to a State under this section to assist such State in establishing, expanding, or improving a veterans’ cemetery shall be made subject to the condition specified in paragraph (2).
 
 (2) For purposes of paragraph (1), the condition described in this paragraph is that, after the date of the receipt of the grant, such State prohibit the interment or memorialization in that cemetery of a person described in section 2411(b) of this title, subject to the receipt of notice described in subsection (a)(2) of such section, except that for purposes of this subsection—
 
@@ -28,11 +26,17 @@
 
 &emsp;(B) a finding described in subsection (b)(3) of such section shall be made by an appropriate official of such State.
 
-(e) Sums appropriated under subsection (a) of this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
+(e) Amounts appropriated to carry out this section shall remain available until expended. If all funds from a grant under this section have not been utilized by a State for the purpose for which the grant was made within three years after such grant is made, the United States shall be entitled to recover any such unused grant funds from such State.
 
-(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365.)
+(Added Pub. L. 95–476, title II, §202(b)(1), Oct. 18, 1978, 92 Stat. 1504, §1008; amended Pub. L. 98–223, title II, §202, Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–322, title III, §343, May 20, 1988, 102 Stat. 540; Pub. L. 100–687, div. B, title XVI, §1601, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2408 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VIII, §803, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 105–116, §2, Nov. 21, 1997, 111 Stat. 2382; Pub. L. 105–368, title IV, §§403(c)(8), 404(a)(1), (b), (c), title X, §1005(b)(5), Nov. 11, 1998, 112 Stat. 3339, 3365; Pub. L. 108–183, title V, §503, Dec. 16, 2003, 117 Stat. 2667.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–183, §503(a), struck out par. (1) designation before “Subject to” and struck out par. (2) which authorized amounts for fiscal years 1999 through 2004 for grants.
+
+Subsec. (d)(1). Pub. L. 108–183, §503(c), struck out “on or after November 21, 1997,” after “grant made”.
+
+Subsec. (e). Pub. L. 108–183, §503(b), substituted “Amounts appropriated to carry out this section” for “Sums appropriated under subsection (a) of this section”.
 
 1998—Subsec. (a)(2). Pub. L. 105–368, §404(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated $5,000,000 for fiscal year 1980 and for each of the four succeeding fiscal years, and such sums as may be necessary for fiscal year 1985 and for each of the fourteen succeeding fiscal years, for the purpose of making grants under paragraph (1) of this subsection.”
 
@@ -70,7 +74,7 @@ Subsec. (b)(3), (4). Pub. L. 100–322, §343(2), redesignated par. (4) as (3). 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\].”
+Pub. L. 105–368, title IV, §404(a)(2), Nov. 11, 1998, 112 Stat. 3339, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply with respect to grants under section 2408 of title 38, United States Code, made after the end of the 60-day period beginning on the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date
 

@@ -356,7 +356,7 @@ In general.—Except as otherwise provided in this subsection—
 
 “(2)
 
-Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax return filed before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
+Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax returnfiled before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
 
 “(3)
 
@@ -364,7 +364,7 @@ Extension of time for election out.—The time for making an election under sect
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective as if included in the amendment made by section 403 of the EconomicRecovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date of 1981 Amendment note below\], see section 1027(c) of Pub. L. 98–369, set out as a note under section 2053 of this title.
+Amendment by Pub. L. 98–369 effective as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date of 1981 Amendment note below\], see section 1027(c) of Pub. L. 98–369, set out as a note under section 2053 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -428,7 +428,7 @@ Section 7815(d)(14) of Pub. L. 101–239 provided that: “In the case of the es
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 
-Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
+Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which thedate prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
 
 #### Section Referred to in Other Sections
 

@@ -22,3 +22,7 @@ Provisions similar to those in this section were contained in section 5011 of th
 
 A prior section 5061, act Aug. 10, 1956, ch. 1041, 70A Stat. 280, related to appointment and functions of Comptroller of the Navy, prior to repeal by Pub. L. 99–433, §511(a).
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

@@ -46,9 +46,9 @@ Expungement.—(1) The Secretary of Defense shall promptly expunge, from the ind
 
 (f)
 
-Regulations.—This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Transportation and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
+Regulations.—This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
 
-(Added Pub. L. 106–546, §5(a)(1), Dec. 19, 2000, 114 Stat. 2731.)
+(Added Pub. L. 106–546, §5(a)(1), Dec. 19, 2000, 114 Stat. 2731; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### References in Text
 
@@ -57,6 +57,14 @@ Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred t
 The Uniform Code of Military Justice, referred to in subsec. (d), is classified to chapter 47 (§801 et seq.) of this title.
 
 Section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(1), is classified to section 14132 of Title 42.
+
+#### Amendments
+
+2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Initial Determination of Qualifying Military Offenses
 
@@ -68,5 +76,5 @@ Pub. L. 106–546, §5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “Coll
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 4209; title 42 sections 14132, 14135a, 14135c.
+This section is referred to in section 1565a of this title; title 18 section 4209; title 42 sections 14132, 14135a, 14135c.
 

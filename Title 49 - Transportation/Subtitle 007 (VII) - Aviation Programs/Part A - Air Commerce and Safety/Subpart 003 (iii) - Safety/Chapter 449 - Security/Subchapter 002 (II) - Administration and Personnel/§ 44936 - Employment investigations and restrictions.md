@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including a criminal history record check and a review of available law enforcement data bases and records of other governmental and internationalagencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
+Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
 
 &emsp;(i) aircraft of an air carrier or foreign air carrier; or
 
@@ -338,7 +338,7 @@ Notification concerning sufficiency of operation.—If the Administrator determi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 44915, 44921, 44935, 44937 of this title.
+This section is referred to in sections 106, 40109, 44915, 44921, 44935, 44937, 44939 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

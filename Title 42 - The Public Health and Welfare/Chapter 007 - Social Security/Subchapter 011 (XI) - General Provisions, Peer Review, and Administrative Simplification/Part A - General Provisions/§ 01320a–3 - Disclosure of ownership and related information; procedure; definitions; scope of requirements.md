@@ -70,7 +70,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 ofPub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 #### Effective Date
 

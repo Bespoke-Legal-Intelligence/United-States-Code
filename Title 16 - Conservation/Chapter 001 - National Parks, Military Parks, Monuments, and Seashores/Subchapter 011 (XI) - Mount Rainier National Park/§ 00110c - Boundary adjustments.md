@@ -6,7 +6,7 @@ The boundaries of the Mount Rainier National Park as established in the Act of M
 
 #### (b) Forest boundary adjustment
 
-The boundaries of the Snoqualmie National Forest and of the Gifford Pinchot National Forest, are hereby revised to include in the Snoqualmie National Forest approximately thirty-one and one-half acres, to exclude from the Snoqualmie National Forest approximately thirty acres, and to exclude from the Gifford Pinchot National Forest approximately two hundred and ten acres, as generally depicted on a map entitled “Mount Rainier National Park Proposed 1987 Boundary Adjustments”, numbered105–80,010B, and dated January 1987, which shall be on file and available for public inspection in the Washington, District of Columbia office of the Forest Service, United States Department of Agriculture and at the Snoqualmie and Gifford Pinchot National Forests.
+The boundaries of the Snoqualmie National Forest and of the Gifford Pinchot National Forest, are hereby revised to include in the Snoqualmie National Forest approximately thirty-one and one-half acres, to exclude from the Snoqualmie National Forest approximately thirty acres, and to exclude from the Gifford Pinchot National Forest approximately two hundred and ten acres, as generally depicted on a map entitled “Mount Rainier National Park Proposed 1987 Boundary Adjustments”, numbered 105–80,010B, and dated January 1987, which shall be on file and available for public inspection in the Washington, District of Columbia office of the Forest Service, United States Department of Agriculture and at the Snoqualmie and Gifford Pinchot National Forests.
 
 #### (c) Administration of park land
 
@@ -30,7 +30,7 @@ Authorization of Land Acquisition.—The Secretary of the Interior is authorized
 
 #### References in Text
 
-Act of March 2, 1899 (30 Stat. 993), as amended, referred to in subsec. (a), is act Mar. 2, 1899, ch. 377, 30 Stat. 993, which enacted sections 91, 92, and 93 of this title. For complete classification of this Act to the Code, see Tables.
+Act of March 2, 1899 (30 Stat. 993), as amended, referred to in subsec. (a), is act Mar. 2, 1899, ch. 377, 30Stat. 993, which enacted sections 91, 92, and 93 of this title. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsecs. (c) and (d), is Pub. L. 100–668, Nov. 16, 1988, 102 Stat. 3961, which enacted section 110c of this title, amended sections 90b, 90c–1, 90d–4, 251n, 256b, 256c, and 1274 of this title, and enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title and provisions set out as a note under sections 90 and 251n of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 90 of this title and Tables.
 

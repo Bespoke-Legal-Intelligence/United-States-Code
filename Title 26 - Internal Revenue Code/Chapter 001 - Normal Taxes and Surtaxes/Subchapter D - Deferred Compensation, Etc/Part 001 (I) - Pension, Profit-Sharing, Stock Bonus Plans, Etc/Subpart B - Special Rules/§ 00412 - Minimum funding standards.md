@@ -64,7 +64,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;Under regulations prescribed by the Secretary, amounts required to be amortized under paragraph (2) or paragraph (3), as the case may be—
 
-&emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
+&emsp;&emsp;(A) may be combined into one amount under such paragraph to be amortized over aperiod determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
 &emsp;&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
 
@@ -134,7 +134,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;&emsp;&emsp;(i) shall be eliminated by an offsetting credit or charge (as the case may be), but
 
-&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized in equal annual installments (until fully amortized) over 30 plan years.
+&emsp;&emsp;&emsp;(ii) shall be taken into account in subsequent plan years by being amortized inequal annual installments (until fully amortized) over 30 plan years.
 
 > &emsp;&emsp;The preceding sentence shall not apply to the extent of any accumulated funding deficiency under section 418B(a) as of the end of the last plan year that the plan was in reorganization.
 
@@ -202,7 +202,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;&emsp;&emsp;This subparagraph shall apply to a plan only if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies;
+&emsp;&emsp;&emsp;&emsp;(I) the plan is a defined benefit plan (other than a multiemployer plan) towhich title IV of the Employee Retirement Income Security Act of 1974 applies;
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV of such Act (disregarding plans with no unfunded vested benefits) exceed $50,000,000; and
 
@@ -296,7 +296,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of Labor notifying him of such amendment and the Secretary of Labor has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of Labor unless he determines that such amendment is necessary because of a substantial business hardship (as determined under subsection (d)(2)) and that a waiver under subsection (d)(1) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary of Labor notifying himof such amendment and the Secretary of Labor has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary of Labor unless he determines that such amendment is necessary because of a substantial business hardship (as determined under subsection (d)(2)) and that a waiver under subsection (d)(1) is unavailable or inadequate.
 
 #### (9) Annual valuation
 
@@ -364,7 +364,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 #### (1) Waiver in case of business hardship
 
-&emsp;If an employer or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan, are unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) and if application of the standard would be adverse to the interests of plan participants in the aggregate, the Secretary may waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard other than the portion thereof determined under subsection (b)(2)(C). The Secretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years. The interest rate used for purposes of computing the amortization charge described in subsection (b)(2)(C) for any plan year shall be—
+&emsp;If an employer or in the case of a multiemployer plan, 10 percent or more of the number of employers contributing to or under the plan, are unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) and if application of the standard would be adverse to the interests of plan participants in the aggregate, the Secretary may waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard other than the portion thereof determined under subsection (b)(2)(C). The Secretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years. The interest rate used for purposes of computing the amortizationcharge described in subsection (b)(2)(C) for any plan year shall be—
 
 &emsp;&emsp;(A) in the case of a plan other than a multiemployer plan, the greater of (i) 150 percent of the Federal mid-term rate (as in effect under section 1274 for the 1st month of such plan year), or (ii) the rate of interest used under the plan in determining costs (including adjustments under subsection (b)(5)(B)), and
 
@@ -498,7 +498,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (1) In general
 
-&emsp;A plan which uses a funding method that requires contributions in all years not less thanthose required under the entry age normal funding method may maintain an alternative minimum funding standard account for any plan year. Such account shall be credited and charged solely as provided in this subsection.
+&emsp;A plan which uses a funding method that requires contributions in all years not less than those required under the entry age normal funding method may maintain an alternative minimum funding standard account for any plan year. Such account shall be credited and charged solely as provided in this subsection.
 
 #### (2) Charges and credits to account
 
@@ -786,7 +786,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (C) Aggregation of plans
 
-&emsp;&emsp;For purposes of this paragraph, all defined benefit plans maintained by the same employer (or any member of such employer'scontrolled group) shall be treated as 1 plan, but only employees of such employer or member shall be taken into account.
+&emsp;&emsp;For purposes of this paragraph, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group) shall be treated as 1 plan, but only employees of such employer or member shall be taken into account.
 
 #### (7) Current liability
 
@@ -888,7 +888,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (III) Plan years beginning in 1995
 
-&emsp;&emsp;&emsp;&emsp;In the case of any plan year beginning in 1995, a plan may use its own mortalityassumptions for individuals who are entitled to benefits under the plan on account of disability.
+&emsp;&emsp;&emsp;&emsp;In the case of any plan year beginning in 1995, a plan may use its own mortality assumptions for individuals who are entitled to benefits under the plan on account of disability.
 
 #### (D) Certain service disregarded
 
@@ -1010,7 +1010,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 &emsp;&emsp;&emsp;&emsp;(II) The plan had no additional funding requirement under this subsection (or would have had no such requirement if its funded current liability percentage had been determined under subparagraph (C)).
 
-&emsp;&emsp;&emsp;&emsp;(III) The plan's additional funding requirement under this subsection did notexceed the lesser of 0.5 percent of current liability or $5,000,000.
+&emsp;&emsp;&emsp;&emsp;(III) The plan's additional funding requirement under this subsection did not exceed the lesser of 0.5 percent of current liability or $5,000,000.
 
 #### (ii) Special rule for 1995 and 1996
 
@@ -1148,7 +1148,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (B) Period of underpayment
 
-&emsp;&emsp;The period for which interest is charged under this subsection with regard to any portion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan (determined without regard to subsection (c)(10)).
+&emsp;&emsp;The period for which interest is charged under this subsection with regard to any portion of the underpayment shall run fromthe due date for the installment to the date on which such portion is contributed to or under the plan (determined without regard to subsection (c)(10)).
 
 #### (C) Order of crediting contributions
 
@@ -1275,7 +1275,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (i) Liquidity shortfall
 
-&emsp;&emsp;&emsp;The term “liquidity shortfall” means, with respect to any required installment, an amount equal to the excess (as of the last day of the quarter for which such installment is made) of the base amount with respect to such quarter over the value (as of such last day) of the plan's liquid assets.
+&emsp;&emsp;&emsp;The term “liquidity shortfall” means, with respect to any required installment,an amount equal to the excess (as of the last day of the quarter for which such installment is made) of the base amount with respect to such quarter over the value (as of such last day) of the plan's liquid assets.
 
 #### (ii) Base amount
 
@@ -1341,7 +1341,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 &emsp;&emsp;(A) any person fails to make a required installment under subsection (m) or any other payment required under this section before the due date for such installment or other payment, and
 
-&emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), when added to the aggregate unpaid balance of allpreceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
+&emsp;&emsp;(B) the unpaid balance of such installment or other payment (including interest), when added to the aggregate unpaid balance of all preceding such installments or other payments for which payment was not made before the due date (including interest), exceeds $1,000,000,
 
 > &emsp;then there shall be a lien in favor of the plan in the amount determined under paragraph (3) upon all property and rights to property, whether real or personal, belonging to such person and any other person who is a member of the same controlled group of which such person is a member.
 
@@ -1399,7 +1399,7 @@ The date of the enactment of the Multiemployer Pension Plan Amendments Act of 19
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A), (C), (D), (c)(5)(B)(ii), (e), (f)(3), (4)(A), (j), and (n)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Act is classified generally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 3, 302, 303, 304, 4001, 4006, 4021, 4041A, 4068, 4222, and 4223 of the Act are classified to sections 1002, 1082, 1083, 1084, 1301, 1306, 1321, 1341a, 1368, 1402, and 1403 of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsecs. (c)(4)(A) and (<i>l</i>)(7)(C)(iii)(II), is act Aug. 14, 1935, ch. 531,49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(4)(A) and (<i>l</i>)(7)(C)(iii)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Retirement Protection Act of 1994, referred to in subsec. (<i>l</i>)(11), is subtitle F (§§750–781) of title VII of Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 5012. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1 of this title and Tables.
 
@@ -1507,7 +1507,7 @@ Subsec. (f)(4)(A). Pub. L. 101–239, §7881(c)(1), substituted “for benefit l
 
 Subsec. (<i>l</i>)(3)(C)(ii)(II). Pub. L. 101–239, §7881(a)(1)(A), substituted “reducing (but not below zero)” for “reducing”.
 
-Subsec. (<i>l</i>)(4)(B)(i). Pub. L. 101–239, §7881(a)(2)(A), substituted “liability and the unamortized portion of the unfunded existing benefit increase liability” for “liability”.
+Subsec. (<i>l</i>)(4)(B)(i). Pub. L. 101–239, §7881(a)(2)(A), substituted “liability and the unamortized portion of theunfunded existing benefit increase liability” for “liability”.
 
 Subsec. (<i>l</i>)(5)(C). Pub. L. 101–239, §7881(a)(3)(A), substituted “the first plan year beginning after December 31, 1988” for “October 17, 1987”.
 
@@ -1923,7 +1923,7 @@ General rule.—In the case of any multiemployer plan (as defined in section 414
 
 &emsp;&emsp;“(C) the rates of interest under the plan are determined on the basis of reasonable actuarial assumptions,
 
-&nbsp;the plan may elect (in such manner and at such time as may be provided under regulations prescribed by the Secretary of the Treasury or his delegate) to fund the unfunded past service liability under the plan existing as of the date 12 months following the first date on which such section 412 first applies to the plan by charging the funding standard account with an equal annual percentage of the aggregate pay of all participants in the plan in lieu of the level dollar charges to such account required under clauses (i), (ii), and (iii) of section 412(b)(2)(B) of such Code and section 302(b)(2)(B)(i), (ii), and (iii) of this Act \[section 1082(b)(2)(B)(i), (ii), and (iii) of Title 29, Labor\].
+&nbsp;the plan may elect (in such manner and at such time as may be provided under regulations prescribed bythe Secretary of the Treasury or his delegate) to fund the unfunded past service liability under the plan existing as of the date 12 months following the first date on which such section 412 first applies to the plan by charging the funding standard account with an equal annual percentage of the aggregate pay of all participants in the plan in lieu of the level dollar charges to such account required under clauses (i), (ii), and (iii) of section 412(b)(2)(B) of such Code and section 302(b)(2)(B)(i), (ii), and (iii) of this Act \[section 1082(b)(2)(B)(i), (ii), and (iii) of Title 29, Labor\].
 
 &emsp;“(2)
 

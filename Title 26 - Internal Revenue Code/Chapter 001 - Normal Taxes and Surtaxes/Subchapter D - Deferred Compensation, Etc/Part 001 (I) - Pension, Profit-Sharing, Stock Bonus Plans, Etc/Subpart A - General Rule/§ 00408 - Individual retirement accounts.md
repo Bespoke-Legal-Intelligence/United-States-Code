@@ -34,7 +34,7 @@ For purposes of this section, the term “individual retirement annuity” means
 
 &emsp;(4) The entire interest of the owner is nonforfeitable.
 
-> Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 701/2; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
+> Such term does not include such an annuity contract for any taxable year of the owner in whichit is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 701/2; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
 
 #### (c) Accounts established by employers and certain associations of employees
 
@@ -228,7 +228,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (5) Purchase of endowment contract by individual retirement account
 
-&emsp;If the assets of an individual retirement account or any part of such assets are used topurchase an endowment contract for the benefit of the individual for whose benefit the account is established—
+&emsp;If the assets of an individual retirement account or any part of such assets are used to purchase an endowment contract for the benefit of the individual for whose benefit the account is established—
 
 &emsp;&emsp;(A) to the extent that the amount of the assets involved in the purchase are not attributable to the purchase of life insurance, the purchase is treated as a rollover contribution described in subsection (d)(3), and
 
@@ -694,7 +694,7 @@ $10,000.
 
 #### (ii) Cost-of-living adjustment
 
-&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraphwhich is not a multiple of $500 shall be rounded to the next lower multiple of $500.
 
 #### (3) Vesting requirements
 
@@ -772,7 +772,7 @@ $10,000.
 
 &emsp;&emsp;&emsp;(i) the employer satisfies requirements similar to the requirements of section 410(b)(6)(C)(i)(II); and
 
-&emsp;&emsp;&emsp;(ii) the qualified salary reduction arrangement maintained by the employer would satisfy the requirements of this subsection after the transaction if the employer which maintained the arrangement before the transaction had remained a separate employer.
+&emsp;&emsp;&emsp;(ii) the qualified salary reduction arrangement maintained by the employer would satisfy the requirements of this subsection after the transaction if the employer which maintained the arrangementbefore the transaction had remained a separate employer.
 
 #### (B) Applicable requirement
 
@@ -826,7 +826,7 @@ $10,000.
 
 &emsp;&emsp;<b>(2) For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.</b>
 
-(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311;Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47.)
+(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47.)
 
 #### Amendment of Section
 
@@ -834,7 +834,7 @@ $10,000.
 
 #### References in Text
 
-Section 7 of the Commodity Exchange Act, referred to in subsec. (m)(3)(B), is classified to section 11 of Title 7, Agriculture, and relates to vacation on request of designation as “contract market”. Section 5 of the Commodity Exchange Act, which is classified to section 7 of Title 7, relates to designation of boards of trade as “contract markets”.
+Section 7 of the Commodity Exchange Act, referred to in subsec. (m)(3)(B), is classified to section 11 of Title 7, Agriculture, and relates to vacation on requestof designation as “contract market”. Section 5 of the Commodity Exchange Act, which is classified to section 7 of Title 7, relates to designation of boards of trade as “contract markets”.
 
 Section 101(6) of the Federal Credit Union Act, referred to in subsec. (n)(2), is classified to section 1752(6) of Title 12, Banks and Banking.
 
@@ -972,7 +972,7 @@ Subsec. (d)(6). Pub. L. 101–239, §7841(a)(1), substituted “his spouse or fo
 
 1988—Subsec. (d)(2)(C). Pub. L. 100–647, §1011(b)(1), substituted “in which the taxable year begins” for “with or within which the taxable year ends”.
 
-Subsec. (d)(3)(A). Pub. L. 100–647, §1011A(a)(2)(A), struck out at end “Clause (ii) shall not apply duringthe 5-year period beginning on the date of the qualified total distribution referred to in such clause if the individual was treated as a 5-percent owner with respect to such distribution under section 402(a)(5)(F)(ii).”
+Subsec. (d)(3)(A). Pub. L. 100–647, §1011A(a)(2)(A), struck out at end “Clause (ii) shall not apply during the 5-year period beginning on the date of the qualified total distribution referred to in such clause if the individual was treated as a 5-percent owner with respect to such distribution under section 402(a)(5)(F)(ii).”
 
 Subsec. (d)(3)(E). Pub. L. 100–647, §1018(t)(3)(D), substituted “paragraph” for “subparagraph”.
 
@@ -1068,7 +1068,7 @@ Pub. L. 99–514, §1108(g)(1)(A), substituted “any highly compensated employe
 
 Subsec. (k)(3)(C). Pub. L. 99–514, §1108(g)(1)(B), inserted “and except as provided in subparagraph (D),” and “(other than contributions under an arrangement described in paragraph (6))”, and struck out end sentence which read as follows: “The Secretary shall annually adjust the $200,000 amount contained in the preceding sentence at the same time and in the same manner as he adjusts the dollar amount contained in section 415(c)(1)(A).”
 
-Subsec. (k)(3)(D), (E). Pub. L. 99–514, §1108(g)(1)(C), added subpar. (D) and struck out former subpar. (D), treatment of certain contributions and taxes, which read “Except as provided in this subparagraph, employer contributions do not meet the requirements of this paragraph unless such contributions meet the requirements of this paragraph without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contribution Act), title II of the Social Security Act, or any other Federal or State law. If the employer does not maintain an integrated plan at any time during the taxable year, OASDI contributions (as defined in section 401(<i>l</i>)(2)) may, for purposes of this paragraph, be taken into account as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension.”, and former subpar. (E), integrated plan defined, which read “For purposes of subparagraph (D), the term ‘integrated plan’ means a plan which meets the requirements of section 401(a) or 403(a) but would not meet such requirements if contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law were not taken into account.”
+Subsec. (k)(3)(D), (E). Pub. L. 99–514, §1108(g)(1)(C), added subpar. (D) and struck out former subpar. (D),treatment of certain contributions and taxes, which read “Except as provided in this subparagraph, employer contributions do not meet the requirements of this paragraph unless such contributions meet the requirements of this paragraph without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contribution Act), title II of the Social Security Act, or any other Federal or State law. If the employer does not maintain an integrated plan at any time during the taxable year, OASDI contributions (as defined in section 401(<i>l</i>)(2)) may, for purposes of this paragraph, be taken into account as contributions by the employer to the employee's simplified employee pension, but only if such contributions are so taken into account with respect to each employee maintaining a simplified employee pension.”, and former subpar. (E), integrated plan defined, which read “For purposes of subparagraph (D), the term ‘integrated plan’ means a plan which meets the requirements of section 401(a) or 403(a) but would not meet such requirements if contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law were not taken into account.”
 
 Subsec. (k)(6). Pub. L. 99–514, §1108(a), added par. (6).
 
@@ -1268,7 +1268,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 7811(m)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Section 7841(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amendingthis section and section 414 of this title\] shall apply to transfers after the date of the enactment of this Act \[Dec. 19, 1989\] in taxable years ending after such date.”
+Section 7841(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 414 of this title\] shall apply to transfers after the date of the enactment of this Act \[Dec. 19, 1989\] in taxable years ending after such date.”
 
 #### Effective Date of 1988 Amendment
 
@@ -1354,7 +1354,7 @@ Amendment by section 157(h)(2) of Pub. L. 95–600 applicable to payments made i
 
 Section 157(e)(2) of Pub. L. 95–600 provided that: “The amendments made by paragraph (1) \[amending this section and section 409 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
-Amendment by section 157(g)(3) of Pub. L. 95–600 applicable to lump-sum distributions completed after Dec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
+Amendment by section 157(g)(3) of Pub. L. 95–600 applicable to lump-sum distributions completed afterDec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
 
 Amendment by section 703(c)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1976, see section 703(c)(5) of Pub. L. 95–600, set out as a note under section 219 of this title.
 
@@ -1388,7 +1388,7 @@ Section 157(d)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 25B, 45D, 45E, 72, 219, 220, 280G, 401, 402, 403, 408A, 411, 414, 415, 416, 529, 530, 818, 1397C, 3121, 3306, 3401, 4972, 4973, 4974, 4975, 4979, 6012, 6047, 6058, 6104, 6332, 6693, 6724, 7701 of this title; title 4 section 114; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1003, 1021, 1051, 1053, 1081, 1103, 1104, 1107, 1108; title 42 section 409.
+This section is referred to in sections 1, 25B, 45D, 45E, 72, 219, 220, 223, 280G, 401, 402, 403, 408A, 411, 414, 415, 416, 529, 530, 818, 1397C, 3121, 3306, 3401, 4972, 4973, 4974, 4975, 4979, 6012, 6047, 6058, 6104, 6332, 6693, 6724, 7528, 7701 of this title; title 4 section 114; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1003, 1021, 1051, 1053, 1081, 1103, 1104, 1107, 1108; title 42 section 409.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

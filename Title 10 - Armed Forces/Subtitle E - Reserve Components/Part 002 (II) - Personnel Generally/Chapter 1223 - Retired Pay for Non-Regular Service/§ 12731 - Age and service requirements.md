@@ -6,11 +6,11 @@
 
 &emsp;(2) has performed at least 20 years of service computed under section 12732 of this title;
 
-&emsp;(3) performed the last eight years of qualifying service while a member of any category named in section 12732(a)(1) of this title, but not while a member of a regular component, the Fleet Reserve, or the Fleet Marine Corps Reserve; and
+&emsp;(3) performed the last six years of qualifying service while a member of any category named in section 12732(a)(1) of this title, but not while a member of a regular component, the Fleet Reserve, or the Fleet Marine Corps Reserve, except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight; and
 
 &emsp;(4) is not entitled, under any other provision of law, to retired pay from an armed force or retainer pay as a member of the Fleet Reserve or the Fleet Marine Corps Reserve.
 
-(b) Application for retired pay under this section must be made to the Secretary of the military department, or the Secretary of Transportation, as the case may be, having jurisdiction at the time of application over the armed force in which the applicant is serving or last served.
+(b) Application for retired pay under this section must be made to the Secretary of the military department, or the Secretary of Homeland Security, as the case may be, having jurisdiction at the time of application over the armed force in which the applicant is serving or last served.
 
 (c)(1) A person who, before August 16, 1945, was a Reserve of an armed force, or a member of the Army without component or other category covered by section 12732(a)(1) of this title except a regular component, is not eligible for retired pay under this chapter unless—
 
@@ -34,9 +34,7 @@
 
 (e) Notwithstanding section 8301 of title 5, the date of entitlement to retired pay under this section shall be the date on which the requirements of subsection (a) have been completed.
 
-(f) In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on December 31, 2001, the provisions of subsection (a)(3) shall be applied by substituting “the last six years” for “the last eight years”.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1331; Pub. L. 85–704, Aug. 21, 1958, 72 Stat. 702; Pub. L. 85–861, §33(a)(8), Sept. 2, 1958, 72 Stat. 1564; Pub. L. 89–652, §1, Oct. 14, 1966, 80 Stat. 902; Pub. L. 90–485, §2, Aug. 13, 1968, 82 Stat. 754; Pub. L. 95–397, title II, §206, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–513, title V, §511(47), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §924(a), Sept. 24, 1983, 97 Stat. 644; Pub. L. 101–189, div. A, title XIV, §1404(b)(1), Nov. 29, 1989, 103 Stat. 1586; renumbered §12731 and amended Pub. L. 103–337, div. A, title VI, §636, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2790, 2999; Pub. L. 104–106, div. A, title XV, §1501(b)(20), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–261, div. A, title V, §561(n)(1), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(n)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §631(a), (b), Dec. 2, 2002, 116 Stat. 2571, 2572.)
 
 Historical and Revision Notes<br>1956
 
@@ -88,6 +86,12 @@ The change makes clear that in the determination of eligibility for retired pay 
 
 #### Amendments
 
+2002—Subsec. (a)(3). Pub. L. 107–314, §631(a), substituted “six years” for “eight years” and inserted before semicolon “, except that in the case of a person who completed the service requirements of paragraph (2) before October 5, 1994, the number of years of such qualifying service under this paragraph shall be eight”.
+
+Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (f). Pub. L. 107–314, §631(b), struck out subsec. (f) which read as follows: “In the case of a person who completes the service requirements of subsection (a)(2) during the period beginning on October 5, 1994, and ending on December 31, 2001, the provisions of subsection (a)(3) shall be applied by substituting ‘the last six years’ for ‘the last eight years’.”
+
 2000—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
 1998—Subsec. (f). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
@@ -106,7 +110,7 @@ Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: 
 
 &emsp;“(2) he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, after August 13, 1961, and before May 31, 1963, or after August 4, 1964, and before March 28, 1973.”,
 
-> for “unless he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8,1940, and before January 1, 1947, or unless he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953”.
+> for “unless he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8, 1940, and before January 1, 1947, or unless he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953”.
 
 1980—Subsec. (b). Pub. L. 96–513, §511(47)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
@@ -121,6 +125,12 @@ Subsec. (e). Pub. L. 96–513, §511(47)(B), struck out “United States Code,�
 1958—Subsec. (a)(3). Pub. L. 85–861 struck out provisions which related to service as a member of the Army or the Air Force without component.
 
 Subsec. (c). Pub. L. 85–704 made persons who performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, eligible for retired pay under this chapter.
+
+#### Effective Date of 2002 Amendments
+
+Pub. L. 107–314, div. A, title VI, §631(c), Dec. 2, 2002, 116 Stat. 2572, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2002. No benefit shall accrue to any person for any period before that date by reason of the enactment of those amendments.”
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -172,5 +182,5 @@ Notification of completion of requisite years of service as conclusive for entit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1331, 1370, 1405, 1406, 1407, 1408, 1447, 1448, 1482, 12731a, 12731b, 12732, 12738, 12741 of this title.
+This section is referred to in sections 1331, 1370, 1405, 1406, 1407, 1408, 1413a, 1447, 1448, 1482, 12731a, 12731b, 12732, 12738, 12741 of this title.
 

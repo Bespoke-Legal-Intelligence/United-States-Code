@@ -38,7 +38,7 @@ Audit.—The Secretary shall—
 
 (c) After settlement, the Secretary shall compare the amount of gold and silver bullion and coins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
 
-(d) The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.
+(d) The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test theweights normally used in transactions at the mints against the standard weights.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 989; Pub. L. 100–274, §2(c)(4)–(7), (9), (10), Mar. 31, 1988, 102 Stat. 49; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

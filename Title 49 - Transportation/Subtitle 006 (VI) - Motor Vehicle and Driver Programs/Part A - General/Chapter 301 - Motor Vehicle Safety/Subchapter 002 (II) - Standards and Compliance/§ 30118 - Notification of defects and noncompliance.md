@@ -96,7 +96,7 @@ In this section, the text of 15:1397(a)(1)(D) (related to 15:1411, 1412, 1413(c)
 
 In subsection (a), the words “making an initial decision” are substituted for “determines” to distinguish the decision from the decision made under subsection (b) of this section. The words “of such determination”, “to the manufacturer”, and “of the Secretary” are omitted as surplus. The words “under this subsection” are added for clarity.
 
-In subsection (b)(1), the words “may make a final decision” are substituted for “determines”, and the words“prescribed under this chapter” are added, for clarity and consistency in this chapter.
+In subsection (b)(1), the words “may make a final decision” are substituted for “determines”, and the words “prescribed under this chapter” are added, for clarity and consistency in this chapter.
 
 In subsection (b)(2), before clause (A), the words “If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains a defect or does not comply” are added for clarity and because of the restatement. The words “after such presentations by the manufacturer and interested persons” are omitted as surplus. In clause (A), the words “of the defect or noncompliance” are added for clarity.
 

@@ -206,7 +206,11 @@ Subsec. (k)(2)(B). Pub. L. 106–554, §1(a)(9) \[title VIII, §808(3)\], substi
 
 #### General Accounting Office Report
 
-Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that: “Not later than 180 days after thelast day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation are appointed under section 33(c) of the Small Business Act \[15 U.S.C. 657c(c)\] (as added by this section), the Comptroller General of the United States shall evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under section 33(b) of the Small Business Act (as added by this section), and submit to Congress a report on the results of that evaluation.”
+Pub. L. 106–50, title II, §202(b), Aug. 17, 1999, 113 Stat. 239, provided that: “Not later than 180 days after the last day of the second fiscal year beginning after the date on which the initial members of the Board of Directors of the National Veterans Business Development Corporation are appointed under section 33(c) of the Small Business Act \[15 U.S.C. 657c(c)\] (as added by this section), the Comptroller General of the United States shall evaluate the effectiveness of the National Veterans Business Development Corporation in carrying out the purposes under section 33(b) of the Small Business Act (as added by this section), and submit to Congress a report on the results of that evaluation.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 38 section 3452.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

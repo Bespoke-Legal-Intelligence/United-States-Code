@@ -10,7 +10,7 @@ Except as provided in subsection (f) of this section, no financial assistance sh
 
 #### (c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities
 
-The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter andother programs shall be fairly allocated among the various programs which utilize such facilities and services.
+The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 #### (d) Publication and notification of proposed rules, etc.
 
@@ -64,7 +64,7 @@ In all personnel actions of the American Indian Programs Branch of the Head Star
 
 #### Codification
 
-In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, asamended (40 U.S.C. 276a et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, as amended (40 U.S.C. 276a et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

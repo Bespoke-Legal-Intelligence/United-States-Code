@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make a grant to each State educational agency whose application the Secretary has selected for funding under this part in an amount for each fiscal year that is—
+The Secretary shall make a grant to each State educational agency whose application theSecretary has selected for funding under this part in an amount for each fiscal year that is—
 
 &emsp;(1) not less than $500,000, nor more than $2,000,000, in the case of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
 

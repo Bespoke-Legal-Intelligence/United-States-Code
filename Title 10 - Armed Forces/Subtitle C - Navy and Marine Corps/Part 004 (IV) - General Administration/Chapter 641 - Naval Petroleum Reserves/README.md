@@ -33,7 +33,7 @@
 
 1996—Pub. L. 104–201, div. A, title X, §1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
 
-Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
+Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted“Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
 
 1990—Pub. L. 101–510, div. A, title XIII, §1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
 

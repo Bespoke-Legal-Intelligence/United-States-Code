@@ -16,7 +16,7 @@ Each eligible lender, at or prior to the time such lender disburses a loan that 
 
 &emsp;(6) the yearly and cumulative maximum amounts that may be borrowed;
 
-&emsp;(7) an explanation of when repayment of the loan will be required and when the borrower will be obligated to pay interest that accrues on the loan;
+&emsp;(7) an explanation of when repayment of the loan will be required and when the borrowerwill be obligated to pay interest that accrues on the loan;
 
 &emsp;(8) a statement as to the minimum and maximum repayment term which the lender may impose, and the minimum annual payment required by law;
 
@@ -64,7 +64,7 @@ Each eligible lender shall, at the time such lender notifies a borrower of appro
 
 #### (e) Special disclosure rules on SLS loans and PLUS loans and unsubsidized loans
 
-Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this title shall not be subject to the disclosure of projected monthly payment amounts required under subsection (b)(8) of this section if the lender, in lieu of such disclosure, provides the borrower with sample projections of monthly repayment amounts assuming different levels of borrowing and interest accruals resulting from capitalization of interest while the borrower is in school. Such sample projections shall disclose the cost to the student of capitalizing—
+Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this title shall not be subject to the disclosure of projected monthly payment amounts required under subsection (b)(8) of this section if the lender, in lieu of such disclosure, provides the borrower with sample projections of monthly repayment amounts assuming different levelsof borrowing and interest accruals resulting from capitalization of interest while the borrower is in school. Such sample projections shall disclose the cost to the student of capitalizing—
 
 &emsp;(1) principal and interest; and
 
@@ -82,7 +82,7 @@ Section 1078–1 of this title, referred to in subsec. (e), was repealed by Pub.
 
 #### Prior Provisions
 
-A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct.16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct. 16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
 
 A prior section 1083a, Pub. L. 89–329, title IV, §433A, as added Pub. L. 96–374, title IV, §418, Oct. 3, 1980, 94 Stat. 1423; amended Pub. L. 97–301, §13(a), Oct. 13, 1982, 96 Stat. 1404; Pub. L. 98–79, §3(a), Aug. 15, 1983, 97 Stat. 476; Pub. L. 99–272, title XVI, §16012(c), Apr. 7, 1986, 100 Stat. 340, related to student loan information to be provided by eligible lenders, prior to the general revision of this part by Pub. L. 99–498. See section 1083 of this title.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
+Section effective Oct. 17, 1986, with subsecs. (a), (b), and (d) of this section applicable only with respect to loans disbursed on or after Jan. 1, 1987, or made tocover the costs of instruction for periods of enrollment beginning on or after Jan. 1, 1987, see section 402(b) of Pub. L. 99–498, set out as a note under section 1071 of this title.
 
 #### Section Referred to in Other Sections
 

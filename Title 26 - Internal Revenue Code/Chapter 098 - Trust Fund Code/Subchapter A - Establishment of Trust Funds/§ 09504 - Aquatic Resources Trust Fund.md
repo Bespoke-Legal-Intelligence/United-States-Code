@@ -30,17 +30,17 @@
 
 &emsp;Amounts in the Sport Fish Restoration Account shall be available, as provided by appropriation Acts, for making expenditures—
 
-&emsp;&emsp;(A) to carry out the purposes of the Act entitled “An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes”, approved August 9, 1950 (as in effect on the date of the enactment of the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000),
+&emsp;&emsp;(A) to carry out the purposes of the Act entitled “An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes”, approved August 9, 1950 (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2003),
 
-&emsp;&emsp;(B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the TEA 21 Restoration Act), and
+&emsp;&emsp;(B) to carry out the purposes of section 7404(d) of the Transportation Equity Act for the 21st Century (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2003), and
 
-&emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the TEA 21 Restoration Act).
+&emsp;&emsp;(C) to carry out the purposes of the Coastal Wetlands Planning, Protection and Restoration Act (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2003).
 
 > &emsp;Amounts transferred to such account under section 9503(c)(5) may be used only for making expenditures described in subparagraph (B) of this paragraph.
 
 #### (c) Expenditures from Boat Safety Account
 
-Amounts in the Boat Safety Account shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2003, to carry out the purposes of section 13106 of title 46, United States Code (as in effect on the date of the enactment of the TEA 21 Restoration Act).
+Amounts in the Boat Safety Account shall be available, as provided by appropriation Acts, for making expenditures before March 1, 2004, to carry out the purposes of section 13106 of title 46, United States Code (as in effect on the date of the enactment of the Surface Transportation Extension Act of 2003).
 
 #### (d) Limitation on transfers to Aquatic Resources Trust Fund
 
@@ -54,13 +54,13 @@ Amounts in the Boat Safety Account shall be available, as provided by appropriat
 
 #### (2) Exception for prior obligations
 
-&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2003, in accordance with the provisions of this section.
+&emsp;Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before March 1, 2004, in accordance with the provisions of this section.
 
 #### (e) Cross reference
 
 &emsp;&emsp;<b>For provision transferring motorboat fuels taxes to Boat Safety Account and Sport Fish Restoration Account, see section 9503(c)(4).</b>
 
-(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775.)
+(Added Pub. L. 98–369, div. A, title X, §1016(a), July 18, 1984, 98 Stat. 1019; amended Pub. L. 100–418, title I, §1214(p)(2), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 100–448, §6(a)(2), (c)(3), Sept. 28, 1988, 102 Stat. 1839, 1841; Pub. L. 101–508, title XI, §11211(i)(2), (3), Nov. 5, 1990, 104 Stat. 1388–428; Pub. L. 102–240, title VIII, §8002(d)(2)(C), (i), Dec. 18, 1991, 105 Stat. 2204, 2205; Pub. L. 105–130, §9(b), Dec. 1, 1997, 111 Stat. 2561; Pub. L. 105–178, title IX, §9005(b)–(d), (f), June 9, 1998, 112 Stat. 505; Pub. L. 105–206, title IX, §9015(b), July 22, 1998, 112 Stat. 867; Pub. L. 106–408, title I, §126, Nov. 1, 2000, 114 Stat. 1775; Pub. L. 108–88, §12(b), Sept. 30, 2003, 117 Stat. 1129.)
 
 #### References in Text
 
@@ -68,15 +68,21 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 The Act entitled “An Act to provide that the United States shall aid the States in fish restoration and management projects, and for other purposes”, approved August 9, 1950, referred to in subsec. (b)(2)(A), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, known as the Dingell-Johnson Sport Fish Restoration Act, and also as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 777 of Title 16 and Tables.
 
-The date of the enactment of the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 106–408, title I, which was approved Nov. 1, 2000.
-
-The date of the enactment of the TEA 21 Restoration Act, referred to in subsecs. (b)(2)(B), (C), and (c), is the date of enactment of title IX of Pub. L. 105–206, which was approved July 22, 1998.
+The date of the enactment of the Surface Transportation Extension Act of 2003, referred to in subsecs. (b)(2) and (c), is the date of enactment of Pub. L. 108–88, which was approved Sept. 30, 2003.
 
 Section 7404(d) of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(2)(B), is classified to section 777g–1(d) of Title 16, Conservation.
 
 The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (b)(2)(C), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified generally to chapter 59A (§3951 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of Title 16 and Tables.
 
 #### Amendments
+
+2003—Subsec. (b)(2)(A). Pub. L. 108–88, §12(b)(1)(A), substituted “Surface Transportation Extension Act of 2003” for “Wildlife and Sport Fish Restoration Programs Improvement Act of 2000”.
+
+Subsec. (b)(2)(B), (C). Pub. L. 108–88, §12(b)(1)(B), substituted “Surface Transportation Extension Act of 2003” for “TEA 21 Restoration Act”.
+
+Subsec. (c). Pub. L. 108–88, §12(b)(2), substituted “March 1, 2004” for “October 1, 2003” and “Surface Transportation Extension Act of 2003” for “TEA 21 Restoration Act”.
+
+Subsec. (d)(2). Pub. L. 108–88, §12(b)(3), substituted “March 1, 2004” for “October 1, 2003”.
 
 2000—Subsec. (b)(2)(A). Pub. L. 106–408 substituted “(as in effect on the date of the enactment of the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000)” for “(as in effect on the date of the enactment of the TEA 21 Restoration Act)”.
 
@@ -144,7 +150,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by section 13107 of title 46, United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account.”
+Boat safety account treated as continuation of national recreational boating safety and facilities improvement fund.—The Boat Safety Account in the Aquatic Resources Trust Fund established by the amendments made by this section shall be treated for all purposes of law as the continuation of the National Recreational Boating Safety and Facilities Improvement Fund established by section 13107 of title 46,United States Code. Any reference in any law to the National Recreational Boating Safety and Facilities Improvement Fund established by such section shall be deemed to include (wherever appropriate) a reference to such Boat Safety Account.”
 
 #### Section Referred to in Other Sections
 

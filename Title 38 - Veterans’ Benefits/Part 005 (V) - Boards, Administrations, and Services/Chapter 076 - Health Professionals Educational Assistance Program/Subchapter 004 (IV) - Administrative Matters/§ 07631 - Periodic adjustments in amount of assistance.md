@@ -50,7 +50,7 @@ Subsec. (b)(3), (4). Pub. L. 101–366, §205(b)(2), added par. (3) and redesign
 
 #### Adjustment of Maximum Education Debt Reduction Payments Amount
 
-Pub. L. 107–135, title I, §102(d)(2), Jan. 23, 2002, 115 Stat. 2449, provided that: “Notwithstanding section 7631(a)(1) of title 38, United States Code, as amended by paragraph (1), the Secretary of Veterans Affairs shall not increase the maximum education debt reduction payments amount under that section in calendar year 2002.”
+Pub. L. 107–135, title I, §102(d)(2), Jan. 23, 2002, 115 Stat. 2449, prohibited an increase of the maximum education debt reduction payments amount in calendar year 2002.
 
 #### Transition
 

@@ -12,7 +12,7 @@ For the purpose of this part—
 
 &emsp;(5) The term “underrepresented in science and engineering” means a minority group whose number of scientists and engineers per 10,000 population of that group is substantially below the comparable figure for scientists and engineers who are white and not of Hispanic origin.
 
-&emsp;(6) The term “institutional grant” means a grant that supports the implementation of a comprehensive science improvement plan, which may include any combination of activities for improving the preparation of minority students for careers in science.
+&emsp;(6) The term “institutional grant” means a grant that supports the implementation of acomprehensive science improvement plan, which may include any combination of activities for improving the preparation of minority students for careers in science.
 
 &emsp;(7) The term “cooperative grant” means a grant that assists groups of nonprofit accredited colleges and universities to work together to conduct a science improvement program.
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1067c, 1131–1 of this title; title 10 section 2323.
+This section is referred to in sections 1067c, 1131–1 of this title; title 10 section 2323; title 15 section 7501.
 

@@ -54,7 +54,7 @@ In general.—If, in order to make available for other use a band of frequencies
 
 “(2)
 
-Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\].”
+Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303,309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\].”
 
 #### Reassignment to Federal Government for Use by Department of Defense of Certain Frequency Spectrum Recommended for Reallocation
 
@@ -62,7 +62,7 @@ Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, pr
 
 &emsp;“(A) the bands of frequencies aggregating 3 megahertz located between 138 and 144 megahertz that were recommended for reallocation in the second reallocation report under section 113(a) of that Act \[probably means 47 U.S.C. 923(a)\]; and
 
-&emsp;“(B) the band of frequency aggregating 5 megahertz located between 1385 megahertz and 1390 megahertz,inclusive, that was so recommended for reallocation.”
+&emsp;“(B) the band of frequency aggregating 5 megahertz located between 1385 megahertz and 1390 megahertz, inclusive, that was so recommended for reallocation.”
 
 #### Assessment of Electromagnetic Spectrum Reallocation
 

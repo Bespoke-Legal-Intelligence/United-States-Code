@@ -70,7 +70,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (2) Relationship to requirements applicable to defense acquisition workforce
 
-&emsp;The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable to those established for the same or equivalent positions pursuant to chapter 87 of title 10 with appropriate modifications.
+&emsp;The Administrator shall establish qualification requirements and make prescriptions under paragraph (1) that are comparable to those established for the same or equivalentpositions pursuant to chapter 87 of title 10 with appropriate modifications.
 
 #### (3) Approval of requirements
 
@@ -88,15 +88,89 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;The head of an executive agency may provide tuition reimbursement in education (including a full-time course of study leading to a degree) in accordance with section 4107 of title 5 for personnel serving in acquisition positions in the agency.
 
-(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666.)
+#### (3) Acquisition workforce training fund
+
+&emsp;(A) The Administrator of General Services shall establish an acquisition workforce training fund. The Administrator shall manage the fund through the Federal Acquisition Institute to support the training of the acquisition workforce of the executive agencies other than the Department of Defense. The Administrator shall consult with the Administrator for Federal Procurement Policy in managing the fund.
+
+&emsp;(B) There shall be credited to the acquisition workforce training fund 5 percent of the fees collected by executive agencies (other than the Department of Defense) under the following contracts:
+
+&emsp;&emsp;(i) Governmentwide task and delivery-order contracts entered into under sections 253h and 253i of this title.
+
+&emsp;&emsp;(ii) Governmentwide contracts for the acquisition of information technology as defined in section 11101 of title 40 and multiagency acquisition contracts for such technology authorized by section 11314 of such title.
+
+&emsp;&emsp;(iii) Multiple-award schedule contracts entered into by the Administrator of General Services.
+
+&emsp;(C) The head of an executive agency that administers a contract described in subparagraph (B) shall remit to the General Services Administration the amount required to be credited to the fund with respect to such contract at the end of each quarter of the fiscal year.
+
+&emsp;(D) The Administrator of General Services, through the Office of Federal Acquisition Policy, shall ensure that funds collected for training under this section are not used for any purpose other than the purpose specified in subparagraph (A).
+
+&emsp;(E) Amounts credited to the fund shall be in addition to funds requested and appropriated for education and training referred to in paragraph (1).
+
+&emsp;(F) Amounts credited to the fund shall remain available to be expended only in the fiscal year for which credited and the two succeeding fiscal years.
+
+&emsp;(G) This paragraph shall cease to be effective five years after November 24, 2003.
+
+(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664.)
 
 #### References in Text
 
-Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
+Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section 5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
+
+#### Amendments
+
+2003—Subsec. (h)(3). Pub. L. 108–136 added par. (3).
 
 #### Effective Date
 
 For effective date and applicability of section, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 251 of this title.
+
+#### Purposes of 2003 Amendment
+
+Pub. L. 108–136, div. A, title XIV, §1412(a), Nov. 24, 2003, 117 Stat. 1664, provided that: “The purposes of this section \[amending this section and enacting provisions set out as notes under this section\] are to ensure that the Federal acquisition workforce—
+
+&emsp;“(1) adapts to fundamental changes in the nature of Federal Government acquisition of property and services associated with the changing roles of the Federal Government; and
+
+&emsp;“(2) acquires new skills and a new perspective to enable it to contribute effectively in the changing environment of the 21st century.”
+
+#### Inapplicability of Subsection (h)(3) to Department of Defense Acquisition Workforce
+
+Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, provided that: “This section and the amendments made by this section \[amending this section and enacting provisions set out as notes under this section\] shall not apply to the acquisition workforce of the Department of Defense. Fees charged to the Department of Defense under contracts covered by section 37(h)(3) of the Office of Federal Procurement Policy Act \[41 U.S.C. 433(h)(3)\], as added by subsection (b), shall be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund established by such section.”
+
+#### Acquisition Workforce Recruitment Program
+
+Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, provided that:
+
+“(a)
+
+Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))\[)\] are shortage category positions in order to use the authorities in thosesections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
+
+“(b)
+
+Termination of Authority.—The head of a department or agency may not appoint a person to a position of employment under this section after September 30, 2007.
+
+“(c)
+
+Report.—Not later than March 31, 2007, the Director of the Office of Personnel Management, in consultation with the Administrator for Federal Procurement Policy, shall submit to Congress a report on the implementation of this section. The report shall include—
+
+&emsp;“(1) a list of the departments and agencies that exercised the authority provided in this section, and whether the exercise of the authority was carried out in accordance with the regulations prescribed by the Office of Personnel Management;
+
+&emsp;“(2) the Director's assessment of the efficacy of the exercise of the authority provided in this section in attracting employees with unusually high qualifications to the acquisition workforce; and
+
+&emsp;“(3) any recommendations considered appropriate by the Director on whether the authority to carry out the program should be extended.”
+
+#### Architectural and Engineering Acquisition Workforce
+
+Pub. L. 108–136, div. A, title XIV, §1414, Nov. 24, 2003, 117 Stat. 1666, provided that: “The Administrator for Federal Procurement Policy, in consultation with the Secretary of Defense, the Administrator of General Services, and the Director of the Office of Personnel Management, shall develop and implement a plan to ensure that the Federal Government maintains the necessary capability with respect to the acquisition of architectural and engineering services to—
+
+&emsp;“(1) ensure that Federal Government employees have the expertise to determine agency requirements for such services;
+
+&emsp;“(2) establish priorities and programs (including acquisition plans);
+
+&emsp;“(3) establish professional standards;
+
+&emsp;“(4) develop scopes of work; and
+
+&emsp;“(5) award and administer contracts for such services.”
 
 #### Section Referred to in Other Sections
 

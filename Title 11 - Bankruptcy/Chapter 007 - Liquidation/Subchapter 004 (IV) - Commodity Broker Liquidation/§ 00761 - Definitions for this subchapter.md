@@ -16,7 +16,7 @@ In this subchapter—
 
 &emsp;&emsp;(C) with respect to a leverage transaction merchant, leverage transaction;
 
-&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization; or
 
 &emsp;&emsp;(E) with respect to a commodity options dealer, commodity option;
 
@@ -36,7 +36,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such futures commission merchant arising out of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract ofa kind specified in clause (i) of this subparagraph;
+&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract of a kind specified in clause (i) of this subparagraph;
 
 &emsp;&emsp;&emsp;&emsp;(II) a deposit or payment of cash, a security, or other property with such futures commission merchant for the purpose of making or margining such a commodity contract; or
 
@@ -180,7 +180,7 @@ Paragraph (15) \[enacted as (17)\] defines “net equity” to include the value
 
 #### References in Text
 
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat.998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
 

@@ -66,7 +66,7 @@ Project selection.—In selecting projects to be conducted under this subsection
 
 Applicability of stevenson-wydler technology innovation act.—The research, development, or utilization of any technology pursuant to an agreement under the provisions of this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18,1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325.)
 
 #### References in Text
 
@@ -138,7 +138,7 @@ Terms of Agreement.—The agreement under subsection (a) shall provide that—
 
 &emsp;“(1) the Transportation Research Board, in conducting the study, shall consider—
 
-&emsp;&emsp;“(A) in consultation with the National Transportation Safety Board, the Bureau of Transportation Statistics, and other relevant entities, available crash injury data;
+&emsp;&emsp;“(A) in consultation with the National Transportation Safety Board, the Bureau of TransportationStatistics, and other relevant entities, available crash injury data;
 
 &emsp;&emsp;“(B) vehicle design and driver training requirements, routing, and operational factors that affect safety; and
 
@@ -306,7 +306,7 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9,1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 

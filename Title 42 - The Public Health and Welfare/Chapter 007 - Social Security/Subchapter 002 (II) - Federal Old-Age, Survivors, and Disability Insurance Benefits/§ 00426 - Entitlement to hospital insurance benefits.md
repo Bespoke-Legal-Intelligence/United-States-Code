@@ -38,7 +38,7 @@ Every individual who—
 
 For purposes of subsection (a) of this section—
 
-&emsp;(1) entitlement of an individual to hospital insurance benefits for a month shall consist of entitlement to have payment made under, and subject to the limitations in, part A of subchapter XVIII of this chapter on his behalf for inpatient hospital services, post-hospital extended care services, and home health services (as such terms are defined in part D of subchapter XVIII of this chapter) furnished him in the United States (or outside the United States in the case of inpatient hospital services furnished under the conditions described in section 1395f(f) of this title) during such month; except that (A) no such payment may be made for post-hospital extended care services furnished before January 1967, and (B) no such payment may be made for post-hospital extended care services unless the discharge from the hospital required to qualify such services for payment under part A of subchapter XVIII of this chapter occurred (i) after June 30, 1966, or on or after the first day of the month in which he attains age 65, whichever is later, or (ii) if he was entitled to hospital insurance benefits pursuant to subsection (b) of this section, at a time when he was so entitled; and
+&emsp;(1) entitlement of an individual to hospital insurance benefits for a month shall consist of entitlement to have payment made under, and subject to the limitations in, part A of subchapter XVIII of this chapter on his behalf for inpatient hospital services, post-hospital extended care services, and home health services (as such terms are defined in part E of subchapter XVIII of this chapter) furnished him in the United States (or outside the United States in the case of inpatient hospital services furnished under the conditions described in section 1395f(f) of this title) during such month; except that (A) no such payment may be made for post-hospital extended care services furnished before January 1967, and (B) no such payment may be made for post-hospital extended care services unless the discharge from the hospital required to qualify such services for payment under part A of subchapter XVIII of this chapter occurred (i) after June 30, 1966, or on or after the first day of the month in which he attains age 65, whichever is later, or (ii) if he was entitled to hospital insurance benefits pursuant to subsection (b) of this section, at a time when he was so entitled; and
 
 &emsp;(2) an individual shall be deemed entitled to monthly insurance benefits under section 402 or section 423 of this title, or to be a qualified railroad retirement beneficiary, for the month in which he died if he would have been entitled to such benefits, or would have been a qualified railroad retirement beneficiary, for such month had he died in the next month.
 
@@ -94,17 +94,19 @@ For purposes of this section, each person whose monthly insurance benefit for an
 
 For entitlement to hospital insurance benefits in the case of certain uninsured individuals, see section 426a of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §226, as added Pub. L. 89–97, title I, §101, July 30, 1965, 79 Stat. 290; amended Pub. L. 90–248, title I, §129(c)(1), Jan. 2, 1968, 81 Stat. 847; Pub. L. 92–603, title II, §§201(b), 299I, Oct. 30, 1972, 86 Stat. 1371, 1463; Pub. L. 93–58, §3, July 6, 1973, 87 Stat. 142; Pub. L. 93–233, §18(f), Dec. 31, 1973, 87 Stat. 969; Pub. L. 93–445, title III, §305, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), Dec. 20, 1977, 91 Stat. 1543, 1546; Pub. L. 95–292, §§1(b), 3, June 13, 1978, 92 Stat. 308, 315; Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(a), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(q), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XXII, §2203(e), Aug. 13, 1981, 95 Stat. 837; Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), Sept. 3, 1982, 96 Stat. 560, 561; Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), Apr. 20, 1983, 97 Stat. 93, 117; Pub. L. 98–369, div. B, title VI, §2663(a)(17), July 18, 1984, 98 Stat. 1165; Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), Dec. 22, 1987, 101 Stat. 1330–77, 1330–294, renumbered Pub. L. 100–360, title IV, §411(e)(2), July 1, 1988, 102 Stat. 775; Pub. L. 100–360, title IV, §411(n)(1), July 1, 1988, 102 Stat. 807; Pub. L. 100–485, title VI, §608(f)(5), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–508, title V, §5103(c)(2)(C), Nov. 5, 1990, 104 Stat. 1388–252; Pub. L. 103–296, title II, §201(a)(3)(D)(i), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 106–170, title II, §202(a), Dec. 17, 1999, 113 Stat. 1894; Pub. L. 106–554, §1(a)(6) \[title I, §115(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474.)
+(Aug. 14, 1935, ch. 531, title II, §226, as added Pub. L. 89–97, title I, §101, July 30, 1965, 79 Stat. 290; amended Pub. L. 90–248, title I, §129(c)(1), Jan. 2, 1968, 81 Stat. 847; Pub. L. 92–603, title II, §§201(b), 299I, Oct. 30, 1972, 86 Stat. 1371, 1463; Pub. L. 93–58, §3, July 6, 1973, 87 Stat. 142; Pub. L. 93–233, §18(f), Dec. 31, 1973, 87 Stat. 969; Pub. L. 93–445, title III, §305, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 95–216, title III, §§332(a)(3), 334(d)(4)(B), Dec. 20, 1977, 91 Stat. 1543, 1546; Pub. L. 95–292, §§1(b), 3, June 13, 1978, 92 Stat. 308, 315; Pub. L. 96–265, title I, §§103(a)(1), (b), 104(a), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(a), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(q), Dec. 5, 1980, 94 Stat. 2633; Pub. L. 97–35, title XXII, §2203(e), Aug. 13, 1981, 95 Stat. 837; Pub. L. 97–248, title II, §278(b)(2)(A), (B), (4), Sept. 3, 1982, 96 Stat. 560, 561; Pub. L. 98–21, title I, §131(a)(3)(H), (b)(3)(G), title III, §309(q)(1), Apr. 20, 1983, 97 Stat. 93, 117; Pub. L. 98–369, div. B, title VI, §2663(a)(17), July 18, 1984, 98 Stat. 1165; Pub. L. 99–272, title XIII, §13205(b)(2)(A), (C)(ii), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–203, title IV, §4033(a), formerly §4033(a)(1), title IX, §9010(e)(3), Dec. 22, 1987, 101 Stat. 1330–77, 1330–294, renumbered Pub. L. 100–360, title IV, §411(e)(2), July 1, 1988, 102 Stat. 775; Pub. L. 100–360, title IV, §411(n)(1), July 1, 1988, 102 Stat. 807; Pub. L. 100–485, title VI, §608(f)(5), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–508, title V, §5103(c)(2)(C), Nov. 5, 1990, 104 Stat. 1388–252; Pub. L. 103–296, title II, §201(a)(3)(D)(i), Aug. 15, 1994, 108 Stat. 1497; Pub. L. 105–33, title IV, §4002(f)(1), Aug. 5, 1997, 111 Stat. 329; Pub. L. 106–170, title II, §202(a), Dec. 17, 1999, 113 Stat. 1894; Pub. L. 106–554, §1(a)(6) \[title I, §115(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 108–173, title I, §101(e)(1), Dec. 8, 2003, 117 Stat. 2150.)
 
 #### References in Text
 
-Parts A and D of subchapter XVIII of this chapter, referred to in text, are classified to section 1395c et seq. and 1395x et seq., respectively, of this title.
+Parts A and E of subchapter XVIII of this chapter, referred to in text, are classified to section 1395c et seq. and 1395x et seq., respectively, of this title.
 
 Section 212 of Public Law 93–66, referred to in subsec. (e)(1)(B), is section 212 of Pub. L. 93–66 which is set out as a note under section 1382 of this title.
 
 Section 425(c) of this title, referred to in subsec. (i), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
 
 #### Amendments
+
+2003—Subsec. (c)(1). Pub. L. 108–173 substituted “part E” for “part D”.
 
 2000—Subsecs. (h), (j). Pub. L. 106–554 added subsec. (h) and redesignated former subsec. (h) as (j) and transferred such subsec. to appear at end of section.
 
@@ -118,7 +120,7 @@ Section 425(c) of this title, referred to in subsec. (i), was repealed by Pub. L
 
 1988—Subsec. (a). Pub. L. 100–485 substituted “condition specified in paragraph (2)” for “condition specified in paragraph (1)” in concluding provisions.
 
-Subsec. (b). Pub. L. 100–360, §411(n)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In determining when an individual's entitlement or status terminates for purposes of the preceding sentence, the second sentence of section423(a) of this title shall be applied as though the term ‘36 months’ (in such second sentence) read ‘15 months’.”
+Subsec. (b). Pub. L. 100–360, §411(n)(1), amended last sentence generally. Prior to amendment, last sentenceread as follows: “In determining when an individual's entitlement or status terminates for purposes of the preceding sentence, the second sentence of section 423(a) of this title shall be applied as though the term ‘36 months’ (in such second sentence) read ‘15 months’.”
 
 1987—Subsec. (b). Pub. L. 100–203, §9010(e)(3), inserted sentence at end which related to determining when an individual's entitlement or status terminates for purposes of preceding sentence.
 
@@ -170,7 +172,7 @@ Subsec. (h)(4). Pub. L. 95–216, §332(a)(3), added par. (4).
 
 1974—Subsec. (b)(2). Pub. L. 93–445, §305(a), substituted “section 7(d) of the Railroad Retirement Act of 1974” for “section 22 of the Railroad Retirement Act of 1937”.
 
-Subsec. (d). Pub. L. 93–445, §305(b), substituted “section 7(d) of the Railroad Retirement Act of 1974” for section 21 or 22 of the Railroad Retirement Act of 1937”, in two places.
+Subsec. (d). Pub. L. 93–445, §305(b), substituted “section 7(d) of the Railroad Retirement Act of 1974” for “section 21 or 22 of the Railroad Retirement Act of 1937”, in two places.
 
 Subsec. (e). Pub. L. 93–445, §305(c), substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing.
 
@@ -180,7 +182,7 @@ Subsec. (a)(1), (2). Pub. L. 93–233, §18(f)(1)(B), redesignated cls. (A) and 
 
 Subsec. (e)(2). Pub. L. 93–58, inserted in: item (2)(A) “or would be fully or currently insured if his service as an employee (as defined in the Railroad Retirement Act of 1937) after December 31, 1936, were included in the term ‘employment’ as defined in this chapter” after “(as such terms are defined in section 414 of this title)”; item (2)(B) “or an annuity under the Railroad Retirement Act of 1937” after “this subchapter”; item (2)(C) “Or would be fully or currently insured if his service as an employee (as defined in the Railroad Retirement Act of 1937) after December 31, 1936, were included in the term ‘employment’ as defined in this chapter” after “fully or currently insured”; and item (2)(D) “or annuity under the Railroad Retirement Act of 1937” after “this subchapter”.
 
-Subsec. (h). Pub. L. 93–233, §18(f)(1)(C), (2)–(4), redesignated as subsec. (h) provisions originally enacted as subsec. (e) by section 201(b)(5) of Pub. L. 92–603 and redesignated as subsec. (f) by section 299I of Pub. L. 92–603, and in par. (1)(A) substituted “, 402(e)(5),” for “and 402(e)(5) of this title, and the term ‘age 62’ in sections”, in par. (1)(B) substituted “and the phrase ‘before he attained age 60’ in the matter following subparagraph (G) of section 402(f)(1) of this title shall each” for “shall”, and in pars. (2) and (3) substituted “(b)” for “(a)(2)”, respectively.
+Subsec. (h). Pub. L. 93–233, §18(f)(1)(C), (2)–(4), redesignated as subsec. (h) provisions originally enacted as subsec. (e) by section 201(b)(5) of Pub. L. 92–603 and redesignated as subsec. (f) by section 299I of Pub. L. 92–603, and in par. (1)(A) substituted “, 402(e)(5),” for“and 402(e)(5) of this title, and the term ‘age 62’ in sections”, in par. (1)(B) substituted “and the phrase ‘before he attained age 60’ in the matter following subparagraph (G) of section 402(f)(1) of this title shall each” for “shall”, and in pars. (2) and (3) substituted “(b)” for “(a)(2)”, respectively.
 
 Subsec. (i). Pub. L. 93–233, §18(f)(1)(C), redesignated as subsec. (i) provisions originally enacted as subsec. (d) by section 101 of Pub. L. 89–97 and redesignated as subsec. (f) by section 201(b)(5) of Pub. L. 92–603.
 
@@ -326,7 +328,7 @@ Section 299I of Pub. L. 92–603 provided that the amendment made by that sectio
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–248 applicable with respect to services furnished after March 31, 1968, see section 129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
+Amendment by Pub. L. 90–248 applicable with respect to services furnished after March 31, 1968, see section129(d) of Pub. L. 90–248, set out as a note under section 1395d of this title.
 
 #### Applicability of Pub. L. 96–473 to Applications for Hospital Insurance Benefits
 
@@ -362,7 +364,7 @@ Section 4(b) of Pub. L. 93–58 provided that: “Any child (1) whose entitlemen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401, 410, 418, 426–1, 426a, 433, 434, 1320b–1, 1395c, 1395f, 1395h, 1395i–1, 1395i–2, 1395i–2a, 1395p, 1395u, 1395y, 1395ff, 1395ss of this title; title 10 section 1086; title 45 sections 231f, 231r.
+This section is referred to in sections 401, 410, 418, 426–1, 426a, 433, 434, 1320b–1, 1395c, 1395f, 1395i–1, 1395i–2, 1395i–2a, 1395p, 1395u, 1395w–113, 1395y, 1395ff, 1395ss of this title; title 10 section 1086; title 45 sections 231f, 231r.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter III of chapter 83”.</i>
 

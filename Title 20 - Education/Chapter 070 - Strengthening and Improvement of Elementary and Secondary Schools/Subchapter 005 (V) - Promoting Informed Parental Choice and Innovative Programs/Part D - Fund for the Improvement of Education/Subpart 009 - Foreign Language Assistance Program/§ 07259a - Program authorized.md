@@ -38,7 +38,7 @@
 
 #### (d) Special rule
 
-Not less than 3/4 of the funds made available under section 7241 of this title to carry out this subpart shall be used for the expansion of foreign language learning in the elementary grades.
+Not less than 3/4 of the funds made available under section 7241 of this title to carry out thissubpart shall be used for the expansion of foreign language learning in the elementary grades.
 
 #### (e) Reservation
 

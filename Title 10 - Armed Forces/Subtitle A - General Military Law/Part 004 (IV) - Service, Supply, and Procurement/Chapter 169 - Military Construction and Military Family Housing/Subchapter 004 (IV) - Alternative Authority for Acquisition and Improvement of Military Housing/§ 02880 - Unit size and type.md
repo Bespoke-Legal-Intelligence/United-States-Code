@@ -8,7 +8,11 @@ Conformity With Similar Housing Units in Locale.—The Secretary concerned shall
 
 Inapplicability of Limitations on Space by Pay Grade.—(1) Section 2826 of this title shall not apply to military family housing units acquired or constructed under this subchapter.
 
-(2) The regulations prescribed under section 2856 of this title shall not apply to any military unaccompanied housing unit acquired or constructed under this subchapter unless the unit is located on a military installation.
+(2) The regulations prescribed under section 2856 of this title shall not apply to any military unaccompanied housing unit acquired or constructed under this subchapter.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 108–136, div. B, title XXVIII, §2806, Nov. 24, 2003, 117 Stat. 1722.)
+
+#### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–136 struck out “unless the unit is located on a military installation” before period at end.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Provision by Administrator.—(1) During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator of the United States Fire Administration of the Federal Emergency Management Agency—
+Provision by Administrator.—(1) The Administrator of the United States Fire Administration of the Federal Emergency Management Agency—
 
 &emsp;(A) may provide personnel, facilities, and other administrative services to the corporation; and
 
@@ -16,7 +16,7 @@ Provision by Administrator.—(1) During the 10-year period beginning on the dat
 
 Acceptance by Administrator.—The Administrator may accept, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations, the services of the corporation and its directors, officers, and employees as volunteers in performing functions authorized under this chapter, without compensation from the Administration.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401; Pub. L. 106–503, title I, §113(d), Nov. 13, 2000, 114 Stat. 2304.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1401; Pub. L. 106–503, title I, §113(d), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, §206(c), Dec. 6, 2003, 117 Stat. 2041.)
 
 #### Amendment Subsequent to August 15, 1997
 
@@ -46,11 +46,9 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§205, 206, 106 Stat. 3419.
 
 In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the Federal civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
 
-#### References in Text
-
-The date of the enactment of the Fire Administration Authorization Act of 2000, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 106–503, which was approved Nov. 13, 2000.
-
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–169 substituted “The” for “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the”.
 
 2000—Subsec. (a)(1). Pub. L. 106–503, §113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
 

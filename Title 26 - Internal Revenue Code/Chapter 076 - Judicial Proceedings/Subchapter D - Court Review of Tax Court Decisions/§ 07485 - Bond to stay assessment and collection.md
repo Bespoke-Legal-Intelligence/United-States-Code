@@ -32,7 +32,7 @@ The income and estate tax laws, referred to in subsec. (a)(2), are classified ge
 
 Pub. L. 105–34, §1222(b)(4)(A), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
 
-Pub. L. 105–34, §1241(a), inserted “penalties,” after “any interest,” and substituted “aggregate liability of the parties to the action” for “aggregate of such deficiencies”.
+Pub. L. 105–34, §1241(a), inserted “penalties,” after “any interest,” and substituted “aggregate liability ofthe parties to the action” for “aggregate of such deficiencies”.
 
 1982—Subsecs. (b), (c). Pub. L. 97–248 added subsec. (b) and redesignated former subsec. (b) as (c).
 

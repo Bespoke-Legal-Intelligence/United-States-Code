@@ -1,6 +1,6 @@
 ### §210. Pay of senior enlisted members during terminal leave and while hospitalized
 
-(a) A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force, is placed on terminal leave pending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
+(a) A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force, is placed on terminal leavepending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 
 (b) A noncommissioned officer of an armed force who is hospitalized and who, during or immediately before such hospitalization, completed service as the senior enlisted member of that armed force, shall continue to be entitled, for not more than 180 days while so hospitalized, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 
@@ -26,5 +26,5 @@ Subsecs. (b), (c). Pub. L. 104–201, §603(a), added subsec. (b) and redesignat
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

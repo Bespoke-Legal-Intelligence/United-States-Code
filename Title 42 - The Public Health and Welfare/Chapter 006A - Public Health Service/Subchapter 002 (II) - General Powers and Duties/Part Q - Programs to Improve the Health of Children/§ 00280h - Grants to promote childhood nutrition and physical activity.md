@@ -22,7 +22,7 @@ A State or political subdivision of a State shall use amount received under a gr
 
 &emsp;(2) expand opportunities for physical activity programs in school- and community-based settings; and
 
-&emsp;(3) develop, implement, and evaluate programs that promote good eating habits and physical activity including opportunities forchildren with cognitive and physical disabilities.
+&emsp;(3) develop, implement, and evaluate programs that promote good eating habits and physical activity including opportunities for children with cognitive and physical disabilities.
 
 #### (d) Technical assistance
 

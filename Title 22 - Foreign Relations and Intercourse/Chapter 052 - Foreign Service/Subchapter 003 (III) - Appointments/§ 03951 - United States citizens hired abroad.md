@@ -10,7 +10,7 @@ The fact that an applicant for employment in a position referred to in subsectio
 
 #### (c) Compensation of family and non-family member employees
 
-(1) Non-family members employed under this section for service at their post of residence shall be paid in accordance with local compensation plans established under section 3968 of this title.
+(1) Non-family members employed under this section for service at their post of residenceshall be paid in accordance with local compensation plans established under section 3968 of this title.
 
 (2) Family members employed under this section shall be paid in accordance with the Foreign Service Schedule or the salary rates established under section 3967 of this title.
 
@@ -18,7 +18,7 @@ The fact that an applicant for employment in a position referred to in subsectio
 
 #### (d) Non-family member employees ineligible for certain benefits
 
-Nonfamily member United States citizens employed under this section shall not be eligible byreason of such employment for benefits under subchapter VIII of this chapter, or under chapters <sup>1</sup> 83 or 84 of title 5.
+Nonfamily member United States citizens employed under this section shall not be eligible by reason of such employment for benefits under subchapter VIII of this chapter, or under chapters <sup>1</sup> 83 or 84 of title 5.
 
 (Pub. L. 96–465, title I, §311, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 103–236, title I, §180(a)(2), Apr. 30, 1994, 108 Stat. 415; Pub. L. 103–415, §1(h)(1), Oct. 25, 1994, 108 Stat. 4300.)
 

@@ -21,6 +21,14 @@
 
 1969—Pub. L. 91–172, title I, §101(j)(64), Dec. 30, 1969, 82 Stat. 533, added item relating to subpart D.
 
+#### Information Returns in Electronic Format
+
+Pub. L. 108–7, div. H, title II, §211, Feb. 20, 2003, 117 Stat. 384, provided that:
+
+“(a) Each office in the legislative branch, except the House and the Senate, which is responsible for preparing any written statement furnished under part 3 of subchapter A of chapter 61 of the Internal Revenue Code of 1986 on behalf of a person shall make the statement available to the person in an electronic format (at the direction of the person) which will enable the person to provide the statement electronically to a tax preparer or other provider of financial services.
+
+“(b) Subsection (a) shall apply with respect to statements prepared for taxable years ending on or after December 31, 2004.”
+
 #### Part Referred to in Other Sections
 
 This part is referred to in sections 274, 6103, 6531 of this title; title 42 section 432.

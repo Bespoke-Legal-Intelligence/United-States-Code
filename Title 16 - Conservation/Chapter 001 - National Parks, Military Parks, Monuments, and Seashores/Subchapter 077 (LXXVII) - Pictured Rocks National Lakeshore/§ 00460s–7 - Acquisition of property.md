@@ -18,7 +18,7 @@ The Secretary shall make every reasonable effort to acquire property through neg
 
 #### (e) Condemnation to acquire clear, marketable and encumbrance-free title
 
-Nothing in this subchapter shall be construed to prohibit the use of condemnation as a meansof acquiring a clear and marketable title, free of any and all encumbrances.
+Nothing in this subchapter shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances.
 
 #### (f) Exchange of properties; cash equalization payments
 

@@ -44,7 +44,7 @@ Subsection (c) is closer to the concept of certificates of indebtedness in curre
 
 Subsection (d) grants the court the authority to authorize the obtaining of credit and the incurring of debt with a superiority, that is a lien on encumbered property that is senior or equal to the existing lien on the property. The court may authorize such a superpriority only if the trustee is otherwise unable to obtain credit, and if there is adequate protection of the original lien holder's interest. Again, the trustee has the burden of proof on the issue of adequate protection.
 
-Subsection (e) provides the same protection for credit extenders pending an appeal of an authorization to incur debt as is provided under section 363(<i>l</i>) for purchasers: the credit is not affected on appeal by reversal of the authorization and the incurring of the debt were stayed pending appeal. The protection runs to a goodfaith lender, whether or not he knew of the pendency of the appeal.
+Subsection (e) provides the same protection for credit extenders pending an appeal of an authorization to incur debt as is provided under section 363(<i>l</i>) for purchasers: the credit is not affected on appeal by reversal of the authorization and the incurring of the debt were stayed pending appeal. The protection runs to a good faith lender, whether or not he knew of the pendency of the appeal.
 
 A claim arising as a result of lending or borrowing under this section will be a priority claim, as defined in proposed section 507(a)(1), even if the claim is granted a super-priority over administrative expenses and is to be paid in advance of other first priority claims.
 

@@ -78,7 +78,7 @@ Government's Share of Costs.—A grant under this section is for 80 percent of t
 
 (f)
 
-Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinatethe assistance using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
 (g)
 
@@ -232,7 +232,7 @@ The Emergency Planning and Community Right-To-Know Act of 1986, referred to in s
 
 Subsec. (j)(4)(A). Pub. L. 104–287, §5(8), substituted “section 5115 of this title” for “subsection (g)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, andbetween lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
+1994—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
 
 Subsec. (a)(2). Pub. L. 103–311, §105(b)(2), as amended by Pub. L. 104–287, §6(b), struck out “the State” after “only if” in introductory provisions.
 

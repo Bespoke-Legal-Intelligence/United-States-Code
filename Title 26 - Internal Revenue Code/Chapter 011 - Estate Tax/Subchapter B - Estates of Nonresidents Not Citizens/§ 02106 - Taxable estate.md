@@ -2,7 +2,7 @@
 
 #### (a) Definition of taxable estate
 
-For purposes of the tax imposed by section 2101, the value of the taxable estate of every decedent nonresident not a citizen of the UnitedStates shall be determined by deducting from the value of that part of his gross estate which at the time of his death is situated in the United States—
+For purposes of the tax imposed by section 2101, the value of the taxable estate of every decedent nonresident not a citizen of the United States shall be determined by deducting from the value of that part of his gross estate which at the time of his death is situated in the United States—
 
 #### (1) Expenses, losses, indebtedness, and taxes
 
@@ -52,7 +52,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X,§10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75.)
 
 #### Amendment of Subsection (a)
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section 5033(d)(1) of Pub. L. 100–647, set out as a note under section 2056 of this title.
+Amendment by Pub. L. 100–647 applicable to estates of decedents dying after Nov. 10, 1988, see section5033(d)(1) of Pub. L. 100–647, set out as a note under section 2056 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -132,7 +132,7 @@ Amendment by section 2001(c)(1)(F) of Pub. L. 94–455 applicable to estates of 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31,1969, with specified exceptions, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(d)(2) of Pub. L. 91–172 applicable in the case of decedents dying after Dec. 31, 1969, with specified exceptions, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 201(d)(4)(B) of Pub. L. 91–172 applicable to gifts and transfers made after Dec. 31, 1969, see section 201(g)(4) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
@@ -150,5 +150,5 @@ For provisions directing that in the case of the estate of, or gift by, an indiv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 303, 508, 2011, 2012, 2013, 2032, 2053, 2101, 2107, 2108, 2701, 4947, 4948, 7871 of this title; title 22 section 3307.
+This section is referred to in sections 170, 303, 501, 508, 2011, 2012, 2013, 2032, 2053, 2101, 2107, 2108, 2701, 4947, 4948, 7871 of this title; title 22 section 3307.
 

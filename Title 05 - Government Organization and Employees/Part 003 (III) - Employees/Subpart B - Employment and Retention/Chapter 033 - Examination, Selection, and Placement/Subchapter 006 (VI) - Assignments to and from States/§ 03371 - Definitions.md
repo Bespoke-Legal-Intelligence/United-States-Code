@@ -62,6 +62,44 @@ Section 404 of title IV of Pub. L. 91–648 provided that: “This title \[enact
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Employee Exchange Program Between Federal Employees and Employees of State and Local Governments
+
+Pub. L. 108–196, §3, Dec. 19, 2003, 117 Stat. 2896, provided that:
+
+“(a)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘employing agency’ means the Federal, State, or local government agency with which the participating employee was employed before an assignment under the Program;
+
+&emsp;“(2) the term ‘participating employee’ means an employee who is participating in the Program; and
+
+&emsp;“(3) the term ‘Program’ means the employee exchange program established under subsection (b).
+
+“(b)
+
+Establishment.—The President shall establish an employee exchange program between Federal agencies that perform law enforcement functions and agencies of State and local governments that perform law enforcement functions.
+
+“(c)
+
+Conduct of Program.—The Program shall be conducted in accordance with subchapter VI of chapter 33 of title 5, United States Code.
+
+“(d)
+
+Qualifications.—An employee of an employing agency who performs law enforcement functions may be selected to participate in the Program if the employee—
+
+&emsp;“(1) has been employed by that employing agency for a period of more than 3 years;
+
+&emsp;“(2) has had appropriate training or experience to perform the work required by the assignment;
+
+&emsp;“(3) has had an overall rating of satisfactory or higher on performance appraisals from the employing agency during the 3-year period before being assigned to another agency under this section; and
+
+&emsp;“(4) agrees to return to the employing agency after completing the assignment for a period not less than the length of the assignment.
+
+“(e)
+
+Written Agreement.—An employee shall enter into a written agreement regarding the terms and conditions of the assignment before beginning the assignment with another agency.”
+
 #### Declaration of Purpose
 
 Section 401 of title IV of Pub. L. 91–648, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: “The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations.”

@@ -32,7 +32,7 @@
 
 (2) Premium pay paid under paragraph (1) of this subsection shall be paid at the rate of 10 per centum of the applicable hourly rate of basic pay times the number of hours and portion of an hour during which the air traffic controller of the Federal Aviation Administration or the Department of Defense provides on-the-job training.
 
-(e)(1) The Administrator or the Secretary may pay premium pay to any air traffic controller or flight service station specialist of the Federal Aviation Administration or the Department of Defense who, while working a regularly scheduled eight-hour period of service, is required byhis supervisor to work during the fourth through sixth hour of such period without a break of thirty minutes for a meal.
+(e)(1) The Administrator or the Secretary may pay premium pay to any air traffic controller or flight service station specialist of the Federal Aviation Administration or the Department of Defense who, while working a regularly scheduled eight-hour period of service, is required by his supervisor to work during the fourth through sixth hour of such period without a break of thirty minutes for a meal.
 
 (2) Premium pay paid under paragraph (1) of this subsection shall be paid at the rate of 50 per centum of one-half of the applicable hourly rate of basic pay.
 

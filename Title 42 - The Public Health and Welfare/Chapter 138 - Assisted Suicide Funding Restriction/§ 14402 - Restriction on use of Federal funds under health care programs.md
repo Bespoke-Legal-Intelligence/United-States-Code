@@ -106,7 +106,7 @@ Subject to subsection (b) of this section, with respect to health care items and
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XVIII, XIX, and XX of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles V, XVIII, XIX, and XX of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (d)(1)(E), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

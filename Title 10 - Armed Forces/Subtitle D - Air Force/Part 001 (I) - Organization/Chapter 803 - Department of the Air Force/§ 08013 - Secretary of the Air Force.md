@@ -38,7 +38,7 @@
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Air Force;
 
-&emsp;(4) carrying out the functions of the Department of the Air Force so as to fulfill (to the maximum extent practicable) the current and future operational requirements of the unified and specified combatant commands;
+&emsp;(4) carrying out the functions of the Department of the Air Force so as to fulfill the current and future operational requirements of the unified and specified combatant commands;
 
 &emsp;(5) effective cooperation and coordination between the Department of the Air Force and the other military departments and agencies of the Department of Defense to provide for more effective, efficient, and economical administration and to eliminate duplication;
 
@@ -60,7 +60,7 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1055; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1055; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558.)
 
 #### Prior Provisions
 
@@ -69,6 +69,8 @@ A prior section 8013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 488, §8012; Sept.
 Another prior section 8013 was renumbered section 8014 of this title and subsequently repealed.
 
 #### Amendments
+
+2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 

@@ -23,7 +23,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 2173 of this title.
+This subchapter is referred to in title 26 section 117.
 
 
 ---

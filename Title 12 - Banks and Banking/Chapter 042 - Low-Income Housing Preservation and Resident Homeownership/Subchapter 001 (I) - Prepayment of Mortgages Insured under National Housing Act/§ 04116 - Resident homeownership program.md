@@ -62,7 +62,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (B) 6 years or less
 
-&emsp;&emsp;In the case of a transfer within 6 years of the acquisition under the program, the homeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. The plan shall provide for limiting the family's consideration for its interest in the property to the total of—
+&emsp;&emsp;In the case of a transfer within 6 years of the acquisition under the program, thehomeownership program shall provide for appropriate restrictions to assure that an eligible family may not receive any undue profit. The plan shall provide for limiting the family's consideration for its interest in the property to the total of—
 
 &emsp;&emsp;&emsp;(i) the contribution to equity paid by the family;
 
@@ -74,7 +74,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (C) 6–20 years
 
-&emsp;&emsp;In the case of a transfer during the period beginning 6 years after the acquisition andending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in subparagraph (A)(iii).
+&emsp;&emsp;In the case of a transfer during the period beginning 6 years after the acquisition and ending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in subparagraph (A)(iii).
 
 #### (D) Use of recaptured funds
 

@@ -14,7 +14,7 @@
 
 The Secretary, in carrying out this subchapter—
 
-&emsp;(1) may acquire, without regard to section 8141 of title 40, by lease or otherwise throughthe Administrator of General Services, buildings or portions of buildings in the District of Columbia or communities located adjacent to the District of Columbia for use for a period not to exceed 10 years; and
+&emsp;(1) may acquire, without regard to section 8141 of title 40, by lease or otherwise through the Administrator of General Services, buildings or portions of buildings in the District of Columbia or communities located adjacent to the District of Columbia for use for a period not to exceed 10 years; and
 
 &emsp;(2) may acquire, construct, improve, repair, operate, and maintain laboratory, research, and other necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary.
 
@@ -26,7 +26,7 @@ The Director, in carrying out this subchapter, may make grants to public and non
 
 #### (1) Department of Health and Human Services
 
-&emsp;The Director, in carrying out this subchapter, may utilize personnel and equipment, facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, and provide technical assistance and advice.
+&emsp;The Director, in carrying out this subchapter, may utilize personnel and equipment,facilities, and other physical resources of the Department of Health and Human Services, permit appropriate (as determined by the Secretary) entities and individuals to utilize the physical resources of such Department, and provide technical assistance and advice.
 
 #### (2) Other agencies
 

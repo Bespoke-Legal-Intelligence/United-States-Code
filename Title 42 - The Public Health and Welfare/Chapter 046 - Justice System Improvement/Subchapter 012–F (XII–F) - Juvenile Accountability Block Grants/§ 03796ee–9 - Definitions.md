@@ -6,7 +6,7 @@ In this subchapter:
 
 &emsp;The term “unit of local government” means—
 
-&emsp;&emsp;(A) a county, township, city, or political subdivision of a county, township, or city,that is a unit of local government as determined by the Secretary of Commerce for general statistical purposes;
+&emsp;&emsp;(A) a county, township, city, or political subdivision of a county, township, or city, that is a unit of local government as determined by the Secretary of Commerce for general statistical purposes;
 
 &emsp;&emsp;(B) any law enforcement district or judicial enforcement district that—
 
@@ -24,7 +24,7 @@ In this subchapter:
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands, except that—
 
-&emsp;&emsp;(A) the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands (the “partial States”) shall collectively be considered as 1 State; and
+&emsp;&emsp;(A) the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands\(the “partial States”) shall collectively be considered as 1 State; and
 
 &emsp;&emsp;(B) for purposes of section 3796ee–3(a) of this title, the amount allocated to a partial State shall bear the same proportion to the amount collectively allocated to the partial States as the population of the partial State bears to the collective population of the partial States.
 

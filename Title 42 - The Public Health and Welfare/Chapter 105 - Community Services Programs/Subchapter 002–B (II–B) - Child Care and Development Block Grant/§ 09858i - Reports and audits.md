@@ -60,7 +60,7 @@
 
 #### (ii) Sampling and other methods
 
-&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures forverifying the quality of data submitted by the States.
+&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
 
 #### (2) Annual reports
 

@@ -32,7 +32,7 @@ Accelerated Speeds.—If a rail carrier refuses to allow accelerated speeds on t
 
 (e)
 
-Additional Trains.—(1) When a rail carrier does not agree to provide, or allow Amtrak to provide, for the operation of additional trains over a rail line of the carrier, Amtrak may apply to the Secretary for an order requiring the carrier to provide or allow for the operation of the requested trains. After a hearing on the record, the Secretary may order the carrier, within 60 days, to provide or allow for the operation of the requested trains on a schedule based on legally permissible operating times. However,if the Secretary decides not to hold a hearing, the Secretary, not later than 30 days after receiving the application, shall publish in the Federal Register the reasons for the decision not to hold the hearing.
+Additional Trains.—(1) When a rail carrier does not agree to provide, or allow Amtrak to provide, for the operation of additional trains over a rail line of the carrier, Amtrak may apply to the Secretary for an order requiring the carrier to provide or allow for the operation of the requested trains. After a hearing on the record, the Secretary may order the carrier, within 60 days, to provide or allow for the operation of the requested trains on a schedule based on legally permissible operating times. However, if the Secretary decides not to hold a hearing, the Secretary, not later than 30 days after receiving the application, shall publish in the Federal Register the reasons for the decision not to hold the hearing.
 
 (2) The Secretary shall consider—
 

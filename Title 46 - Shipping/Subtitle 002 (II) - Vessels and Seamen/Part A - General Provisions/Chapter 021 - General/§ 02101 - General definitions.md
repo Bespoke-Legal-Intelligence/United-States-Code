@@ -254,7 +254,7 @@ In this subtitle—
 
 &emsp;(45) “vessel” has the same meaning given that term in section 3 of title 1.
 
-&emsp;(46) “vessel of the United States” means a vessel documented or numbered under the laws of the United States or titled under the law of a State.
+&emsp;(46) “vessel of the United States” means a vessel documented or numbered under thelaws of the United States or titled under the law of a State.
 
 &emsp;(47) “vessel of war” means a vessel—
 
@@ -607,7 +607,7 @@ Applicability Date for Certain Chartered Vessels.—Revised regulations governin
 
 “(b)
 
-Extension of Period.—The Secretary of the department in which the Coast Guard is operating shall extend for up to 30 additional months or until issuanceof a certificate of inspection, whichever occurs first, the period of inapplicability specified in subsection (a) if the owner of the vessel concerned carries out the provisions of subsection (c) to the satisfaction of the Secretary.
+Extension of Period.—The Secretary of the department in which the Coast Guard is operating shall extend for up to 30 additional months or until issuance of a certificate of inspection, whichever occurs first, the period of inapplicability specified in subsection (a) if the owner of the vessel concerned carries out the provisions of subsection (c) to the satisfaction of the Secretary.
 
 “(c)
 
@@ -655,7 +655,7 @@ Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2102, 2113, 3202, 4105 of this title; sections 121, 316a, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2704, 2732; title 42 section 7511b; title 49 sections 1101, 5117.
+This section is referred to in sections 2102, 2113, 3202, 4105, 53101 of this title; sections 121, 316a, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2704, 2732; title 42 section 7511b; title 49 sections 1101, 5117.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

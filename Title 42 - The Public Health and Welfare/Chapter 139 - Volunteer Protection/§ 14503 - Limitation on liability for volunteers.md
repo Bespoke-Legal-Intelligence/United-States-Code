@@ -6,7 +6,7 @@ Except as provided in subsections (b) and (d) of this section, no volunteer of a
 
 &emsp;(1) the volunteer was acting within the scope of the volunteer's responsibilities in the nonprofit organization or governmental entity at the time of the act or omission;
 
-&emsp;(2) if appropriate or required, the volunteer was properly licensed, certified, or authorized by the appropriate authorities for the activities or practice in the State in which the harm occurred, where the activities were or practice was undertaken within the scope of the volunteer's responsibilities in the nonprofit organization or governmental entity;
+&emsp;(2) if appropriate or required, the volunteer was properly licensed, certified, or authorized by the appropriate authorities for the activities or practice in the State in which the harm occurred, where the activities were or practicewas undertaken within the scope of the volunteer's responsibilities in the nonprofit organization or governmental entity;
 
 &emsp;(3) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the volunteer; and
 

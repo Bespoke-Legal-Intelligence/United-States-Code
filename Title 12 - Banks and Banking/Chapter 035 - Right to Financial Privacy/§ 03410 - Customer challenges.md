@@ -2,7 +2,7 @@
 
 #### (a) Filing of motion to quash or application to enjoin; proper court; contents
 
-Within ten days of service or within fourteen days of mailing of a subpena, summons, or formal written request, a customer may file a motion to quash an administrative summons or judicial subpena, or an application to enjoin a Government authority from obtaining financial records pursuant to a formal written request, with copies served upon the Government authority. A motion to quash a judicial subpena shall be filed in the court which issued the subpena. A motion to quash an administrative summons or an application to enjoin a Government authority from obtaining records pursuant to a formal written request shall be filed in the appropriateUnited States district court. Such motion or application shall contain an affidavit or sworn statement—
+Within ten days of service or within fourteen days of mailing of a subpena, summons, or formal written request, a customer may file a motion to quash an administrative summons or judicial subpena, or an application to enjoin a Government authority from obtaining financial records pursuant to a formal written request, with copies served upon the Government authority. A motion to quash a judicial subpena shall be filed in the court which issued the subpena. A motion to quash an administrative summons or an application to enjoin a Government authority from obtaining records pursuant to a formal written request shall be filed in the appropriate United States district court. Such motion or application shall contain an affidavit or sworn statement—
 
 &emsp;(1) stating that the applicant is a customer of the financial institution from which financial records pertaining to him have been sought; and
 

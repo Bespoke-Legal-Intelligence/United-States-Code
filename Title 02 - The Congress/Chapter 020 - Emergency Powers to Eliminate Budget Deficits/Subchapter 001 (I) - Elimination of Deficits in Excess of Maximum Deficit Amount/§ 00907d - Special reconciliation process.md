@@ -32,7 +32,7 @@
 
 #### (6) Treatment of certain amendments
 
-&emsp;In the Senate, an amendment which adds to a resolution reported under paragraph (2) aninstruction of the type referred to in such paragraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
+&emsp;In the Senate, an amendment which adds to a resolution reported under paragraph (2) an instruction of the type referred to in such paragraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
 
 #### (7) “Day” defined
 

@@ -1,6 +1,6 @@
 ### §3361. Definition
 
-For the purposes of this subchapter, the term “eligible institution” means an institution ofhigher education (as defined in section 1001(a) of title 20) in an insular area that has demonstrable capacity to carry out teaching and extension programs in the food and agricultural sciences.
+For the purposes of this subchapter, the term “eligible institution” means an institution of higher education (as defined in section 1001(a) of title 20) in an insular area that has demonstrable capacity to carry out teaching and extension programs in the food and agricultural sciences.
 
 (Pub. L. 95–113, title XIV, §1489, as added Pub. L. 107–171, title VII, §7503, May 13, 2002, 116 Stat. 464.)
 

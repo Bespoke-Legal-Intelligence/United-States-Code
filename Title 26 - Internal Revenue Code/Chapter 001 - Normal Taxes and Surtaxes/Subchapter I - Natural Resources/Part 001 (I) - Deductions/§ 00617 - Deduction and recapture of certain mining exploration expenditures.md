@@ -18,7 +18,7 @@
 
 #### (C) Deficiencies
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to theextent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
 #### (b) Recapture on reaching producing stage
 
@@ -166,7 +166,7 @@ Subsec. (d)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary incom
 
 Subsecs. (d)(2), (e)(2), (g)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (h)(1). Pub. L. 94–455, §1901(b)(21)(C), substituted “and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)” for “and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)”.
+Subsec. (h)(1). Pub. L. 94–455, §1901(b)(21)(C), substituted “and subsection (a) of section 615 (as in effectbefore the enactment of the Tax Reform Act of 1976)” for “and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)”.
 
 Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out “and all amounts treated as deferred expenses which were paid or incurred” after “amounts deducted” in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted “374(b)(1)” for “373(b)(1)”. Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
 
@@ -208,7 +208,7 @@ Section 3 of Pub. L. 89–570 provided that: “The amendments made by this Act 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Section Referred to in Other Sections
 

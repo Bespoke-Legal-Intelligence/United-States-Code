@@ -44,7 +44,7 @@ The Capitol Guide Board may receive and consider advice and information from any
 
 #### (h) Regulations for operation of Service
 
-With the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives, the Capitol Guide Board shall prescribe such regulations as the Board considers necessary and appropriate for the operation of the Capitol Guide Service.
+With the prior approval of the Committee on Rules and Administration of the Senate and the Committee on House Oversight of the House of Representatives, the Capitol Guide Board shall prescribe such regulations as the Board considers necessary and appropriate for the operation of the Capitol Guide Service.
 
 #### (i) Disciplinary action
 
@@ -68,17 +68,13 @@ Section was classified to section 851 of former Title 40, prior to the enactment
 
 #### Amendments
 
-1996—Subsec. (c)(1), (4). Pub. L. 104–186, §221(17)(A), substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsecs. (c)(1), (4), (h). Pub. L. 104–186, §221(17)(A), substituted “House Oversight” for “House Administration”.
 
 Subsec. (j). Pub. L. 104–279 added subsec. (j).
 
 Pub. L. 104–186, §221(17)(B), struck out subsec. (j) which read as follows: “The expenses of the Capitol Guide Service shall be paid from the contingent fund of the House of Representatives, until appropriations are available for the payment of such expenses.”
 
-1977—Subsec. (c)(2). Pub. L. 95–94 inserted reference to Deputy Chief Guide.
-
-#### Change of Name
-
-Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+<b>1977</b>—Subsec. (c)(2). Pub. L. 95–94 inserted reference to Deputy Chief Guide.
 
 #### Effective Date of 1977 Amendment
 

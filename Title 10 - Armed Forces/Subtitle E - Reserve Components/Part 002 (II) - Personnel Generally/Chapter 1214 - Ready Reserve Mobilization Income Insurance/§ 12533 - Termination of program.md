@@ -12,7 +12,7 @@ Termination of New Enrollments.—The Secretary may not enroll a member of the R
 
 Termination of Coverage.—(1) The enrollment under the insurance program of insured members other than insured members described in paragraph (2) is terminated as of November 18, 1997. The enrollment of an insured member described in paragraph (2) is terminated as of the date of the termination of the period of covered service of that member described in that paragraph.
 
-(2) An insured member described in this paragraph is an insured member who on November 18, 1997, is serving on covered service for a period of service, or has been issued an order directing the performance of covered service, that satisfies or would satisfy the entitlement-to-benefits provisions of this chapter.
+(2) An insured member described in this paragraph is an insured member who on November18, 1997, is serving on covered service for a period of service, or has been issued an order directing the performance of covered service, that satisfies or would satisfy the entitlement-to-benefits provisions of this chapter.
 
 (d)
 
@@ -22,7 +22,7 @@ Termination of Payment of Benefits.—The Secretary may not make any benefit pay
 
 Termination of Insurance Fund.—The Secretary shall close the Fund not later than 60 days after the date on which the last benefit payment from the Fund is made. Any amount remaining in the Fund when closed shall be covered into the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 105–85, div. A, title V, §512(a), Nov. 18, 1997, 111 Stat. 1729; amended Pub. L.107–107, div. A, title X, §1048(c)(15), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 105–85, div. A, title V, §512(a), Nov. 18, 1997, 111 Stat. 1729; amended Pub. L. 107–107, div. A, title X, §1048(c)(15), Dec. 28, 2001, 115 Stat. 1226.)
 
 #### Amendments
 

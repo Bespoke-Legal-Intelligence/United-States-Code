@@ -6,7 +6,7 @@ If any taxable event is corrected during the correction period for such event, t
 
 #### (b) Supplemental proceeding
 
-If the determination by a court that the taxpayer is liable for a second tier tax has become final, such court shall have jurisdiction to conduct any necessary supplemental proceeding to determine whether the taxable event was corrected during the correction period. Such a supplemental proceeding may be begun only during the period which ends on the 90th day after the last day of the correction period. Where such a supplemental proceeding has begun, the reference in the second sentence of section 6213(a) to a final decision of the Tax Court shall be treated as including a final decision in such supplemental proceeding.
+If the determination by a court that the taxpayer is liable for a second tier tax has become final, such court shall have jurisdiction to conduct any necessary supplemental proceeding to determine whether the taxable event was corrected during the correction period. Such a supplemental proceeding may be begun only during the period which ends on the 90th day after thelast day of the correction period. Where such a supplemental proceeding has begun, the reference in the second sentence of section 6213(a) to a final decision of the Tax Court shall be treated as including a final decision in such supplemental proceeding.
 
 #### (c) Suspension of period of collection for second tier tax
 
@@ -16,7 +16,7 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (2) Suit must be brought to determine liability
 
-&emsp;If, within 90 days after the day on which his claim for refund is denied, the person againstwhom the second tier tax was assessed fails to begin a proceeding described in section 7422 for the determination of his liability for such tax, paragraph (1) shall cease to apply with respect to such tax, effective on the day following the close of the 90-day period referred to in this paragraph.
+&emsp;If, within 90 days after the day on which his claim for refund is denied, the person against whom the second tier tax was assessed fails to begin a proceeding described in section 7422 for the determination of his liability for such tax, paragraph (1) shall cease to apply with respect to such tax, effective on the day following the close of the 90-day period referred to in this paragraph.
 
 #### (3) Suspension of running of period of limitations on collection
 

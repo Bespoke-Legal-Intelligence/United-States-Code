@@ -8,7 +8,7 @@
 
 &emsp;(ii) fourteen days.
 
-(Pub. L. 94–59, title II, July 25, 1975, 89 Stat. 282.)
+(Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282.)
 
 #### Codification
 

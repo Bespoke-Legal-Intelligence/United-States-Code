@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) Loans or financing provided in connection with activities assisted by the Administrator of the Small Business Administration or any small business investment company and investments in small business investment companies.
 
-&emsp;&emsp;(C) Loans or financing provided in connection with any neighborhood housing service program assisted under the Neighborhood Reinvestment Corporation Act \[42 U.S.C. 8101 et seq.\].
+&emsp;&emsp;(C) Loans or financing provided in connection with any neighborhood housing serviceprogram assisted under the Neighborhood Reinvestment Corporation Act \[42 U.S.C. 8101 et seq.\].
 
 &emsp;&emsp;(D) Loans or financing provided in connection with any activities assisted under the community development block grant program under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
 
@@ -126,7 +126,7 @@
 
 #### (i) Providing information
 
-&emsp;&emsp;&emsp;At the request of any insured depository institution, the appropriate Federal banking agency shall provide to the institution appropriate information to assist the institution to identify and designate a qualified distressed community.
+&emsp;&emsp;&emsp;At the request of any insured depository institution, the appropriate Federal banking agency shall provide to the institutionappropriate information to assist the institution to identify and designate a qualified distressed community.
 
 #### (ii) Period for disapproval
 
@@ -312,7 +312,7 @@ For purposes of this section—
 
 &emsp;The term “affiliate” has the same meaning as in section 1841 of this title.
 
-(Pub. L. 102–242, title II, §233, Dec. 19, 1991, 105 Stat. 2311; Pub. L. 102–550, title IX, §931(c)–(e), title XVI, §§1604(b)(2), 1605(a)(7), Oct. 28, 1992, 106 Stat. 3888, 3889, 4083, 4086; Pub. L. 102–558, title III, §§303(b)(2), (9), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–325, title I, §114(c), Sept. 23, 1994, 108 Stat. 2181.)
+(Pub. L. 102–242, title II, §233, Dec. 19, 1991, 105 Stat. 2311; Pub. L. 102–550, title IX, §931(c)–(e), title XVI, §§1604(b)(2), 1605(a)(7), Oct. 28, 1992, 106 Stat. 3888, 3889, 4083, 4086; Pub. L. 102–558, title III, §§303(b)(2), (9), 305, Oct. 28, 1992, 106 Stat.4224, 4226; Pub. L. 103–325, title I, §114(c), Sept. 23, 1994, 108 Stat. 2181.)
 
 #### References in Text
 

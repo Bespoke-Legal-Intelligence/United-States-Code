@@ -56,7 +56,7 @@ A prior section 1069b, Pub. L. 89–329, title III, §356, as added Pub. L. 99�
 
 Another prior section 1069b, Pub. L. 89–329, title III, §346, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
+A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
 
 Another prior section 1069c, Pub. L. 89–329, title III, §347, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, and Pub. L. 98–95, §3, Sept. 26, 1983, 97 Stat. 711; Pub. L. 98–312, §1, June 12, 1984, 98 Stat. 233, authorized appropriations to carry out parts A to C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

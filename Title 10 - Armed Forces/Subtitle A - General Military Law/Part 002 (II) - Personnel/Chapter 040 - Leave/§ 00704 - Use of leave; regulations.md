@@ -38,7 +38,7 @@ Aug. 9, 1946, ch. 391, §§3(a) (5th and 6th sentences), 4(e), 60 Stat. 963; Aug
 
 Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
-In subsection (a), the 1st 18 words of the 5th sentence of section 31a(a) of existing title 37 are omitted as executed. The words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
+In subsection (a), the 1st 18 words of the 5th sentence of section 31a(a) of existing title 37 are omitted as executed. The words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 
 In subsection (b), 37:33(e) (less 1st sentence) is omitted as executed.
 
@@ -48,11 +48,11 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 #### Facilitating Granting of Leave for Attendance at Hearings Involving Parental Support Obligations
 
-Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, provided that:
+Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII, §1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315, provided that:
 
 “(1)
 
-Regulations.—The Secretary of each military department, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to facilitate the granting of leave to a member of the Armed Forces under the jurisdiction of that Secretary in a case in which—
+Regulations.—The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to facilitate the granting of leave to a member of the Armed Forces under the jurisdiction of that Secretary in a case in which—
 
 &emsp;“(A) the leave is needed for the member to attend a hearing described in paragraph (2);
 

@@ -68,7 +68,7 @@ Hold Harmless for Current Total Compensation.—Notwithstanding any other provis
 
 “(c)
 
-Conversion Not Treated as Transfer or Promotion.—The conversion of positions and individuals toappropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title III, Aug. 1, 1958, 72 Stat. 484\] (sec. 4–413, D.C. Code).
+Conversion Not Treated as Transfer or Promotion.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title III, Aug. 1, 1958, 72 Stat. 484\] (sec. 4–413, D.C. Code).
 
 “(d)
 
@@ -114,7 +114,7 @@ Limitation on Pay Period Earnings.—\[Amended act Aug. 15, 1950, ch. 715, 64 St
 
 “(d)
 
-Savings Provision.—On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
+Savings Provision.—On the effective date of this section, any existing special salary rates authorized formembers of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
 “(e)
 

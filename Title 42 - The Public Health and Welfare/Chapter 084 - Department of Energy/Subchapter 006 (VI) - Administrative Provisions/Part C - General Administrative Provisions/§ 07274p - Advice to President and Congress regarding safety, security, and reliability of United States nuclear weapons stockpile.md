@@ -4,23 +4,23 @@
 
 Congress makes the following findings:
 
-&emsp;(1) Nuclear weapons are the most destructive weapons on earth. The United States and itsallies continue to rely on nuclear weapons to deter potential adversaries from using weapons of mass destruction. The safety and reliability of the nuclear weapons stockpile are essential to ensure its credibility as a deterrent.
+&emsp;(1) Nuclear weapons are the most destructive weapons on earth. The United States and its allies continue to rely on nuclear weapons to deter potential adversaries from using weapons of mass destruction. The safety and reliability of the nuclear weapons stockpile are essential to ensure its credibility as a deterrent.
 
 &emsp;(2) On September 24, 1996, President Clinton signed the Comprehensive Test Ban Treaty.
 
-&emsp;(3) Effective as of September 30, 1996, the United States is prohibited by section 507 of the Energy and Water Development Appropriations Act, 1993 (Public Law 102–377; 42 U.S.C. 2121 note) from conducting underground nuclear tests “unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted”.
+&emsp;(3) Effective as of September 30, 1996, the United States is prohibited by section 507 of the Energy and Water Development Appropriations Act, 1993 (Public Law 102–377; 42 U.S.C. 2121 note) <sup>1</sup> from conducting underground nuclear tests “unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted”.
 
-&emsp;(4) Section 1436(b) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; 42 U.S.C. 2121 note) requires the Secretary of Energy to “establish and support a program to assure that the United States is in a position to maintain the reliability, safety, and continued deterrent effect of its stockpile of existing nuclear weapons designs in the event that a low-threshold or comprehensive test ban on nuclear explosive testing is negotiated and ratified.”.
+&emsp;(4) Section 1436(b) of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456; 42 U.S.C. 2121 note) <sup>1</sup> requires the Secretary of Energy to “establish and support a program to assure that the United States is in a position to maintain the reliability, safety, and continued deterrent effect of its stockpile of existing nuclear weapons designs in the event that a low-threshold or comprehensive test ban on nuclear explosive testing is negotiated and ratified.”.
 
 &emsp;(5) Section 3138(d) of the National Defense Authorization Act for Fiscal Year 1994 <sup>1</sup> (Public Law 103–160; 42 U.S.C. 2121 note) required the President to submit an annual report to Congress which sets forth “any concerns with respect to the safety, security, effectiveness, or reliability of existing United States nuclear weapons raised by the Stockpile Stewardship Program of the Department of Energy”.
 
 &emsp;(6) President Clinton declared in July 1993 that “to assure that our nuclear deterrent remains unquestioned under a test ban, we will explore other means of maintaining our confidence in the safety, reliability, and the performance of our weapons”. This decision was incorporated in a Presidential Directive.
 
-&emsp;(7) Section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 42 U.S.C. 2121 note) also requires that the Secretary of Energy establish a “stewardship program to ensure the preservation of the core intellectual and technical competencies of the United States in nuclear weapons”.
+&emsp;(7) Section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 42 U.S.C. 2121 note) <sup>1</sup> also requires that the Secretary of Energy establish a “stewardship program to ensure the preservation of the core intellectual and technical competencies of the United States in nuclear weapons”.
 
 &emsp;(8) The plan of the Department of Energy to maintain the safety and reliability of the United States nuclear weapons stockpile is known as the Stockpile Stewardship and Management Program. The ability of the United States to maintain and certify the safety, security, effectiveness, and reliability of the nuclear weapons stockpile without testing will require utilization of new and sophisticated computational capabilities and diagnostic technologies, methods, and procedures. Current diagnostic technologies and laboratory testing techniques are insufficient to certify the safety and reliability of the United States nuclear weapons stockpile into the future. Whereas in the past laboratory and diagnostic tools were used in conjunction with nuclear testing, in the future they will provide, under the Department of Energy's stockpile stewardship plan, the sole basis for assessing past test data and for making judgments on phenomena observed in connection with the aging of the stockpile.
 
-&emsp;(9) Section 7274<i>o</i> of this title requires that the directors of the nuclear weapons laboratories and the nuclear weapons production plants submit a report to the Assistant Secretary of Energy for Defense Programs if they identify a problem that has significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, that the Assistant Secretary must transmit that report, along with any comments, to the congressional defense committees and to the Secretary of Energy and the Secretary of Defense, and that the Joint Nuclear Weapons Council advise Congress regarding its analysis of any such problems.
+&emsp;(9) Section 3159 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 42 U.S.C. 7274<i>o</i>) requires that the directors of the nuclear weapons laboratories and the nuclear weapons production plants submit a report to the Assistant Secretary of Energy for Defense Programs if they identify a problem that has significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, that the Assistant Secretary must transmit that report, along with any comments, to the congressional defense committees and to the Secretary of Energy and the Secretary of Defense, and that the Joint Nuclear Weapons Council advise Congress regarding its analysis of any such problems.
 
 &emsp;(10) On August 11, 1995, President Clinton directed “the establishment of a new annual reporting and certification requirement \[to\] ensure that our nuclear weapons remain safe and reliable under a comprehensive test ban”.
 
@@ -28,7 +28,7 @@ Congress makes the following findings:
 
 &emsp;(12) The Joint Nuclear Weapons Council established by section 179 of title 10 is responsible for providing advice to the Secretary of Energy and the Secretary of Defense regarding nuclear weapons issues, including “considering safety, security, and control issues for existing weapons”. The Council plays a critical role in advising Congress in matters relating to nuclear weapons.
 
-&emsp;(13) It is essential that the President receive well-informed, objective, and honest opinions, including dissenting views, from his advisers and technical experts regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
+&emsp;(13) It is essential that the President receive well-informed, objective, and honest opinions, including dissenting views, from his advisersand technical experts regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
 
 #### (b) Policy
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;It is the sense of Congress that—
 
-&emsp;&emsp;(A) the United States should retain a triad of strategic nuclear forces sufficient to deterany future hostile foreign leadership with access to strategic nuclear forces from acting against the vital interests of the United States;
+&emsp;&emsp;(A) the United States should retain a triad of strategic nuclear forces sufficient to deter any future hostile foreign leadership with access to strategic nuclear forces from acting against the vital interests of the United States;
 
 &emsp;&emsp;(B) the United States should continue to maintain nuclear forces of sufficient size and capability to implement an effective and robust deterrent strategy; and
 
@@ -58,7 +58,7 @@ Congress makes the following findings:
 
 #### (e) Advice and opinions regarding nuclear weapons stockpile
 
-In addition to a director of a nuclear weapons laboratory or a nuclear weapons production plant (under section 7274<i>o</i> of this title), any member of the Joint Nuclear Weapons Council or the commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
+In addition to a director of a nuclear weapons laboratory or a nuclear weapons production plant (under section 3159 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 42 U.S.C. 7274<i>o</i>)),<sup>1</sup> any member of the Joint Nuclear Weapons Council or the commander of the United States Strategic Command may also submit to the President, the Secretary of Defense, the Secretary of Energy, or the congressional defense committees advice or opinion regarding the safety, security, effectiveness, and reliability of the nuclear weapons stockpile.
 
 #### (f) Expression of individual views
 
@@ -100,11 +100,17 @@ In this section:
 
 #### References in Text
 
-Section 3138(d) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (a)(5), was repealed by Pub. L. 105–85, div. C, title XXXI, §3152(e)(1), Nov. 18, 1997, 111 Stat. 2042.
+Section 507 of the Energy and Water Development Appropriations Act, 1993 (Public Law 102–377), referred to in subsec. (a)(3), which is set out as a note under section 2121 of this title, was amended by Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1760, and no longer contains the words “unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted”. Those words were transferred to section 2530 of Title 50, War and National Defense.
+
+Section 1436 of the National Defense Authorization Act, Fiscal Year 1989 (Public Law 100–456), referred to in subsec. (a)(4), was set out as a note under section 2121 of this title and was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, which is classified to section 2527 of Title 50, War and National Defense.
+
+Section 3138 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160), referred to in subsec. (a)(5) and (7), was amended by Pub. L. 105–85, div. C, title XXXI, §3152(e)(1), Nov. 18, 1997, 111 Stat. 2042, to strike out subsec. (d) and subsequently renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, which is classified to section 2521 of Title 50, War and National Defense.
+
+Section 3159 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsecs. (a)(9) and (e), was classified to section 7274<i>o</i> of this title and was renumbered section 4213 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760, which is classified to section 2533 of Title 50, War and National Defense.
 
 #### Codification
 
-Section is comprised of section 1305 of Pub. L. 105–85. Subsecs. (c) and (d) of section 1305 of Pub. L. 105–85 amended section 7274<i>o</i> of this title.
+Section is comprised of section 1305 of Pub. L. 105–85. Subsecs. (c) and (d) of section 1305 of Pub. L. 105–85 amended section 2533 of Title 50, War and National Defense.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

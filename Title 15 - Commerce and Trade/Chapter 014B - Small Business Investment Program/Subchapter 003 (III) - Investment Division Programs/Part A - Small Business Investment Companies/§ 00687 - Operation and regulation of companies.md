@@ -14,7 +14,7 @@ The Administration is authorized to prescribe regulations governing the operatio
 
 #### (d) Forfeiture of rights, privileges, and franchises; jurisdiction
 
-Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
+Should any small business investment company violate or fail to comply with any of the provisions of this chapter or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such company shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this chapter shall be determined andadjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such company is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General.
 
 #### (e) Liability of United States
 
@@ -22,7 +22,7 @@ Except as expressly provided otherwise in this chapter, nothing in this chapter 
 
 #### (f) Performance of functions, powers, and duties by Administration and Administrator
 
-In the performance of, and with respect to the functions, powers, and duties vested by this chapter, the Administrator and the Administration shall (in addition to any authority otherwise vested by this chapter) have the functions,powers, and duties set forth in the Small Business Act \[15 U.S.C. 631 et seq.\], and the provisions of sections 13 and 16 of that Act \[15 U.S.C. 642, 645\], insofar as applicable, are extended to the functions of the Administrator and the Administration under this chapter.
+In the performance of, and with respect to the functions, powers, and duties vested by this chapter, the Administrator and the Administration shall (in addition to any authority otherwise vested by this chapter) have the functions, powers, and duties set forth in the Small Business Act \[15 U.S.C. 631 et seq.\], and the provisions of sections 13 and 16 of that Act \[15 U.S.C. 642, 645\], insofar as applicable, are extended to the functions of the Administrator and the Administration under this chapter.
 
 #### (g) Annual report on Small Business Investment activities
 
@@ -100,7 +100,7 @@ The Investment Company Act of 1940, referred to in subsec. (g)(2)(J), is title I
 
 Section 204 of Pub. L. 96–161, cited as a credit to this section, was repealed by section 529 of Pub. L. 96–221 effective at the close of Mar. 31, 1980. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when the amendment was in effect in such State.
 
-Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Saving Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out under section 85 of Title 12, Banks and Banking.
+Section 104 of Pub. L. 96–104, cited as a credit to this section, was repealed by section 212 of Pub. L. 96–161,effective at the close of Dec. 27, 1979. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue in effect for limited purposes pursuant to section 212 of Pub. L. 96–161. See Saving Provisions note, describing the provisions of section 212 of Pub. L. 96–161, set out under section 85 of Title 12, Banks and Banking.
 
 Section 204 of Pub. L. 93–501, cited as a credit to this section, was repealed by Pub. L. 96–104, §1, Nov. 5, 1979, 93 Stat. 789. The amendment of this section by that repealed provision, described in the 1974 Amendment note, shall continue in effect for limited purposes pursuant to section 1 of Pub. L. 96–104. See Savings Provisions note, describing the provisions of section 1 of Pub. L. 96–104, set out under section 85 of Title 12, Banks and Banking.
 
@@ -182,7 +182,7 @@ Section 529 of Pub. L. 96–221 provided in part that, notwithstanding the repea
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 
 #### Transfer of Functions
 

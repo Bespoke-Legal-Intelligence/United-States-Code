@@ -54,7 +54,7 @@ As used in this section:
 
 &emsp;(G) meet such other reasonable and necessary terms and conditions as the Secretary may require consistent with this section.
 
-(2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term “farming or ranching operations” shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
+(2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term “farming or ranching operations” shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyondthe control of the borrower-owner, is unable to actively farm such land.
 
 (3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
 
@@ -96,7 +96,7 @@ Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
 
-Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing aloan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
+Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
 1992—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
 
@@ -112,7 +112,7 @@ Subsecs. (c), (d), (g). Pub. L. 102–237, §501(g)(2), substituted “borrower-
 
 1988—Subsec. (a)(3). Pub. L. 100–233, §614(1), inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
 
-Subsec. (b)(1). Pub. L. 100–233, §614(2), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
+Subsec. (b)(1). Pub. L. 100–233, §614(2), added par. (1) and struck out former par. (1) which read as follows: “Ifthe Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
 
 Subsec. (c). Pub. L. 100–233, §614(3), completely revised and restated subsec. (c), substituting pars. (1) to (6) for former pars. (1) to (8).
 

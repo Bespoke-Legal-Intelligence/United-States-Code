@@ -34,7 +34,7 @@
 | (d) | Amount. |
 | (e) | Provisions as not imposing duty, burden, requirement or penalty on United States, Senate, or any officer or employee of United States; effect of filing paper. |
 | (f) | Rules and regulations. |
-| 60c–5. | Student loan repayment program. |
+| 60c–5. | Student loan repayment program for Senate employees. |
 | (a) | Definitions. |
 | (b) | Senate student loan repayment program. |
 | (c) | Program conditions. |
@@ -44,6 +44,10 @@
 | (g) | Allocation of funds. |
 | (h) | Authorization of appropriations. |
 | (i) | Effective date. |
+| 60c–6. | Student loan repayment program for House employees. |
+| (a) | Establishment. |
+| (b) | Regulations. |
+| (c) | Authorization of appropriations. |
 | [60d.](%C2%A7%2000060d%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md) | Repealed. |
 | 60d–1. | Day for paying salaries of the House of Representatives. |
 | 60e, 60e–1. Repealed. |  |
@@ -142,6 +146,11 @@
 | 61f–10. | Procurement of temporary help. |
 | (a) | In general. |
 | (b) | Effective date. |
+| 61f–11. | Provision of services and equipment on a reimbursable basis. |
+| (a) | In general. |
+| (b) | Reimbursement required. |
+| (c) | Crediting of reimbursed amounts. |
+| (d) | Effective date. |
 | [61g.](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md) | Compensation of Secretaries for Senate Majority and Minority. |
 | 61g–1 to 61g–3. Omitted. |  |
 | 61g–4. | Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate. |
@@ -161,6 +170,9 @@
 | 61h–4. | Appointment of employees by Senate Majority and Minority Leaders; compensation. |
 | 61h–5. | Assistants to Senate Majority and Minority Leaders for Floor Operations; establishment of positions; appointment; compensation. |
 | 61h–6. | Appointment of consultants by Majority Leader, Minority Leader, Secretary of Senate, and Legislative Counsel of Senate; compensation. |
+| (a) | In general. |
+| (b) | Annual compensation. |
+| (c) | Title of position. |
 | 61h–7. | Chiefs of Staff for Senate Majority and Minority Leaders; appointment; compensation. |
 | 61i to 61j–1. Omitted. |  |
 | 61j–2. | Compensation and appointment of employees by Senate Majority and Minority Whips. |
@@ -395,6 +407,11 @@
 | (c) | Payment. |
 | (d) | Rules and regulations. |
 | [112f.](%C2%A7%2000112f%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md) | Incidental use of equipment and supplies. |
+| 112g. | Net Expenses of Equipment Revolving Fund. |
+| (a) | Establishment. |
+| (b) | Use of funds. |
+| (c) | Treatment. |
+| (d) | Applicability. |
 | [113\.](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [114\.](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md) | Fees for copies from Senate journals. |
 | [115\.](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md) | Index to House daily calendar. |
@@ -421,6 +438,7 @@
 | [117i.](%C2%A7%2000117i%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md) | Revolving fund for House gymnasium; deposit of receipts; availability for expenditure. |
 | [117j.](%C2%A7%2000117j%20-%20Fees%20for%20internal%20delivery%20in%20House%20of%20Representatives%20of%20nonpostage%20mail%20from%20outside%20sources.md) | Fees for internal delivery in House of Representatives of nonpostage mail from outside sources. |
 | [117k.](%C2%A7%2000117k%20-%20Rebates%20under%20Government%20Travel%20Charge%20Card%20Program.md) | Rebates under Government Travel Charge Card Program. |
+| 117(<i>l</i>). | Deposit of House Information Resources reimbursements for services. |
 | [118\.](%C2%A7%2000118%20-%20Actions%20against%20officers%20for%20official%20acts.md) | Actions against officers for official acts. |
 | [118a.](%C2%A7%2000118a%20-%20Officers%20of%20Senate.md) | Officers of Senate. |
 | [119\.](%C2%A7%2000119%20-%20Stationery%20rooms%20of%20House%20and%20Senate%3B%20specification%20of%20classes%20of%20articles%20purchasable.md) | Stationery rooms of House and Senate; specification of classes of articles purchasable. |
@@ -464,7 +482,7 @@
 | (b) | Withholding of fees from salary. |
 | (c) | Deposit in General Fund. |
 | (d) | Effective date. |
-| [121f.](%C2%A7%2000121f%20-%20Senate%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md) | Senate Health and Fitness Facility Revolving Fund. |
+| [121f.](%C2%A7%2000121f%20-%20Senate%20Staff%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md) | Senate Staff Health and Fitness Facility Revolving Fund. |
 | (a) | Establishment. |
 | (b) | Deposit of receipts. |
 | (c) | Availability of funds. |
@@ -513,6 +531,14 @@
 | [127b.](%C2%A7%2000127b%20-%20Reimbursement%20of%20residential%20telecommunications%20expenses%20for%20House%20Members%2C%20officers%2C%20and%20employees.md) | Reimbursement of residential telecommunications expenses for House Members, officers, and employees. |
 | 128 to 130. Repealed. |  |
 | 130–1. | Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials; meetings with Government officials. |
+| 130–2. | Office of Interparliamentary Affairs. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Director. |
+| (d) | Other staff. |
+| (e) | Omitted. |
+| (f) | Authorization of appropriations. |
+| (g) | Effective date. |
 | [130a.](%C2%A7%2000130a%20-%20Nonpay%20status%20for%20Congressional%20employees%20studying%20under%20Congressional%20staff%20fellowships.md) | Nonpay status for Congressional employees studying under Congressional staff fellowships. |
 | [130b.](%C2%A7%2000130b%20-%20Jury%20and%20witness%20service%20by%20Senate%20and%20House%20employees.md) | Jury and witness service by Senate and House employees. |
 | (a) | Definitions. |
@@ -540,7 +566,7 @@
 | [130e.](%C2%A7%2000130e%20-%20Special%20Services%20Office.md) | Special Services Office. |
 | [130f.](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md) | Office of General Counsel of House; administrative provisions. |
 | (a) | Compliance with admission requirements. |
-| (b) | Repealed. |
+| (b) | Notification by Attorney General. |
 | (c) | General Counsel definition. |
 | (d) | Effective date. |
 | [130g.](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for Senate during emergency; memorandum of understanding with an executive agency. |
@@ -557,6 +583,11 @@
 | (c) | Duties of Director; House of Representatives Continuity of Operations Board. |
 | (d) | Availability of funds. |
 | (e) | Effective date; applicability. |
+| [130j.](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md) | Program to increase employment opportunities in House of Representatives for individuals with disabilities. |
+| (a) | In general. |
+| (b) | Elements of program. |
+| (c) | Funding. |
+| [130k.](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md) | Emergency expenditures for meals, refreshments, and other support and maintenance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -580,7 +611,8 @@
 - [&sect; 00060c&#8211;2a - Banking and financial transactions of Secretary of Senate](%C2%A7%2000060c%E2%80%932a%20-%20Banking%20and%20financial%20transactions%20of%20Secretary%20of%20Senate.md)
 - [&sect; 00060c&#8211;3 - Withholding and remittance of State income tax by Secretary of Senate](%C2%A7%2000060c%E2%80%933%20-%20Withholding%20and%20remittance%20of%20State%20income%20tax%20by%20Secretary%20of%20Senate.md)
 - [&sect; 00060c&#8211;4 - Withholding of charitable contributions from salaries paid by Secretary of Senate and from employees of Architect of Capitol](%C2%A7%2000060c%E2%80%934%20-%20Withholding%20of%20charitable%20contributions%20from%20salaries%20paid%20by%20Secretary%20of%20Senate%20and%20from%20employees%20of%20Architect%20of%20Capitol.md)
-- [&sect; 00060c&#8211;5 - Student loan repayment program](%C2%A7%2000060c%E2%80%935%20-%20Student%20loan%20repayment%20program.md)
+- [&sect; 00060c&#8211;5 - Student loan repayment program for Senate employees](%C2%A7%2000060c%E2%80%935%20-%20Student%20loan%20repayment%20program%20for%20Senate%20employees.md)
+- [&sect; 00060c&#8211;6 - Student loan repayment program for House employees](%C2%A7%2000060c%E2%80%936%20-%20Student%20loan%20repayment%20program%20for%20House%20employees.md)
 - [&sect; 00060d - Repealed. Pub. L. 107&#8211;68, title I, &sect;116(b)(1), Nov. 12, 2001, 115 Stat. 573](%C2%A7%2000060d%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md)
 - [&sect; 00060d&#8211;1 - Day for paying salaries of the House of Representatives](%C2%A7%2000060d%E2%80%931%20-%20Day%20for%20paying%20salaries%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00060e, 60e&#8211;1 - Repealed. Pub. L. 107&#8211;68, title I, &sect;116(b)(1), (2), Nov. 12, 2001, 115 Stat. 573](%C2%A7%2000060e%2C%2060e%E2%80%931%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20%282%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md)
@@ -647,6 +679,7 @@
 - [&sect; 00061f&#8211;8 - Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel](%C2%A7%2000061f%E2%80%938%20-%20Use%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20of%20individual%20consultants%20or%20organizations%2C%20and%20department%20and%20agency%20personnel.md)
 - [&sect; 00061f&#8211;9 - Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on&#8230;](%C2%A7%2000061f%E2%80%939%20-%20Employment%20of%20personnel%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20at%20daily%20rates%20of%20compensation%3B%20authorization%3B%20limitation%20on%E2%80%A6.md)
 - [&sect; 00061f&#8211;10 - Procurement of temporary help](%C2%A7%2000061f%E2%80%9310%20-%20Procurement%20of%20temporary%20help.md)
+- [&sect; 00061f&#8211;11 - Provision of services and equipment on a reimbursable basis](%C2%A7%2000061f%E2%80%9311%20-%20Provision%20of%20services%20and%20equipment%20on%20a%20reimbursable%20basis.md)
 - [&sect; 00061g - Compensation of Secretaries for Senate Majority and Minority](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md)
 - [&sect; 00061g&#8211;1 to 61g&#8211;3 - Omitted](%C2%A7%2000061g%E2%80%931%20to%2061g%E2%80%933%20-%20Omitted.md)
 - [&sect; 00061g&#8211;4 - Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of&#8230;](%C2%A7%2000061g%E2%80%934%20-%20Appointment%20and%20compensation%20of%20employees%20by%20Secretary%20of%20Conference%20of%20Majority%20of%20Senate%20and%20Secretary%20of%20Conference%20of%20Minority%20of%E2%80%A6.md)
@@ -821,6 +854,7 @@
 - [&sect; 00112a to 112d - Repealed. Pub. L. 91&#8211;139, &sect;2(a), Dec. 5, 1969, 83 Stat. 291](%C2%A7%2000112a%20to%20112d%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93139%2C%20%C2%A72%28a%29%2C%20Dec.%205%2C%201969%2C%2083%20Stat.%20291.md)
 - [&sect; 00112e - Office equipment for House Members, officers, and committees](%C2%A7%2000112e%20-%20Office%20equipment%20for%20House%20Members%2C%20officers%2C%20and%20committees.md)
 - [&sect; 00112f - Incidental use of equipment and supplies](%C2%A7%2000112f%20-%20Incidental%20use%20of%20equipment%20and%20supplies.md)
+- [&sect; 00112g - Net Expenses of Equipment Revolving Fund](%C2%A7%2000112g%20-%20Net%20Expenses%20of%20Equipment%20Revolving%20Fund.md)
 - [&sect; 00113 - Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md)
 - [&sect; 00114 - Fees for copies from Senate journals](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md)
 - [&sect; 00115 - Index to House daily calendar](%C2%A7%2000115%20-%20Index%20to%20House%20daily%20calendar.md)
@@ -839,6 +873,7 @@
 - [&sect; 00117i - Revolving fund for House gymnasium; deposit of receipts; availability for expenditure](%C2%A7%2000117i%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md)
 - [&sect; 00117j - Fees for internal delivery in House of Representatives of nonpostage mail from outside sources](%C2%A7%2000117j%20-%20Fees%20for%20internal%20delivery%20in%20House%20of%20Representatives%20of%20nonpostage%20mail%20from%20outside%20sources.md)
 - [&sect; 00117k - Rebates under Government Travel Charge Card Program](%C2%A7%2000117k%20-%20Rebates%20under%20Government%20Travel%20Charge%20Card%20Program.md)
+- [&sect; 00117l - Deposit of House Information Resources reimbursements for services](%C2%A7%2000117l%20-%20Deposit%20of%20House%20Information%20Resources%20reimbursements%20for%20services.md)
 - [&sect; 00118 - Actions against officers for official acts](%C2%A7%2000118%20-%20Actions%20against%20officers%20for%20official%20acts.md)
 - [&sect; 00118a - Officers of Senate](%C2%A7%2000118a%20-%20Officers%20of%20Senate.md)
 - [&sect; 00119 - Stationery rooms of House and Senate; specification of classes of articles purchasable](%C2%A7%2000119%20-%20Stationery%20rooms%20of%20House%20and%20Senate%3B%20specification%20of%20classes%20of%20articles%20purchasable.md)
@@ -851,7 +886,7 @@
 - [&sect; 00121c - Office of Senate Health Promotion](%C2%A7%2000121c%20-%20Office%20of%20Senate%20Health%20Promotion.md)
 - [&sect; 00121d - Senate Gift Shop](%C2%A7%2000121d%20-%20Senate%20Gift%20Shop.md)
 - [&sect; 00121e - Payment of fees for services of Attending Physician and for use of Senate health and fitness facilities](%C2%A7%2000121e%20-%20Payment%20of%20fees%20for%20services%20of%20Attending%20Physician%20and%20for%20use%20of%20Senate%20health%20and%20fitness%20facilities.md)
-- [&sect; 00121f - Senate Health and Fitness Facility Revolving Fund](%C2%A7%2000121f%20-%20Senate%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md)
+- [&sect; 00121f - Senate Staff Health and Fitness Facility Revolving Fund](%C2%A7%2000121f%20-%20Senate%20Staff%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md)
 - [&sect; 00122 - Repealed. Pub. L. 95&#8211;391, title I, &sect;111, Sept. 30, 1978, 92 Stat. 777](%C2%A7%2000122%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93391%2C%20title%20I%2C%20%C2%A7111%2C%20Sept.%2030%2C%201978%2C%2092%20Stat.%20777.md)
 - [&sect; 00122a - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(66), Aug. 20, 1996, 110 Stat. 1740](%C2%A7%2000122a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2866%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201740.md)
 - [&sect; 00122b to 122g - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(67), Aug. 20, 1996, 110 Stat. 1740](%C2%A7%2000122b%20to%20122g%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2867%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201740.md)
@@ -877,6 +912,7 @@
 - [&sect; 00128, 129 - Repealed. Pub. L. 89&#8211;554, &sect;8(a), Sept. 6, 1966, 80 Stat. 658, 659](%C2%A7%2000128%2C%20129%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93554%2C%20%C2%A78%28a%29%2C%20Sept.%206%2C%201966%2C%2080%20Stat.%20658%2C%20659.md)
 - [&sect; 00130 - Repealed. Pub. L. 95&#8211;391, title I, &sect;111, Sept. 30, 1978, 92 Stat. 777](%C2%A7%2000130%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93391%2C%20title%20I%2C%20%C2%A7111%2C%20Sept.%2030%2C%201978%2C%2092%20Stat.%20777.md)
 - [&sect; 00130&#8211;1 - Participation by House in interparliamentary institutions; reception of members of foreign legislative bodies and foreign officials&#8230;](%C2%A7%2000130%E2%80%931%20-%20Participation%20by%20House%20in%20interparliamentary%20institutions%3B%20reception%20of%20members%20of%20foreign%20legislative%20bodies%20and%20foreign%20officials%E2%80%A6.md)
+- [&sect; 00130&#8211;2 - Office of Interparliamentary Affairs](%C2%A7%2000130%E2%80%932%20-%20Office%20of%20Interparliamentary%20Affairs.md)
 - [&sect; 00130a - Nonpay status for Congressional employees studying under Congressional staff fellowships](%C2%A7%2000130a%20-%20Nonpay%20status%20for%20Congressional%20employees%20studying%20under%20Congressional%20staff%20fellowships.md)
 - [&sect; 00130b - Jury and witness service by Senate and House employees](%C2%A7%2000130b%20-%20Jury%20and%20witness%20service%20by%20Senate%20and%20House%20employees.md)
 - [&sect; 00130c - Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee&#8230;](%C2%A7%2000130c%20-%20Waiver%20by%20Secretary%20of%20Senate%20of%20claims%20of%20United%20States%20arising%20out%20of%20erroneous%20payments%20to%20Vice%20President%2C%20Senator%2C%20or%20Senate%20employee%E2%80%A6.md)
@@ -886,3 +922,5 @@
 - [&sect; 00130g - Support services for Senate during emergency; memorandum of understanding with an executive agency](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
 - [&sect; 00130h - Support services for House during emergency; memorandum of understanding with an executive agency](%C2%A7%2000130h%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
 - [&sect; 00130i - House of Representatives Office of Emergency Planning, Preparedness, and Operations](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md)
+- [&sect; 00130j - Program to increase employment opportunities in House of Representatives for individuals with disabilities](%C2%A7%2000130j%20-%20Program%20to%20increase%20employment%20opportunities%20in%20House%20of%20Representatives%20for%20individuals%20with%20disabilities.md)
+- [&sect; 00130k - Emergency expenditures for meals, refreshments, and other support and maintenance](%C2%A7%2000130k%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md)

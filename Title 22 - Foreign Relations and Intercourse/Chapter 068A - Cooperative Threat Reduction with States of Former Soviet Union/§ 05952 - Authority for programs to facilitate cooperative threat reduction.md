@@ -38,7 +38,7 @@ Assistance authorized by subsection (a) of this section may not be provided to a
 
 &emsp;(3) Foregoing any use in new nuclear weapons of fissionable or other components of destroyed nuclear weapons.
 
-&emsp;(4) Facilitating United States verification of any weapons destruction carried out under this chapter, section 5902(b) of this title, or section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note).
+&emsp;(4) Facilitating United States verification of any weapons destruction carried out underthis chapter, section 5902(b) of this title, or section 212(b) of the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228; 22 U.S.C. 2551 note).
 
 &emsp;(5) Complying with all relevant arms control agreements.
 
@@ -67,6 +67,22 @@ The Secretary of Defense shall not exercise authority delegated by number 2 here
 The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Study and Report Relating to Weapons-grade Uranium and Plutonium of the Independent States of the Former Soviet Union
+
+Pub. L. 108–136, div. C, title XXXI, §3123, Nov. 24, 2003, 117 Stat. 1747, provided that:
+
+“(a)
+
+Study Required.—The Secretary of Energy shall carry out a study on the feasibility, costs, and benefits of—
+
+&emsp;“(1) purchasing, from the independent states of the former Soviet Union, weapons-grade uranium and plutonium excess to the defense needs of those states; and
+
+&emsp;“(2) safeguarding the uranium and plutonium so purchased until rendered unusable for nuclear weapons.
+
+“(b)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary shall submit to Congress a report on the results of the study required by subsection (a).”
 
 #### Report Requirement Regarding Russian Proliferation to Iran and Other Countries of Proliferation Concern
 
@@ -101,6 +117,8 @@ Definition.—In this section, the term ‘country of proliferation concern’ m
 &emsp;“(1) in the most recent report under section 721 of the Combatting Proliferation of Weapons of Mass Destruction Act of 1996 (title VII of Public Law 104–293; 50 U.S.C. 2366); or
 
 &emsp;“(2) in any successor report on the acquisition by foreign countries of dual-use and other technology useful for the development or production of weapons of mass destruction.”
+
+\[Functions of President under section 1206 of Pub. L. 107–314, set out above, delegated to Secretary of State by section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.\]
 
 #### Specification of Cooperative Threat Reduction Programs for Purposes of Pub. L. 107–314
 
@@ -176,7 +194,7 @@ Availability of Transferred Funds.—(1) Notwithstanding any restriction or limi
 
 Limitation.—(1) Of the amounts authorized to be appropriated by this title or any other Act for the program referred to in subsection (a), the Administrator for Nuclear Security may not obligate any funds for construction, or obligate or expend more than $100,000,000 for that program, until 30 days after the later of—
 
-&emsp;“(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senateand the House of Representatives\], the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate, a copy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
+&emsp;“(A) the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate, a copy of an agreement or agreements entered into between the United States Government and the Government of the Russian Federation to shut down the three plutonium-producing reactors in Russia as specified under paragraph (2); and
 
 &emsp;“(B) the date on which the Administrator submits to the committees specified in subparagraph (A) a report on a plan to achieve international participation in the program referred to in subsection (a), including cost sharing.
 
@@ -202,7 +220,7 @@ Pub. L. 107–314, div. C, title XXXI, §3157, Dec. 2, 2002, 116 Stat. 2740, pro
 
 “(a)
 
-Program on Accelerated Disposition of HEU Authorized.—(1) The Secretary of Energy may carry out a program to pursue with the Russian Federation options for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent.
+Program on Accelerated Disposition of HEU Authorized.—(1) The Secretary of Energy may carry out a program to pursue with the Russian Federationoptions for blending highly enriched uranium so that the concentration of U–235 in such uranium is below 20 percent.
 
 “(2) The options pursued under paragraph (1) shall include expansion of the Material Consolidation and Conversion program of the Department of Energy to include—
 
@@ -278,7 +296,7 @@ Findings.—Congress finds the following:
 
 &emsp;&emsp;“(F) these objectives are accomplished with sufficient monitoring and transparency to provide confidence that they have in fact been accomplished and that the funds provided to accomplish these objectives have been spent efficiently and effectively.
 
-&emsp;“(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the Presidentshould develop and present to Congress a plan for doing so.
+&emsp;“(3) United States programs should be designed to accomplish these vital objectives in the Russian Federation as rapidly as possible, and the President should develop and present to Congress a plan for doing so.
 
 &emsp;“(4) Substantial progress has been made in United States-Russian Federation cooperative programs to achieve these objectives, but much more remains to be done to reduce the urgent risks to United States national security posed by the current state of the Russian Federation's weapons of mass destruction stockpiles and complexes.
 
@@ -296,7 +314,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(8) The Russian Federation has a significant foreign debt, a substantial proportion of which it inherited from the Soviet Union.
 
-&emsp;“(9) Past debt-for-environment exchanges, in which a portion of a country's foreign debt is canceled in return for certain environmental commitments or payments by that country, suggest that a debt-for-nonproliferation exchange with the Russian Federation could be designed to provide additional funding for nonproliferation and arms reduction initiatives.
+&emsp;“(9) Past debt-for-environment exchanges, in which a portion of a country's foreign debt is canceled in return for certain environmental commitments or payments by that country, suggest that a debt-for-nonproliferation exchange with the Russian Federationcould be designed to provide additional funding for nonproliferation and arms reduction initiatives.
 
 &emsp;“(10) Most of the Russian Federation's official bilateral debt is held by United States allies that are advanced industrial democracies. Since the issues described pose threats to United States allies as well, United States leadership that results in a larger contribution from United States allies to cooperative threat reduction activities will be needed.
 
@@ -378,7 +396,7 @@ Implementation.—In exercising the authority of subsection (a), the President�
 
 &emsp;&emsp;&emsp;“(i) the Department of State, with respect to obligations of the former Soviet Union under the Lend Lease Act of 1941 \[former 22 U.S.C. 411 et seq.\]; and
 
-&emsp;&emsp;&emsp;“(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Unionunder the Commodity Credit Corporation Act \[15 U.S.C. 713a et seq.\];
+&emsp;&emsp;&emsp;“(ii) the Commodity Credit Corporation, with respect to obligations of the former Soviet Union under the Commodity Credit Corporation Act \[15 U.S.C. 713a et seq.\];
 
 &emsp;&emsp;“(B) shall direct the cancellation of old obligations and the substitution of new obligations consistent with the Russian Federation Nonproliferation Investment Agreement; and
 
@@ -588,35 +606,7 @@ Pub. L. 107–107, div. A, title XIII, §1305(a), Dec. 28, 2001, 115 Stat. 1255,
 
 #### Annual Report on Status of Nuclear Materials Protection, Control, and Accounting Program
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, as amended by Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738, provided that:
-
-“(a)
-
-Report Required.—Not later than January 1 of each year, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the status of efforts during the preceding fiscal year under the Nuclear Materials Protection, Control, and Accounting Program of the Department of Energy to secure weapons-usable nuclear materials in countries where such materials have been identified as being at risk for theft or diversion.
-
-“(b)
-
-Contents.—Each report under subsection (a) shall include the following:
-
-&emsp;“(1) The number of buildings, including building locations, in each country covered by subsection (a) that received complete and integrated materials protection, control, and accounting systems for nuclear materials described in subsection (a) during the year covered by such report.
-
-&emsp;“(2) The amounts of highly enriched uranium and plutonium in each such country that have been secured under systems described in paragraph (1) as of the date of such report.
-
-&emsp;“(3) The amount of nuclear materials described in subsection (a) in each such country that continues to require securing under systems described in paragraph (1) as of the date of such report.
-
-&emsp;“(4) A plan for actions to secure the nuclear materials identified in paragraph (3) under systems described in paragraph (1), including an estimate of the cost of such actions.
-
-&emsp;“(5) The amounts expended through the fiscal year preceding the date of such report to secure nuclear materials described in subsection (a) under systems described in paragraph (1), set forth by total amount per country and by amount per fiscal year per country.
-
-“(c)
-
-Limitation on Use of Certain Funds.—(1) No amounts authorized to be appropriated for the Department of Energy by this Act or any other Act for purposes of the Nuclear Materials Protection, Control, and Accounting Program may be obligated or expended after September 30, 2000, for any project under the program at a site controlled by the Russian Ministry of Atomic Energy (MINATOM) in Russia until the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the access policy established with respect to such project, including a certification that the access policy has been implemented.
-
-“(2) The access policy with respect to a project under this subsection shall—
-
-&emsp;“(A) permit appropriate determinations by United States officials regarding security requirements, including security upgrades, for the project; and
-
-&emsp;“(B) ensure verification by United States officials that Department of Energy assistance at the project is being used for the purposes intended.”
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, as amended by Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738, which was formerly set out as a note under this section, was renumbered section 4303 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1763, and is classified to section 2563 of Title 50, War and National Defense.
 
 #### Specification of Cooperative Threat Reduction Programs and Funds for Purposes of Pub. L. 106–65
 
@@ -636,7 +626,7 @@ Cooperative Threat Reduction Funds Defined.—As used in this title \[enacting p
 
 Pub. L. 107–314, div. A, title XIII, §1305, Dec. 2, 2002, 116 Stat. 2673, provided that: “No funds authorized to be appropriated for Cooperative Threat Reduction programs for any fiscal year may be used for the design, planning, or construction of a second wing for a storage facility for Russian fissile material.”
 
-Pub. L. 107–248, title VIII, §8144, Oct. 23, 2002, 116 Stat. 1571, provided that:
+Pub. L. 107–248, title VIII, §8144, Oct. 23, 2002, 116 Stat. 1571, as amended by Pub. L. 108–84, §130, formerly §135, Sept. 30, 2003, 117 Stat. 1048, renumbered Pub. L. 108–104, §2(3), Oct. 31, 2003, 117 Stat. 1200; Pub. L. 108–104, §3, Oct. 31, 2003, 117 Stat. 1200; Pub. L. 108–107, §2, Nov. 7, 2003, 117 Stat. 1240; Pub. L. 108–135, §2, Nov. 22, 2003, 117 Stat. 1391, provided that:
 
 “(a) The conditions described in section 1305 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 22 U.S.C. 5952 note) shall not apply to the obligation and expenditure of funds for fiscal years 2000, 2001, 2002 and 2003 for the planning, design, or construction of a chemical weapons destruction facility in Russia if the President submits to Congress a written certification that includes—
 
@@ -648,13 +638,13 @@ Pub. L. 107–248, title VIII, §8144, Oct. 23, 2002, 116 Stat. 1571, provided t
 
 “(b)
 
-Expiration of Authority.—The authority under paragraph (a) shall expire on September 30, 2003.”
+Expiration of Authority.—The authority under paragraph (a) shall expire January 31, 2004.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, provided that: “No fiscal year 2001 Cooperative Threat Reduction funds and no funds appropriated for Cooperative Threat Reduction programs for any other fiscal year, may be obligated or expended for elimination of conventional weapons or the delivery vehicles primarily intended to deliver such weapons.” \[For definitions, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title.\]
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIII, §1304\], Oct. 30, 2000, 114 Stat. 1654, 1654A–340, as amended by Pub. L. 107–107, div. A, title XIII, §1305(b), Dec. 28, 2001, 115 Stat. 1255, provided that: “Out of funds authorized to be appropriated for Cooperative Threat Reduction programs \[for definition, see section 1 \[\[div. A\], title XIII, §1301(a)\] of Pub. L. 106–398, set out as a note under section 5959 of this title\] for fiscal year 2001 or any other fiscal year, not more than $412,600,000 may be used for planning, design, or construction of the first wing for the storage facility for Russian fissile material referred to in section 1302(a)(5) \[114 Stat. 1654–339\] other than planning, design, or construction to improve security at such first wing.”
 
-Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub.L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651, provided that:
+Pub. L. 106–65, div. A, title XIII, §§1303–1305, Oct. 5, 1999, 113 Stat. 793, 794, as amended by Pub. L. 107–107, div. A, title XIII, §1308, Dec. 28, 2001, 115 Stat. 1256; Pub. L. 107–314, div. A, title X, §1062(j)(2), Dec. 2, 2002, 116 Stat. 2651, provided that:
 
 #### “SEC. 1303. PROHIBITION ON USE OF FUNDS FOR SPECIFIED PURPOSES
 
@@ -758,7 +748,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The term ‘Bilateral Destruction Agreement’ means the Agreement Between the United States of America and the Union of Soviet Socialist Republics on Destruction and Non-production of Chemical Weapons and on Measures to Facilitate the Multilateral Convention on Banning Chemical Weapons signed on June 1, 1990.
 
-&emsp;“(2) The term ‘Wyoming Memorandum of Understanding’ means the Memorandum of UnderstandingBetween the Government of the United States of America and the Government of the Union of Soviet Socialist Republics Regarding a Bilateral Verification Experiment and Data Exchange Related to Prohibition on Chemical Weapons, signed at Jackson Hole, Wyoming, on September 23, 1989.”
+&emsp;“(2) The term ‘Wyoming Memorandum of Understanding’ means the Memorandum of Understanding Between the Government of the United States of America and the Government of the Union of Soviet Socialist Republics Regarding a Bilateral Verification Experiment and Data Exchange Related to Prohibition on Chemical Weapons, signed at Jackson Hole, Wyoming, on September 23, 1989.”
 
 \[Memorandum of President of the United States, July 16, 1999, 64 F.R. 40503, delegated to Secretary of Defense authority of President under section 1304(b)(2) of Public Law 105–261, set out above.\]
 
@@ -786,9 +776,7 @@ Description of Purpose and Intent.—The descriptive summary required under subs
 
 #### Authority To Conduct Program Relating to Fissile Materials
 
-Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617, as amended by Pub. L. 107–314, div. C, title XXXI, §3152, Dec. 2, 2002, 116 Stat. 2738, provided that:
-
-“The Secretary of Energy may conduct programs designed to improve the protection, control, and accountability of fissile materials in Russia.”
+Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617, as amended by Pub. L. 107–314, div. C, title XXXI, §3152, Dec. 2, 2002, 116 Stat. 2738, which was formerly set out as a note under this section, was renumbered section 4305 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(6), Nov. 24, 2004, 117 Stat. 1763, and is classified to section 2565 of Title 50, War and National Defense.
 
 #### Definition of Cooperative Threat Reduction Programs for Purposes of Pub. L. 103–337
 
@@ -836,13 +824,31 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Waiver of Restrictions on Assistance to Russia Under the Cooperative Threat Reduction Act of 1993 and Title V of the FREEDOM Support Act
 
-Determination of President of the United States, No. 03–11, Jan. 10, 2003, 68 F.R. 2419, provided:
+Determination of President of the United States, No. 2004–08, Nov. 7, 2003, 68 F.R. 65383, provided:
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority vested in me by section 1306 of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2003 with respect to the Russian Federation is important to the national security interests of the United States.
+Consistent with the authority vested in me by section 1306 of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2004 with respect to the Russian Federation is important to the national security interests of the United States.
 
-I have enclosed the unclassified report described in section 1306(b)(1) of the National Defense Authorization Act for Fiscal Year 2003, together with a classified annex \[not set out in the Code\].
+I have enclosed the unclassified report described in section 1306(b)(1) of the National Defense Authorization Act for Fiscal Year 2003, together with a classified annex.
+
+You are authorized and directed to transmit this certification and report with its classified annex to the Congress and to arrange for the publication of this certification in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior determinations and certifications for Russia were contained in the following:
+
+Determination of the President of the United States, No. 03–11, Jan. 10, 2003, 68 F.R. 2419.
+
+#### Waiver of Restrictions on Assistance to the Republic of Uzbekistan under the Cooperative Threat Reduction Act of 1993 and Title V of the FREEDOM Support Act
+
+Determination of President of the United States, No. 2004–19, Dec. 30, 2003, 69 F.R. 2479, provided:
+
+Memorandum for the Secretary of State
+
+Consistent with the authority vested in me by section 1306 of the National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) \[amending this section and enacting provisions set out as a note above\], I hereby certify that waiving the restrictions contained in subsection (d) of section 1203 of the Cooperative Threat Reduction Act of 1993 (22 U.S.C. 5952), as amended, and the requirements contained in section 502 of the FREEDOM Support Act (22 U.S.C. 5852) during Fiscal Year 2004 with respect to the Republic of Uzbekistan is important to the national security interests of the United States.
+
+I have enclosed the unclassified report described in section 1306(b)(1) of the National Defense Authorization Act for Fiscal Year 2003, together with a classified annex.
 
 You are authorized and directed to transmit this certification and report with its classified annex to the Congress and to arrange for the publication of this certification in the Federal Register.
 

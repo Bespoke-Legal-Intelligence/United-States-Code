@@ -1,8 +1,8 @@
 ### §1103. Powers and duties of the Secretary, the Under Secretary, and the Attorney General
 
-#### (a) Administration and enforcement
+#### (a) Secretary of Homeland Security
 
-(1) The Attorney General shall be charged with the administration and enforcement of this chapter and all other laws relating to the immigration and naturalization of aliens, except insofar as this chapter or such laws relate to the powers, functions, and duties conferred upon the President, Attorney General, the Secretary of State, the officers of the Department of State, or diplomatic or consular officers: <i>Provided, however</i>, That determination and ruling by the Attorney General with respect to all questions of law shall be controlling.
+(1) The Secretary of Homeland Security shall be charged with the administration and enforcement of this chapter and all other laws relating to the immigration and naturalization of aliens, except insofar as this chapter or such laws relate to the powers, functions, and duties conferred upon the President, Attorney General, the Secretary of State, the officers of the Department of State, or diplomatic or consular officers: <i>Provided, however</i>, That determination and ruling by the Attorney General with respect to all questions of law shall be controlling.
 
 (2) He shall have control, direction, and supervision of all employees and of all the files and records of the Service.
 
@@ -20,7 +20,7 @@
 
 (9) Those officers may exercise such authority and perform such duties as United States immigration officers are authorized to exercise and perform in that foreign country under reciprocal agreement, and they shall enjoy such reasonable privileges and immunities necessary for the performance of their duties as the government of their country extends to United States immigration officers.
 
-(10) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
+(10) In the event the Attorney General determines that an actual or imminent mass influx ofaliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this chapter or regulations issued thereunder upon officers or employees of the Service.
 
 (11) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
 
@@ -70,7 +70,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 &emsp;The Attorney General shall establish such regulations, prescribe such forms of bond, reports, entries, and other papers, issue such instructions, review such administrative determinations in immigration proceedings, delegate such authority, and perform such other acts as the Attorney General determines to be necessary for carrying out this section.
 
-(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104 Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273.)
+(June 27, 1952, ch. 477, title I, §103, 66 Stat. 173; Pub. L. 100–525, §9(c), Oct. 24, 1988, 102 Stat. 2619; Pub. L. 101–649, title I, §142, Nov. 29, 1990, 104Stat. 5004; Pub. L. 104–208, div. C, title I, §§102(d), 125, 134(a), title III, §§308(d)(4)(C), (e)(4), 372, 373, Sept. 30, 1996, 110 Stat. 3009–555, 3009–562, 3009–564, 3009–618, 3009–620, 3009–646, 3009–647; Pub. L. 107–296, title XI, §1102, Nov. 25, 2002, 116 Stat. 2273; Pub. L. 108–7, div. L, §105(a)(1), (2), Feb. 20, 2003, 117 Stat. 531.)
 
 #### References in Text
 
@@ -82,11 +82,19 @@ The Immigration Reform, Accountability and Security Enhancement Act of 2002, ref
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–7, §105(a)(1), amended Pub. L. 107–296, §1102(2). See 2002 Amendment notes below.
+
+Pub. L. 108–7, §105(a)(2), which directed the amendment of Pub. L. 107–296, was executed to section 1102(2) of Pub. L. 107–296, to reflect the probable intent of Congress. See 2002 Amendment notes below.
+
 2002—Pub. L. 107–296, §1102(1), amended section catchline generally.
 
-Subsec. (a)(1). Pub. L. 107–296, §1102(2)(A), inserted “Attorney General,” after “President,”.
+Subsec. (a). Pub. L. 107–296, §1102(2)(A), as added by Pub. L. 108–7, §105(a)(1), which directed the substitution of “Secretary of Homeland Security” for “Attorney General” in heading, was executed by inserting “Secretary of Homeland Security” as heading, to reflect the probable intent of Congress.
 
-Subsec. (a)(8) to (11). Pub. L. 107–296, §1102(2)(B), redesignated par. (8), relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving, and par. (9), relating to Attorney General authority to support administrative detention of persons in non-Federal institutions, as pars. (10) and (11), respectively.
+Subsec. (a)(1). Pub. L. 107–296, §1102(2)(B), as added by Pub. L. 108–7, §105(a)(1), substituted “The Secretary of Homeland Security” for “The Attorney General”.
+
+Pub. L. 107–296, §1102(2)(C), formerly §1102(2)(A), as redesignated by Pub. L. 108–7, §105(a)(2), inserted “Attorney General,” after “President,”. See 2003 Amendment note above.
+
+Subsec. (a)(8) to (11). Pub. L. 107–296, §1102(2)(D), formerly §1102(2)(B), as redesignated by Pub. L. 108–7, §105(a)(2), redesignated par. (8), relating to Attorney General authorization of State and local law enforcement officers in event of mass influx of aliens arriving, and par. (9), relating to Attorney General authority to support administrative detention of persons in non-Federal institutions, as pars. (10) and (11), respectively. See 2003 Amendment note above.
 
 Subsec. (g). Pub. L. 107–296, §1102(3), added subsec. (g).
 
@@ -124,7 +132,7 @@ Subsec. (b). Pub. L. 100–525, §9(c)(2), struck out provision that Commissione
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective on the date of the transfer of functions from the Commissioner of Immigration and Naturalization to officials of the Department of Homeland Security (Mar. 1, 2003), see section 1104 of Pub. L. 107–296, as added by Pub. L. 108–7, set out as an Effective Date note under section 521 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 
@@ -186,7 +194,7 @@ Section 106(a), (b) of div. C of Pub. L. 104–208 provided that:
 
 “(a)
 
-Review of Hiring Standards.—Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a reviewof all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure that they are consistent with relevant standards of professionalism.
+Review of Hiring Standards.—Not later than 60 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall complete a review of all prescreening and hiring standards used by the Commissioner of Immigration and Naturalization, and, where necessary, revise such standards to ensure that they are consistent with relevant standards of professionalism.
 
 “(b)
 
@@ -275,7 +283,7 @@ Hiring of Investigative Agents.—
 
 Pub. L. 99–570, title I, §1751(e), Oct. 27, 1986, 100 Stat. 3207–48, provided that:
 
-“(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens whohave been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The Attorney General shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
+“(1) From the sums appropriated to carry out this Act, the Attorney General, through the Investigative Division of the Immigration and Naturalization Service, shall provide a pilot program in 4 cities to establish or improve the computer capabilities of the local offices of the Service and of local law enforcement agencies to respond to inquiries concerning aliens who have been arrested or convicted for, or are the subject to criminal investigation relating to, a violation of any law relating to controlled substances. The Attorney General shall select cities in a manner that provides special consideration for cities located near the land borders of the United States and for large cities which have major concentrations of aliens. Some of the sums made available under the pilot program shall be used to increase the personnel level of the Investigative Division.
 
 “(2) At the end of the first year of the pilot program, the Attorney General shall provide for an evaluation of the effectiveness of the program and shall report to Congress on such evaluation and on whether the pilot program should be extended or expanded.”
 

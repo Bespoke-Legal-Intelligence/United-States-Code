@@ -4,7 +4,7 @@
 
 &emsp;(1) the necessary expenses of members of a regular or reserve component of the Army or the Air Force traveling on duty in connection with the National Guard;
 
-&emsp;(2) the necessary expenses of officers of the Regular Army or the Regular Air Force on duty in the National Guard Bureau or with the Army General Staff or the Air Staff, traveling to and from annual conventions of the National Guard Association of the United States or the Adjutants General Association;
+&emsp;(2) the necessary expenses of members of the Regular Army or the Regular Air Force on duty in the National Guard Bureau or with the Army Staff or the Air Staff, traveling to and from annual conventions of the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States, or the Adjutants General Association;
 
 &emsp;(3) the transportation of supplies furnished to the National Guard as permanent equipment;
 
@@ -22,7 +22,7 @@
 
 (c) The pay and allowances for the Chief of the National Guard Bureau and officers of the Army National Guard of the United States or the Air National Guard of the United States called to active duty under section 12402 of title 10 shall be paid from appropriations for the pay of the Army National Guard or Air National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, §4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, §1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, §2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, §1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; (As amended Pub. L. 105–85, div. A, title VI, §603(d)(4), Nov. 18, 1997, 111 Stat. 1783.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, §4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, §1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, §2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, §1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 105–85, div. A, title VI, §603(d)(4), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 108–136, div. A, title V, §514(a), Nov. 24, 2003, 117 Stat. 1460.)
 
 Historical and Revision Notes<br>1956
 
@@ -80,6 +80,8 @@ The work “appropriations” is substituted for “funds appropriated” for co
 
 #### Amendments
 
+2003—Subsec. (a)(2). Pub. L. 108–136 substituted “members” for “officers”, “Army Staff” for “Army General Staff”, and “the Enlisted Association of the National Guard of the United States, the National Guard Association of the United States,” for “the National Guard Association of the United States”.
+
 1997—Subsec. (b). Pub. L. 105–85 substituted “and housing” for “and quarters”.
 
 1994—Subsec. (c). Pub. L. 103–337 substituted “12402” for “3496 or 8496”.
@@ -95,6 +97,10 @@ Subsec. (a). Pub. L. 92–119, §1(a)(2), (3), (4), redesignated subsec. (b) as 
 Subsecs. (b), (c). Pub. L. 92–119, §1(a)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a) and amended.
 
 1967—Subsec. (c). Pub. L. 90–83 substituted “402 and 403” for “251 and 252”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title V, §514(b), Nov. 24, 2003, 117 Stat. 1460, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply with respect to funds appropriated for a fiscal year before fiscal year 2004.”
 
 #### Effective Date of 1997 Amendment
 

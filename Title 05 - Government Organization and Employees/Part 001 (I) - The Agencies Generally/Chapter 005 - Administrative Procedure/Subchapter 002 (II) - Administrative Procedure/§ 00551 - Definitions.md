@@ -148,7 +148,7 @@ Pub. L. 106–544, §7, Dec. 19, 2000, 114 Stat. 2719, provided that:
 
 “(a)
 
-Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General, in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
+Study on Use of Administrative Subpoenas.—Not later than December 31, 2001, the Attorney General,in consultation with the Secretary of the Treasury, shall complete a study on the use of administrative subpoena power by executive branch agencies or entities and shall report the findings to the Committees on the Judiciary of the Senate and the House of Representatives. Such report shall include—
 
 &emsp;“(1) a description of the sources of administrative subpoena power and the scope of such subpoena power within executive branch agencies;
 

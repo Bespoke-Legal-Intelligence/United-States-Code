@@ -112,7 +112,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan to which this subparagraph applies shall not be treated as failing to meetthe requirements of this subsection or section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that the participant entitled to a distribution has a right to receive the distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).
+&emsp;&emsp;&emsp;A plan to which this subparagraph applies shall not be treated as failing to meet the requirements of this subsection or section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that the participant entitled to a distribution has a right to receive the distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).
 
 #### (ii) Applicable plans
 
@@ -124,7 +124,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (3) Special rule for banks
 
-&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
+&emsp;In the case of a plan established and maintained by a bank (as defined in section 581)which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
 
 #### (4) Put option period
 
@@ -238,7 +238,7 @@ No gain or loss shall be recognized to the taxpayer with respect to the transfer
 
 #### (1) In general
 
-&emsp;A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of)employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
+&emsp;A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
 
 &emsp;&emsp;(A) during the nonallocation period, for the benefit of—
 
@@ -490,7 +490,7 @@ A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974,
 
 2001—Subsecs. (p), (q). Pub. L. 107–16, §§656(a), 901, temporarily added subsec. (p) and redesignated former subsec. (p) as (q). See Effective and Termination Dates of 2001 Amendment note below.
 
-1997—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charteror bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
+1997—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
 
 1989—Subsec. (<i>l</i>)(5). Pub. L. 101–239, §7811(h)(1), substituted “the second sentence” for “the last sentence”.
 
@@ -664,7 +664,7 @@ Section 1174(a)(2) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I
 
 Section 1174(b)(3) of Pub. L. 99–514 provided that: “The amendments made by this subsection \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986.”
 
-Section 1174(c)(1)(B) of Pub. L. 99–514 provided that: “The amendment made by this paragraph \[amendingthis section\] shall apply to distributions attributable to stock acquired after December 31, 1986, except that a plan may elect to have such amendment apply to all distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1174(c)(1)(B) of Pub. L. 99–514 provided that: “The amendment made by this paragraph \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986, except that a plan may elect to have such amendment apply to all distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1176(b) of Pub. L. 99–514 applicable to acquisitions of securities after Dec. 31, 1986, see section 1176(c) of Pub. L. 99–514, set out as a note under section 401 of this title.
 

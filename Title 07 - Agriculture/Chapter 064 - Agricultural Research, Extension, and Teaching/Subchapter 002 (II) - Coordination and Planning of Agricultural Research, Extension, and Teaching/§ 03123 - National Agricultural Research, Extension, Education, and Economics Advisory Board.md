@@ -42,7 +42,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 &emsp;&emsp;(L) 1 member representing a national nutritional science society.
 
-&emsp;&emsp;(M) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
+&emsp;&emsp;(M) 1 member representing the land-grant colleges and universities eligible to receivefunds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
 
 &emsp;&emsp;(N) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
 
@@ -122,7 +122,7 @@ The Advisory Board shall—
 
 #### (2) Duties of Secretary
 
-&emsp;To comply with a provision of this chapter or any other law that requires the Secretary to consult or cooperate with the Advisory Board or that authorizes the Advisory Board to submit recommendations to the Secretary, the Secretary shall—
+&emsp;To comply with a provision of this chapter or any other law that requires the Secretary to consult or cooperate with the Advisory Board or that authorizes the Advisory Boardto submit recommendations to the Secretary, the Secretary shall—
 
 &emsp;&emsp;(A) solicit the written opinions and recommendations of the Advisory Board; and
 

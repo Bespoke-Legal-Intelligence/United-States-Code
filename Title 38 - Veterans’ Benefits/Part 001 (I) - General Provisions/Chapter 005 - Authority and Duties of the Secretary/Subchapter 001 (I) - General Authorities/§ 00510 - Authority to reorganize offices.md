@@ -14,7 +14,7 @@
 
 &emsp;(1) by 15 percent or more; or
 
-&emsp;(2) by a percent which, when added to the percent reduction made in the number of such employees with permanent duty stations at such office or facility during the preceding fiscal year, is 25 percent or more.
+&emsp;(2) by a percent which, when added to the percent reduction made in the number of suchemployees with permanent duty stations at such office or facility during the preceding fiscal year, is 25 percent or more.
 
 (d)(1) Not less than 30 days before the date on which the implementation of any administrative reorganization described in paragraph (2) of a unit in the Central Office is to begin, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a notification regarding the reorganization.
 
@@ -62,7 +62,7 @@ Authority for Administrative Reorganization.—The Secretary of Veterans Affairs
 
 “(b)
 
-Specified Reorganization.—Subsection (a) applies to the organizational realignment of management responsibility for the Department of Veterans Affairs Data Processing Centers, together with the corresponding organizational realignment of associated Information Resources Management operational components and functions within the Department of Veterans Affairs central office, as such realignment was describedin the detailed plan and justification submitted by the Secretary of Veterans Affairs in \[sic\] January 4, 1991, letters to the Chairmen of the Committees on Veterans’ Affairs of the Senate and the House of Representatives.”
+Specified Reorganization.—Subsection (a) applies to the organizational realignment of management responsibility for the Department of Veterans Affairs Data Processing Centers, together with the corresponding organizational realignment of associated Information Resources Management operational components and functions within the Department of Veterans Affairs central office, as such realignment was described in the detailed plan and justification submitted by the Secretary of Veterans Affairs in \[sic\] January 4, 1991, letters to the Chairmen of the Committees on Veterans’ Affairs of the Senate and the House of Representatives.”
 
 #### Inapplicability of Restrictions
 

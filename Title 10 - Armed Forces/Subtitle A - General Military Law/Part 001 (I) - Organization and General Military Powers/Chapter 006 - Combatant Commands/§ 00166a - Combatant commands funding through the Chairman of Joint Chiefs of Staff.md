@@ -2,7 +2,7 @@
 
 (a)
 
-CINC Initiative Fund.—From funds made available in any fiscal year for the budget account in the Department of Defense known as the “CINC Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
+Combatant Commander Initiative Fund.—From funds made available in any fiscal year for the budget account in the Department of Defense known as the “Combatant Commander Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
 
 (b)
 
@@ -26,9 +26,11 @@ Authorized Activities.—Activities for which funds may be provided under subsec
 
 &emsp;(9) Force protection.
 
+&emsp;(10) Joint warfighting capabilities.
+
 (c)
 
-Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to—
+Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combatant Commander Initiative Fund, should give priority consideration to—
 
 &emsp;(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
 
@@ -36,17 +38,17 @@ Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests f
 
 (d)
 
-Relationship to Other Funding.—Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the CINC Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
+Relationship to Other Funding.—Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the Combatant Commander Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 
 (e)
 
 Limitations.—(1) Of funds made available under this section for any fiscal year—
 
-&emsp;(A) not more than $7,000,000 may be used to purchase items with a unit cost in excess of $15,000;
+&emsp;(A) not more than $10,000,000 may be used to purchase items with a unit cost in excess of $15,000;
 
-&emsp;(B) not more than $1,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
+&emsp;(B) not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
 
-&emsp;(C) not more than $2,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
+&emsp;(C) not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
 
 (2) Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 
@@ -54,9 +56,25 @@ Limitations.—(1) Of funds made available under this section for any fiscal yea
 
 Inclusion of NORAD.—For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
 
-(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854.)
+(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §902(a)(2), substituted “
+
+Combatant Commander Initiative Fund” for “
+
+CINC Initiative Fund” in heading and “Combatant Commander Initiative Fund” for “CINC Initiative Fund” in first sentence.
+
+Subsec. (b)(10). Pub. L. 108–136, §902(b), added par. (10).
+
+Subsecs. (c), (d). Pub. L. 108–136, §902(a)(2)(B), substituted “Combatant Commander Initiative Fund” for “CINC Initiative Fund”.
+
+Subsec. (e)(1)(A). Pub. L. 108–136, §902(c)(1), substituted “$10,000,000” for “$7,000,000”.
+
+Subsec. (e)(1)(B). Pub. L. 108–136, §902(c)(2), substituted “$10,000,000” for “$1,000,000”.
+
+Subsec. (e)(1)(C). Pub. L. 108–136, §902(c)(3), substituted “$5,000,000” for “$2,000,000”.
 
 1997—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 
@@ -89,4 +107,12 @@ Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests f
 Subsec. (e)(1)(C). Pub. L. 102–484, §934(d), amended subpar. (C) generally. Prior to amendment, subsec. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
 
 Pub. L. 102–396, §9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
+
+#### Redesignation of CINC Initiative Fund
+
+Pub. L. 108–136, div. A, title IX, §902(a)(1), (3), Nov. 24, 2003, 117 Stat. 1558, provided that:
+
+“(1) The CINC Initiative Fund administered under section 166a of title 10, United States Code, is redesignated as the ‘Combatant Commander Initiative Fund’.
+
+“(3) Any reference to the CINC Initiative Fund in any other provision of law or in any regulation, document, record, or other paper of the United States shall be considered to be a reference to the Combatant Commander Initiative Fund.”
 

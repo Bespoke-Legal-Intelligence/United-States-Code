@@ -47,6 +47,44 @@
 
 The source of most sections of this chapter is the Revised Statutes enacted in 1873 and other early statutes. The Revised Statutes can no longer apply to contiguous territory because no such territory now exists. As to noncontiguous territory, Guam, Puerto Rico, and the Virgin Islands each has its own organic act, providing a complete system of government, legislative, executive, and judicial. The Canal Zone has its own code of laws. The independence of the Philippine Islands was recognized by Proc. No. 2695, eff. July 4, 1946, set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse. The other possessions, such as Samoa, are covered by special provisions set out elsewhere in this title.
 
+#### Ex. Ord. No. 13299. Interagency Group on Insular Areas
+
+Ex. Ord. No. 13299, May 12, 2003, 68 F.R. 25477, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Interagency Group on Insular Areas</i>. (a) There is established, within the Department of the Interior for administrative purposes, the Interagency Group on Insular Areas (IGIA). The group shall consist exclusively of:
+
+(i) the heads of the executive departments; and
+
+(ii) the heads of such agencies as the Secretary of the Interior may designate.
+
+(b) The Secretary of the Interior, or the Secretary's designee under section 1(c) of this order, shall convene and preside at the meetings of the IGIA, determine its agenda, direct its work and, as appropriate to deal with particular subject matters, establish and direct subgroups of the IGIA that shall consist exclusively of members of the IGIA.
+
+(c) A member of the IGIA may designate, to perform the IGIA or IGIA subgroup functions of the member, any person who is a part of the member's department or agency (agency) and who is either an officer of the United States appointed by the President or a member of the Senior Executive Service.
+
+Sec. 2. <i>Functions of the IGIA</i>. The IGIA shall:
+
+(a) provide advice on establishment or implementation of policies concerning American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of Northern Mariana Islands (Insular Areas) to:
+
+(i) the President, through the Office of Intergovernmental Affairs in the White House Office, in written reports, at least once each year; and
+
+(ii) the Secretary of the Interior;
+
+(b) obtain information and advice concerning Insular Areas from governors and other elected officials in the Insular Areas (including through a meeting at least once each year with such governors of the Insular Areas who may wish to attend) in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+
+(c) obtain information and advice concerning Insular Areas, as the IGIA determines appropriate, from representatives of entities or other individuals in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation; and
+
+(d) at the request of the head of any agency who is a member of the IGIA, unless the Secretary of the Interior declines the request, promptly review and provide advice on a policy or policy implementation action affecting one of the Insular Areas proposed by that agency.
+
+Sec. 3. <i>General Provisions</i>. (a) The Secretary of the Interior may, as the Secretary determines appropriate, make recommendations to the President, or to the heads of agencies, regarding policy or policy implementation actions of the Federal Government affecting the Insular Areas.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
+
+Sec. 4. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 

@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) neotropical migratory bird species provide invaluable environmental, economic, recreational, and aesthetic benefits to the United States, as well as to the Western Hemisphere;
 
-&emsp;(3)(A) many neotropical migratory bird populations, once considered common, are in decline, and some have declined to the pointthat their long-term survival in the wild is in jeopardy; and
+&emsp;(3)(A) many neotropical migratory bird populations, once considered common, are in decline, and some have declined to the point that their long-term survival in the wild is in jeopardy; and
 
 &emsp;(B) the primary reason for the decline in the populations of those species is habitat loss and degradation (including pollution and contamination) across the species’ range; and
 

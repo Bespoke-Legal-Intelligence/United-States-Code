@@ -38,7 +38,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretaryshall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 

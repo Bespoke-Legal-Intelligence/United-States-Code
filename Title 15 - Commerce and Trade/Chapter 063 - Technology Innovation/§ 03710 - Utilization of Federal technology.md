@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-(1) It is the continuing responsibility of the Federal Government to ensure the full use of the results of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
+(1) It is the continuing responsibility of the Federal Government to ensure the full use of theresults of the Nation's Federal investment in research and development. To this end the Federal Government shall strive where appropriate to transfer federally owned or originated technology to State and local governments and to the private sector.
 
 (2) Technology transfer, consistent with mission responsibilities, is a responsibility of each laboratory science and engineering professional.
 
@@ -50,7 +50,7 @@ The National Technical Information Service shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
-&emsp;(B) furnish advice and assistance requested by Federal agencies and laboratories for use in their technology transfer programs (including the planning of seminars for small business and other industry);
+&emsp;(B) furnish advice and assistance requested by Federal agencies and laboratories for use in their technology transfer programs (includingthe planning of seminars for small business and other industry);
 
 &emsp;(C) provide a clearinghouse for requests, received at the laboratory level, for technical assistance from States and units of local governments, businesses, industrial development organizations, not-for-profit organizations including universities, Federal agencies and laboratories, and other persons, and—
 
@@ -68,7 +68,7 @@ The National Technical Information Service shall—
 
 &emsp;(H) facilitate communication and cooperation between Offices of Research and Technology Applications of Federal laboratories and regional, State, and local technology transfer organizations;
 
-&emsp;(I) when requested, assist colleges or universities, businesses, nonprofit organizations, State or local governments, or regional organizations to establish programs to stimulate research and to encourage technology transferin such areas as technology program development, curriculum design, long-term research planning, personnel needs projections, and productivity assessments;
+&emsp;(I) when requested, assist colleges or universities, businesses, nonprofit organizations, State or local governments, or regional organizations to establish programs to stimulate research and to encourage technology transfer in such areas as technology program development, curriculum design, long-term research planning, personnel needs projections, and productivity assessments;
 
 &emsp;(J) seek advice in each Federal laboratory consortium region from representatives of State and local governments, large and small business, universities, and other appropriate persons on the effectiveness of the program (and any such advice shall be provided at no expense to the Government); and
 
@@ -94,7 +94,7 @@ The National Technical Information Service shall—
 
 #### (1) In general
 
-&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to the Office of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
+&emsp;Each Federal agency which operates or directs one or more Federal laboratories or which conducts activities under sections 207 and 209 of title 35 shall report annually to theOffice of Management and Budget, as part of the agency's annual budget submission, on the activities performed by that agency and its Federal laboratories under the provisions of this section and of sections 207 and 209 of title 35.
 
 #### (2) Contents
 
@@ -186,7 +186,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (h), 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectualproperty rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
+2000—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
 
 Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
 
@@ -294,7 +294,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patents made in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
 
-(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
+(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements nowin effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
 
 (6) implement, as expeditiously as practicable, royalty-sharing programs with inventors who were employees of the agency at the time their inventions were made, and cash award programs; and
 
@@ -308,7 +308,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 (c) Limit its participation in any consortium so established to the use of laboratory personnel and facilities. However, each laboratory may also provide financial support generally not to exceed 25 percent of the total budget for the activities of the consortium. Such financial support by any laboratory in all such consortia shall be limited to a maximum of $5 million per annum.
 
-Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers inFederal laboratories may take temporary assignments in the private sector.
+Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
 
 Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from and fully exploits scientific research and technology developed abroad,
 

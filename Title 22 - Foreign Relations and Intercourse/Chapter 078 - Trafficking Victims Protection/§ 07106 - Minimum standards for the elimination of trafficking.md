@@ -16,7 +16,7 @@ For purposes of this chapter, the minimum standards for the elimination of traff
 
 In determinations under subsection (a)(4) of this section, the following factors should be considered as indicia of serious and sustained efforts to eliminate severe forms of trafficking in persons:
 
-&emsp;(1) Whether the government of the country vigorously investigates and prosecutes acts of severe forms of trafficking in persons that take place wholly or partly within the territory of the country.
+&emsp;(1) Whether the government of the country vigorously investigates and prosecutes acts of severe forms of trafficking in persons, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country. After reasonable requests from the Department of State for data regarding investigations, prosecutions, convictions, and sentences, a government which does not provide such data, consistent with the capacity of such government to obtain such data, shall be presumed not to have vigorously investigated, prosecuted, convicted or sentenced such acts. During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.
 
 &emsp;(2) Whether the government of the country protects victims of severe forms of trafficking in persons and encourages their assistance in the investigation and prosecution of such trafficking, including provisions for legal alternatives to their removal to countries in which they would face retribution or hardship, and ensures that victims are not inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts as a direct result of being trafficked.
 
@@ -28,11 +28,25 @@ In determinations under subsection (a)(4) of this section, the following factors
 
 &emsp;(6) Whether the government of the country monitors immigration and emigration patterns for evidence of severe forms of trafficking in persons and whether law enforcement agencies of the country respond to any such evidence in a manner that is consistent with the vigorous investigation and prosecution of acts of such trafficking, as well as with the protection of human rights of victims and the internationally recognized human right to leave any country, including one's own, and to return to one's own country.
 
-&emsp;(7) Whether the government of the country vigorously investigates and prosecutes public officials who participate in or facilitate severe forms of trafficking in persons, and takes all appropriate measures against officials who condone such trafficking.
+&emsp;(7) Whether the government of the country vigorously investigates, prosecutes, convicts, and sentences public officials who participate in or facilitate severe forms of trafficking in persons, and takes all appropriate measures against officials who condone such trafficking. After reasonable requests from the Department of State for data regarding such investigations, prosecutions, convictions, and sentences, a government which does not provide such data consistent with its resources shall be presumed not to have vigorously investigated, prosecuted, convicted, or sentenced such acts. During the periods prior to the annual report submitted on June 1, 2004, and on June 1, 2005, and the periods afterwards until September 30 of each such year, the Secretary of State may disregard the presumption contained in the preceding sentence if the government has provided some data to the Department of State regarding such acts and the Secretary has determined that the government is making a good faith effort to collect such data.
 
-(Pub. L. 106–386, div. A, §108, Oct. 28, 2000, 114 Stat. 1480.)
+&emsp;(8) Whether the percentage of victims of severe forms of trafficking in the country that are non-citizens of such countries is insignificant.
+
+&emsp;(9) Whether the government of the country, consistent with the capacity of such government, systematically monitors its efforts to satisfy the criteria described in paragraphs (1) through (8) and makes available publicly a periodic assessment of such efforts.
+
+&emsp;(10) Whether the government of the country achieves appreciable progress in eliminating severe forms of trafficking when compared to the assessment in the previous year.
+
+(Pub. L. 106–386, div. A, §108, Oct. 28, 2000, 114 Stat. 1480; Pub. L. 108–193, §6(d), Dec. 19, 2003, 117 Stat. 2881.)
+
+#### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–193, §6(d)(1), substituted “, and convicts and sentences persons responsible for such acts, that take place wholly or partly within the territory of the country” for “that take place wholly or partly within the territory of the country” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
+
+Subsec. (b)(7). Pub. L. 108–193, §6(d)(2), substituted “, prosecutes, convicts, and sentences” for “and prosecutes” and inserted two sentences at end relating to presumption that foreign government has not vigorously investigated, prosecuted, convicted or sentenced acts of severe forms of trafficking in persons and disregard of presumption by Secretary of State under certain circumstances.
+
+Subsec. (b)(8) to (10). Pub. L. 108–193, §6(d)(3), added pars. (8) to (10).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7102 of this title.
+This section is referred to in sections 7102, 7110 of this title.
 

@@ -34,17 +34,17 @@ Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This
 
 #### Short Title
 
-Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426<i>o</i>, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the ‘Water Resources Development Act of 1986’.”
+Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426<i>o</i>, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out asnotes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the ‘Water Resources Development Act of 1986’.”
 
 Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
 
 #### Funding to Process Permits
 
-Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, provided that:
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836, provided that:
 
 “(a)
 
-In General.—In fiscal years 2001 through 2003, the Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.
+In General.—In fiscal years 2001 through 2005, the Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.
 
 “(b)
 

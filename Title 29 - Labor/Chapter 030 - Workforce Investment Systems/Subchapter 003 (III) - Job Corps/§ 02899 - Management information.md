@@ -70,11 +70,11 @@
 
 #### (2) Performance of recruiters
 
-&emsp;The Secretary shall also establish performance measures, and expected performance levels on the performance measures, for local and national recruitment service providers serving the Job Corps program. The performance measures shall relate to the number of enrollees retained in the Job Corps program for 30 days and for 60 days after initial placement in the program.
+&emsp;The Secretary shall also establish performance measures, and expected performance levels on the performance measures, for local and national recruitment service providers serving the Job Corps program. The performance measures shall relate to the number of enrollees retained in the Job Corps program for 30days and for 60 days after initial placement in the program.
 
 #### (3) Report
 
-&emsp;The Secretary shall collect, and annually submit a report to the appropriate committees of Congress containing, information on the performance of each Job Corps center, and the Job Corps program, on the core performance measures, as compared to the expected performance level for each performance measure. The report shall also contain information on the performance of the service providers described in paragraph (2) on the performancemeasures established under such paragraph, as compared to the expected performance levels for the performance measures.
+&emsp;The Secretary shall collect, and annually submit a report to the appropriate committees of Congress containing, information on the performance of each Job Corps center, and the Job Corps program, on the core performance measures, as compared to the expected performance level for each performance measure. The report shall also contain information on the performance of the service providers described in paragraph (2) on the performance measures established under such paragraph, as compared to the expected performance levels for the performance measures.
 
 #### (d) Additional information
 

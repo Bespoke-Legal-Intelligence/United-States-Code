@@ -58,7 +58,7 @@ Subsec. (c). Pub. L. 96–513, §512(18)(A), substituted “United States Soldie
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 #### Effective Date of 1980 Amendment
 

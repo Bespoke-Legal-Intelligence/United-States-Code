@@ -14,9 +14,13 @@
 
 &emsp;(5) Replacement housing units constructed under section 2825(c) of this title.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 158; amended Pub. L. 98–525, title XIV, §1405(44), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 100–180, div. B, subdiv. 3, title I, §2308, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–510, div. A, title XIII, §1301(17), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–25, title VII, §701(j)(9), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. B, title XXVIII, §2802(b), Oct. 23, 1992, 106 Stat. 2606.)
+&emsp;(6) Housing units constructed or provided under section 2869 of this title.
+
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 158; amended Pub. L. 98–525, title XIV, §1405(44), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 100–180, div. B, subdiv. 3, title I, §2308, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–510, div. A, title XIII, §1301(17), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–25, title VII, §701(j)(9), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. B, title XXVIII, §2802(b), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 108–136, div. B, title XXVIII, §2805(b), Nov. 24, 2003, 117 Stat. 1721.)
 
 #### Amendments
+
+2003—Subsec. (b)(6). Pub. L. 108–136 added par. (6).
 
 1992—Subsec. (b)(5). Pub. L. 102–484 added par. (5).
 

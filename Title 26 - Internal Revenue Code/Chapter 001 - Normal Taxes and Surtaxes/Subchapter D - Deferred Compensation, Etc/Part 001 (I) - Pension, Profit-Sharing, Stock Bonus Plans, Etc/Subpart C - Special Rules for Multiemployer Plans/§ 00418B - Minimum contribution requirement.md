@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 418(b)(4)(A)(ii) (determined without regard to section 418(b)(4)(B)(ii)), and
 
-&emsp;&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase inthe value of vested benefits under the plan due to increases in benefits described in clause (i) over—
+&emsp;&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plan due to increases in benefits described in clause (i) over—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 years, to the extent such increase in value is attributable to persons in pay status, or
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;A plan is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) the rate of employer contributions under the plan for the first plan year beginning on or after the date on which an amendment increasing benefits is adopted, multiplied by the valuation contribution base for that plan year, equals or exceeds the sum of—
+&emsp;&emsp;&emsp;(i) the rate of employer contributions under the plan for the first plan year beginning on or after the date on which an amendment increasing benefits is adopted, multiplied by the valuation contributionbase for that plan year, equals or exceeds the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that would be necessary to amortize fully, in equal annual installments, by July 1, 1986, the unfunded vested benefits attributable to plan provisions in effect on July 1, 1977 (determined as of the last day of the base plan year); and
 

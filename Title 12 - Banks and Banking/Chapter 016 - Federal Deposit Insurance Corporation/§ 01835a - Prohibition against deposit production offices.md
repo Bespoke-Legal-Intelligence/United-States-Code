@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,<sup>1</sup> or any amendment made by this title <sup>1</sup> to any otherprovision of law, primarily for the purpose of deposit production.
+The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,<sup>1</sup> or any amendment made by this title <sup>1</sup> to any other provision of law, primarily for the purpose of deposit production.
 
 #### (b) Guidelines for meeting credit needs
 
@@ -30,7 +30,7 @@ Regulations issued under subsection (a) of this section shall include guidelines
 
 &emsp;&emsp;(B) whether the interstate branch was acquired under circumstances where there was a low loan-to-deposit ratio because of the nature of the acquired institution's business or loan portfolio;
 
-&emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have a higher concentration of commercial or credit card lending, trust services, or other specialized activities;
+&emsp;&emsp;(C) whether the interstate branch or branches of the out-of-State bank have ahigher concentration of commercial or credit card lending, trust services, or other specialized activities;
 
 &emsp;&emsp;(D) the ratings received by the out-of-State bank under the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\];
 

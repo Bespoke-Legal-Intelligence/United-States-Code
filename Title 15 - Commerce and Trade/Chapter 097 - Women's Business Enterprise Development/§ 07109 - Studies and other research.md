@@ -18,7 +18,7 @@ Another prior section 409 of Pub. L. 100–533 was renumbered section 410 and is
 
 #### Amendments
 
-2000—Pub. L. 106–554 amended section catchline and text generally. Prior to amendment, text provided conditional authorization for the Council to conduct studies and research relating to the award of Federal prime contracts and subcontracts to women-owned businesses or to issues relating to access to credit and investment capital by women entrepreneurs and to contract with other entities to conduct such studies and research.
+2000—Pub. L. 106–554 amended section catchline and text generally. Prior to amendment, text provided conditional authorization for the Council to conduct studies and research relating to the award of Federal prime contracts and subcontracts to women-owned businessesor to issues relating to access to credit and investment capital by women entrepreneurs and to contract with other entities to conduct such studies and research.
 
 #### Effective Date
 

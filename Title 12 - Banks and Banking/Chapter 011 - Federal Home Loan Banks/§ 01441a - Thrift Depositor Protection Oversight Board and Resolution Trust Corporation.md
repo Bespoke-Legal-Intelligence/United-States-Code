@@ -3410,7 +3410,7 @@ Section 501(f) of Pub. L. 101–73 provided that: “Notwithstanding any other p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1422, 1441b, 1464, 1821, 1821a, 1831<i>o</i>, 1831q of this title; title 5 section 5373; title 10 section 2677; title 15 section 2227; title 26 sections 501, 597; title 31 section 5328; title 42 sections 1439, 1487, 8013.
+This section is referred to in sections 1422, 1441b, 1464, 1821, 1821a, 1831<i>o</i>, 1831q of this title; title 5 section 5373; title 15 section 2227; title 26 sections 501, 597; title 31 section 5328; title 42 sections 1439, 1487, 8013.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

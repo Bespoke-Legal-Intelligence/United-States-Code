@@ -10,7 +10,7 @@
 
 > any false or fictitious instrument, document, or other item appearing, representing, purporting, or contriving through scheme or artifice, to be an actual security or other financial instrument issued under the authority of the United States, a foreign government, a State or other political subdivision of the United States, or an organization, shall be guilty of a class B felony.
 
-(b) For purposes of this section, any term used in this section that is defined in section 513(c)has the same meaning given such term in section 513(c).
+(b) For purposes of this section, any term used in this section that is defined in section 513(c) has the same meaning given such term in section 513(c).
 
 (c) The United States Secret Service, in addition to any other agency having such authority, shall have authority to investigate offenses under this section.
 

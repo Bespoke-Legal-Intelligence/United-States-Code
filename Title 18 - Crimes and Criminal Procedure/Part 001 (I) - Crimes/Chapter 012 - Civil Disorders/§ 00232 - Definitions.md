@@ -6,7 +6,7 @@ For purposes of this chapter:
 
 (2) The term “commerce” means commerce (A) between any State or the District of Columbia and any place outside thereof; (B) between points within any State or the District of Columbia, but through any place outside thereof; or (C) wholly within the District of Columbia.
 
-(3) The term “federally protected function” means any function, operation, or action carried out, under the laws of the United States, by any department, agency, or instrumentality of the United States or by an officer or employee thereof; and such term shall specifically include, but not be limited to, the collection and distribution of the United States mails.
+(3) The term “federally protected function” means any function, operation, or action carriedout, under the laws of the United States, by any department, agency, or instrumentality of the United States or by an officer or employee thereof; and such term shall specifically include, but not be limited to, the collection and distribution of the United States mails.
 
 (4) The term “firearm” means any weapon which is designed to or may readily be converted to expel any projectile by the action of an explosive; or the frame or receiver of any such weapon.
 

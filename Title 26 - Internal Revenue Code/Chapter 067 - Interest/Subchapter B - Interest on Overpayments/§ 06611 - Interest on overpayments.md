@@ -18,13 +18,13 @@ Such interest shall be allowed and paid as follows:
 
 #### (3) Late returns
 
-&emsp;Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
+&emsp;Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after thelast date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
 
 #### \[(c) Repealed. Pub. L. 85–866, title I, §83(c), Sept. 2, 1958, 72 Stat. 1664\]
 
 #### (d) Advance payment of tax, payment of estimated tax, and credit for income tax withholding
 
-The provisions of section 6513 (except the provisions of subsection (c) thereof, applicable indetermining the date of payment of tax for purposes of determining the period of limitation on credit or refund, shall be applicable in determining the date of payment for purposes of subsection (a).
+The provisions of section 6513 (except the provisions of subsection (c) thereof, applicable in determining the date of payment of tax for purposes of determining the period of limitation on credit or refund, shall be applicable in determining the date of payment for purposes of subsection (a).
 
 #### (e) Disallowance of interest on certain overpayments
 
@@ -90,7 +90,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a carryback of taxes paid or accrued to foreign countries or possessions of the United States, the taxable year in which such taxes were in fact paid or accrued (or, with respect to any portion of such carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such subsequent taxable year), and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a credit carryback (as defined in paragraph (3)(B)), the taxable year in which such credit carryback arises (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, a capital loss carryback, or other credit carryback from a subsequent taxable year, such subsequent taxable year).
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a credit carryback (as defined in paragraph (3)(B)), the taxable year in which such credit carryback arises (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, a capital loss carryback, orother credit carryback from a subsequent taxable year, such subsequent taxable year).
 
 #### (C) Application of subparagraph (B) where section 6411(a) claim filed
 
@@ -170,7 +170,7 @@ Subsecs. (i), (j). Pub. L. 97–248, §346(b), added subsec. (i) and redesignate
 
 1980—Subsecs. (h), (i). Pub. L. 96–223 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1978—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
+1978—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for“Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
 Subsec. (f)(4), (5). Pub. L. 95–628, §8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
 

@@ -74,7 +74,7 @@
 
 #### References in Text
 
-The Federal Employers’ Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, seeShort Title note set out under section 51 of Title 45 and Tables.
+The Federal Employers’ Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
 
 #### Codification
 
@@ -120,7 +120,7 @@ Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of th
 
 Rule Regarding Pollution Liability.—
 
-&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of any person to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
+&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of anyperson to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
 
 #### Short Title of 1986 Amendment
 

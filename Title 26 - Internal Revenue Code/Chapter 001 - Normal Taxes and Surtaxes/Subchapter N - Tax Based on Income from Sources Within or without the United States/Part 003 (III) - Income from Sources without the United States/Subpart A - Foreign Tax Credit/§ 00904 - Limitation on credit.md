@@ -1424,7 +1424,7 @@ Section 1810(a)(5) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 30A, 56, 59, 245, 367, 383, 535, 552, 593, 667, 841, 864, 865, 901, 902, 906, 907, 936, 952, 954, 960, 988, 1291, 1373, 6038, 6501 of this title.
+This section is referred to in sections 1, 30A, 56, 59, 245, 367, 383, 535, 552, 593, 667, 841, 864, 865, 901, 902, 906, 907, 936, 952, 954, 960, 988, 1291, 1373, 6038, 6501 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

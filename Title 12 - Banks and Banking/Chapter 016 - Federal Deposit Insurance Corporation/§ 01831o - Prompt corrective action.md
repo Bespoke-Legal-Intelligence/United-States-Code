@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevantcapital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -658,7 +658,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(A) to become adequately capitalized, to the extent that the order is based on the institution's capital level or failure to submit or implement a capital restoration plan; and
 
-&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
+&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to theextent that the order is based on subsection (g)(1) of this section.
 
 #### (<i>o</i>) Transition rules for savings associations
 
@@ -700,7 +700,7 @@ Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitu
 
 Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, textread as follows: “The General Accounting Office shall annually—
+Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
 
 &emsp;“(A) review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section); and
 
@@ -742,7 +742,7 @@ In General.—The appropriate Federal banking agency may, by order, permit an in
 
 &emsp;“(1) the institution—
 
-&emsp;&emsp;“(A) had its principal place of business within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination;
+&emsp;&emsp;“(A) had its principal place of business within an area in which the President, pursuant to section 401of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination;
 
 &emsp;&emsp;“(B) derives more than 60 percent of its total deposits from persons who normally reside within, or whose principal place of business is normally within, areas of intense devastation caused by the major disaster;
 

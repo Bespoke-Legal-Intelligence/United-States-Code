@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is hereby established the Snake River Birds of Prey National Conservation Area\(hereafter referred to as the “conservation area”).
+(1) There is hereby established the Snake River Birds of Prey National Conservation Area (hereafter referred to as the “conservation area”).
 
 (2) The purposes for which the conservation area is established, and shall be managed, are to provide for the conservation, protection, and enhancement of raptor populations and habitats and the natural and environmental resources and values associated therewith, and of the scientific, cultural, and educational resources and values of the public lands in the conservation area.
 

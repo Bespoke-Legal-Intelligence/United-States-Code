@@ -30,7 +30,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made or other similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
+&emsp;&emsp;No paper shall be purchased from or discounted for, and no loans shall be made orother similar financial assistance extended by a Farm Credit Bank to any entity identified in paragraph (1)(B) of this subsection if the amount of such paper added to the aggregate liabilities of such entity, whether direct or contingent (other than bona fide deposit liabilities), exceeds ten times the paid-in and unimpaired capital and surplus of such entity or the amount of such liabilities permitted under the laws of the jurisdiction creating such institution, whichever is the lesser.
 
 #### (B) Limitation on national bank
 

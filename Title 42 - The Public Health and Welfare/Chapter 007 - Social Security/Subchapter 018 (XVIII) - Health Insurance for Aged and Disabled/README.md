@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 233, 254b, 254c–16, 254e, 254g, 254h, 256b, 263a, 273, 274c, 296, 297n, 299a, 299b–6, 299c–2, 300b–8, 300e–6, 300t–12, 300x–24, 300bb–2, 300bb–3, 401, 416, 417, 418, 423, 426–1, 434, 704, 902, 904, 907a, 912, 1301, 1302, 1306, 1320a–1, 1320a–3, 1320a–3a, 1320a–5, 1320a–7, 1320a–7a, 1320a–7b, 1320a–7d, 1320a–7f, 1320a–8, 1320b–4, 1320b–5, 1320b–8, 1320b–12, 1320b–13, 1320b–14, 1320c–2, 1320c–3, 1320c–4, 1320c–9, 1320c–10, 1383, 1395x, 1395gg, 1396a, 1396b, 1396d, 1396i, 1396<i>l</i>, 1396m, 1396r, 1396r–4, 1396t, 1396u–2, 1396u–4, 1397d, 1997, 3002, 3013, 5021, 10805, 14402 of this title; title 2 section 906; title 5 section 8904; title 7 sections 2012, 3178; title 8 sections 1182, 1611; title 10 sections 1079, 1086, 1095, 1095c; title 12 sections 1715w, 1715z–7; title 18 section 4006; title 20 sections 6082, 7182; title 23 section 157; title 24 section 170a; title 25 sections 1616m, 1641, 1643, 1644, 1645, 1680c; title 26 sections 220, 420, 856, 1402, 4980B, 6103, 7702B, 9703, 9704, 9712; title 29 sections 623, 720, 1162, 1163; title 31 section 3803; title 38 sections 1781, 7423, 8153; title 45 section 231r; title 49 section 5307.
+This subchapter is referred to in sections 233, 254b, 254c–16, 254e, 254g, 254h, 256b, 263a, 273, 274c, 296, 297n, 299a, 299b–6, 299b–7, 299c–2, 300b–8, 300e–6, 300t–12, 300x–24, 300bb–2, 300bb–3, 401, 416, 417, 418, 423, 426–1, 434, 704, 902, 904, 907a, 912, 1301, 1302, 1306, 1320a–1, 1320a–3, 1320a–3a, 1320a–5, 1320a–7, 1320a–7a, 1320a–7b, 1320a–7d, 1320a–7f, 1320a–8, 1320b–4, 1320b–5, 1320b–8, 1320b–12, 1320b–13, 1320b–14, 1320c–2, 1320c–3, 1320c–4, 1320c–9, 1320c–10, 1383, 1395x, 1395gg, 1396a, 1396b, 1396d, 1396i, 1396<i>l</i>, 1396m, 1396r, 1396r–4, 1396t, 1396u–2, 1396u–4, 1397d, 1997, 3002, 3013, 5021, 10805, 14402 of this title; title 2 section 906; title 5 section 8904; title 7 sections 2012, 3178; title 8 sections 1182, 1611; title 10 sections 1079, 1086, 1095, 1095c; title 12 sections 1715w, 1715z–7; title 18 section 4006; title 20 sections 6082, 7182; title 23 section 157; title 24 section 170a; title 25 sections 1616m, 1641, 1643, 1644, 1645, 1680c; title 26 sections 220, 223, 420, 856, 1402, 4980B, 6103, 7702B, 9703, 9704, 9712; title 29 sections 623, 720, 1162, 1163; title 31 section 3803; title 38 sections 1781, 7423, 8153; title 45 section 231r; title 49 section 5307.
 
 
 ---
@@ -19,7 +19,10 @@ This subchapter is referred to in sections 233, 254b, 254c–16, 254e, 254g, 254
 - [&sect; 01395b&#8211;5 - Beneficiary incentive programs](%C2%A7%2001395b%E2%80%935%20-%20Beneficiary%20incentive%20programs.md)
 - [&sect; 01395b&#8211;6 - Medicare Payment Advisory Commission](%C2%A7%2001395b%E2%80%936%20-%20Medicare%20Payment%20Advisory%20Commission.md)
 - [&sect; 01395b&#8211;7 - Explanation of medicare benefits](%C2%A7%2001395b%E2%80%937%20-%20Explanation%20of%20medicare%20benefits.md)
+- [&sect; 01395b&#8211;8 - Chronic care improvement](%C2%A7%2001395b%E2%80%938%20-%20Chronic%20care%20improvement.md)
+- [&sect; 01395b&#8211;9 - Provisions relating to administration](%C2%A7%2001395b%E2%80%939%20-%20Provisions%20relating%20to%20administration.md)
 - [Part A - Hospital Insurance Benefits for Aged and Disabled](Part%20A%20-%20Hospital%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/README.md)
 - [Part B - Supplementary Medical Insurance Benefits for Aged and Disabled](Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/README.md)
 - [Part C - Medicare+Choice Program](Part%20C%20-%20Medicare%2BChoice%20Program/README.md)
-- [Part D - Miscellaneous Provisions](Part%20D%20-%20Miscellaneous%20Provisions/README.md)
+- [Part D - Voluntary Prescription Drug Benefit Program](Part%20D%20-%20Voluntary%20Prescription%20Drug%20Benefit%20Program/README.md)
+- [Part E - Miscellaneous Provisions](Part%20E%20-%20Miscellaneous%20Provisions/README.md)

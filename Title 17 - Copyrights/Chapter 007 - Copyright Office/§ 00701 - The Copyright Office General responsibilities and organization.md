@@ -46,7 +46,7 @@ Effective Date.—The amendments made by this Act \[amending this section and se
 
 “(b)
 
-Budget Act.—Any new spending authority (within the meaning of section 401 of the CongressionalBudget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriations Acts.”
+Budget Act.—Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriations Acts.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

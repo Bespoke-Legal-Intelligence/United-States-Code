@@ -88,9 +88,291 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Department of Defense Program To Expand High-Speed, High-Bandwidth Capabilities for Network-Centric Operations
+
+Pub. L. 108–136, div. A, title II, §234, Nov. 24, 2003, 117 Stat. 1423, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall carry out a program of research and development to promote the development of high-speed, high-bandwidth communications capabilities for support of network-centric operations by the Armed Forces.
+
+“(b)
+
+Purposes.—The purposes of the program required by subsection (a) are as follows:
+
+&emsp;“(1) To accelerate the development and fielding by the Armed Forces of network-centric operational capabilities (including expanded use of unmanned vehicles, satellite communications, and sensors) through the promotion of research and development, and the focused coordination of programs, to achieve high-speed, high-bandwidth connectivity to military assets.
+
+&emsp;“(2) To provide for the development of equipment and technologies for military high-speed, high-bandwidth communications capabilities for support of network-centric operations.
+
+“(c)
+
+Description of Program.—In carrying out the program of research and development required by subsection (a), the Secretary shall—
+
+&emsp;“(1) identify areas of advanced wireless communications in which research and development, or the use of emerging technologies, has significant potential to improve the performance, efficiency, cost, and flexibility of advanced communications systems for support of network-centric operations;
+
+&emsp;“(2) develop a coordinated plan for research and development on—
+
+&emsp;&emsp;“(A) improved spectrum access through spectrum-efficient communications for support of network-centric operations;
+
+&emsp;&emsp;“(B) high-speed, high-bandwidth communications;
+
+&emsp;&emsp;“(C) networks, including complex ad hoc adaptive network structures;
+
+&emsp;&emsp;“(D) communications devices, including efficient receivers and transmitters;
+
+&emsp;&emsp;“(E) computer software and wireless communication applications, including robust security and encryption; and
+
+&emsp;&emsp;“(F) any other matters that the Secretary considers appropriate for the purposes described in subsection (b);
+
+&emsp;“(3) ensure joint research and development, and promote joint systems acquisition and deployment, among the military departments and defense agencies, including the development of common cross-service technology requirements and doctrine, so as to enhance interoperability among the military services and defense agencies;
+
+&emsp;“(4) conduct joint experimentation among the Armed Forces, and coordinate with the Joint Forces Command, on experimentation to support the development of network-centric warfare capabilities from the operational to the small unit level in the Armed Forces;
+
+&emsp;“(5) consult with other Federal entities and with private industry to develop cooperative research and development efforts, to the extent that such efforts are practicable.
+
+“(d)
+
+Report.—(1) The Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\], together with the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2006 (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), a report on the activities carried out under this section through the date on which the report is submitted.
+
+“(2) The report under paragraph (1) shall include the following:
+
+&emsp;“(A) A description of the research and development activities carried out under subsection (a), including the particular activities carried out under the plan required by subsection (c)(2).
+
+&emsp;“(B) Current and proposed funding for the particular activities carried out under that plan, as set forth in each of subparagraphs (A) through (F) of subsection (c)(2).
+
+&emsp;“(C) A description of the joint research and development activities required by subsection (c)(3).
+
+&emsp;“(D) A description of the joint experimentation activities required by subsection (c)(4).
+
+&emsp;“(E) An analysis of the effects on recent military operations of limitations on communications bandwidth and access to radio frequency spectrum.
+
+&emsp;“(F) An assessment of the effect of additional resources on the ability to achieve the purposes described in subsection (b).
+
+&emsp;“(G) Such recommendations for additional activities under this section as the Secretary considers appropriate to meet the purposes described in subsection (b).”
+
+#### Vehicle Fuel Cell Program
+
+Pub. L. 107–314, div. A, title II, §245, Dec. 2, 2002, 116 Stat. 2500, provided that:
+
+“(a)
+
+Program Required.—The Secretary of Defense shall carry out a program for the development of vehicle fuel cell technology.
+
+“(b)
+
+Goals and Objectives.—The goals and objectives of the program shall be as follows:
+
+&emsp;“(1) To identify and support technological advances that are necessary for the development of fuel cell technology for use in vehicles of types to be used by the Department of Defense.
+
+&emsp;“(2) To ensure that critical technology advances are shared among the various fuel cell technology programs within the Federal Government.
+
+&emsp;“(3) To maximize the leverage of Federal funds that are used for the development of fuel cell technology.
+
+“(c)
+
+Content of Program.—The program shall include—
+
+&emsp;“(1) development of vehicle propulsion technologies and fuel cell auxiliary power units, together with pilot projects for the demonstration of such technologies, as appropriate; and
+
+&emsp;“(2) development of technologies necessary to address critical issues with respect to vehicle fuel cells, such as issues relating to hydrogen storage and hydrogen fuel infrastructure.
+
+“(d)
+
+Cooperation With Industry.—(1) The Secretary shall carry out the program in cooperation with companies selected by the Secretary. The Secretary shall select such companies from among—
+
+&emsp;“(A) companies in the automobile and truck manufacturing industry;
+
+&emsp;“(B) companies in the business of supplying systems and components to that industry; and
+
+&emsp;“(C) companies in any other industries that the Secretary considers appropriate.
+
+“(2) The Secretary may enter into a cooperative agreement with one or more companies selected under paragraph (1) to establish an entity for carrying out activities required by subsection (c).
+
+“(3) The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, in cash or in kind, not less than one-half of the total cost of carrying out the program under this section.
+
+“(e)
+
+Coordination With Other Federal Agencies.—The Secretary shall carry out the program using a coordinating mechanism for sharing information and resources with the Department of Energy and other Federal agencies.
+
+“(f)
+
+Intial \[sic\] Funding.—Of the funds authorized to be appropriated by section 201(4) \[116 Stat. 2479\], $10,000,000 shall be available for the program required by this section.”
+
+#### Defense Nanotechnology Research and Development Program
+
+Pub. L. 107–314, div. A, title II, §246, Dec. 2, 2002, 116 Stat. 2500, provided that:
+
+“(a)
+
+Establishment.—The Secretary of Defense shall carry out a defense nanotechnology research and development program.
+
+“(b)
+
+Purposes.—The purposes of the program are as follows:
+
+&emsp;“(1) To ensure United States global superiority in nanotechnology necessary for meeting national security requirements.
+
+&emsp;“(2) To coordinate all nanoscale research and development within the Department of Defense, and to provide for interagency cooperation and collaboration on nanoscale research and development between the Department of Defense and other departments and agencies of the United States that are involved in nanoscale research and development.
+
+&emsp;“(3) To develop and manage a portfolio of fundamental and applied nanoscience and engineering research initiatives that is stable, consistent, and balanced across scientific disciplines.
+
+&emsp;“(4) To accelerate the transition and deployment of technologies and concepts derived from nanoscale research and development into the Armed Forces, and to establish policies, procedures, and standards for measuring the success of such efforts.
+
+&emsp;“(5) To collect, synthesize, and disseminate critical information on nanoscale research and development.
+
+“(c)
+
+Administration.—In carrying out the program, the Secretary shall act through the Director of Defense Research and Engineering, who shall supervise the planning, management, and coordination of the program. The Director, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
+
+&emsp;“(1) prescribe a set of long-term challenges and a set of specific technical goals for the program;
+
+&emsp;“(2) develop a coordinated and integrated research and investment plan for meeting the long-term challenges and achieving the specific technical goals that builds upon the Department's increased investment in nanotechnology research and development and the National Nanotechnology Initiative; and
+
+&emsp;“(3) develop memoranda of agreement, joint funding agreements, and other cooperative arrangements necessary for meeting the long-term challenges and achieving the specific technical goals.
+
+“(d)
+
+Annual Report.—Not later than March 1 of each of 2004, 2005, 2006, and 2007, the Director of Defense Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall contain the following matters:
+
+&emsp;“(1) A review of—
+
+&emsp;&emsp;“(A) the long-term challenges and specific technical goals of the program; and
+
+&emsp;&emsp;“(B) the progress made toward meeting those challenges and achieving those goals.
+
+&emsp;“(2) An assessment of current and proposed funding levels, including the adequacy of such funding levels to support program activities.
+
+&emsp;“(3) A review of the coordination of activities within the Department of Defense, with other departments and agencies, and with the National Nanotechnology Initiative.
+
+&emsp;“(4) An assessment of the extent to which effective technology transition paths have been established as a result of activities under the program.
+
+&emsp;“(5) Recommendations for additional program activities to meet emerging national security requirements.”
+
+#### Annual Report on Weapons To Defeat Hardened and Deeply Buried Targets
+
+Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as amended by Pub. L. 108–136, div. C, title XXXI, §3135, Nov. 24, 2003, 117 Stat. 1752, provided that:
+
+“(a)
+
+Annual Report.—Not later than April 1 of each year, the Secretary of Defense, the Secretary of Energy, and the Director of Central Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons to defeat hardened and deeply buried targets.
+
+“(b)
+
+Report Elements.—The report for a fiscal year under subsection (a) shall—
+
+&emsp;“(1) include a discussion of the integration and interoperability of the activities referred to in that subsection that were undertaken during that fiscal year, including a discussion of the relevance of such activities to applicable recommendations by the Chairman of the Joint Chiefs of Staff, assisted under section 181(b) of title 10, United States Code, by the Joint Requirements Oversight Council; and
+
+&emsp;“(2) set forth separately a description of the activities referred to in that subsection, if any, that were undertaken during such fiscal year by each element of—
+
+&emsp;&emsp;“(A) the Department of Defense;
+
+&emsp;&emsp;“(B) the Department of Energy; and
+
+&emsp;&emsp;“(C) the intelligence community.
+
+“(c)
+
+Definition.—In this section, the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+
+“(d)
+
+Termination.—No report is required under this section after the submission of the report that is due on April 1, 2007.
+
+“(e)
+
+Integration Activities in Fiscal Year 2003
+
+With Respect to RNEP.—The report under subsection (a) that is due on April 1, 2004, shall include, in addition to the elements specified in subsection (b), a description of the integration and interoperability of the research and development, procurement, and other activities undertaken during fiscal year 2003 by the Department of Defense and the Department of Energy with respect to the Robust Nuclear Earth Penetrator.”
+
 #### Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
 
-Pub. L. 106–65, div. A, title II, §245, Oct. 5, 1999, 113 Stat. 552, provided that:
+Pub. L. 107–314, div. A, title II, §241, Dec. 2, 2002, 116 Stat. 2492, provided that:
+
+“(a)
+
+Additional Pilot Program.—(1) The Secretary of Defense may carry out a pilot program to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense.
+
+“(2) Under the pilot program, the Secretary of Defense shall provide the director of one science and technology laboratory, and the director of one test and evaluation laboratory, of each military department with authority for the following:
+
+&emsp;“(A) To use innovative methods of personnel management appropriate for ensuring that the selected laboratories can—
+
+&emsp;&emsp;“(i) employ and retain a workforce appropriately balanced between permanent and temporary personnel and among workers with appropriate levels of skills and experience; and
+
+&emsp;&emsp;“(ii) effectively shape workforces to ensure that the workforces have the necessary sets of skills and experience to fulfill their organizational missions.
+
+&emsp;“(B) To develop or expand innovative methods of entering into and expanding cooperative relationships and arrangements with private sector organizations, educational institutions (including primary and secondary schools), and State and local governments to facilitate the training of a future scientific and technical workforce that will contribute significantly to the accomplishment of organizational missions.
+
+&emsp;“(C) To develop or expand innovative methods of establishing cooperative relationships and arrangements with private sector organizations and educational institutions to promote the establishment of the technological industrial base in areas critical for Department of Defense technological requirements.
+
+&emsp;“(D) To waive any restrictions not required by law that apply to the demonstration and implementation of methods for achieving the objectives set forth in subparagraphs (A), (B), and (C).
+
+“(3) The Secretary may carry out the pilot program under this subsection at each selected laboratory for a period of three years beginning not later than March 1, 2003.
+
+“(b)
+
+Relationship to Fiscal Years 1999
+
+and 2000
+
+Revitalization Pilot Programs.—The pilot program under this section is in addition to, but may be carried out in conjunction with, the fiscal years 1999 and 2000 revitalization pilot programs.
+
+“(c)
+
+Reports.—(1) Not later than January 1, 2003, the Secretary shall submit to Congress a report on the experience under the fiscal years 1999 and 2000 revitalization pilot programs in exercising the authorities provided for the administration of those programs. The report shall include a description of—
+
+&emsp;“(A) barriers to the exercise of the authorities that have been encountered;
+
+&emsp;“(B) the proposed solutions for overcoming the barriers; and
+
+&emsp;“(C) the progress made in overcoming the barriers.
+
+“(2) Not later than September 1, 2003, the Secretary of Defense shall submit to Congress a report on the implementation of the pilot program under subsection (a) and the fiscal years 1999 and 2000 revitalization pilot programs. The report shall include, for each such pilot program, the following:
+
+&emsp;“(A) Each laboratory selected for the pilot program.
+
+&emsp;“(B) To the extent practicable, a description of the innovative methods that are to be tested at each laboratory.
+
+&emsp;“(C) The criteria to be used for measuring the success of each method to be tested.
+
+“(3) Not later than 90 days after the expiration of the period for the participation of a laboratory in a pilot program referred to in paragraph (2), the Secretary of Defense shall submit to Congress a final report on the participation of that laboratory in the pilot program. The report shall include the following:
+
+&emsp;“(A) A description of the methods tested.
+
+&emsp;“(B) The results of the testing.
+
+&emsp;“(C) The lessons learned.
+
+&emsp;“(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at that laboratory under the pilot program.
+
+“(d)
+
+Extension of Authority for Other Revitalization Pilot Programs.—(1) \[Amended section 246(a)(4) of Pub. L. 105–261, set out as a note below.\]
+
+“(2) \[Amended section 245(a)(4) of Pub. L. 106–65, set out as a note below.\]
+
+“(e)
+
+Partnerships Under Pilot Program.—(1) The Secretary of Defense may authorize one or more laboratories and test centers participating in the pilot program under subsection (a) or in one of the fiscal years 1999 and 2000 revitalization pilot programs to enter into a cooperative arrangement (in this subsection referred to as a ‘public-private partnership’) with entities in the private sector and institutions of higher education for the performance of work.
+
+“(2) A competitive process shall be used for the selection of entities outside the Government to participate in a public-private partnership.
+
+“(3)(A) Not more than one public-private partnership may be established as a limited liability company.
+
+“(B) An entity participating in a limited liability company as a party to a public-private partnership under the pilot program may contribute funds to the company, accept contributions of funds for the company, and provide materials, services, and use of facilities for research, technology, and infrastructure of the company, if it is determined under regulations prescribed by the Secretary of Defense that doing so will improve the efficiency of the performance of research, test, and evaluation functions of the Department of Defense.
+
+“(f)
+
+Fiscal Years 1999
+
+and 2000
+
+Revitalization Pilot Programs Defined.—In this section, the term ‘fiscal years 1999 and 2000 revitalization pilot programs’ means—
+
+&emsp;“(1) the pilot programs authorized by section 246 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1955; 10 U.S.C. 2358 note); and
+
+&emsp;“(2) the pilot programs authorized by section 245 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 552; 10 U.S.C. 2358 note).”
+
+Pub. L. 106–65, div. A, title II, §245, Oct. 5, 1999, 113 Stat. 552, as amended by Pub. L. 107–314, div. A, title II, §241(d)(2), Dec. 2, 2002, 116 Stat. 2493, provided that:
 
 “(a)
 
@@ -106,7 +388,7 @@ Authority.—(1) The Secretary of Defense may carry out a pilot program to demon
 
 “(3) In selecting the laboratories for participation in the pilot program, the Secretary shall consider laboratories where innovative management techniques have been demonstrated, particularly as documented under sections 1115 through 1119 of title 31, United States Code, relating to Government agency performance and results.
 
-“(4) The Secretary may carry out the pilot program at each selected laboratory for a period of three years beginning not later than March 1, 2000.
+“(4) The Secretary may carry out the pilot program at each selected laboratory for up to five years beginning not later than March 1, 2000.
 
 “(b)
 
@@ -128,7 +410,7 @@ Reports.—(1) Not later than March 1, 2000, the Secretary of Defense shall subm
 
 &emsp;“(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at that laboratory under the pilot program.”
 
-Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, provided that:
+Pub. L. 105–261, div. A, title II, §246, Oct. 17, 1998, 112 Stat. 1955, as amended by Pub. L. 107–314, div. A, title II, §241(d)(1), Dec. 2, 2002, 116 Stat. 2493, provided that:
 
 “(a)
 
@@ -144,7 +426,7 @@ Pilot Program.—(1) The Secretary of Defense may carry out a pilot program to d
 
 “(3) In selecting the laboratories and centers for participation in the pilot program, the Secretary shall consider laboratories and centers where innovative management techniques have been demonstrated, particularly as documented under sections 1115 through 1119 of title 31, United States Code, relating to Government agency performance and results.
 
-“(4) The Secretary may carry out the pilot program at each selected laboratory and center for a period of three years beginning not later than March 1, 1999.
+“(4) The Secretary may carry out the pilot program at each selected laboratory and center for up to six years beginning not later than March 1, 1999.
 
 “(b)
 
@@ -168,13 +450,13 @@ Reports.—(1) Not later than March 1, 1999, the Secretary of Defense shall subm
 
 “(c)
 
-Commendation.—Congress commends the Secretary of Defense for the progress made by the science and technology laboratories and test and evaluation centers of the Department of Defense and encourages the Secretary to take the actions necessary to ensure continued progress for the laboratories and test and evaluation centers in developing cooperative relationships with universities and other private sector entities for the performance of research and development functions.”
+Commendation.—Congress commends the Secretary of Defense for the progress made by the science and technology laboratories and test and evaluation centers of the Department of Defense and encourages the Secretary to take the actions necessary to ensure continued progress for the laboratories and test and evaluation centers in developing cooperative relationships with universities and other private sector entitiesfor the performance of research and development functions.”
 
 #### Defense Experimental Program To Stimulate Competitive Research
 
 Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
-Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
+Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
 
 “(a)
 
@@ -192,9 +474,11 @@ Program Objectives.—The objectives of the program are as follows:
 
 Program Activities.—In order to achieve the program objectives, the following activities are authorized under the program:
 
-&emsp;“(1) Competitive award of research grants.
+&emsp;“(1) Competitive award of grants for research and instrumentation to support such research.
 
 &emsp;“(2) Competitive award of financial assistance for graduate students.
+
+&emsp;“(3) Any other activities that are determined necessary to further the achievement of the objectives of the program.
 
 “(d)
 
@@ -296,7 +580,7 @@ Regulations.—Not later than 90 days after the date of the enactment of this Ac
 
 “(g)
 
-Funding.—Of the amounts authorized to be appropriated under section 201 \[107 Stat. 1583\], $20,000,000shall be available for the University Research Initiative Support Program.”
+Funding.—Of the amounts authorized to be appropriated under section 201 \[107 Stat. 1583\], $20,000,000 shall be available for the University Research Initiative Support Program.”
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 
@@ -328,7 +612,7 @@ Pub. L. 91–441, title V, §510, Oct. 7, 1970, 84 Stat. 914.
 
 #### Federal Contract Research Centers; Officers’ Compensation; Notification to Congress
 
-Pub. L. 91–121, title IV, §407, Nov. 19, 1969, 83 Stat. 208, related to restrictions on use of appropriations for compensation of officers and employees of Federal contract research centers, and notice requirements respecting such payments, prior to repeal by Pub. L. 96–107, title VIII, §819(c), Nov. 9, 1979, 93 Stat. 819. See section 2359 of this title.
+Pub. L. 91–121, title IV, §407, Nov. 19, 1969, 83 Stat. 208, related to restrictions on use of appropriations for compensation of officers and employees of Federal contractresearch centers, and notice requirements respecting such payments, prior to repeal by Pub. L. 96–107, title VIII, §819(c), Nov. 9, 1979, 93 Stat. 819. See section 2359 of this title.
 
 #### Section Referred to in Other Sections
 

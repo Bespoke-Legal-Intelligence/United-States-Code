@@ -1,0 +1,254 @@
+### §1396u–5. Special provisions relating to medicare prescription drug benefit
+
+#### (a) Requirements relating to medicare prescription drug low-income subsidies and medicare transitional prescription drug assistance
+
+As a condition of its State plan under this subchapter under section 1396a(a)(66) of this title and receipt of any Federal financial assistance under section 1396b(a) of this title subject to subsection (e) of this section, a State shall do the following:
+
+#### (1) Information for transitional prescription drug assistance verification
+
+&emsp;The State shall provide the Secretary with information to carry out section 1395w–141(f)(3)(B)(i) of this title.
+
+#### (2) Eligibility determinations for low-income subsidies
+
+&emsp;The State shall—
+
+&emsp;&emsp;(A) make determinations of eligibility for premium and cost-sharing subsidies under and in accordance with section 1395w–114 of this title;
+
+&emsp;&emsp;(B) inform the Secretary of such determinations in cases in which such eligibility is established; and
+
+&emsp;&emsp;(C) otherwise provide the Secretary with such information as may be required to carry out part D, other than subpart 4, of subchapter XVIII of this chapter (including section 1395w–114 of this title).
+
+#### (3) Screening for eligibility, and enrollment of, beneficiaries for medicare cost-sharing
+
+&emsp;As part of making an eligibility determination required under paragraph (2) for an individual, the State shall make a determination of the individual's eligibility for medical assistance for any medicare cost-sharing described in section 1396d(p)(3) of this title and, if the individual is eligible for any such medicare cost-sharing, offer enrollment to the individual under the State plan (or under a waiver of such plan).
+
+#### (b) Regular Federal subsidy of administrative costs
+
+The amounts expended by a State in carrying out subsection (a) of this section are expenditures reimbursable under the appropriate paragraph of section 1396b(a) of this title.
+
+#### (c) Federal assumption of medicaid prescription drug costs for dually eligible individuals
+
+#### (1) Phased-down State contribution
+
+#### (A) In general
+
+&emsp;&emsp;Each of the 50 States and the District of Columbia for each month beginning with January 2006 shall provide for payment under this subsection to the Secretary of the product of—
+
+&emsp;&emsp;&emsp;(i) the amount computed under paragraph (2)(A) for the State and month;
+
+&emsp;&emsp;&emsp;(ii) the total number of full-benefit dual eligible individuals (as defined in paragraph (6)) for such State and month; and
+
+&emsp;&emsp;&emsp;(iii) the factor for the month specified in paragraph (5).
+
+#### (B) Form and manner of payment
+
+&emsp;&emsp;Payment under subparagraph (A) shall be made in a manner specified by the Secretary that is similar to the manner in which State payments are made under an agreement entered into under section 1395v of this title, except that all such payments shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.
+
+#### (C) Compliance
+
+&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e) of this section, in accordance with the Federal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
+
+#### (D) Data match
+
+&emsp;&emsp;The Secretary shall perform such periodic data matches as may be necessary to identify and compute the number of full-benefit dual eligible individuals for purposes of computing the amount under subparagraph (A).
+
+#### (2) Amount
+
+#### (A) In general
+
+&emsp;&emsp;The amount computed under this paragraph for a State described in paragraph (1) and for a month in a year is equal to—
+
+&emsp;&emsp;&emsp;(i) 1/12 of the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the base year State medicaid per capita expenditures for covered part D drugs for full-benefit dual eligible individuals (as computed under paragraph (3)); and
+
+&emsp;&emsp;&emsp;&emsp;(II) a proportion equal to 100 percent minus the Federal medical assistance percentage (as defined in section 1396d(b) of this title) applicable to the State for the fiscal year in which the month occurs; and
+
+&emsp;&emsp;&emsp;(ii) increased for each year (beginning with 2004 up to and including the year involved) by the applicable growth factor specified in paragraph (4) for that year.
+
+#### (B) Notice
+
+&emsp;&emsp;The Secretary shall notify each State described in paragraph (1) not later than October 15 before the beginning of each year (beginning with 2006) of the amount computed under subparagraph (A) for the State for that year.
+
+#### (3) Base year state medicaid per capita expenditures for covered part D drugs for full-benefit dual eligible individuals
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (2)(A), the “base year State medicaid per capita expenditures for covered part D drugs for full-benefit dual eligible individuals” for a State is equal to the weighted average (as weighted under subparagraph (C)) of—
+
+&emsp;&emsp;&emsp;(i) the gross per capita medicaid expenditures for prescription drugs for 2003, determined under subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) the estimated actuarial value of prescription drug benefits provided under a capitated managed care plan per full-benefit dual eligible individual for 2003, as determined using such data as the Secretary determines appropriate.
+
+#### (B) Gross per capita medicaid expenditures for prescription drugs
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The gross per capita medicaid expenditures for prescription drugs for 2003 under this subparagraph is equal to the expenditures, including dispensing fees, for the State under this subchapter during 2003 for covered outpatient drugs, determined per full-benefit-dual-eligible-individual for such individuals not receiving medical assistance for such drugs through a medicaid managed care plan.
+
+#### (ii) Determination
+
+&emsp;&emsp;&emsp;In determining the amount under clause (i), the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) use data from the Medicaid Statistical Information System (MSIS) and other available data;
+
+&emsp;&emsp;&emsp;&emsp;(II) exclude expenditures attributable to covered outpatient prescription drugs that are not covered part D drugs (as defined in section 1395w–102(e) of this title); and
+
+&emsp;&emsp;&emsp;&emsp;(III) reduce such expenditures by the product of such portion and the adjustment factor (described in clause (iii)).
+
+#### (iii) Adjustment factor
+
+&emsp;&emsp;&emsp;The adjustment factor described in this clause for a State is equal to the ratio for the State for 2003 of—
+
+&emsp;&emsp;&emsp;&emsp;(I) aggregate payments under agreements under section 1396r–8 of this title; to
+
+&emsp;&emsp;&emsp;&emsp;(II) the gross expenditures under this subchapter for covered outpatient drugs referred to in clause (i).
+
+> &emsp;&emsp;Such factor shall be determined based on information reported by the State in the medicaid financial management reports (form CMS–64) for the 4 quarters of calendar year2003 and such other data as the Secretary may require.
+
+#### (C) Weighted average
+
+&emsp;&emsp;The weighted average under subparagraph (A) shall be determined taking into account—
+
+&emsp;&emsp;&emsp;(i) with respect to subparagraph (A)(i), the average number of full-benefit dual eligible individuals in 2003 who are not described in clause (ii); and
+
+&emsp;&emsp;&emsp;(ii) with respect to subparagraph (A)(ii), the average number of full-benefit dual eligible individuals in such year who received in 2003 medical assistance for covered outpatient drugs through a medicaid managed care plan.
+
+#### (4) Applicable growth factor
+
+&emsp;The applicable growth factor under this paragraph for—
+
+&emsp;&emsp;(A) each of 2004, 2005, and 2006, is the average annual percent change (to that year from the previous year) of the per capita amount of prescription drug expenditures (as determined based on the most recent National Health Expenditure projections for the years involved); and
+
+&emsp;&emsp;(B) a succeeding year, is the annual percentage increase specified in section 1395w–102(b)(6) of this title for the year.
+
+#### (5) Factor
+
+&emsp;The factor under this paragraph for a month—
+
+&emsp;&emsp;(A) in 2006 is 90 percent;
+
+&emsp;&emsp;(B) in 2007 is 881/3 percent;
+
+&emsp;&emsp;(C) in 2008 is 862/3 percent;
+
+&emsp;&emsp;(D) in 2009 is 85 percent;
+
+&emsp;&emsp;(E) in 2010 is 831/3 percent;
+
+&emsp;&emsp;(F) in 2011 is 812/3 percent;
+
+&emsp;&emsp;(G) in 2012 is 80 percent;
+
+&emsp;&emsp;(H) in 2013 is 781/3 percent;
+
+&emsp;&emsp;(I) in 2014 is 762/3 percent; or
+
+&emsp;&emsp;(J) after December 2014, is 75 percent.
+
+#### (6) Full-benefit dual eligible individual defined
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, the term “full-benefit dual eligible individual” means for a State for a month an individual who—
+
+&emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapter XVIII of this chapter, or under an MA–PD plan under part C of such subchapter; and
+
+&emsp;&emsp;&emsp;(ii) is determined eligible by the State for medical assistance for full benefits under this subchapter for such month under section 1396a(a)(10)(A) or 1396a(a)(10)(C) of this title, by reason of section 1396a(f) of this title, or under any other category of eligibility for medical assistance for full benefits under this subchapter, as determined by the Secretary.
+
+#### (B) Treatment of medically needy and other individuals required to spend down
+
+&emsp;&emsp;In applying subparagraph (A) in the case of an individual determined to be eligible by the State for medical assistance under section 1396a(a)(10)(C) of this title or by reason of section 1396a(f) of this title, the individual shall be treated as meeting the requirement of subparagraph (A)(ii) for any month if such medical assistance is provided for in any part of the month.
+
+#### (d) Coordination of prescription drug benefits
+
+#### (1) Medicare as primary payor
+
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+
+#### (2) Coverage of certain excludable drugs
+
+&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII of this chapter or an MA–PD plan under part C of such subchapter, the State may elect to provide such medical assistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
+
+#### (e) Treatment of territories
+
+#### (1) In general
+
+&emsp;In the case of a State, other than the 50 States and the District of Columbia—
+
+&emsp;&emsp;(A) the previous provisions of this section shall not apply to residents of such State; and
+
+&emsp;&emsp;(B) if the State establishes and submits to the Secretary a plan described in paragraph (2) (for providing medical assistance with respect to the provision of prescription drugs to part D eligible individuals), the amount otherwise determined under section 1308(f) of this title (as increased under section 1308(g) of this title) for the State shall be increased by the amount for the fiscal period specified in paragraph (3).
+
+#### (2) Plan
+
+&emsp;The Secretary shall determine that a plan is described in this paragraph if the plan—
+
+&emsp;&emsp;(A) provides medical assistance with respect to the provision of covered part D drugs (as defined in section 1395w–102(e) of this title) to low-income part D eligible individuals;
+
+&emsp;&emsp;(B) provides assurances that additional amounts received by the State that are attributable to the operation of this subsection shall be used only for such assistance and related administrative expenses and that no more than 10 percent of the amountspecified in paragraph (3)(A) for the State for any fiscal period shall be used for such administrative expenses; and
+
+&emsp;&emsp;(C) meets such other criteria as the Secretary may establish.
+
+#### (3) Increased amount
+
+#### (A) In general
+
+&emsp;&emsp;The amount specified in this paragraph for a State for a year is equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the aggregate amount specified in subparagraph (B); and
+
+&emsp;&emsp;&emsp;(ii) the ratio (as estimated by the Secretary) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the number of individuals who are entitled to benefits under part A <sup>1</sup> or enrolled under part B <sup>1</sup> and who reside in the State (as determined by the Secretary based on the most recent available data before the beginning of the year); to
+
+&emsp;&emsp;&emsp;&emsp;(II) the sum of such numbers for all States that submit a plan described in paragraph (2).
+
+#### (B) Aggregate amount
+
+&emsp;&emsp;The aggregate amount specified in this subparagraph for—
+
+&emsp;&emsp;&emsp;(i) the last 3 quarters of fiscal year 2006, is equal to $28,125,000;
+
+&emsp;&emsp;&emsp;(ii) fiscal year 2007, is equal to $37,500,000; or
+
+&emsp;&emsp;&emsp;(iii) a subsequent year, is equal to the aggregate amount specified in this subparagraph for the previous year increased by annual percentage increase specified in section 1395w–102(b)(6) of this title for the year involved.
+
+#### (4) Report
+
+&emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158.)
+
+#### References in Text
+
+Part D of subchapter XVIII of this chapter, referred to in subsecs. (a)(2)(C), (c)(6)(A)(i), and (d)(2), is classified to section 1395w–101 et seq. of this title.
+
+No act with the title Federal Claims Collection Act of 1996, referred to in subsec. (c)(1)(C), has been enacted. However, Pub. L. 89–508, July 19, 1966, 80 Stat. 308, as amended, was known as the Federal Claims Collection Act of 1966. Sections 2, 3, and 5 of Pub. L. 89–508, which enacted sections 951, 952, and 954, respectively, of former Title 31, Money and Finance, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding section 101 of Title 31. For complete classification of Pub. L. 89–508 to the Code, see Tables.
+
+Part C of subchapter XVIII of this chapter, referred to in subsecs. (c)(6)(A)(i) and (d)(2), is classified to section 1395w–21 et seq. of this title.
+
+Parts A and B, referred to in subsec. (e)(3)(A)(ii)(I), probably means parts A and B of subchapter XVIII of this chapter. This subchapter does not contain parts.
+
+#### Prior Provisions
+
+A prior section 1935 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted “subject to subsection (e) of this section” after “section 1396b(a) of this title” in introductory provisions.
+
+Subsec. (c). Pub. L. 108–173, §103(b), added subsec. (c).
+
+Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendment of subsec. (c)(1) by inserting “subject to subsection (e) of this section” after “section 1396b(a)(1) of this title”, was executed by making the insertion after “section 1396b(a) of this title” in subpar. (C) to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
+
+Subsec. (e). Pub. L. 108–173, §103(d)(1)(C), added subsec. (e).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1308, 1395w–101, 1395w–114, 1395w–116, 1395w–141, 1396a of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

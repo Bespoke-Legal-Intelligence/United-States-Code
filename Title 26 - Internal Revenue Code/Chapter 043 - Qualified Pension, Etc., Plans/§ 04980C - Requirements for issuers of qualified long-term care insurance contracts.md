@@ -46,7 +46,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;The following requirements of the model Act must be met:
 
-&emsp;&emsp;&emsp;(i) Section 6F (relating to right to return), except that such section shall alsoapply to denials of applications and any refund shall be made within 30 days of the return or denial.
+&emsp;&emsp;&emsp;(i) Section 6F (relating to right to return), except that such section shall also apply to denials of applications and any refund shall be made within 30 days of the return or denial.
 
 &emsp;&emsp;&emsp;(ii) Section 6G (relating to outline of coverage).
 
@@ -76,7 +76,7 @@ The requirements of this subsection are as follows:
 
 #### (d) Disclosure
 
-The requirements of this subsection are met if the issuer of a long-term care insurance policy discloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualified long-term care insurance contract under section 7702B(b).
+The requirements of this subsection are met if the issuer of a long-term care insurance policydiscloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualified long-term care insurance contract under section 7702B(b).
 
 #### (e) Qualified long-term care insurance contract defined
 

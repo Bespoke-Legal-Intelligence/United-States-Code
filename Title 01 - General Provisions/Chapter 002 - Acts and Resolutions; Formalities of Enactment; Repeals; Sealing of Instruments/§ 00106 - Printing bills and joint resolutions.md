@@ -1,6 +1,6 @@
 ### §106. Printing bills and joint resolutions
 
-Every bill or joint resolution in each House of Congress shall, when such bill or resolution passes either House, be printed, and such printed copy shall be called the engrossed bill or resolution as the case may be. Said engrossed bill orresolution shall be signed by the Clerk of the House or the Secretary of the Senate, and shall be sent to the other House, and in that form shall be dealt with by that House and its officers, and, if passed, returned signed by said Clerk or Secretary. When such bill, or joint resolution shall have passed both Houses, it shall be printed and shall then be called the enrolled bill, or joint resolution, as the case may be, and shall be signed by the presiding officers of both Houses and sent to the President of the United States. During the last six days of a session such engrossing and enrolling of bills and joint resolutions may be done otherwise than as above prescribed, upon the order of Congress by concurrent resolution.
+Every bill or joint resolution in each House of Congress shall, when such bill or resolution passes either House, be printed, and such printed copy shall be called the engrossed bill or resolution as the case may be. Said engrossed bill or resolution shall be signed by the Clerk of the House or the Secretary of the Senate, and shall be sent to the other House, and in that form shall be dealt with by that House and its officers, and, if passed, returned signed by said Clerk or Secretary. When such bill, or joint resolution shall have passed both Houses, it shall be printed and shall then be called the enrolled bill, or joint resolution, as the case may be, and shall be signed by the presiding officers of both Houses and sent to the President of the United States. During the last six days of a session such engrossing and enrolling of bills and joint resolutions may be done otherwise than as above prescribed, upon the order of Congress by concurrent resolution.
 
 (July 30, 1947, ch. 388, 61 Stat. 634.)
 
@@ -62,9 +62,9 @@ Certification of Enrollment by Committee on House Oversight.—The enrollment of
 
 #### “SEC. 2. APPROPRIATION MEASURE DEFINED.
 
-“For purposes of this joint resolution, the term ‘appropriation measure’ means a bill or joint resolution that includes provisions making general or continuing appropriations for the fiscal year ending September 30, 1997.”
+“For purposes of this joint resolution, the term ‘appropriation measure’ means a bill or joint resolutionthat includes provisions making general or continuing appropriations for the fiscal year ending September 30, 1997.”
 
-Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollmentof H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
+Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: “That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment.”
 
 Pub. L. 104–56, title II, §§201, 202, Nov. 20, 1995, 109 Stat. 553, provided that:
 
@@ -170,7 +170,7 @@ Waiver.—The provisions of sections 106 and 107 of title 1, United States Code,
 
 “(b)
 
-Certification of Enrollment by Committee on House Administration.—The enrollment of any such bill or joint resolution shall be in such form as the Committee on House Administration of the House of Representatives certifies to be a true enrollment.
+Certification of Enrollment by Committee on House Administration.—The enrollment of any such bill or joint resolution shall be in such form as theCommittee on House Administration of the House of Representatives certifies to be a true enrollment.
 
 #### “SEC. 2. SUBSEQUENT PREPARATION AND CERTIFICATION OF PRINTED ENROLLMENT.
 
@@ -180,7 +180,7 @@ Preparation.—
 
 &emsp;“(1)
 
-In general.—If a reconciliation bill, appropriation bill, or continuing resolution is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill or joint resolution the Clerk of theHouse of Representatives shall prepare a printed enrollment of the bill or joint resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply.
+In general.—If a reconciliation bill, appropriation bill, or continuing resolution is presented to the President in the form of a hand enrollment pursuant to the authority of section 1, then upon the enactment of that bill or joint resolution the Clerk of the House of Representatives shall prepare a printed enrollment of the bill or joint resolution as in the case of a bill or joint resolution to which sections 106 and 107 of title 1, United States Code, apply.
 
 &emsp;“(2)
 
@@ -278,11 +278,11 @@ Certification by President; Legal Effect.—Upon certification by the President 
 
 “(d)
 
-Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this Act for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
+Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted tothe Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this Act for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
 “(e)
 
-Hand Enrollment Defined.—As used in this section, the term ‘hand enrollment’ means enrollment ina form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
+Hand Enrollment Defined.—As used in this section, the term ‘hand enrollment’ means enrollment in a form other than the printed form required by sections 106 and 107 of title 1, United States Code, as authorized by the joint resolution entitled ‘Joint resolution authorizing the hand enrollment of the budget reconciliation bill and of the full-year continuing resolution for fiscal year 1988’, approved December 1987 (H.J. Res. 426 of the 100th Congress) \[Pub. L. 100–199, Dec. 21, 1987, 101 Stat. 1326\].”
 
 Pub. L. 100–202, §101(n), Dec. 22, 1987, 101 Stat. 1329–432, provided that:
 

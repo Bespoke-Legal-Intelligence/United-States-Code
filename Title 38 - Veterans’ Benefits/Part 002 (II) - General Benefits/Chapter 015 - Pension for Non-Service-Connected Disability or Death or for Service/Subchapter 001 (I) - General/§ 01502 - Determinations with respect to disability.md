@@ -18,7 +18,7 @@
 
 (c) For the purposes of this chapter, the requirement of “permanently housebound” will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §502; Pub. L. 88–664, §6(b), Oct. 13, 1964, 78 Stat. 1095;Pub. L. 90–77, title I, §102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, §106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, §8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §1502 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §206(a), Dec. 27, 2001, 115 Stat. 990.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §502; Pub. L. 88–664, §6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, §106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, §8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §1502 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §206(a), Dec. 27, 2001, 115 Stat. 990.)
 
 #### Prior Provisions
 
@@ -72,7 +72,7 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Effective Date of 1964 Amendment
 

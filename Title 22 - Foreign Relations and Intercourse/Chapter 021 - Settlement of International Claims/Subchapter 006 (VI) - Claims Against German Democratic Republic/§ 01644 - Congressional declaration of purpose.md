@@ -18,7 +18,7 @@ Authority of the Foreign Claims Settlement Commission.—The Foreign Claims Sett
 
 “(b)
 
-Application of Other Laws.—Except to the extent inconsistent with the provisions of this section, the provisions of title I of the International Claims Settlement Act of 1949 (22 U.S.C. 1621 et sec. \[sic\]), except for section 7(b) (22 U.S.C. 1626(b)), shall apply withrespect to claims under this section. Any reference in such provisions to ‘this title’ \[‘this subchapter’\] shall be deemed to refer to those provisions and to this section.
+Application of Other Laws.—Except to the extent inconsistent with the provisions of this section, the provisions of title I of the International Claims Settlement Act of 1949 (22 U.S.C. 1621 et sec. \[sic\]), except for section 7(b) (22 U.S.C. 1626(b)), shall apply with respect to claims under this section. Any reference in such provisions to ‘this title’ \[‘this subchapter’\] shall be deemed to refer to those provisions and to this section.
 
 “(c)
 

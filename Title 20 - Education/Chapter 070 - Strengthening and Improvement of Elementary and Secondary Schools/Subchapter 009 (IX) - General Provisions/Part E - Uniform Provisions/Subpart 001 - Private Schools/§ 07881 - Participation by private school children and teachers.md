@@ -114,7 +114,7 @@
 
 Section 2203(1)(B) (as such section was in effect on the day preceding January 8, 2002), referred to in subsec. (b)(3)(B), means section 2203(1)(B) of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621, which was classified to section 6643(1)(B) of this title prior to the general amendment of subchapter II of this chapter by Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620.
 
-Section 306 of the Department of Education Appropriations Act, 2001, referred to in subsec. (b)(3)(B), is section 1(a)(1) \[title III, §306\] of Pub. L. 106–554, Dec. 21,2000, 114 Stat. 2763, 2763A–41, which is not classified to the Code.
+Section 306 of the Department of Education Appropriations Act, 2001, referred to in subsec. (b)(3)(B), is section 1(a)(1) \[title III, §306\] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–41, which is not classified to the Code.
 
 #### References to Part A of Subchapter III Considered to Be References to Part B of Subchapter III
 

@@ -12,7 +12,7 @@ In order to maintain existing conformity between the Civil Service Retirement an
 
 #### (b) Regulations to implement prescribed by Executive order
 
-The President shall by Executive order prescribe regulations to implement this section and may make such extension retroactive to a date no earlier than the effective date of the provision of law applicable to the Civil Service Retirement and Disability System. Any provision of an Executive order issued under this sectionshall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
+The President shall by Executive order prescribe regulations to implement this section and may make such extension retroactive to a date no earlier than the effective date of the provision of law applicable to the Civil Service Retirement and Disability System. Any provision of an Executive order issued under this section shall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
 
 &emsp;(1) all provisions of law enacted prior to the effective date of that provision of the Executive order, and
 
@@ -150,7 +150,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 “(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after the date of this Order with credit under section 816 \[22 U.S.C. 4056\] for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) \[22 U.S.C. 4045(e)\]; or
 
-“(C) any military or naval service performed prior to 1977 by any individual who first became a participant before the date of this Order or any period of militaryor naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) \[22 U.S.C. 4045(e)\].”
+“(C) any military or naval service performed prior to 1977 by any individual who first became a participant before the date of this Order or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) \[22 U.S.C. 4045(e)\].”
 
 (d) Section 822(a) of the Act (22 U.S.C. 4062(a)) is deemed to be amended by striking out the period at the end thereof and inserting in lieu thereof: “, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 805(e).”.
 
@@ -205,6 +205,42 @@ Section 1. In conjunction with section 860 of the Foreign Service Act of 1980 (2
 Sec. 2. In conjunction with section 307(a) of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2157(a)), the Director shall provide for an open enrollment period from November 1, 1998, to April 30, 1999, during which employee participants in the Central Intelligence Agency Retirement and Disability System may elect to become subject to the Federal Employees’ Retirement System, comparable to the election for civil service employees provided for by the Federal Employees’ Retirement System Open Enrollment Act of 1997, Public Law 105–61 \[5 U.S.C. 8331 note\].
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13297. Applying the Federal Physicians Comparability Allowance Amendments of 2000 to Participants in the Foreign Service Retirement and Disability System, the Foreign Service Pension System, and the Central Intelligence Agency Retirement and Disability System
+
+Ex. Ord. No. 13297, Apr. 23, 2003, 68 F.R. 22565, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 827 of the Foreign Service Act of 1980 (22 U.S.C. 4067), section 292 of the Central Intelligence Agency Retirement Act of 1964 (50 U.S.C. 2141), and section 301 of title 3, United States Code, and in order to conform the Foreign Service Retirement and Disability System, the Foreign Service Pension System, and the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement System, it is hereby ordered as follows:
+
+Section 1. <i>Foreign Service Retirement and Disability System</i>. (a) The following provisions of the Federal Physicians Comparability Allowance Amendments of 2000 (Public Law 106–571) \[see Tables for classification\] shall apply to the Foreign Service Retirement and Disability System, subchapter I of chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\], as amended:
+
+(i) Section 3(a) of Public Law 106–571 \[amending section 8331 of Title 5, Government Organization and Employees\] to provide that any amount received under section 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
+
+(ii) Section 3(b) of Public Law 106–571 \[amending sections 8331 and 8339 of Title 5\] to provide for the inclusion of the physicians comparability allowance in the computation of an annuity under the same rules that apply with respect to the Civil Service Retirement System.
+
+(b) The Secretary of State shall issue regulations that reflect the application of sections 3(a) and 3(b) of Public Law 106–571 to the Foreign Service Retirement and Disability System. Such regulations shall provide that the foregoing provisions be retroactive to December 28, 2000.
+
+Sec. 2. <i>Foreign Service Pension System</i>. (a) The following provisions of the Federal Physicians Comparability Allowance Amendments of 2000 (Public Law 106–571) shall apply to the Foreign Service Pension System, subchapter II of chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4071 et seq.\], as amended:
+
+(i) Section 3(a) of Public Law 106–571 to provide that any amount received under section 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
+
+(ii) Section 3(c) of Public Law 106–571 \[amending sections 8401 and 8415 of Title 5\] to provide for the inclusion of the physicians comparability allowance in the computation of an annuity under the same rules that apply with respect to the Federal Employees Retirement System.
+
+(b) The Secretary of State shall issue regulations that reflect the application of sections 3(a) and 3(c) of Public Law 106–571 to the Foreign Service Pension System. Such regulations shall provide that the foregoing provisions be retroactive to December 28, 2000.
+
+Sec. 3. <i>Central Intelligence Agency Retirement and Disability System.</i>
+
+(a) The following provisions of the Federal Physicians Comparability Allowance Amendments of 2000 (Public Law 106–571) shall apply to the Central Intelligence Agency Retirement and Disability System, title II of the Central Intelligence Agency Retirement Act of 1964 \[50 U.S.C. 2011 et seq.\], as amended:
+
+(i) Section 3(a) of Public Law 106–571 to provide that any amount received under section 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
+
+(ii) Section 3(b) of Public Law 106–571 to provide for the inclusion of the physicians comparability allowance in the computation of an annuity under the same rules that apply with respect to the Civil Service Retirement System.
+
+(b) The Director of Central Intelligence shall issue regulations to reflect the application of sections 3(a) and 3(b) of Public Law 106–571 to the Central Intelligence Agency Retirement and Disability System. Such regulations shall provide that the foregoing provisions be retroactive to December 28, 2000.
+
+Sec. 4. <i>Judicial Review</i>. This order is not intended to create, nor does it create any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

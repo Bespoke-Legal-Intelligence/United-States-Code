@@ -2,7 +2,9 @@
 
 In this chapter—
 
-&emsp;(1) “American aircraft” means—
+&emsp;(1) “aircraft manufacturer” means any company or other business entity, the majority ownership and control of which is by United States citizens, that manufactures aircraft or aircraft engines.
+
+&emsp;(2) “American aircraft” means—
 
 &emsp;&emsp;(A) a civil aircraft of the United States; and
 
@@ -12,9 +14,9 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(ii) a State, the District of Columbia, a territory or possession of the United States, or a political subdivision of the State, territory, or possession.
 
-&emsp;(2) “insurance carrier” means a person authorized to do aviation insurance business in a State, including a mutual or stock insurance company and a reciprocal insurance association.
+&emsp;(3) “insurance carrier” means a person authorized to do aviation insurance business in a State, including a mutual or stock insurance company and a reciprocal insurance association.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 108–176, title I, §106(a)(2), Dec. 12, 2003, 117 Stat. 2498.)
 
 Historical and Revision Notes
 
@@ -39,4 +41,16 @@ In clause (1)(B)(i), the words “United States Government” are substituted fo
 In clause (1)(B)(ii), the words “the government of” are omitted for consistency in the revised title.
 
 In clause (2), the words “insurance company” are omitted as being included in “insurance carrier”. The words “means a person” are added because they are inclusive. The words “group or association” are omitted as being included in “person”. The word “State” is substituted for “State of the United States” to eliminate unnecessary words.
+
+#### Amendments
+
+2003—Pub. L. 108–176 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 44303 of this title.
 

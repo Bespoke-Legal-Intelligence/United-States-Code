@@ -8,7 +8,7 @@
 
 (3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
 
-(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under anotherunemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
+(4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
 
 (5) In the case of wages paid by the trustee of an estate under title 11 of the United States Code, if the failure to pay contributions on time was without fault by the trustee, paragraph (3) shall be applied by substituting “100 percent” for “90 percent”.
 
@@ -38,7 +38,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;&emsp;(ii) the average employer contribution rate for such State for the calendar year preceding such taxable year.
 
-> The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974. Subparagraph (C) shall not apply with respect to any taxable year to which it would otherwise apply (but subparagraph (B) shall apply to such taxable year) if the Secretary of Labor determines (on or before November 10 of such taxable year) that the State meets the requirements of subsection (f)(2)(B) for such taxable year.
+> The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1,1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974. Subparagraph (C) shall not apply with respect to any taxable year to which it would otherwise apply (but subparagraph (B) shall apply to such taxable year) if the Secretary of Labor determines (on or before November 10 of such taxable year) that the State meets the requirements of subsection (f)(2)(B) for such taxable year.
 
 (3) If the Secretary of Labor determines that a State, or State agency, has not—
 
@@ -178,7 +178,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (i) Taxable year 1983
 
-&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall betaken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
+&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
 
 #### (ii) Taxable year 1984
 
@@ -240,7 +240,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub.L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
 
 #### References in Text
 
@@ -306,7 +306,7 @@ Subsec. (d)(7). Pub. L. 94–455, §1903(a)(12)(C)(vi), substituted “subsectio
 
 Subsec. (d)(8). Pub. L. 94–455, §1903(a)(12)(D), struck out par. (8) which provided for a cross reference to section 104 of the Temporary Unemployment Compensation Act of 1958 relating to the reduction of total credits allowable under subsec. (c) of this section.
 
-1975—Subsec. (c)(3). Pub. L. 94–45, §110(a), provided that par. (3) shall not be applicable with respect to the taxable year beginning Jan. 1, 1975, or any succeeding taxable year which begins before Jan. 1, 1978, and that, for the purposes of par. (3), Jan. 1, 1978, shall be deemed to be the first Jan. 1 occurring after Jan. 1, 1974, and consecutive taxable years in the period commencing Jan. 1, 1978, shall be determined as if the taxable year which begins Jan. 1, 1978, were the taxable year immediately succeeding the taxable year which began on Jan. 1, 1974.
+1975—Subsec. (c)(3). Pub. L. 94–45, §110(a), provided that par. (3) shall not be applicable with respect to the taxable year beginning Jan. 1, 1975, or any succeeding taxable year which begins before Jan. 1, 1978, and that, for the purposes of par. (3), Jan. 1, 1978, shall be deemed to be the first Jan. 1 occurring after Jan. 1, 1974, andconsecutive taxable years in the period commencing Jan. 1, 1978, shall be determined as if the taxable year which begins Jan. 1, 1978, were the taxable year immediately succeeding the taxable year which began on Jan. 1, 1974.
 
 Subsec. (c)(4). Pub. L. 94–45, §302, substituted “July 15, 1975” for “July 1, 1975”.
 
@@ -406,7 +406,7 @@ In general.—Notwithstanding section 3303 of the Internal Revenue Code of 1986 
 
 &emsp;“(B)
 
-Requirements.—The requirements of this subparagraph are met for any taxable year with respect to any employee covered by a specific industry provision if the amount of contributions required to be paid for the taxable year to the unemployment fund of the State with respect to such employee are not less than the product of the required rate multiplied by the wages paid by the employer during the taxable year.
+Requirements.—The requirements of this subparagraph are met for any taxable year with respect to any employee covered by a specific industry provision if the amount of contributions required to be paid for the taxable year to the unemployment fund of the State with respect to such employee are notless than the product of the required rate multiplied by the wages paid by the employer during the taxable year.
 
 &emsp;“(C)
 

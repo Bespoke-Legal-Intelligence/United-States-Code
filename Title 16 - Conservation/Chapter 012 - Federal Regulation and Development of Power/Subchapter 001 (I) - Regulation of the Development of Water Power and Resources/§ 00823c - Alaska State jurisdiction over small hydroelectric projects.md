@@ -68,7 +68,7 @@ The State of Alaska shall notify the Commission not later than 30 days after mak
 
 #### (h) Resumption of Commission authority
 
-Notwithstanding subsection (a) of this section, the Commission shall reassert its licensing and regulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
+Notwithstanding subsection (a) of this section, the Commission shall reassert its licensing andregulatory authority under this subchapter if the Commission finds that the State of Alaska has not complied with one or more of the requirements of this section.
 
 #### (i) Determination by the Commission
 

@@ -82,5 +82,5 @@ Pub. L. 106–224, title I, §173, June 20, 2000, 114 Stat. 398, provided that: 
 
 &emsp;“(1) continue to apply with respect to the 1999 crop year; and
 
-&emsp;“(2) apply with respect to the 2000 crop year, to the extent the application of an amendment made by this Act \[probably means this title, see Tables for classification\] is delayed under section 171(b) \[set out as an Effective Date of 2000 Amendment note above\] or by the terms of the amendment.”
+&emsp;“(2) apply with respect to the 2000 crop year, to the extent the application of an amendment made by thisAct \[probably means this title, see Tables for classification\] is delayed under section 171(b) \[set out as an Effective Date of 2000 Amendment note above\] or by the terms of the amendment.”
 

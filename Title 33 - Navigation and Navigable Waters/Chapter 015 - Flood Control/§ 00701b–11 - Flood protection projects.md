@@ -20,5 +20,5 @@ Review.—The Secretary shall conduct a review of policies, procedures, and tech
 
 “(2)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretaryshall transmit to Congress a report on the findings of the review conducted under this subsection, together with any recommendations for modifying existing law to remove any impediments identified under such review.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall transmit to Congress a report on the findings of the review conducted under this subsection, together with any recommendations for modifying existing law to remove any impediments identified under such review.”
 

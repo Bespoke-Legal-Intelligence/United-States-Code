@@ -32,7 +32,7 @@ The Advisory Committee shall consist of 13 members, who shall be appointed by th
 
 &emsp;Each member of the Advisory Committee shall be appointed to serve for a term of 3 years, except that the initial members shall be appointed as follows:
 
-&emsp;&emsp;(A) Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) ofsubsection (c) of this section, to serve for a term of 3 years.
+&emsp;&emsp;(A) Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c) of this section, to serve for a term of 3 years.
 
 &emsp;&emsp;(B) Four members shall be appointed, one each from paragraphs (1), (2), (3), and (4) of subsection (c) of this section, to serve for a term of 4 years.
 

@@ -38,7 +38,7 @@ Subsection (a) provides administrative flexibility by permitting the bankruptcy 
 
 Subsection (b)(1) makes it clear that the chapter 13 trustee is no mere disbursing agent of the monies paid to him by the debtor under the plan \[section 1322(a)(1)\], by imposing upon him certain relevant duties of a liquidation trustee prescribed by section 704 of this title.
 
-Subsection (b)(2) requires the chapter 13 trustee to appear before and be heard by the bankruptcy court whenever the value of property secured by a lien or the confirmation or modification of a plan after confirmation as provided by sections 1323–1325 is considered by the court.
+Subsection (b)(2) requires the chapter 13 trustee to appear before and be heard by the bankruptcy court whenever the value of property secured by a lien or theconfirmation or modification of a plan after confirmation as provided by sections 1323–1325 is considered by the court.
 
 Subsection (b)(3) requires the chapter 13 trustee to advise and counsel the debtor while under chapter 13, except on matters more appropriately left to the attorney for the debtor. The chapter 13 trustee must also assist the debtor in performance under the plan by attempting to tailor the requirements of the plan to the changing needs and circumstances of the debtor during the extension period.
 

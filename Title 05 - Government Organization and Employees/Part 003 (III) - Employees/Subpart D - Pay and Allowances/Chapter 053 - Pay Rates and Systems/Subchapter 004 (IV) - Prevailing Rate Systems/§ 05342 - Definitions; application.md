@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(J) <sup>2</sup> the Defense Intelligence Agency, Department of Defense; or
 
-&emsp;&emsp;(K) the National Imagery and Mapping Agency, Department of Defense;
+&emsp;&emsp;(K) the National Geospatial-Intelligence Agency, Department of Defense;
 
 &emsp;(2) “prevailing rate employee” means—
 
@@ -46,7 +46,7 @@
 
 (c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III,§3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 #### Prior Provisions
 
@@ -55,6 +55,8 @@ A prior section 5342, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471, provided fo
 Provisions similar to those comprising subsec. (b) of this section were contained in Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 471 (formerly classified to section 5342 of this title) prior to the general amendment of this subchapter by section 1(a) of Pub. L. 92–392.
 
 #### Amendments
+
+2003—Subsec. (a)(1)(K). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Subsec. (a)(1). Pub. L. 104–201, §3548(a)(3)(A), which directed amendment of subsec. (a)(1) by striking subpar. (G) and redesignating subpars. (H), (I), (J), (K), and (L) as (G), (H), (I), (J), and (K), respectively, was executed by striking subpar. (F), relating to the Panama Canal Commission, and redesignating subpars. (G), (H), (I), (K), and (L) as (F), (G), (H), (J), and (K), respectively, to reflect the probable intent of Congress, because subsec. (a)(1) does not contain a subpar. (J) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 
@@ -102,7 +104,7 @@ Virgin Islands Corporation established to have succession until June 30, 1969, u
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5343, 5361, 5544 of this title; title 10 section 1602.
+This section is referred to in sections 5343, 5361, 5402, 5544 of this title; title 10 section 1602.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

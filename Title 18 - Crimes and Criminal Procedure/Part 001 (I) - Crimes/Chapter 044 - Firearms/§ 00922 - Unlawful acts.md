@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) except a licensed importer or licensed manufacturer, to engage in the business of importing or manufacturing ammunition, or in the course of such business, to ship, transport, or receive any ammunition in interstate or foreign commerce;
 
-&emsp;(2) for any importer, manufacturer, dealer, or collector licensed under the provisions of this chapter to ship or transport in interstate or foreign commerce any firearm to any person other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, except that—
+&emsp;(2) for any importer, manufacturer, dealer, or collector licensed under the provisions ofthis chapter to ship or transport in interstate or foreign commerce any firearm to any person other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, except that—
 
 &emsp;&emsp;(A) this paragraph and subsection (b)(3) shall not be held to preclude a licensed importer, licensed manufacturer, licensed dealer, or licensed collector from returning a firearm or replacement firearm of the same kind and type to a person from whom it was received; and this paragraph shall not be held to preclude an individual from mailing a firearm owned in compliance with Federal, State, and local law to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector;
 
@@ -152,7 +152,7 @@
 
 &emsp;(2) to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.
 
-(i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce, any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
+(i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce,any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
 (j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
@@ -192,7 +192,7 @@
 
 > &emsp;<i>Provided, however</i>, That at the close of such 12-month period, and at appropriate times thereafter the Attorney General shall promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms previously prohibited under this subparagraph that are as detectable as a “Security Exemplar” which contains 3.7 ounces of material type 17–4 PH stainless steel, in a shape resembling a handgun, or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology.
 
-(3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any personacting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
+(3) Under such rules and regulations as the Attorney General shall prescribe, this subsection shall not apply to the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer or any person acting pursuant to a contract with a licensed manufacturer, for the purpose of examining and testing such firearm to determine whether paragraph (1) applies to such firearm. The Attorney General shall ensure that rules and regulations adopted pursuant to this paragraph do not impair the manufacture of prototype firearms or the development of new technology.
 
 (4) The Attorney General shall permit the conditional importation of a firearm by a licensed importer or licensed manufacturer, for examination and testing to determine whether or not the unconditional importation of such firearm would violate this subsection.
 
@@ -336,7 +336,7 @@
 
 &emsp;(D) notice that the transferee intends to obtain a handgun from the transferor.
 
-(4) Any transferor of a handgun who, after such transfer, receives a report from a chief law enforcement officer containing information that receipt or possession of the handgun by the transferee violates Federal, State, or local law shall, within 1 business day after receipt of such request, communicate any information related to the transfer that the transferor has about the transfer and the transferee to—
+(4) Any transferor of a handgun who, after such transfer, receives a report from a chief law enforcement officer containing information that receipt or possession of the handgun by the transferee violates Federal, State, or local lawshall, within 1 business day after receipt of such request, communicate any information related to the transfer that the transferor has about the transfer and the transferee to—
 
 &emsp;(A) the chief law enforcement officer of the place of business of the transferor; and
 
@@ -460,7 +460,7 @@
 
 &emsp;(C) the possession, by an individual who is retired from service with a law enforcement agency and is not otherwise prohibited from receiving ammunition, of a large capacity ammunition feeding device transferred to the individual by the agency upon such retirement; or
 
-&emsp;(D) the manufacture, transfer, or possession of any large capacity ammunition feeding device by a licensed manufacturer or licensed importer for the purposes of testing or experimentation authorized by the Attorney General.
+&emsp;(D) the manufacture, transfer, or possession of any large capacity ammunition feeding device by a licensed manufacturer or licensedimporter for the purposes of testing or experimentation authorized by the Attorney General.
 
 (4) If a person charged with violating paragraph (1) asserts that paragraph (1) does not apply to such person because of paragraph (2) or (3), the Government shall have the burden of proof to show that such paragraph (1) applies to such person. The lack of a serial number as described in section 923(i) of this title shall be a presumption that the large capacity ammunition feeding device is not subject to the prohibition of possession in paragraph (1).
 
@@ -1916,11 +1916,11 @@ Stoeger/IGA Reuna Single Barrel Shotgun
 
 Thompson/Center TCR '87 Hunter Shotgun.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369,3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 228; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1216; Pub. L. 97–377, title I, §165(a), Dec. 21, 1982, 96 Stat. 1923; Pub. L. 99–308, §102, May 19, 1986, 100 Stat. 451; Pub. L. 99–408, §2, Aug. 28, 1986, 100 Stat. 920; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–649, §2(a), (f)(2)(A), Nov. 10, 1988, 102 Stat. 3816, 3818; Pub. L. 100–690, title VII, §7060(c), Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–647, title XVII, §1702(b)(1), title XXII, §§2201, 2202, 2204(b), title XXXV, §3524, Nov. 29, 1990, 104 Stat. 4844, 4856, 4857, 4924; Pub. L. 103–159, title I, §102(a)(1), (b), title III, §302(a)–(c), Nov. 30, 1993, 107 Stat. 1536, 1539, 1545; Pub. L. 103–322, title XI, §§110102(a), 110103(a), 110106, 110201(a), 110401(b), (c), 110511, 110514, title XXXII, §§320904, 320927, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 1996, 1998, 2000, 2010, 2014, 2019, 2125, 2131, 2145; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§657, 658(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–369, 3009–372; Pub. L. 104–294, title VI, §603(b), (c)(1), (d)–(f)(1), (g), Oct. 11, 1996, 110 Stat. 3503, 3504; Pub. L. 105–277, div. A, §101(b) \[title I, §121\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–71; Pub. L. 107–273, div. B, title IV, §4003(a)(1), Nov. 2, 2002, 116 Stat. 1811; Pub. L. 107–296, title XI, §1112(f)(4), (6), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that, effective 15 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), Dec. 9, 2003, 117 Stat. 2481, provided that, effective 25 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.</i>
 
 <i>For repeal of amendments by section 110105(2) of Pub. L. 103–322, see Effective and Termination Dates of 1994 Amendment note below.</i>
 
@@ -1932,7 +1932,7 @@ Section 5845 of the Internal Revenue Code of 1986, referred to in subsecs. (a)(4
 
 For date this subsection takes effect, referred to in subsec. (<i>o</i>)(2)(B), as May 19, 1986, see Effective Date of 1986 Amendment note, set out below.
 
-The date of the enactment of this subsection and the date of the enactment of the Undetectable Firearms Act of 1988, referred to in subsec. (p)(2)(C)(i), (6), respectively, are both the date of enactment of Pub. L. 100–649, which enacted subsec. (p) of this section and which was approved Nov. 10, 1988.
+The date of the enactment of this subsection and the date of the enactment of the Undetectable FirearmsAct of 1988, referred to in subsec. (p)(2)(C)(i), (6), respectively, are both the date of enactment of Pub. L. 100–649, which enacted subsec. (p) of this section and which was approved Nov. 10, 1988.
 
 The date of enactment of this subsection, referred to in subsec. (s)(1), is the date of enactment of Pub. L. 103–159, which was approved Nov. 30, 1993.
 
@@ -2024,7 +2024,7 @@ Subsec. (t). Pub. L. 103–159, §102(b), added subsec. (t).
 
 Subsec. (u). Pub. L. 103–159, §302(c), added subsec. (u).
 
-1990—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which the transferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
+1990—Subsec. (a)(5). Pub. L. 101–647, §2201, substituted “does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the transferor resides;” for “resides in any State other than that in which thetransferor resides (or other than that in which its place of business is located if the transferor is a corporation or other business entity);”.
 
 Subsec. (b)(1). Pub. L. 101–647, §3524, as amended by Pub. L. 103–322, §330011(i), substituted semicolon for period at end.
 
@@ -2140,7 +2140,7 @@ Subsec. (m). Pub. L. 90–618 redesignated former subsec. (k) as (m) and added l
 
 #### Change of Name
 
-Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12, 1970, 84 Stat. 733, set outas a note preceding section 101 of Title 39, Postal Service.
+Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 2002 Amendment
 
@@ -2166,23 +2166,29 @@ Amendment by section 1702(b)(1) of Pub. L. 101–647 applicable to conduct engag
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
-Pub. L. 100–649, §2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, provided that:
+Pub. L. 100–649, §2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, §3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1, Dec. 9, 2003, 117 Stat. 2481, provided that:
 
 “(1)
 
 Effective date.—This Act and the amendments made by this Act \[amending this section and sections 924 and 925 of this title and enacting provisions set out as notes under this section, section 921 of this title, and section 1356 of former Title 49, Transportation\] shall take effect on the 30th day beginning after the date of the enactment of this Act \[Nov. 10, 1988\].
 
-“(2) Sunset.—Effective 15 years after the effective date of this Act—
+“(2) Sunset.—Effective 25 years after the effective date of this Act—
 
 &emsp;“(A) subsection (p) of section 922 of title 18, United States Code, is hereby repealed;
 
-&emsp;“(B) subsection (f) of section 924 of such title is hereby repealed and subsections (g) and (h) of such section are hereby redesignated as subsections (f) and (g), respectively;
+&emsp;“(B) subsection (f) of section 924 of such title is hereby repealed and subsections (g) through (<i>o</i>) of such section are hereby redesignated as subsections (f) through (n), respectively;
 
 &emsp;“(C) subsection (f) of section 925 of such title is hereby repealed;
 
-&emsp;“(D) section 924(a)(1) of such title is amended by striking ‘, (c), or (f)’ and inserting in lieu thereof ‘or (c)’; and
+&emsp;“(D) section 924(a)(1) of such title is amended by striking ‘this subsection, subsection (b), (c), or (f) of this section, or in section 929’ and inserting ‘this chapter’; and
 
-&emsp;“(E) section 925(a) of such title is amended by striking ‘, except for provisions relating to firearms subject to the prohibitions of section 922(p),’.”
+&emsp;“(E) section 925(a) of such title is amended—
+
+&emsp;&emsp;“(i) in paragraph (1), by striking ‘and provisions relating to firearms subject to the prohibitions of section 922(p)’; and
+
+&emsp;&emsp;“(ii) in paragraph (2), by striking ‘, except for provisions relating to firearms subject to the prohibitions of section 922(p),’; and
+
+&emsp;&emsp;“(iii) in each of paragraphs (3) and (4), by striking ‘except for provisions relating to firearms subject to the prohibitions of section 922(p),’.”
 
 #### Effective Date of 1986 Amendment
 
@@ -2220,7 +2226,7 @@ Determination of Timetables.—Not later than 6 months after the date of enactme
 
 “(b)
 
-Establishment of System.—Not later than 60 months after the date of the enactment of this Act \[Nov. 30, 1993\], the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee wouldviolate section 922 of title 18, United States Code, or State law.
+Establishment of System.—Not later than 60 months after the date of the enactment of this Act \[Nov. 30, 1993\], the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18, United States Code, or State law.
 
 “(c)
 
@@ -2316,7 +2322,7 @@ Identification of Felons Ineligible To Purchase Handguns.—The Attorney General
 
 “(b)
 
-Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congressa description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
 
 “(c)
 
@@ -2324,7 +2330,7 @@ Additional Study of Other Persons Ineligible To Purchase Firearms.—The Attorne
 
 “(d)
 
-Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’ shall have the meanings given such terms in section 921(a) of title 18, United States Code.”
+Definitions.—As used in this section, the terms ‘firearm’ and ‘dealer’ shall have the meanings givensuch terms in section 921(a) of title 18, United States Code.”
 
 #### Studies To Identify Equipment Capable of Distinguishing Security Exemplar From Other Metal Objects Likely To Be Carried on One's Person
 

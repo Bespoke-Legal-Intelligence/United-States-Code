@@ -18,7 +18,7 @@ The purpose of this section is to provide for the preparation and implementation
 
 &emsp;(3) to provide for such exchanges of land among the Federal Government, the State, and other public or private owners as will facilitate the carrying out of paragraphs (1) and (2);
 
-&emsp;(4) to identify any further lands within the region which are appropriate for selections bythe State under section 6 of the Alaska Statehood Act and this Act; and
+&emsp;(4) to identify any further lands within the region which are appropriate for selections by the State under section 6 of the Alaska Statehood Act and this Act; and
 
 &emsp;(5) to identify any further lands within the region which may be appropriate for congressional designation as national conservation system units.
 

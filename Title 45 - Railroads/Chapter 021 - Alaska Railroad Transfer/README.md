@@ -34,14 +34,7 @@
 | [1208\.](%C2%A7%2001208%20-%20Future%20rights-of-way.md) | Future rights-of-way. |
 | (a) | Access across Federal lands; application approval. |
 | (b) | Consultative requirements prior to approval of application; conformance of rights-of-way, etc. |
-| (c) | Reversion to United States. |
-| [1209\.](%C2%A7%2001209%20-%20Reversion.md) | Reversion. |
-| (a) | Reversion or payment to Federal Government for conversion to use preventing State-owned railroad from continuing to operate. |
-| (b) | Reversion upon discontinuance by State of use of any land within right-of-way; criteria for discontinuance. |
-| (c) | Conveyances by United States subsequent to reversion. |
-| (d) | Discontinuance by State of use of national park or forest lands; jurisdiction upon reversion. |
-| (e) | Payment into Treasury of United States of excess proceeds from sale or transfer of all or substantially all of State-owned railroad; limitations. |
-| (f) | Enforcement by Attorney General. |
+| [1209\.](%C2%A7%2001209%20-%20Repealed.%20Pub.%20L.%20108%E2%80%937%2C%20div.%20I%2C%20title%20III%2C%20%C2%A7345%285%29%2C%20Feb.%2020%2C%202003%2C%20117%20Stat.%20418.md) | Repealed. |
 | [1210\.](%C2%A7%2001210%20-%20Other%20disposition.md) | Other disposition. |
 | [1211\.](%C2%A7%2001211%20-%20Denali%20National%20Park%20and%20Preserve%20lands.md) | Denali National Park and Preserve lands. |
 | [1212\.](%C2%A7%2001212%20-%20Applicability%20of%20other%20laws.md) | Applicability of other laws. |
@@ -74,7 +67,7 @@ This chapter is referred to in section 231 of this title.
 - [&sect; 01206 - Employees of Alaska Railroad](%C2%A7%2001206%20-%20Employees%20of%20Alaska%20Railroad.md)
 - [&sect; 01207 - State operation](%C2%A7%2001207%20-%20State%20operation.md)
 - [&sect; 01208 - Future rights-of-way](%C2%A7%2001208%20-%20Future%20rights-of-way.md)
-- [&sect; 01209 - Reversion](%C2%A7%2001209%20-%20Reversion.md)
+- [&sect; 01209 - Repealed. Pub. L. 108&#8211;7, div. I, title III, &sect;345(5), Feb. 20, 2003, 117 Stat. 418](%C2%A7%2001209%20-%20Repealed.%20Pub.%20L.%20108%E2%80%937%2C%20div.%20I%2C%20title%20III%2C%20%C2%A7345%285%29%2C%20Feb.%2020%2C%202003%2C%20117%20Stat.%20418.md)
 - [&sect; 01210 - Other disposition](%C2%A7%2001210%20-%20Other%20disposition.md)
 - [&sect; 01211 - Denali National Park and Preserve lands](%C2%A7%2001211%20-%20Denali%20National%20Park%20and%20Preserve%20lands.md)
 - [&sect; 01212 - Applicability of other laws](%C2%A7%2001212%20-%20Applicability%20of%20other%20laws.md)

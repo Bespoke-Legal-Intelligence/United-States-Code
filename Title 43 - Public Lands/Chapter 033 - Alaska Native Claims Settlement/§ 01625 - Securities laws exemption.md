@@ -28,7 +28,7 @@ A Native Corporation shall be exempt from the provisions, as amended, of the Inv
 
 #### (b) Status of Native Corporations after termination date
 
-No provision of this section shall be construed to require or imply that a Native Corporationshall, or shall not, be subject to provisions of the Acts listed in subsection (a) of this section after any of the dates described in subsection (a) of this section.
+No provision of this section shall be construed to require or imply that a Native Corporation shall, or shall not, be subject to provisions of the Acts listed in subsection (a) of this section after any of the dates described in subsection (a) of this section.
 
 #### (c) Annual report to shareholders; shareholders of record
 

@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the Commissioner of Social Security m
 
 #### (b) Examination to determine blindness
 
-In determining, for purposes of this subchapter, whether an individual is blind, there shall be an examination of such individual by a physician skilled in the diseases of the eye or by an optometrist, whichever the individual may select.
+In determining, for purposes of this subchapter, whether an individual is blind, there shall be an examination of such individual by a physician skilled in the diseases of the eye or byan optometrist, whichever the individual may select.
 
 #### (c) Notification of review
 

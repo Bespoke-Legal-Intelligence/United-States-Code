@@ -64,7 +64,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part H <sup>1</sup> of the Individuals with Disabilities Education Act.
 
-> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
+> Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that theprofessional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
 
 #### (c) Services for affected families
 
@@ -114,7 +114,7 @@ The Secretary may make a grant under subsection (a) of this section only if, in 
 
 #### (d) Training for providers of services to children and families
 
-The Secretary may make a grant under subsection (a) of this section for the training ofhealth, substance abuse and mental health professionals and other providers of services to children and families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource centers, the criminal justice system, and other providers of services to children and families. Such training shall be to assist professionals in recognizing the drug and alcohol problems of their clients and to enhance their skills in identifying and understanding the nature of substance abuse, and obtaining substance abuse early intervention, prevention and treatment resources.
+The Secretary may make a grant under subsection (a) of this section for the training of health, substance abuse and mental health professionals and other providers of services to children and families through youth service agencies, family social services, child care providers, Head Start, schools and after-school programs, early childhood development programs, community-based family resource centers, the criminal justice system, and other providers of services to children and families. Such training shall be to assist professionals in recognizing the drug and alcohol problems of their clients and to enhance their skills in identifying and understanding the nature of substance abuse, and obtaining substance abuse early intervention, prevention and treatment resources.
 
 #### (e) Eligible entities
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (<i>l</i>) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (<i>o</i>) of this section, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives,and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -354,7 +354,7 @@ Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars
 
 Subsec. (m)(4). Pub. L. 106–310, §3106(h)(3), struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
 
-Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting “(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
+Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting“(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
 
 Pub. L. 106–310, §3106(h)(3), struck out par. (5) relating to a comparison of the costs of providing services through each of the types of entities described in subsection (d) of this section.
 

@@ -44,13 +44,27 @@ Par. (8). Pub. L. 102–372, §6(5), added par. (8).
 
 Amendment by Pub. L. 97–63 effective Oct. 1, 1981, see section 6 of Pub. L. 97–63, set out as a note under section 2121 of this title.
 
+#### United States Travel and Tourism Promotion
+
+Pub. L. 108–7, div. B, title II, §210, Feb. 20, 2003, 117 Stat. 78, provided that:
+
+“(a) The Secretary of Commerce is authorized to award grants and make direct lump sum payments in support of an international advertising and promotional campaign developed in consultation with the private sector to encourage individuals to travel to the United States consisting of radio, television, and print advertising and marketing programs.
+
+“(b) The United States Travel and Tourism Promotion Advisory Board (hereinafter ‘Board’) is established to recommend the appropriate coordinated activities to the Secretary for funding.
+
+“(c) The Secretary shall appoint the Board within 30 days of enactment \[Feb. 20, 2003\] and shall include tourism-related entities he deems appropriate.
+
+“(d) The Secretary shall consult with the Board and State and regional tourism officials on the disbursement of funds.
+
+“(e) There is authorized to be appropriated $50,000,000, to remain available until expended, and $50,000,000 is appropriated to implement this section.”
+
 #### Survey of International Air Travelers
 
 Section 3 of Pub. L. 102–372 provided that: “The Secretary of Commerce, to the extent available resources permit, shall improve the survey of international air travelers conducted to provide the data needed to estimate the Nation's balance of payments in international travel by—
 
 &emsp;“(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and
 
-&emsp;“(2) improving the methodology for conducting on-board surveys by (A) enhancing communications,training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures.
+&emsp;“(2) improving the methodology for conducting on-board surveys by (A) enhancing communications, training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures.
 
 > The Secretary of Commerce shall seek to increase the reporting frequency of the data provided by Statistics Canada and the Bank of Mexico on international travel trade between the United States and both Canada and Mexico. The Secretary shall improve the quarterly statistical report on United States international travel receipts and payments published in the Bureau of Economic Analysis document known as ‘The Survey of Current Services’ and heighten its visibility.”
 

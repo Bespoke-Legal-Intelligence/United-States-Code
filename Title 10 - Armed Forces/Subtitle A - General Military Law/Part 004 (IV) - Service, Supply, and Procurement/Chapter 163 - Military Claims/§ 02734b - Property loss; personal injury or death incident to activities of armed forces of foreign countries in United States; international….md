@@ -8,7 +8,7 @@
 
 (d) A payment under this section shall be made by the Secretary of Defense out of appropriations as provided in section 2732 of this title.
 
-(Added Pub. L. 87–651, title I, §113(a), Sept. 7, 1962, 76 Stat. 512; amended Pub. L. 94–390, §1(2), Aug. 19, 1976, 90 Stat. 1191; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(C), Nov. 5, 1990, 104 Stat. 1709.)
+(Added Pub. L. 87–651, title I, §113(a), Sept. 7, 1962, 76 Stat. 512; amended Pub. L. 94–390, §1(2),Aug. 19, 1976, 90 Stat. 1191; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(C), Nov. 5, 1990, 104 Stat. 1709.)
 
 Historical and Revision Notes
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(iv) 4 shall be appointed by the Speaker of the House of Representatives, 3 of whom shall be a parent or guardian of a child who is not less than 6 and not more than 18 years of age as of the date on which the appointment is made; and
 
-&emsp;&emsp;&emsp;(v) 2 shall be appointed by the Minority Leader of the House of Representatives,each of whom shall be a parent or guardian of a child who is not less than 6 and not more than 18 years of age as of the date on which the appointment is made.
+&emsp;&emsp;&emsp;(v) 2 shall be appointed by the Minority Leader of the House of Representatives, each of whom shall be a parent or guardian of a child who is not less than 6 and not more than 18 years of age as of the date on which the appointment is made.
 
 #### (B) Requirements
 

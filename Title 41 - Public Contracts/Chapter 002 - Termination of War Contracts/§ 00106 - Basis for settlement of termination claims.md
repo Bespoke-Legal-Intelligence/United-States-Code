@@ -78,7 +78,7 @@ For application of this section to war contracts terminated at or before July 21
 
 #### Settlement of Claims for War Contract Losses Incurred Between September 16, 1940, and August 14, 1945
 
-Act Aug. 7, 1946, ch. 864, 60 Stat. 902, as amended by June 25, 1948, ch. 646, §37, 62 Stat. 992; Aug. 30, 1954, ch.1076, §1(2), 68 Stat. 966, provided that if work, supplies, or services were provided for any department or agency of the Government, under a contract or subcontract, between Sept. 16, 1940, and Aug. 14, 1945, and a loss was incurred by the contractors or subcontractors without fault or negligence on their part, then those departments or agencies were authorized to adjust and settle these losses on a fair and equitable basis, if claims were filed within six months after Aug. 7, 1946, and granted claimants dissatisfied with the settlement the right of judicial review.
+Act Aug. 7, 1946, ch. 864, 60 Stat. 902, as amended by June 25, 1948, ch. 646, §37, 62 Stat. 992; Aug. 30, 1954, ch. 1076, §1(2), 68 Stat. 966, provided that if work, supplies, or services were provided for any department or agency of the Government, under a contract or subcontract, between Sept. 16, 1940, and Aug. 14, 1945, and a loss was incurred by the contractors or subcontractors without fault or negligence on their part, then those departments or agencies were authorized to adjust and settle these losses on a fair and equitable basis, if claims were filed within six months after Aug. 7, 1946, and granted claimants dissatisfied with the settlement the right of judicial review.
 
 #### Section Referred to in Other Sections
 

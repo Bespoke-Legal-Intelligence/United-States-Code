@@ -66,7 +66,7 @@ For purposes of this part—
 
 &emsp;&emsp;(Q) section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses), and
 
-&emsp;&emsp;(R) section 138(c)(2) (relating to penalty for distributions from Medicare+Choice MSA not used for qualified medical expenses if minimum balance not maintained).
+&emsp;&emsp;(R) section 138(c)(2) (relating to penalty for distributions from Medicare+Choice <sup>1</sup> MSAnot used for qualified medical expenses if minimum balance not maintained).
 
 #### (c) Tentative minimum tax
 
@@ -168,6 +168,10 @@ Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
 
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title IV, §415(b), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 4006 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
@@ -226,7 +230,7 @@ Amendment by section 5012(b)(2) of Pub. L. 100–647 applicable to contracts ent
 
 Amendment by section 261(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 261(g) of Pub. L. 99–514, set out as an Effective Date note under section 7518 of this title.
 
-Amendment by section 632(c)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable yearis filed pursuant to an S election made after Dec. 31, 1986, see section 633(b) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
+Amendment by section 632(c)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, see section 633(b) of Pub. L. 99–514, as amended, setout as an Effective Date note under section 336 of this title.
 
 Amendment by section 632(c)(1) of Pub. L. 99–514 not applicable in the case of certain transactions, see section 54(d)(3)(D) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 311 of this title.
 
@@ -248,5 +252,5 @@ Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 25, 25B, 39, 55, 163, 469, 901, 1397E, 1400C, 6428 of this title.
+This section is referred to in sections 24, 25, 25B, 39, 55, 163, 469, 901, 1397E, 1400C, 6428, 6429 of this title.
 

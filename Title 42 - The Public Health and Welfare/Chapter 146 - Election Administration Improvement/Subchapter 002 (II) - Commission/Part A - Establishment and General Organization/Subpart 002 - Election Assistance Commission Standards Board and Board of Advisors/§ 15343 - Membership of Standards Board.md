@@ -12,7 +12,7 @@
 
 #### (2) List of local election officials
 
-&emsp;Each State's local election officials, including the local election officials of Puerto Ricoand the United States Virgin Islands, shall select (under a process supervised by the chief election official of the State) a representative local election official from the State for purposes of paragraph (1)(B). In the case of the District of Columbia, Guam, and American Samoa, the chief election official shall establish a procedure for selecting an individual to serve as a local election official for purposes of such paragraph, except that under such a procedure the individual selected may not be a member of the same political party as the chief election official.
+&emsp;Each State's local election officials, including the local election officials of Puerto Rico and the United States Virgin Islands, shall select (under a process supervised by the chief election official of the State) a representative local election official from the State for purposes of paragraph (1)(B). In the case of the District of Columbia, Guam, and American Samoa, the chief election official shall establish a procedure for selecting an individual to serve as a local election official for purposes of such paragraph, except that under such a procedure the individual selected may not be a member of the same political party as the chief election official.
 
 #### (3) Requiring mix of political parties represented
 

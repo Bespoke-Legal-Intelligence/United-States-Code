@@ -68,7 +68,7 @@ The voluntary submittal to the Government of information or records that are pro
 
 &emsp;&emsp;(C) the care and storage of such information; and
 
-&emsp;&emsp;(D) the protection and maintenance of the confidentiality of such information so as to permit the sharing of such information within the Federal Government and with State and local governments, and the issuance of notices and warnings related to the protection of critical infrastructure and protected systems, in such manner as to protect from public disclosure the identity of the submitting person or entity, or information that is proprietary, business sensitive, relates specifically to the submitting person or entity,and is otherwise not appropriately in the public domain.
+&emsp;&emsp;(D) the protection and maintenance of the confidentiality of such information so as to permit the sharing of such information within the Federal Government and with State and local governments, and the issuance of notices and warnings related to the protection of critical infrastructure and protected systems, in such manner as to protect from public disclosure the identity of the submitting person or entity, or information that is proprietary, business sensitive, relates specifically to the submitting person or entity, and is otherwise not appropriately in the public domain.
 
 #### (f) Penalties
 

@@ -12,7 +12,7 @@
 
 (d) The Secretary shall, when appropriate, impose disciplinary measures, as authorized by law, in the case of employees of the Department who engage in unlawful employment discrimination, including retaliation against an employee asserting rights under an equal employment opportunity law.
 
-(e)(1)(A) Not later than 30 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
+(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
 
 (B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals’ personal conduct and shall not apply in the case of complaints filed solely on the basis of such individuals’ positions as officials of the Department.
 
@@ -58,9 +58,11 @@
 
 (h) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
 
-(Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339.)
+(Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063.)
 
 #### Amendments
+
+2003—Subsec. (e)(1)(A). Pub. L. 108–170 substituted “45 days” for “30 days”.
 
 1998—Subsec. (e)(2)(E). Pub. L. 105–368 substituted “Under Secretary of Veterans Affairs for Memorial Affairs” for “Director of the National Cemetery System”.
 

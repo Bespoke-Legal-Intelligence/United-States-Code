@@ -46,15 +46,15 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classifi
 
 #### Codification
 
-In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 of such Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act \[31 U.S.C. 856\]”, “section 101 of such Act \[31 U.S.C. 846\]”, and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 1351 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
-1997—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
+<b>1997</b>—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
-Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion,or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
 Subsec. (b). Pub. L. 105–33, §10116(a)(2)(A), inserted “new” before “entitlement” in heading.
 
@@ -72,13 +72,13 @@ Subsec. (d)(1). Pub. L. 105–33, §10116(a)(4)(A), which directed substitution 
 
 Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted “new authority described in those subsections” for “new spending authority” in introductory provisions, and struck out former par. (2) which read as follows: “Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority.”
 
-1990—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
 
 Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted “bill, joint resolution, amendment, motion, or conference report, as reported to its House” for “bill or resolution” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(C) of this section”.
 
-1986—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1985—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
+<b>1985</b>—Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to applicability to conference reports.
 
 Subsec. (b). Pub. L. 99–177, in amending section generally, reenacted subsec. (b) without change.
 

@@ -22,7 +22,7 @@ The agreement shall—
 
 &emsp;(4) include such other conditions as the Secretary deems necessary to carry out the purposes of this part;
 
-&emsp;(5) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for thebenefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40; and
+&emsp;(5) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for the benefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40; and
 
 &emsp;(6) establish a policy of outreach and recruitment to employ and advance in employment qualified individuals with disabilities, particularly individuals who are deaf or hard of hearing.
 
@@ -34,7 +34,7 @@ If, within twenty years after the completion of any construction (except minor r
 
 &emsp;(2) the institution ceases to be the owner of the facility,
 
-> the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
+> the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action broughtin the United States district court for the district in which the facility is situated.
 
 (Pub. L. 99–371, title I, §112, formerly title II, §202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, §112, and amended Pub. L. 102–421, title I, §§101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, §914, Oct. 7, 1998, 112 Stat. 1830.)
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 #### Establishment of Institute
 
-Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technologyon Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
+Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technology on Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 #### (A) Application in States operating under demonstration projects
 
-&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of thistitle, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (B) No application in commonwealths and territories
 
@@ -88,7 +88,7 @@
 
 #### (B) Assessment
 
-&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that thespouse will have a right to a fair hearing under subsection (e)(2) of this section.
+&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as acondition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
 
 #### (2) Attribution of resources at time of initial eligibility determination
 
@@ -168,7 +168,7 @@
 
 #### (C) Cap on minimum monthly maintenance needs allowance
 
-&emsp;&emsp;The minimum monthly maintenance needs allowance established under subparagraph\(A) may not exceed $1,500 (subject to adjustment under subsections (e) and (g) of this section).
+&emsp;&emsp;The minimum monthly maintenance needs allowance established under subparagraph (A) may not exceed $1,500 (subject to adjustment under subsections (e) and (g) of this section).
 
 #### (4) Excess shelter allowance defined
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;(A) the greatest of—
 
-&emsp;&emsp;&emsp;(i) $12,000 (subject to adjustment under subsection (g) of this section), or, if greater (but not to exceed the amount specifiedin clause (ii)(II)) an amount specified under the State plan,
+&emsp;&emsp;&emsp;(i) $12,000 (subject to adjustment under subsection (g) of this section), or, if greater (but not to exceed the amount specified in clause (ii)(II)) an amount specified under the State plan,
 
 &emsp;&emsp;&emsp;(ii) the lesser of (I) the spousal share computed under subsection (c)(1) of this section, or (II) $60,000 (subject to adjustment under subsection (g) of this section),
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
+Amendment by section 13611(d)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13611 of Pub. L. 103–66 have been promulgated by such date, see section 13611(e) of Pub. L. 103–66, set out as a note under section 1396p of this title.
 
 #### Effective Date of 1990 Amendment
 

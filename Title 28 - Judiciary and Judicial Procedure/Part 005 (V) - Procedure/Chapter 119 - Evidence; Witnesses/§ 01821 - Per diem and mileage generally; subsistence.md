@@ -6,7 +6,7 @@
 
 (b) A witness shall be paid an attendance fee of $40 per day for each day's attendance. A witness shall also be paid the attendance fee for the time necessarily occupied in going to and returning from the place of attendance at the beginning and end of such attendance or at any time during such attendance.
 
-(c)(1) A witness who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarily traveled to and from such witness's residence by the shortest practical route in going to and returning from the place of attendance. Such a witness shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished.
+(c)(1) A witness who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarily traveled to and from such witness's residence by the shortest practical route in going to and returning from the place of attendance. Such awitness shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished.
 
 (2) A travel allowance equal to the mileage allowance which the Administrator of General Services has prescribed, pursuant to section 5704 of title 5, for official travel of employees of the Federal Government shall be paid to each witness who travels by privately owned vehicle. Computation of mileage under this paragraph shall be made on the basis of a uniformed table of distances adopted by the Administrator of General Services.
 
@@ -14,7 +14,7 @@
 
 (4) All normal travel expenses within and outside the judicial district shall be taxable as costs pursuant to section 1920 of this title.
 
-(d)(1) A subsistence allowance shall be paid to a witness when an overnight stay is required atthe place of attendance because such place is so far removed from the residence of such witness as to prohibit return thereto from day to day.
+(d)(1) A subsistence allowance shall be paid to a witness when an overnight stay is required at the place of attendance because such place is so far removed from the residence of such witness as to prohibit return thereto from day to day.
 
 (2) A subsistence allowance for a witness shall be paid in an amount not to exceed the maximum per diem allowance prescribed by the Administrator of General Services, pursuant to section 5702(a) of title 5, for official travel in the area of attendance by employees of the Federal Government.
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 102–417, §2(a), added subsec. (f).
 
 1968—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
 
-1956—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant toany rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
+1956—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
 
 1954—Act Sept. 3, 1954, struck out language which had restricted section's applicability to those depositions taken pursuant to order of the court.
 
@@ -116,7 +116,7 @@ Pub. L. 102–27, title II, §102, Apr. 10, 1991, 105 Stat. 136.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 530C, 604, 2503 of this title; title 12 section 3761; title 38 section 7253; title 42 section 15202.
+This section is referred to in sections 530C, 604, 2503 of this title; title 12 section 3761; title 38 section 7253; title 42 sections 15202, 15606.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

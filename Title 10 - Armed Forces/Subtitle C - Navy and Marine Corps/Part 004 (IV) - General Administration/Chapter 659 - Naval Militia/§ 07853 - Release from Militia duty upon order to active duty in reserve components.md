@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §503, 66 Stat. 500.
 
-The words “in the service of the United States” are omitted as covered by the definition of “active duty”in §101 of this title. The words “is relieved” are substituted for the words “shall stand relieved”.
+The words “in the service of the United States” are omitted as covered by the definition of “active duty” in §101 of this title. The words “is relieved” are substituted for the words “shall stand relieved”.
 

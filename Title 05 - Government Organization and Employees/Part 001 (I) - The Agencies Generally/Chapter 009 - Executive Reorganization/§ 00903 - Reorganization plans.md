@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 95–17 substituted provisions limiting to three the number
 
 Subsec. (c). Pub. L. 95–17 added subsec. (c).
 
-1971—Subsec. (a). Pub. L. 92–179, §2(a), restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
+1971—Subsec. (a). Pub. L. 92–179, §2(a), restructured provisions covering requirements of findings of fact andcertification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
 
 Subsec. (b). Pub. L. 92–179, §2(b), inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
 

@@ -6,5 +6,5 @@ The Secretary of Defense and the Administrator of the National Aeronautics and S
 
 #### Codification
 
-Section was enacted as part of the Department of Defense Appropriations Act, 1986, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the Department of Defense Appropriations Act, 1986, and not as part of theNational Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 

@@ -48,7 +48,7 @@ This section shall not apply to service performed—
 
 #### (c) Nonprofit organizations must employ 4 or more
 
-This section shall not apply to service performed during any calendar year in the employ of any organization unless on each of some 20 days during such calendar year or the preceding calendar year, each day being in a different calendar week, the total number of individuals who were employed by such organization in employment (determined without regard to section 3306(c)(8) and by excluding service to which this section does not apply by reason of subsection (b)) for some portion of the day (whether or not at the same moment of time) was 4 or more.
+This section shall not apply to service performed during any calendar year in the employ of any organization unless on each of some 20 days during such calendar year or the preceding calendar year, each day being in a different calendar week, the total number of individuals whowere employed by such organization in employment (determined without regard to section 3306(c)(8) and by excluding service to which this section does not apply by reason of subsection (b)) for some portion of the day (whether or not at the same moment of time) was 4 or more.
 
 #### (d) Election by Indian tribe
 
@@ -78,7 +78,7 @@ Subsec. (b)(3)(F). Pub. L. 105–33, §5405(a), added subpar. (F).
 
 1977—Subsec. (a)(2). Pub. L. 95–19 substituted “(or group of governmental entities or other organizations)” for “(or group of organizations)”.
 
-1976—Pub. L. 94–566, §115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofitorganizations and for State hospitals and institutions of higher education” in section catchline.
+1976—Pub. L. 94–566, §115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
 
 Subsec. (a)(1)(B). Pub. L. 94–566, §115(a), struck out “performed in the employ of the State, or any instrumentality of the State or of the State and one or more other States, for a hospital or institution of higher education located in the State, if such service is” after “service”.
 
@@ -112,7 +112,7 @@ For effective date of amendment by section 506(a) of Pub. L. 94–566, see secti
 
 #### Effective Date
 
-Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
+Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only withrespect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 
 #### Section Referred to in Other Sections
 

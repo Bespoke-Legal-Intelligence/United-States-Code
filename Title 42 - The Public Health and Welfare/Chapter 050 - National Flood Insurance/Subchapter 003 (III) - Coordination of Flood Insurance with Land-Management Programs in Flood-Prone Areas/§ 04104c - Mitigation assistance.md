@@ -124,7 +124,7 @@ The Director shall conduct oversight of recipients of mitigation assistance unde
 
 #### (2) Failure to provide matching funds
 
-&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times theamount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
 #### (j) Reports
 

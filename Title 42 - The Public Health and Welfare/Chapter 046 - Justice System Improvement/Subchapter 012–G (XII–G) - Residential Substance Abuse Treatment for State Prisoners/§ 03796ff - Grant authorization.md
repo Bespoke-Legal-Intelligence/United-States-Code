@@ -14,7 +14,7 @@ The Attorney General shall consult with the Secretary of Health and Human Servic
 
 #### (c) Additional use of funds
 
-States that demonstrate that they have existing in-prison drug treatment programs that are in compliance with Federal requirements mayuse funds awarded under this subchapter for treatment and sanctions both during incarceration and after release.
+States that demonstrate that they have existing in-prison drug treatment programs that are in compliance with Federal requirements may use funds awarded under this subchapter for treatment and sanctions both during incarceration and after release.
 
 (Pub. L. 90–351, title I, §1901, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §§2101, 2102(1), Nov. 2, 2002, 116 Stat. 1792.)
 

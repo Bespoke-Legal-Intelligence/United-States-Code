@@ -148,7 +148,7 @@ Section 1(a) of Pub. L. 102–375 provided that: “This Act \[see Tables for cl
 
 #### Short Title of 1987 Amendment
 
-Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
+Section 1 of Pub. L. 100–175 provided that: “This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1,2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the ‘Older Americans Act Amendments of 1987’.”
 
 #### Short Title of 1986 Amendment
 
@@ -202,7 +202,7 @@ Section 212 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine ofthe National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
+Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
 
 “(b)
 
@@ -330,7 +330,7 @@ Composition of Study Committee.—The study committee shall be composed of membe
 
 “(d)
 
-Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actualexpenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
+Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
 
 “(e)
 
@@ -718,7 +718,7 @@ Unobligated funds.—Except as provided in paragraph (3), any such funds neither
 
 &emsp;“(3)
 
-Conference not convened.—If the Conference is not convened before December 31, 2005, such funds neither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
+Conference not convened.—If the Conference is not convened before December 31, 2005, such fundsneither expended nor obligated before such date shall be available to carry out the Older Americans Act of 1965.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 

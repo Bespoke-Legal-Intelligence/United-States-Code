@@ -14,13 +14,13 @@ Family Advocacy Committee.—Under regulations prescribed pursuant to subsection
 
 (c)
 
-Regulations.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe by regulation the definition of “domestic violence” for purposes of this section and such other regulations as may be necessary for purposes of this section.
+Regulations.—The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe by regulation the definition of “domestic violence” for purposes of this section and such other regulations as may be necessary for purposes of this section.
 
 (d)
 
 Military Law Enforcement Official.—In this section, the term “military law enforcement official” means a person authorized under regulations governing the armed forces to apprehend persons subject to the Uniform Code of Military Justice (chapter 47 of this title) or to trial thereunder.
 
-(Added Pub. L. 103–160, div. A, title V, §551(a)(1), Nov. 30, 1993, 107 Stat. 1661; amended Pub. L. 103–337, div. A, title X, §1070(a)(4), (b)(3), Oct. 5, 1994, 108 Stat. 2855, 2856.)
+(Added Pub. L. 103–160, div. A, title V, §551(a)(1), Nov. 30, 1993, 107 Stat. 1661; amended Pub. L. 103–337, div. A, title X, §1070(a)(4), (b)(3), Oct. 5, 1994, 108 Stat. 2855, 2856; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Codification
 
@@ -28,9 +28,15 @@ Other sections 1058 were renumbered sections 1059 and 1060 of this title.
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1994—Pub. L. 103–337, §1070(b)(3), made technical correction to directory language of Pub. L. 103–160, §551(a)(1), which enacted this section.
 
 Subsec. (d). Pub. L. 103–337, §1070(a)(4), substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -62,7 +62,7 @@ Subsec. (c)(1)(C). Pub. L. 104–193, §112(5)(A), as amended by Pub. L. 105–3
 
 Subsec. (c)(2). Pub. L. 104–193, §112(5)(B), as amended by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children under title IV of such Act”.
 
-Subsec. (d). Pub. L. 104–193, §112(2), (6), struck out “demonstration” after “organization participating in a” and substituted “the State program funded under part A of title IV of the Social Security Act” for “job opportunities and basic skills training program (as provided for under title IV of the Social Security Act)”.
+Subsec. (d). Pub. L. 104–193, §112(2), (6), struck out “demonstration” after “organization participating in a” and substituted “the State program funded underpart A of title IV of the Social Security Act” for “job opportunities and basic skills training program (as provided for under title IV of the Social Security Act)”.
 
 Subsecs. (e) to (g). Pub. L. 104–193, §112(7), added subsec. (e) and struck out former subsec. (e) which related to duration of demonstration projects under this section, subsec. (f) which required evaluation of the success of each demonstration project, and subsec. (g) which authorized appropriations for the conduct of demonstration projects for each of fiscal years 1990 to 1996.
 

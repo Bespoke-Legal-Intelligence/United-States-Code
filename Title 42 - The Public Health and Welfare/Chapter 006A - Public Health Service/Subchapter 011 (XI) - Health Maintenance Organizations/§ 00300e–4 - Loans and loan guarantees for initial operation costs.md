@@ -6,7 +6,7 @@ The Secretary may—
 
 &emsp;(1) make loans to public or private health maintenance organizations to assist them in meeting the amount by which their costs of operation during a period not to exceed the first sixty months of their operation exceed their revenues in that period;
 
-&emsp;(2) make loans to public or private health maintenance organizations to assist them in meeting the amount by which their costs of operation, which the Secretary determines are attributable to significant expansion in their membership or area served and which are incurred during a period not to exceed the firstsixty months of their operation after such expansion, exceed their revenues in that period which the Secretary determines are attributable to such expansion; and
+&emsp;(2) make loans to public or private health maintenance organizations to assist them in meeting the amount by which their costs of operation, which the Secretary determines are attributable to significant expansion in their membership or area served and which are incurred during a period not to exceed the first sixty months of their operation after such expansion, exceed their revenues in that period which the Secretary determines are attributable to such expansion; and
 
 &emsp;(3) guarantee to non-Federal lenders payment of the principal of and the interest on loans made to private health maintenance organizations for the amounts referred to in paragraphs (1) and (2).
 

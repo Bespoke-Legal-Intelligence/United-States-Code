@@ -14,13 +14,13 @@
 
 &emsp;If—
 
-&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of each such issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
+&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of eachsuch issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
 
 &emsp;&emsp;(B) the principal user of such facilities is or will be the same person or 2 or more related persons, and
 
 &emsp;&emsp;(C) but for this paragraph, paragraph (1) (or the corresponding provision of prior law) would apply to each such issue,
 
-> &emsp;then, for purposes of paragraph (1), in determining the aggregate face amount of any laterissue there shall be taken into account the aggregate face amount of tax-exempt bonds issued under all prior such issues and outstanding at the time of such later issue (not including as outstanding any bond which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue).
+> &emsp;then, for purposes of paragraph (1), in determining the aggregate face amount of any later issue there shall be taken into account the aggregate face amount of tax-exempt bonds issued under all prior such issues and outstanding at the time of such later issue (not including as outstanding any bond which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue).
 
 #### (3) Related persons
 
@@ -78,7 +78,7 @@
 
 #### (5) Issues for residential purposes
 
-&emsp;This subsection shall not apply to any bond issued as part of an issue 5 percent or more of the net proceeds of which are to be used directly or indirectly to provide residential real property for family units.
+&emsp;This subsection shall not apply to any bond issued as part of an issue 5 percent or more ofthe net proceeds of which are to be used directly or indirectly to provide residential real property for family units.
 
 #### (6) Limitations on treatment of bonds as part of the same issue
 
@@ -234,7 +234,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;&emsp;(II) would be authorized to be made with respect to loans under the program if such loans were not financed with the proceeds of tax-exempt bonds, or
 
-&emsp;&emsp;(B) a program of general application approved by the State if no loan under such program exceeds the difference between the total cost of attendance and other forms of student assistance (not including loans pursuant to section 428B(a)(1) of the Higher Education Act of 1965 (relating to parent loans) or subpart I <sup>1</sup> of part C of title VII of the Public Health Service Act (relating to student assistance)) for which the student borrower may be eligible. A program shall not be treated as described in this subparagraph if such program is described in subparagraph (A).
+&emsp;&emsp;(B) a program of general application approved by the State if no loan under such program exceeds the difference between the total cost of attendance and other forms of student assistance (not including loans pursuant to section 428B(a)(1) of the Higher Education Act of 1965 (relating to parent loans) or subpart I <sup>1</sup> of part C of title VII of the Public Health Service Act (relating to student assistance)) for which the studentborrower may be eligible. A program shall not be treated as described in this subparagraph if such program is described in subparagraph (A).
 
 > &emsp;A bond shall not be treated as a qualified student loan bond if the issue of which such bond is a part meets the private business tests of paragraphs (1) and (2) of section 141(b) (determined by treating 501(c)(3) organizations as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a)).
 
@@ -328,7 +328,7 @@ For purposes of this part—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An area may be designated by a governmental unit as a blighted area only if the designation percentage with respect to such area, when added to the designation percentages of all other designated blighted areas within the jurisdiction of such governmental unit, does not exceed 20 percent.
+&emsp;&emsp;&emsp;An area may be designated by a governmental unit as a blighted area only if the designation percentage with respect to such area, when added to the designation percentages of all other designated blighted areas within the jurisdiction of suchgovernmental unit, does not exceed 20 percent.
 
 #### (ii) Designation percentage
 
@@ -388,7 +388,7 @@ The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 
 
 #### Prior Provisions
 
-A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c),title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 

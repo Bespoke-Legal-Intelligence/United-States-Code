@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
+&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of thistitle, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
 
 &emsp;&emsp;(A) for child health assistance under the plan for targeted low-income children in the form of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title;
 
@@ -58,7 +58,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwise be provided under section 1397cc of this title; and
 
-&emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contractswith health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
+&emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contracts with health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
 
 #### (3) Waiver for purchase of family coverage
 
@@ -74,7 +74,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (5) Offset of receipts attributable to premiums and other cost-sharing
 
-&emsp;For purposes of subsection (a) of this section, the amount of the expenditures under the plan shall be reduced by the amount of any premiums and other cost-sharing received by the State.
+&emsp;For purposes of subsection (a) of this section, the amount of the expenditures under theplan shall be reduced by the amount of any premiums and other cost-sharing received by the State.
 
 #### (6) Prevention of duplicative payments
 
@@ -128,15 +128,49 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (e) Advance payment; retrospective adjustment
 
-The Secretary may make payments under this section for each quarter on the basis of advanceestimates of expenditures submitted by the State and such other investigation as the Secretary may find necessary, and may reduce or increase the payments as necessary to adjust for any overpayment or underpayment for prior quarters.
+The Secretary may make payments under this section for each quarter on the basis of advance estimates of expenditures submitted by the State and such other investigation as the Secretary may find necessary, and may reduce or increase the payments as necessary to adjust for any overpayment or underpayment for prior quarters.
 
 #### (f) Flexibility in submittal of claims
 
 Nothing in this section or subsections (e) and (f) of section 1397dd of this title shall be construed as preventing a State from claiming as expenditures in the quarter expenditures that were incurred in a previous quarter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582.)
+#### (g) Authority for qualifying States to use certain funds for medicaid expenditures
+
+#### (1) State option
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of law, a qualifying State (as defined in paragraph (2)) may elect to use not more than 20 percent of any allotment under section 1397dd of this title for fiscal year 1998, 1999, 2000, or 2001 (insofar as it is available under subsections (e) and (g) of such section) for payments under subchapter XIX of this chapter in accordance with subparagraph (B), instead of for expenditures under this subchapter.
+
+#### (B) Payments to States
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a qualifying State that has elected the option described in subparagraph (A), subject to the availability offunds under such subparagraph with respect to the State, the Secretary shall pay the State an amount each quarter equal to the additional amount that would have been paid to the State under subchapter XIX of this chapter with respect to expenditures described in clause (ii) if the enhanced FMAP (as determined under subsection (b) of this section) had been substituted for the Federal medical assistance percentage (as defined in section 1396d(b) of this title).
+
+#### (ii) Expenditures described
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the expenditures described in this clause are expenditures, made after August 15, 2003, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for medical assistance under subchapter XIX of this chapter to individuals who have not attained age 19 and whose family income exceeds 150 percent of the poverty line.
+
+#### (iii) No impact on determination of budget neutrality for waivers
+
+&emsp;&emsp;&emsp;In the case of a qualifying State that uses amounts paid under this subsection for expenditures described in clause (ii) that are incurred under a waiver approved for the State, any budget neutrality determinations with respect to such waiver shall be determined without regard to such amounts paid.
+
+#### (2) Qualifying State
+
+&emsp;In this subsection, the term “qualifying State” means a State that, on and after April 15, 1997, has an income eligibility standard that is at least 184 percent of the poverty line with respect to any 1 or more categories of children (other than infants) who are eligible for medical assistance under section 1396a(a)(10)(A) of this title or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on August 1, 1994, or July 1, 1995, has an income eligibility standard under such waiver for children that is at least 185 percent of the poverty line, or, in the case of a State that has a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on January 1, 1994, has an income eligibility standard under such waiver for children who lack health insurance that is at least 185 percent of the poverty line, or, in the case of a State that had a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on October 1, 1993, had an income eligibility standard under such waiver for children that was at least 185 percent of the poverty line and on and after July 1, 1998, has an income eligibility standard for children under section 1396a(a)(10)(A) of this title or a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that is at least 185 percent of the poverty line.
+
+#### (3) Construction
+
+&emsp;Nothing in paragraphs (1) and (2) shall be construed as modifying the requirements applicable to States implementing State child health plans under this subchapter.
+
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354.)
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–74 added subsec. (g).
+
+Subsec. (g)(2). Pub. L. 108–127 substituted “184” for “185” the first place appearing, inserted “August 1, 1994, or” before “July 1, 1995”, and inserted before period at end “, or, in the case of a State that had a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that was first implemented on October 1, 1993, had an income eligibility standard under such waiver for children that was at least 185 percent of the poverty line and on and after July 1, 1998, has an income eligibility standard for children under section 1396a(a)(10)(A) of this title or a statewide waiver in effect under section 1315 of this title with respect to subchapter XIX of this chapter that is at least 185 percent of the poverty line”.
 
 2000—Subsec. (a). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a)\], added subsec. heading, par. (1) heading, introductory provisions, and subpars. (A) and (B), struck out former subsec. heading and introductory provisions, redesignated former pars. (1) and (2) as subpars. (C) and (D), respectively, of par. (1) and realigned margins, redesignated subpars. (A) to (D) of former par. (2) as cls. (i) to (iv), respectively, of subpar. (D) of par. (1) and realigned margins, and added par. (2). Prior to amendment, introductory provisions read as follows: “Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title (taking into account any adjustment under section 1397dd(d) of this title), an amount for each quarter equal to the enhanced FMAP of expenditures in the quarter—”.
 
@@ -161,6 +195,10 @@ Subsec. (d)(2)(B)(ii). Pub. L. 106–554, §1(a)(6) \[title VIII, §802(e)\], su
 &emsp;“(ii) the total Federal payments made under section 1396b(a)(1) of this title based on an enhanced FMAP described in section 1396d(u)(2) of this title for such quarter.”
 
 Subsec. (f). Pub. L. 105–100, §162(7), added subsec. (f).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 108–74.
 
 #### Effective Date of 2000 Amendment
 

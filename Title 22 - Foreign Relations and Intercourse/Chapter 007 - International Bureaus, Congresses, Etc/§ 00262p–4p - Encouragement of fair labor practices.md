@@ -32,3 +32,7 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 The definitions in section 262p–5 of this title apply to this section.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 262p–8 of this title.
+

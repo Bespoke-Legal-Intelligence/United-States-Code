@@ -30,7 +30,7 @@ A group of workers (including workers in any agricultural firm or subdivision of
 
 &emsp;(3) either—
 
-&emsp;&emsp;(A) the workers’ firm is a supplier and the component parts it supplied to the firm (orsubdivision) described in paragraph (2) accounted for at least 20 percent of the production or sales of the workers’ firm; or
+&emsp;&emsp;(A) the workers’ firm is a supplier and the component parts it supplied to the firm (or subdivision) described in paragraph (2) accounted for at least 20 percent of the production or sales of the workers’ firm; or
 
 &emsp;&emsp;(B) a loss of business by the workers’ firm with the firm (or subdivision) described in paragraph (2) contributed importantly to the workers’ separation or threat of separation determined under paragraph (1).
 
@@ -52,7 +52,7 @@ Downstream producer.—The term “downstream producer” means a firm that perf
 
 Supplier.—The term “supplier” means a firm that produces and supplies directly to another firm (or subdivision) component parts for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm.
 
-(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937.)
+(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988,102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters intoforce with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as a note under section 2271 of this title.
 
 #### Effective Date of 1983 Amendment
 

@@ -6,9 +6,9 @@ The Bureau of the Census shall continue to collect data on the 1992 and 1993 pan
 
 #### (b) Appropriation
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, and 2002 for payment to the Bureau of the Census to carry out subsection (a) of this section.
+Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003 for payment to the Bureau of the Census to carry out subsection (a) of this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §414, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2156; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §414, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2156; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620; Pub. L. 108–40, §3(i), June 30, 2003, 117 Stat. 837.)
 
 #### References in Text
 
@@ -20,7 +20,13 @@ A prior section 614, act Aug. 14, 1935, ch. 531, title IV, §414, as added Aug. 
 
 #### Amendments
 
+2003—Subsec. (b). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
+
 1997—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -28,7 +34,7 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating totermination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Section Referred to in Other Sections
 

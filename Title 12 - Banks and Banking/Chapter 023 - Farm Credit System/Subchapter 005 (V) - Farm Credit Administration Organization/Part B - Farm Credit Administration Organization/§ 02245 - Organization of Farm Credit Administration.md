@@ -2,7 +2,7 @@
 
 #### (a) Policies of Board
 
-The Chairman of the Farm Credit Administration Board, in carrying out the powers and duties vested in the Chairman by this chapter, and Acts supplementary thereto, shall be governed by policies of the Board and by such regulatory decisions, findings, and determinations as the Board may by law be authorized to make.
+The Chairman of the Farm Credit Administration Board, in carrying out the powers and duties vested in the Chairman by this chapter, and Acts supplementary thereto, shall be governedby policies of the Board and by such regulatory decisions, findings, and determinations as the Board may by law be authorized to make.
 
 #### (b) Appointments
 
@@ -34,7 +34,7 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 #### (3) Delegation
 
-&emsp;The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by theChairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
+&emsp;The powers of the Chairman as chief executive officer necessary for day to day management may be exercised and performed by the Chairman through such other officers and employees of the Administration as the Chairman shall designate, except that the Chairman may not delegate powers specifically reserved to the Chairman by this chapter without Board approval.
 
 #### (d) Funding
 

@@ -250,7 +250,7 @@ Amount of grant.—
 
 In general.—The total amount provided under this subsection to a grant recipient shall not exceed $500,000.
 
-&emsp;&emsp;“(B) Majority-controlled producer-based business ventures.—The amount of grants provided to majority-controlled producer-based business ventures under paragraph (1)(B) for a fiscal year may not exceed 10 percent of the amount of funds that are usedto make grants for the fiscal year under this subsection.
+&emsp;&emsp;“(B) Majority-controlled producer-based business ventures.—The amount of grants provided to majority-controlled producer-based business ventures under paragraph (1)(B) for a fiscal year may not exceed 10 percent of the amount of funds that are used to make grants for the fiscal year under this subsection.
 
 &emsp;“(3)
 
@@ -312,5 +312,5 @@ Funding.—Funds made available under section 231(b)(4)(A)(i) of the Agricultura
 
 #### National Commission on Food Marketing
 
-Pub. L. 88–354, July 3, 1964, 78 Stat. 269, as amended by Pub. L. 89–20, May 15, 1965, 79 Stat. 111, provided for the establishment of a bipartisan National Commission on Food Marketing composed of fifteen members, five from the Senate, five from the House of Representatives and five from outside the Federal Government, to study and appraise the marketing structure of the food industry and to make a final report of its findings and conclusions to the President and to the Congress by July 1, 1966. The Commission ceased to exist ninety days after submission of its final report.
+Pub. L. 88–354, July 3, 1964, 78 Stat. 269, as amended by Pub. L. 89–20, May 15, 1965, 79 Stat. 111, provided for the establishment of a bipartisan National Commission on Food Marketing composed of fifteen members, fivefrom the Senate, five from the House of Representatives and five from outside the Federal Government, to study and appraise the marketing structure of the food industry and to make a final report of its findings and conclusions to the President and to the Congress by July 1, 1966. The Commission ceased to exist ninety days after submission of its final report.
 

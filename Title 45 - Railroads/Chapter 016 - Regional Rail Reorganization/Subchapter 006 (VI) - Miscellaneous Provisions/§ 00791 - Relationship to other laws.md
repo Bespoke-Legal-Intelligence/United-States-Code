@@ -40,7 +40,7 @@ The provisions of section 4332(2)(C) of title 42 shall not apply with respect to
 
 Act of July 2, 1890 (ch. 647, 26 Stat. 209), as amended, referred to in subsec. (a)(3), is known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-Act of October 15, 1914 (ch. 323, 38 Stat. 730), as amended, referred to in subsec. (a)(3), is known as the Clayton Act, which is classified to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+Act of October 15, 1914 (ch. 323, 38 Stat. 730), as amended, referred to in subsec. (a)(3), is known as the Clayton Act, which is classified to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 The Federal Trade Commission Act (38 Stat. 717), as amended, referred to in subsec. (a)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 

@@ -16,7 +16,7 @@ Except as otherwise provided in section 460uu–45 of this title, any lands or i
 
 (1) Except as otherwise provided in this subchapter, no federally-owned lands located within the boundaries of the monument or the conservation area shall be transferred out of Federal ownership, or be placed in trust for any Indian tribe or group, by exchange or otherwise.
 
-(2) Except as otherwise provided in this subchapter, and subject to valid existing rights, allFederal lands within the monument and the conservation area and all lands and interests therein which are acquired on and after December 31, 1987, by the United States are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws and from location, entry and patent under the mining laws, and from operation of the mineral leasing and geothermal leasing laws and all amendments thereto.
+(2) Except as otherwise provided in this subchapter, and subject to valid existing rights, all Federal lands within the monument and the conservation area and all lands and interests therein which are acquired on and after December 31, 1987, by the United States are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws and from location, entry and patent under the mining laws, and from operation of the mineral leasing and geothermal leasing laws and all amendments thereto.
 
 #### (e) Discrepancies in citation of acreage; maps as controlling
 
@@ -40,7 +40,7 @@ The Secretary is authorized to accept any lands contiguous to the boundaries of 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21,1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The public land laws, referred to in subsec. (d)(2), are classified generally to Title 43.
 

@@ -46,7 +46,7 @@
 
 &emsp;From 60 percent of the amount appropriated for each fiscal year under section 7714(e) of this title, the Secretary—
 
-&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
+&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable theagencies to carry out emergency repairs of school facilities; and
 
 &emsp;&emsp;(B) shall award modernization grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out the modernization of school facilities.
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;&emsp;(III) The agency has an assessed value of real property per student that may be taxed for school purposes that is less than the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the local educational agency is located.
 
-&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant under this subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
+&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant underthis subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
 
 #### (D) Special rule
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(C) The number and percentages of children described in subparagraphs (A), (B), (C), and (D) of section 7703(a)(1) of this title served in the school facility with the emergency or served in the school facility proposed for modernization, as the case may be.
 
-&emsp;&emsp;(D) In the case of an emergency grant, the severity of the emergency, as measured by the threat that the condition of the schoolfacility poses to the health, safety, and well-being of students.
+&emsp;&emsp;(D) In the case of an emergency grant, the severity of the emergency, as measured by the threat that the condition of the school facility poses to the health, safety, and well-being of students.
 
 &emsp;&emsp;(E) In the case of a modernization grant—
 

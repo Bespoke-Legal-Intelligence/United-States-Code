@@ -35,6 +35,7 @@ This part is referred to in section 1631 of this title.
 - [&sect; 01441 - Constructive residence through service on certain United States vessels](%C2%A7%2001441%20-%20Constructive%20residence%20through%20service%20on%20certain%20United%20States%20vessels.md)
 - [&sect; 01442 - Alien enemies](%C2%A7%2001442%20-%20Alien%20enemies.md)
 - [&sect; 01443 - Administration](%C2%A7%2001443%20-%20Administration.md)
+- [&sect; 01443a - Naturalization proceedings overseas for members of the Armed Forces](%C2%A7%2001443a%20-%20Naturalization%20proceedings%20overseas%20for%20members%20of%20the%20Armed%20Forces.md)
 - [&sect; 01444 - Photographs; number](%C2%A7%2001444%20-%20Photographs%3B%20number.md)
 - [&sect; 01445 - Application for naturalization; declaration of intention](%C2%A7%2001445%20-%20Application%20for%20naturalization%3B%20declaration%20of%20intention.md)
 - [&sect; 01446 - Investigation of applicants; examination of applications](%C2%A7%2001446%20-%20Investigation%20of%20applicants%3B%20examination%20of%20applications.md)

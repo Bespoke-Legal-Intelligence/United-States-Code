@@ -8,9 +8,9 @@ The following acts and the causing thereof are prohibited:
 
 (c) The receipt in interstate commerce of any food, drug, device, or cosmetic that is adulterated or misbranded, and the delivery or proffered delivery thereof for pay or otherwise.
 
-(d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344 or 355 of this title.
+(d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344, 355, or 360bbb–3 of this title.
 
-(e) The refusal to permit access to or copying of any record as required by section 350a, 350c, 354, 373, or 374(a) of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (<i>l</i>), or (m), 360e(f), or 360i of this title, or the refusal to permit access to or verification or copying of any such required record.
+(e) The refusal to permit access to or copying of any record as required by section 350a, 350c, 354, 360bbb–3, 373, or 374(a) of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (<i>l</i>), or (m), 360e(f), 360i, or 360bbb–3 of this title, or the refusal to permit access to or verification or copying of any such required record.
 
 (f) The refusal to permit entry or inspection as authorized by section 374 of this title.
 
@@ -66,7 +66,7 @@ The following acts and the causing thereof are prohibited:
 
 (z) The dissemination of information in violation of section 360aaa of this title.
 
-(aa) The importation of a covered product in violation of section 384 of this title, the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
+(aa) The importation of a prescription drug in violation of section 384 of this title, the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
 
 (bb) The transfer of an article of food in violation of an order under section 334(h) of this title, or the removal or alteration of any mark or label required by the order to identify the article as detained.
 
@@ -80,13 +80,19 @@ The following acts and the causing thereof are prohibited:
 
 (gg) The knowing failure of a person accredited under paragraph (2) of section 374(g) of this title to comply with paragraph (7)(E) of such section; the knowing inclusion by such a person of false information in an inspection report under paragraph (7)(A) of such section; or the knowing failure of such a person to include material facts in such a report.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609.)
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug.3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–136, div. A, title XVI, §1603(c), Nov. 24, 2003, 117 Stat. 1690; Pub. L. 108–173, title XI, §1121(b)(1), Dec. 8, 2003, 117 Stat. 2469.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates of 1997 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 substituted “section 344, 355, or 360bbb–3” for “section 344 or 355”.
+
+Subsec. (e). Pub. L. 108–136 inserted “360bbb–3,” after “350c, 354,” and substituted “360i, or 360bbb–3” for “or 360i”.
+
+Subsec. (aa). Pub. L. 108–173 substituted “prescription drug in violation of section 384” for “covered product in violation of section 384”.
 
 2002—Par. (e). Pub. L. 107–188, §306(c)(1), substituted “by section 350a, 350c, 354, 373, or 374(a) of this title” for “by section 350a, 354, or 373 of this title” and “under section 350a, 350c(b)” for “under section 350a”.
 
@@ -182,7 +188,7 @@ Par. (q). Pub. L. 90–639 divided cl. (3), which referred simply to possession 
 
 Par. (q). Pub. L. 89–74, §5, added par. (q).
 
-1962—Par. (e). Pub. L. 87–781, §§103(c), 106(c), prohibited the failure to establish or maintain any record, or make any report, required under sections 355(i) or (j) and 507(d) or (g) of this title, or the refusal to permit access to, or verification or copying of, any such required record.
+1962—Par. (e). Pub. L. 87–781, §§103(c), 106(c), prohibited the failure to establish or maintain any record, ormake any report, required under sections 355(i) or (j) and 507(d) or (g) of this title, or the refusal to permit access to, or verification or copying of, any such required record.
 
 Par. (<i>l</i>). Pub. L. 87–781, §104(e)(1), inserted “approval of” before “an application”, and substituted “in effect” for “effective”.
 
@@ -274,7 +280,7 @@ Secretary of Health and Human Services to promulgate regulations to implement am
 
 #### Savings Provision
 
-Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27,1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
 #### Construction of Amendments by Pub. L. 107–188
 

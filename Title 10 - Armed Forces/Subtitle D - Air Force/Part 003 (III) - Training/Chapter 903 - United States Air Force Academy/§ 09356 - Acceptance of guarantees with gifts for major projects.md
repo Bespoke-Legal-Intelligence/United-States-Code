@@ -10,7 +10,7 @@ Obligation Authority.—The amount of a qualified guarantee accepted under this 
 
 (c)
 
-Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a qualified guarantee under this section for the completion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress.
+Notice of Proposed Acceptance.—The Secretary of the Air Force may not accept a qualified guarantee under this section for the completion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (d)
 
@@ -70,13 +70,15 @@ Major united states investment management firm.—The term “major United State
 
 &emsp;&emsp;(B) holds for the account of others investment assets in a total amount considered by the Secretary of the Air Force to qualify the firm as a major investment management firm.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2871(c)(1), Oct. 5, 1999, 113 Stat. 875; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2871(c)(1), Oct. 5, 1999, 113 Stat. 875; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, §1031(a)(59), Nov. 24, 2003, 117 Stat. 1603.)
 
 #### Prior Provisions
 
 A prior section 9356, added Pub. L. 103–337, div. A, title V, §556(c)(1), Oct. 5, 1994, 108 Stat. 2775, related to position of athletic director of Academy and to administration of nonappropriated fund account for athletics program of Academy, prior to repeal by Pub. L. 104–106, div. A, title V, §533(c)(1), Feb. 10, 1996, 110 Stat. 315.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
 2000—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
 

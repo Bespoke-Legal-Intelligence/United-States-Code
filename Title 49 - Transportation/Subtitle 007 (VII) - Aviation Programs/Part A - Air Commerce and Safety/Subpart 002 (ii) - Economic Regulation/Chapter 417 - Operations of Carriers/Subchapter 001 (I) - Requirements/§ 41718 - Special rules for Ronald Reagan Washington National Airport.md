@@ -2,7 +2,7 @@
 
 (a)
 
-Beyond-Perimeter Exemptions.—The Secretary shall grant, by order, 12 exemptions from the application of sections 49104(a)(5), 49109, 49111(e), and 41714 of this title to air carriers to operate limited frequencies and aircraft on select routes between Ronald Reagan Washington National Airport and domestic hub airports and exemptions from the requirements of subparts K and S of part 93, Code of Federal Regulations, if the Secretary finds that the exemptions will—
+Beyond-Perimeter Exemptions.—The Secretary shall grant, by order, 24 exemptions from the application of sections 49104(a)(5), 49109, 49111(e), and 41714 of this title to air carriers to operate limited frequencies and aircraft on select routes between Ronald Reagan Washington National Airport and domestic hub airports and exemptions from the requirements of subparts K and S of part 93, Code of Federal Regulations, if the Secretary finds that the exemptions will—
 
 &emsp;(1) provide air transportation with domestic network benefits in areas beyond the perimeter described in that section;
 
@@ -14,7 +14,7 @@ Beyond-Perimeter Exemptions.—The Secretary shall grant, by order, 12 exemption
 
 (b)
 
-Within-Perimeter Exemptions.—The Secretary shall grant, by order, 12 exemptions from the requirements of sections 49104(a)(5), 49111(e), and 41714 of this title and subparts K and S of part 93 of title 14, Code of Federal Regulations, to air carriers for providing air transportation to airports that were designated as medium hub or smaller airports within the perimeter established for civil aircraft operations at Ronald Reagan Washington National Airport under section 49109. The Secretary shall develop criteria for distributing slot exemptions for flights within the perimeter to such airports under this paragraph in a manner that promotes air transportation—
+Within-Perimeter Exemptions.—The Secretary shall grant, by order, 20 exemptions from the requirements of sections 49104(a)(5), 49111(e), and 41714 of this title and subparts K and S of part 93 of title 14, Code of Federal Regulations, to air carriers for providing air transportation to airports within the perimeter established for civil aircraft operations at Ronald Reagan Washington National Airport under section 49109. The Secretary shall develop criteria for distributing slot exemptions for flights within the perimeter to such airports under this paragraph in a manner that promotes air transportation—
 
 &emsp;(1) by new entrant air carriers and limited incumbent air carriers;
 
@@ -36,15 +36,17 @@ Stage 3 aircraft required.—An exemption may not be granted under this section 
 
 &emsp;(2)
 
-General exemptions.—The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than two operations.
+General exemptions.—The exemptions granted under subsections (a) and (b) may notbe for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.
 
 &emsp;(3)
 
 Allocation of within-perimeter exemptions.—Of the exemptions granted under subsection (b)—
 
-&emsp;&emsp;(A) four shall be for air transportation to small hub airports and nonhub airports; and
+&emsp;&emsp;(A) without regard to the criteria contained in subsection (b)(1), six shall be for air transportation to small hub airports and nonhub airports;
 
-&emsp;&emsp;(B) eight shall be for air transportation to medium hub and smaller airports.
+&emsp;&emsp;(B) ten shall be for air transportation to medium hub and smaller airports; and
+
+&emsp;&emsp;(C) four shall be for air transportation to airports without regard to their size.
 
 &emsp;(4)
 
@@ -52,35 +54,75 @@ Applicability to exemption no. 5133.—Nothing in this section affects Exemption
 
 (d)
 
-Application Process.—
-
-&emsp;(1)
-
-Deadline for submission.—All requests for exemptions under this section must be submitted to the Secretary not later than the 30th day following the date of the enactment of this subsection.
-
-&emsp;(2)
-
-Deadline for comments.—All comments with respect to any request for an exemption under this section must be submitted to the Secretary not later than the 45th day following the date of the enactment of this subsection.
-
-&emsp;(3)
-
-Deadline for final decision.—Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).
+Application Procedures.—The Secretary shall establish procedures to ensure that all requests for exemptions under this section are granted or denied within 90 days after the date on which the request is made.
 
 (e)
 
 Applicability of Certain Laws.—Neither the request for, nor the granting of an exemption, under this section shall be considered for purposes of any Federal law a major Federal action significantly affecting the quality of the human environment.
 
-(Added Pub. L. 106–181, title II, §231(e)(1), Apr. 5, 2000, 114 Stat. 112.)
+(f)
 
-#### References in Text
+Commuters Defined.—For purposes of aircraft operations at Ronald Reagan Washington National Airport under subpart K of part 93 of title 14, Code of Federal Regulations, the term “commuters” means aircraft operations using aircraft having a certificated maximum seating capacity of 76 or less.
 
-The date of the enactment of this subsection, referred to in subsec. (d)(1), (2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+(Added Pub. L. 106–181, title II, §231(e)(1), Apr. 5, 2000, 114 Stat. 112; amended Pub. L. 108–176, title IV, §§425, 426(a), Dec. 12, 2003, 117 Stat. 2555.)
 
-The date of the enactment of this Act, referred to in subsec. (d)(3), probably means the date of enactment of Pub. L. 106–181, which enacted this section and was approved Apr. 5, 2000.
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–176, §425(a), substituted “24 exemptions” for “12 exemptions” in introductory provisions.
+
+Subsec. (b). Pub. L. 108–176, §425(b), in introductory provisions, substituted “20 exemptions” for “12 exemptions” and struck out “that were designated as medium hub or smaller airports” before “within the perimeter established”.
+
+Subsec. (c)(2). Pub. L. 108–176, §425(c)(1), substituted “3 operations” for “two operations”.
+
+Subsec. (c)(3)(A). Pub. L. 108–176, §425(c)(2)(A), substituted “without regard to the criteria contained in subsection (b)(1), six” for “four” and struck out “and” at end.
+
+Subsec. (c)(3)(B). Pub. L. 108–176, §425(c)(2)(B), substituted “ten” for “eight” and “; and” for period at end.
+
+Subsec. (c)(3)(C). Pub. L. 108–176, §425(c)(2)(C), added subpar. (C).
+
+Subsec. (d). Pub. L. 108–176, §425(d), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1)
+
+Deadline for submission.—All requests for exemptions under this section must be submitted to the Secretary not later than the 30th day following the date of the enactment of this subsection.
+
+“(2)
+
+Deadline for comments.—All comments with respect to any request for an exemption under this section must be submitted to the Secretary not later than the 45th day following the date of the enactment of this subsection.
+
+“(3)
+
+Deadline for final decision.—Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1).”
+
+Subsec. (f). Pub. L. 108–176, §426(a), added subsec. (f).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+
+#### Regulations
+
+Pub. L. 108–176, title IV, §426(b), Dec. 12, 2003, 117 Stat. 2556, provided that: “The Administrator of the Federal Aviation Administration shall revise regulations to take into account the amendment made by subsection (a) \[amending this section\].”
+
+#### General Aviation Flights at Ronald Reagan Washington National Airport
+
+Pub. L. 108–176, title VIII, §823, Dec. 12, 2003, 117 Stat. 2595, provided that:
+
+“(a)
+
+Security Plan.—The Secretary of Homeland Security shall develop and implement a security plan to permit general aviation aircraft to land and take off at Ronald Reagan Washington National Airport.
+
+“(b)
+
+Landings and Takeoffs.—The Administrator of the Federal Aviation Administration shall allow general aviation aircraft that comply with the requirements of the security plan to land and take off at the Airport except during any period that the President suspends the plan developed under subsection (a) due to national security concerns.
+
+“(c)
+
+Report.—If the President suspends the security plan developed under subsection (a), the President shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the reasons for the suspension not later than 30 days following the first day of the suspension. The report may be submitted in classified form.”
 
 #### Section Referred to in Other Sections
 

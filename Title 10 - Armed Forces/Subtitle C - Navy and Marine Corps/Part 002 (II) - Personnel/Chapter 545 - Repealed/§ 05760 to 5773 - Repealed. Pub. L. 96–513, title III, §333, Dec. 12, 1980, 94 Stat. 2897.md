@@ -6,7 +6,7 @@ Section 5761, act Aug. 10, 1956, ch. 1041, 70A Stat. 350, directed Secretary of 
 
 Section 5762, acts Aug. 10, 1956, ch. 1041, 70A Stat. 351; Aug. 21, 1957, Pub. L. 85–155, title II, §201(9), 71 Stat. 383; Nov. 8, 1967, Pub. L. 90–130, §1(19)(G), (H), 81 Stat. 378; Dec. 8, 1967, Pub. L. 90–179, §6, 81 Stat. 548, directed Secretary of Navy to furnish appropriate selection boards with number of staff corps officers that could be recommended for promotion to grades below rear admiral. See section 622 of this title.
 
-Section 5763, acts Aug. 10, 1956, ch. 1041, 70A Stat. 352; Sept. 2, 1958, Pub. L. 85–861, §1(127), 72 Stat. 1497; Nov.8, 1967, Pub. L. 90–130, §1(19)(I), 81 Stat. 378, directed Secretary of Navy to furnish appropriate selection boards with number of certain women officers in a staff corps of Navy that could be recommended for promotion to grade of captain, commander, or lieutenant commander. See section 622 of this title.
+Section 5763, acts Aug. 10, 1956, ch. 1041, 70A Stat. 352; Sept. 2, 1958, Pub. L. 85–861, §1(127), 72 Stat. 1497; Nov. 8, 1967, Pub. L. 90–130, §1(19)(I), 81 Stat. 378, directed Secretary of Navy to furnish appropriate selection boards with number of certain women officers in a staff corps of Navy that could be recommended for promotion to grade of captain, commander, or lieutenant commander. See section 622 of this title.
 
 Section 5764, acts Aug. 10, 1956, ch. 1041, 70A Stat. 353; Nov. 8, 1967, Pub. L. 90–130, §1(19)(J), (K), 81 Stat. 378, related to establishment of promotion zones in each grade in line of Navy. See section 623 of this title.
 

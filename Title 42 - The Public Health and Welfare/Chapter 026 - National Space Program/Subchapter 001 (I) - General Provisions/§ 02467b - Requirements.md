@@ -42,7 +42,7 @@ Sections 301 to 303 of title III of Pub. L. 102–588 provided that:
 
 &emsp;“(2) the National Aeronautics and Space Administration's space science and applications, aeronautical research and technology, and space research and technology programs will serve as the fulcrum for future initiatives by the United States in civil space and aviation;
 
-&emsp;“(3) colleges and universities in many States are currently not able to compete successfully for research grants awarded by the National Aeronauticsand Space Administration through its space science and applications, aeronautical research and technology, and space research and technology programs;
+&emsp;“(3) colleges and universities in many States are currently not able to compete successfully for research grants awarded by the National Aeronautics and Space Administration through its space science and applications, aeronautical research and technology, and space research and technology programs;
 
 &emsp;“(4) balanced programs of space science and applications, aeronautical research and technology, and space research and technology should include initiatives designed to foster competitive research capacity in all geographic areas of the Nation; and
 

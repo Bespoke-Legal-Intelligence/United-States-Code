@@ -10,7 +10,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 &emsp;(3) the housing strategy, and any annual update of such strategy, is approved by the Secretary.
 
-> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and provide for timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds there is good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
+> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and provide for timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds thereis good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
 
 #### (b) Contents
 
@@ -46,13 +46,13 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(15) include a certification that the jurisdiction will affirmatively further fair housing;
 
-&emsp;(16) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
+&emsp;(16) include a certification that the jurisdiction has in effect and is following a residentialantidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
 
 &emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
 
 &emsp;(18) include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available;
 
-&emsp;(19) for any housing strategy submitted for fiscal year 1994 or any fiscal year thereafter and taking into consideration factors over which the jurisdiction has control, describe the jurisdiction's goals, programs, and policiesfor reducing the number of households with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually), and, in consultation with other appropriate public and private agencies, state how the jurisdiction's goals, programs, and policies for producing and preserving affordable housing set forth in the housing strategy will be coordinated with other programs and services for which the jurisdiction is responsible and the extent to which they will reduce (or assist in reducing) the number of households with incomes below the poverty line; and
+&emsp;(19) for any housing strategy submitted for fiscal year 1994 or any fiscal year thereafter and taking into consideration factors over which the jurisdiction has control, describe the jurisdiction's goals, programs, and policies for reducing the number of households with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually), and, in consultation with other appropriate public and private agencies, state how the jurisdiction's goals, programs, and policies for producing and preserving affordable housing set forth in the housing strategy will be coordinated with other programs and services for which the jurisdiction is responsible and the extent to which they will reduce (or assist in reducing) the number of households with incomes below the poverty line; and
 
 &emsp;(20) describe the jurisdictions activities to enhance coordination between public and assisted housing providers and private and governmental health, mental health, and service agencies.
 
@@ -88,7 +88,7 @@ The Secretary may establish such requirements as the Secretary deems appropriate
 
 #### (f) Barrier removal
 
-Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
+Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal ormodification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
 
 #### (g) Treatment of troubled public housing agencies
 
@@ -98,7 +98,7 @@ Not later than 4 months after completion of the final report of the Secretary's 
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937\[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
+&emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
 
 (Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
@@ -178,7 +178,7 @@ Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437e, 1437f, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12705c, 12708, 12746, 12747, 12752, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
+This section is referred to in sections 1437e, 1437f, 1437aaa–1, 1437aaa–2, 1439, 1485, 1490<i>l</i>, 4852, 5304, 5318a, 8013, 11361, 11375, 11386, 11394, 11403c, 11432, 12705b, 12705c, 12708, 12746, 12747, 12752, 12821, 12872, 12873, 12892, 12893, 12899b, 12899c, 12903 of this title; title 12 sections 1456, 1701q, 1723a, 4117.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

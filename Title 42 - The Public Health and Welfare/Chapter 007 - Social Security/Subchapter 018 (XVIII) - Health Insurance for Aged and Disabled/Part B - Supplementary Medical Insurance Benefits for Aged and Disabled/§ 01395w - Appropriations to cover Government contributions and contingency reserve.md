@@ -6,7 +6,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;(1)(A) a Government contribution equal to the aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in the Trust Fund, multiplied by the ratio of—
 
-&emsp;&emsp;(i) twice the dollar amount of the actuarially adequate rate per enrollee age 65 andover as determined under section 1395r(a)(1) of this title for such month minus the dollar amount of the premium per enrollee for such month, as determined under section 1395r(a)(3) of this title, to
+&emsp;&emsp;(i) twice the dollar amount of the actuarially adequate rate per enrollee age 65 and over as determined under section 1395r(a)(1) of this title for such month minus the dollar amount of the premium per enrollee for such month, as determined under section 1395r(a)(3) of this title, to
 
 &emsp;&emsp;(ii) the dollar amount of the premium per enrollee for such month, plus
 
@@ -14,7 +14,9 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;&emsp;(i) twice the dollar amount of the actuarially adequate rate per enrollee under age 65 as determined under section 1395r(a)(4) of this title for such month minus the dollar amount of the premium per enrollee for such month, as determined under section 1395r(a)(3) of this title, to
 
-&emsp;&emsp;(ii) the dollar amount of the premium per enrollee for such month; plus
+&emsp;&emsp;(ii) the dollar amount of the premium per enrollee for such month; minus
+
+&emsp;(C) the aggregate amount of additional premium payments attributable to the application of section 1395r(i) of this title; plus
 
 &emsp;(2) such sums as the Secretary deems necessary to place the Trust Fund, at the end of any fiscal year occurring after June 30, 1967, in the same position in which it would have been at the end of such fiscal year if (A) a Government contribution representing the excess of the premiums deposited in the Trust Fund during the fiscal year ending June 30, 1967, over the Government contribution actually appropriated to the Trust Fund during such fiscal year had been appropriated to it on June 30, 1967, and (B) the Government contribution for premiums deposited in the Trust Fund after June 30, 1967, had been appropriated to it when such premiums were deposited.
 
@@ -24,11 +26,23 @@ In order to assure prompt payment of benefits provided under this part and the a
 
 #### (c) Election under section 1395w–24
 
-The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title.
+The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f) of this title and without regard to any premium adjustment under section 1395r(i) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558; Pub. L. 108–173, title II, §§222(<i>l</i>)(2)(C), 241(b)(2)(B), title VIII, §811(b)(2), Dec. 8, 2003, 117 Stat. 2206, 2221, 2368.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 108–173, title II, §§222(l)(2)(C), 223(a), Dec. 8, 2003, 117 Stat. 2206, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, subsection (c) of this section is amended by inserting “or any credits provided under section 1395w–24(b)(1)(C)(iv) of this title” after “section 1395w–24(f)(1)(E) of this title”.</i>
 
 #### Amendments
+
+2003—Subsec. (a)(1)(B)(ii). Pub. L. 108–173, §811(b)(2)(A)(i), substituted “minus” for “plus”.
+
+Subsec. (a)(1)(C). Pub. L. 108–173, §811(b)(2)(A)(ii), added subpar. (C).
+
+Subsec. (c). Pub. L. 108–173, §811(b)(2)(B), inserted “and without regard to any premium adjustment under section 1395r(i) of this title” before period at end.
+
+Pub. L. 108–173, §241(b)(2)(B), inserted “and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f) of this title” before period at end.
 
 2000—Subsec. (c). Pub. L. 106–554 added subsec. (c).
 
@@ -51,6 +65,10 @@ Subsec. (a)(1)(B)(i). Pub. L. 98–21, §606(a)(3)(G), substituted “1395r(a)(4
 1968—Subsec. (a). Pub. L. 90–248, §167(a), designated existing provisions as par. (1), inserted provision for deposit of Government contribution in Trust Fund, and added par. (2).
 
 Subsec. (b). Pub. L. 90–248, §167(b), substituted “1969” for “1967”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 222(<i>l</i>)(2)(C) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2000 Amendment
 

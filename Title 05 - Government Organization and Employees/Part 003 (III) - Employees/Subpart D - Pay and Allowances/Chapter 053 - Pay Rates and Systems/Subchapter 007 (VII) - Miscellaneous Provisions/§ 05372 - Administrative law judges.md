@@ -89,43 +89,47 @@ Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In maki
 
 #### Pay Increases
 
-2003—The President, under Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title, adjusted the rates of basic pay for administrative law judges effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2003, as follows:
+2004—The President, under Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title, adjusted the rates of basic pay for administrative law judges effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2004, as follows:
 
 AL–3/A
 
-$89,200
+$91,200
 
 AL–3/B
 
-96,000
+98,100
 
 AL–3/C
 
-102,900
+105,200
 
 AL–3/D
 
-109,800
+112,200
 
 AL–3/E
 
-116,600
+119,200
 
 AL–3/F
 
-123,400
+126,100
 
 AL–2
 
-130,400
+133,300
 
 AL–1
 
-134,000
+136,900
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-2002—The President, under Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title.
+Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title.
+
+2003—Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, which provided for adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
+
+2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133.
 
 2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
 
@@ -133,5 +137,5 @@ AL–1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559, 1305, 5304, 5372b, 5377, 5380, 7323 of this title; title 15 section 1715;title 29 section 661; title 30 section 938; title 38 section 7101A; title 42 sections 2000e–4, 3608.
+This section is referred to in sections 559, 1305, 5304, 5372b, 5377, 5380, 5402, 7323 of this title; title 15 section 1715; title 29 section 661; title 30 section 938; title 38 section 7101A; title 42 sections 2000e–4, 3608.
 

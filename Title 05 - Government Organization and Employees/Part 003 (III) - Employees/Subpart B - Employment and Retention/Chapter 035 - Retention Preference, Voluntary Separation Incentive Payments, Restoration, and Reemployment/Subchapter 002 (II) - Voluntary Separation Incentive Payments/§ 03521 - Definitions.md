@@ -38,13 +38,17 @@ In this subchapter, the term—
 
 Pub. L. 107–296, title XIII, §1313(a)(4), Nov. 25, 2002, 116 Stat. 2294, provided that: “This subsection \[enacting this subchapter and provisions set out as notes under this section\] shall take effect 60 days after the date of enactment of this Act \[Nov. 25, 2002\].”
 
-#### Administrative Office of the United States Courts
+#### Smithsonian Institution Employees
+
+Pub. L. 108–72, §5, Aug. 15, 2003, 117 Stat. 889, provided that: “The Secretary of the Smithsonian Institution may establish a program for making voluntary separation incentive payments for employees of the Smithsonian Institution which is substantially similar to the program established under subchapter II of chapter 35 of title 5, United States Code (as added by section 1313(a) of the Homeland Security Act of 2002 \[Pub. L. 107–296\]).”
+
+#### Judicial Branch Employees
 
 Pub. L. 107–296, title XIII, §1313(a)(2), Nov. 25, 2002, 116 Stat. 2294, provided that: “The Director of the Administrative Office of the United States Courts may, by regulation, establish a program substantially similar to the program established under paragraph (1) \[enacting this subchapter\] for individuals serving in the judicial branch.”
 
 #### Continuation of Other Authority
 
-Pub. L. 107–296, title XIII, §1313(a)(3), Nov. 25, 2002, 116 Stat. 2294, provided that: “Any agency exercising anyvoluntary separation incentive authority in effect on the effective date of this subsection \[see Effective Date note above\] may continue to offer voluntary separation incentives consistent with that authority until that authority expires.”
+Pub. L. 107–296, title XIII, §1313(a)(3), Nov. 25, 2002, 116 Stat. 2294, provided that: “Any agency exercising any voluntary separation incentive authority in effect on the effective date of this subsection \[see Effective Date note above\] may continue to offer voluntary separation incentives consistent with that authority until that authority expires.”
 
 #### Sense of Congress
 

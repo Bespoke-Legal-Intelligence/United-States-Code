@@ -48,7 +48,7 @@ No fiscal year limitation.—The Fund is available without fiscal year limitatio
 
 (d)
 
-Charges to Agencies.—If the Director approves plans submitted by the Administrator under subsection (b), the Administrator shall establish rates, consistent with the approval, to becharged to agencies for information technology resources provided through the Fund.
+Charges to Agencies.—If the Director approves plans submitted by the Administrator under subsection (b), the Administrator shall establish rates, consistent with the approval, to be charged to agencies for information technology resources provided through the Fund.
 
 (e)
 

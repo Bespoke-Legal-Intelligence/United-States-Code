@@ -12,10 +12,13 @@
 | [46108\.](%C2%A7%2046108%20-%20Enforcement%20of%20certificate%20requirements%20by%20interested%20persons.md) | Enforcement of certificate requirements by interested persons. |
 | [46109\.](%C2%A7%2046109%20-%20Joinder%20and%20intervention.md) | Joinder and intervention. |
 | [46110\.](%C2%A7%2046110%20-%20Judicial%20review.md) | Judicial review. |
+| [46111\.](%C2%A7%2046111%20-%20Certificate%20actions%20in%20response%20to%20a%20security%20threat.md) | Certificate actions in response to a security threat. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–176, title VI, §601(b), Dec. 12, 2003, 117 Stat. 2563, added item 46111.
 
 2001—Pub. L. 107–71, title I, §140(b)(8), Nov. 19, 2001, 115 Stat. 641, substituted “Department of Transportation” for “Secretary of Transportation and Administrator of the Federal Aviation Administration” in item 46106.
 
@@ -34,3 +37,4 @@
 - [&sect; 46108 - Enforcement of certificate requirements by interested persons](%C2%A7%2046108%20-%20Enforcement%20of%20certificate%20requirements%20by%20interested%20persons.md)
 - [&sect; 46109 - Joinder and intervention](%C2%A7%2046109%20-%20Joinder%20and%20intervention.md)
 - [&sect; 46110 - Judicial review](%C2%A7%2046110%20-%20Judicial%20review.md)
+- [&sect; 46111 - Certificate actions in response to a security threat](%C2%A7%2046111%20-%20Certificate%20actions%20in%20response%20to%20a%20security%20threat.md)

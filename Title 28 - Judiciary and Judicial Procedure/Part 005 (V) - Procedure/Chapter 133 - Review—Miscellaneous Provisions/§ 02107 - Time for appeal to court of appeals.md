@@ -1,6 +1,6 @@
 ### §2107. Time for appeal to court of appeals
 
-(a) Except as otherwise provided in this section, no appeal shall bring any judgment, orderor decree in an action, suit or proceeding of a civil nature before a court of appeals for review unless notice of appeal is filed, within thirty days after the entry of such judgment, order or decree.
+(a) Except as otherwise provided in this section, no appeal shall bring any judgment, order or decree in an action, suit or proceeding of a civil nature before a court of appeals for review unless notice of appeal is filed, within thirty days after the entry of such judgment, order or decree.
 
 (b) In any such action, suit or proceeding in which the United States or an officer or agency thereof is a party, the time as to all parties shall be sixty days from such entry.
 
@@ -50,7 +50,7 @@ By Senate amendment, all provisions relating to the Tax Court were eliminated. T
 
 #### 1949 Act
 
-This amendment to section 2107 of title 28, U.S.C., restores the former 15-day limitation of time within which to appeal from an interlocutory order in admiralty.
+This amendment to section 2107 of title 28, U.S.C., restores the former 15-day limitation of time withinwhich to appeal from an interlocutory order in admiralty.
 
 This amendment eliminates as surplusage the words “in any such action, suit or proceeding,” from the fourth paragraph of section 2107 of title 28, U.S.C., and corrects a typographical error in the same paragraph.
 

@@ -2,7 +2,7 @@
 
 (a) An annuity payable under this subchapter shall be increased at the same time that, and by the same percent as the percentage by which, annuities are increased under section 8340(b) of title 5.
 
-(b) An annuity under section 772 of this title may not be more than the basic pay of the Comptroller General. A surviving spouse's annuity may be increased under this section without regard to any limitation set forth in section 774(e) of this title.
+(b) An annuity under section 772 of this title may not be more than the basic pay of theComptroller General. A surviving spouse's annuity may be increased under this section without regard to any limitation set forth in section 774(e) of this title.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 906; Pub. L. 100–426, title II, §207, Sept. 9, 1988, 102 Stat. 1601.)
 

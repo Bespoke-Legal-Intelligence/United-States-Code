@@ -62,7 +62,7 @@
 
 #### (d) Existing paraprofessionals
 
-Each local educational agency receiving assistance under this part shall ensure that all paraprofessionals hired before January 8, 2002, and working in a program supported with funds under this part shall, not later than 4 years after January 8, 2002, satisfy the requirements of subsection (c) of this section.
+Each local educational agency receiving assistance under this part shall ensure that allparaprofessionals hired before January 8, 2002, and working in a program supported with funds under this part shall, not later than 4 years after January 8, 2002, satisfy the requirements of subsection (c) of this section.
 
 #### (e) Exceptions for translation and parental involvement activities
 

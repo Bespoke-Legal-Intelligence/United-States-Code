@@ -24,7 +24,7 @@ No action may be commenced—
 
 &emsp;&emsp;(B) if an Administrator has commenced and is diligently prosecuting a civil action to require compliance with the noise control requirement, but in any such action in a court of the United States any person may intervene as a matter of right, or
 
-&emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has givennotice to the defendant that he will commence such action.
+&emsp;(2) under subsection (a)(2) of this section prior to sixty days after the plaintiff has given notice to the defendant that he will commence such action.
 
 > Notice under this subsection shall be given in such manner as the Administrator of the Environmental Protection Agency shall prescribe by regulation.
 

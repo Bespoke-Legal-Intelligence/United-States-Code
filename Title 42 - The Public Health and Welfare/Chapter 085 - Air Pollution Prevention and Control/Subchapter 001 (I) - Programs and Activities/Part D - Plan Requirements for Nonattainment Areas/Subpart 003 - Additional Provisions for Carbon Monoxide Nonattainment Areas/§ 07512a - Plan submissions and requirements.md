@@ -6,7 +6,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Inventory
 
-&emsp;No later than 2 years from November 15, 1990, the State shall submit a comprehensive,accurate, current inventory of actual emissions from all sources, as described in section 7502(c)(3) of this title, in accordance with guidance provided by the Administrator.
+&emsp;No later than 2 years from November 15, 1990, the State shall submit a comprehensive, accurate, current inventory of actual emissions from all sources, as described in section 7502(c)(3) of this title, in accordance with guidance provided by the Administrator.
 
 #### (2)(A) Vehicle miles traveled
 
@@ -46,7 +46,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (2) Vehicle miles traveled
 
-&emsp;Within 2 years after November 15, 1990, the State shall submit a revision that includes the transportation control measures as required insection 7511a(d)(1) of this title except that such revision shall be for the purpose of reducing CO emissions rather than volatile organic compound emissions. In the case of any such area (other than an area in New York State) which is a covered area (as defined in section 7586(a)(2)(B) of this title) for purposes of the Clean Fuel Fleet program under part C of subchapter II of this chapter, if the State fails to include any such measure, the implementation plan shall contain an explanation of why such measure was not adopted and what emissions reduction measure was adopted to provide a comparable reduction in emissions, or reasons why such reduction is not necessary to attain the national primary ambient air quality standard for carbon monoxide.
+&emsp;Within 2 years after November 15, 1990, the State shall submit a revision that includes the transportation control measures as required in section 7511a(d)(1) of this title except that such revision shall be for the purpose of reducing CO emissions rather than volatile organic compound emissions. In the case of any such area (other than an area in New York State) which is a covered area (as defined in section 7586(a)(2)(B) of this title) for purposes of the Clean Fuel Fleet program under part C of subchapter II of this chapter, if the State fails to include any such measure, the implementation plan shall contain an explanation of why such measure was not adopted and what emissions reduction measure was adopted to provide a comparable reduction in emissions, or reasons why such reduction is not necessary to attain the national primary ambient air quality standard for carbon monoxide.
 
 #### (3) Oxygenated gasoline
 
@@ -92,7 +92,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Coordination among States
 
-&emsp;Each State in which there is located a portion of a single nonattainment area for carbon monoxide which covers more than one State (“multi-State nonattainment area”) shall take all reasonable steps to coordinate, substantively and procedurally, the revisions and implementation of State implementation plans applicable to the nonattainment area concerned. The Administrator may not approve any revision of a State implementation plan submitted under this part for a State in which part of a multi-State nonattainmentarea is located if the plan revision for that State fails to comply with the requirements of this subsection.
+&emsp;Each State in which there is located a portion of a single nonattainment area for carbon monoxide which covers more than one State (“multi-State nonattainment area”) shall take all reasonable steps to coordinate, substantively and procedurally, the revisions and implementation of State implementation plans applicable to the nonattainment area concerned. The Administrator may not approve any revision of a State implementation plan submitted under this part for a State in which part of a multi-State nonattainment area is located if the plan revision for that State fails to comply with the requirements of this subsection.
 
 #### (2) Failure to demonstrate attainment
 

@@ -48,11 +48,11 @@ Acceptance of Contributions; Imposition of Fees.—(1) The Secretary of a milita
 
 (f)
 
-Special Authority for Navy.—The Secretary of the Navy shall provide base operating support for Fisher Houses associated with health care facilities of the Navy. The level of the support shall be equivalent to the base operating support that the Secretary provides for morale, welfare, and recreation category B community activities (as defined in regulations, prescribed by the Secretary, that govern morale, welfare, and recreation activities associated with Navy installations).
+Base Operating Support.—The Secretary of a military department may provide base operating support for Fisher Houses associated with health care facilities of that military department.
 
 (g)
 
-Annual Report.—Not later than January 15 of each year, the Secretary of each military department shall submit to Congress a report describing the operation of Fisher Houses andFisher Suites associated with health care facilities of that military department. The report shall include, at a minimum, the following:
+Annual Report.—Not later than January 15 of each year, the Secretary of each military department shall submit to Congress a report describing the operation of Fisher Houses and Fisher Suites associated with health care facilities of that military department. The report shall include, at a minimum, the following:
 
 &emsp;(1) The amount in the fund established by that Secretary under subsection (d) as of October 1 of the previous year.
 
@@ -64,9 +64,11 @@ Annual Report.—Not later than January 15 of each year, the Secretary of each m
 
 &emsp;(3) The budget for the operation of the Fisher Houses and Fisher Suites for the fiscal year in which the report is submitted.
 
-(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230.)
+(Added Pub. L. 105–261, div. A, title IX, §906(a)(1), Oct. 17, 1998, 112 Stat. 2093; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–314, div. A, title III, §321, Dec. 2, 2002, 116 Stat. 2510.)
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–314 amended heading and text of subsec. (f) generally. Prior to amendment text read as follows: “The Secretary of the Navy shall provide base operating support for Fisher Houses associated with health care facilities of the Navy. The level of the support shall be equivalent to the base operating support that the Secretary provides for morale, welfare, and recreation category B community activities (as defined in regulations, prescribed by the Secretary, that govern morale, welfare, and recreation activities associated with Navy installations).”
 
 2000—Subsecs. (f), (g). Pub. L. 106–398 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -80,7 +82,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title IX, §914(b)\], Oct. 30, 2000, 114 St
 
 “(1) The Secretary of the Navy may continue to employ, and pay out of appropriated funds, any employee of the Navy in the competitive service who, as of October 17, 1998, was employed by the Navy in a position at a Fisher House administered by the Navy, but only for so long as the employee is continuously employed in that position.
 
-“(2) After a person vacates a position in which the person was continued to be employed under the authority of paragraph (1), a person employed in that position shall be employed as an employee of a nonappropriated fund instrumentality of the United States and may not be paid for services in that position out of appropriated funds.
+“(2) After a person vacates a position in which the person was continued to be employed under the authority of paragraph (1), a person employed in that position shall be employed as an employee of a nonappropriatedfund instrumentality of the United States and may not be paid for services in that position out of appropriated funds.
 
 “(3) In this subsection:
 

@@ -2,12 +2,14 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [12551\.](%C2%A7%2012551%20-%20Prohibition%20of%20use%20of%20Air%20Force%20Reserve%20AGR%20personnel%20for%20Air%20Force%20base%20security%20functions.md) | Prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions. |
+| \[12551. | Repealed.\] |
 | [12552\.](%C2%A7%2012552%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md) | Funeral honors functions at funerals for veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §515(b), Dec. 2, 2002, 116 Stat. 2540, struck out item 12551 “Prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions”.
 
 1999—Pub. L. 106–65, div. A, title V, §578(k)(2)(C), Oct. 5, 1999, 113 Stat. 631, substituted “honors functions at funerals for veterans” for “honor guard functions: prohibition of treatment as drill or training” in item 12552.
 
@@ -20,5 +22,5 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 12551 - Prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions](%C2%A7%2012551%20-%20Prohibition%20of%20use%20of%20Air%20Force%20Reserve%20AGR%20personnel%20for%20Air%20Force%20base%20security%20functions.md)
+- [&sect; 12551 - Repealed. Pub. L. 107&#8211;314, div. A, title V, &sect;515(a), Dec. 2, 2002, 116 Stat. 2539](%C2%A7%2012551%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7515%28a%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202539.md)
 - [&sect; 12552 - Funeral honors functions at funerals for veterans](%C2%A7%2012552%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md)

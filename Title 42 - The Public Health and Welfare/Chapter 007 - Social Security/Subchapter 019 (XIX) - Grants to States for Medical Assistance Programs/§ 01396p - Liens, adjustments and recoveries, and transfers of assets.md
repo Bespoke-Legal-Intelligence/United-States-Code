@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(i) who is an inpatient in a nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs, and
 
-&emsp;&emsp;(ii) with respect to whom the State determines, after notice and opportunity for a hearing (in accordance with procedures established by the State), that he cannot reasonably be expected to be discharged from the medical institution and to return home,
+&emsp;&emsp;(ii) with respect to whom the State determines, after notice and opportunity for ahearing (in accordance with procedures established by the State), that he cannot reasonably be expected to be discharged from the medical institution and to return home,
 
 > &emsp;except as provided in paragraph (2).
 
@@ -68,7 +68,7 @@
 
 #### (c) Taking into account certain transfers of assets
 
-(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
+(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan mustprovide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
 (B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section, 60 months) before the date specified in clause (ii).
 
@@ -154,7 +154,7 @@
 
 &emsp;(iv) A person, including any court or administrative body, acting at the direction or upon the request of the individual or the individual's spouse.
 
-(B) In the case of a trust the corpus of which includes assets of an individual (as determinedunder subparagraph (A)) and assets of any other person or persons, the provisions of this subsection shall apply to the portion of the trust attributable to the assets of the individual.
+(B) In the case of a trust the corpus of which includes assets of an individual (as determined under subparagraph (A)) and assets of any other person or persons, the provisions of this subsection shall apply to the portion of the trust attributable to the assets of the individual.
 
 (C) Subject to paragraph (4), this subsection shall apply without regard to—
 
@@ -186,7 +186,7 @@
 
 (4) This subsection shall not apply to any of the following trusts:
 
-&emsp;(A) A trust containing the assets of an individual under age 65 who is disabled (as defined in section 1382c(a)(3) of this title) and which is established for the benefit of such individual by a parent, grandparent, legal guardian of the individual, or a court if the State will receive all amounts remaining in the trust upon the death of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter.
+&emsp;(A) A trust containing the assets of an individual under age 65 who is disabled (as defined in section 1382c(a)(3) of this title) and which is established for the benefit of such individual by a parent, grandparent, legal guardian of the individual, or a court if the State will receive all amounts remaining in the trust upon thedeath of such individual up to an amount equal to the total medical assistance paid on behalf of the individual under a State plan under this subchapter.
 
 &emsp;(B) A trust established in a State for the benefit of an individual if—
 
@@ -220,7 +220,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) by a person, including a court or administrative body, with legal authority to act in place of or on behalf of the individual or such individual's spouse, or
 
-&emsp;&emsp;(C) by any person, including any court or administrative body, acting at the directionor upon the request of the individual or such individual's spouse.
+&emsp;&emsp;(C) by any person, including any court or administrative body, acting at the direction or upon the request of the individual or such individual's spouse.
 
 &emsp;(2) The term “income” has the meaning given such term in section 1382a of this title.
 
@@ -244,7 +244,7 @@ Subsec. (b)(3). Pub. L. 103–66, §13612(b), added par. (3).
 
 Subsec. (b)(4). Pub. L. 103–66, §13612(c), added par. (4).
 
-Subsec. (c)(1). Pub. L. 103–66, §13611(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to meet the requirements of this subsection (for purposes of section 1396a(a)(51)(B) of this title), the State plan must provide for a period of ineligibility for nursing facility services and for a level of care in a medical institution equivalent to that of nursing facility services and for services under section 1396n(c) of this title in the case of an institutionalized individual (as defined in paragraph (3)) who, or whose spouse, at any time during or after the 30-month period immediately before the date the individual becomes an institutionalized individual (if the individual is entitled to medical assistance under the State plan on such date) or, if the individual is not so entitled, the date the individual applies for such assistance while an institutionalized individual, disposed of resources for less than fair market value. The period of ineligibility shall begin with the month in which such resources were transferred and the number of months in such period shall be equal to the lesser of—
+Subsec. (c)(1). Pub. L. 103–66, §13611(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In order to meet the requirements of this subsection (for purposes of section 1396a(a)(51)(B) of this title), the State plan must provide for a period of ineligibility for nursing facility services and for a level of care in a medical institution equivalent to that of nursing facility services and for services under section 1396n(c) of this title in the case of an institutionalized individual (as defined in paragraph (3)) who, or whose spouse, at any time during or after the 30-month period immediately before the date the individual becomes an institutionalized individual (if the individual is entitled to medical assistance under the State plan on such date) or, if the individual is not so entitled, the datethe individual applies for such assistance while an institutionalized individual, disposed of resources for less than fair market value. The period of ineligibility shall begin with the month in which such resources were transferred and the number of months in such period shall be equal to the lesser of—
 
 &emsp;“(A) 30 months, or
 
@@ -312,7 +312,7 @@ Section 13611(e) of Pub. L. 103–66 provided that:
 
 &emsp;“(C) with respect to trusts established on or before the date of the enactment of this Act.
 
-“(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements imposed by such amendment solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+“(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[this subchapter\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (b) \[amending this section\], the State plan shall not be regarded as failingto comply with the requirements imposed by such amendment solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
 Section 13612(d) of Pub. L. 103–66 provided that:
 

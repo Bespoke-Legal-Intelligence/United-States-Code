@@ -4,7 +4,7 @@
 
 The period during which an individual is entitled to benefits under the insurance program established by this part (hereinafter referred to as his “coverage period”) shall begin on whichever of the following is the latest:
 
-&emsp;(1) July 1, 1966 or (in the case of a disabled individual who has not attained age 65) July 1, 1973; or
+&emsp;(1) July 1, 1966, or (in the case of a disabled individual who has not attained age 65) July 1, 1973; or
 
 &emsp;(2)(A) in the case of an individual who enrolls pursuant to subsection (d) of section 1395p of this title before the month in which he first satisfies paragraph (1) or (2) of section 1395<i>o</i> of this title, the first day of such month, or
 
@@ -48,13 +48,15 @@ Notwithstanding subsection (a) of this section, in the case of an individual who
 
 &emsp;(2) in any other month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### References in Text
 
 Part A of this subchapter, referred to in subsec. (c), is classified to section 1395c et seq. of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–173 inserted comma after “1966”.
 
 1997—Subsec. (e). Pub. L. 105–33 inserted “or 1395p(i)(4)(B)” after “1395p(i)(3)” in introductory provisions and “or specified in section 1395p(i)(4)(A)(i) of this title” after “1395p(i)(3) of this title” in par. (1).
 
@@ -96,7 +98,7 @@ Subsec. (a)(2). Pub. L. 92–603, §201(c)(3)(B), substituted in subpar. (A) “
 
 Subsec. (a)(3). Pub. L. 92–603, §206(b), added par. (3).
 
-Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating to an individual who is deemed to have enrolled for medical insurance pursuant to section1395p(f) of this title and an individual who is deemed enrolled for medical insurance benefits pursuant to section 1395p(f) of this title and struck out provisions limiting the allowable grace period to 90 days and inserted provision for extension of such period of up to 180 days where failure to pay premiums is due to good cause.
+Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating to an individual who is deemed to have enrolled for medical insurance pursuant to section 1395p(f) of this title and an individual who is deemed enrolled for medical insurance benefits pursuant to section 1395p(f) of this title and struck out provisions limiting the allowable grace period to 90 days and inserted provision for extension of such period of up to 180 days where failure to pay premiums is due to good cause.
 
 Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redesignated former subsec. (c) as (d).
 

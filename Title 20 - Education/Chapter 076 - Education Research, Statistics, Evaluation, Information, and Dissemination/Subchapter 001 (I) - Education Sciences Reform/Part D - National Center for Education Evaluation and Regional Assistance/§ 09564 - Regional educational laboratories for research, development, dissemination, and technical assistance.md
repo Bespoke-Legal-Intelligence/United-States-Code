@@ -10,7 +10,7 @@ The regions served by the regional educational laboratories shall be the 10 geog
 
 #### (c) Eligible applicants
 
-The Director may enter into contracts under this section with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002).
+The Director may enter into contracts under this section with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, orindividuals, with the demonstrated ability or capacity to carry out the activities described in this section, including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002).
 
 #### (d) Applications
 
@@ -78,7 +78,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;&emsp;&emsp;(iv) the replication and adaption of exemplary and promising practices and new educational methods, including professional development strategies and the use of educational technology to improve teaching and learning; and
 
-&emsp;&emsp;(C) the facilitation of communication between educational experts, school officials, and teachers, parents, and librarians, to enable such individuals to assist schools to develop a plan to meet the State education goals;
+&emsp;&emsp;(C) the facilitation of communication between educational experts, school officials,and teachers, parents, and librarians, to enable such individuals to assist schools to develop a plan to meet the State education goals;
 
 &emsp;(2) developing and widely disseminating, including through Internet-based means, scientifically valid research, information, reports, and publications that are usable for improving academic achievement, closing achievement gaps, and encouraging and sustaining school improvement, to—
 

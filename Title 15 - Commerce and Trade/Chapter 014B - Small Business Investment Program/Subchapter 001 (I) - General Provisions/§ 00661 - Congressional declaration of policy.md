@@ -8,7 +8,7 @@ It is the intention of the Congress that the provisions of this chapter shall be
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 85–699, which enacted this chapter, amended sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealed section 352a of Title 12, Banks and Banking, and enacted notes set out under this section and section 352a of Title 12. For completeclassification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 85–699, which enacted this chapter, amended sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealed section 352a of Title 12, Banks and Banking, and enacted notes set out under this section and section 352a of Title 12. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Section 1 of Pub. L. 86–502, June 11, 1960, 74 Stat. 196, provided: “That th
 
 #### Short Title
 
-Section 101 of Pub. L. 85–699, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: “This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the ‘Small Business Investment Act of 1958’.”
+Section 101 of Pub. L. 85–699, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that:“This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the ‘Small Business Investment Act of 1958’.”
 
 #### Regulations
 

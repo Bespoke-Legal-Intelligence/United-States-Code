@@ -6,7 +6,7 @@
 
 &emsp;(A) restrain any violation of section 2614 or 2689 of this title,
 
-&emsp;(B) restrain any person from taking any action prohibited by section 2604 of this title, 2605 of this title, or subchapter IV of this chapter, or by a rule or order under section 2604 of this title, 2605 of this title, or subchapter IV of this chapter,
+&emsp;(B) restrain any person from taking any action prohibited by section 2604 of this title,2605 of this title, or subchapter IV of this chapter, or by a rule or order under section 2604 of this title, 2605 of this title, or subchapter IV of this chapter,
 
 &emsp;(C) compel the taking of any action required by or under this chapter, or
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) in the case of a civil action described in subparagraph (A) of such paragraph, in the United States district court for the judicial district wherein any act, omission, or transaction constituting a violation of section 2614 of this title occurred or wherein the defendant is found or transacts business, or
 
-&emsp;(B) in the case of any other civil action described in such paragraph, in the United States district court for the judicial districtwherein the defendant is found or transacts business.
+&emsp;(B) in the case of any other civil action described in such paragraph, in the United States district court for the judicial district wherein the defendant is found or transacts business.
 
 > In any such civil action process may be served on a defendant in any judicial district in which a defendant resides or may be found. Subpoenas requiring attendance of witnesses in any such action may be served in any judicial district.
 

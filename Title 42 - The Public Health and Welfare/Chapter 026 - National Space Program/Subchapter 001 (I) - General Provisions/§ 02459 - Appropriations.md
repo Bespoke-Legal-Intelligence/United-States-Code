@@ -2,7 +2,7 @@
 
 #### (a) Authorization; limitations for uses of capital nature
 
-There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chaptershall authorize the appropriation of any amount for (1) the acquisition or condemnation of any real property, or (2) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000. Sums appropriated pursuant to this subsection for the construction of facilities, or for research and development activities, shall remain available until expended.
+There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chapter shall authorize the appropriation of any amount for (1) the acquisition or condemnation of any real property, or (2) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000. Sums appropriated pursuant to this subsection for the construction of facilities, or for research and development activities, shall remain available until expended.
 
 #### (b) Use of funds for emergency repairs of existing facilities
 

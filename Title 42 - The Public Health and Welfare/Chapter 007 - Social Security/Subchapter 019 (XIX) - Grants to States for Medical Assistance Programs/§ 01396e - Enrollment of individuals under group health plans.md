@@ -38,7 +38,7 @@ In this section:
 
 &emsp;(2) The term “cost-effective” means, as established by the Secretary, that the reduction in expenditures under this subchapter with respect to an individual who is enrolled in a group health plan is likely to be greater than the additional expenditures for premiums and cost-sharing required under this section with respect to such enrollment.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Pub. L. 101–508, title IV, §4402(a)(2), Nov. 5, 1990, 104 Stat. 1388–161; amended Pub. L. 105–33, title IV, §4741(b), Aug. 5, 1997, 111 Stat. 523.)
+(Aug. 14, 1935, ch. 531, title XIX, §1906, as added Pub. L. 101–508, title IV, §4402(a)(2), Nov. 5, 1990,104 Stat. 1388–161; amended Pub. L. 105–33, title IV, §4741(b), Aug. 5, 1997, 111 Stat. 523.)
 
 #### References in Text
 

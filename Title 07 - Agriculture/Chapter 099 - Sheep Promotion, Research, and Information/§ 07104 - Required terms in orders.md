@@ -28,7 +28,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Arkansas
 
-1&nbsp;&nbsp;&nbsp;
+1   
 
 &emsp;&emsp;California
 
@@ -264,7 +264,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producer nominations
 
-&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph (3) shall be initiated by the Secretary, with the Board securing the nominations for the Secretary.
+&emsp;&emsp;The solicitation of nominations for subsequent appointment to the Board from eligible organizations certified under paragraph\(3) shall be initiated by the Secretary, with the Board securing the nominations for the Secretary.
 
 #### (B) Feeder and importer nominations
 
@@ -600,7 +600,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall require that each person making payment to a producer, feeder, or handler for sheep or sheep products, each importer and exporter of sheep or sheep products, and each person marketing sheep products of theperson's own production to maintain, and make available for inspection, such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order.
+&emsp;The order shall require that each person making payment to a producer, feeder, or handler for sheep or sheep products, each importer and exporter of sheep or sheep products, and each person marketing sheep products of the person's own production to maintain, and make available for inspection, such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order.
 
 #### (2) Use of information
 

@@ -82,7 +82,7 @@ A prior section 2326 was renumbered section 2346 of this title.
 
 #### Amendments
 
-1997—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The head of an agency may waive the provisions ofthis subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation.”
+1997—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation.”
 
 1994—Subsec. (b). Pub. L. 103–355, §1505(a)(1), struck out “and expenditure” after “obligation” in heading.
 
@@ -108,9 +108,13 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section 101(c) \[title X, §908(d)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(d)(2) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2326 of title 10, United States Code (as added by subsection (d)(1)), applies to undefinitized contractual actions that are entered into after the end of the 180-day period beginning on the date of the enactment of this Act \[Oct. 18, 1986\].”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
+Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div.D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 “(a)
 

@@ -26,7 +26,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 &emsp;&emsp;(A) in the case of an expenditure for entities funded under part B of this subchapter, a fiscal year for which the amount appropriated under section 15029(a) of this title is less than $76,000,000; and
 
-&emsp;&emsp;(B) in the case of an expenditure for entities funded under part D of this subchapter, a fiscal year prior to the first fiscal year for which the amount appropriated under section 15066(a)(1) of this title is not less than $20,000,000.
+&emsp;&emsp;(B) in the case of an expenditure for entities funded under part D of this subchapter, a fiscal year prior to the first fiscal year forwhich the amount appropriated under section 15066(a)(1) of this title is not less than $20,000,000.
 
 #### (3) References
 

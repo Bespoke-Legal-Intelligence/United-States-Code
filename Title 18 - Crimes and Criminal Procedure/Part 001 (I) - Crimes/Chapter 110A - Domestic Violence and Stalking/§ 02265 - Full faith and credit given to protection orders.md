@@ -2,7 +2,7 @@
 
 (a)
 
-Full Faith and Credit.—Any protection order issued that is consistent with subsection\(b) of this section by the court of one State or Indian tribe (the issuing State or Indian tribe) shall be accorded full faith and credit by the court of another State or Indian tribe (the enforcing State or Indian tribe) and enforced as if it were the order of the enforcing State or tribe.
+Full Faith and Credit.—Any protection order issued that is consistent with subsection (b) of this section by the court of one State or Indian tribe (the issuing State or Indian tribe) shall be accorded full faith and credit by the court of another State or Indian tribe (the enforcing State or Indian tribe) and enforced as if it were the order of the enforcing State or tribe.
 
 (b)
 

@@ -16,3 +16,15 @@
 
 Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: “This subtitle \[subtitle A (§§3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the ‘Defense Drug Interdiction Assistance Act’.”
 
+#### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
+
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, provided that:
+
+“(a)
+
+Authority.—A joint task force of the Department of Defense that provides support to law enforcement agencies conducting counter-drug activities may also provide, subject to all applicable laws and regulations, support to law enforcement agencies conducting counter-terrorism activities.
+
+“(b)
+
+Conditions.—Any support provided under subsection (a) may only be provided in the geographic area of responsibility of the joint task force.”
+

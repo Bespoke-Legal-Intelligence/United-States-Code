@@ -70,7 +70,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (3) Taxable years, etc., treated separately
 
-&emsp;For purposes of this subsection, each taxable period (or, if there is no taxable period, each taxable event) and each tax imposed by a separate chapter of this title shall be treated separately.
+&emsp;For purposes of this subsection, each taxable period (or, if there is no taxable period, eachtaxable event) and each tax imposed by a separate chapter of this title shall be treated separately.
 
 #### (e) Limitation on examination on unreported income
 

@@ -2,7 +2,7 @@
 
 #### (a) Delivery of deeds
 
-The foreclosure commissioner shall, upon delivery of a deed or deeds to the purchaser or purchasers (which shall be without warranty or covenants to the purchaser or purchasers) obtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale. Notwithstanding any State law to the contrary, delivery of a deed by the foreclosure commissioner shall be a conveyance of the property, and constitute passage of title to the mortgaged property, and no judicial proceedings shall be required ancillary or supplementary to the procedures provided in this chapter to assure the validity of the conveyance or confirmation of such conveyance.
+The foreclosure commissioner shall, upon delivery of a deed or deeds to the purchaser or purchasers (which shall be without warranty or covenants to the purchaser or purchasers) obtain the balance of the purchase price in accordance with the terms of sale provided in the notice of default and foreclosure sale. Notwithstanding any State law to the contrary, delivery of a deed by the foreclosure commissioner shall be a conveyance of the property, and constitute passage of title to the mortgaged property, and no judicial proceedings shall be required ancillary or supplementary to the procedures provided inthis chapter to assure the validity of the conveyance or confirmation of such conveyance.
 
 #### (b) Right of possession
 
@@ -28,7 +28,7 @@ The purchaser of property under this chapter shall be presumed to be a bona fide
 
 #### (f) Taxes
 
-When a mortgage foreclosed pursuant to this chapter is conveyed to the Secretary, no taxshall be imposed or collected with respect to the foreclosure commissioner's deed (including any tax customarily imposed upon the deed instrument or upon the conveyance or transfer of title to the property). Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice, or for denying the enforcement of such a deed and its provisions in any State or Federal court.
+When a mortgage foreclosed pursuant to this chapter is conveyed to the Secretary, no tax shall be imposed or collected with respect to the foreclosure commissioner's deed (including any tax customarily imposed upon the deed instrument or upon the conveyance or transfer of title to the property). Failure to collect or pay a tax of the type and under the circumstances stated in the preceding sentence shall not be grounds for refusing to record such a deed, for failing to recognize such recordation as imparting notice, or for denying the enforcement of such a deed and its provisions in any State or Federal court.
 
 (Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316.)
 

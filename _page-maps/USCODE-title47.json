@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title47",
- "package": "USCODE-2002-title47",
+ "package": "USCODE-2003-title47",
  "pieces": [
   {
    "id": "47_",
@@ -1329,20 +1329,20 @@
      true
     ],
     [
-     "L",
-     138,
-     "[Page 63]",
-     true
-    ],
-    [
      "I",
-     224,
+     138,
      [
       [
-       215,
-       "[Page 64]"
+       137,
+       "[Page 63]"
       ]
      ]
+    ],
+    [
+     "L",
+     226,
+     "[Page 64]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00223 - Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications.md",
@@ -1356,16 +1356,16 @@
    "marks": [
     [
      "L",
-     32,
+     28,
      "[Page 65]",
      true
     ],
     [
      "I",
-     82,
+     78,
      [
       [
-       107,
+       97,
        "[Page 66]"
       ]
      ]
@@ -1381,14 +1381,18 @@
    "id": "47_225",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 67]",
-     true
+     "I",
+     34,
+     [
+      [
+       141,
+       "[Page 67]"
+      ]
+     ]
     ],
     [
      "L",
-     116,
+     112,
      "[Page 68]",
      true
     ]
@@ -1403,34 +1407,22 @@
    "id": "47_226",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       94,
-       "[Page 69]"
-      ]
-     ]
+     "L",
+     58,
+     "[Page 69]",
+     true
     ],
     [
-     "I",
-     140,
-     [
-      [
-       101,
-       "[Page 70]"
-      ]
-     ]
+     "L",
+     134,
+     "[Page 70]",
+     true
     ],
     [
-     "I",
-     208,
-     [
-      [
-       107,
-       "[Page 71]"
-      ]
-     ]
+     "L",
+     204,
+     "[Page 71]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00226 - Telephone operator services.md",
@@ -1443,27 +1435,27 @@
    "id": "47_227",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 72]",
-     true
-    ],
-    [
      "I",
-     100,
+     34,
      [
       [
-       93,
-       "[Page 73]"
+       92,
+       "[Page 72]"
       ]
      ]
+    ],
+    [
+     "L",
+     98,
+     "[Page 73]",
+     true
     ],
     [
      "I",
      160,
      [
       [
-       412,
+       228,
        "[Page 74]"
       ]
      ]
@@ -1473,7 +1465,7 @@
      216,
      [
       [
-       271,
+       92,
        "[Page 75]"
       ]
      ]
@@ -1490,35 +1482,31 @@
    "marks": [
     [
      "I",
-     22,
+     14,
      [
       [
-       145,
+       89,
        "[Page 76]"
       ]
      ]
     ],
     [
      "L",
-     90,
+     82,
      "[Page 77]",
      true
     ],
     [
      "L",
-     178,
+     170,
      "[Page 78]",
      true
     ],
     [
-     "I",
-     236,
-     [
-      [
-       136,
-       "[Page 79]"
-      ]
-     ]
+     "L",
+     226,
+     "[Page 79]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00228 - Regulation of carrier offering of pay-per-call services.md",
@@ -1531,14 +1519,10 @@
    "id": "47_229",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       274,
-       "[Page 80]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 80]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00229 - Communications Assistance for Law Enforcement Act compliance.md",
@@ -1552,10 +1536,10 @@
    "marks": [
     [
      "I",
-     46,
+     40,
      [
       [
-       91,
+       99,
        "[Page 81]"
       ]
      ]
@@ -1572,27 +1556,27 @@
    "marks": [
     [
      "I",
-     14,
+     6,
      [
       [
-       138,
+       268,
        "[Page 82]"
       ]
      ]
     ],
     [
      "I",
-     90,
+     86,
      [
       [
-       142,
+       90,
        "[Page 83]"
       ]
      ]
     ],
     [
      "L",
-     212,
+     198,
      "[Page 84]",
      true
     ]
@@ -1617,23 +1601,19 @@
    "marks": [
     [
      "L",
-     52,
+     46,
      "[Page 85]",
      true
     ],
     [
-     "I",
-     118,
-     [
-      [
-       301,
-       "[Page 86]"
-      ]
-     ]
+     "L",
+     112,
+     "[Page 86]",
+     true
     ],
     [
      "L",
-     184,
+     170,
      "[Page 87]",
      true
     ]
@@ -1648,21 +1628,17 @@
    "id": "47_252",
    "marks": [
     [
-     "I",
-     74,
-     [
-      [
-       182,
-       "[Page 88]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 88]",
+     true
     ],
     [
      "I",
-     134,
+     130,
      [
       [
-       407,
+       133,
        "[Page 89]"
       ]
      ]
@@ -1678,10 +1654,14 @@
    "id": "47_253",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 90]",
-     true
+     "I",
+     24,
+     [
+      [
+       379,
+       "[Page 90]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00253 - Removal of barriers to entry.md",
@@ -1694,66 +1674,62 @@
    "id": "47_254",
    "marks": [
     [
-     "I",
-     68,
-     [
-      [
-       265,
-       "[Page 91]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 91]",
+     true
+    ],
+    [
+     "L",
+     106,
+     "[Page 92]",
+     true
     ],
     [
      "I",
-     112,
+     180,
      [
       [
-       371,
-       "[Page 92]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     184,
-     [
-      [
-       143,
+       218,
        "[Page 93]"
       ]
      ]
     ],
     [
-     "L",
-     252,
-     "[Page 94]",
-     true
+     "I",
+     236,
+     [
+      [
+       99,
+       "[Page 94]"
+      ]
+     ]
     ],
     [
      "I",
-     312,
+     302,
      [
       [
-       100,
+       99,
        "[Page 95]"
       ]
      ]
     ],
     [
-     "I",
-     408,
-     [
-      [
-       96,
-       "[Page 96]"
-      ]
-     ]
+     "L",
+     396,
+     "[Page 96]",
+     true
     ],
     [
-     "L",
-     488,
-     "[Page 97]",
-     true
+     "I",
+     478,
+     [
+      [
+       174,
+       "[Page 97]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00254 - Universal service.md",
@@ -1776,10 +1752,10 @@
    "marks": [
     [
      "I",
-     18,
+     10,
      [
       [
-       222,
+       93,
        "[Page 98]"
       ]
      ]
@@ -1813,10 +1789,14 @@
    "id": "47_259",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 99]",
-     true
+     "I",
+     4,
+     [
+      [
+       508,
+       "[Page 99]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00259 - Infrastructure sharing.md",
@@ -1839,7 +1819,7 @@
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 100]",
      true
     ]
@@ -1863,24 +1843,24 @@
    "id": "47_271",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 101]",
-     true
-    ],
-    [
      "I",
-     132,
+     52,
      [
       [
-       95,
-       "[Page 102]"
+       179,
+       "[Page 101]"
       ]
      ]
     ],
     [
      "L",
-     190,
+     120,
+     "[Page 102]",
+     true
+    ],
+    [
+     "L",
+     186,
      "[Page 103]",
      true
     ]
@@ -1896,10 +1876,10 @@
    "marks": [
     [
      "I",
-     58,
+     54,
      [
       [
-       96,
+       92,
        "[Page 104]"
       ]
      ]
@@ -1915,36 +1895,42 @@
    "id": "47_273",
    "marks": [
     [
+     "I",
+     4,
+     [
+      [
+       86,
+       "[Page 105]"
+      ]
+     ]
+    ],
+    [
      "L",
-     6,
-     "[Page 105]",
+     68,
+     "[Page 106]",
      true
     ],
     [
      "I",
-     72,
+     112,
      [
       [
        92,
-       "[Page 106]"
+       "[Page 107]"
       ]
      ]
     ],
     [
-     "I",
-     118,
-     [
-      [
-       97,
-       "[Page 107]"
-      ]
-     ]
+     "L",
+     180,
+     "[Page 108]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00273 - Manufacturing by Bell operating companies.md",
    "printed_pages": [
     104,
-    107
+    108
    ]
   },
   {
@@ -1952,38 +1938,24 @@
    "marks": [
     [
      "I",
-     4,
-     [
-      [
-       232,
-       "[Page 108]"
-      ]
-     ]
-    ],
-    [
-     "I",
      64,
      [
       [
-       976,
+       625,
        "[Page 109]"
       ]
      ]
     ],
     [
-     "I",
+     "L",
      138,
-     [
-      [
-       185,
-       "[Page 110]"
-      ]
-     ]
+     "[Page 110]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00274 - Electronic publishing by Bell operating companies.md",
    "printed_pages": [
-    107,
+    108,
     110
    ]
   },
@@ -1995,7 +1967,7 @@
      26,
      [
       [
-       234,
+       91,
        "[Page 111]"
       ]
      ]
@@ -5078,7 +5050,7 @@
      30,
      [
       [
-       112,
+       117,
        "[Page 276]"
       ]
      ]
@@ -5095,10 +5067,10 @@
    "marks": [
     [
      "I",
-     6,
+     4,
      [
       [
-       90,
+       358,
        "[Page 277]"
       ]
      ]
@@ -5123,14 +5095,10 @@
    "id": "47_721",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       185,
-       "[Page 278]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 278]",
+     true
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 002 (II) - Federal Coordination, Planning, and Regulation/§ 00721 - Implementation of policy.md",
@@ -5161,10 +5129,14 @@
    "id": "47_732",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 279]",
-     true
+     "I",
+     8,
+     [
+      [
+       101,
+       "[Page 279]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 003 (III) - Communications Satellite Corporation/§ 00732 - Applicable laws.md",
@@ -5223,10 +5195,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       90,
+       673,
        "[Page 280]"
       ]
      ]
@@ -5270,10 +5242,10 @@
    "marks": [
     [
      "I",
-     28,
+     22,
      [
       [
-       105,
+       85,
        "[Page 281]"
       ]
      ]
@@ -5325,14 +5297,10 @@
    "id": "47_761",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       94,
-       "[Page 282]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 282]",
+     true
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part A - Actions to Ensure Pro-Competitive Privatization/§ 00761 - Federal Communications Commission licensing.md",
@@ -5345,10 +5313,14 @@
    "id": "47_761a",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 283]",
-     true
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 283]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part A - Actions to Ensure Pro-Competitive Privatization/§ 00761a - Incentives; limitation on expansion pending privatization.md",
@@ -5370,10 +5342,14 @@
    "id": "47_763",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 284]",
-     true
+     "I",
+     54,
+     [
+      [
+       231,
+       "[Page 284]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763 - General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat.md",
@@ -5393,30 +5369,26 @@
   },
   {
    "id": "47_763b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 285]",
+     true
+    ]
+   ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763b - Specific criteria for INTELSAT separated entities.md",
    "printed_pages": [
     284,
-    284
+    285
    ]
   },
   {
    "id": "47_763c",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       131,
-       "[Page 285]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763c - Specific criteria for Inmarsat.md",
    "printed_pages": [
-    284,
+    285,
     285
    ]
   },
@@ -5440,26 +5412,26 @@
   },
   {
    "id": "47_765",
-   "marks": [],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765 - Access to INTELSAT.md",
-   "printed_pages": [
-    285,
-    285
-   ]
-  },
-  {
-   "id": "47_765a",
    "marks": [
     [
      "L",
-     12,
+     20,
      "[Page 286]",
      true
     ]
    ],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765a - Signatory role.md",
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765 - Access to INTELSAT.md",
    "printed_pages": [
     285,
+    286
+   ]
+  },
+  {
+   "id": "47_765a",
+   "marks": [],
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765a - Signatory role.md",
+   "printed_pages": [
+    286,
     286
    ]
   },
@@ -5483,26 +5455,26 @@
   },
   {
    "id": "47_765d",
-   "marks": [],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765d - Termination of provisions of this chapter.md",
-   "printed_pages": [
-    286,
-    286
-   ]
-  },
-  {
-   "id": "47_765e",
    "marks": [
     [
      "L",
-     12,
+     14,
      "[Page 287]",
      true
     ]
    ],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765e - Reports to Congress.md",
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765d - Termination of provisions of this chapter.md",
    "printed_pages": [
     286,
+    287
+   ]
+  },
+  {
+   "id": "47_765e",
+   "marks": [],
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765e - Reports to Congress.md",
+   "printed_pages": [
+    287,
     287
    ]
   },
@@ -5556,20 +5528,20 @@
    "marks": [
     [
      "I",
-     36,
+     20,
      [
       [
-       85,
+       138,
        "[Page 288]"
       ]
      ]
     ],
     [
      "I",
-     118,
+     108,
      [
       [
-       214,
+       93,
        "[Page 289]"
       ]
      ]
@@ -5621,18 +5593,14 @@
    "id": "47_901",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       87,
-       "[Page 290]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 290]",
+     true
     ],
     [
      "L",
-     90,
+     84,
      "[Page 291]",
      true
     ]
@@ -5648,23 +5616,19 @@
    "marks": [
     [
      "I",
-     32,
+     26,
      [
       [
-       145,
+       184,
        "[Page 292]"
       ]
      ]
     ],
     [
-     "I",
-     82,
-     [
-      [
-       136,
-       "[Page 293]"
-      ]
-     ]
+     "L",
+     76,
+     "[Page 293]",
+     true
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00902 - Establishment; assigned functions.md",
@@ -5677,20 +5641,20 @@
    "id": "47_903",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       140,
-       "[Page 294]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 294]",
+     true
     ],
     [
-     "L",
-     80,
-     "[Page 295]",
-     true
+     "I",
+     72,
+     [
+      [
+       518,
+       "[Page 295]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00903 - Spectrum management activities.md",
@@ -5703,10 +5667,14 @@
    "id": "47_904",
    "marks": [
     [
-     "L",
-     66,
-     "[Page 296]",
-     true
+     "I",
+     56,
+     [
+      [
+       311,
+       "[Page 296]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00904 - General administrative provisions.md",
@@ -5738,10 +5706,10 @@
    "marks": [
     [
      "I",
-     64,
+     56,
      [
       [
-       107,
+       498,
        "[Page 297]"
       ]
      ]
@@ -5766,40 +5734,32 @@
    "id": "47_923",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       182,
-       "[Page 298]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 298]",
+     true
     ],
     [
      "L",
-     106,
+     98,
      "[Page 299]",
      true
     ],
     [
      "I",
-     166,
+     158,
      [
       [
-       304,
+       230,
        "[Page 300]"
       ]
      ]
     ],
     [
-     "I",
-     218,
-     [
-      [
-       87,
-       "[Page 301]"
-      ]
-     ]
+     "L",
+     208,
+     "[Page 301]",
+     true
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00923 - Identification of reallocable frequencies.md",
@@ -5813,7 +5773,7 @@
    "marks": [
     [
      "L",
-     34,
+     16,
      "[Page 302]",
      true
     ]
@@ -5829,30 +5789,29 @@
    "marks": [
     [
      "L",
-     42,
+     28,
      "[Page 303]",
+     true
+    ],
+    [
+     "L",
+     120,
+     "[Page 304]",
      true
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00925 - Distribution of frequencies by Commission.md",
    "printed_pages": [
     302,
-    303
+    304
    ]
   },
   {
    "id": "47_926",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 304]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00926 - Authority to recover reassigned frequencies.md",
    "printed_pages": [
-    303,
+    304,
     304
    ]
   },
@@ -5879,21 +5838,31 @@
    "marks": [
     [
      "I",
-     28,
+     14,
      [
       [
-       90,
+       134,
        "[Page 305]"
       ]
      ]
     ],
     [
      "I",
-     94,
+     80,
      [
       [
-       179,
+       92,
        "[Page 306]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     160,
+     [
+      [
+       160,
+       "[Page 307]"
       ]
      ]
     ]
@@ -5901,26 +5870,15 @@
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 003 (III) - Miscellaneous/§ 00941 - Child-friendly second-level Internet domain.md",
    "printed_pages": [
     304,
-    306
+    307
    ]
   },
   {
    "id": "47_-ch9",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       43,
-       "[Page 307]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Interception of Digital and Other Communications/README.md",
    "printed_pages": [
-    306,
+    307,
     307
    ]
   },
@@ -5937,14 +5895,10 @@
    "id": "47_1001",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       102,
-       "[Page 308]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 308]",
+     true
     ]
    ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01001 - Definitions.md",
@@ -5958,10 +5912,10 @@
    "marks": [
     [
      "I",
-     52,
+     44,
      [
       [
-       571,
+       219,
        "[Page 309]"
       ]
      ]
@@ -5977,14 +5931,10 @@
    "id": "47_1003",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       364,
-       "[Page 310]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 310]",
+     true
     ]
    ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01003 - Notices of capacity requirements.md",
@@ -6015,14 +5965,10 @@
    "id": "47_1006",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       182,
-       "[Page 311]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 311]",
+     true
     ]
    ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01006 - Technical requirements and standards; extension of compliance date.md",
@@ -6033,11 +5979,18 @@
   },
   {
    "id": "47_1007",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 312]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01007 - Enforcement orders.md",
    "printed_pages": [
     311,
-    311
+    312
    ]
   },
   {
@@ -6045,20 +5998,10 @@
    "marks": [
     [
      "I",
-     10,
+     68,
      [
       [
-       86,
-       "[Page 312]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     80,
-     [
-      [
-       115,
+       95,
        "[Page 313]"
       ]
      ]
@@ -6066,7 +6009,7 @@
    ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01008 - Payment of costs of telecommunications carriers to comply with capability requirements.md",
    "printed_pages": [
-    311,
+    312,
     313
    ]
   },
@@ -6102,10 +6045,10 @@
    "marks": [
     [
      "I",
-     20,
+     8,
      [
       [
-       415,
+       311,
        "[Page 314]"
       ]
      ]
@@ -6119,30 +6062,30 @@
   },
   {
    "id": "47_-ch10",
-   "marks": [],
-   "path": "Chapter 010 - Local TV/README.md",
-   "printed_pages": [
-    314,
-    314
-   ]
-  },
-  {
-   "id": "47_1101",
    "marks": [
     [
      "I",
-     2,
+     34,
      [
       [
-       94,
+       19,
        "[Page 315]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 010 - Local TV/§ 01101 - Purpose.md",
+   "path": "Chapter 010 - Local TV/README.md",
    "printed_pages": [
     314,
+    315
+   ]
+  },
+  {
+   "id": "47_1101",
+   "marks": [],
+   "path": "Chapter 010 - Local TV/§ 01101 - Purpose.md",
+   "printed_pages": [
+    315,
     315
    ]
   },
@@ -6160,31 +6103,49 @@
    "marks": [
     [
      "I",
-     22,
+     10,
      [
       [
-       97,
+       101,
        "[Page 316]"
       ]
      ]
     ],
     [
-     "L",
-     80,
-     "[Page 317]",
-     true
+     "I",
+     70,
+     [
+      [
+       95,
+       "[Page 317]"
+      ]
+     ]
     ],
     [
-     "L",
-     154,
-     "[Page 318]",
-     true
+     "I",
+     148,
+     [
+      [
+       231,
+       "[Page 318]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     214,
+     [
+      [
+       105,
+       "[Page 319]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Local TV/§ 01103 - Approval of loan guarantees.md",
    "printed_pages": [
     315,
-    318
+    319
    ]
   },
   {
@@ -6192,34 +6153,28 @@
    "marks": [
     [
      "I",
-     4,
+     74,
      [
       [
-       93,
-       "[Page 319]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     82,
-     [
-      [
-       227,
+       194,
        "[Page 320]"
       ]
      ]
     ],
     [
-     "L",
-     164,
-     "[Page 321]",
-     true
+     "I",
+     152,
+     [
+      [
+       98,
+       "[Page 321]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Local TV/§ 01104 - Administration of loan guarantees.md",
    "printed_pages": [
-    318,
+    319,
     321
    ]
   },
@@ -6236,35 +6191,34 @@
    "id": "47_1106",
    "marks": [
     [
+     "I",
+     10,
+     [
+      [
+       184,
+       "[Page 322]"
+      ]
+     ]
+    ],
+    [
      "L",
-     20,
-     "[Page 322]",
+     84,
+     "[Page 323]",
      true
     ]
    ],
    "path": "Chapter 010 - Local TV/§ 01106 - Improved cellular service in rural areas.md",
    "printed_pages": [
     321,
-    322
+    323
    ]
   },
   {
    "id": "47_1107",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       110,
-       "[Page 323]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Local TV/§ 01107 - Sunset.md",
    "printed_pages": [
-    322,
+    323,
     323
    ]
   },
@@ -6282,7 +6236,7 @@
    "marks": [
     [
      "L",
-     54,
+     42,
      "[Page 324]",
      true
     ]
@@ -6303,6 +6257,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2002-title47 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2003-title47 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 47 - Telegraphs, Telephones, and Radiotelegraphs"
 }

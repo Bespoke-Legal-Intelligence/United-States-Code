@@ -1,6 +1,6 @@
 ### §3012. General corporate powers
 
-The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by section 3017 of this title in such amounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
+The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by section 3017 of this title in suchamounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
 
 &emsp;(1) operate under the direction of its Board of Directors;
 
@@ -8,7 +8,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(3) elect by its Board of Directors a president, one or more vice presidents, a secretary, a treasurer, and provide for such other officers, employees, and agents as may be necessary, and define their duties in accordance with regulations and standards adopted by the Board, and require surety bonds or make other provisions against losses occasioned by acts of employees;
 
-&emsp;(4) prescribe by its Board of Directors its bylaws not inconsistent with law, which shall establish the terms of office and the procedure for election of elective members; provide in a manner not inconsistent with this chapter for the classes of its stock and the manner inwhich its stock shall be issued, transferred, and retired; and prescribe the manner in which its officers, employees, and agents are elected or selected, its property acquired, held and transferred, its loans, commitments, other financial assistance, guarantees and appraisals may be made, its general business conducted, and the privilege granted it by law exercised and enjoyed;
+&emsp;(4) prescribe by its Board of Directors its bylaws not inconsistent with law, which shall establish the terms of office and the procedure for election of elective members; provide in a manner not inconsistent with this chapter for the classes of its stock and the manner in which its stock shall be issued, transferred, and retired; and prescribe the manner in which its officers, employees, and agents are elected or selected, its property acquired, held and transferred, its loans, commitments, other financial assistance, guarantees and appraisals may be made, its general business conducted, and the privilege granted it by law exercised and enjoyed;
 
 &emsp;(5) enter into contracts and make advance, progress, or other payments with respect to such contracts, without regard to the provisions of section 3324(a) and (b) of title 31;
 
@@ -52,7 +52,7 @@ In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of 1933, for provisions setting forth criteria for the term “exempt securities”.
+1981—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of1933, for provisions setting forth criteria for the term “exempt securities”.
 
 #### Effective Date of 1981 Amendment
 

@@ -12,11 +12,11 @@ Congress finds that—
 
 &emsp;(4) historical evidence, in the form of old logging camps and other artifacts, and the history of territorial New Mexico indicate the importance of this land over many generations for domesticated livestock production and timber supply;
 
-&emsp;(5) the careful husbandry of the Baca ranch by the current owners, including selective timbering, limited grazing and hunting, andthe use of prescribed fire, have preserved a mix of healthy range and timber land with significant species diversity, thereby serving as a model for sustainable land development and use;
+&emsp;(5) the careful husbandry of the Baca ranch by the current owners, including selective timbering, limited grazing and hunting, and the use of prescribed fire, have preserved a mix of healthy range and timber land with significant species diversity, thereby serving as a model for sustainable land development and use;
 
 &emsp;(6) the Baca ranch's natural beauty and abundant resources, and its proximity to large municipal populations, could provide numerous recreational opportunities for hiking, fishing, camping, cross-country skiing, and hunting;
 
-&emsp;(7) the Forest Service documented the scenic and natural values of the Baca ranch in its 1993 study entitled “Report on the Study of the Baca Location No. 1, Santa Fe National Forest, New Mexico”, as directed by Public Law 101–556;
+&emsp;(7) the Forest Service documented the scenic and natural values of the Baca ranch in its 1993 study entitled “Report on the Study of the Baca Location No. 1, Santa Fe NationalForest, New Mexico”, as directed by Public Law 101–556;
 
 &emsp;(8) the Baca ranch can be protected for current and future generations by continued operation as a working ranch under a unique management regime which would protect the land and resource values of the property and surrounding ecosystem while allowing and providing for the ranch to eventually become financially self-sustaining;
 

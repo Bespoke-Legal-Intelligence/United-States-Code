@@ -40,7 +40,7 @@ The Director shall—
 
 &emsp;&emsp;(C) service delivery models (such as health centers under section 254b of this title and the Indian Health Service) to reduce health disparities; and
 
-&emsp;&emsp;(D) innovative mechanisms or strategies that will facilitate the translation of past research investments into clinical practices that can reasonably be expected to benefit these populations.
+&emsp;&emsp;(D) innovative mechanisms or strategies that will facilitate the translation of pastresearch investments into clinical practices that can reasonably be expected to benefit these populations.
 
 #### (c) Quality measurement development
 
@@ -68,7 +68,7 @@ For purposes of this section:
 
 #### Prior Provisions
 
-A prior section 299a–1, act July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec.19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172, related to public dissemination of information about studies and projects prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–3 of this title.
+A prior section 299a–1, act July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172, related to public dissemination of information about studies and projects prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–3 of this title.
 
 A prior section 903 of act July 1, 1944, was classified to section 299c of this title prior to repeal by Pub. L. 99–117.
 

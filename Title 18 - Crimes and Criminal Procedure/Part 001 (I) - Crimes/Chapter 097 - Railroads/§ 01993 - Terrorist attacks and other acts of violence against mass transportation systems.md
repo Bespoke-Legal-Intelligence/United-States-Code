@@ -6,7 +6,7 @@ General Prohibitions.—Whoever willfully—
 
 &emsp;(1) wrecks, derails, sets fire to, or disables a mass transportation vehicle or ferry;
 
-&emsp;(2) places or causes to be placed any biological agent or toxin for use as a weapon, destructive substance, or destructive device in, upon, or near a mass transportation vehicle orferry, without previously obtaining the permission of the mass transportation provider, and with intent to endanger the safety of any passenger or employee of the mass transportation provider, or with a reckless disregard for the safety of human life;
+&emsp;(2) places or causes to be placed any biological agent or toxin for use as a weapon, destructive substance, or destructive device in, upon, or near a mass transportation vehicle or ferry, without previously obtaining the permission of the mass transportation provider, and with intent to endanger the safety of any passenger or employee of the mass transportation provider, or with a reckless disregard for the safety of human life;
 
 &emsp;(3) sets fire to, or places any biological agent or toxin for use as a weapon, destructive substance, or destructive device in, upon, or near any garage, terminal, structure, supply, or facility used in the operation of, or in support of the operation of, a mass transportation vehicle or ferry, without previously obtaining the permission of the mass transportation provider, and knowing or having reason to know such activity would likely derail, disable, or wreck a mass transportation vehicle or ferry used, operated, or employed by the mass transportation provider;
 
@@ -48,11 +48,17 @@ Definitions.—In this section—
 
 &emsp;(6) the term “serious bodily injury” has the meaning given to that term in section 1365 of this title;
 
-&emsp;(7) the term “State” has the meaning given to that term in section 2266 of this title; and
+&emsp;(7) the term “State” has the meaning given to that term in section 2266 of this title;
 
-&emsp;(8) the term “toxin” has the meaning given to that term in section 178(2) of this title.
+&emsp;(8) the term “toxin” has the meaning given to that term in section 178(2) of this title; and
 
-(Added Pub. L. 107–56, title VIII, §801, Oct. 26, 2001, 115 Stat. 374.)
+&emsp;(9) the term “vehicle” means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, water, or through the air.
+
+(Added Pub. L. 107–56, title VIII, §801, Oct. 26, 2001, 115 Stat. 374; amended Pub. L. 108–21, title VI, §609, Apr. 30, 2003, 117 Stat. 692.)
+
+#### Amendments
+
+2003—Subsec. (c)(9). Pub. L. 108–21 added par. (9).
 
 #### Section Referred to in Other Sections
 

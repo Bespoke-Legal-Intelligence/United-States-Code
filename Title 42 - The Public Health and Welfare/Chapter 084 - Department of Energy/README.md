@@ -214,30 +214,14 @@
 | [7233\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007233%20-%20Experts%20and%20consultants.md) | Experts and consultants. |
 | [7234\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007234%20-%20Advisory%20committees.md) | Advisory committees. |
 | [7235\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007235%20-%20Armed%20services%20personnel.md) | Armed services personnel. |
-| [7236\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007236%20-%20Executive%20management%20training%20in%20Department%20of%20Energy.md) | Executive management training in Department of Energy. |
-| (a) | Establishment of training program. |
-| (b) | Training provisions. |
+| [7236\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007236%20-%20Transferred.md) | Transferred. |
 | [7237\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007237%20-%20Priority%20placement%2C%20job%20placement%2C%20retraining%2C%20and%20counseling%20programs%20for%20United%20States%20Department%20of%20Energy%20employees%20affected%20by%E2%80%A6.md) | Priority placement, job placement, retraining, and counseling programs for United States Department of Energy employees affected by reduction in force. |
 | (a) | Definitions. |
 | (b) | Priority placement and retraining program. |
 | (c) | Filling vacancy from outside agency. |
 | (d) | Job placement and counseling services. |
 | [7238\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007238%20-%20Temporary%20appointments%20for%20scientific%20and%20technical%20experts%20in%20Department%20of%20Energy%20research%20and%20development%20programs.md) | Temporary appointments for scientific and technical experts in Department of Energy research and development programs. |
-| [7239\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007239%20-%20Whistleblower%20protection%20program.md) | Whistleblower protection program. |
-| (a) | Program required. |
-| (b) | Covered individuals. |
-| (c) | Protected disclosures. |
-| (d) | Persons and entities to which disclosures may be made. |
-| (e) | Official capacity of persons to whom information is disclosed. |
-| (f) | Assistance and guidance. |
-| (g) | Regulations. |
-| (h) | Notification to covered individuals. |
-| (i) | Complaint by covered individuals. |
-| (j) | Investigation by Office of Hearings and Appeals. |
-| (k) | Remedial action. |
-| (<i>l</i>) | Relationship to other laws. |
-| (m) | Annual report. |
-| (n) | Implementation report. |
+| [7239\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20B%20-%20Personnel%20Provisions/%C2%A7%2007239%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -257,29 +241,9 @@
 | (d) | Terms of lease. |
 | (e) | Environmental concerns. |
 | (f) | Retention and use of rentals; report. |
-| [7256a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007256a%20-%20Costs%20not%20allowed%20under%20covered%20contracts.md) | Costs not allowed under covered contracts. |
-| (a) | In general. |
-| (b) | Regulations; costs of information provided to Congress or State legislatures and related costs. |
-| (c) | “Covered contract” defined. |
-| (d) | Effective date. |
-| [7256b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007256b%20-%20Prohibition%20and%20report%20on%20bonuses%20to%20contractors%20operating%20defense%20nuclear%20facilities.md) | Prohibition and report on bonuses to contractors operating defense nuclear facilities. |
-| (a) | Prohibition. |
-| (b) | Report on Rocky Flats bonuses. |
-| (c) | “Department of Energy defense nuclear facility” defined. |
-| (d) | Regulations. |
+| 7256a, 7256b.Transferred. |  |
 | [7257\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257%20-%20Acquisition%2C%20construction%2C%20etc.%2C%20of%20laboratories%2C%20research%20and%20testing%20sites%2C%20etc.md) | Acquisition, construction, etc., of laboratories, research and testing sites, etc. |
-| [7257a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257a%20-%20Laboratory-directed%20research%20and%20development%20programs.md) | Laboratory-directed research and development programs. |
-| (a) | Authority. |
-| (b) | Regulations. |
-| (c) | Funding. |
-| (d) | “Laboratory-directed research and development” defined. |
-| [7257b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257b%20-%20Annual%20report%20on%20expenditures%20of%20Department%20of%20Energy%20Laboratory%20Directed%20Research%20and%20Development%20Program.md) | Annual report on expenditures of Department of Energy Laboratory Directed Research and Development Program. |
-| [7257c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257c%20-%20Limitations%20on%20use%20of%20funds%20for%20laboratory%20directed%20research%20and%20development%20purposes.md) | Limitations on use of funds for laboratory directed research and development purposes. |
-| (a) | General limitations. |
-| (b) | Limitation in fiscal year 1998 pending submittal of annual report. |
-| (c) | Omitted. |
-| (d) | Assessment of funding level for laboratory directed research and development. |
-| (e) | “Laboratory directed research and development” defined. |
+| 7257a to 7257c.Transferred. |  |
 | [7257d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257d%20-%20Expanded%20research%20by%20Secretary%20of%20Energy.md) | Expanded research by Secretary of Energy. |
 | (a) | Detection and identification research. |
 | (b) | Authorization. |
@@ -324,37 +288,11 @@
 | [7270a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270a%20-%20Guards%20for%20Strategic%20Petroleum%20Reserve%20facilities.md) | Guards for Strategic Petroleum Reserve facilities. |
 | [7270b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270b%20-%20Trespass%20on%20Strategic%20Petroleum%20Reserve%20facilities.md) | Trespass on Strategic Petroleum Reserve facilities. |
 | [7270c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270c%20-%20Annual%20assessment%20and%20report%20on%20vulnerability%20of%20facilities%20to%20terrorist%20attack.md) | Annual assessment and report on vulnerability of facilities to terrorist attack. |
-| [7271\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271%20-%20Common%20defense%20and%20security%20program%20requests%20of%20single%20authorization%20of%20appropriations.md) | Common defense and security program requests of single authorization of appropriations. |
-| 7271a to 7271c. Repealed. |  |
-| [7271d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271d%20-%20Requirements%20for%20specific%20request%20for%20new%20or%20modified%20nuclear%20weapons.md) | Requirements for specific request for new or modified nuclear weapons. |
-| (a) | Requirement for request for funds for development. |
-| (b) | Budget request format. |
-| (c) | Exception. |
-| (d) | Definitions. |
-| [7272\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007272%20-%20Restriction%20on%20licensing%20requirement%20for%20certain%20defense%20activities%20and%20facilities.md) | Restriction on licensing requirement for certain defense activities and facilities. |
-| [7273\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20Clean%20Air%20Act.md) | Restriction on use of funds to pay penalties under Clean Air Act. |
-| [7273a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273a%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20environmental%20laws.md) | Restriction on use of funds to pay penalties under environmental laws. |
-| (a) | Restriction. |
-| (b) | Exception. |
+| 7271 to 7273a. Transferred or Repealed. |  |
 | [7273b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273b%20-%20Security%20investigations.md) | Security investigations. |
-| [7273c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273c%20-%20International%20cooperative%20stockpile%20stewardship.md) | International cooperative stockpile stewardship. |
-| (a) | Funding prohibition. |
-| (b) | Exceptions. |
+| [7273c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273c%20-%20Transferred.md) | Transferred. |
 | [7274\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274%20-%20Environmental%20impact%20statements%20relating%20to%20defense%20facilities%20of%20Department%20of%20Energy.md) | Environmental impact statements relating to defense facilities of Department of Energy. |
-| [7274a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274a%20-%20Defense%20waste%20cleanup%20technology%20program.md) | Defense waste cleanup technology program. |
-| (a) | Establishment of program. |
-| (b) | Coordination of research activities. |
-| (c) | Definitions. |
-| [7274b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274b%20-%20Reports%20in%20connection%20with%20permanent%20closures%20of%20Department%20of%20Energy%20defense%20nuclear%20facilities.md) | Reports in connection with permanent closures of Department of Energy defense nuclear facilities. |
-| (a) | Training and job placement services plan. |
-| (b) | Closure report. |
-| [7274c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274c%20-%20Report%20on%20environmental%20restoration%20expenditures.md) | Report on environmental restoration expenditures. |
-| [7274d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274d%20-%20Worker%20protection%20at%20nuclear%20weapons%20facilities.md) | Worker protection at nuclear weapons facilities. |
-| (a) | Training grant program. |
-| (b) | Enforcement of employee safety standards. |
-| (c) | Regulations. |
-| (d) | “Hazardous substance” defined. |
-| (e) | Funding. |
+| 7274a to 7274d.Transferred. |  |
 | [7274e.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274e%20-%20Scholarship%20and%20fellowship%20program%20for%20environmental%20restoration%20and%20waste%20management.md) | Scholarship and fellowship program for environmental restoration and waste management. |
 | (a) | Establishment. |
 | (b) | Eligibility. |
@@ -365,57 +303,18 @@
 | (g) | Award of scholarships and fellowships. |
 | (h) | Report to Congress. |
 | (i) | Funding. |
-| [7274f.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274f%20-%20Defense%20Environmental%20Restoration%20and%20Waste%20Management%20Account.md) | Defense Environmental Restoration and Waste Management Account. |
-| (a) | Establishment. |
-| (b) | Amounts in Account. |
+| [7274f.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274f%20-%20Transferred.md) | Transferred. |
 | [7274g.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274g%20-%20Environmental%20restoration%20and%20waste%20management%20five-year%20plan%20and%20budget%20reports.md) | Environmental restoration and waste management five-year plan and budget reports. |
 | (a) | Five-year plan. |
 | (b) | Treatment of plans under section 4332. |
 | (c) | Grants. |
 | (d) | Funding. |
 | (e) | Budget reports. |
-| [7274h.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274h%20-%20Department%20of%20Energy%20defense%20nuclear%20facilities%20workforce%20restructuring%20plan.md) | Department of Energy defense nuclear facilities workforce restructuring plan. |
-| (a) | In general. |
-| (b) | Consultation. |
-| (c) | Objectives. |
-| (d) | Implementation. |
-| (e) | Plan updates. |
-| (f) | Submittal to Congress. |
-| [7274i.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274i%20-%20Program%20to%20monitor%20Department%20of%20Energy%20workers%20exposed%20to%20hazardous%20and%20radioactive%20substances.md) | Program to monitor Department of Energy workers exposed to hazardous and radioactive substances. |
-| (a) | In general. |
-| (b) | Implementation of program. |
-| (c) | Agreement with Secretary of Health and Human Services. |
-| [7274j.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274j%20-%20Definitions.md) | Definitions. |
-| [7274k.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274k%20-%20Baseline%20environmental%20management%20reports.md) | Baseline environmental management reports. |
-| (a) | Annual environmental restoration reports. |
-| (b) | Biennial waste management reports. |
-| (c) | Contents of reports. |
-| (d) | Biennial status and variance reports. |
-| (e) | Compliance tracking. |
-| (f) | Public participation in development of information. |
+| 7274h to 7274k.Transferred or Repealed. |  |
 | 7274<i>l.</i> | Authority to transfer certain Department of Energy property. |
 | (a) | Authority to transfer. |
 | (b) | Covered property. |
-| [7274m.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274m%20-%20Safety%20oversight%20and%20enforcement%20at%20defense%20nuclear%20facilities.md) | Safety oversight and enforcement at defense nuclear facilities. |
-| (a) | Safety at defense nuclear facilities. |
-| (b) | Report. |
-| [7274n.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274n%20-%20Projects%20to%20accelerate%20closure%20activities%20at%20defense%20nuclear%20facilities.md) | Projects to accelerate closure activities at defense nuclear facilities. |
-| (a) | In general. |
-| (b) | Purpose. |
-| (c) | Eligible projects. |
-| (d) | Program administration. |
-| (e) | Selection of projects. |
-| (f) | Multiyear contracts. |
-| (g) | Funding. |
-| (h) | Annual report. |
-| (i) | Duration of program. |
-| (j) | Savings provision. |
-| 7274<i>o</i>. | Reports on critical difficulties at nuclear weapons laboratories and nuclear weapons production plants. |
-| (a) | Reports by heads of laboratories and plants. |
-| (b) | Transmittal by Assistant Secretary. |
-| (c) | Omitted. |
-| (d) | Inclusion of reports in annual stockpile certification. |
-| (e) | Definitions. |
+| 7274m to 7274<i>o</i>.Transferred. |  |
 | [7274p.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274p%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md) | Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile. |
 | (a) | Findings. |
 | (b) | Policy. |
@@ -423,23 +322,7 @@
 | (e) | Advice and opinions regarding nuclear weapons stockpile. |
 | (f) | Expression of individual views. |
 | (g) | Definitions. |
-| [7274q.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274q%20-%20Transfers%20of%20real%20property%20at%20certain%20Department%20of%20Energy%20facilities.md) | Transfers of real property at certain Department of Energy facilities. |
-| (a) | Transfer regulations. |
-| (b) | Indemnification. |
-| (c) | Conditions. |
-| (d) | Authority of Secretary of Energy. |
-| (e) | Relationship to other law. |
-| (f) | Definitions. |
-| [7274r.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274r%20-%20Research%2C%20development%2C%20and%20demonstration%20activities%20with%20respect%20to%20engineering%20and%20manufacturing%20capabilities%20at%20covered%20nuclear%20weapons%E2%80%A6.md) | Research, development, and demonstration activities with respect to engineering and manufacturing capabilities at covered nuclear weapons production plants. |
-| [7274s.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274s%20-%20Annual%20assessments%20and%20reports%20to%20the%20President%20and%20Congress%20regarding%20the%20condition%20of%20the%20United%20States%20nuclear%20weapons%20stockpile.md) | Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile. |
-| (a) | Annual assessments required. |
-| (b) | Covered officials. |
-| (c) | Use of teams of experts for assessments. |
-| (d) | Report on assessments. |
-| (e) | Submittals to the President and Congress. |
-| (f) | Classified form. |
-| (g) | Definitions. |
-| (h) | First submissions. |
+| 7274q to 7274s.Transferred. |  |
 | [7275\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007275%20-%20Definitions.md) | Definitions. |
 | [7276\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276%20-%20Regulations%20to%20require%20integrated%20resource%20planning.md) | Regulations to require integrated resource planning. |
 | (a) | Regulations. |
@@ -608,53 +491,11 @@
 | (e) | Personnel matters. |
 | (f) | Applicability of FACA. |
 | (g) | Funding. |
-| [7383a.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383a%20-%20Background%20investigations%20of%20certain%20personnel%20at%20Department%20of%20Energy%20facilities.md) | Background investigations of certain personnel at Department of Energy facilities. |
-| (a) | In general. |
-| (b) | Compliance. |
-| [7383b.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383b%20-%20Protection%20of%20classified%20information%20during%20laboratory-to-laboratory%20exchanges.md) | Protection of classified information during laboratory-to-laboratory exchanges. |
-| (a) | Provision of training. |
-| (b) | Countering of espionage and intelligence-gathering abroad. |
-| [7383c.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383c%20-%20Restrictions%20on%20access%20to%20national%20laboratories%20by%20foreign%20visitors%20from%20sensitive%20countries.md) | Restrictions on access to national laboratories by foreign visitors from sensitive countries. |
-| (a) | Background review required. |
-| (b) | Moratorium pending certification. |
-| (c) | Waiver of moratorium. |
-| (d) | Exception to moratorium for certain individuals. |
-| (e) | Exception to moratorium for certain programs. |
-| (f) | Sense of Congress regarding background reviews. |
-| (g) | Definitions. |
-| [7383d.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383d%20-%20Notice%20to%20congressional%20committees%20of%20certain%20security%20and%20counterintelligence%20failures%20within%20nuclear%20energy%20defense%20programs.md) | Notice to congressional committees of certain security and counterintelligence failures within nuclear energy defense programs. |
-| (a) | Required notification. |
-| (b) | Significant nuclear defense intelligence losses. |
-| (c) | Manner of notification. |
-| (d) | Procedures. |
-| (e) | Statutory construction. |
+| 7383a to 7383d.Transferred. |  |
 | [7383e.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383e%20-%20Annual%20report%20by%20the%20President%20on%20espionage%20by%20the%20People%27s%20Republic%20of%20China.md) | Annual report by the President on espionage by the People's Republic of China. |
 | (a) | Annual report required. |
 | (b) | Initial report. |
-| [7383f.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383f%20-%20Report%20on%20counterintelligence%20and%20security%20practices%20at%20national%20laboratories.md) | Report on counterintelligence and security practices at national laboratories. |
-| (a) | In general. |
-| (b) | Content of report. |
-| [7383g.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383g%20-%20Report%20on%20security%20vulnerabilities%20of%20national%20laboratory%20computers.md) | Report on security vulnerabilities of national laboratory computers. |
-| (a) | Report required. |
-| (b) | Preparation of report. |
-| (c) | Submission of report to Secretary of Energy and to FBI Director. |
-| (d) | Forwarding to congressional committees. |
-| (e) | First report. |
-| [7383h.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383h%20-%20Counterintelligence%20polygraph%20program.md) | Counterintelligence polygraph program. |
-| (a) | Program required. |
-| (b) | Covered persons. |
-| (c) | High-risk programs. |
-| (d) | Initial testing and consent. |
-| (e) | Additional testing. |
-| (f) | Counterintelligence polygraph examination. |
-| (g) | Regulations. |
-| (h) | Plan for extension of program. |
-| 7383h–1. | Department of Energy counterintelligence polygraph program. |
-| (a) | New counterintelligence polygraph program required. |
-| (b) | Authorities and limitations. |
-| (c) | Omitted. |
-| (d) | Report on further enhancement of personnel security program. |
-| (e) | Polygraph Review defined. |
+| 7383f to 7383h–1.Transferred. |  |
 | [7383i.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383i%20-%20Definitions%20of%20national%20laboratory%20and%20nuclear%20weapons%20production%20facility.md) | Definitions of national laboratory and nuclear weapons production facility. |
 | [7383j.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383j%20-%20Definition%20of%20Restricted%20Data.md) | Definition of Restricted Data. |
 
@@ -800,56 +641,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XVII—DEPARTMENT OF ENERGY NATIONAL SECURITY AUTHORIZATIONS GENERAL PROVISIONS
+#### SUBCHAPTER XVII—\[Repealed\]
 
-|  |  |
-| :--- | ---: |
-| [7386\.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386%20-%20Definitions.md) | Definitions. |
-| [7386a.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386a%20-%20Reprogramming.md) | Reprogramming. |
-| (a) | In general. |
-| (b) | Exception where notice-and-wait given. |
-| (c) | Report. |
-| (d) | Computation of days. |
-| (e) | Limitations. |
-| [7386b.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386b%20-%20Minor%20construction%20projects.md) | Minor construction projects. |
-| (a) | Authority. |
-| (b) | Annual report. |
-| (c) | Cost variation reports to congressional committees. |
-| (d) | Minor construction project defined. |
-| [7386c.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386c%20-%20Limits%20on%20construction%20projects.md) | Limits on construction projects. |
-| (a) | Construction cost ceiling. |
-| (b) | Exception where notice-and-wait given. |
-| (c) | Computation of days. |
-| (d) | Exception for minor projects. |
-| [7386d.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386d%20-%20Fund%20transfer%20authority.md) | Fund transfer authority. |
-| (a) | Transfer to other Federal agencies. |
-| (b) | Transfer within Department of Energy. |
-| (c) | Limitations. |
-| (d) | Notice to Congress. |
-| [7386e.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386e%20-%20Conceptual%20and%20construction%20design.md) | Conceptual and construction design. |
-| (a) | Conceptual design. |
-| (b) | Construction design. |
-| [7386f.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386f%20-%20Authority%20for%20emergency%20planning%2C%20design%2C%20and%20construction%20activities.md) | Authority for emergency planning, design, and construction activities. |
-| (a) | Authority. |
-| (b) | Limitation. |
-| (c) | Specific authority. |
-| [7386g.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386g%20-%20Scope%20of%20authority%20to%20carry%20out%20plant%20projects.md) | Scope of authority to carry out plant projects. |
-| [7386h.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386h%20-%20Availability%20of%20funds.md) | Availability of funds. |
-| (a) | In general. |
-| (b) | Exception for program direction funds. |
-| [7386i.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386i%20-%20Transfer%20of%20defense%20environmental%20management%20funds.md) | Transfer of defense environmental management funds. |
-| (a) | Transfer authority for defense environmental management funds. |
-| (b) | Limitations. |
-| (c) | Exemption from reprogramming requirements. |
-| (d) | Notification. |
-| (e) | Definitions. |
-| [7386j.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386j%20-%20Transfer%20of%20weapons%20activities%20funds.md) | Transfer of weapons activities funds. |
-| (a) | Transfer authority for weapons activities funds. |
-| (b) | Limitations. |
-| (c) | Exemption from reprogramming requirements. |
-| (d) | Notification. |
-| (e) | Definitions. |
-| [7386k.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386k%20-%20Funds%20available%20for%20all%20national%20security%20programs%20of%20the%20Department%20of%20Energy.md) | Funds available for all national security programs of the Department of Energy. |
+|  |
+| :--- |
+| 7386 to 7386k.Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -879,4 +675,4 @@ This chapter is referred to in section 5905 of this title; title 15 section 3393
 - [Subchapter 014 (XIV) - Albert Einstein Distinguished Educator Fellowships](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/README.md)
 - [Subchapter 015 (XV) - Matters Relating to Safeguards, Security, and Counterintelligence](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/README.md)
 - [Subchapter 016 (XVI) - Energy Employees Occupational Illness Compensation Program](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/README.md)
-- [Subchapter 017 (XVII) - Department of Energy National Security Authorizations General Provisions](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/README.md)
+- [Subchapter 017 (XVII) - \[Repealed](Subchapter%20017%20%28XVII%29%20-%20%5BRepealed/README.md)

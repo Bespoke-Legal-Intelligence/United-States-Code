@@ -4,7 +4,7 @@
 
 Except as provided in subsections (d) and (e) of this section and in section 9613(h) of this title (relating to timing of judicial review), any person may commence a civil action on his own behalf—
 
-&emsp;(1) against any person (including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any standard, regulation, condition, requirement, or order which has become effective pursuant to this chapter (including any provision of an agreement under section 9620 of this title, relating to Federal facilities); or
+&emsp;(1) against any person (including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any standard, regulation, condition, requirement, or order which has become effective pursuantto this chapter (including any provision of an agreement under section 9620 of this title, relating to Federal facilities); or
 
 &emsp;(2) against the President or any other officer of the United States (including the Administrator of the Environmental Protection Agency and the Administrator of the ATSDR) where there is alleged a failure of the President or of such other officer to perform any act or duty under this chapter, including an act or duty under section 9620 of this title (relating to Federal facilities), which is not discretionary with the President or such other officer.
 
@@ -56,7 +56,7 @@ In any action under this section, the United States or the State, or both, if no
 
 #### (h) Other rights
 
-This chapter does not affect or otherwise impair the rights of any person under Federal,State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
+This chapter does not affect or otherwise impair the rights of any person under Federal, State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
 
 #### (i) Definitions
 

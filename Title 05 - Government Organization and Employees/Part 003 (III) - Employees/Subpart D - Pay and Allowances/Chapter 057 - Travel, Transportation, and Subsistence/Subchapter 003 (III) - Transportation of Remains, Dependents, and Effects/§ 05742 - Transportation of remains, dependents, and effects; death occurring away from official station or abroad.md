@@ -12,7 +12,7 @@
 
 (b) When an employee dies, the head of the agency concerned, under regulations prescribed by the President and, except as otherwise provided by law, may pay from appropriations available for the activity in which the employee was engaged—
 
-&emsp;(1) the expense of preparing and transporting the remains to the home or official station of the employee, or such other place appropriate for interment as is determined by the head ofthe agency concerned, if death occurred while the employee was in a travel status away from his official station in the United States or while performing official duties outside the continental United States or in transit thereto or therefrom;
+&emsp;(1) the expense of preparing and transporting the remains to the home or official station of the employee, or such other place appropriate for interment as is determined by the head of the agency concerned, if death occurred while the employee was in a travel status away from his official station in the United States or while performing official duties outside the continental United States or in transit thereto or therefrom;
 
 &emsp;(2) the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and
 

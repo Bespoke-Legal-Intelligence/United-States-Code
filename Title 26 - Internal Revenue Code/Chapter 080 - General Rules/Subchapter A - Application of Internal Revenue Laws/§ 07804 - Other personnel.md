@@ -154,9 +154,11 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 107–67, title I, §102, Nov. 12, 2001, 115 Stat. 523, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+Pub. L. 108–7, div. J, title I, §102, Feb. 20, 2003, 117 Stat. 437, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–67, title I, §102, Nov. 12, 2001, 115 Stat. 523.
 
 Pub. L. 106–554, §1(a)(3) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 2763A–132.
 

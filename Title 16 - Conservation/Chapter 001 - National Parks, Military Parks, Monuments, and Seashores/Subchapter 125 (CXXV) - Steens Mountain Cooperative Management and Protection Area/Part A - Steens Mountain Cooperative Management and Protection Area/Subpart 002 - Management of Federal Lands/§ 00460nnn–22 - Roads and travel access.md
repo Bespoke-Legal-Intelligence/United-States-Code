@@ -30,7 +30,7 @@ Any determination to permanently close an existing road in the Cooperative Manag
 
 #### (1) Prohibition, exception
 
-&emsp;No new road or trail for motorized or mechanized vehicles may be constructed on Federallands in the Cooperative Management and Protection Area unless the Secretary determines that the road or trail is necessary for public safety or protection of the environment. Any determination under this subsection shall be made in consultation with the advisory council and the public.
+&emsp;No new road or trail for motorized or mechanized vehicles may be constructed on Federal lands in the Cooperative Management and Protection Area unless the Secretary determines that the road or trail is necessary for public safety or protection of the environment. Any determination under this subsection shall be made in consultation with the advisory council and the public.
 
 #### (2) Trails
 

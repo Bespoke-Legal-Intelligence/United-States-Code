@@ -1,6 +1,6 @@
 ### §3320. Excepted service; government of the District of Columbia; selection
 
-The nominating or appointing authority shall select for appointment to each vacancy in theexcepted service in the executive branch and in the government of the District of Columbia from the qualified applicants in the same manner and under the same conditions required for the competitive service by sections 3308–3318 of this title. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
+The nominating or appointing authority shall select for appointment to each vacancy in the excepted service in the executive branch and in the government of the District of Columbia from the qualified applicants in the same manner and under the same conditions required for the competitive service by sections 3308–3318 of this title. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422.)
 
@@ -30,7 +30,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Assistance of United States Civil Service Commission in Developing Merit System for District of Columbia
 
-Pub. L. 93–198, title VII, §734, Dec. 24, 1973, 87 Stat. 823, authorized the United States Civil Service Commission to advise and assist the District of Columbia Mayor and Council in the further development of the merit system or systems required by the District of Columbia charter, which was approved on May 7, 1974, and authorized the Commission to enter into agreements with the District government to make available its registers of eligibles as a recruiting source to fill District positions as needed, with the costs of any specific services furnished by the Civil Service Commission to be compensated for under the provisions of section 685a of former Title 31, Money and Finance \[31 U.S.C. 1537\].
+Pub. L. 93–198, title VII, §734, Dec. 24, 1973, 87 Stat. 823, authorized the United States Civil Service Commission to advise and assist the District of Columbia Mayor and Council in the further development of the merit system or systems required by the District of Columbia charter, which was approved on May 7, 1974, and authorized the Commission to enter into agreements with the District government to make available its registers of eligibles as a recruiting source to fill Districtpositions as needed, with the costs of any specific services furnished by the Civil Service Commission to be compensated for under the provisions of section 685a of former Title 31, Money and Finance \[31 U.S.C. 1537\].
 
 #### Section Referred to in Other Sections
 

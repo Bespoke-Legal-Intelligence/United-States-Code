@@ -2,7 +2,7 @@
 
 When letters and other intellectual productions (exclusive of patented material, published works under copyright protection, and unpublished works for which copyright registration has been made) come into the custody or possession of the Archivist, the United States or its agents are not liable for infringement of copyright or analogous rights arising out of use of the materials for display, inspection, research, reproduction, or other purposes.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1291, §2113; Pub. L. 94–553, §105(b), Oct. 19, 1976, 90 Stat. 2599;renumbered §2117 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(7), Oct. 19, 1984, 98 Stat. 2280, 2286.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1291, §2113; Pub. L. 94–553, §105(b), Oct. 19, 1976, 90 Stat. 2599; renumbered §2117 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(7), Oct. 19, 1984, 98 Stat. 2280, 2286.)
 
 #### Historical and Revision Notes
 

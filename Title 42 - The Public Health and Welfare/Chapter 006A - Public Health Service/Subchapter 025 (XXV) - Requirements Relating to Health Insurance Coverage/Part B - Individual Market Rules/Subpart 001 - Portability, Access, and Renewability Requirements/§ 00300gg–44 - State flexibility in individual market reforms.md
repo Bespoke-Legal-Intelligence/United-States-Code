@@ -56,7 +56,7 @@
 
 #### (2) Notice
 
-&emsp;If the Secretary finds, after review of information provided under paragraph (1) and in consultation with the chief executive officer of the State and the insurance commissioner or chief insurance regulatory official of the State, that such a mechanism is not an acceptable alternative mechanism or is not (or no longer) being implemented, the Secretary—
+&emsp;If the Secretary finds, after review of information provided under paragraph (1) and in consultation with the chief executive officer of the State and the insurance commissioner orchief insurance regulatory official of the State, that such a mechanism is not an acceptable alternative mechanism or is not (or no longer) being implemented, the Secretary—
 
 &emsp;&emsp;(A) shall notify the State of—
 
@@ -68,7 +68,7 @@
 
 #### (3) Final determination
 
-&emsp;If, after providing notice and opportunity under paragraph (2), the Secretary finds that the mechanism is not an acceptable alternative mechanism or the State is not implementing such a mechanism, the Secretary shall notify the State that the State is nolonger considered to be implementing an acceptable alternative mechanism and that the requirements of section 300gg–41 of this title shall apply to health insurance coverage offered in the individual market in the State, effective as of a date specified in the notice.
+&emsp;If, after providing notice and opportunity under paragraph (2), the Secretary finds that the mechanism is not an acceptable alternative mechanism or the State is not implementing such a mechanism, the Secretary shall notify the State that the State is no longer considered to be implementing an acceptable alternative mechanism and that the requirements of section 300gg–41 of this title shall apply to health insurance coverage offered in the individual market in the State, effective as of a date specified in the notice.
 
 #### (4) Limitation on secretarial authority
 

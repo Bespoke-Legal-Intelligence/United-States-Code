@@ -24,21 +24,15 @@
 
 (c) Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5.
 
-(d) The Secretary shall prepare on an annual basis a report to be made available upon the request of any interested person, detailing the Secretary's application during that period of each regulation or order prescribed or issued under this section. In particular, such report shall—
-
-&emsp;(1) identify any information protected from disclosure pursuant to such regulation or order;
-
-&emsp;(2) specifically state the Secretary's justification for determining that unauthorized dissemination of the information protected from disclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of illegal production of nuclear weapons or the theft, diversion, or sabotage of special nuclear materials, equipment, or facilities, as specified under subsection (a); and
-
-&emsp;(3) provide justification that the Secretary has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
-
-(Added Pub. L. 100–180, div. A, title XI, §1123(a), Dec. 4, 1987, 101 Stat. 1149; amended Pub. L. 101–510, div. A, title XIII, §1311(1), Nov. 5, 1990, 104 Stat. 1669.)
+(Added Pub. L. 100–180, div. A, title XI, §1123(a), Dec. 4, 1987, 101 Stat. 1149; amended Pub. L. 101–510, div. A, title XIII, §1311(1), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 108–136, div. A, title X, §1031(a)(4), Nov. 24, 2003, 117 Stat. 1596.)
 
 #### Prior Provisions
 
 A prior section 128 was renumbered section 421 of this title.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required the Secretary to prepare an annual report detailing the Secretary's application during the year of each regulation or order prescribed or issued under this section.
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “on an annual basis” for “on a quarterly basis”.
 

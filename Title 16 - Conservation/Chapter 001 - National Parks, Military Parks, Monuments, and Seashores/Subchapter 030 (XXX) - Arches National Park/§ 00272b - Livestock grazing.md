@@ -28,7 +28,7 @@ In a case in which any Federal lands included within the park are legally occupi
 
 #### (6) Administration
 
-&emsp;Any portion of a grazing lease, permit, or license with respect to land in the Lost SpringCanyon Addition shall be administered by the National Park Service.
+&emsp;Any portion of a grazing lease, permit, or license with respect to land in the Lost Spring Canyon Addition shall be administered by the National Park Service.
 
 (Pub. L. 92–155, §3, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, §2(c), Oct. 30, 1998, 112 Stat. 3060.)
 

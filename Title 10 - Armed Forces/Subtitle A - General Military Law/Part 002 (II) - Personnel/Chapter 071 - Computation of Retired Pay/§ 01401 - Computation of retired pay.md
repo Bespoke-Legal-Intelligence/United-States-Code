@@ -210,7 +210,7 @@ Section 305(b) of Pub. L. 99–348 provided that:
 
 “(1)
 
-General rule.—Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in anamount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a part of a year of service to permit credit for a part of a year of service only for such month or months actually served.
+General rule.—Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in an amount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a part of a year of service to permit credit for a part of a year of service only for such month or months actually served.
 
 “(2)
 
@@ -232,7 +232,7 @@ Repeal of source law.—Section 8054 of the Department of Defense Appropriations
 
 “(5)
 
-Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of Defense Authorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\].”
+Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of DefenseAuthorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\].”
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
@@ -278,7 +278,7 @@ Section 4 of Pub. L. 85–422, as amended by Pub. L. 85–855, §1(a), Aug. 28, 
 
 “(b) Notwithstanding any other provision of law, a member of a uniformed service retired under any provision of law, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, on the effective date of this Act \[June 1, 1958\] shall have his retired pay or retainer pay computed on the basis of the rates of basic pay set forth in the Career Compensation Act of 1949, as amended by this Act, or on the rates of basic pay set forth in the Career Compensation Act of 1949 on the day before the effective date of this Act, plus 6 per centum of that pay, whichever is greater.
 
-“(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retiredpay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
+“(c) Section 5 of the Career Incentive Act of 1955 (69 Stat. 22) does not apply to any person who is retired, or to whom retired pay, retirement pay, retainer pay, or equivalent pay (including temporary disability retired pay) is granted, on or after the effective date of this Act \[June 1, 1958\]”.
 
 Section 1(b) of Pub. L. 85–855 provided that the amendment of section 4(a) of Pub. L. 85–422, which eliminated the words “and persons with two or less years of service for basic pay purposes who were retired for physical disability or placed on the temporary disability retired list” preceding “members and former members” should be effective June 1, 1958.
 
@@ -288,9 +288,9 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 580, 1201, 1202, 1204, 1205, 1210, 1403, 3991, 8991 of this title; title 5 section 5532; title 33 section 857a; title 42 section 213a.
+This section is referred to in sections 580, 1201, 1202, 1204, 1205, 1210, 1403, 3991, 8991 of this title; title 5 section 5532; title 42 section 213a.
 

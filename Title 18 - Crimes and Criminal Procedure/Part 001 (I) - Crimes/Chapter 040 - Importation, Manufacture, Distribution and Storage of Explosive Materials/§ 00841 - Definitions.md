@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(a) “Person” means any individual, corporation, company, association, firm, partnership, society, or joint stock company.
 
-&emsp;(b) “Interstate” or foreign commerce means commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia, and commerce between places within the same State but through any place outside of that State. “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
+&emsp;(b) “Interstate” or foreign commerce means commerce between any place in a State and any place outside of that State, or within any possession of the United States (not including the Canal Zone) or the District of Columbia,and commerce between places within the same State but through any place outside of that State. “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
 
 &emsp;(c) “Explosive materials” means explosives, blasting agents, and detonators.
 
@@ -112,7 +112,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) plastic explosives were used by terrorists in the bombings of Pan American Airlines flight number 103 in December 1988 and UTA flight number 722 in September 1989;
 
-&emsp;“(2) plastic explosives can be used with little likelihood of detection for acts of unlawful interferencewith civil aviation, maritime navigation, and other modes of transportation;
+&emsp;“(2) plastic explosives can be used with little likelihood of detection for acts of unlawful interference with civil aviation, maritime navigation, and other modes of transportation;
 
 &emsp;“(3) the criminal use of plastic explosives places innocent lives in jeopardy, endangers national security, affects domestic tranquility, and gravely affects interstate and foreign commerce;
 

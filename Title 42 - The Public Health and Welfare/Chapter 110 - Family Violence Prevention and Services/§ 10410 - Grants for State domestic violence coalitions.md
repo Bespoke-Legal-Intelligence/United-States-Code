@@ -36,7 +36,7 @@ The Secretary shall award grants for the funding of State domestic violence coal
 
 &emsp;&emsp;(J) the restitution of victims;
 
-&emsp;&emsp;(K) the use of training and technical assistance to law enforcement, judges, court officers and other criminal justice professionals,; <sup>1</sup>
+&emsp;&emsp;(K) the use of training and technical assistance to law enforcement, judges, court officers and other criminal justice professionals;
 
 &emsp;&emsp;(L) the reporting practices of, and significance to be accorded to, prior convictions (both felony and misdemeanor) and protection orders;
 
@@ -46,7 +46,7 @@ The Secretary shall award grants for the funding of State domestic violence coal
 
 &emsp;&emsp;(O) any other matters as the Secretary and the State domestic violence coalitions believe merit investigations;
 
-&emsp;(3) work with family law judges,,<sup>1</sup> criminal court judges, Child Protective Services agencies, and children's advocates to develop appropriate responses to child custody and visitation issues in domestic violence cases as well as cases where domestic violence and child abuse are both present, including—
+&emsp;(3) work with family law judges, criminal court judges, Child Protective Services agencies, and children's advocates to develop appropriate responses to child custody and visitation issues in domestic violence cases aswell as cases where domestic violence and child abuse are both present, including—
 
 &emsp;&emsp;(A) the inappropriateness of mutual protection orders;
 
@@ -88,7 +88,7 @@ To be eligible for a grant under this section, an entity shall be a statewide no
 
 #### (c) Allotment of funds
 
-From amounts appropriated under this section for each fiscal year, the Secretary shall allot toeach State, the District of Columbia, the Commonwealth of Puerto Rico, and the combined U.S. Territories an amount equal to 1/53 of the amount appropriated for such fiscal year. For purposes of this section, the term “combined U.S. Territories” means Guam, American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands and shall not receive less than 1.5 percent of the funds appropriated for each fiscal year.
+From amounts appropriated under this section for each fiscal year, the Secretary shall allot to each State, the District of Columbia, the Commonwealth of Puerto Rico, and the combined U.S. Territories an amount equal to 1/53 of the amount appropriated for such fiscal year. For purposes of this section, the term “combined U.S. Territories” means Guam, American Samoa, the U.S. Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands and shall not receive less than 1.5 percent of the funds appropriated for each fiscal year.
 
 #### (d) Prohibition on lobbying
 
@@ -106,21 +106,25 @@ Each State domestic violence coalition receiving amounts under this section shal
 
 For purposes of this section, a State domestic violence coalition may include representatives of Indian tribes and tribal organizations, as defined in section 450b of title 25.
 
-#### (g) Authorization of appropriations
+#### (g) Funding
 
-There are authorized to be appropriated to be used to award grants under this section $8,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.
+Of the amount appropriated under section 10409(a) of this title for a fiscal year (and not reserved under section 10409(a)(2) of this title), not less than 10 percent of such amount shall be made available to award grants under this section.
 
-#### (h) Regulations
-
-Not later than 90 days after May 28, 1992, the Secretary shall publish proposed regulations implementing this section. Not later than 120 days after May 28, 1992, the Secretary shall publish final regulations implementing this section.
-
-(Pub. L. 98–457, title III, §311, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §303(b), Apr. 25, 1988, 102 Stat. 125; Pub. L. 102–295, title III, §317, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40272(c), Sept. 13, 1994, 108 Stat. 1938.)
-
-#### Codification
-
-May 28, 1992, referred to in subsec. (h), was in the original “the date of enactment of this section” and “such date of enactment”, which were translated as meaning the date of enactment of Pub. L. 102–295, which amended this section generally, to reflect the probable intent of Congress.
+(Pub. L. 98–457, title III, §311, Oct. 9, 1984, 98 Stat. 1763; Pub. L. 100–294, title III, §303(b), Apr. 25, 1988, 102 Stat. 125; Pub. L. 102–295, title III, §317, May 28, 1992, 106 Stat. 206; Pub. L. 103–322, title IV, §40272(c), Sept. 13, 1994, 108 Stat. 1938; Pub. L. 108–36, title IV, §§406(c), 407, 415(6), June 25, 2003, 117 Stat. 827, 830.)
 
 #### Amendments
+
+2003—Subsec. (a)(2)(K). Pub. L. 108–36, §415(6)(A), substituted “other criminal justice professionals;” for “other criminal justice professionals,;”.
+
+Subsec. (a)(3). Pub. L. 108–36, §415(6)(B)(i), substituted “family law judges,” for “family law judges,,” in introductory provisions.
+
+Subsec. (a)(3)(D). Pub. L. 108–36, §415(6)(B)(ii), inserted “, criminal court judges,” after “family law judges”.
+
+Subsec. (a)(3)(H). Pub. L. 108–36, §415(6)(B)(iii), substituted “supervised visitations or denial of visitation to protect against danger to victims or their children” for “supervised visitations that do not endanger victims and their children”.
+
+Subsec. (g). Pub. L. 108–36, §406(c), substituted “Funding” for “Authorization of appropriations” in heading and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to be used to award grants under this section $8,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995.”
+
+Subsec. (h). Pub. L. 108–36, §407, struck out heading and text. Text read as follows: “Not later than 90 days after May 28, 1992, the Secretary shall publish proposed regulations implementing this section. Not later than 120 days after May 28, 1992, the Secretary shall publish final regulations implementing this section.”
 
 1994—Subsec. (a)(1). Pub. L. 103–322, §40272(c)(2), added par. (1). Former par. (1) redesignated (2).
 
@@ -130,11 +134,9 @@ Subsec. (a)(2)(K). Pub. L. 103–322, §40272(c)(3), substituted “, judges, c
 
 Subsec. (a)(3). Pub. L. 103–322, §40272(c)(1), (4)(A), redesignated par. (2) as (3) and inserted “, criminal court judges,” after “family law judges,” in introductory provisions. Former par. (3) redesignated (4).
 
-Subsec. (a)(3)(D). Pub. L. 103–322, §40272(c)(4)(A), which directed the amendment of par. (3) “by inserting ‘, criminal court judges,’ after ‘family law judges,’ each place it appears”, was executed by making the insertion after “family law judges” in subpar. (D) to reflect the probable intent of Congress.
-
 Subsec. (a)(3)(F). Pub. L. 103–322, §40272(c)(4)(B), substituted “temporary custody support” for “temporary support”.
 
-Subsec. (a)(3)(H). Pub. L. 103–322, §40272(c)(4)(C), which directed the substitution of “supervised visitations or denial of visitation to protect against danger to victims or their children” for “supervised visitations that do not endanger victims and their children,”, was executed by making the substitution for “supervised visitations that do not endanger victims and their children” to reflect the probable intent of Congress.
+Subsec. (a)(3)(H). Pub. L. 103–322, §40272(c)(4)(C), which directed the substitution of “supervised visitations or denial of visitation to protect against danger to victims or their children” for “supervised visitations that do not endanger victims and their children,”, could not be executed because those words did not appear in text. See 2003 Amendment note above.
 
 Subsec. (a)(4). Pub. L. 103–322, §40272(c)(1), (5), redesignated par. (3) as (4) and inserted before semicolon “, including information aimed at underserved racial, ethnic or language-minority populations”. Former par. (4) redesignated (5).
 
@@ -151,6 +153,4 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10402, 10409, 13951 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

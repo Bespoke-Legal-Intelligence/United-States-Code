@@ -74,7 +74,7 @@ Purposes of the Conferences.—The conference shall—
 
 “(d)
 
-Report.—The Chief Counsel for Advocacy shall prepare a summary of the findings and recommendations of each regional conference. Not later than 60 days after the last of the 5 regional conferences have been held, the Chief Counsel for Advocacy shall transmit such summaries to the Congress and the President, along with conclusions and recommendations, including specific legislative proposals and recommendations for administrative or other actions. The transmittal of the required information shall be deemed a report of the Chief Counsel for Advocacy under the terms and conditions of section 206 of Public Law 94–305 \[15 U.S.C. 634f\]. To the extent practicable, the report shall estimate the cost of implementing each recommendation of a regional conference as well as those of the Chief Counsel.”
+Report.—The Chief Counsel for Advocacy shall prepare a summary of the findings and recommendations of each regional conference. Not later than 60 days after the last of the 5 regional conferences have been held, the Chief Counsel for Advocacy shall transmit such summaries to the Congress and the President, along with conclusions and recommendations, including specific legislative proposals and recommendations for administrative or other actions. The transmittal of the required information shall be deemed a report of the Chief Counsel for Advocacy under the terms and conditions of section 206 of Public Law 94–305 \[15 U.S.C.634f\]. To the extent practicable, the report shall estimate the cost of implementing each recommendation of a regional conference as well as those of the Chief Counsel.”
 
 #### Rural Tourism Training Program
 

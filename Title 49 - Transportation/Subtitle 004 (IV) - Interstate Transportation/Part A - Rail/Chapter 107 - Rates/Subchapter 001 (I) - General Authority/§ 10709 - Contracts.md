@@ -6,7 +6,7 @@
 
 (c)(1) A contract that is authorized by this section, and transportation under such contract, shall not be subject to this part, and may not be subsequently challenged before the Board or in any court on the grounds that such contract violates a provision of this part.
 
-(2) The exclusive remedy for any alleged breach of a contract entered into under this section shall be an action in an appropriate State court or United States district court, unless the parties otherwise agree. This section does notconfer original jurisdiction on the district courts of the United States based on section 1331 or 1337 of title 28, United States Code.
+(2) The exclusive remedy for any alleged breach of a contract entered into under this section shall be an action in an appropriate State court or United States district court, unless the parties otherwise agree. This section does not confer original jurisdiction on the district courts of the United States based on section 1331 or 1337 of title 28, United States Code.
 
 (d)(1) A summary of each contract for the transportation of agricultural products (including grain, as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and products thereof) entered into under this section shall be filed with the Board, containing such nonconfidential information as the Board prescribes. The Board shall publish special rules for such contracts in order to ensure that the essential terms of the contract are available to the general public.
 
@@ -24,7 +24,7 @@
 
 &emsp;(ii) by a port only on the grounds that such port individually will be harmed because the proposed contract will result in unreasonable discrimination against such port.
 
-(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph, a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
+(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph,a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
 
 &emsp;(i) the rail carrier has unreasonably discriminated by refusing to enter into a contract with such shipper for rates and services for the transportation of the same type of commodity under similar conditions to the contract at issue, and that shipper was ready, willing, and able to enter into such a contract at a time essentially contemporaneous with the period during which the contract at issue was offered; or
 
@@ -62,7 +62,7 @@ Section 10711, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1383, related to effect
 
 Section 10712, added Pub. L. 96–448, title II, §206(a), Oct. 14, 1980, 94 Stat. 1906, related to inflation-based rate increases.
 
-Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Stat. 1908; amended Pub. L. 97–468, titleV, §502, Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, §4051, Oct. 21, 1986, 100 Stat. 1910, related to contracts between rail carriers and purchasers of rail services. See section 10709 of this title.
+Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Stat. 1908; amended Pub. L. 97–468, title V, §502, Jan. 14, 1983, 96 Stat. 2552; Pub. L. 99–509, title IV, §4051, Oct. 21, 1986, 100 Stat. 1910, related to contracts between rail carriers and purchasers of rail services. See section 10709 of this title.
 
 #### Amendments
 

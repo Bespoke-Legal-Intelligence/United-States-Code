@@ -10,7 +10,7 @@ To be eligible to receive a grant under this subchapter, a State shall submit to
 
 &emsp;&emsp;(B) the criteria by which the State proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter; and
 
-&emsp;(2) assurances that the State and any unit of local government to which the State providesfunding under section 3796ee–3(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d) of this section.
+&emsp;(2) assurances that the State and any unit of local government to which the State provides funding under section 3796ee–3(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d) of this section.
 
 #### (b) Local eligibility
 

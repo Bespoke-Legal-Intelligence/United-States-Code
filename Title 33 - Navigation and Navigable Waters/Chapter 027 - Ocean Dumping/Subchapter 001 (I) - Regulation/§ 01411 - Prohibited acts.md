@@ -18,7 +18,7 @@
 
 Subsec. (b). Pub. L. 93–254 substituted reference to permits issued under section 1412 of this title for former reference to such issuance under this subchapter, made any ocean dumping subject to regulations issued under section 1418 of this title, and substituted prohibition against dumping of any material for former prohibition against dumping of any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or any other material.
 
-Subsec. (c). Pub. L. 93–254 struck out subsec. (c) which prohibited any officer, employee, agent, department, agency, or instrumentality of the United States from transporting from any location outside the United States any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or, except as may be authorized in a permit, any other material for purpose of dumping in ocean waters. See subsec. (b) of this section.
+Subsec. (c). Pub. L. 93–254 struck out subsec. (c) which prohibited any officer, employee, agent, department, agency, or instrumentality of the United States from transporting from any location outside the United States any radiological, chemical, or biological warfare agent or any high-level radioactive waste, or, except asmay be authorized in a permit, any other material for purpose of dumping in ocean waters. See subsec. (b) of this section.
 
 #### Effective Date of 1974 Amendment
 

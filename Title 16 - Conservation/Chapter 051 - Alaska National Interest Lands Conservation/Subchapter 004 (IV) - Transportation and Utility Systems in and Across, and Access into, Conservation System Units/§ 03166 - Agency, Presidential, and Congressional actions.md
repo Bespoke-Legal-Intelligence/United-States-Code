@@ -4,7 +4,7 @@
 
 (1) In the case of any application for the approval of any transportation or utility system to which section 3165 of this title does not apply or that does not occupy, use, or traverse any area within the National Wilderness Preservation System, if, in compliance with section 3164 of this title—
 
-&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then the system shall be deemed to be approved andeach such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
+&emsp;(A) each Federal agency concerned decides to approve each authorization within its jurisdiction with respect to that system, then the system shall be deemed to be approved and each such agency shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system; or
 
 &emsp;(B) one or more Federal agencies decide to disapprove any authorization within its jurisdiction with respect, to that system, then the system shall be deemed to be disapproved and the applicant for the system may appeal the disapproval to the President.
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blank space therein to be filled in with the appropriatetransportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
+(4) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
 
 (5) Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 
@@ -54,7 +54,7 @@
 
 #### References in Text
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec.2, 1980, 94 Stat. 2371, as amended. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

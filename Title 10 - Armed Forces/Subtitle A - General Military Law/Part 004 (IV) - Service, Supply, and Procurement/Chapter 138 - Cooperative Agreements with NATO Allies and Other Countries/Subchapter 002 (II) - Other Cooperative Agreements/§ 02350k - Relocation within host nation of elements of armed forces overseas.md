@@ -30,15 +30,15 @@ Method of Contribution.—Contributions may be accepted in any of the following 
 
 &emsp;(3) Cash, which shall be deposited in a separate trust fund in the United States Treasury pending expenditure and which shall accrue interest in accordance with section 9702 of title 31.
 
-(d)
+(Added Pub. L. 104–106, div. A, title XIII, §1332(a)(1), Feb. 10, 1996, 110 Stat. 482; amended Pub. L. 107–314, div. A, title X, §1041(a)(11), Dec. 2, 2002, 116 Stat. 2645.)
 
-Annual Report to Congress.—Not later than 30 days after the end of each fiscal year, the Secretary shall submit to Congress a report specifying—
+#### Amendments
 
-&emsp;(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
+2002—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows: “Not later than 30 days after the end of each fiscal year, the Secretary shall submit to Congress a report specifying—
 
-&emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
+&emsp;“(1) the amount of the contributions accepted by the Secretary during the preceding fiscal year under subsection (a) and the purposes for which the contributions were made; and
 
-(Added Pub. L. 104–106, div. A, title XIII, §1332(a)(1), Feb. 10, 1996, 110 Stat. 482.)
+&emsp;“(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.”
 
 #### Effective Date
 

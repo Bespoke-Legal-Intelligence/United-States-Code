@@ -22,7 +22,7 @@ Specific Requirements.—In maintaining the plan, the Secretary of Transportatio
 
 (c)
 
-Availability of Domestic Military Airports and Airport Facilities.—To the extent possible, the Secretary of Defense shall make domestic military airports and airport facilities available for civil use. In advising the Secretary of Transportation under subsection (a) of thissection, the Secretary of Defense shall indicate the extent to which domestic military airports and airport facilities are available for civil use.
+Availability of Domestic Military Airports and Airport Facilities.—To the extent possible, the Secretary of Defense shall make domestic military airports and airport facilities available for civil use. In advising the Secretary of Transportation under subsection (a) of this section, the Secretary of Defense shall indicate the extent to which domestic military airports and airport facilities are available for civil use.
 
 (d)
 
@@ -68,7 +68,7 @@ Sept. 3, 1982, Pub. L. 97–248, §504(d)(1), 96 Stat. 676; Dec. 30, 1987, Pub. 
 
 49 App.:2203(a)(1) (1st sentence).
 
-In subsection (a), before clause (1), the words “shall maintain” and “In maintaining” are substituted for “In reviewing and revising” for clarity and consistency in the revised title. The word “named” is substituted for “After September 3, 1982, the revised national airport system plan shall be known as”, and the words “the national defense requirements of the Secretary of Defense” are substituted for “requirements in support of the national defense as determined by the Secretary of Defense”, to eliminate unnecessary words. The words “included in the plan may not be limited to meeting the needs of any particular” are substituted for “identified by this plan shall not be limited to the requirements of any” for clarity and consistency in this section. The words “among other things” are omitted as surplus.
+In subsection (a), before clause (1), the words “shall maintain” and “In maintaining” are substituted for “In reviewing and revising” for clarity and consistency in the revised title. The word “named” is substituted for “After September 3, 1982, the revised national airport system plan shall be known as”, and the words “the national defense requirements of the Secretary of Defense” are substituted for “requirements in support of the national defense as determined by the Secretary of Defense”, to eliminate unnecessary words. The words “included in the plan may not be limited to meetingthe needs of any particular” are substituted for “identified by this plan shall not be limited to the requirements of any” for clarity and consistency in this section. The words “among other things” are omitted as surplus.
 
 In subsection (b), before clause (1), the words “In maintaining” are substituted for “In reviewing and revising” for consistency in this section. In clause (1), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal . . . agencies” for consistency in the revised title and with other titles of the United States Code. In clauses (2) and (3), the words “As soon as feasible following December 30, 1987” are omitted as obsolete. In clause (3), the word “legitimate” is omitted as surplus.
 
@@ -78,5 +78,5 @@ In subsection (d), the words “Not later than two years after September 3, 1982
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 47114 of this title.
+This section is referred to in sections 41104, 46319, 47114, 47139 of this title.
 

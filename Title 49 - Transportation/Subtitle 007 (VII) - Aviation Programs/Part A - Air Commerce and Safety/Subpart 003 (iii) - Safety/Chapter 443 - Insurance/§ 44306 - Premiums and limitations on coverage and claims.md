@@ -6,7 +6,7 @@ Premiums Based on Risk.—To the extent practical, the premium charged for insur
 
 (b)
 
-Allowances in Setting Premium Rates for Reinsurance.—In setting premium rates for reinsurance, the Secretary may make allowances to the insurance carrier for expenses incurred in providing services and facilities that the Secretary considers good business practices, except for payments by the air carrier for the stimulation or solicitation of insurance business.
+Allowances in Setting Premium Rates for Reinsurance.—In setting premium rates for reinsurance, the Secretary may make allowances to the insurance carrier for expenses incurred in providing services and facilities that the Secretary considers good business practices, except for payments by the insurance carrier for the stimulation or solicitation of insurance business.
 
 (c)
 
@@ -16,7 +16,7 @@ Time Limits.—The Secretary of Transportation may provide insurance and reinsur
 
 Maximum Insured Amount.—The insurance policy on an aircraft insured or reinsured under this chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(d), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–71, title I, §§124(b), 147, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(d), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–71, title I, §§124(b), 147, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–296, title XII, §1203, Nov. 25, 2002, 116 Stat. 2287; Pub. L. 108–176, title I, §106(c), (e), Dec. 12, 2003, 117 Stat. 2499.)
 
 Historical and Revision Notes
 
@@ -52,19 +52,29 @@ In subsection (c), the words “or reinsured” are added for consistency. The w
 
 #### Amendments
 
+2003—Subsec. (b). Pub. L. 108–176, §106(c), substituted “by the insurance carrier” for “by the air carrier”.
+
+Subsec. (c). Pub. L. 108–176, §106(e), made technical correction to directory language of Pub. L. 107–71, §124(b). See 2001 Amendment note below.
+
 2002—Subsec. (c). Pub. L. 107–296 made technical correction to directory language of Pub. L. 107–71, §147. See 2001 Amendment note below.
 
 2001—Subsec. (b). Pub. L. 107–42, §201(d)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub.L. 107–71, §147, as amended by Pub. L. 107–296, substituted “1 year” for “60 days” in two places.
 
-Pub. L. 107–71, §124(b), which directed the insertion of “in the interest of air commerce or national security or” before “to carry out foreign policy”, was executed by making the insertion before “to carry out the foreign policy” to reflect the probable intent of Congress.
+Pub. L. 107–71, §124(b), as amended by Pub. L. 108–176, §106(e), inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
 
 Pub. L. 107–42, §201(d)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–42, §201(d)(1), redesignated subsec. (c) as (d).
 
 1997—Subsec. (c). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 106(c) of Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
+Pub. L. 108–176, title I, §106(e), Dec. 12, 2003, 117 Stat. 2499, provided that the amendment made by section 106(e) is effective Nov. 19, 2001.
 
 #### Effective Date of 2002 Amendment
 

@@ -6,7 +6,7 @@ The proposal of the Secretary (EC–1022, 100th Congress) to locate a monitored 
 
 #### (b) Authorization
 
-The Secretary is authorized to site, construct, and operate one monitored retrievable storage facility subject to the conditions described in sections 10163 through 10169 of this title.
+The Secretary is authorized to site, construct, and operate one monitored retrievable storagefacility subject to the conditions described in sections 10163 through 10169 of this title.
 
 (Pub. L. 97–425, title I, §142, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5021, Dec. 22, 1987, 101 Stat. 1330–232.)
 

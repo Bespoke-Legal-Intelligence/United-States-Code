@@ -10,7 +10,7 @@ The Director of the Bureau shall be appointed by the President, by and with the 
 
 #### (c) Responsibilities of Director
 
-The Director shall organize and chair a coordinating committee to examine and make recommendations to the Board on long-term strategies for the future of international broadcasting, including the use of new technologies, further consolidation of broadcast services, and consolidation of currently existing public affairs and legislative relations functions in the various international broadcasting entities. The coordinating committee shall include representatives of Radio Free Asia, RFE/RL, Incorporated, theBroadcasting Board of Governors, and, as appropriate, the Office of Cuba Broadcasting, the Voice of America, and Worldnet.
+The Director shall organize and chair a coordinating committee to examine and make recommendations to the Board on long-term strategies for the future of international broadcasting, including the use of new technologies, further consolidation of broadcast services, and consolidation of currently existing public affairs and legislative relations functions in the various international broadcasting entities. The coordinating committee shall include representatives of Radio Free Asia, RFE/RL, Incorporated, the Broadcasting Board of Governors, and, as appropriate, the Office of Cuba Broadcasting, the Voice of America, and Worldnet.
 
 (Pub. L. 103–236, title III, §307, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(k), Oct. 21, 1998, 112 Stat. 2681–780.)
 

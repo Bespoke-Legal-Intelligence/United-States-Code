@@ -108,7 +108,7 @@ Sec. 4. <i>Functions of the Commission</i>. (a) The Commission shall:
 
 Sec. 5. <i>Responsibilities of Federal Agencies</i>. (a) The heads of Executive agencies shall, to the extent permitted by law, and in accordance with Section 105 of the Act \[15 U.S.C. 4104\], provide the Commission such information as it may require for purposes of carrying out its functions.
 
-(b) The heads of Executive agencies shall, upon reimbursement to be agreed upon by the Commission and the agency head, permit the Commission to utilizetheir facilities and services to the extent that the facilities and services are needed for the establishment and development of an Arctic research policy. The Commission shall take every feasible step to avoid duplication of effort.
+(b) The heads of Executive agencies shall, upon reimbursement to be agreed upon by the Commission and the agency head, permit the Commission to utilize their facilities and services to the extent that the facilities and services are needed for the establishment and development of an Arctic research policy. The Commission shall take every feasible step to avoid duplication of effort.
 
 (c) All Federal agencies shall consult with the Commission before undertaking major Federal actions relating to Arctic research.
 

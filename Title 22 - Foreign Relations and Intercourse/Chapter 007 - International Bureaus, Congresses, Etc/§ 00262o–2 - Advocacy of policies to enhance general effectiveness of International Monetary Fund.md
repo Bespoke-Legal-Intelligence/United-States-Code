@@ -6,7 +6,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) Vigorously promote policies to increase the effectiveness of the International Monetary Fund in structuring programs and assistance so as to promote policies and actions that will contribute to exchange rate stability and avoid competitive devaluations that will further destabilize the international financial and trading systems.
 
-&emsp;(2) Vigorously promote policies to increase the effectiveness of the International Monetary Fund in promoting market-oriented reform, trade liberalization, economic growth,democratic governance, and social stability through—
+&emsp;(2) Vigorously promote policies to increase the effectiveness of the International Monetary Fund in promoting market-oriented reform, trade liberalization, economic growth, democratic governance, and social stability through—
 
 &emsp;&emsp;(A) establishing an independent monetary authority, with full power to conduct monetary policy, that provides for a non-inflationary domestic currency that is fully convertible in foreign exchange markets;
 
@@ -46,7 +46,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(7) Vigorously promote the design of International Monetary Fund programs and assistance so that governments that draw on the International Monetary Fund channel public funds away from unproductive purposes, including large “show case” projects and excessive military spending, and toward investment in human and physical capital as well as social programs to protect the neediest and promote social equity.
 
-&emsp;(8) Work with the International Monetary Fund to foster economic prescriptions that areappropriate to the individual economic circumstances of each recipient country, recognizing that inappropriate stabilization programs may only serve to further destabilize the economy and create unnecessary economic, social, and political dislocation.
+&emsp;(8) Work with the International Monetary Fund to foster economic prescriptions that are appropriate to the individual economic circumstances of each recipient country, recognizing that inappropriate stabilization programs may only serve to further destabilize the economy and create unnecessary economic, social, and political dislocation.
 
 &emsp;(9) Structure International Monetary Fund programs and assistance so that the maintenance and improvement of core labor standards are routinely incorporated as an integral goal in the policy dialogue with recipient countries, so that—
 
@@ -86,7 +86,7 @@ Report to the Congress Showing Costs of United States Participation in the Inter
 
 “(c)
 
-Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International Monetary Fund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
+Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International MonetaryFund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
 
 “(d)
 

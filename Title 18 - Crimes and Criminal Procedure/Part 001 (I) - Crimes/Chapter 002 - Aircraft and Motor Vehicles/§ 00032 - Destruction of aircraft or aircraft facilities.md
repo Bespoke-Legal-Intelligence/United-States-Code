@@ -28,7 +28,7 @@
 
 &emsp;(4) attempts or conspires to commit an offense described in paragraphs (1) through (3) of this subsection;
 
-> shall be fined under this title or imprisoned not more than twenty years, or both. There is jurisdiction over an offense under this subsection if a national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.
+> shall be fined under this title or imprisoned not more than twenty years, or both. There is jurisdiction over an offense under this subsection ifa national of the United States was on board, or would have been on board, the aircraft; an offender is a national of the United States; or an offender is afterwards found in the United States. For purposes of this subsection, the term “national of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act.
 
 (c) Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (5) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
 

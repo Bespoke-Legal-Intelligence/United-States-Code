@@ -12,7 +12,7 @@ In General.—In providing air transportation, an air carrier, including (subjec
 
 (b)
 
-Each Act Constitutes Separate Offense.—For purposes of section 46301(a)(3)(E), a separate violation occurs under this section for each individual act of discrimination prohibited by subsection (a).
+Each Act Constitutes Separate Offense.—For purposes of section 46301, a separate violation occurs under this section for each individual act of discrimination prohibited by subsection (a).
 
 (c)
 
@@ -38,7 +38,7 @@ Technical assistance.—Not later than 180 days after the date of the enactment 
 
 &emsp;&emsp;(B) ensure the availability and provision of appropriate technical assistance manuals to individuals and entities with rights or responsibilities under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §707(a), Apr. 5, 2000, 114 Stat. 158.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1141; Pub. L. 106–181, title VII, §707(a), Apr. 5, 2000, 114 Stat. 158; Pub. L. 108–176, title V, §503(d)(1), Dec. 12, 2003, 117 Stat. 2559.)
 
 Historical and Revision Notes
 
@@ -64,7 +64,13 @@ The date of the enactment of this subsection, referred to in subsec. (c)(4), is 
 
 #### Amendments
 
+2003—Subsec. (b). Pub. L. 108–176 substituted “section 46301” for “section 46301(a)(3)(E)”.
+
 2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, substituted “carrier, including (subject to section 40105(b)) any foreign air carrier,” for “carrier” in introductory provisions, and added subsecs. (b) and (c).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -76,7 +82,7 @@ Pub. L. 106–181, title VII, §707(c), Apr. 5, 2000, 114 Stat. 158, provided th
 
 #### Restrictions on Air Transportation of Peanuts; Scientific Study on Effect of Airborne Particles on Passengers
 
-Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that: “Hereafter, none of the funds made available under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under section 41705 of title 49, United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in section 40102 of title 49,United States Code) to, on intrastate or interstate air transportation (as those terms are defined in section 40102 of title 49, United States Code)—
+Pub. L. 106–69, title III, §346, Oct. 9, 1999, 113 Stat. 1023, provided that: “Hereafter, none of the funds made available under this Act or any other Act, may be used to implement, carry out, or enforce any regulation issued under section 41705 of title 49, United States Code, including any regulation contained in part 382 of title 14, Code of Federal Regulations, or any other provision of law (including any Act of Congress, regulation, or Executive order or any official guidance or correspondence thereto), that requires or encourages an air carrier (as that term is defined in section 40102 of title 49, United States Code) to, on intrastate or interstate air transportation (as those terms are defined in section 40102 of title 49, United States Code)—
 
 &emsp;“(1) provide a peanut-free buffer zone or any other related peanut-restricted area; or
 

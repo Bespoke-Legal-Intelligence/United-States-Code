@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “enterprise zone facility” means any qualified zone property the principal user of which is an enterprise zone business, and any land which is functionally related and subordinate to such property.
+&emsp;The term “enterprise zone facility” means any qualified zone property the principal userof which is an enterprise zone business, and any land which is functionally related and subordinate to such property.
 
 #### (2) Qualified zone property
 
@@ -104,7 +104,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (3) Exception if zone ceases
 
-&emsp;Paragraphs (1) and (2) shall not apply solely by reason of the termination or revocation of a designation as an empowerment zone or an enterprise community.
+&emsp;Paragraphs (1) and (2) shall not apply solely by reason of the termination or revocation ofa designation as an empowerment zone or an enterprise community.
 
 #### (4) Exception for bankruptcy
 

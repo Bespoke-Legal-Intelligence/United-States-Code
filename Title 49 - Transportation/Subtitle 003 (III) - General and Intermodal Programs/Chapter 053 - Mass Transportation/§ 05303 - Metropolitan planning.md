@@ -24,7 +24,7 @@ Scope of Planning Process.—
 
 In general.—The metropolitan transportation planning process for a metropolitan area under this section shall provide for consideration of projects and strategies that will—
 
-&emsp;&emsp;(A) support the economic vitality of the metropolitan area, especially by enablingglobal competitiveness, productivity, and efficiency;
+&emsp;&emsp;(A) support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
 
 &emsp;&emsp;(B) increase the safety and security of the transportation system for motorized and nonmotorized users;
 
@@ -100,7 +100,7 @@ Existing metropolitan planning areas in nonattainment.—Notwithstanding paragra
 
 &emsp;(4)
 
-New metropolitan planning areas in nonattainment.—In the case of an urbanized area designated after the date of enactment of this paragraph as a nonattainment area for ozone or carbon monoxide under the Clean AirAct, the boundaries of the metropolitan planning area—
+New metropolitan planning areas in nonattainment.—In the case of an urbanized area designated after the date of enactment of this paragraph as a nonattainment area for ozone or carbon monoxide under the Clean Air Act, the boundaries of the metropolitan planning area—
 
 &emsp;&emsp;(A) shall be established in the manner described in subsection (c)(1);
 
@@ -242,7 +242,7 @@ Balanced and Comprehensive Planning.—(1) To the extent practicable, the Secret
 
 (B) Amounts under this paragraph shall be allocated under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under this section and sections 5304–5306 of this title in those areas.
 
-(4) To the maximum extent practicable, the Secretary of Transportation shall ensure that nometropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out subsection (c) or (h)(1) of section 5338 of this title.
+(4) To the maximum extent practicable, the Secretary of Transportation shall ensure that no metropolitan planning organization is allocated less than the amount it received by administrative formula under this section in the fiscal year that ended September 30, 1991. To carry out this subsection, the Secretary may make a proportionate reduction in other amounts made available to carry out subsection (c) or (h)(1) of section 5338 of this title.
 
 (5) Amounts available for an activity under this subsection are for 80 percent of the cost of the activity unless the Secretary of Transportation decides it is in the interests of the Government not to require a State or local match.
 
@@ -418,7 +418,7 @@ Subsec. (f)(5)(A). Pub. L. 105–178, §3004(e)(4), inserted “published or oth
 
 Subsec. (f)(6). Pub. L. 105–178, §3004(f)(2), as added by Pub. L. 105–206, §9009(b)(3), added par. (6).
 
-Subsec. (h)(1). Pub. L. 105–178, §3029(b)(1), (2), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g)(1) of this title” and “sections 5304 and 5305 of this title” for “sections 5304–5306 of this title”.
+Subsec. (h)(1). Pub. L. 105–178, §3029(b)(1), (2), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g)(1) of this title” and “sections5304 and 5305 of this title” for “sections 5304–5306 of this title”.
 
 Subsec. (h)(2)(A), (3)(A). Pub. L. 105–178, §3029(b)(1), substituted “subsection (c) or (h)(1) of section 5338 of this title” for “section 5338(g)(1) of this title”.
 

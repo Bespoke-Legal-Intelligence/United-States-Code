@@ -42,7 +42,7 @@ Amendment by Pub. L. 98–615 effective following expiration of 90-day period be
 
 #### Limitation on Number of Performance Awards for Career Appointees
 
-Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, to be effective as if enacted into law, provided that: “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under section 5384 of title 5, United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: <i>Provided</i>, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
+Section 306(c) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, and incorporated by reference in Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat.1189, to be effective as if enacted into law, provided that: “None of the funds appropriated by this Act or any other Act shall be used by any agency to pay performance awards in fiscal year 1983 under section 5384 of title 5, United States Code, or any comparable personnel system established on or after October 13, 1978, to more than 20 per centum of the number of Senior Executive Service or comparable personnel system positions in such agency: <i>Provided</i>, That an agency with less than five Senior Executive Service employees or equivalent positions may grant one such performance award.”
 
 Similar provisions were contained in the following acts:
 

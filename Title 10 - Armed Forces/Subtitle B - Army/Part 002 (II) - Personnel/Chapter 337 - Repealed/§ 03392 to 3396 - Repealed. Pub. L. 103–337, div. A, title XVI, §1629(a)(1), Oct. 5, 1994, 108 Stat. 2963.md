@@ -8,7 +8,7 @@ Section 3394, act Aug. 10, 1956, ch. 1041, 70A Stat. 195, related to acceptance 
 
 Section 3395, act Aug. 10, 1956, ch. 1041, 70A Stat. 195, related to appointment of reserve officers in time of war. See section 14301 et seq. of this title.
 
-Section 3396, added Pub. L. 96–513, title II, §206(a), Dec. 12, 1980, 94 Stat. 2884, provided that chapter, except section 3353, did not apply to reserve officers on active-duty list.
+Section 3396, added Pub. L. 96–513, title II, §206(a), Dec. 12, 1980, 94 Stat. 2884, provided that chapter, exceptsection 3353, did not apply to reserve officers on active-duty list.
 
 #### Effective Date of Repeal
 

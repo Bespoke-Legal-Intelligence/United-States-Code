@@ -2009,6 +2009,10 @@ Insurance of mortgages providing permanent financing or refinancing of existing 
 
 Applicability of other laws.
 
+(i)
+
+Termination of exemption for critical access hospitals.
+
 |  |  |
 | :--- | ---: |
 | 1715z–8. | Mortgage assistance payments for middle-income families. |

@@ -30,10 +30,6 @@ Subsection (a) of this section shall not apply to a polling place—
 
 (Pub. L. 98–435, §3, Sept. 28, 1984, 98 Stat. 1678.)
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to transmittal of information to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 3 on page 168 of House Document No. 103–7.
-
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1973gg–4, 15483 of this title.

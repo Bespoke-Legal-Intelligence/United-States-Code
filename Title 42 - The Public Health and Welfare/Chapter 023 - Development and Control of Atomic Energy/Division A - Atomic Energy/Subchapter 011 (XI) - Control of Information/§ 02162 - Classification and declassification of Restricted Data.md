@@ -40,19 +40,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Review of Certain Documents Before Declassification and Release
 
-Pub. L. 104–106, div. C, title XXXI, §3155, Feb. 10, 1996, 110 Stat. 625, provided that:
-
-“(a)
-
-In General.—The Secretary of Energy shall ensure that, before a document of the Department of Energy that contains national security information is released or declassified, such document is reviewed to determine whether it contains restricted data.
-
-“(b)
-
-Limitation on Declassification.—The Secretary may not implement the automatic declassification provisions of Executive Order 12958 \[set out as a note under section 435 of Title 50, War and National Defense\] if the Secretary determines that such implementation could result in the automatic declassification and release of documents containing restricted data.
-
-“(c)
-
-Restricted Data Defined.—In this section, the term ‘restricted data’ has the meaning provided by section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).”
+Pub. L. 104–106, div. C, title XXXI, §3155, Feb. 10, 1996, 110 Stat. 625, which was formerly set out as a note under this section, was renumbered section 4521 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(11), Nov. 24, 2003, 117 Stat. 1774, and is classified to section 2671 of Title 50, War and National Defense.
 
 #### Ex. Ord. No. 10899. Communication of Restricted Data by Central Intelligence Agency
 
@@ -70,7 +58,7 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Modification of Executive Order No. 10899
 
-Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energyand the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
+Ex. Ord. No. 10899, Dec. 9, 1960, 25 F.R. 12729, set out above, when referring to functions of the Atomic Energy Commission is modified to provide that all such functions shall be exercised by the Secretary of Energy and the Nuclear Regulatory Commission, see section 4(a)(1) of Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 7151 of this title.
 
 #### Ex. Ord. No. 11057. Communication of Restricted Data by Department of State
 

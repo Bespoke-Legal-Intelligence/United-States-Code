@@ -36,7 +36,7 @@ Subsec. (a)(2), (3). Pub. L. 91–680, §3(a)(2), (3), redesignated par. (3) as 
 
 Subsec. (b)(1). Pub. L. 91–680, §3(b), struck out “only” after “state such cost”.
 
-Subsec. (b)(2). Pub. L. 91–680, §3(b), substituted provisions authorizing advertising to separately state in the prescribed manner the amount paid for the air transportation and the amount paid for taxes, for provisions prohibiting advertising from separately stating the amount paid for the air transportation and the amount paid for taxes.
+Subsec. (b)(2). Pub. L. 91–680, §3(b), substituted provisions authorizing advertising to separately state in the prescribed manner the amount paid for the air transportation and the amount paid for taxes, for provisions prohibiting advertising from separately stating theamount paid for the air transportation and the amount paid for taxes.
 
 #### Effective Date of 1982 Amendment
 

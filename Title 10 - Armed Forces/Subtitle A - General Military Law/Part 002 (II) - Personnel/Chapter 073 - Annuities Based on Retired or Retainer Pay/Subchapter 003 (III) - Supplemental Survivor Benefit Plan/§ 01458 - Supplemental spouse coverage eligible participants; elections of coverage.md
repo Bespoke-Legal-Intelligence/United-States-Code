@@ -58,7 +58,7 @@ Effective date of election.—An election under paragraph (1) is effective as of
 
 (e)
 
-Notice to Spouse of Former Spouse Coverage.—If a married person who is eligible toprovide an annuity under the Survivor Benefit Plan elects to provide an annuity under that Plan for a former spouse (or for a former spouse and dependent child) and elects under this section to provide a supplemental spouse annuity for that former spouse, the notification to the person's spouse under section 1448(a)(3)(E) or 1448(b)(3)(D) of this title shall include notice of the election under this section.
+Notice to Spouse of Former Spouse Coverage.—If a married person who is eligible to provide an annuity under the Survivor Benefit Plan elects to provide an annuity under that Plan for a former spouse (or for a former spouse and dependent child) and elects under this section to provide a supplemental spouse annuity for that former spouse, the notification to the person's spouse under section 1448(a)(3)(E) or 1448(b)(3)(D) of this title shall include notice of the election under this section.
 
 (f)
 
@@ -118,9 +118,23 @@ Change of Former Spouse Beneficiary to Spouse or Child Beneficiary.—If a perso
 
 Reinstatement of Discontinued Annuity Upon Reinstatement of SBP Annuity.—If a person who is providing an annuity for a former spouse under the Survivor Benefit Plan and a supplemental spouse annuity for that former spouse under this subchapter discontinues participation in the Survivor Benefit Plan under any provision of law and subsequently resumes participation in that Plan under any provision of law, the participation of that person in the Supplemental Survivor Benefit Plan under this chapter shall be reinstated effective on the day on which participation in the Survivor Benefit Plan resumes.
 
-(Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1581; amended Pub. L. 102–190, div. A, title VI, §653(c)(1), Dec. 5, 1991, 105 Stat. 1388.)
+(j)
+
+Vitiation of Election by Disability Retiree Who Dies of Disability-Related Cause.—If a member retired on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2004 under chapter 61 of this title dies within one year after the date on which the member is so retired and the cause of death is related to a disability for which the member was retired under that chapter (as determined under regulations prescribed by the Secretary of Defense)—
+
+&emsp;(1) an election made by the member to provide a supplemental spouse annuity under this subchapter is vitiated; and
+
+&emsp;(2) the amounts by which the member's retired pay was reduced under section 1460 of this title shall be refunded and paid to the person to whom the supplemental spouse annuity would have been paid pursuant to such election.
+
+(Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1581; amended Pub. L. 102–190, div. A, title VI, §653(c)(1), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 108–136, div. A, title VI, §645(b)(2), Nov. 24, 2003, 117 Stat. 1519.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (j), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
 
 #### Amendments
+
+2003—Subsec. (j). Pub. L. 108–136 added subsec. (j).
 
 1991—Subsec. (a)(1). Pub. L. 102–190 inserted “at the maximum level” after “Survivor Benefit Plan”.
 

@@ -1,8 +1,8 @@
 ### §1004. Supervisory and other managerial organizations
 
-(a) It shall be the policy of the Postal Service to provide compensation, working conditions,and career opportunities that will assure the attraction and retention of qualified and capable supervisory and other managerial personnel; to provide adequate and reasonable differentials in rates of pay between employees in the clerk and carrier grades in the line work force and supervisory and other managerial personnel; to establish and maintain continuously a program for all such personnel that reflects the essential importance of a well-trained and well-motivated force to improve the effectiveness of postal operations; and to promote the leadership status of such personnel with respect to rank-and-file employees, recognizing that the role of such personnel in primary level management is particularly vital to the process of converting general postal policies into successful postal operations.
+(a) It shall be the policy of the Postal Service to provide compensation, working conditions, and career opportunities that will assure the attraction and retention of qualified and capable supervisory and other managerial personnel; to provide adequate and reasonable differentials in rates of pay between employees in the clerk and carrier grades in the line work force and supervisory and other managerial personnel; to establish and maintain continuously a program for all such personnel that reflects the essential importance of a well-trained and well-motivated force to improve the effectiveness of postal operations; and to promote the leadership status of such personnel with respect to rank-and-file employees, recognizing that the role of such personnel in primary level management is particularly vital to the process of converting general postal policies into successful postal operations.
 
-(b) The Postal Service shall provide a program for consultation with recognized organizations of supervisory and other managerial personnel who are not subject to collective-bargaining agreements under chapter 12 of this title. Upon presentation of evidence satisfactory to the Postal Service that a supervisory organization represents a majority of supervisors, or that a managerial organization (other than an organization representing supervisors) represents a substantial percentage of managerial employees, such organization or organizations shall be entitled to participate directly in the planning and development of pay policies and schedules, fringe benefit programs, and other programs relating to supervisory and other managerial employees.
+(b) The Postal Service shall provide a program for consultation with recognized organizations of supervisory and other managerial personnel who are not subject to collective-bargaining agreements under chapter 12 of this title. Upon presentation of evidence satisfactory to the Postal Service that a supervisory organization represents a majority of supervisors, that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters, or that a managerial organization (other than an organization representing supervisors or postmasters) represents a substantial percentage of managerial employees, such organization or organizations shall be entitled to participate directly in the planning and development of pay policies and schedules, fringe benefit programs, and other programs relating to supervisory and other managerial employees.
 
 (c)(1) The Postal Service and the supervisors’ organization shall, unless otherwise mutually agreed to, meet at least once each month to implement the consultation and direct participation procedures of subsection (b) of this section.
 
@@ -58,13 +58,31 @@
 
 (g) Not earlier than 3 years after the date of the enactment of this subsection, and from time to time thereafter, the Postal Service or the supervisors’ organization may request, by written notice to the Federal Mediation and Conciliation Service and to the other party, the creation of a panel to review the effectiveness of the procedures and the other provisions of this section and the provisions of section 1003 of this title. The panel shall be designated in accordance with the procedure established in subsection (f)(2) of this section. The panel shall make recommendations to the Congress for changes in this title as it finds appropriate.
 
-(h) For purposes of this section—
+(h)(1) In order to ensure that postmasters and postmasters’ organizations are afforded the same rights under this section as are afforded to supervisors and the supervisors’ organization, subsections (c) through (g) shall be applied with respect to postmasters and postmasters’ organizations—
 
-&emsp;(1) “supervisors’ organization” means the organization recognized by the Postal Service under subsection (b) of this section as representing a majority of supervisors; and
+&emsp;(A) by substituting “postmasters’ organization” for “supervisors’ organization” each place it appears; and
 
-&emsp;(2) “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization.
+&emsp;(B) if 2 or more postmasters’ organizations exist, by treating such organizations as if they constituted a single organization, in accordance with such arrangements as such organizations shall mutually agree to.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023.)
+(2) If 2 or more postmasters’ organizations exist, such organizations shall, in the case of any factfinding panel convened at the request of such organizations (in accordance with paragraph (1)(B)), be jointly and severally liable for the cost of such panel, apart from the portion to be borne by the Postal Service (as determined under subsection (f)(4)).
+
+(i) For purposes of this section—
+
+&emsp;(1) “supervisors’ organization” means the organization recognized by the Postal Service under subsection (b) of this section as representing a majority of supervisors;
+
+&emsp;(2) “members of the supervisors’ organization” means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors’ organization as represented by such organization;
+
+(3) “postmaster” means an individual who is the manager in charge of the operations of a post office, with or without the assistance of subordinate managers or supervisors;
+
+(4) “postmasters’ organization” means an organization recognized by the Postal Service under subsection (b) as representing at least 20 percent of postmasters; and
+
+(5) “members of the postmasters’ organization” shall be considered to mean employees of the Postal Service who are recognized under an agreement—
+
+&emsp;(A) between the Postal Service and the postmasters’ organization as represented by the organization; or
+
+&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
+
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023; Pub. L. 108–86, §2(a)–(c), Sept. 30, 2003, 117 Stat. 1052.)
 
 #### References in Text
 
@@ -72,11 +90,31 @@ The date of the enactment of this subsection, referred to in subsec. (g), is the
 
 #### Amendments
 
+2003—Subsec. (b). Pub. L. 108–86, §2(a)(2), which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
+
+Pub. L. 108–86, §2(a)(1), inserted “that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters,” after “majority of supervisors,”.
+
+Subsec. (h). Pub. L. 108–86, §2(b)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 108–86, §2(b)(1), (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
+
 1980—Subsecs. (c) to (h). Pub. L. 96–326 added subsecs. (c) to (h).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–86, §3, Sept. 30, 2003, 117 Stat. 1053, provided that: “The amendments made by this section\[probably should be “this Act”, amending this section and enacting provisions set out as notes under this section and section 101 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 30, 2003\].”
 
 #### Effective Date
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+#### Thrift Advisory Council Not To Be Affected
+
+Pub. L. 108–86, §2(d), Sept. 30, 2003, 117 Stat. 1053, provided that: “For purposes of section 8473(b)(4) of title 5, United States Code—
+
+&emsp;“(1) each of the 2 or more organizations referred to in section 1004(h)(1)(B) of title 39, United States Code (as amended by subsection (b)) shall be treated as a separate organization; and
+
+&emsp;“(2) any determination of the number of individuals represented by each of those respective organizations shall be made in a manner consistent with the purposes of this subsection.”
 
 #### Section Referred to in Other Sections
 

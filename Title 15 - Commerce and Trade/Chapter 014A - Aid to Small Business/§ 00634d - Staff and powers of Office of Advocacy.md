@@ -8,7 +8,7 @@ In carrying out the provisions of sections 634a to 634g of this title, the Chief
 
 &emsp;(3) consult with experts and authorities in the fields of small business investment, venture capital, investment and commercial banking and other comparable financial institutions involved in the financing of business, and with individuals with regulatory, legal, economic, or financial expertise, including members of the academic community, and individuals who generally represent the public interest;
 
-&emsp;(4) utilize the services of the National Advisory Council established pursuant to the provisions of section 637(b)(13) of this title and in accordance with the provisions of such statute, also appoint such other advisory boards or committees as is reasonably appropriate and necessary to carry out the provisions of sections 634a to 634g of this title; and
+&emsp;(4) utilize the services of the National Advisory Council established pursuant to the provisions of section 637(b)(13) of this title and in accordance with the provisions of such statute, also appoint such other advisory boards or committees as is reasonably appropriate andnecessary to carry out the provisions of sections 634a to 634g of this title; and
 
 &emsp;(5) hold hearings and sit and act at such times and places as he may deem advisable.
 

@@ -10,7 +10,3 @@ Section was classified to section 188b–3 of former Title 40, prior to the enac
 
 Section is based on section 4 of Senate Resolution No. 382, Ninetieth Congress, Oct. 1, 1968, which was enacted into permanent law by Pub. L. 100–696.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106 of this title.
-

@@ -85,7 +85,7 @@ The section is included because 49:1655(f)(2) gave the same administrative power
 
 See the revision notes for the revised sections for an explanation of changes made in the text. Changes not accounted for in those revision notes are as follows:
 
-The text of 49:305(a)–(c), (e), and (g)–(j) is not included for motor carriers of migrant workers and motor private carriers because those provisions, while included in the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(f)(2)(B)(ii).
+The text of 49:305(a)–(c), (e), and (g)–(j) is not included for motor carriers of migrant workers and motor private carriers because those provisions, while includedin the enumeration in 49:304(a)(3) and (3a), are not included in the specific enumeration of 49:1655(f)(2)(B)(ii).
 
 In subsection (b), the text of 49:12(1)(a) (2d sentence words after semicolon) is omitted as unnecessary because the Secretary of Transportation already has authority under chapter 3 of the revised title to make recommendations to Congress.
 

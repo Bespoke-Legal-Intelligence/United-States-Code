@@ -86,7 +86,7 @@ Memorial day.—The term ‘Memorial Day’ means the legal public holiday desig
 
 &emsp;“(5)
 
-Tribal government.—The term ‘tribal government’ means the governing body of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Tribal government.—The term ‘tribal government’ means the governing body of an Indian tribe\(as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 #### “SEC. 4. NATIONAL MOMENT OF REMEMBRANCE.
 
@@ -262,7 +262,7 @@ Information From Federal Agencies.—
 
 &emsp;“(1)
 
-In general.—The Commission may secure directly from a Federal agency such information as theCommission considers necessary to carry out this Act.
+In general.—The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
 
 &emsp;“(2)
 
@@ -416,7 +416,7 @@ Civil service status.—The detail of any officer or employee under this subsect
 
 “(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission mayprocure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
 
 “(f)
 
@@ -578,5 +578,5 @@ Access.—The Commission shall ensure that the Comptroller General, in conductin
 
 &emsp;“(2) the date that is 10 years after the date of enactment of this Act.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

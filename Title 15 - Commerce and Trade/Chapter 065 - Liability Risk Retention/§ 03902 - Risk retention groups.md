@@ -2,7 +2,7 @@
 
 #### (a) Exemptions from State laws, rules, regulations, or orders
 
-Except as provided in this section, a risk retention group is exempt from any State law,rule, regulation, or order to the extent that such law, rule, regulation, or order would—
+Except as provided in this section, a risk retention group is exempt from any State law, rule, regulation, or order to the extent that such law, rule, regulation, or order would—
 
 &emsp;(1) make unlawful, or regulate, directly or indirectly, the operation of a risk retention group except that the jurisdiction in which it is chartered may regulate the formation and operation of such a group and any State may require such a group to—
 
@@ -40,7 +40,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 &emsp;(3) require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
 
-&emsp;(4) otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
+&emsp;(4) otherwise, discriminate against a risk retention group or any of its members, exceptthat nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
 
 #### (b) Scope of exemptions
 
@@ -84,7 +84,7 @@ Each risk retention group shall submit—
 
 &emsp;&emsp;(B) a copy of any revisions to such plan or study, as provided in paragraph (1)(B) (which shall include any change in the designation of the State in which it is chartered); and
 
-&emsp;(3) to the insurance commissioner of each State in which it is doing business, a copy ofthe group's annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
+&emsp;(3) to the insurance commissioner of each State in which it is doing business, a copy of the group's annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
 
 &emsp;&emsp;(A) a member of the American Academy of Actuaries, or
 

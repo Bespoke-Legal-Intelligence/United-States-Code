@@ -26,7 +26,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
 
-&emsp;(A) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the Administrator has transmitted to the appropriate committees of the House of Representatives and the Senate a written report containing a full and complete statement concerning (i) the nature of the construction, expansion, or modification involved, (ii) the cost thereof, including the cost of any real estate action pertaining thereto, and (iii) the reason why such construction, expansion, or modification is necessary and in the national interest, or
+&emsp;(A) a period of thirty calendar days (not including any day in which either House of Congress is not in session because of adjournment of more than three calendar days to a day certain) has passed after the Administrator has transmitted to the appropriate committees ofthe House of Representatives and the Senate a written report containing a full and complete statement concerning (i) the nature of the construction, expansion, or modification involved, (ii) the cost thereof, including the cost of any real estate action pertaining thereto, and (iii) the reason why such construction, expansion, or modification is necessary and in the national interest, or
 
 &emsp;(B) each such committee before the expiration of such period has transmitted to the Administrator a written notice to the effect that such committee has no objection to the proposed action;
 
@@ -54,7 +54,7 @@ When so specified in an appropriation Act, amounts appropriated pursuant to any 
 
 #### (g) Performance of construction design services by Administrator
 
-The Administrator is authorized to perform construction design services for any administration construction project whenever (1) such construction project has been included in a proposed authorization bill transmitted to the Congress by the Administration, and (2) the Administration determines that the project is of such urgency in order to meet the needs of national defense or protection of life and property orhealth and safety that construction of the project should be initiated promptly upon enactment of legislation appropriating funds for its construction.
+The Administrator is authorized to perform construction design services for any administration construction project whenever (1) such construction project has been included in a proposed authorization bill transmitted to the Congress by the Administration, and (2) the Administration determines that the project is of such urgency in order to meet the needs of national defense or protection of life and property or health and safety that construction of the project should be initiated promptly upon enactment of legislation appropriating funds for its construction.
 
 #### (h) Retention and use for operating expenses, and availability until expended, of moneys received by Administration; exceptions
 
@@ -66,7 +66,7 @@ When so specified in appropriation Acts, any moneys received by the Administrati
 
 #### (i) Requirements respecting transfers of sums appropriated for operating expenses to other Government agencies; merger of transferred sums
 
-When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.
+When so specified in an appropriation Act, transfers of sums from the “Operating expenses” appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may bemerged with the appropriations to which they are transferred.
 
 (Pub. L. 93–438, title I, §111, as added Pub. L. 95–238, title II, §201, Feb. 25, 1978, 92 Stat. 56; amended Pub. L. 103–437, §15(c)(7), Nov. 2, 1994, 108 Stat. 4592.)
 

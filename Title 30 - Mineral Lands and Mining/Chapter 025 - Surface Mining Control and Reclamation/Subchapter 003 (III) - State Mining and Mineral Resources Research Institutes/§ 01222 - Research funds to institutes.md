@@ -24,7 +24,7 @@ No funds shall be made available under subsection (a) of this section except for
 
 #### (e) Restriction on application of funds
 
-No funds made available under this section shall be applied to the acquisition by purchaseor lease of any land or interests therein, or the rental, purchase, construction, preservation, or repair of any building.
+No funds made available under this section shall be applied to the acquisition by purchase or lease of any land or interests therein, or the rental, purchase, construction, preservation, or repair of any building.
 
 (Pub. L. 98–409, §2, Aug. 29, 1984, 98 Stat. 1537; Pub. L. 100–483, §5, Oct. 12, 1988, 102 Stat. 2339; Pub. L. 104–312, §1(a), Oct. 19, 1996, 110 Stat. 3819.)
 

@@ -18,10 +18,6 @@ Prohibition on Delegation of Waiver Authority.—The authority to grant a waiver
 
 (d)
 
-Exception.—Subsection (a) shall not apply with respect to the Sacramento Army Depot, Sacramento, California.
-
-(e)
-
 Annual Reports.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that were expended during the preceding two fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
 
 (2) Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that are projected to be expended during each of the next five fiscal years for performance of depot-level maintenance and repair workloads by the public and private sectors, as required by this section.
@@ -32,9 +28,11 @@ Annual Reports.—(1) Not later than February 1 of each year, the Secretary of D
 
 &emsp;(B) in the case of a report under paragraph (2), the expenditure projections for future fiscal years are reasonable.
 
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060.)
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 108–136, div. A, title III, §332, Nov. 24, 2003, 117 Stat. 1442.)
 
 #### Amendments
+
+2003—Subsecs. (d), (e). Pub. L. 108–136 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) shall not apply with respect to the Sacramento Army Depot, Sacramento, California.”
 
 2001—Subsecs. (b), (c). Pub. L. 107–107 added subsecs. (b) and (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.”
 
@@ -48,7 +46,7 @@ Annual Reports.—(1) Not later than February 1 of each year, the Secretary of D
 
 Subsec. (a). Pub. L. 105–85, §357, substituted “50 percent” for “40 percent”.
 
-Subsec. (e). Pub. L. 105–85, §358, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than January 15, 1995, the Secretary of Defense shall submit to Congress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.”
+Subsec. (e). Pub. L. 105–85, §358, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Not later than January 15, 1995, the Secretary of Defense shall submit toCongress a report identifying, for each military department and Defense Agency, the percentage of funds referred to in subsection (a) that was used during fiscal year 1994 to contract for the performance by non-Federal Government personnel of depot-level maintenance and repair workload.”
 
 1996—Pub. L. 104–106, §311(f)(1), which directed repeal of this section, was repealed by Pub. L. 105–85, §363.
 
@@ -90,11 +88,15 @@ Subsec. (e). Pub. L. 102–484, §352(c), designated existing provisions as par.
 
 1989—Pub. L. 101–189, in introductory provisions, substituted “shall prohibit” for “may not require”, “Army and” for “Army or”, and “from carrying out” for “to carry out”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Congressional Findings
 
 Section 331 of Pub. L. 103–337 provided that: “Congress makes the following findings:
 
-&emsp;“(1) By providing the Armed Forces with a critical capacity to respond to the needs of the Armed Forcesfor depot-level maintenance and repair of weapon systems and equipment, the depot-level maintenance and repair activities of the Department of Defense play an essential role in maintaining the readiness of the Armed Forces.
+&emsp;“(1) By providing the Armed Forces with a critical capacity to respond to the needs of the Armed Forces for depot-level maintenance and repair of weapon systems and equipment, the depot-level maintenance and repair activities of the Department of Defense play an essential role in maintaining the readiness of the Armed Forces.
 
 &emsp;“(2) It is appropriate for the capability of the depot-level maintenance and repair activities of the Department of Defense to perform maintenance and repair of weapon systems and equipment to be based on policies that take into consideration the readiness, mobilization, and deployment requirements of the military departments.
 
@@ -128,7 +130,7 @@ Pub. L. 103–160, div. A, title III, §343, Nov. 30, 1993, 107 Stat. 1624, prov
 
 #### Effect of 1992 Amendments on Existing Contracts
 
-Section 352(d) of Pub. L. 102–484 provided that: “The Secretary of a military department and the Secretary of Defense, with respect to the Defense Agencies, may not cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Oct. 23, 1992\] in order to comply with the requirements of section 2466(a) of title 10, United States Code, as amended by subsection (a).”
+Section 352(d) of Pub. L. 102–484 provided that: “The Secretary of a military department and the Secretary of Defense, with respect to the Defense Agencies, maynot cancel a depot-level maintenance contract in effect on the date of the enactment of this Act \[Oct. 23, 1992\] in order to comply with the requirements of section 2466(a) of title 10, United States Code, as amended by subsection (a).”
 
 #### Prohibition on Cancellation of Contracts in Effect on December 5, 1991
 

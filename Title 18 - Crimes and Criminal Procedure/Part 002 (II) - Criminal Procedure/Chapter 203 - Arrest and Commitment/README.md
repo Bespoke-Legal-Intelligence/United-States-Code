@@ -17,7 +17,7 @@
 | [3048\.](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md) | Commitment to another district; removal—Rule. |
 | [3049\.](%C2%A7%2003049%20-%20Warrant%20for%20removal.md) | Warrant for removal. |
 | [3050\.](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md) | Bureau of Prisons employees’ powers. |
-| [3051\.](%C2%A7%2003051%20-%20Powers%20of%20special%20agents%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Powers of special agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives.<sup>2</sup> |
+| [3051\.](%C2%A7%2003051%20-%20Powers%20of%20Special%20Agents%201%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Powers of Special Agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -92,7 +92,7 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03048 - Commitment to another district; removal&#8212;(Rule)](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md)
 - [&sect; 03049 - Warrant for removal](%C2%A7%2003049%20-%20Warrant%20for%20removal.md)
 - [&sect; 03050 - Bureau of Prisons employees&#8217; powers](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md)
-- [&sect; 03051 - Powers of special agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives](%C2%A7%2003051%20-%20Powers%20of%20special%20agents%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md)
+- [&sect; 03051 - Powers of Special Agents 1 of Bureau of Alcohol, Tobacco, Firearms, and Explosives](%C2%A7%2003051%20-%20Powers%20of%20Special%20Agents%201%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md)
 - [&sect; 03052 - Powers of Federal Bureau of Investigation](%C2%A7%2003052%20-%20Powers%20of%20Federal%20Bureau%20of%20Investigation.md)
 - [&sect; 03053 - Powers of marshals and deputies](%C2%A7%2003053%20-%20Powers%20of%20marshals%20and%20deputies.md)
 - [&sect; 03054 - Repealed. Pub. L. 97&#8211;79, &sect;9(b)(3), Nov. 16, 1981, 95 Stat. 1079](%C2%A7%2003054%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9379%2C%20%C2%A79%28b%29%283%29%2C%20Nov.%2016%2C%201981%2C%2095%20Stat.%201079.md)

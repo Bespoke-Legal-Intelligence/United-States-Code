@@ -12,7 +12,7 @@
 
 #### (b) Remedy
 
-The remedy for a violation of subsection (a) of this section shall be such remedy as would be appropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2104(a)(1), (2), and (4)).
+The remedy for a violation of subsection (a) of this section shall be such remedy as would beappropriate if awarded under paragraphs (1), (2), and (4) of section 5(a) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2104(a)(1), (2), and (4)).
 
 #### (c) Regulations to implement section
 

@@ -1,6 +1,6 @@
 ### §9307. Civil actions and judgments against surety corporations
 
-(a)(1) A surety corporation providing a surety bond under section 9304 of this title may be sued in a court of the United States having jurisdiction of civil actions on surety bonds in—
+(a)(1) A surety corporation providing a surety bond under section 9304 of this title may be suedin a court of the United States having jurisdiction of civil actions on surety bonds in—
 
 &emsp;(A) the judicial district in which the surety bond was provided; or
 

@@ -28,7 +28,7 @@ Except for the last proviso of subsec. (a), this section was from act Aug. 18, 1
 
 1983—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 
-1982—Subsec. (a). Pub. L. 97–322, §108(a)(1)–(4), designated existing provisions as subsec. (a); struck outfrom second sentence after “boats,” the clause “or who shall unreasonably delay the opening of said draw after reasonable signal shall have been given,”; substituted in first proviso “subsection” for “section”; and in second proviso provided for punishment of “willful” violation of rules and regulations.
+1982—Subsec. (a). Pub. L. 97–322, §108(a)(1)–(4), designated existing provisions as subsec. (a); struck out from second sentence after “boats,” the clause “or who shall unreasonably delay the opening of said draw after reasonable signal shall have been given,”; substituted in first proviso “subsection” for “section”; and in second proviso provided for punishment of “willful” violation of rules and regulations.
 
 Subsecs. (b), (c). Pub. L. 97–322, §108(a)(5), added subsecs. (b) and (c).
 

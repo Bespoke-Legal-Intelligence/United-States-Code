@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such individual is a licensed real estate agent,
 
-&emsp;&emsp;(B) substantially all of the remuneration (whether or not paid in cash) for the services performed by such individual as a real estate agent is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and
+&emsp;&emsp;(B) substantially all of the remuneration (whether or not paid in cash) for the services performed by such individual as a real estateagent is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and
 
 &emsp;&emsp;(C) the services performed by the individual are performed pursuant to a written contract between such individual and the person for whom the services are performed and such contract provides that the individual will not be treated as an employee with respect to such services for Federal tax purposes.
 

@@ -6,7 +6,7 @@ Whenever any person has left or leaves any civilian position in any department o
 
 #### Amendments
 
-1946—Act July 1, 1946, reenacted section without change.
+<b>1946</b>—Act July 1, 1946, reenacted section without change.
 
 #### Transfer of Functions
 

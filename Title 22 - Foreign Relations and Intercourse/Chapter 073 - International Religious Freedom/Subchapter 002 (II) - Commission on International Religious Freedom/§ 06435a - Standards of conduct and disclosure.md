@@ -18,7 +18,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), paragraph (1) shall not apply to payments made for itemssuch as conference fees or the purchase of periodicals or other similar expenses, if such payments would not cause the aggregate value paid to any agency, project, or person for a fiscal year to exceed $250.
+&emsp;&emsp;Subject to subparagraph (B), paragraph (1) shall not apply to payments made for items such as conference fees or the purchase of periodicals or other similar expenses, if such payments would not cause the aggregate value paid to any agency, project, or person for a fiscal year to exceed $250.
 
 #### (B) Limitation
 
@@ -78,7 +78,7 @@ The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E),
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b)of title 5 or under other contracting authority other than that allowed under this subchapter.”
+2002—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow “member”.</i>
 

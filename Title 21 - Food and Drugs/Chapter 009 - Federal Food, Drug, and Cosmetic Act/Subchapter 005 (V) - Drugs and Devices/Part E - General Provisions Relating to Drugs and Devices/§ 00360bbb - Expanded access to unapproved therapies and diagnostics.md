@@ -34,7 +34,7 @@ Upon submission by a sponsor or a physician of a protocol intended to provide wi
 
 &emsp;(6) in the case of serious diseases, there is sufficient evidence of safety and effectiveness to support the use described in paragraph (1); and
 
-&emsp;(7) in the case of immediately life-threatening diseases, the available scientific evidence, taken as a whole, provides a reasonable basis to conclude that the investigational drug or investigational device may be effective for its intended use and would not expose patients to an unreasonable and significant risk of illness or injury.
+&emsp;(7) in the case of immediately life-threatening diseases, the available scientific evidence,taken as a whole, provides a reasonable basis to conclude that the investigational drug or investigational device may be effective for its intended use and would not expose patients to an unreasonable and significant risk of illness or injury.
 
 > A protocol submitted under this subsection shall be subject to the provisions of section 355(i) or 360j(g) of this title, including regulations promulgated under section 355(i) or 360j(g) of this title. The Secretary may inform national, State, and local medical associations and societies, voluntary health associations, and other appropriate persons about the availability of an investigational drug or investigational device under expanded access protocols submitted under this subsection. The information provided by the Secretary, in accordance with the preceding sentence, shall be the same type of information that is required by section 282(j)(3) of title 42.
 

@@ -14,7 +14,11 @@ Reimbursement Not Authorized.—A Reserve is not entitled to Government reimburs
 
 (d)
 
-Treatment of Transportation as Use by Military Departments.—For the purposes of section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a)), travel authorized under subsection (a) shall be treated as transportation for the use of a military department.
+Treatment of Transportation as Use by Military Departments.—For the purposes of section 501 of title 40, travel authorized under subsection (a) shall be treated as transportation for the use of a military department.
 
-(Added Pub. L. 105–261, div. A, title VI, §635(a), Oct. 17, 1998, 112 Stat. 2044.)
+(Added Pub. L. 105–261, div. A, title VI, §635(a), Oct. 17, 1998, 112 Stat. 2044; amended Pub. L. 107–217, §3(b)(41), Aug. 21, 2002, 116 Stat. 1298.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–217 substituted “section 501 of title 40” for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))”.
 

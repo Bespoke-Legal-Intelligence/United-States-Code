@@ -100,7 +100,7 @@ Free and reduced price policy statement.—After the initial submission, a schoo
 
 (7)
 
-Exclusion of certain military housing allowances.—For each of fiscal years 2002 and 2003, the amount of a basic allowance provided under section 403 of title 37 on behalf of a member of a uniformed service for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10, or any related provision of law, shall not be considered to be income for the purpose of determining the eligibility of a child who is a member of the household of the member of a uniformed service for free or reduced price lunches under this chapter.
+Exclusion of certain military housing allowances.—For each of fiscal years 2002 and 2003 and through March 31, 2004, the amount of a basic allowance provided under section 403 of title 37 on behalf of a member of a uniformed service for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10, or any related provision of law, shall not be considered to be income for the purpose of determining the eligibility of a child who is a member of the household of the member of a uniformed service for free or reduced price lunches under this chapter.
 
 #### (c) Operation on nonprofit basis; donation of agricultural commodities
 
@@ -108,7 +108,7 @@ School lunch programs under this chapter shall be operated on a nonprofit basis.
 
 #### (d) Social Security numbers and other documentation required as condition of eligibility
 
-(1) The Secretary shall require as a condition of eligibility for receipt of free or reduced price lunches that the member of the household who executes the application furnish the social security account number of the parent or guardian who is the primary wage earner responsible for the care of the child for whom the application is made, or that of another appropriate adult member of the child's household, as determined by the Secretary. The Secretary shall requirethat social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(2)(C) of this section.
+(1) The Secretary shall require as a condition of eligibility for receipt of free or reduced price lunches that the member of the household who executes the application furnish the social security account number of the parent or guardian who is the primary wage earner responsible for the care of the child for whom the application is made, or that of another appropriate adult member of the child's household, as determinedby the Secretary. The Secretary shall require that social security account numbers of all adult members of the household be provided if verification of the data contained in the application is sought under subsection (b)(2)(C) of this section.
 
 (2) No member of a household may be provided a free or reduced price lunch under this chapter unless—
 
@@ -218,7 +218,7 @@ Not later than 1 year after November 2, 1994, the Secretary shall provide a noti
 
 &emsp;&emsp;No amounts may be made available to carry out this subsection unless specifically provided by an appropriation Act.
 
-(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331.)
+(June 4, 1946, ch. 281, §9, 60 Stat. 233; Pub. L. 90–302, §2(b), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §6(a), (b), (d), (e), May 14, 1970, 84 Stat. 210; Pub. L. 92–153, §5, Nov. 5, 1971, 85 Stat. 420; Pub. L. 92–433, §5, Sept. 26, 1972, 86 Stat. 726; Pub. L. 93–150, §9, Nov. 7, 1973, 87 Stat. 564; Pub. L. 93–326, §4, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §6, Oct. 7, 1975, 89 Stat. 512; Pub. L. 95–166, §8, Nov. 10, 1977, 91 Stat. 1335; Pub. L. 95–627, §8, Nov. 10, 1978, 92 Stat. 3622; Pub. L. 97–35, title VIII, §§803(a), (b), 811, Aug. 13, 1981, 95 Stat. 524, 525, 529; Pub. L. 99–500, title III, §§322–324, Oct. 18, 1986, 100 Stat. 1783–361, and Pub. L. 99–591, title III, §§322–324, Oct. 30, 1986, 100 Stat. 3341–364; Pub. L. 99–661, div. D, title II, §§4202–4204, Nov. 14, 1986, 100 Stat. 4072; Pub. L. 100–356, §1, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §101, title II, §202(a)(1), (2)(A), (b), title III, §§305, 312(1), (2), Nov. 10, 1989, 103 Stat. 878, 908, 914, 916; Pub. L. 103–448, title I, §§105(a), 106–109(a), 110, Nov. 2, 1994, 108 Stat. 4701–4705; Pub. L. 104–149, §2, May 29, 1996, 110 Stat. 1379; Pub. L. 104–193, title I, §109(g), title VII, §§702, 703, Aug. 22, 1996, 110 Stat. 2170, 2288, 2289; Pub. L. 105–336, title I, §102, Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–224, title II, §242(a), June 20, 2000, 114 Stat. 411; Pub. L. 107–171, title IV, §§4302(a), 4303, May 13, 2002, 116 Stat. 330, 331; Pub. L. 108–134, §1, Nov. 22, 2003, 117 Stat. 1389.)
 
 #### References in Text
 
@@ -235,6 +235,8 @@ The Head Start Act, referred to in subsec. (b)(6)(A)(iii), is subchapter B (§§
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2003—Subsec. (b)(7). Pub. L. 108–134 inserted “and through March 31, 2004” after “and 2003”.
 
 2002—Subsec. (b)(7). Pub. L. 107–171, §4302(a), added par. (7).
 
@@ -256,7 +258,7 @@ Subsec. (i). Pub. L. 105–336, §102(d), added subsec. (i).
 
 1996—Subsec. (a)(2). Pub. L. 104–193, §702(a)(1), redesignated par. (2)(A) as (2) and cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, and struck out former subpar. (B) which read as follows:
 
-“(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under this chapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773),lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
+“(B)(i) The Secretary shall purchase in each calendar year to carry out the school lunch program under thischapter, and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), lowfat cheese on a bid basis in a quantity that is the milkfat equivalent of the quantity of milkfat the Secretary estimates the Commodity Credit Corporation will purchase each calendar year as a result of the elimination of the requirement that schools offer students fluid whole milk and fluid unflavored lowfat milk, based on data provided by the Director of Office of Management and Budget.
 
 “(ii) Not later than 30 days after the Secretary provides an estimate required under clause (i), the Director of the Congressional Budget Office shall provide to the appropriate committees of Congress a report on whether the Director concurs with the estimate of the Secretary.
 
@@ -296,7 +298,7 @@ Subsec. (h). Pub. L. 104–193, §702(d), struck out subsec. (h) which read as f
 
 1994—Subsec. (a)(1). Pub. L. 103–448, §§105(a), 106(a), designated existing provisions as subpar. (A) and cl. (i) of subpar. (A) and added cl. (ii) of subpar. (A) and subpar. (B).
 
-Subsec. (a)(2). Pub. L. 103–448, §107, amended par. (2) generally. Prior to amendment, par. (2) read as follows:“Lunches served by schools participating in the school lunch program under this chapter shall offer students fluid whole milk and fluid unflavored lowfat milk.”
+Subsec. (a)(2). Pub. L. 103–448, §107, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Lunches served by schools participating in the school lunch program under this chapter shall offer students fluid whole milk and fluid unflavored lowfat milk.”
 
 Subsec. (b)(2)(C)(iii) to (v). Pub. L. 103–448, §108, added cls. (iii) to (v) and struck out former cl. (iii), which read as follows: “School food service authorities shall only use information obtained under clause (ii) for the purpose of determining eligibility for participation in programs under this chapter and the Child Nutrition Act of 1966.”
 
@@ -354,7 +356,7 @@ Subsec. (d). Pub. L. 97–35, §803(b), added subsec. (d).
 
 Subsec. (b)(1). Pub. L. 94–105, §6(b), designated existing provisions as subsec. (b)(1), struck out “if a school elects to serve reduced-price lunches” after “reduced price not to exceed 20 cents”, inserted provision for a reduced price lunch for any child eligible under reduced price lunch income guidelines, established income guidelines for reduced price lunches, beginning with fiscal year ending June 30, 1976, at 95 per centum above applicable family size income levels in income poverty guidelines, and provided for a reduced price lunch not to exceed 20 cents to any child belonging to a household whose income falls between guidelines for a free lunch and 95 per centum above income levels in the income poverty guidelines.
 
-Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1, 1976, shall be made according to percentage change between average Consumer Price Index for 1974, on whichthe 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
+Pub. L. 94–105, §6(c), substituted provision adjusting income poverty guidelines that take effect July 1 of each year according to percentage change in Consumer Price Index for 12-month period ending in April of that year, except that the first adjustment, effective July 1,1976, shall be made according to percentage change between average Consumer Price Index for 1974, on which the 1975–1976 guidelines are based, and Consumer Price Index for April 1976 for provision basing the guidelines on average Consumer Price Index for previous calendar year.
 
 Subsec. (b)(2). Pub. L. 94–105, §6(d), added par. (2).
 
@@ -422,7 +424,7 @@ Section 6(c) of Pub. L. 94–105 provided that the amendment made by that sectio
 
 #### Promulgation of Regulations
 
-Section 202(c) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b) \[amending this section\].”
+Section 202(c) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary of Agricultureshall issue final regulations to implement the amendments made by subsection (b) \[amending this section\].”
 
 #### Income Eligibility Guidelines
 

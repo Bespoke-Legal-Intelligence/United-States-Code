@@ -16,13 +16,13 @@
 
 (b)(1) An officer in a grade below brigadier general or rear admiral (lower half) who is recommended for early retirement under this section or section 638a of this title and whose early retirement is approved by the Secretary concerned shall—
 
-&emsp;(A) be retired, under any provision of law under which he is eligible to retire, on thedate requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
+&emsp;(A) be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement; or
 
 &emsp;(B) if the officer is not eligible for retirement under any provision of law, be retained on active duty until he is qualified for retirement under section 3911, 6323, or 8911 of this title, and then be retired under that section, unless he is sooner retired or discharged under some other provision of law.
 
 (2) An officer who holds the regular grade of brigadier general, major general, rear admiral (lower half), or rear admiral who is recommended for early retirement under this section and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approved the report of the board which recommended the officer for early retirement.
 
-(3) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+(3) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer orfor other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
 
 (c) So long as an officer in a grade below brigadier general or rear admiral (lower half) holds the same grade, he may not be considered for early retirement under this section more than once in any five-year period.
 

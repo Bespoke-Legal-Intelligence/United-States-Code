@@ -32,5 +32,5 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Section 2 of the Act of September 26, 1961 (75 Stat. 648), referred to in subsec. (b)(1), is set out as a note under section 8318 of this title.
+Section 2 of the Act of September 26, 1961 (75 Stat. 648), referred to in subsec. (b)(1), is set out as a note under section 8322 of this title.
 

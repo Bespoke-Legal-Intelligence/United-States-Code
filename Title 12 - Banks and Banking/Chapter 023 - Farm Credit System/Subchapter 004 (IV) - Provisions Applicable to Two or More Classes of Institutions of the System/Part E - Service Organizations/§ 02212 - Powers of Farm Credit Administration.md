@@ -28,7 +28,3 @@ The Farm Credit Administration shall have power, under rules and regulations pre
 
 Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see section 401 of Pub. L. 99–205, set out as a note under section 2001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 212.
-

@@ -1,12 +1,18 @@
 ### §1149. Excess leave and permissive temporary duty
 
-Under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard, the Secretary concerned shall grant a member of the armed forces who is to be involuntarily separated such excess leave (for a period not in excess of 30 days), or such permissive temporary duty (for a period not in excess of 10 days), as the member requires in order to facilitate the member's carrying out necessary relocation activities (such as job search and residence search activities), unless to do so would interfere with military missions.
+Under regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard, the Secretary concerned shall grant a member of the armed forces who is to be involuntarily separated such excess leave (for a period not in excess of 30 days), or such permissive temporary duty (for a period not in excess of 10 days), as the member requires in order to facilitate the member's carrying out necessary relocation activities (such as job search and residence search activities), unless to do so would interfere with military missions.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 103–337, div. A, title V, §542(a)(8), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 103–337, div. A, title V, §542(a)(8), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
+2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1994—Pub. L. 103–337 inserted “or the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “of the military department” before “concerned”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title4",
- "package": "USCODE-2002-title4",
+ "package": "USCODE-2003-title4",
  "pieces": [
   {
    "id": "4_",
@@ -76,21 +76,17 @@
    "id": "4_4",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       102,
-       "[Page 4]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 4]",
+     true
     ],
     [
      "I",
      58,
      [
       [
-       113,
+       368,
        "[Page 5]"
       ]
      ]
@@ -128,14 +124,14 @@
      8,
      [
       [
-       328,
+       146,
        "[Page 6]"
       ]
      ]
     ],
     [
      "L",
-     42,
+     40,
      "[Page 7]",
      true
     ]
@@ -150,10 +146,14 @@
    "id": "4_8",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 8]",
-     true
+     "I",
+     20,
+     [
+      [
+       267,
+       "[Page 8]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - The Flag/§ 00008 - Respect for flag.md",
@@ -666,6 +666,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2002-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2003-title4 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 04 - Flag and Seal, Seat of Government, and the States"
 }

@@ -16,10 +16,21 @@
 | [3752\.](%C2%A7%2003752%20-%20Medals%20posthumous%20award%20and%20presentation.md) | Medals: posthumous award and presentation. |
 | [3753\.](%C2%A7%2003753%20-%20Civil%20War%20battle%20streamers.md) | Civil War battle streamers. |
 | [3754\.](%C2%A7%2003754%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
+| 3755\.<sup>1</sup> | Medal of honor: presentation of Medal of Honor Flag. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 3755\.<sup>1</sup> | Korea Defense Service Medal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §543(b)(2), Dec. 2, 2002, 116 Stat. 2549, added item 3755 “Korea Defense Service Medal”.
+
+Pub. L. 107–248, title VIII, §8143(c)(1)(B), Oct. 23, 2002, 116 Stat. 1570, added item 3755 “Medal of honor: presentation of Medal of Honor Flag”.
 
 2001—Pub. L. 107–107, div. A, title V, §553(a)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 3754.
 
@@ -28,6 +39,8 @@
 Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, authorized award, not later than Oct. 24, 1976, of a decoration or device in lieu of decoration which, prior to Oct. 24, 1974, has been authorized by Congress to be awarded to any person for an act, achievement, or service performed while on active duty in Armed Forces of United States, or while serving with such forces, for any such act or service performed in direct support of military operations in Southeast Asia between July 1, 1958, and Mar. 28, 1973, inclusive, if written recommendation for award of decoration, or device in lieu of decoration, was made not later than Oct. 24, 1975.
 
 Act Aug. 2, 1956, ch. 877, 70 Stat. 933, authorized award, not later than Aug. 2, 1957, of a decoration or device in lieu of decoration which, prior to Aug. 2, 1956, has been authorized by Congress to be awarded to any person for an act or service performed while on active duty in military or naval forces of United States, or while serving with such forces, for any such act or service performed between June 27, 1950, and July 27, 1953, inclusive, if written recommendation for decoration or device in lieu of decoration has been submitted to appropriate office in a military department at seat of Government before Aug. 2, 1956.
+
+<i><sup>1</sup></i><i> So in original. Two sections 3755 have been enacted.</i>
 
 
 ---
@@ -48,3 +61,5 @@ Act Aug. 2, 1956, ch. 877, 70 Stat. 933, authorized award, not later than Aug. 2
 - [&sect; 03752 - Medals posthumous award and presentation](%C2%A7%2003752%20-%20Medals%20posthumous%20award%20and%20presentation.md)
 - [&sect; 03753 - Civil War battle streamers](%C2%A7%2003753%20-%20Civil%20War%20battle%20streamers.md)
 - [&sect; 03754 - Medal of honor duplicate medal](%C2%A7%2003754%20-%20Medal%20of%20honor%20duplicate%20medal.md)
+- [&sect; 03755 - 1 Medal of honor presentation of Medal of Honor Flag](%C2%A7%2003755%20-%201%20Medal%20of%20honor%20presentation%20of%20Medal%20of%20Honor%20Flag.md)
+- [&sect; 03755 - 1 Korea Defense Service Medal](%C2%A7%2003755%20-%201%20Korea%20Defense%20Service%20Medal.md)

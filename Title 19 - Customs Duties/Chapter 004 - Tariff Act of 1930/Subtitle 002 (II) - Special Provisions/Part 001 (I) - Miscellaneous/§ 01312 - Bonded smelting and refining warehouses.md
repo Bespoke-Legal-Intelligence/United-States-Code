@@ -2,27 +2,51 @@
 
 #### (a) Bond; charges against bond
 
-Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
+Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined inthis section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
 
 #### (b) Cancellation of charges against bond
 
 The several charges against such bond may be canceled in whole or in part—
 
-&emsp;(1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section; except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+&emsp;(1) upon the exportation from the bonded warehouses which treated the metal-bearing materials, or from any other bonded smelting or refining warehouse, of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section; except that—
 
-&emsp;&emsp;(A) the total amount of customs duties owed on the materials on importation into the United States, or
+&emsp;&emsp;(A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
 
-&emsp;&emsp;(B) the total amount of customs duties paid to the NAFTA country on the product, or
+&emsp;&emsp;&emsp;(i) the total amount of customs duties owed on the materials on importation into the United States, or
+
+&emsp;&emsp;&emsp;(ii) the total amount of customs duties paid to the NAFTA country on the product, and
+
+&emsp;&emsp;(B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
+
+&emsp;&emsp;&emsp;(i) 100 percent during the 8-year period beginning on January 1, 2004,
+
+&emsp;&emsp;&emsp;(ii) 75 percent during the 1-year period beginning on January 1, 2012,
+
+&emsp;&emsp;&emsp;(iii) 50 percent during the 1-year period beginning on January 1, 2013, and
+
+&emsp;&emsp;&emsp;(iv) 25 percent during the 1-year period beginning on January 1, 2014, or
 
 &emsp;(2) upon payment of duties on the dutiable quantity of metal contained in the imported metal-bearing materials, or
 
 &emsp;(3) upon the transfer of the bond charges to another bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining of metal-bearing materials equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, or
 
-&emsp;(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+&emsp;(4) upon the transfer of the bond charges to a bonded customs warehouse other than a bonded smelting or refining warehouse by physical shipment of a quantity of the same kind of metal contained in any product of smelting or refining equal to the dutiable quantity contained in the imported metal-bearing materials less wastage provided for in subsection (c) of this section, and upon withdrawal from such other warehouse for exportation or domestic consumption the provisions of this section shall apply; except that—
 
-&emsp;&emsp;(A) the total amount of customs duties owed on the materials on importation into the United States, or
+&emsp;&emsp;(A) in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
 
-&emsp;&emsp;(B) the total amount of customs duties paid to the NAFTA country on the product, or
+&emsp;&emsp;&emsp;(i) the total amount of customs duties owed on the materials on importation into the United States, or
+
+&emsp;&emsp;&emsp;(ii) the total amount of customs duties paid to the NAFTA country on the product, and
+
+&emsp;&emsp;(B) in the case of a withdrawal for exportation of such a product to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation, except that the duties may be waived or reduced by—
+
+&emsp;&emsp;&emsp;(i) 100 percent during the 8-year period beginning on January 1, 2004,
+
+&emsp;&emsp;&emsp;(ii) 75 percent during the 1-year period beginning on January 1, 2012,
+
+&emsp;&emsp;&emsp;(iii) 50 percent during the 1-year period beginning on January 1, 2013, and
+
+&emsp;&emsp;&emsp;(iv) 25 percent during the 1-year period beginning on January 1, 2014, or
 
 &emsp;(5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of this section of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
 
@@ -34,11 +58,23 @@ For purposes of paragraphs (1), (3), (4), and (5) of subsection (b) of this sect
 
 #### (d) Credit for exportation of product other than refined metal
 
-Upon the exportation of a product of smelting or refining other than refined metal the bond shall be credited with a quantity of metal equivalent to the quantity of metal contained in the product exported less the proportionate part of the deductions allowed for losses in determination of the bond charge being cancelled that would not ordinarily be sustained in production of the specific product exported as ascertained from time to time by the Secretary of the Treasury; except that in the case of a withdrawal for exportation to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to section 1508(b)(2)(B) of this title) in an amount not to exceed the lesser of—
+Upon the exportation of a product of smelting or refining other than refined metal the bond shall be credited with a quantity of metal equivalent to the quantity of metal contained in the product exported less the proportionate part of the deductions allowed for losses in determination of the bond charge being cancelled that would not ordinarily be sustained in production of the specific product exported as ascertained from time to time by the Secretary of the Treasury; except that—
 
-&emsp;(1) the total amount of customs duties paid or owed on the materials on importation into the United States, or
+&emsp;(1) in the case of a withdrawal for exportation to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to section 1508(b)(2)(B) of this title) in an amount not to exceed the lesser of—
 
-&emsp;(2) the total amount of customs duties paid to the NAFTA country on the product.
+&emsp;&emsp;(A) the total amount of customs duties paid or owed on the materials on importation into the United States, or
+
+&emsp;&emsp;(B) the total amount of customs duties paid to the NAFTA country on the product; and
+
+&emsp;(2) in the case of a withdrawal for exportation to Chile, if any of the imported metal-bearing materials are goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, charges against the bond shall be paid before the 61st day after the date of exportation, and the bond shall be credited in an amount equal to—
+
+&emsp;&emsp;(A) 100 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 8-year period beginning on January 1, 2004,
+
+&emsp;&emsp;(B) 75 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2012,
+
+&emsp;&emsp;(C) 50 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2013, and
+
+&emsp;&emsp;(D) 25 percent of the total amount of customs duties paid or owed on the materials on importation into the United States during the 1-year period beginning on January 1, 2014.
 
 > If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no bond shall be credited under this subsection with respect to an exportation of a product to Canada during the period such Agreement is in operation except to the extent that the product is a drawback eligible good under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
@@ -50,7 +86,7 @@ Two or more smelting or refining warehouses may be included under one general bo
 
 For purposes of this section—
 
-&emsp;(1) the term “metal-bearing materials” means metal-bearing ores and other metal-bearing materials provided for in chapter 26 of the Harmonized Tariff Schedule of the United States, metal waste and scrap and unwrought metal to be smelted or refined provided for in chapters 71 through 83 of the Harmonized Tariff Schedule of the United States, and metalcompounds to be processed for the recovery of their metal content;
+&emsp;(1) the term “metal-bearing materials” means metal-bearing ores and other metal-bearing materials provided for in chapter 26 of the Harmonized Tariff Schedule of the United States, metal waste and scrap and unwrought metal to be smelted or refined provided for in chapters 71 through 83 of the Harmonized Tariff Schedule of the United States, and metal compounds to be processed for the recovery of their metal content;
 
 &emsp;(2) the term “smelting or refining” embraces only pyrometallurgical, hydrometallurgical, electrometallurgical, chemical, or other processes—
 
@@ -64,11 +100,17 @@ For purposes of this section—
 
 Labor performed and services rendered pursuant to this section shall be under the supervision of an officer of the customs, to be appointed by the Secretary of the Treasury and at the expense of the manufacturer. The Secretary of the Treasury is authorized to make such rules and regulations as may be necessary to carry out the provisions of this section.
 
-(June 17, 1930, ch. 497, title III, §312, 46 Stat. 692; Pub. L. 87–456, title III, §301(b), May 24, 1962, 76 Stat. 75; Pub. L. 100–418, title I, §1214(h)(1), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 100–449, title II, §204(c)(2), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(2), Dec. 8, 1993, 107 Stat. 2088.)
+(June 17, 1930, ch. 497, title III, §312, 46 Stat. 692; Pub. L. 87–456, title III, §301(b), May 24, 1962, 76 Stat. 75; Pub. L. 100–418, title I, §1214(h)(1), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 100–449, title II, §204(c)(2), Sept. 28, 1988, 102 Stat. 1862; Pub. L. 103–182, title II, §203(b)(2), Dec. 8, 1993, 107 Stat. 2088; Pub. L. 108–77, title II, §203(b)(2), Sept. 3, 2003, 117 Stat. 925.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
 Sections 202 and 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (b) and (d), are sections 202 and 204 of Pub. L. 100–449, which are set out in a note under section 2112 of this title.
+
+Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (b)(1)(B), (4)(B) and (d)(2), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (f), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -82,11 +124,35 @@ Previous provisions for sampling lead ores were contained in act Mar. 2, 1895, c
 
 #### Amendments
 
+2003—Subsec. (b)(1). Pub. L. 108–77, §§107(c), 203(b)(2)(A), temporarily substituted “except that—” and subpars. (A) and (B) for “except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+
+&emsp;“(A) the total amount of customs duties owed on the materials on importation into the United States, or
+
+&emsp;“(B) the total amount of customs duties paid to the NAFTA country on the product, or”.
+
+> See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 108–77, §§107(c), 203(b)(2)(B), temporarily substituted “except that—” and subpars. (A) and (B) for “except that in the case of a withdrawal for exportation of such a product to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, the duties on the materials shall be paid, and the charges against the bond canceled, before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the duties on the materials may be waived or reduced (subject to section 1508(b)(2)(B) of this title) in an amount that does not exceed the lesser of—
+
+&emsp;“(A) the total amount of customs duties owed on the materials on importation into the United States, or
+
+&emsp;“(B) the total amount of customs duties paid to the NAFTA country on the product, or”.
+
+> See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (d). Pub. L. 108–77, §§107(c), 203(b)(2)(C), temporarily substituted “except that—” and pars. (1) and (2) for “except that in the case of a withdrawal for exportation to a NAFTA country, as defined in section 3301(4) of this title, if any of the imported metal-bearing materials are goods subject to NAFTA drawback, as defined in section 3333(a) of this title, charges against the bond shall be paid before the 61st day after the date of exportation; but upon the presentation, before such 61st day, of satisfactory evidence of the amount of any customs duties paid to the NAFTA country on the product, the bond shall be credited (subject to section 1508(b)(2)(B) of this title) in an amount not to exceed the lesser of—
+
+&emsp;“(1) the total amount of customs duties paid or owed on the materials on importation into the United States, or
+
+&emsp;“(2) the total amount of customs duties paid to the NAFTA country on the product.”
+
+> See Effective and Termination Dates of 2003 Amendment note below.
+
 1993—Subsec. (b). Pub. L. 103–182, §203(b)(2)(B), inserted concluding provisions following par. (5).
 
 Subsec. (b)(1). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “upon the exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
-Subsec. (b)(4). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after “warehouse for exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
+Subsec. (b)(4). Pub. L. 103–182, §203(b)(2)(A), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of such Act of 1988)” after“warehouse for exportation” and inserted provisions excepting goods withdrawn for exportation to a NAFTA country.
 
 Subsec. (d). Pub. L. 103–182, §203(b)(2)(C), struck out “(other than exportation to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, except to the extent that the product is a drawback eligible good under section 204(a) of such Act of 1988)” after “Upon the exportation” and inserted before concluding period provisions excepting goods withdrawn for exportation to a NAFTA country, including pars. (1) and (2), as well as sentence relating to conditions arising should Canada cease to be a NAFTA country.
 
@@ -101,6 +167,10 @@ Subsec. (f)(2)(A). Pub. L. 100–418, §1214(h)(1)(B), substituted “chapters 7
 Subsec. (f)(3). Pub. L. 100–418, §1214(h)(1)(C), substituted “of chapter 26 of the Harmonized Tariff Schedule of the United States” for “as defined in part 1 of schedule 6”.
 
 1962—Pub. L. 87–456 amended section generally, and among other changes, substituted “metal-bearing minerals” for “ores or crude metals”, authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined “metal-bearing materials”, “smelting or refining”, and “product of smelting or refining”.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1993 Amendment
 

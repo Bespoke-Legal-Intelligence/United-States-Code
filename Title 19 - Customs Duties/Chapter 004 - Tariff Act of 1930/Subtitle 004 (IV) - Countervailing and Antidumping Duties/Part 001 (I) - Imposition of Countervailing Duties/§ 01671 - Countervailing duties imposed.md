@@ -96,7 +96,7 @@ Subsec. (f). Pub. L. 100–647 redesignated subsec (d), relating to cross refere
 
 Subsec. (a)(1). Pub. L. 98–573, §602(a)(1)(A), inserted “, or sold (or likely to be sold) for importation,” in provisions following subpar. (B).
 
-Subsec. (a)(2). Pub. L. 98–573, §602(a)(1)(B), inserted “or by reason of sales (or the likelihood of sales) ofthat merchandise for importation” in provisions following subpar. (B).
+Subsec. (a)(2). Pub. L. 98–573, §602(a)(1)(B), inserted “or by reason of sales (or the likelihood of sales) of that merchandise for importation” in provisions following subpar. (B).
 
 Subsec. (g). Pub. L. 98–573, §613(b), added subsec. (g).
 
@@ -190,7 +190,7 @@ Section 626 of title VI of Pub. L. 98–573, as amended by Pub. L. 99–514, tit
 
 “(3) The administering authority may delay implementation of any of the amendments referred to in subsections (a) and (b)(1) with respect to any investigation in progress on the date of enactment of this Act \[Oct. 30, 1984\] if the administering authority determines that immediate implementation would prevent compliance with a statutory deadline in title VII of the Tariff Act of 1930 \[this subtitle\] that is applicable to that investigation.
 
-“(4) The amendment made by section 621 \[amending section 1677g of this title\] shall apply with respect to merchandise that is unliquidated on or after November 4, 1984.
+“(4) The amendment made by section 621 \[amending section 1677g of this title\] shall apply with respect tomerchandise that is unliquidated on or after November 4, 1984.
 
 “(c)(1) No provision of title VII of the Tariff Act of 1930 \[this subtitle\] shall be interpreted to prevent the refiling of a petition under section 702 or 732 of that title \[sections 1671a and 1673a of this title\] that was filed before the date of the enactment of this title, if the purpose of such refiling is to avail the petitioner of the amendment made by section 612(a)(1) \[amending section 1677(4)(A) of this title\].
 

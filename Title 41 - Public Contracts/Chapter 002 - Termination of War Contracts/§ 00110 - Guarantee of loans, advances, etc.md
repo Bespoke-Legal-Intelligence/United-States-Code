@@ -4,7 +4,7 @@
 
 Any contracting agency is authorized—
 
-&emsp;(1) to enter into contracts with any Federal Reserve bank, or other public or private financing institution, guaranteeing such financing institution against loss of principal or interest on loans, discounts, or advances or on commitments in connection therewith, which such financing institution may make to any war contractor or to any person who is or has been engaged in performing any operation deemed by such contracting agency to be connected with or related to war production, for the purpose of financing such war contractor or other person in connection with or in contemplation of the termination of one or more such war contracts or operations; and
+&emsp;(1) to enter into contracts with any Federal Reserve bank, or other public or private financing institution, guaranteeing such financing institution against loss of principal or interest on loans, discounts, or advances or on commitments in connection therewith, which such financing institution may make to any war contractor or to any person who is or has been engaged in performing any operation deemed by such contracting agency to be connected with or related to war production, forthe purpose of financing such war contractor or other person in connection with or in contemplation of the termination of one or more such war contracts or operations; and
 
 &emsp;(2) to make, enter into contracts to make, or to participate with any Government agency, any Federal Reserve bank or public or private financing institution in making loans, discounts, or advances, or commitments in connection therewith, for the purpose of financing any such war contractor or other person in connection with or in contemplation of the termination of such war contracts or operations.
 
@@ -18,7 +18,7 @@ Subject to such regulations as the Board of Governors of the Federal Reserve Sys
 
 #### (d) Application of other laws
 
-This section shall not limit or affect any authority of any contracting agency, under anyother statute, to make loans, discounts, or advances, or commitments in connection therewith or guaranties thereof.
+This section shall not limit or affect any authority of any contracting agency, under any other statute, to make loans, discounts, or advances, or commitments in connection therewith or guaranties thereof.
 
 (July 1, 1944, ch. 358, §10, 58 Stat. 657; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 

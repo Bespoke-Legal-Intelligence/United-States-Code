@@ -18,7 +18,7 @@ Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided t
 
 Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L.107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437, provided that:
 
 #### “SEC. 531. SHORT TITLE.
 
@@ -226,7 +226,7 @@ Demonstration of need.—The Secretary shall require, as part of an application 
 
 &emsp;“(4)
 
-Payment of non-federal share.—A grant awarded under this subsection shall be made only ifthe recipient of the grant pays a non-Federal share in an amount specified by the Secretary.
+Payment of non-federal share.—A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount specified by the Secretary.
 
 “(c)
 

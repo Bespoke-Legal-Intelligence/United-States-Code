@@ -14,7 +14,7 @@
 
 (4) Special pay paid under section 4118 of this title, as in effect before the effective date of this section, to a physician or dentist who has section 4118 service shall be credited to the physician or dentist for the same purposes and in the same manner and to the same extent that such special pay was credited to the physician or dentist before such effective date.
 
-(5) Notwithstanding paragraphs (1) and (2), a dentist employed as a dentist in the Veterans Health Administration on the date of the enactment of the Veterans Benefits and Health Care Improvement Act of 2000 shall be entitled to have special pay paid to the dentist under section 7435(b)(2)(A) of this title (referred to as “tenure pay”) considered basic pay for the purposes of chapter 83 or 84, as appropriate, of title 5 only as follows:
+(5) Notwithstanding paragraphs (1) and (2), a dentist employed as a dentist in the Veterans Health Administration on the date of the enactment of the Veterans Benefits and Health CareImprovement Act of 2000 shall be entitled to have special pay paid to the dentist under section 7435(b)(2)(A) of this title (referred to as “tenure pay”) considered basic pay for the purposes of chapter 83 or 84, as appropriate, of title 5 only as follows:
 
 &emsp;(A) In an amount equal to the amount that would have been so considered under such section on the day before such date based on the rates of special pay the dentist was entitled to receive under that section on the day before such date.
 

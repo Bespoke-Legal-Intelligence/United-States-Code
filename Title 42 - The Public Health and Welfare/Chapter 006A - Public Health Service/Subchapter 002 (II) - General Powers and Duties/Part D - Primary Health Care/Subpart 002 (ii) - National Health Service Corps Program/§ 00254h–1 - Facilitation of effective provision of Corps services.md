@@ -12,7 +12,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (2) Career advisor regarding obligated service
 
-&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan RepaymentProgram, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
+&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
 
 &emsp;(B) With respect to the Scholarship Program, counseling under paragraph (1) shall include counseling individuals during the period in which the individuals are pursuing an educational degree in the health profession involved, including counseling to prepare the individual for service in the Corps.
 

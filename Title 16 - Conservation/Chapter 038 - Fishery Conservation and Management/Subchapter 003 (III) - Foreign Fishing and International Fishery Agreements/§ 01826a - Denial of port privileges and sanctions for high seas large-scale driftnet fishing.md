@@ -118,7 +118,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
 
-&emsp;“(10) In order to ensure that the global moratorium on large-scale driftnet fishing called for in United Nations General Assembly Resolution numbered 46–215 takes effect by December 31, 1992, and that unregulated fishing practices in the waters of the Central Bering Sea are reduced or eliminated, the United States should take the actions described in this Act \[see Short Title of 1992 Amendments note set outunder section 1801 of this title\] and encourage other nations to take similar action.
+&emsp;“(10) In order to ensure that the global moratorium on large-scale driftnet fishing called for in United Nations General Assembly Resolution numbered 46–215 takes effect by December 31, 1992, and that unregulated fishing practices in the waters of the Central Bering Sea are reduced or eliminated, the United States should take the actions described in this Act \[see Short Title of 1992 Amendments note set out under section 1801 of this title\] and encourage other nations to take similar action.
 
 “(b)
 

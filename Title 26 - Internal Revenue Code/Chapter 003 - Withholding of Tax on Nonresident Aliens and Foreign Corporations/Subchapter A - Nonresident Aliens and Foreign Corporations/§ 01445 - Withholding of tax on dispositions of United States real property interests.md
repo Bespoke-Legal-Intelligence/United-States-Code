@@ -8,7 +8,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (1) In general
 
-&emsp;No person shall be required to deduct and withhold any amount under subsection (a)with respect to a disposition if paragraph (2), (3), (4), (5), or (6) applies to the transaction.
+&emsp;No person shall be required to deduct and withhold any amount under subsection (a) with respect to a disposition if paragraph (2), (3), (4), (5), or (6) applies to the transaction.
 
 #### (2) Transferor furnishes nonforeign affidavit
 
@@ -74,7 +74,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (B) Request
 
-&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, with respect to any disposition, the transferor's maximum tax liability.
+&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, withrespect to any disposition, the transferor's maximum tax liability.
 
 #### (C) Refund of excess amounts withheld
 
@@ -160,7 +160,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (1) Certain domestic partnerships, trusts, and estates
 
-&emsp;In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 20 percent) of the gain realized to the extent such gain—
+&emsp;In the case of any disposition of a United States real property interest as defined in section 897(c) (other than a disposition described in paragraph (4) or (5)) by a domestic partnership, domestic trust, or domestic estate, such partnership, the trustee of such trust, or the executor of such estate (as the case may be) shall be required to deduct and withhold under subsection (a) a tax equal to 35 percent (or, to the extent provided in regulations, 15 percent) of the gain realized to the extent such gain—
 
 &emsp;&emsp;(A) is allocable to a foreign person who is a partner or beneficiary of such partnership, trust, or estate, or
 
@@ -176,7 +176,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
-&emsp;A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxabledistribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
+&emsp;A domestic or foreign partnership, the trustee of a domestic or foreign trust, or the executor of a domestic or foreign estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of the fair market value (as of the time of the taxable distribution) of any United States real property interest distributed to a partner of the partnership or a beneficiary of the trust or estate, as the case may be, who is a foreign person in a transaction which would constitute a taxable distribution under the regulations promulgated by the Secretary pursuant to section 897.
 
 #### (5) Rules relating to dispositions of interest in partnerships, trusts, or estates
 
@@ -214,9 +214,15 @@ For purposes of this section—
 
 &emsp;The term “transferor's unsatisfied withholding liability” means the withholding obligation imposed by this section on the transferor's acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
 
-(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835.)
+(Added Pub. L. 98–369, div. A, title I, §129(a)(1), July 18, 1984, 98 Stat. 655; amended Pub. L. 99–514, title III, §311(b)(4), title XVIII, §1810(f)(2)–(4)(A), (5), (6), (8), Oct. 22, 1986, 100 Stat. 2219, 2827, 2828; Pub. L. 100–647, title I, §1003(b)(3), Nov. 10, 1988, 102 Stat. 3384; Pub. L. 103–66, title XIII, §13221(c)(3), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, §1704(c)(1), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 105–34, title III, §311(c)(1), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(C), May 28, 2003, 117 Stat. 758.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (e)(1). Pub. L. 108–27, §§301(a)(2)(C), 303, temporarily substituted “15 percent” for “20 percent”. See Effective and Termination Dates of 2003 Amendment note below.
 
 1997—Subsec. (e)(1). Pub. L. 105–34 substituted “20 percent” for “28 percent” in introductory provisions.
 
@@ -253,6 +259,12 @@ Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted “The preceding senten
 Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted “section 897” for “section 897(g)”.
 
 Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable to amounts paid after May 28, 2003, see section 301(d)(2) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

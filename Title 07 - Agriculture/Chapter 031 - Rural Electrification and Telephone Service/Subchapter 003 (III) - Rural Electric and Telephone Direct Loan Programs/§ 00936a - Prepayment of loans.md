@@ -38,7 +38,7 @@ Any guarantee of a loan prepaid under this section shall be fully assignable und
 
 #### References in Text
 
-Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment of loans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I, §1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
+Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2, 1986, 100 Stat. 710, known as the Urgent Supplemental Appropriations Act, 1986. Provisions of title I of Pub. L. 99–349 relating to prepayment of loans were set out as a note under section 936 of this title and were repealed by Pub. L. 99–509, title I,§1011(b), Oct. 21, 1986, 100 Stat. 1876. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Priority for Approval.—In determining which borrowers shall be permitted to pr
 
 &emsp;&emsp;“(B) complete such prepayment by disbursing funds to the Federal Financing Bank to prepay loan advances within 120 days after the issuance of such regulations.
 
-&emsp;“(2) In considering requests for prepayment under subsection (a) by borrowers not described in paragraph (1), the Administrator shall permit prepayment based on the order in which borrowers are prepared to disburse funds to the Federal Financing Bank to complete such prepayments. If more than 1 borrower is so prepared at the same time, and if the combined amount of such prepayments would cause the totalamount of prepayments during fiscal year 1988, under this section, to exceed $2,000,000,000, the Administrator shall—
+&emsp;“(2) In considering requests for prepayment under subsection (a) by borrowers not described in paragraph (1), the Administrator shall permit prepayment based on the order in which borrowers are prepared to disburse funds to the Federal Financing Bank to complete such prepayments. If more than 1 borrower is so prepared at the same time, and if the combined amount of such prepayments would cause the total amount of prepayments during fiscal year 1988, under this section, to exceed $2,000,000,000, the Administrator shall—
 
 &emsp;&emsp;“(A) base the determination on the date on which prepayment applications have been submitted; or
 

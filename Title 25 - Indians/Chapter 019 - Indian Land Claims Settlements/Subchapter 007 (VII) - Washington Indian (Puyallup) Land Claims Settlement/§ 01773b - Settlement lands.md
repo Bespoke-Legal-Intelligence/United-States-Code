@@ -28,13 +28,13 @@ The lands referred to in subsection (a) of this section, and more particularly d
 
 &emsp;(7) The Taylor Way and East-West Road properties, two properties totaling approximately 7.4 acres.
 
-&emsp;(8) The submerged lands in the Puyallup River within the 1873 Survey Area below the mean high water line, as provided in section I. B. of the Settlement Agreement. To the extent that the United States has title to any of the lands described in this subpart,<sup>1</sup> then such lands shall be held by the United States in trust for the use and benefit of the Puyallup Tribe.
+&emsp;(8) The submerged lands in the Puyallup River within the 1873 Survey Area below the mean high water line, as provided in section I. B. of the Settlement Agreement. To the extent that the United States has title to any of the lands described in this subpart,<sup>1</sup> then such lands shall be held by the United States intrust for the use and benefit of the Puyallup Tribe.
 
 &emsp;(9) The approximately 600 acres of open space, forest, and cultural lands to be acquired by the Tribe with cash received pursuant to section I of the Settlement Agreement or other tribal funds.
 
 #### (d) Reservation status
 
-Nothing in this subchapter is intended to affect the boundaries of the Puyallup Reservation, except that the lands described in subsection (c)of this section above in paragraphs (1) through (8), and the Outer Hylebos tidelands property referred to in section VIII of the Settlement Agreement, shall have on-reservation status.
+Nothing in this subchapter is intended to affect the boundaries of the Puyallup Reservation, except that the lands described in subsection (c) of this section above in paragraphs (1) through (8), and the Outer Hylebos tidelands property referred to in section VIII of the Settlement Agreement, shall have on-reservation status.
 
 #### (e) Authorization of appropriations
 

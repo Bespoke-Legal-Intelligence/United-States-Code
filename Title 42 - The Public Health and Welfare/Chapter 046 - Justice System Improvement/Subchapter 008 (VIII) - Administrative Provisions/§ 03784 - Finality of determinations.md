@@ -2,7 +2,7 @@
 
 In carrying out the functions vested by this chapter in the Bureau of Justice Assistance, the Bureau of Justice Statistics, or the National Institute of Justice, their determinations, findings, and conclusions shall, after reasonable notice and opportunity for a hearing, be final and conclusive upon all applications, except as otherwise provided herein.
 
-(Pub. L. 90–351, title I, §803, formerly §804, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1203; renumbered §803 and amended Pub. L. 98–473, title II, §609B(c), (f), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, §803, formerly §804, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1203; renumbered §803 and amended Pub. L. 98–473, title II, §609B(c), (f), Oct. 12, 1984, 98 Stat. 2093.)
 
 #### Prior Provisions
 

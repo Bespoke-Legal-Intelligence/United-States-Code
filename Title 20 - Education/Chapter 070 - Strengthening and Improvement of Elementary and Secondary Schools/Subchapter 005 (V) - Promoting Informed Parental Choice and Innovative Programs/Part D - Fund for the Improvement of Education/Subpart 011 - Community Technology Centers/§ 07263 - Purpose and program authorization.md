@@ -18,7 +18,7 @@ The Secretary is authorized, in conjunction with the Office of Educational Techn
 
 &emsp;(3)
 
-Service of Americorps participants.—The Secretary may collaborate with the Chief Executive Officer of the Corporation for National and Community Service on the use in community technology centers of participants in National Service programs carried out under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.).
+Service of Americorps participants.—The Secretary may collaborate with the Chief Executive Officer of the Corporation for National and Community Service on the use in community technology centers of participantsin National Service programs carried out under subtitle C of title I of the National and Community Service Act of 1990 (42 U.S.C. 12571 et seq.).
 
 (Pub. L. 89–10, title V, §5511, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1843.)
 

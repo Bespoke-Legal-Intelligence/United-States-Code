@@ -72,7 +72,7 @@ Pub. L. 100–461, title V, §579, Oct. 1, 1988, 102 Stat. 2268–48.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
 #### Special Ambassadorial Commission for Cyprus and the Aegean
 

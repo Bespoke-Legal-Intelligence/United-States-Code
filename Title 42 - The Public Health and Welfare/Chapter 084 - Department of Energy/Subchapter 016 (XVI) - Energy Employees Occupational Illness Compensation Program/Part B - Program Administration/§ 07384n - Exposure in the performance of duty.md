@@ -16,7 +16,7 @@ An individual with cancer specified in subclause (I), (II), or (III) of section 
 
 #### (c) Guidelines
 
-(1) For purposes of the compensation program, the President shall by regulation establish guidelines for making the determinations required by subsection (b) of this section.
+(1) For purposes of the compensation program, the President shall by regulation establishguidelines for making the determinations required by subsection (b) of this section.
 
 (2) The President shall establish such guidelines after technical review by the Advisory Board on Radiation and Worker Health under section 7384<i>o</i> of this title.
 

@@ -59,6 +59,9 @@
 | (p) | Access to information necessary for administration of certain veteran benefits laws. |
 | (q) | Disclosure pursuant to Federal contractor-issued travel charge card. |
 | [3414\.](%C2%A7%2003414%20-%20Special%20procedures.md) | Special procedures. |
+| (a) | Access to financial records for certain intelligence and protective purposes. |
+| (b) | Emergency access to financial records. |
+| (d) | Definition of “financial institution”. |
 | [3415\.](%C2%A7%2003415%20-%20Cost%20reimbursement.md) | Cost reimbursement. |
 | [3416\.](%C2%A7%2003416%20-%20Jurisdiction.md) | Jurisdiction. |
 | [3417\.](%C2%A7%2003417%20-%20Civil%20penalties.md) | Civil penalties. |

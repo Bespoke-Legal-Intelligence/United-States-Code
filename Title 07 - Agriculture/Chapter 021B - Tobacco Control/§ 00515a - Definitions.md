@@ -30,5 +30,5 @@ Types 61 and 62, known as cigar-wrapper tobacco.
 
 #### Transfer of Functions
 
-Functions of Bureau of Agricultural Economics of Department of Agriculture transferred to other units ofDepartment under Secretary's memorandum 1320, Supplement 4, dated Nov. 2, 1953.
+Functions of Bureau of Agricultural Economics of Department of Agriculture transferred to other units of Department under Secretary's memorandum 1320, Supplement 4, dated Nov. 2, 1953.
 

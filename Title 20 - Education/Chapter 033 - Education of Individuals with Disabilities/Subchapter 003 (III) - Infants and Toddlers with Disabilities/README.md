@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1406, 1411, 1412, 1418, 1419, 1452, 1454, 1461, 1473, 1474, 1481, 1482 of this title; title 42 sections 247b–4a, 280g–1, 9835, 9836, 9837, 15025.
+This subchapter is referred to in sections 1406, 1411, 1412, 1418, 1419, 1452, 1454, 1461, 1473, 1474, 1481, 1482 of this title; title 42 sections 247b–4a, 280g–1, 5106a, 9835, 9836, 9837, 15025.
 
 
 ---

@@ -6,5 +6,5 @@ The moneys which have been, or may be, appropriated for the compensation and mil
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Sergeant-at-Arms”.
 

@@ -38,7 +38,7 @@
 
 #### (2) Amount less than $250,000,000 but more than $75,000,000
 
-&emsp;If the amount appropriated under section 6553 of this title for a fiscal year is less than$250,000,000 but more than $75,000,000, then the Secretary shall use such amount to award grants, on a competitive basis, to State educational agencies to enable the State educational agencies to award subgrants under subsection (b) of this section.
+&emsp;If the amount appropriated under section 6553 of this title for a fiscal year is less than $250,000,000 but more than $75,000,000, then the Secretary shall use such amount to award grants, on a competitive basis, to State educational agencies to enable the State educational agencies to award subgrants under subsection (b) of this section.
 
 #### (3) Amount equal to or exceeds $250,000,000
 

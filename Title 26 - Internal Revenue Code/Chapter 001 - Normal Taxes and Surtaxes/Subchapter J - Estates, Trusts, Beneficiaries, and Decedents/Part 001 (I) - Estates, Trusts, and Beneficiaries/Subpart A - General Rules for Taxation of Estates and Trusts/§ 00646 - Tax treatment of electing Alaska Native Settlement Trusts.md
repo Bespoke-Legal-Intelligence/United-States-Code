@@ -28,7 +28,7 @@ Except as provided in subsection (f)(1)(B)(ii)—
 
 &emsp;An election under paragraph (1) shall be made by the trustee of such trust—
 
-&emsp;&emsp;(A) on or before the due date (including extensions) for filing the Settlement Trust's return of tax for the first taxable year of such trust ending after the date of the enactment of this section, and
+&emsp;&emsp;(A) on or before the due date (including extensions) for filing the Settlement Trust'sreturn of tax for the first taxable year of such trust ending after the date of the enactment of this section, and
 
 &emsp;&emsp;(B) by attaching to such return of tax a statement specifically providing for such election.
 

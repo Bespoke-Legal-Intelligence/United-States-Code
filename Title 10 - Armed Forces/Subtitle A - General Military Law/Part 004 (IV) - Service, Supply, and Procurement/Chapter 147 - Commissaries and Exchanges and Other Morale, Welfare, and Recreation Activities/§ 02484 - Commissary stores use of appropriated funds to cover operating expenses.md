@@ -2,11 +2,11 @@
 
 (a)
 
-Operation of Agency and System.—Except as otherwise provided in this title, the operation of the Defense Commissary Agency and the defense commissary system may be funded using such amounts as are appropriated for such purpose.
+Operation of Agency and System.—Except as otherwise provided in this title, the operation of the Defense Commissary Agency and the defense commissary system shall be funded using such amounts as are appropriated for such purpose.
 
 (b)
 
-Operating Expenses of Commissary Stores.—Appropriated funds may be used to cover the expenses of operating commissary stores and central product processing facilities of the defense commissary system. For purposes of this subsection, operating expenses include the following:
+Operating Expenses of Commissary Stores.—Appropriated funds shall be used to cover the expenses of operating commissary stores and central product processing facilities of the defense commissary system. For purposes of this subsection, operating expenses include the following:
 
 &emsp;(1) Salaries and wages of employees of the United States, host nations, and contractors supporting commissary store operations.
 
@@ -20,7 +20,11 @@ Operating Expenses of Commissary Stores.—Appropriated funds may be used to cov
 
 &emsp;(6) Any cost associated with above-store-level management or other indirect support of a commissary store or a central product processing facility, including equipment maintenance and information technology costs.
 
-(Added Pub. L. 98–525, title XIV, §1401(i)(1), Oct. 19, 1984, 98 Stat. 2619; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §331(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59.)
+(c)
+
+Supplemental Funds for Commissary Operations.—Amounts appropriated to cover the expenses of operating the Defense Commissary Agency and the defense commissary system may be supplemented with additional funds from manufacturers’ coupon redemption fees, handling fees for tobacco products, and other amounts received as reimbursement for other support activities provided by commissary activities.
+
+(Added Pub. L. 98–525, title XIV, §1401(i)(1), Oct. 19, 1984, 98 Stat. 2619; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §331(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59; Pub. L. 108–136, div. A, title VI, §654, Nov. 24, 2003, 117 Stat. 1523.)
 
 #### Prior Provisions
 
@@ -95,6 +99,12 @@ July 10, 1952, ch. 630, title VI, §627, 66 Stat. 535.
 Oct. 18, 1951, ch. 512, title VI, §628, 65 Stat. 449.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §654(a)(1), substituted “shall” for “may”.
+
+Subsec. (b). Pub. L. 108–136, §654(a)(2), substituted “shall” for “may” in introductory provisions.
+
+Subsec. (c). Pub. L. 108–136, §654(b), added subsec. (c).
 
 2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing that funds available to the Department of Defense could be used to pay for certain costs in connection with the operation of commissary stores only on a reimbursable basis and allowed transportation and utilities to be furnished for the operation of those stores outside of the United States or in Alaska and Hawaii.
 

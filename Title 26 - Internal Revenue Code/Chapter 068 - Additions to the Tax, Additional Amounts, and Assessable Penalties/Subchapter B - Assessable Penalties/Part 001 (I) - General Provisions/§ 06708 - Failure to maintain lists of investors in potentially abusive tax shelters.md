@@ -8,7 +8,7 @@ Any person who fails to meet any requirement imposed by section 6112 shall pay a
 
 The penalty imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added Pub. L. 98–369, div. A, title I, §142(b), July 18, 1984, 98 Stat. 682; amended Pub. L.99–514, title XV, §1534(a), Oct. 22, 1986, 100 Stat. 2750.)
+(Added Pub. L. 98–369, div. A, title I, §142(b), July 18, 1984, 98 Stat. 682; amended Pub. L. 99–514, title XV, §1534(a), Oct. 22, 1986, 100 Stat. 2750.)
 
 #### Codification
 

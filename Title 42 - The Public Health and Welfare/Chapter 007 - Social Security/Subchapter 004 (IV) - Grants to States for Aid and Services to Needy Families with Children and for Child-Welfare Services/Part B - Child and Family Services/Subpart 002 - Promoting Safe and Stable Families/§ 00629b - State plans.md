@@ -12,7 +12,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(C) contains assurances that the State—
 
-&emsp;&emsp;(i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis of the interim review will revise the statement of goals in the plan, if necessary, to reflect changed circumstances; and
+&emsp;&emsp;(i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis ofthe interim review will revise the statement of goals in the plan, if necessary, to reflect changed circumstances; and
 
 &emsp;&emsp;(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
@@ -56,7 +56,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (A) Exemption from inappropriate requirements
 
-&emsp;&emsp;The Secretary may exempt a plan submitted by an Indian tribe from any requirement of this section that the Secretary determines would be inappropriate to apply to theIndian tribe, taking into account the resources, needs, and other circumstances of the Indian tribe.
+&emsp;&emsp;The Secretary may exempt a plan submitted by an Indian tribe from any requirement of this section that the Secretary determines would be inappropriate to apply to the Indian tribe, taking into account the resources, needs, and other circumstances of the Indian tribe.
 
 #### (B) Special rule
 

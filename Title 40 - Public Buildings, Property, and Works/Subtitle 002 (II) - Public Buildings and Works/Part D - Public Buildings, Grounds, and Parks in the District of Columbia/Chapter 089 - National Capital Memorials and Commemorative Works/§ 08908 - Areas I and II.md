@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Map.—The Secretary of the Interior and Administrator of General Services shall make available, for public inspection at appropriate offices of the National Park Service and the General Services Administration, the map numbered 869/86501, and dated May 1, 1986.
+Availability of Map.—The Secretary of the Interior or the Administrator of General Services (as appropriate) shall make available, for public inspection at appropriate offices of the National Park Service and the General Services Administration, the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003.
 
 (b)
 
@@ -16,7 +16,11 @@ Area i.—After seeking the advice of the National Capital Memorial Commission, 
 
 Area ii.—Commemorative works of subjects of lasting historical significance to the American people may be located in Area II.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231.)
+(c)
+
+Reserve.—After the date of enactment of the Commemorative Works Clarification and Revision Act of 2003, no commemorative work or visitor center shall be located within the Reserve.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231; Pub. L. 108–126, title II, §§202(b), 203(g), Nov. 17, 2003, 117 Stat. 1349, 1352.)
 
 Historical and Revision Notes
 
@@ -41,4 +45,20 @@ Pub. L. 99–652, §5, Nov. 14, 1986, 100 Stat. 3651.
 Pub. L. 99–652, §6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, §2(c), Aug. 26, 1994, 108 Stat. 1794.
 
 In subsection (b)(1), the words “the Committee on House Administration of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate” are substituted for “the committees of Congress specified in section 1003(b) \[sic\] of this title” for clarity. The reference to section 1003(b) should be to section 1003(d).
+
+#### References in Text
+
+The date of enactment of the Commemorative Works Clarification and Revision Act of 2003, referred to in subsec. (c), is the date of enactment of Pub. L. 108–126, which was approved Nov. 17, 2003.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–126, §203(g)(2), which directed substitution of “entitled ‘Commemorative Areas Washington, DC and Environs’, numbered 869/86501 B, and dated June 24, 2003” for “numbered 869/86581, and dated May 1, 1986”, was executed by making the substitution for “numbered 869/86501, and dated May 1, 1986” to reflect the probable intent of Congress.
+
+Pub. L. 108–126, §203(g)(1), substituted “Secretary of the Interior or the Administrator of General Services (as appropriate)” for “Secretary of the Interior and Administrator of General Services”.
+
+Subsec. (c). Pub. L. 108–126, §202(b), added subsec. (c).
+
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–126, except for the provision in the amendment made by section 202(b) prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of this title), are not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 

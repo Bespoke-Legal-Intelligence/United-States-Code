@@ -10,7 +10,7 @@
 
 &emsp;(4) the Secretary of Health and Human Services;
 
-&emsp;(5) the Secretary of Transportation; and
+&emsp;(5) the Secretary of Homeland Security; and
 
 &emsp;(6) the Director of the Office of Management and Budget.
 
@@ -18,9 +18,11 @@
 
 (b) The council shall meet at least once a year, or more often at the call of the Secretary of Veterans Affairs. The council shall review the operations of the Department under this subchapter and shall advise the Secretary on matters of policy relating to the Secretary's activities under this subchapter.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 885, §774; amended Pub. L. 91–291, §6, June 25, 1970, 84 Stat. 331; Pub. L. 93–289, §10(3), May 24, 1974, 88 Stat. 172; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(41), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, §14(b)(18), June 13, 1991, 105 Stat. 284; renumbered §1974, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title IV, §405(b)(1)(G), (2)(B), Oct. 9, 1996, 110 Stat. 3339.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 885, §774; amended Pub. L. 91–291, §6, June 25, 1970, 84 Stat. 331; Pub. L. 93–289, §10(3), May 24, 1974, 88 Stat. 172; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(41), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, §14(b)(18), June 13, 1991, 105 Stat. 284; renumbered §1974, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title IV, §405(b)(1)(G), (2)(B), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 108–183, title VII, §708(a)(4), Dec. 16, 2003, 117 Stat. 2673.)
 
 #### Amendments
+
+2003—Subsec. (a)(5). Pub. L. 108–183 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 1996—Pub. L. 104–275, §405(b)(2)(B), substituted “Servicemembers’ Group” for “Servicemen's Group” in section catchline.
 

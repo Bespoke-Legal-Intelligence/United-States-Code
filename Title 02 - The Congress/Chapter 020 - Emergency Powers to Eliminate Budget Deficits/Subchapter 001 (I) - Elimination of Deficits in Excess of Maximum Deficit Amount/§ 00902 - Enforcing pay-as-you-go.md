@@ -88,27 +88,27 @@ If a provision of direct spending or receipts legislation is enacted that the Pr
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
 
 Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted “and direct” after “guaranteed”.
 
-Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of theHouse of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
 
-1994—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
+<b>1994</b>—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
 
-1993—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66, §14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–66, §14003(a)(2), substituted “through fiscal year 1998” for “through fiscal year 1995” in two places.
 
 Subsec. (e). Pub. L. 103–66, §14003(a)(3), substituted “for any fiscal year from 1991 through 1998” for “for fiscal year 1991, 1992, 1993, 1994, or 1995”.
 
-1990—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
+<b>1990</b>—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
-1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
+<b>1987</b>—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
 Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” for “made”.
 
@@ -142,5 +142,5 @@ Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446; title 10 section 1414; title 16 sections 3834, 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
+This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446; title 16 sections 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
 

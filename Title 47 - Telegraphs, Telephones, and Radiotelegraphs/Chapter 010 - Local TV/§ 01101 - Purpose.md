@@ -1,6 +1,6 @@
 ### §1101. Purpose
 
-The purpose of this chapter is to facilitate access, on a technologically neutral basis and byDecember 31, 2006, to signals of local television stations for households located in nonserved areas and underserved areas.
+The purpose of this chapter is to facilitate access, on a technologically neutral basis and by December 31, 2006, to signals of local television stations for households located in nonserved areas and underserved areas.
 
 (Pub. L. 106–553, §1(a)(2) \[title X, §1002\], Dec. 21, 2000, 114 Stat. 2762, 2762A–128.)
 

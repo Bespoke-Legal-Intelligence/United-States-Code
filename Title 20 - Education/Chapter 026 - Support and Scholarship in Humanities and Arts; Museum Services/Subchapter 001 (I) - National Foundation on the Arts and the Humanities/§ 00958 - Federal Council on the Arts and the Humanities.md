@@ -40,7 +40,7 @@ Subsec. (d). Pub. L. 101–512, §318 \[title I, §108(b)\], struck out subsec. 
 
 Subsec. (c)(1). Pub. L. 99–194, §109(2), substituted “Chairperson” for “Chairman” wherever appearing.
 
-Subsec. (d). Pub. L. 99–194, §109(3), added subsec. (d). Former subsec. (d), relating to a study and report to the President and the Congress on artistic employment opportunities, was struck out.
+Subsec. (d). Pub. L. 99–194, §109(3), added subsec. (d). Former subsec. (d), relating to a study and report tothe President and the Congress on artistic employment opportunities, was struck out.
 
 Subsec. (e). Pub. L. 99–194, §109(3), struck out subsec. (e) which provided for a study and report to the President and the Congress on arts and artifacts indemnification.
 

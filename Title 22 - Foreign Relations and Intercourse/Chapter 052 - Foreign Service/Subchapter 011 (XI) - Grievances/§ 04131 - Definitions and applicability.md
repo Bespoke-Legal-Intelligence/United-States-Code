@@ -44,7 +44,7 @@
 
 (c) This subchapter applies only with respect to the Department of State, Broadcasting <sup>1</sup> Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
-(Pub. L. 96–465, title I, §1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, §153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L.103–236, title I, §§180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(4), title XIV, §1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, §1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, §153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L. 103–236, title I, §§180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(4), title XIV, §1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 #### Amendments
 

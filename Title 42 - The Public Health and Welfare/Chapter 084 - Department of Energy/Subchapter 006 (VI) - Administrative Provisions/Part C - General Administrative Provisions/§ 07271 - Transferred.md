@@ -1,0 +1,6 @@
+### §7271. Transferred
+
+#### Codification
+
+Section, Pub. L. 95–509, title II, §208, Oct. 24, 1978, 92 Stat. 1779, which related to single annual requests by the Secretary for authorizations of appropriations for programs involving the common defense and security of the United States, was renumbered section 4731 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(7), Nov. 24, 2003, 117 Stat. 1782, and is classified to section 2771 of Title 50, War and National Defense.
+

@@ -24,7 +24,7 @@
 
 #### (2) Estate tax
 
-&emsp;Under regulations prescribed by the Secretary, the Secretary may, for reasonable cause, extend the time for the payment of any deficiency of a tax imposed by chapter 11 for a reasonable period not to exceed 4 years fromthe date otherwise fixed for the payment of the deficiency.
+&emsp;Under regulations prescribed by the Secretary, the Secretary may, for reasonable cause, extend the time for the payment of any deficiency of a tax imposed by chapter 11 for a reasonable period not to exceed 4 years from the date otherwise fixed for the payment of the deficiency.
 
 #### (3) No extension for certain deficiencies
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 96–589 substituted “Claims in cases under title 11 of t
 
 Subsec. (a)(2). Pub. L. 94–455, §2004(c)(1), struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
 
-Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
+Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference tochapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 

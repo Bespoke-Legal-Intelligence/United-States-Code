@@ -10,7 +10,7 @@ Section was classified to section 207a of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 
@@ -24,5 +24,5 @@ Section 104 of Pub. L. 102–397, as amended by Pub. L. 102–392, title III, §
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1819, 1970, 2021, 2161 of this title; title 40 sections 5105, 5107, 5109, 8501.
+This section is referred to in sections 1819, 1961, 1970, 2021, 2161 of this title; title 40 sections 5105, 5107, 5109, 8501.
 

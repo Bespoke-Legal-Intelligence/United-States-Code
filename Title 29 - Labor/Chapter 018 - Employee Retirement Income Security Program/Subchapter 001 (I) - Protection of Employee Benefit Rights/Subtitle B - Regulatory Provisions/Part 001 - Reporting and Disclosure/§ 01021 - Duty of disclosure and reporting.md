@@ -164,7 +164,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 &emsp;&emsp;The term “blackout period” does not include a suspension, limitation, or restriction—
 
-&emsp;&emsp;&emsp;(i) which occurs by reason of the application of the securities laws (as defined in section 78c(a)(47) of title 15,<sup>2</sup>
+&emsp;&emsp;&emsp;(i) which occurs by reason of the application of the securities laws (as defined in section 78c(a)(47) of title 15),
 
 &emsp;&emsp;&emsp;(ii) which is a change to the plan which provides for a regularly scheduled suspension, limitation, or restriction which is disclosed to participants or beneficiaries through any summary of material modifications, any materials describing specific investment alternatives under the plan, or any changes thereto, or
 
@@ -184,7 +184,7 @@ The Secretary may, by regulation, require multiple employer welfare arrangements
 
 &emsp;&emsp;&emsp;&emsp;(I) covered only the employer (and the employer's spouse) and the employer owned the entire business (whether or not incorporated), or
 
-&emsp;&emsp;&emsp;&emsp;(II) covered only one or more partners (and their spouses) in a business partnership (including partners in an S or C corporation (as defined in section 1361(a) of title 26),<sup>3</sup>
+&emsp;&emsp;&emsp;&emsp;(II) covered only one or more partners (and their spouses) in a business partnership (including partners in an S or C corporation (as defined in section 1361(a) of title 26)),
 
 &emsp;&emsp;&emsp;(ii) meets the minimum coverage requirements of section 410(b) of title 26 (as in effect on July 30, 2002) without being combined with any other plan of the business that covers the employees of the business,
 
@@ -311,8 +311,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 This section is referred to in sections 1104, 1132 of this title; title 15 section 7244.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. The comma probably should be preceded by a closing parenthesis.</i>
-
-<i><sup>3</sup></i><i> So in original. The comma probably should be preceded by a second closing parenthesis.</i>
 

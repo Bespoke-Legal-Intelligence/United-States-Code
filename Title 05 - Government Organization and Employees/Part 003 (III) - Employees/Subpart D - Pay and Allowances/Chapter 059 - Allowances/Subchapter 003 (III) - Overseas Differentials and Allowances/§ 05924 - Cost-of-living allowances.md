@@ -42,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classifiedgenerally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 Section 1701(a)(6) of title 38, referred to in par. (4)(B), was renumbered section 3501(a)(6) of title 38 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.
 
@@ -104,7 +104,7 @@ Secretary of State empowered to prescribe regulations governing travel expenses 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5922, 5941 of this title; title 10 section 1605; title 20 section 906; title 22sections 1474, 2506, 4081; title 26 section 912; title 37 section 431.
+This section is referred to in sections 5922, 5941 of this title; title 10 section 1605; title 20 section 906; title 22 sections 1474, 2506, 4081; title 26 section 912; title 37 section 431.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (2) Low-polluting fuel
 
-&emsp;The term “low-polluting fuel” means methanol, ethanol, propane, or natural gas, or anycomparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term “methanol” includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
+&emsp;The term “low-polluting fuel” means methanol, ethanol, propane, or natural gas, or any comparably low-polluting fuel. In determining whether a fuel is comparably low-polluting, the Administrator shall consider both the level of emissions of air pollutants from vehicles using the fuel and the contribution of such emissions to ambient levels of air pollutants. For purposes of this paragraph, the term “methanol” includes any fuel which contains at least 85 percent methanol unless the Administrator increases such percentage as he deems appropriate to protect public health and welfare.
 
 (July 14, 1955, ch. 360, title II, §219, as added Pub. L. 101–549, title II, §227\[(a)\], Nov. 15, 1990, 104 Stat. 2505.)
 

@@ -34,7 +34,7 @@ Under subsection (b)(1) the Supreme Court has original but not exclusive jurisdi
 
 Section 1351 of this title gives to United States district courts, exclusive of the courts of the States, jurisdiction of civil actions against such consuls and vice consuls.
 
-This section and said section 1351 of this title have no application to ambassadors, public ministers, consuls or vice consuls representing the United States. See <i>Mil</i><i>ward v. McSaul</i>, D.C.S.D.N.Y. 1846, 17 Fed.Cas.No. 9,623 and <i>State of Ohio ex rel. Popovici v. Alger</i>, 1930, 50 S.Ct. 154, 280 U.S. 379, 74 L.Ed. 489.
+This section and said section 1351 of this title have no application to ambassadors, public ministers, consuls or vice consuls representing the United States. See <i>Milward v. McSaul</i>, D.C.S.D.N.Y. 1846, 17 Fed.Cas.No. 9,623 and <i>State of Ohio ex rel. Popovici v. Alger</i>, 1930, 50 S.Ct. 154, 280 U.S. 379, 74 L.Ed. 489.
 
 Changes were made in phraseology.
 

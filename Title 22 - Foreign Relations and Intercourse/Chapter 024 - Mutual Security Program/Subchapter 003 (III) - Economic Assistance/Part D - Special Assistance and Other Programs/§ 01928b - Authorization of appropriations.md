@@ -26,7 +26,7 @@ Pub. L. 100–202 substituted “annually (1)” for “annually,”, “(2) $10
 
 #### Change of Name
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) \[probably should be “paragraphs (1) or (2)”, which amendedthis section and sections 276c–1, 1928c, and 1928d of this title\]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) \[probably should be “paragraphs (1) or (2)”, which amended this section and sections 276c–1, 1928c, and 1928d of thistitle\]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
 
 #### Permanent Appropriation for Delegation Expenses
 

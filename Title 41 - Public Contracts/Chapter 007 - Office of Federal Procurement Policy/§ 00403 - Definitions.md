@@ -38,7 +38,7 @@ As used in this chapter:
 
 &emsp;&emsp;(G) is otherwise qualified and eligible to receive an award under applicable laws and regulations.
 
-&emsp;(8) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
+&emsp;(8) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procuredby an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
 &emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
 
@@ -74,7 +74,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(ii) the source of the services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government.
 
-&emsp;&emsp;(F) Services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed and under standard commercial terms and conditions.
+&emsp;&emsp;(F) Services offered and sold competitively, in substantial quantities, in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions.
 
 &emsp;&emsp;(G) Any item, combination of items, or service referred to in subparagraphs (A) through (F) notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
@@ -94,7 +94,29 @@ As used in this chapter:
 
 &emsp;(15) The term “commercial component” means any component that is a commercial item.
 
-(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct. 13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705.)
+&emsp;(16) The term “acquisition”—
+
+&emsp;&emsp;(A) means the process of acquiring, with appropriated funds, by contract for purchase or lease, property or services (including construction) that support the missions and goals of an executive agency, from the point at which the requirements of the executive agency are established in consultation with the chief acquisition officer of the executive agency; and
+
+&emsp;&emsp;(B) includes—
+
+&emsp;&emsp;&emsp;(i) the process of acquiring property or services that are already in existence, or that must be created, developed, demonstrated, and evaluated;
+
+&emsp;&emsp;&emsp;(ii) the description of requirements to satisfy agency needs;
+
+&emsp;&emsp;&emsp;(iii) solicitation and selection of sources;
+
+&emsp;&emsp;&emsp;(iv) award of contracts;
+
+&emsp;&emsp;&emsp;(v) contract performance;
+
+&emsp;&emsp;&emsp;(vi) contract financing;
+
+&emsp;&emsp;&emsp;(vii) management and measurement of contract performance through final delivery and payment; and
+
+&emsp;&emsp;&emsp;(viii) technical and management functions directly related to the process of fulfilling agency requirements by contract.
+
+(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct. 13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, div. A, title XIV, §§1411, 1433, Nov. 24, 2003, 117 Stat. 1663, 1673.)
 
 #### References in Text
 
@@ -105,6 +127,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 Section 2731 of Pub. L. 98–369 directed in part that this section be redesignated as section 4 of Pub. L. 93–400 to correct an inconsistency in the language of the amendment by Pub. L. 98–191, which amended this section generally but referred to it as “Sec. 3”. Since this section was enacted as section 4 of Pub. L. 93–400 no change was required.
 
 #### Amendments
+
+2003—Par. (12)(F). Pub. L. 108–136, §1433, inserted “or specific outcomes to be achieved” after “performed”.
+
+Par. (16). Pub. L. 108–136, §1411, added par. (16).
 
 1999—Par. (12)(E). Pub. L. 106–65 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Installation services, maintenance services, repair services, training services, and other services if such services are procured for support of an item referred to in subparagraph (A), (B), (C), or (D) and if the source of such services—
 
@@ -132,7 +158,7 @@ Pars. (12) to (15). Pub. L. 103–355, §8001(a), added pars. (12) to (15).
 
 1990—Par. (11). Pub. L. 101–510 added par. (11).
 
-1988—Pars. (4) to (11). Pub. L. 100–679 redesignated pars. (5) to (11) as (4) to (10), respectively, and struckout former par. (4) which defined “single system of Government-wide procurement regulations” for purposes of this chapter.
+1988—Pars. (4) to (11). Pub. L. 100–679 redesignated pars. (5) to (11) as (4) to (10), respectively, and struck out former par. (4) which defined “single system of Government-wide procurement regulations” for purposes of this chapter.
 
 1984—Pars. (6) to (8). Pub. L. 98–369 added pars. (6) to (8).
 
@@ -160,5 +186,5 @@ Section 2752 of Pub. L. 98–369 provided that: “Not later than March 31, 1985
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 6 sections 393, 421, 423; title 10 sections 2207, 2225, 2226, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482, 2636, 2662; title 15 sections 205c, 632, 637, 657a; title 16 sections 669h, 777h; title 20 section 1018a; title 22 section 2679c; title 31 section 3567; title 33 section 1368; title 40 sections 3707, 11101; title 42 sections 290aa–3, 5403; title 49 section 40118.
+This section is referred to in sections 57, 58, 252a, 254b, 259, 264a, 418a, 431, 701 of this title; title 6 sections 393, 421, 423; title 10 sections 2207, 2225, 2226, 2302, 2302a, 2306a, 2376, 2384, 2393, 2402, 2408, 2410, 2410b, 2410g, 2410i, 2482, 2636; title 15 sections 205c, 632, 637, 657a; title 16 sections 669h, 777h; title 20 section 1018a; title 22 section2679c; title 31 section 3567; title 33 section 1368; title 40 sections 3707, 11101; title 42 sections 290aa–3, 1395w–111, 5403; title 49 section 40118.
 

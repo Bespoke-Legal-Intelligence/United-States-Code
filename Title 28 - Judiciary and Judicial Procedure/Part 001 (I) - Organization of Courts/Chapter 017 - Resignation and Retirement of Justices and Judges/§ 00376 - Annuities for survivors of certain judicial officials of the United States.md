@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(A) an unmarried child under eighteen years of age, including (i) an adopted child and (ii) a stepchild or recognized natural child who lived with the judicial official in a regular parent-child relationship;
 
-&emsp;&emsp;(B) such unmarried child between eighteen and twenty-two years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable educational institution. A child whose twenty-second birthday occurs before July 1, or after August 31, of a calendar year, and while he or she is regularly pursuing such a course of study or training, is deemed to have become twenty-two years of age on the first day of July immediately following that birthday. A child who is a student is deemed not to have ceased being a student during an interim period between school years, if that interim period lasts no longer than five consecutive months and if that child shows, to the satisfaction of the Director of the Administrative Office of the United States Courts, that he or she has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester, or other period into which the school year is divided, immediately following that interim period; or
+&emsp;&emsp;(B) such unmarried child between eighteen and twenty-two years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable educational institution. A child whose twenty-second birthday occurs before July 1, or after August 31, of a calendar year, and while he or she is regularly pursuing such a course of study or training, is deemed to have become twenty-two years of age on the first day of July immediately following that birthday. A child who is a student is deemed not to have ceased beinga student during an interim period between school years, if that interim period lasts no longer than five consecutive months and if that child shows, to the satisfaction of the Director of the Administrative Office of the United States Courts, that he or she has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester, or other period into which the school year is divided, immediately following that interim period; or
 
 &emsp;&emsp;(C) such unmarried child, regardless of age, who is incapable of self-support because of a mental or physical disability incurred either (i) before age eighteen, or (ii) in the case of a child who is receiving an annuity as a full-time student under paragraph (5)(B) of this subsection, before the termination of that annuity;
 
@@ -106,7 +106,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 (h) Annuities payable under this section shall be paid only in accordance with the following provisions:
 
-&emsp;(1) In any case in which a judicial official dies while in office, while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section (A) after having completed at least eighteen months of creditable civilian service, as computed in accordance with subsection (k) of this section, for the last eighteen months of which the salary deductions provided by subsection (b) of this section or, in lieu thereof, the deposits required by subsection (d) of this section have actually been made, or (B) if the death of such judicial official was by assassination, before having satisfied the requirements of clause (A) if, for the period of such service, the deductions provided by subsection (b) or, in lieuthereof, the deposits required by subsection (d) have actually been made—
+&emsp;(1) In any case in which a judicial official dies while in office, while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section (A) after having completed at least eighteen months of creditable civilian service, as computed in accordance with subsection (k) of this section, for the last eighteen months of which the salary deductions provided by subsection (b) of this section or, in lieu thereof, the deposits required by subsection (d) of this section have actually been made, or (B) if the death of such judicial official was by assassination, before having satisfied the requirements of clause (A) if, for the period of such service, the deductions provided by subsection (b) or, in lieu thereof, the deposits required by subsection (d) have actually been made—
 
 &emsp;&emsp;(i) if such judicial official is survived by a widow or widower, but not by a child, there shall be paid to such widow or widower an annuity, beginning on the day on which such judicial official died, in an amount computed as provided in subsection (<i>l</i>) of this section; or
 
@@ -118,7 +118,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 > &emsp;&emsp;whichever is smallest; or
 
-&emsp;&emsp;(iii) if such judicial official leaves no surviving widow or widower, but does leave a surviving child or children, there shall be paid to or on behalf of each such child an immediate annuity equal to:
+&emsp;&emsp;(iii) if such judicial official leaves no surviving widow or widower, but does leave asurviving child or children, there shall be paid to or on behalf of each such child an immediate annuity equal to:
 
 &emsp;&emsp;&emsp;(I) the amount of the annuity to which the judicial official's widow or widower would have been entitled under clause (i) of this paragraph, had such widow or widower survived the judicial official, divided by the number of children; or
 
@@ -150,13 +150,13 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 (2) The Director of the Administrative Office of the United States Courts shall determine whether the killing of a judicial official was an assassination, subject to review only by the Judicial Conference of the United States. The head of any Federal agency that investigates the killing of a judicial official shall provide information to the Director that would assist the Director in making such determination.
 
-(j) In any case in which a payment under this section is to be made to a minor, or to a person mentally incompetent or under other legal disability, as determined by a court of competent jurisdiction, such payment may be made to the person who is constituted guardian or other fiduciary of such claimant by the laws of the State of residence of such claimant, or to any other person who is otherwise legally vested with the care of the claimant or of the claimant's estate, and need not be made directly to such claimant. The Director of the Administrative Office of the United States Courts may, athis or her discretion, determine whether such payment is made directly to such claimant or to such guardian, fiduciary, or other person legally vested with the care of such claimant or the claimant's estate. Where no guardian or other fiduciary of such minor or such person under legal disability has been appointed under the laws of the State of residence of such claimant, the Director of the Administrative Office of the United States Courts shall determine the person who is otherwise legally vested with the care of the claimant or of the claimant's estate.
+(j) In any case in which a payment under this section is to be made to a minor, or to a person mentally incompetent or under other legal disability, as determined by a court of competent jurisdiction, such payment may be made to the person who is constituted guardian or other fiduciary of such claimant by the laws of the State of residence of such claimant, or to any other person who is otherwise legally vested with the care of the claimant or of the claimant's estate, and need not be made directly to such claimant. The Director of the Administrative Office of the United States Courts may, at his or her discretion, determine whether such payment is made directly to such claimant or to such guardian, fiduciary, or other person legally vested with the care of such claimant or the claimant's estate. Where no guardian or other fiduciary of such minor or such person under legal disability has been appointed under the laws of the State of residence of such claimant, the Director of the Administrative Office of the United States Courts shall determine the person who is otherwise legally vested with the care of the claimant or of the claimant's estate.
 
 (k) The years of service rendered by a judicial official which may be creditable in calculating the amount of an annuity for such judicial official's widow or widower under subsection (<i>l</i>) of this section shall include—
 
 &emsp;(1) those years during which such judicial official served in any of the offices designated in paragraph (1) of subsection (a) of this section, including in the case of a Justice or judge of the United States those years during which he or she continued to hold office following retirement from regular active service under section 371 or subsection (a) of section 372 of this title;
 
-&emsp;(2) those years during which such judicial official served as a Senator, Representative, Delegate, or Resident Commissioner in Congress, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section;
+&emsp;(2) those years during which such judicial official served as a Senator, Representative,Delegate, or Resident Commissioner in Congress, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section;
 
 &emsp;(3) those years during which such judicial official honorably served on active duty in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section: <i>Provided</i>, That those years of such military service for which credit has been allowed for the purposes of retirement or retired pay under any other provision of law shall not be included as allowable years of such service under this section;
 
@@ -192,7 +192,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 (<i>o</i>)(1) In any case in which a judicial official dies while in office, while receiving retirement salary, or after filing an election and otherwise complying with the conditions under subsection (b)(2) of this section, and;
 
-&emsp;(A) subject to paragraph (2) of this subsection, before having completed eighteenmonths of civilian service, computed in accordance with subsection (k) of this section, during which the salary deductions provided by subsection (b) of this section or the deposit required by subsection (d) of this section have actually been made; or
+&emsp;(A) subject to paragraph (2) of this subsection, before having completed eighteen months of civilian service, computed in accordance with subsection (k) of this section, during which the salary deductions provided by subsection (b) of this section or the deposit required by subsection (d) of this section have actually been made; or
 
 &emsp;(B) after having completed eighteen months of civilian service, computed in accordance with subsection (k) of this section, during which all such deductions or deposits have been made, but without a survivor or survivors who are entitled to receive the annuity benefits provided by subsection (h) or (t) of this section; or
 
@@ -236,7 +236,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 &emsp;&emsp;&emsp;(ii) any agreement referred to in such subsection which was entered into before such date; or
 
-&emsp;&emsp;(B) would cause the total of survivor annuities payable under subsections (h) and (t)based on the service of the judicial official to exceed 55 percent of the average annual salary (as such term is used in subsection (<i>l</i>)) of such official; and
+&emsp;&emsp;(B) would cause the total of survivor annuities payable under subsections (h) and (t) based on the service of the judicial official to exceed 55 percent of the average annual salary (as such term is used in subsection (<i>l</i>)) of such official; and
 
 &emsp;(2) shall not be effective, in the case of a judicial official who is then married, unless it is made with the spouse's written consent.
 
@@ -298,7 +298,7 @@ Subsec. (a)(2)(D). Pub. L. 106–518, §312(b)(2), substituted “subsection (b)
 
 &emsp;“(B) of a justice or judge of the United States retired under section 372(a) of this title who is willing and able to perform judicial duties in accordance with section 294 of this title,
 
-&emsp;“(C) of a judge of the United States Court of Federal Claims retired under section 178(a) or (b) of this title who meets the requirements of section 178(d) of this title, or
+&emsp;“(C) of a judge of the United States Court of Federal Claims retired under section 178(a) or (b) of thistitle who meets the requirements of section 178(d) of this title, or
 
 &emsp;“(D) of a judicial official on recall under section 155(b), 797, 373(c)(4), 375, or 636(h) of this title,
 
@@ -360,7 +360,7 @@ Subsec. (a)(2)(F). Pub. L. 100–659, §3(a)(2), added subpar. (F).
 
 Subsec. (b). Pub. L. 100–659, §3(a)(3), inserted “(and any deductions made under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)” after “deductions” and “(and under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)” before period at end of last sentence.
 
-Subsec. (m). Pub. L. 100–702 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Whenever the salary paid for service in one of the offices designated in paragraph (1) of subsection (a) of this section is increased, each annuity payable fromthe ‘Judicial Survivors’ Annuities Fund’, which is based, in whole or in part, upon a deceased judicial official having rendered some portion of his or her final eighteen months of service in that same office, shall also be increased. The actual amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each 5 percent by which such salary has been increased. In the event that such salary is increased by less than 5 percent, there shall be no increase in such annuity.”
+Subsec. (m). Pub. L. 100–702 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: “Whenever the salary paid for service in one of the offices designated in paragraph (1) of subsection (a) of this section is increased, each annuity payable from the ‘Judicial Survivors’ Annuities Fund’, which is based, in whole or in part, upon a deceased judicial official having rendered some portion of his or her final eighteen months of service in that same office, shall also be increased. The actual amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each 5 percent by which such salary has been increased. In the event that such salary is increased by less than 5 percent, there shall be no increase in such annuity.”
 
 1986—Subsec. (a)(1). Pub. L. 99–336, §2(a)(1), substituted “she marries, (iii) January 1, 1977; or (iv) October 1, 1986” for “she marries, or (iii) the date upon which the Judicial Survivors’ Annuities Reform Act becomes effective” in concluding provision.
 
@@ -484,7 +484,7 @@ Section 201(j) of title II of Pub. L. 102–572 provided that: “Notwithstandin
 
 Section 201(k) of Pub. L. 102–572 provided that: “Any judicial official as defined in section 376(a)(1) of title 28, United States Code, who makes an election under section 376(b) of title 28, United States Code, may make a redeposit, as required by section 7 of Public Law 94–554 \[set out below\] and section 2(c)(2) of Public Law 99–336 \[set out below\], to the credit of the Judicial Survivors’ Annuities Fund in installments, in such amounts and under such conditions as may be determined in each instance by the Director of the Administrative Office of the United States Courts. If a judicial official elects to make a redeposit in installments—
 
-&emsp;“(1) the Director shall require that the first installment payment made shall be in an amount no smallerthan the last 18 months of salary deductions or deposits previously returned to that judicial official in a lump-sum payment; and
+&emsp;“(1) the Director shall require that the first installment payment made shall be in an amount no smaller than the last 18 months of salary deductions or deposits previously returned to that judicial official in a lump-sum payment; and
 
 &emsp;“(2) the election under section 376(b) of title 28, United States Code, shall be effective upon payment of the first such installment.”
 
@@ -540,7 +540,7 @@ Pub. L. 96–504, §4, Dec. 5, 1980, 94 Stat. 2742, required the Secretary of th
 
 #### Judicial Survivors’ Annuities Fund
 
-Section 3 of Pub. L. 94–554 provided: “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] there shall be established on the books of the Treasury a fund which shall be known as ‘The Judicial Survivors’ Annuities Fund, and all money credited tothe judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended, shall be transferred to the credit of the Judicial Survivors’ Annuities Fund established by this section.”
+Section 3 of Pub. L. 94–554 provided: “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] there shall be established on the books of the Treasury a fund which shall be known as ‘The Judicial Survivors’ Annuities Fund, and all money credited to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended, shall be transferred to the credit of the Judicial Survivors’ Annuities Fund established by this section.”
 
 #### Compensation for Actuarial Deficiency in the Annuities Fund
 
@@ -548,7 +548,7 @@ Section 4 of Pub. L. 94–554 provided: “That on the date upon which this Act 
 
 #### Increases in Widows’ Annuities Paid Under Section 2 of Act August 3, 1956
 
-Section 5 of Pub. L. 94–554 provided: “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] each annuity then being paid to a widow from the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended, shall be increased by an amount equal to one-fifth of 1 percent of the amount of such annuity multiplied by the number of months which have passed since the commencement of that annuity. For the purposes of this section, any fractional part of a month which numbers less than fifteen full days shall be excluded from the Computation of the number of months and any fractional part of a month which numbers fifteen full days or more shall be included in the computation as one full month. Such funds as are necessary to carry out this section are authorized to be appropriated and, upon appropriation, shall be deposited by the Secretary of the Treasury, in a single payment, to credit of the Judicial Survivors’ Annuities Fund established by section 3 of this Act \[see Judicial Survivors’ Annuities Fund note above\].”
+Section 5 of Pub. L. 94–554 provided: “That on the date upon which this Act becomes effective \[Jan. 1, 1977\] each annuity then being paid to a widow from the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended, shall be increased by an amountequal to one-fifth of 1 percent of the amount of such annuity multiplied by the number of months which have passed since the commencement of that annuity. For the purposes of this section, any fractional part of a month which numbers less than fifteen full days shall be excluded from the Computation of the number of months and any fractional part of a month which numbers fifteen full days or more shall be included in the computation as one full month. Such funds as are necessary to carry out this section are authorized to be appropriated and, upon appropriation, shall be deposited by the Secretary of the Treasury, in a single payment, to credit of the Judicial Survivors’ Annuities Fund established by section 3 of this Act \[see Judicial Survivors’ Annuities Fund note above\].”
 
 #### Revocation of Election To Participate in Annuities Program
 

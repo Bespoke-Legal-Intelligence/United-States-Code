@@ -2,7 +2,7 @@
 
 #### (a) Submission
 
-To be eligible to receive a grant under section 12524(b)(1) of this title, an allotment under subsection (a) or (b)(2) of section 12524 of this title, a reallotment under section 12524(c) of this title, or a grant under section 12524(d) of this title, a State, acting through the State educational agency, or an Indian tribe, shall prepare, submit to the Corporation, and obtain approval of, an application at such time and in such manner as the Chief Executive Officer may reasonably require.
+To be eligible to receive a grant under section 12524(b)(1) of this title, an allotment under subsection (a) or (b)(2) of section 12524 of this title, a reallotment under section 12524(c) of this title,or a grant under section 12524(d) of this title, a State, acting through the State educational agency, or an Indian tribe, shall prepare, submit to the Corporation, and obtain approval of, an application at such time and in such manner as the Chief Executive Officer may reasonably require.
 
 #### (b) Contents
 

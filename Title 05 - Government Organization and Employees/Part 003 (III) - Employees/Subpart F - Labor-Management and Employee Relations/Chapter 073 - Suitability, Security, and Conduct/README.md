@@ -5,6 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [7301\.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20Conduct/%C2%A7%2007301%20-%20Presidential%20regulations.md) | Presidential regulations. |
+| [7302\.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20Conduct/%C2%A7%2007302%20-%20Post-employment%20notification.md) | Post-employment notification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -70,6 +71,8 @@
 
 #### Amendments
 
+2003—Pub. L. 108–136, div. A, title XI, §1125(b)(3), Nov. 24, 2003, 117 Stat. 1640, added item 7302.
+
 2000—Pub. L. 106–554, §1(a)(3) \[title VI, §639(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–168, added subchapter VII heading and item 7371.
 
 1993—Pub. L. 103–94, §2(b)(2), Oct. 6, 1993, 107 Stat. 1004, amended analysis for subchapter III generally, reenacting subchapter III heading without change, substituting “participation” for “contributions and services” in item 7321, “Definitions” for “Political use of authority or influence; prohibition” in item 7322, “activity authorized; prohibitions” for “contributions; prohibition” in item 7323, “Political activities on duty; prohibition” for “Influencing elections; taking part in political campaigns; prohibitions; exceptions” in item 7324, “Political activity permitted; employees residing in certain municipalities” for “Penalties” in item 7325, and “Penalties” for “Nonpartisan political activity permitted” in item 7326, and striking out item 7327 “Political activity permitted; employees residing in certain municipalities” and item 7328 “General Accounting Office employees”.
@@ -86,7 +89,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3374, 3704, 9701 of this title; title 39 section 410; title 42 sections 2991c, 3522; title 49 section 40122.
+This chapter is referred to in sections 3374, 3704, 9701, 9902 of this title; title 39 section 410; title 42 sections 2991c, 3522; title 49 section 40122.
 
 
 ---

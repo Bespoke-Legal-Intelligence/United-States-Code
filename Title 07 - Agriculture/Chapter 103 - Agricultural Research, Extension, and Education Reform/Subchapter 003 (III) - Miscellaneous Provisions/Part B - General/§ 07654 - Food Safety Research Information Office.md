@@ -6,7 +6,7 @@ The Secretary of Agriculture shall establish a Food Safety Research Information 
 
 #### (b) Purpose
 
-The Office shall provide to the research community and the general public information on publicly funded, and to the maximum extent practicable, privately funded food safety research initiatives for the purpose of—
+The Office shall provide to the research community and the general public information on publicly funded, and to the maximum extentpracticable, privately funded food safety research initiatives for the purpose of—
 
 &emsp;(1) preventing unintended duplication of food safety research; and
 

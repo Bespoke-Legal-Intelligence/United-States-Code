@@ -2,7 +2,7 @@
 
 (a)(1) The Comptroller General may audit expenditures, accounted for only on the approval, authorization, or certificate of the President or an official of an executive agency, to decide if the expenditure was authorized by law and made. Records and related information shall be made available to the Comptroller General in conducting the audit.
 
-(2) The Comptroller General may release the results of the audit or disclose related information only to the President or head of the agency, or, if there is an unresolved discrepancy, to the Committee on Governmental Affairs of the Senate, the Committee on Government Operations of the House of Representatives, and the committees of Congress having legislative or appropriation oversight of the expenditure.
+(2) The Comptroller General may release the results of the audit or disclose related information only to the President or head of the agency,or, if there is an unresolved discrepancy, to the Committee on Governmental Affairs of the Senate, the Committee on Government Operations of the House of Representatives, and the committees of Congress having legislative or appropriation oversight of the expenditure.
 
 (b) Before December 1 of each year, the Director of the Office of Management and Budget shall submit a report listing each account that may be subject to this section to the Committees on the Budget and Appropriations of both Houses of Congress, the Committee on Governmental Affairs, and to the Committee on Government Operations, and to the Comptroller General.
 
@@ -58,7 +58,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 31:67(f)(1)(2d sentence).
 
-In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records”for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
 

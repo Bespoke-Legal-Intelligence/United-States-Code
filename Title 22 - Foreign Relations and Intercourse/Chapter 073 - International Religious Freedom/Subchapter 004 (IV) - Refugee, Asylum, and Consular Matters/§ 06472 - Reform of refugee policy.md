@@ -6,7 +6,7 @@
 
 #### (1) Guidelines for addressing hostile biases
 
-&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines that address potential biases in personnel of the Immigration and Naturalization Service and of the Department of State that are hired abroad and involved with duties which could constitute an effective barrier to a refugee claim if such personnel carries a bias against the claimant on the grounds of religion, race, nationality, membership in a particular social group, or political opinion. The subject matter of this training should be culturally sensitive and tailored to provide a nonbiased, nonadversarial atmosphere for the purpose of refugee adjudications.
+&emsp;The Attorney General and the Secretary of State shall develop and implement guidelines that address potential biases in personnel ofthe Immigration and Naturalization Service and of the Department of State that are hired abroad and involved with duties which could constitute an effective barrier to a refugee claim if such personnel carries a bias against the claimant on the grounds of religion, race, nationality, membership in a particular social group, or political opinion. The subject matter of this training should be culturally sensitive and tailored to provide a nonbiased, nonadversarial atmosphere for the purpose of refugee adjudications.
 
 #### (2) Guidelines for refugee-processing posts in establishing agreements with United States Government-designated refugee processing entities
 
@@ -24,7 +24,7 @@ The President shall include in each annual report on proposed refugee admissions
 
 #### Codification
 
-Section is comprised of section 602 of Pub. L. 105–292. Subsec. (a) of section 602 of Pub. L. 105–292 amendedsection 1157 of Title 8, Aliens and Nationality. Subsec. (b) of section 602 of Pub. L. 105–292 amended section 4028 of this title.
+Section is comprised of section 602 of Pub. L. 105–292. Subsec. (a) of section 602 of Pub. L. 105–292 amended section 1157 of Title 8, Aliens and Nationality. Subsec. (b) of section 602 of Pub. L. 105–292 amended section 4028 of this title.
 
 #### Amendments
 

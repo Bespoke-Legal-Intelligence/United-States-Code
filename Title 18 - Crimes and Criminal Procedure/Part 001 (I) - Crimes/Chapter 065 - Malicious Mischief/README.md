@@ -10,10 +10,13 @@
 | [1366\.](%C2%A7%2001366%20-%20Destruction%20of%20an%20energy%20facility.md) | Destruction of an energy facility. |
 | [1367\.](%C2%A7%2001367%20-%20Interference%20with%20the%20operation%20of%20a%20satellite.md) | Interference with the operation of a satellite. |
 | [1368\.](%C2%A7%2001368%20-%20Harming%20animals%20used%20in%20law%20enforcement.md) | Harming animals used in law enforcement. |
+| [1369\.](%C2%A7%2001369%20-%20Destruction%20of%20veterans%E2%80%99%20memorials.md) | Destruction of veterans’ memorials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–29, §2(b), May 29, 2003, 117 Stat. 772, added item 1369.
 
 2000—Pub. L. 106–254, §2(b), Aug. 2, 2000, 114 Stat. 638, added item 1368.
 
@@ -46,3 +49,4 @@ This chapter is referred to in section 2516 of this title.
 - [&sect; 01366 - Destruction of an energy facility](%C2%A7%2001366%20-%20Destruction%20of%20an%20energy%20facility.md)
 - [&sect; 01367 - Interference with the operation of a satellite](%C2%A7%2001367%20-%20Interference%20with%20the%20operation%20of%20a%20satellite.md)
 - [&sect; 01368 - Harming animals used in law enforcement](%C2%A7%2001368%20-%20Harming%20animals%20used%20in%20law%20enforcement.md)
+- [&sect; 01369 - Destruction of veterans&#8217; memorials](%C2%A7%2001369%20-%20Destruction%20of%20veterans%E2%80%99%20memorials.md)

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(iv) if personally identifiable information is removed, for a population statistics database, for identification research and protocol development purposes, or for quality control purposes; and
 
-&emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory,will undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
+&emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory, will undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
 
 &emsp;(13) If any part of the amount received from a grant under this subchapter is to be used to improve the quality, timeliness, and credibility of forensic science services for criminal justice purposes, a certification that, as of December 21, 2000, the State, or unit of local government within the State, has an established—
 

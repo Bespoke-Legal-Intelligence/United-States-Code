@@ -96,5 +96,5 @@ Areas.—The Secretary shall provide assistance under this section to areas that
 
 Pub. L. 104–127, title III, §388, Apr. 4, 1996, 110 Stat. 1020, directed Secretary of Agriculture to establish and carry out a farmland protection program, prior to repeal by Pub. L. 107–171, title II, §2503(b)(1)(A), May 13, 2002, 116 Stat. 269.
 
-\[Pub. L. 107–171, title II, §2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: “The amendment made by paragraph (1)(A) \[repealing section 388 of Pub. L.104–127, formerly set out above\] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 \[Pub. L. 104–127\] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act \[May 13, 2002\].”\]
+\[Pub. L. 107–171, title II, §2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: “The amendment made by paragraph (1)(A) \[repealing section 388 of Pub. L. 104–127, formerly set out above\] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 \[Pub. L. 104–127\] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act \[May 13, 2002\].”\]
 

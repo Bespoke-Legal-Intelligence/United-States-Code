@@ -22,7 +22,7 @@ June 22, 1942, ch. 435, §7, 56 Stat. 380; Dec. 22, 1942, ch. 806, §7, 56 Stat.
 
 #### Codification
 
-Pub. L. 107–293, §2(b), Nov. 13, 2002, 116 Stat. 2060, provided that: “In codifying this subsection \[probably should be “section”, meaning section 2 of Pub. L. 107–293, which amended this section\], the Office of the Law Revision Counsel shall show in the historical and statutory notes that the 107th Congress reaffirmed the exact language that has appeared in the Pledge for decades.”
+Amendment by Pub. L. 107–293 reaffirmed the exact language of the Pledge, see section 2(b) of Pub. L. 107–293, set out as a Reaffirmation of Language note below.
 
 #### Amendments
 
@@ -32,7 +32,7 @@ Pub. L. 107–293, §2(b), Nov. 13, 2002, 116 Stat. 2060, provided that: “In c
 
 Pub. L. 107–293, §1, Nov. 13, 2002, 116 Stat. 2057, provided that: “Congress finds the following:
 
-&emsp;“(1) On November 11, 1620, prior to embarking for the shores of America, the Pilgrims signed theMayflower Compact that declared: ‘Having undertaken, for the Glory of God and the advancement of the Christian Faith and honor of our King and country, a voyage to plant the first colony in the northern parts of Virginia,’.
+&emsp;“(1) On November 11, 1620, prior to embarking for the shores of America, the Pilgrims signed the Mayflower Compact that declared: ‘Having undertaken, for the Glory of God and the advancement of the Christian Faith and honor of our King and country, a voyage to plant the first colony in the northern parts of Virginia,’.
 
 &emsp;“(2) On July 4, 1776, America's Founding Fathers, after appealing to the ‘Laws of Nature, and of Nature's God’ to justify their separation from Great Britain, then declared: ‘We hold these Truths to be self-evident, that all Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the Pursuit of Happiness’.
 
@@ -56,11 +56,15 @@ Pub. L. 107–293, §1, Nov. 13, 2002, 116 Stat. 2057, provided that: “Congres
 
 &emsp;“(12) On March 5, 1984, in the decision of the Supreme Court of the United States in Lynch v. Donelly, 465 U.S. 668 (1984), in which a city government's display of a nativity scene was held to be constitutional, Chief Justice Burger, writing for the Court, stated: ‘There is an unbroken history of official acknowledgment by all three branches of government of the role of religion in American life from at least 1789 .  .  . \[E\]xamples of reference to our religious heritage are found in the statutorily prescribed national motto “In God We Trust” (36 U.S.C. 186) \[now 36 U.S.C. 302\], which Congress and the President mandated for our currency, see (31 U.S.C. 5112(d)(1) (1982 ed.)), and in the language “One Nation under God”, as part of the Pledge of Allegiance to the American flag. That pledge is recited by many thousands of public school children—and adults—every year .  .  . Art galleries supported by public revenues display religious paintings of the 15th and 16th centuries, predominantly inspired by one religious faith. The National Gallery in Washington, maintained with Government support, for example, has long exhibited masterpieces with religious messages, notably the Last Supper, and paintings depicting the Birth of Christ, the Crucifixion, and the Resurrection, among many others with explicit Christian themes and messages. The very chamber in which oral arguments on this case were heard is decorated with a notable and permanent—not seasonal—symbol of religion: Moses with the Ten Commandments. Congress has long provided chapels in the Capitol for religious worship and meditation.’
 
-&emsp;“(13) On June 4, 1985, in the decision of the Supreme Court of the United States in Wallace v. Jaffree, 472U.S. 38 (1985), in which a mandatory moment of silence to be used for meditation or voluntary prayer was held unconstitutional, Justice O'Connor, concurring in the judgment and addressing the contention that the Court's holding would render the Pledge of Allegiance unconstitutional because Congress amended it in 1954 to add the words ‘under God,’ stated ‘In my view, the words “under God” in the Pledge, as codified at (36 U.S.C. 172) \[now 4 U.S.C. 4\], serve as an acknowledgment of religion with “the legitimate secular purposes of solemnizing public occasions, \[and\] expressing confidence in the future.” ’
+&emsp;“(13) On June 4, 1985, in the decision of the Supreme Court of the United States in Wallace v. Jaffree, 472 U.S. 38 (1985), in which a mandatory moment of silence to be used for meditation or voluntary prayer was held unconstitutional, Justice O'Connor, concurring in the judgment and addressing the contention that the Court's holding would render the Pledge ofAllegiance unconstitutional because Congress amended it in 1954 to add the words ‘under God,’ stated ‘In my view, the words “under God” in the Pledge, as codified at (36 U.S.C. 172) \[now 4 U.S.C. 4\], serve as an acknowledgment of religion with “the legitimate secular purposes of solemnizing public occasions, \[and\] expressing confidence in the future.” ’
 
 &emsp;“(14) On November 20, 1992, the United States Court of Appeals for the 7th Circuit, in Sherman v. Community Consolidated School District 21, 980 F.2d 437 (7th Cir. 1992), held that a school district's policy for voluntary recitation of the Pledge of Allegiance including the words ‘under God’ was constitutional.
 
 &emsp;“(15) The 9th Circuit Court of Appeals erroneously held, in Newdow v. U.S. Congress (9th Cir. June 26, 2002), that the Pledge of Allegiance's use of the express religious reference ‘under God’ violates the First Amendment to the Constitution, and that, therefore, a school district's policy and practice of teacher-led voluntary recitations of the Pledge of Allegiance is unconstitutional.
 
 &emsp;“(16) The erroneous rationale of the 9th Circuit Court of Appeals in Newdow would lead to the absurd result that the Constitution's use of the express religious reference ‘Year of our Lord’ in Article VII violates the First Amendment to the Constitution, and that, therefore, a school district's policy and practice of teacher-led voluntary recitations of the Constitution itself would be unconstitutional.”
+
+#### Reaffirmation of Language
+
+Pub. L. 107–293, §2(b), Nov. 13, 2002, 116 Stat. 2060, provided that: “In codifying this subsection \[probably should be “section”, meaning section 2 of Pub. L. 107–293, which amended this section\], the Office of the Law Revision Counsel shall show in the historical and statutory notes that the 107th Congress reaffirmed the exact language that has appeared in the Pledge for decades.”
 

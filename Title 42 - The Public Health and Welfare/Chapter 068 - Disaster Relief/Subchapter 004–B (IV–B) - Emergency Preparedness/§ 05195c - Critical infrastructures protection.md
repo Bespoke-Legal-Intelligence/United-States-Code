@@ -52,7 +52,7 @@ It is the policy of the United States—
 
 #### (3) Recipient of certain support
 
-&emsp;Modeling, simulation, and analysis provided under this subsection shall be provided, in particular, to relevant Federal, State, and local entities responsible for critical infrastructure protection and policy.
+&emsp;Modeling, simulation, and analysis provided under this subsection shall be provided, in particular, to relevant Federal, State, and localentities responsible for critical infrastructure protection and policy.
 
 #### (e) Critical infrastructure defined
 

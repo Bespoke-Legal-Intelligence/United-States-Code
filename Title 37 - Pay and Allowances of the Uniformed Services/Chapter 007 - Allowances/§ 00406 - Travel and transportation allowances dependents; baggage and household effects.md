@@ -26,7 +26,7 @@
 
 (4) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(b)(1)(A) Except as provided in paragraph (2), in connection with a change of temporary or permanent station, a member is entitled to transportation (including packing, crating, drayage, temporary storage, and unpacking) of baggage and household effects within the weight allowances listed in subparagraph (C), without regard to the comparative costs of the variousmodes of transportation. Temporary storage in excess of 180 days may be authorized. Alternatively, the member may be paid reimbursement or a monetary allowance under subparagraph (F).
+(b)(1)(A) Except as provided in paragraph (2), in connection with a change of temporary or permanent station, a member is entitled to transportation (including packing, crating, drayage, temporary storage, and unpacking) of baggage and household effects within the weight allowances listed in subparagraph (C), without regard to the comparative costs of the various modes of transportation. Temporary storage in excess of 180 days may be authorized. Alternatively, the member may be paid reimbursement or a monetary allowance under subparagraph (F).
 
 (B) Subject to uniform regulations prescribed by the Secretaries concerned, in the case of a permanent change of station in which the Secretary concerned has authorized transportation of a motor vehicle under section 2634 of title 10 (except when such transportation is authorized from the old duty station to the new duty station), the member is entitled to a monetary allowance for transportation of that motor vehicle—
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) from the customary port of debarkation which has been designated by the Government as most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station to the new duty station.
 
-> Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under section 404(d)(1) of this title. If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle.
+> Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under section 404(d)(1) of this title. If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle. In the case of the transportation of a motor vehicle arranged by the member under section 2634(h) of title 10, the Secretary concerned may pay the member, upon presentation of proof of shipment, a monetary allowance in lieu of transportation, as established under section 404(d)(1) of this title.
 
 (C) Under regulations prescribed by the Secretary of Defense, the weight allowance in pounds to which a member is entitled under subparagraph (A) is determined in accordance with the following table:
 
@@ -105,7 +105,7 @@
 
 &emsp;(3) the member is serving on permanent duty at a station outside the United States, in Hawaii or Alaska, or on sea duty.
 
-(f) Under regulations prescribed by the Secretary concerned, transportation for dependents,baggage, and household effects of a member, plus a per diem for the member's dependents, is authorized if he dies while entitled to basic pay under chapter 3 of this title.
+(f) Under regulations prescribed by the Secretary concerned, transportation for dependents, baggage, and household effects of a member, plus a per diem for the member's dependents, is authorized if he dies while entitled to basic pay under chapter 3 of this title.
 
 (g)(1) Under uniform regulations prescribed by the Secretaries concerned, a member who—
 
@@ -145,6 +145,24 @@
 
 (3) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this subsection does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the member for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
 
+(4)(A) If a determination described in subparagraph (B) is made with respect to a dependent of a member described in that subparagraph and a request described in subparagraph (C) is made by or on behalf of that dependent, the Secretary may provide a benefit authorized for a member under paragraph (1) or (3) to that dependent in lieu of providing such benefit to the member.
+
+(B) A determination described in this subparagraph is a determination by the commanding officer of a member that—
+
+&emsp;(i) the member has committed a dependent-abuse offense against a dependent of the member;
+
+&emsp;(ii) a safety plan and counseling have been provided to that dependent;
+
+&emsp;(iii) the safety of the dependent is at risk; and
+
+&emsp;(iv) the relocation of the dependent is advisable.
+
+(C) A request described in this subparagraph is a request by the spouse of a member, or by the parent of a dependent child in the case of a dependent child of a member, for relocation.
+
+(D) Transportation may be provided under this paragraph for household effects or a motor vehicle only if a written agreement of the member, or an order of a court of competent jurisdiction, gives possession of the effects or vehicle to the spouse or dependent of the member concerned.
+
+(E) In this paragraph, the term “dependent-abuse offense” means an offense described in section 1059(c) of title 10.
+
 (i) A member traveling under orders who is relieved from a duty station is entitled to transportation for his dependents, baggage, and household effects, plus a per diem for the member's dependents, regardless of the time the dependents, baggage, or household effects arrive at their destination. Appropriations of the Department of Defense available for travel or transportation that are current when the member is relieved may be used to pay for the transportation.
 
 (j) Under uniform regulations prescribed by the Secretaries concerned, a member with dependents who is ordered to make an overseas permanent change of station and who, in anticipation of his dependents accompanying him overseas, ships baggage and household effects to that overseas station, may be authorized a return shipment of the baggage and household effects if, after the shipment, the member's dependents are unable to accompany him overseas and the Secretary concerned determines that such inability was unexpected and uncontrollable.
@@ -153,15 +171,17 @@
 
 (<i>l</i>) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §571, title VI, §631(b), Nov. 24, 2003, 117 Stat. 1484, 1508.)
 
-<b>Historical and Revision Notes</b>
+Historical and Revision Notes<br>1962
 
-<b>1962</b>
+Act
 
-<b>Acth1</b><b><i>Revised section</i></b><b>h1</b><b><i>Source (U.S. Code)</i></b><b>h1</b><b><i>Source (Statutes at Large)</i></b><b>j</b>
+<i>Revised section</i>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
 
 406(a)
 
@@ -187,7 +207,7 @@
 
 406(g)
 
-D37:253(c) (1st sentence, less 1st 33 words, and less last 59 words).
+37:253(c) (1st sentence, less 1st 33 words, and less last 59 words).
 
 37:253(c) (last 59 words of 1st sentence).
 
@@ -201,7 +221,7 @@ D37:253(c) (1st sentence, less 1st 33 words, and less last 59 words).
 
 37:253(c) (13th through 16th, and last, sentences).
 
-DOct. 12, 1949, ch. 681, §303(c), (1st through 3d, 9th, 11th, 13th through 16th and last, sentences), 63 Stat. 814; Mar. 31, 1955, ch. 20, §2(12), (13), 69 Stat. 21, 22; Aug. 5, 1955, ch. 571, 69 Stat. 532; Aug. 11, 1955, ch. 806, §2, 69 Stat. 691; July 12, 1960, Pub. L. 86–637, §1(a), 74 Stat. 471; July 12, 1960, Pub. L. 86–638, §2, 74 Stat. 471; Aug. 17, 1961, Pub. L. 87–140, 75 Stat. 341.e
+Oct. 12, 1949, ch. 681, §303(c), (1st through 3d, 9th, 11th, 13th through 16th and last, sentences), 63 Stat. 814; Mar. 31, 1955, ch. 20, §2(12), (13), 69 Stat. 21, 22; Aug. 5, 1955, ch. 571, 69 Stat. 532; Aug. 11, 1955, ch. 806, §2, 69 Stat. 691; July 12, 1960, Pub. L. 86–637, §1(a), 74 Stat. 471; July 12, 1960, Pub. L. 86–638, §2, 74 Stat. 471; Aug. 17, 1961, Pub. L. 87–140, 75 Stat. 341.
 
 In subsection (b), the words “to and from such locations” are omitted as covered by subsection (c)(3).
 
@@ -229,7 +249,7 @@ Acts
 
 Aug. 1, 1953, ch. 305, §604, 67 Stat. 349.
 
-The text of 31:650a (related to a member of an armed force) is omitted as unnecessary because of 37:404(a)(3). The words “On and after August 1, 1953” are omitted as executed. The words “A member . . . is entitled to” are substituted for “personnel” for clarity and consistency in the title. The word “baggage” is added for consistency in the title. The words “dependents, baggage, or household effects” are substituted for “such personnel” for clarity. The word “otherwise” is omitted as surplus.The words “used to pay for that transportation” are substituted for “charged with all expenses in connection with such travel including” for clarity.
+The text of 31:650a (related to a member of an armed force) is omitted as unnecessary because of 37:404(a)(3). The words “On and after August 1, 1953” are omitted as executed. The words “A member . . . is entitled to” are substituted for “personnel” for clarity and consistency in the title. The word “baggage” is added for consistency in the title. The words “dependents, baggage, or household effects” are substituted for “such personnel” for clarity. The word “otherwise” is omitted as surplus. The words “used to pay for that transportation” are substituted for “charged with all expenses in connection with such travel including” for clarity.
 
 &nbsp;
 
@@ -277,6 +297,10 @@ July 1, 1937, ch. 423, 50 Stat. 448.
 
 #### Amendments
 
+2003—Subsec. (b)(1)(B). Pub. L. 108–136, §631(b), inserted last sentence.
+
+Subsec. (h)(4). Pub. L. 108–136, §571, added par. (4).
+
 2002—Subsec. (b)(1)(E), (F). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (a)(1). Pub. L. 107–107, §633(a), substituted “$550” for “$275”.
@@ -309,7 +333,7 @@ Subsecs. (j) to (m). Pub. L. 105–261, §631(b)(1), redesignated subsecs. (k) t
 
 Subsec. (h)(2)(C). Pub. L. 105–85, §631, substituted a period for a comma at end of cl. (iii) and struck out concluding provisions which read as follows: “if the sentence is approved under section 860(c)(2) of title 10.”
 
-1996—Subsec. (b)(1)(B). Pub. L. 104–201, §621(a), inserted at end “If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle.”
+1996—Subsec. (b)(1)(B). Pub. L. 104–201, §621(a), inserted at end “If clause (i)(I) applies to the transportation by the member of a motor vehicle from the oldduty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle.”
 
 Subsec. (b)(1)(E). Pub. L. 104–106, §1505(d), struck out “of this paragraph” after “as provided in subparagraph (A)”.
 
@@ -323,7 +347,7 @@ Subsec. (i). Pub. L. 104–106, §642(a)(1), redesignated subsec. (j) as (i) and
 
 &emsp;“(2) the number of dependents who during the preceding fiscal year were accompanying members of the Army, Navy, Air Force, and Marine Corps who were stationed outside the United States and were not authorized to receive such allowances or transportation.”
 
-Pub. L. 104–106, §1502(b), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for“Committees on Armed Services of the Senate and House of Representatives” in introductory provisions. Amendment executed before amendment by section 642(a)(1) of Pub. L. 104–106, see above, pursuant to section 1506 of Pub. L. 104–106, set out as a note under section 101 of Title 10, Armed Forces.
+Pub. L. 104–106, §1502(b), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives” in introductory provisions. Amendment executed before amendment by section 642(a)(1) of Pub. L. 104–106, see above, pursuant to section 1506 of Pub. L. 104–106, set out as a note under section 101 of Title 10, Armed Forces.
 
 Subsec. (j). Pub. L. 104–106, §642(a)(1), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
@@ -395,7 +419,7 @@ Subsec. (b)(1)(C). Pub. L. 100–456, §602(a)(2), added subpar. (C).
 
 1986—Subsec. (a)(2)(A). Pub. L. 99–661, §652(a), amended subpar. (A) generally, inserting cl. (i) designation, redesignating former cl. (i) as cl. (ii), and striking out former cl. (ii) which read as follows: “is separated from the service or released from active duty under other than honorable conditions, as determined by the Secretary concerned”.
 
-Subsec. (d). Pub. L. 99–661, §620(a), inserted “In the event a member's baggage and household effects exceed such maximum weight limitation, the Secretary concerned, if requested to do so by the member, may pay the costs for the nontemporary storage of that excess weight and collect the amount paid from the member's pay and allowances, or collect the amount in such other manner as the Secretary concerned determines appropriate.”
+Subsec. (d). Pub. L. 99–661, §620(a), inserted “In the event a member's baggage and household effects exceed such maximum weight limitation, the Secretary concerned, if requested to do so by the member, may paythe costs for the nontemporary storage of that excess weight and collect the amount paid from the member's pay and allowances, or collect the amount in such other manner as the Secretary concerned determines appropriate.”
 
 Subsec. (e). Pub. L. 99–661, §617(a)(1), substituted “(as the case may be), plus a per diem” for “, as the case may be” in introductory provisions.
 
@@ -455,7 +479,7 @@ Subsec. (i). Pub. L. 96–107, §814(3), added subsec. (i).
 
 1966—Subsec. (b). Pub. L. 89–718, §58(1), substituted “change of temporary or permanent station” for “temporary or permanent change of station”.
 
-Subsec. (d). Pub. L. 89–680, §1(2), extended authority permitting a one-year period for nontemporary storage of baggage and household effects under regulations for members being separated from the service who are confined to a hospital or are in its vicinity undergoing medical treatment to include members who are being retired, placed on the temporary retired disability list, discharged, or released from active duty, and expanded coverage to include members retired or placed on the temporary disability retired list under chapter 61 of title 10, members retired with pay under any other law, or, immediately following at least eight years of continuous active duty with no single break therein of more than ninety days, discharged with severance pay or released involuntarily from active duty with readjustment pay, and inserted provisions for payment of cost of storage by the member concerned in certain cases.
+Subsec. (d). Pub. L. 89–680, §1(2), extended authority permitting a one-year period for nontemporary storage of baggage and household effects under regulations for members being separated from the service who are confined to a hospital or are in its vicinity undergoing medical treatment to include members who are being retired, placed on the temporary retired disability list,discharged, or released from active duty, and expanded coverage to include members retired or placed on the temporary disability retired list under chapter 61 of title 10, members retired with pay under any other law, or, immediately following at least eight years of continuous active duty with no single break therein of more than ninety days, discharged with severance pay or released involuntarily from active duty with readjustment pay, and inserted provisions for payment of cost of storage by the member concerned in certain cases.
 
 Subsec. (g). Pub. L. 89–718, §§58(2), 59, inserted “is” before “placed” in cl. (1) and substituted “member's” for “members’ ”.
 
@@ -473,7 +497,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Pub. L. 107–107, div. A, title VI, §633(b), Dec. 28, 2001, 115 Stat. 1144, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the reimbursement of members of the uniformed services for mandatory pet quarantine fees incurred in connection with the mandatory quarantine of a household pet underway on the date of the enactment of this Act \[Dec. 28, 2001\] or beginning on or after that date.”
 
-Pub. L. 107–107, div. A, title VI, §634(b), Dec. 28, 2001, 115 Stat. 1144, provided that: “The amendments made by this section \[amending this section\] shall take effecton January 1, 2003, and apply with respect to an order in connection with a change of temporary or permanent station issued on or after that date.”
+Pub. L. 107–107, div. A, title VI, §634(b), Dec. 28, 2001, 115 Stat. 1144, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2003, and apply with respect to an order in connection with a change of temporary or permanent station issued on or after that date.”
 
 #### Effective Date of 2000 Amendment
 
@@ -557,7 +581,7 @@ Amendment by Pub. L. 89–101 effective May 1, 1965, and personal expenses for t
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Storage of Household Effects
 

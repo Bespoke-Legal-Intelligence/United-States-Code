@@ -6,9 +6,17 @@ In General.—If the Secretary of Transportation determines that extraordinary c
 
 (b)
 
-Essential Airport Facility Defined.—In this section, the term “essential airport facility” means a large hub airport (as defined in section 41731) in the contiguous 48 States at which one air carrier has more than 60 percent of the total annual enplanements at that airport.
+Essential Airport Facility Defined.—In this section, the term “essential airport facility” means a large hub airport in the contiguous 48 States at which one air carrier has more than 60 percent of the total annual enplanements at that airport.
 
-(Added Pub. L. 106–181, title II, §204(a), Apr. 5, 2000, 114 Stat. 93.)
+(Added Pub. L. 106–181, title II, §204(a), Apr. 5, 2000, 114 Stat. 93; amended Pub. L. 108–176, title II, §225(b)(4), Dec. 12, 2003, 117 Stat. 2529.)
+
+#### Amendments
+
+2003—Subsec. (b). Pub. L. 108–176 struck out “(as defined in section 41731)” after “large hub airport”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 

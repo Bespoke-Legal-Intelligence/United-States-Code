@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this subpart $600,000 for f
 
 #### (b) Model programs
 
-Of amounts appropriated under this section, the State Justice Institute shall expend not less than 40 percent on model programs regarding domestic violence and not less than 40 percent on model programs regarding rape and sexual assault.
+Of amounts appropriated under this section, the State Justice Institute shall expend not lessthan 40 percent on model programs regarding domestic violence and not less than 40 percent on model programs regarding rape and sexual assault.
 
 #### (c) State Justice Institute
 

@@ -46,7 +46,7 @@ Management Plan for Implementation of Financial Data Feeder Systems Compliance P
 
 &emsp;(2) A phased process (consisting of the successive phases of Awareness, Evaluation, Renovation, Validation, and Compliance) for improving systems referred to in paragraph (1) that provides for mapping financial data flow from the cognizant Department business function source (as part of the overall business process transformation strategy of the Department) to Department financial statements.
 
-&emsp;(3) Periodic submittal to the Secretary of Defense, the Deputy Secretary of Defense, and the Senior Executive Council (or any combination thereof) of reports on the progress being made in achieving financial managementtransformation goals and milestones included in the annual financial management improvement plan in 2002.
+&emsp;(3) Periodic submittal to the Secretary of Defense, the Deputy Secretary of Defense, and the Senior Executive Council (or any combination thereof) of reports on the progress being made in achieving financial management transformation goals and milestones included in the annual financial management improvement plan in 2002.
 
 &emsp;(4) Documentation of the completion of each phase specified in paragraph (2) of improvements made to each accounting, finance, and data feeder system of the Department.
 
@@ -54,7 +54,11 @@ Management Plan for Implementation of Financial Data Feeder Systems Compliance P
 
 (d)
 
-Data Feeder Systems.—In this section, the term “data feeder system” has the meaning given that term in section 2222(c)(2) of this title.
+Data Feeder Systems.—In this section, the term “data feeder system” means an automated or manual system from which information is derived for a financial management system or an accounting system.
 
-(Added Pub. L. 107–107, div. A, title X, §1009(a)(1), Dec. 28, 2001, 115 Stat. 1206.)
+(Added Pub. L. 107–107, div. A, title X, §1009(a)(1), Dec. 28, 2001, 115 Stat. 1206; amended Pub. L. 107–314, div. A, title X, §1004(h)(2), Dec. 2, 2002, 116 Stat. 2631.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–314 substituted “means an automated or manual system from which information is derived for a financial management system or an accounting system” for “has the meaning given that term in section 2222(c)(2) of this title”.
 

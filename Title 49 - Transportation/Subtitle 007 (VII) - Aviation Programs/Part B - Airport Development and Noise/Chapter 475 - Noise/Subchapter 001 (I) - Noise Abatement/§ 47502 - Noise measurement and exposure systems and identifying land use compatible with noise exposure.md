@@ -34,5 +34,5 @@ In this section, before clause (1), the words “Not later than the last day of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 47503 of this title.
+This section is referred to in sections 47141, 47503 of this title.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) the requirements for authorization of collection, storage, and processing of electronically generated and transmitted digital messages to permit any eligible person to register to vote or vote in an election, including applying for and casting an absentee ballot;
 
-&emsp;&emsp;(F) the implementation cost of an online or Internet voting or voter registration system and the costs of elections after implementation (including a comparison of total cost savings for the administration of theelectoral process by using Internet technologies or systems);
+&emsp;&emsp;(F) the implementation cost of an online or Internet voting or voter registration system and the costs of elections after implementation (including a comparison of total cost savings for the administration of the electoral process by using Internet technologies or systems);
 
 &emsp;&emsp;(G) identification of current and foreseeable online and Internet technologies for use in the registration of voters, for voting, or for the purpose of reducing election fraud, currently available or in use by election authorities;
 

@@ -68,7 +68,7 @@
 
 (3) In this subsection, the term “United States”, when used in a geographic sense, includes the territories and possessions of the United States.
 
-(k) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specificsupporting resources to be made available for the period of time for which the guidelines are to be in effect.
+(k) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide annually to the Secretaries of the military departments and to the commanders of the combatant commands written guidelines to direct the effective detection and monitoring of all potential aerial and maritime threats to the national security of the United States. Those guidelines shall include guidance on the specific force levels and specific supporting resources to be made available for the period of time for which the guidelines are to be in effect.
 
 (<i>l</i>) The Secretary shall include in the annual report to Congress under subsection (c) the following:
 
@@ -180,7 +180,7 @@ Subsection (k) is based on Pub. L. 100–202, §101(b) \[title VIII, §8042\], 1
 
 Section 8042 of the FY88 Defense Appropriations Act (Public Law 100–202) established a requirement for the Secretary of Defense to submit an annual report on the cost of stationing United States forces overseas. Under that section, the annual report is to be sent to the Committees on Appropriations of the two Houses. In codifying that section as section 113(k) of title 10, the committee added the two Armed Services Committees as committees to be sent the annual report. This minor change from the source law does not change the nature of the report to be submitted.
 
-The committee notes that the source section does not specify the period of time to be covered by the report. In the absence of statutory language specifying the period to be covered by the report, it would seem reasonable to conclude that the report should cover the previous fiscal year. The committee notes, however, that the report of the Senate Appropriations Committee on its FY88 defense appropriations bill (S. Rpt. 100–235)states that this new annual report “should cover the budget years and the 2 previous fiscal years” (page 54). The committee believes that such a requirement may be unnecessarily burdensome and in any case, if such a requirement is intended, should be stated in the statute. In the absence of clear intent, the provision is proposed to be codified without specifying the period of time to be covered by the annual report.
+The committee notes that the source section does not specify the period of time to be covered by the report. In the absence of statutory language specifying the period to be covered by the report, it would seem reasonable to conclude that the report should cover the previous fiscal year. The committee notes, however, that the report of the Senate Appropriations Committee on its FY88 defense appropriations bill (S. Rpt. 100–235) states that this new annual report “should cover the budget years and the 2 previous fiscal years” (page 54). The committee believes that such a requirement may be unnecessarily burdensome and in any case, if such a requirement is intended, should be stated in the statute. In the absence of clear intent, the provision is proposed to be codified without specifying the period of time to be covered by the annual report.
 
 In codifying this provision, the committee also changed the term “United States troops” in the source law to “United States forces” for consistency in usage in title 10 and as being preferable usage. No change in meaning is intended. The committee also changed “overseas” to “outside the United States” and defined “United States” for this purpose to include the territories and possessions of the United States. The committee was concerned that the term “overseas” read literally could include Hawaii or Guam, an interpretation clearly not intended in enacting section 8042. The committee notes that the Senate report referred to above states “For the purposes of this report \[meaning the new DOD annual report\], U.S. forces stationed overseas are considered to be those outside of the United States and its territories.”. The committee extrapolates from this statement that provisions in the report requirement relating to expenditures “overseas” and costs incurred “overseas” are also to be construed as relating to matters outside the United States and its territories and has prepared the codified provision accordingly.
 
@@ -272,6 +272,704 @@ For assignment of certain emergency preparedness functions to Secretary of Defen
 
 For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
+#### Reports on Weapons and Ammunition Obtained by Iraq
+
+Pub. L. 108–177, title III, §358, Dec. 13, 2003, 117 Stat. 2621, provided that:
+
+“(a)
+
+Preliminary Report.—Not later than 90 days after the date of the enactment of this Act \[Dec. 13, 2003\], the Director of the Defense Intelligence Agency shall, after such consultation with the Secretary of State and the Attorney General as the Director considers appropriate, submit to the appropriate committees of Congress a preliminary report on all information obtained by the Department of Defense and the intelligence community on the conventional weapons and ammunition obtained by Iraq in violation of applicable resolutions of the United Nations Security Council adopted since the invasion of Kuwait by Iraq in August 1990.
+
+“(b)
+
+Final Report.—(1) Not later than one year after the date of the enactment of this Act \[Dec. 13, 2003\], the Director shall submit to the appropriate committees of Congress a final report on the information described in subsection (a).
+
+“(2) The final report under paragraph (1) shall include such updates of the preliminary report under subsection (a) as the Director considers appropriate.
+
+“(c)
+
+Elements.—Each report under this section shall set forth, to the extent practicable, with respect to each shipment of weapons or ammunition addressed in such report the following:
+
+&emsp;“(1) The country of origin.
+
+&emsp;“(2) Any country of transshipment.
+
+“(d)
+
+Form.—Each report under this section shall be submitted in unclassified form, but may include a classified annex.
+
+“(e)
+
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+
+&emsp;“(1) the Select Committee on Intelligence and the Committees on Armed Services and Foreign Relations of the Senate; and
+
+&emsp;“(2) the Permanent Select Committee on Intelligence and the Committees on Armed Services and International Relations of the House of Representatives.”
+
+Pub. L. 108–136, div. A, title XII, §1204, Nov. 24, 2003, 117 Stat. 1649, provided that:
+
+“(a)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and International Relations of the House of Representatives a report on the acquisition by Iraq of weapons of mass destruction and associated delivery systems and the acquisition by Iraq of advanced conventional weapons.
+
+“(b)
+
+Matters To Be Included.—The report shall include the following:
+
+&emsp;“(1) A description of any materials, technology, and know-how that Iraq was able to obtain for its nuclear, chemical, biological, ballistic missile, and unmanned aerial vehicle programs, and advanced conventional weapons programs, from 1979 through April 2003 from entities (including Iraqi citizens) outside of Iraq, as well as a description of how Iraq obtained these capabilities from those entities.
+
+&emsp;“(2) An assessment of the degree to which United States, foreign, and multilateral export control regimes prevented acquisition by Iraq of weapons of mass destruction-related technology and materials and advanced conventional weapons and delivery systems since the commencement of international inspections in Iraq.
+
+&emsp;“(3) An assessment of the effectiveness of United Nations sanctions at halting the flow of militarily-useful contraband to Iraq from 1991 until the end of Operation Iraqi Freedom.
+
+&emsp;“(4) An assessment of how Iraq was able to evade International Atomic Energy Agency and United Nations inspections regarding chemical, nuclear, biological, and missile weapons and related capabilities.
+
+&emsp;“(5) Identification and a catalog of the entities and countries that transferred militarily useful contraband and items described pursuant to paragraph (1) to Iraq between 1991 and the end of major combat operations of Operation Iraqi Freedom on May 1, 2003, and the nature of that contraband and of those items.
+
+“(c)
+
+Form of Report.—The report shall be submitted in unclassified form with a classified annex, if necessary.”
+
+#### Studies of Fleet Platform Architectures for the Navy
+
+Pub. L. 108–136, div. A, title II, §216, Nov. 24, 2003, 117 Stat. 1418, provided that:
+
+“(a)
+
+Independent Studies.—(1) The Secretary of Defense shall provide for the performance of two independent studies of alternative future fleet platform architectures for the Navy.
+
+“(2) The Secretary shall forward the results of each study to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] not later than January 15, 2005.
+
+“(3) Each such study shall be submitted both in unclassified, and to the extent necessary, in classified versions.
+
+“(b)
+
+Entities to Perform Studies.—The Secretary of Defense shall provide for the studies under subsection (a) to be performed as follows:
+
+&emsp;“(1) One study shall be performed by a federally funded research and development center.
+
+&emsp;“(2) The other study shall be performed by the Office of Force Transformation within the Office of the Secretary of Defense and shall include participants from (A) the Office of Net Assessment within the Office of the Secretary of Defense, (B) the Department of the Navy, and (C) the Joint Staff.
+
+“(c)
+
+Performance of Studies.—(1) The Secretary of Defense shall require the two studies under this section to be conducted independently of each other.
+
+“(2) In performing a study under this section, the organization performing the study, while being aware of the current and projected fleet platform architectures, shall not be limited by the current or projected fleet platform architecture and shall consider the following:
+
+&emsp;“(A) The National Security Strategy of the United States.
+
+&emsp;“(B) Potential future threats to the United States and to United States naval forces.
+
+&emsp;“(C) The traditional roles and missions of United States naval forces.
+
+&emsp;“(D) Alternative roles and missions for United States naval forces.
+
+&emsp;“(E) Other government and non-government analyses that would contribute to the study through variations in study assumptions or potential scenarios.
+
+&emsp;“(F) The role of evolving technology on future naval forces.
+
+&emsp;“(G) Opportunities for reduced manning and unmanned ships and vehicles in future naval forces.
+
+“(d)
+
+Study Results.—The results of each study under this section shall—
+
+&emsp;“(1) present the alternative fleet platform architectures considered, with assumptions and possible scenarios identified for each;
+
+&emsp;“(2) provide for presentation of minority views of study participants; and
+
+&emsp;“(3) for the recommended architecture, provide—
+
+&emsp;&emsp;“(A) the numbers, kinds, and sizes of vessels, the numbers and types of associated manned and unmanned vehicles, and the basic capabilities of each of those platforms; and
+
+&emsp;&emsp;“(B) other information needed to understand that architecture in basic form and the supporting analysis.”
+
+#### Report Regarding Impact of Civilian Community Encroachment and Certain Legal Requirements on Military Installations and Ranges and Plan To Address Encroachment
+
+Pub. L. 108–136, div. A, title III, §320, Nov. 24, 2003, 117 Stat. 1435, provided that:
+
+“(a)
+
+Study Required.—The Secretary of Defense shall conduct a study on the impact, if any, of the following types of encroachment issues affecting military installations and operational ranges:
+
+&emsp;“(1) Civilian community encroachment on those military installations and ranges whose operational training activities, research, development, test, and evaluation activities, or other operational, test and evaluation, maintenance, storage, disposal, or other support functions require, or in the future reasonably may require, safety or operational buffer areas. The requirement for such a buffer area may be due to a variety of factors, including air operations, ordnance operations and storage, or other activities that generate or might generate noise, electro-magnetic interference, ordnance arcs, or environmental impacts that require or may require safety or operational buffer areas.
+
+&emsp;“(2) Compliance by the Department of Defense with State Implementation Plans for Air Quality under section 110 of the Clean Air Act (42 U.S.C. 7410).
+
+&emsp;“(3) Compliance by the Department of Defense with the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
+
+“(b)
+
+Matters To Be Included With Respect to Civilian Community Encroachments.—With respect to paragraph (1) of subsection (a), the study shall include the following:
+
+&emsp;“(1) A list of all military installations described in subsection (a)(1) at which civilian community encroachment is occurring.
+
+&emsp;“(2) A description and analysis of the types and degree of such civilian community encroachment at each military installation included on the list.
+
+&emsp;“(3) An analysis, including views and estimates of the Secretary of Defense, of the current and potential future impact of such civilian community encroachment on operational training activities, research, development, test, and evaluation activities, and other significant operational, test and evaluation, maintenance, storage, disposal, or other support functions performed by military installations included on the list. The analysis shall include the following:
+
+&emsp;&emsp;“(A) A review of training and test ranges at military installations, including laboratories and technical centers of the military departments, included on the list.
+
+&emsp;&emsp;“(B) A description and explanation of the trends of such encroachment, as well as consideration of potential future readiness problems resulting from unabated encroachment.
+
+&emsp;“(4) An estimate of the costs associated with current and anticipated partnerships between the Department of Defense and non-Federal entities to create buffer zones to preclude further development around military installations included on the list,and the costs associated with the conveyance of surplus property around such military installations for purposes of creating buffer zones.
+
+&emsp;“(5) Options and recommendations for possible legislative or budgetary changes necessary to mitigate current and anticipated future civilian community encroachment problems.
+
+“(c)
+
+Matters To Be Included With Respect to Compliance With Specified Laws.—With respect to paragraphs (2) and (3) of subsection (a), the study shall include the following:
+
+&emsp;“(1) A list of all military installations and other locations at which the Armed Forces are encountering problems related to compliance with the laws specified in such paragraphs.
+
+&emsp;“(2) A description and analysis of the types and degree of compliance problems encountered.
+
+&emsp;“(3) An analysis, including views and estimates of the Secretary of Defense, of the current and potential future impact of such compliance problems on the following functions performed at military installations:
+
+&emsp;&emsp;“(A) Operational training activities.
+
+&emsp;&emsp;“(B) Research, development, test, and evaluation activities.
+
+&emsp;&emsp;“(C) Other significant operational, test and evaluation, maintenance, storage, disposal, or other support functions.
+
+&emsp;“(4) A description and explanation of the trends of such compliance problems, as well as consideration of potential future readiness problems resulting from such compliance problems.
+
+“(d)
+
+Plan to Respond to Encroachment Issues.—On the basis of the study conducted under subsection (a), including the specific matters required to be addressed by subsections (b) and (c), the Secretary of Defense shall prepare a plan to respond to the encroachment issues described in subsection (a) affecting military installations and operational ranges.
+
+“(e)
+
+Reporting Requirements.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the following reports regarding the study conducted under subsection (a), including the specific matters required to be addressed by subsections (b) and (c):
+
+&emsp;“(1) Not later than January 31, 2004, an interim report describing the progress made in conducting the study and containing the information collected under the study as of that date.
+
+&emsp;“(2) Not later than January 31, 2006, a report containing the results of the study and the encroachment response plan required by subsection (d).
+
+&emsp;“(3) Not later than January 31, 2007, and each January 31 thereafter through January 31, 2010, a report describing the progress made in implementing the encroachment response plan.”
+
+#### High-Performing Organization Business Process Reengineering Pilot Program
+
+Pub. L. 108–136, div. A, title III, §337, Nov. 24, 2003, 117 Stat. 1445, provided that:
+
+“(a)
+
+Pilot Program.—The Secretary of Defense shall establish a pilot program under which the Secretary concerned shall create, or continue the implementation of, high-performing organizations through the conduct of a Business Process Reengineering initiative at selected military installations and facilities under the jurisdiction of the Secretary concerned.
+
+“(b)
+
+Effect of Participation in Pilot Program.—(1) During the period of an organization's participation in the pilot program, including the periods referred to in paragraphs (2) and (3) of subsection (f), the Secretary concerned may not require the organization to undergo any Office of Management and Budget Circular A–76 competition or other public-private competition involving any function of the organization covered by the Business Process Reengineering initiative. The organization may elect to undergo such a competition as part of the initiative.
+
+“(2) Civilian employee or military personnel positions of the participating organization that are part of the Business Process Reengineering initiative shall be counted toward any numerical goals, target, or quota that the Secretary concerned is required or requested to meet during the term of the pilot program regarding the number of positions to be covered by public-private competitions.
+
+“(c)
+
+Eligible Organizations.—Subject to subsection (d), the Secretary concerned may select two types of organizations to participate in the pilot program:
+
+&emsp;“(1) Organizations that underwent a Business Process Reengineering initiative within the preceding five years, achieved major performance enhancements under the initiative, and will be able to sustain previous or achieve new performance goals through the continuation of its existing or completed Business Process Reengineering plan.
+
+&emsp;“(2) Organizations that have not undergone or have not successfully completed a Business Process Reengineering initiative, but which propose to achieve, and reasonably could reach, enhanced performance goals through implementation of a Business Process Reengineering initiative.
+
+“(d)
+
+Additional Eligibility Requirements.—(1) To be eligible for selection to participate in the pilot program under subsection (c)(1), an organization described in such subsection shall demonstrate, to the satisfaction of the Secretary concerned, the completion of a total organizational assessment that resulted in enhanced performance measures at least comparable to those performance measures that might be achieved through competitive sourcing.
+
+“(2) To be eligible for selection to participate in the pilot program under subsection (c)(2), an organization described in such subsection shall identify, to the satisfaction of the Secretary concerned—
+
+&emsp;“(A) functions, processes, and measures to be studied under the Business Process Reengineering initiative;
+
+&emsp;“(B) adequate resources to carry out the Business Process Reengineering initiative; and
+
+&emsp;“(C) labor-management agreements in place to ensure effective implementation of the Business Process Reengineering initiative.
+
+“(e)
+
+Limitation on Number of Participants.—Total participants in the pilot program is limited to eight military installations and facilities, with some participants to be drawn from organizations described in subsection (c)(1) and some participants to be drawn from organizations described in subsection (c)(2).
+
+“(f)
+
+Implementation and Duration.—(1) The implementation and management of a Business Process Reengineering initiative under the pilot program shall be the responsibility of the commander of the military installation or facility at which the Business Process Reengineering initiative is carried out.
+
+“(2) An organization selected to participate in the pilot program shall be given a reasonable initial period, to be determined by the Secretary concerned, in which the organization must implement the Business Process Reengineering initiative. At the end of this period, the Secretary concerned shall determine whether the organization has achieved initial progress toward designation as a high-performing organization. In the absence of such progress, the Secretary concerned shall terminate the organization's participation in the pilot program.
+
+“(3) If an organization successfully completes implementation of the Business Process Reengineering initiative under paragraph (2), the Secretary concerned shall designate the organization as a high-performing organization and grant the organization an additional five-year period in which to achieve projected or planned efficiencies and savings under the pilot program.
+
+“(g)
+
+Reviews and Reports.—The Secretary concerned shall conduct annual performance reviews of the participating organizations or functions under the jurisdiction of the Secretary concerned. Reviews and reports shall evaluate organizational performance measures or functional performance measures and determine whether organizations are performing satisfactorily for purposes of continuing participation in the pilot program.
+
+“(h)
+
+Performance Measures.—Performance measures utilized in the pilot program should include the following, which shall be measured against organizational baselines determined before participation in the pilot program:
+
+&emsp;“(1) Costs, savings, and overall financial performance of the organization.
+
+&emsp;“(2) Organic knowledge, skills or expertise.
+
+&emsp;“(3) Efficiency and effectiveness of key functions or processes.
+
+&emsp;“(4) Efficiency and effectiveness of the overall organization.
+
+&emsp;“(5) General customer satisfaction.
+
+“(i)
+
+Definitions.—In this section\[:\]
+
+&emsp;“(1) The term ‘Business Process Reengineering’ refers to an organization's complete and thorough analysis and reengineering of mission and support functions and processes to achieve improvements in performance, including a fundamental reshaping of the way work is done to better support an organization's mission and reduce costs.
+
+&emsp;“(2) The term ‘high-performing organization’ means an organization whose performance exceeds that of comparable providers, whether public or private.
+
+&emsp;“(3) The term ‘Secretary concerned’ means the Secretary of a military department and the Secretary of Defense, with respect to matters concerning the Defense Agencies.”
+
+#### Assessment by Secretary of Defense
+
+Pub. L. 108–136, div. A, title V, §517(b), Nov. 24, 2003, 117 Stat. 1461, provided that:
+
+“Not later than one year after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the following:
+
+&emsp;“(1) A description of the effects on reserve component recruitment and retention that have resulted from—
+
+&emsp;&emsp;“(A) the calls and orders of Reserves to active duty during fiscal years 2002 and 2003; and
+
+&emsp;&emsp;“(B) the tempo of the service of the Reserves on the active duty to which called or ordered.
+
+&emsp;“(2) A description of changes in the Armed Forces, including any changes in the allocation of roles and missions, in force structure, and in capabilities between the active components and the reserve components of the Armed Forces, that are envisioned by the Secretary of Defense on the basis of—
+
+&emsp;&emsp;“(A) the effects discussed under paragraph (1);
+
+&emsp;&emsp;“(B) the lessons learned from calling and ordering the reserve components to active duty during fiscal years 2002 and 2003; or
+
+&emsp;&emsp;“(C) future military force structure and capabilities requirements.
+
+&emsp;“(3) On the basis of the lessons learned as a result of calling and ordering members of the reserve components to active duty during fiscal years 2002 and 2003, an assessment of the process for calling and ordering such members to active duty, preparing such members for active duty, processing such members into the force upon entry onto active duty, and deploying such members, including an assessment of the adequacy of the alert and notification process from the perspectives of individual members, of reserve component units, and of employers of such members.”
+
+#### Policy on Public Identification of Casualties
+
+Pub. L. 108–136, div. A, title V, §546, Nov. 24, 2003, 117 Stat. 1479, provided that:
+
+“(a)
+
+Requirement for Policy.—Not later than 180 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall prescribe the policy of the Department of Defense on public release of the name or other personally identifying information of any member of the Army, Navy, Air Force, or Marine Corps who while on active duty or performing inactive-duty training is killed or injured, whose duty status becomes unknown, or who is otherwise considered to be a casualty.
+
+“(b)
+
+Guidance on Timing of Release.—The policy under subsection (a) shall include guidance for ensuring that any public release of information on a member under the policy occurs only after the lapse of an appropriate period following notification of the next-of-kin regarding the casualty status of such member.”
+
+#### Plan for Prompt Global Strike Capability
+
+Pub. L. 108–136, div. A, title X, §1032, Nov. 24, 2003, 117 Stat. 1605, provided that:
+
+“(a)
+
+Integrated Plan for Prompt Global Strike Capability.—The Secretary of Defense shall establish an integrated plan for developing, deploying, and sustaining a prompt global strike capability in the Armed Forces. The Secretary shall update the plan annually.
+
+“(b)
+
+Annual Reports.—(1) Not later than April 1 of each of 2004, 2005, and 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the plan established under subsection (a).
+
+“(2) Each report under paragraph (1) shall include the following:
+
+&emsp;“(A) A description and assessment of the targets against which long-range strike assets might be directed and the conditions under which those assets might be used.
+
+&emsp;“(B) The role of, and plans for ensuring, sustainment and modernization of current long-range strike assets, including bombers, intercontinental ballistic missiles, and submarine-launched ballistic missiles.
+
+&emsp;“(C) A description of the capabilities desired for advanced long-range strike assets and plans to achieve those capabilities.
+
+&emsp;“(D) A description of the capabilities desired for advanced conventional munitions and the plans to achieve those capabilities.
+
+&emsp;“(E) An assessment of advanced nuclear concepts that could contribute to the prompt global strike mission.
+
+&emsp;“(F) An assessment of the command, control, and communications capabilities necessary to support prompt global strike capabilities.
+
+&emsp;“(G) An assessment of intelligence, surveillance, and reconnaissance capabilities necessary to support prompt global strike capabilities.
+
+&emsp;“(H) A description of how prompt global strike capabilities are to be integrated with theater strike capabilities.
+
+&emsp;“(I) An estimated schedule for achieving the desired prompt global strike capabilities.
+
+&emsp;“(J) The estimated cost of achieving the desired prompt global strike capabilities.
+
+&emsp;“(K) A description of ongoing and future studies necessary for updating the plan appropriately.”
+
+#### Reports on Military Operations and Reconstruction Activities in Iraq and Afghanistan
+
+Pub. L. 108–106, title I, §1120, Nov. 6, 2003, 117 Stat. 1219, provided that:
+
+“(a) Not later than April 30 and October 31 of each year, the Secretary of Defense shall submit to Congress a report on the military operations of the Armed Forces and the reconstruction activities of the Department of Defense in Iraq and Afghanistan.
+
+“(b) Each report shall include the following information:
+
+&emsp;“(1) For each of Iraq and Afghanistan for the half-fiscal year ending during the month preceding the due date of the report, the amount expended for military operations of the Armed Forces and the amountexpended for reconstruction activities, together with the cumulative total amounts expended for such operations and activities.
+
+&emsp;“(2) An assessment of the progress made toward preventing attacks on United States personnel.
+
+&emsp;“(3) An assessment of the effects of the operations and activities in Iraq and Afghanistan on the readiness of the Armed Forces.
+
+&emsp;“(4) An assessment of the effects of the operations and activities in Iraq and Afghanistan on the recruitment and retention of personnel for the Armed Forces.
+
+&emsp;“(5) For the half-fiscal year ending during the month preceding the due date of the report, the costs incurred for repair of Department of Defense equipment used in the operations and activities in Iraq and Afghanistan.
+
+&emsp;“(6) The foreign countries, international organizations, and nongovernmental organizations that are contributing support for the ongoing military operations and reconstruction activities, together with a discussion of the amount and types of support contributed by each during the half-fiscal year ending during the month preceding the due date of the report.
+
+&emsp;“(7) The extent to which, and the schedule on which, the Selected Reserve of the Ready Reserve of the Armed Forces is being involuntarily ordered to active duty under section 12304 of title 10, United States Code.
+
+&emsp;“(8) For each unit of the National Guard of the United States and the other reserve components of the Armed Forces on active duty pursuant to an order to active duty under section 12304 of title 10, United States Code, the following information:
+
+&emsp;&emsp;“(A) The unit.
+
+&emsp;&emsp;“(B) The projected date of return of the unit to its home station.
+
+&emsp;&emsp;“(C) The extent (by percentage) to which the forces deployed within the United States and outside the United States in support of a contingency operation are composed of reserve component forces.”
+
+#### Uniform Financial Management System for Department of Defense Test and Evaluation Facilities
+
+Pub. L. 107–314, div. A, title II, §233, Dec. 2, 2002, 116 Stat. 2490, provided that:
+
+“(a)
+
+Requirement for System.—The Secretary of Defense shall implement a single financial management and accounting system for all test and evaluation facilities of the Department of Defense. The Secretary shall implement such system as soon as practicable, and shall establish the objective that such system be implemented not later than September 30, 2006.
+
+“(b)
+
+System Features.—The system required by subsection (a) shall be designed to achieve, at a minimum, the following functional objectives:
+
+&emsp;“(1) Enable managers within the Department of Defense to compare the costs of carrying out test and evaluation activities in the various facilities of the military departments.
+
+&emsp;“(2) Enable the Secretary of Defense—
+
+&emsp;&emsp;“(A) to make prudent investment decisions; and
+
+&emsp;&emsp;“(B) to reduce the extent to which unnecessary costs of owning and operating test and evaluation facilities of the Department of Defense are incurred.
+
+&emsp;“(3) Enable the Department of Defense to track the total cost of test and evaluation activities.
+
+&emsp;“(4) Comply with the financial management architecture established by the Secretary.”
+
+#### Training Range Sustainment Plan, Global Status of Resources and Training System, and Training Range Inventory
+
+Pub. L. 107–314, div. A, title III, §366, Dec. 2, 2002, 116 Stat. 2522, provided that:
+
+“(a)
+
+Plan Required.—(1) The Secretary of Defense shall develop a comprehensive plan for using existing authorities available to the Secretary of Defense and the Secretaries of the military departments to address training constraints caused by limitations on the use of military lands, marine areas, and airspace that are available in the United States and overseas for training of the Armed Forces.
+
+“(2) As part of the preparation of the plan, the Secretary of Defense shall conduct the following:
+
+&emsp;“(A) An assessment of current and future training range requirements of the Armed Forces.
+
+&emsp;“(B) An evaluation of the adequacy of current Department of Defense resources (including virtual and constructive training assets as well as military lands, marine areas, and airspace available in the United States and overseas) to meet those current and future training range requirements.
+
+“(3) The plan shall include the following:
+
+&emsp;“(A) Proposals to enhance training range capabilities and address any shortfalls in current Department of Defense resources identified pursuant to the assessment and evaluation conducted under paragraph (2).
+
+&emsp;“(B) Goals and milestones for tracking planned actions and measuring progress.
+
+&emsp;“(C) Projected funding requirements for implementing planned actions.
+
+&emsp;“(D) Designation of an office in the Office of the Secretary of Defense and in each of the military departments that will have lead responsibility for overseeing implementation of the plan.
+
+“(4) At the same time as the President submits to Congress the budget for fiscal year 2004, the Secretary of Defense shall submit to Congress a report describing the progress made in implementing this subsection, including—
+
+&emsp;“(A) the plan developed under paragraph (1);
+
+&emsp;“(B) the results of the assessment and evaluation conducted under paragraph (2); and
+
+&emsp;“(C) any recommendations that the Secretary may have for legislative or regulatory changes to address training constraints identified pursuant to this section.
+
+“(5) At the same time as the President submits to Congress the budget for each of fiscal years 2005 through 2008, the Secretary shall submit to Congress a report describing the progress made in implementing the plan and any additional actions taken, or to be taken, to address training constraints caused by limitations on the use of military lands, marine areas, and airspace.
+
+“(b)
+
+Readiness Reporting Improvement.—Not later than June 30, 2003, the Secretary of Defense, using existing measures within the authority of the Secretary, shall submit to Congress a report on the plans of the Department of Defense to improve the Global Status of Resources and Training System to reflect the readiness impact that training constraints caused by limitations on the use of military lands, marine areas, and airspace have on specific units of the Armed Forces.
+
+“(c)
+
+Training Range Inventory.—(1) The Secretary of Defense shall develop and maintain a training range inventory for each of the Armed Forces—
+
+&emsp;“(A) to identify all available operational training ranges;
+
+&emsp;“(B) to identify all training capacities and capabilities available at each training range; and
+
+&emsp;“(C) to identify training constraints caused by limitations on the use of military lands, marine areas, and airspace at each training range.
+
+“(2) The Secretary of Defense shall submit an initial inventory to Congress at the same time as the President submits the budget for fiscal year 2004 and shall submit an updated inventory to Congress at the same time as the President submits the budget for fiscal years 2005 through 2008.
+
+“(d) GAO
+
+Evaluation.—The Secretary of Defense shall transmit copies of each report required by subsections (a) and (b) to the Comptroller General. Within60 days after receiving a report, the Comptroller General shall submit to Congress an evaluation of the report.
+
+“(e)
+
+Armed Forces Defined.—In this section, the term ‘Armed Forces’ means the Army, Navy, Air Force, and Marine Corps.”
+
+#### Development and Implementation of Financial Management Enterprise Architecture
+
+Pub. L. 107–314, div. A, title X, §1004, Dec. 2, 2002, 116 Stat. 2629, provided that:
+
+“(a)
+
+Requirement for Enterprise Architecture and for Transition Plan.—Not later than May 1, 2003, the Secretary of Defense shall develop—
+
+&emsp;“(1) a financial management enterprise architecture for all budgetary, accounting, finance, enterprise resource planning, and mixed information systems of the Department of Defense; and
+
+&emsp;“(2) a transition plan for implementing that financial management enterprise architecture.
+
+“(b)
+
+Composition of Enterprise Architecture.—(1) The financial management enterprise architecture developed under subsection (a)(1) shall describe an information infrastructure that, at a minimum, would enable the Department of Defense to—
+
+&emsp;“(A) comply with all Federal accounting, financial management, and reporting requirements;
+
+&emsp;“(B) routinely produce timely, accurate, and reliable financial information for management purposes;
+
+&emsp;“(C) integrate budget, accounting, and program information and systems; and
+
+&emsp;“(D) provide for the systematic measurement of performance, including the ability to produce timely, relevant, and reliable cost information.
+
+“(2) That enterprise architecture shall also include policies, procedures, data standards, and system interface requirements that are to apply uniformly throughout the Department of Defense.
+
+“(c)
+
+Composition of Transition Plan.—The transition plan developed under subsection (a)(2) shall include the following:
+
+&emsp;“(1) The acquisition strategy for the enterprise architecture, including specific time-phased milestones, performance metrics, and financial and nonfinancial resource needs.
+
+&emsp;“(2) A listing of the mission critical or mission essential operational and developmental financial and nonfinancial management systems of the Department of Defense, as defined by the Under Secretary of Defense (Comptroller), consistent with budget justification documentation, together with—
+
+&emsp;&emsp;“(A) the costs to operate and maintain each of those systems during fiscal year 2002; and
+
+&emsp;&emsp;“(B) the estimated cost to operate and maintain each of those systems during fiscal year 2003.
+
+&emsp;“(3) A listing of the operational and developmental financial management systems of the Department of Defense as of the date of the enactment of this Act \[Dec. 2, 2002\] (known as ‘legacy systems’) that will not be part of the objective financial and nonfinancial management system, together with the schedule for terminating those legacy systems that provides for reducing the use of those legacy systems in phases.
+
+“(d)
+
+Conditions for Obligation of Significant Amounts for Financial System Improvements.—An amount in excess of $1,000,000 may be obligated for a defense financial system improvement only if the Under Secretary of Defense (Comptroller) makes a determination regarding that improvement as follows:
+
+&emsp;“(1) Before the date of an approval specified in paragraph (2), a determination that the defense financial system improvement is necessary for either of the following reasons:
+
+&emsp;&emsp;“(A) To achieve a critical national security capability or address a critical requirement in an area such as safety or security.
+
+&emsp;&emsp;“(B) To prevent a significant adverse effect (in terms of a technical matter, cost, or schedule) on a project that is needed to achieve an essential capability, taking into consideration in the determination the alternative solutions for preventing the adverse effect.
+
+&emsp;“(2) On and after the date of any approval by the Secretary of Defense of a financial management enterprise architecture and a transition plan that satisfy the requirements of this section, a determination that the defense financial system improvement is consistent with both the enterprise architecture and the transition plan.
+
+“(e)
+
+Congressional Reports.—Not later than March 15 of each year from 2004 through 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress of the Department of Defense in implementing the enterprise architecture and transition plan required by this section. Each report shall include, at a minimum—
+
+&emsp;“(1) a description of the actions taken during the preceding fiscal year to implement the enterprise architecture and transition plan (together with the estimated costs of such actions);
+
+&emsp;“(2) an explanation of any action planned in the enterprise architecture and transition plan to be taken during the preceding fiscal year that was not taken during that fiscal year;
+
+&emsp;“(3) a description of the actions taken and planned to be taken during the current fiscal year to implement the enterprise architecture and transition plan (together with the estimated costs of such actions); and
+
+&emsp;“(4) a description of the actions taken and planned to be taken during the next fiscal year to implement the enterprise architecture and transition plan (together with the estimated costs of such actions).
+
+“(f)
+
+Comptroller General Review.—Not later than 60 days after the approval of an enterprise architecture and transition plan in accordance with the requirements of subsection (a), and not later than 60 days after the submission of an annual report required by subsection (e), the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an assessment of the extent to which the actions taken by the Department comply with the requirements of this section.
+
+“(g)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘defense financial system improvement’ means the acquisition of a new budgetary, accounting, finance, enterprise resource planning, or mixed information system for the Department of Defense or a modification of an existing budgetary, accounting, finance, enterprise resource planning, or mixed information system of the Department of Defense. Such term does not include routine maintenance and operation of any such system.
+
+&emsp;“(2) The term ‘mixed information system’ means an information system that supports financial and non-financial functions of the Federal Government as defined in Office of Management and Budget Circular A–127 (Financial management Systems).
+
+“(h)
+
+Repeal.—(1) \[Repealed section 2222 of this title and amended analysis for chapter 131 of this title.\]
+
+“(2) \[Amended section 185 of this title.\]”
+
+#### Reliability of Department of Defense Financial Statements
+
+Pub. L. 107–107, div. A, title X, §1008, Dec. 28, 2001, 115 Stat. 1204, provided that:
+
+“(a)
+
+Annual Report on Reliability.—(1) Not later than September 30 of each year but subject to subsection (f), the Secretary of Defense shall submit to the recipients specified in paragraph (3) a report on the reliability of the Department of Defense financial statements, including the financial statements of each component of the Department that is required to prepare a financial statement under section 3515(c) of title 31, United States Code.
+
+“(2) The annual report shall contain the following:
+
+&emsp;“(A) A conclusion regarding whether the policies and procedures of the Department of Defense, and the systems used within the Department of Defense, for the preparation of financial statements allow the achievement of reliability in those financial statements.
+
+&emsp;“(B) For each of the financial statements prepared for the Department of Defense for the fiscal year in which the report is submitted, a conclusion regarding the expected reliability of the financial statement (evaluated on the basis of Office of Management and Budget guidance on financial statements), together with a discussion of the major deficiencies to be expected in the statement.
+
+&emsp;“(C) A summary of the specific sections of the annual Financial Management Improvement Plan of the Department of Defense, current as of the date of the report, that—
+
+&emsp;&emsp;“(i) detail the priorities, milestones, and measures of success that apply to the preparation of the financial statements;
+
+&emsp;&emsp;“(ii) detail the planned improvements in the process for the preparation of financial statements that are to be implemented within 12 months after the date on which the plan is issued; and
+
+&emsp;&emsp;“(iii) provide an estimate of when each financial statement will convey reliable information.
+
+“(3) The annual report shall be submitted to the following:
+
+&emsp;“(A) The Committee on Armed Services and the Committee on Governmental Affairs of the Senate.
+
+&emsp;“(B) The Committee on Armed Services and the Committee on Government Reform of the House of Representatives.
+
+&emsp;“(C) The Director of the Office of Management and Budget.
+
+&emsp;“(D) The Secretary of the Treasury.
+
+&emsp;“(E) The Comptroller General of the United States.
+
+“(4) The Secretary of Defense shall make a copy of the annual report available to the Inspector General of the Department of Defense.
+
+“(b)
+
+Minimization of Use of Resources for Unreliable Financial Statements.—(1) With respect to each financial statement for a fiscal year that the Secretary of Defense assesses as being expected to be unreliable in the annual report under subsection (a), the Under Secretary of Defense (Comptroller) shall take appropriate actions to minimize, consistent with the benefits to be derived, the resources (including contractor support) that are used to develop, compile, and report the financial statement.
+
+“(2) With the annual budget justifications for the Department of Defense submitted to Congress each year, the Under Secretary of Defense (Comptroller) shall submit, with respect to the fiscal year in which submitted, the preceding fiscal year, and the following fiscal year, the following information:
+
+&emsp;“(A) An estimate of the resources that the Department of Defense is saving or expects to save as a result of actions taken and to be taken under paragraph (1) with respect to the preparation of financial statements.
+
+&emsp;“(B) A discussion of how the resources saved as estimated under subparagraph (A) have been redirected or are to be redirected from the preparation of financial statements to the improvement of systems underlying financial management within the Department of Defense and to the improvement of financial management policies, procedures, and internal controls within the Department of Defense.
+
+“(c)
+
+Information to Auditors.—Not later than October 31 of each year, the Under Secretary of Defense (Comptroller) and the Assistant Secretary of each military department with responsibility for financial management and comptroller functions shall each provide to the auditors of the financial statement of that official's department for the fiscal year ending during the preceding month that official's preliminary management representation, in writing, regarding the expected reliability of the financial statement. The representation shall be consistent with guidance issued by the Director of the Office of Management and Budget and shall include the basis for the reliability assessment stated in the representation.
+
+“(d)
+
+Limitation on Inspector General Audits.—(1) On each financial statement that an official asserts is unreliable under subsection (b) or (c), the Inspector General of the Department of Defense shall only perform the audit procedures required by generally accepted government auditing standards consistent with any representation made by management.
+
+“(2) With the annual budget justifications for the Department of Defense submitted to Congress each year, the Under Secretary of Defense (Comptroller) shall submit, with respect to the fiscal year in which submitted, the preceding fiscal year, and the following fiscal year, information which the Inspector General shall report to the Under Secretary, as follows:
+
+&emsp;“(A) An estimate of the resources that the Inspector General is saving or expects to save as a result of actions taken and to be taken under paragraph (1) with respect to the auditing of financial statements.
+
+&emsp;“(B) A discussion of how the resources saved as estimated under subparagraph (A) have been redirected or are to be redirected from the auditing of financial statements to the oversight and improvement of systems underlying financial management within the Department of Defense and to the oversight and improvement of financial management policies, procedures, and internal controls within the Department of Defense.
+
+“(e)
+
+Effective Date.—The requirements of this section shall apply with respect to financial statements for fiscal years after fiscal year 2001 and to the auditing of those financial statements.
+
+“(f)
+
+Termination of Applicability.—If the Secretary of Defense certifies to the Inspector General of the Department of Defense that the financial statement for the Department of Defense, or a financial statement for a component of the Department of Defense, for a fiscal year is reliable, this section shall not apply with respect to that financial statement or to any successive financial statement for the Department of Defense, or for that component, as the case may be, for any later fiscal year.”
+
+#### Annual Report on the Conduct of Military Operations Conducted as Part of Operation Enduring Freedom
+
+Pub. L. 107–314, div. A, title X, §1043, Dec. 2, 2002, 116 Stat. 2646, provided that:
+
+“(a)
+
+Reports Required.—(1) The Secretary of Defense shall submit to the congressional committees specified in subsection (d) an annual report on the conduct of military operations conducted as part of Operation Enduring Freedom. The first report, which shall include a definition of the military operations carried out as part of Operation Enduring Freedom, shall be submitted not later than June 15, 2003. Subsequent reports shall be submitted not later than June 15 each year, and the final report shall be submitted not later than 180 days after the date (as determined by the Secretary of Defense) of the cessation of hostilities undertaken as part of Operation Enduring Freedom.
+
+“(2) Each report under this section shall be prepared in consultation with the Chairman of the Joint Chiefs of Staff, the commander of the United States Central Command, the Director of Central Intelligence, and such other officials as the Secretary considers appropriate.
+
+“(3) Each such report shall be submitted in both a classified form and an unclassified form, as necessary.
+
+“(b)
+
+Special Matters To Be Included.—Each report under this section shall include the following:
+
+&emsp;“(1) A discussion of the command, control, coordination, and support relationship between United States special operations forces and Central Intelligence Agency elements participating in Operation Enduring Freedom and any lessons learned from the joint conduct of operations by those forces and elements.
+
+&emsp;“(2) Recommendations to improve operational readiness and effectiveness of these forces and elements.
+
+“(c)
+
+Other Matters To Be Included.—Each report under this section shall include a discussion, with a particular emphasis on accomplishments and shortcomings, of the following matters with respect to Operation Enduring Freedom:
+
+&emsp;“(1) The political and military objectives of the United States.
+
+&emsp;“(2) The military strategy of the United States to achieve those political and military objectives.
+
+&emsp;“(3) The concept of operations, including any new operational concepts, for the operation.
+
+&emsp;“(4) The benefits and disadvantages of operating with local opposition forces.
+
+&emsp;“(5) The benefits and disadvantages of operating in a coalition with the military forces of allied and friendly nations.
+
+&emsp;“(6) The cooperation of nations in the region for overflight, basing, command and control, and logistic and other support.
+
+&emsp;“(7) The conduct of relief operations both during and after the period of hostilities.
+
+&emsp;“(8) The conduct of close air support (CAS), particularly with respect to the timeliness, efficiency, and effectiveness of such support.
+
+&emsp;“(9) The use of unmanned aerial vehicles for intelligence, surveillance, reconnaissance, and combat support to operational forces.
+
+&emsp;“(10) The use and performance of United States and coalition military equipment, weapon systems, and munitions.
+
+&emsp;“(11) The effectiveness of reserve component forces, including their use and performance in the theater of operations.
+
+&emsp;“(12) The importance and effectiveness of the International Security Assistance Force.
+
+&emsp;“(13) The importance and effectiveness of United States civil affairs forces.
+
+&emsp;“(14) The anticipated duration of the United States military presence in Afghanistan.
+
+&emsp;“(15) The most critical lessons learned that could lead to long-term doctrinal, organizational, and technological changes.
+
+“(d)
+
+Congressional Committees.—The committees referred to in subsection (a)(1) are the following:
+
+&emsp;“(1) The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+
+&emsp;“(2) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+#### Comprehensive Plan for Improving the Preparedness of Military Installations for Terrorist Incidents
+
+Pub. L. 107–314, div. A, title XIV, §1402, Dec. 2, 2002, 116 Stat. 2675, provided that:
+
+“(a)
+
+Comprehensive Plan.—The Secretary of Defense shall develop a comprehensive plan for improving the preparedness of military installations for preventing and responding to terrorist attacks, including attacks involving the use or threat of use of weapons of mass destruction.
+
+“(b)
+
+Preparedness Strategy.—The plan under subsection (a) shall include a preparedness strategy that includes each of the following:
+
+&emsp;“(1) Identification of long-term goals and objectives for improving the preparedness of military installations for preventing and responding to terrorist attacks.
+
+&emsp;“(2) Identification of budget and other resource requirements necessary to achieve those goals and objectives.
+
+&emsp;“(3) Identification of factors beyond the control of the Secretary that could impede the achievement of those goals and objectives.
+
+&emsp;“(4) A discussion of the extent to which local, regional, or national military response capabilities are to be developed, integrated, and used.
+
+&emsp;“(5) A discussion of how the Secretary will coordinate the capabilities referred to in paragraph (4) with local, regional, or national civilian and other military capabilities.
+
+“(c)
+
+Performance Plan.—The plan under subsection (a) shall include a performance plan that includes each of the following:
+
+&emsp;“(1) A reasonable schedule, with milestones, for achieving the goals and objectives of the strategy under subsection (b).
+
+&emsp;“(2) Performance criteria for measuring progress in achieving those goals and objectives.
+
+&emsp;“(3) A description of the process, together with a discussion of the resources, necessary to achieve those goals and objectives.
+
+&emsp;“(4) A description of the process for evaluating results in achieving those goals and objectives.
+
+“(d)
+
+Submittal to Congress.—The Secretary shall submit the comprehensive plan developed under subsection (a) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\].
+
+“(e)
+
+Comptroller General Review and Report.—Not later than 60 days after the date on which the Secretary submits the comprehensive plan under subsection (a), the Comptroller General shall review the plan and submit to the committees referred to in subsection (d) the Comptroller General's assessment of the plan.
+
+“(f)
+
+Annual Report.—(1) In each of 2004, 2005, and 2006, the Secretary of Defense shall include a report on the comprehensive plan developed under subsection (a) with the materials that the Secretary submits to Congress in support of the budget submitted by the President that year pursuant to section 1105(a) of title 31, United States Code.
+
+“(2) Each such report shall include—
+
+&emsp;“(A) a discussion of any revision that the Secretary has made in the comprehensive plan developed under subsection (a) since the last report under this subsection or, in the case of the first such report, since the plan was submitted under subsection (d); and
+
+&emsp;“(B) an assessment of the progress made in achieving the goals and objectives of the strategy set forth in the plan.
+
+“(3) If the Secretary includes in the report for 2004 or 2005 under this subsection a declaration that the goals and objectives of the preparedness strategy set forth in the comprehensive plan have been achieved, no further report is required under this subsection.”
+
 #### Policy Concerning Rights of Individuals Whose Names Have Been Entered Into Department of Defense Official Criminal Investigative Reports
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §552\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, provided that:
@@ -354,7 +1052,7 @@ Study Required.—The Secretary of Defense shall assess the manner in which pers
 
 &emsp;“(3) processes and functions of civilian personnel offices should be reengineered to provide greater efficiency and better service to management and employees of the Department of Defense; and
 
-&emsp;“(4) efficiencies could be gained by public-private competition of the delivery of any of the personnelservices for civilian personnel of the Department of Defense.
+&emsp;“(4) efficiencies could be gained by public-private competition of the delivery of any of the personnel services for civilian personnel of the Department of Defense.
 
 “(b)
 
@@ -376,7 +1074,7 @@ Pilot Program.—(1) The Secretary of Defense shall carry out a pilot program to
 
 “(B) Subparagraph (A) shall apply to all cases—
 
-&emsp;“(i) pending as of January 1, 2001, before the Equal Employment Opportunity Commission involving a civilian employee who filed a complaint under the pilot program of the Department of the Navy to improve processes for the resolution of equal employment opportunity complaints; and
+&emsp;“(i) pending as of January 1, 2001, before the Equal Employment Opportunity Commission involving a civilian employee who filed a complaint under the pilot program of the Department of the Navy to improveprocesses for the resolution of equal employment opportunity complaints; and
 
 &emsp;“(ii) hereinafter filed with the Commission under the pilot program established by this section.
 
@@ -396,7 +1094,7 @@ Report.—Not later than 90 days following the end of the first and last full or
 
 #### Work Safety Demonstration Program
 
-Pub. L. 106–398, §1 \[\[div. A\], title XI, §1112\], Oct. 30, 2000, 114 Stat. 1654, 1654A–313, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1112\], Oct. 30, 2000, 114 Stat. 1654, 1654A–313, as amended by Pub. L. 107–314, div. A, title III, §363, Dec. 2, 2002, 116 Stat. 2520, provided that:
 
 “(a)
 
@@ -422,7 +1120,7 @@ Sites.—(1) The Secretary shall carry out the demonstration program—
 
 “(d)
 
-Period for Program.—The demonstration program shall begin not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall terminate on September 30, 2002.
+Period for Program.—The demonstration program shall begin not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall terminate on September 30, 2003.
 
 “(e)
 
@@ -434,19 +1132,21 @@ Reports.—(1) The Secretary of Defense shall submit an interim report on the de
 
 &emsp;“(C) The direct and indirect costs associated with all lost workday injuries.
 
-“(2) The Secretary of Defense shall submit a final report on the demonstration program to the Committees on Armed Services of the Senate and the House of Representatives not later than December 1, 2002. The final report shall contain, at a minimum, for each site of the demonstration program the following:
+“(2) The Secretary of Defense shall submit a final report on the demonstration program to the Committees on Armed Services of the Senate and the House of Representatives not later than December 1, 2003. The final report shall contain, at a minimum, for each site of the demonstration program the following:
 
 &emsp;“(A) The Secretary's determination on the issue described in subsection (b)(2).
 
 &emsp;“(B) A comparison of the lost workday injury rate under the program with the baseline assessment of the lost workday injury rate.
 
-&emsp;“(C) The lost workday injury rate for fiscal year 2002.
+&emsp;“(C) The lost workday injury rate for fiscal years 2002 and 2003.
 
-&emsp;“(D) A comparison of the direct and indirect costs associated with all lost workday injuries for fiscal year 2002 with the direct and indirect costs associated with all lost workday injuries for fiscal year 2001.
+&emsp;“(D) A comparison of the direct and indirect costs associated with all lost workday injuries for fiscal years 2002 and 2003 with the direct and indirect costs associated with all lost workday injuries for fiscal year 2001.
 
 “(f)
 
 Funding.—Of the amount authorized to be appropriated under section 301(5) \[114 Stat. 1654A–52\], $5,000,000 shall be available for the demonstration program under this section.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### GAO Study on Benefits and Costs of United States Military Engagement in Europe
 
@@ -620,7 +1320,7 @@ Pub. L. 106–65, div. A, title X, §1025, Oct. 5, 1999, 113 Stat. 748, provided
 
 #### Report on NATO Defense Capabilities Initiative
 
-Pub. L. 106–65, div. A, title X, §1039, Oct. 5, 1999, 113 Stat. 756, provided that:
+Pub. L. 106–65, div. A, title X, §1039, Oct. 5, 1999, 113 Stat. 756, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(3), Nov. 24, 2003, 117 Stat. 1605, provided that:
 
 “(a)
 
@@ -634,27 +1334,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(4) The successful implementation of the Defense Capabilities Initiative will serve to enable all members of the Alliance to make a more equitable contribution to the full spectrum of Alliance missions, thereby increasing burdensharing within the Alliance and enhancing the ability of European members of the Alliance to undertake operations pursuant to the European Security and Defense Identity within the Alliance.
 
-“(b)
-
-Annual Report.—(1) Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and International Relations of the House of Representatives a report, to be prepared in consultation with the Secretary of State, on implementation of the Defense Capabilities Initiative by the nations of the NATO Alliance. The report shall include the following:
-
-&emsp;“(A) A discussion of the work of the temporary High-Level Steering Group, or any successor group, established to oversee the implementation of the Defense Capabilities Initiative and to meet the requirement of coordination and harmonization among relevant planning disciplines.
-
-&emsp;“(B) A description of the actions taken, including implementation of the Multinational Logistics Center concept and development of the C3 system architecture, by the Alliance as a whole to further the Defense Capabilities Initiative.
-
-&emsp;“(C) A description of the actions taken by each member of the Alliance other than the United States to improve the capabilities of its forces in each of the following areas:
-
-&emsp;&emsp;“(i) Interoperability with forces of other Alliance members.
-
-&emsp;&emsp;“(ii) Deployability and mobility.
-
-&emsp;&emsp;“(iii) Sustainability and logistics.
-
-&emsp;&emsp;“(iv) Survivability and effective engagement capability.
-
-&emsp;&emsp;“(v) Command and control and information systems.
-
-“(2) The report shall be submitted in unclassified form, but may also be submitted in classified form if necessary.”
+“\[(b) Repealed. Pub. L. 108–136, div. A, title X, §1031(h)(3), Nov. 24, 2003, 117 Stat. 1605.\]”
 
 #### Commemoration of the Victory of Freedom in the Cold War
 
@@ -730,7 +1410,7 @@ Commission on Victory in the Cold War.—(1) There is hereby established a commi
 
 &emsp;“(E) Two shall be appointed by the minority leader of the Senate.
 
-“(3) The Commission shall review and make recommendations regarding the celebration of the victory in the Cold War, to include the date of the celebration, usage of facilities, participation of the Armed Forces, and expenditure of funds.
+“(3) The Commission shall review and make recommendations regarding the celebration of the victory inthe Cold War, to include the date of the celebration, usage of facilities, participation of the Armed Forces, and expenditure of funds.
 
 “(4) The Secretary shall—
 
@@ -784,7 +1464,7 @@ Specified Congressional Committees.—For purposes of this section, the term ‘
 
 “(d)
 
-Report on Significant Sales and Transfers to China.—(1) The report to be submitted under this section not later than March 1, 2002, shall include in a separate section a report describing any significant sale or transfer of military hardware, expertise, and technology to the People's Republic of China. The report shall set forth the history of such sales and transfers since 1995, forecast possible future sales and transfers,and address the implications of those sales and transfers for the security of the United States and its friends and allies in Asia.
+Report on Significant Sales and Transfers to China.—(1) The report to be submitted under this section not later than March 1, 2002, shall include in a separate section a report describing any significant sale or transfer of military hardware, expertise, and technology to the People's Republic of China. The report shall set forth the history of such sales and transfers since 1995, forecast possible future sales and transfers, and address the implications of those sales and transfers for the security of the United States and its friends and allies in Asia.
 
 “(2) The report shall include analysis and forecasts of the following matters related to military cooperation between selling states and the People's Republic of China:
 
@@ -828,7 +1508,7 @@ Pub. L. 106–65, div. C, title XXXI, §3163(d), Oct. 5, 1999, 113 Stat. 945, pr
 
 Pub. L. 105–262, title VIII, §8119, Oct. 17, 1998, 112 Stat. 2331, provided that:
 
-“(a) The Secretary of Defense shall submit to the Committees on Appropriations of the Senate and the House of Representatives a report on food stamp assistance for members of the Armed Forces. The Secretary shall submit the report at the same time that the Secretary submits to Congress, in support of the fiscal year 2001 budget, the materials that relate to the funding provided in that budget for the Department of Defense.
+“(a) The Secretary of Defense shall submit to the Committees on Appropriations of the Senate and theHouse of Representatives a report on food stamp assistance for members of the Armed Forces. The Secretary shall submit the report at the same time that the Secretary submits to Congress, in support of the fiscal year 2001 budget, the materials that relate to the funding provided in that budget for the Department of Defense.
 
 “(b) The report shall include the following:
 
@@ -872,7 +1552,7 @@ Implementing Office.—If the Secretary of Defense makes the designation referre
 
 Pilot Program.—The pilot program referred to in subsection (a) is the defense reform initiative enterprise pilot program for military manpower and personnel information established pursuant to section 8147 of the Department of Defense Appropriations Act, 1999 (Public Law 105–262; 112 Stat. 2341; 10 U.S.C. 113 note).”
 
-Pub. L. 105–262, title VIII, §8147, Oct. 17, 1998, 112 Stat. 2341, provided that: “The Secretary of Defense shall establish, through a revised Defense Integrated Military Human Resources System (DIMHRS), a defense reform initiative enterprise pilot program for military manpower and personnel information: <i>Provided</i>, That this pilot program should include all functions and systems currently included in DIMHRS and shall be expanded to include all appropriate systems within the enterprise of personnel, manpower, training, and compensation: <i>Pro</i><i>vided further</i>, That in establishing a revised DIMHRS enterprise program for manpower and personnel information superiority the functions of this program shall include, but not be limited to: (1) an analysis and determination of the number and kinds of information systems necessary to support manpower and personnel within the Department of Defense; and (2) the establishment of programs to develop and implement information systems in support of manpower and personnel to include an enterprise level strategic approach, performance and results based management, business process improvement and other non-material solutions, the use of commercial or government off-the-shelf technology, the use of modular contracting as defined by Public Law 104–106 \[see 41 U.S.C. 434\], and the integration and consolidation of existing manpower and personnel information systems: <i>Provided further</i>, That the Secretary of Defense shall re-instate fulfillment standards designated as ADS–97–03–GD, dated January, 1997: <i>Provided further</i>, That the requirements of this section should be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–262, title VIII, §8147, Oct. 17, 1998, 112 Stat. 2341, provided that: “The Secretary of Defense shall establish, through a revised Defense Integrated Military Human Resources System (DIMHRS), a defense reform initiative enterprise pilot program for military manpower and personnel information: <i>Provided</i>, That this pilot program should include all functions and systems currently included in DIMHRS and shall be expanded to include all appropriate systems within the enterprise of personnel, manpower, training, and compensation: <i>Provided further</i>, That in establishing a revised DIMHRS enterprise program for manpower and personnel information superiority the functions of this program shall include, but not be limited to: (1) an analysis and determination of the number and kinds of information systems necessary to support manpower and personnel within the Department of Defense; and (2) the establishment of programs to develop and implement information systems in support of manpower and personnel to include an enterprise level strategic approach, performance and results based management, business process improvement and other non-material solutions, the use of commercial or government off-the-shelf technology, the use of modular contracting as defined by Public Law 104–106 \[see 41 U.S.C. 434\], and the integration and consolidation of existing manpower and personnel information systems: <i>Provided further</i>, That the Secretary of Defense shall re-instate fulfillment standards designated as ADS–97–03–GD, dated January, 1997: <i>Provided further</i>, That the requirements of this section should be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Oversight of Development and Implementation of Automated Identification Technology
 
@@ -998,7 +1678,7 @@ Section 1052 of Pub. L. 105–85 provided that:
 
 “(a)
 
-Protection of Personnel.—The Secretary of Defense shall take appropriate actions to ensure that units of the Armed Forces engaged in a peace operation are provided adequate troop protection equipment for that operation.
+Protection of Personnel.—The Secretary of Defense shall take appropriate actions to ensure thatunits of the Armed Forces engaged in a peace operation are provided adequate troop protection equipment for that operation.
 
 “(b)
 
@@ -1114,7 +1794,7 @@ Redesignation of Commemoration Account.—The account in the Treasury known as t
 
 Cross References.—Any reference to the Department of Defense Korean Conflict Commemoration or the Department of Defense Korean Conflict Commemoration Account in any law, regulation, document, record, or other paper of the United States shall be considered to be a reference to the Department of Defense Korean War Commemoration or the Department of Defense Korean War Commemoration Account, respectively.”
 
-Pub. L. 105–85, div. A, title X, §1083, Nov. 18, 1997, 111 Stat. 1918, as amended by Pub. L. 105–129, §1(b)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 105–261, div. A, title X, §1067(a), (c), Oct. 17, 1998, 112 Stat. 2134; Pub. L. 106–65, div. A, title X, §1052(a), (b)(1), (c), Oct. 5, 1999, 113 Stat. 764; Pub. L. 107–107, div. A, title X, §1048(g)(6), (i)(1), Dec. 28, 2001, 115 Stat. 1228, 1229, provided that:
+Pub. L. 105–85, div. A, title X, §1083, Nov. 18, 1997, 111 Stat. 1918, as amended by Pub. L. 105–129, §1(b)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 105–261, div. A, title X, §1067(a), (c), Oct. 17, 1998, 112 Stat. 2134; Pub. L. 106–65, div. A, title X, §1052(a), (b)(1), (c), Oct. 5, 1999, 113 Stat. 764; Pub. L. 107–107, div. A, title X, §1048(g)(6), (i)(1), Dec. 28, 2001, 115 Stat. 1228, 1229; Pub. L. 107–314, div. A, title X, §1069, Dec. 2, 2002, 116 Stat. 2660, provided that:
 
 “(a)
 
@@ -1158,9 +1838,9 @@ Acceptance of Voluntary Services.—(1) Notwithstanding section 1342 of title 31
 
 Use of Funds.—(1) Funds appropriated for the Army for fiscal years 2000 through 2004 for operation and maintenance shall be available for the commemorative program authorized under subsection (a).
 
-“(2) The total amount expended by the Department of Defense through the Department of Defense 50th Anniversary of the Korean War Commemoration Committee, an entity within the Department of the Army, to carry out the commemorative program authorized under subsection (a) for fiscal years 2000 through 2004 may not exceed $7,000,000.”
+“(2) The total amount expended by the Department of Defense through the Department of Defense 50th Anniversary of the Korean War Commemoration Committee, an entity within the Department of the Army, to carry out the commemorative program authorized under subsection (a) for fiscal years 2000 through 2004 may not exceed $10,000,000.”
 
-\[Pub. L. 106–65, div. A, title X, §1052(b)(2), Oct. 5, 1999, 113 Stat. 764, provided that: “The amendment made by paragraph (1) \[amending section 1083 of Pub. L. 105–85, set out above\] may not be construed to supersede rights that are established or vested before the date of the enactment of this Act \[Oct. 5, 1995\].”\]
+\[Pub. L. 106–65, div. A, title X, §1052(b)(2), Oct. 5, 1999, 113 Stat. 764, provided that: “The amendment made by paragraph (1) \[amending section 1083 of Pub. L. 105–85, set out above\] may not be construed to supersede rightsthat are established or vested before the date of the enactment of this Act \[Oct. 5, 1995\].”\]
 
 \[Pub. L. 106–65, div. A, title X, §1052(d), Oct. 5, 1999, 113 Stat. 764, provided that: “The amendments made by this section \[amending section 1083 of Pub. L. 105–85, set out above\] shall take effect on October 1, 1999.”\]
 
@@ -1204,7 +1884,7 @@ Findings.—Congress makes the following findings:
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;“(1) the United States should not implement a moratorium on the use of antipersonnel landmines by United States Armed Forces in a manner that would endanger United States personnel or undermine themilitary effectiveness of United States Armed Forces in executing their missions; and
+&emsp;“(1) the United States should not implement a moratorium on the use of antipersonnel landmines by United States Armed Forces in a manner that would endanger United States personnel or undermine the military effectiveness of United States Armed Forces in executing their missions; and
 
 &emsp;“(2) the United States should pursue the development of alternatives to self-destructing antipersonnel landmines.
 
@@ -1242,7 +1922,7 @@ Human Relations Training.—(1) The Secretary of Defense shall ensure that the S
 
 “(b)
 
-Information To Be Provided to Prospective Recruits.—The Secretary of Defense shall ensure that each individual preparing to enter an officer accession program or to execute an original enlistment agreement is provided information concerning the meaning of the oath of office or oath of enlistment for service in the Armed Forces in terms of the equal protection and civil liberties guarantees of the Constitution, and each such individual shall be informed that if supporting those guarantees is not possible personally for that individual, then that individual should decline to enter the Armed Forces.”
+Information To Be Provided to Prospective Recruits.—The Secretary of Defense shall ensure that each individual preparing to enter an officer accession program or to execute an original enlistment agreement is provided information concerning the meaning of the oath of office or oath of enlistment for service in the Armed Forces in terms of the equal protection andcivil liberties guarantees of the Constitution, and each such individual shall be informed that if supporting those guarantees is not possible personally for that individual, then that individual should decline to enter the Armed Forces.”
 
 #### Annual Report on Operation Provide Comfort and Operation Enhanced Southern Watch
 
@@ -1308,7 +1988,7 @@ Pub. L. 104–201, div. A, title X, §1042, Sept. 23, 1996, 110 Stat. 2642, as a
 
 #### George C. Marshall European Center for Strategic Security Studies
 
-Section 1065 of Pub. L. 104–201 provided that:
+Pub. L. 104–201, div. A, title X, §1065, Sept. 23, 1996, 110 Stat. 2653, as amended by Pub. L. 108–136, div. A, title X, §1031(f)(2), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(a)
 
@@ -1322,9 +2002,7 @@ Authority To Accept Foreign Gifts and Donations.—(1) The Secretary of Defense 
 
 “(b)
 
-Marshall Center Participation By Foreign Nations.—(1) Notwithstanding any other provision of law, the Secretary of Defense may authorize participation by a European or Eurasian nation in Marshall Center programs if the Secretary determines, after consultation with the Secretary of State, that such participation is in the national interest of the United States.
-
-“(2) Not later than January 31 of each year, the Secretary of Defense shall submit to Congress a report setting forth the names of the foreign nations permitted to participate in programs of the Marshall Center during the preceding year under paragraph (1). Each such report shall be prepared by the Secretary with the assistance of the Director of the Marshall Center.
+Marshall Center Participation By Foreign Nations.—Notwithstanding any other provision of law, the Secretary of Defense may authorize participation by a European or Eurasian nation in Marshall Center programs if the Secretary determines, after consultation with the Secretary of State, that such participation is in the national interest of the United States.
 
 “(c)
 
@@ -1333,6 +2011,20 @@ Exemptions for Members of Marshall Center Board of Visitors From Certain Require
 “(2) Notwithstanding any other provision of law, a member of the Marshall Center Board of Visitors may not be required to register as an agent of a foreign government solely by reason of service as a member of the Board.
 
 “(3) Notwithstanding section 219 of title 18, United States Code, a non-United States citizen may serve on the Marshall Center Board of Visitors even though registered as a foreign agent.”
+
+Pub. L. 103–337, div. A, title XIII, §1306, Oct. 5, 1994, 108 Stat. 2892, as amended by Pub. L. 108–136, div. A, title XII, §1223, Nov. 24, 2003, 117 Stat. 1652, provided that:
+
+“(a)
+
+Use of Contributions.—Funds received by the United States Government from the Federal Republic of Germany as its fair share of the costs of the George C. Marshall European Center for Security Studies shall be credited to appropriations available to the Department of Defense for the George C. Marshall European Center for Security Studies. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
+
+“(b)
+
+Waiver of Charges—
+
+&emsp;“(1) The Secretary of Defense may waive reimbursement of the costs of conferences, seminars, courses of instruction, or similar educational activities of the George C. Marshall European Center for Security Studies for military officers and civilian officials from states located in Europe or the territory of the former Soviet Union if the Secretary determines that attendance by such personnel without reimbursement is in the national security interest of the United States.
+
+“(2) Costs for which reimbursement is waived pursuant to paragraph (1) shall be paid from appropriations available for the Center.”
 
 #### Participation of Members, Dependents, and Other Persons in Crime Prevention Efforts at Installations
 
@@ -1352,11 +2044,11 @@ Report Regarding Implementation.—Not later than February 1, 1997, the Secretar
 
 #### Enforcement of Child Support Obligations of Members of the Armed Forces
 
-Pub. L. 104–193, title III, §363(a), Aug. 22, 1996, 110 Stat. 2247, provided that:
+Pub. L. 104–193, title III, §363(a), Aug. 22, 1996, 110 Stat. 2247, as amended by Pub. L. 107–296, title XVII, §1704(e)(1)(A), Nov. 25, 2002, 116 Stat. 2315, provided that:
 
 “(1)
 
-Maintenance of address information.—The Secretary of Defense shall establish a centralized personnel locator service that includes the address of each member of the Armed Forces under the jurisdiction of the Secretary. Upon request of the Secretary of Transportation, addresses for members of the Coast Guard shall be included in the centralized personnel locator service.
+Maintenance of address information.—The Secretary of Defense shall establish a centralized personnel locator service that includes the address of each member of the Armed Forces under the jurisdiction of the Secretary. Upon request of the Secretary of Homeland Security, addresses for members of the Coast Guard shall be included in the centralized personnel locator service.
 
 “(2)
 
@@ -1620,7 +2312,7 @@ Definitions.—In this section:
 
 &emsp;“(2) The term ‘migration system’ has the meaning given such term in the document entitled ‘Department of Defense Strategy for Acceleration of Migration Systems and Data Standards’ attached to the memorandum of the Department of Defense dated October 13, 1993 (relating to accelerated implementation of migration systems, data standards, and process improvement).”
 
-Section 830 of Pub. L. 104–201, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that Secretary of Defense was to include in report submitted in 1997 under section 381(f) of Pub. L. 103–337 \[set out above\] a discussion of progress made in implementing div. E of Pub. L. 104–106 \[see Short Title note set out under section 1401 of Title 40, Public Buildings, Property, and Works\] and strategy for development or modernization of automated information systems for Department of Defense, as required by section 366 of Pub. L. 104–106 \[set out as a note above\] and plans of Department of Defense for establishing an integrated framework for management of information resources within the Department, and provided further specifications of the elements to be included in the discussion.
+Section 830 of Pub. L. 104–201, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that Secretary of Defense was to include in report submitted in 1997 under section 381(f) of Pub. L. 103–337 \[set out above\] a discussion of progress made in implementing div. E of Pub. L. 104–106 \[§§5001–5703, see Tables for classification\] and strategy for development or modernization of automated information systems for Department of Defense, as required by section 366 of Pub. L. 104–106 \[set out as a note above\] and plans of Department of Defense for establishing an integrated framework for management of information resources within the Department, and provided further specifications of the elements to be included in the discussion.
 
 #### Department of Defense Policies and Procedures on Discrimination and Sexual Harassment
 
@@ -1658,7 +2350,7 @@ Comprehensive DOD Policy.—(1) Based on the approved recommendations of the tas
 
 “(d)
 
-Military Department Policies.—(1) The Secretary of the Navy and the Secretary of the Air Force shall review and revise the regulations of the Department of the Navy and the Department of the Air Force, respectively, relating to equal opportunity policy and procedures in that Department for the making of, and responding to, complaints of unlawful discrimination and sexual harassment in order to ensure that those regulations are substantially equivalent to the regulations of the Department of the Army on such matters.
+Military Department Policies.—(1) The Secretary of the Navy and the Secretary of the Air Force shall review and revise the regulations of the Department of the Navy and the Department of the Air Force, respectively, relating to equal opportunity policy andprocedures in that Department for the making of, and responding to, complaints of unlawful discrimination and sexual harassment in order to ensure that those regulations are substantially equivalent to the regulations of the Department of the Army on such matters.
 
 “(2) In revising regulations pursuant to paragraph (1), the Secretary of the Navy and the Secretary of the Air Force may make such additions and modifications as the Secretary of Defense determines appropriate to strengthen those regulations beyond the substantial equivalent of the Army regulations in accordance with—
 
@@ -1718,7 +2410,7 @@ Section 534 of Pub. L. 103–337 provided that:
 
 “(a)
 
-Establishment.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall revise policies and regulations of the Department of Defense with respect to theprograms of the Department of Defense specified in paragraph (2) in order to establish within each of the military departments a victims’ advocates program.
+Establishment.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness, shall revise policies and regulations of the Department of Defense with respect to the programs of the Department of Defense specified in paragraph (2) in order to establish within each of the military departments a victims’ advocates program.
 
 “(2) Programs referred to in paragraph (1) are the following:
 
@@ -1806,9 +2498,13 @@ Definitions.—For purposes of this section:
 
 #### Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations
 
-Pub. L. 107–117, div. A, title VIII, §8118, Jan. 10, 2002, 115 Stat. 2273, provided that: “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under subsection 101(b) of Public Law 104–208; 110 Stat. 3009–111; 10 U.S.C. 113 note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2002.”
+Pub. L. 108–87, title VIII, §8092, Sept. 30, 2003, 117 Stat. 1094, provided that: “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under subsection 101(b) of Public Law 104–208; 110 Stat. 3009–111; 10 U.S.C. 113 note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2004.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8098, Oct. 23, 2002, 116 Stat. 1559.
+
+Pub. L. 107–117, div. A, title VIII, §8118, Jan. 10, 2002, 115 Stat. 2273.
 
 Pub. L. 106–259, title VIII, §8137, Aug. 9, 2000, 114 Stat. 704.
 
@@ -1816,7 +2512,7 @@ Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8106\], Sept. 30, 1
 
 “(a) The Secretary of Defense shall require each disbursement by the Department of Defense in an amount in excess of $500,000 be matched to a particular obligation before the disbursement is made.
 
-“(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under section (a) is not divided into multiple disbursements ofless than that amount for the purpose of avoiding the applicability of such section to that disbursement.”
+“(b) The Secretary shall ensure that a disbursement in excess of the threshold amount applicable under section (a) is not divided into multiple disbursements of less than that amount for the purpose of avoiding the applicability of such section to that disbursement.”
 
 \[Section 8113 of Pub. L. 105–56 provided that the amendment made by that section \[amending section 101(b) \[title VIII, §8106\] of Pub. L. 104–208\] set out above, is effective June 30, 1998.\]
 
@@ -1988,7 +2684,7 @@ Matter To Be Included in Report.—The Secretary shall include in each such repo
 
 &emsp;“(2) For cases involving the denial or revocation of a security clearance, the average period from the date of the initial determination and notification to the individual concerned of the denial or revocation of the clearance to the date of the final determination of the denial or revocation, as well as the shortest and longest period in such cases.
 
-&emsp;“(3) For cases involving the suspension of a security clearance, the average period from the date of the initial determination and notification to the individual concerned of the suspension of the clearance to the date of the final determination of the suspension,as well as the shortest and longest period of such cases.
+&emsp;“(3) For cases involving the suspension of a security clearance, the average period from the date of the initial determination and notification to the individual concerned of the suspension of the clearance to the date of the final determination of the suspension, as well as the shortest and longest period of such cases.
 
 &emsp;“(4) The number of cases in which a security clearance was suspended in which the resolution of the matter was the restoration of the security clearance, and the average period for such suspensions.
 
@@ -2022,47 +2718,7 @@ Regulations.—The Secretary shall revise the regulations governing security cle
 
 #### Investigations of Deaths of Members of Armed Forces From Self-Inflicted Causes
 
-Pub. L. 103–160, div. A, title XI, §1185, Nov. 30, 1993, 107 Stat. 1774, provided that:
-
-“(a)
-
-Secretary of Defense To Review Death Investigation Procedures.—(1) The Secretary of Defense shall review the procedures of the military departments for investigating deaths of members of the Armed Forces that may have resulted from self-inflicted causes. The Secretary shall complete the review not later than June 30, 1994.
-
-“(2) Not later than July 15, 1994, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of such review. The report may include any recommendations for legislation that the Secretary considers appropriate.
-
-“(3) Not later than October 1, 1994, the Secretary shall prescribe regulations governing the investigation of deaths of members of the Armed Forces that may have resulted from self-inflicted causes. The regulations shall include a date by which the Secretaries of the military departments are required to implement the regulations.
-
-“(b)
-
-Inspector General To Review Certain Death Investigations.—(1) Upon a request that meets the requirements of paragraph (3), the Inspector General of the Department of Defense shall review each investigation conducted by a Department of Defense investigative organization of the death of a member of the Armed Forces who, while serving on active duty during the period described in paragraph (2), died from a cause determined to be self-inflicted.
-
-“(2) The period referred to in paragraph (1) is the period that—
-
-&emsp;“(A) begins on January 1, 1982; and
-
-&emsp;“(B) ends on the date specified in the regulations prescribed under subsection (a)(3) as the deadline for the implementation of such regulations by the Secretaries of the military departments.
-
-“(3) Any of the family members of a member of the Armed Forces referred to in paragraph (1) may request a review under paragraph (1). The request must be received by the Secretary of the military department concerned not later than one year after the date referred to in paragraph (2)(B) and shall contain or describe specific evidence of a material deficiency in the previous investigation.
-
-“(4) If the Inspector General determines that a previous investigation of a death was deficient in a material respect, the Inspector General shall conduct any additional investigation that the Inspector General considers necessary to determine the cause of that death.
-
-“(5) The Inspector General shall submit to the Secretary of the military department concerned a report on the results of each review conducted under paragraph (1) and each additional investigation conducted under paragraph (4) as a result of that review.
-
-“(6) The Secretary of the military department concerned, consistent with other applicable law, shall take such corrective actions with regard to matters contained in the report as the Secretary considers appropriate.
-
-“(7) To the same extent that fatality reports may be furnished to family members under section 1072 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2508; 10 U.S.C. 113 note), the Inspector General, after consultation with the Secretary of the military department concerned, shall provide a copy of the Inspector General's report on the review of a death investigation to each of the family members who requested the review.
-
-“(c)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘active duty’ has the meaning given such term in section 101(d)(1) of title 10, United States Code.
-
-&emsp;“(2) The term ‘family members’ has the meaning given such term in section 1072(c)(2) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2510; 10 U.S.C. 133 note \[set out below\]).
-
-“(d)
-
-Applicability to Coast Guard.—The Secretary of Transportation shall implement with respect to the Coast Guard the requirements that are imposed by this section on the Secretary of Defense and the Inspector General of the Department of Defense.”
+Pub. L. 103–160, div. A, title XI, §1185, Nov. 30, 1993, 107 Stat. 1774, required the Secretary of Defense to review, not later than June 30, 1994, the procedures of the military departments for investigating deaths of members of the Armed Forces that may have resulted from self-inflicted causes, to submit to Congress, not later than July 15, 1994, a report on the review, and to prescribe, not later than Oct. 1, 1994, regulations governing the investigation of deaths of members of the Armed Forces that may have resulted from self-inflicted causes, required the Inspector General of the Department of Defense to review certain death investigations, and required the Secretary of Transportation to implement with respect to the Coast Guard the requirements that were imposed on the Secretary of Defense and the Inspector General of the Department of Defense.
 
 #### Program To Commemorate World War II
 
@@ -2130,7 +2786,7 @@ Review Required.—The Secretary of Defense shall provide for a review of the pr
 
 “(b)
 
-Purpose.—The purpose of the review is to determine whether the practices and procedures referred to in subsection (a) should be modified to better protect the public safety while meeting training requirements of the Armed Forces.
+Purpose.—The purpose of the review is to determine whether the practices and procedures referred to in subsection (a) should be modified to better protectthe public safety while meeting training requirements of the Armed Forces.
 
 “(c)
 
@@ -2160,7 +2816,7 @@ Requirement.—The Secretary of each military department shall ensure that fatal
 
 Information to be provided after notification of death.—Within a reasonable period of time after family members of a service member are notified of the member's death, but not more than 30 days after the date of notification, the Secretary concerned shall ensure that the family members—
 
-&emsp;&emsp;“(A) in any case in which the cause or circumstances surrounding the death are under investigation, are informed of that fact, of the names of theagencies within the Department of Defense conducting the investigations, and of the existence of any reports by such agencies that have been or will be issued as a result of the investigations; and
+&emsp;&emsp;“(A) in any case in which the cause or circumstances surrounding the death are under investigation, are informed of that fact, of the names of the agencies within the Department of Defense conducting the investigations, and of the existence of any reports by such agencies that have been or will be issued as a result of the investigations; and
 
 &emsp;&emsp;“(B) are furnished, if the family members so desire, a copy of any completed investigative report and any other completed fatality reports that are available at the time family members are provided the information described in subparagraph (A) to the extent such reports may be furnished consistent with sections 552 and 552a of title 5, United States Code.
 
@@ -2216,7 +2872,7 @@ Report.—The Secretary of Defense shall submit to the Committees on Armed Servi
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘fatality reports’ includes investigative reports and any other reports pertaining to the cause or circumstances of death of a member of the Armed Forces in the line of duty (such as autopsy reports, battlefield reports, and medical reports).
+&emsp;“(1) The term ‘fatality reports’ includes investigative reports and any other reports pertaining to thecause or circumstances of death of a member of the Armed Forces in the line of duty (such as autopsy reports, battlefield reports, and medical reports).
 
 &emsp;“(2) The term ‘family members’ means parents, spouses, adult children, and such other relatives as the Secretary concerned considers appropriate.
 
@@ -2228,7 +2884,7 @@ Applicability.—(1) Except as provided in paragraph (2), this section applies w
 
 #### Limitation on Support for United States Contractors Selling Arms Overseas
 
-Pub. L. 102–484, div. A, title X, §1082, Oct. 23, 1992, 106 Stat. 2516, provided that:
+Pub. L. 102–484, div. A, title X, §1082, Oct. 23, 1992, 106 Stat. 2516, as amended by Pub. L. 108–136, div. A, title X, §1031(d)(2), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(a)
 
@@ -2242,19 +2898,9 @@ Support for Contractors.—In the event that a United States defense contractor 
 
 “(b)
 
-Department of Defense Exhibitions.—(1) A military department may not participate directly in any airshow or trade exhibition held outside the United States unless the Secretary of Defense—
+Department of Defense Exhibitions.—(1) A military department may not participate directly in any airshow or trade exhibition held outside the United States unless the Secretary of Defense determines that it is in the national security interests of the United States for the military departments to do so.
 
-&emsp;“(A) determines that it is in the national security interests of the United States for the military department to do so; and
-
-&emsp;“(B) provides to the congressional defense committees at least 45 days before the opening of the airshow or trade exhibition a report detailing—
-
-&emsp;&emsp;“(i) why the show or exhibition is in the national security interest;
-
-&emsp;&emsp;“(ii) a description of the implications that promoting the sale of the weapons in question will have on arms control; and
-
-&emsp;&emsp;“(iii) an estimate of any costs to be incurred.
-
-“(2) The Secretary of Defense may not delegate the authority to make the determination referred to in paragraph (1)(A) below the level of the Under Secretary of Defense for Policy.
+“(2) The Secretary of Defense may not delegate the authority to make the determination referred to in \[former\] paragraph (1)(A) below the level of the Under Secretary of Defense for Policy.
 
 “(c)
 
@@ -2502,7 +3148,7 @@ Purpose.—It is the purpose of this section to require Japan to offset the dire
 
 “(b)
 
-Permanent Ceiling on United States Armed Forces in Japan.—Funds appropriated pursuant to an authorization contained in this Act or any subsequent Act may not be used to support an end strength level of all personnel of the Armed Forces of the United States stationed in Japan at any level in excess of 50,000.
+Permanent Ceiling on United States Armed Forces in Japan.—Funds appropriated pursuant to anauthorization contained in this Act or any subsequent Act may not be used to support an end strength level of all personnel of the Armed Forces of the United States stationed in Japan at any level in excess of 50,000.
 
 “(c)
 
@@ -2610,7 +3256,7 @@ Pub. L. 100–463, title VIII, §8125, Oct. 1, 1988, 102 Stat. 2270–41, as ame
 
 “(b) The Secretary of Defense and the Secretary of State shall (1) conduct a review of the long-term strategic interests of the United States overseas and the future requirements for the assignment of members of the Armed Forces of the United States to permanent duty ashore outside the United States, and (2) determine specific actions that, if taken, would result in a more balanced sharing of defense and foreign assistance spending burdens by the United States and its allies. Not later than August 1, 1989, the Secretary of Defense and the Secretary of State shall transmit to Congress a report containing the findings resulting from the review and their determinations.
 
-“(c) \[Repealed. Pub. L. 103–236, title I, §162(j), Apr. 30, 1994, 108 Stat. 408.\]
+“\[(c) Repealed. Pub. L. 103–236, title I, §162(j), Apr. 30, 1994, 108 Stat. 408.\]
 
 “(d) The President shall specify (separately by appropriation account) in the Department of Defense items included in each budget submitted to Congress under section 1105 of title 31, United States Code, (1) the amounts necessary for payment of all personnel, operations, maintenance, facilities, and support costs for Department of Defense overseas military units, and (2) the costs for all dependents who accompany Department of Defense personnel outside the Unied \[sic\] States.
 
@@ -2652,159 +3298,11 @@ Section 637 of Pub. L. 100–180 provided that: “Not later than 60 days after 
 
 #### Test Program for Reimbursement for Adoption Expenses
 
-Section 638 of Pub. L. 100–180, as amended by Pub. L. 101–189, div. A, title VI, §662, Nov. 29, 1989, 103 Stat. 1465; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(1), Nov. 5, 1990, 104 Stat. 1719, provided that:
-
-“(a)
-
-Test Program.—The Secretary of Defense shall carry out a test program under which a member of the Armed Forces under the jurisdiction of the Secretary may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member. The Secretary of Transportation shall carry out a similar test program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member.
-
-“(b)
-
-Adoptions Covered.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c)).
-
-“(c)
-
-Benefits Paid After Adoption is Final.—Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
-
-“(d)
-
-Treatment of Other Benefits.—A benefit may not be paid under this section for any expense paid to or for a member of the Armed Forces under any other adoption benefits program administered by the Federal Government or under any such program administered by a State or local government.
-
-“(e)
-
-Limitations.—(1) Not more than $2,000 may be paid to a member of the Armed Forces under this section for expenses incurred in the adoption of a child.
-
-“(2) Not more than $5,000 may be paid to a member of the Armed Forces under this section for adoptions by such member in any calendar year.
-
-“(f)
-
-Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section with respect to members of the Armed Forces under the Secretary's jurisdiction. The Secretary of Transportation shall prescribe regulations to carry out this section with respect to members of the Coast Guard.
-
-“(g)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘qualifying adoption expenses’ means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged—
-
-&emsp;&emsp;“(A) by a State or local government agency which has responsibility under State or local law for child placement through adoption;
-
-&emsp;&emsp;“(B) by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption; or
-
-&emsp;&emsp;“(C) through a private placement.
-
-&emsp;“(2) The term ‘qualifying adoption expenses’ does not include any expense incurred—
-
-&emsp;&emsp;“(A) for any travel performed outside the United States by an adopting parent, unless such travel—
-
-&emsp;&emsp;&emsp;“(i) is required by law as a condition of a legal adoption in the country of the child's origin, or is otherwise necessary for the purpose of qualifying for the adoption of a child;
-
-&emsp;&emsp;&emsp;“(ii) is necessary for the purpose of assessing the health and status of the child to be adopted; or
-
-&emsp;&emsp;&emsp;“(iii) is necessary for the purpose of escorting the child to be adopted to the United States or the place where the adopting member of the Armed Forces is stationed; or
-
-&emsp;&emsp;“(B) in connection with an adoption arranged in violation of Federal, State, or local law.
-
-&emsp;“(3) The term ‘reasonable and necessary expenses’ includes—
-
-&emsp;&emsp;“(A) public and private agency fees, including adoption fees charged by an agency in a foreign country;
-
-&emsp;&emsp;“(B) placement fees, including fees charged adoptive parents for counseling;
-
-&emsp;&emsp;“(C) legal fees, including court costs;
-
-&emsp;&emsp;“(D) medical expenses, including hospital expenses of a newborn infant, for medical care furnished the adopted child before the adoption, and for physical examinations for the adopting parents;
-
-&emsp;&emsp;“(E) expenses relating to pregnancy and childbirth for the biological mother, including counseling, transportation, and maternity home costs;
-
-&emsp;&emsp;“(F) temporary foster care charges when payment of such charges is required to be made immediately before the child's placement; and
-
-&emsp;&emsp;“(G) except as provided in paragraph (2)(A), transportation expenses relating to the adoption.
-
-“(h)
-
-Duration of Test Program.—The test program under this section shall apply with respect to qualifying adoption expenses incurred for adoption proceedings initiated—
-
-&emsp;“(1) in the case of a member of the Army, Navy, Air Force, or Marine Corps, after September 30, 1987, and before October 1, 1990; and
-
-&emsp;“(2) in the case of a member of the Coast Guard, after September 30, 1989, and before October 1, 1990.”
+Section 638 of Pub. L. 100–180, as amended by Pub. L. 101–189, div. A, title VI, §662, Nov. 29, 1989, 103 Stat. 1465; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(1), Nov. 5, 1990, 104 Stat. 1719, provided that the Secretary of Defense, with respect to members of the Armed Forces, and the Secretary of Transportation, with respect to members of the Coast Guard, were to carry out a test program providing for reimbursement for qualifying adoption expenses incurred by members of the Army, Navy, Air Force, or Marine Corps for adoption proceedings inititated after September 30, 1987, and before October 1, 1990, and for qualifying adoption expenses incurred by members of the Coast Guard for adoption proceedings inititated after September 30, 1989, and before October 1, 1990.
 
 #### Counterintelligence Polygraph Program
 
-Section 1121 of Pub. L. 100–180, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(5), Nov. 18, 1997, 111 Stat. 1906, provided that:
-
-“(a)
-
-Authority for Program.—The Secretary of Defense may carry out a program for the administration of counterintelligence polygraph examinations to persons described in subsection (b). The program shall be based on Department of Defense Directive 5210.48, dated December 24, 1984.
-
-“(b)
-
-Persons Covered.—Except as provided in subsection (d), the following persons whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 \[set out as a note under section 435 of Title 50, War and National Defense\] (or a successor Executive order) are subject to this section:
-
-&emsp;“(1) Military and civilian personnel of the Department of Defense.
-
-&emsp;“(2) Personnel of defense contractors.
-
-“(c)
-
-Limitation on Number of Examinations.—The number of counterintelligence polygraph examinations that may be administered under this section may not exceed 5,000 during any fiscal year for which a specific number is not otherwise provided by law.
-
-“(d)
-
-Exceptions From Coverage for Certain Intelligence Agencies and Functions.—This section does not apply—
-
-&emsp;“(1) to a person assigned or detailed to the Central Intelligence Agency or to an expert or consultant under a contract with the Central Intelligence Agency;
-
-&emsp;“(2) to (A) a person employed by or assigned or detailed to the National Security Agency, (B) an expert or consultant under contract to the National Security Agency, (C) an employee of a contractor of the National Security Agency, or (D) a person applying for a position in the National Security Agency;
-
-&emsp;“(3) to a person assigned to a space where sensitive cryptographic information is produced, processed, or stored; or
-
-&emsp;“(4) to a person employed by, or assigned or detailed to, an office within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs or a contractor of such an office.
-
-“(e)
-
-Polygraph Research Program.—The Secretary of Defense shall carry out a continuing research program to support the polygraph activities of the Department of Defense. The program shall include—
-
-&emsp;“(1) an on-going evaluation of the validity of polygraph techniques used by the Department;
-
-&emsp;“(2) research on polygraph countermeasures and anti-countermeasures; and
-
-&emsp;“(3) developmental research on polygraph techniques, instrumentation, and analytic methods.
-
-“(f)
-
-Annual Report on Polygraph Programs.—(1) Not later than January 15 of each year, the Secretary of Defense shall submit to Congress a report on polygraph examinations administered by or for the Department of Defense during the previous fiscal year (whether administered under this section or any other authority).
-
-“(2) Each such report shall include the following with regard to the program authorized by subsection (a):
-
-&emsp;“(A) A statement of the number of polygraph examinations administered by or for the Department of Defense during such fiscal year.
-
-&emsp;“(B) A description of the purposes and results of such examinations.
-
-&emsp;“(C) A description of the criteria used for selecting programs and persons for such examination.
-
-&emsp;“(D) A statement of the number of persons who refused to submit to such an examination and a description of the actions taken as a result of the refusals.
-
-&emsp;“(E) A statement of the number of persons for which such an examination indicated deception and the action taken as a result of the examinations.
-
-&emsp;“(F) A detailed accounting of those cases in which more than two such examinations were needed to attempt to resolve discrepancies and those cases in which the examination of a person extended over more than one day.
-
-“(3) Each such report shall also include the following:
-
-&emsp;“(A) A description of any plans to expand the use of polygraph examinations in the Department of Defense.
-
-&emsp;“(B) A discussion of any plans of the Secretary for recruiting and training additional polygraph operators together with statistical data on the employment turnover of Department of Defense polygraph operators.
-
-&emsp;“(C) A description of the results during the preceding fiscal year of the research program under subsection (e).
-
-&emsp;“(D) A statement of the number of polygraph examinations administered to persons described in subsection (d) (which number may be set forth in a classified annex to the report).
-
-“(g)
-
-Repeal.—Section 1221 of the Department of Defense Authorization Act, 1986 (Public Law 99–145; 99 Stat. 726) \[not classified to the Code\], is repealed.
-
-“(h)
-
-Effective Date.—This section shall take effect as of October 1, 1987.”
+Pub. L. 100–180, div. A, title XI, §1121, Dec. 4, 1987, 101 Stat. 1147, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(5), Nov. 18, 1997, 111 Stat. 1906, which provided for a counterintelligence polygraph program to be carried out by the Secretary of Defense, was repealed and restated in section 1564a of this title by Pub. L. 108–136, div. A, title X, §1041(a)(1),(b), Nov. 24, 2003, 117 Stat. 1607, 1608.
 
 #### Coordination of Permanent Change of Station Moves With School Year
 
@@ -2874,7 +3372,7 @@ Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended by Pub. L. 
 
 Pub. L. 99–145, title XII, §1212, Nov. 8, 1985, 99 Stat. 726, as amended by Pub. L. 101–189, div. A, title V, §518, Nov. 29, 1989, 103 Stat. 1443, provided that:
 
-“(a) No solicitation, contract, or agreement for the provision of off-duty postsecondary education servicesfor members of the Armed Forces of the United States, civilian employees of the Department of Defense, or the dependents of such members or employees may discriminate against or preclude any accredited academic institution authorized to award one or more associate degrees from offering courses within its lawful scope of authority solely on the basis of such institution's lack of authority to award a baccalaureate degree.
+“(a) No solicitation, contract, or agreement for the provision of off-duty postsecondary education services for members of the Armed Forces of the United States, civilian employees of the Department of Defense, or the dependents of such members or employees may discriminate against or preclude any accredited academic institution authorized to award one or more associate degrees from offering courses within its lawful scope of authority solely on the basis of such institution's lack of authority to award a baccalaureate degree.
 
 “(b) No solicitation, contract, or agreement for the provision of off-duty postsecondary education services for members of the Armed Forces of the United States, civilian employees of the Department of Defense, or the dependents of such members or employees, other than those for services at the graduate or postgraduate level, may limit the offering of such services or any group, category, or level of courses to a single academic institution. However, nothing in this section shall prohibit such actions taken in accordance with regulations of the Secretary of Defense which are uniform for all armed services as may be necessary to avoid unnecessary duplication of offerings, consistent with the purpose of this provision of ensuring the availability of alternative offerors of such services to the maximum extent feasible.
 
@@ -2928,7 +3426,7 @@ Sec. 2. (a) The Secretary of Defense may use any funds available to the Departme
 
 “(b) Funds received from Russia as payment for such equipment and services shall be credited to the appropriate account of Department of Defense.”
 
-\[Pub. L. 103–199, title IV, §404(b), Dec. 17, 1993, 107 Stat. 2325, provided that: “The amendment made by subsection (a)(2) \[amending section 2(b) of Pub. L. 99–85, set out above\] does not affect the applicability of section 2(b) of that joint resolution to funds received from the Soviet Union.”\]
+\[Pub. L. 103–199, title IV, §404(b), Dec. 17, 1993, 107 Stat. 2325, provided that: “The amendment made by subsection (a)(2) \[amending section 2(b) of Pub. L. 99–85,set out above\] does not affect the applicability of section 2(b) of that joint resolution to funds received from the Soviet Union.”\]
 
 #### Consolidation of Functions of Military Transportation Commands Prohibited
 
@@ -2936,7 +3434,7 @@ Pub. L. 97–252, title XI, §1110, Sept. 8, 1982, 96 Stat. 747, provided that n
 
 #### Reports to Congress on Recommendations With Respect to Elimination of Waste, Fraud, Abuse, and Mismanagement in Department of Defense
 
-Pub. L. 97–86, title IX, §918, Dec. 1, 1981, 95 Stat. 1132, directed Secretary of Defense, not later than Jan. 15,1982 and 1983, to submit to Congress reports containing recommendations to improve efficiency and management of, and to eliminate waste, fraud, abuse, and mismanagement in, operation of Department of Defense, and to include each recommendation by Comptroller General since Jan. 1, 1979, for elimination of waste, fraud, abuse, or mismanagement in Department of Defense with a statement as to which have been adopted and, to extent practicable actual and projected cost savings from each, and which have not been adopted and, to extent practicable, projected cost savings from each and an explanation of why each such recommendation was not adopted.
+Pub. L. 97–86, title IX, §918, Dec. 1, 1981, 95 Stat. 1132, directed Secretary of Defense, not later than Jan. 15, 1982 and 1983, to submit to Congress reports containing recommendations to improve efficiency and management of, and to eliminate waste, fraud, abuse, and mismanagement in, operation of Department of Defense, and to include each recommendation by Comptroller General since Jan. 1, 1979, for elimination of waste, fraud, abuse, or mismanagement in Department of Defense with a statement as to which have been adopted and, to extent practicable actual and projected cost savings from each, and which have not been adopted and, to extent practicable, projected cost savings from each and an explanation of why each such recommendation was not adopted.
 
 #### Military Installations To Be Closed in United States, Guam, or Puerto Rico; Studies To Determine Potential Use
 
@@ -2986,9 +3484,9 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Justification Pursuant to Section 8105(d)(2) of the Department of Defense Appropriations Act, 1991 (Public Law No. 101–511; 104 Stat. 1856)
 
-In January of this year the Department of Defense signed a new Host Nation Support Agreement with the Government of Japan in which that government agreed to pay all utility and Japanese labor costs incrementally over the next five years (worth $1.7 billion). Because United States forward deployed forces stationed in Japan have regional missions in addition to the defense of Japan, we did not seek to have the Government of Japan offset all of the direct costs incurred by theUnited States related to the presence of all United States military personnel in Japan (excluding military personnel title costs).
+In January of this year the Department of Defense signed a new Host Nation Support Agreement with the Government of Japan in which that government agreed to pay all utility and Japanese labor costs incrementally over the next five years (worth $1.7 billion). Because United States forward deployed forces stationed in Japan have regional missions in addition to the defense of Japan, we did not seek to have the Government of Japan offset all of the direct costs incurred by the United States related to the presence of all United States military personnel in Japan (excluding military personnel title costs).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 117, 183, 487, 667, 2220, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 section 1523; title 50 App. sections 2077, 2152.
+This section is referred to in sections 117, 153, 487, 667, 2501, 3038, 5143, 5144, 8038, 10504 of this title; title 22 section 2595a; title 50 section 1523; title 50 App. sections 2077, 2152.
 

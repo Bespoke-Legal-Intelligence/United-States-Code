@@ -46,7 +46,7 @@ Vacancies in the Board so long as there shall be four members in office shall no
 
 #### (c) Compensation
 
-The Directors of the Corporation who are employed in the Department shall receive no additional compensation for their services as such Directors but may be allowed necessary traveling and subsistence expenses when engaged in business of the Corporation, outside of the District of Columbia. The Directors of the Corporation who are not employed by the Federal Government shall be paid such compensation for their services as Directors as the Secretary shall determine, but such compensation shall not exceed the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 when actually employed, and actual necessary traveling and subsistence expenses, or a per diem allowance in lieu of subsistence expenses, as authorized by section 5703 of title 5 for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business.
+The Directors of the Corporation who are employed in the Department shall receive no additional compensation for their services as such Directors but may be allowed necessary traveling and subsistence expenses when engaged in business of the Corporation, outside of the District of Columbia. The Directors of the Corporation who are not employed by the Federal Government shall be paid such compensation fortheir services as Directors as the Secretary shall determine, but such compensation shall not exceed the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 when actually employed, and actual necessary traveling and subsistence expenses, or a per diem allowance in lieu of subsistence expenses, as authorized by section 5703 of title 5 for persons in Government service employed intermittently, when on the business of the Corporation away from their homes or regular places of business.
 
 #### (d) Manager of Corporation
 
@@ -84,7 +84,7 @@ The manager of the Corporation shall be its chief executive officer, with such p
 
 #### (5) Funding of reviews
 
-&emsp;Each contract to conduct a review under this subsection shall be funded from amountsmade available under section 1516(b)(2)(A)(ii) of this title.
+&emsp;Each contract to conduct a review under this subsection shall be funded from amounts made available under section 1516(b)(2)(A)(ii) of this title.
 
 #### (6) Relation to other authority
 
@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 103–354, §102(b)(4)(B), (C), struck out “of Agricultur
 
 Subsec. (d). Pub. L. 103–354, §§102(b)(4)(C), 115(a)(2), in first sentence struck out “upon him” before “by the Board”, and in second sentence substituted “The manager shall” for “He shall” and struck out “of Agriculture” after “Secretary”.
 
-1980—Subsec. (a). Pub. L. 96–365, §102(a), increased Board membership to seven from five persons; substituted provisions including on the Board the Under Secretaries or Assistant Secretaries of Agriculture for crop insurance and farm credit programs and one person experienced in crop insurance business for former provisions including on the Board two other Agriculture Department employees and two persons with insurance business experience; authorized appointment of three active farmers not otherwise Federal employees; and required farmer appointees to be policyholders and representative of agricultural interests of different geographic areas.
+1980—Subsec. (a). Pub. L. 96–365, §102(a), increased Board membership to seven from five persons; substituted provisions including on the Board the Under Secretaries or Assistant Secretaries of Agriculture for crop insurance and farm credit programs and one person experienced in crop insurance business for former provisions including on the Board two other Agriculture Department employees and two persons withinsurance business experience; authorized appointment of three active farmers not otherwise Federal employees; and required farmer appointees to be policyholders and representative of agricultural interests of different geographic areas.
 
 Subsec. (b). Pub. L. 96–365, §102(b), substituted “four” for “three” in two places.
 

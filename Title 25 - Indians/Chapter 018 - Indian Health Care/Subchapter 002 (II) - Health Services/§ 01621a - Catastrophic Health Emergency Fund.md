@@ -44,7 +44,7 @@ Amounts appropriated to the Fund under this section shall not be used to offset 
 
 #### (d) Reimbursements to Fund
 
-There shall be deposited into the Fund all reimbursements to which the Service is entitled from any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from the Fund.
+There shall be deposited into the Fund all reimbursements to which the Service is entitledfrom any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from the Fund.
 
 (Pub. L. 94–437, title II, §202, as added Pub. L. 100–713, title II, §202, Nov. 23, 1988, 102 Stat. 4803; amended Pub. L. 102–573, title II, §§202(a), 217(b)(2), Oct. 29, 1992, 106 Stat. 4546, 4559.)
 

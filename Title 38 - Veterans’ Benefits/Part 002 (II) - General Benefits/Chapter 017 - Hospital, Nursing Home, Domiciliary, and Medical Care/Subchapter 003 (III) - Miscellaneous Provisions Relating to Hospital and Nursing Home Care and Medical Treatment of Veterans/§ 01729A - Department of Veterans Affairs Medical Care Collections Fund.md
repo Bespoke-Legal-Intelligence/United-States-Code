@@ -2,7 +2,7 @@
 
 (a) There is in the Treasury a fund to be known as the Department of Veterans Affairs Medical Care Collections Fund.
 
-(b) Amounts recovered or collected after June 30, 1997, under any of the following provisions of law shall be deposited in the fund:
+(b) Amounts recovered or collected under any of the following provisions of law shall be deposited in the fund:
 
 &emsp;(1) Section 1710(f) of this title.
 
@@ -18,7 +18,11 @@
 
 &emsp;(7) Section 1784 of this title.
 
-&emsp;(8) Public Law 87–693, popularly known as the “Federal Medical Care Recovery Act” (42 U.S.C. 2651 et seq.), to the extent that a recovery or collection under that law is based on medical care or services furnished under this chapter.
+&emsp;(8) Section 8165(a) of this title.
+
+&emsp;(9) Section 113 of the Veterans Millennium Health Care and Benefits Act (Public Law 106–117; 38 U.S.C. 8111 note).
+
+&emsp;(10) Public Law 87–693, popularly known as the “Federal Medical Care Recovery Act” (42 U.S.C. 2651 et seq.), to the extent that a recovery or collection under that law is based on medical care or services furnished under this chapter.
 
 (c)(1) Subject to the provisions of appropriations Acts, amounts in the fund shall be available, without fiscal year limitation, to the Secretary for the following purposes:
 
@@ -28,29 +32,25 @@
 
 (2) Amounts available under paragraph (1) may not be used for any purpose other than a purpose set forth in subparagraph (A) or (B) of that paragraph.
 
-(3)(A) If for fiscal year 1998 the Secretary determines that the total amount to be recovered under the provisions of law specified in subsection (b) will be less than the amount contained in the latest Congressional Budget Office baseline estimate (computed under section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985) for the amount of such recoveries for fiscal year 1998 by at least $25,000,000, the Secretary shall promptly certify to the Secretary of the Treasury the amount of the shortfall (as estimated by the Secretary) that is in excess of $25,000,000. Upon receipt of such a certification, the Secretary of the Treasury shall, not later than 30 days after receiving the certification, deposit in the fund, from any unobligated amounts in the Treasury, an amount equal to the amount certified by the Secretary.
-
-(B) If for fiscal year 1998 a deposit is made under subparagraph (A) and the Secretary subsequently determines that the actual amount recovered for that fiscal year under the provisions of law specified in subsection (b) is greater than the amount estimated by the Secretary that was used for purposes of the certification by the Secretary under subparagraph (A), the Secretary shall pay into the general fund of the Treasury,from amounts available for medical care, an amount equal to the difference between the amount actually recovered and the amount so estimated (but not in excess of the amount of the deposit under subparagraph (A) pursuant to such certification).
-
-(C) If for fiscal year 1998 a deposit is made under subparagraph (A) and the Secretary subsequently determines that the actual amount recovered for that fiscal year under the provisions of law specified in subsection (b) is less than the amount estimated by the Secretary that was used for purposes of the certification by the Secretary under subparagraph (A), the Secretary shall promptly certify to the Secretary of the Treasury the amount of the shortfall. Upon receipt of such a certification, the Secretary of the Treasury shall, not later than 30 days after receiving the certification, deposit in the fund, from any unobligated amounts in the Treasury, an amount equal to the amount certified by the Secretary.
-
 (d) Of the total amount recovered or collected by the Department during a fiscal year under the provisions of law referred to in subsection (b) and made available from the fund, the Secretary shall make available to each Department health care facility of the Department an amount that bears the same ratio to the total amount so made available as the amount recovered or collected by such facility during that fiscal year under such provisions of law bears to such total amount recovered or collected during that fiscal year. The Secretary shall make available to each facility the entirety of the amount specified to be made available to such facility by the preceding sentence.
 
-(e)(1) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on the operation of this section for fiscal years 1998, 1999, and 2000 and for the first quarter of fiscal year 2001. Each such report shall specify the amount collected under each of the provisions specified in subsection (b) during the preceding quarter and the amount originally estimated to be collected under each such provision during such quarter.
+(e) Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
 
-(2) A report under paragraph (1) for a quarter shall be submitted not later than 45 days after the end of that quarter.
-
-(f) Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
-
-(Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, §208(e)(5), Jan. 23, 2002, 115 Stat. 2463.)
+(Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, §208(e)(5), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 108–7, div. K, title I, §113(b), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–183, title VII, §708(a)(2), Dec. 16, 2003, 117 Stat. 2673.)
 
 #### References in Text
 
-Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(8), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
-
-Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(3)(A), is classified to section 907 of Title 2, The Congress.
+Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(10), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–183, §708(a)(2)(A), struck out “after June 30, 1997,” after “collected” in introductory provisions.
+
+Subsec. (b)(8) to (10). Pub. L. 108–7 added pars. (8) and (9) and redesignated former par. (8) as (10).
+
+Subsec. (c)(3). Pub. L. 108–183, §708(a)(2)(B), struck out par. (3) which related to duties of the Secretary for fiscal year 1998.
+
+Subsecs. (e), (f). Pub. L. 108–183, §708(a)(2)(C), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on the operation of the section for fiscal years 1998, 1999, and 2000 and for the first quarter of fiscal year 2001.
 
 2002—Subsec. (b)(7), (8). Pub. L. 107–135 added par. (7) and redesignated former par. (7) as (8).
 
@@ -72,5 +72,5 @@ Section 8023(f) of Pub. L. 105–33 provided that: “Not later than January 1, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1729B, 1785 of this title.
+This section is referred to in sections 1785, 8165 of this title.
 

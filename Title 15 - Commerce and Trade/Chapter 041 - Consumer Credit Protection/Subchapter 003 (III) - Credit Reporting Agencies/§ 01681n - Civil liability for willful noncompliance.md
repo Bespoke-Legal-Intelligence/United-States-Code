@@ -20,7 +20,7 @@ Any person who obtains a consumer report from a consumer reporting agency under 
 
 Upon a finding by the court that an unsuccessful pleading, motion, or other paper filed in connection with an action under this section was filed in bad faith or for purposes of harassment, the court shall award to the prevailing party attorney's fees reasonable in relation to the work expended in responding to the pleading, motion, or other paper.
 
-(Pub. L. 90–321, title VI, §616, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, §2412(a)–(c), (e)(1), Sept. 30, 1996, 110 Stat. 3009–446.)
+(Pub. L. 90–321, title VI, §616, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134;amended Pub. L. 104–208, div. A, title II, §2412(a)–(c), (e)(1), Sept. 30, 1996, 110 Stat. 3009–446.)
 
 #### Amendments
 
@@ -36,7 +36,11 @@ Subsec. (c). Pub. L. 104–208, §2412(e)(1), added subsec. (c).
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
+#### Construction
+
+Pub. L. 108–159, title III, §312(f), Dec. 4, 2003, 117 Stat. 1993, provided that: “Nothing in this section, the amendments made by this section, or any other provision of this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act (15 U.S.C. 1681n, 1681<i>o</i>) that existed on the day before the date of enactment of this Act \[Dec. 4, 2003\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681h, 1681n, 1681s–2 of this title.
+This section is referred to in sections 1681g, 1681h, 1681m, 1681s–2 of this title.
 

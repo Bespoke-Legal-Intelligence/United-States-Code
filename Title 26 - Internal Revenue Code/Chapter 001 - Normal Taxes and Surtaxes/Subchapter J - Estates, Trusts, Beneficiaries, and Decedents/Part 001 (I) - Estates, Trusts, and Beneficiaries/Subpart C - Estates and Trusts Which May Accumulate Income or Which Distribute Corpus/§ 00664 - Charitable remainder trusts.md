@@ -126,7 +126,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
-> &emsp;For purposes of the preceding sentence, the term “independent trustee” means any trustee who is not a member of the family (within themeaning of section 2032A(e)(2)) of the decedent or a 5-percent shareholder. A plan shall not fail to be treated as meeting the requirements of section 401(a) by reason of meeting the requirements of this subsection.
+> &emsp;For purposes of the preceding sentence, the term “independent trustee” means any trustee who is not a member of the family (within the meaning of section 2032A(e)(2)) of the decedent or a 5-percent shareholder. A plan shall not fail to be treated as meeting the requirements of section 401(a) by reason of meeting the requirements of this subsection.
 
 #### (4) Qualified employer securities
 
@@ -150,7 +150,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (B) 5-percent shareholder
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “5-percent shareholder” means any person who owns (directly or through the application of section 318(a)) more than 5 percent of the outstanding stock of the corporation which issued such qualified employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of section 409(<i>l</i>)(4)) as such corporation. For purposes of the preceding sentence, section 318(a) shall be applied without regard to the exception in paragraph (2)(B)(i) thereof.
+&emsp;&emsp;For purposes of subparagraph (A), the term “5-percent shareholder” means any person who owns (directly or through the application of section 318(a)) more than 5 percent of the outstanding stock of the corporation which issued such qualified employer securities or of any corporation which is a member of the same controlled group of corporations (within the meaning of section 409(<i>l</i>)(4)) assuch corporation. For purposes of the preceding sentence, section 318(a) shall be applied without regard to the exception in paragraph (2)(B)(i) thereof.
 
 #### (C) Cross reference
 
@@ -204,7 +204,7 @@ Subsec. (d)(1)(B). Pub. L. 105–34, §1530(c)(5), inserted “and other than qu
 
 Pub. L. 105–34, §1089(b)(1), struck out “and” at end.
 
-Subsec. (d)(1)(C). Pub. L. 105–34, §1530(a), which directed amendment of subpar. (C) by striking period at end and inserting “or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)).”, was executedby making the insertion after “for such a use” to reflect the probable intent of Congress. Subpar. (C) did not contain a period after amendment by Pub. L. 105–34, §1089(b)(1). See below.
+Subsec. (d)(1)(C). Pub. L. 105–34, §1530(a), which directed amendment of subpar. (C) by striking period at end and inserting “or, to the extent the remainder interest is in qualified employer securities (as defined in subsection (g)(4)), all or part of such securities are to be transferred to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by subsection (g)).”, was executed by making the insertion after “for such a use” to reflect the probable intent of Congress. Subpar. (C) did not contain a period after amendment by Pub. L. 105–34, §1089(b)(1). See below.
 
 Pub. L. 105–34, §1089(b)(1), struck out period after “for such a use”.
 

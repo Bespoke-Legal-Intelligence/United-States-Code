@@ -44,7 +44,7 @@
 
 #### (B) Emergency sales
 
-&emsp;&emsp;For purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\], any amount paid in any sale authorized under section 3362(a) of this title shall be deemed to be just and reasonable if such amount does not exceed the fair and equitable price established under such section and applicable to such sale.
+&emsp;&emsp;For purposes of sections 4 and 5 of the Natural Gas Act \[15 U.S.C. 717c, 717d\], any amount paid in any sale authorized under section 3362(a) of this title shall be deemedto be just and reasonable if such amount does not exceed the fair and equitable price established under such section and applicable to such sale.
 
 #### (C) Sales by intrastate pipelines
 

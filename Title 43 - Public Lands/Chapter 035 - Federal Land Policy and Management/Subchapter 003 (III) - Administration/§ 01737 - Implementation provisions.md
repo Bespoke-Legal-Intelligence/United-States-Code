@@ -10,7 +10,7 @@ Subject to the provisions of applicable law, the Secretary may enter into contra
 
 #### (c) Contributions and donations of money, services, and property
 
-The Secretary may accept contributions or donations of money, services, and property, real, personal, or mixed, for the management, protection, development, acquisition, and conveying of the public lands, including the acquisition of rights-of-way for such purposes. He may accept contributions for cadastral surveying performed on federally controlled or intermingled lands. Moneys received hereunder shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available until expended, as the Secretary may direct, for payment of expenses incident to the function toward the administration of which the contributions were made and for refunds to depositors of amounts contributed by them in specific instances where contributions are in excess of their share of the cost.
+The Secretary may accept contributions or donations of money, services, and property, real,personal, or mixed, for the management, protection, development, acquisition, and conveying of the public lands, including the acquisition of rights-of-way for such purposes. He may accept contributions for cadastral surveying performed on federally controlled or intermingled lands. Moneys received hereunder shall be credited to a separate account in the Treasury and are hereby authorized to be appropriated and made available until expended, as the Secretary may direct, for payment of expenses incident to the function toward the administration of which the contributions were made and for refunds to depositors of amounts contributed by them in specific instances where contributions are in excess of their share of the cost.
 
 #### (d) Recruitment of volunteers
 
@@ -44,7 +44,7 @@ Effective with fiscal years beginning after September 30, 1984, there are author
 
 The civil service classification laws, referred to in subsec. (d), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
-The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Federal Tort Claims Act, which is classified generally to section 1346(b) and chapter 171\(§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Federal Tort Claims Act, which is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

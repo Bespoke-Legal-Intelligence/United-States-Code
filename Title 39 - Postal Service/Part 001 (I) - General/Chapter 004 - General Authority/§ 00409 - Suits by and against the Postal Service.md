@@ -1,6 +1,6 @@
 ### §409. Suits by and against the Postal Service
 
-(a) Except as provided in section 3628 of this title, the United States district courts shall have original but not exclusive jurisdiction over all actions brought by or against the Postal Service. Any action brought in a State court towhich the Postal Service is a party may be removed to the appropriate United States district court under the provisions of chapter 89 of title 28.
+(a) Except as provided in section 3628 of this title, the United States district courts shall have original but not exclusive jurisdiction over all actions brought by or against the Postal Service. Any action brought in a State court to which the Postal Service is a party may be removed to the appropriate United States district court under the provisions of chapter 89 of title 28.
 
 (b) Unless otherwise provided in this title, the provisions of title 28 relating to service of process, venue, and limitations of time for bringing action in suits in which the United States, its officers, or employees are parties, and the rules of procedure adopted under title 28 for suits in which the United States, its officers, or employees are parties, shall apply in like manner to suits in which the Postal Service, its officers, or employees are parties.
 

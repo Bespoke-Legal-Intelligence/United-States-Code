@@ -10,10 +10,13 @@
 | [1556\.](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md) | Ex parte communications prohibited. |
 | [1557\.](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md) | Timeliness standards for disposition of applications before Corrections Boards. |
 | [1558\.](%C2%A7%2001558%20-%20Review%20of%20actions%20of%20selection%20boards%20correction%20of%20military%20records%20by%20special%20boards%3B%20judicial%20review.md) | Review of actions of selection boards: correction of military records by special boards; judicial review. |
+| [1559\.](%C2%A7%2001559%20-%20Personnel%20limitation.md) | Personnel limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §552(b), Dec. 2, 2002, 116 Stat. 2552, added item 1559.
 
 2001—Pub. L. 107–107, div. A, title V, §503(a)(2), Dec. 28, 2001, 115 Stat. 1083, added item 1558.
 
@@ -36,3 +39,4 @@
 - [&sect; 01556 - Ex parte communications prohibited](%C2%A7%2001556%20-%20Ex%20parte%20communications%20prohibited.md)
 - [&sect; 01557 - Timeliness standards for disposition of applications before Corrections Boards](%C2%A7%2001557%20-%20Timeliness%20standards%20for%20disposition%20of%20applications%20before%20Corrections%20Boards.md)
 - [&sect; 01558 - Review of actions of selection boards correction of military records by special boards; judicial review](%C2%A7%2001558%20-%20Review%20of%20actions%20of%20selection%20boards%20correction%20of%20military%20records%20by%20special%20boards%3B%20judicial%20review.md)
+- [&sect; 01559 - Personnel limitation](%C2%A7%2001559%20-%20Personnel%20limitation.md)

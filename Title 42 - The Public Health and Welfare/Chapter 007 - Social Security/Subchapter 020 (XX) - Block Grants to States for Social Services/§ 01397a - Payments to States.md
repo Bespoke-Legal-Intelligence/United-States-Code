@@ -44,7 +44,7 @@ A State may use funds provided under this subchapter to provide vouchers, for se
 
 &emsp;&emsp;(B) a person who received such assistance at any time during the 10-month period ending with the birth of the child.
 
-(Aug. 14, 1935, ch. 531, title XX, §2002, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 867; amended Pub. L. 98–369, div. B, titleVI, §2663(h)(1), July 18, 1984, 98 Stat. 1169; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–193, title IX, §908(b), Aug. 22, 1996, 110 Stat. 2351.)
+(Aug. 14, 1935, ch. 531, title XX, §2002, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 867; amended Pub. L. 98–369, div. B, title VI, §2663(h)(1), July 18, 1984, 98 Stat. 1169; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–193, title IX, §908(b), Aug. 22, 1996, 110 Stat. 2351.)
 
 #### References in Text
 
@@ -54,7 +54,7 @@ Part A of subchapter IV of this chapter, referred to in subsec. (f), is classifi
 
 #### Prior Provisions
 
-A prior section 1397a, acts Aug. 14, 1935, ch. 531, title XX, §2002, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2337; amended Oct. 21, 1975, Pub. L. 94–120, §4(b), 89 Stat. 609; Sept. 7, 1976, Pub. L. 94–401, §§1(a)–(c), 5(a), 90 Stat. 1215, 1218; June 30, 1977, Pub. L. 95–59, §5, 91 Stat. 255; Oct. 25, 1977, Pub. L. 95–142, §§3(d)(2), 8(d), 91 Stat. 1179, 1195; Nov. 6, 1978, Pub. L. 95–600, title VIII, §801(a), 92 Stat. 2944; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–178, §4(a), (c), 93 Stat. 1296, 1297; June 17, 1980, Pub. L. 96–272, title I, §103(e), title II, §§201–204(a), 205(a), 206(e), 207(a), 94 Stat. 521–525; Dec. 5, 1980, Pub. L. 96–499, title X, §1001(a), 94 Stat. 2655, related to payments to States and computation of amounts, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
+A prior section 1397a, acts Aug. 14, 1935, ch. 531, title XX, §2002, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2337; amended Oct. 21, 1975, Pub. L. 94–120, §4(b), 89 Stat. 609; Sept. 7, 1976, Pub. L. 94–401, §§1(a)–(c), 5(a), 90 Stat. 1215, 1218; June 30, 1977, Pub. L. 95–59, §5, 91 Stat. 255; Oct. 25, 1977, Pub. L. 95–142, §§3(d)(2), 8(d), 91 Stat. 1179, 1195; Nov. 6, 1978, Pub. L. 95–600, title VIII, §801(a), 92 Stat. 2944; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Jan. 2, 1980, Pub. L. 96–178, §4(a), (c), 93 Stat. 1296, 1297; June 17, 1980, Pub. L. 96–272, title I, §103(e), title II, §§201–204(a), 205(a), 206(e), 207(a), 94 Stat. 521–525; Dec. 5, 1980, Pub. L. 96–499, title X, §1001(a), 94 Stat. 2655, related to payments to Statesand computation of amounts, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
 

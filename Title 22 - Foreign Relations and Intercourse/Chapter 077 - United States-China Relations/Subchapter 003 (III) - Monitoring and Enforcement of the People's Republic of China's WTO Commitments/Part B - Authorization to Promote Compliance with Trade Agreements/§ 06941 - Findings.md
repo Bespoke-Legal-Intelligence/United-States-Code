@@ -8,7 +8,7 @@ The Congress finds as follows:
 
 &emsp;(3) The United States Government must continue to be vigilant in monitoring and enforcing the compliance by our trading partners with trade agreements in order for United States businesses, workers, and farmers to continue to benefit from the opportunities created by market-opening trade agreements.
 
-&emsp;(4) The People's Republic of China, as part of its accession to the World Trade Organization, has committed to eliminating significant trade barriers in the agricultural, services, and manufacturing sectors that, if realized, would provide considerable opportunities for United States farmers, businesses, and workers.
+&emsp;(4) The People's Republic of China, as part of its accession to the World Trade Organization, has committed to eliminating significant trade barriers in the agricultural, services, and manufacturing sectors that, if realized,would provide considerable opportunities for United States farmers, businesses, and workers.
 
 &emsp;(5) For these opportunities to be fully realized, the United States Government must effectively monitor and enforce its rights under the agreements on the accession of the People's Republic of China to the WTO.
 

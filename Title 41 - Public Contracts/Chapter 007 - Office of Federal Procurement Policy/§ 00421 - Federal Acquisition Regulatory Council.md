@@ -14,7 +14,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 &emsp;(C) the Administrator of General Services.
 
-(2) Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
+(2) Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) <sup>1</sup> of this title. No other official or employee may be designated to serve on the Council.
 
 #### (c) Functions
 
@@ -42,7 +42,7 @@ Subject to the authority, direction, and control of the head of the agency conce
 
 &emsp;(3) eliminate or reduce (A) any redundant or unnecessary levels of review and approval, in the procurement system of such agency, and (B) redundant or unnecessary procurement regulations which are unique to that agency.
 
-> The authority to review and approve or disapprove regulations under paragraph (1) of this subsection may not be delegated to any personoutside the office of the official who represents the agency on the Council pursuant to subsection (b) of this section.
+> The authority to review and approve or disapprove regulations under paragraph (1) of this subsection may not be delegated to any person outside the office of the official who represents the agency on the Council pursuant to subsection (b) of this section.
 
 #### (e) Governing policies
 
@@ -55,6 +55,8 @@ Subject to section 405(b) of this title, the Council shall manage, coordinate, c
 (Pub. L. 93–400, §25, as added Pub. L. 100–679, §4, Nov. 17, 1988, 102 Stat. 4056; amended Pub. L. 101–510, div. A, title VIII, §807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, div. D, title XLIII, §4322(a)(2), Feb. 10, 1996, 110 Stat. 677; Pub. L. 104–201, div. A, title VIII, §822, title X, §1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661; Pub. L. 105–85, div. A, title VIII, §841(d), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### References in Text
+
+Section 414 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Tables.
 

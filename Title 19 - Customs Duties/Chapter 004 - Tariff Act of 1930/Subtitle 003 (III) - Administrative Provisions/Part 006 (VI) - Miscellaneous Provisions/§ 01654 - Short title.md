@@ -42,11 +42,11 @@ Section 201 of Pub. L. 91–271, June 2, 1970, 84 Stat. 282, provided that: “T
 
 #### Short Title of 1966 Amendment
 
-Section 1(a) of Pub. L. 89–651, Oct. 14, 1966, 80 Stat. 897, provided: “That this Act \[enacting section 1544 of Title 28, Judiciary and Judicial Procedure, amending Schedules 2, 7, and 8 of the Tariff Schedules of the United States and section 2602 of Title 28, and enacting provisions set out as a note preceding section 1202 and under section 1981 of this title\] may be cited as the ‘Educational, Scientific, and Cultural Materials Importation Act of 1966’.”
+Section 1(a) of Pub. L. 89–651, Oct. 14, 1966, 80 Stat. 897, provided: “That this Act \[enacting section 1544 ofTitle 28, Judiciary and Judicial Procedure, amending Schedules 2, 7, and 8 of the Tariff Schedules of the United States and section 2602 of Title 28, and enacting provisions set out as a note preceding section 1202 and under section 1981 of this title\] may be cited as the ‘Educational, Scientific, and Cultural Materials Importation Act of 1966’.”
 
 #### Short Title of 1965 Amendment
 
-Section 1(a) of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided: “That this Act \[amending section 1202 of thistitle and Schedules 1 to 8 and Appendix to Schedules, and enacting provisions set out as notes preceding section 1202 and under section 1981 of this title\] may be cited as the ‘Tariff Schedules Technical Amendments Act of 1965’.”
+Section 1(a) of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided: “That this Act \[amending section 1202 of this title and Schedules 1 to 8 and Appendix to Schedules, and enacting provisions set out as notes preceding section 1202 and under section 1981 of this title\] may be cited as the ‘Tariff Schedules Technical Amendments Act of 1965’.”
 
 Section 1(c) of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that: “Title I of the Tariff Act of 1930 \[subtitle I of this chapter\], as in effect on or after August 31, 1963, may be cited as the ‘Tariff Schedules of the United States’.”
 

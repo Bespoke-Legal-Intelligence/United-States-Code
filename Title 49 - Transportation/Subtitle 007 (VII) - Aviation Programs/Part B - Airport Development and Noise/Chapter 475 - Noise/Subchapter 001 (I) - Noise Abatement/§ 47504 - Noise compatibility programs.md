@@ -34,6 +34,8 @@ Approvals.—(1) The Secretary shall approve or disapprove a program submitted u
 
 (3) The Secretary shall submit any part of a program related to flight procedures referred to in subsection (a)(2)(D) of this section to the Administrator of the Federal Aviation Administration. The Administrator shall approve or disapprove that part of the program.
 
+(4) The Secretary shall not approve in fiscal years 2004 through 2007 a program submitted under subsection (a) if the program requires the expenditure of funds made available under section 48103 for mitigation of aircraft noise less than 65 DNL.
+
 (c)
 
 Grants.—(1) The Secretary may incur obligations to make grants from amounts available under section 48103 of this title to carry out a project under a part of a noise compatibility program approved under subsection (b) of this section. A grant may be made to—
@@ -62,9 +64,11 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;&emsp;(iii) if the Secretary determines that the proposed projects are compatible with the purposes of this chapter;
 
-&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program; and
+&emsp;(C) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to carry out any part of a program developed before February 18, 1980, or before implementing regulations were prescribed, if the Secretary decides the program is substantially consistent with reducing existing noncompatible uses and preventing the introduction of additional noncompatible uses and the purposes of this chapter will be furthered by promptly carrying out the program;
 
-&emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise.
+&emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or\(1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise; and
+
+&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations.
 
 (3) An airport operator may agree to make a grant made under paragraph (1)(A) of this subsection available to a public agency in the area surrounding the airport if the Secretary decides the agency is able to carry out the project.
 
@@ -88,7 +92,7 @@ Aircraft noise primarily caused by military aircraft.—The Secretary may make a
 
 Government Relief From Liability.—The Government is not liable for damages from aviation noise because of action taken under this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1285; Pub. L. 103–305, title I, §119, Aug. 23, 1994, 108 Stat. 1580; Pub. L. 103–429, §6(71), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 106–181, title I, §154, Apr. 5, 2000, 114 Stat. 88; Pub. L. 108–176, title I, §189, title III, §306, Dec. 12, 2003, 117 Stat. 2519, 2539.)
 
 Historical and Revision Notes
 
@@ -154,6 +158,10 @@ Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act
 
 #### Amendments
 
+2003—Subsec. (b)(4). Pub. L. 108–176, §189, added par. (4).
+
+Subsec. (c)(2)(C)–(E). Pub. L. 108–176, §306, realigned margins of subpars. (C) and (D) and added subpar. (E).
+
 2000—Subsec. (c)(6). Pub. L. 106–181 added par. (6).
 
 1994—Subsec. (c)(1)(A). Pub. L. 103–429, §6(71)(A), inserted “and” after semicolon at end.
@@ -180,11 +188,15 @@ Pub. L. 103–305, §119(1), redesignated par. (3) as (4). Former par. (4) redes
 
 Subsec. (c)(5). Pub. L. 103–305, §119(1), redesignated par. (4) as (5).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40117, 47117, 47505, 48103 of this title.
+This section is referred to in sections 106, 40117, 47117, 47141, 47505, 48103 of this title.
 

@@ -56,7 +56,7 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(2)(D), is act Feb.
 
 1990—Subsec. (b)(2)(D). Pub. L. 101–508 which directed that “, a transaction to which section 371 (relating to insolvency reorganization) applies,” be struck out was executed by striking out “, a transaction to which section 371 (relating to insolvency reorganizations) applies,” after “(as defined in section 368(a))”. See 1996 Amendment note above.
 
-1978—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “thesum of the normal tax rate and the surtax rate for the taxable year specified in section 11”.
+1978—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year specified in section 11”.
 
 1976—Subsec. (b)(2). Pub. L. 94–455 divided existing provisions into subpars. (A), (B), (C), and (D), added headings for subpars. (A), (B), (C), and (D), and, in subpar. (C) as so redesignated, substituted “prescribed by the Secretary” for “prescribed by the Secretary or his delegate”.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) ofPub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Savings Provision
 

@@ -6,7 +6,7 @@
 
 #### (A) Development, procurement, maintenance, or use of electronic and information technology
 
-&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency,including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
+&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
 
 &emsp;&emsp;&emsp;(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
 

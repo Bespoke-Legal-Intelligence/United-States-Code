@@ -158,7 +158,7 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 (5) Not later than 180 days after the close of the term of the last grant awarded pursuant to this subsection, the Secretary shall submit to the Congress a report evaluating the effectiveness of the innovative community-based projects demonstrated pursuant to this subsection. Such report shall include findings and recommendations, if any, relating to the reorganization of the programs of the Service for delivery of mental health services to Indians.
 
-(6) Grants made pursuant to this section may be expended over a period of three years and no grant may exceed $1,000,000 for the fiscal years involved.
+(6) Grants made pursuant to this section may be expended over a period of three years and nogrant may exceed $1,000,000 for the fiscal years involved.
 
 #### (<i>l</i>) Licensing requirement for mental health care workers
 

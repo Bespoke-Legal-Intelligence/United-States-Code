@@ -8,7 +8,7 @@
 
 &emsp;(A) in any calendar year during which there is regularly scheduled election for which such candidate is seeking election, or nomination for election, the treasurer shall file the following reports:
 
-&emsp;&emsp;(i) a pre-election report, which shall be filed no later than the 12th day before (or posted by registered or certified mail no later than the 15th day before) any election in which such candidate is seeking election, or nomination for election, and which shall be complete as of the 20th day before such election;
+&emsp;&emsp;(i) a pre-election report, which shall be filed no later than the 12th day before (or posted by registered or certified mail no later than the 15th day before) any election in which such candidate is seeking election, or nomination for election, and which shallbe complete as of the 20th day before such election;
 
 &emsp;&emsp;(ii) a post-general election report, which shall be filed no later than the 30th day after any general election in which such candidate has sought election, and which shall be complete as of the 20th day after such general election; and
 
@@ -40,7 +40,7 @@
 
 &emsp;(iii) a post-general election report, which shall be filed no later than the 30th day after the general election and which shall be complete as of the 20th day after such general election; and
 
-&emsp;(iv) in any other calendar year, a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31 and a report covering the period beginning July 1 and ending December 31, whichshall be filed no later than January 31 of the following calendar year; or
+&emsp;(iv) in any other calendar year, a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31 and a report covering the period beginning July 1 and ending December 31, which shall be filed no later than January 31 of the following calendar year; or
 
 &emsp;(B) monthly reports in all calendar years which shall be filed no later than the 20th day after the last day of the month and shall be complete as of the last day of the month, except that, in lieu of filing the reports otherwise due in November and December of any year in which a regularly scheduled general election is held, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year.
 
@@ -48,7 +48,7 @@
 
 (5) If a designation, report, or statement filed pursuant to this Act (other than under paragraph (2)(A)(i) or (4)(A)(ii), or subsection (g)(1) of this section) is sent by registered or certified mail, the United States postmark shall be considered the date of filing of the designation, report, or statement.
 
-(6)(A) The principal campaign committee of a candidate shall notify the Secretary or the Commission, and the Secretary of State, as appropriate, in writing, of any contribution of $1,000 or more received by any authorized committee of such candidate after the 20th day, but more than 48 hours before, any election. This notification shall be made within 48 hours after the receipt of such contribution and shall include the name of the candidate and the office sought by the candidate, the identification of the contributor, and the date of receipt and amount of the contribution.
+(6)(A) The principal campaign committee of a candidate shall notify the Secretary or the Commission, and the Secretary of State, as appropriate, in writing, of any contribution of $1,000 or more received by any authorized committee of such candidate after the 20th day, but more than 48 hours before, any election. This notification shall be made within 48 hours after the receipt of such contribution and shall include the name of the candidate and the office sought bythe candidate, the identification of the contributor, and the date of receipt and amount of the contribution.
 
 (B)
 
@@ -112,7 +112,7 @@ Enforcement.—For provisions providing for the enforcement of the reporting req
 
 (8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
-(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission maywaive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
+(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
 (10) The treasurer of a committee supporting a candidate for the office of Vice President (other than the nominee of a political party) shall file reports in accordance with paragraph (3).
 
@@ -148,15 +148,15 @@ In general.—The Commission shall—
 
 &emsp;(B)
 
-Additional informationTo the extent feasible, the Commission shall require vendors to include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
+Additional information.—To the extent feasible, the Commission shall require vendors to include in the software developed under the standards under subparagraph (A) the ability for any person to file any designation, statement, or report required under this Act in electronic form.
 
 &emsp;(C)
 
-Required useNotwithstanding any provision of this Act relating to times for filing reports, each candidate for Federal office (or that candidate's authorized committee) shall use software that meets the standards promulgated under this paragraph once such software is made available to such candidate.
+Required use.—Notwithstanding any provision of this Act relating to times for filing reports, each candidate for Federal office (or that candidate's authorized committee) shall use software that meets the standards promulgated under this paragraph once such software is made available to such candidate.
 
 &emsp;(D)
 
-Required postingThe Commission shall, as soon as practicable, post on the Internet any information received under this paragraph.
+Required posting.—The Commission shall, as soon as practicable, post on the Internet any information received under this paragraph.
 
 #### (b) Contents of reports
 
@@ -192,7 +192,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(A) person (other than a political committee) who makes a contribution to the reporting committee during the reporting period, whose contribution or contributions have an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), or in any lesser amount if the reporting committee should so elect, together with the date and amount of any such contribution;
 
-&emsp;&emsp;(B) political committee which makes a contribution to the reporting committee during the reporting period, together withthe date and amount of any such contribution;
+&emsp;&emsp;(B) political committee which makes a contribution to the reporting committee during the reporting period, together with the date and amount of any such contribution;
 
 &emsp;&emsp;(C) authorized committee which makes a transfer to the reporting committee;
 
@@ -304,7 +304,7 @@ Each report under this section shall disclose—
 
 #### (3) Itemization
 
-&emsp;If a political committee has receipts or disbursements to which this subsection applies from or to any person aggregating in excess of $200 for any calendar year, the political committee shall separately itemize its reportingfor such person in the same manner as required in paragraphs (3)(A), (5), and (6) of subsection (b) of this section.
+&emsp;If a political committee has receipts or disbursements to which this subsection applies from or to any person aggregating in excess of $200 for any calendar year, the political committee shall separately itemize its reporting for such person in the same manner as required in paragraphs (3)(A), (5), and (6) of subsection (b) of this section.
 
 #### (4) Reporting periods
 
@@ -326,7 +326,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(C) The amount of each disbursement of more than $200 during the period covered by the statement and the identification of the person to whom the disbursement was made.
 
-&emsp;&emsp;(D) The elections to which the electioneering communications pertain and the names (if known) of the candidates identified or to be identified.
+&emsp;&emsp;(D) The elections to which the electioneering communications pertain and the names\(if known) of the candidates identified or to be identified.
 
 &emsp;&emsp;(E) If the disbursements were paid out of a segregated bank account which consists of funds contributed solely by individuals who are United States citizens or nationals or lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8) directly to this account for electioneering communications, the names and addresses of all contributors who contributed an aggregate amount of $1,000 or more to that account during the period beginning on the first day of the preceding calendar year and ending on the disclosure date. Nothing in this subparagraph is to be construed as a prohibition on the use of funds in such a segregated account for a purpose other than electioneering communications.
 
@@ -366,7 +366,7 @@ Each report under this section shall disclose—
 
 #### (C) Targeting to relevant electorate
 
-&emsp;&emsp;For purposes of this paragraph, a communication which refers to a clearly identifiedcandidate for Federal office is “targeted to the relevant electorate” if the communication can be received by 50,000 or more persons—
+&emsp;&emsp;For purposes of this paragraph, a communication which refers to a clearly identified candidate for Federal office is “targeted to the relevant electorate” if the communication can be received by 50,000 or more persons—
 
 &emsp;&emsp;&emsp;(i) in the district the candidate seeks to represent, in the case of a candidate for Representative in, or Delegate or Resident Commissioner to, the Congress; or
 
@@ -442,7 +442,7 @@ Provisions similar to those comprising subsec. (c) of this section were containe
 
 #### Amendments
 
-2002—Subsec. (a)(2)(B). Pub. L. 107–155, §503(a), substituted “the treasurer shall file quarterly reports, which shall be filed not later than the 15th day after the last day of each calendar quarter, and which shallbe complete as of the last day of each calendar quarter, except that the report for the quarter ending December 31 shall be filed not later than January 31 of the following calendar year.” for “the following reports shall be filed:
+<b>2002</b>—Subsec. (a)(2)(B). Pub. L. 107–155, §503(a), substituted “the treasurer shall file quarterly reports, which shall be filed not later than the 15th day after the last day of each calendar quarter, and which shall be complete as of the last day of each calendar quarter, except that the report for the quarter ending December 31 shall be filed not later than January 31 of the following calendar year.” for “the following reports shall be filed:
 
 &emsp;“(i) a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31; and
 
@@ -472,13 +472,13 @@ Subsec. (g)(4). Pub. L. 107–155, §212(b)(1), added par. (4).
 
 Subsec. (h). Pub. L. 107–155, §308(b), added subsec. (h).
 
-2000—Subsec. (a)(5). Pub. L. 106–346, §101(a) \[title V, §502(c)(2)\], substituted “or (4)(A)(ii), or the second sentence of subsection (c)(2) of this section” for “or (4)(A)(ii)”.
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–346, §101(a) \[title V, §502(c)(2)\], substituted “or (4)(A)(ii), or the second sentence of subsection (c)(2) of this section” for “or (4)(A)(ii)”.
 
 Subsec. (c)(2). Pub. L. 106–346, §101(a) \[title V, §502(c)(1)\], in concluding provisions, substituted “shall be filed within” for “shall be reported within” and inserted at end “Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
 
 Subsec. (d). Pub. L. 106–346, §101(a) \[title V, §502(a)\], added subsec. (d).
 
-1999—Subsec. (a)(11). Pub. L. 106–58, §639(a), added par. (11) and struck out former par. (11) which read as follows:
+<b>1999</b>—Subsec. (a)(11). Pub. L. 106–58, §639(a), added par. (11) and struck out former par. (11) which read as follows:
 
 “(11)(A) The Commission shall permit reports required by this Act to be filed and preserved by means of computer disk or any other appropriate electronic format or method, as determined by the Commission.
 
@@ -488,17 +488,17 @@ Subsec. (d). Pub. L. 106–346, §101(a) \[title V, §502(a)\], added subsec. (d
 
 Subsec. (b)(2) to (4), (6), (7). Pub. L. 106–58, §641(a), which directed insertion of “(or election cycle, in the case of an authorized committee of a candidate for Federal office)” after “calendar year” wherever appearing in pars. (2)–(4), (6), (7) of section 304(b) of the Federal Election Campaign Act, was executed by making the insertions in this section, which is section 304(b) of the Federal Election Campaign Act of 1971, to reflect the probable intent of Congress.
 
-1995—Subsec. (a)(6)(A). Pub. L. 104–79, §3(b)(1), substituted “notify the Secretary” for “notify the Clerk, the Secretary,” in first sentence.
+<b>1995</b>—Subsec. (a)(6)(A). Pub. L. 104–79, §3(b)(1), substituted “notify the Secretary” for “notify the Clerk, the Secretary,” in first sentence.
 
 Subsec. (a)(11). Pub. L. 104–79, §1(a), added par. (11).
 
 Subsec. (c)(2). Pub. L. 104–79, §3(b)(2), substituted “filed with the Secretary” for “filed with the Clerk, the Secretary,” in last sentence.
 
-1986—Subsec. (b)(2)(K). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b)(2)(K). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Pub. L. 96–187 completely revised this section by changing the reporting requirements of candidates and committees so as to substantially reduce the maximum number of reports to be filed while maintaining full and adequate disclosure of campaign activities.
+<b>1980</b>—Pub. L. 96–187 completely revised this section by changing the reporting requirements of candidates and committees so as to substantially reduce the maximum number of reports to be filed while maintaining full and adequate disclosure of campaign activities.
 
-1976—Subsec. (a)(1)(C). Pub. L. 94–283, §104(a), inserted provisions covering reports which must be filed in any year in which a candidate is not on the ballot for election to Federal office.
+<b>1976</b>—Subsec. (a)(1)(C). Pub. L. 94–283, §104(a), inserted provisions covering reports which must be filed in any year in which a candidate is not on the ballot for election to Federal office.
 
 Subsec. (a)(2). Pub. L. 94–283, §104(b), substituted “committee authorized by a candidate to raise contributions or make expenditures on his behalf, other than the candidate's principal campaign committee, shall file the reports required under this section with the candidate's principal campaign committee” for “committee which is not a principal campaign committee shall file the reports required under this section with the appropriate principal campaign committee”.
 
@@ -506,7 +506,7 @@ Subsec. (b). Pub. L. 94–283, §104(c), added par. (13), redesignated former pa
 
 Subsec. (e). Pub. L. 94–283, §104(d), designated existing provisions as par. (1), substituted “independent expenditures expressly advocating the election or defeat of a clearly identifiable candidate” for “expenditures” “$100 during a calendar year” for “$100 within a calendar year”, and “, on a form prepared by the Commission, a statement containing the information required of a person who makes a contribution in excess of $100 to a candidate or political committee and the information required of a candidate or political committee receiving such a contribution” for “a statement containing the information required by this section. Statements required by this subsection shall be filed on the dates on which reports by political committees are filed but need not be cumulative”, and added pars. (2) and (3).
 
-1974—Subsec. (a)(1). Pub. L. 93–443, §§204(a)(1), (2), 208(c)(4)(A), substituted provisions of cls. (A) to (D) respecting filing of reports and that “Any contribution of $1,000 or more received after the fifteenth day, but more than 48 hours, before any election shall be reported within 48 hours after its receipt.” for prior requirement that “Such reports shall be filed on the tenth day of March, June, and September, in each year, and on the fifteenth and fifth days next preceding the date on which an election is held, and also by the thirty-first day of January. Such reports shall be complete as of such date as the supervisory officer may prescribe, which shall not be less than five days before the date of filing, except that any contribution of $5,000 or more received after the last report is filed prior to the election shall be reported within forty-eight hours after its receipt.”; designated existing provisions as par. (1), inserting introductory text “Except as provided by paragraph (2),”; and substituted “Commission” and “it” for “appropriate supervisory officer” and “him” in first sentence, respectively.
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–443, §§204(a)(1), (2), 208(c)(4)(A), substituted provisions of cls. (A) to (D) respecting filing of reports and that “Any contribution of $1,000 or more received after the fifteenth day, but more than 48 hours, before any election shall be reported within 48 hours after its receipt.” for prior requirement that “Such reports shall be filed on the tenth day of March, June, and September, in each year, and on the fifteenth and fifth days next preceding the date on which an election is held, and also by the thirty-first day of January. Such reports shall be complete as of such date as the supervisory officer may prescribe, which shall not be less than five days before the date of filing, except that any contribution of $5,000 or more received after the last report is filed prior to the election shall be reported within forty-eight hours after its receipt.”; designated existing provisions as par. (1), inserting introductory text “Except as provided by paragraph (2),”; and substituted “Commission” and “it” for “appropriate supervisory officer” and “him” in first sentence, respectively.
 
 Subsec. (a)(2), (3). Pub. L. 93–443, §204(a)(2), added pars. (2) and (3).
 
@@ -526,7 +526,7 @@ Subsecs. (d), (e). Pub. L. 93–443, §204(c), added subsec. (d) and incorporate
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendment by sections 103(a), 201(a), 212, 304(b), 501, and 503 of Pub. L. 107–155 not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendment by sections 103(a), 201(a), 212, 304(b), 501, and 503 of Pub. L. 107–155 not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002,see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
 
 #### Effective Date of 2000 Amendment
 

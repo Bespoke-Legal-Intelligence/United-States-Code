@@ -88,7 +88,7 @@ In this section, the words “upon conviction . . . subject, for each offense,
 
 In subsections (a)–(c), the words “fined under title 18” are substituted for “a fine of not more than $25,000” and “a fine of not more than $5,000” for consistency with title 18.
 
-In subsection (a), the word “prescribed” is added for consistency in the revised title and with other titles ofthe United States Code. The words “including any order issued under section 1677(b) and 1679b(b) of this Appendix” in 49 App.:1679a(c)(1) and “including any order issued under section 2006(b) or 2008(b) of the Appendix” in 49 App.:2007(c)(1) are omitted as surplus.
+In subsection (a), the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “including any order issued under section 1677(b) and 1679b(b) of this Appendix” in 49 App.:1679a(c)(1) and “including any order issued under section 2006(b) or 2008(b) of the Appendix” in 49 App.:2007(c)(1) are omitted as surplus.
 
 In subsection (b), the word “damaging” is substituted for “injures”, and the word “damage” is substituted for “injure”, for clarity.
 

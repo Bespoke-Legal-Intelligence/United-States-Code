@@ -20,13 +20,13 @@ Pub. L. 100–203, title V, §5301, Dec. 22, 1987, 101 Stat. 1330–268, provide
 
 “(a)
 
-Sale.—The Secretary of the Interior (hereinafter in this section referred to as the ‘Secretary’), under such terms as the Secretary shall prescribe, shall sell or otherwise dispose of loans made pursuant to the Distribution System Loans Act (43 U.S.C. 421a–421d) \[43 U.S.C. 421a to 421h\], the Small Reclamation Projects Act \[of 1956\] (43 U.S.C. 422a–422<i>l</i>) \[43 U.S.C. 422a et seq.\], and the Rehabilitation and Betterment Act (43 U.S.C. 504–505) \[43 U.S.C. 504 and note\] in such amounts as to realize net proceeds to the Federal Government of notless than $130,000,000 in the fiscal year ending September 30, 1988. In the conduct of such sales, the Secretary shall take such actions as he deems appropriate to accommodate, effectuate, and otherwise protect the rights and obligations of the United States and the borrowers under the contracts executed to provide for repayment of such loans.
+Sale.—The Secretary of the Interior (hereinafter in this section referred to as the ‘Secretary’), under such terms as the Secretary shall prescribe, shall sell or otherwise dispose of loans made pursuant to the Distribution System Loans Act (43 U.S.C. 421a–421d) \[43 U.S.C. 421a to 421h\], the Small Reclamation Projects Act \[of 1956\] (43 U.S.C. 422a–422<i>l</i>) \[43 U.S.C. 422a et seq.\], and the Rehabilitation and Betterment Act (43 U.S.C. 504–505) \[43 U.S.C. 504 and note\] in such amounts as to realize net proceeds to the Federal Government of not less than $130,000,000 in the fiscal year ending September 30, 1988. In the conduct of such sales, the Secretary shall take such actions as he deems appropriate to accommodate, effectuate, and otherwise protect the rights and obligations of the United States and the borrowers under the contracts executed to provide for repayment of such loans.
 
 “(b)
 
 Savings Provisions.—Nothing in this section, including the prepayment or other disposition of any loan or loans, shall—
 
-&emsp;“(1) except to the extent that prepayment may have been authorized heretofore, relieve the borrower from the application of the provisions of Federal Reclamation law (Act of June 17, 1902, and Acts amendatory thereof or supplementary thereto \[43 U.S.C. 371 et seq.\], including the Reclamation Reform Act of 1982 \[43 U.S.C. 390aa et seq.\]), including acreage limitations, to the extent such provisions would apply absent such prepayment, or
+&emsp;“(1) except to the extent that prepayment may have been authorized heretofore, relieve the borrowerfrom the application of the provisions of Federal Reclamation law (Act of June 17, 1902, and Acts amendatory thereof or supplementary thereto \[43 U.S.C. 371 et seq.\], including the Reclamation Reform Act of 1982 \[43 U.S.C. 390aa et seq.\]), including acreage limitations, to the extent such provisions would apply absent such prepayment, or
 
 &emsp;“(2) authorize the transfer of title to any federally owned facilities funded by the loans specified in subsection (a) of this section without a specific Act of Congress.
 

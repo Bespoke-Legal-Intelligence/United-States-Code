@@ -12,10 +12,11 @@
 | [126\.](%C2%A7%2000126%20-%20Transfer%20of%20funds%20and%20employees.md) | Transfer of funds and employees. |
 | [127\.](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md) | Emergency and extraordinary expenses. |
 | [127a.](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md) | Operations for which funds are not provided in advance: funding mechanisms. |
+| [127b.](%C2%A7%2000127b%20-%20Assistance%20in%20combating%20terrorism%20rewards.md) | Assistance in combating terrorism: rewards. |
 | [128\.](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md) | Physical protection of special nuclear material: limitation on dissemination of unclassified information. |
 | [129\.](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md) | Prohibition of certain civilian personnel management constraints. |
 | [129a.](%C2%A7%2000129a%20-%20General%20personnel%20policy.md) | General personnel policy. |
-| [129b.](%C2%A7%2000129b%20-%20Experts%20and%20consultants%20authority%20to%20procure%20services%20of.md) | Experts and consultants: authority to procure services of. |
+| [129b.](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md) | Authority to procure personal services. |
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
 | [130a.](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md) | Major Department of Defense headquarters activities personnel: limitation. |
@@ -25,6 +26,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VIII, §841(b)(2), Nov. 24, 2003, 117 Stat. 1552, substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in item 129b.
+
+2002—Pub. L. 107–314, div. A, title X, §1065(b), Dec. 2, 2002, 116 Stat. 2656, added item 127b.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, added item 130c.
 
@@ -71,10 +76,11 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 �
 - [&sect; 00126 - Transfer of funds and employees](%C2%A7%2000126%20-%20Transfer%20of%20funds%20and%20employees.md)
 - [&sect; 00127 - Emergency and extraordinary expenses](%C2%A7%2000127%20-%20Emergency%20and%20extraordinary%20expenses.md)
 - [&sect; 00127a - Operations for which funds are not provided in advance funding mechanisms](%C2%A7%2000127a%20-%20Operations%20for%20which%20funds%20are%20not%20provided%20in%20advance%20funding%20mechanisms.md)
+- [&sect; 00127b - Assistance in combating terrorism rewards](%C2%A7%2000127b%20-%20Assistance%20in%20combating%20terrorism%20rewards.md)
 - [&sect; 00128 - Physical protection of special nuclear material limitation on dissemination of unclassified information](%C2%A7%2000128%20-%20Physical%20protection%20of%20special%20nuclear%20material%20limitation%20on%20dissemination%20of%20unclassified%20information.md)
 - [&sect; 00129 - Prohibition of certain civilian personnel management constraints](%C2%A7%2000129%20-%20Prohibition%20of%20certain%20civilian%20personnel%20management%20constraints.md)
 - [&sect; 00129a - General personnel policy](%C2%A7%2000129a%20-%20General%20personnel%20policy.md)
-- [&sect; 00129b - Experts and consultants authority to procure services of](%C2%A7%2000129b%20-%20Experts%20and%20consultants%20authority%20to%20procure%20services%20of.md)
+- [&sect; 00129b - Authority to procure personal services](%C2%A7%2000129b%20-%20Authority%20to%20procure%20personal%20services.md)
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
 - [&sect; 00130a - Major Department of Defense headquarters activities personnel limitation](%C2%A7%2000130a%20-%20Major%20Department%20of%20Defense%20headquarters%20activities%20personnel%20limitation.md)

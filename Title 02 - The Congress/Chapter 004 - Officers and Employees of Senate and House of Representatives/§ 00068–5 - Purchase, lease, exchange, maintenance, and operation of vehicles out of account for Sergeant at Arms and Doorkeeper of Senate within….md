@@ -14,7 +14,7 @@ Section is from the Supplemental Appropriations Act, 1985.
 
 #### Amendments
 
-1987—Pub. L. 100–202 substituted “one for the attending physician, one as authorized by Senate Resolution90 of the 100th Congress” for “and” and inserted “, and such additional number as is otherwise specifically authorized by law”.
+<b>1987</b>—Pub. L. 100–202 substituted “one for the attending physician, one as authorized by Senate Resolution 90 of the 100th Congress” for “and” and inserted “, and such additional number as is otherwise specifically authorized by law”.
 
 #### Effective Date of 1987 Amendment
 

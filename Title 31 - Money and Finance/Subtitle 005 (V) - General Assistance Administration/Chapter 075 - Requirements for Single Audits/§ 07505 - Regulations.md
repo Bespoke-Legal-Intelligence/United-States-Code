@@ -14,7 +14,7 @@
 
 (2) The criteria prescribed pursuant to paragraph (1) shall not, in the absence of documentation demonstrating a higher actual cost, permit the percentage of the cost of audits performed pursuant to this chapter charged to Federal awards, to exceed the ratio of total Federal awards expended by such non-Federal entity during the applicable fiscal year or years, to such non-Federal entity's total expenditures during such fiscal year or years.
 
-(c) Such guidance shall include such provisions as may be necessary to ensure that small business concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
+(c) Such guidance shall include such provisions as may be necessary to ensure that smallbusiness concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
 
 (Added Pub. L. 98–502, §2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, §2, July 5, 1996, 110 Stat. 1403; Pub. L. 105–135, title VI, §604(e)(3), Dec. 2, 1997, 111 Stat. 2634.)
 

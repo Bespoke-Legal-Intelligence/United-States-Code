@@ -26,7 +26,7 @@ The program established under this chapter shall comply with the following requi
 
 &emsp;&emsp;(A) Full reimbursement for noncompliance with paragraph (3)(A) or (9).
 
-&emsp;&emsp;(B) Pro rata reimbursement for noncompliance with paragraph (3)(B) for any period thefellow is reemployed by the Federal Government that is less than the period specified in paragraph (3)(B), at a rate equal to the amount the fellow received during the final year of the fellowship for the same period of time, including any allowances and benefits provided under paragraph (4).
+&emsp;&emsp;(B) Pro rata reimbursement for noncompliance with paragraph (3)(B) for any period the fellow is reemployed by the Federal Government that is less than the period specified in paragraph (3)(B), at a rate equal to the amount the fellow received during the final year of the fellowship for the same period of time, including any allowances and benefits provided under paragraph (4).
 
 &emsp;(7) The Center shall select fellows based solely on merit. The Center shall make positive efforts to recruit candidates reflecting the cultural, racial, and ethnic diversity of the United States.
 

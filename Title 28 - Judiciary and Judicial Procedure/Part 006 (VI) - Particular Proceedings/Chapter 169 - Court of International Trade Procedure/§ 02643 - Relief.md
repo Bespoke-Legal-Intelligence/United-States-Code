@@ -6,7 +6,7 @@
 
 &emsp;(2) for or against the United States or any other party in any counterclaim, cross-claim, or third-party action under section 1583 of this title.
 
-(b) If the Court of International Trade is unable to determine the correct decision on thebasis of the evidence presented in any civil action, the court may order a retrial or rehearing for all purposes, or may order such further administrative or adjudicative procedures as the court considers necessary to enable it to reach the correct decision.
+(b) If the Court of International Trade is unable to determine the correct decision on the basis of the evidence presented in any civil action, the court may order a retrial or rehearing for all purposes, or may order such further administrative or adjudicative procedures as the court considers necessary to enable it to reach the correct decision.
 
 (c)(1) Except as provided in paragraphs (2), (3), (4), and (5) of this subsection, the Court of International Trade may, in addition to the orders specified in subsections (a) and (b) of this section, order any other form of relief that is appropriate in a civil action, including, but not limited to, declaratory judgments, orders of remand, injunctions, and writs of mandamus and prohibition.
 

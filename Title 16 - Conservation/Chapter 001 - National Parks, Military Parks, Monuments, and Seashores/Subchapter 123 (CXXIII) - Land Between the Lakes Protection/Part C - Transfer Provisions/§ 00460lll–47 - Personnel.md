@@ -74,7 +74,7 @@ The Tennessee Valley Authority—
 
 #### (B) Employee participation
 
-&emsp;&emsp;In deciding on the terms of the memorandum of understanding, the Secretary and the heads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority RetirementSystem shall meet and consult with and give full consideration to the views of employees and representatives of the employees of the Tennessee Valley Authority.
+&emsp;&emsp;In deciding on the terms of the memorandum of understanding, the Secretary and the heads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority Retirement System shall meet and consult with and give full consideration to the views of employees and representatives of the employees of the Tennessee Valley Authority.
 
 #### (2) Eligible employees that are transferred to other units of TVA
 

@@ -48,7 +48,7 @@ Personal Liability for Breach of a Fiduciary Duty.—(1) Subject to paragraph (2
 
 (g)
 
-Personal Liability for Breach of a Fiduciary Duty.—(1) Except as provided in paragraph (2), no member of the Board of Governors or officer of the Civil Air Patrol shall be personally liable for damages for any injury or death or loss or damage of property resulting from a tortious act or omission of an employee or member of the Civil Air Patrol.
+Personal Liability for Breach of a Fiduciary Duty.—(1) Except as provided in paragraph (2), no member of the Board of Governors or officer of the Civil Air Patrol shall be personally liable for damages for any injury or deathor loss or damage of property resulting from a tortious act or omission of an employee or member of the Civil Air Patrol.
 
 (2) Paragraph (1) does not apply to a member of the Board of Governors or officer of the Civil Air Patrol for a tortious act or omission in which the member or officer, as the case may be, was personally involved, whether in breach of a civil duty or in commission of a criminal offense.
 

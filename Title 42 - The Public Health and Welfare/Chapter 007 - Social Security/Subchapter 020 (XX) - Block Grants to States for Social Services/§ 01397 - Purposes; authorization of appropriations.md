@@ -26,7 +26,7 @@ Section 2354 of Pub. L. 97–35 provided that: “Except as otherwise explicitly
 
 #### Study of State Social Service Programs; Report to Congress
 
-Section 2355 of Pub. L. 97–35 required Secretary of Health and Human Services to conduct a study to identify criteria and mechanisms which may be useful for States in assessing effectiveness and efficiency of State social service programs carried out with funds made available under this subchapter, such study to include consideration of Federal incentive payments as an option in rewarding States having high performance social service programs, and to report results of such study to Congress within one year after Aug. 13, 1981.
+Section 2355 of Pub. L. 97–35 required Secretary of Health and Human Services to conduct a study to identify criteria and mechanisms which may be useful for States in assessing effectiveness and efficiency of State social service programs carried out with funds madeavailable under this subchapter, such study to include consideration of Federal incentive payments as an option in rewarding States having high performance social service programs, and to report results of such study to Congress within one year after Aug. 13, 1981.
 
 #### Section Referred to in Other Sections
 

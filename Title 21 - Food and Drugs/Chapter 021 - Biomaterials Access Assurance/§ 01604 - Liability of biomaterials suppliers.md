@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in section 1606 of this title, a biomaterials supplier shall not be liable forharm to a claimant caused by an implant unless such supplier is liable—
+Except as provided in section 1606 of this title, a biomaterials supplier shall not be liable for harm to a claimant caused by an implant unless such supplier is liable—
 
 &emsp;(1) as a manufacturer of the implant, as provided in subsection (b) of this section;
 

@@ -16,9 +16,9 @@ Chapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 #### Short Title
 
-Section 1701 of title XVII of Pub. L. 95–113 provided that: “This title \[enacting this chapter\] may be cited as the ‘Wheat and Wheat Foods Research and Nutrition Education Act’.”
+Section 1701 of title XVII of Pub. L. 95–113 provided that: “This title \[enacting this chapter\] may be citedas the ‘Wheat and Wheat Foods Research and Nutrition Education Act’.”
 
 #### Separability
 
-Section 1718 of Pub. L. 95–113 provided that: “If any provision of this title \[this chapter\] or the applicationthereof to any person or circumstances is held invalid, the validity of the remainder of the title and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Section 1718 of Pub. L. 95–113 provided that: “If any provision of this title \[this chapter\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the title and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 

@@ -16,7 +16,7 @@ For purposes of this subtitle:
 
 &emsp;(4) The term “Secretary” means the Secretary of Housing and Urban Development.
 
-&emsp;(5) The term “qualified participating entity” means an entity approved by the Secretary forparticipation in the pilot program under this subsection, which may include—
+&emsp;(5) The term “qualified participating entity” means an entity approved by the Secretary for participation in the pilot program under this subsection, which may include—
 
 &emsp;&emsp;(A) the Federal National Mortgage Association;
 

@@ -16,13 +16,13 @@ Section 603b, act June 30, 1949, ch. 286, title III, §301, 63 Stat. 375, provid
 
 Section 603c, acts June 30, 1949, ch. 286, title III, §301, 63 Stat. 375; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381, proscribed the use of funds of the Corporation for surplus property or for benefit of other agencies, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
-Section 604, acts Jan. 22, 1932, ch. 8, §4, formerly §5, 47 Stat. 6; June 19, 1934, ch. 653, §6(b), 48 Stat. 1109; June 25, 1940, ch. 427, §6(b), 54 Stat. 574; Aug. 7, 1946, ch. 811, §1(a), 60 Stat. 901; renumbered and amended June 30, 1947, ch. 166, title I, §1, 61 Stat. 203; May 25, 1948, ch. 334, §4, 62 Stat. 263; June 29, 1948, ch. 723, 62 Stat. 1101; July 1, 1948, ch. 784, §§3, 4, 62 Stat. 1209; July 19, 1949, ch. 351, §2, 63 Stat. 446; Oct. 25, 1949, ch. 729, §4, 63 Stat. 906; April 20, 1950, ch. 94, title V, §506, 64 Stat. 81; Oct. 24, 1951, ch. 555, §101, 65 Stat. 616; Reorg. Plan No. 1 of 1951, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774; July 30, 1953, ch. 282, title I, §102(b), 67 Stat. 230, related to loans and advances by the Corporation. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654.
+Section 604, acts Jan. 22, 1932, ch. 8, §4, formerly §5, 47 Stat. 6; June 19, 1934, ch. 653, §6(b), 48 Stat. 1109; June 25, 1940, ch. 427, §6(b), 54 Stat. 574; Aug. 7, 1946, ch. 811, §1(a), 60 Stat. 901; renumbered and amended June 30, 1947, ch. 166, title I, §1, 61 Stat. 203; May 25, 1948, ch. 334, §4, 62 Stat. 263; June 29, 1948, ch. 723, 62 Stat. 1101; July 1, 1948, ch. 784, §§3, 4, 62 Stat. 1209; July 19, 1949, ch. 351, §2, 63 Stat. 446; Oct. 25, 1949, ch. 729, §4, 63 Stat. 906;April 20, 1950, ch. 94, title V, §506, 64 Stat. 81; Oct. 24, 1951, ch. 555, §101, 65 Stat. 616; Reorg. Plan No. 1 of 1951, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774; July 30, 1953, ch. 282, title I, §102(b), 67 Stat. 230, related to loans and advances by the Corporation. It was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648, 654.
 
 Section 604a, act Jan. 20, 1934, ch. 3, §2, 48 Stat. 319, related to time limitation in disbursement of funds committed by the Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(i), 61 Stat. 208.
 
 Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
 
-Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III,§331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat. 202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat. 202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 605a, act July 21, 1932, ch. 520, §1, 47 Stat. 709, related to loans to States and municipalities for unemployment relief purposes. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
@@ -120,7 +120,7 @@ Section 609h, act June 25, 1940, ch. 421, §1, 54 Stat. 567, authorized an addit
 
 Section 609i, act June 26, 1940, ch. 432, §2(c), 54 Stat. 614, authorized Corporation to advance to Secretary of Agriculture upon his request an amount not to exceed $125,000,000.
 
-Section 609j, act Jan. 22, 1932, ch. 8, §5d, as added June 19, 1934, ch. 653, §5, 48 Stat. 1108; amended Sept. 26, 1940, ch. 734, §2, 54 Stat. 962, authorized an additional $1,500,000,000, and was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
+Section 609j, act Jan. 22, 1932, ch. 8, §5d, as added June 19, 1934, ch. 653, §5, 48 Stat. 1108; amended Sept. 26,1940, ch. 734, §2, 54 Stat. 962, authorized an additional $1,500,000,000, and was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
 Section 609k, act June 27, 1934, ch. 847, title VI, §602, as added Mar. 28, 1941, ch. 31, 55 Stat. 55, authorized an additional amount of $10,000,000 to be used for the Defense Housing Insurance Fund. It was repealed by act of June 30, 1947, ch. 166, title II, §206(<i>l</i>), 61 Stat. 208.
 
@@ -130,7 +130,7 @@ Section 609<i>o</i>, act June 10, 1941, ch. 190, §5, 55 Stat. 250, authorized a
 
 Section 609p, act Oct. 23, 1941, ch. 454, 55 Stat. 744, authorized an additional $1,500,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(w), 61 Stat. 209.
 
-Section 609q, act Mar. 27, 1942, ch. 198, §3, 56 Stat. 176, authorized an additional $2,500,000,000. It was repealedby act of June 30, 1947, ch. 166, title II, §206(x), 61 Stat. 209.
+Section 609q, act Mar. 27, 1942, ch. 198, §3, 56 Stat. 176, authorized an additional $2,500,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(x), 61 Stat. 209.
 
 Section 609r, act June 5, 1942, ch. 352, 56 Stat. 326, authorized an additional $5,000,000,000. It was repealed by act of June 30, 1947, ch. 166, title II, §206(y), 61 Stat. 209.
 

@@ -28,7 +28,7 @@ For purposes of this subtitle—
 
 &emsp;For purposes of paragraph (1), the basic standard deduction is—
 
-&emsp;&emsp;(A) $5,000 in the case of—
+&emsp;&emsp;(A) the applicable percentage of the dollar amount in effect under subparagraph (D) for the taxable year in the case of—
 
 &emsp;&emsp;&emsp;(i) a joint return, or
 
@@ -36,9 +36,11 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(B) $4,400 in the case of a head of household (as defined in section 2(b)),
 
-&emsp;&emsp;(C) $3,000 in the case of an individual who is not married and who is not a surviving spouse or head of household, or
+&emsp;&emsp;(C) one-half of the amount in effect under subparagraph (A) in the case of a married individual filing a separate return, or
 
-&emsp;&emsp;(D) $2,500 in the case of a married individual filing a separate return.
+&emsp;&emsp;(D) $3,000 in any other case.
+
+> &emsp;If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
 
 #### (3) Additional standard deduction for aged and blind
 
@@ -46,13 +48,13 @@ For purposes of this subtitle—
 
 #### (4) Adjustments for inflation
 
-&emsp;In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2) or (5) or subsection (f) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(D), or (5) or subsection (f) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
 
-&emsp;&emsp;&emsp;(i) “calendar year 1987” in the case of the dollar amounts contained in paragraph (2) or (5)(A) or subsection (f), and
+&emsp;&emsp;&emsp;(i) “calendar year 1987” in the case of the dollar amounts contained in paragraph (2)(B), (2)(D), or (5)(A) or subsection (f), and
 
 &emsp;&emsp;&emsp;(ii) “calendar year 1997” in the case of the dollar amount contained in paragraph (5)(B).
 
@@ -77,6 +79,44 @@ For purposes of this subtitle—
 &emsp;&emsp;(D) an estate or trust, common trust fund, or partnership,
 
 > &emsp;the standard deduction shall be zero.
+
+#### (7) Applicable percentage
+
+&emsp;For purposes of paragraph (2), the applicable percentage shall be determined in accordance with the following table:
+
+<b>For taxable years beginning</b>
+
+<b>The applicable</b>
+
+<b> in calendar year—</b>
+
+<b>percentage is—</b>
+
+&emsp;&emsp;2003 and 2004
+
+200&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2005
+
+174&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2006
+
+184&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2007
+
+187&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2008
+
+190&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;2009 and thereafter
+
+200\.&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### (d) Itemized deductions
 
@@ -138,85 +178,47 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754.)
 
-#### Standard Deduction Adjustments for Taxable Years Beginning in 2003
+#### Standard Deduction Adjustments for Taxable Years Beginning in 2004
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2003, see section 3.09 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2004, see section 3.10 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
-#### Amendment of Subsection (c)
+#### Amendment of Section
 
-<i>Pub. L. 107–147, title IV, §411(e), (x), Mar. 9, 2002, 116 Stat. 46, 53, provided that, effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, subsection (c) of this section is temporarily amended as follows:</i>
+<i>For termination of amendment by section 107 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
-<i>(1) in paragraph (2)—</i>
-
-<i>(A) in subparagraph (A), by striking “subparagraph (C)” and inserting “subparagraph (D)”;</i>
-
-<i>(B) by striking “or” at the end of subparagraph (B);</i>
-
-<i>(C) by redesignating subparagraph (C) as subparagraph (D);</i>
-
-<i>(D) by inserting after subparagraph (B) the following new subparagraph:</i>
-
-&emsp;&emsp;<i>“(C) one-half of the amount in effect under subparagraph (A) in the case of a married individual filing a separate return, or”</i>; and
-
-<i>(E) by inserting the following flush sentence at the end:</i>
-
-> &emsp;&emsp;<i>“If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.”</i>;
-
-<i>(2) in paragraph (4)—</i>
-
-<i>(A) by striking “paragraph (2) or (5)” and inserting “paragraph (2)(B), (2)(D), or (5)”;</i>
-
-<i>(B) by striking “paragraph (2)” and inserting “paragraph (2)(B), (2)(D),” in subparagraph (B)(i);</i>
-
-<i>(C) by striking the flush sentence at the end (as added by section 301(c)(2) of Public Law 107–17 \[107–16\]) which read as follows: “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”</i>
-
-<i>Pub. L. 107–16, title III, §301(a), (b), (c)(2), (d), title IX, §901, June 7, 2001, 115 Stat. 53, 54, 150, provided that, applicable to taxable years beginning after Dec. 31, 2004, subsection (c) of this section is temporarily amended as follows:</i>
-
-<i>(1) in paragraph (2), by substituting “the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year” for “$5,000” in subparagraph (A), by inserting “or” at the end of subparagraph (B), by substituting “in any other case.” for “in the case of” and all that follows in subparagraph (C), and by striking out subparagraph (D);</i>
-
-<i>(2) in paragraph (4), by inserting at end the following flush sentence: “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”; and</i>
-
-<i>(3) by adding paragraph (7) to read as follows:</i>
-
-#### <i>(7) Applicable percentage</i>
-
-&emsp;<i>For purposes of paragraph (2), the applicable percentage shall be determined in accordance with the following table:</i>
-
-<i>For taxable years beginning</i>
-
-<i>The applicable</i>
-
-<i> in calendar year—</i>
-
-<i>percentage is—</i>
-
-&emsp;&emsp;<i>2005</i>
-
-<i>174   </i>
-
-&emsp;&emsp;<i>2006</i>
-
-<i>184   </i>
-
-&emsp;&emsp;<i>2007</i>
-
-<i>187   </i>
-
-&emsp;&emsp;<i>2008</i>
-
-<i>190   </i>
-
-&emsp;&emsp;<i>2009 and thereafter</i>
-
-<i>200. </i>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (c)(7). Pub. L. 108–27, §§103(a), 107, temporarily inserted table item relating to years 2003 and 2004. See Effective and Termination Dates of 2003 Amendment note below.
+
+2002—Subsec. (c)(2). Pub. L. 107–147, §411(e)(1)(E), inserted “If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.” at end.
+
+Subsec. (c)(2)(A). Pub. L. 107–147, §411(e)(1)(A), substituted “subparagraph (D)” for “subparagraph (C)”.
+
+Subsec. (c)(2)(B). Pub. L. 107–147, §411(e)(1)(B), struck out “or” at end.
+
+Subsec. (c)(2)(C), (D). Pub. L. 107–147, §411(e)(1)(C), (D), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (c)(4). Pub. L. 107–147, §411(e)(2)(C), which directed amendment by striking out the flush sentence at the end added by section 301(c)(2) of Public Law 107–17, was executed by striking out “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”, which was inserted by section 301(c)(2) of Pub. L. 107–16, to reflect the probable intent of Congress. See 2001 Amendment note below.
+
+Pub. L. 107–147, §411(e)(2)(A), substituted “paragraph (2)(B), (2)(D), or (5)” for “paragraph (2) or (5)” in introductory provisions.
+
+Subsec. (c)(4)(B)(i). Pub. L. 107–147, §411(e)(2)(B), substituted “paragraph (2)(B), (2)(D),” for “paragraph (2)”.
+
+2001—Subsec. (c)(2)(A). Pub. L. 107–16, §§301(a)(1), 901, temporarily substituted “the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year” for “$5,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2)(B). Pub. L. 107–16, §§301(a)(2), 901, temporarily inserted “or” at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2)(C). Pub. L. 107–16, §§301(a)(3), 901, temporarily substituted “in any other case.” for “in the case of an individual who is not married and who is not a surviving spouse or head of household, or”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2)(D). Pub. L. 107–16, §§301(a)(4), 901, temporarily struck out subpar. (D) which read as follows: “$2,500 in the case of a married individual filing a separate return.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(4). Pub. L. 107–16, §§301(c)(2), 901, temporarily inserted at end “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(7). Pub. L. 107–16, §§301(b), 901, temporarily added par. (7). See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (c)(4). Pub. L. 105–34, §1201(a)(2), in introductory provisions, substituted “(5)” for “(5)(A)” and, in subpar. (B), substituted “by substituting for ‘calendar year 1992’ in subparagraph (B) thereof—” for “by substituting ‘calendar year 1987’ for ‘calendar year 1992’ in subparagraph (B) thereof” and added cls. (i) and (ii).
 
@@ -318,13 +320,19 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 
 1977—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
 
+#### Effective and Termination Dates of 2003 Amendment
+
+Pub. L. 108–27, title I, §103(c), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section \[amending this section and provisions set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] shall apply to taxable years beginning after December 31, 2002.”
+
+Amendments by title I of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2004, see section 301(d) of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 301(d) of Pub. L. 107–16, as amended, set out as a note under section 1 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

@@ -20,7 +20,7 @@ Section constitutes subsec. (d) of section 28 of act July 22, 1954. Subsecs. (a)
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Sept. 1, 1954, effective on and after the thirtieth day following Sept. 1, 1954, see section 601of act Sept. 1, 1954, set out as a note under section 1421e of this title.
+Amendment by act Sept. 1, 1954, effective on and after the thirtieth day following Sept. 1, 1954, see section 601 of act Sept. 1, 1954, set out as a note under section 1421e of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

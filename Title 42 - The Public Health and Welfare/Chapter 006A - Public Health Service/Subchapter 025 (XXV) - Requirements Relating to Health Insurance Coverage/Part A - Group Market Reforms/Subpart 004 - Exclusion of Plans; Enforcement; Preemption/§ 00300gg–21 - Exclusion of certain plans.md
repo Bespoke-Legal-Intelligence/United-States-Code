@@ -72,7 +72,7 @@ For purposes of this part—
 
 #### (1) Treatment as a group health plan
 
-&emsp;Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established or maintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid foras medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
+&emsp;Any plan, fund, or program which would not be (but for this subsection) an employee welfare benefit plan and which is established or maintained by a partnership, to the extent that such plan, fund, or program provides medical care (including items and services paid for as medical care) to present or former partners in the partnership or to their dependents (as defined under the terms of the plan, fund, or program), directly or through insurance, reimbursement, or otherwise, shall be treated (subject to paragraph (2)) as an employee welfare benefit plan which is a group health plan.
 
 #### (2) Employer
 

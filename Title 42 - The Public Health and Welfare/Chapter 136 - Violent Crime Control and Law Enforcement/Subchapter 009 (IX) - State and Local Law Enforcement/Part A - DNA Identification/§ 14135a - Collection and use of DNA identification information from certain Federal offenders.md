@@ -30,7 +30,7 @@
 
 #### (b) Analysis and use of samples
 
-The Director of the Bureau of Prisons or the probation office responsible (as applicable) shallfurnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
+The Director of the Bureau of Prisons or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
 
 #### (c) Definitions
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;(E) An offense involving robbery or burglary (as described in chapter 103 of such title, sections 2111 through 2114, 2116, and 2118 through 2119).
 
-&emsp;(F) Any violation of section 1153 involving murder, manslaughter, kidnapping, maiming, a felony offense relating to sexual abuse (as described in chapter 109A), incest, arson, burglary, or robbery.
+&emsp;(F) Any violation of section 1153 involving murder, manslaughter, kidnapping, maiming,a felony offense relating to sexual abuse (as described in chapter 109A), incest, arson, burglary, or robbery.
 
 &emsp;(G) Any attempt or conspiracy to commit any of the above offenses.
 

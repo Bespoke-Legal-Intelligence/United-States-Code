@@ -9,6 +9,10 @@
 | [6a.](%C2%A7%2000006a%20-%20Advertisements%20for%20proposals%20for%20purchases%20and%20contracts%20for%20supplies%20or%20services%20for%20Government%20departments%3B%20limited%20to%20particular%E2%80%A6.md) | Advertisements for proposals for purchases and contracts for supplies or services for Government departments; limited to particular agencies under specified circumstances. |
 | 6a–1. | Architect of the Capitol, exception from advertisement requirements. |
 | 6a–2. | Architect of the Capitol, authority for personal services contracts with legal entities. |
+| 6a–3. | House of Representatives, exception from advertisement requirements. |
+| 6a–4. | Director of the Congressional Budget Office, exception from advertisement requirements. |
+| (a) | Exception. |
+| (b) | Effective Date. |
 | [6b.](%C2%A7%2000006b%20-%20Miscellaneous%20exceptions%20from%20advertisement%20requirements.md) | Miscellaneous exceptions from advertisement requirements. |
 | (a) | Control of insects, pests, and grass diseases. |
 | (b) | Omitted. |
@@ -122,6 +126,8 @@ Ex. Ord. No. 10925, Mar. 6, 1961, 26 F.R. 1977, which related to nondiscriminati
 - [&sect; 00006a - Advertisements for proposals for purchases and contracts for supplies or services for Government departments; limited to particular&#8230;](%C2%A7%2000006a%20-%20Advertisements%20for%20proposals%20for%20purchases%20and%20contracts%20for%20supplies%20or%20services%20for%20Government%20departments%3B%20limited%20to%20particular%E2%80%A6.md)
 - [&sect; 00006a&#8211;1 - Architect of the Capitol, exception from advertisement requirements](%C2%A7%2000006a%E2%80%931%20-%20Architect%20of%20the%20Capitol%2C%20exception%20from%20advertisement%20requirements.md)
 - [&sect; 00006a&#8211;2 - Architect of the Capitol, authority for personal services contracts with legal entities](%C2%A7%2000006a%E2%80%932%20-%20Architect%20of%20the%20Capitol%2C%20authority%20for%20personal%20services%20contracts%20with%20legal%20entities.md)
+- [&sect; 00006a&#8211;3 - House of Representatives, exception from advertisement requirements](%C2%A7%2000006a%E2%80%933%20-%20House%20of%20Representatives%2C%20exception%20from%20advertisement%20requirements.md)
+- [&sect; 00006a&#8211;4 - Director of the Congressional Budget Office, exception from advertisement requirements](%C2%A7%2000006a%E2%80%934%20-%20Director%20of%20the%20Congressional%20Budget%20Office%2C%20exception%20from%20advertisement%20requirements.md)
 - [&sect; 00006b - Miscellaneous exceptions from advertisement requirements](%C2%A7%2000006b%20-%20Miscellaneous%20exceptions%20from%20advertisement%20requirements.md)
 - [&sect; 00006c to 6jj - Repealed. Oct. 10, 1940, ch. 851, &sect;4, 54 Stat. 1111](%C2%A7%2000006c%20to%206jj%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md)
 - [&sect; 00006kk - Omitted](%C2%A7%2000006kk%20-%20Omitted.md)

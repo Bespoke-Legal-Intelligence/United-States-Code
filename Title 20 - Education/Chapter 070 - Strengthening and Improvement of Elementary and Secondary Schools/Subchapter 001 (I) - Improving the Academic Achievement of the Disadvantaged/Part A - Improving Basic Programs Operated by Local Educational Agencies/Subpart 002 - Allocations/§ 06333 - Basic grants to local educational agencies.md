@@ -50,7 +50,7 @@
 
 #### (B) Direct allocations
 
-&emsp;&emsp;In any State in which a large number of local educational agencies overlap county boundaries, or for which the State believes it has data that would better target funds than allocating them by county, the State educational agency may apply to the Secretary for authority to make the allocations under this subpart for a particular fiscal year directly to local educational agencies without regard to counties.
+&emsp;&emsp;In any State in which a large number of local educational agencies overlap county boundaries, or for which the State believes it has data that would better target fundsthan allocating them by county, the State educational agency may apply to the Secretary for authority to make the allocations under this subpart for a particular fiscal year directly to local educational agencies without regard to counties.
 
 #### (C) Allocations to local educational agencies
 
@@ -92,7 +92,7 @@
 
 #### (C) Limitation
 
-&emsp;&emsp;If the application of subparagraph (B) would result in any of the 50 States or theDistrict of Columbia receiving less under this subpart than it received under this subpart for the preceding fiscal year, the percentage in subparagraph (A) shall be the greater of—
+&emsp;&emsp;If the application of subparagraph (B) would result in any of the 50 States or the District of Columbia receiving less under this subpart than it received under this subpart for the preceding fiscal year, the percentage in subparagraph (A) shall be the greater of—
 
 &emsp;&emsp;&emsp;(i) the percentage in subparagraph (A)(i);
 
@@ -128,7 +128,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (A) In general
 
-&emsp;&emsp;In fiscal year 2002 and each subsequent fiscal year, the Secretary shall use updated data on the number of children, aged 5 to 17, inclusive, from families below the poverty level for counties or local educational agencies, published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that the use of the updated population data would be inappropriate or unreliable. If appropriate and reliable data are not available annually, the Secretary shall use data which are updated every 2 years.
+&emsp;&emsp;In fiscal year 2002 and each subsequent fiscal year, the Secretary shall use updated data on the number of children, aged 5 to 17, inclusive, from families below the poverty level for counties or local educational agencies, published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that the use of the updated population data would be inappropriate or unreliable. If appropriate and reliable data are not available annually, theSecretary shall use data which are updated every 2 years.
 
 #### (B) Inappropriate or unreliable data
 

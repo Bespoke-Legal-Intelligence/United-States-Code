@@ -18,7 +18,7 @@
 
 #### (B) Crops specifically included
 
-&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seedcrops, aquaculture (including ornamental fish), sea grass and sea oats, and industrial crops.
+&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), sea grass and sea oats, and industrial crops.
 
 #### (C) Combination of similar types or varieties
 
@@ -62,7 +62,7 @@
 
 #### (d) Payment
 
-The Secretary shall make available to a producer eligible for noninsured assistance under this section a payment computed by multiplying—
+The Secretary shall make available to a producer eligible for noninsured assistance underthis section a payment computed by multiplying—
 
 &emsp;(1) the quantity that is less than 50 percent of the established yield for the crop; by
 
@@ -102,7 +102,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (i) Documentation
 
-&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in thecounty has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
+&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
 
 #### (ii) Prohibition
 

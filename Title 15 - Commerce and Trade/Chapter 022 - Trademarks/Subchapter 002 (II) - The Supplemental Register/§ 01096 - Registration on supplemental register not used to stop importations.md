@@ -10,5 +10,5 @@ Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§1
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 

@@ -46,7 +46,7 @@ The overall allotment quantity for the crop year shall be allotted between—
 
 #### (A) Collectively
 
-&emsp;&emsp;Prior to the allotment of sugar derived from sugarcane to any other State, 325,000 short tons, raw value shall be allotted to the offshore States.
+&emsp;&emsp;Prior to the allotment of sugar derived from sugarcane to any other State, 325,000short tons, raw value shall be allotted to the offshore States.
 
 #### (B) Individually
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under section 104 (other than sections 104(f) and 104(h)) and under section 144 shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
+General Rule.—Two percent of the sums apportioned to a State for fiscal year 1998 and each fiscal year thereafter under section 104 (other than sections 104(f) and 104(h)) and undersection 144 shall be available for expenditure by the State, in consultation with the Secretary, only for the following purposes:
 
 &emsp;(1) Engineering and economic surveys and investigations.
 

@@ -20,7 +20,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (B) Carryover
 
-&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who wereprovided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
+&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who were provided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
 
 #### (3) Limit on number of individuals based on allocation
 
@@ -44,17 +44,15 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 &emsp;&emsp;(D) fiscal year 2001 is $350,000,000; and
 
-&emsp;&emsp;(E) fiscal year 2002 is $400,000,000.
+&emsp;&emsp;(E) each of fiscal years 2002 and 2003 is $400,000,000.
 
 #### (2) Allocation to States
 
 &emsp;The Secretary shall provide for the allocation of the total amount described in paragraph (1) for a fiscal year, among the States that executed a plan amendment in accordance with subsection (a) of this section, based upon the Secretary's estimate of the ratio of—
 
-&emsp;&emsp;(A) an amount equal to the sum of—
+&emsp;&emsp;(A) an amount equal to
 
-&emsp;&emsp;&emsp;(i) twice the total number of individuals described in section 1396a(a)(10)(E)(iv)(I) of this title in the State, and
-
-&emsp;&emsp;&emsp;(ii) the total number of individuals described in section 1396a(a)(10)(E)(iv)(II) of this title in the State; to
+the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to
 
 &emsp;&emsp;(B) the sum of the amounts computed under subparagraph (A) for all eligible States.
 
@@ -74,15 +72,41 @@ Except as specifically provided under this section, nothing in this subchapter s
 
 For each fiscal year, the Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title to the appropriate account in the Treasury that provides for payments under section 1396b(a) of this title with respect to medical assistance provided under this section, of an amount equivalent to the total of the amount of payments made under such section that is attributable to this section and such transfer shall be treated as an expenditure from such Trust Fund for purposes of section 1395r of this title.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
+#### (g) Special rule
+
+With respect to the period that begins on January 1, 2004, and ends on September 30, 2004, a State shall select qualifying individuals, and provide such individuals with assistance, in accordance with the provisions of this section as in effect with respect to calendar year 2003, except that for such purpose—
+
+&emsp;(1) references in the preceding subsections of this section to “fiscal year” and “calendar year” shall be deemed to be references to such period; and
+
+&emsp;(2) the total allocation amount under subsection (c) of this section for such period shall be $300,000,000.
+
+(Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160.)
 
 #### Prior Provisions
 
-A prior section 1933 of act Aug. 14, 1935, was renumbered section 1935 and is classified to section 1396v of this title.
+A prior section 1933 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
 
 #### Amendments
 
+2003—Subsec. (c)(1)(E). Pub. L. 108–89, §401(b)(1), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+
+Subsec. (c)(2)(A). Pub. L. 108–89, §401(b)(2), substituted “the total number of individuals described in section 1396a(a)(10)(E)(iv) of this title in the State; to” for “the sum of—
+
+&emsp;“(i) twice the total number of individuals described in section 1396a(a)(10)(E)(iv)(I) of this title in the State, and
+
+&emsp;“(ii) the total number of individuals described in section 1396a(a)(10)(E)(iv)(II) of this title in the State; to”.
+
+Subsec. (g). Pub. L. 108–173, §103(f)(2)(A), substituted “September 30, 2004” for “March 31, 2004” in introductory provisions.
+
+Pub. L. 108–89, §401(c), added subsec. (g).
+
+Subsec. (g)(2). Pub. L. 108–173, §103(f)(2)(B), substituted “$300,000,000” for “$100,000,000”.
+
 1999—Subsec. (b)(4). Pub. L. 106–113 inserted “a” after “for a month in”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable to calendar quarters beginning on or after Apr. 1, 2004, see section 103(f)(3) of Pub. L. 108–173, set out as a note under section 1396a of this title.
 
 #### Section Referred to in Other Sections
 

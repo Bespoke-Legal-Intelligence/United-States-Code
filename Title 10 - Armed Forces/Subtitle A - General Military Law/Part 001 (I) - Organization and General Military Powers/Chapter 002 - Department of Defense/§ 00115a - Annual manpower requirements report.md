@@ -28,7 +28,7 @@
 
 &emsp;(1) The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
 
-&emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
+&emsp;(2) The estimated number of officers that will be serving on active duty in each grade onthe last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
 &emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
 
@@ -62,7 +62,7 @@
 
 \[(g) Redesignated (e)\]
 
-(h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reservecomponent and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
+(h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
 
 &emsp;(1) The number of military technicians required to be employed (as specified in accordance with Department of Defense procedures), the number authorized to be employed under Department of Defense personnel procedures, and the number actually employed.
 
@@ -120,7 +120,7 @@ Pub. L. 104–106, §1061(d)(2), struck out subsec. (d) which read as follows: �
 
 Subsec. (e). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: “In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.”
+Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: “In each such report, theSecretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.”
 
 Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
 

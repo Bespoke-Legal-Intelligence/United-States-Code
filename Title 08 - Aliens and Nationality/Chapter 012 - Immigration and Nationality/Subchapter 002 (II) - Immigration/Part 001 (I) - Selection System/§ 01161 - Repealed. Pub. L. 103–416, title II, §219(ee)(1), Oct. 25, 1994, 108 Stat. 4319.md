@@ -4,5 +4,5 @@ Section, act June 27, 1952, ch. 477, title II, ch. 1, §210A, as added Nov. 6, 1
 
 #### Effective Date of Repeal
 
-Section 219(ee)(3) of Pub. L. 103–416, as added by Pub. L. 104–208, div. C, title VI, §671(b)(10), Sept. 30, 1996, 110 Stat. 3009–722, provided that: “The amendments made by this subsection \[repealing this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1994\].”
+Section 219(ee)(3) of Pub. L. 103–416, as added by Pub. L. 104–208, div. C, title VI, §671(b)(10), Sept. 30, 1996, 110Stat. 3009–722, provided that: “The amendments made by this subsection \[repealing this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1994\].”
 

@@ -44,7 +44,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1996—Par. (4)(B) to (D). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(A)\], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
 
-Par. (6)(C) to (F). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(B)\], redesignated subpars. (D) to (F) as (C) to\(E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
+Par. (6)(C) to (F). Pub. L. 104–134, §101(d) \[title VII, §703(a)(2)(B)\], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
 
 #### Short Title of 1999 Amendment
 

@@ -6,7 +6,7 @@
 
 #### (A) Reporting information with actual knowledge of errors
 
-&emsp;&emsp;A person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or consciously avoids knowing that the information is inaccurate.
+&emsp;&emsp;A person shall not furnish any information relating to a consumer to any consumer reporting agency if the person knows or has reasonable cause to believe that the information is inaccurate.
 
 #### (B) Reporting information after notice and confirmation of errors
 
@@ -19,6 +19,10 @@
 #### (C) No address requirement
 
 &emsp;&emsp;A person who clearly and conspicuously specifies to the consumer an address for notices referred to in subparagraph (B) shall not be subject to subparagraph (A); however, nothing in subparagraph (B) shall require a person to specify such an address.
+
+#### (D) Definition
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “reasonable cause to believe that the information is inaccurate” means having specific knowledge, other than solely allegations by the consumer, that would cause a reasonable person to have substantial doubts about the accuracy of the information.
 
 #### (2) Duty to correct and update information
 
@@ -40,7 +44,167 @@
 
 #### (5) Duty to provide notice of delinquency of accounts
 
-&emsp;A person who furnishes information to a consumer reporting agency regarding a delinquent account being placed for collection, charged to profit or loss, or subjected to any similar action shall, not later than 90 days after furnishing the information, notify the agency of the month and year of the commencement of the delinquency that immediately preceded the action.
+#### (A) In general
+
+&emsp;&emsp;A person who furnishes information to a consumer reporting agency regarding a delinquent account being placed for collection, charged to profit or loss, or subjected to any similar action shall, not later than 90 days after furnishing the information, notify the agency of the date of delinquency on the account, which shall be the month and year of the commencement of the delinquency on the account that immediately preceded the action.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;For purposes of this paragraph only, and provided that the consumer does not dispute the information, a person that furnishes information on a delinquent account that is placed for collection, charged for profit or loss, or subjected to any similar action, complies with this paragraph, if—
+
+&emsp;&emsp;&emsp;(i) the person reports the same date of delinquency as that provided by the creditor to which the account was owed at the time at which the commencement of the delinquency occurred, if the creditor previously reported that date of delinquency to a consumer reporting agency;
+
+&emsp;&emsp;&emsp;(ii) the creditor did not previously report the date of delinquency to a consumer reporting agency, and the person establishes and follows reasonable procedures to obtain the date of delinquency from the creditor or another reliable source and reports that date to a consumer reporting agency as the date of delinquency; or
+
+&emsp;&emsp;&emsp;(iii) the creditor did not previously report the date of delinquency to a consumerreporting agency and the date of delinquency cannot be reasonably obtained as provided in clause (ii), the person establishes and follows reasonable procedures to ensure the date reported as the date of delinquency precedes the date on which the account is placed for collection, charged to profit or loss, or subjected to any similar action, and reports such date to the credit reporting agency.
+
+#### (6) Duties of furnishers upon notice of identity theft-related information
+
+#### (A) Reasonable procedures
+
+&emsp;&emsp;A person that furnishes information to any consumer reporting agency shall have in place reasonable procedures to respond to any notification that it receives from a consumer reporting agency under section 1681c–2 of this title relating to information resulting from identity theft, to prevent that person from refurnishing such blocked information.
+
+#### (B) Information alleged to result from identity theft
+
+&emsp;&emsp;If a consumer submits an identity theft report to a person who furnishes information to a consumer reporting agency at the address specified by that person for receiving such reports stating that information maintained by such person that purports to relate to the consumer resulted from identity theft, the person may not furnish such information that purports to relate to the consumer to any consumer reporting agency, unless the person subsequently knows or is informed by the consumer that the information is correct.
+
+#### (7) Negative information
+
+#### (A) Notice to consumer required
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If any financial institution that extends credit and regularly and in the ordinary course of business furnishes information to a consumer reporting agency described in section 1681a(p) of this title furnishes negative information to such an agency regarding credit extended to a customer, the financial institution shall provide a notice of such furnishing of negative information, in writing, to the customer.
+
+#### (ii) Notice effective for subsequent submissions
+
+&emsp;&emsp;&emsp;After providing such notice, the financial institution may submit additional negative information to a consumer reporting agency described in section 1681a(p) of this title with respect to the same transaction, extension of credit, account, or customer without providing additional notice to the customer.
+
+#### (B) Time of notice
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The notice required under subparagraph (A) shall be provided to the customer prior to, or no later than 30 days after, furnishing the negative information to a consumer reporting agency described in section 1681a(p) of this title.
+
+#### (ii) Coordination with new account disclosures
+
+&emsp;&emsp;&emsp;If the notice is provided to the customer prior to furnishing the negative information to a consumer reporting agency, the notice may not be included in the initial disclosures provided under section 1637(a) of this title.
+
+#### (C) Coordination with other disclosures
+
+&emsp;&emsp;The notice required under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) may be included on or with any notice of default, any billing statement, or any other materials provided to the customer; and
+
+&emsp;&emsp;&emsp;(ii) must be clear and conspicuous.
+
+#### (D) Model disclosure
+
+#### (i) Duty of Board to prepare
+
+&emsp;&emsp;&emsp;The Board shall prescribe a brief model disclosure a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.
+
+#### (ii) Use of model not required
+
+&emsp;&emsp;&emsp;No provision of this paragraph shall be construed as requiring a financial institution to use any such model form prescribed by the Board.
+
+#### (iii) Compliance using model
+
+&emsp;&emsp;&emsp;A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any such model form prescribed by the Board, or the financial institution uses any such model form and rearranges its format.
+
+#### (E) Use of notice without submitting negative information
+
+&emsp;&emsp;No provision of this paragraph shall be construed as requiring a financial institution that has provided a customer with a notice described in subparagraph (A) to furnish negative information about the customer to a consumer reporting agency.
+
+#### (F) Safe harbor
+
+&emsp;&emsp;A financial institution shall not be liable for failure to perform the duties required by this paragraph if, at the time of the failure, the financial institution maintained reasonable policies and procedures to comply with this paragraph or the financial institution reasonably believed that the institution is prohibited, by law, from contacting the consumer.
+
+#### (G) Definitions
+
+&emsp;&emsp;For purposes of this paragraph, the following definitions shall apply:
+
+#### (i) Negative information
+
+&emsp;&emsp;&emsp;The term “negative information” means information concerning a customer's delinquencies, late payments, insolvency, or any form of default.
+
+#### (ii) Customer; financial institution
+
+&emsp;&emsp;&emsp;The terms “customer” and “financial institution” have the same meanings as in section 6809 of this title.
+
+#### (8) Ability of consumer to dispute information directly with furnisher
+
+#### (A) In general
+
+&emsp;&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+
+#### (B) Considerations
+
+&emsp;&emsp;In prescribing regulations under subparagraph (A), the agencies shall weigh—
+
+&emsp;&emsp;&emsp;(i) the benefits to consumers with the costs on furnishers and the credit reporting system;
+
+&emsp;&emsp;&emsp;(ii) the impact on the overall accuracy and integrity of consumer reports of any such requirements;
+
+&emsp;&emsp;&emsp;(iii) whether direct contact by the consumer with the furnisher would likely result in the most expeditious resolution of any such dispute; and
+
+&emsp;&emsp;&emsp;(iv) the potential impact on the credit reporting process if credit repair organizations, as defined in section 1679a(3) of this title, including entities that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title, are able to circumvent the prohibition in subparagraph (G).
+
+#### (C) Applicability
+
+&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under the regulations promulgated under subparagraph (A).
+
+#### (D) Submitting a notice of dispute
+
+&emsp;&emsp;A consumer who seeks to dispute the accuracy of information shall provide a dispute notice directly to such person at the address specified by the person for such notices that—
+
+&emsp;&emsp;&emsp;(i) identifies the specific information that is being disputed;
+
+&emsp;&emsp;&emsp;(ii) explains the basis for the dispute; and
+
+&emsp;&emsp;&emsp;(iii) includes all supporting documentation required by the furnisher to substantiate the basis of the dispute.
+
+#### (E) Duty of person after receiving notice of dispute
+
+&emsp;&emsp;After receiving a notice of dispute from a consumer pursuant to subparagraph (D), the person that provided the information in dispute to a consumer reporting agency shall—
+
+&emsp;&emsp;&emsp;(i) conduct an investigation with respect to the disputed information;
+
+&emsp;&emsp;&emsp;(ii) review all relevant information provided by the consumer with the notice;
+
+&emsp;&emsp;&emsp;(iii) complete such person's investigation of the dispute and report the results of the investigation to the consumer before the expiration of the period under section 1681i(a)(1) of this title within which a consumer reporting agency would be required to complete its action if the consumer had elected to dispute the information under that section; and
+
+&emsp;&emsp;&emsp;(iv) if the investigation finds that the information reported was inaccurate, promptly notify each consumer reporting agency to which the person furnished the inaccurate information of that determination and provide to the agency any correction to that information that is necessary to make the information provided by the person accurate.
+
+#### (F) Frivolous or irrelevant dispute
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;This paragraph shall not apply if the person receiving a notice of a dispute from a consumer reasonably determines that the dispute is frivolous or irrelevant, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
+
+#### (ii) Notice of determination
+
+&emsp;&emsp;&emsp;Upon making any determination under clause (i) that a dispute is frivolous or irrelevant, the person shall notify the consumer of such determination not later than 5 business days after making such determination, by mail or, if authorized by the consumer for that purpose, by any other means available to the person.
+
+#### (iii) Contents of notice
+
+&emsp;&emsp;&emsp;A notice under clause (ii) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) the reasons for the determination under clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) identification of any information required to investigate the disputed information, which may consist of a standardized form describing the general nature of such information.
+
+#### (G) Exclusion of credit repair organizations
+
+&emsp;&emsp;This paragraph shall not apply if the notice of the dispute is submitted by, is prepared on behalf of the consumer by, or is submitted on a form supplied to the consumer by, a credit repair organization, as defined in section 1679a(3) of this title, or an entity that would be a credit repair organization, but for section 1679a(3)(B)(i) of this title.
+
+#### (9) Duty to provide notice of status as medical information furnisher
+
+&emsp;A person whose primary business is providing medical services, products, or devices, or the person's agent or assignee, who furnishes information to a consumer reporting agency on a consumer shall be considered a medicalinformation furnisher for purposes of this subchapter, and shall notify the agency of such status.
 
 #### (b) Duties of furnishers of information upon notice of dispute
 
@@ -52,9 +216,17 @@
 
 &emsp;&emsp;(B) review all relevant information provided by the consumer reporting agency pursuant to section 1681i(a)(2) of this title;
 
-&emsp;&emsp;(C) report the results of the investigation to the consumer reporting agency; and
+&emsp;&emsp;(C) report the results of the investigation to the consumer reporting agency;
 
-&emsp;&emsp;(D) if the investigation finds that the information is incomplete or inaccurate, report those results to all other consumer reporting agencies to which the person furnished the information and that compile and maintain files on consumers on a nationwide basis.
+&emsp;&emsp;(D) if the investigation finds that the information is incomplete or inaccurate, report those results to all other consumer reporting agencies to which the person furnished the information and that compile and maintain files on consumers on a nationwide basis; and
+
+&emsp;&emsp;(E) if an item of information disputed by a consumer is found to be inaccurate or incomplete or cannot be verified after any reinvestigation under paragraph (1), for purposes of reporting to a consumer reporting agency only, as appropriate, based on the results of the reinvestigation promptly—
+
+&emsp;&emsp;&emsp;(i) modify that item of information;
+
+&emsp;&emsp;&emsp;(ii) delete that item of information; or
+
+&emsp;&emsp;&emsp;(iii) permanently block the reporting of that item of information.
 
 #### (2) Deadline
 
@@ -62,21 +234,89 @@
 
 #### (c) Limitation on liability
 
-Sections 1681n and 1681<i>o</i> of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title.
+Except as provided in section 1681s(c)(1)(B) of this title, sections 1681n and 1681<i>o</i> of this title do not apply to any violation of—
+
+&emsp;(1) subsection (a) of this section, including any regulations issued thereunder;
+
+&emsp;(2) subsection (e) of this section, except that nothing in this paragraph shall limit, expand, or otherwise affect liability under section 1681n or 1681<i>o</i> of this title, as applicable, for violations of subsection (b) of this section; or
+
+&emsp;(3) subsection (e) of section 1681m of this title.
 
 #### (d) Limitation on enforcement
 
-Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section.
+The provisions of law described in paragraphs (1) through (3) of subsection (c) of this section (other than with respect to the exception described in paragraph (2) of subsection (c) of this section) shall be enforced exclusively as provided under section 1681s of this title by the Federal agencies and officials and the State officials identified in section 1681s of this title.
 
-(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447.)
+#### (e) Accuracy guidelines and regulations required
+
+#### (1) Guidelines
+
+&emsp;The Federal banking agencies, the National Credit Union Administration, and the Commission shall, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2)—
+
+&emsp;&emsp;(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to consumer reporting agencies, and update such guidelines as often as necessary; and
+
+&emsp;&emsp;(B) prescribe regulations requiring each person that furnishes information to a consumer reporting agency to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A).
+
+#### (2) Coordination
+
+&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
+
+#### (3) Criteria
+
+&emsp;In developing the guidelines required by paragraph (1)(A), the agencies described in paragraph (1) shall—
+
+&emsp;&emsp;(A) identify patterns, practices, and specific forms of activity that can compromise the accuracy and integrity of information furnished to consumer reporting agencies;
+
+&emsp;&emsp;(B) review the methods (including technological means) used to furnish information relating to consumers to consumer reporting agencies;
+
+&emsp;&emsp;(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to assure the accuracy and integrity of information furnished to consumer reporting agencies; and
+
+&emsp;&emsp;(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
+
+(Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002.)
 
 #### Prior Provisions
 
-A prior section 623 of Pub. L. 90–321 was renumbered section 624 and is classified to section 1681t of this title.
+A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classified to section 1681t of this title.
+
+#### Amendments
+
+2003—Subsec. (a)(1)(A). Pub. L. 108–159, §312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
+
+Subsec. (a)(1)(D). Pub. L. 108–159, §312(b)(2), added subpar. (D).
+
+Subsec. (a)(5). Pub. L. 108–159, §312(d), designated existing provisions as subpar. (A), inserted heading, inserted “date of delinquency on the account, which shall be the” before “month” and “on the account” before “that immediately preceded”, and added subpar. (B).
+
+Subsec. (a)(6). Pub. L. 108–159, §154(a), added par. (6).
+
+Subsec. (a)(7). Pub. L. 108–159, §217(a), added par. (7).
+
+Subsec. (a)(8). Pub. L. 108–159, §312(c), added par. (8).
+
+Subsec. (a)(9). Pub. L. 108–159, §412(a), added par. (9).
+
+Subsec. (b)(1)(E). Pub. L. 108–159, §314(b), added subpar. (E).
+
+Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681<i>o</i> of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title.”
+
+Subsec. (d). Pub. L. 108–159, §312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section.”
+
+Subsec. (e). Pub. L. 108–159, §312(a), added subsec. (e).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+
+Amendment by section 412(a) of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
 
 #### Effective Date
 
 Section effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment note under section 1681a of this title.
+
+#### Model Disclosure Form
+
+Pub. L. 108–159, title II, §217(b), Dec. 4, 2003, 117 Stat. 1987, provided that: “Before the end of the 6-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board shall adopt the model disclosure required under the amendment made by subsection (a) \[amending this section\] after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5, United States Code.”
+
+\[For definitions of terms used in section 217(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
 #### Section Referred to in Other Sections
 

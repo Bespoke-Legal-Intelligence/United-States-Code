@@ -24,7 +24,7 @@ Within 1 year after the date of signing a project cooperation agreement for cons
 
 #### (3) Limitation on statutory construction
 
-&emsp;Nothing in this subsection shall be construed to confer any regulatory authority upon the Secretary or the Director of the Federal Emergency Management Agency.
+&emsp;Nothing in this subsection shall be construed to confer any regulatory authorityupon the Secretary or the Director of the Federal Emergency Management Agency.
 
 #### (d) Technical support
 

@@ -6,7 +6,7 @@ The Congress finds the following:
 
 &emsp;(1) States are responding with some success to multiple pressures to improve educational and transitional services and results for children with disabilities in response to growing demands imposed by ever-changing factors, such as demographics, social policies, and labor and economic markets.
 
-&emsp;(2) In order for States to address such demands and to facilitate lasting systemic change that is of benefit to all students, including children with disabilities, States must involve local educational agencies, parents, individuals with disabilities and their families, teachers and other service providers, and other interested individuals and organizations in carrying out comprehensive strategies to improve educational results for children with disabilities.
+&emsp;(2) In order for States to address such demands and to facilitate lasting systemic change that is of benefit to all students, including children with disabilities, States must involve local educational agencies, parents, individuals with disabilities and their families, teachers and other service providers, and other interested individuals and organizations in carrying out comprehensive strategies toimprove educational results for children with disabilities.
 
 &emsp;(3) Targeted Federal financial resources are needed to assist States, working in partnership with others, to identify and make needed changes to address the needs of children with disabilities into the next century.
 

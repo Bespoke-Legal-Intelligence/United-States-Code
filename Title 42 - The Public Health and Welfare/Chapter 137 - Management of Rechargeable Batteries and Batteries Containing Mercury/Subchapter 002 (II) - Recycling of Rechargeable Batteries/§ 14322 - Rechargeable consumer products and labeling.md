@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;No person shall sell for use in the United States a regulated battery that is ready for retail sale or a rechargeable consumer product that is ready for retail sale, if such battery or product was manufactured on or after the date12 months after May 13, 1996, unless the labeling requirements of subsection (b) of this section are met and, in the case of a regulated battery, the regulated battery—
+&emsp;No person shall sell for use in the United States a regulated battery that is ready for retail sale or a rechargeable consumer product that is ready for retail sale, if such battery or product was manufactured on or after the date 12 months after May 13, 1996, unless the labeling requirements of subsection (b) of this section are met and, in the case of a regulated battery, the regulated battery—
 
 &emsp;&emsp;(A) is easily removable from the rechargeable consumer product; or
 
@@ -26,7 +26,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 &emsp;(2)(A) On each regulated battery which is a nickel-cadmium battery, the chemical name or the abbreviation “Ni-Cd” and the phrase “BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.”.
 
-&emsp;(B) On each regulated battery which is a lead-acid battery, “Pb” or the words “LEAD”, “RETURN”, and “RECYCLE” and if the regulated battery is sealed, the phrase “BATTERY MUST BE RECYCLED.”.
+&emsp;(B) On each regulated battery which is a lead-acid battery, “Pb” or the words “LEAD”,“RETURN”, and “RECYCLE” and if the regulated battery is sealed, the phrase “BATTERY MUST BE RECYCLED.”.
 
 &emsp;(3) On each rechargeable consumer product containing a regulated battery that is not easily removable, the phrase “CONTAINS NICKEL-CADMIUM BATTERY. BATTERY MUST BE RECYCLED OR DISPOSED OF PROPERLY.” or “CONTAINS SEALED LEAD BATTERY. BATTERY MUST BE RECYCLED.”, as applicable.
 

@@ -42,7 +42,7 @@ The Committee shall submit a semiannual written report to the Committee on Banki
 
 #### (i) Provision of staff and other resources
 
-The Corporation shall provide the Committee with the use of such resources, including staff, as the Committee reasonably shall require to carry out its duties, including the preparation and submission of reports to Congress, under this section.
+The Corporation shall provide the Committee with the use of such resources, including staff,as the Committee reasonably shall require to carry out its duties, including the preparation and submission of reports to Congress, under this section.
 
 #### (j) Federal Advisory Committee Act does not apply
 

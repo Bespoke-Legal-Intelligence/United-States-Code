@@ -10,7 +10,7 @@
 
 (c) A loan may not be guaranteed under this subchapter unless, before closing such loan, the Secretary has approved the loan.
 
-(d)(1) The Secretary shall enter into contracts with a qualified nonprofit organization, or other qualified organization, that has experience in underwriting transitional housing projects to obtain advice in carrying out this subchapter, including advice on the terms and conditions necessary for a loan that meets the requirements of section 2052 of this title.
+(d)(1) The Secretary shall enter into contracts with a qualified nonprofit organization, or other qualified organization, that has experience inunderwriting transitional housing projects to obtain advice in carrying out this subchapter, including advice on the terms and conditions necessary for a loan that meets the requirements of section 2052 of this title.
 
 (2) For purposes of paragraph (1), a nonprofit organization is an organization that is described in paragraph (3) or (4) of subsection (c) of section 501 of the Internal Revenue Code of 1986 and is exempt from tax under subsection (a) of such section.
 

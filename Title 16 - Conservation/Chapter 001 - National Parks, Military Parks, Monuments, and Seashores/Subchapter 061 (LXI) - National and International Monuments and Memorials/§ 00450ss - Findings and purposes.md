@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-&emsp;(1) few events in the past quarter-century have rocked Americans’ perception of themselves and their institutions, and brought together the people of our Nation with greaterintensity than the April 19, 1995, bombing of the Alfred P. Murrah Federal Building in downtown Oklahoma City;
+&emsp;(1) few events in the past quarter-century have rocked Americans’ perception of themselves and their institutions, and brought together the people of our Nation with greater intensity than the April 19, 1995, bombing of the Alfred P. Murrah Federal Building in downtown Oklahoma City;
 
 &emsp;(2) the resulting deaths of 168 people, some of whom were children, immediately touched thousands of family members whose lives will forever bear scars of having those precious to them taken away so brutally;
 

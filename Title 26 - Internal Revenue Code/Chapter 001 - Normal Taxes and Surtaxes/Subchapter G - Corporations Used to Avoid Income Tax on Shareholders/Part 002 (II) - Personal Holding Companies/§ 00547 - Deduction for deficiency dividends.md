@@ -22,7 +22,7 @@ For purposes of this section, the term “determination” means—
 
 &emsp;(2) a closing agreement made under section 7121; or
 
-&emsp;(3) under regulations prescribed by the Secretary, an agreement signed by the Secretaryand by, or on behalf of, the taxpayer relating to the liability of such taxpayer for personal holding company tax.
+&emsp;(3) under regulations prescribed by the Secretary, an agreement signed by the Secretary and by, or on behalf of, the taxpayer relating to the liability of such taxpayer for personal holding company tax.
 
 #### (d) Deficiency dividends
 

@@ -112,7 +112,7 @@ The Secretary shall maintain a written public record of—
 
 #### (h) Applicability to property under base closure process
 
-(1) The provisions of this section shall not apply to buildings and property at military installations that are approved for closure underthe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) after October 25, 1994.
+(1) The provisions of this section shall not apply to buildings and property at military installations that are approved for closure under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) after October 25, 1994.
 
 (2) For provisions relating to the use to assist the homeless of buildings and property located at certain military installations approved for closure under such Act, or under title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note), before October 25, 1994, see section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act of 1994.
 
@@ -168,7 +168,7 @@ Subsec. (b)(2). Pub. L. 100–628, §501(3)(B), inserted before period at end �
 
 Subsec. (d). Pub. L. 100–628, §501(4)(A), struck out “by lease” after “property” in heading.
 
-Subsec. (d)(1). Pub. L. 100–628, §501(4)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Federal buildings or property may be made available under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government.”
+Subsec. (d)(1). Pub. L. 100–628, §501(4)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Federal buildings or property may be madeavailable under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government.”
 
 Subsec. (d)(2). Pub. L. 100–628, §501(4)(C), substituted “With respect to property identified under subsection (a) which has been designated as surplus property,” for “To permit leases of surplus Federal buildings and other real property under this section,”.
 

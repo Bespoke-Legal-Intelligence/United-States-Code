@@ -23,3 +23,4 @@
 - [&sect; 05108 - Reopening disallowed claims](%C2%A7%2005108%20-%20Reopening%20disallowed%20claims.md)
 - [&sect; 05109 - Independent medical opinions](%C2%A7%2005109%20-%20Independent%20medical%20opinions.md)
 - [&sect; 05109A - Revision of decisions on grounds of clear and unmistakable error](%C2%A7%2005109A%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md)
+- [&sect; 05109B - Expedited treatment of remanded claims](%C2%A7%2005109B%20-%20Expedited%20treatment%20of%20remanded%20claims.md)

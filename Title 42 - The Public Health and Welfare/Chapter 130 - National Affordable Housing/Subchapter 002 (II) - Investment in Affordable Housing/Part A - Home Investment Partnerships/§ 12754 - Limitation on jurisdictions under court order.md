@@ -24,5 +24,5 @@ The Fair Housing Act, referred to in subsec. (a)(1), is title VIII of Pub. L. 90
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12748 of this title.
+This section is referred to in sections 12748, 12821 of this title.
 

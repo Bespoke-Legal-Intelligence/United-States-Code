@@ -14,7 +14,7 @@ In any contract made and entered into by any executive department, independent e
 
 #### Amendments
 
-1994—Subsecs. (a) to (e). Pub. L. 103–355 redesignated subsecs. (b) to (e) as (a) to (d), respectively, and struck out former subsec. (a) which read as follows: “That the contractor is the manufacturer of or a regular dealer in the materials, supplies, articles, or equipment to be manufactured or used in the performance of the contract;”.
+1994—Subsecs. (a) to (e). Pub. L. 103–355 redesignated subsecs. (b) to (e) as (a) to (d), respectively, and struckout former subsec. (a) which read as follows: “That the contractor is the manufacturer of or a regular dealer in the materials, supplies, articles, or equipment to be manufactured or used in the performance of the contract;”.
 
 1985—Subsec. (c). Pub. L. 99–145 struck out “eight hours in any one day or in excess of” before “forty hours”.
 
@@ -78,7 +78,7 @@ Sec. 3. <i>Procurement Regulations</i>. Within 120 days after the date of this o
 
 (2) The head of an executive agency, in his or her sole discretion, may terminate a contract on the basis of any finding described in subsection 3(c)(1) of this order for any contract entered into after the date the regulation called for in section 3 of this order is published in final.
 
-(3) The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts on the basis of a finding that the contractor has engaged in an act described in subsection 3(c)(1) of this order. The provision for debarment may not exceed 3 years.
+(3) The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts on the basis of a finding that the contractor has engaged in an act described in subsection 3(c)(1) of thisorder. The provision for debarment may not exceed 3 years.
 
 (4) The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs (maintained by the Administrator as described in the Federal Acquisition Regulation) each party that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an agency on the basis that the person has engaged in an act described in subsection 3(c)(1) of this order.
 

@@ -16,6 +16,8 @@ In General.—The following amounts are made available from the Highway Trust Fu
 
 &emsp;(6) Not more than $110,000,000 for fiscal year 2003.
 
+&emsp;(7) Not more than $68,750,000 for the period of October 1, 2003, through February 29, 2004.
+
 (b)
 
 Availability and Reallocation of Amounts.—Amounts made available under subsection (a) of this section remain available until expended. Allocations to a State remain available for expenditure in the State for the fiscal year in which they are allocated and for the next fiscal year. Amounts not expended by a State during those 2 fiscal years are released to the Secretary for reallocation.
@@ -60,7 +62,7 @@ Payment to States for Costs.—Each State shall submit vouchers for costs the St
 
 Intrastate Compatibility.—The Secretary shall prescribe regulations specifying tolerance guidelines and standards for ensuring compatibility of intrastate commercial motor vehicle safety laws and regulations with Government motor carrier safety regulations to be enforced under section 31102(a) of this title. To the extent practicable, the guidelines and standards shall allow for maximum flexibility while ensuring the degree of uniformity that will not diminish transportation safety. In reviewing State plans and allocating amounts or making grants under section 153 of title 23, the Secretary shall ensure that the guidelines and standards are applied uniformly.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120.)
 
 Historical and Revision Notes
 
@@ -154,11 +156,13 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 
 #### Amendments
 
+2003—Subsec. (a)(7). Pub. L. 108–88 added par. (7).
+
 1998—Subsec. (a). Pub. L. 105–178, §4003(e), amended heading and text of subsec. (a) generally, substituting provisions relating to appropriations for fiscal years 1998 to 2003 for provisions relating to appropriations for fiscal years ending Sept. 30, 1993 to 1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
 
 Subsec. (b). Pub. L. 105–178, §4003(f), struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
 
-Subsec. (f). Pub. L. 105–178, §4003(g)(1), added subsec. (f) and struck out heading and text of former subsec.\(f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under section 31102 of this title. However, the Secretary may designate specific eligible States among which to allocate those amounts in allocating amounts available—
+Subsec. (f). Pub. L. 105–178, §4003(g)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under section 31102 of this title. However, the Secretary may designate specific eligible States among which toallocate those amounts in allocating amounts available—
 
 &emsp;“(1) for research, development, and demonstration under subsection (g)(1)(F) of this section; and
 

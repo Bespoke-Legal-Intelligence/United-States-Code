@@ -6,10 +6,11 @@
 | [10402\.](%C2%A7%2010402%20-%20State%20grants%20authorized.md) | State grants authorized. |
 | (a) | Authority of Secretary; application; requirements; approval. |
 | (b) | Indian tribes and tribal organizations; application. |
-| (c) | Direct payments to victims or dependents. |
-| (d) | Income eligibility standards. |
-| (e) | Grants to entities other than States; local share. |
-| (f) | Shelter and related assistance. |
+| (c) | Programs for children who witness domestic violence. |
+| (d) | Direct payments to victims or dependents. |
+| (e) | Income eligibility standards. |
+| (f) | Grants to entities other than States; local share. |
+| (g) | Shelter and related assistance. |
 | [10403\.](%C2%A7%2010403%20-%20Allotment%20of%20funds.md) | Allotment of funds. |
 | (a) | Proportionality of allotment; minimum allotment. |
 | (b) | Determination of population of States. |
@@ -29,8 +30,7 @@
 | (d) | Eligibility. |
 | (e) | Reporting. |
 | (f) | “Indian tribal agency” defined. |
-| (g) | Regulations. |
-| [10408\.](%C2%A7%2010408%20-%20Definitions.md) | Definitions. |
+| [10408\.](%C2%A7%2010408%20-%20Transferred.md) | Transferred. |
 | [10409\.](%C2%A7%2010409%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Section 10402(a) and (b). |
@@ -44,11 +44,13 @@
 | (d) | Prohibition on lobbying. |
 | (e) | Reporting. |
 | (f) | Definition. |
-| (g) | Authorization of appropriations. |
-| (h) | Regulations. |
+| (g) | Funding. |
 | [10411\.](%C2%A7%2010411%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93294%2C%20title%20III%2C%20%C2%A7303%28a%29%2C%20Apr.%2025%2C%201988%2C%20102%20Stat.%20124.md) | Repealed. |
-| [10412\.](%C2%A7%2010412%20-%20Authority%20of%20Secretary%3B%20construction%20with%20State%20and%20local%20law.md) | Authority of Secretary; construction with State and local law. |
-| [10413\.](%C2%A7%2010413%20-%20Family%20member%20abuse%20information%20and%20documentation%20project.md) | Family member abuse information and documentation project. |
+| [10412\.](%C2%A7%2010412%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
+| (a) | In general. |
+| (b) | Construction with State and local law. |
+| (c) | Funding for evaluation, monitoring, and other administrative costs. |
+| [10413\.](%C2%A7%2010413%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7409%2C%20June%2025%2C%202003%2C%20117%20Stat.%20827.md) | Repealed. |
 | [10414\.](%C2%A7%2010414%20-%20Grants%20for%20public%20information%20campaigns.md) | Grants for public information campaigns. |
 | (a) | In general. |
 | (b) | Application. |
@@ -56,22 +58,16 @@
 | (d) | Use. |
 | (e) | Criteria. |
 | (f) | Inclusion of representatives of Indians. |
-| [10415\.](%C2%A7%2010415%20-%20Model%20State%20leadership%20grants%20for%20domestic%20violence%20intervention.md) | Model State leadership grants for domestic violence intervention. |
-| (a) | In general. |
-| (b) | Designation as model State. |
-| (c) | Authorization of appropriations. |
-| [10416\.](%C2%A7%2010416%20-%20National%20domestic%20violence%20hotline%20grant.md) | National domestic violence hotline grant. |
+| [10415\.](%C2%A7%2010415%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7410%2C%20June%2025%2C%202003%2C%20117%20Stat.%20827.md) | Repealed. |
+| [10416\.](%C2%A7%2010416%20-%20National%20domestic%20violence%20hotline%20and%20Internet%20grant.md) | National domestic violence hotline and Internet grant. |
 | (a) | In general. |
 | (b) | Duration. |
 | (c) | Annual approval. |
-| (d) | Activities. |
-| (e) | Application. |
-| (f) | Authorization of appropriations. |
-| [10417\.](%C2%A7%2010417%20-%20Youth%20education%20and%20domestic%20violence.md) | Youth education and domestic violence. |
-| (a) | General purpose. |
-| (b) | Nature of program. |
-| (c) | Review and dissemination. |
-| (d) | Authorization of appropriations. |
+| (d) | Hotline activities. |
+| (e) | Secure website activities. |
+| (f) | Application. |
+| (g) | Authorization of appropriations. |
+| [10417\.](%C2%A7%2010417%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7412%2C%20June%2025%2C%202003%2C%20117%20Stat.%20829.md) | Repealed. |
 | [10418\.](%C2%A7%2010418%20-%20Demonstration%20grants%20for%20community%20initiatives.md) | Demonstration grants for community initiatives. |
 | (a) | In general. |
 | (b) | Eligibility. |
@@ -81,7 +77,6 @@
 | (f) | Geographical dispersion. |
 | (g) | Use of grant monies. |
 | (h) | Authorization of appropriations. |
-| (i) | Regulations. |
 | [10419\.](%C2%A7%2010419%20-%20Transitional%20housing%20assistance.md) | Transitional housing assistance. |
 | (a) | In general. |
 | (b) | Assistance described. |
@@ -96,6 +91,7 @@
 | (d) | Reporting. |
 | (e) | Authorization of appropriations. |
 | (f) | Allotment for Indian tribes. |
+| [10421\.](%C2%A7%2010421%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -115,16 +111,17 @@ This chapter is referred to in section 3796gg of this title; title 31 section 67
 - [&sect; 10405 - Evaluation](%C2%A7%2010405%20-%20Evaluation.md)
 - [&sect; 10406 - Discrimination prohibited](%C2%A7%2010406%20-%20Discrimination%20prohibited.md)
 - [&sect; 10407 - Information and technical assistance centers](%C2%A7%2010407%20-%20Information%20and%20technical%20assistance%20centers.md)
-- [&sect; 10408 - Definitions](%C2%A7%2010408%20-%20Definitions.md)
+- [&sect; 10408 - Transferred](%C2%A7%2010408%20-%20Transferred.md)
 - [&sect; 10409 - Authorization of appropriations](%C2%A7%2010409%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 10410 - Grants for State domestic violence coalitions](%C2%A7%2010410%20-%20Grants%20for%20State%20domestic%20violence%20coalitions.md)
 - [&sect; 10411 - Repealed. Pub. L. 100&#8211;294, title III, &sect;303(a), Apr. 25, 1988, 102 Stat. 124](%C2%A7%2010411%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93294%2C%20title%20III%2C%20%C2%A7303%28a%29%2C%20Apr.%2025%2C%201988%2C%20102%20Stat.%20124.md)
-- [&sect; 10412 - Authority of Secretary; construction with State and local law](%C2%A7%2010412%20-%20Authority%20of%20Secretary%3B%20construction%20with%20State%20and%20local%20law.md)
-- [&sect; 10413 - Family member abuse information and documentation project](%C2%A7%2010413%20-%20Family%20member%20abuse%20information%20and%20documentation%20project.md)
+- [&sect; 10412 - Authority of Secretary](%C2%A7%2010412%20-%20Authority%20of%20Secretary.md)
+- [&sect; 10413 - Repealed. Pub. L. 108&#8211;36, title IV, &sect;409, June 25, 2003, 117 Stat. 827](%C2%A7%2010413%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7409%2C%20June%2025%2C%202003%2C%20117%20Stat.%20827.md)
 - [&sect; 10414 - Grants for public information campaigns](%C2%A7%2010414%20-%20Grants%20for%20public%20information%20campaigns.md)
-- [&sect; 10415 - Model State leadership grants for domestic violence intervention](%C2%A7%2010415%20-%20Model%20State%20leadership%20grants%20for%20domestic%20violence%20intervention.md)
-- [&sect; 10416 - National domestic violence hotline grant](%C2%A7%2010416%20-%20National%20domestic%20violence%20hotline%20grant.md)
-- [&sect; 10417 - Youth education and domestic violence](%C2%A7%2010417%20-%20Youth%20education%20and%20domestic%20violence.md)
+- [&sect; 10415 - Repealed. Pub. L. 108&#8211;36, title IV, &sect;410, June 25, 2003, 117 Stat. 827](%C2%A7%2010415%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7410%2C%20June%2025%2C%202003%2C%20117%20Stat.%20827.md)
+- [&sect; 10416 - National domestic violence hotline and Internet grant](%C2%A7%2010416%20-%20National%20domestic%20violence%20hotline%20and%20Internet%20grant.md)
+- [&sect; 10417 - Repealed. Pub. L. 108&#8211;36, title IV, &sect;412, June 25, 2003, 117 Stat. 829](%C2%A7%2010417%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7412%2C%20June%2025%2C%202003%2C%20117%20Stat.%20829.md)
 - [&sect; 10418 - Demonstration grants for community initiatives](%C2%A7%2010418%20-%20Demonstration%20grants%20for%20community%20initiatives.md)
 - [&sect; 10419 - Transitional housing assistance](%C2%A7%2010419%20-%20Transitional%20housing%20assistance.md)
 - [&sect; 10420 - Safe havens for children pilot program](%C2%A7%2010420%20-%20Safe%20havens%20for%20children%20pilot%20program.md)
+- [&sect; 10421 - Definitions](%C2%A7%2010421%20-%20Definitions.md)

@@ -23,17 +23,20 @@
 | [2218\.](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md) | National Defense Sealift Fund. |
 | [2219\.](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md) | Retention of morale, welfare, and recreation funds by military installations: limitation. |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
-| \[2221. | Repealed.\] |
-| [2222\.](%C2%A7%2002222%20-%20Annual%20financial%20management%20improvement%20plan.md) | Annual financial management improvement plan. |
+| \[2221, 2222. Repealed.\] |  |
 | [2223\.](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md) | Information technology: additional responsibilities of Chief Information Officers. |
 | [2224\.](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md) | Defense Information Assurance Program. |
+| [2224a.](%C2%A7%2002224a%20-%20Information%20security%20continued%20applicability%20of%20expiring%20Governmentwide%20requirements%20to%20the%20Department%20of%20Defense.md) | Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense. |
 | [2225\.](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md) | Information technology purchases: tracking and management. |
 | [2226\.](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md) | Contracted property and services: prompt payment of vouchers. |
 | [2227\.](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md) | Electronic submission and processing of claims for contract payments. |
+| [2228\.](%C2%A7%2002228%20-%20Military%20equipment%20and%20infrastructure%20prevention%20and%20mitigation%20of%20corrosion.md) | Military equipment and infrastructure: prevention and mitigation of corrosion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title X, §§1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649, 2658, struck out item 2222 “Annual financial management improvement plan” and added items 2224a and 2228.
 
 2001—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted “Annual” for “Biennial” in item 2222.
 
@@ -102,9 +105,11 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02219 - Retention of morale, welfare, and recreation funds by military installations limitation](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)
-- [&sect; 02222 - Annual financial management improvement plan](%C2%A7%2002222%20-%20Annual%20financial%20management%20improvement%20plan.md)
+- [&sect; 02222 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1004(h)(1), Dec. 2, 2002, 116 Stat. 2631](%C2%A7%2002222%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71004%28h%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202631.md)
 - [&sect; 02223 - Information technology additional responsibilities of Chief Information Officers](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md)
 - [&sect; 02224 - Defense Information Assurance Program](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md)
+- [&sect; 02224a - Information security continued applicability of expiring Governmentwide requirements to the Department of Defense](%C2%A7%2002224a%20-%20Information%20security%20continued%20applicability%20of%20expiring%20Governmentwide%20requirements%20to%20the%20Department%20of%20Defense.md)
 - [&sect; 02225 - Information technology purchases tracking and management](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md)
 - [&sect; 02226 - Contracted property and services prompt payment of vouchers](%C2%A7%2002226%20-%20Contracted%20property%20and%20services%20prompt%20payment%20of%20vouchers.md)
 - [&sect; 02227 - Electronic submission and processing of claims for contract payments](%C2%A7%2002227%20-%20Electronic%20submission%20and%20processing%20of%20claims%20for%20contract%20payments.md)
+- [&sect; 02228 - Military equipment and infrastructure prevention and mitigation of corrosion](%C2%A7%2002228%20-%20Military%20equipment%20and%20infrastructure%20prevention%20and%20mitigation%20of%20corrosion.md)

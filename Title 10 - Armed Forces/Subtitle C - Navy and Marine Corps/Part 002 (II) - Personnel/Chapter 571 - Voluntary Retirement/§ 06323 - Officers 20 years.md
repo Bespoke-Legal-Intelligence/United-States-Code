@@ -134,7 +134,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Functions of President under subsec. (a) to approve application of an officer of Navy or Marine Corps for retirement after completion of more than 20 years of active service and to designate month in which such retirements shall become effective delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(e), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
-For delegation to Secretary of the Treasury of authority vested in President, see section 2(g) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of Homeland Security of authority vested in President, see section 2(g) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
 #### Temporary Early Retirement Authority
 

@@ -22,7 +22,7 @@ In this chapter:
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “economic development district” includes any economic developmentdistrict designated by the Secretary under section 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998).
+&emsp;&emsp;The term “economic development district” includes any economic development district designated by the Secretary under section 3173 of this title (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998).
 
 #### (4) Eligible recipient
 

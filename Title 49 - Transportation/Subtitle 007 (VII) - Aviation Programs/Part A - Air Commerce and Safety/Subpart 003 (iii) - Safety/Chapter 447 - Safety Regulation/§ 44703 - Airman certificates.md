@@ -34,7 +34,7 @@ Opportunity to withhold information.—Before making any information concerning 
 
 &emsp;(3)
 
-Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
+Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide suchwritten notification to each individual who becomes an airman after such date of enactment.
 
 (d)
 
@@ -76,7 +76,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 &emsp;(E) the absence of information about physical characteristics of holders of those certificates.
 
-(2) The Administrator of the Federal Aviation Administration shall prescribe regulations tocarry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
 (3) For purposes of this section, the term “acts of terrorism” means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
 
@@ -102,7 +102,7 @@ FAA records.—From the Administrator of the Federal Aviation Administration, re
 
 Air carrier and other records.—From any air carrier or other person (except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces) that has employed the individual as a pilot of a civil or public aircraft at any time during the 5-year period preceding the date of the employment application of the individual, or from the trustee in bankruptcy for such air carrier or person—
 
-&emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by an air carrier (other than records relating to flight time, duty time, or rest time) under regulations set forth in—
+&emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by an air carrier\(other than records relating to flight time, duty time, or rest time) under regulations set forth in—
 
 &emsp;&emsp;&emsp;&emsp;(I) section 121.683 of title 14, Code of Federal Regulations;
 
@@ -144,7 +144,7 @@ Requirement to maintain records.—The Administrator and air carriers shall main
 
 &emsp;(5)
 
-Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy ofall of such requested records maintained by the person not later than 30 days after receiving the request.
+Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
 
 &emsp;(6)
 
@@ -184,7 +184,7 @@ Right of pilot to review certain records.—Notwithstanding any other provision 
 
 &emsp;(11)
 
-Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of the records, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Privacy protections.—An air carrier that receives the records of an individual under paragraph (1) may use such records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the pilot and the confidentiality of therecords, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;(12)
 
@@ -222,7 +222,7 @@ Good faith exception.—Notwithstanding paragraph (1), an air carrier, without o
 
 &emsp;(15)
 
-Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shalllimit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
+Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
 
 (i)
 
@@ -350,7 +350,7 @@ In subsection (d), before clause (1), the words “in his discretion” are omit
 
 In subsection (f)(1), before clause (A), the words “established under this chapter” and “to pilots” are omitted as surplus.
 
-In subsection (f)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration ofthe Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
+In subsection (f)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
 
 #### References in Text
 

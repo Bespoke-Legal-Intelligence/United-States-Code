@@ -36,7 +36,7 @@ In this section, the term “designated Federal grant program” means any Feder
 
 #### (2) Form of supplementary grants
 
-&emsp;In accordance with such regulations as the Secretary may promulgate, the Secretary shall make supplementary grants by increasing the amounts of grants authorized under this subchapter or by the payment of funds made available under this chapter to the heads of the Federal agencies responsible for carrying out the applicable Federal programs.
+&emsp;In accordance with such regulations as the Secretary may promulgate, the Secretaryshall make supplementary grants by increasing the amounts of grants authorized under this subchapter or by the payment of funds made available under this chapter to the heads of the Federal agencies responsible for carrying out the applicable Federal programs.
 
 #### (3) Federal share limitations specified in other laws
 

@@ -8,7 +8,7 @@
 
 #### (2) On the trustee
 
-&emsp;There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 21/2 percent of theamount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 

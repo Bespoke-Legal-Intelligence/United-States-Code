@@ -78,5 +78,5 @@ Section 3(b)(5) of Pub. L. 88–443 provided that no application with respect to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 291e, 291g, 291i, 291j–3, 291j–9, 291<i>l</i>, 291<i>o</i>, 1320a–1, 4728 of this title; title 12 sections 1715w, 1715–7.
+This section is referred to in sections 291e, 291g, 291i, 291j–3, 291j–9, 291<i>l</i>, 291<i>o</i>, 1320a–1, 4728 of this title; title 12 section 1715w.
 

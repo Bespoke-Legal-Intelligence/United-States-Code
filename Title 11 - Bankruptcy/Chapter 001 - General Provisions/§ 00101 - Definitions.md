@@ -66,7 +66,7 @@ In this title—
 
 &emsp;&emsp;(B) assignee under a general assignment for the benefit of the debtor's creditors; or
 
-&emsp;&emsp;(C) trustee, receiver, or agent under applicable law, or under a contract, that is appointed or authorized to take charge of property of the debtor for the purpose of enforcing a lien against such property, or for the purpose of general administration of such property for the benefit of the debtor's creditors;
+&emsp;&emsp;(C) trustee, receiver, or agent under applicable law, or under a contract, that is appointed or authorized to take charge of property of the debtor for the purpose of enforcing a lien against such property, or for thepurpose of general administration of such property for the benefit of the debtor's creditors;
 
 &emsp;(12) “debt” means liability on a claim;
 
@@ -214,7 +214,7 @@ In this title—
 
 &emsp;&emsp;&emsp;(i) all of such partnership's property, exclusive of property of the kind specified in subparagraph (A)(i) of this paragraph; and
 
-&emsp;&emsp;&emsp;(ii) the sum of the excess of the value of each general partner's nonpartnershipproperty, exclusive of property of the kind specified in subparagraph (A) of this paragraph, over such partner's nonpartnership debts; and
+&emsp;&emsp;&emsp;(ii) the sum of the excess of the value of each general partner's nonpartnership property, exclusive of property of the kind specified in subparagraph (A) of this paragraph, over such partner's nonpartnership debts; and
 
 &emsp;&emsp;(C) with reference to a municipality, financial condition such that the municipality is—
 
@@ -298,7 +298,7 @@ In this title—
 
 &emsp;(47) “repurchase agreement” (which definition also applies to a reverse repurchase agreement) means an agreement, including related terms, which provides for the transfer of certificates of deposit, eligible bankers’ acceptances, or securities that are direct obligations of, or that are fully guaranteed as to principal and interest by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, or securities with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, or securities as described above, at a date certain not later than one year after such transfers or on demand, against the transfer of funds;
 
-&emsp;(48) “securities clearing agency” means person that is registered as a clearing agencyunder section 17A of the Securities Exchange Act of 1934 or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A;
+&emsp;(48) “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934 or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A;
 
 &emsp;(49) “security”—
 
@@ -376,7 +376,7 @@ In this title—
 
 &emsp;(53B) “swap agreement” means—
 
-&emsp;&emsp;(A) an agreement (including terms and conditions incorporated by reference therein) which is a rate swap agreement, basis swap, forward rate agreement, commodity swap, interest rate option, forward foreign exchange agreement, spot foreign exchange agreement, rate cap agreement, rate floor agreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency option, any other similar agreement (including any option to enter into any of the foregoing);
+&emsp;&emsp;(A) an agreement (including terms and conditions incorporated by reference therein) which is a rate swap agreement, basis swap, forward rate agreement, commodity swap, interest rate option, forward foreign exchange agreement, spot foreign exchange agreement, rate cap agreement, rate flooragreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency option, any other similar agreement (including any option to enter into any of the foregoing);
 
 &emsp;&emsp;(B) any combination of the foregoing; or
 
@@ -384,7 +384,7 @@ In this title—
 
 &emsp;(53C) “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor;
 
-&emsp;(56A) <sup>3</sup> “term overriding royalty” means an interest in liquid or gaseous hydrocarbons inplace or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized;
+&emsp;(56A) <sup>3</sup> “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized;
 
 &emsp;(53D) “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan;
 
@@ -412,11 +412,11 @@ Municipalities are authorized, under section 103(c) of the Internal Revenue Code
 
 Section 101(6) defines “community claim” as provided by the Senate amendment in order to indicate that a community claim exists whether or not there is community property in the estate as of the commencement of the case.
 
-Section 101(7) of the House amendment contains a definition of consumer debt identical to the definition in the House bill and Senate amendment. A consumer debt does not include a debt to any extent the debt is secured by real property.
+Section 101(7) of the House amendment contains a definition of consumer debt identical to the definition in the House bill and Senate amendment. A consumerdebt does not include a debt to any extent the debt is secured by real property.
 
 Section 101(9) of the Senate amendment contained a definition of “court.” The House amendment deletes the provision as unnecessary in light of the pervasive jurisdiction of a bankruptcy court under all chapters of title 11 as indicated in title II of the House amendment to H.R. 8200.
 
-Section 101(11) defines “debt” to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that “debt” does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a “debt” does not include a policy loan made by a life insurancecompany. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
+Section 101(11) defines “debt” to mean liability on a claim, as was contained in the House-passed version of H.R. 8200. The Senate amendment contained language indicating that “debt” does not include a policy loan made by a life insurance company to the debtor. That language is deleted in the House amendment as unnecessary since a life insurance company clearly has no right to have a policy loan repaid by the debtor, although such company does have a right of offset with respect to such policy loan. Clearly, then, a “debt” does not include a policy loan made by a life insurance company. Inclusion of the language contained in the Senate amendment would have required elaboration of other legal relationships not arising by a liability on a claim. Further the language would have required clarification that interest on a policy loan made by a life insurance company is a debt, and that the insurance company does have right to payment to that interest.
 
 Section 101(14) adopts the definition of “entity” contained in the Senate-passed version of H.R. 8200. Since the Senate amendment to H.R. 8200 deleted the U.S. trustee, a corresponding definitional change is made in chapter 15 of the House amendment for U.S. trustees under the pilot program. Adoption by the House amendment of a pilot program for U.S. trustees under chapter 15 requires insertion of “United States trustee” in many sections. Several provisions in chapter 15 of the House amendment that relate to the U.S. trustee were not contained in the Senate amendment in the nature of a substitute.
 
@@ -458,11 +458,11 @@ The definition of “corporation” in paragraph (8) is similar to the definitio
 
 Paragraph (9) defines “court” as the bankruptcy judge in the district in which the case is pending except in municipal adjustment and railroad reorganization cases, where “court” means the Federal district judge.
 
-Paragraph (10) \[enacted as (9)\] defines “creditor” to include holders of prepetition claims against the debtor. However, it also encompasses certain holders of claims that are deemed to arise before the date of the filing of the petition, such as those injured by the rejection of an executory contract or unexpired lease, certain investment tax credit recapture claim holders, “involuntary gap” creditors, and certain holders of the right of setoff. The term also includes the holder of a prepetition community claim. A guarantor of or surety for a claim against the debtor is also a creditor, because he holds a contingent claim against the debtor that becomes fixed when he pays the creditor whose claim he has guaranteed or insured.
+Paragraph (10) \[enacted as (9)\] defines “creditor” to include holders of prepetition claims against the debtor. However, it also encompasses certain holders of claims that are deemed to arise before the date of the filing of the petition, such as those injured by the rejection of an executory contract or unexpired lease, certain investment tax credit recapture claim holders,“involuntary gap” creditors, and certain holders of the right of setoff. The term also includes the holder of a prepetition community claim. A guarantor of or surety for a claim against the debtor is also a creditor, because he holds a contingent claim against the debtor that becomes fixed when he pays the creditor whose claim he has guaranteed or insured.
 
 Paragraph (11) \[enacted as (10)\] defines “custodian.” There is no similar definition in current law. It is defined to facilitate drafting, and means a prepetition liquidator of the debtor's property, such as an assignee for the benefit of creditors, a receiver of the debtor's property, or administrator of the debtor's property. The definition of custodian to include a receiver or trustee is descriptive, and not meant to be limited to court officers with those titles. The definition is intended to include other officers of the court if their functions are substantially similar to those of a receiver or trustee.
 
-“Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim”are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
+“Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim” are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
 
 Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
@@ -496,7 +496,7 @@ Paragraph (27) defines “judicial lien.” It is one of three kinds of liens de
 
 Paragraph (28) defines “lien.” The definition is new and is very broad. A lien is defined as a charge against or interest in property to secure payment of a debt or performance of an obligation. It includes inchoate liens. In general, the concept of lien is divided into three kinds of liens: judicial liens, security interests, and statutory liens. Those three categories are mutually exclusive and are exhaustive except for certain common law liens.
 
-Paragraph (29) defines “municipality.” The definition is adapted from the terms used in the chapter IX (municipal bankruptcy) \[chapter 9 of former title 11\] amendment to the Bankruptcy Act enacted in 1976 (Pub. L. 94–260). That amendment spoke in terms of“political subdivision or public agency or instrumentality of a State”. Bankruptcy Act Sec. 84 \[section 404 of former title 11\]. The term municipality is defined by those three terms for convenience. It does not include the District of Columbia or any territories of the United States.
+Paragraph (29) defines “municipality.” The definition is adapted from the terms used in the chapter IX (municipal bankruptcy) \[chapter 9 of former title 11\] amendment to the Bankruptcy Act enacted in 1976 (Pub. L. 94–260). That amendment spoke in terms of “political subdivision or public agency or instrumentality of a State”. Bankruptcy Act Sec. 84 \[section 404 of former title 11\]. The term municipality is defined by those three terms for convenience. It does not include the District of Columbia or any territories of the United States.
 
 “Person” is defined in paragraph (30). The definition is a change in wording, but not in substance, from the definition in section 1(23) of the Bankruptcy Act \[section 1(23) of former title 11\]. The definition is also similar to the one contained in 1 U.S.C. sec. 1, but is repeated here for convenience and ease of reference. Person includes individual partnership, and corporation. The exclusion of governmental units is made explicit in order to avoid any confusion that may arise if, for example, a municipality is incorporated and thus is legally a corporation as well as governmental unit. The definition does not include an estate or a trust, which are included only in the definition of “entity” in proposed 11 U.S.C. 101(14).
 
@@ -524,7 +524,7 @@ Section 3 of the Federal Deposit Insurance Act, referred to in pars. (21B)(A), (
 
 The Investment Company Act of 1940, referred to in par. (22)(A)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22)(B), is classified to section 4422 of Title 12, Banks and Banking.
+Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par.\(22)(B), is classified to section 4422 of Title 12, Banks and Banking.
 
 Sections 101(7) and 206(r) of the Federal Credit Union Act, referred to in pars. (33)(B) and (34), are classified to sections 1752(7) and 1786(r), respectively, of Title 12.
 
@@ -532,7 +532,7 @@ Sections 414(d) and 457(b) of the Internal Revenue Code of 1986, referred to in 
 
 Sections 3(a)(12) and 17A of the Securities Exchange Act of 1934, referred to in par. (48), are classified to sections 78c(a)(12) and 78q–1, respectively, of Title 15, Commerce and Trade.
 
-The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15. Section3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 #### Amendments
 
@@ -746,7 +746,7 @@ Par. (39). Pub. L. 98–353, §§391(2), 421(j)(2), added par. (36) and redesign
 
 Par. (40). Pub. L. 98–353, §§391(1), 421(j)(2), redesignated successively former par. (35) as (37) and again as (40). Former par. (40) redesignated successively as (42) and again as (46).
 
-Par. (41). Pub. L. 98–353, §§391(1), 401(1), 421(h), (j)(2), redesignated successively former par. (36) as (38) and again as (41), and, in subpar. (B)(vi), substituted “certificate of a kind specified in subparagraph (A)(xii)” for “certificate specified in clause (xii) of subparagraph (A)” and substituted “required to be the subject of a registration statement” for “the subject of such registration statement”. Former par. (41) redesignated successively as (43), again as (44), and again as (48).
+Par. (41). Pub. L. 98–353, §§391(1), 401(1), 421(h), (j)(2), redesignated successively former par. (36) as (38) and again as (41), and, in subpar. (B)(vi), substituted “certificate of a kind specified in subparagraph (A)(xii)” for“certificate specified in clause (xii) of subparagraph (A)” and substituted “required to be the subject of a registration statement” for “the subject of such registration statement”. Former par. (41) redesignated successively as (43), again as (44), and again as (48).
 
 Par. (42). Pub. L. 98–353, §§391(1), 421(j)(2), redesignated successively former par. (37) as (39) and again as (42).
 
@@ -839,6 +839,10 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 “(b) The amendments made by section 426(b) \[amending section 303 of this title\] shall become effective upon the date of enactment of this Act.
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
+
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–73, §1, Aug. 15, 2003, 117 Stat. 891, provided that: “This Act \[amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2003’.”
 
 #### Short Title of 2002 Amendment
 

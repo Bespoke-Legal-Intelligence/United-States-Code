@@ -136,7 +136,7 @@ For purposes of this part—
 
 &emsp;&emsp;(W) section 4093(c)(4)(B) (relating to certain purchasers of diesel and aviation fuels),
 
-&emsp;&emsp;(X) section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
+&emsp;&emsp;(X) section 408(i) (relating to reports with respect to individual retirement plans) toany person other than the Secretary with respect to the amount of payments made to such person,
 
 &emsp;&emsp;(Y) section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
 
@@ -404,7 +404,7 @@ Amendment by section 11323(b)(2), (c)(2) of Pub. L. 101–508 applicable to acqu
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7711(a) of Pub. L. 101–239 applicable to returns and statements the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7711(c) of Pub. L. 101–239, set out as a note under section 6721 of this title.
+Amendment by section 7711(a) of Pub. L. 101–239 applicable to returns and statements the due date forwhich (determined without regard to extensions) is after Dec. 31, 1989, see section 7711(c) of Pub. L. 101–239, set out as a note under section 6721 of this title.
 
 Amendment by sections 7811(c)(3) and 7813(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 

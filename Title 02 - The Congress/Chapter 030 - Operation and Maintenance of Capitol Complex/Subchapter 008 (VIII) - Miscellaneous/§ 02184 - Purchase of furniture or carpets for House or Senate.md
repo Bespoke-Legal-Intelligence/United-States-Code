@@ -14,9 +14,9 @@ Provision of R.S. §1816 relating to repairs of Capitol is classified to section
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “House Oversight of the House of Representatives, for the House of Representatives” for “Accounts of the House of Representatives, for the House”.
+<b>1996</b>—Pub. L. 104–186 substituted “House Oversight of the House of Representatives, for the House of Representatives” for “Accounts of the House of Representatives, for the House”.
 
-1946—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control the Contingent Expenses of the Senate”.
+<b>1946</b>—Act Aug. 2, 1946, substituted “Committee on Rules and Administration” for “Committee to Audit and Control the Contingent Expenses of the Senate”.
 
 #### Change of Name
 

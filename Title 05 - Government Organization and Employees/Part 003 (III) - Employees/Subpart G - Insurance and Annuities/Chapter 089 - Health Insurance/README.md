@@ -40,7 +40,7 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3373, 3374, 3582, 6386 of this title; title 2 sections 31b–5, 72a, 92, 130a, 162b, 2063; title 10 section 1108; title 22 sections 2391, 3649, 3664, 4069c, 4069c–1, 4606, 7002; title 25 section 450i; title 26 sections 35, 9801; title 28 sections 179, 332, 627, 634, 996; title 29 sections 1181, 2918; title 39 section 1005; title 42 sections 300e–1, 300e–6, 300gg, 426a, 1320a–7b, 1320d, 1395w–21, 1395y, 2996d, 10704, 14402; title 45 section 1206; title 49 section 40122; title 50 section 403p.
+This chapter is referred to in sections 3373, 3374, 3582, 6386 of this title; title 2 sections 31b–5, 72a, 92, 130a, 162b, 2063; title 10 section 1108; title 22 sections 2391, 3649, 3664, 4069c, 4069c–1, 4606, 7002; title 25 section 450i; title 26 sections 35, 9801; title 28 sections 179, 332, 627, 634, 996; title 29 sections 1181, 2918; title 39 section 1005; title 42 sections 300e–1, 300e–6, 300gg, 426a, 1320a–7b, 1320d, 1395m, 1395w–21, 1395w–24, 1395y, 2996d, 10704, 14402; title 45 section 1206; title 49 section 40122; title 50 section 403p.
 
 
 ---

@@ -4,7 +4,7 @@
 
 &emsp;(1) the acquisition of books, journals, photographs, motion picture and other films, and other similar materials;
 
-&emsp;(2) cataloging, binding, and other services and procedures for processing library resource materials for use by those who are served by the library or related instrumentality;
+&emsp;(2) cataloging, binding, and other services and procedures for processing library resourcematerials for use by those who are served by the library or related instrumentality;
 
 &emsp;(3) the acquisition of duplication devices, facsimile equipment, film projectors, recording equipment, and other equipment to facilitate the use of the resources of the library or related instrumentality by those who are served by it; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Approval
 
-The Compact of Free Association set forth in title II of this joint resolution between the United States and the Government of Palau is hereby approved, and Congress hereby consentsto the agreements as set forth on pages 154 through 405 of House Document 99–193 of April 9, 1986 (hereafter in this joint resolution referred to as subsidiary or related agreements), as they relate to such Government. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the Compact, to an effective date for and thereafter to implement such Compact, having taken into account any procedures with respect to the United Nations for termination of the Trusteeship Agreement.
+The Compact of Free Association set forth in title II of this joint resolution between the United States and the Government of Palau is hereby approved, and Congress hereby consents to the agreements as set forth on pages 154 through 405 of House Document 99–193 of April 9, 1986 (hereafter in this joint resolution referred to as subsidiary or related agreements), as they relate to such Government. Subject to the provisions of this joint resolution, the President is authorized to agree, in accordance with section 411 of the Compact, to an effective date for and thereafter to implement such Compact, having taken into account any procedures with respect to the United Nations for termination of the Trusteeship Agreement.
 
 #### (b) Reference to Compact
 
@@ -60,7 +60,7 @@ Any reference in this joint resolution to the “Compact” shall be treated as 
 
 &emsp;(E) The agreement referred to in section 462(j) of the Compact.
 
-(5) No agreement between the United States and the Government of Palau which wouldamend, change, or terminate any subsidiary or related agreement, or portion thereof, other than those set forth in subsection (d) <sup>2</sup> of this section or paragraph (4) of this subsection, shall take effect until the President has transmitted such an agreement to the President of the Senate and the Speaker of the House of Representatives, together with an explanation of the agreement and the reasons therefor.
+(5) No agreement between the United States and the Government of Palau which would amend, change, or terminate any subsidiary or related agreement, or portion thereof, other than those set forth in subsection (d) <sup>2</sup> of this section or paragraph (4) of this subsection, shall take effect until the President has transmitted such an agreement to the President of the Senate and the Speaker of the House of Representatives, together with an explanation of the agreement and the reasons therefor.
 
 (Pub. L. 99–658, title I, §101, Nov. 14, 1986, 100 Stat. 3673.)
 
@@ -72,7 +72,7 @@ This joint resolution and this Act, referred to in text, is Pub. L. 99–658, No
 
 For Oct. 1, 1994, as the date the Compact of Free Association with Palau takes effect, referred to in subsecs. (a) and (d), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out below.
 
-Section 601(b) of Public Law 94–329, referred to in subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
+Section 601(b) of Public Law 94–329, referred to in subsec. (d)(3), is section 601(b) of Pub. L. 94–329, title VI,June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
 #### Codification
 
@@ -126,7 +126,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “Recognizing their common desire to terminate the Trusteeship and establish a new government-to-government relationship in accordance with a new political status based on the freely-expressed wishes of the people of Palau and appropriate to their particular circumstances; and
 
-“Recognizing that the people of Palau have and retain their sovereignty and their sovereign right to self-determination and the inherent right to adopt and amend their own Constitution and form of government and that the approval of the entry of their Governmentinto this Compact of Free Association by the people of Palau constitutes an exercise of their sovereign right to self-determination;
+“Recognizing that the people of Palau have and retain their sovereignty and their sovereign right to self-determination and the inherent right to adopt and amend their own Constitution and form of government and that the approval of the entry of their Government into this Compact of Free Association by the people of Palau constitutes an exercise of their sovereign right to self-determination;
 
 “NOW, THEREFORE, AGREE to enter into relationship of free association which provides a full measure of self-government for the people of Palau; and
 
@@ -150,7 +150,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 121
 
-“(a) The Republic of Palau has the capacity to conduct foreign affairs in its own name and right, except as otherwise provided in this Compact and the Government of the United States recognizes that the Government of Palau, in the exercise of this capacity, may enter into, in its own name and right, treaties and other international agreements with governments and regional and international organizations.
+“(a) The Republic of Palau has the capacity to conduct foreign affairs in its own name and right, except as otherwise provided in this Compact and the Government of the United States recognizes that the Government of Palau, in the exercise of this capacity, mayenter into, in its own name and right, treaties and other international agreements with governments and regional and international organizations.
 
 “(b) In the conduct of its foreign affairs the Government of Palau confirms that it shall act in accordance with principles of international law and shall settle its international disputes by peaceful means.
 
@@ -264,7 +264,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(d) Persons designated by the sending Government to serve in the capacity of its resident representatives shall enjoy the same taxation exemptions as are set forth in Article 34 of the Vienna Convention on Diplomatic Relations.
 
-“(e) The privileges, exemptions and immunities accorded under this Section are not for the personal benefit of the individuals concerned but are to safeguard the independent exercise of their official functions. Without prejudice to those privileges, exemptions and immunities, it is the duty of all such persons to respectthe laws and regulations of the Government to which they are assigned.
+“(e) The privileges, exemptions and immunities accorded under this Section are not for the personal benefit of the individuals concerned but are to safeguard the independent exercise of their official functions. Without prejudice to those privileges, exemptions and immunities, it is the duty of all such persons to respect the laws and regulations of the Government to which they are assigned.
 
 #### “Article VI
 
@@ -394,7 +394,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 213
 
-“The Government of the United States shall provide on a grant basis to the Government of Palau the sum of $5.5 million in conjunction with Article II of Title Three. This sum shall be made available concurrently with the grant assistance provided pursuant to this Article during the first year after the effective date of this Compact. The Government of Palau, in its use of such funds, shall take into account the impact of the activities of the Government of the United States in Palau.
+“The Government of the United States shall provide on a grant basis to the Government of Palau the sum of $5.5 million in conjunction with Article II of Title Three. This sum shall be made available concurrently with the grant assistance provided pursuant to this Article during the first year after the effective date of this Compact. The Government of Palau, in its use of such funds, shall take into account the impact of theactivities of the Government of the United States in Palau.
 
 #### “Section 214
 
@@ -450,7 +450,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) The annual expenditure by the Government of Palau of the grant amounts specified in Article I of this Title shall be in accordance with an official national development plan promulgated by the Government of Palau and concurred in by the Government of the United States prior to the effective date of this Compact. This plan may be amended from time to time by the Government of Palau.
 
-“(b) The Government of the United States and the Government of Palau recognize that the achievement of the goals of the plan referred to in this Section depends upon the availability of adequate internal revenue as well as economic assistance from sources outside of Palau, including the Government of the United States, and may, in addition, be affected by the impact of exceptional, economically adverse circumstances. The Government of Palau shall therefore report annually to the President of the United States and to the Congress of the United States on the implementation of this plan and on its use of the funds specified in thisArticle. This report shall outline the achievements of the plan to date and the need, if any, for an additional authorization and appropriation of economic assistance for that year to account for any exceptional, economically adverse circumstances. The availability of such additional economic assistance from the Government of the United States shall be subject to the authorization and appropriation of funds by the Government of the United States.
+“(b) The Government of the United States and the Government of Palau recognize that the achievement of the goals of the plan referred to in this Section depends upon the availability of adequate internal revenue as well as economic assistance from sources outside of Palau, including the Government of the United States, and may, in addition, be affected by the impact of exceptional, economically adverse circumstances. The Government of Palau shall therefore report annually to the President of the United States and to the Congress of the United States on the implementation of this plan and on its use of the funds specified in this Article. This report shall outline the achievements of the plan to date and the need, if any, for an additional authorization and appropriation of economic assistance for that year to account for any exceptional, economically adverse circumstances. The availability of such additional economic assistance from the Government of the United States shall be subject to the authorization and appropriation of funds by the Government of the United States.
 
 #### “Section 232
 
@@ -462,7 +462,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 234
 
-“Title to the property of the Government of the United States situated in the Trust Territory of the Pacific Islands and in Palau or acquired for or used by the Government of the Trust Territory of the Pacific Islands on or before the day preceding the effective date of this Compact shall, without reimbursement or transfer of funds, vest in the Government of Palau as set forth in a separate agreement which shall come into effect simultaneously with this Compact. The provisions of this Section shall not apply to the personal property of the Government of the United States for which the Government of the United States determines a continuing requirement.
+“Title to the property of the Government of the United States situated in the Trust Territory of the Pacific Islands and in Palau or acquired for or used by the Government of the Trust Territory of the PacificIslands on or before the day preceding the effective date of this Compact shall, without reimbursement or transfer of funds, vest in the Government of Palau as set forth in a separate agreement which shall come into effect simultaneously with this Compact. The provisions of this Section shall not apply to the personal property of the Government of the United States for which the Government of the United States determines a continuing requirement.
 
 #### “Section 235
 
@@ -516,7 +516,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 252
 
-“The Government of Palau may, with respect to United States persons, tax income derived from sources within its respective jurisdiction, property situated therein, including transfers of such property by gift orat death, and products consumed therein, in such manner as such Government deems appropriate. The determination of the source of any income, or the situs of any property, shall, for purposes of this Compact, be made according to the United States Internal Revenue Code.
+“The Government of Palau may, with respect to United States persons, tax income derived from sources within its respective jurisdiction, property situated therein, including transfers of such property by gift or at death, and products consumed therein, in such manner as such Government deems appropriate. The determination of the source of any income, or the situs of any property, shall, for purposes of this Compact, be made according to the United States Internal Revenue Code.
 
 #### “Section 253
 
@@ -588,7 +588,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 324
 
-“In the exercise in Palau of its authority and responsibility under this Title, the Government of the UnitedStates shall not use, test, store or dispose of nuclear, toxic chemical, gas or biological weapons intended for use in warfare and the Government of Palau assures the Government of the United States that in carrying out its security and defense responsibilities under this Title, the Government of the United States has the right to operate nuclear capable or nuclear propelled vessels and aircraft within the jurisdiction of Palau without either confirming or denying the presence or absence of such weapons within the jurisdiction of Palau.
+“In the exercise in Palau of its authority and responsibility under this Title, the Government of the United States shall not use, test, store or dispose of nuclear, toxic chemical, gas or biological weapons intended for use in warfare and the Government of Palau assures the Government of the United States that in carrying out its security and defense responsibilities under this Title, the Government of the United States has the right to operate nuclear capable or nuclear propelled vessels and aircraft within the jurisdiction of Palau without either confirming or denying the presence or absence of such weapons within the jurisdiction of Palau.
 
 #### “Article III
 
@@ -768,7 +768,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(b) ‘Trusteeship Agreement’ means the agreement setting forth the terms of trusteeship for the Trust Territory of the Pacific Islands, approved by the Security Council of the United Nations April 2, 1947, and by the United States July 18, 1947, entered into force July 18, 1947, 61 Stat. 3301, T.I.A.S. 1665, 8 U.N.T.S. 189.
 
-“(c) ‘Palau’ is used in a geographic sense and includes the land and water areas to the outer limits of the territorial sea and the air space above such areas as now or hereafter recognized by the Government of the United States consistent with the Compact and its related agreements.
+“(c) ‘Palau’ is used in a geographic sense and includes the land and water areas to the outer limits of the territorial sea and the air space above such areas as now or hereafter recognized by the Government of theUnited States consistent with the Compact and its related agreements.
 
 “(d) ‘Government of Palau’ means the Government established and organized by the Constitution of Palau including all the political subdivisions and entities comprising that Government.
 
@@ -828,7 +828,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 “(a) The Government of the United States and the Government of Palau agree that they have full authority under their respective constitutions to enter into this Compact and its related agreements and to fulfill all of their respective responsibilities in accordance with the terms of this Compact and its related agreements. The Governments pledge that they are so committed.
 
-“(b) The Government of the United States and the Government of Palau shall take all necessary steps, of a general or particular character, to ensure, not later than the effective date of this Compact, that theirlaws, regulations and administrative procedures are such as to effect the commitments referred to in Section 471(a).
+“(b) The Government of the United States and the Government of Palau shall take all necessary steps, of a general or particular character, to ensure, not later than the effective date of this Compact, that their laws, regulations and administrative procedures are such as to effect the commitments referred to in Section 471(a).
 
 “(c) Without prejudice to the effects of this Compact under international law, this Compact has the force and effect of a statute under the laws of the United States.
 

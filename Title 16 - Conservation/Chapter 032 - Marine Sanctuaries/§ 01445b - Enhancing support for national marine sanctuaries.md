@@ -122,7 +122,7 @@ Pub. L. 104–283, §6(b)(1), redesignated subsec. (f) as (e). Former subsec. (e
 
 Subsec. (f). Pub. L. 104–283, §6(b)(1), redesignated subsec. (f) as (e).
 
-Subsec. (g). Pub. L. 104–283, §6(b)(1), struck out heading and text of subsec. (g). Text read as follows: “No later than 30 months after November 4, 1992, the Secretary shall submit a report on the pilot project toCongress regarding the success of the program in providing additional funds for management and operation of national marine sanctuaries.”
+Subsec. (g). Pub. L. 104–283, §6(b)(1), struck out heading and text of subsec. (g). Text read as follows: “No later than 30 months after November 4, 1992, the Secretary shall submit a report on the pilot project to Congress regarding the success of the program in providing additional funds for management and operation of national marine sanctuaries.”
 
 Subsec. (h). Pub. L. 104–283, §6(b)(1), struck out heading and text of subsec. (h). Text read as follows: “In this section—
 

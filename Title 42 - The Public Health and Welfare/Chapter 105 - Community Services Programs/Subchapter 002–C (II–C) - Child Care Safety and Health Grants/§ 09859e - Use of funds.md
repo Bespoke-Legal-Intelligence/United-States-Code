@@ -14,7 +14,7 @@ A State that receives an allotment under section 9859c of this title shall use t
 
 &emsp;(5) providing health consultants to provide advice to eligible child care providers;
 
-&emsp;(6) assisting eligible child care providers in enhancing the ability of the providers to servechildren with disabilities and infants and toddlers with disabilities;
+&emsp;(6) assisting eligible child care providers in enhancing the ability of the providers to serve children with disabilities and infants and toddlers with disabilities;
 
 &emsp;(7) conducting criminal background checks for eligible child care providers and other individuals who have contact with children in the facilities of the providers;
 

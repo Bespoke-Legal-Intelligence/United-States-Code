@@ -1,6 +1,6 @@
 ### §12001. Authorized strengths: reserve components
 
-(a) Whenever the authorized strength of a reserve component (other than the Coast Guard Reserve) is not prescribed by law, it shall be prescribed by the President.
+(a) Whenever the authorized strength of a reserve component (other than the Coast GuardReserve) is not prescribed by law, it shall be prescribed by the President.
 
 (b) Subject to the authorized strength of the reserve component concerned, the authorized strength of each reserve component (other than the Coast Guard Reserve) in members in each grade is that which the Secretary concerned determines to be necessary to provide for mobilization requirements. The Secretary shall review these determinations at least once each year and revise them if he considers it necessary. However, a member of the reserve component concerned may not, as a result of such a determination, be reduced in the member's reserve grade without the member's consent.
 
@@ -14,29 +14,33 @@ Provisions similar to those in this section were contained in sections 3221, 322
 
 Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### End Strengths for Selected Reserve and for Reserves on Active Duty in Support of Reserves
 
-Pub. L. 107–107, div. A, title IV, §§411, 412, Dec. 28, 2001, 115 Stat. 1069, 1070, provided that:
+Pub. L. 108–136, div. A, title IV, §§411, 412, Nov. 24, 2003, 117 Stat. 1452, 1453, provided that:
 
-#### “SEC. 411. End Strengths for Selected Reserve
+#### “SEC. 411. END STRENGTHS FOR SELECTED RESERVE.
 
 “(a)
 
-In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2002, as follows:
+In General.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2004, as follows:
 
 &emsp;“(1) The Army National Guard of the United States, 350,000.
 
 &emsp;“(2) The Army Reserve, 205,000.
 
-&emsp;“(3) The Naval Reserve, 87,000.
+&emsp;“(3) The Naval Reserve, 85,900.
 
-&emsp;“(4) The Marine Corps Reserve, 39,558.
+&emsp;“(4) The Marine Corps Reserve, 39,600.
 
-&emsp;“(5) The Air National Guard of the United States, 108,400.
+&emsp;“(5) The Air National Guard of the United States, 107,030.
 
-&emsp;“(6) The Air Force Reserve, 74,700.
+&emsp;“(6) The Air Force Reserve, 75,800.
 
-&emsp;“(7) The Coast Guard Reserve, 8,000.
+&emsp;“(7) The Coast Guard Reserve, 10,000.
 
 “(b)
 
@@ -48,23 +52,27 @@ Adjustments.—The end strengths prescribed by subsection (a) for the Selected R
 
 > Whenever such units or such individual members are released from active duty during any fiscal year, the end strength prescribed for such fiscal year for the Selected Reserve of such reserve component shall be proportionately increased by the total authorized strengths of such units and by the total number of such individual members.
 
-#### “SEC. 412. End Strengths for Reserves on Active Duty in Support of the Reserves
+#### “SEC. 412. END STRENGTHS FOR RESERVES ON ACTIVE DUTY IN SUPPORT OF THE RESERVES.
 
-“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 2002, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
+“Within the end strengths prescribed in section 411(a), the reserve components of the Armed Forces are authorized, as of September 30, 2004, the following number of Reserves to be serving on full-time active duty or full-time duty, in the case of members of the National Guard, for the purpose of organizing, administering, recruiting, instructing, or training the reserve components:
 
-&emsp;“(1) The Army National Guard of the United States, 23,698.
+&emsp;“(1) The Army National Guard of the United States, 25,599.
 
-&emsp;“(2) The Army Reserve, 13,406.
+&emsp;“(2) The Army Reserve, 14,374.
 
-&emsp;“(3) The Naval Reserve, 14,811.
+&emsp;“(3) The Naval Reserve, 14,384.
 
 &emsp;“(4) The Marine Corps Reserve, 2,261.
 
-&emsp;“(5) The Air National Guard of the United States, 11,591.
+&emsp;“(5) The Air National Guard of the United States, 12,191.
 
-&emsp;“(6) The Air Force Reserve, 1,437.”
+&emsp;“(6) The Air Force Reserve, 1,660.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 107–314, div. A, title IV, §§411, 412, Dec. 2, 2002, 116 Stat. 2526, 2527.
+
+Pub. L. 107–107, div. A, title IV, §§411, 412, Dec. 28, 2001, 115 Stat. 1069, 1070.
 
 Pub. L. 106–398, §1 \[\[div. A\], title IV, §§411, 412\], Oct. 30, 2000, 114 Stat. 1654, 1654A–93.
 
@@ -196,7 +204,7 @@ Action on the Basis of Program Results.—Based on the experience under the pilo
 
 Pub. L. 98–525, title V, §552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, as amended by Pub. L. 103–337, div. A, title XVI, §1661(a)(3)(B), Oct. 5, 1994, 108 Stat. 2980, provided that:
 
-“(a)(1) The Secretary of Defense shall conduct a review of the various systems used to measure the readiness of reserve units of the Armed Forces and shall implement a measurement system for the active and reserve components of the Armed Forces to provide an objective and uniform evaluation of the readiness of all units of the Armed Forces. The measurement system should be designed to produce information adequate to provide comparisons concerning the readiness of allunits. The system for evaluation of the readiness of a unit of an active component should incorporate the performance of any unit of a reserve component affiliated with the active component unit, including the effect of the reserve component unit on the mobilization capability of the active component unit.
+“(a)(1) The Secretary of Defense shall conduct a review of the various systems used to measure the readiness of reserve units of the Armed Forces and shall implement a measurement system for the active and reserve components of the Armed Forces to provide anobjective and uniform evaluation of the readiness of all units of the Armed Forces. The measurement system should be designed to produce information adequate to provide comparisons concerning the readiness of all units. The system for evaluation of the readiness of a unit of an active component should incorporate the performance of any unit of a reserve component affiliated with the active component unit, including the effect of the reserve component unit on the mobilization capability of the active component unit.
 
 “(2) Not later than March 31, 1985, the Secretary shall submit a report to the Committees on Armed Services of the Senate and House of Representatives describing the results of the review under paragraph (1) and the measurement system implemented in accordance with that paragraph.
 

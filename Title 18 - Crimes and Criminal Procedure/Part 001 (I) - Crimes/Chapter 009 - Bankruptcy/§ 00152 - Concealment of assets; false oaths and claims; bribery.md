@@ -2,7 +2,7 @@
 
 A person who—
 
-&emsp;(1) knowingly and fraudulently conceals from a custodian, trustee, marshal, or otherofficer of the court charged with the control or custody of property, or, in connection with a case under title 11, from creditors or the United States Trustee, any property belonging to the estate of a debtor;
+&emsp;(1) knowingly and fraudulently conceals from a custodian, trustee, marshal, or other officer of the court charged with the control or custody of property, or, in connection with a case under title 11, from creditors or the United States Trustee, any property belonging to the estate of a debtor;
 
 &emsp;(2) knowingly and fraudulently makes a false oath or account in or in relation to any case under title 11;
 

@@ -66,7 +66,7 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 #### (2) Allocation of premium charges
 
-&emsp;The participation agreement shall specify terms for allocating premium charges betweenthe borrower and the participating financial institution. However, if the participating financial institution is required to pay any of the premium charges, the participation agreement shall authorize the participating financial institution to recover from the borrower the cost of the payment of the participating financial institution, in any manner on which the participating financial institution and the borrower agree.
+&emsp;The participation agreement shall specify terms for allocating premium charges between the borrower and the participating financial institution. However, if the participating financial institution is required to pay any of the premium charges, the participation agreement shall authorize the participating financial institution to recover from the borrower the cost of the payment of the participating financial institution, in any manner on which the participating financial institution and the borrower agree.
 
 #### (i) Restrictions
 
@@ -112,7 +112,7 @@ A claim filed by a participating financial institution may include the amount of
 
 #### (2) Insufficient reserve funds
 
-&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participating financial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
+&emsp;If there are insufficient funds in the reserve fund to cover the entire amount of a claim of a participating financial institution, the participating State shall pay to the participatingfinancial institution an amount equal to the current balance in the reserve fund. If the enrolled loan for which the claim has been filed—
 
 &emsp;&emsp;(A) is not an early loan, such payment shall be deemed fully to satisfy the claim, and the participating financial institution shall have no other or further right to receive any amount from the reserve fund with respect to such claim; or
 

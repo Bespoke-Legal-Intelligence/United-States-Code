@@ -22,7 +22,7 @@
 
 (e) The Committee shall study the prevailing rate system and other matters pertinent to the establishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee.
 
-(f) The Committee shall meet at the call of the Chairman. However, a special meeting shall be called by the Chairman if 5 members make a written request to the Chairman to call a special meeting to consider matters within the purview of the Committee.
+(f) The Committee shall meet at the call of the Chairman. However, a special meeting shall be called by the Chairman if 5 members make awritten request to the Chairman to call a special meeting to consider matters within the purview of the Committee.
 
 (g)(1) Except as provided in paragraph (2), members of the Committee described in paragraphs (2)–(5) of subsection (a) of this section serve without additional pay. Members who represent employee organizations are not entitled to pay from the Government of the United States for services rendered to the Committee.
 

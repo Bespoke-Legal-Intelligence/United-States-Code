@@ -46,7 +46,7 @@
 
 #### (7) Waiver for desegregation plans
 
-&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan thatcontinues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if—
+&emsp;The Secretary may approve a local educational agency's written request for a waiver of the requirements of subsections (a) and (c) of this section, and permit such agency to treat as eligible, and serve, any school that children attend with a State-ordered, court-ordered school desegregation plan or a plan that continues to be implemented in accordance with a State-ordered or court-ordered desegregation plan, if—
 
 &emsp;&emsp;(A) the number of economically disadvantaged children enrolled in the school is at least 25 percent of the school's total enrollment; and
 
@@ -94,7 +94,7 @@
 
 #### (3) Reservation
 
-&emsp;A local educational agency shall reserve such funds as are necessary under this part to provide services comparable to those provided to children in schools funded under this part to serve—
+&emsp;A local educational agency shall reserve such funds as are necessary under this part toprovide services comparable to those provided to children in schools funded under this part to serve—
 
 &emsp;&emsp;(A) homeless children who do not attend participating schools, including providing educationally related support services to children in shelters and other locations where children may live;
 

@@ -22,7 +22,7 @@ Reporting.—The Director shall report directly to the Secretary.
 
 &emsp;(4)
 
-Term.—The term of the Director shall be 4 years. The Director may continue to serve after the expiration of the term until a successor is appointed and confirmed.
+Term.—The term of the Director shall be 4 years. The Director may continue to serveafter the expiration of the term until a successor is appointed and confirmed.
 
 (c)
 
@@ -216,7 +216,7 @@ Transportation Statistics Annual Report.—The Director shall transmit to the Pr
 
 Proceeds of Data Product Sales.—Notwithstanding section 3302 of title 31, United States Code, funds received by the Bureau from the sale of data products, for necessary expenses incurred, may be credited to the Highway Trust Fund (other than the Mass Transit Account) for the purpose of reimbursing the Bureau for the expenses.
 
-(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556; Pub. L. 105–178, title V, §5109(a), June 9, 1998, 112 Stat. 437.)
+(Added Pub. L. 102–240, title VI, §6006(a), Dec. 18, 1991, 105 Stat. 2172; amended Pub. L. 104–287, §5(2), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–324, title XI, §1131, Oct. 19, 1996, 110 Stat. 3985; Pub. L. 105–130, §4(b)(1), Dec. 1, 1997, 111 Stat. 2556;Pub. L. 105–178, title V, §5109(a), June 9, 1998, 112 Stat. 437.)
 
 #### References in Text
 
@@ -306,7 +306,7 @@ Establishment.—The Director of the Bureau of Transportation Statistics shall e
 
 “(b)
 
-Function.—It shall be the function of the advisory council established under this section to advise the Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
+Function.—It shall be the function of the advisory council established under this section to advisethe Director of the Bureau of Transportation Statistics on transportation statistics and analyses, including whether or not the statistics and analysis disseminated by the Bureau of Transportation Statistics are of high quality and are based upon the best available objective information.
 
 “(c)
 

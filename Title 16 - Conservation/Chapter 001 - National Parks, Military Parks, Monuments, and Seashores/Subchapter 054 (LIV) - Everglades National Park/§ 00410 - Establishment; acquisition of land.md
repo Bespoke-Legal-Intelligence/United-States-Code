@@ -88,7 +88,7 @@ South florida ecosystem.—The term ‘South Florida ecosystem’ has the meanin
 
 &emsp;“(9)
 
-Special use permit area.—The term ‘special use permit area’ means the area of 333.3 acres on the northern boundary of the Park reserved for the use, occupancy, and governance of the Tribe under a special use permit before the date of the enactment of this Act \[Oct. 30, 1998\].
+Special use permit area.—The term ‘special use permit area’ means the area of 333.3 acres on the northern boundary of the Park reserved for the use,occupancy, and governance of the Tribe under a special use permit before the date of the enactment of this Act \[Oct. 30, 1998\].
 
 &emsp;“(10)
 
@@ -236,7 +236,7 @@ Height Restrictions.—
 
 &emsp;“(1)
 
-Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within theMiccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
+Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within the Miccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
 
 &emsp;“(2)
 

@@ -36,7 +36,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 &emsp;(1) the sale or lease of lots in a subdivision containing fewer than one hundred lots which are not exempt under subsection (a) of this section;
 
-&emsp;(2) the sale or lease of lots in a subdivision if, within the twelve-month period commencing on the date of the first sale or lease of a lot in such subdivision after the effective date of this subsection, or on such other date within that twelve-month period as the Secretary may prescribe, not more than twelve lots aresold or leased, and the sale or lease of the first twelve lots in such subdivision in any subsequent twelve-month period, if not more than twelve lots have been sold or leased in any preceding twelve-month period after the effective date of this subsection;
+&emsp;(2) the sale or lease of lots in a subdivision if, within the twelve-month period commencing on the date of the first sale or lease of a lot in such subdivision after the effective date of this subsection, or on such other date within that twelve-month period as the Secretary may prescribe, not more than twelve lots are sold or leased, and the sale or lease of the first twelve lots in such subdivision in any subsequent twelve-month period, if not more than twelve lots have been sold or leased in any preceding twelve-month period after the effective date of this subsection;
 
 &emsp;(3) the sale or lease of lots in a subdivision if each noncontiguous part of such subdivision contains not more than twenty lots, and if the purchaser or lessee (or spouse thereof) has made a personal, on-the-lot inspection of the lot purchased or leased, prior to signing of the contract or agreement to purchase or lease;
 
@@ -102,7 +102,7 @@ Unless the method of disposition is adopted for the purpose of evasion of this c
 
 The Secretary may from time to time, pursuant to rules and regulations issued by him, exempt from any of the provisions of this chapter any subdivision or any lots in a subdivision, if he finds that the enforcement of this chapter with respect to such subdivision or lots is not necessary in the public interest and for the protection of purchasers by reason or the small amount involved or the limited character of the public offering.
 
-(Pub. L. 90–448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557,title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123.)
+(Pub. L. 90–448, title XIV, §1403, Aug. 1, 1968, 82 Stat. 590; Pub. L. 91–152, title IV, §411, Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–383, title VIII, §812(b), Aug. 22, 1974, 88 Stat. 736; Pub. L. 95–557, title IX, §907, Oct. 31, 1978, 92 Stat. 2127; Pub. L. 96–153, title IV, §402, Dec. 21, 1979, 93 Stat. 1123.)
 
 #### References in Text
 

@@ -56,7 +56,7 @@
 
 #### (3) Single violation
 
-&emsp;For purposes of paragraph (2)(C), in determining whether a first or subsequent violationhas occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.
+&emsp;For purposes of paragraph (2)(C), in determining whether a first or subsequent violation has occurred, a determination in a single action, by judgment or settlement, that the covered entity has engaged in more than one discriminatory act shall be counted as a single violation.
 
 #### (4) Punitive damages
 

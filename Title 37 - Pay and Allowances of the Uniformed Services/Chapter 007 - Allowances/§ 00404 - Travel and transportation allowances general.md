@@ -1,6 +1,6 @@
 ### §404. Travel and transportation allowances: general
 
-(a) Except as provided in subsection (f) and under regulations prescribed by the Secretariesconcerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
+(a) Except as provided in subsection (f) and under regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
 
 &emsp;(1) upon a change of permanent station, or otherwise, or when away from his designated post of duty regardless of the length of time he is away from that post;
 
@@ -18,7 +18,7 @@
 
 &emsp;(B) the allowances for the kinds of travel, but not more than the amounts authorized in this section.
 
-(2) In prescribing such conditions and allowances, the Secretaries concerned shall provide that a member who is performing travel under orders away from his designated post of duty and who is authorized a per diem under clause (2) of subsection (d) shall be paid for the meals portion of that per diem in a cash amount at a rate that is not less than the rate established under section 1011(a) of this title for meals sold to members. The preceding sentence shall not apply with respect to a member on field duty or sea duty (as defined in regulations prescribed under section 403(f)(3) of this title) or a member of a unit with respect to which the Secretary concerned has determined that unit messing is essential to the accomplishment of the unit's training and readiness.
+(2) In prescribing such conditions and allowances, the Secretaries concerned shall provide that a member who is performing travel under orders away from his designated post of duty and who is authorized a per diem under clause (2) of subsection (d) shall be paid for the meals portion of that per diem in a cash amount at a rate that is not less than the rate established under section 1011(a) of this title for meals sold to members. The preceding sentence shall not apply with respect to a member on field duty or sea duty (as defined in regulations prescribedunder section 403(f)(3) of this title) or a member of a unit with respect to which the Secretary concerned has determined that unit messing is essential to the accomplishment of the unit's training and readiness.
 
 (c)(1) Under uniform regulations prescribed by the Secretaries concerned and as provided in paragraph (2), a member who—
 
@@ -56,7 +56,7 @@
 
 &emsp;(C) A combination of payments described in subparagraphs (A) and (B).
 
-(3) A per diem allowance or maximum amount of reimbursement established for purposes ofparagraph (2) shall be established, to the extent feasible, by locality.
+(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality.
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
@@ -206,7 +206,7 @@ Subsec. (i)(4). Pub. L. 106–65, §631(c), added par. (4).
 
 1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struckout former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
+1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
 
 1996—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
 
@@ -360,5 +360,5 @@ The increase from $12 to $16 in the per diem allowance and the provision for rei
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 404a, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175, 2013, 2784a.
+This section is referred to in sections 404a, 404b, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175, 2013, 2634, 2784a.
 

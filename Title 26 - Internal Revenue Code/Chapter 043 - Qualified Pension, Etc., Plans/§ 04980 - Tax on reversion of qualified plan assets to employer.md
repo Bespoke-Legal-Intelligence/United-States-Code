@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is transferred after March 31, 1985, and before January 1, 1989, or
 
-&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occurs after March 31, 1985, and before January 1, 1989.
+&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occursafter March 31, 1985, and before January 1, 1989.
 
 #### (F) No credit or deduction allowed
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
-&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
+&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treatedas an employer reversion to which this section applies.
 
 #### (3) Pro rata benefit increases
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (B) Present value
 
-&emsp;&emsp;Present value shall be determined as of the termination date and on the same basis asliabilities of the plan are determined on termination.
+&emsp;&emsp;Present value shall be determined as of the termination date and on the same basis as liabilities of the plan are determined on termination.
 
 #### (C) Reallocation of increase
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
+1996—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever intitle XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
 
 1990—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
 
@@ -360,7 +360,7 @@ Taxpayers to whom paragraph applies.—This paragraph shall apply to—
 
 &emsp;&emsp;“(iv) a corporation incorporated on April 23, 1956, which has its principal place of business in Dallas, Texas, and
 
-&emsp;&emsp;“(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief from creditors under the United States Bankruptcy Code on August 28, 1986.
+&emsp;&emsp;“(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief fromcreditors under the United States Bankruptcy Code on August 28, 1986.
 
 “(5)
 

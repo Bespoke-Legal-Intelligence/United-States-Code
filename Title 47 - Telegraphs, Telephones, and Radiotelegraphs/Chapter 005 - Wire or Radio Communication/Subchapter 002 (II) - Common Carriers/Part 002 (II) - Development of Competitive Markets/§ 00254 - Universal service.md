@@ -110,7 +110,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (4) Eligibility of users
 
-&emsp;No entity listed in this subsection shall be entitled to preferential rates or treatment as required by this subsection, if such entity operates as a for-profit business, is a school described in paragraph (7)(A) with an endowment of more than $50,000,000, or is a library or library consortium not eligible for assistance from a State library administrative agencyunder the Library Services and Technology Act \[20 U.S.C. 9121 et seq.\].
+&emsp;No entity listed in this subsection shall be entitled to preferential rates or treatment as required by this subsection, if such entity operates as a for-profit business, is a school described in paragraph (7)(A) with an endowment of more than $50,000,000, or is a library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act \[20 U.S.C. 9121 et seq.\].
 
 #### (5) Requirements for certain schools with computers having Internet access
 
@@ -178,11 +178,11 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (I) Schools with Internet safety policy and technology protection measures in place
 
-&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that has in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C) shall certify its compliance with subparagraphs (B) and (C) during each annual program application cycle under this subsection, except that with respect to the first program funding year after the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certifications shall be made not later than 120 days after the beginning of such first program funding year.
+&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that has in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)shall certify its compliance with subparagraphs (B) and (C) during each annual program application cycle under this subsection, except that with respect to the first program funding year after the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, the certifications shall be made not later than 120 days after the beginning of such first program funding year.
 
 #### (II) Schools without Internet safety policy and technology protection measures in place
 
-&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measuresmeeting the requirements necessary for certification under subparagraphs (B) and (C)—
+&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
 
@@ -234,7 +234,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;A library described in clause (i) shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
+&emsp;&emsp;&emsp;A library described in clause (i) shall provide reasonable public notice and holdat least one public hearing or meeting to address the proposed Internet safety policy.
 
 #### (B) Certification with respect to minors
 
@@ -406,7 +406,7 @@ A telecommunications carrier may not use services that are not competitive to su
 
 &emsp;&emsp;&emsp;(v) measures designed to restrict minors’ access to materials harmful to minors; and
 
-&emsp;&emsp;(B) provide reasonable public notice and hold at least one public hearing or meetingto address the proposed Internet safety policy.
+&emsp;&emsp;(B) provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy.
 
 #### (2) Local determination of content
 
@@ -476,7 +476,7 @@ Requirement.—The Federal Communications Commission shall prescribe regulations
 
 Deadline.—Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: “Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(<i>l</i>) of the Communications Act of 1934 \[47 U.S.C. 254(<i>l</i>)\], as added by section 1732 of this Act.”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that: “Not later than 120 days after the date of enactment of thisAct \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(<i>l</i>) of the Communications Act of 1934 \[47 U.S.C. 254(<i>l</i>)\], as added by section 1732 of this Act.”
 
 #### Separability
 

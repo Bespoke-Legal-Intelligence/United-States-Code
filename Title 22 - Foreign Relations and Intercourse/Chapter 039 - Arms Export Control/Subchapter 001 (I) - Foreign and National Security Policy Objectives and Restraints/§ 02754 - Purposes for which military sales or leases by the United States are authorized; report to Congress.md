@@ -6,7 +6,7 @@ Defense articles and defense services shall be sold or leased by the United Stat
 
 #### Amendments
 
-2002—Pub. L. 107–228 inserted “for preventing or hindering the proliferation of weapons of mass destruction and of the means of delivering such weapons,” after “ legitimate self-defense,” in first sentence.
+2002—Pub. L. 107–228 inserted “for preventing or hindering the proliferation of weapons of mass destruction and of the means of delivering such weapons,” after “legitimate self-defense,” in first sentence.
 
 1981—Pub. L. 97–113 substituted “sold or leased” for “sold” in first sentence.
 

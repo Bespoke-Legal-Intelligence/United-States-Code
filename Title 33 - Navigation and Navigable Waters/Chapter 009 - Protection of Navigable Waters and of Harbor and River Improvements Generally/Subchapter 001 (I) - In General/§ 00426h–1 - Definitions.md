@@ -16,7 +16,7 @@ In sections 426e to 426h–1 of this title, the following definitions apply:
 
 #### (4) Shore
 
-&emsp;The term “shore” includes each shoreline of the Atlantic and Pacific Oceans, the Gulf of Mexico, the Great Lakes, and lakes, estuaries, and bays directly connected therewith.
+&emsp;The term “shore” includes each shoreline of the Atlantic and Pacific Oceans, the Gulf ofMexico, the Great Lakes, and lakes, estuaries, and bays directly connected therewith.
 
 #### (5) Shore protection project
 

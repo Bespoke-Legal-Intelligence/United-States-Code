@@ -1,0 +1,252 @@
+### §384. Importation of prescription drugs
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Importer
+
+&emsp;The term “importer” means a pharmacist or wholesaler.
+
+#### (2) Pharmacist
+
+&emsp;The term “pharmacist” means a person licensed by a State to practice pharmacy, including the dispensing and selling of prescription drugs.
+
+#### (3) Prescription drug
+
+&emsp;The term “prescription drug” means a drug subject to section 353(b) of this title, other than—
+
+&emsp;&emsp;(A) a controlled substance (as defined in section 802 of this title);
+
+&emsp;&emsp;(B) a biological product (as defined in section 262 of title 42);
+
+&emsp;&emsp;(C) an infused drug (including a peritoneal dialysis solution);
+
+&emsp;&emsp;(D) an intravenously injected drug;
+
+&emsp;&emsp;(E) a drug that is inhaled during surgery; or
+
+&emsp;&emsp;(F) a drug which is a parenteral drug, the importation of which pursuant to subsection (b) of this section is determined by the Secretary to pose a threat to the public health, in which case section 381(d)(1) of this title shall continue to apply.
+
+#### (4) Qualifying laboratory
+
+&emsp;The term “qualifying laboratory” means a laboratory in the United States that has been approved by the Secretary for the purposes of this section.
+
+#### (5) Wholesaler
+
+#### (A) In general
+
+&emsp;&emsp;The term “wholesaler” means a person licensed as a wholesaler or distributor of prescription drugs in the United States under section 353(e)(2)(A) of this title.
+
+#### (B) Exclusion
+
+&emsp;&emsp;The term “wholesaler” does not include a person authorized to import drugs under section 381(d)(1) of this title.
+
+#### (b) Regulations
+
+The Secretary, after consultation with the United States Trade Representative and the Commissioner of Customs, shall promulgate regulations permitting pharmacists and wholesalers to import prescription drugs from Canada into the United States.
+
+#### (c) Limitation
+
+The regulations under subsection (b) of this section shall—
+
+&emsp;(1) require that safeguards be in place to ensure that each prescription drug imported under the regulations complies with section 355 of this title (including with respect to being safe and effective for the intended use of the prescription drug), with sections 351 and 352 of this title, and with other applicable requirements of this chapter;
+
+&emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and
+
+&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as a means to facilitate the importation of prescription drugs.
+
+#### (d) Information and records
+
+#### (1) In general
+
+&emsp;The regulations under subsection (b) of this section shall require an importer of a prescription drug under subsection (b) of this section to submit to the Secretary the following information and documentation:
+
+&emsp;&emsp;(A) The name and quantity of the active ingredient of the prescription drug.
+
+&emsp;&emsp;(B) A description of the dosage form of the prescription drug.
+
+&emsp;&emsp;(C) The date on which the prescription drug is shipped.
+
+&emsp;&emsp;(D) The quantity of the prescription drug that is shipped.
+
+&emsp;&emsp;(E) The point of origin and destination of the prescription drug.
+
+&emsp;&emsp;(F) The price paid by the importer for the prescription drug.
+
+&emsp;&emsp;(G) Documentation from the foreign seller specifying—
+
+&emsp;&emsp;&emsp;(i) the original source of the prescription drug; and
+
+&emsp;&emsp;&emsp;(ii) the quantity of each lot of the prescription drug originally received by the seller from that source.
+
+&emsp;&emsp;(H) The lot or control number assigned to the prescription drug by the manufacturer of the prescription drug.
+
+&emsp;&emsp;(I) The name, address, telephone number, and professional license number (if any) of the importer.
+
+&emsp;&emsp;(J)(i) In the case of a prescription drug that is shipped directly from the first foreign recipient of the prescription drug from the manufacturer:
+
+&emsp;&emsp;&emsp;(I) Documentation demonstrating that the prescription drug was received by the recipient from the manufacturer and subsequently shipped by the first foreign recipient to the importer.
+
+&emsp;&emsp;&emsp;(II) Documentation of the quantity of each lot of the prescription drug received by the first foreign recipient demonstrating that the quantity being imported into the United States is not more than the quantity that was received by the first foreign recipient.
+
+&emsp;&emsp;&emsp;(III)(aa) In the case of an initial imported shipment, documentation demonstrating that each batch of the prescription drug in the shipment was statistically sampled and tested for authenticity and degradation.
+
+&emsp;&emsp;&emsp;(bb) In the case of any subsequent shipment, documentation demonstrating that a statistically valid sample of the shipment was tested for authenticity and degradation.
+
+&emsp;&emsp;(ii) In the case of a prescription drug that is not shipped directly from the first foreign recipient of the prescription drug from the manufacturer, documentation demonstrating that each batch in each shipment offered for importation into the United States was statistically sampled and tested for authenticity and degradation.
+
+&emsp;&emsp;(K) Certification from the importer or manufacturer of the prescription drug that the prescription drug—
+
+&emsp;&emsp;&emsp;(i) is approved for marketing in the United States and is not adulterated or misbranded; and
+
+&emsp;&emsp;&emsp;(ii) meets all labeling requirements under this chapter.
+
+&emsp;&emsp;(L) Laboratory records, including complete data derived from all tests necessary to ensure that the prescription drug is in compliance with established specifications and standards.
+
+&emsp;&emsp;(M) Documentation demonstrating that the testing required by subparagraphs (J) and (L) was conducted at a qualifying laboratory.
+
+&emsp;&emsp;(N) Any other information that the Secretary determines is necessary to ensure the protection of the public health.
+
+#### (2) Maintenance by the Secretary
+
+&emsp;The Secretary shall maintain information and documentation submitted under paragraph (1) for such period of time as the Secretary determines to be necessary.
+
+#### (e) Testing
+
+The regulations under subsection (b) of this section shall require—
+
+&emsp;(1) that testing described in subparagraphs (J) and (L) of subsection (d)(1) of this section be conducted by the importer or by the manufacturer of the prescription drug at a qualified laboratory;
+
+&emsp;(2) if the tests are conducted by the importer—
+
+&emsp;&emsp;(A) that information needed to—
+
+&emsp;&emsp;&emsp;(i) authenticate the prescription drug being tested; and
+
+&emsp;&emsp;&emsp;(ii) confirm that the labeling of the prescription drug complies with labeling requirements under this chapter;
+
+> &emsp;&emsp;be supplied by the manufacturer of the prescription drug to the pharmacist or wholesaler; and
+
+&emsp;&emsp;(B) that the information supplied under subparagraph (A) be kept in strict confidence and used only for purposes of testing or otherwise complying with this chapter; and
+
+&emsp;(3) may include such additional provisions as the Secretary determines to be appropriate to provide for the protection of trade secrets and commercial or financial information that is privileged or confidential.
+
+#### (f) Registration of foreign sellers
+
+Any establishment within Canada engaged in the distribution of a prescription drug that is imported or offered for importation into the United States shall register with the Secretary the name and place of business of the establishment and the name of the United States agent for the establishment.
+
+#### (g) Suspension of importation
+
+The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) of this section be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigation is completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b) of this section.
+
+#### (h) Approved labeling
+
+The manufacturer of a prescription drug shall provide an importer written authorization for the importer to use, at no cost, the approved labeling for the prescription drug.
+
+#### (i) Charitable contributions
+
+Notwithstanding any other provision of this section, section 381(d)(1) of this title continues to apply to a prescription drug that is donated or otherwise supplied at no charge by the manufacturer of the drug to a charitable or humanitarian organization (including the United Nations and affiliates) or to a government of a foreign country.
+
+#### (j) Waiver authority for importation by individuals
+
+#### (1) Declarations
+
+&emsp;Congress declares that in the enforcement against individuals of the prohibition of importation of prescription drugs and devices, the Secretary should—
+
+&emsp;&emsp;(A) focus enforcement on cases in which the importation by an individual poses a significant threat to public health; and
+
+&emsp;&emsp;(B) exercise discretion to permit individuals to make such importations in circumstances in which—
+
+&emsp;&emsp;&emsp;(i) the importation is clearly for personal use; and
+
+&emsp;&emsp;&emsp;(ii) the prescription drug or device imported does not appear to present an unreasonable risk to the individual.
+
+#### (2) Waiver authority
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may grant to individuals, by regulation or on a case-by-case basis, a waiver of the prohibition of importation of a prescription drug or device or class of prescription drugs or devices, under such conditions as the Secretary determines to be appropriate.
+
+#### (B) Guidance on case-by-case waivers
+
+&emsp;&emsp;The Secretary shall publish, and update as necessary, guidance that accurately describes circumstances in which the Secretary will consistently grant waivers on a case-by-case basis under subparagraph (A), so that individuals may know with the greatest practicable degree of certainty whether a particular importation for personal use will be permitted.
+
+#### (3) Drugs imported from Canada
+
+&emsp;In particular, the Secretary shall by regulation grant individuals a waiver to permit individuals to import into the United States a prescription drug that—
+
+&emsp;&emsp;(A) is imported from a licensed pharmacy for personal use by an individual, not for resale, in quantities that do not exceed a 90-day supply;
+
+&emsp;&emsp;(B) is accompanied by a copy of a valid prescription;
+
+&emsp;&emsp;(C) is imported from Canada, from a seller registered with the Secretary;
+
+&emsp;&emsp;(D) is a prescription drug approved by the Secretary under subchapter V of this chapter;
+
+&emsp;&emsp;(E) is in the form of a final finished dosage that was manufactured in an establishment registered under section 360 of this title; and
+
+&emsp;&emsp;(F) is imported under such other conditions as the Secretary determines to be necessary to ensure public safety.
+
+#### (k) Construction
+
+Nothing in this section limits the authority of the Secretary relating to the importation of prescription drugs, other than with respect to section 381(d)(1) of this title as provided in this section.
+
+#### (<i>l</i>) Effectiveness of section
+
+#### (1) Commencement of program
+
+&emsp;This section shall become effective only if the Secretary certifies to the Congress that the implementation of this section will—
+
+&emsp;&emsp;(A) pose no additional risk to the public's health and safety; and
+
+&emsp;&emsp;(B) result in a significant reduction in the cost of covered products to the American consumer.
+
+#### (2) Termination of program
+
+#### (A) In general
+
+&emsp;&emsp;If, after the date that is 1 year after the effective date of the regulations under subsection (b) of this section and before the date that is 18 months after the effective date, the Secretary submits to Congress a certification that, in the opinion of the Secretary, based on substantial evidence obtained after the effective date, the benefits of implementation of this section do not outweigh any detriment of implementation of this section, this section shall cease to be effective as of the date that is 30 days after the date on which the Secretary submits the certification.
+
+#### (B) Procedure
+
+&emsp;&emsp;The Secretary shall not submit a certification under subparagraph (A) unless, after a hearing on the record under sections 556 and 557 of title 5, the Secretary—
+
+&emsp;&emsp;&emsp;(i)(I) determines that it is more likely than not that implementation of this section would result in an increase in the risk to the public health and safety;
+
+&emsp;&emsp;&emsp;(II) identifies specifically, in qualitative and quantitative terms, the nature of the increased risk;
+
+&emsp;&emsp;&emsp;(III) identifies specifically the causes of the increased risk; and
+
+&emsp;&emsp;&emsp;(IV)(aa) considers whether any measures can be taken to avoid, reduce, or mitigate the increased risk; and
+
+&emsp;&emsp;&emsp;(bb) if the Secretary determines that any measures described in item (aa) would require additional statutory authority, submits to Congress a report describing the legislation that would be required;
+
+&emsp;&emsp;&emsp;(ii) identifies specifically, in qualitative and quantitative terms, the benefits that would result from implementation of this section (including the benefit of reductions in the cost of covered products to consumers in the United States, allowing consumers to procure needed medication that consumers might not otherwise be able to procure without foregoing other necessities of life); and
+
+&emsp;&emsp;&emsp;(iii)(I) compares in specific terms the detriment identified under clause (i) with the benefits identified under clause (ii); and
+
+&emsp;&emsp;&emsp;(II) determines that the benefits do not outweigh the detriment.
+
+#### (m) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+(June 25, 1938, ch. 675, §804, as added Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464.)
+
+#### Prior Provisions
+
+A prior section 384, act June 25, 1938, ch. 675, §804, as added Pub. L. 106–387, §1(a) \[title VII, §745(c)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36, related to importation of covered products, prior to repeal by Pub. L. 108–173, title XI, §1121(a), Dec. 8, 2003, 117 Stat. 2464.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Study and Report on Importation of Drugs
+
+Pub. L. 108–173, title XI, §1122, Dec. 8, 2003, 117 Stat. 2469, provided that: “The Secretary \[of Health and Human Services\], in consultation with appropriate government agencies, shall conduct a study on the importation of drugs into the United States pursuant to section 804 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 384\] (as added by section 1121 of this Act). Not later than 12 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall submit to the appropriate committees of the Congress a report providing the findings of such study.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 331, 333, 381 of this title.
+

@@ -108,7 +108,7 @@ Pub. L. 106–210, §2, May 26, 2000, 114 Stat. 321, provided that: “The Congr
 
 &emsp;“(2) State officials are the proper regulators of professional boxing events, and must protect the welfare of professional boxers and serve the public interest by closely supervising boxing activity in their jurisdiction. State boxing commissions do not currently receive adequate information to determine whether boxers competing in their jurisdiction are being subjected to contract terms and business practices which may violate State regulations, or are onerous and confiscatory.
 
-&emsp;“(3) Promoters who engage in illegal, coercive, or unethical business practices can take advantage ofthe lack of equitable business standards in the sport by holding boxing events in States with weaker regulatory oversight.
+&emsp;“(3) Promoters who engage in illegal, coercive, or unethical business practices can take advantage of the lack of equitable business standards in the sport by holding boxing events in States with weaker regulatory oversight.
 
 &emsp;“(4) The sanctioning organizations which have proliferated in the boxing industry have not established credible and objective criteria to rate professional boxers, and operate with virtually no industry or public oversight. Their ratings are susceptible to manipulation, have deprived boxers of fair opportunities for advancement, and have undermined public confidence in the integrity of the sport.
 

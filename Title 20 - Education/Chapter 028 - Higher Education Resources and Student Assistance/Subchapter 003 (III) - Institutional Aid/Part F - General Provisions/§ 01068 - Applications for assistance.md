@@ -20,13 +20,13 @@
 
 An institution, in its application for a grant, shall—
 
-&emsp;(1) set forth, or describe how the institution (other than an institution applying under partC, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
+&emsp;(1) set forth, or describe how the institution (other than an institution applying under part C, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
 
 &emsp;(2) set forth policies and procedures to ensure that Federal funds made available under this subchapter for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purposes of section 1057(b) or 1062 of this title, and in no case supplant those funds;
 
 &emsp;(3) set forth policies and procedures for evaluating the effectiveness in accomplishing the purpose of the activities for which a grant is sought under this subchapter;
 
-&emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accounting for funds made available to the applicant under this subchapter;
+&emsp;(4) provide for such fiscal control and fund accounting procedures as may be necessary to ensure proper disbursement of and accountingfor funds made available to the applicant under this subchapter;
 
 &emsp;(5) provide (A) for making such reports, in such form and containing such information, as the Secretary may require to carry out the functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded, and (B) for keeping such records and affording such access thereto, as the Secretary may find necessary to assure the correctness and verification of such reports;
 
@@ -70,7 +70,7 @@ A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–
 
 Another prior section 1068, Pub. L. 89–329, title III, §343, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 Stat. 1235; Pub. L. 90–575, title I, §105(a), Oct. 16, 1968, 82 Stat. 1018; Pub. L. 91–230, title VIII, §801, Apr. 13, 1970, 84 Stat. 190; Pub. L. 92–318, title I, §131(a)(1)(B), June 23, 1972, 86 Stat. 247, related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, “Talent Search” program, “Upward Bound” program, “Special Services for Disadvantaged Students” program, nature of programs, waiver ofmatching requirement in the “Upward Bound” program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 Stat. 1235; Pub. L. 90–575, title I, §105(a), Oct. 16, 1968, 82 Stat. 1018; Pub. L. 91–230, title VIII, §801, Apr. 13, 1970, 84 Stat. 190; Pub. L. 92–318, title I, §131(a)(1)(B), June 23, 1972, 86 Stat. 247, related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, “Talent Search” program, “Upward Bound” program, “Special Services for Disadvantaged Students” program, nature of programs, waiver of matching requirement in the “Upward Bound” program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 
 
 Subsec. (b)(1). Pub. L. 105–244, §308(b), inserted “, D or E” after “part C”.
 
-Subsec. (b)(6). Pub. L. 105–244, §§301(c)(11), 308(c), substituted “section 1068e” for “section 1069c” and inserted “, except that for purposes of section 1059c of this title, paragraphs (2) and (3) of section 1068e of this title shall not apply” before semicolon.
+Subsec. (b)(6). Pub. L. 105–244, §§301(c)(11), 308(c), substituted “section 1068e” for “section 1069c” and inserted “, except that for purposes of section 1059c ofthis title, paragraphs (2) and (3) of section 1068e of this title shall not apply” before semicolon.
 
 1992—Subsec. (b)(7)(D) to (F). Pub. L. 102–325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;”.
 

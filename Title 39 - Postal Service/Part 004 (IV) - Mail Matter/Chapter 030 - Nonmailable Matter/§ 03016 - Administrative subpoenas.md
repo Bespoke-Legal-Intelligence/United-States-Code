@@ -24,7 +24,7 @@ Condition.—No subpoena shall be issued under this paragraph except in accordan
 
 &emsp;(2)
 
-Statutory proceedings.—In any statutory proceeding conducted under section 3005(a), the Judicial Officer may require by subpoena the attendance and testimony of witnesses and the production of any records (including books, papers, documents, and other tangible things which constitute or contain evidence) which the Judicial Officer considers relevant or material to such proceeding.
+Statutory proceedings.—In any statutory proceeding conducted under section 3005(a), the Judicial Officer may require by subpoena the attendance and testimony of witnesses and the production of any records (including books, papers, documents, andother tangible things which constitute or contain evidence) which the Judicial Officer considers relevant or material to such proceeding.
 
 &emsp;(3)
 

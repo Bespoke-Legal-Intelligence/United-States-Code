@@ -14,7 +14,7 @@
 
 (d) This section shall apply only to recipients of Federal wage or salary payments who begin to receive such payments on or after January 1, 1995, and recipients of Federal retirement payments who begin to receive such payments on or after January 1, 1995.
 
-(e)(1) Notwithstanding subsections (a) through (d) of this section, sections 5120(a) and (d) oftitle 38, and any other provision of law, all Federal payments to a recipient who becomes eligible for that type of payment after 90 days after the date of the enactment of the Debt Collection Improvement Act of 1996 shall be made by electronic funds transfer.
+(e)(1) Notwithstanding subsections (a) through (d) of this section, sections 5120(a) and (d) of title 38, and any other provision of law, all Federal payments to a recipient who becomes eligible for that type of payment after 90 days after the date of the enactment of the Debt Collection Improvement Act of 1996 shall be made by electronic funds transfer.
 
 (2) The head of a Federal agency shall, with respect to Federal payments made or authorized by the agency, waive the application of paragraph (1) to a recipient of those payments upon receipt of written certification from the recipient that the recipient does not have an account with a financial institution or an authorized payment agent.
 

@@ -1,10 +1,10 @@
 ### §5705. Confidentiality of medical quality-assurance records
 
-(a) Records and documents created by the Department as part of a medical quality-assurance program (other than reports submitted pursuant to section 7311(g) <sup>1</sup> of this title) are confidential and privileged and may not be disclosed to any person or entity except as provided in subsection (b) of this section.
+(a) Records and documents created by the Department as part of a medical quality-assuranceprogram (other than reports submitted pursuant to section 7311(g) <sup>1</sup> of this title) are confidential and privileged and may not be disclosed to any person or entity except as provided in subsection (b) of this section.
 
 (b)(1) Subject to paragraph (2) of this subsection, a record or document described in subsection (a) of this section shall, upon request, be disclosed as follows:
 
-&emsp;(A) To a Federal agency or private organization, if such record or document is needed bysuch agency or organization to perform licensing or accreditation functions related to Department health-care facilities or to perform monitoring, required by statute, of Department health-care facilities.
+&emsp;(A) To a Federal agency or private organization, if such record or document is needed by such agency or organization to perform licensing or accreditation functions related to Department health-care facilities or to perform monitoring, required by statute, of Department health-care facilities.
 
 &emsp;(B) To a Federal executive agency or provider of health-care services, if such record or document is required by such agency or provider for participation by the Department in a health-care program with such agency or provider.
 

@@ -8,7 +8,7 @@ Whenever the Attorney General determines that there is evidence that—
 
 > he shall, prior to initiating any proceeding under section 811(a) of this title, give the President timely notice of such determination. Information forwarded to the Attorney General pursuant to section 811(f) of this title shall also be forwarded by the Secretary of Health and Human Services to the President.
 
-(Pub. L. 92–255, title II, §201, formerly §205, as added Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat.1311; amended Pub. L. 97–35, title IX, §973(a), Aug. 13, 1981, 95 Stat. 598; renumbered §201, Pub. L. 100–690, title I, §1007(c)(1), Nov. 18, 1988, 102 Stat. 4187.)
+(Pub. L. 92–255, title II, §201, formerly §205, as added Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1311; amended Pub. L. 97–35, title IX, §973(a), Aug. 13, 1981, 95 Stat. 598; renumbered §201, Pub. L. 100–690, title I, §1007(c)(1), Nov. 18, 1988, 102 Stat. 4187.)
 
 #### Prior Provisions
 

@@ -96,7 +96,7 @@ In subsection (b), before clause (1), the words “Subject to paragraph (6)” a
 
 In subsection (c), the words “on a claim” are omitted as surplus.
 
-In subsection (g)(1), the words “applicable” and “either” are omitted as surplus. The word “assessing” isadded for clarity. The words “that apply to claims involved” are omitted as surplus.
+In subsection (g)(1), the words “applicable” and “either” are omitted as surplus. The word “assessing” is added for clarity. The words “that apply to claims involved” are omitted as surplus.
 
 In subsection (h), the words “under this section” are added for clarity.
 

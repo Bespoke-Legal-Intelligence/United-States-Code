@@ -10,7 +10,7 @@ The amendments required by subsection (a) of this section shall—
 
 &emsp;(1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
 
-&emsp;(2) include provisions that will require (A) publication in the Federal Register of major policy proposals that are not classified andthat involve spectrum management, and (B) adequate opportunity for public review and comment on those proposals;
+&emsp;(2) include provisions that will require (A) publication in the Federal Register of major policy proposals that are not classified and that involve spectrum management, and (B) adequate opportunity for public review and comment on those proposals;
 
 &emsp;(3) include provisions that will require publication in the Federal Register of major policy decisions that are not classified and that involve spectrum management;
 
@@ -74,9 +74,11 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
 
-Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 772, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 \[47 U.S.C. 901 et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 71, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, 47 U.S.C. 902–903 \[47 U.S.C. 901 et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 772.
 
 Pub. L. 106–553, §1(a)(2) \[title II\], Dec. 21, 2000, 114 Stat. 2762, 2762A–72.
 

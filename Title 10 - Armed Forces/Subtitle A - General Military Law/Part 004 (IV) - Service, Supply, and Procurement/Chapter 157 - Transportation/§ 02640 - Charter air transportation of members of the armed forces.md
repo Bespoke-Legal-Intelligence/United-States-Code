@@ -32,7 +32,7 @@ Inspections.—The Secretary shall provide for inspections of each air carrier t
 
 (c)
 
-Commercial Airlift Review Board.—The Secretary shall establish a Commercial Airlift Review Board within the Department of Defense. The Board shall consist of personnel from the Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
+Commercial Airlift Review Board.—The Secretary shall establish a Commercial AirliftReview Board within the Department of Defense. The Board shall consist of personnel from the Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
 
 &emsp;(1) to make recommendations to the Secretary on suspension and reinstatement of air carriers under subsection (d);
 
@@ -74,7 +74,7 @@ Authority To Protect Safety-Related Information Voluntarily Provided by an Air C
 
 (2) Information may be withheld under paragraph (1) from public disclosure only if the Secretary determines that—
 
-&emsp;(A) the disclosure of the information would inhibit an air carrier from voluntarily providing, in the future, safety-related informationfor the purposes of this section or for other air safety purposes involving the Department of Defense or another Federal agency; and
+&emsp;(A) the disclosure of the information would inhibit an air carrier from voluntarily providing, in the future, safety-related information for the purposes of this section or for other air safety purposes involving the Department of Defense or another Federal agency; and
 
 &emsp;(B) the receipt of such information generally enhances the fulfillment of responsibilities under this section or other air safety responsibilities involving the Department of Defense or another Federal agency.
 

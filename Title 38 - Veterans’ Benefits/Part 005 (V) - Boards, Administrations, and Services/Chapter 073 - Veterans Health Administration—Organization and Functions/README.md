@@ -10,6 +10,7 @@
 | [7304\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007304%20-%20Regulations.md) | Regulations. |
 | [7305\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007305%20-%20Divisions%20of%20Veterans%20Health%20Administration.md) | Divisions of Veterans Health Administration. |
 | [7306\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007306%20-%20Office%20of%20the%20Under%20Secretary%20for%20Health.md) | Office of the Under Secretary for Health. |
+| [7307\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md) | Office of Research Oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,6 +56,7 @@
 | [7362\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007362%20-%20Purpose%20of%20corporations.md) | Purpose of corporations. |
 | [7363\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007363%20-%20Board%20of%20directors%3B%20executive%20director.md) | Board of directors; executive director. |
 | [7364\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007364%20-%20General%20powers.md) | General powers. |
+| [7364A.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007364A%20-%20Coverage%20of%20employees%20under%20certain%20Federal%20tort%20claims%20laws.md) | Coverage of employees under certain Federal tort claims laws. |
 | [7365\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007365%20-%20Applicable%20State%20law.md) | Applicable State law. |
 | [7366\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007366%20-%20Accountability%20and%20oversight.md) | Accountability and oversight. |
 | \[7367. | Repealed.\] |
@@ -63,6 +65,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–170, title IV, §§401(a)(2), 402(a)(2), Dec. 6, 2003, 117 Stat. 2061, 2062, added items 7307 and 7364A.
 
 2002—Pub. L. 107–287, §§2(a)(2), 3(a)(2), Nov. 7, 2002, 116 Stat. 2027, 2028, added items 7325 and 7326.
 

@@ -12,7 +12,7 @@ Subsection (a) of this section shall not apply to international comparative asse
 
 #### Prior Provisions
 
-A prior section 7909, Pub. L. 89–10, title IX, §9209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3803, related to Native Hawaiian curriculum development and teacher training and recruitment programs,prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7909, Pub. L. 89–10, title IX, §9209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3803, related to Native Hawaiian curriculum development and teacher training and recruitment programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
 

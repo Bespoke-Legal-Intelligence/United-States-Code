@@ -52,7 +52,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;(C) Any person may sell, trade, or otherwise exchange with any other person the rights obtained under subparagraph (A), except that such rights may not be sold, traded, or otherwise exchanged to persons already in possession of such rights obtained under subparagraph (A).
 
-&emsp;(D) Federal timber purchased from Federal lands described in subparagraph (B) pursuant to a contract entered into between the purchaser and the Secretary of Agriculture before the date on which regulations to carry out this subsection are issued under section 620f of this title shall be governed by the regulationsof the Secretary of Agriculture in effect before such date that restrict the substitution of unprocessed timber originating from Federal lands for exported timber originating from private lands.
+&emsp;(D) Federal timber purchased from Federal lands described in subparagraph (B) pursuant to a contract entered into between the purchaser and the Secretary of Agriculture before the date on which regulations to carry out this subsection are issued under section 620f of this title shall be governed by the regulations of the Secretary of Agriculture in effect before such date that restrict the substitution of unprocessed timber originating from Federal lands for exported timber originating from private lands.
 
 #### (c) Sourcing areas
 
@@ -100,7 +100,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (4) Denial of application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
-&emsp;(A) Subject to subparagraph (B), and notwithstanding any other provision of law, inthe 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) of this section shall fully apply.
+&emsp;(A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) of this section shall fully apply.
 
 &emsp;(B) If a person referred to in subparagraph (A) certifies to the Secretary concerned, within 90 days after receiving disapproval of such application, that such person shall, within 15 months after such disapproval, cease the export of unprocessed timber originating from private lands from the geographic area determined by the Secretary for which the application would have been approved, such person may continue to purchase unprocessed timber originating from Federal lands in the area which is the subject of the application, without being subject to the restrictions of subparagraph (A), except that such purchases during that 15-month period may not exceed 125 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application which was denied.
 
@@ -120,7 +120,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;&emsp;(ii) the radius of the circle—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be the furthest distance that the sourcing area applicant or holder proposes to haul Federal timber for processing at the processing facility; and
+&emsp;&emsp;&emsp;&emsp;(I) shall be the furthest distance that the sourcing area applicant or holderproposes to haul Federal timber for processing at the processing facility; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be determined solely by the sourcing area applicant or holder;
 
@@ -162,7 +162,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (ii) No restriction
 
-&emsp;&emsp;&emsp;The exportability of unprocessed timber from private land located outside of asourcing area shall not be restricted or in any way affected by relinquishment or termination of a sourcing area.
+&emsp;&emsp;&emsp;The exportability of unprocessed timber from private land located outside of a sourcing area shall not be restricted or in any way affected by relinquishment or termination of a sourcing area.
 
 #### (d) Domestic transportation and processing of private timber
 

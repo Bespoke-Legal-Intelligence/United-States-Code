@@ -20,7 +20,7 @@ Pub. L. 102–567, title I, §116, Oct. 29, 1992, 106 Stat. 4279, provided that:
 
 In General.—The Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, shall consider and develop findings and recommendations regarding—
 
-&emsp;“(1) the most urgent current needs of oceanographic researchers within the Federal Government, the academic community, and the private sector, for remote sensing capabilities and remotely sensed data, including findings regarding the present inadequacies in these capabilities and data; and
+&emsp;“(1) the most urgent current needs of oceanographic researchers within the Federal Government, the academic community, and the private sector, for remote sensing capabilities and remotely senseddata, including findings regarding the present inadequacies in these capabilities and data; and
 
 &emsp;“(2) the major goals of satellite oceanography for the next 10 years.
 

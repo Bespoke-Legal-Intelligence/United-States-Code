@@ -14,7 +14,7 @@ The Secretary of the Interior shall, not later than January 30, 1970, submit to 
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated not to exceed $250,000 for fiscal year 1969 and $250,000 for fiscal year 1970 to carry out the provisions of this section. Such sums shall be available until expended.
+There is authorized to be appropriated not to exceed $250,000 for fiscal year 1969 and $250,000 for fiscal year 1970 to carry out the provisions ofthis section. Such sums shall be available until expended.
 
 (Pub. L. 90–454, §2, Aug. 3, 1968, 82 Stat. 626.)
 

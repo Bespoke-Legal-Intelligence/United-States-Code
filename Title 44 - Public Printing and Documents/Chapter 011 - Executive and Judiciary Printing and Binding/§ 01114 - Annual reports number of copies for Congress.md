@@ -2,7 +2,7 @@
 
 One thousand copies of the annual reports of the departments to Congress shall be printed for the Senate, and two thousand for the House of Representatives.
 
-The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of theArmy, and the Chief of Ordnance shall be printed.
+The usual number only of the reports of the Chief of Engineers of the Army, the Commissioner of Internal Revenue, the report of the Chief Signal Officer of the Department of the Army, and the Chief of Ordnance shall be printed.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1263; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(23)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 

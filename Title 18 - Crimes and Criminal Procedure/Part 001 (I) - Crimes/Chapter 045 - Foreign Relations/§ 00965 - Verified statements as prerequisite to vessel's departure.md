@@ -32,7 +32,7 @@ Minor changes of phraseology were made.
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1993—Subsec. (a). Pub. L. 103–182 substituted “section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91),” for “sections 91, 92, and 94 of Title 46”, “deliver to the Customs Service” for “deliver to the collector of customs for the district wherein such vessel is then located”, and “the Customs Service like” for “the collector like”.
+1993—Subsec. (a). Pub. L. 103–182 substituted “section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) and section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91),” for “sections 91, 92, and 94 of Title 46”, “deliver to the Customs Service” for “deliver to thecollector of customs for the district wherein such vessel is then located”, and “the Customs Service like” for “the collector like”.
 
 #### Transfer of Functions
 

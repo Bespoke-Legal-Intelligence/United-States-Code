@@ -16,7 +16,7 @@
 
 &emsp;(F) such training is suitable for the worker and available at a reasonable cost,
 
-> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
+> the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system.Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
 

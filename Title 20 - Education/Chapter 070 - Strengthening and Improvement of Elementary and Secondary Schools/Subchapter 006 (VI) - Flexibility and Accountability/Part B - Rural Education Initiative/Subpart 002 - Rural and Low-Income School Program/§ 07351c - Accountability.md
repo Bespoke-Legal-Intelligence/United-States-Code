@@ -40,7 +40,7 @@ Each State educational agency or specially qualified agency that receives a gran
 
 &emsp;&emsp;(A) in the case of a local educational agency, determine whether the local educational agency made adequate yearly progress, as described in section 6311(b)(2) of this title; and
 
-&emsp;&emsp;(B) in the case of a specially qualified agency, submit to the Secretary information that would allow the Secretary to determinewhether the specially qualified agency has made adequate yearly progress, as described in section 6311(b)(2) of this title;
+&emsp;&emsp;(B) in the case of a specially qualified agency, submit to the Secretary information that would allow the Secretary to determine whether the specially qualified agency has made adequate yearly progress, as described in section 6311(b)(2) of this title;
 
 &emsp;(2) permit only those local educational agencies or specially qualified agencies that made adequate yearly progress, as described in section 6311(b)(2) of this title, to continue to receive grants under this subpart; and
 

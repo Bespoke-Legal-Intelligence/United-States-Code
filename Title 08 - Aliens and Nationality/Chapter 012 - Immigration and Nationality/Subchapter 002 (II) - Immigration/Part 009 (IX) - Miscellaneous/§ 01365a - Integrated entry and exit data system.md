@@ -158,7 +158,7 @@ Sense of Congress Regarding the Need To Expedite Implementation of Integrated En
 
 &emsp;“(1)
 
-Sense of congress.—In light of the terrorist attacks perpetrated against the United States onSeptember 11, 2001, it is the sense of the Congress that—
+Sense of congress.—In light of the terrorist attacks perpetrated against the United States on September 11, 2001, it is the sense of the Congress that—
 
 &emsp;&emsp;“(A) the Attorney General, in consultation with the Secretary of State, should fully implement the integrated entry and exit data system for airports, seaports, and land border ports of entry, as specified in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), with all deliberate speed and as expeditiously as practicable; and
 
@@ -290,7 +290,7 @@ Reports.—
 
 &emsp;“(1)
 
-Deadline.—Not later than December 31, 2002, and not later than December 31 of each year thereafter in which the Task Force is in existence, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate containing the findings, conclusions, and recommendations of the Task Force. Each report shall also measure and evaluate how much progress the Task Force has made, how much work remains, how long the remaining work will take to complete, and the cost of completing the remaining work.
+Deadline.—Not later than December 31, 2002, and not later than December 31 of each year thereafter in which the Task Force is in existence, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate containing the findings, conclusions, and recommendations of the Task Force. Eachreport shall also measure and evaluate how much progress the Task Force has made, how much work remains, how long the remaining work will take to complete, and the cost of completing the remaining work.
 
 &emsp;“(2)
 

@@ -44,7 +44,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;&emsp;(B) the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
 
-&emsp;&emsp;(C) the exercise of authority under this subsection is reasonably necessary to assistin meeting natural gas requirements for such high-priority uses;
+&emsp;&emsp;(C) the exercise of authority under this subsection is reasonably necessary to assist in meeting natural gas requirements for such high-priority uses;
 
 &emsp;&emsp;(D) any interstate pipeline or local distribution company receiving such natural gas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to the maximum extent practicable to terminate such deliveries;
 
@@ -90,7 +90,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;The President shall not allocate supplies of natural gas under this subsection unless he finds that—
 
-&emsp;&emsp;(A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) of this section has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
+&emsp;&emsp;(A) to the maximum extent practicable, allocation of supplies of natural gas under subsection (c) of this section has been utilizedto assist in meeting natural gas requirements for high-priority uses of natural gas;
 
 &emsp;&emsp;(B) the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
 
@@ -148,7 +148,7 @@ The President may, by order, require any pipeline to transport natural gas, and 
 
 #### (i) Monitoring
 
-In order to effect the purposes of this part, the President shall monitor the operation of any order made pursuant to this section to assure that natural gas delivered pursuant to this section is applied to high-priority uses only.
+In order to effect the purposes of this part, the President shall monitor the operation of any order made pursuant to this section to assurethat natural gas delivered pursuant to this section is applied to high-priority uses only.
 
 #### (j) Commission study
 

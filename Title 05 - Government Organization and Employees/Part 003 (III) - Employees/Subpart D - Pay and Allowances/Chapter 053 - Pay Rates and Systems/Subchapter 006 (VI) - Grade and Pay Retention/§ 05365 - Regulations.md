@@ -10,7 +10,7 @@
 
 &emsp;(3) to situations the application to which is justified for purposes of carrying out the mission of the agency or agencies involved.
 
-> Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment in nonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
+> Individuals with respect to whom authority under paragraph (2) may be exercised include individuals who are moved without a break in service of more than 3 days from employment innonappropriated fund instrumentalities of the Department of Defense or the Coast Guard described in section 2105(c) to employment in the Department of Defense or the Coast Guard, respectively, that is not described in section 2105(c).
 
 (Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1220; amended Pub. L. 101–508, title VII, §7202(f), Nov. 5, 1990, 104 Stat. 1388–336.)
 

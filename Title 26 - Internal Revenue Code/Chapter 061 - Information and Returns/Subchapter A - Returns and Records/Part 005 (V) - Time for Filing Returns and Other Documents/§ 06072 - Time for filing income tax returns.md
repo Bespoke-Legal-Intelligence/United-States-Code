@@ -6,7 +6,7 @@ In the case of returns under section 6012, 6013, 6017, or 6031 (relating to inco
 
 #### (b) Returns of corporations
 
-Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(e)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
+Returns of corporations under section 6012 made on the basis of the calendar year shall befiled on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(e)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
 #### (c) Returns by certain nonresident alien individuals and foreign corporations
 

@@ -18,7 +18,7 @@ A prior section 8431, added Pub. L. 99–335, title I, §101(a), June 6, 1986, 1
 
 #### Effective Date
 
-Pub. L. 106–168, title II, §203(c), Dec. 12, 1999, 113 Stat. 1820, provided that: “The amendments made by this section \[enacting this section and amending section 8351 of this title\] shall apply with respect to transfers occurring before, on, or after the date of the enactment of this Act \[Dec. 12, 1999\], except that, for purposes of applying such amendments with respect to any transfer occurring before such date of enactment, the date of such transfer shall be considered to be the date of the enactment of this Act. The Executive Director (within the meaning of section 8401(13) of title 5, United States Code) may prescribe any regulations necessary to carry out this subsection.”
+Pub. L. 106–168, title II, §203(c), Dec. 12, 1999, 113 Stat. 1820, provided that: “The amendments made by this section \[enacting this section and amending section 8351 of this title\] shall apply with respect to transfers occurring before, on, or after the date of the enactmentof this Act \[Dec. 12, 1999\], except that, for purposes of applying such amendments with respect to any transfer occurring before such date of enactment, the date of such transfer shall be considered to be the date of the enactment of this Act. The Executive Director (within the meaning of section 8401(13) of title 5, United States Code) may prescribe any regulations necessary to carry out this subsection.”
 
 #### Section Referred to in Other Sections
 

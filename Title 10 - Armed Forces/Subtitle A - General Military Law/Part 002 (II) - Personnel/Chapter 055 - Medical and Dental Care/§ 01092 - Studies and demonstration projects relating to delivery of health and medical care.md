@@ -14,13 +14,13 @@
 
 &emsp;(F) Prepayment for medical care services provided to maintain the health of a defined population.
 
-(2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental care to the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents of such members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
+(2) The Secretary of Defense shall include in the studies conducted under paragraph (1) alternative programs for the provision of dental careto the spouses and dependents of members of the uniformed services who are on active duty, including a program under which dental care would be provided the spouses and dependents of such members under insurance or dental plan contracts. A demonstration project may not be conducted under this section that provides for the furnishing of dental care under an insurance or dental plan contract.
 
 (b) Subject to the availability of appropriations for that purpose, the Secretary of Defense may enter into contracts with public or private agencies, institutions, and organizations to conduct studies and demonstration projects under subsection (a).
 
 (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other ongoing or completed studies and demonstration projects.
 
-(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14),Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123.)
+(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §732\], Oct. 30, 2000, 114 Stat
 
 “(a)
 
-Authority To Conduct Project.—(1) The Secretary of Defense may conduct a demonstration project for the purposes of increasing efficiency of operations with respect to teleradiology at military medical treatment facilities, supporting remote clinics, and increasing coordination with respect to teleradiology between such facilities and clinics. Under the project, a military medical treatment facility and each clinic supported by such facility shall be linked by a digital radiology network through which digital radiology X-rays may be sent electronically from clinics to the military medical treatment facility.
+Authority To Conduct Project.—(1) The Secretary of Defense may conduct a demonstration projectfor the purposes of increasing efficiency of operations with respect to teleradiology at military medical treatment facilities, supporting remote clinics, and increasing coordination with respect to teleradiology between such facilities and clinics. Under the project, a military medical treatment facility and each clinic supported by such facility shall be linked by a digital radiology network through which digital radiology X-rays may be sent electronically from clinics to the military medical treatment facility.
 
 “(2) The demonstration project may be conducted at several multispecialty tertiary-care military medical treatment facilities affiliated with a university medical school. One of such facilities shall be supported by at least 5 geographically dispersed remote clinics of the Departments of the Army, Navy, and Air Force, and clinics of the Department of Veterans Affairs and the Coast Guard. Another of such facilities shall be in an underserved rural geographic region served under established telemedicine contracts between the Department of Defense, the Department of Veterans Affairs, and a local university.
 
@@ -100,9 +100,11 @@ Authority To Conduct Project.—(1) The Secretary of Defense may conduct a demon
 
 Duration of Project.—The Secretary shall conduct the project during the 2-year period beginning on the date of the enactment of this Act \[Oct. 30, 2000\].”
 
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Joint Telemedicine and Telepharmacy Demonstration Projects by the Department of Defense and Department of Veterans Affairs
 
-Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, provided that:
+Pub. L. 106–65, div. A, title VII, §724, Oct. 5, 1999, 113 Stat. 697, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(2), Nov. 24, 2003, 117 Stat. 1605, provided that:
 
 “(a)
 
@@ -132,13 +134,7 @@ Selection of Locations.—(1) The Secretaries may carry out the demonstration pr
 
 Period of Demonstration Projects.—The Secretaries may carry out the demonstration projects during the three-year period beginning on October 1, 1999.
 
-“(e)
-
-Report.—Not later than December 31, 2002, the Secretaries shall jointly submit to Congress a report on the demonstration projects. The report shall include—
-
-&emsp;“(1) a description of each demonstration project; and
-
-&emsp;“(2) an evaluation, based on the demonstration projects, of the feasibility and practicability of using telecommunications to provide health care services and pharmacy services, including the provision of such services to field hospitals of the Armed Forces and to Department of Veterans Affairs outpatient health care clinics.”
+”
 
 #### Demonstration Program To Train Military Medical Personnel in Civilian Shock Trauma Units
 
@@ -168,11 +164,13 @@ Pub. L. 100–180, div. A, title VII, §731, Dec. 4, 1987, 101 Stat. 1117, direc
 
 #### Chiropractic Health Care
 
+Pub. L. 108–136, div. A, title VII, §711, Nov. 24, 2003, 117 Stat. 1530, provided that: “The Secretary of Defense shall accelerate the implementation of the plan required by section 702 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 114 Stat. 1654A–173) \[set out below\] (relating to chiropractic health care services and benefits), with a goal of completing implementation of the plan by October 1, 2005.”
+
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §702\], Oct. 30, 2000, 114 Stat. 1654, 1654A–173, provided that:
 
 “(a)
 
-Plan Required.—(1) Not later than March 31, 2001, the Secretary of Defense shall complete development of a plan to provide chiropractic health care services and benefits, as a permanent part of the Defense Health Program (including the TRICARE program), for all members of the uniformed services who are entitled to care under section 1074(a) of title 10, United States Code.
+Plan Required.—(1) Not later than March 31, 2001, the Secretary of Defense shall complete development of a plan to provide chiropractic health care services and benefits, as a permanent part of the Defense Health Program (including the TRICARE program), forall members of the uniformed services who are entitled to care under section 1074(a) of title 10, United States Code.
 
 “(2) The plan shall provide for the following:
 

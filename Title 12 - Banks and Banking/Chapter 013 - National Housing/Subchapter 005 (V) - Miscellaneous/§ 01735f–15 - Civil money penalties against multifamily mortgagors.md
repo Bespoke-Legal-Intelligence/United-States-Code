@@ -44,7 +44,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(v) Requiring, as a condition of the occupancy or leasing of any unit in the project, any consideration or deposit other than the prepayment of the first month's rent, plus a security deposit in an amount not in excess of 1 month's rent, to guarantee the performance of the covenants of the lease.
 
-&emsp;&emsp;(vi) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account, the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
+&emsp;&emsp;(vi) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account,the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
 
 &emsp;&emsp;(vii) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
@@ -52,7 +52,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(ix) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 
-&emsp;&emsp;(x) Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financialreport based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.
+&emsp;&emsp;(x) Failure to furnish the Secretary, by the expiration of the 60-day period beginning on the 1st day after the completion of each fiscal year, with a complete annual financial report based upon an examination of the books and records of the mortgagor prepared and certified to by an independent public accountant or a certified public accountant and certified to by an officer of the mortgagor, unless the Secretary has approved an extension of the 60-day period in writing. The Secretary shall approve an extension where the mortgagor demonstrates that failure to comply with this subparagraph is due to events beyond the control of the mortgagor.
 
 &emsp;&emsp;(xi) At the request of the Secretary, the agents of the Secretary, the employees of the Secretary, or the attorneys of the Secretary, failure to furnish monthly occupancy reports or failure to provide specific answers to questions upon which information is sought relative to income, assets, liabilities, contracts, the operation and condition of the property, or the status of the mortgage.
 
@@ -106,7 +106,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additionalevidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 

@@ -68,7 +68,7 @@ Congress finds the following:
 
 &emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
 
-&emsp;(10) These generic commodity promotion programs are of particular benefit to small producers who often lack the resources or market power to advertise on their own andwho are otherwise often unable to benefit from the economies of scale available in promotion and advertising.
+&emsp;(10) These generic commodity promotion programs are of particular benefit to small producers who often lack the resources or market power to advertise on their own and who are otherwise often unable to benefit from the economies of scale available in promotion and advertising.
 
 &emsp;(11) Periodic independent evaluation of the effectiveness of these generic commodity promotion programs will assist Congress and the Secretary of Agriculture in ensuring that the objectives of the programs are met.
 
@@ -98,7 +98,7 @@ Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13
 
 Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040, as amended. Title III of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58 (§2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
 
-Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, as amended, known as the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, as amended, knownas the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Public Law 94–294, referred to in subsec. (a)(5), is Pub. L. 94–294, May 28, 1976, 90 Stat. 529, as amended, known as the Beef Research and Information Act, which is classified generally to chapter 62 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

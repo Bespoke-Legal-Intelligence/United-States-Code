@@ -40,9 +40,9 @@ July 31, 1946, ch. 707, §§11, 12, 60 Stat. 719.
 
 In subsection (b), the words “District of Columbia” are substituted for “Washington” for clarity and consistency.
 
-In subsection (c), the words “Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to “Commissioner of the District of Columbia” because of section 401 of Reorganization Plan No. 3 of1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789).
+In subsection (c), the words “Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to “Commissioner of the District of Columbia” because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5104 of this title; title 2 sections 1819, 1961, 1970, 2021, 2161.
+This section is referred to in sections 5104, 5107 of this title; title 2 sections 1819, 1961, 1970, 2021, 2161.
 

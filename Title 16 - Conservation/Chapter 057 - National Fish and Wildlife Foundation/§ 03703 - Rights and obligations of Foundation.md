@@ -110,7 +110,7 @@ In carrying out any action on the part of the Foundation under subsection (f) of
 
 #### (h) Expenditures for printing services or capital equipment
 
-The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agency that administers the Federal program under which the funds were provided.
+The Foundation shall not make any expenditure of Federal funds in connection with any one transaction for printing services or capital equipment that is greater than $10,000 unless the expenditure is approved by the Federal agencythat administers the Federal program under which the funds were provided.
 
 #### (i) Notice to Members of Congress
 

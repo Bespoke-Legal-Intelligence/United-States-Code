@@ -174,7 +174,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (2) Manner of revoking
 
-&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
+&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writingwith the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
 
 #### (3) Effect of revocation
 

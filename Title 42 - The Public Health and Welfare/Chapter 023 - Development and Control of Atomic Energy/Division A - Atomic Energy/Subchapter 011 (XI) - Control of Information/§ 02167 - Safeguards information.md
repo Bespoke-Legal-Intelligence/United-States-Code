@@ -8,7 +8,7 @@ In addition to any other authority or requirement regarding protection from disc
 
 &emsp;(2) security measures (including security plans, procedures, and equipment) for the physical protection of source material or byproduct material, by whomever possessed, whether in transit or at fixed sites, in quantities determined by the Commission to be significant to the public health and safety or the common defense and security; or
 
-&emsp;(3) security measures (including security plans, procedures, and equipment) for the physical protection of and the location of certain plant equipment vital to the safety of production or utilization facilities involvingnuclear materials covered by paragraphs (1) and (2) <sup>1</sup>
+&emsp;(3) security measures (including security plans, procedures, and equipment) for the physical protection of and the location of certain plant equipment vital to the safety of production or utilization facilities involving nuclear materials covered by paragraphs (1) and (2) <sup>1</sup>
 
 > if the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility. The Commission shall exercise the authority of this subsection—
 

@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Populations served
 
-&emsp;The Secretary shall award the grants under paragraph (1) in a manner that distributes the grants so as to serve equitably the populations described in subparagraphs (A) and (B) of subsection (a)(4) <sup>1</sup> of this section.
+&emsp;The Secretary shall award the grants under paragraph (1) in a manner that distributes the grants so as to serve equitably the populations described in subparagraphs (A) and (B) of subsection (a)(3) of this section.
 
 #### (c) Use of funds
 
@@ -40,13 +40,13 @@ In this section:
 
 &emsp;An eligible entity that receives a grant under this section shall use the grant funds—
 
-&emsp;&emsp;(A) for the populations described in subsection (a)(4)(A) <sup>2</sup> —
+&emsp;&emsp;(A) for the populations described in subsection (a)(3)(A) of this section—
 
 &emsp;&emsp;&emsp;(i) to provide mental health services, including diagnosis and treatment of mental illness, as delivered remotely by qualified mental health professionals using telehealth; and
 
 &emsp;&emsp;&emsp;(ii) to collaborate with local public health entities to provide the mental health services; and
 
-&emsp;&emsp;(B) for the populations described in subsection (a)(4)(B) <sup>3</sup> —
+&emsp;&emsp;(B) for the populations described in subsection (a)(3)(B) of this section—
 
 &emsp;&emsp;&emsp;(i) to provide mental health services, including diagnosis and treatment of mental illness, in long-term care facilities as delivered remotely by qualified mental health professionals using telehealth; and
 
@@ -84,15 +84,21 @@ Not later than 4 years after October 26, 2002, the Secretary shall prepare and s
 
 There are authorized to be appropriated to carry out this section, $20,000,000 for fiscal year 2002 and such sums as may be necessary for fiscal years 2003 through 2006.
 
-(July 1, 1944, ch. 373, title III, §330K, as added Pub. L. 107–251, title II, §221, Oct. 26, 2002, 116 Stat. 1640.)
+(July 1, 1944, ch. 373, title III, §330K, as added Pub. L. 107–251, title II, §221, Oct. 26, 2002, 116 Stat. 1640; amended Pub. L. 108–163, §2(d), Dec. 6, 2003, 117 Stat. 2021.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(3)”.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(a)(3)(A)”.</i>
+2003—Subsec. (b)(2). Pub. L. 108–163, §2(d)(1), substituted “subsection (a)(3)” for “subsection (a)(4)”.
 
-<i><sup>3</sup></i><i> So in original. Probably should be subsection “(a)(3)(B)”.</i>
+Subsec. (c)(1)(A). Pub. L. 108–163, §2(d)(2)(A), substituted “subsection (a)(3)(A)” for “subsection (a)(4)(A)”.
+
+Subsec. (c)(1)(B). Pub. L. 108–163, §2(d)(2)(B), substituted “subsection (a)(3)(B)” for “subsection (a)(4)(B)”.
+
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 

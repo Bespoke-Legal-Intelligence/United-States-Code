@@ -8,7 +8,7 @@
 
 &emsp;(2) the officer enters on that tour within two years after completing a period of active duty of more than 90 days’ duration.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, §1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, §516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI,§663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, §606(a), Dec. 28, 2001, 115 Stat. 1134.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, §1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, §202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, §516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI, §663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, §1 \[\[div. A\], title VI, §610(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, §606(a), Dec. 28, 2001, 115 Stat. 1134.)
 
 Historical and Revision Notes
 

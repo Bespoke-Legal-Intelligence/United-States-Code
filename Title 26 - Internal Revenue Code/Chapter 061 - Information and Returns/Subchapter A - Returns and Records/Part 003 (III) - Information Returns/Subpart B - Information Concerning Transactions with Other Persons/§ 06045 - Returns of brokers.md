@@ -126,7 +126,7 @@ If any broker—
 
 #### (B) Exception
 
-&emsp;&emsp;This subsection shall not apply to the portion of any payment which is required to bereported under section 6041(a) (or would be so required but for the dollar limitation contained therein) or section 6051.
+&emsp;&emsp;This subsection shall not apply to the portion of any payment which is required to be reported under section 6041(a) (or would be so required but for the dollar limitation contained therein) or section 6051.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922.)
 

@@ -4,7 +4,7 @@
 
 #### (1) Authorization
 
-&emsp;There is authorized to be appropriated to carry out this subchapter (other than part E of this subchapter) such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+&emsp;There is authorized to be appropriated to carry out this subchapter (other than part E of this subchapter) $105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008.
 
 #### (2) Allocation
 
@@ -14,7 +14,7 @@
 
 #### (B) Part B of this subchapter
 
-&emsp;&emsp;Of the amount reserved under subparagraph (A), not less than 20 percent, and not more than 30 percent, shall be reserved to carry out part B of this subchapter.
+&emsp;&emsp;Of the amount reserved under subparagraph (A), 45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent, shall be reserved to carry out part B of this subchapter.
 
 #### (3) Parts C and D of this subchapter
 
@@ -22,17 +22,23 @@
 
 #### (4) Part E of this subchapter
 
-&emsp;There is authorized to be appropriated to carry out part E of this subchapter such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+&emsp;There is authorized to be appropriated to carry out part E of this subchapter such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008.
 
 #### (b) Separate identification required
 
 No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
-(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041.)
+(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, §117, Oct. 10, 2003, 117 Stat. 1170.)
 
 #### Amendments
 
-1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
+2003—Subsec. (a)(1). Pub. L. 108–96, §117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
+
+Subsec. (a)(2)(B). Pub. L. 108–96, §117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
+
+Subsec. (a)(4). Pub. L. 108–96, §117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
+
+1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating toappropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
 
 Subsec. (a)(4). Pub. L. 106–71, §3(n)(2), added par. (4).
 

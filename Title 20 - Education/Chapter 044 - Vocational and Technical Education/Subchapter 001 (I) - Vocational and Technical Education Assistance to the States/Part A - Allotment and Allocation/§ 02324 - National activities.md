@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, directly or through grants, contracts, or cooperative agreements, carry out research, development, dissemination, evaluation and assessment, capacity building, and technical assistance with regard to the vocational and technical education programs under this chapter. TheSecretary shall develop a single plan for such activities.
+&emsp;&emsp;The Secretary may, directly or through grants, contracts, or cooperative agreements, carry out research, development, dissemination, evaluation and assessment, capacity building, and technical assistance with regard to the vocational and technical education programs under this chapter. The Secretary shall develop a single plan for such activities.
 
 #### (B) Plan
 

@@ -2,7 +2,7 @@
 
 #### (a) General rulemaking
 
-Except to the extent otherwise provided in this section or other provisions of this chapter, rules prescribed under this chapter shall be made in accordance with the procedures set forth in section 553 of title 5.
+Except to the extent otherwise provided in this section or other provisions of this chapter, rules prescribed under this chapter shall bemade in accordance with the procedures set forth in section 553 of title 5.
 
 #### (b) Notices of rules and orders imposing prohibitions
 
@@ -58,7 +58,7 @@ A copy of any proposed rule or order to be prescribed or issued by the Secretary
 
 The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (h)(1), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 567, as amended. Title V of the Department of Energy Organization Act is classified generally to subchapter V (§7191 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Department of Energy Organization Act, referred to in subsec. (h)(1), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat.567, as amended. Title V of the Department of Energy Organization Act is classified generally to subchapter V (§7191 et seq.) of chapter 84 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 

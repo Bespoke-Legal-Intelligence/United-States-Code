@@ -1082,7 +1082,7 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 17708; title 41 sections 43, 356; title 49 section 70117.
+This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656, 7706; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 17708; title 41 sections 43, 356; title 49 section 70117.
 
 
 ---

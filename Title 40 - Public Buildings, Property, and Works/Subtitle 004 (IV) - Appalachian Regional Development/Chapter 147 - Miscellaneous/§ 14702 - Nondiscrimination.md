@@ -1,6 +1,6 @@
 ### §14702. Nondiscrimination
 
-An individual in the United States shall not, because of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, a program or activity receiving federal financial assistance under this subtitle.
+An individual in the United States shall not, because of sex, be excluded from participationin, be denied the benefits of, or be subjected to discrimination under, a program or activity receiving federal financial assistance under this subtitle.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278.)
 

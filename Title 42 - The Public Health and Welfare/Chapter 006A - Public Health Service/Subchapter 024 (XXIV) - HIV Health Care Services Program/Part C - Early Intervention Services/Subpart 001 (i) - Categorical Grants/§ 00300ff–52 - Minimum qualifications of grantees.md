@@ -32,7 +32,7 @@ The entities referred to in section 300ff–51(a) of this title are public entit
 
 &emsp;(B) A determination by the Secretary of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
-(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
+(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(3), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 
@@ -42,11 +42,17 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–251 substituted “254b(h)” for “256”.
+2003—Subsec. (a)(2). Pub. L. 108–163 substituted “254b(h)” for “256”.
+
+2002—Pub. L. 107–251, which directed the substitution of “254b(h)” for “256” in subsec. (2), could not be executed because section does not contain a subsec. (2).
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–146 inserted “, or a private for-profit entity if such entity is the only available provider of quality HIV care in the area,” after “nonprofit private entity”.
 
 1990—Subsec. (a). Pub. L. 101–557 substituted “referred to in section 300ff–51(a) of this title” for “referred to in subsection (b) of this section”, redesignated pars. (A) to (F) as (1) to (6), respectively, and substituted “nonprofit private entities that provide” for “a nonprofit private entity that provides” in par. (6).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date of 1996 Amendment
 

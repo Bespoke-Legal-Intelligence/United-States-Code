@@ -34,10 +34,6 @@ Act June 29, 1935, as amended, which enacted sections 329, 343, 343d–1, and 42
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Minimum Sum for Contracting
-
-Minimum of $1,500,000 of appropriations of Department of Agriculture for research and service work authorized by this section and section 1621 et seq. of this title as available for contracting in accordance therewith, see section 1623a of this title.
-
 #### Ex. Ord. No. 9310. Transferring Nutrition Functions of Office of Defense Health and Welfare Services to Department of Agriculture
 
 Ex. Ord. No. 9310, Mar. 6, 1943, 8 F.R. 2913, provided:
@@ -52,7 +48,7 @@ Franklin D. Roosevelt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 361a, 427i, 1623a, 1629, 3152 of this title; title 42 section 8852.
+This section is referred to in sections 361a, 427i, 1629, 3152 of this title; title 42 section 8852.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “deemed”.</i>
 

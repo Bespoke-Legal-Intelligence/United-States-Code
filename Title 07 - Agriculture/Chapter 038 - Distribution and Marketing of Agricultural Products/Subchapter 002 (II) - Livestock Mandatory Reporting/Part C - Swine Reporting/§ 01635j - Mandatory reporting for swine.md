@@ -132,7 +132,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;(iii) the base price paid for all base market hogs purchased up to that time of the reporting day through negotiated purchases; and
 
-&emsp;&emsp;&emsp;(iv) the base price paid for all base market hogs purchased through each type of purchase other than negotiated purchase up to that time of the reporting day, unless such information is unavailable due to pricing that is determined on a delayed basis.
+&emsp;&emsp;&emsp;(iv) the base price paid for all base market hogs purchased through each type of purchase other than negotiated purchaseup to that time of the reporting day, unless such information is unavailable due to pricing that is determined on a delayed basis.
 
 #### (B) Publication
 

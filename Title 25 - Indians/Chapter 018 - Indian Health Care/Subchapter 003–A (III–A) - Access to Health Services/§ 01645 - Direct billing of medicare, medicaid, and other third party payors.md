@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program under which Indian tribes, tribal organizations, and Alaska Native health organizations that contract or compact for the operation of a hospital or clinic of the Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] may elect to directly bill for, and receive payment for, health care services provided by such hospital or clinic for which payment is made under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (in this section referred to as the “medicare program”), under a State plan for medical assistance approved under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (in this section referred to as the “medicaid program”), or from any other third party payor.
+&emsp;The Secretary shall establish a program under which Indian tribes, tribal organizations, and Alaska Native health organizations that contract or compact for the operation of a hospital or clinic of the Service under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] may elect to directly bill for, and receive payment for, health care services provided by such hospital or clinic for which payment is made under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) (in this section referred to as the “medicare program”), under a State plan for medical assistance approved under title XIX of the Social Security Act (42 U.S.C.1396 et seq.) (in this section referred to as the “medicaid program”), or from any other third party payor.
 
 #### (2) Application of 100 percent FMAP
 
-&emsp;The third sentence of section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) shall apply for purposes of reimbursement under themedicaid program for health care services directly billed under the program established under this section.
+&emsp;The third sentence of section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) shall apply for purposes of reimbursement under the medicaid program for health care services directly billed under the program established under this section.
 
 #### (b) Direct reimbursement
 
@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Service, and with the assistance of the Administrator of the Health Care Financing Administration, shall examine on an ongoing basis and implement—
+&emsp;The Secretary, acting through the Service, and with the assistance of the Administrator of the Centers for Medicare \& Medicaid Services, shall examine on an ongoing basis and implement—
 
 &emsp;&emsp;(A) any administrative changes that may be necessary to facilitate direct billing and reimbursement under the program established under this section, including any agreements with States that may be necessary to provide for direct billing under the medicaid program; and
 
@@ -82,7 +82,7 @@
 
 A participant in the program established under this section may withdraw from participation in the same manner and under the same conditions that a tribe or tribal organization may retrocede a contracted program to the Secretary under authority of the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]. All cost accounting and billing authority under the program established under this section shall be returned to the Secretary upon the Secretary's acceptance of the withdrawal of participation in this program.
 
-(Pub. L. 94–437, title IV, §405, as added Pub. L. 100–713, title IV, §402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, §404, title VII, §701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, §2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, §101(e) \[title III, §336\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295; Pub. L. 105–362, title VI, §601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 106–417, §§3(a), 4, Nov. 1, 2000, 114 Stat. 1813, 1816.)
+(Pub. L. 94–437, title IV, §405, as added Pub. L. 100–713, title IV, §402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, §404, title VII, §701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, §2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, §101(e) \[title III, §336\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295; Pub. L. 105–362, title VI, §601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 106–417, §§3(a), 4, Nov. 1, 2000, 114 Stat. 1813, 1816; Pub. L. 108–173, title IX, §900(e)(6)(B), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### References in Text
 
@@ -99,6 +99,8 @@ November 1, 2000, referred to in subsecs. (c)(2)(B) and (d)(2), was in the origi
 Section was formerly set out as a note under section 1395qq of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2003—Subsec. (d)(1). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
 
 2000—Pub. L. 106–417, §4(a), reenacted section as in effect on Nov. 9, 1998. For text of section as reenacted, see 1998 Amendment note below.
 

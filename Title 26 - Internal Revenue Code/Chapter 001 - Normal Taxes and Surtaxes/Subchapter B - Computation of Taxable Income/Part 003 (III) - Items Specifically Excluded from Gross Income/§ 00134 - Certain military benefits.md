@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), no modification or adjustment of any qualified military benefit after September 9, 1986, shall be taken into account.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C) and paragraph (4), no modification or adjustment of any qualified military benefit after September 9, 1986, shall be taken into account.
 
 #### (B) Exception for certain adjustments to cash benefits
 
@@ -38,7 +38,19 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) is determined by reference to any fluctuation in cost, price, currency, or other similar index.
 
-(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490.)
+#### (C) Exception for death gratuity adjustments made by law
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any adjustment to the amount of death gratuity payable under chapter 75 of title 10, United States Code, which is pursuant to a provision of law enacted after September 9, 1986.
+
+#### (4) Clarification of certain benefits
+
+&emsp;For purposes of paragraph (1), such term includes any dependent care assistance program (as in effect on the date of the enactment of this paragraph) for any individual described in paragraph (1)(A).
+
+(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
 
 #### Prior Provisions
 
@@ -46,11 +58,25 @@ A prior section 134 was renumbered section 140 of this title.
 
 #### Amendments
 
+2003—Subsec. (b)(3)(A). Pub. L. 108–121, §106(b)(1), inserted “and paragraph (4)” after “subparagraphs (B) and (C)”.
+
+Pub. L. 108–121, §102(b)(2), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+
+Subsec. (b)(3)(C). Pub. L. 108–121, §102(b)(1), added subpar. (C).
+
+Subsec. (b)(4). Pub. L. 108–121, §106(a), added par. (4).
+
 1988—Subsec. (b)(1). Pub. L. 100–647, §1011B(f)(2)(A), inserted “(other than personal use of a vehicle)” after “in-kind benefit” in introductory text.
 
 Subsec. (b)(1)(B). Pub. L. 100–647, §1011B(f)(1), substituted “, regulation, or administrative practice” for “or regulation thereunder”.
 
 Subsec. (b)(3)(A). Pub. L. 100–647, §1011B(f)(3), struck out “under any provision of law or regulation described in paragraph (1)” after “September 9, 1986,”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–121, title I, §102(b)(3), Nov. 11, 2003, 117 Stat. 1337, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to deaths occurring after September 10, 2001.”
+
+Pub. L. 108–121, title I, §106(c), Nov. 11, 2003, 117 Stat. 1339, provided that: “The amendments made by this section \[amending this section and sections 3121, 3306, and 3401 of this title\] shall apply to taxable years beginning after December 31, 2002.”
 
 #### Effective Date of 1988 Amendment
 
@@ -61,4 +87,12 @@ Amendment by section 1011B(f)(1), (3) of Pub. L. 100–647 effective, except as 
 #### Effective Date
 
 Section 1168(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011B(f)(4), Nov. 10, 1988, 102 Stat. 3490, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1984.”
+
+#### No Inference To Be Drawn From Amendment by Pub. L. 108–121
+
+Pub. L. 108–121, title I, §106(d), Nov. 11, 2003, 117 Stat. 1339, provided that: “No inference may be drawn from the amendments made by this section \[amending this section and sections 3121, 3306, and 3401 of this title\] with respect to the tax treatment of any amounts under the program described in section 134(b)(4) of the Internal Revenue Code of 1986 (as added by this section) for any taxable year beginning before January 1, 2003.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3121, 3306, 3401 of this title.
 

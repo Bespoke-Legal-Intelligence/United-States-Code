@@ -4,7 +4,7 @@
 
 (b) Additional funds, if any, for staff allowances and office space for use by Members-elect (other than an incumbent Member reelected to the ensuing Congress) shall be authorized by the Committee on House Oversight.
 
-(Pub. L. 94–59, title II, July 25, 1975, 89 Stat. 282; Pub. L. 104–186, title II, §203(15), Aug. 20, 1996, 110 Stat. 1727.)
+(Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282; Pub. L. 104–186, title II, §203(15), Aug. 20, 1996, 110 Stat. 1727.)
 
 #### Codification
 
@@ -12,7 +12,7 @@ Section is based on section 2 of House Resolution No. 10, Ninety-fourth Congress
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
+<b>1996</b>—Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
 #### Change of Name
 

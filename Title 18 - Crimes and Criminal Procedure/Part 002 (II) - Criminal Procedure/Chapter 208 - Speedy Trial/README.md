@@ -25,6 +25,10 @@
 
 1975—Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2076, added chapter 208 and items 3161 to 3174.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 3282 of this title.
+
 
 ---
 

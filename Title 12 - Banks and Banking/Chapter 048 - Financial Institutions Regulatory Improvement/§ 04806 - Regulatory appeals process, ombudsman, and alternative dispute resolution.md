@@ -26,7 +26,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 &emsp;The ombudsman appointed in accordance with paragraph (1) for any agency shall—
 
-&emsp;&emsp;(A) act as a liaison between the agency and any affected person with respect to any problem such party may have in dealingwith the agency resulting from the regulatory activities of the agency; and
+&emsp;&emsp;(A) act as a liaison between the agency and any affected person with respect to any problem such party may have in dealing with the agency resulting from the regulatory activities of the agency; and
 
 &emsp;&emsp;(B) assure that safeguards exist to encourage complainants to come forward and preserve confidentiality.
 
@@ -88,7 +88,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) loan classifications on loans that are significant to an institution; and
 
-&emsp;&emsp;(B) does not include a determination by a Federal banking agency or the National Credit Union Administration Board to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831<i>o</i> of this title or section 1790a of this title, as appropriate.
+&emsp;&emsp;(B) does not include a determination by a Federal banking agency or the National Credit Union Administration Board to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the casemay be, or a decision to take action pursuant to section 1831<i>o</i> of this title or section 1790a of this title, as appropriate.
 
 #### (2) Independent appellate process
 

@@ -36,7 +36,7 @@ Authority.—The President, acting through the Administrator of the United State
 
 &emsp;“(2) promote the development of an independent news media;
 
-&emsp;“(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor's health care infrastructure, educational programs, and programs strengthening the role of women in society;
+&emsp;“(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor's health care infrastructure,educational programs, and programs strengthening the role of women in society;
 
 &emsp;“(4) promote reconciliation, conflict resolution, and prevention of further conflict with respect to East Timor, including establishing accountability for past gross human rights violations;
 
@@ -169,6 +169,18 @@ Information.—The report required by subsection (a) shall include—
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 \[For definitions of “appropriate congressional committees” and “Secretary” as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
+#### Presidential Certification Authorizing Security Assistance to East Timor
+
+Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me by the Constitution and laws of the United States, including section 637(b)(2) of the Foreign Relations Authorization Act, Fiscal Year 2003 \[Pub. L. 107–228, §637(b)(2), set out above\], I hereby certify that East Timor has established an independent armed forces; and that the provision to East Timor of military assistance in the form of excess defense articles and international military education and training is in the national security interests of the United States, and will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+
+You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Pacific Charter Commission
 
@@ -580,7 +592,7 @@ Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 
-Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination that such closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
+Pub. L. 100–204, title I, §123, Dec. 22, 1987, 101 Stat. 1339, directed that none of the funds made available for the Department of State for any fiscal year be used for expenses of maintaining a United States diplomatic or consular post in Antigua and Barbuda and provided that such prohibition take effect 60 days after Dec. 22, 1987, unless the President made a determination thatsuch closing would not be in the national security interest of the United States and informed both the Chairman of the Senate Foreign Relations Committee and the House Foreign Affairs Committee of such determination, prior to repeal by Pub. L. 101–246, title I, §121, Feb. 16, 1990, 104 Stat. 27.
 
 #### Closure of Mission in Antigua and Barbuda Not in United States Interests
 
@@ -650,7 +662,7 @@ Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress re
 
 &emsp;“(3) instructions to meet with indigenous human rights monitoring groups knowledgeable about the practice of torture for the purpose of gathering information about such practice; and
 
-&emsp;“(4) instructions to express concern in individual cases of torture brought to the attention of a United States diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
+&emsp;“(4) instructions to express concern in individual cases of torture brought to the attention of a UnitedStates diplomatic mission including, whenever feasible, sending United States observers to trials when there is reason to believe that torture has been used against the accused.
 
 “(c) The Secretary of Commerce should continue to enforce vigorously the current restrictions on the export of crime control equipment pursuant to the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\].
 

@@ -18,7 +18,7 @@ The actions taken pursuant to this chapter which relate to the construction and 
 
 #### (e) Amendment or modification of rights-of-way, permits, leases, or other authorizations
 
-The Secretary of the Interior and the other Federal officers and agencies are authorized at any time when necessary to protect the public interest, pursuant to the authority of this section and in accordance with its provisions, to amend or modify any right-of-way, permit, lease, or other authorization issued under this chapter.
+The Secretary of the Interior and the other Federal officers and agencies are authorized at any time when necessary to protect the publicinterest, pursuant to the authority of this section and in accordance with its provisions, to amend or modify any right-of-way, permit, lease, or other authorization issued under this chapter.
 
 (Pub. L. 93–153, title II, §203, Nov. 16, 1973, 87 Stat. 584; Pub. L. 98–620, title IV, §402(46), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 100–352, §6(c), June 27, 1988, 102 Stat. 663.)
 

@@ -329,7 +329,7 @@
 | (d) | Reserved. |
 | (e) | Election of consumer to be excluded from lists. |
 | (f) | Certain use or obtaining of information prohibited. |
-| (g) | Furnishing reports containing medical information. |
+| (g) | Protection of medical information. |
 | [1681c.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681c%20-%20Requirements%20relating%20to%20information%20contained%20in%20consumer%20reports.md) | Requirements relating to information contained in consumer reports. |
 | (a) | Information excluded from consumer reports. |
 | (b) | Exempted cases. |
@@ -337,6 +337,24 @@
 | (d) | Information required to be disclosed. |
 | (e) | Indication of closure of account by consumer. |
 | (f) | Indication of dispute by consumer. |
+| (g) | Truncation of credit card and debit card numbers. |
+| (h) | Notice of discrepancy in address. |
+| 1681c–1. | Identity theft prevention; fraud alerts and active duty alerts. |
+| (a) | One-call fraud alerts. |
+| (b) | Extended alerts. |
+| (c) | Active duty alerts. |
+| (d) | Procedures. |
+| (e) | Referrals of alerts. |
+| (f) | Duty of reseller to reconvey alert. |
+| (g) | Duty of other consumer reporting agencies to provide contact information. |
+| (h) | Limitations on use of information for credit extensions. |
+| 1681c–2. | Block of information resulting from identity theft. |
+| (a) | Block. |
+| (b) | Notification. |
+| (c) | Authority to decline or rescind. |
+| (d) | Exception for resellers. |
+| (e) | Exception for verification companies. |
+| (f) | Access to blocked information by law enforcement agencies. |
 | [1681d.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681d%20-%20Disclosure%20of%20investigative%20consumer%20reports.md) | Disclosure of investigative consumer reports. |
 | (a) | Disclosure of fact of preparation. |
 | (b) | Disclosure on request of nature and scope of investigation. |
@@ -352,7 +370,11 @@
 | [1681g.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681g%20-%20Disclosures%20to%20consumers.md) | Disclosures to consumers. |
 | (a) | Information on file; sources; report recipients. |
 | (b) | Exempt information. |
-| (c) | Summary of rights required to be included with disclosure. |
+| (c) | Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores. |
+| (d) | Summary of rights of identity theft victims. |
+| (e) | Information available to victims. |
+| (f) | Disclosure of credit scores. |
+| (g) | Disclosure of credit scores by certain mortgage lenders. |
 | [1681h.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681h%20-%20Conditions%20and%20form%20of%20disclosure%20to%20consumers.md) | Conditions and form of disclosure to consumers. |
 | (a) | In general. |
 | (b) | Other forms of disclosure. |
@@ -364,11 +386,15 @@
 | (b) | Statement of dispute. |
 | (c) | Notification of consumer dispute in subsequent consumer reports. |
 | (d) | Notification of deletion of disputed information. |
+| (e) | Treatment of complaints and report to Congress. |
+| (f) | Reinvestigation requirement applicable to resellers. |
 | [1681j.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681j%20-%20Charges%20for%20certain%20disclosures.md) | Charges for certain disclosures. |
-| (a) | Reasonable charges allowed for certain disclosures. |
+| (a) | Free annual disclosure. |
 | (b) | Free disclosure after adverse notice to consumer. |
 | (c) | Free disclosure under certain other circumstances. |
-| (d) | Other charges prohibited. |
+| (d) | Free disclosures in connection with fraud alerts. |
+| (e) | Other charges prohibited. |
+| (f) | Reasonable charges allowed for certain disclosures. |
 | [1681k.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681k%20-%20Public%20record%20information%20for%20employment%20purposes.md) | Public record information for employment purposes. |
 | (a) | In general. |
 | (b) | Exemption for national security investigations. |
@@ -378,6 +404,10 @@
 | (b) | Adverse action based on information obtained from third parties other than consumer reporting agencies. |
 | (c) | Reasonable procedures to assure compliance. |
 | (d) | Duties of users making written credit or insurance solicitations on basis of information contained in consumer files. |
+| (e) | Red flag guidelines and regulations required. |
+| (f) | Prohibition on sale or transfer of debt caused by identity theft. |
+| (g) | Debt collector communications concerning identity theft. |
+| (h) | Duties of users in certain credit transactions. |
 | [1681n.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681n%20-%20Civil%20liability%20for%20willful%20noncompliance.md) | Civil liability for willful noncompliance. |
 | (a) | In general. |
 | (b) | Civil liability for knowing noncompliance. |
@@ -394,12 +424,20 @@
 | (c) | State action for violations. |
 | (d) | Enforcement under other authority. |
 | (e) | Regulatory authority. |
+| (f) | Coordination of consumer complaint investigations. |
+| (g) | FTC regulation of coding of trade names. |
 | 1681s–1. | Information on overdue child support obligations. |
 | 1681s–2. | Responsibilities of furnishers of information to consumer reporting agencies. |
 | (a) | Duty of furnishers of information to provide accurate information. |
 | (b) | Duties of furnishers of information upon notice of dispute. |
 | (c) | Limitation on liability. |
 | (d) | Limitation on enforcement. |
+| (e) | Accuracy guidelines and regulations required. |
+| 1681s–3. | Affiliate sharing. |
+| (a) | Special rule for solicitation for purposes of marketing. |
+| (b) | Notice for other purposes permissible. |
+| (c) | User requirements. |
+| (d) | Definitions. |
 | [1681t.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681t%20-%20Relation%20to%20State%20laws.md) | Relation to State laws. |
 | (a) | In general. |
 | (b) | General exceptions. |
@@ -425,6 +463,10 @@
 | (c) | Confidentiality. |
 | (d) | Rule of construction. |
 | (e) | Safe harbor. |
+| [1681w.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681w%20-%20Disposal%20of%20records.md) | Disposal of records. |
+| (a) | Regulations. |
+| (b) | Rule of construction. |
+| [1681x.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681x%20-%20Corporate%20and%20technological%20circumvention%20prohibited.md) | Corporate and technological circumvention prohibited. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

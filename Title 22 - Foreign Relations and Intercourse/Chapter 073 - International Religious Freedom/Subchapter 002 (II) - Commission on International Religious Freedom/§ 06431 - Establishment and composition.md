@@ -44,7 +44,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on the Commission during the period May 15, 2003, through May 14, 2005, shall be appointed to terms in accordance with the provisions of this paragraph.
+&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on the Commission during the period May 15, 2003, through May 14, 2005, shall be appointed toterms in accordance with the provisions of this paragraph.
 
 #### (B) Presidential appointments
 
@@ -76,7 +76,7 @@ Six voting members of the Commission shall constitute a quorum for purposes of t
 
 #### (f) Meetings
 
-Each year, within 15 days, or as soon as practicable, after the issuance of the Country Reporton Human Rights Practices, the Commission shall convene. The Commission shall otherwise meet at the call of the Chair or, if no Chair has been elected for that calendar year, at the call of six voting members of the Commission.
+Each year, within 15 days, or as soon as practicable, after the issuance of the Country Report on Human Rights Practices, the Commission shall convene. The Commission shall otherwise meet at the call of the Chair or, if no Chair has been elected for that calendar year, at the call of six voting members of the Commission.
 
 #### (g) Vacancies
 

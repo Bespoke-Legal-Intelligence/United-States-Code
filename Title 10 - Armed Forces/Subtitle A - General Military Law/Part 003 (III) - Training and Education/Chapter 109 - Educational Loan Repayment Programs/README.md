@@ -5,10 +5,13 @@
 | [2171\.](%C2%A7%2002171%20-%20Education%20loan%20repayment%20program%20enlisted%20members%20on%20active%20duty%20in%20specified%20military%20specialties.md) | Education loan repayment program: enlisted members on active duty in specified military specialties. |
 | \[2172. | Renumbered.\] |
 | [2173\.](%C2%A7%2002173%20-%20Education%20loan%20repayment%20program%20commissioned%20officers%20in%20specified%20health%20professions.md) | Education loan repayment program: commissioned officers in specified health professions. |
+| [2174\.](%C2%A7%2002174%20-%20Interest%20payment%20program%20members%20on%20active%20duty.md) | Interest payment program: members on active duty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title VI, §651(a)(2), Dec. 2, 2002, 116 Stat. 2579, added item 2174.
 
 1997—Pub. L. 105–85, div. A, title VI, §651(b), Nov. 18, 1997, 111 Stat. 1803, added item 2173.
 
@@ -26,3 +29,4 @@ This chapter is referred to in title 38 section 3033.
 - [&sect; 02171 - Education loan repayment program enlisted members on active duty in specified military specialties](%C2%A7%2002171%20-%20Education%20loan%20repayment%20program%20enlisted%20members%20on%20active%20duty%20in%20specified%20military%20specialties.md)
 - [&sect; 02172 - Renumbered &sect;16302](%C2%A7%2002172%20-%20Renumbered%20%C2%A716302.md)
 - [&sect; 02173 - Education loan repayment program commissioned officers in specified health professions](%C2%A7%2002173%20-%20Education%20loan%20repayment%20program%20commissioned%20officers%20in%20specified%20health%20professions.md)
+- [&sect; 02174 - Interest payment program members on active duty](%C2%A7%2002174%20-%20Interest%20payment%20program%20members%20on%20active%20duty.md)

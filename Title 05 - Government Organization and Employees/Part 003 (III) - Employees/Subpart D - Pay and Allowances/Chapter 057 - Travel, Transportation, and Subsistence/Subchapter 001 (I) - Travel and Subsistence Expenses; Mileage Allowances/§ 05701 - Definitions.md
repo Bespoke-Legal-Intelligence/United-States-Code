@@ -142,7 +142,7 @@ Collection of Amounts Owed.—
 
 &emsp;“(1)
 
-In general.—Under regulations issued by the Administrator of General Services and upon written request of a Federal contractor, the head of any Federal agency or a disbursing official of the United States may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
+In general.—Under regulations issued by the Administrator of General Services and upon writtenrequest of a Federal contractor, the head of any Federal agency or a disbursing official of the United States may, on behalf of the contractor, collect by deduction from the amount of pay owed to an employee of the agency any amount of funds the employee owes to the contractor as a result of delinquencies not disputed by the employee on a travel charge card issued for payment of expenses incurred in connection with official Government travel. The amount deducted from the pay owed to an employee with respect to a pay period may not exceed 15 percent of the disposable pay of the employee for that pay period, except that a greater percentage may be deducted upon the written consent of the employee.
 
 &emsp;“(2)
 

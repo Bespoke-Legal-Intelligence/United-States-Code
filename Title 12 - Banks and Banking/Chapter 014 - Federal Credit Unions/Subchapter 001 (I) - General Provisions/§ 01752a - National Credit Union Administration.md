@@ -26,7 +26,7 @@ The term of office of each member of the Board shall be six years, except that t
 
 #### (d) Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress
 
-The management of the Administration shall be vested in the Board. The Board shall adopt such rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congress shall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
+The management of the Administration shall be vested in the Board. The Board shall adopt such rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congressshall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
 
 #### (e) Functions of Chairman
 
@@ -40,7 +40,7 @@ The financial transactions of the Administration shall be subject to audit by th
 
 #### Prior Provisions
 
-Section 2 of act June 29, 1948, ch. 711, 62 Stat. 1091, which was formerly classified to section 1751a of thistitle, provided for the establishment in the Federal Security Agency of a Bureau of Federal Credit Unions, which were under the supervision of a Director appointed by the Federal Security Administrator. The Bureau of Federal Credit Unions and the Director thereof were under the general direction and supervision of the Federal Security Administrator. The functions, powers, and duties of the Farm Credit Administration under the Federal Credit Union Act, as amended \[this chapter\], were exercised by the Bureau of Federal Credit Unions. The functions, powers, and duties of the Governor of the Farm Credit Administration under the Federal Credit Union Act, as amended \[this chapter\], were exercised by the Director of the Bureau of Federal Credit Unions.
+Section 2 of act June 29, 1948, ch. 711, 62 Stat. 1091, which was formerly classified to section 1751a of this title, provided for the establishment in the Federal Security Agency of a Bureau of Federal Credit Unions, which were under the supervision of a Director appointed by the Federal Security Administrator. The Bureau of Federal Credit Unions and the Director thereof were under the general direction and supervision of the Federal Security Administrator. The functions, powers, and duties of the Farm Credit Administration under the Federal Credit Union Act, as amended \[this chapter\], were exercised by the Bureau of Federal Credit Unions. The functions, powers, and duties of the Governor of the Farm Credit Administration under the Federal Credit Union Act, as amended \[this chapter\], were exercised by the Director of the Bureau of Federal Credit Unions.
 
 Section 1 of act June 29, 1948 transferred to the Federal Security Agency all functions, powers, and duties of the Farm Credit Administration and of the Governor thereof under the Federal Credit Union Act, as amended \[this chapter\], together with the functions of the Secretary of Agriculture with respect thereto, which were transferred to the Federal Deposit Insurance Corporation by Reorganization Plan Numbered 1 of 1947, part IV, section 401 \[set out in the Appendix to Title 5, Government Organization and Employees\].
 
@@ -124,7 +124,7 @@ Study.—
 
 In general.—The Secretary, in consultation with the Board, the Corporation, the Comptroller of the Currency, and the Administration, shall conduct a study and evaluation of—
 
-&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fundpursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
+&emsp;&emsp;“(A) the oversight and supervisory practices of the Administration concerning the Fund, including the treatment of amounts deposited in the Fund pursuant to section 202(c) of the Federal Credit Union Act \[12 U.S.C. 1782(c)\], including analysis of—
 
 &emsp;&emsp;&emsp;“(i) whether those amounts should be—
 

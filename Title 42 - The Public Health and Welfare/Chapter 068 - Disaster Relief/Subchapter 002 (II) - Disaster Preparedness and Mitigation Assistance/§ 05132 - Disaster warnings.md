@@ -6,7 +6,7 @@ The President shall insure that all appropriate Federal agencies are prepared to
 
 #### (b) Technical assistance to State and local governments for effective warnings
 
-The President shall direct appropriate Federal agencies to provide technical assistance to State and local governments to insure that timely and effective disaster warning is provided.
+The President shall direct appropriate Federal agencies to provide technical assistance to Stateand local governments to insure that timely and effective disaster warning is provided.
 
 #### (c) Warnings to governmental authorities and public endangered by disaster
 

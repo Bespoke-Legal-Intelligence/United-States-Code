@@ -30,7 +30,7 @@
 
 (5) It is the intent of the Congress that a Member of or Member-elect to Congress may not mail as franked mail—
 
-&emsp;(A) mail matter which constitutes or includes any article, account, sketch, narration,or other text laudatory and complimentary of any Member of, or Member-elect to, Congress on a purely personal or political basis rather than on the basis of performance of official duties as a Member or on the basis of activities as a Member-elect;
+&emsp;(A) mail matter which constitutes or includes any article, account, sketch, narration, or other text laudatory and complimentary of any Member of, or Member-elect to, Congress on a purely personal or political basis rather than on the basis of performance of official duties as a Member or on the basis of activities as a Member-elect;
 
 &emsp;(B) mail matter which constitutes or includes—
 
@@ -74,7 +74,7 @@
 
 (b)(1) The Vice President, each Member of or Member-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, each of the elected officers of the House of Representatives (other than a Member of the House), the Legislative Counsels of the House of Representatives and the Senate, the Law Revision Counsel of the House of Representatives, and the Senate Legal Counsel, may send, as franked mail, matter relating to their official business, activities, and duties, as intended by Congress to be mailable as franked mail under subsection (a)(2) and (3) of this section.
 
-(2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law RevisionCounsel of the House of Representatives, or the Senate Legal Counsel, any authorized person may exercise the franking privilege in the officer's name during the period of the vacancy.
+(2) If a vacancy occurs in the Office of the Secretary of the Senate, the Sergeant at Arms of the Senate, an elected officer of the House of Representatives (other than a Member of the House), the Legislative Counsel of the House of Representatives or the Senate, the Law Revision Counsel of the House of Representatives, or the Senate Legal Counsel, any authorized person may exercise the franking privilege in the officer's name during the period of the vacancy.
 
 (3) The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.
 
@@ -90,7 +90,7 @@
 
 (5) The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection
 
-(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
+(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make anymailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
 (B) The Senate Select Committee on Ethics may require any Member of, or Member-elect to, the Senate entitled to make any mailings as franked mail under this subsection to submit a sample or description of the mail matter to the Committee for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
@@ -124,7 +124,7 @@ Subsec. (a)(6)(A)(ii)(II). Pub. L. 104–197, §102(a)(2), substituted “90 day
 
 1992—Subsec. (a)(7). Pub. L. 102–392, §309(a)(1), substituted “from which the Member was elected” for “of the Member, except that—
 
-&emsp;“(A) a Member of the House of Representatives may send mass mailings to any area in a county, if anypart of the county adjoins or is inside the congressional district of the Member; and
+&emsp;“(A) a Member of the House of Representatives may send mass mailings to any area in a county, if any part of the county adjoins or is inside the congressional district of the Member; and
 
 &emsp;“(B) in the case of redistricting, on and after the date referred to in subsection (d)(1)(B), a Member of the House of Representatives may send mass mailings to the additional area described in that section”.
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 95–521 effective Jan. 3, 1979, see section 717 of Pub. L.
 
 Section 14 of Pub. L. 93–191 provided that:
 
-“(a) Except as provided in subsection (b) of this section, the provisions of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] shall become effective on the date of enactment of this Act \[Dec. 18, 1973\].
+“(a) Except as provided in subsection (b) of this section, the provisions of this Act \[enacting section 3219 of this title and sections 501 and 502 of Title 2, The Congress, amending this section, sections 3206, 3211, 3212, 3215, 3216, and 3218 of this title, and sections 733 and 907 of Title 44, Public Printing and Documents, and repealing section 277 of Title 2\] shall become effective on the date of enactment of this Act \[Dec. 18, 1973\].
 
 “(b) The provisions of section 3214 of title 39, United States Code, as amended by section 4 of this Act; and the provisions of subsection (b) of section 3216 of title 39, United States Code, as amended by section 7 of this Act, shall take effect as of December 27, 1972.”
 

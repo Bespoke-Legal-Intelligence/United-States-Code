@@ -20,7 +20,7 @@ The Bureau is authorized to—
 
 &emsp;(4) collect and analyze statistical information, concerning the operations of the criminal justice system at the Federal, State, and local levels;
 
-&emsp;(5) collect and analyze statistical information concerning the prevalence, incidence,rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, and local levels;
+&emsp;(5) collect and analyze statistical information concerning the prevalence, incidence, rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, and local levels;
 
 &emsp;(6) analyze the correlates of crime, civil disputes and juvenile delinquency, by the use of statistical information, about criminal and civil justice systems at the Federal, State, and local levels, and about the extent, distribution and attributes of crime, and juvenile delinquency, in the Nation and at the Federal, State, and local levels;
 
@@ -36,7 +36,7 @@ The Bureau is authorized to—
 
 &emsp;(12) conduct or support research relating to methods of gathering or analyzing justice statistics;
 
-&emsp;(13) provide for the development of justice information systems programs and assistance to the States and units of local government relating to collection, analysis, or dissemination of justice statistics;
+&emsp;(13) provide for the development of justice information systems programs and assistance to the States and units of local governmentrelating to collection, analysis, or dissemination of justice statistics;
 
 &emsp;(14) develop and maintain a data processing capability to support the collection, aggregation, analysis and dissemination of information on the incidence of crime and the operation of the criminal justice system;
 
@@ -176,7 +176,7 @@ Findings.—Congress finds that—
 
 &emsp;“(2) in fact, the National Crime Victim's Survey, conducted annually by the Bureau of Justice Statistics of the Department of Justice, does not specifically collect data relating to crimes against individuals with developmental disabilities;
 
-&emsp;“(3) studies in Canada, Australia, and Great Britain consistently show that victims with developmental disabilities suffer repeated victimization because sofew of the crimes against them are reported, and even when they are, there is sometimes a reluctance by police, prosecutors, and judges to rely on the testimony of a disabled individual, making individuals with developmental disabilities a target for criminal predators;
+&emsp;“(3) studies in Canada, Australia, and Great Britain consistently show that victims with developmental disabilities suffer repeated victimization because so few of the crimes against them are reported, and even when they are, there is sometimes a reluctance by police, prosecutors, and judges to rely on the testimony of a disabled individual, making individuals with developmental disabilities a target for criminal predators;
 
 &emsp;“(4) research in the United States needs to be done to—
 

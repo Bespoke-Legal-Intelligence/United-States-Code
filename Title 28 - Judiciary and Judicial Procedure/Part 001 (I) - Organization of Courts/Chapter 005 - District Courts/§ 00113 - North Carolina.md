@@ -42,7 +42,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after“Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
+1992—Subsec. (a). Pub. L. 102–272, which directed the amendment of subsec. (a) by striking out “Clinton,” and “Washington,” and inserting “Greenville,” after “Fayetteville,”, was executed to the second sentence to reflect the probable intent of Congress.
 
 1980—Subsec. (a). Pub. L. 96–462, §5(a), added that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina to the Eastern District.
 

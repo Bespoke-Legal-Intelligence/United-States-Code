@@ -14,9 +14,11 @@
 
 (d)(1) The Deputy Administrator must be a citizen of the United States and have experience in a field directly related to aviation. An officer on active duty in an armed force may be appointed as Deputy Administrator. However, if the Administrator is a former regular officer of an armed force, the Deputy Administrator may not be an officer on active duty in an armed force, a retired regular officer of an armed force, or a former regular officer of an armed force.
 
-(2) An officer on active duty or a retired officer serving as Deputy Administrator is entitled to hold a rank and grade not lower than that held when appointed as Deputy Administrator. The Deputy Administrator may elect to receive (A) the pay provided by law for the Deputy Administrator, or (B) the pay and allowances or the retired pay of the military grade held. If the Deputy Administrator elects to receive the military pay and allowances or retired pay, the Administration shall reimburse the appropriate military department from funds available for the expenses of the Administration.
+(2) The annual rate of basic pay of the Deputy Administrator shall be set by the Secretary but shall not exceed the annual rate of basic pay payable to the Administrator of the Federal Aviation Administration.
 
-(3) The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does not control the member when the member is carrying out duties and powers of the Deputy Administrator.
+(3) An officer on active duty or a retired officer serving as Deputy Administrator is entitled to hold a rank and grade not lower than that held when appointed as Deputy Administrator. The Deputy Administrator may elect to receive (A) the pay provided by law for the Deputy Administrator, or (B) the pay and allowances or the retired pay of the military grade held. If the Deputy Administrator elects to receive the military pay and allowances or retired pay, the Administration shall reimburse the appropriate military department from funds available for the expenses of the Administration.
+
+(4) The appointment and service of a member of the armed forces as a Deputy Administrator does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from the status, office, rank, or grade. The Secretary of a military department does not control the member when the member is carrying out duties and powers of the Deputy Administrator.
 
 (e) The Administrator and the Deputy Administrator may not have a pecuniary interest in, or own stock in or bonds of, an aeronautical enterprise, or engage in another business, vocation, or employment.
 
@@ -36,7 +38,7 @@ Authority of the administrator.—The Administrator—
 
 &emsp;&emsp;&emsp;(i) the appointment and employment of all officers and employees of the Administration (other than Presidential and political appointees);
 
-&emsp;&emsp;&emsp;(ii) the acquisition and maintenance of property and equipment of the Administration;
+&emsp;&emsp;&emsp;(ii) the acquisition and maintenance of property, services, and equipment of the Administration;
 
 &emsp;&emsp;&emsp;(iii) except as otherwise provided in paragraph (3), the promulgation of regulations, rules, orders, circulars, bulletins, and other official publications of the Administration; and
 
@@ -54,7 +56,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out those functions. The issuance of such regulations shall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no later than 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
+In general.—In the performance of the functions of the Administrator and the Administration, the Administrator is authorized to issue, rescind, and revise such regulations as are necessary to carry out thosefunctions. The issuance of such regulations shall be governed by the provisions of chapter 5 of title 5. The Administrator shall act upon all petitions for rulemaking no later than 6 months after the date such petitions are filed by dismissing such petitions, by informing the petitioner of an intention to dismiss, or by issuing a notice of proposed rulemaking or advanced notice of proposed rulemaking. The Administrator shall issue a final regulation, or take other final action, not later than 16 months after the last day of the public comment period for the regulations or, in the case of an advanced notice of proposed rulemaking, if issued, not later than 24 months after the date of publication in the Federal Register of notice of the proposed rulemaking. On February 1 and August 1 of each year the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a letter listing each deadline the Administrator missed under this subparagraph during the 6-month period ending on such date, including an explanation for missing the deadline and a projected date on which the action that was subject to the deadline will be taken.
 
 &emsp;&emsp;(B)
 
@@ -94,7 +96,7 @@ Definition of political appointee.—For purposes of this subsection, the term �
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (exceptthose related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b),40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -112,15 +114,15 @@ Authorization of Appropriations for Operations.—
 
 &emsp;(1)
 
-In general.—There is authorized to be appropriated to the Secretary of Transportation for operations of the Administration—
+Salaries, operations, and maintenance.—There is authorized to be appropriated to the Secretary of Transportation for salaries, operations, and maintenance of the Administration—
 
-&emsp;&emsp;(A) such sums as may be necessary for fiscal year 2000;
+&emsp;&emsp;(A) $7,591,000,000 for fiscal year 2004;
 
-&emsp;&emsp;(B) $6,592,235,000 for fiscal year 2001;
+&emsp;&emsp;(B) $7,732,000,000 for fiscal year 2005;
 
-&emsp;&emsp;(C) $6,886,000,000 for fiscal year 2002; and
+&emsp;&emsp;(C) $7,889,000,000 for fiscal year 2006; and
 
-&emsp;&emsp;(D) $7,357,000,000 for fiscal year 2003.
+&emsp;&emsp;(D) $8,064,000,000 for fiscal year 2007.
 
 > &emsp;Such sums shall remain available until expended.
 
@@ -128,27 +130,19 @@ In general.—There is authorized to be appropriated to the Secretary of Transpo
 
 Authorized expenditures.—Out of amounts appropriated under paragraph (1), the following expenditures are authorized:
 
-&emsp;&emsp;(A) $450,000 for each of fiscal years 2000 through 2003 for wildlife hazard mitigation measures and management of the wildlife strike database of the Federal Aviation Administration.
+&emsp;&emsp;(A) Such sums as may be necessary for fiscal years 2004 through 2007 to support infrastructure systems development for both general aviation and the vertical flight industry.
 
-&emsp;&emsp;(B) $9,100,000 for the 3-fiscal-year period beginning with fiscal year 2001 to support a university consortium established to provide an air safety and security management certificate program, working cooperatively with the Federal Aviation Administration and United States air carriers, except that funds under this subparagraph—
+&emsp;&emsp;(B) Such sums as may be necessary for fiscal years 2004 through 2007 to establish helicopter approach procedures using current technologies (such as the Global Positioning System) to support all-weather, emergency medical service for trauma patients.
 
-&emsp;&emsp;&emsp;(i) may not be used for the construction of a building or other facility; and
+&emsp;&emsp;(C) Such sums as may be necessary for fiscal years 2004 through 2007 to revise existing terminal and en route procedures and instrument flight rules to facilitate the takeoff, flight, and landing of tiltrotor aircraft and to improve the national airspace system by separating such aircraft from congested flight paths of fixed-wing aircraft.
 
-&emsp;&emsp;&emsp;(ii) may only be awarded on the basis of open competition.
+&emsp;&emsp;(D) Such sums as may be necessary for fiscal years 2004 through 2007 for the Center for Management Development of the Federal Aviation Administration to operate training courses and to support associated student travel for both residential and field courses.
 
-&emsp;&emsp;(C) Such sums as may be necessary for fiscal years 2000 through 2003 to support infrastructure systems development for both general aviation and the vertical flight industry.
+&emsp;&emsp;(E) Such sums as may be necessary for fiscal years 2004 through 2007 to carry out and expand the Air Traffic Control Collegiate Training Initiative.
 
-&emsp;&emsp;(D) Such sums as may be necessary for fiscal years 2000 through 2003 to establish helicopter approach procedures using current technologies (such as the Global Positioning System) to support all-weather, emergency medical service for trauma patients.
+&emsp;&emsp;(F) Such sums as may be necessary for fiscal years 2004 through 2007 for the completion of the Alaska aviation safety project with respect to the 3 dimensional mapping of Alaska's main aviation corridors.
 
-&emsp;&emsp;(E) Such sums as may be necessary for fiscal years 2000 through 2003 to revise existing terminal and en route procedures and instrument flight rules to facilitate the takeoff, flight, and landing of tiltrotor aircraft and to improve the national airspace system by separating such aircraft from congested flight paths of fixed-wing aircraft.
-
-&emsp;&emsp;(F) $3,300,000 for fiscal year 2000 and $3,000,000 for each of fiscal years 2001 through 2003 to implement the 1998 airport surface operations safety action plan of the Federal Aviation Administration.
-
-&emsp;&emsp;(G) $9,100,000 for fiscal year 2001 to support air safety efforts through payment of United States membership obligations in the International Civil Aviation Organization, to be paid as soon as practicable.
-
-&emsp;&emsp;(H) Such sums as may be necessary for fiscal years 2000 through 2003 for the Secretary to hire additional inspectors in order to enhance air cargo security programs.
-
-&emsp;&emsp;(I) Such sums as may be necessary for fiscal years 2000 through 2003 to develop and improve training programs (including model training programs and curriculum) for security screening personnel at airports that will be used by airlines to meet regulatory requirements relating to the training and testing of such personnel.
+&emsp;&emsp;(G) Such sums as may be necessary for fiscal years 2004 through 2007 to carry out the Aviation Safety Reporting System.
 
 (<i>l</i>)
 
@@ -180,7 +174,7 @@ General rule.—In exercising the authority to accept gifts and voluntary servic
 
 &emsp;&emsp;(B)
 
-Incidental expenses.—The Administrator is authorized to provide for incidental expenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
+Incidental expenses.—The Administrator is authorized to provide for incidentalexpenses, including transportation, lodging, and subsistence, for volunteers who provide voluntary services under this subsection.
 
 &emsp;&emsp;(C)
 
@@ -224,7 +218,7 @@ Transfers of Funds.—The Administrator is authorized to accept transfers of uno
 
 (p)
 
-Management Advisory Council.—
+Management Advisory Council and Air Traffic Services Board.—
 
 &emsp;(1)
 
@@ -232,7 +226,7 @@ Establishment.—Within 3 months after the date of the enactment of the Air Traf
 
 &emsp;(2)
 
-Membership.—The Council shall consist of 18 members, who shall consist of—
+Membership.—The Council shall consist of 13 members, who shall consist of—
 
 &emsp;&emsp;(A) a designee of the Secretary of Transportation;
 
@@ -240,59 +234,15 @@ Membership.—The Council shall consist of 18 members, who shall consist of—
 
 &emsp;&emsp;(C) 10 members representing aviation interests, appointed by—
 
-&emsp;&emsp;&emsp;(i) in the case of initial appointments to the Council, the President by and with the advice and consent of the Senate; and
-
-&emsp;&emsp;&emsp;(ii) in the case of subsequent appointments to the Council, the Secretary of Transportation;
-
-&emsp;&emsp;(D) 1 member appointed, from among individuals who are the leaders of their respective unions of air traffic control system employees, by—
-
-&emsp;&emsp;&emsp;(i) in the case of initial appointments to the Council, the President by and with the advice and consent of the Senate; and
+&emsp;&emsp;&emsp;(i) in the case of initial appointments to the Council, the President by and with the advice and consent of the Senate, except that initial appointments made after May 1, 2003, shall be made by the Secretary of Transportation; and
 
 &emsp;&emsp;&emsp;(ii) in the case of subsequent appointments to the Council, the Secretary of Transportation; and
 
-&emsp;&emsp;(E) 5 members appointed by the Secretary after consultation with the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+&emsp;&emsp;(D) 1 member appointed, from among individuals who are the leaders of their respective unions of air traffic control system employees, by the Secretary of Transportation.
 
 &emsp;(3)
 
-Qualifications.—
-
-&emsp;&emsp;(A)
-
-No federal officer or employee.—No member appointed under paragraph (2)(C) or (2)(E) may serve as an officer or employee of the United States Government while serving as a member of the Council.
-
-&emsp;&emsp;(B)
-
-Air traffic services subcommittee.—Members appointed under paragraph (2)(E) shall—
-
-&emsp;&emsp;&emsp;(i) have a fiduciary responsibility to represent the public interest;
-
-&emsp;&emsp;&emsp;(ii) be citizens of the United States; and
-
-&emsp;&emsp;&emsp;(iii) be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areas:
-
-&emsp;&emsp;&emsp;&emsp;(I) Management of large service organizations.
-
-&emsp;&emsp;&emsp;&emsp;(II) Customer service.
-
-&emsp;&emsp;&emsp;&emsp;(III) Management of large procurements.
-
-&emsp;&emsp;&emsp;&emsp;(IV) Information and communications technology.
-
-&emsp;&emsp;&emsp;&emsp;(V) Organizational development.
-
-&emsp;&emsp;&emsp;&emsp;(VI) Labor relations.
-
-> &emsp;&emsp;At least one of such members should have a background in managing large organizations successfully. In the aggregate, such members should collectively bring to bear expertise in all of the areas described in subclauses (I) through (VI).
-
-&emsp;&emsp;(C)
-
-Prohibitions on members of subcommittee.—No member appointed under paragraph (2)(E) may—
-
-&emsp;&emsp;&emsp;(i) have a pecuniary interest in, or own stock in or bonds of, an aviation or aeronautical enterprise, except an interest in a diversified mutual fund or an interest that is exempt from the application of section 208 of title 18;
-
-&emsp;&emsp;&emsp;(ii) engage in another business related to aviation or aeronautics; or
-
-&emsp;&emsp;&emsp;(iii) be a member of any organization that engages, as a substantial part of its activities, in activities to influence aviation-related legislation.
+Qualifications.—No officer or employee of the United States Government may be appointed to the Council under paragraph (2)(C) or to the Air Traffic Services Committee.
 
 &emsp;(4)
 
@@ -312,11 +262,11 @@ Meetings.—The Council shall meet on a regular and periodic basis or at the cal
 
 &emsp;&emsp;(C)
 
-Access to documents and staff.—The Administration may give the Council appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the “Freedom of Information Act”), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, pertaining to unauthorized disclosure of such information.
+Access to documents and staff.—The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the “Freedom of Information Act”), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, pertaining to unauthorized disclosure of such information.
 
 &emsp;(5)
 
-Federal advisory committee act not to apply.—The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council or such aviation rulemaking committees as the Administrator shall designate.
+Federal advisory committee act not to apply.—The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the Council, the Air Traffic Services Committee, or such aviation rulemaking committees as the Administrator shall designate.
 
 &emsp;(6)
 
@@ -338,37 +288,31 @@ Term for air traffic control representative.—The member appointed under paragr
 
 &emsp;&emsp;(C)
 
-Terms for air traffic services subcommittee members.—The member appointed under paragraph (2)(E) shall be appointed for a term of 5 years, except that of the members first appointed under paragraph (2)(E)—
-
-&emsp;&emsp;&emsp;(i) 2 members shall be appointed for a term of 3 years;
-
-&emsp;&emsp;&emsp;(ii) 2 members shall be appointed for a term of 4 years; and
-
-&emsp;&emsp;&emsp;(iii) 1 member shall be appointed for a term of 5 years.
+Terms for air traffic services committee members.—The members appointed to the Air Traffic Services Committee shall be appointed for a term of 5 years, except that the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shall serve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).
 
 &emsp;&emsp;(D)
 
-Reappointment.—An individual may not be appointed under paragraph (2)(E) to more than two 5-year terms.
+Reappointment.—An individual may not be appointed to the Committee to more than two 5-year terms.
 
 &emsp;&emsp;(E)
 
-Vacancy.—Any vacancy on the Council shall be filled in the same manner as the original appointment, except that any vacancy caused by a member appointed by the President under paragraph (2)(C)(i) shall be filled by the Secretary in accordance with paragraph (2)(C)(ii). Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of that term.
+Vacancy.—Any vacancy on the Council or Committee shall be filled in the same manner as the original appointment, except that any vacancy caused by a member appointed by the President under paragraph (2)(C)(i) shall be filled by the Secretary in accordance with paragraph (2)(C)(ii). Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of that term.
 
 &emsp;&emsp;(F)
 
-Continuation in office.—A member whose term expires shall continue to serve until the date on which the member's successor takes office.
+Continuation in office.—A member of the Council or Committee whose term expires shall continue to serve until the date on which the member's successor takes office.
 
 &emsp;&emsp;(G)
 
-Removal.—Any member of the Council appointed under paragraph (2)(D) may be removed for cause by the President or Secretary whoever makes the appointment. Any member of the Council appointed under paragraph (2)(E) may be removed for cause by the Secretary.
+Removal.—Any member of the Council appointed under paragraph (2)(D) may be removed for cause by the President or Secretary whoever makes the appointment. Any member of the Committee may be removed for cause by the Secretary.
 
 &emsp;&emsp;(H)
 
-Claims against members of subcommittee.—
+Claims against members of committee.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A member appointed under paragraph (2)(E) shall have no personal liability under Federal law with respect to any claim arising out of or resulting from an act or omission by such member within the scope of service as a member of the Air Traffic Services Subcommittee.
+In general.—A member appointed to the Committee shall have no personal liability under Federal law with respect to any claim arising out of or resulting from an act or omission by such member within the scope of service as a member of the Committee.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -386,47 +330,79 @@ Ethical considerations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Financial disclosure.—During the entire period that an individual appointed under paragraph (2)(E) is a member of the Subcommittee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+Financial disclosure.—During the entire period that an individual is serving as a member of the Committee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
 
 &emsp;&emsp;&emsp;(ii)
 
-Restrictions on post-employment.—For purposes of section 207(c) of title 18, an individual appointed under paragraph (2)(E) shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Subcommittee; except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
+Restrictions on post-employment.—For purposes of section 207(c) of title 18, an individual who is a member of the Committee shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Committee; except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
 
 &emsp;&emsp;(J)
 
-Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for a term of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
+Chairman; vice chairman.—The Council shall elect a chair and a vice chair from among the members appointed under paragraph (2)(C), each of whom shall serve for aterm of 1 year. The vice chair shall perform the duties of the chairman in the absence of the chairman.
 
 &emsp;&emsp;(K)
 
-Travel and per diem.—Each member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
+Travel and per diem.—Each member of the Council or Committee shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
 
 &emsp;&emsp;(L)
 
-Detail of personnel from the administration.—The Administrator shall make available to the Council such staff, information, and administrative services and assistance as may reasonably be required to enable the Council to carry out its responsibilities under this subsection.
+Detail of personnel from the administration.—The Administrator shall make available to the Council or Committee such staff, information, and administrative services and assistance as may reasonably be required to enable the Council or Committee to carry out its responsibilities under this subsection.
 
 &emsp;(7)
 
-Air traffic services subcommittee.—
+Air traffic services committee.—
 
 &emsp;&emsp;(A)
 
-In general.—The Management Advisory Council shall have an air traffic services subcommittee (in this paragraph referred to as the “Subcommittee”) composed of the five members appointed under paragraph (2)(E).
+Establishment.—The Administrator shall establish a committee that is independent of the Council by converting the Air Traffic Services Subcommittee of the Council, as in effect on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, into such committee. The committee shall be known as the Air Traffic Services Committee (in this subsection referred to as the “Committee”).
 
 &emsp;&emsp;(B)
+
+Membership and qualifications.—Subject to paragraph (6)(C), the Committee shall consist of five members, one of whom shall be the Administrator and shall serve as chairperson. The remaining members shall be appointed by the President with the advice and consent of the Senate and—
+
+&emsp;&emsp;&emsp;(i) shall have a fiduciary responsibility to represent the public interest;
+
+&emsp;&emsp;&emsp;(ii) shall be citizens of the United States; and
+
+&emsp;&emsp;&emsp;(iii) shall be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areas and, in the aggregate, should collectively bring to bear expertise in all of the following areas:
+
+&emsp;&emsp;&emsp;&emsp;(I) Management of large service organizations.
+
+&emsp;&emsp;&emsp;&emsp;(II) Customer service.
+
+&emsp;&emsp;&emsp;&emsp;(III) Management of large procurements.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Information and communications technology.
+
+&emsp;&emsp;&emsp;&emsp;(V) Organizational development.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Labor relations.
+
+&emsp;&emsp;(C)
+
+Prohibitions on members of committee.—No member of the Committee may—
+
+&emsp;&emsp;&emsp;(i) have a pecuniary interest in, or own stock in or bonds of, an aviation or aeronautical enterprise, except an interest in a diversified mutual fund or an interest that is exempt from the application of section 208 of title 18;
+
+&emsp;&emsp;&emsp;(ii) engage in another business related to aviation or aeronautics; or
+
+&emsp;&emsp;&emsp;(iii) be a member of any organization that engages, as a substantial part of its activities, in activities to influence aviation-related legislation.
+
+&emsp;&emsp;(D)
 
 General responsibilities.—
 
 &emsp;&emsp;&emsp;(i)
 
-Oversight.—The Subcommittee shall oversee the administration, management, conduct, direction, and supervision of the air traffic control system.
+Oversight.—The Committee shall oversee the administration, management, conduct, direction, and supervision of the air traffic control system.
 
 &emsp;&emsp;&emsp;(ii)
 
-Confidentiality.—The Subcommittee shall ensure that appropriate confidentiality is maintained in the exercise of its duties.
+Confidentiality.—The Committee shall ensure that appropriate confidentiality is maintained in the exercise of its duties.
 
-&emsp;&emsp;(C)
+&emsp;&emsp;(E)
 
-Specific responsibilities.—The Subcommittee shall have the following specific responsibilities:
+Specific responsibilities.—The Committee shall have the following specific responsibilities:
 
 &emsp;&emsp;&emsp;(i)
 
@@ -474,45 +450,31 @@ Management.—To—
 
 Budget.—To—
 
-&emsp;&emsp;&emsp;&emsp;(I) review and approve the budget request of the Administration related to the air traffic control system prepared by the Administrator;
+&emsp;&emsp;&emsp;&emsp;(I) review and make recommendations on the budget request of the Administration related to the air traffic control system prepared by the Administrator;
 
-&emsp;&emsp;&emsp;&emsp;(II) submit such budget request to the Secretary; and
+&emsp;&emsp;&emsp;&emsp;(II) submit such budget recommendations to the Secretary; and
 
-&emsp;&emsp;&emsp;&emsp;(III) ensure that the budget request supports the annual and long-range strategic plans.
+&emsp;&emsp;&emsp;&emsp;(III) base such budget recommendations on the annual and long-range strategic plans.
 
-> &emsp;&emsp;The Secretary shall submit the budget request referred to in clause (v)(II) for any fiscal year to the President who shall transmit such request, without revision, to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, together with the President's annual budget request for the Federal Aviation Administration for such fiscal year.
+&emsp;&emsp;(F)
 
-&emsp;&emsp;(D)
-
-Subcommittee personnel matters.—
+Committee personnel matters and expenses.—
 
 &emsp;&emsp;&emsp;(i)
 
-Compensation of members.—Each member of the Subcommittee shall be compensated at a rate of $25,000 per year.
+Personnel matters.—The Committee may appoint and terminate for purposes of employment by the Committee any personnel that may be necessary to enable the Committee to perform its duties, and may procure temporary and intermittent services under section 40122.
 
 &emsp;&emsp;&emsp;(ii)
 
-Compensation of chairperson.—Notwithstanding clause (i), the chairperson of the Subcommittee shall be compensated at a rate of $40,000 per year.
+Travel expenses.—Each member of the Committee shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
 
-&emsp;&emsp;&emsp;(iii)
-
-Staff.—The chairperson of the Subcommittee may appoint and terminate any personnel that may be necessary to enable the Subcommittee to perform its duties.
-
-&emsp;&emsp;&emsp;(iv)
-
-Procurement of temporary and intermittent services.—The chairperson of the Subcommittee may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
-
-&emsp;&emsp;(E)
+&emsp;&emsp;(G)
 
 Administrative matters.—
 
 &emsp;&emsp;&emsp;(i)
 
-Term of chair.—The members of the Subcommittee shall elect for a 2-year term a chairperson from among the members of the Subcommittee.
-
-&emsp;&emsp;&emsp;(ii)
-
-Powers of chair.—Except as otherwise provided by a majority vote of the Subcommittee, the powers of the chairperson shall include—
+Powers of chair.—Except as otherwise provided by a majority vote of the Committee, the powers of the chairperson shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) establishing committees;
 
@@ -522,33 +484,37 @@ Powers of chair.—Except as otherwise provided by a majority vote of the Subcom
 
 &emsp;&emsp;&emsp;&emsp;(IV) developing rules for the conduct of business.
 
+&emsp;&emsp;&emsp;(ii)
+
+Meetings.—The Committee shall meet at least quarterly and at such other times as the chairperson determines appropriate.
+
 &emsp;&emsp;&emsp;(iii)
 
-Meetings.—The Subcommittee shall meet at least quarterly and at such other times as the chairperson determines appropriate.
+Quorum.—Three members of the Committee shall constitute a quorum. A majority of members present and voting shall be required for the Committee to take action.
 
-&emsp;&emsp;&emsp;(iv)
-
-Quorum.—Three members of the Subcommittee shall constitute a quorum. A majority of members present and voting shall be required for the Subcommittee to take action.
-
-&emsp;&emsp;(F)
+&emsp;&emsp;(H)
 
 Reports.—
 
 &emsp;&emsp;&emsp;(i)
 
-Annual.—The Subcommittee shall each year report with respect to the conduct of its responsibilities under this title to the Administrator, the Council, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+Annual.—The Committee shall each year report with respect to the conduct of its responsibilities under this title to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;&emsp;&emsp;(ii)
 
-Additional report.—If a determination by the Subcommittee under subparagraph (B)(i) that the organization and operation of the air traffic control system are not allowing the Administration to carry out its mission, the Subcommittee shall report such determination to the Administrator, the Council, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+Additional report.—If a determination by the Committee under subparagraph (D)(i) that the organization and operation of the air traffic control system are not allowing the Administration to carry out its mission, the Committee shall report such determination to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;&emsp;&emsp;(iii)
 
-Action of administrator on report.—Not later than 60 days after the date of a report of the Subcommittee under this subparagraph, the Administrator shall take action with respect to such report. If the Administrator overturns a recommendation of the Subcommittee, the Administrator shall report such action to the President, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+Action of administrator on report.—Not later than 60 days after the date of a report of the Committee under this subparagraph, the Administrator shall take action with respect to such report. If the Administrator overturns a recommendation of the Committee, the Administrator shall report such action to the President, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;&emsp;&emsp;(iv)
 
-Comptroller general's report.—Not later than April 30, 2003, the Comptroller General of the United States shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the success of the Subcommittee in improving the performance of the air traffic control system.
+Comptroller general's report.—Not later than April 30, 2003, the Comptroller General of the United States shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the success of the Committee in improving the performance of the air traffic control system.
+
+&emsp;&emsp;(I)
+
+Authorization.—There are authorized to be appropriated to the Committee such sums as may be necessary for the Committee to carry out its activities.
 
 &emsp;(8)
 
@@ -586,7 +552,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Appointment.—There shall be a Chief Operating Officer for the air traffic control system to be appointed by the Administrator, with the approval of the Air Traffic Services Subcommittee of the Aviation Management Advisory Council. The Chief Operating Officer shall report directly to the Administrator and shall be subject to the authority of the Administrator.
+Appointment.—There shall be a Chief Operating Officer for the air traffic control system to be appointed by the Administrator, with the approval of the Air Traffic Services Committee. The Chief Operating Officer shall report directly to the Administrator and shall be subject to the authority of the Administrator.
 
 &emsp;&emsp;(B)
 
@@ -610,19 +576,19 @@ Compensation.—
 
 &emsp;&emsp;(A)
 
-In general.—The Chief Operating Officer shall be paid at an annual rate of basic pay to be determined by the Administrator, with the approval of the Air Traffic Services Subcommittee of the Aviation Management Advisory Council. The annual rate may not exceed the annual compensation paid under section 102 of title 3. The Chief Operating Officer shall be subject to the post-employment provisions of section 207 of title 18 as if the position of Chief Operating Officer were described in section 207(c)(2)(A)(i) of that title.
+In general.—The Chief Operating Officer shall be paid at an annual rate of basicpay to be determined by the Administrator, with the approval of the Air Traffic Services Committee. The annual rate may not exceed the annual compensation paid under section 102 of title 3. The Chief Operating Officer shall be subject to the post-employment provisions of section 207 of title 18 as if the position of Chief Operating Officer were described in section 207(c)(2)(A)(i) of that title.
 
 &emsp;&emsp;(B)
 
-Bonus.—In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief Operating Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the Chief Operating Officer's performance in relation to the performance goals set forth in the performance agreement described <sup>2</sup> paragraph (3).
+Bonus.—In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief Operating Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the Chief Operating Officer's performance in relation to the performance goals set forth in the performance agreement described in paragraph (3).
 
 &emsp;(3)
 
-Annual performance agreement.—The Administrator and the Chief Operating Officer, in consultation with the Air Traffic Control Subcommittee of the Aviation Management Advisory Committee, shall enter into an annual performance agreement that sets forth measurable organization and individual goals for the Chief Operating Officer in key operational areas. The agreement shall be subject to review and renegotiation on an annual basis.
+Annual performance agreement.—The Administrator and the Chief Operating Officer, in consultation with the Air Traffic Services Committee, shall enter into an annual performance agreement that sets forth measurable organization and individual goals for the Chief Operating Officer in key operational areas. The agreement shall be subject to review and renegotiation on an annual basis.
 
 &emsp;(4)
 
-Annual performance report.—The Chief Operating Officer shall prepare and transmit to the Secretary of Transportation and Congress an annual management report containing such information as may be prescribed by the Secretary.
+Annual performance report.—The Chief Operating Officer shall prepare and transmit to the Secretary of Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate an annual management report containing such information as may be prescribed by the Secretary.
 
 &emsp;(5)
 
@@ -630,7 +596,7 @@ Responsibilities.—The Administrator may delegate to the Chief Operating Office
 
 &emsp;&emsp;(A)
 
-Strategic plans.—To develop a strategic plan of the Administration for the air traffic control system, including the establishment of—
+Strategic plans.—To implement the strategic plan of the Administration for the air traffic control system in order to further—
 
 &emsp;&emsp;&emsp;(i) a mission and objectives;
 
@@ -642,25 +608,27 @@ Strategic plans.—To develop a strategic plan of the Administration for the air
 
 &emsp;&emsp;(B)
 
-Operations.—To review the operational functions of the Administration, including—
+Operations.—To oversee the day-to-day operational functions of the Administration for air traffic control, including—
 
 &emsp;&emsp;&emsp;(i) modernization of the air traffic control system;
 
-&emsp;&emsp;&emsp;(ii) increasing productivity or implementing cost-saving measures; and
+&emsp;&emsp;&emsp;(ii) increasing productivity or implementing cost-saving measures;
 
-&emsp;&emsp;&emsp;(iii) training and education.
+&emsp;&emsp;&emsp;(iii) training and education; and
+
+&emsp;&emsp;&emsp;(iv) the management of cost-reimbursable contracts.
 
 &emsp;&emsp;(C)
 
 Budget.—To—
 
-&emsp;&emsp;&emsp;(i) develop a budget request of the Administration related to the air traffic control system prepared by the Administrator;
+&emsp;&emsp;&emsp;(i) develop a budget request of the Administration related to the air traffic control system;
 
-&emsp;&emsp;&emsp;(ii) submit such budget request to the Administrator and the Secretary of Transportation; and
+&emsp;&emsp;&emsp;(ii) submit such budget request to the Administrator and the Committee; and
 
-&emsp;&emsp;&emsp;(iii) ensure that the budget request supports the annual and long-range strategic plans developed under subparagraph (A) of this subsection.
+&emsp;&emsp;&emsp;(iii) ensure that the budget request supports the agency's annual and long-range strategic plans for air traffic control services.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701,Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528.)
 
 Historical and Revision Notes
 
@@ -794,9 +762,161 @@ Section 44931 of this title, referred to in subsec. (g)(2), was repealed by Pub.
 
 The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+
 The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
+
+2003—Subsec. (d)(2) to (4). Pub. L. 108–176, §204, added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (f)(2)(A)(ii). Pub. L. 108–176, §224(c), inserted “, services,” after “property”.
+
+Subsec. (k)(1). Pub. L. 108–176, §103(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1)
+
+In general.—There is authorized to be appropriated to the Secretary of Transportation for operations of the Administration—
+
+&emsp;“(A) such sums as may be necessary for fiscal year 2000;
+
+&emsp;“(B) $6,592,235,000 for fiscal year 2001;
+
+&emsp;“(C) $6,886,000,000 for fiscal year 2002; and
+
+&emsp;“(D) $7,357,000,000 for fiscal year 2003.
+
+> Such sums shall remain available until expended.”
+
+Subsec. (k)(2). Pub. L. 108–176, §103(b), redesignated subpars. (C) to (E) as subpars. (A) to (C), respectively, in subpars. (A) to (C), substituted “fiscal years 2004 through 2007” for “fiscal years 2000 through 2003”, added subpars. (D) to (G), struck out former subpars. (A) and (B), which related to expenditures for wildlife measures and a university consortium for an air safety and security management certificate program, and struck out former subpars. (F) to (I), which related to expenditures for the 1998 airport surface operationssafety action plan, United States membership obligations in the International Civil Aviation Organization, additional inspectors to enhance air cargo security programs, and improved training programs for airport security screening personnel.
+
+Subsec. (p). Pub. L. 108–176, §201(1), inserted “and Air Traffic Services Board” after “Council” in heading.
+
+Subsec. (p)(2). Pub. L. 108–176, §201(2)(A), substituted “consist of 13 members, who” for “consist of 18 members, who” in introductory provisions.
+
+Subsec. (p)(2)(C)(i). Pub. L. 108–176, §201(2)(B), inserted “, except that initial appointments made after May 1, 2003, shall be made by the Secretary of Transportation” after “Senate”.
+
+Subsec. (p)(2)(C)(ii). Pub. L. 108–176, §201(2)(C)(ii), substituted “; and” for semicolon at end.
+
+Subsec. (p)(2)(D). Pub. L. 108–176, §201(2)(D), substituted “employees, by the Secretary of Transportation.” for “employees, by—
+
+&emsp;“(i) in the case of initial appointments to the Council, the President by and with the advice and consent of the Senate; and
+
+&emsp;“(ii) in the case of subsequent appointments to the Council, the Secretary of Transportation; and”.
+
+Subsec. (p)(2)(E). Pub. L. 108–176, §201(2)(D), struck out subpar. (E) which read as follows: “5 members appointed by the Secretary after consultation with the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+
+Subsec. (p)(3). Pub. L. 108–176, §202(1), added par. (3) and struck out former par. (3) which related to qualifications for serving on the Council.
+
+Subsec. (p)(4)(C). Pub. L. 108–176, §202(2), inserted “or Air Traffic Services Committee” after “Council” in two places.
+
+Subsec. (p)(5). Pub. L. 108–176, §202(3), inserted “, the Air Traffic Services Committee,” after “Council”.
+
+Subsec. (p)(6)(C). Pub. L. 108–176, §202(4), in heading substituted “committee” for “subcommittee” and in text substituted “members appointed” for “ member appointed”, “to the Air Traffic Services Committee shall” for “under paragraph (2)(E) shall”, and “the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shall serve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).” for “of the members first appointed under paragraph (2)(E)—
+
+&emsp;“(i) 2 members shall be appointed for a term of 3 years;
+
+&emsp;“(ii) 2 members shall be appointed for a term of 4 years; and
+
+&emsp;“(iii) 1 member shall be appointed for a term of 5 years.”
+
+Subsec. (p)(6)(D). Pub. L. 108–176, §202(5), substituted “to the Committee” for “under paragraph (2)(E)”.
+
+Subsec. (p)(6)(E). Pub. L. 108–176, §202(6), inserted “or Committee” after “Council”.
+
+Subsec. (p)(6)(F). Pub. L. 108–176, §202(7), inserted “of the Council or Committee” after “member”.
+
+Subsec. (p)(6)(G). Pub. L. 108–176, §202(8), in second sentence substituted “Committee” for “Council” and struck out “appointed under paragraph (2)(E)” before “may be removed”.
+
+Subsec. (p)(6)(H). Pub. L. 108–176, §202(9)(A), substituted “committee” for “subcommittee” in heading.
+
+Subsec. (p)(6)(H)(i). Pub. L. 108–176, §202(9)(B), (C), substituted “to the Committee” for “under paragraph (2)(E)” and “of the Committee” for “of the Air Traffic Services Subcommittee”.
+
+Subsec. (p)(6)(I)(i). Pub. L. 108–176, §202(10), substituted “is serving as” for “appointed under paragraph (2)(E) is” and “Committee” for “Subcommittee”.
+
+Subsec. (p)(6)(I)(ii). Pub. L. 108–176, §202(11), substituted “who is a member of the Committee” for “appointed under paragraph (2)(E)” and “Committee;” for “Subcommittee;”.
+
+Subsec. (p)(6)(K). Pub. L. 108–176, §202(12), inserted “or Committee” after “Council”.
+
+Subsec. (p)(6)(L). Pub. L. 108–176, §202(13), inserted “or Committee” after “Council” in two places.
+
+Subsec. (p)(7). Pub. L. 108–176, §202(14)(A), substituted “committee” for “subcommittee” in heading.
+
+Subsec. (p)(7)(A). Pub. L. 108–176, §202(14)(B), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Management Advisory Council shall have an air traffic services subcommittee (in this paragraph referred to as the ‘Subcommittee’) composed of the five members appointed under paragraph (2)(E).”
+
+Subsec. (p)(7)(B), (C). Pub. L. 108–176, §202(14)(D), added subpars. (B) and (C). Former subpars. (B) and (C) redesignated (D) and (E), respectively.
+
+Subsec. (p)(7)(D). Pub. L. 108–176, §202(14)(E), substituted “Committee” for “Subcommittee” in two places.
+
+Pub. L. 108–176, §202(14)(C), redesignated subpar. (B) as (D). Former subpar. (D) redesignated (F).
+
+Subsec. (p)(7)(E). Pub. L. 108–176, §202(14)(I), struck out concluding provisions which read as follows: “The Secretary shall submit the budget request referred to in clause (v)(II) for any fiscal year to the President who shall transmit such request, without revision, to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, together with the President's annual budget request for the Federal Aviation Administration for such fiscal year.”
+
+Pub. L. 108–176, §202(14)(E), substituted “Committee” for “Subcommittee” in introductory provisions.
+
+Pub. L. 108–176, §202(14)(C), redesignated subpar. (C) as (E). Former subpar. (E) redesignated (G).
+
+Subsec. (p)(7)(E)(v)(I). Pub. L. 108–176, §202(14)(F), substituted “make recommendations on” for “approve”.
+
+Subsec. (p)(7)(E)(v)(II). Pub. L. 108–176, §202(14)(G), substituted “recommendations” for “request”.
+
+Subsec. (p)(7)(E)(v)(III). Pub. L. 108–176, §202(14)(H), substituted “base such budget recommendations on” for “ensure that the budget request supports”.
+
+Subsec. (p)(7)(F). Pub. L. 108–176, §202(14)(J), added subpar. (F) and struck out heading and text of former subpar. (F). Text read as follows:
+
+“(i)
+
+Compensation of members.—Each member of the Subcommittee shall be compensated at a rate of $25,000 per year.
+
+“(ii)
+
+Compensation of chairperson.—Notwithstanding clause (i), the chairperson of the Subcommittee shall be compensated at a rate of $40,000 per year.
+
+“(iii)
+
+Staff.—The chairperson of the Subcommittee may appoint and terminate any personnel that may be necessary to enable the Subcommittee to perform its duties.
+
+“(iv)
+
+Procurement of temporary and intermittent services.—The chairperson of the Subcommittee may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.”
+
+Pub. L. 108–176, §202(14)(C), redesignated subpar (D) as (F). Former subpar. (F) redesignated (H).
+
+Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted “Committee” for “Subcommittee” wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “
+
+Term of chair.—The members of the Subcommittee shall elect for a 2-year term a chairperson from among the members of the Subcommittee.”
+
+Pub. L. 108–176, §202(14)(C), redesignated subpar. (E) as (G).
+
+Subsec. (p)(7)(H). Pub. L. 108–176, §202(14)(C), redesignated subpar. (F) as (H).
+
+Subsec. (p)(7)(H)(i). Pub. L. 108–176, §202(14)(L)(i), (ii), substituted “Committee shall” for “Subcommittee shall” and “Secretary” for “Administrator, the Council”.
+
+Subsec. (p)(7)(H)(ii). Pub. L. 108–176, §202(14)(L), substituted “Committee under” for “Subcommittee under”, “subparagraph (D)(i)” for “subparagraph\(B)(i)”, “Committee shall” for “Subcommittee shall”, and “Secretary” for “Administrator, the Council”.
+
+Subsec. (p)(7)(H)(iii), (iv). Pub. L. 108–176, §202(14)(L)(i), in cl. (iii) substituted “Committee under” for “Subcommittee under” and “Committee, the” for “Subcommittee, the” and in cl. (iv) substituted “Committee in” for “Subcommittee in”.
+
+Subsec. (p)(7)(I). Pub. L. 108–176, §202(14)(M), added subpar. (I).
+
+Subsec. (r)(1)(A), (2)(A). Pub. L. 108–176, §203(1), substituted “Air Traffic Services Committee” for “Air Traffic Services Subcommittee of the Aviation Management Advisory Council”.
+
+Subsec. (r)(2)(B). Pub. L. 108–176, §203(2), inserted “in” before “paragraph (3)”.
+
+Subsec. (r)(3). Pub. L. 108–176, §203(3), substituted “Air Traffic Services Committee” for “Air Traffic Control Subcommittee of the Aviation Management Advisory Committee”.
+
+Subsec. (r)(4). Pub. L. 108–176, §203(4), substituted “Transportation, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate” for “Transportation and Congress”.
+
+Subsec. (r)(5)(A). Pub. L. 108–176, §203(5), in introductory provisions substituted “implement the” for “develop a” and “in order to further” for “, including the establishment of”.
+
+Subsec. (r)(5)(B). Pub. L. 108–176, §203(6)(A), substituted “oversee the day-to-day operational functions of the Administration for air traffic control,” for “review the operational functions of the Administration,” in introductory provisions.
+
+Subsec. (r)(5)(B)(iv). Pub. L. 108–176, §203(6)(B)–(D), added cl. (iv).
+
+Subsec. (r)(5)(C)(i). Pub. L. 108–176, §203(7), struck out “prepared by the Administrator” after “air traffic control system”.
+
+Subsec. (r)(5)(C)(ii). Pub. L. 108–176, §203(8), substituted “and the Committee” for “and the Secretary of Transportation”.
+
+Subsec. (r)(5)(C)(iii). Pub. L. 108–176, §203(9), inserted “agency's” before “annual” and substituted “for air traffic control services” for “developed under subparagraph (A) of this subsection”.
 
 2001—Subsec. (m). Pub. L. 107–71, §101(d), substituted “supplies, personnel, services, and” for “supplies and” in last sentence.
 
@@ -872,7 +992,7 @@ Subsec. (f). Pub. L. 103–272, §4(j)(3)(A), substituted “Secretary of Transp
 
 Subsec. (g). Pub. L. 103–272, §4(j)(3)(B), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Administrator shall carry out—
 
-&emsp;“(1) duties and powers of the Secretary related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous materials) and vested in the Secretary by section308(b) of this title and sections 306–309, 312–314, 315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990), 1101, 1105, and 1111 and titles VI, VII, IX, and XII of the Federal Aviation Act of 1958 (49 App. U.S.C. 1347–1350, 1353–1355, 1421 et seq., 1441 et seq., 1471 et seq., 1501, 1505, 1511, and 1521 et seq.); and
+&emsp;“(1) duties and powers of the Secretary related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous materials) and vested in the Secretary by section 308(b) of this title and sections 306–309, 312–314, 315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990), 1101, 1105, and 1111 and titles VI, VII, IX, and XII of the Federal Aviation Act of 1958 (49 App. U.S.C. 1347–1350, 1353–1355, 1421 et seq., 1441 et seq., 1471 et seq., 1501, 1505, 1511, and 1521 et seq.); and
 
 &emsp;“(2) additional duties and powers prescribed by the Secretary.”
 
@@ -893,6 +1013,10 @@ Subsec. (k). Pub. L. 101–508 added subsec. (k).
 1988—Subsec. (j). Pub. L. 100–591 added subsec. (j).
 
 1984—Subsecs. (g)(1), (h). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–176, §3, Dec. 12, 2003, 117 Stat. 2493, provided that: “Except as otherwise specifically provided, this Act \[see Tables for classification\] and the amendments made by this Act shall apply only to fiscal years beginning after September 30, 2003.”
 
 #### Effective Date of 2000 Amendments
 
@@ -933,6 +1057,72 @@ In General.—Except as otherwise specifically provided, this Act \[see Tables f
 Limitation on Statutory Construction.—Nothing in this Act or any amendment made by this Act shall be construed as affecting funds made available for a fiscal year ending before October 1, 1996.”
 
 Section 203 of title II of Pub. L. 104–264 provided that: “The provisions of this title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending this section and section 41742 of this title, renumbering section 45303 of this title as section 45304, repealing section 45301 of this title, and enacting provisions set out as notes under this section and sections 40101, 40110, and 41742 of this title\] and the amendments made by this title shall take effect on the date that is 30 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
+
+#### Federal Aviation Administration Science and Technology Scholarship Program
+
+Pub. L. 108–176, title VII, §702, Dec. 12, 2003, 117 Stat. 2576, provided that:
+
+“(a)(1) The Administrator of the Federal Aviation Administration shall establish a Federal Aviation Administration Science and Technology Scholarship Program to award scholarships to individuals that is designed to recruit and prepare students for careers in the Federal Aviation Administration.
+
+“(2) Individuals shall be selected to receive scholarships under this section through a competitive process primarily on the basis of academic merit, with consideration given to financial need and the goal of promoting the participation of individuals identified in section 33 or 34 of the Science and Engineering Equal Opportunities Act \[42 U.S.C. 1885a, 1885b\].
+
+“(3) To carry out the Program the Administrator shall enter into contractual agreements with individuals selected under paragraph (2) under which the individuals agree to serve as full-time employees of the Federal Aviation Administration, for the period described in subsection (f)(1), in positions needed by the Federal Aviation Administration and for which the individuals are qualified, in exchange for receiving a scholarship.
+
+“(b) In order to be eligible to participate in the Program, an individual must—
+
+&emsp;“(1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education, as a junior or senior undergraduate or graduate student, in an academic field or discipline described in the list made available under subsection (d);
+
+&emsp;“(2) be a United States citizen or permanent resident; and
+
+&emsp;“(3) at the time of the initial scholarship award, not be an employee (as defined in section 2105 of title 5, United States Code).
+
+“(c) An individual seeking a scholarship under this section shall submit an application to the Administrator at such time, in such manner, and containing such information, agreements, or assurances as the Administrator may require.
+
+“(d) The Administrator shall make publicly available a list of academic programs and fields of study for which scholarships under the Program may be utilized and shall update the list as necessary.
+
+“(e)(1) The Administrator may provide a scholarship under the Program for an academic year if the individual applying for the scholarship has submitted to the Administrator, as part of the application required under subsection (c), a proposed academic program leading to a degree in a program or field of study on the list made available under subsection (d).
+
+“(2) An individual may not receive a scholarship under this section for more than 4 academic years, unless the Administrator grants a waiver.
+
+“(3) The dollar amount of a scholarship under this section for an academic year shall be determined under regulations issued by the Administrator, but shall in no case exceed the cost of attendance.
+
+“(4) A scholarship provided under this section may be expended for tuition, fees, and other authorized expenses as established by the Administrator by regulation.
+
+“(5) The Administrator may enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided.
+
+“(f)(1) The period of service for which an individual shall be obligated to serve as an employee of the Federal Aviation Administration is, except as provided in subsection (h)(2), 24 months for each academic year for which a scholarship under this section is provided.
+
+“(2)(A) Except as provided in subparagraph (B), obligated service under paragraph (1) shall begin not later than 60 days after the individual obtains the educational degree for which the scholarship was provided.
+
+“(B) The Administrator may defer the obligation of an individual to provide a period of service under paragraph (1) if the Administrator determines that such a deferral is appropriate. The Administrator shall prescribe the terms and conditions under which a service obligation may be deferred through regulation.
+
+“(g)(1) Scholarship recipients who fail to maintain a high level of academic standing, as defined by the Administrator by regulation, who are dismissed from their educational institutions for disciplinary reasons, or who voluntarily terminate academic training before graduation from the educational program for which the scholarship was awarded, shall be in breach of their contractual agreement and, in lieu of any service obligation arising under such agreement, shall be liable to the United States for repayment within 1 year after the date of default of all scholarship funds paid to them and to the institution of higher education on their behalf under the agreement, except as provided in subsection (h)(2). The repayment period may be extended by the Administrator when determined to be necessary, as established by regulation.
+
+“(2) Scholarship recipients who, for any reason, fail to begin or complete their service obligation after completion of academic training, or fail to comply with the terms and conditions of deferment established by the Administrator pursuant to subsection (f)(2)(B), shall be in breach of their contractual agreement. When recipients breach their agreements for the reasons stated in the preceding sentence, the recipient shall be liable to the United States for an amount equal to—
+
+&emsp;“(A) the total amount of scholarships received by such individual under this section; plus
+
+&emsp;“(B) the interest on the amounts of such awards which would be payable if at the time the awards were received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States,
+
+> multiplied by 3.
+
+“(h)(1) Any obligation of an individual incurred under the Program (or a contractual agreement thereunder) for service or payment shall be canceled upon the death of the individual.
+
+“(2) The Administrator shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment incurred by an individual under the Program (or a contractual agreement thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual, or if enforcement of such obligation with respect to the individual would be contrary to the best interests of the Government.
+
+“(i) For purposes of this section—
+
+&emsp;“(1) the term ‘cost of attendance’ has the meaning given that term in section 472 of the Higher Education Act of 1965 \[20 U.S.C. 1087<i>ll</i>\];
+
+&emsp;“(2) the term ‘institution of higher education’ has the meaning given that term in section 101(a) of the Higher Education Act of 1965 \[20 U.S.C. 1001(a)\]; and
+
+&emsp;“(3) the term ‘Program’ means the Federal Aviation Administration Science and Technology Scholarship Program established under this section.
+
+“(j)(1) There is authorized to be appropriated to the Federal Aviation Administration for the Program $10,000,000 for each fiscal year.
+
+“(2) Amounts appropriated under this section shall remain available for 2 fiscal years.
+
+“(k) The Administrator may provide temporary internships to full-time students enrolled in an undergraduate or post-graduate program leading to an advanced degree in an aerospace-related or aviation safety-related field of endeavor.”
 
 #### Internet Availability of Information
 
@@ -1130,7 +1320,7 @@ Section 1. <i>Establishment of the Air Traffic Organization</i>. (a) The Secreta
 
 (b) The ATO shall be composed of those elements of the FAA's Air Traffic Services and Research and Acquisition organizations that have direct connection and give support to the provision of day-to-day operational air traffic services, as determined by the Administrator of the Federal Aviation Administration (Administrator). The Administrator may delegate responsibility for any operational activity of the air traffic control system to the head of the ATO. The Administrator's responsibility for general safety, security, and policymaking functions for the National Airspace System is unaffected by this order.
 
-(c) The Chief Operating Officer (COO) of the Air Traffic Control System, established by the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (Air-21) (Public Law 106–181) \[see Short Title of 2000 Amendments note set out under section 40101 of this title\], shall head the ATO and shall report directly to the Administrator and be subject to the authority of the Administrator. The COO, in consultation with the Air Traffic Control Subcommittee of the Aviation Management Advisory Committee, shall enter into an annual performance agreement with the Administrator that sets forth measurable organization and individual goals in key operational areas and describes specific targets and how such goals will be achieved. The COO may receive an annual bonus not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the COO's performance in relation to the targets and goals described above.
+(c) The Chief Operating Officer (COO) of the Air Traffic Control System, established by the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century (Air-21) (Public Law 106–181) \[see Short Title of 2000 Amendments note set out under section 40101 of this title\], shall head the ATO and shall report directlyto the Administrator and be subject to the authority of the Administrator. The COO, in consultation with the Air Traffic Control Subcommittee of the Aviation Management Advisory Committee, shall enter into an annual performance agreement with the Administrator that sets forth measurable organization and individual goals in key operational areas and describes specific targets and how such goals will be achieved. The COO may receive an annual bonus not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the COO's performance in relation to the targets and goals described above.
 
 (d) The COO shall develop a 5-year strategic plan for the air traffic control system, including a clear statement of the mission and objectives for the system's safety, efficiency, and productivity. This strategic plan must ensure that ATO actions are consistent with long-term FAA strategies for the aviation system as a whole.
 
@@ -1158,7 +1348,7 @@ Sec. 3. <i>Aviation Management Advisory Committee</i>. The Air Traffic Control S
 
 Sec. 4. <i>Evaluation and Report</i>. Not later than 5 years after the date of this order, the Aviation Management Advisory Committee shall provide to the Secretary and the Administrator a report on the operation and effectiveness of the ATO, together with any recommendations for management, fiscal, or legislative changes to enable the organization to achieve its goals.
 
-Sec. 5. <i>Definitions</i>. The term “air traffic control system” has the same meaning as the term defined by section 40102(a)(42) of title 49, United States Code.
+Sec. 5. <i>Definitions</i>. The term “air traffic control system” has the same meaning as the term defined by section 40102(a)(42) \[now 40102(a)(47)\] of title 49, United States Code.
 
 Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
@@ -1180,9 +1370,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 114, 322, 41766, 44507, 47124, 48113, 50101, 50102, 50105 of this title.
+This section is referred to in sections 114, 322, 41766, 44507, 47124, 47174, 48113, 50101, 50102, 50105 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

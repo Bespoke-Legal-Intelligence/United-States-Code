@@ -4,7 +4,7 @@
 
 No person who is a candidate for Federal office or an employee or agent of such a candidate shall—
 
-&emsp;(1) fraudulently misrepresent himself or any committee or organization under his control as speaking or writing or otherwise acting for or on behalf of any other candidate or political party or employee or agent thereof on a matter which is damaging to such other candidate or political party or employee or agent thereof; or
+&emsp;(1) fraudulently misrepresent himself or any committee or organization under his controlas speaking or writing or otherwise acting for or on behalf of any other candidate or political party or employee or agent thereof on a matter which is damaging to such other candidate or political party or employee or agent thereof; or
 
 &emsp;(2) willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
 
@@ -24,7 +24,7 @@ A prior section 322 of Pub. L. 92–225 was renumbered section 317, and is class
 
 #### Amendments
 
-2002—Pub. L. 107–155 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2002</b>—Pub. L. 107–155 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Effective Date of 2002 Amendment
 

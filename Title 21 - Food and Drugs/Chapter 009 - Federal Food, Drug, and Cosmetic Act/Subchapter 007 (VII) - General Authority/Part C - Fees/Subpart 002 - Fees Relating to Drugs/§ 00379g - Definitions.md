@@ -58,9 +58,7 @@ For purposes of this part:
 
 &emsp;&emsp;(D) collecting fees under section 379h of this title and accounting for resources allocated for the review of human drug applications and supplements.
 
-&emsp;(8) The term “adjustment factor” applicable to a fiscal year
-
-is the Consumer Price Index for all urban consumers (all items; United States city average) for April of the preceding fiscal year divided by such Index for April 1997.
+&emsp;(8) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for April of the preceding fiscal year divided by such Index for April 1997.
 
 &emsp;(9) The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
 
@@ -126,7 +124,7 @@ Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, provided that: 
 
 Section 106 of title I of Pub. L. 105–115 provided that: “The amendments made by this subtitle \[subtitle A (§§101–107) of title I of Pub. L. 105–115, amending this section and section 379h of this title\] shall take effect October 1, 1997.”
 
-Section 107 of Pub. L. 105–115 provided that: “The amendments made by sections 102 and 103 \[amendingthis section and section 379h of this title\] cease to be effective October 1, 2002, and section 104 \[enacting provisions set out as a note below\] ceases to be effective 120 days after such date.”
+Section 107 of Pub. L. 105–115 provided that: “The amendments made by sections 102 and 103 \[amending this section and section 379h of this title\] cease to be effective October 1, 2002, and section 104 \[enacting provisions formerly set out as a note below\] ceases to be effective 120 days after such date.”
 
 #### Termination Date
 
@@ -134,7 +132,7 @@ Section 105 of Pub. L. 102–571 provided that: “The amendments made by sectio
 
 #### Savings Provision
 
-Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: “Notwithstanding section 107 of the Food and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003.”
+Pub. L. 107–188, title V, §507, June 12, 2002, 116 Stat. 694, provided that: “Notwithstanding section 107 of theFood and Drug Administration Modernization Act of 1997 \[section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above\], and notwithstanding the amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 356b and 379h of this title\], part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], as in effect on the day before the date of the enactment of this Act \[June 12, 2002\], continues to be in effect with respect to human drug applications and supplements (as defined in such part as of such day) that, on or after October 1, 1997, but before October 1, 2002, were accepted by the Food and Drug Administration for filing and with respect to assessing and collecting any fee required by such Act for a fiscal year prior to fiscal year 2003.”
 
 Section 105 of Pub. L. 105–115 provided that: “Notwithstanding section 105 of the Prescription Drug User Fee Act of 1992 \[section 105 of Pub. L. 102–571, set out above\], the Secretary shall retain the authority to assess and collect any fee required by part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\] for a human drug application or supplement accepted for filing prior to October 1, 1997, and to assess and collect any product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998.”
 
@@ -202,15 +200,7 @@ Section 101 of title I of Pub. L. 105–115 provided that: “Congress finds tha
 
 #### Annual Reports
 
-Section 104 of Pub. L. 105–115 provided that:
-
-“(a)
-
-Performance Report.—Beginning with fiscal year 1998, not later than 60 days after the end of each fiscal year during which fees are collected under part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379g et seq.), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(4) \[section 101(4) of Pub. L. 105–115 set out above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
-
-“(b)
-
-Fiscal Report.—Beginning with fiscal year 1998, not later than 120 days after the end of each fiscal year during which fees are collected under the part described in subsection (a), the Secretary of Health and Human Services shall prepare and submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.”
+Pub. L. 105–115, title I, §104, Nov. 21, 1997, 111 Stat. 2304, which directed the Secretary of Health and Human Services to prepare and submit to Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, within 60 days after the end of each fiscal year during which fees are collected under this subpart, a report stating the Food and Drug Administration's progress in achieving the goals identified in the letters described in section 101(4) of Pub. L. 105–115, set out above, during such fiscal year and the Administration's future plans for meeting the goals, and within 120 days after the end of each fiscal year during which fees are collected, to prepare and submit a report on the implementation of the authority for such fees during such fiscal year and on the use the Administration made of the fees collected during such fiscal year, ceased to be effective 120 days after Oct. 1, 2002. See section 107 of Pub. L. 105–115, set out as an Effective and Termination Dates of 1997 Amendment note above.
 
 #### Congressional Findings Concerning Prescription Drug User Fees
 
@@ -229,4 +219,8 @@ Pub. L. 102–571, title I, §104, Oct. 29, 1992, 106 Stat. 4498, which provided
 #### Animal Drug User Fee Study
 
 Section 108 of Pub. L. 102–571 directed Secretary, in consultation with manufacturers of animal drug products and other interested persons, to undertake study to evaluate whether, and under what conditions, to impose user fees to supplement appropriated funds in order to improve process of reviewing applications (including abbreviated and supplemental applications) for new animal drugs under section 360b of this title, and further provided for submission of study to Congress no later than Jan. 4, 1994.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 379j–11, 379–12 of this title.
 

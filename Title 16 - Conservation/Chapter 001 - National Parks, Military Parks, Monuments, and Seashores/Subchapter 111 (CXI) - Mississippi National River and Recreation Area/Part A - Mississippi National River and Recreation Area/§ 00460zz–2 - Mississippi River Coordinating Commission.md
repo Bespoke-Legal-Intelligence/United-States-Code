@@ -56,7 +56,7 @@ Members of the Commission shall serve without pay. While away from their homes o
 
 #### (d) Chairperson
 
-The Chairperson of the Commission shall be appointed by the Secretary from among the members of the Commission nominated by the Governor of Minnesota and shall serve for a term of three years.
+The Chairperson of the Commission shall be appointed by the Secretary from among themembers of the Commission nominated by the Governor of Minnesota and shall serve for a term of three years.
 
 #### (e) Quorum
 
@@ -114,7 +114,7 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 (2) In developing the plan the Commission shall consult with interested conservation, business, professional and citizen organizations.
 
-(3) In developing the plan the Commission shall conduct public hearings within the Area, and at such other places as may be appropriate, for the purposes of providing interested persons with the opportunity to testify with respect to matters to be addressed by the plan.
+(3) In developing the plan the Commission shall conduct public hearings within the Area, and at such other places as may be appropriate, for the purposes of providing interested personswith the opportunity to testify with respect to matters to be addressed by the plan.
 
 #### (k) Approval of plan
 
@@ -146,7 +146,7 @@ The Commission shall terminate on the date 10 years after November 18, 1988. Fol
 
 #### References in Text
 
-The Clean Water Act, referred to in subsec. (i)(2)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For completeclassification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (i)(2)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is title XIV of act July 1, 1944, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
 
-&emsp;(B) At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of the cost investigation, specific figures, eachrounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
+&emsp;(B) At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of the cost investigation, specific figures, each rounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
 
 &emsp;(C) The Administrator shall report the specific figures to Congress not later than five working days after the Administrator makes the cost determination. Each such report shall be printed in the Federal Register.
 
@@ -168,5 +168,5 @@ Section 5(b) of Pub. L. 101–391, which provided that not later than 6 months a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5701, 5702, 5704, 5706a, 5706c, 5709 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 28 section 456.
+This section is referred to in sections 5701, 5702, 5704, 5706a, 5706c, 5709 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 28 section 456; title 40 section 590.
 

@@ -14,7 +14,7 @@ Term of Office.—The term of office of the judges of the Court of Appeals for V
 
 (d)
 
-Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court in regularactive service who is senior in commission among the judges of the Court who—
+Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
 
 &emsp;(A) have served for one or more years as judges of the Court; and
 
@@ -134,7 +134,7 @@ Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of fi
 
 #### Initial Appointment of Judges to Court of Veterans Appeals
 
-Section 302 of Pub. L. 100–687 prohibited President from appointing associate judges of the United States Court of Veterans Appeals under subsec. (b) of this section, until the chief judge of such Court has been appointed and that judges could be appointed after Feb. 1, 1989.
+Section 302 of Pub. L. 100–687 prohibited President from appointing associate judges of the United StatesCourt of Veterans Appeals under subsec. (b) of this section, until the chief judge of such Court has been appointed and that judges could be appointed after Feb. 1, 1989.
 
 #### Section Referred to in Other Sections
 

@@ -8,6 +8,10 @@ The Forest Service shall implement and adhere to the definitions of indirect exp
 
 Public Law 105–277, referred to in text, is Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681, known as the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999. For complete classification of this Act to the Code, see Tables.
 
+#### Codification
+
+Section is from the Department of the Interior and Related Agencies Appropriations Act, 2002.
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in the following prior appropriation acts:

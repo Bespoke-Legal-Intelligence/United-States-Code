@@ -6,13 +6,11 @@ Defense Information Assurance Program.—The Secretary of Defense shall carry ou
 
 (b)
 
-Objectives and Minimum Requirements.—(1) The objectives of the program shall be to provide continuously for the availability, integrity, authentication, confidentiality, nonrepudiation, and rapid restitution of information and information systems that are essential elements of the Defense Information Infrastructure.
-
-(2) The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.
+Objectives of the Program.—The objectives of the program shall be to provide continuously for the availability, integrity, authentication, confidentiality, nonrepudiation, and rapid restitution of information and information systems that are essential elements of the Defense Information Infrastructure.
 
 (c)
 
-Program Strategy.—In carrying out the program, the Secretary shall develop a program strategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure. The program strategy shall include the following:
+Program Strategy.—In carrying out the program, the Secretary shall develop a program strategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure, including through compliance with subchapter III of chapter 35 of title 44. The program strategy shall include the following:
 
 &emsp;(1) A vulnerability and threat assessment of elements of the defense and supporting nondefense information infrastructures that are essential to the operations of the Department and the armed forces.
 
@@ -30,23 +28,7 @@ Program Strategy.—In carrying out the program, the Secretary shall develop a p
 
 Coordination.—In carrying out the program, the Secretary shall coordinate, as appropriate, with the head of any relevant Federal agency and with representatives of those national critical information infrastructure systems that are essential to the operations of the Department and the armed forces on information assurance measures necessary to the protection of these systems.
 
-(e)
-
-Annual Report.—Each year, at or about the time the President submits the annual budget for the next fiscal year pursuant to section 1105 of title 31, the Secretary shall submit to Congress a report on the Defense Information Assurance Program. Each report shall include the following:
-
-&emsp;(1) Progress in achieving the objectives of the program.
-
-&emsp;(2) A summary of the program strategy and any changes in that strategy.
-
-&emsp;(3) A description of the information assurance activities of the Office of the Secretary of Defense, Joint Staff, unified and specified commands, Defense Agencies, military departments, and other supporting activities of the Department of Defense.
-
-&emsp;(4) Program and budget requirements for the program for the past fiscal year, current fiscal year, budget year, and each succeeding fiscal year in the remainder of the current future-years defense program.
-
-&emsp;(5) An identification of critical deficiencies and shortfalls in the program.
-
-&emsp;(6) Legislative proposals that would enhance the capability of the Department to execute the program.
-
-&emsp;(7) A summary of the actions taken in the administration of sections 3534 and 3535 of title 44 within the Department of Defense.
+\[(e) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(12), Nov. 24, 2003, 117 Stat. 1597.\]
 
 (f)
 
@@ -56,9 +38,23 @@ Information Assurance Test Bed.—The Secretary shall develop an information ass
 
 &emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
-(Added Pub. L. 106–65, div. A, title X, §1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1063\], Oct. 30, 2000, 114 Stat. 1654, 1654A–274.)
+(Added Pub. L. 106–65, div. A, title X, §1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1063\], Oct. 30, 2000, 114 Stat. 1654, 1654A–274; Pub. L. 107–296, title X, §1001(c)(1)(B), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 107–347, title III, §301(c)(1)(B), Dec. 17, 2002, 116 Stat. 2955; Pub. L. 108–136, div. A, title X, §1031(a)(12), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 struck out subsec. (e) which directed the Secretary of Defense to annually submit to Congress a report on the Defense Information Assurance Program.
+
+2002—Subsec. (b)(1). Pub. L. 107–347, §301(c)(1)(B)(i), substituted “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and struck out par. (1) designation.
+
+Pub. L. 107–296, §1001(c)(1)(B)(i), which directed substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation, could not be executed. See above par.
+
+Subsec. (b)(2). Pub. L. 107–347, §301(c)(1)(B)(ii), struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
+
+Pub. L. 107–296, §1101(c)(1)(B)(ii), which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
+
+Subsec. (c). Pub. L. 107–347, §301(c)(1)(B)(iii), inserted “, including through compliance with subchapter III of chapter 35 of title 44” after “infrastructure” in introductory provisions.
+
+Pub. L. 107–296, §1101(c)(1)(B)(iii), which directed the insertion of “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in subsec. (c), was not executed, to reflect the probable intent of Congress and the amendment by Pub. L. 107–347. See above par.
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title X, §1063(a)\], substituted “
 
@@ -67,6 +63,10 @@ Objectives and Minimum Requirements” for “
 Objectives of the Program” in heading, designated existing provisions as par. (1), and added par. (2).
 
 Subsec. (e)(7). Pub. L. 106–398, §1 \[\[div. A\], title X, §1063(b)\], added par. (7).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 

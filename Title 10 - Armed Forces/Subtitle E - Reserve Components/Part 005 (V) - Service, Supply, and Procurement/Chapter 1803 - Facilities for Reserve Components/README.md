@@ -21,7 +21,7 @@
 
 1982—Pub. L. 97–214, §3(b)(2), (c)(2), July 12, 1982, 96 Stat. 169, 170, substituted “Limitation on certain projects; authority to carry out small projects with operation and maintenance funds” for “Limitation” in item 2233a, and added item 2239.
 
-1958—Pub. L. 85–861, §1(42), Sept. 2, 1958, 72 Stat. 1457, inserted “: compliance with State law” in item 2237.
+1958—Pub. L. 85–861, §1(42), Sept. 2, 1958, 72 Stat. 1457, inserted “: compliance with State law” in item 2237.
 
 Pub. L. 85–685, title VI, §601(4), Aug. 20, 1958, 72 Stat. 665, added item 2233a.
 

@@ -26,7 +26,7 @@ Subsec. (a)(2). Pub. L. 101–380, §8101(b), substituted “$350,000,000” for
 
 Subsec. (b). Pub. L. 101–380, §8101(c), inserted “in the State of Alaska” after “any area”, “related to the Trans-Alaska Pipeline System, including operation of the terminal,” after “any activities”, and “or State” after “any other Federal”.
 
-Subsec. (c). Pub. L. 101–380, §8102(a)(1), struck out subsec. (c) which related to liability for discharges of oil loaded at terminal facilities and to establishment of Trans-Alaska Pipeline Liability Fund.
+Subsec. (c). Pub. L. 101–380, §8102(a)(1), struck out subsec. (c) which related to liability for discharges ofoil loaded at terminal facilities and to establishment of Trans-Alaska Pipeline Liability Fund.
 
 Subsec. (c)(2). Pub. L. 101–380, §8102(b), substituted “caused solely by” for “caused by”.
 
@@ -64,7 +64,7 @@ Transfer of Funds.—Notwithstanding any other provision of law, the remainder o
 
 “(b)
 
-Use of Interest Only.—The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[Pub. L. 101–380\] (43 U.S.C. 1653 note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to bedeveloped in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], or State law.”
+Use of Interest Only.—The interest produced from the investment of the Trans-Alaska Pipeline Liability Fund balance that is transferred and deposited into the Oil Spill Liability Trust Fund under section 8102(a)(2)(B)(ii) of the Oil Pollution Act of 1990 \[Pub. L. 101–380\] (43 U.S.C. 1653 note) after June 16, 1998 shall be transferred annually by the National Pollution Funds Center to the Denali Commission for a program, to be developed in consultation with the Coast Guard, to repair or replace bulk fuel storage tanks in Alaska which are not in compliance with federal law, including the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], or State law.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

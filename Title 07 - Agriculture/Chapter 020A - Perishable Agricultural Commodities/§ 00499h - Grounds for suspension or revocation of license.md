@@ -10,7 +10,7 @@ Except with the approval of the Secretary, no licensee shall employ any person, 
 
 &emsp;(1) whose license has been revoked or is currently suspended by order of the Secretary;
 
-&emsp;(2) who has been found after notice and opportunity for hearing to have committed any flagrant or repeated violation of section 499b of this title, but this provision shall not apply to any case in which the license of the person found to have committed such violation wassuspended and the suspension period has expired or is not in effect; or
+&emsp;(2) who has been found after notice and opportunity for hearing to have committed any flagrant or repeated violation of section 499b of this title, but this provision shall not apply to any case in which the license of the person found to have committed such violation was suspended and the suspension period has expired or is not in effect; or
 
 &emsp;(3) against whom there is an unpaid reparation award issued within two years, subject to his right of appeal under section 499g(c) of this title.
 

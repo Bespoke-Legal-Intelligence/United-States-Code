@@ -24,7 +24,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(ii) exercising authority granted under applicable State law to collect information concerning any proposed acquisition of, or a change or continuation of control of, an insurer engaged in the business of insurance in, and regulated as an insurer by, such State;
 
-> &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any otherperson based upon an association of such person with a depository institution;
+> &emsp;&emsp;during the 60-day period preceding the effective date of the acquisition or change or continuation of control, so long as the collecting, reviewing, taking actions, or exercising authority by the State does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution;
 
 &emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
 
@@ -108,7 +108,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;&emsp;(I) to limit the applicability of the decision of the Supreme Court in Barnett Bank of Marion County N.A. v. Nelson, 517 U.S. 25 (1996) with respect to any State statute, regulation, order, interpretation, or other action that is not referred to or described in subparagraph (B); or
 
-&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation,order, interpretation, or other action that is not described in this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) to create any inference with respect to any State statute, regulation, order, interpretation, or other action that is not described in this paragraph.
 
 #### (3) Insurance activities other than sales
 
@@ -136,7 +136,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(i) does not distinguish by its terms between depository institutions, and affiliates thereof, engaged in the activity at issue and other persons engaged in the same activity in a manner that is in any way adverse with respect to the conduct of the activity by any such depository institution or affiliate engaged in the activity at issue;
 
-&emsp;&emsp;&emsp;(ii) as interpreted or applied, does not have, and will not have, an impact on depository institutions, or affiliates thereof, engaged in the activity at issue, or any person who has an association with any such depository institution or affiliate, that is substantially more adverse than its impact on other persons engaged in the same activity that are not depository institutions or affiliates thereof, or persons who do not have an association with any such depository institution or affiliate;
+&emsp;&emsp;&emsp;(ii) as interpreted or applied, does not have, and will not have, an impact on depository institutions, or affiliates thereof, engaged in the activity at issue, or anyperson who has an association with any such depository institution or affiliate, that is substantially more adverse than its impact on other persons engaged in the same activity that are not depository institutions or affiliates thereof, or persons who do not have an association with any such depository institution or affiliate;
 
 &emsp;&emsp;&emsp;(iii) does not effectively prevent a depository institution or affiliate thereof from engaging in activities authorized or permitted by this Act or any other provision of Federal law; and
 
@@ -164,7 +164,7 @@ Subsections (c) and (d) of this section shall not be construed to affect—
 
 &emsp;&emsp;(B) to require the registration of securities or the licensure or registration of brokers, dealers, or investment advisers (consistent with section 80b–3a of this title), or the associated persons of a broker, dealer, or investment adviser (consistent with such section 80b–3a of this title); or
 
-&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, orother actions are not inconsistent with the purposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
+&emsp;(2) State laws, regulations, orders, interpretations, or other actions of general applicability relating to the governance of corporations, partnerships, limited liability companies, or other business associations incorporated or formed under the laws of that State or domiciled in that State, or the applicability of the antitrust laws of any State or any State law that is similar to the antitrust laws if such laws, regulations, orders, interpretations, or other actions are not inconsistent with the purposes of this Act to authorize or permit certain affiliations and to remove barriers to such affiliations.
 
 #### (g) Definitions
 
@@ -206,7 +206,7 @@ Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in s
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act \[amending section 248 of Title 12, Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
+Pub. L. 107–297, §1(a), Nov. 26, 2002, 116 Stat. 2322, provided that: “This Act \[amending section 248 of Title 12,Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and section 1610 of Title 28, and amending provisions set out as a note under section 1610 of Title 28\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
 
 #### Terrorism Insurance Program
 
@@ -532,7 +532,7 @@ Insurer share.—For purposes of subparagraph (A), the Secretary shall determine
 
 &emsp;“(3)
 
-Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Periodand ending on the last day of Program Year 1, or during Program Year 2 or Program Year 3, and the Congress shall determine the procedures for and the source of any payments for such excess insured losses.
+Notice to congress.—The Secretary shall notify the Congress if estimated or actual aggregate insured losses exceed $100,000,000,000 during the period beginning on the first day of the Transition Period and ending on the last day of Program Year 1, or during Program Year 2 or Program Year 3, and the Congress shall determine the procedures for and the source of any payments for such excess insured losses.
 
 &emsp;“(4)
 
@@ -782,7 +782,7 @@ General Preemption.—Any State approval of any terrorism exclusion from a contr
 
 “(c)
 
-Reinstatement of Terrorism Exclusions.—Notwithstanding subsections (a) and (b) or any provision ofState law, an insurer may reinstate a preexisting provision in a contract for property and casualty insurance that is in force on the date of enactment of this Act \[Nov. 26, 2002\] and that excludes coverage for an act of terrorism only—
+Reinstatement of Terrorism Exclusions.—Notwithstanding subsections (a) and (b) or any provision of State law, an insurer may reinstate a preexisting provision in a contract for property and casualty insurance that is in force on the date of enactment of this Act \[Nov. 26, 2002\] and that excludes coverage for an act of terrorism only—
 
 &emsp;“(1) if the insurer has received a written statement from the insured that affirmatively authorizes such reinstatement; or
 
@@ -824,7 +824,7 @@ Procedures and Damages.—
 
 &emsp;“(1)
 
-In general.—If the Secretary makes a determination pursuant to section 102 that an act of terrorism has occurred, there shall exist a Federal cause of action for property damage, personal injury, or death arising out of or resulting from such act of terrorism, which shall be the exclusive cause of action and remedy for claims for property damage, personal injury, or death arising out of or relating to such act of terrorism, except as provided in subsection (b).
+In general.—If the Secretary makes a determination pursuant to section 102 that an act of terrorism has occurred, there shall exist a Federal cause of action for property damage, personal injury, or death arising out of or resulting from such act of terrorism, which shall be the exclusive cause of actionand remedy for claims for property damage, personal injury, or death arising out of or relating to such act of terrorism, except as provided in subsection (b).
 
 &emsp;“(2)
 
@@ -898,5 +898,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6711, 6713, 6715, 6805 of this title; title 12 section 1844.
+This section is referred to in sections 6711, 6713, 6715, 6805, 7706 of this title; title 12 section 1844.
 

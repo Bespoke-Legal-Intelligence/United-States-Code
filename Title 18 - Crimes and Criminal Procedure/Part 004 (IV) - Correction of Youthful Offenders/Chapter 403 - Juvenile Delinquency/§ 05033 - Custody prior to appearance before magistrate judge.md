@@ -16,6 +16,12 @@ This revised section and section 5032 of this title were rewritten to make clear
 
 The other provisions of said section 922 are incorporated in section 5032 of this title.
 
+#### Codification
+
+Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to section 5782 of Title 42, The Public Health and Welfare.
+
+Another section 503 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to section 5782 of Title 42, The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
+
 #### Amendments
 
 1974—Pub. L. 93–415 amended section generally, substituting “Custody prior to appearance before magistrate”, for “Jurisdiction; written consent; jury trial precluded” in section catchline, and substituting provisions relating to advice of rights by arresting officer, notification of Attorney General, parents, guardian or custodian, and appearance before magistrate, for provisions relating to jurisdiction of district courts, jury, consent by juvenile, and apprisal of rights by Judge of District Court.

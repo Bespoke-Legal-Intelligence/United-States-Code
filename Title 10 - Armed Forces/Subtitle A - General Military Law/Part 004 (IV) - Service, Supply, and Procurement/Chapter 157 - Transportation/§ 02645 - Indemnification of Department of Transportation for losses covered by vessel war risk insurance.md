@@ -8,7 +8,7 @@ Prompt Indemnification Required.—(1) In the event of a loss that is covered by
 
 &emsp;(B) in the case of any other claim, not later than 180 days after the date on which the Secretary of Transportation determines the claim to be payable.
 
-(2) When there is a loss of a vessel that is (or may be) covered by vessel war risk insurance, the Secretary of Transportation may make, during the period when a claim for such loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such vessel. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the vessel to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the vessel war risk insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
+(2) When there is a loss of a vessel that is (or may be) covered by vessel war risk insurance, the Secretary of Transportation may make, during the period when a claim for such loss ispending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such vessel. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the vessel to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the vessel war risk insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
 
 (b)
 
@@ -20,11 +20,7 @@ Deposit of Funds.—Any amount transferred to the Secretary of Transportation un
 
 (d)
 
-Notice to Congress.—In the event of a loss that is covered by vessel war risk insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $1,000,000, the Secretary of Defense shall submit to Congress—
-
-&emsp;(1) notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss; and
-
-&emsp;(2) semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.
+Notice to Congress.—In the event of a loss that is covered by vessel war risk insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $1,000,000, the Secretary of Defense shall submit to Congress notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss.
 
 (e)
 
@@ -36,9 +32,7 @@ Implementing Matters.—(1) Payment of indemnification under this section is not
 
 Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
-(g)
-
-Annual Report on Contingent Liabilities.—Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.).
+\[(g) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(26)(B), Nov. 24, 2003, 117 Stat. 1598.\]
 
 (h)
 
@@ -56,15 +50,19 @@ Vessel war risk insurance fund.—The term “Vessel War Risk Insurance Fund” 
 
 Loss.—The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
 
-(Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903.)
+(Added Pub. L. 104–201, div. A, title X, §1079(b)(1), Sept. 23, 1996, 110 Stat. 2669; amended Pub. L. 105–85, div. A, title X, §1073(a)(57), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 108–136, div. A, title X, §1031(a)(26), Nov. 24, 2003, 117 Stat. 1598.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
 
-The Merchant Marine Act, 1936, referred to in subsecs. (g) and (h)(1), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title XII of the Act is classified generally to subchapter XII (§1281 et seq.) of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
+The Merchant Marine Act, 1936, referred to in subsec. (h)(1), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title XII of the Act is classified generally to subchapter XII (§1281 et seq.) of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136, §1031(a)(26)(A), substituted “Congress” for “Congress—”, struck out par. (1) designation before “notification”, substituted a period for “; and” after “date of the loss”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of such funds, pending litigation, and estimated total cost to the Government.”
+
+Subsec. (g). Pub. L. 108–136, §1031(a)(26)(B), struck out heading and text of subsec. (g). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the vessel war risk insurance program under title XII of the Merchant Marine Act, 1936 (46 U.S.C. App. 1281 et seq.).”
 
 1997—Subsec. (a)(1)(B). Pub. L. 105–85 struck out “on which” after “after the date on which”.
 

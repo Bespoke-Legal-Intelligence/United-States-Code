@@ -28,7 +28,7 @@
 
 2000—Subsec. (c). Pub. L. 106–419 added subsec. (c).
 
-1996—Subsec. (b)(2)(B). Pub. L. 104–275 struck out “, for the purposes of section 1322(a) of title 31,” after “it shall be presumed” and substituted “to the Secretary for payments for entitlement earned under subchapter II of chapter 30” for “as provided in such section”.
+1996—Subsec. (b)(2)(B). Pub. L. 104–275 struck out “, for the purposes of section 1322(a) of title 31,” after“it shall be presumed” and substituted “to the Secretary for payments for entitlement earned under subchapter II of chapter 30” for “as provided in such section”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1632 of this title as this section.
 
@@ -42,7 +42,7 @@ Subsec. (a)(2), (3). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary
 
 Subsec. (a)(4). Pub. L. 101–237, §420(a)(2)(A), added par. (4).
 
-1986—Pub. L. 99–576 amended section generally. Prior to amendment, section read as follows: “No educational assistance benefits shall be afforded an eligible veteran under this chapter beyond the date of 10 years after such veteran's last discharge or release from active duty. In the event an eligible veteran has not utilized any or all of such veterans’ entitlement by the end of the 10-year period, such eligible veteran is automatically disenrolled and any contributions made by such veteran remaining in the fund shall be refunded to the veteran following notice to the veteran and an application by the veteran for such refund. If no application is received within 1 year from date of notice, it will bepresumed for the purposes of section 1322(a) of title 31 that the individual's whereabouts is unknown and the funds shall be transferred as directed in such section.”
+1986—Pub. L. 99–576 amended section generally. Prior to amendment, section read as follows: “No educational assistance benefits shall be afforded an eligible veteran under this chapter beyond the date of 10 years after such veteran's last discharge or release from active duty. In the event an eligible veteran has not utilized any or all of such veterans’ entitlement by the end of the 10-year period, such eligible veteran is automatically disenrolled and any contributions made by such veteran remaining in the fund shall be refunded to the veteran following notice to the veteran and an application by the veteran for such refund. If no application is received within 1 year from date of notice, it will be presumed for the purposes of section 1322(a) of title 31 that the individual's whereabouts is unknown and the funds shall be transferred as directed in such section.”
 
 1983—Pub. L. 98–160 struck out the comma after “title 31” and substituted “such section” for “section 1322(a)”.
 

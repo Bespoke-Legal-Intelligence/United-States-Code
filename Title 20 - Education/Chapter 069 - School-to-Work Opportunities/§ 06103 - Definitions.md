@@ -162,7 +162,7 @@ As used in this chapter:
 
 #### (24) State educational agency
 
-&emsp;The term “State educational agency” means the officer or agency primarily responsible for the State supervision of public elementary and secondary schools.
+&emsp;The term “State educational agency” means the officer or agency primarily responsible forthe State supervision of public elementary and secondary schools.
 
 #### (25) Workplace mentor
 

@@ -46,7 +46,7 @@ The comprehensive plan—
 
 &emsp;(3) shall be submitted in final form, incorporating such needed revisions as arise from comments received during the review period, to the President and the Congress within forty-five days after the close of the period allowed for comments on the draft comprehensive plan under paragraph (2); and
 
-&emsp;(4) shall constitute the basis on which requests for authorizations and appropriations are to be made for the nine fiscal years following the fiscal year in which the comprehensiveplan is submitted in final form under paragraph (3).
+&emsp;(4) shall constitute the basis on which requests for authorizations and appropriations are to be made for the nine fiscal years following the fiscal year in which the comprehensive plan is submitted in final form under paragraph (3).
 
 #### (d) Convening of Task Force
 

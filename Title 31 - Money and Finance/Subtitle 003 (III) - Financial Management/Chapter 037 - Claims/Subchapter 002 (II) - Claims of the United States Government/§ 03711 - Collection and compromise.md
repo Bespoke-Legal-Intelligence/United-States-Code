@@ -114,7 +114,7 @@
 
 &emsp;(D) refer delinquent debts to the person most appropriate to collect the type or amount of claim involved.
 
-(6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge afee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
+(6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge a fee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
 
 (7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the “Account”). Amounts deposited in the Account shall be available until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
 
@@ -150,7 +150,7 @@
 
 (10) To carry out the purposes of this subsection, the Secretary of the Treasury may prescribe such rules, regulations, and procedures as the Secretary considers necessary and transfer such funds from funds appropriated to the Department of the Treasury as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues that result from debt collections.
 
-(h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1), (2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
+(h)(1) The head of an executive, judicial, or legislative agency acting under subsection (a)(1),\(2), or (3) of this section to collect a claim, compromise a claim, or terminate collection action on a claim may obtain a consumer report (as that term is defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) or comparable credit information on any person who is liable for the claim.
 
 (2) The obtaining of a consumer report under this subsection is deemed to be a circumstance or purpose authorized or listed under section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b).
 
@@ -172,7 +172,7 @@
 
 (4)(A) Within one year after the date of enactment of the Debt Collection Improvement Act of 1996, each executive agency with current and delinquent collateralized nontax debts shall report to the Congress on the valuation of its existing portfolio of loans, notes and guarantees, and other collateralized debts based on standards developed by the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury.
 
-(B) The Director of the Office of Management and Budget shall determine what information isrequired to be reported to comply with subparagraph (A). At a minimum, for each financing account and for each liquidating account (as those terms are defined in sections 502(7) and 502(8), respectively, of the Federal Credit Reform Act of 1990) the following information shall be reported:
+(B) The Director of the Office of Management and Budget shall determine what information is required to be reported to comply with subparagraph (A). At a minimum, for each financing account and for each liquidating account (as those terms are defined in sections 502(7) and 502(8), respectively, of the Federal Credit Reform Act of 1990) the following information shall be reported:
 
 &emsp;(i) The cumulative balance of current debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 

@@ -2,9 +2,9 @@
 
 (a)
 
-In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
+In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
-(2) The Secretary of Defense, the Secretary of Transportation, and the Secretary of VeteransAffairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
+(2) The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
 (3) The Secretaries referred to in paragraph (1) shall enter into a detailed agreement to carry out this section.
 
@@ -18,7 +18,7 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(3) Provide information concerning Federal, State, and local programs, and programs of military and veterans’ service organizations, that may be of assistance to such members after separation from the armed forces, including, as appropriate, the information and services to be provided under section 1142 of this title.
 
-&emsp;(4) Inform such members that the Department of Defense and the Department of Transportation are required under section 1143(a) of this title to provide proper certification or verification of job skills and experience acquired while on active duty that may have application to employment in the civilian sector for use in seeking civilian employment and in obtaining job search skills.
+&emsp;(4) Inform such members that the Department of Defense and the Department of Homeland Security are required under section 1143(a) of this title to provide proper certification or verification of job skills and experience acquired while on active duty that may have application to employment in the civilian sector for use in seeking civilian employment and in obtaining job search skills.
 
 &emsp;(5) Provide information and other assistance to such members in their efforts to obtain loans and grants from the Small Business Administration and other Federal, State, and local agencies.
 
@@ -30,7 +30,7 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 (c)
 
-Participation.—The Secretary of Defense and the Secretary of Transportation shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.
+Participation.—The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.
 
 (d)
 
@@ -38,7 +38,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(1) provide, as the case may be, for the use of disabled veterans outreach program specialists, local veterans’ employment representatives, and other employment service personnel funded by the Department of Labor to the extent that the Secretary of Labor determines that such use will not significantly interfere with the provision of services or other benefits to eligible veterans and other eligible recipients of such services or benefits;
 
-&emsp;(2) use military and civilian personnel of the Department of Defense and the Department of Transportation;
+&emsp;(2) use military and civilian personnel of the Department of Defense and the Department of Homeland Security;
 
 &emsp;(3) use personnel of the Veterans Benefits Administration of the Department of Veterans Affairs and other appropriate personnel of that Department;
 
@@ -48,13 +48,15 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(6) take other necessary action to develop and furnish the information and services to be provided under this section.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### References in Text
 
 Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out as a note under section 4100 of Title 38, Veterans’ Benefits.
 
 #### Amendments
+
+2002—Subsecs. (a)(1), (2), (b)(4), (c), (d)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
 
@@ -88,6 +90,10 @@ Subsec. (b)(3). Pub. L. 102–190, §1061(a)(6)(B), substituted “veterans’ s
 
 Subsec. (b)(6). Pub. L. 102–190, §1061(a)(6)(C), substituted “those areas” for “such area”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Implementation Reports
 
 Section 502(c) of Pub. L. 101–510 provided that:
@@ -100,5 +106,5 @@ Section 502(c) of Pub. L. 101–510 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1142 of this title.
+This section is referred to in section 1142 of this title; title 38 section 4113.
 

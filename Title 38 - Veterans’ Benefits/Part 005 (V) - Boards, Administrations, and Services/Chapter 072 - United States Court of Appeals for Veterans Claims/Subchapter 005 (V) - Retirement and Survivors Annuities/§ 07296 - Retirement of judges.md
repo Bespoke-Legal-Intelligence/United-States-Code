@@ -50,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
+(2) A judge who is not reappointed following the expiration of the term for which appointedmay retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
@@ -96,7 +96,7 @@
 
 (2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the duties of the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
 
-(h)(1) An individual who has filed an election to receive retired pay under subsection (c) of this section may revoke such election at any time before the first day on which retired pay would (but for such revocation) begin to accrue with respect to such individual.
+(h)(1) An individual who has filed an election to receive retired pay under subsection (c) ofthis section may revoke such election at any time before the first day on which retired pay would (but for such revocation) begin to accrue with respect to such individual.
 
 (2) Any revocation under this subsection shall be made by filing a notice of the election in writing with the Director of the Office of Personnel Management. The Office of Personnel Management shall transmit to the chief judge a copy of each notice filed under this subsection.
 
@@ -264,7 +264,7 @@ Modified Terms.—The term of office of the first two judges appointed to the Co
 
 “(b)
 
-Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of the Court whose term of office is determined under subsection (a)—
+Eligibility for Retirement.—(1) For purposes of determining the eligibility to retire under section 7296 of title 38, United States Code, of the two judges of theCourt whose term of office is determined under subsection (a)—
 
 &emsp;“(A) the age and service requirements in the table in paragraph (2) shall apply to those judges rather than the otherwise applicable age and service requirements specified in the table in subsection (b)(1) of that section; and
 

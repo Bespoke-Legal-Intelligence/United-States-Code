@@ -58,5 +58,5 @@ Not later than May 1, 2003, the United States Sentencing Commission shall submit
 
 #### Codification
 
-Section is comprised of section 225 of Pub. L. 107–296. Subsecs. (d)(1) and (e) to (j) of section 225 of Pub. L.107–296 amended sections 1030, 2511, 2512, 2520, 2701 to 2703, and 3125 of Title 18, Crimes and Criminal Procedure.
+Section is comprised of section 225 of Pub. L. 107–296. Subsecs. (d)(1) and (e) to (j) of section 225 of Pub. L. 107–296 amended sections 1030, 2511, 2512, 2520, 2701 to 2703, and 3125 of Title 18, Crimes and Criminal Procedure.
 

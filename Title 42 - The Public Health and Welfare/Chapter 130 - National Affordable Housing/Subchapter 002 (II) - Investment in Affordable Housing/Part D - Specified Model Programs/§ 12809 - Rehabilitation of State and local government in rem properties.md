@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available a model program under which States and units of generallocal government may convert in rem properties to provide affordable permanent housing for the homeless by leasing such properties to nonprofit organizations and permitting such organizations to rehabilitate the properties.
+The Secretary shall make available a model program under which States and units of general local government may convert in rem properties to provide affordable permanent housing for the homeless by leasing such properties to nonprofit organizations and permitting such organizations to rehabilitate the properties.
 
 #### (b) Target
 

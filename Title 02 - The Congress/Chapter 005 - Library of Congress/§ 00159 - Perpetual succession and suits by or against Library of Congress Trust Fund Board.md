@@ -6,7 +6,7 @@ The board shall have perpetual succession, with all the usual powers and obligat
 
 #### Amendments
 
-1926—Act Jan. 27, 1926, inserted “including the power to sell” in first sentence.
+<b>1926</b>—Act Jan. 27, 1926, inserted “including the power to sell” in first sentence.
 
 #### Change of Name
 

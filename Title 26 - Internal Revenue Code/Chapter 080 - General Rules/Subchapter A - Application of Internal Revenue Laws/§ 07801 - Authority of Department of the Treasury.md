@@ -68,7 +68,7 @@ Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III
 
 #### Savings Provision
 
-Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
+Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal RevenueService appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
 
 #### Transfer of Functions
 
@@ -80,35 +80,7 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 #### Elimination of User Fee for Requests to IRS Regarding Pension Plans
 
-Pub. L. 107–16, title VI, §620, June 7, 2001, 115 Stat. 110, provided that:
-
-“(a)
-
-Elimination of Certain User Fees.—The Secretary of the Treasury or the Secretary's delegate shall not require payment of user fees under the program established under section 10511 of the Revenue Act of 1987 \[Pub. L. 100–203, title X, set out as a note below\] for requests to the Internal Revenue Service for determination letters with respect to the qualified status of a pension benefit plan maintained solely by one or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
-
-&emsp;“(1) made after the later of—
-
-&emsp;&emsp;“(A) the fifth plan year the pension benefit plan is in existence; or
-
-&emsp;&emsp;“(B) the end of any remedial amendment period with respect to the plan beginning within the first 5 plan years; or
-
-&emsp;“(2) made by the sponsor of any prototype or similar plan which the sponsor intends to market to participating employers.
-
-“(b)
-
-Pension Benefit Plan.—For purposes of this section, the term ‘pension benefit plan’ means a pension, profit-sharing, stock bonus, annuity, or employee stock ownership plan.
-
-“(c)
-
-Eligible Employer.—For purposes of this section, the term ‘eligible employer’ means an eligible employer (as defined in section 408(p)(2)(C)(i)(I) of the Internal Revenue Code of 1986) which has at least one employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under this section shall be made as of the date of the request described in subsection (a).
-
-“(d)
-
-Determination of Average Fees Charged.—For purposes of any determination of average fees charged, any request to which subsection (a) applies shall not be taken into account.
-
-“(e)
-
-Effective Date.—The provisions of this section shall apply with respect to requests made after December 31, 2001.”
+Pub. L. 107–16, title VI, §620, June 7, 2001, 115 Stat. 110, related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by Pub. L. 108–89, title II, §202(b)(3), Oct. 1, 2003, 117 Stat. 1133.
 
 #### Itemized Income Tax Receipt
 
@@ -116,7 +88,7 @@ Pub. L. 106–58, title VI, §650, Sept. 29, 1999, 113 Stat. 479, provided that:
 
 “(a)
 
-In General.—Not later than April 15, 2000, the Secretary of the Treasury shall establish an interactive program on an Internet website where any taxpayermay generate an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer's total tax payments among the major expenditure categories.
+In General.—Not later than April 15, 2000, the Secretary of the Treasury shall establish an interactive program on an Internet website where any taxpayer may generate an itemized receipt showing a proportionate allocation (in money terms) of the taxpayer's total tax payments among the major expenditure categories.
 
 “(b)
 
@@ -456,7 +428,7 @@ Appointment.—It is the sense of the Congress that members of the Committee \[C
 
 &emsp;&emsp;“(B)
 
-Initial meeting.—If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet andselect Co-Chairs who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
+Initial meeting.—If, after 60 days from the date of the enactment of this section, seven or more members of the Commission have been appointed, members who have been appointed may meet and select Co-Chairs who thereafter shall have the authority to begin the operations of the Commission, including the hiring of staff.
 
 “(c)
 
@@ -546,7 +518,7 @@ Staff of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, UnitedStates Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;“(2)
 
@@ -576,7 +548,7 @@ Final report.—Not later than 15 months after the date of the first meeting of 
 
 &emsp;“(2)
 
-Termination.—(A) The Commission, and all the authorities of this section, shall terminate on thedate which is 60 days after the date on which a final report is required to be transmitted under paragraph (1).
+Termination.—(A) The Commission, and all the authorities of this section, shall terminate on the date which is 60 days after the date on which a final report is required to be transmitted under paragraph (1).
 
 &emsp;“(B) The Commission may use the 60-day period referred to in subparagraph (A) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its final report and disseminating that report.
 
@@ -622,65 +594,7 @@ Distribution.—The statement prepared in accordance with subsections (a) and (b
 
 #### Fees for Requests for Ruling, Determination, and Similar Letters
 
-Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, provided that:
-
-“(a)
-
-General Rule.—The Secretary of the Treasury or his delegate (hereinafter in this section referred to as the ‘Secretary’) shall establish a program requiring the payment of user fees for requests to the Internal Revenue Service for ruling letters, opinion letters, and determination letters and for similar requests.
-
-“(b)
-
-Program Criteria.—
-
-&emsp;“(1)
-
-In general.—The fees charged under the program required by subsection (a)—
-
-&emsp;&emsp;“(A) shall vary according to categories (or subcategories) established by the Secretary,
-
-&emsp;&emsp;“(B) shall be determined after taking into account the average time for (and difficulty of) complying with requests in each category (and subcategory), and
-
-&emsp;&emsp;“(C) shall be payable in advance.
-
-&emsp;“(2)
-
-Exemptions, etc.—The Secretary shall provide for such exemptions (and reduced fees) under such program as he determines to be appropriate.
-
-&emsp;“(3)
-
-Average fee requirement.—The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table:
-
-<b> “Category</b>
-
-<b>Average Fee</b>
-
-&emsp;&emsp;Employee plan ruling and opinion
-
-$250&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Exempt organization ruling
-
-$350&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Employee plan determination
-
-$300&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Exempt organization determination
-
-$275&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;Chief counsel ruling
-
-$200.&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-“(c)
-
-Application of Section.—Subsection (a) shall apply with respect to requests made on or after the 1st day of the second calendar month beginning after the date of the enactment of this Act \[Dec. 22, 1987\] and before September 30, 1990. Subsection (a) shall also apply with respect to requests made after September 30, 1990, and before October 1, 2003.”
-
-\[Section 11319(b) of Pub. L. 101–508 provided that: “The amendment made by this section \[amending section 10511 of Pub. L. 100–203 set out above\] shall take effect on September 29, 1990, except that no advance payment shall be required for any fee for any requests filed after September 29, 1990, and before the 30th day after the date of the enactment of this Act \[Nov. 5, 1990\].”\]
+Pub. L. 100–203, title X, §10511, Dec. 22, 1987, 101 Stat. 1330–446, as amended by Pub. L. 101–508, title XI, §11319(a), Nov. 5, 1990, 104 Stat. 1388–460; Pub. L. 103–465, title VII, §743, Dec. 8, 1994, 108 Stat. 5011; Pub. L. 104–117, §2, Mar. 20, 1996, 110 Stat. 828, related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by Pub. L. 108–89, title II, §202(b)(2), Oct. 1, 2003, 117 Stat. 1133.
 
 #### Study of Tax Incentives for Expenditures Required by Occupational Safety and Health Administration and Mining Health and Safety Administration
 

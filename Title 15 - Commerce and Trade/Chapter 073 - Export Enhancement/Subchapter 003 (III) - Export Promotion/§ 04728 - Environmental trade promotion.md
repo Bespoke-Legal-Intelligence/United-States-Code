@@ -18,7 +18,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;The members of the Working Group shall be—
 
-&emsp;&emsp;(A) representatives of the departments and agencies that are represented on the TPCC, who are designated by the head of their respective departments or agencies to advisethe head of such department or agency on ways of promoting the export of United States environmental technologies, goods, and services; and
+&emsp;&emsp;(A) representatives of the departments and agencies that are represented on the TPCC, who are designated by the head of their respective departments or agencies to advise the head of such department or agency on ways of promoting the export of United States environmental technologies, goods, and services; and
 
 &emsp;&emsp;(B) a representative of the Environmental Protection Agency.
 
@@ -88,7 +88,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 #### (1) Assignment of environmental technologies specialists
 
-&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods, and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
+&emsp;The Secretary shall assign a specialist in environmental technologies to the office of the United States and Foreign Commercial Service in each of the 5 priority countries selected under subsection (d)(1) of this section, and the Secretary is authorized to assign such a specialist to the office of the United States and Foreign Commercial Service in any country that is a promising market for United States exports of environmental technologies, goods,and services. Such specialist may be an employee of the Department, an employee of any relevant United States Government department or agency assigned on a temporary or limited term basis to the Commerce Department, or a representative of the private sector assigned to the Department of Commerce.
 
 #### (2) Duties of environmental technologies specialists
 

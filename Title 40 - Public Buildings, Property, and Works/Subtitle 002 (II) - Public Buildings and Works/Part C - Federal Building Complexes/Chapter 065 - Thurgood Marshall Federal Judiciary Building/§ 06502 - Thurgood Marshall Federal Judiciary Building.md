@@ -14,7 +14,7 @@ Squares 721 and 722.—Title to squares 721 and 722 remains in the Federal Gover
 
 &emsp;(2)
 
-Building.—Title to the Building and other improvements constructed or otherwise made immediately reverts to the Government at the expiration of not more than 30 years from the effective date of the lease agreement referred to in section 6504 of this title without payment of any compensation by the Government.
+Building.—Title to the Building and other improvements constructed or otherwise made immediately reverts to the Government at the expiration of not more than 30 years from the effective date of the lease agreement referred to in section 6504 of this title withoutpayment of any compensation by the Government.
 
 (c)
 
@@ -26,7 +26,7 @@ Size of building.—The Building (excluding parking facilities) may not exceed 5
 
 &emsp;(2)
 
-Height of building.—The height of the Building and other improvements shall becompatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, 36 Stat. 452) (known as the Building Height Act of 1910).
+Height of building.—The height of the Building and other improvements shall be compatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, 36 Stat. 452) (known as the Building Height Act of 1910).
 
 &emsp;(3)
 

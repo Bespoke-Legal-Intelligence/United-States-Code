@@ -4,7 +4,7 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 &emsp;(a) agree to an increase in the subscription of the United States to the Fund;
 
-&emsp;(b) vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which would change the purpose or functions of the Fund; or
+&emsp;(b) vote for or agree to any amendment of the agreement which increases the obligationsof the United States, or which would change the purpose or functions of the Fund; or
 
 &emsp;(c) make a loan or provide other financing to the Fund, except that funds for technical assistance may be provided to the Fund by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 

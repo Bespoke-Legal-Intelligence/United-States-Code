@@ -218,7 +218,7 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 #### Effective Date of 1991 Amendment
 
-Section 336(c)(1) of Pub. L. 102–25 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to deaths on or after the date of the enactment of this Act \[Apr. 6, 1991\].”
+Section 336(c)(1) of Pub. L. 102–25 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths on or after the date of the enactment of this Act \[Apr. 6, 1991\].”
 
 #### Effective Date of 1985 Amendment
 

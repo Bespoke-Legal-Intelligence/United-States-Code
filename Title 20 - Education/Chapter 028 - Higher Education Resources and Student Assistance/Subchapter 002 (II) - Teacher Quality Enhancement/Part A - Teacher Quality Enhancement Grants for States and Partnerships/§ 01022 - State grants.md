@@ -12,7 +12,7 @@ From amounts made available under section 1030(1) of this title for a fiscal yea
 
 &emsp;&emsp;(A) the Governor of a State; or
 
-&emsp;&emsp;(B) in the case of a State for which the constitution or law of such State designates another individual, entity, or agency in the State to be responsible for teacher certification and preparation activity, such individual, entity, or agency.
+&emsp;&emsp;(B) in the case of a State for which the constitution or law of such State designatesanother individual, entity, or agency in the State to be responsible for teacher certification and preparation activity, such individual, entity, or agency.
 
 #### (2) Consultation
 

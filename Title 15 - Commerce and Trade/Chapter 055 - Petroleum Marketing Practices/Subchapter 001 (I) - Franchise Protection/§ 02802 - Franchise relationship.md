@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 #### (b) Precondition and grounds for termination or nonrenewal
 
-(1) Any franchisor may terminate any franchise (entered into or renewed on or after June19, 1978) or may fail to renew any franchise relationship, if—
+(1) Any franchisor may terminate any franchise (entered into or renewed on or after June 19, 1978) or may fail to renew any franchise relationship, if—
 
 &emsp;(A) the notification requirements of section 2804 of this title are met; and
 
@@ -56,7 +56,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;&emsp;(iii) in the case of leased marketing premises—
 
-&emsp;&emsp;&emsp;(I) the franchisor, during the 180-day period after notification was given pursuant to section 2804 of this title, either made a bona fide offer to sell, transfer, or assign to the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or
+&emsp;&emsp;&emsp;(I) the franchisor, during the 180-day period after notification was given pursuant to section 2804 of this title, either made a bona fide offer to sell, transfer, or assignto the franchisee such franchisor's interests in such premises, or, if applicable, offered the franchisee a right of first refusal of at least 45 days duration of an offer, made by another, to purchase such franchisor's interest in such premises; or
 
 &emsp;&emsp;&emsp;(II) in the case of the sale, transfer, or assignment to another person of the franchisor's interest in such premises in connection with the sale, transfer, or assignment to such other person of the franchisor's interest in one or more other marketing premises, if such other person offers, in good faith, a franchise to the franchisee on terms and conditions which are not discriminatory to the franchisee as compared to franchises then currently being offered by such other person or franchises then in effect and with respect to which such other person is the franchisor.
 
@@ -66,7 +66,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;&emsp;(i) such changes or additions are the result of determinations made by the franchisor in good faith and in the normal course of business; and
 
-&emsp;&emsp;(ii) such failure is not the result of the franchisor's insistence upon such changes or additions for the purpose of converting the leased marketing premises to operation by employees or agents of the franchisor for thebenefit of the franchisor or otherwise preventing the renewal of the franchise relationship.
+&emsp;&emsp;(ii) such failure is not the result of the franchisor's insistence upon such changes or additions for the purpose of converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise preventing the renewal of the franchise relationship.
 
 &emsp;(B) The receipt of numerous bona fide customer complaints by the franchisor concerning the franchisee's operation of the marketing premises, if—
 
@@ -128,7 +128,7 @@ As used in subsection (b)(2)(C) of this section, the term “an event which is r
 
 &emsp;&emsp;(C) in a situation in which the franchisee acquires possession of the leased marketing premises effective immediately after the loss of the right of the franchisor to grant possession (through an assignment pursuant to subparagraph (B) or by obtaining a new lease or purchasing the marketing premises from the landowner), the franchisor (if requested in writing by the franchisee not later than 30 days after notification was given pursuant to section 2804 of this title), during the 90-day period after notification was given pursuant to section 2804 of this title—
 
-&emsp;&emsp;&emsp;(i) made a bona fide offer to sell, transfer, or assign to the franchisee the interestof the franchisor in any improvements or equipment located on the premises; or
+&emsp;&emsp;&emsp;(i) made a bona fide offer to sell, transfer, or assign to the franchisee the interest of the franchisor in any improvements or equipment located on the premises; or
 
 &emsp;&emsp;&emsp;(ii) if applicable, offered the franchisee a right of first refusal (for at least 45 days) of an offer, made by another person, to purchase the interest of the franchisor in the improvements and equipment.
 

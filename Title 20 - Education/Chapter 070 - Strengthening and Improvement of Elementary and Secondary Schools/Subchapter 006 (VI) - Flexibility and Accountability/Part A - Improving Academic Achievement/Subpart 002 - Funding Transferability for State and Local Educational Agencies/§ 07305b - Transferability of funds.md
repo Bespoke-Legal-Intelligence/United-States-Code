@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with this subpart, a local educational agency (except a local educational agency identified for improvement under section 6316(c) of this title or subject to corrective action under section 6316(c)(9) <sup>1</sup> of this title) may transfer not more than 50 percent of the funds allocated to it (including funds transferred under subparagraph (C)) under each of the provisions listed in paragraph (2) for a fiscal year to one or more of its allocations for such fiscal year under any other provision listed in paragraph (2).
+&emsp;&emsp;In accordance with this subpart, a local educational agency (except a local educational agency identified for improvement under section 6316(c) of this title or subject to corrective action under section 6316(c)(9) <sup>1</sup> of this title) may transfer not more than 50 percent of the funds allocated to it (including funds transferred under subparagraph (C)) under each of the provisions listed in paragraph (2) for a fiscal year to one or moreof its allocations for such fiscal year under any other provision listed in paragraph (2).
 
 #### (B) Agencies identified for improvement
 

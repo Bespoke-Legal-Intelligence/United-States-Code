@@ -172,7 +172,7 @@ Sec. 103. Regulations prescribed under authority delegated by the provisions of 
 
 (b) In the case of regulations prescribed by the Secretaries of the military departments, shall require the approval of the Secretary of Defense.
 
-(c) Shall not, with respect to any locality, authorize allowances or differentials which exceed those prescribed under Executive Order No. 10903 of January 9,1961, \[set out as a note under this section\], for other employees of the United States in the same locality.
+(c) Shall not, with respect to any locality, authorize allowances or differentials which exceed those prescribed under Executive Order No. 10903 of January 9, 1961, \[set out as a note under this section\], for other employees of the United States in the same locality.
 
 Sec. 104. Executive Order No. 10903 of January 9, 1961, \[set out as a note under this section\], is hereby modified to the extent of the definition and the delegations of authority contained in Sections 101 and 102 hereof.
 

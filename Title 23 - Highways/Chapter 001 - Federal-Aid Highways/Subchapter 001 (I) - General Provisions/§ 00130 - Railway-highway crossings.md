@@ -16,7 +16,7 @@ Funds for Protective Devices.—At least 1/2 of the funds authorized for and exp
 
 (f)
 
-Apportionment.—Twenty-five percent of the funds authorized to be appropriated to carry out this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) <sup>1</sup> of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.
+Apportionment.—Twenty-five percent of the funds authorized to be appropriated to carryout this section shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(2) of this title, 25 percent of such funds shall be apportioned to the States in the same manner as sums are apportioned under section 104(b)(6) <sup>1</sup> of this title, and 50 percent of such funds shall be apportioned to the States in the ratio that total railway-highway crossings in each State bears to the total of such crossings in all States. The Federal share payable on account of any project financed with funds authorized to be appropriated to carry out this section shall be 90 percent of the cost thereof.
 
 (g)
 
@@ -128,7 +128,7 @@ Partnership and oversight.—The Secretary shall encourage each State to make pr
 
 #### Vehicle Proximity Alert System
 
-Pub. L. 102–240, title I, §1072, Dec. 18, 1991, 105 Stat. 2012, provided that: “The Secretary shall coordinatethe field testing of the vehicle proximity alert system and comparable systems to determine their feasibility for use by priority vehicles as an effective railroad-highway grade crossing safety device. In the event the vehicle proximity alert or a comparable system proves to be technologically and economically feasible, the Secretary shall develop and implement appropriate programs under section 130 of title 23, United States Code, to provide for installation of such devices where appropriate.”
+Pub. L. 102–240, title I, §1072, Dec. 18, 1991, 105 Stat. 2012, provided that: “The Secretary shall coordinate the field testing of the vehicle proximity alert system and comparable systems to determine their feasibility for use by priority vehicles as an effective railroad-highway grade crossing safety device. In the event the vehicle proximity alert or a comparable system proves to be technologically and economically feasible, the Secretary shall develop and implement appropriate programs under section 130 of title 23, United States Code, to provide for installation of such devices where appropriate.”
 
 #### Railway-Highway Crossing Hazards; National Highway Information Program Funding
 
@@ -172,7 +172,7 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(j) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Augusta, Georgia, for the relocation of railroad lines and for the purpose of eliminating highway railroad grade crossings.
 
-“(k) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out ademonstration project in Pine Bluff, Arkansas, for the relocation of railroad lines for the purpose of eliminating highway railroad grade crossings.
+“(k) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Pine Bluff, Arkansas, for the relocation of railroad lines for the purpose of eliminating highway railroad grade crossings.
 
 “(<i>l</i>) The Secretary of Transportation shall carry out a demonstration project in Sherman, Texas, for the relocation of rail lines in order to eliminate the ground level railroad crossing at the crossing of the Southern Pacific and Frisco Railroads with Grand Avenue-Roberts Road.
 

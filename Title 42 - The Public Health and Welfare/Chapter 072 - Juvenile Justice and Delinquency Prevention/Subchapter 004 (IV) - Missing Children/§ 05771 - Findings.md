@@ -1,72 +1,32 @@
 ### §5771. Findings
 
-The Congress hereby finds that—
+The Congress finds that—
 
-&emsp;(1) each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent's consent, under circumstances which immediately place them in grave danger;
+&emsp;(1) each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent's consent, under circumstances which immediately place the child in grave danger;
 
-&emsp;(2) many of these children are never reunited with their families;
+&emsp;(2) many missing children are at great risk of both physical harm and sexual exploitation;
 
-&emsp;(3) often there are no clues to the whereabouts of these children;
+&emsp;(3) in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;
 
-&emsp;(4) many missing children are at great risk of both physical harm and sexual exploitation;
+&emsp;(4) abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;
 
-&emsp;(5) in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;
+&emsp;(5) the National Center for Missing and Exploited Children—
 
-&emsp;(6) abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;
+&emsp;&emsp;(A) serves as the national resource center and clearinghouse;
 
-&emsp;(7) on frequent occasions, law enforcement authorities quickly exhaust all leads in missing children cases, and require assistance from distant communities where the child may be located;
+&emsp;&emsp;(B) works in partnership with the Department of Justice, the Federal Bureau of Investigation, the Department of the Treasury, the Department of State, and many other agencies in the effort to find missing children and prevent child victimization; and
 
-&emsp;(8) Federal assistance is urgently needed to coordinate and assist in this interstate problem;
+&emsp;&emsp;(C) operates a national and increasingly worldwide network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which enable the Center to transmit images and information regarding missing children to law enforcement across the United States and around the world instantly.
 
-&emsp;(9) for 14 years, the National Center for Missing and Exploited Children has—
-
-&emsp;&emsp;(A) served as the national resource center and clearinghouse congressionally mandated under the provisions of this subchapter; and
-
-&emsp;&emsp;(B) worked in partnership with the Department of Justice, the Federal Bureau of Investigation, the Department of the Treasury, the Department of State, and many other agencies in the effort to find missing children and prevent child victimization;
-
-&emsp;(10) Congress has given the Center, which is a private nonprofit corporation, access to the National Crime Information Center of the Federal Bureau of Investigation, and the National Law Enforcement Telecommunications System;
-
-&emsp;(11) since 1987, the Center has operated the National Child Pornography Tipline, in conjunction with the United States Customs Service and the United States Postal Inspection Service and, beginning this year, the Center established a new CyberTipline on child exploitation, thus becoming “the 911 for the Internet”;
-
-&emsp;(12) in light of statistics that time is of the essence in cases of child abduction, the Director of the Federal Bureau of Investigation in February of 1997 created a new NCIC child abduction (“CA”) flag to provide the Center immediate notification in the most serious cases, resulting in 642 “CA” notifications to the Center and helping the Center to have its highest recovery rate in history;
-
-&emsp;(13) the Center has established a national and increasingly worldwide network, linking the Center online with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, and Puerto Rico, as well as with Scotland Yard in the United Kingdom, the Royal Canadian Mounted Police, INTERPOL headquarters in Lyon, France, and others, which has enabled the Center to transmit images and information regarding missing children to law enforcement across the United States and around the world instantly;
-
-&emsp;(14) from its inception in 1984 through March 31, 1998, the Center has—
-
-&emsp;&emsp;(A) handled 1,203,974 calls through its 24-hour toll-free hotline (1–800–THE–LOST) and currently averages 700 calls per day;
-
-&emsp;&emsp;(B) trained 146,284 law enforcement, criminal and juvenile justice, and healthcare professionals in child sexual exploitation and missing child case detection, identification, investigation, and prevention;
-
-&emsp;&emsp;(C) disseminated 15,491,344 free publications to citizens and professionals; and
-
-&emsp;&emsp;(D) worked with law enforcement on the cases of 59,481 missing children, resulting in the recovery of 40,180 children;
-
-&emsp;(15) the demand for the services of the Center is growing dramatically, as evidenced by the fact that in 1997, the Center handled 129,100 calls, an all-time record, and by the fact that its new Internet website (www.missingkids.com) receives 1,500,000 “hits” every day, and is linked with hundreds of other websites to provide real-time images of breaking cases of missing children;
-
-&emsp;(16) in 1997, the Center provided policy training to 256 police chiefs and sheriffs from 50 States and Guam at its new Jimmy Ryce Law Enforcement Training Center;
-
-&emsp;(17) the programs of the Center have had a remarkable impact, such as in the fight against infant abductions in partnership with the healthcare industry, during which the Center has performed 668 onsite hospital walk-throughs and inspections, and trained 45,065 hospital administrators, nurses, and security personnel, and thereby helped to reduce infant abductions in the United States by 82 percent;
-
-&emsp;(18) the Center is now playing a significant role in international child abduction cases, serving as a representative of the Department of State at cases under The Hague Convention, and successfully resolving the cases of 343 international child abductions, and providing greater support to parents in the United States;
-
-&emsp;(19) the Center is a model of public/private partnership, raising private sector funds to match congressional appropriations and receiving extensive private in-kind support, including advanced technology provided by the computer industry such as imaging technology used to age the photographs of long-term missing children and to reconstruct facial images of unidentified deceased children;
-
-&emsp;(20) the Center was 1 of only 10 of 300 major national charities given an A+ grade in 1997 by the American Institute of Philanthropy; and
-
-&emsp;(21) the Center has been redesignated as the Nation's missing children clearinghouse and resource center once every 3 years through a competitive selection process conducted by the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice, and has received grants from that Office to conduct the crucial purposes of the Center.
-
-(Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032.)
-
-#### References in Text
-
-This subchapter, referred to in par. (9)(A), was in the original “Missing Children's Assistance Act of 1984”and was translated as meaning the “Missing Children's Assistance Act”, which enacted this subchapter, to reflect the probable intent of Congress.
+(Pub. L. 93–415, title IV, §402, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2125;amended Pub. L. 106–71, §2(a), Oct. 12, 1999, 113 Stat. 1032; Pub. L. 108–96, title II, §201, Oct. 10, 2003, 117 Stat. 1171.)
 
 #### Prior Provisions
 
 A prior section 402 of Pub. L. 93–415 amended section 3888 of this title and repealed section 3889 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+
+2003—Pub. L. 108–96 amended section generally. Prior to amendment, section consisted of pars. (1) to (21) stating findings of Congress.
 
 1999—Pars. (9) to (21). Pub. L. 106–71 added pars. (9) to (21).
 
@@ -77,8 +37,4 @@ Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set 
 #### Short Title
 
 For short title of title IV of Pub. L. 93–415, which enacted this subchapter, as the “Missing Children's Assistance Act”, see section 401 of Pub. L. 93–415, as added by Pub. L. 98–473, set out as a note under section 5601 of this title.
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

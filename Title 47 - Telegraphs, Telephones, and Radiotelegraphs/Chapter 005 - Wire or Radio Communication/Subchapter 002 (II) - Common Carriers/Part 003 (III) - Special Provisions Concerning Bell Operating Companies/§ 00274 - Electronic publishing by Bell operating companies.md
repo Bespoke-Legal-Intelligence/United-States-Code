@@ -2,7 +2,7 @@
 
 #### (a) Limitations
 
-No Bell operating company or any affiliate may engage in the provision of electronic publishing that is disseminated by means of such Bell operating company's or any of its affiliates’ basic telephone service, except that nothing inthis section shall prohibit a separated affiliate or electronic publishing joint venture operated in accordance with this section from engaging in the provision of electronic publishing.
+No Bell operating company or any affiliate may engage in the provision of electronic publishing that is disseminated by means of such Bell operating company's or any of its affiliates’ basic telephone service, except that nothing in this section shall prohibit a separated affiliate or electronic publishing joint venture operated in accordance with this section from engaging in the provision of electronic publishing.
 
 #### (b) Separated affiliate or electronic publishing joint venture requirements
 
@@ -62,7 +62,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (C) Electronic publishing joint ventures
 
-&emsp;&emsp;A Bell operating company or affiliate may participate on a nonexclusive basis in electronic publishing joint ventures with entities that are not a Bell operating company, affiliate, or separated affiliate to provide electronic publishing services, if the Bell operating company or affiliate has not more than a 50 percent direct or indirect equity interest (or the equivalent thereof) or the right to more than 50 percent of the gross revenues under a revenue sharing or royalty agreement in any electronic publishing joint venture. Officers and employees of a Bell operating company or affiliate participating in an electronic publishing joint venture may not have more than 50 percent of the voting control over the electronic publishing joint venture. In the case of joint ventures with small, local electronic publishers, the Commission for good cause shown may authorize the Bell operating company or affiliate to have a larger equity interest, revenue share,or voting control but not to exceed 80 percent. A Bell operating company participating in an electronic publishing joint venture may provide promotion, marketing, sales, or advertising personnel and services to such joint venture.
+&emsp;&emsp;A Bell operating company or affiliate may participate on a nonexclusive basis in electronic publishing joint ventures with entities that are not a Bell operating company, affiliate, or separated affiliate to provide electronic publishing services, if the Bell operating company or affiliate has not more than a 50 percent direct or indirect equity interest (or the equivalent thereof) or the right to more than 50 percent of the gross revenues under a revenue sharing or royalty agreement in any electronic publishing joint venture. Officers and employees of a Bell operating company or affiliate participating inan electronic publishing joint venture may not have more than 50 percent of the voting control over the electronic publishing joint venture. In the case of joint ventures with small, local electronic publishers, the Commission for good cause shown may authorize the Bell operating company or affiliate to have a larger equity interest, revenue share, or voting control but not to exceed 80 percent. A Bell operating company participating in an electronic publishing joint venture may provide promotion, marketing, sales, or advertising personnel and services to such joint venture.
 
 #### (d) Bell operating company requirement
 
@@ -136,7 +136,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 As used in this section—
 
-&emsp;(1) The term “affiliate” means any entity that, directly or indirectly, owns or controls, is owned or controlled by, or is under common ownership or control with, a Bell operatingcompany. Such term shall not include a separated affiliate.
+&emsp;(1) The term “affiliate” means any entity that, directly or indirectly, owns or controls, is owned or controlled by, or is under common ownership or control with, a Bell operating company. Such term shall not include a separated affiliate.
 
 &emsp;(2) The term “basic telephone service” means any wireline telephone exchange service, or wireline telephone exchange service facility, provided by a Bell operating company in a telephone exchange area, except that such term does not include—
 

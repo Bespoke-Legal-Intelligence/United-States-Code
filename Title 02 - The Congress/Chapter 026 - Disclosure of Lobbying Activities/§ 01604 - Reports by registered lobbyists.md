@@ -10,7 +10,7 @@ Each semiannual report filed under subsection (a) of this section shall contain�
 
 &emsp;(1) the name of the registrant, the name of the client, and any changes or updates to the information provided in the initial registration;
 
-&emsp;(2) for each general issue area in which the registrant engaged in lobbying activities on behalf of the client during the semiannual filing period—
+&emsp;(2) for each general issue area in which the registrant engaged in lobbying activities onbehalf of the client during the semiannual filing period—
 
 &emsp;&emsp;(A) a list of the specific issues upon which a lobbyist employed by the registrant engaged in lobbying activities, including, to the maximum extent practicable, a list of bill numbers and references to specific executive branch actions;
 
@@ -36,7 +36,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 #### Amendments
 
-1998—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
 
 #### Section Referred to in Other Sections
 

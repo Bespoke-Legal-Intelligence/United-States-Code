@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 99–514, §701(e)(3), substituted “and tax preferences�
 
 &emsp;“(1) in the case of a taxpayer other than a corporation, the alternative minimum taxable income for the short period shall be placed on an annual basis by multiplying that amount by 12 and dividing the result by the number of months in the short period, and the amount computed under paragraph (1) of section 55(a) shall be the same part of the tax computed on the annual basis as the number of months in the short period is of 12 months; and
 
-&emsp;“(2) the $10,000 amount specified in section 56 (relating to minimum tax for tax preferences), modified as provided by section 58, shall be reduced to the amount which bears the same ratio to such specified amount as the number of days in the short period bears to 365.”
+&emsp;“(2) the $10,000 amount specified in section 56 (relating to minimum tax for tax preferences), modified asprovided by section 58, shall be reduced to the amount which bears the same ratio to such specified amount as the number of days in the short period bears to 365.”
 
 1983—Subsec. (e). Pub. L. 97–448 substituted “section 1398(d)(2)(E)” for “section 1398(d)(3)(E)”.
 

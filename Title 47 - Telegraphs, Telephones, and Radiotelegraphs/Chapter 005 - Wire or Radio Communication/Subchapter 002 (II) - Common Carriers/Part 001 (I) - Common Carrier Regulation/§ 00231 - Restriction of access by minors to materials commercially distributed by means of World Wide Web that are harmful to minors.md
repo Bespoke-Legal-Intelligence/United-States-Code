@@ -4,7 +4,7 @@
 
 #### (1) Prohibited conduct
 
-&emsp;Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmful to minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
+&emsp;Whoever knowingly and with knowledge of the character of the material, in interstate or foreign commerce by means of the World Wide Web, makes any communication for commercial purposes that is available to any minor and that includes any material that is harmfulto minors shall be fined not more than $50,000, imprisoned not more than 6 months, or both.
 
 #### (2) Intentional violations
 
@@ -12,7 +12,7 @@
 
 #### (3) Civil penalty
 
-&emsp;In addition to the penalties under paragraphs (1) and (2), whoever violates paragraph (1) shall be subject to a civil penalty of notmore than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
+&emsp;In addition to the penalties under paragraphs (1) and (2), whoever violates paragraph (1) shall be subject to a civil penalty of not more than $50,000 for each violation. For purposes of this paragraph, each day of violation shall constitute a separate violation.
 
 #### (b) Inapplicability of carriers and other service providers
 
@@ -84,11 +84,11 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (3) Internet
 
-&emsp;The term “Internet” means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that employ the Transmission Control Protocol/Internet Protocol or any successor protocol to transmit information.
+&emsp;The term “Internet” means the combination of computer facilities and electromagnetictransmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that employ the Transmission Control Protocol/Internet Protocol or any successor protocol to transmit information.
 
 #### (4) Internet access service
 
-&emsp;The term “Internet access service” means a service that enables users to access content, information, electronic mail, or other servicesoffered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. Such term does not include telecommunications services.
+&emsp;The term “Internet access service” means a service that enables users to access content, information, electronic mail, or other services offered over the Internet, and may also include access to proprietary content, information, and other services as part of a package of services offered to consumers. Such term does not include telecommunications services.
 
 #### (5) Internet information location tool
 
@@ -274,5 +274,5 @@ Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Commit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 230 of this title.
+This section is referred to in section 230 of this title; title 15 sections 7702, 7707.
 

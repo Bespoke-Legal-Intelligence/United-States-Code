@@ -18,11 +18,11 @@
 
 #### (2) Expression of serious interest
 
-&emsp;During the 90-day period beginning on the date that notice under paragraph (1) concerning a covered property is first published, any governmental agency or qualified organization may submit to the corporation concerned a written notice of serious interest for the purchase or other transfer of a particular covered property for which notice has been published. The notice of serious interest shall be in suchform and include such information as the corporation concerned may prescribe.
+&emsp;During the 90-day period beginning on the date that notice under paragraph (1) concerning a covered property is first published, any governmental agency or qualified organization may submit to the corporation concerned a written notice of serious interest for the purchase or other transfer of a particular covered property for which notice has been published. The notice of serious interest shall be in such form and include such information as the corporation concerned may prescribe.
 
 #### (3) Prohibition of transfer
 
-&emsp;During the period under paragraph (2), a corporation concerned may not sell or otherwise transfer any covered property for which notice has been published under paragraph (1). Upon the expiration of such period, the corporation concerned may sell or otherwise transfer any covered property for which notice under paragraph (1) has been published if a notice of serious interest under paragraph (2) concerning the property has not been timely submitted.
+&emsp;During the period under paragraph (2), a corporation concerned may not sell or otherwisetransfer any covered property for which notice has been published under paragraph (1). Upon the expiration of such period, the corporation concerned may sell or otherwise transfer any covered property for which notice under paragraph (1) has been published if a notice of serious interest under paragraph (2) concerning the property has not been timely submitted.
 
 #### (4) Offers and permitted transfer
 

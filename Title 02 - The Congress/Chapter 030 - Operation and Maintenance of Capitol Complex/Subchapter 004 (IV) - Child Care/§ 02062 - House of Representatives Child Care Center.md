@@ -40,9 +40,15 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 #### (d) Salaries and expenses; funding limits
 
-(1) There is established an account which, subject to appropriation, and except as provided in paragraph (2), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.
+(1) There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.
 
 (2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
+
+(3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
+
+&emsp;(A) The payment of the salary of the director of the center.
+
+&emsp;(B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
 #### (e) Definitions
 
@@ -54,7 +60,7 @@ As used in this section—
 
 &emsp;(3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6, 1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332.)
+(Pub. L. 102–90, title III, §312, Aug. 14, 1991, 105 Stat. 467; Pub. L. 102–392, title III, §319(a), Oct. 6,1992, 106 Stat. 1725; Pub. L. 104–186, title II, §221(5), (6), Aug. 20, 1996, 110 Stat. 1749; Pub. L. 106–100, §1(a), Nov. 12, 1999, 113 Stat. 1332; Pub. L. 108–7, div. H, title I, §108(a), Feb. 20, 2003, 117 Stat. 355.)
 
 #### Codification
 
@@ -64,9 +70,13 @@ Section is comprised of section 312 of Pub. L. 102–90. Subsec. (f) of section 
 
 #### Amendments
 
-1999—Subsec. (a)(1)(C). Pub. L. 106–100 added subpar. (C).
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–7, §108(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-1996—Pub. L. 104–186, §221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
+Subsec. (d)(3). Pub. L. 108–7, §108(a)(2), added par. (3).
+
+<b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–100 added subpar. (C).
+
+<b>1996</b>—Pub. L. 104–186, §221(5)(A), substituted “Chief Administrative Officer” for “Clerk” wherever appearing.
 
 Subsec. (a)(1)(A). Pub. L. 104–186, §221(5)(B), struck out “or the Sergeant at Arms of the House of Representatives” before “and children”.
 
@@ -78,13 +88,17 @@ Subsec. (d)(1). Pub. L. 104–186, §221(6)(C), struck out “in the contingent 
 
 Subsec. (d)(2). Pub. L. 104–186, §221(5)(C), substituted “With respect” for “with respect”.
 
-1992—Subsec. (d)(2). Pub. L. 102–392 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “During fiscal year 1992, of the funds provided in this Act for the ‘HOUSE OF REPRESENTATIVES’ under ‘
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–392 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “During fiscal year 1992, of the funds provided in this Act for the ‘HOUSE OF REPRESENTATIVES’ under ‘
 
 Salaries and Expenses’, not more than $45,000 may be expended to carry out this section, subject to approval of the Committee on Appropriations of the House of Representatives. Any amount under this paragraph shall be in addition to any amount made available under paragraph (1).”
 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–7, div. H, title I, §108(b), Feb. 20, 2003, 117 Stat. 355, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2003 and each succeeding fiscal year.”
 
 #### Effective Date of 1999 Amendment
 

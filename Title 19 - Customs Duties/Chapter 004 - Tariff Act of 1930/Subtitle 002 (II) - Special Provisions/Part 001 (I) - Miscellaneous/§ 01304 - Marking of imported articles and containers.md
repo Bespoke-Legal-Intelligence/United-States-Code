@@ -22,7 +22,7 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 &emsp;&emsp;(F) Such article is imported for use by the importer and not intended for sale in its imported or any other form;
 
-&emsp;&emsp;(G) Such article is to be processed in the United States by the importer or for his account otherwise than for the purpose of concealing the origin of such article and in such manner that any mark contemplated by this section would necessarily be obliterated, destroyed, or permanently concealed;
+&emsp;&emsp;(G) Such article is to be processed in the United States by the importer or for his account otherwise than for the purpose of concealing the origin of such article and in such manner that any mark contemplated by thissection would necessarily be obliterated, destroyed, or permanently concealed;
 
 &emsp;&emsp;(H) An ultimate purchaser, by reason of the character of such article or by reason of the circumstances of its importation, must necessarily know the country of origin of such article even though it is not marked to indicate its origin;
 
@@ -62,7 +62,7 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 The marking requirements of subsections (a) and (b) of this section shall not apply either to—
 
-&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule ofthe United States, as in effect on January 1, 1997; or
+&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1997; or
 
 &emsp;(2) articles provided for in heading 5007 of the Harmonized Tariff Schedule of the United States as in effect on January 1, 1997.
 
@@ -126,7 +126,7 @@ No imported article held in customs custody for inspection, examination, or appr
 
 #### (<i>l</i>) Penalties
 
-Any person who, with intent to conceal the information given thereby or contained therein, defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
+Any person who, with intent to conceal the information given thereby or contained therein,defaces, destroys, removes, alters, covers, obscures, or obliterates any mark required under the provisions of this chapter shall—
 
 &emsp;(1) upon conviction for the first violation of this subsection, be fined not more than $100,000, or imprisoned for not more than 1 year, or both; and
 
@@ -264,7 +264,7 @@ Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as g
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

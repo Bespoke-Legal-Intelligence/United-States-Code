@@ -56,9 +56,9 @@ The report required under subsection (a) of this section should to the extent fe
 
 #### (c) Classification of report
 
-(1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) of this sectionshall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
-(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified formwould make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
+(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
 #### (d) Definitions
 
@@ -142,5 +142,5 @@ Initial Report.—Except as provided in subsection (a)(8), the initial report fi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2656g of this title; title 8 section 1189; title 10 section 2249a.
+This section is referred to in section 2656g of this title; title 8 section 1189; title 10 section 2249a; title 26 section 501.
 

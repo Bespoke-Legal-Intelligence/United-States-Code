@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 2002 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 2003 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -98,6 +98,7 @@
 | [<b>80.</b>](Chapter%20080%20-%20Diplomatic%20Telecommunications%20Service%20Program%20Office%20%28DTS-PO%29/README.md) | <b>Diplomatic Telecommunications Service Program Office (DTS-PO)</b> | <b>7301</b> |
 | [<b>81.</b>](Chapter%20081%20-%20International%20Criminal%20Court/README.md) | <b>International Criminal Court</b> | <b>7401</b> |
 | [<b>82.</b>](Chapter%20082%20-%20Afghanistan%20Freedom/README.md) | <b>Afghanistan Freedom Support</b> | <b>7501</b> |
+| [<b>83.</b>](Chapter%20083%20-%20United%20States%20Leadership%20Against%20HIV-AIDS%2C%20Tuberculosis%2C%20and%20Malaria/README.md) | <b>United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria</b> | <b>7601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -199,3 +200,4 @@
 - [Chapter 080 - Diplomatic Telecommunications Service Program Office (DTS-PO)](Chapter%20080%20-%20Diplomatic%20Telecommunications%20Service%20Program%20Office%20%28DTS-PO%29/README.md)
 - [Chapter 081 - International Criminal Court](Chapter%20081%20-%20International%20Criminal%20Court/README.md)
 - [Chapter 082 - Afghanistan Freedom](Chapter%20082%20-%20Afghanistan%20Freedom/README.md)
+- [Chapter 083 - United States Leadership Against HIV-AIDS, Tuberculosis, and Malaria](Chapter%20083%20-%20United%20States%20Leadership%20Against%20HIV-AIDS%2C%20Tuberculosis%2C%20and%20Malaria/README.md)

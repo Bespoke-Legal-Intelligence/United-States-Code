@@ -74,7 +74,7 @@ Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a sem
 
 Subsec. (a)(4). Pub. L. 104–275, §402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
-“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy underterms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
+“(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
 
 “(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier.”
 
@@ -82,7 +82,7 @@ Pub. L. 104–275, §402(c)(1)(D)(i)–(iii), substituted “120 days after sepa
 
 &emsp;“(A) unless on”,
 
-> substituted “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”, and substituted “such assignment.” for “such assignment;”.
+> substituted “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”, andsubstituted “such assignment.” for “such assignment;”.
 
 Subsec. (a)(5), (6). Pub. L. 104–275, §402(c)(1)(E), struck out pars. (5) and (6) which read as follows:
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 #### Conversion of SGLI to VGLI
 
-Section 402(e) of Pub. L. 104–275 provided that: “The Servicemembers’ Group Life Insurance of any member of the Retired Reserve of a uniformed service shall be converted to Veterans’ Group Life Insurance effective 90 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
+Section 402(e) of Pub. L. 104–275 provided that: “The Servicemembers’ Group Life Insurance of any memberof the Retired Reserve of a uniformed service shall be converted to Veterans’ Group Life Insurance effective 90 days after the date of the enactment of this Act \[Oct. 9, 1996\].”
 
 #### Right of Persons Discharged or Released From Uniformed Services To Convert Servicemen's Group Life Insurance to Individual Policies
 

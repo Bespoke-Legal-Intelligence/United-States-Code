@@ -1486,9 +1486,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56.)
 
-#### Low-Income Housing Credit Adjustment for Calendar Year 2003
+#### Low-Income Housing Credit Adjustment for Calendar Year 2004
 
-<i>For inflation adjustment of amounts in subsection (h)(3)(C)(ii) of this section used to calculate the State housing credit ceiling for low-income housing credit for calendar year 2003, see section 3.07 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (h)(3)(C)(ii) of this section used to calculate the State housing credit ceiling for low-income housing credit for calendar year 2004, see section 3.07 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

@@ -24,7 +24,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 &emsp;&emsp;(C) to assist local government entities to conduct appropriate methamphetamine or inhalant prevention activities;
 
-&emsp;&emsp;(D) to train and educate State and local law enforcement officials, prevention and education officials, members of community anti-drug coalitions and parents on the signsof methamphetamine or inhalant abuse and addiction and the options for treatment and prevention;
+&emsp;&emsp;(D) to train and educate State and local law enforcement officials, prevention and education officials, members of community anti-drug coalitions and parents on the signs of methamphetamine or inhalant abuse and addiction and the options for treatment and prevention;
 
 &emsp;&emsp;(E) for planning, administration, and educational activities related to the prevention of methamphetamine or inhalant abuse and addiction;
 
@@ -44,7 +44,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 #### (2) Annual reports
 
-&emsp;The Director shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and Committee on Appropriations of the House of Representatives, an annual report with the results of the analyses and evaluation under paragraph (1).
+&emsp;The Director shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce andCommittee on Appropriations of the House of Representatives, an annual report with the results of the analyses and evaluation under paragraph (1).
 
 #### (e) Authorization of appropriations
 

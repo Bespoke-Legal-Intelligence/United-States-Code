@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) are not already adequately served by homeownership counseling organizations; and
 
-&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
+&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (includingsuch initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
 
 &emsp;&emsp;(B) to inform the public of the availability of the homeownership counseling.
 

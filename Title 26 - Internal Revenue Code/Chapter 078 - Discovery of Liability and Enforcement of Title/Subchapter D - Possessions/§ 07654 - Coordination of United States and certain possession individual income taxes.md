@@ -24,21 +24,23 @@ The transfers of funds between the United States and any specified possession re
 
 In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
-&emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Soldiers’ and Sailors’ Civil Relief Act (50 App. U.S.C. 501 et seq.), and
+&emsp;(1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.), and
 
 &emsp;(2) the amount of the taxes deducted and withheld under chapter 24 with respect to amounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisionsof this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 92–606, §1(b), Oct. 31, 1972, 86 Stat. 1495; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§307(a)(16), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XII, §1276(a), Oct. 22, 1986, 100 Stat. 2599; Pub. L. 100–647, title I, §1012(y), Nov. 10, 1988, 102 Stat. 3530.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 92–606, §1(b), Oct. 31, 1972, 86 Stat. 1495; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§307(a)(16), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XII, §1276(a), Oct. 22, 1986, 100 Stat. 2599; Pub. L. 100–647, title I, §1012(y), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 108–189, §2(d), Dec. 19, 2003, 117 Stat. 2866.)
 
 #### References in Text
 
-The Soldiers’ and Sailors’ Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see section 501 of the Appendix to Title 50 and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see section 501 of the Appendix to Title 50 and Tables.
 
 #### Amendments
+
+2003—Subsec. (d)(1). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act”.
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “an individual to whom” for “an individual to which”.
 

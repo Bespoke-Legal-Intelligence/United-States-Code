@@ -220,7 +220,7 @@ The Commodity Exchange Act, referred to in par. (8)(B)(xix), is act Sept. 21, 19
 
 #### Amendments
 
-1998—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
+<b>1998</b>—Par. (3)(F). Pub. L. 105–166, §2, substituted “7511(b)(2)(B)” for “7511(b)(2)”.
 
 Par. (8)(B)(ix). Pub. L. 105–166, §3(a), inserted before semicolon at end “, including any communication compelled by a Federal contract, grant, loan, permit, or license”.
 

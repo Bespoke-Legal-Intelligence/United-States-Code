@@ -14,7 +14,7 @@
 
 #### (B) State colleges and universities
 
-&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any college or universitywhich is an agency or instrumentality of any government or any political subdivision thereof, or which is owned or operated by a government or any political subdivision thereof, or by any agency or instrumentality of one or more governments or political subdivisions. Such tax shall also apply in the case of any corporation wholly owned by one or more such colleges or universities.
+&emsp;&emsp;The tax imposed by paragraph (1) shall apply in the case of any college or university which is an agency or instrumentality of any government or any political subdivision thereof, or which is owned or operated by a government or any political subdivision thereof, or by any agency or instrumentality of one or more governments or political subdivisions. Such tax shall also apply in the case of any corporation wholly owned by one or more such colleges or universities.
 
 #### (b) Tax on charitable, etc., trusts
 
@@ -30,7 +30,7 @@
 
 If a corporation described in section 501(c)(2)—
 
-&emsp;(1) pays any amount of its net income for a taxable year to an organization exempt from taxation under section 501(a) (or which would pay such an amount but for the fact that the expenses of collecting its income exceed its income), and
+&emsp;(1) pays any amount of its net income for a taxable year to an organization exempt from taxation under section 501(a) (or which would pay such an amount but for the fact that theexpenses of collecting its income exceed its income), and
 
 &emsp;(2) such corporation and such organization file a consolidated return for the taxable year,
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11, 12, 50, 168, 220, 337, 408, 448, 501, 509, 512, 513, 514, 515, 527, 529, 530, 772, 856, 860E, 904, 995, 1201, 1245, 1250, 1443, 1563, 2651, 4940, 6654, 6655, 7611, 7871 of this title.
+This section is referred to in sections 11, 12, 50, 168, 220, 223, 337, 408, 448, 501, 509, 512, 513, 514, 515, 527, 529, 530, 772, 856, 860E, 904, 995, 1201, 1245, 1250, 1443, 1563, 2651, 4940, 6654, 6655, 7611, 7871 of this title.
 

@@ -26,7 +26,7 @@
 
 #### (1) Commencement of action
 
-&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if the person files a complaint not later than 20 daysafter the date of issuance of the ruling under subsection (a)(4) of this section.
+&emsp;The district court of the United States for any district in which a person who is a petitioner under subsection (a) of this section resides or carries on business shall have jurisdiction to review a ruling on the petition, if the person files a complaint not later than 20 days after the date of issuance of the ruling under subsection (a)(4) of this section.
 
 #### (2) Process
 

@@ -20,11 +20,11 @@ The term “sale of electric energy at wholesale” when used in this subchapter
 
 #### (e) “Public utility” defined
 
-The term “public utility” when used in this subchapter and subchapter III of this chaptermeans any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title).
+The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title).
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
-No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State or any political subdivision of a State, orany agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned, directly or indirectly, by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (g) Books and records
 

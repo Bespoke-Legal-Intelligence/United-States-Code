@@ -326,7 +326,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(b)(1) The Secretary shall provide for a program under which—
 
-&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act;
+&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code,is assigned as a case manager for each veteran participating in a program of job training under this Act;
 
 &emsp;“(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and
 
@@ -382,7 +382,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
 
-“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for suchpurpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### “time periods for application and initiation of training
 

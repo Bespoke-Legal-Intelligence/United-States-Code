@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-The Secretary of the Treasury shall establish in the Treasury of the United States an accountto be known as the “SPR Petroleum Account” (hereinafter in this section referred to as the “Account”).
+The Secretary of the Treasury shall establish in the Treasury of the United States an account to be known as the “SPR Petroleum Account” (hereinafter in this section referred to as the “Account”).
 
 #### (b) Obligation of funds for acquisition, transportation, and injection of petroleum products into SPR
 
-Amounts in the Account may be obligated by the Secretary of Energy for the acquisition, transportation, and injection of petroleum products into the Strategic Petroleum Reserve, for test sales of petroleum products from the Reserve, and for the drawdown, sale, and delivery of petroleum products from the Reserve—
+Amounts in the Account may be obligated by the Secretary of Energy for the acquisition,transportation, and injection of petroleum products into the Strategic Petroleum Reserve, for test sales of petroleum products from the Reserve, and for the drawdown, sale, and delivery of petroleum products from the Reserve—
 
 &emsp;(1) Repealed. Pub. L. 106–469, title I, §103(19)(A)(ii), Nov. 9, 2000, 114 Stat. 2033;
 
@@ -70,5 +70,5 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1
 
 #### Acquisition, Transportation, and Injection of Petroleum Products for SPR; Applicability of Subsec. (d)
 
-Section 1034(c) of Pub. L. 97–35 provided that: “The provisions of section 167(d) of such Act, as added by subsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account.”
+Section 1034(c) of Pub. L. 97–35 provided that: “The provisions of section 167(d) of such Act, as added bysubsection (a) of this section \[subsec. (d) of this section\], shall apply with respect to the outlays associated with unexpended balances of appropriations made available and obligated as of the end of fiscal year 1981 for the acquisition, transportation, and injection of petroleum products for the Strategic Petroleum Reserve to the same extent and manner as such provisions apply with respect to withdrawals from the SPR Petroleum Account.”
 

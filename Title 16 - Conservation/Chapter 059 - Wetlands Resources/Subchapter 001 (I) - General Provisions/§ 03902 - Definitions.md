@@ -2,7 +2,7 @@
 
 For the purpose of this chapter:
 
-&emsp;(1) The term “Committees” means the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committeeon Environment and Public Works and the Committee on Energy and Natural Resources of the Senate.
+&emsp;(1) The term “Committees” means the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works and the Committee on Energy and Natural Resources of the Senate.
 
 &emsp;(2) The term “designated unit” means a unit of the National Wildlife Refuge System designated by the Secretary under section 3911(a)(2) of this title.
 

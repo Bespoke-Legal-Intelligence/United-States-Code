@@ -30,7 +30,7 @@ Academic and Professional Requirements.—One of the following academic requirem
 
 (d)
 
-Certain Persons Ineligible.—Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students of the Uniformed Services University of the Health Sciences established under section 2112 of this title are not eligible for the repayment of an education loan under this section.
+Certain Persons Ineligible.—Students of the Uniformed Services University of the Health Sciences established under section 2112 of this title are not eligible for the repayment of an education loan under this section.
 
 (e)
 
@@ -40,11 +40,11 @@ Loan Repayments.—(1) Subject to the limits established by paragraph (2), a loa
 
 &emsp;(B) reasonable living expenses, not to exceed expenses comparable to the stipend paid under section 2121(d) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(2) For each year of obligated service that a person agrees to serve in an agreement described in subsection (b)(3), the Secretary of the military department concerned may pay not more than $22,000 on behalf of the person. This maximum amount shall be increased annually by the Secretary of Defense effective October 1 of each year by the percentage equal to the percent increase in the average annual cost of educational expenses and stipend costs of a single scholarship under the Armed Forces Health Professions Scholarship and Financial Assistance program. The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.
+(2) For each year of obligated service that a person agrees to serve in an agreement described in subsection (b)(3), the Secretary of the military department concerned may pay not more than $22,000 on behalf of the person. This maximum amount shall be increased annually by the Secretary of Defense effective October 1 of each year by the percentage equal to the percent increase in the average annual cost of educational expenses and stipend costs of a single scholarship under the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
 (f)
 
-Active Duty Service Obligation.—(1) A person entering into an agreement described in subsection (b)(3) incurs an active duty service obligation. The length of this obligation shall be determined under regulations prescribed by the Secretary of Defense, but those regulations may not provide for a period of obligation of less than one year for each maximum annual amount, or portion thereof, paid on behalf of the person for qualified loans.
+Active Duty Service Obligation.—(1) A person entering into an agreement described in subsection (b)(3) incurs an active duty service obligation. The length of this obligation shall be determined under regulations prescribed by the Secretary of Defense, but those regulations maynot provide for a period of obligation of less than one year for each maximum annual amount, or portion thereof, paid on behalf of the person for qualified loans.
 
 (2) For persons on active duty before entering into the agreement, the active duty service obligation shall be served consecutively to any other obligation incurred under the agreement.
 
@@ -56,5 +56,11 @@ Effect of Failure To Complete Obligation.—A commissioned officer who is reliev
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
-(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802.)
+(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–314, §573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
+
+Subsec. (e)(2). Pub. L. 107–314, §573(b), struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
 

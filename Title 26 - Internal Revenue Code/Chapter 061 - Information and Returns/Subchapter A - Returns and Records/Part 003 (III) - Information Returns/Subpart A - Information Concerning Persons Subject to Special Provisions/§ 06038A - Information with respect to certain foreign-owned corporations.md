@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (C) Jurisdiction
 
-&emsp;&emsp;The United States district court for the district in which the person (to whom the summons is issued) resides or is found shall have jurisdiction to hear any proceeding brought under subparagraph (A) or (B). Anyorder or other determination in such a proceeding shall be treated as a final order which may be appealed.
+&emsp;&emsp;The United States district court for the district in which the person (to whom the summons is issued) resides or is found shall have jurisdiction to hear any proceeding brought under subparagraph (A) or (B). Any order or other determination in such a proceeding shall be treated as a final order which may be appealed.
 
 #### (D) Suspension of statute of limitations
 

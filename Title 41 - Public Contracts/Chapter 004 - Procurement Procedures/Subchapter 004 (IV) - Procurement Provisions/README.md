@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 sections 595, 7342; title 6section 426; title 7 section 1736a; title 10 sections 2562, 2576, 2667, 2676, 2691, 2696, 2854a, 2878, 7305, 9444, 9781; title 14 sections 92, 93, 641; title 15 sections 205f, 205<i>l</i>, 637; title 16 sections 670<i>o</i>, 793; title 22 section 277d–44; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 38 section 3720; title 40 sections 102, 111, 311, 1308, 3304, 3305; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311; title 49 sections 103, 40110.
+This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 sections 595, 7342; title 6 section 426; title 7 section 1736a; title 10 sections 2194, 2562, 2576, 2667, 2676, 2691, 2696, 2854a, 2878, 7305, 9444, 9781; title 14 sections 92, 93, 641; title 15 sections 205f, 205<i>l</i>, 637; title 16 sections 670<i>o</i>, 793; title 22 section 277d–44; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 35 section 2; title 38 section 3720; title 40 sections 102, 111, 311, 1308, 3304, 3305; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311; title 49 sections 103, 40110.
 
 
 ---
@@ -31,6 +31,10 @@ This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; t
 - [&sect; 00253l&#8211;2 - Contract authority of Library of Congress](%C2%A7%2000253l%E2%80%932%20-%20Contract%20authority%20of%20Library%20of%20Congress.md)
 - [&sect; 00253l&#8211;3 - Contract authority of Chief Administrative Officer of the House of Representatives](%C2%A7%2000253l%E2%80%933%20-%20Contract%20authority%20of%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00253l&#8211;4 - Contract authority of Congressional Budget Office](%C2%A7%2000253l%E2%80%934%20-%20Contract%20authority%20of%20Congressional%20Budget%20Office.md)
+- [&sect; 00253l&#8211;5 - Contract authority of Secretary and Sergeant at Arms and Doorkeeper of the Senate](%C2%A7%2000253l%E2%80%935%20-%20Contract%20authority%20of%20Secretary%20and%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20the%20Senate.md)
+- [&sect; 00253l&#8211;6 - Contract authority of Capitol Police](%C2%A7%2000253l%E2%80%936%20-%20Contract%20authority%20of%20Capitol%20Police.md)
+- [&sect; 00253l&#8211;7 - Contract authority of Architect of the Capitol](%C2%A7%2000253l%E2%80%937%20-%20Contract%20authority%20of%20Architect%20of%20the%20Capitol.md)
+- [&sect; 00253l&#8211;8 - Contract authority of Secretary of Smithsonian Institution](%C2%A7%2000253l%E2%80%938%20-%20Contract%20authority%20of%20Secretary%20of%20Smithsonian%20Institution.md)
 - [&sect; 00253m - Design-build selection procedures](%C2%A7%2000253m%20-%20Design-build%20selection%20procedures.md)
 - [&sect; 00254 - Contract requirements](%C2%A7%2000254%20-%20Contract%20requirements.md)
 - [&sect; 00254a - Cost-type research and development contracts with educational institutions](%C2%A7%2000254a%20-%20Cost-type%20research%20and%20development%20contracts%20with%20educational%20institutions.md)

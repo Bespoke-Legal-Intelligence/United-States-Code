@@ -4,5 +4,5 @@ Section, Pub. L. 99–198, title XIV, §1416, Dec. 23, 1985, 99 Stat. 1549; Pub.
 
 #### Codification
 
-Pub. L. 105–185, title VI, §606(g), June 23, 1998, 112 Stat. 604, provided that the technical amendment made by section 606(g) to section 873 of Pub. L. 104–127, which repealed this section, is effective Apr. 6, 1996.
+Pub. L. 105–185, title VI, §606(g), June 23, 1998, 112 Stat. 604, provided that the technical amendment madeby section 606(g) to section 873 of Pub. L. 104–127, which repealed this section, is effective Apr. 6, 1996.
 

@@ -14,7 +14,7 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;&emsp;(C) negotiations to revise the Convention for the Establishment of an Inter-American Tropical Tuna Commission (1 U.S.T. 230; TIAS 2044) which will incorporate—
 
-&emsp;&emsp;&emsp;(i) the conservation and management provisions agreed to by the nations which have signed the Declaration of Panamaand in the Straddling Fish Stocks and Highly Migratory Fish Stocks Agreement, as opened for signature on December 4, 1995; and
+&emsp;&emsp;&emsp;(i) the conservation and management provisions agreed to by the nations which have signed the Declaration of Panama and in the Straddling Fish Stocks and Highly Migratory Fish Stocks Agreement, as opened for signature on December 4, 1995; and
 
 &emsp;&emsp;&emsp;(ii) a revised schedule of annual contributions to the expenses of the Inter-American Tropical Tuna Commission that is equitable to participating nations; and
 

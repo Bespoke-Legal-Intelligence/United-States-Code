@@ -1,6 +1,6 @@
 ### §1366. Destruction of an energy facility
 
-(a) Whoever knowingly and willfully damages or attempts to damage the property of an energyfacility in an amount that in fact exceeds or would if the attempted offense had been completed have exceeded $100,000, or damages or attempts to damage the property of an energy facility in any amount and causes or attempts to cause a significant interruption or impairment of a function of an energy facility, shall be punishable by a fine under this title or imprisonment for not more than 20 years, or both.
+(a) Whoever knowingly and willfully damages or attempts to damage the property of an energy facility in an amount that in fact exceeds or would if the attempted offense had been completed have exceeded $100,000, or damages or attempts to damage the property of an energy facility in any amount and causes or attempts to cause a significant interruption or impairment of a function of an energy facility, shall be punishable by a fine under this title or imprisonment for not more than 20 years, or both.
 
 (b) Whoever knowingly and willfully damages or attempts to damage the property of an energy facility in an amount that in fact exceeds or would if the attempted offense had been completed have exceeded $5,000 shall be punishable by a fine under this title, or imprisonment for not more than five years, or both.
 

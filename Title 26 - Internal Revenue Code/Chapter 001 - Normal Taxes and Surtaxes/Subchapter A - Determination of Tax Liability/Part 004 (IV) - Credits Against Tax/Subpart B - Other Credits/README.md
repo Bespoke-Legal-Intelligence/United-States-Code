@@ -26,6 +26,8 @@ Subpart B—Other Credits
 
 This subpart is referred to in sections 38, 53, 469, 6401 of this title.
 
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+
 
 ---
 

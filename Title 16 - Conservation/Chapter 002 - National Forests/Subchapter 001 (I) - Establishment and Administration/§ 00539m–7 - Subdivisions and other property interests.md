@@ -1,0 +1,148 @@
+### §539m–7. Subdivisions and other property interests
+
+#### (a) Subdivisions
+
+#### (1) In general
+
+&emsp;The subdivisions are excluded from the Area.
+
+#### (2) Jurisdiction
+
+#### (A) In general
+
+&emsp;&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory or any other form of jurisdiction, over the subdivisions and property interests therein, and the laws of the Pueblo shall not apply to the subdivisions.
+
+#### (B) State jurisdiction
+
+&emsp;&emsp;The jurisdiction of the State of New Mexico and local public bodies over the subdivisions and property interests therein shall continue in effect, except that on application of the Pueblo a tract comprised of approximately 35 contiguous, nonsubdivided acres in the northern section of Evergreen Hills owned in fee by the Pueblo on February 20, 2003, shall be transferred to the United States and held in trust for the Pueblo by the United States and administered by the Secretary of the Interior.
+
+#### (3) Limitations on trust land
+
+&emsp;Trust land described in paragraph (2)(B) shall be subject to all limitations on use pertaining to the Area contained in sections 539m to 539m–12 of this title.
+
+#### (b) Piedra Lisa
+
+#### (1) In general
+
+&emsp;The Piedra Lisa tract is excluded from the Area.
+
+#### (2) Declaration of trust title
+
+&emsp;The Piedra Lisa tract—
+
+&emsp;&emsp;(A) shall be transferred to the United States;
+
+&emsp;&emsp;(B) is declared to be held in trust for the Pueblo by the United States; and
+
+&emsp;&emsp;(C) shall be administered by the Secretary of the Interior subject to all limitations on use pertaining to the Area contained in sections 539m to 539m–12 of this title.
+
+#### (3) Applicability of certain restriction
+
+&emsp;The restriction contained in section 539m–4(a)(4) of this title shall not apply outside of Forest Service System trails.
+
+#### (c) Crest facilities
+
+#### (1) In general
+
+&emsp;The land on which the crest facilities are located is excluded from the Area.
+
+#### (2) Jurisdiction
+
+&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory or any other form of jurisdiction, over the land on which the crest facilities are located and property interests therein, and the laws of the Pueblo, shall not apply to that land. The preexisting jurisdictional status of that land shall continue in effect.
+
+#### (d) Special use permit area
+
+#### (1) In general
+
+&emsp;The land described in the special use permit is excluded from the Area.
+
+#### (2) Jurisdiction
+
+#### (A) In general
+
+&emsp;&emsp;The Pueblo shall have no civil or criminal jurisdiction for any purpose, including adjudicatory, taxing, zoning, regulatory, or any other form of jurisdiction, over the land described in the special use permit, and the laws of the Pueblo shall not apply to that land.
+
+#### (B) Preexisting status
+
+&emsp;&emsp;The preexisting jurisdictional status of that land shall continue in effect.
+
+#### (3) Amendment to plan
+
+&emsp;In the event the special use permit, during its existing term or any future terms or extensions, requires amendment to include other land in the Area necessary to realign the existing or any future replacement tram line, associated structures, or facilities, the land subject to that amendment shall thereafter be excluded from the Area and shall have the same status under sections 539m to 539m–12 of this title as the land currently described in the special use permit.
+
+#### (4) Land dedicated to aerial tramway and related uses
+
+&emsp;Any land dedicated to aerial tramway and related uses and associated facilities that are excluded from the special use permit through expiration, termination or the amendment process shall thereafter be included in the Area, but only after final agency action no longer subject to any appeals.
+
+#### (e) La Luz tract
+
+#### (1) In general
+
+&emsp;The La Luz tract now owned in fee by the Pueblo is excluded from the Area and, on application by the Pueblo, shall be transferred to the United States and held in trust for the Pueblo by the United States and administered by the Secretary of the Interior subject to all limitations on use pertaining to the Area contained in sections 539m to 539m–12 of this title.
+
+#### (2) Nonapplicability of certain restriction
+
+&emsp;The restriction contained in section 539m–4(a)(4) of this title shall not apply outside of Forest Service System trails.
+
+#### (f) Evergreen Hills access
+
+The Secretary shall ensure that Forest Service Road 333D, as depicted on the map, is maintained in an adequate condition in accordance with section 3210(a) of this title.
+
+#### (g) Pueblo fee land
+
+Those properties not specifically addressed in subsections <sup>1</sup> (a) or (e) that are owned in fee by the Pueblo within the subdivisions are excluded from the Area and shall be subject to the jurisdictional provisions of subsection (a).
+
+#### (h) Rights-of-way
+
+#### (1) Road rights-of-way
+
+#### (A) In general
+
+&emsp;&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant to the County of Bernalillo, New Mexico, in perpetuity, the following irrevocable rights-of-way for roads identified on the map in order to provide for public access to the subdivisions, the special use permit land and facilities, the other leasehold and easement rights and interests of the Sandia Peak Tram Company and its affiliates, the Sandia Heights South Subdivision, and the Area—
+
+&emsp;&emsp;&emsp;(i) a right-of-way for Tramway Road;
+
+&emsp;&emsp;&emsp;(ii) a right-of-way for Juniper Hill Road North;
+
+&emsp;&emsp;&emsp;(iii) a right-of-way for Juniper Hill Road South;
+
+&emsp;&emsp;&emsp;(iv) a right-of-way for Sandia Heights Road; and
+
+&emsp;&emsp;&emsp;(v) a right-of-way for Juan Tabo Canyon Road (Forest Road No. 333).
+
+#### (B) Conditions
+
+&emsp;&emsp;The road rights-of-way shall be subject to the following conditions:
+
+&emsp;&emsp;&emsp;(i) Such rights-of-way may not be expanded or otherwise modified without the Pueblo's written consent, but road maintenance to the rights-of-way shall not be subject to Pueblo consent.
+
+&emsp;&emsp;&emsp;(ii) The rights-of-way shall not authorize uses for any purpose other than roads without the Pueblo's written consent.
+
+&emsp;&emsp;&emsp;(iii) Except as provided in the Settlement Agreement, existing rights-of-way or leasehold interests and obligations held by the Sandia Peak Tram Company and its affiliates, shall be preserved, protected, and unaffected by sections 539m to 539m–12 of this title.
+
+#### (2) Utility rights-of-way
+
+&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the SandiaPeak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unless the Pueblo agrees otherwise. To the extent that enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
+
+#### (3) Forest Service rights-of-way
+
+&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant to the Forest Service the following irrevocable rights-of-way in perpetuity for Forest Service trails crossing land of the Pueblo in order to provide for public access to the Area and through Pueblo land—
+
+&emsp;&emsp;(A) a right-of-way for a portion of the Crest Spur Trail (Trail No. 84), crossing a portion of the La Luz tract, as identified on the map;
+
+&emsp;&emsp;(B) a right-of-way for the extension of the Foothills Trail (Trail No. 365A), as identified on the map; and
+
+&emsp;&emsp;(C) a right-of-way for that portion of the Piedra Lisa North-South Trail (Trail No. 135) crossing the Piedra Lisa tract.
+
+(Pub. L. 108–7, div. F, title IV, §409, Feb. 20, 2003, 117 Stat. 287.)
+
+#### References in Text
+
+Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(3), (b)(2)(C), (d)(3), (e)(1), and (h)(1)(B)(iii), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–6, 539m–8, 539m–9, 539m–10, 539m–11, 539m–12 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+

@@ -20,7 +20,7 @@ From funds appropriated under subsection (f) of this section the Secretary is au
 
 #### (B) State minimum
 
-&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, from the total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
+&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, fromthe total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
 
 &emsp;&emsp;&emsp;(i) 0.35 percent of total appropriations; or
 
@@ -56,7 +56,7 @@ From funds appropriated under subsection (f) of this section the Secretary is au
 
 #### (II) Variation
 
-&emsp;&emsp;&emsp;&emsp;In computing coefficients of variation, the Secretary shall weigh the variationbetween per-pupil expenditures in each local educational agency and the average per-pupil expenditures in the State according to the number of pupils served by the local educational agency.
+&emsp;&emsp;&emsp;&emsp;In computing coefficients of variation, the Secretary shall weigh the variation between per-pupil expenditures in each local educational agency and the average per-pupil expenditures in the State according to the number of pupils served by the local educational agency.
 
 #### (III) Number of pupils
 
@@ -304,7 +304,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a State is entitled to receive its full allotment of funds under this section for any fiscal year ifthe Secretary finds that either the combined fiscal effort per student or the aggregate expenditures within the State with respect to the provision of free public education for the fiscal year preceding the fiscal year for which the determination is made was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
+&emsp;Except as provided in paragraph (2), a State is entitled to receive its full allotment of funds under this section for any fiscal year if the Secretary finds that either the combined fiscal effort per student or the aggregate expenditures within the State with respect to the provision of free public education for the fiscal year preceding the fiscal year for which the determination is made was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
 
 #### (2) Reduction of funds
 

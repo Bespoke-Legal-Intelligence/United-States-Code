@@ -6,7 +6,7 @@ Authority.—The Secretary of the Navy may authorize any Department of the Navy 
 
 (b)
 
-Agents To Have Authority.—Subsection (a) applies to any employee of the Departmentof the Navy who is a special agent of the Naval Criminal Investigative Service (or any successor to that service) whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of the Navy.
+Agents To Have Authority.—Subsection (a) applies to any employee of the Department of the Navy who is a special agent of the Naval Criminal Investigative Service (or any successor to that service) whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of the Navy.
 
 (c)
 

@@ -146,7 +146,7 @@ Subsec. (d)(3)(B). Pub. L. 100–50, §4(b)(2), struck out “and graduate and p
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–244, title IV, §406(c)(3), Oct. 7, 1998, 112 Stat. 1665, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 413A(b) of the Higher Education Act of 1965 \[20 U.S.C. 1070b(b)\] for fiscal year 2000 or any succeeding fiscal year.”
+Pub. L. 105–244, title IV, §406(c)(3), Oct. 7, 1998, 112 Stat. 1665, provided that: “The amendments made bythis subsection \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 413A(b) of the Higher Education Act of 1965 \[20 U.S.C. 1070b(b)\] for fiscal year 2000 or any succeeding fiscal year.”
 
 #### Effective Date of 1993 Amendment
 

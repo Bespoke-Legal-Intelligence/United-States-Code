@@ -178,11 +178,13 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+2004—By notice of the Commissioner of Social Security, Oct. 16, 2003, 68 F.R. 60437, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2004 is $87,900.
+
 2003—By notice of the Commissioner of Social Security, Oct. 18, 2002, 67 F.R. 65620, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2003 is $87,000.
 
-2002—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
+2002—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined and announced that, pursuant to authority contained inthis section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
 
-2001—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained inthis section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
+2001—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
 
 2000—By notice of the Commissioner of Social Security, Oct. 20, 1999, 64 F.R. 57506, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2000 is $76,200.
 

@@ -52,7 +52,7 @@ Implementation.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\] and subject to the availability of funds to carry out this section, the Architect shall begin implementing a program to replace in each building described in subsection (a) all inefficient office and general use area fluorescent lighting systems with systems that incorporate the best available design and technology and that have payback periods of 10 years or less, as determined by using methods and procedures established under section 544(a) of the National Energy and Conservation Policy Act (42 U.S.C. 8254(a)).
+In general.—Not later than 18 months after the date of the enactment of this Act \[Oct. 24, 1992\] and subject to the availability of funds to carry out this section, the Architect shall begin implementing a program to replace in each building described in subsection (a) all inefficient office and general use area fluorescent lighting systems with systems that incorporate the bestavailable design and technology and that have payback periods of 10 years or less, as determined by using methods and procedures established under section 544(a) of the National Energy and Conservation Policy Act (42 U.S.C. 8254(a)).
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -68,7 +68,7 @@ Evaluation and report.—
 
 &emsp;&emsp;“(A)
 
-In general.—Not later than 6 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Architect shall submit to the Speaker of the House of Representatives and the President protempore of the Senate a report evaluating potential energy conservation measures for each building described in subsection (a) in the areas of heating, ventilation, air conditioning equipment, insulation, windows, domestic hot water, food service equipment, and automatic control equipment.
+In general.—Not later than 6 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Architect shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report evaluating potential energy conservation measures for each building described in subsection (a) in the areas of heating, ventilation, air conditioning equipment, insulation, windows, domestic hot water, food service equipment, and automatic control equipment.
 
 &emsp;&emsp;“(B)
 

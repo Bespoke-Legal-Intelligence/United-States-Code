@@ -12,7 +12,7 @@ The Secretary may acquire such commodities through the price support program. Ho
 
 #### (c) Prerequisites for sale or disposition of commodities in reserve
 
-Except when a state of emergency has been proclaimed by the President or by concurrent resolution of Congress declaring that such reserves should be disposed of, the Secretary shall not offer any commodity in the reserve for sale or disposition.
+Except when a state of emergency has been proclaimed by the President or by concurrentresolution of Congress declaring that such reserves should be disposed of, the Secretary shall not offer any commodity in the reserve for sale or disposition.
 
 #### (d) Additional authorization for disposition of commodities to relieve distress or for civil defense emergencies
 

@@ -14,7 +14,7 @@ A loan deficiency payment under this section shall be computed by multiplying—
 
 &emsp;(1) the loan payment rate determined under subsection (c) of this section for the loan commodity; by
 
-&emsp;(2) the quantity of the loan commodity produced by the eligible producers, excluding any quantity for which the producers obtain a loan under section 7231 of this title.
+&emsp;(2) the quantity of the loan commodity produced by the eligible producers, excluding anyquantity for which the producers obtain a loan under section 7231 of this title.
 
 #### (c) Loan payment rate
 

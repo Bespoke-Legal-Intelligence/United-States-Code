@@ -1,6 +1,6 @@
 ### §7541. Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League
 
-Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy may—
+Subject to regulations under section 121 of title 40, the Secretary of the Navy may—
 
 &emsp;(1) give obsolete material not needed for naval purposes; and
 
@@ -8,7 +8,7 @@ Subject to regulations under section 205 of the Federal Property and Administrat
 
 > to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Pub. L. 93–628, §1, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 96–513, title V, §513(39), Dec. 12, 1980, 94 Stat. 2934.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 465; Pub. L. 93–628, §1, Jan. 3, 1975, 88 Stat. 2147; Pub. L. 96–513, title V, §513(39), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 107–217, §3(b)(31), Aug. 21, 2002, 116 Stat. 1297.)
 
 Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, §2(21), 65 Stat. 
 The word “give” is substituted for the words “dispose of without charge”; the words “naval purposes” are substituted for the words “the Navy”; and the word “sell” is substituted for the words “dispose of \* \* \* at prices”. The words “to the Navy” are omitted as surplusage. Since the corporate name of the organization is “Boy Scouts of America”, that name is used to designate the transferee in lieu of words “sea scout department”, and the words “for the sea scouts” are added.
 
 #### Amendments
+
+2002—Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” in introductory provisions.
 
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
 

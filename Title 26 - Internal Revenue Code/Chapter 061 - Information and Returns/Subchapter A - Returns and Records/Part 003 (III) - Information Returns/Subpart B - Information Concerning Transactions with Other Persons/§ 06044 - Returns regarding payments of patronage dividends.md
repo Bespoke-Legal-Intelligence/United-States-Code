@@ -108,7 +108,7 @@ Amendment by section 108(c) of Pub. L. 98–67 applicable with respect to paymen
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to calendar years after 1966, see section 211(e)(2) of Pub. L. 89–809, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to calendar years after 1966, see section 211(e)(2) of Pub.L. 89–809, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1962 Amendment
 

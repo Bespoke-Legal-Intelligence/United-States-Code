@@ -6,7 +6,7 @@ The Administrator shall establish and implement a pricing system to recover reim
 
 #### (b) Reports to Congressional committees
 
-Each year the Administrator shall submit to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives,a report, transmitted contemporaneously with the annual budget request of the President, which shall inform the Congress how the policy goals contained in section 2466a of this title are being furthered by the shuttle price for foreign and commercial users.
+Each year the Administrator shall submit to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives, a report, transmitted contemporaneously with the annual budget request of the President, which shall inform the Congress how the policy goals contained in section 2466a of this title are being furthered by the shuttle price for foreign and commercial users.
 
 #### (c) Reduction of base price
 
@@ -46,7 +46,7 @@ Section 112 of Pub. L. 99–170 provided that: “The Administrator shall examin
 
 #### Study on Proposed Pricing Policy for Certain Services
 
-Section 113 of Pub. L. 99–170 provided that: “The Administrator shall conduct a study and report to the Congress on a proposed pricing policy for certain services such as on-orbit service, repair or recovery of spacecraft.”
+Section 113 of Pub. L. 99–170 provided that: “The Administrator shall conduct a study and report to theCongress on a proposed pricing policy for certain services such as on-orbit service, repair or recovery of spacecraft.”
 
 #### Section Referred to in Other Sections
 

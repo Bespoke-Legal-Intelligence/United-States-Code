@@ -40,7 +40,7 @@
 
 (2) Subject to paragraphs (3) and (5)(C) of this subsection, the Secretary shall accord priority to applications in the following order:
 
-&emsp;(A) An application from a State that has made sufficient funds available for the projectfor which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
+&emsp;(A) An application from a State that has made sufficient funds available for the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
 
 &emsp;(B) An application from a State for a project at an existing facility to remedy a condition or conditions that have been cited by an accrediting institution, by the Secretary, or by a local licensing or approving body of the State as being threatening to the lives or safety of the patients in the facility.
 
@@ -72,7 +72,7 @@
 
 (D) For the purposes of this paragraph, the term “July 1 deadline” means July 1 of the fiscal year in which the State is notified by the Secretary of the availability of funding for a grant for such project.
 
-(6)(A) The Secretary may conditionally approve a project under this section, conditionally award a grant for the project, and obligate funds for the grant if the Secretary determines that the application for the grant is sufficiently complete to warrant awarding the grant and that, based on assurances provided by the State submitting the application, the State will complete the application and meet all the requirements referred to in paragraph (1)(A) of this subsection by the date, not later than 180 days after the date of the conditional approval, specified by the Secretary.
+(6)(A) The Secretary may conditionally approve a project under this section, conditionally award a grant for the project, and obligate funds for the grant if the Secretary determines that the application for the grant is sufficiently complete to warrant awarding the grant and that,based on assurances provided by the State submitting the application, the State will complete the application and meet all the requirements referred to in paragraph (1)(A) of this subsection by the date, not later than 180 days after the date of the conditional approval, specified by the Secretary.
 
 (B) If a State does not complete the application and meet all the requirements referred to in such paragraph by the date specified by the Secretary under subparagraph (A) of this paragraph, the Secretary shall rescind the conditional approval and award under such subparagraph and deobligate the funds previously obligated in connection with the application. In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.
 

@@ -24,7 +24,7 @@ For purposes of this section and section 104—
 
 &emsp;(1) amounts received under an accident or health plan for employees, and
 
-&emsp;(2) amounts received from a sickness and disability fund for employees maintained under the law of a State or the District of Columbia,
+&emsp;(2) amounts received from a sickness and disability fund for employees maintainedunder the law of a State or the District of Columbia,
 
 > shall be treated as amounts received through accident or health insurance.
 
@@ -120,7 +120,7 @@ For purposes of this section, the term “employee” does not include an indivi
 
 #### (i) Sick pay under Railroad Unemployment Insurance Act
 
-Notwithstanding any other provision of law, gross income includes benefits paid under section 2(a) of the Railroad Unemployment Insurance Act for days of sickness; except to the extent such sickness (as determined in accordancewith standards prescribed by the Railroad Retirement Board) is the result of on-the-job injury.
+Notwithstanding any other provision of law, gross income includes benefits paid under section 2(a) of the Railroad Unemployment Insurance Act for days of sickness; except to the extent such sickness (as determined in accordance with standards prescribed by the Railroad Retirement Board) is the result of on-the-job injury.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830.)
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1983, see section 202(c) ofPub. L. 97–248, set out as a note under section 213 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1983, see section 202(c) of Pub. L. 97–248, set out as a note under section 213 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -246,7 +246,7 @@ Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by 
 
 &emsp;“(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxable year beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
 
-&emsp;“(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuity starting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply.”
+&emsp;“(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuitystarting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply.”
 
 #### Special Rule for Existing Permanent and Total Disability Cases
 
@@ -262,7 +262,7 @@ Section 505(c) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §
 
 #### Special Rule for Coordination With Section 72 of This Title
 
-Section 505(d) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat.151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of an individual who—
+Section 505(d) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §301(b)(3)–(5), May 23, 1977, 91 Stat. 151; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of an individual who—
 
 &emsp;“(1) retired on disability before January 1, 1977, and
 

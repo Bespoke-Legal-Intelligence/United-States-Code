@@ -28,7 +28,7 @@ Each local educational agency requesting assistance from the State educational a
 
 &emsp;(1) an assurance that such local educational agency is in compliance with the State law required by subsection (b) of this section; and
 
-&emsp;(2) a description of the circumstances surrounding any expulsions imposed under theState law required by subsection (b) of this section, including—
+&emsp;(2) a description of the circumstances surrounding any expulsions imposed under the State law required by subsection (b) of this section, including—
 
 &emsp;&emsp;(A) the name of the school concerned;
 

@@ -14,7 +14,7 @@
 
 #### (C) Three-year rule
 
-&emsp;&emsp;If, after receiving the advice of the International Trade Commission under subsection (e) of this section, an article has been formally considered for designation as an eligible article under this subchapter anddenied such designation, such article may not be reconsidered for such designation for a period of 3 years after such denial.
+&emsp;&emsp;If, after receiving the advice of the International Trade Commission under subsection (e) of this section, an article has been formally considered for designation as an eligible article under this subchapter and denied such designation, such article may not be reconsidered for such designation for a period of 3 years after such denial.
 
 #### (2) Rule of origin
 
@@ -124,7 +124,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The President may disregard subparagraph (A)(i)(II) with respect to any eligible article from any beneficiary developing country if the aggregate appraised value of the imports of such article into the United States during the preceding calendar year does not exceed the applicable amount for such preceding calendar year.
+&emsp;&emsp;&emsp;The President may disregard subparagraph (A)(i)(II) with respect to any eligible article from any beneficiary developing country if the aggregate appraised value of the imports of such article into the United States during the preceding calendar yeardoes not exceed the applicable amount for such preceding calendar year.
 
 #### (ii) Applicable amount
 
@@ -174,7 +174,7 @@
 
 #### (B) Other waiver limits
 
-&emsp;&emsp;The President may not exercise the waiver authority provided under this subsectionwith respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
+&emsp;&emsp;The President may not exercise the waiver authority provided under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
 
 &emsp;&emsp;&emsp;(i) had a per capita gross national product (calculated on the basis of the best available information, including that of the International Bank for Reconstruction and Development) of $5,000 or more; or
 
@@ -198,7 +198,7 @@ Before designating articles as eligible articles under subsection (a)(1) of this
 
 #### (f) Special rule concerning Puerto Rico
 
-No action under this subchapter may affect any tariff duty imposed by the Legislature of Puerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
+No action under this subchapter may affect any tariff duty imposed by the Legislature ofPuerto Rico pursuant to section 1319 of this title on coffee imported into Puerto Rico.
 
 (Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258.)
 

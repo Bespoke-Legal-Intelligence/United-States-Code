@@ -2,7 +2,7 @@
 
 #### (a) Mutual Mortgage Insurance Fund
 
-There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the “Fund”), which shall be used by the Secretary as a revolving fund for carrying out the provisions of this subchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.
+There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as the “Fund”), which shall be used by the Secretary as a revolving fund for carrying out the provisions of thissubchapter with respect to mortgages insured under section 1709 of this title as hereinafter provided, and there shall be allocated immediately to such Fund the sum of $10,000,000 out of funds made available to the Secretary for the purposes of this subchapter.
 
 #### (b) Advisory Board
 
@@ -80,7 +80,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (B) Probation
 
-&emsp;&emsp;The Board may place a mortgagee on probation for a specified period of time not to exceed 6 months for the purpose of evaluating the mortgagee's compliance with Federal Housing Administration requirements, the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], Executive Order 11063, or orders of the Board. During the probation period, the Board may impose reasonable additional requirements on a mortgagee including supervision of the mortgagee's activities bythe Federal Housing Administration, periodic reporting to the Federal Housing Commissioner, or submission to Federal Housing Administration audits of internal financial statements, audits by an independent certified public accountant or other audits.
+&emsp;&emsp;The Board may place a mortgagee on probation for a specified period of time not to exceed 6 months for the purpose of evaluating the mortgagee's compliance with Federal Housing Administration requirements, the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], Executive Order 11063, or orders of the Board. During the probation period, the Board may impose reasonable additional requirements on a mortgagee including supervision of the mortgagee's activities by the Federal Housing Administration, periodic reporting to the Federal Housing Commissioner, or submission to Federal Housing Administration audits of internal financial statements, audits by an independent certified public accountant or other audits.
 
 #### (C) Suspension
 
@@ -116,7 +116,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
 
-&emsp;(C) In any case in which the notification of the Board does not result in a hearing (including any settlement by the Board and a mortgagee), any information regarding the nature of the violation and the resolution of the action shall be available to the public.
+&emsp;(C) In any case in which the notification of the Board does not result in a hearing (including any settlement by the Board and a mortgagee), any information regarding the natureof the violation and the resolution of the action shall be available to the public.
 
 #### (5) Publication
 
@@ -126,7 +126,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 &emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
 
-&emsp;(B) Within 10 days after the mortgagee has been served with a temporary cease-and-desistorder, the mortgagee may apply to the United States district court for the judicial district in which the home office of the mortgagee is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting of suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the mortgagee, and such court shall have jurisdiction to issue such injunction.
+&emsp;(B) Within 10 days after the mortgagee has been served with a temporary cease-and-desist order, the mortgagee may apply to the United States district court for the judicial district in which the home office of the mortgagee is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting of suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the mortgagee, and such court shall have jurisdiction to issue such injunction.
 
 &emsp;(C) In the case of violation or threatened violation of, or failure to obey, a temporary cease-and-desist order issued pursuant to this paragraph, the Secretary may apply to the United States district court, or the United States court of any territory, within the jurisdiction of which the home office of the mortgagee is located, for an injunction to enforce such order, and, if the court shall determine that there has been such violation or threatened violation or failure to obey, it shall be the duty of the court to issue such injunction.
 

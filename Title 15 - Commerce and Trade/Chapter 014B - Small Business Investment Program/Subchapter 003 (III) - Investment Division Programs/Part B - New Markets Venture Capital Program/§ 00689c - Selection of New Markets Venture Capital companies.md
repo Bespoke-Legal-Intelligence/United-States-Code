@@ -62,7 +62,7 @@ To participate, as a New Markets Venture Capital company, in the program establi
 
 #### (d) Requirements to be met for final approval
 
-The Administrator shall grant each conditionally approved company a period of time, not to exceed 2 years, to satisfy the following requirements:
+The Administrator shall grant each conditionally approved company a period of time, notto exceed 2 years, to satisfy the following requirements:
 
 #### (1) Capital requirement
 

@@ -50,7 +50,7 @@ The national response team, as established pursuant to the National Contingency 
 
 #### (g) Review of plans by regional response teams
 
-The regional response teams, as established pursuant to the National Contingency Plan as established under section 9605 of this title, may review and comment upon an emergency plan or other issues related to preparation, implementation, or exercise of such a plan upon request of a local emergency planning committee. Such review shall not delay implementation of the plan.
+The regional response teams, as established pursuant to the National Contingency Plan as established under section 9605 of this title, may review and comment upon an emergency plan or other issues related to preparation, implementation, or exercise of such a plan upon request ofa local emergency planning committee. Such review shall not delay implementation of the plan.
 
 (Pub. L. 99–499, title III, §303, Oct. 17, 1986, 100 Stat. 1731.)
 

@@ -60,7 +60,7 @@
 
 #### (6) Planning
 
-&emsp;Within nine months after October 17, 1986, the Secretary, acting through the Director of the National Institute for Environmental Health Sciences, shall issue a plan for the implementation of paragraph (1). The plan shall include priorities for actions under paragraph\(1) and include research and training relevant to scientific and technological issues resulting from site specific hazardous substance response experience. The Secretary shall, to the maximum extent practicable, take appropriate steps to coordinate program activities under this plan with the activities of other Federal agencies in order to avoid duplication of effort. The plan shall be consistent with the need for the development of new technologies for meeting the goals of response actions in accordance with the provisions of this chapter. The Advisory Council shall be provided an opportunity to review and comment on the plan and priorities and assist appropriate coordination among the relevant Federal agencies referred to in subparagraph (A) of paragraph (5).
+&emsp;Within nine months after October 17, 1986, the Secretary, acting through the Director of the National Institute for Environmental Health Sciences, shall issue a plan for the implementation of paragraph (1). The plan shall include priorities for actions under paragraph (1) and include research and training relevant to scientific and technological issues resulting from site specific hazardous substance response experience. The Secretary shall, to the maximum extent practicable, take appropriate steps to coordinate program activities under this plan with the activities of other Federal agencies in order to avoid duplication of effort. The plan shall be consistent with the need for the development of new technologies for meeting the goals of response actions in accordance with the provisions of this chapter. The Advisory Council shall be provided an opportunity to review and comment on the plan and priorities and assist appropriate coordination among the relevant Federal agencies referred to in subparagraph (A) of paragraph (5).
 
 #### (b) Alternative or innovative treatment technology research and demonstration program
 
@@ -168,7 +168,7 @@
 
 #### (10) Definition
 
-&emsp;For purposes of this subsection, the term “alternative or innovative treatment technologies” means those technologies, including proprietary or patented methods, which permanently alter the composition of hazardous waste through chemical, biological, or physical means so as to significantly reduce the toxicity, mobility, or volume (or any combination thereof) of the hazardous waste or contaminated materials being treated. The term also includes technologies that characterize or assess the extent of contamination, the chemical and physical character of the contaminants, and the stresses imposed by the contaminants on complex ecosystems at sites.
+&emsp;For purposes of this subsection, the term “alternative or innovative treatment technologies” means those technologies, including proprietary or patented methods, which permanently alter the composition of hazardous waste through chemical, biological, or physical means so as to significantly reduce the toxicity, mobility, or volume (or any combination thereof) of the hazardous waste or contaminated materials being treated. The term also includes technologies that characterize orassess the extent of contamination, the chemical and physical character of the contaminants, and the stresses imposed by the contaminants on complex ecosystems at sites.
 
 #### (c) Hazardous substance research
 
@@ -218,7 +218,7 @@ The Administrator may conduct and support, through grants, cooperative agreement
 
 #### (7) Limitation on use of funds
 
-&emsp;No funds made available to carry out this subsection shall be used for acquisition of realproperty (including buildings) or construction of any building.
+&emsp;No funds made available to carry out this subsection shall be used for acquisition of real property (including buildings) or construction of any building.
 
 #### (8) Administration through the Office of the Administrator
 
@@ -308,7 +308,7 @@ Hazardous waste research at the hanford site.—
 
 &emsp;“(A)
 
-Interagency agreements.—The Administrator and the Secretary of Energy are authorized to enter into interagency agreements with one anotherfor the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
+Interagency agreements.—The Administrator and the Secretary of Energy are authorized to enter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
 
 &emsp;“(B)
 

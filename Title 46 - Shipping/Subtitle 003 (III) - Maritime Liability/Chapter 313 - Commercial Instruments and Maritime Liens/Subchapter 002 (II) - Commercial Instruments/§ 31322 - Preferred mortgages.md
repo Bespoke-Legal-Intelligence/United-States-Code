@@ -4,11 +4,25 @@
 
 &emsp;(1) includes the whole of the vessel;
 
-&emsp;(2) is filed in substantial compliance with section 31321 of this title; and
+&emsp;(2) is filed in substantial compliance with section 31321 of this title;
 
 &emsp;(3)(A) covers a documented vessel; or
 
-&emsp;(B) covers a vessel for which an application for documentation is filed that is in substantial compliance with the requirements of chapter 121 of this title and the regulations prescribed under that chapter.
+&emsp;(B) covers a vessel for which an application for documentation is filed that is in substantial compliance with the requirements of chapter 121 of this title and the regulations prescribed under that chapter; and
+
+&emsp;(4) with respect to a vessel with a fishery endorsement that is 100 feet or greater in registered length, has as the mortgagee—
+
+&emsp;&emsp;(A) a person eligible to own a vessel with a fishery endorsement under section 12102(c) of this title;
+
+&emsp;&emsp;(B) a state <sup>1</sup> or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;
+
+&emsp;&emsp;(C) a farm credit lender established under title 12, chapter 23 of the United States Code;
+
+&emsp;&emsp;(D) a commercial fishing and agriculture bank established pursuant to State law;
+
+&emsp;&emsp;(E) a commercial lender organized under the laws of the United States or of a State and eligible to own a vessel under section 12102(a) of this title; or
+
+&emsp;&emsp;(F) a mortgage trustee under subsection (f) of this section.
 
 (b) Any indebtedness secured by a preferred mortgage that is filed or recorded under this chapter, or that is subject to a mortgage, security agreement, or instruments granting a security interest that is deemed to be a preferred mortgage under subsection (d) of this section, may have any rate of interest to which the parties agree.
 
@@ -40,61 +54,33 @@
 
 &emsp;(2) the status of the preferred mortgage covering the vessel to be documented under chapter 121 is determined by subsection (a) of this section.
 
+(f)(1) A mortgage trustee may hold in trust, for an individual or entity, an instrument or evidence of indebtedness, secured by a mortgage of the vessel to the mortgage trustee, provided that the mortgage trustee—
+
+&emsp;(A) is eligible to be a preferred mortgagee under subsection (a)(4), subparagraphs (A)–(E) of this section;
+
+&emsp;(B) is organized as a corporation, and is doing business, under the laws of the United States or of a State;
+
+&emsp;(C) is authorized under those laws to exercise corporate trust powers;
+
+&emsp;(D) is subject to supervision or examination by an official of the United States Government or a State;
+
+&emsp;(E) has a combined capital and surplus (as stated in its most recent published report of condition) of at least $3,000,000; and
+
+&emsp;(F) meets any other requirements prescribed by the Secretary.
+
+(2) If the beneficiary under the trust arrangement is not a commercial lender, a lender syndicate or eligible to be a preferred mortgagee under subsection (a)(4), subparagraphs (A)–(E) of this section, the Secretary must determine that the issuance, assignment, transfer, or trust arrangement does not result in an impermissible transfer of control of the vessel to a person not eligible to own a vessel with a fishery endorsement under section 12102(c) of this title.
+
+(3) A vessel with a fishery endorsement may be operated by a mortgage trustee only with the approval of the Secretary.
+
+(4) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, or transferred to a person not eligible to be a mortgagee of that vessel under this section only with the approval of the Secretary.
+
+(5) The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this subsection is voidable by the Secretary.
+
+(g) For purposes of this section a “commercial lender” means an entity primarily engaged in the business of lending and other financing transactions with a loan portfolio in excess of $100,000,000, of which not more than 50 per centum in dollar amount consists of loans to borrowers in the commercial fishing industry, as certified to the Secretary by such lender.
+
+(h) For purposes of this section a “lender syndicate” means an arrangement established for the combined extension of credit of not less than $20,000,000 made up of four or more entities that each have a beneficial interest, held through an agent, under a trust arrangement established pursuant to subsection (f), no one of which may exercise powers thereunder without the concurrence of at least one other unaffiliated beneficiary.
+
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4743; Pub. L. 101–225, title III, §303(3), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title XI, §1113(a), Oct. 19, 1996, 110 Stat. 3970; Pub. L. 105–277, div. C, title II, §202(b), Oct. 21, 1998, 112 Stat. 2681–618; Pub. L. 105–383, title IV, §401(c)(1)–(4), Nov. 13, 1998, 112 Stat. 3425; Pub. L. 106–31, title III, §3027(a)(1), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(b), (c), July 24, 2001, 115 Stat. 168, 169.)
-
-#### Enactment of Subsection (a)(4)
-
-<i>Pub. L. 105–277, div. C, title II, §§202(b), 203(a), Oct. 21, 1998, 112 Stat. 2681–618, 2681–619, as amended by Pub. L. 106–31, title III, §3027(a)(1), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(b), (d), July 24, 2001, 115 Stat. 168, 170, provided that, not effective until Apr. 1, 2003, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) by striking “and” at the end of paragraph (2);</i>
-
-<i>(2) by striking the period at the end of paragraph (3)(B) and inserting in lieu thereof a semicolon and “and”; and</i>
-
-<i>(3) by inserting at the end the following new paragraph:</i>
-
-&emsp;<i>(4) with respect to a vessel with a fishery endorsement that is 100 feet or greater in registered length, has as the mortgagee—</i>
-
-&emsp;&emsp;<i>(A) a person eligible to own a vessel with a fishery endorsement under section 12102(c) of this title;</i>
-
-&emsp;&emsp;<i>(B) a state or federally chartered financial institution that is insured by the Federal Deposit Insurance Corporation;</i>
-
-&emsp;&emsp;<i>(C) a farm credit lender established under title 12, chapter 23 of the United States Code;</i>
-
-&emsp;&emsp;<i>(D) a commercial fishing and agriculture bank established pursuant to State law;</i>
-
-&emsp;&emsp;<i>(E) a commercial lender organized under the laws of the United States or of a State and eligible to own a vessel under section 12102(a) of this title; or</i>
-
-&emsp;&emsp;<i>(F) a mortgage trustee under subsection (f) of this section.</i>
-
-#### Enactment of Subsections (f) to (h)
-
-<i>Pub. L. 107–20, title II, §2202(c), (d), July 24, 2001, 115 Stat. 169, 170, provided that, not effective until Apr. 1, 2003, this section is amended by adding at the end the following new subsections:</i>
-
-<i>(f)(1) A mortgage trustee may hold in trust, for an individual or entity, an instrument or evidence of indebtedness, secured by a mortgage of the vessel to the mortgage trustee, provided that the mortgage trustee—</i>
-
-&emsp;<i>(A) is eligible to be a preferred mortgagee under subsection (a)(4), subparagraphs (A)–(E) of this section;</i>
-
-&emsp;<i>(B) is organized as a corporation, and is doing business, under the laws of the United States or of a State;</i>
-
-&emsp;<i>(C) is authorized under those laws to exercise corporate trust powers;</i>
-
-&emsp;<i>(D) is subject to supervision or examination by an official of the United States Government or a State;</i>
-
-&emsp;<i>(E) has a combined capital and surplus (as stated in its most recent published report of condition) of at least $3,000,000; and</i>
-
-&emsp;<i>(F) meets any other requirements prescribed by the Secretary.</i>
-
-<i>(2) If the beneficiary under the trust arrangement is not a commercial lender, a lender syndicate or eligible to be a preferred mortgagee under subsection (a)(4), subparagraphs (A)–(E) of this section, the Secretary must determine that the issuance, assignment, transfer, or trust arrangement does not result in an impermissible transfer of control of the vessel to a person not eligible to own a vessel with a fishery endorsement under section 12102(c) of this title.</i>
-
-<i>(3) A vessel with a fishery endorsement may be operated by a mortgage trustee only with the approval of the Secretary.</i>
-
-<i>(4) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, or transferred to a person not eligible to be a mortgagee of that vessel under this section only with the approval of the Secretary.</i>
-
-<i>(5) The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this subsection is voidable by the Secretary.</i>
-
-<i>(g) For purposes of this section a “commercial lender” means an entity primarily engaged in the business of lending and other financing transactions with a loan portfolio in excess of $100,000,000, of which not more than 50 per centum in dollar amount consists of loans to borrowers in the commercial fishing industry, as certified to the Secretary by such lender.</i>
-
-<i>(h) For purposes of this section a “lender syndicate” means an arrangement established for the combined extension of credit of not less than $20,000,000 made up of four or more entities that each have a beneficial interest, held through an agent, under a trust arrangement established pursuant to subsection (f), no one of which may exercise powers thereunder without the concurrence of at least one other unaffiliated beneficiary.</i>
 
 Historical and Revision Notes
 
@@ -160,15 +146,27 @@ Information on vessels with preferred mortgages made under State law will be ava
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–383, §401(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
+2001—Subsec. (a)(4)(B) to (F). Pub. L. 107–20, §2202(b), added subpars. (B) to (F) and struck out former subpars. (B) and (C) which read as follows:
 
-Subsec. (d)(1). Pub. L. 105–383, §401(c)(2), substituted “mortgage, security agreement, or instrument” for “mortgage or instrument” in introductory provisions and subpar. (B).
+“(B) a state or federally chartered financial institution that satisfies the controlling interest criteria of section 2(b) of the Shipping Act, 1916 (46 U.S.C. 802(b));
+
+“(C) a person that complies with the provisions of section 12102(c)(4) of this title.”
+
+Subsec. (f) to (h). Pub. L. 107–20, §2202(c), added subsecs. (f) to (h).
+
+1999—Subsec. (a)(4). Pub. L. 106–31 made techical amendment to directory language of Pub. L. 105–277, §202(b). See 1998 Amendment note below.
+
+1998—Subsec. (a)(4). Pub. L. 105–277, §202(b), as amended by Pub. L. 106–31, added par. (4).
+
+Subsec. (b). Pub. L. 105–383, §401(c)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “A preferred mortgage filed or recorded under this chapter may have any rate of interest that the parties to the mortgage agree to.”
+
+Subsec. (d)(1). Pub. L. 105–383, §401(c)(2), substituted “mortgage, security agreement, or instrument” for“mortgage or instrument” in introductory provisions and subpar. (B).
 
 Subsec. (d)(2). Pub. L. 105–383, §401(c)(4), substituted “mortgages, security agreements, or instruments” for “mortgages or instruments” in introductory provisions.
 
 Subsec. (d)(3). Pub. L. 105–383, §401(c)(3), added par. (3) and struck out former par. (3) which read as follows: “A preferred mortgage under this subsection continues to be a preferred mortgage if the vessel is no longer titled in the State where the mortgage was made.”
 
-1996—Subsec. (a). Pub. L. 104–324 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining apreferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
+1996—Subsec. (a). Pub. L. 104–324 amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of 2 pars. with substantially similar provisions defining a preferred mortgage except that it included a mortgage with a State, the United States Government, a federally insured depository institution, or specified individual as mortgagee.
 
 1989—Subsec. (a)(2). Pub. L. 101–225, §303(3)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1)(D) of this subsection does not apply to a vessel operated only as a fishing vessel, fish processing vessel, or a fish tender vessel (as defined in section 2101 of this title) or to a vessel operated only for pleasure.”
 
@@ -191,4 +189,6 @@ Section effective Jan. 1, 1989, not to affect any civil action filed before that
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12102, 12124, 12503, 31301, 31321, 31327, 31343 of this title; section 808 of Appendix to this title; title 10 section 2218.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

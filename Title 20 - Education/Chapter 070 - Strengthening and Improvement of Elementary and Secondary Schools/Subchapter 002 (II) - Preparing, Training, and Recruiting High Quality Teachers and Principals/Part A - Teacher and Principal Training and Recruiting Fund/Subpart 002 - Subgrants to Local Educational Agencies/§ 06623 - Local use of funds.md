@@ -6,7 +6,7 @@ A local educational agency that receives a subgrant under section 6621 of this t
 
 &emsp;(1) Developing and implementing mechanisms to assist schools in effectively recruiting and retaining highly qualified teachers, including specialists in core academic subjects, principals, and pupil services personnel, except that funds made available under this paragraph may be used for pupil services personnel only—
 
-&emsp;&emsp;(A) if the local educational agency is making progress toward meeting the annualmeasurable objectives described in section 6319(a)(2) of this title; and
+&emsp;&emsp;(A) if the local educational agency is making progress toward meeting the annual measurable objectives described in section 6319(a)(2) of this title; and
 
 &emsp;&emsp;(B) in a manner consistent with mechanisms to assist schools in effectively recruiting and retaining highly qualified teachers and principals.
 
@@ -26,7 +26,7 @@ A local educational agency that receives a subgrant under section 6621 of this t
 
 &emsp;&emsp;&emsp;(ii) train and hire highly qualified teachers of special needs children, as well as teaching specialists in core academic subjects who will provide increased individualized instruction to students;
 
-&emsp;&emsp;&emsp;(iii) recruit qualified professionals from other fields, including highly qualified paraprofessionals, and provide such professionals with alternative routes to teacher certification, including developing and implementing hiring policies that ensure comprehensive recruitment efforts as a way to expand the applicant pool, such as through identifying teachers certified through alternative routes, and using a system of intensive screening designed to hire the most qualified applicants; and
+&emsp;&emsp;&emsp;(iii) recruit qualified professionals from other fields, including highly qualified paraprofessionals, and provide such professionals with alternative routes to teacher certification, including developing and implementing hiring policies that ensure comprehensive recruitment efforts as a way to expand the applicant pool, such asthrough identifying teachers certified through alternative routes, and using a system of intensive screening designed to hire the most qualified applicants; and
 
 &emsp;&emsp;&emsp;(iv) provide increased opportunities for minorities, individuals with disabilities, and other individuals underrepresented in the teaching profession.
 

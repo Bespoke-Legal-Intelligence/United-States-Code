@@ -76,7 +76,7 @@ Historical and Revision Notes
 
 &emsp;“(2) contract surgeon of the Army, Navy, or Air Force;
 
-> to make allotments from his pay for the support of his relatives, or for any other purpose that the Secretary concerned considers proper. If an allotment made under this subsection is paid to the allottee before the disbursing officer receives a notice of discontinuance fromthe officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned, from the officer who failed to make the report.”
+> to make allotments from his pay for the support of his relatives, or for any other purpose that the Secretary concerned considers proper. If an allotment made under this subsection is paid to the allottee before the disbursing officer receives a notice of discontinuance from the officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned, from the officer who failed to make the report.”
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Necessity and reasons for flood insurance program
 
-The Congress finds that (1) from time to time flood disasters have created personal hardships and economic distress which have required unforeseen disaster relief measures and have placed an increasing burden on the Nation's resources; (2) despite the installation of preventiveand protective works and the adoption of other public programs designed to reduce losses caused by flood damage, these methods have not been sufficient to protect adequately against growing exposure to future flood losses; (3) as a matter of national policy, a reasonable method of sharing the risk of flood losses is through a program of flood insurance which can complement and encourage preventive and protective measures; and (4) if such a program is initiated and carried out gradually, it can be expanded as knowledge is gained and experience is appraised, thus eventually making flood insurance coverage available on reasonable terms and conditions to persons who have need for such protection.
+The Congress finds that (1) from time to time flood disasters have created personal hardships and economic distress which have required unforeseen disaster relief measures and have placed an increasing burden on the Nation's resources; (2) despite the installation of preventive and protective works and the adoption of other public programs designed to reduce losses caused by flood damage, these methods have not been sufficient to protect adequately against growing exposure to future flood losses; (3) as a matter of national policy, a reasonable method of sharing the risk of flood losses is through a program of flood insurance which can complement and encourage preventive and protective measures; and (4) if such a program is initiated and carried out gradually, it can be expanded as knowledge is gained and experience is appraised, thus eventually making flood insurance coverage available on reasonable terms and conditions to persons who have need for such protection.
 
 #### (b) Participation of Federal Government in flood insurance program carried out by private insurance industry
 
@@ -41,6 +41,12 @@ This chapter, referred to in subsecs. (d) to (f), is title XIII of Pub. L. 90–
 #### Effective Date
 
 Section 1377 of title XIII of Pub. L. 90–448 provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+
+#### Short Title of 2003 Amendments
+
+Pub. L. 108–171, §1, Dec. 6, 2003, 117 Stat. 2064, provided that: “This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2004’.”
+
+Pub. L. 108–3, §1, Jan. 13, 2003, 117 Stat. 7, provided that: “This Act \[amending sections 4016, 4026, 4056, and 4127 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Reauthorization Act of 2003’.”
 
 #### Short Title of 1994 Amendment
 
@@ -140,7 +146,7 @@ Costs and Benefits of Mapping.—The determination under subsection (a)(5) shall
 
 &emsp;&emsp;“(A) funding the mitigation assistance program under section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\] (as added by section 553 of this Act);
 
-&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the national flood insurance program for compliance with land use and control measures; and
+&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the nationalflood insurance program for compliance with land use and control measures; and
 
 &emsp;&emsp;“(C) reviewing, revising, and updating flood insurance rate maps under subsections (e) and (f) of section 1360 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(e), (f)\] (as added by the amendment made by section 575 of this Act);
 

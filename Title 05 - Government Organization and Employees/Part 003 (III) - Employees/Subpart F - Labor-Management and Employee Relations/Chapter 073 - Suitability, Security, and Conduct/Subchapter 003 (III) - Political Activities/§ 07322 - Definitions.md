@@ -20,7 +20,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) includes any contract, promise, or agreement, express or implied, whether or not legally enforceable, to make a contribution for any political purpose;
 
-&emsp;&emsp;(C) includes any payment by any person, other than a candidate or a political party or affiliated organization, of compensation for the personal services of another person which are rendered to any candidate or political party or affiliated organization without charge for any political purpose; and
+&emsp;&emsp;(C) includes any payment by any person, other than a candidate or a political partyor affiliated organization, of compensation for the personal services of another person which are rendered to any candidate or political party or affiliated organization without charge for any political purpose; and
 
 &emsp;&emsp;(D) includes the provision of personal services for any political purpose.
 

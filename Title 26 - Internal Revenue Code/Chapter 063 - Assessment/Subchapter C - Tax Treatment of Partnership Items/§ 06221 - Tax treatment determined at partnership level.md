@@ -20,7 +20,7 @@ Section 407(a) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(2) Section 6232 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to periods after December 31, 1982.
 
-“(3) The amendments made by sections 402, 403, and 404 shall apply to any partnership taxable year (or in the case of section 6232 of such Code, to any period) ending after the date of the enactment of this Act \[Sept. 3, 1982\] if the partnership, each partner, and eachindirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application.”
+“(3) The amendments made by sections 402, 403, and 404 shall apply to any partnership taxable year (or in the case of section 6232 of such Code, to any period) ending after the date of the enactment of this Act \[Sept. 3, 1982\] if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application.”
 
 #### Short Title
 

@@ -58,7 +58,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (f)
 
-Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automaticcrash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
+Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automatic crash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
 
 &emsp;(A) affecting another provision of law carried out by the Secretary of Transportation applicable to passenger cars, buses, multipurpose passenger vehicles, or trucks; or
 
@@ -176,7 +176,7 @@ In subsection (h)(2), the words “for both front outboard seating positions” 
 
 #### References in Text
 
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 
@@ -390,7 +390,7 @@ Coordination of effective dates.—The requirements of S13 of Standard No. 208 s
 
 &emsp;“(5)
 
-Credit for early compliance.—To encourage early compliance, the Secretary is directed to include in the notice of proposed rulemaking required by paragraph (1) means by which manufacturers mayearn credits for future compliance. Credits, on a one-vehicle for one-vehicle basis, may be earned for vehicles certified as being in full compliance under section 30115 of title 49, United States Code, with the rule required by paragraph (2) which are either—
+Credit for early compliance.—To encourage early compliance, the Secretary is directed to include in the notice of proposed rulemaking required by paragraph (1) means by which manufacturers may earn credits for future compliance. Credits, on a one-vehicle for one-vehicle basis, may be earned for vehicles certified as being in full compliance under section 30115 of title 49, United States Code, with the rule required by paragraph (2) which are either—
 
 &emsp;&emsp;“(A) so certified in advance of the phase-in period; or
 
@@ -398,7 +398,7 @@ Credit for early compliance.—To encourage early compliance, the Secretary is d
 
 “(b)
 
-Advisory Committees.—Any government advisory committee, task force, or other entity involving air bags shall include representatives of consumer and safety organizations, insurers, manufacturers, and suppliers.”
+Advisory Committees.—Any government advisory committee, task force, or other entity involving air bags shall include representatives of consumer andsafety organizations, insurers, manufacturers, and suppliers.”
 
 #### Section Referred to in Other Sections
 

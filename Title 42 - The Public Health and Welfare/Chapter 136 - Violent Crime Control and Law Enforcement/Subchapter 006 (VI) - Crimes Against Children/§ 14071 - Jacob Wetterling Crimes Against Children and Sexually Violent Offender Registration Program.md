@@ -6,7 +6,7 @@
 
 &emsp;The Attorney General shall establish guidelines for State programs that require—
 
-&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for thetime period specified in subparagraph (A) of subsection (b)(6) of this section; and
+&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for the time period specified in subparagraph (A) of subsection (b)(6) of this section; and
 
 &emsp;&emsp;(B) a person who is a sexually violent predator to register a current address unless such requirement is terminated under subparagraph (B) of subsection (b)(6) of this section.
 
@@ -42,9 +42,11 @@
 
 &emsp;&emsp;&emsp;(vi) solicitation of a minor to practice prostitution;
 
-&emsp;&emsp;&emsp;(vii) any conduct that by its nature is a sexual offense against a minor; or
+&emsp;&emsp;&emsp;(vii) any conduct that by its nature is a sexual offense against a minor;
 
-&emsp;&emsp;&emsp;(viii) an attempt to commit an offense described in any of clauses (i) through (vii), if the State—
+&emsp;&emsp;&emsp;(viii) production or distribution of child pornography, as described in section 2251, 2252, or 2252A of title 18; or
+
+&emsp;&emsp;&emsp;(ix) an attempt to commit an offense described in any of clauses (i) through (vii), if the State—
 
 &emsp;&emsp;&emsp;&emsp;(I) makes such an attempt a criminal offense; and
 
@@ -76,7 +78,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(ii) inform the person that if the person changes residence address, the person shall report the change of address as provided by State law;
 
-&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State ofresidence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
+&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State of residence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
 
 &emsp;&emsp;(iv) obtain fingerprints and a photograph of the person if these have not already been obtained in connection with the offense that triggers registration; and
 
@@ -142,7 +144,7 @@ A person required to register under a State program established pursuant to this
 
 (1) The information collected under a State registration program may be disclosed for any purpose permitted under the laws of the State.
 
-(2) The State or any agency authorized by the State shall release relevant information that isnecessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
+(2) The State or any agency authorized by the State shall release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released. The release of information under this paragraph shall include the maintenance of an Internet site containing such information that is available to the public and instructions on the process for correcting information that a person alleges to be erroneous.
 
 #### (f) Immunity for good faith conduct
 
@@ -204,7 +206,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 1999 and 2000.
+&emsp;There is authorized to be appropriated for each of the fiscal years 2004 through 2007 such sums as may be necessary to carry out the provisions of section 3796dd(d)(10) of this title, as added by the PROTECT Act.
 
 #### (j) Notice of enrollment at or employment by institutions of higher education
 
@@ -220,7 +222,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (B) Change in status
 
-&emsp;&emsp;A change in status under subparagraph (A)(ii) shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated information is promptly made available to a law enforcement agency having jurisdiction wheresuch institution is located and entered into the appropriate State records or data system.
+&emsp;&emsp;A change in status under subparagraph (A)(ii) shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated information is promptly made available to a law enforcement agency having jurisdiction where such institution is located and entered into the appropriate State records or data system.
 
 #### (2) State reporting
 
@@ -234,9 +236,21 @@ Each requirement to register under this section shall be deemed to also require 
 
 &emsp;Nothing in this subsection shall require an educational institution to request such information from any State.
 
-(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985; Pub. L. 106–386, div. B, title VI, §1601(b)(1), Oct. 28, 2000, 114 Stat. 1537.)
+(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985; Pub. L. 106–386, div. B, title VI, §1601(b)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 108–21, title VI, §§604(a), 605(a), 606, Apr. 30, 2003, 117 Stat. 688.)
+
+#### References in Text
+
+Section 3796dd(d)(10) of this title, as added by the PROTECT Act, referred to in subsec. (i)(3), means section 3796dd(d)(10) of this title, as added by Pub. L. 108–21.
 
 #### Amendments
+
+2003—Pub. L. 108–21, §605(a)(1), substituted “Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program” for “Establishment of Program” in section catchline.
+
+Subsec. (a)(3)(A)(viii), (ix). Pub. L. 108–21, §605(a)(2), added cl. (viii) and redesignated former cl. (viii) as (ix).
+
+Subsec. (e)(2). Pub. L. 108–21, §604(a), inserted at end “The release of information under this paragraph shall include the maintenance of an Internet site containing such information that is available to the public and instructions on the process for correcting information that a person alleges to be erroneous.”
+
+Subsec. (i)(3). Pub. L. 108–21, §606, amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 1999 and 2000.”
 
 2000—Subsec. (j). Pub. L. 106–386 added subsec. (j).
 
@@ -280,7 +294,7 @@ Subsec. (b)(3)(A)(i) to (iv). Pub. L. 105–119, §115(a)(2)(C)(ii), which direc
 
 Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agency with which the person must register in the new State, if the new State has a registration requirement”.
 
-Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agencyresponsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
+Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agency responsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
 
 Subsec. (b)(7). Pub. L. 105–119, §115(a)(2)(F), added par. (7).
 
@@ -315,6 +329,10 @@ Subsec. (d). Pub. L. 104–145 amended heading and text of subsec. (d) generally
 &emsp;“(3) the designated State law enforcement agency and any local law enforcement agency authorized by the State agency may release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.”
 
 Subsec. (g). Pub. L. 104–236, §5, added subsec. (g).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–21, title VI, §604(b), Apr. 30, 2003, 117 Stat. 688, provided that: “Each State shall implement the amendment made by this section \[amending this section\] within 3 years after the date of enactment of this Act \[Apr. 30, 2003\], except that the Attorney General may grant an additional 2 years to a State that is making a good faith effort to implement the amendment made by this section.”
 
 #### Effective Date of 2000 Amendment
 
@@ -354,7 +372,7 @@ Effective Date.—States shall be allowed the time specified in subsection (b) t
 
 #### Regulations
 
-Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the date of enactment of this Act\[Oct. 3, 1996\], the Attorney General shall issue regulations to carry out this Act \[see Effective Date of 1996 Amendment note above\] and the amendments made by this Act.”
+Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 3, 1996\], the Attorney General shall issue regulations to carry out this Act \[see Effective Date of 1996 Amendment note above\] and the amendments made by this Act.”
 
 #### Severability
 
@@ -363,6 +381,10 @@ Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
+#### National Internet Site
+
+Pub. L. 108–21, title VI, §604(c), Apr. 30, 2003, 117 Stat. 688, provided that: “The Crimes Against Children Section of the Criminal Division of the Department of Justice shall create a national Internet site that links all State Internet sites established pursuant to this section \[amending this section and enacting provisions set out as a note under this section\].”
 
 #### Study of Sex Offender Management Assistance Program
 
@@ -380,7 +402,7 @@ In General.—Not later than 1 year after the date of the enactment of this Act 
 
 Contents of Study.—The study under this section shall include an examination of—
 
-&emsp;“(1) existing State programs for informing the public about the presence of sexual predators released from prison, as required in section 170101 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071), including the use of CD-ROMs, Internet databases, and Sexual Offender Identification Hotlines, such as those used in the State of California; and
+&emsp;“(1) existing State programs for informing the public about the presence of sexual predators releasedfrom prison, as required in section 170101 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071), including the use of CD-ROMs, Internet databases, and Sexual Offender Identification Hotlines, such as those used in the State of California; and
 
 &emsp;“(2) the feasibility of establishing a national hotline for parents to access a Federal Bureau of Investigation database that tracks the location of convicted sexual predators established under section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14072) and, in determining that feasibility, the Attorney General shall examine issues including the cost, necessary changes to Federal and State laws necessitated by the creation of such a hotline, consistency with Federal and State case law pertaining to community notification, and the need for, and accuracy and reliability of, the information available through such a hotline.”
 

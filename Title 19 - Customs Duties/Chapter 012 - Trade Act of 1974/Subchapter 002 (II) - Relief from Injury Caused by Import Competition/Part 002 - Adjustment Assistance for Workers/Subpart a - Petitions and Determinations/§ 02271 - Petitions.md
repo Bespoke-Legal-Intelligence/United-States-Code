@@ -80,7 +80,7 @@ Pub. L. 107–210, div. A, title I, §125, Aug. 6, 2002, 116 Stat. 946, provided
 
 “(a)
 
-Declaration of Policy.—Congress reiterates that, under the trade adjustment assistance program under chapter 2 of title II of the Trade Act of 1974 \[this part\], workers are eligible for transportation, childcare, and healthcare assistance, as well as other related assistance under programs administered by the Department of Labor.
+Declaration of Policy.—Congress reiterates that, under the trade adjustment assistance program under chapter 2 of title II of the Trade Act of 1974 \[thispart\], workers are eligible for transportation, childcare, and healthcare assistance, as well as other related assistance under programs administered by the Department of Labor.
 
 “(b)
 

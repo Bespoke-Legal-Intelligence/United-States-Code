@@ -14,7 +14,7 @@ The purpose of this section is to assist in the provision of facilities for any 
 
 For the purposes of this section—
 
-&emsp;(1) the term “nursing home” means a public facility, proprietary facility or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located), for the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care but who require skilled nursing care and relatedmedical services, in which such nursing care and medical services are prescribed by, or are performed under the general direction of, persons licensed to provide such care or services in accordance with the laws of the State where the facility is located;
+&emsp;(1) the term “nursing home” means a public facility, proprietary facility or facility of a private nonprofit corporation or association, licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located), for the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care but who require skilled nursing care and related medical services, in which such nursing care and medical services are prescribed by, or are performed under the general direction of, persons licensed to provide such care or services in accordance with the laws of the State where the facility is located;
 
 &emsp;(2) the term “intermediate care facility” means a proprietary facility or facility of a private nonprofit corporation or association licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located) for the accommodation of persons who, because of incapacitating infirmities, require minimum but continuous care but are not in need of continuous medical or nursing services;
 
@@ -44,7 +44,7 @@ In order to carry out the purposes of this section, the Secretary is authorized 
 
 &emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
-&emsp;(2) The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated value of the property or project, or 95 percent of the estimated valueof the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title), including—
+&emsp;(2) The mortgage shall involve a principal obligation in an amount not to exceed 90 per centum of the estimated value of the property or project, or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title), including—
 
 &emsp;&emsp;(A) equipment to be used in the operation of the home or facility or combined home and facility when the proposed improvements are completed and the equipment is installed; or
 
@@ -84,7 +84,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (h) Consultations concerning need for and availability of intermediate care facilities
 
-The Secretary shall also consult with the Secretary of Health and Human Services as to the need for and the availability of intermediate care facilities in any area for which an intermediate care facility is proposed under this section.
+The Secretary shall also consult with the Secretary of Health and Human Services as to the need for and the availability of intermediatecare facilities in any area for which an intermediate care facility is proposed under this section.
 
 #### (i) Fire safety equipment for nursing homes, assisted living facilities, intermediate care facilities, or board and care homes
 
@@ -136,7 +136,7 @@ Subsec. (a)(3). Pub. L. 102–550, §511(a)(2), added par. (3).
 
 Subsec. (b)(6), (7). Pub. L. 102–550, §511(b), added pars. (6) and (7).
 
-Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
+Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home orfacility is being rehabilitated,” after first reference to “intermediate care facility”.
 
 Subsec. (d)(2). Pub. L. 102–550, §511(c)(2), inserted “or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title),” before “including” in introductory provisions.
 
@@ -186,7 +186,7 @@ Subsec. (b)(2). Pub. L. 95–557, §312(b), inserted “(3) a ‘nursing home’
 
 1973—Subsec. (i). Pub. L. 93–204 added subsec. (i).
 
-1969—Subsec. (a). Pub. L. 91–152, §111(1), added to stated purpose of this section of developing nursing homes, the development of intermediate care facilities or thedevelopment of such facilities in combination with nursing home facilities.
+1969—Subsec. (a). Pub. L. 91–152, §111(1), added to stated purpose of this section of developing nursing homes, the development of intermediate care facilities or the development of such facilities in combination with nursing home facilities.
 
 Subsec. (b). Pub. L. 91–152, §111(2), (3), struck out “and” after “is located;” in par. (1), redesignated par. (2) as (3), and added par. (2).
 
@@ -200,7 +200,7 @@ Subsecs. (g), (h). Pub. L. 91–152, §111(7), added subsecs. (g) and (h).
 
 1968—Subsec. (b)(2). Pub. L. 90–448, §314(1), redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from the date the mortgage was executed, and inserted definition of “first mortgage”.
 
-Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home, and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
+Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home,and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
 
 1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 

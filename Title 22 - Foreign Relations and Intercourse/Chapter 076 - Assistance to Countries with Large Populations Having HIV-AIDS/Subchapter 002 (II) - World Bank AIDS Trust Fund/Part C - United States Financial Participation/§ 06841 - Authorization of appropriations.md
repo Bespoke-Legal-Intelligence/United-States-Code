@@ -12,5 +12,5 @@ Of the amounts authorized to be appropriated by subsection (a) of this section f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6842 of this title.
+This section is referred to in sections 6842, 7622 of this title.
 

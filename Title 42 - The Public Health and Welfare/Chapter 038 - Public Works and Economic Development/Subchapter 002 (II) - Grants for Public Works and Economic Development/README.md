@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 7274h, 9815 of this title.
+This subchapter is referred to in section 9815 of this title; title 50 section 2704.
 
 
 ---

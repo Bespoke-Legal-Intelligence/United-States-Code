@@ -12,7 +12,7 @@ Appointment of Officers to Joint Staff.—(1) There is a Joint Staff under the C
 
 &emsp;(C) the Air Force.
 
-(3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstandingofficers of that armed force. The Chairman may specify the number of officers to be included on any such list.
+(3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 
 (b)
 
@@ -81,6 +81,10 @@ Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted “the President
 #### Effective Date of 1993 Amendment
 
 Section 202(b) of Pub. L. 103–35 provided that: “The amendments made by this section \[amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of \[former\] Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade\] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 

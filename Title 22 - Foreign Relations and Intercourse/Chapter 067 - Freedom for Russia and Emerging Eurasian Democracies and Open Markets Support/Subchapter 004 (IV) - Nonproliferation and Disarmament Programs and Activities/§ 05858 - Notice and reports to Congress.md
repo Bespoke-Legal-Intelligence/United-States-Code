@@ -4,7 +4,7 @@
 
 Not less than 15 days before obligating any funds under section 5853 or 5854 of this title or the amendments made by section 506(a),<sup>1</sup> the President shall transmit to the Speaker of the House of Representatives, the President Pro Tempore of the Senate, and the appropriate congressional committees a report on the proposed obligation. Each such report shall specify—
 
-&emsp;(1) the account, budget activity, and particular program or programs from which the fundsproposed to be obligated are to be derived and the amount of the proposed obligations; and
+&emsp;(1) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligations; and
 
 &emsp;(2) the activities and forms of assistance for which the President plans to obligate such funds.
 

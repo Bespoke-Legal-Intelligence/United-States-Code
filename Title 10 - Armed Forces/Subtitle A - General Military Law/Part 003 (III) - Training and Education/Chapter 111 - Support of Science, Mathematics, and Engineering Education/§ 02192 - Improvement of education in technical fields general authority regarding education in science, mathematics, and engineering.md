@@ -2,15 +2,35 @@
 
 (a) The Secretary of Defense, in consultation with the Secretary of Education, shall, on a continuing basis—
 
-&emsp;(1) identify actions which the Department of Defense may take to improve education in the scientific, mathematics, and engineering skills necessary to meet the long-term national defense needs of the United States for personnel proficient in such skills; and
+&emsp;(1) identify actions which the Department of Defense may take to improve education in thescientific, mathematics, and engineering skills necessary to meet the long-term national defense needs of the United States for personnel proficient in such skills; and
 
 &emsp;(2) establish and conduct programs to carry out such actions.
 
-(b) The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
+(b)(1) In furtherance of the authority of the Secretary of Defense under any provision of this chapter or any other provision of law to support educational programs in science, mathematics, engineering, and technology, the Secretary of Defense may, unless otherwise specified in such provision—
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633.)
+&emsp;(A) enter into contracts and cooperative agreements with eligible entities;
+
+&emsp;(B) make grants of financial assistance to eligible entities;
+
+&emsp;(C) provide cash awards and other items to eligible entities;
+
+&emsp;(D) accept voluntary services from eligible entities; and
+
+&emsp;(E) support national competition judging, other educational event activities, and associated award ceremonies in connection with these educational programs.
+
+(2) In this subsection:
+
+&emsp;(A) The term “eligible entity” includes a department or agency of the Federal Government, a State, a political subdivision of a State, an individual, and a not-for-profit or other organization in the private sector.
+
+&emsp;(B) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
+
+(c) The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
+
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423.)
 
 #### Amendments
+
+2003—Subsecs. (b), (c). Pub. L. 108–136 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1999—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: “Science, mathematics, and engineering education”.
 

@@ -62,7 +62,7 @@ Program Activities.—The program shall include the following activities regardi
 
 &emsp;“(1) The coordination and support activities described in section 251 of Public Law 103–160 \[set out below\].
 
-&emsp;“(2) Epidemiologic research regarding women deployed for military operations, including research on patterns of illness and injury, environmental and occupational hazards (including exposure to toxins), side-effects of pharmaceuticals used by women so deployed, psychological stress associated with militarytraining, deployment, combat and other traumatic incidents, and other conditions of life, and human factor research regarding women so deployed.
+&emsp;“(2) Epidemiologic research regarding women deployed for military operations, including research on patterns of illness and injury, environmental and occupational hazards (including exposure to toxins), side-effects of pharmaceuticals used by women so deployed, psychological stress associated with military training, deployment, combat and other traumatic incidents, and other conditions of life, and human factor research regarding women so deployed.
 
 &emsp;“(3) Development of a data base to facilitate long-term research studies on issues related to the health of women in military service, and continued development and support of a women's health information clearinghouse to serve as an information resource for clinical, research, and policy issues affecting women in the Armed Forces.
 

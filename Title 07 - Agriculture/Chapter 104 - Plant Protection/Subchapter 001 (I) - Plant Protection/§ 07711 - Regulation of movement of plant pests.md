@@ -16,7 +16,7 @@ The Secretary shall ensure that the processes used in developing regulations und
 
 #### (2) Petition to add or remove plant pests from regulation
 
-&emsp;Any person may petition the Secretary to add a plant pest to, or remove a plant pestfrom, the regulations issued by the Secretary under paragraph (1).
+&emsp;Any person may petition the Secretary to add a plant pest to, or remove a plant pest from, the regulations issued by the Secretary under paragraph (1).
 
 #### (3) Response to petition by the Secretary
 

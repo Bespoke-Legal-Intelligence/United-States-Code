@@ -38,7 +38,7 @@ The preferential treatment described in subsection (a) of this section shall app
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to subparagraph (A), preferential treatment under this paragraph shall be extended through September 30, 2004, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric or the yarn used to make such articles.
+&emsp;&emsp;&emsp;Subject to subparagraph (A), preferential treatment under this paragraph shall beextended through September 30, 2004, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric or the yarn used to make such articles.
 
 #### (ii) Lesser developed beneficiary sub-Saharan African country
 
@@ -54,7 +54,7 @@ The preferential treatment described in subsection (a) of this section shall app
 
 #### (i) Import monitoring
 
-&emsp;&emsp;&emsp;The Secretary of Commerce shall monitor imports of articles described in this paragraph on a monthly basis to determine if there has been a surge in imports of such articles. In order to permit public access to preliminary international trade dataand to facilitate the early identification of potentially disruptive import surges, the Director of the Office of Management and Budget may grant an exception to the publication dates established for the release of data on United States international trade in covered articles, if the Director notifies Congress of the early release of the data.
+&emsp;&emsp;&emsp;The Secretary of Commerce shall monitor imports of articles described in this paragraph on a monthly basis to determine if there has been a surge in imports of such articles. In order to permit public access to preliminary international trade data and to facilitate the early identification of potentially disruptive import surges, the Director of the Office of Management and Budget may grant an exception to the publication dates established for the release of data on United States international trade in covered articles, if the Director notifies Congress of the early release of the data.
 
 #### (ii) Determination of damage or threat thereof
 
@@ -154,7 +154,7 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 #### (ii) Interlinings described
 
-&emsp;&emsp;&emsp;Interlinings eligible for the treatment described in clause (i) include only a chest type plate, a “hymo” piece, or “sleeve header”, of woven or weft-inserted warp knit construction and of coarse animal hair or man-made filaments.
+&emsp;&emsp;&emsp;Interlinings eligible for the treatment described in clause (i) include only a chesttype plate, a “hymo” piece, or “sleeve header”, of woven or weft-inserted warp knit construction and of coarse animal hair or man-made filaments.
 
 #### (iii) Termination of treatment
 
@@ -174,7 +174,7 @@ In this section and section 3722 of this title:
 
 #### (1) Agreement on textiles and clothing
 
-&emsp;The term “Agreement on Textiles and Clothing” means the Agreement on Textiles andClothing referred to in section 3511(d)(4) of this title.
+&emsp;The term “Agreement on Textiles and Clothing” means the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title.
 
 #### (2) Beneficiary sub-Saharan African country, etc.
 

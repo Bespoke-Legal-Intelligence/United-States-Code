@@ -51,16 +51,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—EDUCATION LOANS
+#### \[SUBCHAPTER III—REPEALED\]
 
-|  |  |
-| :--- | ---: |
-| [3698\.](Subchapter%20003%20%28III%29%20-%20Education%20Loans/%C2%A7%2003698%20-%20Eligibility%20for%20loans%3B%20amount%20and%20conditions%20of%20loans%3B%20interest%20rate%20on%20loans.md) | Eligibility for loans; amount and conditions of loans; interest rate on loans. |
-| [3699\.](Subchapter%20003%20%28III%29%20-%20Education%20Loans/%C2%A7%2003699%20-%20Revolving%20fund%3B%20insurance.md) | Revolving fund; insurance. |
+|  |
+| :--- |
+| \[3698, 3699. Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–183, title III, §306(g), Dec. 16, 2003, 117 Stat. 2661, struck out subchapter III heading “EDUCATION LOANS”
+
+and items 3698 “Eligibility for loans; amount and conditions of loans; interest rate on loans” and 3699 “Revolving fund; insurance”.
 
 2000—Pub. L. 106–419, title I, §122(c)(2), Nov. 1, 2000, 114 Stat. 1837, added item 3689.
 
@@ -109,4 +112,4 @@ This chapter is referred to in sections 113, 1781, 3013, 3105, 3231, 3241, 3452,
 
 - [Subchapter 001 (I) - State Approving Agencies](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/README.md)
 - [Subchapter 002 (II) - Miscellaneous Provisions](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/README.md)
-- [Subchapter 003 (III) - Education Loans](Subchapter%20003%20%28III%29%20-%20Education%20Loans/README.md)
+- [Subchapter 003 (III) - Repealed](Subchapter%20003%20%28III%29%20-%20Repealed/README.md)

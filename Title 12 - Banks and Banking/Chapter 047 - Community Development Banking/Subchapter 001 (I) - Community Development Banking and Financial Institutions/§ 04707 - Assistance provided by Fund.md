@@ -148,7 +148,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Before providing any assistance under this subchapter, the Fund and each communitydevelopment financial institution to be assisted shall enter into an agreement that requires the institution to comply with performance goals and abide by other terms and conditions pertinent to assistance received under this subchapter.
+&emsp;&emsp;Before providing any assistance under this subchapter, the Fund and each community development financial institution to be assisted shall enter into an agreement that requires the institution to comply with performance goals and abide by other terms and conditions pertinent to assistance received under this subchapter.
 
 #### (B) Performance goals
 

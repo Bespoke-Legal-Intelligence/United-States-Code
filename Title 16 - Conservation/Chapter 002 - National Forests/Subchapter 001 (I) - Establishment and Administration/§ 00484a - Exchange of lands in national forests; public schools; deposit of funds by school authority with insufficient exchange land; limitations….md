@@ -12,5 +12,5 @@ The provisions of this section shall not be applicable to the conveyance in exch
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 25 section 1777c.
+This section is referred to in section 539m–11 of this title; title 25 section 1777c.
 

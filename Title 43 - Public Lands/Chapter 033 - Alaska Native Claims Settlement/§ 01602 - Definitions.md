@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 (m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
 
-(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
+(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manageand/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
 
 (<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
 

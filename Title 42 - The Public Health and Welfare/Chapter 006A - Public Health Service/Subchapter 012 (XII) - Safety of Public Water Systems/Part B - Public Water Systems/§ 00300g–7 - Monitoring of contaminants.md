@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State exercising primary enforcement responsibility for public water systems may modify the monitoring requirements for any regulated or unregulated contaminants for which monitoring is required other than microbial contaminants (or indicators thereof), disinfectants and disinfection byproducts or corrosion byproducts for an interim period to provide that any public water system serving 10,000 persons or fewer shall not be required to conduct additional quarterly monitoring during an interim relief period for such contaminants if—
+&emsp;A State exercising primary enforcement responsibility for public water systems may modify the monitoring requirements for any regulated or unregulated contaminants for which monitoring is required other than microbial contaminants (or indicators thereof), disinfectants and disinfection byproducts or corrosion byproducts for an interim period toprovide that any public water system serving 10,000 persons or fewer shall not be required to conduct additional quarterly monitoring during an interim relief period for such contaminants if—
 
 &emsp;&emsp;(A) monitoring, conducted at the beginning of the period for the contaminant concerned and certified to the State by the public water system, fails to detect the presence of the contaminant in the ground or surface water supplying the public water system; and
 
@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator shall issue, after notice and comment and at the same time as guidelines are issued for source water assessment under section 300j–13 of this title, guidelines for States to follow in proposing alternative monitoring requirements under paragraph (1) for chemical contaminants. The Administrator shall publish such guidelines in the Federal Register. The guidelines shall assure that the public health will be protected from drinking water contamination. The guidelines shall require that a State alternative monitoring program apply on a contaminant-by-contaminant basis and that, to beeligible for such alternative monitoring program, a public water system must show the State that the contaminant is not present in the drinking water supply or, if present, it is reliably and consistently below the maximum contaminant level.
+&emsp;&emsp;The Administrator shall issue, after notice and comment and at the same time as guidelines are issued for source water assessment under section 300j–13 of this title, guidelines for States to follow in proposing alternative monitoring requirements under paragraph (1) for chemical contaminants. The Administrator shall publish such guidelines in the Federal Register. The guidelines shall assure that the public health will be protected from drinking water contamination. The guidelines shall require that a State alternative monitoring program apply on a contaminant-by-contaminant basis and that, to be eligible for such alternative monitoring program, a public water system must show the State that the contaminant is not present in the drinking water supply or, if present, it is reliably and consistently below the maximum contaminant level.
 
 #### (B) Definition
 

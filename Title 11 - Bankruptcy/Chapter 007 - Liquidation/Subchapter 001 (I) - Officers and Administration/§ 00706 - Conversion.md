@@ -1,6 +1,6 @@
 ### §706. Conversion
 
-(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 ofthis title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
+(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 of this title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
 
 (b) On request of a party in interest and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 of this title at any time.
 

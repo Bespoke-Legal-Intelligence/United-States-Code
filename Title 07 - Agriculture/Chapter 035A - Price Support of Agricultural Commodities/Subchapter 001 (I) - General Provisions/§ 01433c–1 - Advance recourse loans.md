@@ -32,7 +32,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;(7) The total amount in advance recourse loans that may be made to a producer under section 424 \[7 U.S.C. 1433c\] may not exceed $50,000.
 
-&emsp;(8) An advance recourse loan may be made available only to a producer who agrees to comply with such other terms and conditions determined appropriate by the Secretary and consistent with the provisions of section 424 \[7 U.S.C. 1433c\].
+&emsp;(8) An advance recourse loan may be made available only to a producer who agrees tocomply with such other terms and conditions determined appropriate by the Secretary and consistent with the provisions of section 424 \[7 U.S.C. 1433c\].
 
 #### (b) Use of Commodity Credit Corporation, Agricultural Stabilization and Conservation Service, and county committees
 

@@ -42,7 +42,7 @@ Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subs
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
+Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -64,7 +64,7 @@ Pub. L. 104–208, div. A, title II, §2701, Sept. 30, 1996, 110 Stat. 3009–47
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: “This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215,1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may be cited as the ‘Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994’.”
+Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: “This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may be cited as the ‘Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994’.”
 
 #### Short Title of 1993 Amendment
 
@@ -114,7 +114,7 @@ Section 1 of act Sept. 21, 1950, provided: “That section 12B of the Federal Re
 
 #### Separability
 
-Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[see Short Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
+Pub. L. 102–242, title IV, §481, Dec. 19, 1991, 105 Stat. 2388, provided that: “If any provision of this Act \[seeShort Title of 1991 Amendment note above\], or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.”
 
 Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act \[see Short Title of 1989 Amendment note above\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
 
@@ -218,7 +218,7 @@ Variety of approaches.—In developing model approaches to the Year 2000 compute
 
 &emsp;“(3)
 
-Cooperation.—In carrying out this section, the Federal banking agencies and the National Credit Union Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
+Cooperation.—In carrying out this section, the Federal banking agencies and the National CreditUnion Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
 
 #### Study and Report on United States Financial Services System
 
@@ -498,7 +498,7 @@ Report.—Not later than the close of the 18-month period beginning on the date 
 
 “(a)
 
-In General.—The Comptroller General of the United States shall conduct a study of the risks undertaken by all government-sponsored enterprises and theappropriate level of capital for such enterprises consistent with—
+In General.—The Comptroller General of the United States shall conduct a study of the risks undertaken by all government-sponsored enterprises and the appropriate level of capital for such enterprises consistent with—
 
 &emsp;“(1) the financial soundness and stability of the government-sponsored enterprises;
 
@@ -552,7 +552,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 “(f)
 
-Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
+Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banksfor Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
 
 \[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: “The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”\]
 
@@ -594,7 +594,7 @@ Low-income credit union.—The term ‘low-income credit union’ means any depo
 
 &emsp;“(5)
 
-Women's bank.—The term ‘women's bank’ means any depository institution described in clause\(i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act—
+Women's bank.—The term ‘women's bank’ means any depository institution described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act—
 
 &emsp;&emsp;“(A) more than 50 percent of the outstanding shares of which are held by 1 or more women;
 

@@ -7,6 +7,7 @@ Part B—Transitional Provisions
 
 - [&sect; 00551 - Transitional authorities](%C2%A7%2000551%20-%20Transitional%20authorities.md)
 - [&sect; 00552 - Savings provisions](%C2%A7%2000552%20-%20Savings%20provisions.md)
+- [&sect; 00552a - Savings provision of certain transfers made under the Homeland Security Act of 2002](%C2%A7%2000552a%20-%20Savings%20provision%20of%20certain%20transfers%20made%20under%20the%20Homeland%20Security%20Act%20of%202002.md)
 - [&sect; 00553 - Terminations](%C2%A7%2000553%20-%20Terminations.md)
 - [&sect; 00554 - National identification system not authorized](%C2%A7%2000554%20-%20National%20identification%20system%20not%20authorized.md)
 - [&sect; 00555 - Continuity of Inspector General oversight](%C2%A7%2000555%20-%20Continuity%20of%20Inspector%20General%20oversight.md)

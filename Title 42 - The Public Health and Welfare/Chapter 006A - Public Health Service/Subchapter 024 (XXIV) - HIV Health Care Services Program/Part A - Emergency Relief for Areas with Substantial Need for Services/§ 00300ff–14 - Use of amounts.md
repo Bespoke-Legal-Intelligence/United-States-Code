@@ -12,7 +12,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (1) In general
 
-&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 ofthis title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related services, as follows:
+&emsp;The chief elected official shall use amounts received under a grant under section 300ff–11 of this title to provide direct financial assistance to entities described in paragraph (2) for the purpose of delivering or enhancing HIV-related services, as follows:
 
 &emsp;&emsp;(A) Outpatient and ambulatory health services, including substance abuse treatment, mental health treatment, and comprehensive treatment services, which shall include treatment education and prophylactic treatment for opportunistic infections, for individuals and families with HIV disease.
 
@@ -56,7 +56,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
+&emsp;&emsp;For the purpose of providing health and support services to infants, children, youth, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall for each of such populations in the eligible area use, from the grants made for the area under section 300ff–11(a) of thistitle for a fiscal year, not less than the percentage constituted by the ratio of the population involved (infants, children, youth, or women in such area) with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome.
 
 #### (B) Waiver
 
@@ -122,7 +122,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regardingthe provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 #### (B) Determination
 
@@ -194,7 +194,7 @@ Subsec. (b)(2)(A). Pub. L. 104–146, §3(b)(4)(B), inserted “, or private fo
 
 Subsec. (b)(3). Pub. L. 104–146, §3(b)(4)(C), added par. (3).
 
-Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”,inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
+Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out “and planning” after “Administration” in heading, designated existing provisions as par. (1), inserted par. heading, struck out “accounting, reporting, and program oversight functions” after “for administration,”, inserted at end “In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).”, and added pars. (2) and (3).
 
 1994—Subsec. (b)(2)(A). Pub. L. 103–446 substituted “Department of Veterans Affairs facilities” for “Veterans Administration facilities”.
 

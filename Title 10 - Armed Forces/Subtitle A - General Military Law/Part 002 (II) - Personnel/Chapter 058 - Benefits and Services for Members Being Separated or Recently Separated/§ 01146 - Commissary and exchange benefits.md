@@ -18,3 +18,7 @@ The Secretary of Defense shall prescribe regulations to allow a member of the ar
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

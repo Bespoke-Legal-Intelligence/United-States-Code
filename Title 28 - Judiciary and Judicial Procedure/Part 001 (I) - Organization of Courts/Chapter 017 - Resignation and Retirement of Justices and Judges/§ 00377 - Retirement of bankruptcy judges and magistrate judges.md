@@ -2,7 +2,7 @@
 
 (a)
 
-Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of the judge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
+Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge to whom this section applies and who retires from office after attaining the age of 65 years and serving at least 14 years, whether continuously or otherwise, as such bankruptcy judge or magistrate judge shall, subject to subsection (f), be entitled to receive, during the remainder of thejudge's or magistrate judge's lifetime, an annuity equal to the salary being received at the time the judge or magistrate judge leaves office.
 
 (b)
 
@@ -124,7 +124,7 @@ Forfeiture not to apply where individual elects to freeze amount of annuity.—(
 
 > &emsp;&emsp;Such an election, once it takes effect, shall be irrevocable.
 
-&emsp;&emsp;(iii) Any election under this subparagraph shall take effect on the first day of the first month following the month in which the election is made.
+&emsp;&emsp;(iii) Any election under this subparagraph shall take effect on the first day of the firstmonth following the month in which the election is made.
 
 &emsp;(2)
 
@@ -176,7 +176,7 @@ Spouses and former spouses.—(A) Payment of the lump-sum credit under paragraph
 
 &emsp;&emsp;&emsp;(II) payment of the lump-sum credit or other payment would extinguish entitlement of the bankruptcy judge's or magistrate judge's spouse or former spouse to any portion of an annuity under subsection (i).
 
-&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director thatthe whereabouts of such spouse or former spouse cannot be determined.
+&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director that the whereabouts of such spouse or former spouse cannot be determined.
 
 &emsp;(C) The Director shall prescribe regulations under which this paragraph shall be applied in any case in which the Director receives two or more orders or decrees described in subparagraph (A).
 

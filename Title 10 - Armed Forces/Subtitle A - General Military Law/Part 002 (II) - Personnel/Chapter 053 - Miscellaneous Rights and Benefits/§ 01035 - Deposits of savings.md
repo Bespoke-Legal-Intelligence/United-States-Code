@@ -152,7 +152,7 @@ Authority vested by this section in “the Secretary concerned” to be exercise
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in “the Secretary concerned” to be exercised, with respect to the Coast and Geodetic Survey \[now the commissioned officer corps of the National Oceanic and Atmospheric Administration\], by the Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of the National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Ex. Ord. No. 11298. Interest Rate
 
@@ -166,5 +166,5 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 857a; title 42 section 213a.
+This section is referred to in title 33 section 3071; title 42 section 213a.
 

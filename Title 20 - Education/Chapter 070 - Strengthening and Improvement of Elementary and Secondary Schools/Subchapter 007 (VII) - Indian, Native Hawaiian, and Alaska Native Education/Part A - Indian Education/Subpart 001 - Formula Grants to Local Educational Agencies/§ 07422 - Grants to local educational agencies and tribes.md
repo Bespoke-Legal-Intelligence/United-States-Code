@@ -8,7 +8,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 #### (1) Enrollment requirements
 
-&emsp;A local educational agency shall be eligible for a grant under this subpart for any fiscal year if the number of Indian children eligible under section 7427 of this title who were enrolled in the schools of the agency, and to whom the agency provided free public education, during the preceding fiscal year—
+&emsp;A local educational agency shall be eligible for a grant under this subpart for any fiscal year if the number of Indian children eligibleunder section 7427 of this title who were enrolled in the schools of the agency, and to whom the agency provided free public education, during the preceding fiscal year—
 
 &emsp;&emsp;(A) was at least 10; or
 

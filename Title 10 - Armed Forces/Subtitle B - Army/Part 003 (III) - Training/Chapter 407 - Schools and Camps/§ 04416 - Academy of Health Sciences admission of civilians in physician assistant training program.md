@@ -28,15 +28,17 @@ Limitations.—The Secretary shall ensure the following:
 
 &emsp;(2) That attendance of civilian students at the Academy under this section does not cause a decrease in the number of members of the armed forces enrolled in the physician assistant training program at the Academy.
 
-(f)
+(Added Pub. L. 105–85, div. A, title VII, §741(a)(1), Nov. 18, 1997, 111 Stat. 1816; amended Pub. L. 107–314, div. A, title X, §1041(a)(19), Dec. 2, 2002, 116 Stat. 2645.)
 
-Annual Report.—(1) Each year, the Secretary shall submit to Congress a report on the exchange of services under this section during the year. The report shall contain the following:
+#### Amendments
 
-&emsp;(A) The number of civilian students who receive instruction at the Academy under this section.
+2002—Subsec. (f). Pub. L. 107–314 struck out heading and text of subsec. (f). Text read as follows:
 
-&emsp;(B) An assessment of the benefits derived by the United States.
+“(1) Each year, the Secretary shall submit to Congress a report on the exchange of services under this section during the year. The report shall contain the following:
 
-(2) Reports are required under paragraph (1) only for years during which an agreement is in effect under this section.
+&emsp;“(A) The number of civilian students who receive instruction at the Academy under this section.
 
-(Added Pub. L. 105–85, div. A, title VII, §741(a)(1), Nov. 18, 1997, 111 Stat. 1816.)
+&emsp;“(B) An assessment of the benefits derived by the United States.
+
+“(2) Reports are required under paragraph (1) only for years during which an agreement is in effect under this section.”
 

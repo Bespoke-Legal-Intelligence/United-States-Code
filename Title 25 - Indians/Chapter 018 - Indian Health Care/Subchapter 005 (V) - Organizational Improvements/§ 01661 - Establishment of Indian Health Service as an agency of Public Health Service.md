@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to more effectively and efficiently carry out the responsibilities, authorities, andfunctions of the United States to provide health care services to Indians and Indian tribes, as are or may be on and after November 23, 1988, provided by Federal statute or treaties, there is established within the Public Health Service of the Department of Health and Human Services the Indian Health Service. The Indian Health Service shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Indian Health Service shall report to the Secretary through the Assistant Secretary for Health of the Department of Health and Human Services. Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.
+In order to more effectively and efficiently carry out the responsibilities, authorities, and functions of the United States to provide health care services to Indians and Indian tribes, as are or may be on and after November 23, 1988, provided by Federal statute or treaties, there is established within the Public Health Service of the Department of Health and Human Services the Indian Health Service. The Indian Health Service shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate. The Director of the Indian Health Service shall report to the Secretary through the Assistant Secretary for Health of the Department of Health and Human Services. Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.
 
 #### (b) Agency status
 
@@ -78,7 +78,7 @@ Section 601(c) of Pub. L. 100–713 provided that:
 
 “(1) Except as provided in paragraph (2), section 601 of the Indian Health Care Improvement Act \[this section\] added by subsection (a) of this section shall take effect 9 months from the date of the enactment of this section \[Nov. 23, 1988\].
 
-“(2) Notwithstanding subsections (b) \[set out below\] and (c)(1), any action which carries out such section 601 that is taken by the Secretary before the effective date of such section 601 shall be effective beginning on the date such action was taken.”
+“(2) Notwithstanding subsections (b) \[set out below\] and (c)(1), any action which carries out such section 601that is taken by the Secretary before the effective date of such section 601 shall be effective beginning on the date such action was taken.”
 
 #### Interim Appointment
 

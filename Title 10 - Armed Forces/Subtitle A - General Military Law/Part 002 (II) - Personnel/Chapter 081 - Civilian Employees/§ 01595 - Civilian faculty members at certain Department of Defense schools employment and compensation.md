@@ -22,6 +22,8 @@ Covered Institutions.—This section applies with respect to the following insti
 
 &emsp;(5) The Asia-Pacific Center for Security Studies.
 
+&emsp;(6) The Western Hemisphere Institute for Security Cooperation.
+
 (d)
 
 Application to Faculty Members at NDU.—In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
@@ -36,9 +38,11 @@ Applicability to Director and Deputy Director at Certain Institutions.—In addi
 
 &emsp;(3) The Center for Hemispheric Defense Studies.
 
-(Added Pub. L. 101–189, div. A, title XI, §1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, §701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, §911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, §923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, §923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, §1607, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title IX, §§921(c), 922(b), Nov. 18, 1997, 111 Stat. 1863.)
+(Added Pub. L. 101–189, div. A, title XI, §1124(a)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 102–25, title VII, §701(h)(1), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title IX, §911, Dec. 5, 1991, 105 Stat. 1452; Pub. L. 102–484, div. A, title IX, §923(a)(1), (2)(A), Oct. 23, 1992, 106 Stat. 2474; Pub. L. 103–160, div. A, title IX, §923(a)(1), Nov. 30, 1993, 107 Stat. 1731; Pub. L. 104–201, div. A, title XVI, §1607, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title IX, §§921(c), 922(b), Nov. 18, 1997, 111 Stat. 1863; Pub. L. 108–136, div. A, title XI, §1115, Nov. 24, 2003, 117 Stat. 1636.)
 
 #### Amendments
+
+2003—Subsec. (c)(6). Pub. L. 108–136 added par. (6).
 
 1997—Subsec. (d). Pub. L. 105–85, §921(c), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “For purposes of this section, the National Defense University includes the National War College, the Armed Forces Staff College, the Institute for National Strategic Study, and the Industrial College of the Armed Forces.”
 
@@ -56,7 +60,7 @@ Application to Director and Deputy Director at Asia-Pacific Center for Security 
 
 Subsec. (f). Pub. L. 104–201, §1607(b), added subsec. (f).
 
-1993—Pub. L. 103–160 substituted “Civilian faculty members at certain Department of Defense schools:employment and compensation” for “National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
+1993—Pub. L. 103–160 substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
 
 1992—Pub. L. 102–484, §923(a)(2)(A), substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in section catchline.
 

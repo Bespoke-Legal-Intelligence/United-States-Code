@@ -6,7 +6,7 @@ Except as provided in sections 620d(d)(5), 1543(g)(2), and 1595(b) of this title
 
 #### References in Text
 
-Sections 620d(d)(5), 1543(g)(2), and 1595(b) of this title, referred to in text, was in the original a reference to“section 205(b) and 205(d) of this title”, meaning section 205(b) and (d) of title II of Pub. L. 93–320. Section 205(b)(1) is classified to section 1595(b) of this title; section 205(b)(2) amended section 403(g) of the Colorado River Basis Project Act by inserting a new par. (2), which is classified to section 1543(g)(2) of this title; and section 205(d) amended section 5(d) of the Colorado River Storage Project Act by inserting a new par. (5), which is classified to section 620d(d)(5) of this title.
+Sections 620d(d)(5), 1543(g)(2), and 1595(b) of this title, referred to in text, was in the original a reference to “section 205(b) and 205(d) of this title”, meaning section 205(b) and (d) of title II of Pub. L. 93–320. Section 205(b)(1) is classified to section 1595(b) of this title; section 205(b)(2) amended section 403(g) of the Colorado River Basis Project Act by inserting a new par. (2), which is classified to section 1543(g)(2) of this title; and section 205(d) amended section 5(d) of the Colorado River Storage Project Act by inserting a new par. (5), which is classified to section 620d(d)(5) of this title.
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 93–320, which enacted this subchapter and amended sections 1620d(d) and 1543(g) of this title. For complete classification of title II to the Code, see Tables.
 

@@ -72,7 +72,7 @@ If the State educational agency responds to the Secretary's notification describ
 
 #### (g) Failure to respond
 
-If the State educational agency does not respond to the Secretary's notification described in subsection (e)(2) of this section during the 45-day period beginning on the date on which theagency received the notification, such application shall be deemed to be disapproved.
+If the State educational agency does not respond to the Secretary's notification described in subsection (e)(2) of this section during the 45-day period beginning on the date on which the agency received the notification, such application shall be deemed to be disapproved.
 
 (Pub. L. 89–10, title II, §2413, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1675.)
 

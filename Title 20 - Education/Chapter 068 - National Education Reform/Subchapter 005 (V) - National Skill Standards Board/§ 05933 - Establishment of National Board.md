@@ -102,7 +102,7 @@ There is established a National Skill Standards Board (hereafter in this subchap
 
 #### (2) Expenses
 
-&emsp;The members of the National Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57, title 5, while away from their homes orregular places of business in the performance of services for the National Board.
+&emsp;The members of the National Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57, title 5, while away from their homes or regular places of business in the performance of services for the National Board.
 
 #### (e) Executive Director and staff
 

@@ -2,11 +2,11 @@
 
 For the purposes of this subchapter—
 
-&emsp;(1) the term “1873 Survey Area” means the area which is within the area demarked by the high water line as meandered and the upland boundaries, as shown on the plat map of the 1873 Survey of the Puyallup Indian Reservation, conducted by the United States General Land Office, and filed in 1874;
+&emsp;(1) the term “1873 Survey Area” means the area which is within the area demarked by the high water line as meandered and the upland boundaries, as shown on the plat map of the1873 Survey of the Puyallup Indian Reservation, conducted by the United States General Land Office, and filed in 1874;
 
 &emsp;(2) the term “Secretary” means the Secretary of the Interior;
 
-&emsp;(3) the term “Settlement Agreement” means the document entitled “Agreement betweenthe Puyallup Tribe of Indians, Local Governments in Pierce County, the State of Washington, the United States of America, and certain private property owners”, dated August 27, 1988;
+&emsp;(3) the term “Settlement Agreement” means the document entitled “Agreement between the Puyallup Tribe of Indians, Local Governments in Pierce County, the State of Washington, the United States of America, and certain private property owners”, dated August 27, 1988;
 
 &emsp;(4) the term “State” means the State of Washington;
 

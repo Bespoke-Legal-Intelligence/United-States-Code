@@ -6,7 +6,7 @@
 
 (3) For the purposes of this section “United States” means the fifty States, Guam, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and the District of Columbia.
 
-(4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the special milk program provided for by this chapter during the fiscal year ending June 30, 1969.
+(4) The Secretary shall administer the special milk program provided for by this section to the maximum extent practicable in the same manner as the Secretary administered the specialmilk program provided for by this chapter during the fiscal year ending June 30, 1969.
 
 (5) Any school or nonprofit child care institution which does not participate in a meal service program authorized under this chapter or the Richard B. Russell National School Lunch Act shall receive the special milk program upon its request.
 
@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 97–35, §813(c)(2), added subsec. (b).
 
 1973—Pub. L. 93–150 inserted provisions making any school or nonprofit child care institution eligible to receive the special milk program upon their request and any children that qualify for free lunches under guidelines set forth by the Secretary also eligible for free milk.
 
-1970—Pub. L. 91–295 substituted provisions authorizing appropriations of not to exceed $120,000,000 for fiscal year ending June 30, 1970, and for each succeeding fiscal year, for provisions authorizing appropriations of not to exceed $110,000,000 for fiscal year ending June 30, 1967, not to exceed $115,000,000 for fiscal year ending June 30, 1968, and not to exceed $120,000,000 for each of two succeeding fiscal years, and provisions requiring Secretary to administer the special milk program provided for by this section in same manner as he administered the special milk program provided for by this chapter during fiscal year ending June 30, 1969, for provisions requiring the Secretary to administer such program in the same manner as he administered the special milk program provided for by Pub. L. 85–478, as amended, during fiscal year ending June 30, 1966, andprovided that Guam be subject to provisions of this section.
+1970—Pub. L. 91–295 substituted provisions authorizing appropriations of not to exceed $120,000,000 for fiscal year ending June 30, 1970, and for each succeeding fiscal year, for provisions authorizing appropriations of not to exceed $110,000,000 for fiscal year ending June 30, 1967, not to exceed $115,000,000 for fiscal year ending June 30, 1968, and not to exceed $120,000,000 for each of two succeeding fiscal years, and provisions requiring Secretary to administer the special milk program provided for by this section in same manner as he administered the special milk program provided for by this chapter during fiscal year ending June 30, 1969, for provisions requiring the Secretary to administer such program in the same manner as he administered the special milk program provided for by Pub. L. 85–478, as amended, during fiscal year ending June 30, 1966, and provided that Guam be subject to provisions of this section.
 
 #### Effective Date of 1986 Amendments
 

@@ -24,17 +24,25 @@ Notwithstanding a valid protest was not filed, the Customs Service may, in accor
 
 &emsp;(2) any assessment of duty on household or personal effects in respect of which an application for refund has been filed, with such employee as the Secretary of the Treasury shall designate, within one year after the date of entry.
 
-#### (d) Goods qualifying under NAFTA rules of origin
+#### (d) Goods qualifying under free trade agreement rules of origin
 
-Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title or section 202 of the United States-Chile Free Trade Agreement Implementation Act for which no claim for preferential tariff treatment was madeat the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
-&emsp;(1) a written declaration that the good qualified under those rules at the time of importation;
+&emsp;(1) a written declaration that the good qualified under the applicable rules at the time of importation;
 
-&emsp;(2) copies of all applicable NAFTA Certificates of Origin (as defined in section 1508(b)(1) of this title); and
+&emsp;(2) copies of all applicable NAFTA Certificates of Origin (as defined in section 1508(b)(1) of this title), or other certificates of origin, as the case may be; and
 
 &emsp;(3) such other documentation relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
+
+#### References in Text
+
+Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 #### Codification
 
@@ -55,6 +63,12 @@ R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–77, §§107(c), 206(1), (2), temporarily inserted heading and inserted “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” after “title” in introductory provisions. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 108–77, §§107(c), 206(3), temporarily substituted “the applicable” for “those”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (d)(2). Pub. L. 108–77, §§107(c), 206(4), temporarily inserted “, or other certificates of origin, as the case may be” before semicolon. See Effective and Termination Dates of 2003 Amendment note below.
 
 1999—Subsec. (d). Pub. L. 106–36 inserted “(including any merchandise processing fees)” after “excess duties” in introductory provisions.
 
@@ -81,6 +95,10 @@ Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on household or personal effects which are subject to duty.
 
 1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -114,7 +132,7 @@ Amendment by section 206 of Pub. L. 103–182 to be made after amendment by sect
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

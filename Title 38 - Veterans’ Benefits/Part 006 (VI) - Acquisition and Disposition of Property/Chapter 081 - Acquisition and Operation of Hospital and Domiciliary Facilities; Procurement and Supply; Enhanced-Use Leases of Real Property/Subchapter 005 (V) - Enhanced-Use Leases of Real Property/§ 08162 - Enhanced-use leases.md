@@ -14,7 +14,7 @@
 
 &emsp;(B) the Secretary determines that the implementation of a business plan proposed by the Under Secretary for Health for applying the consideration under such a lease to the provision of medical care and services would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
 
-(3) The provisions of sections 3141–3144, 3146, and 3147 of title 40, shall not, by reason of thissection, become inapplicable to property that is leased to another party under an enhanced-use lease.
+(3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
 (4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
@@ -52,13 +52,15 @@
 
 &emsp;(D) over one-half of the children to whom child-care services are provided are required to be children of employees of the Department.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, §4(i)(1), Dec. 15, 2003, 117 Stat. 2642.)
 
 #### References in Text
 
 Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to in subsecs. (a)(1) and (c), is section 421(b) of Pub. L. 100–322, title IV, May 20, 1988, 102 Stat. 553, which is not classified to the Code.
 
 #### Amendments
+
+2003—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
 
 2002—Subsec. (a)(1). Pub. L. 107–217, §3(j)(5)(A), substituted “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
 
@@ -77,6 +79,10 @@ Subsec. (b)(2). Pub. L. 106–117, §208(b)(1), substituted “may not exceed 75
 &emsp;“(B) 20 years, in the case of a lease not described in subparagraph (A).”
 
 Subsec. (b)(4). Pub. L. 106–117, §208(b)(2), added par. (4) and struck out former par. (4) which read as follows: “Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2001 Amendment
 

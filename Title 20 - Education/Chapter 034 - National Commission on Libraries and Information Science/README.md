@@ -9,11 +9,9 @@
 | [1503\.](%C2%A7%2001503%20-%20Contributions.md) | Contributions. |
 | [1504\.](%C2%A7%2001504%20-%20Functions%20and%20powers.md) | Functions and powers. |
 | (a) | Advice to President and Congress; studies and surveys; plans; annual report. |
-| (b) | Advice to Director of Institute of Museum and Library Services. |
-| (c) | Joint meeting with National Museum Services Board. |
-| (d) | Contract authority. |
-| (e) | Hearings. |
-| (f) | Cooperation with other agencies. |
+| (b) | Contract authority. |
+| (c) | Hearings. |
+| (d) | Cooperation with other agencies. |
 | [1505\.](%C2%A7%2001505%20-%20Membership.md) | Membership. |
 | (a) | Appointment; terms of office; Chairman; vacancies. |
 | (b) | Compensation; travel expenses. |

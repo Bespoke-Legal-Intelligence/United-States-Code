@@ -32,7 +32,7 @@ Subsec. (e). Pub. L. 92–540, §312(2), struck out subsec. (e) which related to
 
 Subsec. (d). Pub. L. 89–358 redesignated provisions of former subsec. (c)(1)(B), (2) as subsec. (d).
 
-Subsec. (e). Pub. L. 89–358 added subsec. (e). Concluding sentence of former subsec. (c), struck out by Pub.L. 89–358, provided for payment of such allowances within twenty days after receipt by the Administrator of requisite certifications.
+Subsec. (e). Pub. L. 89–358 added subsec. (e). Concluding sentence of former subsec. (c), struck out by Pub. L. 89–358, provided for payment of such allowances within twenty days after receipt by the Administrator of requisite certifications.
 
 #### Effective Date of 1980 Amendment
 

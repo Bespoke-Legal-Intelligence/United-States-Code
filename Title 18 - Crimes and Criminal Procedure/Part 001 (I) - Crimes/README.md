@@ -64,8 +64,9 @@
 | [<b>69.</b>](Chapter%20069%20-%20Nationality%20and%20Citizenship/README.md) | <b>Nationality and citizenship</b> | <b>1421</b> |
 | [<b>71.</b>](Chapter%20071%20-%20Obscenity/README.md) | <b>Obscenity</b> | <b>1460</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Obstruction%20of%20Justice/README.md) | <b>Obstruction of justice</b> | <b>1501</b> |
+| [<b>74.</b>](Chapter%20074%20-%20Partial-Birth%20Abortions/README.md) | <b>Partial-birth abortions</b> | <b>1531</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Passports%20and%20Visas/README.md) | <b>Passports and visas</b> | <b>1541</b> |
-| [<b>77.</b>](Chapter%20077%20-%20Peonage%20and%20Slavery/README.md) | <b>Peonage and slavery</b> | <b>1581</b> |
+| [<b>77.</b>](Chapter%20077%20-%20Peonage%2C%20Slavery%2C%20and%20Trafficking%20in%20Persons/README.md) | <b>Peonage, slavery, and trafficking in persons</b> | <b>1581</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Perjury/README.md) | <b>Perjury</b> | <b>1621</b> |
 | [<b>81.</b>](Chapter%20081%20-%20Piracy%20and%20Privateering/README.md) | <b>Piracy and privateering</b> | <b>1651</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Postal%20Service/README.md) | <b>Postal service</b> | <b>1691</b> |
@@ -115,6 +116,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–193, §5(c)(2), Dec. 19, 2003, 117 Stat. 2880, substituted “Peonage, slavery, and trafficking in persons” for “Peonage and slavery” in item for chapter 77.
+
+Pub. L. 108–105, §3(b), Nov. 5, 2003, 117 Stat. 1208, added item for chapter 74.
 
 2002—Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(5), Nov. 2, 2002, 116 Stat. 1808, 1810, substituted “2721” for “2271” in item for chapter 123 and repealed amendment by Pub. L. 104–294, §601(j)(2)(A). See 1996 Amendment note below.
 
@@ -243,8 +248,9 @@ Act July 14, 1956, ch. 595, §2, 70 Stat. 540, added item for chapter 2.
 - [Chapter 069 - Nationality and Citizenship](Chapter%20069%20-%20Nationality%20and%20Citizenship/README.md)
 - [Chapter 071 - Obscenity](Chapter%20071%20-%20Obscenity/README.md)
 - [Chapter 073 - Obstruction of Justice](Chapter%20073%20-%20Obstruction%20of%20Justice/README.md)
+- [Chapter 074 - Partial-Birth Abortions](Chapter%20074%20-%20Partial-Birth%20Abortions/README.md)
 - [Chapter 075 - Passports and Visas](Chapter%20075%20-%20Passports%20and%20Visas/README.md)
-- [Chapter 077 - Peonage and Slavery](Chapter%20077%20-%20Peonage%20and%20Slavery/README.md)
+- [Chapter 077 - Peonage, Slavery, and Trafficking in Persons](Chapter%20077%20-%20Peonage%2C%20Slavery%2C%20and%20Trafficking%20in%20Persons/README.md)
 - [Chapter 079 - Perjury](Chapter%20079%20-%20Perjury/README.md)
 - [Chapter 081 - Piracy and Privateering](Chapter%20081%20-%20Piracy%20and%20Privateering/README.md)
 - [Chapter 083 - Postal Service](Chapter%20083%20-%20Postal%20Service/README.md)

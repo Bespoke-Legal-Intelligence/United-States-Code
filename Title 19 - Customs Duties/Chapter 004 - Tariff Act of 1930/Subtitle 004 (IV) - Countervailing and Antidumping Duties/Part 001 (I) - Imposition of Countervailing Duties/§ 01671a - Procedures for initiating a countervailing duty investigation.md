@@ -130,7 +130,7 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 1994—Subsecs. (a), (b)(1). Pub. L. 103–465, §233(a)(6)(A)(i), (ii), substituted “initiated” for “commenced”.
 
-Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) of this section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
+Subsec. (b)(3). Pub. L. 103–465, §§211(a)(1), 212(b)(1)(E), substituted “paragraph (1)” for “subsection (b)(1) ofthis section” and “5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section,” for “twenty days”.
 
 Subsec. (b)(4). Pub. L. 103–465, §211(a)(2), added par. (4).
 
@@ -138,7 +138,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(1), amended heading and text of subsec.
 
 &emsp;“(1) determine whether the petition alleges the elements necessary for the imposition of a duty under section 1671(a) of this title and contains information reasonably available to the petitioner supporting the allegations,
 
-&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether a subsidy isbeing provided with respect to the class or kind of merchandise described in the petition, and provide for the publication of notice of the determination to commence an investigation in the Federal Register, and
+&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether a subsidy is being provided with respect to the class or kind of merchandise described in the petition, and provide for the publication of notice of the determination to commence an investigation in the Federal Register, and
 
 &emsp;“(3) if the determination is negative, dismiss the petition, terminate the proceeding, notify the petitioner in writing of the reasons for the determination, and provide for the publication of notice of the determination in the Federal Register.”
 

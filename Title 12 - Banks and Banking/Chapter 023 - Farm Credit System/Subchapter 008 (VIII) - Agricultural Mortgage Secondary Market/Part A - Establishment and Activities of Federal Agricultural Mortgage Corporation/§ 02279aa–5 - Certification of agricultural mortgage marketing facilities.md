@@ -50,7 +50,7 @@ Any certification by the Corporation of an agricultural mortgage marketing facil
 
 #### (1) Establishment of affiliate authorized
 
-&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
+&emsp;Notwithstanding any other provision of this chapter, any Farm Credit System institution,acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
 
 #### (2) Exclusive agency agreement authorized
 

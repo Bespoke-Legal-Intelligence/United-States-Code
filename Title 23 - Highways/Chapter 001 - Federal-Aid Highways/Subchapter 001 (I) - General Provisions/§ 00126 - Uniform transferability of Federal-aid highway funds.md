@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—Notwithstanding any other provision of law but subject to subsections (b) and (c), if at least 50 percent of a State's apportionment under section 104 or 144 for a fiscal year or at least 50 percent of the funds set-aside under section 133(d) from the State's apportionment <sup>1</sup> section 104(b)(3) may not be transferred to any other apportionment of the State under section 104 or 144 for such fiscal year, then the State may transfer not to exceed 50 percent of such apportionment or set aside to any other apportionment of such State under section 104 or 144 for such fiscal year.
+General Rule.—Notwithstanding any other provision of law but subject to subsections (b) and (c), if at least 50 percent of a State's apportionment under section 104 or 144 for a fiscal year or at least 50 percent of the funds set-aside under section 133(d) from the State's apportionment <sup>1</sup> section 104(b)(3) may not be transferred to any other apportionment of the State under section 104 or 144 for such fiscal year, then theState may transfer not to exceed 50 percent of such apportionment or set aside to any other apportionment of such State under section 104 or 144 for such fiscal year.
 
 (b)
 
@@ -16,7 +16,7 @@ Application to Certain CMAQ Funds.—The maximum amount that a State may transfe
 
 #### Prior Provisions
 
-A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93–87, title I, §152(3), Aug. 13, 1973, 87Stat. 276, related to providing Federal aid for highway construction only to States that used at least amounts provided by law on June 18, 1934, for such purposes, prior to repeal by Pub. L. 105–178, title I, §1226(d), as added by Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837.
+A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93–87, title I, §152(3), Aug. 13, 1973, 87 Stat. 276, related to providing Federal aid for highway construction only to States that used at least amounts provided by law on June 18, 1934, for such purposes, prior to repeal by Pub. L. 105–178, title I, §1226(d), as added by Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837.
 
 #### Amendments
 

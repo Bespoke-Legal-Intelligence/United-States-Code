@@ -152,7 +152,7 @@ Subsec. (<i>l</i>). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsec
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (<i>l</i>) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
 
-1990—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h)“Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
+1990—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) “Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
@@ -316,7 +316,7 @@ For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 1
 
 #### Annual Report to Congress Concerning Designated Summonses
 
-Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months.”
+Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Codeof 1986) which were issued during the preceding 12 months.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

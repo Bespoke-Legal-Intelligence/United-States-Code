@@ -2,11 +2,11 @@
 
 (a)
 
-Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary ofDefense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
+Condition for Proceeding Beyond Low-Rate Initial Production.—(1) The Secretary of Defense shall provide that a major defense acquisition program may not proceed beyond low-rate initial production until initial operational test and evaluation of the program is completed.
 
-(2) In this subsection, the term “major defense acquisition program” means—
+(2) In this subsection, the term “major defense acquisition program” means a conventional weapons system that—
 
-&emsp;(A) a conventional weapons system that is a major system within the meaning of that term in section 2302(5) of this title; and
+&emsp;(A) is a major system within the meaning of that term in section 2302(5) of this title; and
 
 &emsp;(B) is designed for use in combat.
 
@@ -58,29 +58,25 @@ Director's Annual Report.—As part of the annual report of the Director under s
 
 (h)
 
-Definitions.—In this section:
+Operational Test and Evaluation Defined.—In this section, the term “operational test and evaluation” has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
 
-&emsp;(1) The term “operational test and evaluation” has the meaning given that term in section 139(a)(2)(A) of this title. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
+&emsp;(1) computer modeling;
 
-&emsp;&emsp;(A) computer modeling;
+&emsp;(2) simulation; or
 
-&emsp;&emsp;(B) simulation; or
+&emsp;(3) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
 
-&emsp;&emsp;(C) an analysis of system requirements, engineering proposals, design specifications, or any other information contained in program documents.
-
-&emsp;(2) The term “congressional defense committees” means—
-
-&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 101–189, div. A, title VIII, §802(a)(1), Nov. 29, 1989, 103 Stat. 1484; amended Pub. L. 102–484, div. A, title VIII, §819, Oct. 23, 1992, 106 Stat. 2458; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(11), (f), Oct. 5, 1994, 108 Stat. 2856, 2859; Pub. L. 104–106, div. A, title XV, §1502(a)(19), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title X, §1062(a)(9), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1043(b)(14), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### Prior Provisions
 
 A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293, which related to limitation on availability of appropriations to reimburse a contractor for the cost of commercial insurance, was repealed by Pub. L. 100–370, §1(f)(2)(B), July 19, 1988, 102 Stat. 846, and was restated in section 2324(e)(1)(L) of this title by section 1(f)(2)(A) of Pub. L. 100–370.
 
 #### Amendments
+
+2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
+
+2002—Subsec. (a)(2). Pub. L. 107–314 substituted “means a conventional weapons system that” for “means” in introductory provisions and struck out “a conventional weapons system that” before “is a major system” in subpar. (A).
 
 2001—Subsec. (b)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 

@@ -44,7 +44,7 @@ A trustee shall not be personally liable for any increase in the tax imposed by 
 
 1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(12), inserted “or decrease” after “any increase” and “or decrease (as the case may be)” after “such increase”.
 
-Subsec. (b). Pub. L. 100–647, §1014(g)(13), substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text readas follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
+Subsec. (b). Pub. L. 100–647, §1014(g)(13), substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text read as follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
 
 #### Effective Date of 1998 Amendment
 

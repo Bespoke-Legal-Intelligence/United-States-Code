@@ -54,7 +54,7 @@ In determining whether a waiver to the contractor at the time of contracting wil
 
 #### (e) Considerations applicable to identified invention for waiver determination by Secretary
 
-In determining whether a waiver to the contractor or inventor or rights to an identified invention will best serve the interests of the United States and the general public, the Secretary shall specifically include as considerations paragraphs (4) through (11) of subsection (d) of this section as applied to the invention and—
+In determining whether a waiver to the contractor or inventor or rights to an identified invention will best serve the interests of the United States and the general public, the Secretary shall specifically include as considerations paragraphs (4) through (11) of subsection\(d) of this section as applied to the invention and—
 
 &emsp;(1) the extent to which such waiver is a reasonable and necessary incentive to call forth private risk capital for the development and commercialization of the invention; and
 

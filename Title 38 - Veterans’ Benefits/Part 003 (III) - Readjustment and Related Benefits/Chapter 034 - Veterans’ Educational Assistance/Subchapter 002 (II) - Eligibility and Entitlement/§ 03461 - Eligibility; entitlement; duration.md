@@ -2,7 +2,7 @@
 
 ### Entitlement
 
-(a) Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-half months (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran's service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran's active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a person whose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computing such person's entitlement shall be the date of such person's first discharge or release from active duty after December 31, 1976.
+(a) Except as provided in subsection (c) and in the second sentence of this subsection, each eligible veteran shall be entitled to educational assistance under this chapter or chapter 36 for a period of one and one-half months (or the equivalent thereof in part-time educational assistance) for each month or fraction thereof of the veteran's service on active duty after January 31, 1955. If an eligible veteran has served a period of 18 months or more on active duty after January 31, 1955, and has been released from such service under conditions that would satisfy the veteran's active duty obligation, the veteran shall be entitled to educational assistance under this chapter for a period of 45 months (or the equivalent thereof in part-time educational assistance). In the case of any person serving on active duty on December 31, 1976, or a personwhose eligibility is based on section 3452(a)(1)(B) of this chapter, the ending date for computing such person's entitlement shall be the date of such person's first discharge or release from active duty after December 31, 1976.
 
 ### Entitlement Limitations
 
@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 93–508, §202(2), inserted reference to subsec. (a).
 
 1968—Subsec. (a). Pub. L. 90–631, §1(b)(1), substituted references to subsec. (c) and the second sentence of this subsec. for reference to subsec. (b), increased from one month to one and one-half months the amount of educational assistance each eligible veteran shall receive for each month or fraction thereof of active duty service after Jan. 31, 1955, and inserted provisions that an eligible veteran who has served 18 months or more on active duty after Jan. 31, 1955, and has been released under conditions that would satisfy his active duty obligation, shall be entitled to educational assistance under this chapter for a period of 36 months.
 
-Subsec. (b). Pub. L. 90–631, §1(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), which set forthentitlement limitations on the amount of educational assistance an eligible veteran, shall receive under this chapter, was struck out.
+Subsec. (b). Pub. L. 90–631, §1(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), which set forth entitlement limitations on the amount of educational assistance an eligible veteran, shall receive under this chapter, was struck out.
 
 Subsec. (c). Pub. L. 90–631, §1(b), (3), (4), added subsec. (c). Former subsec. (c) redesignated (b).
 

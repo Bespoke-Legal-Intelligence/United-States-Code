@@ -8,7 +8,7 @@ The Administrator shall in January of each year report to the Committee on Scien
 
 #### Codification
 
-Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, 1978, and not as part of the National Aeronautics andSpace Act of 1958 which is classified principally to this chapter.
+Section was enacted as part of the National Aeronautics and Space Administration Authorization Act, 1978, and not as part of the National Aeronautics and Space Act of 1958 which is classified principally to this chapter.
 
 #### Prior Provisions
 

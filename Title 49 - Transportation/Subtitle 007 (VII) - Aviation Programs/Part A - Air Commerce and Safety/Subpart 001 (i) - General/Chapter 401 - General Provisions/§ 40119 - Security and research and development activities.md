@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Under Secretary of Transportation for Security and the Administrator of the Federal Aviation Administration each shall conduct research (includingbehavioral research) and development activities appropriate to develop, modify, test, and evaluate a system, procedure, facility, or device to protect passengers and property against acts of criminal violence, aircraft piracy, and terrorism and to ensure security.
+General Requirements.—The Under Secretary of Transportation for Security and the Administrator of the Federal Aviation Administration each shall conduct research (including behavioral research) and development activities appropriate to develop, modify, test, and evaluate a system, procedure, facility, or device to protect passengers and property against acts of criminal violence, aircraft piracy, and terrorism and to ensure security.
 
 (b)
 
@@ -14,7 +14,7 @@ Disclosure.—(1) Notwithstanding section 552 of title 5 and the establishment o
 
 &emsp;(C) be detrimental to transportation safety.
 
-(2) Paragraph (1) of this subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
+(2) Paragraph (1) of this subsection does not authorize information to be withheld from acommittee of Congress authorized to have the information.
 
 (c)
 

@@ -26,7 +26,7 @@ The Fund shall consult with and consider the views of the appropriate Federal ba
 
 #### (4) Exception
 
-&emsp;Notwithstanding paragraphs (1) and (2), the Fund may require an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency to provide information with respect to the institution's implementation of its strategic plan or compliance with the terms of its assistance agreement under this subchapter, after providing notice to the appropriate Federal banking agency.
+&emsp;Notwithstanding paragraphs (1) and (2), the Fund may require an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of an appropriate Federal banking agency to provide information with respect to the institution's implementation of its strategic plan or compliance withthe terms of its assistance agreement under this subchapter, after providing notice to the appropriate Federal banking agency.
 
 #### (c) Exclusion for examination reports
 
@@ -46,7 +46,7 @@ The Fund, the appropriate Federal banking agency, and any other party providing 
 
 #### (g) Exceptions
 
-Nothing in this section shall authorize the Fund or the appropriate Federal banking agencyto withhold information from the Congress or prevent it from complying with a request for information from a Federal department or agency in compliance with applicable law.
+Nothing in this section shall authorize the Fund or the appropriate Federal banking agency to withhold information from the Congress or prevent it from complying with a request for information from a Federal department or agency in compliance with applicable law.
 
 #### (h) Sanctions
 

@@ -1,0 +1,26 @@
+### §404b. Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave
+
+(a)
+
+Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assigned to temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location while the member is in an authorized leave status.
+
+(b)
+
+Covered Members.—Subsection (a) applies with respect to a member assigned to temporary duty, for a period of more than 30 days, in support of a contingency operation or in other specific situations designated by the Secretary concerned if the member——
+
+&emsp;(1) immediately before taking the authorized leave, was performing the temporary duty at a location away from the home or permanent duty station of the member;
+
+&emsp;(2) was receiving a per diem allowance under section 404(a)(4) of this title to cover lodging and subsistence expenses incurred at the temporary duty location because quarters of the United States were not available for assignment to the member at that location; and
+
+&emsp;(3) immediately after completing the authorized leave, returns to the duty location.
+
+(c)
+
+Payment Limitation.—The amount paid or reimbursed under subsection (a) for a member may not exceed the lesser of—
+
+&emsp;(1) the actual daily cost of lodging incurred by the member at the temporary duty location while the member was in an authorized leave status; and
+
+&emsp;(2) the lodging portion of the applicable daily per diem rate for the temporary duty location.
+
+(Added Pub. L. 108–136, div. A, title VI, §635(a), Nov. 24, 2003, 117 Stat. 1510.)
+

@@ -46,7 +46,7 @@ Sections 182a to 182d of this title, referred to in subsec. (a), was in the orig
 
 #### Amendments
 
-2001—Pub. L. 107–68 struck out “audio and video” before “duplication” in section catchline and in subsec. (a).
+<b>2001</b>—Pub. L. 107–68 struck out “audio and video” before “duplication” in section catchline and in subsec. (a).
 
 #### Effective Date
 
@@ -54,5 +54,5 @@ Pub. L. 106–481, title I, §105, Nov. 9, 2000, 114 Stat. 2190, provided that: 
 
 #### Short Title
 
-Pub. L. 106–481, §1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Act \[enacting this section and sections 182b to 182d of this title, amending section 154 of this title, and enacting provisions set out as notes under this section and section 154 of this title\] may becited as the ‘Library of Congress Fiscal Operations Improvement Act of 2000’.”
+Pub. L. 106–481, §1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Act \[enacting this section and sections 182b to 182d of this title, amending section 154 of this title, and enacting provisions set out as notes under this section and section 154 of this title\] may be cited as the ‘Library of Congress Fiscal Operations Improvement Act of 2000’.”
 

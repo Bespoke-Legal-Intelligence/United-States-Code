@@ -20,7 +20,7 @@ Reimbursement.—Subsection (a) may be carried out by—
 
 (c)
 
-Regulations.—Subsection (a) shall be carried out in accordance with regulations the Administrator of General Services prescribes withthe approval of the Director of the Office of Management and Budget.
+Regulations.—Subsection (a) shall be carried out in accordance with regulations the Administrator of General Services prescribes with the approval of the Director of the Office of Management and Budget.
 
 (d)
 

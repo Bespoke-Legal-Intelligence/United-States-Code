@@ -38,7 +38,7 @@ For short title of title III of Pub. L. 85–500, which enacted section 390b of 
 
 #### Short Title
 
-Act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which enacted sections 372, 373, 381, 383, 391, 392, 411, 416, 419, 421, 431, 432, 434, 439, 461, 476, 491, and 498 of this title, is popularly known as the “Reclamation Act” or “National Irrigation Act of 1902”.
+Act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which enacted sections 372, 373, 381, 383, 391, 392, 411, 416,419, 421, 431, 432, 434, 439, 461, 476, 491, and 498 of this title, is popularly known as the “Reclamation Act” or “National Irrigation Act of 1902”.
 
 Act Dec. 5, 1924, ch. 4, §4, 43 Stat. 701, as amended, which enacted this section and sections 376, 377, 412, 417, 433, 438, 462, 463, 466, 467, 473, 474, 478, 493, 494, 500, 501, and 526 of this title, is popularly known as the “Fact Finders’ Act”.
 
@@ -116,7 +116,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 “The Commission shall—
 
-&emsp;“(1) review present and anticipated water resource problems affecting the nineteen Western States, making such projections of water supply requirements as may be necessary and identifying alternative ways of meeting these requirements—giving considerations, among other things, to conservation and more efficient use of existing supplies, innovations to encourage the most beneficial use of water and recent technological advances;
+&emsp;“(1) review present and anticipated water resource problems affecting the nineteen Western States,making such projections of water supply requirements as may be necessary and identifying alternative ways of meeting these requirements—giving considerations, among other things, to conservation and more efficient use of existing supplies, innovations to encourage the most beneficial use of water and recent technological advances;
 
 &emsp;“(2) examine the current and proposed Federal programs affecting such States and recommend to the President whether they should be continued or adopted and, if so, how they should be managed for the next twenty years, including the possible reorganization or consolidation of the current water resources development and management agencies;
 
@@ -186,7 +186,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 #### Act Referred to in Other Sections
 
-The Reclamation Act is referred to in sections 373a, 374, 375, 375b, 384, 390, 390h, 390aa, 391a, 393, 413, 420, 422, 422b, 423h, 425, 434, 441, 442, 446, 447, 448, 451i, 455 to 455b, 472, 485a, 485h–5, 499a, 504, 505, 506, 508, 511, 522 to 525, 541, 544, 545, 547, 561, 564, 593a, 593b, 595, 597, 600b, 617k, 620c, 626, 628, 1303, 1511, 1554, 1573, 1592, 2201, 2212, 2222, 2223 of this title; title 7 section 1860; title 16 sections 406d–5, 460<i>l–</i>18 to 460<i>l–</i>20, 460<i>l</i>–32, 460<i>l</i>–33, 590z–8, 590z–11; title 25 section 382; title 30 sections 83, 84, 125, 191; title 50 App. section 568.
+The Reclamation Act is referred to in sections 373a, 374, 375, 375b, 384, 390, 390h, 390aa, 391a, 393, 413, 420, 422, 422b, 423h, 425, 434, 441, 442, 446, 447, 448, 451i, 455 to 455b, 472, 485a, 485h–5, 499a, 504, 505, 506, 508, 511, 522 to 525, 541, 544, 545, 547, 561, 564, 593a, 593b, 595, 597, 600b, 617k, 620c, 626, 628, 1303, 1511, 1554, 1573, 1592, 2201, 2212, 2222, 2223 of this title; title 7 section 1860; title 16 sections 406d–5, 460<i>l–</i>18 to 460<i>l–</i>20, 460<i>l</i>–32, 460<i>l</i>–33, 590z–8, 590z–11; title 25 section 382; title 30 sections 83, 84, 125, 191.
 
 #### Section Referred to in Other Sections
 

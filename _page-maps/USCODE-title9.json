@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title9",
- "package": "USCODE-2002-title9",
+ "package": "USCODE-2003-title9",
  "pieces": [
   {
    "id": "9_",
@@ -36,7 +36,7 @@
      2,
      [
       [
-       772,
+       729,
        "[Page 2]"
       ]
      ]
@@ -83,7 +83,7 @@
      2,
      [
       [
-       710,
+       476,
        "[Page 3]"
       ]
      ]
@@ -135,14 +135,10 @@
    "id": "9_10",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       91,
-       "[Page 4]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 4]",
+     true
     ]
    ],
    "path": "Chapter 001 - General Provisions/§ 00010 - Same; vacation; grounds; rehearing.md",
@@ -174,7 +170,7 @@
    "marks": [
     [
      "L",
-     24,
+     10,
      "[Page 5]",
      true
     ]
@@ -232,26 +228,26 @@
   },
   {
    "id": "9_202",
-   "marks": [],
-   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00202 - Agreement or award falling under the Convention.md",
-   "printed_pages": [
-    5,
-    5
-   ]
-  },
-  {
-   "id": "9_203",
    "marks": [
     [
      "L",
-     10,
+     6,
      "[Page 6]",
      true
     ]
    ],
-   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00203 - Jurisdiction; amount in controversy.md",
+   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00202 - Agreement or award falling under the Convention.md",
    "printed_pages": [
     5,
+    6
+   ]
+  },
+  {
+   "id": "9_203",
+   "marks": [],
+   "path": "Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards/§ 00203 - Jurisdiction; amount in controversy.md",
+   "printed_pages": [
+    6,
     6
    ]
   },
@@ -320,30 +316,30 @@
   },
   {
    "id": "9_302",
-   "marks": [],
-   "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00302 - Incorporation by reference.md",
-   "printed_pages": [
-    6,
-    6
-   ]
-  },
-  {
-   "id": "9_303",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       141,
+       152,
        "[Page 7]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00303 - Order to compel arbitration; appointment of arbitrators; locale.md",
+   "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00302 - Incorporation by reference.md",
    "printed_pages": [
     6,
+    7
+   ]
+  },
+  {
+   "id": "9_303",
+   "marks": [],
+   "path": "Chapter 003 - Inter-American Convention on International Commercial Arbitration/§ 00303 - Order to compel arbitration; appointment of arbitrators; locale.md",
+   "printed_pages": [
+    7,
     7
    ]
   },
@@ -384,6 +380,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2002-title9 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2003-title9 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 09 - Arbitration"
 }

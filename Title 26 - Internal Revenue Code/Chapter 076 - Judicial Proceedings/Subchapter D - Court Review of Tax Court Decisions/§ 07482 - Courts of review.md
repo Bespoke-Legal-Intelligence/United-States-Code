@@ -18,7 +18,7 @@
 
 #### (C) Venue for review of subsequent proceedings
 
-&emsp;&emsp;If a United States Court of Appeals permits an appeal to be taken from an order described in subparagraph (A), except as provided in subsection (b)(2), any subsequent review of the decision of the Tax Court in the proceeding shall be made by such Court of Appeals.
+&emsp;&emsp;If a United States Court of Appeals permits an appeal to be taken from an order described in subparagraph (A), except as provided in subsection (b)(2), any subsequent review of the decision of the Tax Court in theproceeding shall be made by such Court of Appeals.
 
 #### (3) Certain orders entered under section 6213(a)
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(C) in the case of a person seeking a declaratory decision under section 7476, the principal place of business, or principal office or agency of the employer,
 
-&emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428,the principal office or agency of the organization,
+&emsp;&emsp;(D) in the case of an organization seeking a declaratory decision under section 7428, the principal office or agency of the organization,
 
 &emsp;&emsp;(E) in the case of a petition under section 6226, 6228(a), 6247, or 6252, the principal place of business of the partnership, or
 
@@ -84,7 +84,7 @@ Subsec. (b)(1)(E). Pub. L. 105–34, §1222(b)(3), substituted “, 6228(a), 62
 
 Subsec. (b)(1)(F). Pub. L. 105–34, §1239(d)(1), added subpar. (F).
 
-1989—Subsec. (c)(4). Pub. L. 101–239 substituted “penalties” for “damages” in heading and amended text generally. Prior to amendment, text read as follows: “The United States Court of Appeals and the Supreme Court shall have power to impose damages in any case where the decision of the Tax Court is affirmed and it appears that the notice of appeal was filed merely for delay.”
+1989—Subsec. (c)(4). Pub. L. 101–239 substituted “penalties” for “damages” in heading and amended text generally. Prior to amendment, text read as follows: “The United States Court of Appeals and the Supreme Court shall have power to impose damages in any case where the decision of the Tax Court is affirmed and itappears that the notice of appeal was filed merely for delay.”
 
 1988—Subsec. (a)(3). Pub. L. 100–647 added par. (3).
 
@@ -112,7 +112,7 @@ Subsec. (b)(1). Pub. L. 94–455, §§1042(d)(2)(B), 1306(b)(5), in provisions f
 
 Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1974—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted “If for any reason subparagraph (A), (B), and (C) do notapply” for “If for any reason neither subparagraph (A) nor (B) applies”, and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
+1974—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted “If for any reason subparagraph (A), (B), and (C) do not apply” for “If for any reason neither subparagraph (A) nor (B) applies”, and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
 
 1969—Subsec. (c). Pub. L. 91–172 substituted “section 2072 of title 28” for “section 2074 of title 28” in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted “notice of appeal” for “petition”.
 

@@ -2,7 +2,7 @@
 
 There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 87–651, title I, §117, Sept. 7, 1962, 76 Stat. 513; Pub. L. 107–107, div. A, title V, §540(a), Dec. 28, 2001, 115 Stat. 1109.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 87–651, title I, §117, Sept. 7, 1962, 76 Stat. 513;Pub. L. 107–107, div. A, title V, §540(a), Dec. 28, 2001, 115 Stat. 1109.)
 
 Historical and Revision Notes<br>1956
 

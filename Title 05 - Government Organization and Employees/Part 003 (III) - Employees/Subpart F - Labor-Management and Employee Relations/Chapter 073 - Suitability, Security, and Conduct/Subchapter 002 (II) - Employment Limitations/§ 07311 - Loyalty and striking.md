@@ -40,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Ex. Ord. No. 10450. Security Requirements for Government Employees
 
-Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, as amended by Ex. Ord. No. 10491, Oct. 15, 1953, 18 F.R. 6583; Ex. Ord. No. 10531, May 27, 1954, 19 F.R. 3069; Ex. Ord. No. 10548, Aug. 3, 1954, 19 F.R. 4871; Ex. Ord. No. 10550, Aug. 6, 1954, 19 F.R. 4981; Ex. Ord. No. 11605, July 2, 1971,36 F.R. 12831; Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
+Ex. Ord. No. 10450, Apr. 27, 1953, 18 F.R. 2489, as amended by Ex. Ord. No. 10491, Oct. 15, 1953, 18 F.R. 6583; Ex. Ord. No. 10531, May 27, 1954, 19 F.R. 3069; Ex. Ord. No. 10548, Aug. 3, 1954, 19 F.R. 4871; Ex. Ord. No. 10550, Aug. 6, 1954, 19 F.R. 4981; Ex. Ord. No. 11605, July 2, 1971, 36 F.R. 12831; Ex. Ord. No. 11785, June 4, 1974, 39 F.R. 20053; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
 WHEREAS the interests of the national security require that all persons privileged to be employed in the departments and agencies of the Government shall be reliable, trustworthy, of good conduct and character, and of complete and unswerving loyalty to the United States; and
 
@@ -110,7 +110,7 @@ Sec. 11. On and after the effective date of this order the Loyalty Review Board 
 
 Sec. 12. Executive Order No. 9835 of March 21, 1947, as amended, is hereby revoked.
 
-Sec. 13. The Attorney General is requested to render to the heads of departments and agencies such adviceas may be requisite to enable them to establish and maintain an appropriate employee-security program.
+Sec. 13. The Attorney General is requested to render to the heads of departments and agencies such advice as may be requisite to enable them to establish and maintain an appropriate employee-security program.
 
 Sec. 14. (a) The Office of Personnel Management, with the continuing advice and collaboration of representatives of such departments and agencies as the National Security Council may designate, shall make a continuing study of the manner in which this order is being implemented by the departments and agencies of the Government for the purpose of determining:
 
@@ -122,7 +122,7 @@ Information affecting any department or agency developed or received during the 
 
 (b) All departments and agencies of the Government are directed to cooperate with the Office of Personnel Management to facilitate the accomplishment of the responsibilities assigned to it by subsection (a) of this section.
 
-(c) To assist the Office of Personnel Management in discharging its responsibilities under this order, the head of each department and agency shall, as soon as possible and in no event later than ninety days after receipt of the final investigative report on a civilian officer or employee subject to a full field investigation under the provisions of this order, advise the Office as to the action taken with respect to such officer or employee. The information furnished by the heads of departments and agencies pursuant to this section shall be included in the reports which the Office of Personnel Management is required to submit to the National Security Council in accordance with subsection (a) of this section. Such reports shall set forth any deficiencies on the part of the heads of departments and agencies in taking timely action under this order, and shall mention specifically any instances of noncompliance with this subsection.
+(c) To assist the Office of Personnel Management in discharging its responsibilities under this order, the head of each department and agency shall, as soon as possible and in no event later than ninety days after receipt of the final investigative report on a civilian officer or employee subject to a full field investigation under the provisions of this order, advise the Office asto the action taken with respect to such officer or employee. The information furnished by the heads of departments and agencies pursuant to this section shall be included in the reports which the Office of Personnel Management is required to submit to the National Security Council in accordance with subsection (a) of this section. Such reports shall set forth any deficiencies on the part of the heads of departments and agencies in taking timely action under this order, and shall mention specifically any instances of noncompliance with this subsection.
 
 Sec. 15. This order shall become effective thirty days after the date hereof.
 

@@ -6,5 +6,5 @@ The Federal share of a grant made under this subchapter may not exceed 75 percen
 
 #### Prior Provisions
 
-A prior section 3796ii–4, Pub. L. 90–351, title I, §2205, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to applications to request funds, prior to repeal by Pub. L. 104–134, title I, §101\[(a)\]\[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+A prior section 3796ii–4, Pub. L. 90–351, title I, §2205, as added Pub. L. 103–322, title V, §50001(a)(3), Sept. 13, 1994, 108 Stat. 1957, related to applications to request funds, prior to repeal by Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 

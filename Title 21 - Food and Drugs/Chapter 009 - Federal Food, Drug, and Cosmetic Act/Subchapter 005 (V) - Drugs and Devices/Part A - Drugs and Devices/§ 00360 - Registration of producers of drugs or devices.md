@@ -100,7 +100,7 @@ A report under subsection (k) of this section is not required for a device inten
 
 (1) Not later than 60 days after November 21, 1997, the Secretary shall publish in the Federal Register a list of each type of class II device that does not require a report under subsection (k) of this section to provide reasonable assurance of safety and effectiveness. Each type of class II device identified by the Secretary as not requiring the report shall be exempt from the requirement to provide a report under subsection (k) of this section as of the date of the publication of the list in the Federal Register. The Secretary shall publish such list on the Internet site of the Food and Drug Administration. The list so published shall be updated not later than 30 days after each revision of the list by the Secretary.
 
-(2) Beginning on the date that is 1 day after the date of the publication of a list under this subsection, the Secretary may exempt a class II device from the requirement to submit a report under subsection (k) of this section, upon the Secretary's own initiative or a petition of an interested person, if the Secretary determines that such report is not necessary to assure the safety and effectiveness of the device. The Secretary shall publish in the Federal Register notice of the intent of the Secretary to exempt the device, or of the petition, and provide a 30-day period for public comment. Within 120 days after the issuance of the notice in the Federal Register, the Secretary shall publish an order in the Federal Register that sets forth the final determination of the Secretary regarding the exemption of the device that was the subject of the notice. If the Secretary fails to respond to a petition within 180 days of receiving it, the petition shall be deemed to be granted.
+(2) Beginning on the date that is 1 day after the date of the publication of a list under this subsection, the Secretary may exempt a class II device from the requirement to submit a report under subsection (k) of this section, upon the Secretary's own initiative or a petition of an interested person, if the Secretary determines that such report is not necessary to assure the safety and effectiveness of the device. The Secretary shall publish in the Federal Register notice of the intent of the Secretary to exempt thedevice, or of the petition, and provide a 30-day period for public comment. Within 120 days after the issuance of the notice in the Federal Register, the Secretary shall publish an order in the Federal Register that sets forth the final determination of the Secretary regarding the exemption of the device that was the subject of the notice. If the Secretary fails to respond to a petition within 180 days of receiving it, the petition shall be deemed to be granted.
 
 #### (n) Review of report; time for determination by Secretary
 
@@ -158,7 +158,7 @@ Subsec. (p). Pub. L. 107–250, §207, added subsec. (p).
 
 Subsec. (g)(4), (5). Pub. L. 105–115, §213(b)(1), (2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (i). Pub. L. 105–115, §417, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Any establishment within any foreign countryengaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs, or a device or devices, shall be permitted to register under this section pursuant to regulations promulgated by the Secretary. Such regulations shall require such establishment to provide the information required by subsection (j) of this section and shall require such establishment to provide the information required by subsection (j) of this section in the case of a device or devices and shall include provisions for registration of any such establishment upon condition that adequate and effective means are available, by arrangement with the government of such foreign country or otherwise, to enable the Secretary to determine from time to time whether drugs or devices manufactured, prepared, propagated, compounded, or processed in such establishment, if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title.”
+Subsec. (i). Pub. L. 105–115, §417, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Any establishment within any foreign country engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or drugs, or a device or devices, shall be permitted to register under this section pursuant to regulations promulgated by the Secretary. Such regulations shall require such establishment to provide the information required by subsection (j) of this section and shall require such establishment to provide the information required by subsection (j) of this section in the case of a device or devices and shall include provisions for registration of any such establishment upon condition that adequate and effective means are available, by arrangement with the government of such foreign country or otherwise, to enable the Secretary to determine from time to time whether drugs or devices manufactured, prepared, propagated, compounded, or processed in such establishment, if imported or offered for import into the United States, shall be refused admission on any of the grounds set forth in section 381(a) of this title.”
 
 Subsec. (j)(1)(A), (D). Pub. L. 105–115, §125(a)(2)(C), struck out “, 356, 357,” before “or 360b of this title”.
 
@@ -194,7 +194,7 @@ Subsec. (j)(1)(C). Pub. L. 94–295, §4(a)(8)(F), substituted “an applicable 
 
 Subsec. (j)(1)(D). Pub. L. 94–295, §4(a)(8)(G), substituted “a list” for “the list”, inserted “or the particular device contained in such list is not subject to a performance standard established under section 360d of this title or to section 360e of this title or is not a restricted device” after “or 360b of this title,”, and substituted “particular drug product or device” for “particular drug product” wherever appearing.
 
-Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or “device” for “drug” in subpars. (A), (B), and (C), and substituted “(each by established name” for “(by established name” in subpar. (C).
+Subsec. (j)(2). Pub. L. 94–295, §4(a)(8)(H), substituted “drug or device” for “drug” in subpars. (A), (B), and (C), and substituted “(each by established name” for “(by established name” in subpar. (C).
 
 Subsec. (k). Pub. L. 94–295, §4(a)(9), added subsec. (k).
 
@@ -224,7 +224,7 @@ Subsec. (d). Pub. L. 89–74 §4(d), designated existing provisions as par. (1),
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–188 effective upon the expiration of the 180-day period beginning June 12, 2002,see section 321(c) of Pub. L. 107–188, set out as a note under section 331 of this title.
+Amendment by Pub. L. 107–188 effective upon the expiration of the 180-day period beginning June 12, 2002, see section 321(c) of Pub. L. 107–188, set out as a note under section 331 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -260,5 +260,5 @@ Section 303 of Pub. L. 87–781 provided that any person who, on the day immedia
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 352, 353a, 355, 360c, 360e, 360i, 360j, 360m, 374, 379h, 379i, 381, 1602, 1604, 1605 of this title; title 42 section 1395<i>l</i>.
+This section is referred to in sections 331, 352, 353a, 355, 360c, 360e, 360i, 360j, 360m, 360bbb–3, 374, 379h, 379i, 379j–11, 379j–12, 381, 384, 1602, 1604, 1605 of this title; title 42 section 1395<i>l</i>.
 

@@ -6,7 +6,7 @@ The Trade Representative shall coordinate the consideration of international tra
 
 #### (b) Negotiating functions
 
-The Trade Representative has responsibility for coordinating United States discussions andnegotiations with foreign countries for the purpose of establishing mutual arrangements with respect to standards-related activities. In carrying out this responsibility, the Trade Representative shall inform and consult with any Federal agency having expertise in the matters under discussion and negotiation.
+The Trade Representative has responsibility for coordinating United States discussions and negotiations with foreign countries for the purpose of establishing mutual arrangements with respect to standards-related activities. In carrying out this responsibility, the Trade Representative shall inform and consult with any Federal agency having expertise in the matters under discussion and negotiation.
 
 #### (c) Cross reference
 

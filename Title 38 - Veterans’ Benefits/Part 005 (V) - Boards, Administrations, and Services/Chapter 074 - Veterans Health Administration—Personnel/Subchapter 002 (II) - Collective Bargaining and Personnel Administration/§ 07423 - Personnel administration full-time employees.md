@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended.Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -68,7 +68,7 @@ Subsec. (f). Pub. L. 102–405, §203, added subsec. (f).
 
 #### Establishment of Leave Bank Program
 
-For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian Gulf War, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
+For provision authorizing the establishment of a leave bank program for health-care professional covered under subsec. (e) of former section 4108 of this title \[now covered by subsec. (e) of this section\] similar to the leave bank program for Federal civilian employees in reserves who were activated during Persian GulfWar, see section 361 of Pub. L. 102–25, set out as a Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War note under section 6361 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

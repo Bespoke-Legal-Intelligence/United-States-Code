@@ -20,7 +20,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Compensation for commuting time is not payable under clause (i) if the work forwhich compensation is authorized under paragraph (1)—
+&emsp;&emsp;&emsp;Compensation for commuting time is not payable under clause (i) if the work for which compensation is authorized under paragraph (1)—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not commence within 16 hours of the customs officer's last regularly scheduled work assignment, or
 
@@ -40,7 +40,7 @@
 
 #### (C) 7:30 p.m. to 3:30 a.m. shiftwork
 
-&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30 a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
+&emsp;&emsp;If the regularly scheduled work assignment of a customs officer is 7:30 p.m. to 3:30a.m., the officer is entitled to pay for work during such period (except for work to which paragraph (2) or (3) applies) at the officer's hourly rate of basic pay plus premium pay amounting to 15 percent of that basic rate for the period from 7:30 p.m. to 11:30 p.m. and at the officer's hourly rate of basic pay plus premium pay amounting to 20 percent of that basic rate for the period from 11:30 p.m. to 3:30 a.m.
 
 #### (2) Sunday differential
 

@@ -84,7 +84,7 @@ Subsec. (b)(5). Pub. L. 106–379, §3(a)(3)(B)(iv), substituted “adjusted” 
 
 1997—Subsec. (b). Pub. L. 105–80, §7(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized.”
 
-Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All fees received under this section shall be deposited by the Register of Copyrights in the Treasuryof the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.”
+Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section.”
 
 1992—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
 

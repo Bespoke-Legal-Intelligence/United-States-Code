@@ -8,7 +8,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;(2) subject to subsection (b) of this section, to ensure that—
 
-&emsp;&emsp;(A) in the case of breast cancer, both a physical examination of the breasts and the screening procedure known as a mammography are conducted; and
+&emsp;&emsp;(A) in the case of breast cancer, both a physical examination of the breasts and thescreening procedure known as a mammography are conducted; and
 
 &emsp;&emsp;(B) in the case of cervical cancer, both a pelvic examination and the screening procedure known as a pap smear are conducted;
 

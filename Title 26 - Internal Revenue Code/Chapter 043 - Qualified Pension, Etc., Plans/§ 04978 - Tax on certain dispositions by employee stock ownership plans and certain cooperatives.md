@@ -18,7 +18,7 @@ If, during the 3-year period after the date on which the employee stock ownershi
 
 #### (2) Limitation
 
-&emsp;The amount realized taken into account under paragraph (1) shall not exceed that portion allocable to qualified securities acquiredin the sale to which section 1042 applied or acquired in the qualified gratuitous transfer to which section 664(g) applied determined as if such securities were disposed of—
+&emsp;The amount realized taken into account under paragraph (1) shall not exceed that portion allocable to qualified securities acquired in the sale to which section 1042 applied or acquired in the qualified gratuitous transfer to which section 664(g) applied determined as if such securities were disposed of—
 
 &emsp;&emsp;(A) first from qualified securities to which section 1042 applied or to which section 664(g) applied acquired during the 3-year period ending on the date of the disposition, beginning with the securities first so acquired, and
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an Effective Date of Repeal note under former section 133 of this title.
+Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made after Aug. 20, 1996, with exception and provisions relating to certain refinancings, see section 1602(c) of Pub. L. 104–188, set out as an EffectiveDate of Repeal note under former section 133 of this title.
 
 #### Effective Date of 1989 Amendment
 

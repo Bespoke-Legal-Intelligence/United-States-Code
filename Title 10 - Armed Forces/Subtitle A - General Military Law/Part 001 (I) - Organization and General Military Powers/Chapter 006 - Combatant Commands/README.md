@@ -11,6 +11,7 @@
 | [166a.](%C2%A7%2000166a%20-%20Combatant%20commands%20funding%20through%20the%20Chairman%20of%20Joint%20Chiefs%20of%20Staff.md) | Combatant commands: funding through the Chairman of Joint Chiefs of Staff. |
 | [166b.](%C2%A7%2000166b%20-%20Combatant%20commands%20funding%20for%20combating%20terrorism%20readiness%20initiatives.md) | Combatant commands: funding for combating terrorism readiness initiatives. |
 | [167\.](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md) | Unified combatant command for special operations forces. |
+| [167a.](%C2%A7%2000167a%20-%20Unified%20combatant%20command%20for%20joint%20warfighting%20experimentation%20acquisition%20authority.md) | Unified combatant command for joint warfighting experimentation: acquisition authority. |
 | [168\.](%C2%A7%2000168%20-%20Military-to-military%20contacts%20and%20comparable%20activities.md) | Military-to-military contacts and comparable activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,6 +21,8 @@
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VIII, §848(a)(2), Nov. 24, 2003, 117 Stat. 1555, added item 167a.
 
 2001—Pub. L. 107–107, div. A, title XV, §1512(b), Dec. 28, 2001, 115 Stat. 1273, added item 166b.
 
@@ -49,4 +52,5 @@ This chapter is referred to in sections 721, 3013, 3033, 5013, 5033, 5043, 8013,
 - [&sect; 00166a - Combatant commands funding through the Chairman of Joint Chiefs of Staff](%C2%A7%2000166a%20-%20Combatant%20commands%20funding%20through%20the%20Chairman%20of%20Joint%20Chiefs%20of%20Staff.md)
 - [&sect; 00166b - Combatant commands funding for combating terrorism readiness initiatives](%C2%A7%2000166b%20-%20Combatant%20commands%20funding%20for%20combating%20terrorism%20readiness%20initiatives.md)
 - [&sect; 00167 - Unified combatant command for special operations forces](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md)
+- [&sect; 00167a - Unified combatant command for joint warfighting experimentation acquisition authority](%C2%A7%2000167a%20-%20Unified%20combatant%20command%20for%20joint%20warfighting%20experimentation%20acquisition%20authority.md)
 - [&sect; 00168 - Military-to-military contacts and comparable activities](%C2%A7%2000168%20-%20Military-to-military%20contacts%20and%20comparable%20activities.md)

@@ -28,13 +28,13 @@ R.S. §384.
 
 The words “The Attorney General . . . shall report” are substituted for “It shall be the duty of the Attorney General to make . . . a report”. The word “beginning” is substituted for “commencement”. The words “pertaining to the Department that he considers proper” are substituted for “appertaining thereto that he may deem proper”.
 
-The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsolete in view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, §1, 53 Stat. 1223 (Chapter 41 of this title).
+The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsoletein view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, §1, 53 Stat. 1223 (Chapter 41 of this title).
 
 In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
 
 #### References in Text
 
-The date of enactment of 21st Century Department of Justice Appropriations Authorization Act, referred toin subsec. (b), is the date of enactment of Pub. L. 107–273, which was approved Nov. 2, 2002.
+The date of enactment of 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (b), is the date of enactment of Pub. L. 107–273, which was approved Nov. 2, 2002.
 
 #### Amendments
 

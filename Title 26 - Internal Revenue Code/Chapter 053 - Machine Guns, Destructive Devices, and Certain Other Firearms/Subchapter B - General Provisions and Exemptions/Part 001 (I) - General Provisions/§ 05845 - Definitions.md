@@ -20,7 +20,7 @@ The term “shotgun” means a weapon designed or redesigned, made or remade, an
 
 #### (e) Any other weapon
 
-The term “any other weapon” means any weapon or device capable of being concealed on the person from which a shot can be dischargedthrough the energy of an explosive, a pistol or revolver having a barrel with a smooth bore designed or redesigned to fire a fixed shotgun shell, weapons with combination shotgun and rifle barrels 12 inches or more, less than 18 inches in length, from which only a single discharge can be made from either barrel without manual reloading, and shall include any such weapon which may be readily restored to fire. Such term shall not include a pistol or a revolver having a rifled bore, or rifled bores, or weapons designed, made, or intended to be fired from the shoulder and not capable of firing fixed ammunition.
+The term “any other weapon” means any weapon or device capable of being concealed on the person from which a shot can be discharged through the energy of an explosive, a pistol or revolver having a barrel with a smooth bore designed or redesigned to fire a fixed shotgun shell, weapons with combination shotgun and rifle barrels 12 inches or more, less than 18 inches in length, from which only a single discharge can be made from either barrel without manual reloading, and shall include any such weapon which may be readily restored to fire. Such term shall not include a pistol or a revolver having a rifled bore, or rifled bores, or weapons designed, made, or intended to be fired from the shoulder and not capable of firing fixed ammunition.
 
 #### (f) Destructive device
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 
 #### Effective Date
 
-Section effective on first day of first month following October 1968, except as to persons possessing firearms as defined in subsec. (a) of this section which are not registered to such persons in the National Firearms Registration and Transfer Record, see section 207 ofPub. L. 90–618, set out as a note under section 5801 of this title.
+Section effective on first day of first month following October 1968, except as to persons possessing firearms as defined in subsec. (a) of this section which are not registered to such persons in the National Firearms Registration and Transfer Record, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -32,11 +32,11 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 #### (d) Consideration of public comments by Attorney General and publication of response
 
-During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
+During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United Statesshall file with the district court and cause to be published in the Federal Register a response to such comments.
 
 #### (e) Public interest determination
 
-Before entering any consent judgment proposed by the United States under this section,the court shall determine that the entry of such judgment is in the public interest. For the purpose of such determination, the court may consider—
+Before entering any consent judgment proposed by the United States under this section, the court shall determine that the entry of such judgment is in the public interest. For the purpose of such determination, the court may consider—
 
 &emsp;(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
 

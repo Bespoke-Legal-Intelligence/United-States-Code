@@ -24,7 +24,7 @@ In addition to the authorities granted under section 515 of this title and secti
 
 #### (e) Eligibility
 
-Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b) of this title and similar regional organizations, the Secretary shall establish eligibility criteria for the designation of forest areas from which lands may be entered into the Forest Legacy Program and subsequently select such appropriate areas. To be eligible, such areas shall have significant environmental values or shall be threatened by present or future conversion to nonforest uses. Of land proposed to be included in the Forest Legacy Program, the Secretary shall give priority to lands which can be effectively protected and managed, and which have important scenic or recreational values; riparian areas; fish and wildlife values, including threatened and endangered species; or other ecological values.
+Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b) of this title and similar regional organizations, the Secretary shall establish eligibility criteria for the designation of forest areas from which lands may be entered into the Forest Legacy Program and subsequently select such appropriate areas. To be eligible, such areas shall have significant environmental values or shallbe threatened by present or future conversion to nonforest uses. Of land proposed to be included in the Forest Legacy Program, the Secretary shall give priority to lands which can be effectively protected and managed, and which have important scenic or recreational values; riparian areas; fish and wildlife values, including threatened and endangered species; or other ecological values.
 
 #### (f) Application
 
@@ -92,13 +92,39 @@ Under the terms of a conservation easement or other property interest acquired u
 
 &emsp;&emsp;(A) the Secretary shall use a portion of the funds made available under subsection (m) of this section, as determined by the Secretary, to provide a grant to the State; and
 
-&emsp;&emsp;(B) the State shall use the grant to carry out the Forest Legacy Program in the State, including the acquisition by the State of lands and interests in lands.
+&emsp;&emsp;(B) the State shall use the grant to carry out the Forest Legacy Program in the State,including the acquisition by the State of lands and interests in lands.
+
+#### (3) Transfer of Forest Legacy Program land—
+
+#### (A) In general
+
+&emsp;&emsp;Subject to any terms and conditions that the Secretary may require (including the requirements described in subparagraph (B)), the Secretary may, at the request of the State of Vermont, convey to the State, by quitclaim deed, without consideration, any land or interest in land acquired in the State under the Forest Legacy Program.
+
+#### (B) Requirements
+
+&emsp;&emsp;In conveying land or an interest in land under subparagraph (A), the Secretary may require that—
+
+&emsp;&emsp;&emsp;(i) the deed conveying the land or interest in land include requirements for the management of the land in a manner that—
+
+&emsp;&emsp;&emsp;&emsp;(I) conserves the land or interest in land; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is consistent with any other Forest Legacy Program purposes for which the land or interest in land was acquired;
+
+&emsp;&emsp;&emsp;(ii) if the land or interest in land is subsequently sold, exchanged, or otherwise disposed of by the State of Vermont, the State shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) reimburse the Secretary in an amount that is based on the current market value of the land or interest in land in proportion to the amount of consideration paid by the United States for the land or interest in land; or
+
+&emsp;&emsp;&emsp;&emsp;(II) convey to the Secretary land or an interest in land that is equal in value to the land or interest in land conveyed.
+
+#### (C) Disposition of funds
+
+&emsp;&emsp;Amounts received by the Secretary under subparagraph (B)(ii) shall be credited to the Wildland Fire Management account, to remain available until expended.
 
 #### (m) Appropriation
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015.)
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
 
 #### References in Text
 
@@ -109,6 +135,8 @@ Public Law 100–446, referred to in subsec. (d)(2), is Pub. L. 100–446, Sept.
 A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classified to section 2106 of this title.
 
 #### Amendments
+
+2003—Subsec. (<i>l</i>)(3). Pub. L. 108–108 added par. (3).
 
 1996—Subsecs. (<i>l</i>), (m). Pub. L. 104–127 added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 

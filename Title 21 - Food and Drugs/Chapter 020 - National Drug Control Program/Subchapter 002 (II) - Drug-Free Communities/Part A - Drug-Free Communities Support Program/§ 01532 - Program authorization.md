@@ -102,7 +102,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(B) conduct—
 
-&emsp;&emsp;&emsp;(i) for an initial grant under this part, an initial benchmark survey of drug use among youth (or use local surveys or performance measures available or accessible in the community at the time of the grant application); and
+&emsp;&emsp;&emsp;(i) for an initial grant under this part, an initial benchmark survey of drug useamong youth (or use local surveys or performance measures available or accessible in the community at the time of the grant application); and
 
 &emsp;&emsp;&emsp;(ii) biennial surveys (or incorporate local surveys in existence at the time of the evaluation) to measure the progress and effectiveness of the coalition; and
 

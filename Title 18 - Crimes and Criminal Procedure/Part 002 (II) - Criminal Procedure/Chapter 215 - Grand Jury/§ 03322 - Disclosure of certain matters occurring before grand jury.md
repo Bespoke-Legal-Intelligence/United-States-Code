@@ -42,7 +42,7 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a)(2) and (d)(
 
 #### Prior Provisions
 
-A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grandjurors, prior to repeal by Pub. L. 101–73, §964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grand jurors, prior to repeal by Pub. L. 101–73, §964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
 #### Amendments
 

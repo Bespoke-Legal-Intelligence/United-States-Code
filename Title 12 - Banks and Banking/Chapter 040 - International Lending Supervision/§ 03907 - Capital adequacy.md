@@ -12,7 +12,7 @@
 
 (ii) Any such directive issued pursuant to this paragraph, including plans submitted pursuant thereto, shall be enforceable under the provisions of section 1818(i) of this title to the same extent as an effective and outstanding order issued pursuant to section 1818(b) of this title which has become final.
 
-(3)(A) Each appropriate Federal banking agency may consider such banking institution's progress in adhering to any plan required under this subsection whenever such banking institution, or an affiliate thereof, or the holding company which controls such banking institution, seeks the requisite approval of such appropriate Federal banking agency for any proposal which would divert earnings, diminish capital, or otherwise impede such banking institution's progress in achieving its minimum capital level.
+(3)(A) Each appropriate Federal banking agency may consider such banking institution's progress in adhering to any plan required under this subsection whenever such banking institution, or an affiliate thereof, or the holding company which controls such banking institution, seeks the requisite approval of such appropriate Federal banking agency for any proposal which would divert earnings, diminish capital, orotherwise impede such banking institution's progress in achieving its minimum capital level.
 
 (B) Such appropriate Federal banking agency may deny such approval where it determines that such proposal would adversely affect the ability of the banking institution to comply with such plan.
 

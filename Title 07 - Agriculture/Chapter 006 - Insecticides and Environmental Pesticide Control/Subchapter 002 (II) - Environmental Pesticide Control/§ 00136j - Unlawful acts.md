@@ -56,7 +56,7 @@
 
 &emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental health consequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
 
-&emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator,or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
+&emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator, or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
 
 &emsp;(R) to submit to the Administrator data known to be false in support of a registration; or
 
@@ -108,7 +108,7 @@ Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted “t
 
 Subsec. (a)(2)(J). Pub. L. 100–532, §801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
 
-Pub. L. 100–532, §603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under section 136d of this title;”.
+Pub. L. 100–532, §603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “toviolate any suspension order issued under section 136d of this title;”.
 
 Subsec. (a)(2)(K). Pub. L. 100–532, §603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under section 136d of this title, except as provided by section 136d(a)(1) of this title;”.
 

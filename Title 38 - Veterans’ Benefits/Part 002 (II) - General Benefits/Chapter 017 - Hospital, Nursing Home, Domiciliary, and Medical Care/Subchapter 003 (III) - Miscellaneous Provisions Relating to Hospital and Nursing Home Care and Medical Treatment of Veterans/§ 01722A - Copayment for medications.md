@@ -6,9 +6,11 @@
 
 (3) Paragraph (1) does not apply—
 
-&emsp;(A) to a veteran with a service-connected disability rated 50 percent or more; or
+&emsp;(A) to a veteran with a service-connected disability rated 50 percent or more;
 
-&emsp;(B) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title.
+&emsp;(B) to a veteran who is a former prisoner of war; or
+
+&emsp;(C) to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title.
 
 (b) The Secretary, pursuant to regulations which the Secretary shall prescribe, may—
 
@@ -16,13 +18,17 @@
 
 &emsp;(2) establish a maximum monthly and a maximum annual pharmaceutical copayment amount under subsection (a) for veterans who have multiple outpatient prescriptions.
 
-(c) Amounts collected under subsection (a) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund. Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.
+(c) Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 
-(d) The provisions of subsection (a) expire on September 30, 2002.
-
-(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560.)
+(Added Pub. L. 101–508, title VIII, §8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, §622A; renumbered §1722A, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, §518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, §1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, §201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, §113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, §101(b), Dec. 6, 2003, 117 Stat. 2043.)
 
 #### Amendments
+
+2003—Subsec. (a)(3)(B), (C). Pub. L. 108–170 added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (c). Pub. L. 108–7, §113(c)(1), substituted “under this section” for “under subsection (a)” in first sentence and struck out second sentence which read as follows: “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.”
+
+Subsec. (d). Pub. L. 108–7, §113(c)(2), struck out subsec. (d) which read as follows: “The provisions of subsection (a) expire on September 30, 2002.”
 
 1999—Subsec. (b). Pub. L. 106–117, §201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -66,5 +72,5 @@ Section 8012(b) of Pub. L. 101–508 provided that: “The amendments made by su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1729A, 1729B of this title.
+This section is referred to in section 1729A of this title.
 

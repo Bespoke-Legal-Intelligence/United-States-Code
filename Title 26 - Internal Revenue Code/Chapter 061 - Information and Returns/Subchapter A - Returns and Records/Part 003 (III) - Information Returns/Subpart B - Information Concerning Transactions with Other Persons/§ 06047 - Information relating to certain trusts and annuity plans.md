@@ -2,7 +2,7 @@
 
 #### (a) Trustees and insurance companies
 
-The trustee of a trust described in section 401(a) which is exempt from tax under section 501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
+The trustee of a trust described in section 401(a) which is exempt from tax under section501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
 
 #### (b) Owner-employees
 
@@ -114,7 +114,7 @@ Subsec. (e). Pub. L. 93–406, §§1031(c)(3), 2002(g)(8), redesignated former s
 
 Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as a note under section 402 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010,and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

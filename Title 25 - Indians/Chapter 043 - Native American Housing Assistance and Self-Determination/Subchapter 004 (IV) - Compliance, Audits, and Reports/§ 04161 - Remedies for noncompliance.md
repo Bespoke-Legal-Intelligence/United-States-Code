@@ -16,7 +16,7 @@
 
 #### (2) Continuance of actions
 
-&emsp;If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), the Secretary shall continue such action until the Secretary determines that the failure to comply has ceased.
+&emsp;If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1), theSecretary shall continue such action until the Secretary determines that the failure to comply has ceased.
 
 #### (3) Exception for certain actions
 

@@ -4,7 +4,7 @@
 
 (b) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, §203, Oct. 25, 1984, 98 Stat. 2770; Pub. L.101–647, title XII, §1205(<i>l</i>), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, §103, Oct. 25, 1992, 106 Stat. 3385.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, §203, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 101–647, title XII, §1205(<i>l</i>), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, §103, Oct. 25, 1992, 106 Stat. 3385.)
 
 #### Historical and Revision Notes
 

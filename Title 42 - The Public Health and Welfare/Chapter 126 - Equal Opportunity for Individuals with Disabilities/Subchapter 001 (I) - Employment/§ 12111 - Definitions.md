@@ -88,7 +88,7 @@ This chapter, referred to in par. (10)(B)(i), was in the original “this Act”
 
 #### Amendments
 
-1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such termincludes an individual who is a citizen of the United States.”
+1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
 
 #### Effective Date of 1991 Amendment
 

@@ -66,7 +66,7 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 
 #### Nonapplication of Subsec. (c)
 
-For provision that subsec. (c) of this section does not apply to Amtrak and its employees, see section 142(d)of Pub. L. 105–134, set out in an Employee Protection Reforms note under section 24706 of Title 49, Transportation.
+For provision that subsec. (c) of this section does not apply to Amtrak and its employees, see section 142(d) of Pub. L. 105–134, set out in an Employee Protection Reforms note under section 24706 of Title 49, Transportation.
 
 #### Section Referred to in Other Sections
 

@@ -158,7 +158,7 @@ Par. (22). Pub. L. 107–273, §12204(8)(A), redesignated cls. (i) to (iii) as s
 
 Pars. (24) to (29). Pub. L. 107–273, §12204(8)(B)–(10), added pars. (24) to (29).
 
-1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of generallocal government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
 Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 
@@ -202,7 +202,7 @@ Par. (15). Pub. L. 96–509, §5(f), (g), redesignated former par. (13) as (15),
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1988 Amendment
 

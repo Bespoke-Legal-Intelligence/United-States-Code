@@ -20,7 +20,7 @@ Within one hundred and fifty days after October 21, 1970, the Secretary shall pu
 
 #### (d) Acquisition of interests in lands designated as category II; limitations
 
-Except as provided in subsection (f) of this section, the Secretary may, after the publication provided for in subsection (c) of this section, acquire only such interests in lands designated as category II, other than those to be acquired in fee simple, as he deems appropriate to insure the continued conservation and preservation of the environmental quality of the lakeshore.
+Except as provided in subsection (f) of this section, the Secretary may, after the publicationprovided for in subsection (c) of this section, acquire only such interests in lands designated as category II, other than those to be acquired in fee simple, as he deems appropriate to insure the continued conservation and preservation of the environmental quality of the lakeshore.
 
 #### (e) Acquisition of interests in lands designated as category III; limitations
 

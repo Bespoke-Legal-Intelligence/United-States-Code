@@ -1,6 +1,6 @@
 ### §3303. Lists and schedules of records to be submitted to the Archivist by head of each Government agency
 
-The head of each agency of the United States Government shall submit to the Archivist, under regulations promulgated as provided by section 3302 of this title—
+The head of each agency of the United States Government shall submit to the Archivist,under regulations promulgated as provided by section 3302 of this title—
 
 &emsp;(1) lists of any records in the custody of the agency that have been photographed or microphotographed under the regulations and that, as a consequence, do not appear to have sufficient value to warrant their further preservation by the Government;
 

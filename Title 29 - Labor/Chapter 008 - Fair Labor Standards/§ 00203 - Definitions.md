@@ -302,7 +302,7 @@ Section 602 of Pub. L. 89–601 provided in part that: “On and after the date 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1802, 2001, 2611 of this title; title 8 sections 1101, 1186; title 26 section 45B; title 49 sections 3101, 31501.
+This section is referred to in sections 1802, 2001, 2611 of this title; title 8 sections 1101, 1186; title 15 section 2229a; title 26 section 45B; title 49 sections 3101, 31501.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “in”.</i>
 

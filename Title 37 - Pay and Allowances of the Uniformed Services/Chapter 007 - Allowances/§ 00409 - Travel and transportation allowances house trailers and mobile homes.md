@@ -14,7 +14,7 @@
 
 (d) The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475; Pub. L. 88–406, Aug. 7, 1964, 78 Stat. 383; Pub. L. 89–718, §§61, 62, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–246, Jan. 2, 1968, 81 Stat. 782; Pub. L. 96–342, title VIII, §808(a)(1), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–314, div. A, title VI, §654(b)(3), Dec. 2, 2002, 116 Stat. 2582.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 475; Pub. L. 88–406, Aug. 7, 1964, 78 Stat. 383; Pub. L. 89–718,§§61, 62, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–246, Jan. 2, 1968, 81 Stat. 782; Pub. L. 96–342, title VIII, §808(a)(1), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–314, div. A, title VI, §654(b)(3), Dec. 2, 2002, 116 Stat. 2582.)
 
 Historical and Revision Notes
 

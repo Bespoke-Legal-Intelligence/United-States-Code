@@ -1,0 +1,110 @@
+### §1395w–133. State Pharmaceutical Assistance Programs
+
+#### (a) Requirements for benefit coordination
+
+#### (1) In general
+
+&emsp;Before July 1, 2005, the Secretary shall establish consistent with this section requirements for prescription drug plans to ensure the effective coordination between a part D plan (as defined in paragraph (5)) and a State Pharmaceutical Assistance Program (as defined in subsection (b) of this section) with respect to—
+
+&emsp;&emsp;(A) payment of premiums and coverage; and
+
+&emsp;&emsp;(B) payment for supplemental prescription drug benefits,
+
+> &emsp;for part D eligible individuals enrolled under both types of plans.
+
+#### (2) Coordination elements
+
+&emsp;The requirements under paragraph (1) shall include requirements relating to coordination of each of the following:
+
+&emsp;&emsp;(A) Enrollment file sharing.
+
+&emsp;&emsp;(B) The processing of claims, including electronic processing.
+
+&emsp;&emsp;(C) Claims payment.
+
+&emsp;&emsp;(D) Claims reconciliation reports.
+
+&emsp;&emsp;(E) Application of the protection against high out-of-pocket expenditures under section 1395w–102(b)(4) of this title.
+
+&emsp;&emsp;(F) Other administrative processes specified by the Secretary.
+
+> &emsp;Such requirements shall be consistent with applicable law to safeguard the privacy of any individually identifiable beneficiary information.
+
+#### (3) Use of lump sum per capita method
+
+&emsp;Such requirements shall include a method for the application by a part D plan of specified funding amounts from a State Pharmaceutical Assistance Program for enrolled individuals for supplemental prescription drug benefits.
+
+#### (4) Consultation
+
+&emsp;In establishing requirements under this subsection, the Secretary shall consult with State Pharmaceutical Assistance Programs, MA organizations, States, pharmaceutical benefit managers, employers, representatives of part D eligible individuals, the data processing experts, pharmacists, pharmaceutical manufacturers, and other experts.
+
+#### (5) Part D plan defined
+
+&emsp;For purposes of this section and section 1395w–134 of this title, the term “part D plan” means a prescription drug plan and an MA–PD plan.
+
+#### (b) State Pharmaceutical Assistance Program
+
+For purposes of this part, the term “State Pharmaceutical Assistance Program” means a State program—
+
+&emsp;(1) which provides financial assistance for the purchase or provision of supplemental prescription drug coverage or benefits on behalf of part D eligible individuals;
+
+&emsp;(2) which, in determining eligibility and the amount of assistance to part D eligible individuals under the Program, provides assistance to such individuals in all part D plans and does not discriminate based upon the part D plan in which the individual is enrolled; and
+
+&emsp;(3) which satisfies the requirements of subsections (a) and (c) of this section.
+
+#### (c) Relation to other provisions
+
+#### (1) Medicare as primary payor
+
+&emsp;The requirements of this section shall not change or affect the primary payor status of a part D plan.
+
+#### (2) Use of a single card
+
+&emsp;A card that is issued under section 1395w–104(b)(2)(A) of this title for use under a part D plan may also be used in connection with coverage of benefits provided under a State Pharmaceutical Assistance Program and, in such case, may contain an emblem or symbol indicating such connection.
+
+#### (3) Other provisions
+
+&emsp;The provisions of section 1395w–134(c) of this title shall apply to the requirements under this section.
+
+#### (4) Special treatment under out-of-pocket rule
+
+&emsp;In applying section 1395w–102(b)(4)(C)(ii) of this title, expenses incurred under a State Pharmaceutical Assistance Program may be counted toward the annual out-of-pocket threshold.
+
+#### (5) Construction
+
+&emsp;Nothing in this section shall be construed as requiring a State Pharmaceutical Assistance Program to coordinate or provide financial assistance with respect to any part D plan.
+
+#### (d) Facilitation of transition and coordination with State Pharmaceutical Assistance Programs
+
+#### (1) Transitional grant program
+
+&emsp;The Secretary shall provide payments to State Pharmaceutical Assistance Programs with an application approved under this subsection.
+
+#### (2) Use of funds
+
+&emsp;Payments under this section may be used by a Program for any of the following:
+
+&emsp;&emsp;(A) Educating part D eligible individuals enrolled in the Program about the prescription drug coverage available through part D plans under this part.
+
+&emsp;&emsp;(B) Providing technical assistance, phone support, and counseling for such enrollees to facilitate selection and enrollment in such plans.
+
+&emsp;&emsp;(C) Other activities designed to promote the effective coordination of enrollment, coverage, and payment between such Program and such plans.
+
+#### (3) Allocation of funds
+
+&emsp;Of the amount appropriated to carry out this subsection for a fiscal year, the Secretary shall allocate payments among Programs that have applications approved under paragraph (4) for such fiscal year in proportion to the number of enrollees enrolled in each such Program as of October 1, 2003.
+
+#### (4) Application
+
+&emsp;No payments may be made under this subsection except pursuant to an application that is submitted and approved in a time, manner, and form specified by the Secretary.
+
+#### (5) Funding
+
+&emsp;Out of any funds in the Treasury not otherwise appropriated, there are appropriated for each of fiscal years 2005 and 2006, $62,500,000 to carry out this subsection.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–23, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2128.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1395w–111, 1395w–113, 1395w–134, 1395w–151 of this title.
+

@@ -21,10 +21,13 @@
 | [4117\.](%C2%A7%2004117%20-%20Administration.md) | Administration. |
 | [4118\.](%C2%A7%2004118%20-%20Regulations.md) | Regulations. |
 | [4119\.](%C2%A7%2004119%20-%20Training%20for%20employees%20under%20the%20Office%20of%20the%20Architect%20of%20the%20Capitol%20and%20the%20Botanic%20Garden.md) | Training for employees under the Office of the Architect of the Capitol and the Botanic Garden. |
+| [4120\.](%C2%A7%2004120%20-%20Training%20for%20employees%20of%20the%20Capitol%20Police.md) | Training for employees of the Capitol Police. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–7, div. H, title I, §1010(b), Feb. 20, 2003, 117 Stat. 360, added item 4120.
 
 2002—Pub. L. 107–296, title XIII, §1331(b), Nov. 25, 2002, 116 Stat. 2299, substituted “Academic degree training” for “Restriction on degree training” in item 4107.
 
@@ -36,7 +39,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3381, 9701 of this title; title 2 section 609; title 18 section 209; title 26 section 4941; title 38 section 3681.
+This chapter is referred to in sections 3381, 9701, 9902 of this title; title 2 section 609; title 18 section 209; title 26 section 4941; title 38 section 3681.
 
 
 ---
@@ -62,3 +65,4 @@ This chapter is referred to in sections 3381, 9701 of this title; title 2 sectio
 - [&sect; 04117 - Administration](%C2%A7%2004117%20-%20Administration.md)
 - [&sect; 04118 - Regulations](%C2%A7%2004118%20-%20Regulations.md)
 - [&sect; 04119 - Training for employees under the Office of the Architect of the Capitol and the Botanic Garden](%C2%A7%2004119%20-%20Training%20for%20employees%20under%20the%20Office%20of%20the%20Architect%20of%20the%20Capitol%20and%20the%20Botanic%20Garden.md)
+- [&sect; 04120 - Training for employees of the Capitol Police](%C2%A7%2004120%20-%20Training%20for%20employees%20of%20the%20Capitol%20Police.md)

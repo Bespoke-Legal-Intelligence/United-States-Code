@@ -31,7 +31,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 29 section 1111.
+This chapter is referred to in title 15 section 7703; title 29 section 1111.
 
 
 ---

@@ -16,7 +16,7 @@
 
 &emsp;(E) engineering performance data on equipment and devices utilizing solar energy.
 
-(3) In accordance with regulations prescribed under section 5561 of this title, the Chairman shall provide retrieval and dissemination services with respect to the information described under paragraph (2) for—
+(3) In accordance with regulations prescribed under section 5561 of this title, the Chairmanshall provide retrieval and dissemination services with respect to the information described under paragraph (2) for—
 
 &emsp;(A) Federal, State, and local government organizations that are active in the area of energy resources (and their contractors);
 

@@ -14,7 +14,7 @@ For the purposes described in subsection (a) of this section, there shall be est
 
 #### (c) Effective upon conveyance
 
-Subsection (b) of this section shall be effective upon conveyance of satisfactory title to the United States of the whole of Saint Helena Island, except that portion conveyed to the Great Lakes Lighthouse Keepers Association pursuantto section 1001 of the Coast Guard Authorization Act of 1996 (Public Law 104–324; 110 Stat. 3948).
+Subsection (b) of this section shall be effective upon conveyance of satisfactory title to the United States of the whole of Saint Helena Island, except that portion conveyed to the Great Lakes Lighthouse Keepers Association pursuant to section 1001 of the Coast Guard Authorization Act of 1996 (Public Law 104–324; 110 Stat. 3948).
 
 (Pub. L. 106–431, §2, Nov. 6, 2000, 114 Stat. 1905.)
 

@@ -1,6 +1,6 @@
 ### §8439. Accounting and information
 
-(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund.
+(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title orwho makes contributions to the Thrift Savings Fund.
 
 (2) The balance in an individual's account at any time is the excess of—
 
@@ -34,7 +34,7 @@
 
 (d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\],Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401.)
 
 #### Amendments
 

@@ -32,7 +32,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(2) to allow a locality to act as a central broker in assisting individuals (eligible for medical assistance under this subchapter) in selecting among competing health care plans, if such restriction does not substantially impair access to services of adequate quality where medically necessary,
 
-&emsp;(3) to share (through provision of additional services) with recipients of medical assistanceunder the State plan cost savings resulting from use by the recipient of more cost-effective medical care, and
+&emsp;(3) to share (through provision of additional services) with recipients of medical assistance under the State plan cost savings resulting from use by the recipient of more cost-effective medical care, and
 
 &emsp;(4) to restrict the provider from (or through) whom an individual (eligible for medical assistance under this subchapter) can obtain services (other than in emergency circumstances) to providers or practitioners who undertake to provide such services and who meet, accept, and comply with the reimbursement, quality, and utilization standards under the State plan, which standards shall be consistent with the requirements of section 1396r–4 of this title and are consistent with access, quality, and efficient and economic provision of covered care and services, if such restriction does not discriminate among classes of providers on grounds unrelated to their demonstrated effectiveness and efficiency in providing those services and if providers under such restriction are paid on a timely basis in the same manner as health care practitioners must be paid under section 1396a(a)(37)(A) of this title.
 
@@ -86,7 +86,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 (6) The Secretary may not require, as a condition of approval of a waiver under this section under paragraph (2)(D), that the actual total expenditures for home and community-based services under the waiver (and a claim for Federal financial participation in expenditures for the services) cannot exceed the approved estimates for these services. The Secretary may not deny Federal financial payment with respect to services under such a waiver on the ground that, in order to comply with paragraph (2)(D), a State has failed to comply with such a requirement.
 
-(7)(A) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with a particular illness or condition who are inpatients in, or who would require the level of care provided in, hospitals, nursing facilities, or intermediate care facilities for the mentally retarded, the State may determine the average per capita expenditure that would have been made in a fiscal year for those individuals under the State plan separately from the expenditures for other individuals who are inpatients in, or who would require the level of care provided in, those respective facilities.
+(7)(A) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with a particular illness or condition who are inpatients in, or who would require the level of care provided in, hospitals, nursing facilities, or intermediate care facilities for the mentally retarded, the State may determine the average per capita expenditure that would have been made in a fiscal year for those individualsunder the State plan separately from the expenditures for other individuals who are inpatients in, or who would require the level of care provided in, those respective facilities.
 
 (B) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with developmental disabilities who are inpatients in a nursing facility and whom the State has determined, on the basis of an evaluation under paragraph (2)(B), to need the level of services provided by an intermediate care facility for the mentally retarded, the State may determine the average per capita expenditures that would have been made in a fiscal year for those individuals under the State plan on the basis of the average per capita expenditures under the State plan for services to individuals who are inpatients in an intermediate care facility for the mentally retarded, without regard to the availability of beds for such inpatients.
 
@@ -192,7 +192,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(C) the State will provide to the Secretary annually, consistent with a data collection plan designed by the Secretary, information on the impact of the waiver granted under this subsection on the type and amount of medical assistance provided under the State plan and on the health and welfare of recipients.
 
-(3) A waiver granted under this subsection may include a waiver of the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title\(relating to comparability). A waiver under this subsection shall be for an initial term of 3 years and, upon the request of a State, shall be extended for additional five-year periods unless the Secretary determines that for the previous waiver period the assurances provided under paragraph (2) have not been met.
+(3) A waiver granted under this subsection may include a waiver of the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability). A waiver under this subsection shall be for an initial term of 3 years and, upon the request of a State, shall be extended for additional five-year periods unless the Secretary determines that for the previous waiver period the assurances provided under paragraph (2) have not been met.
 
 (4) The provisions of paragraph (6) of subsection (d) of this section shall apply to this subsection in the same manner as it applies to subsection (d) of this section.
 
@@ -204,7 +204,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (g) Optional targeted case management services
 
-(1) A State may provide, as medical assistance, case management services under the plan without regard to the requirements of section 1396a(a)(1) of this title and section 1396a(a)(10)(B) of this title. The provision of case management services under this subsection shall not restrict the choice of the individual to receive medical assistance in violation of section 1396a(a)(23) of this title. A State may limit the provision of case management services under this subsection to individuals with acquired immune deficiency syndrome (AIDS), or with AIDS-related conditions, or with either, or to individuals described in section 1396a(z)(1)(A) of this title and a State may limit the provision of case management services under this subsection to individuals with chronic mental illness. The State may limit the case managers available with respect to case management services for eligible individuals with developmental disabilities or with chronic mental illness in order to ensure that the case managers for such individuals are capable of ensuring that such individuals receive needed services.
+(1) A State may provide, as medical assistance, case management services under the plan without regard to the requirements of section 1396a(a)(1) of this title and section 1396a(a)(10)(B) of this title. The provision of case management services under this subsection shall not restrict the choice of the individual to receive medical assistance in violation of section 1396a(a)(23) of this title. A State may limit the provision of case management services under this subsection to individuals with acquired immune deficiency syndrome (AIDS), or with AIDS-related conditions, or with either, or to individuals described in section 1396a(z)(1)(A) of this title and a State may limit the provision of case management services under this subsection to individuals with chronic mental illness. The State may limit the case managers available with respect to case management services for eligible individuals with developmental disabilities or withchronic mental illness in order to ensure that the case managers for such individuals are capable of ensuring that such individuals receive needed services.
 
 (2) For purposes of this subsection, the term “case management services” means services which will assist individuals eligible under the plan in gaining access to needed medical, social, educational, and other services.
 
@@ -214,15 +214,11 @@ No waiver under this section (other than a waiver under subsection (c), (d), or 
 
 (Aug. 14, 1935, ch. 531, title XIX, §1915, as added Pub. L. 97–35, title XXI, §2175(b), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–35, title XXI, §§2176, 2177(a), Aug. 13, 1981, 95 Stat. 812, 813; Pub. L. 97–248, title I, §137(b)(19)(A), (20)–(25), Sept. 3, 1982, 96 Stat. 380; Pub. L. 97–448, title III, §309(b)(17), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–369, div. B, title III, §2373(b)(21), July 18, 1984, 98 Stat. 1112; Pub. L. 99–272, title IX, §§9502(a)–(e), (g)–(i), 9508(a), Apr. 7, 1986, 100 Stat. 202–204, 210; Pub. L. 99–509, title IX, §§9320(h)(3), 9411(a)–(d), Oct. 21, 1986, 100 Stat. 2016, 2061, 2062; Pub. L. 100–93, §8(h)(2), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4072(d), 4102(a)(1), (b)(2), 4118(a)(1), (b), (i)(1), (k), (<i>l</i>)(1), (p)(10), 4211(h)(10), Dec. 22, 1987, 101 Stat. 1330–117, 1330–143, 1330–146, 1330–154 to 1330–157, 1330–160, 1330–206; Pub. L. 100–360, title II, §204(d)(3), title IV, §411(k)(3), (10)(A), (H), (I), (17)(A), (<i>l</i>)(3)(G), July 1, 1988, 102 Stat. 729, 791, 794, 796, 799, 803; Pub. L. 100–485, title VI, §608(d)(26)(M), (f)(2), Oct. 13, 1988, 102 Stat. 2422, 2424; Pub. L. 100–647, title VIII, §§8432(a), (b), 8437(a), Nov. 10, 1988, 102 Stat. 3804, 3806; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6115(c), 6411(c)(2), Dec. 19, 1989, 103 Stat. 2219, 2270; Pub. L. 101–508, title IV, §§4604(c), 4704(b)(3), 4741, 4742(a), (c)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–169, 1388–172, 1388–197, 1388–198; Pub. L. 102–119, §26(i)(2), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–66, title XIII, §13603(d), Aug. 10, 1993, 107 Stat. 620; Pub. L. 105–33, title IV, §§4106(c), 4743(a), Aug. 5, 1997, 111 Stat. 368, 524; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(<i>o</i>), (z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §702(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574; Pub. L. 107–121, §2(b)(3), Jan. 15, 2002, 115 Stat. 2384.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398, provided that, effective Oct. 1, 2004, subsection (b) of this section is amended, in the matter preceding paragraph (1), by striking “sections 1396a(a)(13)(C) and” and inserting “section”.</i>
-
 #### References in Text
 
 Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(1)(B)(ii)(II), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
-Section 1401 of title 20, referred to in subsec. (c)(5)(C)(i), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I ofchapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “special education” and “related services”.
+Section 1401 of title 20, referred to in subsec. (c)(5)(C)(i), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “special education” and “related services”.
 
 Part E of subchapter IV of this chapter, referred to in subsec. (e)(1)(B), is classified to section 670 et seq. of this title.
 
@@ -232,7 +228,9 @@ Part E of subchapter IV of this chapter, referred to in subsec. (e)(1)(B), is cl
 
 2000—Subsec. (b). Pub. L. 106–554 substituted “1396a(a)(15), 1396a(aa),” for “1396a(a)(13)(C)” in introductory provisions.
 
-1999—Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(<i>o</i>)(1)\], substituted “1396a(a)(13)(C)” for “1396a(a)(13)(E)” in introductory provisions.
+1999—Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(z)\], which directed, effective Oct. 1, 2004, substitution of “section” for “sections 1396a(a)(13)(C) and” in introductory provisions, could not be executed due to the amendment by Pub. L. 106–554. See 2000 Amendment note above.
+
+Pub. L. 106–113, §1000(a)(6) \[title VI, §608(<i>o</i>)(1)\], substituted “1396a(a)(13)(C)” for “1396a(a)(13)(E)” in introductory provisions.
 
 Subsec. (d)(5)(B)(iii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(<i>o</i>)(2)\], which directed substitution of “65” for “75” in last sentence of cl. (iii), was executed by making the substitution in the penultimate sentence to reflect the probable intent of Congress.
 
@@ -252,7 +250,7 @@ Pub. L. 101–508, §4604(c), which directed amendment of subsec. (b) by inserti
 
 Subsec. (b)(4). Pub. L. 101–508, §4742(a), inserted before period at end “and if providers under such restriction are paid on a timely basis in the same manner as health care practitioners must be paid under section 1396a(a)(37)(A) of this title”.
 
-Subsec. (c)(1). Pub. L. 101–508, §4741(a), inserted at end “For purposes of this subsection, the term ‘room and board’ shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.”
+Subsec. (c)(1). Pub. L. 101–508, §4741(a), inserted at end “For purposes of this subsection, the term ‘room and board’ shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital,nursing facility, or intermediate care facility for the mentally retarded.”
 
 Subsec. (c)(4). Pub. L. 101–508, §4742(d)(1), inserted at end “Except as provided under paragraph (2)(D), the Secretary may not restrict the number of hours or days of respite care in any period which a State may provide under a waiver under this subsection.”
 
@@ -360,7 +358,7 @@ Pub. L. 99–272, §9502(g), substituted “additional five-year periods” for 
 
 Pub. L. 99–272, §9502(e), inserted at end “A waiver may provide, with respect to post-eligibility treatment of income of all individuals receiving services under that waiver, that the maximum amount of the individual's income which may be disregarded for any month for the maintenance needs of the individual may be an amount greater than the maximum allowed for that purpose under regulations in effect on July 1, 1985.”
 
-Subsec. (c)(4)(B). Pub. L. 99–509, §9411(d), inserted before the period “and for day treatment or other partialhospitalization services, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility) for individuals with chronic mental illness”.
+Subsec. (c)(4)(B). Pub. L. 99–509, §9411(d), inserted before the period “and for day treatment or other partial hospitalization services, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility) for individuals with chronic mental illness”.
 
 Subsec. (c)(5). Pub. L. 99–272, §9502(a), added par. (5).
 
@@ -478,7 +476,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
+Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989,with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
 Section 9411(e) of Pub. L. 99–509 provided that: “The amendments made by this section \[amending this section\] shall apply to applications for waivers (or renewals thereof) approved on or after the date of the enactment of this Act \[Oct. 21, 1986\].”
 

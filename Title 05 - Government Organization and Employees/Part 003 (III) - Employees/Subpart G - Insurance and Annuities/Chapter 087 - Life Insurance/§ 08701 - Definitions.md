@@ -162,7 +162,7 @@ Maximum Limitation on Employee Insurance.—Section 3 \[amending this section an
 
 “(c)
 
-Erroneous Coverage.—Section 5 \[amending section 8706 of this title\] shall be effective in any case inwhich a finding of erroneous insurance coverage is made on or after the date of enactment of this Act.
+Erroneous Coverage.—Section 5 \[amending section 8706 of this title\] shall be effective in any case in which a finding of erroneous insurance coverage is made on or after the date of enactment of this Act.
 
 “(d)
 

@@ -1,6 +1,11 @@
 ### <b>CHAPTER 61—INFORMATION AND RETURNS</b>
 
-| Subchapter |  | Sec.<sup>1</sup> |
+| Subchapter | Sec.<sup>1</sup> |
+| :--- | ---: |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
 | :--- | :---: | ---: |
 | <b>A.</b> | <b>Returns and records</b> | <b>6001</b> |
 | <b>B.</b> | <b>Miscellaneous provisions</b> | <b>6101</b> |

@@ -8,12 +8,15 @@
 | [2433\.](%C2%A7%2002433%20-%20Unit%20cost%20reports.md) | Unit cost reports. |
 | [2434\.](%C2%A7%2002434%20-%20Independent%20cost%20estimates%3B%20operational%20manpower%20requirements.md) | Independent cost estimates; operational manpower requirements. |
 | [2435\.](%C2%A7%2002435%20-%20Baseline%20description.md) | Baseline description. |
-| \[2436 to 2439. Repealed.\] |  |
+| [2436\.](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md) | Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States. |
+| \[2437 to 2439. Repealed.\] |  |
 | [2440\.](%C2%A7%2002440%20-%20Technology%20and%20Industrial%20Base%20Plans.md) | Technology and industrial base plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VIII, §822(a)(2), Nov. 24, 2003, 117 Stat. 1547, added item 2436.
 
 1994—Pub. L. 103–355, title III, §§3005(b), 3006(b), 3007(b), Oct. 13, 1994, 108 Stat. 3331, substituted “Baseline description” for “Enhanced program stability” in item 2435 and struck out items 2438 “Major programs: competitive phototyping” and 2439 “Major programs: competitive alternative sources”.
 
@@ -40,6 +43,7 @@ Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapt
 - [&sect; 02433 - Unit cost reports](%C2%A7%2002433%20-%20Unit%20cost%20reports.md)
 - [&sect; 02434 - Independent cost estimates; operational manpower requirements](%C2%A7%2002434%20-%20Independent%20cost%20estimates%3B%20operational%20manpower%20requirements.md)
 - [&sect; 02435 - Baseline description](%C2%A7%2002435%20-%20Baseline%20description.md)
-- [&sect; 02436, 2437 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(5), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002436%2C%202437%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%285%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)
+- [&sect; 02436 - Major defense acquisition programs incentive program for contractors to purchase capital assets manufactured in United States](%C2%A7%2002436%20-%20Major%20defense%20acquisition%20programs%20incentive%20program%20for%20contractors%20to%20purchase%20capital%20assets%20manufactured%20in%20United%20States.md)
+- [&sect; 02437 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(5), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002437%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%285%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)
 - [&sect; 02438, 2439 - Repealed. Pub. L. 103&#8211;355, title III, &sect;&sect;3006(a), 3007(a), Oct. 13, 1994, 108 Stat. 3331](%C2%A7%2002438%2C%202439%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20III%2C%20%C2%A7%C2%A73006%28a%29%2C%203007%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203331.md)
 - [&sect; 02440 - Technology and Industrial Base Plans](%C2%A7%2002440%20-%20Technology%20and%20Industrial%20Base%20Plans.md)

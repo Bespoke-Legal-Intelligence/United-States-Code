@@ -10,5 +10,5 @@ Act Feb. 12, 1925, ch. 213, §9, 43 Stat. 885.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 580, 581; title 41 section 607.
+This section is referred to in title 5 sections 580, 581; title 25 section 415; title 41 section 607.
 

@@ -52,7 +52,7 @@
 
 #### (C) Considerations
 
-&emsp;&emsp;In considering applications submitted under paragraph (1)(A), the Secretary shallconsider whether the Indian tribe or tribal organization would be deficient in operating the school with respect to—
+&emsp;&emsp;In considering applications submitted under paragraph (1)(A), the Secretary shall consider whether the Indian tribe or tribal organization would be deficient in operating the school with respect to—
 
 &emsp;&emsp;&emsp;(i) equipment;
 
@@ -140,7 +140,7 @@ Except as provided by subsection (c)(2)(E) of this section, a grant provided und
 
 &emsp;&emsp;(B) provide assistance to the tribe or tribal organization to overcome all stated objections;
 
-&emsp;&emsp;(C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under the same rules and regulations that apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
+&emsp;&emsp;(C) at the request of the tribe or tribal organization, provide the tribe or tribal organization a hearing on the record under thesame rules and regulations that apply under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\]; and
 
 &emsp;&emsp;(D) provide an opportunity to appeal the objection raised.
 

@@ -12,7 +12,7 @@ If—
 
 #### (b) Extension permitted by Secretary
 
-If a corporation has a recovery of a foreign expropriation loss to which section 1351 applies and if an election is not made under subsection (a), the Secretary may, upon finding that the payment of the tax attributable to such recovery at the time otherwise provided in this subtitle would result in undue hardship, extend the time for payment of such tax for a reasonable period or periods not in excess of 9 years from the date on which such tax is otherwise payable.
+If a corporation has a recovery of a foreign expropriation loss to which section 1351 appliesand if an election is not made under subsection (a), the Secretary may, upon finding that the payment of the tax attributable to such recovery at the time otherwise provided in this subtitle would result in undue hardship, extend the time for payment of such tax for a reasonable period or periods not in excess of 9 years from the date on which such tax is otherwise payable.
 
 #### (c) Acceleration of payments
 

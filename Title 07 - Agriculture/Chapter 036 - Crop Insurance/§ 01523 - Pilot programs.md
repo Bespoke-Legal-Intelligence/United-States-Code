@@ -32,7 +32,7 @@
 
 &emsp;The Corporation may—
 
-&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, ornational basis after considering the interests of affected producers and the interests of, and risks to, the Corporation;
+&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, or national basis after considering the interests of affected producers and the interests of, and risks to, the Corporation;
 
 &emsp;&emsp;(B) operate the pilot program, including any modifications of the pilot program, for a period of up to 4 years;
 

@@ -1,6 +1,6 @@
 ### §3733. Property management
 
-(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary inorder to maintain the effective functioning of the loan guaranty program.
+(a)(1) Of the number of purchases made during any fiscal year of real property acquired by the Secretary as the result of a default on a loan guaranteed under this chapter for a purpose described in section 3710(a) of this title, not more than 65 percent, nor less than 50 percent, of such purchases may be financed by a loan made by the Secretary. The maximum percentage stated in the preceding sentence may be increased to 80 percent for any fiscal year if the Secretary determines that such an increase is necessary in order to maintain the effective functioning of the loan guaranty program.
 
 (2) After September 30, 1990, the percentage limitations described in paragraph (1) of this subsection shall have no effect.
 
@@ -10,33 +10,57 @@
 
 &emsp;(B) without recourse, but only if the amount received is equal to an amount which is not less than the unpaid balance of such loan.
 
-(4)(A) Except as provided in subparagraph (B) of this paragraph, the amount of a loan made by the Secretary to finance the purchase of real property from the Secretary described in paragraph (1) of this subsection may not exceed an amount equal to 95 percent of the purchase price of such real property.
+(4)(A) Except as provided in subparagraph (B), the amount of a loan made by the Secretary to finance the purchase of real property from the Secretary described in paragraph (1) may not exceed an amount equal to 95 percent of the purchase price of such real property.
 
-(B)(i) The Secretary may waive the provisions of subparagraph (A) of this paragraph in the case of any loan described in paragraph (5) of this subsection.
+(B)(i) The Secretary may waive the provisions of subparagraph (A) in the case of any loan described in paragraph (5).
 
-(ii) A loan described in subparagraph (A) of this paragraph may, to the extent the Secretary determines to be necessary in order to market competitively the property involved, exceed 95 percent of the purchase price.
+(ii) A loan described in subparagraph (A) may, to the extent the Secretary determines to be necessary in order to market competitively the property involved, exceed 95 percent of the purchase price.
 
-(5) The Secretary may include, as part of a loan to finance a purchase of real property from the Secretary described in paragraph (1) of this subsection, an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
+(5) The Secretary may include, as part of a loan to finance a purchase of real property from the Secretary described in paragraph (1), an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
 
-(6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) of this subsection at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
+(6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
+
+(7) During the period that begins on the date of the enactment of the Veterans’ Benefits Act of 2003 and ends on September 30, 2013, the Secretary shall carry out the provisions of this subsection as if—
+
+&emsp;(A) the references in the first sentence of paragraph (1) to “65 percent” and “may be financed” were references to “85 percent” and “shall be financed”, respectively;
+
+&emsp;(B) the second sentence of paragraph (1) were repealed; and
+
+&emsp;(C) the reference in paragraph (2) to “September 30, 1990,” were a reference to “September 30, 2013,”.
 
 (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
 (c)(1) The Secretary shall identify and compile information on common factors which the Secretary finds contribute to foreclosures on loans guaranteed under this chapter.
 
-(2) The Secretary shall include a summary of the information compiled, and the Secretary's findings, under paragraph (1) of this subsection in the annual report submitted to the Congress under section 529 of this title. As part of such summary and findings, the Secretary shall provide a separate analysis of the factors which contribute to foreclosures of loans which have been assumed.
+(2) The Secretary shall include a summary of the information compiled, and the Secretary's findings, under paragraph (1) in the annual report submitted to the Congress under section 529 of this title. As part of such summary and findings, the Secretary shall provide a separate analysis of the factors which contribute to foreclosures of loans which have been assumed.
 
 (d)(1) The Secretary shall furnish to real estate brokers and other real estate sales professionals information on the availability of real property for disposition under this chapter and the procedures used by the Department of Veterans Affairs to dispose of such property.
 
 (2) For the purpose of facilitating the most expeditious sale, at the highest possible price, of real property acquired by the Secretary as the result of a default on a loan guaranteed, insured, or made under this chapter, the Secretary shall list all such property with real estate brokers under such arrangements as the Secretary determines to be most appropriate and cost effective.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §§1816(d)–(f), 1832; Pub. L. 98–369, div. B, title V, §2512(a)(2), July 18, 1984, 98 Stat. 1117; Pub. L. 99–576, title IV, §§402(c)(1), 403, 408(a), Oct. 28, 1986, 100 Stat. 3281, 3283; Pub. L. 100–136, §2, Oct. 16, 1987, 101 Stat. 813; Pub. L. 100–198, §§6(a)(1), (b)(1), 14, Dec. 21, 1987, 101 Stat. 1317, 1318, 1325; Pub. L. 100–203, title VII, §§7001, 7003(a), Dec. 22, 1987, 101 Stat. 1330–278, 1330–279; Pub. L. 100–253, §2, Feb. 29, 1988, 102 Stat. 20; renumbered §1833 and amended Pub. L. 100–322, title IV, §415(b)(1)(D), (5)(B), (C), May 20, 1988, 102 Stat. 550, 551; Pub. L. 100–689, title III, §301, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §§305(a), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073, 2077; Pub. L. 101–239, title V, §§5002, 5003(a), Dec. 19, 1989, 103 Stat. 2136; Pub. L. 102–54, §§2, 14(g)(1), 15(a)(5), June 13, 1991, 105 Stat. 267, 288, 289; renumbered §3733 and amended Pub. L. 102–83, §§2(c)(3), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–291, §5(b), May 20, 1992, 106 Stat. 180; Pub. L. 105–368, title VI, §602(c)(2), (e)(1)(E), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 108–183, title IV, §404, Dec. 16, 2003, 117 Stat. 2664.)
+
+#### References in Text
+
+The date of the enactment of the Veterans’ Benefits Act of 2003, referred to in subsec. (a)(7), is the date of enactment of Pub. L. 108–183, which was approved Dec. 16, 2003.
 
 #### Amendments
 
+2003—Subsec. (a)(4)(A). Pub. L. 108–183, §404(b)(1)(A), (2), struck out “of this paragraph” after “subparagraph (B)” and “of this subsection” after “paragraph (1)”.
+
+Subsec. (a)(4)(B)(i). Pub. L. 108–183, §404(b)(1)(B), (2), struck out “of this paragraph” after “subparagraph (A)” and “of this subsection” after “paragraph (5)”.
+
+Subsec. (a)(4)(B)(ii). Pub. L. 108–183, §404(b)(2), struck out “of this paragraph” after “subparagraph (A)”.
+
+Subsec. (a)(5), (6). Pub. L. 108–183, §404(b)(1)(A), struck out “of this subsection” after “paragraph (1)”.
+
+Subsec. (a)(7). Pub. L. 108–183, §404(a), added par. (7).
+
+Subsec. (c)(2). Pub. L. 108–183, §404(b)(1)(A), struck out “of this subsection” after “paragraph (1)”.
+
 1998—Subsec. (a)(6). Pub. L. 105–368, §602(e)(1)(E), substituted “Veterans Housing Benefit Program Fund established by section 3722(a)” for “Department of Veterans Affairs Loan Guaranty Revolving Fund established by section 3724(a)”.
 
-Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from the sale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
+Subsec. (e). Pub. L. 105–368, §602(c)(2), struck out subsec. (e) which read as follows: “Notwithstanding any other provision of law, the amount received from thesale of any note evidencing a loan secured by real property described in subsection (a)(1) of this section, and the amount received from the sale of securities under section 3720(h) of this title, shall be credited, without any reduction and for the fiscal year in which the amount is received, as offsetting collections of—
 
 &emsp;“(1) the revolving fund for which a fee under section 3729 of this title was collected (or was exempted from being collected) at the time of the original guaranty of the loan that was secured by the same property; or
 
@@ -124,7 +148,7 @@ Section 14(g)(1) of Pub. L. 102–54 provided that the amendment made by that se
 
 Section 5003(b) of Pub. L. 101–239 provided that: “Subsection (e) of section 1833 \[now 3733\] of title 38, United States Code, as added by subsection (a), shall apply with respect to amounts referred to in such subsection (e) received on or after October 1, 1989.”
 
-Section 305(b)(1) of Pub. L. 101–237, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], no provision of law has been enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect.”
+Section 305(b)(1) of Pub. L. 101–237, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “If, before the date and time of the enactment of this Act \[Dec. 18, 1989\], no provision of law hasbeen enacted amending section 1833 \[now 3733\] of title 38, United States Code, by adding a new subsection (e) with a text substantively identical to the text of the new subsection (e) added to such section 1833 \[now 3733\] by subsection (a)(3) of this section, the provisions of subsection (a)(1) of this section amending subsection (a)(3) of such section 1833 \[now 3733\] shall not take effect.”
 
 Section 305(b)(2) of Pub. L. 101–237, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Subsection (e) of section 1833 \[now 3733\] of such title 38, as added by subsection (a)(3), shall apply with respect to amounts referred to in such subsection (e) received after September 30, 1989.”
 

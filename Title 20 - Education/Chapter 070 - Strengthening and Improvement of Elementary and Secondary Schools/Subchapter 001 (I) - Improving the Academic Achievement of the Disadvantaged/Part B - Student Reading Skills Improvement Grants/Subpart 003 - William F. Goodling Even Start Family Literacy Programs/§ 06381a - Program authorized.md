@@ -18,7 +18,7 @@
 
 #### (3) Coordination of programs for American Indians
 
-&emsp;The Secretary shall ensure that programs under paragraph (1)(C) are coordinated withfamily literacy programs operated by the Bureau of Indian Affairs in order to avoid duplication and to encourage the dissemination of information on high-quality family literacy programs serving American Indians.
+&emsp;The Secretary shall ensure that programs under paragraph (1)(C) are coordinated with family literacy programs operated by the Bureau of Indian Affairs in order to avoid duplication and to encourage the dissemination of information on high-quality family literacy programs serving American Indians.
 
 #### (b) Reservation for Federal activities
 

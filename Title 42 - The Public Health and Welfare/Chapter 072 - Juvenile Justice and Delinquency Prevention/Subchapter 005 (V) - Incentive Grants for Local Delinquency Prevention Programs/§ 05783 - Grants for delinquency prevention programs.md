@@ -48,7 +48,7 @@ In considering grant applications under this section, the Administrator shall gi
 
 &emsp;(3) developing or enhancing a statewide subsidy program to local governments that is dedicated to early intervention and delinquency prevention;
 
-&emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter;<sup>1</sup> and
+&emsp;(4) coordinating and collaborating with programs established in local communities for delinquency prevention under part C of subchapter II of this chapter; <sup>1</sup> and
 
 &emsp;(5) developing data-driven prevention plans, employing evidence-based prevention strategies, and conducting program evaluations to determine impact and effectiveness.
 

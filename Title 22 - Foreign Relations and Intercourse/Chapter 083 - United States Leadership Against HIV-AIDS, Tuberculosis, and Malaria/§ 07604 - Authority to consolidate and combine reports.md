@@ -1,0 +1,10 @@
+### §7604. Authority to consolidate and combine reports
+
+With respect to the reports required by this chapter to be submitted by the President, to ensure an efficient use of resources, the President may, in his discretion and notwithstanding any other provision of this chapter, consolidate or combine any of these reports, except for the report required by section 7611 of this title, so long as the required elements of each report are addressed and reported within a 90-day period from the original deadline date for submission of the report specified in this chapter. The President may also enter into contracts with organizations with relevant expertise to develop, originate, or contribute to any of the reports required by this chapter to be submitted by the President.
+
+(Pub. L. 108–25, §5, May 27, 2003, 117 Stat. 718.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
+

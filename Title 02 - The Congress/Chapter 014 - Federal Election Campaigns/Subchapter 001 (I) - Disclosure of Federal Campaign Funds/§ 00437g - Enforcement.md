@@ -100,7 +100,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 &emsp;(C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108.)
+(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV,§402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108.)
 
 #### References in Text
 
@@ -118,7 +118,7 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is
 
 #### Amendments
 
-2002—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
+<b>2002</b>—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
 Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
 
@@ -126,19 +126,19 @@ Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. P
 
 Subsec. (d)(1)(D). Pub. L. 107–155, §315(b), added subpar. (D).
 
-1999—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted “clauses (ii) and subparagraph (C)” for “clause (ii)”.
+<b>1999</b>—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted “clauses (ii) and subparagraph (C)” for “clause (ii)”.
 
 Subsec. (a)(4)(C). Pub. L. 106–58, §640(a)(2), added subpar. (C).
 
 Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted “paragraph (4)” for “paragraph (4)(A)”.
 
-1986—Subsecs. (a)(1), (2), (4)(A)(i), (B)(ii), (5)(A) to (C), (6), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a)(1), (2), (4)(A)(i), (B)(ii), (5)(A) to (C), (6), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (a)(10). Pub. L. 98–620 struck out par. (10) which provided that any action brought under subsec. (a) be advanced on the docket of the court in which filed and put ahead of all other actions (other than other actions brought under this subsec. or under section 437h of this title).
+<b>1984</b>—Subsec. (a)(10). Pub. L. 98–620 struck out par. (10) which provided that any action brought under subsec. (a) be advanced on the docket of the court in which filed and put ahead of all other actions (other than other actions brought under this subsec. or under section 437h of this title).
 
-1980—Pub. L. 96–187, §108, substantially revised provisions of this section in order to facilitate the Commission's more expeditious handling of complaints, and implementation of enforcement proceedings.
+<b>1980</b>—Pub. L. 96–187, §108, substantially revised provisions of this section in order to facilitate the Commission's more expeditious handling of complaints, and implementation of enforcement proceedings.
 
-1976—Subsec. (a). Pub. L. 94–283, §109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
+<b>1976</b>—Subsec. (a). Pub. L. 94–283, §109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
 Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change and added subsec. (c).
 

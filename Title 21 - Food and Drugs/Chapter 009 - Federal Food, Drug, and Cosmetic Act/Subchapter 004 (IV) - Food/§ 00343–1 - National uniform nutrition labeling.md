@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b) of this section, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
 
-&emsp;(1) any requirement for a food which is the subject of a standard of identity establishedunder section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
+&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
 
 &emsp;(2) any requirement for the labeling of food of the type required by section 343(c), 343(e), or 343(i)(2) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,
 
@@ -30,7 +30,7 @@ Section 6(b) of the Nutrition Labeling and Education Act of 1990 \[Pub. L. 101�
 
 #### Amendments
 
-1994—Subsec. (a)(1). Pub. L. 103–396, §3(a)(1), inserted at end “except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,”.
+1994—Subsec. (a)(1). Pub. L. 103–396, §3(a)(1), inserted at end “except that this paragraph does not apply to astandard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,”.
 
 Subsec. (a)(2). Pub. L. 103–396, §3(a)(2), inserted at end “except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,”.
 
@@ -72,7 +72,7 @@ Requirements pertaining to certain claims.—Notwithstanding subparagraphs (D) a
 
 Section 6(b) of Pub. L. 101–535 provided that:
 
-“(1) For the purpose of implementing section 403A(a)(3) \[21 U.S.C. 343–1(a)(3)\], the Secretary of Health and Human Services shall enter into a contract with apublic or nonprofit private entity to conduct a study of—
+“(1) For the purpose of implementing section 403A(a)(3) \[21 U.S.C. 343–1(a)(3)\], the Secretary of Health and Human Services shall enter into a contract with a public or nonprofit private entity to conduct a study of—
 
 &emsp;“(A) State and local laws which require the labeling of food that is of the type required by sections 403(b), 403(d), 403(f), 403(h), 403(i)(1), and 403(k) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(b), (d), (f), (h), (i)(1), (k)\], and
 

@@ -10,7 +10,7 @@ Allocation.—On October 15 of fiscal year 2000 and each fiscal year thereafter,
 
 &emsp;(2)
 
-Reduction.—If the amount determined pursuant to section 251(b)(1)(B)(ii)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C 901(b)(2)(B)(ii)(I)(cc)) <sup>1</sup> for fiscal year 2000 or any fiscal year thereafter is less than zero, the Secretary on October 1 of the succeeding fiscal year shall reduce proportionately the amount of sums authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out each of the Federal-aidhighway and highway safety construction programs (other than emergency relief) and the motor carrier safety grant program by an aggregate amount equal to the amount determined pursuant to such section.
+Reduction.—If the amount determined pursuant to section 251(b)(1)(B)(ii)(I)(cc) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C 901(b)(2)(B)(ii)(I)(cc)) <sup>1</sup> for fiscal year 2000 or any fiscal year thereafter is less than zero, the Secretary on October 1 of the succeeding fiscal year shall reduce proportionately the amount of sums authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out each of the Federal-aid highway and highway safety construction programs (other than emergency relief) and the motor carrier safety grant program by an aggregate amount equal to the amount determined pursuant to such section.
 
 (b)
 

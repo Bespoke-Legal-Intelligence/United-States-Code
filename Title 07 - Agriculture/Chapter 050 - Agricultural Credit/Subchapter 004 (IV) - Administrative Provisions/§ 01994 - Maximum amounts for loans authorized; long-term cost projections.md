@@ -8,7 +8,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $3,796,000,000 for each of fiscal years 2003 through 2007, of which, for each fiscal year—
+&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for notmore than $3,796,000,000 for each of fiscal years 2003 through 2007, of which, for each fiscal year—
 
 &emsp;&emsp;(A) $770,000,000 shall be for direct loans, of which—
 
@@ -86,7 +86,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, subject to subparagraphs (B) and (C), beginning on September 1 of each fiscalyear, the Secretary may use available funds made available under subchapter III of this chapter for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
+&emsp;&emsp;Notwithstanding subsection (a) of this section, subject to subparagraphs (B) and (C), beginning on September 1 of each fiscal year, the Secretary may use available funds made available under subchapter III of this chapter for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
 
 #### (B) Supplemental appropriations
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Construction of 1990 Amendment
 
-Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed and the Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) \[Pub. L. 101–624, amending this section\] is hereby repealed andthe Consolidated Farm and Rural Development Act \[see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
 
 #### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
 

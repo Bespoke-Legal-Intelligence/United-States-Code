@@ -46,5 +46,5 @@ This Act, referred to in subsecs. (d) to (f), means Pub. L. 93–344, July 12, 1
 
 #### Amendments
 
-1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) and provided that each provision of this Act that established point of order against an amendment also established point of order in Senate against an amendment between Houses and prescribed effect of sustaining point of order against an amendment or bill under this Act.
+<b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) and provided that each provision of this Act that established point of order against an amendment also established point of order in Senate against an amendment between Houses and prescribed effect of sustaining point of order against an amendment or bill under this Act.
 

@@ -22,5 +22,5 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see section 1(g) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see section1(g) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under section 301 of Title 3, The President.
 

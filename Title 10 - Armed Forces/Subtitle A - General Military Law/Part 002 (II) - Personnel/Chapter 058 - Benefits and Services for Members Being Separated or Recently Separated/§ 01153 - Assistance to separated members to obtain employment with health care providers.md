@@ -2,7 +2,7 @@
 
 (a)
 
-Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
+Placement Program.—The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
 
 (b)
 
@@ -20,9 +20,9 @@ Eligible Members.—(1) Except as provided in paragraph (2), a member shall be e
 
 (c)
 
-Selection of Participants.—(1) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretary concerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
+Selection of Participants.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretary concerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
 
-(2) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (d) with respect to that member.
+(2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may not select a member to participate in the program unless the Secretary concerned has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (d) with respect to that member.
 
 (3)(A) The Secretaries shall provide under the program for identifying, during each fiscal year in the period referred to in subsection (b)(1)(A), noncommissioned officers who, on or before the end of such fiscal year, will have completed 10 or more years of continuous active duty, who have the potential to perform competently in employment positions with health care providers, but who do not satisfy the minimum educational qualification criterion under subsection (b)(1)(B) for placement assistance.
 
@@ -30,7 +30,7 @@ Selection of Participants.—(1) The Secretary of Defense, and the Secretary of 
 
 (d)
 
-Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretary of Transportation may enter into an agreement with a health care provider to assist eligible members selected under subsection (c) to obtain suitable employment with the health care provider. Under such an agreement, a health care provider shall agree to employ a participant in the program on a full-time basis for at least five years.
+Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretary of Homeland Security may enter into an agreement with a health care provider to assist eligible members selected under subsection (c) to obtain suitable employment with the health care provider. Under such an agreement, a health care provider shall agree to employ a participant in the program on a full-time basis for at least five years.
 
 (2) Under an agreement referred to in paragraph (1), the Secretary concerned shall agree to pay to the health care provider involved an amount based upon the basic salary paid by the health care provider to the participant. The rate of payment by the Secretary concerned shall be as follows:
 
@@ -52,7 +52,7 @@ Grants to Facilitate Employment.—(1) The Secretary of Defense and the Secretar
 
 (e)
 
-Agreements With States.—(1) In addition to the agreements referred to in subsection (d)(1), the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement directly with a State to allow the State to arrange the placement of participants in the program with health care providers. Paragraphs (2) through (5) of subsection (d) shall apply with respect to any placement made through such an agreement.
+Agreements With States.—(1) In addition to the agreements referred to in subsection (d)(1), the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement directly with a State to allow the State to arrange the placement of participants in the program with health care providers. Paragraphs (2) through (5) of subsection (d) shall apply with respect to any placement made through such an agreement.
 
 (2) The Secretary concerned may reserve up to 10 percent of the funds made available to carry out the program for a fiscal year for the placement of participants through agreements entered into under paragraph (1).
 
@@ -60,9 +60,11 @@ Agreements With States.—(1) In addition to the agreements referred to in subse
 
 Definitions.—In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
 
-(Added Pub. L. 103–160, div. A, title XIII, §1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, §543(e), Oct. 5, 1994, 108 Stat. 2771.)
+(Added Pub. L. 103–160, div. A, title XIII, §1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, §543(e), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1994—Subsec. (a). Pub. L. 103–337, §543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
 
@@ -81,6 +83,10 @@ Subsec. (d)(2) to (5). Pub. L. 103–337, §543(e)(6)(B), inserted “concerned�
 Subsec. (e)(1). Pub. L. 103–337, §543(e)(7)(A), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
 
 Subsec. (e)(2). Pub. L. 103–337, §543(e)(7)(B), inserted “concerned” after “The Secretary”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ Limitations.—(1) Except as provided in paragraphs (2) and (3), allowances unde
 
 (2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
 
-(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemetery and may not exceed the rates for two days and the time necessary for such travel.
+(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemeteryand may not exceed the rates for two days and the time necessary for such travel.
 
 (c)
 
@@ -36,7 +36,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 (d)
 
-Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family membersmay attend the burial ceremony of the deceased member.
+Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
 
 (2) The allowances under paragraph (1) shall include round trip transportation from the places of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
 
@@ -94,5 +94,5 @@ Section 632(c) of Pub. L. 100–456 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section 620(b) of Pub. L. 99–145 provided that: “The travel and transportation allowance authorized by the amendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
+Section 620(b) of Pub. L. 99–145 provided that: “The travel and transportation allowance authorized by theamendments made by this section \[enacting this section\] is payable only for travel that commences after September 30, 1985.”
 

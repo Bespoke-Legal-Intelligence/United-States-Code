@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section,section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
+Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
 
 #### Effective Date of 1979 Amendment
 

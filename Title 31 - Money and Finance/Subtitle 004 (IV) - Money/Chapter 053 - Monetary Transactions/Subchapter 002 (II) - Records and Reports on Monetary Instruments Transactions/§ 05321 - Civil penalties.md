@@ -60,7 +60,7 @@ Pattern of negligent activity.—If any financial institution or nonfinancial tr
 
 (7)
 
-Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
+Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318or any special measures imposed under section 5318A.
 
 (b)
 
@@ -224,7 +224,7 @@ Subsec. (d). Pub. L. 99–570, §1357(f), added subsec. (d).
 
 #### Termination Date of 2001 Amendment
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Effective Date of 1992 Amendment
 

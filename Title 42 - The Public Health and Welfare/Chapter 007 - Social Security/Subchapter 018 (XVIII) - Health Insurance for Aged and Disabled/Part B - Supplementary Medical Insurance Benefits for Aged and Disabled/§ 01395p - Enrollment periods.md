@@ -50,7 +50,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 (1) In the case of an individual who—
 
-&emsp;(A) at the time the individual first satisfies paragraph (1) or (2) of section 1395<i>o</i> of thistitle, is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status, and
+&emsp;(A) at the time the individual first satisfies paragraph (1) or (2) of section 1395<i>o</i> of this title, is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's (or the individual's spouse's) current employment status, and
 
 &emsp;(B) has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period,
 
@@ -92,7 +92,7 @@ In applying this section in the case of an individual who is entitled to benefit
 
 &emsp;(2) In applying subsection (g)(1) of this section, the initial enrollment period shall begin on the first day of the first month of entitlement to disability insurance benefits referred to in such subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444;Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474.)
 
 #### References in Text
 
@@ -250,6 +250,18 @@ Section 136(b) of Pub. L. 90–248 provided that: “The amendment made by subse
 
 Section 145(e) of Pub. L. 90–248 provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 1395q of this title\] shall become effective April 1, 1968. Notwithstanding the provisions of section 2 of Public Law 90–97, the amendments made by subsection (d) \[amending section 1395r of this title\] shall become effective December 1, 1968.”
 
+#### Medicare Part B Special Enrollment Period
+
+Pub. L. 108–173, title VI, §625(b), Dec. 8, 2003, 117 Stat. 2318, provided that:
+
+“(1)
+
+In general.—In the case of any individual who, as of the date of the enactment of this Act \[Dec. 8, 2003\], is eligible to enroll but is not enrolled under part B of title XVIII of the Social Security Act \[this part\] and is a covered beneficiary (as defined in section 1072(5) of title 10, United States Code), the Secretary of Health and Human Services shall provide for a special enrollment period during which the individual may enroll under such part. Such period shall begin as soon as possible after the date of the enactment of this Act and shall end on December 31, 2004.
+
+“(2)
+
+Coverage period.—In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period under part B of title XVIII of the Social Security Act \[this part\] shall begin on the first day of the month following the month in which the individual enrolls.”
+
 #### Extension Through March 31, 1968 of 1967 General Enrollment Period
 
 Pub. L. 90–97, §1, Sept. 30, 1967, 81 Stat. 249, extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967, for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[this part\] and of terminating such enrollment as provided in section 1395q(b)(1) of this title, through Mar. 31, 1968.
@@ -266,5 +278,5 @@ Section 102(b) of Pub. L. 89–97, as amended by section 3(c) of Pub. L. 89–38
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 426, 1395i–2, 1395i–2a, 1395q, 1395r, 1395v, 1395gg of this title; title 25 section 1644.
+This section is referred to in sections 426, 1395i–2, 1395i–2a, 1395q, 1395r, 1395v, 1395w–101, 1395gg of this title; title 25 section 1644.
 

@@ -18,7 +18,7 @@
 
 (c) If, within 2 years after the death of the employee, no claim for payment has been filed by a person entitled under the order of precedence named by subsection (a) of this section, and neither the Office nor the administrative office established by the company concerned pursuant to section 8709(b) of this title has received notice that such a claim will be made, payment may be made to the claimant who in the judgment of the Office is equitably entitled thereto, and the payment bars recovery by any other person.
 
-(d) If, within 4 years after the death of the employee, payment has not been made under this section and no claim for payment by a person entitled under this section is pending, the amount payable escheats to the credit of the Employees’ Life Insurance Fund.
+(d) If, within 4 years after the death of the employee, payment has not been made under this section and no claim for payment by a person entitled under this section is pending, theamount payable escheats to the credit of the Employees’ Life Insurance Fund.
 
 (e)(1) Any amount which would otherwise be paid to a person determined under the order of precedence named by subsection (a) shall be paid (in whole or in part) by the Office to another person if and to the extent expressly provided for in the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation.
 

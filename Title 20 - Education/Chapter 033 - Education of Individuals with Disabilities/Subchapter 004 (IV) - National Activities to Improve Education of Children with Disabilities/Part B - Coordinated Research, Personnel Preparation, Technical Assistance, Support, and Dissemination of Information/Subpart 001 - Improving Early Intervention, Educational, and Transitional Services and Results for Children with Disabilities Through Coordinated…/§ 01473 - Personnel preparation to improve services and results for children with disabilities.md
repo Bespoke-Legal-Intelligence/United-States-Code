@@ -24,9 +24,9 @@ The Secretary shall, on a competitive basis, make grants to, or enter into contr
 
 &emsp;&emsp;&emsp;(ii) are studying to obtain degrees, certificates, or licensure that will enable them to assist children with disabilities to achieve the objectives set out in their individualized education programs described in section 1414(d) of this title, or to assist infants and toddlers with disabilities to achieve the outcomes described in their individualized family service plans described in section 1436 of this title.
 
-&emsp;&emsp;(B) Providing personnel from various disciplines with interdisciplinary training that will contribute to improvement in early intervention, educational, and transitional results for children with disabilities.
+&emsp;&emsp;(B) Providing personnel from various disciplines with interdisciplinary training thatwill contribute to improvement in early intervention, educational, and transitional results for children with disabilities.
 
-&emsp;&emsp;(C) Preparing personnel in the innovative uses and application of technology to enhance learning by children with disabilitiesthrough early intervention, educational, and transitional services.
+&emsp;&emsp;(C) Preparing personnel in the innovative uses and application of technology to enhance learning by children with disabilities through early intervention, educational, and transitional services.
 
 &emsp;&emsp;(D) Preparing personnel who provide services to visually impaired or blind children to teach and use Braille in the provision of services to such children.
 
@@ -98,7 +98,7 @@ The Secretary shall, on a competitive basis, make grants to, or enter into contr
 
 &emsp;&emsp;(I) Projects to improve the ability of general education teachers, principals, and other administrators to meet the needs of children with disabilities.
 
-&emsp;&emsp;(J) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, qualified teachers, especially fromgroups that are underrepresented in the teaching profession, including individuals with disabilities.
+&emsp;&emsp;(J) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, qualified teachers, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
 
 &emsp;&emsp;(K) Supporting institutions of higher education with minority enrollments of at least 25 percent for the purpose of preparing personnel to work with children with disabilities.
 

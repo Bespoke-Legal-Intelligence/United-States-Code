@@ -2,7 +2,7 @@
 
 #### (a) Importation prohibited
 
-Except as provided in subsection (d) of this section, it shall be unlawful to import into the United States any merchandise of foreign manufacture if such merchandise, or the label, sign, print, package, wrapper, or receptacle, bears a trademark owned by a citizen of, or by a corporation or association created or organized within, the United States, and registered in the Patent and Trademark Office by a person domiciled in the United States, under the provisions of sections 81 to 109 of title 15, and if a copy ofthe certificate of registration of such trademark is filed with the Secretary of the Treasury, in the manner provided in section 106 of said title 15, unless written consent of the owner of such trademark is produced at the time of making entry.
+Except as provided in subsection (d) of this section, it shall be unlawful to import into the United States any merchandise of foreign manufacture if such merchandise, or the label, sign, print, package, wrapper, or receptacle, bears a trademark owned by a citizen of, or by a corporation or association created or organized within, the United States, and registered in the Patent and Trademark Office by a person domiciled in the United States, under the provisions of sections 81 to 109 of title 15, and if a copy of the certificate of registration of such trademark is filed with the Secretary of the Treasury, in the manner provided in section 106 of said title 15, unless written consent of the owner of such trademark is produced at the time of making entry.
 
 #### (b) Seizure and forfeiture
 
@@ -24,7 +24,7 @@ Any person dealing in any such merchandise may be enjoined from dealing therein 
 
 #### (e) Merchandise bearing counterfeit mark; seizure and forfeiture; disposition of seized goods
 
-Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title 15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliterate the trademark where feasible and dispose of the goods seized—
+Any such merchandise bearing a counterfeit mark (within the meaning of section 1127 of title 15) imported into the United States in violation of the provisions of section 1124 of title 15, shall be seized and, in the absence of the written consent of the trademark owner, forfeited for violations of the customs laws. Upon seizure of such merchandise, the Secretary shall notify the owner of the trademark, and shall, after forfeiture, destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may obliteratethe trademark where feasible and dispose of the goods seized—
 
 &emsp;(1) by delivery to such Federal, State, and local government agencies as in the opinion of the Secretary have a need for such merchandise,
 
@@ -58,7 +58,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 #### Amendments
 
-1996—Subsec. (e). Pub. L. 104–153, §9, inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, theSecretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
+1996—Subsec. (e). Pub. L. 104–153, §9, inserted “destroy the merchandise. Alternatively, if the merchandise is not unsafe or a hazard to health, and the Secretary has the consent of the trademark owner, the Secretary may” after “shall, after forfeiture,” in second sentence, inserted “or” at end of par. (2), substituted period for “, or” at end of par. (3), and struck out par. (4) which read as follows: “if the merchandise is unsafe or a hazard to health, by destruction.”
 
 Subsec. (f). Pub. L. 104–153, §10, added subsec. (f).
 

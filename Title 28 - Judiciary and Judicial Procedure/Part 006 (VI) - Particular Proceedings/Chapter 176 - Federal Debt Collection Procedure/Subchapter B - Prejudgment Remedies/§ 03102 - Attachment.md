@@ -112,7 +112,7 @@ Judgment for the united states when personal property replevied.—With respect 
 
 &emsp;(3)
 
-Restoration of property and exoneration of replevin bond.—If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
+Restoration of property and exoneration of replevin bond.—If the attachment isvacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4942.)
 

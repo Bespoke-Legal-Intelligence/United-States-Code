@@ -2,7 +2,7 @@
 
 (a)
 
-Maximum Term of Imprisonment.—The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be twice the term of imprisonment otherwise provided by this chapter.
+Maximum Term of Imprisonment.—The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be twice the term of imprisonment otherwise provided by this chapter, unless section 3559(e) applies.
 
 (b)
 
@@ -16,7 +16,11 @@ Definitions.—In this section—
 
 &emsp;(2) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 105–314, title I, §104(a), Oct. 30, 1998, 112 Stat. 2976.)
+(Added Pub. L. 105–314, title I, §104(a), Oct. 30, 1998, 112 Stat. 2976; amended Pub. L. 108–21, title I, §106(b), Apr. 30, 2003, 117 Stat. 655.)
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
 
 #### Section Referred to in Other Sections
 

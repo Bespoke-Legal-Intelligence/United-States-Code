@@ -490,7 +490,7 @@ Par. (127). Pub. L. 90–623, §1(5), added par. (127) relating to Director, Bur
 
 Pars. (46), (47). Pub. L. 90–9 struck out par. (46) relating to Chief Commissioner, Indian Claims Commission, and substituted “Commissioners, Indian Claims Commission (5)” for “Associate Commissioners, Indian Claims Commission (2)” in par. (47).
 
-1966—Pub. L. 89–779 substituted “Associate Administrators of the Small Business Administration (3)” for“Deputy Administrators of the Small Business Administration (4)” in par. (11).
+1966—Pub. L. 89–779 substituted “Associate Administrators of the Small Business Administration (3)” for “Deputy Administrators of the Small Business Administration (4)” in par. (11).
 
 Pub. L. 89–734 added par. (117) relating to Director, United States National Museum, Smithsonian Institution, and par. (118).
 
@@ -584,7 +584,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 Amendment by Pub. L. 93–463 effective Oct. 23, 1974, see section 418 of Pub. L. 93–463, set out as a note under section 2 of Title 7, Agriculture.
 
-Amendment by Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except that officers provided for in sections 5811–5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
+Amendment by Pub. L. 93–438 effective 120 days after Oct. 11, 1974, or on such earlier date as President may prescribe and publish in Federal Register, except thatofficers provided for in sections 5811–5820 of Title 42, The Public Health and Welfare, may be nominated and appointed at any time after Oct. 11, 1974, see section 312(a) of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of Title 42.
 
 Amendment by Pub. L. 93–271 effective July 1, 1974, see section 3 of Pub. L. 93–271, set out as a note under section 742b of Title 16, Conservation.
 
@@ -656,7 +656,11 @@ Subversive Activities Control Board, Chairman and Members of which were compensa
 
 #### Salary Increases
 
-2003—Salaries of positions at level V increased to $125,400 per annum, effective on the first day of the firstpay period beginning on or after Jan. 1, 2003, as provided by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title.
+2004—Salaries of positions at level V increased to $128,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of this title.
+
+Salaries of positions at level V increased to $127,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
+
+2003—Salaries of positions at level V increased to $125,400 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2003, as provided by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133.
 
 2002—Salaries of positions at level V increased to $121,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2002, as provided by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
 
@@ -714,7 +718,7 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 
 1978—Salaries of positions at level V increased to $50,100 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $47,500.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
+Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
 
 1977—Salaries of positions at level V increased to $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
@@ -726,5 +730,5 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 60a–2, 74a–3, 282b, 288, 353, 437c, 1161, 1381, 1382; title 3 section 113; title 10 section 973; title 12 sections 1723a, 4703; title 15 section 2204; title 18 section 207; title 20 sections 1221e, 3501, 3503, 5848, 5933; title 21 sections 1305, 1908; title 22 sections 286a, 1465c, 1622c, 3506, 3612, 3961, 4106, 5510, 6432b; title 25 sections 3505, 4303; title 26 sections 3121, 6103; title 28 sections 537, 548, 625; title 31 section 731; title 38 sections 7404, 7451; title 39 section 206; title 41 section 422; title 42 sections 300aa–12, 410, 907a, 1108, 1320b–9, 2996d, 5871, 5872, 7211, 7232, 7291, 7293, 7383, 10704, 11314, 15324; title 44 sections 303, 3319; title 47 section 155; title 49 section 106.
+This section is referred to in sections 5317, 5377, 5380, 8432 of this title; title 2 sections 60a–2, 74a–3, 282b, 288, 353, 437c, 1161, 1381, 1382; title 3 section 113; title 10 section 973; title 12 sections 1723a, 4703; title 15 section 2204; title 18 section 207; title 20 sections 1221e, 3501, 3503, 5848, 5933; title 21 sections 1305, 1908; title 22 sections 286a, 1465c, 1622c, 3506, 3612, 3961, 4106, 5510, 6432b; title 25 sections 3505, 4303; title 26 sections 3121, 6103; title 28 sections 537, 548, 625; title 31 section 731; title 38 sections 7404, 7451; title 39 section 206; title 40 section 14301; title 41 section 422; title 42 sections 300aa–12, 410, 907a, 1108, 1320b–9, 2996d, 3796gg–0a, 5871, 5872, 7211, 7232, 7291, 7293, 7383, 10704, 11314, 15324; title 44 sections 303, 3319; title 47 section 155; title 49 section 106.
 

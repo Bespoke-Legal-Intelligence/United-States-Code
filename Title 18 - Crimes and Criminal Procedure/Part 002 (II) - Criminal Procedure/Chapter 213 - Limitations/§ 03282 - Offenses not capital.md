@@ -1,8 +1,30 @@
 ### §3282. Offenses not capital
 
-Except as otherwise expressly provided by law, no person shall be prosecuted, tried, or punished for any offense, not capital, unless the indictment is found or the information is instituted within five years next after such offense shall have been committed.
+(a)
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Sept. 1, 1954, ch. 1214, §12(a), formerly §10(a), 68 Stat. 1145; renumbered Pub. L. 87–299, §1, Sept. 26, 1961, 75 Stat. 648.)
+In General.—Except as otherwise expressly provided by law, no person shall be prosecuted, tried, or punished for any offense, not capital, unless the indictment is found or the information is instituted within five years next after such offense shall have been committed.
+
+(b) DNA
+
+Profile Indictment.—
+
+&emsp;(1)
+
+In general.—In any indictment for an offense under chapter 109A for which the identity of the accused is unknown, it shall be sufficient to describe the accused as an individual whose name is unknown, but who has a particular DNA profile.
+
+&emsp;(2)
+
+Exception.—Any indictment described under paragraph (1), which is found not later than 5 years after the offense under chapter 109A is committed, shall not be subject to—
+
+&emsp;&emsp;(A) the limitations period described under subsection (a); and
+
+&emsp;&emsp;(B) the provisions of chapter 208 until the individual is arrested or served with a summons in connection with the charges contained in the indictment.
+
+&emsp;(3)
+
+Defined term.—For purposes of this subsection, the term “DNA profile” means a set of DNA identification characteristics.
+
+(June 25, 1948, ch. 645, 62 Stat. 828; Sept. 1, 1954, ch. 1214, §12(a), formerly §10(a), 68 Stat. 1145; renumbered Pub. L. 87–299, §1, Sept. 26, 1961, 75 Stat. 648; Pub. L. 108–21, title VI, §610(a), Apr. 30, 2003, 117 Stat. 692.)
 
 #### Historical and Revision Notes
 
@@ -10,11 +32,13 @@ Based on section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, an
 
 Section 582 of title 18, U.S.C., 1940 ed., and section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, were consolidated. “Except as otherwise expressly provided by law” was inserted to avoid enumeration of exceptive provisions.
 
-The proviso contained in the act of 1927 “That nothing herein contained shall apply to any offense for which an indictment has been heretofore found or an information instituted, or to any proceedings under any such indictment or information,” was omitted as no longer necessary.
+The proviso contained in the act of 1927 “That nothing herein contained shall apply to any offense forwhich an indictment has been heretofore found or an information instituted, or to any proceedings under any such indictment or information,” was omitted as no longer necessary.
 
 In the consolidation of these sections the 5-year period of limitation for violations of the Nationality Code, provided for in said section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, is reduced to 3 years. There seemed no sound basis for considering 3 years adequate in the case of heinous felonies and gross frauds against the United States but inadequate for misuse of a passport or false statement to a naturalization examiner.
 
 #### Amendments
+
+2003—Pub. L. 108–21 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1954—Act Sept. 1, 1954, changed the limitation period from three years to five years.
 

@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsecs. (a)(1) and (b)(4), is section2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
+Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsecs. (a)(1) and (b)(4), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Codification
 
@@ -44,7 +44,7 @@ Subsec. (b)(8). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(b)(2)(B)\]\], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
 
-1994—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
+1994—Subsec. (b)(4)(B). Pub. L. 103–226, §9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge's or magistrate's annuity under section 377 of title 28 commences.”
 
 Subsec. (b)(4)(C). Pub. L. 103–226, §9(f)(2), substituted “Section 8433(b)” for “Section 8433(d)”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to further the purposes of this subchapter, the Secretary is authorized to enterinto cooperative agreements with interested public and private entities and individuals (including the National Trust for Historic Preservation, Belle Grove, Inc., the Cedar Creek Battlefield Foundation, the Shenandoah Valley Battlefields Foundation, and the Counties of Frederick, Shenandoah, and Warren), through technical and financial assistance, including encouraging the conservation of historic and natural resources of the Park.
+In order to further the purposes of this subchapter, the Secretary is authorized to enter into cooperative agreements with interested public and private entities and individuals (including the National Trust for Historic Preservation, Belle Grove, Inc., the Cedar Creek Battlefield Foundation, the Shenandoah Valley Battlefields Foundation, and the Counties of Frederick, Shenandoah, and Warren), through technical and financial assistance, including encouraging the conservation of historic and natural resources of the Park.
 
 #### (b) Technical and financial assistance
 

@@ -76,7 +76,7 @@
 
 #### (B) Duties
 
-&emsp;&emsp;An individual so designated shall, in accordance with the policies and proceduresestablished by the Office and the State agency—
+&emsp;&emsp;An individual so designated shall, in accordance with the policies and procedures established by the Office and the State agency—
 
 &emsp;&emsp;&emsp;(i) provide services to protect the health, safety, welfare <sup>1</sup> and rights of residents;
 
@@ -248,7 +248,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;&emsp;(ii) protecting the health, safety, welfare, and rights of the residents;
 
-&emsp;&emsp;(E)(i) analyzing the success of the program including success in providing services to residents of board and care facilities and other similar adult care facilities; and
+&emsp;&emsp;(E)(i) analyzing the success of the program including success in providing services toresidents of board and care facilities and other similar adult care facilities; and
 
 &emsp;&emsp;(ii) identifying barriers that prevent the optimal operation of the program; and
 
@@ -318,7 +318,7 @@ Section 3012(a)(21) of this title, referred to in subsec. (c)(2)(D), was redesig
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (h)(6)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (h)(6)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 #### Amendments
 

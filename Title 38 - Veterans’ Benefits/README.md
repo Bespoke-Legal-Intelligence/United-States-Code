@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2002 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2003 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -5620,7 +5620,7 @@ General Savings Provision.—An action taken or an offense committed under a pro
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section 2012; title 10 sections 1408, 1450, 1451, 12319; title 26 section 6103; title 29 section 2913; title 37 section 435; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
+This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section 2012; title 10 sections 1408, 1413a, 1450, 1451, 12319; title 26 section 6103; title 29 section 2913; title 37 section 435; title 42 sections 290dd–1, 290dd–2, 410, 424a, 659, 10008; title 50 section 2031.
 
 ### <b>PART I—GENERAL PROVISIONS</b>
 
@@ -5642,7 +5642,7 @@ This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section
 | [<b>13.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20013%20-%20Dependency%20and%20Indemnity%20Compensation%20for%20Service-Connected%20Deaths/README.md) | <b>Dependency and Indemnity Compensation for Service-Connected Deaths</b> | <b>1301</b> |
 | [<b>15.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20015%20-%20Pension%20for%20Non-Service-Connected%20Disability%20or%20Death%20or%20for%20Service/README.md) | <b>Pension for Non-Service-Connected Disability or Death or for Service</b> | <b>1501</b> |
 | [<b>17.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20017%20-%20Hospital%2C%20Nursing%20Home%2C%20Domiciliary%2C%20and%20Medical%20Care/README.md) | <b>Hospital, Nursing Home, Domiciliary, and Medical Care</b> | <b>1701</b> |
-| [<b>18.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans/README.md) | <b>Benefits for Children of Vietnam Veterans</b> | <b>1802</b> |
+| [<b>18.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans%20and%20Certain%20Other%20Veterans/README.md) | <b>Benefits for Children of Vietnam Veterans and Certain Other Veterans</b> | <b>1802</b> |
 | [<b>19.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20019%20-%20Insurance/README.md) | <b>Insurance</b> | <b>1901</b> |
 | [<b>20.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20020%20-%20Benefits%20for%20Homeless%20Veterans/README.md) | <b>Benefits for Homeless Veterans</b> | <b>2001</b> |
 | [<b>21.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/Chapter%20021%20-%20Specially%20Adapted%20Housing%20for%20Disabled%20Veterans/README.md) | <b>Specially Adapted Housing for Disabled Veterans</b> | <b>2101</b> |
@@ -5714,6 +5714,8 @@ This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section
 
 #### Amendments
 
+2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
+
 2002—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
 
 2001—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
@@ -5752,7 +5754,7 @@ Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted “1651�
 
 Pub. L. 97–295, §4(1)(C), Oct. 12, 1982, 96 Stat. 1304, added item for chapter 82.
 
-1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small BusinessLoans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
+1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
 1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 

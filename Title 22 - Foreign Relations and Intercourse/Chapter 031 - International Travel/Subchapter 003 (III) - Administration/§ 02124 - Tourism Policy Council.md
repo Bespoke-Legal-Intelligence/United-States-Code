@@ -42,7 +42,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 (1) The Council shall coordinate national policies and programs relating to international travel and tourism, recreation, and national heritage resources, which involve Federal agencies;
 
-(2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extent permitted by law and within the limits of available funds.
+(2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extentpermitted by law and within the limits of available funds.
 
 (3) Federal departments and agencies may, in their discretion, detail to temporary duty with the Council such personnel as the Chairman may request for carrying out the functions of the Council. Each such detail of personnel shall be without loss of seniority, pay, or other employee status.
 
@@ -52,7 +52,7 @@ Where necessary to prevent the public disclosure of non-public information which
 
 #### (g) Annual report
 
-The Council shall submit an annual report for the preceding fiscal year to the President fortransmittal to the Congress on or before December 31 of each year. The report shall include—
+The Council shall submit an annual report for the preceding fiscal year to the President for transmittal to the Congress on or before December 31 of each year. The report shall include—
 
 &emsp;(1) a comprehensive and detailed report of the activities and accomplishments of the Council;
 

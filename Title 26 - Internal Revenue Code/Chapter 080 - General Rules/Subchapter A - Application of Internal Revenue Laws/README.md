@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1998—Pub. L. 105–206, title I, §§1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, 112 Stat. 697, 704, 710, added items 7802 to 7804 and struck out former items 7802 “Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate”, 7803 “Other personnel”, and 7804 “Effect of reorganization plans”.
+1998—Pub. L. 105–206, title I, §§1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, 112 Stat. 697, 704, 710, added items 7802 to 7804 and struck out former items 7802“Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate”, 7803 “Other personnel”, and 7804 “Effect of reorganization plans”.
 
 1996—Pub. L. 104–168, title I, §101(b)(3), July 30, 1996, 110 Stat. 1456, added item 7802 and struck out former item 7802 “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)”.
 

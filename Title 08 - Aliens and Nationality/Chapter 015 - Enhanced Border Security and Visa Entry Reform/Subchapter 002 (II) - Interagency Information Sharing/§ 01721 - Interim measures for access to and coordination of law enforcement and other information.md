@@ -36,13 +36,13 @@ Until the plan required by subsection (c) of this section is implemented, Federa
 
 &emsp;&emsp;(E) to provide data integrity through the timely removal and destruction of obsolete or erroneous names and information; and
 
-&emsp;&emsp;(F) in a manner that protects the sources and methods used to acquire intelligence information as required by section 403–3(c)(6) of title 50.
+&emsp;&emsp;(F) in a manner that protects the sources and methods used to acquire intelligence information as required by section 403–3(c)(7) of title 50.
 
 #### (4) Criminal penalties for misuse of information
 
 &emsp;Any person who obtains information under this subsection without authorization or exceeding authorized access (as defined in section 1030(e) of title 18), and who uses such information in the manner described in any of the paragraphs (1) through (7) of section 1030(a) of such title, or attempts to use such information in such manner, shall be subject to the same penalties as are applicable under section 1030(c) of such title for violation of that paragraph.
 
-(Pub. L. 107–173, title II, §201, May 14, 2002, 116 Stat. 547.)
+(Pub. L. 107–173, title II, §201, May 14, 2002, 116 Stat. 547; Pub. L. 108–177, title III, §377(f), Dec. 13, 2003, 117 Stat. 2631.)
 
 #### References in Text
 
@@ -51,6 +51,10 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of section 201 of Pub. L. 107–173 amended provisions set out as a note under section 1365a of this title. Subsec. (c)(5) of section 201 of Pub. L. 107–173 amended section 1379 of this title.
+
+#### Amendments
+
+2003—Subsec. (c)(3)(F). Pub. L. 108–177 substituted “section 403–3(c)(7) of title 50” for “section 403–3(c)(6) of title 50”.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

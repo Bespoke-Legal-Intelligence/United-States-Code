@@ -12,7 +12,7 @@
 
 (b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
-(c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
+(c) A condition or limitation applicable to amounts for procurement of an agency or unitplacing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
 (d) An order placed or agreement made under this section obligates an appropriation of the ordering agency or unit. The amount obligated is deobligated to the extent that the agency or unit filling the order has not incurred obligations, before the end of the period of availability of the appropriation, in—
 
@@ -82,7 +82,7 @@ In subsection (b), the words “The Secretary of Defense” are added for clarit
 
 In subsection (c), the words “pursuant to such order” are omitted as unnecessary.
 
-Subsection (d) is substituted for the source provisions being restated to reflect decisions of the Comptroller General, including 31 Comp. Gen. 83 (1951), 34 Comp.Gen. 418 (1955), 39 Comp. Gen. 317 (1959), and 55 Comp. Gen. 1497 (1976).
+Subsection (d) is substituted for the source provisions being restated to reflect decisions of the Comptroller General, including 31 Comp. Gen. 83 (1951), 34 Comp. Gen. 418 (1955), 39 Comp. Gen. 317 (1959), and 55 Comp. Gen. 1497 (1976).
 
 In subsection (e), the words “any Government department or independent establishment, or any bureau or office thereof” and “except as otherwise provided by law” are omitted as unnecessary because of the restatement. The text of 31:686b(a) is omitted as executed.
 
@@ -119,6 +119,42 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
 Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+
+#### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
+
+Pub. L. 108–136, div. A, title X, §1058, Nov. 24, 2003, 117 Stat. 1619, provided that:
+
+“(a)
+
+Review Required.—The Director of the Office of Management and Budget shall conduct a review of existing authorities regarding the use of Air Force and Air National Guard Modular Airborne Fire-Fighting Systems units and other Department of Defense assetsto fight wildfires to ensure that, in accordance with applicable legal requirements, such assets are available in the most expeditious manner to fight wildfires on Federal lands or non-Federal lands at the request of a Federal agency or State government. In conducting the review, the Director shall specifically consider—
+
+&emsp;“(1) any adverse impact caused by the restrictions contained in section 1535(a)(4) of title 31, United States Code, or caused by the interpretation of such restrictions, on the ability of the Forest Service and other Federal agencies to procure such firefighting services; and
+
+&emsp;“(2) whether the authorities under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), including section 403(c) of such Act (42 U.S.C. 5170b), are being properly utilized to facilitate an expeditious Department of Defense response to State requests under, and consistent with, such Act for firefighting services.
+
+“(b)
+
+Determination Required.—On the basis of the review, the Director shall make a determination regarding whether existing authorities are being used in a manner consistent with using the available capabilities of Department of Defense assets to fight wildfires in the most expeditious and efficacious way to minimize the risk to public safety.
+
+“(c)
+
+Expedited Economy Act Review Process.—If the Director determines under subsection (b) that existing authorities are adequate for the deployment of Department of Defense assets to fight wildfires, the Director shall develop and implement, subject to subsection (f), such modifications to the process for conducting the cost comparison required by section 1535(a)(4) of title 31, United States Code, as the Director considers appropriate to further expedite the procurement of such firefighting services.
+
+“(d)
+
+Development and Implementation of Revised Policies.—If the Director determines under subsection (b) that the existing authorities or their use is inadequate or can be improved, the Director shall develop and implement, subject to subsection (f), such regulations, policies, and interagency procedures as may be necessary to improve the ability of the Department of Defense to respond to a request by a Federal agency or State government to assist in fighting wildfires on Federal lands or non-Federal lands under section 1535(a) of title 31, United States Code, or the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), or both.
+
+“(e)
+
+Reporting Requirement.—Not later than 120 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Director shall transmit to Congress a report—
+
+&emsp;“(1) containing the results of the review conducted under subsection (a) and the determination made under subsection (b); and
+
+&emsp;“(2) based on such determination, describing the modifications proposed to be made to existing authorities under subsection (c) or (d), including whether there is a need for legislative changes to further improve the procedures for using Department of Defense assets to fight wildfires.
+
+“(f)
+
+Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.”
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 

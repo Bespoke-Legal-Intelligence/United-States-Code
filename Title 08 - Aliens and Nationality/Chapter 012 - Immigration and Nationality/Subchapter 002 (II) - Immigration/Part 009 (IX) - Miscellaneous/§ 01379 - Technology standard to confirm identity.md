@@ -20,11 +20,11 @@ The electronic system described in paragraph (2), once implemented, shall be rea
 
 #### (4) Report
 
-Not later than one year after October 26, 2001, and every 2 years thereafter, the Attorney General and the Secretary of State shall jointly, in consultation with the Secretary of Treasury, report to Congress describing the development, implementation, efficacy, and privacy implications of the technology standard and electronic database system described in this subsection.
+Not later than one year after October 26, 2001, and every 2 years thereafter, the Attorney General and the Secretary of State shall jointly, in consultation with the Secretary of Treasury, report to Congress describing the development, implementation, efficacy, and privacy implications of the technology standard and electronic database system described in this section.
 
 #### (5) Funding
 
-There is authorized to be appropriated to the Secretary of State, the Attorney General, and the Director of the National Institute of Standards and Technology such sums as may be necessary to carry out the provisions of this subsection.
+There is authorized to be appropriated to the Secretary of State, the Attorney General, and the Director of the National Institute of Standards and Technology such sums as may be necessary to carry out the provisions of this section.
 
 (Pub. L. 107–56, title IV, §403(c), Oct. 26, 2001, 115 Stat. 344; Pub. L. 107–173, title II, §§201(c)(5), 202(a)(4)(B), May 14, 2002, 116 Stat. 548, 549.)
 
@@ -46,7 +46,7 @@ Pub. L. 107–56, title IV, §405, Oct. 26, 2001, 115 Stat. 345, provided that:
 
 “(a)
 
-In General.—The Attorney General, in consultation with the appropriate heads of other Federal agencies, including the Secretary of State, Secretary of the Treasury, and the Secretary of Transportation, shall report to Congress on the feasibility of enhancing the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation and other identification systems in order to better identify a person who holds a foreign passport or a visa and may be wanted in connection with a criminal investigation in the United States or abroad, before the issuance ofa visa to that person or the entry or exit from the United States by that person.
+In General.—The Attorney General, in consultation with the appropriate heads of other Federal agencies, including the Secretary of State, Secretary of the Treasury, and the Secretary of Transportation, shall report to Congress on the feasibility of enhancing the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation and other identification systems in order to better identify a person who holds a foreign passport or a visa and may be wanted in connection with a criminal investigation in the United States or abroad, before the issuance of a visa to that person or the entry or exit from the United States by that person.
 
 “(b)
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Without regard to whether the United States is or may be deprived of all or a portion of anylawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
+&emsp;Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
 
 &emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(A) if the violation resulted from fraud—
 
-&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaidamount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
+&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
 
 &emsp;&emsp;&emsp;(ii) if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
 
@@ -104,7 +104,17 @@
 
 &emsp;&emsp;(B) in accordance with regulations issued by the Secretary, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
-#### (6) Seizure
+#### (6) Prior disclosure regarding claims under the United States-Chile Free Trade Agreement
+
+&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Chile Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily makes a corrected declaration and pays any duties owing.
+
+#### (7) Prior disclosure regarding claims under the United States-Singapore Free Trade Agreement
+
+&emsp;(A) An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim that a good qualifies as an originating good under section 202 of the United States-Singapore Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+
+&emsp;(B) In the regulations referred to in subparagraph (A), the Secretary of the Treasury is authorized to prescribe time periods for making a corrected declaration and paying duties owing under subparagraph (A), if such periods are not shorter than 1 year following the date on which the importer makes the incorrect claim that a good qualifies as an originating good.
+
+#### (8) Seizure
 
 &emsp;If the Secretary has reasonable cause to believe that a person has violated the provisions of subsection (a) of this section and that such person is insolvent or beyond the jurisdiction of the United States or that seizure is otherwise essential to protect the revenue of the United States or to prevent the introduction of prohibited or restricted merchandise into the customs territory of the United States, then such merchandise may be seized and, upon assessment of a monetary penalty, forfeited unless the monetary penalty is paid within the time specified by law. Within a reasonable time after any such seizure is made, the Secretary shall issue to the person concerned a written statement containing the reasons for the seizure. After seizure of merchandise under this subsection, the Secretary may, in the case of restricted merchandise, and shall, in the case of any other merchandise (other than prohibited merchandise), return such merchandise upon the deposit of security not to exceed the maximum monetary penalty which may be assessed under subsection (c) of this section.
 
@@ -142,11 +152,41 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;A person may not be considered to have violated paragraph (1) if—
 
-&emsp;&emsp;(A) the information was correct at the time it was provided in a NAFTA Certificateof Origin but was later rendered incorrect due to a change in circumstances; and
+&emsp;&emsp;(A) the information was correct at the time it was provided in a NAFTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
 
 &emsp;&emsp;(B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132.)
+#### (g) False certifications of origin under the United States-Chile Free Trade Agreement
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a Chile FTA Certificate of Origin (as defined in section 1508(f)(1)(B) of this title <sup>1</sup> that a good exported from the United States qualifies as an originating good under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) of this section also apply to a violation of this subsection.
+
+#### (2) Immediate and voluntary disclosure of incorrect information
+
+&emsp;No penalty shall be imposed under this subsection if, immediately after an exporter or producer that issued a Chile FTA Certificate of Origin has reason to believe that such certificate contains or is based on incorrect information, the exporter or producer voluntarily provides written notice of such incorrect information to every person to whom the certificate was issued.
+
+#### (3) Exception
+
+&emsp;A person may not be considered to have violated paragraph (1) if—
+
+&emsp;&emsp;(A) the information was correct at the time it was provided in a Chile FTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
+
+&emsp;&emsp;(B) the person immediately and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certificate.
+
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–78, see Effective and Termination Dates of 2003 Amendments note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendments note below.</i>
+
+#### References in Text
+
+Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (c)(6) and (g)(1), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
+
+Section 202 of the United States-Singapore Free Trade Agreement Implementation Act, referred to in subsec. (c)(7)(A), is section 202 of Pub. L. 108–78, which is set out in a note under section 3805 of this title.
 
 #### Prior Provisions
 
@@ -161,6 +201,16 @@ R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced acc
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
 #### Amendments
+
+2003—Subsec. (c)(6). Pub. L. 108–77, §§107(c), 205(a)(1)(B), temporarily added par. (6). Former par. (6) redesignated (7). See Effective and Termination Dates of 2003 Amendments note below.
+
+Subsec. (c)(7). Pub. L. 108–78, §§107(c), 204(2), temporarily added par. (7). Former par. (7) redesignated (8). See Effective and Termination Dates of 2003 Amendments note below.
+
+Pub. L. 108–77, §§107(c), 205(a)(1)(A), temporarily redesignated par. (6) as (7). See Effective and Termination Dates of 2003 Amendments note below.
+
+Subsec. (c)(8). Pub. L. 108–78, §§107(c), 204(1), temporarily redesignated par. (7) as (8). See Effective and Termination Dates of 2003 Amendments note below.
+
+Subsec. (g). Pub. L. 108–77, §§107(c), 205(a)(2), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendments note below.
 
 1999—Subsec. (c)(4)(A)(i), (B). Pub. L. 106–36 amended Pub. L. 103–182, §621(4)(A). See 1993 Amendment notes below.
 
@@ -200,9 +250,15 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 1980—Subsec. (e). Pub. L. 96–417 substituted in heading “Court of International Trade” for “District court” and in text “proceeding commenced by the United States in the Court of International Trade” for “proceeding in a United States district court commenced by the United States pursuant to section 1604 of this title”.
 
-1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paperor statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
+1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
 
 1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
+
+#### Effective and Termination Dates of 2003 Amendments
+
+Amendment by Pub. L. 108–78 effective on the date the United States-Singapore Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–78, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -228,7 +284,7 @@ Section 110(f) of Pub. L. 95–410 provided that:
 
 &emsp;“(ii) was the subject of an investigation by the Customs Service which was begun before the date of enactment of this Act.
 
-“(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (as added by subsection (a)) \[subsec. (e) of this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1978\]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 \[section 1604 of this title\] for the recovery of any monetary penalty claimed under section 592 of such Act \[this section\] for an alleged intentional violation described in subparagraph (B)—
+“(C) Except as provided in the next sentence, subsection (e) of section 592 of the Tariff Act of 1930 (asadded by subsection (a)) \[subsec. (e) of this section\] shall be effective on the date of enactment of this Act \[Oct. 3, 1978\]. Notwithstanding any provision of law, in any proceeding in a United States district court commenced by the United States pursuant to section 604 of the Tariff Act of 1930 \[section 1604 of this title\] for the recovery of any monetary penalty claimed under section 592 of such Act \[this section\] for an alleged intentional violation described in subparagraph (B)—
 
 &emsp;“(i) all issues, including the amount of the penalty, shall be tried de novo; and
 
@@ -251,4 +307,6 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1509, 1592a, 1595, 1595a, 1613, 1615, 1621, 1671c, 1673c of this title; title 7 section 511r; title 28 section 1582.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–418, §5152, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out section 3705 of this title, not to exceed $19,000,000 for the fiscal yearending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.”
+1988—Subsec. (a). Pub. L. 100–418, §5152, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out section 3705 of this title, not to exceed $19,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.”
 
 Subsec. (b). Pub. L. 100–418, §5152, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to authorizations of appropriations under subsection (a) of this section, there is authorized to be appropriated to the Secretary for purposes of carrying out the provisions of this chapter, not to exceed $5,000,000 for the fiscal year ending September 30, 1981, $9,000,000 for the fiscal year ending September 30, 1982, and $14,000,000 for each of the fiscal years ending September 30, 1983, 1984, and 1985.”
 

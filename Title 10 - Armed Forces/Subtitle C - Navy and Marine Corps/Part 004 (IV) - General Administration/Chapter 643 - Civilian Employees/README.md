@@ -22,7 +22,7 @@
 
 1997—Pub. L. 105–85, div. A, title XI, §1109(b)(2), Nov. 18, 1997, 111 Stat. 1927, substituted “Marine Corps University” for “Marine Corps Command and Staff College” in item 7478.
 
-1989—Pub. L. 101–189, div. A, title XI, §1124(c)(2), Nov. 29, 1989, 103 Stat. 1559, substituted “Naval War College and Marine Corps Command and Staff College: civilianfaculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
+1989—Pub. L. 101–189, div. A, title XI, §1124(c)(2), Nov. 29, 1989, 103 Stat. 1559, substituted “Naval War College and Marine Corps Command and Staff College: civilian faculty members” for “Naval War College: employment of civilian professors; compensation” in item 7478.
 
 1966—Pub. L. 89–718, §43, Nov. 2, 1966, 80 Stat. 1120, struck out item 7474 “Wage rates: establishment”.
 

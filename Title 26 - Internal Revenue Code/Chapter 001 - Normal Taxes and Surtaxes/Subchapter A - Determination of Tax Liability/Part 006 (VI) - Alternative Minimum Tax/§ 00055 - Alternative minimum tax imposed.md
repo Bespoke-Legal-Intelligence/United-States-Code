@@ -66,13 +66,13 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;&emsp;(II) the unrecaptured section 1250 gain, plus
 
-&emsp;&emsp;(B) 10 percent of so much of the adjusted net capital gain (or, if less, taxable excess) as does not exceed the amount on which a tax is determined under section 1(h)(1)(B), plus
+&emsp;&emsp;(B) 5 percent (0 percent in the case of taxable years beginning after 2007) of so much of the adjusted net capital gain (or, if less, taxable excess) as does not exceed the amount on which a tax is determined under section 1(h)(1)(B), plus
 
-&emsp;&emsp;(C) 20 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (B), plus
+&emsp;&emsp;(C) 15 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (B), plus
 
 &emsp;&emsp;(D) 25 percent of the amount of taxable excess in excess of the sum of the amounts on which tax is determined under the preceding subparagraphs of this paragraph.
 
-> &emsp;In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (B) and (C). Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h) but computed with the adjustments under this part.
+> &emsp;Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h) but computed with the adjustments under this part.
 
 #### (c) Regular tax
 
@@ -92,13 +92,13 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer other than a corporation, the term “exemption amount” means—
 
-&emsp;&emsp;(A) $45,000 ($49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004) in the case of—
+&emsp;&emsp;(A) $45,000 ($58,000 in the case of taxable years beginning in 2003 and 2004) in the case of—
 
 &emsp;&emsp;&emsp;(i) a joint return, or
 
 &emsp;&emsp;&emsp;(ii) a surviving spouse,
 
-&emsp;&emsp;(B) $33,750 ($35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004) in the case of an individual who—
+&emsp;&emsp;(B) $33,750 ($40,250 in the case of taxable years beginning in 2003 and 2004) in the case of an individual who—
 
 &emsp;&emsp;&emsp;(i) is not a married individual, and
 
@@ -180,11 +180,13 @@ For purposes of this section—
 
 #### (5) Limitation on use of credit for prior year minimum tax liability
 
-&emsp;In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) <sup>1</sup> shall apply for purposes of the preceding sentence.
+&emsp;In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) <sup>1</sup> shall apply for purposes of the preceding sentence.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by sections 107 and 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment notes below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -198,6 +200,16 @@ A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat.
 
 #### Amendments
 
+2003—Subsec. (b)(3). Pub. L. 108–27, §§301(b)(2), 303, temporarily struck out first sentence of concluding provisions which read as follows: “In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (B) and (C).” See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(3)(B). Pub. L. 108–27, §§301(a)(1), 303, temporarily substituted “5 percent (0 percent in the case of taxable years beginning after 2007)” for “10 percent”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (b)(3)(C). Pub. L. 108–27, §§301(a)(2)(B), 303, temporarily substituted “15 percent” for “20 percent”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (d)(1)(A). Pub. L. 108–27, §§106(a)(1), 107, temporarily substituted “$58,000 in the case of taxable years beginning in 2003 and 2004” for “$49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004”. See Effective and Termination Dates of 2003 Amendment note below.
+
+Subsec. (d)(1)(B). Pub. L. 108–27, §§106(a)(2), 107, temporarily substituted “$40,250 in the case of taxable years beginning in 2003 and 2004” for “$35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004”. See Effective and Termination Dates of 2003 Amendment note below.
+
 2001—Subsec. (d)(1)(A). Pub. L. 107–16, §§701(a)(1), 901, temporarily substituted “$45,000 ($49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)” for “$45,000” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(1)(B). Pub. L. 107–16, §§701(b)(1), 901, temporarily struck out “and” at end. See Effective and Termination Dates of 2001 Amendment note below.
@@ -208,9 +220,7 @@ Subsec. (d)(1)(C), (D). Pub. L. 107–16, §§701(b)(1), 901, temporarily added 
 
 &emsp;“(i) a married individual who files a separate return, or
 
-&emsp;“(ii) an estate or trust.”
-
-> See Effective and Termination Dates of 2001 Amendment note below.
+&emsp;“(ii) an estate or trust.” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(3). Pub. L. 107–16, §§701(b)(3), 901, in concluding provisions, temporarily substituted “paragraph (1)(C)” for “paragraph (1)(C)(i)” and “the minimum amount of such income (as so determined) for which the exemption amount under paragraph (1)(C) is zero, or (ii) such exemption amount (determined without regard to this paragraph)” for “$165,000 or (ii) $22,500”. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -292,6 +302,16 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end “In the case 
 
 1986—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted “or section 42(j)”.
 
+#### Effective and Termination Dates of 2003 Amendment
+
+Pub. L. 108–27, title I, §106(b), May 28, 2003, 117 Stat. 755, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
+
+Amendment by section 106(a) of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of such Act to which such amendment relates, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by section 301(a)(1), (2)(B), (b)(2) of Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by section 301(a)(1), (2)(B), (b)(2) of Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Pub. L. 107–16, title VII, §701(c), June 7, 2001, 115 Stat. 148, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2000.”
@@ -358,7 +378,7 @@ Adjustment of net operating loss.—
 
 &emsp;“(A)
 
-Individuals.—In the case of a net operating loss of an individual for a taxable year beginningafter December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
+Individuals.—In the case of a net operating loss of an individual for a taxable year beginning after December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
 
 &emsp;“(B)
 
@@ -426,7 +446,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, seesection 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

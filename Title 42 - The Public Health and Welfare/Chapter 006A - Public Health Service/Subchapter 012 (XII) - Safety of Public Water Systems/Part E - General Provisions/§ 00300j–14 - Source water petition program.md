@@ -26,7 +26,7 @@
 
 &emsp;The objectives of a petition submitted under this subsection shall be to—
 
-&emsp;&emsp;(A) facilitate the local development of voluntary, incentive-based partnerships among owners and operators of community water systems, governments, and other persons in source water areas; and
+&emsp;&emsp;(A) facilitate the local development of voluntary, incentive-based partnerships among owners and operators of community watersystems, governments, and other persons in source water areas; and
 
 &emsp;&emsp;(B) obtain assistance from the State in identifying resources which are available to implement the recommendations of the partnerships to address the origins of drinking water contaminants that may be addressed by a petition (including to the maximum extent practicable the specific activities contributing to the presence of the contaminants) that affect the drinking water supply of a community.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) whose participation is essential to the success of the partnership;
 
-&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineatedunder section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
+&emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
 
 &emsp;&emsp;(F) specify the technical, financial, or other assistance that the voluntary local partnership requests of the State to develop the partnership or to implement recommendations of the partnership.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(vi) any pesticide or ground water management plan;
 
-&emsp;&emsp;&emsp;(vii) any voluntary agricultural resource management plan or voluntary whole farm or whole ranch management plan developed and implemented under a process established by the Secretary of Agriculture; and
+&emsp;&emsp;&emsp;(vii) any voluntary agricultural resource management plan or voluntary whole farmor whole ranch management plan developed and implemented under a process established by the Secretary of Agriculture; and
 
 &emsp;&emsp;&emsp;(viii) any abandoned well closure program; and
 
@@ -148,7 +148,7 @@
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for each of thefiscal years 1997 through 2003. Each State with a plan for a program approved under subsection (b) of this section shall receive an equitable portion of the funds available for any fiscal year.
+There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 1997 through 2003. Each State with a plan for a program approved under subsection (b) of this section shall receive an equitable portion of the funds available for any fiscal year.
 
 #### (f) Statutory construction
 

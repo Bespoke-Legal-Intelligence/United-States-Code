@@ -30,7 +30,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Clause (i) shall not apply in the case of a recapitalization under section368(a)(1)(E) of a family-owned corporation.
+&emsp;&emsp;&emsp;&emsp;Clause (i) shall not apply in the case of a recapitalization under section 368(a)(1)(E) of a family-owned corporation.
 
 #### (II) Family-owned corporation
 
@@ -38,7 +38,7 @@
 
 #### (III) Extension of statute of limitations
 
-&emsp;&emsp;&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to a corporation failing to be a family-owned corporation shall not expire before the expiration of 3 years after the date the Secretary is notified by the corporation (in such manner as the Secretary may prescribe) of such failure, and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to a corporation failing to be a family-owned corporation shall not expire before theexpiration of 3 years after the date the Secretary is notified by the corporation (in such manner as the Secretary may prescribe) of such failure, and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
 #### (3) Cross references
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 4(e)(1) of Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, and to exchanges which occur after Dec. 31, 1980, and which do not occur in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11, Bankruptcy, commencedon or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases, proceedings or exchanges commencing after Sept. 30, 1979, see section 7(c), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by section 4(e)(1) of Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, and to exchanges which occur after Dec. 31, 1980, and which do not occur in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11, Bankruptcy, commenced on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases, proceedings or exchanges commencing after Sept. 30, 1979, see section 7(c), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 Amendment by section 4(h)(1) of Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases or proceedings commencing after Sept. 30, 1979, see section 7(c)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
@@ -114,7 +114,7 @@ Amendment by section 6(i)(2) of Pub. L. 96–589 effective Oct. 1, 1979, but not
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–253 provided that: “The amendments made by section 1 \[amending this section and sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
+Section 2 of Pub. L. 94–253 provided that: “The amendments made by section 1 \[amending this sectionand sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
 
 #### Savings Provision
 

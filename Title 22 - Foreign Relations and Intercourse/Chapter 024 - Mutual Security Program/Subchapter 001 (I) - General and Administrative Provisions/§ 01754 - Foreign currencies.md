@@ -46,7 +46,7 @@ Notwithstanding section 1306 of title 31, or any other provision of law, proceed
 
 (B) On a quarterly basis, the Clerk of the House of Representatives and the Secretary of the Senate shall each prepare a consolidation of the reports received by them under this paragraph with respect to expenditures during the preceding quarter by each Member and employee or by each group in the case of expenditures made on behalf of a group which are not allocable to individual members of the group. Each such consolidation shall be open to public inspection and shall be published in the Congressional Record within ten legislative days after its completion.
 
-(Aug. 26, 1954, ch. 937, ch. IV, §502, 68 Stat. 849; Sept. 3, 1954, ch. 1262, §104, 68 Stat. 1223; July 8, 1955, ch. 301, §9(a), 69 Stat. 288; July 18, 1956, ch. 627, §9(b), 70 Stat. 560; Pub. L. 85–477, ch. IV, §401(a), June 30, 1958, 72 Stat. 268; Pub. L. 85–766, ch. X, §1001, Aug. 27, 1958, 72 Stat. 880; Pub. L. 86–472, ch. IV, §401(a), May 14, 1960, 74 Stat. 138; Pub. L. 86–628, title I, §105(a), July 12, 1960, 74 Stat. 460; Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460; Pub. L. 88–633, pt. IV, §402, Oct. 7, 1964, 78 Stat. 1015; Pub. L. 93–126, §5, Oct. 18, 1973, 87 Stat. 452; Pub. L. 93–371, §107, Aug. 13, 1974, 88 Stat. 444; Pub. L. 94–59, title XI, §1105, July 25, 1975, 89 Stat. 299; Pub. L. 94–157, title I, ch. IV, Dec. 18, 1975, 89 Stat. 837; Pub. L. 94–350, title IV, §402, July 12, 1976, 90 Stat. 833; Pub. L. 94–440, title I, §109, Oct. 1, 1976, 90 Stat. 1445; Pub. L. 95–384, §22(a), Sept. 26, 1978, 92 Stat. 742; Pub. L. 104–186, title II, §218(2), Aug. 20, 1996, 110 Stat. 1747.)
+(Aug. 26, 1954, ch. 937, ch. IV, §502, 68 Stat. 849; Sept. 3, 1954, ch. 1262, §104, 68 Stat. 1223; July 8, 1955, ch. 301, §9(a), 69 Stat. 288; July 18, 1956, ch. 627, §9(b), 70 Stat. 560; Pub. L. 85–477, ch. IV, §401(a), June 30, 1958, 72 Stat. 268; Pub. L. 85–766, ch. X, §1001, Aug. 27, 1958, 72 Stat. 880; Pub. L. 86–472, ch. IV, §401(a), May 14, 1960, 74 Stat. 138; Pub. L. 86–628, title I, §105(a), July 12, 1960, 74 Stat. 460; Pub. L. 87–195, pt. III, §642(a)(2), Sept.4, 1961, 75 Stat. 460; Pub. L. 88–633, pt. IV, §402, Oct. 7, 1964, 78 Stat. 1015; Pub. L. 93–126, §5, Oct. 18, 1973, 87 Stat. 452; Pub. L. 93–371, §107, Aug. 13, 1974, 88 Stat. 444; Pub. L. 94–59, title XI, §1105, July 25, 1975, 89 Stat. 299; Pub. L. 94–157, title I, ch. IV, Dec. 18, 1975, 89 Stat. 837; Pub. L. 94–350, title IV, §402, July 12, 1976, 90 Stat. 833; Pub. L. 94–440, title I, §109, Oct. 1, 1976, 90 Stat. 1445; Pub. L. 95–384, §22(a), Sept. 26, 1978, 92 Stat. 742; Pub. L. 104–186, title II, §218(2), Aug. 20, 1996, 110 Stat. 1747.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Pub. L. 85–477 required each member or employee of the committees to make an i
 
 #### Effective Date of 1978 Amendment
 
-Section 22(b) of Pub. L. 95–384 provided that: “Notwithstanding section 30 of this Act \[set out as a note below\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 26, 1978\].”
+Section 22(b) of Pub. L. 95–384 provided that: “Notwithstanding section 30 of this Act \[set out as a notebelow\], the amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 26, 1978\].”
 
 #### Short Title of 1960 Amendment
 
@@ -113,8 +113,6 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
-
-Functions of President under this section delegated to Secretary of the Treasury pursuant to section1–501(a)(3) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56675, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 
 #### International Security Assistance Act of 1978 Not To Affect Authorizations of Appropriations and Limitations of Authority Applicable to Fiscal Year 1978
 

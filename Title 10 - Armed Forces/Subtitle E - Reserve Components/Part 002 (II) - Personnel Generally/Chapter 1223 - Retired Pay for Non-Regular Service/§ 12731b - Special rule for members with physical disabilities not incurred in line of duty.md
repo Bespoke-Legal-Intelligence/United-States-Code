@@ -12,5 +12,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1370 of this title.
+This section is referred to in sections 1370, 1413a of this title.
 

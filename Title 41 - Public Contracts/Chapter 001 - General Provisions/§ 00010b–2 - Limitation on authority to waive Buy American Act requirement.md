@@ -8,13 +8,13 @@
 
 #### (b) Report to Congress
 
-The Secretary of Defense shall submit to the Congress a report on the amount of Department of Defense purchases from foreign entities in fiscal year 2003. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
+The Secretary of Defense shall submit to the Congress a report on the amount of Department of Defense purchases from foreign entities in fiscal year 2004. Such report shall separately indicate the dollar value of items for which the Buy American Act was waived pursuant to any agreement described in subsection (a)(2) of this section, the Trade Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any international agreement to which the United States is a party.
 
 #### (c) “Buy American Act” defined
 
 For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.).
 
-(Pub. L. 107–248, title VIII, §8033, Oct. 23, 2002, 116 Stat. 1544.)
+(Pub. L. 108–87, title VIII, §8033, Sept. 30, 2003, 117 Stat. 1079.)
 
 #### References in Text
 
@@ -25,6 +25,8 @@ The Trade Agreement Act of 1979, referred to in subsec. (b), probably means the 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior acts:
+
+Pub. L. 107–248, title VIII, §8033, Oct. 23, 2002, 116 Stat. 1544.
 
 Pub. L. 107–117, div. A, title VIII, §8036, Jan. 10, 2002, 115 Stat. 2255.
 

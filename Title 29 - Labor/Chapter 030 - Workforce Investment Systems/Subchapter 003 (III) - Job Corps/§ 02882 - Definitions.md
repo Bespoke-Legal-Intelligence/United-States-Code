@@ -44,7 +44,7 @@ In this subchapter:
 
 #### (10) Service provider
 
-&emsp;The term “service provider” means an entity selected under this subchapter to provide services described in this subchapter to a Job Corps center.
+&emsp;The term “service provider” means an entity selected under this subchapter to provideservices described in this subchapter to a Job Corps center.
 
 (Pub. L. 105–220, title I, §142, Aug. 7, 1998, 112 Stat. 1006.)
 

@@ -34,7 +34,7 @@
 
 &emsp;(A) such employee and such employee's exclusive representative for collective-bargaining purposes (if any) are given written notice, in conformance with the requirements of paragraph (2), at least 60 days before such employee is so released; and
 
-&emsp;(B) if the reduction in force would involve the separation of a significant number of employees, the requirements of paragraph (3) aremet at least 60 days before any employee is so released.
+&emsp;(B) if the reduction in force would involve the separation of a significant number of employees, the requirements of paragraph (3) are met at least 60 days before any employee is so released.
 
 (2) Any notice under paragraph (1)(A) shall include—
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) shall consist of written notification as to—
 
-&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction in force (broken down by geographic area or on such other basis as may be required under paragraph (4));
+&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction inforce (broken down by geographic area or on such other basis as may be required under paragraph (4));
 
 &emsp;&emsp;(ii) when those separations will occur; and
 
@@ -136,7 +136,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(i)\], added cl. (i) and
 
 Subsec. (d)(3)(B)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(A)(ii)\], struck out “under the Job Training Partnership Act or” before “under title I of”.
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(ii)\], substituted “other services under the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(1)(A)(ii)\], substituted “other services under the Job TrainingPartnership Act or under title I of the Workforce Investment Act of 1998” for “other services under the Job Training Partnership Act”.
 
 Subsec. (d)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(1)(B)\], struck out “the Job Training Partnership Act or” before “title I of”.
 
@@ -200,7 +200,7 @@ Job training partnership act.—The amendments made by subsection (f) \[amending
 
 #### Effective Date of 1996 Amendment
 
-Section 1043(d)(2) of Pub. L. 104–106 provided that: “Notwithstanding any provision of subsection (c) \[setout as a note under section 8347 of this title\], the amendment made by paragraph (1) \[amending this section\] shall—
+Section 1043(d)(2) of Pub. L. 104–106 provided that: “Notwithstanding any provision of subsection (c) \[set out as a note under section 8347 of this title\], the amendment made by paragraph (1) \[amending this section\] shall—
 
 &emsp;“(A) take effect on the date of the enactment of this Act \[Feb. 10, 1996\]; and
 
@@ -304,7 +304,7 @@ Section 1. The Office of Personnel Management is designated and empowered to exe
 
 (1) The authority of the President under 5 U.S.C. 3502(e), as added by section 4433 of Public Law 102–484, to shorten the period of advance notice otherwise required by law with respect to reductions in force.
 
-(2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378, to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
+(2) The authority of the President under 5 U.S.C. 4505a(e), as added by section 2(19) of Public Law 102–378,to permit performance-based cash awards to be paid to categories of employees who would not otherwise be eligible.
 
 Sec. 2. The Director of the Office of Management and Budget is designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority of the President under 5 U.S.C. 5377(i)(2), as added by section 2(34) of Public Law 102–378, to designate one or more categories of positions within an agency to be treated as critical positions within the meaning of 5 U.S.C. 5377(a)(2).
 

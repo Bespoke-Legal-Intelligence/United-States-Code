@@ -24,7 +24,7 @@ If property is received in a distribution in complete liquidation, and if gain o
 
 “(1)
 
-Distribution in complete liquidation.—If property is received by a corporation in a distribution in a complete liquidation to which section 332(a) applies, the basis of the property in the hands of the distributeeshall be the same as it would be in the hands of the transferor.
+Distribution in complete liquidation.—If property is received by a corporation in a distribution in a complete liquidation to which section 332(a) applies, the basis of the property in the hands of the distributee shall be the same as it would be in the hands of the transferor.
 
 “(2)
 

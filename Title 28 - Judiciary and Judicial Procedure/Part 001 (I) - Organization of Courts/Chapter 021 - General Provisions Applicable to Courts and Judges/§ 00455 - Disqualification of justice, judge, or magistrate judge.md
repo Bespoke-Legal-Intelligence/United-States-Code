@@ -4,7 +4,7 @@
 
 (b) He shall also disqualify himself in the following circumstances:
 
-&emsp;(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;
+&emsp;(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge ofdisputed evidentiary facts concerning the proceeding;
 
 &emsp;(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been a material witness concerning it;
 
@@ -56,7 +56,7 @@ Section 24 of title 28, U.S.C., 1940 ed., applied only to district judges. The r
 
 The phrase “in which he has a substantial interest” was substituted for “concerned in interest in any suit.”
 
-The provision of section 24 of title 28, U.S.C., 1940 ed., as to giving notice of disqualification to the “senior circuit judge,” and words “and thereupon such proceedings shall be had as are provided in sections 17 and 18 of this title,” were omitted as unnecessary and covered by section 291 et seq. of this title relating to designation and assignment of judges. Such provision is not made by statute in case of disqualification or incapacity, for other cause. See sections 140, 143, and 144 of thistitle. If a judge or clerk of court is remiss in failing to notify the chief judge of the district or circuit, the judicial council of the circuit has ample power under section 332 of this title to apply a remedy.
+The provision of section 24 of title 28, U.S.C., 1940 ed., as to giving notice of disqualification to the “senior circuit judge,” and words “and thereupon such proceedings shall be had as are provided in sections 17 and 18 of this title,” were omitted as unnecessary and covered by section 291 et seq. of this title relating to designation and assignment of judges. Such provision is not made by statute in case of disqualification or incapacity, for other cause. See sections 140, 143, and 144 of this title. If a judge or clerk of court is remiss in failing to notify the chief judge of the district or circuit, the judicial council of the circuit has ample power under section 332 of this title to apply a remedy.
 
 Relationship to a party's attorney is included in the revised section as a basis of disqualification in conformity with the views of judges cognizant of the grave possibility of undesirable consequences resulting from a less inclusive rule.
 

@@ -30,13 +30,13 @@ There is hereby created in the executive branch of the Government an independent
 
 (1) The Committee shall—
 
-&emsp;(A) collect and analyze information on the needs and capabilities of industry, the FederalGovernment, and the scientific and research communities related to semiconductor technology;
+&emsp;(A) collect and analyze information on the needs and capabilities of industry, the Federal Government, and the scientific and research communities related to semiconductor technology;
 
 &emsp;(B) identify the components of a successful national semiconductor strategy in accordance with subsection (b)(2)(B) of this section;
 
 &emsp;(C) analyze options, establish priorities, and recommend roles for participants in the national strategy;
 
-&emsp;(D) assess the roles for government and national laboratories and other laboratories supported largely for government purposes in contributing to the semiconductor technology base of the Nation, as well as to access the effective use of the resources of United States private industry, United States universities, and private-public research and development efforts; and
+&emsp;(D) assess the roles for government and national laboratories and other laboratories supported largely for government purposes in contributing to the semiconductor technologybase of the Nation, as well as to access the effective use of the resources of United States private industry, United States universities, and private-public research and development efforts; and
 
 &emsp;(E) provide results and recommendations to agencies of the Federal Government involved in legislative, policymaking, administrative, management, planning, and technology activities that affect or are part of a national semiconductor strategy, and to the industry and other nongovernmental groups or organizations affected by or contributing to that strategy.
 

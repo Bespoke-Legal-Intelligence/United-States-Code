@@ -148,7 +148,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–265 effective Jan. 1, 1981, see section 201(d) of Pub. L. 96–265, as amended, set outas an Effective Date note under section 1382h of this title.
+Amendment by Pub. L. 96–265 effective Jan. 1, 1981, see section 201(d) of Pub. L. 96–265, as amended, set out as an Effective Date note under section 1382h of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -168,7 +168,7 @@ Section 5102(b)(2) of Pub. L. 105–33 provided that: “From amounts credited p
 
 #### Period Within Which California May Make Cash Payments in Lieu of Food Stamps to Recipients of Supplemental Security Income Benefits
 
-Pub. L. 95–458, §5(b), Oct. 14, 1978, 92 Stat. 1261, provided that: “No additional cash payment under title XVI of the Social Security Act \[this subchapter\] may be made pursuant to the third sentence of section 8(d) of Public Law 93–233 (as added by subsection (a) of this section) \[amending a note under this section\] for any month beginning before October 1, 1978, or ending after September 30, 1979.”
+Pub. L. 95–458, §5(b), Oct. 14, 1978, 92 Stat. 1261, provided that: “No additional cash payment under titleXVI of the Social Security Act \[this subchapter\] may be made pursuant to the third sentence of section 8(d) of Public Law 93–233 (as added by subsection (a) of this section) \[amending a note under this section\] for any month beginning before October 1, 1978, or ending after September 30, 1979.”
 
 #### Eligibility of Supplemental Security Income Recipients for Food Stamps
 
@@ -198,7 +198,7 @@ Section 8(f), formerly §8(e), of Pub. L. 93–233, as amended by Pub. L. 93–3
 
 \[Section 3 of Pub. L. 95–59 provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.\]
 
-\[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(f) of Pub. L. 93–233, set outabove, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
+\[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
 #### Commodity Distribution Program: Individual Receiving Supplemental Security Income Benefits as Member of Household for any Purpose of Program
 
@@ -248,7 +248,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 &emsp;“(2) the total of the amounts determined under sections 3, 1003, 1403, and 1603 of the Social Security Act \[sections 303, 1203, 1353, and 1383 note of this title\], under section 1118 of such Act \[section 1318 of this title\], and under section 9 of the Act of April 19, 1950 \[section 639 of Title 25, Indians\], for such State with respect to such expenditures in such quarters.
 
-“(d) In addition to the amount which a State must pay to the Secretary for the fiscal year 1983 or the fiscal year 1984, as determined under subsection (a), the State shall also pay, for the fiscal year 1983, 60 percent of the further amount that would be payable but for the limit specified in subsection (a), and, for the fiscal year1984, 80 percent of such further amount. For each fiscal year thereafter, the limit prescribed in subsection (a) shall be inapplicable and a State shall pay to the Secretary the full amount of any supplementary payments he makes on behalf of such State.”
+“(d) In addition to the amount which a State must pay to the Secretary for the fiscal year 1983 or the fiscal year 1984, as determined under subsection (a), the State shall also pay, for the fiscal year 1983, 60 percent of the further amount that would be payable but for the limit specified in subsection (a), and, for the fiscal year 1984, 80 percent of such further amount. For each fiscal year thereafter, the limit prescribed in subsection (a) shall be inapplicable and a State shall pay to the Secretary the full amount of any supplementary payments he makes on behalf of such State.”
 
 \[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–585 inserting parenthetical text in subpar. (B) and enacting last sentence, such amendments being identical to amendments by Pub. L. 94–566 less the words “and before July 1, 1979” following “June 30, 1977”, effective with respect to benefits payable for months after June 1977, see section 2(c) of Pub. L. 94–585, set out as a note under section 1382g of this title.\]
 

@@ -20,7 +20,7 @@ Section 641, act Aug. 14, 1935, ch. 531, title IV, §441, as added Jan. 2, 1968,
 
 Section 642, act Aug. 14, 1935, ch. 531, title IV, §442, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 888; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(10), 85 Stat. 808, related to technical assistance for providers of employment or training.
 
-Section 643, act Aug. 14, 1935, ch. 531, title IV, §443, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 888; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(11), 85 Stat. 808; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(B)(vi), 98 Stat. 1170, related to collection of State share.
+Section 643, act Aug. 14, 1935, ch. 531, title IV, §443, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 888; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(11),85 Stat. 808; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(j)(2)(B)(vi), 98 Stat. 1170, related to collection of State share.
 
 Section 644, act Aug. 14, 1935, ch. 531, title IV, §444, as added Jan. 2, 1968, Pub. L. 90–248, title II, §204(a), 81 Stat. 889; amended Dec. 28, 1971, Pub. L. 92–223, §3(b)(12), 85 Stat. 808; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(10), (j)(2)(B)(vii), 98 Stat. 1166, 1170, related to agreements with other agencies providing assistance to families of unemployed parents.
 

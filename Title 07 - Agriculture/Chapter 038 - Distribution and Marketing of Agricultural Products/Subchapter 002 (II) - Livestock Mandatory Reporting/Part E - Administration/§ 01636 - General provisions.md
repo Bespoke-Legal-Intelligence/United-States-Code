@@ -58,7 +58,7 @@ The Secretary shall, to the maximum extent practicable, provide for the reportin
 
 #### (1) In general
 
-&emsp;Livestock committed to a packer, or purchased, sold, or slaughtered by a packer, on aweekend day or holiday shall be reported by the packer to the Secretary (to the extent required under this subchapter), and reported by the Secretary, on the immediately following reporting day.
+&emsp;Livestock committed to a packer, or purchased, sold, or slaughtered by a packer, on a weekend day or holiday shall be reported by the packer to the Secretary (to the extent required under this subchapter), and reported by the Secretary, on the immediately following reporting day.
 
 #### (2) Limitation on reporting by packers
 

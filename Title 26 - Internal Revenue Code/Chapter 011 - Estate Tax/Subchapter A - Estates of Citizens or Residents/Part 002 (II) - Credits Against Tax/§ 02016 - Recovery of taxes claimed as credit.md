@@ -6,7 +6,7 @@ If any tax claimed as a credit under section 2011 or 2014 is recovered from any 
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(4), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, this section is temporarily amended by striking out “2011 or” before “2014 is recovered”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>Pub. L. 107–16, title V, §532(c)(4), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, this section is temporarily amended by striking out “2011 or” before “2014 is recov</i><i>ered”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 

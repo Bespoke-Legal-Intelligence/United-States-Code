@@ -52,7 +52,7 @@ In designing the program to be funded under this section, and in deciding the di
 
 #### (I) Library on assistive technology
 
-&emsp;&emsp;&emsp;&emsp;The site shall include access to a comprehensive working library on assistive technology for all environments, including home, workplace, transportation, and other environments.
+&emsp;&emsp;&emsp;&emsp;The site shall include access to a comprehensive working library on assistivetechnology for all environments, including home, workplace, transportation, and other environments.
 
 #### (II) Resources for a number of disabilities
 

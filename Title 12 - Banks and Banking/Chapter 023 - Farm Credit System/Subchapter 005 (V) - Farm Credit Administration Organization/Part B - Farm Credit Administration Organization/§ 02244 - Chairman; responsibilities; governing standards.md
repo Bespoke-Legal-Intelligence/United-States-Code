@@ -18,7 +18,7 @@
 
 #### (b) Governing standards
 
-In carrying out responsibilities under this chapter, the Chairman of the Board shall be governed by general policies adopted by the Board and by such regulatory decisions, findings, anddeterminations as the Board may by law be authorized to make and, as to third persons, all acts of the Chairman of the Board shall be conclusively presumed to be in compliance with such general policies and regulatory decisions, findings, and determinations.
+In carrying out responsibilities under this chapter, the Chairman of the Board shall be governed by general policies adopted by the Board and by such regulatory decisions, findings, and determinations as the Board may by law be authorized to make and, as to third persons, all acts of the Chairman of the Board shall be conclusively presumed to be in compliance with such general policies and regulatory decisions, findings, and determinations.
 
 #### (c) Enforcement of rules, regulations, and orders of Board; civil proceedings; representation by attorneys
 

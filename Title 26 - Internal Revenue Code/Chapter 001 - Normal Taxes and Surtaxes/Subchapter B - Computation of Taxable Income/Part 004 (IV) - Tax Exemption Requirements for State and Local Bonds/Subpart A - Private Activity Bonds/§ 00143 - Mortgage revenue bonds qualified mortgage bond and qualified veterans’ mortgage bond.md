@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, an issue shall not meet the requirement of subparagraph (A)(i) unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) all proceeds of the issue required to be used to finance owner-occupied residences are so used within the 42-month period beginning on the date of issuanceof the issue (or, in the case of a refunding bond, within the 42-month period beginning on the date of issuance of the original bond) or, to the extent not so used within such period, are used within such period to redeem bonds which are part of such issue, and
+&emsp;&emsp;&emsp;&emsp;(I) all proceeds of the issue required to be used to finance owner-occupied residences are so used within the 42-month period beginning on the date of issuance of the issue (or, in the case of a refunding bond, within the 42-month period beginning on the date of issuance of the original bond) or, to the extent not so used within such period, are used within such period to redeem bonds which are part of such issue, and
 
 &emsp;&emsp;&emsp;&emsp;(II) no portion of the proceeds of the issue are used to make or finance any loan (other than a loan which is a nonpurpose investment within the meaning of section 148(f)(6)(A)) after the close of such period.
 
@@ -310,7 +310,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
-&emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
+&emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent ofsuch aggregate amount not theretofore paid to the United States.
 
 #### (E) Simplified accounting
 
@@ -410,7 +410,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;&emsp;(i) the condition of the housing stock, including the age of the housing and the number of abandoned and substandard residential units,
 
-&emsp;&emsp;&emsp;(ii) the need of area residents for owner-financing under this section, as indicated by low per capita income, a high percentage of families in poverty, a high number of welfare recipients, and high unemployment rates,
+&emsp;&emsp;&emsp;(ii) the need of area residents for owner-financing under this section, as indicated by low per capita income, a high percentage of families in poverty, a high numberof welfare recipients, and high unemployment rates,
 
 &emsp;&emsp;&emsp;(iii) the potential for use of owner-financing under this section to improve housing conditions in the area, and
 
@@ -678,7 +678,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (1) In general
 
-&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respect to which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
+&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respectto which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
 
 &emsp;&emsp;(A) the recapture amount with respect to such indebtedness, or
 
@@ -824,7 +824,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;For purposes of paragraph (4), the term “modified adjusted gross income” means adjusted gross income—
 
-&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is excluded from gross income under section 103, and
+&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer duringthe taxable year which is excluded from gross income under section 103, and
 
 &emsp;&emsp;&emsp;(ii) decreased by the amount of gain (if any) included in gross income of the taxpayer by reason of the disposition to which this subsection applies.
 
@@ -900,7 +900,7 @@ Subsec. (m)(6)(A). Pub. L. 105–34, §312(d)(3), inserted “(as in effect on t
 
 1996—Subsec. (d)(2)(C). Pub. L. 104–188, §1703(n)(3), substituted “thereon,” for “thereon.”.
 
-Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted “any year of the 4-year period” for “any month of the 10-year period”, “succeeding years” for “succeeding months”, and “to zero over the succeeding5 years” for “over the remainder of such period (or, if lesser, over 5 years)”.
+Subsec. (m)(4)(C)(ii). Pub. L. 104–188, §1702(d)(2), substituted “any year of the 4-year period” for “any month of the 10-year period”, “succeeding years” for “succeeding months”, and “to zero over the succeeding 5 years” for “over the remainder of such period (or, if lesser, over 5 years)”.
 
 1993—Subsec. (a)(1). Pub. L. 103–66, §13141(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
@@ -988,7 +988,7 @@ Subsec. (f)(6). Pub. L. 100–647, §4005(c), added par. (6).
 
 Subsec. (g)(1). Pub. L. 100–647, §4005(d)(1), substituted “paragraph (2) of this subsection and, in the case of an issue described in subsection (b)(1), such issue also meets the requirements of paragraph (3) of this subsection” for “paragraphs (2) and (3) of this subsection” and struck out “(other than subsection (f) thereof)” before period at end.
 
-Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end “The Secretary may by regulation adjust the mortgage prepayment rate otherwise used in determining the effective rate of interest to the extent the Secretary determines that such an adjustment is appropriate by reason of the impact of subsection (m).”
+Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end “The Secretary may by regulation adjust the mortgage prepayment rate otherwise used in determining the effective rate of interest to the extent theSecretary determines that such an adjustment is appropriate by reason of the impact of subsection (m).”
 
 Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
@@ -998,7 +998,7 @@ Amendment by section 312(d)(1), (3) of Pub. L. 105–34 applicable to sales and 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1702(d)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue ReconciliationAct of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(d)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 Amendment by section 1703(n)(3) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(B) the extent to which the applicant is committed to making the program a central organizational focus;
 
-&emsp;&emsp;(C) the degree to which the proposed programming will enable scholarship or stipendrecipients to become successful mathematics and science teachers;
+&emsp;&emsp;(C) the degree to which the proposed programming will enable scholarship or stipend recipients to become successful mathematics and science teachers;
 
 &emsp;&emsp;(D) the number and quality of the students that will be served by the program; and
 
@@ -140,7 +140,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (2) Amount of repayment
 
-&emsp;(A) If a circumstance described in paragraph (1) occurs before the completion of one year ofa service obligation under this section, the United States shall be entitled to recover from the individual, within one year after the date of the occurrence of such circumstance, an amount equal to—
+&emsp;(A) If a circumstance described in paragraph (1) occurs before the completion of one year of a service obligation under this section, the United States shall be entitled to recover from the individual, within one year after the date of the occurrence of such circumstance, an amount equal to—
 
 &emsp;&emsp;(i) the total amount of awards received by such individual under this section; plus
 

@@ -48,7 +48,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 #### (f) Cost accounting standards authority
 
-(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretations thereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
+(1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretationsthereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
 
 (2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of $500,000.
 
@@ -64,7 +64,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (C) In this paragraph, the term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor.
 
-(3) The Administrator, after consultation with the Board, shall prescribe rules and procedures governing actions of the Board under this section. Such rules and procedures shall require that any cost accounting standard promulgated,amended, or rescinded (and interpretations thereof) shall be adopted by majority vote of the Board members.
+(3) The Administrator, after consultation with the Board, shall prescribe rules and procedures governing actions of the Board under this section. Such rules and procedures shall require that any cost accounting standard promulgated, amended, or rescinded (and interpretations thereof) shall be adopted by majority vote of the Board members.
 
 (4) The Board is authorized—
 
@@ -126,7 +126,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 (2) If the United States and a contractor or subcontractor fail to agree on a contract price adjustment, including whether the contractor or subcontractor has complied with the applicable cost accounting standards, the disagreement will constitute a dispute under the Contract Disputes Act \[41 U.S.C. 601 et seq.\].
 
-(3) Any contract price adjustment undertaken pursuant to paragraph (1)(B) shall be made, where applicable, on relevant contracts between the United States and the contractor that are subject to the cost accounting standards so as to protect the United States from payment, in the aggregate, of increased costs (as defined by theBoard). In no case shall the Government recover costs greater than the increased cost (as defined by the Board) to the Government, in the aggregate, on the relevant contracts subject to the price adjustment, unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Government.
+(3) Any contract price adjustment undertaken pursuant to paragraph (1)(B) shall be made, where applicable, on relevant contracts between the United States and the contractor that are subject to the cost accounting standards so as to protect the United States from payment, in the aggregate, of increased costs (as defined by the Board). In no case shall the Government recover costs greater than the increased cost (as defined by the Board) to the Government, in the aggregate, on the relevant contracts subject to the price adjustment, unless the contractor made a change in its cost accounting practices of which it was aware or should have been aware at the time of the price negotiation and which it failed to disclose to the Government.
 
 (4) The interest rate applicable to any contract price adjustment shall be the annual rate of interest established under section 6621 of title 26 for such period. Such interest shall accrue from the time payments of the increased costs were made to the contractor or subcontractor to the time the United States receives full compensation for the price adjustment.
 
@@ -248,7 +248,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 9009.
+This section is referred to in section 428a of this title; title 5 section 9009.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

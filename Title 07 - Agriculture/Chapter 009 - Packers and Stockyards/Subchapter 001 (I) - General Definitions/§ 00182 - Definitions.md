@@ -18,7 +18,7 @@ When used in this chapter—
 
 &emsp;(8) The term “poultry grower” means any person engaged in the business of raising and caring for live poultry for slaughter by another, whether the poultry is owned by such person or by another, but not an employee of the owner of such poultry;
 
-&emsp;(9) The term “poultry growing arrangement” means any growout contract, marketingagreement, or other arrangement under which a poultry grower raises and cares for live poultry for delivery, in accord with another's instructions, for slaughter;
+&emsp;(9) The term “poultry growing arrangement” means any growout contract, marketing agreement, or other arrangement under which a poultry grower raises and cares for live poultry for delivery, in accord with another's instructions, for slaughter;
 
 &emsp;(10) The term “live poultry dealer” means any person engaged in the business of obtaining live poultry by purchase or under a poultry growing arrangement for the purpose of either slaughtering it or selling it for slaughter by another, if poultry is obtained by such person in commerce, or if poultry obtained by such person is sold or shipped in commerce, or if poultry products from poultry obtained by such person are sold or shipped in commerce; and
 

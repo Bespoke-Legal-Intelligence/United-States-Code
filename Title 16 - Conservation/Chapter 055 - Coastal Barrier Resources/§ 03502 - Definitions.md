@@ -46,7 +46,7 @@ Par. (3). Pub. L. 106–514, §4(a)(2), substituted “Such” for “Effective 
 
 1999—Pars. (6), (7). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
 
-1990—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) of title 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
+1990—Par. (1). Pub. L. 101–591, §2(c), in concluding provisions, struck out cl. (i) designation, inserted a period after “processes”, and struck out at end “, and (ii) are not included within the boundaries of an area established under Federal, State, or local law, or held by a qualified organization as defined in section 170(h)(3) oftitle 26, primarily for wildlife refuge, sanctuary, recreational, or natural resource conservation purposes.”
 
 Par. (1)(A). Pub. L. 101–591, §2(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “consists of unconsolidated sedimentary materials,”.
 

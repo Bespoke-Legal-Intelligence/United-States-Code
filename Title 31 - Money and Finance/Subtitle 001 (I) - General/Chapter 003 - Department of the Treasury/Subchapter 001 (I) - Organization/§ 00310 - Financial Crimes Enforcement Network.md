@@ -94,7 +94,7 @@ The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(2), is ti
 
 #### Prior Provisions
 
-A prior section 310 was renumbered section 311 of this title.
+A prior section 310 was renumbered section 312 of this title.
 
 #### Termination Date
 

@@ -22,7 +22,7 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 #### (e) Rules and regulations; vessels; “ocean thermal energy conversion facility” defined
 
-(1) The Secretary of the department in which the Coast Guard is operating shall promulgate and enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration,equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
+(1) The Secretary of the department in which the Coast Guard is operating shall promulgate and enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration, equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
 
 (2) Within 1 year after August 3, 1980, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations under paragraph (1) of this subsection which require that any ocean thermal energy conversion facility or plantship—
 

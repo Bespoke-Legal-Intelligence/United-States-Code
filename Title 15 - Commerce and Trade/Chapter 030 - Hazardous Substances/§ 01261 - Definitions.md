@@ -30,7 +30,7 @@ For the purposes of this chapter—
 
 (g) The term “toxic” shall apply to any substance (other than a radioactive substance) which has the capacity to produce personal injury or illness to man through ingestion, inhalation, or absorption through any body surface.
 
-(h)(1) The term “highly toxic” means any substance which falls within any of the following categories: (a) Produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, at a single dose of fifty milligrams or less per kilogram of body weight, when orally administered; or (b) produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, when inhaled continuously for a period of one hour or less at an atmospheric concentration of two hundred parts per million by volume or less of gas or vapor or two milligrams per liter by volume or less of mist or dust, provided such concentration is likely to be encountered by man when the substance is used in any reasonably foreseeable manner; or (c) produces death withinfourteen days in half or more than half of a group of ten or more rabbits tested in a dosage of two hundred milligrams or less per kilogram of body weight, when administered by continuous contact with the bare skin for twenty-four hours or less.
+(h)(1) The term “highly toxic” means any substance which falls within any of the following categories: (a) Produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, at a single dose of fifty milligrams or less per kilogram of body weight, when orally administered; or (b) produces death within fourteen days in half or more than half of a group of ten or more laboratory white rats each weighing between two hundred and three hundred grams, when inhaled continuously for a period of one hour or less at an atmospheric concentration of two hundred parts per million by volume or less of gas or vapor or two milligrams per liter by volume or less of mist or dust, provided such concentration is likely to be encountered by man when the substance is used in any reasonably foreseeable manner; or (c) produces death within fourteen days in half or more than half of a group of ten or more rabbits tested in a dosage of two hundred milligrams or less per kilogram of body weight, when administered by continuous contact with the bare skin for twenty-four hours or less.
 
 (2) If the Commission finds that available data on human experience with any substance indicate results different from those obtained on animals in the above-named dosages or concentrations, the human data shall take precedence.
 
@@ -54,7 +54,7 @@ For the purposes of this chapter—
 
 (<i>o</i>) The term “immediate container” does not include package liners.
 
-(p) The term “misbranded hazardous substance” means a hazardous substance (including a toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted) intended, or packaged in a form suitable, for use in the household or by children, if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance, except as otherwise provided by or pursuant to section 1262 of this title, fails to bear a label—
+(p) The term “misbranded hazardous substance” means a hazardous substance (including a toy, or other article intended for use by children, which is a hazardous substance, or which bears or contains a hazardous substance in such manner as to be susceptible of access by a child to whom such toy or other article is entrusted) intended, or packaged in a form suitable, for use in the household or by children, if the packagingor labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance, except as otherwise provided by or pursuant to section 1262 of this title, fails to bear a label—
 
 &emsp;(1) which states conspicuously (A) the name and place of business of the manufacturer, packer, distributor or seller; (B) the common or usual name or the chemical name (if there be no common or usual name) of the hazardous substance or of each component which contributes substantially to its hazard, unless the Commission by regulation permits or requires the use of a recognized generic name; (C) the signal word “DANGER” on substances which are extremely flammable, corrosive, or highly toxic; (D) the signal word “WARNING” or “CAUTION” on all other hazardous substances; (E) an affirmative statement of the principal hazard or hazards, such as “Flammable”, “Combustible”, “Vapor Harmful”, “Causes Burns”, “Absorbed Through Skin”, or similar wording descriptive of the hazard; (F) precautionary measures describing the action to be followed or avoided, except when modified by regulation of the Commission pursuant to section 1262 of this title; (G) instruction, when necessary or appropriate, for first-aid treatment; (H) the word “poison” for any hazardous substance which is defined as “highly toxic” by subsection (h) of this section; (I) instructions for handling and storage of packages which require special care in handling or storage; and (J) the statement (i) “Keep out of the reach of children” or its practical equivalent, or, (ii) if the article is intended for use by children and is not a banned hazardous substance, adequate directions for the protection of children from the hazard, and
 
@@ -72,7 +72,7 @@ For the purposes of this chapter—
 
 (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
+(Pub. L. 86–613, §2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, §6(a), formerly §7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, §3(1), Oct. 21,1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, §9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, §109(d)(1), June 19, 1986, 100 Stat. 653.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ Subsec. (c), which read “The term ‘Department’ means the Department of Hea
 
 1986—Subsec. (f)(1)(E). Pub. L. 99–339 added subpar. (E).
 
-1978—Subsec. (<i>l</i>). Pub. L. 95–631 transferred the duties hereunder to the Commission from the Secretary; incorporated in provisions designated par. (1) existing text, authorized regulations to be applicable to liquids, and struck out definition of “extremely flammable” as substance with flash point at or below twenty degrees Fahrenheit and “flammable” as substance with a flashpoint of above twenty degrees to and including eighty degrees Fahrenheit, as determined by the Tagliabue Open Cup Tester; incorporated in provisions designated par. (2) existing text extended to liquids covered in term “substance”; added par. (3); and incorporated in provisions designated par. (4) existing text applicable until superseded by regulation.
+1978—Subsec. (<i>l</i>). Pub. L. 95–631 transferred the duties hereunder to the Commission from the Secretary; incorporated in provisions designated par. (1) existing text, authorized regulations to be applicable to liquids, and struck out definition of “extremely flammable” as substance with flash point at or below twenty degrees Fahrenheit and “flammable” as substance with a flash point of above twenty degrees to and including eighty degrees Fahrenheit, as determined by the Tagliabue Open Cup Tester; incorporated in provisions designated par. (2) existing text extended to liquids covered in term “substance”; added par. (3); and incorporated in provisions designated par. (4) existing text applicable until superseded by regulation.
 
 1976—Subsec. (f)(2). Pub. L. 94–284 inserted “nor to tobacco and tobacco products,” after “or refrigeration system of a house”.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establish
 
 #### Effective Date of 1969 Amendment
 
-Section 5 of Pub. L. 91–113 provided that: “The amendments made by this Act \[see Short Title of 1969 Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
+Section 5 of Pub. L. 91–113 provided that: “The amendments made by this Act \[see Short Title of 1969Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
 
 #### Effective Date
 
@@ -164,7 +164,7 @@ Section 1 of Pub. L. 89–756 provided that: “This title \[probably means this
 
 #### Short Title
 
-Section 1 of Pub. L. 86–613, as amended by section 5 of Pub. L. 89–756, provided: “This Act \[enacting thischapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\], may be cited as the ‘Federal Hazardous Substances Act’.”
+Section 1 of Pub. L. 86–613, as amended by section 5 of Pub. L. 89–756, provided: “This Act \[enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\], may be cited as the ‘Federal Hazardous Substances Act’.”
 
 #### Separability
 

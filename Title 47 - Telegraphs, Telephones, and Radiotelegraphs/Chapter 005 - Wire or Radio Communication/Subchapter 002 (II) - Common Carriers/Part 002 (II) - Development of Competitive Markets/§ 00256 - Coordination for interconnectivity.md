@@ -8,7 +8,7 @@ It is the purpose of this section—
 
 &emsp;&emsp;(A) coordinated public telecommunications network planning and design by telecommunications carriers and other providers of telecommunications service; and
 
-&emsp;&emsp;(B) public telecommunications network interconnectivity, and interconnectivity of devices with such networks used to provide telecommunications service; and
+&emsp;&emsp;(B) public telecommunications network interconnectivity, and interconnectivity ofdevices with such networks used to provide telecommunications service; and
 
 &emsp;(2) to ensure the ability of users and information providers to seamlessly and transparently transmit and receive information between and across telecommunications networks.
 
@@ -16,7 +16,7 @@ It is the purpose of this section—
 
 In carrying out the purposes of this section, the Commission—
 
-&emsp;(1) shall establish procedures for Commission oversight of coordinated network planning by telecommunications carriers and other providers of telecommunications service for the effective and efficient interconnectionof public telecommunications networks used to provide telecommunications service; and
+&emsp;(1) shall establish procedures for Commission oversight of coordinated network planning by telecommunications carriers and other providers of telecommunications service for the effective and efficient interconnection of public telecommunications networks used to provide telecommunications service; and
 
 &emsp;(2) may participate, in a manner consistent with its authority and practice prior to February 8, 1996, in the development by appropriate industry standards-setting organizations of public telecommunications network interconnectivity standards that promote access to—
 

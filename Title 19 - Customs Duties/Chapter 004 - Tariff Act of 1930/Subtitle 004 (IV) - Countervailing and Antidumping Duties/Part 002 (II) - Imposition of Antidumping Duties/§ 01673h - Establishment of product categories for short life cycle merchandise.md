@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (4) Short life cycle merchandise
 
-&emsp;The term “short life cycle merchandise” means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available. For purposes of this paragraph, the term “outmoded” refers to a kind of style that is no longer state-of-the-art.
+&emsp;The term “short life cycle merchandise” means any product that the Commission determines is likely to become outmoded within 4 years, by reason of technological advances, after the product is commercially available.For purposes of this paragraph, the term “outmoded” refers to a kind of style that is no longer state-of-the-art.
 
 #### (c) Transitional rules
 

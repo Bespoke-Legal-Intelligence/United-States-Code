@@ -84,7 +84,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (3) Nonmarket based trade
 
-&emsp;As used in section 2295a(b)(5) of this title, the term “nonmarket based trade” includes exports, imports, exchanges, or other arrangements that are provided for goods and services (including oil and other petroleum products)on terms more favorable than those generally available in applicable markets or for comparable commodities, including—
+&emsp;As used in section 2295a(b)(5) of this title, the term “nonmarket based trade” includes exports, imports, exchanges, or other arrangements that are provided for goods and services (including oil and other petroleum products) on terms more favorable than those generally available in applicable markets or for comparable commodities, including—
 
 &emsp;&emsp;(A) exports to the Cuban Government on terms that involve a grant, concessional price, guaranty, insurance, or subsidy;
 
@@ -140,7 +140,7 @@ Functions of President under subsecs. (h) and (i) of this section delegated by s
 
 #### Trans-Caucasus Enterprise Fund
 
-Pub. L. 104–107, title II, \[(t)\], Feb. 12, 1996, 110 Stat. 714, provided that: “The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: <i>Provided</i>, That the President shall seek other bilateral and multilateral investors in the Fund: <i>Provided further</i>, That of the funds made available under this heading \[
+Pub. L. 104–107, title II, \[(t)\], Feb. 12, 1996, 110 Stat. 714, provided that: “The President shall establish a Trans-Caucasus Enterprise Fund to encourage regional peace through economic cooperation: <i>Provided</i>, Thatthe President shall seek other bilateral and multilateral investors in the Fund: <i>Provided further</i>, That of the funds made available under this heading \[
 
 Other Bilateral Economic Assistance, assistance for the new independent states of the former soviet union, see 110 Stat. 712\], not less than $15,000,000 shall be made available for a United States investment in the Trans-Caucasus Enterprise Fund.”
 

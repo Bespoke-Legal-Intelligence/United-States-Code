@@ -4,11 +4,11 @@ Upon a basis of reciprocity secured by agreement entered into by the President o
 
 (June 18, 1954, ch. 323, 68 Stat. 264.)
 
-#### Codification
-
-Section was not enacted as a part of the Immigration and Nationality Act which comprises this chapter.
-
 #### References in Text
 
 The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+
+#### Codification
+
+Section was not enacted as a part of the Immigration and Nationality Act which comprises this chapter.
 

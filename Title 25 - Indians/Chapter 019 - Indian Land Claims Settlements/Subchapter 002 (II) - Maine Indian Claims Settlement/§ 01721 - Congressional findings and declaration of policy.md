@@ -58,7 +58,7 @@ Pub. L. 102–171, Nov. 26, 1991, 105 Stat. 1143, provided that:
 
 Findings and Policy.—Congress hereby finds and declares that:
 
-&emsp;“(1) The Aroostook Band of Micmacs, as represented as of the time of passage of this Act by the Aroostook Micmac Council, is the sole successor ininterest, as to lands within the United States, to the aboriginal entity generally known as the Micmac Nation which years ago claimed aboriginal title to certain lands in the State of Maine.
+&emsp;“(1) The Aroostook Band of Micmacs, as represented as of the time of passage of this Act by the Aroostook Micmac Council, is the sole successor in interest, as to lands within the United States, to the aboriginal entity generally known as the Micmac Nation which years ago claimed aboriginal title to certain lands in the State of Maine.
 
 &emsp;“(2) The Band was not referred to in the Maine Indian Claims Settlement Act of 1980 \[25 U.S.C. 1721 et seq.\] because historical documentation of the Micmac presence in Maine was not available at that time.
 

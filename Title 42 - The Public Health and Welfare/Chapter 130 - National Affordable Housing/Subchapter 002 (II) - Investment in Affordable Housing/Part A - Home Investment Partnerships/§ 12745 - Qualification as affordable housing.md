@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) the rent for the unit is not greater than the existing fair market rent for comparable units in the area, as established by the Secretary under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under thisparagraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effective manner that will improve the provision of affordable housing for such families.
+&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under this paragraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effective manner that will improve the provision of affordable housing for such families.
 
 #### (B) Eligible families
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 105–276 made on, and applicable beginning upon, Oct. 21, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out thissubchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4851b, 12705, 12750 of this title.
+This section is referred to in sections 4851b, 12705, 12750, 12821 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

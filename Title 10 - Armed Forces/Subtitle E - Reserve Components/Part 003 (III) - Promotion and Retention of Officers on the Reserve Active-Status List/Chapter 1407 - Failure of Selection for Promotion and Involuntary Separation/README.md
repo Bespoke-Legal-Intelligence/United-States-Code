@@ -20,10 +20,13 @@
 | [14516\.](%C2%A7%2014516%20-%20Separation%20to%20be%20considered%20involuntary.md) | Separation to be considered involuntary. |
 | [14517\.](%C2%A7%2014517%20-%20Entitlement%20of%20officers%20discharged%20under%20this%20chapter%20to%20separation%20pay.md) | Entitlement of officers discharged under this chapter to separation pay. |
 | [14518\.](%C2%A7%2014518%20-%20Continuation%20of%20officers%20to%20complete%20disciplinary%20action.md) | Continuation of officers to complete disciplinary action. |
+| [14519\.](%C2%A7%2014519%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md) | Deferment of retirement or separation for medical reasons. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §522(b), Dec. 2, 2002, 116 Stat. 2541, added item 14519.
 
 2001—Pub. L. 107–107, div. A, title V, §517(b)(2)(B), Dec. 28, 2001, 115 Stat. 1094, substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in item 14513.
 
@@ -58,3 +61,4 @@ This chapter is referred to in sections 12645, 12646, 12647, 14001, 14006, 14703
 - [&sect; 14516 - Separation to be considered involuntary](%C2%A7%2014516%20-%20Separation%20to%20be%20considered%20involuntary.md)
 - [&sect; 14517 - Entitlement of officers discharged under this chapter to separation pay](%C2%A7%2014517%20-%20Entitlement%20of%20officers%20discharged%20under%20this%20chapter%20to%20separation%20pay.md)
 - [&sect; 14518 - Continuation of officers to complete disciplinary action](%C2%A7%2014518%20-%20Continuation%20of%20officers%20to%20complete%20disciplinary%20action.md)
+- [&sect; 14519 - Deferment of retirement or separation for medical reasons](%C2%A7%2014519%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md)

@@ -46,7 +46,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(13) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, who underwent a dental screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
 
-&emsp;(14) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, over the age of 40 who underwent a full physical examination during the previous fiscal year for purposes of section 1117 of ANGCRRA.
+&emsp;(14) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, overthe age of 40 who underwent a full physical examination during the previous fiscal year for purposes of section 1117 of ANGCRRA.
 
 &emsp;(15) The number of units of the Army National Guard that are scheduled for early deployment in the event of a mobilization and, of those units, the number that are dentally ready for deployment in accordance with section 1118 of ANGCRRA.
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

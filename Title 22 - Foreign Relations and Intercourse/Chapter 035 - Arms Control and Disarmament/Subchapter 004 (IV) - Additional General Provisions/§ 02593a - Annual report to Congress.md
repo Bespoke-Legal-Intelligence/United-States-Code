@@ -84,6 +84,10 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 Amendment by section 828(a) of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
 #### Requirement for Transmittal of Summaries
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations of the House of Representatives promptly.”
@@ -94,7 +98,7 @@ Pub. L. 105–261, div. A, title XV, §1502, Oct. 17, 1998, 112 Stat. 2171, as a
 
 “(a)
 
-Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basis reports containing classified summaries of arms control developments.
+Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basisreports containing classified summaries of arms control developments.
 
 “(b)
 

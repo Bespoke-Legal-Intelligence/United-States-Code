@@ -50,7 +50,7 @@
 
 #### (3) Limitation
 
-&emsp;If the application of paragraph (2) would result in any of the 50 States or the District ofColumbia receiving less under this subpart than it received under this subpart for the preceding fiscal year, then the percentage described in paragraph (1)(A) that is used for the Commonwealth of Puerto Rico for the fiscal year for which the determination is made shall be the greater of—
+&emsp;If the application of paragraph (2) would result in any of the 50 States or the District of Columbia receiving less under this subpart than it received under this subpart for the preceding fiscal year, then the percentage described in paragraph (1)(A) that is used for the Commonwealth of Puerto Rico for the fiscal year for which the determination is made shall be the greater of—
 
 &emsp;&emsp;(A) the percentage in paragraph (1)(A) for such fiscal year; or
 

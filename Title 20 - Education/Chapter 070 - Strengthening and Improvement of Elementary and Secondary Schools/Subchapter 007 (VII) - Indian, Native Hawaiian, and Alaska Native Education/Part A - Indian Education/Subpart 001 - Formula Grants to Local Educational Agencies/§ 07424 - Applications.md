@@ -12,7 +12,7 @@ Each application submitted under subsection (a) of this section shall include a 
 
 &emsp;(2)(A) is consistent with the State and local plans submitted under other provisions of this chapter; and
 
-&emsp;(B) includes academic content and student academic achievement goals for such children, and benchmarks for attaining such goals, that are based on the challenging State academiccontent and student academic achievement standards adopted under subchapter I of this chapter for all children;
+&emsp;(B) includes academic content and student academic achievement goals for such children, and benchmarks for attaining such goals, that are based on the challenging State academic content and student academic achievement standards adopted under subchapter I of this chapter for all children;
 
 &emsp;(3) explains how Federal, State, and local programs, especially programs carried out under subchapter I of this chapter, will meet the needs of such students;
 

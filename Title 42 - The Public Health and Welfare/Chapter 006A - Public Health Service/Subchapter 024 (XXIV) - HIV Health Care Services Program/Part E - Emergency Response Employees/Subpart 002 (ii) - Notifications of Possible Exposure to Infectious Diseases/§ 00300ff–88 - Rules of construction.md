@@ -2,7 +2,7 @@
 
 #### (a) Liability of medical facilities and designated officers
 
-This subpart may not be construed to authorize any cause of action for damages or any civil penalty against any medical facility, or any designated officer, for failure to comply with the duties established in this subpart.
+This subpart may not be construed to authorize any cause of action for damages or any civilpenalty against any medical facility, or any designated officer, for failure to comply with the duties established in this subpart.
 
 #### (b) Testing
 

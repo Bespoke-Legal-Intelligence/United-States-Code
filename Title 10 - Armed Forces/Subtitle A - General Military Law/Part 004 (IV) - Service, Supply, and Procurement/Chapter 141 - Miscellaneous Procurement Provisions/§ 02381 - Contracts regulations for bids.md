@@ -12,9 +12,9 @@
 
 &emsp;(2) charge against the defaulting bidder and his guarantors the difference between the amount specified by the bidder in his bid and the amount for which a contract is made with the other person, this difference being immediately recoverable by the United States for the use of the military department concerned in an action against the bidder and his guarantors, jointly or severally.
 
-(c) Proceedings under this section are subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), unless exempted therefrom under section 201(a) of that Act (40 U.S.C. 481(a)).
+(c) Proceedings under this section are subject to regulations under section 121 of title 40, unless exempted therefrom under section 501(a)(2) of title 40.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 136; Pub. L. 98–525, title XIV, §1405(35), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 103–355, title I, §1507, Oct. 13, 1994, 108 Stat. 3298.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 136; Pub. L. 98–525, title XIV, §1405(35), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 103–355, title I, §1507, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 107–217, §3(b)(6), Aug. 21, 2002, 116 Stat. 1295.)
 
 Historical and Revision Notes
 
@@ -48,7 +48,7 @@ In subsection (a)(1), the word “may” is substituted for the words “is auth
 
 In subsection (a)(2), the word “undertaking” is substituted for the words “to the effect that he or they undertake”. The words “make a contract” are inserted for clarity. The words “in the premises” are omitted as surplusage. The words “for the performance of the contract” are substituted for the words “to furnish the supplies proposed or to perform the service required”.
 
-In subsection (b), the word “duly” is omitted as surplusage. The words “with good and sufficient security for the proper fulfillment of its terms” are omitted ascovered by subsection (a)(2). The words “the prescribed” are inserted before the word “bond”.
+In subsection (b), the word “duly” is omitted as surplusage. The words “with good and sufficient security for the proper fulfillment of its terms” are omitted as covered by subsection (a)(2). The words “the prescribed” are inserted before the word “bond”.
 
 Subsection (b)(1) is substituted for the words “proceed to contract with some other person to furnish the supplies or perform the services required”.
 
@@ -57,6 +57,8 @@ In subsection (b)(2) the word “charge” is substituted for the words “forth
 In subsection (c), the words “Proceedings under this section are” are inserted for clarity. The words “unless exempted therefrom under section 481(a) of that title” are inserted to preserve the possibility of exemption of proceedings under the revised section from the provisions of the Federal Property and Administrative Services Act of 1949, as amended.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” and “section 501(a)(2) of title 40” for “section 201(a) of that Act (40 U.S.C. 481(a))”.
 
 1994—Subsec. (a). Pub. L. 103–355 substituted “The Secretary of Defense may—
 

@@ -10,13 +10,13 @@ Incurring Obligations.—The Secretary may incur obligations to make grants from
 
 (c)
 
-Expiration of Authority.—After September 30, 2003, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
+Expiration of Authority.—After September 30, 2007, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts—
 
 &emsp;(1) remaining available after that date under section 47117(b) of this title; or
 
 &emsp;(2) recovered by the United States Government from grants made under this chapter if the amounts are obligated only for increases under section 47108(b)(2) and (3) of this title in the maximum amount of obligations of the Government for any other grant made under this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1252; Pub. L. 103–305, title I, §101(b), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 103–429, §6(63), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §101(b), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(2), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(b), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(b), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(b), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(b), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(b), Dec. 12, 2003, 117 Stat. 2494.)
 
 Historical and Revision Notes
 
@@ -80,7 +80,9 @@ In subsection (c), the text of section 109(b) of the Airport Improvement Program
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–181 substituted “After September 30, 2003,” for “After September 30, 1999,”.
+2003—Subsec. (c). Pub. L. 108–176 substituted “September 30, 2007” for “September 30, 2003” in introductory provisions.
+
+2000—Subsec. (c). Pub. L. 106–181 substituted “September 30, 2003,” for “September 30, 1999,” in introductory provisions.
 
 1999—Subsec. (c). Pub. L. 106–59 substituted “September 30, 1999” for “August 6, 1999” in introductory provisions.
 
@@ -95,6 +97,10 @@ Pub. L. 106–6 substituted “May” for “March” in introductory provisions
 1994—Subsec. (c). Pub. L. 103–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After September 30, 1996, the Secretary may not incur obligations under subsection (b) of this section, except for obligations of amounts remaining available after that date under section 47117(b) of this title.”
 
 Pub. L. 103–305 substituted “After September 30, 1996, the Secretary” for “After September 30, 1993, the Secretary”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

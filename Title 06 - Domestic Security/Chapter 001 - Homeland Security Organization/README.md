@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [101\.](%C2%A7%2000101%20-%20Definitions.md) | Definitions. |
 | [102\.](%C2%A7%2000102%20-%20Construction%3B%20severability.md) | Construction; severability. |
+| [103\.](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md) | Use of appropriated funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -439,11 +440,7 @@
 
 |  |  |
 | :--- | ---: |
-| [371\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20B%20-%20Inspector%20General/%C2%A7%2000371%20-%20Authority%20of%20the%20Secretary.md) | Authority of the Secretary. |
-| (a) | In general. |
-| (b) | Prohibition of certain investigations. |
-| (c) | Notification required. |
-| (d) | Access to information by Congress. |
+| [371\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20B%20-%20Inspector%20General/%C2%A7%2000371%20-%20Repealed.%20Pub.%20L.%20108%E2%80%937%2C%20div.%20L%2C%20%C2%A7104%28c%29%281%29%2C%20Feb.%2020%2C%202003%2C%20117%20Stat.%20531.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -560,6 +557,7 @@
 | (a) | Disposal of property. |
 | (b) | Gifts. |
 | (c) | Budget request. |
+| [453a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000453a%20-%20Additional%20uses%20of%20appropriated%20funds.md) | Additional uses of appropriated funds. |
 | [454\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000454%20-%20Future%20Years%20Homeland%20Security%20Program.md) | Future Years Homeland Security Program. |
 | (a) | In general. |
 | (b) | Contents. |
@@ -587,6 +585,11 @@
 | [464\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464%20-%20Federal%20Law%20Enforcement%20Training%20Center.md) | Federal Law Enforcement Training Center. |
 | (a) | In general. |
 | (b) | Continuity of operations. |
+| [464a.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464a%20-%20Acceptance%20and%20use%20of%20gifts.md) | Acceptance and use of gifts. |
+| [464b.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464b%20-%20Staffing%20accreditation%20function.md) | Staffing accreditation function. |
+| [464c.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464c%20-%20Student%20housing.md) | Student housing. |
+| [464d.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464d%20-%20Additional%20funds%20for%20training.md) | Additional funds for training. |
+| [464e.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000464e%20-%20Short-term%20medical%20services%20for%20students.md) | Short-term medical services for students. |
 | [465\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000465%20-%20Joint%20Interagency%20Task%20Force.md) | Joint Interagency Task Force. |
 | (a) | Establishment. |
 | (b) | Structure. |
@@ -606,6 +609,7 @@
 | (g) | Direct reporting to Secretary. |
 | (h) | Operation as a service in the Navy. |
 | (i) | Report on accelerating the Integrated Deepwater System. |
+| [469\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000469%20-%20Fees%20for%20credentialing%20and%20background%20investigations%20in%20transportation.md) | Fees for credentialing and background investigations in transportation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -716,6 +720,7 @@
 | (d) | References. |
 | (e) | Employment provisions. |
 | (f) | Statutory reporting requirements. |
+| [552a.](Subchapter%20012%20%28XII%29%20-%20Transition/Part%20B%20-%20Transitional%20Provisions/%C2%A7%2000552a%20-%20Savings%20provision%20of%20certain%20transfers%20made%20under%20the%20Homeland%20Security%20Act%20of%202002.md) | Savings provision of certain transfers made under the Homeland Security Act of 2002. |
 | [553\.](Subchapter%20012%20%28XII%29%20-%20Transition/Part%20B%20-%20Transitional%20Provisions/%C2%A7%2000553%20-%20Terminations.md) | Terminations. |
 | [554\.](Subchapter%20012%20%28XII%29%20-%20Transition/Part%20B%20-%20Transitional%20Provisions/%C2%A7%2000554%20-%20National%20identification%20system%20not%20authorized.md) | National identification system not authorized. |
 | [555\.](Subchapter%20012%20%28XII%29%20-%20Transition/Part%20B%20-%20Transitional%20Provisions/%C2%A7%2000555%20-%20Continuity%20of%20Inspector%20General%20oversight.md) | Continuity of Inspector General oversight. |
@@ -724,6 +729,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 40 section 1315.
+
 
 ---
 
@@ -731,6 +740,7 @@
 
 - [&sect; 00101 - Definitions](%C2%A7%2000101%20-%20Definitions.md)
 - [&sect; 00102 - Construction; severability](%C2%A7%2000102%20-%20Construction%3B%20severability.md)
+- [&sect; 00103 - Use of appropriated funds](%C2%A7%2000103%20-%20Use%20of%20appropriated%20funds.md)
 - [Subchapter 001 (I) - Department of Homeland Security](Subchapter%20001%20%28I%29%20-%20Department%20of%20Homeland%20Security/README.md)
 - [Subchapter 002 (II) - Information Analysis and Infrastructure Protection](Subchapter%20002%20%28II%29%20-%20Information%20Analysis%20and%20Infrastructure%20Protection/README.md)
 - [Subchapter 003 (III) - Science and Technology in Support of Homeland Security](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/README.md)

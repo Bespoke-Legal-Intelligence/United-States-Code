@@ -4,7 +4,7 @@
 
 (b) The Secretary may ascertain the number of persons on account of whom payments may be made under this subchapter on account of any State home, but shall have no authority over the management or control of any State home.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §642; Pub. L. 94–581, title I, §107(a), title II, §210(a)(16), Oct. 21, 1976, 90 Stat. 2847, 2863; renumbered §1742 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, §642; Pub. L. 94–581, title I, §107(a), title II, §210(a)(16),Oct. 21, 1976, 90 Stat. 2847, 2863; renumbered §1742 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Prior Provisions
 

@@ -24,11 +24,11 @@
 
 #### (4) Accreditation
 
-&emsp;Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(A) and (3)(A) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(B) and (3)(B) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in the negotiations by reason of which the member is in the Congressional Oversight Group. The Congressional Oversight Group shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
+&emsp;Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(A) and (3)(A) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(B) and (3)(B) shall be accredited by the United States Trade Representative on behalf of the President as an officialadviser to the United States delegation in the negotiations by reason of which the member is in the Congressional Oversight Group. The Congressional Oversight Group shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
 
 #### (5) Chair
 
-&emsp;The Congressional Oversight Group shall be chaired by the Chairman of the Committee onWays and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate.
+&emsp;The Congressional Oversight Group shall be chaired by the Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate.
 
 #### (b) Guidelines
 

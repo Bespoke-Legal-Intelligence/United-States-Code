@@ -1,6 +1,6 @@
 ### §6241. Medal of honor
 
-The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to a person who, while a member of the naval service, distinguishes himself conspicuously bygallantry and intrepidity at the risk of his life above and beyond the call of duty—
+The President may award, and present in the name of Congress, a medal of honor of appropriate design, with ribbons and appurtenances, to a person who, while a member of the naval service, distinguishes himself conspicuously by gallantry and intrepidity at the risk of his life above and beyond the call of duty—
 
 &emsp;(1) while engaged in an action against an enemy of the United States;
 
@@ -40,5 +40,5 @@ Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 11
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1074h of this title; title 18 section 704.
+This section is referred to in sections 1074h, 6257 of this title; title 18 section 704.
 

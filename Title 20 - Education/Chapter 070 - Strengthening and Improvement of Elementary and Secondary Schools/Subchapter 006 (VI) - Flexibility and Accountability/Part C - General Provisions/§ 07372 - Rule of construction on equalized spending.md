@@ -6,7 +6,7 @@ Nothing in this subchapter shall be construed to mandate equalized spending per 
 
 #### Prior Provisions
 
-A prior section 7372, Pub. L. 89–10, title VI, §6402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3713, related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7217a of this title.
+A prior section 7372, Pub. L. 89–10, title VI, §6402, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3713, related to participation of children enrolled in private schools, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7217a of this title.
 
 A prior section 6302 of Pub. L. 89–10 was classified to section 7352 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

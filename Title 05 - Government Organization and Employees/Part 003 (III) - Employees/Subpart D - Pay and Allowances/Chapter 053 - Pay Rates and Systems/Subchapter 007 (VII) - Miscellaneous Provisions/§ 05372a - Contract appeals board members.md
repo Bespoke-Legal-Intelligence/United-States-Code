@@ -30,5 +30,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5304, 5377, 5380, 7323 of this title; title 41 section 607.
+This section is referred to in sections 5304, 5377, 5380, 5402, 7323 of this title; title 41 section 607.
 

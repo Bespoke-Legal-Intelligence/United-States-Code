@@ -52,7 +52,7 @@ Section 1683 of title XVI of div. A of Pub. L. 103–337 provided that:
 
 “(a)
 
-Recommendations for Promotion.—An officer covered by this section who, on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], has been recommended for promotion to a reserve grade higher than the grade in which the officer is serving shall be considered to have been recommended for promotion to that grade under section 14101(a) of title 10, United States Code, as added by this title.
+Recommendations for Promotion.—An officer covered by this section who, on the day before the effective date of this title \[Oct. 1, 1996, see section1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], has been recommended for promotion to a reserve grade higher than the grade in which the officer is serving shall be considered to have been recommended for promotion to that grade under section 14101(a) of title 10, United States Code, as added by this title.
 
 “(b)
 

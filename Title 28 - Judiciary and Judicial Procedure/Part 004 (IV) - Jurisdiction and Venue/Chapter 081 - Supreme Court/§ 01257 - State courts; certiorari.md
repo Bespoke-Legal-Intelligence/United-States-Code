@@ -30,7 +30,7 @@ Changes were made in phraseology.
 
 &emsp;“(2) By appeal, where is drawn in question the validity of a statute of any state on the ground of its being repugnant to the Constitution, treaties or laws of the United States, and the decision is in favor of its validity.
 
-&emsp;“(3) By writ of certiorari, where the validity of a treaty or statute of the United States is drawn in question or where the validity of a State statute is drawn in question on the ground of its being repugnant to the Constitution, treaties or laws of the United States, or where any title, right, privilege or immunity is specially set up or claimed under theConstitution, treaties or statutes of, or commission held or authority exercised under, the United States.
+&emsp;“(3) By writ of certiorari, where the validity of a treaty or statute of the United States is drawn in question or where the validity of a State statute is drawn in question on the ground of its being repugnant to the Constitution, treaties or laws of the United States, or where any title, right, privilege or immunity is specially set up or claimed under the Constitution, treaties or statutes of, or commission held or authority exercised under, the United States.
 
 “For the purposes of this section, the term ‘highest court of a State’ includes the District of Columbia Court of Appeals.”
 

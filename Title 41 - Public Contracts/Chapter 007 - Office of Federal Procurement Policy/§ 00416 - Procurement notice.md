@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than the date 30 days after the date the notice required by paragraph (1)(A)(ii) is published;
 
-&emsp;&emsp;(ii) in the case of a solicitation for research and development, is earlier than thedate 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
+&emsp;&emsp;(ii) in the case of a solicitation for research and development, is earlier than the date 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
 
 &emsp;&emsp;(iii) in any other case, is earlier than the date 30 days after the date the solicitation is issued.
 

@@ -276,7 +276,7 @@
 
 #### (C) Controlled group of corporations; component member
 
-&emsp;&emsp;The terms “controlled group of corporations” and “component members” have the same meanings as when used in section 1563.The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
+&emsp;&emsp;The terms “controlled group of corporations” and “component members” have the same meanings as when used in section 1563. The determination of the taxable years taken into account with respect to any controlled group of corporations shall be made in a manner consistent with the manner set forth in section 1563.
 
 #### (7) Exclusion of active businesses of qualified C corporations
 
@@ -358,7 +358,7 @@
 
 #### (III) Qualified life insurance company
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “qualified life insurance company”means any company which would be a life insurance company as defined in section 816 if unearned premiums were not taken into account under subsections (a)(2) and (c)(2) of section 816.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “qualified life insurance company” means any company which would be a life insurance company as defined in section 816 if unearned premiums were not taken into account under subsections (a)(2) and (c)(2) of section 816.
 
 #### (E) Definitions
 
@@ -510,7 +510,7 @@ Special rule for losses of s corporation, partnership, or pass-thru entity.—In
 
 “(3)
 
-Special rule for athletic stadium.—The amendments made by this section shall not apply to any losses incurred by a taxpayer with respect to the holding of a multi-use athletic stadium in Pittsburgh,Pennsylvania, which the taxpayer acquired in a sale for which a letter of understanding was entered into before April 16, 1986.”
+Special rule for athletic stadium.—The amendments made by this section shall not apply to any losses incurred by a taxpayer with respect to the holding of a multi-use athletic stadium in Pittsburgh, Pennsylvania, which the taxpayer acquired in a sale for which a letter of understanding was entered into before April 16, 1986.”
 
 Amendment by section 1011(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1011(c)(1) of Pub. L. 99–514, set out as a note under section 453B of this title.
 
@@ -552,7 +552,7 @@ Special transitional rules for movies and video tapes.—
 
 In general.—In the case of any activity described in section 465(c)(1)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section shall not apply to—
 
-&emsp;&emsp;&emsp;“(i) deductions for depreciation or amortization with respect to property the principal production of which began before September 11, 1975, and for the purchase of which there was on September 11, 1975, and at all times thereafter a binding contract, and
+&emsp;&emsp;&emsp;“(i) deductions for depreciation or amortization with respect to property the principal production of which began before September 11, 1975, and forthe purchase of which there was on September 11, 1975, and at all times thereafter a binding contract, and
 
 &emsp;&emsp;&emsp;“(ii) deductions attributable to producing or distributing property the principal production of which began before September 11, 1975.
 
@@ -608,7 +608,7 @@ Special transitional rules for leasing activities.—
 
 &emsp;“(A)
 
-Rule for leases.—In the case of any activity described in section 465(c)(1)(C) of such Code in whicha corporation described in section 465(a)(1)(C) of such Code is engaged, the amendments made by this subtitle \[amending sections 465 and 704 of this title and enacting provisions set out as notes under sections 465 and 704 of this title\] shall not apply with respect to—
+Rule for leases.—In the case of any activity described in section 465(c)(1)(C) of such Code in which a corporation described in section 465(a)(1)(C) of such Code is engaged, the amendments made by this subtitle \[amending sections 465 and 704 of this title and enacting provisions set out as notes under sections 465 and 704 of this title\] shall not apply with respect to—
 
 &emsp;&emsp;“(i) leases entered into before November 1, 1978, and
 

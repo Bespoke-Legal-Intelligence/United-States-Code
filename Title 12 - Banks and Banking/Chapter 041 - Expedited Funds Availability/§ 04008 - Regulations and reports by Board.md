@@ -24,7 +24,7 @@ In order to improve the check processing system, the Board shall consider (among
 
 &emsp;(5) each depository institution and Federal Reserve bank—
 
-&emsp;&emsp;(A) place its endorsement, and other notations specified in regulations of the Board,on checks in the positions specified in such regulations; and
+&emsp;&emsp;(A) place its endorsement, and other notations specified in regulations of the Board, on checks in the positions specified in such regulations; and
 
 &emsp;&emsp;(B) take such actions as are necessary to—
 

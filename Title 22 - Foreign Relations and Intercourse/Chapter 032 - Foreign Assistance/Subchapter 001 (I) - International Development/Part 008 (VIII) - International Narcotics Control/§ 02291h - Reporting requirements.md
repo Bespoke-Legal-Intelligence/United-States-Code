@@ -38,7 +38,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(B) which countries have established a procedure by which such records may be made available to United States law enforcement authorities; and
 
-&emsp;&emsp;(C) which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establish a system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
+&emsp;&emsp;(C) which countries have enacted national chemical control legislation which would impose specific recordkeeping and reporting requirements for listed chemicals, establisha system of permits or declarations for imports and exports of listed chemicals, and authorize government officials to seize or suspend shipments of listed chemicals.
 
 &emsp;(7) In addition, for those countries identified pursuant to paragraph (3)(D) the following:
 
@@ -98,13 +98,13 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 > &emsp;&emsp;with respect to narcotic control efforts during the preceding fiscal year, the current fiscal year, and the next fiscal year; and
 
-&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connectionwith narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
+&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
 (Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724.)
 
 #### References in Text
 
-Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably means section 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which is set out as a note under section 1902 of Title 46, Appendix, Shipping.
+Section 2015 of the International Narcotics Act of 1986, referred to in subsec. (a)(2)(A), probably meanssection 2015 of the International Narcotics Control Act of 1986, Pub. L. 99–570, which is set out as a note under section 1902 of Title 46, Appendix, Shipping.
 
 #### Prior Provisions
 

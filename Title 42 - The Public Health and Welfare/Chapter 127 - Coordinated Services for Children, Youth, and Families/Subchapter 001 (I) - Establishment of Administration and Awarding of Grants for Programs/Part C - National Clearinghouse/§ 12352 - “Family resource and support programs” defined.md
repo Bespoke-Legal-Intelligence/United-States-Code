@@ -6,7 +6,7 @@ As used in this part, the term “family resource and support programs” means 
 
 &emsp;(2) the provision of assistance to families to enable such families to use other formal and informal resources and opportunities for assistance that are available within the communities of such families; and
 
-&emsp;(3) the creation of supportive networks to enhance the childrearing capacity of parentsand assist in compensating for the increased social isolation and vulnerability of families.
+&emsp;(3) the creation of supportive networks to enhance the childrearing capacity of parents and assist in compensating for the increased social isolation and vulnerability of families.
 
 (Pub. L. 101–501, title IX, §957, Nov. 3, 1990, 104 Stat. 1278.)
 

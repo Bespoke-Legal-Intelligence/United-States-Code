@@ -22,7 +22,7 @@ Notwithstanding any other provision of this section, any service performed by an
 
 #### (d) Participation in Thrift Savings Plan
 
-An individual described under subsection (a) of this section shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may make contributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992.
+An individual described under subsection (a) of this section shall be deemed a congressional employee for purposes of chapter 84 of title 5 including subchapter III thereof and may makecontributions under section 8432 of such title effective for the first applicable pay period beginning on or after October 6, 1992.
 
 #### (e) Life insurance coverage
 
@@ -70,7 +70,7 @@ Section was classified to section 214d of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1993—Subsec. (b)(1). Pub. L. 103–50, §1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–50, §1203(b)(1), substituted “January 1, 1993” for “October 6, 1992”.
 
 Subsecs. (h) to (j). Pub. L. 103–50, §1203(a)(1), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 

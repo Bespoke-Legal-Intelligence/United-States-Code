@@ -4,8 +4,6 @@ Part A—Approval of Compact and Supplemental Provisions
 
 This part is referred to in sections 1951, 1952, 1957, 1959, 1960, of this title; title 2 section 905; title 16 section 470a.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

@@ -68,7 +68,7 @@
 
 #### (7) “PACE demonstration waiver program” defined
 
-&emsp;For purposes of this section, the term “PACE demonstration waiver program” means a demonstration program under either of the following sections (as in effect before the date of their repeal):
+&emsp;For purposes of this section, the term “PACE demonstration waiver program”means a demonstration program under either of the following sections (as in effect before the date of their repeal):
 
 &emsp;&emsp;(A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21), as extended by section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272).
 
@@ -98,7 +98,7 @@
 
 &emsp;Under a PACE program agreement, a PACE provider shall—
 
-&emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment anddirectly or under contracts with other entities, at a minimum—
+&emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
 &emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII of this chapter (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
@@ -117,6 +117,20 @@
 &emsp;&emsp;(A) a written plan of quality assurance and improvement, and procedures implementing such plan, in accordance with regulations, and
 
 &emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations and with other requirements of this subchapter and Federal and State law designed for the protection of patients.
+
+#### (3) Treatment of medicare services furnished by noncontract physicians and other entities
+
+#### (A) Application of medicare advantage requirement with respect to medicare services furnished by noncontract physicians and other entities
+
+&emsp;&emsp;Section 1395w–22(k)(1) of this title (relating to limitations on balance billing against MA organizations for noncontract physicians and other entities with respect to services covered under subchapter XVIII of this chapter) shall apply to PACE providers, PACE program eligible individuals enrolled with such PACE providers, and physicians and other entities that do not have a contract or other agreement establishing payment amounts for services furnished to such an individual in the same manner as such section applies to MA organizations, individuals enrolled with such organizations, and physicians and other entities referred to in such section.
+
+#### (B) Reference to related provision for noncontract providers of services
+
+&emsp;&emsp;For the provision relating to limitations on balance billing against PACE providers for services covered under subchapter XVIII of this chapter furnished by noncontract providers of services, see section 1395cc(a)(1)(O) of this title.
+
+#### (4) Reference to related provision for services covered under this subchapter but not under subchapter XVIII
+
+&emsp;For provisions relating to limitations on payments to providers participating under the State plan under this subchapter that do not have a contract or other agreement with a PACE provider establishing payment amounts for services covered under such plan (but notunder subchapter XVIII of this chapter) when such services are furnished to enrollees of that PACE provider, see section 1396a(a)(67) of this title.
 
 #### (c) Eligibility determinations
 
@@ -244,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -318,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -338,7 +352,7 @@
 
 #### (B) Flexibility
 
-&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service delivery model to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1395eee of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
+&emsp;&emsp;In order to provide for reasonable flexibility in adapting the PACE service deliverymodel to the needs of particular organizations (such as those in rural areas or those that may determine it appropriate to use nonstaff physicians according to State licensing law requirements) under this section and section 1395eee of this title, the Secretary (in close consultation with State administering agencies) may modify or waive provisions of the PACE protocol so long as any such modification or waiver is not inconsistent with and would not impair the essential elements, objectives, and requirements of this section, but may not modify or waive any of the following provisions:
 
 &emsp;&emsp;&emsp;(i) The focus on frail elderly qualifying individuals who require the level of care provided in a nursing facility.
 
@@ -378,7 +392,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 
@@ -412,7 +426,7 @@ A State may provide for post-eligibility treatment of income for individuals enr
 
 Nothing in this section or section 1395eee of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter or eligible for medical assistance under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997, 111 Stat. 539; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.)
+(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997, 111 Stat. 539; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; Pub. L. 108–173, title II, §236(b)(2), Dec. 8, 2003, 117 Stat. 2211.)
 
 #### References in Text
 
@@ -432,11 +446,21 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 #### Prior Provisions
 
-A prior section 1934 of act Aug. 14, 1935, was renumbered section 1935 and is classified to section 1396v of this title.
+A prior section 1934 of act Aug. 14, 1935, was renumbered section 1936 and is classified to section 1396v of this title.
 
 #### Amendments
 
+2003—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
+
 2000—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan. 1, 2004, see section 236(c) of Pub. L. 108–173, set out as a note under section 1395cc of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -444,7 +468,7 @@ Amendment by Pub. L. 106–554 effective as if included in the enactment of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395eee, 1396b, 1396d, 1396r–5 of this title.
+This section is referred to in sections 1395cc, 1395eee, 1396b, 1396d, 1396r–5 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -126,7 +126,7 @@ Initiation of Rulemaking Proceeding.—Not later than the 60th day following the
 
 “(b)
 
-Issuance of Standards.—If the Secretary of Transportation determines, as a result of the rulemaking proceeding initiated under subsection (a), that a packaging standard other than the performance-oriented packaging standards referred to in subsection (a) will provide an equal or greater level of safety for the domestic transportation of liquid hazardous materials than would be provided if such performance-orientedpackaging standards were in effect, the Secretary shall issue regulations which implement such other standard and which take effect before October 1, 1996.
+Issuance of Standards.—If the Secretary of Transportation determines, as a result of the rulemaking proceeding initiated under subsection (a), that a packaging standard other than the performance-oriented packaging standards referred to in subsection (a) will provide an equal or greater level of safety for the domestic transportation of liquid hazardous materials than would be provided if such performance-oriented packaging standards were in effect, the Secretary shall issue regulations which implement such other standard and which take effect before October 1, 1996.
 
 “(c)
 

@@ -16,9 +16,9 @@ As used in this subchapter:
 
 &emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
 
-&emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts oractivities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+&emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
-&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century:
+&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2003:
 
 &emsp;&emsp;(i) 69–8083–0–7–401 (Federal-Aid Highways).
 
@@ -28,7 +28,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(iv) 69–8016–0–7–401 (Operations and Research NHTSA).
 
-&emsp;(C) The term “mass transit category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century or for which appropriations are provided pursuant to authorizations contained in that Act (except that appropriations provided pursuant to section 5338(h) of title 49, as amended by the Transportation Equity Act for the 21st Century, shall not be included in this category):
+&emsp;(C) The term “mass transit category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2003 or for which appropriations are provided pursuant to authorizations contained in those Acts (except that appropriations provided pursuant to section 5338(h) of title 49, as amended by the Transportation Equity Act for the 21st Century, shall not be included in this category):
 
 &emsp;&emsp;(i) 69–8191–0–7–401 (Mass Transit Capital Fund).
 
@@ -90,7 +90,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(F) The term “Federal and State Land and Water Conservation Fund sub-category” means discretionary appropriations for activities in the accounts described in (E)(i)–(E)(iv) <sup>2</sup> or portions thereof.
 
-&emsp;(G) The term “State and Other Conservation sub-category” means discretionary appropriations for activities in the accounts describedin (E)(v)–(E)(ix),<sup>2</sup> with the exception of Urban and Community Forestry as described in (E)(ix),<sup>2</sup> or portions thereof.
+&emsp;(G) The term “State and Other Conservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(v)–(E)(ix),<sup>2</sup> with the exception of Urban and Community Forestry as described in (E)(ix),<sup>2</sup> or portions thereof.
 
 &emsp;(H) The term “Urban and Historic Preservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(ix)–(E)(xii),<sup>2</sup> with the exception of Forest Legacy and Smart Growth Partnerships as described in (E)(ix),<sup>2</sup> or portions thereof.
 
@@ -136,7 +136,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127.)
 
 #### Termination of Section
 
@@ -149,6 +149,8 @@ House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(A), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
 The Transportation Equity Act for the 21st Century, referred to in subsec. (c)(4)(B), (C), (D)(ii), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. Section 8103 of the Act is set out as a note under section 901 of this title. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of Title 23, Highways, and Tables.
+
+The Surface Transportation Extension Act of 2003, referred to in subsec. (c)(4)(B), (C), is Pub. L. 108–88, Sept. 30, 2003, 117 Stat. 1110. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of Title 23, Highways, and Tables.
 
 Section 14 of Public Law 96–184, referred to in subsec. (c)(4)(C), probably means section 14 of Pub. L. 91–143, as added by Pub. L. 96–184, §2, Jan. 3, 1980, 93 Stat. 1320, which is not classified to the Code.
 
@@ -166,13 +168,17 @@ Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, 
 
 #### Amendments
 
-2000—Subsec. (c)(4)(E) to (K). Pub. L. 106–291 added subpars. (E) to (K).
+<b>2003</b>—Subsec. (c)(4)(B). Pub. L. 108–88, §10(c)(1), inserted “and the Surface Transportation Extension Act of 2003” after “Century”.
 
-1998—Subsec. (c)(4). Pub. L. 105–178, §8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+Subsec. (c)(4)(C). Pub. L. 108–88, §10(c)(2), inserted “and the Surface Transportation Extension Act of 2003” after “Century” the first place it appears and substituted “those Acts” for “that Act”.
+
+<b>2000</b>—Subsec. (c)(4)(E) to (K). Pub. L. 106–291 added subpars. (E) to (K).
+
+<b>1998</b>—Subsec. (c)(4). Pub. L. 105–178, §8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
 Subsec. (c)(4)(C). Pub. L. 105–178, §8101(f), as added by Pub. L. 105–206, §9013(b), in introductory provisions, substituted “Century or” for “Century and” and “as amended by the Transportation Equity Act for the 21st Century” for “as amended by this section”, and inserted concluding provisions.
 
-1997—Subsec. (a). Pub. L. 105–33, §§10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §§10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
 
 Subsec. (b). Pub. L. 105–33, §10202(a), substituted present text for former text which read as follows: “This subchapter provides for the enforcement of the deficit reduction assumed in House Concurrent Resolution 310 (101st Congress, second session) and the applicable deficit targets for fiscal years 1991 through 1995. Enforcement, as necessary, is to be implemented through sequestration—
 
@@ -220,11 +226,11 @@ Subsec. (c)(20). Pub. L. 105–33, §10202(b)(6), struck out par. (20) which rea
 
 Subsec. (c)(21). Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19).
 
-1990—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
+<b>1990</b>—Subsec. (c)(21). Pub. L. 101–508, §13101(b), redesignated section 907(12) of this title as par. (21).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective and Termination Dates
 
@@ -268,11 +274,19 @@ Section 101(b) of title I of Pub. L. 100–119 provided that: “This title \[en
 
 Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
 
-#### Habitat Conservation Activities Considered Within Coastal Assistance Sub-category
+#### Habitat Conservation Activities Considered Within Coastal Assistance Sub-Category
 
-Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775, provided in part: “That, hereafter, habitat conservation activities under this heading \[
+Pub. L. 108–7, div. B, title II, §214, Feb. 20, 2003, 117 Stat. 82, provided that:
 
-National Oceanic and Atmospheric Administration; operations, research, and facilities\] shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\]”.
+“(a) Hereafter, habitat conservation activities, enforcement and surveillance—cooperative enforcement and vessel monitoring, stock assessments—data collection, and highly migratory shark fishery research under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\].
+
+“(b) For fiscal year 2004 and thereafter, response and restoration activities, Cooperative Research, Protected Species activities, Endangered Species Act—Marine Mammals, Sea Turtles and Other Species, Endangered Species Act—Right Whales, Marine Mammal Protection, and Sea Grant (except for the fellowship program) under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research, and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\].
+
+“(c) All references to outlays in title VIII of Public Law 106–291 \[amending this section and section 901 of this title\] are repealed.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775.
 
 #### Purpose of Subtitle B of Title X of Pub. L. 105–33
 
@@ -316,7 +330,7 @@ Section 213 of Pub. L. 100–119 provided that: “This Act and the amendments m
 
 Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
-&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of thatHouse to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
@@ -342,7 +356,7 @@ Sec. 2. <i>Establishment of Direct Spending Targets.</i>
 
 (c) <i>Adjustments</i>. Direct spending targets shall be subsequently adjusted by the Director under Section 6.
 
-Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays forprograms covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparison between the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
+Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays for programs covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparison between the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
 
 Sec. 4. <i>Special Direct Spending Message by President</i>. (a) <i>Trigger</i>. In the event that the information submitted under Section 3 indicates—
 

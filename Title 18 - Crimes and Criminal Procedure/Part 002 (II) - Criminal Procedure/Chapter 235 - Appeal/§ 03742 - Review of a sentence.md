@@ -52,39 +52,73 @@ Consideration.—Upon review of the record, the court of appeals shall determine
 
 &emsp;(2) was imposed as a result of an incorrect application of the sentencing guidelines;
 
-&emsp;(3) is outside the applicable guideline range, and is unreasonable, having regard for—
+&emsp;(3) is outside the applicable guideline range, and
 
-&emsp;&emsp;(A) the factors to be considered in imposing a sentence, as set forth in chapter 227 of this title; and
+&emsp;&emsp;(A) the district court failed to provide the written statement of reasons required by section 3553(c);
 
-&emsp;&emsp;(B) the reasons for the imposition of the particular sentence, as stated by the district court pursuant to the provisions of section 3553(c); or
+&emsp;&emsp;(B) the sentence departs from the applicable guideline range based on a factor that—
+
+&emsp;&emsp;&emsp;(i) does not advance the objectives set forth in section 3553(a)(2); or
+
+&emsp;&emsp;&emsp;(ii) is not authorized under section 3553(b); or
+
+&emsp;&emsp;&emsp;(iii) is not justified by the facts of the case; or
+
+&emsp;&emsp;(C) the sentence departs to an unreasonable degree from the applicable guidelines range, having regard for the factors to be considered in imposing a sentence, as set forth in section 3553(a) of this title and the reasons for the imposition of the particular sentence, as stated by the district court pursuant to the provisions of section 3553(c); or
 
 &emsp;(4) was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable.
 
-> The court of appeals shall give due regard to the opportunity of the district court to judge the credibility of the witnesses, and shall accept the findings of fact of the district court unless they are clearly erroneous and shall give due deference to the district court's application of the guidelines to the facts.
+> The court of appeals shall give due regard to the opportunity of the district court to judge the credibility of the witnesses, and shall accept the findings of fact of the district court unless they are clearly erroneous and, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. Withrespect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts.
 
 (f)
 
-Decision and Disposition.—If the court of appeals determines that the sentence—
+Decision and Disposition.—If the court of appeals determines that—
 
-&emsp;(1) was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, the court shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+&emsp;(1) the sentence was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, the court shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
 
-&emsp;(2) is outside the applicable guideline range and is unreasonable or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
+&emsp;(2) the sentence is outside the applicable guideline range and the district court failed to provide the required statement of reasons in the order of judgment and commitment, or the departure is based on an impermissible factor, or is to an unreasonable degree, or the sentence was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
 
-&emsp;&emsp;(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+&emsp;&emsp;(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate, subject to subsection (g);
 
-&emsp;&emsp;(B) if it determines that the sentence is too low and the appeal has been filed under subsection (b), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+&emsp;&emsp;(B) if it determines that the sentence is too low and the appeal has been filed under subsection (b), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate, subject to subsection (g);
 
-&emsp;(3) is not described in paragraph (1) or (2), it shall affirm the sentence.
+&emsp;(3) the sentence is not described in paragraph (1) or (2), it shall affirm the sentence.
 
 (g)
 
-Application to a Sentence by a Magistrate Judge.—An appeal of an otherwise final sentence imposed by a United States magistrate judge may be taken to a judge of the district court, and this section shall apply (except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal) as though the appeal were to a court of appeals from a sentence imposed by a district court.
+Sentencing Upon Remand.—A district court to which a case is remanded pursuant to subsection (f)(1) or (f)(2) shall resentence a defendant in accordance with section 3553 and with such instructions as may have been given by the court of appeals, except that—
+
+&emsp;(1) In determining the range referred to in subsection 3553(a)(4), the court shall apply the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that were in effect on the date of the previous sentencing of the defendant prior to the appeal, together with any amendments thereto by any act of Congress that was in effect on such date; and
+
+&emsp;(2) The court shall not impose a sentence outside the applicable guidelines range except upon a ground that—
+
+&emsp;&emsp;(A) was specifically and affirmatively included in the written statement of reasons required by section 3553(c) in connection with the previous sentencing of the defendant prior to the appeal; and
+
+&emsp;&emsp;(B) was held by the court of appeals, in remanding the case, to be a permissible ground of departure.
 
 (h)
 
+Application to a Sentence by a Magistrate Judge.—An appeal of an otherwise final sentence imposed by a United States magistrate judge may be taken to a judge of the district court, and this section shall apply (except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal) as though the appeal were to a court of appeals from a sentence imposed by a district court.
+
+(i)
+
 Guideline Not Expressed as a Range.—For the purpose of this section, the term “guideline range” includes a guideline range having the same upper and lower limits.
 
-(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
+(j)
+
+Definitions.—For purposes of this section—
+
+&emsp;(1) a factor is a “permissible” ground of departure if it—
+
+&emsp;&emsp;(A) advances the objectives set forth in section 3553(a)(2); and
+
+&emsp;&emsp;(B) is authorized under section 3553(b); and
+
+&emsp;&emsp;(C) is justified by the facts of the case; and
+
+&emsp;(2) a factor is an “impermissible” ground of departure if it is not a permissible factor within the meaning of subsection (j)(1).
+
+(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, §401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
 
 #### References in Text
 
@@ -93,6 +127,30 @@ Section 3563(b)(6) or (b)(11), referred to in subsecs. (a)(3) and (b)(3), was re
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix of this title.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–21, §401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court's application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court's application of the guidelines to the facts” for “shall give due deference to the district court's application of the guidelines to the facts”.
+
+Subsec. (e)(3). Pub. L. 108–21, §401(d)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is outside the applicable guideline range, and is unreasonable, having regard for—
+
+&emsp;“(A) the factors to be considered in imposing a sentence, as set forth in chapter 227 of this title; and
+
+&emsp;“(B) the reasons for the imposition of the particular sentence, as stated by the district court pursuant to the provisions of section 3553(c); or”.
+
+Subsec. (f). Pub. L. 108–21, §401(d)(3)(A), struck out “the sentence” before dash at end of introductory provisions.
+
+Subsec. (f)(1). Pub. L. 108–21, §401(d)(3)(B), inserted “the sentence” before “was imposed”.
+
+Subsec. (f)(2). Pub. L. 108–21, §401(d)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is outside the applicable guideline range and is unreasonable or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
+
+&emsp;“(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+
+&emsp;“(B) if it determines that the sentence is too low and the appeal has been filed under subsection (b), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;”.
+
+Subsec. (f)(3). Pub. L. 108–21, §401(d)(3)(D), inserted “the sentence” before “is not described”.
+
+Subsecs. (g) to (i). Pub. L. 108–21, §401(e), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+Subsec. (j). Pub. L. 108–21, §401(f), added subsec. (j).
 
 1994—Subsec. (b). Pub. L. 103–322 struck out comma after “Government” in introductory provisions.
 
@@ -158,7 +216,7 @@ Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing
 
 #### Change of Name
 
-Words “Magistrate Judge” and “United States magistrate judge” substituted for “Magistrate” and “United States magistrate”, respectively, in subsec. (g) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “Magistrate Judge” and “United States magistrate judge” substituted for “Magistrate” and “United States magistrate”, respectively, in subsec. (g) pursuant to section 321 of Pub. L. 101–650, set out as anote under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1987 Amendment
 
@@ -170,5 +228,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3143, 3557, 3562, 3572, 3582, 3664, 4106A of this title.
+This section is referred to in sections 3143, 3553, 3557, 3562, 3572, 3582, 3664, 4106A of this title.
 

@@ -14,15 +14,17 @@ Gross income shall not include any fringe benefit which qualifies as a—
 
 &emsp;(5) qualified transportation fringe,
 
-&emsp;(6) qualified moving expense reimbursement, or
+&emsp;(6) qualified moving expense reimbursement,
 
-&emsp;(7) qualified retirement planning services.
+&emsp;(7) qualified retirement planning services, or
+
+&emsp;(8) qualified military base realignment and closure fringe.
 
 #### (b) No-additional-cost service defined
 
 For purposes of this section, the term “no-additional-cost service” means any service provided by an employer to an employee for use by such employee if—
 
-&emsp;(1) such service is offered for sale to customers in the ordinary course of the line ofbusiness of the employer in which the employee is performing services, and
+&emsp;(1) such service is offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services, and
 
 &emsp;(2) the employer incurs no substantial additional cost (including forgone revenue) in providing such service to the employee (determined without regard to any amount paid by the employee for such service).
 
@@ -88,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) revenue derived from such facility normally equals or exceeds the direct operating costs of such facility.
 
-> &emsp;The preceding sentence shall apply with respect to any highly compensated employee only if access to the facility is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees. For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.
+> &emsp;The preceding sentence shall apply with respect to any highly compensated employee only if access to the facility is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor ofhighly compensated employees. For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.
 
 #### (f) Qualified transportation fringe
 
@@ -176,7 +178,7 @@ For purposes of this section—
 
 #### (g) Qualified moving expense reimbursement
 
-For purposes of this section, the term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+For purposes of this section, the term “qualified moving expense reimbursement” means anyamount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
 
 #### (h) Certain individuals treated as employees for purposes of subsections (a)(1) and (2)
 
@@ -338,25 +340,45 @@ This section (other than subsections (e) and (g)) shall not apply to any fringe 
 
 &emsp;For purposes of this subsection, the term “qualified employer plan” means a plan, contract, pension, or account described in section 219(g)(5).
 
-#### (n) Regulations
+#### (n) Qualified military base realignment and closure fringe
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “qualified military base realignment and closure fringe” means 1 or more payments under the authority of section 1013 of the Demonstration Cities and Metropolitan Development Act of 1966 (42 U.S.C. 3374) (as in effect on the date of the enactment of this subsection) to offset the adverse effects on housing values as a result of a military base realignment or closure.
+
+#### (2) Limitation
+
+&emsp;With respect to any property, such term shall not include any payment referred to in paragraph (1) to the extent that the sum of all of such payments related to such property exceeds the maximum amount described in clause (1) of subsection (c) of such section (as in effect on such date).
+
+#### (<i>o</i>) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX,§9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337.)
 
-#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2003
+#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2004
 
-<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2003, see section 3.11 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2004, see section 3.12 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (n), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
 
 #### Prior Provisions
 
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(8). Pub. L. 108–121, §103(a), added par. (8).
+
+Subsecs. (n), (<i>o</i>). Pub. L. 108–121, §103(b), added subsec. (n) and redesignated former subsec. (n) as (<i>o</i>).
 
 2001—Subsec. (a)(7). Pub. L. 107–16, §§665(a), 901, temporarily added par. (7). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -428,7 +450,7 @@ Subsec. (h)(8). Pub. L. 100–647, §6066(a), added par. (8).
 
 1986—Subsec. (c)(3)(A). Pub. L. 99–514, §1853(a)(2), substituted “are provided by the employer to an employee for use by such employee” for “are provided to the employee by the employer”.
 
-Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensated employee” and “officers, owners, or” before “highly compensated employees” in last sentence.
+Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensatedemployee” and “officers, owners, or” before “highly compensated employees” in last sentence.
 
 Subsec. (f)(2)(B)(ii). Pub. L. 99–514, §1853(a)(1), substituted “are deceased and who has not attained age 25” for “are deceased”.
 
@@ -447,6 +469,10 @@ Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–121, title I, §103(c), Nov. 11, 2003, 117 Stat. 1338, provided that: “The amendments made by this section \[amending this section\] shall apply to payments made after the date of the enactment of this Act \[Nov. 11, 2003\].”
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -470,7 +496,7 @@ Section 1072(b) of Pub. L. 105–34 provided that: “The amendment made by this
 
 #### Effective Date of 1993 Amendment
 
-Section 13101(c)(2) of Pub. L. 103–66 provided that: “The amendment made by subsection (b) \[amendingthis section\] shall apply to taxable years beginning after December 31, 1988.”
+Section 13101(c)(2) of Pub. L. 103–66 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
 
 Amendment by section 13201(b)(3)(F) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title.
 

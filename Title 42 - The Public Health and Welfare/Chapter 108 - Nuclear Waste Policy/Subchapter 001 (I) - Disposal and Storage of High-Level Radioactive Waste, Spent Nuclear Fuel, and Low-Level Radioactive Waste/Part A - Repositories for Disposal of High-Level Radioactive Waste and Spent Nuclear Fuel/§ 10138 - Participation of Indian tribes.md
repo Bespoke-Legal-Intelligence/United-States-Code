@@ -8,7 +8,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 (1) The Secretary shall make grants to each affected tribe notified under section 10136(a) of this title for the purpose of participating in activities required by section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such tribe, may not be considered eligible for funding under this paragraph.
 
-(2)(A) The Secretary shall make grants to each affected Indian tribe where a candidate site for a repository is approved under section 10132(c) of this title. Such grants may be made to eachsuch Indian tribe only for purposes of enabling such Indian tribe—
+(2)(A) The Secretary shall make grants to each affected Indian tribe where a candidate site for a repository is approved under section 10132(c) of this title. Such grants may be made to each such Indian tribe only for purposes of enabling such Indian tribe—
 
 &emsp;(i) to review activities taken under this part with respect to such site for purposes of determining any potential economic, social, public health and safety, and environmental impacts of such repository on the reservation and its residents;
 

@@ -72,7 +72,7 @@ In General \[sic\].—The Comptroller General shall submit to the Committee on H
 
 &emsp;“(2) the coordination of the activities described in paragraph (1);
 
-&emsp;“(3) the effectiveness of such efforts in preparing national, State, and local authorities to address thepublic health and medical consequences of a potential bioterrorist attack against the civilian population;
+&emsp;“(3) the effectiveness of such efforts in preparing national, State, and local authorities to address the public health and medical consequences of a potential bioterrorist attack against the civilian population;
 
 &emsp;“(4) the activities and costs of the Civil Support Teams of the National Guard in responding to biological threats or attacks against the civilian population;
 

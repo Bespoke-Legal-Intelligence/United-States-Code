@@ -16,7 +16,7 @@ The Secretary is authorized to conduct and support by grant or contract (and enc
 
 #### Amendments
 
-1984—Par. (6). Pub. L. 98–551 struck out par. (6) which provided grant authority to the Secretary to assess, with respect to the effectiveness, safety, cost, and required training for and conditions of use, of new aspects of health care, and new activities, programs, and services designed to improve human health and publish in readily understandable language for public and professional use such assessments and, in the case of controversial aspects of health care, activities, programs, or services, publish differing views or opinions respecting the effectiveness, safety, cost, and required training for and conditions of use, of such aspects of health care, activities, programs, or services.
+1984—Par. (6). Pub. L. 98–551 struck out par. (6) which provided grant authority to the Secretary to assess, with respect to the effectiveness, safety, cost, and required training for and conditions of use, of new aspects of health care, and new activities, programs, andservices designed to improve human health and publish in readily understandable language for public and professional use such assessments and, in the case of controversial aspects of health care, activities, programs, or services, publish differing views or opinions respecting the effectiveness, safety, cost, and required training for and conditions of use, of such aspects of health care, activities, programs, or services.
 
 #### Section Referred to in Other Sections
 

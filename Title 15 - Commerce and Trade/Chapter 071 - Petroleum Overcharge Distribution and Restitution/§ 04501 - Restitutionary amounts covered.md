@@ -10,7 +10,7 @@ This chapter (other than section 4504 of this title)—
 
 &emsp;&emsp;(A) any amount of such funds held in escrow by the Secretary through accounts administered by the Secretary of the Treasury on or after October 21, 1986; and
 
-&emsp;&emsp;(B) any amount of such funds determined at any time, pursuant to judicial or administrative proceedings (including any settlement agreement or declaratory judgment) instituted by the Secretary to enforce such Acts and regulations, to be amounts paid for such actual or alleged violations, including any such amounts held in escrow by any court.
+&emsp;&emsp;(B) any amount of such funds determined at any time, pursuant to judicial or administrative proceedings (including any settlement agreement or declaratory judgment) instituted by the Secretary to enforce such Acts and regulations, to be amounts paid for such actual or alleged violations, includingany such amounts held in escrow by any court.
 
 #### (b) Special rule
 

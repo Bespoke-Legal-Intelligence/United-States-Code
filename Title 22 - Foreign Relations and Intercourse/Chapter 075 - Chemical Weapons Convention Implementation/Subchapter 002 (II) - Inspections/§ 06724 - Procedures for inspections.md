@@ -8,7 +8,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (1) In general
 
-&emsp;An inspection referred to in subsection (a) of this section may be made only upon issuance of an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
+&emsp;An inspection referred to in subsection (a) of this section may be made only upon issuanceof an actual written notice by the United States National Authority to the owner and to the operator, occupant, or agent in charge of the premises to be inspected.
 
 #### (2) Time of notification
 
@@ -88,7 +88,7 @@ The appropriate representatives of the United States, as designated, if present,
 
 #### References in Text
 
-This chapter, referred to in subsec. (f)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in subsec. (f)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect theprobable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 #### Amendments
 

@@ -66,7 +66,7 @@ Any person who—
 
 #### (14) Distilling after notice of suspension
 
-&emsp;after the time fixed in the notice given under section 5221(a) to suspend operations as a distiller, carries on the business of a distiller on the premises covered by the notice of suspension, or has mash, wort, or beer on such premises, or on any premises connected therewith, or has in his possession or under his control any mash, wort, or beer, with intent to distill the same on such premises; or
+&emsp;after the time fixed in the notice given under section 5221(a) to suspend operations as a distiller, carries on the business of a distilleron the premises covered by the notice of suspension, or has mash, wort, or beer on such premises, or on any premises connected therewith, or has in his possession or under his control any mash, wort, or beer, with intent to distill the same on such premises; or
 
 #### (15) Unauthorized withdrawal, use, sale, or distribution of distilled spirits for fuel use
 

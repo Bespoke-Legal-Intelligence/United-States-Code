@@ -2,7 +2,7 @@
 
 (a)
 
-Selection Criteria and Procedures.—Selection for membership in an Acquisition Corps shall be made in accordance with criteria and procedures established by the Secretary of Defense.
+Selection Criteria and Procedures.—Selection for membership in the Acquisition Corps shall be made in accordance with criteria and procedures established by the Secretary of Defense.
 
 (b)
 
@@ -12,7 +12,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;(B) In the case of a member of the armed forces, the person must be currently serving in the grade of major or, in the case of the Navy, lieutenant commander, or a higher grade.
 
-&emsp;(C) In the case of an applicant for employment, the person must have experience in government or industry equivalent to the experience of a person in a position described in subparagraph (A) or (B), as validated by the appropriate career program management board.
+&emsp;(C) In the case of an applicant for employment, the person must have experience in government or industry equivalent to the experience of a person in a position described in subparagraph (A) or (B).
 
 &emsp;(2) The person must meet the educational requirements prescribed by the Secretary of Defense. Such requirements, at a minimum, shall include both of the following:
 
@@ -20,7 +20,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(i) has received a baccalaureate degree at an accredited educational institution authorized to grant baccalaureate degrees, or
 
-&emsp;&emsp;&emsp;(ii) has been certified by the acquisition career program board of the employing military department as possessing significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience.
+&emsp;&emsp;&emsp;(ii) possess significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience.
 
 &emsp;&emsp;(B) A requirement that the person has completed—
 
@@ -36,7 +36,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 Exceptions.—(1) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
-(2) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management,marketing, quantitative methods, and organization and management. The Secretary of Defense shall submit examinations to be given to civilian employees under this paragraph to the Director of the Office of Personnel Management for approval. If the Director does not disapprove an examination within 30 days after the date on which the Director receives the examination, the examination is deemed to be approved by the Director.
+(2) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
 
 (3) Paragraph (1) of subsection (b) shall not apply to an employee who—
 
@@ -46,23 +46,37 @@ Exceptions.—(1) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall 
 
 (d)
 
-Waiver.—(1) Except as provided in paragraph (2), the acquisition career program board of a military department may waive any or all of the requirements of subsection (b) with respect to an employee of that military department if the board certifies that the employee possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience. With respect to each waiver granted under this subsection, the board shall set forth in a written document the rationale for its decision to waive such requirements. The document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.
+Waiver.—(1) Except as provided in paragraph (2), the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines that the employee possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for its decision to waive such requirements.
 
-(2) The acquisition career program board of a military department may not waive the requirements of subsection (b)(2)(A)(ii).
+(2) The Secretary may not waive the requirements of subsection (b)(2)(A)(ii).
 
 (e)
 
-Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians in an Acquisition Corps to sign mobility statements.
+Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians in the Acquisition Corps to sign mobility statements.
 
-(2) The Secretary of Defense shall identify which categories of civilians in an Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
+(2) The Secretary of Defense shall identify which categories of civilians in the Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements.The Secretary shall make available published information on such identification of categories.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, §824(b), title X, §1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, §824(b), title X, §1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(2), (3), 832(b)(2), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550.)
 
 #### References in Text
 
 The General Schedule, referred to in subsecs. (b)(1)(A) and (c)(3)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
+
+Subsec. (b)(1)(C). Pub. L. 108–136, §831(b)(2)(A), struck out “, as validated by the appropriate career program management board” after “subparagraph (A) or (B)”.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 108–136, §831(b)(2)(B), substituted “possess” for “has been certified by the acquisition career program board of the employing military department as possessing”.
+
+Subsec. (c)(2). Pub. L. 108–136, §832(b)(2), struck out at end “The Secretary of Defense shall submit examinations to be given to civilian employees under this paragraph to the Director of the Office of Personnel Management for approval. If the Director does not disapprove an examination within 30 days after the date on which the Director receives the examination, the examination is deemed to be approved by the Director.”
+
+Subsec. (d)(1). Pub. L. 108–136, §831(b)(3)(A), substituted “the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines” for “the acquisition career program board of a military department may waive any or all of the requirements of subsection (b) with respect to an employee of that military department if the board certifies” in first sentence, substituted “the Secretary” for “the board” in second sentence, and struck out third sentence which read “The document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
+
+Subsec. (d)(2). Pub. L. 108–136, §831(b)(3)(B), substituted “The Secretary” for “The acquisition career program board of a military department”.
+
+Subsec. (e). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps” in pars. (1) and (2).
 
 2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
 
@@ -81,8 +95,4 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 #### Equivalent Training Under Subsection (b)(2)(B)(ii)
 
 Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defense shall prescribe equivalent training for purposes of clause (ii) of section 1732(b)(2)(B) of title 10, United States Code (as amended by paragraph (1)), not later than 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1731 of this title.
 

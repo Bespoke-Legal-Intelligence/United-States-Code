@@ -2,7 +2,7 @@
 
 For purposes of section 60e–1a of this title and this section—
 
-&emsp;(1) the term “State” means any of the several States, the District of Columbia, theCommonwealth of Puerto Rico, or any other territory or possession of the United States;
+&emsp;(1) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States;
 
 &emsp;(2) the term “Member” means a Member of the House of Representatives, the Delegates from the District of Columbia, Guam, and the Virgin Islands, and the Resident Commissioner from Puerto Rico; and
 

@@ -1,12 +1,18 @@
 ### §111. Expense allowance of Vice President
 
-There shall be paid to the Vice President in equal monthly installments an expense allowance of $10,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
+There shall be paid to the Vice President in equal monthly installments an expense allowance of $20,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
 
-(Added Jan. 19, 1949, ch. 2, §1(c), 63 Stat. 4; amended Oct. 20, 1951, ch. 521, title VI, §619(b), 65 Stat. 570.)
+(Added Jan. 19, 1949, ch. 2, §1(c), 63 Stat. 4; amended Oct. 20, 1951, ch. 521, title VI, §619(b), 65 Stat. 570; Pub. L. 108–7, div. H, title I, §1(a), Feb. 20, 2003, 117 Stat. 348.)
 
 #### Amendments
 
+2003—Pub. L. 108–7 substituted “$20,000” for “$10,000”.
+
 1951—Act Oct. 20, 1951, made Vice President's expense allowance taxable.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1(f) of Pub. L. 108–7, set out as a note under section 31a–1 of Title 2, The Congress.
 
 #### Effective Date of 1951 Amendment
 

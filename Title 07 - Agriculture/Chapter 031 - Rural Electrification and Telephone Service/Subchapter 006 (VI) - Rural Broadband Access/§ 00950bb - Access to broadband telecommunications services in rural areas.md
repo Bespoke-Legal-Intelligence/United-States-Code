@@ -154,3 +154,7 @@ Procedure.—The promulgation of the regulations shall be made without regard to
 
 Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 47 section 1109.
+

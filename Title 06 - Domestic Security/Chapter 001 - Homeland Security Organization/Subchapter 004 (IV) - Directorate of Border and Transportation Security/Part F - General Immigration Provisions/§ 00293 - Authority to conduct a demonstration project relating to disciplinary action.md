@@ -36,7 +36,7 @@ Employees shall not be included within any project under this section if such em
 
 #### (f) Reports
 
-The General Accounting Office shall prepare and submit to the Committees on Government Reform and the Judiciary of the House of Representatives and the Committees on Governmental Affairs and the Judiciary of the Senateperiodic reports on any demonstration project conducted under this section, such reports to be submitted after the second and fourth years of its operation. Upon request, the Attorney General or the Secretary shall furnish such information as the General Accounting Office may require to carry out this subsection.
+The General Accounting Office shall prepare and submit to the Committees on Government Reform and the Judiciary of the House of Representatives and the Committees on Governmental Affairs and the Judiciary of the Senate periodic reports on any demonstration project conducted under this section, such reports to be submitted after the second and fourth years of its operation. Upon request, the Attorney General or the Secretary shall furnish such information as the General Accounting Office may require to carry out this subsection.
 
 #### (g) Definition
 

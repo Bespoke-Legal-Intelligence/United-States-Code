@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (8) Maximum amount withheld
 
-&emsp;The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than securities of the employer corporation) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of securities of the employer corporation and cash (not in excess of $200) in lieu of financial shares. For purposes of this paragraph, the term “securities of the employer corporation” has the meaning given such term by section 402(e)(4)(E).
+&emsp;The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount ofmoney and the fair market value of other property (other than securities of the employer corporation) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of securities of the employer corporation and cash (not in excess of $200) in lieu of financial shares. For purposes of this paragraph, the term “securities of the employer corporation” has the meaning given such term by section 402(e)(4)(E).
 
 #### (9) Separate arrangements to be treated separately
 
@@ -218,7 +218,7 @@ Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B
 
 #### Amendments
 
-2001—Subsec. (c)(3). Pub. L. 107–16, §§641(a)(1)(D)(ii), 901, temporarily reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).” See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (c)(3). Pub. L. 107–16, §§641(a)(1)(D)(ii), 901, temporarily reenacted heading without change andamended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).” See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (d)(2)(B)(iv). Pub. L. 107–16, §§641(a)(1)(D)(iii), 901, temporarily added cl. (iv). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997,Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) \[title III, §314(g)\] of Pub. L. 106–554, set out as a note under section 56 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -10,7 +10,7 @@ Definition.—In this section, “event recorder” means a device that—
 
 (b)
 
-Regulations and Orders.—Not later than December 22, 1989, the Secretary shall prescribe regulations and issue orders that may be necessary to enhance safety by requiring that a train be equipped with an event recorder notlater than one year after the regulations are prescribed and the orders are issued. However, if the Secretary finds it is impracticable to equip trains within that one-year period, the Secretary may extend the period to a date that is not later than 18 months after the regulations are prescribed and the orders are issued.
+Regulations and Orders.—Not later than December 22, 1989, the Secretary shall prescribe regulations and issue orders that may be necessary to enhance safety by requiring that a train be equipped with an event recorder not later than one year after the regulations are prescribed and the orders are issued. However, if the Secretary finds it is impracticable to equip trains within that one-year period, the Secretary may extend the period to a date that is not later than 18 months after the regulations are prescribed and the orders are issued.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 875.)
 

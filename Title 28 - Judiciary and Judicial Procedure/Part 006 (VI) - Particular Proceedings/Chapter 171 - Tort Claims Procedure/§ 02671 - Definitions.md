@@ -104,5 +104,5 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1988 Amendment not
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 8477; title 8 section 1357; title 16 section 4604; title 20 section 4420; title 25 section 450f; title 42 sections 7142c, 12555n.
+This section is referred to in title 5 section 8477; title 8 section 1357; title 16 section 4604; title 20 section 4420; title 25 section 450f; title 42 sections 7142c, 12555n; title 50 section 2783.
 

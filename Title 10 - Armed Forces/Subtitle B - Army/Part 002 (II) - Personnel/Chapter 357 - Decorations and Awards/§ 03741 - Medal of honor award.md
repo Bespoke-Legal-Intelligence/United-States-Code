@@ -102,5 +102,5 @@ Definition.—For purposes of this section, the term ‘Native American Pacific 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1074h, 3748 of this title; title 18 section 704.
+This section is referred to in sections 1074h, 3748, 3755 of this title; title 18 section 704.
 

@@ -14,9 +14,11 @@
 
 &emsp;(5) The Inspector General of the Army.
 
-&emsp;(6) The Army Reserve Forces Policy Committee.
+&emsp;(6) The Chief of Legislative Liaison.
 
-&emsp;(7) Such other offices and officials as may be established by law or as the Secretary of the Army may establish or designate.
+&emsp;(7) The Army Reserve Forces Policy Committee.
+
+&emsp;(8) Such other offices and officials as may be established by law or as the Secretary of the Army may establish or designate.
 
 (c)(1) The Office of the Secretary of the Army shall have sole responsibility within the Office of the Secretary and the Army Staff for the following functions:
 
@@ -60,7 +62,7 @@
 
 (4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.
 
-(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1036; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(27), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1036; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(27), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(c)(2), Dec. 2, 2002, 116 Stat. 2532.)
 
 #### Prior Provisions
 
@@ -69,6 +71,8 @@ A prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, §3013; Aug. 
 Another prior section 3014 was renumbered section 3015 of this title and subsequently repealed.
 
 #### Amendments
+
+2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 2001—Subsec. (f)(3). Pub. L. 107–107 substituted “67” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
 
@@ -88,5 +92,5 @@ Section 532(a) of Pub. L. 99–433 provided that: “The provisions of subsectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3032 of this title.
+This section is referred to in sections 3023, 3032 of this title.
 

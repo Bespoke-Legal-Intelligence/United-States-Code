@@ -2,7 +2,7 @@
 
 #### (a) Training and technical assistance
 
-The rural State shall provide training and technical assistance, including through such groups as the National Crime Prevention Council, to assist local communities in developing Crime Prevention Plans that reflect statewide strategic goals and objectives, and performance targets and measures.
+The rural State shall provide training and technical assistance, including through suchgroups as the National Crime Prevention Council, to assist local communities in developing Crime Prevention Plans that reflect statewide strategic goals and objectives, and performance targets and measures.
 
 #### (b) Reports
 

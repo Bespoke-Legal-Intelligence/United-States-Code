@@ -38,6 +38,8 @@ Brown v. Board of Education National Historic Site, Kansas.—Pub. L. 102–525,
 
 Carl Sandburg Home National Historic Site, North Carolina.—Pub. L. 90–592, Oct. 17, 1968, 82 Stat. 1968.
 
+Carter G. Woodson Home National Historic Site, District of Columbia.—Pub. L. 108–192, Dec. 19, 2003, 117 Stat. 2873.
+
 Charles Pinckney National Historic Site, South Carolina.—Pub. L. 100–421, Sept. 8, 1988, 102 Stat. 1581.
 
 Clara Barton National Historic Site, Maryland.—Pub. L. 93–486, title I, §101(a)(1), Oct. 26, 1974, 88 Stat. 1461.
@@ -228,6 +230,8 @@ Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, tit
 
 Automobile National Heritage Area, Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247.
 
+Blue Ridge National Heritage Area, North Carolina.—Pub. L. 108–108, title I, §140, Nov. 10, 2003, 117 Stat. 1274.
+
 Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31.
 
 Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31.
@@ -260,7 +264,7 @@ Pub. L. 106–577, title III, §302, Dec. 28, 2000, 114 Stat. 3072, established 
 
 #### Route 66 Corridor
 
-Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, authorized the Secretary of the Interior, acting through the Cultural Resource Programs at the National Park Service, to develop and carry out programs of technical assistance, grants, and coordination of activities for the preservation of the Route 66 corridor and authorized appropriations for these purposes.
+Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, authorized the Secretary of the Interior, acting through the Cultural Resource Programs at the National Park Service, to develop and carry out programs of technical assistance, grants, and coordination of activities for thepreservation of the Route 66 corridor and authorized appropriations for these purposes.
 
 #### Chesapeake Bay Initiative
 
@@ -318,7 +322,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(1) the first thorough exploration of the Puget Sound area, by Captain George Vancouver, in 1792;
 
-&emsp;“(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
+&emsp;“(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island,quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
 
 &emsp;“(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
 
@@ -466,5 +470,5 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 410fff–2, 410ggg–1, 410hhh–5, 410iii–5, 423<i>l</i>–5, 430f–5, 430f–10, 430m,450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 550, 1303; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 410fff–2, 410ggg–1, 410hhh–5, 410iii–5, 423<i>l</i>–5, 430f–5, 430f–10, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 550, 1303; title 43 section 377b.
 

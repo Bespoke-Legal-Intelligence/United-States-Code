@@ -34,7 +34,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;(A) The deductions for corporations provided in part VIII (except section 248) of subchapter B (section 241 and following, relating to the deduction for dividends received, etc.) shall not be allowed.
 
-&emsp;&emsp;(B) The deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to that portion of such deduction which is attributable to the amount excluded under subparagraph (D).
+&emsp;&emsp;(B) The deduction for dividends paid (as defined in section 561) shall be allowed, butshall be computed without regard to that portion of such deduction which is attributable to the amount excluded under subparagraph (D).
 
 &emsp;&emsp;(C) The taxable income shall be computed without regard to section 443(b) (relating to computation of tax on change of annual accounting period).
 
@@ -64,7 +64,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (D) Treatment by shareholders of undistributed capital gains
 
-&emsp;&emsp;(i) Every shareholder of a real estate investment trust at the close of the trust's taxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the trust's taxable year falls, such amount as the trust shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after the close of its taxableyear (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year), but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A)(ii) which he would have received if all of such amount had been distributed as capital gain dividends by the trust to the holders of such shares at the close of its taxable year.
+&emsp;&emsp;(i) Every shareholder of a real estate investment trust at the close of the trust's taxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the trust's taxable year falls, such amount as the trust shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after the close of its taxable year (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year), but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A)(ii) which he would have received if all of such amount had been distributed as capital gain dividends by the trust to the holders of such shares at the close of its taxable year.
 
 &emsp;&emsp;(ii) For purposes of this title, every such shareholder shall be deemed to have paid, for his taxable year under clause (i), the tax imposed by subparagraph (A)(ii) on the amounts required by this subparagraph to be included in respect of such shares in computing his long-term capital gains for that year; and such shareholders shall be allowed credit or refund as the case may be, for the tax so deemed to have been paid by him.
 
@@ -142,7 +142,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(iii)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or (II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year;
 
-&emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not less than 4 years for production of rental income; and
+&emsp;&emsp;&emsp;(iv) in the case of property, which consists of land or improvements, not acquired through foreclosure (or deed in lieu of foreclosure), or lease termination, the trust has held the property for not lessthan 4 years for production of rental income; and
 
 &emsp;&emsp;&emsp;(v) if the requirement of clause (iii)(I) is not satisfied, substantially all of the marketing and development expenditures with respect to the property were made through an independent contractor (as defined in section 856(d)(3)) from whom the trust itself does not derive or receive any income.
 
@@ -190,7 +190,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (iii) Exception for de minimis amounts
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to amounts described in section 856(d)(7)(A) with respect to a property to the extent such amountsdo not exceed the one percent threshold described in section 856(d)(7)(B) with respect to such property.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to amounts described in section 856(d)(7)(A) with respect to a property to the extent such amounts do not exceed the one percent threshold described in section 856(d)(7)(B) with respect to such property.
 
 #### (iv) Exception for comparably priced services
 
@@ -210,7 +210,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (vi) Exception for certain services based on subsidiary's income from the services
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to any service rendered by a taxable REIT subsidiary of a real estate investment trust to a tenant of such trust if the gross income of such subsidiary from such service is not less than 150 percent of such subsidiary's direct cost in furnishing or rendering the service.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any service rendered by a taxable REIT subsidiary of areal estate investment trust to a tenant of such trust if the gross income of such subsidiary from such service is not less than 150 percent of such subsidiary's direct cost in furnishing or rendering the service.
 
 #### (vii) Exceptions granted by Secretary
 
@@ -264,7 +264,21 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (c) Restrictions applicable to dividends received from real estate investment trusts
 
-For purposes of section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend.
+#### (1) Section 243
+
+&emsp;For purposes of section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered a dividend.
+
+#### (2) Section 1(h)(11)
+
+&emsp;For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends)—
+
+&emsp;&emsp;(A) rules similar to the rules of subparagraphs (B) and (C) of section 854(b)(1) shall apply to dividends received from a real estate investment trust which meets the requirements of this part, and
+
+&emsp;&emsp;(B) for purposes of such rules, such a trust shall be treated as receiving qualified dividend income during any taxable year in an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;(i) the excess of real estate investment trust taxable income computed under section 857(b)(2) for the preceding taxable year over the tax payable by the trust under section 857(b)(1) for such preceding taxable year, and
+
+&emsp;&emsp;&emsp;(ii) the excess of the income subject to tax by reason of the application of the regulations under section 337(d) for the preceding taxable year over the tax payable by the trust on such income for such preceding taxable year.
 
 #### (d) Earnings and profits
 
@@ -344,15 +358,21 @@ For purposes of section 243 (relating to deductions for dividends received by co
 
 #### (g) Cross reference
 
-&emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not</b><b>distributed during the taxable year, see section 4981.</b>
+&emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.</b>
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8),Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
 Section 246(c)(3) of this title, referred to in subsec. (b)(8)(B), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, to strike out subpar. (B) and redesignate subpar. (C) as (B).
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–27, §§302(d), 303, temporarily reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend.” See Effective and Termination Dates of 2003 Amendment note below.
 
 2002—Subsec. (b)(7)(B)(i). Pub. L. 107–147, §417(13), substituted “section 856(d)” for “subsection 856(d)”.
 
@@ -474,7 +494,7 @@ Subsec. (b)(6)(C) to (E). Pub. L. 95–600, §363(b), added subpars. (C) to (E).
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(1)(V), struck out provision that, for purposes of computing the normal tax under section 11, the taxable income and the dividends paid deduction of such real estate investment trust for the taxable year (computed without regard to capital gains dividends) would be reduced by the deduction provided by section 22 (relating to partially tax-exempt interest.
 
-Subsec. (b)(2). Pub. L. 94–455, §§1602(b)(2), 1603(c)(5), 1606(a), (d), 1607(b)(1)(A), (2), struck out subpar. (A) which provided for the exclusion of the excess, if any, of the net long-term capital gain over the net short-term capital loss, and subpar. (E) which prohibited the allowance of the net operating loss deduction provided in section 172, redesignated subpars. (B), (C), (D), and (F) as subpars. (A), (B), (C), and (D), respectively, added subpars. (E) and (F), and in subpar. (B) as redesignated substituted “subparagraph (D)” for “paragraph (F)” and struck out “shall be computed without regard to capital gains dividends and” after “shall be allowed, but”.
+Subsec. (b)(2). Pub. L. 94–455, §§1602(b)(2), 1603(c)(5), 1606(a), (d), 1607(b)(1)(A), (2), struck out subpar. (A)which provided for the exclusion of the excess, if any, of the net long-term capital gain over the net short-term capital loss, and subpar. (E) which prohibited the allowance of the net operating loss deduction provided in section 172, redesignated subpars. (B), (C), (D), and (F) as subpars. (A), (B), (C), and (D), respectively, added subpars. (E) and (F), and in subpar. (B) as redesignated substituted “subparagraph (D)” for “paragraph (F)” and struck out “shall be computed without regard to capital gains dividends and” after “shall be allowed, but”.
 
 Subsec. (b)(3)(A). Pub. L. 94–455, §1607(a), substituted provisions setting an alternative tax in case of capital gains under which, if for any taxable year, a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is imposed a tax (if such tax is less than the tax imposed by such subsection) to consist of the sum of a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and a tax of 30 percent of the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only, for provisions posing a tax for each taxable year determined as provided in section 1201(a), on the excess, if any, of the net long-term capital gain over the sum of the net short-term capital loss and the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
 
@@ -512,6 +532,12 @@ Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(3)(B), inserted provision requirin
 
 1964—Subsec. (c). Pub. L. 88–272 struck out “section 34(a) (relating to credit for dividends received by individuals),” before “section 116” and the comma before “and”.
 
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title IV, §413(b), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 545 of the Tax Relief Extension Act of 1999 \[Pub. L. 106–170\].”
@@ -536,7 +562,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1263 of Pub. L. 105–34, set out as a note under section 852 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1263 ofPub. L. 105–34, set out as a note under section 852 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -616,7 +642,7 @@ Section applicable with respect to taxable years of real estate investment trust
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 172, 291, 443, 774, 856, 858, 860, 860E, 860G, 1201, 4981 of this title.
+This section is referred to in sections 1, 172, 291, 443, 774, 854, 856, 858, 860, 860E, 860G, 1201, 4981 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

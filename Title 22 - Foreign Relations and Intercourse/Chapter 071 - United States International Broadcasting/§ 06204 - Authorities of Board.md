@@ -16,7 +16,7 @@ The Board shall have the following authorities:
 
 &emsp;(6) To allocate funds appropriated for international broadcasting activities among the various elements of the International Broadcasting Bureau and grantees, subject to the limitations in sections 6207 and 6208 of this title and subject to reprogramming notification requirements in law for the reallocation of funds.
 
-&emsp;(7) To review engineering activities to ensure that all broadcasting elements receivethe highest quality and cost-effective delivery services.
+&emsp;(7) To review engineering activities to ensure that all broadcasting elements receive the highest quality and cost-effective delivery services.
 
 &emsp;(8) To undertake such studies as may be necessary to identify areas in which broadcasting activities under its authority could be made more efficient and economical.
 
@@ -58,13 +58,13 @@ The Secretary of State and the Board, in carrying out their functions, shall res
 
 #### References in Text
 
-The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983,97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
 The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(11), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under section 1461 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
 

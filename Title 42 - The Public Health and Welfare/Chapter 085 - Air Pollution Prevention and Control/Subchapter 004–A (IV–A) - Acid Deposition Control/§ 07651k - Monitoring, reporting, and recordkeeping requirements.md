@@ -32,7 +32,7 @@ Monitoring.—The Administrator of the Environmental Protection Agency shall pro
 
 “(b)
 
-Public Availability of Carbon Dioxide Information.—For each unit required to monitor and provide carbon dioxide data under subsection (a), the Administrator shall compute the unit's aggregate annual total carbon dioxide emissions, incorporate such data into a computer data base, and make such aggregate annual data available to the public.”
+Public Availability of Carbon Dioxide Information.—For each unit required to monitor and provide carbon dioxide data under subsection (a), the Administrator shall compute the unit's aggregate annual total carbon dioxide emissions, incorporate such data into acomputer data base, and make such aggregate annual data available to the public.”
 
 #### Section Referred to in Other Sections
 

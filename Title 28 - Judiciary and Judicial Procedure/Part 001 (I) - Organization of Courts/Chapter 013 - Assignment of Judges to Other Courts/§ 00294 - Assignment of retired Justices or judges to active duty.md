@@ -1,6 +1,6 @@
 ### §294. Assignment of retired Justices or judges to active duty
 
-(a) Any retired Chief Justice of the United States or Associate Justice of the Supreme Court may be designated and assigned by the Chief Justice of the United States to perform such judicial duties in any circuit, including those of a circuit justice, as he is willing to undertake.
+(a) Any retired Chief Justice of the United States or Associate Justice of the SupremeCourt may be designated and assigned by the Chief Justice of the United States to perform such judicial duties in any circuit, including those of a circuit justice, as he is willing to undertake.
 
 (b) Any judge of the United States who has retired from regular active service under section 371(b) or 372(a) of this title shall be known and designated as a senior judge and may continue to perform such judicial duties as he is willing and able to undertake, when designated and assigned as provided in subsections (c) and (d).
 

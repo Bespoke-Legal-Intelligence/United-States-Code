@@ -6,7 +6,7 @@ In any case in which a conservator appointed under this subchapter is a Federal 
 
 #### (b) Other conservators
 
-In any case where the conservator is not a conservator described in subsection (a) of thissection, the conservator shall not be personally liable for damages in tort or otherwise for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship, unless such acts or omissions constitute gross negligence or any form of intentional tortious conduct or criminal conduct.
+In any case where the conservator is not a conservator described in subsection (a) of this section, the conservator shall not be personally liable for damages in tort or otherwise for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship, unless such acts or omissions constitute gross negligence or any form of intentional tortious conduct or criminal conduct.
 
 #### (c) Indemnification
 

@@ -24,7 +24,7 @@ If a major violent crime or drug-related emergency exists throughout a State or 
 
 #### (d) Irrelevancy of population density
 
-The President shall not limit declarations made under this section to highly populatedcenters of violent crime or drug trafficking, drug smuggling, or drug use, but shall also consider applications from governments of less populated areas where the magnitude and severity of such activities is beyond the capability of the State or local government to respond.
+The President shall not limit declarations made under this section to highly populated centers of violent crime or drug trafficking, drug smuggling, or drug use, but shall also consider applications from governments of less populated areas where the magnitude and severity of such activities is beyond the capability of the State or local government to respond.
 
 #### (e) Requirements
 

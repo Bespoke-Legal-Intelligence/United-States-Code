@@ -2,7 +2,7 @@
 
 #### (a) Water
 
-Nothing in this chapter shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this chapter—
+Nothing in this chapter shall be construed as authorizing the appropriation of water by anyFederal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this chapter—
 
 &emsp;(1) affect the rights or jurisdiction of the United States, the States, Indian tribes, or other entities over waters of any river or stream or over any ground water resource;
 

@@ -62,7 +62,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
 
-Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994,except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Amendments
 

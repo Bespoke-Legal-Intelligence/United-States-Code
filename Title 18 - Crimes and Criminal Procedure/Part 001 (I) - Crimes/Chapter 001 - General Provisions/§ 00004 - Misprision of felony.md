@@ -16,5 +16,5 @@ Changes in phraseology only.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 50 section 422.
+This section is referred to in section 1531 of this title; title 50 section 422.
 

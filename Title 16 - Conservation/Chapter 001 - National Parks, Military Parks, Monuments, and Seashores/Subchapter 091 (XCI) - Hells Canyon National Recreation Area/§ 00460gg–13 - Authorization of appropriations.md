@@ -16,5 +16,5 @@ There is hereby authorized to be appropriated the sum of not more than $1,500,00
 
 #### References in Text
 
-Section 5 of this Act, referred to in subsec. (c), is section 5 of Pub. L. 94–199. Subsec. (a) of section 5 added par. (57) to section 1276(a) of this title, relating to the designation of the Snake River for potential addition to the national wildlife and scenic rivers system. Subsec. (b) of section 5, relating to the deauthorization of the Asotin Dam, was not classified to the Code.
+Section 5 of this Act, referred to in subsec. (c), is section 5 of Pub. L. 94–199. Subsec. (a) of section 5 addedpar. (57) to section 1276(a) of this title, relating to the designation of the Snake River for potential addition to the national wildlife and scenic rivers system. Subsec. (b) of section 5, relating to the deauthorization of the Asotin Dam, was not classified to the Code.
 

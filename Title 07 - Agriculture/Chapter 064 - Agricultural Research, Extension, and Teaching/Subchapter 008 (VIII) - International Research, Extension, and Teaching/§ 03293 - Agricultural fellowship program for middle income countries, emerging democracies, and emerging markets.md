@@ -18,7 +18,7 @@ Countries described in any of the following paragraphs shall be eligible to part
 
 #### (3) Type of government
 
-&emsp;A country that has recently begun the transformation of its system of government from a non-representative type of government to arepresentative democracy and that is encouraging democratic institution building, and the cultural values, institutions, and organizations of democratic pluralism.
+&emsp;A country that has recently begun the transformation of its system of government from a non-representative type of government to a representative democracy and that is encouraging democratic institution building, and the cultural values, institutions, and organizations of democratic pluralism.
 
 #### (4) Independent states of the former Soviet Union
 

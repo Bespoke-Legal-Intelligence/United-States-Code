@@ -1,6 +1,6 @@
 ### §3213. Annual report to Congress
 
-Not later than July 1, 2000, and July 1 of each year thereafter, the Secretary shall submit to Congress a comprehensive and detailed annual report on the activities of the Secretary under this chapter during the most recently completed fiscal year.
+Not later than July 1, 2000, and July 1 of each year thereafter, the Secretary shall submit toCongress a comprehensive and detailed annual report on the activities of the Secretary under this chapter during the most recently completed fiscal year.
 
 (Pub. L. 89–136, title VI, §603, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3614.)
 

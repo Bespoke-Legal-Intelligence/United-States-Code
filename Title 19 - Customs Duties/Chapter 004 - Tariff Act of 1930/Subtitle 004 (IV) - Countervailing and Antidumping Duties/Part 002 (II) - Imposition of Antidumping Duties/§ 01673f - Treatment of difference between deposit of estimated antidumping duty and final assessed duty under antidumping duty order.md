@@ -18,7 +18,7 @@ If the amount of an estimated antidumping duty deposited under section 1673e(a)(
 
 > together with interest as provided by section 1677g of this title.
 
-(June 17, 1930, ch. 497, title VII, §737, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 173; amended Pub. L. 103–465, title II, §219(c)(10), Dec. 8, 1994, 108 Stat. 4857; Pub. L. 104–295, §40, Oct. 11, 1996, 110 Stat. 3541.)
+(June 17, 1930, ch. 497, title VII, §737, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 173; amended Pub. L. 103–465, title II, §219(c)(10),Dec. 8, 1994, 108 Stat. 4857; Pub. L. 104–295, §40, Oct. 11, 1996, 110 Stat. 3541.)
 
 #### Amendments
 

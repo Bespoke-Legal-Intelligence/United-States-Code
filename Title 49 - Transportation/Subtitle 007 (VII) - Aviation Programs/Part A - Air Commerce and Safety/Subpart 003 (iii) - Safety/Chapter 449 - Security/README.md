@@ -25,6 +25,9 @@
 | [44919\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044919%20-%20Security%20screening%20pilot%20program.md) | Security screening pilot program. |
 | [44920\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044920%20-%20Security%20screening%20opt-out%20program.md) | Security screening opt-out program. |
 | [44921\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044921%20-%20Federal%20flight%20deck%20officer%20program.md) | Federal flight deck officer program. |
+| [44922\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044922%20-%20Deputation%20of%20State%20and%20local%20law%20enforcement%20officers.md) | Deputation of State and local law enforcement officers. |
+| [44923\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044923%20-%20Airport%20security%20improvement%20projects.md) | Airport security improvement projects. |
+| [44924\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044924%20-%20Repair%20station%20security.md) | Repair station security. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,9 +58,13 @@
 
 #### Amendments
 
+2003—Pub. L. 108–176, title VI, §§605(b)(3), 611(b)(2), Dec. 12, 2003, 117 Stat. 2568, 2572, added items 44923 and 44924.
+
+Pub. L. 108–7, div. I, title III, §351(c), Feb. 20, 2003, 117 Stat. 420, added item 44922.
+
 2002—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
 
-2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920,44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 

@@ -38,7 +38,7 @@ Types of Grants.—In addition to making research grants under paragraph (1), th
 
 &emsp;(C) Grants may be awarded to multidisciplinary teams that are proposing research on long-term applied research problems, with technology transfer a major component of all such grant proposals.
 
-&emsp;(D) Grants may be awarded to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching. The Secretary shall use not less than 25 percent, and not more than 40 percent, of the funds made available for grants underthis subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences.
+&emsp;(D) Grants may be awarded to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching. The Secretary shall use not less than 25 percent, and not more than 40 percent, of the funds made available for grants under this subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences.
 
 &emsp;(E) Grants may be awarded to single investigators or coinvestigators who are beginning their research careers and do not have an extensive research publication record. To be eligible for a grant under this subparagraph, an individual shall be within 5 years of the individual's initial career track position.
 

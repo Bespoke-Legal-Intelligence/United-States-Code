@@ -28,13 +28,17 @@ Section 101 of Pub. L. 101–356 provided that the amendment made by that sectio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
 #### Salary Adjustments
+
+Pub. L. 108–167, Dec. 6, 2003, 117 Stat. 2031, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2004 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
+
+Pub. L. 108–6, §1, Feb. 13, 2003, 117 Stat. 10, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2003 to receive a salaryadjustment in accordance with section 461 of title 28, United States Code.”
 
 Pub. L. 107–77, title III, §305, Nov. 28, 2001, 115 Stat. 783, provided in part that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2002, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
@@ -70,7 +74,7 @@ Pub. L. 97–92, §140, Dec. 15, 1981, 95 Stat. 1200, as amended by Pub. L. 107�
 
 1982—Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
-1981—Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay thesalary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
+1981—Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
 
 1980—Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
 

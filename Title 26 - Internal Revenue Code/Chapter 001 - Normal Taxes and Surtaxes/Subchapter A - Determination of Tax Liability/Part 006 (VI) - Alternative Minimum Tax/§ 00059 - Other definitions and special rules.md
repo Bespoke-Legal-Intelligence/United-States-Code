@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
 
-&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
+&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis ofthe applicable rate specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
 
 #### (2) Limitation to 90 percent of tax
 
@@ -66,7 +66,7 @@ In the case of any corporation for which a credit is allowable for the taxable y
 
 #### (c) Treatment of estates and trusts
 
-In the case of any estate or trust, the alternative minimum taxable income of such estateor trust and any beneficiary thereof shall be determined by applying part I of subchapter J with the adjustments provided in this part.
+In the case of any estate or trust, the alternative minimum taxable income of such estate or trust and any beneficiary thereof shall be determined by applying part I of subchapter J with the adjustments provided in this part.
 
 #### (d) Apportionment of differently treated items in case of certain entities
 
@@ -176,9 +176,9 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824.)
 
-#### Adjustment of Alternative Minimum Tax Exemption Amount for Taxable Years Beginning in 2003
+#### Adjustment of Alternative Minimum Tax Exemption Amount for Taxable Years Beginning in 2004
 
-<i>For adjustment of alternative minimum tax exemption amount under subsection (j) of this section in the case of a child to whom the “kiddie tax” applies for taxable years beginning in 2003, see section 3.08 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of alternative minimum tax exemption amount under subsection (j) of this section in the case of a child to whom the</i><i>“kiddie tax” applies for taxable years beginning in 2004, see section 3.08 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

@@ -10,10 +10,13 @@
 | [4686\.](%C2%A7%2004686%20-%20Obsolete%20ordnance%20gift%20to%20State%20homes%20for%20soldiers%20and%20sailors.md) | Obsolete ordnance: gift to State homes for soldiers and sailors. |
 | [4687\.](%C2%A7%2004687%20-%20Sale%20of%20excess%2C%20obsolete%2C%20or%20unserviceable%20ammunition%20and%20ammunition%20components.md) | Sale of excess, obsolete, or unserviceable ammunition and ammunition components. |
 | [4688\.](%C2%A7%2004688%20-%20Armor-piercing%20ammunition%20and%20components%20condition%20on%20disposal.md) | Armor-piercing ammunition and components: condition on disposal. |
+| [4689\.](%C2%A7%2004689%20-%20Transfer%20of%20material%20and%20equipment%20to%20the%20Architect%20of%20the%20Capitol.md) | Transfer of material and equipment to the Architect of the Capitol. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–217, §2(2), Aug. 21, 2002, 116 Stat. 1295, added item 4689.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §382(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, added item 4688.
 
@@ -34,3 +37,4 @@
 - [&sect; 04686 - Obsolete ordnance gift to State homes for soldiers and sailors](%C2%A7%2004686%20-%20Obsolete%20ordnance%20gift%20to%20State%20homes%20for%20soldiers%20and%20sailors.md)
 - [&sect; 04687 - Sale of excess, obsolete, or unserviceable ammunition and ammunition components](%C2%A7%2004687%20-%20Sale%20of%20excess%2C%20obsolete%2C%20or%20unserviceable%20ammunition%20and%20ammunition%20components.md)
 - [&sect; 04688 - Armor-piercing ammunition and components condition on disposal](%C2%A7%2004688%20-%20Armor-piercing%20ammunition%20and%20components%20condition%20on%20disposal.md)
+- [&sect; 04689 - Transfer of material and equipment to the Architect of the Capitol](%C2%A7%2004689%20-%20Transfer%20of%20material%20and%20equipment%20to%20the%20Architect%20of%20the%20Capitol.md)

@@ -60,7 +60,7 @@ The Advisory Committee shall establish rules for determining when 1 of its membe
 
 #### (2) Additional reports
 
-&emsp;The Advisory Committee may render to the Under Secretary for transmittal to Congress such additional reports on specific policy matters as it considers appropriate.
+&emsp;The Advisory Committee may render to the Under Secretary for transmittal to Congresssuch additional reports on specific policy matters as it considers appropriate.
 
 #### (i) Federal Advisory Committee Act exemption
 

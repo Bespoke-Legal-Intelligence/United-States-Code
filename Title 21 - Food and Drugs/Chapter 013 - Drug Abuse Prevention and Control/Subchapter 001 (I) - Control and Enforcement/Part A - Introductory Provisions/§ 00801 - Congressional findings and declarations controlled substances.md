@@ -38,6 +38,10 @@ Section 704 of title II of Pub. L. 91–513 provided that:
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–21, title VI, §608(a), Apr. 30, 2003, 117 Stat. 691, provided that: “This section \[amending sections 843 and 856 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Illicit Drug Anti-Proliferation Act of 2003’.”
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–310, div. B, title XXXV, §3501, Oct. 17, 2000, 114 Stat. 1222, provided that: “This title \[amending sections 823 and 824 of this title\] may be cited as the ‘Drug Addiction Treatment Act of 2000’.”
@@ -102,7 +106,7 @@ Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note underthis section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
+Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
 Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V (§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
@@ -134,7 +138,7 @@ Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules,
 
 Pub. L. 106–391, title III, §320, Oct. 30, 2000, 114 Stat. 1597, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Administrator \[of the National Aeronautics and Space Administration\], in consultation with the Director of the Office of National Drug Control Policy, shall place anti-drug messages on Internet sites controlled by the National Aeronautics and Space Administration.”
 
-Pub. L. 106–310, div. B, title XXXVI, §3671, Oct. 17, 2000, 114 Stat. 1245, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2000\], the head of each department, agency, and establishment of the Federal Government shall, in consultation with the Director of the Office of National Drug Control Policy, place antidrug messages on appropriate Internet websites controlled by such department, agency, or establishment which messages shall, where appropriate, contain an electronic hyperlink to the Internet website, if any, of the Office.”
+Pub. L. 106–310, div. B, title XXXVI, §3671, Oct. 17, 2000, 114 Stat. 1245, provided that: “Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2000\], the head of each department, agency, and establishment of the Federal Government shall, in consultation with the Director of the Office of National Drug Control Policy, place antidrug messages on appropriate Internet websites controlled by such department, agency, or establishment which messages shall,where appropriate, contain an electronic hyperlink to the Internet website, if any, of the Office.”
 
 #### Protocols for Investigations and Prosecutions Relating to Date-Rape Drugs and Other Controlled Substances; Annual Report; National Awareness Campaign
 
@@ -234,7 +238,7 @@ Pub. L. 104–237, §2, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Cong
 
 #### Support for International Efforts To Control Methamphetamine and Precursors
 
-Pub. L. 104–237, title I, §101, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Attorney General, in consultation with the Secretary of State, shall coordinate international drug enforcement efforts to decrease the movement of methamphetamine and methamphetamine precursors into the United States.”
+Pub. L. 104–237, title I, §101, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Attorney General, in consultationwith the Secretary of State, shall coordinate international drug enforcement efforts to decrease the movement of methamphetamine and methamphetamine precursors into the United States.”
 
 #### Interagency Methamphetamine Task Force
 
@@ -380,7 +384,7 @@ Interagency Agreement.—The Secretary of Transportation and the Secretary of th
 
 Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada.”
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -424,7 +428,7 @@ Pub. L. 99–570, title III, §§3001–3003, 3301, Oct. 27, 1986, 100 Stat. 320
 
 &emsp;“(4) the Department of Defense and the use of its resources should be an integral part of a comprehensive, natonal \[national\] drug interdiction program;
 
-&emsp;“(5) the Federal Government civilian agencies engaged in drug interdiction, particularly the United States Customs Service and the Coast Guard, currently lack the aircraft, ships, radar, command, control, communications, and intelligence (C3I) system, and manpower resources necessary to mount a comprehensive attack on the narcotics traffickers who threaten the United States;
+&emsp;“(5) the Federal Government civilian agencies engaged in drug interdiction, particularly the United States Customs Service and the Coast Guard, currently lack the aircraft, ships, radar, command, control, communications, and intelligence (C3I) system,and manpower resources necessary to mount a comprehensive attack on the narcotics traffickers who threaten the United States;
 
 &emsp;“(6) the civilian drug interdiction agencies of the United States are currently interdicting only a small percentage of the illegal, drug smuggler penetrations in the United States every year;
 
@@ -510,7 +514,7 @@ Findings.—The Congress finds that—
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;“(1) all employers providing health insurance policies should ensure that the policies provide adequate coverage for treatment of drug and alcohol addiction in recognition that the health consequences and costs for individuals and society can be as formidable as those resulting from other diseases and illnesses for which insurance coverage is much more adequate; and
+&emsp;“(1) all employers providing health insurance policies should ensure that the policies provide adequatecoverage for treatment of drug and alcohol addiction in recognition that the health consequences and costs for individuals and society can be as formidable as those resulting from other diseases and illnesses for which insurance coverage is much more adequate; and
 
 &emsp;“(2) State insurance commissioners should encourage employers providing health benefits plans to ensure that the policies provide more adequate coverage for treatment of drug and alcohol addiction.”
 
@@ -534,7 +538,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 \[Chairman; Vice Chairman; compensation of members; meetings\] (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings.
 
-“(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 perdiem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
+“(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
 “(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof.
 
@@ -590,7 +594,7 @@ Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, provided:
 
 Reorganization Plan No. 2 of 1973 \[set out in the Appendix to Title 5, Government Organization and Employees\], which becomes effective on July 1, 1973, among other things establishes a Drug Enforcement Administration in the Department of Justice. In my message to the Congress transmitting that plan, I stated that all functions of the Office for Drug Abuse Law Enforcement (established pursuant to Executive Order No. 11641 of January 28, 1972) and the Office of National Narcotics Intelligence (established pursuant to Executive Order No. 11676 of July 27, 1972) would, together with other related functions, be merged in the new Drug Enforcement Administration.
 
-NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and laws of the United States, including section 5317 of title 5 of the United States Code, as amended, it is hereby ordered as follows:
+NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and laws of the United States, including section 5317 of title 5 of the UnitedStates Code, as amended, it is hereby ordered as follows:
 
 Section 1. The Attorney General, to the extent permitted by law, is authorized to coordinate all activities of executive branch departments and agencies which are directly related to the enforcement of laws respecting narcotics and dangerous drugs. Each department and agency of the Federal Government shall, upon request and to the extent permitted by law, assist the Attorney General in the performance of functions assigned to him pursuant to this order, and the Attorney General may, in carrying out those functions, utilize the services of any other agencies, Federal and State, as may be available and appropriate.
 

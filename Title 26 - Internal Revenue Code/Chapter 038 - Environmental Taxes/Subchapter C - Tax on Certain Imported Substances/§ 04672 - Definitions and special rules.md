@@ -86,7 +86,7 @@ In general.—The Secretary may add substances to or remove substances from the 
 
 “(B)
 
-Authority to add substances to list based on value.—The Secretary may, to the extent necessary to carry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if ‘value’ were substituted for ‘weight’ therein.”
+Authority to add substances to list based on value.—The Secretary may, to the extent necessary tocarry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if ‘value’ were substituted for ‘weight’ therein.”
 
 #### Effective Date of 1988 Amendment
 

@@ -6,7 +6,7 @@ The service projects carried out by the Civilian Community Corps shall—
 
 &emsp;(1) meet an identifiable public need;
 
-&emsp;(2) emphasize the performance of community service activities that provide meaningfulcommunity benefits and opportunities for service learning and skills development;
+&emsp;(2) emphasize the performance of community service activities that provide meaningful community benefits and opportunities for service learning and skills development;
 
 &emsp;(3) to the maximum extent practicable, encourage work to be accomplished in teams of diverse individuals working together; and
 

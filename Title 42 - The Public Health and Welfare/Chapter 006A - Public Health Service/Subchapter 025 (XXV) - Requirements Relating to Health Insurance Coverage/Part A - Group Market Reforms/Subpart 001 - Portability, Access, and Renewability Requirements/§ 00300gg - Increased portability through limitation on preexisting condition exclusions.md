@@ -2,7 +2,7 @@
 
 #### (a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage
 
-Subject to subsection (d) of this section, a group health plan, and a health insurance issueroffering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
+Subject to subsection (d) of this section, a group health plan, and a health insurance issuer offering group health insurance coverage, may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
 &emsp;(1) such exclusion relates to a condition (whether physical or mental), regardless of the cause of the condition, for which medical advice, diagnosis, care, or treatment was recommended or received within the 6-month period ending on the enrollment date;
 

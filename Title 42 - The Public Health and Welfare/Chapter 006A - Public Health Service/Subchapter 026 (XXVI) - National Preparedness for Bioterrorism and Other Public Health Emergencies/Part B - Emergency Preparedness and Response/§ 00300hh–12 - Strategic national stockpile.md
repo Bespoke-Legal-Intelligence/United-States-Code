@@ -142,7 +142,7 @@ Report.—The President shall ensure that, not later than six months after the d
 
 “(f)
 
-Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxisor preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
+Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
 
 #### Section Referred to in Other Sections
 

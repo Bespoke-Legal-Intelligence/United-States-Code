@@ -50,7 +50,7 @@ Subsec. (d)(3). Pub. L. 103–328, §107(d), added par. (3).
 
 Subsec. (c)(1). Pub. L. 102–558, §302(a)(1), inserted “domestic retail” before “deposit accounts” and “and requiring deposit insurance protection,” after “$100,000,” in introductory provisions. Pub. L. 102–550, §1604(a)(11)(A), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Subsec. (c)(2). Pub. L. 102–558, §302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. Pub. L. 102–550, §1604(a)(11)(B), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+Subsec. (c)(2). Pub. L. 102–558, §302(a)(2), substituted “Domestic retail deposit” for “Deposit” and inserted “that require deposit insurance protection” after “$100,000”. Pub. L. 102–550, §1604(a)(11)(B), which madean identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 1991—Subsec. (b). Pub. L. 102–242, §214(a)(1), (2), redesignated subsec. (b) as (b)(1) and designated last undesignated par. as par. (2).
 

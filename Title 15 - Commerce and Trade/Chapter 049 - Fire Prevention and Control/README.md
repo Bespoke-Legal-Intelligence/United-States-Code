@@ -28,14 +28,17 @@
 | (b) | Limitation on manufacture and sale of equipment. |
 | (c) | Management studies. |
 | (d) | Rural assistance. |
-| (e) | Coordination. |
+| (e) | Assistance to other Federal agencies. |
+| (f) | Technology evaluation and standards development. |
+| (g) | Coordination. |
 | [2208\.](%C2%A7%2002208%20-%20National%20Fire%20Data%20Center.md) | National Fire Data Center. |
 | (a) | Functions. |
 | (b) | Methods. |
 | (c) | Dissemination of fire data. |
 | [2209\.](%C2%A7%2002209%20-%20Master%20plans.md) | Master plans. |
 | (a) | Encouragement by Administrator. |
-| (b) | “Master plan” defined. |
+| (b) | Mutual aid systems. |
+| (c) | “Master plan” defined. |
 | [2210\.](%C2%A7%2002210%20-%20Reimbursement%20for%20costs%20of%20firefighting%20on%20Federal%20property.md) | Reimbursement for costs of firefighting on Federal property. |
 | (a) | Filing of claims. |
 | (b) | Determination. |
@@ -110,6 +113,16 @@
 | (c) | Audits. |
 | (d) | State defined. |
 | (e) | Authorization of appropriations. |
+| [2229a.](%C2%A7%2002229a%20-%20Expansion%20of%20pre-September%2011%2C%202001%2C%20fire%20grant%20program.md) | Expansion of pre-September 11, 2001, fire grant program. |
+| (a) | Expanded authority to make grants. |
+| (b) | Applications. |
+| (c) | Limitation on use of funds. |
+| (d) | Performance evaluation. |
+| (e) | Sunset and reports. |
+| (f) | Revocation or suspension of funding. |
+| (g) | Access to documents. |
+| (h) | Definitions. |
+| (i) | Authorization of appropriations. |
 | [2230\.](%C2%A7%2002230%20-%20Surplus%20and%20excess%20Federal%20equipment.md) | Surplus and excess Federal equipment. |
 | [2231\.](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md) | Cooperative agreements with Federal facilities. |
 | [2232\.](%C2%A7%2002232%20-%20Burn%20research.md) | Burn research. |
@@ -165,6 +178,7 @@ This chapter is referred to in title 16 section 2106.
 - [&sect; 02227 - Fire safety systems in federally assisted buildings](%C2%A7%2002227%20-%20Fire%20safety%20systems%20in%20federally%20assisted%20buildings.md)
 - [&sect; 02228 - CPR training](%C2%A7%2002228%20-%20CPR%20training.md)
 - [&sect; 02229 - Firefighter assistance](%C2%A7%2002229%20-%20Firefighter%20assistance.md)
+- [&sect; 02229a - Expansion of pre-September 11, 2001, fire grant program](%C2%A7%2002229a%20-%20Expansion%20of%20pre-September%2011%2C%202001%2C%20fire%20grant%20program.md)
 - [&sect; 02230 - Surplus and excess Federal equipment](%C2%A7%2002230%20-%20Surplus%20and%20excess%20Federal%20equipment.md)
 - [&sect; 02231 - Cooperative agreements with Federal facilities](%C2%A7%2002231%20-%20Cooperative%20agreements%20with%20Federal%20facilities.md)
 - [&sect; 02232 - Burn research](%C2%A7%2002232%20-%20Burn%20research.md)

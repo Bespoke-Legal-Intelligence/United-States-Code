@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 &emsp;(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
 
-&emsp;(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices ofthe United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
+&emsp;(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
 &emsp;(4) costs of determining under section 669e(a) of this title whether State comprehensive plans and projects are substantial in character and design;
 
@@ -32,7 +32,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 &emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
-&emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
+&emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United StatesFish and Wildlife Service at the time at which the relocation expenses are incurred; and
 
 &emsp;(12) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 669e, 669h–1, and 669h–2 of this title.
 

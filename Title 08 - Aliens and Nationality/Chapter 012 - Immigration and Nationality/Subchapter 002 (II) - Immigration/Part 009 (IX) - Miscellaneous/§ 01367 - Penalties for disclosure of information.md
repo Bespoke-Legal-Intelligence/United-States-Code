@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 241(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
-&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) <sup>1</sup> of such Act\[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1101(a)(15)(U), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
+&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) <sup>1</sup> of such Act \[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1101(a)(15)(U), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
 
 > The limitation under paragraph (2) ends when the application for relief is denied and all opportunities for appeal of the denial have been exhausted.
 

@@ -12,13 +12,15 @@
 
 #### (b) Special limitations on tax
 
-&emsp;&emsp;<b>(1) For limitation on tax in case of income of members of Armed Forces and victims of certain terrorist attacks on death, see section 692.</b>
+&emsp;&emsp;<b>(1) For limitation on tax in case of income of members of Armed Forces, astronauts, and victims of certain terrorist attacks on death, see section 692.</b>
 
 &emsp;&emsp;<b>(2) For computation of tax where taxpayer restores substantial amount held under claim of right, see section 1341.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 10; Pub. L. 88–272, title II, §232(f)(2), Feb. 26, 1964, 78 Stat. 111; Pub.L. 91–172, title III, §301(b)(2), title VIII, §803(d)(6), Dec. 30, 1969, 83 Stat. 585, 684; Pub. L. 94–455, title XIX, §§1901(b)(22)(B), 1951(c)(3)(A), Oct. 4, 1976, 90 Stat. 1798, 1841; Pub. L. 95–600, title IV, §§401(b)(2), 421(e)(1), Nov. 6, 1978, 92 Stat. 2867, 2875; Pub. L. 96–222, title I, §104(a)(4)(H)(vii), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–248, title II, §201(d)(4), formerly §201(c)(4), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(4), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title I, §141(b)(2), title VII, §701(e)(4)(A), Oct. 22, 1986, 100 Stat. 2117, 2343; Pub. L. 107–134, title I, §101(b)(1), Jan. 23, 2002, 115 Stat. 2428.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 10; Pub. L. 88–272, title II, §232(f)(2), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §301(b)(2), title VIII, §803(d)(6), Dec. 30, 1969, 83 Stat. 585, 684; Pub. L. 94–455, title XIX, §§1901(b)(22)(B), 1951(c)(3)(A), Oct. 4, 1976, 90 Stat. 1798, 1841; Pub. L. 95–600, title IV, §§401(b)(2), 421(e)(1), Nov. 6, 1978, 92 Stat. 2867, 2875; Pub. L. 96–222, title I, §104(a)(4)(H)(vii), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–248, title II, §201(d)(4), formerly §201(c)(4), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(4), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title I, §141(b)(2), title VII, §701(e)(4)(A), Oct. 22, 1986, 100 Stat. 2117, 2343; Pub. L. 107–134, title I, §101(b)(1), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(A), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–121 inserted “, astronauts,” after “Forces”.
 
 2002—Subsec. (b)(1). Pub. L. 107–134 inserted “and victims of certain terrorist attacks” before “on death”.
 
@@ -41,6 +43,10 @@ Subsec. (a)(4), (5). Pub. L. 95–600, §§401(b)(2), 421(e)(1), redesignated pa
 Subsec. (b). Pub. L. 91–172, §803(d)(6), substituted “tax” for “surtax” in pars. (1) and (5).
 
 1964—Subsec. (b). Pub. L. 88–272 redesignated pars. (2), (3), (4), (7) and (8) as pars. (1) to (5), respectively, substituted “where an individual chooses the benefits of income averaging” for “with respect to compensation for longterm services” in par. (3), and struck out former pars. (1), (5) and (6) which referred to tax attributable to receipt of lump sum under annuity, endowment, or life insurance contract, to income from artistic work or inventions, and to back pay, respectively.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–121, title I, §110(a)(4), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this subsection \[amending this section and sections 692 and 6013 of this title\] shall apply with respect to any astronaut whose death occurs after December 31, 2002.”
 
 #### Effective Date of 2002 Amendment
 
@@ -86,7 +92,7 @@ General rule.—Except as provided in paragraph (2), the amendments made by this
 
 “(2)
 
-Income from an employment.—If, in a taxable year beginning after December 31, 1963, an individual or partnership receives or accrues compensation from an employment (as defined by section 1301(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect immediately before the enactment of this Act \[Feb. 26, 1964\] and the employment began before February 6, 1963, the tax attributable to such compensation may, at the election of the taxpayer, be computed under the provisions of sections 1301 and 1307 of such Code as in effect immediately before the enactment of this Act. If a taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate by regulations prescribes), he may not choose for such taxable year the benefits provided by part I ofsubchapter Q of chapter 1 of such Code (relating to income averaging) as amended by this Act and (if he elects to have subsection (e) of such section 1307 apply) section 170(b)(5) of such Code as amended by this Act shall not apply to charitable contributions paid in such taxable year.”
+Income from an employment.—If, in a taxable year beginning after December 31, 1963, an individual or partnership receives or accrues compensation from an employment (as defined by section 1301(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect immediately before the enactment of this Act \[Feb. 26, 1964\] and the employment began before February 6, 1963, the tax attributable to such compensation may, at the election of the taxpayer, be computed under the provisions of sections 1301 and 1307 of such Code as in effect immediately before the enactment of this Act. If a taxpayer so elects (at such time and in such manner as the Secretary of the Treasury or his delegate by regulations prescribes), he may not choose for such taxable year the benefits provided by part I of subchapter Q of chapter 1 of such Code (relating to income averaging) as amended by this Act and (if he elects to have subsection (e) of such section 1307 apply) section 170(b)(5) of such Code as amended by this Act shall not apply to charitable contributions paid in such taxable year.”
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

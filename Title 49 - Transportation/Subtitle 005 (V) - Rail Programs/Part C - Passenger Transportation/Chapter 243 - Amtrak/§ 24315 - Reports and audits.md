@@ -134,7 +134,7 @@ In subsection (b)(1), before clause (A), the words “(beginning with 1973)” a
 
 In subsection (c), the words “(beginning with 1974)” are omitted as executed. The word “prepare” is substituted for “transmit to the President and to the Congress by March 15 of each year” for clarity because the report is now part of the annual report under 49:308(a). The words “Beginning in 1976” are omitted as executed. The word “Secretary” is substituted for “Department of Transportation” because of 49:102(b). The words “submits under section 308(a) of this title” are substituted for “to the Congress” for clarity.
 
-In subsection (d), the words “independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States” are omitted as obsolete because only certified public accountants are used for the audit. Only noncertified public accountants licensed before December 30, 1970, who were already conducting audits were allowed to continue. The words “or places” are omitted because of 1:1. The words “financial statements” are substituted for “accounts” because audits are performed on financial statements, not accounts. The words “independent” and “annual” are omitted as surplus. The text of 45:644(1)(B) (last sentence) is omitted as surplus because those requirements are included in “generally accepted auditing standards”.
+In subsection (d), the words “independent licensed public accountants certified or licensed by a regulatoryauthority of a State or other political subdivision of the United States” are omitted as obsolete because only certified public accountants are used for the audit. Only noncertified public accountants licensed before December 30, 1970, who were already conducting audits were allowed to continue. The words “or places” are omitted because of 1:1. The words “financial statements” are substituted for “accounts” because audits are performed on financial statements, not accounts. The words “independent” and “annual” are omitted as surplus. The text of 45:644(1)(B) (last sentence) is omitted as surplus because those requirements are included in “generally accepted auditing standards”.
 
 In subsection (e), the word “rules” is omitted as being synonymous with “regulations”. The words “or places” are omitted because of 1:1. The word “appropriate” is omitted as surplus.
 
@@ -153,6 +153,10 @@ Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignat
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsecs. (a), (b)(1), (c), and (d) of this section relating to requirements to submit regular periodic reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 3rd item on page 176 and the 6th and 7th items on page 204 of House Document No. 103–7.
+
+#### Reports on Operating Losses
+
+Pub. L. 108–7, div. I, title III, §350, Feb. 20, 2003, 117 Stat. 419, provided that: “On February 15, 2003, and on each year thereafter, the National Railroad Passenger Corporation shall submit to the appropriate Congressional Committees a report detailing the per passenger operating loss on each rail line.”
 
 #### Amtrak To Notify Congress of Lobbying Relationships
 

@@ -32,7 +32,7 @@ It is the sense of the Congress that each State should review and revise, if nec
 
 &emsp;&emsp;&emsp;(ii) as permitted under applicable law in the case of a person committed by a court to a treatment program or facility.
 
-&emsp;&emsp;(E) The right not to participate in experimentation in the absence of such person's informed, voluntary, written consent, the right to appropriate protections in connection with such participation, including the right to a reasonable explanation of the procedure to be followed, the benefits to be expected, the relative advantages of alternative treatments, and the potential discomforts and risks, and the right and opportunity to revoke such consent.
+&emsp;&emsp;(E) The right not to participate in experimentation in the absence of such person'sinformed, voluntary, written consent, the right to appropriate protections in connection with such participation, including the right to a reasonable explanation of the procedure to be followed, the benefits to be expected, the relative advantages of alternative treatments, and the potential discomforts and risks, and the right and opportunity to revoke such consent.
 
 &emsp;&emsp;(F) The right to freedom from restraint or seclusion, other than as a mode or course of treatment or restraint or seclusion during an emergency situation if such restraint or seclusion is pursuant to or documented contemporaneously by the written order of a responsible mental health professional.
 

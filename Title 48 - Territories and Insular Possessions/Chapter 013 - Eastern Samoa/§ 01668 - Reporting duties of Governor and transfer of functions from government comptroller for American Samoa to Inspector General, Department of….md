@@ -18,7 +18,7 @@ The authority granted in paragraph (b) of this section shall extend to all activ
 
 #### (d) Transfer of personnel, assets, etc., of office of government comptroller for American Samoa to Office of Inspector General, Department of the Interior
 
-In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
+In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances ofappropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
 (Pub. L. 96–205, title V, §501, as added Pub. L. 97–357, title IV, §402, Oct. 19, 1982, 96 Stat. 1711; amended Pub. L. 105–362, title IX, §901(<i>o</i>), Nov. 10, 1998, 112 Stat. 3291.)
 

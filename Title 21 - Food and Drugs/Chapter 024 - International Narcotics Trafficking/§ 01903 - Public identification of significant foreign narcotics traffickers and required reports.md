@@ -30,7 +30,7 @@ The report required by subsection (b) of this section shall be submitted in uncl
 
 #### (1) Intelligence
 
-&emsp;Notwithstanding any other provision of this section, the reports described in subsections\(b) and (d) of this section shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
+&emsp;Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
 
 #### (2) Law enforcement
 
@@ -77,6 +77,10 @@ The report required by subsection (b) of this section shall be submitted in uncl
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
+
+#### Delegation of Functions
+
+For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46075, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

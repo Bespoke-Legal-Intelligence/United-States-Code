@@ -1,6 +1,6 @@
 ### §1685. Transfer of property or money for administration of Trust Territory of the Pacific Islands
 
-After June 30, 1952, transfers to the Department of the Interior pursuant to the Federal Property and Administrative Services Act of 1949 <sup>1</sup> of equipment, material and supplies, excess to the needs of Federal agencies may be made at the request of the Secretary of the Interior without reimbursement or transfer of fundswhen required by the Interior Department for operations conducted in the administration of the Territories and the Trust Territory of the Pacific Islands.
+After June 30, 1952, transfers to the Department of the Interior pursuant to the Federal Property and Administrative Services Act of 1949 <sup>1</sup> of equipment, material and supplies, excess to the needs of Federal agencies may be made at the request of the Secretary of the Interior without reimbursement or transfer of funds when required by the Interior Department for operations conducted in the administration of the Territories and the Trust Territory of the Pacific Islands.
 
 (July 9, 1952, ch. 597, title I, §108, 66 Stat. 460.)
 

@@ -7,7 +7,18 @@
 | [1801\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001801%20-%20Appointment.md) | Appointment. |
 | [1802\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001802%20-%20Compensation.md) | Compensation. |
 | [1803\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001803%20-%20Delegation%20of%20authority.md) | Delegation of authority. |
-| [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Assistant%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Assistant Architect of the Capitol to act in case of absence, disability, or vacancy. |
+| [1804\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001804%20-%20Deputy%20Architect%20of%20the%20Capitol%20to%20act%20in%20case%20of%20absence%2C%20disability%2C%20or%20vacancy.md) | Deputy Architect of the Capitol to act in case of absence, disability, or vacancy. |
+| [1805\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001805%20-%20Deputy%20Architect%20of%20the%20Capitol-Chief%20Operating%20Officer.md) | Deputy Architect of the Capitol/Chief Operating Officer. |
+| (a) | Establishment of Deputy Architect of the Capitol. |
+| (b) | Qualifications. |
+| (c) | Responsibilities. |
+| (d) | Additional responsibilities. |
+| (e) | Action plan. |
+| (f) | Evaluation. |
+| (g) | Removal. |
+| (h) | Compensation. |
+| (i) | Annual performance report. |
+| (j) | Termination of role. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,6 +46,13 @@
 | 1820\. | Acquisition of real property for Capitol Police. |
 | (a) | Authority for acquisition. |
 | (b) | United States Capitol grounds provisions applicable. |
+| (c) | Effective date. |
+| [1821\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001821%20-%20Small%20purchase%20contracting%20authority.md) | Small purchase contracting authority. |
+| (a) | In general. |
+| (b) | Effective date. |
+| [1822\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001822%20-%20Leasing%20of%20space.md) | Leasing of space. |
+| (a) | In general. |
+| (b) | Conditions to lease space. |
 | (c) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

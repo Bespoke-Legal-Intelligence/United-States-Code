@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+&emsp;The term “waiting period” means, with respect to a group health plan and an individualwho is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
@@ -188,11 +188,11 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
-> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person\(or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
 
 #### (B) Dependent special enrollment period
 
-&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period ofnot less than 30 days and shall begin on the later of—
+&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of—
 
 &emsp;&emsp;&emsp;(i) the date dependent coverage is made available, or
 
@@ -292,7 +292,7 @@ No certification required to be provided before june 1, 1997.—In no case is a 
 
 &emsp;&emsp;“(iii)
 
-Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996,and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
+Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 
 &emsp;“(C)
 

@@ -10,7 +10,7 @@
 
 (b)(1) The Secretary of Labor shall investigate each complaint under subsection (a).
 
-(2) In carrying out any investigation under this subsection, the Secretary's duly authorizedrepresentatives shall, at all reasonable times, have reasonable access to, for purposes of examination, and the right to copy and receive, any documents of any person or agency that the Secretary considers relevant to the investigation.
+(2) In carrying out any investigation under this subsection, the Secretary's duly authorized representatives shall, at all reasonable times, have reasonable access to, for purposes of examination, and the right to copy and receive, any documents of any person or agency that the Secretary considers relevant to the investigation.
 
 (3) In carrying out any investigation under this subsection, the Secretary may require by subpoena the attendance and testimony of witnesses and the production of documents relating to any matter under investigation. In case of disobedience of the subpoena or contumacy and on request of the Secretary, the Attorney General may apply to any district court of the United States in whose jurisdiction such disobedience or contumacy occurs for an order enforcing the subpoena.
 
@@ -34,7 +34,7 @@
 
 &emsp;(B) appropriate evidence of compliance with subparagraph (A) is included (in such form and manner as the Merit Systems Protection Board may prescribe) with the notice of appeal under this subsection.
 
-(3) Upon receiving notification under paragraph (2)(A), the Secretary shall not continue to investigate or further attempt to resolve the complaint to which the notification relates.
+(3) Upon receiving notification under paragraph (2)(A), the Secretary shall not continue toinvestigate or further attempt to resolve the complaint to which the notification relates.
 
 (e)(1) This section shall not be construed to prohibit a preference eligible from appealing directly to the Merit Systems Protection Board from any action which is appealable to the Board under any other law, rule, or regulation, in lieu of administrative redress under this section.
 

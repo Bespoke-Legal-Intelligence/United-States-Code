@@ -40,7 +40,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-1997—Subsec. (a)(1). Pub. L. 105–33 substituted “section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985” for “section 665(a)(2) of this title”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33 substituted “section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985” for “section 665(a)(2) of this title”.
 
 #### Section Referred to in Other Sections
 

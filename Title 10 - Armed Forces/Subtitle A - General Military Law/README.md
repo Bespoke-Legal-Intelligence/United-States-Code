@@ -20,7 +20,7 @@
 | [<b>18.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
-| [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Imagery%20and%20Mapping%20Agency/README.md) | <b>National Imagery and Mapping Agency</b> | <b>441</b> |
+| [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial-Intelligence Agency</b> | <b>441</b> |
 | [<b>23.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>481 </b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -120,12 +120,17 @@
 | [<b>148.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20148%20-%20National%20Defense%20Technology%20and%20Industrial%20Base%2C%20Defense%20Reinvestment%2C%20and%20Defense%20Conversion/README.md) | <b>National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion</b> | <b>2500</b> |
 | <b>\[149.</b> | <b>Repealed.\]</b> |  |
 | <b>\[150.</b> | <b>Repealed.\]</b> |  |
-| [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541</b> |
+| [<b>152.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20152%20-%20Issue%20of%20Supplies%2C%20Services%2C%20and%20Facilities/README.md) | <b>Issue of Supplies, Services, and Facilities</b> | <b>2541 </b><b><sup>2</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>153.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20153%20-%20Exchange%20of%20Material%20and%20Disposal%20of%20Obsolete%2C%20Surplus%2C%20or%20Unclaimed%20Property/README.md) | <b>Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property</b> | <b>2571</b> |
 | [<b>155.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20155%20-%20Acceptance%20of%20Gifts%20and%20Services/README.md) | <b>Acceptance of Gifts and Services</b> | <b>2601</b> |
 | [<b>157.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20157%20-%20Transportation/README.md) | <b>Transportation</b> | <b>2631</b> |
 | [<b>159.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20159%20-%20Real%20Property%3B%20Related%20Personal%20Property%3B%20and%20Lease%20of%20Non-Excess%20Property/README.md) | <b>Real Property; Related Personal Property; and Lease of Non-Excess Property</b> | <b>2661</b> |
-| [<b>160.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20160%20-%20Environmental%20Restoration/README.md) | <b>Environmental Restoration</b> | <b>2701</b> |
+| [<b>160.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20160%20-%20Environmental%20Restoration/README.md) | <b>Environmental Restoration</b> | <b>2700</b> |
 | [<b>161.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20161%20-%20Property%20Records%20and%20Report%20of%20Theft%20or%20Loss%20of%20Certain%20Property/README.md) | <b>Property Records and Report of Theft or Loss of Certain Property</b> | <b>2721</b> |
 | [<b>163.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20163%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>2731</b> |
 | [<b>165.</b>](Part%20004%20%28IV%29%20-%20Service%2C%20Supply%2C%20and%20Procurement/Chapter%20165%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>2771</b> |
@@ -137,6 +142,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title IX, §921(d)(8), title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1569, 1612, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22 and “2700” for “2701” in item for chapter 160.
 
 2001—Pub. L. 107–107, div. A, title IX, §911(b), title X, §1048(a)(1), Dec. 28, 2001, 115 Stat. 1196, 1222, struck out period after “1111” in item for chapter 56 and added item for chapter 135.
 
@@ -166,7 +173,7 @@ Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a
 
 Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
 
-1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
+1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
 1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 

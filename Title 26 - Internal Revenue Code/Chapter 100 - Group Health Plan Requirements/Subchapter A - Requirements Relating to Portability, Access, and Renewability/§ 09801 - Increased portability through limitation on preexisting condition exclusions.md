@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or notany medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollmentdate, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
+&emsp;&emsp;A period of creditable coverage shall not be counted, with respect to enrollment of an individual under a group health plan, if, after such period and before the enrollment date, there was a 63-day period during all of which the individual was not covered under any creditable coverage.
 
 #### (B) Waiting period not treated as a break in coverage
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (4) Establishment of period
 
-&emsp;Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
+&emsp;Periods of creditable coverage with respect to an individual shall be established throughpresentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
 
 #### (d) Exceptions
 
@@ -288,7 +288,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 “(3)
 
-Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
+Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 ormore collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
 &emsp;“(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 

@@ -50,7 +50,7 @@ An individual shall be considered to have begun serving a period of obligated se
 
 The Secretary shall assign individuals performing obligated service in accordance with a written contract under the Scholarship Program to health professional shortage areas in accordance with sections 254d through 254h and sections 254j and 254k of this title. If the Secretary determines that there is no need in a health professional shortage area (designated under section 254e of this title) for a member of the profession in which an individual is obligated to provide service under a written contract and if such individual is an officer in the Service or a civilian employee of the United States, the Secretary may detail such individual to serve his period of obligated service as a full-time member of such profession in such unit of the Department as the Secretary may determine.
 
-(July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Pub. L. 94–484, title IV,§408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582; renumbered §338B and amended Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909; Pub. L. 97–414, §8(g)(1), Jan. 4, 1983, 96 Stat. 2061; renumbered §338C and amended Pub. L. 100–177, title II, §201(2), title III, §306, Dec. 1, 1987, 101 Stat. 992, 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §311, Oct. 26, 2002, 116 Stat. 1650.)
+(July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582; renumbered §338B and amended Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909; Pub. L. 97–414, §8(g)(1), Jan. 4, 1983, 96 Stat. 2061; renumbered §338C and amended Pub. L. 100–177, title II, §201(2), title III, §306, Dec. 1, 1987, 101 Stat. 992, 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §311, Oct. 26, 2002, 116 Stat. 1650.)
 
 #### Codification
 
@@ -74,7 +74,7 @@ Subsec. (b)(5)(B). Pub. L. 107–251, §311(1)(B)(i), (iii), redesignated subpar
 
 “(B)(i) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, or dentistry, the number of years referred to in subparagraph (A)(i) shall be 3 years.
 
-“(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.”
+“(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a schoolof veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.”
 
 Subsec. (b)(5)(C). Pub. L. 107–251, §311(1)(B)(iii), redesignated subpar. (E) as (C). Former subpar. (C) redesignated (B).
 
@@ -118,7 +118,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in s
 
 #### Effective Date of 1981 Amendment
 
-Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given theopportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
+Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
 
 #### Effective Date
 

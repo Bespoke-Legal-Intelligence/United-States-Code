@@ -22,7 +22,7 @@
 
 #### (A) Separate facility
 
-&emsp;&emsp;A handling or marketing facility of a qualified handler shall be considered to be aseparate facility if the facility is physically located away from other facilities of the qualified handler or the business function of the facility is substantially different from the functions of other facilities owned or operated by the qualified handler.
+&emsp;&emsp;A handling or marketing facility of a qualified handler shall be considered to be a separate facility if the facility is physically located away from other facilities of the qualified handler or the business function of the facility is substantially different from the functions of other facilities owned or operated by the qualified handler.
 
 #### (B) Eligibility
 

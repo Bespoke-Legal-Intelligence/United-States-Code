@@ -6,7 +6,7 @@ Any eggs or egg products that are or have been processed, bought, sold, possesse
 
 #### (b) Condemnation or seizure under other provisions unaffected
 
-The provisions of this section shall in no way derogate from authority for condemnation orseizure conferred by other provisions of this chapter, or other laws.
+The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
 (Pub. L. 91–597, §20, Dec. 29, 1970, 84 Stat. 1631.)
 

@@ -86,7 +86,7 @@ Effective Date.—(1) The amendments made by sections 2 and 3 \[amending this se
 
 “(b)
 
-Pending Actions.—The amendments made by this Act \[amending this section and section 90 of thistitle\] shall not affect any action commenced before the effective date of such amendments and pending on such date.
+Pending Actions.—The amendments made by this Act \[amending this section and section 90 of this title\] shall not affect any action commenced before the effective date of such amendments and pending on such date.
 
 “(c)
 

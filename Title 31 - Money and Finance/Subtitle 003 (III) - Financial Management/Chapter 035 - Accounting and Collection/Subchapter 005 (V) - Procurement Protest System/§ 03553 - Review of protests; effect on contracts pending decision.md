@@ -62,7 +62,7 @@
 
 (2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party of information described in subparagraph (B) that is contained in such a document.
 
-(B) Information referred to in subparagraph (A) is procurement sensitive information, tradesecrets, or other proprietary or confidential research, development, or commercial information.
+(B) Information referred to in subparagraph (A) is procurement sensitive information, trade secrets, or other proprietary or confidential research, development, or commercial information.
 
 (C) A protective order under this paragraph shall not be considered to authorize the withholding of any document or information from Congress or an executive agency.
 

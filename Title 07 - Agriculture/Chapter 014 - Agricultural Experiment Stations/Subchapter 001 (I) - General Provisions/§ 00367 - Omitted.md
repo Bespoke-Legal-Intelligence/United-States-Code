@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section was from act July 28, 1953, ch. 251, title I, 67 Stat. 207, the Department of Agriculture AppropriationAct, 1954, and authorized the Secretary of Agriculture to prescribe the form of the annual financial statement required from the agricultural experiment stations. See section 361e of this title. Similar provisions were contained in the following prior appropriation acts:
+Section was from act July 28, 1953, ch. 251, title I, 67 Stat. 207, the Department of Agriculture Appropriation Act, 1954, and authorized the Secretary of Agriculture to prescribe the form of the annual financial statement required from the agricultural experiment stations. See section 361e of this title. Similar provisions were contained in the following prior appropriation acts:
 
 July 5, 1952, ch. 574, title I, 66 Stat. 337.
 

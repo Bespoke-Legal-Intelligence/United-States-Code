@@ -12,13 +12,13 @@ The Secretary shall adjust the cabin user fee annually, using a rolling 5-year a
 
 #### (2) Statewide changes
 
-&emsp;In determining the annual adjustment to the cabin user fee for an authorization located in a county in which agricultural land prices are influenced by the value influences described in section 6205(b)(3) of this title, the Secretary shall use average statewide changes in the State in which the lot is located.
+&emsp;In determining the annual adjustment to the cabin user fee for an authorization located ina county in which agricultural land prices are influenced by the criteria described in section 6205(b)(2) of this title, the Secretary shall use average statewide changes in the State in which the lot is located.
 
 #### (c) New index
 
 #### (1) In general
 
-&emsp;Not later than 10 years after October 11, 2000, the Secretary may select and use an index other than the method of adjustment of a cabin user fee described in subsection (b)(2) ofthis section to adjust a cabin user fee if the Secretary determines that a different index better reflects change in the value of a lot over time.
+&emsp;Not later than 10 years after October 11, 2000, the Secretary may select and use an index other than the method of adjustment of a cabin user fee described in subsection (b)(2) of this section to adjust a cabin user fee if the Secretary determines that a different index better reflects change in the value of a lot over time.
 
 #### (2) Selection process
 
@@ -40,7 +40,11 @@ In calculating an annual adjustment to the base cabin user fee as determined by 
 
 &emsp;(2) apply the amount of any adjustment that exceeds 5 percent to the annual fee payment for the next year in which the change in the index factor is less than 5 percent.
 
-(Pub. L. 106–291, title VI, §608, Oct. 11, 2000, 114 Stat. 1019.)
+(Pub. L. 106–291, title VI, §608, Oct. 11, 2000, 114 Stat. 1019; Pub. L. 108–7, div. F, title III, §324, Feb. 20, 2003, 117 Stat. 275.)
+
+#### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–7 substituted “criteria” for “value influences” and “section 6205(b)(2)” for “section 6205(b)(3)”.
 
 #### Section Referred to in Other Sections
 

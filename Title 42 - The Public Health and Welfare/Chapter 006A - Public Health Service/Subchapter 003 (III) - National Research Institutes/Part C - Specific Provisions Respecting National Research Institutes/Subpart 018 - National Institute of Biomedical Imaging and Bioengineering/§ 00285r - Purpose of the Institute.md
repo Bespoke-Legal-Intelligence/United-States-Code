@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purpose of the National Institute of Biomedical Imaging and Bioengineering (in this section referred to as the “Institute”) is the conduct and support of research, training, the dissemination of health information, and other programs with respect to biomedical imaging,biomedical engineering, and associated technologies and modalities with biomedical applications (in this section referred to as “biomedical imaging and bioengineering”).
+The general purpose of the National Institute of Biomedical Imaging and Bioengineering (in this section referred to as the “Institute”) is the conduct and support of research, training, the dissemination of health information, and other programs with respect to biomedical imaging, biomedical engineering, and associated technologies and modalities with biomedical applications (in this section referred to as “biomedical imaging and bioengineering”).
 
 #### (b) National Biomedical Imaging and Bioengineering Program
 
@@ -68,9 +68,9 @@ Pub. L. 106–580, §4, Dec. 29, 2000, 114 Stat. 3092, provided that: “This Ac
 
 Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: “The Congress makes the following findings:
 
-&emsp;“(1) Basic research in imaging, bioengineering, computer science, informatics, and related fields is critical to improving health care but is fundamentally different from the research in molecular biology on which the current national research institutes at the National Institutes of Health (‘NIH’) are based. To ensure the development of new techniques andtechnologies for the 21st century, these disciplines therefore require an identity and research home at the NIH that is independent of the existing institute structure.
+&emsp;“(1) Basic research in imaging, bioengineering, computer science, informatics, and related fields is critical to improving health care but is fundamentally different from the research in molecular biology on which the current national research institutes at the National Institutes of Health (‘NIH’) are based. To ensure the development of new techniques and technologies for the 21st century, these disciplines therefore require an identity and research home at the NIH that is independent of the existing institute structure.
 
-&emsp;“(2) Advances based on medical research promise new, more effective treatments for a wide variety of diseases, but the development of new, noninvasive imaging techniques for earlier detection and diagnosis of disease is essential to take full advantage of such new treatments and to promote the general improvement of health care.
+&emsp;“(2) Advances based on medical research promise new, more effective treatments for a wide variety ofdiseases, but the development of new, noninvasive imaging techniques for earlier detection and diagnosis of disease is essential to take full advantage of such new treatments and to promote the general improvement of health care.
 
 &emsp;“(3) The development of advanced genetic and molecular imaging techniques is necessary to continue the current rapid pace of discovery in molecular biology.
 

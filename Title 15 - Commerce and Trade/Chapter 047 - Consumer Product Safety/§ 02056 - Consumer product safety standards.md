@@ -6,7 +6,7 @@ The Commission may promulgate consumer product safety standards in accordance wi
 
 &emsp;(1) Requirements expressed in terms of performance requirements.
 
-&emsp;(2) Requirements that a consumer product be marked with or accompanied by clear andadequate warnings or instructions, or requirements respecting the form of warnings or instructions.
+&emsp;(2) Requirements that a consumer product be marked with or accompanied by clear and adequate warnings or instructions, or requirements respecting the form of warnings or instructions.
 
 > Any requirement of such a standard shall be reasonably necessary to prevent or reduce an unreasonable risk of injury associated with such product.
 

@@ -44,7 +44,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (1) Tax not to apply where failure not discovered exercising reasonable diligence
 
-&emsp;No tax shall be imposed by subsection (a) on any failure during any period for which it isestablished to the satisfaction of the Secretary that the person otherwise liable for such tax did not know, and exercising reasonable diligence would not have known, that such failure existed.
+&emsp;No tax shall be imposed by subsection (a) on any failure during any period for which it is established to the satisfaction of the Secretary that the person otherwise liable for such tax did not know, and exercising reasonable diligence would not have known, that such failure existed.
 
 #### (2) Tax not to apply to failures corrected within certain periods
 

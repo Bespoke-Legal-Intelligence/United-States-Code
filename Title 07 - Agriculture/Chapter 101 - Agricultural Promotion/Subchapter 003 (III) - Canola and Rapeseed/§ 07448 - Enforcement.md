@@ -18,7 +18,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 &emsp;&emsp;&emsp;(i) a civil penalty by the Secretary of not more than $1,000 for each violation; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a willful failure to pay, collect, or remit an assessment as requiredby an order or regulation, an additional penalty equal to the amount of the assessment.
+&emsp;&emsp;&emsp;(ii) in the case of a willful failure to pay, collect, or remit an assessment as required by an order or regulation, an additional penalty equal to the amount of the assessment.
 
 #### (B) Separate offense
 
@@ -60,7 +60,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (e) Failure to obey cease-and-desist orders
 
-Any person who fails to obey a cease-and-desist order issued under this section after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of the cease-and-desist order.
+Any person who fails to obey a cease-and-desist order issued under this section after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicialreview under the procedures specified in subsections (c) and (d) of this section, of not more than $5,000 for each offense. Each day during which the failure continues shall be considered as a separate violation of the cease-and-desist order.
 
 #### (f) Failure to pay penalties
 

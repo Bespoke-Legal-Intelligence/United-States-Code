@@ -36,7 +36,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 
@@ -182,7 +182,7 @@ Subsec. (e). Pub. L. 101–625, §953(b), substituted “1992” for “1989”.
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating tosecurities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Congressional Findings
 

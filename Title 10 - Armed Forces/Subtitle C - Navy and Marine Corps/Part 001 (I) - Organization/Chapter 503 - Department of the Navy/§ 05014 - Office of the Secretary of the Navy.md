@@ -14,9 +14,11 @@
 
 &emsp;(5) The Naval Inspector General.
 
-&emsp;(6) The Chief of Naval Research.
+&emsp;(6) The Chief of Legislative Affairs.
 
-&emsp;(7) Such other offices and officials as may be established by law or as the Secretary of the Navy may establish or designate.
+&emsp;(7) The Chief of Naval Research.
+
+&emsp;(8) Such other offices and officials as may be established by law or as the Secretary of the Navy may establish or designate.
 
 (c)(1) The Office of the Secretary of the Navy shall have sole responsibility within the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, for the following functions:
 
@@ -44,7 +46,7 @@
 
 &emsp;&emsp;(ii) to the Commandant of the Marine Corps and the Headquarters, Marine Corps; and
 
-&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staffsupport as each considers necessary to perform his duties and responsibilities.
+&emsp;(B) ensure that each such office or entity provides the Chief of Naval Operations and the Commandant of the Marine Corps such staff support as each considers necessary to perform his duties and responsibilities.
 
 (4) The vesting in the Office of the Secretary of the Navy of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Navy (including the Office of the Chief of Naval Operations and the Headquarters, Marine Corps) from providing advice or assistance to the Chief of Naval Operations and the Commandant of the Marine Corps or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Navy.
 
@@ -78,13 +80,15 @@
 
 (4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, or the Headquarters, Marine Corps.
 
-(Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1045; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(28), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1045; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(28), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(d)(2), Dec. 2, 2002, 116 Stat. 2532.)
 
 #### Prior Provisions
 
 A prior section 5014, added Pub. L. 85–861, §1(106)(A), Sept. 2, 1958, 72 Stat. 1490, prescribed compensation of General Counsel of Department of the Navy, prior to repeal by Pub. L. 88–426, title III, §305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964. See section 5316 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 2001—Subsec. (f)(3). Pub. L. 107–107 substituted “74” for “the number equal to 85 percent of the number of general and flag officers assigned or detailed to such duty on the date of the enactment of this subsection”.
 
@@ -108,5 +112,5 @@ Subsecs. (c) and (d) of this section to be implemented not later than 180 days a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5032, 5042 of this title.
+This section is referred to in sections 5027, 5032, 5042 of this title.
 

@@ -1,0 +1,24 @@
+### §4980G. Failure of employer to make comparable health savings account contributions
+
+#### (a) General rule
+
+In the case of an employer who makes a contribution to the health savings account of any employee during a calendar year, there is hereby imposed a tax on the failure of such employer to meet the requirements of subsection (b) for such calendar year.
+
+#### (b) Rules and requirements
+
+Rules and requirements similar to the rules and requirements of section 4980E shall apply for purposes of this section.
+
+#### (c) Regulations
+
+The Secretary shall issue regulations to carry out the purposes of this section, including regulations providing special rules for employers who make contributions to Archer MSAs and health savings accounts during the calendar year.
+
+(Added Pub. L. 108–173, title XII, §1201(d)(4)(A), Dec. 8, 2003, 117 Stat. 2478.)
+
+#### Effective Date
+
+Section applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 62 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 106 of this title.
+

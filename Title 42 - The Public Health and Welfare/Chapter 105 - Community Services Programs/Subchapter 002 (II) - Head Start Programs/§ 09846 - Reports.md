@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) design
 
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
-1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in thescope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
+1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
 
 #### Effective Date of 1994 Amendment
 

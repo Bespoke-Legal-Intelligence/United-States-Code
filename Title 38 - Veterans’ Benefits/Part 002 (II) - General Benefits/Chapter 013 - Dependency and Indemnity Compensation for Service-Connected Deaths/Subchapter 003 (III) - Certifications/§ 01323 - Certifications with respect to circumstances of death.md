@@ -2,7 +2,7 @@
 
 Whenever the Secretary determines on the basis of a claim for benefits filed with the Secretary that a death occurred under the circumstances referred to in section 1476(a) of title 10, the Secretary shall certify that fact to the Secretary concerned. In all other cases, the Secretary shall make the determination referred to in such section at the request of the Secretary concerned.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1133, §423; Pub. L. 94–433, title IV, §405(19), Sept. 30, 1976, 90 Stat. 1380; Pub. L. 102–54, §14(b)(4), June 13, 1991,105 Stat. 283; renumbered §1323 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), (3)(A), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1133, §423; Pub. L. 94–433, title IV, §405(19), Sept. 30, 1976, 90 Stat. 1380; Pub. L. 102–54, §14(b)(4), June 13, 1991, 105 Stat. 283; renumbered §1323 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), (3)(A), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@
 
 (c) The Chairman may obtain such facilities and supplies as may be necessary to permit the Commission to carry out its functions. Any officer or employee appointed under this section shall be paid at rates of compensation and shall be entitled to programs offering employee benefits established under chapter 10 or chapter 12 of this title, as appropriate.
 
-(d)(1) The Commission shall periodically prepare and submit to the Postal Service a budget of the Commission's expenses, including, but not limited to, expenses for facilities, supplies, compensation, and employee benefits. The budget shall be considered approved—
+(d)(1) The Commission shall periodically prepare and submit to the Postal Service a budgetof the Commission's expenses, including, but not limited to, expenses for facilities, supplies, compensation, and employee benefits. The budget shall be considered approved—
 
 &emsp;(A) as submitted if the Governors fail to act in accordance with subparagraph (B) of this paragraph; or
 

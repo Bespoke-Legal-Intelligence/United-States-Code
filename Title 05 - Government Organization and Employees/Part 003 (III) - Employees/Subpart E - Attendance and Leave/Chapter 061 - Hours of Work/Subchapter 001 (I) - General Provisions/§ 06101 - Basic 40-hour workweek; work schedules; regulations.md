@@ -1,6 +1,6 @@
 ### §6101. Basic 40-hour workweek; work schedules; regulations
 
-(a)(1) For the purpose of this subsection, “employee” includes an employee of the government of the District of Columbia and an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title, or by a wage board or similar administrative authority serving the same purpose, but does not include an employee or individual excluded from the definition of employee in section 5541(2) of this title, except as specifically provided under this paragraph.
+(a)(1) For the purpose of this subsection, “employee” includes an employee of the government of the District of Columbia and an employee whose pay is fixed and adjusted from time to time under section 5343 or 5349 of this title, or bya wage board or similar administrative authority serving the same purpose, but does not include an employee or individual excluded from the definition of employee in section 5541(2) of this title, except as specifically provided under this paragraph.
 
 (2) The head of each Executive agency, military department, and of the government of the District of Columbia shall—
 
@@ -62,7 +62,7 @@ June 30, 1945, ch. 212, §604(e) (less last 27 words), 59 Stat. 304.
 
 In subsection (a), the words “in the departmental and the field services” are omitted as unnecessary.
 
-In subsections (a) and (b), the words “an Executive agency, a military department” are coextensive with and substituted for “the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations” and “such department, establishment, oragency” in view of the definitions in sections 105 and 102. The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
+In subsections (a) and (b), the words “an Executive agency, a military department” are coextensive with and substituted for “the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations” and “such department, establishment, or agency” in view of the definitions in sections 105 and 102. The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
 Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbia as they are not included in the definition of “employee” in section 2105.
 
@@ -104,7 +104,7 @@ Oct. 29, 1965, Pub. L. 89–301, §16, 79 Stat. 1123.
 
 \[None.\]
 
-In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
+In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department”are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
 
 Subsection (b)(1) is added on authority of former sections 901 and 902 of title 5, which are now codified in 5 U.S.C. 5541.
 
@@ -158,7 +158,7 @@ Section 1. This Act \[enacting section 5550a of this title and this note\] may b
 
 Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
-&emsp;“(1) the term ‘agency’ means an Executive agency and a military department (as such terms are definedin sections 105 and 102, respectively, of title 5, United States Code);
+&emsp;“(1) the term ‘agency’ means an Executive agency and a military department (as such terms are defined in sections 105 and 102, respectively, of title 5, United States Code);
 
 &emsp;“(2) the term ‘employ’ has the meaning given it by section 2105 of title 5, United States Code;
 
@@ -186,7 +186,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 &emsp;“(6) individuals and families generally.
 
-“(c) The Commission shall provide educational material, and technical aids and assistance, for use by an agency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
+“(c) The Commission shall provide educational material, and technical aids and assistance, for use by anagency before and during the period such agency is conducting experiments under this Act \[enacting section 5550a of this title and this note\].
 
 “(d) If the head of an agency determines that the implementation of an experimental program referred to in subsection (a) would substantially disrupt the agency in carrying out its functions, such agency head shall request the Commission to exempt such agency from the requirements of any experiment conducted by the Commission under subsection (a). Such request shall be accompanied by a report detailing the reasons for such determination. The Commission shall exempt an agency from such requirements only if it finds that including the agency within the experiment would not be in the best interest of the public, the Government, or the employees. The filing of such a request with the Commission shall exclude the agency from the experiment until the Commission has made its determination or until 180 days after the date the request is filed, whichever first occurs.
 
@@ -258,7 +258,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “time-recording devices
 
-“Sec. 105. Notwithstanding section 6106 of title 5, United States Code, the Commission or an agency may use recording clocks as part of its experiments under this title.
+“Sec. 105. Notwithstanding section 6106 of title 5, United States Code, the Commission or an agency mayuse recording clocks as part of its experiments under this title.
 
 #### “credit hours; accumulation and compensation
 
@@ -318,7 +318,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(c) Notwithstanding section 5544(a), 5546(a), or 5550(1) of title 5, United States Code, or any other applicable provision of law, in the case of any full-time employee on a compressed schedule who performs work (other than overtime work) on a tour of duty for any workday a part of which is performed on a Sunday, such employee is entitled to pay for work performed during the entire tour of duty at the rate of such employee's basic pay, plus premium pay at a rate equal to 25 percent of such basic pay rate.
 
-“(d) Notwithstanding section 5546(b) of title 5, United States Code, an employee on a compressed schedulewho performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee's basic pay, plus premium pay at a rate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of title 5, United States Code, as applicable, or the provisions of section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], whichever provisions are more beneficial to the employee.
+“(d) Notwithstanding section 5546(b) of title 5, United States Code, an employee on a compressed schedule who performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee's basic pay, plus premium pay at a rate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of title 5, United States Code, as applicable, or the provisions of section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], whichever provisions are more beneficial to the employee.
 
 #### “TITLE III—ADMINISTRATIVE PROVISIONS
 

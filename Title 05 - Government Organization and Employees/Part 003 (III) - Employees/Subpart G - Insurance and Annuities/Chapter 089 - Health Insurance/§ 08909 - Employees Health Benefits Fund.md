@@ -106,7 +106,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Disposal of Amounts Remaining as of October 19, 1998, in Contingency Reserve of Discontinued Plan
 
-Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with section 8909(e) of title 5, United States Code, as amended by this subsection, by—
+Pub. L. 105–266, §6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that: “In the case of any amounts remaining as of the date of the enactment of this Act \[Oct. 19, 1998\] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance withsection 8909(e) of title 5, United States Code, as amended by this subsection, by—
 
 &emsp;“(A) the deadline set forth in section 8909(e) of such title (as so amended); or
 

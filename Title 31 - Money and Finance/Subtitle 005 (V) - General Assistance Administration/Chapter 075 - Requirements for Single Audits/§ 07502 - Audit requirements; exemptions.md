@@ -2,7 +2,7 @@
 
 (a)(1)(A) Each non-Federal entity that expends a total amount of Federal awards equal to or in excess of $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such non-Federal entity shall have either a single audit or a program-specific audit made for such fiscal year in accordance with the requirements of this chapter.
 
-(B) Each such non-Federal entity that expends Federal awards under more than one Federal program shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
+(B) Each such non-Federal entity that expends Federal awards under more than one Federalprogram shall undergo a single audit in accordance with the requirements of subsections (b) through (i) of this section and guidance issued by the Director under section 7505.
 
 (C) Each such non-Federal entity that expends awards under only one Federal program and is not subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
 
@@ -14,7 +14,7 @@
 
 (B) The provisions of subparagraph (A)(ii) of this paragraph shall not exempt a non-Federal entity from compliance with any provision of a Federal statute or regulation that requires such non-Federal entity to maintain records concerning Federal awards provided to such non-Federal entity or that permits a Federal agency, pass-through entity, or the Comptroller General access to such records.
 
-(3) Every 2 years, the Director shall review the amount for requiring audits prescribed under paragraph (1)(A) and may adjust such dollar amount consistent with the purposes of thischapter, provided the Director does not make such adjustments below $300,000.
+(3) Every 2 years, the Director shall review the amount for requiring audits prescribed under paragraph (1)(A) and may adjust such dollar amount consistent with the purposes of this chapter, provided the Director does not make such adjustments below $300,000.
 
 (b)(1) Except as provided in paragraphs (2) and (3), audits conducted pursuant to this chapter shall be conducted annually.
 
@@ -74,7 +74,7 @@
 
 &emsp;(B) for fiscal years beginning after the period specified in subparagraph (A), 9 months after the end of the period audited, or within a longer timeframe authorized by the Federal agency, determined under criteria issued under section 7504, when the 9-month timeframe would place an undue burden on the non-Federal entity.
 
-(i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for amajor program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that corrective action is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
+(i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that corrective action is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
 
 (j) The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
 

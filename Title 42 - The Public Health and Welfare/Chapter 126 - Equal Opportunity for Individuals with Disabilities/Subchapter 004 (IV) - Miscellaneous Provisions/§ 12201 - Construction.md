@@ -28,7 +28,7 @@ Nothing in this chapter shall be construed to require an individual with a disab
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, seeShort Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

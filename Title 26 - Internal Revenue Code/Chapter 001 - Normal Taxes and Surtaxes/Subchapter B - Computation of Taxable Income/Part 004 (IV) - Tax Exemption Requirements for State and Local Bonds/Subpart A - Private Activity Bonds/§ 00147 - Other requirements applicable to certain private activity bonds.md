@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
+&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualifiedbond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
 
 #### (2) Related person
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) 2 or more persons if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b),
 
-&emsp;&emsp;(B) 2 or more persons which are members of the same controlled group of corporations\(as defined in section 1563(a), except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein),
+&emsp;&emsp;(B) 2 or more persons which are members of the same controlled group of corporations (as defined in section 1563(a), except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein),
 
 &emsp;&emsp;(C) a partnership and each of its partners (and their spouses and minor children), and
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, the term “rehabilitation expenditures” means any amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with suchperson shall be treated as incurred by such person.
+&emsp;&emsp;Except as provided in this paragraph, the term “rehabilitation expenditures” meansany amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
 
 #### (B) Certain expenditures not included
 

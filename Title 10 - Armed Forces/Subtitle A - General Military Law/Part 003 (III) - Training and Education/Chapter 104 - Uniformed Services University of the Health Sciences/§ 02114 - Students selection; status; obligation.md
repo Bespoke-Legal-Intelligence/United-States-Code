@@ -48,7 +48,7 @@
 
 (h) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (b) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII, §803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 105–85, div. A, title X, §1073(a)(38), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII,§803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 105–85, div. A, title X, §1073(a)(38), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### Amendments
 
@@ -108,9 +108,13 @@ Amendment by section 511(65) of Pub. L. 96–513 effective Dec. 12, 1980, see se
 
 #### Transfer of Functions
 
-For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences toSecretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
+For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
 
 #### Transition Provisions
 
 Section 741(d)(2) of Pub. L. 104–201 provided that: “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 632 of this title.
 

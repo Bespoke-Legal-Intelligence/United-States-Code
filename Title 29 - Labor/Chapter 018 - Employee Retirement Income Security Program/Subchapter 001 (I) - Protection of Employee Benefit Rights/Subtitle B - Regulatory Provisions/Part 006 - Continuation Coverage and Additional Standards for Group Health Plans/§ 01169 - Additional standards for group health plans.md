@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) the plan administrator shall promptly notify the participant and each alternate recipient of the receipt of such order and the plan's procedures for determining whether medical child support orders are qualified medical child support orders, and
 
-&emsp;&emsp;&emsp;(ii) within a reasonable period after receipt of such order, the plan administrator shall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
+&emsp;&emsp;&emsp;(ii) within a reasonable period after receipt of such order, the plan administratorshall determine whether such order is a qualified medical child support order and notify the participant and each alternate recipient of such determination.
 
 #### (B) Establishment of procedures for determining qualified status of orders
 
@@ -114,7 +114,7 @@
 
 #### (1) Compliance by plans with assignment of rights
 
-&emsp;A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
+&emsp;A group health plan shall provide that payment for benefits with respect to a participant under the plan will be made in accordance with any assignment of rights made by or on behalf of such participant or a beneficiary of the participant as required by a State plan for medical assistance approved under title XIX ofthe Social Security Act \[42 U.S.C. 1396 et seq.\] pursuant to section 1912(a)(1)(A) of such Act \[42 U.S.C. 1396k(a)(1)(A)\] (as in effect on August 10, 1993).
 
 #### (2) Enrollment and provision of benefits without regard to medicaid eligibility
 
@@ -178,7 +178,7 @@ Subsec. (a)(9). Pub. L. 105–200, §401(h)(3)(A), substituted “the address of
 
 Subsec. (a)(2)(B). Pub. L. 105–33, §5612(a), inserted at end of concluding provisions “For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.”
 
-Subsec. (a)(3)(A). Pub. L. 105–33, §5611(a), inserted at end “except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substitutedfor the mailing address of any such alternate recipient,”.
+Subsec. (a)(3)(A). Pub. L. 105–33, §5611(a), inserted at end “except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,”.
 
 Subsec. (a)(3)(B). Pub. L. 105–33, §5613(a)(1), (2), struck out “by the plan” after “to be provided” and inserted “and” at end.
 
@@ -374,7 +374,7 @@ In general.—If the plan administrator of any church group health plan which is
 
 Enrollment of child in plan.—In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a noncustodial parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the termsof the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 

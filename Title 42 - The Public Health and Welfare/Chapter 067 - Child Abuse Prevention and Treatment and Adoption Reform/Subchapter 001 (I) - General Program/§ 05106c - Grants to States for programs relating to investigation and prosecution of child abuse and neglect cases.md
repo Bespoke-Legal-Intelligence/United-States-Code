@@ -6,9 +6,11 @@ The Secretary, in consultation with the Attorney General, is authorized to make 
 
 &emsp;(1) the handling of child abuse and neglect cases, particularly cases of child sexual abuse and exploitation, in a manner which limits additional trauma to the child victim;
 
-&emsp;(2) the handling of cases of suspected child abuse or neglect related fatalities; and
+&emsp;(2) the handling of cases of suspected child abuse or neglect related fatalities;
 
-&emsp;(3) the investigation and prosecution of cases of child abuse and neglect, particularly child sexual abuse and exploitation.
+&emsp;(3) the investigation and prosecution of cases of child abuse and neglect, particularly child sexual abuse and exploitation; and
+
+&emsp;(4) the handling of cases involving children with disabilities or serious health-related problems who are victims of abuse or neglect.
 
 #### (b) Eligibility requirements
 
@@ -88,7 +90,7 @@ Before a State receives assistance under this section, and at three year interva
 
 For grants under this section, the Secretary shall use the amount authorized by section 10603a of this title.
 
-(Pub. L. 93–247, title I, §107, formerly §10, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 113; renumbered title I, §109, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(5), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §116(a), May 28, 1992, 106 Stat. 195; renumbered §107 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (2), Oct. 3, 1996, 110 Stat. 3079.)
+(Pub. L. 93–247, title I, §107, formerly §10, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 113; renumbered title I, §109, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(5), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §116(a), May 28, 1992, 106 Stat. 195; renumbered §107 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (2), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §115, June 25, 2003, 117 Stat. 812.)
 
 #### References in Text
 
@@ -99,6 +101,8 @@ Section 5106a(b) of this title, referred to in subsec. (b)(1), was in the origin
 A prior section 107 of Pub. L. 93–247 was renumbered section 106 and is classified to section 5106a of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(4). Pub. L. 108–36 added par. (4).
 
 1996—Subsec. (a). Pub. L. 104–235, §113(a)(2)(A), substituted “The Secretary, in consultation” for “The Secretary, acting through the Center and in consultation” in introductory provisions.
 
@@ -124,7 +128,7 @@ Subsec. (b)(5). Pub. L. 102–295, §116(a)(3)(B), (D), added par. (5).
 
 Subsec. (c)(1). Pub. L. 102–295, §116(a)(4), in introductory provisions inserted “, and maintain” after “designate” and substituted “child physical abuse, child neglect, child sexual abuse and exploitation, and child maltreatment related fatalities” for “child abuse”, in subpar. (B) substituted “judges and attorneys involved in both civil and criminal court proceedings related to child abuse and neglect” for “judicial and legal officers”, in subpar. (C) inserted “, including both attorneys for children and, where such programs are in operation, court appointed special advocates”, and in subpar. (F) substituted “disabilities” for “handicaps;”.
 
-Subsec. (d). Pub. L. 102–295, §116(a)(5), in introductory provisions substituted “and at three year intervals thereafter, the State task force shall comprehensively” for “the State task force shall”, in par. (1) substituted “both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal;” for “judicial handling of cases of child abuse, particularly child sexual abuse; and” and in par. (2) inserted “policy and training” before “recommendations”.
+Subsec. (d). Pub. L. 102–295, §116(a)(5), in introductory provisions substituted “and at three year intervals thereafter, the State task force shall comprehensively” for “the State task force shall”, in par. (1) substituted“both civil and criminal judicial handling of cases of child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal;” for “judicial handling of cases of child abuse, particularly child sexual abuse; and” and in par. (2) inserted “policy and training” before “recommendations”.
 
 Subsec. (e)(1)(A). Pub. L. 102–295, §116(a)(6)(A), substituted “child abuse and neglect, particularly child sexual abuse and exploitation, as well as cases involving suspected child maltreatment related fatalities and cases involving a potential combination of jurisdictions, such as interstate, Federal-State, and State-Tribal, in a manner which reduces the additional trauma to the child victim and the victim's family” for “child abuse, particularly child sexual abuse cases, in a manner which reduces the additional trauma to the child victim”.
 

@@ -4,13 +4,19 @@ In this chapter:
 
 &emsp;(1) The terms “commercial item”, “nondevelopmental item”, “component”, and “commercial component” have the meanings provided in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
-&emsp;(2) The term “head of an agency” means the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration.
+&emsp;(2) The term “head of an agency” means the Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
 
 &emsp;(3) The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
 
-(Added Pub. L. 103–355, title VIII, §8103, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 107–107, div. A, title X, §1048(a)(19), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 103–355, title VIII, §8103, Oct. 13, 1994, 108 Stat. 3390; amended Pub. L. 107–107, div. A, title X, §1048(a)(19), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
+2002—Par. (2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 2001—Par. (1). Pub. L. 107–107 inserted “(41 U.S.C. 403)” after “section 4 of the Office of Federal Procurement Policy Act”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

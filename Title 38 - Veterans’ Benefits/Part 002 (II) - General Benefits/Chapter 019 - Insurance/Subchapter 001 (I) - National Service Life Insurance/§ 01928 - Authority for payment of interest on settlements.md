@@ -4,7 +4,7 @@
 
 (b)(1) The Secretary may pay interest under subsection (a) of this section only if the Secretary determines that the payment of such interest is administratively and actuarially sound for the settlement option involved.
 
-(2) Interest paid under subsection (a) of this section shall be at the rate that is established by the Secretary for dividends held on credit ordeposit in policyholders’ accounts under the insurance program involved.
+(2) Interest paid under subsection (a) of this section shall be at the rate that is established by the Secretary for dividends held on credit or deposit in policyholders’ accounts under the insurance program involved.
 
 (Added Pub. L. 100–687, div. B, title XIV, §1401(a)(1), Nov. 18, 1988, 102 Stat. 4128, §728; renumbered §1928 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

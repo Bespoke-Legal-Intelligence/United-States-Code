@@ -76,7 +76,7 @@ The State educational agency shall make publicly available a list of those schoo
 
 #### (7) Allocation
 
-&emsp;A State educational agency that receives a grant under this subsection shall allocate at least 95 percent of the grant funds directly to local educational agencies for schools identified for school improvement, corrective action, or restructuring to carry out activities under section 6316(b) of this title, or may, with the approval of the local educational agency, directly provide for these activities or arrange for their provision through other entities such as school support teams or educational service agencies.
+&emsp;A State educational agency that receives a grant under this subsection shall allocate at least 95 percent of the grant funds directly to local educational agencies for schools identified for school improvement, corrective action, or restructuring to carry out activities under section 6316(b) of this title, or may, with the approval of the local educational agency, directly provide for these activities or arrange for their provision through other entities suchas school support teams or educational service agencies.
 
 #### (8) Administrative costs
 

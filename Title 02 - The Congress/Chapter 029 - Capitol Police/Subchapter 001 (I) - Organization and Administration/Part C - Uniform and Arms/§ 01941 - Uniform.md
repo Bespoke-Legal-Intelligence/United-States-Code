@@ -12,7 +12,7 @@ R.S. §1824 derived from act Mar. 30, 1867, ch. 20, §1, 15 Stat. 11.
 
 #### Amendments
 
-1977—Pub. L. 95–26 struck out “at a cost not to exceed twenty dollars per man,” after “furnish each member of the force with the necessary belts and arms,”.
+<b>1977</b>—Pub. L. 95–26 struck out “at a cost not to exceed twenty dollars per man,” after “furnish each member of the force with the necessary belts and arms,”.
 
-1972—Pub. L. 92–607 directed that the arms be carried in the Capitol Buildings and within and without the boundaries of the United States Capitol Grounds according to regulations prescribed by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives.
+<b>1972</b>—Pub. L. 92–607 directed that the arms be carried in the Capitol Buildings and within and without the boundaries of the United States Capitol Grounds according to regulations prescribed by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives.
 

@@ -1,26 +1,60 @@
 ### §115. Personnel strengths: requirement for annual authorization
 
-(a) Congress shall authorize personnel strength levels for each fiscal year for each of the following:
+(a)
+
+Active-Duty and Selected Reserve End Strengths To Be Authorized by Law.—Congress shall authorize personnel strength levels for each fiscal year for each of the following:
 
 &emsp;(1) The end strength for each of the armed forces (other than the Coast Guard) for (A) active-duty personnel who are to be paid from funds appropriated for active-duty personnel, and (B) active-duty personnel and full-time National Guard duty personnel who are to be paid from funds appropriated for reserve personnel.
 
 &emsp;(2) The end strength for the Selected Reserve of each reserve component of the armed forces.
 
-(b) No funds may be appropriated for any fiscal year to or for—
+(b)
+
+Limitation on Appropriations for Military Personnel.—No funds may be appropriated for any fiscal year to or for—
 
 &emsp;(1) the use of active-duty personnel or full-time National Guard duty personnel of any of the armed forces (other than the Coast Guard) unless the end strength for such personnel of that armed force for that fiscal year has been authorized by law; or
 
 &emsp;(2) the use of the Selected Reserve of any reserve component of the armed forces unless the end strength for the Selected Reserve of that component for that fiscal year has been authorized by law.
 
-(c) Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may—
+(c)
 
-&emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength;
+Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
+
+(d)
+
+End-of-Quarter Strength Levels.—(1) The Secretary of Defense shall prescribe and include in the budget justification documents submitted to Congress in support of the President's budget for the Department of Defense for any fiscal year the Secretary's proposed end-of-quarter strengths for each of the first three quarters of the fiscal year for which the budget is submitted, in addition to the Secretary's proposed fiscal-year end-strengths for that fiscal year. Such end-of-quarter strengths shall be submitted for each category of personnel for which end strengths are required to be authorized by law under subsection (a) or (c). The Secretary shall ensure that resources are provided in the budget at a level sufficient to support the end-of-quarter and fiscal-year end-strengths as submitted.
+
+(2)(A) After annual end-strength levels required by subsections (a) and (c) are authorized by law for a fiscal year, the Secretary of Defense shall promptly prescribe end-of-quarter strength levels for the first three quarters of that fiscal year applicable to each such end-strength level. Such end-of-quarter strength levels shall be established for any fiscal year as levels to be achieved in meeting each of those annual end-strength levels authorized by law in accordance with subsection (a) (as such levels may be adjusted pursuant to subsection (e)) and subsection (c).
+
+(B) At least annually, the Secretary of Defense shall establish for each of the armed forces (other than the Coast Guard) the maximum permissible variance of actual strength for an armed force at the end of any given quarter from the end-of-quarter strength established pursuant to subparagraph (A). Such variance shall be such that it promotes the maintaining of the strength necessary to achieve the end-strength levels authorized in accordance with subsection (a) (as adjusted pursuant to subsection (e)) and subsection (c).
+
+(3) Whenever the Secretary establishes an end-of-quarter strength level under subparagraph (A) of paragraph (2), or modifies a strength level under the authority provided in subparagraph (B) of paragraph (2), the Secretary shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that strength level or of that modification, as the case may be.
+
+(e)
+
+Authority for Secretary of Defense Variances for Active-Duty and Selected Reserve End Strengths.—Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may—
+
+&emsp;(1) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for any of the armed forces by a number equal to not more than 3 percent of that end strength;
 
 &emsp;(2) increase the end strength authorized pursuant to subsection (a)(1)(B) for a fiscal year for any of the armed forces by a number equal to not more than 2 percent of that end strength; and
 
 &emsp;(3) vary the end strength authorized pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of any of the reserve components by a number equal to not more than 2 percent of that end strength.
 
-(d) In counting active-duty personnel for the purpose of the end-strengths authorized pursuant to subsection (a)(1), persons in the following categories shall be excluded:
+(f)
+
+Authority for Service Secretary Variances for Active-Duty End Strengths.—Upon determination by the Secretary of a military department that such action would enhance manning and readiness in essential units or in critical specialties or ratings, the Secretary may increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for any of the armed forces under the jurisdiction of that Secretary. Any such increase for a fiscal year—
+
+&emsp;(1) shall be by a number equal to not more than 2 percent of such authorized end strength; and
+
+&emsp;(2) shall be counted as part of the increase for that armed force for that fiscal year authorized under subsection (e)(1).
+
+(g)
+
+Adjustment When Coast Guard is Operating as a Service in the Navy.—The authorized strength of the Navy under subsection (a)(1) is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
+
+(h)
+
+Certain Active-Duty Personnel Excluded From Counting for Active-Duty End Strengths.—In counting active-duty personnel for the purpose of the end-strengths authorized pursuant to subsection (a)(1), persons in the following categories shall be excluded:
 
 &emsp;(1) Members of the Ready Reserve ordered to active duty under section 12302 of this title.
 
@@ -48,19 +82,31 @@
 
 &emsp;(11) Members on full-time National Guard duty to prepare for and perform funeral honors functions for funerals of veterans in accordance with section 1491 of this title.
 
-(e) The authorized strength of the Navy under subsection (a)(1) is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
-
-\[(f) Repealed. Pub. L. 104–106, div. A, title X, §1061(c)(3), Feb. 10, 1996, 110 Stat. 442.\]
-
-(g) Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
-
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451.)
 
 #### Prior Provisions
 
 A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, §138(b)–(d); amended Pub. L. 94–361, title III, §302, July 14, 1976, 90 Stat. 924; Pub. L. 96–107, title III, §303(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title I, §102, Dec. 12, 1980, 94 Stat. 2840; Pub. L. 97–22, §2(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IX, §§902, 903, Dec. 1, 1981, 95 Stat. 1113, 1114; Pub. L. 97–252, title IV, §402(a), Sept. 8, 1982, 96 Stat. 725; Pub. L. 97–295, §1(3), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 99–145, title XII, §1208, Nov. 8, 1985, 99 Stat. 723; renumbered §115 Pub. L. 99–433, title I, §§101(a)(2), 110(b)(4), (5), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 99–661, div. A, title IV, §§411(c) \[(d)\], 413, Nov. 14, 1986, 100 Stat. 3861, 3862; Pub. L. 100–26, §7(j)(2), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–456, div. A, title VI, §641, Sept. 29, 1988, 102 Stat. 1987, related to annual authorization of personnel strengths and annual manpower requirements reports, prior to repeal and reenactment as sections 115, 115a, 115b \[now 10541\], 123a, and 129a of this title by Pub. L. 101–510, §1483(a), (b).
 
 #### Amendments
+
+2003—Subsecs. (a), (b). Pub. L. 108–136, §403(b)(1), (2), inserted headings.
+
+Subsec. (c). Pub. L. 108–136, §403(a)(1), (b)(3), redesignated subsec. (g) as (c), transferred it to appear after subsec. (b), and inserted heading. Former subsec. (c) redesignated (e).
+
+Subsec. (d). Pub. L. 108–136, §403(a)(3), added subsec. (d). Former subsec. (d) redesignated (h).
+
+Subsec. (e). Pub. L. 108–136, §403(a)(1), (b)(4), redesignated subsec. (c) as (e), transferred it to appear after subsec. (d), and inserted heading. Former subsec. (e) redesignated (g).
+
+Subsec. (f). Pub. L. 108–136, §403(b)(5), inserted heading and, in par. (2), substituted “subsection (e)(1)” for “subsection (c)(1)”.
+
+Subsec. (g). Pub. L. 108–136, §403(a)(1), (b)(6), redesignated subsec. (e) as (g), transferred it to appear after subsec. (f), and inserted heading. Former subsec. (g) redesignated (c).
+
+Subsec. (h). Pub. L. 108–136, §403(a)(2), (b)(7), redesignated subsec. (d) as (h), transferred it to appear at end of section, and inserted heading.
+
+2002—Subsec. (c)(1). Pub. L. 107–314, §403(a), substituted “3 percent” for “2 percent”.
+
+Subsec. (f). Pub. L. 107–314, §403(b), added subsec. (f).
 
 2001—Subsec. (c)(1). Pub. L. 107–107, §421(a), substituted “2 percent” for “1 percent”.
 
@@ -100,15 +146,23 @@ Subsec. (f). Pub. L. 104–106, §1061(c)(3), struck out subsec. (f) which read 
 
 Subsec. (g). Pub. L. 104–106, §513(a)(1), added subsec. (g).
 
-1991—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength for civilian personnel for each component of the Department of Defense.”
+1991—Subsec. (a)(4). Pub. L. 102–190, §312(a)(1), struck out par. (4) which read as follows: “The end strength forcivilian personnel for each component of the Department of Defense.”
 
 Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law.”
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title IV, §403(d), Nov. 24, 2003, 117 Stat. 1452, provided that: “Subsection (d) of section 115 of title 10, United States Code, as added by subsection (a)(3), shall apply with respect to the budget request for fiscal year 2005 and thereafter.”
 
 #### Effective Date of 1996 Amendment
 
 Section 513(a)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] does not apply with respect to fiscal year 1995.”
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Authorization for Increase in Active-Duty End Strengths for Fiscal Year 1996
 
@@ -124,17 +178,21 @@ Effect on End Strengths.—The end-strength authorizations in section 401 \[set 
 
 #### Minimum Number of Military Technicians
 
-Pub. L. 107–107, div. A, title IV, §413, Dec. 28, 2001, 115 Stat. 1070, provided that: “The minimum number of military technicians (dual status) as of the last day of fiscal year 2002 for the reserve components of the Army and the Air Force (notwithstanding section 129 of title 10, United States Code) shall be the following:
+Pub. L. 108–136, div. A, title IV, §413, Nov. 24, 2003, 117 Stat. 1453, provided that: “The minimum number of military technicians (dual status) as of the last day of fiscal year 2004 for the reserve components of the Army and the Air Force (notwithstanding section 129 of title 10, United States Code) shall be the following:
 
-&emsp;“(1) For the Army Reserve, 6,249.
+&emsp;“(1) For the Army Reserve, 6,949.
 
-&emsp;“(2) For the Army National Guard of the United States, 23,615.
+&emsp;“(2) For the Army National Guard of the United States, 24,589.
 
-&emsp;“(3) For the Air Force Reserve, 9,818.
+&emsp;“(3) For the Air Force Reserve, 9,991.
 
-&emsp;“(4) For the Air National Guard of the United States, 22,422.”
+&emsp;“(4) For the Air National Guard of the United States, 22,806.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 107–314, div. A, title IV, §413, Dec. 2, 2002, 116 Stat. 2527.
+
+Pub. L. 107–107, div. A, title IV, §413, Dec. 28, 2001, 115 Stat. 1070.
 
 Pub. L. 106–398, §1 \[\[div. A\], title IV, §413\], Oct. 30, 2000, 114 Stat. 1654, 1654A–93.
 
@@ -158,17 +216,21 @@ Pub. L. 103–337, div. A, title XIII, §1316(c), Oct. 5, 1994, 108 Stat. 2899, 
 
 #### End Strengths for Active Forces
 
-Pub. L. 107–107, div. A, title IV, §401, Dec. 28, 2001, 115 Stat. 1069, provided that: “The Armed Forces are authorized strengths for active duty personnel as of September 30, 2002, as follows:
+Pub. L. 108–136, div. A, title IV, §401, Nov. 24, 2003, 117 Stat. 1450, provided that: “The Armed Forces are authorized strengths for active duty personnel as of September 30, 2004, as follows:
 
-&emsp;“(1) The Army, 480,000.
+&emsp;“(1) The Army, 482,400.
 
-&emsp;“(2) The Navy, 376,000.
+&emsp;“(2) The Navy, 373,800.
 
-&emsp;“(3) The Marine Corps, 172,600.
+&emsp;“(3) The Marine Corps, 175,000.
 
-&emsp;“(4) The Air Force, 358,800.”
+&emsp;“(4) The Air Force, 359,300.”
 
 Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 107–314, div. A, title IV, §401, Dec. 2, 2002, 116 Stat. 2524.
+
+Pub. L. 107–107, div. A, title IV, §401, Dec. 28, 2001, 115 Stat. 1069.
 
 Pub. L. 106–398, §1 \[\[div. A\], title IV, §401\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92.
 
@@ -234,7 +296,7 @@ Section 718(b) of Pub. L. 102–190 provided that, of the total number of office
 
 #### Limitations on Reductions in Medical Personnel
 
-Section 711 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title VII, §718(a), Dec. 5, 1991, 105 Stat. 1404, prohibited Secretary of Defense from reducing number of medical personnel of Department of Defense below baseline number unless Secretary certified toCongress that number of such personnel being reduced was excess to current and projected needs of military departments, and such reduction would not result in increase in cost of health care services provided under Civilian Health and Medical Program of the Uniformed Services, and, in case of military medical personnel, included in certification information on strength levels for individual category of medical personnel involved in reduction as of Sept. 30, 1989, projected requirements of Department over 5-fiscal year period following fiscal year in which certification was submitted for medical personnel in category of medical personnel involved, and strength level recommended for each component of Armed Forces for most recent fiscal year for which Secretary submitted recommendations pursuant to section 115a(g)(1) of this title for personnel in category of medical personnel involved, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(1), Feb. 10, 1996, 110 Stat. 327. See section 129c of this title.
+Section 711 of Pub. L. 101–510, as amended by Pub. L. 102–190, div. A, title VII, §718(a), Dec. 5, 1991, 105 Stat. 1404, prohibited Secretary of Defense from reducing number of medical personnel of Department of Defense below baseline number unless Secretary certified to Congress that number of such personnel being reduced was excess to current and projected needs of military departments, and such reduction would not result in increase in cost of health care services provided under Civilian Health and Medical Program of the Uniformed Services, and, in case of military medical personnel, included in certification information on strength levels for individual category of medical personnel involved in reduction as of Sept. 30, 1989, projected requirements of Department over 5-fiscal year period following fiscal year in which certification was submitted for medical personnel in category of medical personnel involved, and strength level recommended for each component of Armed Forces for most recent fiscal year for which Secretary submitted recommendations pursuant to section 115a(g)(1) of this title for personnel in category of medical personnel involved, prior to repeal by Pub. L. 104–106, div. A, title V, §564(d)(1), Feb. 10, 1996, 110 Stat. 327. See section 129c of this title.
 
 #### Operation Desert Shield Increase in End Strengths of Active Duty Personnel; Authority; Certification
 
@@ -242,5 +304,5 @@ Section 1117 of Pub. L. 101–510, authorized Secretary of Defense, after determ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 168, 691, 3201, 8062, 10216, 12310, 16132 of this title.
+This section is referred to in sections 113a, 168, 691, 3201, 8062, 10216, 12310, 16132 of this title.
 

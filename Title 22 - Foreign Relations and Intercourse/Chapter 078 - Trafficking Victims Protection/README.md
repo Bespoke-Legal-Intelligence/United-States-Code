@@ -12,10 +12,15 @@
 | (c) | Chairman. |
 | (d) | Activities of the Task Force. |
 | (e) | Support for the Task Force. |
+| (f) | Senior Policy Operating Group. |
 | [7104\.](%C2%A7%2007104%20-%20Prevention%20of%20trafficking.md) | Prevention of trafficking. |
 | (a) | Economic alternatives to prevent and deter trafficking. |
 | (b) | Public awareness and information. |
-| (c) | Consultation requirement. |
+| (c) | Border interdiction. |
+| (d) | International media. |
+| (e) | Combating international sex tourism. |
+| (f) | Consultation requirement. |
+| (g) | Termination of certain grants, contracts and cooperative agreements. |
 | [7105\.](%C2%A7%2007105%20-%20Protection%20and%20assistance%20for%20victims%20of%20trafficking.md) | Protection and assistance for victims of trafficking. |
 | (a) | Assistance for victims in other countries. |
 | (b) | Victims in the United States. |
@@ -33,6 +38,7 @@
 | (c) | Notification. |
 | (d) | Presidential determinations. |
 | (e) | Certification. |
+| (f) | Subsequent waiver authority. |
 | [7108\.](%C2%A7%2007108%20-%20Actions%20against%20significant%20traffickers%20in%20persons.md) | Actions against significant traffickers in persons. |
 | (a) | Authority to sanction significant traffickers in persons. |
 | (b) | Report to Congress on identification and sanctioning of significant traffickers in persons. |
@@ -44,6 +50,7 @@
 | [7109\.](%C2%A7%2007109%20-%20Strengthening%20prosecution%20and%20punishment%20of%20traffickers.md) | Strengthening prosecution and punishment of traffickers. |
 | (a) | Omitted. |
 | (b) | Amendment to the Sentencing Guidelines. |
+| [7109a.](%C2%A7%2007109a%20-%20Research%20on%20domestic%20and%20international%20trafficking%20in%20persons.md) | Research on domestic and international trafficking in persons. |
 | [7110\.](%C2%A7%2007110%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 | (a) | Authorization of appropriations in support of the Task Force. |
 | (b) | Authorization of appropriations to the Secretary of Health and Human Services. |
@@ -51,6 +58,7 @@
 | (d) | Authorization of appropriations to Attorney General. |
 | (e) | Authorization of appropriations to President. |
 | (f) | Authorization of appropriations to the Secretary of Labor. |
+| (g) | Limitation on use of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,4 +76,5 @@
 - [&sect; 07107 - Actions against governments failing to meet minimum standards](%C2%A7%2007107%20-%20Actions%20against%20governments%20failing%20to%20meet%20minimum%20standards.md)
 - [&sect; 07108 - Actions against significant traffickers in persons](%C2%A7%2007108%20-%20Actions%20against%20significant%20traffickers%20in%20persons.md)
 - [&sect; 07109 - Strengthening prosecution and punishment of traffickers](%C2%A7%2007109%20-%20Strengthening%20prosecution%20and%20punishment%20of%20traffickers.md)
+- [&sect; 07109a - Research on domestic and international trafficking in persons](%C2%A7%2007109a%20-%20Research%20on%20domestic%20and%20international%20trafficking%20in%20persons.md)
 - [&sect; 07110 - Authorizations of appropriations](%C2%A7%2007110%20-%20Authorizations%20of%20appropriations.md)

@@ -1,6 +1,6 @@
 ### §1913. Appropriations for supplying depository libraries; restriction
 
-Appropriations available for the Office of Superintendent of Documents may not be used to supply depository libraries documents, books, or other printed matter not requested by them, and their requests shall be subject to approval by the Superintendent of Documents.
+Appropriations available for the Office of Superintendent of Documents may not be used to supply depository libraries documents, books, orother printed matter not requested by them, and their requests shall be subject to approval by the Superintendent of Documents.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1286.)
 

@@ -18,7 +18,7 @@ The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937
 
 1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Public Housing Administration” and “Federal Housing Administration” in first sentence and first proviso and for “Federal Housing Administration” in penultimate sentence and “Secretary of Defense” for “Secretary” in third proviso and last two sentences, respectively.
 
-1956—Act Aug. 7, 1956, inserted second proviso requiring plans, drawings, and specifications to follow theprinciple of modular measure, so the housing may be built by conventional construction, on-site fabrication, factory precutting, factory fabrication, or any combination of these construction methods.
+1956—Act Aug. 7, 1956, inserted second proviso requiring plans, drawings, and specifications to follow the principle of modular measure, so the housing may be built by conventional construction, on-site fabrication, factory precutting, factory fabrication, or any combination of these construction methods.
 
 #### Transfer of Functions
 

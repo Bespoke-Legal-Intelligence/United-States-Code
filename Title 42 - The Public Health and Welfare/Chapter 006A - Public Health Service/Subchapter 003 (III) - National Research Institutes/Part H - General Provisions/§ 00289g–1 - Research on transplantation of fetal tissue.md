@@ -74,7 +74,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 &emsp;&emsp;(B) not disclose or publish such material or information, except where required by Federal law, in which case such material or information shall be coded in a manner such that the identities of such individuals and entities are protected; and
 
-&emsp;&emsp;(C) not maintain such material or information after completion of such audit, exceptwhere necessary for the purposes of such audit.
+&emsp;&emsp;(C) not maintain such material or information after completion of such audit, except where necessary for the purposes of such audit.
 
 #### (e) Applicability of State and local law
 
@@ -98,7 +98,7 @@ For purposes of this section, the term “human fetal tissue” means tissue or 
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, andjurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Nullification of Moratorium
 

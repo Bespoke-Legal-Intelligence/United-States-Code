@@ -122,7 +122,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (II) Exception for certain nonrecognition transactions
 
-&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving a transfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
+&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving atransfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
 
 #### (iv) Look-thru of partnership tiers
 

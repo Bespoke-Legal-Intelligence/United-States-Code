@@ -1,6 +1,6 @@
 ### §609b. Disposition of judgment fund; deductions; advances, expenditures, investments, or reinvestments for authorized purposes
 
-The funds appropriated by the Act of October 31, 1965 (79 Stat. 1133, 1152), to pay judgments to the Yakima Tribes of the Yakima Reservation in Indian Claims Commission docket numbered 47–A and 162, and by the Act of July 22, 1969 (83Stat. 49), in consolidated dockets 47 and 164, together with interests thereon, after payment of attorney fees and litigation expenses, may be advanced, expended, invested, or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
+The funds appropriated by the Act of October 31, 1965 (79 Stat. 1133, 1152), to pay judgments to the Yakima Tribes of the Yakima Reservation in Indian Claims Commission docket numbered 47–A and 162, and by the Act of July 22, 1969 (83 Stat. 49), in consolidated dockets 47 and 164, together with interests thereon, after payment of attorney fees and litigation expenses, may be advanced, expended, invested, or reinvested for any purpose that is authorized by the tribal governing body and approved by the Secretary of the Interior.
 
 (Pub. L. 91–413, §1, Sept. 25, 1970, 84 Stat. 865.)
 

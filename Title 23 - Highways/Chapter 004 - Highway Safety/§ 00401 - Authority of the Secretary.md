@@ -2,7 +2,7 @@
 
 The Secretary is authorized and directed to assist and cooperate with other Federal departments and agencies, State and local governments, private industry, and other interested parties, to increase highway safety. For the purposes of this chapter, the term “State” means any one of the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, §218,Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, §3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, §218, Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, §3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacti
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: “This title \[enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the ‘Highway Safety Act of 1970’.”
+Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: “This title \[enacting sections 144 and 322of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title\] may be cited as the ‘Highway Safety Act of 1970’.”
 
 #### Short Title
 
@@ -168,7 +168,7 @@ Section 212 of Pub. L. 93–87 authorized the appropriation of $1,000,000 for a 
 
 #### National Center for Statistical Analysis of Highway Operations
 
-Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
+Section 213 of Pub. L. 93–87 authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store andretrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
 
 #### Pedestrian and Bicycle Safety Study
 
@@ -190,7 +190,7 @@ Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted Pr
 
 Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224, Aug. 13, 1973, 87 Stat. 292, provided that:
 
-“(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by suchgrants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
+“(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
 “(b) The annual report shall also contain such recommendations for additional legislation as the Secretary deems necessary to promote cooperation among the several States in the improvement of highway safety and to strengthen the national highway safety program.”
 

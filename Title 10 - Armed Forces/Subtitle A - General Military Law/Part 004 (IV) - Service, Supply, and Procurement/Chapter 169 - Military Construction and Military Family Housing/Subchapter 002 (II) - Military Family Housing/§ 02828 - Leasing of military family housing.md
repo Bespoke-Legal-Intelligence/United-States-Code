@@ -16,7 +16,7 @@
 
 (b)(1) Not more than 10,000 family housing units may be leased at any one time under subsection (a).
 
-(2) Except as provided in paragraphs (3) and (4), expenditures for the rental of housing units under subsection (a) (including the cost of utilities, maintenance, and operation) may not exceed $12,000 per unit per year, as adjusted from time to under <sup>1</sup> paragraph (5).
+(2) Except as provided in paragraphs (3) and (4), expenditures for the rental of housing units under subsection (a) (including the cost of utilities, maintenance, and operation) may not exceed $12,000 per unit per year, as adjusted from time to time under paragraph (5).
 
 (3) Not more than 500 housing units may be leased under subsection (a) for which the expenditure for the rental of such units (including the cost of utilities, maintenance, and operation) exceeds the maximum amount per unit per year in effect under paragraph (2) but does not exceed $14,000 per unit per year, as adjusted from time to time under paragraph (5).
 
@@ -40,7 +40,7 @@
 
 &emsp;(4) in countries that prohibit leases by individual military or civilian personnel of the United States.
 
-(d)(1) Leases of housing units in foreign countries under subsection (c) for assignment as family housing may be for any period not in excess of ten years, and the costs of such leases for any year may be paid out of annual appropriations for that year.
+(d)(1) Leases of housing units in foreign countries under subsection (c) for assignment as family housing may be for any period not in excess of 10 years, or 15 years in the case of leases in Korea, and the costs of such leases for any year may be paid out of annual appropriations for that year.
 
 (2) The Secretary may enter into an agreement under this paragraph in connection with a lease entered into under subsection (c). Such an agreement—
 
@@ -52,23 +52,25 @@
 
 (e)(1) Expenditures for the rental of family housing in foreign countries (including the costs of utilities, maintenance, and operation) may not exceed $20,000 per unit per year, except that 450 units may be leased in foreign countries for not more than $25,000 per unit per year. These maximum lease amounts may be waived by the Secretary concerned with respect to not more than a total of 350 such units that are leased for incumbents of special positions or for personnel assigned to Defense Attache Offices or that are leased in countries where excessive costs of housing would cause undue hardship on Department of Defense personnel.
 
-(2) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Navy may lease not more than 2,000 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy, subject to that maximum lease amount.
+(2) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Navy may lease not more than 2,800 units of family housing in Italy, and the Secretary of the Army may lease not more than 500 units of family housing in Italy, subject to that maximum lease amount.
 
-(3) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Army may lease not more than 800 units of family housing in Korea subject to that maximum lease amount.
+(3) In addition to the 450 units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Army may lease not more than 1,175 units of family housing in Korea subject to that maximum lease amount.
 
-(4) The Secretary concerned shall adjust the maximum lease amounts provided for under paragraphs (1), (2), and (3) for the previous fiscal year—
+(4) In addition to the units of family housing referred to in paragraph (1) for which the maximum lease amount is $25,000 per unit per year, the Secretary of the Army may lease not more than 2,400 units of family housing in Korea subject to a maximum lease amount of $35,000 per unit per year.
+
+(5) The Secretary concerned shall adjust the maximum lease amounts provided for underparagraphs (1), (2), (3), and (4) for the previous fiscal year—
 
 &emsp;(A) for foreign currency fluctuations from October 1, 1987; and
 
 &emsp;(B) at the beginning of each fiscal year, by the percentage (if any) by which the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, during the preceding fiscal year exceeds such Consumer Price Index for the fiscal year before such preceding fiscal year.
 
-(5) The maximum number of family housing units that may be leased in foreign countries under this section at any one time is 53,000.
+(6) The maximum number of family housing units that may be leased in foreign countries under this section at any one time is 55,775.
 
 (f) A lease for family housing facilities, or for real property related to family housing facilities, in a foreign country for which the average estimated annual rental during the term of the lease exceeds $500,000 may not be made under this section until (1) the Secretary concerned provides to the appropriate committees of Congress written notification of the facts concerning the proposed lease, and (2) a period of 21 days elapses after the notification is received by those committees.
 
 (g) Appropriations available to the Department of Defense for maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646,1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 161; amended Pub. L. 97–321, title VIII, §805(b)(2), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 98–115, title VIII, §801, Oct. 11, 1983, 97 Stat. 782; Pub. L. 98–407, title VIII, §806(a), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §§801(b), 803, 805, Dec. 3, 1985, 99 Stat. 985, 987, 988; Pub. L. 99–661, div. B, title VII, §§2702(d)–(g), 2713(b), 2714, Nov. 14, 1986, 100 Stat. 4040–4042; Pub. L. 100–26, §7(j)(8), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2306(a), 2309, 2311, Dec. 4, 1987, 101 Stat. 1216, 1217; Pub. L. 100–370, §1(<i>l</i>)(2), July 19, 1988, 102 Stat. 849; Pub. L. 100–456, div. B, title XXVIII, §2802, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §§2802, 2805, Nov. 29, 1989, 103 Stat. 1646, 1647; Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540; Pub. L. 103–35, title II, §201(d)(7), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. B, title XXVIII, §2801, Nov. 30, 1993, 107 Stat. 1883; Pub. L. 104–106, div. B, title XXVIII, §2816, Feb. 10, 1996, 110 Stat. 553; Pub. L. 105–85, div. B, title XXVIII, §2803, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 105–261, div. B, title XXVIII, §2802, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; Pub. L. 107–314, div. A, title X, §1062(a)(15), div. B, title XXVIII, §2801, Dec. 2, 2002, 116 Stat. 2650, 2702; Pub. L. 108–136, div. B, title XXVIII, §§2803, 2804(a), Nov. 24, 2003, 117 Stat. 1719.)
 
 #### Historical and Revision Notes
 
@@ -77,6 +79,20 @@
 Subsection (h) of this section and section 2673 of this title are based on Pub. L. 98–212, title VII, §707, Dec. 8, 1983, 97 Stat. 1438.
 
 #### Amendments
+
+2003—Subsec. (d)(1). Pub. L. 108–136, §2804(a), substituted “10 years, or 15 years in the case of leases in Korea,” for “ten years,”.
+
+Subsec. (e)(2). Pub. L. 108–136, §2803, substituted “2,800” for “2,000”.
+
+2002—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(15), inserted “time” after “from time to”.
+
+Subsec. (e)(3). Pub. L. 107–314, §2801(a), substituted “1,175 units” for “800 units”.
+
+Subsec. (e)(4). Pub. L. 107–314, §2801(b)(2), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (e)(5). Pub. L. 107–314, §2801(b)(1), (3), redesignated par. (4) as (5) and substituted “(3), and (4)” for “and (3)” in introductory provisions. Former par. (5) redesignated (6).
+
+Subsec. (e)(6). Pub. L. 107–314, §2801(b)(1), (4), redesignated par. (5) as (6) and substituted “55,775” for “53,000”.
 
 2000—Subsec. (b)(2). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2804(c)(1)\], inserted “, as adjusted from time to under paragraph (5)” after “per year”.
 
@@ -211,6 +227,4 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2822, 2834 of this title; title 20 section 7703.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

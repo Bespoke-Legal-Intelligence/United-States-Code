@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the total amount required to be paid to the State under section 603 of this title for fiscal year 1994 or 1995 (whichever is greater) with respect to expenditures for child care under subsections (g) and (i) of section 602 of this title (as in effect before October 1, 1995); or
 
-&emsp;&emsp;(B) the average of the total amounts required to be paid to the State for fiscal years 1992 through 1994 under the subsections referred to in subparagraph (A).
+&emsp;&emsp;(B) the average of the total amounts required to be paid to the State for fiscal years1992 through 1994 under the subsections referred to in subparagraph (A).
 
 #### (2) Remainder
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(E) $2,567,000,000 for fiscal year 2001; and
 
-&emsp;&emsp;(F) $2,717,000,000 for fiscal year 2002.
+&emsp;&emsp;(F) $2,717,000,000 for each of fiscal years 2002 and 2003.
 
 #### (4) Indian tribes
 
@@ -56,7 +56,7 @@
 
 #### (5) Data used to determine State and Federal shares of expenditures
 
-&emsp;In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) of this title.
+&emsp;In making the determinations concerning expenditures required under paragraphs (1) and (2)(C), the Secretary shall use information that was reported by the State on ACF Form 231 and available as of the applicable dates specified in clauses (i)(I), (ii), and (iii)(III) of section 603(a)(1)(D) <sup>1</sup> of this title.
 
 #### (b) Use of funds
 
@@ -76,13 +76,17 @@ Notwithstanding any other provision of law, amounts provided to a State under th
 
 As used in this section, the term “State” means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644.)
+(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837.)
 
 #### References in Text
+
+Section 603(a)(1)(D) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 108–40, §3(a)(2), June 30, 2003, 117 Stat. 836.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(3)(F). Pub. L. 108–40 substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
 
 1997—Subsec. (a)(1). Pub. L. 105–33, §5601(a)(1)(A), (D), inserted “the greater of” after “equal to” in introductory provisions and struck out concluding provisions which read “whichever is greater.”
 
@@ -104,6 +108,10 @@ Subsec. (a)(5). Pub. L. 105–33, §5601(b), added par. (5).
 
 Subsec. (d). Pub. L. 105–33, §5601(c), substituted “and” for “or” before “the District”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 5603 of title V of Pub. L. 105–33 provided that:
@@ -123,4 +131,6 @@ Section effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 603, 609, 9858c of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

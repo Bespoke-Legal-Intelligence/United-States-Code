@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) recruiting and preparing students for careers in elementary or secondary mathematics or science education;
 
-&emsp;&emsp;(B) offering professional development programs, including summer or academic yearinstitutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;
+&emsp;&emsp;(B) offering professional development programs, including summer or academic year institutes or workshops, designed to strengthen the capabilities of mathematics and science teachers;
 
 &emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical support to teachers;
 
@@ -198,17 +198,7 @@ Pub. L. 107–368, §2, Dec. 19, 2002, 116 Stat. 3034, provided that: “Congres
 
 #### Report on Foundation Budgetary and Programmatic Expansion
 
-Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided that: “The Board shall prepare a report to address and examine the Foundation's budgetary and programmatic growth provided for by this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]. The report shall be submitted to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate within one year after the date of the enactment of this Act \[Dec. 19, 2002\] and shall include—
-
-&emsp;“(1) recommendations on how the increased funding should be utilized;
-
-&emsp;“(2) an examination of the projected impact that the budgetary increases will have on the Nation's scientific and technological workforce;
-
-&emsp;“(3) a description of new or expanded programs that will enable institutions of higher education to expand their participation in Foundation-funded activities;
-
-&emsp;“(4) an estimate of the national scientific and technological research infrastructure needed to adequately support the Foundation's increased funding and additional programs; and
-
-&emsp;“(5) a description of the impact the budgetary increases provided under this Act will have on the size and duration of grants awarded by the Foundation.”
+Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National Science Board report to address and examine specified issues concerning the National Science Foundation's budgetary and programmatic growth provided for by Pub. L. 107–368 and to be submitted to certain Congressional committees within one year after Dec. 19, 2002.
 
 #### Definitions
 
@@ -258,7 +248,7 @@ High-need local educational agency.—The term ‘high-need local educational ag
 
 &emsp;“(9)
 
-Institution of higher education.—The term ‘institution of higher education’ has the meaninggiven such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+Institution of higher education.—The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
 &emsp;“(10)
 
@@ -292,7 +282,7 @@ State.—Except with respect to the Experimental Program to Stimulate Competitiv
 
 &emsp;“(15)
 
-State educational agency.—The term ‘State educational agency’ has the meaning given such term by section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
+State educational agency.—The term ‘State educational agency’ has the meaning given such termby section 9101(41) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(41)).
 
 &emsp;“(16)
 

@@ -36,7 +36,7 @@ No penalty shall be imposed by this section on any failure which is shown to be 
 
 Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by subsection (a).
 
-(Added Pub. L. 87–834, §7(g), Oct. 16, 1962, 76 Stat. 988; amended Pub. L. 91–172, title I, §101(j)(53),Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, §1016(a)(21), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title X, §1013(d)(2), Oct. 4, 1976, 90 Stat. 1616; Pub. L. 104–188, title I, §1901(b), Aug. 20, 1996, 110 Stat. 1907.)
+(Added Pub. L. 87–834, §7(g), Oct. 16, 1962, 76 Stat. 988; amended Pub. L. 91–172, title I, §101(j)(53), Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, §1016(a)(21), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title X, §1013(d)(2), Oct. 4, 1976, 90 Stat. 1616; Pub. L. 104–188, title I, §1901(b), Aug. 20, 1996, 110 Stat. 1907.)
 
 #### Amendments
 

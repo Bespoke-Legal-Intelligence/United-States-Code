@@ -10,13 +10,13 @@ As used in this part—
 
 (4) The term “surety” means the person who (A) under the terms of a bid bond, undertakes to pay a sum of money to the obligee in the event the principal breaches the conditions of the bond, (B) under the terms of a performance bond, undertakes to incur the cost of fulfilling the terms of a contract in the event the principal breaches the conditions of the contract, (C) under the terms of a payment bond, undertakes to make payment to all persons supplying labor and material in the prosecution of the work provided for in the contract if the principal fails to make prompt payment, or (D) is an agent, independent agent, underwriter, or any other company or individual empowered to act on behalf of such person.
 
-(5) The term “obligee” means (A) in the case of a bid bond, the person requesting bids for the performance of a contract, or (B) in the case of a payment bond or performance bond, the person who has contracted with a principal for the completion of the contract and to whom the obligation of the surety runs in the event of a breach by the principal of the conditions of a payment bond or performance bond.
+(5) The term “obligee” means (A) in the case of a bid bond, the person requesting bids for the performance of a contract, or (B) in the case ofa payment bond or performance bond, the person who has contracted with a principal for the completion of the contract and to whom the obligation of the surety runs in the event of a breach by the principal of the conditions of a payment bond or performance bond.
 
 (6) The term “principal” means (A) in the case of a bid bond, a person bidding for the award of a contract, or (B) the person primarily liable to complete a contract for the obligee, or to make payments to other persons in respect of such contract, and for whose performance of his obligation the surety is bound under the terms of a payment or performance bond. A principal may be a prime contractor or a subcontractor.
 
 (7) The term “prime contractor” means the person with whom the obligee has contracted to perform the contract.
 
-(8) The term “subcontractor” means a person who has contracted with a prime contractor orwith another subcontractor to perform a contract.
+(8) The term “subcontractor” means a person who has contracted with a prime contractor or with another subcontractor to perform a contract.
 
 (Pub. L. 85–699, title IV, §410, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1812; amended Pub. L. 95–507, title I, §110, Oct. 24, 1978, 92 Stat. 1758.)
 

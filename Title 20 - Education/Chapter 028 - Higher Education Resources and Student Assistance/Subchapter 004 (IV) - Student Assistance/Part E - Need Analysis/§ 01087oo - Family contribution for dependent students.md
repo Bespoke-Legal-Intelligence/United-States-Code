@@ -22,7 +22,7 @@ The parents’ contribution from adjusted available income is equal to the amoun
 
 &emsp;(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e) of this section; and
 
-&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the familymembers, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -76,7 +76,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (4) Income protection allowance
 
-&emsp;The income protection allowance is determined by the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+&emsp;The income protection allowance is determined by the following table (or a successortable prescribed by the Secretary under section 1087rr of this title):
 
 Income Protection Allowance
 
@@ -337,7 +337,7 @@ Subsec. (g)(2)(E). Pub. L. 105–78, §609(g)(2), added subpar. (E).
 
 1993—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
 
-Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in the case of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
+Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in thecase of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
 
 Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis after “paragraph (2)”.
 

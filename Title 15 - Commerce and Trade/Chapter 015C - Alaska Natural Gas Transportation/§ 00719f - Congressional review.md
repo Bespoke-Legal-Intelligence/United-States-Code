@@ -32,7 +32,7 @@ For purposes of this section—
 
 (B) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same Presidential decision on an Alaska natural gas transportation system), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-(C) If the motion to discharge is agreed to or disagreed to, the motion may not be made withrespect to any other resolution with respect to the same Presidential decision on an Alaska natural gas transportation system.
+(C) If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect to the same Presidential decision on an Alaska natural gas transportation system.
 
 (5)(A) When any committee has reported, or has been discharged from further consideration of, a resolution, but in no case earlier than 30 days after the date of receipt of the President's decision to the Congress, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 

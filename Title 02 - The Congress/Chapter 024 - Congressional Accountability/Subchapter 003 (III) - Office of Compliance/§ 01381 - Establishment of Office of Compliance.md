@@ -26,7 +26,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (B) Incompatible office
 
-&emsp;&emsp;No member of the Board appointed under subsection (b) of this section may hold or may have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch, or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board, an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
+&emsp;&emsp;No member of the Board appointed under subsection (b) of this section may hold ormay have held the position of Member of the House of Representatives or Senator, may hold the position of officer or employee of the House of Representatives, Senate, or instrumentality or other entity of the legislative branch, or may have held such a position (other than the position of an officer or employee of the General Accounting Office Personnel Appeals Board, an officer or employee of the Office of Fair Employment Practices of the House of Representatives, or officer or employee of the Office of Senate Fair Employment Practices) within 4 years of the date of appointment.
 
 #### (3) Vacancies
 

@@ -20,7 +20,7 @@
 
 #### (A) Book entries permitted
 
-&emsp;&emsp;For purposes of paragraph (1), a book entry bond shall be treated as in registered form if the right to the principal of, and stated interest on, such bond may be transferred only through a book entry consistent with regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of paragraph (1), a book entry bond shall be treated as in registered form if the right to the principal of, and stated interest on, such bond may be transferred onlythrough a book entry consistent with regulations prescribed by the Secretary.
 
 #### (B) Nominees
 
@@ -206,7 +206,7 @@
 
 #### (2) Information reporting requirements
 
-&emsp;A bond satisfies the requirements of this paragraph if the issuer submits to the Secretary, not later than the 15th day of the 2d calendar month after the close of the calendar quarter in which the bond is issued (or such later time as the Secretary may prescribe with respect to any portion of the statement),a statement concerning the issue of which the bond is a part which contains—
+&emsp;A bond satisfies the requirements of this paragraph if the issuer submits to the Secretary, not later than the 15th day of the 2d calendar month after the close of the calendar quarter in which the bond is issued (or such later time as the Secretary may prescribe with respect to any portion of the statement), a statement concerning the issue of which the bond is a part which contains—
 
 &emsp;&emsp;(A) the name and address of the issuer,
 
@@ -370,7 +370,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the issuer reasonably expected that 85 percent of the spendable proceeds of the issue of which the original bond is a part would be used to carry out the governmental purposes of the issue within the 5-year period beginning on the date the original bonds were issued but did not reasonably expect that 85 percent of such proceeds would be so spent within the 3-year period beginning on such date, and
 
-&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (and all other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
+&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (andall other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
 
 #### (4) Special rules
 

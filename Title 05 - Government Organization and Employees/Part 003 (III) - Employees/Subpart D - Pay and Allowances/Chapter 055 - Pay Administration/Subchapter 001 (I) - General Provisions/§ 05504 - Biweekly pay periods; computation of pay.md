@@ -1,18 +1,6 @@
 ### §5504. Biweekly pay periods; computation of pay
 
-(a) The pay period for an employee covers two administrative workweeks. For the purpose of this subsection, “employee” means—
-
-&emsp;(1) an employee in or under an Executive agency;
-
-&emsp;(2) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek is established under section 6101(a)(5) of this title; and
-
-&emsp;(3) an individual employed by the government of the District of Columbia;
-
-> but does not include—
-
-&emsp;(A) an employee on the Isthmus of Panama in the service of the Panama Canal Commission; or
-
-&emsp;(B) an employee or individual excluded from the definition of employee in section 5541(2) of this title other than an employee or individual excluded by section 5541(2)(xvi) of this title.
+(a) The pay period for an employee covers two administrative workweeks.
 
 (b) When, in the case of an employee, it is necessary for computation of pay under this subsection to convert an annual rate of basic pay to a basic hourly, daily, weekly, or biweekly rate, the following rules govern:
 
@@ -22,21 +10,31 @@
 
 &emsp;(3) To derive a weekly or biweekly rate, multiply the hourly rate by 40 or 80, as the case may be.
 
-> Rates are computed to the nearest cent, counting one-half and over as a whole cent. For the purpose of this subsection, “employee” means—
+> Rates are computed to the nearest cent, counting one-half and over as a whole cent.
 
-&emsp;(A) an employee in or under an Executive agency;
+(c) For the purposes of this section:
 
-&emsp;(B) an employee in or under the judicial branch;
+&emsp;(1) The term “employee” means—
 
-&emsp;(C) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek is established under section 6101(a)(5) of this title; and
+&emsp;&emsp;(A) an employee in or under an Executive agency;
 
-&emsp;(D) an individual employed by the government of the District of Columbia;
+&emsp;&emsp;(B) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek is established under section 6101(a)(5) of this title; and
 
-> but does not include an employee or individual excluded from the definition of employee in section 5541(2) of this title other than an employee or individual excluded by section 5541(2)(xvi) of this title.
+&emsp;&emsp;(C) an individual employed by the government of the District of Columbia.
 
-(c) The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or under an Executive agency.
+&emsp;(2) The term “employee” does not include—
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 475; Pub. L. 90–83, §1(21), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IV, §408(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(29), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 99–272, title XV, §15203(a), Apr. 7, 1986, 100 Stat. 334.)
+&emsp;&emsp;(A) an employee on the Isthmus of Panama in the service of the Panama Canal Commission; or
+
+&emsp;&emsp;(B) an employee or individual excluded from the definition of employee in section 5541(2) of this title other than an employee or individual excluded by clauses (ii), (iii), and (xiv) through (xvii) of such section.
+
+&emsp;(3) Notwithstanding paragraph (2), an individual who otherwise would be excluded from the definition of employee shall be deemed to be an employee for purposes of this section if the individual's employing agency so elects, under guidelines in regulations promulgated by the Office of Personnel Management under subsection (d)(2).
+
+(d)(1) The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or under an Executive agency.
+
+(2) The Office of Personnel Management shall provide guidelines by regulation for exemptions to be made by the heads of agencies under subsection (c)(3). Such guidelines shall provide for such exemptions only under exceptional circumstances.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 475; Pub. L. 90–83, §1(21), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IV, §408(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(29), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 99–272, title XV, §15203(a), Apr. 7, 1986, 100 Stat. 334; Pub. L. 108–136, div. A, title XI, §1124, Nov. 24, 2003, 117 Stat. 1637.)
 
 Historical and Revision Notes<br>1966
 
@@ -85,6 +83,12 @@ Standard changes are made to conform with the definitions applicable and the sty
 This section amends 5 U.S.C. 5504 to reflect the amendment to 5 U.S.C. 6101 by section 1(43) of this bill.
 
 #### Amendments
+
+2003—Subsecs. (a), (b). Pub. L. 108–136, §1124(a)(2), struck out last sentence which defined “employee”.
+
+Subsec.(c). Pub. L. 108–136, §1124(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 108–136, §1124(a)(1), (b), redesignated subsec. (c) as (d), inserted “(1)” after “(d)”, and added par. (2).
 
 1986—Subsec. (b). Pub. L. 99–272 struck out first sentence which provided that for pay computation purposes affecting an employee, the annual rate of basic pay established by or under statute is deemed payment for employment during 52 basic administrative workweeks of 40 hours, inserted “, in the case of an employee,” after “When” in second sentence, substituted “2,087” for “2,080” in par. (1), and inserted “other than an employee or individual excluded by section 5541(2)(xvi) of this title” at end of last sentence.
 

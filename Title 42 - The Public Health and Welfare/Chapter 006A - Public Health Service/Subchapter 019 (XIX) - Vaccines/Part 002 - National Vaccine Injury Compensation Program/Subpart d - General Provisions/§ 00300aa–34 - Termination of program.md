@@ -90,5 +90,5 @@ The Secretary shall review the number of awards of compensation made under the p
 
 #### Codification
 
-In subsecs. (a) and (b), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsecs. (a) and (b), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, setout as an Effective Date note under section 300aa–1 of this title.
 

@@ -20,7 +20,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;&emsp;&emsp;(i) for which the annuity was payable from the Fund before the effective date of the increase, or
 
-&emsp;&emsp;&emsp;(ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
+&emsp;&emsp;&emsp;(ii) in the case of a surviving spouse or former spouse of a deceased annuitant whose annuity has not been so increased,since the annuity was first payable to the deceased annuitant.
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
@@ -44,7 +44,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 &emsp;(A) the maximum pay rate payable for class FS–1 under section 3963 of this title, 30 days before the effective date of the adjustment under this section; or
 
-&emsp;(B) the final pay (or average pay, if higher) of the former participant with respect to whom the annuity is paid, increased by theoverall annual average percentage adjustments (compounded) in rates of pay of the Foreign Service Schedule under such section 3963 of this title during the period—
+&emsp;(B) the final pay (or average pay, if higher) of the former participant with respect to whom the annuity is paid, increased by the overall annual average percentage adjustments (compounded) in rates of pay of the Foreign Service Schedule under such section 3963 of this title during the period—
 
 &emsp;&emsp;(i) beginning on the date the annuity commenced (or, in the case of a survivor of the retired participant, the date the participant's annuity commenced), and
 

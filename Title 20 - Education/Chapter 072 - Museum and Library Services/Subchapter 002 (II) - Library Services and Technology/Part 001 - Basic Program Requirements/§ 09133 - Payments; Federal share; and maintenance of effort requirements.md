@@ -34,7 +34,7 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### (B) Decrease in Federal support
 
-&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, thenthe expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 #### (2) Level of State expenditures
 
@@ -48,5 +48,5 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### Amendments
 
-1997—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: “The amount of the reductionin allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.”
+1997—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: “The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.”
 

@@ -22,23 +22,93 @@ The Task Force shall carry out the following activities:
 
 &emsp;(3) Expand interagency procedures to collect and organize data, including significant research and resource information on domestic and international trafficking. Any data collection procedures established under this subsection shall respect the confidentiality of victims of trafficking.
 
-&emsp;(4) Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall include initiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
+&emsp;(4) Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall includeinitiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
 
 &emsp;(5) Examine the role of the international “sex tourism” industry in the trafficking of persons and in the sexual exploitation of women and children around the world.
 
 &emsp;(6) Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter.
 
+&emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
+
+&emsp;&emsp;(A) the number of persons who received benefits or other services under section 7105(b) of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
+
+&emsp;&emsp;(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year;
+
+&emsp;&emsp;(C) the number of persons who have applied for, been granted, or been denied a visa or otherwise provided status under section 1101(a)(15)(T)(i) of title 8 during the preceding fiscal year;
+
+&emsp;&emsp;(D) the number of persons who have been charged or convicted under one or more of sections 1581, 1583, 1584, 1589, 1590, 1591, 1592, or 1594 of title 18 during the preceding fiscal year and the sentences imposed against each such person;
+
+&emsp;&emsp;(E) the amount, recipient, and purpose of each grant issued by any Federal agency to carry out the purposes of sections 7104 and 7105 of this title, or section 2152d of this title, during the preceding fiscal year;
+
+&emsp;&emsp;(F) the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year; and
+
+&emsp;&emsp;(G) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (f) of this section.
+
 #### (e) Support for the Task Force
 
-The Secretary of State is authorized to establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
+The Secretary of State is authorized to establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473.)
+#### (f) Senior Policy Operating Group
+
+#### (1) Establishment
+
+&emsp;There shall be established within the executive branch a Senior Policy Operating Group.
+
+#### (2) Membership; related matters
+
+#### (A) In general
+
+&emsp;&emsp;The Operating Group shall consist of the senior officials designated as representatives of the appointed members of the Task Force (pursuant to Executive Order No. 13257 of February 13, 2002).
+
+#### (B) Chairperson
+
+&emsp;&emsp;The Operating Group shall be chaired by the Director of the Office to Monitor and Combat Trafficking of the Department of State.
+
+#### (C) Meetings
+
+&emsp;&emsp;The Operating Group shall meet on a regular basis at the call of the Chairperson.
+
+#### (3) Duties
+
+&emsp;The Operating Group shall coordinate activities of Federal departments and agencies regarding policies (including grants and grant policies) involving the international trafficking in persons and the implementation of this chapter.
+
+#### (4) Availability of information
+
+&emsp;Each Federal department or agency represented on the Operating Group shall fully share all information with such Group regarding the department or agency's plans, before and after final agency decisions are made, on all matters relating to grants, grant policies, and other significant actions regarding the international trafficking in persons and the implementation of this chapter.
+
+#### (5) Regulations
+
+&emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
+
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (d) to (f), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+Executive Order No. 13257, referred to in subsec. (f)(2)(A), is set out as a note below.
+
+#### Amendments
+
+2003—Subsec. (d)(7). Pub. L. 108–193, §6(a)(1), added par. (7).
+
+Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
+
+Subsec. (f). Pub. L. 108–193, §6(c)(1), added subsec. (f).
+
+#### Savings Provision
+
+Pub. L. 108–193, §6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: “The individual who holds the position of Director of the Office to Monitor and Combat Trafficking of the Department of State may continue to hold such position notwithstanding the amendment made by paragraph (1) \[amending this section\].”
+
+#### Senior Policy Operating Group
+
+Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required the Interagency Task Force to Monitor and Combat Trafficking to establish a Senior Policy Operating Group, prior to repeal by Pub. L. 108–193, §6(c)(2), Dec. 19, 2003, 117 Stat. 2881. See subsec. (f) of this section.
 
 #### Ex. Ord. No. 13257. President's Interagency Task Force To Monitor and Combat Trafficking in Persons
 
-Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, §5, Feb. 28, 2003, 68 F.R. 10619, provided:
+Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, §5, Feb. 28, 2003, 68 F.R. 10619; Ex. Ord. No. 13333, Mar. 18, 2004, 69 F.R. 13455, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7103) \[this chapter\] (the “Act”), and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the “Act”), and section 301 of title 3, United States Code, and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
 
 Section 1. (a) The President's Interagency Task Force to Monitor and Combat Trafficking in Persons is hereby established.
 
@@ -98,7 +168,31 @@ Sec. 3. <i>Administration</i>. (a) The Department of State shall provide funding
 
 &emsp;(ii) recommendations for United States policy to monitor and eliminate trafficking in persons and to protect the victims of trafficking in persons.
 
-Sec. 4. <i>Judicial Review</i>. This order does not create any rights or benefits, enforceable at law or equity, against the United States, its departments, its agencies, or other entities, its officers or employees, or any other person.
+Sec. 4. <i>Guidelines, Policies, and Regulations</i>. (a) The Senior Policy Operating Group (SPOG), described in subsection 105(f) of the Act \[22 U.S.C. 7103(f)\], shall (i) establish guidelines and policies to coordinate the activities of executive branch departments and agencies regarding policies (including grants and grant policies) involving the international trafficking in persons and (ii) advise the Secretary of State what regulations may be necessary to implement section 105 of the Act, including such regulations as may be necessary to carry out the sharing of information on all matters relating to grants, grant policies, or other significant actions regarding the international trafficking in persons as set forth in subsection 105(f)(4) of the Act, to the extent permitted by law.
+
+(b) The Secretary of State, in consultation with the members of the Task Force or their representatives, shall promulgate regulations to implement section 105 of the Act \[22 U.S.C. 7103\].
+
+Sec. 5. <i>Enhanced Prevention of Trafficking in Persons</i>. (a) The Secretary of State, in consultation with the members of the Task Force or their representatives, shall carry out the functions under subsection 106(c) and subsection 106(d) of the Act \[22 U.S.C. 7104(c), (d)\].
+
+(b) The Secretary of State shall have the authority to determine, under section 106(e)(1) of the Act, foreign destinations where sex tourism is significant. The Secretary of Homeland Security, in consultation with the members of the Task Force or their representatives and appropriate officials of the Departments of Commerce and Transportation, shall carry out all other functions under subsection 106(e) of the Act, including promulgation of any appropriate regulations relating to the distribution of the materials described in subsection 106(e).
+
+(c) The head of each executive branch agency responsible for the establishment and conduct of initiatives and programs described in subsections 106(a) through (e) of the Act shall consult with appropriate nongovernmental organizations consistent with section 106(f) of the Act.
+
+(d) The Secretary of State shall have responsibility to initiate appropriate regulatory implementation of the requirements set out in section 106(g) of the Act with respect to contracts, including proposing appropriate amendments to the Federal Acquisition Regulation. Each affected executive branch department or agency shall implement, within that department or agency, the requirements set out in section 106(g) of the Act with respect to grants and cooperative agreements.
+
+Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
+
+Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exercising authority delegated by, or performing functions assigned in, this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to:
+
+(a) conduct the foreign affairs of the United States;
+
+(b) withhold information the disclosure of which could impair the foreign relations, the national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties;
+
+(c) recommend for congressional consideration such measures as the President may judge necessary or expedient; and
+
+(d) supervise the unitary Executive Branch.
+
+Sec. 8. <i>Judicial Review</i>. This order does not create any rights or benefits, enforceable at law or equity, against the United States, its departments, its agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

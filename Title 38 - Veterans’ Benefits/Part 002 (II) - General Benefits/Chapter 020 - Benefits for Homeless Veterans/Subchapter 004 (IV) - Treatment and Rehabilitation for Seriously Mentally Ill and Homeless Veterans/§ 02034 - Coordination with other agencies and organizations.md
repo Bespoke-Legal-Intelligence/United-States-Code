@@ -20,7 +20,7 @@
 
 &emsp;(F) Outreach services.
 
-(4) Each assessment shall also indicate the extent to which the needs referred to in paragraph (3) are being met adequately by the programs of the Department, of other departments and agencies of the Federal Government, of State and local governments, and of nongovernmental organizations.
+(4) Each assessment shall also indicate the extent to which the needs referred to in paragraph\(3) are being met adequately by the programs of the Department, of other departments and agencies of the Federal Government, of State and local governments, and of nongovernmental organizations.
 
 (5) Each assessment shall be carried out in accordance with uniform procedures and guidelines prescribed by the Secretary.
 

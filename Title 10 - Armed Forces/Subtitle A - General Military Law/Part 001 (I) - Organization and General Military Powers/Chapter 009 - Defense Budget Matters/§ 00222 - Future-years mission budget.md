@@ -10,7 +10,7 @@ Consistency With Future-Years Defense Program.—The future-years mission budget
 
 (c)
 
-Relationship to Other Defense Budget Formats.—The requirement in subsection (a) isin addition to the requirements in any other provision of law regarding the format for the presentation regarding military programs of the Department of Defense in the budget submitted pursuant to section 1105 of title 31 for any fiscal year.
+Relationship to Other Defense Budget Formats.—The requirement in subsection (a) is in addition to the requirements in any other provision of law regarding the format for the presentation regarding military programs of the Department of Defense in the budget submitted pursuant to section 1105 of title 31 for any fiscal year.
 
 (Added Pub. L. 102–484, div. A, title X, §1002(a)(2), Oct. 23, 1992, 106 Stat. 2480; amended Pub. L. 103–337, div. A, title X, §1004, Oct. 5, 1994, 108 Stat. 2834.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described insubsection (f)(1) of this section, and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (b) Application of regulations
 
@@ -68,7 +68,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;&emsp;(E) Provisions requiring the Secretary to comply with applicable State noxious weed, pesticide, and animal health laws.
 
-&emsp;&emsp;(F) Provisions requiring compliance with applicable State water laws and Federal and State waste disposal laws (including regulations) and any other applicable law.
+&emsp;&emsp;(F) Provisions requiring compliance with applicable State water laws and Federal andState waste disposal laws (including regulations) and any other applicable law.
 
 &emsp;&emsp;(G) Provisions requiring the Secretary to honor each valid existing oil and gas lease for lands within the boundaries of the Preserve (as described in section 698u–2(b) of this title) that is in effect on November 12, 1996.
 

@@ -26,7 +26,7 @@
 
 #### (b) Cancellation and termination
 
-(1) If funds are not made available for the continuation of a share-in-savings contract entered into under this section in a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid out of—
+(1) If funds are not made available for the continuation of a share-in-savings contract enteredinto under this section in a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid out of—
 
 &emsp;(A) appropriations available for the performance of the contract;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(II) $5,000,000.
 
-&emsp;(ii) Unfunded contingent liability in excess of $1,000,000 has been approved by the Directorof the Office of Management and Budget or the Director's designee.
+&emsp;(ii) Unfunded contingent liability in excess of $1,000,000 has been approved by the Director of the Office of Management and Budget or the Director's designee.
 
 (B) The aggregate number of share-in-savings contracts that may be entered into under subparagraph (A) by all executive agencies to which this subchapter <sup>1</sup> applies in a fiscal year may not exceed 5 in each of fiscal years 2003, 2004, and 2005.
 

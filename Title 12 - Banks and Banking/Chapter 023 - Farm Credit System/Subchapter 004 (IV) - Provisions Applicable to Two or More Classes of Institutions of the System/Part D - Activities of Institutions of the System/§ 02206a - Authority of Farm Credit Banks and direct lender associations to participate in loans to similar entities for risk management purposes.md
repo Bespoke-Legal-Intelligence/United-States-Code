@@ -46,5 +46,5 @@ Terms and conditions.—Approval under paragraph (1) may be granted on an annual
 
 “(3)
 
-Approval by supervising Farm Credit Bank.—An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association.”
+Approval by supervising farm credit bank.—An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association.”
 

@@ -98,7 +98,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Facilitation of access by beneficiaries to employment networks
 
-&emsp;A program manager shall facilitate access by beneficiaries to employment networks. The program manager shall ensure that each beneficiary is allowed changes in employment networks without being deemed to have rejected services under the Program. When such a change occurs, the program manager shall reassign the ticket based on the choice of the beneficiary. Upon the request of the employment network, the program manager shallmake a determination of the allocation of the outcome or milestone-outcome payments based on the services provided by each employment network. The program manager shall establish and maintain lists of employment networks available to beneficiaries and shall make such lists generally available to the public. The program manager shall ensure that all information provided to disabled beneficiaries pursuant to this paragraph is provided in accessible formats.
+&emsp;A program manager shall facilitate access by beneficiaries to employment networks. Theprogram manager shall ensure that each beneficiary is allowed changes in employment networks without being deemed to have rejected services under the Program. When such a change occurs, the program manager shall reassign the ticket based on the choice of the beneficiary. Upon the request of the employment network, the program manager shall make a determination of the allocation of the outcome or milestone-outcome payments based on the services provided by each employment network. The program manager shall establish and maintain lists of employment networks available to beneficiaries and shall make such lists generally available to the public. The program manager shall ensure that all information provided to disabled beneficiaries pursuant to this paragraph is provided in accessible formats.
 
 #### (4) Ensuring availability of adequate services
 
@@ -152,7 +152,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;(A) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subparagraph (C);
 
-&emsp;&emsp;(B) develop and implement each such individual work plan, in partnership with each beneficiary receiving such services, in a manner that affords such beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal;
+&emsp;&emsp;(B) develop and implement each such individual work plan, in partnership with eachbeneficiary receiving such services, in a manner that affords such beneficiary the opportunity to exercise informed choice in selecting an employment goal and specific services needed to achieve that employment goal;
 
 &emsp;&emsp;(C) ensure that each individual work plan includes at least—
 
@@ -214,7 +214,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Limitation on total payments to employment network
 
-&emsp;&emsp;The payment schedule of the outcome milestone payment system shall be designed so that the total of the payments to the employment network with respect to each beneficiary is less than, on a net present value basis (using an interest rate determined by the Commissioner that appropriately reflects the cost of funds faced by providers), the total amount to which payments to the employment network with respect to the beneficiary would be limited if the employment network were paid under the outcome payment system.
+&emsp;&emsp;The payment schedule of the outcome milestone payment system shall be designedso that the total of the payments to the employment network with respect to each beneficiary is less than, on a net present value basis (using an interest rate determined by the Commissioner that appropriately reflects the cost of funds faced by providers), the total amount to which payments to the employment network with respect to the beneficiary would be limited if the employment network were paid under the outcome payment system.
 
 #### (4) Definitions
 
@@ -338,7 +338,7 @@ Specific matters to be included in regulations.—The matters which shall be add
 
 &emsp;“(B) the format and wording of such tickets, which shall incorporate by reference any contractual terms governing service by employment networks under the Program;
 
-&emsp;“(C) the form and manner in which State agencies may elect participation in the Ticket to Work and Self-Sufficiency Program pursuant to section 1148(c)(1) of such Act and provision for periodic opportunities for exercising such elections;
+&emsp;“(C) the form and manner in which State agencies may elect participation in the Ticket to Work and Self-Sufficiency Program pursuant to section1148(c)(1) of such Act and provision for periodic opportunities for exercising such elections;
 
 &emsp;“(D) the status of State agencies under section 1148(c)(1) of such Act at the time that State agencies exercise elections under that section;
 
@@ -346,7 +346,7 @@ Specific matters to be included in regulations.—The matters which shall be add
 
 &emsp;&emsp;“(i) the terms by which program managers are precluded from direct participation in the delivery of services pursuant to section 1148(d)(3) of such Act;
 
-&emsp;&emsp;“(ii) standards which must be met by quality assurance measures referred to in paragraph (6) ofsection 1148(d) of such Act and methods of recruitment of employment networks utilized pursuant to paragraph (2) of section 1148(e) of such Act; and
+&emsp;&emsp;“(ii) standards which must be met by quality assurance measures referred to in paragraph (6) of section 1148(d) of such Act and methods of recruitment of employment networks utilized pursuant to paragraph (2) of section 1148(e) of such Act; and
 
 &emsp;&emsp;“(iii) the format under which dispute resolution will operate under section 1148(d)(7) of such Act;
 
@@ -426,7 +426,7 @@ Pub. L. 106–170, title I, §101(d), Dec. 17, 1999, 113 Stat. 1874, provided th
 
 “(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior tofull implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
 
 “(2)
 

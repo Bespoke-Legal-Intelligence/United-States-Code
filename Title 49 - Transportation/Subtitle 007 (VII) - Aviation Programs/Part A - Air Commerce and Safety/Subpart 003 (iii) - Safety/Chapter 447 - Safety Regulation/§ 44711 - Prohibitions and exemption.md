@@ -20,7 +20,7 @@ Prohibitions.—A person may not—
 
 &emsp;(6) operate a seaplane or other aircraft of United States registry on the high seas in violation of a regulation under section 3 of the International Navigational Rules Act of 1977 (33 U.S.C. 1602);
 
-&emsp;(7) violate a term of an air agency or production certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title related to the holder of the certificate;
+&emsp;(7) violate a term of an air agency, design organization certificate, or production certificate or a regulation prescribed or order issued under section 44701(a) or (b) or any of sections 44702–44716 of this title related to the holder of the certificate;
 
 &emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate; or
 
@@ -34,7 +34,7 @@ Exemption.—On terms the Administrator of the Federal Aviation Administration p
 
 Prohibition on Employment of Convicted Counterfeit Part Traffickers.—No person subject to this chapter may knowingly employ anyone to perform a function related to the procurement, sale, production, or repair of a part or material, or the installation of a part into a civil aircraft, who has been convicted in a court of law of a violation of any Federal law relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1193; Pub. L. 103–429, §6(56), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 106–181, title V, §505(b), Apr. 5, 2000, 114 Stat. 136; Pub. L. 108–176, title II, §227(d), Dec. 12, 2003, 117 Stat. 2532.)
 
 Historical and Revision Notes
 
@@ -122,7 +122,7 @@ In subsection (a)(7), the words “holding . . . such certificate” are omitt
 
 In subsection (a)(8), the words “by the Administrator” are omitted as surplus.
 
-In subsection (b), the word “Administrator” in section 610(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 780) is retained on authority of 49:106(g). The words “to the extent, and . . . and conditions” and “by such airmen” are omitted as surplus.
+In subsection (b), the word “Administrator” in section 610(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 780) is retained on authority of49:106(g). The words “to the extent, and . . . and conditions” and “by such airmen” are omitted as surplus.
 
 #### Pub. L. 103–429
 
@@ -130,9 +130,15 @@ This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cr
 
 #### Amendments
 
+2003—Subsec. (a)(7). Pub. L. 108–176 substituted “agency, design organization certificate,” for “agency”.
+
 2000—Subsec. (c). Pub. L. 106–181 added subsec. (c).
 
 1994—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted “any of sections” before “44702–44716”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

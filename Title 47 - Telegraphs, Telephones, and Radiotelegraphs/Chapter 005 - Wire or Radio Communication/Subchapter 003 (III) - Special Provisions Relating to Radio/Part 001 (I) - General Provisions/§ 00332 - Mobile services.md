@@ -178,5 +178,5 @@ Section 6002(d)(3) of Pub. L. 103–66 provided that: “Within 1 year after the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 152, 153, 160, 222, 253, 271, 309, 1001, 1002 of this title.
+This section is referred to in sections 152, 153, 160, 222, 253, 271, 309, 1001, 1002 of this title; title 15 section 7712.
 

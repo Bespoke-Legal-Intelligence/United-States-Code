@@ -68,7 +68,7 @@ This chapter, referred to in subsec. (a)(4), was in the original “this Act”,
 
 1993—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
 
-1992—Subsec. (a)(1). Pub. L. 102–384, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993.”
+1992—Subsec. (a)(1). Pub. L. 102–384, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993.”
 
 Subsec. (a)(2). Pub. L. 102–384, §11(b), substituted “paragraph (1)(A)” for “paragraph (1)” in introductory provisions, redesignated subpars. (B) to (D) as (A) to (C), respectively, added subpar. (D), and struck out former subpar. (A) which read as follows: “$2,000,000 shall be made available to carry out part G of subchapter I of this chapter in each such fiscal year;”.
 
@@ -78,5 +78,5 @@ Section 301(b) of Pub. L. 103–82 provided that: “The amendment made by subse
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12576, 12581, 12601, 12625, 12640, 12662, 12663 of this title.
+This section is referred to in sections 12576, 12581, 12601, 12605, 12625, 12640, 12662, 12663 of this title.
 

@@ -17,6 +17,7 @@ This subchapter is referred to in sections 2451, 5503, 5504 of this title.
 - [&sect; 02473b - Award of prime and subcontracts to small businesses and disadvantaged individuals](%C2%A7%2002473b%20-%20Award%20of%20prime%20and%20subcontracts%20to%20small%20businesses%20and%20disadvantaged%20individuals.md)
 - [&sect; 02473c - Drug and alcohol testing](%C2%A7%2002473c%20-%20Drug%20and%20alcohol%20testing.md)
 - [&sect; 02473d - Use of abandoned and underutilized buildings, grounds, and facilities](%C2%A7%2002473d%20-%20Use%20of%20abandoned%20and%20underutilized%20buildings%2C%20grounds%2C%20and%20facilities.md)
+- [&sect; 02473e - National Aeronautics and Space Administration Science and Technology Scholarship Program](%C2%A7%2002473e%20-%20National%20Aeronautics%20and%20Space%20Administration%20Science%20and%20Technology%20Scholarship%20Program.md)
 - [&sect; 02474 - Omitted](%C2%A7%2002474%20-%20Omitted.md)
 - [&sect; 02475 - International cooperation](%C2%A7%2002475%20-%20International%20cooperation.md)
 - [&sect; 02475a - Competitiveness and international cooperation](%C2%A7%2002475a%20-%20Competitiveness%20and%20international%20cooperation.md)

@@ -46,7 +46,7 @@ Pub. L. 102–550, title IX, §910, Oct. 28, 1992, 106 Stat. 3874, provided that
 
 “(a)
 
-In General.—Not later than 12 months after the date of enactment of this section \[Oct. 28, 1992\], the Board of Governors of the Federal Reserve System, in consultation with the Comptroller of the Currency, theChairman of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the Chairman of the National Credit Union Administration, shall submit a report to the Congress comparing residential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods.
+In General.—Not later than 12 months after the date of enactment of this section \[Oct. 28, 1992\], the Board of Governors of the Federal Reserve System, in consultation with the Comptroller of the Currency, the Chairman of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the Chairman of the National Credit Union Administration, shall submit a report to the Congress comparing residential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods.
 
 “(b)
 

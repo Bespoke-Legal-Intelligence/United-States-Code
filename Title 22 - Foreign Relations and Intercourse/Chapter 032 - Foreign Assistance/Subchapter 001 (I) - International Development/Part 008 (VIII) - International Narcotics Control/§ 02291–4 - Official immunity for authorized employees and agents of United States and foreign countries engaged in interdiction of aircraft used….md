@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(A) A list specifying each country for which a certification referred to in subsection (a)(2) of this section was in effect for purposes of that subsection during any portion of such calendar year, including the nature of the illicit drug trafficking threat to each such country.
 
-&emsp;(B) A detailed explanation of the procedures referred to in subsection (a)(2)(B) of this section in effect for each country listed under subparagraph (A), including any training and other mechanisms in place to ensure adherence to such procedures.
+&emsp;(B) A detailed explanation of the procedures referred to in subsection (a)(2)(B) of this section in effect for each country listed undersubparagraph (A), including any training and other mechanisms in place to ensure adherence to such procedures.
 
 &emsp;(C) A complete description of any assistance provided under subsection (b) of this section.
 
@@ -65,6 +65,8 @@ The President made the determination required by subsec. (a)(2) of this section 
 Colombia, Determination No. 95–7, Dec. 1, 1994, 59 F.R. 64835.
 
 Peru, Determination No. 95–9, Dec. 8, 1994, 59 F.R. 65231.
+
+Columbia, Determination No. 2003–32, Aug. 18, 2003, 68 F.R. 50963.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@ Beneficiary initially under 62 years of age.—If the beneficiary is under 62 ye
 
 &emsp;(3)
 
-Exclusion of dic offset.—Computations under paragraphs (1) and (2) shall be made without regard to any reduction required under section 1450(c) of this title (or any otherprovision of law) with respect to the receipt of dependency and indemnity compensation under section 1311 of title 38.
+Exclusion of dic offset.—Computations under paragraphs (1) and (2) shall be made without regard to any reduction required under section 1450(c) of this title (or any other provision of law) with respect to the receipt of dependency and indemnity compensation under section 1311 of title 38.
 
 (d)
 
@@ -46,7 +46,7 @@ Rounding down.—The monthly amount of an annuity payable under this subchapter,
 
 (e)
 
-Termination of Annuity.—A supplemental spouse annuity terminates effective as of the first day of the month in which the beneficiary dies or otherwise becomes ineligible to continue to receive an annuity under the Survivor Benefit Plan.
+Termination of Annuity.—A supplemental spouse annuity terminates effective as of thefirst day of the month in which the beneficiary dies or otherwise becomes ineligible to continue to receive an annuity under the Survivor Benefit Plan.
 
 (Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1580; amended Pub. L. 102–190, div. A, title VI, §653(b)(1), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 103–337, div. A, title X, §1070(e)(5), Oct. 5, 1994, 108 Stat. 2859.)
 

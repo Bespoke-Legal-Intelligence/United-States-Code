@@ -14,7 +14,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 #### (c) Chairman and vice chairman; quorum
 
-(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
+(1) The chairman and the vice chairman of the Commission shall be designated by the President from among the members of the Commission not ineligible, under paragraph (3), for designation. The President shall notify the Congress of his designations under this paragraph. If, as of the date on which a term begins under paragraph (2), the President has not designatedthe chairman of the Commission for such term, the Commissioner <sup>1</sup> who, as of such date—
 
 &emsp;(A) is a member of a different political party than the chairman of the Commission for the immediately preceding term, and
 
@@ -64,7 +64,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: “The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_.” The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigationupon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -181,6 +181,10 @@ Subsec. (c). Pub. L. 93–618, §172(b), designated existing provisions as par. 
 Subsec. (e). Pub. L. 93–618, §175(b), added subsec. (e).
 
 1953—Subsec. (d). Act Aug. 7, 1953, added subsec. (d).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1991 Amendment
 

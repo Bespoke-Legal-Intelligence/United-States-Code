@@ -80,7 +80,7 @@ As used in this section—
 
 (4) Each grant made under this subsection shall be subject to such terms and conditions as the Secretary may require to protect the interests of the United States, including, but not limited to, the following:
 
-&emsp;(A) The recipient of the grant must keep such records as the Secretary shall require as being necessary or appropriate for disclosingthe use made of grant funds and shall allow the Secretary and the Comptroller General of the United States, or any of their authorized representatives, access to such records for purposes of audit and examination.
+&emsp;(A) The recipient of the grant must keep such records as the Secretary shall require as being necessary or appropriate for disclosing the use made of grant funds and shall allow the Secretary and the Comptroller General of the United States, or any of their authorized representatives, access to such records for purposes of audit and examination.
 
 &emsp;(B) The amount of a grant may not be less than 50 percent of the estimated cost of the project.
 
@@ -192,7 +192,7 @@ Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the t
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

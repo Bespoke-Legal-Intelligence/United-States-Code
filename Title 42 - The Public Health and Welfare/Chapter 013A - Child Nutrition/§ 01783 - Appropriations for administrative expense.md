@@ -1,6 +1,6 @@
 ### §1783. Appropriations for administrative expense
 
-There are hereby authorized to be appropriated for any fiscal year such sums as may benecessary to the Secretary for the Secretary's administrative expense under this chapter.
+There are hereby authorized to be appropriated for any fiscal year such sums as may be necessary to the Secretary for the Secretary's administrative expense under this chapter.
 
 (Pub. L. 89–642, §14, Oct. 11, 1966, 80 Stat. 889; Pub. L. 101–147, title III, §324, Nov. 10, 1989, 103 Stat. 917.)
 

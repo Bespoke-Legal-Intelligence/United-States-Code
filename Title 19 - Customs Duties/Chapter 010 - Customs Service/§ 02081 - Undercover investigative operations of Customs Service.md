@@ -2,7 +2,7 @@
 
 #### (a) Certification required for exemption of undercover operations from certain laws
 
-With respect to any undercover investigative operation of the United States Customs Service (hereinafter in this section referred to as the “Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
+With respect to any undercover investigative operation of the United States Customs Service\(hereinafter in this section referred to as the “Service”) which is necessary for the detection and prosecution of offenses against the United States which are within the jurisdiction of the Secretary of the Treasury—
 
 &emsp;(1) sums authorized to be appropriated for the Service may be used—
 
@@ -88,5 +88,5 @@ Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” afte
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

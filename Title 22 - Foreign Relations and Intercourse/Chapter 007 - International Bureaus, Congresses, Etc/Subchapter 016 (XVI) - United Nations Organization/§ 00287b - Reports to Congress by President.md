@@ -176,7 +176,7 @@ Subsec. (e)(5)(B). Pub. L. 107–228, §405(a)(3), added subpar. (B) and struck 
 
 Subsecs. (f), (g). Pub. L. 107–228, §405(a)(4), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make specialcurrent reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
+1999—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(1)\], struck out at end “He shall make special current reports on decisions of the Security Council to take enforcement measures under the provisions of the Charter of the United Nations, and on the participation therein under his instructions, of the representative of the United States.”
 
 Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (b)\], added subsecs. (e) to (g) and struck out heading and text of former subsec. (e). Text read as follows: “As used in this section, the term ‘designated congressional committees’ has the meaning given that term by section 415 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995.”
 
@@ -185,6 +185,10 @@ Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) \[title VII, §724(a)(2), (
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to reporting to Congress not less than once each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 39 of House Document No. 103–7.
+
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 
 #### Consultations and Reports on United Nations Peacekeeping Operations
 

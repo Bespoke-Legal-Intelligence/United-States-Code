@@ -68,7 +68,7 @@ Under section 208(e) of the National Security Act of 1947 (5 U.S.C. 626c(e)), al
 |  |  |  |
 | Total | 201 | 156 |
 
-After the enactment of the Officer Personnel Act of 1947, section 308 of the Army Organization Act of 1950 (10:61–1) provided for an Assistant Judge Advocate General and three brigadier generals in the Judge Advocate General's Corps of the Army. The creation of these four general officer spaces served to increase the mentioned authorized strength figure from 357 to 361, and the figure 201 to 205. The opinion of the Judge Advocate General of the Army (JAGA 1948/5806, 2 Sept. 1948) is in accord with that conclusion.
+After the enactment of the Officer Personnel Act of 1947, section 308 of the Army Organization Act of 1950\(10:61–1) provided for an Assistant Judge Advocate General and three brigadier generals in the Judge Advocate General's Corps of the Army. The creation of these four general officer spaces served to increase the mentioned authorized strength figure from 357 to 361, and the figure 201 to 205. The opinion of the Judge Advocate General of the Army (JAGA 1948/5806, 2 Sept. 1948) is in accord with that conclusion.
 
 The revised section reflects the authorized strength of the Regular Air Force in general officers on the active list resulting from the mentioned allocation to the Air Force.
 
@@ -84,7 +84,7 @@ In subsection (c)(2), the figure “1” results from the allocation of the orig
 
 In subsection (c)(3), the figure “1” results from the allocation of the original figures “2” and “1”. (The major general was allocated to the Army, the brigadier general to the Air Force.)
 
-In subsection (c)(4), the figures “150” and “75” result from the allocation of the original figures “334” and“167”. That allocation corresponds to the allotment made by the Secretary of War between the Air Corps and the Army exclusive of the Air Corps, the Medical Department, and the Chaplains, under 10: 506a(a) (3d proviso). That proviso is omitted as executed.
+In subsection (c)(4), the figures “150” and “75” result from the allocation of the original figures “334” and “167”. That allocation corresponds to the allotment made by the Secretary of War between the Air Corps and the Army exclusive of the Air Corps, the Medical Department, and the Chaplains, under 10: 506a(a) (3d proviso). That proviso is omitted as executed.
 
 In subsection (e), the words “by law to hold any civil office under the United States” are substituted for the words “by Acts of Congress to hold appointments in the Diplomatic or Consular Service of the Government or to hold any civil office under the Government”.
 

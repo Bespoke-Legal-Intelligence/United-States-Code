@@ -1,6 +1,6 @@
 ### §5753. Recruitment and relocation bonuses
 
-(a) The Office of Personnel Management may authorize the head of an agency to pay a bonus to an employee who is newly appointed to a position under the General Schedule, or to an employee under the General Schedule or under any other pay authority in the executive, legislative, or judicial branch who must relocate to accept a position under the General Schedule, if the Office determines that the agency would be likely, in the absence of such a bonus, to encounter difficulty in filling the position.
+(a) The Office of Personnel Management may authorize the head of an agency to pay a bonusto an employee who is newly appointed to a position under the General Schedule, or to an employee under the General Schedule or under any other pay authority in the executive, legislative, or judicial branch who must relocate to accept a position under the General Schedule, if the Office determines that the agency would be likely, in the absence of such a bonus, to encounter difficulty in filling the position.
 
 (b)(1)(A) The amount of a bonus under this section shall be determined by regulations of the Office, but may not exceed 25 percent of the annual rate of basic pay of the position to which the employee is being appointed or relocated.
 
@@ -30,5 +30,5 @@ Section effective on such date as the President shall determine, but not earlier
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3521, 5307, 5757, 9504 of this title; title 38 section 7410.
+This section is referred to in sections 3521, 5307, 5404, 5757, 9504 of this title; title 38 section 7410.
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) procedures for the resale of the lot or the dwelling (or both) purchased, constructed, or improved using the proceeds of the loan.
 
-&emsp;(E) That the tribal organization agrees to such other terms and conditions with respect to the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that the pilot program established under this subchapter is implemented in a responsible and prudent manner.
+&emsp;(E) That the tribal organization agrees to such other terms and conditions with respectto the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that the pilot program established under this subchapter is implemented in a responsible and prudent manner.
 
 (2) The Secretary may not enter into a memorandum of understanding with a tribal organization under this subsection unless the Secretary determines that the memorandum provides for such standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
 
@@ -74,7 +74,7 @@
 
 &emsp;(A) Attending conferences and conventions conducted by the National Congress of American Indians in order to work with the National Congress in providing information and training to tribal organizations and Native American veterans regarding the availability of housing benefits under the pilot program and in assisting such organizations and veterans in participating in the pilot program.
 
-&emsp;(B) Attending conferences and conventions conducted by the National American Indian Housing Council in order to work with the Housing Council in providing information and training to tribal organizations and tribal housing entities regarding the availability of such benefits.
+&emsp;(B) Attending conferences and conventions conducted by the National American Indian Housing Council in order to work with theHousing Council in providing information and training to tribal organizations and tribal housing entities regarding the availability of such benefits.
 
 &emsp;(C) Attending conferences and conventions conducted by the Department of Hawaiian Homelands in order to work with the Department of Hawaiian Homelands in providing information and training to tribal housing entities in Hawaii regarding the availability of such benefits.
 

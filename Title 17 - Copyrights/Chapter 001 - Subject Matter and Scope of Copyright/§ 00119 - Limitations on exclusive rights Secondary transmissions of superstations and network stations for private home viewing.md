@@ -30,7 +30,7 @@ Accurate determinations of eligibility.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Accurate predictive model.—In determining presumptively whether a person resides in an unserved householdunder subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
+Accurate predictive model.—In determining presumptively whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201, as that model may be amended by the Commission over time under section 339(c)(3) of the Communications Act of 1934 to increase the accuracy of that model.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -76,9 +76,9 @@ Individual violations.—The willful or repeated secondary transmission by a sat
 
 Pattern of violations.—If a satellite carrier engages in a willful or repeated pattern or practice of delivering a primary transmission made by a network station and embodying a performance or display of a work to subscribers who do not reside in unserved households, then in addition to the remedies set forth in subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) if the pattern or practice has been carried out on a substantially nationwide basis, the court shall order a permanent injunction barring the secondary transmission by the satellite carrier, for private home viewing, of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out; and
+&emsp;&emsp;&emsp;(i) if the pattern or practice has been carried out on a substantially nationwidebasis, the court shall order a permanent injunction barring the secondary transmission by the satellite carrier, for private home viewing, of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out; and
 
-&emsp;&emsp;&emsp;(ii) if the pattern or practice has been carried out on a local or regional basis, the court shall order a permanent injunctionbarring the secondary transmission, for private home viewing in that locality or region, by the satellite carrier of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out.
+&emsp;&emsp;&emsp;(ii) if the pattern or practice has been carried out on a local or regional basis, the court shall order a permanent injunction barring the secondary transmission, for private home viewing in that locality or region, by the satellite carrier of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out.
 
 &emsp;&emsp;(C)
 
@@ -204,7 +204,7 @@ Updated documentation requirements.—If a satellite carrier wishes to continue 
 
 &emsp;(12)
 
-Statutory license contingent on compliance with fcc rules and remedial steps.—Notwithstanding any other provision of this section, the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a broadcast station licensed by the Federal Communications Commission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, if, at the timeof such transmission, the satellite carrier is not in compliance with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast station signals.
+Statutory license contingent on compliance with fcc rules and remedial steps.—Notwithstanding any other provision of this section, the willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a broadcast station licensed by the Federal Communications Commission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and 509, if, at the time of such transmission, the satellite carrier is not in compliance with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast station signals.
 
 (b)
 
@@ -262,7 +262,7 @@ Fee set by voluntary negotiation.—
 
 &emsp;&emsp;(A)
 
-Notice of initiation of proceedings.—On or before July 1, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining the royalty fee to be paid by satellite carriers under subsection (b)(1)(B).
+Notice of initiation of proceedings.—On or before July 1, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for thepurpose of determining the royalty fee to be paid by satellite carriers under subsection (b)(1)(B).
 
 &emsp;&emsp;(B)
 
@@ -410,7 +410,7 @@ Moratorium on Copyright Liability.—Until December 31, 2004, a subscriber who d
 
 For effective date of the Satellite Home Viewer Act of 1994, referred to in subsec. (a)(8)(C)(i), see section 6 of Pub. L. 103–369, set out as an Effective and Termination Dates of 1994 Amendment note below.
 
-The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Sections 339 and 397 of the Act are classified to sections 339 and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, asamended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. Sections 339 and 397 of the Act are classified to sections 339 and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
 
@@ -418,7 +418,7 @@ The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1
 
 Pub. L. 107–273, §13209(3)(A), amended Pub. L. 106–113, §1000(a)(9) \[title I, §1006(a)\]. See 1999 Amendment note below.
 
-Subsec. (a)(2)(A). Pub. L. 107–273, §13209(1)(A), made technical correction to directory language of Pub. L.106–113, §1000(a)(9) \[title I, §1007(2)\]. See 1999 Amendment note below.
+Subsec. (a)(2)(A). Pub. L. 107–273, §13209(1)(A), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title I, §1007(2)\]. See 1999 Amendment note below.
 
 Subsec. (a)(6). Pub. L. 107–273, §13210(1), substituted “of a performance” for “of performance”.
 

@@ -20,7 +20,7 @@
 
 #### (b) Alternative actions in certain cases of export targeting
 
-(1) If the Trade Representative makes an affirmative determination under section2414(a)(1)(A) of this title involving export targeting by a foreign country and determines to take no action under section 2411 of this title with respect to such affirmation determination, the Trade Representative—
+(1) If the Trade Representative makes an affirmative determination under section 2414(a)(1)(A) of this title involving export targeting by a foreign country and determines to take no action under section 2411 of this title with respect to such affirmation determination, the Trade Representative—
 
 &emsp;(A) shall establish an advisory panel to recommend measures which will promote the competitiveness of the domestic industry affected by the export targeting,
 

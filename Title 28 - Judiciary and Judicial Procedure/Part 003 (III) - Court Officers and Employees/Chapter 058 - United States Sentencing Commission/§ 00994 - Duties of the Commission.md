@@ -1,6 +1,6 @@
 ### §994. Duties of the Commission
 
-(a) The Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of this title and title 18, United States Code, shall promulgate and distribute to all courts of the United States and to the United States Probation System—
+(a) The Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of any Federal statute shall promulgate and distribute to all courts of the United States and to the United States Probation System—
 
 &emsp;(1) guidelines, as described in this section, for use of a sentencing court in determining the sentence to be imposed in a criminal case, including—
 
@@ -122,7 +122,7 @@
 
 &emsp;(2) the general inappropriateness of imposing consecutive terms of imprisonment for an offense of conspiring to commit an offense or soliciting commission of an offense and for an offense that was the sole object of the conspiracy or solicitation.
 
-(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the averagesentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
+(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
@@ -154,13 +154,31 @@
 
 (v) The Commission shall ensure that the general policy statements promulgated pursuant to subsection (a)(2) include a policy limiting consecutive terms of imprisonment for an offense involving a violation of a general prohibition and for an offense involving a violation of a specific prohibition encompassed within the general prohibition.
 
-(w) The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.
+(w)(1) The Chief Judge of each district court shall ensure that, within 30 days following entry of judgment in every criminal case, the sentencing court submits to the Commission a written report of the sentence, the offense for which it is imposed, the age, race, sex of the offender, and information regarding factors made relevant by the guidelines. The report shall also include—
+
+&emsp;(A) the judgment and commitment order;
+
+&emsp;(B) the statement of reasons for the sentence imposed (which shall include the reason for any departure from the otherwise applicable guideline range);
+
+&emsp;(C) any plea agreement;
+
+&emsp;(D) the indictment or other charging document;
+
+&emsp;(E) the presentence report; and
+
+&emsp;(F) any other information as the Commission finds appropriate.
+
+(2) The Commission shall, upon request, make available to the House and Senate Committees on the Judiciary, the written reports and all underlying records accompanying those reports described in this section, as well as other records received from courts.
+
+(3) The Commission shall submit to Congress at least annually an analysis of these documents, any recommendations for legislation that the Commission concludes is warranted by that analysis, and an accounting of those districts that the Commission believes have not submitted the appropriate information and documents required by this section.
+
+(4) The Commission shall make available to the Attorney General, upon request, such data files as the Commission may assemble or maintain in electronic form that include any information submitted under paragraph (1). Such data files shall be made available in electronic form and shall include all data fields requested, including the identity of the sentencing judge.
 
 (x) The provisions of section 553 of title 5, relating to publication in the Federal Register and public hearing procedure, shall apply to the promulgation of guidelines pursuant to this section.
 
-(y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs tothe Government of any imprisonment, supervised release, or probation sentence that is ordered.
+(y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
-(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141.)
+(Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3,Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141; Pub. L. 108–21, title IV, §401(h), (k), Apr. 30, 2003, 117 Stat. 672, 674.)
 
 #### References in Text
 
@@ -171,6 +189,10 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are s
 The Maritime Drug Law Enforcement Act, referred to in subsec. (h)(1)(B), (2)(B), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–21, §401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
+
+Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
 
 1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
@@ -224,7 +246,21 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
-#### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses
+#### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+
+Pub. L. 108–187, §4(b), Dec. 16, 2003, 117 Stat. 2705.—Fraud and related activity in connection with electronic mail.
+
+Pub. L. 108–21, title I, §104(a), Apr. 30, 2003, 117 Stat. 653.—Kidnapping.
+
+Pub. L. 108–21, title IV, §401(b), (g), (i), (j)(1)–(4), (m), Apr. 30, 2003, 117 Stat. 668, 671–673, 675.—Child crimes and sexual offenses, child pornography, downward departures, and acceptance of responsibility.
+
+Pub. L. 108–21, title V, §504(c)(2), Apr. 30, 2003, 117 Stat. 682.—Obscene visual representations of the sexual abuse of children.
+
+Pub. L. 108–21, title V, §512, Apr. 30, 2003, 117 Stat. 685.—Interstate travel to engage in sexual act with a juvenile.
+
+Pub. L. 108–21, title V, §513(c), Apr. 30, 2003, 117 Stat. 685.—Activities relating to material constituting or containing child pornography.
+
+Pub. L. 108–21, title VI, §608(e), Apr. 30, 2003, 117 Stat. 691.—Offenses involving gamma hydroxybutyric acid (GHB).
 
 Pub. L. 107–296, title II, §225(b), Nov. 25, 2002, 116 Stat. 2156.—Computer fraud.
 
@@ -288,6 +324,8 @@ Pub. L. 104–208, div. C, title III, §334, Sept. 30, 1996, 110 Stat. 3009–63
 
 Pub. L. 104–201, div. A, title XIV, §1423, Sept. 23, 1996, 110 Stat. 2725; Pub. L. 105–261, div. A, title X, §1069(c)(1), Oct. 17, 1998, 112 Stat. 2136.—Offenses relating to importation and exportation of nuclear, biological, or chemical weapons or technologies.
 
+Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240.—Mandatory victim restitution.
+
 Pub. L. 104–132, title VII, §730, Apr. 24, 1996, 110 Stat. 1303.—International terrorism.
 
 Pub. L. 104–132, title VIII, §805, Apr. 24, 1996, 110 Stat. 1305.—Terrorist activity damaging Federal interest computer.
@@ -348,13 +386,9 @@ Pub. L. 100–690, title VI, §6468(c), (d), Nov. 18, 1988, 102 Stat. 4376.—Dr
 
 Pub. L. 100–690, title VI, §6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common carrier operation under influence of alcohol or drugs.
 
-#### Mandatory Victim Restitution; Amendment of Sentencing Guidelines
-
-Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240, provided that: “Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to reflect this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this subtitle.”
-
 #### Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities
 
-Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activitysubmitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
+Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activity submitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
 
 #### Emergency Guidelines Promulgation Authority
 
@@ -402,7 +436,7 @@ Section 236 of Pub. L. 98–473 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 995, 998 of this title; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 5037; title 22 section 7109; title 29 sections 504, 1111; title 42 sections 3796<i>ll</i>–3, 14051, 14052.
+This section is referred to in sections 995, 998 of this title; title 15 section 7703; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 3742, 5037; title 22 section 7109; title 29 sections 504, 1111; title 42 sections 3796<i>ll</i>–3, 14051, 14052.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ The Secretary may—
 
 #### (d) Definition of nontraditional Government contractor
 
-In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” asdefined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
 (Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224.)
 

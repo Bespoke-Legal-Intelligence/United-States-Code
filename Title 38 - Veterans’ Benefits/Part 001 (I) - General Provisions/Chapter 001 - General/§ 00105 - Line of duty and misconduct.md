@@ -26,5 +26,5 @@ Section 8052(b) of Pub. L. 101–508 provided that: “The amendments made by su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 50 App. section 593.
+This section is referred to in title 50 App. section 594.
 

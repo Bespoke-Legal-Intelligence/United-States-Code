@@ -1,6 +1,6 @@
 ### §5876. Comptroller General audit
 
-(a) Section 166 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2206\], shall be deemed to be applicable, respectively, to the nuclear and nonnuclear activities under subchapter I of this chapter and to the activities under subchapter II of this chapter.
+(a) Section 166 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2206\], shall be deemed to be applicable, respectively, to the nuclear and nonnuclear activities under subchapter I of thischapter and to the activities under subchapter II of this chapter.
 
 (b) The Comptroller General of the United States shall audit, review, and evaluate the implementation of the provisions of subchapter II of this chapter by the Nuclear Safety and Licensing Commission not later than sixty months after the effective date of this chapter, the Comptroller General shall prepare and submit to the Congress a report on his audit, which shall contain, but not be limited to—
 

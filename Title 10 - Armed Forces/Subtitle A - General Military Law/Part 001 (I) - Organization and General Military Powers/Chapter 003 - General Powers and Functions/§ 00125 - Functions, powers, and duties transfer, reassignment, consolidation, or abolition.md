@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as
 
 1984—Subsec. (a). Pub. L. 98–525 substituted “section 2 of the National Security Act of 1947 (50 U.S.C. 401)” for “section 401 of title 50”.
 
-1966—Subsec. (c). Pub. L. 89–501 required the Secretary of Defense to report to the Congress all the pertinent details regarding any substantial reduction or elimination of a major weapons system before action could be initiated or effected by the Department of Defense.
+1966—Subsec. (c). Pub. L. 89–501 required the Secretary of Defense to report to the Congress all the pertinent details regarding any substantial reduction or elimination of a major weapons system before actioncould be initiated or effected by the Department of Defense.
 
 #### Resolutions Relating to Transfers, Reassignments, Consolidations, or Abolitions of Combatant Functions
 

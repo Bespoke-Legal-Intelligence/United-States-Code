@@ -22,7 +22,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined votingpower of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
 > Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.
 
@@ -152,7 +152,7 @@ Amendment by section 1847(b)(5) of Pub. L. 99–514 effective, except as otherwi
 
 Section 555(c)(1) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(1), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984.”
 
-Amendment by section 2662 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Amendment by section 2662 of Pub. L. 98–369 effective as though included in the enactment of the Social Security Amendments of 1983, Pub. L. 98–21, see section 2664(a) of Pub. L. 98–369, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1983 Amendment
 

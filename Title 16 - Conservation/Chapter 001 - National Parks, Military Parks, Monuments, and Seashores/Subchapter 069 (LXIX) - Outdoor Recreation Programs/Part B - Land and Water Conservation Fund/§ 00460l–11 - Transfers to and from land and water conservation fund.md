@@ -12,7 +12,7 @@ There shall be paid from time to time from the land and water conservation fund 
 
 &emsp;(2) 80 percent of the floor stocks refunds made before October 1, 2004, under section 6412(a)(2) of title 26 with respect to gasoline to be used in motorboats.
 
-(Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, §302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, §302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V,§503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, §531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, §2, title XVIII, §1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, §503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, §11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, §9002(c)(2)(B), June 9, 1998, 112 Stat. 500.)
+(Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, §302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, §302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, §531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, §2, title XVIII, §1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, §503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, §11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, §9002(c)(2)(B), June 9, 1998, 112 Stat. 500.)
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Section effective Jan. 1, 1965, see note set out under section 460<i>l</i>–4 o
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] of title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

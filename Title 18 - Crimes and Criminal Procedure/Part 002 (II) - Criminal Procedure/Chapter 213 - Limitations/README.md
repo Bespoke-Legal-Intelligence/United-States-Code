@@ -4,7 +4,12 @@
 | :--- | ---: |
 | [3281\.](%C2%A7%2003281%20-%20Capital%20offenses.md) | Capital offenses. |
 | [3282\.](%C2%A7%2003282%20-%20Offenses%20not%20capital.md) | Offenses not capital. |
-| [3283\.](%C2%A7%2003283%20-%20Child%20abuse%20offenses.md) | Child abuse offenses. |
+| [3283\.](%C2%A7%2003283%20-%20Offenses%20against%20children.md) | Child abuse offenses.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [3284\.](%C2%A7%2003284%20-%20Concealment%20of%20bankrupt%27s%20assets.md) | Concealment of bankrupt's assets. |
 | [3285\.](%C2%A7%2003285%20-%20Criminal%20contempt.md) | Criminal contempt. |
 | [3286\.](%C2%A7%2003286%20-%20Extension%20of%20statute%20of%20limitation%20for%20certain%20terrorism%20offenses.md) | Extension of statute of limitation for certain terrorism offenses. |
@@ -39,6 +44,8 @@
 
 1951—Act June 30, 1951, ch. 194, §2, 65 Stat. 107, added item 3291.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–21 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -46,7 +53,7 @@
 
 - [&sect; 03281 - Capital offenses](%C2%A7%2003281%20-%20Capital%20offenses.md)
 - [&sect; 03282 - Offenses not capital](%C2%A7%2003282%20-%20Offenses%20not%20capital.md)
-- [&sect; 03283 - Child abuse offenses](%C2%A7%2003283%20-%20Child%20abuse%20offenses.md)
+- [&sect; 03283 - Offenses against children](%C2%A7%2003283%20-%20Offenses%20against%20children.md)
 - [&sect; 03284 - Concealment of bankrupt's assets](%C2%A7%2003284%20-%20Concealment%20of%20bankrupt%27s%20assets.md)
 - [&sect; 03285 - Criminal contempt](%C2%A7%2003285%20-%20Criminal%20contempt.md)
 - [&sect; 03286 - Extension of statute of limitation for certain terrorism offenses](%C2%A7%2003286%20-%20Extension%20of%20statute%20of%20limitation%20for%20certain%20terrorism%20offenses.md)

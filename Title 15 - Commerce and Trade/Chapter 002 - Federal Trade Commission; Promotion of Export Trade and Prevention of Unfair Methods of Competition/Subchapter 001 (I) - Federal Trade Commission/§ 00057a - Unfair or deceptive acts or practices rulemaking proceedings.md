@@ -184,7 +184,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-1980—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i) of this section, the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “section 45(a)(1) of this title)”.
+1980—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i) of this section, the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “section 45(a)(1) of this title)”.
 
 Subsec. (b). Pub. L. 96–252, §§8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted “the text of the rule, including any alternatives, which the Commission proposes to promulgate, and” after “particularity”, and added par. (2).
 
@@ -272,7 +272,7 @@ Section 202(d) of Pub. L. 93–637, as amended by Pub. L. 94–299, §2, May 29,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44, 45, 45a, 46, 57b–3, 2309, 2823, 5711, 5721, 6102, 6502 of this title; title 12 sections 14, 247, 1827; title 49 section 32908.
+This section is referred to in sections 44, 45, 45a, 46, 57b–3, 2309, 2823, 5711, 5721, 6102, 6502, 7607, 7608, 7706 of this title; title 12 sections 14, 247, 1827; title 49 section 32908.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ Act June 25, 1948, as amended by act May 24, 1948, as amended by act May 24, 194
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

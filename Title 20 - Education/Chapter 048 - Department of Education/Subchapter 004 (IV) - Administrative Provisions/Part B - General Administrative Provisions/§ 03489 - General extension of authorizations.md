@@ -34,7 +34,7 @@ Subject to the limitations contained in subtitle A of this title, there are auth
 
 #### References in Text
 
-Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A of this title, referred to in text, is subtitle A (§§502 to 528) of title V, of Pub. L. 97–35, Aug. 13, 1981,95 Stat. 441. For complete classification of subtitle A to the Code, see Tables.
 
 Act of September 30, 1950 (Public Law 874, 81st Congress), referred to in par. (1), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
@@ -58,7 +58,7 @@ The Vocational Education Act of 1963, referred to in par. (10), was title I of P
 
 The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
 The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 

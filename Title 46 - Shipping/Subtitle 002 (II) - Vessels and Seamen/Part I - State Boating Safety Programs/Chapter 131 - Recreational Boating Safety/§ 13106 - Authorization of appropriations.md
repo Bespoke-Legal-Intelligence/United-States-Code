@@ -22,9 +22,9 @@
 
 &emsp;(8) providing State recreational vessel numbering and titling programs.
 
-(c) Of the amount transferred for each fiscal year to the Secretary of Transportation under paragraphs (2) and (3) of section 4(b) of the Act of August 9, 1950 (16 U.S.C. 777c(b)), $5,000,000 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which $2,000,000 shall be available to the Secretary only to ensure compliance with chapter 43 of this title. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this section. Amounts made available by this subsection shall remain available until expended. The Secretary shall publish annually in the Federal Register a detailed accounting of the projects, programs, and activities funded under this subsection.
+(c) Of the amount transferred to the Secretary of Transportation under paragraph (4) of section 4(b) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(b)), $2,083,333 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which $833,333 shall be available to the Secretary only to ensure compliance with chapter 43 of this title. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this section. Amounts made available by this subsection shall remain available until expended. The Secretary shall publish annually in the Federal Register a detailed accounting of the projects, programs, and activities funded under this subsection.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1012, July 18, 1984, 98 Stat. 1013; Pub. L. 99–626, §4(c), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 99–640, §7(b), (c), Nov. 10, 1986, 100 Stat. 3548; Pub. L. 100–448, §6(b)(1)(A), (2), (6), Sept. 28, 1988, 102 Stat. 1839, 1840; Pub. L. 105–178, title VII, §7405(b), (c)(1), June 9, 1998, 112 Stat. 487, 488.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 596; Pub. L. 98–369, div. A, title X, §1012, July 18, 1984, 98 Stat. 1013; Pub. L. 99–626, §4(c), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 99–640, §7(b), (c), Nov. 10, 1986, 100 Stat. 3548; Pub. L. 100–448, §6(b)(1)(A), (2), (6), Sept. 28, 1988, 102 Stat. 1839, 1840; Pub. L. 105–178, title VII, §7405(b), (c)(1), June 9, 1998, 112 Stat. 487, 488; Pub. L. 108–88, §9(c), Sept. 30, 2003, 117 Stat. 1126.)
 
 Historical and Revision Notes
 
@@ -39,6 +39,8 @@ Historical and Revision Notes
 Section 13106 provides the Secretary with liquidating contract authority in an amount equal to the revenues received from the motor boat fuel tax. One third shall be used for State boating safety programs, and 2/3 shall be used for State facilities improvement programs. And as provided in Section 13102(f), the approval of a State's program makes it a contractual obligation of the United States Government to provide the amounts available.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–88 amended first sentence generally. Prior to amendment, first sentenceread as follows: “Of the amount transferred for each fiscal year to the Secretary of Transportation under paragraphs (2) and (3) of section 4(b) of the Act of August 9, 1950 (16 U.S.C. 777c(b)), $5,000,000 is available to the Secretary for payment of expenses of the Coast Guard for personnel and activities directly related to coordinating and carrying out the national recreational boating safety program under this title, of which $2,000,000 shall be available to the Secretary only to ensure compliance with chapter 43 of this title.”
 
 1998—Pub. L. 105–178, §7405(c)(1), substituted “appropriations” for “contract spending” in section catchline.
 
@@ -71,10 +73,6 @@ Amendment by Pub. L. 100–448 effective Oct. 1, 1988, see section 6(e) of Pub. 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
-
-#### Transfer of Functions
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Boating Safety Fund
 

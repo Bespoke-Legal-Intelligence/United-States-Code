@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;An adversely affected worker covered by a certification issued under subpart A of this part may file an application with the Secretary for payment of a job search allowance.
+&emsp;An adversely affected worker covered by a certification issued under subpart A of thispart may file an application with the Secretary for payment of a job search allowance.
 
 #### (2) Approval of applications
 

@@ -82,7 +82,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;(i) Such information as the Secretary may require demonstrating that the organization has a fiscally sound operation.
 
-&emsp;&emsp;&emsp;(ii) A copy of the report, if any, filed with the Health Care Financing Administration containing the information required to be reported under section 1320a–3 of this title by disclosing entities.
+&emsp;&emsp;&emsp;(ii) A copy of the report, if any, filed with the Secretary containing the information required to be reported under section 1320a–3 of this title by disclosing entities.
 
 &emsp;&emsp;&emsp;(iii) A description of transactions, as specified by the Secretary, between the organization and a party in interest. Such transactions shall include—
 
@@ -98,7 +98,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;For the purposes of this paragraph, the term “party in interest” means—
 
-&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in the case of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
+&emsp;&emsp;&emsp;(i) any director, officer, partner, or employee responsible for management or administration of a Medicare+Choice organization, any person who is directly or indirectly the beneficial owner of more than 5 percent of the equity of the organization, any person who is the beneficial owner of a mortgage, deed of trust, note, or other interest secured by, and valuing more than 5 percent of the organization, and, in thecase of a Medicare+Choice organization organized as a nonprofit corporation, an incorporator or member of such corporation under applicable State corporation law;
 
 &emsp;&emsp;&emsp;(ii) any entity in which a person described in clause (i)—
 
@@ -186,7 +186,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(C) acts to expel or to refuse to re-enroll an individual in violation of the provisions of this part;
 
-&emsp;&emsp;(D) engages in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment (except aspermitted by this part) by eligible individuals with the organization whose medical condition or history indicates a need for substantial future medical services;
+&emsp;&emsp;(D) engages in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment (except as permitted by this part) by eligible individuals with the organization whose medical condition or history indicates a need for substantial future medical services;
 
 &emsp;&emsp;(E) misrepresents or falsifies information that is furnished—
 
@@ -242,15 +242,63 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (i) Medicare+Choice program compatibility with employer or union group health plans
 
-To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits tothe entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 223(a), Dec. 8, 2003, 117 Stat. 2205, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, this section is amended—</i>
+
+<i>(1) in subsection (d)(1), by striking “, costs, and computation of the adjusted community rate” and inserting “and costs, including allowable costs under section 1395w–27a(c) of this title”;</i>
+
+<i>(2) in subsection (e)(2):</i>
+
+(A) in subparagraph (A), by inserting “and a PDP sponsor under part D of this subchapter” after “organization”;
+
+(B) in subparagraph (B), by inserting “and each PDP sponsor with a contract under part D of this subchapter” after “contract under this part”, “or sponsor's” after “organization's”, and “, section 1395w–101(c) of this title,” after “information)”;
+
+(C) in subparagraph (C), by inserting “and ending with fiscal year 2005” after “beginning with fiscal year 2001”, “and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000,” after “$100,000,000,”, and “and section 1395w–112(b)(3)(D) of this title” after “under this paragraph”;
+
+(D) in subparagraph (D), by inserting “and section 1395w–101(c) of this title” after “section 1395w–21 of this title” in clause (i), by striking “and” at the end of clause (ii)(III), by striking “each succeeding fiscal year.” and inserting “each succeeding fiscal year before fiscal year 2006; and” in clause (ii)(IV), and by adding at the end of clause (ii) the following new subclause:
+
+&emsp;&emsp;&emsp;<i>“(V) the applicable portion (as defined in subparagraph (F)) of $200,000,000 in fiscal year 2006 and each succeeding fiscal year.”; and</i>
+
+(E) by adding at the end the following new subparagraph:
+
+#### <i>“(F) Applicable portion defined</i>
+
+&emsp;&emsp;<i>“In this paragraph, the term ‘applicable portion’ means, for a fiscal year—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) with respect to MA organizations, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D of this subchapter that are made to such organizations); or</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) with respect to PDP sponsors, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D of this subchapter.”; and</i>
+
+<i>(3) in subsection (i), by designating the matter following the heading as a paragraph (1) with the heading “Contracts with MA organizations” and appropriate indentation, and by adding at the end the following new paragraph:</i>
+
+#### <i>“(2) Employer sponsored MA plans</i>
+
+&emsp;<i>“To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.”</i>
+
+<i>Pub. L. 108–173, title II, §237(c), (e), Dec. 8, 2003, 117 Stat. 2213, provided that, applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, subsection (e) of this section is amended by adding at the end the following new paragraph:</i>
+
+#### <i>“(3) Agreements with federally qualified health centers</i>
+
+#### <i>“(A) Payment levels and amounts</i>
+
+&emsp;&emsp;<i>“A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the serv</i><i>ices had been furnished by a entity providing similar services that was not a federally qualified health center.</i>
+
+#### <i>“(B) Cost-sharing</i>
+
+&emsp;&emsp;<i>“Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395l</i>(a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title.”
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2003—Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted “Secretary” for “Health Care Financing Administration”.
 
 2000—Subsec. (g)(3)(D). Pub. L. 106–554, §1(a)(6) \[title VI, §623(a)\], added subpar. (D).
 
@@ -272,6 +320,16 @@ Subsec. (e)(2)(D)(ii)(IV). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3
 
 Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], added subpar. (E).
 
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 222(j), (k), (<i>l</i>)(3)(C) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+Amendment by section 237(c) of Pub. L. 108–173 applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, see section 237(e) of Pub. L. 108–173, set out as a note under section 1320a–7b of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §617(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–562, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to years beginning with 2001.”
@@ -288,11 +346,23 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 11
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(b)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: “Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to affect the authority of the Secretary of Health and Human Services to provide for exceptions in addition to the exception provided in such amendment, including exceptions provided under Operational Policy Letter \#103 (OPL99.103).”
 
+#### Study of Multi-Year Contracts
+
+Pub. L. 108–173, title I, §107(d), Dec. 8, 2003, 117 Stat. 2171, provided that:
+
+“(1)
+
+In general.—The Secretary \[of Health and Human Services\] shall provide for a study on the feasibility and advisability of providing for contracting with PDP sponsors and MA organizations under parts C and D of title XVIII \[this part and part D of this subchapter\] on a multi-year basis.
+
+“(2)
+
+Report.—Not later than January 1, 2007, the Secretary shall submit to Congress a report on the study under paragraph (1). The report shall include such recommendations as the Secretary deems appropriate.”
+
 #### Immediate Effective Date for Certain Requirements for Demonstrations
 
 Section 4002(g) of Pub. L. 105–33 provided that: “Section 1857(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act \[section 1395w–21 of this title\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–23, 1395w–25, 1395w–28, 1395mm, 1395eee, 1396u–4 of this title.
+This section is referred to in sections 1395<i>l</i>, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–25, 1395w–27a, 1395w–28, 1395w–29, 1395w–102, 1395w–112, 1395w–115,1395w–132, 1395w–151, 1395mm, 1395eee, 1396u–4 of this title.
 

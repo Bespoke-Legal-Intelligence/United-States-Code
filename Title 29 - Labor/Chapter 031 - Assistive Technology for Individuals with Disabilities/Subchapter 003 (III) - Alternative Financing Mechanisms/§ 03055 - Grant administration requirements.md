@@ -1,6 +1,6 @@
 ### §3055. Grant administration requirements
 
-A State that receives a grant under this subchapter and any community-based organization that enters into a contract with the State under this subchapter, shall submit to the Secretary, pursuant to a schedule established by the Secretary (or if the Secretary does not establish a schedule, within 12 months after the date that the State receives the grant), each of the following policies or procedures for administration of the alternative financing program:
+A State that receives a grant under this subchapter and any community-based organizationthat enters into a contract with the State under this subchapter, shall submit to the Secretary, pursuant to a schedule established by the Secretary (or if the Secretary does not establish a schedule, within 12 months after the date that the State receives the grant), each of the following policies or procedures for administration of the alternative financing program:
 
 &emsp;(1) A procedure to review and process in a timely manner requests for financial assistance for immediate and potential technology needs, including consideration of methods to reduce paperwork and duplication of effort, particularly relating to need, eligibility, and determination of the specific assistive technology device or service to be financed through the program.
 

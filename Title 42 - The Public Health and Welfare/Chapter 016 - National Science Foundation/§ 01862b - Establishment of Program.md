@@ -50,31 +50,7 @@ A prior section 1862b, Pub. L. 100–418, title VI, §6403, Aug. 23, 1988, 102 S
 
 #### Major Research Instrumentation
 
-Pub. L. 107–368, §13, Dec. 19, 2002, 116 Stat. 3055, provided that:
-
-“(a)
-
-Review and Assessment.—The Director shall conduct a review and assessment of the major research instrumentation program and, not later than 1 year after the date of enactment of this Act \[Dec. 19, 2002\], submit a report of findings and recommendations to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate. The report shall include—
-
-&emsp;“(1) estimates of the needs, by major field of science and engineering and by types of institutions of higher education, for the types of research instrumentation that are eligible for acquisition under the guidelines of the major research instrumentation program;
-
-&emsp;“(2) a description of the distribution of awards and funding levels by year, by major field of science and engineering, and by type of institution of higher education for the program, since the inception of the major research instrumentation program; and
-
-&emsp;“(3) an analysis of the impact of the major research instrumentation program on the research instrumentation needs that were documented in the Foundation's 1994 survey of academic research instrumentation needs.
-
-“(b)
-
-National Academy of Sciences Assessment on Interdisciplinary Research and Advanced Instrumentation Centers.—
-
-&emsp;“(1)
-
-Assessment.—Not later than 3 months after the date of enactment of this Act \[Dec. 19, 2002\], the Director shall enter into an arrangement with the National Academy of Sciences to assess the need for an interagency program to establish and support fully equipped, state-of-the-art university-based centers for interdisciplinary research and advanced instrumentation development.
-
-&emsp;“(2)
-
-Transmittal to congress.—Not later than 15 months after the date of the enactment of this Act, the Director shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate the assessment conducted by the National Academy of Sciences together with the Foundation's reaction to the assessment authorized under paragraph (1).”
-
-\[For definitions of terms used in section 13 of Pub. L. 107–368, set out above, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.\]
+Pub. L. 107–368, §13, Dec. 19, 2002, 116 Stat. 3055, required Director of the National Science Foundation to conduct a review and assessment of the major research instrumentation program and, not later than 1 year after Dec. 19, 2002, submit a report, including specified estimates, descriptions and analyses, of findings and recommendations to certain Congressional committees, and also required the Director to enter into an arrangement with the National Academy of Sciences to assess the need for an interagency program to establish and support fully equipped, state-of-the-art university-based centers for interdisciplinary research and advanced instrumentation development, and not later than 15 months after Dec. 19, 2002, to transmit to the committees the assessment conducted by the National Academy of Sciences together with the Foundation's reaction to the assessment.
 
 #### Section Referred to in Other Sections
 

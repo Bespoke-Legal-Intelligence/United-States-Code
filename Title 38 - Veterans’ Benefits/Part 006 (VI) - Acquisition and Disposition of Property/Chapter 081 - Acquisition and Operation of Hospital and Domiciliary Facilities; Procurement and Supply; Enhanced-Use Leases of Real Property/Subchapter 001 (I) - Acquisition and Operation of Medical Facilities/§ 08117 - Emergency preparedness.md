@@ -24,7 +24,7 @@ Security at Department Medical and Research Facilities.—(1) The Secretary shal
 
 (c)
 
-Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a variety of purposes, including response to a chemical or biological attack or other terrorist attack.
+Tracking of Pharmaceuticals and Medical Supplies and Equipment.—The Secretary shall develop and maintain a centralized system for tracking the current location and availability of pharmaceuticals, medical supplies, and medical equipment throughout the Department health care system in order to permit the ready identification and utilization of such pharmaceuticals, supplies, and equipment for a varietyof purposes, including response to a chemical or biological attack or other terrorist attack.
 
 (d)
 
@@ -32,7 +32,7 @@ Training.—The Secretary shall ensure that the Department medical centers, in c
 
 (e)
 
-Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partnersof such centers, in the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)).
+Participation in National Disaster Medical System.—(1) The Secretary shall establish and maintain a training program to facilitate the participation of the staff of Department medical centers, and of the community partners of such centers, in the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)).
 
 (2) The Secretary shall establish and maintain the training program under paragraph (1) in accordance with the recommendations of the working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies established under section 319F(a) of the Public Health Service Act (42 U.S.C. 247d–6(a)).
 

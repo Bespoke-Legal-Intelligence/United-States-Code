@@ -26,7 +26,7 @@
 
 &emsp;(B) $57,500, in the case of any other contributions, of which not more than $37,500 may be attributable to contributions to political committees which are not political committees of national political parties.
 
-(4) The limitations on contributions contained in paragraphs (1) and (2) do not apply to transfers between and among political committees which are national, State, district, or local committees (including any subordinate committee thereof) of the same political party. For purposes of paragraph (2), the term “multicandidate political committee” means a political committee which has been registered under section 433 of this title for a period of not less than 6 months, which has received contributions from more than 50 persons, and, except for any State political party organization, has made contributions to 5 or more candidates for Federal office.
+(4) The limitations on contributions contained in paragraphs (1) and (2) do not apply to transfers between and among political committees which are national, State, district, or local committees (including any subordinate committee thereof) of the same political party. For purposes of paragraph (2), the term “multicandidate political committee” means a political committee which has been registered under section 433 of this title for a period of not less than 6months, which has received contributions from more than 50 persons, and, except for any State political party organization, has made contributions to 5 or more candidates for Federal office.
 
 (5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothing in this sentence shall limit transfers between political committees of funds raised through joint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposes of the limitations provided by paragraph (1) and paragraph (2).
 
@@ -52,7 +52,7 @@
 
 &emsp;(D) contributions made to or for the benefit of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
 
-(8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions fromsuch person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
+(8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
 
 #### (b) Dollar limits on expenditures by candidates for office of President of United States
 
@@ -120,7 +120,7 @@ Independent versus coordinated expenditures by party.—
 
 In general.—On or after the date on which a political party nominates a candidate, no committee of the political party may make—
 
-&emsp;&emsp;(i) any coordinated expenditure under this subsection with respect to the candidateduring the election cycle at any time after it makes any independent expenditure (as defined in section 431(17) of this title) with respect to the candidate during the election cycle; or
+&emsp;&emsp;(i) any coordinated expenditure under this subsection with respect to the candidate during the election cycle at any time after it makes any independent expenditure (as defined in section 431(17) of this title) with respect to the candidate during the election cycle; or
 
 &emsp;&emsp;(ii) any independent expenditure (as defined in section 431(17) of this title) with respect to the candidate during the election cycle at any time after it makes any coordinated expenditure under this subsection with respect to the candidate during the election cycle.
 
@@ -130,7 +130,7 @@ Application.—For purposes of this paragraph, all political committees establis
 
 &emsp;(C)
 
-Transfers.—A committee of a political party that makes coordinated expenditures under this subsection with respect to a candidate shall not, during an election cycle, transfer any funds to, assign authority to make coordinated expenditures under this subsection to, or receive a transfer of funds from, a committee of the political party that has made or intends to make an independent expenditure with respect to the candidate.
+Transfers.—A committee of a political party that makes coordinated expendituresunder this subsection with respect to a candidate shall not, during an election cycle, transfer any funds to, assign authority to make coordinated expenditures under this subsection to, or receive a transfer of funds from, a committee of the political party that has made or intends to make an independent expenditure with respect to the candidate.
 
 #### (e) Certification and publication of estimated voting age population
 
@@ -260,13 +260,13 @@ Another prior section 315 of Pub. L. 92–225 was renumbered section 310, and is
 
 #### Amendments
 
-2002—Subsec. (a)(1). Pub. L. 107–155, §§304(a)(1), 319(b), substituted “Except as provided in subsection (i) of this section and section 441a–1 of this title, no person” for “No person” in introductory provisions.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–155, §§304(a)(1), 319(b), substituted “Except as provided in subsection (i) of this section and section 441a–1 of this title, no person” for “No person” in introductory provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–155, §307(a)(1), substituted “$2,000” for “$1,000”.
 
 Subsec. (a)(1)(B). Pub. L. 107–155, §§102(1), 307(a)(2), substituted “$25,000;” for “$20,000; or”.
 
-Subsec. (a)(1)(C). Pub. L. 107–155, §102(2), inserted “(other than a committee described in subparagraph (D))” after “committee” and substituted “; or” for period at end.
+Subsec. (a)(1)(C). Pub. L. 107–155, §102(2), inserted “(other than a committee described in subparagraph (D))” after “committee” and substituted “; or” for period at end.
 
 Subsec. (a)(1)(D). Pub. L. 107–155, §102(3), added subpar. (D).
 
@@ -292,7 +292,7 @@ Subsec. (i)(1)(E). Pub. L. 107–155, §316, added subpar. (E).
 
 Subsec. (j). Pub. L. 107–155, §304(a)(2), added subsec. (j).
 
-1986—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2002 Amendment
 

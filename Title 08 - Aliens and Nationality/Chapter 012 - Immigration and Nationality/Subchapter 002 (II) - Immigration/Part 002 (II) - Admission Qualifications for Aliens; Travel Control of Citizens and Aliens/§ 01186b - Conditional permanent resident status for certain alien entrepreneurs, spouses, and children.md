@@ -4,7 +4,7 @@
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2)of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
@@ -118,7 +118,7 @@
 
 #### (3) Personal interview
 
-&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+&emsp;The interview under subsection (c)(1)(B) of this section shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) of this section and at a local office of the Service, designated by the Attorney General, which is convenient to theparties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
 
 #### (e) Treatment of period for purposes of naturalization
 
@@ -220,7 +220,7 @@ Reopening petitions previously denied.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of a petition described in paragraph (1)(C) that was denied under section 216A(c)(3)(C) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)(C)) before the date of the enactment of this Act, upon a motion to reopen such petition filed by the eligible alien not later than 60 days after such date, the Attorney General shall make determinations on such petition pursuant to subsection (c).
+In general.—In the case of a petition described in paragraph (1)(C) that was denied under section 216A(c)(3)(C) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(3)(C)) before thedate of the enactment of this Act, upon a motion to reopen such petition filed by the eligible alien not later than 60 days after such date, the Attorney General shall make determinations on such petition pursuant to subsection (c).
 
 &emsp;&emsp;“(B)
 
@@ -250,7 +250,7 @@ In general.—With respect to each eligible alien described in subsection (b)(1)
 
 &emsp;&emsp;&emsp;“(ii) subject to subparagraphs (B) and (C), such enterprise created full-time jobs for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the eligible alien and the alien's spouse, sons, or daughters), and those jobs exist or existed on any of the dates described in subparagraph (D); and
 
-&emsp;&emsp;&emsp;“(iii) on any of the dates described in subparagraph (D), the alien is in substantial compliancewith the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)(B)).
+&emsp;&emsp;&emsp;“(iii) on any of the dates described in subparagraph (D), the alien is in substantial compliance with the capital investment requirement described in section 216A(d)(1)(B) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)(B)).
 
 &emsp;&emsp;“(B)
 
@@ -324,7 +324,7 @@ Termination of permanent resident status for failure to file petition.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—In the case of an alien with permanent resident status on a conditional basisunder paragraph (1)(F)(ii), if no petition is filed with respect to the alien in accordance with subparagraph (B), the Attorney General shall terminate the permanent resident status of the alien (and the alien's spouse and children if it was obtained on a conditional basis under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+In general.—In the case of an alien with permanent resident status on a conditional basis under paragraph (1)(F)(ii), if no petition is filed with respect to the alien in accordance with subparagraph (B), the Attorney General shall terminate the permanent resident status of the alien (and the alien's spouse and children if it was obtained on a conditional basis under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -360,7 +360,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination under subparagraph (E), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide thealien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the continuation, under paragraph (1)(F)(ii), of the conditional basis of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -454,7 +454,7 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 #### “SEC. 11033. REGULATIONS.
 
-“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub.L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
+“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
 
 #### “SEC. 11034. DEFINITIONS.
 

@@ -42,7 +42,7 @@ The Secretary, and each State educational agency receiving a grant under this su
 
 #### (d) Diversity of projects
 
-The Secretary and each State educational agency receiving a grant under this subpart,shall award grants and subgrants under this subpart in a manner that, to the extent possible, ensures that such grants and subgrants—
+The Secretary and each State educational agency receiving a grant under this subpart, shall award grants and subgrants under this subpart in a manner that, to the extent possible, ensures that such grants and subgrants—
 
 &emsp;(1) are distributed throughout different areas of the Nation and each State, including urban and rural areas; and
 
@@ -90,7 +90,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (A) State educational agency administrative expenses
 
-&emsp;&emsp;Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 5 percent of such grant funds for administrative expenses associated with the charter school grant program assisted under this subpart.
+&emsp;&emsp;Each State educational agency receiving a grant pursuant to this subpart may reservenot more than 5 percent of such grant funds for administrative expenses associated with the charter school grant program assisted under this subpart.
 
 #### (B) Local administrative expenses
 
@@ -118,7 +118,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 &emsp;&emsp;&emsp;(i) assisting other individuals with the planning and start-up of one or more new public schools, including charter schools, that are independent of the assisting charter school and the assisting charter school's developers, and that agree to be held to at least as high a level of accountability as the assisting charter school;
 
-&emsp;&emsp;&emsp;(ii) developing partnerships with other public schools, including charter schools, designed to improve student academicachievement in each of the schools participating in the partnership;
+&emsp;&emsp;&emsp;(ii) developing partnerships with other public schools, including charter schools, designed to improve student academic achievement in each of the schools participating in the partnership;
 
 &emsp;&emsp;&emsp;(iii) developing curriculum materials, assessments, and other materials that promote increased student achievement and are based on successful practices within the assisting charter school; and
 

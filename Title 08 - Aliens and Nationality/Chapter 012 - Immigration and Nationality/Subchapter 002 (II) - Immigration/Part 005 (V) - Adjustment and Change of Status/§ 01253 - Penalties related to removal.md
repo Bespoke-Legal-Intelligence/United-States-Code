@@ -22,7 +22,7 @@
 
 #### (3) Suspension
 
-&emsp;The court may for good cause suspend the sentence of an alien under this subsection and order the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
+&emsp;The court may for good cause suspend the sentence of an alien under this subsection andorder the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
 
 &emsp;&emsp;(A) the age, health, and period of detention of the alien;
 
@@ -126,7 +126,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Sense of Congress Respecting Treatment of Cuban Political Prisoners
 

@@ -10,7 +10,7 @@ For purposes of this part—
 
 &emsp;(4) The term “lands or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources including but not limited to minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish.
 
-&emsp;(5) The term “lawsuit” means the action in the United States District Court for theSouthern District of Florida, entitled Miccosukee Tribe of Indians of Florida against State of Florida, et al., Case No. 79–253–CIV–JWK.
+&emsp;(5) The term “lawsuit” means the action in the United States District Court for the Southern District of Florida, entitled Miccosukee Tribe of Indians of Florida against State of Florida, et al., Case No. 79–253–CIV–JWK.
 
 &emsp;(6) The term “Lease Agreement” means that perpetual lease granted by the State of Florida to the Miccosukee Tribe, involving a specifically described area in South Florida, title to which is held by the State of Florida and in which the Miccosukee Tribe is granted certain express rights and interests.
 

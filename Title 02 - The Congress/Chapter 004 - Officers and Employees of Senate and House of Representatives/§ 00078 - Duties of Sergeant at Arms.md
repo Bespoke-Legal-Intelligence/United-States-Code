@@ -6,7 +6,7 @@ It shall be the duty of the Sergeant at Arms of the House of Representatives to 
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
+<b>1996</b>—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
 
 #### Law Enforcement Authority of Sergeant at Arms
 

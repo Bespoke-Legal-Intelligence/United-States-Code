@@ -40,7 +40,7 @@
 
 #### (3) Limitation
 
-&emsp;In order to be eligible to receive financial assistance under this subsection, not laterthan 180 days after December 23, 2000, each of the Cities of St. Paul and St. George shall enter into a written agreement with the State of Alaska under which such City shall identify by its legal boundaries the tract or tracts of land that such City has selected as the site for its solid waste management facility and any supporting infrastructure.
+&emsp;In order to be eligible to receive financial assistance under this subsection, not later than 180 days after December 23, 2000, each of the Cities of St. Paul and St. George shall enter into a written agreement with the State of Alaska under which such City shall identify by its legal boundaries the tract or tracts of land that such City has selected as the site for its solid waste management facility and any supporting infrastructure.
 
 #### (c) Authorization of appropriations
 
@@ -96,7 +96,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 2000—Pub. L. 106–562 amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 
-Pub. L. 106–554 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) containing provisions establishing the Pribilof Islands Trust for the benefit of natives of the Pribilof Islands and relating to the Trust's administration, funding, distributions, trust instrument, taxation, interest and proceeds, appropriations, and annual report to Congress.
+Pub. L. 106–554 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) containing provisions establishing the Pribilof IslandsTrust for the benefit of natives of the Pribilof Islands and relating to the Trust's administration, funding, distributions, trust instrument, taxation, interest and proceeds, appropriations, and annual report to Congress.
 
 1990—Subsec. (e)(3). Pub. L. 101–512 added par. (3).
 

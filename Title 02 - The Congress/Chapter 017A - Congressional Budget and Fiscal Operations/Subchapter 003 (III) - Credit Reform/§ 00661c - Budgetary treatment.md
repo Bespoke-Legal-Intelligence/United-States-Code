@@ -2,7 +2,7 @@
 
 #### (a) President's budget
 
-Beginning with fiscal year 1992, the President's budget shall reflect the costs of direct loan and loan guarantee programs. The budget shall also include the planned level of new direct loan obligations or loan guarantee commitments associated with each appropriations request.
+Beginning with fiscal year 1992, the President's budget shall reflect the costs of directloan and loan guarantee programs. The budget shall also include the planned level of new direct loan obligations or loan guarantee commitments associated with each appropriations request.
 
 #### (b) Appropriations required
 
@@ -50,7 +50,7 @@ A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, w
 
 #### Amendments
 
-1997—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
+<b>1997</b>—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
 
 Subsec. (b)(2). Pub. L. 105–33, §10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
 

@@ -104,7 +104,7 @@ In general.—The term “local market”, in the case of both commercial and no
 
 &emsp;&emsp;&emsp;(i) in the case of a commercial television broadcast station, all commercial television broadcast stations licensed to a community within the same designated market area are within the same local market; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a noncommercial educational television broadcast station, the market includes any station that is licensed to a community within the same designated market area as the noncommercial educational television broadcast station.
+&emsp;&emsp;&emsp;(ii) in the case of a noncommercial educational television broadcast station, themarket includes any station that is licensed to a community within the same designated market area as the noncommercial educational television broadcast station.
 
 &emsp;&emsp;(B)
 

@@ -4,7 +4,7 @@
 
 General Authority.—The Secretary of Transportation may make grants and loans to—
 
-&emsp;(1) State and local governmental authorities to help them provide mass transportation service planned, designed, and carried out tomeet the special needs of elderly individuals and individuals with disabilities; and
+&emsp;(1) State and local governmental authorities to help them provide mass transportation service planned, designed, and carried out to meet the special needs of elderly individuals and individuals with disabilities; and
 
 &emsp;(2) the chief executive officer of each State for allocation to—
 
@@ -18,7 +18,7 @@ General Authority.—The Secretary of Transportation may make grants and loans t
 
 (b)
 
-Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to the State under section 5311(c) or 5336(a)(1) of this title.
+Apportioning and Transferring Amounts.—The Secretary shall apportion amounts made available under section 5338(a) of this title under a formula the Secretary administers that considers the number of elderly individuals and individuals with disabilities in each State. Any State's apportionment remaining available for obligation at the beginning of the 90-day period before the end of the period of availability of the apportionment is available to the chief executive officer of the State for transfer to supplement amounts apportioned to theState under section 5311(c) or 5336(a)(1) of this title.
 
 (c)
 
@@ -148,7 +148,7 @@ Section 165(b) of the Federal-Aid Highway Act of 1973, referred to in subsec. (f
 
 #### Rural Transportation Accessibility Incentive Program
 
-Pub. L. 105–178, title III, §3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, §9009(x), July 22, 1998, 112 Stat. 862; Pub. L. 106–346, §101(a) \[title III, §336\], Oct. 23, 2000, 114 Stat. 1356, 1356A–31, provided that:
+Pub. L. 105–178, title III, §3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, §9009(x), July 22, 1998, 112 Stat. 862; Pub. L. 106–346, §101(a) \[title III, §336\], Oct. 23, 2000, 114 Stat. 1356, 1356A–31; Pub. L. 108–88, §8(m), Sept. 30, 2003, 117 Stat. 1125, provided that:
 
 “(a)
 
@@ -220,11 +220,13 @@ Intercity, fixed-route over-the-road bus service.—Of amounts made available by
 
 &emsp;&emsp;“(E) $5,250,000 for fiscal year 2003.
 
+&emsp;&emsp;“(F) $2,187,500 for the period of October 1, 2003, through February 29, 2004.
+
 > &emsp;Such sums shall remain available until expended.
 
 &emsp;“(2)
 
-Other over-the-road bus service.—Of amounts made available by or appropriated under section 5338(a)(2) of title 49, United States Code (before allocation under section 5338(a)(2)(C) of that title), $6,800,000 shall be available for fiscal years 2000 through 2003 for operators of other over-the-road bus service to finance the incremental capital and training costs of the Department of Transportation's final rule regarding accessibility of over-the-road buses. Such sums shall remain available until expended.”
+Other over-the-road bus service.—Of amounts made available by or appropriated under section 5338(a)(2) of title 49, United States Code (before allocation under section 5338(a)(2)(C) of that title), $6,800,000 shall be available for fiscal years 2000 through 2003 (and $708,333 shall be available for the period of October 1, 2003, through February 29, 2004) for operators of other over-the-road bus service to finance the incremental capital and training costs of the Department of Transportation's final rule regarding accessibility of over-the-road buses. Such sums shall remain available until expended.”
 
 #### Section Referred to in Other Sections
 

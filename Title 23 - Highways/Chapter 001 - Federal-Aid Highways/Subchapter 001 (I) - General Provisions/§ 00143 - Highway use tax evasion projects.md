@@ -98,7 +98,7 @@ Subsec. (c)(3). Pub. L. 105–178, §1114(c)(2), (3), as added by Pub. L. 105–
 
 Subsec. (b). Pub. L. 93–87, §122(a), substituted “projects” for “demonstration projects” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system”.
 
-Subsec. (c). Pub. L. 93–87, §122(a), substituted “project” for “demonstration project” and “a Federal-aidsystem (other than the Interstate System)” for “the Federal-aid primary system”.
+Subsec. (c). Pub. L. 93–87, §122(a), substituted “project” for “demonstration project” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system”.
 
 Subsec. (d). Pub. L. 93–87, §122(a), substituted “highways on the Federal-aid system on which such development highway is located” for “Federal-aid primary highways”.
 

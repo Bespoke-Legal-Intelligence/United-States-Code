@@ -18,7 +18,7 @@
 
 #### (b) Fishing capacity reduction program
 
-(1) The Secretary, at the request of the appropriate Council for fisheries under the authorityof such Council, or the Governor of a State for fisheries under State authority, may conduct a fishing capacity reduction program (referred to in this section as the “program”) in a fishery if the Secretary determines that the program—
+(1) The Secretary, at the request of the appropriate Council for fisheries under the authority of such Council, or the Governor of a State for fisheries under State authority, may conduct a fishing capacity reduction program (referred to in this section as the “program”) in a fishery if the Secretary determines that the program—
 
 &emsp;(A) is necessary to prevent or end overfishing, rebuild stocks of fish, or achieve measurable and significant improvements in the conservation and management of the fishery;
 

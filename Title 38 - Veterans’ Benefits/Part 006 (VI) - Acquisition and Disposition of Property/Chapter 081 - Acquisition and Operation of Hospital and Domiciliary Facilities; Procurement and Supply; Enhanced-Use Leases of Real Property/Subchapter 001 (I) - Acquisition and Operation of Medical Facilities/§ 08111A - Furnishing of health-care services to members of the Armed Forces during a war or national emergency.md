@@ -14,7 +14,7 @@
 
 (4) For the purposes of this section, the terms “hospital care”, “nursing home care”, and “medical services” have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term “medical services” includes services under sections 1782 and 1783 of this title.
 
-(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
+(b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities forthe provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
 
 (2) Hospital care and medical services referred to in paragraph (1) of this subsection are—
 
@@ -86,7 +86,7 @@ Subsecs. (e), (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System ofthe Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Findings
 

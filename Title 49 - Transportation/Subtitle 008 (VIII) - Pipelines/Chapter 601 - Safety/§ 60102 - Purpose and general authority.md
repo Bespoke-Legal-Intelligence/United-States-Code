@@ -14,7 +14,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) apply to owners and operators of pipeline facilities;
 
-&emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures, testing, construction, extension, operation, replacement, and maintenance of pipeline facilities; and
+&emsp;&emsp;(B) may apply to the design, installation, inspection, emergency plans and procedures,testing, construction, extension, operation, replacement, and maintenance of pipeline facilities; and
 
 &emsp;&emsp;(C) shall include a requirement that all individuals who operate and maintain pipeline facilities shall be qualified to operate and maintain the pipeline facilities.
 
@@ -412,7 +412,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(b) (last sentence); added O
 
 In this section, the word “Federal” is omitted as surplus.
 
-In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators ofgas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
+In subsection (a)(1), before clause (A), the word “prescribe” is substituted for “by regulation, establish” for consistency in the revised title and with other titles of the United States Code. Standards are made applicable to transporters of gas and to owners and operators of gas pipeline facilities because of 49 App.:1677(a)(1), restated in section 60118 of the revised title.
 
 In subsection (b), before clause (1), the words “Except as provided in section 60103 of this title” are added for clarity. In clause (3), the word “proposed” is omitted as surplus.
 

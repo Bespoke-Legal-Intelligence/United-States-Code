@@ -11,3 +11,4 @@
 - [Part D - Trauma Centers Operating in Areas Severely Affected by Drug-Related Violence](Part%20D%20-%20Trauma%20Centers%20Operating%20in%20Areas%20Severely%20Affected%20by%20Drug-Related%20Violence/README.md)
 - [Part E - Miscellaneous Programs](Part%20E%20-%20Miscellaneous%20Programs/README.md)
 - [Part F - Interagency Program for Trauma Research](Part%20F%20-%20Interagency%20Program%20for%20Trauma%20Research/README.md)
+- [Part G - Poison Control](Part%20G%20-%20Poison%20Control/README.md)

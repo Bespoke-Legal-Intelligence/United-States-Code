@@ -8,7 +8,7 @@ Notification of Receipt and Related Matters.—The clerk or the person designate
 
 &emsp;(2) within 15 days after the receipt or at such other time as may be determined jointly by the Attorney General and the Director of the Administrative Office of the United States Courts.
 
-> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notificationnot later than the next day that is not a Saturday, Sunday, or legal public holiday.
+> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notification not later than the next day that is not a Saturday, Sunday, or legal public holiday.
 
 (b)
 

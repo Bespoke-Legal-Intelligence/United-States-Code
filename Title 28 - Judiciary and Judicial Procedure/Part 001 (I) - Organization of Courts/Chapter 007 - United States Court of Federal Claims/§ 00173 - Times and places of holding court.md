@@ -38,7 +38,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1955 Amendment
 

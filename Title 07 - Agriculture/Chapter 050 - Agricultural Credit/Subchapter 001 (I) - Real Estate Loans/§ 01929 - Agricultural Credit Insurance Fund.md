@@ -18,7 +18,7 @@ Notes and security acquired by the Secretary in connection with loans insured un
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
-The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centumof the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
+The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
 
 #### (f) Utilization of fund
 
@@ -30,7 +30,7 @@ The Secretary may utilize the fund—
 
 &emsp;(3) to purchase notes in accordance with agreements previously entered into;
 
-&emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
+&emsp;(4) to pay for contract services, taxes, insurance, prior liens, expenses necessary to makefiscal adjustments in connection with the application and transmittal of collections and other expenses and advances authorized in connection with insured loans, including the difference between interest payable by borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance;
 
 &emsp;(5) to pay the Secretary's costs of administration necessary to insure, make grants, service, and otherwise carry out the programs under this chapter not specifically covered by the Rural Development Insurance Fund of section 1929a of this title, including costs of the Secretary incidental to guaranteeing loans under this chapter, either directly from the Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
@@ -78,7 +78,7 @@ Amount of guarantee of loans for farm operations on tribal lands.—In the case 
 
 #### (i) Coordination of assistance for qualified beginning farmers and ranchers
 
-(1) Not later than 60 days after any State expresses to the Secretary, in writing, a desire to coordinate the provision of financial assistance to qualified beginning farmers and ranchers in the State, the Secretary and the State shall conclude a joint memorandum of understanding that shall govern the coordination of the provision of the financial assistance by the State and the Secretary.
+(1) Not later than 60 days after any State expresses to the Secretary, in writing, a desire to coordinate the provision of financial assistanceto qualified beginning farmers and ranchers in the State, the Secretary and the State shall conclude a joint memorandum of understanding that shall govern the coordination of the provision of the financial assistance by the State and the Secretary.
 
 (2) The memorandum of understanding shall provide that if a State beginning farmer program makes a commitment to provide a qualified beginning farmer or rancher with financing to establish or maintain a viable farming or ranching operation, the Secretary shall, subject to applicable law, normal loan approval criteria, and the availability of funds provide the farmer or rancher with a down payment loan under section 1935 of this title or a guarantee of the financing provided by the State program, or both.
 
@@ -152,7 +152,7 @@ Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted “$50,000,000” for “$25,000,000”.
 
-1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
+1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loansto be sold and insured and undisposed of at any one time.
 
 #### Effective Date of 1996 Amendment
 

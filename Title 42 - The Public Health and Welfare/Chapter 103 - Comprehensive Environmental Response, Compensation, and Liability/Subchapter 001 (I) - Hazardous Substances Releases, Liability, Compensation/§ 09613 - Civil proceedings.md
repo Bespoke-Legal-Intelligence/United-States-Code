@@ -2,7 +2,7 @@
 
 #### (a) Review of regulations in Circuit Court of Appeals of the United States for the District of Columbia
 
-Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceedingfor enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction; venue
 
@@ -32,7 +32,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (3) Persons not party to settlement
 
-&emsp;(A) If the United States or a State has obtained less than complete relief from a person who has resolved its liability to the United States or the State in an administrative or judicially approved settlement, the United States or the State may bring an action against any person who has not so resolved its liability.
+&emsp;(A) If the United States or a State has obtained less than complete relief from a personwho has resolved its liability to the United States or the State in an administrative or judicially approved settlement, the United States or the State may bring an action against any person who has not so resolved its liability.
 
 &emsp;(B) A person who has resolved its liability to the United States or a State for some or all of a response action or for some or all of the costs of such action in an administrative or judicially approved settlement may seek contribution from any person who is not party to a settlement referred to in paragraph (2).
 
@@ -114,7 +114,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (3) Remedy
 
-&emsp;If the court finds that the selection of the response action was arbitrary and capricious or otherwise not in accordance with law, the court shall award (A) only the response costsor damages that are not inconsistent with the national contingency plan, and (B) such other relief as is consistent with the National Contingency Plan.
+&emsp;If the court finds that the selection of the response action was arbitrary and capricious or otherwise not in accordance with law, the court shall award (A) only the response costs or damages that are not inconsistent with the national contingency plan, and (B) such other relief as is consistent with the National Contingency Plan.
 
 #### (4) Procedural errors
 

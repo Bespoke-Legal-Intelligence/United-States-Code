@@ -16,7 +16,7 @@ If the Under Secretary determines that a person has violated section 2463 of thi
 
 #### References in Text
 
-The Antarctic Marine Living Resources Convention Act, referred to in subsec. (a), probably means the Antarctic Marine Living Resources Convention Act of 1984, title III of Pub. L. 98–623, Nov. 8, 1984, 98 Stat. 3398, which is classified generally to chapter 44A (§2431 et seq.) of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 2431 of this title and Tables.
+The Antarctic Marine Living Resources Convention Act, referred to in subsec. (a), probably means the Antarctic Marine Living Resources Convention Act of 1984, title III of Pub. L. 98–623, Nov. 8, 1984, 98 Stat. 3398, which is classified generally to chapter 44A (§2431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2431 of this title and Tables.
 
 The mining laws of the United States and the mineral leasing laws, referred to in subsec. (b), are classified generally to Title 30, Mineral Lands and Mining.
 

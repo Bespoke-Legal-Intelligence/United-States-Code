@@ -26,7 +26,7 @@ Section 1 of Pub. L. 101–214 provided that: “This Act \[enacting this sectio
 
 #### Congressional Findings Relating to Park Expansion
 
-Section 1 of Pub. L. 102–541 provided that: “Congress finds that the land area near Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park, Virginia, located south and west of the intersection of the Orange Plank Road and Brock Road in Spotsylvania County was strategically significant ground associated with the battle of the Civil War known as the Battle of the Wilderness, and that thetract of land adjacent to such area known as ‘Longstreet's Flank Attack’ was also strategically significant to that battle.”
+Section 1 of Pub. L. 102–541 provided that: “Congress finds that the land area near Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park, Virginia, located south and west of the intersection of the Orange Plank Road and Brock Road in Spotsylvania County was strategically significant ground associated with the battle of the Civil War known as the Battle of the Wilderness, and that the tract of land adjacent to such area known as ‘Longstreet's Flank Attack’ was also strategically significant to that battle.”
 
 #### Acquisition of Certain Lands by Donation Only
 

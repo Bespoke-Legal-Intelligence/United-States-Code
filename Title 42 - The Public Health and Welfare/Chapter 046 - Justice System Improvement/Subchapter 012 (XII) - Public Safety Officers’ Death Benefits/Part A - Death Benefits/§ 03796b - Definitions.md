@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) “chaplain” includes any individual serving as an officially recognized or designated member of a legally organized volunteer fire department or legally organized police department, or an officially recognized or designated public employee of a legally organized fire or police department who was responding to a fire, rescue, or police emergency;
 
-&emsp;(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of a deceased public safety officer who, at the time of the public safety officer's death, is—
+&emsp;(3) “child” means any natural, illegitimate, adopted, or posthumous child or stepchild of adeceased public safety officer who, at the time of the public safety officer's death, is—
 
 &emsp;&emsp;(i) 18 years of age or under;
 
@@ -58,7 +58,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 A prior section 3796b, Pub. L. 90–351, title I, §1203, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1220; amended Pub. L. 98–411, title II, §204(a)(3), Aug. 30, 1984, 98 Stat. 1561; Pub. L. 98–473, title II, §609Z, Oct. 12, 1984, 98 Stat. 2107, contained provisions similar to this section, prior to the general amendment of this subchapter by section 609F of Pub. L. 98–473.
 
-Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat.1347, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
+Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 94–430, §2, Sept. 29, 1976, 90 Stat. 1347, contained provisions similar to this section, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to section 3796c of this title.
 

@@ -356,7 +356,7 @@ For provisions that nothing in amendment by sections 11801 and 11813 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 50, 108, 168, 169, 170, 179, 179A, 198, 263A, 291, 341, 453, 465, 467, 512, 613, 617, 751, 861, 1017, 1250, 1252, 1255, 1257, 1276, 1400B of this title.
+This section is referred to in sections 50, 108, 168, 169, 170, 179, 179A, 198, 263A, 291, 453, 465, 467, 512, 613, 617, 751, 861, 1017, 1250, 1252, 1255, 1257, 1276, 1400B of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

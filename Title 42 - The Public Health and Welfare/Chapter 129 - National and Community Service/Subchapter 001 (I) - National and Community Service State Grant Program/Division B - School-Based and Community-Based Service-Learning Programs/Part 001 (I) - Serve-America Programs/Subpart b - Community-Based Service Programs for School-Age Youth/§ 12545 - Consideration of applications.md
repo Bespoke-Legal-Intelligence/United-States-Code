@@ -2,7 +2,7 @@
 
 #### (a) Application of criteria
 
-The Corporation shall apply the criteria described in subsection (b) of this section in determining whether to approve an application submitted under section 12543 of this title or under subsection (a) or (b) of section 12544 of this title and to provide assistance under section 12542 ofthis title to the applicant on the basis of the application.
+The Corporation shall apply the criteria described in subsection (b) of this section in determining whether to approve an application submitted under section 12543 of this title or under subsection (a) or (b) of section 12544 of this title and to provide assistance under section 12542 of this title to the applicant on the basis of the application.
 
 #### (b) Assistance criteria
 

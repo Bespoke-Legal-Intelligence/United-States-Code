@@ -6,7 +6,7 @@ In this section, the term “Great Lake” means Lake Superior, Lake Michigan, L
 
 #### (b) Dredging levels
 
-In operating and maintaining Federal channels and harbors of, and the connecting channelsbetween, the Great Lakes, the Secretary shall conduct such dredging as is necessary to ensure minimal operation depths consistent with the original authorized depths of the channels and harbors when water levels in the Great Lakes are, or are forecast to be, below the International Great Lakes Datum of 1985.
+In operating and maintaining Federal channels and harbors of, and the connecting channels between, the Great Lakes, the Secretary shall conduct such dredging as is necessary to ensure minimal operation depths consistent with the original authorized depths of the channels and harbors when water levels in the Great Lakes are, or are forecast to be, below the International Great Lakes Datum of 1985.
 
 (Pub. L. 106–541, title III, §343, Dec. 11, 2000, 114 Stat. 2613.)
 

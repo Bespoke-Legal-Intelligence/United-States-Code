@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(iv) that shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan, and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
+&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan,and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet as often as necessary to carry out the role of the committee, but at a minimum twice during each grant year;
 
@@ -128,5 +128,5 @@ Each Center shall annually prepare and transmit to the Secretary a report contai
 
 #### References in Text
 
-Provisions of title 5 governing appointments in competitive service, referred to in subsec. (c)(2)(A)(i), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+Provisions of title 5 governing appointments in competitive service, referred to in subsec. (c)(2)(A)(i), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 

@@ -12,7 +12,7 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 #### (1) Principal functions
 
-&emsp;Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Farm and Foreign Agricultural Services those functions under the jurisdiction of theDepartment that are related to farm and foreign agricultural services.
+&emsp;Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Farm and Foreign Agricultural Services those functions under the jurisdiction of the Department that are related to farm and foreign agricultural services.
 
 #### (2) Additional functions
 

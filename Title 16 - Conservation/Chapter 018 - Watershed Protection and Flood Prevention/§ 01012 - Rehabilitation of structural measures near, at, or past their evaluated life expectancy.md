@@ -30,7 +30,7 @@ Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Pu
 
 #### (1) Assistance authorized
 
-&emsp;The Secretary may provide financial assistance to a local organization to cover a portion of the total costs incurred for the rehabilitation of structural measures originally constructed as part of a covered water resource project. The total costs of rehabilitation include the costs associated with all components of the rehabilitation project, including acquisition of land, easements, and rights-of-ways,rehabilitation project administration, the provision of technical assistance, contracting, and construction costs, except that the local organization shall be responsible for securing all land, easements, or rights-of-ways necessary for the project.
+&emsp;The Secretary may provide financial assistance to a local organization to cover a portion of the total costs incurred for the rehabilitation of structural measures originally constructed as part of a covered water resource project. The total costs of rehabilitation include the costs associated with all components of the rehabilitation project, including acquisition of land, easements, and rights-of-ways, rehabilitation project administration, the provision of technical assistance, contracting, and construction costs, except that the local organization shall be responsible for securing all land, easements, or rights-of-ways necessary for the project.
 
 #### (2) Amount of assistance; limitations
 

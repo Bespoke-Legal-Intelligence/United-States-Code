@@ -15,14 +15,25 @@
 | [8751\.](%C2%A7%2008751%20-%20Service%20medals%20issue%3B%20replacement%3B%20availability%20of%20appropriations.md) | Service medals: issue; replacement; availability of appropriations. |
 | [8752\.](%C2%A7%2008752%20-%20Medals%20posthumous%20award%20and%20presentation.md) | Medals: posthumous award and presentation. |
 | [8754\.](%C2%A7%2008754%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
+| 8755\.<sup>1</sup> | Medal of honor: presentation of Medal of Honor Flag. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 8755\.<sup>1</sup> | Korea Defense Service Medal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2002—Pub. L. 107–314, div. A, title V, §543(d)(2), Dec. 2, 2002, 116 Stat. 2550, added item 8755 “Korea Defense Service Medal”.
+
+Pub. L. 107–248, title VIII, §8143(c)(3)(B), Oct. 23, 2002, 116 Stat. 1571, added item 8755 “Medal of honor: presentation of Medal of Honor Flag”.
+
 2001—Pub. L. 107–107, div. A, title V, §553(c)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 8754.
 
-1960—Pub. L. 86–593, §1(7), July 6, 1960, 74 Stat. 332, substituted “Air Force cross” for “distinguished-service cross” in items 8742, 8744, and 8745, inserted “Air Force cross;” in items 8747 and 8748, and substituted “Airman's Medal” for “Soldier's Medal” in item 8750.
+1960—Pub. L. 86–593, §1(7), July 6, 1960, 74 Stat. 332, substituted “Air Force cross” for “distinguished-service cross” in items 8742, 8744, and 8745, inserted “AirForce cross;” in items 8747 and 8748, and substituted “Airman's Medal” for “Soldier's Medal” in item 8750.
 
 #### Extension of Time for Award of Decoration
 
@@ -33,6 +44,8 @@ For extension of time for award of decoration, or device in lieu of decoration, 
 #### Meritorious Service Medal
 
 Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 1121 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two sections 8755 have been enacted.</i>
 
 
 ---
@@ -52,3 +65,5 @@ Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 11
 - [&sect; 08751 - Service medals issue; replacement; availability of appropriations](%C2%A7%2008751%20-%20Service%20medals%20issue%3B%20replacement%3B%20availability%20of%20appropriations.md)
 - [&sect; 08752 - Medals posthumous award and presentation](%C2%A7%2008752%20-%20Medals%20posthumous%20award%20and%20presentation.md)
 - [&sect; 08754 - Medal of honor duplicate medal](%C2%A7%2008754%20-%20Medal%20of%20honor%20duplicate%20medal.md)
+- [&sect; 08755 - 1 Medal of honor presentation of Medal of Honor Flag](%C2%A7%2008755%20-%201%20Medal%20of%20honor%20presentation%20of%20Medal%20of%20Honor%20Flag.md)
+- [&sect; 08755 - 1 Korea Defense Service Medal](%C2%A7%2008755%20-%201%20Korea%20Defense%20Service%20Medal.md)

@@ -22,7 +22,7 @@ As used in this subchapter:
 
 &emsp;(3) The term “energy crisis” means weather-related and supply shortage emergencies and other household energy-related emergencies.
 
-&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household and the unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
+&emsp;(4) The term “highest home energy needs” means the home energy requirements of a household determined by taking into account both the energy burden of such household andthe unique situation of such household that results from having members of vulnerable populations, including very young children, individuals with disabilities, and frail older individuals.
 
 &emsp;(5) The term “household” means any individual or group of individuals who are living together as one economic unit for whom residential energy is customarily purchased in common or who make undesignated payments for energy in the form of rent.
 
@@ -38,7 +38,7 @@ As used in this subchapter:
 
 &emsp;(11) The term “State median income” means the State median income promulgated by the Secretary in accordance with procedures established under section 1397a(a)(6) of this title (as such procedures were in effect on August 12, 1981) and adjusted, in accordance with regulations prescribed by the Secretary, to take into account the number of individuals in the household.
 
-(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756.)
+(Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756.)
 
 #### References in Text
 

@@ -56,7 +56,7 @@ Amendment by Pub. L. 92–540 effective 90 days after Oct. 24, 1972, see section
 
 #### Veteran's Employment Provisions
 
-Pub. L. 93–567, title I, §104, Dec. 31, 1974, 88 Stat. 1848, as amended by Pub. L. 94–444, §12(a), Oct. 1, 1976, 90 Stat. 1483; Pub. L. 94–502, title VI, §601(c), Oct. 15, 1976, 90 Stat. 2404, which authorized Secretary of Labor to provide for an outreach and public information program for veterans utilizing, to maximum extent, the Departments of Labor and Health, Education, and Welfare and the Veterans’ Administration, was repealed by Pub. L. 95–524, §7, Oct. 27, 1978, 92 Stat. 2021.
+Pub. L. 93–567, title I, §104, Dec. 31, 1974, 88 Stat. 1848, as amended by Pub. L. 94–444, §12(a), Oct. 1, 1976, 90Stat. 1483; Pub. L. 94–502, title VI, §601(c), Oct. 15, 1976, 90 Stat. 2404, which authorized Secretary of Labor to provide for an outreach and public information program for veterans utilizing, to maximum extent, the Departments of Labor and Health, Education, and Welfare and the Veterans’ Administration, was repealed by Pub. L. 95–524, §7, Oct. 27, 1978, 92 Stat. 2021.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ In the case of any electric powerplant granted an exemption, any person who oper
 
 #### (d) Assessment
 
-(1) Before issuing an order assessing a civil penalty against any person under this chapter, the Secretary shall provide to such person notice of the proposed penalty. Such notice shallinform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
+(1) Before issuing an order assessing a civil penalty against any person under this chapter, the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
 (2)(A) Unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 
@@ -38,7 +38,7 @@ In the case of any electric powerplant granted an exemption, any person who oper
 
 1987—Subsec. (a). Pub. L. 100–42, §1(c)(20)(A), struck out “(other than section 8372 of this title)” after “this chapter”.
 
-Subsec. (b). Pub. L. 100–42, §1(c)(20)(B), (C), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “Any person operating a major fuel-burning installation granted an exemption which, for any 12-calendar-month period, uses petroleum or natural gas, or both, in excess of that use allowed by such exemption shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas which was used in excess of that use allowed by such exemption.”
+Subsec. (b). Pub. L. 100–42, §1(c)(20)(B), (C), struck out “(1)” before “In the case of” and struck out par. (2) which read as follows: “Any person operating a majorfuel-burning installation granted an exemption which, for any 12-calendar-month period, uses petroleum or natural gas, or both, in excess of that use allowed by such exemption shall be liable for a civil penalty, which shall be assessed by the Secretary. The amount of such civil penalty may not exceed $10 per barrel of petroleum or $3 per Mcf of natural gas which was used in excess of that use allowed by such exemption.”
 
 Subsec. (c). Pub. L. 100–42, §1(c)(20)(C), struck out subsec. (c) which set forth civil penalties for violation of section 8372 of this title.
 

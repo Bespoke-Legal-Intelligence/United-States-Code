@@ -12,7 +12,7 @@ The Corporation may make grants under section 12524(b)(1) of this title to publi
 
 #### (b) Use of funds
 
-Such organizations may use grants made under subsection (a) of this section to makegrants to partnerships described in paragraph (2) or (4) of section 12521(a) of this title to implement, operate, or expand school-based service-learning programs as described in such section and provide technical assistance and training to appropriate persons.
+Such organizations may use grants made under subsection (a) of this section to make grants to partnerships described in paragraph (2) or (4) of section 12521(a) of this title to implement, operate, or expand school-based service-learning programs as described in such section and provide technical assistance and training to appropriate persons.
 
 (Pub. L. 101–610, title I, §111B, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 827.)
 

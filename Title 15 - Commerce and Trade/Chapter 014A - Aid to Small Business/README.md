@@ -305,6 +305,12 @@
 | (b) | Authorization for Mentoring Networks. |
 | (c) | Criteria for Mentoring Networks. |
 | (d) | Mentoring database. |
+| [657f.](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md) | Procurement program for small business concerns owned and controlled by service-disabled veterans. |
+| (a) | Sole source contracts. |
+| (b) | Restricted competition. |
+| (c) | Relationship to other contracting preferences. |
+| (d) | Enforcement; penalties. |
+| (e) | Contracting officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -371,3 +377,4 @@ This chapter is referred to in sections 662, 687 of this title; title 7 section 
 - [&sect; 00657c - National Veterans Business Development Corporation](%C2%A7%2000657c%20-%20National%20Veterans%20Business%20Development%20Corporation.md)
 - [&sect; 00657d - Federal and State Technology Partnership Program](%C2%A7%2000657d%20-%20Federal%20and%20State%20Technology%20Partnership%20Program.md)
 - [&sect; 00657e - Mentoring Networks](%C2%A7%2000657e%20-%20Mentoring%20Networks.md)
+- [&sect; 00657f - Procurement program for small business concerns owned and controlled by service-disabled veterans](%C2%A7%2000657f%20-%20Procurement%20program%20for%20small%20business%20concerns%20owned%20and%20controlled%20by%20service-disabled%20veterans.md)

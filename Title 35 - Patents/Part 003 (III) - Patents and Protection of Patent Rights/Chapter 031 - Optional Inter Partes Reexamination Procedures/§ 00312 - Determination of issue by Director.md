@@ -6,7 +6,7 @@ Reexamination.—Not later than 3 months after the filing of a request for inter
 
 (b)
 
-Record.—A record of the Director's determination under subsection (a) shall be placed inthe official file of the patent, and a copy shall be promptly given or mailed to the owner of record of the patent and to the third-party requester.
+Record.—A record of the Director's determination under subsection (a) shall be placed in the official file of the patent, and a copy shall be promptly given or mailed to the owner of record of the patent and to the third-party requester.
 
 (c)
 

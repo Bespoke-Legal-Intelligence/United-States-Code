@@ -6,7 +6,7 @@ The Secretary of Energy shall monitor and for the years 1983 to 1992 report annu
 
 #### (b) Disclosure of information
 
-Upon a satisfactory showing to the Secretary of Energy by any person that any information, or portion thereof obtained under this section, would, if made public, divulge proprietary information of such person, the Secretary shall not disclose such information and disclosure thereof shall be punishable under section 1905 of title 18.
+Upon a satisfactory showing to the Secretary of Energy by any person that any information, or portion thereof obtained under this section,would, if made public, divulge proprietary information of such person, the Secretary shall not disclose such information and disclosure thereof shall be punishable under section 1905 of title 18.
 
 #### (c) Criteria for monitoring and reporting requirements
 

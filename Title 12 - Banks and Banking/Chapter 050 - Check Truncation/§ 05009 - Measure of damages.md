@@ -1,0 +1,40 @@
+### §5009. Measure of damages
+
+#### (a) Liability
+
+#### (1) In general
+
+&emsp;Except as provided in section 5005 of this title, any person who, in connection with a substitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
+
+&emsp;&emsp;(A) the lesser of—
+
+&emsp;&emsp;&emsp;(i) the amount of the loss suffered by the other person as a result of the breach or failure; or
+
+&emsp;&emsp;&emsp;(ii) the amount of the substitute check; and
+
+&emsp;&emsp;(B) interest and expenses (including costs and reasonable attorney's fees and other expenses of representation) related to the substitute check.
+
+#### (2) Offset of recredits
+
+&emsp;The amount of damages any person receives under paragraph (1), if any, shall be reduced by the amount, if any, that the claimant receives and retains as a recredit under section 5006 or 5007 of this title.
+
+#### (b) Comparative negligence
+
+#### (1) In general
+
+&emsp;If a person incurs damages that resulted in whole or in part from the negligence or failure of that person to act in good faith, then the amount of any liability due to that person under subsection (a) shall be reduced in proportion to the amount of negligence or bad faith attributable to that person.
+
+#### (2) Rule of construction
+
+&emsp;Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
+
+(Pub. L. 108–100, §10, Oct. 28, 2003, 117 Stat. 1188.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to thischapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5006, 5007 of this title.
+

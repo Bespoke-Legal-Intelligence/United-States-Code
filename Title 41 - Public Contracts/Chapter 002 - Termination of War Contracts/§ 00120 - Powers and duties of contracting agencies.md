@@ -6,7 +6,7 @@ Each contracting agency shall have authority, notwithstanding any provisions of 
 
 #### (b) Evidence required; conclusiveness of determinations
 
-Any contracting agency may prescribe the amount and kind of evidence required to identify any person as a war contractor, or any contract, agreement, or purchase order as a war contract for any of the purposes of this chapter. Any determination so made that any person is a war contractor, or that any contract, agreement, or purchase order is a war contract, shall be final and conclusive for any of the purposes of this chapter.
+Any contracting agency may prescribe the amount and kind of evidence required to identify any person as a war contractor, or any contract, agreement, or purchase order as a war contract for any of the purposes of this chapter.Any determination so made that any person is a war contractor, or that any contract, agreement, or purchase order is a war contract, shall be final and conclusive for any of the purposes of this chapter.
 
 #### (c) Appropriations
 

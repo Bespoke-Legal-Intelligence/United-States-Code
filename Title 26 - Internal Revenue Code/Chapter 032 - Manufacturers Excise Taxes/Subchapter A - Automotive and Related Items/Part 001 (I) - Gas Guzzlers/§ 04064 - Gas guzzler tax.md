@@ -145,7 +145,7 @@ Subsection (d).—The amendment made by subsection (d) \[amending this section\]
 
 #### Effective Date of 1986 Amendment
 
-Section 1812(e)(1)(B)(iii) of Pub. L. 99–514 provided that: “The amendments made by clauses (i) and (ii)\[amending this section\] shall take effect as if included in the amendments made by section 201 of Public Law 95–618 \[see Effective Date note below\]; except that the amendment made by clause (i) shall not apply to any station wagon if—
+Section 1812(e)(1)(B)(iii) of Pub. L. 99–514 provided that: “The amendments made by clauses (i) and (ii) \[amending this section\] shall take effect as if included in the amendments made by section 201 of Public Law 95–618 \[see Effective Date note below\]; except that the amendment made by clause (i) shall not apply to any station wagon if—
 
 &emsp;“(I) such station wagon is originally equipped with more than 6 seat belts,
 

@@ -38,7 +38,7 @@ For the purpose of this section:
 
 (E) The Administrator shall receive and evaluate written comments and documents from interested persons in support of, or in opposition to, certification of the class or model of product under consideration.
 
-(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shall reach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
+(F) Within ninety days after the receipt of a properly filed certification application the Administrator shall determine whether such product is a low-noise-emission product for purposes of this section. If the Administrator determines that such product is a low-noise-emission product, then within one hundred and eighty days of such determination the Administrator shallreach a decision as to whether such product is a suitable substitute for any class or classes of products presently being purchased by the Federal Government for use by its agencies.
 
 (G) Immediately upon making any determination or decision under subparagraph (F), the Administrator shall publish in the Federal Register notice of such determination or decision, including reasons therefor.
 
@@ -62,7 +62,7 @@ The Administrator shall, from time to time as he deems appropriate, test the emi
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated for paying additional amounts for products pursuant to, and for carrying out the provisions of, this section, $1,000,000 for the fiscal year ending June 30, 1973, and $2,000,000 for each of the twosucceeding fiscal years, $2,200,000 for the fiscal year ending June 30, 1976, $550,000 for the transition period of July 1, 1976, through September 30, 1976, and $2,420,000 for the fiscal year ending September 30, 1977.
+There are authorized to be appropriated for paying additional amounts for products pursuant to, and for carrying out the provisions of, this section, $1,000,000 for the fiscal year ending June 30, 1973, and $2,000,000 for each of the two succeeding fiscal years, $2,200,000 for the fiscal year ending June 30, 1976, $550,000 for the transition period of July 1, 1976, through September 30, 1976, and $2,420,000 for the fiscal year ending September 30, 1977.
 
 #### (h) Promulgation of procedures
 

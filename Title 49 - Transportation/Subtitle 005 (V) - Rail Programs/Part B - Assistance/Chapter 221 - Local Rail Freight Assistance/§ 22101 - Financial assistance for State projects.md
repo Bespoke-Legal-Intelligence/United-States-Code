@@ -6,7 +6,7 @@ General.—The Secretary of Transportation shall provide financial assistance to
 
 &emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Surface Transportation Board has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
 
-&emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year; and
+&emsp;(2) improving and rehabilitating rail property on a rail line to the extent necessary to allow adequate and efficient rail freight transportation on the line, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 grosston-miles of freight a mile in the prior year; and
 
 &emsp;(3) building rail or rail-related facilities (including new connections between at least 2 existing rail lines, intermodal freight terminals, sidings, bridges, and relocation of existing lines) to improve the quality and efficiency of the rail freight transportation, but only if the rail carrier certifies that the rail line related to the project carried not more than 5,000,000 gross ton-miles of freight a mile in the prior year.
 
@@ -76,7 +76,7 @@ In subsection (b), the words “no later than July 1, 1990” are omitted as exe
 
 In subsection (c)(1), before clause (A), the words “Assistance for a project shall be provided under this chapter only if” are substituted for “No project shall be provided rail freight assistance under this section unless” because of the restatement.
 
-In subsection (c)(2), the words “If the rail carrier that provided the transportation on the rail line” are substituted for “In a case where the railroad”, and the words “information required by the certification underparagraph (1)(A) of this subsection” are substituted for “such information”, for clarity.
+In subsection (c)(2), the words “If the rail carrier that provided the transportation on the rail line” are substituted for “In a case where the railroad”, and the words “information required by the certification under paragraph (1)(A) of this subsection” are substituted for “such information”, for clarity.
 
 #### Amendments
 

@@ -40,7 +40,7 @@ The information described in subsection (a)(1) of this section shall be provided
 
 &emsp;(8) upon request, to the Comptroller General,
 
-> in order for such authorities to determine the fitness of individuals to provide health care services, to protect the health and safety of individuals receiving health care through such programs, and to protect the fiscal integrity of such programs.
+> in order for such authorities to determine the fitness of individuals to provide health careservices, to protect the health and safety of individuals receiving health care through such programs, and to protect the fiscal integrity of such programs.
 
 #### (c) Confidentiality of information provided
 

@@ -1,6 +1,6 @@
 ### §398c. Addition of lands
 
-In furtherance of the purposes of sections 398 and 398a of this title, providing for the establishment of the Virgin Islands National Park, and in order to preserve for the benefit of the public significant coral gardens, marine life, and seascapes in the vicinity thereof, the boundaries of such park, subject to valid existing rights, are revised to include the adjoining lands, submerged lands, and waters, and Hassel Island located in Saint Thomas Harbor and adjoining lands, submerged lands, and waters, described as follows:
+In furtherance of the purposes of sections 398 and 398a of this title, providing for the establishment of the Virgin Islands National Park, and in order to preserve for the benefit of the public significant coral gardens, marine life, and seascapes in the vicinity thereof, the boundaries ofsuch park, subject to valid existing rights, are revised to include the adjoining lands, submerged lands, and waters, and Hassel Island located in Saint Thomas Harbor and adjoining lands, submerged lands, and waters, described as follows:
 
 North Offshore Area
 

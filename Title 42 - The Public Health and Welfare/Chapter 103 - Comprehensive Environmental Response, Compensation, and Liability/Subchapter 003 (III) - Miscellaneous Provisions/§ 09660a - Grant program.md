@@ -20,5 +20,5 @@ Section was enacted as part of the Superfund Amendments and Reauthorization Act 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7274d, 9611, 9619 of this title; title 49 section 5115.
+This section is referred to in sections 9611, 9619 of this title; title 49 section 5115; title 50 section 2731.
 

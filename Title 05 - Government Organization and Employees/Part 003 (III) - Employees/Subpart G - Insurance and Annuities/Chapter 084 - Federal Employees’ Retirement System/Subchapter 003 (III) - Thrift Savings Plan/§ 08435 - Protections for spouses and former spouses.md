@@ -20,7 +20,7 @@
 
 (c)(1) An election or change of election shall not be effective under this subchapter to the extent that the election, change, or transfer conflicts with any court decree, order, or agreement described in paragraph (2).
 
-(2) A court decree, order, or agreement referred to in paragraph (1) is, with respect to an employee or Member (or former employee or Member), a court decree of divorce, annulment, or legal separation issued in the case of such employee or Member (or former employee orMember) and any former spouse of the employee or Member (or former employee or Member) or any court order or court-approved property settlement agreement incident to such decree if—
+(2) A court decree, order, or agreement referred to in paragraph (1) is, with respect to an employee or Member (or former employee or Member), a court decree of divorce, annulment, or legal separation issued in the case of such employee or Member (or former employee or Member) and any former spouse of the employee or Member (or former employee or Member) or any court order or court-approved property settlement agreement incident to such decree if—
 
 &emsp;(A) the decree, order, or agreement expressly relates to any portion of the balance in the employee's or Member's (or former employee's or Member's) account; and
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) an election under section 8434(a)(2)(E) of this title, or
 
-&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regard to subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
+&emsp;(B) any court decree, order, or agreement (described in subsection (c)(2), without regardto subparagraph (B) of such subsection) which relates to such deceased individual and such former spouse,
 
 > expressly provides for such survivor annuity.
 
@@ -76,7 +76,7 @@
 
 (h) The protections provided by this section are in addition to the protections provided by section 8467 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335, §§5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, §4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[titleII, §204\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335, §§5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, §4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §204\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (e)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(
 
 Subsec. (e)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(i)\]\], inserted “or withdrawal” after “loan”.
 
-Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of “and (h)” after “8344(g)”, was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
+Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(3)(B)(ii)\]\], which directed insertion of “and (h)” after “8344(g)”, was executed by making the insertionafter “8433(g)” to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(A)\]\], inserted “or withdrawals” after “loans”.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–484 applicable with respect to separations occurring after Dec. 31, 1993, orsuch earlier date as Executive Director (appointed under section 8474 of this title) may by regulation prescribe, see section 4437(d) of Pub. L. 102–484, set out as a note under section 8351 of this title.
+Amendment by Pub. L. 102–484 applicable with respect to separations occurring after Dec. 31, 1993, or such earlier date as Executive Director (appointed under section 8474 of this title) may by regulation prescribe, see section 4437(d) of Pub. L. 102–484, set out as a note under section 8351 of this title.
 
 #### Effective Date of 1990 Amendment
 

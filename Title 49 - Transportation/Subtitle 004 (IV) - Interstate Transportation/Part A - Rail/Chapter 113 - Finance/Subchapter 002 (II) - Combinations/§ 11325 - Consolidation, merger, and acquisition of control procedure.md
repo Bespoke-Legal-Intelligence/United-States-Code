@@ -18,7 +18,7 @@
 
 (c) If the application involves a transaction other than the merger or control of at least two Class I railroads, as defined by the Board, which the Board has determined to be of regional or national transportation significance, the following conditions apply:
 
-&emsp;(1) Written comments about an application, including comments of the Attorney Generaland the Secretary of Transportation, may be filed with the Board within 30 days after notice of the application is published under subsection (a) of this section.
+&emsp;(1) Written comments about an application, including comments of the Attorney General and the Secretary of Transportation, may be filed with the Board within 30 days after notice of the application is published under subsection (a) of this section.
 
 &emsp;(2) The Board shall require that applications inconsistent with an application, notice of which was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 60th day after publication of notice under that subsection.
 

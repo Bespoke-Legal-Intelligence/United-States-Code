@@ -42,7 +42,7 @@ Act
 
 Aug. 28, 1958, Pub. L. 85–848, §3 “Sec. 1511(a)–(c)”, 72 Stat. 1088.
 
-In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, AirForce, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
+In subsection (a)(1), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101. The words “after October 27, 1958” are substituted for “after the sixtieth day after August 28, 1958”.
 
 In subsection (b), the words “with respect to weeks of unemployment ending after the sixtieth day after August 28, 1958” are omitted as obsolete because the law is here stated with prospective effect.
 

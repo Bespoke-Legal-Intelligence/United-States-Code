@@ -8,7 +8,7 @@ Existence and Amounts in Fund.—The Secretary of Transportation has a small air
 
 Distribution of Amounts.—The Secretary may distribute amounts in the fund in each fiscal year for any purpose for which amounts are made available under section 48103 of this title as follows:
 
-&emsp;(1) one-seventh for grants for projects at small hub airports (as defined in section 41731 of this title); and
+&emsp;(1) one-seventh for grants for projects at small hub airports; and
 
 &emsp;(2) the remaining amounts based on the following:
 
@@ -34,13 +34,13 @@ Airport development for turbine powered aircraft.—In making grants to sponsors
 
 (e)
 
-Set-Aside for Meeting Safety Terms in Airport Operating Certificates.—In the first fiscal year beginning after the effective date of regulations issued to carry out section 44706(b) with respect to airports described in section 44706(a)(2), and in each of the next 4 fiscal years, the lesser of $15,000,000 or 20 percent of the amounts that would otherwise be distributed to sponsors of airports under subsection (b)(2) shall be used to assist the airports in meeting the terms established by the regulations. If the Secretary publishes in the Federal Register a finding that all the terms established by the regulations have been met, this subsection shall cease to be effective as of the date of such publication.
+Set-Aside for Meeting Safety Terms in Airport Operating Certificates.—In the first fiscal year beginning after the effective date ofregulations issued to carry out section 44706(b) with respect to airports described in section 44706(a)(2), and in each of the next 4 fiscal years, the lesser of $15,000,000 or 20 percent of the amounts that would otherwise be distributed to sponsors of airports under subsection (b)(2) shall be used to assist the airports in meeting the terms established by the regulations. If the Secretary publishes in the Federal Register a finding that all the terms established by the regulations have been met, this subsection shall cease to be effective as of the date of such publication.
 
 (f)
 
 Notification of Source of Grant.—Whenever the Secretary makes a grant under this section, the Secretary shall notify the recipient of the grant, in writing, that the source of the grant is from the small airport fund.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223; Pub. L. 106–6, §8(b), Mar. 31, 1999, 113 Stat. 11; Pub. L. 106–181, title I, §128, Apr. 5, 2000, 114 Stat. 76.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 104–264, title I, §146, Oct. 9, 1996, 110 Stat. 3223; Pub. L. 106–6, §8(b), Mar. 31, 1999, 113 Stat. 11; Pub. L. 106–181, title I, §128, Apr. 5, 2000, 114 Stat. 76; Pub. L. 108–176, title VIII, §801(b), Dec. 12, 2003, 117 Stat. 2587.)
 
 Historical and Revision Notes
 
@@ -74,6 +74,8 @@ In subsection (c), the word “pilot” is added for consistency with section 47
 
 #### Amendments
 
+2003—Subsec. (b)(1). Pub. L. 108–176 struck out “(as defined in section 41731 of this title)” after “small hub airports”.
+
 2000—Subsec. (d). Pub. L. 106–181, §128(c), designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 Subsec. (e). Pub. L. 106–181, §128(a), added subsec. (e).
@@ -85,6 +87,10 @@ Subsec. (f). Pub. L. 106–181, §128(b), added subsec. (f).
 Subsec. (b). Pub. L. 106–6, §8(b)(2), added pars. (1) and (2) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (2).
 
 1996—Subsec. (d). Pub. L. 104–264 added subsec. (d).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

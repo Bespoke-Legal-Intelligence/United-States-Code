@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–34, title X, §1032(e)(12)(C), Aug. 5, 1997, 111 Stat. 935, added item 7232 and struck outformer item 7232 “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
+1997—Pub. L. 105–34, title X, §1032(e)(12)(C), Aug. 5, 1997, 111 Stat. 935, added item 7232 and struck out former item 7232 “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
 
 1996—Pub. L. 104–188, title I, §1704(t)(20)(B), Aug. 20, 1996, 110 Stat. 1888, struck out “lubricating oil,” after “gasoline,” in item 7232.
 

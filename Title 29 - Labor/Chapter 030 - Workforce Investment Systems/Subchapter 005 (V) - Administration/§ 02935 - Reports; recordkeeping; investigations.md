@@ -64,7 +64,7 @@
 
 #### (D) Rule of construction
 
-&emsp;&emsp;Nothing contained in this chapter shall be construed so as to be inconsistent with the Inspector General Act of 1978 (5 U.S.C. App.) or government auditing standards issued by the Comptroller General of the United States.
+&emsp;&emsp;Nothing contained in this chapter shall be construed so as to be inconsistent with the Inspector General Act of 1978 (5 U.S.C. App.)or government auditing standards issued by the Comptroller General of the United States.
 
 #### (c) Accessibility of reports
 
@@ -80,7 +80,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 #### (1) In general
 
-&emsp;The reports required in subsection (c) of this section shall include information regardingprograms and activities carried out under this chapter pertaining to—
+&emsp;The reports required in subsection (c) of this section shall include information regarding programs and activities carried out under this chapter pertaining to—
 
 &emsp;&emsp;(A) the relevant demographic characteristics (including race, ethnicity, sex, and age) and other related information regarding participants;
 

@@ -10,5 +10,5 @@ Section is from the Legislative Branch Appropriations Act, 1990.
 
 #### Amendments
 
-1995—Pub. L. 104–53 substituted “Sergeant at Arms” for “Clerk” after “comprised of the” and “Architect of the Capitol” for “Librarian of Congress”.
+<b>1995</b>—Pub. L. 104–53 substituted “Sergeant at Arms” for “Clerk” after “comprised of the” and “Architect of the Capitol” for “Librarian of Congress”.
 

@@ -30,7 +30,7 @@ Except as otherwise provided in this section—
 
 #### (4) Transitional rule
 
-&emsp;In the case of any taxable year beginning before January 1, 1998, no addition to tax shallbe made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.
+&emsp;In the case of any taxable year beginning before January 1, 1998, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section.
 
 #### (c) Domestic service employment taxes
 
@@ -48,7 +48,7 @@ To the extent provided in regulations prescribed by the Secretary, this section 
 
 #### (e) General regulatory authority
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers’ income taxes.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers’ income taxes.
 
 #### (f) Authority to enter into agreements to collect State unemployment taxes
 

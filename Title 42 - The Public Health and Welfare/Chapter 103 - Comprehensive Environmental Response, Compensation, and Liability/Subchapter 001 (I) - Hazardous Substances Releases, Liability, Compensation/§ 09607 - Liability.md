@@ -48,7 +48,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 (2) Notwithstanding the limitations in paragraph (1) of this subsection, the liability of an owner or operator or other responsible person under this section shall be the full and total costs of response and damages, if (A)(i) the release or threat of release of a hazardous substance was the result of willful misconduct or willful negligence within the privity or knowledge of such person, or (ii) the primary cause of the release was a violation (within the privity or knowledge of such person) of applicable safety, construction, or operating standards or regulations; or (B) such person fails or refuses to provide all reasonable cooperation and assistance requested by a responsible public official in connection with response activities under the national contingency plan with respect to regulated carriers subject to the provisions of title 49 or vessels subject to the provisions of title 33, 46, or 46 Appendix, subparagraph (A)(ii) of this paragraph shall be deemed to refer to Federal standards or regulations.
 
-(3) If any person who is liable for a release or threat of release of a hazardous substance fails without sufficient cause to properly provide removal or remedial action upon order of the President pursuant to section 9604 or 9606 of this title, such person may be liable to the United States for punitive damages in an amount at least equal to, and not more than three times, the amount of any costs incurred by the Fund as a result of such failure to take proper action. The President is authorized to commence a civil action against any such person to recover the punitive damages, which shall be in addition to any costs recovered from such person pursuant to section 9612(c) of this title. Any moneys received by the United States pursuant to this subsection shall be deposited in the Fund.
+(3) If any person who is liable for a release or threat of release of a hazardous substance fails without sufficient cause to properly provide removal or remedial action upon order of thePresident pursuant to section 9604 or 9606 of this title, such person may be liable to the United States for punitive damages in an amount at least equal to, and not more than three times, the amount of any costs incurred by the Fund as a result of such failure to take proper action. The President is authorized to commence a civil action against any such person to recover the punitive damages, which shall be in addition to any costs recovered from such person pursuant to section 9612(c) of this title. Any moneys received by the United States pursuant to this subsection shall be deposited in the Fund.
 
 #### (d) Rendering care or advice
 
@@ -80,7 +80,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (A) Federal
 
-&emsp;&emsp;The President shall designate in the National Contingency Plan published under section 9605 of this title the Federal officials who shall act on behalf of the public as trustees for natural resources under this chapter and section 1321 of title 33. Such officials shall assess damages for injury to, destruction of, or loss of natural resources for purposes of this chapter and such section 1321 of title 33 for those resources under their trusteeship and may, upon request of and reimbursement from a State and at the Federal officials’ discretion, assess damages for those natural resources under the State's trusteeship.
+&emsp;&emsp;The President shall designate in the National Contingency Plan published under section 9605 of this title the Federal officials who shall act on behalf of the public astrustees for natural resources under this chapter and section 1321 of title 33. Such officials shall assess damages for injury to, destruction of, or loss of natural resources for purposes of this chapter and such section 1321 of title 33 for those resources under their trusteeship and may, upon request of and reimbursement from a State and at the Federal officials’ discretion, assess damages for those natural resources under the State's trusteeship.
 
 #### (B) State
 
@@ -104,7 +104,7 @@ No person (including the United States or any State or Indian tribe) may recover
 
 #### (j) Obligations or liability pursuant to federally permitted release
 
-Recovery by any person (including the United States or any State or Indian tribe) for response costs or damages resulting from a federally permitted release shall be pursuant to existing law in lieu of this section. Nothing in this paragraphshall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance. In addition, costs of response incurred by the Federal Government in connection with a discharge specified in section 9601(10)(B) or (C) of this title shall be recoverable in an action brought under section 1319(b) of title 33.
+Recovery by any person (including the United States or any State or Indian tribe) for response costs or damages resulting from a federally permitted release shall be pursuant to existing law in lieu of this section. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance. In addition, costs of response incurred by the Federal Government in connection with a discharge specified in section 9601(10)(B) or (C) of this title shall be recoverable in an action brought under section 1319(b) of title 33.
 
 #### (k) Transfer to, and assumption by, Post-Closure Liability Fund of liability of owner or operator of hazardous waste disposal facility in receipt of permit under applicable solid waste disposal law; time, criteria applicable, procedures, etc.; monitoring costs; reports
 
@@ -114,7 +114,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 &emsp;(B) such facility has been closed in accordance with such regulations and the conditions of such permit, and such facility and the surrounding area have been monitored as required by such regulations and permit conditions for a period not to exceed five years after closure to demonstrate that there is no substantial likelihood that any migration offsite or release from confinement of any hazardous substance or other risk to public health or welfare will occur.
 
-(2) Such transfer of liability shall be effective ninety days after the owner or operator of such facility notifies the Administrator of the Environmental Protection Agency (and the State where it has an authorized program under section 3006(b) of the Solid Waste Disposal Act \[42 U.S.C. 6926(b)\]) that the conditions imposed by this subsection have been satisfied. If within such ninety-day period the Administrator of the Environmental Protection Agency or such State determines that any such facility has not complied with all the conditions imposed by this subsection or that insufficient information has been provided to demonstrate such compliance, the Administrator or such State shall so notify the owner and operator of such facility and the administrator of the Fund established by section 9641 <sup>1</sup> of this title, and the owner and operator of such facility shall continue to be liable with respect to such facility under this section and other law until such time as the Administrator and such State determines that such facility has complied with all conditions imposed by this subsection. A determination by the Administrator or such State that a facility has not complied with all conditions imposed by this subsection or that insufficient information has been supplied to demonstrate compliance, shall be a final administrative action for purposes of judicial review. A request for additional information shall state in specific terms the data required.
+(2) Such transfer of liability shall be effective ninety days after the owner or operator of such facility notifies the Administrator of the Environmental Protection Agency (and the State where it has an authorized program under section 3006(b) of the Solid Waste Disposal Act \[42 U.S.C. 6926(b)\]) that the conditions imposed by this subsection have been satisfied. If within such ninety-day period the Administrator of the Environmental Protection Agency or such State determines that any such facility has not complied with all the conditions imposed by this subsection or that insufficient information has been provided to demonstrate such compliance, the Administrator or such State shall so notify the owner and operator of such facility and the administrator of the Fund established by section 9641 <sup>1</sup> of this title, and the owner and operator of such facility shall continue to be liable with respect to such facility under this section and other law until such time as the Administrator and such State determines that such facility has complied with all conditions imposed by this subsection. A determination by the Administrator or such State that a facility has notcomplied with all conditions imposed by this subsection or that insufficient information has been supplied to demonstrate compliance, shall be a final administrative action for purposes of judicial review. A request for additional information shall state in specific terms the data required.
 
 (3) In addition to the assumption of liability of owners and operators under paragraph (1) of this subsection, the Post-closure Liability Fund established by section 9641 <sup>1</sup> of this title may be used to pay costs of monitoring and care and maintenance of a site incurred by other persons after the period of monitoring required by regulations under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] for hazardous waste disposal facilities meeting the conditions of paragraph (1) of this subsection.
 
@@ -222,7 +222,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (1) In general
 
-&emsp;The liability of a fiduciary under any provision of this chapter for the release or threatened release of a hazardous substance at, from, or in connection with a vessel or facility held in a fiduciary capacity shall not exceed the assets held in the fiduciary capacity.
+&emsp;The liability of a fiduciary under any provision of this chapter for the release or threatened release of a hazardous substance at, from,or in connection with a vessel or facility held in a fiduciary capacity shall not exceed the assets held in the fiduciary capacity.
 
 #### (2) Exclusion
 
@@ -282,7 +282,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;&emsp;&emsp;&emsp;(IX) personal representative;
 
-&emsp;&emsp;&emsp;&emsp;(X) trustee (including a successor to a trustee) under an indenture agreement,trust agreement, lease, or similar financing agreement, for debt securities, certificates of interest or certificates of participation in debt securities, or other forms of indebtedness as to which the trustee is not, in the capacity of trustee, the lender; or
+&emsp;&emsp;&emsp;&emsp;(X) trustee (including a successor to a trustee) under an indenture agreement, trust agreement, lease, or similar financing agreement, for debt securities, certificates of interest or certificates of participation in debt securities, or other forms of indebtedness as to which the trustee is not, in the capacity of trustee, the lender; or
 
 &emsp;&emsp;&emsp;&emsp;(XI) representative in any other capacity that the Administrator, after providing public notice, determines to be similar to the capacities described in subclauses (I) through (X); and
 
@@ -328,7 +328,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under this chapter if liability is based solely on paragraph (3) or (4) of subsection (a) of this section, and the person, except as provided in paragraph (4) of this subsection, can demonstrate that—
+&emsp;Except as provided in paragraph (2), a person shall not be liable, with respect to responsecosts at a facility on the National Priorities List, under this chapter if liability is based solely on paragraph (3) or (4) of subsection (a) of this section, and the person, except as provided in paragraph (4) of this subsection, can demonstrate that—
 
 &emsp;&emsp;(A) the total amount of the material containing hazardous substances that the person arranged for disposal or treatment of, arranged with a transporter for transport for disposal or treatment of, or accepted for transport for disposal or treatment, at the facility was less than 110 gallons of liquid materials or less than 200 pounds of solid materials (or such greater or lesser amounts as the Administrator may determine by regulation); and
 
@@ -466,7 +466,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;&emsp;&emsp;&emsp;(I) conducted all appropriate inquiry within the meaning of section 9601(35)(B) of this title with respect to the property; and
 
-&emsp;&emsp;&emsp;&emsp;(II) did not know or have reason to know that the property was or could be contaminated by a release or threatened release of one or more hazardous substances from other real property not owned or operated by the person.
+&emsp;&emsp;&emsp;&emsp;(II) did not know or have reason to know that the property was or could becontaminated by a release or threatened release of one or more hazardous substances from other real property not owned or operated by the person.
 
 #### (B) Demonstration
 
@@ -504,7 +504,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 #### (2) Lien
 
-&emsp;If there are unrecovered response costs incurred by the United States at a facility forwhich an owner of the facility is not liable by reason of paragraph (1), and if each of the conditions described in paragraph (3) is met, the United States shall have a lien on the facility, or may by agreement with the owner, obtain from the owner a lien on any other property or other assurance of payment satisfactory to the Administrator, for the unrecovered response costs.
+&emsp;If there are unrecovered response costs incurred by the United States at a facility for which an owner of the facility is not liable by reason of paragraph (1), and if each of the conditions described in paragraph (3) is met, the United States shall have a lien on the facility, or may by agreement with the owner, obtain from the owner a lien on any other property or other assurance of payment satisfactory to the Administrator, for the unrecovered response costs.
 
 #### (3) Conditions
 
@@ -584,7 +584,7 @@ Subsec. (c)(1)(B). Pub. L. 99–499, §127(b)(4), inserted “other than an inci
 
 Subsec. (c)(1)(D). Pub. L. 99–499, §127(b)(5), inserted “any incineration vessel or” before “any facility”.
 
-Subsec. (d). Pub. L. 99–499, §107(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read asfollows: “No person shall be liable under this subchapter for damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the national contingency plan or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any release of a hazardous substance or the threat thereof. This subsection shall not preclude liability for damages as the result of gross negligence or intentional misconduct on the part of such person. For the purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.”
+Subsec. (d). Pub. L. 99–499, §107(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No person shall be liable under this subchapter for damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the national contingency plan or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any release of a hazardous substance or the threat thereof. This subsection shall not preclude liability for damages as the result of gross negligence or intentional misconduct on the part of such person. For the purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.”
 
 Subsec. (f)(1). Pub. L. 99–499, §107(d)(1), designated existing provisions as par. (1) and added heading.
 

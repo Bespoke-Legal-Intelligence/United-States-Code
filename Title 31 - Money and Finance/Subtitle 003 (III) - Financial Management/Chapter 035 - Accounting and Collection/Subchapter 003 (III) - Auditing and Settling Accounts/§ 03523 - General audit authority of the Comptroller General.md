@@ -48,6 +48,18 @@ In subsection (c)(1), the words “or places”, “accounts and other”, and �
 
 In subsection (c)(2), the words “<i>Provided</i>, That” are omitted because of the restatement. The words “the accounts and records of” are omitted as surplus.
 
+#### Payment for Audits
+
+Pub. L. 108–83, title I, §1401, Sept. 30, 2003, 117 Stat. 1034, provided that:
+
+“(a)
+
+In General.—At any time during fiscal year 2004 or thereafter, the Comptroller General may accept payment from the Securities and Exchange Commission for the performance of any audit of the financial statements of the Commission which is conducted by the Comptroller General.
+
+“(b)
+
+Credit to Account.—Any payment accepted under the authority of subsection (a) shall be credited to the account established for salaries and expenses of the General Accounting Office, and shall be available for obligation and expenditure upon receipt.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 2 sections 104a, 104b; title 42 sections 2996h, 10711.

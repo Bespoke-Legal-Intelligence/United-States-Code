@@ -12,7 +12,7 @@ Payment of Expenses.—The Secretary concerned may pay the expenses incident to 
 
 (b)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Transportation shall prescribe regulations to implement this section with regard to civilian employees of the Department of Transportation. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
+Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement this section with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
 
 (c)
 
@@ -26,11 +26,17 @@ Definitions.—In this section:
 
 &emsp;(4) The term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 
-(Added Pub. L. 103–160, div. A, title III, §368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, §1070(a)(8)(A), Oct. 5, 1994, 108 Stat. 2855.)
+(Added Pub. L. 103–160, div. A, title III, §368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, §1070(a)(8)(A), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
+2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
+
 1994—Pub. L. 103–337 substituted “civilian” for “Civilian” in section catchline.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

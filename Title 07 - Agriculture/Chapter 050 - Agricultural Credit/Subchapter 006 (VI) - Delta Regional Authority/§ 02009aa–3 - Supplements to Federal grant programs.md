@@ -26,7 +26,7 @@ Notwithstanding any provision of law limiting the Federal share, the areas eligi
 
 &emsp;&emsp;(B) could be approved for Federal contribution under the Federal grant program if funds were available under the law for the project.
 
-#### (2) Certification by authority
+#### (2) Certification by Authority
 
 #### (A) In general
 

@@ -64,7 +64,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 > The Secretary shall conclude this investigation and prepare a report on its results no later than October 1, 1995.
 
-(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, on behalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(2) Upon completion of the scientific investigation required under paragraph (1), the Secretary shall enter into discussions with the Pacific States Marine Fisheries Commission, onbehalf of the States of Washington, Oregon, and California, for the purpose of addressing any issues or problems identified as a result of the scientific investigation, and to develop recommendations to address such issues or problems. Any recommendations resulting from such discussions shall be submitted, along with the report, to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 (3) The Secretary shall make the report and the recommendations submitted under paragraph (2) available to the public for review and comment for a period of 90 days.
 
@@ -104,7 +104,7 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 #### (j) Gulf of Maine harbor porpoise
 
-(1) Nothing in section 1386 of this title shall prevent the Secretary from publishing a stockassessment for Gulf of Maine harbor porpoise in an expedited fashion.
+(1) Nothing in section 1386 of this title shall prevent the Secretary from publishing a stock assessment for Gulf of Maine harbor porpoise in an expedited fashion.
 
 (2) In developing and implementing a take reduction plan under section 1387 of this title for Gulf of Maine harbor porpoise, the Secretary shall consider all actions already taken to reduce incidental mortality and serious injury of such stock, and may, based on the recommendations of the take reduction team for such stock, modify the time period required for compliance with section 1387(f)(5)(A) of this title, but in no case may such modification extend the date of compliance beyond April 1, 1997.
 

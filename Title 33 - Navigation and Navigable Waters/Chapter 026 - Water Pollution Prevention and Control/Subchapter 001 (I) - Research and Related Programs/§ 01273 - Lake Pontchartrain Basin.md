@@ -22,7 +22,7 @@ In carrying out the program, the Administrator shall—
 
 &emsp;(5) coordinate the grant, research, and planning programs authorized under this section; and
 
-&emsp;(6) collect and make available to the public publications, and other forms of informationthe management conference determines to be appropriate, relating to the environmental quality of the Basin.
+&emsp;(6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin.
 
 #### (d) Grants
 

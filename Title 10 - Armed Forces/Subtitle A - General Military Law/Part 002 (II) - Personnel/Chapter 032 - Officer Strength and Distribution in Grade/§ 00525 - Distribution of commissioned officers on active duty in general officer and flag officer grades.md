@@ -6,7 +6,7 @@
 
 (2)(A) No appointment may be made in a grade above rear admiral in the Navy if that appointment would result in more than 15.7 percent of the flag officers of the Navy on active duty being in grades above rear admiral. Of the 15.7 percent of flag officers on active duty who may be serving in grades above rear admiral, not more than 25 percent may be serving in the grade of admiral.
 
-(B) No appointment may be made in a grade above major general in the Marine Corps if that appointment would result in more than 16.2 percent of the general officers of the Marine Corps on active duty being in grades above major general.
+(B) No appointment may be made in a grade above major general in the Marine Corps if that appointment would result in more than 17.5 percent of the general officers of the Marine Corps on active duty being in grades above major general.
 
 (3) An officer while serving as Chairman or Vice Chairman of the Joint Chiefs of Staff or as Chief of Staff to the President, if serving in the grade of general or admiral, is in addition to the number that would otherwise be permitted for his armed force for that grade under paragraph (1) or (2).
 
@@ -18,15 +18,15 @@
 
 (B) Subparagraph (A) does not apply in the case of an officer serving in such a position if the Secretary of Defense, when considering officers for recommendation to the President for appointment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that appointment from each Secretary of a military department who (pursuant to section 604(a) of this title) was required to make such a recommendation.
 
-(C) This paragraph shall cease to be effective at the end of September 30, 2003.
-
 (6) An officer while serving as Chief of the National Guard Bureau is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above major general under paragraph (1).
 
 (7) An officer of the Army while serving as Superintendent of the United States Military Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Army for officers serving on active duty in grades above major general under paragraph (1). An officer of the Navy or Marine Corps while serving as Superintendent of the United States Naval Academy, if serving in the grade of vice admiral or lieutenant general, is in addition to the number that would otherwise be permitted for the Navy or Marine Corps, respectively, for officers serving on active duty in grades above major general or rear admiral under paragraph (1) or (2). An officer while serving as Superintendent of the United States Air Force Academy, if serving in the grade of lieutenant general, is in addition to the number that would otherwise be permitted for the Air Force for officers serving on active duty in grades above major general under paragraph (1).
 
+(8) An officer while serving in a position designated by the Secretary of Defense as Senior Military Assistant to the Secretary of Defense, if serving in the grade of lieutenant general or vice admiral, is in addition to the number that otherwise would be permitted for that officer's armed force for that grade under paragraph (1) or (2). Only one officer may be designated as Senior Military Assistant to the Secretary of Defense for purposes of this paragraph.
+
 (c)(1) Subject to paragraph (3), the President—
 
-&emsp;(A) may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and Air Force in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and
+&emsp;(A) may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and AirForce in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and
 
 &emsp;(B) may make appointments in the Navy in the grades of vice admiral and admiral in excess of the applicable numbers determined under subsection (b)(2) if each such appointment is made in conjunction with an offsetting reduction under paragraph (2).
 
@@ -36,13 +36,21 @@
 
 (B) The number of officers that may be serving on active duty in the grades of general and admiral by reason of appointments made under the authority of paragraph (1) may not exceed the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps.
 
-(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted insuch grade in another armed force by reason of that increase shall no longer be in effect.
+(4) Upon the termination of the appointment of an officer in the grade of lieutenant general or vice admiral or general or admiral that was made in connection with an increase under paragraph (1) in the number of officers that may be serving on active duty in that armed force in that grade, the reduction made under paragraph (2) in the number of appointments permitted in such grade in another armed force by reason of that increase shall no longer be in effect.
 
 (d) An officer continuing to hold the grade of general or admiral under section 601(b)(4) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456.)
 
 #### Amendments
+
+2003—Subsec. (b)(5)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “This paragraph shall cease to be effective at the end of December 31, 2004.”
+
+2002—Subsec. (b)(2)(B). Pub. L. 107–314, §404(b), substituted “17.5 percent” for “16.2 percent”.
+
+Subsec. (b)(5)(C). Pub. L. 107–314, §405(b), substituted “December 31, 2004” for “September 30, 2003”.
+
+Subsec. (b)(8). Pub. L. 107–314, §404(a), added par. (8).
 
 2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)(1)\], in first sentence, substituted “Army or Air Force” for “Army, Air Force, or Marine Corps” and “15.7 percent” for “15 percent” and, in second sentence, substituted “Of” for “In the case of the Army and Air Force, of” and “15.7 percent” for “15 percent” and inserted “of the Army or Air Force” after “general officers”.
 
@@ -76,6 +84,10 @@ Subsec. (b)(4). Pub. L. 101–510, §405(a), added par. (4).
 
 1981—Subsec. (a). Pub. L. 97–86 substituted “commodore” for “commodore admiral” in two places.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title IV, §404(d), Dec. 2, 2002, 116 Stat. 2526, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the receipt by Congress of the report required by subsection (c) \[set out below\].”
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under section 101 of this title.
@@ -98,9 +110,25 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §507(i)\], Oct. 30, 2000, 114 Sta
 
 Section 511(b) of Pub. L. 100–180 provided that: “An officer of the Armed Forces on active duty holding an appointment in the grade of lieutenant general or vice admiral or general or admiral on September 30, 1987, shall not have that appointment terminated by reason of the numerical limitations determined under section 525(b) of title 10, United States Code. In the case of an officer of the Marine Corps serving in the grade of general by reason of an appointment authorized by section 511(3) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3869) \[see below\], that appointment shall not be terminated except as provided in section 601 of title 10, United States Code.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Review of Active Duty and Reserve General and Flag Officer Authorizations
+
+Pub. L. 107–314, div. A, title IV, §404(c), Dec. 2, 2002, 116 Stat. 2525, provided that:
+
+“(1) The Secretary of Defense shall submit to Congress a report containing any recommendations of the Secretary (together with the rationale of the Secretary for the recommendations) concerning the following:
+
+&emsp;“(A) Revision of the limitations on general and flag officer grade authorizations and distribution in grade prescribed by sections 525, 526, and 12004 of title 10, United States Code.
+
+&emsp;“(B) Statutory designation of the positions and grades of any additional general and flag officers in the commands specified in chapter 1006 of title 10, United States Code, and the reserve component offices specified in sections 3038, 5143, 5144, and 8038 of such title.
+
+“(2) The provisions of subsection (b) through (e) of section 1213 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2694) shall apply to the report under paragraph (1) in the same manner as they applied to the report required by subsection (a) of that section.”
+
 #### Report on Management of Senior General and Flag Officer Positions
 
-Section 405(d) of Pub. L. 103–337 provided that: “Not later than March 1, 1996, the Secretary of Defense shall submit to Congress a report on the implementation of the amendments made by this section \[enacting sections 528 and 604 of this title and amending this section\]. The report shall include an assessment of the effectiveness of those amendments in meeting the objective of encouraging more competition among all services for appointment of officers to joint three-star and four-star positions. The report may include such additional recommendations concerning general and flagofficer selection policy as the Secretary considers appropriate.”
+Section 405(d) of Pub. L. 103–337 provided that: “Not later than March 1, 1996, the Secretary of Defense shall submit to Congress a report on the implementation of the amendments made by this section \[enacting sections 528 and 604 of this title and amending this section\]. The report shall include an assessment of the effectiveness of those amendments in meeting the objective of encouraging more competition among all services for appointment of officers to joint three-star and four-star positions. The report may include such additional recommendations concerning general and flag officer selection policy as the Secretary considers appropriate.”
 
 #### Temporary Exclusion of Superintendent of Naval Academy From Counting Toward Number of Senior Admirals Authorized To Be on Active Duty
 

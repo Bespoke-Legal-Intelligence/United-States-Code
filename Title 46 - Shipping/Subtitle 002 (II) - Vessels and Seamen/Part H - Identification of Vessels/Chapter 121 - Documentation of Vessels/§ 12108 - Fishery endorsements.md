@@ -116,7 +116,7 @@ Section 4 of Pub. L. 100–239, as amended by Pub. L. 101–225, title III, §31
 
 “(b) A vessel rebuilt under subsection (a)(3)(B) or (4) of this section must be redelivered to the owner before July 28, 1990. However, the Secretary may, on proof of circumstances beyond the control of the owner of a vessel affected by this section, extend the period for rebuilding in a foreign country permitted by this section.
 
-“(c)(1) Any fishery license or registry issued to a vessel built in a foreign country under this section shall be endorsed to restrict the vessel from catching, taking, or harvesting.
+“(c)(1) Any fishery license or registry issued to a vessel built in a foreign country under this section shall beendorsed to restrict the vessel from catching, taking, or harvesting.
 
 “(2) Before being issued a fishery license, any vessel described in subsection (a)(2) of this section must be documented under an application for documentation acceptable to the Secretary filed before July 28, 1987, except that an alternative vessel of no greater tonnage than the vessel in the application may be substituted, if that substitution is made by the original applicant.”
 
@@ -126,7 +126,7 @@ Section 6(c)(3) of Pub. L. 100–239 provided that: “The Secretary, on proof o
 
 #### Definitions
 
-Section 6(d) of Pub. L. 100–239 provided that: “The terms in this Act \[see Short Title of 1988 Amendmentnote set out under section 2101 of this title\] have the same meaning as in subtitle II of title 46, United States Code (as amended by this Act).”
+Section 6(d) of Pub. L. 100–239 provided that: “The terms in this Act \[see Short Title of 1988 Amendment note set out under section 2101 of this title\] have the same meaning as in subtitle II of title 46, United States Code (as amended by this Act).”
 
 #### Application of Weight Limitations to Northern Mariana Islands
 

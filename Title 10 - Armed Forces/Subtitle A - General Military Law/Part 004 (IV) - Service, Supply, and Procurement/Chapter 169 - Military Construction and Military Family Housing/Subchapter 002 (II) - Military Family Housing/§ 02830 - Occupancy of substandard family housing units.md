@@ -10,11 +10,13 @@
 
 &emsp;(A) in the case of a lease by the Secretary of a military department, subject to regulations prescribed by the Secretary of Defense; and
 
-&emsp;(B) in the case of a lease by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, subject to regulations prescribed by that Secretary.
+&emsp;(B) in the case of a lease by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, subject to regulations prescribed by that Secretary.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 99–348, title III, §304(a)(4), July 1, 1986, 100 Stat. 703; Pub. L. 100–180, div. A, title VI, §632(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 105–85, div. A, title VI, §603(d)(2)(B), Nov. 18, 1997, 111 Stat. 1782.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 99–348, title III, §304(a)(4), July 1, 1986, 100 Stat. 703; Pub. L. 100–180, div. A, title VI, §632(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 105–85, div. A, title VI, §603(d)(2)(B), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (b)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1997—Subsec. (a)(1). Pub. L. 105–85, §603(d)(2)(B)(i), substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters”.
 
@@ -26,9 +28,13 @@ Subsec. (b). Pub. L. 100–180, §632(a)(2), (3), designated existing provisions
 
 1986—Subsec. (c). Pub. L. 99–348 struck out subsec. (c) which defined “uniformed services” in this section to mean the armed forces and the commissioned corps of the Public Health Service and of the National Oceanic and Atmospheric Administration. See section 101 of this title.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a noteunder section 5561 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

@@ -32,7 +32,7 @@
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserveor an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve;
 
@@ -70,7 +70,7 @@
 
 (2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be considered entitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
 
-(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title.Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (c).
+(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (c).
 
 (2) An individual covered by paragraph (1) may make the contributions authorized by that paragraph at any time while on active duty, but not more frequently than monthly.
 
@@ -130,7 +130,7 @@ Subsec. (d)(3). Pub. L. 104–201, §556(b)(2), added par. (3).
 
 1993—Subsec. (b)(1)(B)(iii). Pub. L. 103–160 substituted “September 30, 1999” for “September 30, 1995”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(2), substituted “at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continuedon active duty without a break in service” for “on October 19, 1984, and without a break in service since October 19, 1984,”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(2), substituted “at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service” for “on October 19, 1984, and without a break in service since October 19, 1984,”.
 
 Subsec. (a)(2). Pub. L. 102–568, §303(a)(2)(A), inserted “except as provided in subsection (f) of this section,” after “who,”.
 

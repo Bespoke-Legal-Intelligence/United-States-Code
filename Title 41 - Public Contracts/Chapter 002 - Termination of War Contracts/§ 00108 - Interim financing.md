@@ -26,7 +26,7 @@ The Administrator of General Services shall prescribe (1) the types of estimates
 
 #### (d) Penalty for overstatement of claims
 
-In case of an overstatement by any war contractor of the amount due on his termination claim or claims in connection with any interim financing under this chapter, such contractor shall pay to the United States, as a penalty, an amount equal to 6 per centum of the amount of the overstatement, but the Administrator of General Services may suspend or modify any such penalty if in his opinion the imposition thereof would be inequitable. Any penalty may be deducted from any amounts due the war contractor upon such termination claim or claims, or otherwise, or may be collected from the war contractor by suit. The obligation to pay any penalty imposed and to repay any interim financing made or assumed by the United States under this chapter shall constitute a debt due to the United States within the meaning of section 3713(a) of title 31.
+In case of an overstatement by any war contractor of the amount due on his termination claim or claims in connection with any interim financing under this chapter, such contractor shall pay to the United States, as a penalty, an amount equal to 6 per centum of the amount of the overstatement, but the Administrator of General Services may suspend or modify any such penalty if in his opinion the imposition thereof would be inequitable. Any penalty may be deducted from any amounts due the war contractor upon such termination claim or claims, or otherwise, or may be collected from the war contractor by suit. The obligation to pay any penalty imposed and to repay any interim financing made or assumed by the United Statesunder this chapter shall constitute a debt due to the United States within the meaning of section 3713(a) of title 31.
 
 #### (e) Advance payments as part of termination settlement
 
@@ -38,7 +38,7 @@ No interim financing shall be made by any contracting agency under this chapter 
 
 #### (g) Settlement of claims; validation of prior financing
 
-Any contracting agency may settle, upon such terms and conditions as it deems proper, any claim or obligation due by or to the Government arising from or related to any interim financing made, acquired, or authorized by it. Any interimfinancing made, acquired, or authorized by any contracting agency before July 21, 1944, shall be valid to the extent it would be authorized under the provisions of this chapter if made after its effective date.
+Any contracting agency may settle, upon such terms and conditions as it deems proper, any claim or obligation due by or to the Government arising from or related to any interim financing made, acquired, or authorized by it. Any interim financing made, acquired, or authorized by any contracting agency before July 21, 1944, shall be valid to the extent it would be authorized under the provisions of this chapter if made after its effective date.
 
 (July 1, 1944, ch. 358, §8, 58 Stat. 655; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 

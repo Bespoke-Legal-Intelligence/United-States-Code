@@ -10,7 +10,7 @@ The Secretary is authorized, when he finds it appropriate, to provide for the pr
 
 (2) The Director of the United States Information Agency shall be reimbursed for any attendant expenses. Any reimbursement to the Director pursuant to this subsection shall be credited to the applicable appropriation of the United States Information Agency.
 
-(3) The Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release. The Archivist may charge fees to recover such costs,in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
+(3) The Archivist shall be the official custodian of the material and shall issue necessary regulations to ensure that persons seeking its release in the United States have secured and paid for necessary United States rights and licenses and that all costs associated with the provision of the material by the Archivist shall be paid by the persons seeking its release. The Archivist may charge fees to recover such costs, in accordance with section 2116(c) of title 44. Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 
 (Jan. 27, 1948, ch. 36, title V, §501, 62 Stat. 9; Pub. L. 92–352, title II, §204, July 13, 1972, 86 Stat. 494; Pub. L. 96–60, title II, §208, Aug. 15, 1979, 93 Stat. 401; Pub. L. 101–246, title II, §202, Feb. 16, 1990, 104 Stat. 49.)
 
@@ -44,7 +44,7 @@ Pub. L. 101–246, title II, §233, Feb. 16, 1990, 104 Stat. 57, provided that: 
 
 #### USIA Posts and Personnel Overseas
 
-Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, in case of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
+Pub. L. 100–204, title II, §204, Dec. 22, 1987, 101 Stat. 1373, prohibited use of appropriated funds to pay expenses associated with closing of United States Information Agency posts abroad or to pay expenses associated with Bureau of Management or with television and film service of Agency if an Agency post abroad was closed after Apr. 1, 1987, and not reopened within 180 days after Dec. 22, 1987, placed limitation on reduction of number of positions filled by American employees of Agency stationed abroad, authorized waiver of both prohibition and limitation, and permitted Director, incase of a sequestration order, to submit a report to congressional committees proposing a list of Agency posts to be downgraded or closed in order to comply with sequestration order, prior to repeal by Pub. L. 102–138, title II, §206(c), Oct. 28, 1991, 105 Stat. 693. See section 1475g of this title.
 
 #### Redesignation of International Communication Agency as United States Information Agency
 
@@ -70,7 +70,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Transfer of Functions
 
-(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functions vested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1461, 1462\], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act \[22 U.S.C. 1447, 1448\] as is an integral part of information programs under that Act \[22 U.S.C. 1431–1479\], together with so much of the functions vested in the Secretary of State by other provisions of the said Act \[22 U.S.C. 1431–1479\] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related tofunctions of the Secretary of State with respect to information programs relating to Germany and Austria.\]
+(a) Subject to subsection (c) of this section, there are hereby transferred to the Director (1) the functions vested in the Secretary of State by Title V of the United States Information and Educational Exchange Act of 1948, as amended \[22 U.S.C. 1461, 1462\], and so much of functions with respect to the interchange of books and periodicals and aid to libraries and community centers under sections 202 and 203 of the said Act \[22 U.S.C. 1447, 1448\] as is an integral part of information programs under that Act \[22 U.S.C. 1431–1479\], together with so much of the functions vested in the Secretary of State by other provisions of the said Act \[22 U.S.C. 1431–1479\] as is incidental to or is necessary for the performance of the functions under Title V and sections 202 and 203 transferred by this section, and (2) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Paragraph related to functions of the Secretary of State with respect to information programs relating to Germany and Austria.\]
 
 (b) \[Superseded. Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639. Subsection related to the transfer to the Director of functions vested in the Director for Mutual Security by the Mutual Security Act of 1951, as amended, act Oct. 10, 1951, ch. 479, 65 Stat. 373, which related to foreign information programs, as formerly provided for in section 1652 of this title.\]
 
@@ -144,7 +144,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 7. Transfer of Functions
 
-(a) There are hereby transferred to the Director all functions vested in the President, the Secretary of State, the Department of State, the Director of theUnited States Information Agency, and the United States Information Agency pursuant to the following:
+(a) There are hereby transferred to the Director all functions vested in the President, the Secretary of State, the Department of State, the Director of the United States Information Agency, and the United States Information Agency pursuant to the following:
 
 (1) the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1431–1479), except to the extent that any function in sections 302, 401, or 602 \[22 U.S.C. 1452, 1456, or 1467\] is vested in the President;
 
@@ -308,7 +308,7 @@ Section 1. (a) Reorganization Plan No. 2 of 1977 (42 FR 62461), which establishe
 
 Sec. 2. The functions vested in the Secretary of State by Executive Order No. 11312 are assigned and redelegated to the Director of the International Communication Agency. All authority vested in the United States Information Agency or its Director by Executive order is reassigned and redelegated to the International Communication Agency or its Director, respectively.
 
-Sec. 3. In order to ensure appropriate coordination among the Executive agencies, the Director of the International Communication Agency shall exercise primary responsibility for Government-wide policyguidance for international informational, educational, and cultural activities, including exchange programs. The Director shall take into account the statutory functions of the other concerned Executive agencies.
+Sec. 3. In order to ensure appropriate coordination among the Executive agencies, the Director of the International Communication Agency shall exercise primary responsibility for Government-wide policy guidance for international informational, educational, and cultural activities, including exchange programs. The Director shall take into account the statutory functions of the other concerned Executive agencies.
 
 Sec. 4. The Director of the International Communication Agency, with the assistance of the Secretary of Education, shall prepare and submit to the President the reports which the President is to transmit to the Congress pursuant to Section 108(b) of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2458).
 

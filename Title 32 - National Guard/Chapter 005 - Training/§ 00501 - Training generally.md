@@ -106,7 +106,7 @@ Pub. L. 104–106, div. A, title V, §573, Feb. 10, 1996, 110 Stat. 355, provide
 
 “(a)
 
-Termination.—The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 32 U.S.C. 501 note) to carry out a pilot program under that section is hereby continued through the end of the 18-month period beginning on the date of the enactmentof this Act \[Feb. 10, 1996\] and such authority shall terminate as of the end of that period.
+Termination.—The authority under subsection (a) of section 1091 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 32 U.S.C. 501 note) to carry out a pilot program under that section is hereby continued through the end of the 18-month period beginning on the date of the enactment of this Act \[Feb. 10, 1996\] and such authority shall terminate as of the end of that period.
 
 “(b)
 

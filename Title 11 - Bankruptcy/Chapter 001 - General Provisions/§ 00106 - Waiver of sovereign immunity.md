@@ -32,7 +32,7 @@ There is, however, a limited change from the result that would prevail in the ab
 
 Second, the estate may offset against the allowed claim of a governmental unit, up to the amount of the governmental unit's claim, any claim that the debtor, and thus the estate, has against the governmental unit, without regard to whether the estate's claim arose out of the same transaction or occurrence as the government's claim. Under this provision, the setoff permitted is only to the extent of the governmental unit's claim. No affirmative recovery is permitted. Subsection (a) governs affirmative recovery.
 
-Though this subsection creates a partial waiver of immunity when the governmental unit files a proof of claim, it does not waive immunity if the debtor or trustee, and not the governmental unit, files proof of a governmental unit's claim under proposed 11 U.S.C. 501(c).
+Though this subsection creates a partial waiver of immunity when the governmental unit files a proof of claim, it does not waive immunity if the debtor or trustee, and not the governmental unit, files proof of agovernmental unit's claim under proposed 11 U.S.C. 501(c).
 
 This section does not confer sovereign immunity on any governmental unit that does not already have immunity. It simply recognizes any immunity that exists and prescribes the proper treatment of claims by and against that sovereign.
 

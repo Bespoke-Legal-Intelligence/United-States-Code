@@ -6,7 +6,7 @@
 
 &emsp;(1) A Superintendent.
 
-&emsp;(2) A dean of the Faculty, who is a permanent professor.
+&emsp;(2) A Dean of the Faculty.
 
 &emsp;(3) A Commandant of Cadets.
 
@@ -16,7 +16,7 @@
 
 &emsp;(6) A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 85–600, §1(19), Aug. 6, 1958, 72 Stat. 523; Pub. L. 96–513, title V, §514(10), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 101–189, div. A, title V, §515(a)(1), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 102–484, div. A, title V, §523(b), Oct. 23, 1992, 106 Stat. 2410; Pub. L. 103–160, div. A, title V, §533(b)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 108–136, div. A, title V, §529(c)(1), Nov. 24, 2003, 117 Stat. 1471.)
 
 Historical and Revision Notes
 
@@ -52,11 +52,13 @@ June 26, 1946, ch. 495, §§1, 3 (1st 20 words), 60 Stat. 312.
 
 Apr. 1, 1954, ch. 127, §§2, 5, 68 Stat. 47, 48.
 
-In subsection (b), reference to the senior instructors of artillery, cavalry, and infantry, and the master of the sword, in 10:1061, are omitted as obsolete. The names of the other departments are omitted as inapplicable to the Air Force. The departmental names will be established under section 9332 of this title. The words “and one assistant professor”, in 10:1061, are omitted as superseded by section 9333 of this title. 10:1061 (words before colon) is omitted as inapplicable to the Air Force. 10:1854 (less last sentence) is omitted as executed by the inclusion in this chapter of the laws applicable to the Air Force Academy. 10:1087 (proviso) is omitted as inapplicable to the Air Force.
+In subsection (b), reference to the senior instructors of artillery, cavalry, and infantry, and the master ofthe sword, in 10:1061, are omitted as obsolete. The names of the other departments are omitted as inapplicable to the Air Force. The departmental names will be established under section 9332 of this title. The words “and one assistant professor”, in 10:1061, are omitted as superseded by section 9333 of this title. 10:1061 (words before colon) is omitted as inapplicable to the Air Force. 10:1854 (less last sentence) is omitted as executed by the inclusion in this chapter of the laws applicable to the Air Force Academy. 10:1087 (proviso) is omitted as inapplicable to the Air Force.
 
 Subsection (b)(3) is based on those laws establishing the various departments at the United States Military Academy (see revision note for section 4331 of this title).
 
 #### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–136 substituted “Dean of the Faculty” for “dean of the Faculty, who is a permanent professor”.
 
 1993—Subsec. (c). Pub. L. 103–160 struck out subsec. (c) which read as follows:
 
@@ -70,9 +72,13 @@ Subsection (b)(3) is based on those laws establishing the various departments at
 
 1989—Subsec. (b)(6). Pub. L. 101–189 substituted “director of admissions” for “registrar”.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “(hereinafter in this chapter referred to as the ‘Academy’)” for “, in this chapter called the ‘Academy’,”.
+1980—Subsec. (a). Pub. L. 96–513 substituted “(hereinafter in this chapter referred to as the ‘Academy’)” for “, in this chapter called the ‘Academy’,”.
 
 1958—Subsec. (b)(6). Pub. L. 85–600 added par. (6).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title V, §529(d), Nov. 24, 2003, 117 Stat. 1472, provided that: “The amendments made by this section \[amending this section and sections 9335 and 9336 of this title\] shall apply with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
 #### Effective Date of 1980 Amendment
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) a description of high-quality student academic assessments, if any, that are in addition to the academic assessments described in the State plan under section 6311(b)(3) of this title, that the local educational agency and schools served under this part will use—
 
-&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievement standards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
+&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievementstandards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
 
 &emsp;&emsp;&emsp;(ii) to assist in diagnosis, teaching, and learning in the classroom in ways that best enable low-achieving children served under this part to meet State student achievement academic standards and do well in the local curriculum;
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) a description of how the local educational agency will provide additional educational assistance to individual students assessed as needing help in meeting the State's challenging student academic achievement standards;
 
-&emsp;&emsp;(D) a description of the strategy the local educational agency will use to coordinate programs under this part with programs under subchapter II of this chapter to provide professional development for teachers and principals, and, if appropriate, pupilservices personnel, administrators, parents and other staff, including local educational agency level staff in accordance with sections 6318 and 6319 of this title;
+&emsp;&emsp;(D) a description of the strategy the local educational agency will use to coordinate programs under this part with programs under subchapter II of this chapter to provide professional development for teachers and principals, and, if appropriate, pupil services personnel, administrators, parents and other staff, including local educational agency level staff in accordance with sections 6318 and 6319 of this title;
 
 &emsp;&emsp;(E) a description of how the local educational agency will coordinate and integrate services provided under this part with other educational services at the local educational agency or individual school level, such as—
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
 
-&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 ofthis title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
+&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 of this title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
 
 &emsp;&emsp;(E) provide services to eligible children attending private elementary schools and secondary schools in accordance with section 6320 of this title, and timely and meaningful consultation with private school officials regarding such services;
 
@@ -140,7 +140,7 @@
 
 #### (2) Approval
 
-&emsp;The State educational agency shall approve a local educational agency's plan only if theState educational agency determines that the local educational agency's plan—
+&emsp;The State educational agency shall approve a local educational agency's plan only if the State educational agency determines that the local educational agency's plan—
 
 &emsp;&emsp;(A) enables schools served under this part to substantially help children served under this part meet the academic standards expected of all children described in section 6311(b)(1) of this title; and
 
@@ -188,7 +188,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (B) Separate notification
 
-&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for any fiscal year for which part A <sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
+&emsp;&emsp;In addition to providing the information required to be provided under paragraph (1), each eligible entity that is using funds provided under this part to provide a language instruction educational program, and that has failed to make progress on the annual measurable achievement objectives described in section 6842 of this title for anyfiscal year for which part A <sup>1</sup> is in effect, shall separately inform a parent or the parents of a child identified for participation in such program, or participating in such program, of such failure not later than 30 days after such failure occurs.
 
 #### (2) Notice
 

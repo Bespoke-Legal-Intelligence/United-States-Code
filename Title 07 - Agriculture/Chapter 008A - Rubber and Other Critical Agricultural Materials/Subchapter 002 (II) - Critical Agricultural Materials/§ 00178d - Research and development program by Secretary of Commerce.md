@@ -14,7 +14,7 @@ The Secretary of Commerce is authorized and directed to initiate and carry out r
 
 &emsp;(f) developing pertinent material and records on manufacturing of natural rubber which shall be available to other Federal and State agencies and private persons who are interested in or involved in natural rubber development, or manufacture; and
 
-&emsp;(g) to the extent appropriate, carrying out research activities with respect to native agricultural crops (other than Parthenium and other hydrocarbon-containing plants) thatwould supply critical agricultural materials for strategic and industrial purposes, in the manner specified in clauses (a) through (f).
+&emsp;(g) to the extent appropriate, carrying out research activities with respect to native agricultural crops (other than Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, in the manner specified in clauses (a) through (f).
 
 (Pub. L. 95–592, §6, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, §6, May 16, 1984, 98 Stat. 183.)
 

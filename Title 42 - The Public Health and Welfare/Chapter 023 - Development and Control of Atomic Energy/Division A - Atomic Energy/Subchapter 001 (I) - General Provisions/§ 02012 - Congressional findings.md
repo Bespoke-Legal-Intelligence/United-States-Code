@@ -28,7 +28,7 @@ Provisions similar to those comprising this section were contained in section 1 
 
 #### Amendments
 
-1964—Subsec. (b). Pub. L. 88–489, §1, struck out subsec. (b) which found that use of United States property by others must be regulated in national interest and in order to provide for common defense and security and to protect health and safety of public.
+1964—Subsec. (b). Pub. L. 88–489, §1, struck out subsec. (b) which found that use of United States property by others must be regulated in national interest and inorder to provide for common defense and security and to protect health and safety of public.
 
 Subsec. (h). Pub. L. 88–489, §2, struck out subsec. (h) which found it essential to common defense and security that title to all special nuclear material be in United States while such special nuclear material is within United States.
 

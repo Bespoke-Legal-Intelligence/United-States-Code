@@ -6,7 +6,7 @@ No duty-free treatment provided under this subchapter shall remain in effect aft
 
 #### Prior Provisions
 
-A prior section 2465, Pub. L. 93–618, title V, §505, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 98–573, title V, §506(a), Oct.30, 1984, 98 Stat. 3023; Pub. L. 103–66, title XIII, §13802(b)(1), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–465, title VI, §601(a), Dec. 8, 1994, 108 Stat. 4990, related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by Pub. L. 104–188.
+A prior section 2465, Pub. L. 93–618, title V, §505, Jan. 3, 1975, 88 Stat. 2071; Pub. L. 98–573, title V, §506(a), Oct. 30, 1984, 98 Stat. 3023; Pub. L. 103–66, title XIII, §13802(b)(1), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–465, title VI, §601(a), Dec. 8, 1994, 108 Stat. 4990, related to termination of duty-free treatment and reports, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Pub. L. 105–277, div. J, title I, §1011(b), Oct. 21, 1998, 112 Stat. 2681–9
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section\] apply to articles entered on or after the date of the enactment of this Act \[Oct. 21, 1998\].
+In general.—The amendments made by this section \[amending this section\] apply to articles enteredon or after the date of the enactment of this Act \[Oct. 21, 1998\].
 
 “(2)
 

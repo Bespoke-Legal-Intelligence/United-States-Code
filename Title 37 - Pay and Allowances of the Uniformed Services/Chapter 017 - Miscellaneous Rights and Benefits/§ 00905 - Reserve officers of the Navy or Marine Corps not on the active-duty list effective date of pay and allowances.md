@@ -80,7 +80,7 @@ Historical and Revision Notes
 
 Subsec. (b). Pub. L. 103–337, §1676(b)(3)(B), substituted “section 14308(b)” for “section 5908”.
 
-1980—Pub. L. 96–513 substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances” in section catchline, and generally revised and restructured section, and as part of such restructuring struck out former subsec. (a), redesignated former subsecs. (b) and (c) as subsecs. (a) and (b), respectively,and, in subsec. (a) as so redesignated, struck out second sentence which related to establishment of an officer's professional and moral qualifications, and struck out former subsecs. (d) to (h).
+1980—Pub. L. 96–513 substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances” in section catchline, and generally revised and restructured section, and as part of such restructuring struck out former subsec. (a), redesignated former subsecs. (b) and (c) as subsecs. (a) and (b), respectively, and, in subsec. (a) as so redesignated, struck out second sentence which related to establishment of an officer's professional and moral qualifications, and struck out former subsecs. (d) to (h).
 
 1978—Subsec. (h). Pub. L. 95–377 inserted reference to section 5787d.
 

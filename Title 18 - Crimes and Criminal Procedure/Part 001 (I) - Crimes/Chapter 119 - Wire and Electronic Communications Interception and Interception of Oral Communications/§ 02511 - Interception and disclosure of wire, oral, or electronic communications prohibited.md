@@ -130,7 +130,7 @@
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense.Section 101 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), is classified to section 1801 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(e), (f), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. Section 101 of the Foreign Intelligence Surveillance Act of 1978, referred to in par. (2)(a)(ii), (e), and (f), is classified to section 1801 of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par. (2)(e), (f), (g)(iii), are classified to sections 553, 605, and 606 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, respectively.
 
@@ -138,7 +138,7 @@ Sections 633, 705, and 706 of the Communications Act of 1934, referred to in par
 
 2002—Par. (2)(a)(ii). Pub. L. 107–296, §225(h)(2), inserted “, statutory authorization,” after “terms of a court order” in concluding provisions.
 
-Par. (4)(b), (c). Pub. L. 107–296, §225(j)(1), redesignated subpar. (c) as (b) and struck out former subpar. (b) which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
+Par. (4)(b), (c). Pub. L. 107–296, §225(j)(1), redesignated subpar. (c) as (b) and struck out former subpar. (b)which read as follows: “If the offense is a first offense under paragraph (a) of this subsection and is not for a tortious or illegal purpose or for purposes of direct or indirect commercial advantage or private commercial gain, and the wire or electronic communication with respect to which the offense under paragraph (a) is a radio communication that is not scrambled, encrypted, or transmitted using modulation techniques the essential parameters of which have been withheld from the public with the intention of preserving the privacy of such communication, then—
 
 &emsp;“(i) if the communication is not the radio portion of a cellular telephone communication, a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit, a public land mobile radio service communication or a paging service communication, and the conduct is not that described in subsection (5), the offender shall be fined under this title or imprisoned not more than one year, or both; and
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Termination Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effectwith respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to courtorder or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
 #### Effective Date of 1984 Amendment
 

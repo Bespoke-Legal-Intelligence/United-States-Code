@@ -2,7 +2,7 @@
 
 #### (a) Organization of Corporation prerequisite to receipt of patent to lands or benefits under chapter
 
-The Native residents of each Native village entitled to receive lands and benefits under this chapter shall organize as a business for profit or nonprofit corporation under the laws of theState before the Native village may receive patent to lands or benefits under this chapter, except as otherwise provided.
+The Native residents of each Native village entitled to receive lands and benefits under this chapter shall organize as a business for profit or nonprofit corporation under the laws of the State before the Native village may receive patent to lands or benefits under this chapter, except as otherwise provided.
 
 #### (b) Regional Corporation: approval of initial articles; review and approval of amendments to articles and annual budgets; assistance in preparation of articles and other documents
 

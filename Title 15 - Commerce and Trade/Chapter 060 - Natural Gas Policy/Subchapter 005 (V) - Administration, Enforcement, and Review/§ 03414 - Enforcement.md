@@ -8,7 +8,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that anyperson is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
+&emsp;Except as provided in paragraph (2), whenever it appears to the Commission that any person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of any provision of this chapter, or of any rule or order thereunder, the Commission may bring an action in the District Court of the United States for the District of Columbia or any other appropriate district court of the United States to enjoin such act or practice and to enforce compliance with this chapter, or any rule or order thereunder.
 
 #### (2) Enforcement of emergency orders
 
@@ -48,7 +48,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (D) Statute of limitations
 
-&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
+&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constitutingsuch violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
 
 #### (E) Assessed by Commission
 

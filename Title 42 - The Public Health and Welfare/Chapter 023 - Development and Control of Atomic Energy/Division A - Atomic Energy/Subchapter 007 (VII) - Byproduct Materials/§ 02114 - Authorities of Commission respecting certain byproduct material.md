@@ -28,7 +28,7 @@ In the case of sites at which ores are processed primarily for their source mate
 
 #### References in Text
 
-The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of Pub. L. 89–272, asamended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, as amended, referred to in subsec. (a)(3), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ The provisions of this subchapter, relating to the filing, publication, approval
 
 #### (c) Collection and payment of charges
 
-Charges authorized to be made under this section shall be collected by the market agency or other person receiving and disbursing the funds received from the sale of livestock with respect to the inspection of which such charge is made, and paid by it to the department, agency, or association performing such service.
+Charges authorized to be made under this section shall be collected by the market agency orother person receiving and disbursing the funds received from the sale of livestock with respect to the inspection of which such charge is made, and paid by it to the department, agency, or association performing such service.
 
 #### (d) Revocation of authorization or registration
 
@@ -24,7 +24,7 @@ Former provisions relating to fees for inspection of brands appearing upon lives
 
 #### Administrative Orders Review Act
 
-Court of appeals exclusive jurisdiction respecting final orders of Secretary of Agriculture under this chapter, except orders issued under section 210(e) ofthis title and this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
+Court of appeals exclusive jurisdiction respecting final orders of Secretary of Agriculture under this chapter, except orders issued under section 210(e) of this title and this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

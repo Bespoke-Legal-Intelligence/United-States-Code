@@ -8,7 +8,7 @@ It is the further policy of the Congress that certain persons addicted to narcot
 
 #### Codification
 
-Section was not enacted as part of the Narcotic Addict Rehabilitation Act of 1966, which is classified to subchapters II and III of this chapter, chapter 314 (section 4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (section 2901 et seq.) of Title 28, Judiciary and Judicial Procedure.
+Section was not enacted as part of the Narcotic Addict Rehabilitation Act of 1966, which is classified tosubchapters II and III of this chapter, chapter 314 (section 4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (section 2901 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

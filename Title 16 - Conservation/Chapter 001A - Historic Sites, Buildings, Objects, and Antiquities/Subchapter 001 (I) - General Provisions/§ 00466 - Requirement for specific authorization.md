@@ -14,7 +14,7 @@ Nothing in this section shall prohibit or limit the expenditure or obligation of
 
 #### (c) Authorization of appropriations
 
-Except as provided by subsection (a) of this section, there is authorized to be appropriatedfor carrying out the purposes of sections 461 to 467 of this title such sums as the Congress may from time to time determine.
+Except as provided by subsection (a) of this section, there is authorized to be appropriated for carrying out the purposes of sections 461 to 467 of this title such sums as the Congress may from time to time determine.
 
 (Aug. 21, 1935, ch. 593, §6, 49 Stat. 668; Pub. L. 102–575, title XL, §4023, Oct. 30, 1992, 106 Stat. 4768.)
 

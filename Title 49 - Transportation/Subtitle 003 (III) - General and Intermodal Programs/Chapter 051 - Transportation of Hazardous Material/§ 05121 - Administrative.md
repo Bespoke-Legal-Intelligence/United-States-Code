@@ -92,7 +92,7 @@ In subsection (a), the words “to the extent necessary . . . his responsibili
 
 In subsection (b), before clause (1), the words “requirements under” are omitted as surplus. In clause (1), the words “establish and” are omitted as surplus. The word “requires” is substituted for “prescribe” for clarity and consistency.
 
-In subsection (c)(1), before clause (A), the words “enter upon . . . and examine” and “of persons to the extent such records and properties” are omitted as surplus. In clause (B), the words “or shipment by any person” are omitted as surplus.
+In subsection (c)(1), before clause (A), the words “enter upon . . . and examine” and “of persons to theextent such records and properties” are omitted as surplus. In clause (B), the words “or shipment by any person” are omitted as surplus.
 
 In subsection (d)(1), before clause (A), the words “establish and” are omitted as executed. In clause (B), the words “capable of” are substituted for “so as to be able to” to eliminate unnecessary words. The words “technical and other” and “of communities” are omitted as surplus. The words “and employees” are added for consistency in the revised title and with other titles of the Code. In clause (C), the words “in order” and “to be able to” are omitted as surplus.
 

@@ -118,7 +118,7 @@ For purposes of this part, the term “governmental plan” means a plan establi
 
 #### (C) Effect on non-denominational plans
 
-&emsp;&emsp;If a duly ordained, commissioned, or licensed minister of a church in the exercise of his or her ministry participates in a church plan (within the meaning of this section) and in the exercise of such ministry is employed by an employer not otherwise participating in such church plan, then such employer may exclude such minister from being treated as an employee of such employer for purposes of applying sections 401(a)(3), 401(a)(4), and 401(a)(5), as in effect on September 1, 1974, and sections 401(a)(4), 401(a)(5), 401(a)(26), 401(k)(3), 401(m), 403(b)(1)(D) (including section 403(b)(12)), and 410 to any stock bonus, pension, profit-sharing, or annuity plan (including an annuity described in section 403(b) or a retirement income account described in section 403(b)(9)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of, and prevent the abuse of, this subparagraph.
+&emsp;&emsp;If a duly ordained, commissioned, or licensed minister of a church in the exerciseof his or her ministry participates in a church plan (within the meaning of this section) and in the exercise of such ministry is employed by an employer not otherwise participating in such church plan, then such employer may exclude such minister from being treated as an employee of such employer for purposes of applying sections 401(a)(3), 401(a)(4), and 401(a)(5), as in effect on September 1, 1974, and sections 401(a)(4), 401(a)(5), 401(a)(26), 401(k)(3), 401(m), 403(b)(1)(D) (including section 403(b)(12)), and 410 to any stock bonus, pension, profit-sharing, or annuity plan (including an annuity described in section 403(b) or a retirement income account described in section 403(b)(9)). The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of, and prevent the abuse of, this subparagraph.
 
 #### (D) Compensation taken into account only once
 
@@ -186,7 +186,7 @@ For purposes of this part, the term “plan administrator” means—
 
 #### (2) Designation by units of government
 
-&emsp;For purposes of paragraph (1), in the case of any plan established by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, where the contributions of employing units are designated as employee contributions but where any employing unit picks up the contributions, the contributions so picked up shall be treated as employer contributions.
+&emsp;For purposes of paragraph (1), in the case of any plan established by the government of anyState or political subdivision thereof, or by any agency or instrumentality of any of the foregoing, where the contributions of employing units are designated as employee contributions but where any employing unit picks up the contributions, the contributions so picked up shall be treated as employer contributions.
 
 #### (i) Defined contribution plan
 
@@ -422,7 +422,7 @@ A defined benefit plan which provides a benefit derived from employer contributi
 
 &emsp;&emsp;&emsp;The term “nonhighly compensated work force” means the aggregate number of individuals (other than highly compensated employees)—
 
-&emsp;&emsp;&emsp;&emsp;(I) who are employees of the recipient (without regard to this subsection) and have performed services for the recipient\(or for the recipient and related persons) on a substantially full-time basis for a period of at least 1 year, or
+&emsp;&emsp;&emsp;&emsp;(I) who are employees of the recipient (without regard to this subsection) and have performed services for the recipient (or for the recipient and related persons) on a substantially full-time basis for a period of at least 1 year, or
 
 &emsp;&emsp;&emsp;&emsp;(II) who are leased employees with respect to the recipient (determined without regard to this paragraph).
 
@@ -514,7 +514,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;&emsp;(ii) as if the participant had retired on the date on which such payment is to begin under such order (but taking into account only the present value of the benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
 
-&emsp;&emsp;&emsp;(iii) in any form in which such benefits may be paid under the plan to the participant (other than in the form of a joint andsurvivor annuity with respect to the alternate payee and his or her subsequent spouse).
+&emsp;&emsp;&emsp;(iii) in any form in which such benefits may be paid under the plan to the participant (other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
 
 > &emsp;&emsp;For purposes of clause (ii), the interest rate assumption used in determining the present value shall be the interest rate specified in the plan or, if no rate is specified, 5 percent.
 
@@ -534,7 +534,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;To the extent provided in any qualified domestic relations order—
 
-&emsp;&emsp;(A) the former spouse of a participant shall be treated as a surviving spouse of such participant for purposes of sections 401(a)(11) and 417 (and any spouse of the participant shall not be treated as a spouse of the participant for such purposes), and
+&emsp;&emsp;(A) the former spouse of a participant shall be treated as a surviving spouse of such participant for purposes of sections 401(a)(11)and 417 (and any spouse of the participant shall not be treated as a spouse of the participant for such purposes), and
 
 &emsp;&emsp;(B) if married for at least 1 year, the surviving former spouse shall be treated as meeting the requirements of section 417(d).
 
@@ -700,7 +700,7 @@ For purposes of this subsection and section 401(a)(13)—
 
 &emsp;&emsp;The requirements of subparagraph (A) shall be treated as met with respect to any line of business if such requirements were met with respect to such line of business for the preceding year and if—
 
-&emsp;&emsp;&emsp;(i) no more than a de minimis number of employees were shifted to or from the line of business after the close of the preceding year, or
+&emsp;&emsp;&emsp;(i) no more than a de minimis number of employees were shifted to or from the lineof business after the close of the preceding year, or
 
 &emsp;&emsp;&emsp;(ii) the employees shifted to or from the line of business after the close of the preceding year contained a substantially proportional number of highly compensated employees.
 
@@ -764,7 +764,7 @@ For purposes of any applicable provision—
 
 &emsp;If any contribution is made by an employer or an employee under an individual account plan with respect to an employee, or by an employee to a defined benefit plan that provides for employee contributions, and such contribution is required by reason of such employee's rights under chapter 43 of title 38, United States Code, resulting from qualified military service, then—
 
-&emsp;&emsp;(A) such contribution shall not be subject to any otherwise applicable limitation contained in section 402(g), 402(h), 403(b), 404(a), 404(h), 408, 415, or 457, and shall not be taken into account in applying such limitations to other contributions or benefits under suchplan or any other plan, with respect to the year in which the contribution is made,
+&emsp;&emsp;(A) such contribution shall not be subject to any otherwise applicable limitation contained in section 402(g), 402(h), 403(b), 404(a), 404(h), 408, 415, or 457, and shall not be taken into account in applying such limitations to other contributions or benefits under such plan or any other plan, with respect to the year in which the contribution is made,
 
 &emsp;&emsp;(B) such contribution shall be subject to the limitations referred to in subparagraph (A) with respect to the year to which the contribution relates (in accordance with rules prescribed by the Secretary), and
 
@@ -824,7 +824,7 @@ For purposes of any applicable provision—
 
 &emsp;&emsp;(A) the compensation the employee would have received during such period if the employee were not in qualified military service, determined based on the rate of pay the employee would have received from the employer but for absence during the period of qualified military service, or
 
-&emsp;&emsp;(B) if the compensation the employee would have received during such period was not reasonably certain, the employee's average compensation from the employer duringthe 12-month period immediately preceding the qualified military service (or, if shorter, the period of employment immediately preceding the qualified military service).
+&emsp;&emsp;(B) if the compensation the employee would have received during such period was not reasonably certain, the employee's average compensation from the employer during the 12-month period immediately preceding the qualified military service (or, if shorter, the period of employment immediately preceding the qualified military service).
 
 #### (8) USERRA requirements for qualified retirement plans
 
@@ -968,7 +968,7 @@ $2,500.
 
 #### (B) Aggregation
 
-&emsp;&emsp;For purposes of subparagraph (A), all plans maintained by employers who are treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 plan, except that a plan described in clause (i) of section 410(b)(6)(C) shall not be treated as a plan of the employer until the expiration of the transition period with respect to such plan (as determined under clause (ii) of such section).
+&emsp;&emsp;For purposes of subparagraph (A), all plans maintained by employers who are treated as a single employer under subsection (b), (c),\(m), or (<i>o</i>) of section 414 shall be treated as 1 plan, except that a plan described in clause (i) of section 410(b)(6)(C) shall not be treated as a plan of the employer until the expiration of the transition period with respect to such plan (as determined under clause (ii) of such section).
 
 #### (5) Eligible participant
 
@@ -1010,7 +1010,7 @@ $2,500.
 
 #### References in Text
 
-The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–444, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–444, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
 The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
@@ -1394,7 +1394,7 @@ Family aggregation.—The amendments made by subsection (b) \[amending this sect
 
 Section 1434(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and section 415 of this title\] shall apply to years beginning after December 31, 1997.”
 
-Section 1454(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996, but shall not apply to any relationship determined under an Internal Revenue Service ruling issued before the date of the enactment of this Act \[Aug. 20, 1996\] pursuant to section 414(n)(2)(C) of the Internal RevenueCode of 1986 (as in effect on the day before such date) not to involve a leased employee.”
+Section 1454(b) of Pub. L. 104–188 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996, but shall not apply to any relationship determined under an Internal Revenue Service ruling issued before the date of the enactment of this Act \[Aug. 20, 1996\] pursuant to section 414(n)(2)(C) of the Internal Revenue Code of 1986 (as in effect on the day before such date) not to involve a leased employee.”
 
 Amendment by section 1461(a) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, see section 1461(c) of Pub. L. 104–188, set out as a note under section 404 of this title.
 
@@ -1500,7 +1500,7 @@ Amendment by section 713(i) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date of 1982 Amendment
 
-Amendment by section 240(c) of Pub. L. 97–248, applicable to years beginning after Dec. 31, 1983, see section 241(a) of Pub. L. 97–248, set out as a note under section 416 of this title.
+Amendment by section 240(c) of Pub. L. 97–248, applicable to years beginning after Dec. 31, 1983, see section241(a) of Pub. L. 97–248, set out as a note under section 416 of this title.
 
 Section 246(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1983.”
 
@@ -1598,7 +1598,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41, 45E, 45F, 72, 79, 105, 108, 117, 120, 125, 127, 129, 132, 170, 220, 264, 274, 401, 402, 403, 404, 404A, 406, 407, 408, 410, 411, 412, 415, 416, 419A, 423, 448, 457, 501, 505, 818, 943, 1402, 3121, 3306, 3405, 4971, 4975, 4977, 4980, 4980B, 4980D, 4980E, 4980F, 5000, 6047, 6057, 6058, 6059, 6692, 7702, 9802, 9803, 9832 of this title; title 4 section 114; title 5 sections 8351, 8432, 8440; title 8 section 1182; title 11 section 101; title 15 sections 77c, 78c, 80a–3, 80b–3, 7244; title 23 section 181; title 29 sections 623, 1002, 1054, 1082, 1083, 1108, 1144a, 1167, 1185a, 1301, 1307, 1321, 1344, 1453; title 42 sections 300gg–91, 409, 1395w–25, 1395y; title 49 section 41762.
+This section is referred to in sections 41, 45E, 45F, 72, 79, 105, 108, 117, 120, 125, 127, 129, 132, 170, 220, 264, 274, 401, 402, 403, 404, 404A, 406, 407, 408, 410, 411, 412, 415, 416, 419A, 423, 448, 457, 501, 505, 818, 943, 1402, 3121, 3306, 3405, 4971, 4975, 4977, 4980, 4980B, 4980D, 4980E, 4980F, 5000, 6047, 6057, 6058, 6059, 6692, 7528, 7702, 9802, 9803, 9832 of this title; title 4 section 114; title 5 sections 8351, 8432, 8440; title 8 section 1182; title 11 section 101; title 15 sections 77c, 78c, 80a–3, 80b–3, 7244; title 23 section 181; title 29 sections 623, 1002, 1054, 1082, 1083, 1108, 1144a, 1167, 1185a, 1301, 1307, 1321, 1344, 1453; title 42 sections 300gg–91, 409, 1395w–25, 1395y; title 49 section 41762.
 
 <i><sup>1</sup></i><i> So in original. There is no closing parenthesis.</i>
 

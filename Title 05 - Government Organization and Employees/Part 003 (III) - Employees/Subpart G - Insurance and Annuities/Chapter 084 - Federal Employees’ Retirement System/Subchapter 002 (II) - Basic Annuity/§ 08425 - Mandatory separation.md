@@ -1,6 +1,6 @@
 ### §8425. Mandatory separation
 
-(a) An air traffic controller who is otherwise eligible for immediate retirement under section 8412(e) shall be separated from the service on the last day of the month in which that air traffic controller becomes 56 years of age or completes 20 years of service if then over that age. The Secretary, under such regulations as the Secretary may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires.
+(a) An air traffic controller who is otherwise eligible for immediate retirement under section 8412(e) shall be separated from the service on the last day of the month in which that air traffic controller becomes 56 years of age or completes 20 years of service if then over that age. The Secretary, under such regulations as the Secretary may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires. For purposes of this subsection, the term “air traffic controller” or “controller” has the meaning given to it under section 8401(35)(A).
 
 (b) A law enforcement officer, firefighter, or nuclear materials courier who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer, firefighter, or nuclear materials courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. If the head of the agency judges that the public interest so requires, that agency head may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days before that date. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
@@ -10,9 +10,11 @@
 
 (e) The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 540; amended Pub. L. 101–428, §3(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 929, 930; Pub. L. 101–509, title V, §529 \[title IV, §409(b)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(67), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(b)(1), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(k), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(5)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–27, §2(b), Aug. 20, 2001, 115 Stat. 207.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 540; amended Pub. L. 101–428, §3(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 929, 930; Pub. L. 101–509, title V, §529 \[title IV, §409(b)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(67), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(b)(1), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(k), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(5)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–27, §2(b), Aug. 20, 2001, 115 Stat. 207; Pub. L. 108–176, title II, §226(a)(3)(B), Dec. 12, 2003, 117 Stat. 2529.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–176 inserted at end “For purposes of this subsection, the term ‘air traffic controller’ or ‘controller’ has the meaning given to it under section 8401(35)(A).”
 
 2001—Subsec. (b). Pub. L. 107–27 struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” in two places and substituted “courier, as the case may be, becomes 57 years of age” for “courier becomes 57 years of age”.
 
@@ -36,6 +38,10 @@ Pub. L. 101–428, §3(b)(1)(A), substituted “officer, member of the Capitol P
 
 Subsec. (c). Pub. L. 101–428, §3(b)(2), inserted “(other than a member of the Capitol Police)” after “employee”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
@@ -50,7 +56,7 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 #### Exception to Automatic Separation of Members of Capitol Police
 
-Section 3(b)(1)(B) of Pub. L. 101–428 provided that: “Nothing in section 8425(b) of title 5, United StatesCode, as amended by subparagraph (A), shall require the automatic separation of any member of the Capitol Police before the end of the 2-year period beginning on the date of enactment of this Act \[Oct. 15, 1990\].”
+Section 3(b)(1)(B) of Pub. L. 101–428 provided that: “Nothing in section 8425(b) of title 5, United States Code, as amended by subparagraph (A), shall require the automatic separation of any member of the Capitol Police before the end of the 2-year period beginning on the date of enactment of this Act \[Oct. 15, 1990\].”
 
 #### Section Referred to in Other Sections
 

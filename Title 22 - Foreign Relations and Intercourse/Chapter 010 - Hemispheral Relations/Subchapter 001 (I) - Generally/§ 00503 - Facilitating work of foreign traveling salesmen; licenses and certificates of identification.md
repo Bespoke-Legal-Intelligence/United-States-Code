@@ -6,7 +6,7 @@ Whereas Articles I and II of each of said conventions read as follows:
 
 “
 
-Article I. Manufacturers, merchants, and traders domiciled within the jurisdiction of one of the high contracting parties may operate ascommercial travelers either personally or by means of agents or employees within the jurisdiction of the other high contracting party on obtaining from the latter, upon payment of a single fee, a license which shall be valid throughout its entire territorial jurisdiction.
+Article I. Manufacturers, merchants, and traders domiciled within the jurisdiction of one of the high contracting parties may operate as commercial travelers either personally or by means of agents or employees within the jurisdiction of the other high contracting party on obtaining from the latter, upon payment of a single fee, a license which shall be valid throughout its entire territorial jurisdiction.
 
 “In case either of the high contracting parties shall be engaged in war, it reserves to itself the right to prevent from operating within its jurisdiction under the provisions of this treaty, or otherwise, enemy nationals or other aliens whose presence it may consider prejudicial to public order and national safety.
 

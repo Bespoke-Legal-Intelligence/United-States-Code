@@ -38,7 +38,7 @@ Jurisdiction and Venue.—
 
 &emsp;(1)
 
-In general.—If the Attorney General or the designee of the Attorney General certifies a request under subsection (b), the UnitedStates may file an application on behalf of a foreign nation in district court of the United States seeking to enforce the foreign forfeiture or confiscation judgment as if the judgment had been entered by a court in the United States.
+In general.—If the Attorney General or the designee of the Attorney General certifies a request under subsection (b), the United States may file an application on behalf of a foreign nation in district court of the United States seeking to enforce the foreign forfeiture or confiscation judgment as if the judgment had been entered by a court in the United States.
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
-Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
+Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordancewith the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 
 Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
 

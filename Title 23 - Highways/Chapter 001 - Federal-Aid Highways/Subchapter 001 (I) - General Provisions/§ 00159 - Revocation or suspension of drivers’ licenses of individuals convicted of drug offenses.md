@@ -56,7 +56,7 @@ Funds withheld after september 30, 1995.—No funds withheld under this section 
 
 &emsp;(2)
 
-Apportionment of withheld funds after compliance.—If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirements of subsection (a)(3), the Secretary shall, on the first day on which the State meets therequirements of subsection (a)(3), apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
+Apportionment of withheld funds after compliance.—If, before the last day of the period for which funds withheld under subsection (a) from apportionment are to remain available for apportionment to a State under paragraph (1), the State meets the requirements of subsection (a)(3), the Secretary shall, on the first day on which the State meets the requirements of subsection (a)(3), apportion to the State the funds withheld under subsection (a) that remain available for apportionment to the State.
 
 &emsp;(3)
 
@@ -136,7 +136,7 @@ Pub. L. 102–240, title I, §1094, Dec. 18, 1991, 105 Stat. 2025, provided that
 
 “(a)
 
-Study.—The Secretary shall conduct a study of State efforts to comply with the provisions of section333 of the Department of Transportation and Related Agencies Appropriations Acts, 1991 and 1992 \[section 333 of Pub. L. 102–143 (1992 Act) enacted this section and provisions set out as a note above and repealed section 333 of Pub. L. 101–516 (1991 Act) which amended section 104 of this title and enacted provisions set out as a note thereunder\], relating to revocation and suspension of drivers’ licenses.
+Study.—The Secretary shall conduct a study of State efforts to comply with the provisions of section 333 of the Department of Transportation and Related Agencies Appropriations Acts, 1991 and 1992 \[section 333 of Pub. L. 102–143 (1992 Act) enacted this section and provisions set out as a note above and repealed section 333 of Pub. L. 101–516 (1991 Act) which amended section 104 of this title and enacted provisions set out as a note thereunder\], relating to revocation and suspension of drivers’ licenses.
 
 “(b)
 

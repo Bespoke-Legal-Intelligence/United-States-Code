@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the amount allotted to each State under section 2321 of this title for a fiscal year, the State board (hereinafter referred to as the “eligible agency”) shall make available—
+From the amount allotted to each State under section 2321 of this title for a fiscal year, theState board (hereinafter referred to as the “eligible agency”) shall make available—
 
 &emsp;(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 10 percent of the 85 percent may be used in accordance with subsection (c) of this section;
 

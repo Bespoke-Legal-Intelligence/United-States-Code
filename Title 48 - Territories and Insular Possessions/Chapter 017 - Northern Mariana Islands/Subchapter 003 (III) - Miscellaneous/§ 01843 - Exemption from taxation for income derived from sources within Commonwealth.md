@@ -2,7 +2,7 @@
 
 #### (a) Taxable years beginning after December 31, 1978, but not after January 1, 1985
 
-Except as provided in subsection (c) of this section, any person, including an individual,trust, estate, partnership, association, company, or corporation, which is a resident of or which is organized under the laws of the Commonwealth of the Northern Mariana Islands and which is subject to the provisions of section 601 of the Covenant to Establish the Commonwealth of the Northern Mariana Islands in Political Union with the United States (Public Law 94–241), shall be exempted from the requirements of such section with respect to income derived from sources within the Commonwealth of the Northern Mariana Islands for taxable years beginning after December 31, 1978, until, but not after, January 1, 1985. Nothing in this section shall be construed as relieving such person from the obligation to comply with the requirements of section 601 with respect to income derived from sources outside of the Commonwealth of the Northern Mariana Islands.
+Except as provided in subsection (c) of this section, any person, including an individual, trust, estate, partnership, association, company, or corporation, which is a resident of or which is organized under the laws of the Commonwealth of the Northern Mariana Islands and which is subject to the provisions of section 601 of the Covenant to Establish the Commonwealth of the Northern Mariana Islands in Political Union with the United States (Public Law 94–241), shall be exempted from the requirements of such section with respect to income derived from sources within the Commonwealth of the Northern Mariana Islands for taxable years beginning after December 31, 1978, until, but not after, January 1, 1985. Nothing in this section shall be construed as relieving such person from the obligation to comply with the requirements of section 601 with respect to income derived from sources outside of the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Taxable years beginning after December 31, 1980, and before January 1, 1982
 
@@ -16,7 +16,7 @@ As provided in section 602 <sup>1</sup> of Public Law 94–241 (90 Stat. 263, 2
 
 #### References in Text
 
-The Covenant, referred to in subsecs. (a) and (b), is the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
+The Covenant, referred to in subsecs. (a) and (b), is the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with theUnited States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
 
 Public Law 94–241, referred to in subsecs. (a) and (b), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§1801 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 

@@ -16,7 +16,7 @@ In order to support and sustain the Global Positioning System in a manner that w
 
 &emsp;&emsp;(B) eliminate any foreign barriers to applications of the Global Positioning System worldwide; and
 
-&emsp;(3) provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information sothat on an international basis the Assistant Secretary can—
+&emsp;(3) provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information so that on an international basis the Assistant Secretary can—
 
 &emsp;&emsp;(A) achieve and sustain efficient management of the electromagnetic spectrum used by the Global Positioning System; and
 

@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 95–432, §1, struck out subsec. (c) which provided that f
 
 Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that nothing in former subsec. (b) be construed to alter the citizenship of any person who came into the United States prior to Oct. 27, 1972, and who, whether before or after Oct. 27, 1972, immediately following such coming complied with the physical presence requirements for retention of citizenship specified in former subsec. (b), prior to amendment of former subsec. (b) by Pub. L. 92–584.
 
-1972—Subsec. (b). Pub. L. 92–584, §1, substituted provisions that nationals and citizens of the United States under subsec. (a)(7), lose such status unless they are present continuously in the United States for two years between the ages of fourteen and twenty eight years, orthe alien parent is naturalized while the child is under the age of eighteen years and the child begins to reside permanently in the United States while under the age of eighteen years, and that absence from the United States of less than sixty days will not break the continuity of presence, for provisions that such status would be lost unless the nationals and citizens come to the United States prior to attaining twenty three years and be present continuously in the United States for five years, and that such presence should be between the age of fourteen and twenty eight years.
+1972—Subsec. (b). Pub. L. 92–584, §1, substituted provisions that nationals and citizens of the United States under subsec. (a)(7), lose such status unless they are present continuously in the United States for two years between the ages of fourteen and twenty eight years, or the alien parent is naturalized while the child is under the age of eighteen years and the child begins to reside permanently in the United States while under the age of eighteen years, and that absence from the United States of less than sixty days will not break the continuity of presence, for provisions that such status would be lost unless the nationals and citizens come to the United States prior to attaining twenty three years and be present continuously in the United States for five years, and that such presence should be between the age of fourteen and twenty eight years.
 
 Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
 #### Effective Date of 1986 Amendment
 
-Section 23(d) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that: “The amendment made by section 12 \[amending this section\] shall apply to persons born on or after November 14, 1986.”
+Section 23(d) of Pub. L. 99–653, as added by Pub. L. 100–525, §8(r), Oct. 24, 1988, 102 Stat. 2619, provided that:“The amendment made by section 12 \[amending this section\] shall apply to persons born on or after November 14, 1986.”
 
 #### Effective Date of 1978 Amendment
 

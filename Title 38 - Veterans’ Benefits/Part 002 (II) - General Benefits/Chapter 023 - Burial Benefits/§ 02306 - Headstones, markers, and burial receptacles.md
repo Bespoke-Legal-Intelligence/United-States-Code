@@ -1,6 +1,6 @@
 ### §2306. Headstones, markers, and burial receptacles
 
-(a) The Secretary shall furnish, when requested, appropriate Government headstones ormarkers at the expense of the United States for the unmarked graves of the following:
+(a) The Secretary shall furnish, when requested, appropriate Government headstones or markers at the expense of the United States for the unmarked graves of the following:
 
 (1) Any individual buried in a national cemetery or in a post cemetery.
 
@@ -54,7 +54,7 @@
 
 (e)(1) The Secretary of Veterans Affairs shall provide an outer burial receptacle for each new grave in an open cemetery under the control of the National Cemetery Administration in which remains are interred in a casket. The Secretary of the Army may provide an outer burial receptacle for such a grave in the Arlington National Cemetery.
 
-(2) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in the Arlington National Cemetery shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs or Secretary of the Army, respectively.
+(2) The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration or in the Arlington National Cemetery shall be in accordance withregulations or procedures approved by the Secretary of Veterans Affairs or Secretary of the Army, respectively.
 
 (3) Regulations or procedures under paragraph (2) may specify that—
 

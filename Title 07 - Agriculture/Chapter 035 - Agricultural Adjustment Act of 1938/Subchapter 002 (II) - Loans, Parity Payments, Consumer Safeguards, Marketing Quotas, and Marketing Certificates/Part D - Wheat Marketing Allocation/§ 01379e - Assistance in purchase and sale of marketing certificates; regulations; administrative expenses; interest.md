@@ -6,7 +6,7 @@ For the purpose of facilitating the purchase and sale of marketing certificates,
 
 #### Codification
 
-The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which directed the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through 1970 wheat crops to persons processing food products at the face valuethereof less any amount by which price support for wheat accompanied by domestic certificates exceeded $2 per bushel, was omitted as executed.
+The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which directed the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through 1970 wheat crops to persons processing food products at the face value thereof less any amount by which price support for wheat accompanied by domestic certificates exceeded $2 per bushel, was omitted as executed.
 
 #### Amendments
 

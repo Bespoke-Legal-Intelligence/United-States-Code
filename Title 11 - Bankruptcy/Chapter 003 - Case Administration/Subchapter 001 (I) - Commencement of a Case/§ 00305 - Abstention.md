@@ -12,7 +12,7 @@
 
 (c) An order under subsection (a) of this section dismissing a case or suspending all proceedings in a case, or a decision not so to dismiss or suspend, is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of title 28 or by the Supreme Court of the United States under section 1254 of title 28.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2561; Pub. L. 101–650, title III, §309(a), Dec. 1, 1990, 104 Stat.5113; Pub. L. 102–198, §5, Dec. 9, 1991, 105 Stat. 1623.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2561; Pub. L. 101–650, title III, §309(a), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 102–198, §5, Dec. 9, 1991, 105 Stat. 1623.)
 
 #### Historical and Revision Notes
 

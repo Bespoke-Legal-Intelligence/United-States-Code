@@ -2,7 +2,7 @@
 
 #### (a) Provision of assistance by officials
 
-Until the transfer of an agency to the Department, any official having authority over or functions relating to the agency immediately before the effective date of this chapter shall provide to the Secretary such assistance, including the use of personnel and assets, as the Secretary may request in preparing for the transfer and integration of the agency into the Department.
+Until the transfer of an agency to the Department, any official having authority over or functions relating to the agency immediatelybefore the effective date of this chapter shall provide to the Secretary such assistance, including the use of personnel and assets, as the Secretary may request in preparing for the transfer and integration of the agency into the Department.
 
 #### (b) Services and personnel
 
@@ -34,11 +34,15 @@ Upon the transfer of an agency to the Department—
 
 #### (2) Limitation
 
-&emsp;This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development.
+&emsp;This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development, and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs.
 
-(Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309.)
+(Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309; Pub. L. 108–7, div. L, §103(4), Feb. 20, 2003, 117 Stat. 529.)
 
 #### References in Text
 
 The effective date of this chapter, referred to in subsecs. (a) and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+
+#### Amendments
+
+2003—Subsec. (e)(2). Pub. L. 108–7 inserted before period at end “, and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs”.
 

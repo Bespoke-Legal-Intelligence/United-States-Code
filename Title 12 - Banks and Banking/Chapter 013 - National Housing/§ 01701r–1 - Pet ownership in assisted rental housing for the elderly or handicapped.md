@@ -32,7 +32,7 @@ For purposes of this section, the term “federally assisted rental housing for 
 
 The United States Housing Act of 1937, referred to in subsec. (d)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The National Housing Act, referred to in subsec. (d)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (d)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter\(§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 

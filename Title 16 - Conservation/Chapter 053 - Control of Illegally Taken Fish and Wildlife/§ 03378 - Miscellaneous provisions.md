@@ -2,7 +2,7 @@
 
 #### (a) Effect on powers of States
 
-Nothing in this chapter shall be construed to prevent the several States or Indian tribes frommaking or enforcing laws or regulations not inconsistent with the provisions of this chapter.
+Nothing in this chapter shall be construed to prevent the several States or Indian tribes from making or enforcing laws or regulations not inconsistent with the provisions of this chapter.
 
 #### (b) Repeals
 

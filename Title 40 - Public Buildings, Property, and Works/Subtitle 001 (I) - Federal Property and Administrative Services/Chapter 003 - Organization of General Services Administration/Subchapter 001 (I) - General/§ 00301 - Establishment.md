@@ -48,7 +48,7 @@ All functions with respect to acquiring space in buildings by lease, and all fun
 
 #### Sec. 2. Transfer of Office Building Management Functions
 
-All functions with respect to the operation, maintenance, and custody of office buildings owned by theGovernment and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, are hereby transferred from the respective agencies in which now vested to the Administrator of General Services, exclusive, however, of all such functions with respect to—
+All functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, are hereby transferred from the respective agencies in which now vested to the Administrator of General Services, exclusive, however, of all such functions with respect to—
 
 (a) any building located in any foreign country;
 

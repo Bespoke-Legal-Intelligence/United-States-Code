@@ -2,7 +2,7 @@
 
 #### (a) Regulations; standards; consultation with Secretary of Transportation
 
-(1) Within nine months after October 27, 1972, the Administrator shall publish proposed noise emission regulations for motor carriers engaged in interstate commerce. Such proposed regulations shall include noise emission standards setting such limits on noise emissions resulting from operation of motor carriers engaged in interstate commerce which reflect the degree ofnoise reduction achievable through the application of the best available technology, taking into account the cost of compliance. These regulations shall be in addition to any regulations that may be proposed under section 4905 of this title.
+(1) Within nine months after October 27, 1972, the Administrator shall publish proposed noise emission regulations for motor carriers engaged in interstate commerce. Such proposed regulations shall include noise emission standards setting such limits on noise emissions resulting from operation of motor carriers engaged in interstate commerce which reflect the degree of noise reduction achievable through the application of the best available technology, taking into account the cost of compliance. These regulations shall be in addition to any regulations that may be proposed under section 4905 of this title.
 
 (2) Within ninety days after the publication of such regulations as may be proposed under paragraph (1) of this subsection, and subject to the provisions of section 4915 of this title, the Administrator shall promulgate final regulations. Such regulations may be revised from time to time, in accordance with this subsection.
 

@@ -12,7 +12,7 @@
 
 #### Prior Provisions
 
-Prior section 4109, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 93–82, title II, §205(a), Aug. 2, 1973, 87 Stat. 192; Pub. L. 96–330, title I, §114, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 96–385, title V, §508(b), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–72, title IV, §402(a), Nov. 3, 1981, 95 Stat. 1062; Pub. L. 97–295, §4(84), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–272, title XV, §15204(b), Apr. 7, 1986, 100 Stat. 335; Pub. L. 99–509, title VII, §7003(a), Oct. 21, 1986, 100 Stat. 1949, related to retirement rights, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7426 of this title.
+Prior section 4109, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1246; Pub. L. 93–82, title II, §205(a), Aug. 2, 1973, 87Stat. 192; Pub. L. 96–330, title I, §114, Aug. 26, 1980, 94 Stat. 1039; Pub. L. 96–385, title V, §508(b), Oct. 7, 1980, 94 Stat. 1538; Pub. L. 97–72, title IV, §402(a), Nov. 3, 1981, 95 Stat. 1062; Pub. L. 97–295, §4(84), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 99–272, title XV, §15204(b), Apr. 7, 1986, 100 Stat. 335; Pub. L. 99–509, title VII, §7003(a), Oct. 21, 1986, 100 Stat. 1949, related to retirement rights, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See section 7426 of this title.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ The Secretary may accept and retain donations of funds, property, or services fr
 
 #### (c) Leasing
 
-The Secretary may lease any real or personal property, including vessels and heavy marine equipment such as floating drydocks, which is administered as part of the park. The net receipts from any such lease shall be credited in accordance with section 460bb–3(f) of this title.
+The Secretary may lease any real or personal property, including vessels and heavy marineequipment such as floating drydocks, which is administered as part of the park. The net receipts from any such lease shall be credited in accordance with section 460bb–3(f) of this title.
 
 #### (d) Fees
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the Secretary may impose entrance fe
 
 Within 2 years after establishment of the park, the Secretary shall prepare and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a general management plan for the park. The plan shall include, but not be limited to:
 
-&emsp;(1) a description of the resources of the park including, but not limited to, maritime andassociated artifacts, documents, the following historic vessels: the sailing ship Balclutha; the steam schooner Wapama; the steamship SS Jeremiah O'Brien; the ferry Eureka; the schooner C.A. Thayer; the tug Ellpleton Hall; the tug Hercules; and the scow schooner Alma, and other real and personal property comprising the park collections such as written and illustrative material, objects, wrecks, small watercraft, and vessels;
+&emsp;(1) a description of the resources of the park including, but not limited to, maritime and associated artifacts, documents, the following historic vessels: the sailing ship Balclutha; the steam schooner Wapama; the steamship SS Jeremiah O'Brien; the ferry Eureka; the schooner C.A. Thayer; the tug Ellpleton Hall; the tug Hercules; and the scow schooner Alma, and other real and personal property comprising the park collections such as written and illustrative material, objects, wrecks, small watercraft, and vessels;
 
 &emsp;(2) plans for the preservation of each historic vessel, including docking facilities, maintenance and ship repair facilities, and estimates for the costs thereof; a determination of the need for permanent docking facilities in a location best suited to the preservation of the historic vessels and for visitor access to the historic vessels; methods of accommodating visitors while protecting the historic vessels; and methods for providing for the proper care, exhibition, and storage of the park collections;
 

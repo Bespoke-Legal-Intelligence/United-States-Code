@@ -1,0 +1,42 @@
+### §709. Emergency leave of absence
+
+(a)
+
+Emergency Leave of Absence.—The Secretary concerned may grant a member of the armed forces emergency leave of absence for a qualifying emergency.
+
+(b)
+
+Limitations.—An emergency leave of absence under this section—
+
+&emsp;(1) may be granted only once for any member;
+
+&emsp;(2) may be granted only to prevent the member from entering unearned leave status or excess leave status; and
+
+&emsp;(3) may not extend for a period of more than 14 days.
+
+(c)
+
+Qualifying Emergency.—In this section, the term “qualifying emergency”, with respect to a member of the armed forces, means a circumstance that—
+
+&emsp;(1) is due to—
+
+&emsp;&emsp;(A) a medical condition of a member of the immediate family of the member; or
+
+&emsp;&emsp;(B) any other hardship that the Secretary concerned determines appropriate for purposes of this section; and
+
+&emsp;(2) is verified to the Secretary's satisfaction based upon information or opinion from a source in addition to the member that the Secretary considers to be objective and reliable.
+
+(d)
+
+Military Department Regulations.—Regulations prescribed under this section by the Secretaries of the military department shall be as uniform as practicable and shall be subject to approval by the Secretary of Defense.
+
+(e)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “unearned leave status” means leave approved to be used by a member of the armed forces that exceeds the amount of leave credit that has been accrued as a result of the member's active service and that has not been previously used by the member.
+
+&emsp;(2) The term “excess leave status” means leave approved to be used by a member of the armed forces that is unearned leave for which a member is unable to accrue leave credit during the member's current term of service before the member's separation.
+
+(Added Pub. L. 107–314, div. A, title V, §572(a), Dec. 2, 2002, 116 Stat. 2557.)
+

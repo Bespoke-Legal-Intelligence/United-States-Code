@@ -84,9 +84,13 @@ Report.—The Commission shall transmit the study and the model regulations to C
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 107–66, title III, Nov. 12, 2001, 115 Stat. 508, provided in part: “That notwithstanding any other provision of law, not to exceed $184,155,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2002 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the General Fund shall be reduced as revenues are received during fiscal year 2002 so as to result in a final fiscal year 2002 appropriation from the General Fund estimated at not more than $0”.
+Pub. L. 108–137, title III, Dec. 1, 2003, 117 Stat. 1859, provided in part: “That notwithstanding any other provision of law, not to exceed $204,400,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2004 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2004 so as to result in a final fiscal year 2004 appropriation from the general fund estimated at not more than $0.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–7, div. D, title III, Feb. 20, 2003, 117 Stat. 153.
+
+Pub. L. 107–66, title III, Nov. 12, 2001, 115 Stat. 508.
 
 Pub. L. 106–377, §1(a)(2) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–78.
 

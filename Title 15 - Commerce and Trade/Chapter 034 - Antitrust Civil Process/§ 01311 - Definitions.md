@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(k) The term “foreign antitrust laws” has the meaning given such term in section 12 of the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6211\].
 
-(Pub. L. 87–664, §2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §101, Sept. 30, 1976, 90 Stat. 1383; Pub. L. 96–349, §§2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, §3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
+(Pub. L. 87–664, §2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §101, Sept. 30, 1976, 90 Stat.1383; Pub. L. 96–349, §§2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, §3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### References in Text
 

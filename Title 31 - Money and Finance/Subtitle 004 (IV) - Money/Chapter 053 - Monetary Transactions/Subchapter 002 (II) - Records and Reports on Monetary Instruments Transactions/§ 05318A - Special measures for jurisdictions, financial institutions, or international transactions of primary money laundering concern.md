@@ -72,7 +72,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;(2)
 
-Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes oftransactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
+Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
 
 &emsp;(3)
 
@@ -120,7 +120,7 @@ Jurisdictional factors.—In the case of a particular jurisdiction—
 
 &emsp;&emsp;&emsp;(v) the extent to which that jurisdiction is characterized as an offshore banking or secrecy haven by credible international organizations or multilateral expert groups;
 
-&emsp;&emsp;&emsp;(vi) whether the United States has a mutual legal assistance treaty with that jurisdiction, and the experience of United States law enforcement officials and regulatory officials in obtaining informationabout transactions originating in or routed through or to such jurisdiction; and
+&emsp;&emsp;&emsp;(vi) whether the United States has a mutual legal assistance treaty with that jurisdiction, and the experience of United States law enforcement officials and regulatory officials in obtaining information about transactions originating in or routed through or to such jurisdiction; and
 
 &emsp;&emsp;&emsp;(vii) the extent to which that jurisdiction is characterized by high levels of official or institutional corruption.
 
@@ -174,7 +174,11 @@ Regulatory definition of beneficial ownership.—The Secretary shall promulgate 
 
 Other terms.—The Secretary may, by regulation, further define the terms in paragraphs (1), (2), and (3), and define other terms for the purposes of this section, as the Secretary deems appropriate.
 
-(Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298.)
+(f)
+
+Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern,made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>1</sup> such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
+
+(Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, §376, Dec. 13, 2003, 117 Stat. 2630.)
 
 #### References in Text
 
@@ -183,6 +187,12 @@ Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (a)(4)(A)
 Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (e)(1)(C), is classified to section 461(b)(1)(C) of Title 12, Banks and Banking.
 
 Section 509 of the Gramm-Leach-Bliley Act, referred to in subsec. (e)(2), is classified to section 6809 of Title 15, Commerce and Trade.
+
+Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (f), is section 1(a) of Pub. L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+2003—Subsec. (f). Pub. L. 108–177 added subsec. (f).
 
 #### Termination Date
 
@@ -195,4 +205,6 @@ For purposes of Pub. L. 107–56 and any amendment by Pub. L. 107–56, the term
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5318, 5321, 5322 of this title.
+
+<i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the comma.</i>
 

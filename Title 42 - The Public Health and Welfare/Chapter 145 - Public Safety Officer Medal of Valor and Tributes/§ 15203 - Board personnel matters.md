@@ -8,7 +8,7 @@
 
 #### (b) Travel expenses
 
-The members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees ofagencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of service for the Board.
+The members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of service for the Board.
 
 (Pub. L. 107–12, §4, May 30, 2001, 115 Stat. 21.)
 

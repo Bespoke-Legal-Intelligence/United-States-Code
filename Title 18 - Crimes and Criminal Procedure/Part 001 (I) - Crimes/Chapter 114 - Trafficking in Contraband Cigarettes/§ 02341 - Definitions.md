@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;&emsp;(D) an officer, employee, or other agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State) having possession of such cigarettes in connection with the performance of official duties;
 
-&emsp;(3) the term “common or contract carrier” means a carrier holding a certificate of convenience and necessity, a permit for contract carrier by motor vehicle, or other valid operating authority under subtitle IV of title 49, orunder equivalent operating authority from a regulatory agency of the United States or of any State;
+&emsp;(3) the term “common or contract carrier” means a carrier holding a certificate of convenience and necessity, a permit for contract carrier by motor vehicle, or other valid operating authority under subtitle IV of title 49, or under equivalent operating authority from a regulatory agency of the United States or of any State;
 
 &emsp;(4) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands; and
 

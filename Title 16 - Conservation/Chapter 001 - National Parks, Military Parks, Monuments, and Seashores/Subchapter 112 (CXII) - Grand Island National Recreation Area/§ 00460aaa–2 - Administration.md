@@ -12,7 +12,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;(2) Consistent with section 460aaa–6 of this title, and the purposes of this subchapter, the Secretary shall provide for and maintain traditional public access, including vehicular roads for general recreational activities such as camping, hiking, hunting, fishing, and trapping.
 
-&emsp;(3) The Secretary shall permit the use of snowmobiles on Federal lands in the nationalrecreation area in accordance with the rules and regulations of the National Forest System and consistent with the management plan developed pursuant to section 460aaa–6 of this title. Such use shall be regulated to protect the resources of the national recreation area in a way that minimizes the degradation of these resources.
+&emsp;(3) The Secretary shall permit the use of snowmobiles on Federal lands in the national recreation area in accordance with the rules and regulations of the National Forest System and consistent with the management plan developed pursuant to section 460aaa–6 of this title. Such use shall be regulated to protect the resources of the national recreation area in a way that minimizes the degradation of these resources.
 
 &emsp;(4) Timber management shall be utilized only as a tool to enhance public recreation, scenic quality, game and nongame wildlife species, and the protection and enhancement of threatened, endangered, or sensitive species. Trees damaged or downed due to fire, insects, disease, or blowdown may be utilized, salvaged, or removed from the recreation area as authorized by the Secretary to further the purposes of the national recreation area.
 

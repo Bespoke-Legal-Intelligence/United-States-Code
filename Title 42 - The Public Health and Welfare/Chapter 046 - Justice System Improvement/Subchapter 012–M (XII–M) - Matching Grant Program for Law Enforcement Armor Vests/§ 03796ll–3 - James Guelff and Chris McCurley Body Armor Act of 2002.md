@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(3) there is a traffic in body armor moving in or otherwise affecting interstate commerce, and existing Federal controls over such traffic do not adequately enable the States to control this traffic within their own borders through the exercise of their police power;
 
-&emsp;(4) recent incidents, such as the murder of San Francisco Police Officer James Guelff by an assailant wearing 2 layers of body armor, a 1997 bank shoot out in north Hollywood, California, between police and 2 heavily armed suspects outfitted in body armor, and the 1997 murder of Captain Chris McCurley of the Etowah County, Alabama Drug Task Force bya drug dealer shielded by protective body armor, demonstrate the serious threat to community safety posed by criminals who wear body armor during the commission of a violent crime;
+&emsp;(4) recent incidents, such as the murder of San Francisco Police Officer James Guelff by an assailant wearing 2 layers of body armor, a 1997 bank shoot out in north Hollywood, California, between police and 2 heavily armed suspects outfitted in body armor, and the 1997 murder of Captain Chris McCurley of the Etowah County, Alabama Drug Task Force by a drug dealer shielded by protective body armor, demonstrate the serious threat to community safety posed by criminals who wear body armor during the commission of a violent crime;
 
 &emsp;(5) of the approximately 1,500 officers killed in the line of duty since 1980, more than 30 percent could have been saved by body armor, and the risk of dying from gunfire is 14 times higher for an officer without a bulletproof vest;
 

@@ -86,7 +86,7 @@
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
-(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)—
+(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 of the Atomic Energy Defense Act—
 
 &emsp;(i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
@@ -138,21 +138,25 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787.)
 
 #### References in Text
 
 The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is the date of enactment of Pub. L. 102–484, which was approved Oct. 23, 1992.
 
+Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), is classified to section 2601 of Title 50, War and National Defense.
+
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+
+2003—Subsec. (d)(5)(A). Pub. L. 108–136 substituted “section 4421 of the Atomic Energy Defense Act” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
 
 2002—Subsec. (d)(4)(B)(i). Pub. L. 107–314, §1103(1), substituted “2006” for “2003”.
 
 Subsec. (d)(4)(B)(ii). Pub. L. 107–314, §1103(2), substituted “2007” and “2006” for “2004” and “2003”, respectively.
 
-2000—Subsec. (d)(5)(A). Pub. L. 106–398, in introductory provisions, inserted “, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)” after “readjustment”.
+2000—Subsec. (d)(5)(A). Pub. L. 107–314, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], as renumbered by Pub. L. 108–136, §3141(i)(4)(A)–(C), in introductory provisions, inserted “, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)” after “readjustment”.
 
 1999—Subsec. (d)(1)(A). Pub. L. 106–117, §1106(1), substituted “paragraphs (4) and (5)” for “paragraph (4)” in introductory provisions.
 

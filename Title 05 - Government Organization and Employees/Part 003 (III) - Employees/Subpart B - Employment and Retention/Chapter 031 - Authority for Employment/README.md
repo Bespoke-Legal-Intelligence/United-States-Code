@@ -17,6 +17,7 @@
 | [3111\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003111%20-%20Acceptance%20of%20volunteer%20service.md) | Acceptance of volunteer service. |
 | [3112\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003112%20-%20Disabled%20veterans%3B%20noncompetitive%20appointment.md) | Disabled veterans; noncompetitive appointment. |
 | [3113\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003113%20-%20Restriction%20on%20reemployment%20after%20conviction%20of%20certain%20crimes.md) | Restriction on reemployment after conviction of certain crimes. |
+| [3114\.](Subchapter%20001%20%28I%29%20-%20Employment%20Authorities/%C2%A7%2003114%20-%20Appointment%20of%20accountants%2C%20economists%2C%20and%20examiners%20by%20the%20Securities%20and%20Exchange%20Commission.md) | Appointment of accountants, economists, and examiners by the Securities and Exchange Commission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,6 +53,8 @@
 
 #### Amendments
 
+2003—Pub. L. 108–44, §2(b), July 3, 2003, 117 Stat. 843, added item 3114.
+
 2000—Pub. L. 106–398, §1 \[\[div. A\], title XI, §1101(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–310, added subchapter IV heading and item 3161.
 
 1997—Pub. L. 105–61, title VI, §638(b), Oct. 10, 1997, 111 Stat. 1317, added item 3113.
@@ -60,7 +63,7 @@
 
 1988—Pub. L. 100–325, §1(b), May 30, 1988, 102 Stat. 581, added subchapter III heading and items 3151 and 3152.
 
-1980—Pub. L. 96–523, §1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistantsfor blind employees and interpreting assistants for” in item 3102.
+1980—Pub. L. 96–523, §1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
 
 1978—Pub. L. 95–454, title III, §§301(b), 302(b)(1), 307(b)(3), title IV, §402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
 

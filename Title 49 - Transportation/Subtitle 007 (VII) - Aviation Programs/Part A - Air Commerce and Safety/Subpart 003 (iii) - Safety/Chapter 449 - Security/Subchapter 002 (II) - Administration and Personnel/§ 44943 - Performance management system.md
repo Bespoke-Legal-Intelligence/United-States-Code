@@ -2,7 +2,7 @@
 
 (a)
 
-Establishing a Fair and Equitable System for Measuring Staff Performance.—The Under Secretary for Transportation Securityshall establish a performance management system which strengthens the organization's effectiveness by providing for the establishment of goals and objectives for managers, employees, and organizational performance consistent with the performance plan.
+Establishing a Fair and Equitable System for Measuring Staff Performance.—The Under Secretary for Transportation Security shall establish a performance management system which strengthens the organization's effectiveness by providing for the establishment of goals and objectives for managers, employees, and organizational performance consistent with the performance plan.
 
 (b)
 

@@ -26,7 +26,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 #### (4) Assessment of amount paid
 
-&emsp;Any amount paid as a tax or in respect of a tax may be assessed upon the receipt of such payment notwithstanding the provisions of subsection (a). In any case where such amount is paid after the mailing of a notice of deficiency under section 6212, such payment shall not deprive the Tax Court of jurisdiction over such deficiency determined under section 6211 without regard to such assessment.
+&emsp;Any amount paid as a tax or in respect of a tax may be assessed upon the receipt of such payment notwithstanding the provisions of subsection (a). In any case where such amount is paid after the mailing of a notice of deficiency under section 6212, such payment shallnot deprive the Tax Court of jurisdiction over such deficiency determined under section 6211 without regard to such assessment.
 
 #### (c) Failure to file petition
 
@@ -48,7 +48,7 @@ The running of the time prescribed by subsection (a) for filing a petition in th
 
 #### (2) Certain action not taken into account
 
-&emsp;For purposes of the second and third sentences of subsection (a), the filing of a proof ofclaim or request for payment (or the taking of any other action) in a case under title 11 of the United States Code shall not be treated as action prohibited by such second sentence.
+&emsp;For purposes of the second and third sentences of subsection (a), the filing of a proof of claim or request for payment (or the taking of any other action) in a case under title 11 of the United States Code shall not be treated as action prohibited by such second sentence.
 
 #### (g) Definitions
 
@@ -88,15 +88,17 @@ For purposes of this section—
 
 &emsp;&emsp;(J) an omission of a correct TIN required under section 25A(g)(1) (relating to higher education tuition and related expenses) to be included on a return,
 
-&emsp;&emsp;(K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit), and
+&emsp;&emsp;(K) an omission of information required by section 32(k)(2) (relating to taxpayers making improper prior claims of earned income credit),
 
 &emsp;&emsp;(L) the inclusion on a return of a TIN required to be included on the return under section 21, 24, or 32 if—
 
 &emsp;&emsp;&emsp;(i) such TIN is of an individual whose age affects the amount of the credit under such section, and
 
-&emsp;&emsp;&emsp;(ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual's age based on such TIN.
+&emsp;&emsp;&emsp;(ii) the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual's age based on such TIN, and
 
-> &emsp;A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
+&emsp;&emsp;(M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child.
+
+> &emsp;A taxpayer shall be treated as having omitted a correct TIN for purposes of the precedingsentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
 
 #### (h) Cross references
 
@@ -112,15 +114,17 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56.)
 
-#### Amendment of Subsection (g)(2)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title III, §303(g), (i)(2), title IX, §901, June 7, 2001, 115 Stat. 56, 57, 150, provided that, effective Jan. 1, 2004, subsection (g)(2) of this section is temporarily amended by striking “and” at the end of subparagraph (K), by striking the period at the end of subparagraph (L) and inserting “, and”, and by inserting after subparagraph (L) the following new subparagraph:</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
-&emsp;&emsp;<i>(M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child.</i>
+#### References in Text
 
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to section 653(h) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2001—Subsec. (g)(2)(M). Pub. L. 107–16, §§303(g), 901, temporarily added subpar. (M). See Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Subsec. (a). Pub. L. 105–206, §3464(a), substituted “, including the Tax Court, and a refund may be ordered by such court of any amount collected within the period during which the Secretary is prohibited from collecting by levy or through a proceeding in court under the provisions of this subsection.” for “, including the Tax Court.” and “to enjoin any action or proceeding or order any refund” for “to enjoin any action or proceeding”.
 
@@ -216,7 +220,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 Pub. L. 105–277, div. J, title III, §3003(c), Oct. 21, 1998, 112 Stat. 2681–905, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 21, 1998\].”
 
-Pub. L. 105–206, title III, §3463(c), July 22, 1998, 112 Stat. 767, provided that: “Subsection (a) and theamendment made by subsection (b) \[amending this section and enacting provisions set out as a note under section 6212 of this title\] shall apply to notices mailed after December 31, 1998.”
+Pub. L. 105–206, title III, §3463(c), July 22, 1998, 112 Stat. 767, provided that: “Subsection (a) and the amendment made by subsection (b) \[amending this section and enacting provisions set out as a note under section 6212 of this title\] shall apply to notices mailed after December 31, 1998.”
 
 Pub. L. 105–206, title III, §3464(d), July 22, 1998, 112 Stat. 767, provided that: “The amendments made by this section \[amending this section and section 6512 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -260,7 +264,7 @@ Amendment by Pub. L. 99–514 effective as if included in the Tax Equity and Fis
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 305(b)(4) of Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under section 4962 of this title.
+Amendment by section 305(b)(4) of Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984,see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under section 4962 of this title.
 
 Amendment by section 474(r)(34) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
@@ -312,5 +316,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 303, 2011, 2014, 2058, 4942, 4961, 4963, 6013, 6034A, 6037, 6155, 6201, 6204, 6212, 6230, 6234, 6241, 6246, 6255, 6404, 6428, 6501, 6512, 6601, 6651, 6861, 6863, 6871, 7404, 7421, 7429, 7436, 7482 of this title.
+This section is referred to in sections 303, 2011, 2014, 2058, 4942, 4961, 4963, 6013, 6034A, 6037, 6155, 6201, 6204, 6212, 6230, 6234, 6241, 6246, 6255, 6404, 6428, 6429, 6501, 6512, 6601, 6651, 6861, 6863, 6871, 7404, 7421, 7429, 7436, 7482 of this title.
 

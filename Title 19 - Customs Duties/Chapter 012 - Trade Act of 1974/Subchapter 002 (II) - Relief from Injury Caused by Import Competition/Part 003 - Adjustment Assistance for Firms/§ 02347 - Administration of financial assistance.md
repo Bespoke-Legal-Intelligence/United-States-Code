@@ -28,7 +28,7 @@ To the extent the Secretary deems it appropriate, and consistent with the provis
 
 #### (e) Capital assets secured by first lien; exceptions
 
-Direct loans made, or loans guaranteed, under this part for the acquisition or development ofreal property or other capital assets shall ordinarily be secured by a first lien on the assets to be financed and shall be fully amortized. To the extent that the Secretary finds that exceptions to these standards are necessary to achieve the objectives of this part, he shall develop appropriate criteria for the protection of the interests of the United States.
+Direct loans made, or loans guaranteed, under this part for the acquisition or development of real property or other capital assets shall ordinarily be secured by a first lien on the assets to be financed and shall be fully amortized. To the extent that the Secretary finds that exceptions to these standards are necessary to achieve the objectives of this part, he shall develop appropriate criteria for the protection of the interests of the United States.
 
 (Pub. L. 93–618, title II, §257, Jan. 3, 1975, 88 Stat. 2033; Pub. L. 97–35, title XXV, §2525, Aug. 13, 1981, 95 Stat. 892.)
 

@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;&emsp;(B) the department of a public secondary school exclusively or principally used for providing vocational and technical education in not fewer than 5 different occupational fields to individuals who are available for study in preparation for entering the labor market;
 
-&emsp;&emsp;(C) a public or nonprofit technical institution or vocational and technical education school used exclusively or principally for the provision of vocational and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits as regular students both individuals who have completed secondary school and individuals who have left secondary school; or
+&emsp;&emsp;(C) a public or nonprofit technical institution or vocational and technical educationschool used exclusively or principally for the provision of vocational and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits as regular students both individuals who have completed secondary school and individuals who have left secondary school; or
 
 &emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides vocational and technical education in not fewer than five different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits as regular students both individuals who have completed secondary school and individuals who have left secondary school.
 
@@ -182,7 +182,7 @@ In this chapter:
 
 #### (28) Tribally controlled postsecondary vocational and technical institution
 
-&emsp;The term “tribally controlled postsecondary vocational and technical institution” meansan institution of higher education (as defined in section 1001 of this title, except that paragraph (2) <sup>2</sup> of such section shall not be applicable and the reference to Secretary in paragraph (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior) that—
+&emsp;The term “tribally controlled postsecondary vocational and technical institution” means an institution of higher education (as defined in section 1001 of this title, except that paragraph (2) <sup>2</sup> of such section shall not be applicable and the reference to Secretary in paragraph (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior) that—
 
 &emsp;&emsp;(A) is formally controlled, or has been formally sanctioned or chartered, by the governing body of an Indian tribe or Indian tribes;
 

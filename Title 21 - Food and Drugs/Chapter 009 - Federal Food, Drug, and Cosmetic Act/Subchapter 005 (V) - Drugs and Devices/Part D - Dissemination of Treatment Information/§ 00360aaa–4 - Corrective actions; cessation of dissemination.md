@@ -20,7 +20,7 @@
 
 &emsp;The Secretary may order a manufacturer to cease the dissemination of information pursuant to section 360aaa of this title if—
 
-&emsp;&emsp;(A) in the case of a manufacturer that has submitted a supplemental application for a new use pursuant to section 360aaa–3(a)(1) of this title, the Secretary determines that the supplemental application does not contain adequate information for approval of the new use for which the application was submitted;
+&emsp;&emsp;(A) in the case of a manufacturer that has submitted a supplemental application for anew use pursuant to section 360aaa–3(a)(1) of this title, the Secretary determines that the supplemental application does not contain adequate information for approval of the new use for which the application was submitted;
 
 &emsp;&emsp;(B) in the case of a manufacturer that has submitted a certification under section 360aaa–3(b) of this title, the manufacturer has not, within the 6-month period involved, submitted the supplemental application referred to in the certification; or
 

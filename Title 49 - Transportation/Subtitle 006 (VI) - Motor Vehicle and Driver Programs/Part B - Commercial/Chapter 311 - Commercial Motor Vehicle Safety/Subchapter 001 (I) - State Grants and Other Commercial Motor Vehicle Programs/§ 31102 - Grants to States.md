@@ -54,7 +54,7 @@ State Plan Procedures and Contents.—(1) The Secretary shall prescribe procedur
 
 &emsp;(T) ensures that roadside inspections will be conducted at a location that is adequate to protect the safety of drivers and enforcement personnel.
 
-(2) If the Secretary disapproves a plan under this subsection, the Secretary shall give the State a written explanation and allow the State to modify and resubmit the plan for approval.
+(2) If the Secretary disapproves a plan under this subsection, the Secretary shall give theState a written explanation and allow the State to modify and resubmit the plan for approval.
 
 (3) In estimating the average level of State expenditure under paragraph (1)(D) <sup>1</sup> of this subsection, the Secretary—
 
@@ -132,7 +132,7 @@ Paragraph (1), referred to in subsec. (b)(3), was amended by Pub. L. 105–178, 
 
 Subsec. (b)(1)(R). Pub. L. 106–159, §207(2), added subpar. (R) and struck out former subpar. (R) which read as follows: “ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;”.
 
-1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materialstransportation safety,” after “commercial motor vehicle safety”.
+1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
 Subsec. (b)(1). Pub. L. 105–178, §4003(b)(2), in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
@@ -218,7 +218,7 @@ Pub. L. 105–178, title IV, §4032, June 9, 1998, 112 Stat. 419, provided that:
 
 “(a)
 
-Study.—The Secretary \[of Transportation\] shall conduct a study on the effects of reductions of grants under section 31102 of title 49, United States Code, due to nonconformity of State intrastate motor carrier,commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—
+Study.—The Secretary \[of Transportation\] shall conduct a study on the effects of reductions of grants under section 31102 of title 49, United States Code, due to nonconformity of State intrastate motor carrier, commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—
 
 &emsp;“(1) national uniformity and the purposes of the motor carrier safety assistance program;
 

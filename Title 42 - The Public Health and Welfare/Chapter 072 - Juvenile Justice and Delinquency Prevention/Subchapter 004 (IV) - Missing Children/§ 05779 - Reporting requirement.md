@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal, State, and local law enforcement agency shall report each case of a missing child under the age of 18 reported to such agency to the National Crime Information Center of the Department of Justice.
+Each Federal, State, and local law enforcement agency shall report each case of a missing child under the age of 21 reported to such agency to the National Crime Information Center of the Department of Justice.
 
 #### (b) Guidelines
 
@@ -12,7 +12,7 @@ The Attorney General may establish guidelines for the collection of such reports
 
 The Attorney General shall publish an annual statistical summary of the reports received under this section and section 5780 of this title.
 
-(Pub. L. 101–647, title XXXVII, §3701, Nov. 29, 1990, 104 Stat. 4966.)
+(Pub. L. 101–647, title XXXVII, §3701, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 108–21, title II, §204, Apr. 30, 2003, 117 Stat. 660.)
 
 #### References in Text
 
@@ -21,6 +21,10 @@ This section and section 5780 of this title, referred to in subsec. (b), was in 
 #### Codification
 
 Section was enacted as part of the Crime Control Act of 1990, and not as part of the Missing Children's Assistance Act which comprises this subchapter, nor as part of the Juvenile Justice and Delinquency Prevention Act of 1974 which comprises this chapter.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–21 substituted “age of 21” for “age of 18”.
 
 #### Section Referred to in Other Sections
 

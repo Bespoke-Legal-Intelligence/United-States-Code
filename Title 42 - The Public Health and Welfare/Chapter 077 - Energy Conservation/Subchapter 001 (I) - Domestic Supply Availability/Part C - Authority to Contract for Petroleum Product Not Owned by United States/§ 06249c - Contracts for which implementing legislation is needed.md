@@ -18,13 +18,13 @@
 
 #### (b) Consultation
 
-The Secretary shall consult, at the earliest possible time and on a continuing basis, with each committee of the House and the Senatethat has jurisdiction over all matters expected to be affected by legislation needed to implement any such contract.
+The Secretary shall consult, at the earliest possible time and on a continuing basis, with each committee of the House and the Senate that has jurisdiction over all matters expected to be affected by legislation needed to implement any such contract.
 
 #### (c) Effective date
 
 Each contract and each amendment to a contract for which an implementing bill is necessary may become effective only if—
 
-&emsp;(1) the Secretary, not less than 30 days before the day on which such contract is entered into, notifies the House of Representatives and the Senate of the intention to enter into such a contract and promptly thereafter publishes notice of such intention in the Federal Register;
+&emsp;(1) the Secretary, not less than 30 days before the day on which such contract is entered into, notifies the House of Representatives and the Senate of the intention to enter into sucha contract and promptly thereafter publishes notice of such intention in the Federal Register;
 
 &emsp;(2) after entering into the contract, the Secretary transmits a report to the House of Representatives and to the Senate containing a copy of the final text of such contract together with—
 

@@ -12,7 +12,7 @@ Reorganization Plan Number 1 of 1954 (68 Stat. 1279), referred to in text, is Re
 
 #### Separability
 
-Section 4 of Pub. L. 85–604 provided that: “If any provision of this Act \[enacting this subchapter and amending sections 1641c and 1641j of this title\], or the application thereof to any person or circumstances, shall beheld invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
+Section 4 of Pub. L. 85–604 provided that: “If any provision of this Act \[enacting this subchapter and amending sections 1641c and 1641j of this title\], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 
 #### Transfer of Foreign Claims Settlement Commission of the United States as Separate Agency Within Department of Justice
 

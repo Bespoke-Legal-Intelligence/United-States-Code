@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) an individual who is married and who files a separate return—
 
-&emsp;&emsp;&emsp;(i) maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a qualifying individual, and
+&emsp;&emsp;&emsp;(i) maintains as his home a household which constitutes for more than one-halfof the taxable year the principal place of abode of a qualifying individual, and
 
 &emsp;&emsp;&emsp;(ii) furnishes over half of the cost of maintaining such household during the taxable year, and
 
@@ -278,7 +278,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Special rule for 1995 and 1996.—In the case of returns for taxable years beginning in 1995 or 1996, a taxpayer shall not be required by the amendments madeby this section to provide a taxpayer identification number for a child who is born after October 31, 1995, in the case of a taxable year beginning in 1995 or November 30, 1996, in the case of a taxable year beginning in 1996.”
+Special rule for 1995 and 1996.—In the case of returns for taxable years beginning in 1995 or 1996, a taxpayer shall not be required by the amendments made by this section to provide a taxpayer identification number for a child who is born after October 31, 1995, in the case of a taxable year beginning in 1995 or November 30, 1996, in the case of a taxable year beginning in 1996.”
 
 #### Effective Date of 1988 Amendment
 

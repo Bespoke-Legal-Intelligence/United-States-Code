@@ -10,7 +10,7 @@ There shall be at the head of the Administration the Administrator of the United
 
 #### (c) Deputy Administrator
 
-There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of the Executive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+There shall be in the Administration a Deputy Administrator of the United States Fire Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate now or hereafter provided for level V of theExecutive Schedule pay rates (5 U.S.C. 5316). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
 (Pub. L. 93–498, §5, Oct. 29, 1974, 88 Stat. 1536; Pub. L. 95–422, §2(a)(1), Oct. 5, 1978, 92 Stat. 932; Pub. L. 106–503, title I, §110(a)(2)(B)(i), Nov. 13, 2000, 114 Stat. 2302.)
 
@@ -24,7 +24,11 @@ There shall be in the Administration a Deputy Administrator of the United States
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transferof Functions note set out under section 2202 of this title.
+Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+
+#### Re-Establishment of Position of United States Fire Administrator
+
+Pub. L. 108–169, title I, §102, Dec. 6, 2003, 117 Stat. 2036, provided that: “Section 1513 of the Homeland Security Act of 2002 (6 U.S.C. 553) does not apply to the position or office of Administrator of the United States Fire Administration, who shall continue to be appointed and compensated as provided by section 5(b) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2204(b)).”
 
 #### Termination or Privatization of Functions
 

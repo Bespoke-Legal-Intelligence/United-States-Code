@@ -6,7 +6,7 @@ There is established, as an independent establishment of the executive branch, t
 
 #### (b) Membership
 
-The Foundation shall be subject to the supervision and direction of the Board of Trustees.The Board shall be composed of 13 members as follows:
+The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be composed of 13 members as follows:
 
 &emsp;(1) 2 members appointed by the President in consultation with the President pro tempore of the Senate.
 

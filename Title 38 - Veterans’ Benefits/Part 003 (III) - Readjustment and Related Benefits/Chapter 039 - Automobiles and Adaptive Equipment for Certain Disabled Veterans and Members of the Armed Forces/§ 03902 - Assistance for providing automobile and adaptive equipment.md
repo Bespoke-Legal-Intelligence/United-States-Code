@@ -1,6 +1,6 @@
 ### §3902. Assistance for providing automobile and adaptive equipment
 
-(a) The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $9,000, whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
+(a) The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $11,000, whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
 
 (b)(1) The Secretary, under regulations which the Secretary shall prescribe, shall provide each eligible person the adaptive equipment deemed necessary to insure that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person's own safety and the safety of others and so as to satisfy the applicable standards of licensure established by the State of such person's residency or other proper licensing authority.
 
@@ -10,9 +10,11 @@
 
 (d) If an eligible person cannot qualify to operate an automobile or other conveyance, the Secretary shall provide or assist in providing an automobile or other conveyance to such person, as provided in subsection (a) of this section, if the automobile or other conveyance is to be operated for the eligible person by another person.
 
-(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995.)
+(Added Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1999, §1902; amended Pub. L. 93–538, §3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, §304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, §305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, §302, May 20, 1988, 102 Stat. 534; renumbered §3902 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1),Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, §8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, §503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, §402(b), Dec. 16, 2003, 117 Stat. 2664.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–183 substituted “$11,000” for “$9,000”.
 
 2001—Subsec. (a). Pub. L. 107–103 substituted “$9,000” for ‘$8,000”.
 
@@ -45,6 +47,10 @@ Subsec. (c). Pub. L. 97–66, §303, substituted “which the Administrator shal
 1974—Subsec. (a). Pub. L. 93–538, §3(1), (2), substituted “automobile or other conveyance (including all State, local, and other taxes) or $3,300” for “automobile or other conveyance or $2,800”.
 
 Subsec. (c). Pub. L. 93–538, §3(3), substituted “person may previously or subsequently have acquired” for “person may subsequently have acquired”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–183 applicable with respect to assistance furnished on or after Dec. 16, 2003, see section 402(c) of Pub. L. 108–183, set out as a note under section 2102 of this title.
 
 #### Effective Date of 1998 Amendment
 

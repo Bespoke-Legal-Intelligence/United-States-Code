@@ -20,7 +20,7 @@ Any countercyclical efforts undertaken to aid in achieving the purposes of secti
 
 &emsp;(8) Federal procurement programs which are targeted on labor surplus areas; and
 
-&emsp;(9) augmentation of other employment and training programs which would help to reducehigh levels of unemployment arising from cyclical causes.
+&emsp;(9) augmentation of other employment and training programs which would help to reduce high levels of unemployment arising from cyclical causes.
 
 #### (b) Triggering mechanism
 

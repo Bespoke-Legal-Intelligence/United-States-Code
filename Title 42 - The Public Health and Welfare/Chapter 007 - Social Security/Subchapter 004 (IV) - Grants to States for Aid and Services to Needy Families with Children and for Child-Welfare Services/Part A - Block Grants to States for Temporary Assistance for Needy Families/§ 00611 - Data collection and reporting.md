@@ -182,7 +182,7 @@ Subsec. (a)(6)(C). Pub. L. 105–33, §5001(e)(5), added subpar. (C).
 
 Subsec. (a)(7). Pub. L. 105–33, §5507(2), redesignated par. (6) as (7).
 
-Pub. L. 105–33, §5001(e)(6), inserted before period at end “, and shall consult with the Secretary of Labor indefining the data elements with respect to programs operated with funds provided under section 603(a)(5) of this title”.
+Pub. L. 105–33, §5001(e)(6), inserted before period at end “, and shall consult with the Secretary of Labor in defining the data elements with respect to programs operated with funds provided under section 603(a)(5) of this title”.
 
 #### Effective Date of 1997 Amendment
 

@@ -18,7 +18,7 @@ The State educational agency shall certify each application submitted under subs
 
 &emsp;(5) An assurance that the local educational agency will comply with this part, including the provisions of section 7217a of this title concerning the participation of children enrolled in private nonprofit schools.
 
-&emsp;(6) An assurance that the local educational agency will keep such records, and providesuch information to the State educational agency, as may be reasonably required for fiscal audit and program evaluation (consistent with the responsibilities of the State educational agency under this part).
+&emsp;(6) An assurance that the local educational agency will keep such records, and provide such information to the State educational agency, as may be reasonably required for fiscal audit and program evaluation (consistent with the responsibilities of the State educational agency under this part).
 
 &emsp;(7) Provision, in the allocation of funds for the assistance authorized by this part and in the planning, design, and implementation of such innovative assistance programs, for systematic consultation with parents of children attending elementary schools and secondary schools in the area served by the local educational agency, with teachers and administrative personnel in such schools, and with such other groups involved in the implementation of this part (such as librarians, school counselors, and other pupil services personnel) as may be considered appropriate by the local educational agency.
 

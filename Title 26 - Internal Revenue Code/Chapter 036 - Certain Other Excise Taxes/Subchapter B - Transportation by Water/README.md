@@ -13,7 +13,7 @@ A prior subchapter B, consisted of sections 4461 to 4464 of this title, prior to
 
 Section 4461, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 21, 1959, Pub. L. 86–344, §6(a), 73 Stat. 620; June 21, 1965, Pub. L. 89–44, title IV, §403(a), 79 Stat. 148, imposed a special tax on persons who maintained for use or permitted use of coin-operated gaming devices and provided an exception from such tax.
 
-Section 4462, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 2, 1958, Pub. L. 85–859, title I, §152(a), 72 Stat. 1304; June 21, 1965, Pub. L. 89–44, title IV, §403(b), 79 Stat. 149; Oct. 4, 1976, Pub. L. 94–455, title XII, §1208(b), 90 Stat. 1709, defined coin-operated gaming devices.
+Section 4462, acts Aug. 16, 1954, ch. 736, 68A Stat. 531; Sept. 2, 1958, Pub. L. 85–859, title I, §152(a), 72 Stat. 1304; June 21, 1965, Pub. L. 89–44, title IV, §403(b), 79 Stat. 149;Oct. 4, 1976, Pub. L. 94–455, title XII, §1208(b), 90 Stat. 1709, defined coin-operated gaming devices.
 
 Section 4463, act Aug. 16, 1954, ch. 736, 68A Stat. 531, related to administrative provisions.
 

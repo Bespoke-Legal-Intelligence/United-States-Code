@@ -160,7 +160,7 @@ There is established as an independent entity of the legislative branch of the U
 
 #### (iv) Workplan
 
-&emsp;&emsp;&emsp;To carry out clause (i) and to assist in the evaluation of the fellowships underparagraph (4), the program shall, for each fellow, approve a work plan that identifies the target objectives for the fellow in the fellowship, including specific duties and responsibilities related to those objectives.
+&emsp;&emsp;&emsp;To carry out clause (i) and to assist in the evaluation of the fellowships under paragraph (4), the program shall, for each fellow, approve a work plan that identifies the target objectives for the fellow in the fellowship, including specific duties and responsibilities related to those objectives.
 
 #### (C) Period of fellowship
 
@@ -302,7 +302,7 @@ There is established as an independent entity of the legislative branch of the U
 
 #### (A) In general
 
-&emsp;&emsp;The Board shall appoint an Executive Director of the program who shall administer the program. The Executive Director shall carry out such other functions consistent with the provisions of this section as the Board shall prescribe.
+&emsp;&emsp;The Board shall appoint an Executive Director of the program who shall administer the program. The Executive Director shall carry out such other functions consistentwith the provisions of this section as the Board shall prescribe.
 
 #### (B) Restriction
 
@@ -370,5 +370,5 @@ GS–15 of the General Schedule, referred to in subsec. (g)(2)(B), (3)(B), is se
 
 #### Effective Date
 
-Pub. L. 107–171, title IV, §4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided inthis title \[see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture\], the amendments made by this title take effect on October 1, 2002.”
+Pub. L. 107–171, title IV, §4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided in this title \[see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture\], the amendments made by this title take effect on October 1, 2002.”
 

@@ -19,6 +19,10 @@
 
 1972—Pub. L. 92–539, title II, §202, Oct. 24, 1972, 86 Stat. 1072, substituted “Kidnaping” for “Transportation” in item 1201.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 2516 of this title.
+
 
 ---
 

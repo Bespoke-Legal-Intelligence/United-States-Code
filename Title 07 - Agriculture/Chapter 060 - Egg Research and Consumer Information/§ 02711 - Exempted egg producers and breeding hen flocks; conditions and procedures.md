@@ -18,7 +18,7 @@ The following shall be exempt from the specific provisions of this chapter under
 
 &emsp;&emsp;(B) in cases in which the producer is a general partnership or similar entity, laying hens owned by the entity and all partners or equity participants in the entity; and
 
-&emsp;&emsp;(C) in cases in which the producer holds 50 percent or more of the stock or other beneficial interest in a corporation, joint stock company, association, cooperative, limited partnership, or other similar entity, laying hens owned by the entity.
+&emsp;&emsp;(C) in cases in which the producer holds 50 percent or more of the stock or other beneficial interest in a corporation, joint stockcompany, association, cooperative, limited partnership, or other similar entity, laying hens owned by the entity.
 
 > &emsp;Ownership of laying hens by a trust or similar entity shall be considered ownership by the beneficiaries of the trust or other entity.
 

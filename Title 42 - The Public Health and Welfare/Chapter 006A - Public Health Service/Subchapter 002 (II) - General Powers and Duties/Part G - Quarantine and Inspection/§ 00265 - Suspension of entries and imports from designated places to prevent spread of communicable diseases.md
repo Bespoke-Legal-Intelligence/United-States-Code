@@ -8,6 +8,10 @@ Whenever the Surgeon General determines that by reason of the existence of any c
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
+#### Delegation of Functions
+
+For assignment of functions of President under this section, see section 3 of Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, set out as a note under section 264 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 271 of this title.

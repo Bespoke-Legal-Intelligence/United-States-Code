@@ -64,7 +64,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 #### (A) In general
 
-&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shallserve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
+&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
 
 #### (B) Appointment
 

@@ -588,6 +588,186 @@ Section 3(b) of Pub. L. 87–723 provided that the amendments made by that secti
 
 Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing and Urban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
 
+#### Intergenerational Housing Assistance
+
+Pub. L. 108–186, title II, Dec. 16, 2003, 117 Stat. 2688, provided that:
+
+#### “SEC. 201. SHORT TITLE.
+
+“This title may be cited as the ‘Living Equitably: Grandparents Aiding Children and Youth Act of 2003’ or the ‘LEGACY Act of 2003’.
+
+#### “SEC. 202. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Child.—The term ‘child’ means an individual who—
+
+&emsp;&emsp;“(A) is not attending school and is not more than 18 years of age; or
+
+&emsp;&emsp;“(B) is attending school and is not more than 19 years of age.
+
+&emsp;“(2)
+
+Covered family.—The term ‘covered family’ means a family that—
+
+&emsp;&emsp;“(A) includes a child; and
+
+&emsp;&emsp;“(B) has a head of household who is—
+
+&emsp;&emsp;&emsp;“(i) a grandparent of the child who is raising the child; or
+
+&emsp;&emsp;&emsp;“(ii) a relative of the child who is raising the child.
+
+&emsp;“(3)
+
+Elderly person.—The term ‘elderly person’ has the same meaning as in section 202(k) of the Housing Act of 1959 (12 U.S.C. 1701q(k)).
+
+&emsp;“(4)
+
+Grandparent.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘grandparent’ means, with respect to a child, an individual who is a grandparent or stepgrandparent of the child by blood or marriage, regardless of the age of such individual.
+
+&emsp;&emsp;“(B)
+
+Case of adoption.—In the case of a child who was adopted, the term includes an individual who, by blood or marriage, is a grandparent or stepgrandparent of the child as adopted.
+
+&emsp;“(5)
+
+Intergenerational dwelling unit.—The term ‘intergenerational dwelling unit’ means a qualified dwelling unit that is reserved for occupancy only by an intergenerational family.
+
+&emsp;“(6)
+
+Intergenerational family.—The term ‘intergenerational family’ means a covered family that has a head of household who is an elderly person.
+
+&emsp;“(7)
+
+Private nonprofit organization.—The term ‘private nonprofit organization’ has the same meaning as in section 202(k) of the Housing Act of 1959 (12 U.S.C. 1701q(k)).
+
+&emsp;“(8)
+
+Qualified dwelling unit.—The term ‘qualified dwelling unit’ means a dwelling unit that—
+
+&emsp;&emsp;“(A) has not fewer than 2 separate bedrooms;
+
+&emsp;&emsp;“(B) is equipped with design features appropriate to meet the special physical needs of elderly persons, as needed; and
+
+&emsp;&emsp;“(C) is equipped with design features appropriate to meet the special physical needs of young children, as needed.
+
+&emsp;“(9)
+
+Raising a child.—The term ‘raising a child’ means, with respect to an individual, that the individual—
+
+&emsp;&emsp;“(A) resides with the child; and
+
+&emsp;&emsp;“(B) is the primary caregiver for the child—
+
+&emsp;&emsp;&emsp;“(i) because the biological or adoptive parents of the child do not reside with the child or are unable or unwilling to serve as the primary caregiver for the child; and
+
+&emsp;&emsp;&emsp;“(ii) regardless of whether the individual has a legal relationship to the child (such as guardianship or legal custody) or is caring for the child informally and has no such legal relationship with the child.
+
+&emsp;“(10)
+
+Relative.—
+
+&emsp;&emsp;“(A)
+
+In general.—The term ‘relative’ means, with respect to a child, an individual who—
+
+&emsp;&emsp;&emsp;“(i) is not a parent of the child by blood or marriage; and
+
+&emsp;&emsp;&emsp;“(ii) is a relative of the child by blood or marriage, regardless of the age of the individual.
+
+&emsp;&emsp;“(B)
+
+Case of adoption.—In the case of a child who was adopted, the term ‘relative’ includes an individual who, by blood or marriage, is a relative of the family who adopted the child.
+
+&emsp;“(11)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Housing and Urban Development.
+
+#### “SEC. 203. DEMONSTRATION PROGRAM FOR ELDERLY HOUSING FOR INTERGENERATIONAL FAMILIES.
+
+“(a)
+
+Demonstration Program.—The Secretary shall carry out a demonstration program (referred to in this section as the ‘demonstration program’) to provide assistance for intergenerational dwelling units for intergenerational families in connection with the supportive housing program under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q).
+
+“(b)
+
+Intergenerational Dwelling Units.—The Secretary shall provide assistance under this section only to private nonprofit organizations selected under subsection (d) for use only for expanding the supply of intergenerational dwelling units, which units shall be provided—
+
+&emsp;“(1) by designating and retrofitting, for use as intergenerational dwelling units, existing dwelling units that are located within a project assisted under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q);
+
+&emsp;“(2) through development of buildings or projects comprised solely of intergenerational dwelling units; or
+
+&emsp;“(3) through the development of an annex or addition to an existing project assisted under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q), that contains intergenerational dwelling units, including through the development of elder cottage housing opportunity units that are small, freestanding, barrier free, energy efficient, removable dwelling units located adjacent to a larger project or dwelling.
+
+“(c)
+
+Program Terms.—Assistance provided pursuant to this section shall be subject to the provisions of section 202 of the Housing Act of 1959 (12 U.S.C. 1701q), except that—
+
+&emsp;“(1) notwithstanding subsection (d)(1) of that section 202 or any provision of that section restricting occupancy to elderly persons, any intergenerational dwelling unit assisted under the demonstration program may be occupied by an intergenerational family;
+
+&emsp;“(2) subsections (e) and (f) of that section 202 shall not apply;
+
+&emsp;“(3) in addition to the requirements under subsection (g) of that section 202, the Secretary shall—
+
+&emsp;&emsp;“(A) ensure that occupants of intergenerational dwelling units assisted under the demonstration program are provided a range of services that are tailored to meet the needs of elderly persons, children, and intergenerational families; and
+
+&emsp;&emsp;“(B) coordinate with the heads of other Federal agencies as may be appropriate to ensure the provision of such services; and
+
+&emsp;“(4) the Secretary may waive or alter any other provision of that section 202 necessary to provide for assistance under the demonstration program.
+
+“(d)
+
+Selection.—The Secretary shall—
+
+&emsp;“(1) establish application procedures for private nonprofit organizations to apply for assistance under this section; and
+
+&emsp;“(2) to the extent that amounts are made available pursuant to subsection (f), select not less than 2 and not more than 4 projects that are assisted under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q) for assistance under this section, based on the ability of the applicant to develop and operate intergenerational dwelling units and national geographical diversity among those projects funded.
+
+“(e)
+
+Report.—Not later than 36 months after the date of enactment of this Act \[Dec. 16, 2003\], the Secretary shall submit a report to Congress that—
+
+&emsp;“(1) describes the demonstration program; and
+
+&emsp;“(2) analyzes the effectiveness of the demonstration program.
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated $10,000,000 to carry out this section.
+
+“(g)
+
+Sunset.—The demonstration program carried out under this section shall terminate 5 years after the date of enactment of this Act.
+
+#### “SEC. 204. TRAINING FOR HUD PERSONNEL REGARDING GRANDPARENT-HEADED AND RELATIVE-HEADED FAMILIES ISSUES.
+
+\[Amended section 3535 of Title 42, The Public Health and Welfare.\]
+
+#### “SEC. 205. STUDY OF HOUSING NEEDS OF GRANDPARENT-HEADED AND RELATIVE-HEADED FAMILIES.
+
+“(a)
+
+In General.—The Secretary and the Director of the Bureau of the Census jointly shall—
+
+&emsp;“(1) conduct a study to determine an estimate of the number of covered families in the United States and their affordable housing needs; and
+
+&emsp;“(2) submit a report to Congress regarding the results of the study conducted under paragraph (1).
+
+“(b)
+
+Report and Recommendations.—The report required under subsection (a) shall—
+
+&emsp;“(1) be submitted to Congress not later than 12 months after the date of enactment of this Act \[Dec. 16, 2003\]; and
+
+&emsp;“(2) include recommendations by the Secretary and the Director of the Bureau of the Census regarding how the major assisted housing programs of the Department of Housing and Urban Development, including the supportive housing for the elderly program under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q) can be used and, if appropriate, amended or altered, to meet the affordable housing needs of covered families.”
+
 #### Prepayment and Refinancing
 
 Pub. L. 106–569, title VIII, §811, Dec. 27, 2000, 114 Stat. 3019, as amended by Pub. L. 107–116, title VI, §633(a), Jan. 10, 2002, 115 Stat. 2228, provided that:
@@ -716,7 +896,7 @@ Section 162(a) of Pub. L. 100–242 provided that:
 
 &emsp;“(E) the cost containment policies currently being implemented in the development of small group homes (i) do not adequately reflect the necessity for building designs to meet the needs of the designated residents; and (ii) do not recognize necessary State and local standards for the operation of such homes;
 
-&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
+&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals forhousing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
 
 &emsp;“(G) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families should be replaced by a more appropriate subsidy mechanism;
 

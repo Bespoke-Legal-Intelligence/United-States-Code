@@ -20,7 +20,7 @@ The Congress finds that—
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 99–659 provided that: “This title \[enacting this chapter and amending section 713c–3 of Title 15, Commerce and Trade\] may be cited as the ‘Fish and Seafood Promotion Act of 1986’.”
+Section 201 of title II of Pub. L. 99–659 provided that: “This title \[enacting this chapter and amending section713c–3 of Title 15, Commerce and Trade\] may be cited as the ‘Fish and Seafood Promotion Act of 1986’.”
 
 #### Report to Congress on Fish and Seafood Promotion
 

@@ -46,5 +46,5 @@ In subsection (c), the words “direct or indirect” are omitted as surplus. Th
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–134 inserted at end “The preceding sentence shall not apply for any fiscal yearfor which no Federal assistance is provided to Amtrak.”
+1997—Subsec. (b). Pub. L. 105–134 inserted at end “The preceding sentence shall not apply for any fiscal year for which no Federal assistance is provided to Amtrak.”
 

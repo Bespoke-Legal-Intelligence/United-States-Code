@@ -16,13 +16,13 @@
 
 (f) A civil action involving an application for the issuance of an order directing the administering authority or the International Trade Commission to make confidential information available under section 777(c)(2) of the Tariff Act of 1930 may be commenced in the Court of International Trade by any interested party whose application for disclosure of such confidential information was denied under section 777(c)(1) of such Act.
 
-(g)(1) A civil action to review any decision of the Secretary of the Treasury to deny a customs broker's license under section 641(b)(2) or (3) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke such license or permit under section 641(b)(5) or (c)(2) of such Act, may be commenced in the Court of International Trade by the person whose license or permit was denied or revoked.
+(g)(1) A civil action to review any decision of the Secretary of the Treasury to deny a customs broker's license under section 641(b)(2) or (3) ofthe Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke such license or permit under section 641(b)(5) or (c)(2) of such Act, may be commenced in the Court of International Trade by the person whose license or permit was denied or revoked.
 
 (2) A civil action to review any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit or impose a monetary penalty in lieu thereof under section 641(d)(2)(B) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person against whom the decision was issued.
 
 (3) A civil action to review any decision or order of the Customs Service to deny, suspend, or revoke accreditation of a private laboratory under section 499(b) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose accreditation was denied, suspended, or revoked.
 
-(h) A civil action described in section 1581(h) of this title may be commenced in the Court of International Trade by the person who wouldhave standing to bring a civil action under section 1581(a) of this title if he imported the goods involved and filed a protest which was denied, in whole or in part, under section 515 of the Tariff Act of 1930.
+(h) A civil action described in section 1581(h) of this title may be commenced in the Court of International Trade by the person who would have standing to bring a civil action under section 1581(a) of this title if he imported the goods involved and filed a protest which was denied, in whole or in part, under section 515 of the Tariff Act of 1930.
 
 (i) Any civil action of which the Court of International Trade has jurisdiction, other than an action specified in subsections (a)–(h) of this section, may be commenced in the court by any person adversely affected or aggrieved by agency action within the meaning of section 702 of title 5.
 

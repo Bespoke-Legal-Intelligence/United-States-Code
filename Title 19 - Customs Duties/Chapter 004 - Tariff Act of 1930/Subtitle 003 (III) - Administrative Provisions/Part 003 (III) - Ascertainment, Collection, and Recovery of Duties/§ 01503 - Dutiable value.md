@@ -6,7 +6,7 @@ Except as provided in section 1520(c) of this title (relating to reliquidations 
 
 #### Prior Provisions
 
-Provisions somewhat similar to those in subsecs. (a) and (b) were contained in act Sept. 21, 1922, ch. 356, title IV, §503, 42 Stat. 967. Provisions similar to former subsec. (b) relating to entries pending reappraisement were contained in act Sept. 21, 1922, ch. 356, title IV, §489, 42 Stat. 962. Both of the acts of 1922 were in part superseded by act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions somewhat similar to those in subsecs. (a) and (b) were contained in act Sept. 21, 1922, ch. 356, titleIV, §503, 42 Stat. 967. Provisions similar to former subsec. (b) relating to entries pending reappraisement were contained in act Sept. 21, 1922, ch. 356, title IV, §489, 42 Stat. 962. Both of the acts of 1922 were in part superseded by act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 A provision for assessment of duty on merchandise of different values when invoiced at an average price, was contained in R.S. §2910, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -30,5 +30,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date of 1953 Amendment; Savings Provision
 
-Amendment by act Aug. 8, 1953, effective on and after the thirtieth day following Aug. 8, 1953, and savingsprovision, see notes set out under section 1304 of this title.
+Amendment by act Aug. 8, 1953, effective on and after the thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
 

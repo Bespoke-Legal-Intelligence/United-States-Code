@@ -6,7 +6,7 @@ Pub. L. 102–325, title IV, §§402(a)(2), 403(a), July 23, 1992, 106 Stat. 482
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 1070, 1070a, 1078, 1087c, 1089, 1091, 1091b, 1096, 1099a–1 of this title.
+This subpart is referred to in sections 1070, 1070a, 1078, 1087c, 1089, 1091, 1091b, 1096, 1099a–1 of this title; title 48 section 1921d.
 
 
 ---

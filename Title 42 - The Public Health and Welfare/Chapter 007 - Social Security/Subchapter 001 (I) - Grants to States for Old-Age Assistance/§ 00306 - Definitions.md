@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 89–97, §§221(a)(2), 222(a), struck out from provision a
 
 1962—Subsec. (a). Pub. L. 87–543, §156(a)(1), inserted “(if provided in or after the third month before the month in which the recipient makes application for assistance)” before “medical care”.
 
-Subsec. (b). Pub. L. 87–543, §156(a)(2), inserted “(if provided in or after the third month before the monthin which the recipient makes application for assistance)” after “care and services”.
+Subsec. (b). Pub. L. 87–543, §156(a)(2), inserted “(if provided in or after the third month before the month in which the recipient makes application for assistance)” after “care and services”.
 
 1960—Subsec. (a). Pub. L. 86–778, §601(f)(1), (2), designated existing provisions as subsec. (a) and inserted provisions excluding from definition of “old-age assistance” any care in behalf of any individual, who is a patient in a medical institution as a result of a diagnosis that he has tuberculosis or psychosis, with respect to any period after the individual has been a patient in an institution, as a result of such diagnosis, for forty-two days.
 

@@ -38,6 +38,30 @@ A prior section 2505 was renumbered section 2532 of this title.
 
 1993—Pub. L. 103–35 substituted “capability” for “capabilty” in section catchline.
 
+#### Study of Beryllium Industrial Base
+
+Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, provided that:
+
+“(a)
+
+Requirement for Study.—The Secretary of Defense shall conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium.
+
+“(b)
+
+Report.—Not later than March 31, 2005, the Secretary shall submit a report on the results of the study to Congress. The report shall contain, at a minimum, the following information:
+
+&emsp;“(1) A discussion of the issues identified with respect to the long-term supply of beryllium.
+
+&emsp;“(2) An assessment of the need, if any, for modernization of the primary sources of production of beryllium.
+
+&emsp;“(3) A discussion of the advisability of, and concepts for, meeting the future defense requirements of the United States for beryllium and maintaining a stable domestic industrial base of sources of beryllium through—
+
+&emsp;&emsp;“(A) cooperative arrangements commonly referred to as public-private partnerships;
+
+&emsp;&emsp;“(B) the administration of the National Defense Stockpile under the Strategic and Critical Materials Stock Piling Act \[50 U.S.C. 98 et seq.\]; and
+
+&emsp;&emsp;“(C) any other means that the Secretary identifies as feasible.”
+
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment
 
 Section 4219 of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(14), May 31, 1993, 107 Stat. 101, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.

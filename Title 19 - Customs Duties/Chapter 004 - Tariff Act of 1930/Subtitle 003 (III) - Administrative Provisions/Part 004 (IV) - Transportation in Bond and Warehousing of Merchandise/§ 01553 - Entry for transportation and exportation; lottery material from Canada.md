@@ -14,7 +14,7 @@ A prior provision that merchandise destined for a foreign country might be enter
 
 A provision that baggage or personal effects in transit to a foreign country might be delivered to the collector for retention without payment of duty, or forwarding to the collector of the port of departure, was contained in act Oct. 3, 1913, ch. 16, §III, CC, 38 Stat. 192, which reenacted Customs Administrative Act June 10, 1890, ch. 407, §28, 26 Stat. 141, as reenacted by Payne-Aldrich Tariff Act Aug. 5, 1909, ch. 6, §28, 36 Stat. 104. Said section III, CC, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-R.S. §2803, on the same subject, was superseded by section 28 of the Customs Administrative Act of June10, 1890, and repealed by section 642 of the act of Sept. 21, 1922.
+R.S. §2803, on the same subject, was superseded by section 28 of the Customs Administrative Act of June 10, 1890, and repealed by section 642 of the act of Sept. 21, 1922.
 
 R.S. §2866, provided for the entry and conveyance in transit, without payment of duties, of merchandise arriving at certain ports in the United States destined for the British possessions in North America, and for conveyance in transit from such possessions for export from said ports, in pursuance of provisions of the treaty with Great Britain of May 8, 1871. It was repealed on the termination of articles 18–25, 30, of that treaty, pursuant to the Joint Resolution of Mar. 3, 1883, No. 22, 22 Stat. 641.
 

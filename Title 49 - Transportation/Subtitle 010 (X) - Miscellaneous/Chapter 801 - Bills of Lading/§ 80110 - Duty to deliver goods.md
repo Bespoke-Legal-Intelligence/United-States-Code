@@ -12,7 +12,7 @@ General Rules.—Except to the extent a common carrier establishes an excuse pro
 
 (b)
 
-Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, acommon carrier may deliver the goods covered by a bill of lading to—
+Persons to Whom Goods May Be Delivered.—Subject to section 80111 of this title, a common carrier may deliver the goods covered by a bill of lading to—
 
 &emsp;(1) a person entitled to their possession;
 
@@ -86,7 +86,7 @@ Aug. 29, 1916, ch. 415, §§8, 9, 16–19, 39 Stat. 539, 541.
 
 49 App.:99.
 
-In subsection (a), before clause (1), the words “Except to the extent a common carrier establishes an excuse provided by law” are substituted for “in the absence of some lawful excuse” and “In case the carrier refuses or fails to deliver the goods, in compliance with a demand by the consignee or holder so accompanied, the burden shall be upon the carrier to establish the existence of a lawful excuse for such refusal or failure” for clarity and to eliminate unnecessary words. The word “must” is substituted for “is bound to” for clarity. The words “if such a demand is accompanied by” are omitted as unnecessary because of the restatement. In clause (1), the word “lawful” is omitted as unnecessary because of the restatement. In clause (2), the word “properly” is omitted as surplus. In clause (3), the word “agrees” is substituted for “A readiness and willingness” for clarity. The word “receipt” is substituted for “acknowledgment” for consistency. The words “if such signature” are omitted as unnecessary.
+In subsection (a), before clause (1), the words “Except to the extent a common carrier establishes an excuse provided by law” are substituted for “in the absence of some lawful excuse” and “In case the carrier refuses or fails to deliver the goods, in compliance with a demand by the consignee or holder so accompanied, the burden shall be upon the carrier to establish the existence of a lawful excuse for such refusal or failure” for clarity and to eliminate unnecessary words. The word “must” is substituted for “is bound to” for clarity. The words “if such a demand is accompanied by” are omitted as unnecessary because of the restatement. In clause (1), the word “lawful” is omitted as unnecessary because of the restatement. In clause (2), the word “properly” isomitted as surplus. In clause (3), the word “agrees” is substituted for “A readiness and willingness” for clarity. The word “receipt” is substituted for “acknowledgment” for consistency. The words “if such signature” are omitted as unnecessary.
 
 In subsection (b), before clause (1), the word “may” is substituted for “is justified . . . in” because it is more accurate. In clause (1), the word “entitled” is substituted for “lawfully entitled” to eliminate an unnecessary word. In clause (3), before subclause (A), the word “if” is substituted for “by the terms of which” for clarity. In subclause (B), the words “another indorsee” are substituted for “by the mediate or immediate indorsee of the consignee” as being inclusive.
 

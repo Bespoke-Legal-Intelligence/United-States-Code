@@ -24,7 +24,7 @@ Selection of Centers.—(1) The Secretary shall select the sites for the centers
 
 (2) A finding by the Secretary referred to in paragraph (1) with respect to a proposal for designation of a site as a location of a center under this section is a finding by the Secretary, upon the recommendations of the Under Secretary for Health and the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions, that the facility or facilities submitting the proposal have developed (or may reasonably be anticipated to develop) each of the following:
 
-&emsp;(A) An arrangement with a qualifying medical school and a qualifying school of public health (or a consortium of such schools) under which physicians and other persons in the health field receive education and training through the participating Department medical facilities so as to provide those persons with training in the detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses induced by exposures to chemical and biological substances, radiation, and incendiary or other explosive weapons or devices.
+&emsp;(A) An arrangement with a qualifying medical school and a qualifying school of publichealth (or a consortium of such schools) under which physicians and other persons in the health field receive education and training through the participating Department medical facilities so as to provide those persons with training in the detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses induced by exposures to chemical and biological substances, radiation, and incendiary or other explosive weapons or devices.
 
 &emsp;(B) An arrangement with a graduate school specializing in epidemiology under which students receive education and training in epidemiology through the participating Department facilities so as to provide such students with training in the epidemiology of contagious and infectious diseases and chemical and radiation poisoning in an exposed population.
 
@@ -76,7 +76,7 @@ Funding.—(1) Amounts appropriated for the activities of the centers under this
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System ofthe Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Peer Review for Designation of Centers
 

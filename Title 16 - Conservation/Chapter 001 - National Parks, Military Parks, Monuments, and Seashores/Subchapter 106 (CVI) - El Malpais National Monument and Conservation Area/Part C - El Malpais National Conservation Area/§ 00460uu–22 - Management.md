@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Bureau of Land Management, sha
 
 #### (b) Hunting and trapping
 
-The Secretary shall permit hunting and trapping within the conservation area in accordancewith applicable laws and regulations of the United States and the State of New Mexico; except that the Secretary, after consultation with the New Mexico Department of Game and Fish, may issue regulations designating zones where and establishing periods when no hunting or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment.
+The Secretary shall permit hunting and trapping within the conservation area in accordance with applicable laws and regulations of the United States and the State of New Mexico; except that the Secretary, after consultation with the New Mexico Department of Game and Fish, may issue regulations designating zones where and establishing periods when no hunting or trapping shall be permitted for reasons of public safety, administration, or public use and enjoyment.
 
 #### (c) Prohibition of collection of green or dead wood for commercial purposes
 

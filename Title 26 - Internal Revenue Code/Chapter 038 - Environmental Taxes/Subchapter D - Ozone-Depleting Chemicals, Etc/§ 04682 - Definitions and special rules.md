@@ -185,7 +185,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;The aggregate tax benefit allowable under subparagraph (A) with respect to ozone-depleting chemicals manufactured, produced, or imported by any person during a calendar year shall not exceed the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount equal to the 1986 export percentage of the aggregate tax which would (but for this subsection and subsection (g)) be imposed by this subchapter with respect to the maximumquantity of ozone-depleting chemicals permitted to be manufactured or produced by such person during such calendar year under regulations prescribed by the Environmental Protection Agency (other than chemicals with respect to which subclause (II) applies),
+&emsp;&emsp;&emsp;&emsp;(I) the amount equal to the 1986 export percentage of the aggregate tax which would (but for this subsection and subsection (g)) be imposed by this subchapter with respect to the maximum quantity of ozone-depleting chemicals permitted to be manufactured or produced by such person during such calendar year under regulations prescribed by the Environmental Protection Agency (other than chemicals with respect to which subclause (II) applies),
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate tax which would (but for this subsection and subsection (g)) be imposed by this subchapter with respect to any additional production allowance granted to such person with respect to ozone-depleting chemicals manufactured or produced by such person during such calendar year by the Environmental Protection Agency under 40 CFR Part 82 (as in effect on September 14, 1989), and
 
@@ -329,7 +329,7 @@ Subsec. (d)(3)(B)(i)(II). Pub. L. 101–508, §11701(g)(3), substituted “tax w
 
 Subsec. (d)(3)(B)(i)(III). Pub. L. 101–508, §11701(g)(4), added subcl. (III).
 
-Subsec. (d)(3)(B)(ii). Pub. L. 101–508, §11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under the preceding sentence shall be based on data published by the Environmental Protection Agency.”
+Subsec. (d)(3)(B)(ii). Pub. L. 101–508, §11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under thepreceding sentence shall be based on data published by the Environmental Protection Agency.”
 
 Subsec. (d)(3)(C). Pub. L. 101–508, §11203(b), added subpar. (C).
 

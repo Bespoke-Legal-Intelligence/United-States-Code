@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(a) “clerk” and “clerk of the court” shall mean the clerk of the district court of the United States, any authorized deputy clerk,and any other person authorized by the court to assist the clerk in the performance of functions under this chapter;
+&emsp;(a) “clerk” and “clerk of the court” shall mean the clerk of the district court of the United States, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter;
 
 &emsp;(b) “chief judge” shall mean the chief judge of any district court of the United States;
 
@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 &emsp;(<i>l</i>) “jury summons” shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 88–139, §2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 61; Pub. L. 91–358, title I, §172(b), July 29, 1970, 84 Stat. 590; Pub. L. 92–437,§1, Sept. 29, 1972, 86 Stat. 740; Pub. L. 95–572, §§3(b), 4, Nov. 2, 1978, 92 Stat. 2453; Pub. L. 95–598, title II, §243, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–650, §3, Nov. 14, 1986, 100 Stat. 3641; Pub. L. 100–702, title VIII, §§802(a), 804, Nov. 19, 1988, 102 Stat. 4657, 4658.)
+(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 88–139, §2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 61; Pub. L. 91–358, title I, §172(b), July 29, 1970, 84 Stat. 590; Pub. L. 92–437, §1, Sept. 29, 1972, 86 Stat. 740; Pub. L. 95–572, §§3(b), 4, Nov. 2, 1978, 92 Stat. 2453; Pub. L. 95–598, title II, §243, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–650, §3, Nov. 14, 1986, 100 Stat. 3641; Pub. L. 100–702, title VIII, §§802(a), 804, Nov. 19, 1988, 102 Stat. 4657, 4658.)
 
 #### Historical and Revision Notes
 

@@ -26,5 +26,5 @@ Section 246(d) of Pub. L. 97–34 provided that: “The amendments made by secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 165, 243, 368, 465, 501, 512, 514, 582, 593, 864, 871, 6050P, 6323 of this title.
+This section is referred to in sections 1, 165, 243, 368, 465, 501, 512, 514, 582, 593, 864, 871, 6050P, 6323 of this title.
 

@@ -22,7 +22,7 @@ Pub. L. 107–282, title I, Nov. 6, 2002, 116 Stat. 1995, provided that:
 
 #### “SEC. 101. SHORT TITLE.
 
-“This title \[amending section 460ccc–1 of this title and enacting this note\] may be cited as the ‘Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002’.
+“This title \[amending section 460ccc–1 of this title and enacting this note\] may be cited as the ‘Red RockCanyon National Conservation Area Protection and Enhancement Act of 2002’.
 
 #### “SEC. 102. DEFINITIONS.
 
@@ -158,7 +158,7 @@ Conforming Amendment.—\[Amended section 460ccc–1 of this title.\]
 
 “(a)
 
-Review of Appraisal.—Not later than 90 days after the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall complete a review of the appraisal entitled, ‘Complete Self-Contained Appraisal Red Rock Exchange, Las Vegas, Nevada’, completed on or about June 3, 2002. The difference in appraisal values shall be reimbursed to the Secretary by the Corporation in accordance with the Southern Nevada Public Lands \[sic\] Management Act of 1998.
+Review of Appraisal.—Not later than 90 days after the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall complete a review of the appraisal entitled, ‘Complete Self-Contained Appraisal Red Rock Exchange, Las Vegas, Nevada’, completed on or about June 3, 2002. The difference in appraisal values shall be reimbursed to the Secretary by the Corporation in accordance with the Southern Nevada Public Lands \[Land\] Management Act of 1998.
 
 “(b)
 

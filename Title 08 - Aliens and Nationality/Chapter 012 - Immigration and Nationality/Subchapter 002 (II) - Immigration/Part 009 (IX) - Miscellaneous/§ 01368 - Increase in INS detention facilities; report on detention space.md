@@ -22,7 +22,7 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The first report submitted under paragraph (1) shall include an estimate of thenumber of criminal aliens who, in each of the 3 fiscal years concluded prior to the date of the report—
+&emsp;&emsp;&emsp;The first report submitted under paragraph (1) shall include an estimate of the number of criminal aliens who, in each of the 3 fiscal years concluded prior to the date of the report—
 
 &emsp;&emsp;&emsp;&emsp;(I) were released from detention facilities of the Immigration and Naturalization Service (whether operated directly by the Service or through contract with other persons or agencies); or
 
@@ -30,7 +30,7 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (ii) Aliens convicted of aggravated felonies
 
-&emsp;&emsp;&emsp;The estimate under clause (i) shall estimate separately, with respect to each year described in such clause, the number of criminal aliens described in such clause who were convicted of an aggravated felony.
+&emsp;&emsp;&emsp;The estimate under clause (i) shall estimate separately, with respect to each yeardescribed in such clause, the number of criminal aliens described in such clause who were convicted of an aggravated felony.
 
 #### (B) All inadmissible or deportable aliens
 

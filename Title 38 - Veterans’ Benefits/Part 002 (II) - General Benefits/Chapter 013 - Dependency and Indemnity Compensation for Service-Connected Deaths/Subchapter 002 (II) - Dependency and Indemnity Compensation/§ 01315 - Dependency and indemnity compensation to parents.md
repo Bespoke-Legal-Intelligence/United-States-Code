@@ -120,7 +120,7 @@ Subsec. (g). Pub. L. 102–40 substituted “5312” for “3112”.
 
 Subsec. (f)(1)(G). Pub. L. 97–295, §4(10)(B), substituted “percent” for “per centum”.
 
-1980—Subsec. (f). Pub. L. 96–466 redesignated subsec. (g) as (f). Former subsec. (f), which directed the Administrator, upon ascertaining that there had been overpayments to a parent under this section, to deduct such overpayments (unless waived) from any future payments made to such parent under this section, was struck out.
+1980—Subsec. (f). Pub. L. 96–466 redesignated subsec. (g) as (f). Former subsec. (f), which directed the Administrator, upon ascertaining that there had been overpayments to a parent under this section, to deduct suchoverpayments (unless waived) from any future payments made to such parent under this section, was struck out.
 
 Subsecs. (g), (h). Pub. L. 96–466 redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
@@ -232,7 +232,7 @@ Subsec. (g)(1)(M). Pub. L. 91–588, §8(a), added subpar. (M).
 
 Subsec. (c). Pub. L. 90–275, §2(b), in providing new annual income limits to measure monthly compensation of two parents not living together, reenacted minimum income limit of $800 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $1,800, and substituted a sliding scale of payments based on one hundred dollar increments from more than $800 to more than $1,900 to $2,000 for payments of $54 to 10 for former sliding scale based on limits of $800 to 1,100, $1,100 to 1,300, $1,300 to 1,500, and $1,500 to 1,800 for payments of $46, $35, $23, and $12, respectively.
 
-Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to measure monthly compensation of two parents living together, reenacted minimum combined income limit of $1,000 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $3,000, and substituted a sliding scale of payments based on one hundred dollar increments from more than $1,000 to $3,100 for payments of $56 to 11 for former sliding scale based on five hundred dollar increments from more than $1,000 to $3,000 for payments of $58, $46, $35, $23, and $12.
+Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to measure monthly compensation of two parents living together, reenacted minimum combined income limit of $1,000 for monthly benefit of $58, struck out prohibition against payments when income is in excess of $3,000, and substituted a sliding scale of payments based on one hundred dollar increments from more than $1,000 to $3,100 for payments of $56 to 11 for former sliding scale based on five hundreddollar increments from more than $1,000 to $3,000 for payments of $58, $46, $35, $23, and $12.
 
 1966—Subsec. (b). Pub. L. 89–730, §1(a), designated existing subsection as par. (1), and in par. (1) as so designated, substituted reference to subsec. (b)(2) for subsec. (d), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income, and added par. (2).
 

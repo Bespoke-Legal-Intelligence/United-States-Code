@@ -42,7 +42,7 @@ In General.—The Secretary shall issue regulations establishing procedures unde
 
 (b)
 
-Notice to Agency.—Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agencyfor each program listed in subsection (a) that is identified in the notice as a program under which an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
+Notice to Agency.—Upon receipt of notice under subsection (a) from an eligible unit of general local government, the Secretary shall notify the head of the appropriate Federal agency for each program listed in subsection (a) that is identified in the notice as a program under which an activity will be conducted with assistance under this chapter. The notification shall state that the unit has elected to use some or all of its assistance under this chapter for activities under that program. The head of a Federal agency that receives such a notification shall ensure that such use is in compliance with the laws and regulations applicable to that program, except that any requirement to provide matching funds shall not apply to that use.
 
 (c)
 
@@ -74,7 +74,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(7) after reasonable notice to the government, the government will make available to the Secretary and the Comptroller General of the United States, with the right to inspect, records the Secretary reasonably requires to review compliance with this chapter or the Comptroller General of the United States reasonably requires to review compliance and operations under section 6718(b);
 
-&emsp;(8) the government will make reports the Secretary reasonably requires, in addition to the annual reports required under section 6719(b); and
+&emsp;(8) the government will make reports the Secretary reasonably requires, in addition tothe annual reports required under section 6719(b); and
 
 &emsp;(9) the government will spend the funds only for the purposes set forth in section 6701(a)(2).
 
@@ -110,7 +110,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10,Apr. 11, 1965, 79 Stat. 27, as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to section 7213a of Title 20.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1), (9), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Parts A and B of chapter 1 of title I of the Act were classified generally to parts A (§2711 et seq.) and B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See part A (§6311 et seq.) and subpart 3 (§6381 et seq.) of part B of subchapter I of chapter 70 of Title 20. Section 5122 of the Act was classified to section 3192 of Title 20 prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382. A new section 5122 of the Act, relating to applications for assistance under educational reform programs, was added by Pub. L. 107–110 and is classified to section 7213a of Title 20.
 
 Section 682 of the Community Services Block Grant Act, referred to in subsec. (a)(2), which was classified to section 9910c of Title 42, The Public Health and Welfare, was omitted in the general amendment of chapter 106 of Title 42, by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. A new section 682 of the Act, containing similar subject matter, is classified to section 9923 of Title 42.
 
@@ -134,7 +134,7 @@ The Carl Perkins Vocational Educational and Applied Technology Education Act, re
 
 Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 
-The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title III of the Act is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means theJuvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title III of the Act is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
 The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 

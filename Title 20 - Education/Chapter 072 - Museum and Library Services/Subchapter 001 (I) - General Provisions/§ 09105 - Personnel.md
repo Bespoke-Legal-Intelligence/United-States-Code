@@ -12,7 +12,7 @@ The Director may, in accordance with applicable provisions of title 5, appoint a
 
 #### (2) Number and compensation
 
-&emsp;The number of employees appointed and compensated under paragraph (1) shall not exceed 1/5 of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for level GS–15 of the General Schedule under section 5332 of title 5.
+&emsp;The number of employees appointed and compensated under paragraph (1) shall not exceed 1/5 of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for levelGS–15 of the General Schedule under section 5332 of title 5.
 
 #### (c) Voluntary services
 
@@ -34,5 +34,5 @@ A prior section 206 of Pub. L. 94–462 was classified to section 965 of this ti
 
 #### Consideration Given to Individuals With Experience
 
-Section 101(e) \[title VII, §706\] of div. A of Pub. L. 104–208 provided that: “Consistent with title 5, United States Code, in appointing employees of the Office of Library Services, the Director of the Institute of Museum and Library Services shall give strong consideration to individuals with experience in administering State-based and national library and information services programs.”
+Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §706\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, required Director of the Institute of Museum and Library Services to give strong consideration to individuals with experience in administering State-based and national library and information services programs when appointing employees of the Office of Library Services, prior to repeal by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
 

@@ -10,7 +10,7 @@ No provision of a program administered by the Secretary or by any other officer 
 
 #### (c) Funding under pre-existing programs
 
-The Secretary shall not, during the period within eight months after May 4, 1980, take any action to withhold, suspend, or terminate funds under any program transferred by this chapter by reason of the failure of any State to comply with any applicable law requiring the administration of such a program through a single organizational unit.
+The Secretary shall not, during the period within eight months after May 4, 1980, take anyaction to withhold, suspend, or terminate funds under any program transferred by this chapter by reason of the failure of any State to comply with any applicable law requiring the administration of such a program through a single organizational unit.
 
 (Pub. L. 96–88, title I, §103, Oct. 17, 1979, 93 Stat. 670.)
 

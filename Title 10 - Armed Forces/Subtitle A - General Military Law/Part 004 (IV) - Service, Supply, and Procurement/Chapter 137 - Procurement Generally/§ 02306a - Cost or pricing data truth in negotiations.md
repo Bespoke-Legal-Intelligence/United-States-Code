@@ -110,7 +110,7 @@ Limitations on authority.—The Federal Acquisition Regulation shall include the
 
 (e)
 
-Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to excludeany significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
+Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
 
 (B) For the purposes of this section, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
@@ -124,7 +124,7 @@ Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (
 
 &emsp;&emsp;(ii) otherwise was in a superior bargaining position with respect to the property or services procured;
 
-&emsp;(B) the contracting officer should have known that the cost and pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
+&emsp;(B) the contracting officer should have known that the cost and pricing data in issuewere defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
 
 &emsp;(C) the contract was based on an agreement between the contractor and the United States about the total cost of the contract and there was no agreement about the cost of each item procured under such contract; or
 
@@ -352,9 +352,53 @@ Section 101(c) \[title X, §952(d)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 Section 803(c) of Pub. L. 101–510, directed Secretary of Defense to prescribe regulations identifying type of procurements for which contracting officers should consider requiring submission of certified cost or pricing data under subsec. (c) of this section, and also directed Secretary to prescribe regulations concerning types of information that offerors had to submit for contracting officer to consider in determining whether price of procurement to Government was fair and reasonable when certified cost or pricing data were not required to be submitted under this section because price of procurement to the United States was not expected to exceed $500,000, such information, at minimum, to include appropriate information on prices at which such offeror had previously sold same or similar products, with such regulations to be prescribed not later than six months after Nov. 5, 1990, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
 
+#### Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards
+
+Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, provided that:
+
+“(a)
+
+Guidance for Exceptions in Exceptional Circumstances.—Not later than 60 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall issue guidance on the circumstances under which it is appropriate to grant an exceptional case exception or waiver with respect to certified cost and pricing data and cost accounting standards.
+
+“(b)
+
+Determination Required for Exceptional Case Exception or Waiver.—The guidance shall, at a minimum, include a limitation that a grant of an exceptional case exception or waiver is appropriate with respect to a contract, subcontract, or (in the case of submission of certified cost and pricing data) modification only upon a determination that—
+
+&emsp;“(1) the property or services cannot reasonably be obtained under the contract, subcontract, or modification, as the case may be, without the grant of the exception or waiver;
+
+&emsp;“(2) the price can be determined to be fair and reasonable without the submission of certified cost and pricing data or the application of cost accounting standards, as the case may be; and
+
+&emsp;“(3) there are demonstrated benefits to granting the exception or waiver.
+
+“(c)
+
+Applicability of New Guidance.—The guidance issued under subsection (a) shall apply to each exceptional case exception or waiver that is granted on or after the date on which the guidance is issued.
+
+“(d)
+
+Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers With Price or Value Greater Than $15,000,000.—(1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
+
+“(2) The report for a fiscal year shall include—
+
+&emsp;“(A) with respect to any commercial item exception granted in the case of a contract, subcontract, or contract or subcontract modification that is expected to have a price of $15,000,000 or more, an explanation of the basis for the determination that the products or services to be purchased are commercial items, including an identification of the specific steps taken to ensure price reasonableness; and
+
+&emsp;“(B) with respect to any exceptional case exception or waiver granted in the case of a contract or subcontract that is expected to have a value of $15,000,000 or more, an explanation of the basis for the determination described in subsection (b), including an identification of the specific steps taken to ensure that the price was fair and reasonable.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘exceptional case exception or waiver’ means either of the following:
+
+&emsp;&emsp;“(A) An exception pursuant to section 2306a(b)(1)(C) of title 10, United States Code, relating to submission of certified cost and pricing data.
+
+&emsp;&emsp;“(B) A waiver pursuant to section 26(f)(5)(B) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)(5)(B)), relating to the applicability of cost accounting standards to contracts and subcontracts.
+
+&emsp;“(2) The term ‘commercial item exception’ means an exception pursuant to section 2306a(b)(1)(B) of title 10, United States Code, relating to submission of certified cost and pricing data.”
+
 #### Defense Commercial Pricing Management Improvement
 
-Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
+Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615, provided that:
 
 “(a)
 
@@ -388,15 +432,15 @@ Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop an
 
 &emsp;“(A) that are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends; and
 
-&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis) than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
+&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis)than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
 
 “(3) The head of a Department of Defense agency or the Secretary of a military department shall take appropriate action to address any unreasonable escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
 
-“(4) Not later than April 1 of each of fiscal years 2000, 2001, and 2002, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives\] a report on the analyses of price trends that were conducted for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken to identify and address any unreasonable price escalation for the categories of items.
+“(4) Not later than April 1 of each of fiscal years 2000 through 2006, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the analyses of price trends that were conducted by the Secretary of each military department and the Director of the Defense Logistics Agency for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken by each Secretary and the Director to identify and address any unreasonable price escalation for the categories of items.
 
 “(d)
 
-Exempt Commercial Items Defined.—For the purposes of this section, the term ‘exempt commercial item’ means a commercial item that is exempt under subsection (b)(1)(B) of section 2306a of title 10, United States Code, or subsection (b)(1)(B) of section 304A of the Federal Property and Administrative Services Actof 1949 (41 U.S.C. 254b), from the requirements for submission of certified cost or pricing data under that section.”
+Exempt Commercial Items Defined.—For the purposes of this section, the term ‘exempt commercial item’ means a commercial item that is exempt under subsection (b)(1)(B) of section 2306a of title 10, United States Code, or subsection (b)(1)(B) of section 304A of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254b), from the requirements for submission of certified cost or pricing data under that section.”
 
 #### Review by Inspector General
 

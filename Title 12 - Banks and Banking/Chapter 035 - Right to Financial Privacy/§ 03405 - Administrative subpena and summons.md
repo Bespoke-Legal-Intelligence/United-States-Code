@@ -8,7 +8,7 @@ A Government authority may obtain financial records under section 3402(2) of thi
 
 &emsp;“Records or information concerning your transactions held by the financial institution named in the attached subpena or summons are being sought by this (agency or department) in accordance with the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] for the following purpose: If you desire that such records or information not be made available, you must:
 
-&emsp;&emsp;“1. Fill out the accompanying motion paper and sworn statement or write one of your own, stating that you are the customer whose records are being requested by the Government and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the records.
+&emsp;&emsp;“1. Fill out the accompanying motion paper and sworn statement or write one of your own, stating that you are the customer whose records are being requested by theGovernment and either giving the reasons you believe that the records are not relevant to the legitimate law enforcement inquiry stated in this notice or any other legal basis for objecting to the release of the records.
 
 &emsp;&emsp;“2. File the motion and statement by mailing or delivering them to the clerk of any one of the following United States district courts:
 

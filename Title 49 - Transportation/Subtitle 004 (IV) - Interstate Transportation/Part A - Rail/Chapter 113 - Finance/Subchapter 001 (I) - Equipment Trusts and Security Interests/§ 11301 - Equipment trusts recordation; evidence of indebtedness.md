@@ -10,7 +10,7 @@
 
 &emsp;(1) is duly constituted under the laws of a country other than the United States; and
 
-&emsp;(2) relates to property that bears the reporting marks and identification numbers of anyperson domiciled in or corporation organized under the laws of such country,
+&emsp;(2) relates to property that bears the reporting marks and identification numbers of any person domiciled in or corporation organized under the laws of such country,
 
 > shall be recognized with the same effect as having been filed under this section.
 

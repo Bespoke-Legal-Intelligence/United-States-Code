@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 95–600 reenacted subsec. (c) without change.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 669 ofPub. L. 99–514, set out as a note under section 856 of this title.
 
 #### Effective Date of 1978 Amendment
 

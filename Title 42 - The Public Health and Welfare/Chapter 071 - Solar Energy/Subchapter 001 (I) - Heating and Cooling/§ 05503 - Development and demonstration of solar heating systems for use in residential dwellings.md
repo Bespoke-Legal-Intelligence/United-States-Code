@@ -22,7 +22,7 @@ The Administrator, in accordance with the applicable provisions of title II of t
 
 &emsp;(1) enter into such contracts and grants as may be necessary or appropriate for the development (for commercial production and residential use) of solar heating systems meeting the performance criteria prescribed under subsection (b)(1)(A) of this section (including any further planning and design which may be required to conform with the specifications set forth in such criteria); and
 
-&emsp;(2) enter into contracts with a number of persons or firms for the procurement of solarheating components and systems meeting such performance criteria (including adequate numbers of spare and replacement parts for such systems).
+&emsp;(2) enter into contracts with a number of persons or firms for the procurement of solar heating components and systems meeting such performance criteria (including adequate numbers of spare and replacement parts for such systems).
 
 #### (d) Installation of heating systems; operation during demonstration period; title and ownership of dwellings and systems; agreement of owner to observe and monitor system for five years; reports by owner
 

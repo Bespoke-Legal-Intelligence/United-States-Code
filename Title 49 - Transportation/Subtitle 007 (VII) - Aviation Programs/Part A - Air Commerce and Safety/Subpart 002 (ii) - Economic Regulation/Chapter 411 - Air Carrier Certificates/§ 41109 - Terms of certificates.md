@@ -6,7 +6,7 @@ General.—(1) Each certificate issued under section 41102 of this title shall s
 
 (2) The Secretary of Transportation—
 
-&emsp;(A) may prescribe terms for providing air transportation under the certificate that theSecretary finds may be required in the public interest; but
+&emsp;(A) may prescribe terms for providing air transportation under the certificate that the Secretary finds may be required in the public interest; but
 
 &emsp;(B) may not prescribe a term preventing an air carrier from adding or changing schedules, equipment, accommodations, and facilities for providing the authorized transportation to satisfy business development and public demand.
 
@@ -18,7 +18,7 @@ General.—(1) Each certificate issued under section 41102 of this title shall s
 
 (b)
 
-Modifying Terms.—(1) An air carrier may file with the Secretary an application to modify any term of its certificate issued under section 41102 of this title to provide interstate or foreign air transportation. Not later than 60 days after an application is filed, the Secretary shall—
+Modifying Terms.—(1) An air carrier may file with the Secretary an application to modifyany term of its certificate issued under section 41102 of this title to provide interstate or foreign air transportation. Not later than 60 days after an application is filed, the Secretary shall—
 
 &emsp;(A) provide the carrier an opportunity for an oral evidentiary hearing on the record; or
 

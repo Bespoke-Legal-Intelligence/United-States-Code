@@ -11,7 +11,7 @@
 | [1127\.](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md) | Precedence of the award of the Purple Heart. |
 | [1128\.](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md) | Prisoner-of-war medal: issue. |
 | [1129\.](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md) | Purple Heart: members killed or wounded in action by friendly fire. |
-| [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review and recommendation. |
+| [1130\.](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review.md) | Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review. |
 | [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
 | [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md) | Bronze star: limitation to members receiving imminent danger pay. |
@@ -19,6 +19,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §541(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
 
@@ -70,11 +72,11 @@ Certificates of Recognition.—The Secretary of Defense shall prepare a certific
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal
 
-Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, as amended by Ex. Ord. No. 12312, July 2, 1981, 46 F.R. 35251, provided:
+Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, as amended by Ex. Ord. No. 12312, July 2, 1981, 46 F.R. 35251; Ex. Ord. No. 13286, §61, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
-Section 1. There is hereby established a Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of a Military Department or the Secretary of Transportation with regard to the Coast Guard when not operating as a service in the Navy, or by such military commanders or other appropriate officers as the Secretary concerned may designate, to any member of the armed forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has distinguished himself by outstanding meritorious achievement or service.
+Section 1. There is hereby established a Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of a Military Department or the Secretary of Homeland Security with regard to the Coast Guard when not operating as a service in the Navy, or by such military commanders or other appropriate officers as the Secretary concerned may designate, to any member of the armed forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has distinguished himself by outstanding meritorious achievement or service.
 
 Sec. 2. The Meritorious Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense, and shall be awarded under such regulations as the Secretary concerned may prescribe. Such regulations shall, so far as practicable, be uniform, and those of the military departments shall be subject to the approval of the Secretary of Defense.
 
@@ -84,7 +86,7 @@ Sec. 4. The Meritorious Service Medal or device may be awarded posthumously and,
 
 #### Executive Order No. 11544
 
-Ex. Ord. No. 11544, July 8, 1970, 35 F.R. 11115, which established a Vice Presidential Service Certificate and a Vice Presidential Service Badge, was superseded by Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, set out below.
+Ex. Ord. No. 11544, July 8, 1970, 35 F.R. 11115, which established a Vice Presidential Service Certificate and aVice Presidential Service Badge, was superseded by Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, set out below.
 
 #### Ex. Ord. No. 11904. Defense Superior Service Medal
 
@@ -104,13 +106,13 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11926. Vice Presidential Service Badge
 
-Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, provided:
+Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, §56, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
 Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974.
 
-Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Military Assistant to the Vice President, by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Transportation, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President.
+Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Military Assistant to the Vice President, by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President.
 
 Sec. 3. The Vice Presidential Service Badge shall be accompanied by a certificate, the design of which is attached hereto and is made a part of this Order. The Vice Presidential Service Badge shall consist of a white enameled disc surrounded by 27 gold rays radiating from the center, 115/16 inches in diameter overall. Superimposed on the white disc shall be a gold color device taken from the seal of the Vice President of the United States. The overall design of the badge shall be as shown at the top of the certificate which accompanies the Badge and which is attached to this Order.
 
@@ -122,23 +124,19 @@ Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any me
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
-Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Ex. Ord. No. 11965. Humanitarian Service Medal
 
-Ex. Ord. No. 11965, Jan. 19, 1977, 42 F.R. 4329, provided:
+Ex. Ord. No. 11965, Jan. 19, 1977, 42 F.R. 4329, as amended by Ex. Ord. No. 13286, §55, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense or the Secretary of Transportation with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Transportation for the Coast Guard will determine types of acts or operations that warrant award of the medal.
+Section 1. There is hereby established a Humanitarian Service Medal with accompanying ribbons and appurtenances for award by the Secretary of Defense or the Secretary of Homeland Security with regard to the Coast Guard when not operating as a Service in the Navy. Individuals eligible for the medal are members of the Armed Forces of the United States (including Reserve Components) who, subsequent to April 1, 1975, distinguished themselves by meritorious participation in a military act or operation of a humanitarian nature. The Secretary of Defense and the Secretary of Homeland Security for the Coast Guard will determine types of acts or operations that warrant award of the medal.
 
-Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
+Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Homeland Security for the Coast Guard under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Humanitarian Service Medal in an order of precedence immediately after the Vietnam Service Medal.
 
 Sec. 3. No more than one Humanitarian Service Medal shall be awarded to any one person, but for each subsequent participation in a humanitarian act or operation justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations of the Military Departments.
 
-Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, and when so awarded,may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation.
-
-Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, and when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Homeland Security.
 
 #### Ex. Ord. No. 12019. Defense Meritorious Service Medal
 
@@ -148,7 +146,7 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
-Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
+Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be ofappropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
 Sec. 3. No more than one Defense Meritorious Service Medal shall be awarded to any one person, but for each succeeding outstanding meritorious achievement or service justifying such an award a suitable device to be worn with that medal may be awarded under such regulations as the Secretary of Defense may prescribe.
 
@@ -158,11 +156,11 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge
 
-Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, provided:
+Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 13286, §31, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
-Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate (“Certificate”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Transportation. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (“EOP”). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
+Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate (“Certificate”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (“EOP”). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
 Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
@@ -172,27 +170,23 @@ Sec. 4. The Certificate and the Badge may be granted posthumously.
 
 Sec. 5. This order shall supersede Executive Order No. 10879 of June 1, 1960, as amended.
 
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Ex. Ord. No. 12830. Military Outstanding Volunteer Service Medal
 
-Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, provided:
+Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, as amended by Ex. Ord. No. 13286, §28, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
+Section 1. There is hereby established a Military Outstanding Volunteer Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security. Members of the Armed Forces of the United States (including Reserve components) who perform outstanding volunteer service to the civilian community of a sustained, direct, and consequential nature are eligible for the medal.
 
 Sec. 2. The Military Outstanding Volunteer Service Medal and ribbons and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense. The Secretary of Defense shall prescribe regulations to govern the award and wear of the Military Outstanding Volunteer Service Medal. The regulations shall place the Military Outstanding Volunteer Service Medal in order of precedence immediately after the Humanitarian Service Medal.
 
 Sec. 3. No more than one award of the Military Outstanding Volunteer Service Medal may be made to any one person, but for each subsequent act justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations issued by the Secretary of Defense.
 
-Sec. 4. The Military Outstanding Volunteer Service Medal may be awarded posthumously, and when so awarded, may be presented to such representatives of the deceased as may be deemed appropriate by the Secretary of Defense or, in the case of a member of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 4. The Military Outstanding Volunteer Service Medal may be awarded posthumously, and when so awarded, may be presented to such representatives of the deceased as may be deemed appropriate by the Secretary of Defense or, in the case of a member of the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
 
 #### Ex. Ord. No. 12985. Establishing Armed Forces Service Medal
 
-Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, provided:
+Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, as amended by Ex. Ord. No. 13286, §20, Feb. 28, 2003, 68 F.R. 10624, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including my authority as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
@@ -200,13 +194,31 @@ Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Se
 
 (b) Encounter no foreign armed opposition or imminent hostile action.
 
-Sec. 2. <i>Approval and Award</i>. The medal, with ribbons and appurtenances, shall be of an appropriate design approved by the Secretary of Defense and shall beawarded by the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Armed Forces Service Medal in an order of precedence immediately before the Humanitarian Service Medal.
+Sec. 2. <i>Approval and Award</i>. The medal, with ribbons and appurtenances, shall be of an appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Armed Forces Service Medal in an order of precedence immediately before the Humanitarian Service Medal.
 
 Sec. 3. <i>Criteria</i>. The medal shall be awarded only for operations for which no other United States service medal is approved. For operations in which personnel of only one Military Department or the Coast Guard participate, the medal shall be awarded only if there is no other suitable award available to the department or the Coast Guard. No more than one medal shall be awarded to any one person, but for each succeeding operation justifying such award a suitable device may be awarded to be worn on the medal or ribbon as prescribed by appropriate regulations.
 
-Sec. 4. <i>Posthumous Provision</i>. The medal may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation.
+Sec. 4. <i>Posthumous Provision</i>. The medal may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation \[sic\].
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### Ex. Ord. No. 13306. Establishing the Bob Hope American Patriot Award
+
+Ex. Ord. No. 13306, May 28, 2003, 68 F.R. 33337, provided:
+
+By the authority vested in me as President and as Commander in Chief by the Constitution and the laws of the United States of America, it is ordered as follows:
+
+Section 1. <i>Establishment of the Award</i>. In order to encourage love of country, service to the people of the United States, and support for our Armed Forces, and in order to recognize the unique and lifelong service of Bob Hope to the United States Armed Forces and to the Nation through his unwavering patriotism and dedication to maintaining the morale of the troops he entertained for nearly six decades, and on the occasion of his 100th birthday, there is hereby established the Bob Hope American Patriot Award (Award).
+
+Sec. 2. <i>Granting and Presentation of the Award.</i>
+
+(a) The Award may be granted by the President, in his sole discretion, to any civilian individual who has demonstrated extraordinary love of country and devotion to the personnel of the United States Armed Forces, in the form of true patriotism. The Award may also be granted by the President to an organization that meets the same criteria.
+
+(b) Other than in exceptional circumstances, no more than one Award may be granted in any given year.
+
+(c) The presentation of the Award may take place at any time during the year.
+
+(d) Subject to the provisions of this order, the Award may be conferred posthumously.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---
@@ -222,7 +234,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01127 - Precedence of the award of the Purple Heart](%C2%A7%2001127%20-%20Precedence%20of%20the%20award%20of%20the%20Purple%20Heart.md)
 - [&sect; 01128 - Prisoner-of-war medal issue](%C2%A7%2001128%20-%20Prisoner-of-war%20medal%20issue.md)
 - [&sect; 01129 - Purple Heart members killed or wounded in action by friendly fire](%C2%A7%2001129%20-%20Purple%20Heart%20members%20killed%20or%20wounded%20in%20action%20by%20friendly%20fire.md)
-- [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review and recommendation](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review%20and%20recommendation.md)
+- [&sect; 01130 - Consideration of proposals for decorations not previously submitted in timely fashion procedures for review](%C2%A7%2001130%20-%20Consideration%20of%20proposals%20for%20decorations%20not%20previously%20submitted%20in%20timely%20fashion%20procedures%20for%20review.md)
 - [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)
 - [&sect; 01133 - Bronze Star limitation to members receiving imminent danger pay](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md)

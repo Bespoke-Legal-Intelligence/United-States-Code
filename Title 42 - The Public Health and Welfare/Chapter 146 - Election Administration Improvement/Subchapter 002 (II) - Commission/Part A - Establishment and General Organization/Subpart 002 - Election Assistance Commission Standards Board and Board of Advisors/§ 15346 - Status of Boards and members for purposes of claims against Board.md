@@ -6,7 +6,7 @@ The provisions of chapters 161 and 171 of title 28 shall apply with respect to t
 
 #### (b) Exception for criminal acts and other willful conduct
 
-Subsection (a) of this section may not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, orany other act or omission outside the scope of the service of a member of the Standards Board or the Board of Advisors.
+Subsection (a) of this section may not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other act or omission outside the scope of the service of a member of the Standards Board or the Board of Advisors.
 
 (Pub. L. 107–252, title II, §216, Oct. 29, 2002, 116 Stat. 1681.)
 

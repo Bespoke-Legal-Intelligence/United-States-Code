@@ -70,7 +70,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) to (c), is
 
 #### Short Title
 
-Section 4701 of Pub. L. 100–418 provided that: “This subtitle \[subtitle G (§§4701–4704) of title IV of Pub. L.100–418, enacting this chapter\] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
+Section 4701 of Pub. L. 100–418 provided that: “This subtitle \[subtitle G (§§4701–4704) of title IV of Pub. L. 100–418, enacting this chapter\] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
 
 #### Imported Meat, Poultry Products, Eggs, and Egg Products
 

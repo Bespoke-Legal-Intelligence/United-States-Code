@@ -6,7 +6,7 @@
 
 (c) For the purpose of carrying into effect the provisions of this chapter there is hereby authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $10,000,000, which shall remain available until expended.
 
-(d) In addition to amounts authorized before the date of enactment of this section, there is hereby authorized to be appropriated to the Secretary of State—
+(d) In addition to amounts authorized before the date of enactment of this section, there ishereby authorized to be appropriated to the Secretary of State—
 
 &emsp;(1) for acquisition, by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
 
@@ -26,7 +26,7 @@
 
 &emsp;(2) for use to carry out the other purposes of this chapter, not to exceed $11,500,000 for the fiscal year 1964, $12,000,000 for the fiscal year 1965, $12,200,000 for the fiscal year 1966, $12,400,000 for the fiscal year 1967.
 
-(e) For the purpose of carrying into effect the provisions of this chapter in South Vietnam, there is hereby authorized to be appropriated, in addition to amounts previously authorized priorto May 21, 1965, $2,600,000, to remain available until expended.
+(e) For the purpose of carrying into effect the provisions of this chapter in South Vietnam, there is hereby authorized to be appropriated, in addition to amounts previously authorized prior to May 21, 1965, $2,600,000, to remain available until expended.
 
 (f) In addition to amounts authorized before October 10, 1966, there is hereby authorized to be appropriated to the Secretary of State—
 

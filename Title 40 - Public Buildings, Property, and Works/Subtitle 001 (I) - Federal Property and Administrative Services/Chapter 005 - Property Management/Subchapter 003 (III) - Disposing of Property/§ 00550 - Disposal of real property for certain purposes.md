@@ -52,7 +52,7 @@ Assignment.—The Administrator, in the Administrator's discretion and under reg
 
 &emsp;(2)
 
-Sale or lease.—Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Health and Human Services of a proposed transfer, the Secretary, for use in the protection of public health, including research, may sell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, a tax-supported medical institution, or a hospital or similar institution not operated for profit that has been held exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)).
+Sale or lease.—Subject to disapproval by the Administrator within 30 days after notice to the Administrator by the Secretary of Health and Human Services of a proposed transfer, the Secretary, for use in the protection of public health, including research, maysell or lease property assigned to the Secretary under paragraph (1) to a State, a political subdivision or instrumentality of a State, a tax-supported medical institution, or a hospital or similar institution not operated for profit that has been held exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)).
 
 &emsp;(3)
 
@@ -128,7 +128,7 @@ Property for National Service Activities.—
 
 &emsp;(1)
 
-Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Chief Executive Officer of the Corporation for National and Community Service for disposal surplus property that the Chief Executive Officer recommends as needed for national service activities.
+Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Chief Executive Officer of the Corporation for National and CommunityService for disposal surplus property that the Chief Executive Officer recommends as needed for national service activities.
 
 &emsp;(2)
 

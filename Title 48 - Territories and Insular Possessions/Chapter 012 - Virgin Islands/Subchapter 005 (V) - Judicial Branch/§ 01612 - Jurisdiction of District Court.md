@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The District Court of the Virgin Islands shall have the jurisdiction of a District Court of the United States, including, but not limited to, the diversity jurisdiction provided for in section 1332 of title 28 and that of a bankruptcy court of the United States. The District Court of the Virgin Islands shall have exclusive jurisdiction over all criminal and civil proceedings in the Virgin Islands with respect to the income tax laws applicable to the Virgin Islands, regardless of the degree of the offense or of the amount involved, except the ancillary laws relating to the income tax enacted by the legislature of the Virgin Islands. Any act or failure to act with respect to the income tax laws applicable to the Virgin Islands which would constitute a criminal offense described in chapter 75 of subtitle F of title 26 shall constitute an offense against the government of the Virgin Islands and may be prosecuted in the name of the government of the Virgin Islands by the appropriate officers thereof in the District Court of the Virgin Islands without the request or the consent of the United States attorney for the Virgin Islands, notwithstanding the provisions of section 1617 of this title.
+The District Court of the Virgin Islands shall have the jurisdiction of a District Court of the United States, including, but not limited to, the diversity jurisdiction provided for in section 1332 of title 28 and that of a bankruptcy court of theUnited States. The District Court of the Virgin Islands shall have exclusive jurisdiction over all criminal and civil proceedings in the Virgin Islands with respect to the income tax laws applicable to the Virgin Islands, regardless of the degree of the offense or of the amount involved, except the ancillary laws relating to the income tax enacted by the legislature of the Virgin Islands. Any act or failure to act with respect to the income tax laws applicable to the Virgin Islands which would constitute a criminal offense described in chapter 75 of subtitle F of title 26 shall constitute an offense against the government of the Virgin Islands and may be prosecuted in the name of the government of the Virgin Islands by the appropriate officers thereof in the District Court of the Virgin Islands without the request or the consent of the United States attorney for the Virgin Islands, notwithstanding the provisions of section 1617 of this title.
 
 #### (b) General jurisdiction; limitations
 
@@ -16,7 +16,7 @@ The District Court of the Virgin Islands shall have concurrent jurisdiction with
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act July 22, 1954, ch. 558, 68 Stat.497, as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act July 22, 1954, ch. 558, 68 Stat. 497, as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of this title and Tables.
 
 #### Amendments
 

@@ -74,7 +74,7 @@
 
 &emsp;(B) withhold from the first-tier subcontractor's next available progress payment or payments an amount not to exceed the amount specified in the notice of withholding furnished under subparagraph (A) of this paragraph.
 
-(2) As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the prime contractor shall pay the amount withheld under paragraph (1)(B) of this subsection to such first-tier subcontractor, or shall incur an obligation to pay a late payment interest penalty to suchfirst-tier subcontractor computed at the rate specified by section 3902(a) of this title.
+(2) As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the prime contractor shall pay the amount withheld under paragraph (1)(B) of this subsection to such first-tier subcontractor, or shall incur an obligation to pay a late payment interest penalty to such first-tier subcontractor computed at the rate specified by section 3902(a) of this title.
 
 (g) A written notice of any withholding shall be issued to a subcontractor (with a copy to the Government of any such notice issued by a prime contractor), specifying—
 

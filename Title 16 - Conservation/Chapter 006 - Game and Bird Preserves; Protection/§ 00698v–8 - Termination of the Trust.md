@@ -26,7 +26,7 @@ In the event of termination of the Trust, all assets of the Trust shall be used 
 
 #### (e) Valles Caldera Fund
 
-In the event of termination, the Secretary shall assume the powers of the Trust over funds under section 698v–4(h) of this title, and the Valles Caldera Fund shall not terminate. Any balances remaining in the fund shall be available to the Secretary, without further appropriation, for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.
+In the event of termination, the Secretary shall assume the powers of the Trust over funds under section 698v–4(h) of this title, and the Valles Caldera Fund shall not terminate. Anybalances remaining in the fund shall be available to the Secretary, without further appropriation, for any purpose consistent with the purposes of sections 698v to 698v–10 of this title.
 
 (Pub. L. 106–248, title I, §110, July 25, 2000, 114 Stat. 611.)
 

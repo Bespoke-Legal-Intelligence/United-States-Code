@@ -2,13 +2,13 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trainedin, and oriented toward, joint matters (as defined in section 668 of this title). Such officers shall be identified or designated (in addition to their principal military occupational specialty) in such manner as the Secretary of Defense directs. For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the “joint specialty”.
+Establishment.—The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in section 668 of this title). Such officers shall be identified or designated (in addition to their principal military occupational specialty) in such manner as the Secretary of Defense directs. For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the “joint specialty”.
 
 (b)
 
 Numbers and Selection.—(1) The number of officers with the joint specialty shall be determined by the Secretary. Such number shall be large enough to meet the requirements of subsection (d).
 
-(2) Officers shall be selected for the joint specialty by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—
+(2) Officers shall be selected for the joint specialty by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff. Each officer on the active-duty list on December 28, 2001, who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—
 
 &emsp;(A) who meet qualifications prescribed by the Secretary of Defense; and
 
@@ -44,13 +44,13 @@ Education and Experience Requirements.—(1) An officer who is nominated for the
 
 (D) The authority of the Secretary of Defense to grant a waiver under this paragraph may be delegated only to the Deputy Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer and in the case of a general or flag officer only under exceptional circumstances in which the waiver is necessary to meet a critical need of the armed forces, as determined by the Chairman of the Joint Chiefs of Staff. In the case of officers in grades below brigadier general and rear admiral (lower half), the total number of waivers granted under this paragraph for officers in the same pay grade during any fiscal year may not exceed 10 percent of the total number of officers in that pay grade selected for the joint specialty during that fiscal year.
 
-(E) There may not be more than 32 general and flag officers on active duty at the same time who were selected for the joint specialty while holding a general or flag officer grade and for whom a waiver was granted under this subparagraph.
+(E) There may not be more than 32 general and flag officers on active duty at the same time who were selected for the joint specialty while holding a general or flag officer grade and for whom a waiver was granted under this paragraph.
 
 (4) For purposes of this chapter, a school that is organized within, and operated by, a military department may not be construed to be a joint professional military education school.
 
 (d)
 
-Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above captain or, inthe case of the Navy, lieutenant are filled at any time by officers who—
+Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above captain or, in the case of the Navy, lieutenant are filled at any time by officers who—
 
 &emsp;(A) have the joint specialty; or
 
@@ -64,7 +64,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 (B) Each position designated by the Secretary under subparagraph (A) may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
 
-(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
+(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waivermay be delegated only to the Chairman of the Joint Chiefs of Staff.
 
 (3)(A) The Secretary shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -90,13 +90,13 @@ Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint
 
 Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619(e)(1) of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097.)
-
-#### References in Text
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2002, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 107–107, which was approved Dec. 28, 2001.
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title V, §502(c), title X, §1062(a)(3), Dec. 2, 2002, 116 Stat. 2530, 2649.)
 
 #### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(3), substituted “December 28, 2001,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002”.
+
+Subsec. (c)(3)(E). Pub. L. 107–314, §502(c), substituted “paragraph” for “subparagraph”.
 
 2001—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
 
@@ -118,7 +118,7 @@ Subsec. (c)(4). Pub. L. 101–189, §1122, added par. (4).
 
 1988—Subsec. (c)(3)(D). Pub. L. 100–456, §511, inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
 
-Subsec. (d)(2). Pub. L. 100–456, §512(a), designated existing provisions as subpar. (A), struck out sentence atend which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
+Subsec. (d)(2). Pub. L. 100–456, §512(a), designated existing provisions as subpar. (A), struck out sentence at end which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
 
 Subsec. (d)(4). Pub. L. 100–456, §517(a), substituted “25 percent” for “one-third”.
 
@@ -137,6 +137,22 @@ Subsec. (c)(3). Pub. L. 100–180, §1301(b)(3), added par. (3).
 Subsec. (d)(1). Pub. L. 100–180, §1302(a)(1), added subpars. (A) and (B) and substituted “by officers who—” for “by officers who have (or have been nominated for) the joint specialty.” in introductory provisions.
 
 Subsec. (d)(2) to (4). Pub. L. 100–180, §1302(b), added pars. (2) to (4) and struck out former par. (2) which read as follows: “The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty.”
+
+#### Exclusion of Certain Officers From Limitation on Authority To Grant a Waiver of Required Completion or Sequencing for Joint Professional Military Education
+
+Pub. L. 107–314, div. A, title V, §502(a), (b), Dec. 2, 2002, 116 Stat. 2530, provided that:
+
+“(a)
+
+Exclusion From Limitation.—There shall be excluded from counting for purposes of the 10-percent limitation set forth in the last sentence of section 661(c)(3)(D) of title 10, United States Code (limiting the authority to grant waivers related to sequencing or completion of program of joint professional military education), any officer selected for the joint specialty who—
+
+&emsp;“(1) on December 28, 2001, met the requirements of section 661(c) of such title for nomination for the joint specialty, but who had not been nominated for that specialty before that date by the Secretary of the military department concerned; and
+
+&emsp;“(2) before the date of the enactment of this Act \[Dec. 2, 2002\] was automatically nominated for the joint specialty as a result of section 661(b)(2) of such title.
+
+“(b)
+
+Termination.—The provisions of subsection (a) shall terminate on October 1, 2006.”
 
 #### Independent Study of Joint Officer Management and Joint Professional Military Education Reforms
 
@@ -192,13 +208,13 @@ Matters To Be Included With Respect to Joint Professional Military Education.—
 
 Chairman of Joint Chiefs of Staff.—With respect to the roles of the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, the entity conducting the independent study shall—
 
-&emsp;“(1) provide for an evaluation of the current roles of the Secretary of Defense, the Chairman of the JointChiefs of Staff, and joint staff in law, policy, and implementation with regard to establishing and maintaining oversight of joint officer management, career guidelines, and joint professional military education; and
+&emsp;“(1) provide for an evaluation of the current roles of the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and joint staff in law, policy, and implementation with regard to establishing and maintaining oversight of joint officer management, career guidelines, and joint professional military education; and
 
 &emsp;“(2) make recommendations to improve and strengthen those roles.
 
 “(e)
 
-Requirements for Study Entity.—In providing for the independent study required by subsection (a), the Secretary of Defense shall ensure that the entity conducting the study—
+Requirements for Study Entity.—In providing for the independent study required by subsection (a),the Secretary of Defense shall ensure that the entity conducting the study—
 
 &emsp;“(1) is not a Department of Defense organization; and
 

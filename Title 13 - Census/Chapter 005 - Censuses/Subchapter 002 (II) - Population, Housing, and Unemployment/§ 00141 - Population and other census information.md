@@ -40,7 +40,7 @@ The provision for taking the censuses in “1930 and every ten years thereafter�
 
 The requirement that decennial censuses of “distribution” and “mines” should also be taken was omitted as superseded by section 121 of title 13, U.S.C., 1952 ed. (enacted in 1948), the provisions of which were carried into subchapter I of this chapter.
 
-Section 1442 of title 42, U.S.C., 1952 ed., the Public Health and Welfare (which section has been transferredin its entirety to this revised title), made all provisions of chapter 4 of title 13, U.S.C., 1952 ed., applicable to the housing censuses provided for in such section. However, section 201 of such title 13 (which section was a part of such chapter 4), which, as indicated above, has been carried into this revised section, could not, except, possibly, for the provisions thereof relating to the territorial scope of the censuses and to the census duties of the governors of Guam, Samoa, the Virgin Islands, and the Canal Zone, have any relevancy to such housing censuses, and such section 1442 of title 42, U.S.C., 1952 ed., contained its own provisions relating to territorial scope of the housing censuses. Therefore the provisions of this revised section have not been made so applicable.
+Section 1442 of title 42, U.S.C., 1952 ed., the Public Health and Welfare (which section has been transferred in its entirety to this revised title), made all provisions of chapter 4 of title 13, U.S.C., 1952 ed., applicable to the housing censuses provided for in such section. However, section 201 of such title 13 (which section was a part of such chapter 4), which, as indicated above, has been carried into this revised section, could not, except, possibly, for the provisions thereof relating to the territorial scope of the censuses and to the census duties of the governors of Guam, Samoa, the Virgin Islands, and the Canal Zone, have any relevancy to such housing censuses, and such section 1442 of title 42, U.S.C., 1952 ed., contained its own provisions relating to territorial scope of the housing censuses. Therefore the provisions of this revised section have not been made so applicable.
 
 Changes were made in phraseology.
 
@@ -114,7 +114,7 @@ Pub. L. 105–119, title II, §209, Nov. 26, 1997, 111 Stat. 2480, provided that
 
 &emsp;“(3) either House of Congress.
 
-“(e)(1) Any action brought under this section shall be heard and determined by a district court of threejudges in accordance with section 2284 of title 28, United States Code. The chief judge of the United States court of appeals for each circuit shall, to the extent practicable and consistent with the avoidance of unnecessary delay, consolidate, for all purposes, in one district court within that circuit, all actions pending in that circuit under this section. Any party to an action under this section shall be precluded from seeking any consolidation of that action other than is provided in this paragraph. In selecting the district court in which to consolidate such actions, the chief judge shall consider the convenience of the parties and witnesses and efficient conduct of such actions. Any final order or injunction of a United States district court that is issued pursuant to an action brought under this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under this section may be issued by a single Justice of the Supreme Court.
+“(e)(1) Any action brought under this section shall be heard and determined by a district court of three judges in accordance with section 2284 of title 28, United States Code. The chief judge of the United States court of appeals for each circuit shall, to the extent practicable and consistent with the avoidance of unnecessary delay, consolidate, for all purposes, in one district court within that circuit, all actions pending in that circuit under this section. Any party to an action under this section shall be precluded from seeking any consolidation of that action other than is provided in this paragraph. In selecting the district court in which to consolidate such actions, the chief judge shall consider the convenience of the parties and witnesses and efficient conduct of such actions. Any final order or injunction of a United States district court that is issued pursuant to an action brought under this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under this section may be issued by a single Justice of the Supreme Court.
 
 “(2) It shall be the duty of a United States district court hearing an action brought under this section and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any such matter.
 
@@ -250,7 +250,7 @@ Pub. L. 105–119, title II, §210(a)–(j), Nov. 26, 1997, 111 Stat. 2483–248
 
 “(g) There is authorized to be appropriated $4,000,000 for each of fiscal years 1998 through 2001 to carry out this section.
 
-“(h) To the extent practicable, members of the Board shall work to promote the most accurate and complete census possible by using their positions to publicize the need for full and timely responses to census questionnaires.
+“(h) To the extent practicable, members of the Board shall work to promote the most accurate and completecensus possible by using their positions to publicize the need for full and timely responses to census questionnaires.
 
 “(i)(1) No individual described in paragraph (2) shall be eligible—
 
@@ -352,7 +352,7 @@ Pub. L. 101–624, title XXIII, §2382, Nov. 28, 1990, 104 Stat. 4050, provided 
 
 #### Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses
 
-Pub. L. 94–311, §4, June 16, 1976, 90 Stat. 688, provided that: “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what steps would be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
+Pub. L. 94–311, §4, June 16, 1976, 90 Stat. 688, provided that: “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what stepswould be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
 
 #### Needs and Concerns of Spanish-Origin Population; Use of Spanish Language Questionnaires and Bilingual Enumerators
 

@@ -4,7 +4,7 @@
 
 (b) There is authorized to be appropriated, in addition to such sums as have been heretofore appropriated under this section—
 
-&emsp;(1) $10,000,000 for each fiscal year beginning after September 30, 1991, for the payment of reimbursement obligations entered into under subsection (a) without regard to the fiscal year such obligations were entered into, including obligations entered into before such date; and
+&emsp;(1) $10,000,000 for each fiscal year beginning after September 30, 1991, for the payment of reimbursement obligations entered into undersubsection (a) without regard to the fiscal year such obligations were entered into, including obligations entered into before such date; and
 
 &emsp;(2) $8,000,000 for the payment of reimbursement obligations entered into under subsection (a) before October 1, 1991, except that not more than $4,000,000 of this amount shall be obligated or expended during fiscal year 1992.
 
@@ -14,7 +14,7 @@
 
 #### References in Text
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (a), is title II of actAug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (a), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Short Title note set out under section 4301 of Title 22 and Tables.
 
 #### Prior Provisions
 

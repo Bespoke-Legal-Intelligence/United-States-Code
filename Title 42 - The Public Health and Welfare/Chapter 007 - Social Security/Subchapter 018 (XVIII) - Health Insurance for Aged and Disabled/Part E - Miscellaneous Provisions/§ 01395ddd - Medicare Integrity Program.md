@@ -1,0 +1,248 @@
+### §1395ddd. Medicare Integrity Program
+
+#### (a) Establishment of Program
+
+There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b) of this section.
+
+#### (b) Activities described
+
+The activities described in this subsection are as follows:
+
+&emsp;(1) Review of activities of providers of services or other individuals and entities furnishing items and services for which payment may be made under this subchapter (including skilled nursing facilities and home health agencies), including medical and utilization review and fraud review (employing similar standards, processes, and technologies used by private health plans, including equipment and software technologies which surpass the capability of the equipment and technologies used in the review of claims under this subchapter as of August 21, 1996).
+
+&emsp;(2) Audit of cost reports.
+
+&emsp;(3) Determinations as to whether payment should not be, or should not have been, made under this subchapter by reason of section 1395y(b) of this title, and recovery of payments that should not have been made.
+
+&emsp;(4) Education of providers of services, beneficiaries, and other persons with respect to payment integrity and benefit quality assurance issues.
+
+&emsp;(5) Developing (and periodically updating) a list of items of durable medical equipment in accordance with section 1395m(a)(15) of this title which are subject to prior authorization under such section.
+
+#### (c) Eligibility of entities
+
+An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) of this section if—
+
+&emsp;(1) the entity has demonstrated capability to carry out such activities;
+
+&emsp;(2) in carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
+
+&emsp;(3) the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement; and
+
+&emsp;(4) the entity meets such other requirements as the Secretary may impose.
+
+> In the case of the activity described in subsection (b)(5) of this section, an entity shall be deemed to be eligible to enter into a contract under the Program to carry out the activity if the entity is a carrier with a contract in effect under section 1395u of this title.
+
+#### (d) Process for entering into contracts
+
+The Secretary shall enter into contracts under the Program in accordance with such procedures as the Secretary shall by regulation establish, except that such procedures shall include the following:
+
+&emsp;(1) Procedures for identifying, evaluating, and resolving organizational conflicts of interest that are generally applicable to Federal acquisition and procurement.
+
+&emsp;(2) Competitive procedures to be used—
+
+&emsp;&emsp;(A) when entering into new contracts under this section;
+
+&emsp;&emsp;(B) when entering into contracts that may result in the elimination of responsibilities of an individual fiscal intermediary or carrier under section 202(b) of the Health Insurance Portability and Accountability Act of 1996; and
+
+&emsp;&emsp;(C) at any other time considered appropriate by the Secretary,
+
+> &emsp;except that the Secretary may continue to contract with entities that are carrying out the activities described in this section pursuant to agreements under section 1395h of this title or contracts under section 1395u of this title in effect on August 21, 1996.
+
+&emsp;(3) Procedures under which a contract under this section may be renewed without regard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
+
+> The Secretary may enter into such contracts without regard to final rules having been promulgated.
+
+#### (e) Limitation on contractor liability
+
+The Secretary shall by regulation provide for the limitation of a contractor's liability for actions taken to carry out a contract under the Program, and such regulation shall, to the extent the Secretary finds appropriate, employ the same or comparable standards and other substantive and procedural provisions as are contained in section 1320c–6 of this title.
+
+#### (f) Recovery of overpayments
+
+#### (1) Use of repayment plans
+
+#### (A) In general
+
+&emsp;&emsp;If the repayment, within 30 days by a provider of services or supplier, of an overpayment under this subchapter would constitute a hardship (as described in subparagraph (B)), subject to subparagraph (C), upon request of the provider of services or supplier the Secretary shall enter into a plan with the provider of services or supplier for the repayment (through offset or otherwise) of such overpayment over a period of at least 6 months but not longer than 3 years (or not longer than 5 years in the case of extreme hardship, as determined by the Secretary). Interest shall accrue on the balance through the period of repayment. Such plan shall meet terms and conditions determined to be appropriate by the Secretary.
+
+#### (B) Hardship
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), the repayment of an overpayment (or overpayments) within 30 days is deemed to constitute a hardship if—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a provider of services that files cost reports, the aggregate amount of the overpayments exceeds 10 percent of the amount paid under this subchapter to the provider of services for the cost reporting period covered by the most recently submitted cost report; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of another provider of services or supplier, the aggregate amount of the overpayments exceeds 10 percent of the amount paid under this subchapter to the provider of services or supplier for the previous calendar year.
+
+#### (ii) Rule of application
+
+&emsp;&emsp;&emsp;The Secretary shall establish rules for the application of this subparagraph in the case of a provider of services or supplier that was not paid under this subchapter during the previous year or was paid under this subchapter only during a portion of that year.
+
+#### (iii) Treatment of previous overpayments
+
+&emsp;&emsp;&emsp;If a provider of services or supplier has entered into a repayment plan under subparagraph (A) with respect to a specific overpayment amount, such payment amount under the repayment plan shall not be taken into account under clause (i) with respect to subsequent overpayment amounts.
+
+#### (C) Exceptions
+
+&emsp;&emsp;Subparagraph (A) shall not apply if—
+
+&emsp;&emsp;&emsp;(i) the Secretary has reason to suspect that the provider of services or supplier may file for bankruptcy or otherwise cease to do business or discontinue participation in the program under this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) there is an indication of fraud or abuse committed against the program.
+
+#### (D) Immediate collection if violation of repayment plan
+
+&emsp;&emsp;If a provider of services or supplier fails to make a payment in accordance with a repayment plan under this paragraph, the Secretary may immediately seek to offset or otherwise recover the total balance outstanding (including applicable interest) under the repayment plan.
+
+#### (E) Relation to no fault provision
+
+&emsp;&emsp;Nothing in this paragraph shall be construed as affecting the application of section 1395gg(c) of this title (relating to no adjustment in the cases of certain overpayments).
+
+#### (2) Limitation on recoupment
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a provider of services or supplier that is determined to have received an overpayment under this subchapter and that seeks a reconsideration by a qualified independent contractor on such determination under section 1395ff(b)(1) of this title, the Secretary may not take any action (or authorize any other person, including any medicare contractor, as defined in subparagraph (C)) to recoup the overpayment until the date the decision on the reconsideration has been rendered. If the provisions of section 1395ff(b)(1) of this title (providing for such a reconsideration by a qualified independent contractor) are not in effect, in applying the previous sentence any reference to such a reconsideration shall be treated as a reference to a redetermination by the fiscal intermediary or carrier involved.
+
+#### (B) Collection with interest
+
+&emsp;&emsp;Insofar as the determination on such appeal is against the provider of services or supplier, interest on the overpayment shall accrue on and after the date of the original notice of overpayment. Insofar as such determination against the provider of services or supplier is later reversed, the Secretary shall provide for repayment of the amount recouped plus interest at the same rate as would apply under the previous sentence for the period in which the amount was recouped.
+
+#### (C) Medicare contractor defined
+
+&emsp;&emsp;For purposes of this subsection, the term “medicare contractor” has the meaning given such term in section 1395zz(g) of this title.
+
+#### (3) Limitation on use of extrapolation
+
+&emsp;A medicare contractor may not use extrapolation to determine overpayment amounts to be recovered by recoupment, offset, or otherwise unless the Secretary determines that—
+
+&emsp;&emsp;(A) there is a sustained or high level of payment error; or
+
+&emsp;&emsp;(B) documented educational intervention has failed to correct the payment error.
+
+> &emsp;There shall be no administrative or judicial review under section 1395ff of this title, section 1395<i>oo</i> of this title, or otherwise, of determinations by the Secretary of sustained or high levels of payment errors under this paragraph.
+
+#### (4) Provision of supporting documentation
+
+&emsp;In the case of a provider of services or supplier with respect to which amounts were previously overpaid, a medicare contractor may request the periodic production of records orsupporting documentation for a limited sample of submitted claims to ensure that the previous practice is not continuing.
+
+#### (5) Consent settlement reforms
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may use a consent settlement (as defined in subparagraph (D)) to settle a projected overpayment.
+
+#### (B) Opportunity to submit additional information before consent settlement offer
+
+&emsp;&emsp;Before offering a provider of services or supplier a consent settlement, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) communicate to the provider of services or supplier—
+
+&emsp;&emsp;&emsp;&emsp;(I) that, based on a review of the medical records requested by the Secretary, a preliminary evaluation of those records indicates that there would be an overpayment;
+
+&emsp;&emsp;&emsp;&emsp;(II) the nature of the problems identified in such evaluation; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the steps that the provider of services or supplier should take to address the problems; and
+
+&emsp;&emsp;&emsp;(ii) provide for a 45-day period during which the provider of services or supplier may furnish additional information concerning the medical records for the claims that had been reviewed.
+
+#### (C) Consent settlement offer
+
+&emsp;&emsp;The Secretary shall review any additional information furnished by the provider of services or supplier under subparagraph (B)(ii). Taking into consideration such information, the Secretary shall determine if there still appears to be an overpayment. If so, the Secretary—
+
+&emsp;&emsp;&emsp;(i) shall provide notice of such determination to the provider of services or supplier, including an explanation of the reason for such determination; and
+
+&emsp;&emsp;&emsp;(ii) in order to resolve the overpayment, may offer the provider of services or supplier—
+
+&emsp;&emsp;&emsp;&emsp;(I) the opportunity for a statistically valid random sample; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a consent settlement.
+
+> &emsp;&emsp;The opportunity provided under clause (ii)(I) does not waive any appeal rights with respect to the alleged overpayment involved.
+
+#### (D) Consent settlement defined
+
+&emsp;&emsp;For purposes of this paragraph, the term “consent settlement” means an agreement between the Secretary and a provider of services or supplier whereby both parties agree to settle a projected overpayment based on less than a statistically valid sample of claims and the provider of services or supplier agrees not to appeal the claims involved.
+
+#### (6) Notice of over-utilization of codes
+
+&emsp;The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI of this chapter insofar as they relate to such programs).
+
+#### (7) Payment audits
+
+#### (A) Written notice for post-payment audits
+
+&emsp;&emsp;Subject to subparagraph (C), if a medicare contractor decides to conduct a post-payment audit of a provider of services or supplier under this subchapter, the contractor shall provide the provider of services or supplier with written notice (which may be in electronic form) of the intent to conduct such an audit.
+
+#### (B) Explanation of findings for all audits
+
+&emsp;&emsp;Subject to subparagraph (C), if a medicare contractor audits a provider of services or supplier under this subchapter, the contractor shall—
+
+&emsp;&emsp;&emsp;(i) give the provider of services or supplier a full review and explanation of the findings of the audit in a manner that is understandable to the provider of services or supplier and permits the development of an appropriate corrective action plan;
+
+&emsp;&emsp;&emsp;(ii) inform the provider of services or supplier of the appeal rights under this subchapter as well as consent settlement options (which are at the discretion of the Secretary);
+
+&emsp;&emsp;&emsp;(iii) give the provider of services or supplier an opportunity to provide additional information to the contractor; and
+
+&emsp;&emsp;&emsp;(iv) take into account information provided, on a timely basis, by the provider of services or supplier under clause (iii).
+
+#### (C) Exception
+
+&emsp;&emsp;Subparagraphs (A) and (B) shall not apply if the provision of notice or findings would compromise pending law enforcement activities, whether civil or criminal, or reveal findings of law enforcement-related audits.
+
+#### (8) Standard methodology for probe sampling
+
+&emsp;The Secretary shall establish a standard methodology for medicare contractors to use in selecting a sample of claims for review in the case of an abnormal billing pattern.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407.)
+
+#### References in Text
+
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted “medicare program” for “Medicare program”.
+
+Subsec. (f). Pub. L. 108–173, §935(a), added subsec. (f).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title IX, §935(b), Dec. 8, 2003, 117 Stat. 2411, provided that:
+
+“(1)
+
+Use of repayment plans.—Section 1893(f)(1) of the Social Security Act \[subsec. (f)(1) of this section\], as added by subsection (a), shall apply to requests for repayment plans made after the date of the enactment of this Act \[Dec. 8, 2003\].
+
+“(2)
+
+Limitation on recoupment.—Section 1893(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\], as added by subsection (a), shall apply to actions taken after the date of the enactment of this Act.
+
+“(3)
+
+Use of extrapolation.—Section 1893(f)(3) of the Social Security Act \[subsec. (f)(3) of this section\], as added by subsection (a), shall apply to statistically valid random samples initiated after the date that is 1 year after the date of the enactment of this Act.
+
+“(4)
+
+Provision of supporting documentation.—Section 1893(f)(4) of the Social Security Act \[subsec. (f)(4) of this section\], as added by subsection (a), shall take effect on the date of the enactment of this Act.
+
+“(5)
+
+Consent settlement.—Section 1893(f)(5) of the Social Security Act \[subsec. (f)(5) of this section\], as added by subsection (a), shall apply to consent settlements entered into after the date of the enactment of this Act.
+
+“(6)
+
+Notice of overutilization.—Not later than 1 year after the date of the enactment of this Act, the Secretary \[of Health and Human Services\] shall first establish the process for notice of overutilization of billing codes under section 1893A(f)(6) \[1893(f)(6)\] of the Social Security Act \[probably means subsec. (f)(6) of this section\], as added by subsection (a).
+
+“(7)
+
+Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec. (f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
+
+“(8)
+
+Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[subsec. (f)(8) of this section\], as added by subsection (a).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1395h, 1395i, 1395u, 1395hh, 1395kk–1, 1395zz of this title.
+

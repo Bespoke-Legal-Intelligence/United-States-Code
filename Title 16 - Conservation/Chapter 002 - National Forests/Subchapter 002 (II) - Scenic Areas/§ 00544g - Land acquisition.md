@@ -8,7 +8,7 @@
 
 #### (b) Limitations on eminent domain
 
-(1) Where authorized in subsection (a) of this section to acquire land or interests therein without the consent of the owner, the Secretary shall—
+(1) Where authorized in subsection (a) of this section to acquire land or interests thereinwithout the consent of the owner, the Secretary shall—
 
 &emsp;(A) acquire only such land or interests therein as is reasonably necessary to accomplish the purposes of sections 544 to 544p of this title; and
 
@@ -238,7 +238,7 @@ Pub. L. 106–291, title III, §346(c), Oct. 11, 2000, 114 Stat. 1000, provided 
 
 Pub. L. 105–277, div. A, §101(e) \[title III, §341\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296, provided that:
 
-“Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to allright, title and interest in lands identified on a map dated September 29, 1998 entitled ‘Skamania County Lands to be Transferred’, such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depicted on a map dated September 29, 1998, entitled ‘Wind River Conveyance’, which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
+“Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to all right, title and interest in lands identified on a map dated September 29, 1998 entitled ‘Skamania County Lands to be Transferred’, such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depicted on a map dated September 29, 1998, entitled ‘Wind River Conveyance’, which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
 
 “The conveyance of lands to Skamania County shall become automatically effective upon a determination by the Secretary that Skamania County has conveyed acceptable title to the United States to the Skamania County lands. Lands conveyed to the United States shall become part of the Gifford Pinchot National Forest and shall have the status of lands acquired under the Act of March 1, 1911, (commonly called the Weeks Act) \[see Short Title note set out under section 552 of this title\] and shall be managed in accordance with the laws and regulations applicable to the National Forest System.”
 
@@ -266,7 +266,7 @@ Pub. L. 105–83, title III, §340, Nov. 14, 1997, 111 Stat. 1603, provided that
 
 “(h) In defining the Federal estate to be conveyed, the Secretary may require such additional terms and conditions as deemed necessary in connection with assuring equal value and public interest considerations in this exchange including, but not limited to, continued research use of the Wind River Experimental Forest and protection of natural, cultural, and historic resources, existing administrative sites, and a scenic corridor for the Pacific Crest National Scenic Trail.
 
-“(i) This authorization is predicated on Skamania County's Board of Commissioners commitment to give foremost consideration to preservation of the overall integrity of the site and conservation of the educational and research potential of the site, including providing for access to and assurance of the continued administration and operation of forestry research on the adjacent Thornton Munger Research Natural Area.
+“(i) This authorization is predicated on Skamania County's Board of Commissioners commitment to give foremost consideration to preservation of the overall integrity of the site and conservation of the educational and research potential of the site, includingproviding for access to and assurance of the continued administration and operation of forestry research on the adjacent Thornton Munger Research Natural Area.
 
 “(j) The Secretary is further directed to cooperate with Skamania County to address applicable Federal and State environmental laws.
 

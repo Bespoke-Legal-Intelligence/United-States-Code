@@ -42,7 +42,7 @@ The Clean Air Act Amendments of 1990, referred to in subsec. (c)(1)(B), means Pu
 
 #### Codification
 
-In subsec. (d), “section 9701 of title 31” was in the original “the Independent Office Appropriations Act (31 U.S.C. 9701)” and substitution was made as if it read for “title V of the Independent Offices Appropriation Act of 1952” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “section 9701 of title 31” was in the original “the Independent Office Appropriations Act (31 U.S.C. 9701)” and substitution was made as if it read for “title V of the Independent Offices Appropriation Act of 1952” on authority of Pub. L. 97–258, §4(b), Sept. 13,1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 

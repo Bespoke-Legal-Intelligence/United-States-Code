@@ -84,7 +84,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(3) to meet, organize, and select from among the members of the board a chairperson, other officers, and committees and subcommittees, as the board determines to be appropriate;
 
-&emsp;(4) to employ persons, other than the members, as the board considers necessary to assist the board in carrying out its duties, and to determine the compensation and specify the duties of the persons;
+&emsp;(4) to employ persons, other than the members, as the board considers necessary to assistthe board in carrying out its duties, and to determine the compensation and specify the duties of the persons;
 
 &emsp;(5) subject to subsection (e) of this section, to develop and carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order;
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

@@ -62,7 +62,7 @@ If, after an agreement enters into force with respect to the United States, the 
 
 &emsp;(2) are not implementing such restrictions satisfactorily with the result that no substantial benefit in deterring a serious situation of pillage in the State Party concerned is being obtained,
 
-> the President shall suspend the implementation of the import restrictions under section 2606 ofthis title until such time as the nations take appropriate corrective action.
+> the President shall suspend the implementation of the import restrictions under section 2606 of this title until such time as the nations take appropriate corrective action.
 
 #### (e) Extension of agreements
 
@@ -110,13 +110,13 @@ If any request described in subsection (a) of this section is made by a State Pa
 
 #### (3) Information relating to committee recommendations
 
-&emsp;If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which contains the reasons why such agreement was not entered into.
+&emsp;If any Committee report required to be considered by the President recommends that an agreement be entered into, but no such agreement is entered into, the President shall submit to the Congress a report which containsthe reasons why such agreement was not entered into.
 
 (Pub. L. 97–446, title III, §303, Jan. 12, 1983, 96 Stat. 2352.)
 
 #### Codification
 
-Section 2603 of this title, referred to in subsec. (g)(1)(B), was in the original “section 204”, and was translated as section 2602 of this title, which is section 304 of Pub. L. 97–446, as the probable intent of Congress.
+Section 2603 of this title, referred to in subsec. (g)(1)(B), was in the original “section 204”, and was translated as section 2603 of this title, which is section 304 of Pub. L. 97–446, as the probable intent of Congress.
 
 #### Ex. Ord. No. 12555. Protection of Cultural Property
 
@@ -144,7 +144,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (i) The functions conferred by section 306(h) relating to the determinations to be made about the disclosure of matters involved in the Cultural Property Advisory Committee's proceedings.
 
-Sec. 2. <i>Department of State</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of State, acting in consultationwith and with the participation of the Director of the United States Information Agency and in consultation with the Secretary of Homeland Security:
+Sec. 2. <i>Department of State</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of State, acting in consultation with and with the participation of the Director of the United States Information Agency and in consultation with the Secretary of Homeland Security:
 
 (a) The functions conferred by section 303(a)(2) \[19 U.S.C. 2602(a)(2)\] relating to the negotiation and conclusion of bilateral or multilateral agreements under the Act, subject to the restrictions of section 303(c).
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) an expansion of credit is necessary so that the United States Government and the governments of other countries can stabilize the value of coins and currencies of a country.
 
-(b) Under an agreement under subsection (a) of this section, the Board shall permit the banks (and the Board is authorized to permit the banks notwithstanding another law) to agree that the banks will—
+(b) Under an agreement under subsection (a) of this section, the Board shall permit the banks (and the Board is authorized to permit the banksnotwithstanding another law) to agree that the banks will—
 
 &emsp;(1) conduct through each entire specified period open market operations in obligations of the United States Government or corporations in which the Government is the majority stockholder; and
 

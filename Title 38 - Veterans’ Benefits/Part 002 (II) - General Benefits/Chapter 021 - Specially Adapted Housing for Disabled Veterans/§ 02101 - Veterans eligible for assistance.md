@@ -20,13 +20,19 @@
 
 (2) Assistance under paragraph (1) of this subsection may be provided only to a veteran who the Secretary determines is residing in and reasonably intends to continue residing in a residence owned by such veteran or by a member of such veteran's family or, if the veteran's residence is to be constructed or purchased, will be residing in and reasonably intends to continue residing in a residence owned by such veteran or by a member of such veteran's family.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(c)(1) The Secretary may provide assistance under subsection (a) to a member of the Armed Forces serving on active duty who is suffering from a disability described in paragraph (1), (2), or (3) of that subsection if such disability is the result of an injury incurred or disease contracted in or aggravated in line of duty in the active military, naval, or air service. Such assistance shall be provided to the same extent as assistance is provided under that subsection toveterans eligible for assistance under that subsection and subject to the requirements of the second sentence of that subsection.
+
+(2) The Secretary may provide assistance under subsection (b) to a member of the Armed Forces serving on active duty who is suffering from a disability described in subparagraph (A) or (B) of paragraph (1) of that subsection if such disability is the result of an injury incurred or disease contracted in or aggravated in line of duty in the active military, naval, or air service. Such assistance shall be provided to the same extent as assistance is provided under that subsection to veterans eligible for assistance under that subsection and subject to the requirements of paragraph (2) of that subsection.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title IV, §401, Dec. 16, 2003, 117 Stat. 2664.)
 
 #### Prior Provisions
 
 Prior section 2101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1222, related to eligibility for mustering-out payments, prior to repeal by Pub. L. 89–50, §1(a), June 24, 1965, 79 Stat. 173, effective July 1, 1966.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–183 added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 801 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing.
 

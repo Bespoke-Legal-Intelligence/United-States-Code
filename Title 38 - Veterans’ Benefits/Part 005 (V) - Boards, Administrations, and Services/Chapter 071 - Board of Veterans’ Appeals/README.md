@@ -15,10 +15,13 @@
 | [7109\.](%C2%A7%2007109%20-%20Independent%20medical%20opinions.md) | Independent medical opinions. |
 | \[7110. | Repealed.\] |
 | [7111\.](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
+| [7112\.](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20remanded%20claims.md) | Expedited treatment of remanded claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–183, title VII, §707(b)(2), Dec. 16, 2003, 117 Stat. 2673, added item 7112.
 
 1997—Pub. L. 105–111, §1(b)(2), Nov. 21, 1997, 111 Stat. 2272, added item 7111.
 
@@ -33,6 +36,10 @@ Pub. L. 103–271, §§6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, 
 1962—Pub. L. 87–671, §3, Sept. 19, 1962, 76 Stat. 557, added item 4009.
 
 Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and substituted “Filing of notice of disagreement and appeal” for “Applications for review on appeal” in item 4005, “Administrative appeals” for “Docketing of appeals” in item 4006, and “Docketing of appeals” for “Simultaneously contested claims” in item 4007.
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 50 App. section 549.
 
 
 ---
@@ -52,3 +59,4 @@ Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and subst
 - [&sect; 07109 - Independent medical opinions](%C2%A7%2007109%20-%20Independent%20medical%20opinions.md)
 - [&sect; 07110 - Repealed. Pub. L. 103&#8211;271, &sect;7(b)(2), July 1, 1994, 108 Stat. 743](%C2%A7%2007110%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93271%2C%20%C2%A77%28b%29%282%29%2C%20July%201%2C%201994%2C%20108%20Stat.%20743.md)
 - [&sect; 07111 - Revision of decisions on grounds of clear and unmistakable error](%C2%A7%2007111%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md)
+- [&sect; 07112 - Expedited treatment of remanded claims](%C2%A7%2007112%20-%20Expedited%20treatment%20of%20remanded%20claims.md)

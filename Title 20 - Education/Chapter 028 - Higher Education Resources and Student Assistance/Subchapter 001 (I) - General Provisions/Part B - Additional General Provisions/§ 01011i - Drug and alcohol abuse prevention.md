@@ -150,7 +150,7 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 
 &emsp;&emsp;&emsp;&emsp;(IV) establish partnerships with community members and organizations to further alcohol prevention efforts on campus and the areas surrounding campus; and
 
-&emsp;&emsp;&emsp;&emsp;(V) establish innovative communications programs involving students and faculty in an effort to educate students about alcohol-related risks.
+&emsp;&emsp;&emsp;&emsp;(V) establish innovative communications programs involving students andfaculty in an effort to educate students about alcohol-related risks.
 
 #### (4) Eligibility
 

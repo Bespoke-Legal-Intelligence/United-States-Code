@@ -18,13 +18,13 @@ In determining the period for which a partner has held property received in a di
 
 #### (1) Waiver of holding periods contained in section 1231
 
-&emsp;For purposes of this section, section 751(d) (defining inventory item) shall be appliedwithout regard to any holding period in section 1231(b).
+&emsp;For purposes of this section, section 751(d) (defining inventory item) shall be applied without regard to any holding period in section 1231(b).
 
 #### (2) Substituted basis property
 
 #### (A) In general
 
-&emsp;&emsp;If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shall also apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions.
+&emsp;&emsp;If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shallalso apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions.
 
 #### (B) Exception for stock in C corporation
 

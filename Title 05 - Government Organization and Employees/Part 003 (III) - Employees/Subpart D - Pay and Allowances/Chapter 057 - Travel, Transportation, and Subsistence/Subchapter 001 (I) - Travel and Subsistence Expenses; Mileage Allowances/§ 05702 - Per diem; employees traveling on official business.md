@@ -1,6 +1,6 @@
 ### §5702. Per diem; employees traveling on official business
 
-(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, when traveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business\(if the employee is described in section 5703 of this title), is entitled to any one of the following:
+(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, when traveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business (if the employee is described in section 5703 of this title), is entitled to any one of the following:
 
 &emsp;(A) a per diem allowance at a rate not to exceed that established by the Administrator of General Services for travel within the continental United States, and by the President or his designee for travel outside the continental United States;
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) because of an incapacitating illness or injury which is not due to the employee's own misconduct is entitled to reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and to payments pursuant to subsection (a) of this section until that location is reached; or
 
-&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
+&emsp;(B) because of a personal emergency situation (such as serious illness, injury, or deathof a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
 (2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
@@ -124,7 +124,7 @@ Definition.—In this section, the term ‘agency’ has the meaning given that 
 
 “(b)
 
-Retention of Travel Promotional Items.—To the extent provided under subsection (c), a Federal employee, member of the Foreign Service, member of auniformed service, any family member or dependent of such an employee or member, or other individual who receives a promotional item (including frequent flyer miles, upgrade, or access to carrier clubs or facilities) as a result of using travel or transportation services obtained at Federal Government expense or accepted under section 1353 of title 31, United States Code, may retain the promotional item for personal use if the promotional item is obtained under the same terms as those offered to the general public and at no additional cost to the Federal Government.
+Retention of Travel Promotional Items.—To the extent provided under subsection (c), a Federal employee, member of the Foreign Service, member of a uniformed service, any family member or dependent of such an employee or member, or other individual who receives a promotional item (including frequent flyer miles, upgrade, or access to carrier clubs or facilities) as a result of using travel or transportation services obtained at Federal Government expense or accepted under section 1353 of title 31, United States Code, may retain the promotional item for personal use if the promotional item is obtained under the same terms as those offered to the general public and at no additional cost to the Federal Government.
 
 “(c)
 
@@ -160,7 +160,7 @@ Through 1981;
 
 Rules and Regulations
 
-Section 3 of Pub. L. 96–346, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+Section 3 of Pub. L. 96–346, for fiscal years 1979 to 1981, directed the Administrator of General Services tocollect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
 
 #### Ex. Ord. No. 12561. Delegation of Functions Relating to Travel Outside Continental United States
 

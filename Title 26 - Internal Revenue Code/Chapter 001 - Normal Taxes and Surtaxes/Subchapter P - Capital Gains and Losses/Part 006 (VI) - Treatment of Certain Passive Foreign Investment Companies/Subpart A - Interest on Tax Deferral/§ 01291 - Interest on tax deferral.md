@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (B) Due date
 
-&emsp;&emsp;For purposes of this subsection, the term “due date” means the date prescribed by law (determined without regard to extensions) for filing the return of the tax imposed by this chapter for the taxable year.
+&emsp;&emsp;For purposes of this subsection, the term “due date” means the date prescribed by law (determined without regard to extensions)for filing the return of the tax imposed by this chapter for the taxable year.
 
 #### (d) Coordination with subparts B and C
 
@@ -218,7 +218,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 #### (B) Excess distribution taxes
 
-&emsp;&emsp;The term “excess distribution taxes” means, with respect to any distribution, theportion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
+&emsp;&emsp;The term “excess distribution taxes” means, with respect to any distribution, the portion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
 
 #### (C) Section 1248 gain
 

@@ -18,11 +18,21 @@
 
 &emsp;(7) Expanded-duty dental auxiliaries.
 
-(Added Pub. L. 102–40, title II, §202, May 7, 1991, 105 Stat. 200.)
+&emsp;(8) Chiropractors.
+
+(Added Pub. L. 102–40, title II, §202, May 7, 1991, 105 Stat. 200; amended Pub. L. 108–170, title III, §302(g), Dec. 6, 2003, 117 Stat. 2058.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 4108(a) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+
+#### Amendments
+
+2003—Subsec. (b)(8). Pub. L. 108–170 added par. (8).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
 #### Preservation of Existing Collective-Bargaining Arrangements and Pending Actions
 

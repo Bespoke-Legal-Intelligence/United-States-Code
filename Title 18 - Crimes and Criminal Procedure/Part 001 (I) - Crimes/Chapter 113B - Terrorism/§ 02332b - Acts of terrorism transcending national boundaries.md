@@ -8,7 +8,7 @@ Prohibited Acts.—
 
 Offenses.—Whoever, involving conduct transcending national boundaries and in a circumstance described in subsection (b)—
 
-&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, orassaults with a dangerous weapon any person within the United States; or
+&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, or assaults with a dangerous weapon any person within the United States; or
 
 &emsp;&emsp;(B) creates a substantial risk of serious bodily injury to any other person by destroying or damaging any structure, conveyance, or other real or personal property within the United States or by attempting or conspiring to destroy or damage any structure, conveyance, or other real or personal property within the United States;
 
@@ -66,7 +66,7 @@ Penalties.—Whoever violates this section shall be punished—
 
 &emsp;(2)
 
-Consecutive sentence.—Notwithstanding any other provision of law, the court shall not place on probation any person convicted of a violation of this section; nor shall the term of imprisonment imposed under this section run concurrently with any other term of imprisonment.
+Consecutive sentence.—Notwithstanding any other provision of law, the court shallnot place on probation any person convicted of a violation of this section; nor shall the term of imprisonment imposed under this section run concurrently with any other term of imprisonment.
 
 (d)
 
@@ -144,7 +144,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 1961, 2339, 2339A, 2516, 3142, 3286, 3583 of this title; title 7 section 8401; title 20 sections 1232g, 9007, 9573; title 42 sections 262a, 14135a.
+This section is referred to in sections 1956, 1961, 2339, 2339A, 2516, 3142, 3286, 3583 of this title; title 7 section 8401; title 20 sections 1232g, 9007, 9573; title 38 section 6105; title 42 sections 262a, 14135a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

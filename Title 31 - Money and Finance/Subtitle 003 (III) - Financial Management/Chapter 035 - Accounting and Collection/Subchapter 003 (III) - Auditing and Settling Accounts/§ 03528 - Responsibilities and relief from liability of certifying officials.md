@@ -36,7 +36,7 @@
 
 &emsp;(2) provided under a Government bill of lading or transportation request when the overpayment was the result of using improper transportation rates or classifications or the failure to deduct the proper amount under a land-grant law or agreement and the Administrator of General Services has determined that verification by a prepayment audit conducted pursuant to section 3726(a) of this title for a particular mode or modes of transportation, or for an agency or subagency, will not adequately protect the interests of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, §1(4), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–106, div. A, title IX, §913(c)(5), Feb. 10, 1996,110 Stat. 412; Pub. L. 105–264, §3(a)(2), Oct. 19, 1998, 112 Stat. 2352.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 966; Pub. L. 98–216, §1(4), Feb. 14, 1984, 98 Stat. 4; Pub. L. 104–106, div. A, title IX, §913(c)(5), Feb. 10, 1996, 110 Stat. 412; Pub. L. 105–264, §3(a)(2), Oct. 19, 1998, 112 Stat. 2352.)
 
 Historical and Revision Notes<br>1982
 

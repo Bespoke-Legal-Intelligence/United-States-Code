@@ -108,7 +108,7 @@ Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II,
 
 Subsec. (h). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(6)\]\], added subsec. (h).
 
-1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separatesfrom Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
+1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
 
 Subsec. (b)(4). Pub. L. 103–226, §9(i)(3), substituted “subsection (c)” for “subsection (e)”.
 
@@ -190,7 +190,7 @@ Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second electio
 
 #### Regulations
 
-Section 6(b)(4) of Pub. L. 101–335 provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
+Section 6(b)(4) of Pub. L. 101–335 provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section \[amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title\] shallbe carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 
 #### Invalidity of Certain Prior Elections
 

@@ -78,5 +78,5 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 106 of this title.
+This section is referred to in sections 106, 4980G of this title.
 

@@ -46,7 +46,7 @@
 
 (ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
-(iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
+(iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
 
 (B) The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
 
@@ -66,7 +66,7 @@
 
 (C) If, after a reasonable period of time, the agency does not act to correct the prohibited personnel practice, the Special Counsel may petition the Board for corrective action.
 
-(D) If the Special Counsel finds, in consultation with the individual subject to the prohibited personnel practice, that the agency has acted to correct the prohibited personnel practice, the Special Counsel shall file such findingwith the Board, together with any written comments which the individual may provide.
+(D) If the Special Counsel finds, in consultation with the individual subject to the prohibited personnel practice, that the agency has acted to correct the prohibited personnel practice, the Special Counsel shall file such finding with the Board, together with any written comments which the individual may provide.
 
 (E) A determination by the Special Counsel under this paragraph shall not be cited or referred to in any proceeding under this paragraph or any other administrative or judicial proceeding for any purpose, without the consent of the person submitting the allegation of a prohibited personnel practice.
 

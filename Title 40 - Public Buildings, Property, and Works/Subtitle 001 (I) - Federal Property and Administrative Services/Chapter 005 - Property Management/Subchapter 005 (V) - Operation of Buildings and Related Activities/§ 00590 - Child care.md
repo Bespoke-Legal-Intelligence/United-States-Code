@@ -40,7 +40,7 @@ Payment for Space and Services.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and other expenses associated with security systems), including replacement equipment, as needed.
+Definition.—For purposes of this subsection, the term “services” includes the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, classroom furnishings and equipment, kitchen appliances, playground equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone services), and security systems (including installation and otherexpenses associated with security systems), including replacement equipment, as needed.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Criminal History Background Checks.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of anoffice or entity within the judicial branch of the Government.
+Definition.—In this subsection, the term “executive facility” means a facility owned or leased by an office or entity within the executive branch of the Government. The term includes a facility owned or leased by the General Services Administration on behalf of an office or entity within the judicial branch of the Government.
 
 &emsp;(2)
 

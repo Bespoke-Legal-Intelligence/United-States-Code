@@ -66,7 +66,7 @@ Pub. L. 101–649, §407(b)(2), substituted “within a State or a district of t
 
 Subsec. (c). Pub. L. 97–116, §18(n), added subsec. (c).
 
-1978—Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a) of this section applicable toadopted children for provisions making subsec. (a) of this section inapplicable to adopted children.
+1978—Subsec. (b). Pub. L. 95–417 substituted provisions making subsec. (a) of this section applicable to adopted children for provisions making subsec. (a) of this section inapplicable to adopted children.
 
 #### Effective Date of 2000 Amendment
 

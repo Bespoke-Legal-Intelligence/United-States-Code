@@ -29,6 +29,24 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
+#### Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations
+
+Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, provided that: “During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: <i>Provided</i>, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–117, div. A, title VIII, §8081, Jan. 10, 2002, 115 Stat. 2265.
+
+Pub. L. 106–259, title VIII, §8080, Aug. 9, 2000, 114 Stat. 692.
+
+Pub. L. 106–79, title VIII, §8085, Oct. 25, 1999, 113 Stat. 1251.
+
+Pub. L. 105–262, title VIII, §8086, Oct. 17, 1998, 112 Stat. 2318.
+
+Pub. L. 105–56, title VIII, §8094, Oct. 8, 1997, 111 Stat. 1242.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8121\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–115.
+
 #### Regional Defense Counter-terrorism Fellowship Program
 
 Pub. L. 107–117, div. A, title VIII, §8125, Jan. 10, 2002, 115 Stat. 2275, provided that: “In addition to amounts provided elsewhere in this Act \[see Tables for classification\], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: <i>Provided</i>, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: <i>Provided further</i>, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: <i>Provided further</i>, That the Secretary of Defense shall establish rules to govern the administration of this program.”
@@ -59,51 +77,9 @@ Pub. L. 103–335, title VIII, §8108A, Sept. 30, 1994, 108 Stat. 2646.
 
 #### Authority for Military School Faculty Members and Students To Accept Honoraria for Certain Scholarly and Academic Activities
 
-Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, provided that:
+Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, related to conditions for and exceptions to authority of Department of Defense school faculty and students to accept honoraria for appearance, speech, or article published in bona fide publication, prior to repeal by Pub. L. 107–314, div. A, title VI, §653(a), Dec. 2, 2002, 116 Stat. 2581.
 
-“(a)
-
-Authority To Accept Honoraria.—Notwithstanding the prohibition on the acceptance of honoraria contained in section 501(b) of the Ethics in Government Act of 1978 \[5 App. U.S.C.\], a faculty member or a student at a Department of Defense school specified under subsection (d) may accept an honorarium for an appearance, a speech, or an article published in a bona fide publication if such an appearance, speech, or article is customary for scholarly or academic activities normally associated with institutions of higher learning and if—
-
-&emsp;“(1) the purpose of the appearance, or the subject of the speech or article, does not relate primarily to the responsibilities, policies, or programs of the school at which the individual is a faculty member or student;
-
-&emsp;“(2) the appearance, speech, or article (including the individual's time in specific preparation for the appearance, speech, or article) does not involve the use of Government time, Government property, or other resources of the Government or the use of nonpublic Government information;
-
-&emsp;“(3) the reason for which the honorarium is paid is unrelated to the individual's duties or status as a member of the Armed Forces or employee of the Government or as a faculty member or student at a school specified in subsection (d); and
-
-&emsp;“(4) the person offering the honorarium has no interests that may be substantially affected by the performance or nonperformance of the individual's duties as a member of the Armed Forces or an employee of the Government or as a faculty member or student at a school specified in subsection (d).
-
-“(b)
-
-Special Rule Concerning Subject Matter.—For purposes of subsection (a)(1), an appearance, speech, or article on a subject matter that is within an individual's academic or military specialty, in the case of a faculty member, or an individual's course of academic study, in the case of a student, shall not be considered to relate primarily to the responsibilities, policies, or programs of the school at which the individual is a faculty member or student if the preparation and presentation of the particular appearance, speech, or article is clearly outside of the individual's duties.
-
-“(c)
-
-Noncoverage of Highly Paid Faculty Members.—Subsection (a) shall not apply to acceptance of an honorarium by a faculty member who is employed in a position for which the rate of basic pay, exclusive of any locality-based pay adjustment under section 5302 of title 5, United States Code (or any comparable adjustment pursuant to interim authority of the President), is equal to or greater than the rate of basic pay payable for Level V of the Executive Schedule.
-
-“(d)
-
-Covered Schools.—(1) This section applies with respect to faculty members and students at any of the service academies and at any professional military school operated by the Department of Defense that is designated by the Chairman of the Joint Chiefs of Staff to be covered by this section.
-
-“(2) For purposes of paragraph (1), the term ‘service academies’ means—
-
-&emsp;“(A) the United States Military Academy;
-
-&emsp;“(B) the United States Naval Academy; and
-
-&emsp;“(C) the United States Air Force Academy.
-
-“(e)
-
-Honorarium Defined.—For purposes of this section, the term ‘honorarium’ means a payment of money or anything of value for an appearance, a speech, or an article (including a series of appearances, speeches, or articles).
-
-“(f)
-
-Maximum Amount of Honorarium.—The amount of any honorarium accepted under this section shall not exceed the usual and customary fee for the appearance, speech, or article for which the honorarium is paid, up to a maximum of $2,000.
-
-“(g)
-
-Effective Date.—This section shall apply with respect to any honorarium for an appearance or speech made, or an article published, on or after the date of the enactment of this Act \[Oct. 23, 1992\].”
+\[Pub. L. 107–314, div. A, title VI, §653(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “The repeal made by subsection (a) \[repealing section 542 of Pub. L. 102–484, formerly set out above\] shall apply with respect to appearances made, speeches presented, and articles published on or after October 1, 2002.”\]
 
 #### Chapter Referred to in Other Sections
 

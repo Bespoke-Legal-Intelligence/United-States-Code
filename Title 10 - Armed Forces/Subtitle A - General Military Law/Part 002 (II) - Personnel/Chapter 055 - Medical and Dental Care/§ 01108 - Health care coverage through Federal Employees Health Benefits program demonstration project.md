@@ -26,7 +26,7 @@ Eligible Beneficiaries; Coverage.—(1) An eligible beneficiary under this subse
 
 (2) Eligible beneficiaries may enroll in a Federal Employees Health Benefit plan under chapter 89 of title 5 under this section for self-only coverage or for self and family coverage which includes any dependent of the member or former member who is a family member for purposes of such chapter.
 
-(3) A person eligible for coverage under this subsection shall not be required to satisfy any eligibility criteria specified in chapter 89 of title 5 (except as provided in paragraph (1)(C) or (1)(D)) as a condition for enrollment in health benefits plans offered through the Federal Employees Health Benefits program under the demonstration project.
+(3) A person eligible for coverage under this subsection shall not be required to satisfy any eligibility criteria specified in chapter 89 of title 5 (except as provided in paragraph (1)(C) or\(1)(D)) as a condition for enrollment in health benefits plans offered through the Federal Employees Health Benefits program under the demonstration project.
 
 (4) For purposes of determining whether an individual is a member of family under paragraph (5) of section 8901 of title 5 for purposes of paragraph (1)(C) or (1)(D), a member or former member described in section 1076(b) or 1076(a)(2)(B) of this title shall be deemed to be an employee under such section.
 
@@ -90,7 +90,7 @@ Report Requirements.—(1) The Secretary of Defense and the Director of the Offi
 
 &emsp;(D) An analysis of the enrollment rates and cost of health services provided to eligible beneficiaries who elect to participate in the demonstration project as compared with similarly situated enrollees in the Federal Employees Health Benefits program under chapter 89 of title 5.
 
-&emsp;(E) An analysis of how the demonstration project affects the accessibility of health care in military medical treatment facilities, and a description of any unintended effects on the treatment priorities in those facilities in the demonstration area.
+&emsp;(E) An analysis of how the demonstration project affects the accessibility of health carein military medical treatment facilities, and a description of any unintended effects on the treatment priorities in those facilities in the demonstration area.
 
 &emsp;(F) An analysis of any problems experienced by the Department of Defense in managing the demonstration project.
 
@@ -116,7 +116,7 @@ Comptroller General Report.—Not later than December 31, 2002, the Comptroller 
 
 (<i>l</i>)
 
-Application of Medigap Protections to Demonstration Project Enrollees.—(1) Subject to paragraph (2), the provisions of section 1882(s)(3) (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and termination of enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice organization in a Medicare+Choice plan.
+Application of Medigap Protections to Demonstration Project Enrollees.—(1) Subject to paragraph (2), the provisions of section 1882(s)(3) (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and termination of enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice <sup>1</sup> organization in a Medicare+Choice <sup>1</sup> plan.
 
 (2) In applying paragraph (1)—
 
@@ -130,6 +130,10 @@ Application of Medigap Protections to Demonstration Project Enrollees.—(1) Sub
 
 The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), (j)(2)(K)(ii), and (<i>l</i>)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201(b) of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+
 #### Comprehensive Evaluation of Implementation of Demonstration Projects and TRICARE Pharmacy Redesign
 
 Pub. L. 105–261, div. A, title VII, §724, Oct. 17, 1998, 112 Stat. 2069, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that: “Not later than March 31, 2003, the Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under section 1108 of title 10, United States Code (as added by section 721), the TRICARE Senior Supplement under section 722 \[10 U.S.C. 1073 note\], and the redesign of the TRICARE pharmacy system under section 723 \[10 U.S.C. 1073 note\]. The comprehensive analysis shall incorporate the findings of the evaluation submitted under section 723(c) and the report submitted under subsection (j) of such section 1108.”
@@ -137,4 +141,6 @@ Pub. L. 105–261, div. A, title VII, §724, Oct. 17, 1998, 112 Stat. 2069, as a
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 sections 8905, 8906, 8909.
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -230,7 +230,7 @@ As used in this section:
 
 #### (B) Report
 
-&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
+&emsp;&emsp;The Secretary shall annually prepare and submit to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of theHouse of Representatives a report that describes the results of the evaluation conducted in accordance with subparagraph (A).
 
 #### (f) Quality standards
 
@@ -284,7 +284,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(III) if such a physician is not available or if there is no such physician, the written report shall be sent directly to the patient; and
 
-&emsp;&emsp;&emsp;(IV) whether or not such a physician is available or there is no such physician, asummary of the written report shall be sent directly to the patient in terms easily understood by a lay person; and
+&emsp;&emsp;&emsp;(IV) whether or not such a physician is available or there is no such physician, a summary of the written report shall be sent directly to the patient in terms easily understood by a lay person; and
 
 &emsp;&emsp;(H) standards relating to special techniques for mammography of patients with breast implants.
 
@@ -428,7 +428,7 @@ As used in this section:
 
 #### (B) Hearing
 
-&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shallprovide an opportunity for a hearing to the owner or operator of the facility not later than 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
+&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shall provide an opportunity for a hearing to the owner or operator of the facility not later than 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
 
 #### (3) Ineligibility to own or operate facilities after revocation
 
@@ -598,7 +598,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 &emsp;The Secretary may, upon application, authorize a State—
 
-&emsp;&emsp;(A) to carry out, subject to paragraph (2), the certification program requirements under subsections (b), (c), (d), (g)(1), (h), (i), and (j) of this section (including the requirements under regulations promulgated pursuant to such subsections), and
+&emsp;&emsp;(A) to carry out, subject to paragraph (2), the certification program requirementsunder subsections (b), (c), (d), (g)(1), (h), (i), and (j) of this section (including the requirements under regulations promulgated pursuant to such subsections), and
 
 &emsp;&emsp;(B) to implement the standards established by the Secretary under subsection (f) of this section,
 
@@ -654,7 +654,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (ii) Appropriations
 
-&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to theextent provided in advance in appropriation Acts.
+&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to the extent provided in advance in appropriation Acts.
 
 #### (2) Authorization of appropriations
 

@@ -16,13 +16,17 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title. In the case of a graduate medical or veterinary school outside the United States, such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made, insured, or guaranteed under part B <sup>1</sup> unless—
+&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C), the Secretary shall establish criteria by regulation for the approval of institutions outside the United States and for the determination that such institutions are comparable to an institution of higher education as defined in section 1001 of this title (except that a graduate medical school, or a veterinary school, located outside the United States shall not be required to meet the requirements of section 1001(a)(4) of this title). Such criteria shall include a requirement that a student attending such school outside the United States is ineligible for loans made, insured, or guaranteed under part B of subchapter IV of this chapter unless—
 
-&emsp;&emsp;&emsp;(i)(I) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; and
+&emsp;&emsp;&emsp;(i) in the case of a graduate medical school located outside the United States—
 
-&emsp;&emsp;&emsp;(II) at least 60 percent of the individuals who were students or graduates of the graduate medical school outside the United States (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; and
 
-&emsp;&emsp;&emsp;(ii) the institution has a clinical training program that was approved by a State as of January 1, 1992, or the institution's students complete their clinical training at an approved veterinary school located in the United States.
+&emsp;&emsp;&emsp;&emsp;(bb) at least 60 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the institution has a clinical training program that was approved by a State as of January 1, 1992; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a veterinary school located outside the United States that does not meet the requirements of section 1001(a)(4) of this title, the institution's students complete their clinical training at an approved veterinary school located in the United States.
 
 #### (B) Advisory panel
 
@@ -50,7 +54,7 @@
 
 &emsp;An institution shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution—
 
-&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence, unless the institution is an institution that meets the definition in section 2471(4)(C) of this title; <sup>2</sup>
+&emsp;&emsp;(A) offers more than 50 percent of such institution's courses by correspondence, unless the institution is an institution that meets the definition in section 2471(4)(C) of this title; <sup>1</sup>
 
 &emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses, unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
@@ -112,7 +116,7 @@
 
 &emsp;The term “postsecondary vocational institution” also includes an educational institution in any State that, in lieu of the requirement in paragraph (1) of section 1001(a) of this title, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.
 
-(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586.)
+(Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586;amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174.)
 
 #### References in Text
 
@@ -130,11 +134,17 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 9
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I, §101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms “community service program”, “continuing education program”, and “resource materials sharing programs”, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
+#### Amendments
+
+2003—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–98, §1(b), Oct. 10, 2003, 117 Stat. 1175, provided that: “This Act \[amending this section\] and the amendments made by this Act shall be effective as if enacted on October 1, 1998.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1001, 1011c, 1078–11, 1085, 1093, 1094, 1099b, 1099c, 1099c–2, 2373, 6103 of this title; title 29 section 2801; title 37 section 430; title 42 sections 292d, 677, 12604.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “part B of subchapter IV of this chapter”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

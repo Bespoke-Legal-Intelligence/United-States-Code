@@ -72,7 +72,7 @@ Advertising and marketing.—The Architect of the Capitol shall begin advertisin
 
 &emsp;“(8)
 
-Local zoning and occupancy requirements.—Until such date as the purchaser of the property to be disposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliancewith all applicable zoning and occupancy requirements of the District of Columbia.
+Local zoning and occupancy requirements.—Until such date as the purchaser of the property to be disposed of under paragraph (1) takes full occupancy of such property, such property and the tenants of such property shall be deemed to be in compliance with all applicable zoning and occupancy requirements of the District of Columbia.
 
 &emsp;“(9)
 
@@ -194,7 +194,7 @@ House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into
 
 #### Inclusion of Additional Areas and Buildings
 
-For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note under section 5102 of Title 40, Public Buildings, Property, and Works.
+For inclusion of additional areas and buildings as part of the United States Capitol grounds, see order of the House Office Building Commission affecting the Capitol grounds and buildings, set out as a note undersection 5102 of Title 40, Public Buildings, Property, and Works.
 
 #### Compensation of Superintendent of Garages of House Office Buildings
 
@@ -206,5 +206,5 @@ Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079, provided that: “Effecti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2010, 2162 of this title.
+This section is referred to in sections 2010, 2162 of this title; title 40 section 3309.
 

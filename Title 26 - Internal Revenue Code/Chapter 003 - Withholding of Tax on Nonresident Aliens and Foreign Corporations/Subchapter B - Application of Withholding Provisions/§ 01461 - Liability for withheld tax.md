@@ -1,6 +1,6 @@
 ### §1461. Liability for withheld tax
 
-Every person required to deduct and withhold any tax under this chapter is hereby made liable for such tax and is hereby indemnified against the claims and demands of any person for the amount of any payments made in accordance with the provisions of this chapter.
+Every person required to deduct and withhold any tax under this chapter is hereby made liablefor such tax and is hereby indemnified against the claims and demands of any person for the amount of any payments made in accordance with the provisions of this chapter.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 89–809, title I, §103(i), Nov. 13, 1966, 80 Stat. 1554.)
 

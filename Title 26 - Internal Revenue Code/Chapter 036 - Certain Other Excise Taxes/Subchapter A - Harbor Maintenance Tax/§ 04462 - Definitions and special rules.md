@@ -156,7 +156,7 @@ Except as provided by regulations—
 
 #### (3) Relay cargo
 
-&emsp;Only 1 tax shall be imposed under section 4461(a) on cargo (moving under a single bill oflading) which is unloaded from one vessel and loaded onto another vessel at any port in the United States for relay to or from any port in Alaska, Hawaii, or any possession of the United States. For purposes of this paragraph, the term “cargo” does not include any item not treated as cargo under subsection (b)(2).
+&emsp;Only 1 tax shall be imposed under section 4461(a) on cargo (moving under a single bill of lading) which is unloaded from one vessel and loaded onto another vessel at any port in the United States for relay to or from any port in Alaska, Hawaii, or any possession of the United States. For purposes of this paragraph, the term “cargo” does not include any item not treated as cargo under subsection (b)(2).
 
 #### (h) Exemption for humanitarian and development assistance cargos
 

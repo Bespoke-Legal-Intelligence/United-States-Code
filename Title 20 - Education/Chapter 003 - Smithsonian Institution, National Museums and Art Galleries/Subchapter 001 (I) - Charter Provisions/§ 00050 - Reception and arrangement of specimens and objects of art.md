@@ -162,7 +162,7 @@ Pub. L. 96–36, July 20, 1979, 93 Stat. 94, provided: “That the Board of Rege
 
 #### Smithsonian Institution Plans for and Construction of Museum Support Facilities; Approval of Plans and Specifications; Situs; Transfer of Land; Appropriations; Contracts by General Services Administration
 
-Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444, provided: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
+Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444; Pub. L. 108–72, §2, Aug. 15, 2003, 117 Stat. 888, provided that: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
 
 “
 
@@ -170,9 +170,27 @@ Sec. 2. The museum support facilities referred to in section 1 shall be located 
 
 “
 
-Sec. 3. There is authorized to be appropriated to the Smithsonian Institution $21,500,000 to carry out the purposes of this Act. Any portion of the sums appropriated for such purposes may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.”
+Sec. 3. There is authorized to be appropriated to the Smithsonian Institution $21,500,000 to carry out this Act (other than section 4). Any portion of the sums appropriated for such purposes may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes.
 
-\[Amendment of section 3 of this Act effective Oct. 1, 1979.\]
+“
+
+Sec. 4. Additional space and resources for national collections held by the Smithsonian Institution.
+
+&emsp;“(a)
+
+In General.—The Board of Regents of the Smithsonian Institution may plan, design, construct, and equip additional special use storage and laboratory space at the museum support facility of the Smithsonian Institution in Suitland, Maryland, to accommodate the care, preservation, conservation, deposit, and study of national collections held in trust by the Institution.
+
+&emsp;“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section—
+
+&emsp;&emsp;“(1) $2,000,000 for fiscal year 2003;
+
+&emsp;&emsp;“(2) $10,000,000 for fiscal year 2004; and
+
+&emsp;&emsp;“(3) such sums as are necessary for each of fiscal years 2005 through 2008.”
+
+\[Amendment of section 3 by Pub. L. 95–569 effective Oct. 1, 1979.\]
 
 #### National Museum
 

@@ -62,11 +62,11 @@ In subsec. (c), in the first par. (3), “section 5104(c) of title 40” substit
 
 #### Amendments
 
-2000—Subsec. (c)(2)(A). Pub. L. 106–554, §1(a)(2) \[title I, §3(a)(1)\], struck out “and agency contributions” after “salaries”.
+<b>2000</b>—Subsec. (c)(2)(A). Pub. L. 106–554, §1(a)(2) \[title I, §3(a)(1)\], struck out “and agency contributions” after “salaries”.
 
 Subsec. (c)(3). Pub. L. 106–554, §1(a)(2) \[title I, §3(a)(2)\], added par. (3) relating to agency contributions.
 
-1999—Subsec. (c)(3). Pub. L. 106–57 added par. (3).
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–57 added par. (3).
 
 #### Effective Date of 2000 Amendment
 

@@ -108,6 +108,18 @@ In subsection (b)(2), the words “obligation, duty, or liability arising out of
 
 In subsection (c), before clause (1), the words “To assist” are omitted as surplus. The words “carrying out” are substituted for “developing and implementing” for consistency in the revised title and with other titles of the Code. The word “both” is omitted as surplus. In clause (8), the word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the Code.
 
+#### Reciprocal Airworthiness Certification
+
+Pub. L. 108–176, title VIII, §812, Dec. 12, 2003, 117 Stat. 2590, provided that:
+
+“(a)
+
+In General.—As part of their bilateral negotiations with foreign nations and their civil aviation counterparts, the Secretary of State and the Administrator of the Federal Aviation Administration shall facilitate the reciprocal airworthiness certification of aviation products.
+
+“(b)
+
+Reciprocal Airworthiness Defined.—In this section, the term ‘reciprocal airworthiness certification of aviation products’ means that the regulatory authorities of each nation perform a similar review in certifying or validating the certification of aircraft and aircraft components of other nations.”
+
 #### Report on Certain Bilateral Negotiations
 
 Pub. L. 103–305, title V, §519, Aug. 23, 1994, 108 Stat. 1600, provided that: “The Secretary shall report every other month to the Committee on Public Works and Transportation \[now Committee on Transportation and Infrastructure\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of all active aviation bilateral and multilateral negotiations and informal government-to-government consultations with United States aviation trade partners.”
@@ -220,7 +232,7 @@ The air waybill shall contain the following particulars:
 
 (<i>b</i>) The place of departure and of destination;
 
-(<i>c</i>) The agreed stopping places, provided that the carrier may reserve the right to alter the stopping placesin case of necessity, and that if he exercises that right the alteration shall not have the effect of depriving the transportation of its international character;
+(<i>c</i>) The agreed stopping places, provided that the carrier may reserve the right to alter the stopping places in case of necessity, and that if he exercises that right the alteration shall not have the effect of depriving the transportation of its international character;
 
 (<i>d</i>) The name and address of the consignor;
 
@@ -268,7 +280,7 @@ If the carrier accepts goods without an air waybill having been made out, or if 
 
 #### <i>Article 12</i>
 
-(1) Subject to his liability to carry out all his obligations under the contract of transportation, the consignor shall have the right to dispose of the goods by withdrawing them at the airport of departure or destination, or by stopping them in the course of the journey on any landing, or by calling for them to be delivered at the place of destination, or in the course of the journey to a person other than the consignee named in the air waybill, or by requiring them to be returned to the airport of departure. He must not exercise this right of disposition in such a way as to prejudice the carrier or other consignors, and he must repay any expenses occasioned by the exercise of this right.
+(1) Subject to his liability to carry out all his obligations under the contract of transportation, the consignor shall have the right to dispose of the goods by withdrawing them at the airport of departure or destination, or by stopping them in the course of the journey on any landing, or by calling for them to be delivered at the place of destination, or in the course of thejourney to a person other than the consignee named in the air waybill, or by requiring them to be returned to the airport of departure. He must not exercise this right of disposition in such a way as to prejudice the carrier or other consignors, and he must repay any expenses occasioned by the exercise of this right.
 
 (2) If it is impossible to carry out the orders of the consignor the carrier must so inform him forthwith.
 
@@ -340,7 +352,7 @@ If the carrier proves that the damage was caused by or contributed to by the neg
 
 #### <i>Article 23</i>
 
-Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this convention shall be null and void, but the nullity of any such provision shall not involve the nullity of the whole contract, which shall remain subject to the provisions of this convention.
+Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid downin this convention shall be null and void, but the nullity of any such provision shall not involve the nullity of the whole contract, which shall remain subject to the provisions of this convention.
 
 #### <i>Article 24</i>
 

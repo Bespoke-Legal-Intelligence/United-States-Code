@@ -18,7 +18,7 @@ In order to encourage the commercial production of electric and hybrid vehicles,
 
 #### (c) Maximum amount of loan guarantee
 
-Any guarantee under this section shall apply only to so much of the principal amount of the loan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
+Any guarantee under this section shall apply only to so much of the principal amount of theloan involved as does not exceed 90 percentum of the aggregate cost of the activity with respect to which the loan is made.
 
 #### (d) Terms and conditions of guarantee
 
@@ -54,7 +54,7 @@ As used in this section, the term “qualified borrower” means any partnership
 
 #### (g) Payment of principal and interest; default; recovery of losses
 
-(1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges which become due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
+(1) With respect to any loan guaranteed pursuant to this section, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, the lender for and on behalf of the borrower the principal and interest charges whichbecome due and payable on the unpaid balance of such loan if the Secretary of Energy finds—
 
 &emsp;(A) that the borrower is unable to meet principal and interest charges, that it is in the public interest to permit the borrower to continue to pursue the purposes of the project, and that the probable net cost to the Federal Government in paying such principal will be less than that which would result in the event of a default; and
 

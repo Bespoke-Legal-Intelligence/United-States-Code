@@ -36,7 +36,7 @@ The President shall regularly reduce and, with such deliberate speed as orderly 
 
 #### (d) Termination of assistance; report of violation by President; conditions for reinstatement
 
-(1) Assistance and deliveries of assistance under this part to any country shall be terminated as hereinafter provided, if such country uses defense articles or defense services furnished under this chapter, the Mutual Security Act of 1954, or any predecessor Foreign Assistance Act, in substantial violation (either in terms of quantities or in terms of the gravity of the consequences regardless of the quantities involved) of any agreement entered into pursuant to any such Act (A) by using such articles or services for a purpose not authorized under section 2302 of this title or, if such agreement provides that such articles or services may only be used for purposes more limited than those authorized under section 2302 of this title, for a purpose not authorized under such agreement; (B) by transferring such articles or services to, or permitting any use of such articles or services by, anyone not an officer, employee, or agent of the recipient country without the consent of the President; or (C) by failing to maintain the security of such articles or services.
+(1) Assistance and deliveries of assistance under this part to any country shall be terminated as hereinafter provided, if such country uses defense articles or defense services furnished under this chapter, the Mutual SecurityAct of 1954, or any predecessor Foreign Assistance Act, in substantial violation (either in terms of quantities or in terms of the gravity of the consequences regardless of the quantities involved) of any agreement entered into pursuant to any such Act (A) by using such articles or services for a purpose not authorized under section 2302 of this title or, if such agreement provides that such articles or services may only be used for purposes more limited than those authorized under section 2302 of this title, for a purpose not authorized under such agreement; (B) by transferring such articles or services to, or permitting any use of such articles or services by, anyone not an officer, employee, or agent of the recipient country without the consent of the President; or (C) by failing to maintain the security of such articles or services.
 
 (2)(A) Assistance and deliveries of assistance shall be terminated pursuant to paragraph (1) of this subsection if the President so determines and so states in writing to the Congress, or if the Congress so finds by joint resolution.
 
@@ -68,7 +68,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 (3) The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any transaction in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the furnishing of assistance under this part, or education and training under part V of this subchapter, to any foreign country. Such reports shall include (A) a description of the facts and circumstances of any such discrimination, (B) the response thereto on the part of the United States or any agency or employee thereof, and (C) the result of such response, if any.
 
-(4)(A) Upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor, with respect to the country designated in such request, setting forth—
+(4)(A) Upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall, within 60 daysafter receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Assistant Secretary of State for Democracy, Human Rights, and Labor, with respect to the country designated in such request, setting forth—
 
 &emsp;(i) all the available information about the exclusionary policies or practices of the government of such country when such policies or practices are based upon race, religion, national origin, or sex and prevent any such person from participating in a transaction involving the furnishing of any assistance under this part or any education and training under part V of this subchapter;
 
@@ -78,7 +78,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 &emsp;&emsp;(I) extraordinary circumstances exist which necessitate a continuation of such assistance or education and training transaction, and, if so, a description of such circumstances and the extent to which such assistance or education and training transaction should be continued (subject to such conditions as Congress may impose under this section), and
 
-&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue suchassistance or education and training transaction; and
+&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue such assistance or education and training transaction; and
 
 &emsp;(iv) such other information as such committee may request.
 
@@ -120,7 +120,7 @@ Pub. L. 103–236 substituted “Democracy, Human Rights, and Labor” for “Hu
 
 Subsec. (d). Pub. L. 94–329, §304(a), provided that either the President, by so stating in a writing to Congress, or Congress, by joint resolution, terminate assistance upon determining a violation, specified conditions for reinstatement of assistance, and denied the President the power, where a violation has been determined, of granting assistance on the basis of national security.
 
-Subsec. (e). Pub. L. 94–329, §204(b)(2), struck out provisions relating to the President's notification of his consent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
+Subsec. (e). Pub. L. 94–329, §204(b)(2), struck out provisions relating to the President's notification of hisconsent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
 
 Subsec. (g). Pub. L. 94–329 added subsec. (g).
 

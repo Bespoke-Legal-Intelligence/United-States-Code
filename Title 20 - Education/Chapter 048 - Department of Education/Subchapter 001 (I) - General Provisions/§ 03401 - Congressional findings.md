@@ -34,7 +34,7 @@ Section 601 of Pub. L. 96–88 provided that:
 
 &emsp;“(2) the Secretary may promulgate regulations pursuant to section 505(b)(2) of this Act \[section 3505(b)(2) of this title\].
 
-“(b) Funds available to any department or agency (or any official or component thereof), the functions or offices of which are transferred to the Secretary or the Department by this Act \[see Short Title note below\], may, with the approval of the Director of the Office of Management and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this title \[this section and section 602 of Pub. L. 96–88 set out below\] and other transitional and planning expenses associated with the establishment of the Department or transfer of functions or offices thereto until such time as funds for such purposes are otherwise available.”
+“(b) Funds available to any department or agency (or any official or component thereof), the functions or offices of which are transferred to the Secretary or the Department by this Act \[see Short Title note below\], may, with the approval of the Director of the Office ofManagement and Budget, be used to pay the compensation and expenses of any officer appointed pursuant to this title \[this section and section 602 of Pub. L. 96–88 set out below\] and other transitional and planning expenses associated with the establishment of the Department or transfer of functions or offices thereto until such time as funds for such purposes are otherwise available.”
 
 #### Short Title of 1990 Amendment
 

@@ -54,3 +54,7 @@ Reference to the Philippine government, contained in the source statute for 10:1
 
 1960—Pub. L. 86–624 struck out cl. (6) which authorized transportation of officers and employees of the Territory of Hawaii, redesignated cls. (7) to (9) as (6) to (8), respectively, and substituted “clauses (1), (2), (4), (5), and (7)” for “clauses (1), (2), (4), (5), (6), and (8)” in redesignated cl. (8), and “clause (7) or (8)” for “clause (8) or (9)” in closing sentence.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

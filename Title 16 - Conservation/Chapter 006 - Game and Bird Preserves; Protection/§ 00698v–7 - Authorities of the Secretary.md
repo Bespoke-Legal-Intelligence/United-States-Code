@@ -22,7 +22,7 @@ Notwithstanding the assumption of management of the Preserve by the Trust, the S
 
 &emsp;(9) at the request of the Trust, construct and operate a visitors’ center in or near the Preserve, subject to the availability of appropriated funds;
 
-&emsp;(10) conduct the assessment of the Trust's performance, and, if the Secretary determines it necessary, recommend to Congress the termination of the Trust, under section 698v–8(b)(2) of this title; and
+&emsp;(10) conduct the assessment of the Trust's performance, and, if the Secretary determinesit necessary, recommend to Congress the termination of the Trust, under section 698v–8(b)(2) of this title; and
 
 &emsp;(11) conduct such other activities for which express authorization is provided to the Secretary by sections 698v to 698v–10 of this title.
 

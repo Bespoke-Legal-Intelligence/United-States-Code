@@ -192,7 +192,7 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, andapplicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on orafter Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Amendment by section 203(a) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 

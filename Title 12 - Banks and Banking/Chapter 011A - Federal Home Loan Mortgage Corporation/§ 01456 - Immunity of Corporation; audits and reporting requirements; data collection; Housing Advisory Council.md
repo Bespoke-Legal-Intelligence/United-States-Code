@@ -8,11 +8,11 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (1) The programs, activities, receipts, expenditures, and financial transactions of the Corporation shall be subject to audit by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the General Accounting Office shall have access to all books, accounts, financial records, reports, files and all other papers, things, or property belonging to or in use by the Corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositaries, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The Corporation shall reimburse the General Accounting Office for the full cost of any such audit as billed therefor by the Comptroller General.
 
-(2) To carry out this subsection, the representatives of the General Accounting Office shall have access, upon request to the Corporation or any auditor for an audit of the Corporationunder subsection (d) of this section, to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the Corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
+(2) To carry out this subsection, the representatives of the General Accounting Office shall have access, upon request to the Corporation or any auditor for an audit of the Corporation under subsection (d) of this section, to any books, accounts, financial records, reports, files, or other papers, things, or property belonging to or in use by the Corporation and used in any such audit and to any papers, records, files, and reports of the auditor used in such an audit.
 
 #### (c) Financial reports; submission to Director; contents
 
-(1) The Corporation shall submit to the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development annual and quarterly reports of the financial condition and operations of the Corporation which shall be in such form, contain such information, and be submitted on such dates as the Director shall require.
+(1) The Corporation shall submit to the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development annual and quarterly reports of the financial condition and operations of the Corporation which shall be in such form,contain such information, and be submitted on such dates as the Director shall require.
 
 (2) Each such annual report shall include—
 

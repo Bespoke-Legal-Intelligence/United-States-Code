@@ -26,7 +26,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (B) Disqualified property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “disqualified property” means any property which is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
+&emsp;&emsp;For purposes of subparagraph (A), the term “disqualified property” means any propertywhich is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
 
 #### (2) Special rule for certain property acquired in certain carryover basis transactions
 
@@ -52,7 +52,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (ii) Certain acquisitions treated as part of plan
 
-&emsp;&emsp;&emsp;For purposes of clause (i), any property described in clause (i)(I) acquired by theliquidated corporation after the date 2 years before the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as acquired as part of a plan described in clause (i)(II).
+&emsp;&emsp;&emsp;For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidated corporation after the date 2 years before the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as acquired as part of a plan described in clause (i)(II).
 
 #### (C) Recapture in lieu of disallowance
 
@@ -262,7 +262,7 @@ Special holding period rules.—Any property acquired by reason of the death of 
 
 &emsp;&emsp;“(E)
 
-Controlled group of corporations.—All members of the same controlled group (as definedin section 267(f)(1) of such Code) shall be treated as 1 corporation for purposes of determining whether any of such corporations met the requirement of paragraph (5)(B) and for purposes of determining the applicable percentage with respect to any of such corporations. For purposes of the preceding sentence, an S corporation shall not be treated as a member of a controlled group unless such corporation was a C corporation for its taxable year which includes August 1, 1986, or it was not described for such taxable year in paragraph (1) or (2) of section 1374(c) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]).
+Controlled group of corporations.—All members of the same controlled group (as defined in section 267(f)(1) of such Code) shall be treated as 1 corporation for purposes of determining whether any of such corporations met the requirement of paragraph (5)(B) and for purposes of determining the applicable percentage with respect to any of such corporations. For purposes of the preceding sentence, an S corporation shall not be treated as a member of a controlled group unless such corporation was a C corporation for its taxable year which includes August 1, 1986, or it was not described for such taxable year in paragraph (1) or (2) of section 1374(c) of such Code (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]).
 
 &emsp;“(7)
 

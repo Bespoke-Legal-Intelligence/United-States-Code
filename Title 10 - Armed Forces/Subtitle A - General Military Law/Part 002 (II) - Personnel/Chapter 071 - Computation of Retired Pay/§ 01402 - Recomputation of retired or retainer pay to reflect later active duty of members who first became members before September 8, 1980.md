@@ -20,7 +20,7 @@
 
 &emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
 
-&emsp;(2) incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his namewas placed on the temporary disability retired list; and
+&emsp;(2) incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on the temporary disability retired list; and
 
 &emsp;(3) is qualified under section 1201, 1202, 1204, or 1205 of this title;
 
@@ -158,9 +158,9 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 > the retired or retainer pay of such member shall be recomputed, as provided in subsection (b), under the rates of basic pay in effect at the time of that release from active duty.
 
-“(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under section 1402(a) of title 10, United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member's retired or retainer pay would have been increased during the period beginning on the date of the member's release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
+“(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under section 1402(a) of title 10, United States Code (as modified with respect to such member by subsection (a)), and increased by theamount by which the member's retired or retainer pay would have been increased during the period beginning on the date of the member's release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
 
-“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date ofthe enactment of this Act \[Oct. 19, 1984\], whichever is later.”
+“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date of the enactment of this Act \[Oct. 19, 1984\], whichever is later.”
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
 
@@ -220,7 +220,7 @@ Section 5(j) of Pub. L. 88–132 provided that: “A member or former member of 
 
 #### Savings Provision
 
-Section 5(<i>l</i>)(2) of Pub. L. 88–132 provided that: “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in section 1402 of title 10, United States Code \[this section\], subject to section 6483(c) of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[section 203 of Title 37\].”
+Section 5(<i>l</i>)(2) of Pub. L. 88–132 provided that: “Notwithstanding paragraph (1) of this subsection \[amending this section\], and unless otherwise entitled to higher retired pay or retainer pay, a member of a uniformed service who is on active duty (other than for training) on the effective date of this Act \[Oct. 1, 1963\], who was entitled to retired pay or retainer pay before he entered on that duty, and who is released from that duty on or after the effective date of this Act after having served on that duty for a continuous period of at least one year shall, upon that release from active duty, be entitled to recompute his retired pay or retainer pay under the table in section 1402 of title 10, United States Code\[this section\], subject to section 6483(c) of title 10, as that table and that section were in effect on the day before the effective date of this Act, using rates of basic pay prescribed by this Act \[section 203 of Title 37\].”
 
 #### Section Referred to in Other Sections
 

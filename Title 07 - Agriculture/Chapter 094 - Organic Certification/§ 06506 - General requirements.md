@@ -44,11 +44,33 @@ An organic certification program established under this chapter may—
 
 &emsp;(2) provide for reasonable exemptions from specific requirements of this chapter (except the provisions of section 6511 of this title) with respect to agricultural products produced on certified organic farms if such farms are subject to a Federal or State emergency pest or disease treatment program.
 
-#### (c) State program
+#### (c) Wild seafood
+
+#### (1) In general
+
+&emsp;Notwithstanding the requirement of subsection (a)(1)(A) of this section requiring products be produced only on certified organic farms, the Secretary shall allow, through regulations promulgated after public notice and opportunity for comment, wild seafood to be certified or labeled as organic.
+
+#### (2) Consultation and accommodation
+
+&emsp;In carrying out paragraph (1), the Secretary shall—
+
+&emsp;&emsp;(A) consult with—
+
+&emsp;&emsp;&emsp;(i) the Secretary of Commerce;
+
+&emsp;&emsp;&emsp;(ii) the National Organic Standards Board established under section 6518 of this title;
+
+&emsp;&emsp;&emsp;(iii) producers, processors, and sellers; and
+
+&emsp;&emsp;&emsp;(iv) other interested members of the public; and
+
+&emsp;&emsp;(B) to the maximum extent practicable, accommodate the unique characteristics of the industries in the United States that harvest and process wild seafood.
+
+#### (d) State program
 
 A State organic certification program approved under this chapter may contain additional guidelines governing the production or handling of products sold or labeled as organically produced in such State as required in section 6507 of this title.
 
-#### (d) Availability of fees
+#### (e) Availability of fees
 
 #### (1) Account
 
@@ -58,9 +80,11 @@ A State organic certification program approved under this chapter may contain ad
 
 &emsp;The collected fees shall be available to the Secretary, without further appropriation or fiscal-year limitation, to pay the expenses of the Secretary incurred in providing accreditation services under this chapter.
 
-(Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585.)
+(Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, §2105, Apr. 16, 2003, 117 Stat. 589.)
 
 #### Amendments
+
+2003—Subsecs. (c) to (e). Pub. L. 108–11 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 1998—Subsec. (d). Pub. L. 105–185 added subsec. (d).
 

@@ -24,7 +24,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2251, 2252A, 2253, 2254, 3156, 4042 of this title; title 42 section 14135a.
+This chapter is referred to in sections 2251, 2252A, 2253, 2254, 3156, 3553, 4042 of this title; title 42 section 14135a.
 
 
 ---

@@ -10,7 +10,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 &emsp;(3) identify within each wellhead protection area all potential anthropogenic sources of contaminants which may have any adverse effect on the health of persons;
 
-&emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures, education, training, and demonstration projects to protect the water supply within wellhead protection areas from such contaminants;
+&emsp;(4) describe a program that contains, as appropriate, technical assistance, financial assistance, implementation of control measures,education, training, and demonstration projects to protect the water supply within wellhead protection areas from such contaminants;
 
 &emsp;(5) include contingency plans for the location and provision of alternate drinking water supplies for each public water system in the event of well or wellfield contamination by such contaminants; and
 
@@ -32,7 +32,7 @@ To the maximum extent possible, each State shall establish procedures, including
 
 #### (d) Federal assistance
 
-After the date 3 years after June 19, 1986, no State shall receive funds authorized to be appropriated under this section except for the purpose of implementing the program and requirementsof paragraphs (4) and (6) of subsection (a) of this section.
+After the date 3 years after June 19, 1986, no State shall receive funds authorized to be appropriated under this section except for the purpose of implementing the program and requirements of paragraphs (4) and (6) of subsection (a) of this section.
 
 #### (e) “Wellhead protection area” defined
 
@@ -80,7 +80,7 @@ Nothing in this section shall authorize or require any department, agency, or ot
 
 #### (k) Authorization of appropriations
 
-Unless the State program is disapproved under this section, the Administrator shall make grants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making suchgrants there is authorized to be appropriated not more than the following amounts:
+Unless the State program is disapproved under this section, the Administrator shall make grants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making such grants there is authorized to be appropriated not more than the following amounts:
 
 &nbsp;
 

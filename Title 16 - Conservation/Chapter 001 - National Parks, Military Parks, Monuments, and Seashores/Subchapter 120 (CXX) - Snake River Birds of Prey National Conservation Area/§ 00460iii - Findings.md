@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(A) emphasizes management, protection, and rehabilitation of habitat for these raptors and of other resources and values of the area;
 
-&emsp;&emsp;(B) provides for continued military use, consistent with the requirements of section460iii–3(e) of this title, of the Orchard Training Area by reserve components of the Armed Forces;
+&emsp;&emsp;(B) provides for continued military use, consistent with the requirements of section 460iii–3(e) of this title, of the Orchard Training Area by reserve components of the Armed Forces;
 
 &emsp;&emsp;(C) addresses the need for public educational and interpretive opportunities;
 
@@ -32,7 +32,7 @@ The Congress finds the following:
 
 &emsp;(10) An ongoing research program funded by the Bureau of Land Management and the National Guard is intended to provide information to be used in connection with future decisionmaking concerning management of all uses, including continued military use, of public lands within the Snake River Birds of Prey Area.
 
-&emsp;(11) Public lands in the Snake River Birds of Prey Area have been used for domestic livestock grazing for more than a century, with resultant benefits to community stability and contributions to the local and State economies. It has not been demonstrated that continuation of this use would be incompatible with appropriate protection and sound management of raptor habitat and the other resource values of these lands; therefore, subject to the determination provided for in section 460iii–3(f) of this title, it is expected that such grazing will continue in accordance with applicable regulations of the Secretary and the management plan for the conservation area.
+&emsp;(11) Public lands in the Snake River Birds of Prey Area have been used for domestic livestock grazing for more than a century, with resultant benefits to community stability and contributions to the local and State economies. It has not been demonstrated that continuation of this use would be incompatible with appropriate protection and sound management of raptor habitat and the other resource values of these lands; therefore, subject to the determination provided for in section 460iii–3(f) of this title, it is expected that suchgrazing will continue in accordance with applicable regulations of the Secretary and the management plan for the conservation area.
 
 &emsp;(12) Hydroelectric facilities for the generation and transmission of electricity exist within the Snake River Birds of Prey Area pursuant to a license(s) issued by the Federal Energy Regulatory Commission, or its predecessor, the Federal Power Commission.
 

@@ -154,7 +154,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation not less than once annually to reflectchanges in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
@@ -218,7 +218,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (7) Use of project reserves
 
-&emsp;Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
+&emsp;Amounts for project reserves for a project assisted under this section may be used forcosts, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
 
 #### (k) Definitions
 
@@ -268,7 +268,7 @@ As used in this section—
 
 #### (3) Project rental assistance
 
-&emsp;Of any amounts made available for assistance under subsection (b) of this section, such sums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) <sup>6</sup> of this section.
+&emsp;Of any amounts made available for assistance under subsection (b) of this section, suchsums as may be necessary shall be available for funding project rental assistance in accordance with subsection (c)(2) <sup>6</sup> of this section.
 
 #### (4) Size limitation
 
@@ -282,7 +282,7 @@ There are authorized to be appropriated for providing assistance under this sect
 
 #### (1) In general
 
-&emsp;The amendments made by this section shall take effect on October 1, 1991, with respect toprojects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
+&emsp;The amendments made by this section shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
 
 #### (2) Earlier applicability
 

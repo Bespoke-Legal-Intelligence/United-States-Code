@@ -6,7 +6,7 @@ A tract of public land or interests therein may be disposed of by exchange by th
 
 #### (b) Implementation requirements; cash equalization waiver
 
-In exercising the exchange authority granted by subsection (a) of this section or by section 1715(a) of this title, the Secretary concerned may accept title to any non-Federal land or interests therein in exchange for such land, or interests therein which he finds proper for transfer out of Federal ownership and which are located in the same State as the non-Federal land or interest to be acquired. For the purposes of this subsection, unsurveyed school sections which, upon survey by the Secretary, would become State lands, shall be considered as “non-Federal lands”. The values of the lands exchanged by the Secretary under this Act and by the Secretary of Agriculture under applicable law relating to lands within the National Forest System either shall be equal, or if they are not equal, the values shall be equalized by the payment of money to the grantor or to the Secretary concerned as the circumstances require so long as payment does not exceed 25 per centum of the total value of the lands or interests transferred out of Federal ownership. The Secretary concerned andthe other party or parties involved in the exchange may mutually agree to waive the requirement for the payment of money to equalize values where the Secretary concerned determines that the exchange will be expedited thereby and that the public interest will be better served by such a waiver of cash equalization payments and where the amount to be waived is no more than 3 per centum of the value of the lands being transferred out of Federal ownership or $15,000, whichever is less, except that the Secretary of Agriculture shall not agree to waive any such requirement for payment of money to the United States. The Secretary concerned shall try to reduce the amount of the payment of money to as small an amount as possible.
+In exercising the exchange authority granted by subsection (a) of this section or by section 1715(a) of this title, the Secretary concerned may accept title to any non-Federal land or interests therein in exchange for such land, or interests therein which he finds proper for transfer out of Federal ownership and which are located in the same State as the non-Federal land or interest to be acquired. For the purposes of this subsection, unsurveyed school sections which, upon survey by the Secretary, would become State lands, shall be considered as “non-Federal lands”. The values of the lands exchanged by the Secretary under this Act and by the Secretary of Agriculture under applicable law relating to lands within the National Forest System either shall be equal, or if they are not equal, the values shall be equalized by the payment of money to the grantor or to the Secretary concerned as the circumstances require so long as payment does not exceed 25 per centum of the total value of the lands or interests transferred out of Federal ownership. The Secretary concerned and the other party or parties involved in the exchange may mutually agree to waive the requirement for the payment of money to equalize values where the Secretary concerned determines that the exchange will be expedited thereby and that the public interest will be better served by such a waiver of cash equalization payments and where the amount to be waived is no more than 3 per centum of the value of the lands being transferred out of Federal ownership or $15,000, whichever is less, except that the Secretary of Agriculture shall not agree to waive any such requirement for payment of money to the United States. The Secretary concerned shall try to reduce the amount of the payment of money to as small an amount as possible.
 
 #### (c) Status of lands acquired upon exchange by Secretary of the Interior
 
@@ -52,7 +52,7 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 (1) Notwithstanding the provisions of this Act and other applicable laws which require that exchanges of land or interests therein be for equal value, where the Secretary concerned determines it is in the public interest and that the consummation of a particular exchange will be expedited thereby, the Secretary concerned may exchange lands or interests therein which are of approximately equal value in cases where—
 
-&emsp;(A) the combined value of the lands or interests therein to be transferred from Federal ownership by the Secretary concerned in such exchange is not more than $150,000; and
+&emsp;(A) the combined value of the lands or interests therein to be transferred from Federalownership by the Secretary concerned in such exchange is not more than $150,000; and
 
 &emsp;(B) the Secretary concerned finds in accordance with the regulations to be promulgated pursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
 
@@ -72,7 +72,7 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-Act of January 22, 1983 (commonly known as the “Small Tracts Act”), referred to in subsec. (h)(2), isPub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of Title 16, Conservation, and amended section 484a of Title 16. For complete classification of this Act to the Code, see Tables.
+Act of January 22, 1983 (commonly known as the “Small Tracts Act”), referred to in subsec. (h)(2), is Pub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of Title 16, Conservation, and amended section 484a of Title 16. For complete classification of this Act to the Code, see Tables.
 
 The mining laws, referred to in subsec. (i), are classified generally to Title 30, Mineral Lands and Mining.
 
@@ -128,5 +128,5 @@ Section 5 of Pub. L. 100–409 provided that: “Nothing in this Act \[see Short
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715, 1718, 1719 of this title; title 16 sections 410aaa–77, 460kk, 460mm–1, 460uu–43, 460ccc–4, 521b, 545b; title 25 section 1776c; title 30 sections 193, 1260.
+This section is referred to in sections 1715, 1718, 1719 of this title; title 16 sections 410aaa–77, 460kk, 460mm–1, 460uu–43, 460ccc–4, 521b, 539m–11, 545b; title 25 section 1776c; title 30 sections 193, 1260.
 

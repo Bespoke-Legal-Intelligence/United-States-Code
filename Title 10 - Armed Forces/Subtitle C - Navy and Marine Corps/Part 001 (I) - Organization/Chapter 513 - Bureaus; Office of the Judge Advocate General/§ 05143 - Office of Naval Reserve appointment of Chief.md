@@ -20,7 +20,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 (3) An officer on active duty for service as the Chief of Naval Reserve shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-(4) Until October 1, 2003, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Naval Reserve if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
+(4) Until December 31, 2004, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Naval Reserve if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
 
 &emsp;(A) the officer is qualified for service in the position; and
 
@@ -36,7 +36,7 @@ Term; Reappointment; Grade.—(1) The Chief of Naval Reserve is appointed for a 
 
 (d)
 
-Budget.—The Chief of Naval Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the NavalReserve. As such, the Chief of Naval Reserve is the director and functional manager of appropriations made for the Naval Reserve in those areas.
+Budget.—The Chief of Naval Reserve is the official within the executive part of the Department of the Navy who, subject to the authority, direction, and control of the Secretary of the Navy and the Chief of Naval Operations, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Naval Reserve. As such, the Chief of Naval Reserve is the director and functional manager of appropriations made for the Naval Reserve in those areas.
 
 (e)
 
@@ -44,13 +44,15 @@ Annual Report.—(1) The Chief of Naval Reserve shall submit to the Secretary of
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Naval Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 104–201, div. A, title XII, §1212(b)(1), Sept. 23, 1996, 110 Stat. 2691; amended Pub. L. 106–65, div. A, title V, §554(c), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b), title X, §1087(a)(18)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(b)(1), Sept. 23, 1996, 110 Stat. 2691; amended Pub. L. 106–65, div. A, title V, §554(c), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b), title X, §1087(a)(18)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529.)
 
 #### Prior Provisions
 
 A prior section 5143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 288; Sept. 7, 1962, Pub. L. 87–649, §6(c)(3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, §14(B), (C), 81 Stat. 376, established in Bureau of Naval Personnel the position of Assistant Chief of Naval Personnel for Women, prior to repeal by Pub. L. 96–513, title III, §344(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2901, 2955, effective Sept. 15, 1981.
 
 #### Amendments
+
+2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §507(b)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Naval Reserve from officers who—
 

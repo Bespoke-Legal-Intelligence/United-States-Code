@@ -46,7 +46,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (e), is Pub. L. 105
 
 #### Codification
 
-Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L.93–618 amended section 3302 of Title 26, Internal Revenue Code.
+Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Amendment by section 101(f) \[title VIII, §405(d)(14)(B)\] of Pub. L. 105–277
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1424(d)(1)(B), (2) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1423(a)(4) of Pub. L. 100–418 effective on the date that is 90 days after Aug. 23, 1988, see section 1430(a), (f) of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
+Amendment by section 1424(d)(1)(B), (2) of Pub. L. 100–418 effective Aug. 23, 1988, and amendment by section 1423(a)(4) of Pub. L. 100–418 effective on the date that is 90 days after Aug. 23, 1988, see section 1430(a), (f)of Pub. L. 100–418, set out as an Effective Date note under section 2397 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -42,7 +42,7 @@ The members of the Committee shall elect one of their number to be Chairman.
 
 #### (e) Pay and travel expenses
 
-(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
+(1) Except as provided in paragraph (2), members of the Committee shall each be entitled to receive the daily equivalent of the annual rateof basic pay in effect for grade GS–18 of the General Schedule for each day (including traveltime) during which they are engaged in the actual performance of services for the Committee.
 
 (2) Members of the Committee who are officers or employees of the Government shall receive no additional pay on account of their service on the Committee.
 
@@ -100,7 +100,7 @@ Subsec. (d)(4). Pub. L. 93–358, §1(2)(B), added par. (4).
 
 #### Effective Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–28 provided that: “The amendment made by the first section of this Act \[amending this section and sections 47 and 48 and enacting sections 48a to 48c of this title\] shall take effect on the first day of the first month which begins more than thirty days after the date of enactment of this Act \[June 23, 1971\].”
+Section 2 of Pub. L. 92–28 provided that: “The amendment made by the first section of this Act \[amendingthis section and sections 47 and 48 and enacting sections 48a to 48c of this title\] shall take effect on the first day of the first month which begins more than thirty days after the date of enactment of this Act \[June 23, 1971\].”
 
 #### Short Title
 
@@ -116,7 +116,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Act Referred to in Other Sections
 
-The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 15 section 657a; title 40 sections 502, 593.
+The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 15 sections 657a, 657f; title 40 sections 502, 593.
 
 #### Section Referred to in Other Sections
 

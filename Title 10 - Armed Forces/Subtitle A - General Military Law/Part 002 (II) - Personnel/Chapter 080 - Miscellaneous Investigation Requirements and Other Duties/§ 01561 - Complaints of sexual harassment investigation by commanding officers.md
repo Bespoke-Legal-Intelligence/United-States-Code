@@ -52,6 +52,10 @@ Sexual Harassment Defined.—In this section, the term “sexual harassment” m
 
 Prior sections 1571 to 1577, Pub. L. 89–690, §1, Oct. 15, 1966, 80 Stat. 1016, related to creation of Exemplary Rehabilitation Certificates to be issued by the Secretary of Labor to persons discharged or dismissed from the Armed Forces under conditions other than honorable or to persons who had received a general discharge but who had established that they had rehabilitated themselves and established the administrative and other authority in connection therewith, prior to repeal by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–311, §1, Dec. 2, 2002, 116 Stat. 2455, provided that: “This Act \[enacting section 1561a of this title\] may be cited as the ‘Armed Forces Domestic Security Act’.”
+
 #### Reports
 
 Section 591(b) of Pub. L. 105–85 provided that:
@@ -60,5 +64,5 @@ Section 591(b) of Pub. L. 105–85 provided that:
 
 “(2)(A) Not later than March 1 of each of 1998 and 1999, each Secretary receiving a report under paragraph (1) for a year shall submit to the Secretary of Defense a report on all such reports so received.
 
-“(B) Not later than April 1 following receipt of a report for a year under subparagraph (A), the Secretary of Defense shall transmit to Congress all such reports received for the year under subparagraph (A) together with the Secretary's assessment of each such report.”
+“(B) Not later than April 1 following receipt of a report for a year under subparagraph (A), the Secretaryof Defense shall transmit to Congress all such reports received for the year under subparagraph (A) together with the Secretary's assessment of each such report.”
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary has authority to prescribe all rules and regulations which are necessary or appropriate to carry out the laws administered by the Department and are consistent with those laws, including—
 
-&emsp;(1) regulations with respect to the nature and extent of proof and evidence and themethod of taking and furnishing them in order to establish the right to benefits under such laws;
+&emsp;(1) regulations with respect to the nature and extent of proof and evidence and the method of taking and furnishing them in order to establish the right to benefits under such laws;
 
 &emsp;(2) the forms of application by claimants under such laws;
 
@@ -14,7 +14,7 @@
 
 (c) In applying section 552(a)(1) of title 5 to the Department, the Secretary shall ensure that subparagraphs (C), (D), and (E) of that section are complied with, particularly with respect to opinions and interpretations of the General Counsel.
 
-(d) The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of that section, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
+(d) The provisions of section 553 of title 5 shall apply, without regard to subsection (a)(2) of thatsection, to matters relating to loans, grants, or benefits under a law administered by the Secretary.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 386.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall issue guidelines establishing procedures under which a State or specifically <sup>1</sup> qualified unit of local government that receives funds under section 3796ee–3 of this title is required to provide notice to the Attorney General regarding the proposed use of funds made available under this subchapter.
+The Attorney General shall issue guidelines establishing procedures under which a State orspecifically <sup>1</sup> qualified unit of local government that receives funds under section 3796ee–3 of this title is required to provide notice to the Attorney General regarding the proposed use of funds made available under this subchapter.
 
 #### (b) Advisory board
 

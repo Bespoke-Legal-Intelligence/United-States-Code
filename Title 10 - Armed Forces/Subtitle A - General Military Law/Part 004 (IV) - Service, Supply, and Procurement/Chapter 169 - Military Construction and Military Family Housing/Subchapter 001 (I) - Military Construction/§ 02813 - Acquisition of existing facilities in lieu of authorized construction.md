@@ -10,7 +10,7 @@ Acquisition Authority.—Using funds appropriated for a military construction pr
 
 (b)
 
-Modification or Conversion of Acquired Facility.—(1) As part of the acquisition of anexisting facility under subsection (a), the Secretary of the military department concerned may carry out such modifications, repairs, or conversions of the facility as the Secretary considers to be necessary so that the facility satisfies the requirements for which the military construction project was authorized.
+Modification or Conversion of Acquired Facility.—(1) As part of the acquisition of an existing facility under subsection (a), the Secretary of the military department concerned may carry out such modifications, repairs, or conversions of the facility as the Secretary considers to be necessary so that the facility satisfies the requirements for which the military construction project was authorized.
 
 (2) The costs of anticipated modifications, repairs, or conversions under paragraph (1) are required to remain within the authorized amount of the military construction project. The Secretary concerned shall consider such costs in determining whether the acquisition of an existing facility is—
 
@@ -20,11 +20,13 @@ Modification or Conversion of Acquired Facility.—(1) As part of the acquisitio
 
 (c)
 
-Notice and Wait Requirements.—A contract may not be entered into for the acquisition of a facility under subsection (a) until the end of the 30-day period beginning on the date the Secretary concerned transmits to the appropriate committees of Congress a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility.
+Notice and Wait Requirements.—A contract may not be entered into for the acquisition of a facility under subsection (a) until the Secretary concerned transmits to the appropriate committees of Congress a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility. After the notification is transmitted, the Secretary may then enter into the contract only after the end of the 30-day period beginning on the date on which the notification is received by the committees or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 103–160, div. B, title XXVIII, §2805(a)(1), Nov. 30, 1993, 107 Stat. 1886; amended Pub. L. 104–106, div. A, title XV, §1502(a)(25), Feb. 10, 1996, 110 Stat. 506.)
+(Added Pub. L. 103–160, div. B, title XXVIII, §2805(a)(1), Nov. 30, 1993, 107 Stat. 1886; amended Pub. L. 104–106, div. A, title XV, §1502(a)(25), Feb. 10, 1996, 110 Stat. 506; Pub. L. 108–136, div. A, title X, §1031(a)(40), Nov. 24, 2003, 117 Stat. 1601.)
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136 struck out “the end of the 30-day period beginning on the date” after “until” and inserted last sentence.
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”.
 

@@ -20,7 +20,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) of this section before the distribution of such batch,
 
-&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
+&emsp;(ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent ofsuch manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
 
 &emsp;(iii) in-process controls including, where necessary, testing required by good manufacturing practices designed to prevent adulteration of each batch of infant formula, and
 
@@ -134,7 +134,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(B) who otherwise has an unusual medical or dietary problem,
 
-> is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturer of an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
+> is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturerof an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
 
 (2) The Secretary may by regulation establish terms and conditions for the exemption of an infant formula from the requirements of subsections (a), (b), and (c) of this section. An exemption of an infant formula under paragraph (1) may be withdrawn by the Secretary if such formula is not in compliance with applicable terms and conditions prescribed under this paragraph.
 

@@ -64,7 +64,7 @@ Dec. 28, 1977, Pub. L. 95–220, §6, 91 Stat. 1616.
 
 In subsection (a), the words in parentheses are omitted as unnecessary.
 
-In subsection (b)(1), the word “Federal” is omitted as unnecessary. The words “system under section 6102(a) of this title” are substituted for “data base” for clarity and consistency.
+In subsection (b)(1), the word “Federal” is omitted as unnecessary. The words “system under section 6102(a)of this title” are substituted for “data base” for clarity and consistency.
 
 In subsection (d), before clause (1), the text of 31:1705(e)(1) is omitted as unnecessary because of section 6102(c) of the revised title. The words “The Director” are added for clarity and consistency. The words “member of Congress” are substituted for “Members of Congress, Delegates, Resident Commissioners” for consistency. In clause (6), the words “depository library of United States Government publications” are substituted for “Federal deposit libraries” as being more precise. In clause (7), the word “depository” is substituted for “other local repositories” for clarity and to eliminate unnecessary words.
 

@@ -1,10 +1,10 @@
 ### §9335. Dean of the Faculty
 
-(a) The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.
+(a) The Dean of the Faculty is responsible to the Superintendent for developing and sustaining the curriculum and overseeing the faculty of the Academy. The qualifications, selection procedures, training, pay grade, and retention of the Dean shall be prescribed by the Secretary of the Air Force. If a person appointed as the Dean is not an officer on active duty, the person shall be appointed as a member of the Senior Executive Service.
 
-(b) While serving as Dean of the Faculty, an officer of the Air Force who holds a grade lower than brigadier general shall hold the grade of brigadier general, if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the limitation in section 526(a) of this title on general officers of the Air Force on active duty.
+(b) While serving as Dean of the Faculty, an officer on active duty who holds a grade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the applicable limitation in section 526(a) of this title on general officers on active duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 108–136, div. A, title V, §529(a), (b), Nov. 24, 2003, 117 Stat. 1471.)
 
 Historical and Revision Notes<br>1956
 
@@ -34,6 +34,10 @@ The word “regular” is deleted \[in sections 9335 and 9336\] to make clear th
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–136, §529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
+
+Subsec. (b). Pub. L. 108–136, §529(b), in first sentence, substituted “on active duty” for “of the Air Force” and inserted “(or the equivalent)” after “brigadier general” in two places and, in last sentence, inserted “applicable” before “limitation” and struck out “of the Air Force” after “general officers”.
+
 1999—Pub. L. 106–65 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1992—Pub. L. 102–484 designated subsec. (a) as entire section and struck out subsec. (b) which read as follows: “The Dean has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Air Force, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
@@ -41,6 +45,10 @@ The word “regular” is deleted \[in sections 9335 and 9336\] to make clear th
 1986—Subsec. (b). Pub. L. 99–661 amended subsec. (b) generally, substituting “while serving in such position” for “while serving as such” and “if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed” for “except that his retirement age”.
 
 1958—Subsec. (b). Pub. L. 85–861 substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–136 applicable with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after Nov. 24, 2003, see section 529(d) of Pub. L. 108–136, set out as a note under section 9331 of this title.
 
 #### Effective Date of 1986 Amendment
 

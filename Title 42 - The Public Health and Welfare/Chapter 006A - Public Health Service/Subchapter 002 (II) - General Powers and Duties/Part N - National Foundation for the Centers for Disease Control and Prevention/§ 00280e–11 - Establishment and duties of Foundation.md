@@ -60,7 +60,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (1) Certain bylaws
 
-&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensurethat the bylaws of the Foundation include bylaws for the following:
+&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensure that the bylaws of the Foundation include bylaws for the following:
 
 &emsp;&emsp;(i) Policies for the selection of the officers, employees, agents, and contractors of the Foundation.
 
@@ -140,7 +140,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
 
-&emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
+&emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications andpatents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
 &emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
 
@@ -208,7 +208,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (3) Certain restriction
 
-&emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediary between Federal agencies, the Foundation may not receive such funds for the indirect costs of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
+&emsp;If the Foundation receives Federal funds for the purpose of serving as a fiscal intermediary between Federal agencies, the Foundation may not receive such funds for the indirectcosts of carrying out such purpose in an amount exceeding 10 percent of the direct costs of carrying out such purpose. The preceding sentence may not be construed as authorizing the expenditure of any grant under paragraph (1) for such purpose.
 
 #### (j) Committee for establishment of Foundation
 
@@ -268,7 +268,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (9) Grant for establishment of Committee
 
-&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
+&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than 180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
 
 &emsp;(B) The grant referred to in subparagraph (A) may be made to an entity only if the entity agrees that—
 

@@ -28,7 +28,12 @@
 | [1025\.](%C2%A7%2001025%20-%20False%20pretenses%20on%20high%20seas%20and%20other%20waters.md) | False pretenses on high seas and other waters. |
 | [1026\.](%C2%A7%2001026%20-%20Compromise%2C%20adjustment%2C%20or%20cancellation%20of%20farm%20indebtedness.md) | Compromise, adjustment, or cancellation of farm indebtedness. |
 | [1027\.](%C2%A7%2001027%20-%20False%20statements%20and%20concealment%20of%20facts%20in%20relation%20to%20documents%20required%20by%20the%20Employee%20Retirement%20Income%20Security%20Act%20of%201974.md) | False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974. |
-| [1028\.](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents%20and%20information.md) | Fraud and related activity in connection with identification documents and information. |
+| [1028\.](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents%2C%20authentication%20features%2C%20and%20information.md) | Fraud and related activity in connection with identification documents and information.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [1029\.](%C2%A7%2001029%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20access%20devices.md) | Fraud and related activity in connection with access devices. |
 | [1030\.](%C2%A7%2001030%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20computers.md) | Fraud and related activity in connection with computers. |
 | [1031\.](%C2%A7%2001031%20-%20Major%20fraud%20against%20the%20United%20States.md) | Major fraud against the United States. |
@@ -37,10 +42,13 @@
 | [1034\.](%C2%A7%2001034%20-%20Civil%20penalties%20and%20injunctions%20for%20violations%20of%20section%201033.md) | Civil penalties and injunctions for violations of section 1033. |
 | [1035\.](%C2%A7%2001035%20-%20False%20statements%20relating%20to%20health%20care%20matters.md) | False statements relating to health care matters. |
 | [1036\.](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport.md) | Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport. |
+| [1037\.](%C2%A7%2001037%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20electronic%20mail.md) | Fraud and related activity in connection with electronic mail. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–187, §4(a)(2), Dec. 16, 2003, 117 Stat. 2705, added item 1037.
 
 2000—Pub. L. 106–547, §2(b), Dec. 19, 2000, 114 Stat. 2739, added item 1036.
 
@@ -74,9 +82,11 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3; title 29 section 1031.
+This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>, 80b–3, 7703; title 29 section 1031.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–21 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -109,7 +119,7 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 01025 - False pretenses on high seas and other waters](%C2%A7%2001025%20-%20False%20pretenses%20on%20high%20seas%20and%20other%20waters.md)
 - [&sect; 01026 - Compromise, adjustment, or cancellation of farm indebtedness](%C2%A7%2001026%20-%20Compromise%2C%20adjustment%2C%20or%20cancellation%20of%20farm%20indebtedness.md)
 - [&sect; 01027 - False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974](%C2%A7%2001027%20-%20False%20statements%20and%20concealment%20of%20facts%20in%20relation%20to%20documents%20required%20by%20the%20Employee%20Retirement%20Income%20Security%20Act%20of%201974.md)
-- [&sect; 01028 - Fraud and related activity in connection with identification documents and information](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents%20and%20information.md)
+- [&sect; 01028 - Fraud and related activity in connection with identification documents, authentication features, and information](%C2%A7%2001028%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20identification%20documents%2C%20authentication%20features%2C%20and%20information.md)
 - [&sect; 01029 - Fraud and related activity in connection with access devices](%C2%A7%2001029%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20access%20devices.md)
 - [&sect; 01030 - Fraud and related activity in connection with computers](%C2%A7%2001030%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20computers.md)
 - [&sect; 01031 - Major fraud against the United States](%C2%A7%2001031%20-%20Major%20fraud%20against%20the%20United%20States.md)
@@ -118,3 +128,4 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 01034 - Civil penalties and injunctions for violations of section 1033](%C2%A7%2001034%20-%20Civil%20penalties%20and%20injunctions%20for%20violations%20of%20section%201033.md)
 - [&sect; 01035 - False statements relating to health care matters](%C2%A7%2001035%20-%20False%20statements%20relating%20to%20health%20care%20matters.md)
 - [&sect; 01036 - Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport](%C2%A7%2001036%20-%20Entry%20by%20false%20pretenses%20to%20any%20real%20property%2C%20vessel%2C%20or%20aircraft%20of%20the%20United%20States%20or%20secure%20area%20of%20any%20airport.md)
+- [&sect; 01037 - Fraud and related activity in connection with electronic mail](%C2%A7%2001037%20-%20Fraud%20and%20related%20activity%20in%20connection%20with%20electronic%20mail.md)

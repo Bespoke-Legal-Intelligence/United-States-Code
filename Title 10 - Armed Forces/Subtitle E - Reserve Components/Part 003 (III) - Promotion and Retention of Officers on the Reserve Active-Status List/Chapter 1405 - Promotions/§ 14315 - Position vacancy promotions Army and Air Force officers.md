@@ -4,7 +4,7 @@
 
 Officers Eligible for Consideration For Vacancy Promotions Below Brigadier General.—A reserve officer of the Army who is in the Army Reserve, or a reserve officer of the Air Force who is in the Air Force Reserve, who is on the reserve active-status list in the grade of first lieutenant, captain, major, or lieutenant colonel is eligible for consideration for promotion to the next higher grade under this section if each of the following applies:
 
-&emsp;(1) The officer is occupying or, as determined by the Secretary concerned, is available to occupy a position in the same competitive category as the officer and for which a grade higher than the one held by that officer is authorized.
+&emsp;(1) The officer is occupying or, under regulations prescribed by the Secretary concerned, has been recommended to occupy a position in the same competitive category as the officer and for which a grade higher than the one held by that officer is authorized.
 
 &emsp;(2) The officer is fully qualified to meet all requirements for the position as established by the Secretary of the military department concerned.
 
@@ -28,13 +28,15 @@ Effect of Nonselection.—An officer who is considered for promotion under this 
 
 Special Rule for Officers Failed of Selection.—A reserve officer of the Army or the Air Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, §512(b), Nov. 24, 2003, 117 Stat. 1460.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3384 and 8373 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–136 substituted “under regulations prescribed by the Secretary concerned, has been recommended” for “as determined by the Secretary concerned, is available”.
 
 2000—Subsec. (b)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(1)\], inserted “or is recommended for such an assignment under regulations prescribed by the Secretary of the Army” after “Army Reserve”.
 

@@ -82,7 +82,7 @@ Another section 2320 was renumbered section 2321 of this title.
 
 2002—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “section 220506 of title 36” for “section 220706 of title 36”.
 
-Subsec. (f)(1). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
 1998—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
 

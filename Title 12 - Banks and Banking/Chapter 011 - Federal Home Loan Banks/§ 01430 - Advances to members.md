@@ -4,7 +4,7 @@
 
 #### (1) All advances
 
-&emsp;Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title.
+&emsp;Each Federal Home Loan Bank is authorized to make secured advances to its members upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtainedfrom the Bank under this section or section 1431(g) of this title.
 
 #### (2) Purposes of advances
 
@@ -54,7 +54,7 @@ The institution applying for an advance shall enter into a primary and unconditi
 
 #### (e) Priority of certain secured interests
 
-Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims andrights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
+Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
 
 &emsp;(1) would be entitled to priority under otherwise applicable law; and
 
@@ -252,7 +252,7 @@ Subsec. (e). Pub. L. 106–102, §604(c), struck out subsec. (e) relating to qua
 
 1992—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank's advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank's total advances.”
 
-1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of theBank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
+1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interestin collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
 
 Subsec. (b). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 

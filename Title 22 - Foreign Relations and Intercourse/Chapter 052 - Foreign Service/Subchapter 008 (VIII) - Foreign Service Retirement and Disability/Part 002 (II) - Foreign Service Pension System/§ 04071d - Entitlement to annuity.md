@@ -14,7 +14,7 @@
 
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
-(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completedat least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
+(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
 
 (2) An annuity under paragraph (1) shall be computed—
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(i) a member of the Service,
 
-&emsp;&emsp;(ii) an employee of the Central Intelligence Agency entitled to retirement credit under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b)), or
+&emsp;&emsp;(ii) an employee of the Central Intelligence Agency entitled to retirement credit under title II of the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 etseq.) or under section 302(a) or 303(b) of that Act (50 U.S.C. 2152(a), 2153(b)), or
 
 &emsp;&emsp;(iii) a participant as a Member of Congress, a congressional employee, law enforcement officer, firefighter, or air traffic controller in the Civil Service Retirement System under subchapter III of chapter 83, title 5, or in the Federal Employees’ Retirement System under chapter 84 of title 5; and
 

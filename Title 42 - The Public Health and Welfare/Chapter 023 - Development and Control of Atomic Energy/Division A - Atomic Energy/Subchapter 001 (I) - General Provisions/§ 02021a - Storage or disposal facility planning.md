@@ -12,7 +12,7 @@ Commission, referred to in text, probably means the Nuclear Regulatory Commissio
 
 #### Codification
 
-Section was enacted as part of an act authorizing appropriations to the Nuclear Regulatory Commission forfiscal year 1979, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of an act authorizing appropriations to the Nuclear Regulatory Commission for fiscal year 1979, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Plan for Permanent Disposal of Waste From Atomic Energy Defense Activities; Submission of Plan to Congress Not Later Than June 30, 1983
 
@@ -32,7 +32,7 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 &emsp;“(2) The Secretary shall develop containers suitable for the permanent disposal of the high level radioactive waste solidified at the Center.
 
-&emsp;“(3) The Secretary shall, as soon as feasible, transport, in accordance with applicable provisions of law, the waste solidified at the Center to an appropriate Federal repository for permanent disposal.
+&emsp;“(3) The Secretary shall, as soon as feasible, transport, in accordance with applicable provisions of law,the waste solidified at the Center to an appropriate Federal repository for permanent disposal.
 
 &emsp;“(4) The Secretary shall, in accordance with applicable licensing requirements, dispose of low level radioactive waste and transuranic waste produced by the solidification of the high level radioactive waste under the project.
 
@@ -92,7 +92,7 @@ Pub. L. 96–368, Oct. 1, 1980, 94 Stat. 1347, as amended by Pub. L. 102–154, 
 
 “Sec. 4. Not later than February 1, 1981, and on February 1 of each calendar year thereafter during the term of the project, the Secretary shall transmit to the Speaker of the House of Representatives and the President pro tempore of the Senate an up-to-date report containing a detailed description of the activities of the Secretary in carrying out the project, including agreements entered into and the costs incurred during the period reported on and the activities to be undertaken in the next fiscal year and the estimated costs thereof.
 
-“Sec. 5. (a) Other than the costs and responsibilities established by this Act for the project, nothing in this Act shall be construed as affecting any rights, obligations, or liabilities of the commercial operator of the Center, the State, or any person, as is appropriate, arising under the Atomic Energy Act of 1954 \[this chapter\] or under any other law, contract, or agreement for the operation, maintenance, or decontamination of any facility or property at the Center or for any wastes at the Center. Nothing in this Act shall be construed as affecting any applicable licensing requirement of the Atomic Energy Act of 1954 or the Energy Reorganization Act of 1974 \[section 5801 et seq. of this title\]. This Act shall not apply or be extended to any facility or property at the Center which is not used in conducting the project. This Act may not be construed to expand or diminish the rights of the Federal Government.
+“Sec. 5. (a) Other than the costs and responsibilities established by this Act for the project, nothing in this Act shall be construed as affecting any rights, obligations, or liabilities of the commercial operator of the Center, the State, or any person, as is appropriate, arising under the Atomic Energy Act of 1954 \[this chapter\] or under any other law, contract, or agreement for the operation, maintenance, or decontamination of any facility or property at the Center or for any wastes at the Center. Nothing in this Act shall be construed as affecting any applicable licensing requirement of the Atomic Energy Act of 1954 or the Energy Reorganization Act of 1974 \[section 5801 et seq. of this title\]. ThisAct shall not apply or be extended to any facility or property at the Center which is not used in conducting the project. This Act may not be construed to expand or diminish the rights of the Federal Government.
 
 “(b) This Act does not authorize the Federal Government to acquire title to any high level radioactive waste at the Center or to the Center or any portion thereof.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of the armed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from active duty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
+Placement Program.—The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of the armed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from active duty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
 
 (b)
 
@@ -18,7 +18,7 @@ Selection.—In the selection of applicants for participation in a program cover
 
 (d)
 
-Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, ofemploying members or former members pursuant to a program referred to in subsection (a).
+Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
 
 (2) No grant with respect to an eligible member or former member may exceed a total of $50,000.
 
@@ -42,9 +42,11 @@ Authority To Expand Placement To Include Firefighters.—(1) The Secretary may e
 
 (3) A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 
-(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, §1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §575, Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, §1073(a)(20), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, §1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §575, Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, §1073(a)(20), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsecs. (a), (d)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1997—Subsec. (g). Pub. L. 105–85 inserted “(1)” before “The Secretary may”.
 
@@ -55,6 +57,10 @@ Subsec. (g)(2). Pub. L. 104–106 substituted “not later than April 3, 1994,�
 1994—Pub. L. 103–337, §543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
 
 Pub. L. 103–337, §1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ If any person purchases after July 1, 1982, a stripped bond or a stripped coupon
 
 #### (b) Tax treatment of person stripping bond
 
-For purposes of this subtitle, if any person strips 1 or more coupons from a bond and afterJuly 1, 1982, disposes of the bond or such coupon—
+For purposes of this subtitle, if any person strips 1 or more coupons from a bond and after July 1, 1982, disposes of the bond or such coupon—
 
 &emsp;(1) such person shall include in gross income an amount equal to the sum of—
 

@@ -30,7 +30,7 @@ Sections 2 and 3 of the Act of 1949, which are codified in sections 5701 and 570
 
 Section 7 of the 1949 Act, which is codified in section 5707 of title 5, United States Code, expressly vested in the Director of the Bureau of the Budget the authority to prescribe regulations covering travel allowances and the reimbursement of travel expenses.
 
-Section 8 of the 1949 Act, which is codified in section 5708(1), (2) of title 5, United States Code, made specificexclusions from the coverage of the Act, and United States attorneys were not so excluded.
+Section 8 of the 1949 Act, which is codified in section 5708(1), (2) of title 5, United States Code, made specific exclusions from the coverage of the Act, and United States attorneys were not so excluded.
 
 Section 9 of the 1949 Act, which is codified in section 5708(3), (4) of title 5, United States Code, modified acts inconsistent with the 1949 Act, and specifically mentioned acts which authorize reimbursement of “actual and necessary” expenses.
 
@@ -44,7 +44,7 @@ First paragraph of this section is from section 587 of title 28, U.S.C., 1940 ed
 
 Section 73 of title 5, U.S.C., 1940 ed., allowed only actual traveling expenses to Government employees, except “district attorneys,” marshals and clerks of courts and their deputies. It has been superseded by the Subsistence Expense Act of 1926. See sections 821 et seq. of said title 5.
 
-References in section 592 of title 28, U.S.C., 1940 ed., to absence “from their respective official residences” and to going to and returning from attendance before courts, etc., were omitted as surplusage and covered by the phrase “on official business.” Language relating to Standardized Government Travel Regulations was also omitted as the reference in this section is to the provision in the Subsistence Expense Act, supra, authorizing those regulations. Verification under oath provision was omitted as covered by section 553 \[see Prior Provisions note for that section\] of this title which simplifies procedure by requiring payment upon certification by the payee. The penal provisions of title 18 are ample protection against fraud and an oath alone is no deterrent.
+References in section 592 of title 28, U.S.C., 1940 ed., to absence “from their respective official residences” and to going to and returning from attendance before courts, etc., were omitted as surplusage and covered bythe phrase “on official business.” Language relating to Standardized Government Travel Regulations was also omitted as the reference in this section is to the provision in the Subsistence Expense Act, supra, authorizing those regulations. Verification under oath provision was omitted as covered by section 553 \[see Prior Provisions note for that section\] of this title which simplifies procedure by requiring payment upon certification by the payee. The penal provisions of title 18 are ample protection against fraud and an oath alone is no deterrent.
 
 The requirement in section 592 of title 28, U.S.C., 1940 ed., that the marshals should include such payments in their accounts for auditing and allowance, was omitted as unnecessary. See section 541 et seq. \[now section 561 et seq.\] of this title and section 71 et seq. of title 31, U.S.C., 1940 ed.
 

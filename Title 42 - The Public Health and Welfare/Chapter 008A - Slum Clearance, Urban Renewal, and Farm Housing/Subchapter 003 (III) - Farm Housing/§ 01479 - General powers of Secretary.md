@@ -108,7 +108,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(A) is in the State of Arizona, California, New Mexico, or Texas;
 
-&emsp;&emsp;(B) is in the area of the United States within 150 miles of the border between the United States and Mexico, except that the term does not include any standard metropolitan statistical area that has a population exceeding 1,000,000;
+&emsp;&emsp;(B) is in the area of the United States within 150 miles of the border between theUnited States and Mexico, except that the term does not include any standard metropolitan statistical area that has a population exceeding 1,000,000;
 
 &emsp;&emsp;(C) is determined to be a colonia on the basis of objective criteria, including lack of potable water supply, lack of adequate sewage systems, and lack of decent, safe, and sanitary housing; and
 

@@ -14,7 +14,7 @@ Any component of the national wild and scenic rivers system that is administered
 
 #### (d) Statutory authorities relating to national forests
 
-The Secretary of Agriculture, in his administration of any component of the national wild and scenic rivers system area, may utilize the general statutory authorities relating to the national forests in such manner as he deems appropriate to carry out the purposes of this chapter.
+The Secretary of Agriculture, in his administration of any component of the national wildand scenic rivers system area, may utilize the general statutory authorities relating to the national forests in such manner as he deems appropriate to carry out the purposes of this chapter.
 
 #### (e) Cooperative agreements with State and local governments
 

@@ -1,8 +1,8 @@
 ### §44310. Ending effective date
 
-The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after December 31, 2003.
+The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter is not effective after March 30, 2008.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, title I, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588; Pub. L. 106–6, §6, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(f), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title VII, §711, Apr. 5, 2000, 114 Stat. 160.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, title I, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588; Pub. L. 106–6, §6, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(f), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title VII, §711, Apr. 5, 2000, 114 Stat. 160; Pub. L. 108–11, title IV, §4001(c), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(d), Dec. 12, 2003, 117 Stat. 2499.)
 
 Historical and Revision Notes
 
@@ -24,6 +24,10 @@ The words “is not effective after” are substituted for “shall expire at th
 
 #### Amendments
 
+2003—Pub. L. 108–176 substituted “March 30, 2008” for “December 31, 2004”.
+
+Pub. L. 108–11, substituted “2004” for “2003”.
+
 2000—Pub. L. 106–181 substituted “after December 31, 2003.” for “after August 6, 1999.”
 
 1999—Pub. L. 106–31 substituted “August 6, 1999” for “May 31, 1999”.
@@ -35,6 +39,10 @@ Pub. L. 106–6 substituted “May” for “March”.
 1997—Pub. L. 105–137 substituted “December 31, 1998” for “September 30, 2002”.
 
 Pub. L. 105–85 substituted “September 30, 2002” for “September 30, 1997”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -2,23 +2,25 @@
 
 (a)
 
-Employment Skills Verification.—The Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
+Employment Skills Verification.—The Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard shall provide to members of the armed forces who are discharged or released from active duty a certification or verification of any job skills and experience acquired while on active duty that may have application to employment in the civilian sector. The preceding sentence shall be carried out in conjunction with the Secretary of Labor.
 
 (b)
 
-Employment Assistance Centers.—The Secretary of Defense shall establish permanent employment assistance centers at appropriate military installations. The Secretary of Transportation shall establish permanent employment assistance centers at appropriate Coast Guard installations.
+Employment Assistance Centers.—The Secretary of Defense shall establish permanent employment assistance centers at appropriate military installations. The Secretary of Homeland Security shall establish permanent employment assistance centers at appropriate Coast Guard installations.
 
 (c)
 
-Information to Civilian Entities.—For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Transportation shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
+Information to Civilian Entities.—For the purpose of assisting members covered by subsection (a) and their spouses in locating civilian employment and training opportunities, the Secretary of Defense and the Secretary of Homeland Security shall establish and implement procedures to release to civilian employers, organizations, State employment agencies, and other appropriate entities the names (and other pertinent information) of such members and their spouses. Such names may be released for such purpose only with the consent of such members and spouses.
 
 (d)
 
-Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
+Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, or Marine Corps who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under section 1784(a)(2) of this title, except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsecs. (a) to (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1997—Subsec. (d). Pub. L. 105–85 substituted “section 1784(a)(2) of this title” for “section 806(a)(2) of the Military Family Act of 1985”.
 
@@ -32,9 +34,13 @@ Subsec. (c). Pub. L. 103–337, §542(a)(2)(D), inserted “and the Secretary of
 
 Subsec. (d). Pub. L. 103–337, §542(a)(2)(E), inserted at end “The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.”
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
@@ -132,7 +138,7 @@ Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as
 
 #### Participation of Discharged Military Personnel in Upward Bound Projects To Prepare for College
 
-Pub. L. 102–484, div. D, title XLIV, §4466, Oct. 23, 1992, 106 Stat. 2748, as amended by Pub. L. 103–337, div. A, title V, §543(f), Oct. 5, 1994, 108 Stat. 2771, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4466, Oct. 23, 1992, 106 Stat. 2748, as amended by Pub. L. 103–337, div. A, title V, §543(f), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, §1704(e)(4), Nov. 25, 2002, 116 Stat. 2315, provided that:
 
 “(a)
 
@@ -178,7 +184,7 @@ Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in s
 
 “(h)
 
-Application to Coast Guard.—The Secretary of Transportation may implement the provisions of this section for the Coast Guard in the same manner and to the same extent as such section applies to the Department of Defense.”
+Application to Coast Guard.—The Secretary of Homeland Security may implement the provisions of this section for the Coast Guard in the same manner and to the same extent as such section applies to the Department of Defense.”
 
 #### Service Members Occupational Conversion and Training
 
@@ -342,7 +348,7 @@ Certification.—An application under subsection (c) shall include a certificati
 
 &emsp;“(9) That there are in the training establishment or place of employment such space, equipment, instructional material, and instructor personnel as are needed to accomplish the training objective certified under subsection (e)(2).
 
-&emsp;“(10) That the employer will keep records adequate to show the progress made by each eligible person participating in the program and otherwise to demonstrate compliance with the requirements established under this subtitle.
+&emsp;“(10) That the employer will keep records adequate to show the progress made by each eligible personparticipating in the program and otherwise to demonstrate compliance with the requirements established under this subtitle.
 
 &emsp;“(11) That the employer will furnish each participating eligible person, before the eligible person's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the eligible person's signed acknowledgment of having received such certification.
 
@@ -386,7 +392,7 @@ Payments.—(1)(A) Except as provided in subsections (b) and (c) and subject to 
 
 &emsp;“(ii) $10,000 for an eligible person not described in clause (i).
 
-“(C) Assistance may be paid under this subtitle on behalf of an eligible person to that person's employer for training under two or more programs of job trainingunder this subtitle if such employer has not received (or is not due) on that person's behalf assistance in an amount aggregating the applicable amount set forth in subparagraph (B).
+“(C) Assistance may be paid under this subtitle on behalf of an eligible person to that person's employer for training under two or more programs of job training under this subtitle if such employer has not received (or is not due) on that person's behalf assistance in an amount aggregating the applicable amount set forth in subparagraph (B).
 
 “(b)
 
@@ -416,7 +422,7 @@ Overpayments.—(1)(A) Whenever the implementing official finds that an overpaym
 
 “(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this subtitle. If there are no such funds, any overpayment recovered shall be deposited into the Treasury.
 
-“(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordance with the terms and conditions set forth in section 5302 of title 38, United States Code.
+“(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordancewith the terms and conditions set forth in section 5302 of title 38, United States Code.
 
 “(e)
 
@@ -488,7 +494,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 “(a)
 
-Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
+Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer onbehalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
 “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
@@ -558,7 +564,7 @@ Coordination.—The Secretary, the Secretary of Veterans Affairs, and the Secret
 
 Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall make available such personnel as are necessary to facilitate the effective implementation of this subtitle.
 
-“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall take steps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
+“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall takesteps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
 
 “(d)
 
@@ -605,6 +611,8 @@ Contingent Amendment.—If a transfer is made in accordance with section 4501(c)
 Publication in the Federal Register.—If the transfer described in subsection (a) is made, then the Secretary of Defense shall promptly publish in the Federal Register a notice of such transfer. Such notice shall specify the date on which such transfer occurred.”
 
 \[Section 610(a)(2)(B) of Pub. L. 103–446 provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Section Referred to in Other Sections
 

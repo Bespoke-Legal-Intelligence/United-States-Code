@@ -10,7 +10,7 @@ Section 60e–4, acts June 30, 1945, ch. 212, title V, §502, 59 Stat. 301; May 
 
 Section 60e–4a, act July 3, 1948, ch. 830, title III, §301, 62 Stat. 1267, provided for payment of additional compensation to employees of the Federal Government and the District of Columbia government.
 
-Section 60e–5, acts Oct. 28, 1949, ch. 783, title I, §101(a), (b), 63 Stat. 974; June 28, 1955, ch. 189, §4(e)(1),69 Stat. 177, provided for payment of additional compensation to and an annual limit on compensation for legislative branch employees.
+Section 60e–5, acts Oct. 28, 1949, ch. 783, title I, §101(a), (b), 63 Stat. 974; June 28, 1955, ch. 189, §4(e)(1), 69 Stat. 177, provided for payment of additional compensation to and an annual limit on compensation for legislative branch employees.
 
 Section 60e–6, acts Oct. 24, 1951, ch. 554, §2(a), (b), (d), 65 Stat. 613; June 28, 1955, ch. 189, §4(b), (e)(1), 69 Stat. 176, 177, provided for payment of additional compensation to and an annual limit on compensation for legislative branch employees.
 

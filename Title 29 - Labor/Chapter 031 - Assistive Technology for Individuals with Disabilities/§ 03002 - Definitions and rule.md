@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;&emsp;(A) with regard to policies, means that the policies are consistent with the principles of—
 
-&emsp;&emsp;&emsp;(i) respect for individual dignity, personal responsibility, self-determination, and pursuit of meaningful careers, based on informed choice, of individuals with disabilities;
+&emsp;&emsp;&emsp;(i) respect for individual dignity, personal responsibility, self-determination,and pursuit of meaningful careers, based on informed choice, of individuals with disabilities;
 
 &emsp;&emsp;&emsp;(ii) respect for the privacy, rights, and equal access (including the use of accessible formats) of such individuals;
 
@@ -146,7 +146,7 @@ In this chapter:
 
 #### (15) Technology-related assistance
 
-&emsp;The term “technology-related assistance” means assistance provided through capacity building and advocacy activities that accomplish the purposes described in any of subparagraphs (A) through (K) of section 3001(b)(1) of this title.
+&emsp;The term “technology-related assistance” means assistance provided through capacitybuilding and advocacy activities that accomplish the purposes described in any of subparagraphs (A) through (K) of section 3001(b)(1) of this title.
 
 #### (16) Underrepresented population
 

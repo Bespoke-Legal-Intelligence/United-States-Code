@@ -52,7 +52,7 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 
 1999—Subsec. (d)(3)(E)–(H). Pub. L. 106–50 added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
+1990—Subsec. (a). Pub. L. 101–574, §214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas andthe promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
 #### Budgetary Treatment of Loans and Financings
 
-Assistance made available under any financings made under this subchapter during 2-year period beginning Oct. 1, 2002, to be treated as a separate program of theSmall Business Administration for purposes of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) only, see section 6(c) of Pub. L. 107–100, set out as a note under section 636 of this title.
+Assistance made available under any financings made under this subchapter during 2-year period beginning Oct. 1, 2002, to be treated as a separate program of the Small Business Administration for purposes of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) only, see section 6(c) of Pub. L. 107–100, set out as a note under section 636 of this title.
 
 #### Loan Liquidation Pilot Program
 

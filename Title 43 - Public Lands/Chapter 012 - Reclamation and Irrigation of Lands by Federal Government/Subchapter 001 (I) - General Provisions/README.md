@@ -12,6 +12,7 @@
 - [&sect; 00373a&#8211;1 - Repealed. Pub. L. 88&#8211;426, title III, &sect;305(35), Aug. 14, 1964, 78 Stat. 426](%C2%A7%2000373a%E2%80%931%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93426%2C%20title%20III%2C%20%C2%A7305%2835%29%2C%20Aug.%2014%2C%201964%2C%2078%20Stat.%20426.md)
 - [&sect; 00373b - Law enforcement authority at Bureau of Reclamation facilities](%C2%A7%2000373b%20-%20Law%20enforcement%20authority%20at%20Bureau%20of%20Reclamation%20facilities.md)
 - [&sect; 00373c - Definitions](%C2%A7%2000373c%20-%20Definitions.md)
+- [&sect; 00373d - Grants and cooperative agreements with Indian tribes and organizations](%C2%A7%2000373d%20-%20Grants%20and%20cooperative%20agreements%20with%20Indian%20tribes%20and%20organizations.md)
 - [&sect; 00374 - Sale of lands acquired in connection with irrigation project](%C2%A7%2000374%20-%20Sale%20of%20lands%20acquired%20in%20connection%20with%20irrigation%20project.md)
 - [&sect; 00375 - Sale of land improved at expense of reclamation fund](%C2%A7%2000375%20-%20Sale%20of%20land%20improved%20at%20expense%20of%20reclamation%20fund.md)
 - [&sect; 00375a - Sale under sections 374 and 375 of lands appraised at not exceeding $300](%C2%A7%2000375a%20-%20Sale%20under%20sections%20374%20and%20375%20of%20lands%20appraised%20at%20not%20exceeding%20%24300.md)

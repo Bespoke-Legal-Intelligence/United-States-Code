@@ -44,7 +44,7 @@ May 29, 1954, ch. 249, §§14(c), (e) (as applicable to (c)), 21(c) (as applicab
 
 34:430(e) (as applicable to 34:430(c)).
 
-In subsections (a) and (b), the words “Except as provided in clause (3) of subsection (b) of this section and in subsection (g) of this section” are omitted as covered by section 46 of the bill and section 14(g) of the source statute. The words “Unless retired or separated on or before the expiration of that period” are inserted for clarity. The words “becomes 62\[55\] years of age” are substituted for the words “attains the age of sixty-two \* \* \* or the age of fifty-five”.
+In subsections (a) and (b), the words “Except as provided in clause (3) of subsection (b) of this section and in subsection (g) of this section” are omitted as covered by section 46 of the bill and section 14(g) of the source statute. The words “Unless retired or separated on or before the expiration of that period” are inserted forclarity. The words “becomes 62\[55\] years of age” are substituted for the words “attains the age of sixty-two \* \* \* or the age of fifty-five”.
 
 In subsection (c), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “not more than” are substituted for the words “a period not to exceed”. The words “determination of his” are inserted for clarity. The words “he would otherwise be required to be separated under this section” are substituted for the words “separation would otherwise be required”. The words “proper”, “which is required”, “possible”, and “a period of” are omitted as surplusage.
 

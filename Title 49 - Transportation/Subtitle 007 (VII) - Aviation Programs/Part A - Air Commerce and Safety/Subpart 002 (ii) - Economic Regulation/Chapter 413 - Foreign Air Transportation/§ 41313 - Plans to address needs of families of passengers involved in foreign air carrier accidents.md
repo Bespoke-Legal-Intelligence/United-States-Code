@@ -92,6 +92,22 @@ Training of employees and agents.—An assurance that the foreign air carrier wi
 
 Consultation on carrier response not covered by plan.—An assurance that the foreign air carrier, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the foreign air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
 
+&emsp;(17)
+
+Notice concerning liability for manmade structures.—
+
+&emsp;&emsp;(A)
+
+In general.—An assurance that, in the case of an accident that results in significant damage to a manmade structure or other property on the ground that is not government-owned, the foreign air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
+
+&emsp;&emsp;(B)
+
+Minimum contents.—At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by foreign air carrier representatives about compensation by the foreign air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.
+
+&emsp;(18)
+
+Simultaneous electronic transmission of ntsb hearing.—An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the foreign air carrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the foreign air carrier's flight if that city is located in the United States.
+
 (d)
 
 Permit and Exemption Requirement.—The Secretary shall not approve an application for a permit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
@@ -100,7 +116,7 @@ Permit and Exemption Requirement.—The Secretary shall not approve an applicati
 
 Limitation on Liability.—A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
 
-(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130.)
+(Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130; Pub. L. 108–176, title VIII, §809(b), Dec. 12, 2003, 117 Stat. 2589.)
 
 #### References in Text
 
@@ -108,11 +124,17 @@ The date of the enactment of this section, referred to in subsec. (c), is the da
 
 #### Amendments
 
+2003—Subsec. (c)(17), (18). Pub. L. 108–176 added pars. (17) and (18).
+
 2000—Subsec. (a)(2). Pub. L. 106–181, §403(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of a foreign air carrier or air carrier aboard an aircraft.”
 
 Subsec. (b). Pub. L. 106–181, §403(b), substituted “major” for “significant”.
 
 Subsec. (c)(15), (16). Pub. L. 106–181, §403(c)(1), added pars. (15) and (16).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -84,17 +84,65 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Ballistic Missile Defense Organization Test Program
+#### Report Requirements Relating to Ballistic Missile Defense Programs
 
-Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, provided that:
+Pub. L. 107–314, div. A, title II, §221, Dec. 2, 2002, 116 Stat. 2484, provided that:
+
+“(a)
+
+Annual Submission of Current Performance Goals and Development Baselines.—(1) The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] each year the performance goals and development baselines—
+
+&emsp;“(A) for those ballistic missile defense systems under development by the Missile Defense Agency that could be fielded; and
+
+&emsp;“(B) for any other ballistic missile defense program or project that has been designated by Congress as a special interest item.
+
+“(2) Such performance goals and development baselines shall be provided for each block of each such system.
+
+“(3) The performance goals and development baselines under paragraph (1) shall be included annually with the defense budget justification materials submitted in support of the President's budget submitted to Congress under section 1105 of title 31, United States Code.
+
+“(b)
+
+RDT\&E Budget Justification Materials.—The budget justification materials submitted to Congress for any fiscal year in support of a request for the authorization and appropriation of funds for research, development, test, and evaluation for ballistic missile defense systems shall include a funding profile for each block of each such system that could be fielded that reflects the development baseline submitted pursuant to subsection (a) for that fiscal year.
+
+“(c)
+
+Review of MDA Criteria in Relation to Military Requirements.—(1) The Joint Requirements Oversight Council established under section 181 of title 10, United States Code, shall review cost, schedule, and performance criteria for missile defense programs of the Missile Defense Agency in order to assess the validity of those criteria in relation to military requirements.
+
+“(2) The Secretary shall include the results of such review with the first annual statement of program goals submitted to the congressional defense committees under section 232(c) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 10 U.S.C. 2431 note) after the date of the enactment of this Act \[Dec. 2, 2002\].”
+
+#### Provision of Information on Flight Testing of Ground-Based Midcourse National Missile Defense System
+
+Pub. L. 107–314, div. A, title II, §224, Dec. 2, 2002, 116 Stat. 2485, provided that:
+
+“(a)
+
+Information To Be Furnished to Congressional Committees.—The Director of the Missile Defense Agency shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] information on the results of each flight test of the Ground-based Midcourse national missile defense system.
+
+“(b)
+
+Content.—Information provided under subsection (a) on the results of a flight test shall include the following matters:
+
+&emsp;“(1) A thorough discussion of the content and objectives of the test.
+
+&emsp;“(2) For each such test objective, a statement regarding whether or not the objective was achieved.
+
+&emsp;“(3) For any such test objective not achieved—
+
+&emsp;&emsp;“(A) a thorough discussion describing the reasons that the objective was not achieved; and
+
+&emsp;&emsp;“(B) a discussion of any plans for future tests to achieve that objective.”
+
+#### Missile Defense Agency Test Program
+
+Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419, provided that:
 
 “(c)
 
 Requirement for Annual Program Goals.—(1) The Secretary of Defense shall each year establish cost, schedule, testing, and performance goals for the ballistic missile defense programs of the Department of Defense for the period covered by the future-years defense program that is submitted to Congress that year under section 221 of title 10, United States Code. Not later than February 1 each year, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a statement of the goals so established.
 
-“(2) The statement of goals submitted under paragraph (1) for any year after 2002 shall be an update of the statement submitted under that paragraph for the preceding year.
+“(2) The statement of goals submitted under paragraph (1) for any year after 2002 shall be an update ofthe statement submitted under that paragraph for the preceding year.
 
-“(3) Each statement of goals submitted under paragraph (1) shall set forth cost, schedule, testing, and performance goals that pertain to each functional area program element identified in subsection (a), and each program element identified in subsection (b), of section 223 of title 10, United States Code.
+“(3) Each statement of goals submitted under paragraph (1) shall set forth cost, schedule, testing, and performance goals that pertain to each then-current program element for ballistic missile defense systems in effect pursuant to subsection (a) or (b) of section 223 of title 10, United States Code.
 
 “(d)
 
@@ -128,7 +176,7 @@ Internal DOD Reviews.—(1) The officials and elements of the Department of Defe
 
 &emsp;“(A) review the development of goals under subsection (c) and the annual program plan under subsection (d); and
 
-&emsp;“(B) provide to the Secretary of Defense and the Director of the Ballistic Missile Defense Organization any comments on such matters as considered appropriate.
+&emsp;“(B) provide to the Secretary of Defense and the Director of the Missile Defense Agency any comments on such matters as considered appropriate.
 
 “(2) Paragraph (1) applies with respect to the following:
 
@@ -144,19 +192,19 @@ Internal DOD Reviews.—(1) The officials and elements of the Department of Defe
 
 “(f)
 
-Demonstration of Critical Technologies.—(1) The Director of the Ballistic Missile Defense Organization shall develop a plan for ensuring that each critical technology for a missile defense program is successfully demonstrated in an appropriate environment before that technology enters into operational service as part of a missile defense program.
+Demonstration of Critical Technologies.—(1) The Director of the Missile Defense Agency shall develop a plan for ensuring that each critical technology for a missile defense program is successfully demonstrated in an appropriate environment before that technology enters into operational service as part of a missile defense program.
 
-“(2) The Director of Operational Test and Evaluation of the Department of Defense shall monitor the development of the plan under paragraph (1) and shall submit to the Director of the Ballistic Missile Defense Organization any comments regarding that plan that the Director of Operational Test and Evaluation considers appropriate.
+“(2) The Director of Operational Test and Evaluation of the Department of Defense shall monitor the development of the plan under paragraph (1) and shall submit to the Director of the Missile Defense Agency any comments regarding that plan that the Director of Operational Test and Evaluation considers appropriate.
 
 “(g)
 
-Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 and 2003, the Comptroller General of the United States shall assess the extent to which the Ballistic Missile Defense Organization achieved the goals established under subsection (c) for such fiscal year.
+Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 and 2003, the Comptroller General of the United States shall assess the extent to which the Missile Defense Agency achieved the goals established under subsection (c) for such fiscal year.
 
 “(2) Not later than February 15, 2003, and February 15, 2004, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the Comptroller General's assessment under paragraph (1) with respect to the preceding fiscal year.
 
 “(h)
 
-Annual OT\&E Assessment of Test Program.—(1) The Director of Operational Test and Evaluation shall each year assess the adequacy and sufficiency of the Ballistic Missile Defense Organization test program during the preceding fiscal year.
+Annual OT\&E Assessment of Test Program.—(1) The Director of Operational Test and Evaluation shall each year assess the adequacy and sufficiency of the Missile Defense Agency test program during the preceding fiscal year.
 
 “(2) Not later than February 15 each year the Director shall submit to the congressional defense committees a report on the assessment under paragraph (1) with respect to the preceding fiscal year.”
 
@@ -172,7 +220,7 @@ Testing Infrastructure.—(1) The Secretary of Defense shall ensure that each an
 
 &emsp;“(B) includes necessary funding to support and improve test infrastructure and provide adequate test assets for the testing of such programs.
 
-“(2) The Secretary shall ensure that ballistic missile defense programs incorporate, to the greatest possibleextent, operationally realistic test configurations (referred to as ‘test bed’ configurations) to demonstrate system performance across a broad range of capability and, during final stages of operational testing, to demonstrate reliable performance.
+“(2) The Secretary shall ensure that ballistic missile defense programs incorporate, to the greatest possible extent, operationally realistic test configurations (referred to as ‘test bed’ configurations) to demonstrate system performance across a broad range of capability and, during final stages of operational testing, to demonstrate reliable performance.
 
 “(3) The Secretary shall ensure that the test infrastructure for ballistic missile defense programs is capable of supporting continued testing of ballistic missile defense systems after deployment.
 
@@ -254,9 +302,9 @@ Funding for Fiscal Year 1998.—Of the funds authorized to be appropriated under
 
 ABM Treaty Defined.—In this section, the term ‘ABM Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems, signed at Moscow on May 26, 1972, and includes the Protocol to that treaty, signed at Moscow on July 3, 1974.”
 
-#### Memorandum of Understanding for Use of National Laboratories for Ballistic Missile Defense Programs
+#### Enhanced Cooperation Between National Nuclear Security Administration and Missile Defense Agency
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, provided that:
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3132\], Oct. 30, 2000, 114 Stat. 1654, 1654A–455, as amended by Pub. L. 107–314, div. A, title II, §225(b)(3), Dec. 2, 2002, 116 Stat. 2486, provided that:
 
 “(a)
 
@@ -266,7 +314,7 @@ Jointly Funded Projects.—The Secretary of Energy and the Secretary of Defense 
 
 Requirements for Projects.—The projects referred to in subsection (a) shall—
 
-&emsp;“(1) be carried out by the National Nuclear Security Administration and the Ballistic Missile Defense Organization; and
+&emsp;“(1) be carried out by the National Nuclear Security Administration and the Missile Defense Agency; and
 
 &emsp;“(2) contribute to sustaining—
 
@@ -276,7 +324,7 @@ Requirements for Projects.—The projects referred to in subsection (a) shall—
 
 “(c)
 
-Participation by NNSA in Certain BMDO Activities.—The Administrator for Nuclear Security and the Director of the Ballistic Missile Defense Organization shall implement mechanisms that increase the cooperative relationship between those organizations. Those mechanisms may include participation by personnel of the National Nuclear Security Administration in the following activities of the Ballistic Missile Defense Organization:
+Participation by NNSA in Certain MDA Activities.—The Administrator for Nuclear Security and the Director of the Missile Defense Agency shall implement mechanisms that increase the cooperative relationship between those organizations. Those mechanisms may include participation by personnel of the National Nuclear Security Administration in the following activities of the Missile Defense Agency:
 
 &emsp;“(1) Peer reviews of technical efforts.
 
@@ -308,7 +356,7 @@ National Laboratories.—For purposes of this section, the national laboratories
 
 #### Ballistic Missile Defense Program
 
-Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774, provided that:
+Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105–85, div. A, title II, §236, Nov. 18, 1997, 111 Stat. 1665; Pub. L. 106–65, div. A, title X, §1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(c), Dec. 2, 2002, 116 Stat. 2646, provided that:
 
 #### “SEC. 231. SHORT TITLE.
 
@@ -366,7 +414,7 @@ Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall pres
 
 “(c)
 
-Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of thesystems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
+Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of the systems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
 
 &emsp;“(A) the Cooperative Engagement Capability (CEC) system of the Navy;
 
@@ -390,19 +438,9 @@ Follow-on Systems.—(1) The Secretary of Defense shall prepare an affordable de
 
 “(e)
 
-Program Accountability Report.—(1) As part of the annual report of the Ballistic Missile Defense Organization required by section 224 of Public Law 101–189 (10 U.S.C. 2431 note), the Secretary of Defense shall describe the technical milestones, the schedule, and the cost of each phase of development and acquisition (together with total estimated program costs) for each core and follow-on theater missile defense program.
+Program Accountability Report.—(1) As part of the annual report of the Ballistic Missile Defense Organization \[now Missile Defense Agency\] required by section 224 of Public Law 101–189 (10 U.S.C. 2431 note), the Secretary of Defense shall describe the technical milestones, the schedule, and the cost of each phase of development and acquisition (together with total estimated program costs) for each core and follow-on theater missile defense program.
 
 “(2) As part of such report, the Secretary shall describe, with respect to each program covered in the report, any variance in the technical milestones, program schedule milestones, and costs for the program compared with the information relating to that program in the report submitted in the previous year and in the report submitted in the first year in which that program was covered.
-
-“(f)
-
-Reports on TMD System Limitations Under ABM Treaty.—(1) Whenever, after January 1, 1993, the Secretary of Defense issues a certification with respect to the compliance of a particular Theater Missile Defense system with the ABM Treaty, the Secretary shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a copy of such certification. Such transmittal shall be made not later than 30 days after the date on which such certification is issued, except that in the case of a certification issued before the date of the enactment of this Act \[Feb. 10, 1996\], such transmittal shall be made not later than 60 days after the date of the enactment of this Act.
-
-“(2) If a certification under paragraph (1) is based on application of a policy concerning United States compliance with the ABM Treaty that differs from the policy described in section 235(b)(1), the Secretary shall include with the transmittal under that paragraph a report providing a detailed assessment of—
-
-&emsp;“(A) how the policy applied differs from the policy described in section 235(b)(1); and
-
-&emsp;“(B) how the application of that policy (rather than the policy described in section 235(b)(1)) will affect the cost, schedule, and performance of that system.
 
 #### “SEC. 235. PROHIBITION ON USE OF FUNDS TO IMPLEMENT AN INTERNATIONAL AGREEMENT CONCERNING THEATER MISSILE DEFENSE SYSTEMS.
 
@@ -480,7 +518,7 @@ General Limitation.—Funds appropriated to the Department of Defense for fiscal
 
 &emsp;“(1) for any development or testing of anti-ballistic missile systems or components except for development and testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the July 13, 1993, ACDA letter; or
 
-&emsp;“(2) for the acquisition of any material or equipment (including long lead materials, components, piece parts, or test equipment, or any modified space launch vehicle) required or to be used for the development or testing of anti-ballistic missile systems or components, except for material or equipment required for development or testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
+&emsp;“(2) for the acquisition of any material or equipment (including long lead materials, components, piece parts, or test equipment, or any modified space launch vehicle) required or to be used for the development or testing of anti-ballistic missile systems orcomponents, except for material or equipment required for development or testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
 “(b)
 
@@ -528,7 +566,7 @@ Integration and Compatibility.—In carrying out the Theater Missile Defense Ini
 
 “(b) TMD
 
-Master Plan.—The Secretary of Defense shall submit to Congress a report (which shall constitute the TMD master plan) containing a thoroughand complete analysis of the future of theater missile defense programs. The report shall include the following:
+Master Plan.—The Secretary of Defense shall submit to Congress a report (which shall constitute the TMD master plan) containing a thorough and complete analysis of the future of theater missile defense programs. The report shall include the following:
 
 &emsp;“(1) A description of the mission and scope of Theater Missile Defense.
 
@@ -536,7 +574,7 @@ Master Plan.—The Secretary of Defense shall submit to Congress a report (which
 
 &emsp;“(3) A description of how those roles interact and complement each other.
 
-&emsp;“(4) An evaluation of the cost and relative effectiveness of each interceptor and sensor under development as part of a Theater Missile Defense system by the Ballistic Missile Defense Organization.
+&emsp;“(4) An evaluation of the cost and relative effectiveness of each interceptor and sensor under development as part of a Theater Missile Defense system by the Ballistic Missile Defense Organization \[now Missile Defense Agency\].
 
 &emsp;“(5) A detailed acquisition strategy which includes an analysis and comparison of the projected acquisition and life-cycle costs of each Theater Missile Defense system intended for production (shown separately for research, development, test, and evaluation, for procurement, for operation and maintenance, and for personnel costs for each system).
 
@@ -574,7 +612,7 @@ Objectives of Plan.—In preparing the master plan, the Secretary shall—
 
 “(g)
 
-Review and Report on Deployment of Ballistic Missile Defenses.—(1) The Secretary of Defense shall conduct an intensive and extensive review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses with the objective of reducing the cost of deployment and accelerating the schedule for deployment without significantly increasing programmatic risk or concurrency.
+Review and Report on Deployment of Ballistic Missile Defenses.—(1) The Secretary of Defenseshall conduct an intensive and extensive review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses with the objective of reducing the cost of deployment and accelerating the schedule for deployment without significantly increasing programmatic risk or concurrency.
 
 “(2) In conducting the review, the Secretary shall obtain recommendations and advice from—
 
@@ -592,7 +630,7 @@ Pub. L. 103–160, div. A, title II, §242(a)–(e), Nov. 30, 1993, 107 Stat. 16
 
 #### Transfer of Follow-On Technology Programs
 
-Pub. L. 103–160, div. A, title II, §243, Nov. 30, 1993, 107 Stat. 1605, as amended by Pub. L. 104–201, div. A, title X, §1073(e)(1)(E), Sept. 23, 1996, 110 Stat. 2658, provided that:
+Pub. L. 103–160, div. A, title II, §243, Nov. 30, 1993, 107 Stat. 1605, as amended by Pub. L. 104–201, div. A, title X, §1073(e)(1)(E), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 107–314, div. A, title II, §225(b)(4)(B), Dec. 2, 2002, 116 Stat. 2486, provided that:
 
 “(a)
 
@@ -600,13 +638,13 @@ Management Responsibility.—Except as provided in subsection (b), the Secretary
 
 “(b)
 
-Waiver Authority.—The Secretary may waive the provisions of subsection (a) in the case of a particular program, project, or activity if the Secretary certifies to the congressional defense committees that it is in the national security interest of the United States to provide management and budget responsibility for that program, project, or activity through the Ballistic Missile Defense Organization.
+Waiver Authority.—The Secretary may waive the provisions of subsection (a) in the case of a particular program, project, or activity if the Secretary certifies to the congressional defense committees that it is in the national security interest of the United States to provide management and budget responsibility for that program, project, or activity through the Missile Defense Agency.
 
 “(c)
 
 Report Required.—As a part of the report required by section 231(e) \[107 Stat. 1593\], the Secretary shall submit to the congressional defense committees a report identifying—
 
-&emsp;“(1) each program, project, and activity with respect to which the Secretary has transferred management and budget responsibility from the Ballistic Missile Defense Organization in accordance with subsection (a);
+&emsp;“(1) each program, project, and activity with respect to which the Secretary has transferred management and budget responsibility from the Missile Defense Agency in accordance with subsection (a);
 
 &emsp;“(2) the agency or military department to which each such transfer was made; and
 
@@ -652,7 +690,7 @@ Effective Date.—The provisions of subsections (a), (b), and (c) shall be imple
 
 #### Missile Defense Program
 
-Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as amended by Pub. L. 102–484, div. A, title II, §234(a)–(d)(1), (e), (f), title X, §1053(1), (2), Oct. 23, 1992, 106 Stat. 2356, 2357, 2501; Pub. L. 103–35, title II, §§202(a)(2), 203(b)(1), May 31, 1993, 107 Stat. 101, 102; Pub. L. 103–160, div. A, title II, §§232, 243(e), Nov. 30, 1993, 107 Stat. 1593, 1606; Pub. L. 103–337, div. A, title II, §233, Oct. 5, 1994, 108 Stat. 2700, specified that such provisions could be cited as the “Missile Defense Act of 1991”, and related to missile defense goal of United States, implementation of goal, review of follow-on deployment options, definition of term “ABM Treaty”, and interpretation of such provisions, prior to repeal by Pub. L. 104–106, div. A, title II, §238, Feb. 10, 1996, 110 Stat. 233.
+Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as amended by Pub. L. 102–484, div. A, title II, §234(a)–(d)(1), (e), (f), title X, §1053(1), (2), Oct. 23, 1992, 106 Stat. 2356, 2357, 2501; Pub. L. 103–35, title II,§§202(a)(2), 203(b)(1), May 31, 1993, 107 Stat. 101, 102; Pub. L. 103–160, div. A, title II, §§232, 243(e), Nov. 30, 1993, 107 Stat. 1593, 1606; Pub. L. 103–337, div. A, title II, §233, Oct. 5, 1994, 108 Stat. 2700, specified that such provisions could be cited as the “Missile Defense Act of 1991”, and related to missile defense goal of United States, implementation of goal, review of follow-on deployment options, definition of term “ABM Treaty”, and interpretation of such provisions, prior to repeal by Pub. L. 104–106, div. A, title II, §238, Feb. 10, 1996, 110 Stat. 233.
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -772,7 +810,7 @@ Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
 “(e)
 
-Funding.—The Secretary of Defense shall provide that all funds for the new FFRDC within the Department of Defense budget for any fiscal year shall beseparately identified and set forth in the budget presentation materials submitted to Congress for that fiscal year.
+Funding.—The Secretary of Defense shall provide that all funds for the new FFRDC within the Department of Defense budget for any fiscal year shall be separately identified and set forth in the budget presentation materials submitted to Congress for that fiscal year.
 
 “(f)
 
@@ -870,7 +908,7 @@ Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secre
 
 #### Plans for Management of Technical Data and Computer Capability Improvements
 
-Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than one year after Oct. 19, 1984, todevelop a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and, not later than 5 years after Oct. 19, 1984, to complete implementation of the management plan, directed Comptroller General, not later than 18 months after Oct. 19, 1984, to transmit to Congress a report evaluating the plan developed, and directed Secretary of Defense, not later than 180 days after Oct. 19, 1984, to transmit to Congress a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies.
+Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than one year after Oct. 19, 1984, to develop a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and, not later than 5 years after Oct. 19, 1984, to complete implementation of the management plan, directed Comptroller General, not later than 18 months after Oct. 19, 1984, to transmit to Congress a report evaluating the plan developed, and directed Secretary of Defense, not later than 180 days after Oct. 19, 1984, to transmit to Congress a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies.
 
 #### Consultation With Allies on Strategic Defense Initiative Program
 
@@ -976,7 +1014,7 @@ Pub. L. 96–342, title II, §202, Sept. 8, 1980, 94 Stat. 1079, provided that:
 
 “(a) The Congress finds that a survivable land-based intercontinental ballistic missile (ICBM) system is vital to the security of the United States and to a stable strategic balance between the United States and the Soviet Union and that timely deployment of a new basing mode is essential to the survivability of this Nation's land-based intercontinental ballistic missiles. It is, therefore, the purpose of this section to commit the Congress to the development and deployment of the MX missile system, consisting of 200 missiles and 4,600 hardened shelters, and to insure that deployment of the entire MX system is carried out as soon as practicable.
 
-“(b) The Secretary of Defense shall proceed immediately with the full-scale engineering development of the MX missile and a Multiple Protective Structure (MPS) basing mode and shall continue such development in a manner that will achieve an Initial Operational Capability of such missile and basing mode not later than December 31, 1986.
+“(b) The Secretary of Defense shall proceed immediately with the full-scale engineering development ofthe MX missile and a Multiple Protective Structure (MPS) basing mode and shall continue such development in a manner that will achieve an Initial Operational Capability of such missile and basing mode not later than December 31, 1986.
 
 “(c) Notwithstanding any other provision of law, the initial phase of construction shall be limited to 2,300 protective shelters for the MX missile in the initial deployment area.
 
@@ -1004,7 +1042,7 @@ Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provide
 
 “(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
 
-“(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplementfunds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
+“(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
 
 “(c) In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary of Defense shall consult with the head of the department or agency of the Federal Government concerned with the type of service or facility for which financial assistance is being made available and shall take into consideration (1) the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population, (2) the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community, and (3) such other pertinent factors as the Secretary of Defense deems appropriate.
 

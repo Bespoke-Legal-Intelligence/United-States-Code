@@ -22,13 +22,13 @@
 
 &emsp;(10) A five dollar gold coin that is 16.5 millimeters in diameter, weighs 3.393 grams, and contains one-tenth troy ounce of fine gold.
 
-(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
+(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The innerlayer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
-(d)(1) United States coins shall have the inscription “In God We Trust”. The obverse side of each coin shall have the inscription “Liberty”. The reverse side of each coin shall have the inscriptions “United States of America” and “E Pluribus Unum” and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
+(d)(1) United States coins shall have the inscription “In God We Trust”. The obverse side of each coin shall have the inscription “Liberty”. The reverse side of each coin shall have the inscriptions “United States of America” and “E Pluribus Unum” and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
 
-(2) The Secretary shall prepare the devices, models, hubs, and dies for coins, emblems, devices, inscriptions, and designs authorized under this chapter. The Secretary may adopt and prepare new designs or models of emblems or devices that are authorized in the same way as when new coins or devices are authorized. The Secretary may change the design or die of a coin only once within 25 years of the first adoption of the design, model, hub, or die for that coin. The Secretary may procure services under section 3109 of title 5 in carrying out this paragraph.
+(2) The Secretary shall prepare the devices, models, hubs, and dies for coins, emblems, devices, inscriptions, and designs authorized under this chapter. The Secretary may, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, adopt and prepare new designs or models of emblems or devices that are authorized in the same way as when new coins or devices are authorized. The Secretary may change the design or die of a coin only once within 25 years of the first adoption of the design, model, hub, or die for that coin. The Secretary may procure services under section 3109 of title 5 in carrying out this paragraph.
 
 (e) Notwithstanding any other provision of law, the Secretary shall mint and issue, in quantities sufficient to meet public demand, coins which—
 
@@ -52,7 +52,7 @@ Silver Coins.—
 
 &emsp;(1)
 
-Sale price.—The Secretary shall sell the coins minted under subsection (e) to the publicat a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
+Sale price.—The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
 
 &emsp;(2)
 
@@ -132,7 +132,7 @@ Flexibility with regard to placement of inscriptions.—Notwithstanding subsecti
 
 &emsp;(2)
 
-Single state designs.—The design on the reverse side of each quarter dollar issuedduring the 10-year period referred to in paragraph (1) shall be emblematic of 1 of the 50 States.
+Single state designs.—The design on the reverse side of each quarter dollar issued during the 10-year period referred to in paragraph (1) shall be emblematic of 1 of the 50 States.
 
 &emsp;(3)
 
@@ -160,7 +160,7 @@ In general.—Each of the 50 designs required under this subsection for quarter 
 
 &emsp;&emsp;&emsp;&emsp;(II) the Commission of Fine Arts; and
 
-&emsp;&emsp;&emsp;(ii) reviewed by the Citizens Commemorative Coin Advisory Committee.
+&emsp;&emsp;&emsp;(ii) reviewed by the Citizens Coinage Advisory Committee.
 
 &emsp;&emsp;(B)
 
@@ -176,7 +176,7 @@ Standards.—Because it is important that the Nation's coinage and currency bear
 
 &emsp;&emsp;(E)
 
-Prohibition on certain representations.—No head and shoulders portrait or bust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
+Prohibition on certain representations.—No head and shoulders portrait orbust of any person, living or dead, and no portrait of a living person may be included in the design of any quarter dollar under this subsection.
 
 &emsp;(5)
 
@@ -232,7 +232,7 @@ Exception.—If the Secretary determines, based on independent, market-based res
 
 Designated recipient organization defined.—For purposes of this paragraph, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524,529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619.)
 
 Historical and Revision Notes<br>1982
 
@@ -364,6 +364,12 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (<
 
 #### Amendments
 
+2003—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
+
+Subsec. (d)(2). Pub. L. 108–15, §102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
+
+Subsec. (<i>l</i>)(4)(A)(ii). Pub. L. 108–15, §103(d)(1), substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
+
 2000—Subsec. (k). Pub. L. 106–445 substituted “platinum bullion coins” for “bullion”.
 
 1998—Subsec. (<i>l</i>)(1)(C). Pub. L. 105–176 added subpar. (C).
@@ -423,6 +429,30 @@ Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amendi
 Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
+
+#### Designs on the 5-Cent Coin
+
+Pub. L. 108–15, title I, §101, Apr. 23, 2003, 117 Stat. 615, provided that:
+
+“(a)
+
+In General.—Subject to subsection (b) and after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, the Secretary of the Treasury may change the design on the obverse and the reverse of the 5-cent coin for coins issued in 2003, 2004, and 2005 in recognition of the bicentennial of the Louisiana Purchase and the expedition of Meriwether Lewis and William Clark.
+
+“(b)
+
+Design Specifications.—
+
+&emsp;“(1)
+
+Obverse.—If the Secretary of the Treasury elects to change the obverse of 5-cent coins issued during 2003, 2004, and 2005, the design shall depict a likeness of President Thomas Jefferson, different from the likeness that appeared on the obverse of the 5-cent coins issued during 2002, in recognition of his role with respect to the Louisiana Purchase and the commissioning of the Lewis and Clark expedition.
+
+&emsp;“(2)
+
+Reverse.—If the Secretary of the Treasury elects to change the reverse of the 5-cent coins issued during 2003, 2004, and 2005, the design selected shall depict images that are emblematic of the Louisiana Purchase or the expedition of Meriwether Lewis and William Clark.
+
+&emsp;“(3)
+
+Other inscriptions.—5-cent coins issued during 2003, 2004, and 2005 shall continue to meet all other requirements for inscriptions and designations applicable to circulating coins under section 5112(d)(1) of title 31, United States Code.”
 
 #### Study and Report of Impact on United States Silver Market of the American Eagle Silver Bullion Program
 
@@ -546,7 +576,7 @@ Quality of coins.—The Secretary may mint and issue such number of quarter doll
 
 &emsp;&emsp;“(B)
 
-Silver coins.—Notwithstanding the provisions of subsection 5112(b) of title 31, United States Code, the Secretary may mint and issue such number of quarter dollars of each design selected underparagraph (4) of this subsection as the Secretary determines to be appropriate with a content of 90 percent silver and 10 percent copper.
+Silver coins.—Notwithstanding the provisions of subsection 5112(b) of title 31, United States Code, the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection as the Secretary determines to be appropriate with a content of 90 percent silver and 10 percent copper.
 
 &emsp;&emsp;“(C)
 

@@ -6,7 +6,7 @@ The applicable accounts of the House of Representatives is <sup>1</sup> made av
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund” and “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted “applicable accounts” for “contingent fund” and “House Oversight” for “House Administration”.
 
 #### Change of Name
 

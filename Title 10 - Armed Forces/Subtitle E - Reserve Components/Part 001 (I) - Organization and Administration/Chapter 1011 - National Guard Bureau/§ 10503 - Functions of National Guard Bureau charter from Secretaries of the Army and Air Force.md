@@ -2,7 +2,7 @@
 
 The Secretary of the Army and the Secretary of the Air Force shall jointly develop and prescribe a charter for the National Guard Bureau. The charter shall cover the following matters:
 
-&emsp;(1) Allocating unit structure, strength authorizations, and other resources to the ArmyNational Guard of the United States and the Air National Guard of the United States.
+&emsp;(1) Allocating unit structure, strength authorizations, and other resources to the Army National Guard of the United States and the Air National Guard of the United States.
 
 &emsp;(2) Prescribing the training discipline and training requirements for the Army National Guard and the Air National Guard and the allocation of Federal funds for the training of the Army National Guard and the Air National Guard.
 
@@ -10,7 +10,7 @@ The Secretary of the Army and the Secretary of the Air Force shall jointly devel
 
 &emsp;(4) Monitoring and assisting the States in the organization, maintenance, and operation of National Guard units so as to provide well-trained and well-equipped units capable of augmenting the active forces in time of war or national emergency.
 
-&emsp;(5) Planning and administering the budget for the Army National Guard of the United States and the Air National Guard of the United States.
+&emsp;(5) Planning and administering the budget for the Army National Guard of the UnitedStates and the Air National Guard of the United States.
 
 &emsp;(6) Supervising the acquisition and supply of, and accountability of the States for, Federal property issued to the National Guard through the property and fiscal officers designated, detailed, or appointed under section 708 of title 32.
 

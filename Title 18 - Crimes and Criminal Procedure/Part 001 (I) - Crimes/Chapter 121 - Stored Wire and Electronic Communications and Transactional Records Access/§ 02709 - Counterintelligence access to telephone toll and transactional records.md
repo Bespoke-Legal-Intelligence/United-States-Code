@@ -22,7 +22,7 @@ Dissemination by Bureau.—The Federal Bureau of Investigation may disseminate i
 
 (e)
 
-Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
+Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee onIntelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, §505(a), Oct. 26, 2001, 115 Stat. 365.)
 
@@ -36,7 +36,7 @@ Subsec. (b)(1). Pub. L. 107–56, §505(a)(2), struck out “in a position not l
 
 &emsp;“(B) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801); and”.
 
-Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person isnot conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
+Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
 
 &emsp;“(A) the information sought is relevant to an authorized foreign counterintelligence investigation; and
 

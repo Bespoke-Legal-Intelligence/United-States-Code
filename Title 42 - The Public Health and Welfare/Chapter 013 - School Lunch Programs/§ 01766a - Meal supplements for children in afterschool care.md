@@ -32,7 +32,7 @@ Reimbursement may be provided under this section only for supplements served to 
 
 #### (2) Other school children
 
-&emsp;In the case of an eligible child who is participating in a program authorized under this section at a site that is not described in paragraph (1), for the purposes of this section, the national average payment rate for supplements shall be equal to those established under section 1766(c)(3) of this title (as adjusted pursuant to section 1759a(a)(3) of this title).
+&emsp;In the case of an eligible child who is participating in a program authorized under thissection at a site that is not described in paragraph (1), for the purposes of this section, the national average payment rate for supplements shall be equal to those established under section 1766(c)(3) of this title (as adjusted pursuant to section 1759a(a)(3) of this title).
 
 #### (d) Contents of supplements
 
@@ -42,7 +42,7 @@ The requirements that apply to the content of meal supplements served under chil
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, asamended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 #### Amendments
 

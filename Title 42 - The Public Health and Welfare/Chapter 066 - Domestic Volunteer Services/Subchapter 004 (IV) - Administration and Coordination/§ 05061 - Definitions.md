@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 &emsp;(6) the term “poverty line for a single individual” means such poverty line as established by the Director of the Office of Management and Budget in accordance with section 9902(2) of this title;
 
-&emsp;(7) the term “boarder baby” means an infant described in section 103 of the Abandoned Infants Assistance Act of 1988 (Public Law 100–505; 42 U.S.C. 670 note);
+&emsp;(7) the term “boarder baby” means an infant who is abandoned, as defined in section 301 of the Abandoned Infants Assistance Act of 1988 (Public Law 100–505; 42 U.S.C. 670 note);
 
 &emsp;(8) the term “Corporation” means the Corporation for National and Community Service established under section 12651 of this title;
 
@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;(10) the term “Foster Grandparent Program” means the program established under part B of subchapter II of this chapter;
 
-&emsp;(11) except as provided in section 5057 of this title, the term “individual with a disability” has the meaning given the term in section 705(20)(B) of title 29;
+&emsp;(11) except as provided in section 5057 of this title, the term “individual with a disability”has the meaning given the term in section 705(20)(B) of title 29;
 
 &emsp;(12) the term “Inspector General” means the Inspector General of the Corporation;
 
@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;(20) the term “VISTA volunteer” means a volunteer in VISTA.
 
-(Pub. L. 93–113, title IV, §421, Oct. 1, 1973, 87 Stat. 414; Pub. L. 99–551, §§6(b), 10(h), Oct. 27, 1986, 100 Stat. 3074, 3078; Pub. L. 101–204, title IV, §403, title V, §502(b), Dec. 7, 1989, 103 Stat. 1815, 1817; Pub. L. 103–82, title IV, §§401, 404, 405(a)(10), Sept. 21, 1993, 107 Stat. 917, 920, 921; Pub. L. 105–220, title IV, §414(e), Aug. 7, 1998, 112 Stat. 1242.)
+(Pub. L. 93–113, title IV, §421, Oct. 1, 1973, 87 Stat. 414; Pub. L. 99–551, §§6(b), 10(h), Oct. 27, 1986, 100 Stat. 3074, 3078; Pub. L. 101–204, title IV, §403, title V, §502(b), Dec. 7, 1989, 103 Stat. 1815, 1817; Pub. L. 103–82, title IV, §§401, 404, 405(a)(10), Sept. 21, 1993, 107 Stat. 917, 920, 921; Pub. L. 105–220, title IV, §414(e), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 108–36, title III, §306, June 25, 2003, 117 Stat. 825.)
 
 #### References in Text
 
@@ -51,6 +51,8 @@ Section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92
 The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
+
+2003—Par. (7). Pub. L. 108–36 substituted “infant who is abandoned, as defined in section 301” for “infant described in section 103”.
 
 1998—Par. (11). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
 
@@ -74,7 +76,7 @@ Par. (5). Pub. L. 99–551, §6(b), added par. (5).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by sections 404 and 405(a)(10) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L.103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by sections 404 and 405(a)(10) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 Section 406(a) of Pub. L. 103–82 provided that: “The amendments made by sections 401 through 402 \[amending this section, sections 12612, 12617, 12619, 12622 to 12626, 12632, 12636, 12637, 12639, and 12662 of this title, and provisions set out as notes under section 12612 of this title\] will take effect on October 1, 1993.”
 

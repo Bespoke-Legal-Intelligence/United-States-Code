@@ -102,7 +102,7 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613,3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
+Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
 
 #### Short Title of 1987 Amendment
 

@@ -22,6 +22,14 @@ Covered Services.—The authority under subsection (a) applies to the following 
 
 &emsp;(4) Base services (for example, ground maintenance; in-plane refueling; bus transportation; refuse collection and disposal).
 
+&emsp;(5) Environmental remediation services for—
+
+&emsp;&emsp;(A) an active military installation;
+
+&emsp;&emsp;(B) a military installation being closed or realigned under a base closure law; or
+
+&emsp;&emsp;(C) a site formerly used by the Department of Defense.
+
 (c)
 
 Applicable Principles.—In entering into multiyear contracts for services under the authority of this section, the head of the agency shall be guided by the following principles:
@@ -62,7 +70,41 @@ Cancellation or Termination for Insufficient Funding After First Year.—In the 
 
 Multiyear Contract Defined.—For the purposes of this section, a multiyear contract is a contract for the purchase of services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203.)
+\[(g) Repealed. Pub. L. 108–136, div. A, title VIII, §843(a), Nov. 24, 2003, 117 Stat. 1553.\]
+
+(h)
+
+Military Installation Defined.—In this section, the term “military installation” has the meaning given such term in section 2801(c)(2) of this title.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611.)
+
+#### Amendments
+
+2003—Subsec. (g). Pub. L. 108–136, §843(a), struck out heading and text of subsec. (g). Text read as follows:
+
+“(1) The authority and restrictions of this section, including the authority to enter into contracts for periods of not more than five years, shall apply with respect to task order and delivery order contracts entered into under the authority of section 2304a, 2304b, or 2304c of this title.
+
+“(2) The regulations implementing this subsection shall establish a preference that, to the maximum extent practicable, multi-year requirements for task order and delivery order contracts be met with separate awards to two or more sources under the authority of section 2304a(d)(1)(B) of this title.”
+
+Subsec. (h). Pub. L. 108–136, §1043(c)(1), substituted “
+
+Military Installation Defined.—In this section, the term” for “
+
+Additional Definitions.—In this section:
+
+&emsp;“(1) The term ‘base closure law’ has the meaning given such term in section 2667(h)(2) of this title.
+
+&emsp;“(2) The term”.
+
+2002—Subsec. (b)(5). Pub. L. 107–314, §827(a), added par. (5).
+
+Subsec. (g). Pub. L. 107–314, §811(a), added subsec. (g).
+
+Subsec. (h). Pub. L. 107–314, §827(b), added subsec. (h).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title VIII, §811(b), Dec. 2, 2002, 116 Stat. 2608, as amended by Pub. L. 108–11, title I, §1315, Apr. 16, 2003, 117 Stat. 570, provided that: “Subsection (g) of section 2306c of title 10, United States Code, as added by subsection (a), shall apply to all task order and delivery order contracts entered into on or after January 1, 2004.”
 
 #### Effective Date
 

@@ -18,7 +18,7 @@
 
 #### (B) Amount
 
-&emsp;&emsp;Contract payments made for contract acreage under this paragraph shall be made at the rate and amount applicable to the annual contract payment level for the applicable crop. For the fiscal year in which the conservation reserve contract is terminated, the owner or producer subject to the production flexibility contract may elect to receive either contract payments or a prorated payment under the conservation reserve contract, but not both.
+&emsp;&emsp;Contract payments made for contract acreage under this paragraph shall be made at the rate and amount applicable to the annual contract payment level for the applicable crop. For the fiscal year in which the conservation reserve contract is terminated,the owner or producer subject to the production flexibility contract may elect to receive either contract payments or a prorated payment under the conservation reserve contract, but not both.
 
 #### (b) Duration of contract
 

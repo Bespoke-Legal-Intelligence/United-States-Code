@@ -12,7 +12,7 @@ Transfer Required.—(1) Upon the enactment of this section, the Secretary of En
 
 (b)
 
-Authority To Lease.—(1) Beginning on November 18, 1997, or as soon thereafter as practicable, the Secretary of the Interior shall enter into leases with one or more private entities for the purpose of exploration for, and development and production of, petroleum (other than in the form of oil shale) located on or in public domain lands in Oil Shale Reserves Numbered 1 and 3 (including the developed tract of Oil Shale Reserve Numbered 3). Any such lease shall be made in accordance with the requirements of the Mineral Leasing Act (30 U.S.C. 181 et seq.) regardingthe lease of oil and gas lands and shall be subject to valid existing rights.
+Authority To Lease.—(1) Beginning on November 18, 1997, or as soon thereafter as practicable, the Secretary of the Interior shall enter into leases with one or more private entities for the purpose of exploration for, and development and production of, petroleum (other than in the form of oil shale) located on or in public domain lands in Oil Shale Reserves Numbered 1 and 3 (including the developed tract of Oil Shale Reserve Numbered 3). Any such lease shall be made in accordance with the requirements of the Mineral Leasing Act (30 U.S.C. 181 et seq.) regarding the lease of oil and gas lands and shall be subject to valid existing rights.
 
 (2) Notwithstanding the delayed transfer of the developed tract of Oil Shale Reserve Numbered 3 under subsection (a)(2), the Secretary of the Interior shall enter into a lease under paragraph (1) with respect to the developed tract before November 18, 1998.
 
@@ -30,7 +30,7 @@ Cost Minimization.—The cost of any environmental assessment required pursuant 
 
 (f)
 
-Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing Act (30 U.S.C. 191), all moneys received during the period specified in paragraph (2) from a lease under this section (including moneys in the form of sales, bonuses, royalties (including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.)), and rentals) shall be covered into the Treasury of the United States and shall not be subject to distribution to the States pursuant to subsection (a) of such section 35. Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).
+Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing Act (30 U.S.C. 191), all moneys received during the period specified in paragraph (2) from a lease under this section (including moneys in the form of sales, bonuses, royalties (including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.)), and rentals) shall be covered into the Treasury of the United States and shall not be subject to distribution to the States pursuant to subsection (a) of such section 35.
 
 (2) The period referred to in this subsection is the period beginning on November 18, 1997, and ending on the date on which the Secretary of Energy and the Secretary of the Interior jointly certify to Congress that the sum of the moneys deposited in the Treasury under paragraph (1) is equal to the total of the following:
 
@@ -38,7 +38,17 @@ Treatment of Receipts.—(1) Notwithstanding section 35 of the Mineral Leasing A
 
 &emsp;(B) The cost to the United States to originally install wells, gathering lines, and related equipment on the transferred lands and any other cost incurred by the United States with respect to the lands.
 
-(Added Pub. L. 105–85, div. C, title XXXIV, §3404(a), Nov. 18, 1997, 111 Stat. 2059; amended Pub. L. 107–107, div. A, title X, §1048(c)(14), Dec. 28, 2001, 115 Stat. 1226.)
+(g)
+
+Use of Receipts.—(1) The Secretary of the Interior may use, without further appropriation, not more than $1,500,000 of the moneys covered into the Treasury under subsection (f)(1) to cover the cost of any additional analysis, site characterization, and geotechnical studies deemed necessary by the Secretary to support environmental restoration, waste management, or environmental compliance with respect to Oil Shale Reserve Numbered 3. Upon the completion of such studies, the Secretary of the Interior shall submit to Congress a report containing—
+
+&emsp;(A) the results and conclusions of such studies; and
+
+&emsp;(B) an estimate of the total cost of the Secretary's preferred alternative to address environmental restoration, waste management, and environmental compliance needs at Oil Shale Reserve Numbered 3.
+
+(2) If the cost estimate required by paragraph (1)(B) does not exceed the total of the moneys covered into the Treasury under subsection (f)(1) and remaining available for obligation as of the date of submission of the report under paragraph (1), the Secretary of the Interior may access such moneys, beginning 60 days after submission of the report and without further appropriation, to cover the costs of implementing the preferred alternative to address environmental restoration, waste management, and environmental compliance needs at Oil Shale Reserve Numbered 3. If the cost estimate exceeds such available moneys, the Secretary of the Interior may only access such moneys as authorized by subsequent Act of Congress.
+
+(Added Pub. L. 105–85, div. C, title XXXIV, §3404(a), Nov. 18, 1997, 111 Stat. 2059; amended Pub. L. 107–107, div. A, title X, §1048(c)(14), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 107–345, §1, Dec. 17, 2002, 116 Stat. 2894.)
 
 #### References in Text
 
@@ -51,6 +61,10 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pu
 The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (f)(1), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§1701 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 30 and Tables.
 
 #### Amendments
+
+2002—Subsec. (f)(1). Pub. L. 107–345, §1(1), struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
+
+Subsec. (g). Pub. L. 107–345, §1(2), added subsec. (g).
 
 2001—Subsec. (a)(2). Pub. L. 107–107, §1048(c)(14)(A), substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
 

@@ -92,7 +92,7 @@ If a petition is filed naming a partner as a debtor in a bankruptcy proceeding u
 
 &emsp;(2) for 60 days thereafter.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, titleXVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(<i>o</i>)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 659; amended Pub. L. 99–514, title XVIII, §1875(d)(1), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(<i>o</i>)(3), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 105–34, title XII, §§1233(a)–(c), 1235(a), Aug. 5, 1997, 111 Stat. 1023, 1024; Pub. L. 107–147, title IV, §416(d)(1)(B), Mar. 9, 2002, 116 Stat. 55.)
 
 #### Amendments
 

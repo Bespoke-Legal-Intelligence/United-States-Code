@@ -2,29 +2,37 @@
 
 (a)
 
-General Notice and Wait Requirements.—The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives:
+General Notice and Wait Requirements.—(1) The Secretary of a military department, or his designee, may not enter into any of the following listed transactions by or for the use of that department until the Secretary submits a report, subject to paragraph (3), to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives:
 
-&emsp;(1) An acquisition of fee title to any real property, if the estimated price is more than $500,000.
+&emsp;(A) An acquisition of fee title to any real property, if the estimated price is more than $750,000.
 
-&emsp;(2) A lease of any real property to the United States, if the estimated annual rental is more than $500,000.
+&emsp;(B) A lease of any real property to the United States, if the estimated annual rental is more than $750,000.
 
-&emsp;(3) A lease or license of real property owned by the United States, if the estimated annual fair market rental value of the property is more than $500,000.
+&emsp;(C) A lease or license of real property owned by the United States, if the estimated annual fair market rental value of the property is more than $750,000.
 
-&emsp;(4) A transfer of real property owned by the United States to another Federal agency or another military department or to a State, if the estimated value is more than $500,000.
+&emsp;(D) A transfer of real property owned by the United States to another Federal agency or another military department or to a State, if the estimated value is more than $750,000.
 
-&emsp;(5) A report of excess real property owned by the United States to a disposal agency, if the estimated value is more than $500,000.
+&emsp;(E) A report of excess real property owned by the United States to a disposal agency, if the estimated value is more than $750,000.
 
-&emsp;(6) Any termination or modification by either the grantor or grantee of an existing license or permit of real property owned by the United States to a military department, under which substantial investments have been or are proposed to be made in connection with the use of the property by the military department.
+&emsp;(F) Any termination or modification by either the grantor or grantee of an existing license or permit of real property owned by the United States to a military department, under which substantial investments have been or are proposed to be made in connection with the use of the property by the military department.
 
-> If a transaction covered by clause (1) or (2) is part of a project, the report must include a summarization of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in clause (5) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report must include a summarization of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+
+(3) The authority of the Secretary of a military department to enter into a transaction described in paragraph (1) commences only after—
+
+&emsp;(A) the end of the 30-day period beginning on the first day of the month with respect to which the report containing the facts concerning such transaction, and all other such proposed transactions for that month, is submitted under paragraph (1); or
+
+&emsp;(B) the end of the 14-day period beginning on the first day of that month when a copy of the report is provided in an electronic medium pursuant to section 480 of this title on or before the first day of that month.
+
+(4) The report for a month under this subsection may not be submitted later than the first day of that month.
 
 (b)
 
-Annual Reports on Certain Minor Transactions.—The Secretary of each military department shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than the simplified acquisition threshold specified in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)), but not more than $500,000.
+Annual Reports on Certain Minor Transactions.—The Secretary of each military department shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than $250,000, but not more than $750,000.
 
 (c)
 
-Geographic Scope; Excepted Projects.—This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harborprojects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
+Geographic Scope; Excepted Projects.—This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real propertyacquisition specifically authorized in a Military Construction Authorization Act.
 
 (d)
 
@@ -32,7 +40,7 @@ Statements of Compliance in Transaction Instruments.—A statement in an instrum
 
 (e)
 
-Notice and Wait Regarding Leases of Space for DoD by GSA.—No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $500,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a).
+Notice and Wait Regarding Leases of Space for DoD by GSA.—No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (f)
 
@@ -60,7 +68,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 (3) Not later than 30 days after entering into a real property transaction covered by paragraph (1) or (2), the Secretary concerned shall submit to the committees named in subsection (a) a report on the transaction. The report shall set forth any facts or information which would otherwise have been submitted in a report on the transaction under subsection (a) or (e), as the case may be, but for the operation of paragraph (1) or (2).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598.)
 
 Historical and Revision Notes
 
@@ -96,15 +104,23 @@ In subsection (b), the words “more than $5,000 but not more than $25,000” ar
 
 In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, the Territory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
 
-In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
+In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “inthe alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (g)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255,as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (g)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
+
+Subsec. (a)(3), (4). Pub. L. 108–136, §1031(a)(27)(A)(vi), added pars. (3) and (4).
+
+Subsec. (b). Pub. L. 108–136, §1031(a)(27)(B), substituted “more than $250,000, but not more than $750,000” for “more than the simplified acquisition threshold specified in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)), but not more than $500,000”.
+
+Subsec. (e). Pub. L. 108–136, §1031(a)(27)(C), substituted “$750,000” for “$500,000” and “the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title” for “the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a)”.
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811(a)\], substituted “$500,000” for “$200,000” wherever appearing.
 

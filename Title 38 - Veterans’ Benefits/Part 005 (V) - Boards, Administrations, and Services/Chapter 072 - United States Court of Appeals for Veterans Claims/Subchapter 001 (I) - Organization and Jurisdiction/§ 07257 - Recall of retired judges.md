@@ -8,7 +8,7 @@
 
 &emsp;(B) a recall-eligible retired judge is a retired judge who has provided a notice under paragraph (1).
 
-(b)(1) The chief judge may recall for further service on the Court a recall-eligible retiredjudge in accordance with this section. Such a recall shall be made upon written certification by the chief judge that substantial service is expected to be performed by the retired judge for such period, not to exceed 90 days (or the equivalent), as determined by the chief judge to be necessary to meet the needs of the Court.
+(b)(1) The chief judge may recall for further service on the Court a recall-eligible retired judge in accordance with this section. Such a recall shall be made upon written certification by the chief judge that substantial service is expected to be performed by the retired judge for such period, not to exceed 90 days (or the equivalent), as determined by the chief judge to be necessary to meet the needs of the Court.
 
 (2) A recall-eligible retired judge may not be recalled for more than 90 days (or the equivalent) during any calendar year without the judge's consent or for more than a total of 180 days (or the equivalent) during any calendar year.
 

@@ -14,7 +14,7 @@ If any person shall fail to make a return required by this title or by regulatio
 
 &emsp;Any return so made and subscribed by the Secretary shall be prima facie good and sufficient for all legal purposes.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 740; Pub. L. 90–364, title I, §103(e)(3), June 28, 1968, 82 Stat.264; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §412(b)(4), July 18, 1984, 98 Stat. 792.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 740; Pub. L. 90–364, title I, §103(e)(3), June 28, 1968, 82 Stat. 264; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §412(b)(4), July 18, 1984, 98 Stat. 792.)
 
 #### Amendments
 

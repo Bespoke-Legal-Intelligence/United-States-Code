@@ -8,7 +8,7 @@ The Secretary shall make available to the public, in forms useful to the public 
 
 #### (1) Proprietary data
 
-&emsp;Except as provided in paragraph (2), the Secretary may not make available to the public data that the Secretary determines pursuant to section 4546 of this title are proprietary information.
+&emsp;Except as provided in paragraph (2), the Secretary may not make available to the publicdata that the Secretary determines pursuant to section 4546 of this title are proprietary information.
 
 #### (2) Exception
 

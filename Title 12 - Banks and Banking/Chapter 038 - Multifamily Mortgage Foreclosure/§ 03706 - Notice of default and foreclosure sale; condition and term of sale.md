@@ -18,7 +18,7 @@
 
 &emsp;(8) the amount and method of deposit to be required at the foreclosure sale (except that no deposit shall be required of the Secretary), the time and method of payment of the balance of the foreclosure purchase price and other appropriate terms of sale.
 
-(b)(1) Except as provided in paragraph (2)(A), the Secretary may require, as a condition and term of sale, that the purchaser at a foreclosure sale under this chapter agree to continue to operate the security property in accordance with the terms of the program under which the mortgage insurance or assistance was provided, or any applicable regulatory or other agreement in effect with respect to such property immediately prior to the time of foreclosure sale.
+(b)(1) Except as provided in paragraph (2)(A), the Secretary may require, as a condition andterm of sale, that the purchaser at a foreclosure sale under this chapter agree to continue to operate the security property in accordance with the terms of the program under which the mortgage insurance or assistance was provided, or any applicable regulatory or other agreement in effect with respect to such property immediately prior to the time of foreclosure sale.
 
 (2)(A) In any case where the majority of the residential units in a property subject to such a sale are occupied by residential tenants at the time of the sale, the Secretary shall require, as a condition and term of sale, any purchaser (other than the Secretary) to operate the property in accordance with such terms, as appropriate, of the programs referred to in paragraph (1).
 

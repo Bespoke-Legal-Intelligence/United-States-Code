@@ -58,7 +58,7 @@ The Board shall notify the appropriate congressional committees before entering 
 
 Nothing in this chapter may be construed to make Radio Free Asia a Federal agency or instrumentality.
 
-(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994,108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450.)
+(Pub. L. 103–236, title III, §309, Apr. 30, 1994, 108 Stat. 439; Pub. L. 103–415, §1(s)(2), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–450.)
 
 #### Amendments
 

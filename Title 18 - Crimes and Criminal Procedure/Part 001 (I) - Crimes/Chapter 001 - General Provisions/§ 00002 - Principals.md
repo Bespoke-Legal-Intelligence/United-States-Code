@@ -28,5 +28,5 @@ Subsec. (b). Act Oct. 31, 1951, inserted “willfully” before “causes”, an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1962 of this title; title 21 sections 848, 854; title 50 section 422.
+This section is referred to in sections 1531, 1962 of this title; title 21 sections 848, 854; title 50 section 422.
 

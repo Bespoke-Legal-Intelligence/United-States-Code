@@ -20,7 +20,7 @@ Except as provided in subsection (b), the status of any organization as a privat
 
 &emsp;&emsp;(A) such organization distributes all of its net assets to one or more organizations described in section 170(b)(1)(A) (other than in clauses (vii) and (viii)) each of which has been in existence and so described for a continuous period of at least 60 calendar months immediately preceding such distribution, or
 
-&emsp;&emsp;(B)(i) such organization meets the requirements of paragraph (1), (2), or (3) of section 509(a) by the end of the 12-month period beginning with its first taxable year which begins after December 31, 1969, or for a continuous period of 60 calendar months beginning with the first day of any taxable year which begins after December 31, 1969,
+&emsp;&emsp;(B)(i) such organization meets the requirements of paragraph (1), (2), or (3) of section509(a) by the end of the 12-month period beginning with its first taxable year which begins after December 31, 1969, or for a continuous period of 60 calendar months beginning with the first day of any taxable year which begins after December 31, 1969,
 
 &emsp;&emsp;(ii) such organization notifies the Secretary (in such manner as the Secretary may by regulations prescribe) before the commencement of such 12-month or 60-month period (or before the 90th day after the day on which regulations first prescribed under this subsection become final) that it is terminating its private foundation status, and
 
@@ -56,7 +56,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of paragraph (1), the term “substantial contributor” means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term “substantialcontributor” also means the creator of the trust.
+&emsp;&emsp;For purposes of paragraph (1), the term “substantial contributor” means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term “substantial contributor” also means the creator of the trust.
 
 #### (B) Special rules
 

@@ -8,7 +8,7 @@
 
 (d) This section shall apply only to offenses committed before November 1, 1987, and the Parole Commission's performance of its responsibilities under this section shall be subject to section 235 of the Comprehensive Crime Control Act of 1984.
 
-(Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 98–473, title II, §223(m)(3), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–182, §14, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–690, title VII, §7072(c), Nov. 18, 1988, 102 Stat. 4405.)
+(Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 98–473, title II, §223(m)(3), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–182, §14,Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–690, title VII, §7072(c), Nov. 18, 1988, 102 Stat. 4405.)
 
 #### References in Text
 

@@ -24,23 +24,25 @@ The authority vested by law in the Department of the Army, the Secretary of the 
 
 Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
-#### (e) Active service deemed active military service with respect to Soldiers’ and Sailors’ Civil Relief Act of 1940
+#### (e) Active service deemed active military service with respect to Servicemembers Civil Relief Act
 
-Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.).
+Active service of commissioned officers of the Service shall be deemed to be active militaryservice in the Armed Forces of the United States for the purposes of all rights, privileges, immunities, and benefits now or hereafter provided under the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.).
 
 #### (f) Active service deemed active military service with respect to anti-discrimination laws
 
-Active service of commissioned officers of the Service shall be deemed to be active militaryservice in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
+Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
 
-(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 108–189, §2(e), Dec. 19, 2003, 117 Stat. 2866.)
 
 #### References in Text
 
 The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 873, title V, §502(9), 70 Stat. 886.
 
-The Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (e), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
 
 1998—Subsec. (f). Pub. L. 105–392 added subsec. (f).
 

@@ -44,17 +44,17 @@
 
 &emsp;(7) is an alien, other than an alien who—
 
-&emsp;&emsp;(A) is lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act); or
+&emsp;&emsp;(A) is lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act);
 
 &emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business;
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
 &emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
 
-&emsp;&emsp;&emsp;(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+&emsp;&emsp;(C) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Attorney General in consultation with the Secretary of Defense, who is present in the United States under military orders for training or other military purpose authorized by the United States and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the authorized military purpose; or
 
-&emsp;&emsp;&emsp;(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
+&emsp;&emsp;(D) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
 
 &emsp;(8) has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
 
@@ -80,17 +80,17 @@
 
 &emsp;(5) who is an alien, other than an alien who—
 
-&emsp;&emsp;(A) is lawfully admitted for permanent residence (as that term is defined in section 101(a)(20) of the Immigration and Nationality Act); or
+&emsp;&emsp;(A) is lawfully admitted for permanent residence (as that term is defined in section 101(a)(20) of the Immigration and Nationality Act);
 
 &emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
 
-&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business;
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business; or
 
 &emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
 
-&emsp;&emsp;&emsp;(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+&emsp;&emsp;(C) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Attorney General in consultation with the Secretary of Defense, who is present in the United States under military orders for training or other military purpose authorized by the United States and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the authorized military purpose; or
 
-&emsp;&emsp;&emsp;(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
+&emsp;&emsp;(D) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
 
 &emsp;(6) who has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
 
@@ -140,7 +140,7 @@ Prohibition.—It shall be unlawful for any person—
 
 &emsp;&emsp;(B) to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398; Pub. L. 107–296, title XI, §§1112(e)(3), 1122(b), 1123, Nov. 25, 2002, 116 Stat. 2276, 2280, 2283.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398; Pub. L. 107–296, title XI, §§1112(e)(3), 1122(b), 1123, Nov. 25, 2002, 116 Stat. 2276, 2280, 2283; Pub. L. 108–177, title III, §372, Dec. 13, 2003, 117 Stat. 2627.)
 
 #### References in Text
 
@@ -149,6 +149,26 @@ Section 101(a)(20) of the Immigration and Nationality Act, referred to in subsec
 The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2), and (<i>o</i>), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
+
+2003—Subsec. (d)(7)(A). Pub. L. 108–177, §372(a)(1), struck out “or” at end.
+
+Subsec. (d)(7)(B). Pub. L. 108–177, §372(a)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+
+“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+
+“(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
+
+Subsec. (d)(7)(C), (D). Pub. L. 108–177, §372(a)(3), added subpars. (C) and (D).
+
+Subsec. (i)(5)(A). Pub. L. 108–177, §372(b)(1), struck out “or” at end.
+
+Subsec. (i)(5)(B). Pub. L. 108–177, §372(b)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
+
+“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation withthe Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+
+“(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
+
+Subsec. (i)(5)(C), (D). Pub. L. 108–177, §372(b)(3), added subpars. (C) and (D).
 
 2002—Subsec. (a)(3), (4). Pub. L. 107–296, §1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
 

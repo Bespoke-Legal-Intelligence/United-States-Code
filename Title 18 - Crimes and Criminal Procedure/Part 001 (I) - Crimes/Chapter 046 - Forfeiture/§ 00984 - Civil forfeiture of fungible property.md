@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 106–185, §13(a)(1), redesignated subsec. (d) as (c). For
 
 Subsec. (c)(1). Pub. L. 106–185, §13(a)(3)(A), added par. (1) and struck out former par. (1) which read as follows: “No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense.”
 
-Subsec. (c)(2). Pub. L. 106–185, §13(a)(3)(B), substituted “In this subsection—” for “As used in this section, the term”, added subpar. (A), and inserted “(B) the term” before “‘interbank account’ means”.
+Subsec. (c)(2). Pub. L. 106–185, §13(a)(3)(B), substituted “In this subsection—” for “As used in this section, the term”, added subpar. (A), and inserted “(B) the term” before “ ‘interbank account’ means”.
 
 Subsec. (d). Pub. L. 106–185, §13(a)(4), added subsec. (d). Former subsec. (d) redesignated (c).
 

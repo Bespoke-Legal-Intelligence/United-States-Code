@@ -24,7 +24,7 @@
 
 &emsp;(A) provide technical assistance and outreach throughout the Nation to meet the training and information needs of parents of infants, children, and youth who are deaf or hard of hearing; and
 
-&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broad spectrum of needs as described in subsection (a) of this section.
+&emsp;(B) provide technical assistance and training to personnel for use in teaching (i) students who are deaf or hard of hearing, in various educational environments, and (ii) students who are deaf or hard of hearing with a broadspectrum of needs as described in subsection (a) of this section.
 
 (2) To the extent possible, the elementary and secondary education programs shall provide the services required under paragraph (1)(B) in an equitable manner, based on the national distribution of students who are deaf or hard of hearing in educational environments as determined by the Secretary for purposes of section 618(a)(1)(A) of the Individuals with Disabilities Education Act \[20 U.S.C. 1418(a)(1)(A)\]. Such educational environments shall include—
 

@@ -18,7 +18,7 @@ The evaluation under subsection (a) of this section shall include the following:
 
 &emsp;(3) An analysis of how State reading standards correlate with the essential components of reading instruction.
 
-&emsp;(4) An analysis of whether the receipt of a targeted assistance grant under section 6364 of this title results in an increase in the number of children who read proficiently.
+&emsp;(4) An analysis of whether the receipt of a targeted assistance grant under section 6364 ofthis title results in an increase in the number of children who read proficiently.
 
 &emsp;(5) A measurement of the extent to which specific instructional materials improve reading proficiency.
 

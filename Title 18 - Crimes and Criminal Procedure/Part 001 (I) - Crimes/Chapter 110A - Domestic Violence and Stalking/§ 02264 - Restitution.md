@@ -60,7 +60,7 @@ Subsec. (b)(1). Pub. L. 104–132, §205(d)(2)(A), reenacted heading without cha
 
 Subsec. (b)(2). Pub. L. 104–132, §205(d)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
-Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(d)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
+Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(d)(2)(C), struck out subpars. (C) and (D), which related tocourt's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
 Subsec. (b)(5) to (10). Pub. L. 104–132, §205(d)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 

@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 95–396 substituted “labeling or packaging” and “req
 
 Subsec. (c)(1). Pub. L. 95–396 incorporated existing text in provisions designated par. (1) and substituted “registration for additional uses of federally registered pesticides” for “registration for pesticides”.
 
-Subsec. (c)(2). Pub. L. 95–396 incorporated existing text in provisions designated par. (2), conditioned disapproval of registration on communication of intention to disapprove and reasons for disapproval and provision for time to respond, and restricted authority of Administrator to prohibit or disapprove a State registration.
+Subsec. (c)(2). Pub. L. 95–396 incorporated existing text in provisions designated par. (2), conditioned disapproval of registration on communication of intention to disapprove and reasons for disapproval and provisionfor time to respond, and restricted authority of Administrator to prohibit or disapprove a State registration.
 
 Subsec. (c)(3). Pub. L. 95–396 added par. (3).
 

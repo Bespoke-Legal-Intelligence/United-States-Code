@@ -52,11 +52,13 @@ Notice and Wait Requirements.—A contract may not be entered into under this se
 
 &emsp;(1) the Secretary concerned submits to the appropriate committees of Congress, in writing, a justification of the need for the facility for which the contract is to be awarded and an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost effective when compared with alternative means of furnishing the same facility; and
 
-&emsp;(2) a period of 21 calendar days has expired following the date on which the justification and the economic analysis are received by the committees.
+&emsp;(2) a period of 21 days has expired following the date on which the justification and the economic analysis are received by the committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 99–167, title VIII, §811(a), Dec. 3, 1985, 99 Stat. 990; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(20), div. B, title VII, §2711, Nov. 14, 1986, 100 Stat. 3994, 4041; Pub. L. 100–180, div. B, subdiv. 3, title I, §2302(a), (b), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 100–456, div. B, title XXVIII, §2801, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §2803, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, §2805(a)(1), Dec. 5, 1991, 105 Stat. 1537.)
+(Added Pub. L. 99–167, title VIII, §811(a), Dec. 3, 1985, 99 Stat. 990; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(20), div. B, title VII, §2711, Nov. 14, 1986, 100 Stat. 3994, 4041; Pub. L. 100–180, div. B, subdiv. 3, title I, §2302(a), (b), Dec. 4, 1987, 101 Stat. 1215; Pub. L. 100–456, div. B, title XXVIII, §2801, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–189, div. B, title XXVIII, §2803, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, §2805(a)(1), Dec. 5, 1991, 105 Stat. 1537; Pub. L. 108–136, div. A, title X, §1031(a)(38), Nov. 24, 2003, 117 Stat. 1601.)
 
 #### Amendments
+
+2003—Subsec. (f)(2). Pub. L. 108–136 struck out “calendar” after “21” and inserted before period at end “or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and economic analysis are provided in an electronic medium pursuant to section 480 of this title”.
 
 1991—Pub. L. 102–190 substituted section catchline for one which read “Test of long-term facilities contracts” and amended text generally, substituting present provisions for provisions authorizing contracts for construction, management, and operation of facilities on or near military installations for the provision of certain enumerated activities or services, setting out procedures, terms, and other limits for such contracts, providing that no more than 5 contracts may be entered into under this section other than contracts for child care centers, and providing that authority to enter into such contracts was to expire on Sept. 30, 1991.
 
@@ -72,7 +74,7 @@ Subsec. (c). Pub. L. 101–189, §2803(3), substituted “1991” for “1989”
 
 Subsec. (c). Pub. L. 100–180, §2302(b), substituted “1989” for “1987”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determinesthat the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
+1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation inthe United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
 
 Pub. L. 99–661, §1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “a case” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
 
@@ -94,15 +96,17 @@ Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. 
 
 #### Demonstration Program on Reduction in Long-Term Facility Maintenance Costs
 
-Pub. L. 107–107, div. B, title XXVIII, §2814, Dec. 28, 2001, 115 Stat. 1310, provided that:
+Pub. L. 107–107, div. B, title XXVIII, §2814, Dec. 28, 2001, 115 Stat. 1310, as amended by Pub. L. 107–314, div. B, title XXVIII, §2813(a)–(d)(1), Dec. 2, 2002, 116 Stat. 2709, 2710, provided that:
 
 “(a)
 
-Authority To Carry Out Program.—The Secretary of the Army may conduct a demonstration program to assess the feasibility and desirability of including facility maintenance requirements in construction contracts for military construction projects for the purpose of determining whether such requirements facilitate reductions in the long-term facility maintenance costs of the military departments.
+Authority To Carry Out Program.—The Secretary of Defense or the Secretary of a military department may conduct a demonstration program to assess the feasibility and desirability of including facility maintenance requirements in construction contracts for military construction projects for the purpose of determining whether such requirements facilitate reductions in the long-term facility maintenance costs of the military departments.
 
 “(b)
 
-Contracts.—Not more than three contracts entered into in any year may contain requirements referred to in subsection (a) for the purpose of the demonstration program. The demonstration program may only cover contracts entered into on or after the date of the enactment of this Act \[Dec. 28, 2001\].
+Contracts.—(1) Not more than 12 contracts per military department may contain requirements referred to in subsection (a) for the purpose of the demonstration program.
+
+“(2) The demonstration program may only cover contracts entered into on or after the date of the enactment of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[Pub. L. 107–314, approved Dec. 2, 2002\], except that the Secretary of the Army shall treat any contract containing requirements referred to in subsection (a) that was entered into under the authority in such subsection between that date and December 28, 2001, as a contract for the purpose of the demonstration program.
 
 “(c)
 
@@ -110,7 +114,7 @@ Effective Period of Requirements.—The effective period of a requirement referr
 
 “(d)
 
-Reporting Requirements.—Not later than January 31, 2005, the Secretary of the Army shall submit to Congress a report on the demonstration program, including the following:
+Reporting Requirements.—Not later than January 31, 2005, the Secretary of Defense shall submit to Congress a report on the demonstration program, including the following:
 
 &emsp;“(1) A description of all contracts that contain requirements referred to in subsection (a) for the purpose of the demonstration program.
 
@@ -124,7 +128,9 @@ Expiration.—The authority under subsection (a) to include requirements referre
 
 “(f)
 
-Funding.—Amounts authorized to be appropriated for the Army for a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year.”
+Funding.—Amounts authorized to be appropriated for the military departments or defense-wide for a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year.”
+
+\[Pub. L. 107–314, div. B, title XXVIII, §2813(d)(2), Dec. 2, 2002, 116 Stat. 2710, provided that: “The amendment made by paragraph (1) \[amending section 2814(f) of Pub. L. 107–107, set out above\] shall not affect the availability for the purpose of the demonstration program under section 2814 of the Military Construction Authorization Act for Fiscal Year 2002, as amended by this section, of any amounts authorized to be appropriated before the date of the enactment of this Act \[Dec. 2, 2002\] for the Army for military construction that have been obligated for the demonstration program, but not expended, as of that date.”\]
 
 #### Report
 

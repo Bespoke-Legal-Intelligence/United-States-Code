@@ -48,7 +48,7 @@ Purpose.—To enable the people, States, and local communities of the Appalachia
 
 (c)
 
-Certification Required.—For a program, project, or activity for which any part of the basic federal contribution to the project or activity under a federal grant program is proposed to be made under subsection (b), the contribution shall not be made until the responsible federal official administering the federal law authorizing the contribution certifies that the program, project, or activity meets the applicable requirements of the federal law and could be approved for federal contribution under that law if amounts were available under the law for the program, project, or activity.
+Certification Required.—For a program, project, or activity for which any part of the basic federal contribution to the project or activity under a federal grant program is proposed to be made under subsection (b), the contribution shall not be made until the responsible federal official administering the federal law authorizing the contribution certifies that the program, project, or activity meets the applicable requirements of the federal law and could be approved for federal contribution under that law ifamounts were available under the law for the program, project, or activity.
 
 (d)
 
@@ -134,7 +134,7 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(A
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
 
-The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classifiedprincipally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 

@@ -26,7 +26,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 #### (2) Enforcement authority under other Acts
 
-&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a)of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (c) Enforcement by Board
 
@@ -46,7 +46,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 #### (d) Procedural rules
 
-The authority of the Board to prescribe regulations under this chapter does not impair theauthority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
+The authority of the Board to prescribe regulations under this chapter does not impair the authority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
 
 (Pub. L. 100–86, title VI, §610, Aug. 10, 1987, 101 Stat. 649; Pub. L. 101–73, title VII, §744(d), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–242, title II, §212(h), Dec. 19, 1991, 105 Stat. 2303.)
 

@@ -44,7 +44,7 @@
 
 &emsp;(iii) for refund of amounts received greater than the amount required to repay a commodity loan, the first business day after the Commodity Credit Corporation receives payment for such loan;
 
-&emsp;(iv) for land diversion payments (other than advance payments), the 30th day beginning after the date of completion of the production adjustment contract by the producer;
+&emsp;(iv) for land diversion payments (other than advance payments), the 30th day beginningafter the date of completion of the production adjustment contract by the producer;
 
 &emsp;(v) for an advance land diversion payment, 30 days after the date the Commodity Credit Corporation executes the contract with the producer;
 

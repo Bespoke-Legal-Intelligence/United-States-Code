@@ -32,7 +32,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 #### (d) Assistance to commercial fishermen
 
-(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
+(1) In addition to the amounts authorized under subsections (a), (b), and (c) of this section, there are authorized to be appropriated to theDepartment of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
 
 (2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
 
@@ -102,7 +102,7 @@ Subsec. (d)(3). Pub. L. 104–134, §101\[(a)\] \[title II, §211(3), (4)\], sub
 
 Subsec. (d)(4). Pub. L. 104–134, §101\[(a)\] \[title II, §211(5)\], added par. (4) and struck former par. (4) which read as follows: “A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster.”
 
-Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted “for receiving assistance underthis subsection” for “for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.”
+Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted “for receiving assistance under this subsection” for “for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.”
 
 Subsec. (d)(7). Pub. L. 104–297, §402(b), added par. (7).
 

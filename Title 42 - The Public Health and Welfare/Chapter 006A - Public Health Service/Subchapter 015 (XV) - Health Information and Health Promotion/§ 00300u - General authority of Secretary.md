@@ -180,7 +180,9 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13266. Activities To Promote Personal Fitness
 
@@ -204,9 +206,9 @@ Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
 (b) Each department and office included in section 2(a) shall report to the President, through the Secretary of Health and Human Services, its proposed actions within 90 days of the date of this order.
 
-(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of the Working Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
+(c) There shall be a Personal Fitness Interagency Working Group (Working Group), composed of the Secretaries or Director of the departments and office included in section 2(a) (or their designees) and chaired by the Secretary of HHS or his designee. In order to improve efficiency through information sharing and to eliminate waste and overlap, the Working Group shall work to ensure the cooperation of Federal agencies in coordinating Federal personal fitness activities. The Working Group shall meet subject to the call of the Chair, but not less than twice a year. The Department of Health and Human Services shall provide such administrative support to the Working Group as the Secretary of HHS deems necessary. Each member of theWorking Group shall be a full-time or permanent part-time officer or employee of the Federal Government.
 
-Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, createany right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
+Sec. 3. <i>General Provisions</i>. This order is intended only to improve the internal management of the executive branch and it is not intended to, and does not, create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or entities, its officers or employees, or any person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

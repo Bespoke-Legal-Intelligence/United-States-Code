@@ -28,17 +28,17 @@ Semiannual Reports on Obligations and Expenditures.—The Secretary shall submit
 
 Department of Defense Combating Terrorism Program.—In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
 
-(f)
-
-Congressional Defense Committees Defined.—In this section, the term “congressional defense committees” means—
-
-&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-(Added Pub. L. 106–65, div. A, title IX, §932(b)(1), Oct. 5, 1999, 113 Stat. 727.)
+(Added Pub. L. 106–65, div. A, title IX, §932(b)(1), Oct. 5, 1999, 113 Stat. 727; amended Pub. L. 108–136, div. A, title X, §1043(b)(6), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### References in Text
 
 Section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c)(1), is section 1051(b) of Pub. L. 105–85, which is set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Amendments
+
+2003—Subsec. (f). Pub. L. 108–136 struck out heading and text of subsec. (f). Text read as follows: “In this section, the term ‘congressional defense committees’ means—
+
+&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 

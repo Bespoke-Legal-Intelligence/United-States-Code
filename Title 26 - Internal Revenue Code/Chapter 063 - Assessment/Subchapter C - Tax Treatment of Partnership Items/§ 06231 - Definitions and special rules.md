@@ -104,7 +104,7 @@ For purposes of this subchapter—
 
 #### (3) Notice must be mailed before beginning of partnership proceeding
 
-&emsp;Any notice to a partner under subparagraph (A) of paragraph (1) with respect to partnership items for a partnership taxable year shallbe mailed before the day on which the Secretary mails to the tax matters partner a notice of the beginning of an administrative proceeding at the partnership level with respect to such items.
+&emsp;Any notice to a partner under subparagraph (A) of paragraph (1) with respect to partnership items for a partnership taxable year shall be mailed before the day on which the Secretary mails to the tax matters partner a notice of the beginning of an administrative proceeding at the partnership level with respect to such items.
 
 #### (c) Regulations with respect to certain special enforcement areas
 
@@ -164,7 +164,7 @@ For purposes of this subchapter—
 
 #### (f) Special rule for deductions, losses, and credits of foreign partnerships
 
-Except to the extent otherwise provided in regulations, in the case of any partnership the tax matters partner of which resides outside the United States or the books of which are maintained outside the United States, no deduction, loss, or credit shall be allowable to any partner unless section 6031 is complied with for the partnership's taxable year in which such deduction, loss, or credit arose at such time as the Secretary prescribes by regulations.
+Except to the extent otherwise provided in regulations, in the case of any partnership thetax matters partner of which resides outside the United States or the books of which are maintained outside the United States, no deduction, loss, or credit shall be allowable to any partner unless section 6031 is complied with for the partnership's taxable year in which such deduction, loss, or credit arose at such time as the Secretary prescribes by regulations.
 
 #### (g) Partnership return to be determinative of whether subchapter applies
 

@@ -2,7 +2,7 @@
 
 Whoever, being a Member of Congress or Member of Congress Elect, practices in the United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit shall be subject to the penalties set forth in section 216 of this title.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 91–405, title II, §204(d)(2), Sept. 22, 1970, 84 Stat. 853; Pub. L. 97–164, title I,§147, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–194, title IV, §403, Nov. 30, 1989, 103 Stat. 1749; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 91–405, title II, §204(d)(2), Sept. 22, 1970, 84 Stat. 853; Pub. L. 97–164, title I, §147, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–194, title IV, §403, Nov. 30, 1989, 103 Stat. 1749; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Prior Provisions
 

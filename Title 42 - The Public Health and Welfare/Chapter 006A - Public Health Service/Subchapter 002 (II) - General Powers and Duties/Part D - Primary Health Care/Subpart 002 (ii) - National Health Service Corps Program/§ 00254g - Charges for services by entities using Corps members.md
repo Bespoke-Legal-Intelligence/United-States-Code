@@ -26,7 +26,7 @@ The following rules shall apply to charges for health care services provided by 
 
 #### (B) Schedule of discounts
 
-&emsp;&emsp;Except as provided in paragraph (2), the entity shall prepare a corresponding schedule of discounts (including, in appropriate cases, waivers) to be applied to such fees or payments. In preparing the schedule, the entity shall adjust the discounts on the basis of a patient's ability to pay.
+&emsp;&emsp;Except as provided in paragraph (2), the entity shall prepare a corresponding schedule of discounts (including, in appropriate cases, waivers) to be applied to the payment of such fees or payments. In preparing the schedule, the entity shall adjust the discounts on the basis of a patient's ability to pay.
 
 #### (C) Use of schedules
 
@@ -48,7 +48,7 @@ The following rules shall apply to charges for health care services provided by 
 
 &emsp;The entity shall take reasonable and appropriate steps to collect all payments due for health care services provided by the entity, including payments from any third party (including a Federal, State, or local government agency and any other third party) that is responsible for part or all of the charge for such services.
 
-(July 1, 1944, ch. 373, title III, §334, as added Pub. L. 107–251, title III, §305, Oct. 26, 2002, 116 Stat. 1647.)
+(July 1, 1944, ch. 373, title III, §334, as added Pub. L. 107–251, title III, §305, Oct. 26, 2002, 116 Stat. 1647; amended Pub. L. 108–163, §2(i), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 
@@ -57,6 +57,14 @@ The Social Security Act, referred to in subsecs. (a)(2) and (b)(2)(B), is act Au
 #### Prior Provisions
 
 A prior section 254g, act July 1, 1944, ch. 373, title III, §334, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2274; amended Pub. L. 97–35, title XXVII, §2704, Aug. 13, 1981, 95 Stat. 906; Pub. L. 98–194, §3, Dec. 1, 1983, 97 Stat. 1345; Pub. L. 100–177, title II, §202(c), Dec. 1, 1987, 101 Stat. 996; Pub. L. 101–597, title I, §105, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035, related to shared responsibility for costs of Corps personnel providing health services in or to a health professional shortage area during the assignment period, prior to repeal by Pub. L. 107–251, title III, §305, Oct. 26, 2002, 116 Stat. 1647.
+
+#### Amendments
+
+2003—Subsec. (b)(1)(B). Pub. L. 108–163 inserted “the payment of” after “applied to”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -58,7 +58,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;(9) Reasonable efforts to preserve and support the family units of the women, including promoting the appropriate involvement of parents and others, and counseling the children of the women.
 
-&emsp;(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the community involved that provide services appropriate for the women and the children of the women.
+&emsp;(10) Planning for and counseling to assist reentry into society, both before and after discharge, including referrals to any public or nonprofit private entities in the communityinvolved that provide services appropriate for the women and the children of the women.
 
 &emsp;(11) Case management services, including—
 
@@ -100,7 +100,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;With respect to the costs of the program to be carried out by an applicant pursuant to subsection (a) of this section, a funding agreement for an award under such subsection is that the applicant will make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
 
-&emsp;&emsp;(A) for the first fiscal year for which the applicant receives payments under an awardunder such subsection, is not less than $1 for each $9 of Federal funds provided in the award;
+&emsp;&emsp;(A) for the first fiscal year for which the applicant receives payments under an award under such subsection, is not less than $1 for each $9 of Federal funds provided in the award;
 
 &emsp;&emsp;(B) for any second such fiscal year, is not less than $1 for each $9 of Federal funds provided in the award; and
 
@@ -124,7 +124,7 @@ A funding agreement for an award under subsection (a) of this section for an app
 
 #### (i) Continuing education
 
-A funding agreement for an award under subsection (a) of this section is that the applicant involved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
+A funding agreement for an award under subsection (a) of this section is that the applicantinvolved will provide for continuing education in treatment services for the individuals who will provide treatment in the program to be operated by the applicant pursuant to such subsection.
 
 #### (j) Imposition of charges
 

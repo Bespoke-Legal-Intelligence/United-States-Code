@@ -2,7 +2,7 @@
 
 (a) With his consent, any member of the Army or the Air Force whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, or rank under section 1210(f) of this title, shall—
 
-&emsp;(1) if a commissioned officer of a regular component, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to the active-duty list in the regular grade held by him when his name was placed on the temporary disability retired list, or in the next higher regular grade;
+&emsp;(1) if a commissioned officer of a regular component, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to the active-duty list in theregular grade held by him when his name was placed on the temporary disability retired list, or in the next higher regular grade;
 
 &emsp;(2) if a warrant officer of a regular component, be recalled to active duty and, as soon as practicable, be reappointed by the Secretary concerned in the regular grade held by him when his name was placed on the temporary disability retired list, or in the next higher regular warrant grade;
 
@@ -26,7 +26,7 @@
 
 &emsp;(5) if a member of a reserve component be reappointed or reenlisted in his reserve component in the grade permanently held by him when his name was placed on the temporary disability retired list or, if that permanent grade is not chief petty officer or master sergeant, in the next higher grade in that reserve component.
 
-(c) If a member is appointed, reappointed, enlisted, or reenlisted, or resumes his status in the Fleet Reserve or the Fleet Marine Corps Reserve, under subsection (a) or (b), his status on the temporary disability retired list terminateson the date of his appointment, reappointment, enlistment, reenlistment, or resumption, as the case may be. However, if such a member does not consent to the action proposed under subsection (a) or (b), and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title, his status on the temporary disability retired list and his disability retired pay shall be terminated as soon as practicable and the member shall be discharged.
+(c) If a member is appointed, reappointed, enlisted, or reenlisted, or resumes his status in the Fleet Reserve or the Fleet Marine Corps Reserve, under subsection (a) or (b), his status on the temporary disability retired list terminates on the date of his appointment, reappointment, enlistment, reenlistment, or resumption, as the case may be. However, if such a member does not consent to the action proposed under subsection (a) or (b), and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title, his status on the temporary disability retired list and his disability retired pay shall be terminated as soon as practicable and the member shall be discharged.
 
 (d) Disability retired pay of a member covered by this section terminates—
 
@@ -36,7 +36,7 @@
 
 &emsp;(3) on the date when he is appointed, reappointed, enlisted, or reenlisted, for any other member of the armed forces.
 
-(e) Whenever seniority in grade or years of service is a factor in determining the qualifications of a member of the armed forces for promotion, each member who has been appointed, reappointed, enlisted, or reenlisted, under subsection (a) or (b), shall, when his name is placed on a lineal list, a promotion list, an approved all-fully-qualified-officers list, or any similar list, have the seniority in grade and be credited with the years of service authorized by the Secretary concerned. The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made in that grade under this section. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.
+(e) Whenever seniority in grade or years of service is a factor in determining the qualifications of a member of the armed forces for promotion, each member who has been appointed, reappointed, enlisted, or reenlisted, under subsection (a) or (b), shall, when his name is placed on a lineal list, a promotion list, an approved all-fully-qualified-officers list, or any similar list, have the seniority in grade and be credited with the years of service authorized by the Secretary concerned. The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made in that grade under thissection. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.
 
 (f) Action under this section shall be taken on a fair and equitable basis, with regard being given to the probable opportunities for advancement and promotion that the member might reasonably have had if his name had not been placed on the temporary disability retired list.
 
@@ -178,7 +178,7 @@ The changes correct typographical errors.
 
 2001—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
 
-1985—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after“proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
+1985—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after “proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
 
 1980—Subsec. (a)(1). Pub. L. 96–513 substituted “active-duty list” for “active list of his regular component”.
 
@@ -187,6 +187,10 @@ The changes correct typographical errors.
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

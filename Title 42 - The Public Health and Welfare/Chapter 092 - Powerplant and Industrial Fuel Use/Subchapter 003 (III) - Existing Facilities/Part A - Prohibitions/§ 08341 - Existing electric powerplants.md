@@ -16,7 +16,7 @@ At any time, the owner or operator of an existing electric powerplant may certif
 
 #### (b) Authority of Secretary to prohibit where coal or alternate fuel capability exists
 
-The Secretary may prohibit, in accordance with section 8343(a) or (b) of this title, the use of petroleum or natural gas, or both, as a primary energy source in any existing electric powerplant, if an affirmative certification under subsection (a)(1), (2), and (3) of this section is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification.
+The Secretary may prohibit, in accordance with section 8343(a) or (b) of this title, the use of petroleum or natural gas, or both, as a primary energy source in any existing electric powerplant, if an affirmative certification under subsection (a)(1), (2), and (3) of this section is in effect with respect to such powerplant and if,after examining the basis for the certification, the Secretary concurs with the certification.
 
 #### (c) Authority of Secretary to prohibit excessive use in mixtures
 
@@ -30,7 +30,7 @@ The owner or operator of any such powerplant may at any time amend any certifica
 
 #### Prior Provisions
 
-A prior section 8341, Pub. L. 95–620, title III, §301, Nov. 9, 1978, 92 Stat. 3305, related to existing electricpowerplants, prior to repeal by Pub. L. 97–35, title X, §1021(a), Aug. 13, 1981, 95 Stat. 614.
+A prior section 8341, Pub. L. 95–620, title III, §301, Nov. 9, 1978, 92 Stat. 3305, related to existing electric powerplants, prior to repeal by Pub. L. 97–35, title X, §1021(a), Aug. 13, 1981, 95 Stat. 614.
 
 #### Effective Date
 

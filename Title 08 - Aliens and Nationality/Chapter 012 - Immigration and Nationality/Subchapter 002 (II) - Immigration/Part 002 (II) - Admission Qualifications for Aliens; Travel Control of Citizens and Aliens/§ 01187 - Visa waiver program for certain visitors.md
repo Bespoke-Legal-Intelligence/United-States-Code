@@ -12,7 +12,7 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 &emsp;The alien is a national of, and presents a passport issued by, a country which—
 
-&emsp;&emsp;(A) extends (or agrees to extend), either on its own or in conjunction with one or moreother countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions, reciprocal privileges to citizens and nationals of the United States, and
+&emsp;&emsp;(A) extends (or agrees to extend), either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions, reciprocal privileges to citizens and nationals of the United States, and
 
 &emsp;&emsp;(B) is designated as a pilot program country under subsection (c) of this section.
 
@@ -80,7 +80,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(i) the average number of refusals of nonimmigrant visitor visas for nationals of that country during—
 
-&emsp;&emsp;&emsp;&emsp;(I) the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visasfor nationals of that country which were granted or refused during those years; and
+&emsp;&emsp;&emsp;&emsp;(I) the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years; and
 
 &emsp;&emsp;&emsp;&emsp;(II) either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year; or
 
@@ -124,7 +124,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(i) the total of the number of nationals of that country who were denied admission at the time of arrival or withdrew their application for admission during such previous fiscal year as a nonimmigrant visitor, and
 
-&emsp;&emsp;&emsp;(ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during such previous fiscal year and who violated the terms of such admission,
+&emsp;&emsp;&emsp;(ii) the total number of nationals of that country who were admitted as nonimmigrant visitors during such previousfiscal year and who violated the terms of such admission,
 
 > &emsp;&emsp;was less than 2 percent of the total number of nationals of that country who applied for admission as nonimmigrant visitors during such previous fiscal year.
 
@@ -194,7 +194,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) the emergency that caused the termination has ended; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationals of that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
+&emsp;&emsp;&emsp;&emsp;(III) the average number of refusals of nonimmigrant visitor visas for nationalsof that country during the period of termination under this subparagraph was less than 3.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during such period.
 
 #### (C) Treatment of nationals after termination
 
@@ -418,11 +418,11 @@ Subsec. (a)(1). Pub. L. 106–396, §101(a)(2)(C), substituted “program” for
 
 Subsec. (a)(2). Pub. L. 106–396, §101(a)(2)(D), in heading struck out “pilot” before “program”.
 
-Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted “, either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions,” after “to extend)”.
+Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted “, either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions,” after “to extend)”.
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
+Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted “, including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e) of this section. The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement” for “which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer”.
 
 Pub. L. 106–396, §202(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -464,7 +464,7 @@ Subsec. (e)(1)(B). Pub. L. 106–396, §101(a)(5)(B), struck out “pilot” bef
 
 Subsec. (e)(1)(D). Pub. L. 106–396, §205(b), added subpar. (D).
 
-Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted “carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier” and “failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier's failure”.
+Subsec. (e)(2). Pub. L. 106–396, §403(d)(1), substituted “carrier (including any carrier conducting operationsunder part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier” and “failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title” for “carrier's failure”.
 
 Subsec. (e)(3). Pub. L. 106–396, §403(d)(2), added par. (3).
 

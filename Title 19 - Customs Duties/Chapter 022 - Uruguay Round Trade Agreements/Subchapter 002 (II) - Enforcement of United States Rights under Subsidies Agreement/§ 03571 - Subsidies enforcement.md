@@ -12,7 +12,7 @@ The administering authority shall provide information to the public upon request
 
 #### (1) Notification of Trade Representative
 
-&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that a class or kind ofmerchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall notify the Trade Representative and shall provide the Trade Representative with the information upon which the administering authority based its determination.
+&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that a class or kind of merchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall notify the Trade Representative and shall provide the Trade Representative with the information upon which the administering authority based its determination.
 
 #### (2) Request by interested party regarding prohibited subsidy
 
@@ -42,7 +42,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (B) Request by interested party regarding violation of Article 8
 
-&emsp;&emsp;An interested party may request the administering authority to determine if there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;&emsp;An interested party may request the administering authority to determine if thereis reason to believe that a violation of Article 8 of the Subsidies Agreement exists. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that additional information is needed, the administering authority shall recommend to the Trade Representative that the Trade Representative seek, pursuant to Article 8.3 or 8.4 of the Subsidies Agreement, additional information regarding the particular notified subsidy program or a subsidy granted pursuant to the notified subsidy program. If the administering authority determines that there is reason to believe that a violation of Article 8 of the Subsidies Agreement exists, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (C) Action by Trade Representative
 
@@ -170,7 +170,7 @@ For purposes of this section:
 
 #### (i) Treatment of proprietary information
 
-Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietaryinformation submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
+Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietary information submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
 
 (Pub. L. 103–465, title II, §281, Dec. 8, 1994, 108 Stat. 4922; Pub. L. 104–295, §20(b)(13), Oct. 11, 1996, 110 Stat. 3527.)
 

@@ -48,7 +48,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 Any insurance agreement described in subsection (a) of this section shall provide as follows:
 
-&emsp;(1) The payment of principal and interest on bonds shall be insured by the Secretary until such time as such bonds have been retired or canceled.
+&emsp;(1) The payment of principal and interest on bonds shall be insured by the Secretary untilsuch time as such bonds have been retired or canceled.
 
 &emsp;(2) The Federal liability for delinquencies and default for bonds guaranteed under this part shall only become effective upon the exhaustion of all the funds held in the escrow account described in subsection (b)(8) of this section.
 

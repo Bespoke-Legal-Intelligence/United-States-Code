@@ -20,7 +20,7 @@ The Secretary is authorized to abate the unpaid portion of the assessment of any
 
 #### (d) Assessments attributable to certain mathematical errors by Internal Revenue Service
 
-In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date ofnotice and demand by the Secretary for payment of the deficiency.
+In the case of an assessment of any tax imposed by chapter 1 attributable in whole or in part to a mathematical error described in section 6213(g)(2)(A), if the return was prepared by an officer or employee of the Internal Revenue Service acting in his official capacity to provide assistance to taxpayers in the preparation of income tax returns, the Secretary is authorized to abate the assessment of all or any part of any interest on such deficiency for any period ending on or before the 30th day following the date of notice and demand by the Secretary for payment of the deficiency.
 
 #### (e) Abatement of interest attributable to unreasonable errors and delays by Internal Revenue Service
 
@@ -108,7 +108,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 #### (A) Date of mailing
 
-&emsp;&emsp;Rules similar to the rules of section 6213 shall apply for purposes of determining thedate of the mailing referred to in paragraph (1).
+&emsp;&emsp;Rules similar to the rules of section 6213 shall apply for purposes of determining the date of the mailing referred to in paragraph (1).
 
 #### (B) Relief
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
-Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3305(b), July 22, 1998, 112 Stat. 743, provided that: “The amendments made bythis section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].”
 
 Pub. L. 105–206, title III, §3309(b), (c), July 22, 1998, 112 Stat. 745, provided that:
 

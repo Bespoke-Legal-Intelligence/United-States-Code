@@ -10,7 +10,7 @@ The Assistant Secretary of Commerce for Economic Development shall be compensate
 
 #### (c) Duties
 
-The Assistant Secretary of Commerce for Economic Development shall carry out such dutiesas the Secretary shall require and shall serve as the administrator of the Economic Development Administration of the Department.
+The Assistant Secretary of Commerce for Economic Development shall carry out such duties as the Secretary shall require and shall serve as the administrator of the Economic Development Administration of the Department.
 
 (Pub. L. 89–136, title V, §501, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3610.)
 

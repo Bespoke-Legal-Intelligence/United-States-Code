@@ -10,7 +10,7 @@ In case of failure—
 
 &emsp;(3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 
-> In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the dateprescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
+> In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $100 or 100 percent of the amount required to be shown as tax on such return.
 
 #### (b) Penalty imposed on net amount due
 
@@ -84,7 +84,7 @@ Subsec. (g). Pub. L. 104–168, §1301(a), added subsec. (g).
 
 1987—Subsec. (e). Pub. L. 100–203 substituted “section 6654 or 6655” for “section 6154 or 6654”.
 
-1986—Subsec. (c)(1). Pub. L. 99–514, §1502(b), amended par. (1) generally, striking out the designation “(A)” before “With respect to”, inserting “(or fraction thereof)”, and striking out subpar. (B) which read as follows: “With respect to any return, the maximum amount ofthe addition permitted under paragraph (3) of subsection (a) shall be reduced by the amount of the addition under paragraph (1) of subsection (a) (determined without regard to the last sentence of such subsection) which is attributable to the tax for which the notice and demand is made and which is not paid within 10 days of notice and demand.”
+1986—Subsec. (c)(1). Pub. L. 99–514, §1502(b), amended par. (1) generally, striking out the designation “(A)” before “With respect to”, inserting “(or fraction thereof)”, and striking out subpar. (B) which read as follows: “With respect to any return, the maximum amount of the addition permitted under paragraph (3) of subsection (a) shall be reduced by the amount of the addition under paragraph (1) of subsection (a) (determined without regard to the last sentence of such subsection) which is attributable to the tax for which the notice and demand is made and which is not paid within 10 days of notice and demand.”
 
 Subsecs. (d), (e). Pub. L. 99–514, §1502(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 

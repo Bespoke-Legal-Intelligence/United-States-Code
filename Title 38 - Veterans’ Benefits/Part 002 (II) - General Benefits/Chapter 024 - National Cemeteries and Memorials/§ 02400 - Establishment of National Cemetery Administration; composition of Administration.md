@@ -34,7 +34,7 @@ Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for 
 
 1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions asmay be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
+1988—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
 
 1986—Subsec. (a). Pub. L. 99–576 substituted “servicemembers” for “servicemen” and “The Administrator” for “To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator”.
 
@@ -59,6 +59,56 @@ Section 10(a) of Pub. L. 93–43 provided that: “The first section \[set out a
 #### Short Title
 
 For short title of Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which enacted this chapter, as the “National Cemeteries Act of 1973”, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title.
+
+#### National Cemetery Expansion
+
+Pub. L. 108–109, Nov. 11, 2003, 117 Stat. 1322, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘National Cemetery Expansion Act of 2003’.
+
+#### “SEC. 2. ESTABLISHMENT OF NEW NATIONAL CEMETERIES.
+
+“(a)
+
+Establishment.—Not later than 4 years after the date of the enactment of this Act \[Nov. 11, 2003\], the Secretary of Veterans Affairs, in accordance with chapter 24 of title 38, United States Code, shall establish six new national cemeteries. The new cemeteries shall be located in the following locations (those locations having been determined by the Secretary of Veterans Affairs to be the most appropriate locations for new national cemeteries):
+
+&emsp;“(1) Southeastern Pennsylvania.
+
+&emsp;“(2) The Birmingham, Alabama, area.
+
+&emsp;“(3) The Jacksonville, Florida, area.
+
+&emsp;“(4) The Bakersfield, California, area.
+
+&emsp;“(5) The Greenville/Columbia, South Carolina, area.
+
+&emsp;“(6) The Sarasota County, Florida, area.
+
+“(b)
+
+Funds.—Amounts appropriated for the Department of Veterans Affairs for any fiscal year after fiscal year 2003 for Advance Planning shall be available for the purposes of subsection (a).
+
+“(c)
+
+Site Selection Process.—In determining the specific sites for the new cemeteries required by subsection (a) within the locations specified in that subsection, the Secretary shall solicit the advice and views of representatives of State and local veterans organizations and other individuals as the Secretary considers appropriate.
+
+“(d)
+
+Initial Report.—Not later than 120 days after the date of the enactment of this Act \[Nov. 11, 2003\], the Secretary shall submit to Congress a report on the establishment of the national cemeteries required by subsection (a). The report shall—
+
+&emsp;“(1) set forth a schedule for the establishment of each such cemetery and an estimate of the costs associated with the establishment of each such cemetery; and
+
+&emsp;“(2) identify the amount of Advance Planning Funds obligated for purposes of this section as of the submission of the report.
+
+“(e)
+
+Annual Reports.—The Secretary shall submit to Congress an annual report on the implementation of this section until the establishment of all six cemeteries is completed and each such cemetery has opened. The Secretary shall include in each such annual report an update of the information provided under paragraphs (1) and (2) of subsection (d).
+
+“(f)
+
+Definition of Southeastern Pennsylvania.—In this section, the term ‘southeastern Pennsylvania’ means the city of Philadelphia and Berks County,Bucks County, Chester County, Delaware County, Philadelphia County, and Montgomery County in the State of Pennsylvania.”
 
 #### Establishment of Additional National Cemeteries
 

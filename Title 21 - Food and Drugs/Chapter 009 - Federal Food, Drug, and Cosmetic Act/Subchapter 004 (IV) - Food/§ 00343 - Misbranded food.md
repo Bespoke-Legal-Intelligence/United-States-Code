@@ -28,7 +28,7 @@ If any word, statement, or other information required by or under authority of t
 
 #### (g) Representation as to definition and standard of identity
 
-If it purports to be or is represented as a food for which a definition and standard of identity has been prescribed by regulations as provided by section 341 of this title, unless (1) it conforms to such definition and standard, and (2) its label bears the name of the food specified in the definition and standard, and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food.
+If it purports to be or is represented as a food for which a definition and standard of identity has been prescribed by regulations as provided by section 341 of this title, unless (1) it conforms to such definition and standard, and (2) its label bears the name of the food specified in the definition and standard, and, insofar as may be required by such regulations, the common namesof optional ingredients (other than spices, flavoring, and coloring) present in such food.
 
 #### (h) Representation as to standards of quality and fill of container
 
@@ -58,7 +58,7 @@ If it purports to be or is represented as—
 
 #### (i) Label where no representation as to definition and standard of identity
 
-Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup>unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
+Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
 
 #### (j) Representation for special dietary use
 
@@ -154,7 +154,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (B) Subparagraphs (1) and (2) shall not apply to the label of a food if the Secretary determines by regulations that compliance with such subparagraphs is impracticable because the package of such food is too small to comply with the requirements of such subparagraphs and if the label of such food does not contain any nutrition information.
 
-(C) If a food contains insignificant amounts, as determined by the Secretary, of all the nutrients required by subparagraphs (1) and (2) to be listed in the label or labeling of food, the requirements of such subparagraphs shall not apply to such food if the label, labeling, or advertising of such food does not make any claim with respect to the nutritional value of such food. If a food contains insignificant amounts,as determined by the Secretary, of more than one-half the nutrients required by subparagraphs (1) and (2) to be in the label or labeling of the food, the Secretary shall require the amounts of such nutrients to be stated in a simplified form prescribed by the Secretary.
+(C) If a food contains insignificant amounts, as determined by the Secretary, of all the nutrients required by subparagraphs (1) and (2) to be listed in the label or labeling of food, the requirements of such subparagraphs shall not apply to such food if the label, labeling, or advertising of such food does not make any claim with respect to the nutritional value of such food. If a food contains insignificant amounts, as determined by the Secretary, of more than one-half the nutrients required by subparagraphs (1) and (2) to be in the label or labeling of the food, the Secretary shall require the amounts of such nutrients to be stated in a simplified form prescribed by the Secretary.
 
 (D) If a person offers food for sale and has annual gross sales made or business done in sales to consumers which is not more than $500,000 or has annual gross sales made or business done in sales of food to consumers which is not more than $50,000, the requirements of subparagraphs (1), (2), (3), and (4) shall not apply with respect to food sold by such person to consumers unless the label or labeling of food offered by such person provides nutrition information or makes a nutrition claim.
 
@@ -174,7 +174,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(II) during the 12-month period preceding May 8, 1995, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 300 full-time equivalent employees and fewer than 400,000 units of such product were sold in the United States, or
 
-&emsp;(III) during the 12-month period preceding May 8, 1996, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 200 full-time equivalent employees and fewer than 200,000 units of such product were sold in the United States.
+&emsp;(III) during the 12-month period preceding May 8, 1996, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 200 full-time equivalent employees and fewer than200,000 units of such product were sold in the United States.
 
 (iii) The notice referred to in subclauses (i) and (ii) shall be given to the Secretary prior to the beginning of the period during which the exemption under subclause (i) or (ii) is to be in effect, shall state that the person claiming such exemption for a food product has complied with the applicable requirements of subclause (i) or (ii), and shall—
 
@@ -224,7 +224,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (2)(A) Except as provided in subparagraphs (4)(A)(ii) and (4)(A)(iii) and clauses (A) through (C) of subparagraph (5), a claim described in subparagraph (1)(A)—
 
-&emsp;(i) may be made only if the characterization of the level made in the claim uses terms which are defined in regulations of the Secretary,
+&emsp;(i) may be made only if the characterization of the level made in the claim uses termswhich are defined in regulations of the Secretary,
 
 &emsp;(ii) may not state the absence of a nutrient unless—
 
@@ -244,7 +244,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(vi) may not be made if the Secretary by regulation prohibits the claim because the claim is misleading in light of the level of another nutrient in the food.
 
-(B) If a claim described in subparagraph (1)(A) is made with respect to a nutrient in a food and the Secretary makes a determination that the food contains a nutrient at a level that increases to persons in the general population the risk of a disease or health-related condition that is diet related, the label or labeling of such foodshall contain, prominently and in immediate proximity to such claim, the following statement: “See nutrition information for \_\_\_\_\_\_ content.” The blank shall identify the nutrient associated with the increased disease or health-related condition risk. In making the determination described in this clause, the Secretary shall take into account the significance of the food in the total daily diet.
+(B) If a claim described in subparagraph (1)(A) is made with respect to a nutrient in a food and the Secretary makes a determination that the food contains a nutrient at a level that increases to persons in the general population the risk of a disease or health-related condition that is diet related, the label or labeling of such food shall contain, prominently and in immediate proximity to such claim, the following statement: “See nutrition information for \_\_\_\_\_\_ content.” The blank shall identify the nutrient associated with the increased disease or health-related condition risk. In making the determination described in this clause, the Secretary shall take into account the significance of the food in the total daily diet.
 
 (C) Subparagraph (2)(A) does not apply to a claim described in subparagraph (1)(A) and contained in the label or labeling of a food if such claim is contained in the brand name of such food and such brand name was in use on such food before October 25, 1989, unless the brand name contains a term defined by the Secretary under subparagraph (2)(A)(i). Such a claim is subject to paragraph (a).
 
@@ -258,7 +258,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, which identifies the nutrient level to which the claim refers;
 
-&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the nutrient level to which the claim refers;
+&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II)a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the nutrient level to which the claim refers;
 
 &emsp;(iii) the claim and the food for which the claim is made are in compliance with clauses (A) and (B), and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
 
@@ -318,7 +318,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (ii) Any person may petition the Secretary for permission to use in a claim described in subparagraph (1)(A) terms that are consistent with the terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days of the submission of such a petition, the Secretary shall issue a final decision denying the petition or granting such permission.
 
-(iii) Any person may petition the Secretary for permission to use an implied claim described in subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to comment on the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretaryunder subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
+(iii) Any person may petition the Secretary for permission to use an implied claim described in subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to comment on the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretary under subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
 
 (B) A petition under clause (A)(i) respecting a claim described in subparagraph (1)(A) or (1)(B) shall include an explanation of the reasons why the claim meets the requirements of this paragraph and a summary of the scientific data which supports such reasons.
 
@@ -340,7 +340,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(C) the statement contains, prominently displayed and in boldface type, the following: “This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.”.
 
-> A statement under this subparagraph may not claim to diagnose, mitigate, treat, cure, or prevent a specific disease or class of diseases. If the manufacturer of a dietary supplement proposes to make a statement described in the first sentence of this subparagraph in the labeling of the dietary supplement, the manufacturer shall notify the Secretary no later than 30 days after the first marketing of the dietary supplement with such statement that such a statement is being made.
+> A statement under this subparagraph may not claim to diagnose, mitigate, treat, cure, or prevent a specific disease or class of diseases. If the manufacturer of a dietary supplement proposes to make a statement described in the first sentence of this subparagraph in the labeling of the dietary supplement, the manufacturer shall notify the Secretary no later than 30 days after the first marketing of the dietary supplement withsuch statement that such a statement is being made.
 
 (7) The Secretary may make proposed regulations issued under this paragraph effective upon publication pending consideration of public comment and publication of a final regulation if the Secretary determines that such action is necessary—
 
@@ -526,7 +526,7 @@ Section 10(a) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, �
 
 &emsp;&emsp;“(i) the date of the promulgation of final regulations to implement section 403(r) of the Federal Food, Drug, and Cosmetic Act, or
 
-&emsp;&emsp;“(ii) if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations \[Nov. 8, 1992, see 57 F.R. 56347\], except that any person marketing a food the brand name of which contains a term defined by the Secretary under section 403(r)(2)(A)(i) of the Federal Food, Drug, and Cosmetic Act shall be given an additional 6 months to comply with section 3,
+&emsp;&emsp;“(ii) if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations \[Nov. 8, 1992, see 57 F.R.56347\], except that any person marketing a food the brand name of which contains a term defined by the Secretary under section 403(r)(2)(A)(i) of the Federal Food, Drug, and Cosmetic Act shall be given an additional 6 months to comply with section 3,
 
 &emsp;“(C) the amendments made by section 4 \[amending section 337 of this title\] shall take effect 24 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that such amendments shall take effect with respect to such dietary supplements \[probably means dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances, see section 202(a)(1) of Pub. L. 102–571, set out below\] on December 31, 1993, and
 
@@ -588,7 +588,7 @@ Section 9 of Pub. L. 101–535 provided that: “The amendments made by this Act
 
 Section 2(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that:
 
-“(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\] within 12 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\] Such regulations shall—
+“(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\] within 12 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not laterthan 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\] Such regulations shall—
 
 &emsp;“(A) require the required information to be conveyed to the public in a manner which enables the public to readily observe and comprehend such information and to understand its relative significance in the context of a total daily diet,
 

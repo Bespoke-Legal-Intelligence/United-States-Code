@@ -28,7 +28,7 @@ An exemption granted under this section to any employer with respect to wages pa
 
 &emsp;(2) ending with the last day of the calendar quarter preceding the first calendar quarter thereafter in which (A) such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet the applicable requirements of subsection (a), or (B) the sect or division thereof of which such employer (or, if the employer is a partnership, any partner therein) or employee is a member is found by the Commissioner of Social Security to have ceased to meet the requirements of subsection (b)(2).
 
-(Added Pub. L. 100–647, title VIII, §8007(a)(1), Nov. 10, 1988, 102 Stat. 3781; amended Pub. L. 101–239, title X, §10204(b)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 103–296, title I, §108(h)(3), Aug. 15, 1994, 108 Stat. 1487.)
+(Added Pub. L. 100–647, title VIII, §8007(a)(1), Nov. 10, 1988, 102 Stat. 3781; amended Pub. L.101–239, title X, §10204(b)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 103–296, title I, §108(h)(3), Aug. 15, 1994, 108 Stat. 1487.)
 
 #### References in Text
 

@@ -56,7 +56,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(c)(2)(A)\], redesignated su
 
 #### Temporary Authority To Dispose of Gift Previously Accepted for Naval Academy
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §943\], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, provided that: “Notwithstanding section 6973 of title 10, United States Code, during fiscal year 2001 the Secretary of the Navy may dispose of a gift accepted before the date of the enactment of this Act \[Oct. 30, 2000\] for the United States Naval Academy by disbursing from the United States Naval Academy general gift fund to an entity designated by the donor of the gift the amount equal to the current cash value of that gift.”
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §943\], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, provided that: “Notwithstanding section 6973 of title 10, United States Code, during fiscal year 2001 the Secretary of the Navy may dispose of a gift accepted before the date of the enactment of this Act \[Oct. 30, 2000\] for the United StatesNaval Academy by disbursing from the United States Naval Academy general gift fund to an entity designated by the donor of the gift the amount equal to the current cash value of that gift.”
 
 #### Section Referred to in Other Sections
 

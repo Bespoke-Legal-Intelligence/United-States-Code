@@ -2,7 +2,7 @@
 
 #### (a) Percentage limitation of private capital
 
-If any small business investment company has obtained financing from the Administration and such financing remains outstanding, the aggregate amount of obligations and securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not exceed 20 per centum of the private capital of such company, without the approval of the Administration.
+If any small business investment company has obtained financing from the Administration andsuch financing remains outstanding, the aggregate amount of obligations and securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not exceed 20 per centum of the private capital of such company, without the approval of the Administration.
 
 #### (b) Repealed. Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316
 
@@ -10,7 +10,7 @@ If any small business investment company has obtained financing from the Adminis
 
 With respect to obligations or securities acquired prior to the effective date of the Small Business Investment Act Amendments of 1967, and with respect to legally binding commitments issued prior to such date, the provisions of this section as in effect immediately prior to such effective date shall continue to apply.
 
-(Pub. L. 85–699, title III, §306, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §7(a), Oct. 3, 1961, 75Stat. 753; Pub. L. 88–273, §4, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §207, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 102–366, title IV, §408(a), Sept. 4, 1992, 106 Stat. 1016.)
+(Pub. L. 85–699, title III, §306, Aug. 21, 1958, 72 Stat. 694; Pub. L. 87–341, §7(a), Oct. 3, 1961, 75 Stat. 753; Pub. L. 88–273, §4, Feb. 28, 1964, 78 Stat. 146; Pub. L. 90–104, title II, §207, Oct. 11, 1967, 81 Stat. 271; Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316; Pub. L. 102–366, title IV, §408(a), Sept. 4, 1992, 106 Stat. 1016.)
 
 #### References in Text
 

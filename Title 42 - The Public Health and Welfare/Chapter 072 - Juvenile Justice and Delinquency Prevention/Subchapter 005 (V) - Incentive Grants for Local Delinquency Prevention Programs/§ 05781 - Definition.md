@@ -14,7 +14,7 @@ A prior section 5781, Pub. L. 93–415, title V, §502, as added Pub. L. 102–5
 
 #### Effective Date
 
-Pub. L. 107–273, div. C, title II, §12222(b), Nov. 2, 2002, 116 Stat. 1896, provided that: “The amendment made by subsection (a) \[enacting sections 5781 to 5784 of this title and provisions set out as a note under section 5601 of this title\] shall take effect on October 1, 2002, and shall not apply with respect to grants made before such date.”
+Pub. L. 107–273, div. C, title II, §12222(b), Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, §110(1), Feb. 20, 2003, 117 Stat. 67, provided that: “The amendment made by subsection (a) \[enacting sections 5781 to 5784 of this title and provisions set out as a note under section 5601 of this title\] shall take effect on the effective date provided in section 12102(b) \[set out as a note under section 3796ee of this title\], and shall not apply with respect to grants made before such date.”
 
 #### Short Title
 

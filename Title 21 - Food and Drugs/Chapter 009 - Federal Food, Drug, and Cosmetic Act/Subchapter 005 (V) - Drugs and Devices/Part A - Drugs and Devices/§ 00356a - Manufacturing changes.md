@@ -12,7 +12,7 @@ With respect to a drug for which there is in effect an approved application unde
 
 #### (b) Validation of effects of changes
 
-For purposes of subsection (a)(1) of this section, a drug made with a manufacturing change (whether a major manufacturing change or otherwise) may be distributed only if, before distribution of the drug as so made, the holder involved validates the effects of the change on the identity, strength, quality, purity, and potency of the drug as the identity, strength, quality, purity, and potency may relate to the safety or effectiveness of the drug.
+For purposes of subsection (a)(1) of this section, a drug made with a manufacturing change\(whether a major manufacturing change or otherwise) may be distributed only if, before distribution of the drug as so made, the holder involved validates the effects of the change on the identity, strength, quality, purity, and potency of the drug as the identity, strength, quality, purity, and potency may relate to the safety or effectiveness of the drug.
 
 #### (c) Major manufacturing changes
 
@@ -46,7 +46,7 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 #### (A) Submission of report
 
-&emsp;&emsp;A holder making a manufacturing change to which paragraph (1)(A) applies shall submit to the Secretary a report on the change, which shall contain such information as theSecretary determines to be appropriate, and which shall include the information developed under subsection (b) of this section by the holder in validating the effects of the change. The report shall be submitted by such date as the Secretary may specify.
+&emsp;&emsp;A holder making a manufacturing change to which paragraph (1)(A) applies shall submit to the Secretary a report on the change, which shall contain such information as the Secretary determines to be appropriate, and which shall include the information developed under subsection (b) of this section by the holder in validating the effects of the change. The report shall be submitted by such date as the Secretary may specify.
 
 #### (B) Authority regarding annual reports
 
@@ -72,5 +72,5 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 #### Effective Date
 
-Section 116(b) of Pub. L. 105–115 provided that: “The amendment made by subsection (a) \[enacting this section\] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first.”
+Section 116(b) of Pub. L. 105–115 provided that: “The amendment made by subsection (a) \[enacting this section\] takes effect upon the effective date of regulations promulgated by the Secretary of Health and HumanServices to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act \[Nov. 21, 1997\], whichever occurs first.”
 

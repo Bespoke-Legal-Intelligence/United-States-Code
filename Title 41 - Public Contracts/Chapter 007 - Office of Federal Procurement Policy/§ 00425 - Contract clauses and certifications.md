@@ -2,7 +2,7 @@
 
 #### (a) Nonstandard contract clauses
 
-The Federal Acquisition Regulatory Council shall promulgate regulations to discourage the use of a nonstandard contract clause on a repetitive basis. The regulations shall include provisions that—
+The Federal Acquisition Regulatory Council shall promulgate regulations to discourage theuse of a nonstandard contract clause on a repetitive basis. The regulations shall include provisions that—
 
 &emsp;(1) clearly define what types of contract clauses are to be treated as nonstandard clauses; and
 

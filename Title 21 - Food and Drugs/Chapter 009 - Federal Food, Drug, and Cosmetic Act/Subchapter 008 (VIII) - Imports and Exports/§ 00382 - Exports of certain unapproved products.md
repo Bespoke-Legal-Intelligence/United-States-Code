@@ -92,7 +92,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 #### (e) Diagnosis, prevention, or treatment of tropical disease
 
-(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients in such country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
+(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients insuch country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
 
 (2) The holder of an approved application for the export of a drug or device under this subsection shall report to the Secretary—
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 Insulin and antibiotic drugs may be exported without regard to the requirements in this section if the insulin and antibiotic drugs meet the requirements of section 381(e)(1) of this title.
 
-(June 25, 1938, ch. 675, §802, as added Pub. L. 99–660, title I, §102(2), Nov. 14, 1986, 100 Stat. 3743; amended Pub. L. 104–134, title III, §2102(d)(1), Apr. 26, 1996, 110 Stat. 1321–315; Pub. L. 104–180, title VI, §603(c), Aug. 6, 1996, 110 Stat. 1595; Pub. L. 105–115, title I, §125(c), Nov. 21, 1997, 111 Stat. 2326.)
+(June 25, 1938, ch. 675, §802, as added Pub. L. 99–660, title I, §102(2), Nov. 14, 1986, 100 Stat. 3743; amended Pub. L. 104–134, title III, §2102(d)(1),Apr. 26, 1996, 110 Stat. 1321–315; Pub. L. 104–180, title VI, §603(c), Aug. 6, 1996, 110 Stat. 1595; Pub. L. 105–115, title I, §125(c), Nov. 21, 1997, 111 Stat. 2326.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Subsec. (f)(5). Pub. L. 104–180 substituted “if the labeling of the drug or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 331, 381, 384 of this title.
+This section is referred to in sections 321, 331, 381 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1)(A)”.</i>
 

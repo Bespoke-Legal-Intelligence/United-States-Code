@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2002.
+Authority.—The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2004.
 
 (b)
 
@@ -30,11 +30,13 @@ Definitions.—In this subchapter:
 
 &emsp;(2) The term “intelligence collection activities” means the collection of foreign intelligence and counterintelligence information.
 
-(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282.)
+(Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437; amended Pub. L. 104–93, title V, §503, Jan. 6, 1996, 109 Stat. 973; Pub. L. 105–272, title V, §501, Oct. 20, 1998, 112 Stat. 2404; Pub. L. 106–398, §1 \[\[div. A\], title X, §1077\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282; Pub. L. 107–314, div. A, title X, §1053, Dec. 2, 2002, 116 Stat. 2649.)
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2002” for “December 31, 2000”.
+2002—Subsec. (a). Pub. L. 107–314 substituted “2004” for “2002”.
+
+2000—Subsec. (a). Pub. L. 106–398 substituted “2002” for “2000”.
 
 1998—Subsec. (a). Pub. L. 105–272 substituted “2000” for “1998”.
 

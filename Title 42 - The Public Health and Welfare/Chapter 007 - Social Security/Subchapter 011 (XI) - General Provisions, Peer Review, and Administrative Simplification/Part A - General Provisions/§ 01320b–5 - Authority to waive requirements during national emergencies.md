@@ -6,7 +6,7 @@ The purpose of this section is to enable the Secretary to ensure to the maximum 
 
 &emsp;(1) that sufficient health care items and services are available to meet the needs of individuals in such area enrolled in the programs under subchapters XVIII, XIX, and XXI of this chapter; and
 
-&emsp;(2) that health care providers (as defined in subsection (g)(2) of this section) that furnish such items and services in good faith, but that are unable to comply with one or more requirements described in subsection (b) of this section, may be reimbursed for such items and services and exempted from sanctions for such noncompliance, absent any determination of fraud or abuse.
+&emsp;(2) that health care providers (as defined in subsection (g)(2) of this section) that furnish such items and services in good faith, but thatare unable to comply with one or more requirements described in subsection (b) of this section, may be reimbursed for such items and services and exempted from sanctions for such noncompliance, absent any determination of fraud or abuse.
 
 #### (b) Secretarial authority
 
@@ -98,7 +98,11 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Prior Provisions
 
-A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(g742T3l)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
+A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 97–35, title XXI, §2173(c), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–248, title I, §101(b)(3), Sept. 3, 1982, 96 Stat. 335; Pub. L. 99–509, title IX, §9343(f), Oct. 21, 1986, 100 Stat. 2041; Pub. L. 100–203, title IV, §4068(b), Dec. 22, 1987, 101 Stat. 1330–114; Pub. L. 100–360, title IV, §411(g)(6), July 1, 1988, 102 Stat. 785; Pub. L. 103–432, title I, §147(c)(2), Oct. 31, 1994, 108 Stat. 4429, related to development of model prospective rate methodology, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(<i>l</i>)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, effective Nov. 29, 1999.
+
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date
 

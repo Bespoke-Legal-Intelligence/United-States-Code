@@ -12,7 +12,7 @@ Sections 324 and 325 of title 18, U.S.C., 1940 ed., were consolidated with chang
 
 Words “carriage, horse, driver or”, “car, steamboat”, and “or vessel” were omitted as covered by “any carrier or conveyance”.
 
-The punishment provision is derived from said section 324 rather than from section 325 which providedonly a fine of not more than $100 and related only to ferrymen.
+The punishment provision is derived from said section 324 rather than from section 325 which provided only a fine of not more than $100 and related only to ferrymen.
 
 #### Amendments
 

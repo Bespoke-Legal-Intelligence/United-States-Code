@@ -22,13 +22,17 @@ Congress finds that—
 
 It is the purpose of this subchapter—
 
-&emsp;(1) to encourage every American and every American institution to help solve our most critical social problems by volunteering their time, energies and services through community service projects and initiatives;
+&emsp;(1) to encourage every American and every American institution to help solve our mostcritical social problems by volunteering their time, energies and services through community service projects and initiatives;
 
 &emsp;(2) to identify successful and promising community service projects and initiatives, and to disseminate information concerning such projects and initiatives to other communities in order to promote their adoption nationwide; and
 
 &emsp;(3) to discover and encourage new leaders and develop individuals and institutions that serve as strong examples of a commitment to serving others and to convince all Americans that a successful life includes serving others.
 
 (Pub. L. 101–610, title III, §302, Nov. 16, 1990, 104 Stat. 3180.)
+
+#### Short Title
+
+For short title of title III of Pub. L. 101–610 which enacted this subchapter, as “The Points of Light Foundation Act”, see section 301 of Pub. L. 101–610, set out as a note under section 12501 of this title.
 
 #### Section Referred to in Other Sections
 

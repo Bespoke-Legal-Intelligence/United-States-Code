@@ -8,7 +8,7 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 
 #### (b) Humane methods of slaughter
 
-&emsp;slaughter or handle in connection with slaughter any such animals in any manner not in accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906);
+&emsp;slaughter or handle in connection with slaughter any such animals in any manner notin accordance with the Act of August 27, 1958 (72 Stat. 862; 7 U.S.C. 1901–1906);
 
 #### (c) Sales, transportation, and other transactions
 

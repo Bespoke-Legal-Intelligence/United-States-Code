@@ -1,6 +1,6 @@
 ### §2284. Three-judge court; when required; composition; procedure
 
-(a) A district court of three judges shall be convened when otherwise required by Act ofCongress, or when an action is filed challenging the constitutionality of the apportionment of congressional districts or the apportionment of any statewide legislative body.
+(a) A district court of three judges shall be convened when otherwise required by Act of Congress, or when an action is filed challenging the constitutionality of the apportionment of congressional districts or the apportionment of any statewide legislative body.
 
 (b) In any action required to be heard and determined by a district court of three judges under subsection (a) of this section, the composition and procedure of the court shall be as follows:
 

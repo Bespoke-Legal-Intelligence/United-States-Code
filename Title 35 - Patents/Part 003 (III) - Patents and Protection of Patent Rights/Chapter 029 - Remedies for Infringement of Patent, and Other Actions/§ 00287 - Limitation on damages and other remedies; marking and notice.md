@@ -1,6 +1,6 @@
 ### §287. Limitation on damages and other remedies; marking and notice
 
-(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, except on proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
+(a) Patentees, and persons making, offering for sale, or selling within the United States any patented article for or under them, or importing any patented article into the United States, may give notice to the public that the same is patented, either by fixing thereon the word “patent” or the abbreviation “pat.”, together with the number of the patent, or when, from the character of the article, this can not be done, by fixing to it, or to the package wherein one or more of them is contained, a label containing a like notice. In the event of failure so to mark, no damages shall be recovered by the patentee in any action for infringement, excepton proof that the infringer was notified of the infringement and continued to infringe thereafter, in which event damages may be recovered only for infringement occurring after such notice. Filing of an action for infringement shall constitute such notice.
 
 (b)(1) An infringer under section 271(g) shall be subject to all the provisions of this title relating to damages and injunctions except to the extent those remedies are modified by this subsection or section 9006 of the Process Patent Amendments Act of 1988. The modifications of remedies provided in this subsection shall not be available to any person who—
 
@@ -10,7 +10,7 @@
 
 &emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, offer for sale, or sale of which constitutes the infringement.
 
-(2) No remedies for infringement under section 271(g) of this title shall be available with respectto any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
+(2) No remedies for infringement under section 271(g) of this title shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
 
 (3)(A) In making a determination with respect to the remedy in an action brought for infringement under section 271(g), the court shall consider—
 
@@ -46,7 +46,7 @@
 
 (B) A written notification from the patent holder charging a person with infringement shall specify the patented process alleged to have been used and the reasons for a good faith belief that such process was used. The patent holder shall include in the notification such information as is reasonably necessary to explain fairly the patent holder's belief, except that the patent holder is not required to disclose any trade secret information.
 
-(C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referred to in such written notification or response unless that person, absent mitigating circumstances—
+(C) A person who receives a written notification described in subparagraph (B) or a written response to a request for disclosure described in paragraph (4) shall be deemed to have notice of infringement with respect to any patent referredto in such written notification or response unless that person, absent mitigating circumstances—
 
 &emsp;(i) promptly transmits the written notification or response to the manufacturer or, if the manufacturer is not known, to the supplier, of the product purchased or to be purchased by that person; and
 
@@ -54,7 +54,7 @@
 
 (D) For purposes of this subsection, a person who obtains a product made by a process patented in the United States in a quantity which is abnormally large in relation to the volume of business of such person or an efficient inventory level shall be rebuttably presumed to have actual knowledge that the product was made by such patented process.
 
-(6) A person who receives a response to a request for disclosure under this subsection shallpay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
+(6) A person who receives a response to a request for disclosure under this subsection shall pay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
 
 (c)(1) With respect to a medical practitioner's performance of a medical activity that constitutes an infringement under section 271(a) or (b) of this title, the provisions of sections 281, 283, 284, and 285 of this title shall not apply against the medical practitioner or against a related health care entity with respect to such medical activity.
 
@@ -106,7 +106,7 @@ The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), pro
 
 #### Amendments
 
-1999—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date ofwhich is prior to September 30, 1996” for “before the date of enactment of this subsection”.
+1999—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date of which is prior to September 30, 1996” for “before the date of enactment of this subsection”.
 
 1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 

@@ -6,7 +6,7 @@ The Board shall prescribe regulations to carry out the purposes of this subchapt
 
 &emsp;(1) consult with the other agencies referred to in section 1693<i>o</i> of this title and take into account, and allow for, the continuing evolution of electronic banking services and the technology utilized in such services,
 
-&emsp;(2) prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would berequired, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
+&emsp;(2) prepare an analysis of economic impact which considers the costs and benefits to financial institutions, consumers, and other users of electronic fund transfers, including the extent to which additional documentation, reports, records, or other paper work would be required, and the effects upon competition in the provision of electronic banking services among large and small financial institutions and the availability of such services to different classes of consumers, particularly low income consumers,
 
 &emsp;(3) to the extent practicable, the Board shall demonstrate that the consumer protections of the proposed regulations outweigh the compliance costs imposed upon consumers and financial institutions, and
 
@@ -14,7 +14,7 @@ The Board shall prescribe regulations to carry out the purposes of this subchapt
 
 #### (b) Issuance of model clauses
 
-The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+The Board shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Suchmodel clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Board shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
 
 #### (c) Criteria; modification of requirements
 
@@ -70,7 +70,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (ii) On the screen
 
-&emsp;&emsp;&emsp;The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumeris irrevocably committed to completing the transaction, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
+&emsp;&emsp;&emsp;The notice required under clauses (i) and (ii) of subparagraph (A) with respect to any fee described in such subparagraph shall appear on the screen of the automated teller machine, or on a paper notice issued from such machine, after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction.
 
 #### (C) Prohibition on fees not properly disclosed and explicitly assumed by consumer
 

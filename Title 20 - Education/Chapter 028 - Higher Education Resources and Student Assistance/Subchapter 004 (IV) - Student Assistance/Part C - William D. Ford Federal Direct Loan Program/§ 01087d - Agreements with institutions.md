@@ -28,7 +28,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;(5) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 
-&emsp;(6) provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of any information necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan; and
+&emsp;(6) provide that the institution will not charge any fees of any kind, however described, to student or parent borrowers for origination activities or the provision of anyinformation necessary for a student or parent to receive a loan under this part, or any benefits associated with such loan; and
 
 &emsp;(7) include such other provisions as the Secretary determines are necessary to protect the interests of the United States and to promote the purposes of this part.
 
@@ -56,7 +56,7 @@ The Secretary shall establish procedures by which institutions or consortia may 
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to requirements of agreements for former provisions relating to terms of loans under pilot program.
 
-1987—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) bycomputing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
+1987—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
 
 #### Effective Date of 1992 Amendment
 

@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 105–85, §2914(b)(2), substituted “$5,000,000 for each 
 
 1986—Subsecs. (a), (b). Pub. L. 99–561 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
 
-1982—Subsecs. (a), (b). Pub. L. 97–396, §5(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
+1982—Subsecs. (a), (b). Pub. L. 97–396, §5(1), substituted “1983, 1984, and 1985,” for “ending September30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 97–396, §5(2), added subsecs. (c) and (d).
 

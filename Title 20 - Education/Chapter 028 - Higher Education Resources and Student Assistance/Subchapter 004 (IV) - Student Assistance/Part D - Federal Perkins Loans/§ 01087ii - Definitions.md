@@ -10,7 +10,7 @@ For the purposes of this part, the term “high-risk children” means individua
 
 #### (c) Infants, toddlers, children, and youth with disabilities
 
-For purposes of this part, the term “infants, toddlers, children, and youth with disabilities” means children with disabilities and infants and toddlers with disabilities as defined in sections 1401(a)(1) <sup>1</sup> and 1472(1) <sup>1</sup> of this title, respectively, and the term “qualified professional provider of early intervention services” has the meaning specified in section 1472(2) <sup>1</sup> of this title.
+For purposes of this part, the term “infants, toddlers, children, and youth with disabilities”means children with disabilities and infants and toddlers with disabilities as defined in sections 1401(a)(1) <sup>1</sup> and 1472(1) <sup>1</sup> of this title, respectively, and the term “qualified professional provider of early intervention services” has the meaning specified in section 1472(2) <sup>1</sup> of this title.
 
 (Pub. L. 89–329, title IV, §469, as added Pub. L. 102–325, title IV, §465(d), July 23, 1992, 106 Stat. 583; amended Pub. L. 103–382, title III, §391(e)(4), Oct. 20, 1994, 108 Stat. 4022.)
 

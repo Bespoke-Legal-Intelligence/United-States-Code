@@ -2,7 +2,7 @@
 
 #### (a) Limitations concerning easements
 
-With respect to lands conveyed to Native Corporations or Native Groups the Secretary shallreserve only those easements which are described in section 17(b)(1) of the Alaska Native Claims Settlement Act and shall be guided by the following principles:
+With respect to lands conveyed to Native Corporations or Native Groups the Secretary shall reserve only those easements which are described in section 17(b)(1) of the Alaska Native Claims Settlement Act and shall be guided by the following principles:
 
 &emsp;(1) all easements should be designed so as to minimize their impact on Native life styles, and on subsistence uses; and
 
@@ -30,7 +30,7 @@ The Alaska Native Claims Settlement Act, referred to in subsecs. (b) and (c), is
 
 The Mineral Leasing Act of 1920, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-Act of January 2, 1976 (89 Stat. 1145), as amended or supplemented by Public Laws 94–456 and 95–178, referred to in subsec. (d), is Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1145, which enacted sections 1625 to 1627 of this title, amended sections 1615, 1616, 1620, and 1621 of this title, and enacted provisions set out as notes under sections 1604, 1605, 1611, 1613, 1618, and 1625 of this title, as amended and supplemented by Pub. L. 94–456, Oct. 4, 1976, 90 Stat. 1934, which amended section 1615 of this title and provisions set out as notes under section 1611 of this title, and Pub. L. 95–178, Nov. 15, 1977, 91 Stat. 1369, which amended sections 1613, 1615, and 1628 of this title, enacted a provision set out as a note under section 1611 of this title, and amended a provision set out as a note under section 1611 of this title. For complete classification of these Acts to the Code, see Tables.
+Act of January 2, 1976 (89 Stat. 1145), as amended or supplemented by Public Laws 94–456 and 95–178, referred to in subsec. (d), is Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1145, which enacted sections 1625 to 1627 of this title,amended sections 1615, 1616, 1620, and 1621 of this title, and enacted provisions set out as notes under sections 1604, 1605, 1611, 1613, 1618, and 1625 of this title, as amended and supplemented by Pub. L. 94–456, Oct. 4, 1976, 90 Stat. 1934, which amended section 1615 of this title and provisions set out as notes under section 1611 of this title, and Pub. L. 95–178, Nov. 15, 1977, 91 Stat. 1369, which amended sections 1613, 1615, and 1628 of this title, enacted a provision set out as a note under section 1611 of this title, and amended a provision set out as a note under section 1611 of this title. For complete classification of these Acts to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

@@ -134,7 +134,7 @@ Notwithstanding any other law of the United States (including section 207 of the
 
 #### (f) Levy allowed on certain specified payments
 
-Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not be exempt from levy if the Secretary approves the levy thereon under section 6331(h).
+Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not be exempt fromlevy if the Secretary approves the levy thereon under section 6331(h).
 
 #### (g) Inflation adjustment
 
@@ -150,11 +150,11 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 
 &emsp;If any dollar amount after being increased under paragraph (1) is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(<i>o</i>)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(<i>o</i>), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110Stat. 1461; Pub. L. 104–193, title I, §110(<i>l</i>)(3), formerly §110(<i>l</i>)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 85–840, title IV, §406, Aug. 28, 1958, 72 Stat. 1047; Pub. L. 89–44, title VIII, §812(a), June 21, 1965, 79 Stat. 170; Pub. L. 89–719, title I, §104(c), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 91–172, title IX, §945(a), Dec. 30, 1969, 83 Stat. 729; Pub. L. 94–455, title XII, §1209(a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1709, 1710, 1834; Pub. L. 97–248, title III, §347(a), Sept. 3, 1982, 96 Stat. 638; Pub. L. 98–369, div. B, title VI, §2661(<i>o</i>)(5), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, title XV, §1565(a), Oct. 22, 1986, 100 Stat. 2763; Pub. L. 100–647, title I, §1015(<i>o</i>), title VI, §6236(c), Nov. 10, 1988, 102 Stat. 3572, 3738; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–168, title V, §502(a)–(c), July 30, 1996, 110 Stat. 1461; Pub. L. 104–193, title I, §110(<i>l</i>)(3), formerly §110(<i>l</i>)(6), Aug. 22, 1996, 110 Stat. 2173, renumbered and amended Pub. L. 105–33, title V, §5514(a)(2), (3), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–34, title III, §312(d)(1), title X, §1025(a), Aug. 5, 1997, 111 Stat. 839, 924; Pub. L. 105–206, title III, §§3431(a)–(c), 3445(a), (b), July 22, 1998, 112 Stat. 758, 762, 763.)
 
-#### Adjustment of Applicable Dollar Value Amounts for Property Exempt From Levy for Calendar Year 2003
+#### Adjustment of Applicable Dollar Value Amounts for Property Exempt From Levy for Calendar Year 2004
 
-<i>For adjustment of applicable dollar value amounts under subsection (a)(2), (3) of this section for property exempt from levy for calendar year 2003, see section 3.30 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of applicable dollar value amounts under subsection (a)(2), (3) of this section for property exempt from levy for calendar year 2004, see section 3.31 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization and limitations on authority of Secretary of the Interior and Secretary of Agriculture
 
-Notwithstanding any other provisions of law, the Secretary, with respect to the public lands and the Secretary of Agriculture, with respect to the acquisition of access over non-Federal lands to units of the National Forest System, are authorized to acquire pursuant to this Actby purchase, exchange, donation, or eminent domain, lands or interests therein: <i>Provided</i>, That with respect to the public lands, the Secretary may exercise the power of eminent domain only if necessary to secure access to public lands, and then only if the lands so acquired are confined to as narrow a corridor as is necessary to serve such purpose. Nothing in this subsection shall be construed as expanding or limiting the authority of the Secretary of Agriculture to acquire land by eminent domain within the boundaries of units of the National Forest System.
+Notwithstanding any other provisions of law, the Secretary, with respect to the public lands and the Secretary of Agriculture, with respect to the acquisition of access over non-Federal lands to units of the National Forest System, are authorized to acquire pursuant to this Act by purchase, exchange, donation, or eminent domain, lands or interests therein: <i>Provided</i>, That with respect to the public lands, the Secretary may exercise the power of eminent domain only if necessary to secure access to public lands, and then only if the lands so acquired are confined to as narrow a corridor as is necessary to serve such purpose. Nothing in this subsection shall be construed as expanding or limiting the authority of the Secretary of Agriculture to acquire land by eminent domain within the boundaries of units of the National Forest System.
 
 #### (b) Conformity to departmental policies and land-use plan of acquisitions
 
@@ -24,7 +24,7 @@ Lands acquired by the Secretary pursuant to this section or section 1716 of this
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known asthe Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The public land laws, referred to in subsec. (c), are classified generally to this title.
 

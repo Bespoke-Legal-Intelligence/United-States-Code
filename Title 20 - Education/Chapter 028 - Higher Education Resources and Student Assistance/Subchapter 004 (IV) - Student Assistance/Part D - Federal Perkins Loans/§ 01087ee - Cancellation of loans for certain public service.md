@@ -68,7 +68,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 > &emsp;may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L.103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728.)
 
 #### References in Text
 
@@ -86,7 +86,7 @@ The National and Community Service Act of 1990, referred to in subsec. (a)(6), i
 
 #### Codification
 
-Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325)was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
+Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

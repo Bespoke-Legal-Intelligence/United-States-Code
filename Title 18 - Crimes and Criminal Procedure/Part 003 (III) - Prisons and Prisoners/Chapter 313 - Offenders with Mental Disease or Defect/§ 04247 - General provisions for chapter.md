@@ -68,7 +68,7 @@ Habeas Corpus Unimpaired.—Nothing contained in section 4243 or 4246 precludes 
 
 (h)
 
-Discharge.—Regardless of whether the director of the facility in which a person is hospitalized has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243, counsel for the person or his legal guardian may, at any time during such person's hospitalization, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be hospitalized. A copy of the motion shall be sent to the director of the facility in which the person is hospitalized and to the attorney for the Government.
+Discharge.—Regardless of whether the director of the facility in which a person is hospitalized has filed a certificate pursuant to the provisions of subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,counsel for the person or his legal guardian may, at any time during such person's hospitalization, file with the court that ordered the commitment a motion for a hearing to determine whether the person should be discharged from such facility, but no such motion may be filed within one hundred and eighty days of a court determination that the person should continue to be hospitalized. A copy of the motion shall be sent to the director of the facility in which the person is hospitalized and to the attorney for the Government.
 
 (i)
 

@@ -2,7 +2,7 @@
 
 #### (a) Duty of depository institutions; nature and content of information
 
-(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within eachprimary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
+(1) Each depository institution which has a home office or branch office located within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, as defined by the Department of Commerce shall compile and make available, in accordance with regulations of the Board, to the public for inspection and copying at the home office, and at least one branch office within each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the depository institution has an office the number and total dollar amount of mortgage loans which were (A) originated (or for which the institution received completed applications), or (B) purchased by that institution during each fiscal year (beginning with the last full fiscal year of that institution which immediately preceded the effective date of this chapter).
 
 (2) The information required to be maintained and made available under paragraph (1) shall also be itemized in order to clearly and conspicuously disclose the following:
 
@@ -38,7 +38,7 @@ Subject to subsection (h) of this section, the Board shall prescribe a standard 
 
 #### (f) Data disclosure system; operation, etc.
 
-The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitateaccess to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
 #### (g) Exceptions
 
@@ -102,7 +102,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (5) Time of disclosure
 
-&emsp;The disclosure of the loan application register information described in paragraph (1) for any year pursuant to a request under paragraph (1) shall be made—
+&emsp;The disclosure of the loan application register information described in paragraph (1)for any year pursuant to a request under paragraph (1) shall be made—
 
 &emsp;&emsp;(A) in the case of a request made on or before March 1 of the succeeding year, before April 1 of the succeeding year; and
 
@@ -110,7 +110,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (6) Retention of information
 
-&emsp;Notwithstanding subsection (c) of this section, the loan application register information described in paragraph (1) for any year shall bemaintained and made available, upon request, for 3 years after the close of the 1st year during which such information is required to be maintained and made available.
+&emsp;Notwithstanding subsection (c) of this section, the loan application register information described in paragraph (1) for any year shall be maintained and made available, upon request, for 3 years after the close of the 1st year during which such information is required to be maintained and made available.
 
 #### (7) Minimizing compliance costs
 
@@ -182,7 +182,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 &emsp;&emsp;(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1),Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
 
 #### References in Text
 

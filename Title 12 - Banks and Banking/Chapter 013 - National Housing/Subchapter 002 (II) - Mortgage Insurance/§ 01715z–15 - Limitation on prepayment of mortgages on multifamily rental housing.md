@@ -28,7 +28,7 @@ For purposes of this section, the term “lower income families” has the meani
 
 &emsp;“(2) the Secretary determines that making such additional assistance available to the project is necessary to prevent the owner from prepaying the mortgage.”
 
-Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under section 1437f of title 42 under the priority established in subsection (b) of this section shall—
+Subsecs. (c), (d). Pub. L. 101–625, §602(c), redesignated subsec. (d) as (c) and struck out former subsec. (c)which read as follows: “Any owner of a multifamily rental housing project referred to in subsection (b) of this section who receives additional assistance under section 1437f of title 42 under the priority established in subsection (b) of this section shall—
 
 &emsp;“(1) fully utilize the assistance which is available;
 

@@ -372,5 +372,5 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1862n, 1862n–1, 1862n–2, 1862n–8 of this title.
+This section is referred to in sections 1862n, 1862n–1, 1862n–2, 1862n–8, 2473e of this title.
 

@@ -10,7 +10,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 #### (b) Enumerated authority
 
-(1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose anexclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
+(1) Under an agreement entered into pursuant to subsection (a)(1) of this section, the laboratory may grant, or agree to grant in advance, to a collaborating party patent licenses or assignments, or options thereto, in any invention made in whole or in part by a laboratory employee under the agreement, or, subject to section 209 of title 35, may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement, for reasonable compensation when appropriate. The laboratory shall ensure, through such agreement, that the collaborating party has the option to choose an exclusive license for a pre-negotiated field of use for any such invention under the agreement or, if there is more than one collaborating party, that the collaborating parties are offered the option to hold licensing rights that collectively encompass the rights that would be held under such an exclusive license by one party. In consideration for the Government's contribution under the agreement, grants under this paragraph shall be subject to the following explicit conditions:
 
 &emsp;(A) A nonexclusive, nontransferable, irrevocable, paid-up license from the collaborating party to the laboratory to practice the invention or have the invention practiced throughout the world by or on behalf of the Government. In the exercise of such license, the Government shall not publicly disclose trade secrets or commercial or financial information that is privileged or confidential within the meaning of section 552(b)(4) of title 5 or which would be considered as such if it had been obtained from a non-Federal party.
 
@@ -28,7 +28,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;&emsp;(iii) the collaborating party has failed to comply with an agreement containing provisions described in subsection (c)(4)(B) of this section.
 
-> &emsp;This determination is subject to administrative appeal and judicial review under section 203(2) of title 35.
+> &emsp;This determination is subject to administrative appeal and judicial review under section 203(2) <sup>1</sup> of title 35.
 
 (2) Under agreements entered into pursuant to subsection (a)(1) of this section, the laboratory shall ensure that a collaborating party may retain title to any invention made solely by its employee in exchange for normally granting the Government a nonexclusive, nontransferable, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government for research or other Government purposes.
 
@@ -84,7 +84,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
-(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one or more model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
+(iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one ormore model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
 
 (v) A Federal agency may waive the requirements of clause (i) or (ii) under such circumstances as the agency considers appropriate.
 
@@ -98,7 +98,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 As used in this section—
 
-&emsp;(1) the term “cooperative research and development agreement” means any agreement between one or more Federal laboratories and one or more non-Federal parties under which the Government, through its laboratories, provides personnel, services, facilities, equipment, intellectual property, or other resources with or without reimbursement (but not funds to non-Federal parties) and the non-Federal parties provide funds, personnel, services, facilities, equipment, intellectual property, or other resources toward the conduct of specified research or development efforts which areconsistent with the missions of the laboratory; except that such term does not include a procurement contract or cooperative agreement as those terms are used in sections 6303, 6304, and 6305 of title 31;
+&emsp;(1) the term “cooperative research and development agreement” means any agreement between one or more Federal laboratories and one or more non-Federal parties under which the Government, through its laboratories, provides personnel, services, facilities, equipment, intellectual property, or other resources with or without reimbursement (but not funds to non-Federal parties) and the non-Federal parties provide funds, personnel, services, facilities, equipment, intellectual property, or other resources toward the conduct of specified research or development efforts which are consistent with the missions of the laboratory; except that such term does not include a procurement contract or cooperative agreement as those terms are used in sections 6303, 6304, and 6305 of title 31;
 
 &emsp;(2) the term “laboratory” means—
 
@@ -133,6 +133,8 @@ In implementing this section, each agency which has contracted with a non-Federa
 (Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
 
 #### References in Text
+
+Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated section 203(b) of title 35 byPub. L. 107–273, div. C, title III, §13206(a)(14)(A)(i), Nov. 2, 2002, 116 Stat. 1905.
 
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 7158 of Title 42, The Public Health and Welfare.
 
@@ -270,5 +272,7 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 6 section 189; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections 403, 502; title 33 section 2313; title 35 section 209; title 42 sections 2123, 13541; title 49 section 309.
+This section is referred to in sections 278n, 3710c, 3714, 3715, 5528 of this title; title 6 section 189; title 7 section 7624; title 10 sections 2371a, 2500, 2519; title 23 sections403, 502; title 33 section 2313; title 35 section 209; title 42 section 13541; title 49 section 309; title 50 section 2794.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

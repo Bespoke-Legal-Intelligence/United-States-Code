@@ -2,7 +2,7 @@
 
 #### (a) Methods and requirements for achieving price stability
 
-The Congress determines that the objective of achieving reasonable price stability as soon as feasible, as set forth in section 1022(a)(3) of this title and section 1022a(a) of this title, shall be pursued by the methods and subject to the requirements of section 1022b(b) of this title.
+The Congress determines that the objective of achieving reasonable price stability as soon asfeasible, as set forth in section 1022(a)(3) of this title and section 1022a(a) of this title, shall be pursued by the methods and subject to the requirements of section 1022b(b) of this title.
 
 #### (b) Coordination of fiscal or monetary policies with specific targeted policies
 
@@ -18,7 +18,7 @@ The President shall initiate specific policies to reduce the rate of inflation, 
 
 &emsp;(3) the establishment of stockpiles of agricultural commodities and other critical materials to help stabilize prices, meet emergency needs, and promote adequate income to producers;
 
-&emsp;(4) encouragement to labor and management to increase productivity within the nationalframework of full employment through voluntary arrangements in industries and economic sectors;
+&emsp;(4) encouragement to labor and management to increase productivity within the national framework of full employment through voluntary arrangements in industries and economic sectors;
 
 &emsp;(5) recommendations to increase competition in the private sector and to improve the economic climate for the creation and growth of smaller businesses, including recommendations to strengthen and enforce the antitrust laws, the patent laws, and the internal revenue laws and regulations;
 

@@ -8,7 +8,7 @@ As used in this chapter, the term “building” means any building or facility 
 
 &emsp;(3) to be financed in whole or in part by a grant or a loan made by the United States after August 12, 1968, if such building or facility is subject to standards for design, construction, or alteration issued under authority of the law authorizing such grant or loan; or
 
-&emsp;(4) to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
+&emsp;(4) to be constructed under authority of the National Capital Transportation Act of 1960,the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
 
 (Pub. L. 90–480, §1, Aug. 12, 1968, 82 Stat. 718; Pub. L. 91–205, Mar. 5, 1970, 84 Stat. 49; Pub. L. 94–541, title II, §201(1), Oct. 18, 1976, 90 Stat. 2507.)
 

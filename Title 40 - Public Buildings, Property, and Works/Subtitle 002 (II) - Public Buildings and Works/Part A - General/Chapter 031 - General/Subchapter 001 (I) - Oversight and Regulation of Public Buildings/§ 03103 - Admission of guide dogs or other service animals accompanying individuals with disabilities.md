@@ -6,7 +6,7 @@ In General.—Guide dogs or other service animals accompanying individuals with 
 
 (b)
 
-Regulations.—The head of each department or other agency of the Government may prescribe regulations the individual considers necessary in the public interest to carry out this section as it applies to any building or other property subject to the individual's jurisdiction.
+Regulations.—The head of each department or other agency of the Government mayprescribe regulations the individual considers necessary in the public interest to carry out this section as it applies to any building or other property subject to the individual's jurisdiction.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1143.)
 

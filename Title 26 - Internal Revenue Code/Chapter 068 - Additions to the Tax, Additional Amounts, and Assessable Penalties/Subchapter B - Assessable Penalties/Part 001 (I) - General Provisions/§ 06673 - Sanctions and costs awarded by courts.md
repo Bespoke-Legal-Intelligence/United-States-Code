@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) that such attorney or other person pay personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct, or
 
-&emsp;&emsp;(B) if such attorney is appearing on behalf of the Commissioner of Internal Revenue, that the United States pay such excess costs, expenses, and attorneys’ fees in the same manner as such an award by a district court.
+&emsp;&emsp;(B) if such attorney is appearing on behalf of the Commissioner of Internal Revenue,that the United States pay such excess costs, expenses, and attorneys’ fees in the same manner as such an award by a district court.
 
 #### (b) Proceedings in other courts
 

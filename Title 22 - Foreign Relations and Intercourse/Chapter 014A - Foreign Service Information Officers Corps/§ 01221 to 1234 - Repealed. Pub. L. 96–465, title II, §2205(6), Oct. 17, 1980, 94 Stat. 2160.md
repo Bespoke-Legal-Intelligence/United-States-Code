@@ -16,7 +16,7 @@ Section 1227, Pub. L. 90–494, §7, Aug. 20, 1968, 82 Stat. 811, related to pro
 
 Section 1228, Pub. L. 90–494, §8, Aug. 20, 1968, 82 Stat. 812, related to separation and retirement of Foreign Service information officers.
 
-Section 1229, Pub. L. 90–494, §9, Aug. 20, 1968, 82 Stat. 812; Pub. L. 94–350, title V, §522(d), July 12, 1976, 90 Stat. 847, related to participation in Foreign Service retirement and disability system. See section 4043 of this title.
+Section 1229, Pub. L. 90–494, §9, Aug. 20, 1968, 82 Stat. 812; Pub. L. 94–350, title V, §522(d), July 12, 1976, 90 Stat.847, related to participation in Foreign Service retirement and disability system. See section 4043 of this title.
 
 Section 1230, Pub. L. 90–494, §10, Aug. 20, 1968, 82 Stat. 812; Pub. L. 95–426, title II, §204(b)(3), Oct. 7, 1978, 92 Stat. 974, related to applicability of other statutory provisions.
 

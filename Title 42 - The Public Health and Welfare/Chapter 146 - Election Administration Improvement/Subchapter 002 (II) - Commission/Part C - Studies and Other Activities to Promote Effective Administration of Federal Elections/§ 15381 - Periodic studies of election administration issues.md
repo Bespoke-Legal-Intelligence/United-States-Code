@@ -32,7 +32,7 @@ For purposes of subsection (a) of this section, the election administration issu
 
 &emsp;(8) Methods of recruiting, training, and improving the performance of poll workers.
 
-&emsp;(9) Methods of educating voters about the process of registering to vote and voting, the operation of voting mechanisms, the location of polling places, and all other aspects of participating in elections.
+&emsp;(9) Methods of educating voters about the process of registering to vote and voting, the operation of voting mechanisms, the locationof polling places, and all other aspects of participating in elections.
 
 &emsp;(10) The feasibility and advisability of conducting elections for Federal office on different days, at different places, and during different hours, including the advisability of establishing a uniform poll closing time and establishing—
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement To Implement Procedures.—The Secretary of Defense shall implement procedures under which a military medical treatment facility may charge civilians who are not covered beneficiaries (or their insurers) fees representing the costs, as determined by the Secretary, of trauma and other medical care provided to such civilians.
+Requirement To Implement Procedures.—The Secretary of Defense shall implement procedures under which a military medical treatment facility may charge civilians who arenot covered beneficiaries (or their insurers) fees representing the costs, as determined by the Secretary, of trauma and other medical care provided to such civilians.
 
 (b)
 

@@ -16,7 +16,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (A) Prohibition
 
-&emsp;&emsp;A public housing agency may not, in complying with the requirements under paragraph (2), concentrate very low-income families (or other families with relatively low incomes) in public housing dwelling units incertain public housing projects or certain buildings within projects. The Secretary shall review the income and occupancy characteristics of the public housing projects and the buildings of such projects of such agencies to ensure compliance with the provisions of this paragraph and paragraph (2).
+&emsp;&emsp;A public housing agency may not, in complying with the requirements under paragraph (2), concentrate very low-income families (or other families with relatively low incomes) in public housing dwelling units in certain public housing projects or certain buildings within projects. The Secretary shall review the income and occupancy characteristics of the public housing projects and the buildings of such projects of such agencies to ensure compliance with the provisions of this paragraph and paragraph (2).
 
 #### (B) Deconcentration
 

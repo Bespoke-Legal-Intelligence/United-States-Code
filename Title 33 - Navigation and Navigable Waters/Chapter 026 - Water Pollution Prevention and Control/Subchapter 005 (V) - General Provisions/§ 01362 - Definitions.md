@@ -16,13 +16,13 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (7) The term “navigable waters” means the waters of the United States, including the territorial seas.
 
-(8) The term “territorial seas” means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters, and extending seaward a distance of three miles.
+(8) The term “territorial seas” means the belt of the seas measured from the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and theline marking the seaward limit of inland waters, and extending seaward a distance of three miles.
 
 (9) The term “contiguous zone” means the entire zone established or to be established by the United States under article 24 of the Convention of the Territorial Sea and the Contiguous Zone.
 
 (10) The term “ocean” means any portion of the high seas beyond the contiguous zone.
 
-(11) The term “effluent limitation” means any restriction established by a State or the Administrator on quantities, rates, and concentrations of chemical, physical, biological, and other constituents which are discharged from point sources into navigable waters, the waters of thecontiguous zone, or the ocean, including schedules of compliance.
+(11) The term “effluent limitation” means any restriction established by a State or the Administrator on quantities, rates, and concentrations of chemical, physical, biological, and other constituents which are discharged from point sources into navigable waters, the waters of the contiguous zone, or the ocean, including schedules of compliance.
 
 (12) The term “discharge of a pollutant” and the term “discharge of pollutants” each means (A) any addition of any pollutant to navigable waters from any point source, (B) any addition of any pollutant to the waters of the contiguous zone or the ocean from any point source other than a vessel or other floating craft.
 

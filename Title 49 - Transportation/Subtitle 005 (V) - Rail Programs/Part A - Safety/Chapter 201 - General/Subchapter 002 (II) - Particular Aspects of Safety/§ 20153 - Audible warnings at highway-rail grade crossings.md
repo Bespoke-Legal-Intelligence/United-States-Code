@@ -54,7 +54,7 @@ Issuance.—The Secretary shall issue regulations required by this section perta
 
 (h)
 
-Impact of Regulations.—The Secretary shall include in regulations prescribed under this section a concise statement of the impact of such regulations with respect to the operation of section 20106 of this title (national uniformity of regulation).
+Impact of Regulations.—The Secretary shall include in regulations prescribed underthis section a concise statement of the impact of such regulations with respect to the operation of section 20106 of this title (national uniformity of regulation).
 
 (i)
 

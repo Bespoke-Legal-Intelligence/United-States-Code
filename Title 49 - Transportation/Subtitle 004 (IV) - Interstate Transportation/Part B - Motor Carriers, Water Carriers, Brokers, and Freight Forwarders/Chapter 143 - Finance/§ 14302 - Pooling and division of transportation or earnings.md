@@ -2,7 +2,7 @@
 
 (a)
 
-Approval Required.—A carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 may not agree or combine with another such carrier to pool or divide traffic or services or any part of their earningswithout the approval of the Board under this section.
+Approval Required.—A carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 may not agree or combine with another such carrier to pool or divide traffic or services or any part of their earnings without the approval of the Board under this section.
 
 (b)
 
@@ -26,7 +26,7 @@ Determination of importance and restraint on competition.—Prior to the effecti
 
 &emsp;(3)
 
-Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy in operation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
+Hearing.—If the Board determines either that the agreement or combination is of major transportation importance or that there is substantial likelihood that the agreement or combination will unduly restrain competition, the Board shall hold a hearing concerning whether the agreement or combination will be in the interest of better service to the public or of economy in operation and whether it will unduly restrain competition and shall suspend operation of such agreement or combination pending such hearing and final decision thereon. After such hearing, the Board shall indicate to what extent it finds that the agreement or combination will be in the interest of better service to the public or of economy inoperation and will not unduly restrain competition and if assented to by all the carriers involved, shall to that extent, approve and authorize the agreement or combination, under such rules and regulations as the Board may issue, and for such consideration between such carriers and upon such terms and conditions as shall be found by the Board to be just and reasonable.
 
 &emsp;(4)
 
@@ -80,7 +80,7 @@ This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
 The antitrust laws, referred to in subsec. (f), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
 
-Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted inthe general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
 Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 

@@ -1,6 +1,6 @@
 ### §2203. Advisory committees
 
-The members of the General Advisory Committee established pursuant to section 2036 <sup>1</sup> of this title and the members of advisory boards established pursuant to section 2201(a) of this title may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except insofar as such sections may prohibit any such member from receiving compensation from a source other than a nonprofit educational institution in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
+The members of the General Advisory Committee established pursuant to section 2036 <sup>1</sup> of this title and the members of advisory boards established pursuant to section 2201(a) of thistitle may serve as such without regard to the provisions of sections 281, 283, or 284 <sup>1</sup> of title 18, except insofar as such sections may prohibit any such member from receiving compensation from a source other than a nonprofit educational institution in respect of any particular matter which directly involves the Commission or in which the Commission is directly interested.
 
 (Aug. 1, 1946, ch. 724, title I, §163, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 951; amended Pub. L. 86–300, §2, Sept. 21, 1959, 73 Stat. 574; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

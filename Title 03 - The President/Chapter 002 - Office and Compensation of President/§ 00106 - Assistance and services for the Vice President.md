@@ -38,11 +38,11 @@
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under section 102 of this title.
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a)of Pub. L. 95–570, set out as a note under section 102 of this title.
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 ofthat act, set out as a note under section 273 of Title 2, The Congress.
+Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 of that act, set out as a note under section 273 of Title 2, The Congress.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

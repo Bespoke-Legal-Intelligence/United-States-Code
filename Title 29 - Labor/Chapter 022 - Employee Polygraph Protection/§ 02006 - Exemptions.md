@@ -18,7 +18,7 @@ This chapter shall not apply with respect to the United States Government, any S
 
 &emsp;Nothing in this chapter shall be construed to prohibit the administration, by the Federal Government, in the performance of any intelligence or counterintelligence function, of any lie detector test to—
 
-&emsp;&emsp;(A)(i) any individual employed by, assigned to, or detailed to, the National Security Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, or the Central Intelligence Agency,
+&emsp;&emsp;(A)(i) any individual employed by, assigned to, or detailed to, the National Security Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, or the Central Intelligence Agency,
 
 &emsp;&emsp;(ii) any expert or consultant under contract to any such agency,
 
@@ -100,13 +100,15 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 &emsp;&emsp;&emsp;(ii) the employee had access to the person or property that is the subject of the investigation.
 
-(Pub. L. 100–347, §7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, §501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(3), Sept. 23, 1996, 110 Stat. 2687.)
+(Pub. L. 100–347, §7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, §501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(3), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 #### References in Text
 
 Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843, set out as a note under section 435 of Title 50. For provisions relating to special access programs, see section 4.4 of Ex. Ord. No. 12958.
 
 #### Amendments
+
+2003—Subsec. (b)(2)(A)(i). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 

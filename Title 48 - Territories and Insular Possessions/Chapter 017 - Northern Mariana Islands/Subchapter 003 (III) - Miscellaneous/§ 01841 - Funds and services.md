@@ -36,7 +36,7 @@ Public Law 94–241, referred to in subsecs. (b)(1), (2) and (d)(1), (2), is Pub
 
 The Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in subsecs. (b)(2), (3) and (d), is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title.
 
-The Food Stamp Act of 1977, referred to in subsec. (c), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (c), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended,which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Section 1421q–1 or 1574–1 of this title, referred to in subsec. (c), was in the original “section 403 of Public Law 95–135”, and was translated as reading “section 403 of Public Law 95–134”, to reflect the probable intent of Congress, because Public Law 95–135 does not contain a section 403.
 

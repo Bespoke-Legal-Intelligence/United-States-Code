@@ -114,6 +114,42 @@ In subsection (a)(3), the words “military department” are substituted for �
 
 1994—Subsec. (d). Pub. L. 103–305 added subsec. (d).
 
+#### Assessment of Wake Turbulence Research and Development Program
+
+Pub. L. 108–176, title V, §505, Dec. 12, 2003, 117 Stat. 2559, provided that:
+
+“(a)
+
+Assessment.—The Administrator of the Federal Aviation Administration shall enter into an arrangement with the National Research Council for an assessment of the Federal Aviation Administration's proposed wake turbulence research and development program. The assessment shall include—
+
+&emsp;“(1) an evaluation of the research and development goals and objectives of the program;
+
+&emsp;“(2) a listing of any additional research and development objectives that should be included in the program;
+
+&emsp;“(3) any modifications that will be necessary for the program to achieve the program's goals and objectives on schedule and within the proposed level of resources; and
+
+&emsp;“(4) an evaluation of the roles, if any, that should be played by other Federal agencies, such as the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, in wake turbulence research and development, and how those efforts could be coordinated.
+
+“(b)
+
+Report.—A report containing the results of the assessment shall be provided to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\].
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator of theFederal Aviation Administration $500,000 for fiscal year 2004 to carry out this section.”
+
+#### Ensuring Appropriate Standards for Airfield Pavements
+
+Pub. L. 108–176, title VII, §705, Dec. 12, 2003, 117 Stat. 2581, provided that:
+
+“(a)
+
+In General.—The Administrator of the Federal Aviation Administration shall review and determine whether the Federal Aviation Administration's standards used to determine the appropriate thickness for asphalt and concrete airfield pavements are in accordance with the Federal Aviation Administration's standard 20-year-life requirement using the most up-to-date available information on the life of airfield pavements. If the Administrator determines that such standards are not in accordance with that requirement, the Administrator shall make appropriate adjustments to the Federal Aviation Administration's standards for airfield pavements.
+
+“(b)
+
+Report.—Within 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall report the results of the review conducted under subsection (a) and the adjustments, if any, made on the basis of that review to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure and Committee on Science.”
+
 #### Use of Recycled Materials
 
 Pub. L. 106–181, title I, §157, Apr. 5, 2000, 114 Stat. 89, provided that:
@@ -247,6 +283,20 @@ Authority To Make Grants.—The Administrator may carry out the study by making 
 Report.—Not later than 18 months after the date of initiation of the study under subsection (a), the Administrator shall transmit to Congress a report on the results of the study.”
 
 #### Research Program To Improve Airfield Pavements
+
+Pub. L. 108–176, title VII, §704, Dec. 12, 2003, 117 Stat. 2581, provided that:
+
+“(a)
+
+Continuation of Program.—The Administrator of the Federal Aviation Administration shall continue the program to consider awards to nonprofit concrete and asphalt pavement research foundations to improve the design, construction, rehabilitation, and repair of airfield pavements to aid in the development of safer, more cost effective, and more durable airfield pavements.
+
+“(b)
+
+Use of Grants or Cooperative Agreements.—The Administrator may use grants or cooperative agreements in carrying out this section.
+
+“(c)
+
+Statutory Construction.—Nothing in this section requires the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
 
 Pub. L. 106–181, title IX, §905, Apr. 5, 2000, 114 Stat. 196, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider awards to nonprofit concrete pavement research foundations to improve the design, construction, rehabilitation, and repair of rigid concrete airfield pavements to aid in the development of safer, more cost-effective, and durable airfield pavements. The Administrator may use a grant or cooperative agreement for this purpose. Nothing in this section shall require the Administrator to prioritize an airfield pavement research program above safety, security, Flight 21, environment, or energy research programs.”
 

@@ -22,7 +22,7 @@ Numismatic operations and programs.—The term “numismatic operations and prog
 
 &emsp;&emsp;(A) means the activities concerning, and assets utilized in, the production, administration, sale, and management of numismatic items and the Numismatic Public Enterprise Fund; and
 
-&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing,distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, and the renovation or modernization of facilities (other than the construction or acquisition of new buildings).
+&emsp;&emsp;(B) includes capital, personnel salaries, functions relating to operations, marketing, distribution, promotion, advertising, and official reception and representation, the acquisition or replacement of equipment, andthe renovation or modernization of facilities (other than the construction or acquisition of new buildings).
 
 &emsp;(5)
 
@@ -49,10 +49,6 @@ Deposit of receipts.—All receipts from numismatic operations and programs shal
 Transfer of seigniorage.—The Secretary shall transfer monthly from the Fund to the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
 
 &emsp;(4)
-
-Expenses of citizens commemorative coin advisory committee.—For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.
-
-&emsp;(5)
 
 Transfer of excess amounts to the treasury.—
 
@@ -132,7 +128,7 @@ In general.—Each annual financial statement prepared under paragraph (1) shall
 
 &emsp;&emsp;(B)
 
-Auditor's report required.—The auditor designated to audit any financialstatement of the Fund pursuant to subparagraph (A) shall submit a report—
+Auditor's report required.—The auditor designated to audit any financial statement of the Fund pursuant to subparagraph (A) shall submit a report—
 
 &emsp;&emsp;&emsp;(i) to the Secretary by March 31 of the year beginning after the end of the fiscal year covered by such financial statement; and
 
@@ -192,11 +188,25 @@ Conditions on Payment of Surcharges to Recipient Organizations.—
 
 &emsp;(1)
 
-Payment of surcharges.—Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund <sup>2</sup> to any designated recipient organization unless—
+Payment of surcharges.—
 
-&emsp;&emsp;(A) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) the designated recipient organization submits an audited financial statement that demonstrates to the satisfaction of the Secretary of the Treasury that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the maximum amount the organization may receive from the proceeds of such surcharge.
+In general.—Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund <sup>1</sup> to any designated recipient organization unless—
+
+&emsp;&emsp;&emsp;(i) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
+
+&emsp;&emsp;&emsp;(ii) the designated recipient organization submits an audited financial statement that demonstrates, to the satisfaction of the Secretary, that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the total amount of the proceeds of such surcharge derived from the sale of such numismatic item.
+
+&emsp;&emsp;(B)
+
+Unpaid amounts.—If any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item that may otherwise be paid from the fund,<sup>1</sup> under any provision of law relating to such numismatic item, to any designated recipient organization remains unpaid to such organization solely by reason of the matching fund requirement contained in subparagraph (A)(ii) after the end of the 2-year period beginning on the later of—
+
+&emsp;&emsp;&emsp;(i) the last day any such numismatic item is issued by the Secretary; or
+
+&emsp;&emsp;&emsp;(ii) the date of the enactment of the American 5-Cent Coin Design Continuity Act of 2003,
+
+> &emsp;&emsp;such unpaid amount shall be deposited in the Treasury as miscellaneous receipts.
 
 &emsp;(2)
 
@@ -204,13 +214,13 @@ Annual audits.—
 
 &emsp;&emsp;(A)
 
-Annual audits of recipients required.—Each designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such amount, for an annual audit, in accordance with generally accepted government auditing standards by an independent public accountant selected by the organization, of all such payments to the organization beginning in the first fiscal year of the organization in which any such amount is received and continuing until all amounts received by such organization from the fund <sup>2</sup> with respect to such surcharges are fully expended or placed in trust.
+Annual audits of recipients required.—Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such amount, for an annual audit, in accordance with generally accepted government auditing standards by an independent public accountant selected by the organization, of all such payments to the organization beginning in the first fiscal year of the organization in which any such amount is received and continuing until all amounts received by such organization from the fund <sup>1</sup> with respect to such surcharges are fully expended or placed in trust.
 
 &emsp;&emsp;(B)
 
 Minimum requirements for annual audits.—At a minimum, each audit of a designated recipient organization pursuant to subparagraph (A) shall report—
 
-&emsp;&emsp;&emsp;(i) the amount of payments received by the designated recipient organization from the fund <sup>2</sup> during the fiscal year of the organization for which the audit is conducted that are derived from the proceeds of any surcharge imposed on the sale of any numismatic item;
+&emsp;&emsp;&emsp;(i) the amount of payments received by the designated recipient organization from the fund <sup>1</sup> during the fiscal year of the organization for which the audit is conducted that are derived from the proceeds of any surcharge imposed on the sale of any numismatic item;
 
 &emsp;&emsp;&emsp;(ii) the amount expended by the designated recipient organization from the proceeds of such surcharges during the fiscal year of the organization for which the audit is conducted; and
 
@@ -218,7 +228,7 @@ Minimum requirements for annual audits.—At a minimum, each audit of a designat
 
 &emsp;&emsp;(C)
 
-Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment andthe expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
+Responsibility of organization to account for expenditures of surcharges.—Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
 
 &emsp;&emsp;(D)
 
@@ -230,7 +240,7 @@ Submission of audit report.—Not later than 90 days after the end of any fiscal
 
 &emsp;&emsp;(E)
 
-Use of surcharges for audits.—Any designated recipient organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may use the amount received to pay the cost of an audit required under subparagraph (A).
+Use of surcharges for audits.—Any designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may use the amount received to pay the cost of an audit required under subparagraph (A).
 
 &emsp;&emsp;(F)
 
@@ -238,15 +248,15 @@ Waiver of paragraph.—The Secretary of the Treasury may waive the application o
 
 &emsp;&emsp;(G)
 
-Nonapplicability to federal entities.—This paragraph shall not apply to any Federal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
+Nonapplicability to federal entities.—This paragraph shall not apply to any Federal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
 
 &emsp;&emsp;(H)
 
-Availability of books and records.—An organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such payment, to the Inspector General of the Department of the Treasury or the Comptroller General of the United States, upon the request of such Inspector General or the Comptroller General, all books, records, and work papers belonging to or used by the organization, or by any independent public accountant who audited the organization in accordance with subparagraph (A), which may relate to the receipt or expenditure of any such amount by the organization.
+Availability of books and records.—An organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such payment, to the Inspector General of the Department of the Treasury or the Comptroller General of the United States, upon the request of such Inspector General or the Comptroller General, all books, records, and work papers belonging to or used by the organization, or by any independent public accountant who audited the organization in accordance with subparagraph (A), which may relate to the receipt or expenditure of any such amount by the organization.
 
 &emsp;(3)
 
-Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>2</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
+Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>1</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
 
 &emsp;(4)
 
@@ -282,15 +292,25 @@ Requirements.—Each report submitted under paragraph (1) shall include, with re
 
 &emsp;&emsp;(D) a description of the efforts of the Mint in keeping the sale price of numismatic items as low as practicable.
 
-(Added Pub. L. 102–390, title II, §221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(b)(1), (2), (c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, §3, Nov. 6, 2000, 114 Stat. 1931.)
+(Added Pub. L. 102–390, title II, §221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(b)(1), (2), (c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, §3, Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §103(d)(2), title II, §201(a), Apr. 23, 2003, 117 Stat. 619.)
 
 #### References in Text
 
 Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b), is section 221(b) of Pub. L. 102–390, which is set out below.
 
+The date of the enactment of the American 5-Cent Coin Design Continuity Act of 2003, referred to in subsec. (f)(1)(B)(ii), is the date of enactment of Pub. L. 108–15, which was approved Apr. 23, 2003.
+
 The date of enactment of the Treasury, Postal Service, and General Government Appropriations Act, 1997, referred to in subsec. (g)(1), is the date of enactment of section 101(f) of title I of div. A of Pub. L. 104–208, which was approved Sept. 30, 1996.
 
 #### Amendments
+
+2003—Subsec. (c)(4), (5). Pub. L. 108–15, §103(d)(2), redesignated par. (5) as (4) and struck out heading andtext of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
+
+Subsec. (f)(1). Pub. L. 108–15, §201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
+
+&emsp;“(A) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
+
+&emsp;“(B) the designated recipient organization submits an audited financial statement that demonstrates to the satisfaction of the Secretary of the Treasury that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the maximum amount the organization may receive from the proceeds of such surcharge.”
 
 2000—Subsec. (e)(2). Pub. L. 106–445, §3(1), substituted “contain” for “reflect” in introductory provisions.
 
@@ -302,9 +322,13 @@ Subsec. (f). Pub. L. 104–208, §101(f) \[title V, §529(b)(2)\], added subsec.
 
 Subsec. (g). Pub. L. 104–208, §101(f) \[title V, §529(c)\], added subsec. (g).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–15, title II, §201(b), Apr. 23, 2003, 117 Stat. 620, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as of the date of the enactment of Public Law 104–208 \[Sept. 30, 1996\].”
+
 #### Effective Date of 1996 Amendment
 
-Section 101(f) \[title V, §529(b)(3)\] of Pub. L. 104–208 provided that: “The amendments made by this section\[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 101(f) \[title V, §529(b)(3)\] of Pub. L. 104–208 provided that: “The amendments made by this section \[probably should be this subsection, amending this section\] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date
 
@@ -352,9 +376,7 @@ Other terms.—The terms ‘Fund’ and ‘numismatic item’ have the meaning g
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5112, 5132, 5135, 5136 of this title.
+This section is referred to in sections 5112, 5132, 5136 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

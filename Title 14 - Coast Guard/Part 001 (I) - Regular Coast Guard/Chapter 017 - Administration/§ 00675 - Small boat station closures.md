@@ -12,13 +12,13 @@ Closures.—The Secretary of Homeland Security may not close a Coast Guard multi
 
 &emsp;&emsp;(C) Coast Guard search and rescue standards related to search and rescue response times are met; and
 
-&emsp;(2) provides an opportunity for public comment and for public meetings in the area ofthe station or subunit with regard to the decision to close the station or subunit.
+&emsp;(2) provides an opportunity for public comment and for public meetings in the area of the station or subunit with regard to the decision to close the station or subunit.
 
 (b)
 
 Operational Flexibility.—The Secretary may implement any management efficiencies within the small boat station system, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide. No stations or subunits may be closed under this subsection except in accordance with subsection (a).
 
-(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §674; renumbered §675, Pub. L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–324, title III, §309(a), Oct. 19, 1996, 110 Stat. 3919, §674; renumbered §675, Pub.L. 107–295, title IV, §405(a)(1), Nov. 25, 2002, 116 Stat. 2115; amended Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 

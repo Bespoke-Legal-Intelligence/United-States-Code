@@ -2,7 +2,7 @@
 
 (a)
 
-Approval of Attorney General Required.—Public money may not be expended to purchase land or any interest in land unless the Attorney General gives prior written approval ofthe sufficiency of the title to the land for the purpose for which the Federal Government is acquiring the property.
+Approval of Attorney General Required.—Public money may not be expended to purchase land or any interest in land unless the Attorney General gives prior written approval of the sufficiency of the title to the land for the purpose for which the Federal Government is acquiring the property.
 
 (b)
 

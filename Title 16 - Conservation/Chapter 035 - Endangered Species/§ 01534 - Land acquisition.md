@@ -4,7 +4,7 @@
 
 The Secretary, and the Secretary of Agriculture with respect to the National Forest System, shall establish and implement a program to conserve fish, wildlife, and plants, including those which are listed as endangered species or threatened species pursuant to section 1533 of this title. To carry out such a program, the appropriate Secretary—
 
-&emsp;(1) shall utilize the land acquisition and other authority under the Fish and WildlifeAct of 1956, as amended \[16 U.S.C. 742a et seq.\], the Fish and Wildlife Coordination Act, as amended \[16 U.S.C. 661 et seq.\], and the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], as appropriate; and
+&emsp;(1) shall utilize the land acquisition and other authority under the Fish and Wildlife Act of 1956, as amended \[16 U.S.C. 742a et seq.\], the Fish and Wildlife Coordination Act, as amended \[16 U.S.C. 661 et seq.\], and the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], as appropriate; and
 
 &emsp;(2) is authorized to acquire by purchase, donation, or otherwise, lands, waters, or interest therein, and such authority shall be in addition to any other land acquisition authority vested in him.
 
@@ -16,7 +16,7 @@ Funds made available pursuant to the Land and Water Conservation Fund Act of 196
 
 #### References in Text
 
-The Fish and Wildlife Act of 1956, as amended, referred to in subsec. (a)(1), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, as amended, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+The Fish and Wildlife Act of 1956, as amended, referred to in subsec. (a)(1), is act Aug. 8, 1956, ch. 1036,70 Stat. 119, as amended, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 The Fish and Wildlife Coordination Act, as amended, referred to in subsec. (a)(1), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 

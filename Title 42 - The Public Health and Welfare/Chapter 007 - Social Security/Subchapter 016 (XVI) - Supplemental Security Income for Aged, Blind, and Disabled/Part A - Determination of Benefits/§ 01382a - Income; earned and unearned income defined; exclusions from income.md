@@ -60,7 +60,7 @@
 
 &emsp;(12) interest income received on assistance funds referred to in paragraph (11) within the 9-month period beginning on the date such funds are received (or such longer periods as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period);
 
-&emsp;(13) any support or maintenance assistance furnished to or on behalf of such individual (and spouse if any) which (as determined under regulations of the Commissioner of Social Security by such State agency as the chief executive officer of the State may designate) is based on need for such support or maintenance, including assistance received to assist in meeting the costs of home energy (including both heating and cooling), and which is (A) assistance furnished in kind by a private nonprofit agency, or (B) assistance furnished by a supplier of home heating oil or gas, by an entity providing home energy whose revenuesare primarily derived on a rate-of-return basis regulated by a State or Federal governmental entity, or by a municipal utility providing home energy;
+&emsp;(13) any support or maintenance assistance furnished to or on behalf of such individual (and spouse if any) which (as determined under regulations of the Commissioner of Social Security by such State agency as the chief executive officer of the State may designate) is based on need for such support or maintenance, including assistance received to assist in meeting the costs of home energy (including both heating and cooling), and which is (A) assistance furnished in kind by a private nonprofit agency, or (B) assistance furnished by a supplier of home heating oil or gas, by an entity providing home energy whose revenues are primarily derived on a rate-of-return basis regulated by a State or Federal governmental entity, or by a municipal utility providing home energy;
 
 &emsp;(14) assistance paid, with respect to the dwelling unit occupied by such individual (or such individual and spouse), under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the National Housing Act \[12 U.S.C. 1701 et seq.\], section 101 of the Housing and Urban Development Act of 1965 \[12 U.S.C. 1701s\], title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], or section 202(h) of the Housing Act of 1959 \[12 U.S.C. 1701q(h)\];
 
@@ -70,7 +70,7 @@
 
 &emsp;(17) any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
 
-&emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
+&emsp;(18) relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to thetreatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
 &emsp;(19) any refund of Federal income taxes made to such individual (or such spouse) by reason of section 32 of the Internal Revenue Code of 1986 (relating to earned income tax credit), and any payment made to such individual (or such spouse) by an employer under section 3507 of such Code (relating to advance payment of earned income credit);
 
@@ -100,7 +100,7 @@ The National Housing Act, referred to in subsec. (b)(14), is act June 27, 1934, 
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b)(14), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted section 1701s of Title 12 and amended sections 1451 and 1465 of this title.
 
-The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended.Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(14), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (b)(18), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
@@ -270,7 +270,7 @@ Amendment by Pub. L. 97–35 effective with respect to months after first calend
 
 Section 202(b) of Pub. L. 96–265 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to remuneration received in months after September 1980.”
 
-Amendment by section 302(b) of Pub. L. 96–265 applicable with respect to expenses incurred on or after first day of sixth month which begins after June 9, 1980, seesection 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
+Amendment by section 302(b) of Pub. L. 96–265 applicable with respect to expenses incurred on or after first day of sixth month which begins after June 9, 1980, see section 302(c) of Pub. L. 96–265, set out as a note under section 423 of this title.
 
 Section 101(b)(1)(B) of Pub. L. 96–222 provided that: “The amendments made by subparagraphs (A) and (B) of subsection (a)(2) \[amending this section and section 602 of this title\] shall apply to payments for months beginning after December 31, 1979.”
 

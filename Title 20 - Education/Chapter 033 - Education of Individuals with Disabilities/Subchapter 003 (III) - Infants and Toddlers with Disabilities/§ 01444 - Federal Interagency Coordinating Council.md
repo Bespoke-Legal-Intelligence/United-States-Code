@@ -36,7 +36,7 @@ The Council shall be composed of—
 
 &emsp;(4) a representative of programs administered under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\];
 
-&emsp;(5) a representative of the Health Care Financing Administration;
+&emsp;(5) a representative of the Centers for Medicare \& Medicaid Services;
 
 &emsp;(6) a representative of the Division of Birth Defects and Developmental Disabilities of the Centers for Disease Control;
 
@@ -98,7 +98,7 @@ No member of the Council shall cast a vote on any matter that would provide dire
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the establishment or operation of the Council.
 
-(Pub. L. 91–230, title VI, §644, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 121; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737.)
+(Pub. L. 91–230, title VI, §644, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 121; amended Pub. L. 106–402, title IV, §401(b)(1), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 108–173, title IX, §900(e)(6)(C), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### References in Text
 
@@ -111,6 +111,8 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 A prior section 1444, Pub. L. 91–230, title VI, §643, formerly §644, Apr. 13, 1970, 84 Stat. 186; Pub. L. 93–380, title VI, §619, Aug. 21, 1974, 88 Stat. 585; Pub. L. 95–49, §5, June 17, 1977, 91 Stat. 231; Pub. L. 98–199, §12, Dec. 2, 1983, 97 Stat. 1374; Pub. L. 99–457, title III, §314, Oct. 8, 1986, 100 Stat. 1171; renumbered §643 and amended Pub. L. 101–476, title V, §§503, 504, title IX, §901(b)(147), (148), Oct. 30, 1990, 104 Stat. 1138, 1149; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
 #### Amendments
+
+2003—Subsec. (b)(5). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 2000—Subsec. (b)(4). Pub. L. 106–402 substituted “the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “the Developmental Disabilities Assistance and Bill of Rights Act”.
 

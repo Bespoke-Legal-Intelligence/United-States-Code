@@ -6,7 +6,7 @@ There is authorized to be appropriated for the Office of Federal Procurement Pol
 
 #### Amendments
 
-1996—Pub. L. 104–106 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out the provisionsof this chapter, and for no other purpose, $4,500,000 for the fiscal year ending September 30, 1984, and such sums as may be necessary for each succeeding fiscal year.”
+1996—Pub. L. 104–106 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out the provisions of this chapter, and for no other purpose, $4,500,000 for the fiscal year ending September 30, 1984, and such sums as may be necessary for each succeeding fiscal year.”
 
 1988—Pub. L. 100–679 substituted “such sums as may be necessary for each succeeding fiscal year” for “for each of the three succeeding fiscal years”.
 

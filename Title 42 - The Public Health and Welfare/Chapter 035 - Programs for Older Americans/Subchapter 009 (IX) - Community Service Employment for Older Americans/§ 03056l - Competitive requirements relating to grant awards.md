@@ -144,7 +144,7 @@ The Secretary shall select the eligible applicants to receive grants under subse
 
 #### (A) After second year of failure
 
-&emsp;&emsp;If a State fails to meet the performance measures for a second consecutive program year, the Secretary shall provide for the conduct by the State of a competition toaward, for the first full program year following the determination (minimizing, to the extent possible, the disruption of services provided to enrollees), an amount equal to 25 percent of the funds available to the State for such year.
+&emsp;&emsp;If a State fails to meet the performance measures for a second consecutive program year, the Secretary shall provide for the conduct by the State of a competition to award, for the first full program year following the determination (minimizing, to the extent possible, the disruption of services provided to enrollees), an amount equal to 25 percent of the funds available to the State for such year.
 
 #### (B) After third year of failure
 

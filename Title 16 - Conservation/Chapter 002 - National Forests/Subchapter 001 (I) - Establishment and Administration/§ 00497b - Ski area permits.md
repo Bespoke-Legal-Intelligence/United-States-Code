@@ -26,7 +26,7 @@ The Secretary of Agriculture (hereinafter referred to as “the Secretary”) is
 
 #### (c) Rules and regulations
 
-Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations to implement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986.
+Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations toimplement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986.
 
 #### (d) Construction with Secretary's duties under other laws
 

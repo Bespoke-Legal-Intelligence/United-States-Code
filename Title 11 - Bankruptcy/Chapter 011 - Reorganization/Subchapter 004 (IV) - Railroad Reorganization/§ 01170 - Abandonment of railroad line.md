@@ -26,7 +26,7 @@
 
 I74senate report no. 95–989
 
-Subsection (a) of section 1178 \[enacted as section 1170\] permits the court to authorize the abandonment of a railroad line if the abandonment is consistent with the public interest and either in the best interest of the estate or essential to the formulation of a plan. This avoids the normal abandonment requirements of generally applicable railroad regulatory law.
+Subsection (a) of section 1178 \[enacted as section 1170\] permits the court to authorize the abandonment of a railroad line if the abandonment is consistent with the public interest and either in the best interest of the estate or essential to the formulation of a plan. Thisavoids the normal abandonment requirements of generally applicable railroad regulatory law.
 
 Subsection (b) permits some participation by the Interstate Commerce Commission in the abandonment process. The Commission's role, however, is only advisory. The Commission will represent the public interest, while the trustee and various creditors and equity security holders will represent the interests of those who have invested money in the enterprise. The court will balance the various interests and make an appropriate decision. The subsection specifies that if, except for the pendency of the railroad reorganization case, the proposed abandonment would require Commission approval, then the trustee, with the approval of the court, must initiate an application for the abandonment with the Commission. The court may then fix a time within which the Commission must report to the court on the application.
 
@@ -36,7 +36,7 @@ Subsection (d) stays the enforcement of an abandonment until the time for taking
 
 #### References in Text
 
-Section 11347 of title 49, referred to in subsec. (e)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I,§102(a), Dec. 29, 1995, 109 Stat. 804. For provisions similar to those contained in section 11347, see section 11326(a) of Title 49.
+Section 11347 of title 49, referred to in subsec. (e)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. For provisions similar to those contained in section 11347, see section 11326(a) of Title 49.
 
 #### Amendments
 

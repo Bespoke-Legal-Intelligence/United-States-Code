@@ -10,7 +10,7 @@ The Chief Administrative Officer is authorized to receive for deposit, amounts c
 
 #### (c) Deposit of receipts; availability for expenditure
 
-Receipts from the commissions and charges set forth in subsections (a) and (b) of this section shall be deposited in the United States Treasury for credit to the appropriation for “Salaries and Expenses of the United StatesHouse of Representatives”, and shall be available for expenditure upon the approval of the Committee on Appropriations of the House of Representatives.
+Receipts from the commissions and charges set forth in subsections (a) and (b) of this section shall be deposited in the United States Treasury for credit to the appropriation for “Salaries and Expenses of the United States House of Representatives”, and shall be available for expenditure upon the approval of the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 100–458, title III, §306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, §204(64), Aug. 20, 1996, 110 Stat. 1739.)
 
@@ -20,7 +20,7 @@ Section is from the Legislative Branch Appropriations Act, 1989.
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–186, §204(64)(A), substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(64)(A), substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (b). Pub. L. 104–186, §204(64)(B), substituted “Chief Administrative Officer” for “Clerk”, struck out “but not limited to Legislative Service Organizations,” after “entity, including”, and substituted “, except that no amount charged to the Members’ Representational Allowance” for “: <i>Provided</i>, That no amounts charged to the official expense allowances of Members of the House”.
 

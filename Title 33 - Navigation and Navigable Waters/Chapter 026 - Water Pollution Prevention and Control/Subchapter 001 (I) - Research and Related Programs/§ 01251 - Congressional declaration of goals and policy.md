@@ -110,9 +110,9 @@ Section 519, formerly section 518, of Act June 30, 1948, ch. 758, title V, as ad
 
 Section 4 of Pub. L. 92–500 provided that:
 
-“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution ControlAct as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
-“(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediatelyprior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
+“(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
 “(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act \[section 1282 of this title\] and in subsection (c) of section 3 of this Act.”
 
@@ -174,7 +174,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 “(c)
 
-Contract With Consortium.—Within 30 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall seek to enter into a cooperative agreement or contract with the Consortium under which the Consortium will—
+Contract With Consortium.—Within 30 days after the date of enactment of this Act \[Oct. 29, 1992\],the Secretary of Commerce shall seek to enter into a cooperative agreement or contract with the Consortium under which the Consortium will—
 
 &emsp;“(1) be the academic administrative organization and fiscal agent for the Program;
 
@@ -248,7 +248,7 @@ Section 7 of Pub. L. 92–500 provided that: “The President shall undertake to
 
 #### National Policies and Goal Study
 
-Section 10 of Pub. L. 92–500 directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between these policies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
+Section 10 of Pub. L. 92–500 directed President to make a full and complete investigation and study of all national policies and goals established by law to determine what the relationship should be between thesepolicies and goals, taking into account the resources of the Nation, and to report results of his investigation and study together with his recommendations to Congress not later than two years after Oct. 18, 1972.
 
 #### Efficiency Study
 

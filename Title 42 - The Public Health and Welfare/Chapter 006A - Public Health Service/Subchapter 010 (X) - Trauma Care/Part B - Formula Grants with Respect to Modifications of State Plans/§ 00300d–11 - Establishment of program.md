@@ -6,7 +6,7 @@ The Secretary shall for each fiscal year make an allotment for each State in an 
 
 #### (b) Purpose
 
-Except as provided in section 300d–33 <sup>1</sup> of this title, the Secretary may not make payments under this part for a fiscal year unless the Stateinvolved agrees that, with respect to the trauma care component of the State plan for the provision of emergency medical services, the payments will be expended only for the purpose of developing, implementing, and monitoring the modifications to such component described in section 300d–13 of this title.
+Except as provided in section 300d–33 <sup>1</sup> of this title, the Secretary may not make payments under this part for a fiscal year unless the State involved agrees that, with respect to the trauma care component of the State plan for the provision of emergency medical services, the payments will be expended only for the purpose of developing, implementing, and monitoring the modifications to such component described in section 300d–13 of this title.
 
 (July 1, 1944, ch. 373, title XII, §1211, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2919.)
 

@@ -9,13 +9,14 @@
 | [2634\.](%C2%A7%2002634%20-%20Motor%20vehicles%20transportation%20or%20storage%20for%20members%20on%20change%20of%20permanent%20station%20or%20extended%20deployment.md) | Motor vehicles: transportation or storage for members on change of permanent station or extended deployment. |
 | [2635\.](%C2%A7%2002635%20-%20Medical%20emergency%20helicopter%20transportation%20assistance%20and%20limitation%20of%20individual%20liability.md) | Medical emergency helicopter transportation assistance and limitation of individual liability. |
 | [2636\.](%C2%A7%2002636%20-%20Deductions%20from%20amounts%20due%20carriers.md) | Deductions from amounts due carriers. |
+| [2636a.](%C2%A7%2002636a%20-%20Loss%20or%20damage%20to%20personal%20property%20transported%20at%20Government%20expense%20full%20replacement%20value%3B%20deduction%20from%20amounts%20due%20carriers.md) | Loss or damage to personal property transported at Government expense: full replacement value; deduction from amounts due carriers. |
 | [2637\.](%C2%A7%2002637%20-%20Transportation%20in%20certain%20areas%20outside%20the%20United%20States.md) | Transportation in certain areas outside the United States. |
 | [2638\.](%C2%A7%2002638%20-%20Transportation%20of%20civilian%20clothing%20of%20enlisted%20members.md) | Transportation of civilian clothing of enlisted members. |
 | [2639\.](%C2%A7%2002639%20-%20Transportation%20to%20and%20from%20school%20for%20certain%20minor%20dependents.md) | Transportation to and from school for certain minor dependents. |
 | [2640\.](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md) | Charter air transportation of members of the armed forces. |
 | [2641\.](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md) | Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft. |
 | [2641a.](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md) | Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii. |
-| [2642\.](%C2%A7%2002642%20-%20Reimbursement%20rate%20for%20airlift%20services%20provided%20to%20Central%20Intelligence%20Agency.md) | Reimbursement rate for airlift services provided to Central Intelligence Agency. |
+| [2642\.](%C2%A7%2002642%20-%20Airlift%20services%20provided%20to%20certain%20other%20agencies%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md) | Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate. |
 | [2643\.](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md) | Commissary and exchange services: transportation overseas. |
 | [2644\.](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md) | Control of transportation systems in time of war. |
 | [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
@@ -25,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VI, §634(b), title X, §1006(b)(2), Nov. 24, 2003, 117 Stat. 1510, 1585, added item 2636a and amended item 2642 generally, substituting “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency”.
 
 2001—Pub. L. 107–107, div. A, title V, §574(b), Dec. 28, 2001, 115 Stat. 1122, added item 2647.
 
@@ -76,13 +79,14 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02634 - Motor vehicles transportation or storage for members on change of permanent station or extended deployment](%C2%A7%2002634%20-%20Motor%20vehicles%20transportation%20or%20storage%20for%20members%20on%20change%20of%20permanent%20station%20or%20extended%20deployment.md)
 - [&sect; 02635 - Medical emergency helicopter transportation assistance and limitation of individual liability](%C2%A7%2002635%20-%20Medical%20emergency%20helicopter%20transportation%20assistance%20and%20limitation%20of%20individual%20liability.md)
 - [&sect; 02636 - Deductions from amounts due carriers](%C2%A7%2002636%20-%20Deductions%20from%20amounts%20due%20carriers.md)
+- [&sect; 02636a - Loss or damage to personal property transported at Government expense full replacement value; deduction from amounts due carriers](%C2%A7%2002636a%20-%20Loss%20or%20damage%20to%20personal%20property%20transported%20at%20Government%20expense%20full%20replacement%20value%3B%20deduction%20from%20amounts%20due%20carriers.md)
 - [&sect; 02637 - Transportation in certain areas outside the United States](%C2%A7%2002637%20-%20Transportation%20in%20certain%20areas%20outside%20the%20United%20States.md)
 - [&sect; 02638 - Transportation of civilian clothing of enlisted members](%C2%A7%2002638%20-%20Transportation%20of%20civilian%20clothing%20of%20enlisted%20members.md)
 - [&sect; 02639 - Transportation to and from school for certain minor dependents](%C2%A7%2002639%20-%20Transportation%20to%20and%20from%20school%20for%20certain%20minor%20dependents.md)
 - [&sect; 02640 - Charter air transportation of members of the armed forces](%C2%A7%2002640%20-%20Charter%20air%20transportation%20of%20members%20of%20the%20armed%20forces.md)
 - [&sect; 02641 - Transportation of certain veterans on Department of Defense aeromedical evacuation aircraft](%C2%A7%2002641%20-%20Transportation%20of%20certain%20veterans%20on%20Department%20of%20Defense%20aeromedical%20evacuation%20aircraft.md)
 - [&sect; 02641a - Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii](%C2%A7%2002641a%20-%20Transportation%20of%20American%20Samoa%20veterans%20on%20Department%20of%20Defense%20aircraft%20for%20certain%20medical%20care%20in%20Hawaii.md)
-- [&sect; 02642 - Reimbursement rate for airlift services provided to Central Intelligence Agency](%C2%A7%2002642%20-%20Reimbursement%20rate%20for%20airlift%20services%20provided%20to%20Central%20Intelligence%20Agency.md)
+- [&sect; 02642 - Airlift services provided to certain other agencies use of Department of Defense reimbursement rate](%C2%A7%2002642%20-%20Airlift%20services%20provided%20to%20certain%20other%20agencies%20use%20of%20Department%20of%20Defense%20reimbursement%20rate.md)
 - [&sect; 02643 - Commissary and exchange services transportation overseas](%C2%A7%2002643%20-%20Commissary%20and%20exchange%20services%20transportation%20overseas.md)
 - [&sect; 02644 - Control of transportation systems in time of war](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md)
 - [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)

@@ -140,7 +140,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (iv) Plan years
 
-&emsp;&emsp;&emsp;Premiums under subsection (a) shall be reduced for the first plan year for which amounts described in clause (i) or (ii) are available and for any succeeding plan year until such amounts are exhausted.
+&emsp;&emsp;&emsp;Premiums under subsection (a) shall be reduced for the first plan year for whichamounts described in clause (i) or (ii) are available and for any succeeding plan year until such amounts are exhausted.
 
 #### (E) Allocations of contributions and refunds
 

@@ -34,7 +34,7 @@
 
 (b) Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
+(Pub. L. 93–415, title I, §101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, §3, Dec. 8, 1980, 94 Stat. 2750;Pub. L. 98–473, title II, §611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, §1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, §12202, Nov. 2, 2002, 116 Stat. 1869.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@
 
 &emsp;“(4) understaffed, overcrowded juvenile courts, prosecutorial and public defender offices, probation services, and correctional facilities and inadequately trained staff in such courts, services, and facilities are not able to provide individualized justice or effective help;
 
-&emsp;“(5) present juvenile courts, foster and protective care programs, and shelter facilities are inadequateto meet the needs of children, who, because of this failure to provide effective services, may become delinquents;
+&emsp;“(5) present juvenile courts, foster and protective care programs, and shelter facilities are inadequate to meet the needs of children, who, because of this failure to provide effective services, may become delinquents;
 
 &emsp;“(6) existing programs have not adequately responded to the particular problems of the increasing numbers of young people who are addicted to or who abuse alcohol and other drugs, particularly nonopiate or polydrug abusers;
 
@@ -90,15 +90,15 @@ Subsec. (a)(8). Pub. L. 96–509, §3(2)–(4), added par. (8).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–273, div. C, title II, §12223, Nov. 2, 2002, 116 Stat. 1896, provided that:
+Pub. L. 107–273, div. C, title II, §12223, Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, §110(2), (3), Feb. 20, 2003, 117 Stat. 67, provided that:
 
 “(a)
 
-Effective Date.—Except as provided in subsection (b), this subtitle \[subtitle B (§§12201–12223) of title II of div. C of Pub. L. 107–273, see Short Title of 2002 Amendment note below\] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act \[Nov. 2, 2002\].
+Effective Date.—Except as provided in subsection (b), this subtitle \[subtitle B (§§12201–12223) of title II of div. C of Pub. L. 107–273, see Short Title of 2002 Amendment note below\] and the amendments made by this subtitle shall take effect on the effective date provided in section 12102(b) \[set out as a note under section 3796ee of this title\].
 
 “(b)
 
-Application of Amendments.—The amendments made by this Act \[probably should be “this subtitle”\] shall apply only with respect to fiscal years beginning after September 30, 2002.”
+Application of Amendments.—The amendments made by this subtitle shall apply only with respect to fiscal years beginning on or after the effective date provided in subsection (a).”
 
 #### Effective Date of 1988 Amendment
 
@@ -139,6 +139,10 @@ Section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, §6(d)(2), Oct
 #### Effective Date
 
 Section 263(a), (b) of Pub. L. 93–415, as amended by Pub. L. 94–273, §32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, §6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(<i>l</i>) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449.
+
+#### Short Title of 2003 Amendments
+
+Pub. L. 108–96, §1, Oct. 10, 2003, 117 Stat. 1167, provided that: “This Act \[enacting section 5752 of this title, amending sections 5701, 5711, 5712, 5714–2, 5714–21, 5714–23, 5714–24, 5732a, 5751, 5771, 5773, and 5777 of this title, repealing section 5714–25 of this title, and enacting provisions set out as notes under sections 5701 and 5714–1 of this title\] may be cited as the ‘Runaway, Homeless, and Missing Children Protection Act’.”
 
 #### Short Title of 2002 Amendment
 
@@ -181,4 +185,6 @@ Section 501 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. 
 A prior section 501 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, provided that title V (enacting subchapter V of this chapter) could be cited as the “Incentive Grants for Local Delinquency Prevention Programs Act”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273, §12222(a).
 
 Another section 501 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, amended section 5031 of Title 18, Crimes and Criminal Procedure.
+
+Pub. L. 108–21, title III, §361, Apr. 30, 2003, 117 Stat. 665, provided that: “This subtitle \[subtitle D (§§361–363) of title III of Pub. L. 108–21, enacting part B of subchapter VI of this chapter\] may be cited as the ‘Code Adam Act of 2003’.”
 

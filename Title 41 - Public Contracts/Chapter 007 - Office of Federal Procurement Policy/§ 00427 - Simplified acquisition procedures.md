@@ -22,7 +22,7 @@ The simplified acquisition procedures contained in the Federal Acquisition Regul
 
 #### (e) Interim reporting rule
 
-Until October 1, 2004, procuring activities shall continue to report under section 417(d) of thistitle procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
+Until October 1, 2004, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
 
 #### (f) Special rules for commercial items
 
@@ -76,7 +76,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
@@ -84,5 +84,5 @@ Authority to issue solicitations for purchases of commercial items in excess of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252b, 253 of this title; title 6 sections 393, 425; title 10 sections 2302b, 2304; title 20 section 1018a.
+This section is referred to in sections 252b, 253, 428a of this title; title 6 sections 393, 425; title 10 sections 2302b, 2304; title 20 section 1018a.
 

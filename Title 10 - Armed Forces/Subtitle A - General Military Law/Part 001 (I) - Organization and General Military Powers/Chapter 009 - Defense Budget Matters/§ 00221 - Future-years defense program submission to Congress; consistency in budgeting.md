@@ -28,13 +28,71 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
-#### Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
+#### Annual Submission of Information Regarding Information Technology Capital Assets
 
-Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482, provided that:
+Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, provided that:
 
 “(a)
 
-Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2002, the amount requested for environmental restoration, waste management, and environmental compliance activities in such fiscal year with respect to military installations approved for closure or realignment under the base closure laws shall accurately reflect the anticipated cost of such activities in such fiscal year.
+Requirement To Submit Information.—Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
+
+&emsp;“(1) Information technology capital assets not covered by paragraph (2) that have an estimated total cost for the fiscal year for which the budget is submitted in excess of $10,000,000.
+
+&emsp;“(2) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted in excess of $30,000,000 and an estimated total life cycle cost (as computed in fiscal year 2003 constant dollars) in excess of $120,000,000.
+
+“(b)
+
+Required Information For Low-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
+
+&emsp;“(1) The name of the information technology capital asset.
+
+&emsp;“(2) The function of the asset.
+
+&emsp;“(3) The total cost of the asset for the fiscal year for which the budget is submitted, the current fiscal year, and the preceding fiscal year.
+
+“(c)
+
+Required Information For High-Threshold Assets.—With respect to each information technology capital asset described in subsection (a)(2), the Secretary of Defense shall include the following information:
+
+&emsp;“(1) The name and identifying acronym of the information technology capital asset.
+
+&emsp;“(2) The date of initiation of the asset.
+
+&emsp;“(3) A summary of performance measurements and metrics.
+
+&emsp;“(4) The total amount of funds, by appropriation account, appropriated and obligated for prior fiscal years, with a specific breakout of such information for the two preceding fiscal years.
+
+&emsp;“(5) The funds, by appropriation account, requested for the next fiscal year.
+
+&emsp;“(6) The name of each prime contractor and the work to be performed.
+
+&emsp;“(7) Program management and management oversight information.
+
+&emsp;“(8) The original baseline cost and most current baseline information.
+
+&emsp;“(9) Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 (Public Law 103–62; 107 Stat. 285) \[see Short Title of 1993 Amendment note under 31 U.S.C. 1101\] and the Clinger–Cohen Act of 1996 (divisions D and E of Public Law 104–106; 110 Stat. 642) \[§§5001–5703 and §§4001–4402, see Tables for classification\].
+
+“(d)
+
+Total Cost Determinations.—In estimating the total cost for a fiscal year or total life cycle cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘information technology’ has the meaning given that term in section 11101 of title 40, United States Code.
+
+&emsp;“(2) The term ‘capital asset’ has the meaning given that term in Office of Management and Budget Circular A–11.
+
+&emsp;“(3) The term ‘national security system’ has the meaning given that term in section 11103 of title 40, United States Code.”
+
+#### Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years
+
+Pub. L. 107–249, §131, Oct. 23, 2002, 116 Stat. 1586, provided that:
+
+“(a)
+
+Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2003, the amount requested for environmental restoration, waste management, and environmental compliance activities in such fiscal year with respect to military installations approved for closure or realignment under the base closure laws shall accurately reflect the anticipated cost of such activities in such fiscal year.
 
 “(b)
 
@@ -46,11 +104,19 @@ Base Closure Laws Defined.—In this section, the term ‘base closure laws’ m
 
 &emsp;“(3) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).”
 
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
+
 #### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
 
-Pub. L. 107–117, div. A, title VIII, §8097, Jan. 10, 2002, 115 Stat. 2268, provided that: “The budget of the President for fiscal year 2003 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2001 and 2002.”
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, foreach military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 108–87, title VIII, §8115, Sept. 30, 2003, 117 Stat. 1099.
+
+Pub. L. 107–117, div. A, title VIII, §8097, Jan. 10, 2002, 115 Stat. 2268.
 
 Pub. L. 106–259, title VIII, §8097, Aug. 9, 2000, 114 Stat. 695.
 
@@ -58,7 +124,7 @@ Pub. L. 106–79, title VIII, §8110, Oct. 25, 1999, 113 Stat. 1257.
 
 #### Budget Submissions on Active and Reserve Military Personnel Accounts
 
-Pub. L. 105–262, title VIII, §8093, Oct. 17, 1998, 112 Stat. 2319, provided that: “At the time the President submitshis budget for fiscal year 2000 and any fiscal year thereafter, the Department of Defense shall transmit to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] a budget justification document for the active and reserve Military Personnel accounts, to be known as the ‘M–1’, which shall identify, at the budget activity, activity group, and subactivity group level, the amounts requested by the President to be appropriated to the Department of Defense for military personnel in any budget request, or amended budget request, for that fiscal year.”
+Pub. L. 105–262, title VIII, §8093, Oct. 17, 1998, 112 Stat. 2319, provided that: “At the time the President submits his budget for fiscal year 2000 and any fiscal year thereafter, the Department of Defense shall transmit to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] a budget justification document for the active and reserve Military Personnel accounts, to be known as the ‘M–1’, which shall identify, at the budget activity, activity group, and subactivity group level, the amounts requested by the President to be appropriated to the Department of Defense for military personnel in any budget request, or amended budget request, for that fiscal year.”
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -88,9 +154,13 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 107–117, div. A, title VIII, §8039, Jan. 10, 2002, 115 Stat. 2256, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
+Pub. L. 108–87, title VIII, §8036, Sept. 30, 2003, 117 Stat. 1080, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8036, Oct. 23, 2002, 116 Stat. 1544.
+
+Pub. L. 107–117, div. A, title VIII, §8039, Jan. 10, 2002, 115 Stat. 2256.
 
 Pub. L. 106–259, title VIII, §8039, Aug. 9, 2000, 114 Stat. 683.
 
@@ -120,5 +190,5 @@ Section 1404 of Pub. L. 101–510 directed President to submit with budget submi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 113, 153, 222, 224, 2461a, 2501, 10543 of this title; title 50 section 404b.
+This section is referred to in sections 113, 153, 222, 223a, 224, 231, 2461a, 2501, 2869, 2884, 10543 of this title; title 6 section 454; title 50 section 404b.
 

@@ -42,5 +42,5 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559, 1305, 7502, 7512 of this title; title 15 section 1715; title 29 section 661; title 30 section 823; title 38 section 7101A; title 39 section 3601; title 42 sections 2000e–4, 3608.
+This section is referred to in sections 559, 1305, 7502, 7512 of this title; title 15 section 1715; title 29 section661; title 30 section 823; title 38 section 7101A; title 39 section 3601; title 42 sections 2000e–4, 3608.
 

@@ -32,7 +32,7 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 #### Codification
 
-Section is comprised of section 261 of Pub. L. 103–354. Subsec. (c) of section 261 of Pub. L. 103–354 amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 261 of Pub. L. 103–354. Subsec. (c) of section 261 of Pub. L. 103–354 amendedsection 5314 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

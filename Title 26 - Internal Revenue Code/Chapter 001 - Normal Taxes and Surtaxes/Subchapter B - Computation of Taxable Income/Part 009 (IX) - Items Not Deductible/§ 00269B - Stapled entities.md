@@ -290,7 +290,7 @@ In general.—In the case of any nonqualified obligation held by an exempt REIT 
 
 &emsp;“(2)
 
-Nonqualified obligation.—Except as otherwise provided in this subsection, the term ‘nonqualified obligation’ means any obligation secured by a mortgage on an interest in real property if the income of any member of the stapled REIT group forservices furnished with respect to such property would be impermissible tenant service income were such property held by the exempt REIT and such services furnished by the exempt REIT.
+Nonqualified obligation.—Except as otherwise provided in this subsection, the term ‘nonqualified obligation’ means any obligation secured by a mortgage on an interest in real property if the income of any member of the stapled REIT group for services furnished with respect to such property would be impermissible tenant service income were such property held by the exempt REIT and such services furnished by the exempt REIT.
 
 &emsp;“(3)
 

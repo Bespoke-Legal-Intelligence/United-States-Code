@@ -62,7 +62,7 @@ The interest charge determined under this section shall not be allowed as a dedu
 
 #### Prior Provisions
 
-A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L.94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
+A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L. 94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
 
 #### Amendments
 

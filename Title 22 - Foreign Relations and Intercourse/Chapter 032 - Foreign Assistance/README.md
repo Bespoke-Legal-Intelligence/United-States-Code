@@ -121,6 +121,92 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 2151b–2. | Assistance to combat HIV/AIDS. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Finding.
+
+(b)
+
+Policy.
+
+(c)
+
+Authorization.
+
+(d)
+
+Activities supported.
+
+(e)
+
+Annual report.
+
+(f)
+
+Funding limitation.
+
+(g)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 2151b–3. | Assistance to combat tuberculosis. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings.
+
+(b)
+
+Policy.
+
+(c)
+
+Authorization.
+
+(d)
+
+Coordination.
+
+(e)
+
+Priority to DOTS coverage.
+
+(f)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 2151b–4. | Assistance to combat malaria. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Finding.
+
+(b)
+
+Policy.
+
+(c)
+
+Authorization.
+
+(d)
+
+Coordination.
+
+|  |  |
+| :--- | ---: |
 | [2151c.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151c%20-%20Education%20and%20human%20resources%20development.md) | Education and human resources development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -166,7 +252,7 @@ Financing cooperative projects among United States, Israel, and developing count
 |  |  |
 | :--- | ---: |
 | [2151e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151e%20-%20Appropriate%20technology.md) | Appropriate technology. |
-| [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Micro-%20and%20small%20enterprise%20development%20credits.md) | Micro- and small enterprise development credits. |
+| [2151f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151f%20-%20Microenterprise%20development%20credits.md) | Microenterprise development credits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -630,9 +716,13 @@ Monitoring system.
 
 (d)
 
-Level of assistance.
+Development and certification of poverty measurement methods; application of methods.
 
 (e)
+
+Level of assistance.
+
+(f)
 
 Definitions.
 
@@ -1156,6 +1246,10 @@ Additional insurance functions.
 
 Pilot equity finance program.
 
+(h)
+
+Local currency guaranties for eligible investors.
+
 |  |  |
 | :--- | ---: |
 | [2194a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20003%20%28iii%29%20-%20Shelter%20and%20Other%20Credit%20Guaranty%20Programs/%C2%A7%2002194a%20-%20Contract%20authority%20of%20Corporation%3B%20specific%20authorization%20in%20appropriation%20Acts%20required.md) | Contract authority of Corporation; specific authorization in appropriation Acts required. |
@@ -1322,7 +1416,20 @@ Publication of policy guidelines.
 |  |  |
 | :--- | ---: |
 | [2200\.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20003%20%28iii%29%20-%20Shelter%20and%20Other%20Credit%20Guaranty%20Programs/%C2%A7%2002200%20-%20Small%20business%20development%20in%20less%20developed%20friendly%20countries%20or%20areas%3B%20encouragement%20by%20other%20Federal%20departments%2C%20etc.%2C%20of%20broadened%E2%80%A6.md) | Small business development in less developed friendly countries or areas; encouragement by other Federal departments, etc., of broadened participation by United States small business cooperatives and investors; project funding. |
-| [2200a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20003%20%28iii%29%20-%20Shelter%20and%20Other%20Credit%20Guaranty%20Programs/%C2%A7%2002200a%20-%20Report%20to%20Congress.md) | Reports to Congress. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Outreach to minority-owned and women-owned businesses.
+
+|  |  |
+| :--- | ---: |
+| [2200a.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20002%20%28II%29%20-%20Other%20Programs/Subpart%20003%20%28iii%29%20-%20Shelter%20and%20Other%20Credit%20Guaranty%20Programs/%C2%A7%2002200a%20-%20Report%20to%20Congress.md) | Report to Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1649,6 +1756,10 @@ Authorization of appropriations for Global Alliance for Vaccines and Immunizatio
 (<i>l</i>)
 
 Authorization of appropriations for International AIDS Vaccine Initiative.
+
+(m)
+
+Authorization of appropriations for malaria vaccine development programs.
 
 |  |  |
 | :--- | ---: |
@@ -2935,7 +3046,7 @@ Attendance of foreign military and civilian defense personnel at flight training
 
 (c)
 
-Post-undergraduate flying training at tactical leadership programs at training locations in Southwest Asia.
+Post-undergraduate flying training and tactical leadership programs at training locations in Southwest Asia.
 
 |  |  |
 | :--- | ---: |
@@ -4936,7 +5047,7 @@ Supplemental views in annual report.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1975, 2305, 2370a, 2428b, 2429a–2, 2460, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713, 6982, 7102, 7551 of this title; title 13 section 301; title 16 section 973r; title 48 section 1904; title 49 section 44908.
+This chapter is referred to in sections 1975, 2305, 2370a, 2428b, 2429a–2, 2460, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713, 6982, 7102, 7551, 7602, 7631, 7632, 7633 of this title; title 13 section 301; title 16 section 973r; title 48 section 1904; title 49 section 44908.
 
 
 ---

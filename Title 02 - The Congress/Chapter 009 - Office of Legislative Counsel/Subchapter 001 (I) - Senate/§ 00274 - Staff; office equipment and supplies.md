@@ -10,7 +10,7 @@ As originally enacted, section also provided for legislative counsel of House of
 
 #### Amendments
 
-1941—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
+<b>1941</b>—Act Sept. 20, 1941, substituted “President pro tempore of the Senate” for “President of the Senate”.
 
 #### Designation of Deputy Legislative Counsel
 
@@ -22,7 +22,7 @@ Pub. L. 85–75, July 1, 1957, 71 Stat. 251, provided in part that: “No more t
 
 #### Additional Senior Counsel
 
-Pub. L. 95–391, title I, §102, Sept. 30, 1978, 92 Stat. 771, provided that: “Effective October 1, 1978, the number ofemployees in the Office of the Legislative Counsel of the Senate who may be designated as, and receive the compensation of, a Senior Counsel is increased to five.”
+Pub. L. 95–391, title I, §102, Sept. 30, 1978, 92 Stat. 771, provided that: “Effective October 1, 1978, the number of employees in the Office of the Legislative Counsel of the Senate who may be designated as, and receive the compensation of, a Senior Counsel is increased to five.”
 
 Pub. L. 88–248, Dec. 30, 1963, 77 Stat. 804, provided in part: “That effective July 1, 1963, one additional employee in the Office of the Legislative Counsel of the Senate may be designated as Senior Counsel, and the compensation of the additional employee so designated shall be equal to the gross per annum rate presently authorized for other employees so designated.”
 

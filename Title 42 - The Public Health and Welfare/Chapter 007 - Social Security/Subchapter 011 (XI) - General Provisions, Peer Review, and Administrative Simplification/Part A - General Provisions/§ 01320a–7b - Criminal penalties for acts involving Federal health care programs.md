@@ -50,9 +50,13 @@ Whoever—
 
 &emsp;(D) a waiver of any coinsurance under part B of subchapter XVIII of this chapter by a Federally qualified health care center with respect to an individual who qualifies for subsidized services under a provision of the Public Health Service Act \[42 U.S.C. 201 et seq.\];
 
-&emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987; and
+&emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 or in regulations under section 1395w–104(e)(6) <sup>1</sup> of this title;
 
-&emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide.
+&emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
+
+&emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII of this chapter, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section); and
+
+&emsp;(H) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(<i>l</i>)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity.
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
@@ -72,7 +76,7 @@ Whoever knowingly and willfully—
 
 > &emsp;when the cost of the services provided therein to the patient is paid for (in whole or in part) under the State plan,
 
-> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
 #### (e) Violation of assignment terms
 
@@ -86,7 +90,19 @@ For purposes of this section, the term “Federal health care program” means�
 
 &emsp;(2) any State health care program, as defined in section 1320a–7(h) of this title.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522.)
+(Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287.)
+
+#### Amendment of Subsection (b)(3)
+
+<i>Pub. L. 108–173, title II, §237(d), (e), Dec. 8, 2003, 117 Stat. 2213, provided that, applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, subsection (b)(3) of this section is amended as follows:</i>
+
+<i>(1) in subparagraph (F), by striking “and” after the semicolon at the end;</i>
+
+<i>(2) in subparagraph (G), by striking the period at the end and inserting “; and”; and</i>
+
+<i>(3) by adding at the end the following new subparagraph:</i>
+
+<i>(H) any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title.</i>
 
 #### References in Text
 
@@ -96,11 +112,21 @@ The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 
 
 Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (b)(3)(E), is section 14(a) of Pub. L. 100–93, which is set out below.
 
+Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(3)(E), was in the original “section 1860D–3(e)(6)”, and was translated as reading “section 1860D–4(e)(6)” to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1395w–104(e)(6) relates to regulations.
+
+Part D of subchapter XVIII of this chapter, referred to in subsec. (b)(3)(G), is classified to section 1395w–101 et seq. of this title.
+
 #### Codification
 
 Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section 1909 of act Aug. 14, 1935, which was classified to section 1396h of this title, and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to section 1395nn of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(3)(E). Pub. L. 108–173, §101(e)(8)(A), which directed the amendment of subpar. (C) by inserting “or in regulations under section 1395w–104(e)(6) of this title” after “1987”, was executed by making the insertion in subpar. (E) to reflect the probable intent of Congress because “1987” does not appear in subpar. (C).
+
+Subsec. (b)(3)(G). Pub. L. 108–173, §101(e)(2), added subpar. (G).
+
+Subsec. (b)(3)(H). Pub. L. 108–173, §431(a), added subpar. (H).
 
 1997—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted “failure, conversion, or provision of counsel or assistance by any other person” for “failure, or conversion by any other person”.
 
@@ -120,7 +146,7 @@ Subsec. (a)(5). Pub. L. 104–191, §204(a)(3), substituted “a Federal” for 
 
 Subsec. (a)(6). Pub. L. 104–191, §217, added par. (6).
 
-Subsec. (b). Pub. L. 104–191, §204(a)(5), substituted “a Federal health care program” for “subchapter XVIII of this chapter or a State health care program” wherever appearing.
+Subsec. (b). Pub. L. 104–191, §204(a)(5), substituted “a Federal health care program” for “subchapter XVIII ofthis chapter or a State health care program” wherever appearing.
 
 Subsec. (b)(3)(F). Pub. L. 104–191, §216(a), added subpar. (F).
 
@@ -178,6 +204,10 @@ Subsec. (e). Pub. L. 95–142, §4(a), added subsec. (e). See Codification note 
 
 1972—Subsec. (c). Pub. L. 92–603, §278(b)(9), substituted “skilled nursing facility” for “skilled nursing home”.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title II, §237(e), Dec. 8, 2003, 117 Stat. 2213, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395w–21, 1395w–23, and 1395w–27 of this title\] shall apply to services provided on or after January 1, 2006, and contract years beginning on or after such date.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
@@ -214,11 +244,39 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1977 Amendment
 
-Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurringand statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
+Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurring and statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date
 
 Section 242(d) of Pub. L. 92–603 provided that: “The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\].”
+
+#### Rulemaking for Exception for Health Center Entity Arrangements
+
+Pub. L. 108–173, title IV, §431(b), Dec. 8, 2003, 117 Stat. 2287, provided that:
+
+“(1)
+
+Establishment.—
+
+&emsp;“(A)
+
+In general.—The Secretary \[of Health and Human Services\] shall establish, on an expedited basis, standards relating to the exception described in section 1128B(b)(3)(H) of the Social Security Act \[subsec. (b)(3)(H) of this section\], as added by subsection (a), for health center entity arrangements to the antikickback penalties.
+
+&emsp;“(B)
+
+Factors to consider.—The Secretary shall consider the following factors, among others, in establishing standards relating to the exception for health center entity arrangements under subparagraph (A):
+
+&emsp;&emsp;“(i) Whether the arrangement between the health center entity and the other party results in savings of Federal grant funds or increased revenues to the health center entity.
+
+&emsp;&emsp;“(ii) Whether the arrangement between the health center entity and the other party restricts or limits an individual's freedom of choice.
+
+&emsp;&emsp;“(iii) Whether the arrangement between the health center entity and the other party protects a health care professional's independent medical judgment regarding medically appropriate treatment.
+
+> &emsp;The Secretary may also include other standards and criteria that are consistent with the intent of Congress in enacting the exception established under this section.
+
+“(2)
+
+Deadline.—Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\] the Secretary shall publish final regulations establishing the standards described in paragraph (1).”
 
 #### Negotiated Rulemaking for Risk-Sharing Exception
 
@@ -270,7 +328,7 @@ Appointment of negotiated rulemaking committee and facilitator.—The Secretary 
 
 “(6)
 
-Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+Preliminary committee report.—The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than October 1, 1996, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus islikely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
 
 “(7)
 
@@ -290,5 +348,7 @@ Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320a–3a, 1320a–7, 1320a–7a, 1320a–7c, 1320a–7d, 1320a–7e, 1395b–5, 1396b, 1396r–6, 1397gg of this title.
+This section is referred to in sections 1320a–3a, 1320a–7, 1320a–7a, 1320a–7c, 1320a–7d, 1320a–7e, 1395b–5, 1395w–104, 1395w–141, 1396b, 1396r–6, 1397gg of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

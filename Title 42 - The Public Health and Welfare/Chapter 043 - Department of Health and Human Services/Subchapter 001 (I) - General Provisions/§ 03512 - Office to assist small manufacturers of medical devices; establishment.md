@@ -1,6 +1,6 @@
 ### §3512. Office to assist small manufacturers of medical devices; establishment
 
-The Secretary of Health and Human Services shall establish within the Department of Health and Human Services an identifiable office to provide technical and other nonfinancial assistance to small manufacturers of medical devices to assist them in complying with the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], as amended by this Act.
+The Secretary of Health and Human Services shall establish within the Department of Healthand Human Services an identifiable office to provide technical and other nonfinancial assistance to small manufacturers of medical devices to assist them in complying with the requirements of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], as amended by this Act.
 
 (Pub. L. 94–295, §10, May 28, 1976, 90 Stat. 583; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
@@ -12,5 +12,5 @@ This Act, referred to in text, means Pub. L. 94–295, May 28, 1976, 90 Stat. 53
 
 #### Change of Name
 
-“Secretary of Health and Human Services” and “Department of Health and Human Services” substitutedin text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” and “Department of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

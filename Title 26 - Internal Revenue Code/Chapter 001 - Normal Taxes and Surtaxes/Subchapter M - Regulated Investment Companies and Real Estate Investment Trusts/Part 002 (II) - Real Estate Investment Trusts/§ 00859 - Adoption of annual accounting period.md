@@ -24,11 +24,11 @@ A prior section 859, added Pub. L. 94–455, title XVI, §1601(a)(1), Oct. 4, 19
 
 1986—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–600, §701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision for nonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
+1978—Pub. L. 95–600, §701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision fornonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 669 ofPub. L. 99–514, set out as a note under section 856 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 669 of Pub. L. 99–514, set out as a note under section 856 of this title.
 
 #### Effective Date of 1978 Amendment
 

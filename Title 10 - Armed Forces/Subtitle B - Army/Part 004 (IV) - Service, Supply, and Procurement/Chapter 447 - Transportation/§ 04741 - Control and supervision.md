@@ -1,6 +1,6 @@
 ### §4741. Control and supervision
 
-The transportation of members, munitions of war, equipment, military property, and stores of the Army throughout the United States shall be under the immediate control and supervision of the Secretary of the Army and agents appointed or designated by him.
+The transportation of members, munitions of war, equipment, military property, and stores of the Army throughout the United States shall beunder the immediate control and supervision of the Secretary of the Army and agents appointed or designated by him.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 266.)
 

@@ -800,6 +800,10 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
+#### Delegation of Functions
+
+For delegation of certain functions of President under this section, see Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended, set out as a note under section 9615 of Title 42, The Public Health and Welfare.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
@@ -841,6 +845,8 @@ Section 2002(b)(2) of Pub. L. 101–380 provided that: “Subsection (k) \[of th
 #### Revision of National Contingency Plan
 
 Section 4201(c)\[(d)\] of Pub. L. 101–380 provided that: “Not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall revise and republish the National Contingency Plan prepared under section 311(c)(2) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(c)(2)\] (as in effect immediately before the date of the enactment of this Act) to implement the amendments made by this section and section 4202 \[amending this section\].”
+
+\[For delegation of functions of President under section 4201(c) of Pub. L. 101–380, set out above, see Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended, set out as a note under section 9615 of Title 42, The Public Health and Welfare.\]
 
 #### Implementation of National Planning and Response System
 
@@ -900,7 +906,7 @@ Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which transferred certain functi
 
 Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, as amended by Ex. Ord. No. 13286, §34, Feb. 28, 2003, 68 F.R. 10625, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Section 311 of the Federal WaterPollution Control Act, (“FWPCA”) (33 U.S.C. 1321), as amended by the Oil Pollution Act of 1990 (Public Law 101–380) (“OPA”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including Section 311 of the Federal Water Pollution Control Act, (“FWPCA”) (33 U.S.C. 1321), as amended by the Oil Pollution Act of 1990 (Public Law 101–380) (“OPA”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>National Contingency Plan, Area Committees, and Area Contingency Plans</i>. (a) Section 1 of Executive Order No. 12580 of January 23, 1987 \[42 U.S.C. 9615 note\], is amended to read as follows:
 

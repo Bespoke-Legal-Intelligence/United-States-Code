@@ -88,5 +88,5 @@ Implementation Report.—(1) Not later than January 1, 2001, the President of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2167 of this title.
+This section is referred to in sections 2167, 2612 of this title.
 

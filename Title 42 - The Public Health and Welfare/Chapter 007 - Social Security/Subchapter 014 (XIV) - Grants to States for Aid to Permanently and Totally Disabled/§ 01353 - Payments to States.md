@@ -1,6 +1,6 @@
 ### §1353. Payments to States
 
-(a) From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to the permanently and totally disabled, for each quarter, beginning with the quarter commencing October 1, 1958—
+(a) From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to thepermanently and totally disabled, for each quarter, beginning with the quarter commencing October 1, 1958—
 
 &emsp;(1) Repealed. Pub. L. 97–35, title XXI, §2184(c)(2)(A), Aug. 13, 1981, 95 Stat. 817.
 
@@ -20,7 +20,7 @@
 
 #### Repeal of Section
 
-<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is</i><i>repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
 #### Amendments
 
@@ -36,7 +36,7 @@
 
 1981—Subsec. (a)(1). Pub. L. 97–35, §2184(c)(2)(A), struck out par. (1) which provided for computation of the amount of payments in the case of any State other than Puerto Rico, the Virgin Islands, and Guam.
 
-Subsec. (a)(2). Pub. L. 97–35, §2184(c)(2)(B), struck out “(including expenditures for premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan and other insurance premiums for medical or any other type of remedial care or the cost thereof)”.
+Subsec. (a)(2). Pub. L. 97–35, §2184(c)(2)(B), struck out “(including expenditures for premiums under part B of subchapter XVIII of this chapter for individuals who are recipients of money payments under such plan andother insurance premiums for medical or any other type of remedial care or the cost thereof)”.
 
 Subsec. (a)(3). Pub. L. 97–35, §2353(<i>l</i>)(1)(A), redesignated subpar. (A)(iv) as subpar. (A), struck out former subpars. (A)(i), which included services prescribed pursuant to subsec. (c)(1) of this section and provided to applicants for or recipients of aid to the permanently and totally disabled to help them attain self-support, (A)(ii), which included other services, specified by the Secretary as likely to prevent or reduce dependency, and (A)(iii), which included any of the services in subpars. (A)(i) and (ii) deemed appropriate for individuals likely to become applicants for or recipients of aid to the permanently and totally disabled, redesignated former subpar. (C) as (B), and struck out former subpar. (B), which included one-half of so much of the expenditures, not included in subpar. (A), as are for services for applicants for or recipients of aid to the permanently and totally disabled or individuals likely to become applicants or recipients, and subpars. (D) and (E) and provision following subpar. (E), which specified what services were includible.
 

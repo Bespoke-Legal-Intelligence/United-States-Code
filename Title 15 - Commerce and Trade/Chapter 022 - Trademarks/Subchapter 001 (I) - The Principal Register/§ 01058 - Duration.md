@@ -26,7 +26,7 @@ During the 1-year period immediately preceding the end of the applicable time pe
 
 #### (d) Notice of affidavit requirement
 
-Special notice of the requirement for affidavits under this section shall be attached to eachcertificate of registration and notice of publication under section 1062(c) of this title.
+Special notice of the requirement for affidavits under this section shall be attached to each certificate of registration and notice of publication under section 1062(c) of this title.
 
 #### (e) Notification of acceptance or refusal of affidavits
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
+Pub. L. 105–330, title I, §109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of theTrademark Act of 1946 \[15 U.S.C. 1058\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
@@ -92,7 +92,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to Trademark Act of 1946
 

@@ -12,7 +12,7 @@ The application of nondiscriminatory treatment shall be limited to the period of
 
 The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) of this section and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
-(Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
+(Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
 
 #### References in Text
 
@@ -228,7 +228,7 @@ Pub. L. 104–171, Aug. 3, 1996, 110 Stat. 1539, provided that:
 
 “The Congress finds that—
 
-&emsp;“(1) Romania emerged from years of brutal Communist dictatorship in 1989 and approved a new Constitution and elected a Parliament by 1991, laying thefoundation for a modern parliamentary democracy charged with guaranteeing fundamental human rights, freedom of expression, and respect for private property;
+&emsp;“(1) Romania emerged from years of brutal Communist dictatorship in 1989 and approved a new Constitution and elected a Parliament by 1991, laying the foundation for a modern parliamentary democracy charged with guaranteeing fundamental human rights, freedom of expression, and respect for private property;
 
 &emsp;“(2) local elections, parliamentary elections, and presidential elections have been held in Romania, and 1996 will mark the second nationwide presidential elections under the new Constitution;
 
@@ -418,7 +418,7 @@ Effective Date.—Subsection (a) and the amendments made by subsection (b) apply
 
 #### “SEC. 104. SENSE OF THE CONGRESS REGARDING PROMPT PROVISION OF GSP TREATMENT TO THE PRODUCTS OF ESTONIA, LATVIA, AND LITHUANIA.
 
-“It is the sense of the Congress that the President should take prompt action under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] to provide preferential tariff treatment to the products of Estonia,Latvia, and Lithuania pursuant to the Generalized System of Preferences.”
+“It is the sense of the Congress that the President should take prompt action under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] to provide preferential tariff treatment to the products of Estonia, Latvia, and Lithuania pursuant to the Generalized System of Preferences.”
 
 #### Approval of Nondiscriminatory Treatment With Respect to Products of People's Republic of Bulgaria
 
@@ -442,7 +442,7 @@ Proc. No. 7553, May 3, 2002, 67 F.R. 30535, provided for restoration of nondiscr
 
 Proc. No. 4369, Apr. 24, 1975, 40 F.R. 18389, provided:
 
-Pursuant to the authority vested in me by the United States Constitution, I, as President of the United States of America, acting through duly empowered representatives, entered into negotiation with duly empowered representatives of the Socialist Republic of Romania looking toward the conclusion of an agreement governing trade relations between the United States of America and the Socialist Republic of Romania;
+Pursuant to the authority vested in me by the United States Constitution, I, as President of the UnitedStates of America, acting through duly empowered representatives, entered into negotiation with duly empowered representatives of the Socialist Republic of Romania looking toward the conclusion of an agreement governing trade relations between the United States of America and the Socialist Republic of Romania;
 
 The aforesaid negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (P.L. 93–618, January 3, 1975; 88 Stat. 1978) \[this chapter\];
 
@@ -510,7 +510,7 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, proc
 
 Federal Register promptly thereafter.
 
-IN WITNESS WHEREOF, I have signed this Proclamation this seventh day of April, in the year of our Lord one thousand nine hundred seventy-eight, and of the Independence of the United States of America the two hundred second.
+IN WITNESS WHEREOF, I have signed this Proclamation this seventh day of April, in the year of ourLord one thousand nine hundred seventy-eight, and of the Independence of the United States of America the two hundred second.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -594,7 +594,7 @@ Proc. No. 6175, Sept. 6, 1990, 55 F.R. 37643, provided:
 
 6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of a country heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act \[this chapter\].
 
-7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
+7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other actsaffecting import treatment, and actions taken thereunder.
 
 NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to sections 404, 405 and 604 of the Trade Act of 1974, as amended \[19 U.S.C. 2434, 2435, 2483\], do proclaim that:
 
@@ -634,7 +634,7 @@ Proc. No. 6307, June 24, 1991, 56 F.R. 29787, provided:
 
 6\. Section 405(c) of the Trade Act (19 U.S.C. 2435(c)) provides that a bilateral commercial agreement providing nondiscriminatory treatment to the products of a country heretofore denied such treatment, and a proclamation implementing such agreement, shall take effect only if approved by the Congress under the provisions of that Act.
 
-7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized TariffSchedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
+7\. Section 604 of the Trade Act (19 U.S.C. 2483) authorizes the President to embody in the Harmonized Tariff Schedule of the United States \[see 19 U.S.C. 1202\] the substance of the provisions of that Act, of other acts affecting import treatment, and actions taken thereunder.
 
 NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to sections 404, 405, and 604 of the Trade Act of 1974, as amended \[19 U.S.C. 2434, 2435, 2483\], do proclaim that:
 
@@ -664,7 +664,7 @@ Proc. No. 6308, June 24, 1991, 56 F.R. 29834, provided:
 
 2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
 
-3\. As a result of these negotiations, an “Agreement on Trade Relations Between the Government of the United States of America and the Government of the Mongolian People's Republic,” including exchanges of letters which form an integral part of the Agreement, the foregoing in English and Mongolian, was signed on January 23, 1991, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
+3\. As a result of these negotiations, an “Agreement on Trade Relations Between the Government of theUnited States of America and the Government of the Mongolian People's Republic,” including exchanges of letters which form an integral part of the Agreement, the foregoing in English and Mongolian, was signed on January 23, 1991, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
 
 4\. This Agreement conforms to the requirements relating to bilateral commercial agreements set forth in section 405(b) of the Trade Act (19 U.S.C. 2435(b)).
 
@@ -700,7 +700,7 @@ Proc. No. 6320, Aug. 2, 1991, 56 F.R. 37407, provided:
 
 1\. Pursuant to the authority vested in me by the Constitution and the laws of the United States, as President of the United States of America, I, acting through duly empowered representatives, entered into negotiations with representatives of the Union of Soviet Socialist Republics to conclude an agreement on trade relations between the United States of America and the Union of Soviet Socialist Republics.
 
-2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (PublicLaw 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
+2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
 
 3\. As a result of these negotiations, an “Agreement on Trade Relations Between the United States of America and the Union of Soviet Socialist Republics,” including annexes and exchanges of letters which form an integral part of the Agreement, the foregoing in English and Russian, was signed on June 1, 1990, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
 
@@ -794,7 +794,7 @@ Proc. No. 6445, June 15, 1992, 57 F.R. 26921, provided:
 
 1\. Pursuant to the authority vested in me by the Constitution and the laws of the United States, as President of the United States of America, I, acting through duly empowered representatives, entered into negotiations with representatives of Albania to conclude an agreement on trade relations between the United States of America and Albania.
 
-2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
+2\. These negotiations were conducted in accordance with the requirements of the Trade Act of 1974 (PublicLaw 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\].
 
 3\. As a result of these negotiations, an “Agreement on Trade Relations Between the United States of America and the Republic of Albania,” including exchanges of letters which form an integral part of the Agreement, the foregoing in English and Albanian, was signed on May 14, 1992, by duly empowered representatives of the two Governments and is set forth as an annex to this proclamation \[not set out in the Code\].
 
@@ -830,7 +830,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Determination of President of the United States, No. 96–44, Aug. 27, 1996, 61 F.R. 45859, provided:
 
-Since November 2, 1992, the United States of America and Albania have had in effect a bilateral Agreement on Trade Relations, in relation to which, pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), I reconfirm that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement and that actual or foreseeable reductions in UnitedStates tariffs and nontariff barriers to trade resulting from multilateral negotiations are, and continuously have been, satisfactorily reciprocated by Albania.
+Since November 2, 1992, the United States of America and Albania have had in effect a bilateral Agreement on Trade Relations, in relation to which, pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), I reconfirm that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement and that actual or foreseeable reductions in United States tariffs and nontariff barriers to trade resulting from multilateral negotiations are, and continuously have been, satisfactorily reciprocated by Albania.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
@@ -858,7 +858,7 @@ NOW, THEREFORE, I, GEORGE BUSH, President of the United States of America, actin
 
 (1) This proclamation shall become effective, said Agreement shall enter into force, and nondiscriminatory treatment shall be extended to the products of Romania, in accordance with the terms of said Agreement, on the date of exchange of written notices of acceptance in accordance with Article XVI of said Agreement. The United States Trade Representative shall publish notice of the effective date in the Federal Register.
 
-(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whose products are subject to duty at the rates set forth in rate of duty column 2 of the tariff schedule, is modified by striking out “Romania”.
+(2) Effective with respect to articles entered, or withdrawn from warehouse for consumption, into the customs territory of the United States on or after the date provided in paragraph (1) of this proclamation, general note 3(b) of the Harmonized Tariff Schedule of the United States, enumerating those countries whose products are subject to duty at the rates set forth inrate of duty column 2 of the tariff schedule, is modified by striking out “Romania”.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-second day of June, in the year of our Lord nineteen hundred and ninety-two, and of the Independence of the United States of America the two hundred and sixteenth.
 
@@ -896,7 +896,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Determination of President of the United States, No. 93–30, July 2, 1993, 58 F.R. 43785, provided:
 
-Pursuant to the authority vested in me under the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\], I determine, pursuant to section 405(a) of theTrade Act (19 U.S.C. 2435(a)), that the “Agreement on Trade Relations between the Government of the United States of America and the Government of Romania” will promote the purposes of the Trade Act and is in the national interest.
+Pursuant to the authority vested in me under the Trade Act of 1974 (Public Law 93–618, January 3, 1975; 88 Stat. 1978), as amended (the “Trade Act”) \[this chapter\], I determine, pursuant to section 405(a) of the Trade Act (19 U.S.C. 2435(a)), that the “Agreement on Trade Relations between the Government of the United States of America and the Government of Romania” will promote the purposes of the Trade Act and is in the national interest.
 
 You are authorized and directed to transmit copies of this determination to the appropriate Members of Congress and publish it in the Federal Register.
 
@@ -932,7 +932,7 @@ Proc. No. 6951, Nov. 7, 1996, 61 F.R. 58129, provided:
 
 Pursuant to section 2 of Public Law 104–171 \[set out as a note above\], and having due regard for the findings of the Congress in section 1 of said Law \[set out as a note above\], I hereby determine that Title IV of the Trade Act of 1974 (19 U.S.C. 2431–2441), should no longer apply to Romania.
 
-NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States, including but not limited to section 2 of Public Law 104–171, do proclaim that:
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under theauthority vested in me by the Constitution and the laws of the United States, including but not limited to section 2 of Public Law 104–171, do proclaim that:
 
 (1) Nondiscriminatory treatment (most-favored-nation treatment) shall be extended to the products of Romania, which will no longer be subject to Title IV of the Trade Act of 1974.
 
@@ -1018,7 +1018,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Determination of President of the United States, No. 97–5, Nov. 20, 1996, 61 F.R. 59303, provided:
 
-Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), I have determined that actual or foreseeable reductions in United States tariffs and nontariff barriers to trade resulting from multilateral negotiations are satisfactorily reciprocated by Turkmenistan. I have further found that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement on Trade Relations between the United States of America and Turkmenistan.
+Pursuant to my authority under subsection 405(b)(1) of the Trade Act of 1974 (19 U.S.C. 2435(b)(1)), I have determined that actual or foreseeable reductions in United States tariffs and nontariff barriers to trade resulting from multilateral negotiations are satisfactorily reciprocated by Turkmenistan. I have furtherfound that a satisfactory balance of concessions in trade and services has been maintained during the life of the Agreement on Trade Relations between the United States of America and Turkmenistan.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
@@ -1054,7 +1054,7 @@ Proc. No. 7207, July 1, 1999, 64 F.R. 36549, provided:
 
 3\. On November 13, 1998, members of the World Trade Organization (WTO), including the United States and 21 other major trading countries, announced in the WTO an agreement to eliminate tariffs on certain pharmaceuticals and chemical intermediates that were the subject of reciprocal duty elimination negotiations during the Uruguay Round of Multilateral Trade Negotiations (the “Uruguay Round”). A similar agreement between the United States and 16 other major trading countries eliminating tariffs on enumerated pharmaceuticals and chemical intermediates was implemented for the United States on April 1, 1997, by Proclamation 6982 \[not classified to the Code\], adding such goods to the scope of the agreement on pharmaceutical products reached at the conclusion of the Uruguay Round and reflected in Schedule XX–United States of America, annexed to the Marrakesh Protocol to the General Agreement on Tariffs and Trade (1994) (Schedule XX).
 
-4\. Section 111(b) of the Uruguay Round Agreements Act (URAA) (19 U.S.C. 3521(b)) authorizes the President to proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX for products that were the subject of reciprocal duty elimination negotiations during the Uruguay Round, if theUnited States agrees to such action in a multilateral negotiation under the auspices of the WTO, and after compliance with the consultation and layover requirements of section 115 of the URAA (19 U.S.C. 3524). Section 111(b) also authorizes the President to proclaim such modifications as are necessary to reflect such duty treatment in Schedule XX by means of rectifications thereof.
+4\. Section 111(b) of the Uruguay Round Agreements Act (URAA) (19 U.S.C. 3521(b)) authorizes the President to proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX for products that were the subject of reciprocal duty elimination negotiations during the Uruguay Round, if the United States agrees to such action in a multilateral negotiation under the auspices of the WTO, and after compliance with the consultation and layover requirements of section 115 of the URAA (19 U.S.C. 3524). Section 111(b) also authorizes the President to proclaim such modifications as are necessary to reflect such duty treatment in Schedule XX by means of rectifications thereof.
 
 5\. On April 29, 1999, pursuant to section 115 of the URAA, the United States Trade Representative (USTR) submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (“the Committees”) that sets forth the proposed tariff eliminations, together with the advice received from the appropriate private sector advisory committee and the United States International Trade Commission regarding the proposed tariff eliminations. During the 60-day period thereafter, the USTR consulted with the Committees on the proposed actions.
 
@@ -1174,7 +1174,7 @@ Proc. No. 7516, Dec. 27, 2001, 67 F.R. 479, provided:
 
 2\. On November 15, 1999, the United States and China agreed on certain terms and conditions for China's accession to the World Trade Organization (WTO) that when implemented will eliminate or greatly reduce the principal barriers to trade and investment in China.
 
-3\. On November 9, 2001, pursuant to section 101(b) of Public Law 106–286, 114 Stat. 881 \[set out as a note above\], I transmitted a report to the Congress certifying that the terms and conditions for the accession of China to the WTO are at least equivalent to those agreed between the United States and China on November 15, 1999. On November 10, 2001, the Ministerial Conference of the WTO approved the terms and conditions for China's accession and invited China to become amember of the WTO. China has accepted these terms and conditions and became a WTO member on December 11, 2001.
+3\. On November 9, 2001, pursuant to section 101(b) of Public Law 106–286, 114 Stat. 881 \[set out as a note above\], I transmitted a report to the Congress certifying that the terms and conditions for the accession of China to the WTO are at least equivalent to those agreed between the United States and China on November 15, 1999. On November 10, 2001, the Ministerial Conference of the WTO approved the terms and conditions for China's accession and invited China to become a member of the WTO. China has accepted these terms and conditions and became a WTO member on December 11, 2001.
 
 4\. Pursuant to section 101(a)(1) of Public Law 106–286, 114 Stat. 881 \[set out as a note above\], I hereby determine that chapter 1 of title IV of the Trade Act \[this part\] should no longer apply to China.
 

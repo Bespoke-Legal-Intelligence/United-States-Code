@@ -66,7 +66,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (c) Updating of disclosure
 
-During the period when an application is pending or assistance is being provided, the applicantshall update the disclosure required under the previous subsection within 30 days of any substantial change.
+During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
 #### (d) Limitation of assistance
 
@@ -118,7 +118,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Factors in determining amount of penalty
 
-&emsp;In determining the amount of a penalty under subsection (f) of this section, consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
+&emsp;In determining the amount of a penalty under subsection (f) of this section, consideration shall be given to such factors as the gravity of the offense, ability to pay the penalty, injury to the public, benefits received,deterrence of future violations, and such other factors as the Secretary may determine in regulations to be appropriate.
 
 #### (3) Reviewability of imposition of a penalty
 

@@ -84,7 +84,7 @@ The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of Jul
 
 1992—Subsec. (a). Pub. L. 102–378 struck out “(not to exceed 517)” after “positions” in first sentence and amended second sentence generally, substituting provisions authorizing establishment of positions by Director and by agency action for provisions specifying that only Director may establish positions.
 
-1986—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted “subsection (a) of this section” for “paragraph (1) of this subsection” wherever appearing in subsecs. (b) and (c) as redesignated.
+1986—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively,and substituted “subsection (a) of this section” for “paragraph (1) of this subsection” wherever appearing in subsecs. (b) and (c) as redesignated.
 
 1978—Subsec. (a). Pub. L. 95–454, §414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Experimental Personnel Program for Scientific and Technical Personnel
 
-Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314, provided that:
+Pub. L. 105–261, div. A, title XI, §1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\] title X, §1087(d)(6), title XI, §1113\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, §921(g), title XI, §1116, Nov. 24, 2003, 117 Stat. 1570, 1636, provided that:
 
 “(a)
 
@@ -124,7 +124,7 @@ Special Personnel Management Authority.—Under the program, the Secretary may�
 
 &emsp;&emsp;“(B) not more than 40 scientific and engineering positions in the designated laboratories of each of the military services; and
 
-&emsp;&emsp;“(C) not more than a total of 10 scientific and engineering positions in the National Imagery and Mapping Agency and the National Security Agency;
+&emsp;&emsp;“(C) not more than a total of 10 scientific and engineering positions in the National Geospatial-Intelligence Agency and the National Security Agency;
 
 &emsp;“(2) prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1) at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5, United States Code, as increased by locality-based comparability payments under section 5304 of such title, notwithstanding any provision of such title governing the rates of pay or classification of employees in the executive branch; and
 
@@ -150,7 +150,7 @@ Limitations on Additional Payments.—(1) The total amount of the additional pay
 
 “(e)
 
-Period of Program.—(1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on October 16, 2005.
+Period of Program.—(1) The period for carrying out the program authorized under this section begins on October 17, 1998, and ends on September 30, 2008.
 
 “(2) After the termination of the program—
 
@@ -174,7 +174,7 @@ Savings Provisions.—In the case of an employee who, on the last day of the pro
 
 “(g)
 
-Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 and ending in 2006, the Secretary of Defense shall submit a report on the program to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report submitted in a year shall cover the 12-month period ending on the day before the anniversary, in that year, of the date of the enactment of this Act.
+Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 and ending in 2009, the Secretary of Defense shall submit a report on the program to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report submitted in a year shall cover the 12-month period ending on the day before the anniversary, in that year, of the date of the enactment of this Act.
 
 “(2) The annual report shall contain, for the period covered by the report, the following:
 
@@ -188,7 +188,7 @@ Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 a
 
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
-Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of four years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, §119, Feb. 20, 2003, 117 Stat. 439, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of five years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
 
 \[Personnel management demonstration project transferred to Attorney General for continued use by Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and Secretary of the Treasury for continued use by Tax and Trade Bureau, see section 533 of Title 6, Domestic Security.\]
 

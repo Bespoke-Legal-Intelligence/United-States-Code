@@ -24,6 +24,10 @@ Section 609AA of Pub. L. 98–473 provided that:
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–182, §1, Dec. 15, 2003, 117 Stat. 2649, provided that: “This Act \[amending section 3796 of this title\] may be cited as the ‘Hometown Heroes Survivors Benefits Act of 2003’.”
+
 #### Short Title of 2002 Amendments
 
 Pub. L. 107–273, div. A, title IV, §401, Nov. 2, 2002, 116 Stat. 1789, provided that: “This title \[enacting sections 3796gg–0 to 3796gg–0d of this title, amending sections 3796gg–1 to 3796gg–5 of this title, and enacting provisions set out as a note under section 3796gg–0 of this title\] may be cited as the ‘Violence Against Women Office Act’.”
@@ -44,7 +48,7 @@ Pub. L. 106–561, §1, Dec. 21, 2000, 114 Stat. 2787, provided that: “This Ac
 
 Pub. L. 106–517, §1, Nov. 13, 2000, 114 Stat. 2407, provided that: “This Act \[amending sections 3793 and 3796<i>ll</i> to 3796<i>ll–2</i> of this title and enacting provisions set out as notes under sections 3796<i>ll</i> and 3796<i>ll</i>–2 of this title\] may be cited as the ‘Bulletproof Vest Partnership Grant Act of 2000’.”
 
-Pub. L. 106–515, §1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act \[enacting subchapter XII–J of this chapter, amending section 3793 of this title, and enacting provisions set out as a note under section 3796ii of this title\] may be cited as the ‘America's Law Enforcement and Mental Health Project’.”
+Pub. L. 106–515, §1, Nov. 13, 2000, 114 Stat. 2399, provided that: “This Act \[enacting subchapter XII–J of this chapter, amending section 3793 of this title, andenacting provisions set out as a note under section 3796ii of this title\] may be cited as the ‘America's Law Enforcement and Mental Health Project’.”
 
 Pub. L. 106–177, title I, §101, Mar. 10, 2000, 114 Stat. 35, provided that: “This title \[amending sections 3751, 10601, and 14601 of this title and enacting provisions set out as a note under section 10601 of this title\] may be cited as the ‘Child Abuse Prevention and Enforcement Act’.”
 
@@ -98,7 +102,7 @@ Section 1 of Pub. L. 90–351, June 19, 1968, 82 Stat. 197, provided: “That th
 
 #### Separability
 
-Section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of any part of this Act \[see Short Title note above\] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” \[Another section 1601 of Pub. L. 90–351 is classified to section 3796cc of this title.\]
+Section 1601 of Pub. L. 90–351, title XI, June 19, 1968, 82 Stat. 239, provided that: “If the provisions of anypart of this Act \[see Short Title note above\] or any amendments made thereby or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.” \[Another section 1601 of Pub. L. 90–351 is classified to section 3796cc of this title.\]
 
 #### References in Other Laws
 

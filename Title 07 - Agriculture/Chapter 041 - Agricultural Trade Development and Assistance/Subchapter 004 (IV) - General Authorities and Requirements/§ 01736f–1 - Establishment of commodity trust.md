@@ -36,7 +36,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2007 from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporationfor the release of eligible commodities under subsections (c)(2) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2007; and
+&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2007 from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(2) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2007; and
 
 &emsp;&emsp;&emsp;(ii) from funds authorized for that use by an appropriations Act.
 
@@ -110,7 +110,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 #### (A) In general
 
-&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C.1691 et seq.) and the funds shall be available to replenish the trust under subsection (b) of this section.
+&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b) of this section.
 
 #### (B) Basis for reimbursement
 

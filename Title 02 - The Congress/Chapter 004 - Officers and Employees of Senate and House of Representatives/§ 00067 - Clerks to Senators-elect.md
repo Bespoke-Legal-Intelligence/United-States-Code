@@ -6,5 +6,5 @@ A Senator entitled to receive his own salary may appoint the usual clerical assi
 
 #### Amendments
 
-1934—Act June 19, 1934, struck out provisions as to maximum of four clerical assistants and as to their compensation.
+<b>1934</b>—Act June 19, 1934, struck out provisions as to maximum of four clerical assistants and as to their compensation.
 

@@ -60,7 +60,7 @@ As used in this chapter—
 
 &emsp;(20) “record of proven success” means that a program, project, approach, or practice has been demonstrated by evaluation or by analysis of performance data and information to be successful in a number of jurisdictions or over a period of time in contributing to the accomplishment of objectives or to improving conditions identified with the problem, to which it is addressed;
 
-&emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiableimprovements in the criminal justice system if implemented as proposed;
+&emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiable improvements in the criminal justice system if implemented as proposed;
 
 &emsp;(22) “correctional option” includes community-based incarceration, weekend incarceration, boot camp prison, electronic monitoring of offenders, intensive probation, and any other innovative punishment designed to have the greatest impact on offenders who can be punished more effectively in an environment other than a traditional correctional facility;
 
@@ -82,7 +82,7 @@ Where appropriate, the definitions in subsection (a) of this section shall be ba
 
 One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
+(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov.18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
 
 #### Prior Provisions
 
@@ -120,7 +120,7 @@ Subsec. (a)(25). Pub. L. 103–322, §32101(c)(3), added par. (25).
 
 1988—Subsec. (a)(2). Pub. L. 100–690 substituted “section 3756(a)” for “section 3747(a)”.
 
-1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this titleAmerican Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
+1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
 
 Subsec. (a)(3). Pub. L. 99–396, §7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
 

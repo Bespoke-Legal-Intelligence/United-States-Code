@@ -124,7 +124,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 #### (B) Other agreements
 
-&emsp;&emsp;If the agreement accepted by the administering authority is an agreement describedin subsection (c) of this section, the liquidation of entries of the subject merchandise shall be suspended under section 1673b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1673b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
+&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, the liquidation of entries of the subject merchandise shall be suspended under section 1673b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1673b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
 
 #### (3) Where investigation is continued
 
@@ -182,7 +182,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 &emsp;&emsp;(B) if the investigation was not completed, resume the investigation as if its affirmative preliminary determination were made on the date of its determination under this paragraph,
 
-&emsp;&emsp;(C) if the investigation was completed under subsection (g) of this section, issue an antidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
+&emsp;&emsp;(C) if the investigation was completed under subsection (g) of this section, issue anantidumping duty order under section 1673e(a) of this title effective with respect to entries of merchandise liquidation of which was suspended,
 
 &emsp;&emsp;(D) if it considers the violation to be intentional, notify the Commissioner of Customs who shall take appropriate action under paragraph (2), and
 

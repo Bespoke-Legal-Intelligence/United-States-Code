@@ -96,7 +96,7 @@ Exception for participants in pay status.—The amendments made by this section 
 
 Irrevocable election.—For purposes of paragraph (2) \[set out above\] and section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982 \[see Effective Date of 1982 Amendment note below\], an individual who—
 
-&emsp;“(A) separated from service before January 1, 1985, with respect to paragraph (2), or January 1, 1983, with respect to section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982, and
+&emsp;“(A) separated from service before January 1, 1985, with respect to paragraph (2), or January 1, 1983, withrespect to section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982, and
 
 &emsp;“(B) meets the requirements of such paragraph or such section other than the requirement that there be an irrevocable election, and that the individual be in pay status,
 

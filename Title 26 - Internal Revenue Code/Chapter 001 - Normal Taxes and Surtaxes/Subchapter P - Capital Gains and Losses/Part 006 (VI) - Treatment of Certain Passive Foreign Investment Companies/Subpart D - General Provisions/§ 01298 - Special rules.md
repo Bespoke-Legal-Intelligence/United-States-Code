@@ -28,7 +28,7 @@ For purposes of this part—
 
 #### (4) Options
 
-&emsp;To the extent provided in regulations, if any person has an option to acquire stock, such stock shall be considered as owned by suchperson. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
+&emsp;To the extent provided in regulations, if any person has an option to acquire stock, such stock shall be considered as owned by such person. For purposes of this paragraph, an option to acquire such an option, and each one of a series of such options, shall be considered as an option to acquire such stock.
 
 #### (5) Successive application
 
@@ -188,7 +188,7 @@ For purposes of this part—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub.L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

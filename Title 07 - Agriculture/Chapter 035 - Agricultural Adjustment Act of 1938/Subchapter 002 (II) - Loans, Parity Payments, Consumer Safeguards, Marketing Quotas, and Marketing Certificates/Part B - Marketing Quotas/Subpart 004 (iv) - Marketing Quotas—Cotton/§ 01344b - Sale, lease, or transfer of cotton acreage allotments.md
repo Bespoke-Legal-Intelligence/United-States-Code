@@ -10,7 +10,7 @@ Transfers under this section shall be subject to the following conditions: (i) n
 
 #### (c) Extent of estate transferred
 
-The transfer of an allotment shall have the effect of transferring also the acreage history, farm base, and marketing quota attributable to such allotment and if the transfer is made prior to the determination of the allotment for any year the transfer shall include the right of the owner or operator to have an allotment determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease, the amount of the allotment shall be considered for purposes of determining allotments after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
+The transfer of an allotment shall have the effect of transferring also the acreage history, farm base, and marketing quota attributable to such allotment and if the transfer is made prior to the determination of the allotment for any year the transfer shall include the right of the owner or operator to have an allotment determined for the farm for such year: <i>Provided</i>, That in the case of a transfer by lease, the amount ofthe allotment shall be considered for purposes of determining allotments after the expiration of the lease to have been planted on the farm from which such allotment is transferred.
 
 #### (d) Period of ineligibility of land for new allotment
 
@@ -36,7 +36,7 @@ The Secretary shall by regulations authorize the exchange between farms in the s
 
 The provisions of this section relating to cotton shall apply only to upland cotton.
 
-(Feb. 16, 1938, ch. 30, title III, §344a, as added Pub. L. 89–321, title IV, §405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(3)(1),Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
+(Feb. 16, 1938, ch. 30, title III, §344a, as added Pub. L. 89–321, title IV, §405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(3)(1), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
 
 #### Amendments
 

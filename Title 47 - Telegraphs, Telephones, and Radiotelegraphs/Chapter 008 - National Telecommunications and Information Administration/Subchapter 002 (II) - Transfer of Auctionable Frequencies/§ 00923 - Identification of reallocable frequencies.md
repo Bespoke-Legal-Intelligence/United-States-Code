@@ -22,7 +22,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (2) Mixed uses permitted to be counted
 
-&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, butwhich are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
+&emsp;Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) of this section recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act \[47 U.S.C. 151 et seq.\] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
 
 &emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
@@ -164,7 +164,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (A) Authority of Federal entities to accept compensation
 
-&emsp;&emsp;In order to expedite the commercial use of the electromagnetic spectrum and notwithstanding section 3302(b) of title 31, any Federal entity which operates a Federal Government station may accept from any person payment of the expenses of relocating the Federal entity's operations from one ormore frequencies to another frequency or frequencies, including the costs of any modification, replacement, or reissuance of equipment, facilities, operating manuals, or regulations incurred by that entity. Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.
+&emsp;&emsp;In order to expedite the commercial use of the electromagnetic spectrum and notwithstanding section 3302(b) of title 31, any Federal entity which operates a Federal Government station may accept from any person payment of the expenses of relocating the Federal entity's operations from one or more frequencies to another frequency or frequencies, including the costs of any modification, replacement, or reissuance of equipment, facilities, operating manuals, or regulations incurred by that entity. Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.
 
 #### (B) Requirement to compensate Federal entities
 
@@ -216,7 +216,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (h) Federal action to expedite spectrum transfer
 
-Any Federal Government station which operates on electromagnetic spectrum that has beenidentified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) of this section and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
+Any Federal Government station which operates on electromagnetic spectrum that has been identified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) of this section and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
 
 #### (i) “Federal entity” defined
 

@@ -10,7 +10,7 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 &emsp;If the Secretary determines that any sugarcane processor who has been allocated a share of a State cane sugar allotment will be unable to market the processor's allocation of the State's allotment for the crop year—
 
-&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allocations for other processors within that State, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
+&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allocations for other processors within thatState, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
 
 &emsp;&emsp;(B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit proportionately to the allotments for other cane sugar States, depending on the capacity of each other State to fill the portion of the deficit to be assigned to it, with the reassigned quantity to each State to be allocated among processors in that State in proportion to the allocations of the processors;
 

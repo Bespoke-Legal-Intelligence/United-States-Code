@@ -16,7 +16,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(A) A program to provide and administer endowed positions that are associated with the research program of the National Institutes of Health. Such endowments may be expended for the compensation of individuals holding the positions, for staff, equipment, quarters, travel, and other expenditures that are appropriate in supporting the endowed positions.
 
-&emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnelin order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
+&emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
 
 &emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21.
 
@@ -86,7 +86,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;(A) The ex officio members of the Board under paragraph (1)(B) shall designate an individual to serve as the initial Chair of the Board.
 
-&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect amember of the Board to serve as the Chair of the Board.
+&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect a member of the Board to serve as the Chair of the Board.
 
 #### (3) Terms and vacancies
 
@@ -112,7 +112,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(i) Policies for the selection of the officers, employees, agents, and contractors of the Foundation.
 
-&emsp;&emsp;(ii) Policies, including ethical standards, for the acceptance, solicitation, and disposition of donations and grants to the Foundation and for the disposition of the assets of the Foundation. Policies with respect to ethical standards shall ensure that officers, employees and agents of the Foundation (including members of the Board) avoid encumbrances that would result in a conflict of interest, including a financial conflict of interest or a divided allegiance. Such policies shall include requirements for the provision of information concerning any ownership or controlling interest in entities related to the activities of the Foundation by such officers, employees and agents and their spouses and relatives.
+&emsp;&emsp;(ii) Policies, including ethical standards, for the acceptance, solicitation, and disposition of donations and grants to the Foundation and for the disposition of the assets ofthe Foundation. Policies with respect to ethical standards shall ensure that officers, employees and agents of the Foundation (including members of the Board) avoid encumbrances that would result in a conflict of interest, including a financial conflict of interest or a divided allegiance. Such policies shall include requirements for the provision of information concerning any ownership or controlling interest in entities related to the activities of the Foundation by such officers, employees and agents and their spouses and relatives.
 
 &emsp;&emsp;(iii) Policies for the conduct of the general operations of the Foundation.
 
@@ -264,7 +264,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (1) Applicability of certain standards to non-Federal employees
 
-&emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
+&emsp;In the case of any individual who is not an employee of the Federal Government and whoserves in association with the National Institutes of Health, with respect to financial assistance received from the Foundation, the Foundation may not provide the assistance of, or otherwise permit the work at the National Institutes of Health to begin until a memorandum of understanding between the individual and the Director of the National Institutes of Health, or the designee of such Director, has been executed specifying that the individual shall be subject to such ethical and procedural standards of conduct relating to duties performed at the National Institutes of Health, as the Director of the National Institutes of Health determines is appropriate.
 
 #### (2) Support services
 
@@ -424,5 +424,5 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 21 section 355a.
+This section is referred to in title 21 sections 355a, 355c.
 

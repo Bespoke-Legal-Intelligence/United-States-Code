@@ -34,7 +34,7 @@ For the purpose of making grants under subsection (a) of this section, there are
 
 #### Amendments
 
-1981—Subsec. (d). Pub. L. 97–129 substituted provisions relating to authorization of appropriations of $1,500,000 for each of the fiscal years 1982 and 1983 for provisions relating to such authorization for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979.
+1981—Subsec. (d). Pub. L. 97–129 substituted provisions relating to authorization of appropriations of$1,500,000 for each of the fiscal years 1982 and 1983 for provisions relating to such authorization for fiscal years ending Sept. 30, 1977, Sept. 30, 1978, and Sept. 30, 1979.
 
 #### Section Referred to in Other Sections
 

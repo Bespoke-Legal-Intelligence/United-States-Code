@@ -6,7 +6,7 @@ Except as herein modified, the provisions of the Longshore and Harbor Workers’
 
 &emsp;(1) at any military, air, or naval base acquired after January 1, 1940, by the United States from any foreign government; or
 
-&emsp;(2) upon any lands occupied or used by the United States for military or naval purposes in any Territory or possession outside the continental United States (including the United States Naval Operating Base, Guantanamo Bay, Cuba; and the Canal Zone); or
+&emsp;(2) upon any lands occupied or used by the United States for military or naval purposesin any Territory or possession outside the continental United States (including the United States Naval Operating Base, Guantanamo Bay, Cuba; and the Canal Zone); or
 
 &emsp;(3) upon any public work in any Territory or possession outside the continental United States (including the United States Naval Operating Base, Guantanamo Bay, Cuba; and the Canal Zone), if such employee is engaged in employment at such place under the contract of a contractor (or any subcontractor or subordinate subcontractor with respect to the contract of such contractor) with the United States; but nothing in this paragraph shall be construed to apply to any employee of such a contractor or subcontractor who is engaged exclusively in furnishing materials or supplies under his contract;
 
@@ -32,11 +32,11 @@ As used in this section—
 
 #### (c) Liability as exclusive
 
-The liability of an employer, contractor (or any subcontractor or subordinate subcontractor with respect to the contract of such contractor) under this chapter shall be exclusive and in place of all other liability of such employer, contractor, subcontractor, or subordinate contractor to his employees (and their dependents) coming within the purview of this chapter, under the workmen's compensation law of any State, Territory, or other jurisdiction, irrespective of the place where the contract of hire ofany such employee may have been made or entered into.
+The liability of an employer, contractor (or any subcontractor or subordinate subcontractor with respect to the contract of such contractor) under this chapter shall be exclusive and in place of all other liability of such employer, contractor, subcontractor, or subordinate contractor to his employees (and their dependents) coming within the purview of this chapter, under the workmen's compensation law of any State, Territory, or other jurisdiction, irrespective of the place where the contract of hire of any such employee may have been made or entered into.
 
 #### (d) “Contractor” defined
 
-As used in this section, the term “contractor” means any individual, partnership, corporation, or association, and includes any trustee, receiver, assignee, successor, or personal representative thereof, and the rights, obligations, liability, and duties of the employer under such Longshore and Harbor Workers’ Compensation Act \[33 U.S.C. 901 et seq.\] shall be applicable to such contractor.
+As used in this section, the term “contractor” means any individual, partnership, corporation, or association, and includes any trustee, receiver, assignee, successor, or personal representative thereof, and the rights, obligations, liability, and duties of the employer under suchLongshore and Harbor Workers’ Compensation Act \[33 U.S.C. 901 et seq.\] shall be applicable to such contractor.
 
 #### (e) Contracts within section; waiver of application of section
 
@@ -76,7 +76,7 @@ Subsec. (a)(6). Pub. L. 86–70, §40(b), struck out “or in Alaska or the Cana
 
 Subsec. (b)(4). Pub. L. 86–70, §40(c), added par. (4).
 
-Subsec. (e). Pub. L. 86–108 provided that the liability under this chapter of a contractor, subcontractor, or subordinate contractor engaged in performance of contracts, subcontracts, or subordinate contracts specified in subsec. (a)(5) of this section, and the conditions set forth therein, shall be applicable to the remaining terms of such contracts, subcontracts, and subordinate contracts entered into prior to June 30, 1958, but not completed on July 24, 1959.
+Subsec. (e). Pub. L. 86–108 provided that the liability under this chapter of a contractor, subcontractor, or subordinate contractor engaged in performance of contracts, subcontracts, or subordinate contracts specifiedin subsec. (a)(5) of this section, and the conditions set forth therein, shall be applicable to the remaining terms of such contracts, subcontracts, and subordinate contracts entered into prior to June 30, 1958, but not completed on July 24, 1959.
 
 1958—Subsec. (a)(5). Pub. L. 85–477, §502(a)(1), added par. (5).
 

@@ -6,7 +6,7 @@ To be eligible to receive a subgrant under this subpart, an eligible entity shal
 
 #### (b) Required documentation
 
-Each application shall include documentation, satisfactory to the State educational agency, that the eligible entity has the qualified personnel needed—
+Each application shall include documentation, satisfactory to the State educational agency,that the eligible entity has the qualified personnel needed—
 
 &emsp;(1) to develop, administer, and implement an Even Start program under this subpart; and
 

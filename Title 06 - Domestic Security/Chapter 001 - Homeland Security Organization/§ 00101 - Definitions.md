@@ -52,7 +52,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping.
 
-&emsp;(16)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
+&emsp;(16)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
 
 &emsp;(B) Nothing in this paragraph or any other provision of this chapter shall be construed to modify the definition of “United States” for the purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] or any other immigration or nationality law.
 
@@ -68,6 +68,10 @@ The Immigration and Nationality Act, referred to in par. (16)(B), is act June 27
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: “This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the ‘Homeland Security Act Amendments of 2003’.”
+
 #### Short Title
 
 Pub. L. 107–296, §1(a), Nov. 25, 2002, 116 Stat. 2135, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Homeland Security Act of 2002’.”
@@ -79,6 +83,8 @@ Pub. L. 107–296, title VIII, §861, Nov. 25, 2002, 116 Stat. 2238, provided th
 For short title of part I of subchapter VIII of this chapter as the “Homeland Security Information Sharing Act”, see section 481(a) of this title.
 
 Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
+
+\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
 
 #### National Commission on Terrorist Attacks Upon the United States
 
@@ -258,7 +264,7 @@ In general.—The Commission is authorized to secure directly from any executive
 
 &emsp;“(2)
 
-Receipt, handling, storage, and dissemination.—Information shall only be received, handled, stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
+Receipt, handling, storage, and dissemination.—Information shall only be received, handled,stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
 
 “(d)
 

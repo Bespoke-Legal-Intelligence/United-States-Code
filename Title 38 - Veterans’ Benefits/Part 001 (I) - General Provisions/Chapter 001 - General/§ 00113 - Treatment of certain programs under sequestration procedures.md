@@ -58,7 +58,7 @@
 
 #### References in Text
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f),is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to section 901 of Title 2, and was amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–577. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to section 901 of Title 2, and was amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat.1388–577. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 99–576, which was approved Oct. 28, 1986.
 

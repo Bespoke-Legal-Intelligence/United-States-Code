@@ -2,17 +2,17 @@
 
 (a)
 
-Build and Lease Authorized.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Transportation with respect to the Coast Guard, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary's jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
+Build and Lease Authorized.—Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary's jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
 
 (b)
 
-Submission and Authorization of Proposed Lease Contracts.—(1) The Secretary of a military department, or the Secretary of Transportation with respect to the Coast Guard, may enter into a lease contract under subsection (a) for such military housing as is authorized by law for the purposes of this section.
+Submission and Authorization of Proposed Lease Contracts.—(1) The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a lease contract under subsection (a) for such military housing as is authorized by law for the purposes of this section.
 
-(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
+(2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to section 1105 of title 31 for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
 
 (c)
 
-Competitive Process.—Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Transportation, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
+Competitive Process.—Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
 
 (d)
 
@@ -28,7 +28,7 @@ Conditions on Obligation of Funds.—A lease contract entered into for a militar
 
 &emsp;&emsp;(A) to Department of Defense specifications, in the case of a Department of Defense contract; and
 
-&emsp;&emsp;(B) to Department of Transportation specifications, in the case of a contract for the Coast Guard.
+&emsp;&emsp;(B) to Department of Homeland Security specifications, in the case of a contract for the Coast Guard.
 
 (e)
 
@@ -42,7 +42,7 @@ Right of First Refusal to Acquire.—A contract under this section shall provide
 
 Notice and Wait Requirements.—A contract may not be entered into for the lease of housing facilities under this section until—
 
-&emsp;(1) the Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
+&emsp;(1) the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard, submits to the appropriate committees of Congress, in writing, an economic analysis (based upon accepted life cycle costing procedures) which demonstrates that the proposed contract is cost-effective when compared with alternative means of furnishing the same housing facilities; and
 
 &emsp;(2) a period of 21 calendar days has expired following the date on which the economic analysis is received by those committees.
 
@@ -50,11 +50,19 @@ Notice and Wait Requirements.—A contract may not be entered into for the lease
 
 Support Buildings.—A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 
-(Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539.)
+(Added Pub. L. 102–190, div. B, title XXVIII, §2806(a)(1), Dec. 5, 1991, 105 Stat. 1539; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in subsec. (g) of section 2828 of this title, prior to repeal by Pub. L. 102–190, §2806(b)(1).
+
+#### Amendments
+
+2002—Subsecs. (a) to (c), (d)(4)(B), (g)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

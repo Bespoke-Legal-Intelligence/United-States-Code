@@ -8,7 +8,7 @@ License Requirement.—A license issued or transferred under this chapter is req
 
 &emsp;(2) for a citizen of the United States (as defined in section 70102(1)(A) or (B) of this title) to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, outside the United States.
 
-&emsp;(3) for a citizen of the United States (as defined in section 70102(1)(C) of this title) tolaunch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, outside the United States and outside the territory of a foreign country unless there is an agreement between the United States Government and the government of the foreign country providing that the government of the foreign country has jurisdiction over the launch or operation or reentry.
+&emsp;(3) for a citizen of the United States (as defined in section 70102(1)(C) of this title) to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, outside the United States and outside the territory of a foreign country unless there is an agreement between the United States Government and the government of the foreign country providing that the government of the foreign country has jurisdiction over the launch or operation or reentry.
 
 &emsp;(4) for a citizen of the United States (as defined in section 70102(1)(C) of this title) to launch a launch vehicle or to operate a launch site or reentry site, or to reenter a reentry vehicle, in the territory of a foreign country if there is an agreement between the United States Government and the government of the foreign country providing that the United States Government has jurisdiction over the launch or operation or reentry.
 
@@ -46,7 +46,7 @@ Oct. 30, 1984, Pub. L. 98–575, §6(a), (b), 98 Stat. 3057.
 
 49 App.:2605(b)(1) (last sentence), (2).
 
-In subsection (a)(2)–(4), the cross-reference is to section 70102(1) of the revised title (restating 49 App.:2603(12)) rather than to section 70102(11) (restating 49 App.:2603(11)) to correct a mistake. Section 3(2) of the Commercial Space Launch Act Amendments of 1988 (Public Law 100–657, 102 Stat. 3900) redesignated 49 App.:2603(11) as 49 App.:2603(12) but did not amend the cross-reference in 49 App.:2605(a).
+In subsection (a)(2)–(4), the cross-reference is to section 70102(1) of the revised title (restating 49App.:2603(12)) rather than to section 70102(11) (restating 49 App.:2603(11)) to correct a mistake. Section 3(2) of the Commercial Space Launch Act Amendments of 1988 (Public Law 100–657, 102 Stat. 3900) redesignated 49 App.:2603(11) as 49 App.:2603(12) but did not amend the cross-reference in 49 App.:2605(a).
 
 In subsection (a)(3) and (4), the words “the government of” are added for consistency in the revised title and with other titles of the United States Code. The words “in force” are omitted as surplus.
 

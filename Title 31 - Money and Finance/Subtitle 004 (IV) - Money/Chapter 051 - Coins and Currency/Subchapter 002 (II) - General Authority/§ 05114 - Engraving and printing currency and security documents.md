@@ -4,7 +4,7 @@
 
 (b) United States currency has the inscription “In God We Trust” in a place the Secretary decides is appropriate. Only the portrait of a deceased individual may appear on United States currency and securities. The name of the individual shall be inscribed below the portrait.
 
-(c) The Secretary may make a contract for a period of not more than 4 years to manufacture distinctive paper for United States currency and securities. To promote competition among manufacturers of the distinctive paper, the Secretary may split the award for the manufacture of the paper between the 2 bidders with the lowest prices a pound. When the Secretary decides that it is necessary to operate more than one mill to manufacture distinctive paper, the Secretary may—
+(c) The Secretary may make a contract for a period of not more than 4 years to manufacture distinctive paper for United States currency and securities. To promote competition among manufacturers of the distinctive paper, the Secretary may split the award for the manufacture of the paper between the 2 bidders with the lowest prices a pound. When the Secretary decides that it is necessary to operate more than onemill to manufacture distinctive paper, the Secretary may—
 
 &emsp;(1) employ individuals temporarily at rates of pay equivalent to the rates of pay of regular employees; and
 

@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in section 4111 of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7405 of this title.
+This section is referred to in sections 7405, 7454 of this title.
 

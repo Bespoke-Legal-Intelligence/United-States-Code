@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) 5 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and
 
-&emsp;(B) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5.
+&emsp;(B) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and inaccordance with the first two sentences of section 3109(b) of title 5, at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5.
 
 (2) In addition to any authority granted under paragraph (1) of this subsection, the President (or his designee) is authorized to employ individuals in the Office of Administration in accordance with section 3101 of title 5 and provisions relating thereto. Any individual so employed under the authority granted under such section 3101 shall be subject to the limitation specified in section 114 of this title.
 

@@ -236,5 +236,5 @@ By virtue of the authority vested in me as President of the United States and as
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 31–2; title 15 section 278g; title 22 sections 2458a, 2694; title 31 section 1353.
+This section is referred to in title 2 section 31–2; title 10 section 1051b; title 15 section 278g; title 22 sections 2458a, 2694; title 31 section 1353.
 

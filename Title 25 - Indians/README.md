@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 2002 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 2003 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 

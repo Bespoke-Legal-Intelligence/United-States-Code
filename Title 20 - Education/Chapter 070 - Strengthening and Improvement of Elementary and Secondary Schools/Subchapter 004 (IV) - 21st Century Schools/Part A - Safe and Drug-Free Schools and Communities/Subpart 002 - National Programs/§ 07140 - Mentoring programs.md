@@ -54,7 +54,7 @@
 
 &emsp;The Secretary may award grants from funds made available to carry out this subpart under section 7103(2) of this title to eligible entities to assist such entities in establishing and supporting mentoring programs and activities for children with greatest need that—
 
-&emsp;&emsp;(A) are designed to link such children (particularly children living in rural areas, high-crime areas, or troubled home environments,or children experiencing educational failure) with mentors who—
+&emsp;&emsp;(A) are designed to link such children (particularly children living in rural areas, high-crime areas, or troubled home environments, or children experiencing educational failure) with mentors who—
 
 &emsp;&emsp;&emsp;(i) have received training and support in mentoring;
 

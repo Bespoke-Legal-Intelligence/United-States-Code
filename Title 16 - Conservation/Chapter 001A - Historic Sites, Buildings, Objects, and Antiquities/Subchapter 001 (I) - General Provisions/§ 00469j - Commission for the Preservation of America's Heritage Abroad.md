@@ -82,7 +82,7 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to transmittal ofannual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 157 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (h) of this section relating to transmittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 157 of House Document No. 103–7.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

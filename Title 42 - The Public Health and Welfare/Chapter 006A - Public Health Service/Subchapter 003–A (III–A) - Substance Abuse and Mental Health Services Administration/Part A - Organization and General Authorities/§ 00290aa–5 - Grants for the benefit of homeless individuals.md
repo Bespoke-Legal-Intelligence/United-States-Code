@@ -38,7 +38,7 @@ No entity may receive a grant, contract, or cooperative agreement under subsecti
 
 There is authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §506, formerly §512, as added Pub. L. 98–509, title II, §206(a), Oct. 19,1984, 98 Stat. 2361; amended Pub. L. 100–77, title VI, §613(a), (b), July 22, 1987, 101 Stat. 524; renumbered §506 and amended Pub. L. 102–321, title I, §106, July 10, 1992, 106 Stat. 334; Pub. L. 106–310, div. B, title XXXII, §3202, Oct. 17, 2000, 114 Stat. 1190; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(July 1, 1944, ch. 373, title V, §506, formerly §512, as added Pub. L. 98–509, title II, §206(a), Oct. 19, 1984, 98 Stat. 2361; amended Pub. L. 100–77, title VI, §613(a), (b), July 22, 1987, 101 Stat. 524; renumbered §506 and amended Pub. L. 102–321, title I, §106, July 10, 1992, 106 Stat. 334; Pub. L. 106–310, div. B, title XXXII, §3202, Oct. 17, 2000, 114 Stat. 1190; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 
 #### Codification
 

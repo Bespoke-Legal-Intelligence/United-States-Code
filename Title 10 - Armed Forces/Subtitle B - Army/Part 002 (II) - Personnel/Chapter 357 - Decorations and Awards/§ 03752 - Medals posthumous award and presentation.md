@@ -56,5 +56,5 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3748 of this title.
+This section is referred to in sections 3748, 3755 of this title.
 

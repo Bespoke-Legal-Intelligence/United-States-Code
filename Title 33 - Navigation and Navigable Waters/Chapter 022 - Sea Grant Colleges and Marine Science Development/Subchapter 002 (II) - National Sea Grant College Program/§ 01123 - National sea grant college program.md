@@ -18,7 +18,7 @@ The national sea grant college program shall consist of the financial assistance
 
 #### (c) Responsibilities of Secretary
 
-(1) The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides an appropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
+(1) The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop at least every 4 years a strategic plan that establishes priorities for the national sea grant college program, provides anappropriately balanced response to local, regional, and national needs, and is reflective of integration with the relevant portions of the strategic plans of the Department of Commerce and of the Administration.
 
 (2) Within 6 months of March 6, 1998, the Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall establish guidelines related to the activities and responsibilities of sea grant colleges and sea grant institutes. Such guidelines shall include requirements for the conduct of merit review by the sea grant colleges and sea grant institutes of proposals for grants and contracts to be awarded under section 1124 of this title, providing, at a minimum, for standardized documentation of such proposals and peer review of all research projects.
 
@@ -76,7 +76,7 @@ The national sea grant college program shall consist of the financial assistance
 
 #### References in Text
 
-The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+The civil service laws, referred to in subsec. (c)(4)(A), are set forth in Title 5, Government Organization andEmployees. See, particularly, section 3301 et seq. of Title 5.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -84,7 +84,7 @@ This subchapter, referred to in subsec. (d)(3)(B)(iii), was in the original “t
 
 #### Amendments
 
-2002—Subsec. (c)(1). Pub. L. 107–299, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishespriorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
+2002—Subsec. (c)(1). Pub. L. 107–299, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, in consultation with the panel, sea grant colleges, and sea grant institutes, shall develop a long-range strategic plan which establishes priorities for the national sea grant college program and which provides an appropriately balanced response to local, regional, and national needs.”
 
 Subsec. (d)(3)(A). Pub. L. 107–299, §3(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “evaluate the programs of sea grant colleges and sea grant institutes, using the priorities, guidelines, and qualifications established by the Secretary;”.
 

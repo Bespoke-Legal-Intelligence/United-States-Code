@@ -22,7 +22,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;&emsp;(C) shall contain letters or numerals in a type size which shall be (i) established in relationship to the area of the principal display panel of the package, and (ii) uniform for all packages of substantially the same size; and
 
-&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statementare generally parallel to the base on which the package rests as it is designed to be displayed; and
+&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statement are generally parallel to the base on which the package rests as it is designed to be displayed; and
 
 &emsp;(4) The label of any package of a consumer commodity which bears a representation as to the number of servings of such commodity contained in such package shall bear a statement of the net quantity (in terms of weight or mass, measure, or numerical count) of each such serving.
 
@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 102–329, §1(1), substituted “weight or mass” for “
 
 Section 2 of Pub. L. 102–329 provided that: “The amendments made by section 1 \[amending this section and section 1454 of this title\] shall take effect on February 14, 1994. The amendments made by section 1 shall have no effect on the sale or distribution of products whose labels have been printed before such effective date. Nothing in the amendments made by section 1 shall apply to unit pricing, advertising, recipe programs, nutrition labeling, or other general pricing information. Nothing in the amendments made by section 1 shall be construed to require changes in package size or to affect in any way the size of packages.”
 
-Section 107(b) of Pub. L. 102–245, which provided that section 107 of Pub. L. 102–245 which amended this section and section 1454 of this title was to take effect 2 years after Feb. 14, 1992, was repealed by Pub. L. 102–329, §3, Aug. 3, 1992, 106 Stat. 848.
+Section 107(b) of Pub. L. 102–245, which provided that section 107 of Pub. L. 102–245 which amended this section and section 1454 of this title was to take effect 2years after Feb. 14, 1992, was repealed by Pub. L. 102–329, §3, Aug. 3, 1992, 106 Stat. 848.
 
 #### Section Referred to in Other Sections
 

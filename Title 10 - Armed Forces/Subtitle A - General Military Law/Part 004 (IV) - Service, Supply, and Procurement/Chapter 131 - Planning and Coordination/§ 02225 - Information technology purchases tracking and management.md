@@ -34,7 +34,7 @@ Data To Be Collected.—The data required to be collected under subsection (a) i
 
 &emsp;&emsp;(C) a small business concern owned and controlled by women.
 
-&emsp;(9) A statement regarding whether the purchase was made in compliance with the planning requirements under sections 5122 and 5123 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1422, 1423).
+&emsp;(9) A statement regarding whether the purchase was made in compliance with the planning requirements under sections 11312 and 11313 of title 40.
 
 (c)
 
@@ -68,7 +68,15 @@ Definitions.—In this section:
 
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640.)
+
+#### Amendments
+
+2003—Subsec. (b)(9). Pub. L. 108–178 substituted “sections 11312 and 11313 of title 40” for “sections 5122 and 5123 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1422, 1423)”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Time for Implementation; Applicability
 

@@ -6,7 +6,7 @@ Department of Defense Systems.—For purposes of section 2302(5) of this title, 
 
 &emsp;(1) the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $115,000,000 (based on fiscal year 1990 constant dollars); or
 
-&emsp;(2) the eventual total expenditure for procurement for the system is estimated to bemore than $540,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(2) the eventual total expenditure for procurement for the system is estimated to be more than $540,000,000 (based on fiscal year 1990 constant dollars).
 
 (b)
 

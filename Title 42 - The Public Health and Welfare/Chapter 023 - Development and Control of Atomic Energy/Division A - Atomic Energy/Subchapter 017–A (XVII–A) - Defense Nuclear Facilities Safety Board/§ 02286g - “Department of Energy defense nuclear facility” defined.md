@@ -18,7 +18,7 @@ As used in this subchapter, the term “Department of Energy defense nuclear fac
 
 #### References in Text
 
-Executive Order No. 12344, referred to in par. (1)(A), is set out as a note under section 7158 of this title.
+Executive Order No. 12344, referred to in par. (1)(A), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 The Nuclear Waste Policy Act of 1982, referred to in par. (2), is Pub. L. 97–425, Jan. 7, 1983, 96 Stat. 2201, as amended, which is classified generally to chapter 108 (§10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
 
@@ -34,5 +34,5 @@ References to the United States Enrichment Corporation deemed, as of the privati
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7256b, 7274b, 7274q of this title.
+This section is referred to in title 50 sections 2602, 2782, 2811.
 

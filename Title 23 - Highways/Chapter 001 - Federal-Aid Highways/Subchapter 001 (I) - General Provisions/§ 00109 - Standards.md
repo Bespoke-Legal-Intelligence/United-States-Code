@@ -96,9 +96,9 @@ Scenic and Historic Values.—Notwithstanding subsections (b) and (c), the Secre
 
 (q)
 
-Phase Construction.—Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with section 303 or in accordance with a statewide transportation improvement program approved by the Secretary.
+Phase Construction.—Safety considerations for a project under this title may be metby phase construction consistent with the operative safety management system established in accordance with section 303 or in accordance with a statewide transportation improvement program approved by the Secretary.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L.89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229.)
 
 #### References in Text
 
@@ -168,11 +168,23 @@ Subsecs. (h) to (j). Pub. L. 91–605, §136(b), added subsecs. (h) to (j).
 
 Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
-1963—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
+1963—Subsec. (b). Pub. L. 88–157 substituted “Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of suchproject” for “Such standards shall be adequate to accommodate the types and volumes of traffic forecast for the year 1975”, struck out “up” before “to such standards” and inserted “all” in phrase “throughout all the States”.
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certainexceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Highway Signs Relating to Veterans Cemeteries
+
+Pub. L. 108–29, §3, May 29, 2003, 117 Stat. 772, provided that:
+
+“(a)
+
+In General.—Notwithstanding the terms of any agreement entered into by the Secretary of Transportation and a State under section 109(d) or 402(a) of title 23, United States Code, a veterans cemetery shall be treated as a site for which a supplemental guide sign may be placed on any Federal-aid highway.
+
+“(b)
+
+Applicability.—Subsection (a) shall apply to an agreement entered into before, on, or after the date of the enactment of this Act \[May 29, 2003\].”
 
 #### International Roughness Index
 
@@ -260,11 +272,11 @@ Extensions.—The Secretary shall extend any time periods for review under this 
 
 “(c)
 
-Dispute Resolution.—When the Secretary determines that a Federal agency which is subject to a time period for its environmental review or analysis under this section has failed to complete such review, analysis, opinion, or decision on issuing any permit, license, or approval within the established time period or within any agreed-upon extension to such time period, the Secretary may, after notice and consultation with such agency, close the record on the matter before the Secretary. If the Secretary finds, after timely compliance with this section, that an environmental issue related to the project that an affected Federal agency has jurisdiction over by operation of Federal law has not been resolved, the Secretary and the head of the Federal agency shall resolve the matter not later than 30 days after the date of the finding by the Secretary.
+Dispute Resolution.—When the Secretary determines that a Federal agency which is subject to a time period for its environmental review or analysis under this section has failed to complete such review, analysis, opinion, or decision on issuing any permit, license, or approval within the established time period or within any agreed-upon extension to such time period, theSecretary may, after notice and consultation with such agency, close the record on the matter before the Secretary. If the Secretary finds, after timely compliance with this section, that an environmental issue related to the project that an affected Federal agency has jurisdiction over by operation of Federal law has not been resolved, the Secretary and the head of the Federal agency shall resolve the matter not later than 30 days after the date of the finding by the Secretary.
 
 “(d)
 
-Participation of State Agencies.—For any project eligible for assistance under chapter 1 of title 23, United States Code, or chapter 53 of title 49, United States Code, a State, by operation of State law, may require that all State agencies that have jurisdiction by State or Federal law over environmental-related issues that may be affected by the project, or that are required to issue any environmental-related reviews, analyses, opinions, or determinations on issuing any permits, licenses, or approvals for the project, be subject to the coordinated environmental review process established under this section unless the Secretary determines that a State's participation would not be inthe public interest. For a State to require State agencies to participate in the review process, all affected agencies of the State shall be subject to the review process.
+Participation of State Agencies.—For any project eligible for assistance under chapter 1 of title 23, United States Code, or chapter 53 of title 49, United States Code, a State, by operation of State law, may require that all State agencies that have jurisdiction by State or Federal law over environmental-related issues that may be affected by the project, or that are required to issue any environmental-related reviews, analyses, opinions, or determinations on issuing any permits, licenses, or approvals for the project, be subject to the coordinated environmental review process established under this section unless the Secretary determines that a State's participation would not be in the public interest. For a State to require State agencies to participate in the review process, all affected agencies of the State shall be subject to the review process.
 
 “(e)
 
@@ -374,7 +386,7 @@ Section 339(b) of Pub. L. 104–59 provided that:
 
 “(1)
 
-General rule.—No funds made available out of the Highway Trust Fund may be used to construct Type II noise barriers (as defined by section 772.5(i) of title 23, Code of Federal Regulations) pursuant to subsections (h) and (i) of section 109 of title 23, United States Code, if such barriers were not part of a project approved by the Secretary before the date of the enactment of this Act \[Nov. 28, 1995\].
+General rule.—No funds made available out of the Highway Trust Fund may be used to constructType II noise barriers (as defined by section 772.5(i) of title 23, Code of Federal Regulations) pursuant to subsections (h) and (i) of section 109 of title 23, United States Code, if such barriers were not part of a project approved by the Secretary before the date of the enactment of this Act \[Nov. 28, 1995\].
 
 “(2)
 
@@ -478,7 +490,7 @@ Definitions.—For purpose of this section—
 
 #### Survey and Report on Upgrading of Design Standards
 
-Section 1049 of Pub. L. 102–240 directed Secretary to conduct a survey to identify current State standards relating to geometric design, traffic control devices, roadside safety, safety appurtenance design, uniform traffic control devices, and sign legibility and directional clarity for all Federal-aid highways and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the survey and the crashworthiness of traffic lights, traffic signs, guardrails, impact attenuators, concrete barrier treatments, and breakaway utility poles for bridges and roadways currently used by States.
+Section 1049 of Pub. L. 102–240 directed Secretary to conduct a survey to identify current State standards relating to geometric design, traffic control devices, roadside safety, safety appurtenance design, uniformtraffic control devices, and sign legibility and directional clarity for all Federal-aid highways and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the survey and the crashworthiness of traffic lights, traffic signs, guardrails, impact attenuators, concrete barrier treatments, and breakaway utility poles for bridges and roadways currently used by States.
 
 #### Erosion Control Guidelines
 
@@ -494,7 +506,7 @@ More Stringent State Requirements.—Guidelines developed under subsection (a) s
 
 “(c)
 
-Consistency With Other Programs.—Guidelines developed under subsection (a) shall be consistent with nonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[33U.S.C. 1329\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[16 U.S.C. 1455b(g)\].”
+Consistency With Other Programs.—Guidelines developed under subsection (a) shall be consistent with nonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[33 U.S.C. 1329\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[16 U.S.C. 1455b(g)\].”
 
 #### Roadside Barrier Technology
 

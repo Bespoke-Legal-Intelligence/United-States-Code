@@ -26,7 +26,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (1) General rule
 
-&emsp;The amounts held by an insurer with respect to any beneficiary shall be prorated (in accordance with such regulations as may be prescribed by the Secretary) over the period orperiods with respect to which such payments are to be made. There shall be excluded from the gross income of such beneficiary in the taxable year received any amount determined by such proration. Gross income includes, to the extent not excluded by the preceding sentence, amounts received under agreements to which this subsection applies.
+&emsp;The amounts held by an insurer with respect to any beneficiary shall be prorated (in accordance with such regulations as may be prescribed by the Secretary) over the period or periods with respect to which such payments are to be made. There shall be excluded from the gross income of such beneficiary in the taxable year received any amount determined by such proration. Gross income includes, to the extent not excluded by the preceding sentence, amounts received under agreements to which this subsection applies.
 
 #### (2) Amount held by an insurer
 
@@ -104,7 +104,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) Flexible premium life insurance contract
 
-&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
+&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timingand amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
 
 #### (B) Premiums paid
 
@@ -294,7 +294,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;(D) the payment is to an individual whose actions were a substantial contributing factor to the death of the officer.
 
-#### (i) Certain employee death benefits payable by reason of death of certain terrorist victims
+#### (i) Certain employee death benefits payable by reason of death of certain terrorist victims or astronauts
 
 #### (1) In general
 
@@ -314,7 +314,11 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;For purposes of paragraph (1), the term “employee” includes a self-employed individual (as defined in section 401(c)(1)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429.)
+#### (4) Relief with respect to astronauts
+
+&emsp;The provisions of this subsection shall apply to any astronaut whose death occurs in the line of duty.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### References in Text
 
@@ -325,6 +329,10 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title.
 
 #### Amendments
+
+2003—Subsec. (i). Pub. L. 108–121, §110(b)(2), inserted “or astronauts” after “victims” in heading.
+
+Subsec. (i)(4). Pub. L. 108–121, §110(b)(1), added par. (4).
 
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
@@ -370,7 +378,7 @@ Subsec. (f). Pub. L. 94–455, §1901(a)(16), struck out subsec. (f) relating to
 
 1974—Subsec. (b)(2)(B). Pub. L. 93–406, §2005(c)(15), substituted “a lump sum distribution (as defined in section 402(e)(4)” for “total distributions payable (as defined in section 402(a)(3)) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death”.
 
-Subsec. (b)(2)(D). Pub. L. 93–406, §2007(b)(3), substituted “if the member or former member of the uniformed services by reason of whose death such annuityis payable” for “if the individual who made the election under such chapter”.
+Subsec. (b)(2)(D). Pub. L. 93–406, §2007(b)(3), substituted “if the member or former member of the uniformed services by reason of whose death such annuity is payable” for “if the individual who made the election under such chapter”.
 
 1969—Subsec. (b)(2)(B)(iii). Pub. L. 91–172 substituted references to section 170(b)(1)(A) (ii) and (vi), and to religious organizations, for references to section 503(b)(1), (2), or (3).
 
@@ -381,6 +389,10 @@ Subsec. (b)(2)(D). Pub. L. 93–406, §2007(b)(3), substituted “if the member 
 Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
 1958—Subsec. (b)(2)(B). Pub. L. 85–866 substituted “This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—” for “(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)”, and added cls. (i), (ii), and (iii).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–121, title I, §110(b)(3), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this subsection \[amending this section\] shall apply to amounts paid after December 31, 2002, with respect to deaths occurring after such date.”
 
 #### Effective Date of 2002 Amendment
 
@@ -426,7 +438,7 @@ Amendment by section 239 of Pub. L. 97–248 applicable to decedents dying after
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(16) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(16) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1906(b)(13)(A) of Pub. L. 94–455 effective Feb. 1, 1977, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
@@ -442,7 +454,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–365 applicable with respect to individuals making an election under chapter 73 ofTitle 10 who died after Dec. 31, 1965, see section 1(d) of Pub. L. 89–365, set out as an Effective Date note under section 122 of this title.
+Amendment by Pub. L. 89–365 applicable with respect to individuals making an election under chapter 73 of Title 10 who died after Dec. 31, 1965, see section 1(d) of Pub. L. 89–365, set out as an Effective Date note under section 122 of this title.
 
 #### Effective Date of 1962 Amendment
 

@@ -40,7 +40,7 @@ To carry out subsection (b) of this section, the TPCC shall develop and implemen
 
 &emsp;(3) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
-&emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areasof overlap and duplication identified under paragraph (3);
+&emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
 
 &emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
 

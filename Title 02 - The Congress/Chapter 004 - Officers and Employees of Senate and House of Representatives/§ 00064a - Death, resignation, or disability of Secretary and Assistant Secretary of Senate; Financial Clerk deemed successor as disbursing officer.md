@@ -6,13 +6,13 @@ For any period during which both the Secretary and the Assistant Secretary of th
 
 #### Amendments
 
-1984—Pub. L. 98–367 substituted “For any period during which both the Secretary and the Assistant Secretary of the Senate are unable (because of death, resignation, or disability) to discharge such Secretary's duties as disbursing officer of the Senate, the Financial Clerk of the Senate shall be deemed to be the successor of such Secretary as disbursing officer” for “In the event of the death, resignation, or disability of the Secretary of the Senate, the Financial Clerk of the Senate shall be deemed his successor as a disbursing officer and he shall serve as such disbursing officer until the end of the quarterly period during which a new Secretary shall have been elected and qualified, or such disability shall have been ended”.
+<b>1984</b>—Pub. L. 98–367 substituted “For any period during which both the Secretary and the Assistant Secretary of the Senate are unable (because of death, resignation, or disability) to discharge such Secretary's duties as disbursing officer of the Senate, the Financial Clerk of the Senate shall be deemed to be the successor of such Secretary as disbursing officer” for “In the event of the death, resignation, or disability of the Secretary of the Senate, the Financial Clerk of the Senate shall be deemed his successor as a disbursing officer and he shall serve as such disbursing officer until the end of the quarterly period during which a new Secretary shall have been elected and qualified, or such disability shall have been ended”.
 
-1972—Pub. L. 92–310 struck out provisions which related to the bond of the Financial Clerk.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which related to the bond of the Financial Clerk.
 
-1970—Pub. L. 91–382 substituted “Financial Clerk” for “Comptroller”.
+<b>1970</b>—Pub. L. 91–382 substituted “Financial Clerk” for “Comptroller”.
 
-1969—Pub. L. 91–105 substituted the Comptroller of the Senate for the Financial Clerk of the Senate as the successor of the Secretary of the Senate in the event of the death, resignation, or disability of the Secretary.
+<b>1969</b>—Pub. L. 91–105 substituted the Comptroller of the Senate for the Financial Clerk of the Senate as the successor of the Secretary of the Senate in the event of the death, resignation, or disability of the Secretary.
 
 #### Effective Date of 1970 Amendment
 

@@ -12,7 +12,7 @@
 
 (3) Any determination under this subsection shall be in accordance with regulations prescribed to carry out this subchapter.
 
-(e) If the Under Secretary for Health determines that payment of special pay to a physician or dentist who is employed on a less than half-time basis is the most cost-effective way available for providing needed medical or dentalspecialist services at a Department facility, the Under Secretary for Health may authorize the payment of special pay for factors other than for full-time status to that physician or dentist at a rate computed on the basis of the proportion that the part-time employment of the physician or dentist bears to full-time employment.
+(e) If the Under Secretary for Health determines that payment of special pay to a physician or dentist who is employed on a less than half-time basis is the most cost-effective way available for providing needed medical or dental specialist services at a Department facility, the Under Secretary for Health may authorize the payment of special pay for factors other than for full-time status to that physician or dentist at a rate computed on the basis of the proportion that the part-time employment of the physician or dentist bears to full-time employment.
 
 (f) Special pay may not be paid under this section to a physician or dentist who—
 

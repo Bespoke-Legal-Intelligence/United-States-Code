@@ -1,6 +1,6 @@
 ### §4110B. Coordination and nonduplication
 
-In carrying out this chapter, the Secretary shall require that an appropriate administrative entity in each State enter into an agreement with the Secretary regarding the implementation of this Act that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998.
+In carrying out this chapter, the Secretary shall require that an appropriate administrativeentity in each State enter into an agreement with the Secretary regarding the implementation of this Act that includes the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998.
 
 (Added Pub. L. 105–220, title III, §322, Aug. 7, 1998, 112 Stat. 1087.)
 

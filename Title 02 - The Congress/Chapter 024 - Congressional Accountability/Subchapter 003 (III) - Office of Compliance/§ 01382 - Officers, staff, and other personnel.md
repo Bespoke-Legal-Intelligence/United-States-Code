@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) exercise the authorities and perform the duties of the General Counsel as specified in this chapter; and
 
-&emsp;&emsp;(B) otherwise assist the Board and the Executive Director in carrying out their duties and powers, including representing the Office in any judicial proceeding under this chapter.
+&emsp;&emsp;(B) otherwise assist the Board and the Executive Director in carrying out their dutiesand powers, including representing the Office in any judicial proceeding under this chapter.
 
 #### (4) Attorneys in the office of the General Counsel
 

@@ -25,8 +25,6 @@
 
 This chapter is referred to in title 48 sections 1424b, 1617, 1821.
 
-<i><sup>1</sup></i><i> Another section 540C is set out preceding this section.</i>
-
 
 ---
 

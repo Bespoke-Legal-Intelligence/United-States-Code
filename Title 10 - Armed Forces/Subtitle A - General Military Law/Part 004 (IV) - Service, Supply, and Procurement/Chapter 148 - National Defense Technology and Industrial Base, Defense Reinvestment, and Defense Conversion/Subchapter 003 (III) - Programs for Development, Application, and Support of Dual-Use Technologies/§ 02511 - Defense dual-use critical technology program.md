@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. TheSecretary shall identify projects to be conducted as part of the program.
 
 (b)
 
@@ -32,7 +32,7 @@ Selection Criteria.—The criteria for the selection of projects under the progr
 
 &emsp;(4) An assessment of timely private sector investment in activities to achieve the goals and objectives of the proposed project other than through the project.
 
-&emsp;(5) The potential effectiveness of the project in the further development and application ofeach technology proposed to be developed by the project for the national technology and industrial base.
+&emsp;(5) The potential effectiveness of the project in the further development and application of each technology proposed to be developed by the project for the national technology and industrial base.
 
 &emsp;(6) The extent of the financial commitment of eligible firms to the proposed project.
 

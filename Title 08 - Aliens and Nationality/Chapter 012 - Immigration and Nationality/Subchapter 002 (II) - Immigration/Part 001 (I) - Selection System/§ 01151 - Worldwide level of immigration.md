@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Exclusive of aliens described in subsection (b) of this section, aliens born in a foreign state ordependent area who may be issued immigrant visas or who may otherwise acquire the status of an alien lawfully admitted to the United States for permanent residence are limited to—
+Exclusive of aliens described in subsection (b) of this section, aliens born in a foreign state or dependent area who may be issued immigrant visas or who may otherwise acquire the status of an alien lawfully admitted to the United States for permanent residence are limited to—
 
 &emsp;(1) family-sponsored immigrants described in section 1153(a) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(a) of this title) in a number not to exceed in any fiscal year the number specified in subsection (c) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year;
 
@@ -58,7 +58,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 &emsp;(A) who did not depart from the United States (without advance parole) within 365 days; and
 
-&emsp;(B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status insuch years under a provision of law (other than subsection (b) of this section) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
+&emsp;(B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status in such years under a provision of law (other than subsection (b) of this section) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
 
 (5) If any alien described in paragraph (4) (other than an alien described in paragraph (4)(B)(ii)) is subsequently admitted as an alien lawfully admitted for permanent residence, such alien shall not again be considered for purposes of paragraph (1).
 
@@ -84,7 +84,7 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 #### (1) Age on petition filing date
 
-&emsp;Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i) of this section, a determination of whether an alien satisfies the age requirement in the matter preceding subparagraph (A) of section 1101(b)(1) of this title shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under section 1154 of this title to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section.
+&emsp;Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i) of this section, a determination of whether an alien satisfies the age requirement in the matterpreceding subparagraph (A) of section 1101(b)(1) of this title shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under section 1154 of this title to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section.
 
 #### (2) Age on parent's naturalization date
 
@@ -189,6 +189,118 @@ Section 20 of Pub. L. 89–236 provided that: “This Act \[amending this sectio
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Extension of Posthumous Benefits to Surviving Spouses, Children, and Parents
+
+Pub. L. 108–136, div. A, title XVII, §1703(a)–(e), Nov. 24, 2003, 117 Stat. 1693, provided that:
+
+“(a)
+
+Treatment as Immediate Relatives.—
+
+&emsp;“(1)
+
+Spouses.—Notwithstanding the second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)), in the case of an alien who was the spouse of a citizen of the United States at the time of the citizen's death and was not legally separated from the citizen at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien (and each child of the alien) shall be considered, for purposes of section 201(b) of such Act, to remain an immediate relative after the date of the citizen's death, but only if the alien files a petition under section 204(a)(1)(A)(ii) of such Act \[8 U.S.C. 1154(a)(1)(A)(ii)\] within 2 years after such date and only until the date the alien remarries. For purposes of such section 204(a)(1)(A)(ii), an alien granted relief under the preceding sentence shall be considered an alien spouse described in the second sentence of section 201(b)(2)(A)(i) of such Act.
+
+&emsp;“(2)
+
+Children.—
+
+&emsp;&emsp;“(A)
+
+In general.—In the case of an alien who was the child of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+
+&emsp;&emsp;“(B)
+
+Petitions.—An alien described in subparagraph (A) may file a petition with the Secretary ofHomeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
+
+&emsp;“(3)
+
+Parents.—
+
+&emsp;&emsp;“(A)
+
+In general.—In the case of an alien who was the parent of a citizen of the United States at the time of the citizen's death, if the citizen served honorably in an active duty status in the military, air, or naval forces of the United States and died as a result of injury or disease incurred in or aggravated by combat, the alien shall be considered, for purposes of section 201(b) of the Immigration and Nationality Act (8 U.S.C. 1151(b)), to remain an immediate relative after the date of the citizen's death (regardless of changes in age or marital status thereafter), but only if the alien files a petition under subparagraph (B) within 2 years after such date.
+
+&emsp;&emsp;“(B)
+
+Petitions.—An alien described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act, such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
+
+&emsp;&emsp;“(C)
+
+Exception.—Notwithstanding section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)), for purposes of this paragraph, a citizen described in subparagraph (A) does not have to be 21 years of age for a parent to benefit under this paragraph.
+
+“(b)
+
+Applications for Adjustment of Status by Surviving Spouses, Children, and Parents.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding subsections (a) and (c) of section 245 of the Immigration and Nationality Act (8 U.S.C. 1255), any alien who was the spouse, child, or parent of an alien described in paragraph (2), and who applied for adjustment of status prior to the death described in paragraph (2)(B), may have such application adjudicated as if such death had not occurred.
+
+&emsp;“(2)
+
+Alien described.—An alien is described in this paragraph if the alien—
+
+&emsp;&emsp;“(A) served honorably in an active duty status in the military, air, or naval forces of the United States;
+
+&emsp;&emsp;“(B) died as a result of injury or disease incurred in or aggravated by combat; and
+
+&emsp;&emsp;“(C) was granted posthumous citizenship under section 329A of the Immigration and Nationality Act (8 U.S.C. 1440–1).
+
+“(c)
+
+Spouses and Children of Lawful Permanent Resident Aliens.—
+
+&emsp;“(1)
+
+Treatment as immediate relatives.—
+
+&emsp;&emsp;“(A)
+
+In general.—A spouse or child of an alien described in paragraph (3) who is included in a petition for classification as a family-sponsored immigrant under section 203(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1153(a)(2)) that was filed by such alien, shall be considered (if the spouse or child has not been admitted or approved for lawful permanent residence by such date) a valid petitioner for immediate relative status under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). Such spouse or child shall be eligible for deferred action, advance parole, and work authorization.
+
+&emsp;&emsp;“(B)
+
+Petitions.—An alien spouse or child described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
+
+&emsp;“(2)
+
+Self-petitions.—Any spouse or child of an alien described in paragraph (3) who is not a beneficiary of a petition for classification as a family-sponsored immigrant may file a petition for such classification under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) with the Secretary of Homeland Security, but only if the spouse or child files a petition within 2 years after such date. Such spouse or child shall be eligible for deferred action, advance parole, and work authorization.
+
+&emsp;“(3)
+
+Alien described.—An alien is described in this paragraph if the alien—
+
+&emsp;&emsp;“(A) served honorably in an active duty status in the military, air, or naval forces of the United States;
+
+&emsp;&emsp;“(B) died as a result of injury or disease incurred in or aggravated by combat; and
+
+&emsp;&emsp;“(C) was granted posthumous citizenship under section 329A of the Immigration and Nationality Act (8 U.S.C. 1440–1).
+
+“(d)
+
+Parents of Lawful Permanent Resident Aliens.—
+
+&emsp;“(1)
+
+Self-petitions.—Any parent of an alien described in paragraph (2) may file a petition for classification under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)), but only if the parent files a petition within 2 years after such date. For purposes of such Act \[8 U.S.C. 1101 et seq.\], such petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)). Such parent shall be eligible for deferred action, advance parole, and work authorization.
+
+&emsp;“(2)
+
+Alien described.—An alien is described in this paragraph if the alien—
+
+&emsp;&emsp;“(A) served honorably in an active duty status in the military, air, or naval forces of the United States;
+
+&emsp;&emsp;“(B) died as a result of injury or disease incurred in or aggravated by combat; and
+
+&emsp;&emsp;“(C) was granted posthumous citizenship under section 329A of the Immigration and Nationality Act (8 U.S.C. 1440–1).
+
+“(e)
+
+Waiver of Ground for Inadmissibility.—In determining the admissibility of any alien accorded an immigration benefit under this section for purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\], the ground for inadmissibility specified in section 212(a)(4) of such Act (8 U.S.C. 1182(a)(4)) shall not apply.”
+
+\[Section 1703 of Pub. L. 108–136, set out above, effective as if enacted on Sept. 11, 2001, see section 1705(a) of Pub. L. 108–136, set out as an Effective Date of 2003 Amendment note under section 1439 of this title.\]
 
 #### Temporary Reduction in Diversity Visas
 

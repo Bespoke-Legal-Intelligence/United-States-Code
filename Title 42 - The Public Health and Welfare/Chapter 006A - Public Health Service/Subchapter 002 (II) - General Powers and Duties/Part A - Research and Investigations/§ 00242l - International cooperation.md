@@ -30,7 +30,11 @@ In connection with the cooperative endeavors authorized by subsection (a) of thi
 
 The Secretary may provide to personnel appointed or assigned by the Secretary to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 (22 U.S.C. 4081 et seq.). Leaves of absence for personnel under this subsection shall be on the same basis as that provided under subchapter I of chapter 63 of title 5 to individuals serving in the Foreign Service.
 
-(July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239.)
+#### (d) Strategies to improve injection safety
+
+In carrying out immunization programs and other programs in developing countries for the prevention, treatment, and control of infectious diseases, including HIV/AIDS, tuberculosis, and malaria, the Director of the Centers for Disease Control and Prevention, in coordination with the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Institutes of Health, national and local government, and other organizations, such as the World Health Organization and the United Nations Children's Fund, shall develop and implement effective strategies to improve injection safety, including eliminating unnecessary injections, promoting sterile injection practices and technologies, strengthening the procedures for proper needle and syringe disposal, and improving the education and information provided to the public and to health professionals.
+
+(July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 108–25, title III, §306, May 27, 2003, 117 Stat. 739.)
 
 #### References in Text
 
@@ -48,6 +52,8 @@ A prior section 307 of act July 1, 1944, was classified to section 242e of this 
 
 #### Amendments
 
+2003—Subsec. (d). Pub. L. 108–25 added subsec. (d).
+
 1993—Subsec. (c). Pub. L. 103–183 added subsec. (c).
 
 1992—Subsec. (b)(8). Pub. L. 102–531, which directed amendment of subsec. (b) by adding par. (8) at the end thereof, was executed by adding par. (8) after par. (7) to reflect the probable intent of Congress.
@@ -62,7 +68,7 @@ Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health
 
 #### International Health Study
 
-Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, and Welfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of international health, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations’ capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effectiveand efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
+Pub. L. 95–83, title III, §315, Aug. 1, 1977, 91 Stat. 398, provided that the Secretary of Health, Education, and Welfare arrange through the National Academy of Sciences or other nonprofit private groups or associations, for a study to determine opportunities for broadened Federal program activities in areas of international health, which study was to consider biomedical and behavioral research, health services research, health professions education, immunization and public health activities, and other areas that might improve our and other nations’ capacities to prevent, diagnose, control, or cure disease, and to organize and deliver effective and efficient health services, with an interim report on such study completed no later than Oct. 1, 1977 and a final report completed no later than Jan. 1, 1978 and both reports submitted to the Secretary, the Committee on Human Resources of the Senate, and the Committee on Interstate and Foreign Commerce of the House of Representatives.
 
 #### Section Referred to in Other Sections
 

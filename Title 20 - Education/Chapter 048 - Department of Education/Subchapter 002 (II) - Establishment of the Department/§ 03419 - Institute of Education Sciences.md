@@ -10,7 +10,7 @@ The Education Sciences Reform Act of 2002, referred to in text, is title I of Pu
 
 #### Prior Provisions
 
-A prior section 3419, Pub. L. 96–88, title II, §208, formerly §209, Oct. 17, 1979, 93 Stat. 674; Pub. L. 103–227, title IX, §911(b), Mar. 31, 1994, 108 Stat. 213; renumbered §208, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929, related to Office of Educational Research and Improvement, prior to repeal by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+A prior section 3419, Pub. L. 96–88, title II, §208, formerly §209, Oct. 17, 1979, 93 Stat. 674; Pub. L. 103–227,title IX, §911(b), Mar. 31, 1994, 108 Stat. 213; renumbered §208, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929, related to Office of Educational Research and Improvement, prior to repeal by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
 
 A prior section 208 of Pub. L. 96–88 was classified to section 3418 of this title prior to repeal by Pub. L. 99–145.
 

@@ -16,7 +16,7 @@ Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided t
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–228, §1, Sept. 30, 2002, 116 Stat. 1350, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 2003’.”
+Pub. L. 107–228, §1, Sept. 30, 2002, 116 Stat. 1350, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 2003’.”
 
 Pub. L. 107–228, div. A, §101, Sept. 30, 2002, 116 Stat. 1355, provided that: “This division \[see Tables for classification\] may be cited as the ‘Department of State Authorization Act, Fiscal Year 2003’.”
 

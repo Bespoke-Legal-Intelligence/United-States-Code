@@ -6,7 +6,7 @@ The cost of conducting examinations of savings associations pursuant to section 
 
 #### (b) Examination of affiliates
 
-The cost of conducting examinations of affiliates of savings associations pursuant to this chapter may be assessed by the Director against each affiliate that is examined as the Director deems necessary or appropriate.
+The cost of conducting examinations of affiliates of savings associations pursuant to thischapter may be assessed by the Director against each affiliate that is examined as the Director deems necessary or appropriate.
 
 #### (c) Assessment against association in case of affiliate's refusal to pay
 
@@ -72,7 +72,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (1) Deposits
 
-&emsp;Amounts received by the Director from assessments under this section (other than anassessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
+&emsp;Amounts received by the Director from assessments under this section (other than an assessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
 
 #### (2) Assessments are not Government funds
 

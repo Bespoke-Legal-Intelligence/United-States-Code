@@ -10,7 +10,7 @@
 
 &emsp;(3) “Department of the Air Force General Gift Fund”, in the case of deposits of that department; and
 
-&emsp;(4) “Coast Guard General Gift Fund”, in the case of deposits of the Secretary of Transportation.
+&emsp;(4) “Coast Guard General Gift Fund”, in the case of deposits of the Secretary of Homeland Security.
 
 > The Secretary concerned may disburse funds deposited under this subsection for the benefit or use of the designated institution or organization, subject to the terms of the gift, devise, or bequest.
 
@@ -18,7 +18,7 @@
 
 (d) The Secretary of the Treasury, upon the request of the Secretary of a military department, may retain money, securities, and the proceeds of the sale of securities, in the gift fund of the department concerned, and may invest money and reinvest the proceeds of the sale of securities in that fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The Secretary of the Treasury may do likewise with respect to the Coast Guard General Gift Fund. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund of the department concerned and may be disbursed as provided in subsection (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -56,7 +56,13 @@ In subsection (d), the words “or any part thereof deposited in the Treasury pu
 
 #### Amendments
 
+2002—Subsec. (b)(4). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+
 1980—Subsec. (b)(4). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -64,5 +70,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2605, 2607, 4356, 7222 of this title.
+This section is referred to in sections 2605, 2607, 2612, 4356, 7222 of this title; title 6 section 453.
 

@@ -14,7 +14,7 @@ Act Aug. 6, 1953, ch. 335, §9, 67 Stat. 394, provided: “There is hereby trans
 
 #### Transfer of Functions
 
-Farmer Cooperative Service established in Department of Agriculture Dec. 4, 1953, pursuant to Secretary's Memorandum 1320, Supp. 4, 1953, as successor to functions of Cooperative Research and Service Division, Farm Credit Administration.
+Farmer Cooperative Service established in Department of Agriculture Dec. 4, 1953, pursuant to Secretary's Memorandum 1320, Supp. 4, 1953, as successorto functions of Cooperative Research and Service Division, Farm Credit Administration.
 
 Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, removed Farm Credit Administration from Food Production Administration of Department of Agriculture and returned it to its former status as a separate agency of Department.
 

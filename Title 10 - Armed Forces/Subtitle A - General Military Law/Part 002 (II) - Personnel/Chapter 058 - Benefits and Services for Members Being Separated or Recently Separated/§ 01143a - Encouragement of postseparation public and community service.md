@@ -54,15 +54,21 @@ Definitions.—In this section, the term “public service and community service
 
 (h)
 
-Coast Guard.—This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Transportation shall implement the requirements of this section for the Coast Guard.
+Coast Guard.—This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall implement the requirements of this section for the Coast Guard.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, §542(a)(3), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, §542(a)(3), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1994—Pub. L. 103–337, §542(a)(3)(A), struck out “: Department of Defense” after “service” in section catchline.
 
 Subsec. (h). Pub. L. 103–337, §542(a)(3)(B), added subsec. (h).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -70,11 +76,11 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Program of Educational Leave Relating to Continuing Public and Community Service
 
-Section 4463 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, provided that:
+Section 4463 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–296, title XVII, §1704(e)(3), Nov. 25, 2002, 116 Stat. 2315, provided that:
 
 “(a)
 
-Program.—Under regulations prescribed by the Secretary of Defense after consultation with the Secretary of Transportation and subject to subsections (b) and (c), the Secretary concerned may grant to an eligible member of the Armed Forces a leave of absence for a period not to exceed one year for the purpose of permitting the member to pursue a program of education or training (including an internship) for the development of skills that are relevant to the performance of public and community service. A program of education or training referred to in the preceding sentence includes any such program that is offered by the Department of Defense or by any civilian educational or training institution.
+Program.—Under regulations prescribed by the Secretary of Defense and subject to subsections (b) and (c), the Secretary concerned may grant to an eligible member of the Armed Forces a leave of absence for a period not to exceed one year for the purpose of permitting the member to pursue a program of education or training (including an internship) for the development of skills that are relevant to the performance of public and community service. A program of education or training referred to in the preceding sentence includes any such program that is offered by the Department of Defense or by any civilian educational or training institution.
 
 “(b)
 

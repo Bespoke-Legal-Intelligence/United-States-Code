@@ -10,7 +10,7 @@ Revocation of Election by Member.—
 
 &emsp;(1)
 
-Authority upon subsequent determination of mental competence.—If a person for whom the Secretary has made an election under subsection (a) is later determined to be mentally competent by an authority named in that subsection, that person may, within 180 days after that determination, revoke that election.
+Authority upon subsequent determination of mental competence.—If a person for whom the Secretary has made an election under subsection (a) is later determined to be mentally competent by an authority named in that subsection, that person may, within 180days after that determination, revoke that election.
 
 &emsp;(2)
 

@@ -4,7 +4,7 @@
 
 (1)(A) The Secretary of the Interior is authorized to expand and maintain a National Register of Historic Places composed of districts, sites, buildings, structures, and objects significant in American history, architecture, archeology, engineering, and culture. Notwithstanding section 1125(c) of title 15, buildings and structures on or eligible for inclusion on the National Register of Historic Places (either individually or as part of a historic district), or designated as an individual landmark or as a contributing building in a historic district by a unit of State or local government, may retain the name historically associated with the building or structure.
 
-(B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter prior to the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initial listing as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register.
+(B) Properties meeting the criteria for National Historic Landmarks established pursuant to paragraph (2) shall be designated as “National Historic Landmarks” and included on the National Register, subject to the requirements of paragraph (6). All historic properties included on the National Register on December 12, 1980, shall be deemed to be included on the National Register as of their initial listing for purposes of this subchapter. All historic properties listed in the Federal Register of February 6, 1979, as “National Historic Landmarks” or thereafter priorto the effective date of this Act are declared by Congress to be National Historic Landmarks of national historic significance as of their initial listing as such in the Federal Register for purposes of this subchapter and sections 461 to 467 of this title; except that in cases of National Historic Landmark districts for which no boundaries have been established, boundaries must first be published in the Federal Register.
 
 (2) The Secretary in consultation with national historical and archaeological associations, shall establish or revise criteria for properties to be included on the National Register and criteria for National Historic Landmarks, and shall also promulgate or revise regulations as may be necessary for—
 
@@ -102,7 +102,7 @@
 
 &emsp;(B) three years after December 12, 1992.
 
-(6)(A) Subject to subparagraphs (C) and (D), the Secretary may enter into contracts or cooperative agreements with a State Historic Preservation Officer for any State authorizing such Officer to assist the Secretary in carrying out one or more of the following responsibilities within that State—
+(6)(A) Subject to subparagraphs (C) and (D), the Secretary may enter into contracts or cooperative agreements with a State Historic Preservation Officer for any State authorizing such Officer to assist the Secretary in carrying out oneor more of the following responsibilities within that State—
 
 &emsp;(i) Identification and preservation of historic properties.
 
@@ -156,7 +156,7 @@
 
 (4) For the purposes of this section the term—
 
-&emsp;(A) “designation” means the identification and registration of properties for protection that meet criteria established by the State or the locality for significant historic and prehistoric resources within the jurisdiction of a local government; and
+&emsp;(A) “designation” means the identification and registration of properties for protectionthat meet criteria established by the State or the locality for significant historic and prehistoric resources within the jurisdiction of a local government; and
 
 &emsp;(B) “protection” means a local review process under State or local law for proposed demolition of, changes to, or other action that may affect historic properties designated pursuant to this subsection.
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;(ii) that the plan defines the remaining responsibilities of the Secretary and the State Historic Preservation Officer; and
 
-&emsp;&emsp;(iii) that the plan provides, with respect to properties neither owned by a member of thetribe nor held in trust by the Secretary for the benefit of the tribe, at the request of the owner thereof, the State Historic Preservation Officer, in addition to the tribal preservation official, may exercise the historic preservation responsibilities in accordance with subsections (b)(2) and (b)(3) of this section; and
+&emsp;&emsp;(iii) that the plan provides, with respect to properties neither owned by a member of the tribe nor held in trust by the Secretary for the benefit of the tribe, at the request of the owner thereof, the State Historic Preservation Officer, in addition to the tribal preservation official, may exercise the historic preservation responsibilities in accordance with subsections (b)(2) and (b)(3) of this section; and
 
 &emsp;(E) based on satisfaction of the conditions stated in subparagraphs (A), (B), (C), and (D), the Secretary approves the plan.
 
@@ -206,7 +206,7 @@
 
 (6)(A) Properties of traditional religious and cultural importance to an Indian tribe or Native Hawaiian organization may be determined to be eligible for inclusion on the National Register.
 
-(B) In carrying out its responsibilities under section 470f of this title, a Federal agency shall consult with any Indian tribe or Native Hawaiian organization that attaches religious and cultural significance to properties described in subparagraph (A).
+(B) In carrying out its responsibilities under section 470f of this title, a Federal agency shallconsult with any Indian tribe or Native Hawaiian organization that attaches religious and cultural significance to properties described in subparagraph (A).
 
 (C) In carrying out his or her responsibilities under subsection (b)(3) of this section, the State Historic Preservation Officer for the State of Hawaii shall—
 
@@ -280,7 +280,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 
 &emsp;&emsp;(iii) support for research, analysis, conservation, curation, interpretation, and display related to preservation.
 
-(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2,1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, §5(a)(1)–(4), May 26, 2000, 114 Stat. 318.)
+(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, §5(a)(1)–(4), May 26, 2000, 114 Stat. 318.)
 
 #### References in Text
 
@@ -292,7 +292,7 @@ The Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa and followi
 
 Sections 468 to 468d of this title, referred to in subsec. (e)(2), was in the original “an Act of Congress approved October 26, 1949 (63 Stat. 947)”, probably meaning Act Oct. 26, 1949, ch. 755, 63 Stat. 927, which is classified to sections 468 to 468d of this title. For complete classification of this Act to the Code, see Tables.
 
-The Compact of Free Association Act of 1985, referred to in subsec. (e)(6)(A), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, which is classified principally to subchapter I (§1901 et seq.) of chapter 18 and chapter 19 (§2001 et seq.) of Title 48, Territories and Insular Possession. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 48 and Tables.
+The Compact of Free Association Act of 1985, referred to in subsec. (e)(6)(A), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, which is classified principally to part A of subchapter I (§1901 et seq.) of chapter 18 and chapter 19 (§2001 et seq.) of Title 48, Territories and Insular Possession. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 48 and Tables.
 
 The Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and Government of Palau, and for other purposes”, referred to in subsec. (e)(6)(A), is Pub. L. 99–658, Nov. 14, 1986, 100 Stat. 3672, as amended, which is classified generally to part A (§1931 et seq.) of subchapter II of chapter 18 of Title 48. For complete classification of this Act to the Code, see Tables.
 
@@ -516,7 +516,7 @@ Donations.—The Commission may accept donations from non-Federal sources to def
 
 #### Historically Black Colleges and Universities Historic Building Restoration and Preservation
 
-Section 507 of title V of div. I of Pub. L. 104–333 provided that:
+Pub. L. 104–333, div. I, title V, §507, Nov. 12, 1996, 110 Stat. 4156, as amended by Pub. L. 108–7, div. F, title I, §150, Feb. 20, 2003, 117 Stat. 245, provided that:
 
 “(a)
 
@@ -532,13 +532,31 @@ Grant Conditions.—Grants made under subsection (a) shall be subject to the con
 
 “(c)
 
-Matching Requirement for Buildings and Structures Listed on the National Register of Historic Places.—(1) Except as provided by paragraph (2), the Secretary may obligate funds made available under this section for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal or greater than the grant.
+Matching Requirement for Buildings and Structures Listed on the National Register of Historic Places.—
 
-“(2) The Secretary may waive paragraph (1) with respect to a grant if the Secretary determines from circumstances that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
+&emsp;“(1)
+
+In general.—Except as provided by paragraphs (2) and (3), the Secretary may obligate funds made available under this section for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places only if the grantee agrees to match, from funds derived from non-Federal sources, the amount of the grant with an amount that is equal or greater than the grant.
+
+&emsp;“(2)
+
+Waiver.—The Secretary may waive paragraphs (1) and (3) with respect to a grant if the Secretary determines from circumstances that an extreme emergency exists or that such a waiver is in the public interest to assure the preservation of historically significant resources.
+
+&emsp;“(3)
+
+Exception.—The Secretary shall not obligate funds made available under subsection (d)(2) for a grant with respect to a building or structure listed on, or eligible for listing on, the National Register of Historic Places unless the grantee agrees to provide, from funds derived from non-Federal sources, an amount that is equal to 30 percent of the total cost of the project for which the grant is provided.
 
 “(d)
 
-Funding Provision.—Pursuant to section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
+Funding Provision.—
+
+&emsp;“(1)
+
+In general.—Under section 108 of the National Historic Preservation Act \[16 U.S.C. 470h\], $29,000,000 shall be made available to carry out the purposes of this section. Of amounts made available pursuant to this section, $5,000,000 shall be available for grants to Fisk University, $2,500,000 shall be available for grants to Knoxville College, $2,000,000 shall be available for grants to Miles College, Alabama, $1,500,000 shall be available for grants to Talladega College, Alabama, $1,550,000 shall be available for grants to Selma University, Alabama, $250,000 shall be available for grants to Stillman College, Alabama, $200,000 shall be available for grants to Concordia College, Alabama, $2,900,000 shall be available for grants to Allen University, South Carolina, $1,000,000 shall be available for grants to Claflin College, South Carolina, $2,000,000 shall be available for grants to Voorhees College, South Carolina, $1,000,000 shall be available for grants to Rust College, Mississippi, and $3,000,000 shall be available for grants to Tougaloo College, Mississippi.
+
+&emsp;“(2)
+
+Additional funding.—In addition to amounts made available under paragraph (1), there is authorized to be appropriated from the Historic Preservation Fund to carry out this section $10,000,000 for each of fiscal years 2003 through 2008.
 
 “(e)
 

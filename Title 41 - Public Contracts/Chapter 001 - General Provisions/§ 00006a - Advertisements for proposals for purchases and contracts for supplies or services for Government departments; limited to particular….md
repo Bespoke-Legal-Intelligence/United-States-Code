@@ -10,7 +10,7 @@ Section 5 of this title shall not be construed to apply under any appropriation 
 
 (g) Repealed. Oct. 31, 1951, ch. 654, §1(107), 65 Stat. 705.
 
-(h) Department of State—when the purchase or service relates to the packing of personal andhousehold effects of Diplomatic, Consular, and Foreign Service officers and clerks for foreign shipment.
+(h) Department of State—when the purchase or service relates to the packing of personal and household effects of Diplomatic, Consular, and Foreign Service officers and clerks for foreign shipment.
 
 (i) Repealed. Oct. 31, 1951, ch. 654, §1(107), 65 Stat. 705.
 

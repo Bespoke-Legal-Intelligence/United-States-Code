@@ -12,7 +12,7 @@ In recognition of the fact that women in developing countries play a significant
 
 #### (c) Funds for United Nations Decade for Women
 
-Not less than $500,000 of the funds made available under this part for the fiscal year 1982 shallbe expended on international programs which support the original goals of the United Nations Decade for Women.
+Not less than $500,000 of the funds made available under this part for the fiscal year 1982 shall be expended on international programs which support the original goals of the United Nations Decade for Women.
 
 (Pub. L. 87–195, pt. I, §113, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 716; amended Pub. L. 94–161, title III, §309, Dec. 20, 1975, 89 Stat. 860; Pub. L. 95–88, title I, §108, Aug. 3, 1977, 91 Stat. 536; Pub. L. 95–424, title I, §108, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §122, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title III, §305, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 101–513, title V, §562(d)(2), Nov. 5, 1990, 104 Stat. 2031.)
 

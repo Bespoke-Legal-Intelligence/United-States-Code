@@ -1,6 +1,6 @@
 ### §1116. Payments into the Fund
 
-(a) The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that is the sum of the following:
+(a) The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that, subject to subsection (b), is the sum of the following:
 
 &emsp;(1) The product of—
 
@@ -14,7 +14,9 @@
 
 &emsp;&emsp;(B) the total end strength for that month for members of the Ready Reserve of the uniformed services under the jurisdiction of the Secretary of Defense other than members on full-time National Guard duty (other than for training) who are not otherwise described in paragraph (1)(B).
 
-(b)(1) At the beginning of each fiscal year the Secretary of the Treasury shall promptly pay into the Fund from the General Fund of the Treasury the amount certified to the Secretary by the Secretary of Defense under paragraph (3). Such payment shall be the contribution to the Fund for that fiscal year required by sections 1115(a) and 1115(c) of this title.
+(b) If an actuarial valuation referred to in paragraph (1) or (2) of subsection (a) has been calculated as a separate single level dollar amount for a participating uniformed service under section 1115(c)(1) of this title, the administering Secretary for the department in which such uniformed service is operating shall calculate the amount under such paragraph separately for such uniformed service. If the administering Secretary is not the Secretary of Defense, the administering Secretary shall notify the Secretary of Defense of the amount so calculated. To determine a single amount for the purpose of paragraph (1) or (2) of subsection (a), as the case may be, the Secretary of Defense shall aggregate the amount calculated under this subsection for a uniformed service for the purpose of such paragraph with the amount or amounts calculated (whether separately or otherwise) for the other uniformed services for the purpose of such paragraph.
+
+(c)(1) At the beginning of each fiscal year the Secretary of the Treasury shall promptly pay into the Fund from the General Fund of the Treasury the amount certified to the Secretary by the Secretary of Defense under paragraph (3). Such payment shall be the contribution to the Fund for that fiscal year required by sections 1115(a) and 1115(c) of this title.
 
 (2) At the beginning of each fiscal year the Secretary of Defense shall determine the sum of the following:
 
@@ -28,11 +30,17 @@
 
 (3) The Secretary of Defense shall promptly certify the amount determined under paragraph (2) each year to the Secretary of the Treasury.
 
-(c) Amounts paid into the Fund under subsection (a) shall be paid from funds available for the health care programs of the participating uniformed services under the jurisdiction of the respective administering Secretaries.
+(d) Amounts paid into the Fund under subsection (a) shall be paid from funds available for the pay of members of the participating uniformed services under the jurisdiction of the respective administering Secretaries.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–182; amended Pub. L. 107–107, div. A, title VII, §711(b)(4), (d), (e)(1), title X, §1048(a)(13), Dec. 28, 2001, 115 Stat. 1165, 1166, 1223.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–182; amended Pub. L. 107–107, div. A, title VII, §711(b)(4), (d), (e)(1), title X, §1048(a)(13), Dec. 28, 2001, 115 Stat. 1165, 1166, 1223; Pub. L. 107–314, div. A, title VII, §704(a), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–136, div. A, title VII, §722(b), Nov. 24, 2003, 117 Stat. 1532.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §722(b)(1), substituted “the amount that, subject to subsection (b),” for “the amount that” in introductory provisions.
+
+Subsecs. (b) to (d). Pub. L. 108–136, §722(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+2002—Subsec. (c). Pub. L. 107–314 substituted “pay of members” for “health care programs”.
 
 2001—Subsec. (a)(1)(A). Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
 
@@ -55,6 +63,10 @@ Amendment by section 711 of Pub. L. 107–107 effective as if included in the en
 #### Effective Date
 
 Section effective Oct. 1, 2002, see section 1 \[\[div. A\], title VII, §713(b)(1)\] of Pub. L. 106–398, set out as a note under section 1113 of this title.
+
+#### Inapplicability to Indian Health Service
+
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That heretofore and hereafter the provisions of 10 U.S.C. 1116 shall not apply to the Indian Health Service”.
 
 #### First Year Contributions
 

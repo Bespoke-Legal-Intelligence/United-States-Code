@@ -88,11 +88,11 @@ Section 297–1, act July 1, 1944, ch. 373, title VIII, §831, as added Pub. L. 
 
 “(a)
 
-In general.—The Secretary may award grants to and enter into contracts with eligible entities for projects to strengthen capacity for basic nurse education and practice.
+In General.—The Secretary may award grants to and enter into contracts with eligible entities for projects to strengthen capacity for basic nurse education and practice.
 
 “(b)
 
-Priority areas.—In awarding grants or contracts under this section the Secretary shall give priority to entities that will use amounts provided under such a grant or contract to enhance the educational mix and utilization of the basic nursing workforce by strengthening programs that provide basic nurse education, such as through—
+Priority Areas.—In awarding grants or contracts under this section the Secretary shall give priority to entities that will use amounts provided under such a grant or contract to enhance the educational mix and utilization of the basic nursing workforce by strengthening programs that provide basic nurse education, such as through—
 
 &emsp;“(1) establishing or expanding nursing practice arrangements in noninstitutional settings to demonstrate methods to improve access to primary health care in medically underserved communities;
 

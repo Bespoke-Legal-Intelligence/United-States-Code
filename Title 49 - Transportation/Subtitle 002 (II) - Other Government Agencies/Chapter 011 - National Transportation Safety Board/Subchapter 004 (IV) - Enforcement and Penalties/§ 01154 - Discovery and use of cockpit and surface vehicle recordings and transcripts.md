@@ -8,7 +8,7 @@ Transcripts and Recordings.—(1) Except as provided by this subsection, a party
 
 &emsp;(B) a cockpit or surface vehicle recorder recording.
 
-(2)(A) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recorder transcript if, after an in camera review of the transcript, the court decides that—
+(2)(A) Except as provided in paragraph (4)(A) of this subsection, a court may allow discovery by a party of a cockpit or surface vehicle recordertranscript if, after an in camera review of the transcript, the court decides that—
 
 &emsp;(i) the part of the transcript made available to the public under section 1114(c) or 1114(d) of this title does not provide the party with sufficient information for the party to receive a fair trial; and
 

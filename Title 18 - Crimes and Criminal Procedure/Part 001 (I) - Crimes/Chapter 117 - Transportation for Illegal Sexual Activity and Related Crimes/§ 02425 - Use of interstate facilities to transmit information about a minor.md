@@ -6,5 +6,5 @@ Whoever, using the mail or any facility or means of interstate or foreign commer
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 14135a.
+This section is referred to in sections 2516, 3142, 3583 of this title; title 42 section 14135a.
 

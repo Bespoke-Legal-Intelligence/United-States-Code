@@ -112,7 +112,7 @@ Regulations.—The Comptroller of the Currency, the Board, and the Federal Depos
 
 &emsp;(1) the maximum amount of indebtedness to the bank maintaining the correspondent account during such year of (a) such executive officer or stockholder of record, (b) each company controlled by such executive officer or stockholder, or (c) each political or campaign committee the funds or services of which will benefit such executive officer or stockholder, or which is controlled by such executive officer or stockholder;
 
-&emsp;(2) the amount of indebtedness to the bank maintaining the correspondent account outstanding as of a date not more than ten days prior to the date of filing of such report of (a) such executive officer or stockholder of record, (b) each company controlled by such executive officer or stockholder, or (c) each political or campaign committee the funds or services of which will benefit such executive officer or stockholder;
+&emsp;(2) the amount of indebtedness to the bank maintaining the correspondent account outstanding as of a date not more than ten days prior to the date of filing of such report of (a) such executive officer or stockholder of record, (b) each company controlled by such executive officer or stockholder, or (c) eachpolitical or campaign committee the funds or services of which will benefit such executive officer or stockholder;
 
 &emsp;(3) the range of interest rates charged on such indebtedness of such executive officer or stockholder of record; and
 
@@ -174,7 +174,7 @@ Amendment by section 428(b) of Pub. L. 97–320 effective when regulations refer
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, see section 2101 of Pub.L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ The policy set forth in subsection (a) of this section implies—
 
 &emsp;(4) that secondary or collateral uses may be permitted to the extent that such uses are compatible with and do not unduly impair the primary or dominant uses, according to a seasonal schedule or otherwise.
 
-&emsp;(5) that management of the renewable resources will be such as to obtain a sustained,regular, or periodic yield or supply of products or services without impairment of the productivity, or the enjoyment or carrying capacity of the land.
+&emsp;(5) that management of the renewable resources will be such as to obtain a sustained, regular, or periodic yield or supply of products or services without impairment of the productivity, or the enjoyment or carrying capacity of the land.
 
 &emsp;(6) that the plan will be reviewed and reevaluated periodically.
 

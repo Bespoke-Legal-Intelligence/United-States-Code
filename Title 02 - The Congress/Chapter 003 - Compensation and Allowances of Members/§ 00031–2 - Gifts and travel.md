@@ -40,7 +40,7 @@ Section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95
 
 #### Amendments
 
-1991—Subsec. (a)(1). Pub. L. 102–90, §314(c)(1)–(3), redesignated par. (2) as (1), substituted “in any calendaryear aggregating more than the minimal value as established by section 7342(a)(5) of title 5 or $250, whichever is greater” for “having an aggregate value exceeding $300 during a calendar year”, and struck out former par. (1) which read as follows: “No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts having an aggregate value exceeding $100 during a calendar year directly or indirectly from any person, organization, or corporation having a direct interest in legislation before the Congress or from any foreign national unless, in an unusual case, a waiver is granted by the Select Committee on Ethics.”
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–90, §314(c)(1)–(3), redesignated par. (2) as (1), substituted “in any calendar year aggregating more than the minimal value as established by section 7342(a)(5) of title 5 or $250, whichever is greater” for “having an aggregate value exceeding $300 during a calendar year”, and struck out former par. (1) which read as follows: “No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts having an aggregate value exceeding $100 during a calendar year directly or indirectly from any person, organization, or corporation having a direct interest in legislation before the Congress or from any foreign national unless, in an unusual case, a waiver is granted by the Select Committee on Ethics.”
 
 Subsec. (a)(2). Pub. L. 102–90, §314(c)(2), (4), redesignated par. (5) as (2) and, in subpar. (B), substituted “$100 or less, as adjusted under section 102(a)(2)(A) of the Ethics in Government Act of 1978” for “less than $75”. Former par. (2) redesignated (1).
 
@@ -56,7 +56,7 @@ Subsec. (a)(4). Pub. L. 102–90, §314(c)(1), (2), redesignated par. (7) as (4)
 
 Subsec. (a)(5) to (8). Pub. L. 102–90, §314(c)(2), redesignated pars. (5) to (8) as (2) to (5), respectively.
 
-1990—Subsec. (a)(5)(D). Pub. L. 101–280, §8(1)(A), struck out subpar. (D) which read as follows: “from an individual who is a foreign national if that individual is not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government.”
+<b>1990</b>—Subsec. (a)(5)(D). Pub. L. 101–280, §8(1)(A), struck out subpar. (D) which read as follows: “from an individual who is a foreign national if that individual is not acting; directly or indirectly, on behalf of a foreign corporation, partnership or business enterprise, a foreign trade, cultural, educational or other association, a foreign political party or a foreign government.”
 
 Subsec. (a)(6)(A) to (C). Pub. L. 101–280, §8(1)(B), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 

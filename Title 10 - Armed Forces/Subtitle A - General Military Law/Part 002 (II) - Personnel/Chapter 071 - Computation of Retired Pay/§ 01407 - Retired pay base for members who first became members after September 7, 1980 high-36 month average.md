@@ -36,7 +36,7 @@ Computation of High-Three Average for Members and Former Members Entitled to Ret
 
 Retired pay under chapter 1223.—The high-three average of a member or former member entitled to retired pay under section 12731 of this title is the amount equal to—
 
-&emsp;&emsp;(A) the total amount of monthly basic pay to which the member or former member wasentitled during the member or former member's high-36 months (or to which the member or former member would have been entitled if the member or former member had served on active duty during the entire period of the member or former member's high-36 months), divided by
+&emsp;&emsp;(A) the total amount of monthly basic pay to which the member or former member was entitled during the member or former member's high-36 months (or to which the member or former member would have been entitled if the member or former member had served on active duty during the entire period of the member or former member's high-36 months), divided by
 
 &emsp;&emsp;(B) 36.
 
@@ -132,5 +132,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1401a, 1402a, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 14 sections 357, 423, 424; title 33 section 853<i>o</i>; title 42 sections 211, 212.
+This section is referred to in sections 1401, 1401a, 1402a, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 14 sections 357, 423, 424; title 33 section 3045; title 42 sections 211, 212.
 

@@ -1,6 +1,6 @@
 ### §1386. Keys and keyways used in security applications by the Department of Defense
 
-(a)(1) Whoever steals, purloins, embezzles, or obtains by false pretense any lock or key to anylock, knowing that such lock or key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment shall be punished as provided in subsection (b).
+(a)(1) Whoever steals, purloins, embezzles, or obtains by false pretense any lock or key to any lock, knowing that such lock or key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment shall be punished as provided in subsection (b).
 
 (2) Whoever—
 
@@ -14,7 +14,7 @@
 
 (b) Whoever commits an offense under subsection (a) shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(c) As used in this section, the term “key” means any key, keyblank, or keyway adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment.
+(c) As used in this section, the term “key” means any key, keyblank, or keyway adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use inprotecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment.
 
 (Added Pub. L. 102–190, div. A, title X, §1090(a), Dec. 5, 1991, 105 Stat. 1485.)
 

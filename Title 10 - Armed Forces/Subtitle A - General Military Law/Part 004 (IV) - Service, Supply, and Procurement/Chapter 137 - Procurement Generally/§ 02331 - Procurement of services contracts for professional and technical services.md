@@ -32,7 +32,7 @@ A prior section 2331 was renumbered section 2350 of this title.
 
 1994—Subsec. (c). Pub. L. 103–355 struck out text and heading of subsec. (c). Text read as follows:
 
-“(1) The Secretary of Defense may waive the limitation in section 2304(j)(4) of this title on the total value of task orders for specific contracting activities to the extent the Secretary considers the use of master agreements necessary in order to further the policy set forth in subsection (a).
+“(1) The Secretary of Defense may waive the limitation in section 2304(j)(4) of this title on the total valueof task orders for specific contracting activities to the extent the Secretary considers the use of master agreements necessary in order to further the policy set forth in subsection (a).
 
 “(2) During any fiscal year, such a waiver may not increase the total value of task orders under master agreements of a contracting activity by more than 20 percent of the value of all contracts for advisory and assistance services awarded by that contracting activity during fiscal year 1989.
 
@@ -50,5 +50,5 @@ Section 834(b) of Pub. L. 101–510 provided that: “Not later than 180 days af
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) ofPub. L. 103–355, set out as a note under section 2304a of this title.
+Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 

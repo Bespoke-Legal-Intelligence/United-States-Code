@@ -32,5 +32,5 @@ Pub. L. 106–117, title II, §208(g), Nov. 30, 1999, 113 Stat. 1568, provided t
 
 #### Enhanced Use Leases
 
-Pub. L. 104–110, title II, §202(c), Feb. 13, 1996, 110 Stat. 771, provided that: “The Secretary shall submit to Congress, not later than March 31, 1997, a report evaluating the operation of the program under subchapter V of chapter 81 of title 38, United States Code.”
+Pub. L. 104–110, title II, §202(c), Feb. 13, 1996, 110 Stat. 771, provided that: “The Secretary shall submit to Congress, not later than March 31, 1997, a report evaluatingthe operation of the program under subchapter V of chapter 81 of title 38, United States Code.”
 

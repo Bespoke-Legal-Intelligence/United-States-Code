@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(II) has taken steps to repudiate or nullify an existing contract or agreement with a United States citizen or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property, including patents, trademarks, or copyrights, so owned, or
 
-&emsp;&emsp;&emsp;(III) has imposed or enforced taxes or other exactions, restrictive maintenanceor operational conditions, or other measures with respect to property, including patents, trademarks, or copyrights, so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property,
+&emsp;&emsp;&emsp;(III) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property, including patents, trademarks, or copyrights, so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property,
 
 > &emsp;&emsp;unless clause (ii) applies.
 
@@ -118,7 +118,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 #### (3) Advice to Congress
 
-&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequatelytake the actions described in subsection (c) of this section.
+&emsp;The President shall, as necessary, advise the Congress on the application of section 2461 of this title and subsection (c) of this section, and the actions the President has taken to withdraw, to suspend, or to limit the application of duty-free treatment with respect to any country which has failed to adequately take the actions described in subsection (c) of this section.
 
 #### (e) Mandatory graduation of beneficiary developing countries
 
@@ -144,7 +144,7 @@ If the President determines that a beneficiary developing country has become a �
 
 #### Prior Provisions
 
-A prior section 2462, Pub. L. 93–618, title V, §502(a)–(c), (e), Jan. 3, 1975, 88 Stat. 2066–2069; Pub. L. 94–455, title XVIII, §1802, Oct. 4, 1976, 90 Stat. 1763; Pub. L. 96–39, title XI, §§1106(g)(1), (2), 1111(a)(1), (2), July 26, 1979, 93 Stat. 312, 313, 315; Pub. L. 98–573, title V, §503, Oct. 30, 1984, 98 Stat. 3019; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1887(a)(5), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 99–570, title IX, §9002(a), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 101–179, title III, §301, Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–382, title I, §131, Aug. 20, 1990, 104 Stat. 643; Pub. L. 103–66, title XIII, §13802(a), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–149, §4(b)(9), Nov. 23, 1993, 107 Stat. 1506, related to beneficiary developing countries, prior to the general amendment of this subchapter by Pub. L. 104–188.
+A prior section 2462, Pub. L. 93–618, title V, §502(a)–(c), (e), Jan. 3, 1975, 88 Stat. 2066–2069; Pub. L. 94–455, title XVIII, §1802, Oct. 4, 1976, 90 Stat. 1763; Pub. L. 96–39, title XI, §§1106(g)(1), (2), 1111(a)(1), (2), July 26, 1979, 93 Stat. 312, 313, 315; Pub. L. 98–573, title V, §503,Oct. 30, 1984, 98 Stat. 3019; Pub. L. 99–47, §8(b)(2), June 11, 1985, 99 Stat. 85; Pub. L. 99–514, title XVIII, §1887(a)(5), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 99–570, title IX, §9002(a), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 101–179, title III, §301, Nov. 28, 1989, 103 Stat. 1311; Pub. L. 101–382, title I, §131, Aug. 20, 1990, 104 Stat. 643; Pub. L. 103–66, title XIII, §13802(a), Aug. 10, 1993, 107 Stat. 667; Pub. L. 103–149, §4(b)(9), Nov. 23, 1993, 107 Stat. 1506, related to beneficiary developing countries, prior to the general amendment of this subchapter by Pub. L. 104–188.
 
 #### Amendments
 

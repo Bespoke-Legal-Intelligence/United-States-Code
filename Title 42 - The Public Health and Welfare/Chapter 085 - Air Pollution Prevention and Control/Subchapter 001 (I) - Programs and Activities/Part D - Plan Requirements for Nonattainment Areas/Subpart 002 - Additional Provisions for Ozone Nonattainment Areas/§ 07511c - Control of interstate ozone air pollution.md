@@ -6,7 +6,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (b) Plan provisions for States in ozone transport regions
 
-(1) In accordance with section 7410 of this title, not later than 2 years after November 15, 1990 (or 9 months after the subsequent inclusion of a State in a transport region established for ozone), each State included within a transport region established for ozone shall submit a State implementation plan or revision thereof to the Administrator which requires the following—
+(1) In accordance with section 7410 of this title, not later than 2 years after November 15, 1990 (or 9 months after the subsequent inclusion of a State in a transport region established for ozone), each State included within a transportregion established for ozone shall submit a State implementation plan or revision thereof to the Administrator which requires the following—
 
 &emsp;(A) that each area in such State that is in an ozone transport region, and that is a metropolitan statistical area or part thereof with a population of 100,000 or more comply with the provisions of section 7511a(c)(2)(A) of this title (pertaining to enhanced vehicle inspection and maintenance programs); and
 
@@ -18,7 +18,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (1) Recommendations
 
-&emsp;Upon petition of any State within a transport region established for ozone, and based ona majority vote of the Governors on the Commission <sup>1</sup> (or their designees), the Commission <sup>1</sup> may, after notice and opportunity for public comment, develop recommendations for additional control measures to be applied within all or a part of such transport region if the commission determines such measures are necessary to bring any area in such region into attainment by the dates provided by this subpart. The commission shall transmit such recommendations to the Administrator.
+&emsp;Upon petition of any State within a transport region established for ozone, and based on a majority vote of the Governors on the Commission <sup>1</sup> (or their designees), the Commission <sup>1</sup> may, after notice and opportunity for public comment, develop recommendations for additional control measures to be applied within all or a part of such transport region if the commission determines such measures are necessary to bring any area in such region into attainment by the dates provided by this subpart. The commission shall transmit such recommendations to the Administrator.
 
 #### (2) Notice and review
 

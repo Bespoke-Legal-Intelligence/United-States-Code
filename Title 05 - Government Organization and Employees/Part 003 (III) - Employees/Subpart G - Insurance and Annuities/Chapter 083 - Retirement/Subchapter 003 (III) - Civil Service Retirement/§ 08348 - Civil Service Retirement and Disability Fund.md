@@ -32,9 +32,39 @@
 
 (g) At the end of each fiscal year, the Office shall notify the Secretary of the Treasury of the amount equivalent to (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and (2) that portion of disbursement for annuities for that year which the Office estimates is attributable to credit allowed for military service, less an amount determined by the Office to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 8334(j) of this title. Before closing the accounts for each fiscal year, the Secretary shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the following percentages of such amounts; 10 percent for 1971; 20 percent for 1972; 30 percent for 1973; 40 percent for 1974; 50 percent for 1975; 60 percent for 1976; 70 percent for 1977; 80 percent for 1978; 90 percent for 1979; and 100 percent for 1980 and for each fiscal year thereafter.
 
-(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrativeaction by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
+(h)(1)(A) For purposes of this subsection, “Postal supplemental liability” means the estimated excess, as determined by the Office, of—
 
-(2) The estimated increase in the unfunded liability, referred to in paragraph (1) of this subsection, shall be determined by the Office of Personnel Management. The United States Postal Service shall pay the amount so determined to the Office in 30 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, with the first payment thereof due at the end of the fiscal year in which an increase in pay becomes effective.
+&emsp;(i) the actuarial present value of all future benefits payable from the Fund under this subchapter attributable to the service of current or former employees of the United States Postal Service, over
+
+&emsp;(ii) the sum of—
+
+&emsp;&emsp;(I) the actuarial present value of deductions to be withheld from the future basic pay of employees of the United States Postal Service currently subject to this subchapter pursuant to section 8334;
+
+&emsp;&emsp;(II) the actuarial present value of the future contributions to be made pursuant to section 8334 with respect to employees of the United States Postal Service currently subject to this subchapter;
+
+&emsp;&emsp;(III) that portion of the Fund balance, as of the date the Postal supplemental liability is determined, attributable to payments to the Fund by the United States Postal Service and its employees, including earnings on those payments; and
+
+&emsp;&emsp;(IV) any other appropriate amount, as determined by the Office in accordance with generally accepted actuarial practices and principles.
+
+(B)(i) In computing the actuarial present value of future benefits, the Office shall include the full value of benefits attributable to military and volunteer service for United States Postal Service employees first employed after June 30, 1971, and a prorated share of the value of benefits attributable to military and volunteer service for United States Postal Service employees first employed before July 1, 1971.
+
+(ii) Military service so included shall not be included in the computation of any amount under subsection (g)(2).
+
+(2)(A) Not later than June 30, 2004, the Office shall determine the Postal supplemental liability as of September 30, 2003. The Office shall establish an amortization schedule, including a series of equal annual installments commencing September 30, 2004, which provides for the liquidation of such liability by September 30, 2043.
+
+(B) The Office shall redetermine the Postal supplemental liability as of the close of the fiscal year, for each fiscal year beginning after September 30, 2003, through the fiscal year ending September 30, 2038, and shall establish a new amortization schedule, including a series of equal annual installments commencing on September 30 of the subsequent fiscal year, which provides for the liquidation of such liability by September 30, 2043.
+
+(C) The Office shall redetermine the Postal supplemental liability as of the close of the fiscal year for each fiscal year beginning after September 30, 2038, and shall establish a new amortization schedule, including a series of equal annual installments commencing on September 30 of the subsequent fiscal year, which provides for the liquidation of such liability over 5 years.
+
+(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate used in the most recent dynamic actuarial valuation of the Civil Service Retirement System.
+
+(E) The United States Postal Service shall pay the amounts so determined to the Office, with payments due not later than the date scheduled by the Office.
+
+(F) An amortization schedule established under subparagraph (B) or (C) shall supersede any amortization schedule previously established under this paragraph.
+
+(3) Notwithstanding any other provision of law, in computing the amount of any payment under any other subsection of this section that is based upon the amount of the unfunded liability, such payment shall be computed disregarding that portion of the unfunded liability that the Office determines will be liquidated by payments under this subsection.
+
+(4) Notwithstanding any other provision of this subsection, any determination or redetermination made by the Office under this subsection shall, upon request of the Postal Service, be subject to reconsideration and review (including adjustment by the Board of Actuaries of the Civil Service Retirement System) to the same extent and in the same manner as provided under section 8423(c).
 
 (i)(1) Notwithstanding any other provision of law, the Panama Canal Commission shall be liable for that portion of any estimated increase in the unfunded liability of the fund which is attributable to any benefits payable from the Fund to or on behalf of employees and their survivors to the extent attributable to the amendments made by sections 1241 and 1242, and the provisions of sections 1231(b) and 1243(a)(1), of the Panama Canal Act of 1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991.
 
@@ -70,13 +100,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
-
-(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
-
-(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.
-
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626.)
 
 Historical and Revision Notes<br>1966
 
@@ -142,6 +166,20 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
+2003—Subsec. (h). Pub. L. 108–18, §2(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+
+“(h)(1) Notwithstanding any other statute, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to active and retired Postal Service officers and employees, and to their survivors, when the increase results from an employee-management agreement under title 39, or any administrative action by the Postal Service taken pursuant to law, which authorizes increases in pay on which benefits are computed.
+
+“(2) The estimated increase in the unfunded liability, referred to in paragraph (1) of this subsection, shall be determined by the Office of Personnel Management. The United States Postal Service shall pay the amount so determined to the Office in 30 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, with the first payment thereof due at the end of the fiscal year in which an increase in pay becomes effective.”
+
+Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read as follows:
+
+“(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
+
+“(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
+
+“(3) In determining any amount for which the Postal Service is liable under this subsection, the amount of the liability shall be prorated to reflect only that portion of total service (used in computing the benefits involved) which is attributable to civilian service performed after June 30, 1971, as estimated by the Office.”
+
 1998—Subsec. (g). Pub. L. 105–362 struck out at end “The Office shall report to the President and to the Congress the sums credited to the Fund under this subsection.”
 
 1996—Subsec. (<i>l</i>)(1). Pub. L. 104–316 struck out at end “The Secretary shall concurrently transmit a copy of such report to the Comptroller General of the United States.”
@@ -185,6 +223,10 @@ Subsec. (g). Pub. L. 97–253, §306(f), inserted “, less an amount determine
 Subsec. (f). Pub. L. 91–93, §103(a)(2), added subsec. (f) and struck out former subsec. (f) which required the Commission to submit estimates of appropriations necessary to finance the Fund on a normal cost plus interest basis and to carry out this subchapter.
 
 Subsec. (g). Pub. L. 91–93, §103(a)(2), added subsec. (g) and struck out former subsec. (g) which contained restriction against use of Fund money to pay an increase in annuity benefits or a new annuity benefit under this subchapter or an earlier statute without an appropriation being made to the Fund in a sufficient amount to prevent an immediate increase in the unfunded accrued liability of the Fund.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–18, §2(d)(2), Apr. 23, 2003, 117 Stat. 627, provided that: “Nothing in this subsection \[repealing subsec. (m) of this section and provisions set out as a note under this section\] shall be considered to affect any payments made before the date of the enactment of this Act \[Apr. 23, 2003\] under either of the provisions of law repealed by paragraph (1).”
 
 #### Effective Date of 1990 Amendment
 
@@ -240,107 +282,23 @@ Pub. L. 105–261, div. C, title XXXI, §3154(<i>l</i>), Oct. 17, 1998, 112 Stat
 
 #### Payments by Postal Service Relating to Corrected Calculations for Past Retirement COLAs
 
-Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, provided that: “In addition to any other payments required under section 8348(m) of title 5, United States Code, or any other provision of law, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund a total of $693,000,000, of which—
-
-&emsp;“(1) at least one-third shall be paid not later than September 30, 1996;
-
-&emsp;“(2) at least two-thirds shall be paid not later than September 30, 1997; and
-
-&emsp;“(3) any remaining balance shall be paid not later than September 30, 1998.”
+Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, required the United States Postal Service to pay into the Civil Service Retirement and Disability Fund a total of $693,000,000 not later than September 30, 1998, in addition to other payments required by law.
 
 #### Timely Processing of Retirement Benefits
 
 Pub. L. 102–484, div. D, title XLIV, §4436(d), Oct. 23, 1992, 106 Stat. 2724, as amended by Pub. L. 103–337, div. A, title III, §341(b)(2), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 105–85, div. A, title XI, §1106(b)(2), Nov. 18, 1997, 111 Stat. 1924, provided that:
 
-“(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil ServiceRetirement System or the Federal Employees’ Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
+“(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees’ Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
 
 “(2) This subsection shall apply with respect to applications for retirement benefits based on separations occurring before January 1, 2002.”
 
 #### Pre-1991 Cost-of-Living Adjustments
 
-Section 7101(c) of Pub. L. 101–508, as amended by Pub. L. 102–378, §5(a)(1), Oct. 2, 1992, 106 Stat. 1358, provided that:
-
-“(1) For the purpose of this subsection—
-
-&emsp;“(A) the term ‘pre-1991 COLA’ means a cost-of-living adjustment which took effect in any of the fiscal years specified in subparagraphs (A)–(N) of paragraph (3);
-
-&emsp;“(B) the term ‘post-1990 fiscal year’ means a fiscal year after fiscal year 1990; and
-
-&emsp;“(C) the term ‘pre-1991 fiscal year’ means a fiscal year before fiscal year 1991.
-
-“(2) Notwithstanding any other provision of law, an installment (equal to an amount determined by reference to paragraph (3)) shall be payable by the United States Postal Service in a post-1990 fiscal year, with respect to a pre-1991 COLA, if such fiscal year occurs within the 15-fiscal-year period which begins with the first fiscal year in which that COLA took effect.
-
-“(3) Notwithstanding any provision of section 8348(m) of title 5, United States Code, or any determination thereunder (including any made under such provision, as in effect before October 1, 1990), the estimated increase in the unfunded liability referred to in paragraph (1) of such section 8348(m) shall be payable, in accordance with this subsection, based on annual installments equal to—
-
-&emsp;“(A) $6,500,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1977;
-
-&emsp;“(B) $7,000,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1978;
-
-&emsp;“(C) $10,400,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1979;
-
-&emsp;“(D) $20,500,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1980;
-
-&emsp;“(E) $26,100,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1981;
-
-&emsp;“(F) $28,100,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1982;
-
-&emsp;“(G) $30,600,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1983;
-
-&emsp;“(H) $5,700,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1984;
-
-&emsp;“(I) $19,400,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1985;
-
-&emsp;“(J) $7,400,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1986;
-
-&emsp;“(K) $8,500,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1987;
-
-&emsp;“(L) $36,800,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1988;
-
-&emsp;“(M) $51,600,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1989; and
-
-&emsp;“(N) $63,500,000 each, with respect to the cost-of-living adjustment which took effect in fiscal year 1990.
-
-“(4) Any installment payable under this subsection shall be paid by the Postal Service at the same time as when it pays any installments due in that same fiscal year under section 8348(m) of title 5, United States Code.
-
-“(5) An installment payable under this subsection in a fiscal year, with respect to a pre-1991 COLA, shall be in lieu of any other installment for which the Postal Service might otherwise be liable in such fiscal year, with respect to such COLA, under section 8348(m) of title 5, United States Code.”
-
-\[Amendment by Pub. L. 102–378 to section 7101(c) of Pub. L. 101–508, set out above, effective Nov. 5, 1990, see section 9(b)(6) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under section 6303 of this title.\]
+Pub. L. 101–508, title VII, §7101(c), Nov. 5, 1990, 104 Stat. 1388–331, as amended by Pub. L. 102–378, §5(a)(1), Oct. 2, 1992, 106 Stat. 1358, related to pre-1991 cost-of-living adjustments, prior to repeal by Pub. L. 108–18, §2(d)(1)(B), Apr. 23, 2003, 117 Stat. 627.
 
 #### Payments Relating to Amounts Which Would Have Been Due Before Fiscal Year 1987
 
-Section 7103 of Pub. L. 101–508 provided that:
-
-“(a)
-
-Definition.—For the purpose of this section, the term ‘pre-1987 fiscal year’ means a fiscal year before fiscal year 1987.
-
-“(b)
-
-For Past Retirement COLAs.—As payment for any amounts which would have been due in any pre-1987 fiscal year under the provisions of section 8348(m) of title 5, United States Code (as amended by section 7101) if such provisions had been in effect as of July 1, 1971, the United States Postal Service shall pay into the Civil Service Retirement and Disability Fund—
-
-&emsp;“(1) $216,000,000, not later than September 30, 1991;
-
-&emsp;“(2) $266,000,000, not later than September 30, 1992;
-
-&emsp;“(3) $316,000,000, not later than September 30, 1993;
-
-&emsp;“(4) $416,000,000, not later than September 30, 1994; and
-
-&emsp;“(5) $471,000,000, not later than September 30, 1995.
-
-“(c)
-
-For Past Health Benefits.—As payment for any amounts which would, for any period ending before the start of fiscal year 1987, have been payable under the provisions of section 8906(g)(2) of title 5, United States Code (as amended by section 7102) if such provisions had been in effect as of July 1, 1971, the United States Postal Service shall pay into the Employees Health Benefits Fund—
-
-&emsp;“(1) $56,000,000, not later than September 30, 1991;
-
-&emsp;“(2) $47,000,000, not later than September 30, 1992;
-
-&emsp;“(3) $62,000,000, not later than September 30, 1993;
-
-&emsp;“(4) $56,000,000, not later than September 30, 1994; and
-
-&emsp;“(5) $234,000,000, not later than September 30, 1995.”
+Pub. L. 101–508, title VII, §7103, Nov. 5, 1990, 104 Stat. 1388–333, required the United States Postal Service to pay, not later than Sept. 30, 1995, into the Civil Service Retirement and Disability Fund and into the Employees Health Benefits Fund certain sums for retirement COLA and health benefits which would have been due in any pre-1987 fiscal year if certain amendments had been in effect as of July 1, 1971.
 
 #### Certain Postal Service Annuitants; Size of Annual Installments To Fund Previous Years’ COLAs
 
@@ -352,11 +310,11 @@ Section 4002(b)(3) of Pub. L. 101–239, which provided that first payment made 
 
 #### Status of Original Subsec. (g) Provisions During Period From Oct. 20, 1969 to June 30, 1970
 
-Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as Effective Date of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
+Section 103(b)(2) of Pub. L. 91–93 provided that: “Paragraph (1) of this subsection \[set out as EffectiveDate of 1969 Amendment note above\], shall not be held or considered to continue in effect after the enactment of this Act \[Oct. 20, 1969\], the provisions of section 8348(g) of title 5, United States Code, as in effect immediately prior to such enactment.”
 
 #### Inapplicability to Benefits Under Pub. L. 89–737 of Prohibition Against Payment of Increased Annuity Benefit Without Compensating Appropriation
 
-Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that section 8348(g) of title 5, UnitedStates Code, does not apply with respect to annuity benefits resulting from the enactment of this Act \[amending sections 8114, 8331, and 8704 of this title and section 1117 of former Title 5, Executive Departments and Government Officers and Employees\], was repealed by Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223.
+Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that section 8348(g) of title 5, United States Code, does not apply with respect to annuity benefits resulting from the enactment of this Act \[amending sections 8114, 8331, and 8704 of this title and section 1117 of former Title 5, Executive Departments and Government Officers and Employees\], was repealed by Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223.
 
 #### Redemption of Obligations Held Prior to Oct. 4, 1961; Reinvestment of Proceeds
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Upon the recommendation of the faculty of the Naval War College, the President of the college may confer the degree of master of arts in national security and strategicstudies upon graduates of the college who fulfill the requirements for the degree.
+Authority.—Upon the recommendation of the faculty of the Naval War College, the President of the college may confer the degree of master of arts in national security and strategic studies upon graduates of the college who fulfill the requirements for the degree.
 
 (b)
 

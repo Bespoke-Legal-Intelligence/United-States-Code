@@ -14,7 +14,7 @@ The tax imposed by subsection (a) shall be paid by the employer.
 
 #### (c) Excess contributions
 
-For purposes of this section, the term “excess contributions” has the meaning given such termby sections 401(k)(8)(B), 408(k)(6)(C), and 501(c)(18).
+For purposes of this section, the term “excess contributions” has the meaning given such term by sections 401(k)(8)(B), 408(k)(6)(C), and 501(c)(18).
 
 #### (d) Excess aggregate contribution
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “plan” means—
 
 #### (B) De minimis distributions
 
-&emsp;&emsp;If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.
+&emsp;&emsp;If the total excess contributions and excess aggregate contributions distributed to arecipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.
 
 (Added Pub. L. 99–514, title XI, §1117(b)(1), Oct. 22, 1986, 100 Stat. 2461; amended Pub. L. 100–647, title I, §1011(<i>l</i>)(8)–(11), Nov. 10, 1988, 102 Stat. 3470, 3471.)
 

@@ -6,7 +6,7 @@ Title I of the Elementary and Secondary Education Act of 1965, comprising this s
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1087ee, 1087ii, 1401, 1413, 5861, 5891b, 6212, 6641, 6966, 7305a, 7305b,7424, 7801, 7821, 7907, 7941, 9252, 9563, 9602 of this title; title 8 section 1255a; title 10 sections 1598, 2410; title 25 section 2503; title 29 section 774; title 42 sections 9837a, 11432, 11433, 12524.
+This subchapter is referred to in sections 1087ee, 1087ii, 1401, 1413, 5861, 5891b, 6212, 6641, 6966, 7305a, 7305b, 7424, 7801, 7821, 7907, 7941, 9252, 9563, 9602 of this title; title 8 section 1255a; title 10 sections 1598, 2410; title 25 section 2503; title 29 section 774; title 42 sections 9837a, 11432, 11433, 12524.
 
 
 ---

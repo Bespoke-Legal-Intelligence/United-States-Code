@@ -26,7 +26,7 @@ Michigan is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
 
-(June 25, 1948, ch. 646, 62 Stat. 882; Feb. 10, 1954, ch. 6 §2(b)(8), 68 Stat. 11; Pub. L. 87–36, §3(d), May 19, 1961, 75 Stat. 83; Pub. L. 88–627, Oct. 6, 1964, 78 Stat. 1003; Pub. L. 91–272, §11, June 2, 1970, 84 Stat. 298.)
+(June 25, 1948, ch. 646, 62 Stat. 882; Feb. 10, 1954, ch. 6 §2(b)(8), 68 Stat. 11; Pub. L. 87–36, §3(d),May 19, 1961, 75 Stat. 83; Pub. L. 88–627, Oct. 6, 1964, 78 Stat. 1003; Pub. L. 91–272, §11, June 2, 1970, 84 Stat. 298.)
 
 #### Historical and Revision Notes
 

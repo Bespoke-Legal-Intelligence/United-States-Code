@@ -2,7 +2,7 @@
 
 #### (a) Waiver
 
-Before a person may be naturalized, an employee of the Service, or of the United States designated by the Attorney General, shall conduct a personal investigation of the person applying for naturalization in the vicinity or vicinities in which such person has maintained his actual place of abode and in the vicinity or vicinities in which such person has been employed or has engaged in business or work for at least five years immediately preceding the filing of his application for naturalization. The Attorney General may, in his discretion, waive a personal investigation in an individual case or in such cases or classes of cases as may be designated by him.
+Before a person may be naturalized, an employee of the Service, or of the United States designated by the Attorney General, shall conduct a personal investigation of the person applying for naturalization in the vicinity or vicinities in which such person has maintained his actual place of abode and in the vicinity or vicinities in which such person has been employedor has engaged in business or work for at least five years immediately preceding the filing of his application for naturalization. The Attorney General may, in his discretion, waive a personal investigation in an individual case or in such cases or classes of cases as may be designated by him.
 
 #### (b) Conduct of examinations; authority of designees; record
 
@@ -18,7 +18,7 @@ The employee designated to conduct any such examination shall make a determinati
 
 #### (e) Withdrawal of application
 
-After an application for naturalization has been filed with the Attorney General, the applicant shall not be permitted to withdraw his application, except with the consent of the Attorney General. In cases where the Attorney General does not consent to the withdrawal of the application, the application shall be determined on its merits and a final order determinationmade accordingly. In cases where the applicant fails to prosecute his application, the application shall be decided on the merits unless the Attorney General dismisses it for lack of prosecution.
+After an application for naturalization has been filed with the Attorney General, the applicant shall not be permitted to withdraw his application, except with the consent of the Attorney General. In cases where the Attorney General does not consent to the withdrawal of the application, the application shall be determined on its merits and a final order determination made accordingly. In cases where the applicant fails to prosecute his application, the application shall be decided on the merits unless the Attorney General dismisses it for lack of prosecution.
 
 #### (f) Transfer of application
 
@@ -48,7 +48,7 @@ Subsec. (f)(2). Pub. L. 100–525, §9(bb), struck out before period at end “,
 
 1981—Subsec. (b). Pub. L. 97–116, §15(c)(1), struck out “and the oaths of petitioner's witnesses to the petition for naturalization” after “oath of the petitioner for naturalization”.
 
-Subsec. (f). Pub. L. 97–116, §15(c)(2), (3), redesignated subsec. (i) as (f) and struck out former subsec. (f) which required affidavits of at least two credible witnesses, citizens of the United States, concerning the residency and the good moral character, etc., of the petitioner.
+Subsec. (f). Pub. L. 97–116, §15(c)(2), (3), redesignated subsec. (i) as (f) and struck out former subsec. (f) which required affidavits of at least two credible witnesses,citizens of the United States, concerning the residency and the good moral character, etc., of the petitioner.
 
 Subsec. (g). Pub. L. 97–116, §15(c)(2), struck out subsec. (g) which related to proof of residence at the hearing on the petition.
 

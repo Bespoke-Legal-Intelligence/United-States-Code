@@ -62,7 +62,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 &emsp;The Corporation may prescribe by its Board of Directors such rules and regulations as it considers necessary to carry out this part (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency).
 
-(Pub. L. 92–181, title V, §5.58, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, §302(i), Aug. 17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, §502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(a), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 104–105, title II, §214(b), Feb. 10, 1996, 110 Stat. 175.)
+(Pub. L. 92–181, title V, §5.58, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1614; amended Pub. L. 100–399, title III, §302(i), Aug.17, 1988, 102 Stat. 994; Pub. L. 102–237, title V, §502(j), Dec. 13, 1991, 105 Stat. 1869; Pub. L. 102–552, title II, §202(a), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 104–105, title II, §214(b), Feb. 10, 1996, 110 Stat. 175.)
 
 #### Amendments
 

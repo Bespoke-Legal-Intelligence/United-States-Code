@@ -78,7 +78,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 > &emsp;&emsp;and has failed substantially to provide medically necessary items and services that are required (under law or the contract with the State under subchapter XIX of this chapter) to be provided to individuals covered under that plan or waiver, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals; or
 
-&emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals coveredunder the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
+&emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals covered under the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
 
 #### (7) Fraud, kickbacks, and other prohibited activities
 
@@ -110,7 +110,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;Any disclosing entity (as defined in section 1320a–3(a)(2) of this title) that fails to supply (within such period as may be specified by the Secretary in regulations) upon request specifically addressed to the entity by the Secretary or by the State agency administering or supervising the administration of a State health care program—
 
-&emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined by the Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
+&emsp;&emsp;(A) full and complete information as to the ownership of a subcontractor (as defined bythe Secretary in regulations) with whom the entity has had, during the previous 12 months, business transactions in an aggregate amount in excess of $25,000, or
 
 &emsp;&emsp;(B) full and complete information as to any significant business transactions (as defined by the Secretary in regulations), occurring during the five-year period ending on the date of such request, between the entity and any wholly owned supplier or between the entity and any subcontractor.
 
@@ -168,7 +168,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 (3)(A) The Secretary shall specify, in the notice of exclusion under paragraph (1) and the written notice under section 1320a–7a of this title, the minimum period (or, in the case of an exclusion of an individual under subsection (b)(12) of this section or in the case described in subparagraph (G), the period) of the exclusion.
 
-(B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of a State, the Secretary may waive the exclusion under subsection (a)(1) of this section in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
+(B) Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not less than five years, except that, upon the request of the administrator of a Federal health care program (as defined in section 1320a–7b(f) of this title) who determines that the exclusionwould impose a hardship on individuals entitled to benefits under part A of subchapter XVIII of this chapter or enrolled under part B of such subchapter, or both, the Secretary may, after consulting with the Inspector General of the Department of Health and Human Services, waive the exclusion under subsection (a)(1), (a)(3), or (a)(4) of this section with respect to that program in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community. The Secretary's decision whether to waive the exclusion shall not be reviewable.
 
 (C) In the case of an exclusion of an individual under subsection (b)(12) of this section, the period of the exclusion shall be equal to the sum of—
 
@@ -198,7 +198,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;(B) of the period (described in paragraph (3)) for which the State agency is directed to exclude the individual or entity from participation in the State health care program.
 
-(3)(A) Except as provided in subparagraph (B), the period of the exclusion under a State health care program under paragraph (2) shall be thesame as any period of exclusion under subchapter XVIII of this chapter.
+(3)(A) Except as provided in subparagraph (B), the period of the exclusion under a State health care program under paragraph (2) shall be the same as any period of exclusion under subchapter XVIII of this chapter.
 
 (B)(i) The Secretary may waive an individual's or entity's exclusion under a State health care program under paragraph (2) if the Secretary receives and approves a request for the waiver with respect to the individual or entity from the State agency administering or supervising the administration of the program.
 
@@ -218,7 +218,7 @@ The Secretary shall—
 
 (1) Subject to paragraph (2), any individual or entity that is excluded (or directed to be excluded) from participation under this section is entitled to reasonable notice and opportunity for a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
-(2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determination under subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
+(2) Unless the Secretary determines that the health or safety of individuals receiving services warrants the exclusion taking effect earlier, any individual or entity that is the subject of an adverse determination under subsection (b)(7) of this section shall be entitled to a hearing by an administrative law judge (as provided under section 405(b) of this title) on the determinationunder subsection (b)(7) of this section before any exclusion based upon the determination takes effect.
 
 (3) The provisions of section 405(h) of this title shall apply with respect to this section and sections 1320a–7a, 1320a–8, and 1320c–5 of this title to the same extent as it is applicable with respect to subchapter II of this chapter, except that, in so applying such section and section 405(<i>l</i>) of this title, any reference therein to the Commissioner of Social Security shall be considered a reference to the Secretary.
 
@@ -278,9 +278,15 @@ For purposes of subsection (b)(8)(A)(iii) of this section:
 
 &emsp;(2) The term “member of the household” means, with respect to any person, any individual sharing a common abode as part of a single family unit with the person, including domestic employees and others who live together as a family unit, but not including a roomer or boarder.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570.)
+(Aug. 14, 1935, ch. 531, title XI, §1128, as added Pub. L. 96–499, title IX, §913(a), Dec. 5, 1980, 94 Stat. 2619; amended Pub. L. 97–35, title XXI, §2105(b), title XXIII, §2353(k), Aug. 13, 1981, 95 Stat. 791, 873; Pub. L. 98–369, div. B, title III, §2333(a), (b), July 18, 1984, 98 Stat. 1089; Pub. L. 99–509, title IX, §9317(c), Oct. 21, 1986, 100 Stat. 2008; Pub. L. 100–93, §2, Aug. 18, 1987, 101 Stat. 680; Pub. L. 100–203, title IV, §4118(e)(2)–(5), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 795; Pub. L. 100–360, title IV, §411(k)(10)(C), July 1, 1988, 102 Stat. 795; Pub. L. 101–239, title VI, §6411(d)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §4164(b)(3), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 102–54, §13(q)(3)(A)(ii), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §108(b)(9), title II, §206(b)(2), Aug. 15, 1994, 108 Stat. 1483, 1513; Pub. L. 104–191, title II, §§211–213, Aug. 21, 1996, 110 Stat. 2003–2005; Pub. L. 105–33, title IV, §§4301, 4303(a), 4331(c), 4901(b)(2), Aug. 5, 1997, 111 Stat. 382, 396, 570; Pub. L. 108–173, title IX, §949, Dec. 8, 2003, 117 Stat. 2426.)
+
+#### References in Text
+
+Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (c)(3)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2003—Subsec. (c)(3)(B). Pub. L. 108–173 amended first sentence generally. Prior to amendment, first sentence read as follows: “Subject to subparagraph (G), in the case of an exclusion under subsection (a) of this section, the minimum period of exclusion shall be not lessthan five years, except that, upon the request of a State, the Secretary may waive the exclusion under subsection (a)(1) of this section in the case of an individual or entity that is the sole community physician or sole source of essential specialized services in a community.”
 
 1997—Subsec. (a). Pub. L. 105–33, §4331(c)(1), substituted “any Federal health care program (as defined in section 1320a–7b(f) of this title)” for “any program under subchapter XVIII of this chapter and shall direct that the following individuals and entities be excluded from participation in any State health care program (as defined in subsection (h) of this section)” in introductory provisions.
 
@@ -342,7 +348,7 @@ Subsec. (d)(3)(B). Pub. L. 100–203, §4118(e)(2), designated existing provisio
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(5)(A), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “an individual or entity” for “a physician or other individual” in introductory provisions.
 
-Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity”for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
+Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity” for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
 
 Subsec. (i)(4). Pub. L. 100–203, §4118(e)(5)(C), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “first offender, deferred adjudication, or other arrangement or program” for “first offender or other program”.
 
@@ -414,7 +420,7 @@ Clarification of Medicaid Moratorium.—The amendments made by section 9 of this
 
 “(f)
 
-Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participationunder a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
+Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
 
 #### Effective Date of 1986 Amendment
 
@@ -434,7 +440,7 @@ Amendment by section 2353(k) of Pub. L. 97–35 effective Oct. 1, 1981, except a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 704, 1320a–3a, 1320a–5, 1320a–7a, 1320a–7b, 1320a–7c, 1320a–7d, 1320a–7e, 1320a–8, 1320c–5, 1395a, 1395b–5, 1395<i>l</i>, 1395m, 1395u, 1395w–27, 1395y, 1395cc, 1395mm, 1395ww, 1395aaa, 1396a, 1396b, 1396r–2, 1396r–6, 1397d of this title; title 21 section 824.
+This section is referred to in sections 704, 1320a–3a, 1320a–5, 1320a–7a, 1320a–7b, 1320a–7c, 1320a–7d, 1320a–7e, 1320a–8, 1320c–5, 1395a, 1395b–5, 1395<i>l</i>, 1395m, 1395u, 1395w–3b, 1395w–27, 1395y, 1395cc, 1395mm, 1395ww, 1395aaa, 1396a, 1396b, 1396r–2, 1396r–6, 1397d of this title; title 21 section 824.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1320a–7a(i)(7)”.</i>
 

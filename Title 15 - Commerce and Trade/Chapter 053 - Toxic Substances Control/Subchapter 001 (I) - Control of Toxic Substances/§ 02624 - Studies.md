@@ -2,7 +2,7 @@
 
 #### (a) Indemnification study
 
-The Administrator shall conduct a study of all Federal laws administered by the Administrator for the purpose of determining whether and under what conditions, if any, indemnification should be accorded any person as a result of any action taken by the Administrator under any such law. The study shall—
+The Administrator shall conduct a study of all Federal laws administered by the Administratorfor the purpose of determining whether and under what conditions, if any, indemnification should be accorded any person as a result of any action taken by the Administrator under any such law. The study shall—
 
 &emsp;(1) include an estimate of the probable cost of any indemnification programs which may be recommended;
 

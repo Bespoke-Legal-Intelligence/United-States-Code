@@ -4,11 +4,7 @@
 
 (b) As consideration for an option acquired under subsection (a), the Secretary may pay, from funds available to his department for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
 
-(c)(1) Before acquiring an option on real property under subsection (a), the Secretary of a military department shall review the most recent inventory of real property assets published by the Resolution Trust Corporation under section 21A(b)(11)(F) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(b)(11)(F)) and determine whether any real property listed in the inventory is suitable for use by the military department for the purposes for which the real property is sought.
-
-(2) The requirement for the review referred to in paragraph (1) shall terminate on September 30, 1996.
-
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 87–554, title VI, §607, July 27, 1962, 76 Stat. 242; Pub. L. 92–145, title VII, §707(4), Oct. 27, 1971, 85 Stat. 412; Pub. L. 94–273, §6(3), Apr. 21, 1976, 90 Stat. 377; Pub. L. 97–214, §10(a)(5)(A), (B), July 12, 1982, 96 Stat. 175; Pub. L. 97–375, title I, §104(b), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–407, title VIII, §803, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 102–190, div. B, title XXVIII, §2861, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 103–35, title II, §201(c)(9), May 31, 1993, 107 Stat. 98.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 87–554, title VI, §607, July 27, 1962, 76 Stat. 242; Pub. L. 92–145, title VII, §707(4), Oct. 27, 1971, 85 Stat. 412; Pub. L. 94–273, §6(3), Apr. 21, 1976, 90 Stat. 377; Pub. L. 97–214, §10(a)(5)(A), (B), July 12, 1982, 96 Stat. 175; Pub. L. 97–375, title I, §104(b), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–407, title VIII, §803, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 102–190, div. B, title XXVIII, §2861, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 103–35, title II, §201(c)(9), May 31, 1993, 107 Stat. 98; Pub. L. 107–314, div. A, title X, §1062(a)(12), Dec. 2, 2002, 116 Stat. 2650.)
 
 Historical and Revision Notes
 
@@ -31,6 +27,12 @@ In subsection (a), the words “Before acquisition of a parcel of real property 
 In subsection (b), the words “for each year the option is to continue, and proportionately for any other period” are substituted for the words “per annum” for clarity. The words “not more than 3 percent” are substituted for the words “not in excess of 3 per centum”.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–314 struck out subsec. (c) which read as follows:
+
+“(c)(1) Before acquiring an option on real property under subsection (a), the Secretary of a military department shall review the most recent inventory of real property assets published by the Resolution Trust Corporation under section 21A(b)(11)(F) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(b)(11)(F)) and determine whether any real property listed in the inventory is suitable for use by the military department for the purposes for which the real property is sought.
+
+“(2) The requirement for the review referred to in paragraph (1) shall terminate on September 30, 1996.”
 
 1993—Subsec. (c)(1). Pub. L. 103–35 substituted “section 21A(b)(11)(F) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(b)(11)(F))” for “section 21A(b)(12)(F) of the Federal Home Loan Bank Act (12 U.S.C. 1441a(b)(12)(F))”.
 

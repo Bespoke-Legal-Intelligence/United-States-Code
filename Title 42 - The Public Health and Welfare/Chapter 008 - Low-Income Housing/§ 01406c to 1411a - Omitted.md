@@ -6,7 +6,7 @@ Section 1406c, act June 27, 1942, ch. 450, §1, 56 Stat. 410, which related to e
 
 Section 1407, acts Sept. 1, 1937, ch. 896, §7, 50 Stat. 891; Aug. 2, 1954, ch. 649, title VIII, §802(d), 68 Stat. 643; May 25, 1967, Pub. L. 90–19, §2(f), 81 Stat. 20, provided for publication of information and submission of annual report by the Authority, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
-Section 1408, act Sept. 1, 1937, ch. 896, §8, 50 Stat. 891, authorized promulgation of rules and regulations by the Authority, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
+Section 1408, act Sept. 1, 1937, ch. 896, §8, 50 Stat. 891, authorized promulgation of rules and regulations by the Authority, prior to the general revision of theUnited States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
 Section 1409, acts Sept. 1, 1937, ch. 896, §9, 50 Stat. 891; July 15, 1949, ch. 338, title III, §304(c), (d), 63 Stat. 425; Dec. 24, 1969, Pub. L. 91–152, title II, §211, 83 Stat. 388, authorized loans for low-rent-housing and slum clearance projects, prior to the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653. See section 1437b of this title.
 

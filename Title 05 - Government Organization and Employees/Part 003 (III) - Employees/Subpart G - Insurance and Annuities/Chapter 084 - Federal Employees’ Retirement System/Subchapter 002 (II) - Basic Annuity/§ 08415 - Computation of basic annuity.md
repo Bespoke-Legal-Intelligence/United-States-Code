@@ -12,7 +12,9 @@
 
 &emsp;(2) 1 percent of that individual's average pay multiplied by so much of such individual's total service as exceeds 20 years.
 
-(e)(1) In computing an annuity under this subchapter for an employee whose service includes service performed on a part-time basis—
+(e) The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 17/10 percent of the individual's average pay by the years of such service.
+
+(f)(1) In computing an annuity under this subchapter for an employee whose service includes service performed on a part-time basis—
 
 &emsp;(A) the average pay of the employee, to the extent that it includes pay for service performed in any position on a part-time basis, shall be determined by using the annual rate of basic pay that would be payable for full-time service in the position; and
 
@@ -20,13 +22,13 @@
 
 (2) For the purpose of this subsection, employment on a part-time basis shall not be considered to include employment on a temporary or intermittent basis.
 
-(f)(1) The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for each full month by which the commencement date of the annuity precedes the sixty-second anniversary of the birth of the employee or Member.
+(g)(1) The annuity of an employee or Member retiring under section 8412(g) or 8413(b) is computed in accordance with applicable provisions of this section, except that the annuity shall be reduced by five-twelfths of 1 percent for each full month by which the commencement date of the annuity precedes the sixty-second anniversary of the birth of the employee or Member.
 
 (2)(A) Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(2), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
 
 (B) A determination under subparagraph (A) shall be based on how old the employee or Member will be as of the date on which the annuity under section 8412(g) or 8413(b) is to commence.
 
-(g)(1) In applying subsection (a) with respect to an employee under paragraph (2), the percentage applied under such subsection shall be 1.1 percent, rather than 1 percent.
+(h)(1) In applying subsection (a) with respect to an employee under paragraph (2), the percentage applied under such subsection shall be 1.1 percent, rather than 1 percent.
 
 (2) This subsection applies in the case of an employee who—
 
@@ -36,9 +38,9 @@
 
 > but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, or air traffic controller.
 
-(h) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
+(i) The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
 
-(i) <sup>1</sup> (1) For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
+(j)(1) For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
 
 (2) Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
 
@@ -84,7 +86,7 @@
 
 &emsp;(B) a survivor annuity under subchapter IV, if based on the service of an individual who dies before separating from service.
 
-(j) The annuity of an employee retiring under this chapter with service credited under section 8411(b)(6) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee under this subchapter is actuarially equivalent to the present value of the annuity that would be payable to the employee under this subchapter if it were computed—
+(k) <sup>1</sup> The annuity of an employee retiring under this chapter with service credited under section 8411(b)(6) shall be reduced by the amount necessary to ensure that the present value of the annuity payable to the employee under this subchapter is actuarially equivalent to the present value of the annuity that would be payable to the employee under this subchapter if it were computed—
 
 &emsp;(1) on the basis of service that does not include service credited under section 8411(b)(6); and
 
@@ -92,15 +94,33 @@
 
 > The amount of the reduction shall be computed under regulations prescribed by the Office of Personnel Management for the administration of this subsection.
 
-(i) <sup>1</sup> In computing an annuity under this subchapter, the total service of an employee who retires from the position of a registered nurse with the Veterans Health Administration on an immediate annuity, or dies while employed in that position leaving any survivor entitled to an annuity, includes the days of unused sick leave to the credit of that employee under a formal leave system, except that such days shall not be counted in determining average pay or annuity eligibility under this subchapter.
+(k) <sup>1</sup> In computing an annuity under this subchapter, the total service of an employee who retires from the position of a registered nurse with the Veterans Health Administration on an immediate annuity, or dies while employed in that position leaving any survivor entitled to an annuity, includes the days of unused sick leave to the credit of that employee under a formal leave system, except that such days shall not be counted in determining average pay or annuity eligibility under this subchapter.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451.)
+(<i>l</i>) In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, §105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, §307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, §516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, §1(a)(2) \[title III, §308(c)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, §3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, §1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, §122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, §1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, §226(b)(1), Dec. 12, 2003, 117 Stat. 2530.)
 
 #### References in Text
 
-The date of the enactment of this subsection, referred to in subsec. (i), is the date of enactment of Pub. L. 106–571, which was approved Dec. 28, 2000.
+The date of the enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 106–571, which was approved Dec. 28, 2000.
 
 #### Amendments
+
+2003—Subsecs. (e) to (h). Pub. L. 108–176, §226(b)(1), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 108–176, §226(b)(1)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Pub. L. 108–176, §226(b)(1)(A), which directed the redesignation of the second subsec. (i) as (<i>l</i>), could not be executed because of the redesignation of the second subsec. (i) as (k) by Pub. L. 108–92, §1(a)(1). See below.
+
+Pub. L. 108–92, §1(a)(1), redesignated second subsec. (i), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (k).
+
+Subsec. (j). Pub. L. 108–176, §226(b)(1)(A), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 108–176, §226(b)(1)(A), redesignated subsec. (j) as (k).
+
+Pub. L. 108–92, §1(a)(1), redesignated second subsec. (i), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (k).
+
+Subsec.(<i>l</i>). Pub. L. 108–92, §1(a)(2), added subsec. (<i>l</i>).
 
 2002—Subsec. (i). Pub. L. 107–135 added subsec. (i) relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration.
 
@@ -119,6 +139,12 @@ Subsec. (i). Pub. L. 106–571 added subsec. (i).
 1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
 1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+
+#### Effective Date of 2003 Amendments
+
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+
+Pub. L. 108–92, §2, Oct. 3, 2003, 117 Stat. 1160, provided that: “The amendments made by this Act \[amending this section and section 8422 of this title\] shall apply with respect to any annuity entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act \[Oct. 3, 2003\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -148,5 +174,5 @@ See section 2 of Pub. L. 100–92, set out as a note under section 8332 of this 
 
 This section is referred to in sections 8418, 8419, 8420, 8420a, 8421, 8422, 8442, 8452, 8468 of this title; title 22 sections 4045, 4046, 4071d; title 38 section 7426; title 50 section 2153.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. There are two subsecs. designated (k).</i>
 

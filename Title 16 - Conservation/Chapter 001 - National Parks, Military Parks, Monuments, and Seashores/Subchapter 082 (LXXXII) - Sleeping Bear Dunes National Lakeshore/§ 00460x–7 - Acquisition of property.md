@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; manner of acquisition; procedure for lands partly within designated area
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer funds, transfer from any Federal agency, or exchange lands and interests therein for the purposes of this subchapter. When an individual tract of land is only partly within thearea designated, the Secretary may acquire the entire tract by any of the above methods to avoid the payment of severance costs. Land so acquired outside the designated area may be exchanged by the Secretary for non-Federal lands within such area, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer funds, transfer from any Federal agency, or exchange lands and interests therein for the purposes of this subchapter. When an individual tract of land is only partly within the area designated, the Secretary may acquire the entire tract by any of the above methods to avoid the payment of severance costs. Land so acquired outside the designated area may be exchanged by the Secretary for non-Federal lands within such area, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.
 
 #### (b) Sale offers; hardship from delay; time and manner of purchase
 

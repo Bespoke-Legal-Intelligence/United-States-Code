@@ -30,7 +30,7 @@ In addition to the number of positions which may be placed at GS–16, GS–17, 
 
 #### (e) Determination of maximum aggregate number of positions
 
-For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of thissection shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
+For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of this section shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
 
 #### (f) Intelligence and intelligence-related positions exempt from competitive service
 
@@ -64,39 +64,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel
 
-Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745, provided that:
-
-“(a)
-
-Authority.—(1) Notwithstanding any provision of title 5, United States Code, governing appointments in the competitive service and General Schedule classification and pay rates, the Secretary of Energy may—
-
-&emsp;“(A) establish and set the rates of pay for not more than 200 positions in the Department of Energy for scientific, engineering, and technical personnel whose duties will relate to safety at defense nuclear facilities of the Department; and
-
-&emsp;“(B) appoint persons to such positions.
-
-“(2) The rate of pay for a position established under paragraph (1) may not exceed the rate of pay payable for level III of the Executive Schedule under section 5314 of title 5, United States Code.
-
-“(3) To the maximum extent practicable, the Secretary shall appoint persons under paragraph (1)(B) to the positions established under paragraph (1)(A) in accordance with the merit system principles set forth in section 2301 of such title.
-
-“(4) The Secretary may not appoint more than 100 persons during fiscal year 1995 under the authority provided in this subsection.
-
-“(b)
-
-OPM Review.—(1) The Secretary shall enter into an agreement with the Director of the Office of Personnel Management under which agreement the Director shall periodically evaluate the use of the authority set forth in subsection (a)(1). The Secretary shall reimburse the Director for evaluations conducted by the Director pursuant to the agreement. Any such reimbursement shall be credited to the revolving fund referred to in section 1304(e) of title 5, United States Code.
-
-“(2) If the Director determines as a result of such evaluation that the Secretary of Energy is not appointing persons to positions under such authority in a manner consistent with the merit system principles set forth in section 2301 of title 5, United States Code, or is setting rates of pay at levels that are not appropriate for the qualifications and experience of the persons appointed and the duties of the positions involved, the Director shall notify the Secretary and Congress of that determination.
-
-“(3) Upon receipt of a notification under paragraph (2), the Secretary shall—
-
-&emsp;“(A) take appropriate actions to appoint persons to positions under such authority in a manner consistent with such principles or to set rates of pay at levels that are appropriate for the qualifications and experience of the persons appointed and the duties of the positions involved; or
-
-&emsp;“(B) cease appointment of persons under such authority.
-
-“(c)
-
-Termination.—(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2004.
-
-“(2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).”
+Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745, which was formerly set out as a note under this section, was renumbered section 4601 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(2), Nov. 24, 2003, 117 Stat. 1776, and is classified to section 2701 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

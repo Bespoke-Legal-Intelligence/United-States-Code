@@ -70,7 +70,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3152, 5383, 5948, 9501, 9502, 9505, 9701 of this title; title 8 section 1724; title 22 section 3965.
+This section is referred to in sections 3152, 5382, 5383, 5948, 9501, 9502, 9505, 9701, 9903 of this title; title 8 section 1724; title 22 section 3965.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@ Act July 24, 1946, ch. 604, 60 Stat. 655, provided: “That the Secretary of the
 
 #### Silver Creek Recreational Demonstration Project
 
-Act June 9, 1947, ch. 100, 61 Stat. 129, provided: “That for the purpose of consolidating Federal holdings of lands acquired for the Silver Creek recreational demonstration project, in the State of Oregon, the Secretary of the Interior is hereby authorized to exchange any such lands for other lands of approximately equal value when in his opinion such action is in the interest of the United States, the title to any lands acquired hereunder to be satisfactory to the Attorney General. Upon the vesting of title thereto in the United States, any lands acquired pursuant to this authorization shall become a part of the Silver Creek recreational demonstration project, and shall be subject to the laws applicable thereto.
+Act June 9, 1947, ch. 100, 61 Stat. 129, provided: “That for the purpose of consolidating Federal holdings of lands acquired for the Silver Creek recreational demonstration project, in the State of Oregon, the Secretary of the Interior is hereby authorized to exchangeany such lands for other lands of approximately equal value when in his opinion such action is in the interest of the United States, the title to any lands acquired hereunder to be satisfactory to the Attorney General. Upon the vesting of title thereto in the United States, any lands acquired pursuant to this authorization shall become a part of the Silver Creek recreational demonstration project, and shall be subject to the laws applicable thereto.
 
 “
 

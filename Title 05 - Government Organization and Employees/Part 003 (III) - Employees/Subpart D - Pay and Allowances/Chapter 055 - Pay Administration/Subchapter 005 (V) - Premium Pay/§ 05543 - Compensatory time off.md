@@ -10,7 +10,7 @@
 
 (c) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460; Pub. L. 104–201, div. A, title XVI, §1610(a), Sept. 23, 1996, 110 Stat. 2738.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), titleII, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460; Pub. L. 104–201, div. A, title XVI, §1610(a), Sept. 23, 1996, 110 Stat. 2738.)
 
 Historical and Revision Notes<br>1966
 

@@ -6,41 +6,37 @@
 
 &emsp;For each fiscal year (except as otherwise provided in this paragraph), of the total amount provided in appropriation Acts under section 5303 of this title for the fiscal year, $60,000,000 shall be set aside for grants under subsection (b) of this section for such year for the following purposes:
 
-&emsp;&emsp;(A) $7,000,000 shall be available for grants under subsection (b)(1) of this section;
+&emsp;&emsp;(A) $6,500,000 shall be available for grants under subsection (b)(3) <sup>1</sup> of this section;
 
-&emsp;&emsp;(B) $6,500,000 shall be available for grants under subsection (b)(3) of this section;
+&emsp;&emsp;(B) $6,000,000 shall be available for grants under subsection (b)(5) <sup>1</sup> of this section;
 
-&emsp;&emsp;(C) $6,000,000 shall be available for grants under subsection (b)(5) of this section;
+&emsp;&emsp;(C) $6,000,000 shall be available in fiscal year 1993 for grants under subsection (b)(7) <sup>1</sup> of this section;
 
-&emsp;&emsp;(D) $6,000,000 shall be available in fiscal year 1993 for grants under subsection (b)(7) of this section;
+&emsp;&emsp;(D) $3,000,000 shall be available for grants under subsection (c) of this section;
 
-&emsp;&emsp;(E) $3,000,000 shall be available for grants under subsection (c) of this section;
+&emsp;&emsp;(E) such sums as may be necessary shall be available for grants under paragraphs (2), (4), and (6) <sup>1</sup> of subsection (b) of this section;
 
-&emsp;&emsp;(F) such sums as may be necessary shall be available for grants under paragraphs (2), (4), and (6) of subsection (b) of this section;
+&emsp;&emsp;(F) $2,000,000 shall be available in fiscal year 1993 for a grant to the City of Bridgeport, Connecticut, subject to the approval of sufficient amounts in an appropriation Act and to binding commitments made by the City of Bridgeport and the State of Connecticut that the city and State, respectively, will supplement such amount with $2,000,000 of additional funds; and
 
-&emsp;&emsp;(G) $2,000,000 shall be available in fiscal year 1993 for a grant to the City of Bridgeport, Connecticut, subject to the approval of sufficient amounts in an appropriation Act and to binding commitments made by the City of Bridgeport and the State of Connecticut that the city and State, respectively, will supplement such amount with $2,000,000 of additional funds; and
-
-&emsp;&emsp;(H) $7,500,000 shall be available to carry out the Community Outreach Partnership Act of 1992.
+&emsp;&emsp;(G) $7,500,000 shall be available to carry out the Community Outreach Partnership Act of 1992.
 
 #### (2) Treatment of grants
 
-&emsp;Any grants made under this section shall be in addition to any other grants that may be made under this chapter to the same entities for the same purposes.
+&emsp;Any grants made under this section shall be in addition to any other grants that may bemade under this chapter to the same entities for the same purposes.
 
 #### (b) Permissible uses of funds
 
 From amounts set aside under subsection (a) of this section, the Secretary is authorized to make grants—
 
-&emsp;(1) in Guam, the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;
+&emsp;(1) to States and units of general local government for the purpose of allocating amounts to any such State or unit of general local government that is determined by the Secretary to have received insufficient amounts under section 5306 of this title as a result of a miscalculation of its share of funds under such section;
 
-&emsp;(2) to States and units of general local government for the purpose of allocating amounts to any such State or unit of general local government that is determined by the Secretary to have received insufficient amounts under section 5306 of this title as a result of a miscalculation of its share of funds under such section;
+&emsp;(2) to historically Black colleges;
 
-&emsp;(3) to historically Black colleges;
+&emsp;(3) to States, units of general local government, Indian tribes, or areawide planning organizations for the purpose of providing technical assistance in planning, developing, and administering assistance under this chapter and section 1706e <sup>1</sup> of title 12; to groups designated by such governmental units to assist them in carrying out assistance under this chapter; to qualified groups for the purpose of assisting more than one such governmental unit to carry out assistance under this chapter; the Secretary may also provide technical assistance, directly or through contracts, to such governmental units and groups; for purposes of this paragraph the term “technical assistance” means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available;
 
-&emsp;(4) to States, units of general local government, Indian tribes, or areawide planning organizations for the purpose of providing technical assistance in planning, developing, and administering assistance under this chapter and section 1706e <sup>1</sup> of title 12; to groups designated by such governmental units to assist them in carrying out assistance under this chapter; to qualified groups for the purpose of assisting more than one such governmental unit to carry out assistance under this chapter; the Secretary may also provide technical assistance, directly or through contracts, to such governmental units and groups; for purposes of this paragraph the term “technical assistance” means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available;
+&emsp;(4) to States and units of general local government and institutions of higher education having a demonstrated capacity to carry out eligible activities under this chapter, except that the Secretary may make a grant under this paragraph only to a State or unit of general local government that jointly, with an institution of higher education, has prepared and submitted to the Secretary an application for such grant, as the Secretary shall by regulation require;
 
-&emsp;(5) to States and units of general local government and institutions of higher education having a demonstrated capacity to carry out eligible activities under this chapter, except that the Secretary may make a grant under this paragraph only to a State or unit of general local government that jointly, with an institution of higher education, has prepared and submitted to the Secretary an application for such grant, as the Secretary shall by regulation require;
-
-&emsp;(6) to units of general local government in nonentitlement areas for planning community adjustments and economic diversification activities, which may include any eligible activities under section 5305 of this title, required—
+&emsp;(5) to units of general local government in nonentitlement areas for planning community adjustments and economic diversification activities, which may include any eligible activities under section 5305 of this title, required—
 
 &emsp;&emsp;(A) by the proposed or actual establishment, realignment, or closure of a military installation,
 
@@ -50,11 +46,11 @@ From amounts set aside under subsection (a) of this section, the Secretary is au
 
 > &emsp;if the Secretary (in consultation with the Secretary of Defense) determines that an action described in subparagraph (A), (B), or (C) is likely to have a direct and significant adverse consequence on the unit of general local government; and
 
-&emsp;(7) for the purposes of rebuilding and revitalizing distressed areas of the Los Angeles metropolitan area.
+&emsp;(6) for the purposes of rebuilding and revitalizing distressed areas of the Los Angeles metropolitan area.
 
 #### (c) Assistance to economically disadvantaged and minority students participating in community development work study programs
 
-Of the amount set aside for use under subsection (b) of this section in any fiscal year, the Secretary shall,<sup>2</sup> make grants to institutions of higher education, either directly or through areawide planning organizations or States, forthe purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
+Of the amount set aside for use under subsection (b) of this section in any fiscal year, the Secretary shall,<sup>2</sup> make grants to institutions of higher education, either directly or through areawide planning organizations or States, for the purpose of providing assistance to economically disadvantaged and minority students who participate in community development work study programs and are enrolled in full-time graduate or undergraduate programs in community and economic development, community planning, or community management.
 
 #### (d) Continued availability of unused funds
 
@@ -70,15 +66,17 @@ Amounts set aside for use under subsection (b) of this section in any fiscal yea
 
 #### (f) Criteria for selection of recipients
 
-Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
+Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretaryshall publish together with any notification of availability of amounts under this section.
 
-(Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947.)
+(Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947; Pub. L. 108–186, title V, §501(f), Dec. 16, 2003, 117 Stat. 2697.)
 
 #### References in Text
 
-The Community Outreach Partnership Act of 1992, referred to in subsec. (a)(1)(H), is section 851 of Pub. L. 102–550, which is set out below.
+Paragraphs (2), (3), (4), (6), and (7) of subsection (b) of this section, referred to in subsec. (a)(1)(A) to (C) and (E), were redesignated as paragraphs (1), (2), (3), (5), and (6), respectively, of subsection (b) by Pub. L. 108–186, title V, §501(f)(2)(B), Dec. 16, 2003, 117 Stat. 2697.
 
-Section 1706e of title 12, referred to in subsec. (b)(4), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
+The Community Outreach Partnership Act of 1992, referred to in subsec. (a)(1)(G), is section 851 of Pub. L. 102–550, which is set out below.
+
+Section 1706e of title 12, referred to in subsec. (b)(3), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 1437<i>o</i> of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
@@ -89,6 +87,10 @@ The Fair Housing Act, referred to in subsec. (e)(1), is title VIII of Pub. L. 90
 Public Law 90–284, referred to in subsec. (e)(2), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. Title II of Pub. L. 90–284 is classified generally to subchapter I (§1301 et seq.) of chapter 15 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–186, §501(f)(1), redesignated subpars. (B) to (H) as (A) to (G), respectively, and struck out former subpar. (A) which read as follows: “$7,000,000 shall be available for grants under subsection (b)(1) of this section;”.
+
+Subsec. (b). Pub. L. 108–186, §501(f)(2), redesignated pars. (2) to (7) as (1) to (6), respectively, and struck out former par. (1) which read as follows: “in Guam, the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands;”.
 
 2000—Subsec. (a)(1)(G). Pub. L. 106–569, §102(f)(1), inserted “and” after semicolon at end.
 
@@ -200,15 +202,11 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 #### Regulations
 
-Section 801(c)(3) of Pub. L. 102–550 provided that: “Not later than the expiration of the 60-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development shall issue proposed regulations to carry out section 107(b)(6) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5307(b)(6)\], as added by subsection (c)(2) of this section. The Secretary shall issue final regulations to carry out section 107(b)(6) not later than the expiration of the 120-day period beginning on the date of the enactment of this Act and after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Such final regulations shall take effect 30 days after issuance.”
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+Pub. L. 102–550, title VIII, §801(c)(3), Oct. 28, 1992, 106 Stat. 3844, provided that, not later than the expiration of the 60-day period beginning on Oct. 28, 1992, the Secretary of Housing and Urban Development was to issue proposed regulations to carry out subsec. (b)(6) of this section and to issue final regulations to carry out subsec. (b)(6) not later than the expiration of the 120-day period beginning on Oct. 28, 1992.
 
 #### Community Outreach Partnership
 
-Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grants to public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
+Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grantsto public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
 
 #### Section Referred to in Other Sections
 

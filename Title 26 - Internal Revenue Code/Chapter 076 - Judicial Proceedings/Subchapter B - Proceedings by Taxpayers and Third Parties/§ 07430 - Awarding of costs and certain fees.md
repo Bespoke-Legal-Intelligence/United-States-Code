@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any administrative fees or similar charges imposed by the Internal Revenue Service, and
 
-&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of theawarding of reasonable administrative costs is made by the Internal Revenue Service.
+&emsp;&emsp;(B) expenses, costs, and fees described in paragraph (1)(B), except that any determination made by the court under clause (ii) or (iii) thereof shall be made by the Internal Revenue Service in cases where the determination under paragraph (4)(C) of the awarding of reasonable administrative costs is made by the Internal Revenue Service.
 
 > &emsp;Such term shall only include costs incurred on or after whichever of the following is the earliest: (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals; (ii) the date of the notice of deficiency; or (iii) the date on which the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals is sent.
 
@@ -228,9 +228,9 @@ For purposes of subsection (c)(4)—
 
 (Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
-#### Adjustment of Hourly Limit on Attorney Fees Awarded for Calendar Year 2003
+#### Adjustment of Hourly Limit on Attorney Fees Awarded for Calendar Year 2004
 
-<i>For adjustment of the hourly limit on attorney fees awarded under this section for calendar year 2003, see section 3.32 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of the hourly limit on attorney fees awarded under this section for calendar year 2004, see section 3.33 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
@@ -308,7 +308,7 @@ Subsec. (c)(2)(A)(iii). Pub. L. 100–647, §1015(i), amended cl. (iii) generall
 
 Subsec. (b). Pub. L. 99–514, §1551(a), (b), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1), maximum dollar amount, which read as follows: “The amount of reasonable litigation costs which may be awarded under subsection (a) with respect to any prevailing party in any civil proceeding shall not exceed $25,000.”
 
-Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “The term ‘reasonable litigation costs’ includes—
+Subsec. (c)(1)(A). Pub. L. 99–514, §1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘reasonable litigation costs’ includes—
 
 &emsp;“(i) reasonable court costs,
 
@@ -372,7 +372,7 @@ Subsection (f).—The amendment made by subsection (f) \[amending this section\]
 
 “(3)
 
-Applicability of amendments to certain prior cases.—The amendments made by this section shall apply to any case commenced after December 31, 1985, and finally disposed of before the date of the enactment of this Act \[Oct. 22, 1986\], except that in any such case, the 30-day period referred to in section 2412(d)(1)(B) of title 28, United States Code, or Rule 231 of the Tax Court \[26 App. U.S.C. Rule 231\], as the case may be, shall be deemed to commence on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Applicability of amendments to certain prior cases.—The amendments made by this section shallapply to any case commenced after December 31, 1985, and finally disposed of before the date of the enactment of this Act \[Oct. 22, 1986\], except that in any such case, the 30-day period referred to in section 2412(d)(1)(B) of title 28, United States Code, or Rule 231 of the Tax Court \[26 App. U.S.C. Rule 231\], as the case may be, shall be deemed to commence on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 

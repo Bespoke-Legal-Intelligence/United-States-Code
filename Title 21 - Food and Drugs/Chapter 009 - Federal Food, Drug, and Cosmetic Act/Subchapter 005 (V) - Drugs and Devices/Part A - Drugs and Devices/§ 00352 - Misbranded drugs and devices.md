@@ -8,7 +8,7 @@ If its labeling is false or misleading in any particular. Health care economic i
 
 #### (b) Package form; contents of label
 
-If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packagesshall be established, by regulations prescribed by the Secretary.
+If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary.
 
 #### (c) Prominence of information on label
 
@@ -26,7 +26,7 @@ If any word, statement, or other information required by or under authority of t
 
 &emsp;(iii) the established name of each inactive ingredient listed in alphabetical order on the outside container of the retail package and, if determined to be appropriate by the Secretary, on the immediate container, as prescribed in regulation promulgated by the Secretary, except that nothing in this subclause shall be deemed to require that any trade secret be divulged, and except that the requirements of this subclause with respect to alphabetical order shall apply only to nonprescription drugs that are not also cosmetics and that this subclause shall not apply to nonprescription drugs not intended for human use.
 
-(B) For any prescription drug the established name of such drug or ingredient, as the case may be, on such label (and on any labeling on which a name for such drug or ingredient is used) shall be printed prominently and in type at least half as large as that used thereon for any proprietary name or designation for such drug or ingredient, except that to the extent that compliance with the requirements of subclause (ii) or (iii) of clause (A) or this clause is impracticable, exemptions shall be established by regulations promulgated by the Secretary.
+(B) For any prescription drug the established name of such drug or ingredient, as the case may be, on such label (and on any labeling on which a name for such drug or ingredient is used) shall be printed prominently and in type at least half as large as that used thereon for any proprietary name or designation for such drug or ingredient, except that to the extent that compliance with the requirements of subclause (ii) or (iii) of clause (A) or this clause isimpracticable, exemptions shall be established by regulations promulgated by the Secretary.
 
 (2) If it is a device and it has an established name, unless its label bears, to the exclusion of any other nonproprietary name, its established name (as defined in subparagraph (4)) prominently printed in type at least half as large as that used thereon for any proprietary name or designation for such device, except that to the extent compliance with the requirements of this subparagraph is impracticable, exemptions shall be established by regulations promulgated by the Secretary.
 
@@ -40,7 +40,7 @@ Unless its labeling bears (1) adequate directions for use; and (2) such adequate
 
 #### (g) Representations as recognized drug; packing and labeling; inconsistent requirements for designation of drug
 
-If it purports to be a drug the name of which is recognized in an official compendium, unlessit is packaged and labeled as prescribed therein. The method of packing may be modified with the consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
+If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein. The method of packing may be modified with the consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
 
 #### (h) Deteriorative drugs; packing and labeling
 
@@ -62,7 +62,7 @@ If it is a color additive the intended use of which is for the purpose of colori
 
 #### (n) Prescription drug advertisements: established name; quantitative formula; side effects, contraindications, and effectiveness; prior approval; false advertising; labeling; construction of the Convention on Psychotropic Substances
 
-In the case of any prescription drug distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that drug a true statement of (1) the established name as defined in paragraph (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, (2) the formula showing quantitatively each ingredient of such drug to the extent required for labels under paragraph (e) of this section, and (3) such other information in brief summary relating to side effects, contraindications, and effectiveness as shall be required in regulations which shall be issued by the Secretary in accordance with the procedure specified in section 371(e) of this title, except that (A) except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement, and (B) no advertisement of a prescription drug, published after the effective date of regulations issued under this paragraph applicable to advertisements of prescription drugs, shall with respect to the matters specified in this paragraph or covered by such regulations, be subject to the provisions of sections 52 to 57 of title 15. This paragraph (n) shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title. Nothing in the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, shall be construed to prevent drug price communications to consumers.
+In the case of any prescription drug distributed or offered for sale in any State, unless themanufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that drug a true statement of (1) the established name as defined in paragraph (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, (2) the formula showing quantitatively each ingredient of such drug to the extent required for labels under paragraph (e) of this section, and (3) such other information in brief summary relating to side effects, contraindications, and effectiveness as shall be required in regulations which shall be issued by the Secretary in accordance with the procedure specified in section 371(e) of this title, except that (A) except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement, and (B) no advertisement of a prescription drug, published after the effective date of regulations issued under this paragraph applicable to advertisements of prescription drugs, shall with respect to the matters specified in this paragraph or covered by such regulations, be subject to the provisions of sections 52 to 57 of title 15. This paragraph (n) shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title. Nothing in the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, shall be construed to prevent drug price communications to consumers.
 
 #### (<i>o</i>) Drugs or devices from nonregistered establishments
 
@@ -78,7 +78,7 @@ In the case of any restricted device distributed or offered for sale in any Stat
 
 #### (r) Restricted devices not carrying requisite accompanying statements in advertisements and other descriptive printed matter
 
-In the case of any restricted device distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor withrespect to that device (1) a true statement of the device's established name as defined in subsection (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, and (2) a brief statement of the intended uses of the device and relevant warnings, precautions, side effects, and contraindications and, in the case of specific devices made subject to a finding by the Secretary after notice and opportunity for comment that such action is necessary to protect the public health, a full description of the components of such device or the formula showing quantitatively each ingredient of such device to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing. Except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement and no advertisement of a restricted device, published after the effective date of this paragraph shall, with respect to the matters specified in this paragraph or covered by regulations issued hereunder, be subject to the provisions of sections 52 through 55 of title 15. This paragraph shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title.
+In the case of any restricted device distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that device (1) a true statement of the device's established name as defined in subsection (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, and (2) a brief statement of the intended uses of the device and relevant warnings, precautions, side effects, and contraindications and, in the case of specific devices made subject to a finding by the Secretary after notice and opportunity for comment that such action is necessary to protect the public health, a full description of the components of such device or the formula showing quantitatively each ingredient of such device to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing. Except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement and no advertisement of a restricted device, published after the effective date of this paragraph shall, with respect to the matters specified in this paragraph or covered by regulations issued hereunder, be subject to the provisions of sections 52 through 55 of title 15. This paragraph shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title.
 
 #### (s) Devices subject to performance standards not bearing requisite labeling
 
@@ -94,7 +94,7 @@ If it is a device, unless it, or an attachment thereto, prominently and conspicu
 
 #### (v) Reprocessed single-use devices
 
-If it is a reprocessed single-use device, unless all labeling of the device prominently and conspicuously bears the statement “Reprocessed device for single use. Reprocessed by \_\_\_\_.” The name of the manufacturer of the reprocessed device shall be placed in the space identifying the person responsible for reprocessing.
+If it is a reprocessed single-use device, unless all labeling of the device prominently and conspicuously bears the statement “Reprocessed device for single use. Reprocessed by \_\_\_\_.” Thename of the manufacturer of the reprocessed device shall be placed in the space identifying the person responsible for reprocessing.
 
 (June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616.)
 
@@ -130,7 +130,7 @@ Par. (t)(3). Pub. L. 102–300 added cl. (3).
 
 1978—Par. (n). Pub. L. 95–633 inserted provision relating to the construction of the Convention on Psychotropic Substances.
 
-1976—Par. (e). Pub. L. 94–295, §5(a), substituted “subparagraph (3)” for “subparagraph (2)” in subpar. (1), added subpar. (2), redesignated former subpar. (2) as (3) and in subpar. (3) as so redesignated substituted “subparagraph (1)” for “this paragraph (e)”, and added subpar. (4).
+1976—Par. (e). Pub. L. 94–295, §5(a), substituted “subparagraph (3)” for “subparagraph (2)” in subpar. (1),added subpar. (2), redesignated former subpar. (2) as (3) and in subpar. (3) as so redesignated substituted “subparagraph (1)” for “this paragraph (e)”, and added subpar. (4).
 
 Par. (j). Pub. L. 94–295, §3(e)(2), substituted “dosage or manner,” for “dosage,”.
 
@@ -208,7 +208,35 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agricultureto Federal Security Agency, see note set out under section 41 of this title.
+
+#### Study on Making Prescription Pharmaceutical Information Accessible for Blind and Visually-Impaired Individuals
+
+Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, provided that:
+
+“(1)
+
+Study.—
+
+&emsp;“(A)
+
+In general.—The Secretary \[of Health and Human Services\] shall undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals.
+
+&emsp;“(B)
+
+Study to include existing and emerging technologies.—The study under subparagraph (A) shall include a review of existing and emerging technologies, including assistive technology, that makes essential information on the content and prescribed use of pharmaceutical medicines available in a usable format for blind and visually-impaired individuals.
+
+“(2)
+
+Report.—
+
+&emsp;“(A)
+
+In general.—Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall submit a report to Congress on the study required under paragraph (1).
+
+&emsp;“(B)
+
+Contents of report.—The report required under paragraph (1) shall include recommendations for the implementation of usable formats for making prescription pharmaceutical information available to blind and visually-impaired individuals and an estimate of the costs associated with the implementation of each format.”
 
 #### Study and Report
 
@@ -222,5 +250,5 @@ Provisions as effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 333, 334, 353, 353a, 354, 355a, 360, 360b, 360c, 360j, 360aaa, 360aaa–6, 371, 374, 384 of this title; title 42 section 1396r–8.
+This section is referred to in sections 321, 333, 334, 353, 353a, 354, 355a, 360, 360b, 360c, 360j, 360aaa, 360aaa–6, 360bbb–3, 371, 374, 384 of this title; title 42 section 1396r–8.
 

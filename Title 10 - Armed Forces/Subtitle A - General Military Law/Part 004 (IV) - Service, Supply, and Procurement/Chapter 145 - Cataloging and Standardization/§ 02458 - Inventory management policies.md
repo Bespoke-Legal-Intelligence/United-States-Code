@@ -6,7 +6,7 @@ Policy Required.—The Secretary of Defense shall issue a single, uniform policy
 
 &emsp;(1) establish maximum levels for inventory items sufficient to achieve and maintain only those levels for inventory items necessary for the national defense;
 
-&emsp;(2) provide guidance to item managers and other appropriate officials on how effectivelyto eliminate wasteful practices in the acquisition and management of inventory items; and
+&emsp;(2) provide guidance to item managers and other appropriate officials on how effectively to eliminate wasteful practices in the acquisition and management of inventory items; and
 
 &emsp;(3) set forth a uniform system for the valuation of inventory items by the military departments and Defense Agencies.
 
@@ -168,7 +168,7 @@ Covered Supplies and Equipment.—Subsection (a) shall apply to the following ty
 
 “(c)
 
-Definition.—For purposes of this section, the term ‘best commercial inventory practice’ includes a so-called prime vendor arrangement and any other practice that the Director determines will enable the Defense Logistics Agency to reduce inventory levels and holding costs while improving the responsiveness of the supply system to user needs.
+Definition.—For purposes of this section, the term ‘best commercial inventory practice’ includes aso-called prime vendor arrangement and any other practice that the Director determines will enable the Defense Logistics Agency to reduce inventory levels and holding costs while improving the responsiveness of the supply system to user needs.
 
 “(d)
 

@@ -1,6 +1,6 @@
 ### §1102. Printing to be authorized by law and necessary to the public business, not in excess of appropriation, and on special requisition filed with the Public Printer
 
-(a) A head of an executive department, or of an independent agency or establishment of the Government may not cause to be printed, and the Public Printer may not print, a document or matter unless it is authorized by law and necessary to the public business.
+(a) A head of an executive department, or of an independent agency or establishment of theGovernment may not cause to be printed, and the Public Printer may not print, a document or matter unless it is authorized by law and necessary to the public business.
 
 (b) Printing may not be done for an executive department, independent agency or establishment in a fiscal year in excess of the amount of the appropriation.
 

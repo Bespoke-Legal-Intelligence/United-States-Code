@@ -58,7 +58,7 @@
 
 #### (B) Time limitations
 
-&emsp;&emsp;The Secretary of Housing and Urban Development may designate nominated areas as renewal communities only during the period beginning on the first day of the first month following the month in which the regulations described in subparagraph (A) are prescribed and ending on December 31, 2001.
+&emsp;&emsp;The Secretary of Housing and Urban Development may designate nominated areasas renewal communities only during the period beginning on the first day of the first month following the month in which the regulations described in subparagraph (A) are prescribed and ending on December 31, 2001.
 
 #### (C) Procedural rules
 
@@ -158,7 +158,7 @@
 
 &emsp;The Secretary of Housing and Urban Development may designate any nominated area as a renewal community under subsection (a) only if—
 
-&emsp;&emsp;(A) the local government and the State in which the area is located agree in writingthat, during any period during which the area is a renewal community, such governments will follow a specified course of action which meets the requirements of paragraph (2) and is designed to reduce the various burdens borne by employers or employees in such area, and
+&emsp;&emsp;(A) the local government and the State in which the area is located agree in writing that, during any period during which the area is a renewal community, such governments will follow a specified course of action which meets the requirements of paragraph (2) and is designed to reduce the various burdens borne by employers or employees in such area, and
 
 &emsp;&emsp;(B) the economic growth promotion requirements of paragraph (3) are met.
 
@@ -238,7 +238,7 @@ Section 119(b)(2) of the Housing and Community Development Act of 1974, referred
 
 #### Audit and Report
 
-Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on suchprogram and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities.”
+Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities.”
 
 #### Advisory Council on Community Renewal
 

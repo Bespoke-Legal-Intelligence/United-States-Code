@@ -16,7 +16,7 @@
 
 &emsp;(7) accept and employ, in carrying out the provisions of this title, voluntary and uncompensated services, notwithstanding the provisions of 31 U.S.C. 1342, however, individuals providing such services shall not be considered Federal employees except for purposes of chapter 81 of title 5, United States Code, with respect to job-incurred disability and title 28, United States Code, with respect to tort claims;
 
-&emsp;(8) request such information, data, and reports from any Federal agency or judicial officer as the Commission may from time to timerequire and as may be produced consistent with other law;
+&emsp;(8) request such information, data, and reports from any Federal agency or judicial officer as the Commission may from time to time require and as may be produced consistent with other law;
 
 &emsp;(9) monitor the performance of probation officers with regard to sentencing recommendations, including application of the Sentencing Commission guidelines and policy statements;
 
@@ -60,7 +60,7 @@
 
 (d) A simple majority of the membership then serving shall constitute a quorum for the conduct of business. Other than for the promulgation of guidelines and policy statements pursuant to section 994, the Commission may exercise its powers and fulfill its duties by the vote of a simple majority of the members present.
 
-(e) Except as otherwise provided by law, the Commission shall maintain and make available for public inspection a record of the final vote of each member on any action taken by it.
+(e) Except as otherwise provided by law, the Commission shall maintain and make availablefor public inspection a record of the final vote of each member on any action taken by it.
 
 (Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2024; amended Pub. L. 100–690, title VII, §§7104, 7105, 7106(b), Nov. 18, 1988, 102 Stat. 4418; Pub. L. 101–650, title III, §325(b)(5), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097.)
 

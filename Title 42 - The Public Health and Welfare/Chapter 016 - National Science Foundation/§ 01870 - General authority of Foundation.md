@@ -22,7 +22,7 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(j) to arrange with and reimburse the heads of other Federal agencies for the performance of any activity which the Foundation is authorized to conduct; and
 
-&emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated withthe Ocean Drilling Program under the provisions of section 2354 of title 10 with all approvals and certifications required by such indemnification made by the Director.
+&emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 of title 10 with all approvals and certifications required by such indemnification made by the Director.
 
 (May 10, 1950, ch. 171, §11, 64 Stat. 153; Pub. L. 86–232, §6, Sept. 8, 1959, 73 Stat. 468; Pub. L. 90–407, §9, July 18, 1968, 82 Stat. 365; Pub. L. 99–159, title I, §110(a)(14), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(d), Aug. 21, 1986, 100 Stat. 814.)
 

@@ -26,7 +26,7 @@ Subchapter B of chapter 63 (relating to deficiency procedure for income, estate,
 
 1983—Pub. L. 97–448 amended language of Pub. L. 97–248, §405(b), (c)(2), to clarify an ambiguity created by the conflicting language of §§340(b)(1), (2) and 405(b), (c)(2) of Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Pub. L. 97–248, §§340(b)(2), 405(c)(2), as amended by Pub. L. 97–448, §306(c)(2)(B), substituted “Failure to file returns, etc., with respect to foreign corporationsor foreign partnerships” for “Failure to file returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock” in section catchline.
+1982—Pub. L. 97–248, §§340(b)(2), 405(c)(2), as amended by Pub. L. 97–448, §306(c)(2)(B), substituted “Failure to file returns, etc., with respect to foreign corporations or foreign partnerships” for “Failure to file returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock” in section catchline.
 
 Subsec. (a). Pub. L. 97–248, §§340(b)(1), 405(b), as amended by Pub. L. 97–448, §306(a)(2)(A), substituted “section 6035, 6046, or 6046A” for “section 6046”.
 

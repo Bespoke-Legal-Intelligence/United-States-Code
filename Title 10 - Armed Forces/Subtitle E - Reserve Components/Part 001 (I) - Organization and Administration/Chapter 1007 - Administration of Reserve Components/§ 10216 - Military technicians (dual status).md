@@ -14,7 +14,7 @@ In General.—(1) For purposes of this section and any other provision of law, a
 
 (b)
 
-Priority for Management of Military Technicians (Dual Status).—(1) As a basis for making the annual request to Congress pursuant to section 115(g) of this title for authorization of end strengths for military technicians (dual status) of the Army and Air Force reserve components, the Secretary of Defense shall give priority to supporting authorizations for militarytechnicians (dual status) in the following high-priority units and organizations:
+Priority for Management of Military Technicians (Dual Status).—(1) As a basis for making the annual request to Congress pursuant to section 115(c) of this title for authorization of end strengths for military technicians (dual status) of the Army and Air Force reserve components, the Secretary of Defense shall give priority to supporting authorizations for military technicians (dual status) in the following high-priority units and organizations:
 
 &emsp;(A) Units of the Selected Reserve that are scheduled to deploy no later than 90 days after mobilization.
 
@@ -28,7 +28,7 @@ Priority for Management of Military Technicians (Dual Status).—(1) As a basis 
 
 (c)
 
-Information Required To Be Submitted With Annual End Strength Authorization Request.—(1) The Secretary of Defense shall include as part of the budget justification documents submitted to Congress with the budget of the Department of Defense for any fiscal year the following information with respect to the end strengths for military technicians (dual status) requested in that budget pursuant to section 115(g) of this title, shown separately for each of the Army and Air Force reserve components:
+Information Required To Be Submitted With Annual End Strength Authorization Request.—(1) The Secretary of Defense shall include as part of the budget justification documents submitted to Congress with the budget of the Department of Defense for any fiscal year the following information with respect to the end strengths for military technicians (dual status) requested in that budget pursuant to section 115(c) of this title, shown separately for each of the Army and Air Force reserve components:
 
 &emsp;(A) The number of military technicians (dual status) in the high priority units and organizations specified in subsection (b)(1).
 
@@ -38,7 +38,7 @@ Information Required To Be Submitted With Annual End Strength Authorization Requ
 
 &emsp;(D) The number of technicians other than military technicians (dual status) in other than high priority units and organizations specified in subsection (b)(1).
 
-(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(g) of this title of a military technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
+(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(c) of this title of a military technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
 
 (B) Any justification submitted under subparagraph (A) shall clearly delineate the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those reductions).
 
@@ -58,9 +58,11 @@ Dual Status Requirement.—(1) Funds appropriated for the Department of Defense 
 
 (2) Except as otherwise provided by law, the Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period up to 12 months following the individual's loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
 
-(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595.)
+(Added Pub. L. 104–106, div. A, title V, §513(c)(1), Feb. 10, 1996, 110 Stat. 306; amended Pub. L. 104–201, div. A, title IV, §413(b), (c), title XII, §1214, Sept. 23, 1996, 110 Stat. 2507, 2508, 2695; Pub. L. 105–85, div. A, title V, §522(a), (b), (f)–(h)(1), Nov. 18, 1997, 111 Stat. 1734–1736; Pub. L. 106–65, div. A, title V, §521, Oct. 5, 1999, 113 Stat. 595; Pub. L. 108–136, div. A, title IV, §403(c), Nov. 24, 2003, 117 Stat. 1452.)
 
 #### Amendments
+
+2003—Subsecs. (b)(1), (c)(1), (2)(A). Pub. L. 108–136 substituted “section 115(c)” for “115(g)”.
 
 1999—Subsec. (a)(1)(A). Pub. L. 106–65, §521(a)(1), substituted “section 709(b)” for “section 709”.
 
@@ -100,7 +102,7 @@ Subsec. (c)(2)(A). Pub. L. 105–85, §522(g)(5)(C), inserted “(dual status)�
 
 Subsec. (c)(2)(B). Pub. L. 105–85, §522(g)(5)(D), substituted “delineate the specific force structure reductions” for “delineate—
 
-&emsp;“(i) in the case of a reduction that includes a reduction in technicians described in subparagraph (A) or (C) of paragraph (1), the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those force structure reductions); and
+&emsp;“(i) in the case of a reduction that includes a reduction in technicians described in subparagraph (A) or\(C) of paragraph (1), the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those force structure reductions); and
 
 &emsp;“(ii) in the case of a reduction that includes reductions in technicians described in subparagraphs (B) or (D) of paragraph (1), the specific force structure reductions, Department of Defense civilian personnel reductions, or other reasons”.
 

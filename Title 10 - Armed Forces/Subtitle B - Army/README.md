@@ -38,6 +38,7 @@
 | [<b>369.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20369%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>3961</b> |
 | [<b>371.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20371%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>3991</b> |
 | [<b>373.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20373%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>4021</b> |
+| [<b>375.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20375%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>4061</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,11 +75,13 @@
 
 #### Amendments
 
+2003—Pub. L. 108–136, div. A, title V, §576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
+
 2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
 
 1999—Pub. L. 106–65, div. A, title VII, §721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337“Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 

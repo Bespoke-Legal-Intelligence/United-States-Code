@@ -6,7 +6,7 @@
 
 (2)(A) The Deputy Secretary shall have responsibility for the conduct of intergovernmental relations of the Department, including assuring (i) that the Department carries out its functions in a manner which supplements and complements the education policies, programs, and procedures of the States and the local school systems and other instrumentalities of the States, and (ii) that appropriate officials of the Department consult with individuals responsible for making policy relating to education in the States and the local school systems and other instrumentalities of the States concerning differences over education policies, programs, and procedures and concerning the impact of the rules and regulations of the Department on the States and the local school systems and other instrumentalities of the States.
 
-(B) Local education authorities may inform the Deputy Secretary of any rules or regulations of the Department which are in conflict with another rule or regulation issued by any other Federal department or agency or with any other office of the Department. If the Deputy Secretary determines, after consultation with theappropriate Federal department or agency, that such a conflict does exist, the Deputy Secretary shall report such conflict or conflicts to the appropriate Federal department or agency together with recommendations for the correction of the conflict.
+(B) Local education authorities may inform the Deputy Secretary of any rules or regulations of the Department which are in conflict with another rule or regulation issued by any other Federal department or agency or with any other office of the Department. If the Deputy Secretary determines, after consultation with the appropriate Federal department or agency, that such a conflict does exist, the Deputy Secretary shall report such conflict or conflicts to the appropriate Federal department or agency together with recommendations for the correction of the conflict.
 
 #### (b) Assistant Secretaries and General Counsel
 
@@ -36,7 +36,7 @@ There shall be in the Department an Inspector General appointed in accordance wi
 
 #### (d) Under Secretary of Education
 
-There may be in the Department an Under Secretary of Education who shall perform such functions as the Secretary may prescribe. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+There may be in the Department an Under Secretary of Education who shall perform such functions as the Secretary may prescribe. TheUnder Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (e) Additional officers
 

@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2)(A) The term “biomass” means any organic matter which is available on a renewable basis, including agricultural crops and agricultural wastes and residues, wood and wood wastes and residues, animal wastes, municipal wastes, and aquatic plants.
 
-&emsp;(B) For purposes of subchapter I of this chapter, such term does not include municipalwastes; and for purposes of subchapter III of this chapter, such term does not include aquatic plants and municipal wastes.
+&emsp;(B) For purposes of subchapter I of this chapter, such term does not include municipal wastes; and for purposes of subchapter III of this chapter, such term does not include aquatic plants and municipal wastes.
 
 &emsp;(3) The term “biomass fuel” means any gaseous, liquid, or solid fuel produced by conversion of biomass.
 

@@ -14,7 +14,7 @@ The Secretary shall prepare (in consultation with groups representing the elderl
 
 #### (b) Medicare and medigap information
 
-The Secretary shall provide information via a toll-free telephone number on the programs under this subchapter.
+The Secretary shall provide information via a toll-free telephone number on the programs under this subchapter. The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.
 
 #### (c) Contents of notice
 
@@ -28,7 +28,7 @@ The notice provided under subsection (a) of this section shall include—
 
 &emsp;(4) a toll-free telephone number maintained by the Inspector General in the Department of Health and Human Services for the receipt of complaints and information about waste, fraud, and abuse in the provision or billing of services under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394.)
 
 #### References in Text
 
@@ -36,9 +36,11 @@ Parts A and B of this subchapter, referred to in subsec. (a), are classified to 
 
 #### Amendments
 
+2003—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
+
 1997—Subsec. (c). Pub. L. 105–33 added subsec. (c).
 
-1994—Pub. L. 103–432 inserted “; medicare and medigap information” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+1994—Pub. L. 103–432 inserted “; medicare and medigap information” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1997 Amendment
 
@@ -51,6 +53,18 @@ Amendment by Pub. L. 103–432 effective as if included in the enactment of Pub.
 #### Effective Date
 
 Section 223(d)(1) of Pub. L. 100–360 provided that: “The Secretary of Health and Human Services shall first distribute the notice required by the amendment made by subsection (a) \[enacting this section\] not later than January 31, 1989.”
+
+#### Monitoring Accuracy
+
+Pub. L. 108–173, title IX, §923(d)(2), Dec. 8, 2003, 117 Stat. 2395, provided that:
+
+“(A)
+
+Study.—The Comptroller General of the United States shall conduct a study to monitor the accuracy and consistency of information provided to individuals entitled to benefits under part A \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\] or enrolled under part B \[probably means part B of title XVIII of the Social Security Act which is classified to part B of this subchapter\], or both, through the toll-free telephone number 1–800–MEDICARE, including an assessment of whether the information provided is sufficient to answer questions of such individuals. In conducting the study, the Comptroller General shall examine the education and training of the individuals providing information through such number.
+
+“(B)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A).”
 
 #### State Regulatory Programs
 
@@ -70,5 +84,5 @@ Section 424 of Pub. L. 100–360, which directed Secretary of Health and Human S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395ff of this title.
+This section is referred to in sections 1395b–9, 1395w–21, 1395w–101, 1395ff of this title.
 

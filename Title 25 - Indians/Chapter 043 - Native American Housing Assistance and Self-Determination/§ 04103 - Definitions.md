@@ -98,7 +98,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Federally recognized tribe
 
-&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, orother organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 #### (C) State recognized tribe
 

@@ -8,7 +8,7 @@ Except as otherwise provided under this section, a State may use amounts paid to
 
 Amounts described in subsection (a) of this section may not be used for—
 
-&emsp;(1) inpatient services, other than inpatient services provided to children with specialhealth care needs or to high-risk pregnant women and infants and such other inpatient services as the Secretary may approve;
+&emsp;(1) inpatient services, other than inpatient services provided to children with special health care needs or to high-risk pregnant women and infants and such other inpatient services as the Secretary may approve;
 
 &emsp;(2) cash payments to intended recipients of health services;
 
@@ -68,7 +68,7 @@ Amendment by section 6503(a) of Pub. L. 101–239 applicable to appropriations f
 
 Section 608(g) of Pub. L. 100–485 provided that:
 
-“(1) The amendments made by subsections (a), (b), and (d) \[amending this section and sections 1320a–7, 1320a–7a, 1320b–10, 1320c–3, 1395i–2, 1395i–3, 1395<i>l</i>, 1395m, 1395r, 1395s, 1395t–1, 1395t–2, 1395u, 1395v, 1395w–2, 1395w–3, 1395x, 1395y, 1395aa to 1395dd, 1395mm, 1395tt, 1395ww, 1395aaa to 1395ccc, 1396a, 1396b, 1396d, 1396i, 1396n, 1396p, 1396r, 1396r–1, 1396r–4, 1396r–5, 1396s, and 1397d of this title, repealing section 1320a–2 of this title, enacting provisions set out as a note under section 1320a–2 of this title, and amending provisions set out asnotes under sections 1320c–5, 1395b, 1395d, 1395e, 1395i–3, 1395u, 1395<i>ll</i>, 1395mm, 1395ss, 1395tt, 1395ww, 1396a, 1396d, and 1396r–5 of this title\] shall be effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988 \[Pub. L. 100–360\].
+“(1) The amendments made by subsections (a), (b), and (d) \[amending this section and sections 1320a–7, 1320a–7a, 1320b–10, 1320c–3, 1395i–2, 1395i–3, 1395<i>l</i>, 1395m, 1395r, 1395s, 1395t–1, 1395t–2, 1395u, 1395v, 1395w–2, 1395w–3, 1395x, 1395y, 1395aa to 1395dd, 1395mm, 1395tt, 1395ww, 1395aaa to 1395ccc, 1396a, 1396b, 1396d, 1396i, 1396n, 1396p, 1396r, 1396r–1, 1396r–4, 1396r–5, 1396s, and 1397d of this title, repealing section 1320a–2 of this title, enacting provisions set out as a note under section 1320a–2 of this title, and amending provisions set out as notes under sections 1320c–5, 1395b, 1395d, 1395e, 1395i–3, 1395u, 1395<i>ll</i>, 1395mm, 1395ss, 1395tt, 1395ww, 1396a, 1396d, and 1396r–5 of this title\] shall be effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988 \[Pub. L. 100–360\].
 
 “(2) The amendments made by subsection (c) and subsection (f) (other than paragraph (5)) \[amending sections 1395cc, 1396b, 1396d, and 1396n of this title, enacting provisions set out as a note under section 1395k of this title, and amending provisions set out as a note under section 1395k of this title\] shall take effect on the date of the enactment of this Act \[Oct. 13, 1988\].”
 

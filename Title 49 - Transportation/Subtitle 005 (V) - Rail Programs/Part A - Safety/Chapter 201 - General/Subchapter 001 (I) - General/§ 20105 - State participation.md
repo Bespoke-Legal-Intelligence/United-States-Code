@@ -128,7 +128,7 @@ In subsection (b)(3), the text of 45:435(b) (2d sentence) and the words “as he
 
 In subsection (c)(1), the word “enforce” is substituted for “obtain compliance with” for clarity and consistency in this section.
 
-In subsection (e), the words “out of funds appropriated pursuant to this subchapter or otherwise made available”, “reasonably”, and “satisfactory” are omitted as surplus. The words “will be at least as much as the average amount expended” are substituted for “will be maintained at a level which does not fall below the average level of such expenditures” for clarity and to eliminate unnecessary words.
+In subsection (e), the words “out of funds appropriated pursuant to this subchapter or otherwise made available”, “reasonably”, and “satisfactory” are omitted as surplus. The words “will be at least as much as the average amount expended” are substituted for “will be maintained at a level which does not fall below theaverage level of such expenditures” for clarity and to eliminate unnecessary words.
 
 #### Amendments
 

@@ -46,7 +46,7 @@ The purposes of this section are to clarify the authority within the Public Heal
 
 Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Administrator of the Health Resources and Services Administration, shall make awards of grants or cooperative agreements to develop statewide newborn and infant hearing screening, evaluation and intervention programs and systems for the following purposes:
 
-&emsp;(1) To develop and monitor the efficacy of statewide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], which offer programs specifically designed to meet the unique language and communication needsof deaf and hard-of-hearing newborns, infants, toddlers, and children.
+&emsp;(1) To develop and monitor the efficacy of statewide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\], which offer programs specifically designed to meet the unique language and communication needs of deaf and hard-of-hearing newborns, infants, toddlers, and children.
 
 &emsp;(2) To collect data on statewide newborn and infant hearing screening, evaluation and intervention programs and systems that can be used for applied research, program evaluation and policy development.
 
@@ -64,7 +64,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 &emsp;&emsp;(D) to identify the causes and risk factors for congenital hearing loss;
 
-&emsp;&emsp;(E) to study the effectiveness of newborn and infant hearing screening, audiologic and medical evaluations and intervention programs and systems by assessing the health, intellectual and social developmental, cognitive, and language status of these children at school age; and
+&emsp;&emsp;(E) to study the effectiveness of newborn and infant hearing screening, audiologic and medical evaluations and intervention programs and systems by assessing the health,intellectual and social developmental, cognitive, and language status of these children at school age; and
 
 &emsp;&emsp;(F) to promote the sharing of data regarding early hearing loss with State-based birth defects and developmental disabilities monitoring programs for the purpose of identifying previously unknown causes of hearing loss.
 
@@ -94,7 +94,7 @@ Nothing in this section shall be construed to preempt any State law.
 
 #### (1) Statewide newborn and infant hearing screening, evaluation and intervention programs and systems
 
-&emsp;For the purpose of carrying out subsection (c) of this section under the existing authorityof the Public Health Service Act \[42 U.S.C. 201 et seq.\], there are authorized to the Health Resources and Services Administration appropriations in the amount of $5,000,000 for fiscal year 2000, $8,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
+&emsp;For the purpose of carrying out subsection (c) of this section under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], there are authorized to the Health Resources and Services Administration appropriations in the amount of $5,000,000 for fiscal year 2000, $8,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal year 2002.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
@@ -110,7 +110,7 @@ Nothing in this section shall be construed to preempt any State law.
 
 The Public Health Service Act, referred to in subsecs. (b) to (e) and (g), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1) and (e)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1) and (e)(1), is title VI of Pub.L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

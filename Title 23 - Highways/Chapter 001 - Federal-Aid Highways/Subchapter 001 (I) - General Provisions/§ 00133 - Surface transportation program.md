@@ -84,7 +84,7 @@ Noncontiguous states exemption.—Subparagraph (A) shall not apply to Hawaii and
 
 &emsp;&emsp;(E)
 
-Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required to obligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
+Distribution between urbanized areas of over 200,000 population.—The amount of funds which a State is required toobligate under subparagraph (A)(i) shall be obligated in urbanized areas described in subparagraph (A)(i) based on the relative population of such areas; except that the State may obligate such funds based on other factors if the State and the relevant metropolitan planning organizations jointly apply to the Secretary for the permission to do so and the Secretary grants the request.
 
 &emsp;(4)
 
@@ -100,7 +100,7 @@ In general.—Except as provided in subparagraphs (B) and (C), in the case of a 
 
 &emsp;&emsp;(B)
 
-Federal approval prior to involvement of qualified organization.—If Federal approval of the acquisition of the real property or interest predates the involvement of a qualified organization described in subparagraph (A) in the acquisition of the property, the organization shall be considered to be an acquiring agency or person as described in section 24.101(a)(2) of title 49,Code of Federal Regulations, for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
+Federal approval prior to involvement of qualified organization.—If Federal approval of the acquisition of the real property or interest predates the involvement of a qualified organization described in subparagraph (A) in the acquisition of the property, the organization shall be considered to be an acquiring agency or person as described in section 24.101(a)(2) of title 49, Code of Federal Regulations, for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
 
 &emsp;&emsp;(C)
 
@@ -266,7 +266,7 @@ Subsec. (f). Pub. L. 105–178, §1108(e), which directed general amendment of s
 
 “(f)
 
-Allocation of Obligation Authority.—A State which is required to obligate in an urbanized area with an urbanized area population of over 200,000 under subsection (d) funds apportioned to it under section104(b)(3) shall allocate during the 6-fiscal year period 1992 through 1997 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction for use in such area determined by multiplying—
+Allocation of Obligation Authority.—A State which is required to obligate in an urbanized area with an urbanized area population of over 200,000 under subsection (d) funds apportioned to it under section 104(b)(3) shall allocate during the 6-fiscal year period 1992 through 1997 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction for use in such area determined by multiplying—
 
 &emsp;“(1) the aggregate amount of funds which the State is required to obligate in such area under subsection (d) during such period; by
 

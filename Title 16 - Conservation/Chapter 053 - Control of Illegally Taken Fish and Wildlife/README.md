@@ -8,6 +8,7 @@
 | (b) | Marking offenses. |
 | (c) | Sale and purchase of guiding and outfitting services and invalid licenses and permits. |
 | (d) | False labeling offenses. |
+| (e) | Nonapplicability of prohibited wildlife species offense. |
 | [3373\.](%C2%A7%2003373%20-%20Penalties%20and%20sanctions.md) | Penalties and sanctions. |
 | (a) | Civil penalties. |
 | (b) | Hearings. |

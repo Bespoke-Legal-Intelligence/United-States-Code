@@ -20,7 +20,7 @@ Subsection (b) provides that the Securities and Exchange Commission may appear b
 
 #### house report no. 95–595
 
-Section 1109 authorizes the Securities and Exchange Commission and any indenture trustee to intervene in the case at any time on any issue. They may raise an issue or may appear and be heard on an issue that is raised by someone else. The section, following current law, denies the right of appeal to the Securities and Exchange Commission. It does not, however, prevent the Commission from joining or participating in an appeal taken by a true party in interest. The Commission is merely prevented from initiating the appeal in any capacity.
+Section 1109 authorizes the Securities and Exchange Commission and any indenture trustee to intervene in the case at any time on any issue. They may raise an issue or may appear and be heard on an issue that is raised by someone else. The section, following current law, denies the right of appeal to the Securities and Exchange Commission. It does not, however, prevent theCommission from joining or participating in an appeal taken by a true party in interest. The Commission is merely prevented from initiating the appeal in any capacity.
 
 #### Section Referred to in Other Sections
 

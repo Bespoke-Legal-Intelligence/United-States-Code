@@ -22,7 +22,7 @@ Any individual who knowingly enters into a marriage for the purpose of evading a
 
 Any individual who knowingly establishes a commercial enterprise for the purpose of evading any provision of the immigration laws shall be imprisoned for not more than 5 years, fined in accordance with title 18, or both.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §275, 66 Stat. 229; Pub. L. 99–639, §2(d), Nov. 10, 1986, 100 Stat.3542; Pub. L. 101–649, title I, §121(b)(3), title V, §543(b)(2), Nov. 29, 1990, 104 Stat. 4994, 5059; Pub. L. 102–232, title III, §306(c)(3), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title I, §105(a), Sept. 30, 1996, 110 Stat. 3009–556.)
+(June 27, 1952, ch. 477, title II, ch. 8, §275, 66 Stat. 229; Pub. L. 99–639, §2(d), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 101–649, title I, §121(b)(3), title V, §543(b)(2), Nov. 29, 1990, 104 Stat. 4994, 5059; Pub. L. 102–232, title III, §306(c)(3), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title I, §105(a), Sept. 30, 1996, 110 Stat. 3009–556.)
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 (d) For purposes of this section, the term “covered agency” means the Environmental Protection Agency and the Occupational Safety and Health Administration of the Department of Labor.
 
-(e) The Chief Counsel for Advocacy, in consultation with the individuals identified in subsection (b)(2), and with the Administrator of the Office of Information and Regulatory Affairs within the Office of Management and Budget, may waive the requirements of subsections (b)(3), (b)(4), and (b)(5) by including in the rulemaking record a written finding, with reasons therefor, that those requirements would not advance the effective participation of small entities in the rulemaking process. For purposes of this subsection, the factors to be considered in making such a finding are as follows:
+(e) The Chief Counsel for Advocacy, in consultation with the individuals identified in subsection (b)(2), and with the Administrator of the Office of Information and Regulatory Affairs within the Office of Management and Budget,may waive the requirements of subsections (b)(3), (b)(4), and (b)(5) by including in the rulemaking record a written finding, with reasons therefor, that those requirements would not advance the effective participation of small entities in the rulemaking process. For purposes of this subsection, the factors to be considered in making such a finding are as follows:
 
 &emsp;(1) In developing a proposed rule, the extent to which the covered agency consulted with individuals representative of affected small entities with respect to the potential impacts of the rule and took such concerns into consideration.
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 #### Small Business Advocacy Chairpersons
 
-Section 244(b) of Pub. L. 104–121 provided that: “Not later than 30 days after the date of enactment of this Act \[Mar. 29, 1996\], the head of each covered agencythat has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency's review panels established pursuant to this section.”
+Section 244(b) of Pub. L. 104–121 provided that: “Not later than 30 days after the date of enactment of this Act \[Mar. 29, 1996\], the head of each covered agency that has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency's review panels established pursuant to this section.”
 
 #### Section Referred to in Other Sections
 

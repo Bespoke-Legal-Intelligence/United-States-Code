@@ -54,7 +54,7 @@ In subsection (c)(1), the words “An action . . . shall be brought” are sub
 
 In subsection (c)(2)(B), the words “Superior Court of the District of Columbia” are substituted for “Municipal Court for the District of Columbia” \[subsequently changed to “District of Columbia Court of General Sessions” because of sections 1 and 7 of the Act of July 8, 1963 (Public Law 88–60, 77 Stat. 77, 78)\] because of section 155(a) of the District of Columbia Court Reorganization Act of 1970 (Public Law 91–358, 85 Stat. 570).
 
-In subsection (c)(3), the words “of a violation of said sections and of the general laws of the United States orthe laws of the District of Columbia” are omitted as unnecessary.
+In subsection (c)(3), the words “of a violation of said sections and of the general laws of the United States or the laws of the District of Columbia” are omitted as unnecessary.
 
 #### References in Text
 

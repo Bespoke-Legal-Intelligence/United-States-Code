@@ -20,7 +20,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 &emsp;&emsp;(C) provide appropriate safeguards against the evasion of the provisions of this chapter;
 
-&emsp;&emsp;(D) set forth the circumstances in which an applicant, together with any affiliate ofan applicant, shall be treated as an applicant for a loan guarantee under this chapter;
+&emsp;&emsp;(D) set forth the circumstances in which an applicant, together with any affiliate of an applicant, shall be treated as an applicant for a loan guarantee under this chapter;
 
 &emsp;&emsp;(E) include requirements that appropriate parties submit to the Board any documents and assurances that are required for the administration of the provisions of this chapter; and
 
@@ -68,7 +68,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;(iv) any loan must have terms, in the judgment of the Board, that are consistent in material respects with the terms of similar obligations in the private capital market;
 
-&emsp;&emsp;(v) for purposes of clause (i)(I)(bb), the term “net equity” means the value of the total assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
+&emsp;&emsp;(v) for purposes of clause (i)(I)(bb), the term “net equity” means the value of thetotal assets of the entity, less the total liabilities of the entity, as recorded under generally accepted accounting principles for the fiscal quarter ended immediately prior to the date on which the subject loan is approved;
 
 &emsp;&emsp;(E) repayment of the loan is required to be made within a term of the lesser of—
 
@@ -212,7 +212,7 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
+2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in originalAct which appear in text as references to sections 1104 and 1109 of this title.
 
 Subsec. (d)(1). Pub. L. 107–171, §6404(b)(1)(B), made technical amendment to reference in original Act which appears in text as a reference to section 1102 of this title.
 

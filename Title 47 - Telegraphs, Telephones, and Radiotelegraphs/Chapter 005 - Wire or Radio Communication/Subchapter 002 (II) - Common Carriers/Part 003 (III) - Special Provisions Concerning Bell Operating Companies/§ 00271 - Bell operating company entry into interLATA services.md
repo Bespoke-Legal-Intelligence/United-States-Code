@@ -50,7 +50,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (B) Competitive checklist
 
-&emsp;&emsp;Access or interconnection provided or generally offered by a Bell operating company to other telecommunications carriers meets the requirements of this subparagraph if such access and interconnection includes each of the following:
+&emsp;&emsp;Access or interconnection provided or generally offered by a Bell operating company to other telecommunications carriers meets the requirements of this subparagraph ifsuch access and interconnection includes each of the following:
 
 &emsp;&emsp;&emsp;(i) Interconnection in accordance with the requirements of sections 251(c)(2) and 252(d)(1) of this title.
 

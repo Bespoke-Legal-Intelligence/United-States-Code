@@ -148,7 +148,7 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(A)\], substituted “sect
 
 Subsec. (d). Pub. L. 105–244, §408(a), inserted “that the grant recipient will coordinate the project, to the extent feasible, with other local, State, and Federal programs to maximize the resources available for migrant students, and” after “contains assurances” in introductory provisions.
 
-Subsec. (e). Pub. L. 105–244, §408(d), substituted “in accordance with section 1070a–11(c)(1) of this title” for “authorized by subpart 4 of this part in accordance with section 1070d(b)(2) of this title.”
+Subsec. (e). Pub. L. 105–244, §408(d), substituted “in accordance with section 1070a–11(c)(1) of this title” for“authorized by subpart 4 of this part in accordance with section 1070d(b)(2) of this title.”
 
 Subsec. (g). Pub. L. 105–244, §408(c)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -164,7 +164,7 @@ Subsec. (c)(1)(A). Pub. L. 103–382, §391(e)(2), substituted “part C” for 
 
 Subsec. (b)(4). Pub. L. 102–325, §405(a)(1)(B), inserted comma after “concerning” and after “obtaining”.
 
-Subsec. (c). Pub. L. 102–325, §405(a)(2), (b), designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and amended it generally, redesignated par. (2) and its subpars. (A) to (E) as subpar. (B) and cls. (i) to (v), respectively, redesignated par. (3) and its subpars. (A) to (H) as subpar. (C) and cls. (i) to (viii), respectively, redesignated pars. (4) to (6) as subpars. (D) to (F), respectively, and added par. (2). Prior to amendment, par. (1) read as follows: “outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork,and who meet the minimum qualifications for attendance at a college or university;”.
+Subsec. (c). Pub. L. 102–325, §405(a)(2), (b), designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and amended it generally, redesignated par. (2) and its subpars. (A) to (E) as subpar. (B) and cls. (i) to (v), respectively, redesignated par. (3) and its subpars. (A) to (H) as subpar. (C) and cls. (i) to (viii), respectively, redesignated pars. (4) to (6) as subpars. (D) to (F), respectively, and added par. (2). Prior to amendment, par. (1) read as follows: “outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork, and who meet the minimum qualifications for attendance at a college or university;”.
 
 Subsec. (e). Pub. L. 102–325, §405(c), substituted “Five-year” for “Three-year” in heading and “5-year” for “3-year” in text.
 

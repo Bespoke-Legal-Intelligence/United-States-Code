@@ -62,5 +62,23 @@ Section was enacted as part of the Children's Health Act of 2000, and not as par
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Report on Surveillance Activities
+
+Pub. L. 108–154, §4, Dec. 3, 2003, 117 Stat. 1934, provided that: “Not later than 18 months after the date of enactment of this Act \[Dec. 3, 2003\], the Secretary of Health and Human Services jointly with the Secretary of Education shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and Committee on Education and the Workforce of the House of Representatives a report concerning surveillance activities under section 102 of the Children's Health Act of 2000 (Public Law 106–310) \[this section\], specifically including—
+
+&emsp;“(1) a description of the current grantees under the National Autism and Pervasive Developmental Disabilities Surveillance Program and the Centers of Excellence in Autism and Pervasive Developmental Disabilities, the data collected, analyzed, and reported under such grants, the sources of such data, and whether such data was obtained with parental consent as required under the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g);
+
+&emsp;“(2) a description of current sources of data for the surveillance of autism and developmental disabilities and the methods for obtaining such data, including whether such data was obtained with parental or patient consent for disclosure;
+
+&emsp;“(3) an analysis of research on autism and developmental disabilities with respect to the methods of collection and reporting, including whether such research was obtained with parental or patient consent for disclosure;
+
+&emsp;“(4) an analysis of the need to add education records in the surveillance of autism and other developmental disabilities, including the methodological and medical necessity for such records and the rights of parents and patients in the use of education records (in accordance with the Family Educational Rights and Privacy Act of 1974);
+
+&emsp;“(5) a description of the efforts taken by the Centers for Disease Control and Prevention to utilize education records in conducting the surveillance program while obtaining parental or patient consent for such education records, including the outcomes of such efforts;
+
+&emsp;“(6) a description of the challenges provided to obtaining education records (in the absence of parental or patient consent) for the purpose of obtaining additional surveillance data for autism and other developmental disabilities; and
+
+&emsp;“(7) a description of the manner in which such challenges can be overcome, including efforts to educate parents, increase confidence in the privacy of the surveillance program, and increase the rate of parental or patient consent, and including specific quantitative and qualitative justifications for any recommendations for changes to existing statutory authority, including the Family Educational Rights and Privacy Act of 1974.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

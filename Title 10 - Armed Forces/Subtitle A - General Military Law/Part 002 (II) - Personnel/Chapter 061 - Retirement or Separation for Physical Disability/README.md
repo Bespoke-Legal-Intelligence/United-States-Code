@@ -43,7 +43,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1142, 1370, 1402, 1402a, 1408, 1409, 1414, 1431, 1452, 1471, 1481 of this title; title 14 section 294; title 33 section 857a; title 37 sections 404, 406; title 42 sections 212, 213a.
+This chapter is referred to in sections 1142, 1370, 1402, 1402a, 1408, 1409, 1413a, 1414, 1431, 1448, 1452, 1458, 1471, 1481 of this title; title 14 section 294; title 20 section 6673; title 33 section 3071; title 37 sections 404, 406; title 42 sections 212, 213a.
 
 
 ---

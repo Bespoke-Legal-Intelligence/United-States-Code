@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under section 3120 of this title for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
 
-(7) The term “serious employment handicap” means a significant impairment, resulting insubstantial part from a service-connected disability rated at 10 percent or more, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
+(7) The term “serious employment handicap” means a significant impairment, resulting in substantial part from a service-connected disability rated at 10 percent or more, of a veteran's ability to prepare for, obtain, or retain employment consistent with such veteran's abilities, aptitudes, and interests.
 
 (8) The term “vocational goal” means a gainful employment status consistent with a veteran's abilities, aptitudes, and interests.
 

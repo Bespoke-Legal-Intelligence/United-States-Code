@@ -62,7 +62,7 @@ In general.—This section shall apply to any office that becomes vacant after t
 
 &emsp;“(B)
 
-Immediate application of time limitation.—Notwithstanding subparagraph (A), for any office vacant on the effective date of this section, the time limitations under section 3346 of title 5, United States Code (as amended by this section) shall apply to such office. Such time limitations shall apply asthough such office first became vacant on the effective date of this section.
+Immediate application of time limitation.—Notwithstanding subparagraph (A), for any office vacant on the effective date of this section, the time limitations under section 3346 of title 5, United States Code (as amended by this section) shall apply to such office. Such time limitations shall apply as though such office first became vacant on the effective date of this section.
 
 &emsp;“(C)
 
@@ -98,7 +98,7 @@ Ex. Ord. No. 11957, Jan. 13, 1977, 42 F.R. 3295, which designated certain office
 
 #### Executive Order No. 12343
 
-Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, which designated certain officers of the Department of State to act as Secretary of State during any period of unavailability of both the Secretary and the Deputy Secretary of State, was revoked by Ex. Ord. No. 13251, §4, Dec. 28, 2001, 67 F.R. 1599, set out below.
+Ex. Ord. No. 12343, Jan. 27, 1982, 47 F.R. 4225, which designated certain officers of the Department of Stateto act as Secretary of State during any period of unavailability of both the Secretary and the Deputy Secretary of State, was revoked by Ex. Ord. No. 13251, §4, Dec. 28, 2001, 67 F.R. 1599, set out below.
 
 #### Ex. Ord. No. 12879. Order of Succession of Officers To Act as Secretary of the Navy
 
@@ -188,7 +188,7 @@ Section 1. <i>Succession To Act as the Secretary of the Air Force.</i>
 
 (d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of the Air Force under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
 
-Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of the Air Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of theAir Force pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -238,7 +238,7 @@ Section 1. <i>Succession to Act as the Secretary of Defense</i>. (a) In the even
 
 (d) Notwithstanding paragraphs (a) and (b) of this section, an officer shall not act for or exercise the powers of the Secretary of Defense under this order if that officer serves only in an acting capacity in the position that would otherwise entitle him to do so.
 
-Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of Defense pursuant to this order shall be on a temporary orinterim basis and shall not have the effect of vacating the statutory appointment held by the successor.
+Sec. 2. <i>Temporary Nature of Succession</i>. Succession to act for and exercise the powers of the Secretary of Defense pursuant to this order shall be on a temporary or interim basis and shall not have the effect of vacating the statutory appointment held by the successor.
 
 Sec. 3. <i>Revocation of Prior Executive Order</i>. Executive Order No. 12787 of December 31, 1991, is hereby revoked.
 
@@ -670,7 +670,7 @@ By the authority vested in me as President under the Constitution and laws of th
 
 Section 1. <i>Order of Succession.</i>
 
-During any period when both the Director of the Federal Emergency Management Agency (Director) and the Deputy Director of the Federal Emergency Management Agency (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers of the Federal Emergency Management Agency, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Director or Deputy Director is able to perform the functions and duties of the office of Director:
+During any period when both the Director of the Federal Emergency Management Agency (Director) and the Deputy Director of the Federal Emergency Management Agency (Deputy Director) have died, resigned, or otherwise become unable to perform the functions and duties of the office of Director, the following officers ofthe Federal Emergency Management Agency, in the order listed, shall perform the functions and duties of the office of Director, if they are eligible to act as Director under the provisions of the Federal Vacancies Reform Act of 1998, until such time as the Director or Deputy Director is able to perform the functions and duties of the office of Director:
 
 Administrator of the United States Fire Administration;
 

@@ -6,7 +6,7 @@ Any challenge to a listing on an eligibility list prepared by an examiner shall 
 
 #### (b) Rules and regulations by Director of the Office of Personnel Management
 
-The times, places, procedures, and form for application and listing pursuant to subchapters I–A to I–C of this chapter and removals from the eligibility lists shall be prescribed by regulations promulgated by the Director of the Office of Personnel Management and the Director shall, after consultation with the Attorney General, instruct examiners concerning applicable State law not inconsistent with the Constitution and laws of the United States with respect to (1) the qualifications required for listing, and (2) loss of eligibility to vote.
+The times, places, procedures, and form for application and listing pursuant to subchapters I–A to I–C of this chapter and removals from the eligibility lists shall be prescribed by regulations promulgated by the Director of the Office of Personnel Management and the Director shall, after consultation with the Attorney General, instruct examiners concerning applicable State law not inconsistent with the Constitution and laws of the United States with respectto (1) the qualifications required for listing, and (2) loss of eligibility to vote.
 
 #### (c) Subpena power of Director of the Office of Personnel Management; contempt
 

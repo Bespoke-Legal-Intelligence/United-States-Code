@@ -90,7 +90,7 @@
 
 &emsp;(A) meets the definition of such term under paragraph (2) of subsection (a) (applied disregarding the parenthetical matter before subparagraph (A) thereof); and
 
-&emsp;(B) such special agent satisfies the requirements of subsection (d) without taking intoaccount any hours described in paragraph (2)(B) thereof.
+&emsp;(B) such special agent satisfies the requirements of subsection (d) without taking into account any hours described in paragraph (2)(B) thereof.
 
 (2) In applying subsection (h) with respect to a special agent under this subsection—
 

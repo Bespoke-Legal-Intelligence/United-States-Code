@@ -22,7 +22,7 @@ Valuables.—
 
 Definition.—The term “valuables” means any articles or things or representatives of value—
 
-&emsp;&emsp;&emsp;(i) in which the Government, its executive departments, independent establishments, and agencies, including wholly owned Government corporations, and officers and employees of the Government orits executive departments, independent establishments, and agencies while acting in their official capacity, have any interest, or in connection with which they have any obligation or responsibility; and
+&emsp;&emsp;&emsp;(i) in which the Government, its executive departments, independent establishments, and agencies, including wholly owned Government corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity, have any interest, or in connection with which they have any obligation or responsibility; and
 
 &emsp;&emsp;&emsp;(ii) which the Secretary of the Treasury declares to be valuables within the meaning of this chapter.
 

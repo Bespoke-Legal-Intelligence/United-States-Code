@@ -12,7 +12,7 @@
 
 #### (b) Program contents
 
-Each State program under this section shall provide for the implementation, at a minimum, of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
+Each State program under this section shall provide for the implementation, at a minimum,of management measures in conformity with the guidance published under subsection (g) of this section, to protect coastal waters generally, and shall also contain the following:
 
 #### (1) Identifying land uses
 
@@ -50,7 +50,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (1) Review and approval
 
-&emsp;Within 6 months after the date of submission by a State of a program pursuant to this section, the Secretary and the Administratorshall jointly review the program. The program shall be approved if—
+&emsp;Within 6 months after the date of submission by a State of a program pursuant to this section, the Secretary and the Administrator shall jointly review the program. The program shall be approved if—
 
 &emsp;&emsp;(A) the Secretary determines that the portions of the program under the authority of the Secretary meet the requirements of this section and the Administrator concurs with that determination; and
 

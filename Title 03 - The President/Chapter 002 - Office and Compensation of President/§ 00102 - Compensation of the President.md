@@ -186,6 +186,8 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 
 Provisions prohibiting expenditure of funds made available for official expenses for any other purpose, requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552, and providing that none of the funds made available for official expenses shall be considered as taxable to the President were contained in the following appropriation acts:
 
+Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 442.
+
 Pub. L. 107–67, title III, Nov. 12, 2001, 115 Stat. 526.
 
 Pub. L. 106–554, §1(a)(3) \[title III\], Dec. 21, 2000, 114 Stat. 2763, 2763A–136.
@@ -266,7 +268,7 @@ Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, �
 
 “(g) There are authorized to be appropriated to the Administrator of General Services up to $1,000,000 for each former President and up to $500,000 for the spouse of each former President each fiscal year for security and travel related expenses: <i>Provided</i>, That under the provisions set forth in section 3056, paragraph (a), subparagraph (3) of title 18, United States Code, the former President and/or spouse was not receiving protection for a lifetime provided by the United States Secret Service under section 3056 paragraph (a) subparagraph (3) of title 18, United States Code; the protection provided by the United States Secret Service expired at its designated time; or the protection provided by the United States Secret Service was declined prior to authorized expiration in lieu of these funds.”
 
-\[Pub. L. 95–138, §2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of thisAct \[amending Pub. L. 87–745, set out above\] shall take effect October 1, 1977.”\]
+\[Pub. L. 95–138, §2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of this Act \[amending Pub. L. 87–745, set out above\] shall take effect October 1, 1977.”\]
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

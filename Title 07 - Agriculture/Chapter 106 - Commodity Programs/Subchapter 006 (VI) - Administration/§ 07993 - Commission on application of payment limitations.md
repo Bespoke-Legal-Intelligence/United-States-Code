@@ -70,7 +70,7 @@ The Secretary shall appoint 1 of the members of the Commission to serve as Chair
 
 #### (f) Report
 
-Not later than 1 year after May 13, 2002, the Commission shall submit to the President, the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the results of the study required by subsection (b) of this section, including such recommendations as the Commission considers appropriate.
+Not later than 1 year after May 13, 2002, the Commission shall submit to the President, the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate a reportcontaining the results of the study required by subsection (b) of this section, including such recommendations as the Commission considers appropriate.
 
 #### (g) Hearings
 

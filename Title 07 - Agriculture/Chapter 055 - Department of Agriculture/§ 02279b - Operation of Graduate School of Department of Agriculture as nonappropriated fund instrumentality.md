@@ -42,7 +42,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (B) Exception
 
-&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with the Graduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of a member of the Board or an employee of the Graduate School.
+&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with theGraduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of a member of the Board or an employee of the Graduate School.
 
 #### (3) Not Federal funds
 
@@ -138,7 +138,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made by this section \[amending this section and repealing section 5922 of this title\] take effect on October 1, 2002.”
+Pub. L. 107–171, title X, §10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made bythis section \[amending this section and repealing section 5922 of this title\] take effect on October 1, 2002.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

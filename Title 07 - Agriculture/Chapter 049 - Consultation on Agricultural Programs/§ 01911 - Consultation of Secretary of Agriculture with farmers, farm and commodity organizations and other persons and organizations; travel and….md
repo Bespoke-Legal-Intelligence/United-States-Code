@@ -10,7 +10,7 @@
 
 #### Codification
 
-In subsec. (c), “subchapter I of chapter 57 of title 5” substituted for “the Travel Expense Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), “subchapter I of chapter 57 of title 5” substituted for “the Travel Expense Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631,the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Short Title
 

@@ -10,7 +10,7 @@ Section 1 of act June 30, 1948, ch. 756, 62 Stat. 1151, provided: “That the Pr
 
 #### Acceptance of Constitutional Amendment by United States
 
-Pub. L. 88–65, July 17, 1963, 77 Stat. 80, provided: “That the President is hereby authorized to accept onbehalf of the United States of America the instrument for the amendment of the constitution of the International Labor Organization adopted at Geneva on June 22, 1962, by the International Labor Conference at its forty-sixth session.”
+Pub. L. 88–65, July 17, 1963, 77 Stat. 80, provided: “That the President is hereby authorized to accept on behalf of the United States of America the instrument for the amendment of the constitution of the International Labor Organization adopted at Geneva on June 22, 1962, by the International Labor Conference at its forty-sixth session.”
 
 #### Reasons for Acceptance of Constitution by United States
 
@@ -84,7 +84,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30,1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
@@ -94,5 +94,7 @@ Term of the President's Committee on the International Labor Organization extend
 
 Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Committee on the International Labor Organization extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

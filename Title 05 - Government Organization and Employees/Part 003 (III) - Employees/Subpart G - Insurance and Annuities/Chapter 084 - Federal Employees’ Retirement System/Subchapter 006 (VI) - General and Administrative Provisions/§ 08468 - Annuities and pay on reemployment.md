@@ -2,7 +2,7 @@
 
 (a) If an annuitant, except a disability annuitant whose annuity is terminated because of the annuitant's recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant's pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant's appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Government employees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant's pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant's lump-sum credit may not be reduced by annuity paid during the reemployment.
 
-(b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (g) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
+(b)(1)(A) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, the annuitant's annuity on termination of reemployment shall be increased by an annuity computed under section 8415(a) through (h) as may apply based on the period of reemployment and the basic pay, before deduction, averaged during the reemployment.
 
 (B)(i) If the annuitant is receiving a reduced annuity as provided in section 8419, the increase in annuity payable under subparagraph (A) is reduced by 10 percent and the survivor annuity or combination of survivor annuities payable under section 8442 or 8445 (or both) is increased by 50 percent of the increase in annuity payable under subparagraph (A), unless, at the time of claiming the increase payable under subparagraph (A), the annuitant notifies the Office in writing that the annuitant does not desire the survivor annuity to be increased.
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) with respect to an employee of an agency in the legislative branch, by the head of such agency;
 
-&emsp;(B) with respect to an employee of the House of Representatives, by the Committee onHouse Oversight of the House of Representatives; and
+&emsp;(B) with respect to an employee of the House of Representatives, by the Committee on House Oversight of the House of Representatives; and
 
 &emsp;(C) with respect to an employee of the Senate, by the Committee on Rules and Administration of the Senate.
 
@@ -50,9 +50,11 @@
 
 (2) An employee as to whom a waiver under subsection (f), (g), or (h) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530.)
 
 #### Amendments
+
+2003—Subsec. (b)(1)(A). Pub. L. 108–176 substituted “through (h)” for “through (g)”.
 
 1997—Subsec. (b)(1)(A). Pub. L. 105–61 substituted “through (g)” for “through (f)”.
 
@@ -73,6 +75,10 @@ Pub. L. 101–509 added subsec. (f).
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -104,7 +110,7 @@ Each agency in legislative branch to submit to Speaker of House of Representativ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 sections 61h–6, 130i; title 20 section 4512; title 22 section 4064; title 39 section 1005.
+This section is referred to in title 2 sections 61h–6, 130i; title 20 section 4512; title 22 section 4064; title 39 section 1005; title 50 section 409b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “part-time”.</i>
 

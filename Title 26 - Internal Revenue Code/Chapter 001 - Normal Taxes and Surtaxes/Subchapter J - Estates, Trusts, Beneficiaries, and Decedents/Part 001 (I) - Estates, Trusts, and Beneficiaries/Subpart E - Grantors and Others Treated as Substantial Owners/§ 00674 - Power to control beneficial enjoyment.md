@@ -38,7 +38,7 @@ Subsection (a) shall not apply to the following powers regardless of by whom hel
 
 &emsp;A power to distribute or apply income to or for any current income beneficiary or to accumulate the income for him, provided that any accumulated income must ultimately be payable—
 
-&emsp;&emsp;(A) to the beneficiary from whom distribution or application is withheld, to his estate, or to his appointees (or persons named as alternate takers in default of appointment) provided that such beneficiary possesses a power of appointment which does not exclude from the class of possible appointees any person other than the beneficiary, his estate, his creditors, or the creditors of his estate, or
+&emsp;&emsp;(A) to the beneficiary from whom distribution or application is withheld, to his estate, or to his appointees (or persons named as alternate takers in default of appointment) provided that such beneficiary possesses apower of appointment which does not exclude from the class of possible appointees any person other than the beneficiary, his estate, his creditors, or the creditors of his estate, or
 
 &emsp;&emsp;(B) on termination of the trust, or in conjunction with a distribution of corpus which is augmented by such accumulated income, to the current income beneficiaries in shares which have been irrevocably specified in the trust instrument.
 

@@ -2,7 +2,7 @@
 
 Section 1594h, Pub. L. 85–241, title I, §103, Aug. 30, 1957, 71 Stat. 534, related to purchase of family housing for assignment as public quarters, and space and cost limitations.
 
-Section 1594h–1, Pub. L. 87–554, title V, §503, July 27, 1962, 76 Stat. 239, related to improvement of family housing units, public quarters designation, and cost limitations.
+Section 1594h–1, Pub. L. 87–554, title V, §503, July 27, 1962, 76 Stat. 239, related to improvement of familyhousing units, public quarters designation, and cost limitations.
 
 Section 1594h–2, Pub. L. 90–110, title VI, §610(a), Oct. 21, 1967, 81 Stat. 305; Pub. L. 93–166, title V, §506(a), Nov. 29, 1973, 87 Stat. 675; Pub. L. 95–356, title V, §502(b), Sept. 8, 1978, 92 Stat. 578; Pub. L. 96–418, title V, §502(b), Oct. 10, 1980, 94 Stat. 1764, related to improvement of single family housing units and cost limitations of such improvements. See section 2825(b) of Title 10, Armed Forces.
 

@@ -52,3 +52,7 @@ A prior section 3842, Pub. L. 99–198, title XII, §1242, as added Pub. L. 104�
 
 Another prior section 3842, Pub. L. 99–198, title XII, §1242, Dec. 23, 1985, 99 Stat. 1515, related to use of other agencies, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3841, 6575 of this title.
+

@@ -28,6 +28,10 @@ A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 St
 
 1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which set out six purposes of federally funded agricultural research and extension programs.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–161, §1, Dec. 6, 2003, 117 Stat. 2014, provided that: “This Act \[enacting section 3151a of this title\] may be cited as the ‘National Veterinary Medical Service Act’.”
+
 #### Short Title of 1985 Amendment
 
 Section 1401 of title XIV of Pub. L. 99–198 provided that: “This title \[enacting sections 1632, 3224, 3292, 3319a to 3319d, and 4701 to 4710 of this title, amending this section and sections 178c, 342, 343, 390 to 390d, 390f, 390h, 390i, 390j, 450i, 2266, 2662, 2663, 3103, 3121 to 3123, 3124a, 3125, 3151, 3152, 3194 to 3196, 3221 to 3223, 3291, 3311, 3312, 3318, 3319, 3322, 3324, 3335, and 3336 of this title, repealing sections 390e, 390g, 3174, 3177, 3301 to 3304, and 3323 of this title, enacting provisions set out as notes under sections 343, 390, 390c, 450i, 3173, 3292, 3311, 3312, and 4701 of this title, amending provisions set out as a note under section 3222 of this title, and repealing provisions set out as a note under section 2281 of this title\] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1985’.”
@@ -42,7 +46,7 @@ Section 1401 of title XIV of Pub. L. 95–113 provided that: “This title \[ena
 
 #### Review of Agricultural Research Service
 
-Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, provided that:
+Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, §2101(b), Apr. 16, 2003, 117 Stat. 589, provided that:
 
 “(a)
 
@@ -112,7 +116,7 @@ Reports.—Not later than 12 months after the date of enactment of this Act \[Ma
 
 “(e)
 
-Funding.—The Secretary shall use to carry out this section not more than 0.1 percent of the amount of appropriations available to the Agricultural Research Service for fiscal year 2003.”
+Funding.—The Secretary shall use to carry out this section not more than $499,000 of the amount of appropriations available to the Department of Agriculture for fiscal year 2003.”
 
 #### Section Referred to in Other Sections
 

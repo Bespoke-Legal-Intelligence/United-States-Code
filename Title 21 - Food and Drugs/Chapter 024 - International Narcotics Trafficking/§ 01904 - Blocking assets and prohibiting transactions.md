@@ -2,7 +2,7 @@
 
 #### (a) Applicability of sanctions
 
-A significant foreign narcotics trafficker publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) ofthis section shall be subject to any and all sanctions as authorized by this chapter. The application of sanctions on any foreign person pursuant to subsection (b) or (h)(1) of section 1903 of this title or subsection (b) of this section shall remain in effect until revoked pursuant to section 1903(h)(2) of this title or subsection (e)(1)(A) of this section or waived pursuant to section 1903(g)(1) of this title.
+A significant foreign narcotics trafficker publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section shall be subject to any and all sanctions as authorized by this chapter. The application of sanctions on any foreign person pursuant to subsection (b) or (h)(1) of section 1903 of this title or subsection (b) of this section shall remain in effect until revoked pursuant to section 1903(h)(2) of this title or subsection (e)(1)(A) of this section or waived pursuant to section 1903(g)(1) of this title.
 
 #### (b) Blocking of assets
 
@@ -14,7 +14,7 @@ Except to the extent provided in regulations, orders, instructions, licenses, or
 
 &emsp;(3) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as owned, controlled, or directed by, or acting for or on behalf of, a significant foreign narcotics trafficker so identified in the report required under subsection (b) or (h)(1) of section 1903 of this title, or foreign persons designated by the Secretary of the Treasury pursuant to this subsection; and
 
-&emsp;(4) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as playing a significant role in international narcotics trafficking.
+&emsp;(4) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau ofInvestigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as playing a significant role in international narcotics trafficking.
 
 #### (c) Prohibited transactions
 

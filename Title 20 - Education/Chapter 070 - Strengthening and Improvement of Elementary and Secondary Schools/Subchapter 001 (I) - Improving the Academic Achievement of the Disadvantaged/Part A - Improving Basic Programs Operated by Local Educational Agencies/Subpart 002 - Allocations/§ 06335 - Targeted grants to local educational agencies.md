@@ -66,7 +66,7 @@
 
 #### (D) Puerto Rico
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the weighting factor for the Commonwealth ofPuerto Rico under this paragraph shall not be greater than the total number of children counted under section 6333(c) of this title multiplied by 1.82.
+&emsp;&emsp;Notwithstanding subparagraph (A), the weighting factor for the Commonwealth of Puerto Rico under this paragraph shall not be greater than the total number of children counted under section 6333(c) of this title multiplied by 1.82.
 
 #### (2) Weights for allocations to local educational agencies
 

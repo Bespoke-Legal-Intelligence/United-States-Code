@@ -100,7 +100,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in aMilitary Family Policy and Programs note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L. 99–145, formerly set out in a Military Family Policy and Programs note under section 113 of Title 10, Armed Forces.
 
 #### Delegation of Functions
 
@@ -112,5 +112,5 @@ Pub. L. 98–473, title I, §101(c) \[title III, §320\], Oct. 12, 1984, 98 Stat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 sections 17<i>o</i>, 754; title 25 section 450j; title 42 section 12655n.
+This section is referred to in title 10 section 2195; title 16 sections 17<i>o</i>, 754; title 25 section 450j; title 42 section 12655n.
 

@@ -1,6 +1,6 @@
 ### §1167. Collective bargaining agreements
 
-Notwithstanding section 365 of this title, neither the court nor the trustee may change the wages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to the Railway Labor Act except in accordance with section 6 of such Act.
+Notwithstanding section 365 of this title, neither the court nor the trustee may change the wages or working conditions of employees of thedebtor established by a collective bargaining agreement that is subject to the Railway Labor Act except in accordance with section 6 of such Act.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2642; Pub. L. 103–394, title V, §501(d)(35), Oct. 22, 1994, 108 Stat. 4146.)
 

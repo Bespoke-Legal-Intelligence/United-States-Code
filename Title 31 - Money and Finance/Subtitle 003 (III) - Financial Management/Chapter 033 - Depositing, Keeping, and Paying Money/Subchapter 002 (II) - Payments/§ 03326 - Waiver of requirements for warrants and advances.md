@@ -1,6 +1,6 @@
 ### §3326. Waiver of requirements for warrants and advances
 
-(a) When the Secretary of the Treasury and the Comptroller General decide that, with sufficient safeguards, existing procedures may be changed to simplify, improve, and economize the control and accounting of public money, theymay prescribe joint regulations for waiving any part of the requirements in effect on September 12, 1950, that—
+(a) When the Secretary of the Treasury and the Comptroller General decide that, with sufficient safeguards, existing procedures may be changed to simplify, improve, and economize the control and accounting of public money, they may prescribe joint regulations for waiving any part of the requirements in effect on September 12, 1950, that—
 
 &emsp;(1) warrants be issued and countersigned for the receipt, retention, and disbursement of public money and trust funds; and
 

@@ -24,6 +24,10 @@ The words “or officer” are added for clarity and to align this section with 
 
 The words “special attorneys appointed under section 543” are substituted for “attorneys appointed under section 543” to reflect the revision of this title.
 
+#### Intelligence and National Security Aspects of Espionage Prosecutions
+
+Pub. L. 108–177, title III, §341(b), Dec. 13, 2003, 117 Stat. 2616, provided that: “The Attorney General, acting through the Office of Intelligence Policy and Review of the Department of Justice, and in consultation with the Director of Central Intelligence, acting through the Office of the National Counterintelligence Executive, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
+
 #### Use of Annuity Brokers in Structured Settlements
 
 Pub. L. 107–273, div. C, title I, §11015, Nov. 2, 2002, 116 Stat. 1824, provided that:
@@ -48,7 +52,7 @@ Similar provisions were contained in Pub. L. 95–624, §13, Nov. 9, 1978, 92 St
 
 #### Study and Report to Congress on Extent to Which Violations of Federal Criminal Laws Are Not Prosecuted
 
-Pub. L. 95–624, §17, Nov. 9, 1978, 92 Stat. 3465, provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted andpresent such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
+Pub. L. 95–624, §17, Nov. 9, 1978, 92 Stat. 3465, provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted and present such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
 
 #### Executive Order No. 12778
 
@@ -102,7 +106,7 @@ Sec. 2. <i>Government Pro Bono and Volunteer Service</i>. All Federal agencies s
 
 Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do Not Unduly Burden the Federal Court System.</i>
 
-(a) <i>General Duty to Review Legislation and Regulations</i>. Within current budgetary constraints and existing executive branch coordination mechanisms and procedures established in OMB Circular A-19 and ExecutiveOrder No. 12866 \[5 U.S.C. 601 note\], each agency promulgating new regulations, reviewing existing regulations, developing legislative proposals concerning regulations, and developing new legislation shall adhere to the following requirements:
+(a) <i>General Duty to Review Legislation and Regulations</i>. Within current budgetary constraints and existing executive branch coordination mechanisms and procedures established in OMB Circular A-19 and Executive Order No. 12866 \[5 U.S.C. 601 note\], each agency promulgating new regulations, reviewing existing regulations, developing legislative proposals concerning regulations, and developing new legislation shall adhere to the following requirements:
 
 (1) The agency's proposed legislation and regulations shall be reviewed by the agency to eliminate drafting errors and ambiguity;
 

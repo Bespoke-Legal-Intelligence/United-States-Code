@@ -10,7 +10,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (2) Percentage of deductions taken into account
 
-&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
+&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph\(1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
 
 #### (3) Deductions allowable
 
@@ -116,7 +116,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;For purposes of this section, the term “acquisition indebtedness” does not include an obligation to pay an annuity which—
 
-&emsp;&emsp;(A) is the sole consideration (other than a mortgage to which paragraph (2)(B) applies) issued in exchange for property if, at the time of the exchange, the value of the annuity is less than 90 percent of the value of the property received in the exchange,
+&emsp;&emsp;(A) is the sole consideration (other than a mortgage to which paragraph (2)(B) applies) issued in exchange for property if, at thetime of the exchange, the value of the annuity is less than 90 percent of the value of the property received in the exchange,
 
 &emsp;&emsp;(B) is payable over the life of one individual in being at the time the annuity is issued, or over the lives of two individuals in being at such time, and
 
@@ -190,7 +190,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (D) Other pass-thru entities; tiered entities
 
-&emsp;&emsp;Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
+&emsp;&emsp;Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of any pass-thru entity other than a partnershipand in the case of tiered partnerships and other entities.
 
 #### (E) Certain allocations permitted
 

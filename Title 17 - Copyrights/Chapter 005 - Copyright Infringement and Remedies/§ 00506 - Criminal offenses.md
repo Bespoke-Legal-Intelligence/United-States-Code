@@ -50,11 +50,11 @@ Criminal Infringement.—Any person who infringes a copyright willfully and for 
 
 1990—Subsec. (f). Pub. L. 101–650 added subsec. (f).
 
-1982—Subsec. (a). Pub. L. 97–180 substituted “shall be punished as provided in section 2319 of title 18” for “shall be fined not more than $10,000 or imprisoned for not more than one year, or both: <i>Provided, however</i>, That any person who infringes willfully and for purposes of commercial advantage or private financial gain the copyright in a sound recording afforded by subsections (1), (2), or (3) of section 106 or the copyright in a motion picture afforded by subsections (1), (3), or (4) of section 106 shall be fined not more than $25,000 or imprisoned for not more than one year, or both, for the first such offense and shall be fined not more than $50,000 or imprisoned for not more than two years, or both, for any subsequent offense”.
+1982—Subsec. (a). Pub. L. 97–180 substituted “shall be punished as provided in section 2319 of title 18” for “shall be fined not more than $10,000 or imprisoned for not more than one year, or both: <i>Provided, however</i>, That any person who infringes willfully and for purposes of commercial advantage or private financial gain the copyright in a sound recording afforded by subsections (1), (2), or (3) of section 106 or the copyright in a motion picture afforded by subsections (1), (3), or\(4) of section 106 shall be fined not more than $25,000 or imprisoned for not more than one year, or both, for the first such offense and shall be fined not more than $50,000 or imprisoned for not more than two years, or both, for any subsequent offense”.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, setout as an Effective Date note under section 106A of this title.
+Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
 #### Section Referred to in Other Sections
 

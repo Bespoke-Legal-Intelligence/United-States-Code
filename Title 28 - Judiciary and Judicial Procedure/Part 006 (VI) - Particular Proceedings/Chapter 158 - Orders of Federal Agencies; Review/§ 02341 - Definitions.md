@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(3) “agency” means—
 
-&emsp;&emsp;(A) the Commission, when the order sought to be reviewed was entered by theFederal Communications Commission, the Federal Maritime Commission, or the Atomic Energy Commission, as the case may be;
+&emsp;&emsp;(A) the Commission, when the order sought to be reviewed was entered by the Federal Communications Commission, the Federal Maritime Commission, or the Atomic Energy Commission, as the case may be;
 
 &emsp;&emsp;(B) the Secretary, when the order was entered by the Secretary of Agriculture or the Secretary of Transportation;
 

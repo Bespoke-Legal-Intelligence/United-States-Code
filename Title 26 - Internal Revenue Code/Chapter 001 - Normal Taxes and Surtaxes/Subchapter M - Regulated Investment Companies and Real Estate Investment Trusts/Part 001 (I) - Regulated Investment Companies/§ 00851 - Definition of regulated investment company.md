@@ -46,7 +46,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;&emsp;(B) the taxpayer owns directly 20 percent or more of the total combined voting power of all classes of stock entitled to vote, of at least one of the other corporations.
 
-&emsp;(4) The term “value” means, with respect to securities (other than those of majority-ownedsubsidiaries) for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the board of directors, except that in the case of securities of majority-owned subsidiaries which are investment companies such fair value shall not exceed market value or asset value, whichever is higher.
+&emsp;(4) The term “value” means, with respect to securities (other than those of majority-owned subsidiaries) for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the board of directors, except that in the case of securities of majority-owned subsidiaries which are investment companies such fair value shall not exceed market value or asset value, whichever is higher.
 
 &emsp;(5) All other terms shall have the same meaning as when used in the Investment Company Act of 1940, as amended.
 
@@ -146,7 +146,7 @@ Subsec. (b). Pub. L. 100–647, §1006(n)(1), (5), inserted at end “Income der
 
 Pub. L. 100–647, §1006(n)(2)(B), substituted “which are not directly related” for “which are not ancillary” in last sentence.
 
-Subsec. (b)(3). Pub. L. 100–647, §1006(n)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
+Subsec. (b)(3). Pub. L. 100–647, §1006(n)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
 
 Subsec. (e)(1). Pub. L. 100–647, §1006(m)(2), substituted “a management company or a business development company described in subsection (a)(1)” for “a registered management company or registered business development company”.
 
@@ -242,7 +242,7 @@ Amendment by section 1901(a)(109) of Pub. L. 94–455 effective for taxable year
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31,1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
 
 #### Effective Date of 1969 Amendment
 

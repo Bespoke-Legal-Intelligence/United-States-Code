@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary may acquire lands and interests therein within the sites designated pursuant to section 410bbb–1(b)(1) and (3) of this title by donation or purchase with donated or appropriated funds or long term lease: <i>Provided</i>, That sites designated pursuant to section 410bbb–1(b)(3) ofthis title shall only be acquired with the consent of the owner thereof.
+The Secretary may acquire lands and interests therein within the sites designated pursuant to section 410bbb–1(b)(1) and (3) of this title by donation or purchase with donated or appropriated funds or long term lease: <i>Provided</i>, That sites designated pursuant to section 410bbb–1(b)(3) of this title shall only be acquired with the consent of the owner thereof.
 
 #### (b) State and local properties
 

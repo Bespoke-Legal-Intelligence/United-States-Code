@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-The Institute is authorized to require such reports as it deems necessary from any recipientwith respect to activities carried out pursuant to this chapter.
+The Institute is authorized to require such reports as it deems necessary from any recipient with respect to activities carried out pursuant to this chapter.
 
 #### (b) Records
 

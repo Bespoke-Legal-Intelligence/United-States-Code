@@ -24,7 +24,7 @@ The Secretary is further authorized to carry out a program of research, study, a
 
 #### (d) Research capacity within Farmers Home Administration; establishment; authority
 
-In order to carry out this section, the Secretary shall establish a research capacity withinthe Farmers Home Administration which shall have authority to undertake, or to contract with any public or private body to undertake, research authorized by this section.
+In order to carry out this section, the Secretary shall establish a research capacity within the Farmers Home Administration which shall have authority to undertake, or to contract with any public or private body to undertake, research authorized by this section.
 
 #### (e) Preparation and submission of estimates of housing needs
 
@@ -38,7 +38,7 @@ The Secretary of Agriculture shall prepare and submit to the President and to th
 
 &emsp;(B) recommend legislative, administrative, and other action (including the need for new authority for such action) which may be taken for the purpose of improving both the availability and the condition of such housing units; and
 
-&emsp;(C) determine the possible roles which individual farmworkers, farmworker associations, individual farmers, farmer associations, and public and private nonprofit agencies can perform in improving the housing conditions of farmworkers.
+&emsp;(C) determine the possible roles which individual farmworkers, farmworker associations,individual farmers, farmer associations, and public and private nonprofit agencies can perform in improving the housing conditions of farmworkers.
 
 (2) The Secretary shall transmit the results of the study described in paragraph (1) to each House of the Congress within one year after October 31, 1978.
 

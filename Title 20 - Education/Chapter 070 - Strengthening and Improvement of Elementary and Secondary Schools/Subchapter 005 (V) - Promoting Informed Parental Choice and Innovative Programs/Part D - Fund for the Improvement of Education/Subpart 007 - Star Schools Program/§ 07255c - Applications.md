@@ -32,7 +32,7 @@ An application submitted under subsection (a) of this section shall include each
 
 &emsp;(4) A description of how the eligible entity has engaged in sufficient survey and analysis of the area to be served to ensure that the services offered by the eligible entity will increase the availability of courses of instruction in English, mathematics, science, foreign languages, arts, history, geography, or other disciplines.
 
-&emsp;(5) A description of the professional development policies for teachers and other schoolpersonnel to be implemented to ensure the effective use of the telecommunications facilities and equipment for which assistance is sought.
+&emsp;(5) A description of the professional development policies for teachers and other school personnel to be implemented to ensure the effective use of the telecommunications facilities and equipment for which assistance is sought.
 
 &emsp;(6) A description of the manner in which historically underserved students (such as students from low-income families, limited English proficient students, students with disabilities, or students who have low literacy skills) and their families, will participate in the benefits of the telecommunications facilities, equipment, technical assistance, and programming assisted under this subpart.
 

@@ -28,7 +28,7 @@ National Goal.—Congress hereby declares it to be a national goal to end chroni
 
 “(b)
 
-Cooperative Efforts Encouraged.—Congress hereby encourages all departments and agencies of Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals to work cooperatively toend chronic homelessness among veterans within a decade.”
+Cooperative Efforts Encouraged.—Congress hereby encourages all departments and agencies of Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals to work cooperatively to end chronic homelessness among veterans within a decade.”
 
 #### Sense of the Congress Regarding the Needs of Homeless Veterans and the Responsibility of Federal Agencies
 

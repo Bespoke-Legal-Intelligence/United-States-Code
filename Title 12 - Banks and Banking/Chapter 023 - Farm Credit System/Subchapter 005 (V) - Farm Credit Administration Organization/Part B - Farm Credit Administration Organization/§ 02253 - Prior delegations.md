@@ -1,6 +1,6 @@
 ### §2253. Prior delegations
 
-Any delegations by the Farm Credit Administration and redelegations thereof made in accordance with section 5.19 of the Farm Credit Act of 1971 as in effect prior to the effective date of the Farm Credit Amendments Act of 1985 may continue in full force and effect, at the discretion of the Farm Credit Administration, for the period ending twelve months after December 23, 1985.
+Any delegations by the Farm Credit Administration and redelegations thereof made in accordance with section 5.19 of the Farm Credit Act of 1971 as in effect prior to the effective date of the Farm Credit Amendments Act of 1985 maycontinue in full force and effect, at the discretion of the Farm Credit Administration, for the period ending twelve months after December 23, 1985.
 
 (Pub. L. 92–181, title V, §5.18, as added Pub. L. 99–205, title II, §202(b), Dec. 23, 1985, 99 Stat. 1693.)
 

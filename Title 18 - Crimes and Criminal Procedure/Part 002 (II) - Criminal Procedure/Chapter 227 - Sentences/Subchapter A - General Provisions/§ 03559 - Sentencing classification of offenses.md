@@ -2,7 +2,7 @@
 
 (a)
 
-Classification.—An offense that is not specifically classified by a letter grade in thesection defining it, is classified if the maximum term of imprisonment authorized is—
+Classification.—An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—
 
 &emsp;(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
 
@@ -58,7 +58,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(F) the term “serious violent felony” means—
 
-&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
+&emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commitmurder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
 &emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
@@ -78,7 +78,7 @@ Nonqualifying felonies.—
 
 Robbery in certain cases.—Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
-&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat ofuse of a firearm or other dangerous weapon was involved in the offense; and
+&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and
 
 &emsp;&emsp;&emsp;(ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
 
@@ -124,9 +124,47 @@ In general.—Subject to paragraph (2) and notwithstanding any other provision o
 
 Exception.—With respect to a person convicted of a Federal offense described in paragraph (1), the court may impose any lesser sentence that is authorized by law to take into account any substantial assistance provided by the defendant in the investigation or prosecution of another person who has committed an offense, in accordance with the Federal Sentencing Guidelines and the policy statements of the Federal Sentencing Commission pursuant to section 994(p) of title 28, or for other good cause.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470.)
+(e)
+
+Mandatory Life Imprisonment for Repeated Sex Offenses Against Children.—
+
+&emsp;(1)
+
+In general.—A person who is convicted of a Federal sex offense in which a minor is the victim shall be sentenced to life imprisonment if the person has a prior sex conviction in which a minor was the victim, unless the sentence of death is imposed.
+
+&emsp;(2)
+
+Definitions.—For the purposes of this subsection—
+
+&emsp;&emsp;(A) the term “Federal sex offense” means an offense under section 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
+
+&emsp;&emsp;(B) the term “State sex offense” means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
+
+&emsp;&emsp;&emsp;(i) the offense involved interstate or foreign commerce, or the use of the mails; or
+
+&emsp;&emsp;&emsp;(ii) the conduct occurred in any commonwealth, territory, or possession of the United States, within the special maritime and territorial jurisdiction of the United States, in a Federal prison, on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country (as defined in section 1151);
+
+&emsp;&emsp;(C) the term “prior sex conviction” means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State sex offense;
+
+&emsp;&emsp;(D) the term “minor” means an individual who has not attained the age of 17 years; and
+
+&emsp;&emsp;(E) the term “State” has the meaning given that term in subsection (c)(2).
+
+&emsp;(3)
+
+Nonqualifying Felonies.—An offense described in section 2422(b) or 2423(a) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
+
+&emsp;&emsp;(A) the sexual act or activity was consensual and not for the purpose of commercial or pecuniary gain;
+
+&emsp;&emsp;(B) the sexual act or activity would not be punishable by more than one year in prison under the law of the State in which it occurred; or
+
+&emsp;&emsp;(C) no sexual act or activity occurred.
+
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1991; amended Pub. L. 100–185, §5, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §7041, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title VII, §70001, Sept. 13, 1994, 108 Stat. 1982; Pub. L. 105–314, title V, §501, Oct. 30, 1998, 112 Stat. 2980; Pub. L. 105–386, §1(b), Nov. 13, 1998, 112 Stat. 3470; Pub. L. 108–21, title I, §106(a), Apr. 30, 2003, 117 Stat. 654.)
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–21 added subsec. (e).
 
 1998—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted “firearms possession (as described in section 924(c));” after “firearms use;”.
 
@@ -154,5 +192,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3154, 3582 of this title; title 10 section 1132; title 42 section 14135a; title 49 section 46502.
+This section is referred to in sections 2247, 2426, 3154, 3582 of this title; title 10 section 1132; title 42 section 14135a; title 49 section 46502.
 

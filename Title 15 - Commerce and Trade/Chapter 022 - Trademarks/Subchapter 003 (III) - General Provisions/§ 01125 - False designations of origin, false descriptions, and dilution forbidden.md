@@ -160,7 +160,7 @@ Section 5 of Pub. L. 104–98 provided that: “This Act \[amending this section
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–542 effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as a note under section 1114 of this title.
+Amendment by Pub. L. 102–542 effective with respect to violations that occur on or after Oct. 27, 1992, seesection 4 of Pub. L. 102–542, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1988 Amendment
 

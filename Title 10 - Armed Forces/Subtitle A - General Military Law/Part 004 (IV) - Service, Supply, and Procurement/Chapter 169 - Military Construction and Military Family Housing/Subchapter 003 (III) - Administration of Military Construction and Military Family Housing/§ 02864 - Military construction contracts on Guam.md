@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), funds appropriated for military construction may not be obligated or expended with respect to any contract for a military construction project on Guam if any work is carried out on such project by any person who is a nonimmigrant alien described in section 101(a)(15)(H)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)).
+In General.—Except as provided in subsection (b), funds appropriated for military construction may not be obligated or expended with respect to any contract for a military construction project on Guam if any work is carried outon such project by any person who is a nonimmigrant alien described in section 101(a)(15)(H)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)).
 
 (b)
 

@@ -228,5 +228,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2001 of this title; title 25 section 492.
+This section is referred to in section 2001 of this title; title 16 sections 3838, 3839aa–1; title 25 section 492.
 

@@ -24,7 +24,7 @@ Determination and Disposition.—If, after the hearing, the court finds by clear
 
 (e)
 
-Discharge.—When the director of the facility in which a person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. The court shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
+Discharge.—When the director of the facility in which a person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person's counsel and to the attorney for the Government. Thecourt shall order the discharge of the person or, on the motion of the attorney for the Government or on its own motion, shall hold a hearing, conducted pursuant to the provisions of section 4247(d), to determine whether he should be released. If, after the hearing, the court finds by a preponderance of the evidence that the person has recovered from his mental disease or defect to such an extent that—
 
 &emsp;(1) his release would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall order that he be immediately discharged; or
 
@@ -58,7 +58,7 @@ Subsec. (h). Pub. L. 105–33, §11204(1)(B), added subsec. (h).
 
 1990—Subsec. (g). Pub. L. 101–647 substituted “chapter” for “subchapter”.
 
-1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in section catchline, and substituting provisions relating toproceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
+1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in section catchline, and substituting provisions relating to proceedings, examination and report, hearing, etc., regarding hospitalization of a person due for release but suffering from mental disease or defect, for provisions relating to powers of the trial court with respect to finding of mental incompetency of accused.
 
 #### Effective Date of 1997 Amendment
 

@@ -54,7 +54,7 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), 
 
 1996—Pub. L. 104–127, §321(a)(2), reenacted section catchline without change.
 
-Subsec. (a). Pub. L. 104–127, §321(a)(2), added subsec. (a) and struck out former subsec. (a) which related to ineligibility of persons producing an agricultural commodity on converted wetland to receive certain Federal payments, loans, insurance benefits, and other benefits.
+Subsec. (a). Pub. L. 104–127, §321(a)(2), added subsec. (a) and struck out former subsec. (a) which related toineligibility of persons producing an agricultural commodity on converted wetland to receive certain Federal payments, loans, insurance benefits, and other benefits.
 
 Subsec. (b). Pub. L. 104–127, §321(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 

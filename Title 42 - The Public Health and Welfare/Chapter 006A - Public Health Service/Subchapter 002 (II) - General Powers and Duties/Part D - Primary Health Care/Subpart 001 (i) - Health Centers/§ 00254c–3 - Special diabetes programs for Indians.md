@@ -46,3 +46,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L
 
 1998—Subsec. (c). Pub. L. 105–174 inserted “, to remain available until expended,” after “fiscal years 1998 through 2002, $30,000,000”.
 
+#### Funds Available Until Expended
+
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part “That funds appropriated under the Special Diabetes Program for Indians (42 U.S.C. 254c–3(c)) for fiscal year 2003 and thereafter for the purpose of making grants shall remain available until expended”.
+

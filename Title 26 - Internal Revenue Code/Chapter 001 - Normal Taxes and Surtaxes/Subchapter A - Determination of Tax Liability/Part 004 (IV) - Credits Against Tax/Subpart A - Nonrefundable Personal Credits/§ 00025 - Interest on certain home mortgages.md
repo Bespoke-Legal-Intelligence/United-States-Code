@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the certificate credit rate specified in such certificate,
 
-&emsp;&emsp;&nbsp;shall be treated as proceeds of such issue and the sum of such products shall be treated as the total proceeds of such issue, and
+&emsp;&emsp;&nbsp;shall be treated as proceeds of such issue and the sum of such products shall betreated as the total proceeds of such issue, and
 
 &emsp;&emsp;&emsp;(iii) paragraph (1) of section 143(d) shall be applied by substituting “100 percent” for “95 percent or more”.
 
@@ -188,11 +188,11 @@ For purposes of this section—
 
 #### (4) Reissuance of mortgage credit certificates
 
-&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgagecredit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
+&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
 
 #### (5) Public notice that certificates will be issued
 
-&emsp;At least 90 days before any mortgage credit certificate is to be issued after a qualified mortgage credit certificate program, the issuing authority shall provide reasonable public notice of—
+&emsp;At least 90 days before any mortgage credit certificate is to be issued after a qualifiedmortgage credit certificate program, the issuing authority shall provide reasonable public notice of—
 
 &emsp;&emsp;(A) the eligibility requirements for such certificate,
 
@@ -280,7 +280,7 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 #### (1) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgage credit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgagecredit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program.
 
 #### (2) Contracts
 
@@ -364,7 +364,7 @@ Pub. L. 99–514, §1301(f)(2)(F), inserted in introductory provisions reference
 
 Subsec. (d)(2)(A). Pub. L. 99–514, §1301(f)(1)(A), substituted “25 percent” for “20 percent” in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) “Additional limit in certain cases” which readas follows: “In the case of a qualified mortgage credit certificate program in a State which—
+Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) “Additional limit in certain cases” which read as follows: “In the case of a qualified mortgage credit certificate program in a State which—
 
 &emsp;“(A) has a State ceiling (as defined in section 103A(g)(4)) for the year an election is made that exceeds 20 percent of the average annual aggregate principal amount of mortgages executed during the immediately preceding 3 calendar years for single family owner-occupied residences located within the jurisdiction of such State, or
 
@@ -372,7 +372,7 @@ Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) “Additi
 
 > the certificate credit rate for any mortgage credit certificate shall not exceed 20 percent unless the issuing authority submits a plan to the Secretary to ensure that the weighted average of the certificate credit rates in such mortgage credit certificate program does not exceed 20 percent and the Secretary approves such plan.”
 
-Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) “Limitations” read as follows: “The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.”
+Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B)“Limitations” read as follows: “The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.”
 
 Subsec. (e)(2). Pub. L. 99–514, §1301(f)(2)(H), substituted “subsections (c)(1), (d), (e), (f), and (i) of section 143” for “subsection (d)(1), (e), (f), and (j) of section 103A”.
 

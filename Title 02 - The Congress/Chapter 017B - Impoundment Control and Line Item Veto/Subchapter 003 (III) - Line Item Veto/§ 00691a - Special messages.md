@@ -42,7 +42,7 @@ For each law from which a cancellation has been made under this subchapter, the 
 
 #### Amendments
 
-1997—Subsec. (b)(1)(F). Pub. L. 105–33 substituted “section 901(c) of this title” for “section 665 of this title”.
+<b>1997</b>—Subsec. (b)(1)(F). Pub. L. 105–33 substituted “section 901(c) of this title” for “section 665 of this title”.
 
 #### Section Referred to in Other Sections
 

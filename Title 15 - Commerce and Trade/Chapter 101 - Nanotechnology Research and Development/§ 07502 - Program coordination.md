@@ -1,0 +1,38 @@
+### §7502. Program coordination
+
+#### (a) In general
+
+The President shall establish a National Nanotechnology Coordination Office, with a Director and full-time staff, which shall—
+
+&emsp;(1) provide technical and administrative support to the Council and the Advisory Panel;
+
+&emsp;(2) serve as the point of contact on Federal nanotechnology activities for government organizations, academia, industry, professional societies, State nanotechnology programs, interested citizen groups, and others to exchange technical and programmatic information;
+
+&emsp;(3) conduct public outreach, including dissemination of findings and recommendations of the Advisory Panel, as appropriate; and
+
+&emsp;(4) promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government, and to United States industry, including startup companies.
+
+#### (b) Funding
+
+The National Nanotechnology Coordination Office shall be funded through interagency funding in accordance with section 631 of Public Law 108–7.
+
+#### (c) Report
+
+Within 90 days after December 3, 2003, the Director of the Office of Science and Technology Policy shall report to the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Science on the funding of the National Nanotechnology Coordination Office. The report shall include—
+
+&emsp;(1) the amount of funding required to adequately fund the Office;
+
+&emsp;(2) the adequacy of existing mechanisms to fund this Office; and
+
+&emsp;(3) the actions taken by the Director to ensure stable funding of this Office.
+
+(Pub. L. 108–153, §3, Dec. 3, 2003, 117 Stat. 1926.)
+
+#### References in Text
+
+Section 631 of Public Law 108–7, referred to in subsec. (b), is section 631 of Pub. L. 108–7, div. J, title VI, Feb. 20, 2003, 117 Stat. 471, which is not classified to the Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7501 of this title.
+

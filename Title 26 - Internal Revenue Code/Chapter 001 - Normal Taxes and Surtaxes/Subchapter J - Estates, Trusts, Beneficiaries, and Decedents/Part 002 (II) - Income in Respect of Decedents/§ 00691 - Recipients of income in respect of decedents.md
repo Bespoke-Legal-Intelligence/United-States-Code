@@ -128,7 +128,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### Amendments
 
-1997—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
+1997—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “Forpurposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
 
 1996—Subsec. (c)(5). Pub. L. 104–188, §1704(t)(73), provided that section 521(b)(27) of Pub. L. 102–318 shall be applied as if “Section 691(c)(5)” appeared instead of “Section 691(c)”. See 1992 Amendment note below.
 
@@ -184,7 +184,7 @@ Subsec. (c)(3). Pub. L. 94–455, §2006(b)(3), added par. (3).
 
 Subsec. (d)(3)(A), (B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) as (e) and struck out former subsec.\(e) relating to certain installment obligations transmitted at death.
+Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) as (e) and struck out former subsec. (e) relating to certain installment obligations transmitted at death.
 
 1964—Subsec. (c)(2)(B). Pub. L. 88–272 substituted “421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies” for “421(d)(6)(B), relating to the deduction for estate tax with respect to restricted stock options”.
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
-Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within themeaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -266,7 +266,7 @@ Pub. L. 94–455, §2005(a)(4), cited as a credit to this section, and the amend
 
 #### Savings Provision
 
-Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect ofwhich such an election applies is hereby released with respect to taxable years to which such election applies.”
+Section 1951(b)(10)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], any election made under section 691(e) to have subsection (a)(4) of such section apply in the case of an installment obligation shall continue to be effective with respect to taxable years beginning after December 31, 1976. Section 691(c) shall not apply in respect of any amount included in gross income by reason of the preceding sentence. The liability under bond filed under section 44(d) of the Internal Revenue Code of 1939 (or corresponding provisions of prior law) in respect of which such an election applies is hereby released with respect to taxable years to which such election applies.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -278,5 +278,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 67, 220, 223, 421, 453B, 753, 1014, 1022, 1038, 1245, 1250, 1367 of this title.
+This section is referred to in sections 67, 220, 223, 224, 421, 453B, 753, 1014, 1022, 1038, 1245, 1250, 1367 of this title.
 

@@ -8,7 +8,7 @@ The Congress finds—
 
 &emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
-&emsp;(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced or created at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
+&emsp;(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced orcreated at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
 
 &emsp;(4) that Federal financial assistance and leadership is essential for the development of cooperative Federal, State, regional, and local programs to prevent and control air pollution.
 
@@ -26,7 +26,7 @@ The purposes of this subchapter are—
 
 #### (c) Pollution prevention
 
-A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State,and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
+A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
 
 (July 14, 1955, ch. 360, title I, §101, formerly §1, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 392; renumbered §101 and amended Pub. L. 89–272, title I, §101(2), (3), Oct. 20, 1965, 79 Stat. 992; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 485; Pub. L. 101–549, title I, §108(k), Nov. 15, 1990, 104 Stat. 2468.)
 
@@ -156,7 +156,7 @@ Radon mitigation demonstration program.—
 
 &emsp;“(A)
 
-Demonstration program.—The Administrator shall conduct a demonstration program to test methods and technologies of reducing or eliminating radon gas and radon daughters where it poses a threat to human health. The Administrator shall take into consideration any demonstration program underway in the Reading Prong of Pennsylvania, New Jersey, and New York and at other sites prior to enactment. The demonstration program under this section shall be conducted in the Reading Prong, and at such other sites as the Administrator considers appropriate.
+Demonstration program.—The Administrator shall conduct a demonstration program to test methods and technologies of reducing or eliminating radongas and radon daughters where it poses a threat to human health. The Administrator shall take into consideration any demonstration program underway in the Reading Prong of Pennsylvania, New Jersey, and New York and at other sites prior to enactment. The demonstration program under this section shall be conducted in the Reading Prong, and at such other sites as the Administrator considers appropriate.
 
 &emsp;“(B)
 
@@ -272,7 +272,7 @@ Report.—Not later than 2 years after the enactment of this Act \[Oct. 17, 1986
 
 #### “SEC. 404. CONSTRUCTION OF TITLE.
 
-“Nothing in this title shall be construed to authorize the Administrator to carry out any regulatory program or any activity other than research, development, and related reporting, information dissemination, and coordination activities specified in this title. Nothing in this title shall be construed to limit the authority of the Administrator or of any other agency or instrumentality of the United States under any other authority of law.
+“Nothing in this title shall be construed to authorize the Administrator to carry out any regulatory programor any activity other than research, development, and related reporting, information dissemination, and coordination activities specified in this title. Nothing in this title shall be construed to limit the authority of the Administrator or of any other agency or instrumentality of the United States under any other authority of law.
 
 #### “SEC. 405. AUTHORIZATIONS.
 
@@ -284,7 +284,7 @@ Pub. L. 95–95, title IV, §403(b), Aug. 7, 1977, 91 Stat. 792, directed Admini
 
 #### List of Chemical Contaminants From Environmental Pollution Found in Human Tissue
 
-Pub. L. 95–95, title IV, §403(c), Aug. 7, 1977, 91 Stat. 792, directed Administrator of EPA, not later thantwelve months after Aug. 7, 1977, to publish throughout the United States a list of all known chemical contaminants resulting from environmental pollution which have been found in human tissue including blood, urine, breast milk, and all other human tissue, such list to be prepared for the United States and to indicate approximate number of cases, range of levels found, and mean levels found, directed Administrator, not later than eighteen months after Aug. 7, 1977, to publish in same manner an explanation of what is known about the manner in which chemicals entered the environment and thereafter human tissue, and directed Administrator, in consultation with National Institutes of Health, the National Center for Health Statistics, and the National Center for Health Services Research and Development, to, if feasible, conduct an epidemiological study to demonstrate the relationship between levels of chemicals in the environment and in human tissue, such study to be made in appropriate regions or areas of the United States in order to determine any different results in such regions or areas, and the results of such study to be reported, as soon as practicable, to appropriate committee of Congress.
+Pub. L. 95–95, title IV, §403(c), Aug. 7, 1977, 91 Stat. 792, directed Administrator of EPA, not later than twelve months after Aug. 7, 1977, to publish throughout the United States a list of all known chemical contaminants resulting from environmental pollution which have been found in human tissue including blood, urine, breast milk, and all other human tissue, such list to be prepared for the United States and to indicate approximate number of cases, range of levels found, and mean levels found, directed Administrator, not later than eighteen months after Aug. 7, 1977, to publish in same manner an explanation of what is known about the manner in which chemicals entered the environment and thereafter human tissue, and directed Administrator, in consultation with National Institutes of Health, the National Center for Health Statistics, and the National Center for Health Services Research and Development, to, if feasible, conduct an epidemiological study to demonstrate the relationship between levels of chemicals in the environment and in human tissue, such study to be made in appropriate regions or areas of the United States in order to determine any different results in such regions or areas, and the results of such study to be reported, as soon as practicable, to appropriate committee of Congress.
 
 #### Study on Regional Air Quality
 

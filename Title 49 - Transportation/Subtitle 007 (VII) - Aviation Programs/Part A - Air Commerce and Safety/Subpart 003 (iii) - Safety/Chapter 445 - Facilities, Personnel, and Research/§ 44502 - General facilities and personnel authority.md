@@ -22,7 +22,7 @@ Establishment of program.—The Secretary shall purchase precision approach inst
 
 &emsp;(B)
 
-Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisitionunder new or existing contracts, site preparation work, installation, and related expenditures.
+Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisition under new or existing contracts, site preparation work, installation, and related expenditures.
 
 (5)
 
@@ -48,7 +48,7 @@ Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with pla
 
 Public Use and Emergency Assistance.—(1) The head of a department, agency, or instrumentality of the Government having jurisdiction over an air navigation facility owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for public use of the facility.
 
-(2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, to allow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
+(2) The head of a department, agency, or instrumentality of the Government having jurisdiction over an airport or emergency landing field owned or operated by the Government may provide, under regulations the head of the department, agency, or instrumentality prescribes, for assistance, and the sale of fuel, oil, equipment, and supplies, to an aircraft, but only when necessary, because of an emergency, toallow the aircraft to continue to the nearest airport operated by private enterprise. The head of the department, agency, or instrumentality shall provide for the assistance and sale at the prevailing local fair market value as determined by the head of the department, agency, or instrumentality. An amount that the head decides is equal to the cost of the assistance provided and the fuel, oil, equipment, and supplies sold shall be credited to the appropriation from which the cost was paid. The balance shall be credited to miscellaneous receipts.
 
 (e)
 
@@ -144,7 +144,7 @@ Oct. 28, 1991, Pub. L. 102–143, §324, 105 Stat. 943.
 
 Oct. 6, 1992, Pub. L. 102–388, §324, 106 Stat. 1547.
 
-In this section, the words “department, agency, or instrumentality of the United States Government” aresubstituted for “Federal department or agency” in 49 App.:1348(b), “agencies” in 49 App.:1349(b), and “department or other agency” and “Government department or other agency” in 49 App.:1507 for consistency in the revised title and with other titles of the United States Code.
+In this section, the words “department, agency, or instrumentality of the United States Government” are substituted for “Federal department or agency” in 49 App.:1348(b), “agencies” in 49 App.:1349(b), and “department or other agency” and “Government department or other agency” in 49 App.:1507 for consistency in the revised title and with other titles of the United States Code.
 
 In subsections (a)(1), (b), and (c), the word “Administrator” in sections 303(c) (1st sentence), 307(b), 308(a) (1st and 2d sentences) and (b), and 309 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750, 751) is retained on authority of 49:106(g).
 
@@ -182,7 +182,7 @@ This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of 
 
 #### Amendments
 
-2000—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for “each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
+2000—Subsec. (a)(4)(B). Pub. L. 106–181, §153, substituted “each of fiscal years 2000 through 2002” for“each of fiscal years 1995 and 1996” and inserted “under new or existing contracts” after “including acquisition”.
 
 Subsec. (a)(5). Pub. L. 106–181, §712, added par. (5).
 
@@ -206,6 +206,34 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Pilot Program for Innovative Financing of Air Traffic Control Equipment
+
+Pub. L. 108–176, title I, §182, Dec. 12, 2003, 117 Stat. 2515, provided that:
+
+“(a)
+
+In General.—In order to test the cost effectiveness and feasibility of long-term financing of modernization of major air traffic control systems, the Administrator of the Federal Aviation Administration may establish a pilot program to test innovative financing techniques through amending, subject to section 1341 of title 31, United States Code, a contract for more than one, but not more than 20, fiscal years to purchase and install air traffic control equipment for the Administration. Such amendments may be for more than one, but not more than 10, fiscal years.
+
+“(b)
+
+Cancellation.—A contract described in subsection (a) may include a cancellation provision if the Administrator determines that such a provision is necessary and in the best interest of the United States. Any such provision shall include a cancellation liability schedule that covers reasonable and allocable costs incurred by the contractor through the date of cancellation plus reasonable profit, if any, on those costs. Any such provision shall not apply if the contract is terminated by default of the contractor.
+
+“(c)
+
+Contract Provisions.—If feasible and practicable for the pilot program, the Administrator may make an advance contract provision to achieve economic-lot purchases and more efficient production rates.
+
+“(d)
+
+Limitation.—The Administrator may not amend a contract under this section until the program for the terminal automation replacement systems has been rebaselined in accordance with the acquisition management system of the Administration.
+
+“(e)
+
+Annual Reports.—At the end of each fiscal year during the term of the pilot program, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on how the Administrator has implemented in such fiscal year the pilot program, the number and types of contracts or contract amendments that are entered into under the program, and the program's cost effectiveness.
+
+“(f)
+
+Funding.—Out of amounts appropriated under section 48101 \[probably means section 48101 of title 49, United States Code\] for fiscal year 2004, such sums as may be necessary shall be available to carry out this section.”
+
 #### Enhanced Vision Technologies
 
 Pub. L. 106–181, title I, §124, Apr. 5, 2000, 114 Stat. 75, provided that:
@@ -224,9 +252,11 @@ Certification.—Not later than 180 days after the conclusion of work under the 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 107–87, title III, §313, Dec. 18, 2001, 115 Stat. 858, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assistedby a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
+Pub. L. 108–7, div. I, title III, §313, Feb. 20, 2003, 117 Stat. 410, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–87, title III, §313, Dec. 18, 2001, 115 Stat. 858.
 
 Pub. L. 106–346, §101(a) \[title III, §314\], Oct. 23, 2000, 114 Stat. 1356, 1356A–27.
 
@@ -244,7 +274,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
+Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor usinggrants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
 
 #### Grandfather Provision for FAA Demonstration Project
 

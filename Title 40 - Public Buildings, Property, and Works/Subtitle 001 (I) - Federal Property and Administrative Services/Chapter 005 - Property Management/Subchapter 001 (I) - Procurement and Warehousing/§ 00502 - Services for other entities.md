@@ -38,7 +38,7 @@ In general.—The Administrator may provide for the use by State or local govern
 
 &emsp;(2)
 
-Voluntary use.—In any case of the use by a State or local government of a Federal supply schedule pursuant to paragraph (1),participation by a firm that sells to the Federal Government through the supply schedule shall be voluntary with respect to a sale to the State or local government through such supply schedule.
+Voluntary use.—In any case of the use by a State or local government of a Federal supply schedule pursuant to paragraph (1), participation by a firm that sells to the Federal Government through the supply schedule shall be voluntary with respect to a sale to the State or local government through such supply schedule.
 
 &emsp;(3)
 

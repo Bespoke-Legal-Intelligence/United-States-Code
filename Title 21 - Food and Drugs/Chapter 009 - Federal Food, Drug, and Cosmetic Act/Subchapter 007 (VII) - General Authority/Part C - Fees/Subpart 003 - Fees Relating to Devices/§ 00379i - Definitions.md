@@ -134,7 +134,7 @@ In General.—In developing recommendations to the Congress for the goals and pl
 
 “(b)
 
-Recommendations.—The Secretary shall publish in the Federal Register recommendations under subsection (a), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may presentits views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.”
+Recommendations.—The Secretary shall publish in the Federal Register recommendations under subsection (a), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may present its views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.”
 
 #### Section Referred to in Other Sections
 

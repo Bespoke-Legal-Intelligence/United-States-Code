@@ -130,7 +130,7 @@ In clause (5), the words “head of a Federal agency” are omitted as unnecessa
 
 In clause (6), the words “local government” are substituted for “ ‘political subdivision’ or ‘local government’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “unit of general local government” are substituted for “local unit of government, including specifically a county, municipality, city, town, township” to incorporate the definition in clause (9).
 
-In clause (7), the words “public-purpose local government” are substituted for “public-purpose corporationor other strictly limited purpose political subdivision” to eliminate unnecessary words.
+In clause (7), the words “public-purpose local government” are substituted for “public-purpose corporation or other strictly limited purpose political subdivision” to eliminate unnecessary words.
 
 In clause (8), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as necessary because of 48:734.
 
@@ -184,7 +184,7 @@ Section 1 of Pub. L. 101–453 provided that: “This Act \[enacting section 333
 
 #### Purpose of 1990 Act
 
-Section 2 of Pub. L. 101–453 provided that: “The purpose of this Act \[see Short Title of 1990 Amendment note above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
+Section 2 of Pub. L. 101–453 provided that: “The purpose of this Act \[see Short Title of 1990 Amendmentnote above\] is to ensure greater efficiency, effectiveness, and equity in the exchange of funds between the Federal Government and the States.”
 
 #### Section Referred to in Other Sections
 

@@ -106,7 +106,7 @@ Subsecs. (d), (e). Pub. L. 105–115, §406(a)(1), redesignated subsecs. (b) and
 
 Subsecs. (f), (g). Pub. L. 105–115, §406(b), added subsecs. (f) and (g).
 
-1988—Subsec. (b)(2). Pub. L. 100–690 substituted “shall be responsible for executing this chapter and for “shall be responsible”.
+1988—Subsec. (b)(2). Pub. L. 100–690 substituted “shall be responsible for executing this chapter and” for “shall be responsible”.
 
 #### Effective Date of 1997 Amendment
 
@@ -122,7 +122,7 @@ Section 503(c) of title V of Pub. L. 100–607 provided that:
 
 #### Regulations for Sunscreen Products
 
-Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment ofthis Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
+Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
 
 #### FDA Study of Mercury Compounds in Drugs and Food
 

@@ -76,7 +76,7 @@ For purposes of subsection (a)—
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to transfers creating an interest in person disclaiming made afterDec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as a note under section 2518 of this title.
+Amendment by Pub. L. 94–455 applicable to transfers creating an interest in person disclaiming made after Dec. 31, 1976, see section 2009(e)(2) of Pub. L. 94–455, set out as a note under section 2518 of this title.
 
 #### Effective Date of 1962 Amendment
 

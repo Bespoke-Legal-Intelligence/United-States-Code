@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 103–43, §804(2), added subsec. (e).
 
 Subsec. (a). Pub. L. 100–607, §142(d)(2)(A), substituted “the Institute” for “the National Institute on Aging”.
 
-Subsec. (b)(1). Pub. L. 100–607, §142(d)(2)(B)(i)(I), in introductory provisions, substituted “the date of enactment of the Alzheimer's Disease and Related Dementias Services Research Act of 1986” for “the date of enactment of this Act”, which for purposes of codification was translated as “November 14, 1986”, thus requiring no change in text.
+Subsec. (b)(1). Pub. L. 100–607, §142(d)(2)(B)(i)(I), in introductory provisions, substituted “the date of enactment of the Alzheimer's Disease and Related Dementias Services Research Act of 1986” for “the date of enactment of this Act”, which for purposes of codificationwas translated as “November 14, 1986”, thus requiring no change in text.
 
 Pub. L. 100–607, §142(d)(2)(B)(i)(II), in introductory provisions, substituted “the Institute” for “the National Institute on Aging”.
 

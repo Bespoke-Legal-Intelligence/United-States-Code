@@ -48,7 +48,7 @@ There is hereby established in the Unemployment Trust Fund a Federal unemploymen
 
 Subsec. (b). Pub. L. 86–778 substituted “Second Liberty Bond Act, as amended” and “section 1323” for “section 752 of title 31” and “section 1322(c)”, respectively, and inserted “made” after “Advances”.
 
-Subsec. (e). Pub. L. 86–778 provided for the maintenance of a separate book account for the employment security administration account and substituted “balance of advances made to the State under section 1321 of this title” for “aggregate of the outstanding advances under section 1321 of this title from the Federal unemployment account” in par. (1) and “balance of advances made under section 1323 of this title to the account” for “aggregate of the outstanding advances from the Treasury to the account pursuant to section 1322(c) of this title”.
+Subsec. (e). Pub. L. 86–778 provided for the maintenance of a separate book account for the employment security administration account and substituted “balance of advances made to the State under section 1321 of this title” for “aggregate of the outstanding advances under section 1321 of this title from the Federal unemployment account” in par. (1) and “balance of advances made under section 1323 of this title to the account” for “aggregate of the outstanding advancesfrom the Treasury to the account pursuant to section 1322(c) of this title”.
 
 Subsec. (g). Pub. L. 86–778 redesignated former subsec. (h) as (g).
 
@@ -68,7 +68,7 @@ Subsec. (e). Act Aug. 5, 1954, §5(d), inserted “For the purposes of this subs
 
 &emsp;“(1) in the case of any State account, by reducing (but not below zero) the amount in the account by the aggregate of the outstanding advances under section 1201 from the Federal unemployment account, and
 
-&emsp;“(2) in the case of the Federal unemployment account, (A) by adding to the amount in the account the aggregate of the reductions under paragraph (1),and (B) by subtracting from the sum so obtained the aggregate of the outstanding advances from the Treasury to the account pursuant to section 1202(c).”
+&emsp;“(2) in the case of the Federal unemployment account, (A) by adding to the amount in the account the aggregate of the reductions under paragraph (1), and (B) by subtracting from the sum so obtained the aggregate of the outstanding advances from the Treasury to the account pursuant to section 1202(c).”
 
 Subsec. (g). Act Aug. 5, 1954, §5(e), repealed subsec. (g) which authorized Secretary of Treasury to make transfers from Federal unemployment account to account of any State in Unemployment Trust Fund.
 

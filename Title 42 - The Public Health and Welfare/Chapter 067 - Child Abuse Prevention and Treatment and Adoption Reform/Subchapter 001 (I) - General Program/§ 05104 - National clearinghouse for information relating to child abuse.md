@@ -8,15 +8,31 @@ The Secretary shall through the Department, or by one or more contracts of not l
 
 The Secretary shall, through the clearinghouse established by subsection (a) of this section—
 
-&emsp;(1) maintain, coordinate, and disseminate information on all programs, including private programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect; and
+&emsp;(1) maintain, coordinate, and disseminate information on all effective programs, including private and community-based programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect and hold the potential for broad scale implementation and replication;
 
-&emsp;(2) maintain and disseminate information relating to—
+&emsp;(2) maintain information about the best practices used for achieving improvements in child protective systems;
+
+&emsp;(3) maintain and disseminate information relating to—
 
 &emsp;&emsp;(A) the incidence of cases of child abuse and neglect in the United States;
 
 &emsp;&emsp;(B) the incidence of such cases in populations determined by the Secretary under section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988; and
 
-&emsp;&emsp;(C) the incidence of any such cases related to alcohol or drug abuse.
+&emsp;&emsp;(C) the incidence of any such cases related to alcohol or drug abuse;
+
+&emsp;(4) provide technical assistance upon request that may include an evaluation or identification of—
+
+&emsp;&emsp;(A) various methods and procedures for the investigation, assessment, and prosecution of child physical and sexual abuse cases;
+
+&emsp;&emsp;(B) ways to mitigate psychological trauma to the child victim; and
+
+&emsp;&emsp;(C) effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
+
+&emsp;(5) collect and disseminate information relating to various training resources available at the State and local level to—
+
+&emsp;&emsp;(A) individuals who are engaged, or who intend to engage, in the prevention, identification, and treatment of child abuse and neglect; and
+
+&emsp;&emsp;(B) appropriate State and local officials to assist in training law enforcement, legal, judicial, medical, mental health, education, and child welfare personnel.
 
 #### (c) Coordination with available resources
 
@@ -36,27 +52,37 @@ The Secretary shall, through the clearinghouse established by subsection (a) of 
 
 &emsp;&emsp;(D) through a national data collection and analysis program and in consultation with appropriate State and local agencies and experts in the field, collect, compile, and make available State child abuse and neglect reporting information which, to the extent practical, shall be universal and case specific and integrated with other case-based foster care and adoption data collected by the Secretary;
 
-&emsp;&emsp;(E) compile, analyze, and publish a summary of the research conducted under section 5105(a) <sup>1</sup> of this title; and
+&emsp;&emsp;(E) compile, analyze, and publish a summary of the research conducted under section 5105(a) of this title;
 
-&emsp;&emsp;(F) solicit public comment on the components of such clearinghouse.
+&emsp;&emsp;(F) collect and disseminate information that describes best practices being used throughout the Nation for making appropriate referrals related to, and addressing, the physical, developmental, and mental health needs of abused and neglected children; and
+
+&emsp;&emsp;(G) solicit public comment on the components of such clearinghouse.
 
 #### (2) Confidentiality requirement
 
 &emsp;In carrying out paragraph (1)(D), the Secretary shall ensure that methods are established and implemented to preserve the confidentiality of records relating to case specific data.
 
-(Pub. L. 93–247, title I, §103, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered titleI, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768; renumbered §103 and amended Pub. L. 104–235, title I, §§104, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3066, 3079.)
+(Pub. L. 93–247, title I, §103, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered title I, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768; renumbered §103 and amended Pub. L. 104–235, title I, §§104, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3066, 3079; Pub. L. 108–36, title I, §111, June 25, 2003, 117 Stat. 802.)
 
 #### References in Text
 
-Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(2)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
-
-Section 5105(a) of this title, referred to in subsec. (c)(1)(E), was in the original a reference to section 105(a), meaning section 105(a) of Pub. L. 93–247 which was renumbered section 104 by Pub. L. 104–235, title I, §113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3079. Section 106 of Pub. L. 93–247 was renumbered section 105 and is classified to section 5106 of this title.
+Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(3)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
 
 #### Prior Provisions
 
 A prior section 103 of Pub. L. 93–247 was classified to section 5103 of this title prior to repeal by Pub. L. 104–235.
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–36, §111(a)(1), substituted “all effective programs, including private and community-based programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect and hold the potential for broad scale implementation and replication;” for “all programs, including private programs, that show promise of success with respect to the prevention, assessment, identification, and treatment of child abuse and neglect; and”.
+
+Subsec. (b)(2), (3). Pub. L. 108–36, §111(a)(2)–(4), added par. (2) and redesignated former par. (2) as (3) and substituted a semicolon for period at end.
+
+Subsec. (b)(4), (5). Pub. L. 108–36, §111(a)(5), added pars. (4) and (5).
+
+Subsec. (c)(1)(E). Pub. L. 108–36, §111(b)(1), made technical amendment to reference to section 5105(a) of this title to reflect renumbering of corresponding section of original act and struck out “and” at end.
+
+Subsec. (c)(1)(F), (G). Pub. L. 108–36, §111(b)(2), (3), added subpar. (F) and redesignated former subpar. (F) as (G).
 
 1996—Subsec. (a). Pub. L. 104–235, §104(1), amended heading and text generally. Prior to amendment, text read as follows: “Before the end of the 2-year period beginning on April 25, 1988, the Secretary shall through the Center, or by contract of no less than 3 years duration let through a competition, establish a national clearinghouse for information relating to child abuse.”
 
@@ -108,7 +134,5 @@ Subsec. (b)(3). Pub. L. 101–126, §6, added par. (3).
 
 Pub. L. 98–457, §104(b), struck out subsec. (b) which authorized appropriations for fiscal years ending Sept. 30, 1978, Sept. 30, 1979, Sept. 30, 1980, and Sept. 30, 1981, respectively, for purpose of making grants and entering into contracts for programs and projects designed to prevent, identify, and treat sexual abuse of children.
 
-1978—Pub. L. 95–266 designated existing provisions as subsec. (a), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, through fiscal year ending Sept. 30, 1981, and provisions setting forth funding requirements for child abuse and neglect programs and projects, and added subsec. (b).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1978—Pub. L. 95–266 designated existing provisions as subsec. (a), inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1978, through fiscalyear ending Sept. 30, 1981, and provisions setting forth funding requirements for child abuse and neglect programs and projects, and added subsec. (b).
 

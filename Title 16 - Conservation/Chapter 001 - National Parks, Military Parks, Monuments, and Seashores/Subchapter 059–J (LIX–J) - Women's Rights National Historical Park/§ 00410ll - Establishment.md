@@ -58,7 +58,7 @@ The Secretary shall encourage State and local governmental agencies to develop a
 
 #### (g) Administration
 
-The Secretary shall administer the park in accordance with the provisions of this section andthe provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this section and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (h) Women's Rights National Historical Park Advisory Commission; membership; Chair; compensation and expenses; function; consultation; termination
 
@@ -126,7 +126,7 @@ Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par.
 
 1988—Subsec. (i). Pub. L. 100–475 substituted “$700,000” for “$490,000”.
 
-1984—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
+1984—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16East Williams Street” for “McClintock House, 16 East Williams Street”.
 
 Subsec. (d). Pub. L. 98–402, §1(b), substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
 

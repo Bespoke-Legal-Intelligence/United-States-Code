@@ -36,5 +36,5 @@ Section 1 of Pub. L. 104–227 provided that: “This Act \[enacting sections 24
 
 #### Short Title
 
-Section 1 of Pub. L. 95–541 provided: “That this Act \[enacting this chapter, amending section 1971 of Title 22, Foreign Relations and Intercourse, and enacting aprovision set out as a note under section 1971 of Title 22\] may be cited as the ‘Antarctic Conservation Act of 1978’.”
+Section 1 of Pub. L. 95–541 provided: “That this Act \[enacting this chapter, amending section 1971 of Title 22, Foreign Relations and Intercourse, and enacting a provision set out as a note under section 1971 of Title 22\] may be cited as the ‘Antarctic Conservation Act of 1978’.”
 

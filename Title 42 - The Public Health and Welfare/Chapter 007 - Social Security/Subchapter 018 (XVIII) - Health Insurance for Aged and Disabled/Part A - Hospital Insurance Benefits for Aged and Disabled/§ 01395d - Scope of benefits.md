@@ -8,9 +8,19 @@ The benefits provided to an individual by the insurance program under this part 
 
 &emsp;(2)(A) post-hospital extended care services for up to 100 days during any spell of illness, and (B) to the extent provided in subsection (f) of this section, extended care services that are not post-hospital extended care services;
 
-&emsp;(3) for individuals not enrolled in part B of this subchapter, home health services, and for individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness; and
+&emsp;(3) in the case of individuals not enrolled in part B of this subchapter, home health services, and in the case of individuals so enrolled, post-institutional home health services furnished during a home health spell of illness for up to 100 visits during such spell of illness;
 
-&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section.
+&emsp;(4) in lieu of certain other benefits, hospice care with respect to the individual during up to two periods of 90 days each and an unlimited number of subsequent periods of 60 days each with respect to which the individual makes an election under subsection (d)(1) of this section; and
+
+&emsp;(5) for individuals who are terminally ill, have not made an election under subsection (d)(1) of this section, and have not previously received services under this paragraph, services that are furnished by a physician (as defined in section 1395x(r)(1) of this title) who is either the medical director or an employee of a hospice program and that—
+
+&emsp;&emsp;(A) consist of—
+
+&emsp;&emsp;&emsp;(i) an evaluation of the individual's need for pain and symptom management, including the individual's need for hospice care; and
+
+&emsp;&emsp;&emsp;(ii) counseling the individual with respect to hospice care and other care options; and
+
+&emsp;&emsp;(B) may include advising the individual regarding advanced care planning.
 
 #### (b) Services not covered
 
@@ -74,13 +84,17 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 For definitions of “spell of illness”, and for definitions of other terms used in this part, see section 1395x of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1812, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 90–248, title I, §§129(c)(2), 137(a), 138(a), 143(b), 146(a), Jan. 2, 1968, 81 Stat. 847, 853, 854, 857, 859; Pub. L. 96–499, title IX, §§930(b)–(d), 931(a), Dec. 5, 1980, 94 Stat. 2631, 2633; Pub. L. 97–35, title XXI, §2121(a), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§122(b), 123, Sept. 3, 1982, 96 Stat. 356, 364; Pub. L. 97–448, title III, §309(b)(5), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 100–360, title I, §101, July 1, 1988, 102 Stat. 684; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §6003(g)(3)(B)(i), Dec. 19, 1989, 103 Stat. 2152; Pub. L. 101–508, title IV, §4006(a), Nov. 5, 1990, 104 Stat. 1388–43; Pub. L. 103–432, title I, §102(g)(1), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §§4201(c)(1), 4443(a), (b)(1), 4611(a), Aug. 5, 1997, 111 Stat. 373, 423, 472; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title V, §512(a), title VII, §736(c)(1), Dec. 8, 2003, 117 Stat. 2299, 2356.)
 
 #### References in Text
 
 Part B of this subchapter, referred to in subsec. (a)(3), is classified to section 1395j et seq. of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(3). Pub. L. 108–173, §736(c)(1), substituted “in the case of individuals not” for “for individuals not” and “in the case of individuals so” for “for individuals so”.
+
+Subsec. (a)(5). Pub. L. 108–173, §512(a), added par. (5).
 
 1999—Subsec. (b). Pub. L. 106–113 inserted “during” after “100 visits” in concluding provisions.
 
@@ -166,6 +180,10 @@ Subsec. (c). Pub. L. 90–248, §138(a), increased the limit from 90 to 150 days
 
 Pub. L. 90–248, §146(a), provided that the limitation of allowable days of inpatient hospital services will not apply to services provided to an inpatient of a tuberculosis hospital.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title V, §512(d), Dec. 8, 2003, 117 Stat. 2300, provided that: “The amendments made by this section \[amending this section and sections 1395f and 1395x of this title\] shall apply to services provided by a hospice program on or after January 1, 2005.”
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1395i, 1395i–4, 1395<i>l</i>, 1395m, 1395u, 1395w–3, 1395w–4, 1395w–21, 1395w–22, 1395w–24, 1395x, 1395y, 1395cc, 1395ss, 1395ww, 1395yy, and 1395fff of this title, repealing section 1320b–5 of this title, and amending provisions set out as notes under sections 1395f and 1395ww of this title\] shall take effect as if included in the enactment of BBA \[Balanced Budget Act of 1997, Pub. L. 105–33\].”
@@ -174,7 +192,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(m)\], Nov. 29, 1999, 
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Section 4449 of title IV of Pub. L. 105–33 provided that: “Except as otherwise provided in this chapter \[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
+Section 4449 of title IV of Pub. L. 105–33 provided that: “Except as otherwise provided in this chapter\[chapter 4 (§§4441–4449) of subtitle E of title IV of Pub. L. 105–33, amending this section and sections 1395f, 1395x, and 1395pp of this title and enacting provisions set out as notes under section 1395f and 1395x of this title\], the amendments made by this chapter apply to benefits provided on or after the date of the enactment of this chapter \[Aug. 5, 1997\], regardless of whether or not an individual has made an election under section 1812(d) of the Social Security Act (42 U.S.C. 1395d(d)) before such date.”
 
 Section 4611(f) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395u, 1395x, and 1395ff of this title\] apply to services furnished on or after January 1, 1998. For purpose of applying such amendments, any home health spell of illness that began, but not \[sic\] did not end, before such date shall be considered to have begun as of such date.”
 
@@ -239,6 +257,40 @@ Section 138(b) of Pub. L. 90–248 provided that: “The amendments made by subs
 Section 143(d) of Pub. L. 90–248 provided that: “The provisions made by subsection (a) of this section \[amending section 1395x of this title\] shall become effective as of July 1, 1966, and the provisions made by subsections (b) and (c) of this section \[amending this section and section 1395f of this title\] shall apply to services furnished with respect to admissions occurring after December 31, 1967, and to outpatient hospital diagnostic services furnished after December 31, 1967, and before April 1, 1968.”
 
 Section 146(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payment for services furnished after December 31, 1967.”
+
+#### Rural Hospice Demonstration Project
+
+Pub. L. 108–173, title IV, §409, Dec. 8, 2003, 117 Stat. 2271, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Health and Human Services\] shall conduct a demonstration project for the delivery of hospice care to medicare beneficiaries in rural areas. Under the project medicare beneficiaries who are unable to receive hospice care in the facility for lack of an appropriate caregiver are provided such care in a facility of 20 or fewer beds which offers, within its walls, the full range of services provided by hospice programs under section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
+
+“(b)
+
+Scope of Project.—The Secretary shall conduct the project under this section with respect to no more than 3 hospice programs over a period of not longer than 5 years each.
+
+“(c)
+
+Compliance With Conditions.—Under the demonstration project—
+
+&emsp;“(1) the hospice program shall comply with otherwise applicable requirements, except that it shall not be required to offer services outside of the home or to meet the requirements of section 1861(dd)(2)(A)(iii) of the Social Security Act \[section 1395x(dd)(2)(A)(iii) of this title\]; and
+
+&emsp;“(2) payments for hospice care shall be made at the rates otherwise applicable to such care under title XVIII of such Act \[this subchapter\].
+
+> The Secretary may require the program to comply with such additional quality assurance standards for its provision of services in its facility as the Secretary deems appropriate.
+
+“(d)
+
+Report.—Upon completion of the project, the Secretary shall submit a report to Congress on the project and shall include in the report recommendations regarding extension of such project to hospice programs serving rural areas.”
+
+#### OIG Report on Notices Relating to Use of Hospital Lifetime Reserve Days
+
+Pub. L. 108–173, title IX, §953(d), Dec. 8, 2003, 117 Stat. 2428, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Inspector General of the Department of Health and Human Services shall submit a report to Congress on—
+
+&emsp;“(1) the extent to which hospitals provide notice to medicare beneficiaries in accordance with applicable requirements before they use the 60 lifetime reserve days described in section 1812(a)(1) of the Social Security Act (42 U.S.C. 1395d(a)(1)); and
+
+&emsp;“(2) the appropriateness and feasibility of hospitals providing a notice to such beneficiaries before they completely exhaust such lifetime reserve days.”
 
 #### MedPAC Report on Access to, and Use of, Hospice Benefit
 

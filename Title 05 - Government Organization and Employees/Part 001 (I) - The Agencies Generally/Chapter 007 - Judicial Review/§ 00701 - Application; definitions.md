@@ -8,7 +8,7 @@
 
 (b) For the purpose of this chapter—
 
-&emsp;(1) “agency” means each authority of the Government of the United States, whether ornot it is within or subject to review by another agency, but does not include—
+&emsp;(1) “agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
 
 &emsp;&emsp;(A) the Congress;
 

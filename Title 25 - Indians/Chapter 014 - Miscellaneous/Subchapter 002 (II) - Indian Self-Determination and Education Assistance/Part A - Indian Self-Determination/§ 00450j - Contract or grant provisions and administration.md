@@ -206,7 +206,7 @@ Section 314 of the Department of the Interior and Related Agencies Appropriation
 
 Subsections (a)(2) and (b) of section 450f of this title, referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
-The Federal Records Act of 1950, referred to in subsec. (<i>o</i>), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Title V of act June 30, 1949, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44.
+The Federal Records Act of 1950, referred to in subsec. (<i>o</i>), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §5101. Decimal system
 
-United States money is expressed in dollars, dimes or tenths, cents or hundreths,<sup>1</sup> and mills or thousandths. A dime is a tenth of a dollar, a cent is a hundredth of a dollar, and a mill is a thousandth of a dollar.
+United States money is expressed in dollars, dimes or tenths, cents or hundreths,<sup>1</sup> and mills or thousandths. A dime is a tenth of a dollar, acent is a hundredth of a dollar, and a mill is a thousandth of a dollar.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980.)
 
@@ -28,13 +28,17 @@ The word “money” is substituted for “money of account” to eliminate unne
 
 > Thus, the phrase “money of account” did not mean, by itself, that dollars or fractions of dollars must be equal to something having intrinsic or “substantive” value. This concept is supported by earlier writings of Thomas Jefferson in his “Notes on the Establishment of a Money Unit, and of a Coinage for the United States” (1784), and the 1782 report to the President of the Continental Congress on the coinage of the United States by the Superintendent of Finances, Robert Morris, which was apparently prepared by the Assistant Superintendent, Gouverneur Morris. See Paul L. Ford, <i>The Writings of Thomas Jefferson</i>, vol. III (G.P. Putnam's Sons, 1894) pp. 446–457; William G. Sumner, <i>The Financier and the Finances of the American Revolution</i>, vol. II (Burt Franklin, 1891, reprinted 1970) pp. 36–47; and George T. Curtis, <i>History of the Constitution</i>, vol. I (Harper and Brothers, 1859) p. 443, n2. The words “or units” and “and all accounts in the public offices and all proceedings in the courts shall be kept and had in conformity to this regulation” are omitted as surplus.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–15, §1, Apr. 23, 2003, 117 Stat. 615, provided that: “This Act \[amending sections 5112, 5134, and 5135 of this title and enacting provisions set out as notes under sections 5112, 5134, and 5135 of this title\] may be cited as the ‘American 5-Cent Coin Design Continuity Act of 2003’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–201, §1, July 23, 2002, 116 Stat. 736, provided that: “This Act \[amending section 5116 of this title and enacting provisions set out as notes under sections 5112 and 5116 of this title\] may be cited as the ‘Support of American Eagle Silver Bullion Program Act’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–445, §1, Nov. 6, 2000, 114 Stat. 1931, provided that: “This Act \[amending sections 5112, 5132 and5134 of this title\] may be cited as the ‘United States Mint Numismatic Coin Clarification Act of 2000’.”
+Pub. L. 106–445, §1, Nov. 6, 2000, 114 Stat. 1931, provided that: “This Act \[amending sections 5112, 5132 and 5134 of this title\] may be cited as the ‘United States Mint Numismatic Coin Clarification Act of 2000’.”
 
 #### Short Title of 1997 Amendment
 

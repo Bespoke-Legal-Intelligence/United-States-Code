@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in R.S. §2872, as am
 
 R.S. §2871 providing for the granting of a special license to unlade at night, and the amendment thereof by act June 30, 1906, ch. 3909, 34 Stat. 633, were repealed by section 6 of act Feb. 13, 1911, ch. 46, and provision for the grant of a special license to lade or unlade at night, and the grant of permits for immediate lading and unlading of vessels admitted to preliminary entry, etc., was made, in sections 1 and 4 of that act, which were repealed by section 643 of the act of Sept. 21, 1922, ch. 356.
 
-A special provision on the subject matter of this section for the northern, northeastern and northwestern frontiers was contained in R.S. §3120, as amended byact Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, prior to repeal by section 642 of the act of Sept. 21, 1922, ch. 356.
+A special provision on the subject matter of this section for the northern, northeastern and northwestern frontiers was contained in R.S. §3120, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 248, prior to repeal by section 642 of the act of Sept. 21, 1922, ch. 356.
 
 #### Amendments
 

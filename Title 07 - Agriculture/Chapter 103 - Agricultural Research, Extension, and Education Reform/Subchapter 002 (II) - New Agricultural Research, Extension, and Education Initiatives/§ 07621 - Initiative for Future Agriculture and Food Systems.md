@@ -2,7 +2,7 @@
 
 #### (a) Treasury account
 
-There is established in the Treasury of the United States an account to be known as the Initiative for Future Agriculture and Food Systems (referred to in this section as the “Account”) to provide funds for activities authorized under this section.
+There is established in the Treasury of the United States an account to be known as theInitiative for Future Agriculture and Food Systems (referred to in this section as the “Account”) to provide funds for activities authorized under this section.
 
 #### (b) Funding
 

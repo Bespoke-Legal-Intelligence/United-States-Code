@@ -12,7 +12,7 @@ Beginning on July 1, 2000, the Secretary shall award a grant to each State that 
 
 #### (2) Requirements
 
-&emsp;The Secretary may review an application described in paragraph (1) only to ensure thatthe application contains the following assurances:
+&emsp;The Secretary may review an application described in paragraph (1) only to ensure that the application contains the following assurances:
 
 &emsp;&emsp;(A) The legislature of the State was consulted with respect to the development of the application.
 

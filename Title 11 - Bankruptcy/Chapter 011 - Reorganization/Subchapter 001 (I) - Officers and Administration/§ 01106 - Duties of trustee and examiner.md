@@ -32,7 +32,7 @@ Subsection (a) of this section prescribes the trustee's duties. He is required t
 
 Paragraph (3) of S. 1106 requires the trustee to investigate the acts, conduct, assets, liabilities, and financial condition of the debtor, the operation of the debtor's business, and the desirability of the continuance of the business, and any other matter relevant to the case or to the formulation of a plan. Paragraph (4) requires the trustee to report the results of his investigation to the court and to creditors’ committees, equity security holders’ committees, indenture trustees and any other entity the court designates.
 
-Paragraph (5) requires the trustee to file a plan or to report why a plan cannot be formulated, or to recommend conversion to liquidation or to an individual repayment plan case, or dismissal. It is anticipated that the trustee will consult with creditors and other parties in interest in the formulation of a plan, just as the debtor in possession would.
+Paragraph (5) requires the trustee to file a plan or to report why a plan cannot be formulated, or to recommend conversion to liquidation or to an individual repayment plan case, or dismissal. It is anticipated that the trustee will consult with creditors and otherparties in interest in the formulation of a plan, just as the debtor in possession would.
 
 Paragraph (6) \[enacted as (7)\] requires final reports by the trustee, as the court orders.
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commencedunder this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

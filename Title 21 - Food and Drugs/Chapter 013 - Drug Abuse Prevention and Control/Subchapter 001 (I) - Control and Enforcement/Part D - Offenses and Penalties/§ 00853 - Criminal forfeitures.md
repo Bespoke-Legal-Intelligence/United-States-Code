@@ -46,7 +46,7 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 > <i>Provided, however</i>, That an order entered pursuant to subparagraph (B) shall be effective for not more than ninety days, unless extended by the court for good cause shown or unless an indictment or information described in subparagraph (A) has been filed.
 
-(2) A temporary restraining order under this subsection may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
+(2) A temporary restraining order under this subsection may be entered upon application ofthe United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and that provision of notice will jeopardize the availability of the property for forfeiture. Such a temporary order shall expire not more than ten days after the date on which it is entered, unless extended for good cause shown or unless the party against whom it is entered consents to an extension for a longer period. A hearing requested concerning an order entered under this paragraph shall be held at the earliest possible time and prior to the expiration of the temporary order.
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
@@ -168,7 +168,7 @@ The court, when sentencing a defendant convicted of an offense under this subcha
 
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II,§207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314.)
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314.)
 
 #### References in Text
 
@@ -226,5 +226,5 @@ Amendments by title III of Pub. L. 107–56 to terminate effective on and after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 333, 848, 970 of this title; title 18 sections 38, 229B, 793, 794, 798, 982, 986, 1028, 1029, 1834, 3554; title 28 sections 524, 2461; title 31 sections 5317, 5332; title 33 section 1415; title 42 section 1786; title 50 section 783.
+This section is referred to in sections 333, 848, 970 of this title; title 18 sections 38, 229B, 793, 794, 798, 982, 986, 1028, 1029, 1834, 3554; title 18 section 1037; title 28 sections 524, 2461; title 31 sections 5317, 5332; title 33 section 1415; title 42 section 1786; title 50 section 783.
 

@@ -8,9 +8,13 @@
 
 #### (b) Designation of agency official
 
-The head of each executive agency shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the executive agency under section 414(3) of this title.
+The head of each executive agency shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the executive agency under section 414(3) <sup>1</sup> of this title.
 
 (June 30, 1949, ch. 288, title III, §302C, as added Pub. L. 103–355, title IX, §9003, Oct. 13, 1994, 108 Stat. 3403; amended Pub. L. 105–85, div. A, title VIII, §850(f)(4)(A), Nov. 18, 1997, 111 Stat. 1850.)
+
+#### References in Text
+
+Section 414 of this title, referred to in subsec. (b), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
 #### Amendments
 
@@ -33,4 +37,6 @@ Amendment by Pub. L. 105–85 effective 180 days after Nov. 18, 1997, see sectio
 #### Effective Date
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

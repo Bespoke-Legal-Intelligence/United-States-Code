@@ -10,7 +10,7 @@ Herein, referred to in text, means act Aug. 1, 1916, which is classified to sect
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 
-Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat. 790. For further details, see Codification note set out under section 79 of this title.
+Section 79 of this title, referred to in text, was in the original a reference to act Feb. 15, 1901, ch. 372, 31 Stat.790. For further details, see Codification note set out under section 79 of this title.
 
 #### Codification
 

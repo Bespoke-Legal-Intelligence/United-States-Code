@@ -80,7 +80,7 @@ Existing Sanctions.—In the case of any unilateral agricultural sanction or uni
 
 #### Short Title
 
-Pub. L. 106–387, §1(a) \[title IX, §901\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title \[enactingthis chapter\] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title IX, §901\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title \[enacting this chapter\] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
 
 #### Definitions
 

@@ -16,7 +16,7 @@ In providing assistance under this section, the President may use the authority 
 
 The President shall prescribe such rules and regulations as are necessary to carry out this section.
 
-(Pub. L. 93–288, title IV, §420, formerly §417, May 22, 1974, 88 Stat. 158; renumbered §420, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat.4705; Pub. L. 106–390, title III, §303(a), Oct. 30, 2000, 114 Stat. 1572.)
+(Pub. L. 93–288, title IV, §420, formerly §417, May 22, 1974, 88 Stat. 158; renumbered §420, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title III, §303(a), Oct. 30, 2000, 114 Stat. 1572.)
 
 #### Amendments
 

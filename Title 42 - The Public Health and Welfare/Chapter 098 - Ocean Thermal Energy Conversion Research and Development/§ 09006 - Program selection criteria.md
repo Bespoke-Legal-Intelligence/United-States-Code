@@ -6,7 +6,7 @@ The Secretary shall, in fulfilling his responsibilities under this chapter, sele
 
 &emsp;(2) encouragement of projects for which contributions to project costs are forthcoming from private, industrial, utility, or governmental entities for the purpose of sharing with the Federal Government the costs of purchasing and installing ocean thermal energy conversion systems;
 
-&emsp;(3) promotion of ocean thermal energy conversion facilities for coastal areas, islands, and isolated military institutions which are vulnerable to interruption in the fossil fuel supply;
+&emsp;(3) promotion of ocean thermal energy conversion facilities for coastal areas, islands, and isolated military institutions which arevulnerable to interruption in the fossil fuel supply;
 
 &emsp;(4) preference for and priority to persons and domestic firms whose base of operations is in the United States as will assure that the program under this chapter promotes the development of a United States domestic technology for ocean thermal energy conversion; and
 

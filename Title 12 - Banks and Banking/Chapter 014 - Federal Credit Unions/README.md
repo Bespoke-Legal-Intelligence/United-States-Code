@@ -156,13 +156,7 @@
 | (t) | Regulation of certain forms of benefits to institution-affiliated parties. |
 | (u) | Foreign investigations. |
 | (v) | Termination of insurance for money laundering or cash transaction reporting offenses. |
-| [1786a.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001786a%20-%20Omitted.md) | Regulation and examination of credit union organizations and service providers. |
-| (a) | Regulation and examination of credit union organizations. |
-| (b) | Applicability of section 1786. |
-| (c) | Service performed by contract or otherwise. |
-| (d) | Administration by Board. |
-| (e) | Definitions. |
-| (f) | Expiration of authority. |
+| [1786a.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001786a%20-%20Omitted.md) | Omitted. |
 | [1787\.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001787%20-%20Payment%20of%20insurance.md) | Payment of insurance. |
 | (a) | Liquidation by Board; bond; appointment of agent; fees to be fixed by Board. |
 | (b) | Powers and duties of Board as conservator or liquidating agent. |
@@ -257,7 +251,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742, 4909 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6505, 6805, 6822; title 18 section 709; title 42 section 5318a.
+This chapter is referred to in sections 1818, 1831k, 1831t, 2804, 4009, 4309, 4742, 4909 of this title; title 7 section 2019; title 15 sections 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6505, 6805, 6822, 7706; title 18 section 709; title 42 section 5318a.
 
 
 ---

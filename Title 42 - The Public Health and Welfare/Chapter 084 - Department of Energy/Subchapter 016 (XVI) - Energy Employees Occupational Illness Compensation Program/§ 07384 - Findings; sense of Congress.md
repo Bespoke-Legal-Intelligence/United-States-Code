@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;(7) Existing information indicates that State workers’ compensation programs do not provide a uniform means of ensuring adequate compensation for the types of occupational illnesses and diseases that relate to the employees at those sites.
 
-&emsp;(8) To ensure fairness and equity, the civilian men and women who, over the past 50 years, have performed duties uniquely related to the nuclear weapons production and testing programs of the Department of Energy and itspredecessor agencies should have efficient, uniform, and adequate compensation for beryllium-related health conditions and radiation-related health conditions.
+&emsp;(8) To ensure fairness and equity, the civilian men and women who, over the past 50 years, have performed duties uniquely related to the nuclear weapons production and testing programs of the Department of Energy and its predecessor agencies should have efficient, uniform, and adequate compensation for beryllium-related health conditions and radiation-related health conditions.
 
 &emsp;(9) On April 12, 2000, the Secretary of Energy announced that the Administration intended to seek compensation for individuals with a broad range of work-related illnesses throughout the Department of Energy's nuclear weapons complex.
 
@@ -38,7 +38,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(B) the establishment of a process to receive and administer claims for compensation for disability or death of covered employees;
 
-&emsp;&emsp;(C) the submittal by the President of a legislative proposal for compensation of such employees that includes the estimated annual budget resources for that compensation; and
+&emsp;&emsp;(C) the submittal by the President of a legislative proposal for compensation of suchemployees that includes the estimated annual budget resources for that compensation; and
 
 &emsp;&emsp;(D) consideration by the Congress of the legislative proposal submitted by the President; and
 
@@ -174,7 +174,7 @@ Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
 (ii) Advise the Secretary of Health and Human Services on the scientific validity and quality of dose reconstruction efforts performed for this Program; and
 
-(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and on whether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
+(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and onwhether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
 
 Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report to the Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
 

@@ -72,7 +72,7 @@ An individual who is a member of the Council is not ineligible for appointment a
 
 #### (1) Procedures
 
-&emsp;The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. Theprocedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
+&emsp;The Task Force shall establish practices and procedures for the carrying out of its functions under subsection (b) of this section. The procedures shall include the requirement that a quorum of the Task Force must be present before business may be transacted.
 
 #### (2) Chairman
 
@@ -108,7 +108,7 @@ Any Task Force member who is an officer or employee of the United States, the St
 
 #### (2) Limitation on spending authority
 
-&emsp;No money authorized to be appropriated under section 460ss–5 of this title may be used to reimburse any agency or governmental unit (whose employees are Task Force members) for time spent by any such employee performing Task Force duties.
+&emsp;No money authorized to be appropriated under section 460ss–5 of this title may be usedto reimburse any agency or governmental unit (whose employees are Task Force members) for time spent by any such employee performing Task Force duties.
 
 #### (j) Membership increase upon program expansion
 

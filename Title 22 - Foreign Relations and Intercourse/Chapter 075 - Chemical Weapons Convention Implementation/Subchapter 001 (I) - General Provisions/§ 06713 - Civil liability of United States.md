@@ -18,7 +18,7 @@
 
 #### (3) Initial steps by United States Government to seek remedies
 
-&emsp;During the period between a notification pursuant to paragraph (2) and the filing of aclaim covered by the notification in the United States Court of Federal Claims, the United States National Authority shall pursue all diplomatic and other remedies that the United States National Authority considers necessary and appropriate to seek redress for the claim including, but not limited to, the remedies provided for in the Convention and under this chapter.
+&emsp;During the period between a notification pursuant to paragraph (2) and the filing of a claim covered by the notification in the United States Court of Federal Claims, the United States National Authority shall pursue all diplomatic and other remedies that the United States National Authority considers necessary and appropriate to seek redress for the claim including, but not limited to, the remedies provided for in the Convention and under this chapter.
 
 #### (4) Burden of proof
 
@@ -166,7 +166,7 @@ The Secretary of State shall deny a visa to, and the Attorney General shall excl
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 
-&emsp;(3) is a corporate officer, principal, shareholder with a controlling interest of an entity which has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
+&emsp;(3) is a corporate officer, principal, shareholder with a controlling interest of an entitywhich has been involved in the unauthorized disclosure of United States confidential business information, a proven claim to which is owned by a United States national; or
 
 &emsp;(4) is a spouse, minor child, or agent of a person excludable under paragraph (1), (2), or (3).
 

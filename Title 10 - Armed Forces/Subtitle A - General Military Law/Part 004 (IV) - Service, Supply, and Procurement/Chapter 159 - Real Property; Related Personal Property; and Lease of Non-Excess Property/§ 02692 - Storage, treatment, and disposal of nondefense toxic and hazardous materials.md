@@ -56,7 +56,7 @@ Subsec. (b)(3). Pub. L. 105–85, §343(b)(1), (c), redesignated par. (2) as (3)
 
 Subsec. (b)(4) to (8). Pub. L. 105–85, §343(b)(1), redesignated pars. (3) to (7) as (4) to (8), respectively. Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 105–85, §343(b)(1), (d), redesignated par. (8) as (9) and substituted “in connection withthe authorized and compatible use of a” for “by a private person in connection with the authorized and compatible use by that person of an industrial-type” and “, including the use of such a facility for testing materiel or training personnel;” for “; and”. Former par. (9) redesignated (10).
+Subsec. (b)(9). Pub. L. 105–85, §343(b)(1), (d), redesignated par. (8) as (9) and substituted “in connection with the authorized and compatible use of a” for “by a private person in connection with the authorized and compatible use by that person of an industrial-type” and “, including the use of such a facility for testing materiel or training personnel;” for “; and”. Former par. (9) redesignated (10).
 
 Subsec. (b)(10). Pub. L. 105–85, §343(b)(1), (e), redesignated par. (9) as (10) and substituted “in connection with the authorized and compatible use of a” for “by a private person in connection with the authorized and compatible commercial use by that person of an industrial-type”, “or agreement with the prospective user” for “with that person”, “for the prospective user's” for “for that person's”, and “; and” for period at end.
 

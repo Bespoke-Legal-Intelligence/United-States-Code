@@ -16,7 +16,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) a public or private elementary school or secondary school (as the case may be), as defined in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801); <sup>1</sup> or
 
-&emsp;&emsp;(B) a bureau <sup>2</sup> funded school as defined in section 2026 <sup>1</sup>of title 25.
+&emsp;&emsp;(B) a bureau <sup>2</sup> funded school as defined in section 2026 <sup>1</sup> of title 25.
 
 #### (4) State
 

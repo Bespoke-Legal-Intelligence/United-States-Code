@@ -6,13 +6,13 @@ There is established within the Contingent Fund of the Senate a revolving fund w
 
 #### Amendments
 
-1997—Pub. L. 105–55, which directed the amendment of section 1101 of Pub. L. 85–58 by inserting at end “Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.”, was executed by making the insertion at the end of this section which is second par. under heading “
+<b>1997</b>—Pub. L. 105–55, which directed the amendment of section 1101 of Pub. L. 85–58 by inserting at end “Disbursements from the fund shall be made upon vouchers approved by the Secretary of the Senate, or his designee.”, was executed by making the insertion at the end of this section which is second par. under heading “
 
 contingent expenses of the senate” to reflect the probable intent of Congress.
 
-1980—Pub. L. 96–304, §112(b)(3), substituted in cl. (2), “officers of the Senate and the Conference of the Majority and the Conference of the Minority of the Senate” for “committees and officers of the Senate”.
+<b>1980</b>—Pub. L. 96–304, §112(b)(3), substituted in cl. (2), “officers of the Senate and the Conference of the Majority and the Conference of the Minority of the Senate” for “committees and officers of the Senate”.
 
-1972—Pub. L. 92–607 struck out “and of Senators” after “the President of the Senate”.
+<b>1972</b>—Pub. L. 92–607 struck out “and of Senators” after “the President of the Senate”.
 
 #### Effective Date of 1980 Amendment
 

@@ -8,7 +8,7 @@ For the purpose of section 5533 of this title—
 
 &emsp;(3) “retired or retainer pay” means retired pay, as defined in section 8311(3) of this title, determined without regard to subparagraphs (B) through (D) of such section 8311(3); except that such term does not include an annuity payable to an eligible beneficiary of a member or former member of a uniformed service under chapter 73 of title 10;
 
-&emsp;(4) “agency in the legislative branch” means the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, and the Congressional Budget Office;
+&emsp;(4) “agency in the legislative branch” means the General Accounting Office, the Government Printing Office, the Library of Congress,the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, and the Congressional Budget Office;
 
 &emsp;(5) “employee of the House of Representatives” means a congressional employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives;
 

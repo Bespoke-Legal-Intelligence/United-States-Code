@@ -9,7 +9,7 @@
 - [&sect; 01622 - Duties of Secretary relating to agricultural products](%C2%A7%2001622%20-%20Duties%20of%20Secretary%20relating%20to%20agricultural%20products.md)
 - [&sect; 01622a - Authority to assist farmers and elevator operators](%C2%A7%2001622a%20-%20Authority%20to%20assist%20farmers%20and%20elevator%20operators.md)
 - [&sect; 01623 - Authorization of appropriations; allotments to States](%C2%A7%2001623%20-%20Authorization%20of%20appropriations%3B%20allotments%20to%20States.md)
-- [&sect; 01623a - Minimum sum for contracting](%C2%A7%2001623a%20-%20Minimum%20sum%20for%20contracting.md)
+- [&sect; 01623a - Omitted](%C2%A7%2001623a%20-%20Omitted.md)
 - [&sect; 01624 - Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations](%C2%A7%2001624%20-%20Cooperation%20with%20Government%20and%20State%20agencies%2C%20private%20research%20organizations%2C%20etc.%3B%20rules%20and%20regulations.md)
 - [&sect; 01625 - Transfer and consolidation of functions, powers, bureaus, etc](%C2%A7%2001625%20-%20Transfer%20and%20consolidation%20of%20functions%2C%20powers%2C%20bureaus%2C%20etc.md)
 - [&sect; 01626 - Definitions](%C2%A7%2001626%20-%20Definitions.md)

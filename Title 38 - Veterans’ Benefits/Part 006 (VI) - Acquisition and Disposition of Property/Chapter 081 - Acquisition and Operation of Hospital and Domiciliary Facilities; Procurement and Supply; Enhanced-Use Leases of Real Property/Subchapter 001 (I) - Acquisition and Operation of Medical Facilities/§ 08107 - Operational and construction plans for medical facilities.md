@@ -8,29 +8,7 @@
 
 &emsp;(2) A description of how planning for the networks will be coordinated.
 
-&emsp;(3) A profile regarding each such network of medical facilities which identifies—
-
-&emsp;&emsp;(A) the mission of each existing or proposed medical facility in the network;
-
-&emsp;&emsp;(B) any planned change in the mission for any such facility and the rationale for such planned change;
-
-&emsp;&emsp;(C) the population of veterans to be served by the network and anticipated changes over a five-year period and a ten-year period, respectively, in that population and in the health-care needs of that population;
-
-&emsp;&emsp;(D) information relevant to assessing progress toward the goal of achieving relative equivalency in the level of resources per patient distributed to each network, such information to include the plans for and progress toward lowering the cost of care-delivery in the network (by means such as changes in the mix in the network of physicians, nurses, physician assistants, and advance practice nurses);
-
-&emsp;&emsp;(E) the capacity of non-Federal facilities in the network to provide acute, long-term, and specialized treatment and rehabilitative services (described in section 7306(f)(1)(A) of this title), and determinations regarding the extent to which services to be provided in each service-delivery area and each facility in such area should be provided directly through facilities of the Department or through contract or other arrangements, including arrangements authorized under sections 8111 and 8153 of this title; and
-
-&emsp;&emsp;(F) a five-year plan for construction, replacement, or alteration projects in supportof the approved mission of each facility in the network and a description of how those projects will improve access to care, or quality of care, for patients served in the network.
-
-&emsp;(4) A status report for each facility on progress toward—
-
-&emsp;&emsp;(A) instituting planned mission changes identified under paragraph (3)(B);
-
-&emsp;&emsp;(B) implementing principles of managed care of eligible veterans; and
-
-&emsp;&emsp;(C) developing and instituting cost-effective alternatives to provision of institutional care.
-
-(c) The Secretary shall submit to each committee not later than January 31 of each year a report showing the location, space, cost, and status of each medical facility (1) the construction, alteration, lease, or other acquisition of which has been approved under section 8104(a) of this title, and (2) which was uncompleted as of the date of the last preceding report made under this subsection.
+(c) The Secretary shall submit to each committee not later than January 31 of each year a report showing the location, space, cost, and status of each medical facility (1) the construction, alteration, lease, or other acquisition of which has been approved under section 8104(a) ofthis title, and (2) which was uncompleted as of the date of the last preceding report made under this subsection.
 
 (d)(1) The Secretary shall submit to each committee, not later than January 31 of each year, a report showing the current priorities of the Department for proposed major medical construction projects. Each such report shall identify the 20 projects, from within all the projects in the Department's inventory of proposed projects, that have the highest priority and, for those 20 projects, the relative priority and rank scoring of each such project and the projected cost of such project (including the projected operating costs, including both recurring and nonrecurring costs). The 20 projects shall be compiled, and their relative rankings shall be shown, by category of project (including the categories of ambulatory care projects, nursing home care projects, and such other categories as the Secretary determines).
 
@@ -38,9 +16,11 @@
 
 (3) In a case in which the relative ranking of a proposed project has changed since the last report under this subsection was submitted, the Secretary shall also include in the report a description of the reasons for the change in the ranking, including an explanation of any change in the scoring of the project under the Department's scoring system for proposed major medical construction projects.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188; Pub. L. 105–368, title X, §1005(b)(18), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 58, §5007; amended Pub. L. 99–166, title III, §302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, §222, Oct. 28, 1986, 100 Stat. 3259; renumbered §8107 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, §204, Oct. 9, 1996, 110 Stat. 3188; Pub. L. 105–368, title X, §1005(b)(18), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 108–170, title II, §203, Dec. 6, 2003, 117 Stat. 2048.)
 
 #### Amendments
+
+2003—Subsec. (b)(3), (4). Pub. L. 108–170 struck out pars. (3) and (4), which required annual reports to include profiles regarding networks of medical facilities and status reports for each facility.
 
 1998—Subsec. (b)(3)(E). Pub. L. 105–368 substituted “section 7306(f)(1)(A)” for “section 7305”.
 

@@ -50,7 +50,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (i) Review and inventory
 
-&emsp;&emsp;&emsp;Not later than two years after August 21, 2002, the Secretary, in consultation with interested parties, shall complete a review and inventory of all roads and trails in the Protection Area on which use was allowed on September 10, 2001, except those lands managed under the management prescription referred to in subparagraph (F). During the review and inventory, the Secretary may—
+&emsp;&emsp;&emsp;Not later than two years after August 21, 2002, the Secretary, in consultation withinterested parties, shall complete a review and inventory of all roads and trails in the Protection Area on which use was allowed on September 10, 2001, except those lands managed under the management prescription referred to in subparagraph (F). During the review and inventory, the Secretary may—
 
 &emsp;&emsp;&emsp;&emsp;(I) connect existing roads and trails in the inventoried area to other existing roads and trails in the inventoried area for the purpose of mechanized and other nonmotorized use on any lands within the Protection Area as long as there is no net gain in the total mileage of either roads or trails open for public use within the Protection Area; and
 
@@ -58,7 +58,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### (ii) After completion of inventory
 
-&emsp;&emsp;&emsp;After completion of the review and inventory required by clause (i), the Secretary shall ensure that motorized andmechanized travel within the Protection Area shall be permitted only on those roads and trails identified as open to use in the inventory or established pursuant to subparagraph (D).
+&emsp;&emsp;&emsp;After completion of the review and inventory required by clause (i), the Secretary shall ensure that motorized and mechanized travel within the Protection Area shall be permitted only on those roads and trails identified as open to use in the inventory or established pursuant to subparagraph (D).
 
 #### (D) New roads and trails
 
@@ -114,7 +114,7 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally tosections 539<i>l</i> to 539<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The public land laws, referred to in subsec. (d)(1)(B)(i), are classified generally to Title 43, Public Lands.
 

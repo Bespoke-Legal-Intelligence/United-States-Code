@@ -94,7 +94,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 &emsp;If—
 
-&emsp;&emsp;(A) the tax imposed by section 4071 has been paid with respect to the sale of any tire by the manufacturer, producer, or importer thereof, and
+&emsp;&emsp;(A) the tax imposed by section 4071 has been paid with respect to the sale of any tireby the manufacturer, producer, or importer thereof, and
 
 &emsp;&emsp;(B) such tire is sold by any person on or in connection with, or with the sale of, any other article, such tax shall be deemed to be an overpayment by such person if such other article is—
 
@@ -128,7 +128,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (c) Refund to exporter or shipper
 
-Under regulations prescribed by the Secretary the amount of any tax imposed by chapter 31, orchapter 32 erroneously or illegally collected in respect of any article exported to a foreign country or shipped to a possession of the United States may be refunded to the exporter or shipper thereof, if the person who paid such tax waives his claim to such amount.
+Under regulations prescribed by the Secretary the amount of any tax imposed by chapter 31, or chapter 32 erroneously or illegally collected in respect of any article exported to a foreign country or shipped to a possession of the United States may be refunded to the exporter or shipper thereof, if the person who paid such tax waives his claim to such amount.
 
 #### (d) Credit on returns
 
@@ -342,7 +342,7 @@ Subsec. (a)(3)(C). Pub. L. 89–44, §601(c)(6), struck out “(ii)” after “
 
 Subsec. (a)(3)(D). Pub. L. 89–44, §601(c)(6), struck out “or (D)” after “paragraph (2)(F), (3)(C)”.
 
-Subsec. (b)(1). Pub. L. 89–44, §601(c)(7), struck out “31 or” after “imposed by chapter” and “(in the case of atax imposed by chapter 32)” after “or allowance, including”.
+Subsec. (b)(1). Pub. L. 89–44, §601(c)(7), struck out “31 or” after “imposed by chapter” and “(in the case of a tax imposed by chapter 32)” after “or allowance, including”.
 
 Subsec. (b)(2)(F). Pub. L. 89–44, §601(c)(8), struck out reference to receiving sets resold for use and struck out reference to subparagraph (D) of paragraph (3).
 
@@ -504,7 +504,7 @@ Amendment by Pub. L. 91–258 effective on July 1, 1970, see section 211(a) of P
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 207(c) of Pub. L. 89–44 effective June 22, 1965, see section 701(a) of Pub. L. 89–44, set outas an Effective Date of 1965 Amendment note under section 4161 of this title.
+Amendment by section 207(c) of Pub. L. 89–44 effective June 22, 1965, see section 701(a) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 4161 of this title.
 
 Amendment by section 601(c) of Pub. L. 89–44 to take effect in a manner consistent with effective date of change of tax provisions to which related, see section 701(e) of Pub. L. 89–44, set out as a note under section 6103 of this title.
 

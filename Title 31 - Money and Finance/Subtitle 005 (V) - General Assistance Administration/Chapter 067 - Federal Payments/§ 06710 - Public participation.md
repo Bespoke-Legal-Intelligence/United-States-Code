@@ -48,7 +48,7 @@ Waivers of Requirements.—A requirement—
 
 Exception to 10-
 
-Day Limitation.—If the Secretary is satisfied that a unit of general local government will provide adequate notice of the proposed use of a payment received under thischapter, the 10-day period under subsection (b)(1) may be changed to the extent necessary to comply with applicable State or local law.
+Day Limitation.—If the Secretary is satisfied that a unit of general local government will provide adequate notice of the proposed use of a payment received under this chapter, the 10-day period under subsection (b)(1) may be changed to the extent necessary to comply with applicable State or local law.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1873.)
 

@@ -1,12 +1,12 @@
 ### §2572. Documents, historical artifacts, and condemned or obsolete combat materiel: loan, gift, or exchange
 
-(a) The Secretary concerned may lend or give items described in subsection (c) that are not needed by the military department concerned (or by the Coast Guard, in the case of the Secretary of Transportation), to any of the following:
+(a) The Secretary concerned may lend or give items described in subsection (c) that are not needed by the military department concerned (or by the Coast Guard, in the case of the Secretary of Homeland Security), to any of the following:
 
 &emsp;(1) A municipal corporation, county, or other political subdivision of a State.
 
 &emsp;(2) A servicemen's monument association.
 
-&emsp;(3) A museum, historical society, or historical institution of a State or a foreign nation.
+&emsp;(3) A museum, historical society, or historical institution of a State or a foreign nation or a nonprofit military aviation heritage foundation or association incorporated in a State.
 
 &emsp;(4) An incorporated museum or memorial that is operated and maintained for educational purposes only and the charter of which denies it the right to operate for profit.
 
@@ -32,13 +32,13 @@
 
 (c) This section applies to the following types of property held by a military department or the Coast Guard: books, manuscripts, works of art, historical artifacts, drawings, plans, models, and condemned or obsolete combat materiel.
 
-(d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486).
+(d)(1) A loan or gift made under this section shall be subject to regulations prescribed by the Secretary concerned and to regulations under section 121 of title 40.
 
 (2)(A) Except as provided in subparagraph (B), the United States may not incur any expense in connection with a loan or gift under subsection (a).
 
 (B) The Secretary concerned may, without cost to the recipient, demilitarize, prepare, and transport in the continental United States for donation to a recognized war veterans’ association an item authorized to be donated under this section if the Secretary determines the demilitarization, preparation, and transportation can be accomplished as a training mission without additional budgetary requirements for the unit involved.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, §1043(d), Dec. 28, 2001, 115 Stat. 1219.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 143; Pub. L. 96–513, title V, §511(82), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 100–456, div. A, title III, §324(a), Sept. 29, 1988, 102 Stat. 1954; Pub. L. 101–510, div. A, title III, §325, Nov. 5, 1990, 104 Stat. 1531; Pub. L. 102–484, div. A, title III, §373, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–337, div. A, title X, §1071, Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title III, §372, Feb. 10, 1996, 110 Stat. 280; Pub. L. 107–107, div. A, title X, §1043(d), Dec. 28, 2001, 115 Stat. 1219; Pub. L. 107–217, §3(b)(9), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title III, §369, Dec. 2, 2002, 116 Stat. 2524.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,12 @@ May 22, 1896, ch. 231; restated May 26, 1928, ch. 785; restated Feb. 28, 1933, c
 The word “may” is substituted for the words “are each authorized, in their discretion”. The reference to posts of the Grand Army of the Republic is omitted, since that organization disbanded in 1950. The words “under regulations to be prescribed by him” are substituted for the words “subject to rules and regulations covering the same in each department”. The words “without expense to the United States” are substituted for the words “and the Government shall be at no expense in connection with any such loan or gift”. The words “local unit” are inserted in clause (7) to conform to clauses (5), (6), and (8).
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 107–314 inserted before period at end “or a nonprofit military aviation heritage foundation or association incorporated in a State”.
+
+Subsec. (d)(1). Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
 
 2001—Subsec. (a)(1). Pub. L. 107–107, §1043(d)(1), inserted “, county, or other political subdivision of a State” before period at end.
 
@@ -94,9 +100,25 @@ Subsec. (b)(2). Pub. L. 101–510, §325(2), inserted “, or services provided
 
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of a military department or the Secretary of Transportation” for “section 486 of title 40, the Secretary of a military department or the Secretary of the Treasury”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Acquisition of Historical Artifacts Through Exchange of Obsolete or Surplus Property
+
+Pub. L. 108–136, div. A, title X, §1052, Nov. 24, 2003, 117 Stat. 1614, provided that:
+
+“(a)
+
+Acquisition Authorized.—The Secretary of a military department may use the authority provided by section 2572 of title 10, United States Code, to acquire an historical artifact that directly benefits the historical collection of the Armed Forces in exchange for any obsolete or surplus property held by that military department, without regard to whether the property is described in subsection (c) of such section.
+
+“(b)
+
+Duration of Authority.—The authority provided by subsection (a) applies during fiscal years 2004 and 2005.”
 
 #### Moratorium on the Return of Veterans Memorial Objects to Foreign Nations Without Specific Authorization in Law
 
@@ -130,5 +152,5 @@ Period of Moratorium.—The moratorium period for the purposes of this section i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7545 of this title.
+This section is referred to in sections 7316, 7545 of this title.
 

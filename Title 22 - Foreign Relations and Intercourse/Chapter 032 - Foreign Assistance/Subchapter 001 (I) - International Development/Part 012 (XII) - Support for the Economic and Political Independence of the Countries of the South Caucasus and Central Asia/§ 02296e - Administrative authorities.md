@@ -6,7 +6,7 @@ Assistance under this part may be provided to governments or through nongovernme
 
 #### (b) Use of economic support funds
 
-Except as otherwise provided, any funds that have been allocated under part IV of subchapterII of this chapter for assistance for the independent states of the former Soviet Union may be used in accordance with the provisions of this part.
+Except as otherwise provided, any funds that have been allocated under part IV of subchapter II of this chapter for assistance for the independent states of the former Soviet Union may be used in accordance with the provisions of this part.
 
 #### (c) Terms and conditions
 

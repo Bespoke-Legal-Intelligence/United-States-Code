@@ -12,15 +12,17 @@
 
 &emsp;(4) The term “participating uniformed service” means the Army, Navy, Air Force, and Marine Corps, and any other uniformed service that is covered by an agreement entered into under subsection (c).
 
-(c) The Secretary of Defense may enter into an agreement with any other administering Secretary (as defined in section 1072(3) of this title) for participation in the Fund by a uniformed service under the jurisdiction of that Secretary. Any such agreement shall require that Secretary to determine contributions to the Fund on behalf of the members of the uniformed service under the jurisdiction of that Secretary in a manner comparable to the determination with respect to contributions to the Fund made by the Secretary of Defense under section 1116 of this title, and such administering Secretary may make such contributions.
+(c) The Secretary of Defense shall enter into an agreement with each other administering Secretary (as defined in section 1072(3) of this title) for participation in the Fund by a uniformed service under the jurisdiction of that Secretary. The agreement shall require that Secretary to determine contributions to the Fund on behalf of the members of the uniformed service under the jurisdiction of that Secretary in a manner comparable to the determination with respect to contributions to the Fund made by the Secretary of Defense under section 1116 of this title, and such administering Secretary may make such contributions.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179; amended Pub. L. 107–107, div. A, title VII, §711(a), (b)(1), (e)(1), (2), title X, §1048(a)(12), Dec. 28, 2001, 115 Stat. 1164–1166, 1223.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179; amended Pub. L. 107–107, div. A, title VII, §711(a), (b)(1), (e)(1), (2), title X, §1048(a)(12), Dec. 28, 2001, 115 Stat. 1164–1166, 1223; Pub. L. 107–314, div. A, title VII, §704(b), Dec. 2, 2002, 116 Stat. 2584.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–314 substituted “shall enter into an agreement with each other administering Secretary” for “may enter into an agreement with any other administering Secretary” in first sentence and “The” for “Any such” in second sentence.
 
 2001—Pub. L. 107–107, §711(e)(2), inserted “; authority to enter into agreements” after “definitions” in section catchline.
 
@@ -41,6 +43,10 @@ Subsec. (c). Pub. L. 107–107, §711(b)(1), added subsec. (c).
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–107, div. A, title VII, §711(f), Dec. 28, 2001, 115 Stat. 1167, provided that: “The amendments made by this section \[amending this section and sections 1112, 1113, 1115, and 1116 of this title\] shall take effect as if included in the enactment of chapter 56 of title 10, United States Code, by section 713(a)(1) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–179).”
+
+#### Payment of Contributions for the Uniformed Service of the Public Health Service
+
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That notwithstanding any other provision of law, contributions authorized by 10 U.S.C. 1111 for the Uniformed Service of the Public Health Service shall be paid in fiscal year 2003 and thereafter from the Department of Health and Human Services’ Retirement Pay and Medical Benefits for Commissioned Officers account without charges billed to the Indian Health Service”.
 
 #### Section Referred to in Other Sections
 

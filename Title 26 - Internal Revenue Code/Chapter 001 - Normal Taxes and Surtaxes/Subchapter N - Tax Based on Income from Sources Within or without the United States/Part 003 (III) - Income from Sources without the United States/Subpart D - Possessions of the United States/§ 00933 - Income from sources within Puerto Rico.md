@@ -22,5 +22,5 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 23, 24, 25A, 25B, 86, 135, 137, 168, 221, 222, 530, 865, 876, 957, 1400C, 1402, 6091, 7655 of this title; title 42 section 411.
+This section is referred to in sections 23, 24, 25A, 25B, 86, 135, 137, 168, 221, 222, 530, 865, 876, 957, 1400C, 1402, 6091, 6103, 7655 of this title; title 42 sections 411, 1395r.
 

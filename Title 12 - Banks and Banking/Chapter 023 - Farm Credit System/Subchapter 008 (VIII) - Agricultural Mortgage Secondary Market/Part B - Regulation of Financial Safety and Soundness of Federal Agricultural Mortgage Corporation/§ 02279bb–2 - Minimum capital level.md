@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, for purposes of this part,
 
 &emsp;(2) 0.75 percent of the aggregate off-balance sheet obligations of the Corporation, which, for the purposes of this part, shall include
 
-&emsp;&emsp;(A) the unpaid principal balance of outstanding securities that are guaranteed bythe Corporation and backed by pools of qualified loans;
+&emsp;&emsp;(A) the unpaid principal balance of outstanding securities that are guaranteed by the Corporation and backed by pools of qualified loans;
 
 &emsp;&emsp;(B) instruments that are issued or guaranteed by the Corporation and are substantially equivalent to instruments described in subparagraph (A); and
 

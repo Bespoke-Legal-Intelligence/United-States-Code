@@ -26,7 +26,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (1) In general
 
-&emsp;The local educational agency with responsibility for a school covered by subsection (a) of this section shall certify the compliance of such school with the requirements of subsection (a) of this section as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
+&emsp;The local educational agency with responsibility for a school covered by subsection (a) of this section shall certify the compliance ofsuch school with the requirements of subsection (a) of this section as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
 
 #### (2) Process
 
@@ -92,7 +92,7 @@ In this subpart:
 
 #### (3) Acquisition or operation
 
-&emsp;An elementary school or secondary school shall be considered to have received funds under this part for the acquisition or operation of any computer if such funds are used in any manner, directly or indirectly—
+&emsp;An elementary school or secondary school shall be considered to have received fundsunder this part for the acquisition or operation of any computer if such funds are used in any manner, directly or indirectly—
 
 &emsp;&emsp;(A) to purchase, lease, or otherwise acquire or obtain the use of such computer; or
 

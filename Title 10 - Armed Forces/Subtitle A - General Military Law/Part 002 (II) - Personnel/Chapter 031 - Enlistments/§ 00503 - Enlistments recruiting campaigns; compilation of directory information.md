@@ -46,17 +46,13 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;&emsp;(iii) the member of the House of Representatives who represents the district in which the local educational agency is located.
 
-(5) The requirements of this subsection do not apply to—
-
-&emsp;(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or
-
-&emsp;(B) a private secondary school which maintains a religious objection to service in the armed forces and which objection is verifiable through the corporate or other organizational documents or materials of that school.
+(5) The requirements of this subsection do not apply to a private secondary school that maintains a religious objection to service in the armed forces and which objection is verifiable through the corporate or other organizational documents or materials of that school.
 
 (6) In this subsection:
 
 &emsp;(A) The term “local educational agency” means—
 
-&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 14101 <sup>2</sup> of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801); and
+&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801); and
 
 &emsp;&emsp;(ii) a private secondary school.
 
@@ -78,17 +74,23 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 Directory Information Defined.—In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-Section 14101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(6)(A)(i), is section 14101 of Pub. L. 89–10, which was classified to section 8801 of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. For provisions relating to definitions, see section 7801 of Title 20.
-
 #### Amendments
 
-2001—Subsec. (c)(1). Pub. L. 107–107, §544(a), reenacted section heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+2003—Subsec. (c)(5). Pub. L. 108–136, §543(a), substituted “apply to a private secondary school that” for “apply to—
+
+&emsp;“(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or
+
+&emsp;“(B) a private secondary school which”.
+
+Subsec. (c)(6)(A)(i). Pub. L. 108–136, §543(b), substituted “9101” and “7801” for “14101” and “8801”, respectively.
+
+2001—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows:“Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
 Subsec. (c)(6)(A)(i). Pub. L. 107–107, §1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
 
@@ -108,7 +110,7 @@ Subsec. (c). Pub. L. 106–65, §571, added subsec. (c).
 
 1996—Subsec. (b)(5). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1982—Pub. L. 97–252, §1114(b)(2), inserted “; compilation of directory information” in section catchline.
+1982—Pub. L. 97–252, §1114(b)(2), inserted “; compilation of directory information” in section catchline.
 
 Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions as subsec. (a).
 
@@ -123,6 +125,22 @@ Pub. L. 107–107, div. A, title X, §1048(a)(5)(B), Dec. 28, 2001, 115 Stat. 12
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Department of Defense Joint Advertising, Market Research, and Studies Program
+
+Pub. L. 108–136, div. A, title V, §548, Nov. 24, 2003, 117 Stat. 1481, provided that:
+
+“(a)
+
+Program Authorized.—The Secretary of Defense may carry out a joint advertising, market research, and studies program to complement the recruiting advertising programs of the military departments and improve the ability of the military departments to attract and recruit qualified individuals to serve in the Armed Forces.
+
+“(b)
+
+Funding.—Of the amount authorized to be appropriated by section 301(5) \[117 Stat. 1426\] for operation and maintenance for Defense-wide activities, $7,500,000 may be made available to carry out the joint advertising, market research, and studies program.”
 
 #### Notification to Local Educational Agencies
 
@@ -214,7 +232,7 @@ Duration of Pilot Programs.—The pilot programs required by this section shall 
 
 “(f)
 
-Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any ofthe pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
+Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
 
 “(g)
 
@@ -302,7 +320,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;“(2) Require that the forms and procedures for medical prescreening of applicants that are used by recruiters and by Military Entrance Processing Commands be revised so as to ensure that medical questions are specific, unambiguous, and tied directly to the types of medical separations most common for recruits during basic training and follow-on training.
 
-&emsp;“(3) Add medical screening tests to the examinations of recruits carried out by Military Entrance Processing Stations, provide more thorough medical examinations to selected groups of applicants, orboth, to the extent that the Secretary determines that to do so could be cost effective in reducing attrition at basic training.
+&emsp;“(3) Add medical screening tests to the examinations of recruits carried out by Military Entrance Processing Stations, provide more thorough medical examinations to selected groups of applicants, or both, to the extent that the Secretary determines that to do so could be cost effective in reducing attrition at basic training.
 
 &emsp;“(4) Provide for an annual quality control assessment of the effectiveness of the Military Entrance Processing Commands in identifying medical conditions in recruits that existed before enlistment in the Armed Forces, each such assessment to be performed by an agency or contractor other than the Military Entrance Processing Commands.
 
@@ -328,7 +346,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996,
 
 #### Military Recruiting on Campus
 
-Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II,§206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 #### Military Recruiting Information
 
@@ -347,6 +365,4 @@ Pub. L. 96–342, title III, §302(d), Sept. 8, 1980, 94 Stat. 1083, provided th
 &emsp;“(2) that it is appropriate for such institutions to release to the Armed Forces information regarding students at such institutions (including such data as names, addresses, and education levels) which is relevant to recruiting individuals for service in the Armed Forces.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “educational”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ The Secretary may not make a grant under subsection (a) of this section for a me
 
 #### (2) Geographic boundaries
 
-&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area are the boundaries that were in effect for the area for fiscal year 1994.
+&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area arethe boundaries that were in effect for the area for fiscal year 1994.
 
 #### (d) Continued status as eligible area
 

@@ -6,7 +6,7 @@ Allocation of Funds.—The Secretary of the Air Force shall allocate funds autho
 
 (b)
 
-Mixing of Funds Prohibited on Individual Projects.—The Secretary of the Air Force maynot combine funds authorized to be appropriated by a provision described in subsection (c) and funds authorized to be appropriated by a provision described in subsection (d) for an individual project for maintenance and repair of real property at a military installation of the Department of the Air Force.
+Mixing of Funds Prohibited on Individual Projects.—The Secretary of the Air Force may not combine funds authorized to be appropriated by a provision described in subsection (c) and funds authorized to be appropriated by a provision described in subsection (d) for an individual project for maintenance and repair of real property at a military installation of the Department of the Air Force.
 
 (c)
 

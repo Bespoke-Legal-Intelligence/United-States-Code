@@ -54,7 +54,7 @@
 
 &emsp;(D) an election to terminate may be made under this subparagraph at any time other than during a period afforded under paragraph (1).
 
-(3) An employee or Member who elects to become subject to this chapter under section 301 of the Federal Employees’ Retirement System Act of 1986 may make the first election for the purpose of subsection (a) during the period prescribed for such purpose by the Executive Director. The period prescribed by the Executive Director shall commence on the date on which theemployee or Member makes the election to become subject to this chapter.
+(3) An employee or Member who elects to become subject to this chapter under section 301 of the Federal Employees’ Retirement System Act of 1986 may make the first election for the purpose of subsection (a) during the period prescribed for such purpose by the Executive Director. The period prescribed by the Executive Director shall commence on the date on which the employee or Member makes the election to become subject to this chapter.
 
 (4) The Executive Director shall prescribe such regulations as may be necessary to carry out the following:
 
@@ -160,11 +160,17 @@
 
 &emsp;(B) the term “qualified trust” has the meaning given such term by section 402(c)(8) of the Internal Revenue Code of 1986.
 
-(2) An employee or Member may contribute to the Thrift Savings Fund an eligible rollover that a qualified trust could accept under the Internal Revenue Code of 1986. A contribution made under this subsection shall be made in the form described in section 401(a)(31) of the Internal Revenue Code of 1986. In the case of an eligible rollover distribution, the maximum amount transferred to the Thrift Savings Fund shall notexceed the amount which would otherwise have been included in the employee's or Member's gross income for Federal income tax purposes.
+(2) An employee or Member may contribute to the Thrift Savings Fund an eligible rollover that a qualified trust could accept under the Internal Revenue Code of 1986. A contribution made under this subsection shall be made in the form described in section 401(a)(31) of the Internal Revenue Code of 1986. In the case of an eligible rollover distribution, the maximum amount transferred to the Thrift Savings Fund shall not exceed the amount which would otherwise have been included in the employee's or Member's gross income for Federal income tax purposes.
 
 (3) The Executive Director shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363.)
+(k)(1) Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
+
+(2) Contributions under this subsection are subject to subsection (d).
+
+(3) For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, §6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, §1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, §304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, §215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, §1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(2), Dec. 13, 2003, 117 Stat. 2632.)
 
 #### References in Text
 
@@ -175,6 +181,8 @@ Section 301 of the Federal Employees’ Retirement System Act of 1986 \[Pub. L. 
 Section 204 of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983 \[Pub. L. 98–168\], referred to in subsec. (c)(3)(B)(iii), is set out as a note under section 8331 of this title.
 
 #### Amendments
+
+2003—Subsec. (k). Pub. L. 108–177 added subsec. (k).
 
 2002—Subsec. (a)(3). Pub. L. 107–304 added par. (3).
 
@@ -224,11 +232,11 @@ Subsec. (c)(2)(C). Pub. L. 99–509, §6001(a)(2)(B), added subpar. (C).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–304 effective as of the earliest practicable date determined by the Executive Director in regulations, see section 1(c) of Pub. L. 107–304, set out as a note under secton 8351 of this title.
+Amendment by Pub. L. 107–304 effective as of the earliest practicable date determined by the Executive Director in regulations, see section 1(c) of Pub. L. 107–304, set out as a note under section 8351 of this title.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–361, §1(b), Oct. 27, 2000, 114 Stat. 1400, provided that: “The amendment made by this section \[amending this section\] shall take effect at the earliestpracticable date after September 30, 2000, as determined by the Executive Director in regulations.” \[Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.\]
+Pub. L. 106–361, §1(b), Oct. 27, 2000, 114 Stat. 1400, provided that: “The amendment made by this section \[amending this section\] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.” \[Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.\]
 
 Pub. L. 106–361, §2(c)(1), Oct. 27, 2000, 114 Stat. 1401, provided that: “The amendments made by this section \[amending this section and sections 8439, 8440a, and 8440d of this title\] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.” \[Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.\]
 
@@ -244,7 +252,7 @@ Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reem
 
 #### Effective Date of 1986 Amendment
 
-Section 6001(f) of Pub. L. 99–509 provided that: “This section \[amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\], other than subsection (d) \[set out below\], and the amendments made by this section shall take effect on January 1, 1987.”
+Section 6001(f) of Pub. L. 99–509 provided that: “This section \[amending this section and section 8472 of thistitle, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title\], other than subsection (d) \[set out below\], and the amendments made by this section shall take effect on January 1, 1987.”
 
 #### Regulations
 
@@ -316,7 +324,7 @@ Section 6001(a)(3) of Pub. L. 99–509 directed that contributions made to Thrif
 
 #### Inapplicability of Limitation on Number of Elections Within a Six-Month Period
 
-Section 6001(c) of Pub. L. 99–509 provided that the requirement that contributions be made for a 6-month period after an election, as provided in 5 U.S.C. 8432(a), did not apply to contributions made pursuant to an election made during the period provided in 5 U.S.C. 8432(b)(4) or 206(b) of the Federal Employees’ Retirement System Act of 1986; that the first election period prescribed under 5 U.S.C. 8432(b)(1) commence on July 1, 1987; and that each employee or Member who madesuch an election could make an election under 5 U.S.C. 8432(b)(1) during the election period that began on July 1, 1987.
+Section 6001(c) of Pub. L. 99–509 provided that the requirement that contributions be made for a 6-month period after an election, as provided in 5 U.S.C. 8432(a), did not apply to contributions made pursuant to an election made during the period provided in 5 U.S.C. 8432(b)(4) or 206(b) of the Federal Employees’ Retirement System Act of 1986; that the first election period prescribed under 5 U.S.C. 8432(b)(1) commence on July 1, 1987; and that each employee or Member who made such an election could make an election under 5 U.S.C. 8432(b)(1) during the election period that began on July 1, 1987.
 
 #### Plan for Delayed Contributions to Thrift Savings Fund
 

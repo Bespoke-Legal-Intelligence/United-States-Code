@@ -12,7 +12,7 @@
 
 #### (3) Guam or American Samoa as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year from the Government of Guam, the Government of American Samoa, a political subdivision of either, or any instrumentality of any one or more of the foregoing which is wholly owned thereby, the Governor of Guam, the Governor of American Samoa, and each agent designated by either who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year from the Government of Guam, the Government of American Samoa, a political subdivision of either, or any instrumentality ofany one or more of the foregoing which is wholly owned thereby, the Governor of Guam, the Governor of American Samoa, and each agent designated by either who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (4) District of Columbia as employer
 

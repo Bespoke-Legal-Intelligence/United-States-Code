@@ -26,7 +26,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 #### (e) Disposition of seized cargo
 
-(1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or\(b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
+(1) Whenever any cargo or marine mammal or marine mammal product is seized pursuant to this section, the Secretary shall expedite any proceedings commenced under section 1375(a) or (b) of this title. All marine mammal or marine mammal products or other cargo so seized shall be held by any person authorized by the Secretary pending disposition of such proceedings. The owner or consignee of any such marine mammal or marine mammal product or other cargo so seized shall, as soon as practicable following such seizure, be notified of that fact in accordance with regulations established by the Secretary.
 
 (2) The Secretary may, with respect to any proceeding under section 1375(a) or (b) of this title, in lieu of holding any marine mammal or marine mammal product or other cargo, permit the person concerned to post bond or other surety satisfactory to the Secretary pending the disposition of such proceeding.
 
@@ -44,7 +44,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

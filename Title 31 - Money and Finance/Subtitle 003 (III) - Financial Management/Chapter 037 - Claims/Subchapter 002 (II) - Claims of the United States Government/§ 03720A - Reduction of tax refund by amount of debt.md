@@ -64,7 +64,7 @@ Section 6109 of the Internal Revenue Code of 1986, referred to in subsec. (h)(3)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+1996—Subsec. (a). Pub. L. 104–134, §31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec.\(a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
 
 Subsec. (h). Pub. L. 104–134, §31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
 

@@ -16,11 +16,11 @@
 
 &emsp;(3) his surviving spouse or children are entitled to dependency and indemnity compensation under chapter 13 of title 38 based upon his death.
 
-(c) An election may be changed or revoked by the elector before the first day for which retired or retainer pay is granted. Unless it is made on the basis of restored mental competency under section 1433 of this title, or unless it is made before the elector completes nineteen years of service for which he is entitled to credit in the computation of his basic pay (in which case only the latest change or revocation shall be effective), the change or revocation is not effective if it is made less than two years before the first day for which retired or retainer pay is granted. The elector may, however, before the first day for which retired or retainer pay is granted, change or revoke his election (provided the change does not increase the amount of the annuity elected) to reflect a change in the marital or dependency status of the member or his family that is caused by death, divorce, annulment,remarriage, or acquisition of a child, if such change or revocation of election is made within two years of such change in marital or dependency status.
+(c) An election may be changed or revoked by the elector before the first day for which retired or retainer pay is granted. Unless it is made on the basis of restored mental competency under section 1433 of this title, or unless it is made before the elector completes nineteen years of service for which he is entitled to credit in the computation of his basic pay (in which case only the latest change or revocation shall be effective), the change or revocation is not effective if it is made less than two years before the first day for which retired or retainer pay is granted. The elector may, however, before the first day for which retired or retainer pay is granted, change or revoke his election (provided the change does not increase the amount of the annuity elected) to reflect a change in the marital or dependency status of the member or his family that is caused by death, divorce, annulment, remarriage, or acquisition of a child, if such change or revocation of election is made within two years of such change in marital or dependency status.
 
 (d) If an election made under this section is found to be void for any reason except fraud or willful intent of the member making the election, he may make a corrected election at any time within 90 days after he is notified in writing that the election is void. A corrected election made under this subsection is effective as of the date of the voided election it replaces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 85–861, §33(a)(11), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–381, §2, Oct. 4, 1961, 75 Stat. 810; Pub. L. 90–485, §1(1), (2), Aug. 13, 1968, 82 Stat. 751; Pub. L. 96–513, title V, §511(55), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–145, title XIII, §1301(a)(2), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(17), Feb. 10, 1996, 110 Stat. 499.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 85–861, §33(a)(11), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–381, §2, Oct. 4, 1961, 75 Stat. 810; Pub. L. 90–485, §1(1), (2), Aug. 13, 1968, 82 Stat. 751; Pub.L. 96–513, title V, §511(55), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–145, title XIII, §1301(a)(2), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(17), Feb. 10, 1996, 110 Stat. 499.)
 
 Historical and Revision Notes<br>1956
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1968 Amendment
 
-Section 6 of Pub. L. 90–485 provided in part that: “Clause (1) and clause (6) of section 1 \[amending this section and section 1436 of this title\], and sections 2, 3, and 4 of this Act \[amending section 1331 \[now 12731\] of this title and enacting material set out as notes under this section\] are effective on the date of enactment \[Aug. 13, 1968\]. Remaining provisions of this Act \[amending this section and sections 1434, 1435, 1437, and 1446 of this title, and enacting provisions set out as a note under this section\] are effective on the first day of the third calendar month following the date of enactment.”
+Section 6 of Pub. L. 90–485 provided in part that: “Clause (1) and clause (6) of section 1 \[amending this section and section 1436 of this title\], and sections 2, 3, and 4 of this Act \[amending section 1331 \[now 12731\] ofthis title and enacting material set out as notes under this section\] are effective on the date of enactment \[Aug. 13, 1968\]. Remaining provisions of this Act \[amending this section and sections 1434, 1435, 1437, and 1446 of this title, and enacting provisions set out as a note under this section\] are effective on the first day of the third calendar month following the date of enactment.”
 
 #### Effective Date of 1958 Amendment
 
@@ -109,6 +109,10 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 #### Short Title of 1978 Amendment
 
 Section 1 of Pub. L. 95–397, Sept. 30, 1978, 92 Stat. 843, provided: “That this Act \[amending sections 1076, 1331 \[now 12731\], 1434, and 1447 to 1452 of this title and enacting provisions set out as notes under sections 1076, 1434, 1447, and 1448 of this title\] may be cited as the ‘Uniformed Services Survivors’ Benefits Amendments of 1978’.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Provisions Effective for Certain Members on August 13, 1968
 
@@ -166,7 +170,7 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Section Referred to in Other Sections
 

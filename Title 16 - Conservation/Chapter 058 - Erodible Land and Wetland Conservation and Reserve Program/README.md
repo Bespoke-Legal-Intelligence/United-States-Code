@@ -317,8 +317,9 @@ I74subpart a—conservation security program
 | :--- | ---: |
 | [3841\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003841%20-%20Commodity%20Credit%20Corporation.md) | Commodity Credit Corporation. |
 | (a) | In general. |
-| (b) | Section 714i of title 15. |
-| (c) | Regional equity. |
+| (b) | Technical assistance. |
+| (c) | Relationship to other law. |
+| (d) | Regional equity. |
 | [3842\.](Subchapter%20005%20%28V%29%20-%20Funding%20and%20Administration/%C2%A7%2003842%20-%20Delivery%20of%20technical%20assistance.md) | Delivery of technical assistance. |
 | (a) | In general. |
 | (b) | Certification of third-party providers. |

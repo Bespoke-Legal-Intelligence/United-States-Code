@@ -32,7 +32,7 @@ The Secretary shall ensure that the members of the committee have full and free 
 
 Members of the committee shall—
 
-&emsp;(1) be paid the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General schedule under section 5332 of title 5; and
+&emsp;(1) be paid the daily equivalent of the annual rate of basic pay payable for grade GS–18 ofthe General schedule under section 5332 of title 5; and
 
 &emsp;(2) be entitled (to the same extent as provided in section 5703 of such title, with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall prescribe regulations to ensure that themilitary departments and Defense Agencies establish a management information system capable of providing standardized information to the Secretary on persons serving in acquisition positions.
+In General.—The Secretary of Defense shall prescribe regulations to ensure that the military departments and Defense Agencies establish a management information system capable of providing standardized information to the Secretary on persons serving in acquisition positions.
 
 (b)
 

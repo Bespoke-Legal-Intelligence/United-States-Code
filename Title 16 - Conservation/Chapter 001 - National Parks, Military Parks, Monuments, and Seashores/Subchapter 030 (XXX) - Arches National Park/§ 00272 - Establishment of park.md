@@ -4,7 +4,7 @@
 
 #### (1) Initial boundaries
 
-&emsp;Subject to valid existing rights, the lands, waters, and interests therein within the boundary generally depicted on the map entitled “Boundary Map, Proposed Arches National Park, Utah,” numbered RPSSC–138–20,001E and dated September 1969, are hereby established as the Arches National Park (hereinafter referred to as the “park”).
+&emsp;Subject to valid existing rights, the lands, waters, and interests therein within the boundary generally depicted on the map entitled “Boundary Map, Proposed Arches National Park, Utah,” numbered RPSSC–138–20, 001E and dated September 1969, are hereby established as the Arches National Park (hereinafter referred to as the “park”).
 
 #### (2) Expanded boundaries
 

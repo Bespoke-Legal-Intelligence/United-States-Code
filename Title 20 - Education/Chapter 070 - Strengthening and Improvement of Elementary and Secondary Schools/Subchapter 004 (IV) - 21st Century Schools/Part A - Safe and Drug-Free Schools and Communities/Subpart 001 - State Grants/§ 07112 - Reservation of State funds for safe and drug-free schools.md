@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State educational agency may use not more than 3 percent of the amount made available to the State under section 7111(b) of this title for each fiscal year less theamount reserved under subsection (a) of this section, for State educational agency administrative costs, including the implementation of the uniform management information and reporting system as provided for under subsection (c)(3) of this section.
+&emsp;&emsp;A State educational agency may use not more than 3 percent of the amount made available to the State under section 7111(b) of this title for each fiscal year less the amount reserved under subsection (a) of this section, for State educational agency administrative costs, including the implementation of the uniform management information and reporting system as provided for under subsection (c)(3) of this section.
 
 #### (B) Additional amounts for the uniform management information system
 
@@ -88,7 +88,7 @@
 
 #### (B) Uses of funds
 
-&emsp;&emsp;A State may use funds described in subparagraphs (A) and (B) of subsection (b)(2) of this section, either directly or through grants and contracts, to implement the uniform management information and reporting system described in subparagraph (A), for the collection of information on—
+&emsp;&emsp;A State may use funds described in subparagraphs (A) and (B) of subsection (b)(2) ofthis section, either directly or through grants and contracts, to implement the uniform management information and reporting system described in subparagraph (A), for the collection of information on—
 
 &emsp;&emsp;&emsp;(i) truancy rates;
 

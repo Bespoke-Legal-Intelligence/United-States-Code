@@ -36,7 +36,7 @@ The provisions of subsection (a) of this section shall not apply to any individu
 
 There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
-&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
+&emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled tohospital insurance benefits under section 426 of this title solely by reason of this section,
 
 &emsp;(2) the additional administrative expenses resulting or expected to result therefrom, and
 

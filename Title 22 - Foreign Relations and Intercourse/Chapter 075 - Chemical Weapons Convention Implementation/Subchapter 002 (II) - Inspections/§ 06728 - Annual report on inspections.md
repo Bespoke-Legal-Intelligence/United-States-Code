@@ -30,3 +30,7 @@ The term “appropriate congressional committees” means the Committee on the J
 
 (Pub. L. 105–277, div. I, title III, §309, Oct. 21, 1998, 112 Stat. 2681–879.)
 
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.
+

@@ -48,7 +48,7 @@ Crossing a state line.—A person who travels across a State line or enters or l
 
 “(2)
 
-Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force,coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
+Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person's spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
 
 1996—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted “violate this subparagraph” for “violate subparagraph (A)”.
 

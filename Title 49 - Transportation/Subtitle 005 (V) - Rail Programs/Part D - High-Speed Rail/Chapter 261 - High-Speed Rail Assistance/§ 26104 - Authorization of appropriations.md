@@ -32,7 +32,7 @@ Fiscal Year 1999.—(1) There are authorized to be appropriated to the Secretary
 
 Fiscal Year 2000.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 2000, for carrying out section 26101 (including payment of administrative expenses related thereto).
 
-(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 2000, forcarrying out section 26102 (including payment of administrative expenses related thereto).
+(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 2000, for carrying out section 26102 (including payment of administrative expenses related thereto).
 
 (g)
 

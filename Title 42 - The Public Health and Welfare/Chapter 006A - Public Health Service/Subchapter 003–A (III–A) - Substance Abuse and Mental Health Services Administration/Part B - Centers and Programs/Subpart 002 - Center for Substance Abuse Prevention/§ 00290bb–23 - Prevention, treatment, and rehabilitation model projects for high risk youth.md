@@ -64,7 +64,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Head Start Act, referred to in subsec. (b)(1), is subchapter B (§§635–657) of chapter 8 of subtitle A oftitle VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (b)(1), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Codification
 

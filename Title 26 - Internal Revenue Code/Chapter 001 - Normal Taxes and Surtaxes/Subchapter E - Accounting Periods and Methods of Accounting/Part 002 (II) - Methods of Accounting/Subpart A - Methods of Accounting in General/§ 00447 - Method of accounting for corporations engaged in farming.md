@@ -78,7 +78,7 @@ For purposes of subsection (d)—
 
 &emsp;(2) stock owned, directly or indirectly, by or for a partnership or trust shall be treated as owned proportionately by its partners or beneficiaries, and
 
-&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraphreferred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
+&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
 
 > For purposes of paragraph (1), individuals related by the half blood or by legal adoption shall be treated as if they were related by the whole blood.
 
@@ -182,7 +182,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (3) Corporation must be engaged in farming
 
-&emsp;This subsection shall apply only in the case of a corporation which was, on October 4, 1976, and at all times thereafter, engaged in the trade or business of farming.
+&emsp;This subsection shall apply only in the case of a corporation which was, on October 4, 1976,and at all times thereafter, engaged in the trade or business of farming.
 
 #### (i) Suspense account for family corporations
 
@@ -338,7 +338,7 @@ Section 10205(d) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub.L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 

@@ -16,17 +16,21 @@ Ceremony.—A funeral honors detail shall, at a minimum, perform at the funeral 
 
 (d)
 
-Support.—To provide a funeral honors detail under this section, the Secretary of a military department may provide the following:
+Support.—(1) To support a funeral honors detail under this section, the Secretary of a military department may provide the following:
 
-&emsp;(1) Transportation, or reimbursement for transportation, and expenses for a person who participates in the funeral honors detail and is not a member of the armed forces or an employee of the United States.
+&emsp;(A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either transportation (or reimbursement for transportation) and expenses or the daily stipend prescribed under paragraph (2).
 
-&emsp;(2) Materiel, equipment, and training for members of a veterans organization or other organization referred to in subsection (b)(2).
+&emsp;(B) For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
 
-&emsp;(3) Articles of clothing for members of a veterans organization or other organization referred to in subsection (b)(2) that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
+&emsp;(C) For members of a veterans organization or other organization referred to in subsection (b)(2), articles of clothing that, as determined by the Secretary concerned, are appropriate as a civilian uniform for persons participating in a funeral honors detail.
+
+(2) The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses for persons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.
+
+(3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under section 435(a)(2) of title 37 and any other compensation to which the member may be entitled.
 
 (e)
 
-Waiver Authority.—(1) The Secretary of Defense may waive any requirement provided in or pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
+Waiver Authority.—(1) The Secretary of Defense may waive any requirement provided inor pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
 
 (2) Before or promptly after granting a waiver under paragraph (1), the Secretary shall transmit a notification of the waiver to the Committees on Armed Services of the Senate and House of Representatives.
 
@@ -54,9 +58,19 @@ Veteran Defined.—In this section, the term “veteran” means a decedent who�
 
 &emsp;(2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
 
-(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120.)
+(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556.)
 
 #### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–314, §571(1), designated existing provisions as par. (1) and substituted “ To support a” for “To provide a”. Former par. (1) redesignated (1)(A).
+
+Subsec. (d)(1)(A). Pub. L. 107–314, §571(2), redesignated par. (1) as subpar. (A) of par. (1) and amended it generally. Prior to amendment, text read as follows: “Transportation, or reimbursement for transportation, and expenses for a person who participates in the funeral honors detail and is not a member of the armed forces or an employee of the United States.”
+
+Subsec. (d)(1)(B). Pub. L. 107–314, §571(3), redesignated par. (2) as subpar. (B) of par. (1), substituted “For” for “Materiel, equipment, and training for”, and inserted “and for members of the armed forces in a retired status, materiel, equipment, and training” before period at end.
+
+Subsec. (d)(1)(C). Pub. L. 107–314, §571(4), redesignated par. (3) as subpar. (C) of par. (1), substituted “For” for “Articles of clothing for”, and inserted “, articles of clothing” after “subsection (b)(2)”.
+
+Subsec. (d)(2), (3). Pub. L. 107–314, §571(5), added pars. (2) and (3). Former pars. (2) and (3) redesignated subpars. (B) and (C), respectively, of par. (1).
 
 2001—Subsec. (b)(2). Pub. L. 107–107, §561(a), inserted “(other than members in a retired status)” after “members of the armed forces” in first sentence and inserted “(including members in a retired status),” after “members of the armed forces” in second sentence.
 
@@ -64,7 +78,7 @@ Subsec. (d)(3). Pub. L. 107–107, §564, added par. (3).
 
 1999—Pub. L. 106–65, §578(k)(1), substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” as section catchline.
 
-Subsec. (a). Pub. L. 106–65, §578(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of a military department shall, upon request, provide an honor guard detail (or ensure that an honor guard detail isprovided) for the funeral of any veteran that occurs after December 31, 1999.”
+Subsec. (a). Pub. L. 106–65, §578(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of a military department shall, upon request, provide an honor guard detail (or ensure that an honor guard detail is provided) for the funeral of any veteran that occurs after December 31, 1999.”
 
 Subsec. (b). Pub. L. 106–65, §578(b), substituted “Funeral Honors Details” for “Honor Guard Details” in subsec. (b) heading, designated existing provisions as par. (1), substituted “a funeral honors detail” for “an honor guard detail” and “two or more persons.” for “not less than three persons and (unless a bugler is part of the detail) has the capability to play a recorded version of Taps.”, redesignated subsec. (c) as subsec. (b)(2), struck out former subsec. (c) heading “Persons Forming Honor Guards”, and substituted “At least two members of the funeral honors detail for a veteran's funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail” for “An honor guard detail” and “Each member of the armed forces in the detail shall wear the uniform of the member's armed force while serving in the detail.” for “The Secretary of a military department may provide transportation, or reimbursement for transportation, and expenses for a person who participates in an honor guard detail under this section and is not a member of the armed forces or an employee of the United States.”
 
@@ -90,5 +104,5 @@ Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 1588, 12503, 12552 of this title; title 32 section 115.
+This section is referred to in sections 115, 1588, 12503, 12552 of this title; title 32 section 115; title 37 section 435.
 

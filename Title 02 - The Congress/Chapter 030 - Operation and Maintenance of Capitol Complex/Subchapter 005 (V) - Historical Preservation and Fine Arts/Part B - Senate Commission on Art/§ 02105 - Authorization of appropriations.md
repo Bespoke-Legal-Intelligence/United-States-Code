@@ -12,13 +12,9 @@ Section is based on section 5 of Senate Resolution No. 382, Ninetieth Congress, 
 
 #### Amendments
 
-2001—Pub. L. 107–68 substituted “such amount as may be necessary each fiscal year,” for “the sum of $15,000 each fiscal year,” and “the Executive Secretary of the Commission and approved by the Committee on Rules and Administration of the Senate” for “the Chairman or Vice Chairman of the Commission”.
+<b>2001</b>—Pub. L. 107–68 substituted “such amount as may be necessary each fiscal year,” for “the sum of $15,000 each fiscal year,” and “the Executive Secretary of the Commission and approved by the Committee on Rules and Administration of the Senate” for “the Chairman or Vice Chairman of the Commission”.
 
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–68 applicable to fiscal year 2002 and all succeeding fiscal years, see section 108(c) of Pub. L. 107–68, set out as a note under section 2103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2106 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Advisory Council on Public Welfare; appointment and functions of initial Council
 
-The Secretary shall, during 1964, appoint an Advisory Council on Public Welfare for the purpose of reviewing the administration of the public assistance and child welfare services programs for which funds are appropriated pursuant to this chapter and making recommendations for improvement of such administration, and reviewing the status of and making recommendations with respect to the public assistance programs for which funds are so appropriated, especially in relation to the old-age, survivors, and disability insurance program, with respect to the fiscal capacities of the States and the Federal Government, and with respect to any other matters bearing on the amount and proportion of the Federal and State shares in the public assistance and child welfare services programs.
+The Secretary shall, during 1964, appoint an Advisory Council on Public Welfare for the purpose of reviewing the administration of the public assistance and child welfare services programs for which funds are appropriated pursuant to this chapter and making recommendations for improvement of such administration, and reviewing the status of and making recommendations with respect to the public assistance programs for which funds are so appropriated, especially in relation to the old-age, survivors, and disability insurance program, with respect to the fiscal capacities of the States and the Federal Government, and with respect to any other matters bearing on the amount and proportionof the Federal and State shares in the public assistance and child welfare services programs.
 
 #### (b) Membership and representation of interests on initial Council
 
@@ -26,7 +26,7 @@ The Secretary may also appoint, without regard to the provisions of title 5 gove
 
 #### (g) Compensation and travel expenses
 
-Members of the Council or of any advisory committee appointed under this section who are not regular full-time employees of the United States shall, while serving on business of the Council or any such committee, be entitled toreceive compensation at rates fixed by the Secretary, but not exceeding $75 per day, including travel time; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
+Members of the Council or of any advisory committee appointed under this section who are not regular full-time employees of the United States shall, while serving on business of the Council or any such committee, be entitled to receive compensation at rates fixed by the Secretary, but not exceeding $75 per day, including travel time; and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in Government service employed intermittently.
 
 #### (h) Exemption from conflict of interest laws of members of Council or advisory committees; exceptions
 
@@ -38,23 +38,15 @@ Members of the Council or of any advisory committee appointed under this section
 
 &emsp;(B) during the period of such appointment, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter with which such person, during such period, is or was directly connected by reason of such appointment.
 
-#### (i) Nonvoting members and experts
-
-(1) Any advisory committee appointed under subsection (f) of this section to advise the Secretary on matters relating to the interpretation, application, or implementation of section 1395y(a)(1) of this title shall assure the full participation of a nonvoting member in the deliberations of the advisory committee, and shall provide such nonvoting member access to all information and data made available to voting members of the advisory committee, other than information that—
-
-&emsp;(A) is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section (relating to trade secrets); or
-
-&emsp;(B) the Secretary determines would present a conflict of interest relating to such nonvoting member.
-
-(2) If an advisory committee described in paragraph (1) organizes into panels of experts according to types of items or services considered by the advisory committee, any such panel of experts may report any recommendation with respect to such items or services directly to the Secretary without the prior approval of the advisory committee or an executive committee thereof.
-
-(Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170; Pub. L. 106–554, §1(a)(6) \[title V, §522(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–546.)
+(Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170; Pub. L. 106–554, §1(a)(6) \[title V, §522(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–546; Pub. L. 108–173, title IX, §948(a)(1)(A), Dec. 8, 2003, 117 Stat. 2425.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsecs. (b) and (f), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (i). Pub. L. 108–173 redesignated and transferred subsec. (i) of this section to subsec. (j) of section 1395y of this title.
 
 2000—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
@@ -67,6 +59,10 @@ Subsec. (h)(1). Pub. L. 98–369, §2663(e)(4)(B), substituted “sections 203, 
 1968—Subsecs. (b), (f). Pub. L. 90–248, §403(e)(1), (2), substituted “provisions of title 5, governing appointments in the competitive service” for “civil-service laws”.
 
 Subsec. (g). Pub. L. 90–248, §403(e)(3), substituted “section 5703 of title 5” for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title IX, §948(e), Dec. 8, 2003, 117 Stat. 2426, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1320c–3, 1395w–22, 1395y, and 1395ff of this title\] shall be effective as if included in the enactment of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted by section 1(a)(6) of Public Law 106–554\].”
 
 #### Effective Date of 2000 Amendment
 
@@ -87,8 +83,4 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1395y of this title.
 

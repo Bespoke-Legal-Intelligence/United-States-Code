@@ -20,7 +20,7 @@ Any permit issued under this section shall—
 
 &emsp;&emsp;(D) any other terms or conditions which the Secretary deems appropriate.
 
-> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first considerwhether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
+> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
 
 #### (c) Importation for scientific research, public display, or enhancing survival or recovery of species or stock
 
@@ -114,7 +114,7 @@ Any permit issued under this section shall—
 
 (ii) The Secretary shall not issue permits under this paragraph after September 30, 1996, if the Secretary determines, based on the scientific review, that the issuance of permits under this paragraph is having a significant adverse impact on the polar bear population stocks in Canada. The Secretary may review such determination annually thereafter, in light of the best scientific information available, and shall complete the review not later than January 31 in any year a review is undertaken. The Secretary may issue permits under this paragraph whenever the Secretary determines, on the basis of such annual review, that the issuance of permits under this paragraph is not having a significant adverse impact on the polar bear population stocks in Canada.
 
-(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2) of this section, issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before April 30, 1994, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
+(D) The Secretary of the Interior shall, expeditiously after the expiration of the applicable 30 day period under subsection (d)(2) of this section, issue a permit for the importation of polar bear parts (other than internal organs) from polar bears taken in sport hunts in Canada before February 18, 1997, to each applicant who submits, with the permit application, proof that the polar bear was legally harvested in Canada by the applicant. The Secretary shall issue such permits without regard to the provisions of subparagraphs (A) and (C)(ii) of this paragraph, subsection (d)(3) of this section, and sections 1371 and 1372 of this title. This subparagraph shall not apply to polar bear parts that were imported before June 12, 1997.
 
 (6) A permit may be issued for photography for educational or commercial purposes involving marine mammals in the wild only to an applicant which submits with its permit application information indicating that the taking will be limited to Level B harassment, and the manner in which the products of such activities will be made available to the public.
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
-(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, ifno hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
+(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
 (6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 
@@ -214,13 +214,15 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 (2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to the regulations issued pursuant to section 1413 of this title.
 
-(Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, §5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, §4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238; Pub. L. 106–31, title V, §5004(1), May 21, 1999, 113 Stat. 110.)
+(Pub. L. 92–522, title I, §104, Oct. 21, 1972, 86 Stat. 1034; Pub. L. 98–364, title I, §102, July 17, 1984, 98 Stat. 440; Pub. L. 100–711, §§4(d), 5(d), Nov. 23, 1988, 102 Stat. 4767, 4769; Pub. L. 103–238, §5(b), Apr. 30, 1994, 108 Stat. 537; Pub. L. 105–18, title V, §5004, June 12, 1997, 111 Stat. 187; Pub. L. 105–42, §4(d), Aug. 15, 1997, 111 Stat. 1125; Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–238; Pub. L. 106–31, title V, §5004(1), May 21, 1999, 113 Stat. 110; Pub. L. 108–108, title I, §149, Nov. 10, 2003, 117 Stat. 1281.)
 
 #### References in Text
 
 7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, known as the Animal Welfare Act, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 #### Amendments
+
+2003—Subsec. (c)(5)(D). Pub. L. 108–108, which directed the substitution of “February 18, 1997” for “April 30, 1994” in “Section 104 (16 U.S.C. 1374)” without indicating the act to be amended, was executed by amending this section, which is section 104 of the Marine Mammal Protection Act of 1972, to reflect the probable intent of Congress.
 
 1999—Subsec. (c)(5)(B). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
 
@@ -264,7 +266,7 @@ Section 5(c) of Pub. L. 103–238 provided that: “Any permit issued under sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 973g, 1371, 1372, 1373, 1383a, 1384, 1387, 1421d of this title; title 19 section 1466.
+This section is referred to in sections 973g, 1362, 1371, 1372, 1373, 1383a, 1384, 1387, 1421d of this title; title 19 section 1466.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

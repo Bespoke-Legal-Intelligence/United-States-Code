@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (4) Present holdings
 
-&emsp;(A)(i) In applying this section with respect to the holdings of any private foundation in a business enterprise, if such foundation and all disqualified persons together have holdings insuch enterprise in excess of 20 percent of the voting stock on May 26, 1969, the percentage of such holdings shall be substituted for “20 percent,” and for “35 percent” (if the percentage of such holdings is greater than 35 percent), wherever it appears in paragraph (2), but in no event shall the percentage so substituted be more than 50 percent.
+&emsp;(A)(i) In applying this section with respect to the holdings of any private foundation in a business enterprise, if such foundation and all disqualified persons together have holdings in such enterprise in excess of 20 percent of the voting stock on May 26, 1969, the percentage of such holdings shall be substituted for “20 percent,” and for “35 percent” (if the percentage of such holdings is greater than 35 percent), wherever it appears in paragraph (2), but in no event shall the percentage so substituted be more than 50 percent.
 
 &emsp;(ii) If the percentage of the holdings of any private foundation and all disqualified persons together in a business enterprise (or if the percentage of the holdings of the private foundation in such enterprise) decreases for any reason, clause (i) and subparagraph (D) shall, except as provided in the next sentence, be applied for all periods after such decrease by substituting such decreased percentage for the percentage held on May 26, 1969, but in no event shall the percentage substituted be less than 20 percent. For purposes of the preceding sentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as—
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;Except as provided in paragraph (5), if, after May 26, 1969, there is a change in the holdings in a business enterprise (other than by purchase by the private foundation or by a disqualified person) which causes the private foundation to have—
 
-&emsp;&emsp;(A) excess business holdings in such enterprise, the interest of the foundation in suchenterprise (immediately after such change) shall (while held by the foundation) be treated as held by a disqualified person (rather than by the foundation) during the 5-year period beginning on the date of such change in holdings; or
+&emsp;&emsp;(A) excess business holdings in such enterprise, the interest of the foundation in such enterprise (immediately after such change) shall (while held by the foundation) be treated as held by a disqualified person (rather than by the foundation) during the 5-year period beginning on the date of such change in holdings; or
 
 &emsp;&emsp;(B) an increase in excess business holdings in such enterprise (determined without regard to subparagraph (A)), subparagraph (A) shall apply, except that the excess holdings immediately preceding the increase therein shall not be treated, solely because of such increase, as held by a disqualified person (rather than by the foundation).
 

@@ -2,7 +2,7 @@
 
 #### (a) State contact persons
 
-Each State shall designate an individual to serve as a State contact person for the purpose of receiving and disseminating information and communications received from the Council, including the bimonthly bulletin described in section 11313(a)(7) of this title.
+Each State shall designate an individual to serve as a State contact person for the purposeof receiving and disseminating information and communications received from the Council, including the bimonthly bulletin described in section 11313(a)(7) of this title.
 
 #### (b) State interagency councils and lead agencies
 

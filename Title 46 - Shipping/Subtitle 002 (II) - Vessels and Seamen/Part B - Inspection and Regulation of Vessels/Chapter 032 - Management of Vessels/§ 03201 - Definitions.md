@@ -64,7 +64,7 @@ Policy.—
 
 &emsp;“(2) The Secretary shall provide opportunity for the public to participate in the development of the policy in paragraph (1).
 
-&emsp;“(3) Upon completion of the policy in paragraph (1), the Secretary shall publish the policy in the FederalRegister and provide opportunity for public comment on the policy.”
+&emsp;“(3) Upon completion of the policy in paragraph (1), the Secretary shall publish the policy in the Federal Register and provide opportunity for public comment on the policy.”
 
 #### Vessel Management Methods Study
 

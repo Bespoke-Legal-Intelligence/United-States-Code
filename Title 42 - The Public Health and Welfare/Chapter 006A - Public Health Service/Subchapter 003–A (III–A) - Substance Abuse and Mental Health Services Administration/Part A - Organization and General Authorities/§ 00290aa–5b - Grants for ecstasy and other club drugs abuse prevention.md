@@ -74,7 +74,7 @@ Pub. L. 106–310, div. B, title XXXVI, §3662, Oct. 17, 2000, 114 Stat. 1241, p
 
 &emsp;&emsp;“(A) penalties associated with the manufacture, distribution, and use of Ecstasy;
 
-&emsp;&emsp;“(B) the education of young people on the negative health effects of Ecstasy, since the reputationof Ecstasy as a ‘safe’ drug is the most dangerous component of Ecstasy;
+&emsp;&emsp;“(B) the education of young people on the negative health effects of Ecstasy, since the reputation of Ecstasy as a ‘safe’ drug is the most dangerous component of Ecstasy;
 
 &emsp;&emsp;“(C) the education of State and local law enforcement agencies regarding the growing problem of Ecstasy trafficking across the United States;
 

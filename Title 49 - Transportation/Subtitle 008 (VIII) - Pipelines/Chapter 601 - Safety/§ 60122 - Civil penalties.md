@@ -6,7 +6,7 @@ General Penalties.—(1) A person that the Secretary of Transportation decides, 
 
 (2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
 
-(3) A person violating section 60129, or an order issued thereunder, is liable to the Government for a civil penalty of not more than $1,000 for each violation. The penalties provided by paragraph (1) do not apply to a violation of section 60129 or an order issued thereunder.
+(3) A person violating section 60129, or an order issued thereunder, is liable to the Governmentfor a civil penalty of not more than $1,000 for each violation. The penalties provided by paragraph (1) do not apply to a violation of section 60129 or an order issued thereunder.
 
 (b)
 
@@ -146,27 +146,7 @@ Subsec. (b). Pub. L. 107–355, §8(b)(2), substituted “under this section—�
 
 #### Comptroller General Study
 
-Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, provided that:
-
-“(1)
-
-In general.—The Comptroller General shall conduct a study of the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines.
-
-“(2)
-
-Analysis.—In conducting the study, the Comptroller General shall examine, at a minimum, the following:
-
-&emsp;“(A) The frequency with which the Secretary has substituted corrective orders for fines and penalties.
-
-&emsp;“(B) Changes in the amounts of fines recommended by safety inspectors, assessed by the Secretary, and actually collected.
-
-&emsp;“(C) An evaluation of the overall effectiveness of the Secretary's enforcement strategy.
-
-&emsp;“(D) The extent to which the Secretary has complied with the report of the Government Accounting Office entitled ‘Pipeline Safety: The Office of Pipeline Safety is Changing How it Oversees the Pipeline Industry’.
-
-“(3)
-
-Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], the Comptroller General shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a report on the results of the study.”
+Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, required the Comptroller General to study the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines, and to report, not later than 1 year after Dec. 17, 2002, the results of the study to certain committees of Congress.
 
 #### Section Referred to in Other Sections
 

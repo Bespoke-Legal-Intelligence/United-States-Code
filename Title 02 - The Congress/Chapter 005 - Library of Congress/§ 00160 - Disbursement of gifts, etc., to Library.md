@@ -12,7 +12,7 @@ Section 163 of this title, referred to in text, was omitted from the Code.
 
 #### Amendments
 
-1997—Pub. L. 105–55 added second par.
+<b>1997</b>—Pub. L. 105–55 added second par.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

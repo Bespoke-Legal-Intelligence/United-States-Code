@@ -76,7 +76,7 @@ On a violation of the terms or conditions of an easement, rental agreement, or r
 
 &emsp;(1) the easement or rental agreement shall remain in force; and
 
-&emsp;(2) the Secretary may require the owner to refund all or part of any payments received bythe owner under this subpart, with interest on the payments as determined appropriate by the Secretary.
+&emsp;(2) the Secretary may require the owner to refund all or part of any payments received by the owner under this subpart, with interest on the payments as determined appropriate by the Secretary.
 
 (Pub. L. 99–198, title XII, §1238O, as added Pub. L. 107–171, title II, §2401, May 13, 2002, 116 Stat. 259.)
 

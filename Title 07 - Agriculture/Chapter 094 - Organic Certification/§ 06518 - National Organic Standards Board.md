@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a National Organic Standards Board (in accordance with the Federal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
+The Secretary shall establish a National Organic Standards Board (in accordance with theFederal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
 
 #### (b) Composition of Board
 
@@ -24,7 +24,7 @@ The Board shall be composed of 15 members, of which—
 
 #### (c) Appointment
 
-Not later than 180 days after November 28, 1990, the Secretary shall appoint the members of the Board under paragraph (1) through (6) of subsection (b) of this section (and under subsection (b)(7) of this section at an appropriate date after the certification of individuals as certifying agents under section 6515 of this title) from nominations received from organic certifyingorganizations, States, and other interested persons and organizations.
+Not later than 180 days after November 28, 1990, the Secretary shall appoint the members of the Board under paragraph (1) through (6) of subsection (b) of this section (and under subsection (b)(7) of this section at an appropriate date after the certification of individuals as certifying agents under section 6515 of this title) from nominations received from organic certifying organizations, States, and other interested persons and organizations.
 
 #### (d) Term
 
@@ -128,5 +128,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6503 of this title.
+This section is referred to in sections 6503, 6506 of this title.
 

@@ -22,7 +22,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (2) Loss
 
-&emsp;If subsection (a) would apply to an exchange but for the fact that the property received in exchange consists not only of property permitted by subsection (a) to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
+&emsp;If subsection (a) would apply to an exchange but for the fact that the property received inexchange consists not only of property permitted by subsection (a) to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
 
 #### (3) Treatment of transfers to creditors
 
@@ -98,5 +98,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 168, 197, 332, 341, 355, 357, 358, 367, 381, 1245, 1248, 1250, 6038B of this title.
+This section is referred to in sections 168, 197, 332, 355, 357, 358, 367, 381, 1245, 1248, 1250, 6038B of this title.
 

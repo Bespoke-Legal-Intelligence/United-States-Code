@@ -38,7 +38,7 @@
 
 (c) Eligibility for an annuity increase under this section is governed by the commencing date of each annuity payable from the Fund as of the effective date of an increase, except as follows:
 
-&emsp;(1) The first increase (if any) made under subsection (b) to an annuity which is payable from the Fund to an annuitant or survivor (other than a child under section 8443) whose annuity has not been increased under this subsection or subsection (b) shall be equal to the product (adjusted to the nearest one-tenth of 1 percent) of—
+&emsp;(1) The first increase (if any) made under subsection (b) to an annuity which is payablefrom the Fund to an annuitant or survivor (other than a child under section 8443) whose annuity has not been increased under this subsection or subsection (b) shall be equal to the product (adjusted to the nearest one-tenth of 1 percent) of—
 
 &emsp;&emsp;(A) one-twelfth of the applicable percent change computed under subsection (b), multiplied by
 

@@ -1,6 +1,6 @@
 ### §112. Protection of foreign officials, official guests, and internationally protected persons
 
-(a) Whoever assaults, strikes, wounds, imprisons, or offers violence to a foreign official, official guest, or internationally protected person or makes any other violent attack upon the person or liberty of such person, or, if likely to endanger his person or liberty, makes a violent attack upon his official premises, private accommodation, or means of transport or attempts tocommit any of the foregoing shall be fined under this title or imprisoned not more than three years, or both. Whoever in the commission of any such act uses a deadly or dangerous weapon, or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
+(a) Whoever assaults, strikes, wounds, imprisons, or offers violence to a foreign official, official guest, or internationally protected person or makes any other violent attack upon the person or liberty of such person, or, if likely to endanger his person or liberty, makes a violent attack upon his official premises, private accommodation, or means of transport or attempts to commit any of the foregoing shall be fined under this title or imprisoned not more than three years, or both. Whoever in the commission of any such act uses a deadly or dangerous weapon, or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
 
 (b) Whoever willfully—
 
@@ -68,7 +68,7 @@ Subsec. (a). Pub. L. 94–467 substituted “official guest, or internationally 
 
 Subsec. (b). Pub. L. 94–467 restructured subsec. (b) and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “internationally protected persons”, and struck out reference to section 1116(c) of this title. Former subsec. (c), which related to punishment for intimidating or harassing demonstrations against foreign officials or any combination of two or more persons for such purposes, within one hundred feet of any buildings or premises owned by a foreign government locatedwithin the United States but outside the District of Columbia, was struck out.
+Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “internationally protected persons”, and struck out reference to section 1116(c) of this title. Former subsec. (c), which related to punishment for intimidating or harassing demonstrations against foreign officials or any combination of two or more persons for such purposes, within one hundred feet of any buildings or premises owned by a foreign government located within the United States but outside the District of Columbia, was struck out.
 
 Subsecs. (d) to (f). Pub. L. 94–467 added subsecs. (e) and (f) and redesignated former subsecs. (d) and (e) as (c) and (d), respectively.
 

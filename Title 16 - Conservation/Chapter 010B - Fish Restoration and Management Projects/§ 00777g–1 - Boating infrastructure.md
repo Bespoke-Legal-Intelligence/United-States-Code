@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide funds to States for the development and maintenance of facilities for transient nontrailerable recreational vessels.
+The purpose of this section is to provide funds to States for the development and maintenanceof facilities for transient nontrailerable recreational vessels.
 
 #### (b) Omitted
 

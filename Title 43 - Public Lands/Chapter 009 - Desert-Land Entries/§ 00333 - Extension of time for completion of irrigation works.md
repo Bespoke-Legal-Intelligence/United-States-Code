@@ -12,7 +12,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Other Extension Periods
 
-Act June 24, 1921, ch. 28, 42 Stat. 66, provided that desert-land entries in certain townships in Riverside County, California, should not be canceled prior to May 1, 1923, for failure to make annual or final proof, that the requirements of the law should become operative from that date, and that a further extension might be granted.
+Act June 24, 1921, ch. 28, 42 Stat. 66, provided that desert-land entries in certain townships in Riverside County, California, should not be canceled prior to May1, 1923, for failure to make annual or final proof, that the requirements of the law should become operative from that date, and that a further extension might be granted.
 
 A further extension of time to make final proof on desert-land entries in the counties of Benton, Yakima, and Klickitat, in the State of Washington, was authorized by act Feb. 28, 1911, ch. 180, 36 Stat. 960.
 

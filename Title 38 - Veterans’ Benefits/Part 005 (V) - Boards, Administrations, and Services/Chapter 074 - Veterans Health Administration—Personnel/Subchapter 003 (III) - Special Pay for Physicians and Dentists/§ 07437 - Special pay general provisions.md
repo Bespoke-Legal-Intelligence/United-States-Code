@@ -20,7 +20,7 @@
 
 &emsp;(B) was employed as a physician or dentist on a full-time basis in the Administration on the day before such effective date; and
 
-&emsp;(C) on such effective date was being paid for no special-pay factors other than primary, full-time, length of service, and specialty or board certification.
+&emsp;(C) on such effective date was being paid for no special-pay factors other than primary,full-time, length of service, and specialty or board certification.
 
 (2) A physician or dentist shall be paid special pay under this subchapter at a rate not less than the rate of special pay the physician or dentist was paid under section 4118 of this title as of the day before the effective date of this subchapter if the physician or dentist—
 

@@ -30,6 +30,12 @@ Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this 
 
 Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
 
+#### Short Title of 2003 Amendments
+
+Pub. L. 108–155, §1, Dec. 3, 2003, 117 Stat. 1936, provided that: “This Act \[enacting section 355c of this title, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 355c of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42\] may be cited as the ‘Pediatric Research Equity Act of 2003’.”
+
+Pub. L. 108–130, §1, Nov. 18, 2003, 117 Stat. 1361, provided that: “This Act \[enacting sections 379j–11 and 379j–12 of this title and provisions set out as notes under section 379j–11 of this title\] may be cited as the ‘Animal Drug User Fee Act of 2003’.”
+
 #### Short Title of 2002 Amendments
 
 Pub. L. 107–281, §1, Nov. 6, 2002, 116 Stat. 1992, provided that: “This Act \[amending sections 360cc and 360ee of this title and enacting provisions set out as a note under section 360ee of this title\] may be cited as the ‘Rare Diseases Orphan Product Development Act of 2002’.”
@@ -44,7 +50,7 @@ Pub. L. 107–109, §1, Jan. 4, 2002, 115 Stat. 1408, provided that: “This Act
 
 Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: “This section \[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may be cited as the ‘Medicine Equity and Drug Safety Act of 2000’.”
 
-Pub. L. 106–387, §1(a) \[title VII, §746(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: “This section \[amending section 381 of this title and enacting provisions set out as a note under section 381 of this title\] may be cited as the ‘Prescription Drug Import Fairness Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title VII, §746(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: “This section\[amending section 381 of this title and enacting provisions set out as a note under section 381 of this title\] may be cited as the ‘Prescription Drug Import Fairness Act of 2000’.”
 
 #### Short Title of 1998 Amendment
 
@@ -66,7 +72,7 @@ Pub. L. 104–134, title II, §2101(a), Apr. 26, 1996, 110 Stat. 1321–313, pro
 
 #### Short Title of 1994 Amendments
 
-Pub. L. 103–417, §1(a), Oct. 25, 1994, 108 Stat. 4325, provided that: “This Act \[enacting sections 343–2 and 350bof this title and section 287c–11 of Title 42, The Public Health and Welfare, amending sections 321, 331, 342, 343, and 350 of this title and section 281 of Title 42, and enacting provisions set out as notes under sections 321 and 343 of this title\] may be cited as the ‘Dietary Supplement Health and Education Act of 1994’.”
+Pub. L. 103–417, §1(a), Oct. 25, 1994, 108 Stat. 4325, provided that: “This Act \[enacting sections 343–2 and 350b of this title and section 287c–11 of Title 42, The Public Health and Welfare, amending sections 321, 331, 342, 343, and 350 of this title and section 281 of Title 42, and enacting provisions set out as notes under sections 321 and 343 of this title\] may be cited as the ‘Dietary Supplement Health and Education Act of 1994’.”
 
 Pub. L. 103–396, §1, Oct. 22, 1994, 108 Stat. 4153, provided that: “This Act \[amending sections 331, 343–1, 360b, and 371 of this title and enacting provisions set out as notes under section 360b of this title\] may be cited as the ‘Animal Medicinal Drug Use Clarification Act of 1994’.”
 
@@ -120,7 +126,7 @@ Pub. L. 98–417, §1, Sept. 24, 1984, 98 Stat. 1585, provided: “That this Act
 
 Pub. L. 98–22, §1, Apr. 22, 1983, 97 Stat. 173, provided: “That this Act \[amending provisions set out as a note under section 348 of this title\] may be cited as the ‘Saccharin Study and Labeling Act Amendment of 1983’.”
 
-Pub. L. 97–414, §1(a), Jan. 4, 1983, 96 Stat. 2049, provided that: “This Act \[enacting part B of subchapter V of chapter 9 of this title, section 44H of Title 26, Internal Revenue Code, section 155 of Title 35, Patents, and sections 236, 255, and 298b–4 of Title 42, The Public Health and Welfare, amending sections 1274, 1472, 2055, 2060, 2064, 2068, and 2080 of Title 15, Commerce and Trade, section 904 of this title, sections 280C and 6096 of Title 26, and sections 209, 231, 242k, 242m, 243, 254c, 254j, 254m, 254<i>o</i>, 254p, 256, 294j, 295g–1, 295g–4, 295h, 295h–1a, 297–1, 300, 300a–1, 300a–3, 300b, 300e–1, 300m, 300n–5, 300q–2, 300u–5, 300w–3, 300x–1, 300x–4, 300y–11, 4577, and4588 of Title 42, enacting provisions set out as notes under section 360aa of this title, section 44H of Title 26, and sections 241, 255, 287i, and 300x–1 of Title 42, and repealing provisions set out as a note under section 300t–11 of Title 42\] may be cited as the ‘Orphan Drug Act’.”
+Pub. L. 97–414, §1(a), Jan. 4, 1983, 96 Stat. 2049, provided that: “This Act \[enacting part B of subchapter V of chapter 9 of this title, section 44H of Title 26, Internal Revenue Code, section 155 of Title 35, Patents, and sections 236, 255, and 298b–4 of Title 42, The Public Health and Welfare, amending sections 1274, 1472, 2055, 2060, 2064, 2068, and 2080 of Title 15, Commerce and Trade, section 904 of this title, sections 280C and 6096 of Title 26, and sections 209, 231, 242k, 242m, 243, 254c, 254j, 254m, 254<i>o</i>, 254p, 256, 294j, 295g–1, 295g–4, 295h, 295h–1a, 297–1, 300, 300a–1, 300a–3, 300b, 300e–1, 300m, 300n–5, 300q–2, 300u–5, 300w–3, 300x–1, 300x–4, 300y–11, 4577, and 4588 of Title 42, enacting provisions set out as notes under section 360aa of this title, section 44H of Title 26, and sections 241, 255, 287i, and 300x–1 of Title 42, and repealing provisions set out as a note under section 300t–11 of Title 42\] may be cited as the ‘Orphan Drug Act’.”
 
 #### Short Title of 1981 Amendment
 

@@ -24,7 +24,7 @@
 
 #### (b) Deputy Commissioner of Social Security
 
-(1) There shall be in the Administration a Deputy Commissioner of Social Security (in this subchapter referred to as the “Deputy Commissioner”) who shall be appointed by the President, by and with the advice and consent of the Senate.
+(1) There shall be in the Administration a Deputy Commissioner of Social Security (in thissubchapter referred to as the “Deputy Commissioner”) who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (2) The Deputy Commissioner shall be appointed for a term of 6 years, except that the initial term of office for the Deputy Commissioner shall terminate January 19, 2001. In any case in which a successor does not take office at the end of a Deputy Commissioner's term of office, such Deputy Commissioner may continue in office until the entry upon office of such a successor. A Deputy Commissioner appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term.
 
@@ -34,7 +34,7 @@
 
 #### (c) Chief Actuary
 
-(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in theactuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
+(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
 
 (2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
@@ -90,7 +90,7 @@ Pub. L. 101–508, title V, §5110, Nov. 5, 1990, 104 Stat. 1388–272, provided
 
 “(a)
 
-Required Minimum Level of Access to Local Offices.—In addition to such other access by telephone to offices of the Social Security Administration as the Secretary of Health and Human Services may consider appropriate, the Secretary shall maintain access by telephone to local offices of the Social Security Administration at the level of access generally available as of September 30, 1989.
+Required Minimum Level of Access to Local Offices.—In addition to such other access by telephoneto offices of the Social Security Administration as the Secretary of Health and Human Services may consider appropriate, the Secretary shall maintain access by telephone to local offices of the Social Security Administration at the level of access generally available as of September 30, 1989.
 
 “(b)
 

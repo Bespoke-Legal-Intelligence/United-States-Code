@@ -8,13 +8,13 @@ Claim for credit or refund of an overpayment of any tax imposed by this title in
 
 #### (1) Filing of claim within prescribed period
 
-&emsp;No credit or refund shall be allowed or made after the expiration of the period of limitation prescribed in subsection (a) for the filing of a claim for credit or refund, unless a claim for credit or refund is filed by the taxpayer within such period.
+&emsp;No credit or refund shall be allowed or made after the expiration of the period of limitationprescribed in subsection (a) for the filing of a claim for credit or refund, unless a claim for credit or refund is filed by the taxpayer within such period.
 
 #### (2) Limit on amount of credit or refund
 
 #### (A) Limit where claim filed within 3-year period
 
-&emsp;&emsp;If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the taxpaid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
+&emsp;&emsp;If the claim was filed by the taxpayer during the 3-year period prescribed in subsection (a), the amount of the credit or refund shall not exceed the portion of the tax paid within the period, immediately preceding the filing of the claim, equal to 3 years plus the period of any extension of time for filing the return. If the tax was required to be paid by means of a stamp, the amount of the credit or refund shall not exceed the portion of the tax paid within the 3 years immediately preceding the filing of the claim.
 
 #### (B) Limit where claim not filed within 3-year period
 
@@ -66,7 +66,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the allowance of a credit or refund of an overpayment of tax attributable to a net operating loss carryback or a capital loss carryback is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises), such credit or refund may be allowed or made, if claim therefor is filed within the period provided in subparagraph (A) of this paragraph.
+&emsp;&emsp;&emsp;If the allowance of a credit or refund of an overpayment of tax attributable to anet operating loss carryback or a capital loss carryback is otherwise prevented by the operation of any law or rule of law other than section 7122 (relating to compromises), such credit or refund may be allowed or made, if claim therefor is filed within the period provided in subparagraph (A) of this paragraph.
 
 #### (ii) Tentative carryback adjustments
 
@@ -110,7 +110,7 @@ If an agreement under the provisions of section 6501(c)(4) extending the period 
 
 #### (6) Special period of limitation with respect to amounts included in income subsequently recaptured under qualified plan termination
 
-&emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of the recapture, under section 4045 ofthe Employee Retirement Income Security Act of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
+&emsp;If the claim for credit or refund relates to an overpayment of tax imposed by subtitle A on account of the recapture, under section 4045 of the Employee Retirement Income Security Act of 1974, of amounts included in income for a prior taxable year, the 3-year period of limitation prescribed in subsection (a) shall be extended, for purposes of permitting a credit or refund of the amount of the recapture, until the date which occurs one year after the date on which such recaptured amount is paid by the taxpayer.
 
 #### (7) Special period of limitation with respect to self-employment tax in certain cases
 
@@ -164,7 +164,7 @@ In the case of any tax imposed by subtitle A with respect to any person which is
 
 &emsp;&emsp;<b>(7) For a period of limitations for refund of an overpayment of penalties imposed under section 6694 or 6695, see section 6696(d)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 808; Apr. 2, 1956, ch. 160, §4(e), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(6), 70 Stat. 397; Pub. L. 85–866, title I, §82, Sept. 2, 1958, 72 Stat. 1663; Pub. L. 86–280, §1(a), Sept. 16, 1959, 73 Stat. 563; Pub. L. 87–794, title III, §317(d), Oct. 11, 1962, 76 Stat. 891; Pub. L. 87–834, §2(e)(2), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§232(d), 239, Feb. 26, 1964, 78 Stat. 111, 128; Pub. L. 88–571, §3(c), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–331, §9(c), Nov. 8, 1965, 79 Stat. 1278; Pub. L. 90–225, §2(d), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(h), title III, §311(d)(3), title V, §512(e)(2), Dec. 30, 1969, 83 Stat. 525, 588, 640; Pub. L. 92–178, title VI, §601(d)(2), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title IV, §4401(b), formerly §4081(b), Sept. 2, 1974, 88 Stat. 1034, renumbered §4401(b), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–455, title XII, §1203(h)(3), title XIX, §1906(a)(33), title XXI, §2107(g)(2)(B), Oct. 4, 1976, 90 Stat. 1694, 1829, 1904; Pub. L. 95–30, title II, §202(d)(4)(B), May 23, 1977, 91 Stat. 149; Pub. L. 95–600, title II, §212(b)(1), title VII, §703(p)(3), Nov. 6, 1978, 92 Stat. 2819, 2944; Pub. L. 95–628, §8(a), (b), Nov. 10, 1978, 92 Stat. 3630, 3631; Pub. L. 96–222, title I, §§102(a)(2)(B), 108(b)(1)(B), Apr. 1, 1980, 94 Stat. 208, 226; Pub. L. 96–223, title I, §101(g)(2), Apr. 2, 1980, 94 Stat. 254; Pub. L. 96–598, §1(c), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–34, title II, §221(b)(2)(A), title III, §331(d)(2)(A), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–248, title IV, §402(c)(7), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §163(b)(2), title II, §211(b)(25), title IV, §474(r)(40), title VII, §§714(p)(2)(G), 735(c)(14), div. B, title VI, §2663(j)(5)(F), July 18, 1984, 98 Stat. 698, 757, 847, 965, 984, 1171; Pub. L. 99–514, title I, §141(b)(3), title II, §231(d)(3)(I), title XVIII, §1847(b)(15), Oct. 22, 1986, 100 Stat. 2117, 2180, 2857; Pub. L. 100–418, title I, §1941(b)(2)(I), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1017(c)(11), 1018(u)(21), (51), Nov. 10, 1988, 102 Stat. 3577, 3591, 3593; Pub. L. 101–508, title XI, §11801(c)(17)(B), (22)(C), Nov. 5, 1990, 104 Stat. 1388–527, 1388–528;Pub. L. 103–296, title I, §108(h)(8), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 105–34, title X, §1056(a), title XIV, §1454(b)(1), Aug. 5, 1997, 111 Stat. 945, 1056; Pub. L. 105–206, title III, §3202(a), July 22, 1998, 112 Stat. 740; Pub. L. 107–16, title V, §532(c)(11), June 7, 2001, 115 Stat. 75.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 808; Apr. 2, 1956, ch. 160, §4(e), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(6), 70 Stat. 397; Pub. L. 85–866, title I, §82, Sept. 2, 1958, 72 Stat. 1663; Pub. L. 86–280, §1(a), Sept. 16, 1959, 73 Stat. 563; Pub. L. 87–794, title III, §317(d), Oct. 11, 1962, 76 Stat. 891; Pub. L. 87–834, §2(e)(2), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§232(d), 239, Feb. 26, 1964, 78 Stat. 111, 128; Pub. L. 88–571, §3(c), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–331, §9(c), Nov. 8, 1965, 79 Stat. 1278; Pub. L. 90–225, §2(d), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title I, §101(h), title III, §311(d)(3), title V, §512(e)(2), Dec. 30, 1969, 83 Stat. 525, 588, 640; Pub. L. 92–178, title VI, §601(d)(2), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title IV, §4401(b), formerly §4081(b), Sept. 2, 1974, 88 Stat. 1034, renumbered §4401(b), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–455, title XII, §1203(h)(3), title XIX, §1906(a)(33), title XXI, §2107(g)(2)(B), Oct. 4, 1976, 90 Stat. 1694, 1829, 1904; Pub. L. 95–30, title II, §202(d)(4)(B), May 23, 1977, 91 Stat. 149; Pub. L. 95–600, title II, §212(b)(1), title VII, §703(p)(3), Nov. 6, 1978, 92 Stat. 2819, 2944; Pub. L. 95–628, §8(a), (b), Nov. 10, 1978, 92 Stat. 3630, 3631; Pub. L. 96–222, title I, §§102(a)(2)(B), 108(b)(1)(B), Apr. 1, 1980, 94 Stat. 208, 226; Pub. L. 96–223, title I, §101(g)(2), Apr. 2, 1980, 94 Stat. 254; Pub. L. 96–598, §1(c), Dec. 24, 1980, 94 Stat. 3486; Pub. L. 97–34, title II, §221(b)(2)(A), title III, §331(d)(2)(A), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 97–248, title IV, §402(c)(7), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, div. A, title I, §163(b)(2), title II, §211(b)(25), title IV, §474(r)(40), title VII, §§714(p)(2)(G), 735(c)(14), div. B, title VI,§2663(j)(5)(F), July 18, 1984, 98 Stat. 698, 757, 847, 965, 984, 1171; Pub. L. 99–514, title I, §141(b)(3), title II, §231(d)(3)(I), title XVIII, §1847(b)(15), Oct. 22, 1986, 100 Stat. 2117, 2180, 2857; Pub. L. 100–418, title I, §1941(b)(2)(I), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1017(c)(11), 1018(u)(21), (51), Nov. 10, 1988, 102 Stat. 3577, 3591, 3593; Pub. L. 101–508, title XI, §11801(c)(17)(B), (22)(C), Nov. 5, 1990, 104 Stat. 1388–527, 1388–528; Pub. L. 103–296, title I, §108(h)(8), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 105–34, title X, §1056(a), title XIV, §1454(b)(1), Aug. 5, 1997, 111 Stat. 945, 1056; Pub. L. 105–206, title III, §3202(a), July 22, 1998, 112 Stat. 740; Pub. L. 107–16, title V, §532(c)(11), June 7, 2001, 115 Stat. 75.)
 
 #### Amendment of Subsection (i)(2)
 
@@ -306,7 +306,7 @@ Subsec. (f)(6). Act June 29, 1956, added par. (6).
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers,after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1203(h)(3) of Pub. L. 94–455 applicable to documents prepared after Dec. 31, 1976, seesection 1203(j) of Pub. L. 94–455, set out as a note under section 7701 of this title.
+Amendment by section 1203(h)(3) of Pub. L. 94–455 applicable to documents prepared after Dec. 31, 1976, see section 1203(j) of Pub. L. 94–455, set out as a note under section 7701 of this title.
 
 Amendment by section 1906(a)(33) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;A Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a “remote location”) if—
 
-&emsp;&emsp;(A) the Customs Service is satisfied that the participant has the capabilities referredto in paragraph (2)(A) regarding such method of filing; and
+&emsp;&emsp;(A) the Customs Service is satisfied that the participant has the capabilities referred to in paragraph (2)(A) regarding such method of filing; and
 
 &emsp;&emsp;(B) the participant elects to file from the remote location.
 

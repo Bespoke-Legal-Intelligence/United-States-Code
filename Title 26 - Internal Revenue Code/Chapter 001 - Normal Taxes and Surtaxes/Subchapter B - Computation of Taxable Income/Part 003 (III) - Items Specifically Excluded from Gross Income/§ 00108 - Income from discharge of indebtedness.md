@@ -134,7 +134,7 @@
 
 #### (B) Overall limitation
 
-&emsp;&emsp;The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed the aggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge (other than depreciable real property acquired in contemplation of such discharge).
+&emsp;&emsp;The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed theaggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge (other than depreciable real property acquired in contemplation of such discharge).
 
 #### (3) Qualified real property business indebtedness
 
@@ -172,7 +172,7 @@
 
 #### (3) Insolvent
 
-&emsp;For purposes of this section, the term “insolvent” means the excess of liabilities overthe fair market value of assets. With respect to any discharge, whether or not the taxpayer is insolvent, and the amount by which the taxpayer is insolvent, shall be determined on the basis of the taxpayer's assets and liabilities immediately before the discharge.
+&emsp;For purposes of this section, the term “insolvent” means the excess of liabilities over the fair market value of assets. With respect to any discharge, whether or not the taxpayer is insolvent, and the amount by which the taxpayer is insolvent, shall be determined on the basis of the taxpayer's assets and liabilities immediately before the discharge.
 
 #### \[(4) Repealed. Pub. L. 99–514, title VIII, §822(b)(3)(A), Oct. 22, 1986, 100 Stat. 2373\]
 
@@ -378,7 +378,7 @@ For purposes of this title—
 
 &emsp;For purposes of this section, indebtedness of a taxpayer shall be treated as qualified farm indebtedness if—
 
-&emsp;&emsp;(A) such indebtedness was incurred directly in connection with the operation by the taxpayer of the trade or business of farming, and
+&emsp;&emsp;(A) such indebtedness was incurred directly in connection with the operation bythe taxpayer of the trade or business of farming, and
 
 &emsp;&emsp;(B) 50 percent or more of the aggregate gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the discharge of such indebtedness occurs is attributable to the trade or business of farming.
 
@@ -404,7 +404,7 @@ For purposes of this title—
 
 &emsp;&emsp;For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990,104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40.)
 
 #### Amendments
 
@@ -490,7 +490,7 @@ Subsec. (g). Pub. L. 100–647, §1004(a)(4), substituted “indebtedness” for
 
 “(1)
 
-In general.—For purposes of this section and section 1017, the discharge by a qualified person ofqualified farm indebtedness of a taxpayer who is not insolvent at the time of the discharge shall be treated in the same manner as if the discharge had occurred when the taxpayer was insolvent.
+In general.—For purposes of this section and section 1017, the discharge by a qualified person of qualified farm indebtedness of a taxpayer who is not insolvent at the time of the discharge shall be treated in the same manner as if the discharge had occurred when the taxpayer was insolvent.
 
 “(2)
 
@@ -578,7 +578,7 @@ Pub. L. 107–147, title IV, §402(b), Mar. 9, 2002, 116 Stat. 40, provided that
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by this section \[amending thissection\] shall apply to discharges of indebtedness after October 11, 2001, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to discharges of indebtedness after October 11, 2001, in taxable years ending after such date.
 
 “(2)
 
@@ -638,7 +638,7 @@ Exceptions.—The amendments made by this section shall not apply to any debt in
 
 &emsp;&emsp;“(iii) which is the subject of a subsequent filing with the Securities and Exchange Commission before January 1, 1991.”
 
-Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (asdefined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -676,7 +676,7 @@ In general.—Except as otherwise provided in this subsection, the amendment mad
 
 Transitional rule.—The amendment made by subsection (a) shall not apply to the transfer by a corporation of its stock in exchange for debt of the corporation after the date of the enactment of this Act if such transfer is—
 
-&emsp;“(A) pursuant to a written contract requiring such transfer which was binding on the corporation at alltimes on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
+&emsp;“(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
 
 &emsp;“(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was in effect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
 
@@ -726,7 +726,7 @@ In general.—Except as provided in paragraph (2), the amendments made by sectio
 
 &emsp;“(2)
 
-Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusion from gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
+Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusionfrom gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
 
 &emsp;&emsp;“(A) section 108(b)(2) of the such Code (relating to reduction of tax attributes), as so amended, shall be applied without regard to subparagraphs (A), (B), (C), and (E) thereof, and
 

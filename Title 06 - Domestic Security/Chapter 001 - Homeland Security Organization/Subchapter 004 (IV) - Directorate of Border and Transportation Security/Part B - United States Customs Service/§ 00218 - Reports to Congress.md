@@ -2,9 +2,7 @@
 
 #### (a) Continuing reports
 
-The United States Customs Service shall, on and after the effective date of this chapter, continue to submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate any report required, on the day before such the <sup>1</sup> effective date of this chapter, to be so submitted under any
-
-provision of law.
+The United States Customs Service shall, on and after the effective date of this chapter, continue to submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate any report required, on the day before such the <sup>1</sup> effective date of this chapter, to be so submitted under any provision of law.
 
 #### (b) Report on conforming amendments
 

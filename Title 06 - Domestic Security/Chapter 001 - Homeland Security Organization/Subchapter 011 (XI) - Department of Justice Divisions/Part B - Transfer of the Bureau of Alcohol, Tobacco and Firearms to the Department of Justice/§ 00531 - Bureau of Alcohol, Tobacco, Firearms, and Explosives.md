@@ -12,7 +12,7 @@
 
 #### (3) Coordination
 
-&emsp;The Attorney General, acting through the Director and such other officials of the Department of Justice as the Attorney General may designate, shall provide for the coordination of all firearms, explosives, tobacco enforcement, and arson enforcement functionsvested in the Attorney General so as to assure maximum cooperation between and among any officer, employee, or agency of the Department of Justice involved in the performance of these and related functions.
+&emsp;The Attorney General, acting through the Director and such other officials of the Department of Justice as the Attorney General may designate, shall provide for the coordination of all firearms, explosives, tobacco enforcement, and arson enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among any officer, employee, or agency of the Department of Justice involved in the performance of these and related functions.
 
 #### (4) Performance of transferred functions
 

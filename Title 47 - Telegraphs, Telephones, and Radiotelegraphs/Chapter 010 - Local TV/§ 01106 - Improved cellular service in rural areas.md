@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) reinstate each applicant as a tentative selectee under the covered rural service area licensing proceeding; and
 
-&emsp;&emsp;(B) permit each applicant to amend its application, to the extent necessary to update factual information and to comply with the rules of the Commission, at any time before the Commission's final licensing action in the covered rural service area licensing proceeding.
+&emsp;&emsp;(B) permit each applicant to amend its application, to the extent necessary to update factual information and to comply with the rules of the Commission, at any time beforethe Commission's final licensing action in the covered rural service area licensing proceeding.
 
 #### (2) Exemption from petitions to deny
 

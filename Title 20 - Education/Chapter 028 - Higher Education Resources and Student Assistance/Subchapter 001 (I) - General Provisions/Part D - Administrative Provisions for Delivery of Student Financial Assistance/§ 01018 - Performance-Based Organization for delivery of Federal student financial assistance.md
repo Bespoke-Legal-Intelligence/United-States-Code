@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) design and technical specifications for software development and systems supporting the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
-&emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the delivery and management of student financial assistance undersubchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the delivery and management of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;&emsp;&emsp;(iv) all aspects of contracting for the information and financial systems supporting student financial assistance programs under this subchapter; and
 
@@ -74,7 +74,7 @@
 
 #### (B) Revisions to agreement
 
-&emsp;&emsp;The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) of this section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
+&emsp;&emsp;The Secretary and the Chief Operating Officer may revise the annual performance agreement described in subsection (d)(4) ofthis section in light of policy, market, or other changes that occur after the Secretary and the Chief Operating Officer enter into the agreement.
 
 #### (c) Performance plan and report
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(E) Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
 
-&emsp;&emsp;(F) Other such information as the Director of the Office of Management and Budgetshall prescribe for performance based organizations.
+&emsp;&emsp;(F) Other such information as the Director of the Office of Management and Budget shall prescribe for performance based organizations.
 
 #### (3) Consultation with stakeholders
 
@@ -200,7 +200,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A senior manager appointed under this subsection may be paid at an annual rate of basic pay of not more than the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of such title. The compensation of a senior manager shall be considered for purposes of section 207(c)(2)(A) of title 18 to be the equivalent ofthat described under clause (ii) of section 207(c)(2)(A) of such title.
+&emsp;&emsp;A senior manager appointed under this subsection may be paid at an annual rate of basic pay of not more than the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of such title. The compensation of a senior manager shall be considered for purposes of section 207(c)(2)(A) of title 18 to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of such title.
 
 #### (B) Bonus
 

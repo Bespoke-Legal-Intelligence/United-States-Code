@@ -2,7 +2,7 @@
 
 (a)
 
-Requirements in Connection With Conversion to Contractor Performance.—With respect to each contract converting the performance of a service or function of the Department of Defense to contractor performance (and any extension of such a contract), the Secretary of Defense shall collect, during the term of the contract or extension, but not to exceed five years, cost information data regarding performance of the service or function by private contractor employees.
+Requirements in Connection With Conversion to Contractor Performance.—Withrespect to each contract converting the performance of a service or function of the Department of Defense to contractor performance (and any extension of such a contract), the Secretary of Defense shall collect, during the term of the contract or extension, but not to exceed five years, cost information data regarding performance of the service or function by private contractor employees.
 
 (b)
 

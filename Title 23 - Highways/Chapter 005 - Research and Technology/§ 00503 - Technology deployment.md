@@ -26,7 +26,7 @@ Design.—Each of the goals and the program developed to achieve the goals shall
 
 &emsp;&emsp;(C)
 
-Strategies for achievement.—For each goal, the Secretary, in cooperation with representatives of the transportation community such as States, local governments, the private sector, and academia, shall use domestic and international technology to develop strategies and initiativesto achieve the goal, including technical assistance in deploying technology and mechanisms for sharing information among program participants.
+Strategies for achievement.—For each goal, the Secretary, in cooperation with representatives of the transportation community such as States, local governments, the private sector, and academia, shall use domestic and international technology to develop strategies and initiatives to achieve the goal, including technical assistance in deploying technology and mechanisms for sharing information among program participants.
 
 &emsp;(4)
 
@@ -82,7 +82,7 @@ Goals.—The goals of the program shall include—
 
 &emsp;&emsp;(E) the development of cost-effective and innovative techniques to separate vehicle and pedestrian traffic from railroad traffic;
 
-&emsp;&emsp;(F) the development of highway bridges and structures that will withstand natural disasters, including alternative processes for the seismic retrofit of bridges; and
+&emsp;&emsp;(F) the development of highway bridges and structures that will withstand naturaldisasters, including alternative processes for the seismic retrofit of bridges; and
 
 &emsp;&emsp;(G) the development of new nondestructive bridge evaluation technologies and techniques.
 

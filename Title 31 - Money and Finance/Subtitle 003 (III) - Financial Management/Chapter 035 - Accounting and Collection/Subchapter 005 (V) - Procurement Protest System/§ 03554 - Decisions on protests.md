@@ -26,7 +26,7 @@
 
 (2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
-(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of theprocuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
+(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
 
 (c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may recommend that the Federal agency conducting the procurement pay to an appropriate interested party the costs of—
 
@@ -52,7 +52,7 @@
 
 (e)(1) The Comptroller General shall report promptly to the Committee on Governmental Affairs and the Committee on Appropriations of the Senate and to the Committee on Government Reform and Oversight and the Committee on Appropriations of the House of Representatives any case in which a Federal agency fails to implement fully a recommendation of the Comptroller General under subsection (b) or (c). The report shall include—
 
-&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implement a recommendation of the Comptroller General; and
+&emsp;(A) a comprehensive review of the pertinent procurement, including the circumstances of the failure of the Federal agency to implementa recommendation of the Comptroller General; and
 
 &emsp;(B) a recommendation regarding whether, in order to correct an inequity or to preserve the integrity of the procurement process, the Congress should consider—
 

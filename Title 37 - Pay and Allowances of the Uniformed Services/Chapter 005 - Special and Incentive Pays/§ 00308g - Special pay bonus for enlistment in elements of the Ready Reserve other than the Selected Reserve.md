@@ -46,5 +46,5 @@ Section 1011(c) of Pub. L. 98–94 provided that: “The amendments made by subs
 
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable
 
-Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L. 98–525 and Individual Ready Reserve Reenlistment Bonuses note above inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
+Reserve Forces Readiness provisions, including amendment of subsec. (b) of this section by Pub. L.98–525 and Individual Ready Reserve Reenlistment Bonuses note above inapplicable to Coast Guard, see section 552(g) of Pub. L. 98–525, set out as a Reserve Forces Readiness note under section 12001 of Title 10, Armed Forces.
 

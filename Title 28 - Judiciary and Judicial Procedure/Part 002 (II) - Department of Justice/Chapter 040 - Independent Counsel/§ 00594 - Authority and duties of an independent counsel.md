@@ -42,7 +42,7 @@ Travel to primary office.—
 
 &emsp;&emsp;(A)
 
-In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extended for successive 6-month periods if the independent counsel and the division of thecourt certify that the payment is in the public interest to carry out the purposes of this chapter.
+In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extended for successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
 
 &emsp;&emsp;(B)
 
@@ -58,7 +58,7 @@ Relevant factors.—In making any certification under this paragraph with respec
 
 (c)
 
-Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants). The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
+Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants).The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
 
 (d)
 
@@ -188,7 +188,7 @@ Records provided by congress.—Records of an investigation conducted by a commi
 
 &emsp;&emsp;(A) shall be maintained as a separate body of records within the records of the independent counsel; and
 
-&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records of the House of Congress that provided the records to the independent counsel.
+&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records ofthe House of Congress that provided the records to the independent counsel.
 
 > &emsp;Subparagraph (B) shall not apply to those records which have been surrendered pursuant to grand jury or court proceedings.
 
@@ -246,7 +246,7 @@ Subsec. (c). Pub. L. 103–270, §3(c), substituted last sentence for former las
 
 Subsec. (d)(1). Pub. L. 103–270, §3(m), inserted at end “At the request of an independent counsel, prosecutors, administrative personnel, and other employees of the Department of Justice may be detailed to the staff of the independent counsel.”
 
-Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply”for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (<i>l</i>)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
+Subsec. (f). Pub. L. 103–270, §3(e), designated existing provisions as par. (1) and inserted heading, substituted “shall, except to the extent that to do so would be inconsistent with the purposes of this chapter, comply” for “shall, except where not possible, comply”, inserted at end “To determine these policies and policies under subsection (<i>l</i>)(1)(B), the independent counsel shall, except to the extent that doing so would be inconsistent with the purposes of this chapter, consult with the Department of Justice.”, and added par. (2).
 
 Subsec. (h)(1)(B). Pub. L. 103–270, §3(<i>o</i>), struck out before period at end “, and the reasons for not prosecuting any matter within the prosecutorial jurisdiction of such independent counsel”.
 

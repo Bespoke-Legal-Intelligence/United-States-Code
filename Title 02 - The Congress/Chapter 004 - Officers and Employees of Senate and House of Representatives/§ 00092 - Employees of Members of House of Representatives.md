@@ -54,11 +54,11 @@ A prior section 92, acts Jan. 25, 1923, ch. 43, 42 Stat. 1217; July 25, 1939, ch
 
 #### Amendments
 
-1999—Pub. L. 106–57, §103(b)(2), struck out “Clerk hire” before “Employees” in section catchline.
+<b>1999</b>—Pub. L. 106–57, §103(b)(2), struck out “Clerk hire” before “Employees” in section catchline.
 
 Subsec. (a). Pub. L. 106–57, §103(b)(1), struck out “clerk hire” before “employees” in two places in introductory provisions.
 
-1997—Subsec. (c)(2). Pub. L. 105–55 struck out “in the District of Columbia” after “office of the Member”.
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–55 struck out “in the District of Columbia” after “office of the Member”.
 
 #### Change of Name
 

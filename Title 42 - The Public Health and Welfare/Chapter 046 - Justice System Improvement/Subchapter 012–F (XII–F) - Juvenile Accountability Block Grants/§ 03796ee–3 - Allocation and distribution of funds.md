@@ -12,7 +12,7 @@
 
 #### (2) Prohibition
 
-&emsp;No funds allocated to a State under this subsection or received by a State for distribution under subsection (b) of this section may be distributed by the Attorney General or by the State involved for any program other than a program contained in an approved application.
+&emsp;No funds allocated to a State under this subsection or received by a State for distributionunder subsection (b) of this section may be distributed by the Attorney General or by the State involved for any program other than a program contained in an approved application.
 
 #### (b) Local distribution
 
@@ -76,7 +76,7 @@ If under this section a unit of local government is allocated less than $10,000 
 
 #### (2) Award basis
 
-&emsp;In addition to the qualification requirements for direct grants for specially qualifiedunits the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
+&emsp;In addition to the qualification requirements for direct grants for specially qualified units the Attorney General may use the average amount allocated by the States to units of local government as a basis for awarding grants under this section.
 
 (Pub. L. 90–351, title I, §1803, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1863.)
 

@@ -48,7 +48,7 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Reference to Subsection (d) Deemed Reference to (c)
 

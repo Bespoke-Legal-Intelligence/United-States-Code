@@ -19,13 +19,22 @@
 | \[6426. | Repealed.\] |
 | [6427\.](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md) | Fuels not used for taxable purposes. |
 | [6428\.](%C2%A7%2006428%20-%20Acceleration%20of%2010%20percent%20income%20tax%20rate%20bracket%20benefit%20for%202001.md) | Acceleration of 10 percent income tax rate bracket benefit for 2001. |
-| \[6429, 6430. Repealed.\] |  |
+| [6429\.](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md) | Advance payment of portion of increased child credit for 2003. |
+| \[6430. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 107 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note set out under section 1 of this title.</i>
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
+
 #### Amendments
 
-2001—Pub. L. 107–16, title I, §101(b)(2), June 7, 2001, 115 Stat. 43, added item 6428.
+2003—Pub. L. 108–27, title I, §§101(b)(2), 107, May 28, 2003, 117 Stat. 754, 755, temporarily added item 6429.
+
+2001—Pub. L. 107–16, title I, §101(b)(2), title IX, §901, June 7, 2001, 115 Stat. 43, 150, temporarily added item 6428.
 
 1990—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–528, struck out item 6418 “Sugar” and item 6428 “1981 rate reduction tax credit”.
 
@@ -88,4 +97,5 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06426 - Repealed. Pub. L. 97&#8211;248, title II, &sect;280(c)(2)(G), Sept. 3, 1982, 96 Stat. 564](%C2%A7%2006426%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93248%2C%20title%20II%2C%20%C2%A7280%28c%29%282%29%28G%29%2C%20Sept.%203%2C%201982%2C%2096%20Stat.%20564.md)
 - [&sect; 06427 - Fuels not used for taxable purposes](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md)
 - [&sect; 06428 - Acceleration of 10 percent income tax rate bracket benefit for 2001](%C2%A7%2006428%20-%20Acceleration%20of%2010%20percent%20income%20tax%20rate%20bracket%20benefit%20for%202001.md)
-- [&sect; 06429, 6430 - Repealed. Pub. L. 100&#8211;418, title I, &sect;1941(b)(1), Aug. 23, 1988, 102 Stat. 1323](%C2%A7%2006429%2C%206430%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20I%2C%20%C2%A71941%28b%29%281%29%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201323.md)
+- [&sect; 06429 - Advance payment of portion of increased child credit for 2003](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md)
+- [&sect; 06430 - Repealed. Pub. L. 100&#8211;418, title I, &sect;1941(b)(1), Aug. 23, 1988, 102 Stat. 1323](%C2%A7%2006430%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20I%2C%20%C2%A71941%28b%29%281%29%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201323.md)

@@ -433,7 +433,6 @@ I74subpart 1—general provisions
 | (b) | Training. |
 | (c) | In general. |
 | (d) | Reallotment. |
-| (e) | Transition rules. |
 | 796f–1. | Grants to centers for independent living in States in which Federal funding exceeds State funding. |
 | (a) | Establishment. |
 | (b) | Eligible agencies. |

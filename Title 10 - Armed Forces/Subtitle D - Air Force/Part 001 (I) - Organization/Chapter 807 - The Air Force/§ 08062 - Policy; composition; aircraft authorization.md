@@ -20,7 +20,7 @@
 
 &emsp;(2) all persons appointed or enlisted in, or conscripted into, the Air Force without component; and
 
-&emsp;(3) all Air Force units and other Air Force organizations, with their installations and supporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
+&emsp;(3) all Air Force units and other Air Force organizations, with their installations andsupporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
 
 (e) Subject to subsection (f) of this section, chapter 831 of this title, and the strength authorized by law pursuant to section 115 of this title, the authorized strength of the Air Force is 70 Regular Air Force groups and such separate Regular Air Force squadrons, reserve groups, and supporting and auxiliary regular and reserve units as required.
 

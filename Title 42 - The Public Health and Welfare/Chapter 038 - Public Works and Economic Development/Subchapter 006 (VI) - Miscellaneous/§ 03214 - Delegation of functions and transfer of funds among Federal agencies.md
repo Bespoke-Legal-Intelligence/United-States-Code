@@ -16,7 +16,7 @@ Funds authorized to be appropriated to carry out this chapter may be transferred
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for the purposes of this chapter, the Secretary may accept transfers of funds from other Federal agencies if the funds are used for the purposes for which (and in accordance with the terms under which) thefunds are specifically authorized and appropriated.
+&emsp;Subject to paragraph (2), for the purposes of this chapter, the Secretary may accept transfers of funds from other Federal agencies if the funds are used for the purposes for which (and in accordance with the terms under which) the funds are specifically authorized and appropriated.
 
 #### (2) Use of funds
 

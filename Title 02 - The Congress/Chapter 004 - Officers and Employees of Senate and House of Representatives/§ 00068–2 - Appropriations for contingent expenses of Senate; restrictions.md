@@ -12,9 +12,9 @@ Section was formerly classified to section 671 of Title 31 prior to the general 
 
 #### Amendments
 
-1996—Pub. L. 104–186 amended provisions relating to appropriations for expenses of House. See Codification note above.
+<b>1996</b>—Pub. L. 104–186 amended provisions relating to appropriations for expenses of House. See Codification note above.
 
 #### Transfer of Functions
 
-“General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to actJune 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
+“General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
 

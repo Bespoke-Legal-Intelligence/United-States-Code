@@ -42,7 +42,7 @@ Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in t
 
 Subsec. (b). Pub. L. 105–261, §617(a)(4), redesignated subsec. (d) as (b).
 
-Pub. L. 105–261, §617(a)(2), struck out heading and text of subsec. (b). Text read as follows: “Appropriations of the Department of Defense may not be paid, as hardship duty location pay under subsection (a), to a member of a uniformed service who is a resident of a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, PuertoRico, the Virgin Islands, that possession, or that foreign country, as the case may be.”
+Pub. L. 105–261, §617(a)(2), struck out heading and text of subsec. (b). Text read as follows: “Appropriations of the Department of Defense may not be paid, as hardship duty location pay under subsection (a), to a member of a uniformed service who is a resident of a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, Puerto Rico, the Virgin Islands, that possession, or that foreign country, as the case may be.”
 
 Subsec. (c). Pub. L. 105–261, §617(a)(2), struck out heading and text of subsec. (c). Text read as follows: “A member receiving special pay under section 305a of this title may not be paid hardship duty location pay under subsection (a) for the same period of service.”
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 95–485, §804(b)(1)(B), added subsec. (c).
 
 1963—Pub. L. 88–132 substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in section catchline.
 
-Subsec. (a). Pub. L. 88–132 designated existing provisions as cl. (1) and substituted provisions of cl. (2) permitting special pay for an enlisted member of a uniformed service while on duty at a designated place outside the contiguous 48 States and the District of Columbia for former provision entitling such member to special pay while on duty in any place outside the United States, or in Alaska or Hawaii.
+Subsec. (a). Pub. L. 88–132 designated existing provisions as cl. (1) and substituted provisions of cl. (2) permitting special pay for an enlisted member of a uniformed service while on duty at a designated place outside the contiguous 48 States and the District of Columbia for former provision entitling such member tospecial pay while on duty in any place outside the United States, or in Alaska or Hawaii.
 
 Subsec. (b). Pub. L. 88–132 substituted “a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, Puerto Rico, the Virgin Islands, that possession, or that foreign country” for “Alaska, Hawaii, Puerto Rico, the Virgin Islands, or a possession, unless that member is serving in an area outside Alaska, Hawaii, the Virgin Islands, or a possession, of which he is a resident”.
 
@@ -116,13 +116,9 @@ Section 619(e) of Pub. L. 105–85 provided that: “Until such time as the Secr
 
 Section 804(c) of Pub. L. 95–485 provided that: “Any individual who on September 30, 1978, is an enlisted member of a uniformed service shall be eligible to receive special pay under section 305(a)(1) of title 37, United States Code, as in effect on September 30, 1978, for any period of sea duty performed by such individual during the period beginning on October 1, 1978, and ending on September 30, 1981, for which such individual does not receive special pay under section 305a of such title (as added by subsection (a)).”
 
-#### Regulations Relating to Special Pay
-
-Regulations relating to special pay for sea duty and duty at certain places, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, set out as a note under section 301 of this title.
-
 #### Executive Order No. 10168
 
-Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R. 4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, set out as a note under section 301 of this title.
+Ex. Ord. No. 10168, Oct. 11, 1950, 15 F.R. 6877, as amended by Ex. Ord. No. 10821, May 20, 1959, 24 F.R. 4123; Ex. Ord. No. 10989, Jan. 23, 1962, 27 F.R. 727; Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631, which concerned regulations relating to special pay for sea duty and duty at certain places, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ Section 514(e) of Pub. L. 99–145 provided that:
 
 #### Transition Provisions Covering 1980 Amendments by Defense Officer Personnel Management Act \[Pub. L. 96–513\]
 
-Parts A to C of title VI of Pub. L. 96–513, as amended by Pub. L. 97–22, §8(a)–(n), July 10, 1981, 95 Stat. 132–135;Pub. L. 97–86, title IV, §405(d)(1), (2)(A), (e), (f), Dec. 1, 1981, 95 Stat. 1106, eff. Sept. 15, 1981; Pub. L. 98–525, title V, §§530–532, Oct. 19, 1984, 98 Stat. 2527; Pub. L. 100–456, div. A, title V, §503, Sept. 29, 1988, 102 Stat. 1967, provided that:
+Parts A to C of title VI of Pub. L. 96–513, as amended by Pub. L. 97–22, §8(a)–(n), July 10, 1981, 95 Stat. 132–135; Pub. L. 97–86, title IV, §405(d)(1), (2)(A), (e), (f), Dec. 1, 1981, 95 Stat. 1106, eff. Sept. 15, 1981; Pub. L. 98–525, title V, §§530–532, Oct. 19, 1984, 98 Stat. 2527; Pub. L. 100–456, div. A, title V, §503, Sept. 29, 1988, 102 Stat. 1967, provided that:
 
 #### “TITLE VI—TRANSITION PROVISIONS
 
@@ -86,7 +86,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 > shall while continuing on active duty retain such temporary grade and shall be considered for promotion under chapter 36 of title 10, United States Code, as added by this Act, to a grade equal to or lower than his reserve grade as if such temporary grade is a permanent grade. If such officer is recommended for promotion under such chapter to such a grade, his appointment to such grade shall be a temporary appointment.
 
-“(c)(1) Any delay of a promotion of an officer referred to in clause (B) of subsection (a)(1) that was in effect on September 14, 1981, under the laws and regulations in effect on such date shall continue in effect on and after September 15, 1981, as if such promotion has been delayed under section 624(d) of title 10, United States Code, as added by this Act.
+“(c)(1) Any delay of a promotion of an officer referred to in clause (B) of subsection (a)(1) that was in effect onSeptember 14, 1981, under the laws and regulations in effect on such date shall continue in effect on and after September 15, 1981, as if such promotion has been delayed under section 624(d) of title 10, United States Code, as added by this Act.
 
 “(2) Any action to remove from a promotion list the name of an officer referred to in clause (B) of subsection (a)(1) that was initiated before September 15, 1981, under the laws and regulations in effect before such date shall continue on and after such date as if such removal action had been initiated under section 629 of title 10, United States Code, as added by this Act.
 
@@ -102,7 +102,7 @@ I74“regular officers serving in a higher temporary grade below lieutenant gene
 
 “(b)(1)(A) An officer described in subsection (a) who is recommended for promotion by the selection board which considers him pursuant to such subsection shall be considered to have been recommended for promotion to the next higher regular grade or the grade in which he is serving, whichever grade is higher, by a board convened under section 611(a) of title 10, United States Code, as added by this Act. Notwithstanding section 741(d) of title 10, United States Code, as added by this Act, the date of rank of an officer referred to in the preceding sentence who was serving in the temporary grade equivalent to the grade to which he is considered to have been recommended for promotion and who is promoted to that grade is the date of his temporary appointment in that grade.
 
-“(2) An officer described in subsection (a) who is not recommended for promotion by such board shall, unless continued on active duty under section 637 of suchtitle, as added by this Act, be retired, if eligible to retire, be discharged, or be continued on active duty until eligible to retire and then be retired, under the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\].
+“(2) An officer described in subsection (a) who is not recommended for promotion by such board shall, unless continued on active duty under section 637 of such title, as added by this Act, be retired, if eligible to retire, be discharged, or be continued on active duty until eligible to retire and then be retired, under the laws applicable on the day before the effective date of this Act \[Sept. 15, 1981\].
 
 #### “regular officers twice failed of selection for promotion
 
@@ -424,7 +424,7 @@ I74“officers serving in a temporary grade below vice admiral or lieutenant gen
 
 #### “certain navy lieutenants holding temporary appointments in the grade of lieutenant commander
 
-“Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointmentin the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
+“Sec. 617. Any officer who on the effective date of this Act \[Sept. 15, 1981\] holds a temporary appointment in the grade of lieutenant commander under section 5787d of title 10, United States Code, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 5721 of such title, as added by this Act.
 
 #### “director of budget and reports of the navy
 
@@ -474,7 +474,7 @@ I74“establishment of initial active-duty lists
 
 #### “officers serving in grades above major general or rear admiral
 
-“Sec. 623. (a) Any officer who on the day before the effective date of this Act \[Sept. 15, 1981\] held a temporary appointment in the grade of lieutenant general or general under section 3066, 5232, or 8066 of title 10, United States Code, or a temporary appointment in the grade of vice admiral or admiral under section 5231 of such title, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 601 of such title, as added by this Act.
+“Sec. 623. (a) Any officer who on the day before the effective date of this Act \[Sept. 15, 1981\] held a temporary appointment in the grade of lieutenant general or general under section 3066, 5232, or 8066 of title 10, United States Code, or a temporary appointment in thegrade of vice admiral or admiral under section 5231 of such title, shall on and after such date be considered to be serving in such grade as if such appointment had been made under section 601 of such title, as added by this Act.
 
 “(b)(1) Any designation of a position as a position of importance and responsibility made by the President under section 3066 or 8066 of title 10, United States Code, before the effective date of this Act \[Sept. 15, 1981\], shall remain in effect, unless changed by the President, as a designation of such position as a position of importance and responsibility under section 601 of such title, as added by this Act.
 
@@ -490,7 +490,7 @@ I74“establishment of initial active-duty lists
 
 &emsp;“(2) all subsequent active commissioned service of such officer.
 
-“(b) In the case of an officer subject to placement on the active-duty list on September 15, 1981, for whom no means of computing service creditable in determining whether the officer is subject to involuntary retirement or discharge existed under the law in effect on the day before the effective date of this Act \[Sept. 15, 1981\],the amount of creditable service of such officer for such purpose for the period before the effective date of this Act shall be determined under regulations prescribed by the Secretary of the military department concerned, except that such an officer may not be credited with an amount of service less than the amount of his active commissioned service.
+“(b) In the case of an officer subject to placement on the active-duty list on September 15, 1981, for whom no means of computing service creditable in determining whether the officer is subject to involuntary retirement or discharge existed under the law in effect on the day before the effective date of this Act \[Sept. 15, 1981\], the amount of creditable service of such officer for such purpose for the period before the effective date of this Act shall be determined under regulations prescribed by the Secretary of the military department concerned, except that such an officer may not be credited with an amount of service less than the amount of his active commissioned service.
 
 #### “savings provision for constructive service previously granted
 
@@ -524,7 +524,7 @@ I74“establishment of initial active-duty lists
 
 “Sec. 628. (a) A member of the Army, Navy, Air Force, or Marine Corps who—
 
-&emsp;“(1) on the day before the effective date of this Act \[Sept. 15, 1981\] had a permanent status as an enlisted member or as a warrant officer (or had a statutory right to be enlisted or to be appointed as a warrant officer) and was serving as an officer under a temporary appointment; and
+&emsp;“(1) on the day before the effective date of this Act \[Sept. 15, 1981\] had a permanent status as an enlistedmember or as a warrant officer (or had a statutory right to be enlisted or to be appointed as a warrant officer) and was serving as an officer under a temporary appointment; and
 
 &emsp;“(2) on or after the effective date of this Act and before completing 10 years of commissioned service for purposes of retirement eligibility under section 3911, 6323, or 8911 of title 10, United States Code, completes 20 years of total service, as determined under section 1405 of such title,
 
@@ -536,7 +536,7 @@ I74“establishment of initial active-duty lists
 
 #### “exemption of certain officers from selective early retirement provisions
 
-“Sec. 630. An officer of the Army, Navy, Air Force, or Marine Corps who was recommended for continuation on the active list under the Act entitled ‘An Act to provide improved opportunity for promotion for certain officers in the naval service, and for other purposes’, approved August 11, 1959 (Public Law 86–155; 10 U.S.C. 5701 note), or under section 10 of the Act entitled ‘An Act relating to the promotion and separation of certain officers of the regular components of the armed forces’, approved July 12, 1960 (Public Law 86–616; 10 U.S.C. 3297 note), is not subject to section 638 of title 10, UnitedStates Code, as added by this Act, relating to selective early retirement.
+“Sec. 630. An officer of the Army, Navy, Air Force, or Marine Corps who was recommended for continuation on the active list under the Act entitled ‘An Act to provide improved opportunity for promotion for certain officers in the naval service, and for other purposes’, approved August 11, 1959 (Public Law 86–155; 10 U.S.C. 5701 note), or under section 10 of the Act entitled ‘An Act relating to the promotion and separation of certain officers of the regular components of the armed forces’, approved July 12, 1960 (Public Law 86–616; 10 U.S.C. 3297 note), is not subject to section 638 of title 10, United States Code, as added by this Act, relating to selective early retirement.
 
 #### “savings provision for entitlement to readjustment pay or severance pay under prior provisions of law
 
@@ -616,5 +616,5 @@ Sec. 634. Unless entitled to a higher grade under any other provision of law, a 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 612, 614, 615, 616, 617, 618, 619, 622, 623, 624, 627, 628, 631, 637, 638, 638a, 688, 1558, 5150, 6383 of this title.
+This section is referred to in sections 612, 614, 615, 616, 617, 618, 619, 622, 623, 624, 627, 628, 631, 637, 638, 638a, 688, 991, 1558, 5150, 6383 of this title.
 

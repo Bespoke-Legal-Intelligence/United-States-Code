@@ -37,7 +37,7 @@
 
 #### SUBCHAPTER II—LOANS, PARITY PAYMENTS, CONSUMER SAFEGUARDS, MARKETING QUOTAS, AND MARKETING CERTIFICATES
 
-#### Part A—Definitions, Loans, Parity Payments, And Consumer Safeguards
+#### Part A—Definitions, Loans, Parity Payments, and Consumer Safeguards
 
 |  |  |
 | :--- | ---: |
@@ -348,9 +348,9 @@ I74subpart i—marketing quotas—tobacco
 
 #### subpart vi—marketing quotas—peanuts
 
-|  |  |
-| :--- | ---: |
-| 1357 to 1359a. | Repealed. |
+|  |
+| :--- |
+| 1357 to 1359a. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -440,7 +440,7 @@ I74subpart i—publication and review of quotas
 | [1375\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20C%20-%20Administrative%20Provisions/Subpart%20002%20%28ii%29%20-%20Adjustment%20of%20Quotas%20and%20Enforcement/%C2%A7%2001375%20-%20Regulations.md) | Regulations. |
 | [1376\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20C%20-%20Administrative%20Provisions/Subpart%20002%20%28ii%29%20-%20Adjustment%20of%20Quotas%20and%20Enforcement/%C2%A7%2001376%20-%20Court%20jurisdiction%3B%20duties%20of%20United%20States%20attorneys%3B%20remedies%20and%20penalties%20as%20additional.md) | Court jurisdiction; duties of United States attorneys; remedies and penalties as additional. |
 | [1377\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20C%20-%20Administrative%20Provisions/Subpart%20002%20%28ii%29%20-%20Adjustment%20of%20Quotas%20and%20Enforcement/%C2%A7%2001377%20-%20Preservation%20of%20unused%20acreage%20allotments.md) | Preservation of unused acreage allotments. |
-| [1378\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20C%20-%20Administrative%20Provisions/Subpart%20002%20%28ii%29%20-%20Adjustment%20of%20Quotas%20and%20Enforcement/%C2%A7%2001378%20-%20Transfer%20of%20acreage%20allotments%20ensuing%20from%20agency%20acquisition%20of%20farmlands.md) | Transfer of acreage allotments ensuing from agency acquisition of farm lands. |
+| [1378\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20C%20-%20Administrative%20Provisions/Subpart%20002%20%28ii%29%20-%20Adjustment%20of%20Quotas%20and%20Enforcement/%C2%A7%2001378%20-%20Transfer%20of%20acreage%20allotments%20ensuing%20from%20agency%20acquisition%20of%20farmlands.md) | Transfer of acreage allotments ensuing from agency acquisition of farmlands. |
 | (a) | Allotment pool. |
 | (b) | Circumstances precluding application of provisions. |
 | (c) | Time of displacement determining application of provisions. |

@@ -24,7 +24,7 @@ The total number of positions in the Administration (other than positions establ
 
 &emsp;(1) are held by noncareer appointees (within the meaning of section 3132(a)(7) of title 5) in the Senior Executive Service, or
 
-&emsp;(2) have been determined by the President or the Office of Personnel Management to be of a confidential, policy-determining, policy-making, or policy-advocating character and have been excepted from the competitive service thereby,
+&emsp;(2) have been determined by the President or the Office of Personnel Management to be of aconfidential, policy-determining, policy-making, or policy-advocating character and have been excepted from the competitive service thereby,
 
 > may not exceed at any time the equivalent of 20 full-time positions.
 

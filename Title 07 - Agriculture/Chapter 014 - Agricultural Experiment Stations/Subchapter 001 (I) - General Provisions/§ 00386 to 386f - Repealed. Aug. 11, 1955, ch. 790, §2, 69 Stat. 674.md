@@ -8,5 +8,5 @@ Sections 386d to 386f, acts Mar. 4, 1931, ch. 499, §§1–3, 46 Stat. 1520, 152
 
 #### Existing Rights and Liabilities
 
-Any rights or liabilities existing under sections 386 to 386f as unaffected by repeal, see section 2 of act Aug. 11, 1955, set out as a note under former section 361 of this title.
+Any rights or liabilities existing under sections 386 to 386f as unaffected by repeal, see section 2 of act Aug. 11,1955, set out as a note under former section 361 of this title.
 

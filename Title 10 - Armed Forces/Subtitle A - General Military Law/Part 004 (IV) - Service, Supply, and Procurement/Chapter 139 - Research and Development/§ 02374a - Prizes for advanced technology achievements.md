@@ -6,7 +6,7 @@ Authority.—The Secretary of Defense, acting through the Director of the Defens
 
 (b)
 
-Competition Requirements.—The program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of researchresults, technology developments, and prototypes.
+Competition Requirements.—The program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
 
 (c)
 
@@ -20,7 +20,7 @@ Relationship to Other Authority.—The program under subsection (a) may be carri
 
 (e)
 
-Annual Report.—Promptly after the end of each fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the program for that fiscal year. The report shall include the following:
+Annual Report.—Promptly after the end of each fiscal year during which one or more prizes are awarded under the program under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the program for that fiscal year. The report shall include the following:
 
 &emsp;(1) The military applications of the research, technology, or prototypes for which prizes were awarded.
 
@@ -30,7 +30,13 @@ Annual Report.—Promptly after the end of each fiscal year, the Secretary shall
 
 (f)
 
-Period of Authority.—The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2003.
+Period of Authority.—The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2007.
 
-(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552.)
+(Added Pub. L. 106–65, div. A, title II, §244(a), Oct. 5, 1999, 113 Stat. 552; amended Pub. L. 107–314, div. A, title II, §248(a), Dec. 2, 2002, 116 Stat. 2502; Pub. L. 108–136, div. A, title X, §1031(a)(20), Nov. 24, 2003, 117 Stat. 1598.)
+
+#### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 inserted “during which one or more prizes are awarded under the program under subsection (a)” after “each fiscal year” in introductory provisions.
+
+2002—Subsec. (f). Pub. L. 107–314 substituted “September 30, 2007” for “September 30, 2003”.
 

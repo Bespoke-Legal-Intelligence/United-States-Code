@@ -28,6 +28,10 @@ Authority To Accept Services.—Subject to subsection (b) and notwithstanding se
 
 &emsp;(5) Legal services voluntarily provided as legal assistance under section 1044 of this title.
 
+&emsp;(6) Voluntary services as a proctor for administration to secondary school students of the test known as the “Armed Services Vocational Aptitude Battery”.
+
+&emsp;(7) Voluntary translation or interpretation services offered with respect to a foreign language by a person (A) who is registered for such foreign language on the National Foreign Language Skills Registry under section 1596b of this title, or (B) who otherwise is approved to provide voluntary translation or interpretation services for national security purposes, as determined by the Secretary of Defense.
+
 (b)
 
 Requirements and Limitations.—(1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -88,11 +92,17 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 (3) To carry out this subsection, the Secretary concerned may use appropriated funds (notwithstanding section 1348 of title 31) or nonappropriated funds of the military department under the jurisdiction of the Secretary or, with respect to the Coast Guard, the department in which the Coast Guard is operating.
 
-(4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation shall prescribe regulations to carry out this subsection.
+(4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125.)
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654.)
 
 #### Amendments
+
+2002—Subsec. (a)(6). Pub. L. 107–314, §553, added par. (6).
+
+Subsec. (a)(7). Pub. L. 107–314, §1064(b), added par. (7).
+
+Subsec. (f)(4). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (a)(5). Pub. L. 107–107, §583(a), added par. (5).
 
@@ -115,6 +125,10 @@ Subsec. (f). Pub. L. 106–65, §371(a), added subsec. (f).
 1986—Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, added subsec. (c).
 
 1985—Subsec. (a). Pub. L. 99–145 substituted “Secretary concerned” and “operated by the military department concerned or the Coast Guard, as appropriate” for “Secretary of a military department” and “operated by that military department”, respectively.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1987 Amendment
 

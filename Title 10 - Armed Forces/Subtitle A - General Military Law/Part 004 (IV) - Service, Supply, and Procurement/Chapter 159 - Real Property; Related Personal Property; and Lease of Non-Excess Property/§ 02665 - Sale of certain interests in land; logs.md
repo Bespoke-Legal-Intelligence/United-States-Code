@@ -2,7 +2,7 @@
 
 (a) The President, through an executive department, may sell to any person or foreign government any interest in land that is acquired under section 2664 of this title for the production of lumber or timber products, except land under the control of the Department of the Army or the Department of the Air Force.
 
-(b) The President, through an executive department, may sell to any person or foreign government any forest products produced on land owned or leased by a military department or the Department of Transportation.
+(b) The President, through an executive department, may sell to any person or foreign government any forest products produced on land owned or leased by a military department or the Department in which the Coast Guard is operating.
 
 (c) Sales under subsection (a) or (b) shall be at prices determined by the President acting through the selling agency.
 
@@ -30,7 +30,7 @@
 
 (3) The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, §610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, §511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, §12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, §910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, §1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, §809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, §4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, §1704(b)(4), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes<br>1956
 
@@ -60,7 +60,7 @@ July 9, 1918, ch. 143, subch. XV, §8 (last par.), 40 Stat. 888.
 
 50:172 (91st through 109th words of last par.).
 
-In subsection (a), the words “an executive department or the Federal Maritime Board” are substituted for the words “any department or the United States Maritime Commission” to reflect an opinion of the Judge Advocate General of the Army (JAGA 1954/1723) and to name the successor of the United States Maritime Commission. The last 18 words are inserted to reflect that opinion (see the Act of February 20, 1931 (10 U.S.C. 1354)). The words “and dispose of” are omitted as surplusage.
+In subsection (a), the words “an executive department or the Federal Maritime Board” are substitutedfor the words “any department or the United States Maritime Commission” to reflect an opinion of the Judge Advocate General of the Army (JAGA 1954/1723) and to name the successor of the United States Maritime Commission. The last 18 words are inserted to reflect that opinion (see the Act of February 20, 1931 (10 U.S.C. 1354)). The words “and dispose of” are omitted as surplusage.
 
 In subsection (b), the words “an executive department or the Federal Maritime Board” are inserted for clarity and to name the successor of the United States Maritime Commission.
 
@@ -73,6 +73,8 @@ In subsection (c), the words “the selling agency” are substituted for the wo
 This corrects an error in an amendment to 10:2665 made by section 12(3)(B) of the Maritime Act of 1981 (Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 153).
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–296 substituted “Department in which the Coast Guard is operating” for “Department of Transportation”.
 
 1986—Subsec. (d). Pub. L. 99–561, §4(1), struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
 
@@ -104,6 +106,10 @@ Subsec. (e). Pub. L. 97–99 added subsec. (e).
 
 1977—Subsec. (d). Pub. L. 95–82 substituted provisions relating to reimbursement of production expenses during any fiscal year from proceeds from sales for property during such fiscal year, for provisions requiring proceeds from sales under subsecs. (a) or (b) of this section to be credited to the appropriations under which the property concerned was procured.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1984 Amendment
 
 Section 809(b) of Pub. L. 98–407 provided that:
@@ -119,6 +125,10 @@ Section 910(b) of Pub. L. 97–99 provided that: “Subsection (e) of section 26
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

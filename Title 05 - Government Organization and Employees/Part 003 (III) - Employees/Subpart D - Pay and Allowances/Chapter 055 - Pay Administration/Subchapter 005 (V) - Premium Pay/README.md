@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 5304, 5371, 5520a, 5926 of this title; title 10 sections 4338, 6952, 9338; title 22 section 3972.
+This subchapter is referred to in sections 5304, 5371, 5520a, 5926, 9902 of this title; title 10 sections 4338, 6952, 9338; title 22 section 3972.
 
 
 ---

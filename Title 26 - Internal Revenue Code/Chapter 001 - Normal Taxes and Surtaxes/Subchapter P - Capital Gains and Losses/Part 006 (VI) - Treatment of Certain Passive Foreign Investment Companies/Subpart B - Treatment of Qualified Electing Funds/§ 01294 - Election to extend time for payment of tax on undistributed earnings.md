@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;At the election of the taxpayer, the time for payment of any undistributed PFIC earnings tax liability of the taxpayer for the taxable year shall be extended to the extent and subject to the limitations provided in this section.
+&emsp;At the election of the taxpayer, the time for payment of any undistributed PFIC earningstax liability of the taxpayer for the taxable year shall be extended to the extent and subject to the limitations provided in this section.
 
 #### (2) Election not permitted where amounts otherwise includible under section 551 or 951
 
@@ -88,7 +88,7 @@ Subsec. (g). Pub. L. 100–647, §1012(p)(8), added subsec. (g).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

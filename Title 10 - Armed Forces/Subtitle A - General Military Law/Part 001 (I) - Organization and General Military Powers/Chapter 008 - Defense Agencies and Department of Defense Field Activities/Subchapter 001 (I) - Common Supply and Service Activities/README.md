@@ -7,10 +7,13 @@
 | [193\.](%C2%A7%2000193%20-%20Combat%20support%20agencies%20oversight.md) | Combat support agencies: oversight. |
 | [194\.](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md) | Limitations on personnel. |
 | [195\.](%C2%A7%2000195%20-%20Defense%20Automated%20Printing%20Service%20applicability%20of%20Federal%20printing%20requirements.md) | Defense Automated Printing Service: applicability of Federal printing requirements. |
+| [196\.](%C2%A7%2000196%20-%20Department%20of%20Defense%20Test%20Resource%20Management%20Center.md) | Department of Defense Test Resource Management Center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title II, §231(a)(2), Dec. 2, 2002, 116 Stat. 2489, added item 196.
 
 1997—Pub. L. 105–85, div. A, title III, §383(b), Nov. 18, 1997, 111 Stat. 1711, added item 195.
 
@@ -32,3 +35,4 @@
 - [&sect; 00193 - Combat support agencies oversight](%C2%A7%2000193%20-%20Combat%20support%20agencies%20oversight.md)
 - [&sect; 00194 - Limitations on personnel](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md)
 - [&sect; 00195 - Defense Automated Printing Service applicability of Federal printing requirements](%C2%A7%2000195%20-%20Defense%20Automated%20Printing%20Service%20applicability%20of%20Federal%20printing%20requirements.md)
+- [&sect; 00196 - Department of Defense Test Resource Management Center](%C2%A7%2000196%20-%20Department%20of%20Defense%20Test%20Resource%20Management%20Center.md)

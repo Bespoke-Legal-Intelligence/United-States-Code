@@ -46,7 +46,7 @@ Limitation to One Allowance.—If primary dependents of a member reside separate
 
 Service Not Covered.—(1) A cost-of-living allowance may not be paid a member under this section for the days authorized for travel of the member in connection with a permanent change of duty station.
 
-(2) A member of a reserve component is not eligible for a cost-of-living allowance under thissection unless the member is on active duty under a call or order to active duty that—
+(2) A member of a reserve component is not eligible for a cost-of-living allowance under this section unless the member is on active duty under a call or order to active duty that—
 
 &emsp;(A) specifies a period of 140 days or more; or
 
@@ -78,7 +78,7 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term “uniformed services cost of living” means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
 
-&emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable to use of such military facilities as commissary stores and exchange stores).
+&emsp;&emsp;(A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable touse of such military facilities as commissary stores and exchange stores).
 
 &emsp;&emsp;(B) Average income tax paid.
 

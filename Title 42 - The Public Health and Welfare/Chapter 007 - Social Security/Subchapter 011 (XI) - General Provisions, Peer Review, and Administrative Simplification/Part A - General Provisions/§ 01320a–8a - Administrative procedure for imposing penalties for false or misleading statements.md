@@ -46,7 +46,7 @@ In this section, the term “benefits under subchapter VIII or XVI of this chapt
 
 The Commissioner of Social Security shall consult with the Inspector General of the Social Security Administration regarding initiating actions under this section.
 
-(Aug. 14, 1935, ch. 531, title XI, §1129A, as added Pub. L. 106–169, title II, §207(a), Dec. 14, 1999, 113 Stat. 1837; amended Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74.)
+(Aug. 14, 1935, ch. 531, title XI, §1129A, as added Pub. L. 106–169, title II, §207(a), Dec. 14, 1999, 113Stat. 1837; amended Pub. L. 106–554, §1(a)(1) \[title V, §518(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74.)
 
 #### References in Text
 

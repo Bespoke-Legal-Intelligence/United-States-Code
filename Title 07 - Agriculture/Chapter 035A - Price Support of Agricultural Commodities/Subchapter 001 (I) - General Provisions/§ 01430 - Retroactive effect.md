@@ -1,6 +1,6 @@
 ### §1430. Retroactive effect
 
-This Act shall not be effective with respect to price support operations for any agricultural commodity for any marketing year or season commencing prior to January 1, 1950, except tothe extent that the Secretary of Agriculture shall, without reducing price support theretofore undertaken or announced, elect to apply the provisions of this Act.
+This Act shall not be effective with respect to price support operations for any agricultural commodity for any marketing year or season commencing prior to January 1, 1950, except to the extent that the Secretary of Agriculture shall, without reducing price support theretofore undertaken or announced, elect to apply the provisions of this Act.
 
 (Oct. 31, 1949, ch. 792, title IV, §413, 63 Stat. 1057.)
 

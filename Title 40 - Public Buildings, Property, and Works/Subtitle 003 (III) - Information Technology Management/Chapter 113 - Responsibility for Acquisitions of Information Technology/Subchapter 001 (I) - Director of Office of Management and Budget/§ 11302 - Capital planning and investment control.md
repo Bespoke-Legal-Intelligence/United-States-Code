@@ -6,7 +6,7 @@ Federal Information Technology.—The Director of the Office of Management and B
 
 (b)
 
-Use of Information Technology in Federal Programs.—The Director shall promote and improve the acquisition, use, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information andthe reduction of information collection burdens on the public.
+Use of Information Technology in Federal Programs.—The Director shall promote and improve the acquisition, use, and disposal of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
 (c)
 

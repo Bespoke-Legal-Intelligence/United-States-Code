@@ -36,7 +36,7 @@
 
 &emsp;(7)(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled,and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 &emsp;(8) The term “manufactured” means to manufacture, produce, or assemble.
 
@@ -94,7 +94,7 @@ Section 1215 of Pub. L. 97–35 provided that:
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 

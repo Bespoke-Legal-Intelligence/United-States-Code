@@ -60,7 +60,7 @@ The board, in consultation with the Attorney General, shall adopt qualification 
 
 #### (g) Relation to other law
 
-A law enforcement agent designated under subsection (a) of this section shall not be considered to be a law enforcement officer of the United States for the purposes of any other law, and no law enforcement agent designated under subsection (a) of this section or other employee of the corporation shall receive an increase in compensation solely on account of this section.
+A law enforcement agent designated under subsection (a) of this section shall not be considered to be a law enforcement officer of the United States for the purposes of any other law,and no law enforcement agent designated under subsection (a) of this section or other employee of the corporation shall receive an increase in compensation solely on account of this section.
 
 #### (h) Relationship with Attorney General
 

@@ -12,7 +12,7 @@
 
 (d) The Department has 2 Under Secretaries, an Under Secretary for Enforcement, 2 Deputy Under Secretaries, and a Treasurer of the United States, appointed by the President, by and with the advice and consent of the Senate. The Department also has a Fiscal Assistant Secretary appointed by the Secretary. They shall carry out duties and powers prescribed by the Secretary. The President may designate one Under Secretary as Counselor. When appointing each Deputy Under Secretary, the President may designate the Deputy Under Secretary as an Assistant Secretary.
 
-(e) The Department has 7 Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretaries shall carry out duties and powers prescribed by the Secretary. The Assistant Secretaries appointed under this subsection are in addition to the Assistant Secretaries appointed under subsection (d) of this section.
+(e) The Department has 8 Assistant Secretaries appointed by the President, by and with the advice and consent of the Senate. The Assistant Secretaries shall carry out duties and powers prescribed by the Secretary. The Assistant Secretaries appointed under this subsection are in addition to the Assistant Secretaries appointed under subsection (d) of this section.
 
 (f)(1) The Department has a General Counsel appointed by the President, by and with the advice and consent of the Senate. The General Counsel is the chief law officer of the Department. Without regard to those provisions of title 5 governing appointment in the competitive service, the Secretary may appoint not more than 5 Assistant General Counsels. The Secretary may designate one of the Assistant General Counsels to act as the General Counsel when the General Counsel is absent or unable to serve or when the office of General Counsel is vacant. The General Counsel and Assistant General Counsels shall carry out duties and powers prescribed by the Secretary.
 
@@ -20,7 +20,7 @@
 
 (g) The Department shall have a seal.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, §1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, §141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, §2003(a), Feb. 12, 1994, 108 Stat. 24.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 878; Pub. L. 98–594, §1(a), Oct. 30, 1984, 98 Stat. 3129; Pub. L. 99–190, §141, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 103–211, title II, §2003(a), Feb. 12, 1994, 108 Stat. 24; Pub. L. 108–177, title I, §105(d)(2), Dec. 13, 2003, 117 Stat. 2603.)
 
 Historical and Revision Notes
 
@@ -158,6 +158,8 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 #### Amendments
 
+2003—Subsec. (e). Pub. L. 108–177 substituted “8” for “7”.
+
 1994—Subsec. (d). Pub. L. 103–211 inserted “an Under Secretary for Enforcement,” after “2 Under Secretaries,”.
 
 1985—Subsec. (d). Pub. L. 99–190 substituted “2 Under Secretaries” for “an Under Secretary, an Under Secretary for Monetary Affairs” and “The President may designate one Under Secretary as Counselor” for “When appointing the Under Secretary, the President may designate the Under Secretary as Counselor”.
@@ -182,7 +184,7 @@ Pub. L. 105–61, title I, §116, Oct. 10, 1997, 111 Stat. 1284, provided that:
 
 “(3) Nothing in this subsection shall be considered to affect the compensation or emoluments due to any individual in connection with any period preceding the date determined under paragraph (2).
 
-“(b) Subsection (b) of the first section of the public law referred to in subsection (a)(1) of this section shall not apply in the case of any appointment the consent of the Senate to which occurs on or after the date of the enactment of this Act.
+“(b) Subsection (b) of the first section of the public law referred to in subsection (a)(1) of this section shall not apply in the case of any appointment the consentof the Senate to which occurs on or after the date of the enactment of this Act.
 
 “(c) This section shall not be limited (for purposes of determining whether a provision of this section applies or continues to apply) to fiscal year 1998.”
 

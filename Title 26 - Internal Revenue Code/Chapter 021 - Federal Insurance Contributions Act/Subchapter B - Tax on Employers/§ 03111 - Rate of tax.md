@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
 1976—Subsec. (a). Pub. L. 94–455, §1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendaryears 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
 1973—Subsec. (a)(4). Pub. L. 93–233, §6(a)(2), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule for Grade in Which Ordered to Active Duty.—Except as provided in subsections (b) and (c), a retired member ordered to active duty under section 688 of this title shall be ordered to active duty in the member's retired grade.
+General Rule for Grade in Which Ordered to Active Duty.—Except as provided in subsections (b) and (c), a retired member ordered to active duty under section 688 or 688a of this title shall be ordered to active duty in the member's retired grade.
 
 (b)
 
@@ -10,11 +10,11 @@ Members Retired in O–9
 
 and O–10
 
-Grades.—A retired member ordered to active duty under section 688 of this title whose retired grade is above the grade of major general or rear admiral shall be ordered to active duty in the highest permanent grade held by such member while serving on active duty.
+Grades.—A retired member ordered to active duty under section 688 or 688a of this title whose retired grade is above the grade of major general or rear admiral shall be ordered to active duty in the highest permanent grade held by such member while serving on active duty.
 
 (c)
 
-Members Who Previously Served in Grade Higher Than Retired Grade.—(1) A retired member ordered to active duty under section 688 of this title who has previously served on active duty satisfactorily, as determined by the Secretary of the military department concerned, in a grade higher than that member's retired grade may be ordered to active duty in the highest grade in which the member had so served satisfactorily, except that such a member may not be so ordered to active duty in a grade above major general or rear admiral.
+Members Who Previously Served in Grade Higher Than Retired Grade.—(1) A retired member ordered to active duty under section 688 or 688a of this title who has previously served on active duty satisfactorily, as determined by the Secretary of the military department concerned, in a grade higher than that member's retired grade may be ordered to active duty in the highest grade in which the member had so served satisfactorily, except that such a member may not be so ordered to active duty in a grade above major general or rear admiral.
 
 (2) A retired member ordered to active duty in a grade that is higher than the member's retired grade pursuant to subsection (a) shall be treated for purposes of section 690 of this title as if the member was promoted to that higher grade while on that tour of active duty.
 
@@ -22,9 +22,9 @@ Members Who Previously Served in Grade Higher Than Retired Grade.—(1) A retire
 
 (d)
 
-Grade Upon Release From Active Duty.—A member ordered to active duty under section 688 of this title who, while on active duty, is promoted to a grade that is higher than that member's retired grade is entitled, upon that member's release from that tour of active duty, to placement on the retired list in the highest grade in which the member served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
+Grade Upon Release From Active Duty.—A member ordered to active duty under section 688 or 688a of this title who, while on active duty, is promoted to a grade that is higher than that member's retired grade is entitled, upon that member's release from that tour of active duty, to placement on the retired list in the highest grade in which the member served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516.)
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516; amended Pub. L. 107–314, div. A, title V, §503(b)(1), Dec. 2, 2002, 116 Stat. 2531.)
 
 #### Prior Provisions
 
@@ -32,9 +32,17 @@ A prior section 689 was renumbered section 12320 of this title.
 
 Provisions similar to those in this section were contained in section 688(b) and (d) of this title prior to repeal by Pub. L. 104–201, §521(a).
 
+#### Amendments
+
+2002—Subsecs. (a), (b), (c)(1), (d). Pub. L. 107–314 inserted “or 688a” after “section 688”.
+
 #### Effective Date
 
 Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set out as a note under section 688 of this title.
+
+#### Applicability
+
+Pub. L. 107–314, div. A, title V, §503(b)(2), Dec. 2, 2002, 116 Stat. 2531, provided that: “The provisions of section689(d) of title 10, United States Code, shall apply with respect to an officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 589) before the date of the enactment of this Act \[Dec. 2, 2002\] in the same manner as such provisions apply to an officer ordered to active duty under section 688 of such title.”
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ Administrative orders, referred to in reviser's note under section 1291 of this 
 
 (4) Civil aeronautics orders—in the District of Columbia or circuit where petitioner resides or has his principal place of business;
 
-(5) Commodity exchange orders—in the circuit where board of trade has its principal place of business or in circuit where petitioner for review of exclusion order carries on business;
+(5) Commodity exchange orders—in the circuit where board of trade has its principal place of business or incircuit where petitioner for review of exclusion order carries on business;
 
 (6) Electric and water power orders—in the District of Columbia or circuit where licensee or public utility to which order relates is located or has its principal place of business;
 

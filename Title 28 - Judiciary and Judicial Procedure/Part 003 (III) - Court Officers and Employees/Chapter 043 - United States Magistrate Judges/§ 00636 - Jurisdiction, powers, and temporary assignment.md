@@ -32,7 +32,7 @@
 
 &emsp;(1) Upon the consent of the parties, a full-time United States magistrate judge or a part-time United States magistrate judge who serves as a full-time judicial officer may conduct any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case, when specially designated to exercise such jurisdiction by the district court or courts he serves. Upon the consent of the parties, pursuant to their specific written request, any other part-time magistrate judge may exercise such jurisdiction, if such magistrate judge meets the bar membership requirements set forth in section 631(b)(1) and the chief judge of the district court certifies that a full-time magistrate judge is not reasonably available in accordance with guidelines established by the judicial council of the circuit. When there is more than one judge of a district court, designation under this paragraph shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge.
 
-&emsp;(2) If a magistrate judge is designated to exercise civil jurisdiction under paragraph (1) ofthis subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate judge to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate judge may again advise the parties of the availability of the magistrate judge, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrate judges shall include procedures to protect the voluntariness of the parties’ consent.
+&emsp;(2) If a magistrate judge is designated to exercise civil jurisdiction under paragraph (1) of this subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate judge to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate judge may again advise the parties of the availability of the magistrate judge, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrate judges shall include procedures to protect the voluntariness of the parties’ consent.
 
 &emsp;(3) Upon entry of judgment in any case referred under paragraph (1) of this subsection, an aggrieved party may appeal directly to the appropriate United States court of appeals from the judgment of the magistrate judge in the same manner as an appeal from any other judgment of a district court. The consent of the parties allows a magistrate judge designated to exercise civil jurisdiction under paragraph (1) of this subsection to direct the entry of a judgment of the district court in accordance with the Federal Rules of Civil Procedure. Nothing in this paragraph shall be construed as a limitation of any party's right to seek review by the Supreme Court of the United States.
 
@@ -84,11 +84,11 @@ Certification of other contempts to the district court.—Upon the commission of
 
 &emsp;(7)
 
-Appeals of magistrate judge contempt orders.—The appeal of an order of contempt under this subsection shall be made to thecourt of appeals in cases proceeding under subsection (c) of this section. The appeal of any other order of contempt issued under this section shall be made to the district court.
+Appeals of magistrate judge contempt orders.—The appeal of an order of contempt under this subsection shall be made to the court of appeals in cases proceeding under subsection (c) of this section. The appeal of any other order of contempt issued under this section shall be made to the district court.
 
 (f) In an emergency and upon the concurrence of the chief judges of the districts involved, a United States magistrate judge may be temporarily assigned to perform any of the duties specified in subsection (a), (b), or (c) of this section in a judicial district other than the judicial district for which he has been appointed. No magistrate judge shall perform any of such duties in a district to which he has been temporarily assigned until an order has been issued by the chief judge of such district specifying (1) the emergency by reason of which he has been transferred, (2) the duration of his assignment, and (3) the duties which he is authorized to perform. A magistrate judge so assigned shall not be entitled to additional compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of his duties in accordance with section 635.
 
-(g) A United States magistrate judge may perform the verification function required by section 4107 of title 18, United States Code. A magistrate judge may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109 of title 18, United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate judge assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
+(g) A United States magistrate judge may perform the verification function required by section 4107 of title 18, United States Code. A magistrate judge may be assigned by a judge of any United States district court to perform the verification required by section 4108 and the appointment of counsel authorized by section 4109of title 18, United States Code, and may perform such functions beyond the territorial limits of the United States. A magistrate judge assigned such functions shall have no authority to perform any other function within the territory of a foreign country.
 
 (h) A United States magistrate judge who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate judge. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistrate judge, shall not apply to the recall of a retired magistrate judge under this subsection or section 375 of this title. Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate judge under this subsection or section 375 of this title unless such retired magistrate judge met such requirement upon appointment or reappointment as a magistrate judge under section 631.
 
@@ -110,7 +110,7 @@ As finally enacted, section 158b of Title 16, U.S.C., which was derived from act
 
 As finally enacted, act May 15, 1947, ch. 57, 61 Stat. 92, which amended section 403c–5 of Title 16, U.S.C., was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
-<i>Prior oaths, acknowledgments, affidavits, and depositions provisions in section 637</i>.—Based on title 28, U.S.C.,1940 ed., §§525, 758 (R.S. §945; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
+<i>Prior oaths, acknowledgments, affidavits, and depositions provisions in section 637</i>.—Based on title 28, U.S.C., 1940 ed., §§525, 758 (R.S. §945; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
 
 This section consolidates part of section 525 with section 758 of title 28, U.S.C., 1940 ed. The provision of said section 525 empowering clerks and deputy clerks to administer oaths is incorporated in section 953 of this title. The provision of said section 758 that acknowledgments of bail and affidavits should have the same effect as if taken before judges was omitted as surplusage.
 
@@ -126,7 +126,7 @@ Changes were made in phraseology.
 
 The Rules of Criminal Procedure for the United States District Courts, referred to in subsecs. (a)(1) and (e)(2)–(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Federal Rules of Civil Procedure for the United States district courts, referred to in subsecs. (b)(2), (c)(3), and (e)(4), are set out in the Appendix to this title.
+The Federal Rules of Civil Procedure for the United States district courts, referred to in subsecs. (b)(2),\(c)(3), and (e)(4), are set out in the Appendix to this title.
 
 #### Amendments
 
@@ -190,7 +190,7 @@ Subsec. (e). Pub. L. 92–239, §1, added subsec. (e).
 
 #### Change of Name
 
-Words “magistrate judge”, “magistrate judge's”, and “magistrate judges” substituted for “magistrate”,“magistrate's”, and “magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words “magistrate judge”, “magistrate judge's”, and “magistrate judges” substituted for “magistrate”, “magistrate's”, and “magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1988 Amendments
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now UnitedStates magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 
 #### Section Referred to in Other Sections
 

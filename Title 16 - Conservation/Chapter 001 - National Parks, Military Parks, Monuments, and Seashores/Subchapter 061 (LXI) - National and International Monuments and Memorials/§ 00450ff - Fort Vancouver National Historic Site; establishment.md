@@ -12,6 +12,54 @@ Words “national historic site” substituted in text for “national monument�
 
 “Administrator of General Services” substituted in text for “Administrator of the War Assets Administration” pursuant to act June 30, 1949, which transferred functions of Administrator of War Assets Administration and War Assets Administration to Administrator of General Services and General Services Administration.
 
+#### McLoughlin House Addition to Fort Vancouver National Historic Site
+
+Pub. L. 108–63, July 29, 2003, 117 Stat. 872, provided that:
+
+#### “SECTION 1. SHORT TITLE; DEFINITIONS.
+
+“(a)
+
+Short Title.—This Act may be cited as the ‘McLoughlin House Addition to Fort Vancouver National Historic Site Act’.
+
+“(b)
+
+Definitions.—For the purposes of this Act, the following definitions apply:
+
+&emsp;“(1)
+
+City.—The term ‘City’ means Oregon City, Oregon.
+
+&emsp;“(2)
+
+McLoughlin house.—The term ‘McLoughlin House’ means the McLoughlin House National Historic Site which is described in the Acting Assistant Secretary of the Interior's Order of June 27, 1941, and generally depicted on the map entitled ‘McLoughlin House, Fort Vancouver National Historic Site’, numbered 389/92,002, and dated 5/01/03, and includes the McLoughlin House, the Barclay House, and other associated real property, improvements, and personal property.
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+#### “SEC. 2. MCLOUGHLIN HOUSE ADDITION TO FORT VANCOUVER.
+
+“(a)
+
+Acquisition.—The Secretary is authorized to acquire the McLoughlin House, from willing sellers only, by donation, purchase with donated or appropriatedfunds, or exchange, except that lands or interests in lands owned by the City may be acquired by donation only.
+
+“(b)
+
+Map Availability.—The map identifying the McLoughlin House referred to in section 1(b)(2) shall be on file and available for inspection in the appropriate offices of the National Park Service, Department of the Interior.
+
+“(c)
+
+Boundaries; Administration.—Upon acquisition of the McLoughlin House, the acquired property shall be included within the boundaries of, and be administered as part of, the Fort Vancouver National Historic Site in accordance with all applicable laws and regulations.
+
+“(d)
+
+Name Change.—Upon acquisition of the McLoughlin House, the Secretary shall change the name of the site from the ‘McLoughlin House National Historic Site’ to the ‘McLoughlin House’.
+
+“(e)
+
+Federal Laws.—After the McLoughlin House is acquired and added to Fort Vancouver National Historic Site, any reference in a law, map, regulation, document, paper, or other record of the United States to the ‘McLoughlin House National Historic Site’ (other than this Act) shall be deemed a reference to the ‘McLoughlin House’, a unit of Fort Vancouver National Historic Site.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 450ff–1, 450ff–3 of this title.

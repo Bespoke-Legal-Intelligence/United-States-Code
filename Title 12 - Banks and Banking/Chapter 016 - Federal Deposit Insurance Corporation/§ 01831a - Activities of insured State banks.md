@@ -108,7 +108,7 @@
 
 #### (B) Extension of time period
 
-&emsp;&emsp;The Corporation may extend the 60-day period referred to in subparagraph (A) for notmore than 30 additional days, and shall notify the applicant of any such extension.
+&emsp;&emsp;The Corporation may extend the 60-day period referred to in subparagraph (A) for not more than 30 additional days, and shall notify the applicant of any such extension.
 
 #### (e) Savings bank life insurance
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;(A) is located in a State that permitted, as of September 30, 1991, investment in common or preferred stock listed on a national securities exchange or shares of an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]; and
 
-&emsp;&emsp;(B) made or maintained an investment in such securities during the period beginning on September 30, 1990, and ending on November 26, 1991.
+&emsp;&emsp;(B) made or maintained an investment in such securities during the period beginningon September 30, 1990, and ending on November 26, 1991.
 
 #### (3) Exception for certain types of institutions
 
@@ -196,7 +196,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investmentpermitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
+&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investment permitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
 
 #### (B) Reasonable standard
 
@@ -236,7 +236,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 &emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) <sup>1</sup> of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
+(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L.103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
 
 #### References in Text
 

@@ -20,7 +20,7 @@ Composition.—The Council is composed of the following members:
 
 (c)
 
-Responsibilities.—The Council shall have the responsibility to ensure effective cooperation among departments and agencies of the Federal Government, and to provide advice and recommendations to the President, the Secretary of Defense, the Secretary of Energy, theSecretary of Commerce, and the Secretary of Labor, concerning—
+Responsibilities.—The Council shall have the responsibility to ensure effective cooperation among departments and agencies of the Federal Government, and to provide advice and recommendations to the President, the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor, concerning—
 
 &emsp;(1) the capabilities of the national technology and industrial base to meet the national security objectives set forth in section 2501(a) of this title;
 

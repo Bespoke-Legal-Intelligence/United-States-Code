@@ -90,7 +90,7 @@ Aug. 31, 1964, Pub. L. 88–558, §2(1), (2), (4), 78 Stat. 767; restated Sept. 
 
 31:240(2).
 
-Clause (1) is substituted for 31:951(a) for consistency. The text of 31:951(b) is omitted as unnecessary because of laws vesting authority in the commission, board, or other group of individuals and for consistency in the revised title and with other titles of the United States Code.
+Clause (1) is substituted for 31:951(a) for consistency. The text of 31:951(b) is omitted as unnecessary becauseof laws vesting authority in the commission, board, or other group of individuals and for consistency in the revised title and with other titles of the United States Code.
 
 In clause (2), the text of 31:240(1) is omitted as unnecessary because of the restatement.
 
@@ -212,7 +212,7 @@ Section 5(c) of Pub. L. 103–387, as amended by Pub. L. 104–134, title III, �
 
 #### Short Title of 1996 Amendment
 
-Section 31001(a)(1) of Pub. L. 104–134 provided that: “This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
+Section 31001(a)(1) of Pub. L. 104–134 provided that: “This section \[enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711,3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title\] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
 
 #### Short Title of 1986 Amendment
 
@@ -244,7 +244,7 @@ Section 31001(b) of Pub. L. 104–134 provided that: “The purposes of this sec
 
 Pub. L. 101–163, title I, §11, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
-“(a) For purposes of subchapters I and II of chapter 37 of title 31, United States Code (relating to claims of or against the United States Government), the UnitedStates Senate shall be considered to be a legislative agency (as defined in section 3701(a)(4) of such title), and the Secretary of the Senate shall be deemed to be the head of such legislative agency.
+“(a) For purposes of subchapters I and II of chapter 37 of title 31, United States Code (relating to claims of or against the United States Government), the United States Senate shall be considered to be a legislative agency (as defined in section 3701(a)(4) of such title), and the Secretary of the Senate shall be deemed to be the head of such legislative agency.
 
 “(b) Regulations prescribed by the Secretary of the Senate pursuant to section 3716 of title 31, United States Code, shall not become effective until they are approved by the Senate Committee on Rules and Administration.”
 

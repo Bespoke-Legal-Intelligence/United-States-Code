@@ -50,7 +50,7 @@ The text of subsecs. (a) and (b) of section 2291h of this title, which were rede
 
 #### Amendments
 
-1992—Pub. L. 102–583, §4(f)(1), amended section generally, substituting subsec. (a) for former text which read as follows: “Any aircraft which, at any time after October 27, 1986, are made available to a foreign country under this part, or are made available to a foreigncountry primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis. The requirement of this section does not apply with respect to aircraft made available to a foreign country under section 635(b)(6)(B) of title 12 or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
+1992—Pub. L. 102–583, §4(f)(1), amended section generally, substituting subsec. (a) for former text which read as follows: “Any aircraft which, at any time after October 27, 1986, are made available to a foreign country under this part, or are made available to a foreign country primarily for narcotics-related purposes under any other provision of law, shall be provided only on a lease or loan basis. The requirement of this section does not apply with respect to aircraft made available to a foreign country under section 635(b)(6)(B) of title 12 or under any provision of law that authorizes property that has been civilly or criminally forfeited to the United States to be made available to foreign countries.”
 
 Subsecs. (b), (c). Pub. L. 102–583, §4(f)(2)(D), redesignated subsecs. (a) and (b) of section 2291h of this title as subsecs. (b) and (c), respectively, of this section. See Codification note above.
 

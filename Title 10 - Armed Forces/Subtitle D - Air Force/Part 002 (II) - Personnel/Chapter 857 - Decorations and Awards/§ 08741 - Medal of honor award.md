@@ -32,5 +32,5 @@ The words “That the provisions of existing law relating to the award of medals
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1074h, 8748 of this title; title 18 section 704.
+This section is referred to in sections 1074h, 8748, 8755 of this title; title 18 section 704.
 

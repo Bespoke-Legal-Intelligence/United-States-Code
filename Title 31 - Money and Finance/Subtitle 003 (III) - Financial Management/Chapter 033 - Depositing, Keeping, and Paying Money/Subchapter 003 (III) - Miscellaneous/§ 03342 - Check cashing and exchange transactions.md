@@ -12,25 +12,35 @@
 
 &emsp;&emsp;(B) a check is presented by the payee who is a United States citizen.
 
-(b) A disbursing official may act under subsection (a)(1) and (2) of this section only for—
+(b) A disbursing official may act under subsection (a)(1) and (2) of this section only for the following:
 
-&emsp;(1) an official purpose;
+&emsp;(1) An official purpose.
 
-&emsp;(2) personnel of the Government;
+&emsp;(2) Personnel of the Government.
 
-&emsp;(3) a dependent of personnel of the Government, but only—
+&emsp;(3) A dependent of personnel of the Government, but only—
 
 &emsp;&emsp;(A) at a United States installation at which adequate banking facilities are not available; and
 
-&emsp;&emsp;(B) in the case of negotiation of negotiable instruments, if the dependent's sponsor authorizes, in writing, the presentation of negotiable instruments to the disbursing official for negotiation;
+&emsp;&emsp;(B) in the case of negotiation of negotiable instruments, if the dependent's sponsor authorizes, in writing, the presentation of negotiable instruments to the disbursing official for negotiation.
 
-&emsp;(4) a veteran hospitalized or living in an institution operated by an agency;
+&emsp;(4) A veteran hospitalized or living in an institution operated by an agency.
 
-&emsp;(5) a contractor, or personnel of a contractor, carrying out a Government project;
+&emsp;(5) A contractor, or personnel of a contractor, carrying out a Government project.
 
-&emsp;(6) personnel of an authorized agency not part of the Government that operates with an agency of the Government; or
+&emsp;(6) Personnel of an authorized agency not part of the Government that operates with an agency of the Government.
 
-&emsp;(7) a Federal credit union (as defined in section 101(1) of the Federal Credit Union Act (12 U.S.C. 1752(1)) <sup>1</sup> that at the request of the Secretary of Defense is operating on a United States military installation in a foreign country, but only if that country does not permit contractor-operated military banking facilities to operate on such installations.
+&emsp;(7) A Federal credit union (as defined in section 101(1) of the Federal Credit Union Act (12 U.S.C. 1752(1))) that at the request of the Secretary of Defense is operating on a United States military installation in a foreign country, but only if that country does not permit contractor-operated military banking facilities to operate on such installations.
+
+&emsp;(8) A member of the military forces of an allied or coalition nation who is participating in a combined operation, combined exercise, or combined humanitarian or peacekeeping mission with the Armed Forces of the United States, but—
+
+&emsp;&emsp;(A) only if—
+
+&emsp;&emsp;&emsp;(i) such disbursing official action for members of the military forces of that nation is approved by the senior United States military commander assigned to that operation, exercise, or mission; and
+
+&emsp;&emsp;&emsp;(ii) that nation has guaranteed payment for any deficiency resulting from such disbursing official action; and
+
+&emsp;&emsp;(B) in the case of negotiable instruments, only for a negotiable instrument drawn on a financial institution located in the United States or on a foreign branch of such an institution.
 
 (c)(1) An amount held by the disbursing official that is available for expenditure may be used to carry out subsection (a) of this section with the approval of the head of the agency having jurisdiction over the amount.
 
@@ -40,7 +50,7 @@
 
 (4) Amounts necessary to adjust for deficiencies in the account of a disbursing official because of transactions under subsection (a) of this section are authorized to be appropriated.
 
-(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authority to issue regulations applying to a disbursing official that is an officer or employee of the agency.
+(d) The Secretary of the Treasury and, with the approval of the Secretary, the head of an agency having jurisdiction over a disbursing official, may issue regulations to carry out this section. However, under conditions the Secretary decides are necessary, the Secretary may delegate to the head of an agency the authorityto issue regulations applying to a disbursing official that is an officer or employee of the agency.
 
 (e) Regulations prescribed under subsection (d) shall include regulations that define the terms “dependent” and “sponsor” for the purposes of this section. In the regulations, the term “dependent”, with respect to a member of a uniformed service, shall have the meaning given that term in section 401 of title 37.
 
@@ -50,7 +60,7 @@
 
 &emsp;(2) The authority to accept, for safekeeping, deposits and transfers of funds made through the automated teller machines.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, §1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, §1011, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title III, §372, Oct. 5, 1999, 113 Stat. 580.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 957; Pub. L. 104–106, div. A, title X, §1090, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–201, div. A, title X, §1011, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title III, §372, Oct. 5, 1999, 113 Stat. 580; Pub. L. 108–136, div. A, title XII, §1224, Nov. 24, 2003, 117 Stat. 1653.)
 
 Historical and Revision Notes
 
@@ -96,6 +106,20 @@ In subsection (d), the words “rules and . . . governing the disbursing offic
 
 #### Amendments
 
+2003—Subsec. (b). Pub. L. 108–136, §1224(b)(1), substituted “only for the following:” for “only for—” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 108–136, §1224(b)(2), (5), substituted “An” for “an” and period for semicolon at end.
+
+Subsec. (b)(2). Pub. L. 108–136, §1224(b)(3), (5), substituted “Personnel” for “personnel” and period for semicolon at end.
+
+Subsec. (b)(3) to (5). Pub. L. 108–136, §1224(b)(4), (5), substituted “A” for “a” and period for semicolon at end.
+
+Subsec. (b)(6). Pub. L. 108–136, §1224(b)(3), (6), substituted “Personnel” for “personnel” and period for “; or”.
+
+Subsec. (b)(7). Pub. L. 108–136, §1224(b)(4), (7), substituted “A” for “a” and “1752(1)))” for “1752(1))”.
+
+Subsec. (b)(8). Pub. L. 108–136, §1224(a), added par. (8).
+
 1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
 1996—Subsec. (b)(3). Pub. L. 104–201, §1011(1), substituted a semicolon for the period at end.
@@ -113,6 +137,4 @@ Subsec. (e). Pub. L. 104–106, §1090(c), added subsec. (e).
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 2504.
-
-<i><sup>1</sup></i><i> So in original. There probably should be an additional closing parenthesis.</i>
 

@@ -50,7 +50,7 @@ For purposes of this section—
 | :--- | ---: |
 | &nbsp;&nbsp;&nbsp;1st | April 15&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;2nd | June 15&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;3rd | September 15&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;3rd | September 15   |
 | &nbsp;&nbsp;&nbsp;4th | December 15. |
 
 #### (d) Amount of required installments
@@ -67,7 +67,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as otherwise provided in this subsection, the term “required annual payment” means the lesser of—
 
-&emsp;&emsp;&emsp;(i) 100 percent of the tax shown on the return for the taxable year (or, if no returnis filed, 100 percent of the tax for such year), or
+&emsp;&emsp;&emsp;(i) 100 percent of the tax shown on the return for the taxable year (or, if no return is filed, 100 percent of the tax for such year), or
 
 &emsp;&emsp;&emsp;(ii) 100 percent of the tax shown on the return of the corporation for the preceding taxable year.
 
@@ -249,7 +249,7 @@ For purposes of this section—
 
 #### (B) Closely held REIT
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “closely held real estate investment trust” means a real estate investment trust with respect to which 5 or fewer persons own (after application of subsection (d)(5) of section 856) 50 percent or more (by vote or value) of the stock or beneficial interests in the trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “closely held real estate investment trust”means a real estate investment trust with respect to which 5 or fewer persons own (after application of subsection (d)(5) of section 856) 50 percent or more (by vote or value) of the stock or beneficial interests in the trust.
 
 #### (f) Exception where tax is small amount
 
@@ -501,7 +501,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable for purposes of determining underpayments of estimated tax for taxable years beginning after Dec. 31, 1994, see section 711(c) of Pub. L. 103–465, set out as a note under section 6654 of this title.
+Amendment by Pub. L. 103–465 applicable for purposes of determining underpayments of estimated tax fortaxable years beginning after Dec. 31, 1994, see section 711(c) of Pub. L. 103–465, set out as a note under section 6654 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -601,7 +601,7 @@ No addition to tax to be made under this section with respect to any underpaymen
 
 #### Waiver of Estimated Penalties for 1993 Underpayments Attributable to Revenue Reconciliation Act of 1993
 
-No addition to tax to be made under this section for any period before Apr. 16, 1994 (Mar. 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of chapter 1 (§§13001–13444) of title XIIIof Pub. L. 103–66, see section 13001(d) of Pub. L. 103–66, set out as a note under section 6654 of this title.
+No addition to tax to be made under this section for any period before Apr. 16, 1994 (Mar. 16, 1994, in the case of a corporation), with respect to any underpayment to the extent such underpayment was created or increased by any provision of chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see section 13001(d) of Pub. L. 103–66, set out as a note under section 6654 of this title.
 
 #### Waiver of Estimated Tax Penalties for Underpayments Attributable to Section 420(b)(4)(B) of This Title
 
@@ -663,7 +663,7 @@ With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is r
 
 #### Tax Surcharge Extension; Declarations of Estimated Tax
 
-Requirement of making a declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 93–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
+Requirement of making a declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 93–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
 
 #### Estimated Tax of Life Insurance Companies for 1958
 

@@ -12,7 +12,7 @@ A prior section 8 of Pub. L. 89–92 was renumbered section 9, classified to sec
 
 1985—Pub. L. 99–92 struck out “(b)” after “1333”.
 
-1984—Pub. L. 98–474 amended section generally, striking out subsecs. (a) and (c) which dealt with the authority of the Federal Trade Commission with respect to its pending trade regulation rule proceeding relating to cigarette advertising and its authority to issue trade regulation rules or to require an affirmative statement in any cigarette advertisement, which left the provisions of former subsec. (b) to constitute this section.
+1984—Pub. L. 98–474 amended section generally, striking out subsecs. (a) and (c) which dealt with the authority of the Federal Trade Commission with respect to its pending trade regulation rule proceeding relating tocigarette advertising and its authority to issue trade regulation rules or to require an affirmative statement in any cigarette advertisement, which left the provisions of former subsec. (b) to constitute this section.
 
 1970—Pub. L. 91–222 substituted provisions concerning the action of the Federal Trade Commission with respect to its pending trade regulation rule proceeding relating to cigarette advertising, the Commission's authority with respect to unfair or deceptive cigarette advertising acts or practices, and its authority to issue trade regulation rules or to require an affirmative statement in any cigarette advertisement, for provisions investing the several district courts with jurisdiction, for cause shown, to prevent and restrain violations of this chapter upon proper application. See section 1339 of this title.
 

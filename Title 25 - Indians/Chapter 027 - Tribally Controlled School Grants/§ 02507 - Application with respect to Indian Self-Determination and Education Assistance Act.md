@@ -2,7 +2,7 @@
 
 #### (a) Certain provisions to apply to grants
 
-The following provisions of the Indian Self-Determination and Education Assistance Act \[25U.S.C. 450 et seq.\] (and any subsequent revisions thereto or renumbering thereof), shall apply to grants provided under this chapter:
+The following provisions of the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (and any subsequent revisionsthereto or renumbering thereof), shall apply to grants provided under this chapter:
 
 &emsp;(1) Section 5(f) \[25 U.S.C. 450c(f)\] (relating to single agency audit).
 
@@ -74,7 +74,7 @@ Any exception or problem cited in an audit conducted pursuant to section 2505(b)
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to theCode, see Short Title note set out under section 450 of this title and Tables.
 
 The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
 

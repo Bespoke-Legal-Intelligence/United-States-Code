@@ -52,17 +52,17 @@
 
 &emsp;&emsp;(XII) the Office of Law Enforcement of the Bureau of Alcohol, Tobacco, and Firearms; or
 
-&emsp;&emsp;(XIII) the National Imagery and Mapping Agency; or
+&emsp;&emsp;(XIII) the National Geospatial-Intelligence Agency; or
 
 &emsp;(ii) a person employed in a position described under section 3132(a)(4), 5372, 5372a, or 5372b of title 5, United States Code.
 
-(3) No employee of the Criminal Division of the Department of Justice (except one appointedby the President, by and with the advice and consent of the Senate), may take an active part in political management or political campaigns.
+(3) No employee of the Criminal Division of the Department of Justice (except one appointed by the President, by and with the advice and consent of the Senate), may take an active part in political management or political campaigns.
 
 (4) For purposes of this subsection, the term “active part in political management or in a political campaign” means those acts of political management or political campaigning which were prohibited for employees of the competitive service before July 19, 1940, by determinations of the Civil Service Commission under the rules prescribed by the President.
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 #### References in Text
 
@@ -70,9 +70,11 @@ The date of enactment of the Hatch Act Reform Amendments of 1993, referred to in
 
 #### Prior Provisions
 
-A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agency from requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
+A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited employee in Executive agencyfrom requesting, receiving from, or giving to, an employee, a Member of Congress, or an officer of a uniformed service, a thing of value for political purposes and provided for removal from service of employee for violation, prior to the general revision of this subchapter by Pub. L. 103–94.
 
 #### Amendments
+
+2003—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 2002—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted “or the Election Assistance Commission” after “Commission”.
 

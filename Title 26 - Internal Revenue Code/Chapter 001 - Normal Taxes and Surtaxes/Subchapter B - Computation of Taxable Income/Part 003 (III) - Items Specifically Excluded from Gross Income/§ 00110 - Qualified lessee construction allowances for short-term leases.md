@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (1) Qualified long-term real property
 
-&emsp;The term “qualified long-term real property” means nonresidential real propertywhich is part of, or otherwise present at, the retail space referred to in subsection (a) and which reverts to the lessor at the termination of the lease.
+&emsp;The term “qualified long-term real property” means nonresidential real property which is part of, or otherwise present at, the retail space referred to in subsection (a) and which reverts to the lessor at the termination of the lease.
 
 #### (2) Short-term lease
 

@@ -54,7 +54,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 #### (2) Evaluation and reporting
 
-&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House ofRepresentatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 #### (3) Application of laws
 
@@ -70,11 +70,41 @@ Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section
 
 #### Amendments
 
-1995—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
+<b>1995</b>—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
 
 #### Savings Provision
 
 Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this section is repealed, except as provided in section 1435 of this title.
+
+#### Temporary Employees; Benefits
+
+Pub. L. 108–83, title I, §1101(b)–(d), Sept. 30, 2003, 117 Stat. 1027, provided that:
+
+“(b) Any individual who exercised an option offered by the Architect of the Capitol under section 133(a)(2) of the Legislative Branch Appropriations Act, 2002 \[Pub. L. 107–68, set out below\], prior to the date of the enactment of this Act \[Sept. 30, 2003\] may revoke the option during the 90-day period which begins on the date of the enactment of this Act.
+
+“(c) The amendments made by subsection (a) \[amending Pub. L. 107–68, §133(a), set out below\] shall take effect as if included in the enactment of section 133(a) of the Legislative Branch Appropriations Act, 2002.
+
+“(d) Notwithstanding any other provision of law, upon enactment of this Act the Architect of the Capitol shall take all steps which may be required to carry out section 133(a) of the Legislative Branch Appropriations Act, 2002 \[Pub. L. 107–68, set out as a note below\].”
+
+Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by Pub. L. 108–83, title I, §1101(a), Sept. 30, 2003, 117 Stat. 1027, provided that:
+
+“(1) Except as provided in paragraph (2), none of the funds provided by this Act or any other Act may be used by the Architect of the Capitol after the expiration of the 90-day period which begins on the date of the enactment of this Act \[Nov. 12, 2001\] to employ any individual as a temporary employee within a category of temporary employment which does not provide employees with the same eligibility for life insurance, health insurance, retirement, and other benefits which is provided to temporary employees who are hired for a period exceeding 1 year in length.
+
+“(2) Paragraph (1) shall not apply with respect to any of the following individuals:
+
+&emsp;“(A) An individual who is employed under the Architect of the Capitol Summer Employment Program.
+
+&emsp;“(B) An individual who is hired for a total of 120 days or less during any 5-year period (excluding any days in which the individual is employed under the Architect of the Capitol Summer Employment Program).
+
+&emsp;“(C) An individual employed by the Architect of the Capitol as a temporary employee as of the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, not later than 90 days after such date, an option offered by the Architect to remain under the pay system (including benefits) provided for the individual as of such date.
+
+&emsp;“(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not provide the benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period of service as a temporary employee exceeds 1 year in length.
+
+&emsp;“(E) An individual who is covered by a collective bargaining agreement entered into by the Architect of the Capitol establishing terms and conditions of employment which include eligibility for life insurance, health insurance, retirement, and other benefits.
+
+“(3) Nothing in this subsection may be construed to require the Architect of the Capitol to provide duplicative benefits for any employee.
+
+“(4) The Architect of the Capitol shall make employer contributions for benefits for employees of the Architect (including temporary employees) directly to any third party designated to receive such contributions on behalf of the employees under a collective bargaining agreement, participation agreement, or any other arrangement entered into by the Architect which provides for such contributions.”
 
 #### Treatment of Separated Employees of Architect of Capitol
 

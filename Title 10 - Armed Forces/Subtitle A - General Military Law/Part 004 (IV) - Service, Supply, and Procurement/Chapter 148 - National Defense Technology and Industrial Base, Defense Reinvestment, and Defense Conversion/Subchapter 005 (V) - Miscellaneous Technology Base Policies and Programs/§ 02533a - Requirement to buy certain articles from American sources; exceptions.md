@@ -30,13 +30,15 @@ Availability Exception.—Subsection (a) does not apply to the extent that the S
 
 (d)
 
-Exception for Certain Procurements Outside the United States.—Subsection (a) does not apply to the following:
+Exception for Certain Procurements.—Subsection (a) does not apply to the following:
 
-&emsp;(1) Procurements outside the United States in support of combat operations.
+&emsp;(1) Procurements outside the United States in support of combat operations or procurements of any item listed in subsection (b)(1)(A), (b)(2), or (b)(3) in support of contingency operations.
 
 &emsp;(2) Procurements by vessels in foreign waters.
 
 &emsp;(3) Emergency procurements or procurements of perishable foods by an establishment located outside the United States for the personnel attached to such establishment.
+
+&emsp;(4) Procurements of any item listed in subsection (b)(1)(A), (b)(2), or (b)(3) for which the use of procedures other than competitive procedures has been approved on the basis of section 2304(c)(2) of this title, relating to unusual and compelling urgency of need.
 
 (e)
 
@@ -52,7 +54,11 @@ Exception for Specialty Metals and Chemical Warfare Protective Clothing.—Subse
 
 (f)
 
-Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods manufactured or processed in the United States.
+Exceptions for Certain Other Commodities and Items.—Subsection (a) does not preclude the procurement of the following:
+
+&emsp;(1) Foods manufactured or processed in the United States.
+
+&emsp;(2) Waste and byproducts of cotton and wool fiber for use in the production of propellants and explosives.
 
 (g)
 
@@ -70,5 +76,23 @@ Applicability to Contracts and Subcontracts for Procurement of Commercial Items.
 
 Geographic Coverage.—In this section, the term “United States” includes the possessions of the United States.
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548.)
+
+#### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136, §826(1), struck out “Outside the United States” after “Procurements” in heading.
+
+Subsec. (d)(1). Pub. L. 108–136, §826(2), inserted “or procurements of any item listed in subsection (b)(1)(A), (b)(2), or (b)(3) in support of contingency operations” after “combat operations”.
+
+Subsec. (d)(4). Pub. L. 108–136, §826(3), added par. (4).
+
+Subsec. (f). Pub. L. 108–136, §827, substituted “
+
+Exceptions for Certain Other Commodities and Items.—Subsection (a) does not preclude the procurement of the following:
+
+&emsp;“(1) Foods”
+
+> for “
+
+Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods”, and added par. (2).
 

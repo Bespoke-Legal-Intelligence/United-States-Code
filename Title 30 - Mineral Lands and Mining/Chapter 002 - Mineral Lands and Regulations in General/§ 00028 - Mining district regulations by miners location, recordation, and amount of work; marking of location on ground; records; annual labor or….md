@@ -26,5 +26,5 @@ Section 2 of Pub. L. 85–736 provided that the period commencing in 1957 for th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 28–1, 28b, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732; title 50 App. section 565.
+This section is referred to in sections 24, 28–1, 28b, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 49, 102, 541b of this title; title 16 section 460mm–1; title 25 section 640d–10; title 43 sections 1712, 1714, 1732; title 50 App. section 564.
 

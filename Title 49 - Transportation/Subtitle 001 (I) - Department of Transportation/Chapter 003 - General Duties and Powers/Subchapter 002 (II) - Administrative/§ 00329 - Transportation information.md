@@ -24,7 +24,27 @@
 
 (d) To assist in carrying out duties and powers under part A of subtitle VII of this title, the Secretary of Transportation shall maintain separate cooperative agreements with the Secretary of Defense and the Administrator of the National Aeronautics and Space Administration for the timely exchange of information on their programs, policies, and requirements directly related to carrying out that part.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366; Pub. L. 104–287, §5(3), Oct. 11, 1996, 110 Stat. 3389.)
+(e)
+
+Incidents and Complaints Involving Passenger and Baggage Security Screening.—
+
+&emsp;(1)
+
+Publication of data.—The Secretary of Transportation shall publish data on incidents and complaints involving passenger and baggage security screening in a manner comparable to other consumer complaint and incident data.
+
+&emsp;(2)
+
+Monthly reports from secretary of homeland security.—To assist in the publication of data under paragraph (1), the Secretary of Transportation may request the Secretary of Homeland Security to periodically report on the number of complaints about security screening received by the Secretary of Homeland Security.
+
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366; Pub. L. 104–287, §5(3), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 108–176, title IV, §421, title VIII, §805(a), Dec. 12, 2003, 117 Stat. 2551, 2587.)
+
+#### Amendment of Subsection (b)(1)
+
+<i>Pub. L. 108–176, title VIII, §805, Dec. 12, 2003, 117 Stat. 2588, provided that, effective on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under subsection (b)(1) of this section, subsection (b)(1) of this section is amended by striking “except that in no case” and all that follows through the semicolon at the end and inserting the following: “except that, if the Secretary requires air carriers to provide flight-specific information, the Secretary—</i>
+
+&emsp;&emsp;<i>“(A) shall not disseminate fare information for a specific flight to the general public for a period of at least 9 months following the date of the flight; and</i>
+
+&emsp;&emsp;<i>“(B) shall give due consideration to and address confidentiality concerns of carriers, including competitive implications, in any rulemaking prior to adoption of a rule requiring the dissemination to the general public of any flight-specific fare;”.</i>
 
 Historical and Revision Notes
 
@@ -72,7 +92,7 @@ Aug. 23, 1958, Pub. L. 85–726, §302(d), 72 Stat. 746.
 
 In subsection (a), the word “information” is substituted for “data, statistics, and other information” in 49:1634 to eliminate unnecessary words. The words “transportation system of the United States” are substituted for “national transportation system” in 49:1634 for clarity and consistency. The words “in carrying out this activity” before “the Secretary shall” in 49:1634 are omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “Federal agencies” in 49:1634 for clarity and consistency. The words “To the greatest extent practical” are substituted for “insofar as practicable” in 49:1634 for consistency. The words “The Secretary shall” are added for clarity.
 
-In subsection (b), the words “by the National Transportation Safety Board under title VII of the FederalAviation Act of 1958 (49 U.S.C. 1441 et seq.) or the Civil Aeronautics Board under title IV of that Act (49 U.S.C. 1371 et seq.)” are substituted for “the Board under subchapter IV and VII of this chapter)” in 49:1352 because 49:1655(d) (1st sentence) transferred duties of the Civil Aeronautics Board under 49:ch. 20, subch. VII to the Secretary of Transportation to be carried out through the National Transportation Safety Board. The reference to the National Transportation Safety Board is to the independent Board established by section 303(a) of the Independent Safety Board Act of 1974 (Pub. L. 93–633, 88 Stat. 2167) outside the Department of Transportation and not to the prior Board that was a part of the Department. The words “departments, agencies, and instrumentalities of the Government” are substituted for “government channels” in 49:1352 for clarity and consistency.
+In subsection (b), the words “by the National Transportation Safety Board under title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.) or the Civil Aeronautics Board under title IV of that Act (49 U.S.C. 1371 et seq.)” are substituted for “the Board under subchapter IV and VII of this chapter)” in 49:1352 because 49:1655(d) (1st sentence) transferred duties of the Civil Aeronautics Board under 49:ch. 20, subch. VII to the Secretary of Transportation to be carried out through the National Transportation Safety Board. The reference to the National Transportation Safety Board is to the independent Board established by section 303(a) of the Independent Safety Board Act of 1974 (Pub. L. 93–633, 88 Stat. 2167) outside the Department of Transportation and not to the prior Board that was a part of the Department. The words “departments, agencies, and instrumentalities of the Government” are substituted for “government channels” in 49:1352 for clarity and consistency.
 
 In subsection (c)(1), the words “of the United States” are added for clarity and consistency. The words “of a State, territory, or possession” are substituted for “thereof” after “subdivision” for clarity. The words “related to the duties and powers of the Secretary” are substituted for “falling within the province of the Department” for clarity and consistency.
 
@@ -90,6 +110,8 @@ This amends 49:329 to make conforming amendments necessary because of the codifi
 
 #### Amendments
 
+2003—Subsec. (e). Pub. L. 108–176, §421, added subsec. (e).
+
 1996—Subsec. (b)(1). Pub. L. 104–287, §5(3)(A), substituted “(as that term is used in part A of subtitle VII of this title)” for “(as those terms are used in such Act)”.
 
 Subsec. (d). Pub. L. 104–287, §5(3)(B), substituted “that part” for “that Act”.
@@ -103,6 +125,12 @@ Subsec. (d). Pub. L. 103–272, §4(j)(7)(B), substituted “part A of subtitle 
 Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
 
 Subsec. (d). Pub. L. 98–216 substituted “49 App. U.S.C.” for “49 U.S.C.”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 421 of Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
+Pub. L. 108–176, title VIII, §805(b), Dec. 12, 2003, 117 Stat. 2588, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the issuance of a final rule to modernize the Origin and Destination Survey of Airline Passenger Traffic, pursuant to the Advance Notice of Proposed Rulemaking published July 15, 1998 (Regulation Identifier Number 2105–AC71), that reduces the reporting burden for air carriers through electronic filing of the survey data collected under section 329(b)(1) of title 49, United States Code.”
 
 #### Effective Date of 1984 Amendment
 

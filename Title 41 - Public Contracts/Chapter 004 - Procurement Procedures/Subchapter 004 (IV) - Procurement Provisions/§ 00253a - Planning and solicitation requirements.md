@@ -106,6 +106,26 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Section applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 251 of this title.
 
+#### Authorization of Telecommuting for Federal Contractors
+
+Pub. L. 108–136, div. A, title XIV, §1428, Nov. 24, 2003, 117 Stat. 1670, provided that:
+
+“(a)
+
+Amendment to the Federal Acquisition Regulation.—Not later than 180 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 405 and 421) to permit telecommuting by employees of Federal Government contractors in the performance of contracts entered into with executive agencies.
+
+“(b)
+
+Content of Amendment.—The regulation issued pursuant to subsection (a) shall, at a minimum, provide that solicitations for the acquisition of property or services may not set forth any requirement or evaluation criteria that would—
+
+&emsp;“(1) render an offeror ineligible to enter into a contract on the basis of the inclusion of a plan of the offeror to permit the offeror's employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, cannot be met if the telecommuting is permitted and documents in writing the basis for that determination; or
+
+&emsp;“(2) reduce the scoring of an offer on the basis of the inclusion in the offer of a plan of the offeror to permit the offeror's employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is permitted and documents in writing the basis for that determination.
+
+“(c)
+
+Definition.—In this section, the term ‘executive agency’ has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(1)).”
+
 #### Small Business Act
 
 Section not to affect or supersede the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2711(c) of Pub. L. 98–369, set out as a note under section 253 of this title.

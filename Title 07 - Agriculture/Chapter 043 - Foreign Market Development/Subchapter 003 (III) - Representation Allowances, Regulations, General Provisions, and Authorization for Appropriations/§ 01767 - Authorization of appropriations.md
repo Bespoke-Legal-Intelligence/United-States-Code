@@ -10,7 +10,7 @@ There are hereby authorized to be appropriated to the Department of Agriculture 
 
 #### (c) Funds for 1955; expenditures
 
-For the fiscal year 1955 funds which become available for the purposes of this chapter may be expended under the provisions of law, including current appropriation Acts, applicable to the Department of State: <i>Provided</i>, That the provisions of section 961(d) of title 22 with respect to the source of payment for Foreign Service officers and employees shall not apply to personnel employed under this chapter. Obligations incurred by the Department of State prior to September 1, 1954, with respect to functions affected by this Act, shall be paid from appropriations available to the Department of State.
+For the fiscal year 1955 funds which become available for the purposes of this chapter may be expended under the provisions of law, including current appropriation Acts, applicable to the Department of State: <i>Provided</i>, That the provisions of section 961(d) of title 22 with respect to the source of payment for Foreign Service officers and employees shall not apply to personnel employed under this chapter. Obligations incurred by the Department of State prior to September 1, 1954, with respect to functions affectedby this Act, shall be paid from appropriations available to the Department of State.
 
 (Aug. 28, 1954, ch. 1041, title VI, §607, 68 Stat. 909; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 

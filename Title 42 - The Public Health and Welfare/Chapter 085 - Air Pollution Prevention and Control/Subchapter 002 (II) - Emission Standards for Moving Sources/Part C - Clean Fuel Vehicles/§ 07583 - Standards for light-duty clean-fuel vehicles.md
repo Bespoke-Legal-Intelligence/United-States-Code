@@ -251,7 +251,7 @@ For the 50,000 mile standards and the 120,000 mile standards set forth in the ta
 
 #### (2) Exhaust NMOG standard for operation on clean alternative fuel
 
-&emsp;In addition to standards for the pollutants referred to in paragraph (1), the standards established under paragraph (1) shall require that vehicle exhaust emissions of NMOG notexceed the levels (expressed in grams per mile) specified in the tables below when the vehicle is operated on the clean alternative fuel for which such vehicle is certified:
+&emsp;In addition to standards for the pollutants referred to in paragraph (1), the standards established under paragraph (1) shall require that vehicle exhaust emissions of NMOG not exceed the levels (expressed in grams per mile) specified in the tables below when the vehicle is operated on the clean alternative fuel for which such vehicle is certified:
 
 | Vehicle Type | Column A (50,000 mi.) Standard (gpm) | Column B (100,000 mi.) Standard (gpm) |
 | :--- | :---: | ---: |
@@ -317,7 +317,7 @@ For standards under column B, for purposes of certification under section 7525 o
 
 #### (2) Multiple sets of CARB standards
 
-&emsp;If the State of California promulgates regulations establishing and implementing several different sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as “qualifying California standards” for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply to the clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
+&emsp;If the State of California promulgates regulations establishing and implementing severaldifferent sets of standards applicable in California pursuant to a waiver approved under section 7543 of this title to any category of vehicles referred to in subsection (a), (b), (c), or (d) of this section and each of such sets of California standards is, in the aggregate, at least as protective of public health and welfare as the otherwise applicable standards set forth in section 7582 of this title and subsection (a), (b), (c), or (d) of this section, such standards shall be treated as “qualifying California standards” for purposes of this paragraph. Where more than one set of qualifying standards are established and administered by the State of California, the least stringent set of qualifying California standards shall apply to the clean-fuel vehicles concerned in lieu of the standards otherwise applicable to such vehicles under section 7582 of this title and this section.
 
 #### (f) Less stringent CARB standards
 

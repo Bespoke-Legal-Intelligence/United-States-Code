@@ -154,7 +154,7 @@ Section 124(c) of Pub. L. 100–238 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealing former section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 8464a of this title, amending this section, renumbering section 8457 of this title as section 8456, and repealingformer section 8456 of this title\] shall be effective as of January 1, 1987, and shall apply with respect to benefits payable based on a death or disability occurring on or after that date.
 
 “(2)
 

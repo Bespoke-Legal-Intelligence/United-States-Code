@@ -20,7 +20,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization,with a principal office in an area that is located—
+&emsp;&emsp;&emsp;For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization, with a principal office in an area that is located—
 
 &emsp;&emsp;&emsp;&emsp;(I) on land of an existing or former Native American reservation; and
 
@@ -36,7 +36,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (2) Passenger transportation services or facilities
 
-&emsp;The Secretary may award grants on a competitive basis to qualified nonprofit organizations for the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities. Assistance provided under this paragraph may include on-site technical assistance to local and regional governments, public transit agencies, and related nonprofit and for-profit organizations in rural areas, the development of training materials, and the provision of necessary training assistance to local officials and agencies in rural areas.
+&emsp;The Secretary may award grants on a competitive basis to qualified nonprofit organizations for the provision of technical assistance and training to rural communities for the purpose of improving passenger transportation services or facilities. Assistance providedunder this paragraph may include on-site technical assistance to local and regional governments, public transit agencies, and related nonprofit and for-profit organizations in rural areas, the development of training materials, and the provision of necessary training assistance to local officials and agencies in rural areas.
 
 #### (3) Grants to aid industries in adjusting to terminated Federal agricultural programs or increased foreign competition
 
@@ -54,7 +54,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (5) No grant or loan authorized to be made under this chapter shall require or be subject to the prior approval of any officer, employee, or agency of any State.
 
-(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances whichnecessitate an equity investment by the applicant greater than 10 per centum.
+(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
 
 (7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representing beneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
 
@@ -66,7 +66,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (A) Nonprofit institution
 
-&emsp;&emsp;The term “nonprofit institution” means any organization or institution, including an accredited institution of higher education, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;&emsp;The term “nonprofit institution” means any organization or institution, including an accredited institution of higher education, no part of the net earnings of which inures,or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (B) United States
 
@@ -122,7 +122,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;(B) demonstrate previous expertise in providing technical assistance in rural areas;
 
-&emsp;&emsp;(C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employmentopportunities that will improve the economic conditions of rural areas;
+&emsp;&emsp;(C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employment opportunities that will improve the economic conditions of rural areas;
 
 &emsp;&emsp;(D) demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;
 
@@ -436,7 +436,7 @@ Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended b
 
 “(4) Notwithstanding any other provision of law, for the fiscal year ending September 30, 1986, of the amounts available to guarantee loans in accordance with section 310B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932) from the Rural Development Insurance Fund, $20,000,000 shall be used by the Secretary to guarantee loans under the national rural development and finance program established under this subsection, to remain available until expended.
 
-“(5) Notwithstanding any provision to the contrary of subsection (4) above, the $20,000,000 which was available pursuant to subsection (4) shall continue to be available and shall be used by the Secretary prior to September 30, 1988, to guarantee loans for the national rural development and finance program and shall remain available until expended.
+“(5) Notwithstanding any provision to the contrary of subsection (4) above, the $20,000,000 which was available pursuant to subsection (4) shall continue to be available and shall be used by the Secretary prior to September 30, 1988, to guarantee loans for the nationalrural development and finance program and shall remain available until expended.
 
 “(b)(1) Prior to September 30, 1988, the Secretary shall make grants, from funds transferred under paragraph (2), to national rural development and finance corporations for the purpose of establishing a rural development program to provide financial and technical assistance to compliment the loan guarantees made or to be made to such corporations under subsection (a).
 

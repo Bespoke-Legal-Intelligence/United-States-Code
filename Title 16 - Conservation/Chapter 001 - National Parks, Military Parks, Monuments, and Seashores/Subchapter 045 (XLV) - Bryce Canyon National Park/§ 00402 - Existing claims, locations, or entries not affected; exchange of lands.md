@@ -6,7 +6,7 @@ Nothing herein contained shall affect any valid claim, location, or entry existi
 
 #### References in Text
 
-Herein, referred to in text, means act June 7, 1924, which is classified to sections 346, 401 and 402 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 7, 1924, which is classified to sections 346, 401 and 402 of thistitle. For complete classification of this Act to the Code, see Tables.
 
 The land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 

@@ -10,7 +10,7 @@
 
 (3)(A) Except as provided in subparagraph (B), a deferment under this subsection may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
 
-(B) The Secretary concerned may extend a deferment under this subsection beyond the dayreferred to in subparagraph (A) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
+(B) The Secretary concerned may extend a deferment under this subsection beyond the day referred to in subparagraph (A) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
 
 (4) For purposes of this subsection, a health professions officer is—
 

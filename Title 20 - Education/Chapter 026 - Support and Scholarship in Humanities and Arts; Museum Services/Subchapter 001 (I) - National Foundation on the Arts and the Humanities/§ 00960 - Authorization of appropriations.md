@@ -40,7 +40,7 @@
 
 (3)(A) There are authorized to be appropriated for each fiscal year ending before October 1, 1993, to the National Endowment for the Arts an amount equal to the sum of—
 
-&emsp;(i) the total amounts received by such Endowment, including the value of property donated, bequeathed, or devised to such Endowment, for the purposes set forth in section 954(p)(1) of this title pursuant to the authority of section 959(a)(2) of this title; and
+&emsp;(i) the total amounts received by such Endowment, including the value of property donated, bequeathed, or devised to such Endowment, for the purposes set forth in section954(p)(1) of this title pursuant to the authority of section 959(a)(2) of this title; and
 
 &emsp;(ii) the total amounts received by the grantees of such Endowment from non-Federal sources, including the value of property donated, bequeathed, or devised to such grantees, for use in carrying out activities under subparagraph (A) through subparagraph (F) of section 954(p)(1) of this title;
 
@@ -56,7 +56,7 @@
 
 (C) Sums appropriated pursuant to subparagraph (A) and subparagraph (B) for any fiscal year shall remain available for obligation and expenditure until expended.
 
-(4) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities, as the case may be, shall issue guidelines to implement the provisions of paragraph (2) and paragraph (3). Such guidelines shall be consistent with the requirements of section 954(e), section 954(<i>l</i>)(2),<sup>1</sup>section 956(f), and section 956(h)(2) of this title, as the case may be, regarding total Federal support of activities, programs, projects, or productions carried out under authority of this subchapter.
+(4) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities, as the case may be, shall issue guidelines to implement the provisions of paragraph (2) and paragraph (3). Such guidelines shall be consistent with the requirements of section 954(e), section 954(<i>l</i>)(2),<sup>1</sup> section 956(f), and section 956(h)(2) of this title, as the case may be, regarding total Federal support of activities, programs, projects, or productions carried out under authority of this subchapter.
 
 #### (b) Availability of appropriated unexpended funds; notice of availability of funds by advance appropriation
 
@@ -100,7 +100,7 @@ No grant shall be made to a workshop (other than a workshop conducted by a schoo
 
 (3) Funds made available to carry out section 954a of this title shall remain available until expended.
 
-(Pub. L. 89–209, §11, Sept. 29, 1965, 79 Stat. 853; Pub. L. 90–348, §6, June 18, 1968, 82 Stat. 187; Pub. L. 91–346, §§5(a)(4), 12, July 20, 1970, 84 Stat. 444, 446; Pub. L. 93–133, §2(a)(11), Oct. 19, 1973, 87 Stat. 465; Pub. L. 94–462, title I, §106(a), title III, §302, title IV, §401(b), Oct. 8, 1976, 90 Stat. 1974, 1980, 1981; Pub. L. 94–555, title II, §219(b), Oct. 19, 1976, 90 Stat. 2629; Pub. L. 96–496, title I, §108, Dec. 4, 1980, 94 Stat. 2589; renumbered title I, §11, and amended Pub. L. 98–306, §§2, 7, May 31, 1984, 98 Stat. 223, 224; renumbered §11 and amended Pub. L. 99–194, title I, §§101(1), 111, Dec. 20, 1985, 99 Stat. 1332, 1342; Pub. L. 99–362, §1, July 9, 1986, 100 Stat. 769; Pub. L. 101–512, title III, §318 \[title I, §§103(i)(2), 110\], Nov. 5, 1990, 104 Stat. 1960, 1966, 1972; Pub. L. 103–382, title III, §371, Oct. 20, 1994, 108 Stat. 3977.)
+(Pub. L. 89–209, §11, Sept. 29, 1965, 79 Stat. 853; Pub. L. 90–348, §6, June 18, 1968, 82 Stat. 187; Pub.L. 91–346, §§5(a)(4), 12, July 20, 1970, 84 Stat. 444, 446; Pub. L. 93–133, §2(a)(11), Oct. 19, 1973, 87 Stat. 465; Pub. L. 94–462, title I, §106(a), title III, §302, title IV, §401(b), Oct. 8, 1976, 90 Stat. 1974, 1980, 1981; Pub. L. 94–555, title II, §219(b), Oct. 19, 1976, 90 Stat. 2629; Pub. L. 96–496, title I, §108, Dec. 4, 1980, 94 Stat. 2589; renumbered title I, §11, and amended Pub. L. 98–306, §§2, 7, May 31, 1984, 98 Stat. 223, 224; renumbered §11 and amended Pub. L. 99–194, title I, §§101(1), 111, Dec. 20, 1985, 99 Stat. 1332, 1342; Pub. L. 99–362, §1, July 9, 1986, 100 Stat. 769; Pub. L. 101–512, title III, §318 \[title I, §§103(i)(2), 110\], Nov. 5, 1990, 104 Stat. 1960, 1966, 1972; Pub. L. 103–382, title III, §371, Oct. 20, 1994, 108 Stat. 3977.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ This subchapter, Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, consisted origi
 
 1990—Subsec. (a)(1)(A). Pub. L. 101–512, §318 \[title I, §110(a)\], designated existing provisions as cl. (i), substituted “$125,800,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993” for “$121,678,000 for fiscal year 1986, $123,425,120 for fiscal year 1987, $128,362,125 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990”, struck out at end “Of the sums so appropriated for any fiscal year, not less than 20 per centum shall be for carrying out section 954(g) of this title.”, and added cls. (ii) and (iii).
 
-Subsec. (a)(1)(B). Pub. L. 101–512, §318 \[title I, §110(b)\], substituted “$119,900,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993” for “$95,207,000 for fiscal year 1986, $99,015,280 for fiscal year 1987, $102,975,891 for fiscal year 1988, and such sumsas may be necessary for each of the fiscal years 1989 and 1990;”.
+Subsec. (a)(1)(B). Pub. L. 101–512, §318 \[title I, §110(b)\], substituted “$119,900,000 for fiscal year 1991 and such sums as may be necessary for fiscal years 1992 and 1993” for “$95,207,000 for fiscal year 1986, $99,015,280 for fiscal year 1987, $102,975,891 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990;”.
 
 Subsec. (a)(1)(C). Pub. L. 101–512, §318 \[title I, §110(c)\], struck out subpar. (C) which related to appropriations for the National Endowment for the Arts for the fiscal year ending September 30, 1977.
 
@@ -170,7 +170,7 @@ Subsec. (c)(2). Pub. L. 99–194, §111(c)(2), (3), substituted “$14,291,000 f
 
 Subsecs. (d), (e). Pub. L. 99–194, §111(d), added subsec. (d), redesignated former subsec. (d) as (e), and struck out “under this subchapter” after “No grant shall be made”.
 
-1984—Subsec. (a)(1)(A). Pub. L. 98–306, §7(a)(1)(A), substituted “$128,500,000 for fiscal year 1984, and such sumsas may be necessary” for “$154,000,000 for fiscal year 1984, and $170,000,000”.
+1984—Subsec. (a)(1)(A). Pub. L. 98–306, §7(a)(1)(A), substituted “$128,500,000 for fiscal year 1984, and such sums as may be necessary” for “$154,000,000 for fiscal year 1984, and $170,000,000”.
 
 Subsec. (a)(1)(B). Pub. L. 98–306, §7(a)(1)(B), substituted “$127,000,000 for fiscal year 1984, and such sums as may be necessary” for “$152,000,000 for fiscal year 1984, and $167,500,000”.
 
@@ -204,7 +204,7 @@ Subsec. (a)(1)(B). Pub. L. 94–462, §106(a)(1)(B), substituted provisions auth
 
 Subsec. (a)(1)(C). Pub. L. 94–555 added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 94–462, §106(a)(2), substituted “October 1, 1980” for “July 1, 1976” and provisions authorizing appropriations not to exceed $20,000,000 for fiscal year 1977, $25,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980 for provisions authorizing appropriations not to exceed $15,000,000 for fiscal year ending June 30, 1974, $20,000,000 for fiscal year ending June 30, 1975, and $25,000,000 for fiscal year ending June 30, 1976.
+Subsec. (a)(2). Pub. L. 94–462, §106(a)(2), substituted “October 1, 1980” for “July 1, 1976” and provisions authorizing appropriations not to exceed $20,000,000 for fiscal year 1977, $25,000,000 for fiscal year 1978, and such sums as may be necessary for fiscal years 1979 and 1980for provisions authorizing appropriations not to exceed $15,000,000 for fiscal year ending June 30, 1974, $20,000,000 for fiscal year ending June 30, 1975, and $25,000,000 for fiscal year ending June 30, 1976.
 
 Subsec. (a)(3), (4). Pub. L. 94–462, §§302, 401(b), added pars. (3) and (4).
 
@@ -220,7 +220,7 @@ Subsec. (b)(2). Pub. L. 93–133 added par. (2).
 
 1970—Subsec. (a). Pub. L. 91–346, §§5(a)(4), 12(a), struck out reference to the functions transferred by section 955(a) of this title, added appropriations to the National Endowment for the Arts of $12,875,000, $21,000,000, and $28,625,000 for the fiscal years ending June 30, 1971, 1972, and 1973, respectively, for the purpose of carrying out section 954(c) of this title, and $4,125,000, $5,500,000, and $6,875,000 for the fiscal years ending June 30, 1971, 1972, and 1973, respectively, for the purposes of section 954(h) of this title, and further appropriated to the National Endowment for the Humanities $17,000,000, $26,500,000, $35,500,000 for the fiscal years ending June 30, 1971, 1972, and 1973, respectively, for the purpose of carrying out section 956(c) of this title.
 
-Subsec. (b). Pub. L. 91–346, §12(b), placed limitation on appropriation to each Endowment based on an amount equal to the total of amounts received by each Endowment under section 959(a)(2) of this title by placing ceilings of $6,000,000, $7,000,000, and $9,000,000 on theamounts appropriated for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
+Subsec. (b). Pub. L. 91–346, §12(b), placed limitation on appropriation to each Endowment based on an amount equal to the total of amounts received by each Endowment under section 959(a)(2) of this title by placing ceilings of $6,000,000, $7,000,000, and $9,000,000 on the amounts appropriated for the fiscal years ending June 30, 1971, 1972, and 1973, respectively.
 
 1968—Subsec. (a). Pub. L. 90–348, §6(a), substituted provisions which authorized for the enumerated purposes appropriations totaling $8,000,000 for the fiscal year ending June 30, 1969, and $9,000,000 for the fiscal year ending June 30, 1970 to both the National Endowment for the Arts and the National Endowment for the Humanities, and which authorized the Congress to appropriate funds for subsequent fiscal years for provisions which authorized for grants to groups and individuals for projects and productions, for grants for activities authorized by the Chairman of the National Endowment for the Humanities, and for the functions of the National Council on the Arts in the National Endowment for the Arts appropriations of $10,000,000 for the fiscal year ending June 30, 1966, and each of the two succeeding fiscal years, and that the funds appropriated be equally divided between the Endowments of the Foundation.
 

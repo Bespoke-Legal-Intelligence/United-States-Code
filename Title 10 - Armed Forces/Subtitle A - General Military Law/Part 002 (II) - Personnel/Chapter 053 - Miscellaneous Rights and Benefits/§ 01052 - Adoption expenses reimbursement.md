@@ -6,7 +6,7 @@ Authorization To Reimburse.—The Secretary of Defense shall carry out a program
 
 (b)
 
-Adoptions Covered.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
+Adoptions Covered.—An adoption for which expenses may be reimbursed under thissection includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
 
 (c)
 
@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 #### Prior Provisions
 
-A prior section 1052 was renumbered section 1063 of this title.
+A prior section 1052 was renumbered section 1063 of this title and subsequently repealed.
 
 #### Amendments
 
@@ -88,5 +88,5 @@ Time Period for Application.—Subsection (a) shall apply to a person covered by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 137; title 33 section 857a; title 42 section 213a.
+This section is referred to in title 26 section 137; title 33 section 3071; title 42 section 213a.
 

@@ -18,7 +18,7 @@ Changes were made in phraseology and arrangement.
 
 #### 1949 Act
 
-This amendment clarifies the intent in section 144 of title 28, U.S.C., to conform to the law as it existed at the time of the enactment of the revision limiting the filing of affidavits of prejudice to one such affidavit in any case.
+This amendment clarifies the intent in section 144 of title 28, U.S.C., to conform to the law as it existed atthe time of the enactment of the revision limiting the filing of affidavits of prejudice to one such affidavit in any case.
 
 #### Amendments
 

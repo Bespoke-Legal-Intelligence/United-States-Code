@@ -22,7 +22,7 @@
 
 #### (3) Reestimates
 
-&emsp;The Secretary shall make reestimates of sugar consumption, stocks, production, and imports for a crop year as necessary, but no later than the beginning of each of the second through fourth quarters of the crop year.
+&emsp;The Secretary shall make reestimates of sugar consumption, stocks, production, andimports for a crop year as necessary, but no later than the beginning of each of the second through fourth quarters of the crop year.
 
 #### (b) Sugar allotments
 

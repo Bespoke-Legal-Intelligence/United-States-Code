@@ -10,7 +10,7 @@ In the event either or both of the tribal councils fail to select and certify a 
 
 #### (c) First negotiating session; time and place; chairman; suggestions for procedure, agenda, and resolution of issues in controversy
 
-Within fifteen days after formal certification of both negotiating teams to the Mediator, the Mediator shall schedule the first negotiating session at such time and place as he deems appropriate. The negotiating sessions, which shall be chaired by the Mediator, shall be held at such times and places as the Mediator deems appropriate. At such sessions, the Mediator may, if he deems it appropriate, put forward his own suggestions for procedure, the agenda, and the resolution of the issues in controversy.
+Within fifteen days after formal certification of both negotiating teams to the Mediator, the Mediator shall schedule the first negotiatingsession at such time and place as he deems appropriate. The negotiating sessions, which shall be chaired by the Mediator, shall be held at such times and places as the Mediator deems appropriate. At such sessions, the Mediator may, if he deems it appropriate, put forward his own suggestions for procedure, the agenda, and the resolution of the issues in controversy.
 
 #### (d) Failure to attend two consecutive sessions or bargain in good faith
 

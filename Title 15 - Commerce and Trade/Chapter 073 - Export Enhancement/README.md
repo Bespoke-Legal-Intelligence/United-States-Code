@@ -10,18 +10,9 @@
 
 #### SUBCHAPTER I–A—FAIR TRADE IN AUTOMOTIVE PARTS
 
-|  |  |
-| :--- | ---: |
-| 4705\. | Definitions. |
-| 4705a. | Re-establishment of initiative on automotive parts sales to Japan. |
-| (a) | In general. |
-| (b) | Functions. |
-| 4705b. | Establishment of Special Advisory Committee on automotive parts sales in Japanese and other Asian markets. |
-| (a) | In general. |
-| (b) | Establishment of committee. |
-| (c) | Functions. |
-| (d) | Authority. |
-| 4705c. | Expiration date. |
+|  |
+| :--- |
+| 4705 to 4705c. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

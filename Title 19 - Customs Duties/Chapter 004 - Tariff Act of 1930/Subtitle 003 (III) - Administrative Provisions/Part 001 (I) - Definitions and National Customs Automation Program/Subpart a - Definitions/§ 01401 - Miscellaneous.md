@@ -36,7 +36,7 @@ The term “United States” includes all Territories and possessions of the Uni
 
 #### (i) Officer of the customs; customs officer
 
-The terms “officer of the customs” and “customs officer” mean any officer of the United States Customs Service of the Treasury Department (also hereinafter referred to as the “Customs Service”) or any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law or designated by the Secretary of the Treasury to perform any duties of an officer of the Customs Service.
+The terms “officer of the customs” and “customs officer” mean any officer of the United States Customs Service of the Treasury Department (also hereinafter referred to as the “Customs Service”) or any commissioned, warrant, or petty officer of the Coast Guard, or any agentor other person, including foreign law enforcement officers, authorized by law or designated by the Secretary of the Treasury to perform any duties of an officer of the Customs Service.
 
 #### (j) Customs waters
 
@@ -46,7 +46,7 @@ The term “customs waters” means, in the case of a foreign vessel subject to 
 
 The term “hovering vessel” means—
 
-&emsp;(1) any vessel which is found or kept off the coast of the United States within or withoutthe customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws of the United States; and
+&emsp;(1) any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws of the United States; and
 
 &emsp;(2) any vessel which has visited a vessel described in paragraph (1).
 
@@ -90,7 +90,7 @@ The term “import activity summary statement” refers to data or information t
 
 The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
 
-(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524.)
+(June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441.)
 
 #### References in Text
 
@@ -102,6 +102,8 @@ Section is based on the designated subsections of section 401 of act June 17, 19
 
 Words “the Philippine Islands” formerly set out in subsec. (h) were omitted on authority of Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse, and in which the President proclaimed the independence of the Philippines.
 
+Pub. L. 108–7, which directed the amendment of section 1401(i) of title 19, United States Code, was executed by making the amendment to this section, which is section 401 of the Tariff Act of 1930, to reflect the probable intent of Congress. See 2003 Amendment note below.
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42 Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
@@ -110,9 +112,11 @@ Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, a
 
 Section III, by subdivision A thereof, amended the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, as previously amended, to read as set forth in section III, subdivisions B–CC. By that amendment and reenactment, the Customs Administrative Act of June 10, 1890, and the amendments thereof by act July 24, 1897, ch. 11, §32, 30 Stat. 211, act May 17, 1898, ch. 341, 30 Stat. 417, Act Dec. 15, 1902, ch. 1, 32 Stat. 753, act May 27, 1908, ch. 205, 35 Stat. 403, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 91, were superseded, except the provisions thereof mentioned in a proviso of section IV, S, of that act.
 
-The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amendedby the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
+The Customs Administrative Act of June 10, 1890, as originally enacted and as amended previous to the Payne-Aldrich Tariff Act, consisted of thirty sections, of which section 30 prescribed the time when the act should go into effect. Of the preceding twenty-nine sections of the original act, section 15 providing for review by the courts of decisions of the Board of General Appraisers, was omitted from the act as further amended by the Payne-Aldrich Tariff Act, and the remaining twenty-eight sections were amended thereby, constituting sections 1–28 thereof. A new section, designated as section 29, was added by the Payne-Aldrich Tariff Act, which created a Court of Customs Appeals and prescribed its jurisdiction and powers, proceedings, etc. Its provisions were incorporated in and superseded by chapter 8 of the Judicial Code of March 3, 1911. Another new section, designated as section 30, was also added by the Payne-Aldrich Tariff Act, which provided for the appointment of an Assistant Attorney-General, a Deputy Assistant Attorney-General, and attorneys, in charge of matters of reappraisement, etc., of imported goods and litigation incident thereto. Section 30 was incorporated into the Code as section 296 of former Title 5, Executive Departments and Government Officers and Employees, and subsequently repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632.
 
 #### Amendments
+
+2003—Subsec. (i). Pub. L. 108–7 inserted “, including foreign law enforcement officers,” after “or other person”. See Codification note above.
 
 1996—Subsec. (s). Pub. L. 104–295, §18(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “The term ‘reconciliation’ means an electronic process, initiated at the request of an importer, under which the elements of an entry, other than those elements related to the admissibility of the merchandise, that are undetermined at the time of entry summary are provided to the Customs Service at a later time.”
 
@@ -180,7 +184,7 @@ Section 37 of act June 25, 1938, provided that: “Sections 31 and 34 of this Ac
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -188,5 +192,5 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1677 of this title; title 10 section 374; title 18 section 553; title 22 section 6005; title 46 App. sections 1155, 1903.
+This section is referred to in sections 1629, 1677 of this title; title 10 section 374; title 18 section 553; title 22 section 6005; title 46 App. sections 1155, 1903.
 

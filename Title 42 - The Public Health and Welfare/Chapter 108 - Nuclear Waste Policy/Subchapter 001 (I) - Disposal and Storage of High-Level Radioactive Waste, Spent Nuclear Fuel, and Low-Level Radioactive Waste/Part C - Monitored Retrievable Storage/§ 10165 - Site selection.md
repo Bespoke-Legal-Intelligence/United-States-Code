@@ -10,7 +10,7 @@ The Secretary may not select a site under subsection (a) of this section until t
 
 #### (c) Site specific activities
 
-The Secretary may conduct such site specific activities at each site surveyed under section10164 of this title as he determines may be necessary to support an application to the Commission for a license to construct a monitored retrievable storage facility at such site.
+The Secretary may conduct such site specific activities at each site surveyed under section 10164 of this title as he determines may be necessary to support an application to the Commission for a license to construct a monitored retrievable storage facility at such site.
 
 #### (d) Environmental assessment
 

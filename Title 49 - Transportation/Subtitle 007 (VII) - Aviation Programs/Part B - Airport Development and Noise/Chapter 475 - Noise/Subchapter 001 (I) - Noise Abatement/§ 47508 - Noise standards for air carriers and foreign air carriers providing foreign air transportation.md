@@ -48,6 +48,10 @@ In subsection (a), the words “acting through the Administrator” and “actin
 
 In subsection (b), the words “in effect” are omitted as surplus.
 
+#### Implementation of Chapter 4 Noise Standards
+
+Pub. L. 108–176, title III, §325, Dec. 12, 2003, 117 Stat. 2542, provided that: “Not later than April 1, 2005, the Secretary of Transportation shall issue final regulations to implement Chapter 4 noise standards, consistent with the recommendations adopted by the International Civil Aviation Organization.”
+
 #### Standards for Aircraft and Aircraft Engines To Reduce Noise Levels
 
 Pub. L. 106–181, title VII, §726, Apr. 5, 2000, 114 Stat. 167, provided that:
@@ -84,7 +88,7 @@ Establishment.—The Administrator of the Federal Aviation Administration and th
 
 “(b)
 
-Goal.—The goal of the research program established by subsection (a) is to develop by the year 2000technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
+Goal.—The goal of the research program established by subsection (a) is to develop by the year 2000 technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
 
 “(c)
 

@@ -10,7 +10,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 If two or more persons conspire to commit any offense named in this section, each shall be fined under this title or imprisoned not more than twenty years, or both, and shall be ineligible for employment by the United States or any department or agency thereof, for the five years next following his conviction.
 
-As used in this section, the terms “organizes” and “organize”, with respect to any society,group, or assembly of persons, include the recruiting of new members, the forming of new units, and the regrouping or expansion of existing clubs, classes, and other units of such society, group, or assembly of persons.
+As used in this section, the terms “organizes” and “organize”, with respect to any society, group, or assembly of persons, include the recruiting of new members, the forming of new units, and the regrouping or expansion of existing clubs, classes, and other units of such society, group, or assembly of persons.
 
 (June 25, 1948, ch. 645, 62 Stat. 808; July 24, 1956, ch. 678, §2, 70 Stat. 623; Pub. L. 87–486, June 19, 1962, 76 Stat. 103; Pub. L. 103–322, title XXXIII, §330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 

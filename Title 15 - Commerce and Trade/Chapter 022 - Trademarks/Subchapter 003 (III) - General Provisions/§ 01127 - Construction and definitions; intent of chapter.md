@@ -106,7 +106,7 @@ Acts Feb. 20, 1905, ch. 592, §29, 33 Stat. 731; June 10, 1938, ch. 332, §5, 52
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” forpar. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
 
 Pub. L. 106–113, §1000(a)(9) \[title III, §3005\], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
 
@@ -150,7 +150,7 @@ Pub. L. 98–620, §103(2), in definition of “service mark” substituted “T
 
 Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and“Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
 1962—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last par. relating to the intent of the chapter.
 

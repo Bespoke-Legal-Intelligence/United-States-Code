@@ -38,3 +38,7 @@ In subsection (a) the words “enlisted members of the naval service and enliste
 
 In subsection (b) the word “transferred” before the words “member of the Fleet Reserve” is omitted as unnecessary, since the categories of such members other than “transferred” have not been administratively used, and authority for them is omitted in this title. The words “and the Fleet Marine Corps Reserve” are added, as the words “Fleet Reserve” are used in a generic sense to cover such members. The words “when not on active duty” are added. When the personnel concerned are on active duty, they are treated in the same manner as others on active duty.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

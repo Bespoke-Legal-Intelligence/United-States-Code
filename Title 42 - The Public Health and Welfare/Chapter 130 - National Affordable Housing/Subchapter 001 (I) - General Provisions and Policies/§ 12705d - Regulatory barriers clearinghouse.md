@@ -8,7 +8,7 @@ The Secretary of Housing and Urban Development shall establish a clearinghouse t
 
 &emsp;(2) State and local activities, strategies, and plans to remove or ameliorate the negative effects, if any, of such laws, regulations, and policies, including particularly innovative or successful activities, strategies, and plans; and
 
-&emsp;(3) State and local strategies, activities and plans that promote affordable housing and housing desegregation, including particularlyinnovative or successful strategies, activities, and plans.
+&emsp;(3) State and local strategies, activities and plans that promote affordable housing and housing desegregation, including particularly innovative or successful strategies, activities, and plans.
 
 #### (b) Functions
 

@@ -20,7 +20,7 @@ For purposes of this part:
 
 &emsp;(7) The term “Secretary” means the Secretary of Housing and Urban Development.
 
-&emsp;(8) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(8) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of thePacific Islands, and any other territory or possession of the United States.
 
 &emsp;(9) The term “urban county” has the meaning given such term in section 5302 of this title.
 

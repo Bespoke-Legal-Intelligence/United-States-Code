@@ -86,7 +86,7 @@ Section 806(a)(3) of Pub. L. 99–399 provided that:
 
 “(II) In the case of any person whose status as a captive terminated before the date of the enactment of this Act \[Aug. 27, 1986\], the President shall make a payment under paragraph (1) of such subsection before the end of the one-year period beginning on such date.
 
-“(B) Amounts may be allotted to a savings fund established under such section from pay and allowancesfor any pay period ending after January 21, 1981, and before the establishment of such fund.
+“(B) Amounts may be allotted to a savings fund established under such section from pay and allowances for any pay period ending after January 21, 1981, and before the establishment of such fund.
 
 “(C) Interest on amounts so allotted with respect to any such pay period shall be calculated as if the allotment had occurred at the end of such pay period.”
 

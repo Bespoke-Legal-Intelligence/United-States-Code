@@ -60,7 +60,7 @@ Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 
 &emsp;“(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge.
 
-&emsp;“(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs.
+&emsp;“(6) It is, therefore, in the national interest for the National Institute of Standards and Technology toaccelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs.
 
 #### “SEC. 3. ENTERPRISE INTEGRATION INITIATIVE.
 

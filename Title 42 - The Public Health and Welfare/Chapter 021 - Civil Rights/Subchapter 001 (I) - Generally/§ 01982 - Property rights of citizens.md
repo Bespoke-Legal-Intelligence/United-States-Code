@@ -18,7 +18,7 @@ WHEREAS the granting of Federal assistance for the provision, rehabilitation, or
 
 WHEREAS the Congress in the Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\] has declared that the general welfare and security of the Nation and the health and living standards of its people require the realization as soon as feasible of the goal of a decent home and a suitable living environment for every American family; and
 
-WHEREAS discriminatory policies and practices based upon race, color, creed, or national origin nowoperate to deny many Americans the benefits of housing financed through Federal assistance and as a consequence prevent such assistance from providing them with an alternative to substandard, unsafe, unsanitary, and overcrowded housing; and
+WHEREAS discriminatory policies and practices based upon race, color, creed, or national origin now operate to deny many Americans the benefits of housing financed through Federal assistance and as a consequence prevent such assistance from providing them with an alternative to substandard, unsafe, unsanitary, and overcrowded housing; and
 
 WHEREAS such discriminatory policies and practices result in segregated patterns of housing and necessarily produce other forms of discrimination and segregation which deprive many Americans of equal opportunity in the exercise of their unalienable rights to life, liberty, and the pursuit of happiness; and
 

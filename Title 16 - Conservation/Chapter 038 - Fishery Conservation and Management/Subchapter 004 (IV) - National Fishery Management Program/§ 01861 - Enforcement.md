@@ -14,7 +14,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;&emsp;(ii) board, and search or inspect, any fishing vessel which is subject to the provisions of this chapter;
 
-&emsp;&emsp;(iii) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in,the violation of any provision of this chapter;
+&emsp;&emsp;(iii) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter;
 
 &emsp;&emsp;(iv) seize any fish (wherever found) taken or retained in violation of any provision of this chapter; and
 
@@ -64,7 +64,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (1) Enforcement agreements
 
-&emsp;Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a) of this section, with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcementof the Northeast Multispecies Fishery Management Plan.
+&emsp;Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a) of this section, with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcement of the Northeast Multispecies Fishery Management Plan.
 
 #### (2) Reimbursement
 
@@ -148,7 +148,7 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 &emsp;“(2) a reward to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter.
 
-> Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
+> Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall beliable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
 
 1986—Subsec. (b)(2). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 

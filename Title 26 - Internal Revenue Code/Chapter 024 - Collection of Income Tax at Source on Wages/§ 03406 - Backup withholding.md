@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “reportable interest or dividend payment” means any payment of a kind, andto a payee, required to be shown on a return required under—
+&emsp;&emsp;The term “reportable interest or dividend payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
 
 &emsp;&emsp;&emsp;(i) section 6049(a) (relating to payments of interest),
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;In any case where notice has been given under paragraph (1) to any payor with respect to any underreporting, if the Secretary makes a determination under subparagraph (A) during the 12-month period ending on October 15 of any calendar year—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary shall take the action described in subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary shall take the action describedin subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
 
 &emsp;&emsp;&emsp;(ii) in the case of—
 
@@ -304,7 +304,7 @@ For purposes of this section—
 
 #### (B) Stopping
 
-&emsp;&emsp;Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to anyreportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).
+&emsp;&emsp;Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to any reportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).
 
 #### (C) Election of shorter grace period
 
@@ -424,7 +424,7 @@ Subsec. (b)(6). Pub. L. 99–514, §1899A(46), substituted “6041A(a)” for �
 
 Subsec. (h)(5)(D). Pub. L. 99–514, §1521(b), added subpar. (D).
 
-1984—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
+1984—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholdingunder subsection (a)(1)(C))” for “(but not the reasons therefor)”.
 
 Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 

@@ -14,7 +14,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 &emsp;(3) any animal or progeny of any animal, article, or means of conveyance that has been imported, and is moving or is being handled or has moved or has been handled, in violation of this chapter; or
 
-&emsp;(4) any animal or progeny of any animal, article, or means of conveyance that the Secretary finds is not being maintained, or hasnot been maintained, in accordance with any post-importation quarantine, post-importation condition, post-movement quarantine, or post-movement condition in accordance with this chapter.
+&emsp;(4) any animal or progeny of any animal, article, or means of conveyance that the Secretary finds is not being maintained, or has not been maintained, in accordance with any post-importation quarantine, post-importation condition, post-movement quarantine, or post-movement condition in accordance with this chapter.
 
 #### (b) Extraordinary emergencies
 
@@ -100,7 +100,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 &emsp;&emsp;(A) any animal, article, facility, or means of conveyance that has been moved or handled by the owner in violation of an agreement for the control and eradication of diseases or pests or in violation of this chapter;
 
-&emsp;&emsp;(B) any progeny of any animal or article, which animal or article has been moved orhandled by the owner of the animal or article in violation of this chapter;
+&emsp;&emsp;(B) any progeny of any animal or article, which animal or article has been moved or handled by the owner of the animal or article in violation of this chapter;
 
 &emsp;&emsp;(C) any animal, article, or means of conveyance that is refused entry under this chapter; or
 

@@ -24,7 +24,7 @@
 
 (5) An action removed under this subsection shall be deemed to be an action under section 1369 and an action in which jurisdiction is based on section 1369 of this title for purposes of this section and sections 1407, 1697, and 1785 of this title.
 
-(6) Nothing in this subsection shall restrict the authority of the district court to transfer or dismiss an action on the ground of inconvenient forum.
+(6) Nothing in this subsection shall restrict the authority of the district court to transfer ordismiss an action on the ground of inconvenient forum.
 
 (f) The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
@@ -38,7 +38,7 @@ Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.
 
 Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and the like have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
 
-Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S.</i><i>Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
+Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S. Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
 
 All the provisions with reference to removal of controversies between citizens of different States because of inability, from prejudice or local influence, to obtain justice, have been discarded. These provisions, born of the bitter sectional feelings engendered by the Civil War and the Reconstruction period, have no place in the jurisprudence of a nation since united by three wars against foreign powers. Indeed, the practice of removal for prejudice or local influence has not been employed much in recent years.
 

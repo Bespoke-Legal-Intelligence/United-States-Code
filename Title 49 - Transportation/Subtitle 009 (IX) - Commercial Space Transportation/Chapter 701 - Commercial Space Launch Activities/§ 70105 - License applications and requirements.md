@@ -16,7 +16,7 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 &emsp;(B) an additional requirement necessary to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States;
 
-&emsp;(C) by regulation that a requirement of a law of the United States not be a requirementfor a license if the Secretary, after consulting with the head of the appropriate executive agency, decides that the requirement is not necessary to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States; and
+&emsp;(C) by regulation that a requirement of a law of the United States not be a requirement for a license if the Secretary, after consulting with the head of the appropriate executive agency, decides that the requirement is not necessary to protect the public health and safety, safety of property, and national security and foreign policy interests of the United States; and
 
 &emsp;(D) regulations establishing criteria for accepting or rejecting an application for a license under this chapter within 60 days after receipt of such application.
 

@@ -12,7 +12,7 @@ A person shall not receive any compensation from the Government by reason of any
 
 #### (b) Travel and expenses
 
-The Secretary of State shall, subject to the availability of appropriations, pay all necessary travel and other expenses of persons described in subsection (a)(1) of this section and of not morethan six experts and advisers authorized under section 5601(e) of this title with respect to their actual performance of their official duties pursuant to this chapter, in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
+The Secretary of State shall, subject to the availability of appropriations, pay all necessary travel and other expenses of persons described in subsection (a)(1) of this section and of not more than six experts and advisers authorized under section 5601(e) of this title with respect to their actual performance of their official duties pursuant to this chapter, in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5.
 
 #### (c) Status as Federal employees
 

@@ -20,9 +20,9 @@ Section is based on section 2 of House Resolution No. 611, Ninety-seventh Congre
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
 
-1996—Subsec. (a)(2). Pub. L. 104–186 substituted “Clerk and the Sergeant” for “Clerk, Doorkeeper, and Sergeant”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–186 substituted “Clerk and the Sergeant” for “Clerk, Doorkeeper, and Sergeant”.
 
 #### Effective Date of 1998 Amendment
 

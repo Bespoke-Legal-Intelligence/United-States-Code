@@ -34,7 +34,7 @@ Grants authorized under section 6204 of this title for RFE/RL, Incorporated, sha
 
 Grants to RFE/RL, Incorporated, by the Board shall only be made in compliance with a grant agreement. The grant agreement shall establish guidelines for such grants. The grant agreement shall include the following provisions—
 
-&emsp;(1) that a grant be used only for activities which the Board determines are consistentwith the purposes of subsection (f) of this section;
+&emsp;(1) that a grant be used only for activities which the Board determines are consistent with the purposes of subsection (f) of this section;
 
 &emsp;(2) that RFE/RL, Incorporated, shall otherwise comply with the requirements of this section;
 
@@ -92,7 +92,7 @@ Subsec. (h)(1)(A). Pub. L. 107–228, §502(2), substituted “subparagraph (B) 
 
 Subsec. (h)(1)(C). Pub. L. 107–228, §502(1), added subpar. (C).
 
-1998—Subsec. (i)(1). Pub. L. 105–277, §1314(d), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency” in two places andstruck out “, the Director of the United States Information Agency,” after “shall submit to the Board”.
+1998—Subsec. (i)(1). Pub. L. 105–277, §1314(d), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency” in two places and struck out “, the Director of the United States Information Agency,” after “shall submit to the Board”.
 
 Subsec. (j)(3). Pub. L. 105–277, §1314(d)(1), substituted “Inspector General of the Department of State and the Foreign Service” for “Inspector General of the United States Information Agency”.
 
@@ -112,7 +112,7 @@ Section 305(b) of Pub. L. 99–93 provided that: “The Secretary of State shall
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6204, 6206 of this title.
+This section is referred to in sections 6204, 6206, 6215 of this title.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

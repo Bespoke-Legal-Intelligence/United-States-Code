@@ -1,6 +1,6 @@
 ### §1862e. Evaluations of research centers
 
-In carrying out performance reviews of research centers by the Foundation, the Directorshall take such action as may be necessary, consistent with the merit review process of the Foundation, to ensure that—
+In carrying out performance reviews of research centers by the Foundation, the Director shall take such action as may be necessary, consistent with the merit review process of the Foundation, to ensure that—
 
 &emsp;(1) members of review panels are free from any conflict of interest; and
 
@@ -10,5 +10,5 @@ In carrying out performance reviews of research centers by the Foundation, the D
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 1988, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 1988, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
 

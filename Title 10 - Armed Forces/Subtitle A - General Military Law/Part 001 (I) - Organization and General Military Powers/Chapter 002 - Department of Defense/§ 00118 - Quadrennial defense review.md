@@ -16,11 +16,11 @@ Conduct of Review.—Each quadrennial defense review shall be conducted so as—
 
 (c)
 
-Assessment of Risk.—The assessment of risk for the purposes of subsection (b) shall be undertaken by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff. That assessment shall define the nature and magnitude of the political, strategic, and military risks associated with executing themissions called for under the national defense strategy.
+Assessment of Risk.—The assessment of risk for the purposes of subsection (b) shall be undertaken by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff. That assessment shall define the nature and magnitude of the political, strategic, and military risks associated with executing the missions called for under the national defense strategy.
 
 (d)
 
-Submission of QDR to Congressional Committees.—The Secretary shall submit a report on each quadrennial defense review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted not later than September 30 of the year in which the review is conducted. The report shall include the following:
+Submission of QDR to Congressional Committees.—The Secretary shall submit a report on each quadrennial defense review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31. The report shall include the following:
 
 &emsp;(1) The results of the review, including a comprehensive discussion of the national defense strategy of the United States and the force structure best suited to implement that strategy at a low-to-moderate level of risk.
 
@@ -58,7 +58,9 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 &emsp;(13) The effect on force structure of the use by the armed forces of technologies anticipated to be available for the ensuing 20 years.
 
-&emsp;(14) Any other matter the Secretary considers appropriate.
+&emsp;(14) The national defense mission of the Coast Guard.
+
+&emsp;(15) Any other matter the Secretary considers appropriate.
 
 (e)
 
@@ -72,7 +74,7 @@ CJCS Review.—(1) Upon the completion of each review under subsection (a), the 
 
 (3) The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
 
-(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198.)
+(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623.)
 
 #### Prior Provisions
 
@@ -80,7 +82,15 @@ A prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 
 #### Amendments
 
+2002—Subsec. (d). Pub. L. 107–314, §922, substituted “in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under section 1105(a) of title 31” for “not later than September 30 of the year in which the review is conducted” in second sentence of introductory provisions.
+
+Subsec. (d)(14), (15). Pub. L. 107–314, §923, added par. (14) and redesignated former par. (14) as (15).
+
 2001—Subsec. (e). Pub. L. 107–107 designated the first sentence of existing provisions as par. (1), the second and third sentences of existing provisions as par. (3), and added par. (2).
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Assessment With Respect to 2001 QDR
 
@@ -88,7 +98,7 @@ Pub. L. 107–107, div. A, title IX, §921(c), Dec. 28, 2001, 115 Stat. 1198, pr
 
 #### Revised Nuclear Posture Review
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1041\], Oct. 30, 2000, 114 Stat. 1654, 1654A–262, as amended by Pub. L.107–107, div. A, title X, §1033, Dec. 28, 2001, 115 Stat. 1216, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1041\], Oct. 30, 2000, 114 Stat. 1654, 1654A–262, as amended by Pub. L. 107–107, div. A, title X, §1033, Dec. 28, 2001, 115 Stat. 1216, provided that:
 
 “(a)
 
@@ -123,4 +133,8 @@ Sense of Congress.—It is the sense of Congress that the nuclear posture review
 #### Specified Matter for Next QDR
 
 Pub. L. 106–65, div. A, title IX, §901(c), Oct. 5, 1999, 113 Stat. 717, provided that: “In the first quadrennial defense review conducted under section 118 of title 10, United States Code, as added by subsection (a), the Secretary shall include in the technologies considered for the purposes of paragraph (13) of subsection (d) of that section the following: precision guided munitions, stealth, night vision, digitization, and communications.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 153, 231, 7296 of this title.
 

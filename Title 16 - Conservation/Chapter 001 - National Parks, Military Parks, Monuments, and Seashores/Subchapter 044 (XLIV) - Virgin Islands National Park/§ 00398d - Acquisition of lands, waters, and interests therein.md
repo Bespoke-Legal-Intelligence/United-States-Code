@@ -18,7 +18,7 @@ Subject to continued protection and use of Hassel Island for park and recreation
 
 (2) As used in subsection (d)(1) of this section, “improved property” means a single-family dwelling, the construction of which began before January 1, 1977, together with such lands as are in the same ownership and appurtenant buildings located thereon.
 
-(3) The Secretary may terminate a right of use and occupancy retained pursuant to subsection (d)(1) of this section upon his determination that such use and occupancy is being, or may be, exercised in a manner inconsistent with the purposes for which they were included within thepark and upon tender to the holder of such right of the amount equal to the value of that portion of the right which remains unexpired on the date of termination.
+(3) The Secretary may terminate a right of use and occupancy retained pursuant to subsection (d)(1) of this section upon his determination that such use and occupancy is being, or may be, exercised in a manner inconsistent with the purposes for which they were included within the park and upon tender to the holder of such right of the amount equal to the value of that portion of the right which remains unexpired on the date of termination.
 
 (Pub. L. 87–750, §2, Oct. 5, 1962, 76 Stat. 747; Pub. L. 95–348, §7(b)(1)–(3), Aug. 18, 1978, 92 Stat. 494.)
 

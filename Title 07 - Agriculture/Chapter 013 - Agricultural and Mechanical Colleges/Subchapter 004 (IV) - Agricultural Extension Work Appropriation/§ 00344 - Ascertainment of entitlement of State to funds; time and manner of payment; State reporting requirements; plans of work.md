@@ -2,7 +2,7 @@
 
 #### (a) Ascertainment of entitlement
 
-On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of each college and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, asdetermined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
+On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of each college and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
 
 #### (b) Time and manner of payment; related reports
 
@@ -42,7 +42,7 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 
 1998—Pub. L. 105–185 inserted section catchline, designated existing provisions as subsecs. (a) and (b), inserted subsec. headings, in subsec. (b) substituted “The amount to which a State is entitled” for “Such sums”, and added subsecs. (c) to (e).
 
-1990—Pub. L. 101–624 inserted after second sentence “The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.”
+1990—Pub. L. 101–624 inserted after second sentence “The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interestamong employees of such college whose salaries are funded in whole or in part with such funds.”
 
 1976—Pub. L. 94–273 substituted “of October” for “of July” and “of April” for “of January”.
 

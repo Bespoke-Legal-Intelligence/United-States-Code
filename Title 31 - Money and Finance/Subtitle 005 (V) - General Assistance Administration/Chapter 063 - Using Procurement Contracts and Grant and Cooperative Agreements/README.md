@@ -15,7 +15,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 sections 1623a, 2008m, 2204b, 2279c, 3318, 3319f, 8312; title 10 sections 2358, 2684, 2684a; title 16 sections 670a, 670c–1, 670h, 742f; title 25 section 450e–1; title 30 section 1732; title 33 section 2339; title 42 sections 3122, 12403.
+This chapter is referred to in title 7 sections 2008m, 2204b, 2279c, 2279g, 3318, 3319f, 8312; title 10 sections 2358, 2684, 2684a; title 16 sections 670a, 670c–1, 670h, 742f; title 25 section 450e–1; title 30 section 1732; title 33 section 2339; title 42 sections 3122, 12403; title 43 section 36d.
 
 
 ---

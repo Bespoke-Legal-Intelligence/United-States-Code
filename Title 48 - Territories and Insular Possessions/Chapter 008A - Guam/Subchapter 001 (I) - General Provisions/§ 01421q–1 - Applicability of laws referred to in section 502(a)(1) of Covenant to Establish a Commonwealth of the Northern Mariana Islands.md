@@ -1,8 +1,8 @@
 ### §1421q–1. Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands
 
-Effective on the date when section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 (90 Stat. 263) goes into force those laws which are referred to in section 502(a)(1) of said Covenant, except for any laws administered by the Social Security Administration, except for medicaid which is now administered by the Health Care Financing Administration, and except the Micronesian Claims Act of 1971 (85 Stat. 96) shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
+Effective on the date when section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 (90 Stat. 263) goes into force those laws which are referred to in section 502(a)(1) of said Covenant, except for any laws administered by the Social Security Administration, except for medicaid which is now administered by the Centers for Medicare \& Medicaid Services, and except the Micronesian Claims Act of 1971 (85 Stat. 96) shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Northern Mariana Islands.
 
-(Pub. L. 95–134, title IV, §403, Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–135, §1, Oct. 15, 1977, 91 Stat. 1166.)
+(Pub. L. 95–134, title IV, §403, Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–135, §1, Oct. 15, 1977, 91 Stat. 1166; Pub. L. 108–173, title IX, §900(e)(7), Dec. 8, 2003, 117 Stat. 2374.)
 
 #### References in Text
 
@@ -21,6 +21,8 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
+
+2003—Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 1977—Pub. L. 95–135 amended section generally. Prior to amendment, section read as follows: “Effective on October 15, 1977, those laws, except for any laws administered by the Social Security Administration and except for medicaid which is now administered by the Health Care Financing Administration, which are referred to in section 502(a)(1) (except for the reference to the Micronesian Claims Act of 1971 (85 Stat. 96)) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 (90 Stat. 263), and 502(a)(2) of said Covenant shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Commonwealth of the Northern Mariana Islands.”
 

@@ -1,6 +1,6 @@
 ### §10147. Ready Reserve: training requirements
 
-(a) Except as specifically provided in regulations to be prescribed by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, each person who is enlisted, inducted, or appointed in an armed force, and who becomes a member of the Ready Reserve under any provision of law except section 513 or 10145(b) of this title, shall be required, while in the Ready Reserve, to—
+(a) Except as specifically provided in regulations to be prescribed by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, each person who is enlisted, inducted, or appointed in an armed force, and who becomes a member of the Ready Reserve under any provision of law except section 513 or 10145(b) of this title, shall be required, while in the Ready Reserve, to—
 
 &emsp;(1) participate in at least 48 scheduled drills or training periods during each year and serve on active duty for training of not less than 14 days (exclusive of traveltime) during each year; or
 
@@ -8,11 +8,19 @@
 
 (b) A member who has served on active duty for one year or longer may not be required to perform a period of active duty for training if the first day of that period falls during the last 120 days of the member's required membership in the Ready Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2973.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2973; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 270(a) of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

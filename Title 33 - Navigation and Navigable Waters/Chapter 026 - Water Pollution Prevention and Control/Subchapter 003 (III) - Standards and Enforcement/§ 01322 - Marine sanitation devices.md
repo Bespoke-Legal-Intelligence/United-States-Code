@@ -52,7 +52,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) any vessel owned or operated by the Department of Defense, other than a time or voyage chartered vessel; and
 
-&emsp;&emsp;(B) any vessel owned or operated by the Department of Transportation that is designated by the Secretary of the departmentin which the Coast Guard is operating as a vessel equivalent to a vessel described in subparagraph (A).
+&emsp;&emsp;(B) any vessel owned or operated by the Department of Transportation that is designated by the Secretary of the department in which the Coast Guard is operating as a vessel equivalent to a vessel described in subparagraph (A).
 
 #### (b) Federal standards of performance
 
@@ -82,7 +82,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term “houseboat” means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
 
-(2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
+(2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standardsand regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
 (3) After the effective date of the initial standards and regulations promulgated under this section, if any State determines that the protection and enhancement of the quality of some or all of the waters within such State require greater environmental protection, such State may completely prohibit the discharge from all vessels of any sewage, whether treated or not, into such waters, except that no such prohibition shall apply until the Administrator determines that adequate facilities for the safe and sanitary removal and treatment of sewage from all vessels are reasonably available for such water to which such prohibition would apply. Upon application of the State, the Administrator shall make such determination within 90 days of the date of such application.
 
@@ -112,7 +112,7 @@ After the effective date of standards and regulations promulgated under this sec
 
 #### (i) Jurisdiction to restrain violations; contempts
 
-The district courts of the United States shall have jurisdictions to restrain violations of subsection (g)(1) of this section and subsections (h)(1) through (3) of this section. Actions to restrain such violations shall be brought by, and in, the name of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+The district courts of the United States shall have jurisdictions to restrain violations of subsection (g)(1) of this section and subsections (h)(1) through (3) of this section. Actions to restrain such violations shall be brought by, and in, the name of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides ortransacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony or to appear and produce documents, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (j) Penalties
 
@@ -250,7 +250,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (ii) Documentation
 
-&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other typesof vessels, the State shall document the technical or environmental basis for the distinction.
+&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other types of vessels, the State shall document the technical or environmental basis for the distinction.
 
 #### (B) Prohibition by the Administrator
 
@@ -324,7 +324,7 @@ Subsec. (f)(4). Pub. L. 95–217, §59(e), designated existing provisions as sub
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -436,11 +436,11 @@ Notification of NOAA.—
 
 &emsp;&emsp;“(A)
 
-Lists of stations and facilities.—The Secretary of the Interior shall transmit to the Under Secretary of Commerce for Oceans and Atmosphere each list of operational stations and facilities submitted by a State under subsection (b)(2), by not later than 30 days after the date of receipt of that list.
+Lists of stations and facilities.—The Secretary of the Interior shall transmit to the Under Secretary of Commerce for Oceans and Atmosphere each list of operational stations and facilities submitted by a State under subsection (b)(2), by notlater than 30 days after the date of receipt of that list.
 
 &emsp;&emsp;“(B)
 
-Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of eachstation or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project.
+Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of each station or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project.
 
 #### “SEC. 5604. FUNDING.
 

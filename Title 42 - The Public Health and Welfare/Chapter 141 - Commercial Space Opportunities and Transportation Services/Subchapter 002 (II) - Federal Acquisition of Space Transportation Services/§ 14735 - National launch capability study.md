@@ -30,7 +30,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 180 days after October 28, 1998, the Secretary shall, in consultation with the Administrator and appropriate representatives of the satellite and launch industry and thegovernments of States and political subdivisions thereof—
+&emsp;Not later than 180 days after October 28, 1998, the Secretary shall, in consultation with the Administrator and appropriate representatives of the satellite and launch industry and the governments of States and political subdivisions thereof—
 
 &emsp;&emsp;(A) prepare a report that meets the requirements of this subsection; and
 

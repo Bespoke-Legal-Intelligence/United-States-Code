@@ -10,7 +10,7 @@
 
 &emsp;(4) tens of thousands of small- and medium-sized United States businesses produce exportable goods or services but do not engage in exporting;
 
-&emsp;(5) although the United States is the world's leading agricultural exporting nation, many farm products are not marketed as widely and effectively abroad as they could be through export trading companies;
+&emsp;(5) although the United States is the world's leading agricultural exporting nation, manyfarm products are not marketed as widely and effectively abroad as they could be through export trading companies;
 
 &emsp;(6) export trade services in the United States are fragmented into a multitude of separate functions, and companies attempting to offer export trade services lack financial leverage to reach a significant number of potential United States exporters;
 

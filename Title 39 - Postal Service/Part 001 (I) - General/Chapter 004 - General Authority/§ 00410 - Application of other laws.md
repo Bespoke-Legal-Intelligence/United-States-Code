@@ -48,19 +48,19 @@
 
 &emsp;(6) investigatory files, whether or not considered closed, compiled for law enforcement purposes except to the extent available by law to a party other than the Postal Service.
 
-(d)(1) A lease agreement by the Postal Service for rent of net interior space in excess of 6,500square feet in any building or facility, or part of a building or facility, to be occupied for purposes of the Postal Service shall include a provision that all laborers and mechanics employed in the construction, modification, alteration, repair, painting, decoration, or other improvement of the building or space covered by the agreement, or improvement at the site of such building or facility, shall be paid wages at not less than those prevailing for similar work in the locality as determined by the Secretary of Labor under section 276a of title 40.<sup>1</sup>
+(d)(1) A lease agreement by the Postal Service for rent of net interior space in excess of 6,500 square feet in any building or facility, or part of a building or facility, to be occupied for purposes of the Postal Service shall include a provision that all laborers and mechanics employed in the construction, modification, alteration, repair, painting, decoration, or other improvement of the building or space covered by the agreement, or improvement at the site of such building or facility, shall be paid wages at not less than those prevailing for similar work in the locality as determined by the Secretary of Labor under section 3142 of title 40.
 
-(2) The authority and functions of the Secretary of Labor with respect to labor standards enforcement under Reorganization Plan numbered 14 of 1950 (title 5, appendix), and regulations for contractors and subcontractors under section 276c of title 40,<sup>1</sup> shall apply to the work under paragraph (1) of this subsection.
+(2) The authority and functions of the Secretary of Labor with respect to labor standards enforcement under Reorganization Plan numbered 14 of 1950 (title 5, appendix), and regulations for contractors and subcontractors under section 3145 of title 40, shall apply to the work under paragraph (1) of this subsection.
 
 (3) Paragraph (2) of this subsection shall not be construed to give the Secretary of Labor authority to direct the cancellation of the lease agreement referred to in paragraph (1) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, §8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, §2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, §101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, §5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, §203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, §302(c), title VII, §703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, §1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, §2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, §104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, §202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, §9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, §708(a), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(f)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382; Pub. L. 107–217, §3(k), Aug. 21, 2002, 116 Stat. 1301.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 725; Pub. L. 91–656, §8(a), Jan. 8, 1971, 84 Stat. 1955; Pub. L. 93–340, §2, July 10, 1974, 88 Stat. 294; Pub. L. 94–82, title I, §101, Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–409, §5(a), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 94–541, title II, §203, Oct. 18, 1976, 90 Stat. 2508; Pub. L. 95–454, title III, §302(c), title VII, §703(c)(4), Oct. 13, 1978, 92 Stat. 1146, 1217; Pub. L. 96–523, §1(c)(2), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 100–496, §2(c)(2), Oct. 17, 1988, 102 Stat. 2456; Pub. L. 100–504, title I, §104(b), Oct. 18, 1988, 102 Stat. 2525; Pub. L. 103–82, title II, §202(g)(6), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–94, §9(b)(2), Oct. 6, 1993, 107 Stat. 1010; Pub. L. 103–123, title VII, §708(a), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(f)(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382; Pub. L. 107–217, §3(k), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–178, §4(j), Dec. 15, 2003, 117 Stat. 2642.)
 
 #### References in Text
 
 Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
-Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, popularly known as the Randolph-Sheppard Act and also as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 107 of Title 20 and Tables.
+Section 107 of title 20, known as the Randolph-Sheppard Act, referred to in subsec. (b)(3), is section 1 of act June 20, 1936, ch. 638, 49 Stat. 1559, as amended. The act of June 20, 1936, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, is classified generally to chapter 6A (§107 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of Title 20 and Tables.
 
 The Walsh-Healey Act, referred to in subsec. (b)(5)(A), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
@@ -74,13 +74,13 @@ The provisions of the Act of August 12, 1968 (42 U.S.C. 4151–4156), referred t
 
 The Inspector General Act of 1978, referred to in subsec. (b)(10), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 276a of title 40, referred to in subsec. (d)(1), is section 1 of act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which was classified to section 276a of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141(2) and 3142 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
-
 Reorganization Plan numbered 14 of 1950 (title 5, appendix), referred to in subsec. (d)(2), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5.
 
-Section 276c of title 40, referred to in subsec. (d)(2), is section 2 of act June 13, 1934, ch. 482, 48 Stat. 948, as amended, which was classified to section 276c of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 3145 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
-
 #### Amendments
+
+2003—Subsec. (d)(1). Pub. L. 108–178, §4(j)(1), substituted “section 3142 of title 40” for “section 276a of title 40”.
+
+Subsec. (d)(2). Pub. L. 108–178, §4(j)(2), substituted “section 3145 of title 40” for “section 276c of title 40”.
 
 2002—Subsec. (b)(4). Pub. L. 107–217 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the following provisions of title 40:
 
@@ -108,7 +108,7 @@ Pub. L. 103–82, §202(g)(6)(B), and Pub. L. 103–123, §708(a)(2), amended pa
 
 Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See below.
 
-Pub. L. 103–82, §202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service ofthe provisions of section 8E of Inspector General Act of 1978.
+Pub. L. 103–82, §202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service of the provisions of section 8E of Inspector General Act of 1978.
 
 Subsec. (b)(10). Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See above.
 
@@ -135,6 +135,10 @@ Subsec. (b)(8). Pub. L. 94–541 added par. (8).
 1974—Subsec. (b)(1). Pub. L. 93–340 inserted “section 5520 (withholding city income or employment taxes),” before “and section 5532 (dual pay)”.
 
 1971—Subsec. (b)(1). Pub. L. 91–656 inserted “section 3110 (restrictions on employment of relatives),” before “section 3333” and substituted “no regulation” for “not regulation”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1993 Amendments; Savings Provision
 

@@ -22,7 +22,7 @@
 
 #### (3) Determining amount
 
-&emsp;In determining the amount of any penalty assessed pursuant to this subsection, the President shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history ofsuch violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
+&emsp;In determining the amount of any penalty assessed pursuant to this subsection, the President shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
 
 #### (4) Review
 
@@ -66,7 +66,7 @@ The President may bring an action in the United States district court for the ap
 
 #### (d) Awards
 
-The President may pay an award of up to $10,000 to any individual who provides information leading to the arrest and conviction of any person for a violation subject to a criminal penalty under this chapter, including any violation of section 9603 of this title and any other violation referred to in this section. The President shall, by regulation, prescribe criteria for suchan award and may pay any award under this subsection from the Fund, as provided in section 9611 of this title.
+The President may pay an award of up to $10,000 to any individual who provides information leading to the arrest and conviction of any person for a violation subject to a criminal penalty under this chapter, including any violation of section 9603 of this title and any other violation referred to in this section. The President shall, by regulation, prescribe criteria for such an award and may pay any award under this subsection from the Fund, as provided in section 9611 of this title.
 
 #### (e) Procurement procedures
 

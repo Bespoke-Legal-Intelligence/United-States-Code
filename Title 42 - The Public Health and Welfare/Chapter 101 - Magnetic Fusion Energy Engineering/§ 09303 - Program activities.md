@@ -14,7 +14,7 @@ The Secretary shall initiate activities or accelerate existing activities in res
 
 #### (c) Fusion engineering device designs
 
-(1) The Secretary shall initiate design activities on a fusion engineering device using the best available confinement concept to ensure operation of such a device at the earliest practicable time, but not later than the year 1990.
+(1) The Secretary shall initiate design activities on a fusion engineering device using thebest available confinement concept to ensure operation of such a device at the earliest practicable time, but not later than the year 1990.
 
 (2) The Secretary shall develop and test the adequacy of the engineering design of components to be utilized in the fusion engineering device.
 

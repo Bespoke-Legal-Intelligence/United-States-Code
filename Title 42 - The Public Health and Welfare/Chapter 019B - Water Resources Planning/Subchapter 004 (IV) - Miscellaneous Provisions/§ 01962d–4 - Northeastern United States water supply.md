@@ -6,7 +6,7 @@ Congress hereby recognizes that assuring adequate supplies of water for the grea
 
 #### (b) Construction, operation, and maintenance of reservoirs and conveyance and purification facilities
 
-The Secretary of the Army, acting through the Chief of Engineers, shall construct, operate, and maintain those reservoirs, conveyance facilities, and purification facilities, which are recommended in the plan prepared in accordance with subsection (a) of this section, and which are specifically authorized by law enacted after October 27, 1965.
+The Secretary of the Army, acting through the Chief of Engineers, shall construct, operate, and maintain those reservoirs, conveyance facilities, and purification facilities, which are recommended in the plan prepared in accordancewith subsection (a) of this section, and which are specifically authorized by law enacted after October 27, 1965.
 
 #### (c) Reservoirs as components of river basin and water supply plans
 

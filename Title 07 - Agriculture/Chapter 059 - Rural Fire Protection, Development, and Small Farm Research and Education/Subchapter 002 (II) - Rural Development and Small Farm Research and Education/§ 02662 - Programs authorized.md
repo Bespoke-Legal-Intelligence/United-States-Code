@@ -40,7 +40,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 &emsp;&emsp;(E) business and financial planning; and
 
-&emsp;&emsp;(F) such other training, assistance, and educational opportunities as the Secretarydetermines are necessary to carry out the program established under this subsection.
+&emsp;&emsp;(F) such other training, assistance, and educational opportunities as the Secretary determines are necessary to carry out the program established under this subsection.
 
 #### (2) Leadership abilities
 
@@ -86,7 +86,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### (4) Employee training
 
-&emsp;The Secretary shall provide training for appropriate State extension service employees, assigned to programs other than rural development, to ensure that such employees understand the availability of rural development programs in their respective States and the availability of Extension Service staff qualified to provide to rural citizens and to State extension staff training and materials for technical, management, and educational assistance.
+&emsp;The Secretary shall provide training for appropriate State extension service employees, assigned to programs other than rural development, to ensure that such employees understand the availability of rural development programs in their respective States and theavailability of Extension Service staff qualified to provide to rural citizens and to State extension staff training and materials for technical, management, and educational assistance.
 
 #### (5) Coordination of assistance
 
@@ -158,7 +158,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 #### References in Text
 
-Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(4), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “First Morrill Act”, which is classifiedgenerally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 

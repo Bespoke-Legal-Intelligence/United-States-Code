@@ -18,9 +18,19 @@
 
 (e) Under such regulations as the Secretary may promulgate, the cash surrender value of any policy of insurance or the proceeds of an endowment contract which matures by reason of completion of the endowment period may be paid to the insured under option (2) or (4) of this section. All settlements under option (4), however, shall be calculated on the basis of The Annuity Table for 1949. If the option selected requires payment of monthly installments of less than $10, the amount payable shall be paid in such maximum number of monthly installments as are a multiple of twelve as will provide a monthly installment of not less than $10.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1152, §717; Pub. L. 91–291, §10, June 25, 1970, 84 Stat. 331; Pub. L. 97–66, title IV, §403(a), Oct. 17, 1981, 95 Stat. 1031; renumbered §1917 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(f)(1) Following the death of the insured and in a case not covered by subsection (d)—
+
+&emsp;(A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years afterthe death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+
+&emsp;(B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
+
+(2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1152, §717; Pub. L. 91–291, §10, June 25, 1970, 84 Stat. 331; Pub. L. 97–66, title IV, §403(a), Oct. 17, 1981, 95 Stat. 1031; renumbered §1917 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, §103(a), Dec. 16, 2003, 117 Stat. 2655.)
 
 #### Amendments
+
+2003—Subsec. (f). Pub. L. 108–183 added subsec. (f).
 
 1991—Pub. L. 102–83 renumbered section 717 of this title as this section and substituted “Secretary” for “Administrator” in subsec. (e).
 
@@ -30,6 +40,10 @@
 
 Subsec. (e). Pub. L. 91–291 added subsec. (e).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–183, title I, §103(c), Dec. 16, 2003, 117 Stat. 2655, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1952 of this title\] shall take effect on October 1, 2004.”
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
@@ -37,6 +51,10 @@ Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of P
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–291 effective first day of first calendar month which begins more than six calendar months after June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
+
+#### Transition Provision
+
+Pub. L. 108–183, title I, §103(d), Dec. 16, 2003, 117 Stat. 2655, provided that: “In the case of a person insured under subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) \[set out as an Effective Date of 2003 Amendment note above\], the two-year and four-year periods specified in subsection (f)(1) of section 1917 of title 38, United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
 
 #### Section Referred to in Other Sections
 

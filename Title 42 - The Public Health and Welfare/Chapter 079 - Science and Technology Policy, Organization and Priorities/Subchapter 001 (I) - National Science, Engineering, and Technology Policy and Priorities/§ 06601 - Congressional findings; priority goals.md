@@ -154,73 +154,13 @@ Sec. 5. <i>Administration</i>. (a) The Council will oversee the duties of the Fe
 
 Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 12907, Apr. 14, 1994, 59 F.R. 18291, which established the President's Committee of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13226, §4(c), Sept. 30, 2001, 66 F.R. 50524, set out below.
 
-#### Ex. Ord. No. 12975. Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission
+#### Executive Order No. 12975
 
-Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Review of Policies and Procedures</i>. (a) Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall promptly review the protections of the rights and welfare of human research subjects that are afforded by the department's or agency's existing policies and procedures. In conducting this review, departments and agencies shall take account of the recommendations contained in the report of the Advisory Committee on Human Radiation Experiments.
-
-(b) Within 120 days of the date of this order, each department and agency that conducts, supports, or regulates research involving human subjects shall report the results of the review required by paragraph (a) of this section to the National Bioethics Advisory Commission, created pursuant to this order. The report shall include an identification of measures that the department or agency plans or proposes to implement to enhance human subject protections. As set forth in section 6 of this order, the National Bioethics Advisory Commission shall pursue, as its first priority, protection of the rights and welfare of human research subjects.
-
-(c) For purposes of this order, the terms “research” and “human subject” shall have the meaning set forth in the 1991 Federal Policy for the Protection of Human Subjects.
-
-Sec. 2. <i>Research Ethics</i>. Each executive branch department and agency that conducts, supports, or regulates research involving human subjects shall, to the extent practicable and appropriate, develop professional and public educational programs to enhance activities related to human subjects protection, provide forums for addressing ongoing and emerging issues in human subjects research, and familiarize professionals engaged in nonfederally-funded research with the ethical considerations associated with conducting research involving human subjects. Where appropriate, such professional and educational programs should be organized and conducted with the participation of medical schools, universities, scientific societies, voluntary health organizations, or other interested parties.
-
-Sec. 3. <i>Establishment of National Bioethics Advisory Commission</i>. There is established in the Department of Health and Human Services a National Bioethics Advisory Commission (NBAC). The NBAC shall be subject to the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
-
-Sec. 4. <i>Structure</i>. (a) The National Bioethics Advisory Commission shall be composed of not more than 18 nongovernment members appointed by the President. At least one member shall be selected from each of the following categories of primary expertise: (1) philosophy/theology; (2) social/behavioral science; (3) law; (4) medicine/allied health professions; and (5) biological research. At least three members shall be selected from the general public, bringing to the Commission expertise other than that listed. The membership shall be approximately evenly balanced between scientists and non-scientists. Close attention will be given to equitable geographic distribution and to ethnic and gender representation.
-
-(b) Members of the Commission will serve for terms of 2 years and may continue to serve after the expiration of their term until a successor is appointed. A member appointed to fill an unexpired term will be appointed to the remainder of such term.
-
-(c) The President shall designate a Chairperson from among the members of the NBAC.
-
-Sec. 5. <i>Functions</i>. (a) NBAC shall provide advice and make recommendations to the National Science and Technology Council and to other appropriate government entities regarding the following matters:
-
-(1) the appropriateness of departmental, agency, or other governmental programs, policies, assignments, missions, guidelines, and regulations as they relate to bioethical issues arising from research on human biology and behavior; and
-
-(2) applications, including the clinical applications, of that research.
-
-(b) NBAC shall identify broad principles to govern the ethical conduct of research, citing specific projects only as illustrations for such principles.
-
-(c) NBAC shall not be responsible for the review and approval of specific projects.
-
-(d) In addition to responding to requests for advice and recommendations from the National Science and Technology Council, NBAC also may accept suggestions of issues for consideration from both the Congress and the public. NBAC also may identify other bioethical issues for the purpose of providing advice and recommendations, subject to the approval of the National Science and Technology Council.
-
-Sec. 6. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attention to consideration of: protection of the rights and welfare of human research subjects; and issues in the management and use of genetic information, including but not limited to, human gene patenting.
-
-(b) NBAC shall consider four criteria in establishing the other priorities for its activities:
-
-(1) the public health or public policy urgency of the bioethical issue;
-
-(2) the relation of the bioethical issue to the goals for Federal investment in science and technology;
-
-(3) the absence of another entity able to deliberate appropriately on the bioethical issue; and
-
-(4) the extent of interest in the issue within the Federal Government.
-
-Sec. 7. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide NBAC with such information as it may require for purposes of carrying out its functions.
-
-(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
-
-(c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Health and Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
-
-(d) Members of NBAC shall be compensated in accordance with Federal law. Members of NBAC may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
-
-(e) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide NBAC with such funds as may be necessary for the performance of its functions. The Secretary of Health and Human Services shall provide management and support services to NBAC.
-
-Sec. 8. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act that are applicable to NBAC, except that of reporting annually to the Congress, shall be performed by the Secretary of Health and Human Services, in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-(b) NBAC shall terminate on October 3, 2001, unless extended by the President prior to that date.
-
-(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission, was revoked by Ex. Ord. No. 13316, §3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
 #### Ex. Ord. No. 13226. President's Council of Advisors on Science and Technology
 
-Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, provided:
+Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
 
@@ -234,7 +174,7 @@ Sec. 3. <i>Administration</i>. (a) The heads of the executive departments and ag
 
 (b) In consultation with the Official, the PCAST is authorized to convene ad hoc working groups to provide preliminary nonbinding information and advice directly to the PCAST.
 
-(c) Members shall serve without compensation for their work on the PCAST. However, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
+(c) Members shall serve without compensation for their work on the PCAST. However, members may beallowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
 (d) Any expenses of the PCAST shall be paid from the funds available for the expenses of the Office of Science and Technology Policy.
 
@@ -242,7 +182,7 @@ Sec. 3. <i>Administration</i>. (a) The heads of the executive departments and ag
 
 Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President with respect to the PCAST under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, shall be performed by the Office of Science and Technology Policy in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-(b) The PCAST shall terminate 2 years from the date of this order unless extended by the President prior to that date.
+(b) The PCAST shall terminate September 30, 2005, unless extended by the President prior to that date.
 
 (c) Executive Order 12882 of November 23, 1993; Executive Order 12907 of April 14, 1994; and section 1(h) of Executive Order 13138 of September 30, 1999 \[formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees\], are hereby revoked.
 
@@ -312,6 +252,10 @@ Sec. 5. <i>General Provisions.</i>
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Extension of Term of President's Council on Bioethics
+
+Term of President's Council on Bioethics extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003,68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Strengthened Protections for Human Subjects of Classified Research
 
 Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, provided:
@@ -360,7 +304,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (i) The Common Rule currently requires that each IRB “include at least one member who is not otherwise affiliated with the institution and who is not part of the immediate family of a person who is affiliated with the institution.” For classified research, the agencies shall define “not otherwise affiliated with the institution,” as a nongovernmental member with the appropriate security clearance.
 
-(ii) Under the Common Rule, research projects are approved by the IRB if a “majority of those (IRB) members present at a meeting” approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRBmember may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
+(ii) Under the Common Rule, research projects are approved by the IRB if a “majority of those (IRB) members present at a meeting” approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
 
 (iii) IRBs for classified research shall determine whether potential subjects need access to classified information to make a valid informed consent decision.
 

@@ -10,45 +10,17 @@ Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilit
 
 &emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic and performance plan of each Department under the Government Performance and Results Act.
 
-&emsp;(2) Jointly fund the interagency committee provided for under subsection (c).
+&emsp;(2) Jointly fund the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title.
 
 &emsp;(3) Continue to facilitate and improve sharing between individual Department of Veterans Affairs and Department of Defense health care facilities, but giving priority of effort to initiatives (A) that improve sharing and coordination of health resources at the intraregional and nationwide levels, and (B) that improve the ability of both Departments to provide coordinated health care.
 
 &emsp;(4) Establish a joint incentive program under subsection (d).
 
-(c) DOD–VA
-
-Health Executive Committee.—(1) There is established an interagency committee to be known as the Department of Veterans Affairs-Department of Defense Health Executive Committee (hereinafter in this section referred to as the “Committee”). The Committee is composed of—
-
-&emsp;(A) the Deputy Secretary of Veterans Affairs and such other officers and employees of the Department of Veterans Affairs as the Secretary of Veterans Affairs may designate; and
-
-&emsp;(B) the Under Secretary of Defense for Personnel and Readiness and such other officers and employees of the Department of Defense as the Secretary of Defense may designate.
-
-(2)(A) During odd-numbered fiscal years, the Deputy Secretary of Veterans Affairs shall chair the Committee. During even-numbered fiscal years, the Under Secretary of Defense shall chair the Committee.
-
-(B) The Deputy Secretary and the Under Secretary shall determine the size and structure of the Committee, as well as the administrative and procedural guidelines for the operation of the Committee. The two Departments shall share equally the Committee's cost of personnel and administrative support and services. Support for such purposes shall be provided at a level sufficient for the efficient operation of the Committee, including a permanent staff and, as required, other temporary working groups of appropriate departmental staff and outside experts.
-
-(3) The Committee shall recommend to the Secretaries strategic direction for the joint coordination and sharing efforts between and within the two Departments under this section and shall oversee implementation of those efforts.
-
-(4) The Committee shall submit to the two Secretaries and to Congress an annual report containing such recommendations as the Committee considers appropriate.
-
-(5) In order to enable the Committee to make recommendations in its annual report under paragraph (4), the Committee shall do the following:
-
-&emsp;(A) Review existing policies, procedures, and practices relating to the coordination and sharing of health care resources between the two Departments.
-
-&emsp;(B) Identify changes in policies, procedures, and practices that, in the judgment of the Committee, would promote mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
-
-&emsp;(C) Identify and assess further opportunities for the coordination and sharing of health care resources between the Departments that, in the judgment of the Committee, would not adversely affect the range of services, the quality of care, or the established priorities for care provided by either Department.
-
-&emsp;(D) Review the plans of both Departments for the acquisition of additional health care resources, especially new facilities and major equipment and technology, in order to assess the potential effect of such plans on further opportunities for the coordination and sharing of health care resources.
-
-&emsp;(E) Review the implementation of activities designed to promote the coordination and sharing of health care resources between the Departments.
-
-(6) The Committee chairman, under procedures jointly developed by the two Secretaries, may require the Inspector General of either or both Departments to assist in activities under paragraph (5)(E).
+\[(c) Repealed. Pub. L. 108–136, div. A, title V, §583(b)(1), Nov. 24, 2003, 117 Stat. 1491.\]
 
 (d)
 
-Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretaries shall carry out a program to identify, provide incentives to, implement, fund, and evaluate creative coordination and sharing initiatives at the facility, intraregional, and nationwide levels. The program shall be administered by the Committee established in subsection (c), under procedures jointly prescribed by the two Secretaries.
+Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretaries shall carry out a program to identify, provide incentives to, implement, fund, and evaluate creative coordination and sharing initiatives at the facility, intraregional, and nationwide levels. The program shall be administered by the Department of Veterans Affairs-Department of Defense Joint Executive Committee, under procedures jointly prescribed by the two Secretaries.
 
 (2) To facilitate the incentive program, effective October 1, 2003, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended.
 
@@ -64,7 +36,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (e)
 
-Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Committee under subsection (c)(2), as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
+Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
 
 &emsp;(A) is consistent with the health care responsibilities of the Department of Veterans Affairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
 
@@ -96,9 +68,9 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(A) The guidelines prescribed under subsection (e) (and any revision of such guidelines).
 
-&emsp;(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for the sharing of health-care resources between the two Departments.
+&emsp;(B) The assessment of further opportunities identified by the Department of Veterans Affairs-Department of Defense Joint Executive Committee under subsection (d)(3) of section 320 of this title for the sharing of health-care resources between the two Departments.
 
-&emsp;(C) Any recommendation made under subsection (c)(4) during such fiscal year.
+&emsp;(C) Any recommendation made by that committee under subsection (c)(2) of that section during that fiscal year.
 
 &emsp;(D) A review of the sharing agreements entered into under subsection (e) and a summary of activities under such agreements during such fiscal year and a description of the results of such agreements in improving access to, and the quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
 
@@ -106,7 +78,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(F) Such recommendations for legislation as the two Secretaries consider appropriate to facilitate the sharing of health-care resources between the two Departments.
 
-(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection an overall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
+(3) In addition to the matters specified in paragraph (2), the two Secretaries shall include in the annual report under this subsection an overall status report of the progress of health resources sharing between the two Departments as a consequence of subtitle C of title VII of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and of other sharing initiatives taken during the period covered by the report. Such status report shall indicate the status of such sharing and shall include appropriate data as well as analyses of that data. The annual report shall include the following:
 
 &emsp;(A) Enumerations and explanations of major policy decisions reached by the two Secretaries during the period covered by the report period with respect to sharing between the two Departments.
 
@@ -116,17 +88,17 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(D) A description of proposals for which funds are provided through the joint incentives program under subsection (d), together with a description of their results or status at the time of the report, including access improvements, savings, and quality-of-care enhancements they brought about, and a description of any additional use of funds made available under subsection (d).
 
-(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shall include in the annual report under this subsection for each year through 2008 the following:
+(4) In addition to the matters specified in paragraphs (2) and (3), the two Secretaries shallinclude in the annual report under this subsection for each year through 2008 the following:
 
-&emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
+&emsp;(A) A description of the measures taken, or planned to be taken, to implement the health resources sharing project under section 722 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314) and any cost savings anticipated, or cost sharing achieved, at facilities participating in the project, including information on improvements in access to care, quality, and timeliness, as well as impediments encountered and legislative recommendations to ameliorate such impediments.
 
-&emsp;(B) A description of the use of the waiver authority provided by section 722(d)(1) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, including—
+&emsp;(B) A description of the use of the waiver authority provided by section 722(d)(1) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including—
 
 &emsp;&emsp;(i) a statement of the numbers and types of requests for waivers under that section of administrative policies that have been made during the period covered by the report and, for each such request, an explanation of the content of each request, the intended purpose or result of the requested waiver, and the disposition of each request; and
 
 &emsp;&emsp;(ii) descriptions of any new administrative policies that enhance the success of the project.
 
-(5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a report on the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, including activities under the program during the preceding year and each Secretary's assessment of the efficacy of providing education and training under that program.
+(5) In addition to the matters specified in paragraphs (2), (3), and (4), the two Secretaries shall include in the annual report under this subsection for each year through 2009 a report on the pilot program for graduate medical education under section 725 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314), including activities under the program during the preceding year and each Secretary's assessment of the efficacy of providing education and training under that program.
 
 (g)
 
@@ -146,7 +118,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492.)
 
 #### References in Text
 
@@ -159,6 +131,22 @@ The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred 
 Provisions similar to those comprising this section were contained in former section 5003 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–136, §583(b)(2)(A), substituted “the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title” for “the interagency committee provided for under subsection (c)”.
+
+Subsec. (c). Pub. L. 108–136, §583(b)(1), struck out subsec. (c) which related to establishment of Department of Veterans Affairs-Department of Defense Health Executive Committee.
+
+Subsec. (d)(1). Pub. L. 108–136, §583(b)(2)(B), substituted “Department of Veterans Affairs-Department of Defense Joint Executive Committee” for “Committee established in subsection (c)”.
+
+Subsec. (e)(1). Pub. L. 108–136, §583(b)(2)(C), substituted “Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources” for “Committee under subsection (c)(2)” in introductory provisions.
+
+Subsec. (f)(2)(B), (C). Pub. L. 108–136, §583(b)(2)(D), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for the sharing of health-care resources between the two Departments.
+
+“(C) Any recommendation made under subsection (c)(4) during such fiscal year.”
+
+Subsec. (f)(3), (4)(A), (B), (5). Pub. L. 108–136, §583(c), inserted “(Public Law 107–314)” after “for Fiscal Year 2003”.
 
 2002—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text related to agreements and contracts for mutual use or exchange of use of hospital and domiciliary facilities and other resources by the Secretary of Veterans Affairs and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy and provided for establishment of the Department/Department of Defense Health-Care Resources Sharing Committee.
 
@@ -320,7 +308,7 @@ Termination.—(1) The project, and the authority provided by this section, shal
 
 #### Access to Care for TRICARE-Eligible Military Retirees
 
-Pub. L. 106–117, title I, §113, Nov. 30, 1999, 113 Stat. 1556, provided that:
+Pub. L. 106–117, title I, §113, Nov. 30, 1999, 113 Stat. 1556, as amended by Pub. L. 108–7, div. K, title I, §113(d)(2), Feb. 20, 2003, 117 Stat. 483, provided that:
 
 “(a)
 
@@ -340,7 +328,7 @@ Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreem
 
 “(b)
 
-Depositing of Reimbursements.—Amounts received by the Secretary of Veterans Affairs under the agreement under subsection (a) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of title 38, United States Code, as added by section 202.
+Depositing of Reimbursements.—Amounts received by the Secretary of Veterans Affairs under the agreement under subsection (a) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of title 38, United States Code.
 
 “(c)
 
@@ -412,7 +400,7 @@ Use of Funds.—Any amount received by the Secretary from a non-Federal entity a
 
 #### “SEC. 203. EXPANDED SHARING AGREEMENTS WITH DEPARTMENT OF DEFENSE.
 
-“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding any other provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
+“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding anyother provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
 
 &emsp;“(1) without regard to any otherwise applicable requirement for the payment of a copayment or deductible; or
 
@@ -462,45 +450,11 @@ Section 2(a) of Pub. L. 97–174 provided that: “The Congress makes the follow
 
 &emsp;“(3) Such sharing of health-care resources can be achieved without a detrimental effect on the primary health-care beneficiaries of the Veterans’ Administration and the Department of Defense.”
 
-#### Ex. Ord. No. 13214. President's Task Force To Improve Health Care Delivery for Our Nation's Veterans
+#### Executive Order No. 13214
 
-Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide prompt and efficient access to consistently high quality health care for veterans who have served the Nation, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is established the President's Task Force to Improve Health Care Delivery for Our Nation's Veterans (Task Force).
-
-Sec. 2. <i>Membership</i>. The Task Force shall be comprised of 15 members appointed by the President. Two of the 15 members shall serve as co-chairs of the Task Force. The Task Force membership shall include health care experts, officials familiar with Department of Veterans Affairs and Department of Defense health care systems, and representatives from veteran and military service organizations.
-
-Sec. 3. <i>Mission</i>. The mission of the Task Force shall be to:
-
-&emsp;(a) identify ways to improve benefits and services for Department of Veterans Affairs beneficiaries and Department of Defense military retirees who are also eligible for benefits from the Department of Veterans Affairs through better coordination of the activities of the two departments;
-
-&emsp;(b) review barriers and challenges that impede Department of Veterans Affairs and Department of Defense coordination, including budgeting processes, timely billing, cost accounting, information technology, and reimbursement. Identify opportunities to improve such business practices to ensure high quality and cost effective health care; and
-
-&emsp;(c) identify opportunities for improved resource utilization through partnership between the Department of Veterans Affairs and the Department of Defense to maximize the use of resources and infrastructure, including: buildings, information technology and data sharing systems, procurement of supplies, equipment and services, and delivery of care.
-
-Sec. 4. <i>Administration.</i>
-
-&emsp;(a) The Department of Veterans Affairs shall, to the extent permitted by law, provide administrative support and funding for the Task Force.
-
-&emsp;(b) Members of the Task Force shall serve without any compensation for their work on the Task Force. Members appointed from among private citizens of the United States, however, while engaged in the work of the Task Force, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), to the extent funds are available.
-
-&emsp;(c) The co-chairs of the Task Force shall appoint an Executive Director to coordinate administration of the Task Force. To the extent permitted by law, office space, analytical support, and additional staff support for the Commission shall be provided by executive branch departments and agencies as directed by the President.
-
-&emsp;(d) The heads of the executive branch departments and agencies shall, to the extent permitted by law, provide the Task Force with information as requested by the co-chairs.
-
-&emsp;(e) At the call of the co-chairs, the Task Force shall meet as necessary to accomplish its mission.
-
-&emsp;(f) The functions of the President under the Federal Advisory Committee Act, as amended, except for those in section 6 of that Act, that are applicable to the Task Force, shall be performed by the Department of Veterans Affairs, in accordance with the guidelines that have been issued by the Administrator of General Services.
-
-Sec. 5. <i>Reports</i>. The Task Force shall report its findings and recommendations to the President, through the Secretary of Veterans Affairs and Secretary of Defense. The Task Force shall issue an interim report in 9 months from the date of the first meeting of the Task Force. The Task Force shall issue a final report prior to the end of the second year of operation.
-
-Sec. 6. <i>Termination</i>. The Task Force shall terminate 30 days after submitting its final report, but no later than 2 years from the date of this order.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, which established President's Task Force to Improve Health Care Delivery for Our Nation's Veterans, was revoked by Ex. Ord. No. 13316, §3(h), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8102, 8104, 8107 of this title; title 10 sections 1104, 2641.
+This section is referred to in sections 320, 8102, 8104 of this title; title 10 sections 1104, 2641.
 

@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall develop methods and procedures for measuring, annually andover longer periods, the quality and effectiveness of programs operated by Head Start agencies, and the impact of the services provided through the programs to children and their families (referred to in this subchapter as “results-based performance measures”).
+&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall develop methods and procedures for measuring, annually and over longer periods, the quality and effectiveness of programs operated by Head Start agencies, and the impact of the services provided through the programs to children and their families (referred to in this subchapter as “results-based performance measures”).
 
 #### (2) Characteristics of measures
 
@@ -168,7 +168,7 @@
 
 #### (3) Training and technical assistance
 
-&emsp;The Secretary shall provide training and technical assistance to Head Start agencies with respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
+&emsp;The Secretary shall provide training and technical assistance to Head Start agencieswith respect to the development or implementation of such quality improvement plans to the extent the Secretary finds such provision to be feasible and appropriate given available funding and other statutory responsibilities.
 
 #### (e) Summaries of monitoring outcomes
 

@@ -8,7 +8,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter or any other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
 
-&emsp;(3) has had his State license or registration suspended, revoked, or denied by competentState authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
+&emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
 &emsp;(4) has committed such acts as would render his registration under section 823 of this title inconsistent with the public interest as determined under such section; or
 

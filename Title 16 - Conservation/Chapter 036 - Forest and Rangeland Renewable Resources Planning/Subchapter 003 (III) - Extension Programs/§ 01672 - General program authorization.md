@@ -22,11 +22,11 @@ The Secretary of Agriculture (hereinafter in this subchapter referred to as the 
 
 &emsp;(9) in cooperation with State foresters or equivalent State officials, promote public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community area environments and expand knowledge of the ecological relationships and benefits of trees and related resources in urban and community environments; and
 
-&emsp;(10) conduct a comprehensive natural resource and environmental education programfor landowners and managers, public officials, and the public, with particular emphasis on youth.
+&emsp;(10) conduct a comprehensive natural resource and environmental education program for landowners and managers, public officials, and the public, with particular emphasis on youth.
 
 #### (b) “Eligible colleges and universities” defined
 
-As used in this subchapter, the term “eligible colleges and universities” means colleges and universities eligible to be supported and maintained, in whole or in part, with funds made available under the provisions of the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 308), and the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), including Tuskegee Institute, and colleges and universities eligible for assistance under the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7).
+As used in this subchapter, the term “eligible colleges and universities” means colleges anduniversities eligible to be supported and maintained, in whole or in part, with funds made available under the provisions of the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 308), and the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), including Tuskegee Institute, and colleges and universities eligible for assistance under the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7).
 
 #### (c) Use of appropriate educational methods required; scope of methods
 

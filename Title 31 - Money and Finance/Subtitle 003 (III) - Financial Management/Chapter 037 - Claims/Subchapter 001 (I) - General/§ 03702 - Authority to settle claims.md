@@ -138,7 +138,7 @@ Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted “under subsection 
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted “payments for unused accrued leave,” after “transportation,”.
 
-Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
+Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claimfor retired pay under title 10” for “claim for pay or allowances provided under title 37”.
 
 1997—Subsec. (e)(1). Pub. L. 105–85, §1012(1), substituted “Secretary of Defense” for “Comptroller General”.
 
@@ -168,7 +168,7 @@ Pub. L. 107–314, div. A, title VI, §635(c), Dec. 2, 2002, 116 Stat. 2574, pro
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such later date as the Secretary ofthe Treasury may prescribe in regulations, see section 1006 of Pub. L. 100–86, set out as a note under section 3328 of this title.
+Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations, see section 1006 of Pub. L. 100–86, set out as a note under section 3328 of this title.
 
 #### Effective Date of 1983 Amendment
 

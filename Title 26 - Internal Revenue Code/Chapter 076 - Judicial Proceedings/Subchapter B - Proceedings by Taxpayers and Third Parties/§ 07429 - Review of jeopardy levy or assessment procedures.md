@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) whether or not the levy described in subsection (a)(1) is reasonable under the circumstances.
 
-> &emsp;If the court determines that proper service was not made on the United States or on theSecretary, as may be appropriate, within 5 days after the date of the commencement of the proceeding, then the running of the 20-day period set forth in the preceding sentence shall not begin before the day on which proper service was made on the United States or on the Secretary, as may be appropriate.
+> &emsp;If the court determines that proper service was not made on the United States or on the Secretary, as may be appropriate, within 5 days after the date of the commencement of the proceeding, then the running of the 20-day period set forth in the preceding sentence shall not begin before the day on which proper service was made on the United States or on the Secretary, as may be appropriate.
 
 #### (4) Order of court
 
@@ -100,7 +100,7 @@ Any determination made by a court under this section shall be final and conclusi
 
 &emsp;In a proceeding under subsection (b) involving the issue of whether an amount assessed or demanded as a result of action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances, the Secretary shall provide a written statement which contains any information with respect to which his determination of the amount assessed was based, but the burden of proof in respect of such issue shall be upon the taxpayer.
 
-(Added Pub. L. 94–455, title XII, §1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div. A, title IV, §446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, §10713(b)(2)(F), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, §3434(a), July 22, 1998, 112 Stat. 760.)
+(Added Pub. L. 94–455, title XII, §1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div. A, title IV, §446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, §10713(b)(2)(F), Dec. 22,1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, §3434(a), July 22, 1998, 112 Stat. 760.)
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Subsec. (g)(2). Pub. L. 100–647, §6237(e)(2)(C), substituted “a proceeding�
 
 Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, §10713(b)(2)(F)(ii), substituted “6851, 6852,” for “6851,” wherever appearing.
 
-1984—Subsec. (b)(2). Pub. L. 98–369 inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the runningof the 20-day period shall not begin before the day on which proper service was made on the United States.
+1984—Subsec. (b)(2). Pub. L. 98–369 inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the running of the 20-day period shall not begin before the day on which proper service was made on the United States.
 
 #### Effective Date of 1998 Amendment
 

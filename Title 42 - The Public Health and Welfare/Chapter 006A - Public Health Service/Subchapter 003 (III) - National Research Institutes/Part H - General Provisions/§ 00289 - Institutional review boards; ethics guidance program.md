@@ -32,7 +32,7 @@ Areas of Review.—In conducting the review under subsection (a)(1), the Institu
 
 &emsp;“(1) The written and oral process of obtaining and defining ‘assent’, ‘permission’ and ‘informed consent’ with respect to child clinical research participants and the parents, guardians, and the individuals who may serve as the legally authorized representatives of such children (as defined in subpart A of part 46 of title 45, Code of Federal Regulations).
 
-&emsp;“(2) The expectations and comprehension of child research participants and the parents, guardians, or legally authorized representatives of such children,for the direct benefits and risks of the child's research involvement, particularly in terms of research versus therapeutic treatment.
+&emsp;“(2) The expectations and comprehension of child research participants and the parents, guardians, or legally authorized representatives of such children, for the direct benefits and risks of the child's research involvement, particularly in terms of research versus therapeutic treatment.
 
 &emsp;“(3) The definition of ‘minimal risk’ with respect to a healthy child or a child with an illness.
 

@@ -43,7 +43,7 @@ Not later than 24 months after November 15, 1990, the Administrator shall promul
 
 &emsp;(A) The sale of more clean-fuel vehicles than required under subsection (c)(1) of this section.
 
-&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or all of the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respectto the same vehicles under any State law, rule, or regulation.
+&emsp;(B) The sale of clean fuel <sup>1</sup> vehicles which meet standards established by the Administrator as provided in paragraph (3) which are more stringent than the clean-fuel vehicle standards otherwise applicable to such clean-fuel vehicle. A manufacturer granted credits under this paragraph may transfer some or allof the credits for use by one or more other manufacturers in demonstrating compliance with the requirements prescribed under this paragraph. The Administrator may make the credits available for use after consideration of enforceability, environmental, and economic factors and upon such terms and conditions as he finds appropriate. The Administrator shall grant credits in accordance with this paragraph, notwithstanding any requirements of State law or any credits granted with respect to the same vehicles under any State law, rule, or regulation.
 
 (2)
 
@@ -97,7 +97,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle I of the Act is classified generally to subchapter IX (§6991 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(2)(D), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle I of the Act is classified generally to subchapter IX (§6991 et seq.) of chapter 82 of this title. For complete classification of thisAct to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 November 15, 1990, referred to in subsec. (e)(3), was in the original “the date of the Clean Air Act Amendments of 1990”, which was translated as meaning the date of enactment of Pub. L. 101–549, which enacted this section, to reflect the probable intent of Congress.
 

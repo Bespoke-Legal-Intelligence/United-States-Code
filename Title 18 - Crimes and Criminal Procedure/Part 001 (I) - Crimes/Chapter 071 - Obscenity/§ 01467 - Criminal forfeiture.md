@@ -8,7 +8,7 @@ Property Subject to Criminal Forfeiture.—A person who is convicted of an offen
 
 &emsp;(2) any property, real or personal, constituting or traceable to gross profits or other proceeds obtained from such offense; and
 
-&emsp;(3) any property, real or personal, used or intended to be used to commit or to promote the commission of such offense, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.
+&emsp;(3) any property, real or personal, used or intended to be used to commit or to promote the commission of such offense, if the court in itsdiscretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.
 
 (b)
 
@@ -90,7 +90,7 @@ Third Party Interests.—(1) Following the entry of an order of forfeiture under
 
 (3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
-(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within 30 days of the filing of the petition. The court may consolidatethe hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
+(4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within 30 days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
 
 (5) At the hearing, the petitioner may testify and present evidence and witnesses on his own behalf, and cross-examine witnesses who appear at the hearing. The United States may present evidence and witnesses in rebuttal and in defense of its claim to the property and cross-examine witnesses who appear at the hearing. In addition to testimony and evidence presented at the hearing, the court shall consider the relevant portions of the record of the criminal case which resulted in the order of forfeiture.
 

@@ -18,7 +18,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;&emsp;(A) to assist Federal and State agencies recognized by the Secretary as having responsibility for identifying and investigating cases or patterns of fraud or abuse, which data and information shall be provided by the peer review organization to any such agency at the request of such agency relating to a specific case or pattern;
 
-&emsp;&emsp;(B) to assist appropriate Federal and State agencies recognized by the Secretary as having responsibility for identifying cases or patterns involving risks to the public health, which data and information shall be provided by the peer review organization to any such agency—
+&emsp;&emsp;(B) to assist appropriate Federal and State agencies recognized by the Secretary as having responsibility for identifying cases or patterns involving risks to the public health, which data and information shall beprovided by the peer review organization to any such agency—
 
 &emsp;&emsp;&emsp;(i) at the discretion of the peer review organization, at the request of such agency relating to a specific case or pattern with respect to which such agency has made a finding, or has a reasonable belief, that there may be a substantial risk to the public health, or
 
@@ -38,7 +38,7 @@ It shall be unlawful for any person to disclose any such information described i
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
-No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary ofthe organization's findings and conclusions in making the determination.
+No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.
 
 #### (e) Organizations with contracts
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec.
 
 1990—Subsec. (b)(1)(D). Pub. L. 101–508, §4205(d)(1)(B), added subpar. (D).
 
-Subsec. (d). Pub. L. 101–508, §4205(e)(1), inserted at end “No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.”
+Subsec. (d). Pub. L. 101–508, §4205(e)(1), inserted at end “No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or1320c–5(a)(2) of this title shall be subject to subpena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.”
 
 1988—Subsec. (e). Pub. L. 100–360 added Pub. L. 100–203, §4039(h)(6), see 1987 Amendment note below.
 

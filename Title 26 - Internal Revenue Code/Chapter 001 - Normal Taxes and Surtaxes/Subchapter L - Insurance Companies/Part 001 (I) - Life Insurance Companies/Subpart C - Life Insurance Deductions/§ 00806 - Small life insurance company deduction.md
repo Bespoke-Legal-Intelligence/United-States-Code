@@ -74,11 +74,11 @@ For purposes of this part—
 
 &emsp;&emsp;(A) all life insurance companies which are members of the same controlled group shall be treated as 1 life insurance company, and
 
-&emsp;&emsp;(B) any small life insurance company deduction determined with respect to such group shall be allocated among the life insurance companies which are members ofsuch group in proportion to their respective tentative LICTI's.
+&emsp;&emsp;(B) any small life insurance company deduction determined with respect to such group shall be allocated among the life insurance companies which are members of such group in proportion to their respective tentative LICTI's.
 
 #### (2) Nonlife insurance members included for asset test
 
-&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether or not life insurance companies) shall be treated as 1 company.
+&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether ornot life insurance companies) shall be treated as 1 company.
 
 #### (3) Controlled group
 

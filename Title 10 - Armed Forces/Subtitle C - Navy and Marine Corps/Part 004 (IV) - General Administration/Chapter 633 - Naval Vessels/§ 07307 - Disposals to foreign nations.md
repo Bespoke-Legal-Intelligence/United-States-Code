@@ -34,5 +34,5 @@ A prior section 7307, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Aug. 5, 1974,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2433 of this title; title 22 section 2793; title 42 section 6939d; title 50 section 415.
+This section is referred to in sections 2433, 7316 of this title; title 22 section 2793; title 42 section 6939d; title 50 section 415.
 

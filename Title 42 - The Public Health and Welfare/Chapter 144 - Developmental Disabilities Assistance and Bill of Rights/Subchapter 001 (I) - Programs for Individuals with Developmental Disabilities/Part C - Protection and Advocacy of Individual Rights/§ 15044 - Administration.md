@@ -26,7 +26,7 @@ In a State in which the system described in section 15043 of this title is organ
 
 &emsp;&emsp;(B) on which a majority of the members shall be—
 
-&emsp;&emsp;&emsp;(i) individuals with developmental disabilities who are eligible for services, or have received or are receiving services, through the system; or
+&emsp;&emsp;&emsp;(i) individuals with developmental disabilities who are eligible for services, orhave received or are receiving services, through the system; or
 
 &emsp;&emsp;&emsp;(ii) parents, family members, guardians, advocates, or authorized representatives of individuals referred to in clause (i).
 
@@ -38,7 +38,7 @@ In a State in which the system described in section 15043 of this title is organ
 
 #### (2) Use of amounts from judgment
 
-&emsp;An amount received pursuant to a suit described in paragraph (1) through a court judgment may only be used by the system to further the purpose of this part and shall not beused to augment payments to legal contractors or to award personal bonuses.
+&emsp;An amount received pursuant to a suit described in paragraph (1) through a court judgment may only be used by the system to further the purpose of this part and shall not be used to augment payments to legal contractors or to award personal bonuses.
 
 #### (3) Limitation
 

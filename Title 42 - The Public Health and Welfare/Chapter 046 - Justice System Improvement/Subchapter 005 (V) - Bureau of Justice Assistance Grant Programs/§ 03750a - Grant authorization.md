@@ -12,7 +12,7 @@ The Director of the Bureau of Justice Assistance shall make grants to Anti Car T
 
 #### Codification
 
-Section was enacted as part of the Anti Car Theft Act of 1992, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+Section was enacted as part of the Anti Car Theft Act of 1992, and not as part of title I of the Omnibus CrimeControl and Safe Streets Act of 1968 which comprises this chapter.
 
 #### Transfer of Functions
 

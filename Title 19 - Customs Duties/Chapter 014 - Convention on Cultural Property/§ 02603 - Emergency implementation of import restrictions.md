@@ -10,7 +10,7 @@ For purposes of this section, the term “emergency condition” means, with res
 
 &emsp;(3) a part of the remains of a particular culture or civilization, the record of which is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions;
 
-> and application of the import restrictions set forth in section 2606 of this title on a temporary basis would, in whole or in part, reduce the incentive for such pillage, dismantling, dispersal or fragmentation.
+> and application of the import restrictions set forth in section 2606 of this title on a temporarybasis would, in whole or in part, reduce the incentive for such pillage, dismantling, dispersal or fragmentation.
 
 #### (b) Presidential action
 

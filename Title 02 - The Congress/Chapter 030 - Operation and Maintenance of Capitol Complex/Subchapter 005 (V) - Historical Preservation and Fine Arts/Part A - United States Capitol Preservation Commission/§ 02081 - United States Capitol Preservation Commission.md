@@ -36,7 +36,7 @@ Each member of the Commission specified under subsection (b) of this section (ot
 
 #### (d) Architect of the Capitol
 
-In addition to the members under subsection (b) of this section, the Architect of the Capitolshall participate in the activities of the Commission, ex officio, and without the right to vote.
+In addition to the members under subsection (b) of this section, the Architect of the Capitol shall participate in the activities of the Commission, ex officio, and without the right to vote.
 
 #### (e) Staff support and assistance
 
@@ -50,7 +50,7 @@ Section was classified to section 188a of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1996—Subsec. (b)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (b)(3). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

@@ -1,8 +1,8 @@
 ### §581. Selective retirement
 
-(a) A regular warrant officer who holds a warrant officer grade above warrant officer, W–1, and whose name is not on a list of warrant officers recommended for promotion and who is eligible to retire under any provision of law may be considered for retirement by a selection board convened under section 573(c) of this title. The Secretary concerned shall specify the maximum number of warrant officers that such a board may recommend for retirement.
+(a) A regular warrant officer who holds a warrant officer grade above warrant officer, W–1, and whose name is not on a list of warrant officers recommended for promotion and who is eligible to retire under any provision of law maybe considered for retirement by a selection board convened under section 573(c) of this title. The Secretary concerned shall specify the maximum number of warrant officers that such a board may recommend for retirement.
 
-(b) A warrant officer who is recommended for retirement under this section and whose retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the daterequested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for retirement.
+(b) A warrant officer who is recommended for retirement under this section and whose retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for retirement.
 
 (c) The retirement of a warrant officer pursuant to this section shall be considered to be an involuntary retirement for purposes of any other provision of law.
 

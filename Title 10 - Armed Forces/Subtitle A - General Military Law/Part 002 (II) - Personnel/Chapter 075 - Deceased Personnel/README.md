@@ -13,7 +13,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 33 section 857a; title 42 section 213a.
+This chapter is referred to in title 26 section 134; title 42 section 213a.
 
 
 ---

@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to thealien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying—
+&emsp;&emsp;In removal proceedings under section 1229a of this title, in the case of any change or postponement in the time and place of such proceedings, subject to subparagraph (B) a written notice shall be given in person to the alien (or, if personal service is not practicable, through service by mail to the alien or to the alien's counsel of record, if any) specifying—
 
 &emsp;&emsp;&emsp;(i) the new time or place of the proceedings, and
 
@@ -80,7 +80,7 @@ Section effective, with certain transitional provisions, on the first day of the
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

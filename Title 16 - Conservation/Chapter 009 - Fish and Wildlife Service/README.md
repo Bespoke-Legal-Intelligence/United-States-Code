@@ -16,7 +16,7 @@
 | [742c.](%C2%A7%2000742c%20-%20Loans%20for%20financing%20or%20refinancing%20of%20cost%20of%20purchasing%2C%20constructing%2C%20equipping%2C%20maintaining%2C%20repairing%2C%20or%20operating%20commercial%E2%80%A6.md) | Loans for financing or refinancing of cost of purchasing, constructing, equipping, maintaining, repairing, or operating commercial fishing vessels or gear. |
 | (a) | Authorization. |
 | (b) | Conditions. |
-| (c) | Fisheries loan fund; interest payments on appropriations available as capital to fund less average undispersed cash balance. |
+| (c) | Fisheries loan fund; interest payments on appropriations available as capital to the fund less average undispersed cash balance. |
 | (d) | Modification of loan contract. |
 | (e) | Chartering vessels; loans to Alaskan earthquake victims; termination date. |
 | 742c–1. | Investment in obligations of the United States; proceeds to be used for fisheries. |

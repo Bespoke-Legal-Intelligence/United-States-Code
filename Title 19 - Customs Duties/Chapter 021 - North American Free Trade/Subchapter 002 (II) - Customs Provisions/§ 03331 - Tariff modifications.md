@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) such modifications or continuation of any duty,
 
-&emsp;&emsp;(B) such modifications as the United States may agree to with Mexico or Canadaregarding the staging of any duty treatment set forth in Annex 302.2 of the Agreement,
+&emsp;&emsp;(B) such modifications as the United States may agree to with Mexico or Canada regarding the staging of any duty treatment set forth in Annex 302.2 of the Agreement,
 
 &emsp;&emsp;(C) such continuation of duty-free or excise treatment, or
 

@@ -24,7 +24,7 @@ If a corporation has a short taxable year which does not include a December 31 a
 
 > of such corporation for such taxable year shall be the amount specified in subsection (a)(1) or (2), as the case may be, divided by the number of corporations which are component members of such group on the last day of such taxable year. For purposes of the preceding sentence, section 1563(b) shall be applied as if such last day were substituted for December 31.
 
-(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 116; amended Pub. L. 91–172, title IV, §401(a)(1), Dec. 30, 1969, 83 Stat. 599; Pub. L. 94–12, title III, §§303(c)(1), 304(b), Mar. 29, 1975, 89 Stat. 44, 45; Pub. L. 94–164, §4(d)(1), Dec. 23, 1975, 89 Stat. 974; Pub. L. 94–455, title IX, §901(c)(1), title XIX, §§1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1607, 1791, 1834; Pub. L. 95–600, title III, §301(b)(19), title VII, §703(j)(7), Nov. 6, 1978, 92 Stat. 2823, 2941; Pub. L. 97–34, title II, §232(b)(3), Aug. 13, 1981, 95 Stat. 250; Pub. L. 97–248, title II, §259(b), (c), Sept. 3, 1982, 96 Stat. 539; Pub. L. 98–369, div. A, title I, §66(b), title II, §211(b)(21), July 18, 1984, 98 Stat. 585, 756; Pub. L. 99–499, title V, §516(b)(3), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(e)(2), Oct. 22, 1986,100 Stat. 2342; Pub. L. 100–647, title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3606; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876.)
+(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 116; amended Pub. L. 91–172, title IV, §401(a)(1), Dec. 30, 1969, 83 Stat. 599; Pub. L. 94–12, title III, §§303(c)(1), 304(b), Mar. 29, 1975, 89 Stat. 44, 45; Pub. L. 94–164, §4(d)(1), Dec. 23, 1975, 89 Stat. 974; Pub. L. 94–455, title IX, §901(c)(1), title XIX, §§1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1607, 1791, 1834; Pub. L. 95–600, title III, §301(b)(19), title VII, §703(j)(7), Nov. 6, 1978, 92 Stat. 2823, 2941; Pub. L. 97–34, title II, §232(b)(3), Aug. 13, 1981, 95 Stat. 250; Pub. L. 97–248, title II, §259(b), (c), Sept. 3, 1982, 96 Stat. 539; Pub. L. 98–369, div. A, title I, §66(b), title II, §211(b)(21), July 18, 1984, 98 Stat. 585, 756; Pub. L. 99–499, title V, §516(b)(3), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, §701(e)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–647, title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3606; Pub. L. 104–188, title I, §1703(f), Aug. 20, 1996, 110 Stat. 1876.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Section 263(a)(1) of Pub. L. 97–248 provided that the amendment made by sectio
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 232(c) ofPub. L. 97–34, set out as a note under section 535 of this title.
+Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 232(c) of Pub. L. 97–34, set out as a note under section 535 of this title.
 
 #### Effective Date of 1978 Amendment
 

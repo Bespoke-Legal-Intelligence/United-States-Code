@@ -156,7 +156,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 “(e)
 
-No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set outunder section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
+No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
 
 #### “SEC. 142. SERVICE DISCONTINUANCE.
 

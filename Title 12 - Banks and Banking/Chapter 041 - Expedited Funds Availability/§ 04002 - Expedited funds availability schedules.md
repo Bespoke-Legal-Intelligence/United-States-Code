@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) is deposited in a receiving depository institution which is staffed by individuals employed by such institution;
 
-&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check,certified check, teller's check, or depository check, as the case may be; and
+&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check, certified check, teller's check, or depository check, as the case may be; and
 
 &emsp;&emsp;&emsp;(iii) is endorsed only by the person to whom it was issued.
 
@@ -94,7 +94,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than the business day after the business day on which such funds otherwise are available under subparagraph (A).
+&emsp;&emsp;&emsp;Except as provided in clause (ii), funds deposited in an account in a depository institution by check drawn on a local depository institution that is not a participant in the same check clearinghouse association as the receiving depository institution (other than a check described in subsection (a)(2) of this section) shall be available for cash withdrawal not later than thebusiness day after the business day on which such funds otherwise are available under subparagraph (A).
 
 #### (ii) 5 p.m. cash availability
 
@@ -116,7 +116,7 @@
 
 #### (1) Reduction generally
 
-&emsp;Notwithstanding any other provision of law, the Board shall, by regulation, reduce thetime periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+&emsp;Notwithstanding any other provision of law, the Board shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
 
 #### (2) Extension for certain deposits in noncontiguous States or territories
 
@@ -170,7 +170,7 @@ No provision of this section shall be construed as requiring that, with respect 
 
 Subsec. (e)(1)(C). Pub. L. 102–242, §227(a), struck out subpar. (C) which read as follows: “This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and prior to the expiration of the 2-year period beginning on November 28, 1990.”
 
-Subsec. (e)(2) to (4). Pub. L. 102–242, §227(a), (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
+Subsec. (e)(2) to (4). Pub. L. 102–242, §227(a), (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
 
 1990—Subsec. (e)(1)(A). Pub. L. 101–625, §1001(1), substituted “4” for “6”.
 
@@ -184,7 +184,7 @@ Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4003, 4006, 4008 of this title.
+This section is referred to in sections 4003, 4006, 4008, 5015 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

@@ -24,7 +24,7 @@ A prior section 11906, Pub. L. 100–690, title V, §5127, Nov. 18, 1988, 102 St
 
 #### Effective Date
 
-Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provisionthat Secretary may implement section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(i) there is a limitation described in subparagraph (C) in a State statute, regulation, or order which has the effect of permitting a bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to control a greater percentage of total deposits of all insured depository institutions in the State than the percentage permitted under subparagraph (B); or
 
-&emsp;&emsp;&emsp;(ii) the transaction is approved by the appropriate State bank supervisor of such State and the standard on which such approval is based does not have the effect of discriminating against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
+&emsp;&emsp;&emsp;(ii) the transaction is approved by the appropriate State bank supervisor of suchState and the standard on which such approval is based does not have the effect of discriminating against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
 
 #### (E) Exception for certain banks
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;(B) the bank holding company made commitments to such State in connection with the acquisition,
 
-> &emsp;the State may enforce such conditions and commitments with respect to such bank holding company or any affiliated successor company which controls a bank or branch in such State as a result of an interstate merger transaction to the same extent as the State could enforce such conditions or commitments against the bank holding company before the consummation of the merger transaction.
+> &emsp;the State may enforce such conditions and commitments with respect to such bank holding company or any affiliated successor company which controls a bank or branch in suchState as a result of an interstate merger transaction to the same extent as the State could enforce such conditions or commitments against the bank holding company before the consummation of the merger transaction.
 
 #### (e) Exception for banks in default or in danger of default
 

@@ -32,13 +32,25 @@
 
 &emsp;(3) The educational institution and its approved courses meet the criteria of paragraphs (1), (2), and (3) of section 3676(c) of this title.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, §103(c), Oct. 9, 1996, 110 Stat. 3326.)
+(c)(1) A State approving agency may approve the entrepreneurship courses offered by a qualified provider of entrepreneurship courses.
+
+(2) For purposes of this subsection, the term “entrepreneurship course” means a non-degree, non-credit course of business education that enables or assists a person to start or enhance a small business concern (as defined pursuant to section 3(a) of the Small Business Act (15 U.S.C. 632(a))).
+
+(3) Subsection (a) and paragraphs (1) and (2) of subsection (b) shall not apply to—
+
+&emsp;(A) an entrepreneurship course offered by a qualified provider of entrepreneurship courses; and
+
+&emsp;(B) a qualified provider of entrepreneurship courses by reason of such provider offering one or more entrepreneurship courses.
+
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1775; amended Pub. L. 89–358, §3(a)(8), Mar. 3, 1966, 80 Stat. 21; Pub. L. 94–502, title V, §§504, 513(a)(2), Oct. 15, 1976, 90 Stat. 2399, 2402; Pub. L. 96–466, title VIII, §801(d), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3675 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §312, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 103–446, title VI, §605(a)(2)(A), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 104–275, title I, §103(c), Oct. 9, 1996, 110 Stat. 3326; Pub. L. 108–183, title III, §305(a), Dec. 16, 2003, 117 Stat. 2660.)
 
 #### References in Text
 
 Act of February 23, 1917, referred to in subsec. (a)(1)(B), is act Feb. 23, 1917, ch. 114, 39 Stat. 929, as amended, known as the Smith-Hughes Vocational Education Act, which was classified to sections 11 to 15 and 16 to 28 of Title 20, Education, prior to repeal by Pub. L. 105–33, title VI, §6201, Aug. 5, 1997, 111 Stat. 653. For complete classification of this Act to the Code, see Short Title note set out under section 11 of Title 20 and Tables.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–183 added subsec. (c).
 
 1996—Subsec. (b). Pub. L. 104–275 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “As a condition to approval under this section, the State approving agency must find that adequate records are kept by the educational institution to show the progress of each eligible person or veteran and must include as a minimum (except for attendance) the requirements set forth in section 3676(c)(7) of this title. The State approving agency must also find that the educational institution maintains a written record of the previous education and training of the eligible person or veteran and clearly indicates that appropriate credit has been given by the institution for previous education and training, with the training period shortened proportionately and the eligible person or veteran and the Secretary so notified.”
 
@@ -64,9 +76,13 @@ Subsec. (b). Pub. L. 94–502, §504(2), inserted provision requiring that schoo
 
 1966—Subsec. (b). Pub. L. 89–358 inserted “or veteran” after “eligible person” in three places.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–183 applicable to courses approved by State approving agencies after Dec. 16, 2003, see section 305(f) of Pub. L. 108–183, set out as a note under section 3452 of this title.
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
+Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence coursescommencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
 
 #### Effective Date of 1980 Amendment
 

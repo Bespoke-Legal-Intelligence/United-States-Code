@@ -10,7 +10,7 @@
 
 &emsp;(4) may mint coins for a foreign country if the minting does not interfere with regular minting operations, and shall prescribe a charge for minting the foreign coins equal to the cost of the minting (including labor, materials, and the use of machinery).
 
-(b) The Department of the Treasury has a coinage metal fund and a coinage profit fund.The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal. The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
+(b) The Department of the Treasury has a coinage metal fund and a coinage profit fund. The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal. The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
 
 (c)
 
@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulationprescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -136,7 +136,7 @@ In subsection (a)(1), the words “coins described in” are substituted for “
 
 In subsection (a)(2), the words “Secretary of the Treasury” are substituted for “engraver” and “superintendent of coining department of the mint at Philadelphia” because of the source provisions restated in section 321(c) of the revised title. The words “under such regulations as the superintendent, with the approval of the Director of the Mint, may prescribe” are omitted as unnecessary because of section 321(b) of the revised title. The words “national medal dies” are substituted for “Dies of a national character” for clarity. The words “or the machinery or apparatus thereof be used for that purpose” are omitted as unnecessary because of the restatement.
 
-In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title toapply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
+In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
 In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devices of such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
 
@@ -158,7 +158,7 @@ The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignat
 
 1992—Subsec. (b). Pub. L. 102–390 inserted “, including the cost of coin bags and pallets” after “distributing the coins” in fourth sentence.
 
-1988—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
+1988—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may makecontracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
 
 #### Termination of Coinage Profit Fund and Coinage Metal Fund
 
@@ -167,6 +167,14 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 108–180, Dec. 15, 2003, 117 Stat. 2645, recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
+
+Pub. L. 108–162, Dec. 6, 2003, 117 Stat. 2017, recognizing Dr. Dorothy Irene Height.
+
+Pub. L. 108–101, Oct. 29, 2003, 117 Stat. 1195, recognizing Jackie Robinson.
+
+Pub. L. 108–60, July 17, 2003, 117 Stat. 862, recognizing Prime Minister Tony Blair.
 
 Pub. L. 107–127, Jan. 16, 2002, 115 Stat. 2405, recognizing General Henry H. Shelton.
 
@@ -214,7 +222,7 @@ Pub. L. 102–32, Apr. 23, 1991, 105 Stat. 175, recognizing General H. Norman Sc
 
 Pub. L. 101–510, div. A, title XIV, §§1491, 1494, Nov. 5, 1990, 104 Stat. 1720, 1722, recognizing General Matthew B. Ridgway.
 
-Pub. L. 101–510, div. A, title XIV, §§1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present inHawaii on Dec. 7, 1941, and participated in combat operations that day.
+Pub. L. 101–510, div. A, title XIV, §§1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
 
 Pub. L. 101–510, div. A, title XIV, §§1493, 1494, Nov. 5, 1990, 104 Stat. 1722, commemorating centennial of Yosemite National Park.
 
@@ -240,7 +248,7 @@ Pub. L. 95–630, title IV, §§401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5112, 5116, 5120, 5132 of this title.
+This section is referred to in sections 5112, 5116, 5120, 5132, 5135 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

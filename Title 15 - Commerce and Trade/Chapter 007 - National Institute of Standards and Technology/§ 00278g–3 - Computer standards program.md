@@ -92,9 +92,13 @@ As used in this section—
 
 &emsp;(4) the term “information technology” has the same meaning as provided in section 11101 of title 40; and
 
-&emsp;(5) the term “national security system” has the same meaning as provided in section 3532(b)(2) of such title.
+&emsp;(5) the term “national security system” has the same meaning as provided in section 3532(b)(2) of such title.<sup>1</sup>
 
 (Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957.)
+
+#### References in Text
+
+Section 3532(b)(2) of such title, referred to in subsec. (e)(5), probably means section 3532(b)(2) of title 44.
 
 #### Codification
 
@@ -329,4 +333,6 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 272, 278g–4, 278h, 7406, 7407 of this title; title 6 section 512; title 40 sections 11302, 11331; title 44 sections 3504, 3533, 3538, 3543.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

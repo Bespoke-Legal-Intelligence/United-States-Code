@@ -26,7 +26,7 @@
 
 #### (C) Transfer of jurisdiction
 
-&emsp;&emsp;All Federal agencies are authorized to transfer jurisdiction of Federal lands or interest in lands (including buildings and other improvements on such lands or other Federal property other than real property) or any other asset within the State of Arizona to the Bureau of Land Management for the purpose of acquiring lands or interest in lands as provided for in this paragraph.
+&emsp;&emsp;All Federal agencies are authorized to transfer jurisdiction of Federal lands or interest in lands (including buildings andother improvements on such lands or other Federal property other than real property) or any other asset within the State of Arizona to the Bureau of Land Management for the purpose of acquiring lands or interest in lands as provided for in this paragraph.
 
 #### (b) Management of acquired lands
 

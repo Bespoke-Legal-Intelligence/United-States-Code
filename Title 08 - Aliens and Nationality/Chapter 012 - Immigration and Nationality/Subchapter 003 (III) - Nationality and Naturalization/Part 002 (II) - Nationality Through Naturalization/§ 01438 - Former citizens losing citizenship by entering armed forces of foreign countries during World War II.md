@@ -14,7 +14,7 @@ No person shall be naturalized under subsection (a) of this section unless he—
 
 #### (c) Status
 
-Any person naturalized in accordance with the provisions of this section, or any person who was naturalized in accordance with the provisions of section 323 of the Nationality Act of 1940, shall have, from and after such naturalization, the status of a native-born, or naturalized, citizen of the United States, whichever status existed in the case of such person prior to the loss of citizenship: <i>Provided</i>, That nothing contained herein, or in any other provision of law, shall be construed as conferring United States citizenship retroactively upon any such person during any period in which such person was not a citizen.
+Any person naturalized in accordance with the provisions of this section, or any person who was naturalized in accordance with the provisions of section 323 of the Nationality Act of 1940, shall have, from and after such naturalization, the status of a native-born, or naturalized, citizen of the United States, whichever status existed in the case of such person prior to the loss of citizenship: <i>Provided</i>, That nothing contained herein, or in any other provision of law, shall be construed as conferring United States citizenshipretroactively upon any such person during any period in which such person was not a citizen.
 
 #### (d) Span of World War II
 
@@ -22,7 +22,7 @@ For the purposes of this section, World War II shall be deemed to have begun on 
 
 #### (e) Inapplicability to certain persons
 
-This section shall not apply to any person who during World War II served in the armed forcesof a country while such country was at war with the United States
+This section shall not apply to any person who during World War II served in the armed forces of a country while such country was at war with the United States
 
 (June 27, 1952, ch. 477, title III, ch. 2, §327, 66 Stat. 248; Pub. L. 101–649, title IV, §407(d)(7), Nov. 29, 1990, 104 Stat. 5042.)
 

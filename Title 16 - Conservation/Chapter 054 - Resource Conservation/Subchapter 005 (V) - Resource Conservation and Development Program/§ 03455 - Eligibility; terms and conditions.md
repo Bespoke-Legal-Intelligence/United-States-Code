@@ -16,7 +16,7 @@ Technical assistance and financial assistance may be provided by the Secretary u
 
 &emsp;(4) the project provided for in the area plan is consistent with any comprehensive plan for the area;
 
-&emsp;(5) the cost of the land or an interest in the land acquired or to be acquired under the plan by any State, local unit of government, Indian tribe, or local nonprofit organization is borne by the State, local unit of government, Indian tribe, or local nonprofit organization, respectively; and
+&emsp;(5) the cost of the land or an interest in the land acquired or to be acquired under the planby any State, local unit of government, Indian tribe, or local nonprofit organization is borne by the State, local unit of government, Indian tribe, or local nonprofit organization, respectively; and
 
 &emsp;(6) the State, local unit of government, Indian tribe, or local nonprofit organization participating in the area plan agrees to maintain and operate the project.
 

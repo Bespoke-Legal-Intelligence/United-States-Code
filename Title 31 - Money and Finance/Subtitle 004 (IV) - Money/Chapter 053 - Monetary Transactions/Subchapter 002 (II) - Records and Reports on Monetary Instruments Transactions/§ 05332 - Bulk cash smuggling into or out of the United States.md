@@ -80,7 +80,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effort to stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
 
-&emsp;“(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
+&emsp;“(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could beconfiscated as the corpus delicti of the smuggling offense.
 
 “(b)
 

@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Feb. 16, 1938, ch. 30, title III, §351, 52 Stat. 60, set forth the legislative findings relating torice marketing quotas pursuant to this subpart and was omitted in view of the repeal of the remaining sections of the subpart.
+Section, act Feb. 16, 1938, ch. 30, title III, §351, 52 Stat. 60, set forth the legislative findings relating to rice marketing quotas pursuant to this subpart and was omitted in view of the repeal of the remaining sections of the subpart.
 

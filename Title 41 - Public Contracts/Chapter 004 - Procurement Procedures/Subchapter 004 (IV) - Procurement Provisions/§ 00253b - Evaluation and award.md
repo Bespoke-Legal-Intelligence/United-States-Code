@@ -154,7 +154,7 @@ Subsec. (d)(1). Pub. L. 103–355, §1061(c)(3)(A), added par. (1) and struck ou
 
 &emsp;“(A) after discussions conducted with the offerors at any time after receipt of the proposals and before the award of the contract; or
 
-&emsp;“(B) without discussions with the offerors (other than discussions conducted for the purpose of minorclarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the Government.”
+&emsp;“(B) without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the Government.”
 
 Subsec. (d)(2). Pub. L. 103–355, §§1061(c)(3)(C), 1063(b), inserted “cost or” before “price” in first sentence, and, in second sentence, substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and “, within 3 days after the date of contract award, shall notify, in writing or by electronic means,” for “shall promptly notify”.
 
@@ -214,7 +214,7 @@ Section 1. Heads of executive departments and agencies (“agencies”) engaged 
 
 Sec. 2. The Administrator for Federal Procurement Policy shall: (a) work with the heads of executive agencies to provide policy guidance and leadership necessary to implement provisions of this order; and
 
-(b) review and evaluate agency experience and performance under this order, and report on any findings to the President within 2 years from the date of this order.
+(b) review and evaluate agency experience and performance under this order, and report on any findingsto the President within 2 years from the date of this order.
 
 Sec. 3. The Administrator of General Services, the Secretary of Defense, and the Administrator of the National Aeronautics and Space Administration, in coordination with the Office of Federal Procurement Policy, shall amend the Federal Acquisition Regulation, 48 C.F.R. 1, within 180 days of the date of this order to further the purposes of this order.
 

@@ -10,3 +10,6 @@ Part A—General
 - [&sect; 01903 - Chief Administrative Officer](%C2%A7%2001903%20-%20Chief%20Administrative%20Officer.md)
 - [&sect; 01904 - Certifying officers](%C2%A7%2001904%20-%20Certifying%20officers.md)
 - [&sect; 01905 - Deposit and use of reimbursements for law enforcement assistance](%C2%A7%2001905%20-%20Deposit%20and%20use%20of%20reimbursements%20for%20law%20enforcement%20assistance.md)
+- [&sect; 01906 - Disposal of surplus property](%C2%A7%2001906%20-%20Disposal%20of%20surplus%20property.md)
+- [&sect; 01907 - Transfer of disbursing function](%C2%A7%2001907%20-%20Transfer%20of%20disbursing%20function.md)
+- [&sect; 01908 - Legal representation authority](%C2%A7%2001908%20-%20Legal%20representation%20authority.md)

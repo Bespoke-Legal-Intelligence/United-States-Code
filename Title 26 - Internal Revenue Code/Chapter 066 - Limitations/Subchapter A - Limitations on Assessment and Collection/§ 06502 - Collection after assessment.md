@@ -24,7 +24,7 @@ The date on which a levy on property or rights to property is made shall be the 
 
 1998—Subsec. (a). Pub. L. 105–206, §3461(a)(2), struck out first sentence of concluding provisions which read as follows: “The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.”
 
-Subsec. (a)(2). Pub. L. 105–206, §3461(a)(1), added par. (2) and struck out former par. (2) which read as follows: “prior to the expiration of any period for collection agreed upon in writing by the Secretary and the taxpayer before the expiration of such 10-year period (or, if there is a release of levy under section 6343 after such 10-year period, then before such release).”
+Subsec. (a)(2). Pub. L. 105–206, §3461(a)(1), added par. (2) and struck out former par. (2) which read as follows: “prior to the expiration of any period for collectionagreed upon in writing by the Secretary and the taxpayer before the expiration of such 10-year period (or, if there is a release of levy under section 6343 after such 10-year period, then before such release).”
 
 1990—Subsec. (a)(1). Pub. L. 101–508, §11317(a)(1), substituted “10 years” for “6 years”.
 

@@ -30,7 +30,7 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 &emsp;&emsp;&emsp;(ii) such individual has committed any act or activity which would be a felony under the laws of the United States; or
 
-&emsp;&emsp;&emsp;(iii) the participation of such individual as a member of an inspection team wouldpose a risk to the national security or economic well-being of the United States.
+&emsp;&emsp;&emsp;(iii) the participation of such individual as a member of an inspection team would pose a risk to the national security or economic well-being of the United States.
 
 #### (B) Not subject to judicial review
 

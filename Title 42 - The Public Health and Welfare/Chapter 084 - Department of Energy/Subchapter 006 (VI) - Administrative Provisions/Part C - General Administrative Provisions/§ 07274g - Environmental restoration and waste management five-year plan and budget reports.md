@@ -52,7 +52,7 @@ Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000
 
 #### (e) Budget reports
 
-Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant tosubsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
+Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
 
 (Pub. L. 102–190, div. C, title XXXI, §3135, Dec. 5, 1991, 105 Stat. 1575; Pub. L. 103–337, div. C, title XXXI, §3160(a), Oct. 5, 1994, 108 Stat. 3094.)
 
@@ -74,5 +74,5 @@ Subsec. (a)(6), (7). Pub. L. 103–337, §3160(a)(3), (4), redesignated par. (7)
 
 #### Public Participation in Planning
 
-Section 3160(e) of Pub. L. 103–337 provided that: “The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and interested members of the public in any planning conducted by the Secretary for environmental restoration and waste management at Department of Energy defense nuclear facilities.”
+Pub. L. 103–337, div. C, title XXXI, §3160(e), Oct. 5, 1994, 108 Stat. 3095, which was formerly set out as a note under this section, was renumbered section 4408 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(9), Nov. 24, 2003, 117 Stat. 1765, and is classified to section 2588 of Title 50, War and National Defense.
 

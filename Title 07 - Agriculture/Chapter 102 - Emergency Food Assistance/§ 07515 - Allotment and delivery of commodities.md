@@ -6,7 +6,7 @@ In each fiscal year, the Secretary shall allot—
 
 &emsp;(1) 60 percent of the total value of additional commodities provided to States in a manner such that the value of additional commodities allocated to each State bears the same ratio to 60 percent of the total value of additional commodities as the number of persons in households within the State having incomes below the poverty line bears to the total number of persons in households within all States having incomes below such poverty line, and each State shall be entitled to receive such value of additional commodities; and
 
-&emsp;(2) 40 percent of the total value of additional commodities provided to States in a manner such that the value of additional commodities allocated to each State bears the same ratio to 40 percent of the total value of additional commodities as the average monthly number of unemployed persons within the State bearsto the average monthly number of unemployed persons within all States during the same fiscal year, and each State shall be entitled to receive such value of additional commodities.
+&emsp;(2) 40 percent of the total value of additional commodities provided to States in a manner such that the value of additional commodities allocated to each State bears the same ratio to 40 percent of the total value of additional commodities as the average monthly number of unemployed persons within the State bears to the average monthly number of unemployed persons within all States during the same fiscal year, and each State shall be entitled to receive such value of additional commodities.
 
 #### (b) Reallocation
 
@@ -34,7 +34,7 @@ If a State uses its own funds to provide commodities or services to organization
 
 Pub. L. 104–127, §403(c)(1), substituted “2002” for “1995”.
 
-Subsec. (b). Pub. L. 104–193, §871(d)(1)–(3), redesignated subsec. (g) as (b), substituted “subsection (a) of this section,” for “subsection (f) of this section or subsection (j) of this section if applicable,” and “subsection (a) of this section” for “subsection (f) of this section”, and struck out former subsec. (b) which provided definitions for section.
+Subsec. (b). Pub. L. 104–193, §871(d)(1)–(3), redesignated subsec. (g) as (b), substituted “subsection (a) of this section,” for “subsection (f) of this section or subsection (j) of this section if applicable,” and “subsection (a) of this section” for “subsection (f) of thissection”, and struck out former subsec. (b) which provided definitions for section.
 
 Subsec. (c). Pub. L. 104–193, §871(d)(4), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Subject to subsections (e) and (f) of this section, or subsection (j) of this section if applicable, purchases under this section shall be made by the Secretary at such times and under such conditions as the Secretary determines appropriate within each fiscal year. All such commodities purchased for each such fiscal year shall be delivered at reasonable intervals to States based on the allotments calculated under subsection (f) of this section, or reallocated under subsection (g) of this section, or calculated under subsection (j) of this section if applicable, before the end of such fiscal year. Each State shall be entitled to receive that value of additional commodities that results from the application of the formula set forth in this section to the total value of additional commodities.”
 

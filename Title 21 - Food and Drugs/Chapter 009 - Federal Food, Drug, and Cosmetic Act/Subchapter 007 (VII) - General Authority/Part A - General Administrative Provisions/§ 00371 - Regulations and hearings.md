@@ -10,7 +10,7 @@ The Secretary of the Treasury and the Secretary of Health and Human Services sha
 
 #### (c) Conduct of hearings
 
-Hearings authorized or required by this chapter shall be conducted by the Secretary or suchofficer or employee as he may designate for the purpose.
+Hearings authorized or required by this chapter shall be conducted by the Secretary or such officer or employee as he may designate for the purpose.
 
 #### (d) Effectiveness of definitions and standards of identity
 
@@ -18,7 +18,7 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (e) Procedure for establishment
 
-(1) Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section 341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) shall be begun by a proposal made (A) by the Secretary on his own initiative, or (B) by petition of any interested person, showing reasonable grounds therefor, filed with the Secretary. The Secretary shall publish such proposal and shall afford all interested persons an opportunity to present their views thereon, orally or in writing. As soon as practicable thereafter, the Secretary shall by order act upon such proposal and shall make such order public. Except as provided in paragraph (2), the order shall become effective at such time as may be specified therein, but not prior to the day following the last day on which objections may be filed under such paragraph.
+(1) Any action for the issuance, amendment, or repeal of any regulation under section 343(j), 344(a), 346, 351(b), or 352(d) or (h) of this title, and any action for the amendment or repeal of any definition and standard of identity under section341 of this title for any dairy product (including products regulated under parts 131, 133 and 135 of title 21, Code of Federal Regulations) shall be begun by a proposal made (A) by the Secretary on his own initiative, or (B) by petition of any interested person, showing reasonable grounds therefor, filed with the Secretary. The Secretary shall publish such proposal and shall afford all interested persons an opportunity to present their views thereon, orally or in writing. As soon as practicable thereafter, the Secretary shall by order act upon such proposal and shall make such order public. Except as provided in paragraph (2), the order shall become effective at such time as may be specified therein, but not prior to the day following the last day on which objections may be filed under such paragraph.
 
 (2) On or before the thirtieth day after the date on which an order entered under paragraph (1) is made public, any person who will be adversely affected by such order if placed in effect may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating the grounds therefor, and requesting a public hearing upon such objections. Until final action upon such objections is taken by the Secretary under paragraph (3), the filing of such objections shall operate to stay the effectiveness of those provisions of the order to which the objections are made. As soon as practicable after the time for filing objections has expired the Secretary shall publish a notice in the Federal Register specifying those parts of the order which have been stayed by the filing of objections and, if no objections have been filed, stating that fact.
 
@@ -40,11 +40,11 @@ The definitions and standards of identity promulgated in accordance with the pro
 
 #### (g) Copies of records of hearings
 
-A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment ofthe costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
+A certified copy of the transcript of the record and proceedings under subsection (e) of this section shall be furnished by the Secretary to any interested party at his request, and payment of the costs thereof, and shall be admissible in any criminal, libel for condemnation, exclusion of imports, or other proceeding arising under or in respect to this chapter, irrespective of whether proceedings with respect to the order have previously been instituted or become final under subsection (f) of this section.
 
 #### (h) Guidance documents
 
-(1)(A) The Secretary shall develop guidance documents with public participation and ensure that information identifying the existence of such documents and the documents themselves are made available to the public both in written form and, as feasible, through electronic means. Such documents shall not create or confer any rights for or on any person, although they present the views of the Secretary on matters under the jurisdiction of the Food and Drug Administration.
+(1)(A) The Secretary shall develop guidance documents with public participation and ensure that information identifying the existence of such documents and the documents themselves are made available to the public both in written form and, as feasible, through electronic means. Such documents shall not create or confer any rights for or on any person, although they present the views of the Secretary on mattersunder the jurisdiction of the Food and Drug Administration.
 
 (B) Although guidance documents shall not be binding on the Secretary, the Secretary shall ensure that employees of the Food and Drug Administration do not deviate from such guidances without appropriate justification and supervisory concurrence. The Secretary shall provide training to employees in how to develop and use guidance documents and shall monitor the development and issuance of such documents.
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions
 
 #### Construction of Amendments by Pub. L. 101–535
 
-Amendments by Pub. L. 101–535 not to be construed to alter the authority of the Secretary of Health and Human Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendments by Pub. L. 101–535 not to be construed to alter the authority of the Secretary of Health andHuman Services and the Secretary of Agriculture under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), see section 9 of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Savings Provision
 

@@ -1,20 +1,18 @@
 ### §48103. Airport planning and development and noise compatibility planning and programs
 
-The total amounts which shall be available after September 30, 1998, to the Secretary ofTransportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be—
+The total amounts which shall be available after September 30, 2003, to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to make grants for airport planning and airport development under section 47104 of this title, airport noise compatibility planning under section 47505(a)(2) of this title, and carrying out noise compatibility programs under section 47504(c) of this title shall be—
 
-&emsp;(1) $2,410,000,000 for fiscal year 1999;
+&emsp;(1) $3,400,000,000 for fiscal year 2004;
 
-&emsp;(2) $2,475,000,000 for fiscal year 2000;
+&emsp;(2) $3,500,000,000 for fiscal year 2005;
 
-&emsp;(3) $3,200,000,000 for fiscal year 2001;
+&emsp;(3) $3,600,000,000 for fiscal year 2006; and
 
-&emsp;(4) $3,300,000,000 for fiscal year 2002; and
-
-&emsp;(5) $3,400,000,000 for fiscal year 2003.
+&emsp;(4) $3,700,000,000 for fiscal year 2007.
 
 > Such sums shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1296; Pub. L. 103–305, title I, §101(a), Aug. 23, 1994, 108 Stat. 1570; Pub. L. 104–264, title I, §101(a), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 105–277, div. C, title I, §110(b)(1), Oct. 21, 1998, 112 Stat. 2681–587; Pub. L. 106–6, §2(a), Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(a), May 21, 1999, 113 Stat. 113; Pub. L. 106–59, §1(a), Sept. 29, 1999, 113 Stat. 482; Pub. L. 106–181, title I, §101(a), Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §101(a), Dec. 12, 2003, 117 Stat. 2494.)
 
 Historical and Revision Notes
 
@@ -42,6 +40,20 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 
 #### Amendments
 
+2003—Pub. L. 108–176, §101(a)(1), substituted “September 30, 2003” for “September 30, 1998” in introductory provisions.
+
+Pars. (1) to (5). Pub. L. 108–176, §101(a)(2), added pars. (1) to (4) and struck out former pars. (1) to (5) which read as follows:
+
+“(1) $2,410,000,000 for fiscal year 1999;
+
+“(2) $2,475,000,000 for fiscal year 2000;
+
+“(3) $3,200,000,000 for fiscal year 2001;
+
+“(4) $3,300,000,000 for fiscal year 2002; and
+
+“(5) $3,400,000,000 for fiscal year 2003.”
+
 2000—Pub. L. 106–181 substituted “shall be—” along with pars. (1) to (5) and concluding provisions for “shall be $2,410,000,000 for the fiscal year ending September 30, 1999.”
 
 1999—Pub. L. 106–59 substituted “$2,410,000,000 for the fiscal year ending September 30, 1999.” for “$2,050,000,000 for the period beginning October 1, 1998 and ending August 6, 1999.”
@@ -55,6 +67,10 @@ Pub. L. 106–6 substituted “$1,607,000,000 for the 8-month period beginning O
 1996—Pub. L. 104–264 substituted “September 30, 1996” for “September 30, 1981” and “$2,280,000,000 for fiscal years ending before October 1, 1997, and $4,627,000,000 for fiscal years ending before October 1, 1998.” for “$17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996.”
 
 1994—Pub. L. 103–305 substituted “The total amounts which shall be available after September 30, 1981, to the Secretary of Transportation” for “Not more than a total of $15,966,700,000 is available to the Secretary of Transportation for the fiscal years ending September 30, 1982–1993,” and inserted before period at end “shall be $17,583,500,000 for fiscal years ending before October 1, 1994, $19,744,500,000 for fiscal years ending before October 1, 1995, and $21,958,500,000 for fiscal years ending before October 1, 1996”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -78,5 +94,5 @@ Notice to Committees.—If the Secretary provides any committee of Congress adva
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 47102, 47104, 47107, 47110, 47113, 47114, 47115, 47116, 47117, 47136, 47504, 47505, 48108, 48112, 48113 of this title; title 6 section 233.
+This section is referred to in sections 40117, 47102, 47104, 47107, 47110, 47113, 47114, 47115, 47116, 47117, 47136, 47140, 47504, 47505, 48108, 48112, 48113, 48114 of this title; title 6 section 233.
 

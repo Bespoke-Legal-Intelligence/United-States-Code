@@ -22,7 +22,7 @@
 
 #### (b) Terms of appointed members; reappointment
 
-(1) Appointed members of the Board shall continue to serve at the pleasure of the officer by whom they are appointed, and (unless reappointed under paragraph (3)) shall serve for a term of 4 years.
+(1) Appointed members of the Board shall continue to serve at the pleasure of the officer bywhom they are appointed, and (unless reappointed under paragraph (3)) shall serve for a term of 4 years.
 
 (2) For the purpose of adjusting the terms of Board members to allow for staggered appointments, the following distribution of Board terms shall take effect at the first meeting of the Board occurring after November 6, 1990:
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) Those members who have served for 6 months or less, as of the date of such meeting, shall have an appointment expiring on a date 6 years from October 11, 1990.
 
-&emsp;(C) All other members shall apportion the remaining Board positions between equal numbers of 2 and 4 year terms (providing that if there are an unequal number of remainingmembers, there shall be a predominance of 4 year terms), such apportionment to be made by lot.
+&emsp;(C) All other members shall apportion the remaining Board positions between equal numbers of 2 and 4 year terms (providing that if there are an unequal number of remaining members, there shall be a predominance of 4 year terms), such apportionment to be made by lot.
 
 (3)(A) Subject to the limitations in subparagraphs (B) and (C) of this paragraph, members of the Board may be reappointed, provided that no member may serve more than 2 consecutive terms.
 
@@ -82,29 +82,29 @@ The Board shall establish such bylaws and other regulations as may be appropriat
 
 Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
 
-(Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554.)
+(Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983,97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554.)
 
 #### Amendments
 
-2000—Subsec. (i). Pub. L. 106–533, §1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
+<b>2000</b>—Subsec. (i). Pub. L. 106–533, §1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
 
-1999—Subsec. (a)(1)(A). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
+<b>1999</b>—Subsec. (a)(1)(A). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
 Subsec. (a)(1)(B), (C). Pub. L. 106–63, §1(b)(2), substituted “a local Congressional Award program volunteer” for “representative of a local Congressional Award Council”.
 
 Subsec. (a)(1)(D). Pub. L. 106–63, §1(b)(1), substituted “recipient of the Congressional Award” for “member of the Congressional Award Association”.
 
-1990—Subsec. (a)(4). Pub. L. 101–525, §4, added par. (4).
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–525, §4, added par. (4).
 
 Subsec. (b). Pub. L. 101–525, §5, designated existing provision as par. (1) and substituted “and (unless reappointed under paragraph (3)) shall serve for a term of 4 years” for “but (unless reappointed) shall not serve for more than four years”, and added pars. (2) and (3).
 
 Subsec. (j). Pub. L. 101–525, §6, added subsec. (j).
 
-1988—Subsec. (a)(1). Pub. L. 100–674, §2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–674, §2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
 
 Subsec. (d). Pub. L. 100–674, §2(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A majority of the members of the Board shall constitute a quorum.”
 
-1985—Subsec. (a)(2). Pub. L. 99–161, §2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–161, §2(1), inserted “One of the members appointed under each of subparagraphs (A) through (D) of paragraph (1) shall be a member of the Congress.”
 
 Subsec. (b). Pub. L. 99–161, §2(2), amended subsec. (b) generally, substituting provisions for continuance of service of appointed members at pleasure of appointing officer, but unless reappointed, for not more than four years, for provisions limiting term of service to six years with exceptions for first appointed members and individuals appointed to Board after March 31, 1983, whose terms were limited.
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 99–161, §4(d), substituted “meet at least twice a year
 
 Subsec. (i). Pub. L. 99–161, §4(e), inserted requirement that bylaws and other regulations include provisions preventing conflict of interest, and include appropriate fiscal control, funds accountability, etc., to comply with section 806 of this title, and inserted provisions requiring transmittal of a copy of such bylaws to each House of Congress within specified periods of time.
 
-1983—Subsec. (a)(1). Pub. L. 98–33, §1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–33, §1(a)(1), (2), substituted “thirty-three” for “seventeen” in the matter preceding subpar. (A), and substituted “Eight” for “Four” in each of subpars. (A) through (D).
 
 Subsec. (a)(2). Pub. L. 98–33, §1(a)(3), struck out “or the Committee for the Establishment and Promotion of the Congressional Award” after “member of the Board”.
 

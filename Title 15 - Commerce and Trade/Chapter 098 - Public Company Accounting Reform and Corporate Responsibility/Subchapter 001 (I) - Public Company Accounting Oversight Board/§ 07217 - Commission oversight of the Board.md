@@ -16,7 +16,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (3) Approval criteria
 
-&emsp;The Commission shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securitieslaws, or is necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The Commission shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securities laws, or is necessary or appropriate in the public interest or for the protection of investors.
 
 #### (4) Proposed rule procedures
 

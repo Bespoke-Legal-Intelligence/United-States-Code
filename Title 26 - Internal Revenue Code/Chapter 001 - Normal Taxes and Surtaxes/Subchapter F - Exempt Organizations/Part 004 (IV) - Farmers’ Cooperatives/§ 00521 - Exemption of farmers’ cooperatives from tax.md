@@ -48,5 +48,5 @@ Amendment by Pub. L. 87–834 applicable, except as otherwise provided, to taxab
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 50, 52, 168, 246, 337, 854, 860E, 1022, 1245, 1250, 1381, 1388, 3306, 4421, 6044 of this title; title 15 section 77c.
+This section is referred to in sections 1, 50, 52, 168, 246, 337, 854, 860E, 1022, 1245, 1250, 1381, 1388, 3306, 4421, 6044 of this title; title 15 section 77c.
 

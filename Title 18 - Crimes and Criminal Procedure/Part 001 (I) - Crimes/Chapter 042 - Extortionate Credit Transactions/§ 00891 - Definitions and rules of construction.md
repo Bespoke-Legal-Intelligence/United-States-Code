@@ -18,7 +18,7 @@ For the purposes of this chapter:
 
 (8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and territories and possessions of the United States.
 
-(9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
+(9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise givenin consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
 
 (Added Pub. L. 90–321, title II, §202(a), May 29, 1968, 82 Stat. 160.)
 

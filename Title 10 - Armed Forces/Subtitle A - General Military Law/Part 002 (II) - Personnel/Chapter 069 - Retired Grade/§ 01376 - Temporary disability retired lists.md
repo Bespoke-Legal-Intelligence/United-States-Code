@@ -68,5 +68,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 857a; title 42 section 213a.
+This section is referred to in title 33 section 3071; title 42 section 213a.
 

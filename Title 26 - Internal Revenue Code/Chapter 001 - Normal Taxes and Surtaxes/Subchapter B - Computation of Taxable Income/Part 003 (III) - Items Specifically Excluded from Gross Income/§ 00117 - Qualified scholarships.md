@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (5) Special rules for teaching and research assistants
 
-&emsp;In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization,paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
+&emsp;In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 38; Pub. L. 87–256, §110(a), Sept. 21, 1961, 75 Stat. 535; Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1794, 1803; Pub. L. 96–541, §5(a)(1), Dec. 17, 1980, 94 Stat. 3205; Pub. L. 98–369, div. A, title V, §532(a), July 18, 1984, 98 Stat. 887; Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), Oct. 22, 1986, 100 Stat. 2112, 2450, 2506; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 104–188, title I, §1703(n)(14), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 107–16, title IV, §413(a), June 7, 2001, 115 Stat. 64.)
 
@@ -218,7 +218,7 @@ Pub. L. 93–483, §4, Oct. 26, 1974, 88 Stat. 1458, as amended Pub. L. 94–455
 
 “(a)
 
-In General.—Any amount received from appropriated funds as a scholarship, including the value ofcontributed services and accommodations, by a member of a uniformed service who is receiving training under the Armed Forces Health Professions Scholarship Program (or any other program determined by the Secretary of the Treasury or his delegate to have substantially similar objectives) from an educational institution (as defined in section 151(e)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) \[see section 170(b)(1)(A)(ii) of this title\] shall be treated as a scholarship under section 117 of such Code \[this section\], whether that member is receiving training while on active duty or in an off-duty or inactive status, and without regard to whether a period of active duty is required of the member as a condition of receiving those payments.
+In General.—Any amount received from appropriated funds as a scholarship, including the value of contributed services and accommodations, by a member of a uniformed service who is receiving training under the Armed Forces Health Professions Scholarship Program (or any other program determined by the Secretary of the Treasury or his delegate to have substantially similar objectives) from an educational institution (as defined in section 151(e)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) \[see section 170(b)(1)(A)(ii) of this title\] shall be treated as a scholarship under section 117 of such Code \[this section\], whether that member is receiving training while on active duty or in an off-duty or inactive status, and without regard to whether a period of active duty is required of the member as a condition of receiving those payments.
 
 “(b)
 

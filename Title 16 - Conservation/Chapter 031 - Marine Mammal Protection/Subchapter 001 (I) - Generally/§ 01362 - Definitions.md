@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(C) a species or population stock is listed as an endangered species or a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
-(2) The terms “conservation” and “management” means the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
+(2) The terms “conservation” and “management” means the collection and application ofbiological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
 
 (3) The term “district court of the United States” includes the District Court of Guam, District Court of the Virgin Islands, District Court of Puerto Rico, District Court of the Canal Zone, and, in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii.
 
@@ -60,7 +60,7 @@ For the purposes of this chapter—
 
 &emsp;(A) for the tuna fishery in the eastern tropical Pacific Ocean, means the Inter-American Tropical Tuna Commission; and
 
-&emsp;(B) in any other case, means an organization consisting of those nations participating in a tuna fishery, the purpose of which is the conservation and management of that fishery and the management of issues relating to that fishery.
+&emsp;(B) in any other case, means an organization consisting of those nations participating in atuna fishery, the purpose of which is the conservation and management of that fishery and the management of issues relating to that fishery.
 
 (18)(A) The term “harassment” means any act of pursuit, torment, or annoyance which—
 
@@ -68,9 +68,15 @@ For the purposes of this chapter—
 
 &emsp;(ii) has the potential to disturb a marine mammal or marine mammal stock in the wild by causing disruption of behavioral patterns, including, but not limited to, migration, breathing, nursing, breeding, feeding, or sheltering.
 
-(B) The term “Level A harassment” means harassment described in subparagraph (A)(i).
+(B) In the case of a military readiness activity (as defined in section 315(f) of Public Law 107–314; 16 U.S.C. 703 note) or a scientific research activity conducted by or on behalf of the Federal Government consistent with section 1374(c)(3) of this title, the term “harassment” means—
 
-(C) The term “Level B harassment” means harassment described in subparagraph (A)(ii).
+&emsp;(i) any act that injures or has the significant potential to injure a marine mammal or marine mammal stock in the wild; or
+
+&emsp;(ii) any act that disturbs or is likely to disturb a marine mammal or marine mammal stock in the wild by causing disruption of natural behavioral patterns, including, but not limited to, migration, surfacing, nursing, breeding, feeding, or sheltering, to a point where such behavioral patterns are abandoned or significantly altered.
+
+(C) The term “Level A harassment” means harassment described in subparagraph (A)(i) or, in the case of a military readiness activity or scientific research activity described in subparagraph (B), harassment described in subparagraph (B)(i).
+
+(D) The term “Level B harassment” means harassment described in subparagraph (A)(ii) or, in the case of a military readiness activity or scientific research activity described in subparagraph (B), harassment described in subparagraph (B)(ii).
 
 (19) The term “strategic stock” means a marine mammal stock—
 
@@ -116,13 +122,19 @@ For the purposes of this chapter—
 
 (29) The term “Declaration of Panama” means the declaration signed in Panama City, Republic of Panama, on October 4, 1995.
 
-(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768.)
+(Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28,1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
+
+2003—Par. (18)(B) to (D). Pub. L. 108–136 added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) The term ‘Level A harassment’ means harassment described in subparagraph (A)(i).
+
+“(C) The term ‘Level B harassment’ means harassment described in subparagraph (A)(ii).”
 
 2000—Par. (12)(B). Pub. L. 106–555 inserted “(other than section 1421f–1 of this title)” after “subchapter V of this chapter”.
 
@@ -172,7 +184,7 @@ Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) an
 
 Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 
-1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on itis 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
+1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
 
 1973—Par. (1)(B). Pub. L. 93–205 substituted “Endangered Species Act of 1973” for “Endangered Species Conservation Act of 1969”.
 
@@ -202,7 +214,7 @@ Special Effective Date.—Notwithstanding subsection (a), the Secretary of Comme
 
 > at any time after the date of enactment of this Act \[Aug. 15, 1997\].”
 
-\[The Secretary of Commerce made the certification referred to in section 8(a)(1) of Pub. L. 105–42, set out above, on July 27, 1998, and the Secretary of State made the certification referred to in section 8(a)(2) of Pub. L. 105–42 on Mar. 3, 1999.\]
+\[The Secretary of Commerce made the certification referred to in section 8(a)(1) of Pub. L. 105–42, set outabove, on July 27, 1998, and the Secretary of State made the certification referred to in section 8(a)(2) of Pub. L. 105–42 on Mar. 3, 1999.\]
 
 #### Effective Date of 1996 Amendment
 

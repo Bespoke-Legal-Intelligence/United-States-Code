@@ -32,7 +32,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (e) Temporary public interest exemption
 
-After consideration of a petition (and comments thereon) for an exemption for a powerplant from one or more of the prohibitions of part A for a powerplant, the Secretary may, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that for the period of the proposed exemption the issuance of such exemption is in the public interest and is consistent with the purposes of this chapter.
+After consideration of a petition (and comments thereon) for an exemption for a powerplant from one or more of the prohibitions of part A for a powerplant, the Secretary may, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if hefinds that the petitioner has demonstrated that for the period of the proposed exemption the issuance of such exemption is in the public interest and is consistent with the purposes of this chapter.
 
 #### (f) Temporary exemption for peakload powerplants
 
@@ -48,7 +48,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 (1) Except as provided in paragraphs (2) and (3), exemptions under this section for any powerplant may not exceed, taking into account any extension or renewal, 5 years.
 
-(2)(A) An exemption under subsection (a)(1) of this section may be granted for a period of morethan 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
+(2)(A) An exemption under subsection (a)(1) of this section may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
 
 (B) Subject to paragraph (3), an exemption under subsections (b), (c), and (g) of this section may be extended beyond the 5-year limit under paragraph (1), but such exemption, so extended, may not exceed 10 years.
 

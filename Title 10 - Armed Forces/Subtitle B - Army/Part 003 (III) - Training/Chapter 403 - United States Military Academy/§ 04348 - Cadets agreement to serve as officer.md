@@ -30,7 +30,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
 
-(d) In this section, the term “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and endingon the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+(d) In this section, the term “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “I
 
 > If the cadet is a minor and has parents or a guardian, he may sign the agreement only with the consent of the parents or guardian.
 
-“(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
+“(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary ofthe Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
 
 1984—Subsec. (a). Pub. L. 98–525, §541(a), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
 
@@ -110,5 +110,5 @@ Section 5(c) of Pub. L. 88–276 provided that: “The amendments made by this s
 
 #### Regulations Implementing 1985 Amendment
 
-Section 512(d) of Pub. L. 99–145 provided that: “The Secretary of each military department shall prescribethe regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
+Section 512(d) of Pub. L. 99–145 provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
 

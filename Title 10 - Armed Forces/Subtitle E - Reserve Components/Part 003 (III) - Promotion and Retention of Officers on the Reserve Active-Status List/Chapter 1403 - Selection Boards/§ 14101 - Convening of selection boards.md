@@ -10,19 +10,19 @@ Promotion Boards.—(1) Whenever the needs of the Army, Navy, Air Force, or Mari
 
 (b)
 
-Continuation Boards.—Whenever the needs of the Army, Navy, Air Force, or Marine Corps require, the Secretary concerned may convene a selection board to recommend officers of that armed force—
+Selective Early Separation Boards.—Whenever the needs of the Army, Navy, Air Force, or Marine Corps require, the Secretary concerned may convene a selection board to recommend officers of that armed force—
 
-&emsp;(1) for continuation on the reserve active-status list under section 14701 of this title;
+&emsp;(1) for selective early removal from the reserve active-status list under section 14704 of this title; or
 
-&emsp;(2) for selective early removal from the reserve active-status list under section 14704 of this title; or
+&emsp;(2) for selective early retirement under section 14705 of this title.
 
-&emsp;(3) for selective early retirement under section 14705 of this title.
-
-> A selection board convened under this subsection shall be known as a “continuation board”.
-
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §505(b)(3), Dec. 28, 2001, 115 Stat. 1087.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 108–136, div. A, title V, §511(b)(1), Nov. 24, 2003, 117 Stat. 1459.)
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–136, §511(b)(1)(A), (D), substituted “Selective Early Separation Boards” for “Continuation Boards” in heading and struck out concluding provisions which read as follows: “A selection board convened under this subsection shall be known as a ‘continuation board’.”
+
+Subsec. (b)(1) to (3). Pub. L. 108–136, §511(b)(1)(B), (C), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “for continuation on the reserve active-status list under section 14701 of this title;”.
 
 2001—Subsec. (a)(3). Pub. L. 107–107 added par. (3).
 
@@ -34,5 +34,5 @@ Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1558, 14102, 14103, 14104, 14105, 14106, 14107, 14108, 14109, 14110, 14301, 14304, 14305, 14306, 14307, 14308, 14312, 14315, 14316, 14317, 14501, 14502, 14504, 14701, 14704, 14705 of this title.
+This section is referred to in sections 991, 1558, 14102, 14103, 14104, 14105, 14106, 14107, 14108, 14109, 14110, 14301, 14304, 14305, 14306, 14307, 14308, 14312, 14315, 14316, 14317, 14501, 14502, 14504, 14704, 14705 of this title.
 

@@ -258,7 +258,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) it is a HUBZone small business concern—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) pursuant to subparagraph (A), (B), or (D) of paragraph (3), and that itsprincipal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) pursuant to subparagraph (A), (B), or (D) of paragraph (3), and that its principal office is located in a HUBZone and not fewer than 35 percent of its employees reside in a HUBZone; or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) pursuant to paragraph (3)(C), and not fewer than 35 percent of its employees engaged in performing a contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title reside within any Indian reservation governed by one or more of the tribal government owners, or reside within any HUBZone adjoining any such Indian reservation;
 
@@ -312,7 +312,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) has the same meaning as the term “Indian country” in section 1151 of title 18, except that such term does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
+&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations ofthe Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
 
 &emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
 
@@ -384,7 +384,7 @@ Subsec. (p)(3)(D). Pub. L. 106–554, §1(a)(9) \[title VI, §614(1)\], added su
 
 Subsec. (p)(4)(A). Pub. L. 106–554, §1(a)(9) \[title VI, §611(a)\], substituted “section 42(d)(5)(C)(ii)” for “section 42(d)(5)(C)(ii)(I)”.
 
-Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added subpar. (B) and struck out heading andtext of former subpar. (B). Text read as follows: “The term ‘qualified nonmetropolitan county’ means any county—
+Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The term ‘qualified nonmetropolitan county’ means any county—
 
 &emsp;“(i) that, based on the most recent data available from the Bureau of the Census of the Department of Commerce—
 
@@ -460,7 +460,7 @@ Pub. L. 99–272 inserted proviso that notwithstanding any other provision of la
 
 Subsec. (c)(2)(A), (3)(B)(i), (iv). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>,That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
+1984—Subsec. (j). Pub. L. 98–473 in subsec. (j) added by Pub. L. 98–270 substituted “as a business concern and shall not include the income or employees of any member shareholder of such cooperative” for “as an entity and shall not include the income or employees of any member shareholder of such cooperative: <i>Provided</i>, That such an association shall not be deemed to be a small agricultural cooperative unless each member of the board of directors of the association, or each member of the governing body of the association if it is not incorporated, also individually qualifies as a small business concern”.
 
 Pub. L. 98–362 added subsec. (j) defining “computer crime”.
 
@@ -556,7 +556,7 @@ Section 101(c) \[title X, §921(i)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 631b, 634b, 636, 637, 638, 644, 657a, 662, 689, 694b, 695, 3703, 4721, 4724, 7101 of this title; title 5 sections 601, 3703; title 7 sections 5623, 5923; title 10 sections 2225, 2319, 2323; title 12 sections 635, 635g, 1441a, 1835, 3013; title 13 section 91; title 22 section 6729; title 29 section 3031; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5197h, 5302, 6322, 7261b, 12002, 13556; title 49 sections 47107, 47113; title 50 App. section 2152.
+This section is referred to in sections 78c, 631b, 634b, 636, 637, 638, 644, 657a, 662, 689, 694b, 695, 3520, 3703, 4721, 4724, 7101 of this title; title 5 sections 601, 3703; title 7 sections 5623, 5923; title 10 sections 2225, 2319, 2323, 2382; title 12 sections 635, 635g, 1441a, 1835, 3013; title 13 section 91; title 22 section 6729; title 29 section 3031; title 31 sections 3554, 3718, 6701; title 35 sections 41, 201; title 38 section 3675; title 41 sections 253c, 405, 417a; title 42 sections 300u, 5197h, 5302, 6322, 7261b, 12002, 13556; title 44 section 3506; title 49 sections 46301, 47107, 47113; title 50 App. section 2152.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

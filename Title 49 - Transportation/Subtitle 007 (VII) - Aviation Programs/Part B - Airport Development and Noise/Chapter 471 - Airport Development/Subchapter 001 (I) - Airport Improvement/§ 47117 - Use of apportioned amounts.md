@@ -6,13 +6,15 @@ Grant Purpose.—Except as provided in this section, an amount apportioned under
 
 (b)
 
-Period of Availability.—An amount apportioned under section 47114 of this title is available to be obligated for grants under the apportionment only during the fiscal year for which the amount was apportioned and the 2 fiscal years immediately after that year or the 3 fiscal years immediately following that year in the case of a primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year. If the amount is not obligated under the apportionment within that time, it shall be added to the discretionary fund.
+Period of Availability.—An amount apportioned under section 47114 of this title is available to be obligated for grants under the apportionment only during the fiscal year for which the amount was apportioned and the 2 fiscal years immediately after that year or the 3 fiscal years immediately following that year in the case of a nonhub airport or any airport that is not a commercial service airport. If the amount is not obligated under the apportionment within that time, it shall be added to the discretionary fund.
 
 (c)
 
 Primary Airports.—(1) An amount apportioned to a sponsor of a primary airport under section 47114(c)(1) of this title is available for grants for any public-use airport of the sponsor included in the national plan of integrated airport systems.
 
-(2) A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.
+(2)
+
+Waiver.—A sponsor of an airport may make an agreement with the Secretary of Transportation waiving the sponsor's claim to any part of the amount apportioned for the airport under sections 47114(c) and 47114(d)(3)(A) if the Secretary agrees to make the waived amount available for a grant for another public-use airport in the same State or geographical area as the airport, as determined by the Secretary.
 
 (d)
 
@@ -26,7 +28,7 @@ State Use.—An amount apportioned to a State under—
 
 Special Apportionment Categories.—(1) The Secretary shall use amounts available to the discretionary fund under section 47115 of this title for each fiscal year as follows:
 
-&emsp;(A) At least 34 percent for grants for airport noise compatibility planning under section 47505(a)(2) of this title and for carrying out noise compatibility programs under section 47504(c) of this title. The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 34 percent requirement is being met in that fiscal year.
+&emsp;(A) At least 35 percent for grants for airport noise compatibility planning under section 47505(a)(2), for carrying out noise compatibility programs under section 47504(c), for noise mitigation projects approved in an environmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.). The Secretary may count the amount of grants made for such planning and programs with funds apportioned under section 47114 in that fiscal year in determining whether or not such 35 percent requirement is being met in that fiscal year.
 
 &emsp;(B) at <sup>1</sup> least 4 percent to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
 
@@ -96,7 +98,7 @@ Limitations on obligations apply.—Nothing in this subsection shall be construe
 
 Limiting Authority of Secretary.—The authority of the Secretary to make grants during a fiscal year from amounts that were apportioned for a prior fiscal year and remain available for approved airport development project grants under subsection (b) of this section may be impaired only by a law enacted after September 3, 1982, that expressly limits that authority.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129, title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1271; Pub. L. 103–305, title I, §116(a), Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(68), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §§123, 124(d), Oct. 9, 1996, 110 Stat. 3219, 3220; Pub. L. 104–287, §5(82), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(c)(1), (2), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §7, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(d), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title I, §§104(e)–(g), 129,title II, §231(f), Apr. 5, 2000, 114 Stat. 70, 77, 114; Pub. L. 108–176, title I, §§149(c), 150, 151, Dec. 12, 2003, 117 Stat. 2505, 2506.)
 
 Historical and Revision Notes
 
@@ -218,7 +220,17 @@ This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) 
 
 This amends 49:47117(g)(1) because of the redesignation of 49:47105(e) as 49:47105(f) by section 107(a)(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1572).
 
+#### References in Text
+
+The Clean Air Act, referred to in subsec. (e)(1)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–176, §150, substituted “nonhub airport or any airport that is not a commercial service airport” for “primary airport that had less than .05 percent of the total boardings in the United States in the preceding calendar year”.
+
+Subsec. (c)(2). Pub. L. 108–176, §149(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A sponsor of a primary airport may make an agreement with the Secretary of Transportation waiving any part of the amount apportioned for the airport under section 47114(c)(1) of this title if the Secretary makes the waived amount available for a grant for another public-use airport in the same State or geographical area as the primary airport.”
+
+Subsec. (e)(1)(A). Pub. L. 108–176, §151, substituted “At least 35 percent” for “At least 34 percent”, “section 47505(a)(2),” for “section 47505(a)(2) of this title and”, “, for noise mitigation projects approved in anenvironmental record of decision for an airport development project under this title, for compatible land use planning and projects carried out by State and local governments under section 47141, and for airport development described in section 47102(3)(F), 47102(3)(K), or 47102(3)(L) to comply with the Clean Air Act (42 U.S.C. 7401 et seq.).” for “of this title.”, and “35 percent requirement” for “34 percent requirement”.
 
 2000—Subsec. (e)(1)(A). Pub. L. 106–181, §104(e), substituted “34 percent” for “31 percent” in two places.
 
@@ -296,9 +308,13 @@ Subsec. (e)(1)(E). Pub. L. 103–305 substituted “, 1995, and 1996” for “
 
 Subsec. (e)(2). Pub. L. 103–429, §6(68)(D), substituted “1.5 percent” for “2.5 percent”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -314,7 +330,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 47104, 47115, 47118 of this title.
+This section is referred to in sections 47104, 47115, 47118, 47141 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

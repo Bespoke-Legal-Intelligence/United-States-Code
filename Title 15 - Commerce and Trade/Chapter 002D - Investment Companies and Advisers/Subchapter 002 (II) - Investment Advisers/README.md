@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–9, 80a–10, 80a–12, 80a–37, 80a–49, 80a–56, 6805 ofthis title; title 7 sections 1a, 6, 12a; title 12 sections 1843, 1844; title 29 section 1002.
+This subchapter is referred to in sections 78c, 78<i>o</i>, 78s, 78u–2, 80a–9, 80a–10, 80a–12, 80a–37, 80a–49, 80a–56, 6805,7706 of this title; title 7 sections 1a, 6, 12a; title 12 sections 1843, 1844; title 29 section 1002.
 
 
 ---

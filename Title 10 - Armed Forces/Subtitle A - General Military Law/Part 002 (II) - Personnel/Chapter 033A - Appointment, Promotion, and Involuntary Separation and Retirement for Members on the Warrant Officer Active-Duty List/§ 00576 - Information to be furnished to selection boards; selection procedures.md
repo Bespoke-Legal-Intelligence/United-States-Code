@@ -38,7 +38,7 @@ Subsec. (f)(2). Pub. L. 103–337, §541(b)(4)(C), struck out “of the military
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 541(b)(4) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
+Amendment by section 541(b)(4) of Pub. L. 103–337 effective on the first day of the fourth month beginningafter Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 
 #### Section Referred to in Other Sections
 

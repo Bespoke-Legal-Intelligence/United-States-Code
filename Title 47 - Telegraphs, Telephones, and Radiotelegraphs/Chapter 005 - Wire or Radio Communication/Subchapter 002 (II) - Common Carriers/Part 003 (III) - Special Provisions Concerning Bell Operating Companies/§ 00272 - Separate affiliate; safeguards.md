@@ -52,7 +52,7 @@ In its dealings with its affiliate described in subsection (a) of this section, 
 
 #### (1) General requirement
 
-&emsp;A company required to operate a separate affiliate under this section shall obtain and pay for a joint Federal/State audit every 2 years conducted by an independent auditor to determine whether such company has complied with this section and the regulations promulgated under this section, and particularly whether such company has complied with the separate accounting requirements under subsection (b) of this section.
+&emsp;A company required to operate a separate affiliate under this section shall obtain andpay for a joint Federal/State audit every 2 years conducted by an independent auditor to determine whether such company has complied with this section and the regulations promulgated under this section, and particularly whether such company has complied with the separate accounting requirements under subsection (b) of this section.
 
 #### (2) Results submitted to Commission; State commissions
 

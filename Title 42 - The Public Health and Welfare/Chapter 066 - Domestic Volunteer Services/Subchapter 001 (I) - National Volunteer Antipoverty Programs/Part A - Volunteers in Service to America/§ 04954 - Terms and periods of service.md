@@ -18,7 +18,7 @@ Volunteers under this part shall, upon enrollment, take the oath of office as pr
 
 #### (d) Grievance and personal view presentation procedure; notice and hearing; information
 
-The Director shall establish a procedure, including notice and opportunity to be heard, for volunteers under this part to present and obtain resolution of grievances and to present their views in connection with the terms and conditions of their service. The Director shall promptly provide to each volunteer in service on October 1, 1973, and to each such volunteer beginning service thereafter, information regarding such procedure and the terms and conditions of their service.
+The Director shall establish a procedure, including notice and opportunity to be heard, for volunteers under this part to present and obtainresolution of grievances and to present their views in connection with the terms and conditions of their service. The Director shall promptly provide to each volunteer in service on October 1, 1973, and to each such volunteer beginning service thereafter, information regarding such procedure and the terms and conditions of their service.
 
 #### (e) Summer associates
 
@@ -50,7 +50,7 @@ Section 101(c) of Pub. L. 101–204, as amended by Pub. L. 103–82, title IV, �
 
 “(1)
 
-In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximumperiod of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
+In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximum period of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
 
 &emsp;“(A) such extension is requested by the project or program to which such volunteer involved is assigned; and
 

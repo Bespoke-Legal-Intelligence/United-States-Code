@@ -34,7 +34,7 @@ Attorney General.—The Attorney General, or officers, employees, or agents of t
 
 (e)
 
-Customs Laws on Seizure and Forfeiture.—The Secretary, or the Governor of Guam or of the Northern Mariana Islands as providedin subsections (b) and (c) of this section, shall carry out the customs laws on the seizure and forfeiture of aircraft, vehicles, and vessels under this chapter.
+Customs Laws on Seizure and Forfeiture.—The Secretary, or the Governor of Guam or of the Northern Mariana Islands as provided in subsections (b) and (c) of this section, shall carry out the customs laws on the seizure and forfeiture of aircraft, vehicles, and vessels under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1354; Pub. L. 107–296, title XI, §1112(r), Nov. 25, 2002, 116 Stat. 2278.)
 
@@ -94,7 +94,7 @@ Subsecs. (d), (e). Pub. L. 107–296, §1112(r)(2), (3), added subsec. (d) and r
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of implementing the tariff treatment and quantitative restrictions provided for under the Agreement, except as otherwise provided in this section, a good originates in the territory of a NAFTA country if—
+&emsp;For purposes of implementing the tariff treatment and quantitative restrictions provided for under the Agreement, except asotherwise provided in this section, a good originates in the territory of a NAFTA country if—
 
 &emsp;&emsp;(A) the good is wholly obtained or produced entirely in the territory of one or more of the NAFTA countries;
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) the good was imported into the territory of a NAFTA country in an unassembled or a disassembled form but was classified as an assembled good pursuant to General Rule of Interpretation 2(a) of the HTS; or
 
-&emsp;&emsp;&emsp;(ii)(I) the heading for the good provides for and specifically describes both the gooditself and its parts and is not further subdivided into subheadings; or
+&emsp;&emsp;&emsp;(ii)(I) the heading for the good provides for and specifically describes both the good itself and its parts and is not further subdivided into subheadings; or
 
 &emsp;&emsp;&emsp;(II) the subheading for the good provides for and specifically describes both the good itself and its parts.
 
@@ -146,7 +146,7 @@ nc
 
 #### (6) Net cost method allowed for adjustments
 
-&emsp;If an exporter or producer of a good calculates the regional value-content of the good on the basis of the transaction value method and a NAFTA country subsequently notifies the exporter or producer, during the course of a verification conducted in accordance with chapter 5 of the Agreement, that the transaction value of the good or the value of anymaterial used in the production of the good must be adjusted or is unacceptable under Article 1 of the Customs Valuation Code, the exporter or producer may calculate the regional value-content of the good on the basis of the net cost method.
+&emsp;If an exporter or producer of a good calculates the regional value-content of the good on the basis of the transaction value method and a NAFTA country subsequently notifies the exporter or producer, during the course of a verification conducted in accordance with chapter 5 of the Agreement, that the transaction value of the good or the value of any material used in the production of the good must be adjusted or is unacceptable under Article 1 of the Customs Valuation Code, the exporter or producer may calculate the regional value-content of the good on the basis of the net cost method.
 
 #### (7) Review of adjustment
 
@@ -264,7 +264,7 @@ nc
 
 &emsp;&emsp;(A) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 56 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 62.5 percent calculated under the net cost method, for—
 
-&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons provided for in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
+&emsp;&emsp;&emsp;(i) a good that is a motor vehicle for the transport of 15 or fewer persons providedfor in subheading 8702.10.00 or 8702.90.00, or a motor vehicle provided for in subheadings 8703.21 through 8703.90, or subheading 8704.21 or 8704.31; and
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40, that is for use in a motor vehicle identified in clause (i); and
 
@@ -320,7 +320,7 @@ nc
 
 &emsp;&emsp;(A) the value of all nonoriginating materials used in the production of the good that do not undergo an applicable change in tariff classification (set out in Annex 401 of the Agreement) is not more than 7 percent of the transaction value of the good, adjusted to a F.O.B. basis, or
 
-&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of the Customs Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
+&emsp;&emsp;(B) where the transaction value of the good is unacceptable under Article 1 of theCustoms Valuation Code, the value of all such nonoriginating materials is not more than 7 percent of the total cost of the good,
 
 > &emsp;provided that the good satisfies all other applicable requirements of this section and, if the good is subject to a regional value-content requirement, the value of such nonoriginating materials is taken into account in calculating the regional value-content of the good.
 
@@ -392,7 +392,7 @@ nc
 
 #### (5) Goods provided for in chapters 1 through 27 of the HTS
 
-&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 of the HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
+&emsp;Paragraph (1) does not apply to a nonoriginating material used in the production of a good provided for in chapters 1 through 27 ofthe HTS unless the nonoriginating material is provided for in a different subheading than the good for which origin is being determined under this section.
 
 #### (6) Goods provided for in chapters 50 through 63 of the HTS
 
@@ -546,7 +546,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) production in the territory of one or more of the NAFTA countries; or
 
-&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, if such goods are fit only for the recovery of raw materials; and
+&emsp;&emsp;&emsp;(ii) used goods collected in the territory of one or more of the NAFTA countries, ifsuch goods are fit only for the recovery of raw materials; and
 
 &emsp;&emsp;(J) goods produced in the territory of one or more of the NAFTA countries exclusively from goods referred to in subparagraphs (A) through (I), or from their derivatives, at any stage of production.
 
@@ -580,7 +580,7 @@ For purposes of this section—
 
 &emsp;&emsp;(vii) Catalysts and solvents.
 
-&emsp;&emsp;(viii) Any other goods that are not incorporated into the good, if the use of suchgoods in the production of the good can reasonably be demonstrated to be a part of that production.
+&emsp;&emsp;(viii) Any other goods that are not incorporated into the good, if the use of such goods in the production of the good can reasonably be demonstrated to be a part of that production.
 
 #### (9) Intermediate material
 
@@ -756,7 +756,7 @@ For purposes of this section—
 
 &emsp;Subject to the consultation and layover requirements of section 3313 of this title, the President may proclaim—
 
-&emsp;&emsp;(A) modifications to the provisions proclaimed under the authority of paragraph\(1)(A), other than the provisions of paragraph A of Appendix 6 of Annex 300–B and section XI of part B of Annex 401 of the Agreement; and
+&emsp;&emsp;(A) modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than the provisions of paragraph A of Appendix 6 of Annex 300–B and section XI of part B of Annex 401 of the Agreement; and
 
 &emsp;&emsp;(B) a modified version of the definition of any term set out in subsection (p) of this section (and such modified version of the definition shall supersede the version in subsection (p) of this section), but only if the modified version reflects solely those modifications to the same term in article 415 of the Agreement that are agreed to by the NAFTA countries before December 8, 1994.
 

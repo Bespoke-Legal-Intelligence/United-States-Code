@@ -203,10 +203,12 @@
 | (c) | “Enterprise” defined. |
 | (d) | Construction. |
 | [855\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000855%20-%20Alternative%20fine.md) | Alternative fine. |
-| [856\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000856%20-%20Establishment%20of%20manufacturing%20operations.md) | Establishment of manufacturing operations. |
+| [856\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000856%20-%20Maintaining%20drug-involved%20premises.md) | Maintaining drug-involved premises. |
 | (a) | Unlawful acts. |
-| (b) | Penalties. |
+| (b) | Criminal penalties. |
 | (c) | Violation as offense against property. |
+| (d) | Civil penalties. |
+| (e) | Declaratory and injunctive remedies. |
 | [857\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000857%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93647%2C%20title%20XXIV%2C%20%C2%A72401%28d%29%2C%20Nov.%2029%2C%201990%2C%20104%20Stat.%204859.md) | Repealed. |
 | [858\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000858%20-%20Endangering%20human%20life%20while%20illegally%20manufacturing%20controlled%20substance.md) | Endangering human life while illegally manufacturing controlled substance. |
 | [859\.](Subchapter%20001%20%28I%29%20-%20Control%20and%20Enforcement/Part%20D%20-%20Offenses%20and%20Penalties/%C2%A7%2000859%20-%20Distribution%20to%20persons%20under%20age%20twenty-one.md) | Distribution to persons under age twenty-one. |

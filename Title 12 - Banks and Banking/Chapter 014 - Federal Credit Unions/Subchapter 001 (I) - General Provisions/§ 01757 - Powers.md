@@ -66,7 +66,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;(11) to impress and enforce a lien upon the shares and dividends of any member, to the extent of any loan made to him and any dues or charges payable by him;
 
-&emsp;(12) in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;
+&emsp;(12) in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similarmoney transfer instruments, and to cash checks and money orders for members, for a fee;
 
 &emsp;(13) in accordance with rules and regulations prescribed by the Board, to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Board) of its members and to purchase from any liquidating credit union notes made by individual members of the liquidating credit union at such prices as may be agreed upon by the board of directors of the liquidating credit union and the board of directors of the purchasing credit union, but no purchase may be made under authority of this paragraph if, upon the making of that purchase, the aggregate of the unpaid balances of notes purchased under authority of this paragraph would exceed 5 per centum of the unimpaired capital and surplus of the credit union;
 
@@ -196,7 +196,7 @@ Pars. (6), (7). Pub. L. 90–44, §2(3), added par. (6) and redesignated former 
 
 Pars. (8) to (14). Pub. L. 90–44, §§2(2), (3), redesignated former par. (7) as (8), authorized in cl. (D) investment of funds in shares or accounts of mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation, and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
-1966—Par. (7). Pub. L. 89–429 expanded list of possible areas of investment of funds by Federal credit unions to include obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association and participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee.
+1966—Par. (7). Pub. L. 89–429 expanded list of possible areas of investment of funds by Federal credit unions to include obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National MortgageAssociation and participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee.
 
 1964—Par. (7)(E). Pub. L. 88–353 added cl. (E).
 
@@ -218,7 +218,7 @@ Amendment by section 305(b) of Pub. L. 96–221 effective at close of Mar. 31, 1
 
 Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, set out as a note under section 371a of this title.
 
-Section 323(e) of Pub. L. 96–153 provided that: “The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising outof the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date.”
+Section 323(e) of Pub. L. 96–153 provided that: “The amendments made by subsections (a) through (d) \[amending this section and sections 1728, 1787, and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act \[Dec. 21, 1979\], but shall be applicable to any such claim arising on or after such date.”
 
 #### Effective Date of 1978 Amendment
 

@@ -8,7 +8,7 @@ All goods, wares, articles, and merchandise mined, produced, or manufactured who
 
 #### Prior Provisions
 
-Provisions in the same language as the provisions in this section were made by act Oct. 3, 1913, ch. 16, §IV,I, 38 Stat. 195, superseding similar provisions of previous tariff acts. That subdivision was superseded by act Sept. 21, 1922, ch. 356, title III, §307, 42 Stat. 937, and repealed by section 321 of that act. Section 307 of act Sept. 21, 1922, was superseded by section 307 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions in the same language as the provisions in this section were made by act Oct. 3, 1913, ch. 16, §IV, I, 38 Stat. 195, superseding similar provisions of previous tariff acts. That subdivision was superseded by act Sept. 21, 1922, ch. 356, title III, §307, 42 Stat. 937, and repealed by section 321 of that act. Section 307 of act Sept. 21, 1922, was superseded by section 307 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -17,6 +17,18 @@ Provisions in the same language as the provisions in this section were made by a
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–200, title IV, §411(b), May 18, 2000, 114 Stat. 298, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[May 18, 2000\].”
+
+#### Prohibition on Use of Funds To Prevent Enforcement of Ban on Importation of Convict-Made Goods
+
+Pub. L. 108–90, title V, §514, Oct. 1, 2003, 117 Stat. 1154, provided that: “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security shall be available for any activity or for paying the salary of any Government employee where funding an activity or paying a salary to a Government employee would result in a determination, regulation, or policy that would prohibit the enforcement of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307).”
+
+#### Prohibition on Use of Funds To Allow Importation of Forced or Indentured Child Labor
+
+Pub. L. 108–90, title V, §515, Oct. 1, 2003, 117 Stat. 1154, provided that: “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to allow—
+
+&emsp;“(1) the importation into the United States of any good, ware, article, or merchandise mined, produced, or manufactured by forced or indentured child labor, as determined under section 307 of the Tariff Act of 1930 (19 U.S.C. 1307); or
+
+&emsp;“(2) the release into the United States of any good, ware, article, or merchandise on which there is in effect a detention order under such section 307 on the basis that the good, ware, article, or merchandise may have been mined, produced, or manufactured by forced or indentured child labor.”
 
 #### Reporting Requirement on Forced Labor Products Destined for United States Market
 

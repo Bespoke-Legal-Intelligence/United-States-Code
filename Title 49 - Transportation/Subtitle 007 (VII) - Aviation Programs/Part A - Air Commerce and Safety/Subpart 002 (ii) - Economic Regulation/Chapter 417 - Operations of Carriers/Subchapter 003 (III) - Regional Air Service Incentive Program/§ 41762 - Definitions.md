@@ -28,7 +28,7 @@ Financial obligation.—The term “financial obligation” means any note, bond
 
 &emsp;(7)
 
-Lender.—The term “lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Codeof Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Security and Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
+Lender.—The term “lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Security and Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986) that is a qualified institutional buyer; and
 
@@ -48,13 +48,9 @@ New entrant air carrier.—The term “new entrant air carrier” means an air c
 
 &emsp;(11)
 
-Nonhub airport.—The term “nonhub airport” means an airport that each year has less than .05 percent of the total annual boardings in the United States.
-
-&emsp;(12)
-
 Obligor.—The term “obligor” means a party primarily liable for payment of the principal of or interest on a Federal credit instrument, which party may be a corporation, partnership, joint venture, trust, or governmental entity, agency, or instrumentality.
 
-&emsp;(13)
+&emsp;(12)
 
 Regional jet aircraft.—The term “regional jet aircraft” means a civil aircraft—
 
@@ -62,15 +58,11 @@ Regional jet aircraft.—The term “regional jet aircraft” means a civil airc
 
 &emsp;&emsp;(B) designed to have a maximum passenger seating capacity of not less than 30 nor more than 75.
 
-&emsp;(14)
+&emsp;(13)
 
 Secured loan.—The term “secured loan” means a direct loan funded by the Secretary in connection with the financing of an aircraft purchase under section 41763(b).
 
-&emsp;(15)
-
-Small hub airport.—The term “small hub airport” means an airport that each year has at least .05 percent, but less than .25 percent, of the total annual boardings in the United States.
-
-&emsp;(16)
+&emsp;(14)
 
 Underserved market.—The term “underserved market” means a passenger air transportation market (as defined by the Secretary) that—
 
@@ -80,7 +72,7 @@ Underserved market.—The term “underserved market” means a passenger air tr
 
 &emsp;&emsp;(C) the Secretary determines does not have sufficient air service.
 
-(Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 96.)
+(Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 96; amended Pub. L. 108–176, title II, §225(b)(5), Dec. 12, 2003, 117 Stat. 2529.)
 
 #### References in Text
 
@@ -89,4 +81,12 @@ The Federal Credit Reform Act of 1990, referred to in par. (3), is title V of Pu
 The Security Act of 1933, referred to in par. (7), probably means the Securities Act of 1933, title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 Sections 414(d) and 4974(c) of the Internal Revenue Code of 1986, referred to in par. (7), are classified to sections 414(d) and 4974(c), respectively, of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+2003—Pars. (11) to (16). Pub. L. 108–176 redesignated pars. (12), (13), (14), and (16) as (11), (12), (13), and (14), respectively, and struck out former pars. (11) and (15), which defined “nonhub airport” and “small hub airport”, respectively.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
 
-(b) Except as provided in subsection (c) of this section, effective December 1 of each year, eachannuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
+(b) Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
 
 (c) Eligibility for an annuity increase under this section is governed by the commencing date of each annuity payable from the Fund as of the effective date of an increase, except as follows:
 

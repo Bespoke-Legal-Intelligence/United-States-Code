@@ -56,7 +56,7 @@ In determining the income of any family for the purposes of this section, income
 
 &emsp;(i) involve a single-family dwelling which has been approved by the Secretary prior to the beginning of construction, or a one-family unit in a condominium project (together with an undivided interest in the common areas and facilities serving the project) which is released from a multifamily project, the construction of which has been completed within two years prior to the filing of the application for assistance payments with respect to such family unit and the unit shall have had no previous occupant other than the mortgagor;
 
-&emsp;(ii) involve a single-family dwelling whose appraised value, as determined by the Secretary, is not in excess of $20,000 (which amount may be increased by not more than 50 per centum in any geographical area where the Secretary authorizes an increase on the basis of a finding that the cost level so requires); and
+&emsp;(ii) involve a single-family dwelling whose appraised value, as determined by the Secretary, is not in excess of $20,000 (whichamount may be increased by not more than 50 per centum in any geographical area where the Secretary authorizes an increase on the basis of a finding that the cost level so requires); and
 
 &emsp;(iii) be executed by a mortgagor who shall have paid in cash or its equivalent on account of the property (A) 3 per centum of the first $15,000 of the appraised value of the property, (B) 10 per centum of such value in excess of $15,000 but not in excess of $25,000, and (C) 20 per centum of such value in excess of $25,000.
 

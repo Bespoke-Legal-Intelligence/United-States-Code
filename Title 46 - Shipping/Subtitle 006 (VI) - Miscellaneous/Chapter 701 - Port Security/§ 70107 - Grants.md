@@ -22,7 +22,7 @@ Matching Requirements.—
 
 &emsp;(1) 75
 
-\-percent federal funding.—Except as provided in paragraph (2), Federal funds forany eligible project under this section shall not exceed 75 percent of the total cost of such project.
+\-percent federal funding.—Except as provided in paragraph (2), Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Reports on Security Funding and Compliance.—
 
 Initial report.—Within 6 months after the date of enactment of this Act, the Secretary of Transportation shall transmit an unclassified report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, that—
 
-&emsp;&emsp;(A) includes a funding proposal and rationale to fund the correction of Coast Guard identified vulnerabilities in port security and to help ensure compliance with Area Maritime Transportation Security Plans and facility security plans for fiscal years 2003 through 2008; and
+&emsp;&emsp;(A) includes a funding proposal and rationale to fund the correction of Coast Guardidentified vulnerabilities in port security and to help ensure compliance with Area Maritime Transportation Security Plans and facility security plans for fiscal years 2003 through 2008; and
 
 &emsp;&emsp;(B) includes projected funding proposals for fiscal years 2003 through 2008 for the following security programs:
 
@@ -108,7 +108,7 @@ Other expenditures.—The Secretary of Transportation shall, as part of the repo
 
 Annual reports.—Annually, beginning 1 year after transmittal of the report required by paragraph (1) until October 1, 2009, the Secretary of Transportation shall transmit an unclassified annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, on progress in achieving compliance with the correction of Coast Guard identified vulnerabilities in port security and compliance with Area Maritime Transportation Security Plans and facility security plans that—
 
-&emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of CoastGuard identified vulnerabilities and ensure compliance with Area Maritime Transportation Security Plans and facility security plans;
+&emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of Coast Guard identified vulnerabilities and ensure compliance with Area Maritime Transportation Security Plans and facility security plans;
 
 &emsp;&emsp;(B) includes an assessment of progress in implementing the grant program established by subsection (a);
 
@@ -162,7 +162,7 @@ Recordkeeping.—Recipients of grants shall keep all records related to expendit
 
 &emsp;&emsp;(D)
 
-Annual review and report.—The Inspector General of the Department of Transportation shall annually review the program established under paragraph (1) to ensure that the expenditures and obligations of funds are consistent with the purposes for which they are provided and report the findings to Congress.
+Annual review and report.—The Inspector General of the Department of Transportation shall annually review the program established under paragraph (1) to ensure that the expenditures and obligations of funds are consistent with the purposes forwhich they are provided and report the findings to Congress.
 
 &emsp;(4)
 

@@ -10,7 +10,7 @@ In General.—Commemorative works—
 
 (b)
 
-Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work commemorating a lesser conflict or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of the event.
+Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
 
 (c)
 
@@ -18,13 +18,23 @@ Works Commemorating Events, Individuals, or Groups.—A commemorative work comme
 
 (d)
 
-Consultation With National Capital Memorial Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on House Administration of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Commission.
+Consultation with National Capital Memorial Advisory Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Advisory Commission.
 
 (e)
 
-Expiration of Legislative Authority.—Legislative authority for a commemorative work expires at the end of the seven-year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.
+Expiration of Legislative Authority.—Any legislative authority for a commemorative work shall expire at the end of the seven-year period beginning on the date of the enactment of such authority, or at the end of the seven-year period beginning on the date of the enactment of legislative authority to locate the commemorative work within Area I, if such additional authority has been granted, unless—
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228.)
+&emsp;(1) the Secretary of the Interior or the Administrator of General Services (as appropriate) has issued a construction permit for the commemorative work during that period; or
+
+&emsp;(2) the Secretary or the Administrator (as appropriate), in consultation with the National Capital Memorial Advisory Commission, has made a determination that—
+
+&emsp;&emsp;(A) final design approvals have been obtained from the National Capital Planning Commission and the Commission of Fine Arts; and
+
+&emsp;&emsp;(B) 75 percent of the amount estimated to be required to complete the commemorative work has been raised.
+
+> If these two conditions have been met, the Secretary or the Administrator (as appropriate) may extend the seven-year legislative authority for a period not to exceed three additional years. Upon expiration of the legislative authority, any previous site and design approvals shall also expire.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228; Pub. L. 108–126, title II, §203(c), Nov. 17, 2003, 117 Stat. 1350.)
 
 Historical and Revision Notes
 
@@ -64,11 +74,23 @@ In subsection (a)(1), the words “in the District of Columbia and its environs�
 
 In subsection (d), the words “House Administration” are substituted for “House Oversight” because the name of the Committee was changed in the 106th Congress. See Rule X(1)(i) of the Rules of the House of Representatives.
 
+#### Amendments
+
+2003—Subsec. (b). Pub. L. 108–126, §203(c)(1), substituted “work solely commemorating a limited military engagement” for “work commemorating a lesser conflict” and “such war or conflict” for “the event”.
+
+Subsec. (d). Pub. L. 108–126, §203(c)(2), substituted “Memorial Advisory Commission” for “Memorial Commission” in heading, and in text substituted “Resources” for “House Administration” and inserted “Advisory” before “Commission”.
+
+Subsec. (e). Pub. L. 108–126, §203(c)(3), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Legislative authority for a commemorative work expires at the end of the seven–year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.”
+
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
+
 Commemorative Works
 
 &nbsp;
 
-Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763.
+Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763; Pub. L. 108–7, div. F, title I, §142, Feb. 20, 2003, 117 Stat. 244.
 
 African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.
 
@@ -98,7 +120,7 @@ Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 10
 
 Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
 
-Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26.
+Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347.
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
 
@@ -113,4 +135,8 @@ Vietnam Women's Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pu
 Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073.
 
 World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, §652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, §601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 36 section 2113.
 

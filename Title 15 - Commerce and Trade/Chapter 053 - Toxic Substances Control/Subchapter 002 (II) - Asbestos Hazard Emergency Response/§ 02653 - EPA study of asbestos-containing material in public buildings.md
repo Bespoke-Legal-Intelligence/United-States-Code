@@ -10,7 +10,7 @@ Within 360 days after October 22, 1986, the Administrator shall conduct and subm
 
 &emsp;(4) assess whether existing Federal regulations adequately protect the general public, particularly abatement personnel, from exposure to asbestos during renovation and demolition of such buildings; and
 
-&emsp;(5) include recommendations that explicitly address whether there is a need to establish standards for, and regulate asbestos exposure in, public and commercial buildings.
+&emsp;(5) include recommendations that explicitly address whether there is a need to establishstandards for, and regulate asbestos exposure in, public and commercial buildings.
 
 (Pub. L. 94–469, title II, §213, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2987.)
 

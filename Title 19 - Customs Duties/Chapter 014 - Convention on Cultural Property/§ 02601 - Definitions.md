@@ -92,7 +92,7 @@ Exception.—Notwithstanding subsection (a), the members of the Committee may be
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 97–446 provided that: “This title \[enacting this chapter\] may be cited as the‘Convention on Cultural Property Implementation Act’.”
+Section 301 of title III of Pub. L. 97–446 provided that: “This title \[enacting this chapter\] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

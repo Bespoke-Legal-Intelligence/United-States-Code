@@ -4,7 +4,7 @@
 
 &emsp;(1) for no longer than 210 days beginning on the date the vacancy occurs; or
 
-&emsp;(2) subject to subsection (b), once a first or second nomination for the office is submitted to the Senate, from the date of such nomination for the period that the nomination is pending in the Senate.
+&emsp;(2) subject to subsection (b), once a first or second nomination for the office is submittedto the Senate, from the date of such nomination for the period that the nomination is pending in the Senate.
 
 (b)(1) If the first nomination for the office is rejected by the Senate, withdrawn, or returned to the President by the Senate, the person may continue to serve as the acting officer for no more than 210 days after the date of such rejection, withdrawal, or return.
 

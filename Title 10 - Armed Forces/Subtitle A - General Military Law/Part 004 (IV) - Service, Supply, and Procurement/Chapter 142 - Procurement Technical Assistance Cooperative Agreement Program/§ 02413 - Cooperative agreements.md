@@ -6,13 +6,17 @@
 
 (c) In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
 
-(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 99–500, §101(c) \[title X, §956(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §956(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(b), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, and amended Pub. L. 100–180, div. A, title XII, §1233(b), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 105–261, div. A, title VIII, §802(a)(1), Oct. 17, 1998, 112 Stat. 2081.)
+(d) In conducting a competition for the award of a cooperative agreement under subsection (a), and in determining the level of funding to provide under an agreement under subsection (b), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+
+(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 99–500, §101(c) \[title X, §956(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) \[title X, §956(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(b), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, and amended Pub. L. 100–180, div. A, title XII, §1233(b), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 105–261, div. A, title VIII, §802(a)(1), Oct. 17, 1998, 112 Stat. 2081; Pub. L. 107–314, div. A, title VIII, §814, Dec. 2, 2002, 116 Stat. 2610.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
 1998—Subsec. (c). Pub. L. 105–261 substituted “district” for “region”.
 

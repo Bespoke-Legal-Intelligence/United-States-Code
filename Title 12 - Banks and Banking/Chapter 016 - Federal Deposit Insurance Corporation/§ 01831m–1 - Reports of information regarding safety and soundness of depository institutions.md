@@ -50,7 +50,7 @@
 
 #### (c) Effect on agencies
 
-This section does not impose an affirmative duty on the Attorney General, the Secretary ofthe Treasury, or the head of any agency or instrumentality of the United States to collect new or to review existing information.
+This section does not impose an affirmative duty on the Attorney General, the Secretary of the Treasury, or the head of any agency or instrumentality of the United States to collect new or to review existing information.
 
 #### (d) Definitions
 

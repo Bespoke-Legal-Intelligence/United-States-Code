@@ -6,7 +6,7 @@ In undertaking the consideration and making the determination under section 2621
 
 &emsp;(1) permit identification of differences in cost-incurrence, for each such class of electric consumers, attributable to daily and seasonal time of use of service and
 
-&emsp;(2) permit identification of differences in cost-incurrence attributable to differences incustomer demand, and energy components of cost. In prescribing such methods, such State regulatory authority or nonregulated electric utility shall take into account the extent to which total costs to an electric utility are likely to change if—
+&emsp;(2) permit identification of differences in cost-incurrence attributable to differences in customer demand, and energy components of cost. In prescribing such methods, such State regulatory authority or nonregulated electric utility shall take into account the extent to which total costs to an electric utility are likely to change if—
 
 &emsp;&emsp;(A) additional capacity is added to meet peak demand relative to base demand; and
 
@@ -14,7 +14,7 @@ In undertaking the consideration and making the determination under section 2621
 
 #### (b) Time-of-day rates
 
-In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
+In undertaking the consideration and making the determination required under section 2621 ofthis title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
 
 #### (c) Load management techniques
 
@@ -62,11 +62,11 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 > Such summary may be transmitted together with such consumer's billing or in such other manner as the State regulatory authority or nonregulated electric utility deems appropriate.
 
-(3) For purposes of the standard for information to consumers established by section2623(b)(3) of this title, each electric utility, on request of an electric consumer of such utility, shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).
+(3) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility, on request of an electric consumer of such utility, shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).
 
 #### (g) Procedures for termination of electric service
 
-The procedures for termination of service referred to in section 2623(b)(4) of this title are procedures prescribed by the State regulatory authority (with respect to electric utilities for which it has ratemaking authority) or by the nonregulated electric utility which provide that—
+The procedures for termination of service referred to in section 2623(b)(4) of this title are procedures prescribed by the State regulatoryauthority (with respect to electric utilities for which it has ratemaking authority) or by the nonregulated electric utility which provide that—
 
 &emsp;(1) no electric service to an electric consumer may be terminated unless reasonable prior notice (including notice of rights and remedies) is given to such consumer and such consumer has a reasonable opportunity to dispute the reasons for such termination, and
 

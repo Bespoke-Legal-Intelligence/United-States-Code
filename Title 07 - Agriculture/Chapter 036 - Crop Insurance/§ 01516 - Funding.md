@@ -84,7 +84,7 @@ Subsec. (c)(1). Pub. L. 106–224, §147(d), substituted “income,” for “in
 
 &emsp;“(B) the administrative and operating expenses of the Corporation for the sales commissions of agents.”
 
-Subsec. (a)(2). Pub. L. 105–185, §531(1)(B)(i), inserted “for each of the 1999 and subsequent reinsurance years”after “are necessary to cover” in introductory provisions.
+Subsec. (a)(2). Pub. L. 105–185, §531(1)(B)(i), inserted “for each of the 1999 and subsequent reinsurance years” after “are necessary to cover” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 105–185, §531(1)(B)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “in the case of each of the 1995 through 1997 reinsurance years, the administrative and operating expenses of the Corporation for the sales commissions of agents, consistent with subsection (b)(1) of this section; and”.
 

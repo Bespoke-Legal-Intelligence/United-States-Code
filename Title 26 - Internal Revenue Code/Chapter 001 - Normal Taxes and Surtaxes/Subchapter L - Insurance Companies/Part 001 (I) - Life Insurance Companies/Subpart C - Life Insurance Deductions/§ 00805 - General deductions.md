@@ -50,7 +50,7 @@ For purposes of this part, there shall be allowed the following deductions:
 
 #### (ii) Treatment of dividends from noninsurance companies
 
-&emsp;&emsp;&emsp;The term “100 percent dividend” does not include any distribution by a corporation which is not an insurance company to the extent such distribution is out of tax-exempt interest, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, or out of dividends which arenot 100 percent dividends (determined with the application of this clause as if it applies to distributions by all corporations including insurance companies).
+&emsp;&emsp;&emsp;The term “100 percent dividend” does not include any distribution by a corporation which is not an insurance company to the extent such distribution is out of tax-exempt interest, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, or out of dividends which are not 100 percent dividends (determined with the application of this clause as if it applies to distributions by all corporations including insurance companies).
 
 #### (D) Special rules for certain dividends from insurance companies
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 611(a)(5) of Pub. L. 99–514 applicable to dividends received or accrued after Dec. 31,1986, in taxable years ending after such date, see section 611(b)(1) of Pub. L. 99–514, set out as a note under section 246 of this title.
+Amendment by section 611(a)(5) of Pub. L. 99–514 applicable to dividends received or accrued after Dec. 31, 1986, in taxable years ending after such date, see section 611(b)(1) of Pub. L. 99–514, set out as a note under section 246 of this title.
 
 Amendment by section 805(c)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain changes required in method of accounting, see section 805(d) of Pub. L. 99–514, set out as a note under section 166 of this title.
 

@@ -36,7 +36,7 @@ Sections 1301 and 1302 of Pub. L. 102–575 provided that:
 
 Section 2 of Pub. L. 100–345 provided that:
 
-“(a) The Granite Reef Aqueduct of the Central Arizona project, constructed, operated, and maintainedunder section 301(a)(1) of the Colorado River Basin \[Project\] Act (43 U.S.C. 1521(a)(1)), hereafter shall be known and designated as the ‘Hayden-Rhodes Aqueduct’.
+“(a) The Granite Reef Aqueduct of the Central Arizona project, constructed, operated, and maintained under section 301(a)(1) of the Colorado River Basin \[Project\] Act (43 U.S.C. 1521(a)(1)), hereafter shall be known and designated as the ‘Hayden-Rhodes Aqueduct’.
 
 “(b) Any reference in any law, regulation, document, record, map, or other paper of the United States to the aqueduct referred to in subsection (a) hereby is deemed to be a reference to the ‘Hayden-Rhodes Aqueduct’.”
 

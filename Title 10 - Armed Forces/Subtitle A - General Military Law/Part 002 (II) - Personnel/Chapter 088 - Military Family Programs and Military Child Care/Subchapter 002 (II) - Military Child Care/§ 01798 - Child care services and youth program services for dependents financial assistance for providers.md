@@ -40,23 +40,21 @@ Eligible Providers.—A provider of child care services or youth program service
 
 Funding.—To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
 
-(d)
-
-Biennial Report.—(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for meeting the needs of members of the armed forces or employees of the Department of Defense for child care services and youth program services. The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to meet those needs.
-
-(2) A biennial report under this subsection may be combined with the biennial report under section 1799(d) of this title into a single report for submission to Congress.
-
-(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634.)
+(Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, §1041(a)(6), Dec. 2, 2002, 116 Stat. 2645.)
 
 #### Prior Provisions
 
 A prior section 1798 was renumbered section 1800 of this title.
 
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:
+
+“(1) Every two years the Secretary of Defense shall submit to Congress a report on the exercise of authority under this section. The report shall include an evaluation of the effectiveness of that authority for meeting the needs of members of the armed forces or employees of the Department of Defense for child care services and youth program services. The report may include any recommendations for legislation that the Secretary considers appropriate to enhance the capability of the Department of Defense to meet those needs.
+
+“(2) A biennial report under this subsection may be combined with the biennial report under section 1799(d) of this title into a single report for submission to Congress.”
+
 #### First Biennial Reports
 
-Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that: “The first biennial reports under sections 1798(d) and 1799(d) of title 10, United States Code (as added by subsection (a)), shall be submitted not later than March 31, 2002, and shall cover fiscal years 2000 and 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1799 of this title.
+Pub. L. 106–65, div. A, title V, §584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
 

@@ -18,7 +18,7 @@ Delay.—With respect to the issuance of any warrant or court order under this s
 
 #### Codification
 
-Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and Pub. L. 90–462, §3, Aug. 8, 1968, 82 Stat. 638, corrected the chapter designation from 204 to 205.
+Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and Pub. L. 90–462, §3, Aug. 8, 1968,82 Stat. 638, corrected the chapter designation from 204 to 205.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority to enter into agreements
 
-The President, in his discretion, may enter into an agreement with any person (includingthe owner or operator of the facility from which a release or substantial threat of release emanates, or any other potentially responsible person), to perform any response action (including any action described in section 9604(b) of this title) if the President determines that such action will be done properly by such person. Whenever practicable and in the public interest, as determined by the President, the President shall act to facilitate agreements under this section that are in the public interest and consistent with the National Contingency Plan in order to expedite effective remedial actions and minimize litigation. If the President decides not to use the procedures in this section, the President shall notify in writing potentially responsible parties at the facility of such decision and the reasons why use of the procedures is inappropriate. A decision of the President to use or not to use the procedures in this section is not subject to judicial review.
+The President, in his discretion, may enter into an agreement with any person (including the owner or operator of the facility from which a release or substantial threat of release emanates, or any other potentially responsible person), to perform any response action (including any action described in section 9604(b) of this title) if the President determines that such action will be done properly by such person. Whenever practicable and in the public interest, as determined by the President, the President shall act to facilitate agreements under this section that are in the public interest and consistent with the National Contingency Plan in order to expedite effective remedial actions and minimize litigation. If the President decides not to use the procedures in this section, the President shall notify in writing potentially responsible parties at the facility of such decision and the reasons why use of the procedures is inappropriate. A decision of the President to use or not to use the procedures in this section is not subject to judicial review.
 
 #### (b) Agreements with potentially responsible parties
 
@@ -46,7 +46,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (B) Effect
 
-&emsp;&emsp;The entry of any consent decree under this subsection shall not be construed to be an acknowledgment by the parties that the release or threatened release concerned constitutes an imminent and substantial endangerment to the public health or welfare orthe environment. Except as otherwise provided in the Federal Rules of Evidence, the participation by any party in the process under this section shall not be considered an admission of liability for any purpose, and the fact of such participation shall not be admissible in any judicial or administrative proceeding, including a subsequent proceeding under this section.
+&emsp;&emsp;The entry of any consent decree under this subsection shall not be construed to be an acknowledgment by the parties that the release or threatened release concerned constitutes an imminent and substantial endangerment to the public health or welfare or the environment. Except as otherwise provided in the Federal Rules of Evidence, the participation by any party in the process under this section shall not be considered an admission of liability for any purpose, and the fact of such participation shall not be admissible in any judicial or administrative proceeding, including a subsequent proceeding under this section.
 
 #### (C) Structure
 
@@ -146,7 +146,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
 
-&emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title,where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
+&emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
 &emsp;&emsp;(B) which involves the treatment of hazardous substances so as to destroy, eliminate, or permanently immobilize the hazardous constituents of such substances, such that, in the judgment of the President, the substances no longer present any current or currently foreseeable future significant risk to public health, welfare or the environment, no byproduct of the treatment or destruction process presents any significant hazard to public health, welfare or the environment, and all byproducts are themselves treated, destroyed, or contained in a manner which assures that such byproducts do not present any current or currently foreseeable future significant risk to public health, welfare or the environment,
 
@@ -154,7 +154,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (3) Requirement that remedial action be completed
 
-&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance with the requirements of this chapter at the facility that is the subject of such covenant.
+&emsp;A covenant not to sue concerning future liability to the United States shall not take effect until the President certifies that remedial action has been completed in accordance withthe requirements of this chapter at the facility that is the subject of such covenant.
 
 #### (4) Factors
 
@@ -202,7 +202,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;&emsp;&emsp;(i) is the owner of the real property on or in which the facility is located;
 
-&emsp;&emsp;&emsp;(ii) did not conduct or permit the generation, transportation, storage, treatment,or disposal of any hazardous substance at the facility; and
+&emsp;&emsp;&emsp;(ii) did not conduct or permit the generation, transportation, storage, treatment, or disposal of any hazardous substance at the facility; and
 
 &emsp;&emsp;&emsp;(iii) did not contribute to the release or threat of release of a hazardous substance at the facility through any action or omission.
 
@@ -324,7 +324,7 @@ The provisions of this section shall not apply to releases from a vessel.
 
 #### (<i>l</i>) Civil penalties
 
-A potentially responsible party which is a party to an administrative order or consent decree entered pursuant to an agreement under this section or section 9620 of this title (relating to Federal facilities) or which is a party to an agreement under section 9620 of this title and which fails or refuses to comply with any termor condition of the order, decree or agreement shall be subject to a civil penalty in accordance with section 9609 of this title.
+A potentially responsible party which is a party to an administrative order or consent decree entered pursuant to an agreement under this section or section 9620 of this title (relating to Federal facilities) or which is a party to an agreement under section 9620 of this title and which fails or refuses to comply with any term or condition of the order, decree or agreement shall be subject to a civil penalty in accordance with section 9609 of this title.
 
 #### (m) Applicability of general principles of law
 
@@ -346,7 +346,7 @@ Amendment by Pub. L. 107–118 not to apply to or in any way affect any settleme
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 
-Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trust fund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, or fee; establishing any trustfund; or authorizing expenditures from any trust fund, to have no force or effect, see section 531 of Pub. L. 99–499, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ In the report required in section 300aa–4 <sup>1</sup> of this title, the Sec
 
 #### (c) Authorization of appropriations
 
-In addition to any other amounts authorized to be appropriated for activities of the type described in this section, there are authorized to be appropriated to carry out this section$20,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+In addition to any other amounts authorized to be appropriated for activities of the type described in this section, there are authorized to be appropriated to carry out this section $20,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 (July 1, 1944, ch. 373, title IV, §404B, as added Pub. L. 103–43, title II, §204, June 10, 1993, 107 Stat. 146.)
 

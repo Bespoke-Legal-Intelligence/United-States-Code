@@ -6,7 +6,7 @@ Restriction on Individuals Who Are Subject of Investigation.—No judge whose co
 
 (b)
 
-Amicus Curiae.—No person shall be granted the right to intervene or to appear as amicuscuriae in any proceeding before a judicial council or the Judicial Conference under this chapter.
+Amicus Curiae.—No person shall be granted the right to intervene or to appear as amicus curiae in any proceeding before a judicial council or the Judicial Conference under this chapter.
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1853.)
 

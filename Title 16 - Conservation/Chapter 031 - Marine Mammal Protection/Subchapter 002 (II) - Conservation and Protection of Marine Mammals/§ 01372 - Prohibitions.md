@@ -52,7 +52,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 
-&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in amanner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
+&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in a manner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
 
 #### (d) Nonapplicability of prohibitions
 
@@ -86,7 +86,7 @@ Pub. L. 103–238, §13(c), in introductory provisions inserted reference to sec
 
 Subsec. (a)(2)(B). Pub. L. 103–238, §5(a)(1), substituted “to take or import” for “for any purpose in any way connected with the taking or importation of”.
 
-Subsec. (a)(4). Pub. L. 103–238, §5(a)(2), substituted “export, or offer to purchase, sell, or export” for “or offer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
+Subsec. (a)(4). Pub. L. 103–238, §5(a)(2), substituted “export, or offer to purchase, sell, or export” for “oroffer to purchase or sell” and “product—” for “product; and” and added subpars. (A) and (B).
 
 1992—Subsec. (a). Pub. L. 102–587 inserted “or subchapter V of this chapter” in introductory provisions.
 

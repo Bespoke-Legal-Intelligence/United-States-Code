@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(4) the raw materials and component parts also are used in a variety of nonmedical products;
 
-&emsp;(5) because small quantities of the raw materials and component parts are used for medical devices, sales of raw materials and component parts for medical devices constitute an extremely small portion of the overall market for the raw materials and component parts;
+&emsp;(5) because small quantities of the raw materials and component parts are used for medical devices, sales of raw materials and componentparts for medical devices constitute an extremely small portion of the overall market for the raw materials and component parts;
 
 &emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;
 
@@ -48,7 +48,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) to clarify the permissible bases of liability for suppliers of raw materials and component parts for medical devices; and
 
-&emsp;&emsp;(B) to provide expeditious procedures to dispose of unwarranted suits against thesuppliers in such manner as to minimize litigation costs;
+&emsp;&emsp;(B) to provide expeditious procedures to dispose of unwarranted suits against the suppliers in such manner as to minimize litigation costs;
 
 &emsp;(16) the several States and their courts are the primary architects and regulators of our tort system; Congress, however, must, in certain circumstances involving the national interest, address tort issues, and a threatened shortage of raw materials and component parts for lifesaving medical devices is one such circumstance; and
 

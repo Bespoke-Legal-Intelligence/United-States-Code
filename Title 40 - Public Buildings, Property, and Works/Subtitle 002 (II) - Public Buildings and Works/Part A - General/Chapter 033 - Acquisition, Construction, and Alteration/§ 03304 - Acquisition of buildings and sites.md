@@ -6,7 +6,7 @@ In General.—The Administrator of General Services may acquire, by purchase, co
 
 (b)
 
-Acquisition of Land or Interest in Land for Use as Sites.—The Administrator may acquire land or an interest in land the Administrator considers necessary for use as sites, or additions to sites, for public buildings authorized to be constructed or altered under this chapter.
+Acquisition of Land or Interest in Land for Use as Sites.—The Administrator may acquire, by purchase, condemnation, donation, exchange, or otherwise, land or an interest in land the Administrator considers necessary for use as sites, or additions to sites, for public buildings authorized to be constructed or altered under this chapter.
 
 (c)
 
@@ -20,7 +20,7 @@ Solicitation of Proposals for Sale, Donation, or Exchange of Real Property.—Wh
 
 &emsp;(2) acquire the site without regard to title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, §3(1), Dec. 15, 2003, 117 Stat. 2640.)
 
 Historical and Revision Notes
 
@@ -55,6 +55,14 @@ In subsections (c) and (d), the words “United States Postal Service” are sub
 #### References in Text
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2003—Subsec. (b). Pub. L. 108–178 inserted “, by purchase, condemnation, donation, exchange, or otherwise,” after “The Administrator may acquire”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

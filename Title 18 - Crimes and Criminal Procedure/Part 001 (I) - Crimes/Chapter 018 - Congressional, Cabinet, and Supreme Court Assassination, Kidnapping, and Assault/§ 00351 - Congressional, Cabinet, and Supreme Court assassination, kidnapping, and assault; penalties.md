@@ -10,7 +10,7 @@
 
 (e) Whoever assaults any person designated in subsection (a) of this section shall be fined under this title, or imprisoned not more than one year, or both; and if the assault involved the use of a dangerous weapon, or personal injury results, shall be fined under this title, or imprisoned not more than ten years, or both.
 
-(f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
+(f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, underany applicable State or local law, until Federal action is terminated.
 
 (g) Violations of this section shall be investigated by the Federal Bureau of Investigation. Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 

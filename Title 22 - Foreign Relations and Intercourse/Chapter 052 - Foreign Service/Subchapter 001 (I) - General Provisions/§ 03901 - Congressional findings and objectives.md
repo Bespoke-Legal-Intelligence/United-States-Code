@@ -192,7 +192,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12293. Administration of Foreign Service
 
-Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
@@ -202,33 +202,21 @@ Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 
 
 Sec. 3. The Secretary of State shall make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under Section 827 of the Act (22 U.S.C. 4067) to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System.
 
-Sec. 4. In accord with Section 402 of the Act (22 U.S.C. 3962), there are established the following salary classeswith titles for the Senior Foreign Service (SFS), at basic rates of pay equivalent to that established from time to time for the Senior Executive Service (ES) under Section 5382 of Title 5 of the United States Code.
+Sec. 4. (a) In accord with Section 402 of the Act (22 U.S.C. 3962), there are established the following salary classes with titles for the Senior Foreign Service, at the following ranges of basic rates of pay.
 
-> Career Minister
+(1) Career Minister
 
-(a) Basic rate of pay equivalent to ES 6.
+&emsp;&emsp;&nbsp;Range from 94 percent of the rate payable to level III of the Executive Schedule to 100 percent of the rate payable to level III of the Executive Schedule.
 
-> Minister-Counselor
+(2) Minister-Counselor
 
-(a) Basic rate of pay equivalent to ES 6, or
+&emsp;&emsp;&nbsp;Range from 90 percent of the rate payable to level III of the Executive Schedule to 100 percent of the rate payable to level III of the Executive Schedule.
 
-(b) Basic rate of pay equivalent to ES 5, or
+(3) Counselor
 
-(c) Basic rate of pay equivalent to ES 4.
+&emsp;&emsp;&nbsp;Range from 120 percent of the rate payable to GS–15/Step 1 to 100 percent of rate payable to level III of the Executive Schedule.
 
-> Counselor
-
-(a) Basic rate of pay equivalent to ES 6, or
-
-(b) Basic rate of pay equivalent to ES 5, or
-
-(c) Basic rate of pay equivalent to ES 4, or
-
-(d) Basic rate of pay equivalent to ES 3, or
-
-(e) Basic rate of pay equivalent to ES 2, or
-
-(f) Basic rate of pay equivalent to ES 1.
+(b) Upon conversion to a rate of basic pay within the range of rates established for the applicable salary class by this section as of the first day of the first applicable pay period beginning on or after January 1, 2004, a member of the Senior Foreign Service shall receive the rate of basic pay to which he or she was entitled immediately before that date, including any locality-based comparability payment authorized under 5 U.S.C. 5304(h)(2)(C) that the member was receiving immediately before that date. On the same date, or on a later date specified by the Secretary of State (or the heads of the other agencies that utilize the Foreign Service personnel system (collectively the “Secretary”)), the Secretary may increase the member's rate of basic pay upon a determination that the member's performance or contribution to the mission of the agency so warrant and that the member is otherwise eligible for such a pay adjustment under Section 402 of the Foreign Service Act \[22 U.S.C. 3962\].
 
 Sec. 5. There is hereby delegated to the Secretary of State, without further action by the President, the authority vested in the President by Section 2107 of the Act \[22 U.S.C. 4157\] to the extent necessary to implement the provisions of Section 2101 of the Act \[22 U.S.C. 4151\], relating to pay and benefits pending conversion.
 

@@ -10,7 +10,7 @@
 
 (4) The Secretary shall designate one member of the Board as Vice Chairman. The Vice Chairman shall perform such functions as the Chairman may specify. Such member shall serve as Vice Chairman at the pleasure of the Secretary.
 
-(c)(1)(A) The Chairman may from time to time designate one or more employees of the Department to serve as acting members of the Board. Except as provided in subparagraph (B), any such designation shall be for a period not to exceed 90 days, as determined by the Chairman.
+(c)(1)(A) The Chairman may from time to time designate one or more employees of the Department to serve as acting members of the Board. Except as provided in subparagraph (B), anysuch designation shall be for a period not to exceed 90 days, as determined by the Chairman.
 
 (B) An individual designated as an acting member of the Board may continue to serve as an acting member of the Board in the making of any determination on a proceeding for which the individual was designated as an acting member of the Board, notwithstanding the termination of the period of designation of the individual as an acting member of the Board under subparagraph (A) or (C).
 

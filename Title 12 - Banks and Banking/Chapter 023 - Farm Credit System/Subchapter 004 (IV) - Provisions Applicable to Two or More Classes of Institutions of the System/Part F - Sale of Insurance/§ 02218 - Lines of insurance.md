@@ -26,7 +26,7 @@ Such regulations shall provide that—
 
 &emsp;&emsp;&emsp;(ii) licensed under State law to do business in the State; and
 
-&emsp;&emsp;(E) in making insurance available through approved insurers, the board of directors of the association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2) of this section; and
+&emsp;&emsp;(E) in making insurance available through approved insurers, the board of directors ofthe association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2) of this section; and
 
 &emsp;(3) no bank or association shall directly or indirectly discriminate in any manner against any agent, broker, or insurer that is not affiliated with such bank or association, or against any party who purchases insurance through any such nonaffiliated insurance agent, broker, or insurer.
 

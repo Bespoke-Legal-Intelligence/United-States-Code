@@ -36,7 +36,7 @@
 
 &emsp;(B) in the case of a person entitled to reemployment under subsection (a)(3), (a)(4), or (b)(2)(B) of section 4313, such employment would impose an undue hardship on the employer; or
 
-&emsp;(C) the employment from which the person leaves to serve in the uniformed services is for a brief, nonrecurrent period and there is no reasonable expectation that such employment will continue indefinitely or for a significant period.
+&emsp;(C) the employment from which the person leaves to serve in the uniformed services is fora brief, nonrecurrent period and there is no reasonable expectation that such employment will continue indefinitely or for a significant period.
 
 (2) In any proceeding involving an issue of whether—
 
@@ -80,7 +80,7 @@
 
 (3)(A) Except as provided in subparagraph (B), the failure of a person to provide documentation that satisfies regulations prescribed pursuant to paragraph (2) shall not be a basis for denying reemployment in accordance with the provisions of this chapter if the failure occurs because such documentation does not exist or is not readily available at the time of the request of the employer. If, after such reemployment, documentation becomes available that establishes that such person does not meet one or more of the requirements referred to in subparagraphs (A), (B), and (C) of paragraph (1), the employer of such person may terminate the employment of the person and the provision of any rights or benefits afforded the person under this chapter.
 
-(B) An employer who reemploys a person absent from a position of employment for more than 90 days may require that the person provide the employer with the documentation referred to in subparagraph (A) before beginning to treat the person as not having incurred a break in service for pension purposes under section 4318(a)(2)(A).
+(B) An employer who reemploys a person absent from a position of employment for more than 90 days may require that the person provide the employer with the documentation referred to in subparagraph (A) before beginningto treat the person as not having incurred a break in service for pension purposes under section 4318(a)(2)(A).
 
 (4) An employer may not delay or attempt to defeat a reemployment obligation by demanding documentation that does not then exist or is not then readily available.
 

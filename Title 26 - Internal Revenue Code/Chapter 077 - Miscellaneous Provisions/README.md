@@ -9,7 +9,7 @@
 | [7505\.](%C2%A7%2007505%20-%20Sale%20of%20personal%20property%20acquired%20by%20the%20United%20States.md) | Sale of personal property acquired by the United States. |
 | [7506\.](%C2%A7%2007506%20-%20Administration%20of%20real%20estate%20acquired%20by%20the%20United%20States.md) | Administration of real estate acquired by the United States. |
 | [7507\.](%C2%A7%2007507%20-%20Exemption%20of%20insolvent%20banks%20from%20tax.md) | Exemption of insolvent banks from tax. |
-| [7508\.](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone.md) | Time for performing certain acts postponed by reason of service in combat zone. |
+| [7508\.](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone%20or%20contingency%20operation.md) | Time for performing certain acts postponed by reason of service in combat zone or contingency operation. |
 | [7508A.](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md) | Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions. |
 | [7509\.](%C2%A7%2007509%20-%20Expenditures%20incurred%20by%20the%20United%20States%20Postal%20Service.md) | Expenditures incurred by the United States Postal Service. |
 | [7510\.](%C2%A7%2007510%20-%20Exemption%20from%20tax%20of%20domestic%20goods%20purchased%20for%20the%20United%20States.md) | Exemption from tax of domestic goods purchased for the United States. |
@@ -35,10 +35,15 @@
 | [7525\.](%C2%A7%2007525%20-%20Confidentiality%20privileges%20relating%20to%20taxpayer%20communications.md) | Confidentiality privileges relating to taxpayer communications. |
 | [7526\.](%C2%A7%2007526%20-%20Low-income%20taxpayer%20clinics.md) | Low-income taxpayer clinics. |
 | [7527\.](%C2%A7%2007527%20-%20Advance%20payment%20of%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md) | Advance payment of credit for health insurance costs of eligible individuals. |
+| [7528\.](%C2%A7%2007528%20-%20Internal%20Revenue%20Service%20user%20fees.md) | Internal Revenue Service user fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–121, title I, §104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted “or contingency operation” after “combat zone” in item 7508.
+
+Pub. L. 108–89, title II, §202(b)(1), Oct. 1, 2003, 117 Stat. 1133, added item 7528.
 
 2002—Pub. L. 107–210, div. A, title II, §202(d)(1), Aug. 6, 2002, 116 Stat. 963, added item 7527.
 
@@ -98,7 +103,7 @@ This chapter is referred to in sections 7801, 7851 of this title.
 - [&sect; 07505 - Sale of personal property acquired by the United States](%C2%A7%2007505%20-%20Sale%20of%20personal%20property%20acquired%20by%20the%20United%20States.md)
 - [&sect; 07506 - Administration of real estate acquired by the United States](%C2%A7%2007506%20-%20Administration%20of%20real%20estate%20acquired%20by%20the%20United%20States.md)
 - [&sect; 07507 - Exemption of insolvent banks from tax](%C2%A7%2007507%20-%20Exemption%20of%20insolvent%20banks%20from%20tax.md)
-- [&sect; 07508 - Time for performing certain acts postponed by reason of service in combat zone](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone.md)
+- [&sect; 07508 - Time for performing certain acts postponed by reason of service in combat zone or contingency operation](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone%20or%20contingency%20operation.md)
 - [&sect; 07508A - Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md)
 - [&sect; 07509 - Expenditures incurred by the United States Postal Service](%C2%A7%2007509%20-%20Expenditures%20incurred%20by%20the%20United%20States%20Postal%20Service.md)
 - [&sect; 07510 - Exemption from tax of domestic goods purchased for the United States](%C2%A7%2007510%20-%20Exemption%20from%20tax%20of%20domestic%20goods%20purchased%20for%20the%20United%20States.md)
@@ -119,3 +124,4 @@ This chapter is referred to in sections 7801, 7851 of this title.
 - [&sect; 07525 - Confidentiality privileges relating to taxpayer communications](%C2%A7%2007525%20-%20Confidentiality%20privileges%20relating%20to%20taxpayer%20communications.md)
 - [&sect; 07526 - Low-income taxpayer clinics](%C2%A7%2007526%20-%20Low-income%20taxpayer%20clinics.md)
 - [&sect; 07527 - Advance payment of credit for health insurance costs of eligible individuals](%C2%A7%2007527%20-%20Advance%20payment%20of%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md)
+- [&sect; 07528 - Internal Revenue Service user fees](%C2%A7%2007528%20-%20Internal%20Revenue%20Service%20user%20fees.md)

@@ -21,6 +21,7 @@
 | [317\.](%C2%A7%2000317%20-%20Center%20for%20Minority%20Veterans.md) | Center for Minority Veterans. |
 | [318\.](%C2%A7%2000318%20-%20Center%20for%20Women%20Veterans.md) | Center for Women Veterans. |
 | [319\.](%C2%A7%2000319%20-%20Office%20of%20Employment%20Discrimination%20Complaint%20Adjudication.md) | Office of Employment Discrimination Complaint Adjudication. |
+| [320\.](%C2%A7%2000320%20-%20Department%20of%20Veterans%20Affairs-Department%20of%20Defense%20Joint%20Executive%20Committee.md) | Department of Veterans Affairs-Department of Defense Joint Executive Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,7 +67,7 @@ Section 223, added Pub. L. 100–687, div. A, title I, §102(a)(1), Nov. 18, 198
 
 Section 224, added Pub. L. 100–322, title II, §203(b)(1), May 20, 1988, 102 Stat. 509, §223; renumbered §224, Pub. L. 101–94, title III, §302(d)(1), Aug. 16, 1989, 103 Stat. 628, related to administrative settlement of tort claims. See section 515 of this title.
 
-Section 230, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 86–103, July 23, 1959, 73 Stat. 224; Pub. L. 87–815, §5, Oct. 15, 1962, 76 Stat. 927; Pub. L. 91–338, July 16, 1970, 84 Stat. 437; Pub. L. 93–82, title IV, §401, Aug. 2, 1973, 87 Stat. 196; Pub. L. 95–520, §2, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title V, §503(a), June 13, 1979, 93 Stat. 65; Pub. L. 96–385, title V, §501, Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, §4(6), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–108, §1, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title IV, §402, Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(13), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 100–689, title V, §501(a), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 101–237, title VI, §603(a), Dec. 18, 1989, 103 Stat. 2095, related to Central Office and regional offices. See sections 314 to 316 of this title.
+Section 230, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 86–103, July 23, 1959, 73 Stat. 224; Pub. L. 87–815, §5, Oct. 15, 1962, 76 Stat. 927; Pub. L. 91–338, July 16, 1970, 84 Stat. 437; Pub. L. 93–82, title IV, §401, Aug. 2,1973, 87 Stat. 196; Pub. L. 95–520, §2, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title V, §503(a), June 13, 1979, 93 Stat. 65; Pub. L. 96–385, title V, §501, Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–295, §4(6), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–108, §1, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title IV, §402, Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(13), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 100–689, title V, §501(a), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 101–237, title VI, §603(a), Dec. 18, 1989, 103 Stat. 2095, related to Central Office and regional offices. See sections 314 to 316 of this title.
 
 Section 231, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116, related to placement of employees in military installations. See section 701 of this title.
 
@@ -95,6 +96,8 @@ Section 245, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat.
 Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 Stat. 1446; amended Pub. L. 95–336, §6(b), Aug. 4, 1978, 92 Stat. 453; Pub. L. 97–295, §4(8), Oct. 12, 1982, 96 Stat. 1305, related to veterans cost-of-instruction payments to institutions of higher learning.
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §583(a)(2), Nov. 24, 2003, 117 Stat. 1491, added item 320.
 
 1998—Pub. L. 105–368, title IV, §403(c)(1)(B), Nov. 11, 1998, 112 Stat. 3338, substituted “Under Secretary for Memorial Affairs” for “Director of the National Cemetery System” in item 307.
 
@@ -132,3 +135,4 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00317 - Center for Minority Veterans](%C2%A7%2000317%20-%20Center%20for%20Minority%20Veterans.md)
 - [&sect; 00318 - Center for Women Veterans](%C2%A7%2000318%20-%20Center%20for%20Women%20Veterans.md)
 - [&sect; 00319 - Office of Employment Discrimination Complaint Adjudication](%C2%A7%2000319%20-%20Office%20of%20Employment%20Discrimination%20Complaint%20Adjudication.md)
+- [&sect; 00320 - Department of Veterans Affairs-Department of Defense Joint Executive Committee](%C2%A7%2000320%20-%20Department%20of%20Veterans%20Affairs-Department%20of%20Defense%20Joint%20Executive%20Committee.md)

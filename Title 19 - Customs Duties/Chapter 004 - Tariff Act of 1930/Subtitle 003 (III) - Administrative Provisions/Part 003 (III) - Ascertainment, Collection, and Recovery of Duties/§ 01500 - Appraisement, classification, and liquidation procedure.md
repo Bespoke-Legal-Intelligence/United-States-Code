@@ -30,7 +30,7 @@ R.S. §2945 imposed a penalty on any merchant chosen by the collector to make an
 
 R.S. §2946 related to the ascertainment of value at ports where there were no appraisers, prior to repeal by section 642 of the act of Sept. 21, 1922, ch. 356.
 
-A prior provision similar to subdivision (b) was contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, the provisions of which were substitutes for those of the Customs Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99. Section III, M, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+A prior provision similar to subdivision (b) was contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, the provisions of which were substitutes for those of theCustoms Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99. Section III, M, was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 An earlier provision on the subject was contained in R.S. §2929, prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
@@ -54,7 +54,7 @@ Subds. (d) and (e). Pub. L. 103–182, §638(5), amended subds. (d) and (e) gene
 
 1979—Subd. (a). Pub. L. 96–39 substituted “by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, or other document” for “in the unit of quantity in which the merchandise is usually bought and sold by ascertaining or estimating the value thereof by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, or other document”.
 
-1970—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions which set forth the customs functions to be performed by the appropriate customs officer for provisions which set forth the customs functions to be performed by the appraiser, and struck out subds. (b) to (f), which allocated specific customs functions to appraisers, assistant and deputy appraisers,and examiners, and authorized the designation of acting appraisers where necessary.
+1970—Pub. L. 91–271 struck out “(a)” preceding first sentence and, in such provisions, as so redesignated, substituted provisions which set forth the customs functions to be performed by the appropriate customs officer for provisions which set forth the customs functions to be performed by the appraiser, and struck out subds. (b) to (f), which allocated specific customs functions to appraisers, assistant and deputy appraisers, and examiners, and authorized the designation of acting appraisers where necessary.
 
 1956—Subd. (f). Act Aug. 2, 1956, struck out “take the oath,” before “perform all the duties” in second sentence, and struck out comma after “perform all duties”.
 

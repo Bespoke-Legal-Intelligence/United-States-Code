@@ -90,7 +90,7 @@ Any bypass determination by the Secretary under title VI (as such title was in e
 
 #### References in Text
 
-Title VI (as such title was in effect on the day preceding January 8, 2002), referred to in subsec. (i), means title VI of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, as amended, which was classified generally to subchapter VI (§7301 et seq.) of this chapter prior to the general amendment of subchapter VI by Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1873.
+Title VI (as such title was in effect on the day preceding January 8, 2002), referred to in subsec. (i), means title VI of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3707, as amended, which was classified generally to subchapter VI (§7301et seq.) of this chapter prior to the general amendment of subchapter VI by Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1873.
 
 #### Prior Provisions
 

@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 &emsp;(3) Consistent with paragraph (2) of this subsection, the State shall create a State park or conservation/recreation area in the lands and interests in lands acquired for the project lying between the Atlantic Ocean and the western boundaries of sections 20 and 29, township 15 south, range 23 east.
 
-&emsp;(4) The State shall agree, consistent with paragraphs (2), (5) and (6) of this subsection, to preserve, enhance, interpret, and manage the water and related land resources of the area containing cultural, fish and wildlife, scenic, and recreational values in the remaining lands and interests in land acquired for the project, lying west of sections 20 and 29, township 15south, range 23 east, as determined by the State, for the benefit and enjoyment of present and future generations of people and the development of outdoor recreation.
+&emsp;(4) The State shall agree, consistent with paragraphs (2), (5) and (6) of this subsection, to preserve, enhance, interpret, and manage the water and related land resources of the area containing cultural, fish and wildlife, scenic, and recreational values in the remaining lands and interests in land acquired for the project, lying west of sections 20 and 29, township 15 south, range 23 east, as determined by the State, for the benefit and enjoyment of present and future generations of people and the development of outdoor recreation.
 
 &emsp;(5) The State shall agree to pay, from the assets of the State Canal Authority and the Cross Florida Canal Navigation District, including revenues from the sale of former project lands declared surplus by the State management plan, to the counties of Citrus, Clay, Duval, Levy, Marion, and Putnam a minimum aggregate sum of $32,000,000 in cash or, at the option of the counties, payment to be made by conveyance of surplus former project lands selected by the State at current appraised values.
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 #### (d) Time of transfer
 
-Actual transfer of lands and management responsibilities under this section shall not occur on the constructed portions of the project lying between the Atlantic Ocean and the Eureka Lock and Dam, inclusive, and between the Gulf of Mexico and the Inglis Lock and Dam, inclusive, until the last day of the 24-month period beginning on November 28, 1990.
+Actual transfer of lands and management responsibilities under this section shall not occur on the constructed portions of the project lying between the Atlantic Ocean and the EurekaLock and Dam, inclusive, and between the Gulf of Mexico and the Inglis Lock and Dam, inclusive, until the last day of the 24-month period beginning on November 28, 1990.
 
 #### (e) Management pending transfer
 

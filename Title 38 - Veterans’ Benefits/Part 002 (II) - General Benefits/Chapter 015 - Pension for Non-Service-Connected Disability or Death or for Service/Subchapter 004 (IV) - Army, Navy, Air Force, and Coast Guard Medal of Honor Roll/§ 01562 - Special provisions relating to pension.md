@@ -1,6 +1,6 @@
 ### §1562. Special provisions relating to pension
 
-(a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under section 1560 of this title.
+(a) The Secretary shall pay monthly to each person whose name has been entered on theArmy, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under section 1560 of this title.
 
 (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -106,7 +106,7 @@ Prior section 1672, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15, rela
 
 Prior section 1675, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, §401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
 
-Prior section 1677, added Pub. L. 90–77, title III, §302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, §5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, §102, title II, §203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, §102(1), title IV, §401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, §102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, §203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, §102(1), Nov.23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§201(1), 211(1), title VI, §603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
+Prior section 1677, added Pub. L. 90–77, title III, §302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, §5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, §102, title II, §203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, §102(1), title IV, §401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, §102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, §203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, §102(1), Nov. 23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§201(1), 211(1), title VI, §603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
 
 Prior section 1678, added Pub. L. 90–77, title III, §306(a), Aug. 31, 1967, 81 Stat. 188, related to special training for educationally disadvantaged, prior to repeal by Pub. L. 91–219, title II, §204(a)(2), Mar. 26, 1970, 84 Stat. 79. See subchapter V of chapter 34 of this title.
 
@@ -136,7 +136,7 @@ Prior sections 1695 to 1698 were repealed, effective Oct. 1, 1980, by Pub. L. 96
 
 Section 1695, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80, set forth purpose of former subchapter VI relating to a predischarge education program and defined “eligible person” for purposes of subchapter VI of chapter 34.
 
-Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, §102(5), title III, §307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, §102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §203(c), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title II, §§201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, §102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
+Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 80; amended Pub. L. 92–540, title I, §102(5), title III, §307, Oct. 24, 1972, 86 Stat. 1075, 1081; Pub. L. 93–508, title I, §102(5), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §203(c), Jan. 2, 1975, 88 Stat. 1958;Pub. L. 94–502, title II, §§201(4), 210(5), 211(13), Oct. 15, 1976, 90 Stat. 2385, 2388, 2389; Pub. L. 95–202, title I, §102(6), Nov. 23, 1977, 91 Stat. 1434, related to payment of an educational assistance allowance.
 
 Section 1697, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
 
@@ -186,7 +186,7 @@ Pub. L. 105–368, title III, §301(b), Nov. 11, 1998, 112 Stat. 3332, provided 
 
 #### Effective Date of 1993 Amendment
 
-Section 1(b) of Pub. L. 103–161 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginningafter the date of the enactment of this Act \[Nov. 30, 1993\].”
+Section 1(b) of Pub. L. 103–161 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginning after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1978 Amendment
 

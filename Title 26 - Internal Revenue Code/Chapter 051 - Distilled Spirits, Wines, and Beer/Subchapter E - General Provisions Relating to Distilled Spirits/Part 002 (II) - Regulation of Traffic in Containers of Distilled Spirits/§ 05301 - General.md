@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Whenever in his judgment such action is necessary to protect the revenue, the Secretary isauthorized, by the regulations prescribed by him and permits issued thereunder if required by him—
+Whenever in his judgment such action is necessary to protect the revenue, the Secretary is authorized, by the regulations prescribed by him and permits issued thereunder if required by him—
 
 &emsp;(1) to regulate the kind, size, branding, marking, sale, resale, possession, use, and reuse of containers (of a capacity of not more than 5 wine gallons) designed or intended for use for the sale of distilled spirits (within the meaning of such term as it is used in section 5002(a)(8) for other than industrial use; and
 
@@ -12,7 +12,7 @@ Whenever in his judgment such action is necessary to protect the revenue, the Se
 
 #### (b) Disposition
 
-Every person disposing of containers of the character used for the packaging of distilled spirits shall, when required by the Secretary for protection of the revenue, render a correct return, in such form and manner as the Secretary may by regulations prescribe, showing the name and address of the person to whom each disposition was made, with such details as to the quantities so disposed of or other information which the Secretary may require as to each such disposition. Every person required to render a return under this section shall keep such records as will enable such person to render a correct return. Such records shall be preserved for such period as the Secretary shall by regulations prescribe, and shall be kept available for inspection by any internal revenue officer during business hours.
+Every person disposing of containers of the character used for the packaging of distilledspirits shall, when required by the Secretary for protection of the revenue, render a correct return, in such form and manner as the Secretary may by regulations prescribe, showing the name and address of the person to whom each disposition was made, with such details as to the quantities so disposed of or other information which the Secretary may require as to each such disposition. Every person required to render a return under this section shall keep such records as will enable such person to render a correct return. Such records shall be preserved for such period as the Secretary shall by regulations prescribe, and shall be kept available for inspection by any internal revenue officer during business hours.
 
 #### (c) Refilling of liquor bottles
 
@@ -60,7 +60,7 @@ A prior section 5308, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to tran
 
 A prior section 5309, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of fermented liquors to industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See section 5222(b) of this title.
 
-A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of alcohol free of tax, prior to the general revision of this chapter by Pub. L.85–859. See sections 5214(a), (a)(1) to (3), 5241, 5242, 5272(b), 5273(b)(1), (2), (d), and 5313 of this title.
+A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to withdrawal of alcohol free of tax, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5214(a), (a)(1) to (3), 5241, 5242, 5272(b), 5273(b)(1), (2), (d), and 5313 of this title.
 
 #### Amendments
 

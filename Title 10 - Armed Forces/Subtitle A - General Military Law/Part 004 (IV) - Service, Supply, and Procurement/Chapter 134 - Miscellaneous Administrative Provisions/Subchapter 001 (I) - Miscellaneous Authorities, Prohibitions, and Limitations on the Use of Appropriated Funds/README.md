@@ -9,14 +9,17 @@
 | [2245\.](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md) | Use of aircraft for proficiency flying: limitation. |
 | [2246\.](%C2%A7%2002246%20-%20Department%20of%20Defense%20golf%20courses%20limitation%20on%20use%20of%20appropriated%20funds.md) | Department of Defense golf courses: limitation on use of appropriated funds. |
 | [2247\.](%C2%A7%2002247%20-%20Use%20of%20appropriated%20funds%20for%20operation%20of%20Armed%20Forces%20Recreation%20Center%2C%20Europe%20limitation.md) | Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation. |
-| [2248\.](%C2%A7%2002248%20-%20Purchase%20of%20surety%20bonds%20prohibition.md) | Purchase of surety bonds: prohibition. |
+| \[2248. | Repealed.\] |
 | [2249\.](%C2%A7%2002249%20-%20Prohibition%20on%20use%20of%20funds%20for%20documenting%20economic%20or%20employment%20impact%20of%20certain%20acquisition%20programs.md) | Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs. |
 | [2249a.](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md) | Prohibition on providing financial assistance to terrorist countries. |
 | [2249b.](%C2%A7%2002249b%20-%20Display%20of%20State%20flags%20prohibition%20on%20use%20of%20funds%20to%20arbitrarily%20exclude%20flag%3B%20position%20and%20manner%20of%20display.md) | Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display. |
+| [2249c.](%C2%A7%2002249c%20-%20Authority%20to%20use%20appropriated%20funds%20for%20costs%20of%20attendance%20of%20foreign%20visitors%20under%20Regional%20Defense%20Counterterrorism%20Fellowship%20Program.md) | Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title X, §1045(a)(5)(B), title XII, §1221(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1651, struck out item 2248 “Purchase of surety bonds: prohibition” and added item 2249c.
 
 1996—Pub. L. 104–201, div. A, title X, §1071(b), Sept. 23, 1996, 110 Stat. 2657, added item 2249b.
 
@@ -48,7 +51,8 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02245 - Use of aircraft for proficiency flying limitation](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md)
 - [&sect; 02246 - Department of Defense golf courses limitation on use of appropriated funds](%C2%A7%2002246%20-%20Department%20of%20Defense%20golf%20courses%20limitation%20on%20use%20of%20appropriated%20funds.md)
 - [&sect; 02247 - Use of appropriated funds for operation of Armed Forces Recreation Center, Europe limitation](%C2%A7%2002247%20-%20Use%20of%20appropriated%20funds%20for%20operation%20of%20Armed%20Forces%20Recreation%20Center%2C%20Europe%20limitation.md)
-- [&sect; 02248 - Purchase of surety bonds prohibition](%C2%A7%2002248%20-%20Purchase%20of%20surety%20bonds%20prohibition.md)
+- [&sect; 02248 - Repealed. Pub. L. 108&#8211;136, div. A, title X, &sect;1045(a)(5)(A), Nov. 24, 2003, 117 Stat. 1612](%C2%A7%2002248%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71045%28a%29%285%29%28A%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201612.md)
 - [&sect; 02249 - Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs](%C2%A7%2002249%20-%20Prohibition%20on%20use%20of%20funds%20for%20documenting%20economic%20or%20employment%20impact%20of%20certain%20acquisition%20programs.md)
 - [&sect; 02249a - Prohibition on providing financial assistance to terrorist countries](%C2%A7%2002249a%20-%20Prohibition%20on%20providing%20financial%20assistance%20to%20terrorist%20countries.md)
 - [&sect; 02249b - Display of State flags prohibition on use of funds to arbitrarily exclude flag; position and manner of display](%C2%A7%2002249b%20-%20Display%20of%20State%20flags%20prohibition%20on%20use%20of%20funds%20to%20arbitrarily%20exclude%20flag%3B%20position%20and%20manner%20of%20display.md)
+- [&sect; 02249c - Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program](%C2%A7%2002249c%20-%20Authority%20to%20use%20appropriated%20funds%20for%20costs%20of%20attendance%20of%20foreign%20visitors%20under%20Regional%20Defense%20Counterterrorism%20Fellowship%20Program.md)

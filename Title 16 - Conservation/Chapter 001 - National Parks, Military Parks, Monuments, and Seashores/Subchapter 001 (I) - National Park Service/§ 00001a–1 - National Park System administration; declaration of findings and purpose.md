@@ -16,6 +16,10 @@ This Act, referred to in text, means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 8
 
 Pub. L. 91–383 is popularly known as the “National Park System General Authorities Act”. For complete classification of this Act to the Code, see References in Text note above and Tables.
 
+#### Special Events at National Mall
+
+Pub. L. 108–108, title I, §145, Nov. 10, 2003, 117 Stat. 1280, provided that: “None of the funds appropriated or otherwise made available by this or any other Act, hereafter enacted, may be used to permit the use of the National Mall for a special event, unless the permit expressly prohibits the erection, placement, or use of structures and signs bearing commercial advertising. The Secretary may allow for recognition of sponsors of special events: <i>Provided</i>, That the size and form of the recognition shall be consistent with the special nature and sanctity of the Mall and any lettering or design identifying the sponsor shall be no larger than one-third the size of the lettering or design identifying the special event. In approving special events, the Secretary shall ensure, to the maximum extent practicable, that public use of, and access to the Mall is not restricted. For purposes of this section, the term ‘special event’ shall have the meaning given to it by section 7.96(g)(1)(ii) of title 36, Code of Federal Regulations.”
+
 #### Study of Air Traffic Over Grand Canyon
 
 Pub. L. 102–581, title I, §134, Oct. 31, 1992, 106 Stat. 4887, provided that:
@@ -112,7 +116,7 @@ Enforcement.—For purposes of enforcement, the prohibitions contained in subsec
 
 #### “SEC. 3. GRAND CANYON NATIONAL PARK.
 
-“(a) Noise associated with aircraft overflights at the Grand Canyon National Park is causing a significant adverse effect on the natural quiet and experience of the park and current aircraft operations at the Grand Canyon National Park have raised serious concerns regarding public safety, including concerns regarding the safety of park users.
+“(a) Noise associated with aircraft overflights at the Grand Canyon National Park is causing a significantadverse effect on the natural quiet and experience of the park and current aircraft operations at the Grand Canyon National Park have raised serious concerns regarding public safety, including concerns regarding the safety of park users.
 
 “(b)
 

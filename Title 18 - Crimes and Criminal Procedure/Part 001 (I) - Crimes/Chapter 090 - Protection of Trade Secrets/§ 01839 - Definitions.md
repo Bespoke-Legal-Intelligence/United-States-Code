@@ -10,7 +10,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) the owner thereof has taken reasonable measures to keep such information secret; and
 
-&emsp;&emsp;(B) the information derives independent economic value, actual or potential, fromnot being generally known to, and not being readily ascertainable through proper means by, the public; and
+&emsp;&emsp;(B) the information derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable through proper means by, the public; and
 
 &emsp;(4) the term “owner”, with respect to a trade secret, means the person or entity in whom or in which rightful legal or equitable title to, or license in, the trade secret is reposed.
 

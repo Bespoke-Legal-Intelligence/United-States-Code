@@ -68,7 +68,7 @@ The Director, through the Institute, shall be responsible for—
 
 &emsp;(7) taking whatever action is necessary to keep the Congress fully and currently informed with respect to the implementation and conduct of programs and activities carried out under this subchapter, including dissemination activities;
 
-&emsp;(8) producing, in conjunction with the Department of Labor, the National Center for Health Statistics, the Bureau of the Census, the Health Care Financing Administration, the Social Security Administration, the Bureau of Indian Affairs, the Indian Health Service, and other Federal departments and agencies, as may be appropriate, statistical reports and studies on the employment, self-employment, telecommuting, health, income, and other demographic characteristics of individuals with disabilities, including information on individuals with disabilities who live in rural or inner-city settings, with particular attention given to underserved populations, and widely disseminating such reports and studies to rehabilitation professionals, individuals with disabilities, the individuals’ representatives, and others to assist in the planning, assessment, and evaluation of vocational and other rehabilitation services for individuals with disabilities;
+&emsp;(8) producing, in conjunction with the Department of Labor, the National Center for Health Statistics, the Bureau of the Census, the Centers for Medicare \& Medicaid Services, the Social Security Administration, the Bureau of Indian Affairs, the Indian Health Service, and other Federal departments and agencies, as may be appropriate, statistical reports and studies on the employment, self-employment, telecommuting, health, income, and other demographic characteristics of individuals with disabilities, including information on individuals with disabilities who live in rural or inner-city settings, with particular attention given to underserved populations, and widely disseminating such reports and studies to rehabilitation professionals, individuals with disabilities, the individuals’ representatives, and others to assist in the planning, assessment, and evaluation of vocational and other rehabilitation services for individuals with disabilities;
 
 &emsp;(9) conducting research on consumer satisfaction with vocational rehabilitation services for the purpose of identifying effective rehabilitation programs and policies that promote the independence of individuals with disabilities and achievement of long-term vocational goals;
 
@@ -162,11 +162,11 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 The Director shall make grants to institutions of higher education for the training of rehabilitation researchers, including individuals with disabilities, with particular attention to research areas that support the implementation and objectives of this chapter and that improve the effectiveness of services authorized under this chapter.
 
-(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 93–112, title II, §202, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1168; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 106–402, title IV, §401(b)(3)(B), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–110, title X, §1076(u)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 108–173, title IX, §900(e)(6)(A), Dec. 8, 2003, 117 Stat. 2373.)
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(11), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), (3), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -179,6 +179,8 @@ Provisions similar to this section were contained in section 761a of this title 
 A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(8). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 2002—Subsec. (b)(4)(A)(i). Pub. L. 107–110 substituted “7801” for “8801”.
 

@@ -10,5 +10,5 @@ The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–
 
 #### Codification
 
-Section was enacted as part of Legislative Branch Appropriation Act, 1973 and not as a part of FederalElection Campaign Act of 1971 which comprises this chapter.
+Section was enacted as part of Legislative Branch Appropriation Act, 1973 and not as a part of Federal Election Campaign Act of 1971 which comprises this chapter.
 

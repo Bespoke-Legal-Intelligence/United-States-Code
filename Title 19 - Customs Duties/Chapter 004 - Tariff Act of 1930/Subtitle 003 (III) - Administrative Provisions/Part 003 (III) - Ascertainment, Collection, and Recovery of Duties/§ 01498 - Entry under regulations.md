@@ -96,6 +96,10 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 
 Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
 
+#### Customs Declarations; Proximity of Livestock
+
+Pub. L. 108–90, title V, §513, Oct. 1, 2003, 117 Stat. 1154, provided that: “For fiscal year 2004 and thereafter, none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used for the production of customs declarations that do not inquire whether the passenger had been in the proximity of livestock.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 58c, 1484 of this title.

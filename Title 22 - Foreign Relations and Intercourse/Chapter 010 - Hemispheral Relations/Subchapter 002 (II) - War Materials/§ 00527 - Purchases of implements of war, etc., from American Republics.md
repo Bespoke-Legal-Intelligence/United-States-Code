@@ -1,6 +1,6 @@
 ### §527. Purchases of implements of war, etc., from American Republics
 
-The Secretaries of the Army and of the Navy are authorized to purchase arms, ammunition, and implements of war produced within the jurisdiction of any American republic if sucharms, ammunition, or implements of war cannot be produced in the United States.
+The Secretaries of the Army and of the Navy are authorized to purchase arms, ammunition, and implements of war produced within the jurisdiction of any American republic if such arms, ammunition, or implements of war cannot be produced in the United States.
 
 (June 15, 1940, ch. 365, §7, 54 Stat. 397; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

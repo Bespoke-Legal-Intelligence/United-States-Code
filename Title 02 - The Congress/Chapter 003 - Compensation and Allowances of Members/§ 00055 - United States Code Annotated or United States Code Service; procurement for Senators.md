@@ -12,5 +12,5 @@ In lieu of the volumes of the Code of Laws of the United States, and the supplem
 
 #### Amendments
 
-1972—Pub. L. 92–607 substituted “United States Code Service” for “Federal Code Annotated” in two places.
+<b>1972</b>—Pub. L. 92–607 substituted “United States Code Service” for “Federal Code Annotated” in two places.
 

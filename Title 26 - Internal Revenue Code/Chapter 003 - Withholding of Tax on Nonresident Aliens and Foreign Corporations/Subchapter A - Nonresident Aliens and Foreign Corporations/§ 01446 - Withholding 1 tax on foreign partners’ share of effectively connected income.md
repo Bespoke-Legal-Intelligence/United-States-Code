@@ -32,7 +32,7 @@ For purposes of this section, the term â€œeffectively connected taxable incomeâ€
 
 &emsp;(2) The partnership shall be allowed a deduction for depletion with respect to oil and gas wells but the amount of such deduction shall be determined without regard to sections 613 and 613A.
 
-&emsp;(3) There shall not be taken into account any item of income, gain, loss, or deduction to the extent allocable under section 704 to any partner who is not a foreign partner.
+&emsp;(3) There shall not be taken into account any item of income, gain, loss, or deduction tothe extent allocable under section 704 to any partner who is not a foreign partner.
 
 #### (d) Treatment of foreign partners
 

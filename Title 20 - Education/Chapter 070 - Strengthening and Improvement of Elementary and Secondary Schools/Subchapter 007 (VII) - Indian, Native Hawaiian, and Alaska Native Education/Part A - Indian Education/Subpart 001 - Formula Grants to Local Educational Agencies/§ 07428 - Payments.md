@@ -12,7 +12,7 @@ The Secretary may not make a grant under this subpart to a local educational age
 
 #### (1) In general
 
-&emsp;The Secretary may not pay a local educational agency the full amount of a grant award determined under section 7423 of this title for any fiscal year unless the State educational agency notifies the Secretary, and the Secretary determines, that with respect to the provision of free public education by the local educational agency for the preceding fiscal year, the combined fiscal effort of the local educational agency and the State, computed on either a per student or aggregate expenditure basis, was not less than 90 percent of theamount of the combined fiscal effort, computed on the same basis, for the second preceding fiscal year.
+&emsp;The Secretary may not pay a local educational agency the full amount of a grant award determined under section 7423 of this title for any fiscal year unless the State educational agency notifies the Secretary, and the Secretary determines, that with respect to the provision of free public education by the local educational agency for the preceding fiscal year, the combined fiscal effort of the local educational agency and the State, computed on either a per student or aggregate expenditure basis, was not less than 90 percent of the amount of the combined fiscal effort, computed on the same basis, for the second preceding fiscal year.
 
 #### (2) Failure to maintain effort
 

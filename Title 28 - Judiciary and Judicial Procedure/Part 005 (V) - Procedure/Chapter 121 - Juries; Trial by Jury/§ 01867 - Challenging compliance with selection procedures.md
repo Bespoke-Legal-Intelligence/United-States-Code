@@ -2,7 +2,7 @@
 
 (a) In criminal cases, before the voir dire examination begins, or within seven days after the defendant discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
-(b) In criminal cases, before the voir dire examination begins, or within seven days after the Attorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
+(b) In criminal cases, before the voir dire examination begins, or within seven days after theAttorney General of the United States discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the Attorney General may move to dismiss the indictment or stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
 (c) In civil cases, before the voir dire examination begins, or within seven days after the party discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, any party may move to stay the proceedings on the ground of substantial failure to comply with the provisions of this title in selecting the petit jury.
 

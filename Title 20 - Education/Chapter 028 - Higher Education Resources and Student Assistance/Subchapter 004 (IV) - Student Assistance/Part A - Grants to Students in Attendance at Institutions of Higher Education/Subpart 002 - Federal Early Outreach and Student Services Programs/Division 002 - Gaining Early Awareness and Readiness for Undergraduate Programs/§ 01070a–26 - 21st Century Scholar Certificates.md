@@ -4,7 +4,7 @@
 
 The Secretary, using funds appropriated under section 1070a–28 of this title that do not exceed $200,000 for a fiscal year—
 
-&emsp;(1) shall ensure that certificates, to be known as 21st Century Scholar Certificates, are provided to all students participating in programs under this division; and
+&emsp;(1) shall ensure that certificates, to be known as 21st Century Scholar Certificates,are provided to all students participating in programs under this division; and
 
 &emsp;(2) may, as practicable, ensure that such certificates are provided to all students in grades 6 through 12 who attend schools at which at least 50 percent of the students enrolled are eligible for a free or reduced price lunch under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 

@@ -10,7 +10,7 @@ The Attorney General shall defend any civil action or proceeding brought in any 
 
 #### (c) Removal to United States district court; procedure; proceeding upon removal deemed a tort action against United States; hearing on motion to remand to determine availability of remedy against United States; remand to State court or dismissal
 
-Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on a hearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the UnitedStates as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
+Upon a certification by the Attorney General that the defendant was acting in the scope of his employment at the time of the incident out of which the suit arose, any such civil action or proceeding commenced in a State court shall be removed without bond at any time before trial by the Attorney General to the district court of the United States of the district and division embracing the place wherein it is pending and the proceeding deemed a tort action brought against the United States under the provisions of title 28 and all references thereto. Should a United States district court determine on ahearing on a motion to remand held before a trial on the merit that the case so removed is one in which a remedy by suit within the meaning of subsection (a) of this section is not available against the United States, the case shall be remanded to the State Court: <i>Provided</i>, That where such a remedy is precluded because of the availability of a remedy through proceedings for compensation or other benefits from the United States as provided by any other law, the case shall be dismissed, but in the event the running of any limitation of time for commencing, or filing an application or claim in, such proceedings for compensation or other benefits shall be deemed to have been suspended during the pendency of the civil action or proceeding under this section.
 
 #### (d) Compromise or settlement of claim by Attorney General
 
@@ -46,13 +46,13 @@ The Secretary or his designee may, to the extent that he deems appropriate, hold
 
 (E) The Secretary shall make a determination of whether an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section within 30 days after the receipt of an application under subparagraph (D). The determination of the Secretary that an entity or an officer, governing board member, employee, or contractor of the entity is deemed to be an employee of the Public Health Service for purposes of this section shall apply for the period specified by the Secretary under subparagraph (A).
 
-(F) Once the Secretary makes a determination that an entity or an officer, governing board member, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i) of this section, the Secretary and the Attorney General may not determine that the provision of services which are the subject of such a determination are not covered under this section.
+(F) Once the Secretary makes a determination that an entity or an officer, governing boardmember, employee, or contractor of an entity is deemed to be an employee of the Public Health Service for purposes of this section, the determination shall be final and binding upon the Secretary and the Attorney General and other parties to any civil action or proceeding. Except as provided in subsection (i) of this section, the Secretary and the Attorney General may not determine that the provision of services which are the subject of such a determination are not covered under this section.
 
 (G) In the case of an entity described in paragraph (4) that has not submitted an application under subparagraph (D):
 
 &emsp;(i) The Secretary may not consider the entity in making estimates under subsection (k)(1) of this section.
 
-&emsp;(ii) This section does not affect any authority of the entity to purchase medical malpractice liability insurance coverage with Federal funds provided to the entity under section 254b, 254c, 254b(h), or 256a of this title.<sup>1</sup>
+&emsp;(ii) This section does not affect any authority of the entity to purchase medical malpractice liability insurance coverage with Federal funds provided to the entity under section 254b, 254b, or 256a of this title.<sup>1</sup>
 
 (H) In the case of an entity described in paragraph (4) for which an application under subparagraph (D) is in effect, the entity may, through notifying the Secretary in writing, elect to terminate the applicability of this subsection to the entity. With respect to such election by the entity:
 
@@ -120,7 +120,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(iii) amounts in the fund established under paragraph (2) but unspent from prior fiscal years.
 
-(2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g) of this section, but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 254b(h) and 256a of this title.<sup>1</sup>
+(2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g) of this section, but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254b and 256a of this title.<sup>1</sup>
 
 (3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) of this section and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5) of this section) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
 
@@ -146,7 +146,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) The risk exposure of such entities.
 
-&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254c, 254b(h), or 256a of this title.<sup>4</sup>
+&emsp;(C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title.<sup>4</sup>
 
 &emsp;(D) A comparison of the costs and the benefits to taxpayers of maintaining medical malpractice liability coverage for such entities pursuant to this section, taking into account—
 
@@ -190,7 +190,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(C) The service is a qualifying health service (as defined in paragraph (4)).
 
-&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation forthe service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program). With respect to compliance with such condition:
+&emsp;(D) Neither the health care practitioner nor the free clinic receives any compensation for the service from the individual or from any third-party payor (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program). With respect to compliance with such condition:
 
 &emsp;&emsp;(i) The health care practitioner may receive repayment from the free clinic for reasonable expenses incurred by the health care practitioner in the provision of the service to the individual.
 
@@ -232,7 +232,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (B) The Secretary shall establish a fund for purposes of this subsection. Each fiscal year amounts appropriated under subparagraph (A) shall be deposited in such fund.
 
-(C) Not later than May 1 of each fiscal year, the Attorney General, in consultation with the Secretary, shall submit to the Congress a report providing an estimate of the amount of claims (together with related fees and expenses of witnesses) that, by reason of the acts or omissions of free clinic health professionals, will be paid pursuant to this section during the calendar year that begins in the following fiscal year. Subsection (k)(1)(B) of this section applies to the estimate under the preceding sentence regarding free clinic health professionals to the same extent and in the same manner as such subsection applies to the estimate under such subsection regarding officers, governing board members, employees, and contractors of entities described in subsection (g)(4) of this section.
+(C) Not later than May 1 of each fiscal year, the Attorney General, in consultation with theSecretary, shall submit to the Congress a report providing an estimate of the amount of claims (together with related fees and expenses of witnesses) that, by reason of the acts or omissions of free clinic health professionals, will be paid pursuant to this section during the calendar year that begins in the following fiscal year. Subsection (k)(1)(B) of this section applies to the estimate under the preceding sentence regarding free clinic health professionals to the same extent and in the same manner as such subsection applies to the estimate under such subsection regarding officers, governing board members, employees, and contractors of entities described in subsection (g)(4) of this section.
 
 (D) Not later than December 31 of each fiscal year, the Secretary shall transfer from the fund under subparagraph (B) to the appropriate accounts in the Treasury an amount equal to the estimate made under subparagraph (C) for the calendar year beginning in such fiscal year, subject to the extent of amounts in the fund.
 
@@ -262,7 +262,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 #### (ii) Covered countermeasure
 
-&emsp;&emsp;&emsp;The Secretary shall specify in such declaration the substance or substances that shall be considered covered countermeasures (as defined in paragraph (8)(A)) for purposes of administration to individuals during the effective period of the declaration.
+&emsp;&emsp;&emsp;The Secretary shall specify in such declaration the substance or substances that shall be considered covered countermeasures (as defined in paragraph (7)(A)) for purposes of administration to individuals during the effective period of the declaration.
 
 #### (iii) Effective period
 
@@ -296,13 +296,51 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;&emsp;The presumption and deeming stated in clause (i) shall apply if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the individual contracts vaccinia during the effective period of a declaration under subparagraph (A) or by the date 30 days after the close of such period; or
+&emsp;&emsp;&emsp;&emsp;(I) the individual contracts vaccinia during the effective period of a declaration under subparagraph (A) or by thedate 30 days after the close of such period; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the individual resides or has resided with an individual to whom such vaccine was administered as provided by clauses (i) and (ii) of subparagraph (B) and contracts vaccinia after such date.
+&emsp;&emsp;&emsp;&emsp;(II) the individual has resided with, or has had contact with, an individual to whom such vaccine was administered as provided by clauses (i) and (ii) of subparagraph (B) and contracts vaccinia after such date.
 
-#### (3) Exclusivity of remedy
+#### (D) Acts and omissions deemed to be within scope of employment
 
-&emsp;The remedy provided by subsection (a) of this section shall be exclusive of any othercivil action or proceeding for any claim or suit this subsection encompasses.
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a claim arising out of alleged transmission of vaccinia from an individual described in clause (ii), acts or omissions by such individual shall be deemed to have been taken within the scope of such individual's office or employment for purposes of—
+
+&emsp;&emsp;&emsp;&emsp;(I) subsection (a) of this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) section 1346(b) and chapter 171 of title 28.
+
+#### (ii) Individuals to whom deeming applies
+
+&emsp;&emsp;&emsp;An individual is described by this clause if—
+
+&emsp;&emsp;&emsp;&emsp;(I) vaccinia vaccine was administered to such individual as provided by subparagraph (B); and
+
+&emsp;&emsp;&emsp;&emsp;(II) such individual was within a category of individuals covered by a declaration under subparagraph (A)(i).
+
+#### (3) Exhaustion; exclusivity; offset
+
+#### (A) Exhaustion
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A person may not bring a claim under this subsection unless such person has exhausted such remedies as are available under part C of this subchapter, except that if the Secretary fails to make a final determination on a request for benefits or compensation filed in accordance with the requirements of such part within 240 days after such request was filed, the individual may seek any remedy that may be available under this section.
+
+#### (ii) Tolling of statute of limitations
+
+&emsp;&emsp;&emsp;The time limit for filing a claim under this subsection, or for filing an action based on such claim, shall be tolled during the pendency of a request for benefits or compensation under part C of this subchapter.
+
+#### (iii) Construction
+
+&emsp;&emsp;&emsp;This subsection shall not be construed as superseding or otherwise affecting the application of a requirement, under chapter 171 of title 28, to exhaust administrative remedies.
+
+#### (B) Exclusivity
+
+&emsp;&emsp;The remedy provided by subsection (a) of this section shall be exclusive of any other civil action or proceeding for any claim or suit this subsection encompasses, except for a proceeding under part C of this subchapter.
+
+#### (C) Offset
+
+&emsp;&emsp;The value of all compensation and benefits provided under part C of this subchapter for an incident or series of incidents shall be offset against the amount of an award, compromise, or settlement of money damages in a claim or suit under this subsection based on the same incident or series of incidents.
 
 #### (4) Certification of action by Attorney General
 
@@ -316,7 +354,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;The certification of the Attorney General of the facts specified in subparagraph (A) shall conclusively establish such facts for purposes of jurisdiction pursuant to this subsection.
 
-#### (5) Defendant to cooperate with United States
+#### (5) Covered person to cooperate with United States
 
 #### (A) In general
 
@@ -352,37 +390,101 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;&emsp;(i)(I) used to prevent or treat smallpox (including the vaccinia or another vaccine); or
 
-&emsp;&emsp;&emsp;(II) vaccinia immune globulin used to control or treat the adverse effects of vaccinia inoculation; and
+&emsp;&emsp;&emsp;&emsp;(II) used to control or treat the adverse effects of vaccinia inoculation or of administration of another covered countermeasure; and
 
 &emsp;&emsp;&emsp;(ii) specified in a declaration under paragraph (2).
 
 #### (B) Covered person
 
-&emsp;&emsp;The term “covered person”, when used with respect to the administration of a covered countermeasure, includes any person who is—
+&emsp;&emsp;The term “covered person”, when used with respect to the administration of a covered countermeasure, means a person who is—
 
 &emsp;&emsp;&emsp;(i) a manufacturer or distributor of such countermeasure;
 
-&emsp;&emsp;&emsp;(ii) a health care entity under whose auspices such countermeasure was administered;
+&emsp;&emsp;&emsp;(ii) a health care entity under whose auspices—
 
-&emsp;&emsp;&emsp;(iii) a qualified person who administered such countermeasure; or
+&emsp;&emsp;&emsp;&emsp;(I) such countermeasure was administered;
 
-&emsp;&emsp;&emsp;(iv) an official, agent, or employee of a person described in clause (i), (ii), or (iii).
+&emsp;&emsp;&emsp;&emsp;(II) a determination was made as to whether, or under what circumstances, an individual should receive a covered countermeasure;
+
+&emsp;&emsp;&emsp;&emsp;(III) the immediate site of administration on the body of a covered countermeasure was monitored, managed, or cared for; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) an evaluation was made of whether the administration of a countermeasure was effective;
+
+&emsp;&emsp;&emsp;(iii) a qualified person who administered such countermeasure;
+
+&emsp;&emsp;&emsp;(iv) a State, a political subdivision of a State, or an agency or official of a State or of such a political subdivision, if such State, subdivision, agency, or official has established requirements, provided policy guidance, supplied technical or scientific advice or assistance, or otherwise supervised or administered a program with respect to administration of such countermeasures;
+
+&emsp;&emsp;&emsp;(v) in the case of a claim arising out of alleged transmission of vaccinia from an individual—
+
+&emsp;&emsp;&emsp;&emsp;(I) the individual who allegedly transmitted the vaccinia, if vaccinia vaccine was administered to such individual as provided by paragraph (2)(B) and such individual was within a category of individuals covered by a declaration under paragraph (2)(A)(i); or
+
+&emsp;&emsp;&emsp;&emsp;(II) an entity that employs an individual described by clause (I) <sup>5</sup> or where such individual has privileges or is otherwise authorized to provide health care;
+
+&emsp;&emsp;&emsp;(vi) an official, agent, or employee of a person described in clause (i), (ii), (iii), or (iv);
+
+&emsp;&emsp;&emsp;(vii) a contractor of, or a volunteer working for, a person described in clause (i), (ii), or (iv), if the contractor or volunteer performs a function for which a person described in clause (i), (ii), or (iv) is a covered person; or
+
+&emsp;&emsp;&emsp;(viii) an individual who has privileges or is otherwise authorized to provide health care under the auspices of an entity described in clause (ii) or (v)(II).
 
 #### (C) Qualified person
 
-&emsp;&emsp;The term “qualified person”, when used with respect to the administration of a covered countermeasure, means a licensed health professional or other individual who is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered.
+&emsp;&emsp;The term “qualified person”, when used with respect to the administration of a covered countermeasure, means a licensed health professional or other individual who—
 
-(July 1, 1944, ch. 373, title II, §224, formerly §223, as added Pub. L. 91–623, §4, Dec. 31, 1970, 84 Stat. 1870; renumbered §224, Pub. L. 92–157, title III, §301(c), Nov. 18, 1971, 85 Stat. 463; amended Pub. L. 102–501, §§2–4, Oct. 24, 1992, 106 Stat. 3268–3270; Pub. L. 103–183, title VII, §706(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 104–73, §§2–5(b), 6–11, Dec. 26, 1995, 109 Stat. 777–781; Pub. L. 104–191, title I, §194, Aug. 21, 1996, 110 Stat. 1988; Pub. L. 104–299, §4(a)(1), Oct. 11, 1996, 110 Stat. 3644; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 107–296, title III, §304(c), Nov. 25, 2002, 116 Stat. 2165.)
+&emsp;&emsp;&emsp;(i) is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered; or
+
+&emsp;&emsp;&emsp;(ii) is otherwise authorized by the Secretary to administer such countermeasure.
+
+#### (D) Arising out of administration of a covered countermeasure
+
+&emsp;&emsp;The term “arising out of administration of a covered countermeasure”, when used with respect to a claim or liability, includes a claim or liability arising out of—
+
+&emsp;&emsp;&emsp;(i) determining whether, or under what conditions, an individual should receive a covered countermeasure;
+
+&emsp;&emsp;&emsp;(ii) obtaining informed consent of an individual to the administration of a covered countermeasure;
+
+&emsp;&emsp;&emsp;(iii) monitoring, management, or care of an immediate site of administration on the body of a covered countermeasure, or evaluation of whether the administration of the countermeasure has been effective; or
+
+&emsp;&emsp;&emsp;(iv) transmission of vaccinia virus by an individual to whom vaccinia vaccine was administered as provided by paragraph (2)(B).
+
+(July 1, 1944, ch. 373, title II, §224, formerly §223, as added Pub. L. 91–623, §4, Dec. 31, 1970, 84 Stat. 1870; renumbered §224, Pub. L. 92–157, title III, §301(c), Nov. 18, 1971, 85 Stat. 463; amended Pub. L. 102–501, §§2–4, Oct. 24, 1992, 106 Stat. 3268–3270; Pub. L. 103–183, title VII, §706(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 104–73, §§2–5(b), 6–11, Dec. 26, 1995, 109 Stat. 777–781; Pub. L. 104–191, title I, §194, Aug. 21, 1996, 110 Stat. 1988; Pub. L. 104–299, §4(a)(1), Oct. 11, 1996, 110 Stat. 3644; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 107–296, title III, §304(c), Nov. 25, 2002, 116 Stat. 2165; Pub. L. 108–20, §3(a)–(i), Apr. 30, 2003, 117 Stat. 646–648; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, appearing in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The references to section 254b of this title the first place appearing in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), were in the original references to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 The Social Security Act, referred to in subsecs. (m)(2) and (<i>o</i>)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (g)(1)(G)(ii). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
+
+Subsec. (k)(2). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “and”.
+
+Subsec. (n)(1)(C). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
+
+Subsec. (p)(2)(A)(ii). Pub. L. 108–20, §3(i), substituted “paragraph (7)(A)” for “paragraph(8)(A)”.
+
+Subsec. (p)(2)(C)(ii)(II). Pub. L. 108–20, §3(a), substituted “has resided with, or has had contact with,” for “resides or has resided with”.
+
+Subsec. (p)(2)(D). Pub. L. 108–20, §3(b), added subpar. (D).
+
+Subsec. (p)(3). Pub. L. 108–20, §3(c), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The remedy provided by subsection (a) of this section shall be exclusive of any other civil action or proceeding for any claim or suit this subsection encompasses.”
+
+Subsec. (p)(5). Pub. L. 108–20, §3(d), substituted “Covered person” for “Defendant” in heading.
+
+Subsec. (p)(7)(A)(i)(II). Pub. L. 108–20, §3(e), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “vaccinia immune globulin used to control or treat the adverse effects of vaccinia inoculation; and”.
+
+Subsec. (p)(7)(B). Pub. L. 108–20, §3(f)(1), substituted “means a person” for “includes any person” in introductory provisions.
+
+Subsec. (p)(7)(B)(ii). Pub. L. 108–20, §3(f)(2), substituted “auspices—” for “auspices”, designated “such countermeasure was administered;” as subcl. (I), and added subcls. (II) to (IV).
+
+Subsec. (p)(7)(B)(iv) to (viii). Pub. L. 108–20, §3(f)(3), (4), added cls. (iv) to (viii) and struck out former cl. (iv) which read as follows: “an official, agent, or employee of a person described in clause (i), (ii), or (iii).”
+
+Subsec. (p)(7)(C). Pub. L. 108–20, §3(g), substituted “individual who—” for “individual who”, designated “is authorized to administer such countermeasure under the law of the State in which the countermeasure was administered.” as cl. (i), substituted “; or” for period at end of cl. (i), and added cl. (ii).
+
+Subsec. (p)(7)(D). Pub. L. 108–20, §3(h), added subpar. (D).
 
 2002—Subsecs. (g)(1)(G)(ii), (k)(2), (n)(1)(C). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
@@ -432,6 +534,12 @@ Subsec. (n). Pub. L. 104–73, §11, added subsec. (n).
 
 1992—Subsecs. (g) to (k). Pub. L. 102–501 added subsecs. (g) to (k).
 
+#### Effective Date of 2003 Amendments
+
+Pub. L. 108–163, §3, Dec. 6, 2003, 117 Stat. 2023, provided that: “This Act \[see Short Title of 2003 Amendments note set out under section 201 of this title\] is deemed to have taken effect immediately after the enactment of Public Law 107–251 \[Oct. 26, 2002\].”
+
+Pub. L. 108–20, §3(j), Apr. 30, 2003, 117 Stat. 649, provided that: “This section \[amending this section\] shall take effect as of November 25, 2002.”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -456,7 +564,7 @@ Section 5 of Pub. L. 102–501 provided that:
 
 “(a)
 
-In General.—Not later than April 1, 1995, the Attorney General, in consultation with the Secretary of Health and Human Services (hereafter referred to as the ‘Secretary’), shall submit a report to Congress on the medical malpractice liability claims experience of entities subject to section 224(g) of the Public HealthService Act \[42 U.S.C. 233(g)\] (as added by section 2(a)) and the risk exposure associated with such entities.
+In General.—Not later than April 1, 1995, the Attorney General, in consultation with the Secretary of Health and Human Services (hereafter referred to as the ‘Secretary’), shall submit a report to Congress on the medical malpractice liability claims experience of entities subject to section 224(g) of the Public Health Service Act \[42 U.S.C. 233(g)\] (as added by section 2(a)) and the risk exposure associated with such entities.
 
 “(b)
 
@@ -468,7 +576,7 @@ Effect of Liability Protections on Costs Incurred by Covered Entities.—The Att
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 218a, 238q, 254h–1, 300hh–11 of this title; title 25 section 450f.
+This section is referred to in sections 218a, 238q, 239, 254h–1, 300hh–11 of this title; title 25 section 450f.
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 
@@ -477,4 +585,6 @@ This section is referred to in sections 218a, 238q, 254h–1, 300hh–11 of this
 <i><sup>3</sup></i><i> So in original. Probably should be “members,”.</i>
 
 <i><sup>4</sup></i><i> See References in Text notes below.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “subclause”.</i>
 

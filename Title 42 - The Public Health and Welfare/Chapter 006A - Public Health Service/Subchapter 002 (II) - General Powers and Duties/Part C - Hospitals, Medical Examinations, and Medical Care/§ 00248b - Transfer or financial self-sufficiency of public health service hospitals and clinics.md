@@ -24,7 +24,7 @@ Paragraph (1) shall not apply in the case of a proposal for the transfer of a di
 
 (1) If the Secretary determines that a proposal for a hospital or other station does not meet the standards of subsection (c) of this section or if there is no proposal submitted under subsection (b) of this section with respect to a hospital or other station, the Secretary shall provide for the closure of the hospital or station by not later than October 31, 1981.
 
-(2) If the Secretary determines that a proposal for a hospital or other station meets the standards of subsection (c) of this section, the Secretary shall take such steps, within the amounts available through appropriations, as may be necessary and proper—
+(2) If the Secretary determines that a proposal for a hospital or other station meets the standards of subsection (c) of this section, the Secretary shall take such steps, within the amountsavailable through appropriations, as may be necessary and proper—
 
 &emsp;(A) to operate (or participate or assist in the operation of) the hospital or station by the Service until the transfer is accomplished or financial self-sufficiency is achieved,
 

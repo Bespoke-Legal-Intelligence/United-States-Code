@@ -6,5 +6,5 @@ The Administrator may receive surplus Federal property (including facilities) an
 
 #### Effective Date
 
-Section effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 5601 of this title.
+Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as an Effective Date of 2002 Amendment note under section 5601 of this title.
 

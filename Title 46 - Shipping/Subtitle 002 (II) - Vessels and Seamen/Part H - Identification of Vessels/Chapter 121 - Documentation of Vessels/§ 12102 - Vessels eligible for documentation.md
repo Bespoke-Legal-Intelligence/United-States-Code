@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(iii) the right to direct the transfer, operation or manning of a vessel with a fishery endorsement; and
 
-&emsp;(B) shall not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vesselto the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes.
+&emsp;(B) shall not include the right to simply participate in the activities under subparagraph\(A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes.
 
 (3) A fishery endorsement for a vessel that is chartered or leased to an individual who is not a citizen of the United States or to an entity that is not eligible to own a vessel with a fishery endorsement and used as a fishing vessel shall be invalid immediately upon such use.
 
@@ -62,7 +62,11 @@
 
 (4) If a person chartering a vessel from a trust that is qualified under paragraph (2) of this subsection is a citizen of the United States under section 2 of the Shipping Act, 1916 (46 App. U.S.C. 802), then the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except for subtitle B of title VI of the Merchant Marine Act, 1936.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439; Pub. L. 107–20, title II, §2202(a), July 24, 2001, 115 Stat. 168; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439; Pub. L. 107–20, title II, §2202(a), July 24, 2001, 115 Stat. 168; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 108–136, div. C, title XXXV, §3534(b)(1), Nov. 24, 2003, 117 Stat. 1818.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–136, div. C, title XXXV, §§3534(b)(1), 3537(b), Nov. 24, 2003, 117 Stat. 1818, 1820, provided that, effective Oct. 1, 2005, subsection (d)(4) of this section is amended by inserting “or chapter 531 of title 46, United States Code” after “Merchant Marine Act, 1936”.</i>
 
 Historical and Revision Notes
 
@@ -74,7 +78,7 @@ Historical and Revision Notes
 
 46:65b
 
-Section 12102 provides that vessels of at least five net tons, not registered under the laws of a foreign nation,are eligible for documentation if certain ownership requirements are met, and lists the ownership requirements.
+Section 12102 provides that vessels of at least five net tons, not registered under the laws of a foreign nation, are eligible for documentation if certain ownership requirements are met, and lists the ownership requirements.
 
 #### References in Text
 
@@ -132,6 +136,10 @@ Pub. L. 100–239, §7(a), directed that “(a)” be inserted before “A vesse
 
 1986—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b) relating to eligibility of a vessel for documentation after having been measured under part J.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–136 effective Oct. 1, 2005, see section 3537(b) of Pub. L. 108–136, set out in an Effective Date note under section 53101 of this title.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–20, title II, §2202(d), July 24, 2001, 115 Stat. 170, provided that: “Section 31322 of title 46, United States Code as amended in this section, and as amended by section 202(b) of the American Fisheries Act (Public Law 105–277, division C, title II) shall not take effect until April 1, 2003, nor shall the Secretary of Transportation, in determining whether a vessel owner complies with the requirements of section 12102(c) of title 46, United States Code, consider the citizenship status of a lender, in its capacity as a lender with respect to that vessel owner, until after April 1, 2003.”
@@ -142,7 +150,7 @@ Pub. L. 105–277, div. C, title II, §203(a), Oct. 21, 1998, 112 Stat. 2681–6
 
 #### Effective Date of 1989 Amendment
 
-Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
+Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section 301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
 
 #### Effective Date of 1988 Amendment
 

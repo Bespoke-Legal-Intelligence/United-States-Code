@@ -22,7 +22,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 &emsp;(5) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.
 
-&emsp;(6) Specification of the proposed allocations within the Department of the functions of the agencies and subdivisions that are not related directly to securing the homeland.
+&emsp;(6) Specification of the proposed allocations within the Department of the functions of theagencies and subdivisions that are not related directly to securing the homeland.
 
 #### (c) Modification of plan
 
@@ -154,7 +154,7 @@ A. <i>Steps to be taken by the Secretary to organize the Department</i>. The Pre
 
 <i>March 1, 2003:</i>
 
-&emsp;• Transfer the Critical Infrastructure Assurance Office (“CIAO”) of the Department of Commerce, the National Communications System (“the NCS”), the NIPC of the FBI (other than the CIOS), the National Infrastructure Simulation and Analysis Center (“NISAC”), the Energy Assurance Office (“EAO”) ofthe Department of Energy, and the Federal Computer Incident Response Center of the General Services Administration (“FedCIRC”).
+&emsp;• Transfer the Critical Infrastructure Assurance Office (“CIAO”) of the Department of Commerce, the National Communications System (“the NCS”), the NIPC of the FBI (other than the CIOS), the National Infrastructure Simulation and Analysis Center (“NISAC”), the Energy Assurance Office (“EAO”) of the Department of Energy, and the Federal Computer Incident Response Center of the General Services Administration (“FedCIRC”).
 
 &emsp;• Transfer the Coast Guard.
 
@@ -334,7 +334,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Advise the Under Secretary for Border and Transportation Security with respect to any policy or operation of the Bureau of Border Security \[now Bureau of Immigration and Customs Enforcement\] that may affect the Bureau of Citizenship and Immigration.
 
-&emsp;&emsp;&emsp;<i>c. Director of the Office for Domestic Preparedness</i>—Will report directly to the Under Secretary for Border and Transportation Security and will have the primary responsibility within the Executive Branch of the Federal Government for the preparedness of the United States for acts of terrorism, including the following responsibilities:
+&emsp;&emsp;&emsp;c. <i>Director of the Office for Domestic Preparedness</i>—Will report directly to the Under Secretary for Border and Transportation Security and will have the primary responsibility within the Executive Branch of the Federal Government for the preparedness of the United States for acts of terrorism, including the following responsibilities:
 
 &emsp;&emsp;&emsp;• Coordinate preparedness efforts at the Federal level, and work with all State, local, tribal, parish, and private sector emergency response providers on all matters pertaining to combating terrorism, including training, exercises, and equipment support.
 
@@ -424,7 +424,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 <b>(5) Specification of any proposed disposition of property, facilities, contracts, records, and other assets and obligations of agencies transferred under the plan.</b>
 
-&emsp;• There is no intention to dispose of property, facility, contracts, records, and other assets and obligations of agencies transferred under the plan. All of such assets and obligations will transfer with eachagency pursuant to Section 1511(d)(1) of the Act \[6 U.S.C. 551(d)(1)\].
+&emsp;• There is no intention to dispose of property, facility, contracts, records, and other assets and obligations of agencies transferred under the plan. All of such assets and obligations will transfer with each agency pursuant to Section 1511(d)(1) of the Act \[6 U.S.C. 551(d)(1)\].
 
 &emsp;• Prior to and during the transition period (as defined by Section 1501(a)(2) of the Act \[6 U.S.C. 541(a)(2)\]), the Department may identify property, facilities, contracts, records, and other assets and obligations of agencies transferred that would be candidates for disposition due to duplication, non-use, obsolescence, and the like. If and when any such proposed dispositions are identified, we will follow provisions of the Act relating to modification of this plan or further notification of Congress.
 

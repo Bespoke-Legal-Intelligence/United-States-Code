@@ -6,7 +6,7 @@ Each eligible applicant receiving a grant under this subpart shall report annual
 
 &emsp;(2) the types of programs funded under the grant and the ages of children served by such programs;
 
-&emsp;(3) the qualifications of the program staff who provide early literacy instruction undersuch programs and the type of ongoing professional development provided to such staff; and
+&emsp;(3) the qualifications of the program staff who provide early literacy instruction under such programs and the type of ongoing professional development provided to such staff; and
 
 &emsp;(4) the results of the evaluation described in section 6372(b)(9) of this title.
 

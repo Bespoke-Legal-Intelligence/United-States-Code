@@ -1,6 +1,6 @@
 ### §333. Responsibility for rail transportation unification and coordination projects
 
-(a) The Secretary of Transportation may develop and make available to interested personsany plans, proposals, and recommendations for mergers, consolidations, reorganizations, and other unification or coordination projects for rail transportation (including arrangements for joint use of tracks and other facilities and acquisition or sale of assets) that the Secretary believes will result in a rail system that is more efficient and consistent with the public interest.
+(a) The Secretary of Transportation may develop and make available to interested persons any plans, proposals, and recommendations for mergers, consolidations, reorganizations, and other unification or coordination projects for rail transportation (including arrangements for joint use of tracks and other facilities and acquisition or sale of assets) that the Secretary believes will result in a rail system that is more efficient and consistent with the public interest.
 
 (b) To achieve a more efficient, economical, and viable rail system in the private sector, the Secretary, when requested by a rail carrier and under this section, may assist in planning, negotiating, and carrying out a unification or coordination of operations and facilities of at least 2 rail carriers.
 
@@ -22,7 +22,7 @@
 
 &emsp;(H) other measures likely to reduce costs and improve rail transportation.
 
-(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11904 of this title. When appropriate, the designated officer or employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
+(2) When the Secretary requests information for a study under this section, a rail carrier shall provide the information requested. In carrying out this section, the Secretary may designate an officer or employee to get from a rail carrier information on the kind, quality, origin, destination, consignor, consignee, and routing of property. This information may be obtained without the consent of the consignor or consignee notwithstanding section 11904 of this title. When appropriate, the designated officeror employee has the powers described in section 203(c) of the Regional Rail Reorganization Act of 1973 to carry out this section, but a subpena must be issued under the signature of the Secretary.
 
 (d)(1) When requested by a rail carrier, the Secretary may hold conferences on and mediate disputes resulting from a proposed unification or coordination project. The Secretary may invite to a conference—
 

@@ -12,7 +12,7 @@ No person who acquires unprocessed timber originating from Federal lands west of
 
 #### (2) Procedures
 
-&emsp;Any determination under paragraph (1) shall be made in regulations issued in accordance with section 553 of title 5. Any such determination shall be reviewed at least once inevery 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.
+&emsp;Any determination under paragraph (1) shall be made in regulations issued in accordance with section 553 of title 5. Any such determination shall be reviewed at least once in every 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.
 
 (Pub. L. 101–382, title IV, §489, Aug. 20, 1990, 104 Stat. 715.)
 

@@ -12,7 +12,7 @@ Section 1510 of title 22, referred to in text, was repealed by act Aug. 26, 1954
 
 1962—Pub. L. 87–632 extended authority of President to act under wheat agreements revising and renewing the Agreement of 1949 for periods through July 31, 1965, included within the net costs connected with the International Wheat Agreement of 1962, those with respect to commercial purchases from the United States by member and provisional member importing countries, including transactions entered into prior to deposit of instruments of acceptance or accession, if the loading period is not earlier than the date the agreement enters force.
 
-1959—Pub. L. 86–336 authorized this chapter to be used to implement the 1959 agreement and provided that net costs in connection with the 1959 agreement include those with respect to all transactions which qualify as commercial purchases from the United States by importing member countries.
+1959—Pub. L. 86–336 authorized this chapter to be used to implement the 1959 agreement and provided that netcosts in connection with the 1959 agreement include those with respect to all transactions which qualify as commercial purchases from the United States by importing member countries.
 
 1956—Act Aug. 3, 1956, permitted this chapter to be used to implement the new agreement ratified on July 11, 1956.
 

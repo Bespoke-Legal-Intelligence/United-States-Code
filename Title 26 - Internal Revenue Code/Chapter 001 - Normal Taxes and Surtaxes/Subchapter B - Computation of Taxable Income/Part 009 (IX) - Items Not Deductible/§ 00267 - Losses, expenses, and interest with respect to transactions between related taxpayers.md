@@ -40,7 +40,7 @@ The persons referred to in subsection (a) are:
 
 &emsp;(8) A fiduciary of a trust and a corporation more than 50 percent in value of the outstanding stock of which is owned, directly or indirectly, by or for the trust or by or for a person who is a grantor of the trust;
 
-&emsp;(9) A person and an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such person or (if such person is an individual) by members of the family of such individual;
+&emsp;(9) A person and an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such person or (if suchperson is an individual) by members of the family of such individual;
 
 &emsp;(10) A corporation and a partnership if the same persons own—
 
@@ -122,7 +122,7 @@ If—
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall not apply with respect to qualified expenses and interest paid or incurred by a partnership owning low-income housing to—
+&emsp;&emsp;This subsection shall not apply with respect to qualified expenses and interest paidor incurred by a partnership owning low-income housing to—
 
 &emsp;&emsp;&emsp;(i) any qualified 5-percent or less partner of such partnership, or
 
@@ -200,13 +200,13 @@ If—
 
 #### (4) Determination of relationship resulting in disallowance of loss, for purposes of other provisions
 
-&emsp;For purposes of any other section of this title which refers to a relationship whichwould result in a disallowance of losses under this section, deferral under paragraph (2) shall be treated as disallowance.
+&emsp;For purposes of any other section of this title which refers to a relationship which would result in a disallowance of losses under this section, deferral under paragraph (2) shall be treated as disallowance.
 
 #### (g) Coordination with section 1041
 
 Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s),July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### References in Text
 
@@ -274,7 +274,7 @@ Section 1604(e)(2) of Pub. L. 105–34 provided that: “The amendment made by p
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -350,5 +350,5 @@ Section 1812(c)(5) of Pub. L. 99–514 provided that: “Clause (i) of section 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40, 42, 45D, 51, 56, 108, 121, 144, 147, 163, 165, 167, 168, 170, 179, 179A, 197, 213, 221, 263A, 274, 280A, 280F, 304, 336, 341, 351, 355, 409, 447, 453, 464, 465, 468B, 469, 475, 483, 503, 514, 613A, 631, 643, 664, 685, 707, 860L, 864, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1237, 1239, 1259, 1397, 1400B, 1400C, 2057, 4946, 4951, 4975, 5881, 6038, 6038A, 6111, 6166, 7612 of this title; title 29 sections 1108, 1384.
+This section is referred to in sections 40, 42, 45D, 51, 56, 108, 121, 144, 147, 163, 165, 167, 168, 170, 179, 179A, 197, 213, 221, 263A, 274, 280A, 280F, 304, 336, 351, 355, 409, 447, 453, 464, 465, 468B, 469, 475, 483, 503, 514, 613A, 631, 643, 664, 685, 707, 860L, 864, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1237, 1239, 1259, 1397, 1400B, 1400C, 2057, 4946, 4951, 4975, 5881, 6038, 6038A, 6111, 6166, 7612 of this title; title 29 sections 1108, 1384.
 

@@ -96,9 +96,11 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) any flight insurance or similar contract,
 
-&emsp;&emsp;&emsp;(iii) any qualified foreign contract (as defined in section 807(e)(4) without regard to paragraph (5) of this subsection), and
+&emsp;&emsp;&emsp;(iii) any qualified foreign contract (as defined in section 807(e)(4) without regard to paragraph (5) of this subsection),
 
-&emsp;&emsp;&emsp;(iv) any contract which is an Archer MSA (as defined in section 220(d)).
+&emsp;&emsp;&emsp;(iv) any contract which is an Archer MSA (as defined in section 220(d)), and
+
+&emsp;&emsp;&emsp;(v) any contract which is a health savings account (as defined in section 223(d)).
 
 #### (2) Group life insurance contract
 
@@ -138,7 +140,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, with respect to any category of specified insurancecontracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, withrespect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 
@@ -166,9 +168,11 @@ For purposes of determining adjusted current earnings under section 56(g), acqui
 
 In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.
 
-(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5), (b)(10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629.)
+(Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5), (b)(10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(h), Dec. 8, 2003, 117 Stat. 2479.)
 
 #### Amendments
+
+2003—Subsec. (e)(1)(B)(v). Pub. L. 108–173 added cl. (v).
 
 2000—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
@@ -177,6 +181,10 @@ Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5)\], substituted “Archer MS
 1996—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
 
 1993—Subsec. (g). Pub. L. 103–66 substituted “this section or section 197” for “this section”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 

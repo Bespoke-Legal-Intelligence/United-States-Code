@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It is unlawful for the pilot of any aircraft to transport, or for any individual on board anyaircraft to possess, merchandise knowing, or intending, that the merchandise will be introduced into the United States contrary to law.
+It is unlawful for the pilot of any aircraft to transport, or for any individual on board any aircraft to possess, merchandise knowing, or intending, that the merchandise will be introduced into the United States contrary to law.
 
 #### (b) Sea transfers
 
@@ -18,7 +18,7 @@ It is unlawful for any person to transfer merchandise between an aircraft and a 
 
 #### (c) Civil penalties
 
-Any person who violates any provision of this section is liable for a civil penalty equal to twice the value of the merchandise involved in the violation, but not less than $10,000. The value of any controlled substance included in the merchandise shall be determined in accordance with section 1497(b) of this title.
+Any person who violates any provision of this section is liable for a civil penalty equal totwice the value of the merchandise involved in the violation, but not less than $10,000. The value of any controlled substance included in the merchandise shall be determined in accordance with section 1497(b) of this title.
 
 #### (d) Criminal penalties
 

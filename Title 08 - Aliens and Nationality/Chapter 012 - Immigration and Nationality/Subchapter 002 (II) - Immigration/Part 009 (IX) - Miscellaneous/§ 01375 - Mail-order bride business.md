@@ -18,13 +18,13 @@ The Congress finds as follows:
 
 #### (1) Requirement
 
-&emsp;Each international matchmaking organization doing business in the United States shalldisseminate to recruits, upon recruitment, such immigration and naturalization information as the Immigration and Naturalization Service deems appropriate, in the recruit's native language, including information regarding conditional permanent residence status and the battered spouse waiver under such status, permanent resident status, marriage fraud penalties, the unregulated nature of the business engaged in by such organizations, and the study required under subsection (c) of this section.
+&emsp;Each international matchmaking organization doing business in the United States shall disseminate to recruits, upon recruitment, such immigration and naturalization information as the Immigration and Naturalization Service deems appropriate, in the recruit's native language, including information regarding conditional permanent residence status and the battered spouse waiver under such status, permanent resident status, marriage fraud penalties, the unregulated nature of the business engaged in by such organizations, and the study required under subsection (c) of this section.
 
 #### (2) Civil penalty
 
 #### (A) Violation
 
-&emsp;&emsp;Any international matchmaking organization that the Attorney General determines has violated this subsection shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $20,000 for each such violation.
+&emsp;&emsp;Any international matchmaking organization that the Attorney General determineshas violated this subsection shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $20,000 for each such violation.
 
 #### (B) Procedures for imposition of penalty
 

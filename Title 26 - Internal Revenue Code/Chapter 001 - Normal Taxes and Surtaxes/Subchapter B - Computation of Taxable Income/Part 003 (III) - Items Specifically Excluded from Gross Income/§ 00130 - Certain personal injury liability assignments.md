@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any amount received for agreeing to a qualified assignment shall not be included in gross income to the extent that such amount does not exceed the aggregate cost of any qualified funding assets.
+Any amount received for agreeing to a qualified assignment shall not be included in grossincome to the extent that such amount does not exceed the aggregate cost of any qualified funding assets.
 
 #### (b) Treatment of qualified funding asset
 

@@ -14,7 +14,7 @@
 
 &emsp;(D)(i) The term “eligible institution” means an institution that is an—
 
-&emsp;&emsp;(I) eligible institution under part A of this subchapter or would be considered to be such an institution if section 1058(b)(1)(C) of this title referred to a postgraduate degree rather than a bachelor's degree;
+&emsp;&emsp;(I) eligible institution under part A of this subchapter or would be considered to be suchan institution if section 1058(b)(1)(C) of this title referred to a postgraduate degree rather than a bachelor's degree;
 
 &emsp;&emsp;(II) institution eligible for assistance under part B of this subchapter or would be considered to be such an institution if section 1063 of this title referred to a postgraduate degree rather than a baccalaureate degree; or
 
@@ -58,7 +58,7 @@
 
 (1) An institution awarded a grant under this section shall enter into an agreement with the Secretary containing satisfactory assurances that it will (A) immediately comply with the matching requirements of subsection (b)(2) of this section, (B) establish an endowment fund independent of any other such fund of the institution, (C) invest the endowment fund corpus, and (D) meet the other requirements of this section.
 
-(2)(A) An institution shall invest the endowment fund corpus and endowment fund incomein low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
+(2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
 (B) The institution, in investing the endowment fund established under this section, shall exercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
 
@@ -112,7 +112,7 @@ Any institution which is eligible for assistance under this section may submit t
 
 #### Prior Provisions
 
-A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat.1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
+A prior section 331 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1298, related to establishment of challenge grant program, was classified to section 1064 of this title prior to repeal by Pub. L. 102–325, §304(a)(2).
 
 A prior section 1065, Pub. L. 89–329, title III, §332, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1396, related to applications for challenge grants, prior to the general revision of this subchapter by Pub. L. 99–498.
 
@@ -124,7 +124,7 @@ A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98�
 
 1998—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
+Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B)and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
 
 1993—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
 

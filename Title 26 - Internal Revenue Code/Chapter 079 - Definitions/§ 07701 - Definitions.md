@@ -16,7 +16,7 @@
 
 #### (4) Domestic
 
-&emsp;The term “domestic” when applied to a corporation or partnership means created or organized in the United States or under the law of the United States or of any State unless, in the case of a partnership, the Secretary provides otherwise by regulations.
+&emsp;The term “domestic” when applied to a corporation or partnership means created or organized in the United States or under the lawof the United States or of any State unless, in the case of a partnership, the Secretary provides otherwise by regulations.
 
 #### (5) Foreign
 
@@ -284,7 +284,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “Indian tribal government” means the governing body of any tribe, band, community, village, or group of Indians, or (if applicable) Alaska Natives, which is determined by the Secretary, after consultation with the Secretary of the Interior, to exercise governmental functions.
+&emsp;&emsp;The term “Indian tribal government” means the governing body of any tribe, band,community, village, or group of Indians, or (if applicable) Alaska Natives, which is determined by the Secretary, after consultation with the Secretary of the Interior, to exercise governmental functions.
 
 #### (B) Special rule for Alaska Natives
 
@@ -422,7 +422,7 @@
 
 &emsp;&emsp;&emsp;(i) such individual is present in the United States on fewer than 183 days during the current year, and
 
-&emsp;&emsp;&emsp;(ii) it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection tosuch foreign country than to the United States.
+&emsp;&emsp;&emsp;(ii) it is established that for the current year such individual has a tax home (as defined in section 911(d)(3) without regard to the second sentence thereof) in a foreign country and has a closer connection to such foreign country than to the United States.
 
 #### (C) Subparagraph (B) not to apply in certain cases
 
@@ -516,7 +516,7 @@
 
 #### (i) Limitation on teachers and trainees
 
-&emsp;&emsp;&emsp;An individual shall not be treated as an exempt individual by reason of clause (ii)of subparagraph (A) for the current year if, for any 2 calendar years during the preceding 6 calendar years, such person was an exempt person under clause (ii) or (iii) of subparagraph (A). In the case of an individual all of whose compensation is described in section 872(b)(3), the preceding sentence shall be applied by substituting “4 calendar years” for “2 calendar years”.
+&emsp;&emsp;&emsp;An individual shall not be treated as an exempt individual by reason of clause (ii) of subparagraph (A) for the current year if, for any 2 calendar years during the preceding 6 calendar years, such person was an exempt person under clause (ii) or (iii) of subparagraph (A). In the case of an individual all of whose compensation is described in section 872(b)(3), the preceding sentence shall be applied by substituting “4 calendar years” for “2 calendar years”.
 
 #### (ii) Limitation on students
 
@@ -640,7 +640,7 @@ For purposes of chapter 1—
 
 #### (C) Cogeneration facility
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “cogeneration facility” means a facility which uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
+&emsp;&emsp;For purposes of subparagraph (A), the term “cogeneration facility” means a facilitywhich uses the same energy source for the sequential generation of electrical or mechanical power in combination with steam, heat, or other forms of useful energy.
 
 #### (D) Alternative energy facility
 
@@ -678,7 +678,7 @@ For purposes of chapter 1—
 
 #### (i) Temporary shut-downs, etc.
 
-&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), there shall not be taken into account any temporary shut-down of the facility for repairs, maintenance, or capital improvements, or any financial burdencaused by the bankruptcy or similar financial difficulty of the service provider.
+&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), there shall not be taken into account any temporary shut-down of the facility for repairs, maintenance, or capital improvements, or any financial burden caused by the bankruptcy or similar financial difficulty of the service provider.
 
 #### (ii) Reduced costs
 
@@ -842,7 +842,7 @@ In the case of any payment which, except for section 501(b) of the Ethics in Gov
 
 #### (<i>l</i>) Regulations relating to conduit arrangements
 
-The Secretary may prescribe regulations recharacterizing any multiple-party financing transaction as a transaction directly among any2 or more of such parties where the Secretary determines that such recharacterization is appropriate to prevent avoidance of any tax imposed by this title.
+The Secretary may prescribe regulations recharacterizing any multiple-party financing transaction as a transaction directly among any 2 or more of such parties where the Secretary determines that such recharacterization is appropriate to prevent avoidance of any tax imposed by this title.
 
 #### (m) Designation of contract markets
 
@@ -876,7 +876,7 @@ Any designation by the Commodity Futures Trading Commission of a contract market
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(<i>l</i>)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a),1166(a), title XVIII, §§1802(a)(9)(C), 1810(<i>l</i>)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85.)
 
 #### Amendment of Subsection (a)
 
@@ -896,7 +896,7 @@ Part A and part B of title I of the Housing Act of 1949, referred to in subsec. 
 
 Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a)(19)(C)(vi), which was classified to section 3303 of Title 42, was omitted from the Code pursuant to section 5316 of Title 42, which terminated authority to make new loans and grants under title I (§101 et seq.) of that Act after Jan. 1, 1975.
 
-The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L.99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -1210,7 +1210,7 @@ Amendment by title I of Pub. L. 100–647 effective, except as otherwise provide
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 201(c), (d)(14) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
+Amendment by section 201(c), (d)(14) of Pub. L. 99–514 applicable to property placed in service after Dec. 31,1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 Amendment by section 201(c), (d)(14) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
@@ -1286,7 +1286,7 @@ Section 336(b) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to estimated tax for taxable years beginning after Dec. 31, 1980, see section 725(d) of Pub. L. 97–34, set out as a note under section 871 of this title.
+Amendment by Pub. L. 97–34 applicable to estimated tax for taxable years beginning after Dec. 31, 1980, seesection 725(d) of Pub. L. 97–34, set out as a note under section 871 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -1398,7 +1398,7 @@ Effective Date.—The provisions of this section shall apply to taxable years en
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 118, 168, 246A, 269B, 312, 357, 362, 401, 408, 408A, 542, 593, 597, 679, 682, 853, 860F, 865, 877, 881, 884, 904, 958, 988, 993, 1246, 1247, 1249, 1313, 1341, 3405, 4975, 6038, 6038A, 6039F, 6046, 6059, 6694, 7213 of this title; title 4 section 114; title 5 section 8351; title 6 section 395; title 12 sections 1464, 1467a, 1823; title 22 sections 2314, 2755; title 29 section 1108; title 42 section 1320a–7e.
+This section is referred to in sections 56, 118, 168, 246A, 269B, 312, 357, 362, 401, 408, 408A, 542, 593, 597, 679, 682, 853, 860F, 865, 877, 881, 884, 904, 958, 988, 993, 1246, 1247, 1249, 1313, 1341, 3405, 4975, 6038, 6038A, 6039F, 6046, 6059, 6694, 7213 of this title; title 4 section 114; title 5 section 8351; title 6 section 395; title 12 sections 1464, 1467a, 1823; title 22 sections 2314, 2755; title 29 section 1108; title 42 sections 1320a–7e, 1395r.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

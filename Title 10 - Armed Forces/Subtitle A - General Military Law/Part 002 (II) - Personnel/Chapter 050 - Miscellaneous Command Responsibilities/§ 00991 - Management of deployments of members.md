@@ -2,15 +2,31 @@
 
 (a)
 
-General or Flag Officer Responsibilities.—(1) The deployment (or potential deployment) of a member of the armed forces shall be managed, during any period when the member is a high-deployment days member, by the officer in the chain of command of that member who is the lowest-ranking general or flag officer in that chain of command. That officer shall ensure that the member is not deployed, or continued in a deployment, on any day on which the total number of days on which the member has been deployed out of the preceding 365 days would exceed 220. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—
+Management Responsibilities.—(1) The deployment (or potential deployment) of a member of the armed forces shall be managed to ensure that the member is not deployed, or continued in a deployment, on any day on which the total number of days on which the member has been deployed—
 
-&emsp;(A) in the case of a member who is assigned to a combatant command in a position under the operational control of the officer in that combatant command who is the service component commander for the members of that member's armed force in that combatant command, by that officer; and
+&emsp;(A) out of the preceding 365 days would exceed the one-year high-deployment threshold; or
 
-&emsp;(B) in the case of a member not assigned as described in subparagraph (A), by the service chief of that member's armed force (or, if so designated by that service chief, by an officer of the same armed force on active duty who is in the grade of general or admiral or who is the personnel chief for that armed force).
+&emsp;(B) out of the preceding 730 days would exceed the two-year high-deployment threshold.
 
-(2) In this section, the term “high-deployment days member” means a member who has beendeployed 182 days or more out of the preceding 365 days.
+(2) In this subsection:
 
-(3) In paragraph (1)(B), the term “service chief” means the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.
+&emsp;(A) The term “one-year high-deployment threshold” means—
+
+&emsp;&emsp;(i) 220 days; or
+
+&emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
+
+&emsp;(B) The term “two-year high-deployment threshold” means—
+
+&emsp;&emsp;(i) 400 days; or
+
+&emsp;&emsp;(ii) a lower number of days prescribed by the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness.
+
+(3) A member may be deployed, or continued in a deployment, without regard to paragraph (1) if the deployment, or continued deployment, is approved by the Secretary of Defense. The authority of the Secretary under the preceding sentence may only be delegated to—
+
+&emsp;(A) a civilian officer of the Department of Defense appointed by the President, by and with the advise and consent of the Senate, or a member of the Senior Executive Service; or
+
+&emsp;(B) a general or flag officer in that member's chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).
 
 (b)
 
@@ -44,9 +60,21 @@ National Security Waiver Authority.—The Secretary of the military department c
 
 Inapplicability to Coast Guard.—This section does not apply to a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093.)
+(Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1) The deployment (or potential deployment) of a member of the armed forces shall be managed, during any period when the member is a high-deployment days member, by the officer in the chain of command of that member who is the lowest-ranking general or flag officer in that chain of command. That officer shall ensure that the member is not deployed, or continued in a deployment, on any day on which the total number of days on which the member has been deployed out of the preceding 365 days would exceed 220. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—
+
+&emsp;“(A) in the case of a member who is assigned to a combatant command in a position under the operational control of the officer in that combatant command who is the service component commander for the members of that member's armed force in that combatant command, by that officer; and
+
+&emsp;“(B) in the case of a member not assigned as described in subparagraph (A), by the service chief of that member's armed force (or, if so designated by that service chief, by an officer of the same armed force on active duty who is in the grade of general or admiral or who is the personnel chief for that armed force).
+
+“(2) In this section, the term ‘high-deployment days member’ means a member who has been deployed 182 days or more out of the preceding 365 days.
+
+“(3) In paragraph (1)(B), the term ‘service chief’ means the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, or the Commandant of the Marine Corps.”
 
 2001—Subsec. (b)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -86,9 +114,29 @@ Pub. L. 106–65, div. A, title V, §586(d)(1), Oct. 5, 1999, 113 Stat. 639, pro
 
 Pub. L. 106–65, div. A, title V, §586(e), Oct. 5, 1999, 113 Stat. 639, provided that: “Not later than June 1, 2000, the Secretary of each military department shall prescribe in regulations the policies and procedures for implementing such provisions of law for that military department.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children
+
+Pub. L. 108–136, div. A, title V, §585, Nov. 24, 2003, 117 Stat. 1492, provided that:
+
+“(a)
+
+Publication of Policy.—Not later than 180 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall—
+
+&emsp;“(1) prescribe the policy of the Department of Defense on concurrent deployment to a combat zone of both spouses of a dual-military family with one or more minor children; and
+
+&emsp;“(2) transmit the policy to the Committees on Armed Services of the Senate and the House of Representatives.
+
+“(b)
+
+Dual-Military Family Defined.—In this section, the term ‘dual-military family’ means a family in which both spouses are members of the Armed Forces.”
+
 #### Review of Management of Deployments of Individual Members
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L.107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, provided that: “Not later than March 31, 2002, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of section 991 of title 10, United States Code, during fiscal year 2001. The report shall include—
+Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, §592(b), Dec. 28, 2001, 115 Stat. 1125, provided that: “Not later than March 31, 2002, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of section 991 of title 10, United States Code, during fiscal year 2001. The report shall include—
 
 &emsp;“(1) a discussion of the experience in tracking and recording the deployments of members of the Armed Forces and the payment of the per diem allowance for lengthy or numerous deployments in accordance with section 436 of title 37, United States Code;
 

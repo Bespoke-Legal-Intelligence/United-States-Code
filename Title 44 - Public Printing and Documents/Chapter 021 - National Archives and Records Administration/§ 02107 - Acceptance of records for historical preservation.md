@@ -34,7 +34,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act \[amending provisions set out as a note below\] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
+Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: “This Act \[amending provisions set out as a notebelow\] may be cited as the ‘President John F. Kennedy Assassination Records Collection Extension Act of 1994’.”
 
 #### President John F. Kennedy Assassination Records Collection
 
@@ -298,7 +298,7 @@ Fees for Copying.—Executive branch agencies shall—
 
 &emsp;&emsp;“(C) any other matter currently relating to the military defense, intelligence operations or conduct of foreign relations of the United States, the disclosure of which would demonstrably impair the national security of the United States;
 
-&emsp;“(2) the public disclosure of the assassination record would reveal the name or identity of a livingperson who provided confidential information to the United States and would pose a substantial risk of harm to that person;
+&emsp;“(2) the public disclosure of the assassination record would reveal the name or identity of a living person who provided confidential information to the United States and would pose a substantial risk of harm to that person;
 
 &emsp;“(3) the public disclosure of the assassination record could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy is so substantial that it outweighs the public interest;
 
@@ -488,7 +488,7 @@ Compensation.—Subject to such rules as may be adopted by the Review Board, the
 
 “(d)
 
-Advisory Committees.—(1) The Review Board shall have the authority to create advisory committeesto assist in fulfilling the responsibilities of the Review Board under this Act.
+Advisory Committees.—(1) The Review Board shall have the authority to create advisory committees to assist in fulfilling the responsibilities of the Review Board under this Act.
 
 “(2) Any advisory committee created by the Review Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
@@ -606,7 +606,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 &emsp;“(1) the Attorney General should assist the Review Board in good faith to unseal any records that the Review Board determines to be relevant and held under seal by a court or under the injunction of secrecy of a grand jury;
 
-&emsp;“(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, and contact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
+&emsp;“(2) the Secretary of State should contact the Government of the Republic of Russia and seek the disclosure of all records of the government of the former Soviet Union, including the records of the Komitet Gosudarstvennoy Bezopasnosti (KGB) and the Glaynoye Razvedyvatelnoye Upravleniye (GRU), relevant to the assassination of President Kennedy, andcontact any other foreign government that may hold information relevant to the assassination of President Kennedy and seek disclosure of such information; and
 
 &emsp;“(3) all Executive agencies should cooperate in full with the Review Board to seek the disclosure of all information relevant to the assassination of President John F. Kennedy consistent with the public interest.
 

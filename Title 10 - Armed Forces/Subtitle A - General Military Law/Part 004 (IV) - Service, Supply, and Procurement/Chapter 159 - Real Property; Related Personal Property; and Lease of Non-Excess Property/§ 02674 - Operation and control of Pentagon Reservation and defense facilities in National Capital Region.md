@@ -32,17 +32,21 @@
 
 (f) In this section:
 
-&emsp;(1) The term “Pentagon Reservation” means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.
+&emsp;(1) The term “Pentagon Reservation” means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2,the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.
 
 &emsp;(2) The term “National Capital Region” means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L.107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234.)
+(g) For purposes of subsections (b), (c), (d), and (e), the terms “Pentagon Reservation” and “National Capital Region” shall be treated as including the land and physical facilities at the Raven Rock Mountain Complex.
+
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581.)
 
 #### Prior Provisions
 
 A prior section 2674, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, §608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, §613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, §608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, §607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, §707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, §608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, §607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, §608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, §603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, §801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, §907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–136 added subsec. (g).
 
 2001—Subsec. (b). Pub. L. 107–107 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
@@ -60,9 +64,13 @@ Subsec. (b). Pub. L. 104–201, §369(a), substituted “in the National Capital
 
 Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Cost of Pentagon Renovation
 
-Pub. L. 107–117, div. A, title VIII, §8060, Jan. 10, 2002, 115 Stat. 2260, provided that:
+Pub. L. 108–87, title VIII, §8055, Sept. 30, 2003, 117 Stat. 1084, provided that:
 
 “(a)
 
@@ -94,6 +102,12 @@ Certification Cost Reports.—As part of the annual certification under subsecti
 
 Duration of Certification Requirement.—The requirement to make an annual certification under subsection (a) shall apply until the Secretary certifies to Congress that the renovation of the Pentagon Reservation is completed.”
 
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8056, Oct. 23, 2002, 116 Stat. 1549.
+
+Pub. L. 107–117, div. A, title VIII, §8060, Jan. 10, 2002, 115 Stat. 2260.
+
 #### Establishment of Memorial to Victims of Terrorist Attack on Pentagon Reservation and Authority to Accept Monetary Contributions for Memorial and Repair of Pentagon
 
 Pub. L. 107–107, div. B, title XXVIII, §2864, Dec. 28, 2001, 115 Stat. 1333, provided that:
@@ -113,4 +127,8 @@ Acceptance of Contributions.—The Secretary of Defense may accept monetary cont
 “(c)
 
 Deposit of Contributions.—The Secretary of Defense shall deposit contributions accepted under subsection (b) in the Pentagon Reservation Maintenance Revolving Fund. The contributions shall be available for expenditure only for the purposes specified in subsection (b).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 462.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) a person's or entity's discrimination because of an individual's national origin if the discrimination with respect to that person or entity and that individual is covered under section 703 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–2\], or
 
-&emsp;&emsp;(C) discrimination because of citizenship status which is otherwise required in order to comply with law, regulation, or executive order, or required by Federal, State, or local government contract, or which the AttorneyGeneral determines to be essential for an employer to do business with an agency or department of the Federal, State, or local government.
+&emsp;&emsp;(C) discrimination because of citizenship status which is otherwise required in order to comply with law, regulation, or executive order, or required by Federal, State, or local government contract, or which the Attorney General determines to be essential for an employer to do business with an agency or department of the Federal, State, or local government.
 
 #### (3) “Protected individual” defined
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity tocease and desist from such unfair immigration-related employment practice.
+&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
 
 #### (B) Contents of order
 
@@ -178,7 +178,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (2) Court enforcement order
 
-&emsp;Upon the filing of such petition, the court shall have jurisdiction to make and enter a decree enforcing the order of the administrativelaw judge. In such a proceeding, the order of the administrative law judge shall not be subject to review.
+&emsp;Upon the filing of such petition, the court shall have jurisdiction to make and enter a decree enforcing the order of the administrative law judge. In such a proceeding, the order of the administrative law judge shall not be subject to review.
 
 #### (3) Enforcement decree in original review
 
@@ -206,7 +206,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (<i>l</i>) Dissemination of information concerning anti-discrimination provisions
 
-(1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation with the chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employee rights, responsibilities, and remedies under this section and such title.
+(1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation with the chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employeerights, responsibilities, and remedies under this section and such title.
 
 (2) In order to carry out the campaign under this subsection, the Special Counsel—
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

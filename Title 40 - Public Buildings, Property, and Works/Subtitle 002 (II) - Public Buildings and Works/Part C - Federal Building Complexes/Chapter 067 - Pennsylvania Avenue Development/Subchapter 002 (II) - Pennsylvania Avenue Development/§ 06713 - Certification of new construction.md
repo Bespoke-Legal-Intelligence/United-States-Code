@@ -24,5 +24,5 @@ The words “After October 1, 1974” and the text of 40:876(b) (proviso) are om
 
 #### References in Text
 
-Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, was classified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, wasclassified to section 874(a) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 

@@ -8,5 +8,5 @@
 
 #### References in Text
 
-The Clayton Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Clayton Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 

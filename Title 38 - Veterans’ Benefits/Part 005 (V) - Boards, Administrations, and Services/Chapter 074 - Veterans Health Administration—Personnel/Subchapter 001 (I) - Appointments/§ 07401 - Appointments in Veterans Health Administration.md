@@ -1,14 +1,14 @@
 ### §7401. Appointments in Veterans Health Administration
 
-There may be appointed by the Secretary such personnel as the Secretary may find necessary for the medical care of veterans (in addition to those in the Office of the Under Secretary for Health appointed under section 7306 of this title), as follows:
+There may be appointed by the Secretary such personnel as the Secretary may find necessary for the health care of veterans (in addition to those in the Office of the Under Secretary for Health appointed under section 7306 of this title), as follows:
 
-&emsp;(1) Physicians, dentists, podiatrists, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries.
+&emsp;(1) Physicians, dentists, podiatrists, chiropractors, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries.
 
-&emsp;(2) Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.
+&emsp;(2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-&emsp;(3) Clinical or counseling psychologists who hold diplomas as diplomates in psychologyfrom an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.
+&emsp;(3) Audiologists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical and dental technologists, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technicians, therapeutic radiologic technicians, and social workers.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057.)
 
 #### Prior Provisions
 
@@ -16,9 +16,25 @@ Provisions similar to those in this section were contained in section 4104 of th
 
 #### Amendments
 
+2003—Pub. L. 108–170, §302(a)(1), substituted “health” for “medical” in introductory provisions.
+
+Par. (1). Pub. L. 108–170, §302(a)(2), inserted “chiropractors,” after “podiatrists,”.
+
+Par. (2). Pub. L. 108–170, §301(a)(1)(A), added par. (2) and struck out former par. (2) which read as follows: “Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.”
+
+Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.”
+
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
+
+#### Prior Appointments of Certain Personnel
+
+Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: “Personnel appointed to theVeterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7402, 7403, 7404, 7405, 7407, 7408, 7410, 7411, 7423, 7424, 7425, 7451, 7452, 7455, 7457, 7461, 7462, 7463, 7612, 7672 of this title; title 5 section 7511.
+This section is referred to in sections 7402, 7403, 7404, 7405, 7407, 7408, 7410, 7411, 7423, 7424, 7425, 7451, 7452, 7454, 7455, 7457, 7461, 7462, 7463, 7612, 7672 of this title; title 5 section 7511.
 

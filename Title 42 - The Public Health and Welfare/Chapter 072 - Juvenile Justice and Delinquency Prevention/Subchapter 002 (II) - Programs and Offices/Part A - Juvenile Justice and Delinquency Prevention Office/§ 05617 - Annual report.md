@@ -20,7 +20,7 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
 &emsp;(3) A description, based on the most recent data available, of the extent to which each State complies with section 5633 of this title and with the plan submitted under such section by the State for such fiscal year.
 
-&emsp;(4) An evaluation of the programs funded under this subchapter and their effectiveness in reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
+&emsp;(4) An evaluation of the programs funded under this subchapter and their effectivenessin reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
 
 (Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, §12207, Nov. 2, 2002, 116 Stat. 1872.)
 
@@ -44,7 +44,7 @@ Par. (1)(F). Pub. L. 102–586, §2(e)(1)(B), (2), (3), added subpar. (F).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date
 

@@ -32,19 +32,31 @@ Period of Availability.—(1) The period of availability of an amount under subs
 
 (c)
 
-Reporting Requirement.—Each year, the Under Secretary of Defense (Comptroller) shall submit to Congress a report on the amounts, if any, that are available for obligation pursuant to this section. The report shall include, at a minimum, the following:
+Annual Report.—Not later than 60 days after the end of each fiscal year, the Under Secretary of Defense (Comptroller) shall submit to Congress a report on the amounts, if any, that are available for obligation pursuant to this section. The report shall include, at a minimum, the following:
 
-&emsp;(1) The total amount available for obligation.
+&emsp;(1) The total amount available for obligation at the end of such fiscal year.
 
-&emsp;(2) The total amount collected from contractors during the year preceding the year in which the report is submitted.
+&emsp;(2) The total amount collected from contractors under this section during that fiscal year.
 
-&emsp;(3) The total amount disbursed in such preceding year and a description of the purpose for each disbursement.
+&emsp;(3) The total amount disbursed under this section during that fiscal year and a description of the purpose for each disbursement.
 
-&emsp;(4) The total amount returned to the Treasury in such preceding year.
+&emsp;(4) The total amount returned to the Treasury under this section during that fiscal year.
 
-(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841.)
+(Added Pub. L. 105–85, div. A, title VIII, §831(a), Nov. 18, 1997, 111 Stat. 1841; amended Pub. L. 108–136, div. A, title X, §1031(a)(21), Nov. 24, 2003, 117 Stat. 1598.)
 
 #### References in Text
 
 The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code see Short Title note set out under section 601 of Title 41 and Tables.
+
+#### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136, §1031(a)(21)(A), substituted “Annual Report” for “Reporting Requirement” in heading and “Not later than 60 days after the end of each fiscal year” for “Each year” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 108–136, §1031(a)(21)(B), inserted “at the end of such fiscal year” before period at end.
+
+Subsec. (c)(2). Pub. L. 108–136, §1031(a)(21)(C), substituted “under this section during that fiscal year” for “during the year preceding the year in which the report is submitted”.
+
+Subsec. (c)(3). Pub. L. 108–136, §1031(a)(21)(D), substituted “under this section during that fiscal year” for “in such preceding year”.
+
+Subsec. (c)(4). Pub. L. 108–136, §1031(a)(21)(E), substituted “under this section during that fiscal year” for “in such preceding year”.
 

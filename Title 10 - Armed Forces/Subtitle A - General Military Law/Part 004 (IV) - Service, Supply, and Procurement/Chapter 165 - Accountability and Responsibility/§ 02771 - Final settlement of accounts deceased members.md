@@ -164,5 +164,5 @@ Section 31 of Pub. L. 85–861 provided that: “The designation of a beneficiar
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1552 of this title; title 5 section 8316; title 24 section 420; title 32 section 714; title 33 section 857a; title 37 section 501; title 42 section 213a.
+This section is referred to in section 1552 of this title; title 5 section 8316; title 24 section 420; title 32 section 714; title 33 section 3071; title 37 section 501; title 42 section 213a.
 

@@ -30,7 +30,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
-(Pub. L. 99–198, title XII, §1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, §1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II,§204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982; Pub. L. 107–171, title II, §2002(a), May 13, 2002, 116 Stat. 233.)
+(Pub. L. 99–198, title XII, §1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, §1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982; Pub. L. 107–171, title II, §2002(a), May 13, 2002, 116 Stat. 233.)
 
 #### References in Text
 

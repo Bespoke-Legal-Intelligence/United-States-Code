@@ -18,7 +18,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the aggregate amount of payments to the person required to be shown on such return.
 
-> The written statement required under the preceding sentence shall be furnished (either in person or in a statement mailing by first-class mailwhich includes adequate notice that the statement is enclosed) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made and shall be in such form as the Secretary may prescribe by regulations.
+> The written statement required under the preceding sentence shall be furnished (either in person or in a statement mailing by first-class mail which includes adequate notice that the statement is enclosed) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made and shall be in such form as the Secretary may prescribe by regulations.
 
 #### (c) Exception for payments to certain persons
 

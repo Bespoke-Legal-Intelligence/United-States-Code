@@ -14,9 +14,9 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304a, 2304b of this title.
+This section is referred to in sections 2304a, 2304b, 2382 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (2) Membership
 
-&emsp;In no case shall a loan officer involved in the initial decision on a loan serve on the credit review committee when the committee reviews such loan.
+&emsp;In no case shall a loan officer involved in the initial decision on a loan serve on the creditreview committee when the committee reviews such loan.
 
 #### (b) Review of decisions
 

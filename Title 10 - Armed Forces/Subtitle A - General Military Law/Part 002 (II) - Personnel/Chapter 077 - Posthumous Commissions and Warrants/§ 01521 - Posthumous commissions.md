@@ -8,7 +8,7 @@
 
 &emsp;(3) was officially recommended for appointment or promotion to a commissioned grade but was unable to accept the promotion or appointment because of death in line of duty.
 
-(b) A commission issued under subsection (a) shall issue as of the date of the appointment, recommendation, or official recommendation, as the case may be, and the member's name shallbe carried on the records of the military or executive department concerned as if he had served in the grade, and branch if any, in which posthumously commissioned, from the date of the appointment, recommendation, or official recommendation to the date of his death.
+(b) A commission issued under subsection (a) shall issue as of the date of the appointment,recommendation, or official recommendation, as the case may be, and the member's name shall be carried on the records of the military or executive department concerned as if he had served in the grade, and branch if any, in which posthumously commissioned, from the date of the appointment, recommendation, or official recommendation to the date of his death.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 115; Pub. L. 106–398, §1 \[\[div. A\], title V, §505\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102.)
 

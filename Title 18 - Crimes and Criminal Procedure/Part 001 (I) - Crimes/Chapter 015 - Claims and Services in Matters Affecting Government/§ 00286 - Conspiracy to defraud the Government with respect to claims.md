@@ -1,6 +1,6 @@
 ### §286. Conspiracy to defraud the Government with respect to claims
 
-Whoever enters into any agreement, combination, or conspiracy to defraud the United States,or any department or agency thereof, by obtaining or aiding to obtain the payment or allowance of any false, fictitious or fraudulent claim, shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever enters into any agreement, combination, or conspiracy to defraud the United States, or any department or agency thereof, by obtaining or aiding to obtain the payment or allowance of any false, fictitious or fraudulent claim, shall be fined under this title or imprisoned not more than ten years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 698; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 

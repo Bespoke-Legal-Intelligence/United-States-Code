@@ -36,7 +36,7 @@ Section 1 of Pub. L. 92–340, as amended by Pub. L. 95–474, §2, Oct. 17, 197
 
 #### Savings Provision
 
-Section 6(a) of Pub. L. 95–474 provided that: “Regulations previously issued under statutory provisions which are amended by section 2 of this Act \[amending this section and sections 1222 to 1227, of this title\] shall continue in effect as though issued under the authority of the Ports and Waterways Safety Act of 1972, as amended by this Act \[this chapter\], until expressly abrogated, modified, or amended by the Secretary. Any proceeding under title I of Public Law 92–340 \[which enacted this section and sections 1222 to 1227 of this title\] for a violation which occurred before the effective date of this Act \[Oct. 17, 1978\] may be initiated or continued to conclusion as though such public law had not been amended by this Act \[amendment by section 2 of Pub. L. 95–474\].”
+Section 6(a) of Pub. L. 95–474 provided that: “Regulations previously issued under statutory provisionswhich are amended by section 2 of this Act \[amending this section and sections 1222 to 1227, of this title\] shall continue in effect as though issued under the authority of the Ports and Waterways Safety Act of 1972, as amended by this Act \[this chapter\], until expressly abrogated, modified, or amended by the Secretary. Any proceeding under title I of Public Law 92–340 \[which enacted this section and sections 1222 to 1227 of this title\] for a violation which occurred before the effective date of this Act \[Oct. 17, 1978\] may be initiated or continued to conclusion as though such public law had not been amended by this Act \[amendment by section 2 of Pub. L. 95–474\].”
 
 #### Separability
 

@@ -220,7 +220,7 @@ Criteria.—To the extent practicable, the integrated system shall be designed a
 
 &emsp;&emsp;“(B) An ongoing effort to ensure that Internet-based Government services relevant to a given citizen activity are available from a single point.
 
-&emsp;&emsp;“(C) Access to Federal Government information and services consolidated, as appropriate, with Internet-based information and services provided by State, local, and tribal governments.
+&emsp;&emsp;“(C) Access to Federal Government information and services consolidated, as appropriate, withInternet-based information and services provided by State, local, and tribal governments.
 
 &emsp;&emsp;“(D) Access to Federal Government information held by 1 or more agencies shall be made available in a manner that protects privacy, consistent with law.
 
@@ -258,7 +258,7 @@ Update of information.—The information and rules on each website shall be upda
 
 &emsp;“(2)
 
-Closed cases.—Electronic files and docket information for cases closed for more than 1 year are not required to be made available online, except all written opinions with a date of issuance after the effective date of this section \[see Effective Date noteset out under section 3601 of this title\] shall remain available online.
+Closed cases.—Electronic files and docket information for cases closed for more than 1 year are not required to be made available online, except all written opinions with a date of issuance after the effective date of this section \[see Effective Date note set out under section 3601 of this title\] shall remain available online.
 
 “(c)
 
@@ -378,7 +378,7 @@ Time Limitation.—Agencies shall implement the requirements of this section con
 
 “(a)
 
-Purpose.—The purpose of this section is to improve the methods by which Government information,including information on the Internet, is organized, preserved, and made accessible to the public.
+Purpose.—The purpose of this section is to improve the methods by which Government information, including information on the Internet, is organized, preserved, and made accessible to the public.
 
 “(b)
 
@@ -486,7 +486,7 @@ Committee functions.—Not later than 2 years after the date of enactment of thi
 
 Functions of the archivist.—Not later than 1 year after the submission of recommendations by the Committee under paragraph (1), the Archivist of the United States shall issue policies—
 
-&emsp;&emsp;“(A) requiring the adoption by agencies of policies and procedures to ensure that chapters 21, 25, 27, 29, and 31 of title 44, United States Code, are applied effectively and comprehensively to Government information on the Internet and to other electronic records; and
+&emsp;&emsp;“(A) requiring the adoption by agencies of policies and procedures to ensure that chapters 21, 25,27, 29, and 31 of title 44, United States Code, are applied effectively and comprehensively to Government information on the Internet and to other electronic records; and
 
 &emsp;&emsp;“(B) imposing timetables for the implementation of the policies, procedures, and technologies by agencies.
 
@@ -532,7 +532,7 @@ Agency requirements.—(A) Not later than 2 years after the date of enactment of
 
 &emsp;&emsp;“(i) consult with the Committee and solicit public comment;
 
-&emsp;&emsp;“(ii) establish a process for determining which Government information the agency intends tomake available and accessible to the public on the Internet and by other means;
+&emsp;&emsp;“(ii) establish a process for determining which Government information the agency intends to make available and accessible to the public on the Internet and by other means;
 
 &emsp;&emsp;“(iii) develop priorities and schedules for making Government information available and accessible;
 
@@ -812,7 +812,7 @@ Information technology training programs.—The head of each Executive agency, a
 
 &emsp;“(3)
 
-Governmentwide policies and evaluation.—The Director of the Office of Personnel Management,in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards for training and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
+Governmentwide policies and evaluation.—The Director of the Office of Personnel Management, in coordination with the Director of the Office of Management and Budget, shall issue policies to promote the development of performance standards for training and uniform implementation of this subsection by Executive agencies, with due regard for differences in program requirements among agencies that may be appropriate and warranted in view of the agency mission. The Director of the Office of Personnel Management shall evaluate the implementation of the provisions of this subsection by Executive agencies.
 
 &emsp;“(4)
 
@@ -1320,7 +1320,7 @@ Contents.—The report under subsection (a) shall include a study of—
 
 “(c)
 
-Recommendations.—The report shall include recommendations on actions to ensure that online Government initiatives shall not have the unintended result of increasing any deficiency in public access to Government services.
+Recommendations.—The report shall include recommendations on actions to ensure that online Government initiatives shall not have the unintended result ofincreasing any deficiency in public access to Government services.
 
 “(d)
 
@@ -1458,7 +1458,7 @@ Reports.—
 
 &emsp;“(1) The head of each agency shall provide to the Director of the Office of Management and Budget such reports and other information as the Director requests.
 
-&emsp;“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs of the Senate on the actions it has taken to implementsections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
+&emsp;“(2) Each Designated Statistical Agency referred to in section 522 shall report annually to the Director of the Office of Management and Budget, the Committee on Government Reform of the House of Representatives, and the Committee on Governmental Affairs of the Senate on the actions it has taken to implement sections 523 and 524. The report shall include copies of each written agreement entered into pursuant to section 524(a) for the applicable year.
 
 &emsp;“(3) The Director of the Office of Management and Budget shall include a summary of reports submitted to the Director under paragraph (2) and actions taken by the Director to advance the purposes of this title in the annual report to the Congress on statistical programs prepared under section 3504(e)(2) of title 44, United States Code.
 
@@ -1650,7 +1650,7 @@ In General.—A Designated Statistical Agency may provide business data in an id
 
 “(b)
 
-Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly knownas the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note set out under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
+Responsibilities of Agencies Under Other Laws.—The provision of business data by an agency to a Designated Statistical Agency under this subtitle shall in no way alter the responsibility of the agency providing the data under other statutes (including section 552 of title 5, United States Code (popularly known as the Freedom of Information Act), and section 552b of title 5, United States Code (popularly known as the Privacy Act of 1974 \[Pub. L. 93–579, see Short Title note set out under section 552a of Title 5, Government Organization and Employees\])) with respect to the provision or withholding of such information by the agency providing the data.
 
 “(c)
 

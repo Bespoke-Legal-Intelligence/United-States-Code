@@ -6,7 +6,7 @@ For the purpose of promoting responsible repayment of loans covered by Federal l
 
 &emsp;(1) the total amount of loans made to any borrower under this part and the remaining balance of the loans;
 
-&emsp;(2) information concerning the date of any default on the loan and the collection of the loan, including information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuantto section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan; and
+&emsp;(2) information concerning the date of any default on the loan and the collection of the loan, including information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuant to section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan; and
 
 &emsp;(3) the date of cancellation of the note upon completion of repayment by the borrower of the loan or payment by the Secretary pursuant to section 1087 of this title.
 
@@ -42,7 +42,7 @@ Notwithstanding paragraphs (4) and (6) <sup>1</sup> of subsection (a) of sectio
 
 &emsp;(2) 7 years from the date the Secretary, guaranty agency, eligible lender, or subsequent holder first reported the account to the consumer reporting agency; or
 
-&emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 years from the date the loan entered default such subsequent time.
+&emsp;(3) in the case of a borrower who reenters repayment after defaulting on a loan and subsequently goes into default on such loan, 7 yearsfrom the date the loan entered default such subsequent time.
 
 (Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1398; amended Pub. L. 100–50, §10(v), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §424, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(c)(52), Dec. 20, 1993, 107 Stat. 2467.)
 

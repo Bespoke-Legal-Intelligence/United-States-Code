@@ -14,7 +14,7 @@ The Secretary of the Army is authorized to establish and collect fees from Feder
 
 #### (d) Fiscal year limitation on expenditures
 
-The Secretary of the Army is authorized to expend not to exceed $15,000,000 per fiscal year forthe compilation and dissemination of information under this section.
+The Secretary of the Army is authorized to expend not to exceed $15,000,000 per fiscal year for the compilation and dissemination of information under this section.
 
 (Pub. L. 86–645, title II, §206, July 14, 1960, 74 Stat. 500; Pub. L. 89–298, title II, §220, Oct. 27, 1965, 79 Stat. 1089; Pub. L. 89–789, title II, §206, Nov. 7, 1966, 80 Stat. 1422; Pub. L. 91–611, title II, §225, Dec. 31, 1970, 84 Stat. 1832; Pub. L. 93–251, title I, §64, Mar. 7, 1974, 88 Stat. 30; Pub. L. 101–640, title III, §321, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 106–53, title II, §§202, 216, Aug. 17, 1999, 113 Stat. 285, 293.)
 

@@ -128,11 +128,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;All corporations which are members of the same parent-subsidiary controlled group shall be treated as 1 corporation for purposes of this subsection.
+&emsp;&emsp;All corporations which are members of the same parent-subsidiary controlled groupshall be treated as 1 corporation for purposes of this subsection.
 
 #### (B) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “parent-subsidiary controlled group” meansany controlled group of corporations as defined in section 1563(a)(1), except that—
+&emsp;&emsp;For purposes of subparagraph (A), the term “parent-subsidiary controlled group” means any controlled group of corporations as defined in section 1563(a)(1), except that—
 
 &emsp;&emsp;&emsp;(i) “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in section 1563(a)(1), and
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 #### (D) Control test
 
-&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply only if, immediately after the transaction, the corporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
+&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply onlyif, immediately after the transaction, the corporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
 
 #### (i) Basis rules
 

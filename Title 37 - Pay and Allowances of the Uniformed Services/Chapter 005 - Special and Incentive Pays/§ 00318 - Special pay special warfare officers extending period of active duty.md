@@ -36,7 +36,7 @@ Payment Methods.—(1) Upon acceptance of an agreement under subsection (b) by t
 
 (2) The amount of the retention bonus may be paid as follows:
 
-&emsp;(A) At the time the agreement is accepted by the Secretary concerned, the Secretarymay make a lump sum payment equal to half the total amount payable under the agreement. The balance of the bonus amount shall be paid in equal annual installments on the anniversary of the acceptance of the agreement.
+&emsp;(A) At the time the agreement is accepted by the Secretary concerned, the Secretary may make a lump sum payment equal to half the total amount payable under the agreement. The balance of the bonus amount shall be paid in equal annual installments on the anniversary of the acceptance of the agreement.
 
 &emsp;(B) The Secretary concerned may make graduated annual payments under regulations prescribed by the Secretary, with the first payment being payable at the time the agreement is accepted by the Secretary and subsequent payments being payable on the anniversary of the acceptance of the agreement.
 
@@ -54,7 +54,7 @@ Repayment.—(1) If an officer who has entered into an agreement under subsectio
 
 (i)
 
-Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term “special warfare service” for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shall be subject to the approval of the Secretary of Defense.
+Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term “special warfare service” for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shallbe subject to the approval of the Secretary of Defense.
 
 (Added Pub. L. 106–65, div. A, title VI, §626(a)(1), Oct. 5, 1999, 113 Stat. 655; amended Pub. L. 107–107, div. A, title X, §1048(i)(7), Dec. 28, 2001, 115 Stat. 1229.)
 

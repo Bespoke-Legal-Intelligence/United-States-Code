@@ -10,7 +10,7 @@ It is unlawful for any person to—
 
 &emsp;&emsp;(A) refusing to permit any officer authorized to enforce this chapter to board a vessel, other than a vessel operated by the Department of Defense or United States Coast Guard, subject to such person's control for the purposes of conducting any search or inspection in connection with the enforcement of this chapter;
 
-&emsp;&emsp;(B) resisting, opposing, impeding, intimidating, harassing, bribing, interfering with, or forcibly assaulting any person authorized by the Secretary to implement this chapter or any such authorized officer in the conduct of any search or inspection performed under this chapter; or
+&emsp;&emsp;(B) resisting, opposing, impeding, intimidating, harassing, bribing, interfering with, or forcibly assaulting any person authorized by the Secretary to implement this chapter or any such authorized officer in the conductof any search or inspection performed under this chapter; or
 
 &emsp;&emsp;(C) knowingly and willfully submitting false information to the Secretary or any officer authorized to enforce this chapter in connection with any search or inspection conducted under this chapter; or
 

@@ -86,11 +86,11 @@ The ICCVAM shall, consistent with the purposes described in subsection (b) of th
 
 &emsp;(1) Review and evaluate new or revised or alternative test methods, including batteries of tests and test screens, that may be acceptable for specific regulatory uses, including the coordination of technical reviews of proposed new or revised or alternative test methods of interagency interest.
 
-&emsp;(2) Facilitate appropriate interagency and international harmonization of acute orchronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal test methods.
+&emsp;(2) Facilitate appropriate interagency and international harmonization of acute or chronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal test methods.
 
 &emsp;(3) Facilitate and provide guidance on the development of validation criteria, validation studies and processes for new or revised or alternative test methods and help facilitate the acceptance of such scientifically valid test methods and awareness of accepted test methods by Federal agencies and other stakeholders.
 
-&emsp;(4) Submit ICCVAM test recommendations for the test method reviewed by the ICCVAM, through expeditious transmittal by the Secretary of Health and Human Services (or the designee of the Secretary), to each appropriate Federal agency, along with the identification of specific agency guidelines, recommendations, or regulations for a test method, including batteries of tests and test screens, for chemicals or class of chemicals within a regulatory framework that may be appropriate for scientific improvement, while seeking to reduce, refine, or replace animal test methods.
+&emsp;(4) Submit ICCVAM test recommendations for the test method reviewed by the ICCVAM, through expeditious transmittal by the Secretary of Health and Human Services (or the designee of the Secretary), to each appropriateFederal agency, along with the identification of specific agency guidelines, recommendations, or regulations for a test method, including batteries of tests and test screens, for chemicals or class of chemicals within a regulatory framework that may be appropriate for scientific improvement, while seeking to reduce, refine, or replace animal test methods.
 
 &emsp;(5) Consider for review and evaluation, petitions received from the public that—
 

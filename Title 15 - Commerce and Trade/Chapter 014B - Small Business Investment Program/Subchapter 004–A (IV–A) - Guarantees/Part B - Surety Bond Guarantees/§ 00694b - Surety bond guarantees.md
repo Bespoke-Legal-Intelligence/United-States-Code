@@ -6,7 +6,7 @@
 
 (2) The terms and conditions of said guarantees and commitments may vary from surety to surety on the basis of the Administration's experience with the particular surety.
 
-(3) The Administration may authorize any surety, without further administration approval, to issue, monitor, and service such bonds subject to the Administration's guarantee.
+(3) Omitted.
 
 (4) No such guarantee may be issued, unless—
 
@@ -46,7 +46,7 @@ Any guarantee or agreement to indemnify under this section shall obligate the Ad
 
 &emsp;&emsp;(A) the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by sociallyand economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
+&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
 
 &emsp;(4) determined pursuant to subsection (b) of this section, if applicable.
 
@@ -88,9 +88,9 @@ The provisions of section 693 of this title shall apply in the administration of
 
 (Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705.)
 
-#### Termination of Subsection (a)(3)
+#### Codification
 
-<i>For termination of subsection (a)(3) of this section, see Effective and Termination Dates of 1988 Amendment note below.</i>
+Subsec. (a)(3) of this section, which provided that the Administration could authorize any surety to issue, monitor, and service certain bonds subject to the Administration's guarantee, ceased to be effective after Sept. 30, 2003. See Effective and Termination Dates of 1988 Amendment note below.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Minimum Requirements of Inspection Standards.—The standards established under 
 
 &emsp;&emsp;(A) written reports on the results of highway bridge inspections together with notations of any action taken pursuant to the findings of such inspections; and
 
-&emsp;&emsp;(B) current inventory data for all highway bridges reflecting the findings of the mostrecent highway bridge inspections conducted; and
+&emsp;&emsp;(B) current inventory data for all highway bridges reflecting the findings of the most recent highway bridge inspections conducted; and
 
 &emsp;(5) establish a procedure for national certification of highway bridge inspectors.
 

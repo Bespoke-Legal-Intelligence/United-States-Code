@@ -12,13 +12,13 @@ The State plan shall contain a description of each of the following:
 
 &emsp;&emsp;(B) the methods to be used by the State to monitor the performance of the units or entities to whom the payment is distributed, consistent with the performance goals and measures adopted under paragraph (8).
 
-&emsp;(3) How the State will provide for programs for voter education, election official education and training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
+&emsp;(3) How the State will provide for programs for voter education, election official educationand training, and poll worker training which will assist the State in meeting the requirements of subchapter III of this chapter.
 
 &emsp;(4) How the State will adopt voting system guidelines and processes which are consistent with the requirements of section 15481 of this title.
 
 &emsp;(5) How the State will establish a fund described in subsection (b) of this section for purposes of administering the State's activities under this subpart, including information on fund management.
 
-&emsp;(6) The State's proposed budget for activities under this subpart, based on the State's bestestimates of the costs of such activities and the amount of funds to be made available, including specific information on—
+&emsp;(6) The State's proposed budget for activities under this subpart, based on the State's best estimates of the costs of such activities and the amount of funds to be made available, including specific information on—
 
 &emsp;&emsp;(A) the costs of the activities required to be carried out to meet the requirements of subchapter III of this chapter;
 

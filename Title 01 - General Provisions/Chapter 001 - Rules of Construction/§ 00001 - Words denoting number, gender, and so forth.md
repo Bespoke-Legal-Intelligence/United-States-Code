@@ -38,6 +38,10 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act 
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. L. 108–7
+
+Pub. L. 108–7, §3, Feb. 20, 2003, 117 Stat. 12, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this joint resolution \[Consolidated Appropriations Resolution, 2003, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
 #### Continental United States
 
 Section 48 of Pub. L. 86–70, June 25, 1959, 73 Stat. 154, provided that: “Whenever the phrase ‘continental United States’ is used in any law of the United States enacted after the date of enactment of this Act \[June 25, 1959\], it shall mean the 49 States on the North American Continent and the District of Columbia, unless otherwise expressly provided.”

@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Transfer.—Subject to subsections (c) and (d) of section 602 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 474), the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
+Authority To Make Transfer.—Subject to section 113 of title 40, the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
 
 &emsp;(1) any State, Commonwealth, or possession of the United States or any municipal corporation or political subdivision thereof;
 
@@ -32,13 +32,15 @@ Congressional Notice-and-Wait Period.—(1) A transfer under this section may no
 
 &emsp;(B) any day on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die at the end of the first session of a Congress, shall be excluded in the computation of such 30-day period.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L.106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297.)
 
 #### Prior Provisions
 
 A prior section 7306, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Nov. 8, 1965, Pub. L. 89–348, §1(10), 79 Stat. 1311; Nov. 2, 1966, Pub. L. 89–718, §42, 80 Stat. 1120; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, §1616, 103 Stat. 1602, related to use of vessels stricken from the Naval Vessel Register for experimental purposes, prior to repeal by Pub. L. 103–160, §824(b). See section 7306a of this title.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “section 113 of title 40” for “subsections (c) and (d) of section 602 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 474)”.
 
 1999—Subsec. (d). Pub. L. 106–65 amended heading and text of subsec. (d) generally. Text read as follows:
 
@@ -52,5 +54,5 @@ A prior section 7306, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Nov. 8, 1965,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 6939d.
+This section is referred to in section 7316 of this title; title 42 section 6939d.
 

@@ -4,7 +4,7 @@
 
 (b) A civil action wherein jurisdiction is not founded solely on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant may be found, if there is no district in which the action may otherwise be brought.
 
-(c) For purposes of venue under this chapter, a defendant that is a corporation shall be deemed to reside in any judicial district in which it is subject to personal jurisdiction at the time the action is commenced. In a State which has more than one judicial district and in which a defendant that is a corporation is subject to personaljurisdiction at the time an action is commenced, such corporation shall be deemed to reside in any district in that State within which its contacts would be sufficient to subject it to personal jurisdiction if that district were a separate State, and, if there is no such district, the corporation shall be deemed to reside in the district within which it has the most significant contacts.
+(c) For purposes of venue under this chapter, a defendant that is a corporation shall be deemed to reside in any judicial district in which it is subject to personal jurisdiction at the time the action is commenced. In a State which has more than one judicial district and in which a defendant that is a corporation is subject to personal jurisdiction at the time an action is commenced, such corporation shall be deemed to reside in any district in that State within which its contacts would be sufficient to subject it to personal jurisdiction if that district were a separate State, and, if there is no such district, the corporation shall be deemed to reside in the district within which it has the most significant contacts.
 
 (d) An alien may be sued in any district.
 
@@ -102,5 +102,5 @@ Amendment by Pub. L. 94–583 effective 90 days after Oct. 21, 1976, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 53, 6103, 6104, 6504; title 19 section 1337; title 22 sections 290<i>l</i>–5, 290<i>o</i>–5; title 27 section 122a; title 42 section 1973aa–2.
+This section is referred to in title 15 sections 53, 6103, 6104, 6504, 7706; title 16 section 6516; title 19 section 1337; title 22 sections 290<i>l</i>–5, 290<i>o</i>–5; title 27 section 122a; title 42 section 1973aa–2.
 

@@ -216,7 +216,7 @@ In general.—In implementing the amendment made by subsection (a) \[amending th
 
 &emsp;“(2)
 
-Interim report.—The Secretary of the Treasury shall submit a report to the Congress not later than the end of the 180-day period beginning on the date of enactment of this Act on the progress made by the Secretary in implementing the amendment made by subsection (a).
+Interim report.—The Secretary of the Treasury shall submit a report to the Congress not later than the end of the 180-day period beginning on the date of enactment of this Act on the progress madeby the Secretary in implementing the amendment made by subsection (a).
 
 &emsp;“(3)
 

@@ -12,7 +12,3 @@ Nonapplicability of Federal reclamation laws to lands within Imperial Irrigation
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 App. section 568.
-

@@ -138,7 +138,7 @@ Nothing in this section shall be construed—
 
 #### (ii) Travel expenses
 
-&emsp;&emsp;&emsp;The members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Council.
+&emsp;&emsp;&emsp;The members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, whileaway from their homes or regular places of business in the performance of services for the Council.
 
 #### (iii) Administrative support
 

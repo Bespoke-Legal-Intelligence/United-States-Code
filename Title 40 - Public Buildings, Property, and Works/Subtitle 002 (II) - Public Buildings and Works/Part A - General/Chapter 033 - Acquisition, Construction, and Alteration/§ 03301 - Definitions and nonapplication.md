@@ -90,7 +90,7 @@ Public building.—The term “public building”—
 
 &emsp;(6)
 
-United states.—The term “United States” includes the States of the UnitedStates, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
+United states.—The term “United States” includes the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
 (b)
 

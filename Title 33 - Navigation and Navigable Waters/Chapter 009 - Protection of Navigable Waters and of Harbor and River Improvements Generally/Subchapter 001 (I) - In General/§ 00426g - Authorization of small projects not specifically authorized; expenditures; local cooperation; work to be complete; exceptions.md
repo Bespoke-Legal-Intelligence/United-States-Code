@@ -14,7 +14,7 @@ The Secretary is authorized to undertake construction of small shore and beach r
 
 1970—Pub. L. 91–611 increased authorized annual allotment for Federal share of project construction costs from $10,000,000 to $25,000,000 and the limitation on allotment for any single project from $500,000 to $1,000,000.
 
-1965—Pub. L. 89–298 increased authorized annual allotment for Federal share of project construction costs from $3,000,000 to $10,000,000 and the limitation on allotment for any single project from $400,000 to $500,000.
+1965—Pub. L. 89–298 increased authorized annual allotment for Federal share of project construction costsfrom $3,000,000 to $10,000,000 and the limitation on allotment for any single project from $400,000 to $500,000.
 
 1962—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to undertake small shore and beach projects not specifically authorized by Congress, which otherwise comply with section 426e of this title, and to allot from any civil works appropriations hereafter made, an amount not to exceed $3,000,000 for the Federal share of such projects in any one fiscal year, provide that no such single project shall be allotted more than $400,000, including periodic nourishment, that provisions of local cooperation shall apply, and that the work shall be complete and not commit the United States to any additional improvement except for periodic beach nourishment, and as may result from procedure applying to projects authorized after submission of survey reports, for provisions which permitted the Chief of Engineers to make advance payments, not exceeding the United States pro rata part of the value of the labor and materials actually put in, and to undertake construction of restoration and protective works under sections 426e to 426h of this title upon the request of, and contribution of funds by, the interested political subdivision.
 
@@ -30,7 +30,7 @@ Section 915(i) of Pub. L. 99–662 provided that: “The amendments made by this
 
 #### Effective Date of 1970 Amendment
 
-Section 112(c) of Pub. L. 91–611 provided that: “The amendments made by this section \[amending this section and section 577 of this title\] shall not apply to anyproject under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
+Section 112(c) of Pub. L. 91–611 provided that: “The amendments made by this section \[amending this section and section 577 of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
 
 #### Transfer of Functions
 

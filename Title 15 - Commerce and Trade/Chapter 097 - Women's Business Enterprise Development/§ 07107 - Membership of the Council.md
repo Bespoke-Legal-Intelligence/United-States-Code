@@ -46,7 +46,7 @@ If any member of the Council subsequently becomes an officer or employee of the 
 
 #### (g) Reimbursements
 
-Members of the Council shall serve without pay for such membership, except that membersshall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Council, in the same manner as persons serving on advisory boards pursuant to section 637(b) of this title.
+Members of the Council shall serve without pay for such membership, except that members shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Council, in the same manner as persons serving on advisory boards pursuant to section 637(b) of this title.
 
 #### (h) Executive director
 
@@ -62,7 +62,7 @@ The executive director and staff of the Council may be appointed without regard 
 
 The General Schedule, referred to in subsecs. (h) and (i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (i), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (i), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@
 
 > with intent to impede, intimidate, or interfere with such official, judge, or law enforcement officer while engaged in the performance of official duties, or with intent to retaliate against such official, judge, or law enforcement officer on account of the performance of official duties, shall be punished as provided in subsection (b).
 
-(2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, orthreatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official duties during the term of service of such person, shall be punished as provided in subsection (b).
+(2) Whoever assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or a member of the immediate family of any person who formerly served as a person designated in paragraph (1), with intent to retaliate against such person on account of the performance of official duties during the term of service of such person, shall be punished as provided in subsection (b).
 
 (b)(1) An assault in violation of this section shall be punished as provided in section 111 of this title.
 
@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 99–646, §37(a), inserted “for the kidnapping or att
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security,and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

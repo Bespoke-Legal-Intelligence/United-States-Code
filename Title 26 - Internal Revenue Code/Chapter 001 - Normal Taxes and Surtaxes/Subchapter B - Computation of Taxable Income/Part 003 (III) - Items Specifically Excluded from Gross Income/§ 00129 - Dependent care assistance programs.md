@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).
+&emsp;&emsp;The amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed$5,000 ($2,500 in the case of a separate return by a married individual).
 
 #### (B) Year of inclusion
 
@@ -40,7 +40,7 @@
 
 #### (c) Payments to related individuals
 
-No amount paid or incurred during the taxable year of an employee by an employer in providingdependent care assistance to such employee shall be excluded under subsection (a) if such amount was paid or incurred to an individual—
+No amount paid or incurred during the taxable year of an employee by an employer in providing dependent care assistance to such employee shall be excluded under subsection (a) if such amount was paid or incurred to an individual—
 
 &emsp;(1) with respect to whom, for such taxable year, a deduction is allowable under section 151(c) (relating to personal exemptions for dependents) to such employee or the spouse of such employee, or
 
@@ -92,7 +92,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 &emsp;&emsp;(A) subject to rules similar to the rules of section 410(b)(4), employees who have not attained the age of 21 and completed 1 year of service (as defined in section 410(a)(3)), and
 
-&emsp;&emsp;(B) employees not included in a dependent care assistance program who are included in a unit of employees covered by an agreement which the Secretary finds to be a collective bargaining agreement between employee representatives and 1 or more employees, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;&emsp;(B) employees not included in a dependent care assistance program who are included in a unit of employees covered by an agreementwhich the Secretary finds to be a collective bargaining agreement between employee representatives and 1 or more employees, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (e) Definitions and special rules
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (A) Ownership of stock
 
-&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rulesprovided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
+&emsp;&emsp;Ownership of stock in a corporation shall be determined in accordance with the rules provided under subsections (d) and (e) of section 1563 (without regard to section 1563(e)(3)(C)).
 
 #### (B) Interest in unincorporated trade or business
 
@@ -192,7 +192,7 @@ Subsec. (d)(9). Pub. L. 101–140, §204(a)(2)(A), added par. (9).
 
 Subsec. (e)(6). Pub. L. 101–140, §204(a)(3)(C), substituted “(8)” for “(7)”.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1011B(c)(2)(A), amended par. (2) generally. Prior to amendment, par.\(2) read as follows: “The aggregate amount excluded from the gross income of the taxpayer under this section for any taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).”
+1988—Subsec. (a)(2). Pub. L. 100–647, §1011B(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The aggregate amount excluded from the gross income of the taxpayer under this section for any taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).”
 
 Subsec. (d)(1)(B). Pub. L. 100–647, §1011B(a)(30), substituted “(7)” for “(6)”, see Codification note above.
 

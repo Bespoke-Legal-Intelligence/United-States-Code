@@ -36,11 +36,11 @@ Definitions.—In this chapter:
 
 #### Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands
 
-Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, provided that: “The Chairman of the Joint Chiefs of Staff shall consider, as part of the next periodic review by the Chairman of the missions, responsibilities, and force structure of the unified combatant commands pursuant to section 161(b) of title 10, United States Code, the following matters:
+Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, provided that: “The Chairman of the Joint Chiefs of Staff shall consider, as part of the next periodic review by the Chairman of the missions, responsibilities, and force structure of the unified combatantcommands pursuant to section 161(b) of title 10, United States Code, the following matters:
 
 &emsp;“(1) Whether there exists an adequate distribution of threats, mission requirements, and responsibilities for geographic areas among the regional unified combatant commands.
 
-&emsp;“(2) Whether reductions in the overall force structure of the Armed Forces permit the United States to better execute its warfighting plans through fewer ordifferently configured unified combatant commands, including—
+&emsp;“(2) Whether reductions in the overall force structure of the Armed Forces permit the United States to better execute its warfighting plans through fewer or differently configured unified combatant commands, including—
 
 &emsp;&emsp;“(A) a total of five or fewer commands, all of which are regional;
 
@@ -64,5 +64,5 @@ Section 212 of Pub. L. 99–433 set out 10 areas to be covered in first review o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 153, 167, 1051 of this title.
+This section is referred to in sections 153, 167, 1051, 1406 of this title.
 

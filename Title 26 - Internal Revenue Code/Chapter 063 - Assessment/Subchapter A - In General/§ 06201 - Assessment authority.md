@@ -34,7 +34,7 @@ The Secretary is authorized and required to make the inquiries, determinations, 
 
 #### (c) Compensation of child
 
-Any income tax under chapter 1 assessed against a child, to the extent attributable to amounts includible in the gross income of the child, and not of the parent, solely by reason of section 73(a), shall, if not paid by the child, for all purposes be considered as having also been properly assessed against the parent.
+Any income tax under chapter 1 assessed against a child, to the extent attributable to amounts includible in the gross income of the child, and not of the parent, solely by reason of section 73(a), shall, if not paid by the child, forall purposes be considered as having also been properly assessed against the parent.
 
 #### (d) Required reasonable verification of information returns
 

@@ -142,7 +142,7 @@ Study.—Not later than 6 months after the date of enactment of this Act \[June 
 
 Terms of Agreement.—The agreement entered into in subsection (a) shall provide that—
 
-&emsp;“(1) the Transportation Research Board, in conducting the study, consider the number of grant recipients that have contracted out services, the size of the population served by such grant recipients, the basis for decisions regarding contracting out, and the extent to which contracting out was affected by the integration and coordination of resources of transit agencies and other Federal agencies and programs; and
+&emsp;“(1) the Transportation Research Board, in conducting the study, consider the number of grant recipients that have contracted out services, the size of the population served by such grant recipients, the basis for decisions regarding contracting out, and the extent to which contracting out was affected by theintegration and coordination of resources of transit agencies and other Federal agencies and programs; and
 
 &emsp;“(2) the panel conducting the study shall include representatives of transit agencies, employees of transit agencies, private contractors, academic and policy analysts, and other interested persons.
 

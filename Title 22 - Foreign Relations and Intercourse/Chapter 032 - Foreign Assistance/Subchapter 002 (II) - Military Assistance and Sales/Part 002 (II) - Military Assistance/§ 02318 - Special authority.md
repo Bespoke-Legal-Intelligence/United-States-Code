@@ -70,7 +70,7 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 Subsec. (a)(2)(B). Pub. L. 106–280, §121(a), substituted “$200,000,000” for “$150,000,000” in introductory provisions.
 
-1997—Subsec. (b)(2). Pub. L. 105–118, §576(1), inserted before period at end “, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Such report shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets”.
+1997—Subsec. (b)(2). Pub. L. 105–118, §576(1), inserted before period at end “, including providing the Congress with a report detailing all defense articles, defense services, and military education and training delivered to the recipient country or international organization upon delivery of such articles or upon completion of such services or education and training. Suchreport shall also include whether any savings were realized by utilizing commercial transport services rather than acquiring those services from United States Government transport assets”.
 
 Subsecs. (c), (d). Pub. L. 105–118, §576(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 

@@ -71,7 +71,7 @@ Subsec. (b). Pub. L. 97–34 substituted definition of “preceding calendar per
 
 Subsecs. (c), (d). Pub. L. 97–34 redesignated subsec. (d) as (c). Former subsec. (c), defining “preceding calendar years” and “preceding calendar quarters”, was incorporated in subsec. (b).
 
-1976—Subsec. (a). Pub. L. 94–455 inserted “tentative” after “(1) a” and “(2) a” and substituted in par. (1)“section 2001(c)” for “this subsection” after “set forth in”.
+1976—Subsec. (a). Pub. L. 94–455 inserted “tentative” after “(1) a” and “(2) a” and substituted in par. (1) “section 2001(c)” for “this subsection” after “set forth in”.
 
 1970—Subsec. (a). Pub. L. 91–614, §102(a)(2)(A), substituted a computation of tax formula based on the current calendar quarter, preceding calendar quarters, and preceding calendar years for a formula based entirely on the current and preceding calendar years.
 

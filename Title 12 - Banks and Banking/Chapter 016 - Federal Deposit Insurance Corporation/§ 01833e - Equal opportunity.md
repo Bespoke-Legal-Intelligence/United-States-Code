@@ -44,7 +44,7 @@ Before the end of the 180-day period beginning on August 9, 1989—
 
 &emsp;(8) the Federal National Mortgage Association,
 
-> shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections (a) and (b) of this section and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
+> shall each submit to the Congress a report containing a complete description of the actions taken by such agency pursuant to subsections\(a) and (b) of this section and such recommendations for administrative and legislative action as each such agency may determine to be appropriate to carry out the purposes of such subsection.
 
 (Pub. L. 101–73, title XII, §1216, Aug. 9, 1989, 103 Stat. 529; Pub. L. 102–233, title III, §302(a), Dec. 12, 1991, 105 Stat. 1767.)
 

@@ -10,7 +10,7 @@ Each administrator of an employee pension benefit plan shall furnish to any plan
 
 #### (b) One-per-year limit on reports
 
-In no case shall a participant or beneficiary be entitled under this section to receive more thanone report described in subsection (a) of this section during any one 12-month period.
+In no case shall a participant or beneficiary be entitled under this section to receive more than one report described in subsection (a) of this section during any one 12-month period.
 
 #### (c) Individual statement furnished by administrator to participants setting forth information in administrator's Internal Revenue registration statement and notification of forfeitable benefits
 

@@ -1,6 +1,6 @@
 ### §1500. Pendency of claims in other courts
 
-The United States Court of Federal Claims shall not have jurisdiction of any claim for or in respect to which the plaintiff or his assignee has pending in any other court any suit or process against the United States or any person who, at the time when the cause of action alleged insuch suit or process arose, was, in respect thereto, acting or professing to act, directly or indirectly under the authority of the United States.
+The United States Court of Federal Claims shall not have jurisdiction of any claim for or in respect to which the plaintiff or his assignee has pending in any other court any suit or process against the United States or any person who, at the time when the cause of action alleged in such suit or process arose, was, in respect thereto, acting or professing to act, directly or indirectly under the authority of the United States.
 
 (June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

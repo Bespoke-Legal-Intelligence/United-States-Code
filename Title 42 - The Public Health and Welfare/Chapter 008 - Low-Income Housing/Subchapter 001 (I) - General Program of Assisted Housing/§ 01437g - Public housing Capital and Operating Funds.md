@@ -332,27 +332,11 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (n) Treatment of public housing
 
-#### (1) Certain State and city funded housing
-
-#### (A) In general
-
-&emsp;&emsp;Notwithstanding any other provision of this section—
-
-&emsp;&emsp;&emsp;(i) for purposes of determining the allocations from the Operating and Capital Funds pursuant to the formulas under subsections (d)(2) and (e)(2) of this section and determining assistance pursuant to section 519(e) of the Quality Housing and Work Responsibility Act of 1998 and under section 1437g or 1437<i>l</i> of this title (as in effect before October 21, 1998), for any period before the implementation of such formulas, the Secretary shall deem any covered locally developed public housing units as public housing units developed under this subchapter and such units shall be eligible for such assistance; and
-
-&emsp;&emsp;&emsp;(ii) assistance provided under this section, under such section 518(d)(3),<sup>3</sup> or under such section 1437g or 1437<i>l</i> of this title to any public housing agency may be used with respect to any covered locally developed public housing units.
-
-#### (B) Covered units
-
-&emsp;&emsp;For purposes of this paragraph, the term “covered locally developed public housing units” means—
-
-&emsp;&emsp;&emsp;(i) not more than 7,000 public housing units developed pursuant to laws of the State of New York and that received debt service and operating subsidies pursuant to such laws; and
-
-&emsp;&emsp;&emsp;(ii) not more than 5,000 dwelling units developed pursuant to section 34 of chapter 121B of the General Laws of the State of Massachusetts.
+#### (1) Repealed. Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authoritymay, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>4</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
@@ -362,23 +346,21 @@ A public housing agency that receives income from nonrental sources (as determin
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503.)
 
 #### References in Text
 
 The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
 
-Section 1437<i>l</i> of this title, referred to in subsecs. (a), (d)(3)(A), (B), and (n)(1)(A)(i), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
-
-#### Codification
-
-October 21, 1998, referred to in subsec. (n)(1)(A)(i), was in the original “the date of the enactment of this Act”, which has been translated as referring to the date of enactment of the Quality Housing and Work Responsibility Act of 1998, title V of Pub. L. 105–276, which amended this section generally, to reflect the probable intent of Congress.
+Section 1437<i>l</i> of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 #### Prior Provisions
 
 A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
+
+2003—Subsec. (n)(1). Pub. L. 108–7 struck out par. (1) which related to treatment of certain covered locally developed public housing units as eligible public housing units.
 
 2000—Subsec. (d)(1)(E). Pub. L. 106–377, §1(a)(1) \[title II, §214(a)(1)\], inserted before semicolon “, including the establishment and initial operation of computer centers in and around public housing through a Neighborhood Networks initiative, for the purpose of enhancing the self-sufficiency, employability, and economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
 
@@ -458,6 +440,10 @@ Pub. L. 95–24 substituted “and not to exceed $595,600,000 on or after Octobe
 
 1976—Subsec. (c). Pub. L. 94–375 substituted provision authorizing appropriations for annual contributions not to exceed $535,000,000 on or after July 1, 1975, not to exceed $80,000,000 on or after July 1, 1976, and not to exceed $576,000,000 on or after October 1, 1976 for provision which authorized annual contributions for contracts entered into on or after July 1, 1974 of not more than $500,000,000 per annum, which amount was to be increased by $60,000,000 on July 1, 1975.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–7, div. K, title II, §212(c), Feb. 20, 2003, 117 Stat. 504, provided that: “The amendment made by subsection (a) \[amending this section\] shall be deemed to have taken effect on October 1, 1998.”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
@@ -470,7 +456,7 @@ Transitional Provision of Assistance.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437<i>l</i>\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sectionsthat may be contained in title II of this Act \[see Tables for classification\]).
+In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437<i>l</i>\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
 
 &emsp;“(2)
 
@@ -480,7 +466,7 @@ Qualifications.—Before the implementation of formulas pursuant to sections 9(d
 
 &emsp;&emsp;“(B) if a public housing agency establishes a rental amount that is based on an adjustment to income under section 3(b)(5)(G) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(5)(G)\] (as in effect immediately before the enactment of this Act \[Oct. 21, 1998\]), the Secretary shall not take into account any reduction of or any increase in the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\]; and
 
-&emsp;&emsp;“(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributions for the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
+&emsp;&emsp;“(C) if a public housing agency establishes a rental amount other than as provided under subparagraph (A) or (B) that is less than the greatest of the amounts determined under subparagraphs (A), (B), and (C) of section 3(a)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)(1)(A), (B), (C)\], the Secretary shall not take into account any reduction of the per unit dwelling rental income of the public housing agency resulting from the use of that rental amount in calculating the contributionsfor the public housing agency for the operation of the public housing under section 9 of the United States Housing Act of 1937 \[42 U.S.C. 1437g\].
 
 “(f)
 
@@ -514,6 +500,14 @@ Amendment by Pub. L. 95–557 effective Oct. 1, 1978, see section 206(h) of Pub.
 
 Section effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after Aug. 22, 1974, except that all of the provisions of subsec. (c) shall become effective on the same date, see section 201(b) of Pub. L. 93–383, set out as a note under section 1437 of this title.
 
+#### Regulations
+
+Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in part: “That the Secretary shall issue final regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), not later than August 1, 2003”.
+
+#### Funding of Covered Locally Developed Public Housing Units Prohibited
+
+Pub. L. 108–7, div. K, title II, §207, Feb. 20, 2003, 117 Stat. 502, provided that: “Notwithstanding any other provision of law, no funds in this Act or in any other Act in any fiscal year, including all future and prior fiscal years, may be used hereafter by the Secretary of Housing and Urban Development to provide any assistance or other funds for housing units defined in section 9(n) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(n)\] (as in effect immediately before the enactment of this Act \[Feb. 20, 2003\]) as ‘covered locally developed public housing units’. The States of New York and Massachusetts shall reimburse any funds already made available under any appropriations Act for these units to the Secretary of Housing and Urban Development for reallocation to public housing agencies: <i>Provided</i>, That, if either State fails to make such reimbursement within 12 months, the Secretary shall recapture such funds through reductions from the amounts allocated to each State under section 106 of the Housing and Community Development Act of 1974 \[42 U.S.C. 5306\].”
+
 #### Applicability of Penalties for Slow Expenditure of Capital Funds
 
 Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: “That, hereafter, notwithstanding any other provision of law or any failure of the Secretary of Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \[“
@@ -536,7 +530,5 @@ This section is referred to in sections 1437a, 1437c, 1437c–1, 1437d, 1437k, 1
 
 <i><sup>2</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be section “519(d)(3),”.</i>
-
-<i><sup>4</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original.</i>
 

@@ -1,6 +1,6 @@
 ### §295. Conditions upon designation and assignment
 
-No designation and assignment of a circuit or district judge in active service shall be madewithout the consent of the chief judge or judicial council of the circuit from which the judge is to be designated and assigned. No designation and assignment of a judge of any other court of the United States in active service shall be made without the consent of the chief judge of such court.
+No designation and assignment of a circuit or district judge in active service shall be made without the consent of the chief judge or judicial council of the circuit from which the judge is to be designated and assigned. No designation and assignment of a judge of any other court of the United States in active service shall be made without the consent of the chief judge of such court.
 
 All designations and assignments of justices and judges shall be filed with the clerks and entered on the minutes of the courts from and to which made.
 

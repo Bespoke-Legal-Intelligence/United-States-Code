@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-duty training, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training;
 
-&emsp;&emsp;(E) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training; or
+&emsp;&emsp;(E) hospitalized or undergoing treatment for an injury, illness, or disease incurred oraggravated while on active duty or performing inactive-duty training; or
 
 &emsp;&emsp;(F) either—
 
@@ -100,9 +100,9 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 
 “(2) any Reserve of an armed force under his jurisdiction who dies while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;
 
-“(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from theUnited States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
+“(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
 
-1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
+1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
 
 #### Effective Date of 2000 Amendment
 

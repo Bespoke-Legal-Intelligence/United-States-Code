@@ -38,7 +38,7 @@
 
 #### (ii) Amount
 
-&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, or unit installation not provided directly by the President.
+&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rentfor the accommodation provided plus the cost of any transportation, utility hookups, or unit installation not provided directly by the President.
 
 #### (B) Direct assistance
 
@@ -128,7 +128,7 @@
 
 #### (iv) Hazard and flood insurance
 
-&emsp;&emsp;&emsp;A sale of a temporary housing unit under clause (i) shall be made on the condition that the individual or household purchasing the housing unit agrees to obtain and maintain hazard and flood insurance on the housing unit.
+&emsp;&emsp;&emsp;A sale of a temporary housing unit under clause (i) shall be made on the condition that the individual or household purchasing the housing unit agrees to obtain andmaintain hazard and flood insurance on the housing unit.
 
 #### (v) Use of GSA services
 
@@ -214,7 +214,7 @@ A prior section 408 of Pub. L. 93–288 was classified to section 5178 of this t
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: “The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect18 months after the date of the enactment of this Act \[Oct. 30, 2000\].”
 
 #### Section Referred to in Other Sections
 

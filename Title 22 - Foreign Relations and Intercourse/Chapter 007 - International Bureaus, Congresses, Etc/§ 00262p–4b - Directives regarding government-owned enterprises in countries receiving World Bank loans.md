@@ -14,7 +14,7 @@ In order to assist and strengthen the advancement of ongoing efforts to have the
 
 &emsp;The United States Executive Director of the International Bank for Reconstruction and Development shall submit 3 reports to the Congress on—
 
-&emsp;&emsp;(A) the progress made in transforming government-owned enterprises into privately owned enterprises as described in subsection (b) of this section;
+&emsp;&emsp;(A) the progress made in transforming government-owned enterprises into privatelyowned enterprises as described in subsection (b) of this section;
 
 &emsp;&emsp;(B) the performance of the privately owned enterprises resulting from such transformation; and
 
@@ -22,7 +22,7 @@ In order to assist and strengthen the advancement of ongoing efforts to have the
 
 #### (2) Timing
 
-&emsp;The United States Executive Director of the International Bank for Reconstruction and Development shall submit to the Congress the first report required by paragraph (1) within 1year after October 1, 1988, and shall submit additional reports 12 months, and 24 months, after the date the first report is submitted.
+&emsp;The United States Executive Director of the International Bank for Reconstruction and Development shall submit to the Congress the first report required by paragraph (1) within 1 year after October 1, 1988, and shall submit additional reports 12 months, and 24 months, after the date the first report is submitted.
 
 (Pub. L. 95–118, title XVI, §1607, as added Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 

@@ -46,7 +46,7 @@ The functions of the Administrator shall include—
 
 &emsp;&emsp;(A) foster and promote the development of a professional acquisition workforce Government-wide;
 
-&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve the procurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
+&emsp;&emsp;(B) promote and coordinate Government-wide research and studies to improve theprocurement process and the laws, policies, methods, regulations, procedures, and forms relating to acquisition by the executive agencies;
 
 &emsp;&emsp;(C) collect data and analyze acquisition workforce data from the Office of Personnel Management, the heads of executive agencies, and, through periodic surveys, from individual employees;
 
@@ -92,7 +92,7 @@ In carrying out the functions set forth in subsection (d) of this section, the A
 
 #### (f) Oversight of regulations promulgated by other agencies relating to procurement
 
-The Administrator, with the concurrence of the Director of the Office of Management andBudget, and with consultation with the head of the agency or agencies concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that such rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (a) of this section.
+The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency or agencies concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that such rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (a) of this section.
 
 #### (g) Assignment, delegation, or transfer of functions prohibited
 
@@ -108,7 +108,7 @@ Nothing in this chapter shall be construed to—
 
 #### (i) Recipients of Federal grants or assistance
 
-(1) With due regard to applicable laws and the program activities of the executive agencies administering Federal programs of grants or assistance, the Administrator may prescribe Government-wide policies, regulations, procedures, and forms which the Administrator considers appropriate and which shall be followed by such executive agencies in providing for the procurement, to the extent required under such programs, of property or services referred to in clauses (1), (2), and (3) of subsection (a) of this section by recipients of Federal grants or assistance under such programs.
+(1) With due regard to applicable laws and the program activities of the executive agencies administering Federal programs of grants or assistance, the Administrator may prescribe Government-wide policies, regulations, procedures, and forms which the Administrator considers appropriate and which shall be followed by such executive agencies in providing for the procurement, to the extent required under such programs, of property or services referred to in clauses (1), (2), and (3) of subsection (a) of thissection by recipients of Federal grants or assistance under such programs.
 
 (2) Nothing in paragraph (1) shall be construed to—
 
@@ -242,6 +242,60 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Amendment by Pub. L. 96–83 effective Oct. 1, 1979, see section 12 of Pub. L. 96–83, set out as a note under section 401 of this title.
 
+#### Federal Support for Enhancement of State and Local Anti-Terrorism Response Capabilities
+
+Pub. L. 108–136, div. A, title VIII, §803, Nov. 24, 2003, 117 Stat. 1541, provided that:
+
+“(a)
+
+Procurements of Anti-Terrorism Technologies and Services by State and Local Governments.—The Administrator for Federal Procurement Policy shall establish a program under which States and units of local government may procure through contracts entered into by the Department of Defense or the Department of Homeland Security anti-terrorism technologies or anti-terrorism services for the purpose of preventing, detecting, identifying, deterring, or recovering from acts of terrorism.
+
+“(b)
+
+Authorities.—Under the program, the Secretary of Defense and the Secretary of Homeland Security may, but shall not be required to, award contracts using the procedures established by the Administrator of General Services for the multiple awards schedule program of the General Services Administration.
+
+“(c)
+
+Definition.—In this section, the term ‘State or local government’ has the meaning provided in section 502(c)(3) of title 40, United States Code.”
+
+#### Statutory and Regulatory Review
+
+Pub. L. 108–136, div. A, title XIV, §1423, Nov. 24, 2003, 117 Stat. 1669, provided that:
+
+“(a)
+
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Administrator for Federal Procurement Policy shall establish an advisory panel to review laws and regulations regarding the use of commercial practices, performance-based contracting, the performance of acquisition functions across agency lines of responsibility, and the use of Governmentwide contracts.
+
+“(b)
+
+Membership.—The panel shall be composed of at least nine individuals who are recognized experts in acquisition law and Government acquisition policy. In making appointments to the panel, the Administrator shall—
+
+&emsp;“(1) consult with the Secretary of Defense, the Administrator of General Services, the Committees on Armed Services and Government Reform of the House of Representatives, and the Committees on Armed Services and Governmental Affairs of the Senate; and
+
+&emsp;“(2) ensure that the members of the panel reflect the diverse experiences in both the public and private sectors, including academia.
+
+“(c)
+
+Duties.—The panel shall—
+
+&emsp;“(1) review all Federal acquisition laws and regulations, and, to the extent practicable, government-wide acquisition policies, with a view toward ensuring effective and appropriate use of commercial practices and performance-based contracting; and
+
+&emsp;“(2) make any recommendations for the modification of such laws, regulations, or policies that are considered necessary as a result of such review—
+
+&emsp;&emsp;“(A) to protect the best interests of the Federal Government;
+
+&emsp;&emsp;“(B) to ensure the continuing financial and ethical integrity of acquisitions by the Federal Government; and
+
+&emsp;&emsp;“(C) to amend or eliminate any provisions in such laws, regulations, or policies that are unnecessary for the effective, efficient, and fair award and administration of contracts for the acquisition by the Federal Government of goods and services.
+
+“(d)
+
+Report.—Not later than one year after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
+
+#### Center of Excellence in Service Contracting
+
+Pub. L. 108–136, div. A, title XIV, §1431(b), Nov. 24, 2003, 117 Stat. 1671, provided that: “Not later than 180 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Administrator for Federal Procurement Policy shall establish a center of excellence in contracting for services. The center of excellence shall assist the acquisition community by identifying, and serving as a clearinghouse for, best practices in contracting for services in the public and private sectors.”
+
 #### Reporting of Bundled Contract Opportunities
 
 Section 414 of title IV of Pub. L. 105–135 provided that:
@@ -344,7 +398,7 @@ Procedures and Schedule.—(1) The Administrator for Federal Procurement Policy 
 
 “(d)
 
-Report.—Not later than May 1, 1996, the Administrator for Federal Procurement Policy shall submitto the Committees on Small Business of the Senate and the House of Representatives a report on the results of the review carried out under subsection (a) and the actions taken under subsection (b). The report shall include a discussion of the results of the review, a description of the consultations conducted and public comments received, and the Administrator's recommendations with regard to the matters identified under subsection (b).”
+Report.—Not later than May 1, 1996, the Administrator for Federal Procurement Policy shall submit to the Committees on Small Business of the Senate and the House of Representatives a report on the results of the review carried out under subsection (a) and the actions taken under subsection (b). The report shall include a discussion of the results of the review, a description of the consultations conducted and public comments received, and the Administrator's recommendations with regard to the matters identified under subsection (b).”
 
 #### Data Collection Through Federal Procurement Data System
 

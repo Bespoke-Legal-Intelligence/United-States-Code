@@ -42,7 +42,7 @@ The Institute is authorized to—
 
 &emsp;(8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter;
 
-&emsp;(9) encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development,maintenance, and coordination of criminal and civil justice programs and services; and
+&emsp;(9) encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development, maintenance, and coordination of criminal and civil justice programs and services; and
 
 &emsp;(10) research and development of tools and technologies relating to prevention, detection, investigation, and prosecution of crime; and
 

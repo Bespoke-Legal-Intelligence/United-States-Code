@@ -128,11 +128,11 @@ For purposes of this section—
 
 &emsp;If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, titleVI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; amended Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68.)
+(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, title VI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68.)
 
-#### Adjustment of Amounts to Determine Availability of Interest Deduction for Taxable Years Beginning in 2003
+#### Adjustment of Amounts to Determine Availability of Interest Deduction for Taxable Years Beginning in 2004
 
-<i>For adjustment of maximum deduction in subsection (b)(2)(B) of this section for interest paid on qualified education loans for taxable years beginning in 2003, see section 3.18 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of maximum deduction in subsection (b)(2)(B) of this section for interest paid on qualified education loans for taxable years beginning in 2004, see section 3.20 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -144,7 +144,7 @@ The date of the enactment of this Act, referred to in subsec. (d)(2), probably m
 
 #### Prior Provisions
 
-A prior section 221 was renumbered section 223 of this title.
+A prior section 221 was renumbered section 224 of this title.
 
 Another prior section 221, added Pub. L. 97–34, title I, §103(a), Aug. 13, 1981, 95 Stat. 187; amended Pub. L. 97–448, title III, §305(d)(4), Jan. 12, 1983, 96 Stat. 2400, related to deduction for two-earner married couples, prior to repeal by Pub. L. 99–514, title I, §131(a), Oct. 22, 1986, 100 Stat. 2113, applicable to taxable years beginning after Dec. 31, 1986.
 

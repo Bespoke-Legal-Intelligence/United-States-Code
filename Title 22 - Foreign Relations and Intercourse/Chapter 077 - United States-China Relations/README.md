@@ -129,9 +129,9 @@
 | [7001\.](Subchapter%20006%20%28VI%29%20-%20Related%20Issues/%C2%A7%2007001%20-%20Authorizations%20of%20appropriations%20for%20broadcasting%20capital%20improvements%20and%20international%20broadcasting%20operations.md) | Authorizations of appropriations for broadcasting capital improvements and international broadcasting operations. |
 | (a) | Broadcasting capital improvements. |
 | (b) | International broadcasting operations. |
-| [7002\.](Subchapter%20006%20%28VI%29%20-%20Related%20Issues/%C2%A7%2007002%20-%20United%20States-China%20Security%20Review%20Commission.md) | United States-China Security Review Commission. |
+| [7002\.](Subchapter%20006%20%28VI%29%20-%20Related%20Issues/%C2%A7%2007002%20-%20United%20States-China%20Economic%20and%20Security%20Review%20Commission.md) | United States-China Economic and Security Review Commission. |
 | (a) | Purposes. |
-| (b) | Establishment of United States-China Security Review Commission. |
+| (b) | Establishment of United States-China Economic and Security Review Commission. |
 | (c) | Duties. |
 | (d) | Hearings. |
 | (e) | Commission personnel matters. |

@@ -104,17 +104,17 @@ Notice to congress.—Not later than 30 days after making a determination under 
 
 Federal Agency Defined.—In this Act, the term ‘Federal agency’ means—
 
-&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
+&emsp;“(1) an executive department, military department, Government corporation, Government-controlled corporation, or other establishment in the executive branch of the Government (including the ExecutiveOffice of the President), or any independent regulatory agency; and
 
 &emsp;“(2) an establishment or component of the legislative or judicial branch of the Government.”
 
 #### Government Publications: Printing; GPO Procurement; Executive Branch Procurement of Certain Kinds of Printing; “Printing” Defined
 
-Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, §1112(e)(1), Sept. 23, 1996, 110 Stat. 2683, provided that:
+Pub. L. 102–392, title II, §207(a), Oct. 6, 1992, 106 Stat. 1719, as amended by Pub. L. 103–283, title II, §207, July 22, 1994, 108 Stat. 1440; Pub. L. 104–201, div. A, title XI, §1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that:
 
 “(1) None of the funds appropriated for any fiscal year may be obligated or expended by any entity of the executive branch for the procurement of any printing related to the production of Government publications (including printed forms), unless such procurement is by or through the Government Printing Office.
 
-“(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Imagery and Mapping Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
+“(2) Paragraph (1) does not apply to (A) individual printing orders costing not more than $1,000, if the work is not of a continuing or repetitive nature, and, as certified by the Public Printer, if the work is included in a class of work which cannot be provided more economically through the Government Printing Office, (B) printing for the Central Intelligence Agency, the Defense Intelligence Agency, National Geospatial-Intelligence Agency, or the National Security Agency, or (C) printing from other sources that is specifically authorized by law.
 
 “(3) As used in this section, the term ‘printing’ includes the processes of composition, platemaking, presswork, duplicating, silk screen processes, binding, microform, and the end items of such processes.”
 

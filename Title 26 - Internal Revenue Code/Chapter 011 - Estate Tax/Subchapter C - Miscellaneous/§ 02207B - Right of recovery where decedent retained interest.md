@@ -24,7 +24,7 @@ In the case of penalties and interest attributable to the additional taxes descr
 
 #### (d) No right of recovery against charitable remainder trusts
 
-No person shall be entitled to recover any amount by reason of this section from a trust towhich section 664 applies (determined without regard to this section).
+No person shall be entitled to recover any amount by reason of this section from a trust to which section 664 applies (determined without regard to this section).
 
 (Added Pub. L. 100–647, title III, §3031(f)(1), Nov. 10, 1988, 102 Stat. 3637; amended Pub. L. 101–508, title XI, §11601(b)(1), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 105–34, title XIII, §1302(b), Aug. 5, 1997, 111 Stat. 1039.)
 

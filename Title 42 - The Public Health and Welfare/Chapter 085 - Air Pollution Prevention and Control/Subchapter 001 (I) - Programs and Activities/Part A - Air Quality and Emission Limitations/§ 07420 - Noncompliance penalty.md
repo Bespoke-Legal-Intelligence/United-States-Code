@@ -10,7 +10,7 @@
 
 (2)(A) Except as provided in subparagraph (B) or (C) of this paragraph, the State or the Administrator shall assess and collect a noncompliance penalty against every person who owns or operates—
 
-&emsp;(i) a major stationary source (other than a primary nonferrous smelter which has received a primary nonferrous smelter order under section 7419 of this title), which is not in compliance with any emission limitation, emission standard or compliance scheduleunder any applicable implementation plan (whether or not such source is subject to a Federal or State consent decree), or
+&emsp;(i) a major stationary source (other than a primary nonferrous smelter which has received a primary nonferrous smelter order under section 7419 of this title), which is not in compliance with any emission limitation, emission standard or compliance schedule under any applicable implementation plan (whether or not such source is subject to a Federal or State consent decree), or
 
 &emsp;(ii) a stationary source which is not in compliance with an emission limitation, emission standard, standard of performance, or other requirement established under section 7411, 7477, 7603, or 7412 of this title, or
 
@@ -56,7 +56,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;&emsp;(B) submit a petition, within forty–five days after the issuance of such notice, challenging such notice of noncompliance or alleging entitlement to an exemption under subsection (a)(2)(B) of this section with respect to a particular source;
 
-&emsp;(5) require the Administrator to provide a hearing on the record (within the meaning ofsubchapter II of chapter 5 of title 5) and to make a decision on such petition (including findings of fact and conclusions of law) not later than ninety days after the receipt of any petition under paragraph (4)(B), unless the State agrees to provide a hearing which is substantially similar to such a hearing on the record and to make a decision on such petition (including such findings and conclusions) within such ninety-day period;
+&emsp;(5) require the Administrator to provide a hearing on the record (within the meaning of subchapter II of chapter 5 of title 5) and to make a decision on such petition (including findings of fact and conclusions of law) not later than ninety days after the receipt of any petition under paragraph (4)(B), unless the State agrees to provide a hearing which is substantially similar to such a hearing on the record and to make a decision on such petition (including such findings and conclusions) within such ninety-day period;
 
 &emsp;(6)(A) authorize the Administrator on his own initiative to review the decision of the State under paragraph (5) and disapprove it if it is not in accordance with the requirements of this section, and (B) require the Administrator to do so not later than sixty days after receipt of a petition under this subparagraph, notice, and public hearing and a showing by such petitioner that the State decision under paragraph (5) is not in accordance with the requirements of this section;
 
@@ -96,7 +96,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 (C) For the purpose of this section, the term “period of covered noncompliance” means the period which begins—
 
-&emsp;(i) two years after August 7, 1977, in the case of a source for which notice of noncomplianceunder subsection (b)(3) of this section is issued on or before the date two years after August 7, 1977, or
+&emsp;(i) two years after August 7, 1977, in the case of a source for which notice of noncompliance under subsection (b)(3) of this section is issued on or before the date two years after August 7, 1977, or
 
 &emsp;(ii) on the date of issuance of the notice of noncompliance under subsection (b)(3) of this section, in the case of a source for which such notice is issued after July 1, 1979,
 
@@ -128,7 +128,7 @@ In the case of any emission limitation or other requirement approved or promulga
 
 Section 7413(d) of this title, referred to in subsec. (a)(2)(B), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
 
-Section 1857c–10 of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(i), was in the original “section 119 (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of section 7413 of this title. Section 7413(d) of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
+Section 1857c–10 of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(i), was inthe original “section 119 (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of section 7413 of this title. Section 7413(d) of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
 
 Section 1857c–10(c)(1) of this title (as in effect before August 7, 1977), referred to in subsec. (a)(2)(B)(ii), was in the original “section 119(c)(1) (as in effect before the date of the enactment of the Clean Air Act Amendments of 1977).” See paragraph set out above for explanation of codification.
 

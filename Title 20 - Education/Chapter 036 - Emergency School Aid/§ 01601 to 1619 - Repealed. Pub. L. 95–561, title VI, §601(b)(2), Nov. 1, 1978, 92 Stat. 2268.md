@@ -6,7 +6,7 @@ Section 1602, Pub. L. 92–318, title VII, §703, June 23, 1972, 86 Stat. 354, r
 
 Section 1603, Pub. L. 92–318, title VII, §704, June 23, 1972, 86 Stat. 355; Pub. L. 93–380, title VI, §§641(a), 642(a), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §321(a)–(c)(1), Oct. 12, 1976, 90 Stat. 2216; Pub. L. 95–561, title VI, §601(b)(1), Nov. 1, 1978, 92 Stat. 2268, authorized appropriations for purpose of carrying out this chapter.
 
-Section 1604, Pub. L. 92–318, title VII, §705, June 23, 1972, 86 Stat. 355, related to apportionment to States ofsums appropriated pursuant to section 1603(a) of this title for grants and contracts.
+Section 1604, Pub. L. 92–318, title VII, §705, June 23, 1972, 86 Stat. 355, related to apportionment to States of sums appropriated pursuant to section 1603(a) of this title for grants and contracts.
 
 Section 1605, Pub. L. 92–318, title VII, §706, June 23, 1972, 86 Stat. 356; Pub. L. 93–380, title VI, §643(a), (b), Aug. 21, 1974, 88 Stat. 587; S. Res. 4, Feb. 4, 1977, related to eligibility for assistance.
 
@@ -16,7 +16,7 @@ Section 1607, Pub. L. 92–318, title VII, §708, June 23, 1972, 86 Stat. 360; P
 
 Section 1608, Pub. L. 92–318, title VII, §709, June 23, 1972, 86 Stat. 361; Pub. L. 93–380, title II, §222, title VI, §642(b), Aug. 21, 1974, 88 Stat. 519, 587; Pub. L. 94–482, title V, §501(i), Oct. 12, 1976, 90 Stat. 2237, related to availability of sums for metropolitan area projects.
 
-Section 1609, Pub. L. 92–318, title VII, §710, June 23, 1972, 86 Stat. 362; Pub. L. 93–380, title VI, §643(c), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §323(a)(5), Oct. 12, 1976, 90 Stat. 2218, related to applications for assistance.
+Section 1609, Pub. L. 92–318, title VII, §710, June 23, 1972, 86 Stat. 362; Pub. L. 93–380, title VI, §643(c), Aug.21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §323(a)(5), Oct. 12, 1976, 90 Stat. 2218, related to applications for assistance.
 
 Section 1610, Pub. L. 92–318, title VII, §711, June 23, 1972, 86 Stat. 366, related to availability of funds for educational television.
 

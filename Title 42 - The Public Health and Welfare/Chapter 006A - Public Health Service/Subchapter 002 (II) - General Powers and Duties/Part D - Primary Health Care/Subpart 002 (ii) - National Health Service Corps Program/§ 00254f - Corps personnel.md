@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(V) there is a reasonable prospect of sound fiscal management, including efficient collection of fee-for-service, third-party, and other appropriate funds, by the entity with respect to Corps members assigned to such entity.
 
-> An application for assignment of a Corps member to a health professional shortage area shall include a demonstration by the applicant thatthe area or population group to be served by the applicant has a shortage of personal health services and that the Corps member will be located so that the member will provide services to the greatest number of persons residing in such area or included in such population group. Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under section 254e(b) of this title and on additional criteria which the Secretary shall prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services.
+> An application for assignment of a Corps member to a health professional shortage area shall include a demonstration by the applicant that the area or population group to be served by the applicant has a shortage of personal health services and that the Corps member will be located so that the member will provide services to the greatest number of persons residing in such area or included in such population group. Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under section 254e(b) of this title and on additional criteria which the Secretary shall prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services.
 
 (2) Corps members may be assigned to a Federal health care facility, but only upon the request of the head of the department or agency of which such facility is a part.
 
@@ -76,9 +76,11 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
-(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645.)
+(July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### Amendments
+
+2003—Subsec. (a)(1)(C). Pub. L. 108–163 realigned margin.
 
 2002—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out “(specified in the agreement described in section 254g of this title)” after “assignment period” in introductory provisions.
 
@@ -102,7 +104,7 @@ Subsec. (b). Pub. L. 101–597, §103(b), redesignated subsec. (d) as (b) and st
 
 Subsec. (c). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-Pub. L. 101–597, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to applications, consideration and approval by Secretary, priorities, cooperation with Corps members, and comments by health professionals and societies in designated areas.
+Pub. L. 101–597, §103(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to applications, consideration and approval by Secretary,priorities, cooperation with Corps members, and comments by health professionals and societies in designated areas.
 
 Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in pars. (1) to (4)(A)(i).
 
@@ -134,9 +136,13 @@ Subsecs. (d) to (f). Pub. L. 97–35, §2703(d), added subsec. (d) and redesigna
 
 Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as (g) and substituted “may” for “shall” in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that “may” besubstituted for “shall” which was executed by substituting “may” for “shall” in two places preceding par. (1). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that “may” be substituted for “shall” which was executed by substituting “may” for “shall” in two places preceding par. (1). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 97–35, §2703(d), (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date of 1981 Amendment
 

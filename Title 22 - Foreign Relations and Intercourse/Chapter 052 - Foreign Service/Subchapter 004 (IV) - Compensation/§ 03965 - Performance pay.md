@@ -26,7 +26,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 #### (c) Determination of amount by Secretary; distribution on basis of selection board recommendations
 
-The Secretary shall determine the amount of performance pay available under subsection (b)(2) of this section each year for distribution among the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
+The Secretary shall determine the amount of performance pay available under subsection (b)(2) of this section each year for distributionamong the members of the Senior Foreign Service and shall distribute performance pay to particular individuals on the basis of recommendations by selection boards established under section 4002 of this title.
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
@@ -36,7 +36,7 @@ The President may grant awards of performance pay under subsection (b)(3) of thi
 
 Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) of this section (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
-(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987,101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §323\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, §312(a), Sept. 30, 2002, 116 Stat. 1378.)
+(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §323\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, §312(a), Sept. 30, 2002, 116 Stat. 1378.)
 
 #### Amendments
 

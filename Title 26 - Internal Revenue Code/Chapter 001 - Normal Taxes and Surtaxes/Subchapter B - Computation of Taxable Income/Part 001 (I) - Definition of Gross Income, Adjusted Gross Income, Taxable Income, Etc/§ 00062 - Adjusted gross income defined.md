@@ -26,6 +26,10 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 &emsp;&emsp;In the case of taxable years beginning during 2002 or 2003, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
+#### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
+
+&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at a rate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
+
 #### (3) Losses from sale or exchange of property
 
 &emsp;The deductions allowed by part VI (sec. 161 and following) as losses from the sale or exchange of property.
@@ -89,6 +93,10 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 &emsp;The deduction allowed by section 222.
 
 > Nothing in this section shall permit the same item to be deducted more than once.
+
+#### (19) Health savings accounts
+
+&emsp;The deduction allowed by section 223.
 
 #### (b) Qualified performing artist
 
@@ -154,13 +162,17 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 &emsp;A deduction shall be allowed under subsection (a)(2)(D) for expenses only to the extent the amount of such expenses exceeds the amount excludable under section 135, 529(c)(1), or 530(d)(2) for the taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L.104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (a)(2)(E). Pub. L. 108–121 added subpar. (E).
+
+Subsec. (a)(19). Pub. L. 108–173 added par. (19).
 
 2002—Subsec. (a)(2)(D). Pub. L. 107–147, §406(a), added subpar. (D).
 
@@ -250,6 +262,12 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 1962—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective Date of 2003 Amendments
+
+Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: “The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003.”
+
+Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this section \[amending this section and section 162 of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002.”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title IV, §406(c), Mar. 9, 2002, 116 Stat. 44, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
@@ -262,7 +280,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 #### Effective Date of 1997 Amendment
 
-Section 202(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title\] shall apply to anyqualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
+Section 202(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
 
 &emsp;“(1) any loan interest payment due and paid after December 31, 1997, and
 
@@ -272,7 +290,7 @@ Section 975(b) of Pub. L. 105–34 provided that: “The amendment made by this 
 
 #### Effective Date of 1996 Amendments
 
-Section 301(j) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996.”
+Section 301(j) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996.”
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
@@ -348,7 +366,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years of electi
 
 #### Effective Date of 1964 Amendment
 
-Section 213(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[enacting section 217 and redesignating former section 217 as 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\].”
+Section 213(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[enacting section217 and redesignating former section 217 as 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\].”
 
 #### Effective Date of 1962 Amendment
 
@@ -378,5 +396,5 @@ Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 162, 3402 of this title; title 19 section 2401e; title 20 section 1087e; title 21 section 849; title 42 section 1396<i>o</i>.
+This section is referred to in sections 162, 3402 of this title; title 19 section 2401e; title 20 section 1087e; title 21 section 849; title 42 sections 1395r, 1396<i>o</i>.
 

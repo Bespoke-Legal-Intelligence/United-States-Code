@@ -14,7 +14,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 (3) An officer on active duty for service as the Chief of Army Reserve shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-(4) Until October 1, 2003, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Army Reserve if the Secretary of the Army requests the waiver and, in the judgment of the Secretary of Defense—
+(4) Until December 31, 2004, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Chief of Army Reserve if the Secretary of the Army requests the waiver and, in the judgment of the Secretary of Defense—
 
 &emsp;(A) the officer is qualified for service in the position; and
 
@@ -42,7 +42,7 @@ Annual Report.—(1) The Chief of Army Reserve shall submit to the Secretary of 
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 90–168, §2(16), Dec. 1, 1967, 81 Stat. 523, §3019; renumbered §3038 and amended Pub. L. 99–433, title V, §§501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, §1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, §1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, §554(b), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102.)
+(Added Pub. L. 90–168, §2(16), Dec. 1, 1967, 81 Stat. 523, §3019; renumbered §3038 and amended Pub. L. 99–433, title V, §§501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, §1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, §1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, §554(b), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529.)
 
 #### Prior Provisions
 
@@ -50,7 +50,9 @@ A prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from officers of the Army Reserve not on active duty, or on active duty under section 10211 of this title, who—
+2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003” in introductory provisions.
+
+2000—Subsec. (b). Pub. L. 106–398 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from officers of the Army Reserve not on activeduty, or on active duty under section 10211 of this title, who—
 
 &emsp;“(1) have had at least 10 years of commissioned service in the Army Reserve;
 

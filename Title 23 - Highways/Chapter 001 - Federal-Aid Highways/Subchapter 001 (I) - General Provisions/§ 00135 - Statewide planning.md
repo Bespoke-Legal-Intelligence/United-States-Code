@@ -118,7 +118,7 @@ Consultation with governments.—
 
 &emsp;&emsp;&emsp;(i)
 
-Metropolitan areas.—With respect to each metropolitan area in the State, the program shall be developed in cooperation with the metropolitan planning organization designated for the metropolitan area under section 134 of this title and section 5303 of title 49.
+Metropolitan areas.—With respect to each metropolitan area in the State,the program shall be developed in cooperation with the metropolitan planning organization designated for the metropolitan area under section 134 of this title and section 5303 of title 49.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -260,7 +260,7 @@ Subsec. (d). Pub. L. 105–178, §1204(d), reenacted heading without change and 
 
 &emsp;“(3) The concerns of Indian tribal governments having jurisdiction over lands within the boundaries of the State.”
 
-Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan.”
+Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers oftransportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan.”
 
 Subsec. (f). Pub. L. 105–178, §1204(f), amended heading and text of subsec. (f) generally. Prior to amendment, text related to transportation improvement programs, including program development, requirement for inclusion of certain projects for State transportation improvement program, project selection for areas less than 50,000 population, and requirement of biennial review and approval.
 
@@ -276,7 +276,7 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted “sections 5303–5306 a
 
 “(a) The Congress hereby finds and declares it to be in the national interest that each State shall have a continuing program designed to reduce traffic congestion and facilitate the flow of traffic.
 
-“(b) The Secretary may approve under this section any project for improvements on any public road whichproject will directly facilitate and control traffic flow on any of the Federal-aid systems.”
+“(b) The Secretary may approve under this section any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems.”
 
 1976—Pub. L. 94–280 struck out introductory words “Urban area” in section catchline.
 

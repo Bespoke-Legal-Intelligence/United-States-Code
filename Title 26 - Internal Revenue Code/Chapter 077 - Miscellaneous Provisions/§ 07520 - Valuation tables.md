@@ -26,7 +26,7 @@ This section shall not apply for purposes of part I of subchapter D of chapter 1
 
 #### (3) Revision for recent mortality charges
 
-&emsp;Not later than December 31, 1989, the Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years thereafter to take into account the most recent mortality experience available as of the time of the revision.
+&emsp;Not later than December 31, 1989, the Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Suchtables shall be revised not less frequently than once each 10 years thereafter to take into account the most recent mortality experience available as of the time of the revision.
 
 #### (d) Valuation date
 

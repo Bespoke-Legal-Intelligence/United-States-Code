@@ -10,7 +10,7 @@ Sustainment and Operation for Military Purposes.—The Secretary of Defense shal
 
 (b)
 
-Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peaceful civil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
+Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peacefulcivil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
 
 &emsp;(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Plan prepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
 
@@ -34,17 +34,17 @@ Biennial Report.—(1) Not later than 30 days after the end of each even-numbere
 
 &emsp;(B) The capability of the system to satisfy effectively (i) the military requirements for the system that are current as of the date of the report, and (ii) the performance requirements of the Federal Radionavigation Plan.
 
-&emsp;(C) The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.
+&emsp;(C) The status of cooperative activities undertaken by the United States with the governments of other countries concerning the capability of the system or any augmentation of the system to satisfy civil, commercial, scientific, and military requirements, including a discussion of the status and results of activities undertaken under any regional international agreement.
 
-&emsp;(D) The status of cooperative activities undertaken by the United States with the governments of other countries concerning the capability of the system or any augmentation of the system to satisfy civil, commercial, scientific, and military requirements, including a discussion of the status and results of activities undertaken under any regional international agreement.
+&emsp;(D) Progress and challenges in establishing GPS as an international standard for consistency of navigational service.
 
-&emsp;(E) Any progress made toward establishing GPS as an international standard for consistency of navigational service.
+&emsp;(E) Progress and challenges in protecting GPS from jamming, disruption, and interference.
 
-&emsp;(F) Any progress made toward protecting GPS from disruption and interference.
+&emsp;(F) Progress and challenges in developing the enhanced Global Positioning System required by section 218(b) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 1951; 10 U.S.C. 2281 note).
 
 &emsp;(G) The effects of use of the system on national security, regional security, and the economic competitiveness of United States industry, including the Global Positioning System equipment and service industry and user industries.
 
-(2) In preparing the parts of each such report required under subparagraphs (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.
+(2) In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.
 
 (e)
 
@@ -60,13 +60,23 @@ Definitions.—In this section:
 
 &emsp;(2) The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
 
-(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 105–85, div. A, title X, §1074(d)(1), Nov. 18, 1997, 111 Stat. 1909; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title IX, §914, Nov. 24, 2003, 117 Stat. 1567.)
 
 #### References in Text
 
 Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to section 756 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, prior to repeal by Pub. L. 103–414, title III, §304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
 
 #### Amendments
+
+2003—Subsec. (d)(1)(C). Pub. L. 108–136, §914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
+
+Subsec. (d)(1)(D). Pub. L. 108–136, §914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
+
+Subsec. (d)(1)(E). Pub. L. 108–136, §914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
+
+Subsec. (d)(1)(F). Pub. L. 108–136, §914(a)(4), added subpar. (F) and struck out former subpar. (F) which read as follows: “Any progress made toward protecting GPS from disruption and interference.”
+
+Subsec. (d)(2). Pub. L. 108–136, §914(b), inserted “(C),” after “under subparagraphs”.
 
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
@@ -130,7 +140,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(A) there has emerged in the United States a new commercial industry to provide Global Positioning System equipment and related services to the many and varied users of the system; and
 
-&emsp;&emsp;“(B) there have been rapid technical advancements in Global Positioning System equipment andservices that have contributed significantly to reductions in the cost of the Global Positioning System and increases in the technical capabilities and availability of the system for military uses.
+&emsp;&emsp;“(B) there have been rapid technical advancements in Global Positioning System equipment and services that have contributed significantly to reductions in the cost of the Global Positioning System and increases in the technical capabilities and availability of the system for military uses.
 
 &emsp;“(5) It is in the national interest of the United States for the United States—
 

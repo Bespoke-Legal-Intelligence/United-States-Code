@@ -50,13 +50,29 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 > &emsp;In the case of an insured plan, the maximum amount reasonably available shall be determined on the basis of the underlying coverage.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629.)
+#### (d) Contributions to health savings accounts
+
+#### (1) In general
+
+&emsp;In the case of an employee who is an eligible individual (as defined in section 223(c)(1)), amounts contributed by such employee's employer to any health savings account (as defined in section 223(d)) of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceedthe limitation under section 223(b) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+
+#### (2) Special rules
+
+&emsp;Rules similar to the rules of paragraphs (2), (3), (4), and (5) of subsection (b) shall apply for purposes of this subsection.
+
+#### (3) Cross reference
+
+&emsp;&emsp;<b>For penalty on failure by employer to make comparable contributions to the health savings accounts of comparable employees, see section 4980G.</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; Pub. L. 99–272, title X, §10001(b), Apr. 7, 1986, 100 Stat. 223; Pub. L. 99–514, title XI, §§1114(b)(1), 1151(j)(2), Oct. 22, 1986, 100 Stat. 2450, 2508; Pub. L. 100–647, title I, §1018(t)(7)(A), title III, §3011(b)(1), Nov. 10, 1988, 102 Stat. 3589, 3624; Pub. L. 101–239, title VII, §7862(c)(1)(A), Dec. 19, 1989, 103 Stat. 2432; Pub. L. 104–191, title III, §§301(c)(1), 321(c)(2), Aug. 21, 1996, 110 Stat. 2048, 2058; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(2), (b)(2)(A), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(d)(1), Dec. 8, 2003, 117 Stat. 2476.)
 
 #### References in Text
 
 COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–173 added subsec. (d).
 
 2000—Subsec. (b). Pub. L. 106–554 §1(a)(7) \[title II, §202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
 
@@ -88,6 +104,10 @@ Subsec. (a). Pub. L. 99–514, §1151(j)(2), amended subsec. (a) generally. Prio
 
 Subsec. (b)(1). Pub. L. 99–514, §1114(b)(1), substituted “highly compensated employee (within the meaning of section 414(q))” for “highly compensated individual (within the meaning of section 105(h)(5))”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 301(c)(1) of Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
@@ -110,7 +130,7 @@ Amendment by section 3011(b)(1) of Pub. L. 100–647 applicable to taxable years
 
 Amendment by section 1114(b)(1) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1114(c)(1) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
-Amendment by section 1151(j)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
+Amendment by section 1151(j)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) ofPub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
 Section 10001(e) of Pub. L. 99–272 provided that:
 
@@ -142,5 +162,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 51A, 104, 125, 220, 414, 3231, 3306, 3401, 4973, 6039D, 7701 of this title; title 29 section 1167.
+This section is referred to in sections 223, 51A, 104, 125, 220, 414, 3231, 3306, 3401, 4973, 6039D, 6041, 7701 of this title; title 29 section 1167.
 

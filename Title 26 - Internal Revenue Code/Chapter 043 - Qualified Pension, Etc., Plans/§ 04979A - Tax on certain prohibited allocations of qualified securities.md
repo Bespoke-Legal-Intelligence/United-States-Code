@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 99–514, §1172(b)(2)(B), inserted reference to section 20
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established afterMar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
+Amendment by Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

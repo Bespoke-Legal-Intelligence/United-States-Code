@@ -12,7 +12,7 @@
 
 (4) In carrying out such research program, the Secretary shall act in cooperation with the entities described in section 7302(d) of this title.
 
-(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973\(relating to the establishment and support of Rehabilitation Engineering Research Centers).
+(b) Prosthetic research shall include research and testing in the field of prosthetic, orthotic, and orthopedic appliances and sensory devices. In order that the unique investigative material and research data in the possession of the Government may result in the improvement of such appliances and devices for all disabled persons, the Secretary (through the Under Secretary for Health) shall make the results of such research available to any person, and shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
 
 (c)(1) In conducting or supporting clinical research, the Secretary shall ensure that, whenever possible and appropriate—
 
@@ -32,15 +32,15 @@
 
 &emsp;(C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
-(e) Amounts for the activities of the field offices of the Office of Research Compliance and Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).
-
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L. 108–170, title IV, §401(b), Dec. 6, 2003, 117 Stat. 2061.)
 
 #### References in Text
 
 Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b), is classified to section 764(b)(3) of Title 29, Labor.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–170 struck out subsec. (e) which read as follows: “Amounts for the activities of the field offices of the Office of Research Compliance and Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).”
 
 2002—Subsec. (e). Pub. L. 107–135 added subsec. (e).
 
@@ -52,7 +52,7 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 
 #### Applicability to Fiscal Year 2002
 
-Pub. L. 107–135, title II, §205(b), Jan. 23, 2002, 115 Stat. 2460, provided that: “In order to carry out subsection (e) of section 7303 of title 38, United States Code, as added by subsection (a), for fiscal year 2002, the Secretary of Veterans Affairs shall transfer such sums as necessary for that purpose from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research for fiscal year 2002 to amounts appropriated for the Veterans Health Administration for Medical Care for that fiscal year.”
+Pub. L. 107–135, title II, §205(b), Jan. 23, 2002, 115 Stat. 2460, related to transfer of appropriations for fiscal year 2002 to carry out subsec. (e) of this section for that fiscal year.
 
 #### Post-Traumatic Stress Disorder Research
 
@@ -60,9 +60,9 @@ Section 122(a) of Pub. L. 102–405 provided that: “In carrying out research a
 
 #### Research Relating to Women Veterans’ Health
 
-Pub. L. 102–585, title I, §109, Nov. 4, 1992, 106 Stat. 4948, provided for initiation and expansion of research relating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by Pub. L. 103–452, title I, §102(b)(2), Nov. 2, 1994, 108 Stat. 4786.
+Pub. L. 102–585, title I, §109, Nov. 4, 1992, 106 Stat. 4948, provided for initiation and expansion of researchrelating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by Pub. L. 103–452, title I, §102(b)(2), Nov. 2, 1994, 108 Stat. 4786.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3904, 7317, 7362 of this title.
+This section is referred to in sections 3904, 7307, 7317, 7362 of this title.
 

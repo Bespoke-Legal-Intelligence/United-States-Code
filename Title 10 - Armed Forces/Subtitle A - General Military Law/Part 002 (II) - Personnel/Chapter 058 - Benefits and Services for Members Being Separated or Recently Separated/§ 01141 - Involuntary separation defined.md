@@ -20,7 +20,11 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 #### Effective Date of 1994 Amendment
 
-Section 542(e) of Pub. L. 103–337 provided that: “This section \[amending this section and sections 1143, 1143a,1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under section 1293 of this title\] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
+Section 542(e) of Pub. L. 103–337 provided that: “This section \[amending this section and sections 1143, 1143a, 1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under section 1293 of this title\] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

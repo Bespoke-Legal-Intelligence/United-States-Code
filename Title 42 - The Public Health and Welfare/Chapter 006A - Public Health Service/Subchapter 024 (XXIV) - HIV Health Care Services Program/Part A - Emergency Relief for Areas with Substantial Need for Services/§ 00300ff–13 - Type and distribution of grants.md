@@ -8,7 +8,7 @@
 
 #### (2) Expedited distribution
 
-&emsp;Not later than 60 days after an appropriation becomes available to carry out this part for a fiscal year, the Secretary shall, except in the case of waivers granted under section 300ff–15(c) <sup>1</sup> of this title, disburse 50 percent of the amount appropriated under section 300ff–77 of this title for such fiscal year through grantsto eligible areas under section 300ff–11(a) of this title, in accordance with paragraph (3). The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).
+&emsp;Not later than 60 days after an appropriation becomes available to carry out this part for a fiscal year, the Secretary shall, except in the case of waivers granted under section 300ff–15(c) <sup>1</sup> of this title, disburse 50 percent of the amount appropriated under section 300ff–77 of this title for such fiscal year through grants to eligible areas under section 300ff–11(a) of this title, in accordance with paragraph (3). The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).
 
 #### (3) Amount of grant
 
@@ -66,7 +66,7 @@
 
 #### (iii) Grants and technical assistance regarding counting of HIV cases
 
-&emsp;&emsp;&emsp;Of the amounts appropriated under section 247c–2 of this title for a fiscal year, the Secretary shall reserve amounts to make grants and provide technical assistance to States and eligible areas with respect to obtaining data on cases of HIV disease to ensure that data on such cases is available from all States and eligible areas as soon as is practicable but not later than the beginning of fiscal year 2007.
+&emsp;&emsp;&emsp;Of the amounts appropriated under section 247c–2 of this title for a fiscal year, the Secretary shall reserve amounts tomake grants and provide technical assistance to States and eligible areas with respect to obtaining data on cases of HIV disease to ensure that data on such cases is available from all States and eligible areas as soon as is practicable but not later than the beginning of fiscal year 2007.
 
 #### (E) Unexpended funds
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;In determining severe need in accordance with paragraph (1)(B), the Secretary shall consider the ability of the qualified applicant to expend funds efficiently and the impact of relevant factors on the cost and complexity of delivering health care and support services to individuals with HIV disease in the eligible area, including factors such as—
 
-&emsp;&emsp;&emsp;(i) sexually transmitted diseases, substance abuse, tuberculosis, severe mental illness, or other comorbid factors determined relevant by the Secretary;
+&emsp;&emsp;&emsp;(i) sexually transmitted diseases, substance abuse, tuberculosis, severe mentalillness, or other comorbid factors determined relevant by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) new or growing subpopulations of individuals with HIV disease;
 
@@ -198,7 +198,7 @@ Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, 
 
 Subsec. (a)(3)(D), (E). Pub. L. 106–345, §111(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
+Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment,text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
 
 &emsp;“(A) with respect to fiscal year 1996, 100 percent;
 
@@ -220,7 +220,7 @@ Subsec. (b)(2)(A). Pub. L. 106–345, §112(a)(3), added subpar. (A). Former sub
 
 Subsec. (b)(2)(B). Pub. L. 106–345, §112(a)(2), (4), redesignated subpar. (A) as (B) and added cls. (iv) to (vi). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(2)(C). Pub. L. 106–345, §112(a)(5)(C), inserted after second sentence “Such a mechanism shallbe modified to reflect the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).”
+Subsec. (b)(2)(C). Pub. L. 106–345, §112(a)(5)(C), inserted after second sentence “Such a mechanism shall be modified to reflect the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).”
 
 Pub. L. 106–345, §112(a)(5)(B), in second sentence, substituted “18 months after October 20, 2000” for “2 years after May 20, 1996”.
 

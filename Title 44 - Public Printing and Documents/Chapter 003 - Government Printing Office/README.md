@@ -19,10 +19,13 @@
 | [315\.](%C2%A7%2000315%20-%20Branches%20of%20Government%20Printing%20Office%3B%20limitations.md) | Branches of Government Printing Office; limitations. |
 | [316\.](%C2%A7%2000316%20-%20Detail%20of%20employees%20of%20Government%20Printing%20Office%20to%20other%20Government%20establishments.md) | Detail of employees of Government Printing Office to other Government establishments. |
 | [317\.](%C2%A7%2000317%20-%20Special%20policemen.md) | Special policemen. |
+| [318\.](%C2%A7%2000318%20-%20Transfer%20of%20surplus%20property%3B%20acceptance%20of%20voluntary%20services.md) | Transfer of surplus property; acceptance of voluntary services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–83, title I, §1302(b), Sept. 30, 2003, 117 Stat. 1034, added item 318.
 
 1999—Pub. L. 106–57, title II, §210(c), Sept. 29, 1999, 113 Stat. 425, inserted “; small purchase threshold” after “authority” in item 311.
 
@@ -38,7 +41,7 @@
 
 #### Federal Records Management Provisions Without Effect on Chapter
 
-Authority and responsibilities under chapter not limited or repealed by Federal Records ManagementAmendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
+Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
 
 
 ---
@@ -62,3 +65,4 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 00315 - Branches of Government Printing Office; limitations](%C2%A7%2000315%20-%20Branches%20of%20Government%20Printing%20Office%3B%20limitations.md)
 - [&sect; 00316 - Detail of employees of Government Printing Office to other Government establishments](%C2%A7%2000316%20-%20Detail%20of%20employees%20of%20Government%20Printing%20Office%20to%20other%20Government%20establishments.md)
 - [&sect; 00317 - Special policemen](%C2%A7%2000317%20-%20Special%20policemen.md)
+- [&sect; 00318 - Transfer of surplus property; acceptance of voluntary services](%C2%A7%2000318%20-%20Transfer%20of%20surplus%20property%3B%20acceptance%20of%20voluntary%20services.md)

@@ -81,7 +81,7 @@
 
 #### (4) State option to include individuals receiving assistance under a tribal family assistance plan or tribal work program
 
-&emsp;For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved under section 612 of this title or under a tribal work program to which funds are provided under this part.
+&emsp;For purposes of paragraphs (1)(B) and (2)(B), a State may, at its option, include families in the State that are receiving assistance under a tribal family assistance plan approved undersection 612 of this title or under a tribal work program to which funds are provided under this part.
 
 #### (5) State option for participation requirement exemptions
 
@@ -159,7 +159,7 @@
 
 #### (D) Limitation on number of persons who may be treated as engaged in work by reason of participation in educational activities
 
-&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged in work for the month by reason of subparagraph (C) of this paragraph.
+&emsp;&emsp;For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 30 percent of the number of individuals in all families and in 2-parent families, respectively, in a State who are treated as engaged in work for a month may consist of individuals who are determined to be engaged in work for the month by reason of participation in vocational educational training, or (if the month is in fiscal year 2000 or thereafter) deemed to be engaged inwork for the month by reason of subparagraph (C) of this paragraph.
 
 #### (d) “Work activities” defined
 
@@ -245,7 +245,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620.)
+(Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620.)
 
 #### Prior Provisions
 

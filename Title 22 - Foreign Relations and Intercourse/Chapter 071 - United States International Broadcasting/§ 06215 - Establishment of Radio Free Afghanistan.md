@@ -16,7 +16,7 @@ Not later than 15 days after March 11, 2002, RFE/RL, Incorporated, shall submit 
 
 #### (c) Available authorities
 
-In addition to the authorities in this section, the authorities applicable to carry out UnitedStates Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], the United States International Broadcasting Act of 1994 \[22 U.S.C. 6201 et seq.\], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b) of this section.
+In addition to the authorities in this section, the authorities applicable to carry out United States Government broadcasting activities under the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], the United States International Broadcasting Act of 1994 \[22 U.S.C. 6201 et seq.\], the Foreign Affairs Reform and Restructuring Act of 1998, and other provisions of law consistent with such purpose may be used to carry out the grant authority of subsection (b) of this section.
 
 #### (d) Standards; oversight
 

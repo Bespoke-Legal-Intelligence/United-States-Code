@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
+&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing onthe record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
 
 &emsp;&emsp;(A)(i) $50,000 in the case of any individual, except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain;
 

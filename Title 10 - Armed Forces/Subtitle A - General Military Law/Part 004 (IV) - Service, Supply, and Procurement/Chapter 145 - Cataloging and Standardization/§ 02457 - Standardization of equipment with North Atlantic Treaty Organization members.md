@@ -18,37 +18,13 @@
 
 (2) It is further the sense of Congress that standardization of weapons and equipment within the Organization on the basis of a “two-way street” concept of cooperation in defense procurement between Europe and North America can only work in a realistic sense if the European nations operate on a united and collective basis. Therefore, the governments of Europe are encouraged to accelerate their present efforts to achieve European armaments collaboration among all European members of the Organization.
 
-(d) Before February 1, 1989, and biennially thereafter, the Secretary shall submit a report to Congress that includes—
+\[(d) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(22), Nov. 24, 2003, 117 Stat. 1598.\]
 
-&emsp;(1) each specific assessment and evaluation made and the results of each assessment and evaluation, and the results achieved with the members of the North Atlantic Treaty Organization, under subsections (a)(1) and (2) and (b);
-
-&emsp;(2) procurement action initiated on each new major system not complying with the policy of subsection (a);
-
-&emsp;(3) procurement action initiated on each new major system that is not standardized or interoperable with equipment of other members of the Organization, including a description of the system chosen and the reason for choosing that system;
-
-&emsp;(4) the identity of—
-
-&emsp;&emsp;(A) each program of research and development for the armed forces of the United States stationed in Europe that supports, conforms, or both, to common Organization requirements of developing weapon systems for use by the Organization, including a common definition of the military threat to the Organization; and
-
-&emsp;&emsp;(B) the common requirements of the Organization to which those programs conform or which they support;
-
-&emsp;(5) action of the Alliance toward common Organization requirements if none exist;
-
-&emsp;(6) efforts to establish a regular procedure and mechanism in the Organization to determine common military requirements;
-
-&emsp;(7) a description of each existing and planned program of the Department of Defense that supports the development or procurement of a weapon system or other military equipment originally developed or procured by members of the Organization other than the United States and for which funds have been authorized to be appropriated for the fiscal year in which the report is submitted, including a summary listing of the amount of funds—
-
-&emsp;&emsp;(A) appropriated for those programs for the fiscal year in which the report is submitted; and
-
-&emsp;&emsp;(B) requested, or proposed to be requested, for those programs for each of the 2 fiscal years following the fiscal year for which the report is submitted; and
-
-&emsp;(8) a description of each weapon system or other military equipment originally developed or procured in the United States and that is being developed or procured by members of the Organization other than the United States during the fiscal year for which the report is submitted.
-
-(e) If the Secretary decides that procurement of equipment manufactured outside the UnitedStates is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
+(e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
 (f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
 
-(Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, §1503(a)(24), Feb. 10, 1996, 110 Stat. 512.)
+(Added Pub. L. 97–295, §1(30)(A), Oct. 12, 1982, 96 Stat. 1294; amended Pub. L. 101–510, div. A, title XIII, §1311(5), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 104–106, div. A, title XV, §1503(a)(24), Feb. 10, 1996, 110 Stat. 512; Pub. L. 108–136, div. A, title X, §1031(a)(22), Nov. 24, 2003, 117 Stat. 1598.)
 
 Historical and Revision Notes
 
@@ -157,6 +133,8 @@ In subsection (d)(7), the words “those programs” are substituted for “all 
 In subsection (f), the words “The Secretary shall submit the results of these . . . to Congress” are omitted as unnecessary because of the source provisions restated in subsection (d)(1). The word “submit” is substituted for “cause to be brought” to eliminate unnecessary words. The words “in order that the suggested actions and recommendations can” are omitted as unnecessary because of the restatement.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which related to Secretary's biennial submission of report to Congress.
 
 1996—Subsec. (e). Pub. L. 104–106 substituted “the Buy American Act (41 U.S.C. 10a)” for “title III of the Act of March 3, 1933 (41 U.S.C. 10a),”.
 

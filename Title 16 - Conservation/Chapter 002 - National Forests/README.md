@@ -267,6 +267,61 @@
 | 539<i>l</i>–5. | Wilderness potential. |
 | (a) | In general. |
 | (b) | Evaluation of certain lands. |
+| [539m.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Administration/%C2%A7%2000539m%20-%20Findings%20and%20purposes.md) | Findings and purposes. |
+| (a) | Findings. |
+| (b) | Purposes. |
+| 539m–1. | Definitions. |
+| 539m–2. | T'uf Shur Bien Preservation Trust Area. |
+| (a) | Establishment. |
+| (b) | Administration and applicable law. |
+| (c) | Map. |
+| (d) | No conveyance of title. |
+| (e) | Prohibited uses. |
+| (f) | No modification of boundaries. |
+| 539m–3. | Pueblo rights and interests in the Area. |
+| (a) | In general. |
+| (b) | Access. |
+| (c) | Compensable interest. |
+| 539m–4. | Limitations on Pueblo rights and interests in the Area. |
+| (a) | Limitations. |
+| (b) | Exception. |
+| 539m–5. | Management of the Area. |
+| (a) | Process. |
+| (b) | Emergencies and emergency closure orders. |
+| (c) | Disputes involving Forest Service management and Pueblo traditional uses. |
+| 539m–6. | Jurisdiction over the Area. |
+| (a) | Criminal jurisdiction. |
+| (b) | Civil jurisdiction. |
+| 539m–7. | Subdivisions and other property interests. |
+| (a) | Subdivisions. |
+| (b) | Piedra Lisa. |
+| (c) | Crest facilities. |
+| (d) | Special use permit area. |
+| (e) | La Luz tract. |
+| (f) | Evergreen Hills access. |
+| (g) | Pueblo fee land. |
+| (h) | Rights-of-way. |
+| 539m–8. | Extinguishment of claims. |
+| (a) | In general. |
+| (b) | Subdivisions. |
+| (c) | Special use and crest facilities areas. |
+| (d) | Pueblo agreement. |
+| (e) | Consideration. |
+| 539m–9. | Construction. |
+| (a) | Strict construction. |
+| (b) | Existing rights. |
+| (c) | Not precedent. |
+| (d) | Fish and wildlife. |
+| 539m–10. | Judicial review. |
+| (a) | Enforcement. |
+| (b) | Waiver. |
+| (c) | Venue. |
+| 539m–11. | Provisions relating to contributions and land exchange. |
+| (a) | Contributions. |
+| (b) | Land exchange. |
+| (c) | Land acquisition and other compensation. |
+| (d) | Reimbursement of certain costs. |
+| 539m–12. | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

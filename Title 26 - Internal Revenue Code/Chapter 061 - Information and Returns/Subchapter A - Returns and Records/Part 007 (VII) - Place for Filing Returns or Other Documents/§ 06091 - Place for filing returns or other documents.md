@@ -72,7 +72,7 @@ In the case of returns of tax required under authority of part II of this subcha
 
 #### (B) Exception
 
-&emsp;&emsp;If the domicile of the decedent was not in an internal revenue district, or if he had nodomicile, the estate tax return required under section 6018 shall be made at such place as the Secretary may by regulations designate.
+&emsp;&emsp;If the domicile of the decedent was not in an internal revenue district, or if he had no domicile, the estate tax return required under section 6018 shall be made at such place as the Secretary may by regulations designate.
 
 #### (4) Hand-carried returns
 
@@ -106,7 +106,7 @@ Subsec. (b)(6). Pub. L. 99–514, §1879(r)(1), added par. (6).
 
 Subsec. (b)(1)(B). Pub. L. 94–455, §§1204(c)(3)(A), 1906(b)(13)(A), added cl. (v) and struck out in provision following cl. (v) “or his delegate” after “Secretary”.
 
-Subsec. (b)(2)(B). Pub. L. 94–455, §1503(d)(4), in cl. (ii), struck out provision which permitted returns of a corporation claiming the benefits of section 941 of this title, relating to the special deduction for China Trade corporations, to be made at such place as the Secretary may designate by regulation.
+Subsec. (b)(2)(B). Pub. L. 94–455, §1503(d)(4), in cl. (ii), struck out provision which permitted returns of a corporation claiming the benefits of section 941 of thistitle, relating to the special deduction for China Trade corporations, to be made at such place as the Secretary may designate by regulation.
 
 Pub. L. 94–455, §§1052(c)(6), struck out provision which permitted returns of a corporation claiming the benefits of section 922 of this title, relating to the special deduction for Western Hemisphere trade corporations to be made at such place as the Secretary may designate by regulation.
 
@@ -128,7 +128,7 @@ Section 10713(c) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1272(d)(10) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1272(d)(10) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Section 1879(r)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
 

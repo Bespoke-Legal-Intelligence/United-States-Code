@@ -44,6 +44,7 @@
 | [5336\.](%C2%A7%2005336%20-%20Apportionment%20of%20appropriations%20for%20formula%20grants.md) | Apportionment of appropriations for formula grants. |
 | [5337\.](%C2%A7%2005337%20-%20Apportionment%20of%20appropriations%20for%20fixed%20guideway%20modernization.md) | Apportionment of appropriations for fixed guideway modernization. |
 | [5338\.](%C2%A7%2005338%20-%20Authorizations.md) | Authorizations. |
+| [5339\.](%C2%A7%2005339%20-%20Federal%20share%201.md) | Federal share.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,7 +52,7 @@
 
 1998—Pub. L. 105–178, title III, §§3007(a)(2), 3008(b), 3009(b), 3014(b), 3017(b), 3025(b)(2), title V, §5110(c), June 9, 1998, 112 Stat. 347, 352, 359, 361, 365, 444, substituted “Urbanized area formula grants” for “Block grants” in item 5307, “Clean fuels formula grant program” for “Mass Transit Account block grants” in item 5308, “Capital investment” for “Discretionary” in item 5309, “Formula grant” for “Financial assistance” in item 5311, and “transit” for “mass transportation” in item 5315, struck out items 5316 “University research institutes” and 5317 “Transportation centers”, and inserted “provisions” after “Administrative” in item 5334.
 
-Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which directed insertion of “formula” before“grants” in item 5310, was executed by substituting “Formula grants” for “Grants” to reflect the probable intent of Congress.
+Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which directed insertion of “formula” before “grants” in item 5310, was executed by substituting “Formula grants” for “Grants” to reflect the probable intent of Congress.
 
 Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX, §9009(<i>o</i>)(2), July 22, 1998, 112 Stat. 858, substituted “formula grants” for “block grants” in item 5336.
 
@@ -60,6 +61,8 @@ Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX
 This chapter is referred to in title 23 sections 103, 104, 110, 120, 133, 134, 142, 181, 182, 183; title 42 section 7506.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
+<i><sup>2</sup></i><i> Editorially supplied. Section 5339 added by Pub. L. 108–7 without section catchline.</i>
 
 
 ---
@@ -103,3 +106,4 @@ This chapter is referred to in title 23 sections 103, 104, 110, 120, 133, 134, 1
 - [&sect; 05336 - Apportionment of appropriations for formula grants](%C2%A7%2005336%20-%20Apportionment%20of%20appropriations%20for%20formula%20grants.md)
 - [&sect; 05337 - Apportionment of appropriations for fixed guideway modernization](%C2%A7%2005337%20-%20Apportionment%20of%20appropriations%20for%20fixed%20guideway%20modernization.md)
 - [&sect; 05338 - Authorizations](%C2%A7%2005338%20-%20Authorizations.md)
+- [&sect; 05339 - Federal share 1](%C2%A7%2005339%20-%20Federal%20share%201.md)

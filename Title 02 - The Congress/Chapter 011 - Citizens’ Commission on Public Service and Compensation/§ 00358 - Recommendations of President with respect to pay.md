@@ -8,9 +8,9 @@
 
 #### Amendments
 
-1989—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title.”
+<b>1989</b>—Pub. L. 101–194 amended section generally. Prior to amendment, section read as follows: “The President shall include, in the budget next transmitted under section 1105(a) of title 31 by him to the Congress after the date of the submission of the report and recommendations of the Commission under section 357 of this title, his recommendations with respect to the exact rates of pay which he deems advisable, for those offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title.”
 
-1985—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining “budget”.
+<b>1985</b>—Pub. L. 99–190 inserted reference to section 1105(a) of title 31, and struck out last sentence defining “budget”.
 
 #### Commission's First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 
@@ -28,7 +28,7 @@ Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, provided in part that the compensatio
 
 <i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
-As required by section 225 of the Federal Salary Act of 1967, Public Law 90–206 (2 U.S.C. 351 <i>et seq</i>.), the latestQuadrennial Commission on Executive, Legislative, and Judicial Salaries (“Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
+As required by section 225 of the Federal Salary Act of 1967, Public Law 90–206 (2 U.S.C. 351 <i>et seq</i>.), the latest Quadrennial Commission on Executive, Legislative, and Judicial Salaries (“Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
 
 The statute requires that, in the budget next submitted after receipt of the report of the Commission, I set forth recommendations for adjustment of these salaries. Pursuant to section 225(i), as amended by section 135 of Public Law 99–190 \[2 U.S.C. 359\], these recommendations will be effective unless Congress disapproves the recommendation by a joint resolution within 30 days following the transmittal of my budget.
 

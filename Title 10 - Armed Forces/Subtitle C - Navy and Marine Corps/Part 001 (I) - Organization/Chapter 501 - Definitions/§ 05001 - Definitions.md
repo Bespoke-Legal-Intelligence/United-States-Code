@@ -18,7 +18,7 @@
 
 &emsp;(8) The term “officer restricted in the performance of duty” means an officer of the Navy designated for engineering duty, aeronautical engineering duty, special duty, or limited duty, or an officer of the Marine Corps designated for limited duty.
 
-(b) For the purposes of this subtitle, a member of the naval service who holds a temporary appointment in a grade higher than his permanent grade is considered, unless otherwise specified, to be serving in the higher grade.
+(b) For the purposes of this subtitle, a member of the naval service who holds a temporary appointment in a grade higher than his permanentgrade is considered, unless otherwise specified, to be serving in the higher grade.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 276; Pub. L. 87–123, §5(1), Aug. 3, 1961, 75 Stat. 264; Pub. L. 96–513, title III, §371, title V, §513(2), Dec. 12, 1980, 94 Stat. 2903, 2931; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284.)
 

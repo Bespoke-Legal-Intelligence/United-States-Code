@@ -26,7 +26,7 @@
 
 #### (2) Duties of Comptroller General
 
-&emsp;Not later than September 1, 2000, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate a report containing the results of the study conducted under subsection (a)(2) of this section. If the Commission requests designated experts to participate with the Comptroller General in the preparation and submission of the report,the Comptroller General shall grant the request.
+&emsp;Not later than September 1, 2000, the Comptroller General of the United States shall submit to the Committees on the Judiciary of the House of Representatives and the Senate, the Committee on International Relations of the House of Representatives, and the Committee on Foreign Relations of the Senate a report containing the results of the study conducted under subsection (a)(2) of this section. If the Commission requests designated experts to participate with the Comptroller General in the preparation and submission of the report, the Comptroller General shall grant the request.
 
 #### (c) Access to proceedings
 

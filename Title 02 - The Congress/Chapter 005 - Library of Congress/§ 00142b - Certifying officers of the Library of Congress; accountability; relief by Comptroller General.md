@@ -10,7 +10,7 @@ On and after June 13, 1957, each officer and employee of the Library of Congress
 
 #### Amendments
 
-1972—Pub. L. 92–310 struck out provisions which required officers and employees of Library who are authorized to certify vouchers for payment to give a bond.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which required officers and employees of Library who are authorized to certify vouchers for payment to give a bond.
 
 #### Section Referred to in Other Sections
 

@@ -68,11 +68,11 @@ Beginning on October 26, 2002, the Secretary shall assess and collect fees in ac
 
 #### (iii) Application withdrawn before first action
 
-&emsp;&emsp;&emsp;After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of such application, report, or supplement. The Secretary shall have sole discretion to refund a fee or portion of the fee under this subparagraph. A determinationby the Secretary concerning a refund under this paragraph shall not be reviewable.
+&emsp;&emsp;&emsp;After receipt of a request for a refund of the fee paid under subparagraph (A) for a premarket application, premarket report, or supplement that is withdrawn after filing but before a first action, the Secretary may return some or all of the fee. The amount of refund, if any, shall be based on the level of effort already expended on the review of such application, report, or supplement. The Secretary shall have sole discretion to refund a fee or portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.
 
 #### (b) Fee revenue amounts
 
-Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; $29,785,000 in fiscal year 2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
+Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; $29,785,000 in fiscal year 2005;$32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
 
 #### (c) Adjustments
 
@@ -114,7 +114,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (1) In general
 
-&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretaryfinds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(1)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(1)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees
 
@@ -164,7 +164,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (ii) Adjustment per fee revenue amount
 
-&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(5) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(1)(A)(i) of this section for premarket applications,and shall adjust the fee under subsection (a)(1)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
+&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(5) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(1)(A)(i) of this section for premarket applications, and shall adjust the fee under subsection (a)(1)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
 
 #### (D) Request for reduction
 
@@ -216,7 +216,7 @@ A premarket application, premarket report, supplement, or premarket notification
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph\(C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid.
 
 #### (h) Crediting and availability of fees
 
@@ -284,7 +284,9 @@ This section may not be construed to require that the number of full-time equiva
 
 #### References in Text
 
-I74Section 101(3) of the Medical Device User Fee and Modernization Act of 2002, referred to in subsec. (g)(1)(A)(i), is section 101(3) of Pub. L. 107–250, which is set out as a note under section 379i of this title.I74Effective and Termination Dates
+Section 101(3) of the Medical Device User Fee and Modernization Act of 2002, referred to in subsec. (g)(1)(A)(i), is section 101(3) of Pub. L. 107–250, which is set out as a note under section 379i of this title.
+
+#### Effective and Termination Dates
 
 Section effective Oct. 26, 2002, except for certain premarket fees, and ceases to be effective Oct. 1, 2007, see sections 106 and 107 of Pub. L. 107–250, set out as notes under section 379i of this title.
 
@@ -294,7 +296,7 @@ Pub. L. 107–250, title I, §102(b), Oct. 26, 2002, 116 Stat. 1600, provided th
 
 “(1)
 
-In general.—A person submitting a premarket report to the Secretary of Health and Human Servicesis exempt from the fee under section 738(a)(1)(A)(ii) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j(a)(1)(A)(ii)\] (as added by subsection (a) of this section) if—
+In general.—A person submitting a premarket report to the Secretary of Health and Human Services is exempt from the fee under section 738(a)(1)(A)(ii) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j(a)(1)(A)(ii)\] (as added by subsection (a) of this section) if—
 
 &emsp;“(A) the premarket report is the first such report submitted to the Secretary by the person; and
 
@@ -302,7 +304,7 @@ In general.—A person submitting a premarket report to the Secretary of Health 
 
 “(2)
 
-Definitions.—For purposes of paragraph (1), the terms ‘device’, ‘premarket application’, and ‘premarket report’ have the same meanings as apply to such terms for purposes of section 738 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j\] (as added by subsection (a) of this section).”
+Definitions.—For purposes of paragraph (1), the terms ‘device’, ‘premarket application’, and ‘premarket report’ have the same meanings as apply to such terms for purposes of section 738 of the Federal Food, Drug,and Cosmetic Act \[21 U.S.C. 379j\] (as added by subsection (a) of this section).”
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ Section 5 of Pub. L. 89–808 provided that: “This Act \[enacting sections 170
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
+Pub. L. 105–385, §1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act \[amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
 
 Pub. L. 105–385, title II, §211, Nov. 13, 1998, 112 Stat. 3465, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title\] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
 
@@ -72,7 +72,7 @@ Section 1 of Pub. L. 89–808 provided: “That this Act \[enacting sections 170
 
 #### Short Title
 
-Section 1 of act July 10, 1954, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633, provided that: “This Act \[enacting this chapter\] maybe cited as the ‘Agricultural Trade Development and Assistance Act of 1954’.”
+Section 1 of act July 10, 1954, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Trade Development and Assistance Act of 1954’.”
 
 #### Minimum Level of Food Assistance
 
@@ -164,7 +164,7 @@ Sec. 4. <i>Delegation of Responsibilities</i>. (a) The function conferred upon t
 
 (b) The functions conferred upon the President by section 411 of the Agricultural Trade Development Act \[7 U.S.C. 1736e\] are hereby delegated to the Secretary, in consultation with the Council and the Department of the Treasury.
 
-(c) The functions conferred upon the President by section 412(c) of the Agricultural Trade Development Act \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
+(c) The functions conferred upon the President by section 412(c) of the Agricultural Trade DevelopmentAct \[7 U.S.C. 1736f(c)\] are hereby delegated to the Director, who shall consult with the Council on these functions.
 
 (d) The functions conferred upon the President by title V of the Agricultural Trade Development Act \[7 U.S.C. 1737\] are hereby delegated to the Administrator.
 

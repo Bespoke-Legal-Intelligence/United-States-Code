@@ -30,7 +30,7 @@ Allocation of funds.—Of the aggregate of amounts made available by and appropr
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003.—
+Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
 
 &emsp;&emsp;(A)
 
@@ -42,9 +42,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iii) $2,676,000,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $2,873,600,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $2,873,600,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $3,071,200,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $3,071,200,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $1,292,948,344 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(B)
 
@@ -56,13 +58,15 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iii) $669,000,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $718,400,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $718,400,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $767,800,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $767,800,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $323,459,169 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(C)
 
-Allocation of funds.—Of the aggregate of amounts made available by and appropriated under this paragraph for a fiscal year—
+Allocation of funds.—Of the aggregate of amounts made available by and appropriated under this paragraph for a fiscal year (other than for the period of October 1, 2003, through February 29, 2004)—
 
 &emsp;&emsp;&emsp;(i) $4,849,950 shall be available to the Alaska Railroad for improvements to its passenger operations under section 5307;
 
@@ -70,7 +74,7 @@ Allocation of funds.—Of the aggregate of amounts made available by and appropr
 
 &emsp;&emsp;&emsp;(iii) of the remaining amount—
 
-&emsp;&emsp;&emsp;&emsp;(I) 2.4 percent shall be available to provide transportation services to elderlyindividuals and individuals with disabilities under section 5310;
+&emsp;&emsp;&emsp;&emsp;(I) 2.4 percent shall be available to provide transportation services to elderly individuals and individuals with disabilities under section 5310;
 
 &emsp;&emsp;&emsp;&emsp;(II) 6.37 percent shall be available to provide financial assistance for other than urbanized areas under section 5311; and
 
@@ -86,7 +90,7 @@ Fiscal year 1998.—There shall be available from the Mass Transit Account of th
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003.—
+Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
 
 &emsp;&emsp;(A)
 
@@ -98,9 +102,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iii) $2,116,800,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $2,272,800,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $2,272,800,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $2,428,800,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $2,428,800,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $1,022,503,342 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(B)
 
@@ -112,9 +118,11 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iii) $529,200,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $568,200,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $568,200,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $607,200,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $607,200,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $255,801,669 for the period of October 1, 2003, through February 29, 2004.
 
 (c)
 
@@ -126,7 +134,7 @@ Fiscal year 1998.—There are authorized to be appropriated to carry out section
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003.—
+Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
 
 &emsp;&emsp;(A)
 
@@ -138,9 +146,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iii) $50,200,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $53,800,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $53,800,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $58,600,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $58,600,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $24,636,667 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(B)
 
@@ -152,13 +162,15 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iii) $12,800,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $13,200,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $13,200,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $14,400,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $14,400,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $6,100,000 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(C)
 
-Allocation of funds.—Of the funds made available by or appropriated under this paragraph for a fiscal year—
+Allocation of funds.—Of the funds made available by or appropriated under this paragraph for a fiscal year or any portion of a fiscal year—
 
 &emsp;&emsp;&emsp;(i) 82.72 percent shall be available for metropolitan planning under sections 5303, 5304, and 5305; and
 
@@ -174,7 +186,7 @@ Fiscal year 1998.—There are authorized to be appropriated to carry out section
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003.—
+Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
 
 &emsp;&emsp;(A)
 
@@ -186,9 +198,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iii) $37,600,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $39,200,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $39,200,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $39,200,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $39,200,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $16,536,667 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(B)
 
@@ -200,13 +214,15 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iii) $9,400,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $9,800,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $9,800,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $9,800,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $9,800,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $4,095,000 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(C)
 
-Allocation of funds.—Of the funds made available by or appropriated under this paragraph for a fiscal year—
+Allocation of funds.—Of the funds made available by or appropriated under this paragraph for a fiscal year (other than for the period of October 1, 2003, through February 29, 2004)—
 
 &emsp;&emsp;&emsp;(i) not less than $5,250,000 shall be available for providing rural transportation assistance under section 5311(b)(2);
 
@@ -226,21 +242,21 @@ Fiscal year 1998.—Subject to paragraph (2)(C), there are authorized to be appr
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003.—
+Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
 
 &emsp;&emsp;(A)
 
-From the trust fund.—Subject to subparagraph (C), there shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5505, $4,800,000 for each of fiscal years 1999 through 2003.
+From the trust fund.—Subject to subparagraph (C), there shall be available from the Mass Transit Account of the Highway Trust Fund to carry out section 5505, $4,800,000 for each of fiscal years 1999 through 2003 and $2,020,833 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(B)
 
-From the general fund.—Subject to subparagraph (C), in addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out section 5505, $1,200,000 for each of fiscal years 1999 through 2003.
+From the general fund.—Subject to subparagraph (C), in addition to amounts made available under subparagraph (A), there are authorized to be appropriated to carry out section 5505, $1,200,000 for each of fiscal years 1999 through 2003 and $505,833 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(C)
 
 Funding of centers.—
 
-&emsp;&emsp;&emsp;(i) Of the amounts made available under subparagraph (A) and paragraph (1) for each fiscal year—
+&emsp;&emsp;&emsp;(i) Of the amounts made available under subparagraph (A) and paragraph (1) for each fiscal year (other than for the period of October 1, 2003, through February 29, 2004)—
 
 &emsp;&emsp;&emsp;&emsp;(I) $2,000,000 shall be available for the center identified in section 5505(j)(4)(A); and
 
@@ -248,11 +264,11 @@ Funding of centers.—
 
 &emsp;&emsp;&emsp;(ii) For each of fiscal years 1998 through 2001, of the amounts made available under this paragraph and paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) $400,000 shall be available from amounts made available under subparagraph (A) of this paragraph and under paragraph (1) for each of the centers identified in subparagraphs (E) and (F) of section 5505(j)(3); and
+&emsp;&emsp;&emsp;&emsp;(I) $400,000 shall be available from amounts made available under subparagraph (A) of this paragraph and underparagraph (1) for each of the centers identified in subparagraphs (E) and (F) of section 5505(j)(3); and
 
 &emsp;&emsp;&emsp;&emsp;(II) $350,000 shall be available from amounts made available under subparagraph (B) of this paragraph and under paragraph (1) for each of the centers identified in subparagraphs (E) and (F) of section 5505(j)(3).
 
-&emsp;&emsp;&emsp;(iii) Any amounts made available under this paragraph or paragraph (1) for any fiscal year that remain after distribution under clauses (i) and (ii), shall be available for the purposes identified in section 3015(d) of the Federal Transit Act of 1998.
+&emsp;&emsp;&emsp;(iii) Any amounts made available under this paragraph or paragraph (1) for any fiscal year (other than for the period of October 1, 2003, through February 29, 2004) that remain after distribution under clauses (i) and (ii), shall be available for the purposes identified in section 3015(d) of the Federal Transit Act of 1998.
 
 &emsp;(3)
 
@@ -268,7 +284,7 @@ Fiscal year 1998.—There are authorized to be appropriated to carry out section
 
 &emsp;(2)
 
-Fiscal years 1999 through 2003.—
+Fiscal years 1999 through 2003 and for the period of october 1, 2003, through february 29, 2004.—
 
 &emsp;&emsp;(A)
 
@@ -280,9 +296,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;(iii) $51,200,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $53,600,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $53,600,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $58,400,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $58,400,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $24,585,834 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;(B)
 
@@ -294,9 +312,11 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;(iii) $12,800,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;(iv) $13,400,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;(iv) $13,400,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;(v) $14,600,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;(v) $14,600,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(vi) $6,150,833 for the period of October 1, 2003, through February 29, 2004.
 
 (g)
 
@@ -374,7 +394,7 @@ Additional Amounts.—In addition to amounts made available by or appropriated u
 
 Availability of Amounts.—Amounts made available by or appropriated under subsections (a) through (e), and paragraphs (1) through (7) of subsection (h), shall remain available until expended.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 845; Pub. L. 104–287, §5(20), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 102–240, §3049(c), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3029(a), (c), June 9, 1998, 112 Stat. 368; Pub. L. 105–206, title IX, §9009(q), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(c), (e)–(g), (i), (k), Sept. 30, 2003, 117 Stat. 1121–1124.)
 
 Historical and Revision Notes
 
@@ -518,6 +538,68 @@ Section 3015(d) of the Federal Transit Act of 1998, referred to in subsec. (e)(2
 
 #### Amendments
 
+2003—Subsec. (a)(2). Pub. L. 108–88, §8(c)(1), inserted “
+
+and for the period of october 1, 2003, through february 29, 2004” after “
+
+2003” in heading.
+
+Subsec. (a)(2)(A)(vi). Pub. L. 108–88, §8(c)(2)–(4), added cl. (vi).
+
+Subsec. (a)(2)(B)(vi). Pub. L. 108–88, §8(c)(2), (3), (5), added cl. (vi).
+
+Subsec. (a)(2)(C). Pub. L. 108–88, §8(c)(6), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “a fiscal year” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 108–88, §8(e)(1), inserted “
+
+and for the period of october 1, 2003, through february 29, 2004” after “
+
+2003” in heading.
+
+Subsec. (b)(2)(A)(vi). Pub. L. 108–88, §8(e)(2)–(4), added cl. (vi).
+
+Subsec. (b)(2)(B)(vi). Pub. L. 108–88, §8(e)(2), (3), (5), added cl. (vi).
+
+Subsec. (c)(2). Pub. L. 108–88, §8(f), which directed the amendment of section 5338(c)(2) by inserting “
+
+and for the period of october 1, 2003, through february 29, 2004” after “
+
+2003” in heading, by adding cl. (vi) to subpars. (A) and (B), and by inserting “or any portion of a fiscal year” after “fiscal year” in introductory provisions of subpar. (C), without specifying that title 49 of the United States Code was to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 108–88, §8(g)(1), inserted “
+
+and for the period of october 1, 2003, through february 29, 2004” after “
+
+2003” in heading.
+
+Subsec. (d)(2)(A)(vi). Pub. L. 108–88, §8(g)(2)–(4), added cl. (vi).
+
+Subsec. (d)(2)(B)(vi). Pub. L. 108–88, §8(g)(2), (3), (5), added cl. (vi).
+
+Subsec. (d)(2)(C). Pub. L. 108–88, §8(g)(6), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “a fiscal year” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 108–88, §8(i)(1), inserted “
+
+and for the period of october 1, 2003, through february 29, 2004” after “
+
+2003” in heading.
+
+Subsec. (e)(2)(A). Pub. L. 108–88, §8(i)(2), inserted “and $2,020,833 for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (e)(2)(B). Pub. L. 108–88, §8(i)(3), inserted “and $505,833 for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (e)(2)(C)(i), (iii). Pub. L. 108–88, §8(i)(4), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “fiscal year”.
+
+Subsec. (f)(2). Pub. L. 108–88, §8(k)(1), inserted “
+
+and for the period of october 1, 2003, through february 29, 2004” after “
+
+2003” in heading.
+
+Subsec. (f)(2)(A)(vi). Pub. L. 108–88, §8(k)(2)–(4), added cl. (vi).
+
+Subsec. (f)(2)(B)(vi). Pub. L. 108–88, §8(k)(2), (3), (5), added cl. (vi).
+
 1998—Pub. L. 105–178, §3029(a), reenacted section catchline without change and amended text generally, substituting provisions relating to authorizations for Federal transit programs for fiscal years 1998 to 2003 for provisions relating to authorizations for Federal transit programs for fiscal years ending Sept. 30, 1993 to 1997 and for period from Oct. 1, 1997 to Mar. 31, 1998.
 
 Subsec. (c)(2)(A). Pub. L. 105–178, §3029(c)(1)–(5), as added by Pub. L. 105–206, substituted “$42,200,000” for “$43,200,000”, “$48,400,000” for “$46,400,000”, “$50,200,000” for “$51,200,000”, “$53,800,000” for “$52,800,000”, and “$58,600,000” for “$57,600,000” in cls. (i) to (v), respectively.
@@ -584,7 +666,7 @@ Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that
 
 #### Training and Curriculum Development
 
-Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, provided that:
+Pub. L. 105–178, title III, §3015(d), as added by Pub. L. 105–206, title IX, §9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, §8(j)(3), Sept. 30, 2003, 117 Stat. 1124, provided that:
 
 “(1)
 
@@ -592,13 +674,15 @@ In general.—Any funds made available by section 5338(e)(2)(C)(iii) of title 49
 
 “(2)
 
-Special rule.—If the institutions identified in paragraph (1) are selected pursuant to \[section\] 5505(i)(3)(B) of such title in fiscal year 2002 or 2003, the funds made available to carry out this subsection shall be available to those institutions to carry out the activities required pursuant to section 5505(i)(3)(B) of such title for that fiscal year.”
+Special rule.—If the institutions identified in paragraph (1) are selected pursuant to \[section\] 5505(i)(3)(B) of such title in fiscal year 2002 or 2003 and in the period October 31, 2003, through February 29, 2004, the funds made available to carry out this subsection shall be available to those institutions to carry out the activities required pursuant to section 5505(i)(3)(B) of such title for that fiscal year.”
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 107–87, title III, §309, Dec. 18, 2001, 115 Stat. 855, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
+Pub. L. 108–7, div. I, title III, §309, Feb. 20, 2003, 117 Stat. 407, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–87, title III, §309, Dec. 18, 2001, 115 Stat. 855.
 
 Pub. L. 106–346, §101(a) \[title III, §311\], Oct. 23, 2000, 114 Stat. 1356, 1356A–27.
 
@@ -635,4 +719,6 @@ Pub. L. 99–190, §101(e) \[title III, §322\], Dec. 19, 1985, 99 Stat. 1267, 1
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5303, 5308, 5309, 5310, 5311, 5313, 5314, 5321, 5333, 5336, 5337, 5505 of this title; title 2 section 900; title 23 section 110.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

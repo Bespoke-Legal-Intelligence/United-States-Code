@@ -6,9 +6,9 @@ There shall be paid to the Speaker of the House of Representatives in equal mont
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “(which shall be in lieu of the allowance provided by section 601(b) of the Legislative Reorganization Act of 1946, as amended)” after “per annum”.
+<b>1996</b>—Pub. L. 104–186 struck out “(which shall be in lieu of the allowance provided by section 601(b) of the Legislative Reorganization Act of 1946, as amended)” after “per annum”.
 
-1951—Act Oct. 20, 1951, made Speaker's expense allowance taxable.
+<b>1951</b>—Act Oct. 20, 1951, made Speaker's expense allowance taxable.
 
 #### Effective Date of 1951 Amendment
 

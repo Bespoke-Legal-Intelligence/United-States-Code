@@ -246,7 +246,7 @@ Subsec. (f). Pub. L. 94–29, §12(3), redesignated subsec. (m) as (f). Former s
 
 Subsec. (g). Pub. L. 94–29, §12(3), (4), added subsec. (g). Former subsec. (g), covering review by the Commission of adverse actions against association members and stays of such actions, was struck out. See section 78s of this title.
 
-Subsec. (h). Pub. L. 94–29, §12(3), (4), added subsec. (h). Former subsec. (h), covering the Commission's action upon findings, was struck out. See sections 78s of this title.
+Subsec. (h). Pub. L. 94–29, §12(3), (4), added subsec. (h). Former subsec. (h), covering the Commission's action upon findings, was struck out. See section 78s of this title.
 
 Subsec. (i). Pub. L. 94–29, §12(3), redesignated subsec. (i) as (e) and amended subsec. (e) as so redesignated.
 

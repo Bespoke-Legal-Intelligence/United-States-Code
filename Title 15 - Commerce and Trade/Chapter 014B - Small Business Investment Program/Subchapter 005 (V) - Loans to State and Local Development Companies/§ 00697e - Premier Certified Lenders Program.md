@@ -22,13 +22,13 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;&emsp;(ii) of properly closing section 504 \[15 U.S.C. 697a\] loans and servicing its loan portfolio;
 
-&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section; and
+&emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percentof any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section; and
 
 &emsp;&emsp;(D) the Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c)(2) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
 #### (3) Applicability of criteria after designation
 
-&emsp;The Administrator may revoke the designation of a certified development company as a premier certified lender under this section atany time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
+&emsp;The Administrator may revoke the designation of a certified development company as a premier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
 
 #### (c) Loss reserve
 
@@ -202,7 +202,7 @@ Subsec. (g). Pub. L. 105–135, §223(a)(6), substituted “revocation” for �
 
 Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
 
-Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
+Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted “other lenders, specifically comparing default ratesand recovery rates on liquidations” for “other lenders”.
 
 1994—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, §305\] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, §306\] of Pub. L. 106–554. See Termination Date note below.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Termination Date
 
-Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, §223(c), Dec. 2, 1997, 111 Stat. 2606,which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by Pub. L. 106–554, §1(a)(9) \[title III, §305\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.
+Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, §223(c), Dec. 2, 1997, 111 Stat. 2606, which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by Pub. L. 106–554, §1(a)(9) \[title III, §305\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.
 
 #### Regulations
 

@@ -1,0 +1,74 @@
+### §1395hhh. Health care infrastructure improvement program
+
+#### (a) Establishment
+
+The Secretary shall establish a loan program that provides loans to qualifying hospitals for payment of the capital costs of projects described in subsection (d) of this section.
+
+#### (b) Application
+
+No loan may be provided under this section to a qualifying hospital except pursuant to an application that is submitted and approved in a time, manner, and form specified by the Secretary. A loan under this section shall be on such terms and conditions and meet such requirements as the Secretary determines appropriate.
+
+#### (c) Selection criteria
+
+#### (1) In general
+
+&emsp;The Secretary shall establish criteria for selecting among qualifying hospitals that apply for a loan under this section. Such criteria shall consider the extent to which the project for which loan is sought is nationally or regionally significant, in terms of expanding or improving the health care infrastructure of the United States or the region or in terms of the medical benefit that the project will have.
+
+#### (2) Qualifying hospital defined
+
+&emsp;For purposes of this section, the term “qualifying hospital” means a hospital that—
+
+&emsp;&emsp;(A) is engaged in research in the causes, prevention, and treatment of cancer; and
+
+&emsp;&emsp;(B) is designated as a cancer center for the National Cancer Institute or is designated by the State as the official cancer institute of the State.
+
+#### (d) Projects
+
+A project described in this subsection is a project of a qualifying hospital that is designed to improve the health care infrastructure of the hospital, including construction, renovation, or other capital improvements.
+
+#### (e) State and local permits
+
+The provision of a loan under this section with respect to a project shall not—
+
+&emsp;(1) relieve any recipient of the loan of any obligation to obtain any required State or local permit or approval with respect to the project;
+
+&emsp;(2) limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or
+
+&emsp;(3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.
+
+#### (f) Forgiveness of indebtedness
+
+The Secretary may forgive a loan provided to a qualifying hospital under this section underterms and conditions that are analogous to the loan forgiveness provision for student loans under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.), except that the Secretary shall condition such forgiveness on the establishment by the hospital of—
+
+&emsp;(A) an outreach program for cancer prevention, early diagnosis, and treatment that provides services to a substantial majority of the residents of a State or region, including residents of rural areas;
+
+&emsp;(B) an outreach program for cancer prevention, early diagnosis, and treatment that provides services to multiple Indian tribes; and
+
+&emsp;(C)(i) unique research resources (such as population databases); or
+
+&emsp;(ii) an affiliation with an entity that has unique research resources.
+
+#### (g) Funding
+
+#### (1) In general
+
+&emsp;There are appropriated, out of amounts in the Treasury not otherwise appropriated, to carry out this section, $200,000,000, to remain available during the period beginning on July 1, 2004, and ending on September 30, 2008.
+
+#### (2) Administrative costs
+
+&emsp;From funds made available under paragraph (1), the Secretary may use, for the administration of this section, not more than $2,000,000 for each of fiscal years 2004 through 2008.
+
+#### (3) Availability
+
+&emsp;Amounts appropriated under this section shall be available for obligation on July 1, 2004.
+
+#### (h) Report to Congress
+
+Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as to whether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1897, as added Pub. L. 108–173, title X, §1016, Dec. 8, 2003, 117 Stat. 2447.)
+
+#### References in Text
+
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part D of title IV of the Act is classified to part C (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+

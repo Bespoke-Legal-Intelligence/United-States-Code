@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 46:65w
 
-Section 12101 defines the types of certificates of documentation that are used in this chapter, and in other laws, regulations, document rulings or other official acts referring to the documentation of a vessel.
+Section 12101 defines the types of certificates of documentation that are used in this chapter, and in otherlaws, regulations, document rulings or other official acts referring to the documentation of a vessel.
 
 #### Amendments
 
@@ -71,4 +71,8 @@ Section 1117 of Pub. L. 104–324 provided that: “Notwithstanding any other pr
 &emsp;“(1) an adequate number and type of oil spill response vessels documented under the laws of the United States cannot be engaged to recover oil from an oil spill in or near those waters in a timely manner, as determined by the Federal On-Scene Coordinator for a discharge or threat of a discharge of oil; and
 
 &emsp;“(2) that foreign country has by its laws accorded to vessels of the United States the same privileges accorded to vessels of that foreign country under this section.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 53102 of this title.
 

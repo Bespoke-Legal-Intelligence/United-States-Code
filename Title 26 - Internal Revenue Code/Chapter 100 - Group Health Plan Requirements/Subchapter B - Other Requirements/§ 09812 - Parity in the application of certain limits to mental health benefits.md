@@ -78,7 +78,7 @@ For purposes of this section:
 
 #### (3) Medical or surgical benefits
 
-&emsp;The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms ofthe plan, but does not include mental health benefits.
+&emsp;The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms of the plan, but does not include mental health benefits.
 
 #### (4) Mental health benefits
 

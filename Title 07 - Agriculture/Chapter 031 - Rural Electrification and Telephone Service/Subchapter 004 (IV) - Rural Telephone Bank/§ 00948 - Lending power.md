@@ -18,7 +18,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (3) Interest rate
 
-&emsp;(A) Loans under this section shall bear interest at the “cost of money rate”. The cost of money rate is defined as the average cost of moneys to the telephone bank as determinedby the Governor, but not less than 5 per centum per annum.
+&emsp;(A) Loans under this section shall bear interest at the “cost of money rate”. The cost of money rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
 
 &emsp;(B) On and after December 22, 1987, advances made on or after December 22, 1987, under loan commitments made on or after October 1, 1987, shall bear interest at the rate determined under subparagraph (C), but in no event at a rate that is less than 5 percent per annum.
 
@@ -44,7 +44,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;&emsp;(II) For purposes of this clause, the term “historic cost of money rate”, with respect to the close of a preceding fiscal year, means the sum of the results of the following calculations: The amounts advanced by the telephone bank in each fiscal year during the period beginning with fiscal year 1974 and ending with the preceding fiscal year, multiplied, respectively, by the cost of money rate for the fiscal year (as set forth in the table in subparagraph (E)) for fiscal years 1974 through 1987, and as determined by the Governor under this subparagraph for fiscal years after fiscal year 1987), each of which products is divided, respectively, by the aggregate of the amounts advanced by the telephone bank during the period.
 
-&emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years in which each advance was made shall be as set forth in the following table:
+&emsp;(E) For purposes of subparagraph (D)(II), the cost of money rate for the fiscal years inwhich each advance was made shall be as set forth in the following table:
 
 <b> </b>
 
@@ -142,7 +142,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (5) Certificate of convenience and necessity required from State regulatory agency or statement of telephone bank's Governor of nonduplication of lines, facilities, or systems
 
-&emsp;No loan shall be made in any State which now has or may hereafter have a State regulatory body having authority to regulate telephone service and to require certificates of convenience and necessity to the applicant unless such certificate from such agency is first obtained. In a State in which there is no such agency or regulatory body legally authorized to issue such certificates to the applicant, no loan shall be made under this section unless the Governor of the telephone bank shall determine (and set forth his reasons therefor in writing) that no duplication of lines, facilities, or systems, providing reasonably adequate services will result therefrom.
+&emsp;No loan shall be made in any State which now has or may hereafter have a State regulatory body having authority to regulate telephone service and to require certificates of convenience and necessity to the applicant unless such certificate from such agency is first obtained. In a State in which there is no such agency or regulatory body legally authorized to issue such certificates to the applicant, no loan shall be made under this section unless the Governor of the telephone bank shall determine (and set forth his reasons therefor in writing) that no duplication of lines, facilities,or systems, providing reasonably adequate services will result therefrom.
 
 #### (6) Definitions: telephone service; telephone lines, facilities, or systems
 
@@ -158,7 +158,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(B) If a borrower prepays part or all of a loan made under this section, then, notwithstanding section 947(b) of this title, the Governor of the telephone bank shall—
 
-&emsp;&emsp;(i) use the full amount of the prepayment to repay obligations of the telephone bank issued pursuant to section 947(b) of this titlebefore October 1, 1991, to the extent any such obligations are outstanding; and
+&emsp;&emsp;(i) use the full amount of the prepayment to repay obligations of the telephone bank issued pursuant to section 947(b) of this title before October 1, 1991, to the extent any such obligations are outstanding; and
 
 &emsp;&emsp;(ii) in repaying the obligations, first repay the advances bearing the greatest rate of interest.
 
@@ -200,7 +200,7 @@ Loans and advances made under this section on or after November 5, 1990, shall b
 
 Subsec. (b)(4). Pub. L. 103–129, §2(a)(2)(B)(i), added par. (4) and struck out former par. (4) which related to adequacy of security and capacity for repayment of loans made under this section.
 
-Subsec. (b)(8)(A). Pub. L. 103–129, §2(a)(2)(B)(ii), designated existing provisions as subpar. (A), substituted “except for any prepayment penalty provided for in a loan agreement entered into before November 1, 1993” for “if such prepayment is not made later than September 30, 1988”, and added subpar. (B).
+Subsec. (b)(8)(A). Pub. L. 103–129, §2(a)(2)(B)(ii), designated existing provisions as subpar. (A), substituted “except for any prepayment penalty provided for in aloan agreement entered into before November 1, 1993” for “if such prepayment is not made later than September 30, 1988”, and added subpar. (B).
 
 Subsec. (b)(9), (10). Pub. L. 103–129, §2(a)(2)(B)(iii), added pars. (9) and (10).
 
@@ -222,7 +222,7 @@ Subsec. (b)(4). Pub. L. 100–203, §1412, inserted at end “For purposes of de
 
 Subsec. (b)(8). Pub. L. 100–203, §1411(b)(1), added par. (8).
 
-1973—Subsec. (a). Pub. L. 93–32, §8, inserted “or which have been certified by the Administrator to be eligiblefor such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
+1973—Subsec. (a). Pub. L. 93–32, §8, inserted “or which have been certified by the Administrator to be eligible for such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
 
 Subsec. (b)(3). Pub. L. 93–32, §9, substituted provisions for a “cost of money rate” of interest with a “not less than 5 per centum per annum” limit on such rate, for provisions for interest “at the highest rate which meets the requirements set forth in paragraph (4), consistent with the borrower's ability to pay such interest rate and with achievement of the objectives of this chapter” with a “not less than 4 per centum per annum” limit on such rate.
 

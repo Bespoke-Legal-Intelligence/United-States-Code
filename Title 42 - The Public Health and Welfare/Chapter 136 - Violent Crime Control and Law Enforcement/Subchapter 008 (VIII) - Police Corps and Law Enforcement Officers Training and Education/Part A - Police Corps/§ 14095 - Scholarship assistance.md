@@ -22,7 +22,7 @@
 
 #### (b) Reimbursement authorized
 
-(1) The Director may make payments to a participant to reimburse such participant for the costs of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d) of this section.
+(1) The Director may make payments to a participant to reimburse such participant for thecosts of educational expenses if the student agrees to work in a State or local police force in accordance with the agreement entered into pursuant to subsection (d) of this section.
 
 (2)(A) Each payment made pursuant to paragraph (1) for each academic year of study shall not exceed—
 

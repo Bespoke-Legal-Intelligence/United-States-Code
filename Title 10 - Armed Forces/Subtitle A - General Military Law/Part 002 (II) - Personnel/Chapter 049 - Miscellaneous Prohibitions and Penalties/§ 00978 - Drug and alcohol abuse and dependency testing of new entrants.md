@@ -26,11 +26,11 @@
 
 (4) The Secretary concerned may place on excess leave any member of the armed forces whose test results under subsection (a)(2) are positive for drug or alcohol use. The Secretary may continue such member's status on excess leave pending disposition of the member's case and processing for administrative separation.
 
-(d) The testing and evaluation required by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense in consultation with the Secretary of Transportation. Those regulations shall apply uniformly throughout the armed forces.
+(d) The testing and evaluation required by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense in consultation with the Secretary of Homeland Security. Those regulations shall apply uniformly throughout the armed forces.
 
 (e) In time of war, or time of emergency declared by Congress or the President, the President may suspend the provisions of subsection (a).
 
-(Added Pub. L. 97–295, §1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, §513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, §521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, §513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, §1484(k)(4), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 103–160, div. A, title V, §572, Nov. 30, 1993, 107 Stat. 1673.)
+(Added Pub. L. 97–295, §1(14)(A), Oct. 12, 1982, 96 Stat. 1289; amended Pub. L. 100–180, div. A, title V, §513(a)(1), Dec. 4, 1987, 101 Stat. 1091; Pub. L. 100–456, div. A, title V, §521(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 101–189, div. A, title V, §513(a)–(c), Nov. 29, 1989, 103 Stat. 1440; Pub. L. 101–510, div. A, title XIV, §1484(k)(4), Nov. 5, 1990,104 Stat. 1719; Pub. L. 103–160, div. A, title V, §572, Nov. 30, 1993, 107 Stat. 1673; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -49,6 +49,8 @@ Sept. 28, 1971, Pub. L. 92–129, §501(a)(2), (b), 85 Stat. 361.
 The word “regulations” is added for consistency. The word “persons” is omitted as surplus. The word “person” is substituted for “individuals” for consistency. The text of subsection (b) is omitted as executed.
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1993—Subsec. (a)(3). Pub. L. 103–160 substituted “within 72 hours of such appointment” for “during the physical examination given the applicant before such appointment” and “before such an appointment is executed” for “during the precommissioning physical examination given such person”.
 
@@ -87,6 +89,10 @@ Subsec. (c)(4). Pub. L. 101–189, §513(c), added par. (4).
 “(d) The testing required by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense in consultation with the Secretary of Transportation. Those regulations shall apply uniformly throughout the armed forces.”
 
 1987—Pub. L. 100–180 substituted “Mandatory testing for drug, chemical, and alcohol abuse” for “Denial of entrance into the armed forces of persons dependent on drugs or alcohol” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (d) provisions formerly contained in subsecs. (a) and (b).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1989 Amendment
 

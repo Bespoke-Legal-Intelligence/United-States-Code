@@ -18,7 +18,7 @@
 | :--- | ---: |
 | [6611\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006611%20-%20Establishment%20of%20Office.md) | Establishment of Office. |
 | [6612\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006612%20-%20Director%3B%20Associate%20Directors.md) | Director; Associate Directors. |
-| [6613\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006613%20-%20Functions%20of%20the%20Director.md) | Functions of Director. |
+| [6613\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006613%20-%20Functions%20of%20the%20Director.md) | Functions of the Director. |
 | [6614\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006614%20-%20Policy%20planning%3B%20analysis%3B%20advice%3B%20establishment%20of%20advisory%20panel.md) | Policy planning; analysis; advice; establishment of advisory panel. |
 | [6615\.](Subchapter%20002%20%28II%29%20-%20Office%20of%20Science%20and%20Technology%20Policy/%C2%A7%2006615%20-%20Science%20and%20technology%20report%20and%20outlook.md) | Science and technology report and outlook. |
 | (a) | Contents of report. |

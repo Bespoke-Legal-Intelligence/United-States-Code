@@ -18,7 +18,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (2) Orders, appeals, and payments
 
-&emsp;Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this part had not been enacted, and orders issued in any such proceedings shall continuein effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
+&emsp;Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this part had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
 
 #### (3) Statutory construction
 

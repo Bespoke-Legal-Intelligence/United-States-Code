@@ -194,7 +194,7 @@ Resource conservation program.—The Secretary of the Interior, acting through t
 
 &emsp;&emsp;“(B) conduct a wildlife species and habitat assessment survey in the Lake Champlain basin, including—
 
-&emsp;&emsp;&emsp;“(i) a survey of Federal threatened and endangered species, listed or proposed for listing under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), New York State and State of Vermontthreatened and endangered species and other species of special concern, migratory nongame species of management concern, and national resources plan species;
+&emsp;&emsp;&emsp;“(i) a survey of Federal threatened and endangered species, listed or proposed for listing underthe Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), New York State and State of Vermont threatened and endangered species and other species of special concern, migratory nongame species of management concern, and national resources plan species;
 
 &emsp;&emsp;&emsp;“(ii) a survey of wildlife habitats such as islands, wetlands, and riparian areas; and
 

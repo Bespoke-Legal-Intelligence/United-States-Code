@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Agriculture
 
-Within the boundaries of the Rattlesnake National Recreation Area and Rattlesnake Wilderness, the Secretary is authorized and directed toacquire with donated or appropriated funds including amounts appropriated from the Land and Water Conservation Fund, by exchange, gift, or purchase, such non-Federal lands, interests, or any other property, in conformance with the provisions of this section. Nothing in this subchapter shall be construed to limit or diminish the existing authority of the Secretary to acquire lands and interests therein within or contiguous to the Rattlesnake National Recreation Area or Rattlesnake Wilderness.
+Within the boundaries of the Rattlesnake National Recreation Area and Rattlesnake Wilderness, the Secretary is authorized and directed to acquire with donated or appropriated funds including amounts appropriated from the Land and Water Conservation Fund, by exchange, gift, or purchase, such non-Federal lands, interests, or any other property, in conformance with the provisions of this section. Nothing in this subchapter shall be construed to limit or diminish the existing authority of the Secretary to acquire lands and interests therein within or contiguous to the Rattlesnake National Recreation Area or Rattlesnake Wilderness.
 
 #### (b) Exchange of lands for bidding rights on coal lease sales or coal lease modifications; bidding rights as monetary credit; transfer or sale
 

@@ -24,7 +24,7 @@ Use of Seized Plant.—The President, through the head of any department, may ma
 
 (e)
 
-Compensation Required.—Each person or industry from whom products or materials are ordered under subsection (a) is entitled to fair and just compensation. Each person or industry whose plant is seized under subsection (c) is entitled to a fair and just rental.
+Compensation Required.—Each person or industry from whom products or materials are ordered under subsection (a) is entitled to fair and just compensation. Each person or industrywhose plant is seized under subsection (c) is entitled to a fair and just rental.
 
 (f)
 

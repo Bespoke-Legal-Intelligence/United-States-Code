@@ -4,7 +4,7 @@
 
 #### (1) Inspection or disclosure by employee of United States
 
-&emsp;If any officer or employee of the United States knowingly, or by reason of negligence, inspects or discloses any return or return information with respect to a taxpayer in violation of any provision of section 6103, such taxpayer may bring a civil action for damagesagainst the United States in a district court of the United States.
+&emsp;If any officer or employee of the United States knowingly, or by reason of negligence, inspects or discloses any return or return information with respect to a taxpayer in violation of any provision of section 6103, such taxpayer may bring a civil action for damages against the United States in a district court of the United States.
 
 #### (2) Inspection or disclosure by a person who is not an employee of United States
 

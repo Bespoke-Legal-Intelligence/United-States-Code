@@ -1,6 +1,6 @@
 ### §127. Emergency and extraordinary expenses
 
-(a) Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considers advisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
+(a) Subject to the limitations of subsection (c), and within the limitation of appropriations made for the purpose, the Secretary of Defense, the Inspector General of the Department of Defense, and the Secretary of a military department within his department, may provide for any emergency or extraordinary expense which cannot be anticipated or classified. When it is so provided in such an appropriation, the funds may be spent on approval or authority of the Secretary concerned or the Inspector General for any purpose he determines to be proper, and such a determination is final and conclusive upon the accounting officers of the United States. The Secretary concerned or the Inspector General may certify the amount of any such expenditure authorized by him that he considersadvisable not to specify, and his certificate is sufficient voucher for the expenditure of that amount.
 
 (b) The authority conferred by this section may be delegated by the Secretary of Defense to any person in the Department of Defense, by the Inspector General to any person in the Office of the Inspector General, or by the Secretary of a military department to any person within his department, with or without the authority to make successive redelegations.
 
@@ -14,11 +14,15 @@
 
 (3) A notification under paragraph (1) and information referred to in paragraph (2) shall include the amount to be obligated or expended, as the case may be, and the purpose of the obligation or expenditure.
 
-(d) In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+(d)
 
-(Added Pub. L. 94–106, title VIII, §804(a), Oct. 7, 1975, 89 Stat. 538, §140; amended Pub. L. 98–94,title XII, §1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered §127 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, §361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, §378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, §915, title XV, §1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+Annual Report.—Not later than December 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures during the preceding fiscal year under subsections (a) and (b).
+
+(Added Pub. L. 94–106, title VIII, §804(a), Oct. 7, 1975, 89 Stat. 538, §140; amended Pub. L. 98–94, title XII, §1268(2), Sept. 24, 1983, 97 Stat. 705; renumbered §127 and amended Pub. L. 99–433, title I, §§101(a)(3), 110(d)(4), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 103–160, div. A, title III, §361, Nov. 30, 1993, 107 Stat. 1627; Pub. L. 103–337, div. A, title III, §378, Oct. 5, 1994, 108 Stat. 2737; Pub. L. 104–106, div. A, title IX, §915, title XV, §1502(a)(5), Feb. 10, 1996, 110 Stat. 413, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(2), Nov. 24, 2003, 117 Stat. 1596.)
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In any case in which funds are expended under the authority of subsections (a) and (b), the Secretary of Defense shall submit a report of such expenditures on a quarterly basis to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
 1999—Subsecs. (c)(1), (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification,pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
+Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
 
 #### (b) Regulations
 
@@ -154,7 +154,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (D) Transmission of determination
 
-&emsp;&emsp;The Director shall transmit the determination of such appeal in the form of a written opinion to such board and to such education line officer identifying the reasons for overturning such determination.
+&emsp;&emsp;The Director shall transmit the determination of such appeal in the form of awritten opinion to such board and to such education line officer identifying the reasons for overturning such determination.
 
 #### (e) Discharge and conditions of employment of educators
 
@@ -324,7 +324,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iv) Discontinuation of or decrease in rates
 
-&emsp;&emsp;&emsp;The Secretary or the supervisor of a Bureau school may discontinue or decrease a post differential rate provided for underthis paragraph at the beginning of an academic year if—
+&emsp;&emsp;&emsp;The Secretary or the supervisor of a Bureau school may discontinue or decrease a post differential rate provided for under this paragraph at the beginning of an academic year if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the local school board requests that such differential be discontinued or decreased; or
 
@@ -462,9 +462,9 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 #### (1) In general
 
-&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
+&emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>5</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>6</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
 
-&emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
+&emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>7</sup> of this title; and
 
 &emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services at such Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
 
@@ -474,7 +474,7 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 #### (2) Appeals
 
-&emsp;The supervisor of a Bureau school may appeal to the appropriate agency education line officer any refusal by the local school board to approve any determination of the supervisor that is described in paragraph (1)(A) by filing a written statement describing the determination and the reasons the supervisor believes such determination should be approved. A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the education line officer may, for good cause, approve the determination of the supervisor. The educational line officer shall transmit the determination of such appeal in the form of a written opinion to such local school board and to the supervisor identifying the reasons for approving such determination.
+&emsp;The supervisor of a Bureau school may appeal to the appropriate agency education line officer any refusal by the local school board to approve any determination of the supervisor that is described in paragraph (1)(A) by filing a written statement describing the determination and the reasons the supervisor believes such determination should be approved. A copy of such statement shall be submitted tothe local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal. After reviewing such written appeal and response, the education line officer may, for good cause, approve the determination of the supervisor. The educational line officer shall transmit the determination of such appeal in the form of a written opinion to such local school board and to the supervisor identifying the reasons for approving such determination.
 
 #### (r) Stipends
 
@@ -522,7 +522,9 @@ This section is referred to in section 2505 of this title.
 
 <i><sup>4</sup></i><i> So in original. Subsec. (l)(1) of this section does not contain subpars.</i>
 
-<i><sup>5</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
+<i><sup>5</sup></i><i> See References in Text note below.</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be section “2010(b)”.</i>
+<i><sup>6</sup></i><i> So in original. The comma probably should be a closing parenthesis.</i>
+
+<i><sup>7</sup></i><i> So in original. Probably should be section “2010(b)”.</i>
 

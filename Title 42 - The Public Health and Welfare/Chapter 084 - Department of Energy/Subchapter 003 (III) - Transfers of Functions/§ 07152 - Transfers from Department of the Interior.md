@@ -34,7 +34,7 @@ There are transferred to, and vested in, the Secretary those functions of the Se
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, asamended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
 
@@ -108,7 +108,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 “(f)
 
-Contributed Funds.—Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shall administer and expend any remaining balances of such contributed funds for the purposes intended by the contributors.
+Contributed Funds.—Notwithstanding any other provision of law, the Alaska Power Administration is authorized to receive, administer, and expend such contributed funds as may be provided by the Eklutna Purchasers or customers or the Snettisham Purchaser or customers for the purposes of upgrading, improving, maintaining, or administering Eklutna or Snettisham. Upon the termination of the Alaska Power Administration under section 104(f), the Secretary of Energy shalladminister and expend any remaining balances of such contributed funds for the purposes intended by the contributors.
 
 #### “SEC. 104. EXEMPTION AND OTHER PROVISIONS.
 
@@ -126,7 +126,7 @@ Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna 
 
 “(c)
 
-Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to reviewdecisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
 “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
 

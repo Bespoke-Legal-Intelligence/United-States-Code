@@ -60,7 +60,7 @@ Section 1(a) of Pub. L. 103–82 provided that: “This Act \[see Tables for cla
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
+Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639,12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
 
 #### Short Title of 1991 Amendment
 
@@ -71,6 +71,8 @@ Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: “This Act \
 Section 1(a) of Pub. L. 101–610 provided that: “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the ‘National and Community Service Act of 1990’.”
 
 Section 110 of subtitle B (§§110–118) of title I of Pub. L. 101–610, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
+
+Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, provided that: “This Act \[enacting section 12605 of this title\] may be cited as the ‘Strengthen AmeriCorps Program Act’.”
 
 Section 199 \[formerly 120\] of subtitle I (§§199–199O) \[formerly subtitle C (§§120–136)\] of title I of Pub. L. 101–610, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: “This subtitle \[enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
 
@@ -183,6 +185,114 @@ Sec. 5. <i>General Provisions</i>. (a) The White House Office shall provide the 
 (b) This order does not alter the existing authorities or roles of executive branch departments, agencies, or offices. Nothing in this order shall supersede any requirement made by or under law.
 
 (c) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13317. Volunteers for Prosperity
+
+Ex. Ord. No. 13317, Sept. 25, 2003, 68 F.R. 56515, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage volunteer service by highly skilled Americans to support major initiatives by the United States for promoting health and prosperity around the world, it is hereby ordered as follows:
+
+Section 1. (a) <i>Policy</i>. A part of USA Freedom Corps, “Volunteers for Prosperity” is a call to service to support major U.S. initiatives that promote health and prosperity around the world. Deploying highly skilled volunteers abroad is an efficient way to use our resources consistent with the objectives of the United States Government's global prosperity agenda. United States volunteers will help to achieve the objectives of the global prosperity agenda, including providing clean water to the poor, promoting democratic governance, developing economic freedom, promoting free and open markets, and stemming the spread of HIV/AIDS.
+
+The investment of Federal resources to enable U.S. volunteers to work with nongovernmental and voluntary service organizations overseas is a preferred use of our resources and also will help leverage private sector resources. United States citizens who are skilled professionals and who volunteer, when matched with organizations working on specific U.S. prosperity initiatives overseas, can provide invaluable support for these initiatives and will supplement and complement the traditions and accomplishments of the Peace Corps.
+
+United States prosperity initiatives that can benefit from volunteer service include, but are not limited to, the Emergency Plan for AIDS Relief, the Digital Freedom Initiative, the Water for the Poor Initiative, the Trade for African Development and Enterprise Initiative, and the Middle East Partnership Initiative.
+
+Volunteer service in support of other initiatives, consistent with U.S. foreign policy, shall be considered as well.
+
+(b) <i>Applicability</i>. The following agencies are subject to the requirements of this order: the United States Agency for International Development (USAID), the Department of State, the Department of Commerce, the Department of Health and Human Services, and such other Federal agencies as the President may designate in the future.
+
+Sec. 2. <i>Establishment</i>. (a) Agencies subject to this order shall each establish within their respective organizations an Office for Volunteers for Prosperity (Office) or, as appropriate, an operating unit within an office.
+
+(b) Each agency subject to this order shall provide its Office or unit with appropriate staff, administrativesupport, and resources to meet its responsibilities under this order.
+
+(c) Each of these Offices or units shall begin operations no later than 30 days from the date of this order.
+
+(d) Agencies subject to this order shall consider, in evaluating grant applications for assistance activities to be implemented abroad, the applicant's use of highly skilled U.S. volunteers to support U.S. prosperity objectives and initiatives.
+
+Sec. 3. <i>Purpose</i>. To the extent permitted by law, the purpose of the Offices will be to promote, expand, and enhance well-defined volunteer service opportunities for highly skilled U.S. professionals who wish to work with nongovernmental and voluntary service organizations around the world in support of major U.S. prosperity initiatives as identified in section 1 of this order. Such promotion, expansion, and enhancement would include actively participating in the design and selection processes for grants within their agencies, tracking the use of U.S. private volunteer organizations by their agencies, and coordinating with White House Offices including the USA Freedom Corps, the Office of National AIDS Policy, and the Office of Faith-Based and Community Initiatives, as appropriate.
+
+Sec. 4. <i>Funding</i>. Agencies subject to this order are hereby directed to use their best efforts to use funds available for the U.S. prosperity initiatives listed in section 1 of this order to provide appropriate support to organizations that use highly skilled U.S. volunteers to accomplish the objectives identified in those initiatives.
+
+Sec. 5. <i>Coordination</i>. The USAID shall serve as the inter-agency coordinator for the Volunteers for Prosperity initiative. In that capacity, the USAID shall coordinate the activities that fall within the scope of the initiative and report on the progress of the initiative to the USA Freedom Corps Office, within the White House Office. The reports shall be submitted within 180 days after the date of this order and annually thereafter. The USA Freedom Corps Council shall encourage consistency in policies and practices within the agencies subject to this order, as appropriate, for purposes related to the Volunteers for Prosperity initiative.
+
+Sec. 6. <i>Administration</i>. The actions directed by this order shall be carried out subject to the availability of appropriations, to the extent permitted by law, and consistent with the agencies’ missions.
+
+Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch of the Federal Government, and it is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13331. National and Community Service Programs
+
+Ex. Ord. No. 13331, Feb. 27, 2004, 69 F.R. 9911, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen the ability of programs authorized under the national service laws to build and reinforce a culture of service, citizenship, and responsibility throughout our Nation, and to institute reforms to improve accountability and efficiency in the administration of those programs, it is hereby ordered as follows:
+
+Section 1. <i>Definitions</i>. For purposes of this order:
+
+(a) “National service laws” means the National and Community Service Act of 1990 (42 U.S.C. 12501 <i>et seq</i>.) and the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 <i>et seq</i>.);
+
+(b) “National and community service programs” means those programs authorized under the national service laws;
+
+(c) “Policies governing programs authorized under the national service laws” refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National and Community Service (Corporation) and have significant effects on national and community service programs; and
+
+(d) “Professional corps programs” means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)).
+
+Sec. 2. <i>Fundamental Principles and Policymaking Criteria</i>. In formulating and implementing policies governing programs authorized under the national service laws, the Corporation shall, to the extent permitted by law, adhere to the following fundamental principles:
+
+(a) National and community service programs should support and encourage greater engagement of Americans in volunteering;
+
+(b) National and community service programs should be more responsive to State and local needs;
+
+(c) National and community service programs should make Federal support more accountable and more effective; and
+
+(d) National and community service programs should expand opportunities for involvement of faith-based and other community organizations.
+
+Sec. 3. <i>Agency Implementation</i>. (a) The Chief Executive Officer of the Corporation for National and Community Service (Chief Executive Officer) shall, in coordination with the USA Freedom Corps Council, review and evaluate existing policies governing national and community service programs in order to assess the consistency of such policies with the fundamental principles and policymaking criteria described in section 2 of this order.
+
+(b) The Chief Executive Officer shall ensure that all policies governing national and community service programs issued by the Corporation are consistent with the fundamental principles and policymaking criteria described in section 2 of this order. To that end, the Chief Executive Officer shall, to the extent permitted by law,
+
+&emsp;(i) amend all such existing policies to ensure that they are consistent with the fundamental principles and policymaking criteria articulated in section 2 of this order; and
+
+&emsp;(ii) where appropriate, implement new policies that are consistent with and necessary to further the fundamental principles and policymaking criteria set forth in section 2 of this order.
+
+(c) In developing implementation steps, the Chief Executive Officer should address, at a minimum, the following objectives:
+
+&emsp;(i) National and community service programs should leverage Federal resources to maximize support from the private sector and from State and local governments, with an emphasis on reforms that enhance programmatic flexibility, reduce administrative burdens, and calibrate Federal assistance to the respective needs of recipient organizations;
+
+&emsp;(ii) National and community service programs should leverage Federal resources to enable the recruitment and effective management of a larger number of volunteers than is currently possible;
+
+&emsp;(iii) National and community service programs should increase efforts to expand opportunities for, and strengthen the capacity of, faith-based and other community organizations in building and strengthening an infrastructure to support volunteers that meet community needs;
+
+&emsp;(iv) National and community service programs should adopt performance measures to identify those practices that merit replication and further investment, as well as to ensure accountability;
+
+&emsp;(v) National and community service programs should, consistent with the principles of Federalism and the constitutional role of the States and Indian tribes, promote innovation, flexibility, and results at all levels of government;
+
+&emsp;(vi) National and community service programs based in schools should employ tutors who meet required paraprofessional qualifications, and use such practices and methodologies as are required for supplemental educational services;
+
+&emsp;(vii) National and community service programs should foster a lifetime of citizenship and civic engagement among those who serve;
+
+&emsp;(viii) National and community service programs should avoid or eliminate practices that displace volunteers who are not supported under the national service laws; and
+
+&emsp;(ix) Guidelines for the selection of national and community service programs should recognize the importance of professional corps programs in light of the fundamental principles and policymaking criteria set forth in this order.
+
+Sec. 4. <i>Management Reforms</i>. (a) The Corporation should implement internal management reforms to strengthen its oversight of national and community service programs through enforcement of performance and compliance standards and other management tools.
+
+(b) Management reforms should include, but should not be limited to, the following:
+
+&emsp;(i) Institutionalized changes to the budgetary and grant-making processes to ensure that financial commitments remain within available resources;
+
+&emsp;(ii) Enhanced accounting and management systems that would ensure compliance with fiscal restrictions and provide timely, accurate, and readily available information about enrollment in AmeriCorps and about funding and obligations incurred for all national and community service programs;
+
+&emsp;(iii) Assurance by the Chief Executive Officer and the Chief Financial Officer in the Corporation's Management Representation Letter that its financial statements, including the Statement of Budgetary Resources, are accurate and reliable; and
+
+&emsp;(iv) Management reforms that tie employee performance to fiscal responsibility, attainment of management goals, and professional conduct.
+
+Sec. 5. <i>Report</i>. Within 180 days after the date of this order, the Chief Executive Officer shall report to the President, through the Assistant to the President and Director of the USA Freedom Corps Office, the actions the Corporation proposes to undertake to accomplish the objectives set forth in this order.
+
+Sec. 6. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

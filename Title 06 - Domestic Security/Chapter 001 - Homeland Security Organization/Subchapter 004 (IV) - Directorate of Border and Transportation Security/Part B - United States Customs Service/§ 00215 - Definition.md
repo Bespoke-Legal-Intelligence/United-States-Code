@@ -16,13 +16,13 @@ In this part, the term “customs revenue function” means the following:
 
 &emsp;(7) Functions performed by the following personnel, and associated support staff, of the United States Customs Service on the day before the effective date of this chapter: Import Specialists, Entry Specialists, Drawback Specialists, National Import Specialist, Fines and Penalties Specialists, attorneys of the Office of Regulations and Rulings, Customs Auditors, International Trade Specialists, Financial Systems Specialists.
 
-&emsp;(8) Functions performed by the following offices, with respect to any function described inany of paragraphs (1) through (7), and associated support staff, of the United States Customs Service on the day before the effective date of this chapter: the Office of Information and Technology, the Office of Laboratory Services, the Office of the Chief Counsel, the Office of Congressional Affairs, the Office of International Affairs, and the Office of Training and Development.
+&emsp;(8) Functions performed by the following offices, with respect to any function described in any of paragraphs (1) through (7), and associated support staff, of the United States Customs Service on the day before the effective date of this chapter: the Office of Information and Technology, the Office of Laboratory Services, the Office of the Chief Counsel, the Office of Congressional Affairs, the Office of International Affairs, and the Office of Training and Development.
 
 (Pub. L. 107–296, title IV, §415, Nov. 25, 2002, 116 Stat. 2180.)
 
 #### References in Text
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§411–419) of title IV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2178, which enacted this part, amended section 5314 of Title 5, Government Organization and Employees, section 58c of Title 19, Customs Duties, and provisions set out as a note under section 2075 of Title 19. For complete classification of subtitle B to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§411–419) of titleIV of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2178, which enacted this part, amended section 5314 of Title 5, Government Organization and Employees, section 58c of Title 19, Customs Duties, and provisions set out as a note under section 2075 of Title 19. For complete classification of subtitle B to the Code, see Tables.
 
 The effective date of this chapter, referred to in pars. (7) and (8), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 

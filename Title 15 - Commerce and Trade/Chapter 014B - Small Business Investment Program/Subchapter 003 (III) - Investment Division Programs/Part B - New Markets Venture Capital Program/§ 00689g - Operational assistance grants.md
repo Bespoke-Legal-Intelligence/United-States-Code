@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;In accordance with this section, the Administrator may make grants to New Markets Venture Capital companies and to other entities, as authorized by this part, to provide operational assistance to smaller enterprises financed, or expected to be financed, by such companies or other entities.
+&emsp;In accordance with this section, the Administrator may make grants to New Markets Venture Capital companies and to other entities, as authorized by this part, to provideoperational assistance to smaller enterprises financed, or expected to be financed, by such companies or other entities.
 
 #### (2) Terms
 

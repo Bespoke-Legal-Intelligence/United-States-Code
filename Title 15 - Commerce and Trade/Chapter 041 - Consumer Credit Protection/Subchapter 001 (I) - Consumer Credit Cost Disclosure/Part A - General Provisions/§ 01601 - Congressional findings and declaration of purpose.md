@@ -2,7 +2,7 @@
 
 #### (a) Informed use of credit
 
-The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions andother firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this subchapter to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer against inaccurate and unfair credit billing and credit card practices.
+The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions and other firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this subchapter to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer against inaccurate and unfair credit billing and credit card practices.
 
 #### (b) Terms of personal property leases
 
@@ -27,6 +27,10 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 #### Effective Date
 
 Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
+
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–159, §1(a), Dec. 4, 2003, 117 Stat. 1952, provided that: “This Act \[enacting sections 1681c–1, 1681c–2, 1681s–3, 1681w, and 1681x of this title and sections 9701 to 9708 of Title 20, Education, amending sections 1681a, 1681b, 1681c, 1681g, 1681i, 1681j, 1681m, 1681<i>o</i>,1681p, 1681s, 1681s–2, 1681t, 1681u, and 1681v of this title and section 5318 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 1681, 1681a, 1681b, 1681c, 1681c–1, 1681i, 1681j, 1681m, 1681n, 1681s–2, 1681s–3 of this title, and section 9701 of Title 20, and amending provisions set out as a note under this section\] may be cited as the ‘Fair and Accurate Credit Transactions Act of 2003’.”
 
 #### Short Title of 1999 Amendment
 
@@ -70,7 +74,7 @@ Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: �
 
 #### Short Title of 1976 Amendments
 
-Section 1 of Pub. L. 94–240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enactingprovisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
+Section 1 of Pub. L. 94–240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
 
 Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
 
@@ -88,7 +92,7 @@ Section 101 of title I of Pub. L. 90–321 provided that: “This title \[enacti
 
 Section 401 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title \[enacting subchapter II–A of this chapter\] may be cited as the ‘Credit Repair Organizations Act’.”
 
-Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
+Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128, as amended by Pub. L. 108–159, title VIII, §811(a), Dec. 4, 2003, 117 Stat. 2011, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Fair Credit Reporting Act’.”
 
 Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title \[enacting subchapter IV of this chapter and notes set out under section 1691 of this title\] may be cited as the ‘Equal Credit Opportunity Act’.”
 
@@ -99,6 +103,48 @@ Section 901 of title IX of Pub. L. 90–321, as added Pub. L. 95–630, title XX
 #### Severability
 
 Section 501 of Pub. L. 90–321 provided that: “If a provision enacted by this Act \[see Short Title note above\], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+
+#### Analysis of Further Restrictions on Offers of Credit or Insurance
+
+Pub. L. 108–159, title II, §213(e), Dec. 4, 2003, 117 Stat. 1979, provided that:
+
+“(1)
+
+In general.—The Board shall conduct a study of—
+
+&emsp;“(A) the ability of consumers to avoid receiving written offers of credit or insurance in connection with transactions not initiated by the consumer; and
+
+&emsp;“(B) the potential impact that any further restrictions on providing consumers with such written offers of credit or insurance would have on consumers.
+
+“(2)
+
+Report.—The Board shall submit a report summarizing the results of the study required under paragraph (1) to the Congress not later than 12 months after the date of enactment of this Act \[Dec. 4, 2003\], together with such recommendations for legislative or administrative action as the Board may determine to be appropriate.
+
+“(3)
+
+Content of report.—The report described in paragraph (2) shall address the following issues:
+
+&emsp;“(A) The current statutory or voluntary mechanisms that are available to a consumer to notify lenders and insurance providers that the consumer does not wish to receive written offers of credit or insurance.
+
+&emsp;“(B) The extent to which consumers are currently utilizing existing statutory and voluntary mechanisms to avoid receiving offers of credit or insurance.
+
+&emsp;“(C) The benefits provided to consumers as a result of receiving written offers of credit or insurance.
+
+&emsp;“(D) Whether consumers incur significant costs or are otherwise adversely affected by the receipt of written offers of credit or insurance.
+
+&emsp;“(E) Whether further restricting the ability of lenders and insurers to provide written offers of credit or insurance to consumers would affect—
+
+&emsp;&emsp;“(i) the cost consumers pay to obtain credit or insurance;
+
+&emsp;&emsp;“(ii) the availability of credit or insurance;
+
+&emsp;&emsp;“(iii) consumers’ knowledge about new or alternative products and services;
+
+&emsp;&emsp;“(iv) the ability of lenders or insurers to compete with one another; and
+
+&emsp;&emsp;“(v) the ability to offer credit or insurance products to consumers who have been traditionally underserved.”
+
+\[For definitions of terms used in section 213(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
 #### Federal Reserve Study of Home Equity Lending and Appropriate Interest Rate Index
 

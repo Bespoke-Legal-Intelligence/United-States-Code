@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount equal to 1/12 of the annual Medicare+Choice capitation rate (as calculated under subsection (c) of this section) with respect to that individual for that area, reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title and adjusted for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretarymay add to, modify, or substitute for such factors, if such changes will improve the determination of actuarial equivalence.
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g),and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount equal to 1/12 of the annual Medicare+Choice capitation rate (as calculated under subsection (c) of this section) with respect to that individual for that area, reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title and adjusted for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such factors, if such changes will improve the determination of actuarial equivalence.
 
 #### (B) Special rule for end-stage renal disease
 
@@ -46,7 +46,7 @@
 
 #### (ii) Phase-in
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), such risk adjustment methodology shall be implemented in a phased-in manner so that the methodology insofar as it makes adjustments to capitation rates for health status applies to—
+&emsp;&emsp;&emsp;Except as provided in clause (iv), such risk adjustment methodology shall be implemented in a phased-in manner so that the methodology insofar as it makes adjustments to capitation rates for health status applies to—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of 1/12 of the annual Medicare+Choice capitation rate in 2000 and each succeeding year through 2003;
 
@@ -58,11 +58,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) 100 percent of such capitation rate in 2007 and succeeding years.
 
-#### (iii) <sup>1</sup> Data for risk adjustment methodology
+#### (iii) Data for risk adjustment methodology
 
 &emsp;&emsp;&emsp;Such risk adjustment methodology for 2004 and each succeeding year, shall be based on data from inpatient hospital and ambulatory settings.
 
-#### (iii) <sup>1</sup> Full implementation of risk adjustment for congestive heart failure enrollees for 2001
+#### (iv) Full implementation of risk adjustment for congestive heart failure enrollees for 2001
 
 #### (I) Exemption from phase-in
 
@@ -96,7 +96,7 @@
 
 #### (4) Continued computation and publication of county-specific per capita fee-for-service expenditure information
 
-&emsp;The Secretary, through the Chief Actuary of the Health Care Financing Administration, shall provide for the computation and publication, on an annual basis beginning with 2001 at the time of publication of the annual Medicare+Choice capitation rates under paragraph (1), of the following information for the original medicare fee-for-service program under parts A and B of this subchapter (exclusive of individuals eligible for coverage under section 426–1 of this title) for each Medicare+Choice payment area for the second calendar year ending before the date of publication:
+&emsp;The Secretary, through the Chief Actuary of the Centers for Medicare \& Medicaid Services, shall provide for the computation and publication, on an annual basis beginning with 2001 at the time of publication of the annual Medicare+Choice capitation rates under paragraph (1), of the following information for the original medicare fee-for-service program under parts A and B of this subchapter (exclusive of individuals eligible for coverage under section 426–1 of this title) for each Medicare+Choice payment area for the second calendar year ending before the date of publication:
 
 &emsp;&emsp;(A) Total expenditures per capita per month, computed separately for part A of this subchapter and for part B of this subchapter.
 
@@ -110,17 +110,17 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part, subject to paragraphs (6)(C) and (7), each annual Medicare+�Choice capitation rate, for a Medicare+Choice payment area for a contract year consisting of a calendar year, is equal to the largest of the amounts specified in the following subparagraph (A), (B), or (C):
+&emsp;For purposes of this part, subject to paragraphs (6)(C) and (7), each annual Medicare+�Choice capitation rate, for a Medicare+Choice payment area for a contract year consisting of a calendar year, is equal to the largest of the amounts specified in the following subparagraph (A), (B), (C), or (D):
 
 #### (A) Blended capitation rate
 
-&emsp;&emsp;The sum of—
+&emsp;&emsp;For a year before 2005, the sum of—
 
 &emsp;&emsp;&emsp;(i) the area-specific percentage (as specified under paragraph (2) for the year) of the annual area-specific Medicare+Choice capitation rate for the Medicare+Choice payment area, as determined under paragraph (3) for the year, and
 
 &emsp;&emsp;&emsp;(ii) the national percentage (as specified under paragraph (2) for the year) of the input-price-adjusted annual national Medicare+Choice capitation rate, as determined under paragraph (4) for the year,
 
-> &emsp;&emsp;multiplied by the budget neutrality adjustment factor determined under paragraph (5).
+> &emsp;&emsp;multiplied (for a year other than 2004) by the budget neutrality adjustment factor determined under paragraph (5).
 
 #### (B) Minimum amount
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;&emsp;(II) In the case of an area outside the 50 States and the District of Columbia, the amount specified in this clause shall not exceed 120 percent of the amount determined under clause (ii) for such area for 2000.
 
-&emsp;&emsp;&emsp;(iv) For 2002 and each succeeding year, the minimum amount specified in this clause (or clause (iii)) for the preceding year increased by the national per capita Medicare+Choice growth percentage, described in paragraph (6)(A) for that succeeding year.
+&emsp;&emsp;&emsp;(iv) For 2002, 2003, and 2004, the minimum amount specified in this clause (or clause (iii)) for the preceding year increased by the national per capita Medicare+Choice growth percentage, described in paragraph (6)(A) for that succeeding year.
 
 #### (C) Minimum percentage increase
 
@@ -144,7 +144,27 @@
 
 &emsp;&emsp;(iii) For 2001, 103 percent of the annual Medicare+Choice capitation rate under this paragraph for the area for 2000.
 
-&emsp;&emsp;(iv) For 2002 and each succeeding year, 102 percent of the annual Medicare+Choice capitation rate under this paragraph for the area for the previous year.
+&emsp;&emsp;(iv) For 2002 and 2003, 102 percent of the annual Medicare+Choice capitation rate under this paragraph for the area for the previous year.
+
+&emsp;&emsp;(v) For 2004 and each succeeding year, the greater of—
+
+&emsp;&emsp;&emsp;(I) 102 percent of the annual MA capitation rate under this paragraph for the area for the previous year; or
+
+&emsp;&emsp;&emsp;(II) the annual MA capitation rate under this paragraph for the area for the previous year increased by the national per capita MA growth percentage, described in paragraph (6) for that succeeding year, but not taking into account any adjustment under paragraph (6)(C) for a year before 2004.
+
+#### (D) 100 percent of fee-for-service costs
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For each year specified in clause (ii), the adjusted average per capita cost for the year involved, determined under section 1395mm(a)(4) of this title and adjusted as appropriate for the purpose of risk adjustment, for the MA payment area for individuals who are not enrolled in an MA plan under this part for the year, but adjusted to exclude costs attributable to payments under section 1395ww(h) of this title.
+
+#### (ii) Periodic rebasing
+
+&emsp;&emsp;&emsp;The provisions of clause (i) shall apply for 2004 and for subsequent years as the Secretary shall specify (but not less than once every 3 years).
+
+#### (iii) Inclusion of costs of VA and DOD military facility services to medicare-eligible beneficiaries
+
+&emsp;&emsp;&emsp;In determining the adjusted average per capita cost under clause (i) for a year, such cost shall be adjusted to include the Secretary's estimate, on a per capita basis, of the amount of additional payments that would have been made in the area involved under this subchapter if individuals entitled to benefits under this subchapter had not received services from facilities of the Department of Defense or the Department of Veterans Affairs.
 
 #### (2) Area-specific and national percentages
 
@@ -166,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(A), subject to subparagraph (B), the annual area-specific Medicare+Choice capitation rate for a Medicare+Choice payment area—
+&emsp;&emsp;For purposes of paragraph (1)(A), subject to subparagraphs (B) and (E), the annual area-specific Medicare+Choice capitation rate for a Medicare+Choice payment area—
 
 &emsp;&emsp;&emsp;(i) for 1998 is, subject to subparagraph (D), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title for the area, increased by the national per capita Medicare+Choice growth percentage for 1998 (described in paragraph (6)(A)); or
 
@@ -210,11 +230,15 @@
 
 &emsp;&emsp;In the case of a Medicare+Choice payment area for which the annual per capita rate of payment determined under section 1395mm(a)(1)(C) of this title for 1997 varies by more than 20 percent from such rate for 1996, for purposes of this subsection the Secretary may substitute for such rate for 1997 a rate that is more representative of the costs of the enrollees in the area.
 
+#### (E) Inclusion of costs of DOD and VA military facility services to Medicare-eligible beneficiaries
+
+&emsp;&emsp;In determining the area-specific MA capitation rate under subparagraph (A) for a year (beginning with 2004), the annual per capita rate of payment for 1997 determined under section 1395mm(a)(1)(C) of this title shall be adjusted to include in the rate the Secretary's estimate, on a per capita basis, of the amount of additional payments that would have been made in the area involved under this subchapter if individuals entitled to benefits under this subchapter had not received services from facilities of the Department of Defense or the Department of Veterans Affairs.
+
 #### (4) Input-price-adjusted annual national Medicare+Choice capitation rate
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(A), the input-price-adjusted annual nationalMedicare+Choice capitation rate for a Medicare+Choice payment area for a year is equal to the sum, for all the types of medicare services (as classified by the Secretary), of the product (for each such type of service) of—
+&emsp;&emsp;For purposes of paragraph (1)(A), the input-price-adjusted annual national Medicare+Choice capitation rate for a Medicare+Choice payment area for a year is equal to the sum, for all the types of medicare services (as classified by the Secretary), of the product (for each such type of service) of—
 
 &emsp;&emsp;&emsp;(i) the national standardized annual Medicare+Choice capitation rate (determined under subparagraph (B)) for the year,
 
@@ -262,7 +286,7 @@
 
 #### (5) Payment adjustment budget neutrality factor
 
-&emsp;For purposes of paragraph (1)(A), for each year, the Secretary shall determine a budget neutrality adjustment factor so that the aggregate of the payments under this part (other than those attributable to subsections (a)(3)(C)(iii) and (i) of this section) shall equal the aggregate payments that would have been made under this part if payment were based entirely on area-specific capitation rates.
+&emsp;For purposes of paragraph (1)(A), for each year (other than 2004), the Secretary shall determine a budget neutrality adjustment factor so that the aggregate of the payments under this part (other than those attributable to subsections (a)(3)(C)(iv) and (i) of this section) shall equal the aggregate payments that would have been made under this part if payment were based entirely on area-specific capitation rates.
 
 #### (6) “National per capita Medicare+Choice growth percentage” defined
 
@@ -288,11 +312,11 @@
 
 #### (C) Adjustment for over or under projection of national per capita Medicare+Choice growth percentage
 
-&emsp;&emsp;Beginning with rates calculated for 1999, before computing rates for a year as described in paragraph (1), the Secretary shall adjust all area-specific and national Medicare+Choice capitation rates (and beginning in 2000, the minimum amount) for the previous year for the differences between the projections of the national per capitaMedicare+Choice growth percentage for that year and previous years and the current estimate of such percentage for such years.
+&emsp;&emsp;Beginning with rates calculated for 1999, before computing rates for a year as described in paragraph (1), the Secretary shall adjust all area-specific and national Medicare+Choice capitation rates (and beginning in 2000, the minimum amount) for the previous year for the differences between the projections of the national per capita Medicare+Choice growth percentage for that year and previous years and the current estimate of such percentage for such years, except that for purposes of paragraph (1)(C)(v)(II), no such adjustment shall be made for a year before 2004.
 
 #### (7) Adjustment for national coverage determinations and legislative changes in benefits
 
-&emsp;If the Secretary makes a determination with respect to coverage under this subchapter or there is a change in benefits required to be provided under this part that the Secretary projects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part. Such projection and adjustment shall be based on an analysis by the Chief Actuary of the Health Care Financing Administration of the actuarial costs associated with the new benefits.
+&emsp;If the Secretary makes a determination with respect to coverage under this subchapter or there is a change in benefits required to be provided under this part that the Secretary projects will result in a significant increase in the costs to Medicare+Choice of providing benefits under contracts under this part (for periods after any period described in section 1395w–22(a)(5) of this title), the Secretary shall adjust appropriately the payments to such organizations under this part. Such projection and adjustment shall be based on an analysis by the Chief Actuary of the Centers for Medicare \& Medicaid Services of the actuarial costs associated with the new benefits.
 
 #### (d) “Medicare+Choice payment area” defined
 
@@ -352,15 +376,15 @@
 
 #### (3) Lump-sum deposit of medical savings account contribution
 
-&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited duringthat first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
+&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited during that first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
 
-#### (f) Payments from Trust Fund
+#### (f) Payments from Trust Funds
 
-The payment to a Medicare+Choice organization under this section for individuals enrolled under this part with the organization and payments to a Medicare+Choice MSA under subsection (e)(1) of this section shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines reflects the relative weight that benefits under part A of this subchapter and under part B of this subchapter represents of the actuarial value of the total benefits under this subchapter. Monthly payments otherwise payable under this section for October 2000 shall be paid on the first business day of such month. Monthly payments otherwise payable under this section for October 2001 shall be paid on the last business day of September 2001. Monthly payments otherwise payable under this section for October 2006 shall be paid on the first business day of October 2006.
+The payment to a Medicare+Choice organization under this section for individuals enrolled under this part with the organization and payments to a Medicare+Choice MSA under subsection (e)(1) of this section shall be made from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines reflects the relative weight that benefits under part A of this subchapter and under part B of this subchapter represents of the actuarial value of the total benefits under this subchapter. Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. Monthly payments otherwise payable under this section for October 2000 shall be paid on the first business day of such month. Monthly payments otherwise payable under this section for October 2001 shall be paid on the last business day of September 2001. Monthly payments otherwise payable under this section for October 2006 shall be paid on the first business day of October 2006.
 
 #### (g) Special rule for certain inpatient hospital stays
 
-In the case of an individual who is receiving inpatient hospital services from a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title) as of the effective date of the individual's—
+In the case of an individual who is receiving inpatient hospital services from a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title), a rehabilitation hospital described in section 1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title) as of the effective date of the individual's—
 
 &emsp;(1) election under this part of a Medicare+�Choice plan offered by a Medicare+Choice organization—
 
@@ -374,7 +398,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;&emsp;(A) the organization shall be financially responsible for payment for such services after such date and until the date of the individual's discharge,
 
-&emsp;&emsp;(B) payment for such services during the stay shall not be made under section 1395ww(d) of this title or by any succeeding Medicare+Choice organization, and
+&emsp;&emsp;(B) payment for such services during the stay shall not be made under section 1395ww(d) of this title or other payment provision under this subchapter for inpatient services for the type of facility, hospital, or unit involved, described in the matter preceding paragraph (1), as the case may be, or by any succeeding Medicare+Choice organization, and
 
 &emsp;&emsp;(C) the terminated organization shall not receive any payment with respect to the individual under this part during the period the individual is not enrolled.
 
@@ -414,7 +438,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 #### (3) Limitation to organization offering first plan in an area
 
-&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization thatoffers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offers such a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
+&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization that offers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offers such a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
 
 #### (4) Construction
 
@@ -424,7 +448,183 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;In this subsection, the term “offered” means, with respect to a Medicare+Choice plan as of a date, that a Medicare+Choice eligible individual may enroll with the plan on that date, regardless of when the enrollment takes effect or when the individual obtains benefits under the plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §101(e)(3)(D), title II, §§211(a)–(e)(1), 221(d)(1), (4), 222(d)–(f), (i), 237(b)(1), (2)(B), 241(b)(1), title VII, §736(d)(1), title IX, §900(e)(1)(G), Dec. 8, 2003,117 Stat. 2151, 2176–2178, 2192, 2193, 2200–2202, 2204, 2212, 2213, 2220, 2357, 2371.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–173, title II, §§221(d)(1), (4), 222(d)–(f), (i), 223(a), Dec. 8, 2003, 117 Stat. 2192, 2193, 2200–2202, 2204, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, section is amended—</i>
+
+<i>(1) in subsection (a)(1):</i>
+
+(A) by redesignating subparagraph (B) as subparagraph (H);
+
+(B) by striking “in an amount” and all that follows in subparagraph (A) and inserting the following: “in an amount determined as follows:
+
+#### <i>“(i) Payment before 2006</i>
+
+&emsp;&emsp;&emsp;<i>“For years before 2006, the payment amount shall be equal to 1/12 of the annual MA capitation rate (as calculated under subsection (c)(1) of this section) with respect to that individual for that area, adjusted under subparagraph (C) and reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title.</i>
+
+#### <i>“(ii) Payment for original fee-for-service benefits beginning with 2006</i>
+
+&emsp;&emsp;&emsp;<i>“For years beginning with 2006, the amount specified in subparagraph (B).</i>
+
+#### <i>“(B) Payment amount for original fee-for-service benefits beginning with 2006</i>
+
+#### <i>“(i) Payment of bid for plans with bids below benchmark</i>
+
+&emsp;&emsp;&emsp;<i>“In the case of a plan for which there are average per capita monthly savings described in section 1395w–24(b)(3)(C) or 1395w–24(b)(4)(C) of this title, as the case may be, the amount specified in this subparagraph is equal to the unadjusted MA statutory non-drug monthly bid amount, adjusted under subparagraph (C) and (if applicable) under subparagraphs (F) and (G), plus the amount (if any) of any rebate under subparagraph (E).</i>
+
+#### <i>“(ii) Payment of benchmark for plans with bids at or above benchmark</i>
+
+&emsp;&emsp;&emsp;<i>“In the case of a plan for which there are no average per capita monthly savings described in section 1395w–24(b)(3)(C) or 1395w–24(b)(4)(C) of this title, as the case may be, the amount specified in this subparagraph is equal to the MA area-specific non-drug monthly benchmark amount, adjusted under subparagraph (C) and (if applicable) under subparagraphs (F) and (G).</i>
+
+#### <i>“(iii) Payment of benchmark for MSA plans</i>
+
+&emsp;&emsp;&emsp;<i>“Notwithstanding clauses (i) and (ii), in the case of an MSA plan, the amount specified in this subparagraph is equal to the MA area-specific non-drug monthly benchmark amount, adjusted under subparagraph (C).</i>
+
+#### <i>“(C) Demographic adjustment, including adjustment for health status</i>
+
+&emsp;&emsp;<i>“The Secretary shall adjust the payment amount under subparagraph (A)(i) and the amount specified under subparagraph (B)(i), (B)(ii), and (B)(iii) for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, including adjustment for health status under paragraph (3), so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such adjustment factors if such changes will improve the determination of actuarial equivalence.</i>
+
+#### <i>“(D) Separate payment for Federal drug subsidies</i>
+
+&emsp;&emsp;<i>“In the case of an enrollee in an MA–PD plan, the MA organization offering such plan also receives—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) subsidies under section 1395w–115 of this title (other than under subsection (g)); and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) reimbursement for premium and cost-sharing reductions for low-income individuals under section 1395w–114(c)(1)(C) of this title.</i>
+
+#### <i>“(E) Payment of rebate for plans with bids below benchmark</i>
+
+&emsp;&emsp;<i>“In the case of a plan for which there are average per capita monthly savings described in section 1395w–24(b)(3)(C) or 1395w–24(b)(4)(C) of this title, as the case may be, the amount specified in this subparagraph is the amount of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year (as reduced by the amount of any credit provided under section 1395w–24(b)(1)(C)(iv) of this title).</i>
+
+#### <i>“(F) Adjustment for intra-area variations</i>
+
+#### <i>“(i) Intra-regional variations</i>
+
+&emsp;&emsp;&emsp;<i>“In the case of payment with respect to an MA regional plan for an MA region, the Secretary shall also adjust the amounts specified under subparagraphs (B)(i) and (B)(ii) in a manner to take into account variations in MA local payment rates under this part among the different MA local areas included in such region.</i>
+
+#### <i>“(ii) Intra-service area variations</i>
+
+&emsp;&emsp;&emsp;<i>“In the case of payment with respect to an MA local plan for a service area that covers more than one MA local area, the Secretary shall also adjust the amounts specified under subparagraphs (B)(i) and (B)(ii) in a manner to take into account variations in MA local payment rates under this part among the different MA local areas included in such service area.</i>
+
+#### <i>“(G) Adjustment relating to risk adjustment</i>
+
+&emsp;&emsp;<i>“The Secretary shall adjust payments with respect to MA plans as necessary to ensure that—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the sum of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) the monthly payment made under subparagraph (A)(ii); and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) the MA monthly basic beneficiary premium under section 1395w–24(b)(2)(A) of this title; equals</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the unadjusted MA statutory non-drug monthly bid amount, adjusted in the manner described in subparagraph (C) and, for an MA regional plan, subparagraph (F).”; and</i>
+
+(C) in subparagraph(H), by amending the second sentence to read “Such rates of payment shall beactuarially equivalent to rates that would have been paid with respect to other enrollees in the MA payment area (or such other area as specified by the Secretary) under the provisions of this section as in effect before December 8, 2003.” and by adding at the end “The Secretary may apply the competitive bidding methodology provided for in this section, with appropriate adjustments to account for the risk adjustment methodology applied to end stage renal disease payments.”;
+
+<i>(2) in subsection (b):</i>
+
+(A) by amending paragraph (1) to read as follows:
+
+#### <i>“(1) Annual announcements</i>
+
+#### <i>“(A) For 2005</i>
+
+&emsp;&emsp;<i>“The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), not later than the second Monday in May of 2004, with respect to each MA payment area, the following:</i>
+
+#### <i>“(i) MA capitation rates</i>
+
+&emsp;&emsp;&emsp;<i>“The annual MA capitation rate for each MA payment area for 2005.</i>
+
+#### <i>“(ii) Adjustment factors</i>
+
+&emsp;&emsp;&emsp;<i>“The risk and other factors to be used in adjusting such rates under subsection (a)(1)(C) of this section for payments for months in 2005.</i>
+
+#### <i>“(B) For 2006 and subsequent years</i>
+
+&emsp;&emsp;<i>“For a year after 2005—</i>
+
+#### <i>“(i) Initial announcement</i>
+
+&emsp;&emsp;&emsp;<i>“The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), not later than the first Monday in April before the calendar year concerned, with respect to each MA payment area, the following:</i>
+
+#### <i>“(I) MA capitation rates; MA local area benchmark</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“The annual MA capitation rate for each MA payment area for the year.</i>
+
+#### <i>“(II) Adjustment factors</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“The risk and other factors to be used in adjusting such rates under subsection (a)(1)(C) of this section for payments for months in such year.</i>
+
+#### <i>“(ii) Regional benchmark announcement</i>
+
+&emsp;&emsp;&emsp;<i>“The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), on a timely basis before the calendar year concerned, with respect to each MA region and each MA regional plan for which a bid was submitted under section 1395w–24 of this title, the MA region-specific non-drug monthly benchmark amount for that region for the year involved.”; and</i>
+
+(B) in paragraph (3), by striking “in the announcement” and all that follows and inserting “in such announcement.”;
+
+<i>(3) in subsection (c)(1), by inserting “that is an MA local area” after “for a Medicare+Choice payment area”;</i>
+
+<i>(4) in subsection (d):</i>
+
+(A) by amending the heading to read as follows: “MA payment area; MA local area; MA region defined”;
+
+(B) by amending paragraph (1) to read as follows:
+
+#### <i>“(1) MA payment area</i>
+
+&emsp;<i>“In this part, except as provided in this subsection, the term ‘MA payment area’ means—</i>
+
+&emsp;&emsp;<i>“(A) with respect to an MA local plan, an MA local area (as defined in paragraph (2)); and</i>
+
+&emsp;&emsp;<i>“(B) with respect to an MA regional plan, an MA region (as established under section 1395w–27a(a)(2) of this title).”;</i>
+
+(C) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, and inserting after paragraph (1) the following new paragraph:
+
+#### <i>“(2) MA local area</i>
+
+&emsp;<i>“The term ‘MA local area’ means a county or equivalent area specified by the Secretary.”;</i>
+
+(D) in paragraph (4)(A), by inserting “for MA local plans” after “paragraph (1)” in introductory provisions and by striking “paragraph (1)” and inserting “paragraph (1)(A)” in clause (iii); and
+
+(E) in paragraph (4)(B), by inserting “with respect to MA local plans” after “established under this section”, “for such plans” after “payments under this section”, and “for such plans” after “made under this section”; and
+
+<i>(5) by adding at the end the following new subsection:</i>
+
+#### <i>“(j) Computation of benchmark amounts</i>
+
+<i>“For purposes of this part, the term ‘MA area-specific non-drug monthly benchmark amount’ means for a month in a year—</i>
+
+&emsp;<i>“(1) with respect to—</i>
+
+&emsp;&emsp;<i>“(A) a service area that is entirely within an MA local area, an amount equal to 1/12 of the annual MA capitation rate under subsection (c)(1) of this section for the area for the year, adjusted as appropriate for the purpose of risk adjustment; or</i>
+
+&emsp;&emsp;<i>“(B) a service area that includes more than one MA local area, an amount equal to the average of the amounts described in subparagraph (A) for each such local MA area, weighted by the projected number of enrollees in the plan residing in the respective local MA areas (as used by the plan for purposes of the bid and disclosed to the Secretary under section 1395w–24(a)(6)(A)(iii) of this title), adjusted as appropriate for the purpose of risk adjustment; or</i>
+
+&emsp;<i>“(2) with respect to an MA region for a month in a year, the MA region-specific non-drug monthly benchmark amount, as defined in section 1395w–27a(f) of this title for the region for the year.”</i>
+
+<i>Pub. L. 108–173, title II, §237(b)(1), (2)(B), (e), Dec. 8, 2003, 117 Stat. 2212, 2213, provided that, applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, this section is amended as follows:</i>
+
+<i>(1) Subsection (a) is amended by adding at the end the following new paragraph:</i>
+
+#### <i>“(4) Payment rule for federally qualified health center services</i>
+
+&emsp;<i>“If an individual who is enrolled with an MA plan under this part receives a service from a federally qualified health center that has a written agreement with the MA organization that offers</i><i>such plan for providing such a service (including any agreement required under section 1395w–27(e)(3) of this title)—</i>
+
+&emsp;&emsp;<i>“(A) the Secretary shall pay the amount determined under section 1395l</i>(a)(3)(B) of this title directly to the federally qualified health center not less frequently than quarterly; and
+
+&emsp;&emsp;<i>“(B) the Secretary shall not reduce the amount of the monthly payments under this subsection as a result of the application of subparagraph (A).”</i>
+
+<i>(2) Subsection (c)(5) is amended by striking “subsections (a)(3)(C)(iii) and (i)” and inserting “subsections (a)(3)(C)(iii), (a)(4), and (i)”.</i>
+
+<i>Pub. L. 108–173, title II, §241(b)(1), Dec. 8, 2003, 117 Stat. 2200, provided that this section, as amended by section 222(d) and (f)(1) of Pub. L. 108–173, is amended—</i>
+
+<i>(1) in subsection (b)(1)(B), by adding at the end the following new clause:</i>
+
+#### <i>“(iii) Benchmark announcement for CCA local areas</i>
+
+&emsp;&emsp;&emsp;<i>“The Secretary shall determine, and shall announce (in a manner intended to provide notice to interested parties), on a timely basis before the calendar year concerned, with respect to each CCA area (as defined in section 1395w–29(b)(1)(A) of this title), the CCA non-drug monthly benchmark amount under section 1395w–29(e)(1) of this title for that area for the year involved.”; and</i>
+
+<i>(2) in subsection (j)(1)(A), by inserting “subject to section 1395w–29(d)(2)(A) of this title,” after “within an MA local area,”.</i>
 
 #### References in Text
 
@@ -435,6 +635,42 @@ Parts A and B of this subchapter, referred to in subsecs. (b)(4), (c)(4)(C), (6)
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2003—Subsec. (a)(3)(C)(ii). Pub. L. 108–173, §736(d)(1)(A), substituted “clause (iv)” for “clause (iii)” in introductory provisions.
+
+Subsec. (a)(3)(C)(iii), (iv). Pub. L. 108–173, §736(d)(1)(B), redesignated cl. (iii), relating to full implementation of risk adjustment for congestive heart failure enrollees for 2001, as (iv).
+
+Subsec. (b)(4). Pub. L. 108–173, §900(e)(1)(G)(i), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 108–173, §211(a)(2), substituted “(C), or (D)” for “or (C)” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 108–173, §211(b)(1), (c)(1)(A), substituted “For a year before 2005, the sum” for “The sum” in introductory provisions and inserted “(for a year other than 2004)” after “multiplied” in concluding provisions.
+
+Subsec. (c)(1)(B)(iv). Pub. L. 108–173, §211(c)(1)(B), substituted “, 2003, and 2004” for “and each succeeding year”.
+
+Subsec. (c)(1)(C)(iv). Pub. L. 108–173, §211(c)(1)(C), substituted “and 2003” for “and each succeeding year”.
+
+Subsec. (c)(1)(C)(v). Pub. L. 108–173, §211(c)(1)(D), added cl. (v).
+
+Subsec. (c)(1)(D). Pub. L. 108–173, §211(a)(1), added subpar. (D).
+
+Subsec. (c)(3)(A). Pub. L. 108–173, §211(d)(1), substituted “subparagraphs (B) and (E)” for “subparagraph (B)” in introductory provisions.
+
+Subsec. (c)(3)(E). Pub. L. 108–173, §211(d)(2), added subpar. (E).
+
+Subsec. (c)(5). Pub. L. 108–173, §736(d)(1)(C), substituted “(a)(3)(C)(iv)” for “(a)(3)(C)(iii)”.
+
+Pub. L. 108–173, §211(b)(2), inserted “(other than 2004)” after “for each year”.
+
+Subsec. (c)(6)(C). Pub. L. 108–173, §211(c)(2), inserted “, except that for purposes of paragraph (1)(C)(v)(II), no such adjustment shall be made for a year before 2004” before period at end.
+
+Subsec. (c)(7). Pub. L. 108–173, §900(e)(1)(G)(ii), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+
+Subsec. (f). Pub. L. 108–173, §101(e)(3)(D), in heading, substituted “Trust Funds” for “Trust Fund” and, after first sentence, inserted “Payments to MA organizations for statutory drug benefits provided under this subchapter are made from the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund.”
+
+Subsec. (g). Pub. L. 108–173, §211(e)(1)(A), inserted “, a rehabilitation hospital described in section 1395ww(d)(1)(B)(ii) of this title or a distinct part rehabilitation unit described in the matter following clause (v) of section 1395ww(d)(1)(B) of this title, or a long-term care hospital (described in section 1395ww(d)(1)(B)(iv) of this title)” after “1395ww(d)(1)(B) of this title)” in introductory provisions.
+
+Subsec. (g)(2)(B). Pub. L. 108–173, §211(e)(1)(B), inserted “or other payment provision under this subchapter for inpatient services for the type of facility, hospital, or unit involved, described in the matter preceding paragraph (1), as the case may be,” after “1395ww(d) of this title”.
 
 2002—Subsec. (b)(1). Pub. L. 107–188 in introductory provisions substituted “for years before 2004 and after 2005 not later than March 1 before the calendar year concerned and for 2004 and 2005 not later than the second Monday in May before the respective calendar year” for “not later than March 1 before the calendar year concerned”.
 
@@ -478,19 +714,85 @@ Subsec. (c)(6)(B)(v). Pub. L. 106–113, §1000(a)(6) \[title V, §517\], substi
 
 Subsec. (i). Pub. L. 106–113, §1000(a)(6) \[title V, §512(3)\], added subsec. (i).
 
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title II, §211(e)(2), Dec. 8, 2003, 117 Stat. 2178, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to contract years beginning on or after January 1, 2004.”
+
+Amendment by sections 221(d)(1), (4) and 222(d)–(f), (i) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+Amendment by section 237(b)(1), (2)(B) of Pub. L. 108–173 applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, see section 237(e) of Pub. L. 108–173, set out as a note under section 1320a–7b of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–188, title V, §532(d)(2), June 12, 2002, 116 Stat. 697, provided that: “The amendment made by paragraph (1) \[amending this section\] shall first apply to announcements for years after 2003.”
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §605(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–556, provided that: “Theamendment made by subsection (a) \[amending this section\] shall apply to payments for months beginning with January 2002.”
+Pub. L. 106–554, §1(a)(6) \[title VI, §605(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–556, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments for months beginning with January 2002.”
 
 Amendment by section 1(a)(6) \[title VI, §606(a)(2)(A)\] of Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
 
 Pub. L. 106–554, §1(a)(6) \[title VI, §608(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–559, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the enactment of BBRA \[Pub. L. 106–113, §1000(a)(6)\].”
 
 Amendment by section 1(a)(6) \[title VI, §611(a)\] of Pub. L. 106–554 effective Dec. 21, 2000, and applicable to national coverage determinations and legislative changes in benefits occurring on or after such date, see section 1(a)(6) \[title VI, §611(c)\] of Pub. L. 106–554, set out as a note under section 1395w–22 of this title.
+
+#### MedPAC Study of AAPCC
+
+Pub. L. 108–173, title II, §211(f), Dec. 8, 2003, 117 Stat. 2178, provided that:
+
+“(1)
+
+Study.—The Medicare Payment Advisory Commission shall conduct a study that assesses the method used for determining the adjusted average per capita cost (AAPCC) under section 1876(a)(4) of the Social Security Act (42 U.S.C. 1395mm(a)(4)) as applied under section 1853(c)(1)(A) of such Act \[subsection (c)(1)(A) of this section\] (as amended by subsection (a)). Such study shall include an examination of—
+
+&emsp;“(A) the bases for variation in such costs between different areas, including differences in input prices, utilization, and practice patterns;
+
+&emsp;“(B) the appropriate geographic area for payment of MA local plans under the Medicare Advantage program under part C of title XVIII of such Act \[this part\]; and
+
+&emsp;“(C) the accuracy of risk adjustment methods in reflecting differences in costs of providing care to different groups of beneficiaries served under such program.
+
+“(2)
+
+Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress a report on the study conducted under paragraph (1).”
+
+#### Implementation of 2003 Amendment
+
+Pub. L. 108–173, title II, §211(i), Dec. 8, 2003, 117 Stat. 2179, provided that:
+
+“(1)
+
+Announcement of revised medicare advantage payment rates.—Within 6 weeks after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall determine, and shall announce (in a manner intended to provide notice to interested parties) MA capitation rates under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for 2004, revised in accordance with the provisions of this section \[amending this section and section 1395w–22 of this title and enacting provisions set out as notes under this section and section 1395w–21 of this title\].
+
+“(2)
+
+Transition to revised payment rates.—The provisions of section 604 of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Public Law 106–554, set out as a note under this section\] (114 Stat. 2763A–555) (other than subsection (a)) shall apply to the provisions of subsections (a) through (d) of this section \[amending this section\] for 2004 in the same manner as the provisions of such section 604 applied to the provisions of BIPA for 2001.
+
+“(3)
+
+Special rule for payment rates in 2004.—
+
+&emsp;“(A)
+
+January and february.—Notwithstanding the amendments made by subsections (a) through (d) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for January and February 2004, the annual capitation rate for a payment area shall be calculated and the excess amount under section 1854(f)(1)(B) of such Act (42 U.S.C. 1395w–24(f)(1)(B)) shall be determined as if such amendments had not been enacted.
+
+&emsp;“(B)
+
+March through december.—Notwithstanding the amendments made by subsections (a) through (d) \[amending this section\], for purposes of making payments under section 1853 of the Social Security Act (42 U.S.C. 1395w–23) for March through December 2004, the annual capitation rate for a payment area shall be calculated and the excess amount under section 1854(f)(1)(B) of such Act (42 U.S.C. 1395w–24(f)(1)(B)) shall be determined, in such manner as the Secretary estimates will ensure that the total of such payments with respect to 2004 is the same as the amounts that would have been if subparagraph (A) had not been enacted.
+
+&emsp;“(C)
+
+Construction.—Subparagraphs (A) and (B) shall not be taken into account in computing such capitation rate for 2005 and subsequent years.
+
+“(4)
+
+Plans required to provide notice of changes in plan benefits.—In the case of an organization offering a plan under part C of title XVIII of the Social Security Act \[this part\] that revises its submission of the information described in section 1854(a)(1) of such Act (42 U.S.C. 1395w–23(a)(1) \[1395w–24(a)(1)\]) for a plan pursuant to the application of paragraph (2), if such revision results in changes in beneficiary premiums, beneficiary cost-sharing, or benefits under the plan, then by not later than 3 weeks after the date the Secretary approves such submission, the organization offering the plan shall provide each beneficiary enrolled in the plan with written notice of such changes.
+
+“(5)
+
+Limitation on review.—There shall be no administrative or judicial review under section 1869 or section 1878 of the Social Security Act (42 U.S.C. 1395ff and 1395<i>oo</i>), or otherwise of any determination made by the Secretary under this subsection or the application of the payment rates determined pursuant to this subsection.”
 
 #### Special Rule for January and February of 2001
 
@@ -538,7 +840,7 @@ Disregard of New Rate Announcement in Applying Pass-Through for New National Cov
 
 #### Publication
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §605(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–556, provided that: “Not later than 6 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall publish for public comment a description of the appropriate adjustments described in the last sentence of section 1853(a)(1)(B) of the Social Security Act (42 U.S.C. 1395w–23(a)(1)(B)), as added by subsection (a). The Secretary shall publish such adjustments in final form by not later than July 1, 2001, so that the amendment made by subsection (a) is implemented on a timely basis consistent with subsection (b) \[set out as a note above\].”
+Pub. L. 106–554, §1(a)(6) \[title VI, §605(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–556, provided that: “Not later than 6 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Secretary of Health and Human Services shall publish for public comment a description of the appropriate adjustments described in the last sentence of section 1853(a)(1)(B) of the Social Security Act (42 U.S.C. 1395w–23(a)(1)(B)), as added by subsection (a). The Secretary shall publish such adjustments in final form by not later than July 1, 2001, so that the amendment made by subsection (a) is implemented ona timely basis consistent with subsection (b) \[set out as a note above\].”
 
 #### Report on Inclusion of Certain Costs of the Department of Veterans Affairs and Military Facility Services in Calculating Medicare+Choice Payment Rates
 
@@ -618,7 +920,7 @@ Study.—The Medicare Payment Advisory Commission shall conduct a study on the d
 
 &emsp;“(B) includes medical diagnostic factors from all provider settings (including hospital and nursing facility settings); and
 
-&emsp;“(C) includes functional indicators of health status and such other factors as may be necessary to achieve appropriate payments for plans serving such beneficiaries.
+&emsp;“(C) includes functional indicators of health status and such other factors as may be necessary toachieve appropriate payments for plans serving such beneficiaries.
 
 “(2)
 
@@ -640,7 +942,7 @@ Establishment of Project.—
 
 &emsp;“(1)
 
-In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A\(§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
 
 &emsp;“(2)
 
@@ -716,7 +1018,7 @@ In general.—Subject to paragraph (2), the Secretary shall for each medicare pa
 
 &emsp;“(2)
 
-Consultation.—The Secretary shall take into account the recommendations of the area advisory committee established in section 4012(b), in implementing a project design for any area, except that no modifications may be made in the project design without consultation with the Competitive Pricing Advisory Committee. In no case may the Secretary change the designation of an area based on recommendations of any area advisory committee.
+Consultation.—The Secretary shall take into account the recommendations of the area advisory committee established in section 4012(b), in implementing a project design for any area, except that no modifications may be made in the project designwithout consultation with the Competitive Pricing Advisory Committee. In no case may the Secretary change the designation of an area based on recommendations of any area advisory committee.
 
 “(d)
 
@@ -736,7 +1038,7 @@ Waiver Authority.—The Secretary of Health and Human Services may waive such re
 
 “(f)
 
-Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choiceorganizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
+Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choice organizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
 
 “(g)
 
@@ -782,7 +1084,5 @@ Special application.—Notwithstanding section 9(c) of the Federal Advisory Comm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395eee of this title.
-
-<i><sup>1</sup></i><i> So in original. Two cls. (iii) have been enacted.</i>
+This section is referred to in sections 1320a–7b, 1395<i>l</i>, 1395w–21, 1395w–22, 1395w–24, 1395w–27, 1395w–27a, 1395w–28, 1395w–29, 1395w–112, 1395w–115, 1395mm, 1395eee of this title.
 

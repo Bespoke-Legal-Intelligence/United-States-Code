@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any designated archaeological or ethnological material or article of cultural property, as the case may be, which is imported into the United States in violation of section 2606 of this title or section 2607 of this title shall be subject to seizure and forfeiture. All provisions of law relating to seizure, forfeiture, and condemnation for violation of the customs laws shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable to, and not inconsistent with, the provisions of this chapter.
+Any designated archaeological or ethnological material or article of cultural property, as the case may be, which is imported into the UnitedStates in violation of section 2606 of this title or section 2607 of this title shall be subject to seizure and forfeiture. All provisions of law relating to seizure, forfeiture, and condemnation for violation of the customs laws shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under this chapter, insofar as such provisions of law are applicable to, and not inconsistent with, the provisions of this chapter.
 
 #### (b) Archaeological and ethnological material
 
@@ -30,7 +30,7 @@ Any designated archaeological or ethnological material which is imported into th
 
 (2) Any article of cultural property which is imported into the United States in violation of section 2607 of this title and which is forfeited to the United States under this chapter shall—
 
-&emsp;(A) first be offered for return to the State Party in whose territory is situated the institution referred to in section 2607 of this titleand shall be returned if that State Party bears the expenses incident to such return and delivery and complies with such other requirements relating to the return as the Secretary prescribes; or
+&emsp;(A) first be offered for return to the State Party in whose territory is situated the institution referred to in section 2607 of this title and shall be returned if that State Party bears the expenses incident to such return and delivery and complies with such other requirements relating to the return as the Secretary prescribes; or
 
 &emsp;(B) if not returned to such State Party, be disposed of in the manner prescribed by law for articles forfeited for violation of the customs laws.
 

@@ -44,7 +44,7 @@
 
 #### (5) Information required from 10-percent partner of controlled foreign partnership
 
-&emsp;In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership,including information relating to such partner's ownership interests in the partnership and allocations to such partner of partnership items.
+&emsp;In the case of a foreign partnership which is controlled by United States persons holding at least 10-percent interests (but not by any one United States person), the Secretary may require each United States person who holds a 10-percent interest in such partnership to furnish information relating to such partnership, including information relating to such partner's ownership interests in the partnership and allocations to such partner of partnership items.
 
 #### (b) Dollar penalty for failure to furnish information
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (2) Control of corporation
 
-&emsp;A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares ofall classes of stock, of a corporation. If a person is in control (within the meaning of the preceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that—
+&emsp;A person is in control of a corporation if such person owns stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote, or more than 50 percent of the total value of shares of all classes of stock, of a corporation. If a person is in control (within the meaning of the preceding sentence) of a corporation which in turn owns more than 50 percent of the total combined voting power of all classes of stock entitled to vote of another corporation, or owns more than 50 percent of the total value of the shares of all classes of stock of another corporation, then such person shall be treated as in control of such other corporation. For purposes of this paragraph, the rules prescribed by section 318(a) for determining ownership of stock shall apply; except that—
 
 &emsp;&emsp;(A) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person, and
 
@@ -180,7 +180,7 @@ Subsec. (e)(2). Pub. L. 104–188, §1704(t)(46), made technical amendment to di
 
 Subsec. (f). Pub. L. 104–188, §1704(t)(40), redesignated subsec. (e), relating to cross references, as (f).
 
-1990—Subsec. (e)(2). Pub. L. 101–508, as amended by Pub. L. 104–188, §1704(t)(46), in subsec. (e) relating to definitions, inserted at end of par. (2) “In the case of aspecified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.”
+1990—Subsec. (e)(2). Pub. L. 101–508, as amended by Pub. L. 104–188, §1704(t)(46), in subsec. (e) relating to definitions, inserted at end of par. (2) “In the case of a specified foreign corporation (as defined in section 898), the taxable year of such corporation shall be treated as its annual accounting period.”
 
 1989—Subsec. (a)(1). Pub. L. 101–239, §7712(a)(2), inserted before period at end “or which the Secretary determines to be appropriate to carry out the provisions of this title.”
 
@@ -224,7 +224,7 @@ Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and add
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

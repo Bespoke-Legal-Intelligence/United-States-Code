@@ -22,11 +22,11 @@ For purposes of this subchapter the term “same kind of fruit” includes, in t
 
 #### (f) Own production
 
-For purposes of this subchapter the term “own production”, when used with reference to wine in a bonded wine cellar, means wine produced by fermentation in the same bonded wine cellar,whether or not produced by a predecessor in interest at such bonded wine cellar. This term may also include, under regulations, wine produced by fermentation in bonded wine cellars owned or controlled by the same or affiliated persons or firms when located within the same State; the term “affiliated” shall be deemed to include any one or more bonded wine cellar proprietors associated as members of any farm cooperative, or any one or more bonded wine cellar proprietors affiliated within the meaning of section 17(a)(5) of the Federal Alcohol Administration Act, as amended (27 U.S.C. 211).<sup>1</sup>
+For purposes of this subchapter the term “own production”, when used with reference to wine in a bonded wine cellar, means wine produced by fermentation in the same bonded wine cellar, whether or not produced by a predecessor in interest at such bonded wine cellar. This term may also include, under regulations, wine produced by fermentation in bonded wine cellars owned or controlled by the same or affiliated persons or firms when located within the same State; the term “affiliated” shall be deemed to include any one or more bonded wine cellar proprietors associated as members of any farm cooperative, or any one or more bonded wine cellar proprietors affiliated within the meaning of section 17(a)(5) of the Federal Alcohol Administration Act, as amended (27 U.S.C. 211).<sup>1</sup>
 
 #### (g) Liquid sugar
 
-For purposes of this subchapter the term “liquid sugar” means a substantially colorless pure sugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
+For purposes of this subchapter the term “liquid sugar” means a substantially colorless puresugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 89–44, title VIII, §806(b)(3), June 21, 1965, 79 Stat. 163; Pub. L. 94–455, title XIX, §1905(a)(21), Oct. 4, 1976, 90 Stat. 1820.)
 

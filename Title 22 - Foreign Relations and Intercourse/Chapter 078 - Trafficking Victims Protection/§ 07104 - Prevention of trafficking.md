@@ -18,13 +18,55 @@ The President shall establish and carry out international initiatives to enhance
 
 The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry out programs to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
 
-#### (c) Consultation requirement
+#### (c) Border interdiction
 
-The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives described in subsections (a) and (b) of this section.
+The President shall establish and carry out programs of border interdiction outside the United States. Such programs shall include providing grants to foreign nongovernmental organizations that provide for transit shelters operating at key border crossings and that help train survivors of trafficking in persons to educate and train border guards and officials, and other local law enforcement officials, to identify traffickers and victims of severe forms of trafficking, and the appropriate manner in which to treat such victims. Such programs shall also include, to the extent appropriate, monitoring by such survivors of trafficking in persons of the implementation of border interdiction programs, including helping in the identification of such victims to stop the cross-border transit of victims. The President shall ensure that any program established under this subsection provides the opportunity for any trafficking victim who is freed to return to his or her previous residence if the victim so chooses.
 
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474.)
+#### (d) International media
+
+The President shall establish and carry out programs that support the production of television and radio programs, including documentaries, to inform vulnerable populations overseas of the dangers of trafficking, and to increase awareness of the public in countries of destination regarding the slave-like practices and other human rights abuses involved in trafficking, including fostering linkages between individuals working in the media in different countries to determine the best methods for informing such populations through such media.
+
+#### (e) Combating international sex tourism
+
+#### (1) Development and dissemination of materials
+
+&emsp;The President, pursuant to such regulations as may be prescribed, shall ensure that materials are developed and disseminated to alert travelers that sex tourism (as described in subsections (b) through (f) of section 2423 of title 18) is illegal, will be prosecuted, and presents dangers to those involved. Such materials shall be disseminated to individuals traveling to foreign destinations where the President determines that sex tourism is significant.
+
+#### (2) Monitoring of compliance
+
+&emsp;The President shall monitor compliance with the requirements of paragraph (1).
+
+#### (3) Feasibility report
+
+&emsp;Not later than 180 days after December 19, 2003, the President shall transmit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Affairs of the Senate a report that describes the feasibility of such United States Government materials being disseminatedthrough public-private partnerships to individuals traveling to foreign destinations.
+
+#### (f) Consultation requirement
+
+The President shall consult with appropriate nongovernmental organizations with respect to the establishment and conduct of initiatives and programs described in subsections (a) through (e) of this section.
+
+#### (g) Termination of certain grants, contracts and cooperative agreements
+
+#### (1) Termination
+
+&emsp;The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds described in paragraph (2) are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.
+
+#### (2) Assistance described
+
+&emsp;Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).
+
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875.)
+
+#### Amendments
+
+2003—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
+
+Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see section 5 of Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended, set out as a note under section 7103 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7110 of this title.
+This section is referred to in sections 7103, 7110 of this title.
 

@@ -18,7 +18,7 @@ Availability of Compensation.—(1) If the Secretary decides that basic essentia
 
 &emsp;(B) the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
 
-&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
+&emsp;(C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at thehub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
 
 &emsp;(D) the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users; and
 
@@ -98,5 +98,5 @@ Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41110, 41732, 41734, 41735, 41736 of this title.
+This section is referred to in sections 41110, 41732, 41734, 41735, 41736, 41748 of this title.
 

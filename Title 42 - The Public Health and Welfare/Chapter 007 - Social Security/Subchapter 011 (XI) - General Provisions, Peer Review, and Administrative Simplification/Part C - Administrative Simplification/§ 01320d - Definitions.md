@@ -74,7 +74,7 @@ For purposes of this part:
 
 #### (8) Standard setting organization
 
-&emsp;The term “standard setting organization” means a standard setting organization accredited by the American National Standards Institute, including the National Council for Prescription Drug Programs, that develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this part.
+&emsp;The term “standard setting organization” means a standard setting organization accredited by the American National Standards Institute, including the National Council forPrescription Drug Programs, that develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this part.
 
 (Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021; amended Pub. L. 107–105, §4, Dec. 27, 2001, 115 Stat. 1007.)
 
@@ -96,7 +96,7 @@ Section 261 of title II of Pub. L. 104–191 provided that: “It is the purpose
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1395cc of this title.
+This section is referred to in sections 1395w–104, 1395cc of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Part”.</i>
 

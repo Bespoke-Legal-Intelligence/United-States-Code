@@ -14,9 +14,9 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (3) For purposes of paragraph (1)(A) and section 3461(a), the term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve unless at some time subsequent to the completion of such period of active duty for training such individual served on active duty for a consecutive period of one year or more (not including any service as a cadet or midshipman at one of the service academies).
 
-(b) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also means any curriculum of unit courses or subjects pursued at an educational institution which fulfill requirements for the attainment of more than one predetermined and identified educational, professional, or vocational objective if all the objectives pursued are generally recognized as being reasonably related to a single career field. Such term also means any unit course or subject, or combination of courses or subjects, pursued by an eligible veteran at an educational institution, required by the Administrator of the Small Business Administration as a condition to obtaining financial assistance under the provisions of section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1)). Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.
+(b) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also means any curriculum of unit courses or subjects pursued at an educational institution which fulfill requirements for the attainment of more than one predetermined and identified educational, professional, or vocational objective if all the objectives pursued are generally recognized as being reasonably related to a single career field. Such term also means any unit course or subject, or combination of courses or subjects, pursued by an eligible veteran at an educational institution, required by the Administrator of the Small Business Administration as a condition to obtaining financial assistance under the provisions of section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1)). Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title. Such term also includes any course, or combination of courses, offered by a qualified provider of entrepreneurship courses.
 
-(c) The term “educational institution” means any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for adults. Such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary). Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).
+(c) The term “educational institution” means any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for adults. Such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary). Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary). Such term also includes any qualified provider of entrepreneurship courses.
 
 (d) The term “dependent” means—
 
@@ -26,23 +26,49 @@ For the purposes of this chapter and chapter 36 of this title—
 
 &emsp;(3) the spouse of an eligible veteran.
 
-(e) The term “training establishment” means any establishment providing apprentice or other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board or vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.
+(e) The term “training establishment” means any of the following:
+
+&emsp;(1) An establishment providing apprentice or other on-job training, including those under the supervision of a college or university or any State department of education.
+
+&emsp;(2) An establishment providing self-employment on-job training consisting of full-time training for a period of less than six months that is needed or accepted for purposes of obtaining licensure to engage in a self-employment occupation or required for ownership and operation of a franchise that is the objective of the training.
+
+&emsp;(3) A State board of vocational education.
+
+&emsp;(4) A Federal or State apprenticeship registration agency.
+
+&emsp;(5) A joint apprenticeship committee established pursuant to the Act of August 16, 1937, popularly known as the “National Apprenticeship Act” (29 U.S.C. 50 et seq.).
+
+&emsp;(6) An agency of the Federal Government authorized to supervise such training.
 
 (f) The term “institution of higher learning” means a college, university, or similar institution, including a technical or business school, offering postsecondary level academic instruction that leads to an associate or higher degree if the school is empowered by the appropriate State education authority under State law to grant an associate or higher degree. When there is no State law to authorize the granting of a degree, the school may be recognized as an institution of higher learning if it is accredited for degree programs by a recognized accrediting agency. Such term shall also include a hospital offering educational programs at the postsecondary level without regard to whether the hospital grants a postsecondary degree. Such term shall also include an educational institution which is not located in a State, which offers a course leading to a standard college degree, or the equivalent, and which is recognized as such by the secretary of education (or comparable official) of the country or other jurisdiction in which the institution is located.
 
-(g) The term “standard college degree” means an associate or higher degree awarded by (1) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (2) an institution of higher learning that is a “candidate” for accreditation as that term is used by the regional or national accrediting agencies; or (3) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
+(g) The term “standard college degree” means an associate or higher degree awarded by (1) an institution of higher learning that is accredited as a collegiate institution by a recognized regional or national accrediting agency; or (2) an institution of higher learning that is a “candidate” for accreditation as that term is used bythe regional or national accrediting agencies; or (3) an institution of higher learning upon completion of a course which is accredited by an agency recognized to accredit specialized degree-level programs. For the purpose of this section, the accrediting agency must be one recognized by the Secretary of Education under the provisions of section 3675 of this title.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §102, Oct. 9, 1996, 110 Stat. 3326; Pub. L. 106–419, title I, §122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §8(a)(4), June 5, 2001, 115 Stat. 34; Pub. L. 107–103, title I, §110(a), Dec. 27, 2001, 115 Stat. 986.)
+(h) The term “qualified provider of entrepreneurship courses” means any of the following entities insofar as such entity offers, sponsors, or cosponsors an entrepreneurship course (as defined in section 3675(c)(2) of this title):
+
+&emsp;(1) Any small business development center described in section 21 of the Small Business Act (15 U.S.C. 648).
+
+&emsp;(2) The National Veterans Business Development Corporation (established under section 33 of the Small Business Act (15 U.S.C. 657c)).
+
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 13, §1652; amended Pub. L. 90–77, title III, §304(c), Aug. 31, 1967, 81 Stat. 186; Pub. L. 91–219, title II, §201, Mar. 26, 1970, 84 Stat. 78; Pub. L. 91–584, §10, Dec. 24, 1970, 84 Stat. 1577; Pub. L. 93–508, title II, §201, Dec. 3, 1974, 88 Stat. 1581; Pub. L. 94–502, title II, §§202, 210(1), 211(1), title IV, §402, Oct. 15, 1976, 90 Stat. 2385, 2388, 2392; Pub. L. 96–466, title III, §307(a), title VIII, §801(a), Oct. 17, 1980, 94 Stat. 2193, 2216; Pub. L. 97–295, §4(38), Oct. 12, 1982, 96 Stat. 1307; renumbered §3452 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §603(a), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §102, Oct. 9, 1996, 110 Stat. 3326; Pub. L. 106–419, title I, §122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §8(a)(4), June 5, 2001, 115 Stat. 34; Pub. L. 107–103, title I, §110(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 108–183, title III, §301(a), §305(c)–(e), Dec. 16, 2003, 117 Stat. 2658, 2660.)
 
 #### References in Text
 
-The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The National Apprenticeship Act, referred to in subsec. (e)(5), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, as amended, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) to (d) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174, 1176, which was classified to former sections 1601(a)(2) and 1611(a)(1), and 1601(a)(3), (5), and (6) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–183, §305(c), inserted at end “Such term also includes any course, or combination of courses, offered by a qualified provider of entrepreneurship courses.”
+
+Subsec. (c). Pub. L. 108–183, §305(d), inserted at end “Such term also includes any qualified provider of entrepreneurship courses.”
+
+Subsec. (e). Pub. L. 108–183, §301(a), substituted “means any of the following:” and pars. (1) to (6) for “means any establishment providing apprentice or other training on the job, including those under the supervision of a college or university or any State department of education, or any State apprenticeship agency, or any State board or vocational education, or any joint apprenticeship committee, or the Bureau of Apprenticeship and Training established pursuant to the Act of August 16, 1937, popularly known as the ‘National Apprenticeship Act’ (29 U.S.C. 50 et seq.), or any agency of the Federal Government authorized to supervise such training.”
+
+Subsec. (h). Pub. L. 108–183, §305(e), added subsec. (h).
 
 2001—Subsec. (a)(1)(A). Pub. L. 107–14, §8(a)(4)(A)(i), struck out “or” at end.
 
@@ -78,7 +104,7 @@ Subsec. (f). Pub. L. 96–466, §§307(a), 801(a)(2), substituted “The” for 
 
 Subsec. (g). Pub. L. 96–466, §801(a)(2), (3), substituted “The” for “For the purposes of this chapter and chapter 36 of this title, the” and “Secretary of Education” for “Commissioner of Education”.
 
-1976—Subsec. (a)(1). Pub. L. 94–502, §402(1), restricted the definition of an eligible veteran to a veteran who commenced his active duty requirement after Jan. 31, 1955 but before Jan. 1, 1977, with the exception of a veteran who enlisted or was assigned to a reserve component before Jan. 1, 1977 and commenced his active duty requirement within 12 months following Jan. 1, 1977.
+1976—Subsec. (a)(1). Pub. L. 94–502, §402(1), restricted the definition of an eligible veteran to a veteran who commenced his active duty requirement after Jan. 31,1955 but before Jan. 1, 1977, with the exception of a veteran who enlisted or was assigned to a reserve component before Jan. 1, 1977 and commenced his active duty requirement within 12 months following Jan. 1, 1977.
 
 Subsec. (a)(2). Pub. L. 94–502, §§211(1), 402(2), substituted “such individual” for “he” and inserted “or (B)” after “paragraph (1)(A)”.
 
@@ -100,6 +126,12 @@ Subsec. (c). Pub. L. 91–219, §201(b), included within the term “educational
 
 1967—Subsec. (e). Pub. L. 90–77 added subsec. (e).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–183, title III, §301(b), Dec. 16, 2003, 117 Stat. 2658, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is six months after the date of the enactment of this Act \[Dec. 16, 2003\] and shall apply to self-employment on-job training approved and pursued on or after that date.”
+
+Pub. L. 108–183, title III, §305(f), Dec. 16, 2003, 117 Stat. 2661, provided that: “The amendments made by this section \[amending this section and sections 3471 and 3675 of this title\] shall apply to courses approved by State approving agencies after the date of the enactment of this Act \[Dec. 16, 2003\].”
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–103, title I, §110(b), Dec. 27, 2001, 115 Stat. 986, provided that: “The amendments made by subsection (a) \[amending this section and section 3501 of this title\] shall apply to enrollments in courses beginning on or after the date of the enactment of this Act \[Dec. 27, 2001\].”
@@ -120,7 +152,7 @@ Section 802(h) of Pub. L. 96–466 provided that: “Section 801 \[see Tables fo
 
 #### Effective Date of 1976 Amendment
 
-Amendment by sections 202, 210(1), and 211(1) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub.L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by sections 202, 210(1), and 211(1) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
 Amendment by section 402 of Pub. L. 94–502 effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as an Effective Date note under section 3201 of this title.
 

@@ -28,7 +28,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;&emsp;(B) is deportable by reason of having committed any offense covered in section 1227(a)(2)(A)(ii), (A)(iii), (B), (C), or (D) of this title,
 
-&emsp;&emsp;(C) is deportable under section 1227(a)(2)(A)(i) of this title on the basis of an offense for which the alien has been sentence <sup>1</sup> to a term of imprisonment of at least 1 year, or
+&emsp;&emsp;(C) is deportable under section 1227(a)(2)(A)(i) of this title on the basis of anoffense for which the alien has been sentence <sup>1</sup> to a term of imprisonment of at least 1 year, or
 
 &emsp;&emsp;(D) is inadmissible under section 1182(a)(3)(B) of this title or deportable under section 1227(a)(4)(B) of this title,
 
@@ -54,7 +54,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;(B) to officials of the Department of State for use in its automated visa lookout system.
 
-(3) Upon the request of the governor or chief executive officer of any State, the Service shallprovide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
+(3) Upon the request of the governor or chief executive officer of any State, the Service shall provide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
 
 #### (e) Judicial review
 
@@ -134,7 +134,7 @@ Pub. L. 105–141, Dec. 5, 1997, 111 Stat. 2647, provided that:
 
 “(a)
 
-Establishment of Program.—Not later than 6 months after the date of the enactment of this Act\[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
+Establishment of Program.—Not later than 6 months after the date of the enactment of this Act \[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
 
 &emsp;“(1) Aliens unlawfully present in the United States.
 
@@ -198,7 +198,7 @@ Treatment of certain facilities.—All of the incarceration facilities within th
 
 #### “SEC. 2. STUDY AND REPORT.
 
-“Not later than 1 year after the date of the enactment of this Act \[Dec. 5, 1997\], the Attorney General shall complete a study, and submit a report to the Congress, concerning the logistical and technological feasibility of implementing the program under section 1 in a greater number of locations than those selected under such section through—
+“Not later than 1 year after the date of the enactment of this Act \[Dec. 5, 1997\], the Attorney Generalshall complete a study, and submit a report to the Congress, concerning the logistical and technological feasibility of implementing the program under section 1 in a greater number of locations than those selected under such section through—
 
 &emsp;“(1) the assignment of a single Immigration and Naturalization Service employee to more than 1 incarceration facility; and
 

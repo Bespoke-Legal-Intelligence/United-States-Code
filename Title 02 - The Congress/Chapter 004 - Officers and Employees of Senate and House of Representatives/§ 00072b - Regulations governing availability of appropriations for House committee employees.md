@@ -6,7 +6,7 @@ Appropriations for committee employees shall be available in such amounts and un
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

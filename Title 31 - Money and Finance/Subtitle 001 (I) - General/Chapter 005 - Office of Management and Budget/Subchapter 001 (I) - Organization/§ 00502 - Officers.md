@@ -8,7 +8,7 @@
 
 &emsp;(2) acts as the Director when the Director is absent or unable to serve or when the office of Director is vacant.
 
-(c) The Office has a Deputy Director for Management appointed by the President, by andwith the advice and consent of the Senate. The Deputy Director for Management shall be the chief official responsible for financial management in the United States Government.
+(c) The Office has a Deputy Director for Management appointed by the President, by and with the advice and consent of the Senate. The Deputy Director for Management shall be the chief official responsible for financial management in the United States Government.
 
 (d) The Office has 3 Assistant Directors who shall carry out the duties and powers prescribed by the Director.
 

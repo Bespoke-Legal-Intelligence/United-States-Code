@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after the appointment and qualification of the Administrator,the Fund shall promulgate such regulations as may be necessary to carry out this subchapter.
+&emsp;Not later than 180 days after the appointment and qualification of the Administrator, the Fund shall promulgate such regulations as may be necessary to carry out this subchapter.
 
 #### (2) Regulations required
 

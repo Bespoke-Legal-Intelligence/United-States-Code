@@ -48,5 +48,5 @@ Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 689 of this title.
+This section is referred to in sections 688a, 689 of this title.
 

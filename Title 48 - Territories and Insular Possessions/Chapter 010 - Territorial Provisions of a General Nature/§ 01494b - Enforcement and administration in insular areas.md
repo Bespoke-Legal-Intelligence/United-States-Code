@@ -16,7 +16,7 @@
 
 &emsp;(B) provide by purchase or lease law enforcement equipment and technical assistance to the Government of American Samoa to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse laws.
 
-(3) There are authorized to be appropriated $350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
+(3) There are authorized to be appropriated $350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and HumanServices to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
 (4) The Secretary of the Treasury in consultation with the Secretary of the Interior shall provide the Government of American Samoa with a vessel to be used in the enforcement of narcotics and other laws. There are authorized to be appropriated $500,000 for this purpose.
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) provide, by purchase or lease, law enforcement equipment and technical assistance to the Government of the Northern Mariana Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or commonwealth drug or other substance abuse law.
 
-(3) There are authorized to be appropriated $125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the AttorneyGeneral and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
+(3) There are authorized to be appropriated $125,000 for fiscal year 1989 and annually thereafter for grants to the Government of the Northern Mariana Islands to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services to carry out the purposes of sections 1494 to 1494c of this title, to remain available until expended.
 
 (4) Federal personnel and equipment assigned to Guam pursuant to subsection (b) of this section shall also be available to carry out the purposes of sections 1494 to 1494c of this title in the Northern Mariana Islands.
 
@@ -68,7 +68,7 @@
 
 (3)(A) The Attorney General and the Secretaries of Education and Health and Human Services of the United States may provide and, upon request of the Government of the Virgin Islands, shall provide appropriate training, technical assistance and equipment to the Government of the United States Virgin Islands to carry out the purposes of sections 1494 to 1494c of this title and any other Federal or territorial drug or other substance abuse law.
 
-(B) There are authorized to be appropriated such sums as may be necessary to carry out subparagraph (A). Funds appropriated under this subparagraph shall remain available until expended.
+(B) There are authorized to be appropriated such sums as may be necessary to carry out subparagraph (A). Funds appropriated under thissubparagraph shall remain available until expended.
 
 (4) To assist in the prosecution of the violation of the narcotics laws of the United States, the Attorney General of the United States shall assign the necessary personnel to serve in the office of the United States Attorney for the Virgin Islands appointed pursuant to section 1617 of this title.
 
@@ -92,7 +92,7 @@ Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c
 
 #### Amendments
 
-1988—Subsec. (a)(2). Pub. L. 100–690, §9302(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “, as appropriate,” after “States”, “and, upon request of the Government of American Samoa, shall” after “are authorized to”, “and otherpersonnel” after “officers”, and “or other substance” after “drug”.
+1988—Subsec. (a)(2). Pub. L. 100–690, §9302(1), substituted “Secretaries of Education and” for “Secretary of” and inserted “, as appropriate,” after “States”, “and, upon request of the Government of American Samoa, shall” after “are authorized to”, “and other personnel” after “officers”, and “or other substance” after “drug”.
 
 Subsec. (a)(3). Pub. L. 100–690, §9302(2), substituted “$350,000 for fiscal year 1989 and annually thereafter for grants to the Government of American Samoa to be expended in accordance with a plan approved by the Secretary of the Interior in consultation with the Attorney General and the Secretaries of Education and Health and Human Services” for “$700,000” and “sections 1494 to 1494c of this title” for “this subsection”.
 

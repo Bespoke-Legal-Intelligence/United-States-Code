@@ -24,7 +24,7 @@ The Secretary of Agriculture shall conduct, sponsor, promote, and coordinate bas
 
 &emsp;(8) establishing and maintaining a bank of all pertinent research data on native latex including extant United States Government publications and records from the emergency rubber project. Such data shall be made available to other Federal and State agencies and private persons who are interested or involved in native latex research, development, or manufacture; and
 
-&emsp;(9) studying the economic feasibility of developing other native agricultural crops (in addition to Parthenium and other hydrocarbon-containing plants) that would supplycritical agricultural materials for strategic and industrial purposes, carrying out demonstration projects to promote the development or commercialization of such crops (including projects designed to expand domestic or foreign markets for such crops), and, to the extent appropriate, carrying out research activities with respect to such crops in the manner specified in paragraphs (1) through (8).
+&emsp;(9) studying the economic feasibility of developing other native agricultural crops (in addition to Parthenium and other hydrocarbon-containing plants) that would supply critical agricultural materials for strategic and industrial purposes, carrying out demonstration projects to promote the development or commercialization of such crops (including projects designed to expand domestic or foreign markets for such crops), and, to the extent appropriate, carrying out research activities with respect to such crops in the manner specified in paragraphs (1) through (8).
 
 #### (c) Office of Critical Agricultural Materials
 

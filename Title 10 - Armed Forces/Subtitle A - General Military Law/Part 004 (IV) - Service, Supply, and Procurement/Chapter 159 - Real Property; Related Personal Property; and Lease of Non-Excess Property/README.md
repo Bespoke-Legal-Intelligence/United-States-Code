@@ -15,7 +15,7 @@
 | [2669\.](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md) | Easements for rights-of-way: gas, water, sewer pipe lines. |
 | [2670\.](%C2%A7%2002670%20-%20Military%20installations%20use%20by%20American%20National%20Red%20Cross%3B%20use%20as%20polling%20places.md) | Military installations: use by American National Red Cross; use as polling places. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
-| [2672\.](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24500%2C000.md) | Acquisition: interests in land when cost is not more than $500,000. |
+| [2672\.](%C2%A7%2002672%20-%20Authority%20to%20acquire%20low-cost%20interests%20in%20land.md) | Authority to acquire low-cost interests in land. |
 | [2672a.](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md) | Acquisition: interests in land when need is urgent. |
 | [2673\.](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md) | Acquisition of certain interests in land: availability of funds. |
 | [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md) | Operation and control of Pentagon Reservation and defense facilities in National Capital Region. |
@@ -29,6 +29,7 @@
 | [2682\.](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md) | Facilities for defense agencies. |
 | [2683\.](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md) | Relinquishment of legislative jurisdiction; minimum drinking age on military installations. |
 | [2684\.](%C2%A7%2002684%20-%20Cooperative%20agreements%20for%20management%20of%20cultural%20resources.md) | Cooperative agreements for management of cultural resources. |
+| [2684a.](%C2%A7%2002684a%20-%20Agreements%20to%20limit%20encroachments%20and%20other%20constraints%20on%20military%20training%2C%20testing%2C%20and%20operations.md) | Agreements to limit encroachments and other constraints on military training, testing, and operations. |
 | [2685\.](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md) | Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities. |
 | [2686\.](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md) | Utilities and services: sale; expansion and extension of systems and facilities. |
 | [2687\.](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md) | Base closures and realignments. |
@@ -39,6 +40,8 @@
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
 | [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property%20Department%20of%20Justice%20correctional%20options%20program.md) | Conveyance of certain property: Department of Justice correctional options program. |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
+| [2694a.](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md) | Conveyance of surplus real property for natural resource conservation. |
+| [2694b.](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md) | Participation in wetland mitigation banks. |
 | [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
 | [2696\.](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md) | Screening of real property for further Federal use before conveyance. |
 
@@ -51,6 +54,10 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title III, §314(a)(2), div. B, title XXVIII, §2811(b)(3), Nov. 24, 2003, 117 Stat. 1431, 1725, substituted “Authority to acquire low-cost interests in land” for “Acquisition: interests in land when cost is not more than $500,000” in item 2672 and added item 2694b.
+
+2002—Pub. L. 107–314, div. B, title XXVIII, §§2811(b), 2812(a)(2), Dec. 2, 2002, 116 Stat. 2707, 2709, added items 2684a and 2694a.
 
 2001—Pub. L. 107–107, div. A, title X, §1048(a)(26)(B)(ii), title XVI, §1607(b)(3), Dec. 28, 2001, 115 Stat. 1225, 1280, substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in item 2670 and “Conveyance of certain property: Department of Justice correctional options program” for “Conveyance of certain property” in item 2693.
 
@@ -104,7 +111,7 @@ Pub. L. 96–418, title VIII, §806(b), Oct. 10, 1980, 94 Stat. 1777, as amended
 
 1977—Pub. L. 95–82, title V, §504(a)(2), title VI, §§608(b), 612(b), Aug. 1, 1977, 91 Stat. 371, 378, 380, substituted “Minor construction projects” for “Establishment and development of military facilities and installations costing less than $400,000” in item 2674 and added items 2686 and 2687.
 
-1975—Pub. L. 94–107, title VI, §607(1), (9), (10), Oct. 7, 1975, 89 Stat. 566, 567, substituted “$400,000” for “$300,000” in item 2674, struck out “; structures not on a military base” in item 2675, and added item 2672a.
+1975—Pub. L. 94–107, title VI, §607(1), (9), (10), Oct. 7, 1975, 89 Stat. 566, 567, substituted “$400,000” for “$300,000” in item 2674, struck out “; structures not on a military base” in item 2675, and added item 2672a.
 
 1974—Pub. L. 93–552, title VI, §611, Dec. 27, 1974, 88 Stat. 1765, added item 2685.
 
@@ -142,7 +149,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02669 - Easements for rights-of-way gas, water, sewer pipe lines](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md)
 - [&sect; 02670 - Military installations use by American National Red Cross; use as polling places](%C2%A7%2002670%20-%20Military%20installations%20use%20by%20American%20National%20Red%20Cross%3B%20use%20as%20polling%20places.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
-- [&sect; 02672 - Acquisition interests in land when cost is not more than $500,000](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24500%2C000.md)
+- [&sect; 02672 - Authority to acquire low-cost interests in land](%C2%A7%2002672%20-%20Authority%20to%20acquire%20low-cost%20interests%20in%20land.md)
 - [&sect; 02672a - Acquisition interests in land when need is urgent](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md)
 - [&sect; 02673 - Acquisition of certain interests in land availability of funds](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md)
 - [&sect; 02674 - Operation and control of Pentagon Reservation and defense facilities in National Capital Region](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md)
@@ -156,6 +163,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02682 - Facilities for defense agencies](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md)
 - [&sect; 02683 - Relinquishment of legislative jurisdiction; minimum drinking age on military installations](%C2%A7%2002683%20-%20Relinquishment%20of%20legislative%20jurisdiction%3B%20minimum%20drinking%20age%20on%20military%20installations.md)
 - [&sect; 02684 - Cooperative agreements for management of cultural resources](%C2%A7%2002684%20-%20Cooperative%20agreements%20for%20management%20of%20cultural%20resources.md)
+- [&sect; 02684a - Agreements to limit encroachments and other constraints on military training, testing, and operations](%C2%A7%2002684a%20-%20Agreements%20to%20limit%20encroachments%20and%20other%20constraints%20on%20military%20training%2C%20testing%2C%20and%20operations.md)
 - [&sect; 02685 - Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store&#8230;](%C2%A7%2002685%20-%20Adjustment%20of%20or%20surcharge%20on%20selling%20prices%20in%20commissary%20stores%20to%20provide%20funds%20for%20construction%20and%20improvement%20of%20commissary%20store%E2%80%A6.md)
 - [&sect; 02686 - Utilities and services sale; expansion and extension of systems and facilities](%C2%A7%2002686%20-%20Utilities%20and%20services%20sale%3B%20expansion%20and%20extension%20of%20systems%20and%20facilities.md)
 - [&sect; 02687 - Base closures and realignments](%C2%A7%2002687%20-%20Base%20closures%20and%20realignments.md)
@@ -166,5 +174,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Conveyance of certain property Department of Justice correctional options program](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property%20Department%20of%20Justice%20correctional%20options%20program.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)
+- [&sect; 02694a - Conveyance of surplus real property for natural resource conservation](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md)
+- [&sect; 02694b - Participation in wetland mitigation banks](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md)
 - [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
 - [&sect; 02696 - Screening of real property for further Federal use before conveyance](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md)

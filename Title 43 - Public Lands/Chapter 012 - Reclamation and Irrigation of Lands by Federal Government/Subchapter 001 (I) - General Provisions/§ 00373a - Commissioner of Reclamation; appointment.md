@@ -20,6 +20,10 @@ Provisions of this section which prescribed the basic compensation of Commission
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
+#### Use of Private Sector
+
+Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided that: “The Commissioner of the Bureau of Reclamation is directed to increase the use of the private sector in performing planning, engineering and design work for Bureau of Reclamation projects to 10 percent in fiscal year 2003, and in each subsequent year until the level of work is at least 40 percent for the planning, engineering and design work conducted by the Bureau of Reclamation.”
+
 #### Compensation of Commissioner
 
 Compensation of Commissioner, see section 5316 of Title 5, Government Organization and Employees.

@@ -20,7 +20,7 @@ The following property shall be forfeited to the United States:
 
 &emsp;&emsp;(A) all distilled spirits or wines, and all stills or other apparatus fit or intended to be used for the distillation or rectification of spirits, or for the compounding of liquors, owned by such person, wherever found; and
 
-&emsp;&emsp;(B) all distilled spirits, wines, raw materials for the production of distilled spirits, and personal property found in the distillery or in any building, room, yard, or inclosureconnected therewith and used with or constituting a part of the premises; and
+&emsp;&emsp;(B) all distilled spirits, wines, raw materials for the production of distilled spirits, and personal property found in the distillery or in any building, room, yard, or inclosure connected therewith and used with or constituting a part of the premises; and
 
 &emsp;&emsp;(C) all the right, title, and interest of such person in the lot or tract of land on which the distillery is situated; and
 

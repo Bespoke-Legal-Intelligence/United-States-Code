@@ -6,7 +6,7 @@ In order to provide for the ever-increasing outdoor recreation needs of an expan
 
 #### (b) Initial components
 
-The purpose of this chapter is to provide the means for attaining these objectives by instituting a national system of recreation, scenic andhistoric trails, by designating the Appalachian Trail and the Pacific Crest Trail as the initial components of that system, and by prescribing the methods by which, and standards according to which, additional components may be added to the system.
+The purpose of this chapter is to provide the means for attaining these objectives by instituting a national system of recreation, scenic and historic trails, by designating the Appalachian Trail and the Pacific Crest Trail as the initial components of that system, and by prescribing the methods by which, and standards according to which, additional components may be added to the system.
 
 #### (c) Volunteer citizen involvement
 
@@ -88,7 +88,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent pe
 
 (d) Promoting and registering National Recreation Trails, as authorized in the National Trails System Act, by incorporating where possible the commitments and partners active with Millennium Trails;
 
-(e) Participating in a National Trails Day the first Saturday of June each year, coordinating Federalevents with the National Trails Day's sponsoring organization, the American Hiking Society;
+(e) Participating in a National Trails Day the first Saturday of June each year, coordinating Federal events with the National Trails Day's sponsoring organization, the American Hiking Society;
 
 (f) Familiarizing Federal agencies that are active in tourism and travel with the components of a national system of trails and the Millennium Trails network and including information about them in Federal promotional and outreach programs;
 

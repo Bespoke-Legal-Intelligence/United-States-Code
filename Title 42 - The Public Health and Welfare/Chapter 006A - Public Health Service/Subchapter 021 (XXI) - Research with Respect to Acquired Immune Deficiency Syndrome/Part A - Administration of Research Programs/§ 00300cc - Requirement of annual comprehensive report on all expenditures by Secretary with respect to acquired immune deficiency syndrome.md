@@ -22,7 +22,7 @@ The report required in subsection (a) of this section shall, with respect to acq
 
 &emsp;(7) any report required in this chapter to be submitted to the Secretary for inclusion in the report required in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title XXIII, §2301, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102Stat. 3063; amended Pub. L. 102–531, title III, §312(d)(16), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXIII, §2301, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063; amended Pub. L. 102–531, title III, §312(d)(16), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Prior Provisions
 

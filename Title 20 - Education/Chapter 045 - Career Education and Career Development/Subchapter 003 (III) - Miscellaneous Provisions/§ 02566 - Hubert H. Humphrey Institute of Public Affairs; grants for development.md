@@ -14,7 +14,7 @@ Section 1 of Pub. L. 95–270 provided: “That this Act \[enacting this section
 
 #### Transfer of Functions
 
-“Secretary” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary” substituted in text for “Commissioner” pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88,which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In carrying out the program under this part, subject to subsection (b) of this section, the Secretary shall promote ground and surface water conservation by providing cost-share payments, incentive payments, and loans to producers to carry out eligible water conservation activitieswith respect to the agricultural operations of producers, to—
+In carrying out the program under this part, subject to subsection (b) of this section, the Secretary shall promote ground and surface water conservation by providing cost-share payments, incentive payments, and loans to producers to carry out eligible water conservation activities with respect to the agricultural operations of producers, to—
 
 &emsp;(1) improve irrigation systems;
 

@@ -46,7 +46,7 @@
 
 &emsp;(1) is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by an employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of a prosecution under this section (including investigation for, initiation of, testimony for, or assistance in such prosecution), and
 
-&emsp;(2) was not a participant in the unlawful activity that is the subject of said prosecution,may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
+&emsp;(2) was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
 
 (Added Pub. L. 100–700, §2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, §2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, §330002(a), (f), Sept. 13, 1994, 108 Stat. 2140.)
 

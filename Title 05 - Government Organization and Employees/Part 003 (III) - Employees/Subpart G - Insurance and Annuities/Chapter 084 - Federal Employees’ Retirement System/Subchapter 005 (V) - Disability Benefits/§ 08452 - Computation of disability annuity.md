@@ -22,7 +22,7 @@
 
 (B)(i) For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
-&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
+&emsp;(I) the amount of the disability insurance benefit to which the annuitant is entitledunder section 223 of the Social Security Act for the month in which the annuity under this subchapter commences, or is restored, or, if no entitlement to such disability insurance benefits exists for such month, the first month thereafter for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act, adjusted by
 
 &emsp;(II) all adjustments made under section 8462(b) after the end of the period referred to in paragraph (1)(A)(i) (or, if later, after the end of the month preceding the first month for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act) and before the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
@@ -46,7 +46,7 @@
 
 &emsp;(2) as of the day on which such annuity commences, or is restored, the annuitant satisfies the age and service requirements for entitlement to an annuity under section 8412 (other than subsection (g) of such section).
 
-(d)(1) The annuity to which an annuitant is entitled under this section (after the reduction under subsection (a)(2), if applicable, has been made) shall not be less than the amount of an annuity computed under section 8415 (excluding subsection (f) of such section).
+(d)(1) The annuity to which an annuitant is entitled under this section (after the reduction under subsection (a)(2), if applicable, has been made) shall not be less than the amount of an annuity computed under section 8415 (excluding subsection (g) of such section).
 
 (2) In applying this subsection with respect to any annuitant, the amount of an annuity so computed under section 8415 shall be adjusted under section 8462 (including subsection (c) thereof)—
 
@@ -58,13 +58,15 @@
 
 &emsp;(B) whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, §122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, §122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, §226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530.)
 
 #### References in Text
 
-Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), are classified to sections 423and 424a, respectively, of Title 42, The Public Health and Welfare.
+Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), are classified to sections 423 and 424a, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2003—Subsec. (d)(1). Pub. L. 108–176 substituted “subsection (g)” for “subsection (f)”.
 
 1988—Subsec. (a)(1)(B). Pub. L. 100–238, §122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
 
@@ -85,6 +87,10 @@ Subsec. (d). Pub. L. 100–238, §122(c)(1), designated existing provisions as p
 1986—Subsec. (b)(3). Pub. L. 99–556, §106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
 
 Subsec. (d). Pub. L. 99–556, §104, inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -2,13 +2,13 @@
 
 (a) In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of law relating to the promotion, involuntary retirement, or separation of commissioned officers of the Army, Navy, Air Force, Marine Corps, or Coast Guard Reserve. So long as such war or national emergency continues, any such suspension may be extended by the President.
 
-(b) Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
+(b) Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension\(or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
 
 (c) If a provision of law pertaining to the promotion of reserve officers is suspended under this section and if the Secretary of Defense submits to Congress proposed legislation to adjust the grades and dates of rank of reserve commissioned officers other than commissioned warrant officers, such proposed legislation shall, so far as practicable, be the same as that recommended for adjusting the grades and dates of rank of officers of the regular component of the armed force concerned.
 
 (d) Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service in grade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
 
-(Added Pub. L. 85–861, §1(2)(A), Sept. 2, 1958, 72 Stat. 1437; amended Pub. L. 86–559, §1(1), June 30, 1960, 74 Stat. 264; Pub. L. 89–718, §1, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(1), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §§501(3), 511(1), Dec. 12, 1980, 94 Stat. 2907, 2920; Pub. L. 97–22, §10(b)(1), July 10, 1981, 95 Stat. 137; Pub. L. 103–337, div. A, title XVI, §1622(a), Oct. 5, 1994,108 Stat. 2961; Pub. L. 104–106, div. A, title XV, §1501(c)(4), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, §508(b), Dec. 28, 2001, 115 Stat. 1090.)
+(Added Pub. L. 85–861, §1(2)(A), Sept. 2, 1958, 72 Stat. 1437; amended Pub. L. 86–559, §1(1), June 30, 1960, 74 Stat. 264; Pub. L. 89–718, §1, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(1), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §§501(3), 511(1), Dec. 12, 1980, 94 Stat. 2907, 2920; Pub. L. 97–22, §10(b)(1), July 10, 1981, 95 Stat. 137; Pub. L. 103–337, div. A, title XVI, §1622(a), Oct. 5, 1994, 108 Stat. 2961; Pub. L. 104–106, div. A, title XV, §1501(c)(4), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, §508(b), Dec. 28, 2001, 115 Stat. 1090.)
 
 Historical and Revision Notes
 
@@ -68,15 +68,19 @@ Section 10(b) of Pub. L. 97–22 provided that the amendment made by that sectio
 
 Amendment by section 501(3) of Pub. L. 96–513, striking out references to sections 3571, 5867, and 8571, effective Sept. 15, 1981, and amendment by section 511(1) of Pub. L. 96–513, striking out references to sections 3847, 8370, and 8847, effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(11) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
 #### Delegation of Authority
 
-Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Transportation by section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of this title.
+Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001,66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, as amended, set out as a note under section 12302 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14317 of this title.
+This section is referred to in section 14317 of this title; title 37 section 909.
 

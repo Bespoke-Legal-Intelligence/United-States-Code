@@ -2,7 +2,7 @@
 
 #### (a) Assurances
 
-A State educational agency, in consultation with the Governor of the State, that submits a consolidated State plan or consolidated State application under this chapter, whether separately or under section 7842 of this title, shall have on file with the Secretary a single set of assurances, applicable to each program for which the plan or application is submitted, that provides that—
+A State educational agency, in consultation with the Governor of the State, that submits a consolidated State plan or consolidated State application under this chapter, whether separately or under section 7842 of this title, shallhave on file with the Secretary a single set of assurances, applicable to each program for which the plan or application is submitted, that provides that—
 
 &emsp;(1) each such program will be administered in accordance with all applicable statutes, regulations, program plans, and applications;
 

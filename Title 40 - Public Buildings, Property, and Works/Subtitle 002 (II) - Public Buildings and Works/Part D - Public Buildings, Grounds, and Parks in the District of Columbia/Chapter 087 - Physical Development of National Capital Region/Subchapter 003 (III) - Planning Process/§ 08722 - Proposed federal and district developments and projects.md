@@ -34,7 +34,7 @@ Submission to commission.—Within the environs, general plans showing the locat
 
 &emsp;(2)
 
-Commission action.—Before acting on any general plan, the Commission shall adviseand consult with the appropriate planning agency having jurisdiction over the affected part of the environs. When the Commission decides that proposed developments or projects submitted to the Commission under subsection (b) involve a major change in the character or intensity of an existing use in the environs, the Commission shall advise and consult with the planning agency. The report and recommendations shall be submitted within 60 days and shall be accompanied by any reports or recommendations of the planning agency.
+Commission action.—Before acting on any general plan, the Commission shall advise and consult with the appropriate planning agency having jurisdiction over the affected part of the environs. When the Commission decides that proposed developments or projects submitted to the Commission under subsection (b) involve a major change in the character or intensity of an existing use in the environs, the Commission shall advise and consult with the planning agency. The report and recommendations shall be submitted within 60 days and shall be accompanied by any reports or recommendations of the planning agency.
 
 &emsp;(3)
 
@@ -116,5 +116,5 @@ The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6715 of this title.
+This section is referred to in section 6715 of this title; title 49 section 49111.
 

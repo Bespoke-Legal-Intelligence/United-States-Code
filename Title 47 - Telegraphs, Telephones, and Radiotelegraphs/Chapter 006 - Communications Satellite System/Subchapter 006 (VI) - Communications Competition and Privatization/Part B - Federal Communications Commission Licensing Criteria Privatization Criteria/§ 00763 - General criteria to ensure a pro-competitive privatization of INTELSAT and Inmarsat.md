@@ -42,7 +42,7 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;&emsp;(i) shall be conducted, for the successor entities of INTELSAT, on or about December 31, 2003, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than June 30, 2004; and
 
-&emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than December 31, 2002, except that the Commission may extend this deadline to not later than June 30, 2003.
+&emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2004, except that the Commission may extend this deadline to not later than December 31, 2004.
 
 &emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
 
@@ -74,9 +74,11 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;(C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
-(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480.)
+(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835.)
 
 #### Amendments
+
+2003—Par. (5)(A)(ii). Pub. L. 108–39 substituted “June 30, 2004” for “December 31, 2002” and “December 31, 2004” for “June 30, 2003”.
 
 2002—Par. (5)(A)(i). Pub. L. 107–233 substituted “December 31, 2003,” for “October 1, 2001,” and “June 30, 2004;” for “December 31, 2002;”.
 

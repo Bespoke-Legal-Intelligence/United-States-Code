@@ -18,5 +18,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1691d of this title.
+This section is referred to in sections 1681a, 1691d of this title.
 

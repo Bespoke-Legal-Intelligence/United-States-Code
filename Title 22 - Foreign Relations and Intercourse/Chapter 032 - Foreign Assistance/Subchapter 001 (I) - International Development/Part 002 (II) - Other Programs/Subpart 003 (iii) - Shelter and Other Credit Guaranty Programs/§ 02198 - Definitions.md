@@ -2,19 +2,25 @@
 
 As used in this subpart—
 
-&emsp;(a) the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to anapproved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
+&emsp;(a) the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to an approved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
 
-&emsp;(b) the term “expropriation” includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is not caused by the investor's own fault or misconduct, and materially adversely affects the continued operation of the project;
+&emsp;(b) the term “expropriation” includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government, of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is not caused by the investor's own fault or misconduct, and materially adversely affects the continued operation of the project;
 
 &emsp;(c) the term “eligible investor” means: (1) United States citizens; (2) corporations, partnerships, or other associations including nonprofit associations, created under the laws of the United States, any State or territory thereof, or the District of Columbia, and substantially beneficially owned by United States citizens; and (3) foreign corporations, partnerships, of other associations wholly owned by one or more such United States citizens, corporations, partnerships, or other associations: <i>Provided, however</i>, That the eligibility of such foreign corporation shall be determined without regard to any shares, in aggregate less than 5 per centum of the total of issued and subscribed share capital, held by other than the United States owners: <i>Provided further</i>, That in the case of any loan investment a final determination of eligibility may be made at the time the insurance or guaranty is issued; in all other cases, the investor must be eligible at the time a claim arises as well as at the time the insurance or guaranty is issued;
 
-&emsp;(d) the term “noncredit account revolving fund” means the account in which funds under section 2196 of this title and all funds from noncredit activities are held; and <sup>1</sup>
+&emsp;(d) the term “noncredit account revolving fund” means the account in which funds under section 2196 of this title and all funds from noncredit activities are held;
 
-&emsp;(e) the term “noncredit activities” means all activities of the Corporation other than its loan guarantee program under section 2194(b) of this title and its direct loan program under section 2194(c) of this title; <sup>2</sup>
+&emsp;(e) the term “noncredit activities” means all activities of the Corporation other than its loan guarantee program under section 2194(b) of this title and its direct loan program under section 2194(c) of this title;
 
-&emsp;(f) the term “predecessor guaranty authority” means prior guaranty authorities (other than housing guaranty authorities) repealed by the Foreign Assistance Act of 1969, and sections 1509(b)(3), 1872(b), and 1933(b) <sup>3</sup> of this title (exclusive of authority relating to informational media guaranties).
+&emsp;(f) the term “predecessor guaranty authority” means prior guaranty authorities (other than housing guaranty authorities) repealed by the Foreign Assistance Act of 1969, and sections 1509(b)(3), 1872(b), and 1933(b) <sup>1</sup> of this title (exclusive of authority relating to informational media guaranties); and
 
-(Pub. L. 87–195, pt. I, §238, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 815; amended Pub. L. 92–226, pt. I, §104(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 97–65, §7, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 99–204, §17(a), Dec. 23, 1985, 99 Stat. 1676; Pub. L. 102–549, title I, §106, Oct. 28, 1992, 106 Stat. 3653.)
+&emsp;(g) the term “local financial institution”—
+
+&emsp;&emsp;(1) means any bank or financial institution that is organized under the laws of any country or area in which the Corporation operates; but
+
+&emsp;&emsp;(2) does not include a branch, however organized, of a bank or other financial institution that is organized under the laws of a country in which the Corporation does not operate.
+
+(Pub. L. 87–195, pt. I, §238, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 815;amended Pub. L. 92–226, pt. I, §104(a), Feb. 7, 1972, 86 Stat. 22; Pub. L. 97–65, §7, Oct. 16, 1981, 95 Stat. 1024; Pub. L. 99–204, §17(a), Dec. 23, 1985, 99 Stat. 1676; Pub. L. 102–549, title I, §106, Oct. 28, 1992, 106 Stat. 3653; Pub. L. 108–158, §§4(b), 5(b), Dec. 3, 2003, 117 Stat. 1950.)
 
 #### References in Text
 
@@ -25,6 +31,12 @@ Section 1509(b)(3) of this title, referred to in subsec. (f), was repealed by ac
 Sections 1872(b) and 1933(b) of this title, referred to in subsec. (f), were repealed by Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460. Section 642(b) of Pub. L. 87–195 provided that references to provisions of law repealed by subsec. (a) were to be deemed references to the appropriate provisions of Pub. L. 87–195. See sections 2163 and 2351 of this title.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–158, §4(b), inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
+
+Subsec. (d). Pub. L. 108–158, §5(b)(1), struck out “and” after semicolon at end.
+
+Subsec. (g). Pub. L. 108–158, §5(b)(2), (3), added subsec. (g).
 
 1992—Subsecs. (c) to (f). Pub. L. 102–549 struck out “and” at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
 
@@ -38,9 +50,5 @@ Sections 1872(b) and 1933(b) of this title, referred to in subsec. (f), were rep
 
 This section is referred to in sections 2182, 2186 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

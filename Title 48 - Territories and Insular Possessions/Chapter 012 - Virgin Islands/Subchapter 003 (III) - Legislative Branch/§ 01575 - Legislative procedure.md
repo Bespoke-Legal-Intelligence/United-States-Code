@@ -10,7 +10,7 @@ The enacting clause of all acts shall be as follows: “Be it enacted by the Leg
 
 #### (c) Governor's message and budget
 
-The Governor shall submit at the opening of each regular session of the legislature a message on the state of the Virgin Islands and a budget of estimated receipts and expenditures, which shall be the basis of the appropriation bills for the ensuing fiscal year, which shall commence on the first day of July or such other date as the Legislature of the Virgin Islands may determine.
+The Governor shall submit at the opening of each regular session of the legislature a message on the state of the Virgin Islands and a budget of estimated receipts and expenditures, which shall be the basis of the appropriation bills forthe ensuing fiscal year, which shall commence on the first day of July or such other date as the Legislature of the Virgin Islands may determine.
 
 #### (d) Approval and disapproval of bills
 

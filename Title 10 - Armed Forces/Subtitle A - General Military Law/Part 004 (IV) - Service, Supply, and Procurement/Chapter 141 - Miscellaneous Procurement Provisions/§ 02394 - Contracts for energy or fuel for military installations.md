@@ -4,7 +4,7 @@
 
 &emsp;(1) under section 2689 of this title; and
 
-&emsp;(2) for the provision and operation of energy production facilities on real property underthe Secretary's jurisdiction or on private property and the purchase of energy produced from such facilities.
+&emsp;(2) for the provision and operation of energy production facilities on real property under the Secretary's jurisdiction or on private property and the purchase of energy produced from such facilities.
 
 (b) A contract may be made under subsection (a) only after the approval of the proposed contract by the Secretary of Defense.
 
@@ -33,4 +33,8 @@ Subsecs. (c), (d). Pub. L. 97–321, §805(b)(3)(B), redesignated subsec. (d) as
 #### Effective Date
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 591.
 

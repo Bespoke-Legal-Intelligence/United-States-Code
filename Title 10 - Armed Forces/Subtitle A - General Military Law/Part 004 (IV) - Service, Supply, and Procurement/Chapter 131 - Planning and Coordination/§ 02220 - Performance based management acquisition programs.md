@@ -2,25 +2,25 @@
 
 (a)
 
-Establishment of Goals.—(1) The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
-
-(2) The Under Secretary of Defense (Comptroller) shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
+Establishment of Goals.—The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
 
 (b)
 
-Annual Reporting Requirement.—The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of October 13, 1994. The Secretary shall use data from existing management systems in making the assessment.
+Evaluation of Cost Goals.—The Under Secretary of Defense (Comptroller) shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
 
-(c)
-
-Performance Evaluation.—Whenever the Secretary of Defense, in the assessment required by subsection (b), determines that major defense acquisition programs of the Department of Defense are not achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a), the Secretary shall ensure that there is a timely review of major defense acquisition programs and other programs as appropriate. In conducting the review, the Secretary shall—
-
-&emsp;(1) determine whether there is a continuing need for programs that are significantly behind schedule, over budget, or not in compliance with performance or capability requirements; and
-
-&emsp;(2) identify suitable actions to be taken, including termination, with respect to such programs.
-
-(Added Pub. L. 103–355, title V, §5001(a)(1), Oct. 13, 1994, 108 Stat. 3349; amended Pub. L. 104–106, div. A, title XV, §1503(a)(20), div. D, title XLIII, §4321(b)(1), Feb. 10, 1996, 110 Stat. 512, 671; Pub. L. 105–85, div. A, title VIII, §841(a), Nov. 18, 1997, 111 Stat. 1843.)
+(Added Pub. L. 103–355, title V, §5001(a)(1), Oct. 13, 1994, 108 Stat. 3349; amended Pub. L. 104–106, div. A, title XV, §1503(a)(20), div. D, title XLIII, §4321(b)(1), Feb. 10, 1996, 110 Stat. 512, 671; Pub. L. 105–85, div. A, title VIII, §841(a), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 107–314, div. A, title X, §1041(a)(8), Dec. 2, 2002, 116 Stat. 2645.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–314, §1041(a)(8)(B), (C), struck out par. (1) designation and redesignated par. (2) as subsec. (b).
+
+Subsec. (b). Pub. L. 107–314, §1041(a)(8)(A), (C), redesignated subsec. (a)(2) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary of Defense shall include in the annual report submitted to Congress pursuant to section 113(c) of this title an assessment of whether major acquisition programs of the Department of Defense are achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a) and whether the average period for converting emerging technology into operational capability has decreased by 50 percent or more from the average period required for such conversion as of October 13, 1994. The Secretary shall use data from existing management systems in making the assessment.”
+
+Subsec. (c). Pub. L. 107–314, §1041(a)(8)(A), struck out heading and text of subsec. (c). Text read as follows: “Whenever the Secretary of Defense, in the assessment required by subsection (b), determines that major defense acquisition programs of the Department of Defense are not achieving, on average, 90 percent of cost, performance, and schedule goals established pursuant to subsection (a), the Secretary shall ensure that there is a timely review of major defense acquisition programs and other programs as appropriate. In conducting the review, the Secretary shall—
+
+&emsp;“(1) determine whether there is a continuing need for programs that are significantly behind schedule, over budget, or not in compliance with performance or capability requirements; and
+
+&emsp;“(2) identify suitable actions to be taken, including termination, with respect to such programs.”
 
 1997—Subsec. (b). Pub. L. 105–85 substituted “whether major acquisition programs” for “whether major and nonmajor acquisition programs”.
 
@@ -56,11 +56,11 @@ Report.—Not later than February 1, 1999, the Secretary of Defense shall submit
 
 #### Enhanced System of Performance Incentives
 
-Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions available to the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—
+Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions availableto the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—
 
 &emsp;“(1) relate pay to performance (including the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, as added by subsection (a)); and
 
-&emsp;“(2) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant tosection 2220(a) of title 10, United States Code, as added by subsection (a).”
+&emsp;“(2) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, United States Code, as added by subsection (a).”
 
 #### Recommended Legislation
 

@@ -2,7 +2,7 @@
 
 When used in this part unless the context otherwise indicates—
 
-(a) The term “treaty” means the Patent Co- operation Treaty done at Washington, on June 19, 1970.
+(a) The term “treaty” means the Patent Cooperation Treaty done at Washington, on June 19, 1970.
 
 (b) The term “Regulations”, when capitalized, means the Regulations under the treaty, done at Washington on the same date as the treaty. The term “regulations”, when not capitalized, means the regulations established by the Director under this title.
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1986 Amendment
 
-Section 9 of Pub. L. 99–616 provided that: “Sections 2 through 8 of this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title\] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall applyto all international applications pending before or after its effective date.”
+Section 9 of Pub. L. 99–616 provided that: “Sections 2 through 8 of this Act \[amending this section and sections 361, 362, 364, 368, 371, and 376 of this title\] shall come into force on the same day as the effective date of entry into force of chapter II of the Patent Cooperation Treaty with respect to the United States, by virtue of the withdrawal of the declaration under article 64(1)(a) of the Patent Cooperation Treaty. It shall apply to all international applications pending before or after its effective date.”
 
 \[The Patent Cooperation Treaty became effective for the United States on Jan. 24, 1978. The United States, however, was one of six countries (out of the 40 countries who have ratified or acceded to the Treaty) which had reservations not to be bound by Chapter II. The document removing the reservation as to Chapter II was deposited with the Director General of the World Intellectual Property Organization on Apr. 1, 1987. Accordingly, Chapter II of the Treaty for the United States of America and Pub. L. 99–616 became effective 3 months later on July 1, 1987. See 52 F.R. 20038, 20041, May 28, 1987.\]
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(J) issuance of securities of the debtor, or of any entity referred to in subparagraph (B) or (C) of this paragraph, for cash, for property, for existing securities, or in exchange for claims or interests, or for any other appropriate purpose;
 
-&emsp;(6) provide for the inclusion in the charter of the debtor, if the debtor is a corporation, or of any corporation referred to in paragraph (5)(B) or (5)(C) of this subsection, of a provision prohibiting the issuance of nonvoting equity securities, and providing, as to the several classes of securities possessing voting power, an appropriate distribution of such power among such classes, including, in the case of any class of equity securities having a preference over another class of equity securities with respect to dividends, adequate provisions for the election of directors representing such preferred class in the event of default in the payment of such dividends; and
+&emsp;(6) provide for the inclusion in the charter of the debtor, if the debtor is a corporation, or of any corporation referred to in paragraph (5)(B) or (5)(C) of this subsection, of a provision prohibiting the issuance of nonvoting equity securities, and providing, as to the several classes of securities possessing voting power, an appropriate distribution of such power among such classes, including, in the case of any class of equity securities having a preference over another class of equity securities with respect to dividends, adequate provisions for theelection of directors representing such preferred class in the event of default in the payment of such dividends; and
 
 &emsp;(7) contain only provisions that are consistent with the interests of creditors and equity security holders and with public policy with respect to the manner of selection of any officer, director, or trustee under the plan and any successor to such officer, director, or trustee.
 
@@ -108,7 +108,7 @@ Subsec. (b)(2). Pub. L. 98–353, §507(b), substituted “rejection, or assignm
 
 #### Effective Date of 1994 Amendment
 
-Amendment by sections 206, 304(h)(6), and 501(d)(31) of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, and amendment by section 305(a) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only toagreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by sections 206, 304(h)(6), and 501(d)(31) of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, and amendment by section 305(a) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

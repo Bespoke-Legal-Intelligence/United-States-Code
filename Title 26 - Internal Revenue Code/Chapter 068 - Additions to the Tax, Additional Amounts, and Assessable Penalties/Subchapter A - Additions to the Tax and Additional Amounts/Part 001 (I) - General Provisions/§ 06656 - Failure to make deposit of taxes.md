@@ -62,7 +62,7 @@ The Secretary may abate the penalty imposed by subsection (a) with respect to th
 
 #### (2) Time for making designation
 
-&emsp;A person may make a designation under paragraph (1) only during the 90-day period beginning on the date of a notice that a penalty under subsection (a) has been imposed for the specified tax period to which the deposit relates.
+&emsp;A person may make a designation under paragraph (1) only during the 90-day period beginning on the date of a notice that a penalty under subsection (a) has been imposed for thespecified tax period to which the deposit relates.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 826; Pub. L. 91–172, title IX, §943(b), Dec. 30, 1969, 83 Stat. 728; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title VII, §724(a), (b)(1), (3), Aug. 13, 1981, 95 Stat. 344, 345; Pub. L. 99–509, title VIII, §8001(a), Oct. 21, 1986, 100 Stat. 1951; Pub. L. 101–239, title VII, §7742(a), Dec. 19, 1989, 103 Stat. 2405; Pub. L. 104–168, title III, §304(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1458, 1464; Pub. L. 105–206, title III, §3304(a)–(c), July 22, 1998, 112 Stat. 742.)
 

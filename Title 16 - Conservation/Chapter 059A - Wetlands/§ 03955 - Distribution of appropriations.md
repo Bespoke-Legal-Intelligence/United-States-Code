@@ -32,7 +32,7 @@ Of the total amount appropriated during a given fiscal year to carry out this ch
 
 #### (c) North American wetlands conservation
 
-Of the total amount appropriated during a given fiscal year to carry out this chapter, 15 percent, not to exceed $15,000,000, shall be available to, and shall remain available until expended by, the Secretary of the Interior for allocation to carry out wetlands conservation projects in coastal wetlands ecosystems in any coastal State under section 4407 of this title.
+Of the total amount appropriated during a given fiscal year to carry out this chapter, 15percent, not to exceed $15,000,000, shall be available to, and shall remain available until expended by, the Secretary of the Interior for allocation to carry out wetlands conservation projects in coastal wetlands ecosystems in any coastal State under section 4407 of this title.
 
 (Pub. L. 101–646, title III, §306, Nov. 29, 1990, 104 Stat. 4786; Pub. L. 103–375, §5, Oct. 19, 1994, 108 Stat. 3495.)
 

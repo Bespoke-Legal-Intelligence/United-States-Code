@@ -20,7 +20,7 @@ If—
 
 &emsp;&emsp;(B) the aggregate amount of the sales to such buyer during such calendar year is $5,000 or more,
 
-> &emsp;then such person shall make a return, according to the forms or regulations prescribed by the Secretary, setting forth the name and address of the buyer to whom such sales are made.
+> &emsp;then such person shall make a return, according to the forms or regulations prescribed bythe Secretary, setting forth the name and address of the buyer to whom such sales are made.
 
 #### (2) Definitions
 
@@ -62,7 +62,7 @@ No return shall be required under subsection (a) or (b) if a statement with resp
 
 &emsp;&emsp;Subparagraph (A) shall not apply to—
 
-&emsp;&emsp;&emsp;(i) services under contracts described in section 6050M(e)(3) with respect to whichthe requirements of section 6050M(e)(2) are met, and
+&emsp;&emsp;&emsp;(i) services under contracts described in section 6050M(e)(3) with respect to which the requirements of section 6050M(e)(2) are met, and
 
 &emsp;&emsp;&emsp;(ii) such other services as the Secretary may specify in regulations prescribed after the date of the enactment of this paragraph.
 

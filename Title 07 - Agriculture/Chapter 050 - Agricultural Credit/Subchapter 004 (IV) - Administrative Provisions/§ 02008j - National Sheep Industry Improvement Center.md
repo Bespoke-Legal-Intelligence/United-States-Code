@@ -178,7 +178,7 @@ The purposes of the Center shall be to—
 
 #### (B) Mandatory funds
 
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $26,000,000 to carry out this section.
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $26,499,000 to carry out this section.
 
 #### (C) Additional funds
 
@@ -328,7 +328,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) of this section if the Secretary determines that there has been a violation of thisparagraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
+&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) of this section if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
 
 #### (ii) Reasons
 
@@ -482,13 +482,15 @@ To carry out this section, the Board may consult with—
 
 &emsp;On the date the Secretary publishes notice in the Federal Register that the transition plan is complete, this section is repealed.
 
-(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736.)
+(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, §728, Feb. 20, 2003, 117 Stat. 42.)
 
 #### References in Text
 
 This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (e)(6)(B). Pub. L. 108–7 substituted “$26,499,000” for “$26,000,000”.
 
 2001—Subsec. (e)(6)(B). Pub. L. 107–76 substituted “$26,000,000” for “$25,000,000”.
 

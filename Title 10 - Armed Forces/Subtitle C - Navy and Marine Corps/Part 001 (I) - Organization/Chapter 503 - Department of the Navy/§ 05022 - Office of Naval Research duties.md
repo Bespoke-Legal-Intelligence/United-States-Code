@@ -2,7 +2,7 @@
 
 (a)(1) There is in the Office of the Secretary of the Navy an Office of Naval Research.
 
-(2) Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral (upper half).
+(2) Unless appointed to higher grade under another provision of law, an officer, while serving in the Office of Naval Research as Chief of Naval Research, has the rank of rear admiral.
 
 (b) The Office of Naval Research shall perform such duties as the Secretary of the Navy prescribes relating to—
 
@@ -12,13 +12,13 @@
 
 &emsp;(3) the supervision, administration, and control of activities within or for the Department relating to patents, inventions, trademarks, copyrights, and royalty payments, and matters connected therewith; and
 
-&emsp;(4) the execution of, and management responsibility for, programs for which funds areprovided in the basic and applied research and advanced technology categories of the Department of the Navy research, development, test, and evaluation budget in such a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
+&emsp;(4) the execution of, and management responsibility for, programs for which funds are provided in the basic and applied research and advanced technology categories of the Department of the Navy research, development, test,and evaluation budget in such a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
 (c) Sufficient information relative to estimates of appropriations for research by the several bureaus and offices shall be furnished to the Office of Naval Research to assist it in coordinating naval research and carrying out its other duties.
 
 (d) The Office of Naval Research shall perform its duties under the authority of the Secretary, and its orders are considered as coming from the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Pub. L. 99–433, title V, §511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, §910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, §501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5151; renumbered §5022, Pub. L. 99–433, title V, §511(d), Oct. 1, 1986, 100 Stat. 1048; amended Pub. L. 101–510, div. A, title IX, §910(b)(1), Nov. 5, 1990, 104 Stat. 1625; Pub. L. 104–201, div. A, title V, §501(a), Sept. 23, 1996, 110 Stat. 2510; Pub. L. 106–398, §1 \[\[div. A\], title IX, §904(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–225; Pub. L. 107–314, div. A, title V, §504(f), Dec. 2, 2002, 116 Stat. 2533.)
 
 Historical and Revision Notes
 
@@ -49,6 +49,8 @@ Aug. 1, 1946, ch. 727, §1 (2d sentence), 60 Stat. 779.
 In subsection (c) the words “shall have full force and effect as such” are omitted as surplusage.
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–314 struck out “(upper half)” after “rear admiral”.
 
 2000—Subsec. (b)(4). Pub. L. 106–398 added par. (4).
 

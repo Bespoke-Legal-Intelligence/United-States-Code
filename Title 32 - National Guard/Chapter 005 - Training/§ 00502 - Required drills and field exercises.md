@@ -98,5 +98,5 @@ Amendment by Pub. L. 90–168 effective first day of first calendar month follow
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 112, 509, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1063, 1089, 1208, 10143, 12011, 12012, 12310, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312; title 50 App. sections 456, 511.
+This section is referred to in sections 101, 112, 509, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1063, 1089, 1208, 10143, 12011, 12012, 12310, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 3512, 4312; title 50 App. section 511.
 

@@ -8,7 +8,7 @@
 
 #### (2) One percent allotment for certain territories and possessions
 
-&emsp;Of the funds allocated by the Corporation for provision of assistance under subsections (a)and (b) of section 12571 of this title for a fiscal year, the Corporation shall reserve 1 percent of the allocated funds for grants under section 12571(a) of this title to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval of an application by the Corporation under section 12585 of this title. Palau shall also be eligible for a grant under this paragraph from the allotment until such time as the Compact of Free Association with Palau is ratified. The amount allotted as a grant to each such territory or possession under this paragraph for a fiscal year shall be equal to the amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory or possession bears to the total population of such territories and possessions.
+&emsp;Of the funds allocated by the Corporation for provision of assistance under subsections (a) and (b) of section 12571 of this title for a fiscal year, the Corporation shall reserve 1 percent of the allocated funds for grants under section 12571(a) of this title to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval of an application by the Corporation under section 12585 of this title. Palau shall also be eligible for a grant under this paragraph from the allotment until such time as the Compact of Free Association withPalau is ratified. The amount allotted as a grant to each such territory or possession under this paragraph for a fiscal year shall be equal to the amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory or possession bears to the total population of such territories and possessions.
 
 #### (3) One percent allotment for Indian tribes
 
@@ -62,7 +62,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 &emsp;&emsp;&emsp;&emsp;(I) receive a grant to carry out a national service program under paragraph (1) or (2);
 
-&emsp;&emsp;&emsp;&emsp;(II) demonstrate that the entity has received a substantial number of applications for placement in the national service program of persons who are individuals with a disability and who require a reasonable accommodation (as defined in section 12111(9) of this title), or auxiliary aids and services (as defined in section 12102(1) of this title), in order to perform national service; and
+&emsp;&emsp;&emsp;&emsp;(II) demonstrate that the entity has received a substantial number of applications for placement in the national service program of persons who are individuals with a disability and who require a reasonable accommodation (as defined in section 12111(9) of this title), or auxiliaryaids and services (as defined in section 12102(1) of this title), in order to perform national service; and
 
 &emsp;&emsp;&emsp;&emsp;(III) demonstrate that additional funding would assist the national service program in placing a substantial number of such individuals with a disability as participants in projects carried out through the program.
 

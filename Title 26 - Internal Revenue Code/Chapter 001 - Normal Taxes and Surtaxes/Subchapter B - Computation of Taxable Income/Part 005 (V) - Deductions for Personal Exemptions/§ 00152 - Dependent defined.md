@@ -32,7 +32,7 @@ For purposes of this section—
 
 &emsp;(3) The term “dependent” does not include any individual who is not a citizen or national of the United States unless such individual is a resident of the United States or of a country contiguous to the United States. The preceding sentence shall not exclude from the definition of “dependent” any child of the taxpayer legally adopted by him, if, for the taxable year of the taxpayer, the child has as his principal place of abode the home of the taxpayer and is a member of the taxpayer's household, and if the taxpayer is a citizen or national of the United States.
 
-&emsp;(4) A payment to a wife which is includible in the gross income of the wife under section71 or 682 shall not be treated as a payment by her husband for the support of any dependent.
+&emsp;(4) A payment to a wife which is includible in the gross income of the wife under section 71 or 682 shall not be treated as a payment by her husband for the support of any dependent.
 
 &emsp;(5) An individual is not a member of the taxpayer's household if at any time during the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
 
@@ -100,7 +100,7 @@ For purposes of subsection (a), in the case of any individual who is—
 
 &emsp;&emsp;&emsp;(ii) the noncustodial parent provides at least $600 for the support of such child during such calendar year.
 
-> &emsp;&emsp;For purposes of this subparagraph, amounts expended for the support of a child or children shall be treated as received from the noncustodial parent to the extent that such parent provided amounts for such support.
+> &emsp;&emsp;For purposes of this subparagraph, amounts expended for the support of a child or children shall be treated as received from thenoncustodial parent to the extent that such parent provided amounts for such support.
 
 #### (B) Qualified pre-1985 instrument
 
@@ -174,7 +174,7 @@ Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued a
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 423(a) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
+Amendment by section 423(a) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, seesection 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
 Amendment by section 482(b)(2) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 482(c) of Pub. L. 98–369, set out as a note under section 213 of this title.
 
@@ -194,7 +194,7 @@ Section 912(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 #### Effective Date of 1967 Amendment
 
-Section 2 of Pub. L. 90–78 provided that: “The amendments made by the first section of this Act \[amendingthis section\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Section 2 of Pub. L. 90–78 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1966.”
 
 #### Effective Date of 1959 Amendment
 
@@ -212,5 +212,5 @@ Section 3(b) of act Aug. 9, 1955, provided that: “The amendment made by sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 2, 21, 24, 32, 35, 42, 51, 72, 105, 120, 125, 132, 151, 153, 170, 213, 220, 221, 529, 2057, 7701, 7702B, 7703 of this title; title 5 section 7342; title 20 section 1232g; title 29 section 2918; title 30 section 28f; title 33 section 909; title 43 section 390bb.
+This section is referred to in sections 1, 2, 21, 24, 32, 35, 42, 51, 72, 105, 120, 125, 132, 151, 153, 170, 213, 220, 221, 223, 529, 2057, 7701, 7702B, 7703 of this title; title 5 section 7342; title 20 section 1232g; title 29 section 2918; title 30 section 28f; title 33 section 909; title 43 section 390bb.
 

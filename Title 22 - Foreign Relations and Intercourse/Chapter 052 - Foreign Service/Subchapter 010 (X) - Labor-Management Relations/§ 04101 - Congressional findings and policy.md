@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) contributes to the effective conduct of public business, and
 
-&emsp;&emsp;(C) facilitates and encourages the amicable settlement of disputes between workers andtheir employers involving conditions of employment;
+&emsp;&emsp;(C) facilitates and encourages the amicable settlement of disputes between workers and their employers involving conditions of employment;
 
 &emsp;(2) the public interest demands the highest standards of performance by members of the Service and the continuous development and implementation of modern and progressive work practices to facilitate improved performance and efficiency; and
 

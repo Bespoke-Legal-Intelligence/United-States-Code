@@ -8,7 +8,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) During application period
 
-&emsp;&emsp;Except as provided in subparagraph (B), the alien must apply for such adjustment during the 12-month period beginning on a date (not later than 180 days after November 6, 1986) designated by the Attorney General.
+&emsp;&emsp;Except as provided in subparagraph (B), the alien must apply for such adjustmentduring the 12-month period beginning on a date (not later than 180 days after November 6, 1986) designated by the Attorney General.
 
 #### (B) Application within 30 days of show-cause order
 
@@ -198,7 +198,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) Fee schedule
 
-&emsp;&emsp;The Attorney General shall provide for a schedule of fees to be charged for the filingof applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
+&emsp;&emsp;The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
 
 #### (B) Use of fees
 
@@ -306,7 +306,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) Regulations
 
-&emsp;The Attorney General, after consultation with the Committees on the Judiciary of the House of Representatives and of the Senate, shall prescribe—
+&emsp;The Attorney General, after consultation with the Committees on the Judiciary of theHouse of Representatives and of the Senate, shall prescribe—
 
 &emsp;&emsp;(A) regulations establishing a definition of the term “resided continuously”, as used in this section, and the evidence needed to establish that an alien has resided continuously in the United States for purposes of this section, and
 
@@ -348,7 +348,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) In general
 
-&emsp;During the five-year period beginning on the date an alien was granted lawful temporaryresident status under subsection (a) of this section, and notwithstanding any other provision of law—
+&emsp;During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law—
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
@@ -378,7 +378,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;&emsp;(i) paragraph (1) shall not apply,
 
-&emsp;&emsp;&emsp;(ii) aliens who would be eligible for medical assistance but for the provisions of paragraph (1) shall be deemed, for purposes of title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], to be so eligible, and
+&emsp;&emsp;&emsp;(ii) aliens who would be eligible for medical assistance but for the provisions of paragraph (1) shall be deemed, for purposesof title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], to be so eligible, and
 
 &emsp;&emsp;&emsp;(iii) aliens lawfully admitted for temporary residence under this section, such status not having changed, shall be considered to be permanently residing in the United States under color of law.
 
@@ -424,7 +424,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
-&emsp;For the purpose of section 501 of the Refugee Education Assistance Act of 1980 (Public Law 96–122) <sup>1</sup> \[8 U.S.C. 1255 note\], assistance shall becontinued under such section with respect to an alien without regard to the alien's adjustment of status under this section.
+&emsp;For the purpose of section 501 of the Refugee Education Assistance Act of 1980 (Public Law 96–122) <sup>1</sup> \[8 U.S.C. 1255 note\], assistance shall be continued under such section with respect to an alien without regard to the alien's adjustment of status under this section.
 
 #### (i) Dissemination of information on legalization program
 
@@ -552,7 +552,7 @@ Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendments
 
@@ -586,7 +586,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Citizenship of Certain Legalized Aliens
 
-Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
+Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare andsubmit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
 
 &emsp;“(1) The number of applications for citizenship filed.
 
@@ -734,7 +734,7 @@ Second Report on Impact of Legalization Program.—The second report, which shal
 
 &emsp;“(3) the participation of legalized aliens in social service programs.”
 
-\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
+\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, as amended, set out as a note under section 1364 of this title.\]
 
 #### Section Referred to in Other Sections
 

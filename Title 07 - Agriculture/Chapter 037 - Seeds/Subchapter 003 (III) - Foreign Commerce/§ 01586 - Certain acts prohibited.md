@@ -26,7 +26,7 @@ It shall be unlawful for any person—
 
 “(7) any seed stained under the provisions of this chapter, the labeling of which states that such seed is adapted.”
 
-Subsecs. (b), (c). Pub. L. 103–465, §441(4)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
+Subsecs. (b), (c). Pub. L. 103–465, §441(4)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
 
 1958—Subsec. (c). Pub. L. 85–581 added subsec. (c).
 

@@ -110,7 +110,7 @@ The Secretary may not make a grant under subsection (a) of this section unless�
 
 &emsp;(1) the applicant involved submits to the Secretary a description of the purposes for which the applicant intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with a need for the services or activities described in subsection (a) of this section;
+&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with aneed for the services or activities described in subsection (a) of this section;
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprivate entities; and
 

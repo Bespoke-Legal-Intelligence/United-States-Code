@@ -42,7 +42,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;For purposes of subsection (d), the minimum investment return for any private foundation for any taxable year is 5 percent of the excess of—
 
-&emsp;&emsp;(A) the aggregate fair market value of all assets of the foundation other than those which are used (or held for use) directly in carrying out the foundation's exempt purpose, over
+&emsp;&emsp;(A) the aggregate fair market value of all assets of the foundation other than those which are used (or held for use) directly incarrying out the foundation's exempt purpose, over
 
 &emsp;&emsp;(B) the acquisition indebtedness with respect to such assets (determined under section 514(c)(1) without regard to the taxable year in which the indebtedness was incurred).
 
@@ -118,7 +118,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 #### (A) In general
 
-&emsp;&emsp;For all taxable years beginning on or after January 1, 1975, subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
+&emsp;&emsp;For all taxable years beginning on or after January 1, 1975, subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may betreated as a qualifying distribution if it meets the requirements of subparagraph (B).
 
 #### (B) Requirements
 
@@ -168,7 +168,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;&emsp;&emsp;(i) .65 percent of the sum of the net assets of the private foundation for such taxable year and the immediately preceding 2 taxable years, over
 
-&emsp;&emsp;&emsp;(ii) the aggregate amount of grant administrative expenses paid during the 2 preceding taxable years which were taken into account as qualifying distributions.
+&emsp;&emsp;&emsp;(ii) the aggregate amount of grant administrative expenses paid during the 2preceding taxable years which were taken into account as qualifying distributions.
 
 #### (B) Grant administrative expenses
 
@@ -196,7 +196,7 @@ For purposes of this section, the term “distributable amount” means, with re
 
 &emsp;Except as provided in paragraph (2), any qualifying distribution made during a taxable year shall be treated as made—
 
-&emsp;&emsp;(A) first out of the undistributed income of the immediately preceding taxable year (ifthe private foundation was subject to the tax imposed by this section for such preceding taxable year) to the extent thereof,
+&emsp;&emsp;(A) first out of the undistributed income of the immediately preceding taxable year (if the private foundation was subject to the tax imposed by this section for such preceding taxable year) to the extent thereof,
 
 &emsp;&emsp;(B) second out of the undistributed income for the taxable year to the extent thereof, and
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) its minimum investment return; and
 
-&emsp;&emsp;(B)(i) substantially more than half of the assets of which are devoted directly to such activities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted.
+&emsp;&emsp;(B)(i) substantially more than half of the assets of which are devoted directly to suchactivities or to functionally related businesses (as defined in paragraph (4)), or to both, or are stock of a corporation which is controlled by the foundation and substantially all of the assets of which are so devoted.
 
 &emsp;&emsp;(ii) which normally makes qualifying distributions (within the meaning of paragraph (1) or (2) of subsection (g)) directly for the active conduct of the activities constituting the purpose or function for which it is organized and operated in an amount not less than two-thirds of its minimum investment return (as defined in subsection (e)), or
 
@@ -314,7 +314,7 @@ Subsec. (j)(4) to (6). Pub. L. 96–596, §2(a)(3)(B)(iii), (iv), redesignated p
 
 1976—Subsec. (a)(2)(C). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (e). Pub. L. 94–455, §1303(a), among other changes, substituted provisions establishing a fixed percentage rate to be used in computing the minimum investment return for any private foundation for provisions establishing a variable applicable percentage rate of 7 percent in 1970 and an applicable rate to be determined by the Secretary after 1970, for use in computing the minimum investment return for any private foundation and inserted provisions relating to reduction in value for blockage or similar factors.
+Subsec. (e). Pub. L. 94–455, §1303(a), among other changes, substituted provisions establishing a fixed percentage rate to be used in computing the minimuminvestment return for any private foundation for provisions establishing a variable applicable percentage rate of 7 percent in 1970 and an applicable rate to be determined by the Secretary after 1970, for use in computing the minimum investment return for any private foundation and inserted provisions relating to reduction in value for blockage or similar factors.
 
 Subsec. (f)(2)(D). Pub. L. 94–455, §1310(a), added subpar. (D).
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) who, on or after January 1, 1963 shall have been separated from employment with the Senate or House of Representatives in order to pursue certain studies under a congressional staff fellowship awarded by the American Political Science Association,
 
-> the period of time covered by such fellowship shall be held and considered to be service (in a nonpay status) in employment with the Senate or House of Representatives, as the case may be, at the rate of compensation received immediately prior to separation (including any increases in compensation provided by law during the period covered by such fellowship) for the purposes of the provisions of law specified in subsection (b) of this section, if the award ofsuch fellowship to such employee is certified to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, by the appointing authority concerned or, in the event of the death or disability of such appointing authority, is established to the satisfaction of the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives by records or other evidence.
+> the period of time covered by such fellowship shall be held and considered to be service (in a nonpay status) in employment with the Senate or House of Representatives, as the case may be, at the rate of compensation received immediately prior to separation (including any increases in compensation provided by law during the period covered by such fellowship) for the purposes of the provisions of law specified in subsection (b) of this section, if the award of such fellowship to such employee is certified to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, by the appointing authority concerned or, in the event of the death or disability of such appointing authority, is established to the satisfaction of the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives by records or other evidence.
 
 (b) The provisions of law referred to in subsection (a) of this section are—
 
@@ -20,7 +20,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–186 designated existing provisions as subsec. (a), in par. (1) substituted “Chief Administrative Officer” for “Clerk”, in provisions following par. (2) substituted “the purposes of the provisions of law specified in subsection (b) of this section, if the award” for “the purposes of—
+<b>1996</b>—Pub. L. 104–186 designated existing provisions as subsec. (a), in par. (1) substituted “Chief Administrative Officer” for “Clerk”, in provisions following par. (2) substituted “the purposes of the provisions of law specified in subsection (b) of this section, if the award” for “the purposes of—
 
 &emsp;“(A) subchapter III (relating to civil service retirement) of chapter 83 of title 5,
 

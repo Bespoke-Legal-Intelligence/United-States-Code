@@ -82,7 +82,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(6) Electronic Government is a critical element in the management of Government, to be implemented as part of a management framework that also addresses finance, procurement, human capital, and other challenges to improve the performance of Government.
 
-&emsp;“(7) To take full advantage of the improved Government performance that can be achieved through theuse of Internet-based technology requires strong leadership, better organization, improved interagency collaboration, and more focused oversight of agency compliance with statutes related to information resource management.
+&emsp;“(7) To take full advantage of the improved Government performance that can be achieved through the use of Internet-based technology requires strong leadership, better organization, improved interagency collaboration, and more focused oversight of agency compliance with statutes related to information resource management.
 
 “(b)
 

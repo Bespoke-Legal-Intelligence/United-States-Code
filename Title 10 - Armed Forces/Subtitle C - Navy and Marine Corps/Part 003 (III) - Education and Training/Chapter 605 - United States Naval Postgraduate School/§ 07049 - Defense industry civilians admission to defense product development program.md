@@ -10,7 +10,7 @@ Eligible Defense Industry Employees.—For purposes of this section, an eligible
 
 (c)
 
-Annual Certification by the Secretary of the Navy.—Defense industry employees may receive instruction at the school during any academic year only if, before the start of that academic year, the Secretary of the Navy determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to defense industry employees under this section during that year—
+Annual Determination by the Secretary of the Navy.—Defense industry employees may receive instruction at the school during any academic year only if, before the start of that academic year, the Secretary of the Navy determines that providing instruction to defense industry employees under this section during that year—
 
 &emsp;(1) will further the military mission of the school;
 
@@ -36,9 +36,13 @@ Standards of Conduct.—While receiving instruction at the school, students enro
 
 (g)
 
-Use of Funds.—Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
+Use of Funds.—Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source,and the disposition, of such funds shall be specifically identified in records of the school.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603.)
+
+#### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
 
 #### Program Evaluation and Report
 

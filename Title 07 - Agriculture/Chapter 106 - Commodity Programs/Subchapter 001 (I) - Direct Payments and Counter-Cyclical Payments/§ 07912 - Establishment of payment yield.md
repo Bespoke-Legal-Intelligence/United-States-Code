@@ -54,7 +54,7 @@ In the case of a farm for which a farm program payment yield is unavailable for 
 
 &emsp;&emsp;&emsp;&emsp;(II) the payment yield applicable for direct payments for the covered commodity on the farm.
 
-&emsp;&emsp;(B) 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which the acreage planted to the crop of the covered commodity was zero.
+&emsp;&emsp;(B) 93.5 percent of the average of the yield per planted acre for the crop of the covered commodity on the farm for the 1998 through 2001 crop years, as determined by the Secretary, excluding any crop year in which theacreage planted to the crop of the covered commodity was zero.
 
 #### (4) Use of partial county average yield
 

@@ -1,6 +1,6 @@
 ### §2903. Custody and control of property
 
-The Archivist shall have immediate custody and control of the National Archives Building and its contents, and may design, construct, purchase, lease, maintain, operate, protect, and improve buildings used by him for the storage of records of Federal agencies in the District of Columbia and elsewhere.
+The Archivist shall have immediate custody and control of the National Archives Building and its contents, and may design, construct, purchase, lease, maintain, operate, protect, andimprove buildings used by him for the storage of records of Federal agencies in the District of Columbia and elsewhere.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1296; Pub. L. 98–497, title I, §107(b)(15)(A), Oct. 19, 1984, 98 Stat. 2288.)
 

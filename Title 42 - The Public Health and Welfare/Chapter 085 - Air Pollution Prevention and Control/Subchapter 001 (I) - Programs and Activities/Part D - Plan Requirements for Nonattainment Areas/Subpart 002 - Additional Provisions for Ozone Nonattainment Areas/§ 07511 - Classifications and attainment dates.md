@@ -44,7 +44,7 @@ TABLE 1
 
 &emsp;&emsp;(i) the next higher classification for the area, or
 
-&emsp;&emsp;(ii) the classification applicable to the area's design value as determined at the time of the notice required under subparagraph (B).
+&emsp;&emsp;(ii) the classification applicable to the area's design value as determined at thetime of the notice required under subparagraph (B).
 
 > No area shall be reclassified as Extreme under clause (ii).
 

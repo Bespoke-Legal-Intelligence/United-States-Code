@@ -34,13 +34,13 @@
 
 &emsp;&emsp;If the plan or coverage includes an annual limit on substantially all medical and surgical benefits (in this paragraph referred to as the “applicable annual limit”), the plan or coverage shall either—
 
-&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health benefits; or
+&emsp;&emsp;&emsp;(i) apply the applicable annual limit both to medical and surgical benefits to which it otherwise would apply and to mental health benefits and not distinguish in the application of such limit betweensuch medical and surgical benefits and mental health benefits; or
 
 &emsp;&emsp;&emsp;(ii) not include any annual limit on mental health benefits that is less than the applicable annual limit.
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) andthat includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
+&emsp;&emsp;In the case of a plan or coverage that is not described in subparagraph (A) or (B) and that includes no or different annual limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan or coverage with respect to mental health benefits by substituting for the applicable annual limit an average annual limit that is computed taking into account the weighted average of the annual limits applicable to such categories.
 
 #### (b) Construction
 
@@ -108,11 +108,13 @@ For purposes of this section—
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished on or after December 31, 2003.
+This section shall not apply to benefits for services furnished on or after December 31, 2004.
 
-(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(a), Dec. 2, 2002, 116 Stat. 2457.)
+(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(a), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(a), Dec. 19, 2003, 117 Stat. 2898.)
 
 #### Amendments
+
+2003—Subsec. (f). Pub. L. 108–197 substituted “December 31, 2004” for “December 31, 2003”.
 
 2002—Subsec. (f). Pub. L. 107–313 substituted “December 31, 2003” for “December 31, 2002”.
 

@@ -44,7 +44,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 #### (e) Exploration plans
 
-(1) After the initial guidelines are prescribed under subsection (d) of this section, any person including the United States Geological Survey may submit one or more plans for exploratory activity (hereinafter in this section referred toas “exploration plans”) to the Secretary for approval. An exploration plan must set forth such information as the Secretary may require in order to determine whether the plan is consistent with the guidelines, including, but not limited to—
+(1) After the initial guidelines are prescribed under subsection (d) of this section, any person including the United States Geological Survey may submit one or more plans for exploratory activity (hereinafter in this section referred to as “exploration plans”) to the Secretary for approval. An exploration plan must set forth such information as the Secretary may require in order to determine whether the plan is consistent with the guidelines, including, but not limited to—
 
 &emsp;(A) a description and schedule of the exploratory activity proposed to be undertaken;
 
@@ -54,7 +54,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(D) a statement of the anticipated effects that the activity may have on fish and wildlife, their habitats and the environment.
 
-(2) Upon receiving any exploration plan for approval, the Secretary shall promptly publish notice of the application and the text of the plan in the Federal Register and newspapers of general circulation in the State. The Secretary shall determine, within one hundred and twenty days after any plan is submitted for approval, if the plan is consistent with the guidelines established under subsection (d) of this section. If the Secretary determines that the plan is so consistent, he shall approve the plan: except that no plan shall be approved during the two-year period following December 2, 1980. Before making the determination, the Secretary shall hold at least one public hearing in the State for purposes of receiving the comments and views of the public on the plan. The Secretary shall not approve of any plan submitted by the United States Geological Survey unless he determines that (1) no other person has submitted a plan for the area involved which meets established guidelines and (2) the information which would be obtained is needed to make an adequate report under subsection (h) of this section. The Secretary, as a condition of approval of any plan under this section—
+(2) Upon receiving any exploration plan for approval, the Secretary shall promptly publish notice of the application and the text of the plan in the Federal Register and newspapers of general circulation in the State. The Secretary shall determine, within one hundred and twenty days after any plan is submitted for approval, if the plan is consistent with the guidelines established under subsection (d) of this section. If the Secretary determines that the plan is so consistent, he shall approve the plan: except that no plan shall be approved during the two-year period following December 2, 1980. Before making the determination, the Secretary shall hold atleast one public hearing in the State for purposes of receiving the comments and views of the public on the plan. The Secretary shall not approve of any plan submitted by the United States Geological Survey unless he determines that (1) no other person has submitted a plan for the area involved which meets established guidelines and (2) the information which would be obtained is needed to make an adequate report under subsection (h) of this section. The Secretary, as a condition of approval of any plan under this section—
 
 &emsp;(A) may require that such modifications be made to the plan as he considers necessary and appropriate to make it consistent with the guidelines;
 
@@ -78,7 +78,7 @@ If at any time while exploratory activity is being carried out under an explorat
 
 #### (h) Report to Congress
 
-Not earlier than five years after December 2, 1980, and not later than five years and ninemonths after such date, the Secretary shall prepare and submit to Congress a report containing—
+Not earlier than five years after December 2, 1980, and not later than five years and nine months after such date, the Secretary shall prepare and submit to Congress a report containing—
 
 &emsp;(1) the identification by means other than drilling of exploratory wells of those areas within the coastal plain that have oil and gas production potential and estimate of the volume of the oil and gas concerned;
 
@@ -90,7 +90,7 @@ Not earlier than five years after December 2, 1980, and not later than five year
 
 &emsp;(5) an evaluation of how such oil and gas relates to the national need for additional domestic sources of oil and gas; and
 
-&emsp;(6) the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should be permitted and, if so, what additional legal authority is necessary to ensure that the adverse effects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
+&emsp;(6) the recommendations of the Secretary with respect to whether further exploration for, and the development and production of, oil and gas within the coastal plain should be permitted and, if so, what additional legal authority is necessary to ensure that the adverseeffects of such activities on fish and wildlife, their habitats, and other resources are avoided or minimized.
 
 #### (i) Effect of other laws
 

@@ -26,7 +26,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;(C) In the case of a board that will inquire into the whereabouts and status of both one or more members of the armed forces and one or more civilians described in subparagraph (B)—
 
-&emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
+&emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and atleast one employee of the Department of Defense described in subparagraph (B)(i); and
 
 &emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.
 
@@ -86,7 +86,7 @@ Attendance of Family Members and Certain Other Interested Persons at Proceedings
 
 &emsp;(ii) submit to the president of the board the objections in writing not later than 30 days after the date on which the recommendations are made.
 
-(B) The president of a board shall include any objections to a recommendation of the board that are submitted to the president of the boardunder subparagraph (A) in the report of the board containing the recommendation under subsection (i).
+(B) The president of a board shall include any objections to a recommendation of the board that are submitted to the president of the board under subparagraph (A) in the report of the board containing the recommendation under subsection (i).
 
 (6) An individual referred to in paragraph (1) who attends the proceedings of a board under this subsection shall not be entitled to reimbursement by the United States for any costs (including travel, lodging, meals, local transportation, legal fees, transcription costs, witness expenses, and other expenses) incurred by that individual in attending such proceedings.
 
@@ -158,7 +158,7 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” 
 
 &emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 
-&emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
+&emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equalto or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
 
 &emsp;&emsp;“(ii) such members of the armed forces as the Secretary considers advisable.
 

@@ -20,7 +20,7 @@
 
 &emsp;(7) not otherwise covered by paragraph (2), in which money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources (as defined in section 2339A of title 18) for such an act if such act or provision of material support is engaged in by an official, employee, or agent of such foreign state while acting within the scope of his or her office, employment, or agency, except that the court shall decline to hear a claim under this paragraph—
 
-&emsp;&emsp;(A) if the foreign state was not designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of theForeign Assistance Act of 1961 (22 U.S.C. 2371) at the time the act occurred, unless later so designated as a result of such act or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia; and
+&emsp;&emsp;(A) if the foreign state was not designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371) at the time the act occurred, unless later so designated as a result of such act or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia; and
 
 &emsp;&emsp;(B) even if the foreign state is or was so designated, if—
 
@@ -54,7 +54,7 @@ Limitation on Discovery.—
 
 &emsp;(1)
 
-In general.—(A) Subject to paragraph (2), if an action is filed that would otherwise be barred by section 1604, but for subsection (a)(7), the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
+In general.—(A) Subject to paragraph (2), if an action is filed that would otherwisebe barred by section 1604, but for subsection (a)(7), the court, upon request of the Attorney General, shall stay any request, demand, or order for discovery on the United States that the Attorney General certifies would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action, until such time as the Attorney General advises the court that such request, demand, or order will no longer so interfere.
 
 &emsp;(B) A stay under this paragraph shall be in effect during the 12-month period beginning on the date on which the court issues the order to stay discovery. The court shall renew the order to stay discovery for additional 12-month periods upon motion by the United States if the Attorney General certifies that discovery would significantly interfere with a criminal investigation or prosecution, or a national security operation, related to the incident that gave rise to the cause of action.
 
@@ -124,7 +124,7 @@ Pub. L. 105–11 provided that the amendment made by that Act was effective with
 
 #### Effective Date of 1996 Amendment
 
-Section 221(c) of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle B (§221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title\] shall apply to any cause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
+Section 221(c) of title II of Pub. L. 104–132 provided that: “The amendments made by this subtitle \[subtitle B (§221) of title II of Pub. L. 104–132, amending this section and section 1610 of this title\] shall apply to anycause of action arising before, on, or after the date of the enactment of this Act \[Apr. 24, 1996\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -136,7 +136,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996,
 
 “(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in section 1605(a)(7).
 
-“(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, oragency would not be liable for such acts if carried out within the United States.”
+“(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
 
 #### Section Referred to in Other Sections
 

@@ -92,7 +92,7 @@ Section 1. The Presidential Medal of Valor for Public Safety Officers (Medal) is
 
 &emsp;(3) who is employed by the Government of the United States, any State of the United States, any officially recognized elective body within a State of the United States, or any Federally recognized tribal organization.
 
-Sec. 2. Eligible recipients generally will be recommended to the President by the Attorney General byApril 1 of each year. Pursuant to 36 U.S.C. 136–137, the President designates May 15 of each year as “Peace Officers Memorial Day” and the week in which it falls as “Police Week.” Presentation of the Medal shall occur at an appropriate time during the commemoration of Police Week, as far as is practicable.
+Sec. 2. Eligible recipients generally will be recommended to the President by the Attorney General by April 1 of each year. Pursuant to 36 U.S.C. 136–137, the President designates May 15 of each year as “Peace Officers Memorial Day” and the week in which it falls as “Police Week.” Presentation of the Medal shall occur at an appropriate time during the commemoration of Police Week, as far as is practicable.
 
 Sec. 3. The President may select for the Medal up to ten persons annually from among those persons recommended to the President by the Attorney General. In submitting recommendations to the President, the Attorney General may consult with experts representing all segments of the public safety sector, including representatives from law enforcement, firefighters, and emergency services.
 

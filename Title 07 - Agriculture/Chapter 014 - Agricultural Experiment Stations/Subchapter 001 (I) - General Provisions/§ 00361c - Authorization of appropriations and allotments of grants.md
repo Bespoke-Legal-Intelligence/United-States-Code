@@ -18,7 +18,7 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 &emsp;(2) Not less than 52 per centum of such sums shall be allotted to each State, as follows: One-half in an amount which bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and one-half in an amount which bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States as determined by the last preceding decennial census current at the time such additional sum is first appropriated;
 
-&emsp;(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the “Multistate Research Fund, State Agricultural Experiment Stations”.
+&emsp;(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates tosolve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the “Multistate Research Fund, State Agricultural Experiment Stations”.
 
 &emsp;(4) Three per centum shall be available to the Secretary of Agriculture for administration of sections 361a to 361i of this title. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
 
@@ -92,7 +92,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (B) Required expenditures on multistate activities
 
-&emsp;&emsp;Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title, the State shall expend for the fiscal year for integrated activities a percentage that is at least equal to the lesser of—
+&emsp;&emsp;Of the Federal formula funds that are paid to each State for fiscal year 2000 and eachsubsequent fiscal year under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title, the State shall expend for the fiscal year for integrated activities a percentage that is at least equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) 25 percent; or
 
@@ -118,7 +118,7 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (4) Relationship to other requirements
 
-&emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscalyear for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
+&emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
 (Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448.)
 

@@ -20,7 +20,7 @@ Agency Authority.—(1) The head of an agency, acting through an authorized repr
 
 (b)
 
-DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency (orany successor agency) may require by subpoena the production of any records of a contractor that the Secretary of Defense is authorized to audit or examine under subsection (a).
+DCAA Subpoena Authority.—(1) The Director of the Defense Contract Audit Agency (or any successor agency) may require by subpoena the production of any records of a contractor that the Secretary of Defense is authorized to audit or examine under subsection (a).
 
 (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
 

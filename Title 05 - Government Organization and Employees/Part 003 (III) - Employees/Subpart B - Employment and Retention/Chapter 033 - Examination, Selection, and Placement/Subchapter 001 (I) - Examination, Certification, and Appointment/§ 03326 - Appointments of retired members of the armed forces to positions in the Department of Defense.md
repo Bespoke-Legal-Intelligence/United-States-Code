@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Suspension of Section
 
-Pub. L. 101–510, div. A, title XII, §1206(f), Nov. 5, 1990, 104 Stat. 1661, provided that: “Section 3326 of title 5,United States Code, shall not be in effect for the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] and ending two years after such date.”
+Pub. L. 101–510, div. A, title XII, §1206(f), Nov. 5, 1990, 104 Stat. 1661, provided that: “Section 3326 of title 5, United States Code, shall not be in effect for the period beginning on the date of the enactment of this Act \[Nov. 5, 1990\] and ending two years after such date.”
 
 #### Effective Date of 1990 Amendment
 

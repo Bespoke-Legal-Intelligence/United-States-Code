@@ -26,7 +26,7 @@
 
 #### (b) Disclosure of information to authorized persons
 
-(1) Upon request, filed in accordance with subsection (d) of this section, of any authorized person, as defined in subsection (c) of this section for the information described in subsection (a)(2)of this section, or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of this title, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
+(1) Upon request, filed in accordance with subsection (d) of this section, of any authorized person, as defined in subsection (c) of this section for the information described in subsection (a)(2) of this section, or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of this title, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
 
 &emsp;(A) is contained in any files or records maintained by the Secretary or by the Department of Health and Human Services; or
 
@@ -82,7 +82,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
+&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter,and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
 
 #### (2) Case and order information
 
@@ -188,7 +188,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 &emsp;&emsp;The Secretary of Education may use information resulting from a data match pursuant to this paragraph only—
 
-&emsp;&emsp;&emsp;(i) for the purpose of collection of the debt described in subparagraph (A) owedby an individual whose annualized wage level (determined by taking into consideration information from the National Directory of New Hires) exceeds $16,000; and
+&emsp;&emsp;&emsp;(i) for the purpose of collection of the debt described in subparagraph (A) owed by an individual whose annualized wage level (determined by taking into consideration information from the National Directory of New Hires) exceeds $16,000; and
 
 &emsp;&emsp;&emsp;(ii) after removal of personal identifiers, to conduct analyses of student loan defaults.
 
@@ -342,7 +342,7 @@ Subsec. (b). Pub. L. 104–193, §316(a)(2), (e)(1), substituted “information 
 
 Subsec. (c)(1). Pub. L. 104–193, §316(b)(1), substituted “support or to seek to enforce orders providing child custody or visitation rights” for “support”.
 
-Subsec. (c)(2). Pub. L. 104–193, §§316(b)(2), 395(d)(2)(A), substituted “a noncustodial parent” for “an absent parent” and “or to issue an order against a resident parent for child custody or visitation rights, or any agent of such court;” for “, or any agent of such court; and”.
+Subsec. (c)(2). Pub. L. 104–193, §§316(b)(2), 395(d)(2)(A), substituted “a noncustodial parent” for “an absentparent” and “or to issue an order against a resident parent for child custody or visitation rights, or any agent of such court;” for “, or any agent of such court; and”.
 
 Subsec. (c)(3). Pub. L. 104–193, §395(d)(2)(A), substituted “a noncustodial parent” for “an absent parent”.
 
@@ -408,7 +408,7 @@ Section 124(c) of Pub. L. 100–485 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -424,7 +424,7 @@ Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided th
 
 #### Coordination Between Secretaries Relating to Amendments by Pub. L. 105–34
 
-Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
+Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding theimplementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
 
 #### Requirement for Cooperation
 

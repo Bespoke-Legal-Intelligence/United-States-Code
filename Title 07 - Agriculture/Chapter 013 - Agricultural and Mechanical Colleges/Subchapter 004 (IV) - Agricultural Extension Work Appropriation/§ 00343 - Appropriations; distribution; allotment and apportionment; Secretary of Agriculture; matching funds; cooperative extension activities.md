@@ -16,7 +16,7 @@
 
 (d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—
 
-&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry outprograms or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
+&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
 
 &emsp;(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
 
@@ -88,7 +88,7 @@ expenditures on multistate activities.—Of the Federal formula funds that were 
 
 &emsp;&emsp;(B)
 
-Required expenditures on multistate activities.—Of the Federal formula funds that are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c) of this section, the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
+Required expenditures on multistate activities.—Of the Federal formula fundsthat are paid to each State for fiscal year 2000 and each subsequent fiscal year under subsections (b) and (c) of this section, the State shall expend for the fiscal year for multistate activities a percentage that is at least equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) 25 percent; or
 
@@ -122,7 +122,7 @@ Review required.—Effective October 1, 1999, extension activity carried out und
 
 &emsp;(2)
 
-Other requirements.—An extension activity for which merit review is conductedunder paragraph (1) shall be considered to have satisfied the requirements for review under section 7613 of this title.
+Other requirements.—An extension activity for which merit review is conducted under paragraph (1) shall be considered to have satisfied the requirements for review under section 7613 of this title.
 
 (j)
 
@@ -182,7 +182,7 @@ Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redes
 
 Subsec. (c)1. Pub. L. 87–749, §1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 
-Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisionspaying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
+Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
 
 Subsec. (d). Pub. L. 87–749, §1(e), inserted “additional” after “receive such”.
 

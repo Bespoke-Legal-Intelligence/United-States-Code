@@ -20,7 +20,7 @@
 
 #### (1) Sellers, etc.
 
-&emsp;Any person who sells (or otherwise transfers) an interest in a tax shelter shall (at such times and in such manner as the Secretary shall prescribe) furnish to each investor who purchases (or otherwise acquires) an interest in such tax shelter from such person the identification number assigned by the Secretary to such tax shelter.
+&emsp;Any person who sells (or otherwise transfers) an interest in a tax shelter shall (at such times and in such manner as the Secretary shall prescribe) furnish to each investor who purchases (or otherwise acquires) an interestin such tax shelter from such person the identification number assigned by the Secretary to such tax shelter.
 
 #### (2) Inclusion of number on return
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 > &emsp;&emsp;that the tax shelter (or any aspect thereof) is proprietary to any person other than the potential participant or is otherwise protected from disclosure to or use by others.
 
-> &emsp;For purposes of this subsection, the term “promoter” means any person or any related person (within the meaning of section 267 or 707) who participates in the organization, management, or sale of the tax shelter.
+> &emsp;For purposes of this subsection, the term “promoter” means any person or any related person (within the meaning of section 267 or 707)who participates in the organization, management, or sale of the tax shelter.
 
 #### (3) Persons other than promoter required to register in certain cases
 

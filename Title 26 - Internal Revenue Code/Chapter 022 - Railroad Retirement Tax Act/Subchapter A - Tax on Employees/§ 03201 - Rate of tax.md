@@ -28,7 +28,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 2001—Subsec. (b). Pub. L. 107–90 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee.”
 
-1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” andprovision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 7.05 percent, for 1986 or 1987 the rate was 7.15 percent, for 1988 or 1989 the rate was 7.51 percent, and 1990 or thereafter the rate was 7.65 percent.
+1990—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 7.05 percent, for 1986 or 1987 the rate was 7.15 percent, for 1988 or 1989 the rate was 7.51 percent, and 1990 or thereafter the rate was 7.65 percent.
 
 1987—Subsec. (b). Pub. L. 100–203 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the following percentage of the compensation received during any calendar year by such employee for services rendered by such employee:
 
@@ -72,7 +72,7 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 
 1963—Pub. L. 88–133 limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-1959—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
+1959—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excessof $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
 
@@ -86,7 +86,7 @@ Section 9031(b) of Pub. L. 100–203 provided that: “The amendment made by thi
 
 #### Effective and Termination Dates of 1983 Amendment
 
-Section 212 of Pub. L. 98–76 provided that: “The amendments made by this part \[part I (§§211, 212) of subtitle A of title II of Pub. L. 98–76, amending this section, sections 3211 and 3221 of this title, and section 430 of Title 42, The Public Health and Welfare\] shall applyto compensation paid for services rendered after December 31, 1983, and before January 1, 1985.”
+Section 212 of Pub. L. 98–76 provided that: “The amendments made by this part \[part I (§§211, 212) of subtitle A of title II of Pub. L. 98–76, amending this section, sections 3211 and 3221 of this title, and section 430 of Title 42, The Public Health and Welfare\] shall apply to compensation paid for services rendered after December 31, 1983, and before January 1, 1985.”
 
 Section 227(a) of Pub. L. 98–76 provided that: “The amendments made by sections 221, 222, 223, and 225 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title and section 430 of Title 42\] shall apply to remuneration paid after December 31, 1984.”
 
@@ -120,7 +120,7 @@ Section 202 of Pub. L. 86–28 provided that: “The amendments made by section 
 
 #### Effective Date of 1954 Amendment
 
-Section 407 of act Aug. 31, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by section 206 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title\] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
+Section 407 of act Aug. 31, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, providedthat: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by section 206 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title\] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
 
 #### Separability
 

@@ -1,6 +1,6 @@
 ### §§1501 to 1508. Repealed. Pub. L. 104–127, title III, §336(d)(1), Apr. 4, 1996, 110 Stat. 1006
 
-Section 1501, Pub. L. 91–524, title X, §1001, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 241; amended Pub. L. 93–125, §1(g)(i), Oct. 18, 1973, 87 Stat. 450; Pub. L. 99–198, title XIII, §1318(b)(2), Dec. 23, 1985, 99 Stat. 1531, related to establishment and purpose of program, contracting and purchasing authority of Secretary, and maintenance of continuing and stable supply of agricultural commodities and forest products.
+Section 1501, Pub. L. 91–524, title X, §1001, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 241; amendedPub. L. 93–125, §1(g)(i), Oct. 18, 1973, 87 Stat. 450; Pub. L. 99–198, title XIII, §1318(b)(2), Dec. 23, 1985, 99 Stat. 1531, related to establishment and purpose of program, contracting and purchasing authority of Secretary, and maintenance of continuing and stable supply of agricultural commodities and forest products.
 
 Section 1502, Pub. L. 91–524, title X, §1002, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 242, required eligible landowners and operators to furnish plan of farming operations or land use to Secretary.
 

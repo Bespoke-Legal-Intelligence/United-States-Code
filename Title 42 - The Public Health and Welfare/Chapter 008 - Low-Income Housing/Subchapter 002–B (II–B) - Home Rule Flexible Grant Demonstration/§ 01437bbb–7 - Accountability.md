@@ -32,7 +32,7 @@ The Secretary and the Comptroller General of the United States, or any duly auth
 
 #### (2) Status report
 
-&emsp;Not later than 60 days after the conclusion of the second year of the demonstration program under this subchapter, the Secretary shall submit to Congress an interim report on the status of the demonstration program andthe progress each participating jurisdiction in achieving the purposes of the demonstration program under section 1437bbb of this title.
+&emsp;Not later than 60 days after the conclusion of the second year of the demonstration program under this subchapter, the Secretary shall submit to Congress an interim report on the status of the demonstration program and the progress each participating jurisdiction in achieving the purposes of the demonstration program under section 1437bbb of this title.
 
 (Sept. 1, 1937, ch. 896, title IV, §408, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2623.)
 

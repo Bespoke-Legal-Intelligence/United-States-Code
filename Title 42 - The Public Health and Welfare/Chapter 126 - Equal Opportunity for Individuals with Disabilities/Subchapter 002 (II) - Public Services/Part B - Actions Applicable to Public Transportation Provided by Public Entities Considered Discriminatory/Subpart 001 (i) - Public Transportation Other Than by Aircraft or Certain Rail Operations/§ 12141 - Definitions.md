@@ -38,7 +38,7 @@ General Rule.—Except as provided in subsection (b), this part \[part I (§§22
 
 “(b)
 
-Exception.—Sections 222, 223 (other than subsection (a)), 224, 225, 227(b), 228(b), and 229 \[sections 12142, 12143(b) to (f), 12144, 12145, 12147(b), 12148(b), and 12149 of this title\] shall become effective on the date of enactment of this Act.”
+Exception.—Sections 222, 223 (other than subsection (a)), 224, 225, 227(b), 228(b), and 229 \[sections12142, 12143(b) to (f), 12144, 12145, 12147(b), 12148(b), and 12149 of this title\] shall become effective on the date of enactment of this Act.”
 
 #### Section Referred to in Other Sections
 

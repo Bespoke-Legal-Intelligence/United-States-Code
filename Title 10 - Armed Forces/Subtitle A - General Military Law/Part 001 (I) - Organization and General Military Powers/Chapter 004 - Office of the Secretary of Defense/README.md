@@ -13,10 +13,11 @@
 | [135\.](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md) | Under Secretary of Defense (Comptroller). |
 | [136\.](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Under Secretary of Defense for Personnel and Readiness. |
 | [136a.](%C2%A7%2000136a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md) | Deputy Under Secretary of Defense for Personnel and Readiness. |
-| [137\.](%C2%A7%2000137%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md) | Director of Defense Research and Engineering. |
+| [137\.](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md) | Under Secretary of Defense for Intelligence. |
 | [138\.](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md) | Assistant Secretaries of Defense. |
 | [139\.](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md) | Director of Operational Test and Evaluation. |
-| \[139a to 139c. Renumbered.\] |  |
+| [139a.](%C2%A7%2000139a%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md) | Director of Defense Research and Engineering. |
+| \[139b, 139c. Renumbered.\] |  |
 | [140\.](%C2%A7%2000140%20-%20General%20Counsel.md) | General Counsel. |
 | \[140a to 140c. Renumbered.\] |  |
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
@@ -26,6 +27,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title IX, §901(b)(2), Dec. 2, 2002, 116 Stat. 2619, added items 137 and 139a and struck out former item 137 “Director of Defense Research and Engineering”.
 
 2001—Pub. L. 107–107, div. A, title IX, §901(a)(2), Dec. 28, 2001, 115 Stat. 1194, added item 136a.
 
@@ -97,10 +100,10 @@ This chapter is referred to in title 41 section 421.
 - [&sect; 00135 - Under Secretary of Defense (Comptroller)](%C2%A7%2000135%20-%20Under%20Secretary%20of%20Defense%20%28Comptroller%29.md)
 - [&sect; 00136 - Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136%20-%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
 - [&sect; 00136a - Deputy Under Secretary of Defense for Personnel and Readiness](%C2%A7%2000136a%20-%20Deputy%20Under%20Secretary%20of%20Defense%20for%20Personnel%20and%20Readiness.md)
-- [&sect; 00137 - Director of Defense Research and Engineering](%C2%A7%2000137%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md)
+- [&sect; 00137 - Under Secretary of Defense for Intelligence](%C2%A7%2000137%20-%20Under%20Secretary%20of%20Defense%20for%20Intelligence.md)
 - [&sect; 00138 - Assistant Secretaries of Defense](%C2%A7%2000138%20-%20Assistant%20Secretaries%20of%20Defense.md)
 - [&sect; 00139 - Director of Operational Test and Evaluation](%C2%A7%2000139%20-%20Director%20of%20Operational%20Test%20and%20Evaluation.md)
-- [&sect; 00139a - Renumbered &sect;2432](%C2%A7%2000139a%20-%20Renumbered%20%C2%A72432.md)
+- [&sect; 00139a - Director of Defense Research and Engineering](%C2%A7%2000139a%20-%20Director%20of%20Defense%20Research%20and%20Engineering.md)
 - [&sect; 00139b - Renumbered &sect;2433](%C2%A7%2000139b%20-%20Renumbered%20%C2%A72433.md)
 - [&sect; 00139c - Renumbered &sect;2434](%C2%A7%2000139c%20-%20Renumbered%20%C2%A72434.md)
 - [&sect; 00140 - General Counsel](%C2%A7%2000140%20-%20General%20Counsel.md)

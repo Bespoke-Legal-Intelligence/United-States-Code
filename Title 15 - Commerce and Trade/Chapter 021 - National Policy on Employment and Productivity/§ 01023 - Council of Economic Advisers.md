@@ -2,7 +2,7 @@
 
 #### (a) Creation; composition; qualifications; selection of chairman and vice chairman
 
-There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman.
+There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in section 1021 of this title, and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one asvice chairman, who shall act as chairman in the absence of the chairman.
 
 #### (b) Employment of specialists, experts, and other personnel
 
@@ -18,7 +18,7 @@ It shall be the duty and function of the Council—
 
 &emsp;(3) to appraise the various programs and activities of the Federal Government in the light of the policy declared in section 1021 of this title for the purpose of determining the extent to which such programs and activities are contributing, and the extent to which they are not contributing, to the achievement of such policy, and to make recommendations to the President with respect thereto;
 
-&emsp;(4) to develop and recommend to the President national economic policies to foster andpromote free competitive enterprise including small and larger business, to avoid economic fluctuations or to diminish the effects thereof, and to maintain full employment, production, and purchasing power;
+&emsp;(4) to develop and recommend to the President national economic policies to foster and promote free competitive enterprise including small and larger business, to avoid economic fluctuations or to diminish the effects thereof, and to maintain full employment, production, and purchasing power;
 
 &emsp;(5) to make and furnish such studies, reports thereon, and recommendations with respect to matters of Federal economic policy and legislation as the President may request.
 
@@ -84,7 +84,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Eff. Aug. 1, 1953, 18 F.R. 4543, 67 Stat. 644
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### COUNCIL OF ECONOMIC ADVISERS
 
@@ -162,7 +162,7 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 Sec. 3. <i>Meetings of the Council</i>. The President, or upon his direction, the Assistant to the President for Economic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
-Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to coordinate the economic policy-making process with respect to domestic and international economic issues; (2) to coordinate economic policy advice to the President; (3) to ensure that economic policy decisions and programs are consistent with the President's stated goals, and to ensure that those goals are being effectively pursued; and (4) to monitor implementation of the President's economic policy agenda. The Assistant may take such actions, including drafting a Charter, as may be necessary or appropriate to implement such functions.
+Sec. 4. <i>Functions</i>. (a) The principal functions of the Council are: (1) to coordinate the economic policy-making process with respect to domestic and international economic issues; (2) to coordinate economic policy advice to the President; (3) to ensure that economic policy decisions and programs are consistent with thePresident's stated goals, and to ensure that those goals are being effectively pursued; and (4) to monitor implementation of the President's economic policy agenda. The Assistant may take such actions, including drafting a Charter, as may be necessary or appropriate to implement such functions.
 
 (b) All executive departments and agencies, whether or not represented on the Council, shall coordinate economic policy through the Council.
 

@@ -24,7 +24,7 @@ Sections 701, 703, and 704 of title 28, U.S.C., 1940 ed., were limited to “sui
 
 The revised section omits this limitation in view of the general application of the last sentence of section 653 of title 28, U.S.C., 1940 ed., consolidated herein. The improvement of communications and the expected growth of foreign commerce will inevitably increase litigation involving witnesses separated by wide distances.
 
-Therefore the revised section is made simple and clear to provide a flexible procedure for the taking of depositions. The ample safeguards of the Federal Rules of Civil Procedure, Rules 26–32, will prevent misuse of this section.
+Therefore the revised section is made simple and clear to provide a flexible procedure for the taking of depositions. The ample safeguards of the Federal Rulesof Civil Procedure, Rules 26–32, will prevent misuse of this section.
 
 The provisions of section 703 of title 28, U.S.C., 1940 ed., for punishment of disobedience to subpoena or refusal to answer is covered by Rule 37(b)(1) of Federal Rules or Civil Procedure.
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of funds
 
-To assist charter schools to accomplish the objectives described in section 7223c of this title, an eligible entity receiving a grant under this subpart shall, in accordance with State and local law, directly or indirectly, alone or in collaboration with others, deposit the funds received under this subpart (other than funds used for administrative costs in accordance with section 7223e of this title) in a reserve account established and maintained by the eligible entity for this purpose. Amounts deposited in such account shall be used by the eligible entity for one or more of the following purposes:
+To assist charter schools to accomplish the objectives described in section 7223c of this title,an eligible entity receiving a grant under this subpart shall, in accordance with State and local law, directly or indirectly, alone or in collaboration with others, deposit the funds received under this subpart (other than funds used for administrative costs in accordance with section 7223e of this title) in a reserve account established and maintained by the eligible entity for this purpose. Amounts deposited in such account shall be used by the eligible entity for one or more of the following purposes:
 
 &emsp;(1) Guaranteeing, insuring, and reinsuring bonds, notes, evidences of debt, loans, and interests therein, the proceeds of which are used for an objective described in section 7223c of this title.
 

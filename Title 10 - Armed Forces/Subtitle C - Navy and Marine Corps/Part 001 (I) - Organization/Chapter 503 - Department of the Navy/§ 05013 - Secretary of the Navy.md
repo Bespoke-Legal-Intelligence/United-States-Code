@@ -38,7 +38,7 @@
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Navy;
 
-&emsp;(4) carrying out the functions of the Department of the Navy so as to fulfill (to the maximum extent practicable) the current and future operational requirements of the unified and specified combatant commands;
+&emsp;(4) carrying out the functions of the Department of the Navy so as to fulfill the current and future operational requirements of the unified and specified combatant commands;
 
 &emsp;(5) effective cooperation and coordination between the Department of the Navy and the other military departments and agencies of the Department of Defense to provide for more effective, efficient, and economical administration and to eliminate duplication;
 
@@ -60,7 +60,7 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §511(c)(2), Oct. 1, 1986, 100 Stat. 1043; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873.)
+(Added Pub. L. 99–433, title V, §511(c)(2), Oct. 1, 1986, 100 Stat. 1043; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558.)
 
 #### Prior Provisions
 
@@ -70,7 +70,47 @@ A prior section 5013 was renumbered section 5063 of this title.
 
 #### Amendments
 
+2003—Subsec. (c)(4). Pub. L. 108–136 struck out “(to the maximum extent practicable)” after “fulfill”.
+
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
+
+#### Naval Aviation Depots Multi-Trades Demonstration Project
+
+Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, provided that:
+
+“(a)
+
+Demonstration Project Required.—In accordance with section 4703 of title 5, United States Code, the Secretary of the Navy shall carry out a demonstration project under which three Naval Aviation Depots are given the flexibility to promote by one grade level workers who are certified at the journey level as able to perform multiple trades.
+
+“(b)
+
+Selection Requirements.—As a condition on eligibility for selection to participate in the demonstration project, the head of a Naval Aviation Depot shall submit to the Secretary a business case analysis and concept plan—
+
+&emsp;“(1) that, on the basis of the results of analysis of work processes, demonstrate that process improvements would result from the trade combinations proposed to be implemented under the demonstration project; and
+
+&emsp;“(2) that describes the improvements in cost, quality, or schedule of work that are anticipated to result from the participation in the demonstration project.
+
+“(c)
+
+Participating Workers.—(1) Actual worker participation in the demonstration project shall be determined through competitive selection. Not more than 15 percent of the wage grade journeyman at a demonstration project location may be selected to participate.
+
+“(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade worker who receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker's work year.
+
+“(d)
+
+Funding Source.—Appropriations for operation and maintenance of the Naval Aviation Depots selected to participate in the demonstration project shall be used as the source of funds to carry out the demonstration project, including the source of funds for pay increases made under the project.
+
+“(e)
+
+Duration.—The demonstration project shall be conducted during fiscal years 2004 through 2006.
+
+“(f)
+
+Report.—Not later than January 15, 2007, the Secretary shall submit a report to Congress describing the results of the demonstration project.
+
+“(g) GAO
+
+Evaluation.—The Secretary shall transmit a copy of the report to the Comptroller General. Within 90 days after receiving the report, the Comptroller General shall submit to Congress an evaluation of the report.”
 
 #### Navy Higher Education Pilot Program Regarding Administration of Business Relationships Between Government and Private Sector
 
@@ -148,7 +188,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 “(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
-&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
+&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from awrongful act or omission of Federal Government personnel; and
 
 &emsp;“(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 

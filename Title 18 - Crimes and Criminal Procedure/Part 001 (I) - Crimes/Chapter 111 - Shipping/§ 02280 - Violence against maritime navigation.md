@@ -74,7 +74,7 @@ Definitions.—In this section—
 
 &emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
-(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300.)
+(Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132,title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300.)
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Regulatory Re
 
 The Administrator of the Administration and the head of every other Federal agency shall—
 
-&emsp;(1) cooperate with respect to the establishment of priorities for the furnishing of such research services as requested by the Commission for the conduct of its functions;
+&emsp;(1) cooperate with respect to the establishment of priorities for the furnishing of suchresearch services as requested by the Commission for the conduct of its functions;
 
 &emsp;(2) furnish to the Commission, on a reimbursable basis, through their own facilities or by contract or other arrangement, such research services as the Commission deems necessary and requests for the performance of its functions; and
 

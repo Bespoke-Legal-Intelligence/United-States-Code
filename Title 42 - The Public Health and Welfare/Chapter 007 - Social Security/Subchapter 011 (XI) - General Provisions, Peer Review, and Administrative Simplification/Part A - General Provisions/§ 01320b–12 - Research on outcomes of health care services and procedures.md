@@ -60,7 +60,7 @@
 
 #### (3) Relationship with medicare program
 
-&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) <sup>1</sup> of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needs and priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Health Care Financing Administration.
+&emsp;In establishing priorities under paragraph (1) for research and evaluation, and under section 299b–3(a) <sup>1</sup> of this title for the agenda under such section, the Secretary shall assure that such priorities appropriately reflect the needsand priorities of the program under subchapter XVIII of this chapter, as set forth by the Administrator of the Centers for Medicare \& Medicaid Services.
 
 #### (c) Methodologies and criteria for evaluations
 
@@ -126,7 +126,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### (2) Specifications
 
-&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 anamount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
+&emsp;For the purpose of carrying out this section, for each of the fiscal years 1990 through 1992 an amount equal to two-thirds of the amounts authorized to be appropriated under paragraph (1), and for each of the fiscal years 1993 and 1994 an amount equal to 70 percent of such amounts, are to be appropriated in the following proportions from the following trust funds:
 
 &emsp;&emsp;(A) 60 percent from the Federal Hospital Insurance Trust Fund (established under section 1395i of this title).
 
@@ -146,11 +146,11 @@ The Secretary may conduct or support research with respect to improving methods 
 
 &emsp;&emsp;(iv) education and information dissemination.
 
-(Aug. 14, 1935, ch. 531, title XI, §1142, as added Pub. L. 101–239, title VI, §6103(b)(1), Dec. 19, 1989, 103 Stat. 2195; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+(Aug. 14, 1935, ch. 531, title XI, §1142, as added Pub. L. 101–239, title VI, §6103(b)(1), Dec. 19, 1989, 103 Stat. 2195; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 108–173, title IX, §900(e)(1)(C), Dec. 8, 2003, 117 Stat. 2371.)
 
 #### References in Text
 
-Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references to sections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
+Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b), were in the original references tosections 912 to 914 of act July 1, 1944, which were omitted in the general amendment of subchapter VII of chapter 6A of this title by Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653. Section 2(a) of Pub. L. 106–129 enacted new sections 912 to 914 of act July 1, 1944, which are classified to sections 299b–1 to 299b–3, respectively, of this title.
 
 #### Codification
 
@@ -159,6 +159,8 @@ Subsec. (h) of this section, which required the Secretary to report biennially t
 Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L. 101–508, title V, §5111(a)(1), Nov. 5, 1990, 104 Stat. 1388–272, and is classified to section 1320b–13 of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(3). Pub. L. 108–173, §900(e)(1)(C), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 1999—Subsec. (a)(1). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research” in introductory provisions.
 

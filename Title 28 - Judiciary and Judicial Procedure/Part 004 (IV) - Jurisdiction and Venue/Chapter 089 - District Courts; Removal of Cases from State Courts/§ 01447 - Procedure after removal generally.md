@@ -10,7 +10,7 @@
 
 (e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, §84, 63 Stat. 102; Pub. L. 88–352, title IX, §901, July 2, 1964, 78 Stat. 266; Pub. L. 100–702, title X, §1016(c), Nov. 19, 1988, 102 Stat. 4670; Pub.L. 102–198, §10(b), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 104–219, §1, Oct. 1, 1996, 110 Stat. 3022.)
+(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, §84, 63 Stat. 102; Pub. L. 88–352, title IX, §901, July 2, 1964, 78 Stat. 266; Pub. L. 100–702, title X, §1016(c), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 102–198, §10(b), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 104–219, §1, Oct. 1, 1996, 110 Stat. 3022.)
 
 #### Historical and Revision Notes
 

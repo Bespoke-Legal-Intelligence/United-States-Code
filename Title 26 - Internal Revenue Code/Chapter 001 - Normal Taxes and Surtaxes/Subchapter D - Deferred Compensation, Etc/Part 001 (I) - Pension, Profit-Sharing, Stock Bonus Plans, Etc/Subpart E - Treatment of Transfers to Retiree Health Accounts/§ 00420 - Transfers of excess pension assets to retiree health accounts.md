@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met if the plan provides that the accruedpension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
+&emsp;&emsp;The requirements of this paragraph are met if the plan provides that the accrued pension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
 
 #### (B) Special rule for 1990
 
@@ -268,7 +268,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Transition rule.—If the cost maintenance period for any qualified transfer after the date of the enactment of this Act \[Dec. 17, 1999\] includes any portion of a benefit maintenance period for any qualified transfer on or before such date, the amendments made by subsection (b) \[amending this section\] shall not apply to such portion of the cost maintenance period (andsuch portion shall be treated as a benefit maintenance period).”
+Transition rule.—If the cost maintenance period for any qualified transfer after the date of the enactment of this Act \[Dec. 17, 1999\] includes any portion of a benefit maintenance period for any qualified transfer on or before such date, the amendments made by subsection (b) \[amending this section\] shall not apply to such portion of the cost maintenance period (and such portion shall be treated as a benefit maintenance period).”
 
 #### Effective Date of 1994 Amendment
 

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(V) the United States Postal Service;
 
-&emsp;&emsp;(W) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this paragraph;
+&emsp;&emsp;(W) an agency of the United States Government or of a State or local governmentcarrying out a duty or power of a business described in this paragraph;
 
 &emsp;&emsp;(X) a casino, gambling casino, or gaming establishment with an annual gaming revenue of more than $1,000,000 which—
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) is an Indian gaming operation conducted under or pursuant to the Indian Gaming Regulatory Act other than an operation which is limited to class I gaming (as defined in section 4(6) of such Act);
 
-&emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which anybusiness described in this paragraph is authorized to engage; or
+&emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which any business described in this paragraph is authorized to engage; or
 
 &emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have a high degree of usefulness in criminal, tax, or regulatory matters.
 
@@ -142,7 +142,7 @@ In subsection (a)(3)(B)–(5), the word “prescribe” is substituted for “sp
 
 In subsection (a)(3)(B), the words “in addition”, and “and such types of” are omitted as surplus. The words “similar material” are substituted for “the equivalent thereof” for clarity.
 
-In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or any particular requirement thereunder” are omitted as surplus.
+In subsection (a)(4), the words “in addition to its meaning under section 1 of title 1” are substituted for “natural persons, partnerships, . . . associations, corporations, and all entities cognizable as legal personalities” for consistency because 1:1 is applicable to all laws unless otherwise provided. The words “a trustee, a representative of an estate” are substituted for “trusts, estates”, and the word “entity” is substituted for “department or agency”, for consistency. The words “either for the purpose of this chapter generally or anyparticular requirement thereunder” are omitted as surplus.
 
 In subsection (a)(5), the words “used in a geographic sense” are omitted because of the restatement. The words “either for the purposes of this chapter generally or any particular requirement thereunder” are omitted as surplus. The words “territory or” are added for consistency.
 
@@ -152,7 +152,7 @@ Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary wo
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25.For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -198,7 +198,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5318, 5331, 5340 of this title; title 12 section 1953; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
+This section is referred to in sections 5318, 5331, 5340 of this title; title 12 sections 1953, 3414; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
 
 <i><sup>1</sup></i><i> So in original. This title does not contain a section 5333.</i>
 

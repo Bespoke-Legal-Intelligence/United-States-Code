@@ -6,7 +6,7 @@
 
 &emsp;(A) at the discretion of the court, upon the first conviction for such an offense be ineligible for any or all Federal benefits for up to 5 years after such conviction;
 
-&emsp;(B) at the discretion of the court, upon a second conviction for such an offense be ineligible for any or all Federal benefits for up to 10 years after such conviction; and
+&emsp;(B) at the discretion of the court, upon a second conviction for such an offense be ineligiblefor any or all Federal benefits for up to 10 years after such conviction; and
 
 &emsp;(C) upon a third or subsequent conviction for such an offense be permanently ineligible for all Federal benefits.
 

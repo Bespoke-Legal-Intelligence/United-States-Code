@@ -4,7 +4,7 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the Postal Service, at a premium, in order to help provide funding for a cause described in subsection (b); and
+&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the PostalService, at a premium, in order to help provide funding for a cause described in subsection (b); and
 
 &emsp;(2) the term “agency” means an Executive agency within the meaning of section 105 of title 5.
 

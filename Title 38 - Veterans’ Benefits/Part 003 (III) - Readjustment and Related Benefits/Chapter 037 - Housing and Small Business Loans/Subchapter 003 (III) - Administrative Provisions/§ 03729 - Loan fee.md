@@ -16,29 +16,37 @@ LOAN FEE TABLE
 
 | Type of loan | Active duty veteran | Reservist | Other obligor |
 | --- | --- | --- | --- |
-| (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before October 1, 2011) | 2\.00 | 2\.75 | NA |
+| (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before January 1, 2004) | 2\.00 | 2\.75 | NA |
 |  |  |  |  |
-| (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.25 | 2\.00 | NA |
+| (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2004, and before October 1, 2004) | 2\.20 | 2\.40 | NA |
 |  |  |  |  |
-| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2011) | 3\.00 | 3\.00 | NA |
+| (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before October 1, 2011) | 2\.15 | 2\.40 | NA |
 |  |  |  |  |
-| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2011) | 1\.25 | 2\.00 | NA |
+| \(A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.40 | 1\.65 | NA |
 |  |  |  |  |
-| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2011) | 1\.50 | 2\.25 | NA |
+| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before January 1, 2004) | 3\.00 | 3\.00 | NA |
 |  |  |  |  |
-| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2011) | 0\.75 | 1\.50 | NA |
+| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2004, and before October 1, 2011) | 3\.30 | 3\.30 | NA |
 |  |  |  |  |
-| (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2011) | 1\.25 | 2\.00 | NA |
+| (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2011 and before October 1, 2013) | 2\.15 | 2\.15 | NA |
 |  |  |  |  |
-| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) | 0\.50 | 1\.25 | NA |
+| (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2013 ) | 1\.25 | 1\.25 | NA |
 |  |  |  |  |
-| \(E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
+| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2011) | 1\.50 | 1\.75 | NA |
+|  |  |  |  |
+| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2011) | 0\.75 | 1\.00 | NA |
+|  |  |  |  |
+| (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2011) | 1\.25 | 1\.50 | NA |
+|  |  |  |  |
+| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) | 0\.50 | 0\.75 | NA |
+|  |  |  |  |
+| (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
 |  |  |  |  |
 | (F) Direct loan under section 3711 | 1\.00 | 1\.00 | NA |
 |  |  |  |  |
 | (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan) | 1\.00 | 1\.00 | NA |
 |  |  |  |  |
-| (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
+| \(H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan) | 1\.25 | 1\.25 | NA |
 |  |  |  |  |
 | (I) Loan assumption under section 3714 | 0\.50 | 0\.50 | 0\.50 |
 |  |  |  |  |
@@ -70,11 +78,13 @@ LOAN FEE TABLE
 
 Waiver of Fee.—A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994.)
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665.)
 
 #### Amendments
 
-Pub. L. 107–14 made technical amendment to Pub. L. 106–419. See 2000 Amendment note below.
+2003—Subsec. (b)(2). Pub. L. 108–183 amended par. (2) generally, revising table by adding cls. (iii) and (iv) of subpars. (A) and (B) and changing dates in subpars. (A) and (B).
+
+2001—Pub. L. 107–14 made technical amendment to Pub. L. 106–419. See 2000 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 107–103, §405(c), substituted “October 1, 2011” for “October 1, 2008” wherever appearing in table.
 
@@ -88,9 +98,9 @@ Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as s
 
 Subsec. (c). Pub. L. 105–368, §603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
 
-“(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required tobe credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
+“(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
 
-“(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.”
+“(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapterthat are closed during fiscal year 1990 shall be made in October 1990.”
 
 1997—Subsec. (a)(2)(A). Pub. L. 105–33, §8032(1)(A), struck out “or 3733(a)” after “section 3711”.
 
@@ -162,6 +172,10 @@ Subsec. (d). Pub. L. 100–198, §10(c), added subsec. (d).
 
 Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–183, title IV, §405, Dec. 16, 2003, 117 Stat. 2665, provided that the amendment made by section 405 is effective Jan. 1, 2004.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–14, §8(b), June 5, 2001, 115 Stat. 34, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
@@ -180,7 +194,7 @@ Section 2511(c) of Pub. L. 98–369 provided that:
 
 “(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to loans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
 
-“(2) The amendments made by subsections (a)(2) and (b) \[amending this section and section 1824 \[now 3724\] of this title\] shall apply with respect to loans closed on or after the date of the enactment of this Act \[July 18, 1984\].
+“(2) The amendments made by subsections (a)(2) and (b) \[amending this section and section 1824 \[now 3724\] of this title\] shall apply with respect to loans closed on orafter the date of the enactment of this Act \[July 18, 1984\].
 
 “(3) The amendment made by subsection (a)(3) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 

@@ -32,7 +32,7 @@ The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–16, §§521(b)(1), 901, temporarily inserted “(determined as if the applicableexclusion amount were $1,000,000)” after “calendar year”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a)(1). Pub. L. 107–16, §§521(b)(1), 901, temporarily inserted “(determined as if the applicable exclusion amount were $1,000,000)” after “calendar year”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (a)(1). Pub. L. 105–34 substituted “the applicable credit amount in effect under section 2010(c) for such calendar year” for “$192,800”.
 

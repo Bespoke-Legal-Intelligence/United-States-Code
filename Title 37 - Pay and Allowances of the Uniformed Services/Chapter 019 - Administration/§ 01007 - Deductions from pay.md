@@ -16,7 +16,7 @@
 
 (h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed by a member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
 
-(2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determination of the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
+(2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determination of the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be consideredan amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
 
 (3) The Secretaries concerned shall prescribe regulations to carry out this subsection.
 
@@ -26,7 +26,7 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixedat different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
 
 (4) In this subsection, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
 
@@ -176,7 +176,7 @@ Subsec. (i)(5). Pub. L. 101–510, §1533(b)(4), substituted “, warrant offic
 
 1966—Subsec. (a). Pub. L. 89–718, §71, substituted “section 5512 of title 5” for “section 82 of title 5”.
 
-Subsec. (c). Pub. L. 89–718, §72, substituted “pay” for “basic pay” as the amount which cannot be reduced below one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
+Subsec. (c). Pub. L. 89–718, §72, substituted “pay” for “basic pay” as the amount which cannot be reducedbelow one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
 
 #### Effective Date of 2002 Amendments
 

@@ -64,7 +64,7 @@ Consistent with the use of military installations to ensure the preparedness of 
 
 &emsp;(2) must be reviewed as to operation and effect by the parties thereto on a regular basis, but not less often than every 5 years; and
 
-&emsp;(3) may stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for theprotection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
+&emsp;(3) may stipulate the issuance of special State hunting and fishing permits to individuals and require payment of nominal fees therefor, which fees shall be utilized for the protection, conservation, and management of fish and wildlife, including habitat improvement and related activities in accordance with the integrated natural resources management plan; except that—
 
 &emsp;&emsp;(A) the Commanding Officer of the installation or persons designated by that Officer are authorized to enforce such special hunting and fishing permits and to collect, spend, administer, and account for fees for the permits, acting as agent or agents for the State if the integrated natural resources management plan so provides, and
 
@@ -116,9 +116,25 @@ Integrated natural resources management plans agreed to under the authority of t
 
 &emsp;&emsp;(B) the Committee on Armed Services and the Committee on Environment and Public Works of the Senate.
 
-(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775.)
+#### (g) Pilot program for invasive species management for military installations in Guam
+
+#### (1) Inclusion of invasive species management
+
+&emsp;During fiscal years 2004 through 2008, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
+
+&emsp;&emsp;(A) that are not native to the ecosystem of the military installation; and
+
+&emsp;&emsp;(B) the introduction of which cause or may cause harm to military readiness, the environment, or human health and safety.
+
+#### (2) Consultation
+
+&emsp;The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
+
+(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, §311(c)(1), Nov. 24, 2003, 117 Stat. 1429.)
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–136 added subsec. (g).
 
 1999—Subsec. (f)(3)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -174,6 +190,14 @@ Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to un
 
 1974—Pub. L. 93–452, §§1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: “Section 101(g) of the Sikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
+
+&emsp;“(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
+
+&emsp;“(B) effective March 1, 2004, to any integrated natural resources management plan prepared for a military installation in Guam under such section before the date of the enactment of this Act.”
+
 #### Review for Preparation of Integrated Natural Resources Management Plans
 
 Section 2905 of title XXIX of Pub. L. 105–85 provided that:
@@ -220,9 +244,9 @@ Public Comment.—The Secretary of each military department shall provide an opp
 
 #### Applicability of 1986 Amendments to Existing Contracts
 
-Section 3(a)(2) of Pub. L. 99–561 provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending thissection and sections 670f and 670<i>o</i> of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
+Section 3(a)(2) of Pub. L. 99–561 provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) \[16 U.S.C. 670a(d)(1)\]) shall not affect any contract entered into before the date of the enactment of this Act \[October 27, 1986\] for the provision of services to implement or enforce a cooperative plan under this Act \[enacting section 670a–1 of this title and amending this section and sections 670f and 670<i>o</i> of this title and section 2665 of Title 10, Armed Forces\] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 670f of this title.
+This section is referred to in sections 670f, 1533 of this title.
 

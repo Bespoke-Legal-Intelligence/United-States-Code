@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From funds made available to carry out this subpart under section 7103(2) of this title, the Secretary, in consultation with the Secretary of Health and Human Services, the Director of the Office of National Drug Control Policy, and the Attorney General, shall carry out programs to prevent the illegal use of drugs and violence among, and promote safety and discipline for, students. The Secretary shall carry out such programs directly, or through grants, contracts,or cooperative agreements with public and private entities and individuals, or through agreements with other Federal agencies, and shall coordinate such programs with other appropriate Federal activities. Such programs may include—
+From funds made available to carry out this subpart under section 7103(2) of this title, the Secretary, in consultation with the Secretary of Health and Human Services, the Director of the Office of National Drug Control Policy, and the Attorney General, shall carry out programs to prevent the illegal use of drugs and violence among, and promote safety and discipline for, students. The Secretary shall carry out such programs directly, or through grants, contracts, or cooperative agreements with public and private entities and individuals, or through agreements with other Federal agencies, and shall coordinate such programs with other appropriate Federal activities. Such programs may include—
 
 &emsp;(1) the development and demonstration of innovative strategies for the training of school personnel, parents, and members of the community for drug and violence prevention activities based on State and local needs;
 

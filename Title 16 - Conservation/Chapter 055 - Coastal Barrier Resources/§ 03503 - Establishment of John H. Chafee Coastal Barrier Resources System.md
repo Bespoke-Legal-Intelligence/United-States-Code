@@ -60,7 +60,7 @@ The Secretary shall—
 
 #### (1) In general
 
-&emsp;In making any recommendation to the Congress regarding the addition of any area to the System or in determining whether, at the time of the inclusion of a System unit within the System, a coastal barrier is undeveloped, the Secretary shall consider whether within the area—
+&emsp;In making any recommendation to the Congress regarding the addition of any area to the System or in determining whether, at the time of the inclusion of a System unit within the System, a coastal barrier is undeveloped,the Secretary shall consider whether within the area—
 
 &emsp;&emsp;(A) the density of development is less than 1 structure per 5 acres of land above mean high tide; and
 
@@ -102,7 +102,7 @@ The text of section 4(d) of Pub. L. 101–591, which was transferred and redesig
 
 Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before“publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
+Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
 
 Subsec. (f). Pub. L. 106–514, §3(c), added subsec. (f).
 
@@ -204,7 +204,7 @@ Pub. L. 106–167, §2, Dec. 9, 1999, 113 Stat. 1803, provided that: “Congress
 
 &emsp;“(4) millions of people of the United States breathe cleaner air, drink cleaner water, and enjoy more plentiful outdoor recreation opportunities because of the work of Senator Chafee;
 
-&emsp;“(5) in 1982, Senator Chafee authored and succeeded in enacting into law the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.) to minimize loss of humanlife, wasteful expenditure of Federal revenues, and damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf Coasts; and
+&emsp;“(5) in 1982, Senator Chafee authored and succeeded in enacting into law the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.) to minimize loss of human life, wasteful expenditure of Federal revenues, and damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf Coasts; and
 
 &emsp;“(6) to reflect the invaluable national contributions made by Senator Chafee during his service in the Senate, the Coastal Barrier Resources System should be named in his honor.”
 
@@ -223,6 +223,10 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 #### Revision of Maps for Units of System
 
 The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+
+Pub. L. 108–138, §1, Dec. 1, 2003, 117 Stat. 1869.
+
+Pub. L. 108–7, div. F, title I, §155, Feb. 20, 2003, 117 Stat. 246.
 
 Pub. L. 106–360, §1, Oct. 27, 2000, 114 Stat. 1399.
 

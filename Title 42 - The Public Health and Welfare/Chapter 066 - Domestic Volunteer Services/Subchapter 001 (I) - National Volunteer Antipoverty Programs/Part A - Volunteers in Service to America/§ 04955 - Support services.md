@@ -8,7 +8,7 @@
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
-(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In the event of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
+(2) Stipends shall be payable only upon completion of a period of service, except that under such circumstances as the Director shall determine, in accordance with regulations which the Director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service. In theevent of the death of a volunteer during service, the amount of any unpaid stipend shall be paid in accordance with the provisions of section 5582 of title 5.
 
 #### (b) Description of allowances and support services; determination of allowance; adjustments; methodology
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D (§12601 et seq.) of subchapter I of chapter 129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D (§12601 et seq.) of subchapter I of chapter 129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
 

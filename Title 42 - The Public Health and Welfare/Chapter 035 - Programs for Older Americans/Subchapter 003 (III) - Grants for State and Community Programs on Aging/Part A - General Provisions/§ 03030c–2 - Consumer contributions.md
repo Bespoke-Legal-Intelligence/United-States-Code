@@ -28,7 +28,7 @@
 
 #### (5) Requirements
 
-&emsp;If a State permits the cost sharing described in paragraph (1), such State shall require eacharea agency on aging in the State to ensure that each service provider involved, and the area agency on aging, will—
+&emsp;If a State permits the cost sharing described in paragraph (1), such State shall require each area agency on aging in the State to ensure that each service provider involved, and the area agency on aging, will—
 
 &emsp;&emsp;(A) protect the privacy and confidentiality of each older individual with respect to the declaration or nondeclaration of individual income and to any share of costs paid or unpaid by an individual;
 

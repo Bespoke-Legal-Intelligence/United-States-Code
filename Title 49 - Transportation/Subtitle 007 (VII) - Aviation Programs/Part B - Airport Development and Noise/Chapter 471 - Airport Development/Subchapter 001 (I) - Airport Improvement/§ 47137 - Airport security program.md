@@ -22,13 +22,25 @@ Terms and Conditions.—The Secretary may establish such terms and conditions as
 
 (e)
 
-Eligible Sponsor Defined.—In this section, the term “eligible sponsor” means a nonprofit corporation composed of a consortium of public and private persons, including a sponsor of a primary airport, with the necessary engineering and technical expertise to successfully conduct the testing and evaluation of airport and aircraft related security systems.
+Administration.—The Secretary, in cooperation with the Secretary of Homeland Security, shall administer the program authorized by this section.
 
 (f)
 
+Eligible Sponsor Defined.—In this section, the term “eligible sponsor” means a nonprofit corporation composed of a consortium of public and private persons, including a sponsor of a primary airport, with the necessary engineering and technical expertise to successfully conduct the testing and evaluation of airport and aircraft related security systems.
+
+(g)
+
 Authorization of Appropriations.—Of the amounts made available to the Secretary under section 47115 in a fiscal year, the Secretary shall make available not less than $5,000,000 for the purpose of carrying out this section.
 
-(Added Pub. L. 106–181, title I, §134(a), Apr. 5, 2000, 114 Stat. 83.)
+(Added Pub. L. 106–181, title I, §134(a), Apr. 5, 2000, 114 Stat. 83; amended Pub. L. 108–176, title I, §157, Dec. 12, 2003, 117 Stat. 2508.)
+
+#### Amendments
+
+2003—Subsecs. (e) to (g). Pub. L. 108–176 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program in accordance with this section for the purpose ofpromoting cooperation between Department of Defense laboratories and industry on research and development of dual-use technologies in order to further the national security objectives set forth in section 2501(a) of this title.
+Establishment of Program.—The Secretary of Defense shall conduct a program in accordance with this section for the purpose of promoting cooperation between Department of Defense laboratories and industry on research and development of dual-use technologies in order to further the national security objectives set forth in section 2501(a) of this title.
 
 (b)
 

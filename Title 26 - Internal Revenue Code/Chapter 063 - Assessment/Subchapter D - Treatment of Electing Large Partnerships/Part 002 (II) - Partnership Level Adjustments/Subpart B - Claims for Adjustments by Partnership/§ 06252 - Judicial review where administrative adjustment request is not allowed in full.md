@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any part of an administrative adjustment request filed under section 6251 is not allowed bythe Secretary, the partnership may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—
+If any part of an administrative adjustment request filed under section 6251 is not allowed by the Secretary, the partnership may file a petition for an adjustment with respect to the partnership items to which such part of the request relates with—
 
 &emsp;(1) the Tax Court,
 

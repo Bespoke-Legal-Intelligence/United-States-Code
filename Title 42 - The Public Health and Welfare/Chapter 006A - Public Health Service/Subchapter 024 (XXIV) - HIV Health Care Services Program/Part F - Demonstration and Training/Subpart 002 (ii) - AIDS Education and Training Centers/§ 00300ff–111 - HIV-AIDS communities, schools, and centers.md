@@ -58,7 +58,7 @@
 
 #### (1) Schools; centers
 
-&emsp;For the purpose of grants under subsection (a) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+&emsp;For the purpose of grants under subsection (a) of this section, there are authorized to beappropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 #### (2) Dental schools
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;For the purpose of grants under subsection (b)(5) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349.)
+(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349.)
 
 #### Codification
 

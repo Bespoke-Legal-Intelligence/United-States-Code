@@ -6,7 +6,7 @@ The Committee on Rules and Administration may authorize its chairman to designat
 
 #### Amendments
 
-1984—Pub. L. 98–473 substituted “any employee or employees of such Committee” for “the committee Auditor and the committee Assistant Auditor”.
+<b>1984</b>—Pub. L. 98–473 substituted “any employee or employees of such Committee” for “the committee Auditor and the committee Assistant Auditor”.
 
-1981—Pub. L. 97–51 substituted “the committee Auditor and the committee Assistant Auditor” for “one committee employee”.
+<b>1981</b>—Pub. L. 97–51 substituted “the committee Auditor and the committee Assistant Auditor” for “one committee employee”.
 

@@ -691,7 +691,7 @@ Audit Reports.—Not later than March 15, 2001, the Inspector General of the Gen
 
 #### Abraham Lincoln Bicentennial Commission
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324, provided that:
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -731,11 +731,15 @@ Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, 
 
 &emsp;&emsp;“(C) the convening of a joint meeting or joint session of Congress for ceremonies and activities relating to Abraham Lincoln;
 
-&emsp;&emsp;“(D) a redesignation of the Lincoln Memorial, or other activity with respect to the Memorial; and
+&emsp;&emsp;“(D) a rededication of the Lincoln Memorial, or other activity with respect to the Memorial; and
 
 &emsp;&emsp;“(E) the acquisition and preservation of artifacts associated with Abraham Lincoln.
 
 &emsp;“(2) To recommend to Congress the activities that the Commission considers most fitting and proper to honor Abraham Lincoln on such occasion, and the entity or entities in the Federal Government that the Commission considers most appropriate to carry out such activities.
+
+&emsp;“(3) To recommend to Congress a plan to carry out the activities recommended under paragraph (2).
+
+&emsp;“(4) To carry out other related activities in support of the duties carried out under paragraphs (1) through (3).
 
 #### “SEC. 5. MEMBERSHIP.
 
@@ -819,7 +823,7 @@ Director.—The Director of the Commission may be appointed without regard to th
 
 &emsp;“(2)
 
-Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+Staff.—Consistent with all other applicable Federal laws governing appointments and compensation, the staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
 
 #### “SEC. 7. POWERS.
 
@@ -873,23 +877,27 @@ Detailee serving as director.—Subparagraph (A) shall not apply to a detailee w
 
 &emsp;“(3)
 
-Employment benefits for additional personnel.—A person appointed to the Commission staff under subsection (b)(2) is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89, and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title.
+Employment benefits for additional personnel.—A person appointed to the Commission staff under section 6(b)(2) is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89, and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title.
 
 #### “SEC. 8. REPORTS.
 
 “(a)
 
-Interim Reports.—The Commission may submit to Congress such interim reports as the Commission considers to be appropriate.
+Interim Reports.—In addition to the interim report required under subsection (b), the Commission may submit to Congress such interim reports as the Commission considers to be appropriate.
 
 “(b)
 
-Final Report.—The Commission shall submit a final report to Congress not later than the expiration of the 4-year period beginning on the date of the formation of the Commission. The final report shall contain—
+Required Interim Report.—Not later than June 24, 2004, the Commission shall submit an interim report to Congress. The report shall contain—
 
 &emsp;“(1) a detailed statement of the findings and conclusions of the Commission;
 
 &emsp;“(2) the recommendations of the Commission; and
 
 &emsp;“(3) any other information that the Commission considers to be appropriate.
+
+“(c)
+
+Final Report.—Not later than April 30, 2010, the Commission shall submit a final report to Congress. The final report shall contain final statements, recommendations, and information described under subsection (b)(1), (2), and (3).
 
 #### “SEC. 9. BUDGET ACT COMPLIANCE.
 
@@ -903,7 +911,7 @@ Final Report.—The Commission shall submit a final report to Congress not later
 
 “There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
 
-\[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by this section \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
+\[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by thissection \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
 
 #### Proc. No. 4934. Armed Forces Day
 

@@ -18,7 +18,7 @@ The Secretary shall furnish, without prepayment, to—
 
 #### Amendments
 
-1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing and substituted in par.\(2) “designated depositary.” for “designated depositary;”.
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing and substituted in par. (2) “designated depositary.” for “designated depositary;”.
 
 1965—Par. (1). Pub. L. 89–44, §601(d)(1), struck out “(other than the stamps on playing cards)” after “quantity of adhesive stamps”.
 

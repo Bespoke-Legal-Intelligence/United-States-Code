@@ -52,7 +52,7 @@ Section 1304(b) of Pub. L. 105–34 provided that: “The amendment made by this
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to the estates of decedents dying after Dec. 31, 1993, see section 13237(d) of Pub. L. 103–66, set out as a note under section 871 of this title.
+Amendment by Pub. L. 103–66 applicable to the estates of decedents dying after Dec. 31, 1993, see section13237(d) of Pub. L. 103–66, set out as a note under section 871 of this title.
 
 #### Effective Date of 1988 Amendment
 

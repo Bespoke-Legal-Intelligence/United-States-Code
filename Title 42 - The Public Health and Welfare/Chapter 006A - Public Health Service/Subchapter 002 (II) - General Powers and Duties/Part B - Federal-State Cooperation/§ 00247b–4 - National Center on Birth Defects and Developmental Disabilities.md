@@ -10,11 +10,15 @@
 
 &emsp;The Secretary shall carry out programs—
 
-&emsp;&emsp;(A) to collect, analyze, and make available data on birth defects and developmental disabilities (in a manner that facilitates compliance with subsection (d)(2) of this section), including data on the causes of such defects and disabilities and on the incidence and prevalence of such defects and disabilities;
+&emsp;&emsp;(A) to collect, analyze, and make available data on birth defects, developmental disabilities, and disabilities and health (in a manner that facilitates compliance with subsection (c)(2) of this section), including data on the causes of such defects and disabilities and on the incidence and prevalence of such defects and disabilities;
 
-&emsp;&emsp;(B) to operate regional centers for the conduct of applied epidemiological research on the prevention of such defects and disabilities; and
+&emsp;&emsp;(B) to operate regional centers for the conduct of applied epidemiological research on the prevention of such defects and disabilities;
 
-&emsp;&emsp;(C) to provide information and education to the public on the prevention of such defects and disabilities.
+&emsp;&emsp;(C) to provide information and education to the public on the prevention of such defects and disabilities;
+
+&emsp;&emsp;(D) to conduct research on and to promote the prevention of such defects and disabilities, and secondary health conditions among individuals with disabilities; and
+
+&emsp;&emsp;(E) to support a National Spina Bifida Program to prevent and reduce suffering fromthe Nation's most common permanently disabling birth defect.
 
 #### (3) Folic acid
 
@@ -38,23 +42,7 @@
 
 &emsp;&emsp;Personnel employed in connection with the programs and functions specified in subparagraph (B), and amounts available for carrying out the programs and functions, are transferred to the Center, effective upon the expiration of the 180-day period beginning on October 17, 2000. Such transfer of amounts does not affect the period of availability of the amounts, or the availability of the amounts with respect to the purposes for which the amounts may be expended.
 
-#### (b) Additional provisions regarding collection of data
-
-#### (1) In general
-
-&emsp;In carrying out subsection (a)(2)(A) of this section, the Secretary—
-
-&emsp;&emsp;(A) shall collect and analyze data by gender and by racial and ethnic group, including Hispanics, non-Hispanic whites, Blacks, Native Americans, Asian Americans, and Pacific Islanders;
-
-&emsp;&emsp;(B) shall collect data under subparagraph (A) from birth certificates, death certificates, hospital records, and such other sources as the Secretary determines to be appropriate; and
-
-&emsp;&emsp;(C) shall encourage States to establish or improve programs for the collection and analysis of epidemiological data on birth defects, and to make the data available.
-
-#### (2) National clearinghouse
-
-&emsp;In carrying out subsection (a)(1) of this section, the Secretary shall establish and maintain a National Information Clearinghouse onBirth Defects to collect and disseminate to health professionals and the general public information on birth defects, including the prevention of such defects.
-
-#### (c) Grants and contracts
+#### (b) Grants and contracts
 
 #### (1) In general
 
@@ -70,31 +58,57 @@
 
 &emsp;The Secretary may make an award of a grant or contract under paragraph (1) only if an application for the award is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out the purposes for which the award is to be made.
 
-#### (d) Biennial report
+#### (c) Biennial report
 
 Not later than February 1 of fiscal year 1999 and of every second such year thereafter, the Secretary shall submit to the Committee on Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report that, with respect to the preceding 2 fiscal years—
 
-&emsp;(1) contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;
+&emsp;(1) contains information regarding the incidence and prevalence of birth defects, developmental disabilities, and the health status of individuals with disabilities and the extent to which these conditions have contributed to the incidence and prevalence of infant mortality and affected quality of life;
 
 &emsp;(2) contains information under paragraph (1) that is specific to various racial and ethnic groups (including Hispanics, non-Hispanic whites, Blacks, Native Americans, and Asian Americans);
 
-&emsp;(3) contains an assessment of the extent to which various approaches of preventing birth defects have been effective;
+&emsp;(3) contains an assessment of the extent to which various approaches of preventing birth defects, developmental disabilities, and secondary health conditions among individuals with disabilities have been effective;
 
-&emsp;(4) describes the activities carried out under this section; and
+&emsp;(4) describes the activities carried out under this section;
 
-&emsp;(5) contains any recommendations of the Secretary regarding this section.
+&emsp;(5) contains information on the incidence and prevalence of individuals living with birth defects and disabilities or developmental disabilities, information on the health status of individuals with disabilities, information on any health disparities experienced by such individuals, and recommendations for improving the health and wellness and quality of life of such individuals;
 
-#### (e) Applicability of privacy laws
+&emsp;(6) contains a summary of recommendations from all birth defects research conferences sponsored by the Centers for Disease Control and Prevention, including conferences related to spina bifida; and
+
+&emsp;(7) contains any recommendations of the Secretary regarding this section.
+
+#### (d) Applicability of privacy laws
 
 The provisions of this section shall be subject to the requirements of section 552a of title 5. All Federal laws relating to the privacy of information shall apply to the data and information that is collected under this section.
 
+#### (e) Advisory committee
+
+Notwithstanding any other provision of law, the members of the advisory committee appointed by the Director of the National Center for Environmental Health that have expertise in birth defects, developmental disabilities, and disabilities and health shall be transferred toand shall advise the National Center on Birth Defects and Developmental Disabilities effective on December 3, 2003.
+
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
 
-(July 1, 1944, ch. 373, title III, §317C, as added Pub. L. 102–531, title III, §306(a), Oct. 27, 1992, 106 Stat. 3494; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(iii), June 10, 1993, 107 Stat. 213; Pub. L. 105–168, §2, Apr. 21, 1998, 112 Stat. 43; Pub. L. 106–310, div. A, title VI, §611, Oct. 17, 2000, 114 Stat. 1119.)
+(July 1, 1944, ch. 373, title III, §317C, as added Pub. L. 102–531, title III, §306(a), Oct. 27, 1992, 106 Stat. 3494; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(iii), June 10, 1993, 107 Stat. 213; Pub. L. 105–168, §2, Apr. 21, 1998, 112 Stat. 43; Pub. L. 106–310, div. A, title VI, §611, Oct. 17, 2000, 114 Stat. 1119; Pub. L. 108–154, §2, Dec. 3, 2003, 117 Stat. 1933.)
 
 #### Amendments
+
+2003—Subsec. (a)(2)(A). Pub. L. 108–154, §2(1)(A), substituted “, developmental disabilities, and disabilities and health” for “and developmental disabilities” and “subsection (c)(2)” for “subsection (d)(2)”.
+
+Subsec. (a)(2)(D), (E). Pub. L. 108–154, §2(1)(B)–(D), added subpars. (D) and (E).
+
+Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to additional provisions regarding collection of data.
+
+Subsec.(d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: “contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;”.
+
+Subsec. (d)(3). Pub. L. 108–154, §2(3)(B), inserted “, developmental disabilities, and secondary health conditions among individuals with disabilities” after “defects”.
+
+Subsec. (d)(5) to (7). Pub. L. 108–154, §2(3)(C)–(E), added pars. (5) and (6) and redesignated former par. (5) as (7).
+
+Subsec. (e). Pub. L. 108–154, §2(5), added subsec. (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 108–154, §2(6) substituted “such sums as may be necessary for each of fiscal years 2003 through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
 
 2000—Pub. L. 106–310, §611(1), substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
 

@@ -30,7 +30,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (c) Annual report on health facility priority system
 
-(1) The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report which sets forth—
+(1) The Secretary shall submit to the President, for inclusion in each report required to betransmitted to the Congress under section 1671 of this title, a report which sets forth—
 
 &emsp;(A) the current health facility priority system of the Service,
 

@@ -12,7 +12,7 @@ Section was classified to section 174j–1 of former Title 40, prior to the enac
 
 #### Amendments
 
-1999—Pub. L. 106–57 inserted at end: “The provisions of section 193d of this title, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to the approval of such activities by the Committee on Rules and Administration.”
+<b>1999</b>—Pub. L. 106–57 inserted at end: “The provisions of section 193d of this title, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to the approval of such activities by the Committee on Rules and Administration.”
 
 #### Section Referred to in Other Sections
 

@@ -80,7 +80,7 @@ The Board may approve the adjustment of any term or condition of a loan guarante
 
 #### (g) Compliance
 
-The Administrator, in cooperation with the Board and as the regulations of the Board may provide, shall enforce compliance by an applicant, and any other party to a loan guarantee for whose benefit assistance under this chapteris intended, with the provisions of this chapter, any regulations under this chapter, and the terms and conditions of the loan guarantee, including through the submittal of such reports and documents as the Board may require in regulations prescribed by the Board and through regular periodic inspections and audits.
+The Administrator, in cooperation with the Board and as the regulations of the Board may provide, shall enforce compliance by an applicant, and any other party to a loan guarantee for whose benefit assistance under this chapter is intended, with the provisions of this chapter, any regulations under this chapter, and the terms and conditions of the loan guarantee, including through the submittal of such reports and documents as the Board may require in regulations prescribed by the Board and through regular periodic inspections and audits.
 
 #### (h) Commercial validity
 
@@ -150,7 +150,7 @@ No attachment or execution may be issued against the Administrator or any proper
 
 #### (B) Subject to appropriations
 
-&emsp;&emsp;The authority provided by this subsection shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+&emsp;&emsp;The authority provided by this subsection shall be effective only to such extent or insuch amounts as are provided in advance in appropriations Acts.
 
 #### (C) Limitation on fees
 

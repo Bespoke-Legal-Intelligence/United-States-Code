@@ -68,6 +68,8 @@
 | [7932\.](Subchapter%20002%20%28II%29%20-%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007932%20-%20Loan%20rates%20for%20nonrecourse%20marketing%20assistance%20loans.md) | Loan rates for nonrecourse marketing assistance loans. |
 | (a) | 2002 and 2003 crop years. |
 | (b) | 2004 through 2007 crop years. |
+| (c) | Single county loan rate for other oilseeds. |
+| (d) | Quality grades for dry peas, lentils, and small chickpeas. |
 | [7933\.](Subchapter%20002%20%28II%29%20-%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007933%20-%20Term%20of%20loans.md) | Term of loans. |
 | (a) | Term of loan. |
 | (b) | Extensions prohibited. |
@@ -77,7 +79,9 @@
 | (c) | Repayment rates for extra long staple cotton. |
 | (d) | Prevailing world market price. |
 | (e) | Adjustment of prevailing world market price for upland cotton. |
-| (f) | Good faith exception to beneficial interest requirement. |
+| (f) | Repayment rates for confectionery and other kinds of sunflower seeds. |
+| (g) | Quality grades for dry peas, lentils, and small chickpeas. |
+| (h) | Good faith exception to beneficial interest requirement. |
 | [7935\.](Subchapter%20002%20%28II%29%20-%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007935%20-%20Loan%20deficiency%20payments.md) | Loan deficiency payments. |
 | (a) | Availability of loan deficiency payments. |
 | (b) | Computation. |

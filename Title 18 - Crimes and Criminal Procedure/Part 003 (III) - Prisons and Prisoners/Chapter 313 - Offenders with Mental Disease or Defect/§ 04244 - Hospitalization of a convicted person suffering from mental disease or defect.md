@@ -28,7 +28,7 @@ Discharge.—When the director of the facility in which the defendant is hospita
 
 #### Separability
 
-Section 4 of act Sept. 7, 1949, provided that: “If any provision of Title 18, United States Code, sections 4244to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Section 4 of act Sept. 7, 1949, provided that: “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 #### Use of Appropriations
 

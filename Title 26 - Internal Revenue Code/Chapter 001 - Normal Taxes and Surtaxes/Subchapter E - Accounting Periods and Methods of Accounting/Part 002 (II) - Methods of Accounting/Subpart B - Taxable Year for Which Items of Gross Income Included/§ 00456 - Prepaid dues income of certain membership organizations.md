@@ -76,7 +76,7 @@ For purposes of this section—
 
 1976—Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (c)(3)(B). Pub. L. 94–455, §1901(a)(68), substituted “for its first taxable year” for “for its firsttaxable year (i) which begins after December 31, 1960, and (ii)”.
+Subsec. (c)(3)(B). Pub. L. 94–455, §1901(a)(68), substituted “for its first taxable year” for “for its first taxable year (i) which begins after December 31, 1960, and (ii)”.
 
 #### Effective Date of 1976 Amendment
 

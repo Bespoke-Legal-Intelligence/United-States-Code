@@ -108,5 +108,5 @@ Section 1306(c) of Pub. L. 94–455 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7451, 7459, 7482, 7611 of this title; title 28 sections 1346, 1507, 2201.
+This section is referred to in sections 501, 7451, 7459, 7482, 7611 of this title; title 28 sections 1346, 1507, 2201.
 

@@ -98,7 +98,7 @@ Pub. L. 107–310, §1(a), Dec. 2, 2002, 116 Stat. 2450, provided that: “This 
 
 #### Short Title of 1986 Amendment
 
-Section 1206 of title XII of Pub. L. 99–662 provided that: “This title \[enacting sections 467f to 467n and 2311of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
+Section 1206 of title XII of Pub. L. 99–662 provided that: “This title \[enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
 
 #### Short Title
 

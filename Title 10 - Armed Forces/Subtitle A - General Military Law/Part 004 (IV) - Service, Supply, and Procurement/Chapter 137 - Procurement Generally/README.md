@@ -23,7 +23,7 @@
 | [2306b.](%C2%A7%2002306b%20-%20Multiyear%20contracts%20acquisition%20of%20property.md) | Multiyear contracts: acquisition of property. |
 | [2306c.](%C2%A7%2002306c%20-%20Multiyear%20contracts%20acquisition%20of%20services.md) | Multiyear contracts: acquisition of services. |
 | [2307\.](%C2%A7%2002307%20-%20Contract%20financing.md) | Contract financing. |
-| \[2308. | Repealed.\] |
+| [2308\.](%C2%A7%2002308%20-%20Buy-to-budget%20acquisition%20end%20items.md) | Buy-to-budget acquisition: end items. |
 | [2309\.](%C2%A7%2002309%20-%20Allocation%20of%20appropriations.md) | Allocation of appropriations. |
 | [2310\.](%C2%A7%2002310%20-%20Determinations%20and%20decisions.md) | Determinations and decisions. |
 | [2311\.](%C2%A7%2002311%20-%20Assignment%20and%20delegation%20of%20procurement%20functions%20and%20responsibilities.md) | Assignment and delegation of procurement functions and responsibilities. |
@@ -49,10 +49,15 @@
 | [2330\.](%C2%A7%2002330%20-%20Procurement%20of%20services%20management%20structure.md) | Procurement of services: management structure. |
 | [2330a.](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md) | Procurement of services: tracking of purchases. |
 | [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
+| [2332\.](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md) | Share-in-savings contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–347, title II, §210(a)(2), Dec. 17, 2002, 116 Stat. 2934, added item 2332.
+
+Pub. L. 107–314, div. A, title VIII, §801(a)(2), Dec. 2, 2002, 116 Stat. 2602, added item 2308.
 
 2001—Pub. L. 107–107, div. A, title VIII, §801(g)(2), Dec. 28, 2001, 115 Stat. 1178, added items 2330, 2330a, and 2331 and struck out former item 2331 “Contracts for professional and technical services”.
 
@@ -92,7 +97,7 @@ Pub. L. 99–500, §101(c) \[title X, §§907(a)(2), 908(d)(1)(B), 926(a)(2), 95
 
 Pub. L. 98–525, title XII, §1217, Oct. 19, 1984, 98 Stat. 2599, added items 2303a and 2317 to 2323.
 
-Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, substituted “Congressional defense procurement policy” for “Declaration of policy” in item2301, “Contracts: competition requirements” for “Purchases and contracts: formal advertising; exceptions” in item 2304, “Contracts: planning, solicitation, evaluation, and award procedures” for “Formal advertisements for bids; time; opening; award; rejection” in item 2305, and “Kinds of contracts; cost or pricing data: truth in negotiation” for “Kinds of contracts” in item 2306.
+Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, substituted “Congressional defense procurement policy” for “Declaration of policy” in item 2301, “Contracts: competition requirements” for “Purchases and contracts: formal advertising; exceptions” in item 2304, “Contracts: planning, solicitation, evaluation, and award procedures” for “Formal advertisements for bids; time; opening; award; rejection” in item 2305, and “Kinds of contracts; cost or pricing data: truth in negotiation” for “Kinds of contracts” in item 2306.
 
 1982—Pub. L. 97–295, §1(26)(B), Oct. 12, 1982, 96 Stat. 1291, added item 2316.
 
@@ -102,7 +107,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 167, 1060a, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
+This chapter is referred to in sections 167, 167a, 1060a, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 6 section 426; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 113; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
 
 
 ---
@@ -130,7 +135,7 @@ This chapter is referred to in sections 167, 1060a, 2350b, 2350d, 2373, 2809, 28
 - [&sect; 02306b - Multiyear contracts acquisition of property](%C2%A7%2002306b%20-%20Multiyear%20contracts%20acquisition%20of%20property.md)
 - [&sect; 02306c - Multiyear contracts acquisition of services](%C2%A7%2002306c%20-%20Multiyear%20contracts%20acquisition%20of%20services.md)
 - [&sect; 02307 - Contract financing](%C2%A7%2002307%20-%20Contract%20financing.md)
-- [&sect; 02308 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1503(b)(1), Oct. 13, 1994, 108 Stat. 3297](%C2%A7%2002308%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71503%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203297.md)
+- [&sect; 02308 - Buy-to-budget acquisition end items](%C2%A7%2002308%20-%20Buy-to-budget%20acquisition%20end%20items.md)
 - [&sect; 02309 - Allocation of appropriations](%C2%A7%2002309%20-%20Allocation%20of%20appropriations.md)
 - [&sect; 02310 - Determinations and decisions](%C2%A7%2002310%20-%20Determinations%20and%20decisions.md)
 - [&sect; 02311 - Assignment and delegation of procurement functions and responsibilities](%C2%A7%2002311%20-%20Assignment%20and%20delegation%20of%20procurement%20functions%20and%20responsibilities.md)
@@ -156,3 +161,4 @@ This chapter is referred to in sections 167, 1060a, 2350b, 2350d, 2373, 2809, 28
 - [&sect; 02330 - Procurement of services management structure](%C2%A7%2002330%20-%20Procurement%20of%20services%20management%20structure.md)
 - [&sect; 02330a - Procurement of services tracking of purchases](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md)
 - [&sect; 02331 - Procurement of services contracts for professional and technical services](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md)
+- [&sect; 02332 - Share-in-savings contracts](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md)

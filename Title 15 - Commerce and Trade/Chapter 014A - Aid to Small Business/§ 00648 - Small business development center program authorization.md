@@ -2,7 +2,7 @@
 
 #### (a) Grants, contracts and cooperative agreements for establishment of small business development centers and for small business activities and purposes; role of Administration; non-Federal additional amount; amount of grant; eligibility
 
-(1) The Administration is authorized to make grants (including contracts and cooperative agreements) to any State government or any agency thereof, any regional entity, any State-chartered development, credit or finance corporation, any women's business center operating pursuant to section 656 of this title, any public or private institution of higher education, including but not limited to any land-grant college or university, any college or school of business, engineering, commerce, or agriculture, community college or junior college, or to any entity formed by two or more of the above entities (herein referred to as “applicants”) to assist in establishing small business development centers and to any such body for: small business oriented employment or natural resources development programs; studies, research, and counseling concerning the managing, financing, and operation of small business enterprises; management and technical assistance regarding small business participation in international markets, export promotion and technology transfer; delivery or distribution of such services and information; and providing access to business analysts who can refer small business concerns to available experts: <i>Provided</i>, That after December 31, 1990, the Administration shall not make a grant to any applicant other than an institution of higher education or a women's business center operating pursuant to section 656 of this title as a Small Business Development Center unless the applicant was receiving a grant (including a contract or cooperative agreement) on such date. The Administration shall require any applicant for a small business development center grant with performance commencing on or after January 1, 1992 to have its own budget and to primarily utilize institutions of higher education and women's business centers operating pursuant to section 656 of this title to provide services to the small business community. The term of such grants shall be made on a calendar year basis or to coincide with the Federal fiscal year.
+(1) The Administration is authorized to make grants (including contracts and cooperative agreements) to any State government or any agency thereof, any regional entity, any State-chartered development, credit or finance corporation, any women's business center operating pursuant to section 656 of this title, any public or private institution of higher education, including but not limited to any land-grant college or university, any college or school of business, engineering, commerce, or agriculture, community college or junior college, or to any entity formed by two or more of the above entities (herein referred to as “applicants”) to assist in establishing small business development centers and to any such body for: small business oriented employment or natural resources development programs; studies, research, and counseling concerning the managing, financing, and operation of small business enterprises; management and technical assistance regarding small business participation in international markets, export promotion and technology transfer; delivery or distribution of such services and information; and providing access to business analysts who can refer small business concerns to available experts: <i>Provided</i>, That after December 31, 1990, the Administration shall not make a grant to any applicant other than an institution of higher education or a women's business center operating pursuant to section 656 of this title as a Small Business Development Center unless the applicant was receiving a grant (including a contract or cooperative agreement) on such date. The Administration shall require any applicant for a small business development center grant with performance commencing on or afterJanuary 1, 1992 to have its own budget and to primarily utilize institutions of higher education and women's business centers operating pursuant to section 656 of this title to provide services to the small business community. The term of such grants shall be made on a calendar year basis or to coincide with the Federal fiscal year.
 
 (2) The Small Business Development Centers shall work in close cooperation with the Administration's regional and local offices, the Department of Commerce, appropriate Federal, State and local agencies and the small business community to serve as an active information dissemination and service delivery mechanism for existing trade promotion, trade finance, trade adjustment, trade remedy and trade data collection programs of particular utility for small businesses.
 
@@ -48,7 +48,7 @@ Grant determination.—The amount of a grant that a State is eligible to apply f
 
 &emsp;&emsp;(iii)
 
-Minimum funding level.—The amount of the minimum funding level for each State shall be determined for each fiscal year based on the amount made available for that fiscal year to carry out this section, as follows:
+Minimum funding level.—The amount of the minimum funding level for each Stateshall be determined for each fiscal year based on the amount made available for that fiscal year to carry out this section, as follows:
 
 &emsp;&emsp;&emsp;(I) If the amount made available is not less than $81,500,000 and not more than $90,000,000, the minimum funding level shall be $500,000.
 
@@ -120,7 +120,7 @@ Additional provision.—Notwithstanding any other provision of law, a contract f
 
 &emsp;(C) with outreach, development, and enhancement of minority-owned small business startups or expansions, HUBZone small business concerns, veteran-owned small business startups or expansions, and women-owned small business startups or expansions, in communities impacted by base closings or military or corporate downsizing, or in rural or underserved communities;
 
-> as provided under subparagraphs (B) through (G) of subsection (c)(3) of this section. Applicants for such additional grants shall comply with all of the provisions of this section, including providing matching funds, except that funding under this paragraph shall be effective for any fiscal year to the extent provided in advance in appropriations Acts and shall be in addition to the dollar program limitations specified in paragraphs (4) and (5). No recipient of funds under this paragraph shall receive a grant which would exceed its pro rata share of a $15,000,000 program based upon the populations to be served by the Small Business Development Center as compared to the total population of the United States. The minimum amount of eligibility for any State shall be $100,000.
+> as provided under subparagraphs (B) through (G) of subsection (c)(3) of this section. Applicantsfor such additional grants shall comply with all of the provisions of this section, including providing matching funds, except that funding under this paragraph shall be effective for any fiscal year to the extent provided in advance in appropriations Acts and shall be in addition to the dollar program limitations specified in paragraphs (4) and (5). No recipient of funds under this paragraph shall receive a grant which would exceed its pro rata share of a $15,000,000 program based upon the populations to be served by the Small Business Development Center as compared to the total population of the United States. The minimum amount of eligibility for any State shall be $100,000.
 
 #### (b) Area plan inconsistent with applicant's plan: assistance unavailable 1981 through 1983; plan of applicant: submittal to Administration, action on plan, review by Administration, assistance to out-of-State businesses
 
@@ -198,7 +198,7 @@ Additional provision.—Notwithstanding any other provision of law, a contract f
 
 &emsp;(K) maintaining a working relationship and open communications with the financial and investment communities, legal associations, local and regional private consultants, and local and regional small business groups and associates in order to help address the various needs of the small business community;
 
-&emsp;(L) conducting in-depth surveys for local small business groups in order to develop general information regarding the local economyand general small business strengths and weaknesses in the locality;
+&emsp;(L) conducting in-depth surveys for local small business groups in order to develop general information regarding the local economy and general small business strengths and weaknesses in the locality;
 
 &emsp;(M) in cooperation with the Department of Commerce, the Administration and other relevant Federal agencies, actively assisting rural small businesses in exporting by identifying and developing potential export markets for rural small businesses, facilitating export transactions for rural small businesses, developing linkages between United States’ rural small businesses and prescreened foreign buyers, assisting rural small businesses to participate in international trade shows, assisting rural small businesses in obtaining export financing and developing marketing and production strategies;
 
@@ -258,7 +258,7 @@ The National Science Foundation is authorized and directed to cooperate with the
 
 #### (g) National Aeronautics and Space Administration and regional technology transfer centers
 
-The National Aeronautics and Space Administration and regional technology transfer centers supported by the National Aeronautics and Space Administration are authorized and directed to cooperate with small business development centers participating in the program.
+The National Aeronautics and Space Administration and regional technology transfer centerssupported by the National Aeronautics and Space Administration are authorized and directed to cooperate with small business development centers participating in the program.
 
 #### (h) Associate Administrator for Small Business Development Centers
 
@@ -306,7 +306,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (B) Certification requirement
 
-&emsp;&emsp;After September 30, 2000, the Administration may not renew or extend any cooperative agreement with a small business development center unless the center has been approved under the certification program conducted pursuant to this subsection, except that the Associate Administrator for Small Business Development Centers may waive such certification requirement, in the discretion of the Associate Administrator, upon a showing that the center is making a good faith effort to obtain certification.
+&emsp;&emsp;After September 30, 2000, the Administration may not renew or extend any cooperative agreement with a small business development center unless the center has been approved under the certification program conducted pursuant to this subsection, except that the Associate Administrator for SmallBusiness Development Centers may waive such certification requirement, in the discretion of the Associate Administrator, upon a showing that the center is making a good faith effort to obtain certification.
 
 #### (<i>l</i>) Contract authority
 
@@ -338,13 +338,13 @@ In subsec. (<i>l</i>), “chapter 7 of title 5” substituted for “the Adminis
 
 A prior section 648 of this title, act July 30, 1953, ch. 282, title II, §219, 67 Stat. 239, which related to requirements for loans, was omitted as superseded by section 642 of this title. See Codification note set out under section 631 of this title.
 
-A prior section 2\[21\] of Pub. L. 85–536 was renumbered section 2\[36\] and is set out as a note under section 631 of this title.
+A prior section 2\[21\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 
 2001—Subsec. (a)(4)(C)(v)(II). Pub. L. 107–20 inserted “, or accompanying report language,” after “in appropriations Acts”.
 
-2000—Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VIII, §804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State's pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 forfiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
+2000—Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VIII, §804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State's pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 for fiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
 
 Subsec. (c)(3)(T). Pub. L. 106–554, §1(a)(9) \[title V, §503(e)\], substituted “2003” for “2000”.
 
@@ -422,7 +422,7 @@ Subsec. (<i>l</i>). Pub. L. 104–208, §106(c), amended heading and text of sub
 
 Subsec. (a)(5). Pub. L. 103–403, §403, amended par. (5) generally, substituting present provisions for former provisions which required matching amount from non-Federal sources equal to amount of Federal grant.
 
-Subsec. (k). Pub. L. 103–403, §404, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “Within six months of August 21, 1984, the Administration shall develop and implement a program proposal for onsite evaluation of each Small Business Development Center. Such evaluation shall be conducted at least once every two years and shall provide for the participation of a representative of at least one other Small Business Development Center on a cost-reimbursement basis.”
+Subsec. (k). Pub. L. 103–403, §404, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “Within six months of August 21, 1984, the Administration shall develop and implement a program proposal for onsite evaluation of each Small Business Development Center. Such evaluation shall be conductedat least once every two years and shall provide for the participation of a representative of at least one other Small Business Development Center on a cost-reimbursement basis.”
 
 1993—Subsec. (c)(7). Pub. L. 103–81 substituted “system. Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter cooperative agreements with one or more centers to carry out the provisions of this paragraph. Said grants or cooperative agreements shall be awarded for periods of no more than five years duration. The matching funds provisions of subsection (a) of this section shall not be applicable to grants or cooperative agreements under this paragraph. The system shall” for “system which will” in introductory provisions.
 
@@ -466,7 +466,7 @@ Subsec. (a)(2) to (4). Pub. L. 98–395, §2(2), added pars. (2) to (4). Former 
 
 Subsec. (b)(1). Pub. L. 98–395, §2(3), substituted “Financial” for “During fiscal years 1981, 1982, and 1983, financial”.
 
-Subsec. (c)(2). Pub. L. 98–395, §2(4), inserted in provisions preceding subpar. (A) “The facilities and staff ofeach Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve.”
+Subsec. (c)(2). Pub. L. 98–395, §2(4), inserted in provisions preceding subpar. (A) “The facilities and staff of each Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve.”
 
 Subsec. (c)(2)(A). Pub. L. 98–395, §2(5), substituted “including a full-time director who shall have the authority to make expenditures under the center's budget and who shall manage the program activities;” for “including a staff director to manage the program activities.”
 
@@ -554,7 +554,7 @@ Allocation of funding.—In addition to any other matters which the Administrati
 
 “(f)
 
-Use of Small Business Development Centers and Other Resources.—In implementing the Program,the Administrator shall assure that the eligible entity uses to the maximum extent feasible Small Business Development Centers, receiving support pursuant to section 21 of the Small Business Act (15 U.S.C. 648), and other available sources in conducting the Program.
+Use of Small Business Development Centers and Other Resources.—In implementing the Program, the Administrator shall assure that the eligible entity uses to the maximum extent feasible Small Business Development Centers, receiving support pursuant to section 21 of the Small Business Act (15 U.S.C. 648), and other available sources in conducting the Program.
 
 “(g)
 
@@ -582,7 +582,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 636, 654, 657c of this title.
+This section is referred to in sections 636, 654, 657c of this title; title 38 section 3452.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

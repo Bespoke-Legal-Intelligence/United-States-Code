@@ -40,7 +40,7 @@ Pub. L. 96–516, §31, Dec. 12, 1980, 94 Stat. 3010, as amended by Pub. L. 99�
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–99, §1, Aug. 15, 1977, 91 Stat. 831, provided: “That this Act \[enacting sections 1869b, 1873a, and 1884 of this title, amending sections 1862, 1863, 1873, and 1882 of this title, and enacting provisions set out as a note under section 1862 of this title\] may be cited as the ‘National Science Foundation Authorization Act, Fiscal Year 1978’.”
+Pub. L. 95–99, §1, Aug. 15, 1977, 91 Stat. 831, provided: “That this Act \[enacting sections 1869b, 1873a, and 1884of this title, amending sections 1862, 1863, 1873, and 1882 of this title, and enacting provisions set out as a note under section 1862 of this title\] may be cited as the ‘National Science Foundation Authorization Act, Fiscal Year 1978’.”
 
 #### Short Title of 1976 Amendment
 
@@ -52,7 +52,7 @@ Section 1 of act May 10, 1950, provided: “That this Act \[enacting this chapte
 
 #### Transfer of Functions
 
-Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office ofScience and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Continuation of Existing Offices, Procedures, and Organization
 
@@ -94,7 +94,7 @@ I74Section 21. Executive Committee
 
 (a) There is hereby established in the National Science Foundation a new office with the title of Director of the National Science Foundation. The Director of the National Science Foundation, hereafter in this Part referred to as the Director, shall be appointed by the President by and with the advice and consent of the Senate. Before any person is appointed as Director the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall serve for a term of six years unless sooner removed by the President. The Director shall not engage in any business, vocation or employment other than that of serving as such Director, nor shall he, except with the approval of the Board, hold any office in, or act in any capacity for, any organization, agency, or institution with which the Foundation makes any contract or other arrangement under the National Science Foundation Act of 1950 \[42 U.S.C. 1861 et seq.\].
 
-(b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, all functions of the office of Director of the National Science Foundation abolished by the provisions of 23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
+(b) Except to the extent inconsistent with the provisions of section 23(b)(2) of this reorganization plan, allfunctions of the office of Director of the National Science Foundation abolished by the provisions of 23(a)(2) hereof are hereby transferred to the office of Director established by the provisions of subsection (a) of this section.
 
 (c) The Director, ex officio, shall be an additional member of the Board and, except in respect of compensation and tenure, shall be coordinate with other members of the Board. He shall be a voting member of the Board and shall be eligible for election by the Board as chairman or vice chairman of the Board. \[As amended Pub. L. 88–426, title III, §305(41)(C), Aug. 14, 1964, 78 Stat. 428.\]
 
@@ -162,7 +162,7 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 &emsp;(2) The Office of the Special Assistant to the President for Science and Technology was established in 1957. The Special Assistant serves as Chairman of both the President's Science Advisory Committee and the Federal Council for Science and Technology, mentioned below.
 
-&emsp;(3) At the same time, the Science Advisory Committee, composed of eminent non-Government scientists and engineers, and located within the Office of Defense Mobilization, was reconstituted in the WhiteHouse Office as the President's Science Advisory Committee.
+&emsp;(3) At the same time, the Science Advisory Committee, composed of eminent non-Government scientists and engineers, and located within the Office of Defense Mobilization, was reconstituted in the White House Office as the President's Science Advisory Committee.
 
 &emsp;(4) The Federal Council for Science and Technology, composed of policy officials of the principal agencies engaged in scientific and technical activities, was established in 1959.
 

@@ -2,11 +2,11 @@
 
 (a)(1) Regulations prescribed under section 7451(a) of this title shall provide that whenever an employee in a covered position is given a new duty assignment which is a promotion, the rate of basic pay of that employee shall be increased at least one step increment in that employee's grade.
 
-(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a ratetwo step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
+(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a rate two step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
 
 (3) An employee in a covered position who is promoted to the next higher grade shall be paid in that grade at a step having a rate of basic pay that is greater than the rate of basic pay applicable to the employee in a covered position on the day before the effective date of the promotion.
 
-(b)(1) Under regulations which the Secretary prescribes for the administration of this section, the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary job achievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
+(b)(1) Under regulations which the Secretary prescribes for the administration of this section, the director of a Department health-care facility (A) shall pay a cash bonus (in an amount to be determined by the director not to exceed $2,000) to an employee in a covered position at that facility who becomes certified in a specialty recognized by the Department, and (B) may provide such a bonus to an employee in such a position who has demonstrated both exemplary job performance and exemplary jobachievement. The authority of the Secretary under this subsection is in addition to any other authority of the Secretary to provide job performance incentives.
 
 (2) The Secretary shall include in the annual report under section 7451(g) <sup>1</sup> of this title a discussion of the use during the period covered by the report of the payment of bonuses under this subsection and other job performance incentives available to the Secretary.
 
@@ -30,7 +30,7 @@
 
 (f) In this section, the term “covered position” has the meaning given that term in section 7451 of this title.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), titleIV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952.)
 
 #### References in Text
 

@@ -18,13 +18,13 @@
 
 &emsp;(A) The Secretary shall award grants under paragraph (1) for periods of at least three years.
 
-&emsp;(B) The Administrator of the Administration for Children, Youth, and Families and the Director of the National Commission to PreventInfant Mortality shall be consulted regarding the promulgation of program guidelines and funding priorities under this section.
+&emsp;(B) The Administrator of the Administration for Children, Youth, and Families and the Director of the National Commission to Prevent Infant Mortality shall be consulted regarding the promulgation of program guidelines and funding priorities under this section.
 
 #### (3) Requirement of status as medicaid provider
 
 &emsp;(A) Subject to subparagraph (B), the Secretary may make a grant under paragraph (1) only if, in the case of any service under such paragraph that is covered in the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the entity involved will provide the service directly, and the entity has enteredinto a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
@@ -164,7 +164,7 @@ To be eligible to receive a grant under this section, an entity must agree that 
 
 #### (m) Reports to Secretary
 
-To be eligible to receive a grant under this section, an entity must agree to submit an annual report on the services provided under thissection to the Secretary in such manner and containing such information as the Secretary by regulation requires. At a minimum, the entity shall report information concerning eligible families, including—
+To be eligible to receive a grant under this section, an entity must agree to submit an annual report on the services provided under this section to the Secretary in such manner and containing such information as the Secretary by regulation requires. At a minimum, the entity shall report information concerning eligible families, including—
 
 &emsp;(1) the characteristics of the families and children receiving services under this section;
 

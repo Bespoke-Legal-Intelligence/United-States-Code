@@ -10,5 +10,5 @@ A prior section 2245 was renumbered section 2246 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 14135a.
+This section is referred to in sections 3142, 3559 of this title; title 42 section 14135a.
 

@@ -32,7 +32,7 @@ As used in this section, the term “controlled premises” means—
 
 #### (c) Situations not requiring warrants
 
-A warrant under this section shall not be required for the inspection of books and recordspursuant to an administrative subpena issued in accordance with section 876 of this title, nor for entries and administrative inspections (including seizures of property)—
+A warrant under this section shall not be required for the inspection of books and records pursuant to an administrative subpena issued in accordance with section 876 of this title, nor for entries and administrative inspections (including seizures of property)—
 
 &emsp;(1) with the consent of the owner, operator, or agent in charge of the controlled premises;
 

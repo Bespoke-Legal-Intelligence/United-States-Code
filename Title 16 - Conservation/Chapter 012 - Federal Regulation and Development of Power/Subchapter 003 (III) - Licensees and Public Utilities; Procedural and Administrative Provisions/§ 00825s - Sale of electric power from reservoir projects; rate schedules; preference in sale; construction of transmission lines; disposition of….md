@@ -28,5 +28,5 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 825s–1, 825s–2, 825s–3, 839e of this title; title 42 section 7152.
+This section is referred to in sections 825s–1, 825s–2, 825s–3, 825s–4, 839e of this title; title 42 section 7152.
 

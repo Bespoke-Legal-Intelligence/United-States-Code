@@ -46,7 +46,7 @@ For the purposes of this chapter—
 
 (7) The term “domiciliary care” includes necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title.
 
-(8) The term “rehabilitative services” means such professional, counseling, and guidance services and treatment programs (other than those types of vocational rehabilitation services provided under chapter 31 of this title) as are necessary to restore, to the maximum extent possible, the physical, mental, and psychological functioning of an ill or disabled person.
+(8) The term “rehabilitative services” means such professional, counseling, and guidance services and treatment programs as are necessary to restore, to the maximum extent possible, the physical, mental, and psychological functioning of an ill or disabled person.
 
 (9) The term “preventive health services” means—
 
@@ -72,11 +72,11 @@ For the purposes of this chapter—
 
 &emsp;(K) such other health-care services as the Secretary may determine to be necessary to provide effective and economical preventive health care.
 
-(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2003, the term “medical services” includes noninstitutional extended care services.
+(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2008, the term “medical services” includes noninstitutional extended care services.
 
 (B) For the purposes of subparagraph (A), the term “noninstitutional extended care services” means such alternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, §601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, §2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, §2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, §101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, §102, title II, §202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, §5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, §102(c), title II, §201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, §101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, §4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, §106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, §103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, §2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, §203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, §131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, §14(b)(8), June 13, 1991, 105 Stat. 283; renumbered §1701 and amended Pub. L. 102–83, §§4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, §101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, §208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, §308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045.)
 
 #### Codification
 
@@ -88,6 +88,10 @@ Prior sections 1700 and 1701 were renumbered sections 3500 and 3501 of this titl
 
 #### Amendments
 
+2003—Par. (8). Pub. L. 108–170, §104(a), struck out “(other than those types of vocational rehabilitation services provided under chapter 31 of this title)” after “programs”.
+
+Par. (10)(A). Pub. L. 108–170, §106(a), substituted “November 30, 1999, and ending on December 31, 2008,” for “the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,”.
+
 2002—Par. (5). Pub. L. 107–135, §208(e)(2), substituted “1781(b)” for “1713(b)” in subpars. (B) and (C)(i).
 
 Par. (6). Pub. L. 107–135, §208(a)(1)(A), (B), substituted “services, the following:” for “services—” in introductory provisions and struck out concluding provisions which read as follows: “For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 1713(b) of this title shall be eligible for the same medical services as a veteran.”
@@ -96,7 +100,7 @@ Par. (6)(A). Pub. L. 107–135, §208(a)(1)(C), added subpar. (A) and struck out
 
 Par. (6)(B) to (F). Pub. L. 107–135, §208(a)(1)(A), (C), added subpars. (B) to (F) and struck out former subpar. (B) which included in the definition of “medical services” certain necessary consultation, professional counseling, training, and mental health services.
 
-Par. (10)(A). Pub. L. 107–330, which directed the substitution of “November 30, 1999,” for “the date of the enactment of the Veterans’ Millennium Health Care and Benefits Act”, was executed by making the substitution for “the date of the enactment of the Veterans Millennium Health Care and Benefits Act” to reflect the probable intent of Congress.
+Par. (10)(A). Pub. L. 107–330, which directed the substitution of “November 30, 1999,” for “the date of the enactment of the Veterans’ Millennium Health Care and Benefits Act”, could not be executed because the word “Veterans’ ” did not appear in text.
 
 1999—Par. (10). Pub. L. 106–117 added par. (10).
 

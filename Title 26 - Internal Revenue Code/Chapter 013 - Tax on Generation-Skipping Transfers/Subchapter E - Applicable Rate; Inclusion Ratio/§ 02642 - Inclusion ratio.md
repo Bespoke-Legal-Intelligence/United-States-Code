@@ -230,7 +230,7 @@ Except as provided in regulations—
 
 #### (5) Coordination with subsection (d)
 
-&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection\(d) to take into account the provisions of this subsection.
+&emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
 
 #### (g) Relief provisions
 
@@ -286,7 +286,7 @@ Subsec. (d)(2)(B)(i)(I). Pub. L. 101–508, §11704(a)(17), substituted “State
 
 1989—Subsec. (b)(1), (3). Pub. L. 101–239 substituted “a gift tax return filed on or before the date prescribed by section 6075(b)” for “a timely filed gift tax return required by section 6019” in introductory provisions.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
+1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3)and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
 
 Subsec. (b). Pub. L. 100–647, §1014(g)(4)(D), inserted “Except as provided in subsection (f)—” as introductory provision.
 

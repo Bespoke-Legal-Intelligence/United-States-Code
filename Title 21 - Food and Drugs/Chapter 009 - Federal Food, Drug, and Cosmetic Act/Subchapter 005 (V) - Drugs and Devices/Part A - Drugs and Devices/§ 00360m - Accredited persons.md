@@ -18,7 +18,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The Secretary may change the initial classification under section 360c(f)(1) of this title that is recommended under paragraph (1) by an accredited person, and in such case shall provide to such person, and the person who submitted the report under section 360(k) of this title for the device, a statement explaining in detail the reasons for the change.
+&emsp;&emsp;The Secretary may change the initial classification under section 360c(f)(1) of this titlethat is recommended under paragraph (1) by an accredited person, and in such case shall provide to such person, and the person who submitted the report under section 360(k) of this title for the device, a statement explaining in detail the reasons for the change.
 
 #### (3) Certain devices
 
@@ -90,7 +90,7 @@
 
 #### (4) Selection of accredited persons
 
-&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
+&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons fromwhich the regulated person may select one for a specific regulatory function.
 
 #### (5) Compensation of accredited persons
 
@@ -132,7 +132,7 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 2002—Subsec. (c). Pub. L. 107–250, §202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
 
-&emsp;“(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accreditedunder subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
+&emsp;“(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accredited under subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
 
 &emsp;“(2) 4 years after the date on which the Secretary notifies Congress that the Secretary has made a determination described in paragraph (2)(B) of subsection (a) of this section for at least 35 percent of the devices that are subject to review under paragraph (1) of such subsection,
 

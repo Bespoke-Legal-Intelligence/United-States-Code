@@ -14,7 +14,7 @@ In this part:
 
 &emsp;The term “critical infrastructure information” means information not customarily in the public domain and related to the security of critical infrastructure or protected systems—
 
-&emsp;&emsp;(A) actual, potential, or threatened interference with, attack on, compromise of, or incapacitation of critical infrastructure or protected systems by either physical or computer-based attack or other similar conduct (including the misuse of or unauthorized access to all types of communications and datatransmission systems) that violates Federal, State, or local law, harms interstate commerce of the United States, or threatens public health or safety;
+&emsp;&emsp;(A) actual, potential, or threatened interference with, attack on, compromise of, or incapacitation of critical infrastructure or protected systems by either physical or computer-based attack or other similar conduct (including the misuse of or unauthorized access to all types of communications and data transmission systems) that violates Federal, State, or local law, harms interstate commerce of the United States, or threatens public health or safety;
 
 &emsp;&emsp;(B) the ability of any critical infrastructure or protected system to resist such interference, compromise, or incapacitation, including any planned or past assessment, projection, or estimate of the vulnerability of critical infrastructure or a protected system, including security testing, risk evaluation thereto, risk management planning, or risk audit; or
 

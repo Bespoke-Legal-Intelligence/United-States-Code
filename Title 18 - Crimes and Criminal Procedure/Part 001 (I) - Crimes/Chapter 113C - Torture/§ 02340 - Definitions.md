@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(3) “United States” includes all areas under the jurisdiction of the United States including any of the places described in sections 5 and 7 of this title and section 46501(2) of title 49.
 
-(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415,§1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429, §2(2), Oct. 31, 1994, 108 Stat. 4377.)
+(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–415, §1(k), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–429, §2(2), Oct. 31, 1994, 108 Stat. 4377.)
 
 #### Amendments
 
@@ -34,5 +34,5 @@ Section 506(c) of Pub. L. 103–236 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 114 of this title.
+This section is referred to in sections 114, 1111 of this title.
 

@@ -52,5 +52,5 @@ Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 355a, 360cc, 360dd, 360ee, 379h of this title; title 26 section 45C; title 42 sections 236, 1395<i>l.</i>
+This section is referred to in sections 355a, 355c, 360cc, 360dd, 360ee, 379h of this title; title 26 section 45C; title 42 sections 236, 1395<i>l.</i>
 

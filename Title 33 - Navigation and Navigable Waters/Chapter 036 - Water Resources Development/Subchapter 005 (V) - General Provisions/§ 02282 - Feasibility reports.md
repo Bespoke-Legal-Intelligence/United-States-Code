@@ -34,7 +34,7 @@ The Secretary shall undertake such measures as are necessary to ensure that stan
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as theWater Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 Section 903(b), referred to in subsec. (a), is section 903(b) of Pub. L. 99–662, title IX, Nov. 17, 1986, 100 Stat. 4184, which is not classified to the Code.
 

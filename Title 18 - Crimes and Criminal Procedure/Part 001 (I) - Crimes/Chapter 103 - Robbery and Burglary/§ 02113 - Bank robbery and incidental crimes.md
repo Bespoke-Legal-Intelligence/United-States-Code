@@ -1,6 +1,6 @@
 ### §2113. Bank robbery and incidental crimes
 
-(a) Whoever, by force and violence, or by intimidation, takes, or attempts to take, from theperson or presence of another, or obtains or attempts to obtain by extortion any property or money or any other thing of value belonging to, or in the care, custody, control, management, or possession of, any bank, credit union, or any savings and loan association; or
+(a) Whoever, by force and violence, or by intimidation, takes, or attempts to take, from the person or presence of another, or obtains or attempts to obtain by extortion any property or money or any other thing of value belonging to, or in the care, custody, control, management, or possession of, any bank, credit union, or any savings and loan association; or
 
 Whoever enters or attempts to enter any bank, credit union, or any savings and loan association, or any building used in whole or in part as a bank, credit union, or as a savings and loan association, with intent to commit in such bank, credit union, or in such savings and loan association, or building, or part thereof, so used, any felony affecting such bank, credit union, or such savings and loan association and in violation of any statute of the United States, or any larceny—
 
@@ -42,7 +42,7 @@ Minimum punishment provisions were omitted from subsection (c). (See reviser's n
 
 The figures “100” were substituted for “50” in view of the fact that the present worth of $100 is less than the value of $50 when that sum was fixed as the dividing line between petit larceny and grand larceny.
 
-The attention of Congress is directed to the mandatory minimum punishment provisions of sections2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
+The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
 
 Necessary minor translations of section references, and changes in phraseology, were made.
 

@@ -18,7 +18,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(5) $600,000 shall be available for grants to applicants in each State; and
 
-&emsp;(6) the remaining funds shall be available for grants to applicants in each State in an amount that bears the same ratio to the amount of remaining funds as the population of the State bears to the population of all of the States that results from a distribution among the States on the basis of each State's population in relation to the population of all States (not including populations of Indian tribes).
+&emsp;(6) the remaining funds shall be available for grants to applicants in each State in anamount that bears the same ratio to the amount of remaining funds as the population of the State bears to the population of all of the States that results from a distribution among the States on the basis of each State's population in relation to the population of all States (not including populations of Indian tribes).
 
 #### (c) Qualification
 
@@ -80,7 +80,7 @@ The application requirements provided in section 3763 <sup>1</sup> of this titl
 
 #### (f) Federal share
 
-The Federal share of a grant made under this subchapter <sup>1</sup> may not exceed 75 percent of thetotal costs of the projects described in the application submitted.
+The Federal share of a grant made under this subchapter <sup>1</sup> may not exceed 75 percent of the total costs of the projects described in the application submitted.
 
 #### (g) Indian tribes
 

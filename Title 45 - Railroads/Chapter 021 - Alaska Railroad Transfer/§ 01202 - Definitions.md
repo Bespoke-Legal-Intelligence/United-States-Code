@@ -58,13 +58,13 @@ As used in this chapter, the term—
 
 #### References in Text
 
-Act of March 12, 1914 (43 U.S.C. 975 et seq.) (popularly referred to as the “Alaska Railroad Act”), referred to in pars. (1) and (10)(A), is act Mar. 12, 1914, ch. 37, 38 Stat. 305, as amended, which enacted section 353a of Title 16, Conservation, and sections 975 to 975g of Title 43, Public Lands, and which was repealed by section 615(a)(1) of Pub. L. 97–468 effective on the date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of this title.
+Act of March 12, 1914 (43 U.S.C. 975 et seq.) (popularly referred to as the “Alaska Railroad Act”), referred to in pars. (1) and (10)(A), is act Mar. 12, 1914, ch. 37, 38 Stat. 305, as amended, which enacted section 353a of Title 16, Conservation, and sections 975 to 975g of Title43, Public Lands, and which was repealed by section 615(a)(1) of Pub. L. 97–468 effective on the date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of this title.
 
 Section 6(i) of the Department of Transportation Act, referred to in par. (1), is section 6(i) of Pub. L. 89–670, which was classified to section 1655(i) of former Title 49, Transportation, prior to repeal by Pub. L. 97–468, title VI, §615(a)(4), Jan. 14, 1983, 96 Stat. 2578.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1208 of this title.
+This section is referred to in sections 1204, 1208 of this title; title 49 section 5339.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -108,7 +108,7 @@ For purposes of this section, the term “State” means each of the several Sta
 
 #### References in Text
 
-Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b etseq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 
@@ -120,7 +120,7 @@ A prior section 338I of act July 1, 1944, was classified to section 254r of this
 
 Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and”.
 
-Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
+Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grantsunder subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
 
 1998—Subsec. (i)(1). Pub. L. 105–392 inserted “, and such sums as may be necessary for each of the fiscal years 1998 through 2002” before period at end.
 

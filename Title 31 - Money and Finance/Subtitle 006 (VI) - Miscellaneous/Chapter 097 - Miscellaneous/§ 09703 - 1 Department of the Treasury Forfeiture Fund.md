@@ -92,7 +92,7 @@ Limitations.—
 
 &emsp;(2) Any payment made under subsection (a)(1)(G) with respect to a seizure or forfeiture of property shall not exceed the value of the property at the time of disposition.
 
-&emsp;(3) The Secretary may exempt the procurement of contract services under the Fund from section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
+&emsp;(3) The Secretary may exempt the procurement of contract services under the Fund fromsection 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
 
 &emsp;(4) The Secretary shall assure that any equitable sharing payment made to a State or local law enforcement agency pursuant to subsection (a)(1)(G) and any property transferred to a State or local law enforcement agency pursuant to subsection (h)—
 
@@ -162,7 +162,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(B) liens and mortgages paid and the amount of money shared with Federal, State, local, and foreign law enforcement agencies during the preceding fiscal year;
 
-&emsp;&emsp;(C) the net amount realized from the operations of the Fund during the preceding fiscal year, the amount of seized cash being held as evidence, and the amount of money that has been carried over into the current fiscal year;
+&emsp;&emsp;(C) the net amount realized from the operations of the Fund during the preceding fiscal year, the amount of seized cash beingheld as evidence, and the amount of money that has been carried over into the current fiscal year;
 
 &emsp;&emsp;(D) any defendant's property, not forfeited at the end of the preceding fiscal year, if the equity in such property is valued at $1,000,000 or more;
 
@@ -194,7 +194,7 @@ Appropriations.—
 
 &emsp;&emsp;(B) $50,000,000 for each fiscal year after fiscal year 1993.
 
-&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995,1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
+&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
 
 &emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
@@ -248,7 +248,7 @@ Customs Forfeiture Fund.—Notwithstanding any other provision of law—
 
 (k)
 
-Limitation of Liability.—The United States shall not be liable in any action relatingto property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
+Limitation of Liability.—The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
 
 (<i>l</i>)
 
@@ -290,7 +290,7 @@ Department of the treasury law enforcement organization.—The term “Departmen
 
 Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994,108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278.)
 
 #### References in Text
 
@@ -312,7 +312,7 @@ Subparagraph (A)(ii), referred to in subsec. (g)(4)(B), means cl. (ii) of subsec
 
 Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
-The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means thedate of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
+The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
 Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, §1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

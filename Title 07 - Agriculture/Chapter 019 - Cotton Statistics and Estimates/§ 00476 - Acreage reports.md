@@ -16,5 +16,5 @@ Section was formerly classified to section 412 of this title.
 
 1958—Pub. L. 85–430 substituted provisions requiring report to show estimated acreage of cotton planted, to be followed with an estimate of acreage for harvest and an estimate of harvested acreage for provisions which required report to show number of acres of cotton in cultivation on July 1 of each year, followed with an estimate of acreage of cotton abandoned since July 1.
 
-1927—Act Mar. 3, 1927, struck out “Bureau of Statistics of the Department of Agriculture”, substituted “on or before the 10th day of July” for “on or about the first Monday in July” and inserted “on July 1, to be followed on September 1 and December 1 with an estimate of the acreage of cotton abandoned since July 1” after “cultivation”.
+1927—Act Mar. 3, 1927, struck out “Bureau of Statistics of the Department of Agriculture”, substituted “on or before the 10th day of July” for “on or about thefirst Monday in July” and inserted “on July 1, to be followed on September 1 and December 1 with an estimate of the acreage of cotton abandoned since July 1” after “cultivation”.
 

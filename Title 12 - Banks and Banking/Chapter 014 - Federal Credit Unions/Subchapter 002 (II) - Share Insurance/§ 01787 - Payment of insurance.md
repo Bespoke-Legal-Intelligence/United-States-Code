@@ -4,7 +4,7 @@
 
 (1)(A) Upon its finding that a Federal credit union insured under this subchapter is bankrupt or insolvent, the Board shall close such credit union for liquidation and appoint itself liquidating agent therefor.
 
-(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for the District of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
+(B) Not later than 10 days after the date on which the Board closes a credit union for liquidation pursuant to paragraph (1), or accepts appointment as liquidating agent pursuant to subsection (b) of this section, such insured credit union may apply to the United States district court for the judicial district in which the principal office of such insured credit union is located or the United States District Court for theDistrict of Columbia, for an order requiring the Board to show cause why it should not be prohibited from continuing such liquidation. Except as otherwise provided in this subparagraph, no court may take any action for or toward the removal of any liquidating agent or, except at the instance of the Board, restrain or affect the exercise of powers or functions of a liquidating agent.
 
 (2) Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
 
@@ -80,7 +80,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (ii) State proceeding
 
-&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
+&emsp;&emsp;&emsp;If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party's right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)),the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.
 
 #### (I) Subpoena authority
 
@@ -454,7 +454,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in subparagraph (C) and paragraphs (4), (5), and (6), theliability of the conservator or liquidating agent for the disaffirmance or repudiation of any contract pursuant to paragraph (1) shall be—
+&emsp;&emsp;Except as otherwise provided in subparagraph (C) and paragraphs (4), (5), and (6), the liability of the conservator or liquidating agent for the disaffirmance or repudiation of any contract pursuant to paragraph (1) shall be—
 
 &emsp;&emsp;&emsp;(i) limited to actual direct compensatory damages; and
 
@@ -544,7 +544,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue aftersuch date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
+&emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
 
 &emsp;&emsp;&emsp;(ii) the conservator or liquidating agent shall—
 
@@ -672,7 +672,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(iv) all property securing any claim described in clause (ii) or (iii) under any such contract; or
 
-&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to in subparagraph (A) (with respect to such person and any affiliate of such person).
+&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to insubparagraph (A) (with respect to such person and any affiliate of such person).
 
 #### (10) Notification of transfer
 
@@ -698,7 +698,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;The conservator or liquidating agent may enforce any contract, other than a director'sor officer's liability insurance contract or a credit union bond, entered into by the credit union notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency or the appointment of a conservator or liquidating agent.
+&emsp;&emsp;The conservator or liquidating agent may enforce any contract, other than a director's or officer's liability insurance contract or a credit union bond, entered into by the credit union notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency or the appointment of a conservator or liquidating agent.
 
 #### (B) Certain rights not affected
 
@@ -748,7 +748,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (2) Dividends on subrogated amounts
 
-&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but such accountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
+&emsp;The subrogation of the Board under paragraph (1) with respect to any insured credit union shall include the right on the part of the Board to receive the same dividends from the proceeds of the assets of such credit union as would have been payable to the accountholder on a claim for the insured deposit, but suchaccountholder shall retain such claim for any uninsured or unassumed portion of the deposit.
 
 #### (f) Valuation of claims in default
 
@@ -924,7 +924,7 @@ Subsecs. (<i>l</i>) to (p). Pub. L. 101–73, §1217(a)(3), redesignated former 
 
 1987—Subsec. (a)(1). Pub. L. 100–86, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
+Subsec. (j). Pub. L. 100–86, §714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulationof the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
 
 1986—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

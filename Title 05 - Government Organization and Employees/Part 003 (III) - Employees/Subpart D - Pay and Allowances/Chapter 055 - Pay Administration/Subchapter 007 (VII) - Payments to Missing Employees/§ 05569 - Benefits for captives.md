@@ -66,11 +66,11 @@
 
 (6) Any payment made under paragraph (1) which is later denied under paragraph (3)(B) is a claim of the United States Government for purposes of section 3711 of title 31.
 
-(e)(1) Under regulations prescribed by the President, the benefits provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Act but excluding the benefits provided by sections 104, 105, 106, 400 through 408,<sup>1</sup> 501 through 512, and 514 of such Act, shall be provided in the case of any individual who is a captive.
+(e)(1) Under regulations prescribed by the President, the benefits provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act, shall be provided in the case of any individual who is a captive.
 
 (2) In applying such Act under this subsection—
 
-&emsp;(A) the term “person in the military service” is deemed to include any such captive;
+&emsp;(A) the term “servicemember” is deemed to include any such captive;
 
 &emsp;(B) the term “period of military service” is deemed to include the period during which the individual is in a captive status; and
 
@@ -132,7 +132,7 @@
 
 (k) Any benefit or payment pursuant to this section shall be paid out of funds available for salaries and expenses of the relevant agency of the United States.
 
-(Added Pub. L. 99–399, title VIII, §803(a), Aug. 27, 1986, 100 Stat. 879; amended Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 99–399, title VIII, §803(a), Aug. 27, 1986, 100 Stat. 879; amended Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–189, §2(b)(2), Dec. 19, 2003, 117 Stat. 2865.)
 
 #### References in Text
 
@@ -140,15 +140,17 @@ The date of the enactment of the Victims of Terrorism Compensation Act \[title V
 
 Section 802 of the Victims of Terrorism Compensation Act \[Pub. L. 99–399\], referred to in subsec. (d)(2), is set out as a note below.
 
-The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. Sections 104, 105, 106, 400 through 408, 501 through 512, 514, and 701 of the Act are classified to sections 514, 515, 516, 540 through 548, 561 through 572, 574, and 591, respectively, of the Appendix to Title 50. For complete classification of this Act to the Code, see section 501 of Appendix to Title 50 and Tables.
-
-Section 408, referred to in subsec. (e)(1), is section 408 of act Oct. 17, 1940, ch. 888, 54 Stat. 1185, as amended, which was classified to section 548 of the Appendix to Title 50, War and National Defense, and was repealed by Pub. L. 102–12, §9(18), Mar. 18, 1991, 105 Stat. 40.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
 
+2003—Subsec. (e)(1). Pub. L. 108–189, §2(b)(2)(A), which directed substitution of “provided by the Servicemembers Civil Relief Act, including the benefits provided by section 702 of such Act but excluding the benefits provided by sections 104, 105, and 106, title IV, and title V (other than sections 501 and 510) of such Act” for “ ‘provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940’ and all that follows through ‘of such Act’ ” was executed by making the substitution for “provided by the Soldiers’ and Sailors’ Civil Relief Act of 1940, including the benefits provided by section 701 of such Actbut excluding the benefits provided by sections 104, 105, 106, 400 through 408, 501 through 512, and 514 of such Act” to reflect the probable intent of Congress.
+
+Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted “servicemember” for “person in the military service”.
+
 1991—Subsec. (f)(3)(A). Pub. L. 102–83 substituted “section 3524 of title 38” for “section 1724 of title 38”.
 
-#### Short Title
+#### Short Title of 1986 Amendment
 
 Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amending section 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
 
@@ -198,7 +200,7 @@ Sec. 2. The functions vested in the President by that part of section 803(a) of 
 
 Sec. 3. The functions vested in the President by section 806(a) (to be codified at 37 U.S.C. 559), section 806(c) (to be codified at 10 U.S.C. 1095 \[now 10 U.S.C. 1095a\]), and section 806(d) (to be codified at 10 U.S.C. 2181–2185) are delegated to the Secretary of Defense.
 
-Sec. 4. The functions vested in the President by section 806(b) (to be codified at 10 U.S.C. 1051 \[now 10U.S.C. 1032\]) are delegated to the Secretary of Defense, to be exercised in consultation with the Secretary of Labor.
+Sec. 4. The functions vested in the President by section 806(b) (to be codified at 10 U.S.C. 1051 \[now 10 U.S.C. 1032\]) are delegated to the Secretary of Defense, to be exercised in consultation with the Secretary of Labor.
 
 Sec. 5. The Secretaries of State and Defense shall consult with each other and with the heads of other appropriate Executive departments and agencies in carrying out their functions under this Order.
 
@@ -209,6 +211,4 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5570 of this title; title 37 section 559.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

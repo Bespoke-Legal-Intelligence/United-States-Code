@@ -54,5 +54,5 @@ Appropriations.—There are authorized to be appropriated such sums as may be ne
 
 #### Effective Date
 
-Section effective only with respect to personal injuries sustained on or after Apr. 19, 1968, see section 2 ofPub. L. 90–291, set out as a note under section 8191 of this title.
+Section effective only with respect to personal injuries sustained on or after Apr. 19, 1968, see section 2 of Pub. L. 90–291, set out as a note under section 8191 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;There is hereby imposed on the agreement of any organization manager to the making of any expenditure, knowing that it is a politicalexpenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any organization manager to the making of any expenditure, knowing that it is a political expenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any organization manager who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 
@@ -98,7 +98,7 @@ Section 1311(d)(1), (2) of Pub. L. 104–168 provided that:
 
 “(1)
 
-In general.—The amendments made by this section \[enacting section 4958 of this title and amending this section and sections 4963, 6213, 7422, and 7454 of thistitle\] (other than subsection (b)) \[amending section 501 of this title\] shall apply to excess benefit transactions occurring on or after September 14, 1995.
+In general.—The amendments made by this section \[enacting section 4958 of this title and amending this section and sections 4963, 6213, 7422, and 7454 of this title\] (other than subsection (b)) \[amending section 501 of this title\] shall apply to excess benefit transactions occurring on or after September 14, 1995.
 
 “(2)
 

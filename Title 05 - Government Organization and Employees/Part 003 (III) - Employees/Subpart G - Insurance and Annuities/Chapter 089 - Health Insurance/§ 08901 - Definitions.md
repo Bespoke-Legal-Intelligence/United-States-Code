@@ -72,7 +72,7 @@ For the purpose of this chapter—
 
 &emsp;(8) “employee organization” means—
 
-&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or in which membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
+&emsp;&emsp;(A) an association or other organization of employees which is national in scope, or inwhich membership is open to all employees of a Government agency who are eligible to enroll in a health benefits plan under this chapter and which, after December 31, 1978, and before January 1, 1980, applied to the Office for approval of a plan provided under section 8903(3) of this title; and
 
 &emsp;&emsp;(B) an association or other organization which is national in scope, in which membership is open only to employees, annuitants, or former spouses, or any combination thereof, and which, during the 90-day period beginning on the date of enactment of section 8903a of this title, applied to the Office for approval of a plan provided under such section;
 
@@ -134,7 +134,7 @@ Aug. 31, 1964, Pub. L. 88–531, §1, 78 Stat. 737.
 
 July 1, 1960, Pub. L. 86–568, §115(d) “(f) (1st sentence, less words between 1st and 2d commas)”, 74 Stat. 303.
 
-The definition of “employee” in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia,an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of “Congressional employee” in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
+The definition of “employee” in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of “Congressional employee” in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
 
 In paragraph (1)(ii), the words “the United States” are substituted for “a State of the United States or the District of Columbia”.
 
@@ -354,7 +354,7 @@ Plan.—For purposes of chapter 89 of title 5, United States Code, any period of
 
 &emsp;“(1) in a health benefits plan administered by the Federal Deposit Insurance Corporation before the termination of such plan on or before January 2, 1999; or
 
-&emsp;“(2) subject to subsection (c), in a health benefits plan (not under chapter 89 of such title) with respect to which the eligibility of any employees or retired employees of the Board of Governors of the Federal Reserve System terminates on or before January 2, 1999,
+&emsp;“(2) subject to subsection (c), in a health benefits plan (not under chapter 89 of such title) with respect to which the eligibility of any employees or retiredemployees of the Board of Governors of the Federal Reserve System terminates on or before January 2, 1999,
 
 > shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 

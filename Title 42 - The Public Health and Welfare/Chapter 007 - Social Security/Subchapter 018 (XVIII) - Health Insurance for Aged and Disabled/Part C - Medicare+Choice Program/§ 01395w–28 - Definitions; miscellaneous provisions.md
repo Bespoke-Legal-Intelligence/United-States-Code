@@ -56,6 +56,38 @@ In this part—
 
 > &emsp;&emsp;If the amount of the deductible under clause (ii) is not a multiple of $50, the amount shall be rounded to the nearest multiple of $50.
 
+#### (4) MA regional plan
+
+&emsp;The term “MA regional plan” means an MA plan described in section 1395w–21(a)(2)(A)(i) of this title—
+
+&emsp;&emsp;(A) that has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;
+
+&emsp;&emsp;(B) that provides for reimbursement for all covered benefits regardless of whether such benefits are provided within such network of providers; and
+
+&emsp;&emsp;(C) the service area of which is one or more entire MA regions.
+
+#### (5) MA local plan
+
+&emsp;The term “MA local plan” means an MA plan that is not an MA regional plan.
+
+#### (6) Specialized MA plans for special needs individuals
+
+#### (A) In general
+
+&emsp;&emsp;The term “specialized MA plan for special needs individuals” means an MA plan that exclusively serves special needs individuals (as defined in subparagraph (B)).
+
+#### (B) Special needs individual
+
+&emsp;&emsp;The term “special needs individual” means an MA eligible individual who—
+
+&emsp;&emsp;&emsp;(i) is institutionalized (as defined by the Secretary);
+
+&emsp;&emsp;&emsp;(ii) is entitled to medical assistance under a State plan under subchapter XIX of this chapter; or
+
+&emsp;&emsp;&emsp;(iii) meets such requirements as the Secretary may determine would benefit from enrollment in such a specialized MA plan described in subparagraph (A) for individuals with severe or disabling chronic conditions.
+
+> &emsp;&emsp;The Secretary may waive application of section 1395w–21(a)(3)(B) of this title in the case of an individual described in clause (i), (ii), or (iii) of this subparagraph and may apply rules similar to the rules of section 1395eee(c)(4) of this title for continued eligibility of special needs individuals.
+
 #### (c) Other references to other terms
 
 #### (1) Medicare+Choice eligible individual
@@ -73,6 +105,10 @@ In this part—
 #### (4) Medicare+Choice monthly basic beneficiary premium; Medicare+Choice monthly supplemental beneficiary premium
 
 &emsp;The terms “Medicare+Choice monthly basic beneficiary premium” and “Medicare+Choice monthly supplemental beneficiary premium” are defined in section 1395w–24(a)(2) of this title.
+
+#### (5) MA local area
+
+&emsp;The term “MA local area” is defined in section 1395w–23(d)(2) of this title.
 
 #### (d) Coordinated acute and long-term care benefits under Medicare+Choice plan
 
@@ -108,9 +144,13 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (4) Payment adjustment
 
-&emsp;Under regulations of the Secretary, in the case of individuals enrolled under this part under a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
+&emsp;Under regulations of the Secretary, in the case of individuals enrolled under this partunder a Medicare+Choice religious fraternal benefit society plan described in paragraph (2), the Secretary shall provide for such adjustment to the payment amounts otherwise established under section 1395w–24 of this title as may be appropriate to assure an appropriate payment level, taking into account the actuarial characteristics and experience of such individuals.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387.)
+#### (f) Restriction on enrollment for specialized MA plans for special needs individuals
+
+In the case of a specialized MA plan for special needs individuals (as defined in subsection (b)(6) of this section), notwithstanding any other provision of this part and in accordance with regulations of the Secretary and for periods before January 1, 2009, the plan may restrict the enrollment of individuals under the plan to individuals who are within one or more classes of special needs individuals.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208.)
 
 #### References in Text
 
@@ -120,9 +160,35 @@ The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classifi
 
 #### Amendments
 
+2003—Subsec. (b)(4), (5). Pub. L. 108–173, §221(b)(1), added pars. (4) and (5).
+
+Subsec. (b)(6). Pub. L. 108–173, §231(b), added par. (6).
+
+Subsec. (c)(5). Pub. L. 108–173, §221(d)(2), added par. (5).
+
+Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
+
 1999—Subsec. (e)(2). Pub. L. 106–113 substituted “section 1395w–21(a)(2) of this title” for “section 1395w–21(a)(2)(A) of this title” in introductory provisions.
+
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 221(b)(1), (d)(2) of Pub. L. 108–173 applicable with respect to plan years beginning on or after Jan. 1, 2006, see section 223(a) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+Amendment by section 231(b), (c) of Pub. L. 108–173 effective Dec. 8, 2003, see section 231(f)(1) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Regulations
+
+Pub. L. 108–173, title II, §231(f)(2), Dec. 8, 2003, 117 Stat. 2208, provided that: “No later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall issue final regulations to establish requirements for special needs individuals under section 1859(b)(6)(B)(iii) of the Social Security Act \[subsec. (b)(6)(B)(iii) of this section\], as added by subsection (b).”
+
+#### Authority To Designate Other Plans as Specialized MA Plans
+
+Secretary of Health and Human Services authorized, in promulgating regulations to carry out subsection (b)(6) of this section, to provide, notwithstanding subsection (b)(6)(A) of this section, for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals, see section 231(d) of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–23 of this title; title 26 section 138.
+This section is referred to in sections 1395w–21, 1395w–22, 1395w–23, 1395w–101 of this title; title 26 section 138.
 

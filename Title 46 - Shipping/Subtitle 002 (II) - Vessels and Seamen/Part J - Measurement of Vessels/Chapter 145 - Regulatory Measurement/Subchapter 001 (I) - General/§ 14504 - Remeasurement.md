@@ -6,7 +6,7 @@
 
 &emsp;(2) the vessel or the use of its space is changed in a way that substantially affects its tonnage;
 
-&emsp;(3) after being measured under subchapter III of this chapter, the vessel becomes subject to subchapter II of this chapter because the vessel or its use is changed; or
+&emsp;(3) after being measured under subchapter III of this chapter, the vessel becomes subjectto subchapter II of this chapter because the vessel or its use is changed; or
 
 &emsp;(4) although not required to be measured under subchapter II of this chapter, the vessel was measured under subchapter II and the owner requests that the vessel be measured under subchapter III of this chapter.
 

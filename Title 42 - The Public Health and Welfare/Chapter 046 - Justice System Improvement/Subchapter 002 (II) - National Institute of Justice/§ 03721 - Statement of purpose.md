@@ -302,7 +302,7 @@ Appointment date.—Members of the Commission shall be appointed no later than 9
 
 “(<i>l</i>) Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
 
-“(m) The Commission may secure directly from any Federal agency information necessary to enable it to carry out this section. Upon request of the chairpersonof the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
+“(m) The Commission may secure directly from any Federal agency information necessary to enable it to carry out this section. Upon request of the chairperson of the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
 
 “(n) The Commission may accept, use, and dispose of gifts or donations of services or property.
 

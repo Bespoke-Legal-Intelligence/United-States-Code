@@ -2,7 +2,7 @@
 
 #### (a) Appointment; compensation; term of office
 
-The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person is appointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
+The Director of the Foundation (referred to in this chapter as the “Director”) shall be appointed by the President, by and with the advice and consent of the Senate. Before any person isappointed as Director, the President shall afford the Board an opportunity to make recommendations to him with respect to such appointment. The Director shall receive basic pay at the rate provided for level II of the Executive Schedule under section 5313 of title 5, and shall serve for a term of six years unless sooner removed by the President.
 
 #### (b) Exercise of authority of Foundation; actions as final and binding upon the Foundation
 
@@ -114,7 +114,7 @@ Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
 #### Feasibility Study of the Operation of the Peer Review System in the Evaluation of Grant Proposals
 
-Pub. L. 94–471, §2(f), Oct. 11, 1976, 90 Stat. 2053, provided that: “The Director of the National ScienceFoundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
+Pub. L. 94–471, §2(f), Oct. 11, 1976, 90 Stat. 2053, provided that: “The Director of the National Science Foundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
 
 #### Science for Citizens Program; Preparation and Submission of Plan to Committees of Congress
 

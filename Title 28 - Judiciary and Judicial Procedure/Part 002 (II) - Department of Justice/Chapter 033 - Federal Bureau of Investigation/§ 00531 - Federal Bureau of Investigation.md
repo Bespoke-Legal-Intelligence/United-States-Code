@@ -8,7 +8,7 @@ The Federal Bureau of Investigation is in the Department of Justice.
 
 The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, §1 (par. beginning “From the appropriations for the prosecution of crimes”), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
 
-Section 3 of Executive Order No. 6166 of June 10, 1933, specifically recognized the Bureau of Investigation in the Department of Justice and provided that all thatBureau's functions together with the investigative functions of the Bureau of Prohibition were “transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation.”
+Section 3 of Executive Order No. 6166 of June 10, 1933, specifically recognized the Bureau of Investigation in the Department of Justice and provided that all that Bureau's functions together with the investigative functions of the Bureau of Prohibition were “transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation.”
 
 The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date.
 
@@ -62,7 +62,7 @@ Status.—Each member of the CASMIRC (and each individual from any State or loca
 
 &emsp;“(3)
 
-Training.—CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children andthe Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
+Training.—CASMIRC personnel, under the guidance of the Federal Bureau of Investigation's National Center for the Analysis of Violent Crime and in consultation with the National Center For Missing and Exploited Children, shall develop a specialized course of instruction devoted to training members of the CASMIRC consistent with the purpose of this section. The CASMIRC shall also work with the National Center For Missing and Exploited Children and the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice to develop a course of instruction for State and local law enforcement personnel to facilitate the dissemination of the most current multidisciplinary expertise in the investigation of child abductions, mysterious disappearances of children, child homicides, and serial murder of children.
 
 “(e)
 

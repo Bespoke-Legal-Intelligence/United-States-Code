@@ -228,7 +228,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 199
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Section 101\[(a)\] \[title VIII, §807\] of Pub. L. 104–134 provided that: “Any compensatory damages awarded toa prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
+Section 101\[(a)\] \[title VIII, §807\] of Pub. L. 104–134 provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
 
 #### Notice to Crime Victims of Pending Damage Award
 

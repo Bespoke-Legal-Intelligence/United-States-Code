@@ -8,7 +8,7 @@ Authority.—The head of an agency may enter into a contract for travel-related 
 
 Credits, Discounts, Commissions, Fees.—(1) A contract entered into under this section may provide for credits, discounts, or commissions or other fees to accrue to the Department of Defense. The accrual and amounts of credits, discounts, or commissions or other fees may be determined on the basis of the volume (measured in the number or total amount of transactions or otherwise) of the travel-related sales that are made by the contractor under the contract.
 
-(2) The evaluation factors applicable to offers for a contract under this section may include a factor that relates to the estimated aggregate value of any credits, discounts, commissions, or other fees that would accrue to the Department of Defense for the travel-related sales made under the contract.
+(2) The evaluation factors applicable to offers for a contract under this section may include afactor that relates to the estimated aggregate value of any credits, discounts, commissions, or other fees that would accrue to the Department of Defense for the travel-related sales made under the contract.
 
 (3) Commissions or fees received by the Department of Defense as a result of travel-related sales made under a contract entered into under this section shall be distributed as follows:
 
@@ -31,4 +31,8 @@ Definitions.—In this section:
 Inapplicability to Coast Guard and NASA.—This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
 (Added Pub. L. 105–261, div. A, title VIII, §813(a), Oct. 17, 1998, 112 Stat. 2087.)
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

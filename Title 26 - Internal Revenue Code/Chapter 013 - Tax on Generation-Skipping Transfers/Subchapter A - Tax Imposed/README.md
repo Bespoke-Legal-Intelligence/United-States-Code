@@ -9,6 +9,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 107–16, title V, §532(c)(15), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, the table of sections is temporarily amended by striking out the item relating to section 2604.</i>
+
 #### Amendments
 
 1986—Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2717, in amending analysis of subchapter A generally, added item 2604.

@@ -12,7 +12,7 @@ Report on Environmental Restoration Activities.—(1) The Secretary of Defense s
 
 &emsp;(C) A statement of the total cost estimated for such response actions.
 
-&emsp;(D) A statement of the amount of funds obligated by the Secretary for such response actions, and the progress made in implementingthe response actions during the fiscal year preceding the year in which the report is submitted, including an explanation of—
+&emsp;(D) A statement of the amount of funds obligated by the Secretary for such response actions, and the progress made in implementing the response actions during the fiscal year preceding the year in which the report is submitted, including an explanation of—
 
 &emsp;&emsp;(i) any cost overruns for such response actions, if the amount of funds obligated for those response actions exceeds the estimated cost for those response actions by the greater of 15 percent of the estimated cost or $10,000,000; and
 
@@ -144,7 +144,7 @@ Subsec. (d). Pub. L. 107–107, §315(a)(2), (b), redesignated subsec. (e) as (d
 
 Subsec. (e). Pub. L. 107–107, §315(a)(2), redesignated subsec. (e) as (d).
 
-1999—Subsec. (b). Pub. L. 106–65, §322(a), amended heading and text of subsec. (b) generally. Prior toamendment, subsec. (b) consisted of pars. (1) and (2) relating to reports on environmental compliance activities.
+1999—Subsec. (b). Pub. L. 106–65, §322(a), amended heading and text of subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to reports on environmental compliance activities.
 
 Subsec. (d). Pub. L. 106–65, §323(c)(1), added subsec. (d).
 
@@ -224,7 +224,7 @@ Report on Environmental Restoration Activities.—The Secretary of Defense shall
 
 &emsp;&emsp;“(B) all other defense sites.
 
-&emsp;“(2) A comprehensive plan for addressing the remediation of unexploded ordinance, discarded military munitions, and munitions constituents at defense sites, including an assessment of the funding required and the period of time over which such funding will be required.
+&emsp;“(2) A comprehensive plan for addressing the remediation of unexploded ordinance \[sic\], discarded military munitions, and munitions constituents at defense sites, including an assessment of the funding required and the period of time over which such funding will be required.
 
 &emsp;“(3) An assessment of the technology currently available for the remediation of unexploded ordnance, discarded military munitions, and munitions constituents.
 
@@ -270,7 +270,7 @@ Section 344(b) of Pub. L. 105–85 provided that: “The statement submitted by 
 
 #### Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973
 
-Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997, 111 Stat. 1904, provided that:
+Section 324(b), (c) of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(b)
 
@@ -278,19 +278,7 @@ Sense of Congress.—(1) It is the sense of Congress that it should be an object
 
 “(2) In this subsection and subsection (c), the terms ‘Convention’ and ‘ship’ have the meanings given such terms in section 2(a) of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(a)).
 
-“(c)
-
-Report on Compliance With Annex V to the Convention.—The Secretary of Defense shall include in each report on environmental compliance activities submitted to Congress under section 2706(b) of title 10, United States Code, the following information:
-
-&emsp;“(1) A list of the ship types, if any, for which the Secretary of the Navy has made the determination referred to in paragraph (2)(C) of section 3(c) of the Act to Prevent Pollution from Ships \[33 U.S.C. 1902(c)(2)(C)\], as amended by subsection (a)(2) of this section.
-
-&emsp;“(2) A list of ship types which the Secretary of the Navy has determined can comply with Regulation 5 of Annex V to the Convention.
-
-&emsp;“(3) A summary of the progress made by the Navy in implementing the requirements of paragraphs (2) and (3) of such section 3(c), as so amended.
-
-&emsp;“(4) A description of any emerging technologies offering the potential to achieve full compliance with Regulation 5 of Annex V to the Convention.
-
-&emsp;“(5) The amount and nature of the discharges in special areas, not otherwise authorized under the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), during the preceding year from ships referred to in section 3(b)(1)(A) of such Act owned or operated by the Department of the Navy.”
+“\[(c) Repealed. Pub. L. 108–136, div. A, title X, §1031(f)(1), Nov. 24, 2003, 117 Stat. 1604.\]”
 
 #### Report on Services Obtained Pursuant to Reimbursement Agreements During Fiscal Year 1996
 

@@ -98,7 +98,7 @@ Time sanctions are imposed.—Any sanction—
 
 Subsec. (f)(4). Pub. L. 103–465, §341(b)(2), substituted “subclause (I) or (II) of paragraph (3)(B)(i)” for “subparagraph (A) or (B) of paragraph (3)” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 103–465, §343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
+Subsec. (g)(1). Pub. L. 103–465, §343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for“(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
 
 Subsec. (g)(3). Pub. L. 103–465, §343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
 
@@ -296,7 +296,7 @@ Legislative recommendations.—The general report may also include, if appropria
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
+Amendment by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement,referred to in section 3511(d)(17) of this title, enters into force with respect to the United States \[Jan. 1, 1995\], see section 344(a) of Pub. L. 103–465, set out as a note under section 2512 of this title.
 
 #### Termination Date of 1988 Amendment
 

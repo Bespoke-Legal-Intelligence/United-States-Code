@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) arranged within each such product—
 
-&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing businessother than as individuals, the first word in the name of such debtors; and
+&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number of such debtors; and
 
@@ -72,7 +72,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
 
-&emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
+&emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the nameof each county or parish in which the farm products are produced or located;
 
 &emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
 

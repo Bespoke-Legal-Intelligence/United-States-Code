@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior shall ensure, through the establishment of a new trainingprogram or through the supplement of existing training programs, that all Bureau of Indian Affairs and tribal law enforcement and judicial personnel shall have available training in the investigation and prosecution of offenses relating to illegal narcotics and in alcohol and substance abuse prevention and treatment. Any training provided to Bureau of Indian Affairs and tribal law enforcement and judicial personnel as provided in this subsection shall specifically include training in the problems of youth alcohol and substance abuse prevention and treatment. Such training shall be coordinated with the Indian Health Service in the carrying out of its responsibilities under section 2475 <sup>1</sup> of this title.
+The Secretary of the Interior shall ensure, through the establishment of a new training program or through the supplement of existing training programs, that all Bureau of Indian Affairs and tribal law enforcement and judicial personnel shall have available training in the investigation and prosecution of offenses relating to illegal narcotics and in alcohol and substance abuse prevention and treatment. Any training provided to Bureau of Indian Affairs and tribal law enforcement and judicial personnel as provided in this subsection shall specifically include training in the problems of youth alcohol and substance abuse prevention and treatment. Such training shall be coordinated with the Indian Health Service in the carrying out of its responsibilities under section 2475 <sup>1</sup> of this title.
 
 #### (b) Authorization
 

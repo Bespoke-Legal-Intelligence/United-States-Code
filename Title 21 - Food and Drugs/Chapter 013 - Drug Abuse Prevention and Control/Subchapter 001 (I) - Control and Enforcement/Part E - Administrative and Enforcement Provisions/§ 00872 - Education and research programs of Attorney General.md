@@ -112,7 +112,7 @@ Pub. L. 104–237, title II, §202, Oct. 3, 1996, 110 Stat. 3101, provided that:
 
 “(a)
 
-Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorized to take with regard to the regulation of listed chemicals under current law.
+Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorizedto take with regard to the regulation of listed chemicals under current law.
 
 “(b)
 

@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, no import relief may be pr
 
 &emsp;(2) in the case of a Mexican article, after the date that is 10 years after the date on which the Agreement enters into force;
 
-> unless the article against which the action is taken is an item for which the transition period for tariff elimination set out in the United States Schedule to Annex 302.2 of the Agreement is greater than 10 years, in which case the period during which relief may be granted shall be the period of staged tariff elimination for that article.
+> unless the article against which the action is taken is an item for which the transition period for tariff elimination set out in the United States Schedule to Annex 302.2 of the Agreementis greater than 10 years, in which case the period during which relief may be granted shall be the period of staged tariff elimination for that article.
 
 #### (b) Exception
 

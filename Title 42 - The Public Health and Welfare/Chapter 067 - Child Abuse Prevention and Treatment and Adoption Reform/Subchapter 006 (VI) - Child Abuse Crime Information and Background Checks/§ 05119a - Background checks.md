@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-(1) A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of theState to request a nationwide background check for the purpose of determining whether a provider has been convicted of a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
+(1) A State may have in effect procedures (established by State statute or regulation) that require qualified entities designated by the State to contact an authorized agency of the State to request a nationwide background check for the purpose of determining whether a provider has been convicted of a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities.
 
 (2) The authorized agency shall access and review State and Federal criminal history records through the national criminal history background check system and shall make reasonable efforts to respond to the inquiry within 15 business days.
 
-(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and with procedures for requesting national criminal fingerprint background checks, if any, established by the State.
+(3) In the absence of State procedures referred to in paragraph (1), a qualified entity designated under paragraph (1) may contact an authorized agency of the State to request national criminal fingerprint background checks. Qualified entities requesting background checks under this paragraph shall comply with the guidelines set forth in subsection (b) of this section and withprocedures for requesting national criminal fingerprint background checks, if any, established by the State.
 
 #### (b) Guidelines
 
@@ -71,6 +71,184 @@ Subsec. (b)(4). Pub. L. 103–322, §320928(a)(2)(B), substituted “the provide
 Subsec. (d). Pub. L. 103–322, §320928(c), inserted “(other than itself)” after “failure of a qualified entity”.
 
 Subsec. (e). Pub. L. 103–322, §320928(e), substituted “eighteen dollars, respectively, or the actual cost, whichever is less,” for “the actual cost”.
+
+#### Pilot Program for National Criminal History Background Checks and Feasibility Study
+
+Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883, provided that:
+
+“(a)
+
+Establishment of Pilot Program.—
+
+&emsp;“(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Apr. 30, 2003\], the Attorney General shall establish a pilot program for volunteer groups to obtain national and State criminal history background checks through a 10-fingerprint check to be conducted utilizing State criminal records and the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+
+&emsp;“(2)
+
+State pilot program.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Attorney General shall designate 3 States as participants in an 18-month State pilot program.
+
+&emsp;&emsp;“(B)
+
+Volunteer organization requests.—A volunteer organization in one of the 3 States participating in the State pilot program under this paragraph that is part of the Boys and Girls Clubs of America, the National Mentoring Partnerships, or the National Council of Youth Sports may submit a request for a 10-fingerprint check from the participating State. A volunteer organization in a participating State may not submit background check requests under paragraph (3).
+
+&emsp;&emsp;“(C)
+
+State check.—The participating State under this paragraph after receiving a request under subparagraph (B) shall conduct a State background check and submit a request that a Federal check be performed through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation, to the Attorney General, in a manner to be determined by the Attorney General.
+
+&emsp;&emsp;“(D)
+
+Information provided.—Under procedures established by the Attorney General, any criminal history record information resulting from the State and Federal check under subparagraph (C) shall be provided to the State or National Center for Missing and Exploited Children consistent with the National Child Protection Act \[of 1993, 42 U.S.C. 5119 et seq.\].
+
+&emsp;&emsp;“(E)
+
+Costs.—A State may collect a fee to perform a criminal background check under this paragraph which may not exceed the actual costs to the State to perform such a check.
+
+&emsp;&emsp;“(F)
+
+Timing.—For any background check performed under this paragraph, the State shall provide the State criminal record information to the Attorney General within 7 days after receiving the request from the organization, unless the Attorney General determines during the feasibility study that such a check cannot reasonably be performed within that time period. The Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 7 business days after receiving the request from the State.
+
+&emsp;“(3)
+
+Child safety pilot program.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Attorney General shall establish an 18-month Child Safety Pilot Program that shall provide for the processing of 100,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+
+&emsp;&emsp;“(B)
+
+Eligible organizations.—An organization described in this subparagraph is an organization in a State not designated under paragraph (2) that has received a request allotment pursuant to subparagraph (C).
+
+&emsp;&emsp;“(C)
+
+Request allotments.—The following organizations may allot requests as follows:
+
+&emsp;&emsp;&emsp;“(i) 33,334 for the Boys and Girls Clubs of America.
+
+&emsp;&emsp;&emsp;“(ii) 33,333 for the National Mentoring Partnership.
+
+&emsp;&emsp;&emsp;“(iii) 33,333 for the National Council of Youth Sports.
+
+&emsp;&emsp;“(D)
+
+Procedures.—The Attorney General shall notify the organizations described in subparagraph (C) of a process by which the organizations may provide fingerprint cards to the Attorney General.
+
+&emsp;&emsp;“(E)
+
+Volunteer information required.—An organization authorized to request a background check under this paragraph shall—
+
+&emsp;&emsp;&emsp;“(i) forward to the Attorney General the volunteer's fingerprints; and
+
+&emsp;&emsp;&emsp;“(ii) obtain a statement completed and signed by the volunteer that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) sets out the provider or volunteer's name, address, date of birth appearing on a valid identification document as defined in section 1028 of title 18, United States Code, and a photocopy of the valid identifying document;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) states whether the volunteer has a criminal record, and, if so, sets out the particulars of such record;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) notifies the volunteer that the Attorney General may perform a criminal history background check and that the volunteer's signature to the statement constitutes an acknowledgment that such a check may be conducted;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) notifies the volunteer that prior to and after the completion of the background check, the organization may choose to deny the provider access to children; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) notifies the volunteer of his right to correct an erroneous record held by the Attorney General.
+
+&emsp;&emsp;“(F)
+
+Timing.—For any background checks performed under this paragraph, the Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 14 business days after receiving the request from the organization.
+
+&emsp;&emsp;“(G)
+
+Determinations of fitness.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Consistent with the privacy protections delineated in the National Child Protection Act \[of 1993\] (42 U.S.C. 5119 \[et seq.\]), the National Center for Missing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Child safety pilot program.—The National Center for Missing and Exploited Children shall convey that determination to the organizations making requests under this paragraph.
+
+&emsp;“(4)
+
+Fees collected by attorney general.—The Attorney General may collect a fee which may not exceed $18 to cover the cost to the Federal Bureau of Investigation to conduct the background check under paragraph (2) or (3).
+
+“(b)
+
+Rights of Volunteers.—Each volunteer who is the subject of a criminal history background check under this section is entitled to contact the Attorney General to initiate procedures to—
+
+&emsp;“(1) obtain a copy of their criminal history record report; and
+
+&emsp;“(2) challenge the accuracy and completeness of the criminal history record information in the report.
+
+“(c)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 and 2005 to carry out the requirements of this section.
+
+&emsp;“(2)
+
+State program.—There is authorized to be appropriated such sums as may be necessary to the Attorney General for the States designated in subsection (a)(1) for fiscal years 2004 and 2005 to establish and enhance fingerprint technology infrastructure of the participating State.
+
+“(d)
+
+Feasibility Study for a System of Background Checks for Employees and Volunteers.—
+
+&emsp;“(1)
+
+Study required.—The Attorney General shall conduct a feasibility study within 180 days after the date of the enactment of this Act \[Apr. 30, 2003\]. The study shall examine, to the extent discernible, the following:
+
+&emsp;&emsp;“(A) The current state of fingerprint capture and processing at the State and local level, including the current available infrastructure, State system capacities, and the time for each State to process a civil or volunteer print from the time of capture to submission to the Federal Bureau of Investigation (FBI).
+
+&emsp;&emsp;“(B) The intent of the States concerning participation in a nationwide system of criminal background checks to provide information to qualified entities.
+
+&emsp;&emsp;“(C) The number of volunteers, employees, and other individuals that would require a fingerprint-based criminal background check.
+
+&emsp;&emsp;“(D) The impact on the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation in terms of capacity and impact on other users of the system, including the effect on Federal Bureau of Investigation work practices and staffing levels.
+
+&emsp;&emsp;“(E) The current fees charged by the Federal Bureau of Investigation, States and local agencies, and private companies to process fingerprints and conduct background checks.
+
+&emsp;&emsp;“(F) The existence of ‘model’ or best practice programs which could easily be expanded and duplicated in other States.
+
+&emsp;&emsp;“(G) The extent to which private companies are currently performing background checks and the possibility of using private companies in the future to perform any of the background check process, including, but not limited to, the capture and transmission of fingerprints and fitness determinations.
+
+&emsp;&emsp;“(H) The cost of development and operation of the technology and the infrastructure necessary to establish a nationwide fingerprint-based and other criminal background check system.
+
+&emsp;&emsp;“(I) The extent of State participation in the procedures for background checks authorized in the National Child Protection Act \[of 1993\] (Public Law 103–209), as amended by the Volunteers for Children Act (sections 221 and 222 of Public Law 105–251).
+
+&emsp;&emsp;“(J) The extent to which States currently provide access to nationwide criminal history background checks to organizations that serve children.
+
+&emsp;&emsp;“(K) The extent to which States currently permit volunteers to appeal adverse fitness determinations, and whether similar procedures are required at the Federal level.
+
+&emsp;&emsp;“(L) The implementation of the 2 pilot programs created in subsection (a).
+
+&emsp;&emsp;“(M) Any privacy concerns that may arise from nationwide criminal background checks.
+
+&emsp;&emsp;“(N) Any other information deemed relevant by the Department of Justice.
+
+&emsp;“(2)
+
+Interim report.—Based on the findings of the feasibility study under paragraph (1), the Attorney General shall, not later than 180 days after the date of the enactment of this Act \[Apr. 30, 2003\], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.
+
+&emsp;“(3)
+
+Final report.—Based on the findings of the pilot project, the Attorney General shall, not later than 60 days after completion of the pilot project under this section, submit to Congress a final report, including recommendations, which may include a proposal for grants to the States to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled, and which may include recommendations for amendments to the National Child Protection Act \[of 1993\] and the Volunteers for Children Act \[see Short Title of 1998 Amendment note set out under section 5101 of this title\] so that qualified entities can promptly and affordably conduct nationwide criminal history background checks on their employees and volunteers.
+
+“(e)
+
+Limitation on Liability.—In connection with the Pilot Programs established under this section, in reliance upon the fitness criteria established under section 108(a)(3)(G)(i), and except upon proof of actual malice or intentional misconduct, the National Center for Missing and Exploited Children, or a director, officer, employee, or agent of the Center shall not be liable in any civil action for damages—
+
+&emsp;“(1) arising from any act or communication by the Center, the director, officer, employee, or agent that results in or contributes to a decision that an individual is unfit to serve as a volunteer for any volunteer organization;
+
+&emsp;“(2) alleging harm arising from a decision based on the information in an individual's criminal history record that an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent is furnished with an individual's criminal history records which they know to be inaccurate or incomplete, or which they know reflect a lesser crime than that for which the individual was arrested; and
+
+&emsp;“(3) alleging harm arising from a decision that, based on the absence of criminal history information, an individual is fit to serve as a volunteer for any volunteer organization unless the Center, the director, officer, employee, or agent knows that criminal history records exist and have not been furnished as required under this section.”
 
 #### Section Referred to in Other Sections
 

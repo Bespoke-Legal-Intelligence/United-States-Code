@@ -70,7 +70,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 #### (1) State educational agency
 
-&emsp;Each State educational agency desiring assistance under this section shall submit to theSecretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
+&emsp;Each State educational agency desiring assistance under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
 
 &emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies in meeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
 
@@ -129,4 +129,8 @@ Funds made available under this section shall be used to supplement, and not sup
 &emsp;The Secretary shall transmit the State reports received under subsection (h)(2) of this section and the evaluations conducted under paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives.
 
 (Pub. L. 89–10, title I, §1251, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9103 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) of this section and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c) of thissection, and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall consider each standard established by subsection (d) of this section and make a determination concerning whether or not it is appropriate to implement such standard to carry out the purposes of this chapter. For purposes of such consideration and determination in accordance with subsections (b) and (c) of this section, and for purposes of any review of such consideration and determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
 #### (b) Procedural requirements for consideration and determination
 
@@ -72,7 +72,7 @@ The following Federal standards are hereby established:
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such thatthe utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measuresshall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
@@ -132,7 +132,7 @@ Section 111(e) of Pub. L. 102–486 provided that: “Not later than 2 years aft
 
 &emsp;“(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers.
 
-> The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
+> The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of thecompetitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
 
 \[For provisions relating to further requirements as to subject matter contained in report under section 111(e) of Pub. L. 102–486, set out above, see section 115(e) of Pub. L. 102–486, set out as a note under section 3203 of Title 15, Commerce and Trade.\]
 

@@ -4,9 +4,9 @@
 
 (b) The person on whose behalf a payment is made under this section is not liable to reimburse the United States for that payment, unless he is responsible for forfeiture of bail provided under subsection (a).
 
-(c) Appropriations available to the military department concerned or the Department of Transportation, as the case may be, for the pay of persons under its jurisdiction may be used to carry out this section.
+(c) Appropriations available to the military department concerned or the Department of Homeland Security, as the case may be, for the pay of persons under its jurisdiction may be used to carry out this section.
 
-(Added Pub. L. 85–861, §1(24)(A), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 96–513, title I, §511(31), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 99–145, title VI, §681(a), Nov. 8, 1985, 99 Stat. 665.)
+(Added Pub. L. 85–861, §1(24)(A), Sept. 2, 1958, 72 Stat. 1445; amended Pub. L. 96–513, title I, §511(31), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 99–145, title VI, §681(a), Nov. 8, 1985, 99 Stat. 665; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -44,9 +44,15 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+
 1985—Subsec. (a). Pub. L. 99–145 provided for payment of expenses for legal representation of civilians overseas.
 
 1980—Subsec. (c). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -58,5 +64,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3106.
+This section is referred to in title 5 section 3106; title 22 section 7427.
 

@@ -30,7 +30,7 @@ Membership.—The Chairman of the Council on Environmental Quality (or a designe
 
 &emsp;(3)
 
-Evaluation.—The Interagency Committee shall evaluate Federal permitting requirements to which access, excavation, and restoration activities in connection with pipeline repairs described in paragraph (1) may be subject. As part of its evaluation, the Interagency Committee shall examine the access, excavation, and restoration practices of the pipeline industry in connection with such pipeline repairs, and may develop a compendium of best practices used by the industry to access, excavate, and restore the site of a pipeline repair.
+Evaluation.—The Interagency Committee shall evaluate Federal permitting requirements to which access, excavation, and restoration activities in connection with pipeline repairs described in paragraph (1) may be subject. As part of its evaluation, the Interagency Committee shall examine the access, excavation, and restoration practices of the pipeline industry in connection with such pipeline repairs, and may develop a compendium of best practices used by the industry to access,excavate, and restore the site of a pipeline repair.
 
 &emsp;(4)
 

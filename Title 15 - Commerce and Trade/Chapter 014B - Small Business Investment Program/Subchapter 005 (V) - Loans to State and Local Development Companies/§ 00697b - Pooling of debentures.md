@@ -6,7 +6,7 @@ The Administration is authorized to issue trust certificates representing owners
 
 #### (b) Terms and conditions of guarantee; payment of principal and interest
 
-The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this section. Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures which compose the trust or pool. In the event that a debenture in such trust or pool is prepaid, either voluntarily or in the event of default, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate, it may be called for redemption due to prepayment or default of all debentures constituting the pool.
+The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this section. Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures which compose the trust or pool. In the event that a debenture in such trust or pool is prepaid, either voluntarily or in the event of default, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate,it may be called for redemption due to prepayment or default of all debentures constituting the pool.
 
 #### (c) Full faith and credit of United States
 
@@ -14,7 +14,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (d) Collection of fees
 
-The Administration shall not collect any fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent ofthe Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
+The Administration shall not collect any fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
 
 #### (e) Subrogation rights; ownership rights in debentures
 

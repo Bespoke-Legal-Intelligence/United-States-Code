@@ -20,7 +20,7 @@ Each related person of a last signatory operator to which subsection (a) or (b) 
 
 #### (d) Managed care and cost containment
 
-The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and cost containment rules and procedures described in section 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
+The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and costcontainment rules and procedures described in section 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
 
 #### (e) Treatment of noncovered employees
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) filing with the court comments with respect to such application and, if the United States Trustee considers it to be appropriate, objections to such application.<sup>1</sup>
 
-&emsp;&emsp;(B) monitoring plans and disclosure statements filed in cases under chapter 11 of title 11 and filing with the court, in connection with hearings under sections 1125 and 1128 of such title, comments with respect to such plans and disclosure statements;
+&emsp;&emsp;(B) monitoring plans and disclosure statements filed in cases under chapter 11 of title 11 and filing with the court, in connection with hearings under sections 1125 and 1128 ofsuch title, comments with respect to such plans and disclosure statements;
 
 &emsp;&emsp;(C) monitoring plans filed under chapters 12 and 13 of title 11 and filing with the court, in connection with hearings under sections 1224, 1229, 1324, and 1329 of such title, comments with respect to such plans;
 

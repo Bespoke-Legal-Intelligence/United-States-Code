@@ -22,7 +22,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (c) Program of research and study relative to health and productivity of domestic forest ecosystems; advisory committee; reports
 
-(1) The Secretary, acting through the United States Forest Service, shall establish not later than 180 days after October 24, 1988, a 10-year program (hereinafter in this subsection referred to as the “Program”) to—
+(1) The Secretary, acting through the United States Forest Service, shall establish not laterthan 180 days after October 24, 1988, a 10-year program (hereinafter in this subsection referred to as the “Program”) to—
 
 &emsp;(A) increase the frequency of forest inventories in matters that relate to atmospheric pollution and conduct such surveys as are necessary to monitor long-term trends in the health and productivity of domestic forest ecosystems;
 
@@ -78,7 +78,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (1) In general
 
-&emsp;The Secretary may conduct, support, and cooperate in forestry and rangeland research andeducation that is of the highest priority to the United States and to users of public and private forest land and rangeland in the United States.
+&emsp;The Secretary may conduct, support, and cooperate in forestry and rangeland research and education that is of the highest priority to the United States and to users of public and private forest land and rangeland in the United States.
 
 #### (2) Priorities
 
@@ -150,7 +150,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;Not later than 180 days after June 23, 1998, the Secretary shall prepare and submit to Congress a strategic plan to implement and carry out this subsection, including the annual updates required by paragraph (2) and the reports required by paragraph (3), that shall describe in detail—
 
-&emsp;&emsp;(A) the financial resources required to implement and carry out this subsection, including the identification of any resources required in excess of the amounts providedfor forest inventorying and analysis in recent appropriations Acts;
+&emsp;&emsp;(A) the financial resources required to implement and carry out this subsection, including the identification of any resources required in excess of the amounts provided for forest inventorying and analysis in recent appropriations Acts;
 
 &emsp;&emsp;(B) the personnel necessary to implement and carry out this subsection, including any personnel in addition to personnel currently performing inventorying and analysis functions;
 
@@ -246,7 +246,7 @@ Program.—The Secretary shall establish a program at the Center and seek the pa
 
 &emsp;“(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems;
 
-&emsp;“(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and waterconservation, environmental quality, and biological diversity on semiarid lands;
+&emsp;“(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands;
 
 &emsp;“(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions;
 

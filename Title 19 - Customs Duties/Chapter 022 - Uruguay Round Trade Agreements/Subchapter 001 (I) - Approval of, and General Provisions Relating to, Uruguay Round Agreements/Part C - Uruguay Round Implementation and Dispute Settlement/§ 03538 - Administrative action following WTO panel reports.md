@@ -38,7 +38,7 @@
 
 #### (2) Determination by administering authority
 
-&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], the administering authority shall, within 180 days after receipt of a written request from the Trade Representative, issue a determination in connection with the particular proceeding that would render the administering authority's action described in paragraph (1) not inconsistent with the findings of the panel or the Appellate Body.
+&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], the administering authority shall, within 180 days afterreceipt of a written request from the Trade Representative, issue a determination in connection with the particular proceeding that would render the administering authority's action described in paragraph (1) not inconsistent with the findings of the panel or the Appellate Body.
 
 #### (3) Consultations before implementation
 

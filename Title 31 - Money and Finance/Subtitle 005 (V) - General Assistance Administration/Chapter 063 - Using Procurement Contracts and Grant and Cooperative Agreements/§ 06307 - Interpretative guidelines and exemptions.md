@@ -30,3 +30,7 @@ Feb. 3, 1978, Pub. L. 95–224, §10(d), 92 Stat. 6; Apr. 1, 1982, Pub. L. 97–
 
 In clause (2), the word “exempt” is substituted for “except” for consistency.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 43 section 373d.
+

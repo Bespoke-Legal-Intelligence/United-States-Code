@@ -102,5 +102,5 @@ Five-Year Reference Amounts.—The first report under subsection (a) of section 
 
 “(c)
 
-Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
+Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added bysubsection (a)), shall cover each existing special access program.”
 

@@ -30,7 +30,7 @@ Not later than 90 days after the date of each regularly scheduled general electi
 
 #### (d) Registration notification
 
-With respect to each absent uniformed services voter and each overseas voter who submitsa voter registration application or an absentee ballot request, if the State rejects the application or request, the State shall provide the voter with the reasons for the rejection.
+With respect to each absent uniformed services voter and each overseas voter who submits a voter registration application or an absentee ballot request, if the State rejects the application or request, the State shall provide the voter with the reasons for the rejection.
 
 (Pub. L. 99–410, title I, §102, Aug. 28, 1986, 100 Stat. 925; Pub. L. 107–107, div. A, title XVI, §1606(a)(1), Dec. 28, 2001, 115 Stat. 1278; Pub. L. 107–252, title VII, §§702, 703(a), 705(b)(2), 707, Oct. 29, 2002, 116 Stat. 1723–1725.)
 
@@ -56,7 +56,7 @@ Par. (4). Pub. L. 107–107, §1606(a)(1)(B), (C), added par. (4).
 
 #### Development of Standardized Format for Reports
 
-Pub. L. 107–252, title VII, §703(b), Oct. 29, 2002, 116 Stat. 1724, provided that: “The Election Assistance Commission, working with the Election Assistance Commission Board of Advisors and the Election Assistance Commission Standards Board, shall develop a standardized format for the reports submitted by States and units of local government under section 102(c) of the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff–1(c)\] (as added by subsection (a)), and shall make the format available to the States and units of local government submitting such reports.”
+Pub. L. 107–252, title VII, §703(b), Oct. 29, 2002, 116 Stat. 1724, provided that: “The Election Assistance Commission, working with the Election AssistanceCommission Board of Advisors and the Election Assistance Commission Standards Board, shall develop a standardized format for the reports submitted by States and units of local government under section 102(c) of the Uniformed and Overseas Citizens Absentee Voting Act \[42 U.S.C. 1973ff–1(c)\] (as added by subsection (a)), and shall make the format available to the States and units of local government submitting such reports.”
 
 #### Section Referred to in Other Sections
 

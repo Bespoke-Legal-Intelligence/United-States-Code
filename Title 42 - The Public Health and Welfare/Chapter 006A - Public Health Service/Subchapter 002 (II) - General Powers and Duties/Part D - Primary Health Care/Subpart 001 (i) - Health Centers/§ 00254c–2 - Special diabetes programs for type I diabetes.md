@@ -36,7 +36,7 @@ Subsec. (a). Pub. L. 105–34, §1604(f)(1)(C)(ii), amended heading and text of 
 
 #### Effective Date of 1997 Amendment
 
-Section 1604(f)(4) of Pub. L. 105–34 provided that: “The provisions of, and amendments made by, this subsection \[amending this section and provisions set out as a note under section 5701 of Title 26, Internal Revenue Code\] shall take effect immediately after the sections referred to in this subsection \[sections 4921, 9302, 11104, and 11201 of Pub. L. 105–33\] take effect.”
+Section 1604(f)(4) of Pub. L. 105–34 provided that: “The provisions of, and amendments made by, this subsection \[amending this section and provisions set outas a note under section 5701 of Title 26, Internal Revenue Code\] shall take effect immediately after the sections referred to in this subsection \[sections 4921, 9302, 11104, and 11201 of Pub. L. 105–33\] take effect.”
 
 #### Report on Diabetes Grant Programs
 

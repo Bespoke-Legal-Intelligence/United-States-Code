@@ -22,7 +22,7 @@
 
 #### (2) Management plan
 
-&emsp;Within three years after August 26, 1994, the Secretary shall develop a management plan for the scenic area as an amendment to the Land and Resource Management Plan for the George Washington National Forest. Such an amendment shall conform to the provisions of sections 545 and 545a of this title. Nothing in sections 545 and 545a of this title shall require the Secretary to revise the Land and Resource Management Plan for the George Washington National Forest pursuant to section 1604 of this title.
+&emsp;Within three years after August 26, 1994, the Secretary shall develop a management plan for the scenic area as an amendment to the Land and Resource Management Plan for the George Washington National Forest. Such anamendment shall conform to the provisions of sections 545 and 545a of this title. Nothing in sections 545 and 545a of this title shall require the Secretary to revise the Land and Resource Management Plan for the George Washington National Forest pursuant to section 1604 of this title.
 
 #### (c) Roads
 

@@ -40,7 +40,7 @@
 
 #### (3) Special rule
 
-&emsp;If the person making any payment described in subsection (a)(1)(A) or (B) is unable to determine the portion of such payment which isa dividend or is paid with respect to a dividend, he shall, for purposes of subsection (a)(1), treat the entire amount of such payment as a dividend or as an amount paid with respect to a dividend.
+&emsp;If the person making any payment described in subsection (a)(1)(A) or (B) is unable to determine the portion of such payment which is a dividend or is paid with respect to a dividend, he shall, for purposes of subsection (a)(1), treat the entire amount of such payment as a dividend or as an amount paid with respect to a dividend.
 
 #### (c) Statements to be furnished to persons with respect to whom information is required
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Limitation.—An officer described in subsection (b) may not be appointed, assigned, or detailed for a period in excess of 180 days to a position external to that officer's armed force if, immediately following such appointment, assignment, or detail, the number of officers described in subsection (b) serving in positions external to such officers’ armed force would be in excess of 26.5 percent of the total number of the officers described in subsection (b).
+Limitation.—An officer described in subsection (b) may not be appointed, assigned, ordetailed for a period in excess of 180 days to a position external to that officer's armed force if, immediately following such appointment, assignment, or detail, the number of officers described in subsection (b) serving in positions external to such officers’ armed force would be in excess of 26.5 percent of the total number of the officers described in subsection (b).
 
 (b)
 
@@ -30,9 +30,7 @@ External Positions.—For purposes of this section, the following positions shal
 
 (d)
 
-Treatment of Officers Holding Multiple Positions.—(1) If an officer described in subsection (b) simultaneously holds both a position external to that officer's armed force and another position not external to that officer's armed force, the Secretary of Defense shall determine whether that officer shall be counted for the purposes of this section.
-
-(2) The Secretary of Defense shall submit to Congress an annual report on the number of officers to whom paragraph (1) was applicable during the year covered by the report. The report shall set forth the determination made by the Secretary under that paragraph in each such case.
+Treatment of Officers Holding Multiple Positions.—If an officer described in subsection (b) simultaneously holds both a position external to that officer's armed force and another position not external to that officer's armed force, the Secretary of Defense shall determine whether that officer shall be counted for the purposes of this section.
 
 (e)
 
@@ -44,5 +42,9 @@ Days.—For purposes of this section, the appointment, assignment, or detail of 
 
 Waiver During Period of War or National Emergency.—The President may suspend the operation of this section during any period of war or of national emergency declared by Congress or the President.
 
-(Added Pub. L. 105–85, div. A, title V, §501(a), Nov. 18, 1997, 111 Stat. 1723.)
+(Added Pub. L. 105–85, div. A, title V, §501(a), Nov. 18, 1997, 111 Stat. 1723; amended Pub. L. 107–314, div. A, title X, §1041(a)(4), Dec. 2, 2002, 116 Stat. 2645.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–314 struck out par. (1) designation and par. (2) which read as follows: “The Secretary of Defense shall submit to Congress an annual report on the number of officers to whom paragraph (1) was applicable during the year covered by the report. The report shall set forth the determination made by the Secretary under that paragraph in each such case.”
 

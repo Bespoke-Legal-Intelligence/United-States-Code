@@ -50,7 +50,7 @@ Limitations.—(1) Financial assistance may be provided to a member under this s
 
 Failure To Complete Program.—(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section may be required to repay the full amount of financial assistance, if the member—
 
-&emsp;(A) completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in the Marine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
+&emsp;(A) completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in theMarine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
 
 &emsp;(B) fails to complete the military or academic requirements of the Marine Corps Platoon Leaders Class program; or
 

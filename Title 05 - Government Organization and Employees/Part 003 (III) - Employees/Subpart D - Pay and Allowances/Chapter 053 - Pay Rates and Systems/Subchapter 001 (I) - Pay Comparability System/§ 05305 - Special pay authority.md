@@ -84,7 +84,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 
 
 &emsp;“(1) no existing special salary rates shall be authorized for members of the United States Park Police under section 5305 of title 5, United States Code (or any previous similar provision of law); and
 
-&emsp;“(2) no special rates of pay or special pay adjustments shall be applicable to members of the UnitedStates Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\].”
+&emsp;“(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\].”
 
 Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that:
 

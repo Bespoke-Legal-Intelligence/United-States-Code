@@ -26,7 +26,7 @@ The Secretary, under such regulations as he may prescribe, shall pay (without in
 
 #### (2) Minimum claim
 
-&emsp;Except as provided in paragraph (3)(A), no claim of less than $250 shall be allowed underthis section with respect to any disaster or other damage (as the case may be).
+&emsp;Except as provided in paragraph (3)(A), no claim of less than $250 shall be allowed under this section with respect to any disaster or other damage (as the case may be).
 
 #### (3) Special rules for major disasters
 
@@ -102,7 +102,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Exception to Effective Date
 
-Section 210(a)(3) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959.”
+Section 210(a)(3) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect todisasters occurring after such date of enactment, and not later than June 30, 1959.”
 
 #### Beer Lost by Reason of Floods of 1951 or Hurricanes of 1954
 

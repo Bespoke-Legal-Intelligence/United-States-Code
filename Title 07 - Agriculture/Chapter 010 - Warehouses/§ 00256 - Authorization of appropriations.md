@@ -16,7 +16,7 @@ Section 257, acts Aug. 11, 1916, ch. 313, pt. C, §19, 39 Stat. 489; Feb. 23, 19
 
 Section 258, act Aug. 11, 1916, ch. 313, pt. C, §16, 39 Stat. 488, related to mingling of stored products. See section 248 of this title.
 
-Section 259, acts Aug. 11, 1916, ch. 313, pt. C, §17, 39 Stat. 488; Pub. L. 99–260, §14, Mar. 20, 1986, 100 Stat. 54; Pub. L. 101–624, title V, §508(a), Nov. 28, 1990, 104 Stat. 3441; Pub. L. 102–237, title X, §1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, §1, Oct. 28, 1992, 106 Stat. 4140, required issuance of receipts for products stored and set forth provisions relating to central filing system and transfer of stored products. See sections 249 and 250 of this title.
+Section 259, acts Aug. 11, 1916, ch. 313, pt. C, §17, 39 Stat. 488; Pub. L. 99–260, §14, Mar. 20, 1986, 100 Stat. 54; Pub. L. 101–624, title V, §508(a), Nov. 28, 1990, 104 Stat. 3441; Pub. L. 102–237, title X, §1009, Dec. 13, 1991, 105 Stat. 1898; Pub. L. 102–553, §1, Oct. 28, 1992, 106 Stat.4140, required issuance of receipts for products stored and set forth provisions relating to central filing system and transfer of stored products. See sections 249 and 250 of this title.
 
 Section 260, acts Aug. 11, 1916, ch. 313, pt. C, §18, 39 Stat. 488; July 24, 1919, ch. 26, 41 Stat. 266; Feb. 23, 1923, ch. 106, 42 Stat. 1284, related to contents of receipts. See section 250 of this title.
 
@@ -36,7 +36,7 @@ Section 267, act Aug. 11, 1916, ch. 313, pt. C, §27, 39 Stat. 490, authorized e
 
 Section 268, act Aug. 11, 1916, ch. 313, pt. C, §28, 39 Stat. 490, authorized rules and regulations.
 
-Section 269, acts Aug. 11, 1916, ch. 313, pt. C, §29, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931,ch. 366, §9, 46 Stat. 1465, related to cooperation with States, exclusivity of Secretary's authority, and preemption of laws. See section 242 of this title.
+Section 269, acts Aug. 11, 1916, ch. 313, pt. C, §29, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, §9, 46 Stat. 1465, related to cooperation with States, exclusivity of Secretary's authority, and preemption of laws. See section 242 of this title.
 
 Section 270, acts Aug. 11, 1916, ch. 313, pt. C, §30, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, §10, 46 Stat. 1465; Pub. L. 101–624, title V, §508(b), Nov. 28, 1990, 104 Stat. 3443, set forth punishment for violations of this chapter. See section 254 of this title.
 

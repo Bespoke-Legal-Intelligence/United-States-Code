@@ -94,7 +94,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (4) Types of contracts
 
-&emsp;A contract under this subsection may provide for research and development regardingnew or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediate base program with a higher coverage and cost than catastrophic risk protection.
+&emsp;A contract under this subsection may provide for research and development regarding new or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediate base program with a higher coverage and cost than catastrophic risk protection.
 
 #### (5) Use of resulting policies
 

@@ -2,7 +2,7 @@
 
 (a) The Supreme Court and all courts established by Act of Congress may from time to time prescribe rules for the conduct of their business. Such rules shall be consistent with Acts of Congress and rules of practice and procedure prescribed under section 2072 of this title.
 
-(b) Any rule prescribed by a court, other than the Supreme Court, under subsection (a) shall be prescribed only after giving appropriate public notice and an opportunity for comment. Such rule shall take effect upon the date specified by the prescribing court and shall have such effect on pending proceedings as the prescribing court may order.
+(b) Any rule prescribed by a court, other than the Supreme Court, under subsection (a) shall be prescribed only after giving appropriate public notice and an opportunity for comment. Suchrule shall take effect upon the date specified by the prescribing court and shall have such effect on pending proceedings as the prescribing court may order.
 
 (c)(1) A rule of a district court prescribed under subsection (a) shall remain in effect unless modified or abrogated by the judicial council of the relevant circuit.
 

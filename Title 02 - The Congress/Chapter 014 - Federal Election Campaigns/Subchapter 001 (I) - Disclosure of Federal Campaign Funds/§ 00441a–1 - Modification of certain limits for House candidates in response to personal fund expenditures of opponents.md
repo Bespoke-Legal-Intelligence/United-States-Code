@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held.
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of 50 percent of gross receipts of the opposing candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determinedon June 30 and December 31 of the year preceding the year in which a general election is held.
 
 #### (3) Time to accept contributions under increased limit
 
@@ -104,7 +104,7 @@
 
 #### (2) Notification of disposal of excess contributions
 
-&emsp;In the next regularly scheduled report after the date of the election for which a candidate seeks nomination for election to, or electionto, Federal office, the candidate or the candidate's authorized committee shall submit to the Commission a report indicating the source and amount of any excess contributions (as determined under subsection (a) of this section) and the manner in which the candidate or the candidate's authorized committee used such funds.
+&emsp;In the next regularly scheduled report after the date of the election for which a candidate seeks nomination for election to, or election to, Federal office, the candidate or the candidate's authorized committee shall submit to the Commission a report indicating the source and amount of any excess contributions (as determined under subsection (a) of this section) and the manner in which the candidate or the candidate's authorized committee used such funds.
 
 #### (3) Enforcement
 

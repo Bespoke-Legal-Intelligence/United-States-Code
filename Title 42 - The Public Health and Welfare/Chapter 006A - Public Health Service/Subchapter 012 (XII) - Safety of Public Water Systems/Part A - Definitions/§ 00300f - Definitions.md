@@ -14,7 +14,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(ii) if, in the judgment of the Administrator, it is not economically or technologically feasible to so ascertain the level of such contaminant, each treatment technique known to the Administrator which leads to a reduction in the level of such contaminant sufficient to satisfy the requirements of section 300g–1 of this title; and
 
-&emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including accepted methods for quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
+&emsp;&emsp;(D) contains criteria and procedures to assure a supply of drinking water which dependably complies with such maximum contaminant levels; including accepted methodsfor quality control and testing procedures to insure compliance with such levels and to insure proper operation and maintenance of the system, and requirements as to (i) the minimum quality of water which may be taken into the system and (ii) siting for new facilities for public water systems.
 
 > &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.
 
@@ -42,7 +42,7 @@ In general.—For purposes of subparagraph (A), a connection to a system that de
 
 &emsp;&emsp;&emsp;&emsp;(II) the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) determines that alternative water to achieve the equivalent level of public health protection provided by the applicable national primary drinking water regulation is provided for residential or similar uses for drinking and cooking; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the Administrator or the State (in the case of a State exercising primary enforcement responsibility for publicwater systems) determines that the water provided for residential or similar uses for drinking, cooking, and bathing is centrally treated or treated at the point of entry by the provider, a pass-through entity, or the user to achieve the equivalent level of protection provided by the applicable national primary drinking water regulations.
+&emsp;&emsp;&emsp;&emsp;(III) the Administrator or the State (in the case of a State exercising primary enforcement responsibility for public water systems) determines that the water provided for residential or similar uses for drinking, cooking, and bathing is centrally treated or treated at the point of entry by the provider, a pass-through entity, or the user to achieve the equivalent level of protection provided by the applicable national primary drinking water regulations.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -118,7 +118,7 @@ Pub. L. 94–317 added par. (13).
 
 #### Effective Date of 1996 Amendment
 
-Section 2(b) of Pub. L. 104–182 provided that: “Except as otherwise specified in this Act \[enacting sections300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under section 201 of this title\] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 6, 1996\].”
+Section 2(b) of Pub. L. 104–182 provided that: “Except as otherwise specified in this Act \[enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under section 201 of this title\] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act \[Aug. 6, 1996\].”
 
 #### Short Title
 
@@ -152,7 +152,7 @@ Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
 
 &emsp;“(4) States play a central role in the implementation of safe drinking water programs, and States need increased financial resources and appropriate flexibility to ensure the prompt and effective development and implementation of drinking water programs;
 
-&emsp;“(5) the existing process for the assessment and selection of additional drinking water contaminants needs to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations;
+&emsp;“(5) the existing process for the assessment and selection of additional drinking water contaminantsneeds to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations;
 
 &emsp;“(6) procedures for assessing the health effects of contaminants establishing drinking water standards should be revised to provide greater opportunity for public education and participation;
 
@@ -188,7 +188,7 @@ Section 2(e) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Sho
 
 #### Safe Drinking Water Amendments of 1977 as Not Affecting Authority of Administrator With Respect to Contaminants
 
-Section 3(e)(2) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act\[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
+Section 3(e)(2) of Pub. L. 95–190 provided that: “Nothing in this Act \[see Short Title of 1977 Amendment note set out under section 201 of this title\] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act \[this subchapter\] to promulgate regulations or take other action with respect to any contaminant.”
 
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations
 

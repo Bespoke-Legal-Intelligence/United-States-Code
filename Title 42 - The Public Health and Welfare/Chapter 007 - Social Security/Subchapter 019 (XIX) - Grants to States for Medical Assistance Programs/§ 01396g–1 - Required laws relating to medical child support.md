@@ -60,7 +60,7 @@ The laws relating to medical child support, which a State is required to have in
 
 &emsp;&emsp;(C) has not used such payments to reimburse, as appropriate, either the other parent or guardian of such child or the provider of such services,
 
-> &emsp;to the extent necessary to reimburse the State agency for expenditures for such costs under its plan under this subchapter, but any claims for current or past-due child support shall take priority over any such claims for the costs of such services.
+> &emsp;to the extent necessary to reimburse the State agency for expenditures for such costs underits plan under this subchapter, but any claims for current or past-due child support shall take priority over any such claims for the costs of such services.
 
 #### (b) “Insurer” defined
 

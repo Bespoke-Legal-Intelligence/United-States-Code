@@ -22,7 +22,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 #### (e) Training or services for United States person
 
-(1) The Secretary may provide appropriate training or related services, except foreign language training, through the institution to anyUnited States person (or any employee or family member thereof) that is engaged in business abroad.
+(1) The Secretary may provide appropriate training or related services, except foreign language training, through the institution to any United States person (or any employee or family member thereof) that is engaged in business abroad.
 
 (2) The Secretary may provide job-related training or related services, including foreign language training, through the institution to a United States person under contract to provide services to the United States Government or to any employee thereof that is performing such services.
 
@@ -162,7 +162,7 @@ Jurisdiction and Custody.—The facility constructed under this section and the 
 
 “(e)
 
-Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3313\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
+Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of thePublic Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3313\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
 
 “\[(2) Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.\]
 

@@ -14,7 +14,7 @@ The provisions of section III, M, of the 1913 act, were substituted for provisio
 
 Provisions similar to some extent to those in section 13 of the Customs Administrative Act of 1890 were contained in R.S. §§2929, 2930, prior to repeal by section 29 of that Act.
 
-R.S. §2950 provided that the certificate of the appraiser should be deemed to be the appraisement. It was superseded by the provisions relating to appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §13, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, and the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2950 provided that the certificate of the appraiser should be deemed to be the appraisement. Itwas superseded by the provisions relating to appraisers made by the Customs Administrative Act of June 10, 1890, ch. 407, §13, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, and the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, and was repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 

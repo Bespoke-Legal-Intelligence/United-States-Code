@@ -84,7 +84,7 @@ Prerequisites to Consolidation.—
 
 &emsp;“(1)
 
-FCA review of proposal.—Prior to the submission of the proposal developed under subsection (a)(2) to the stockholders under paragraph (3), the proposal together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration for approval.
+FCA review of proposal.—Prior to the submission of the proposal developed under subsection\(a)(2) to the stockholders under paragraph (3), the proposal together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration for approval.
 
 &emsp;“(2)
 

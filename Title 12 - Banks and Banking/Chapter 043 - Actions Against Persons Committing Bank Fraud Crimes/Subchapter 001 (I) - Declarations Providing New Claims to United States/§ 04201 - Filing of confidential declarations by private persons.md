@@ -12,7 +12,7 @@ A declaration under subsection (a) of this section shall be filed with the Attor
 
 #### Short Title
 
-Section 2560 of Pub. L. 101–647 provided that: “This subtitle \[subtitle H (§§2560–2594) of title XXV of Pub. L. 101–647, enacting this chapter and section 3059A of Title 18, Crimes and Criminal Procedure, and amending section 1831k of this title\] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
+Section 2560 of Pub. L. 101–647 provided that: “This subtitle \[subtitle H (§§2560–2594) of title XXV of Pub. L.101–647, enacting this chapter and section 3059A of Title 18, Crimes and Criminal Procedure, and amending section 1831k of this title\] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
 
 #### Section Referred to in Other Sections
 

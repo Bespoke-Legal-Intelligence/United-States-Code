@@ -122,7 +122,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)(3)(A), is part A of titleXXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)(3)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (d)(4)(B)(ii), is classified to section 112(c)(2) of Title 26, Internal Revenue Code.
 
@@ -198,15 +198,37 @@ Amendment by section 410 of Pub. L. 95–454 effective 9 months after Oct. 13, 1
 
 Amendment by section 906(a)(2), (3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
+#### Restoration of Annual Leave for Certain Department of Defense Employees
+
+Pub. L. 108–136, div. A, title XI, §1114, Nov. 24, 2003, 117 Stat. 1635, provided that:
+
+“(a)
+
+Restoration of Annual Leave.—During the period October 1, 1992, through December 31, 1997, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under section 6304(d)(3) of title 5, United States Code, to another Department of Defense installation or activity—
+
+&emsp;“(1) may be deemed eligible by the Secretary of Defense for automatic restoration of forfeited annual leave under section 6304(d)(3) of title 5, United States Code, during the year of transfer; and
+
+&emsp;“(2) may be deemed by the Secretary of Defense to have used all forfeited annual leave properly restored under section 6304(d)(3) of title 5, United States Code, within the appropriate time limits, only if such restored annual leave was used by the employee or paid to the employee in the form of a lump sum payment under section 5551(a) of title 5, United States Code, by the last day of the 2001 leave year.
+
+“(b)
+
+Payment of Restored Annual Leave.—(1) On or after September 23, 1996, all employees transferring from a closing or realigning Department of Defense installation or activity as defined under section 6304(d)(3)(A) of title 5, United States Code, to another Department of Defense installation or activity who, upon transfer, were entitled to payment of a lump sum payment under section 5551(c) of title 5, United States Code, for forfeited annual leave properly restored under section 6304(d)(3) of title 5, United States Code—
+
+&emsp;“(A) may be paid only for any such restored annual leave currently remaining to their credit at the hourly rate payable on the date of transfer with appropriate back pay interest; and
+
+&emsp;“(B) shall be deemed paid for all such restored annual leave to which that employee was entitled to payment upon transfer, but subsequently used or was otherwise paid for upon separation.
+
+“(2) This subsection shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\].”
+
 #### Use of Excess Leave
 
 Section 201(b) of Pub. L. 103–356 provided that: “Notwithstanding the amendment made by subsection (a) \[amending this section\], in the case of an employee who, on the effective date of subsection (a) \[see Effective Date of 1994 Amendments note above\], is subject to subsection (f) of section 6304 of title 5, United States Code, and who has to such employee's credit annual leave in excess of the maximum accumulation otherwise permitted by subsection (a) or (b) of section 6304 (determined applying the amendment made by subsection (a)), such excess annual leave shall remain to the credit of the employee and be subject to reduction, in the same manner as provided in subsection (c) of section 6304.”
 
 #### Lump-Sum Payment for Accrued Annual Leave to Former Employees
 
-Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post Office Department or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
+Section 5 of Pub. L. 93–181 provided that where former employees (other than former employees of Post OfficeDepartment or United States Postal Service) had accrued annual leave after June 30, 1960, but had not been on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment but only if a claim therefor was filed within three years after Dec. 14, 1973, with agency by which the employees had been employed when lump-sum payment provision of section 5551 of this title had last become applicable to them.
 
-Section 6 of Pub. L. 93–181 provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employedwhen lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
+Section 6 of Pub. L. 93–181 provided that where former employees of Post Office Department or United States Postal Service with prior civilian service with Post Office Department or other Federal agency had accrued annual leave after June 30, 1960, and before July 1, 1971, but had not on the rolls on Dec. 14, 1973, and where annual leave thus accrued had been lost because of administrative error, such accrued annual leave was subject to credit and liquidation by lump-sum payment, but only if a claim therefor was filed within three years after Dec. 14, 1973, with Postal Service, at salary rate in effect on date these employees had been employed when lump-sum payment provision of section 5551 of this title or comparable provisions of regulations of Postal Service had last become applicable to them. With respect to present employees of Postal Service who had prior Federal civilian service with Post Office Department or other Federal agency, annual leave which had accrued after June 30, 1960, and before July 1, 1971, but, because of administrative error had been lost, was subject to credit and liquidation by lump-sum payment only if a claim therefor was filed within three years of Dec. 14, 1973, with Postal Service, at salary rate in effect on Dec. 14, 1973.
 
 #### Section Referred to in Other Sections
 

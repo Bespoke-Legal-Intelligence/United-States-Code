@@ -14,13 +14,13 @@ Not later than one year after January 4, 2002, the Secretary of Health and Human
 
 #### (1) In general
 
-&emsp;During the one year beginning on the date on which a drug receives a period of market exclusivity under 505A <sup>1</sup> of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], any report of an adverse event regarding the drug that the Secretary of Health and Human Services receives shall be referred to the Office of Pediatric Therapeutics established under section 393a of this title. In considering the report, the Director of such Office shall provide for the review of the report by the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee, including obtaining any recommendations of such subcommittee regarding whether the Secretary should take action under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] in response to the report.
+&emsp;During the one year beginning on the date on which a drug receives a period of market exclusivity under 505A <sup>1</sup> of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], any report of an adverse event regarding the drug that the Secretary of Health and Human Services receives shall be referred to the Office of Pediatric Therapeutics established under section 393a of this title. In considering the report, the Director of such Office shall provide for the review of the report by the Pediatric Advisory Committee, including obtaining anyrecommendations of such subcommittee <sup>2</sup> regarding whether the Secretary should take action under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] in response to the report.
 
 #### (2) Rule of construction
 
 &emsp;Paragraph (1) may not be construed as restricting the authority of the Secretary of Health and Human Services to continue carrying out the activities described in such paragraph regarding a drug after the one-year period described in such paragraph regarding the drug has expired.
 
-(Pub. L. 107–109, §17, Jan. 4, 2002, 115 Stat. 1422.)
+(Pub. L. 107–109, §17, Jan. 4, 2002, 115 Stat. 1422; Pub. L. 108–155, §3(b)(5), Dec. 3, 2003, 117 Stat. 1942.)
 
 #### References in Text
 
@@ -30,5 +30,15 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act 
 
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
+#### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “Committee”.</i>
 

@@ -66,5 +66,5 @@ Section 2 of Pub. L. 86–495 provided that: “The amendment made by this Act \
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 1413a, 1414.
+This section is referred to in section 1311 of this title; title 10 sections 1413a, 1414.
 

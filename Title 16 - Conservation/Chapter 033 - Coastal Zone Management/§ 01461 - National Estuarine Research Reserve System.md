@@ -64,7 +64,7 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 &emsp;(B) to any coastal state or public or private person for purposes of supporting research and monitoring within a national estuarine reserve that are consistent with the research guidelines developed under subsection (c) of this section.
 
-(2) Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal states to execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
+(2) Financial assistance provided under paragraph (1) shall be subject to such terms and conditions as the Secretary considers necessary or appropriate to protect the interests of the United States, including requiring coastal statesto execute suitable title documents setting forth the property interest or interests of the United States in any lands and waters acquired in whole or part with such financial assistance.
 
 (3)(A) The amount of the financial assistance provided under paragraph (1)(A)(i) with respect to the acquisition of lands and waters, or interests therein, for any one national estuarine reserve may not exceed an amount equal to 50 percent of the costs of the lands, waters, and interests therein or $5,000,000, whichever amount is less.
 

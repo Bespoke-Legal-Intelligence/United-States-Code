@@ -28,7 +28,7 @@ Video Tape Rental and Sale Records.—(1) A video tape service provider who know
 
 &emsp;&emsp;(i) the video tape service provider has provided the consumer with the opportunity, in a clear and conspicuous manner, to prohibit such disclosure; and
 
-&emsp;&emsp;(ii) the disclosure does not identify the title, description, or subject matter of any video tapes or other audio visual material; however, the subject matter of such materials may be disclosed if the disclosure is for the exclusive use of marketing goods and services directly to the consumer;
+&emsp;&emsp;(ii) the disclosure does not identify the title, description, or subject matter of any video tapes or other audio visual material; however, the subject matter of such materials may be disclosed if the disclosure is forthe exclusive use of marketing goods and services directly to the consumer;
 
 &emsp;(E) to any person if the disclosure is incident to the ordinary course of business of the video tape service provider; or
 

@@ -6,9 +6,9 @@ Notwithstanding the provisions of any other law, the unexpended balances of appr
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1976—Pub. L. 94–303 provided that unexpended balances for period commencing July 1, 1976, and ending Sept. 30, 1976, and for each fiscal year beginning on or after Oct. 1, 1976, be withdrawn as of Sept. 30 of second fiscal year following period or year for which provided.
+<b>1976</b>—Pub. L. 94–303 provided that unexpended balances for period commencing July 1, 1976, and ending Sept. 30, 1976, and for each fiscal year beginning on or after Oct. 1, 1976, be withdrawn as of Sept. 30 of second fiscal year following period or year for which provided.
 
 #### Section Referred to in Other Sections
 

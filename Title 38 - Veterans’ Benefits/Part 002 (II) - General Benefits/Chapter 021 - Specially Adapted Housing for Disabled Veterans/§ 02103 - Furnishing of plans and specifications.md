@@ -1,6 +1,6 @@
 ### §2103. Furnishing of plans and specifications
 
-The Secretary is authorized to furnish to veterans eligible for assistance under this chapter, without cost to the veterans, model plans and specifications of suitable housing units.
+The Secretary is authorized to furnish to veterans eligible for assistance under this chapter,without cost to the veterans, model plans and specifications of suitable housing units.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §803; renumbered §2103 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

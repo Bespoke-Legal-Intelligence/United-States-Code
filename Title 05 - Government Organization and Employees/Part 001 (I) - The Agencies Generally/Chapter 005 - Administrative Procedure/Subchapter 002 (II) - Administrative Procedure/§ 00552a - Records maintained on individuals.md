@@ -214,7 +214,7 @@ Civil Remedies.—Whenever any agency
 
 > the individual may bring a civil action against the agency, and the district courts of the United States shall have jurisdiction in the matters under the provisions of this subsection.
 
-(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual's record in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
+(2)(A) In any suit brought under the provisions of subsection (g)(1)(A) of this section, the court may order the agency to amend the individual'srecord in accordance with his request or in such other way as the court may direct. In such a case the court shall determine the matter de novo.
 
 (B) The court may assess against the United States reasonable attorney fees and other litigation costs reasonably incurred in any case under this paragraph in which the complainant has substantially prevailed.
 
@@ -438,7 +438,7 @@ Data Integrity Boards.—(1) Every agency conducting or participating in a match
 
 (B) The Board may waive the requirements of subparagraph (A) of this paragraph if it determines in writing, in accordance with guidelines prescribed by the Director of the Office of Management and Budget, that a cost-benefit analysis is not required.
 
-(C) A cost-benefit analysis shall not be required under subparagraph (A) prior to the initial approval of a written agreement for a matching program that is specifically required by statute. Any subsequent written agreement for such a program shall not be approved by the Data Integrity Board unless the agency has submitted a cost-benefit analysis of the program as conducted under the preceding approval of such agreement.
+(C) A cost-benefit analysis shall not be required under subparagraph (A) prior to the initial approval of a written agreement for a matching program that is specifically required by statute. Any subsequent written agreement for such a program shall not be approved by theData Integrity Board unless the agency has submitted a cost-benefit analysis of the program as conducted under the preceding approval of such agreement.
 
 (5)(A) If a matching agreement is disapproved by a Data Integrity Board, any party to such agreement may appeal the disapproval to the Director of the Office of Management and Budget. Timely notice of the filing of such an appeal shall be provided by the Director of the Office of Management and Budget to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives.
 
@@ -540,7 +540,7 @@ Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or
 
 Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records,and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
@@ -626,7 +626,7 @@ Functions of Director of Office of Management and Budget under this section dele
 
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 
-Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactmentof this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
+Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
 
 #### Limitation on Application of Verification Requirement
 
@@ -682,7 +682,7 @@ Section 2 of Pub. L. 93–579 provided that:
 
 &emsp;“(2) permit an individual to prevent records pertaining to him obtained by such agencies for a particular purpose from being used or made available for another purpose without his consent;
 
-&emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, to have a copy made of all or any portion thereof, and to correct or amend such records;
+&emsp;“(3) permit an individual to gain access to information pertaining to him in Federal agency records, tohave a copy made of all or any portion thereof, and to correct or amend such records;
 
 &emsp;“(4) collect, maintain, use, or disseminate any record of identifiable personal information in a manner that assures that such action is for a necessary and lawful purpose, that the information is current and accurate for its intended use, and that adequate safeguards are provided to prevent misuse of such information;
 
@@ -722,7 +722,7 @@ For provisions relating to a response to a request for information under this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 6 section 142; title 7 sections 2204b, 2279b, 7035; title 10 sections 1102, 1506, 1588, 1596b; title 12 section 1715z; title 14 section 645; title 15 section 7215; title 16 sections 410cc–35, 1536; title 18 section 2707; title 19 section 1631; title 20 sections 1080a, 1090, 9514, 9573, 9622; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 310, 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 1395cc–2, 3544, 7385i, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506, 3538, 3549, 3602; title 46 sections 7702, 9303; title 49 section 30305; title 50 sections 403–5c, 403–5e; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 6 section 142; title 7 sections 2204b, 2279b, 7035; title 10 sections 1102, 1506, 1588, 1596b; title 12 section 1715z; title 14 section 645; title 15 section 7215; title 16 sections 410cc–35, 1536; title 18 section 2707; title 19 section 1631; title 20 sections 1080a, 1090, 9514, 9573, 9622; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 310, 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 1395cc–2, 3544, 7385i, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506, 3538, 3549, 3602; title 46 sections 7702, 9303; title 49 section 30305; title 50 sections 432, 432a, 432b; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 #### (1) In general
 
-&emsp;A vessel carrier shall notify the Customs Service of any cargo tendered to such carrierthat is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal.
+&emsp;A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal.
 
 #### (2) Sharing arrangements
 
@@ -62,9 +62,13 @@ Nothing in this section shall be construed, interpreted, or applied to relieve o
 
 2002—Subsec. (d). Pub. L. 107–295 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “A vessel carrier shall notify the Customs Service of any cargo tendered to such carrier that is not properly documented pursuant to this section and that has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal, and the location of the cargo in the marine terminal. For vessel carriers that are members of vessel sharing agreements (or any other arrangement whereby a carrier moves cargo on another carrier's vessel), the vessel carrier accepting the booking shall be responsible for reporting undocumented cargo, without regard to whether it operates the vessel on which the transportation is to be made.”
 
+#### Effective Date
+
+Section applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as an Effective Date of 2002 Amendment note preceding section 2271 of this title.
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

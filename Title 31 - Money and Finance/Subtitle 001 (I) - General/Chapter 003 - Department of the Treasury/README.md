@@ -19,7 +19,8 @@
 | [308\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000308%20-%20United%20States%20Customs%20Service.md) | United States Customs Service. |
 | [309\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000309%20-%20Office%20of%20Thrift%20Supervision.md) | Office of Thrift Supervision. |
 | [310\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000310%20-%20Financial%20Crimes%20Enforcement%20Network.md) | Financial Crimes Enforcement Network. |
-| [311\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000311%20-%20Continuing%20in%20office.md) | Continuing in office. |
+| [311\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000311%20-%20Office%20of%20Intelligence%20and%20Analysis.md) | Office of Intelligence and Analysis. |
+| [312\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000312%20-%20Continuing%20in%20office.md) | Continuing in office. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,6 +45,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–177, title I, §105(a)(2), Dec. 13, 2003, 117 Stat. 2603, added item 311 and redesignated former item 311 as 312.
 
 2001—Pub. L. 107–56, title III, §361(c), Oct. 26, 2001, 115 Stat. 332, added item 310 and redesignated former item 310 as 311.
 

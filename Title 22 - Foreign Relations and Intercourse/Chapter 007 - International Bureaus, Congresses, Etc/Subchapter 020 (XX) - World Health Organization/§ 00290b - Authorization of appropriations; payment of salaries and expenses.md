@@ -36,7 +36,7 @@ Subsec. (a). Joint Res. Sept. 21, 1950, §1(d)(2), increased authorized annual a
 
 #### Repeals
 
-Pub. L. 85–141, §8(n), Aug. 14, 1957, 71 Stat. 362, repealed section 419 of act Aug. 26, 1954, cited as a creditto this section, except insofar as section 419 affected this section.
+Pub. L. 85–141, §8(n), Aug. 14, 1957, 71 Stat. 362, repealed section 419 of act Aug. 26, 1954, cited as a credit to this section, except insofar as section 419 affected this section.
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
 

@@ -32,7 +32,7 @@ Pub. L. 101–649, §407(c)(13), substituted “application” for “petition�
 
 Subsec. (c). Pub. L. 101–649, §407(c)(13), substituted “an application” for “a petition” wherever appearing.
 
-Subsec. (d). Pub. L. 101–649, §407(e)(2), struck out at end “Notwithstanding the provisions of section 405(b) of this Act, this subsection shall also apply to the case of any such alien whose petition for naturalization was filed prior to the effective date of this chapter and which is still pending on that date.”
+Subsec. (d). Pub. L. 101–649, §407(e)(2), struck out at end “Notwithstanding the provisions of section 405(b) of this Act, this subsection shall also apply to the caseof any such alien whose petition for naturalization was filed prior to the effective date of this chapter and which is still pending on that date.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

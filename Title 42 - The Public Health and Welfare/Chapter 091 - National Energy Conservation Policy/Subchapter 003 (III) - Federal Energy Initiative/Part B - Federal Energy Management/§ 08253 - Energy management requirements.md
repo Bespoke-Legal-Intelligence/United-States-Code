@@ -32,7 +32,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;(B) identify high priority projects through calculation of payback periods;
 
-&emsp;&emsp;(C) take maximum advantage of contracts authorized under subchapter VII of thischapter, of financial incentives and other services provided by utilities for efficiency investment, and of other forms of financing to reduce the direct costs to the Government; and
+&emsp;&emsp;(C) take maximum advantage of contracts authorized under subchapter VII of this chapter, of financial incentives and other services provided by utilities for efficiency investment, and of other forms of financing to reduce the direct costs to the Government; and
 
 &emsp;&emsp;(D) otherwise implement this part;
 

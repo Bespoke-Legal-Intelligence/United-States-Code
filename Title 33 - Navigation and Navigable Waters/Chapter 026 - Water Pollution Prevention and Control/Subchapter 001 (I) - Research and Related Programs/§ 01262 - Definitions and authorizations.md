@@ -2,7 +2,7 @@
 
 (a) As used in sections 1259 through 1262 of this title—
 
-(1) The term “institution of higher education” means an educational institution described in the first sentence of section 1001 of title 20 (other than an institution of any agency of the United States) which is accredited by a nationally recognized accrediting agency or association approved by the Administrator for this purpose. For purposes of this subsection, the Administrator shall publish a list of nationally recognized accrediting agencies or associations which he determines to be reliable authority as to the quality of training offered.
+(1) The term “institution of higher education” means an educational institution described inthe first sentence of section 1001 of title 20 (other than an institution of any agency of the United States) which is accredited by a nationally recognized accrediting agency or association approved by the Administrator for this purpose. For purposes of this subsection, the Administrator shall publish a list of nationally recognized accrediting agencies or associations which he determines to be reliable authority as to the quality of training offered.
 
 (2) The term “academic year” means an academic year or its equivalent, as determined by the Administrator.
 

@@ -10,7 +10,7 @@ If the position of crier or bailiff is to be filled by the appointment of a pers
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§9, 595, 596 (R.S. §715; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, §5, 36 Stat. 1088; June 1, 1922, ch. 204, title II, 42 Stat. 617; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; May 28, 1924, ch. 204, title II, 43 Stat. 221; May 14, 1940, ch. 189, title III, 54 Stat. 204; June 28, 1941, ch. 258, title III, 55 Stat. 295; July 2, 1942, ch. 472, title III, 56 Stat. 486; July 1, 1943, ch. 182, title II, 57 Stat. 286; June 28, 1944, ch. 294, title II, 58 Stat. 410; Dec. 7, 1944, ch. 522, §§1, 2, 58 Stat. 796; May 21, 1945, ch. 129, title II, 59 Stat. 184).
+Based on title 28, U.S.C., 1940 ed., §§9, 595, 596 (R.S. §715; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, §5, 36 Stat. 1088; June 1, 1922, ch. 204, title II, 42 Stat. 617; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; May 28, 1924, ch. 204, title II, 43 Stat. 221; May 14, 1940, ch. 189, title III, 54 Stat. 204; June 28, 1941, ch. 258, title III,55 Stat. 295; July 2, 1942, ch. 472, title III, 56 Stat. 486; July 1, 1943, ch. 182, title II, 57 Stat. 286; June 28, 1944, ch. 294, title II, 58 Stat. 410; Dec. 7, 1944, ch. 522, §§1, 2, 58 Stat. 796; May 21, 1945, ch. 129, title II, 59 Stat. 184).
 
 Section consolidates parts of sections 9, 595, and 596 of title 28, U.S.C., 1940 ed. The other provisions of such sections appear in section 604 of this title.
 

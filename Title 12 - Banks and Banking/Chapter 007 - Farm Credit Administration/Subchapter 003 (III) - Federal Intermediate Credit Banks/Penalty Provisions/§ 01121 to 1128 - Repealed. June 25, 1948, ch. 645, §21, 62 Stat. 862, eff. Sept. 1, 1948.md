@@ -6,7 +6,7 @@ Section 1122, act July 17, 1916, ch. 245, title II, §211(b), as added Mar. 4, 1
 
 Section 1123, act July 17, 1916, ch. 245, title II, §211(c), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to overvaluation of property for loan purposes. See section 1014 of Title 18.
 
-Section 1124, act July 17, 1916, ch. 245, title II, §211(d), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to offenses by examiners. See sections 213, 1907, and 1909 of Title 18.
+Section 1124, act July 17, 1916, ch. 245, title II, §211(d), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to offenses by examiners. See sections 1907 and 1909 of Title 18.
 
 Section 1125, act July 17, 1916, ch. 245, title II, §211(e), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to offenses by officers, employees, and agents. See section 215 of Title 18.
 

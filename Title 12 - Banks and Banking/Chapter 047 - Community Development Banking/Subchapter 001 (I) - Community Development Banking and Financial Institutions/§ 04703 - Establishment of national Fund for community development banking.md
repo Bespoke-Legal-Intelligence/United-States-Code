@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) appoint and terminate the individuals referred to in paragraphs (2) and (3) without regard to the civil service laws and regulations; and
 
-&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate ofpay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+&emsp;&emsp;(B) fix the compensation of the individuals referred to in paragraph (3) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates, except that the rate of pay for such individuals may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
 #### (c) General powers
 
@@ -90,7 +90,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (4) Board function
 
-&emsp;It shall be the function of the Board to advise the Administrator on the policies of the Fund regarding activities under this subchapter. The Board shall not advise the Administrator on the granting or denial of any particular application.
+&emsp;It shall be the function of the Board to advise the Administrator on the policies of theFund regarding activities under this subchapter. The Board shall not advise the Administrator on the granting or denial of any particular application.
 
 #### (5) Terms of private members
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-A Bell operating company may manufacture and provide telecommunications equipment, and manufacture customer premises equipment, if the Commission authorizes that Bell operating company or any Bell operating company affiliate to provide interLATA services under section 271(d) of this title, subject to the requirements of this section and the regulations prescribed thereunder, except that neither a Bell operating company nor any of its affiliates may engage in such manufacturing in conjunction with a Bell operating company not so affiliated or any of its affiliates.
+A Bell operating company may manufacture and provide telecommunications equipment, andmanufacture customer premises equipment, if the Commission authorizes that Bell operating company or any Bell operating company affiliate to provide interLATA services under section 271(d) of this title, subject to the requirements of this section and the regulations prescribed thereunder, except that neither a Bell operating company nor any of its affiliates may engage in such manufacturing in conjunction with a Bell operating company not so affiliated or any of its affiliates.
 
 #### (b) Collaboration; research and royalty agreements
 
@@ -116,7 +116,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “affiliate” shall have the same meaning as in section 153 of this title,except that, for purposes of paragraph (1)(B)—
+&emsp;&emsp;(A) The term “affiliate” shall have the same meaning as in section 153 of this title, except that, for purposes of paragraph (1)(B)—
 
 &emsp;&emsp;&emsp;(i) an aggregate voting equity interest in Bell Communications Research, Inc., of at least 5 percent of its total voting equity, owned directly or indirectly by more than 1 otherwise unaffiliated Bell operating company, shall constitute an affiliate relationship; and
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(E) “Research Office” means the Great Lakes Research Office established by subsection (d) of this section;
 
-&emsp;&emsp;(F) “area of concern” means a geographic area located within the Great Lakes, inwhich beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
+&emsp;&emsp;(F) “area of concern” means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
 
 &emsp;&emsp;(G) “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
 
@@ -78,7 +78,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;&emsp;(iii) includes such Remedial Action Plans within the State's water quality plan by January 1, 1993.
 
-&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
+&emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the InternationalJoint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
 &emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
@@ -298,13 +298,13 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (1) Joint plan
 
-&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare a joint research plan for the fiscal year which begins in the following calendar year.
+&emsp;Before October 1 of each year, the Program Office and the Research Office shall prepare ajoint research plan for the fiscal year which begins in the following calendar year.
 
 #### (2) Contents of plan
 
 &emsp;Each plan prepared under paragraph (1) shall—
 
-&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under theGreat Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
+&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
 
 &emsp;&emsp;(B) include the Agency's assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -368,11 +368,11 @@ Subsec. (e)(3). Pub. L. 101–596, §106, added par. (3).
 
 Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
 
-1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
+1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended bythe Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 

@@ -26,7 +26,7 @@ Interim regulations.—Not later than the expiration of the 30-day period beginn
 
 “(2)
 
-Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), the Secretary shall issue final regulations implementing subtitle D of title VIII of the Cranston-Gonzalez National Affordable Housing Act (as amended by this section) after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.”
+Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), the Secretary shall issue final regulations implementing subtitle D of title VIII of the Cranston-Gonzalez National Affordable Housing Act (as amended by this section) after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) ofsuch section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

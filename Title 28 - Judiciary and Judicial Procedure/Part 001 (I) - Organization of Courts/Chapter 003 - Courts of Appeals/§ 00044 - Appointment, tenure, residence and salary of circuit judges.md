@@ -173,7 +173,11 @@ Section 168 of Pub. L. 97–164 provided that: “The Congress—
 
 #### Salary Increases
 
-2003—Salaries of circuit judges increased to $164,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2003, by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2004—Salaries of circuit judges increased to $167,600 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+Salaries of circuit judges increased to $166,500 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
+
+2003—Salaries of circuit judges increased to $164,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2003, by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, formerly set out as a note under section 5332 of Title 5.
 
 2002—Salaries of circuit judges increased to $159,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
 
@@ -225,7 +229,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated 
 
 1980—Salaries of circuit judges increased to $70,900 effective on first day of first pay period beginning on or after Oct. 1, 1980, by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12248 further provided that pursuant to Pub. L. 96–369 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
 
-Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
+Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V ofthe Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
 
 1979—Salaries of circuit judges increased to $65,000 effective on first day of first applicable pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $60,662.50 for circuit judges.
 
@@ -287,7 +291,7 @@ Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, 
 
 Section 201(a) of Pub. L. 98–353 provided that:
 
-“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges for the first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
+“(1) Subject to the provisions of paragraph (2), the President shall appoint, by and with the advice and consent of the Senate, two additional circuit judges forthe first circuit court of appeals, two additional circuit judges for the second circuit court of appeals, two additional circuit judges for the third circuit court of appeals, one additional circuit judge for the fourth circuit court of appeals, two additional circuit judges for the fifth circuit court of appeals, four additional circuit judges for the sixth circuit court of appeals, two additional circuit judges for the seventh circuit court of appeals, one additional circuit judge for the eighth circuit court of appeals, five additional circuit judges for the ninth circuit court of appeals, two additional circuit judges for the tenth circuit court of appeals, and one additional circuit judge for the District of Columbia circuit court of appeals.
 
 “(2) The President shall appoint, by and with the advice and consent of the Senate, no more than 11 of such judges prior to January 21, 1985.”
 
@@ -312,6 +316,24 @@ Ex. Ord. No. 11972, Feb. 14, 1977, 42 F.R. 9659, as amended by Ex. Ord. No. 1199
 #### Executive Order No. 12059
 
 Ex. Ord. No. 12059, May 11, 1978, 43 F.R. 20949, as amended by Ex. Ord. No. 12097, Nov. 8, 1978, 43 F.R. 52455, which established the United States Circuit Judge Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+#### Ex. Ord. No. 13300. Facilitating the Administration of Justice in the Federal Courts
+
+Ex. Ord. No. 13300, May 9, 2003, 68 F.R. 25807, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote the prompt appointment of judges to the Federal courts, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal courts play a central role in the American justice system. For the Federal courts to function effectively, judicial vacancies in those courts must be filled in a timely manner with well-qualified candidates.
+
+Sec. 2. <i>Plan</i>. The presidential plan announced on October 30, 2002, calls for timely consideration of judicial nominees, with the President submitting a nomination to fill a vacancy in United States courts of appeals and district courts within 180 days after the President receives notice of a vacancy or intended retirement, absent extraordinary circumstances.
+
+Sec. 3. <i>Responsibilities</i>. The Counsel to the President shall take all appropriate steps to ensure that the President is in a position to make timely nominations for judicial vacancies consistent with this plan. All Federal departments and agencies shall assist, as requested and permitted by law, in the implementation of this order.
+
+Sec. 4. <i>Reservation of Authority</i>. Nothing in this order shall be construed to affect the authority of the President to fill vacancies under clause 3 of section 2 of article II of the Constitution.
+
+Sec. 5. <i>Judicial Review</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

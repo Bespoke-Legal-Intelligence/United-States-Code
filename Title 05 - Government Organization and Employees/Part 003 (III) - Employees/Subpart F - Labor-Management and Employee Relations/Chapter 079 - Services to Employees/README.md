@@ -26,7 +26,7 @@ Pub. L. 101–509, title VI, §629, Nov. 5, 1990, 104 Stat. 1478, authorized Fed
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 9701 of this title.
+This chapter is referred to in sections 9701, 9902 of this title.
 
 
 ---

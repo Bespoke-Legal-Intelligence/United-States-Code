@@ -14,7 +14,7 @@ Powers.—The employees designated as special police under subsection (a)—
 
 (c)
 
-Uniforms and Other Equipment.—The employees designated as special police under subsection (a) may be provided, without charge, with uniforms and other equipment as may be necessary for the proper performance of their duties, including badges, revolvers, and ammunition.
+Uniforms and Other Equipment.—The employees designated as special police under subsection (a) may be provided, without charge, with uniforms and other equipment as may be necessary for the proper performance of theirduties, including badges, revolvers, and ammunition.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1186.)
 

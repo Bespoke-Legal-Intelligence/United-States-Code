@@ -132,7 +132,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(A) four weeks after January 1, 2000; or
 
-&emsp;&emsp;(B) four weeks after notification is made as required under paragraph (2), except thatany notification made on or after March 15, 2000, shall not be effective for purposes of this subsection.
+&emsp;&emsp;(B) four weeks after notification is made as required under paragraph (2), except that any notification made on or after March 15, 2000, shall not be effective for purposes of this subsection.
 
 #### (4) Applicability
 

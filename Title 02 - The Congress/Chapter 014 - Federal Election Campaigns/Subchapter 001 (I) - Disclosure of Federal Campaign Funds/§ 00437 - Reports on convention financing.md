@@ -6,7 +6,7 @@ Each committee or other organization which—
 
 &emsp;(2) represents a national political party in making arrangements for the convention of such party held to nominate a candidate for the office of President or Vice President,
 
-> shall, within 60 days following the end of the convention (but not later than 20 days prior to the date on which presidential and vice-presidential electors are chosen), file with the Commission a full and complete financial statement, in such form and detail as it may prescribe, ofthe sources from which it derived its funds, and the purpose for which such funds were expended.
+> shall, within 60 days following the end of the convention (but not later than 20 days prior to the date on which presidential and vice-presidential electors are chosen), file with the Commission a full and complete financial statement, in such form and detail as it may prescribe, of the sources from which it derived its funds, and the purpose for which such funds were expended.
 
 (Pub. L. 92–225, title III, §305, formerly §307, Feb. 7, 1972, 86 Stat. 16; Pub. L. 93–443, title II, §208(c)(6), Oct. 15, 1974, 88 Stat. 1286; renumbered §305 and amended Pub. L. 96–187, title I, §§105(2), 112(a), Jan. 8, 1980, 93 Stat. 1354, 1366.)
 
@@ -16,9 +16,9 @@ A prior section 305 of Pub. L. 92–225 was classified to section 435 of this ti
 
 #### Amendments
 
-1980—Pub. L. 96–187 substituted “60” and “20” for “sixty” and “twenty”, respectively, and struck out “Federal Election” before “Commission”.
+<b>1980</b>—Pub. L. 96–187 substituted “60” and “20” for “sixty” and “twenty”, respectively, and struck out “Federal Election” before “Commission”.
 
-1974—Pub. L. 93–443 substituted “Federal Election Commission” and “it” for “Comptroller General of the United States” and “he”, respectively.
+<b>1974</b>—Pub. L. 93–443 substituted “Federal Election Commission” and “it” for “Comptroller General of the United States” and “he”, respectively.
 
 #### Effective Date of 1980 Amendment
 

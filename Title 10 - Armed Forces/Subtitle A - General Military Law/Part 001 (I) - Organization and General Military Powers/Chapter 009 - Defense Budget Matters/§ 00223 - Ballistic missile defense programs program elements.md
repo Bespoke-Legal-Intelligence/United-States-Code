@@ -2,25 +2,13 @@
 
 (a)
 
-Program Elements Specified.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with program elements governing functional areas as follows:
-
-&emsp;(1) Technology.
-
-&emsp;(2) Ballistic Missile Defense System.
-
-&emsp;(3) Terminal Defense Segment.
-
-&emsp;(4) Midcourse Defense Segment.
-
-&emsp;(5) Boost Defense Segment.
-
-&emsp;(6) Sensors Segment.
+Program Elements Specified by President.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Missile Defense Agency shall be set forth in accordance with such program elements as the President may specify.
 
 (b)
 
 Separate Program Elements for Programs Entering Engineering and Manufacturing Development.—(1) The Secretary of Defense shall ensure that each ballistic missile defense program that enters engineering and manufacturing development is assigned a separate, dedicated program element.
 
-(2) In this subsection, the term “engineering and manufacturing development” means the development phase whose primary objectives are to—
+(2) In this subsection, the term “engineering and manufacturing development” means the period in the course of an acquisition program during which the primary objectives are to—
 
 &emsp;(A) translate the most promising design approach into a stable, interoperable, producible, supportable, and cost-effective design;
 
@@ -30,9 +18,9 @@ Separate Program Elements for Programs Entering Engineering and Manufacturing De
 
 (c)
 
-Management and Support.—The amount requested for each program element specified in subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
+Management and Support.—The amount requested for a fiscal year for any program element specified for that fiscal year pursuant to subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
 
-(Added Pub. L. 105–261, div. A, title II, §235(a)(1), Oct. 17, 1998, 112 Stat. 1953; amended Pub. L. 107–107, div. A, title II, §232(a), (b), Dec. 28, 2001, 115 Stat. 1037.)
+(Added Pub. L. 105–261, div. A, title II, §235(a)(1), Oct. 17, 1998, 112 Stat. 1953; amended Pub. L. 107–107, div. A, title II, §232(a), (b), Dec. 28, 2001, 115 Stat. 1037; Pub. L. 107–314, div. A, title II, §225(b)(1)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(a), (b)(1), (c)(1), Nov. 24, 2003, 117 Stat. 1419.)
 
 #### Prior Provisions
 
@@ -40,41 +28,65 @@ Provisions similar to those in this section were contained in Pub. L. 104–106,
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–136, §221(a), inserted “by President” after “Specified” in heading, substituted “such program elements as the President may specify.” for “program elements governing functional areas as follows:” in introductory provisions, and struck out pars. (1) to (6), which read as follows:
+
+“(1) Technology.
+
+“(2) Ballistic Missile Defense System.
+
+“(3) Terminal Defense Segment.
+
+“(4) Midcourse Defense Segment.
+
+“(5) Boost Defense Segment.
+
+“(6) Sensors Segment.”
+
+Subsec. (b)(2). Pub. L. 108–136, §221(c)(1), substituted “means the period in the course of an acquisition program during which the” for “means the development phase whose”.
+
+Subsec. (c). Pub. L. 108–136, §221(b)(1), substituted “for a fiscal year for any program element specified for that fiscal year pursuant to subsection (a)” for “for each program element specified in subsection (a)”.
+
+2002—Subsec. (a). Pub. L. 107–314 substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization”.
+
 2001—Subsec. (a). Pub. L. 107–107, §232(a), substituted “in accordance with program elements governing functional areas as follows:” for “in accordance with the following program elements:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (12) which read as follows:
 
-&emsp;“(1) The Patriot system.
+“(1) The Patriot system.
 
-&emsp;“(2) The Navy Area system.
+“(2) The Navy Area system.
 
-&emsp;“(3) The Theater High-Altitude Area Defense system.
+“(3) The Theater High-Altitude Area Defense system.
 
-&emsp;“(4) The Navy Theater Wide system.
+“(4) The Navy Theater Wide system.
 
-&emsp;“(5) The Medium Extended Air Defense System.
+“(5) The Medium Extended Air Defense System.
 
-&emsp;“(6) Joint Theater Missile Defense.
+“(6) Joint Theater Missile Defense.
 
-&emsp;“(7) National Missile Defense.
+“(7) National Missile Defense.
 
-&emsp;“(8) Support Technologies.
+“(8) Support Technologies.
 
-&emsp;“(9) Family of Systems Engineering and Integration.
+“(9) Family of Systems Engineering and Integration.
 
-&emsp;“(10) Ballistic Missile Defense Technical Operations.
+“(10) Ballistic Missile Defense Technical Operations.
 
-&emsp;“(11) Threat and Countermeasures.
+“(11) Threat and Countermeasures.
 
-&emsp;“(12) International Cooperative Programs.”
+“(12) International Cooperative Programs.”
 
 Subsec. (b). Pub. L. 107–107, §232(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities.”
 
+#### References to New Name for Ballistic Missile Defense Organization
+
+Pub. L. 107–314, div. A, title II, §225(a), Dec. 2, 2002, 116 Stat. 2486, provided that: “Any reference to the Ballistic Missile Defense Organization in any provision of law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Missile Defense Agency.”
+
 #### Cooperative Ballistic Missile Defense Program Element
 
-Pub. L. 105–85, div. A, title II, §233, Nov. 18, 1997, 111 Stat. 1663, provided that:
+Pub. L. 105–85, div. A, title II, §233, Nov. 18, 1997, 111 Stat. 1663, as amended by Pub. L. 107–314, div. A, title II, §225(b)(4)(A), Dec. 2, 2002, 116 Stat. 2486, provided that:
 
 “(a)
 
-Requirement for New Program Element.—The Secretary of Defense shall establish a program element for the Ballistic Missile Defense Organization, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
+Requirement for New Program Element.—The Secretary of Defense shall establish a program element for the Missile Defense Agency, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
 
 “(b)
 
@@ -82,5 +94,5 @@ Authority for Exceptions.—The Secretary of Defense may exclude from the progra
 
 “(c)
 
-Relationship to Other Program Elements.—The program element established pursuant to subsection (a) is in addition to the program elements for activities of the Ballistic Missile Defense Organization required under section 251 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 233; \[former\] 10 U.S.C. 221 note).”
+Relationship to Other Program Elements.—The program element established pursuant to subsection (a) is in addition to the program elements for activities of the Missile Defense Agency required under section 251 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 233; \[former\] 10 U.S.C. 221 note).”
 

@@ -32,7 +32,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;(2) The unearned premiums and unpaid losses included in total reserves under section 816(c)(2).
 
-&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy the obligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
+&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy theobligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
 
 &emsp;(4) Dividend accumulations, and other amounts, held at interest in connection with insurance and annuity contracts.
 
@@ -120,7 +120,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate”means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for thecalendar year in which the contract was issued.
 
 #### (ii) Election to recompute Federal interest rate every 5 years
 

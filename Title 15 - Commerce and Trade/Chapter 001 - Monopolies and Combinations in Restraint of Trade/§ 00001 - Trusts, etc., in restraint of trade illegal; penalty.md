@@ -64,7 +64,7 @@ Pub. L. 96–493, §1, Dec. 2, 1980, 94 Stat. 2568, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–435, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act \[enacting sections 15c to 15h,18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
+Section 1 of Pub. L. 94–435, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
 #### Short Title of 1975 Amendment
 
@@ -190,11 +190,11 @@ Staff.—
 
 &emsp;“(1)
 
-Appointment.—The chairperson of the Commission may, without regard to the provisions of chapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission.
+Appointment.—The chairperson of the Commission may, without regard to the provisions ofchapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission.
 
 &emsp;“(2)
 
-Compensation.—The chairperson of the Commission may fix the compensation of the executivedirector and other staff without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 of the United States Code (relating to classification of positions and General Schedule pay rates), except that the rate of pay for the executive director and other staff may not exceed the rate of basic pay payable for level V of the Executive Schedule under section 5315 of title 5 United States Code, as in effect from time to time.
+Compensation.—The chairperson of the Commission may fix the compensation of the executive director and other staff without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 of the United States Code (relating to classification of positions and General Schedule pay rates), except that the rate of pay for the executive director and other staff may not exceed the rate of basic pay payable for level V of the Executive Schedule under section 5315 of title 5 United States Code, as in effect from time to time.
 
 “(b)
 
@@ -288,7 +288,7 @@ Purposes.—Based upon the powers contained in article I, section 8, clause 3 of
 
 Antitrust laws.—The term ‘antitrust laws’—
 
-&emsp;&emsp;“(A) has the meaning given to it in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
+&emsp;&emsp;“(A) has the meaning given to it in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 ofthe Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
 
 &emsp;&emsp;“(B) includes any State law similar to the laws referred to in subparagraph (A).
 
@@ -404,7 +404,7 @@ Statements.—Except as provided in subsection (c), in any covered action, to th
 
 “(c)
 
-Defamation or Similar Claims.—In a covered action arising under any Federal or State law of defamation, trade disparagement, or a similar claim, to the extent such action is based on an allegedly false, inaccurate, or misleading year 2000 statement, the maker of that year 2000 statement shall not be liable with respect to that year 2000 statement, unless the claimant establishes by clear and convincing evidence, in addition to all other requisite elements of the applicable action, that the year 2000 statement was made with knowledge that the year 2000 statement was false or made with reckless disregard as to its truth or falsity.
+Defamation or Similar Claims.—In a covered action arising under any Federal or State law of defamation, trade disparagement, or a similar claim, to the extent such action is based on an allegedly false, inaccurate, or misleading year 2000 statement, the maker of that year 2000 statement shall not be liable with respect to that year 2000 statement, unless the claimant establishes by clear and convincing evidence, in addition to all other requisite elements of the applicableaction, that the year 2000 statement was made with knowledge that the year 2000 statement was false or made with reckless disregard as to its truth or falsity.
 
 “(d)
 
@@ -414,7 +414,7 @@ Internet Website.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), in any covered action other than a covered action involving personal injury or serious physical damage to property, in which the adequacy of notice aboutyear 2000 processing is at issue, the posting, in a commercially reasonable manner and for a commercially reasonable duration, of a notice by the entity charged with giving such notice on the year 2000 Internet website of that entity shall be deemed an adequate mechanism for providing that notice.
+In general.—Except as provided in paragraph (2), in any covered action other than a covered action involving personal injury or serious physical damage to property, in which the adequacy of notice about year 2000 processing is at issue, the posting, in a commercially reasonable manner and for a commercially reasonable duration, of a notice by the entity charged with giving such notice on the year 2000 Internet website of that entity shall be deemed an adequate mechanism for providing that notice.
 
 &emsp;“(2)
 
@@ -546,9 +546,9 @@ In general.—In any covered action brought by a consumer, this Act does not app
 
 &emsp;&emsp;“(B)
 
-Specific notice required.—In any covered action, this Act shall not apply to a year 2000 statement, concerning a year 2000 remediation product or service, expressly made in an offer to sell or in a solicitation (including an advertisement) by a seller, manufacturer, or provider, of that product or service unless, during the course of the offer or solicitation, the party making the offer or solicitation provides the following notice in accordance with section 4(d):
+Specific notice required.—In any covered action, this Act shall not apply to a year 2000 statement, concerning a year 2000 remediation product or service, expressly made in an offer to sell or ina solicitation (including an advertisement) by a seller, manufacturer, or provider, of that product or service unless, during the course of the offer or solicitation, the party making the offer or solicitation provides the following notice in accordance with section 4(d):
 
-&emsp;&emsp;&emsp;“ ‘Statements made to you in the course of this sale are subject to the Year 2000 Information andReadiness Disclosure Act (\_\_\_\_ U.S.C. \_\_\_\_). In the case of a dispute, this Act may reduce your legal rights regarding the use of any such statements, unless otherwise specified by your contract or tariff.’
+&emsp;&emsp;&emsp;“ ‘Statements made to you in the course of this sale are subject to the Year 2000 Information and Readiness Disclosure Act (\_\_\_\_ U.S.C. \_\_\_\_). In the case of a dispute, this Act may reduce your legal rights regarding the use of any such statements, unless otherwise specified by your contract or tariff.’
 
 &emsp;“(3)
 

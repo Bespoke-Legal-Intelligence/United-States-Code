@@ -250,7 +250,7 @@ Prohibition on Favored Players.—
 
 &emsp;“(1)
 
-In general.—No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which isnot generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
+In general.—No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which is not generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
 
 &emsp;“(2)
 

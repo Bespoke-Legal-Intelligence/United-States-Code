@@ -56,7 +56,7 @@ The House bill adopts the substance of the Senate amendment rule under section 1
 
 #### senate report no. 95–989
 
-Chapter 13 is designed to serve as a flexible vehicle for the repayment of part or all of the allowed claimsof the debtor. Section 1322 emphasizes that purpose by fixing a minimum of mandatory plan provisions.
+Chapter 13 is designed to serve as a flexible vehicle for the repayment of part or all of the allowed claims of the debtor. Section 1322 emphasizes that purpose by fixing a minimum of mandatory plan provisions.
 
 Subsection (a) requires that the plan submit whatever portion of the future income of the debtor is necessary to implement the plan to the control of the trustee, mandates payment in full of all section 507 priority claims, and requires identical treatment for all claims of a particular class.
 

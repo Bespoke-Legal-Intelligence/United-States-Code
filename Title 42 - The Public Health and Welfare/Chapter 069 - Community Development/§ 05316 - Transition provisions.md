@@ -18,7 +18,7 @@ The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 3
 
 Sections 702 and 703 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102, 3103\], referred to in subsec. (a), were omitted from the Code pursuant to this section which terminated the authority to make grants or loans under those sections after Jan. 1, 1975.
 
-The Housing Amendments of 1955, referred to in subsec. (a), is act Aug. 11, 1955, ch. 783, 69 Stat. 645, as amended. Title II of the Housing Amendments of 1955 was classified generally to chapter 8B (§1491 et seq.) ofthis title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title II after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
+The Housing Amendments of 1955, referred to in subsec. (a), is act Aug. 11, 1955, ch. 783, 69 Stat. 645, as amended. Title II of the Housing Amendments of 1955 was classified generally to chapter 8B (§1491 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title II after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
 The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30, 1961, 87 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
@@ -44,7 +44,7 @@ Subsec. (h). Pub. L. 96–399, §111(h)(1), struck out subsec. (h) relating to s
 
 #### Effective Date of 1983 Amendment
 
-Section 110(b) of Pub. L. 98–181, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
+Section 110(b) of Pub. L. 98–181, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, amending this section, sections 5301 to 5308 and 5312 of this title,and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
 
 #### Effective Date of 1981 Amendment
 

@@ -24,7 +24,7 @@ Subpart C—Taxable Year for Which Deductions Taken
 
 1987—Pub. L. 100–203, title X, §10201(b)(7), Dec. 22, 1987, 101 Stat. 1330–387, struck out item 463 “Accrual of vacation pay”.
 
-1986—Pub. L. 99–514, title IV, §404(b)(2), title V, §501(b), title VIII, §823(b)(2), title XVIII, §§1807(a)(7)(B), 1899A(71), Oct. 22, 1986, 100 Stat. 2224, 2241, 2374, 2815, 2963, substituted “for certain farming expenses” for “in case of farming syndicates” in item 464, struck out item 466 “Qualified discount coupons redeemed after close of taxable year”, inserted “the” before “use” in item 467, and added items 468B and 469.
+1986—Pub. L. 99–514, title IV, §404(b)(2), title V, §501(b), title VIII, §823(b)(2), title XVIII, §§1807(a)(7)(B),1899A(71), Oct. 22, 1986, 100 Stat. 2224, 2241, 2374, 2815, 2963, substituted “for certain farming expenses” for “in case of farming syndicates” in item 464, struck out item 466 “Qualified discount coupons redeemed after close of taxable year”, inserted “the” before “use” in item 467, and added items 468B and 469.
 
 1984—Pub. L. 98–369, div. A, title I, §§91(b)(2), (c)(2), 92(b), July 18, 1984, 98 Stat. 604, 606, 612, added items 467, 468, and 468A.
 

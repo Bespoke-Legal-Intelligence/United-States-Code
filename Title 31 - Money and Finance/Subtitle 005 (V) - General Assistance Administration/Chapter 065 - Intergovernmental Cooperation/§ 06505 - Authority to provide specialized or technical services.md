@@ -66,7 +66,7 @@ Definition of State.—In this section, the term ‘State’ has the meaning giv
 
 “(b)
 
-Authority.—The Corps of Engineers may provide specialized or technical services to a Federal agency (other than an agency of the Department of Defense) or a State or local government under section 6505 of title 31, United States Code, only if the chief executive of the requesting entity submits to the Secretary \[of the Army\]—
+Authority.—The Corps of Engineers may provide specialized or technical services to a Federal agency (other than an agency of the Department of Defense) or a State or local government under section 6505 of title31, United States Code, only if the chief executive of the requesting entity submits to the Secretary \[of the Army\]—
 
 &emsp;“(1) a written request describing the scope of the services to be performed and agreeing to reimburse the Corps for all costs associated with the performance of the services; and
 

@@ -28,11 +28,11 @@ General Definitions.—In this chapter—
 
 &emsp;&emsp;(C) any device or an article or apparel (except medicine or eyeglasses prescribed by a licensed practitioner) that is not a system, part, or component of a motor vehicle and is manufactured, sold, delivered, offered, or intended to be used only to safeguard motor vehicles and highway users against risk of accident, injury, or death.
 
-&emsp;(8) “motor vehicle safety” means the performance of a motor vehicle or motor vehicleequipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
+&emsp;(8) “motor vehicle safety” means the performance of a motor vehicle or motor vehicle equipment in a way that protects the public against unreasonable risk of accidents occurring because of the design, construction, or performance of a motor vehicle, and against unreasonable risk of death or injury in an accident, and includes nonoperational safety of a motor vehicle.
 
 &emsp;(9) “motor vehicle safety standard” means a minimum standard for motor vehicle or motor vehicle equipment performance.
 
-&emsp;(10) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+&emsp;(10) “State” means a State of the United States, the District of Columbia, Puerto Rico,the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
 &emsp;(11) “United States district court” means a district court of the United States, a United States court for Guam, the Virgin Islands, and American Samoa, and the district court for the Northern Mariana Islands.
 
@@ -148,5 +148,5 @@ Pub. L. 107–319, §2, Dec. 4, 2002, 116 Stat. 2776, provided that: “For purp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 1226, 2052.
+This section is referred to in title 15 sections 1226, 2052; title 50 App. section 511.
 

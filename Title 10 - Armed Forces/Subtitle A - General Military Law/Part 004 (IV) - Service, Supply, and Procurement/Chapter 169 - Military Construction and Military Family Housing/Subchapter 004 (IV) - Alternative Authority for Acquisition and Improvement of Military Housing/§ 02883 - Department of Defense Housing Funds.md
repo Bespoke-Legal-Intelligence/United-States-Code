@@ -30,6 +30,8 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
 
+&emsp;(F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
+
 (2) There shall be credited to the Department of Defense Military Unaccompanied Housing Improvement Fund the following:
 
 &emsp;(A) Amounts authorized for and appropriated to that Fund.
@@ -42,6 +44,8 @@ Credits to Funds.—(1) There shall be credited to the Department of Defense Fam
 
 &emsp;(E) Any amounts that the Secretary of the Navy transfers to that Fund pursuant to section 2814(i)(3) of this title, subject to the restrictions on the use of the transferred amounts specified in that section.
 
+&emsp;(F) Any amounts that the Secretary concerned transfers to that Fund pursuant to section 2869 of this title.
+
 (d)
 
 Use of Amounts in Funds.—(1) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
@@ -52,11 +56,11 @@ Use of Amounts in Funds.—(1) In such amounts as provided in appropriation Acts
 
 (e)
 
-Limitation on Obligations.—The Secretary may not incur an obligation under a contract or other agreement entered into under this subchapter in excess of the unobligated balance, at the time the contract is entered into, of theFund required to be used to satisfy the obligation.
+Limitation on Obligations.—The Secretary may not incur an obligation under a contract or other agreement entered into under this subchapter in excess of the unobligated balance, at the time the contract is entered into, of the Fund required to be used to satisfy the obligation.
 
 (f)
 
-Notification Required for Transfers.—A transfer of appropriated amounts to a Fund under paragraph (1)(B) or (2)(B) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
+Notification Required for Transfers.—A transfer of appropriated amounts to a Fund under paragraph (1)(B) or (2)(B) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title.
 
 (g)
 
@@ -66,9 +70,15 @@ Limitation on Amount of Budget Authority.—The total value in budget authority 
 
 &emsp;(2) $150,000,000 for the acquisition or construction of military unaccompanied housing.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, §2802(b), Oct. 5, 1999, 113 Stat. 848.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 104–201, div. B, title XXVIII, §2804, Sept. 23, 1996, 110 Stat. 2788; Pub. L. 106–65, div. B, title XXVIII, §2802(b), Oct. 5, 1999, 113 Stat. 848; Pub. L. 108–136, div. A, title X, §1031(a)(51), div. B, title XXVIII, §2805(c), Nov. 24, 2003, 117 Stat. 1603, 1721.)
 
 #### Amendments
+
+2003—Subsec. (c)(1)(F). Pub. L. 108–136, §2805(c)(1), added subpar. (F).
+
+Subsec. (c)(2)(F). Pub. L. 108–136, §2805(c)(2), added subpar. (F).
+
+Subsec. (f). Pub. L. 108–136, §1031(a)(51), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title”.
 
 1999—Subsec. (c)(1)(E). Pub. L. 106–65, §2802(b)(1), added subpar. (E).
 
@@ -78,5 +88,5 @@ Subsec. (c)(2)(E). Pub. L. 106–65, §2802(b)(2), added subpar. (E).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2814, 2854a, 2871, 2884 of this title.
+This section is referred to in sections 2814, 2854a, 2869, 2871, 2884 of this title.
 

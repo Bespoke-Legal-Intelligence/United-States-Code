@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ii) In the case of a trust described in clause (ii) of subparagraph (A), the estate of the deemed owner shall be treated as the shareholder.
 
-&emsp;&emsp;&emsp;(iii) In the case of a trust described in clause (iii) of subparagraph (A), the estateof the testator shall be treated as the shareholder.
+&emsp;&emsp;&emsp;(iii) In the case of a trust described in clause (iii) of subparagraph (A), the estate of the testator shall be treated as the shareholder.
 
 &emsp;&emsp;&emsp;(iv) In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;&emsp;(iv) upon the termination of the trust during the life of the current income beneficiary, the trust shall distribute all of its assets to such beneficiary, and
 
-&emsp;&emsp;(B) all of the income (within the meaning of section 643(b)) of which is distributed (orrequired to be distributed) currently to 1 individual who is a citizen or resident of the United States.
+&emsp;&emsp;(B) all of the income (within the meaning of section 643(b)) of which is distributed (or required to be distributed) currently to 1 individual who is a citizen or resident of the United States.
 
 > &emsp;A substantially separate and independent share of a trust within the meaning of section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c).
 
@@ -256,7 +256,7 @@
 
 #### Prior Provisions
 
-A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
+A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L.89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
 
 #### Amendments
 
@@ -354,7 +354,7 @@ Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable year
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -372,7 +372,7 @@ Section 721(y) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, any amendment made by this section \[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\].
+In general.—Except as otherwise provided in this subsection, any amendment made by this section \[amending this section, sections 48, 108, 267, 318, 465, 1362, 1363, 1367, 1368, 1371, 1374, 1375, 1378, 1379, 6362, and 6659 and provisions set out as a note under this section\] shall take effect as if included in the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\].
 
 “(2)
 
@@ -570,7 +570,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
-&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
+&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
 
 &emsp;“(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
 

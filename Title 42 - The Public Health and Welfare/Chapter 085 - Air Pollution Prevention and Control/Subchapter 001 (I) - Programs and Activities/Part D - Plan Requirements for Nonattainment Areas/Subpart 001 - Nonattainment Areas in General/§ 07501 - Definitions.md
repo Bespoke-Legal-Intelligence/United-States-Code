@@ -38,5 +38,5 @@ Part effective Aug. 7, 1977, except as otherwise expressly provided, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7410, 7412, 7503, 7513a of this title; title 49 section 47136.
+This section is referred to in sections 7410, 7412, 7503, 7513a of this title; title 49 sections 40117, 47102, 47136, 47140.
 

@@ -1,16 +1,10 @@
 ### §1441. Price support levels
 
-The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized and directed to make available through loans, purchases, or other operations, price support to cooperators for any crop of any basic agricultural commodity, if producers have not disapprovedmarketing quotas for such crop, at a level not in excess of 90 per centum of the parity price of the commodity nor less than the level provided in subsections (a) to (c) of this section as follows:
+The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized and directed to make available through loans, purchases, or other operations, price support to cooperators for any crop of any basic agricultural commodity, if producers have not disapproved marketing quotas for such crop, at a level not in excess of 90 per centum of the parity price of the commodity nor less than the level provided in subsections (a) to (c) of this section as follows:
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| --- | --- |
 | (a) For tobacco (except as otherwise provided herein), corn, and wheat, if the supply percentage as of the beginning of the marketing year is: | The level of support shall be not less than the following percentage of the parity price: |
-
-&nbsp;
-
-| &nbsp; | &nbsp; |
 | :--- | ---: |
 | Not more than 102 | 90 |
 | More than 102 but not more than 104 | 89 |
@@ -33,13 +27,7 @@ For rice of the 1959 and 1960 crops, the level of support shall be not less than
 
 &nbsp;
 
-| &nbsp; | &nbsp; |
-| --- | --- |
 | (b) For cotton, if the supply percentage as of the beginning of the marketing year is: | The level of support shall be not less than the following percentage of the parity price: |
-
-&nbsp;
-
-| &nbsp; | &nbsp; |
 | :--- | ---: |
 | Not more than 108 | 90 |
 | More than 108 but not more than 110 | 89 |
@@ -72,7 +60,7 @@ For rice of the 1959 and 1960 crops, the level of support shall be not less than
 
 &emsp;(5) the price support may be made available to noncooperators at such levels, not in excess of the level of price support to cooperators, as the Secretary determines will facilitate the effective operation of the program;
 
-&emsp;(6) except as provided in subsection (c) of this section and section 1422 of this title, the level of support to cooperators shall be not more than 90 per centum and not less than 821/2 per centum of the parity price for the 1955 crop of any basic agricultural commodity with respect to which producers have not disapproved marketing quotas; within such limits, the minimum level of support shall be fixed as provided in subsections (a) and (b) of this section;
+&emsp;(6) except as provided in subsection (c) of this section and section 1422 of this title, the level of support to cooperators shall be notmore than 90 per centum and not less than 821/2 per centum of the parity price for the 1955 crop of any basic agricultural commodity with respect to which producers have not disapproved marketing quotas; within such limits, the minimum level of support shall be fixed as provided in subsections (a) and (b) of this section;
 
 &emsp;(7) Where a State is designated under section 1335(e) of this title, as outside the commercial wheat-producing area for any crop of wheat, the level of price support for wheat to cooperators in such State for such crop of wheat shall be 75 per centum of the level of price support to cooperators in the commercial wheat-producing area.
 
@@ -110,7 +98,7 @@ Pub. L. 98–258, §402(6), substituted “$3.00 per hundredweight for the 1983 
 
 Pub. L. 98–258, §402(7), substituted “1983 and 1985 crops” for “1983 crop” after “The Secretary shall make not less than 50 per centum of any payments under this subparagraph to producers of the”.
 
-1983—Subsec. (f). Pub. L. 98–88 struck out subsec. (f) which read as follows: “The provisions of this Act relating to price support for cotton shall apply severally to (1) American upland cotton and (2) extra long staple cotton described in subsection (a) of this section and ginned as required by subsection (e) of section 1347 of this title, except that, notwithstanding any other provision of this Act, price support shall be made available for the 1982 and each subsequent crop of extra long staple cotton through nonrecourse loans as provided in this subsection. If producers have not disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which is not less than 75 per centum or more than 125 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. If producers have disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which shall be 50 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. Nothing contained herein shall affect the authority of the Secretary to make price support available for extra long staple cotton in accordance with section 1422 of this title.” See section 1444(h) of this title.
+1983—Subsec. (f). Pub. L. 98–88 struck out subsec. (f) which read as follows: “The provisions of this Act relating to price support for cotton shall apply severally to (1) American upland cotton and (2) extra long staple cotton described in subsection (a) of this section and ginned as required by subsection (e) of section 1347 of this title, except that, notwithstanding any other provision of this Act, price support shall be made available for the 1982 and each subsequent crop of extra long staple cotton through nonrecourse loans as provided in this subsection. If producers have not disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which is not less than 75 per centum or more than 125 per centum in excess of the loan level established for Strict Low Middling oneand one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. If producers have disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which shall be 50 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. Nothing contained herein shall affect the authority of the Secretary to make price support available for extra long staple cotton in accordance with section 1422 of this title.” See section 1444(h) of this title.
 
 1982—Subsec. (i)(5)(A). Pub. L. 97–253, §125(1)–(3), substituted “Notwithstanding any other provision of law, except as provided in the third and fourth sentences of this paragraph, the” for “Notwithstanding any other provision of this subsection, the”, following second sentence, inserted provision that for the 1983 crop of rice, the Secretary shall provide for a combination of (i) an acreage limitation program as described under this subparagraph and (ii) a diversion program as described under subpar. (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of 20 per centum, consisting of a reduction of 15 per centum under the acreage limitation program and a reduction of 5 per centum under the diversion program, and that as a condition of eligibility for loans, purchases, and payments on the 1983 crop of rice, the producers on a farm must comply with the terms and conditions of the combined acreage limitation and diversion program, and, following ninth sentence, inserted provision that notwithstanding the other provisions of this subparagraph, the acreage base to be used for the farm under the program for the 1983 crop of rice shall be the same as the acreage base applicable to the farm under the acreage limitation program for the 1982 crop, adjusted to reflect established crop-rotation practices and to reflect such other factors as the Secretary determines should be considered in determining a fair and equitable base.
 
@@ -190,7 +178,7 @@ Section 102 of Pub. L. 94–214 provided that the amendment made by that section
 
 #### Effective Date of 1958 Amendment
 
-Section 104(b)(3) of act Oct. 31, 1949, as added by section 201 of Pub. L. 85–835, provided for repeal of subsec. (d)(4) of this section effective with 1959 crop, to be operative as provided in section 1444a(b) of this title. See1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
+Section 104(b)(3) of act Oct. 31, 1949, as added by section 201 of Pub. L. 85–835, provided for repeal of subsec. (d)(4) of this section effective with 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
 
 Section 302(a) of Pub. L. 85–835 provided in part that the amendment by Pub. L. 85–835 \[amending this section\] is effective beginning with the 1959 crop.
 

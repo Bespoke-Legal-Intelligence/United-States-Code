@@ -54,7 +54,7 @@ A prior section 45303 was renumbered section 45304 of this title.
 
 Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds madeavailable for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -60,7 +60,6 @@
 | (c) | Development of standards and guidelines. |
 | (d) | Information security functions. |
 | (e) | Definitions. |
-| (f) | Authorization of appropriations. |
 | 278g–4. | Information Security and Privacy Advisory Board. |
 | (a) | Establishment and composition. |
 | (b) | Duties. |

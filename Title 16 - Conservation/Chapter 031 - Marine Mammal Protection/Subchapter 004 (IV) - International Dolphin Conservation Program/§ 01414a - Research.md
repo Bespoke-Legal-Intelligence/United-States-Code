@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) a review of relevant stress-related research and a 3-year series of necropsy samples from dolphins obtained by commercial vessels;
 
-&emsp;&emsp;(B) a 1-year review of relevant historical demographic and biological data related to dolphins and dolphin stocks referred to in paragraph (1); and
+&emsp;&emsp;(B) a 1-year review of relevant historical demographic and biological data related todolphins and dolphin stocks referred to in paragraph (1); and
 
 &emsp;&emsp;(C) an experiment involving the repeated chasing and capturing of dolphins by means of intentional encirclement.
 

@@ -30,11 +30,11 @@ Prior to the issuance of the comprehensive plan required by subsection (d) of th
 
 #### (d) Comprehensive plan
 
-The Director, after gathering appropriate information and after considering comments onthe proposed Program guidelines published in the Federal Register pursuant to subsection (c) of this section, shall develop a comprehensive plan for the Program that—
+The Director, after gathering appropriate information and after considering comments on the proposed Program guidelines published in the Federal Register pursuant to subsection (c) of this section, shall develop a comprehensive plan for the Program that—
 
 &emsp;(1) defines the appropriate roles and responsibilities of the Federal Government, institutions of higher education, State governments, private foundations, and other appropriate organizations;
 
-&emsp;(2) states what procedures will be used to ensure that predominantly undergraduate institutions and colleges and universities that historically have received little Federal research and development funding will receive substantial percentages of the funds awarded under sections 1862a to 1862d of this title;
+&emsp;(2) states what procedures will be used to ensure that predominantly undergraduate institutions and colleges and universities that historically have received little Federal researchand development funding will receive substantial percentages of the funds awarded under sections 1862a to 1862d of this title;
 
 &emsp;(3) states the estimated percentage of Program funds available for each category of eligible institutions, including predominantly undergraduate institutions and colleges and universities that historically have received little Federal research and development funding as well as research universities; and
 

@@ -4,7 +4,7 @@
 
 (b) Except as otherwise provided by subsection (c) of this section, the Office of Personnel Management, subject to the supervision and control of the President, may prescribe regulations under which exceptions may be made to the restrictions in subsection (a) of this section when appropriate authority determines that the exceptions are warranted because personal services otherwise cannot be readily obtained.
 
-(c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in the case of pay disbursed by the Secretary of the Senate).
+(c)(1) Unless otherwise authorized by law and except as otherwise provided by paragraph (2) or (4) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position if the pay of one of the positions is paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, or one of the positions is under the Office of the Architect of the Capitol, and if the aggregate gross pay from the positions exceeds $7,724 a year ($10,540, in thecase of pay disbursed by the Secretary of the Senate).
 
 (2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 
 #### Effective Date of 1967 Amendments
 
-Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967,see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 61–1 of Title 2, The Congress.
 
@@ -136,9 +136,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, set out as a note under section 60a–1 of Title 2, The Congress.
+2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, set out as a note under section 60a–1 of Title 2, The Congress.
 
-2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under section 60a–1 of Title 2, The Congress.
+2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, set out as a note under section 60a–1 of Title 2.
+
+2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under section 60a–1 of Title 2.
 
 2001—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, formerly set out as a note under section 60a–1 of Title 2.
 

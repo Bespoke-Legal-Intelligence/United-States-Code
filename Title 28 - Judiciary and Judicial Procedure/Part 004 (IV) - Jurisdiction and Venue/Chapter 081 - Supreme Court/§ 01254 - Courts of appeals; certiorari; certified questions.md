@@ -4,7 +4,7 @@ Cases in the courts of appeals may be reviewed by the Supreme Court by the follo
 
 &emsp;(1) By writ of certiorari granted upon the petition of any party to any civil or criminal case, before or after rendition of judgment or decree;
 
-&emsp;(2) By certification at any time by a court of appeals of any question of law in any civil or criminal case as to which instructions are desired, and upon such certification the Supreme Court may give binding instructions or require the entire record to be sent up for decision of the entire matter in controversy.
+&emsp;(2) By certification at any time by a court of appeals of any question of law in any civil orcriminal case as to which instructions are desired, and upon such certification the Supreme Court may give binding instructions or require the entire record to be sent up for decision of the entire matter in controversy.
 
 (June 25, 1948, ch. 646, 62 Stat. 928; Pub. L. 100–352, §2(a), (b), June 27, 1988, 102 Stat. 662.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (hereafter in this section referred to as the “Committee”), which shall be composed of 15 members appointed by the Secretary from among individuals who are representatives of, or knowledgeable concerning, education and training beyond secondary education, including representatives of all sectors and types of institutions of higher education (as defined in section 1002 of this title), to assess theprocess of eligibility and certification of such institutions under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 and the provision of financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (hereafter in this section referred to as the “Committee”), which shall be composed of 15 members appointed by the Secretary from among individuals who are representatives of, or knowledgeable concerning, education and training beyond secondary education, including representatives of all sectors and types of institutions of higher education (as defined in section 1002 of this title), to assess the process of eligibility and certification of such institutions under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 and the provision of financial aid under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Terms of members
 
@@ -28,7 +28,7 @@ The Committee shall—
 
 &emsp;(4) develop and recommend to the Secretary standards and criteria for specific categories of vocational training institutions and institutions of higher education for which there are no recognized accrediting agencies, associations, or State agencies, in order to establish the eligibility of such institutions on an interim basis for participation in federally funded programs;
 
-&emsp;(5) advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, together with recommendations for improvements in such process;
+&emsp;(5) advise the Secretary with respect to the eligibility and certification process for institutions of higher education under subchapter IV of this chapter and part C of subchapter Iof chapter 34 of title 42, together with recommendations for improvements in such process;
 
 &emsp;(6) advise the Secretary with respect to the relationship between—
 

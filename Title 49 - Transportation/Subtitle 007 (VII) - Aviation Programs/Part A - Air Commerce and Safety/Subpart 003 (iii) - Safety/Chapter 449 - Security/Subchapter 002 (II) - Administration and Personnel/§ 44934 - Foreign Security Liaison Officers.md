@@ -14,7 +14,7 @@ Duties and Powers.—An Officer reports directly to the Under Secretary. The Off
 
 (c)
 
-Coordination of Activities.—The activities of each Officer shall be coordinated with thechief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4802) and section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927).
+Coordination of Activities.—The activities of each Officer shall be coordinated with the chief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4802) and section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 107–71, title I, §101(f)(4), (5), (7), (9), Nov. 19, 2001, 115 Stat. 603.)
 

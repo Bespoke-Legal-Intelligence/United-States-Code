@@ -6,7 +6,7 @@ The procedures set forth in sections 1602 through 1619 of this title shall apply
 
 #### Prior Provisions
 
-A prior section 600 of act June 17, 1930, ch. 497, title IV, 46 Stat. 753, related to gratuities, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See section 213 of Title 18, Crimes and Criminal Procedure.
+A prior section 600 of act June 17, 1930, ch. 497, title IV, 46 Stat. 753, related to gratuities, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 #### Transfer of Functions
 

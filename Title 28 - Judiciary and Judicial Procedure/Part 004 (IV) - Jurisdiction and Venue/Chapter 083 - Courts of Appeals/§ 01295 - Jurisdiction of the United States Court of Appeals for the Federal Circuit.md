@@ -4,7 +4,7 @@
 
 &emsp;(1) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a case involving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;
 
-&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
+&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or theDistrict Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
 
 &emsp;(3) of an appeal from a final decision of the United States Court of Federal Claims;
 
@@ -86,7 +86,7 @@ Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date of 1984 Amendment
 

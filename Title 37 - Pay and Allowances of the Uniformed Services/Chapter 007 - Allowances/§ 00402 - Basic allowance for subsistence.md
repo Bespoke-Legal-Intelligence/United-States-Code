@@ -8,21 +8,17 @@ Entitlement to Allowance.—(1) Except as provided in paragraph (2) or otherwise
 
 (b)
 
-Rates of Allowance Based on Food Costs.—(1) Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+Rates of Allowance Based on Food Costs.—
 
-&emsp;(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age.
-
-&emsp;(B) The amount equal to the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age.
-
-(2) On and after January 1, 2002, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be equal to the sum of—
+(1) The monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be equal to the sum of—
 
 &emsp;(A) the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for the preceding year; plus
 
 &emsp;(B) the product of the monthly rate under subparagraph (A) and the percentage increase in the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
 
-(3) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
+(2) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
 
-(4) For purposes of implementing paragraph (2), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.
+(3) For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.
 
 (c)
 
@@ -30,7 +26,7 @@ Advance Payment.—The allowance to an enlisted member may be paid in advance fo
 
 (d)
 
-Special Rate for Enlisted Members Occupying Single Quarters Without Adequate Availability of Meals.—The Secretary of Defense, and the Secretary of the department in which the Coast Guard is operating, may pay an enlisted member the basic allowance for subsistence under this section at a monthly rate that is twice the amount in effect under subsection (b)(2) while—
+Special Rate for Enlisted Members Occupying Single Quarters Without Adequate Availability of Meals.—The Secretary of Defense, and the Secretary of the department in which the Coast Guard is operating, may pay an enlisted member the basic allowance for subsistence under this section at a monthly rate that is twice the amount in effect under subsection (b)(1) while—
 
 &emsp;(1) the member is assigned to single Government quarters which have no adequate food storage or preparation facility in the quarters; and
 
@@ -42,15 +38,25 @@ Special Rule for Certain Enlisted Reserve Members.—Unless entitled to basic pa
 
 (f)
 
-Policies on Use of Dining and Messing Facilities.—The Secretary of Defense, in consultation with the Secretaries concerned, shall prescribe policies regarding use of dining and field messing facilities of the uniformed services.
+Special Rule for High-Cost Duty Locations and Other Unique and Unusual Circumstances.—The Secretary of Defense may authorize a member of the armed forces who is not entitled to the meals portion of the per diem in connection with an assignment in a high-cost duty location or under other unique and unusual circumstances, as determined by the Secretary, to receive any or all of the following:
+
+&emsp;(1) Meals at no cost to the member, regardless of the entitlement of the member to a basic allowance for subsistence under subsection (a).
+
+&emsp;(2) A basic allowance for subsistence at the standard rate, regardless of the entitlement of the member for all meals or select meals during the duty day.
+
+&emsp;(3) A supplemental subsistence allowance at a rate higher than the basic allowance for subsistence rates in effect under this section, regardless of the entitlement of the member for all meals or select meals during the duty day.
 
 (g)
+
+Policies on Use of Dining and Messing Facilities.—The Secretary of Defense, in consultation with the Secretaries concerned, shall prescribe policies regarding use of dining and field messing facilities of the uniformed services.
+
+(h)
 
 Regulations.—(1) The Secretary of Defense shall prescribe regulations for the administration of this section. Before prescribing the regulations, the Secretary shall consult with each Secretary concerned.
 
 (2) The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §603, Dec. 2, 2002, 116 Stat. 2566.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §603, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, §604, title X, §1045(b)(2), Nov. 24, 2003, 117 Stat. 1499, 1612.)
 
 Historical and Revision Notes
 
@@ -120,7 +126,7 @@ Oct. 12, 1949, ch. 681, §501(a) (45 words before proviso), (e) (less applicabil
 
 In subsection (a), the words “in the amount set forth in subsection (d)” are substituted for the words “in such amounts . . . as are provided in this section”.
 
-In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted for section 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
+In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted forsection 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
 
 In subsection (c), the words “who are entitled to basic pay” are inserted to reflect the 1st sentence of section 251(a) of existing title 37.
 
@@ -129,6 +135,20 @@ In subsection (d), the reference in section 251(a) of existing title 37 to the a
 In subsection (e), the words “Effective April 15, 1955,” are omitted as executed. The words “United States” are substituted for the word “Government”. The words “messing facilities” are substituted for the word “messes” to conform to subsections (b) and (d).
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–136, §1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “The” for “On and after January 1, 2002, the”, and struck out former par. (1) which read as follows: “Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+
+&emsp;“(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age.”
+
+&emsp;“(B) The amount equal to the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age.”
+
+Subsec. (b)(2). Pub. L. 108–136, §1045(b)(2)(A)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1).
+
+Subsec. (b)(3), (4). Pub. L. 108–136, §1045(b)(2)(A)(ii), (iv), redesignated par. (4) as (3) and substituted “paragraph (1)” for “paragraph (2)”. Former par. (3) redesignated (2).
+
+Subsec. (d). Pub. L. 108–136, §1045(b)(2)(B), substituted “subsection (b)(1)” for “subsection (b)(2)”.
+
+Subsecs. (f) to (h). Pub. L. 108–136, §604, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 2002—Subsec. (d). Pub. L. 107–314 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -186,7 +206,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1997 Amendment
 
-Section 602(g) of Pub. L. 105–85 provided that: “This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
+Section 602(g) of Pub. L. 105–85 provided that: “This section \[amending this section, section 404 of this title,and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
 
 #### Effective Date of 1984 Amendment
 
@@ -224,7 +244,7 @@ Pub. L. 96–343, §7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective
 
 #### Regulations Relating to Subsistence Allowance
 
-Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, set out as a note under section 301 of this title.
+Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
 #### Executive Order No. 10119
 

@@ -38,7 +38,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 #### (c) Penalties
 
-(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penalty of not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
+(1)(A) Except as provided in subparagraph (B) of this paragraph and paragraph (2), any person who violates this section shall, with respect to any such violation, be subject to a civil penaltyof not more than $25,000. The district courts of the United States (or, where there is no such court in the case of any territory or possession of the United States, then the court in such territory or possession having the jurisdiction of a district court of the United States in cases arising under the Constitution and laws of the United States) shall have jurisdiction in accordance with section 1355 of title 28 to enforce this paragraph.
 
 (B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
 

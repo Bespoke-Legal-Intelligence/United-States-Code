@@ -1,6 +1,6 @@
 ### §495. Shutting off water for nonpayment of operation charge
 
-No water shall be delivered to the lands of any water-right applicant or entryman who shall be in arrears for more than one calendar year for the payment of any charge for operation and maintenance.
+No water shall be delivered to the lands of any water-right applicant or entryman who shall be in arrears for more than one calendar year forthe payment of any charge for operation and maintenance.
 
 (Aug. 13, 1914, ch. 247, §6, 38 Stat. 688.)
 

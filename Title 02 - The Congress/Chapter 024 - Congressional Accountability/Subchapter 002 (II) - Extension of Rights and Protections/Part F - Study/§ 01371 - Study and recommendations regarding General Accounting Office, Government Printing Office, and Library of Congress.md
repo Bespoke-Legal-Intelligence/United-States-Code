@@ -80,7 +80,7 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (b
 
 #### Amendments
 
-1995—Subsec. (a). Pub. L. 104–53, §309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
+<b>1995</b>—Subsec. (a). Pub. L. 104–53, §309(a), substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 104–53, §309(b), substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
 

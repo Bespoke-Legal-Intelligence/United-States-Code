@@ -4,7 +4,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(1) “agency” has the same meaning as in section 551(1) of this title;
 
-&emsp;(2) “consensus” means unanimous concurrence among the interests represented on a negotiated rulemaking committee established under this subchapter, unless such committee—
+&emsp;(2) “consensus” means unanimous concurrence among the interests represented on a negotiated rulemaking committee establishedunder this subchapter, unless such committee—
 
 &emsp;&emsp;(A) agrees to define such term to mean a general but not unanimous concurrence; or
 

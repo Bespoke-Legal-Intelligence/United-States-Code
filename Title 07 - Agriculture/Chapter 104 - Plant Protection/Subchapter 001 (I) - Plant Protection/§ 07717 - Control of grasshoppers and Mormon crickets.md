@@ -8,7 +8,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), upon the request of the Secretary of Agriculture, the Secretary of the Interior shall transfer to the Secretary of Agriculture, from any no-year appropriations, funds for the prevention, suppression, and control of actual or potential grasshopper and Mormon cricket outbreaks on Federal lands under the jurisdiction of the Secretary of the Interior. The transferred funds shall be available only for the payment of obligations incurred on such Federal lands.
+&emsp;Subject to paragraph (3), upon the request of the Secretary of Agriculture, the Secretary of the Interior shall transfer to the Secretary ofAgriculture, from any no-year appropriations, funds for the prevention, suppression, and control of actual or potential grasshopper and Mormon cricket outbreaks on Federal lands under the jurisdiction of the Secretary of the Interior. The transferred funds shall be available only for the payment of obligations incurred on such Federal lands.
 
 #### (2) Transfer requests
 

@@ -54,7 +54,7 @@ Nothing in this subchapter or the Wilderness Act (16 U.S.C. 1131 et seq.) preclu
 
 Congress—
 
-&emsp;(1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) of this section that are not designated as wilderness by subsection (a) of this sectionhave been adequately studied for wilderness designation under section 1782 of title 43; and
+&emsp;(1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) of this section that are not designated as wilderness by subsection (a) of this section have been adequately studied for wilderness designation under section 1782 of title 43; and
 
 &emsp;(2) declares that those parcels are no longer subject to the requirement of subsection (c) of that section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 

@@ -72,7 +72,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) the transferee shall be treated as having acquired the bond on the date on which it was acquired by the transferor for an amount equal to the basis of the transferor, and
 
-&emsp;&emsp;(B) proper adjustments shall be made for gain recognized by the transferor on suchtransfer (and for any original issue discount or market discount included in the gross income of the transferor).
+&emsp;&emsp;(B) proper adjustments shall be made for gain recognized by the transferor on such transfer (and for any original issue discount or market discount included in the gross income of the transferor).
 
 #### (2) Exchanged basis property
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(15) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition dateoccurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 1803(a)(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -148,7 +148,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 341, 860C, 860F, 1277, 1278 of this title.
+This section is referred to in sections 860C, 860F, 1277, 1278 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

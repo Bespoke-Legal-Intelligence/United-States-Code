@@ -314,7 +314,7 @@ The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), whi
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–33, §10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36-0120-0-1-701)” for “(36-0137-0-1-702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33, §10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36-0120-0-1-701)” for “(36-0137-0-1-702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
 Subsec. (f). Pub. L. 105–33, §10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Outlays for programs specified in paragraph (1) of section 907 of this title shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title.”
 
@@ -428,21 +428,21 @@ Pub. L. 105–33, §10207(d)(1), substituted item relating to child nutrition pr
 
 Subsec. (i). Pub. L. 105–33, §10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
 
-1996—Subsec. (g)(1)(A). Pub. L. 104–208, which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed. See Effective Date of 1996 Amendments note below.
+<b>1996</b>—Subsec. (g)(1)(A). Pub. L. 104–208, which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed. See Effective Date of 1996 Amendments note below.
 
 Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75-0412-0-1-609);”.
 
-1992—Subsec. (g)(1)(A). Pub. L. 102–572, §601(b), inserted item relating to payment to Judiciary Trust Funds.
+<b>1992</b>—Subsec. (g)(1)(A). Pub. L. 102–572, §601(b), inserted item relating to payment to Judiciary Trust Funds.
 
 Pub. L. 102–486 inserted item relating to United States Enrichment Corporation.
 
 Subsec. (g)(1)(B). Pub. L. 102–572, §601(a), inserted items relating to Judicial Officers’ Retirement Fund and Court of Federal Claims Judges’ Retirement Fund.
 
-1991—Subsec. (b). Pub. L. 102–83 substituted “section 2307 of title 38” for “section 907 of title 38” in item relating to burial benefits for veterans.
+<b>1991</b>—Subsec. (b). Pub. L. 102–83 substituted “section 2307 of title 38” for “section 907 of title 38” in item relating to burial benefits for veterans.
 
 Subsec. (g)(2). Pub. L. 102–54 substituted last two items relating to Department of Veterans Affairs for items relating to Veterans Administration, Loan guaranty revolving fund, and Veterans Administration, Servicemen's group life insurance fund.
 
-1990—Subsec. (a). Pub. L. 101–508, §13101(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered “automatic spending increases” for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered “automatic spending increases” for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter.”
 
 Subsec. (e). Pub. L. 101–508, §13101(c)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Offsetting receipts and collections shall not be reduced under any order issued under this subchapter.”
 
@@ -450,7 +450,7 @@ Subsec. (g)(1)(B). Pub. L. 101–508, §13101(c)(3), inserted item relating to r
 
 Subsec. (h). Pub. L. 101–508, §13101(c)(4), added subsec. (h) relating to optional exemption of military personnel.
 
-1989—Subsec. (g)(1)(A). Pub. L. 101–220 inserted item relating to Farm Credit System Financial Assistance Corporation, interest payments, after item relating to Exchange stabilization fund.
+<b>1989</b>—Subsec. (g)(1)(A). Pub. L. 101–220 inserted item relating to Farm Credit System Financial Assistance Corporation, interest payments, after item relating to Exchange stabilization fund.
 
 Pub. L. 101–73, §743(a)(1), inserted item relating to Director of the Office of Thrift Supervision after item relating to Comptroller of the Currency.
 
@@ -462,7 +462,7 @@ Pub. L. 101–73, §743(a)(4), inserted items relating to Resolution Funding Cor
 
 Subsec. (g)(2). Pub. L. 101–73, §743(c), struck out item relating to Federal Savings and Loan Insurance Corporation fund (82-4037-0-3-371).
 
-1987—Subsec. (b). Pub. L. 100–119, §104(b)(1), inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under section 907 of title 38 relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
+<b>1987</b>—Subsec. (b). Pub. L. 100–119, §104(b)(1), inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under section 907 of title 38 relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
 
 Subsec. (g)(1). Pub. L. 100–119, §104(a)(2), (b)(2), (3), designated existing provisions of par. (1) as subpar. (A); inserted items relating to Administration of Territories, Northern Mariana Islands Covenant grants, Thrift Savings Fund, Bureau of Indian Affairs, miscellaneous payments to Indians, Customs Service, miscellaneous permanent appropriations, higher education facilities loans and insurance, Internal Revenue Collections for Puerto Rico, Panama Canal Commission operating expenses and Panama Canal Commission capital outlay, to medical facilities guarantee and loan fund, Federal interest subsidies for medical facilities, Compact of Free Association, economic assistance pursuant to Public Law 99–658, payments to United States territories, fiscal assistance, payments to widows and heirs of deceased Members of Congress, and Washington Metropolitan Area Transit Authority, interest payments; and added subpar. (B).
 
@@ -472,7 +472,7 @@ Subsec. (g)(2). Pub. L. 100–119, §104(c)(1), struck out following items relat
 
 Subsec. (h). Pub. L. 100–119, §104(a)(1), inserted item relating to commodity supplemental food program.
 
-1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payments account.
 
@@ -484,7 +484,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date of 1992 Amendment
 
-Section 1101(a) of Pub. L. 102–572 provided that: “Except as otherwise provided in this Act, the provisions ofthis Act and the amendments made by this Act \[see Tables for classification\] shall take effect on January 1, 1993.”
+Section 1101(a) of Pub. L. 102–572 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] shall take effect on January 1, 1993.”
 
 #### Effective Date of 1986 Amendment
 

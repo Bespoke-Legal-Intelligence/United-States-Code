@@ -56,7 +56,7 @@
 
 #### (i) Conviction of aggravated felony
 
-&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be considered to have been convicted of a particularly serious crime.
+&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be consideredto have been convicted of a particularly serious crime.
 
 #### (ii) Offenses
 
@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title)of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
 
 #### (B) Continued classification of certain aliens as children
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;The procedure established under paragraph (1) shall provide that—
 
-&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, includingthe Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
+&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, including the Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
 
 &emsp;&emsp;&emsp;(ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commence not later than 45 days after the date an application is filed;
 
@@ -204,7 +204,7 @@ Section effective Mar. 17, 1980, and applicable to fiscal years beginning with t
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Expeditious Removal for Denied Asylum Applicants
 

@@ -72,7 +72,7 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 #### (1) In general
 
-&emsp;If the Secretary approves a levy under this subsection, the effect of such levy on specifiedpayments to or received by a taxpayer shall be continuous from the date such levy is first made until such levy is released. Notwithstanding section 6334, such continuous levy shall attach to up to 15 percent of any specified payment due to the taxpayer.
+&emsp;If the Secretary approves a levy under this subsection, the effect of such levy on specified payments to or received by a taxpayer shall be continuous from the date such levy is first made until such levy is released. Notwithstanding section 6334, such continuous levy shall attach to up to 15 percent of any specified payment due to the taxpayer.
 
 #### (2) Specified payment
 
@@ -272,7 +272,7 @@ Pub. L. 107–147, title IV, §416(e)(2), Mar. 9, 2002, 116 Stat. 55, provided t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by thissection \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998.”
+Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by this section \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998.”
 
 Pub. L. 105–206, title III, §3444(b), July 22, 1998, 112 Stat. 762, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 

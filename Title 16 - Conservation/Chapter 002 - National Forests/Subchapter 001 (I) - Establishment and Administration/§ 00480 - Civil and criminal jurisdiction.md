@@ -1,6 +1,6 @@
 ### §480. Civil and criminal jurisdiction
 
-The jurisdiction, both civil and criminal, over persons within national forests shall not be affected or changed by reason of their existence, except so far as the punishment of offenses against the United States therein is concerned; the intent and meaning of this provision being that the State wherein any such national forest is situated shall not, by reason of the establishment thereof, lose its jurisdiction, nor the inhabitants thereof their rights and privileges as citizens, or be absolved from their duties as citizens of the State.
+The jurisdiction, both civil and criminal, over persons within national forests shall not be affected or changed by reason of their existence, except so far as the punishment of offenses against the United States therein is concerned; the intent and meaning of this provision being that the State wherein any such national forest is situated shall not, by reason of the establishment thereof, lose its jurisdiction, nor the inhabitants thereof their rights and privileges ascitizens, or be absolved from their duties as citizens of the State.
 
 (June 4, 1897, ch. 2, §1, 30 Stat. 36; Mar. 1, 1911, ch. 186, §12, 36 Stat. 963.)
 

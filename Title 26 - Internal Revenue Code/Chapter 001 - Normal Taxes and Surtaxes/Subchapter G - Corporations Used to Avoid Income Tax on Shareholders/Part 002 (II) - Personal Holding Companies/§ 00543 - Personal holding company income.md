@@ -78,7 +78,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 &emsp;&emsp;&emsp;(iii) deductions which are specifically allowable under sections other than section 162,
 
-> &emsp;&emsp;equals or exceeds 25 percent of the amount by which the ordinary gross income exceeds the sum of the royalties paid or accrued and the amounts allowable as deductions undersection 167 (relating to depreciation) with respect to copyright royalties.
+> &emsp;&emsp;equals or exceeds 25 percent of the amount by which the ordinary gross income exceeds the sum of the royalties paid or accrued and the amounts allowable as deductions under section 167 (relating to depreciation) with respect to copyright royalties.
 
 > &emsp;For purposes of this subsection, the term “copyright royalties” means compensation, however designated, for the use of, or the right to use, copyrights in works protected by copyright issued under title 17 of the United States Code and to which copyright protection is also extended by the laws of any country other than the United States of America by virtue of any international treaty, convention, or agreement, or interests in any such copyrighted works, and includes payments from any person for performing rights in any such copyrighted work and payments (other than produced film rents as defined in paragraph (5)(B)) received for the use of, or right to use, films. For purposes of this paragraph, the term “shareholder” shall include any person who owns stock within the meaning of section 544. This paragraph shall not apply to active business computer software royalties.
 
@@ -104,7 +104,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 #### (7) Personal service contracts
 
-&emsp;&emsp;(A) Amounts received under a contract under which the corporation is to furnish personal services; if some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or if the individual who is to perform the services is designated (by name or by description) in the contract; and
+&emsp;&emsp;(A) Amounts received under a contract under which the corporation is to furnish personal services; if some person other thanthe corporation has the right to designate (by name or by description) the individual who is to perform the services, or if the individual who is to perform the services is designated (by name or by description) in the contract; and
 
 &emsp;&emsp;(B) amounts received from the sale or other disposition of such a contract.
 
@@ -136,7 +136,7 @@ For purposes of this part—
 
 &emsp;&emsp;From the gross income from rents (as defined in the second sentence of paragraph (3) of this subsection) subtract the amount allowable as deductions for—
 
-&emsp;&emsp;&emsp;(i) exhaustion, wear and tear, obsolescence, and amortization of property otherthan tangible personal property which is not customarily retained by any one lessee for more than three years,
+&emsp;&emsp;&emsp;(i) exhaustion, wear and tear, obsolescence, and amortization of property other than tangible personal property which is not customarily retained by any one lessee for more than three years,
 
 &emsp;&emsp;&emsp;(ii) property taxes,
 
@@ -218,7 +218,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 #### (3) Royalties must constitute at least 50 percent of income
 
-&emsp;The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinarygross income of the corporation for the taxable year.
+&emsp;The requirements of this paragraph are met if the royalties described in paragraph (1) constitute at least 50 percent of the ordinary gross income of the corporation for the taxable year.
 
 #### (4) Deductions under sections 162 and 174 relating to royalties must equal or exceed 25 percent of ordinary gross income
 
@@ -266,7 +266,7 @@ In the case of an insurance company other than a life insurance company, the ter
 
 &emsp;&emsp;&emsp;(ii) without regard to interest income during any taxable year—
 
-&emsp;&emsp;&emsp;&emsp;(I) which is in the 5-taxable year period beginning with the later of the 1st taxable year of the corporation or the 1st taxable year in which the corporation conducted the trade or business described in paragraph (2)(A), and
+&emsp;&emsp;&emsp;&emsp;(I) which is in the 5-taxable year period beginning with the later of the 1st taxable year of the corporation or the 1sttaxable year in which the corporation conducted the trade or business described in paragraph (2)(A), and
 
 &emsp;&emsp;&emsp;&emsp;(II) during which the corporation meets the requirements of paragraphs (2), (3), and (4), and
 
@@ -338,7 +338,7 @@ Subsec. (b)(2)(D). Pub. L. 89–809, §206(b)(2), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 89–809, §206(a), struck out “amounts constituting personal holding company income under subsection (a)(6), nor copyright royalties (as defined in subsection (a)(4)), nor produced film rents (as defined in subsection (a)(5)(B)).” after “but does not include”, and added subpars. (A) to (D).
 
-1964—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making it applicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
+1964—Subsec. (a). Pub. L. 88–272, §225(d), amended subsec. (a) generally, and among other changes, substituted “adjusted ordinary gross income” for “gross income”, provided, relative to rental income, that in addition to the 50-percent test of par. (2)(A), now applied on the basis of adjusted income from rents and adjusted ordinary gross income, a second test for exclusion shall be whether the sum on the dividends paid during the taxable year, the dividends paid on the last day of the year, and the consent dividends for the taxable year, equals or exceeds the amount by which the personal holding company income for the year exceeds 10 percent of the ordinary gross income, relative to mineral, oil, and gas royalties, that in addition to the 50-percent test of par. (3)(A), now applied on the basis of adjusted ordinary gross income, and the 15-percent test of par. (3)(C), from which test have been excluded deductions “specifically allowable under sections other than section 162” and is also now applied on the basis of adjusted gross income, the royalties shall be excluded if the personal holding company income for the taxable year is not more than 10 percent of the ordinary gross income, relative to copyright royalties, retained the 50-percent test as in par. (4)(A), making itapplicable to ordinary gross income, included in the computation of the income for the taxable year the adjusted income from rents and the adjusted income from mineral, oil, and gas royalties, excluded from the sum of deductions allocable to royalties, deductions specifically allowable under sections other than 162, and changed the requirement that deductions constitute 50 percent or more of gross income to provide that they must equal 25 percent of ordinary gross income reduced by royalties paid and by depreciation deductions with respect to copyrights, relative to produced film rents, that they be treated on their own basis and not as rentals, and defined “produced film rents”, relative to use of corporation property by shareholders, that personal holding company income includes copyright royalties and the adjusted income from mineral, oil, and gas royalties, eliminated gains from the sale or other disposition of any interest in an estate or trust, from the sale or exchange of stock or securities, and from futures transactions in any commodity, and also definition of “rents”. See subsec. (b)(3).
 
 Subsec. (a)(2). Pub. L. 88–484 inserted sentence requiring royalties received for the use of, or for the privilege of using, a patent, invention, model, or design (whether or not patented), secret formula or process, or any other similar property right to be treated as rent, if such property right is also used by the corporation receiving such royalties in the manufacture or production of tangible personal property held for lease to customers, and if the amount (computed without regard to this sentence) constituting rent from such leases to customers meets the requirements of subparagraph (A).
 
@@ -418,7 +418,7 @@ General Rule.—For purposes of subtitle A of the 1986 Code, the term ‘persona
 
 “(b) $3,000,000
 
-Limitation.—The aggregate amount excluded from the personal holding company income of any qualified bank holding company under subsection (a) for the taxable year shall not exceed $3,000,000.
+Limitation.—The aggregate amount excluded from the personal holding company income ofany qualified bank holding company under subsection (a) for the taxable year shall not exceed $3,000,000.
 
 “(c)
 

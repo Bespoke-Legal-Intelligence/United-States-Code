@@ -24,7 +24,29 @@ In general.—The Mayor of the District of Columbia is responsible for the maint
 
 Repair and maintenance of utility services.—The Mayor may enter any part of the Grounds to repair or maintain or, subject to the approval of the Architect, construct or alter, any utility service of the District of Columbia Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175.)
+(c)
+
+National Garden of the United States Botanic Garden.—
+
+&emsp;(1)
+
+In general.—Except as provided under paragraph (2), the United States Capitol Grounds shall include—
+
+&emsp;&emsp;(A) the National Garden of the United States Botanic Garden;
+
+&emsp;&emsp;(B) all grounds contiguous to the Administrative Building of the United States Botanic Garden, including Bartholdi Park; and
+
+&emsp;&emsp;(C) all grounds bounded by the curblines of First Street, Southwest on the east; Washington Avenue, Southwest to its intersection with Independence Avenue, and Independence Avenue from such intersection to its intersection with Third Street, Southwest on the south; Third Street, Southwest on the west; and Maryland Avenue, Southwest on the north.
+
+&emsp;(2)
+
+Maintenance and improvements.—Notwithstanding subsections (a) and (b), jurisdiction and control over the buildings on the grounds described in paragraph (1) shall be retained by the Joint Committee on the Library, and the Joint Committee on the Library shall continue to be solely responsible for the maintenance and improvement of the grounds described in such paragraph.
+
+&emsp;(3)
+
+Authority not limited.—Nothing in this subsection shall limit the authority of the Architect of the Capitol under section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c).<sup>1</sup>
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1175; Pub. L. 108–7, div. H, title I, §1016(b), Feb. 20, 2003, 117 Stat. 364.)
 
 Historical and Revision Notes
 
@@ -43,6 +65,18 @@ Historical and Revision Notes
 July 31, 1946, ch. 707, §1, 60 Stat. 718; Pub. L. 90–108, §1(a), Oct. 20, 1967, 81 Stat. 275; Pub. L. 93–198, §739(g)(7), Dec. 24, 1973, 87 Stat. 829; Pub. L. 96–432, §2, Oct. 10, 1980, 94 Stat. 1852.
 
 In subsection (b)(2), the words “Mayor of the District of Columbia” are substituted for “Commissioners of the District of Columbia” \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to “Commissioner of the District of Columbia” because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). In subparagraph (A), the words “Washington Avenue Southwest” are substituted for “Canal Street S. W.” and “Canal Street Southwest” because of section 2 of D.C. Law 8–39. See section 7–451 note of the District of Columbia Code.
+
+#### References in Text
+
+Section 307E of the Legislative Branch Appropriations Act, 1989, referred to in subsec. (c)(3), is section 307E of Pub. L. 100–458, which was classified to section 216c of former Title 40, Public Buildings, Property, and Works, and was transferred to section 2146 of Title 2, The Congress.
+
+#### Amendments
+
+2003—Subsec. (c). Pub. L. 108–7 added subsec. (c).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1016(d) of Pub. L. 108–7, set out as a note under section 1961 of Title 2, The Congress.
 
 #### Changes in United States Capitol Grounds
 
@@ -94,7 +128,7 @@ Consideration as memorial site.—The parcels transferred by subclause (I) of cl
 
 Transfers to architect of the capitol.—Jurisdiction over the following parcels is transferred to the Architect of the Capitol:
 
-&emsp;&emsp;&emsp;“(i) That portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
+&emsp;&emsp;&emsp;“(i) That portion of the triangle of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, boundby Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running in a northeast direction on the west, the major portion of Maryland Avenue, N.E., on the south, and 2nd Street, N.E., on the east, including the contiguous sidewalks.
 
 &emsp;&emsp;&emsp;“(ii) That irregular area of Federal land in Reservation No. 204 in the District of Columbia under the jurisdiction of the Secretary of the Interior, including any contiguous sidewalks, northeast of the real property described in clause (i) bound by Constitution Avenue, N.E., on the north, the branch of Maryland Avenue, N.E., running to the northeast on the south, and the private property on the west known as lot 7, in square 726.
 
@@ -194,7 +228,7 @@ Pub. L. 96–432, §1, Oct. 10, 1980, 94 Stat. 1851, provided: “That section 1
 
 “(22) all that area contiguous to, and surrounding, square numbered 581 from the property line thereof to the contiguous curb.”
 
-Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, \[title IV of Pub. L.93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
+Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective Jan. 2, 1975, \[title IV of Pub. L. 93–198 having been accepted by a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum conducted May 8, 1974\], provided in part that the definition of United States Capitol Grounds should include the following streets: Independence Avenue from the west curb of First Street S.E. to the east curb of First Street S.W., New Jersey Avenue S.E. from the south curb of Independence Avenue to the north curb of D Street S.E., South Capitol Street from the south curb of Independence Avenue to the north curb of D Street; Delaware Avenue S.W. from the south curb of C Street S.W. to the North Curb of D Street S.W., C Street from the west curb of First Street S.E. to the intersection of First and Canal Streets, S.W., D Street from the west curb of First Street S.E. to the intersection of Canal Street and Delaware Avenue S.W., that part of First Street lying west of the outer face of the curb of the sidewalk on the east side thereof from D Street, N.E. to D Street S.E., that part of First Street within the east and west curblines thereof extending from the north side of Pennsylvania Avenue N.W. to the intersection of C Street and Canal Street S.W., including the two circles within such area, but that nothing in the inclusion of such streets should be construed as repealing, or otherwise altering, modifying, affecting, or superseding those provisions of law in effect prior to the vesting of authority in the United States Supreme Court police and Library of Congress police by title IV of Pub. L. 93–198 to make arrests in adjacent streets, including First Street N.E. and First Street S.E.
 
 #### Jurisdiction of the Capitol Police Board and the Architect of the Capitol
 
@@ -266,7 +300,7 @@ NOW, THEREFORE, in formal compliance with the aforecited provisions of the Addit
 
 &nbsp;2. All other real property acquired by the Architect of the Capitol under authority of the Additional House Office Building Act is hereby declared to be part of the United States Capitol Grounds and is hereby made subject to the Act of July 31, 1946 (40 U.S.C., secs. 193a to 193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109\], including any amendments to such Act.
 
-&nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use and operation of the four House Garages and outdoor parking lots.
+&nbsp;3. Nothing herein shall be construed to contravene (a) the provisions of Public Law 89–260 authorizing the future use of Squares 732 north and south as a site for the Library of Congress James Madison Memorial Building; or (b) the authority delegated by the House Office Building Commission to the Select House Committee under authority of H. Res. 514, 90th Congress, pertaining to the direction and supervision of the use andoperation of the four House Garages and outdoor parking lots.
 
 &nbsp;4. This order shall become effective immediately.
 
@@ -280,5 +314,7 @@ Charles E. Goodell, <i>Member.</i>
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5107, 8501, 8502, 8711, 8712 of this title; title 2 sections 1819, 1941, 1961, 1970, 2021, 2161.
+This section is referred to in sections 5101, 5107, 8501, 8502, 8711, 8712 of this title; title 2 sections 1819, 1941, 1961, 1970, 2021, 2161.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

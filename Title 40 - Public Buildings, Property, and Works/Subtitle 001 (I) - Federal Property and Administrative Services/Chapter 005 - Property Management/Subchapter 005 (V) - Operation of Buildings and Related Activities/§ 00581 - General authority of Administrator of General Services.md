@@ -24,7 +24,7 @@ Ground rent.—The Administrator may pay ground rent for buildings owned by the 
 
 &emsp;(3)
 
-Rent and repairs under a lease.—The Administrator may pay rent and make repairs, alterations, and improvements under theterms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
+Rent and repairs under a lease.—The Administrator may pay rent and make repairs, alterations, and improvements under the terms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
 
 &emsp;(4)
 
@@ -100,7 +100,7 @@ Utilities for Defense Industrial Reserve and Surplus Property.—The Administrat
 
 Obtaining Payments.—The Administrator may—
 
-&emsp;(1) obtain payments, through advances or otherwise, for services, space, quarters, maintenance, repair, or other facilities furnished, on a reimbursable basis, to a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia; and
+&emsp;(1) obtain payments, through advances or otherwise, for services, space, quarters, maintenance, repair, or other facilities furnished, on a reimbursable basis, to a federal agency, amixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia; and
 
 &emsp;(2) credit the payments to the applicable appropriation of the Administration.
 
@@ -122,7 +122,7 @@ Deposit and credit of amounts received.—The Administrator may deposit into the
 
 &emsp;(4)
 
-Furnishing utilities and maintenance.—The Administrator may furnish utilities,maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
+Furnishing utilities and maintenance.—The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, §1706(a), Nov. 25, 2002, 116 Stat. 2316.)
 
@@ -162,7 +162,7 @@ In subsection (g)(1), the words “mixed-ownership Government corporation” are
 
 Applicability.—To the extent that the Administrator of General Services by law, other than this section, may maintain, operate, and protect buildings or property, including the construction, repair, preservation, demolition, furnishing, or equipping of buildings or property, the Administrator, in the discharge of these duties, may exercise authority granted under this section.”
 
-Subsec. (b). Pub. L. 107–296, §1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for “; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
+Subsec. (b). Pub. L. 107–296, §1706(a)(2), in par. (1), inserted “and” at end, in par. (2), substituted a period for“; and” at end, and struck out par. (3) which read as follows: “furnish arms and ammunition for the protection force the Administration maintains.”
 
 #### Effective Date of 2002 Amendment
 
@@ -180,7 +180,7 @@ Therefore, to the extent permitted by law, I hereby direct the Administrator of 
 
 The procedures should be developed in accordance with the following:
 
-1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), publichealth and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
+1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), public health and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
 
 (b) Antennas on Federal buildings or land may not contain any advertising.
 

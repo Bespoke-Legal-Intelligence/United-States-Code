@@ -20,13 +20,13 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 (3) The amount described in paragraph (1) shall be reduced by an amount equal to 20 percent of the amount of the total cost incurred by the Secretary in acquiring lands in the Addition other than from the State of Florida.
 
-(4) For purposes of this subsection, the term “total cost” means that amount of the total acquisition costs (including the value of exchangedor donated lands) less the amount of the costs incurred by the Federal Highway Administration and the Florida Department of Transportation, including severance damages paid to private property owners as a result of the construction of Interstate 75.
+(4) For purposes of this subsection, the term “total cost” means that amount of the total acquisition costs (including the value of exchanged or donated lands) less the amount of the costs incurred by the Federal Highway Administration and the Florida Department of Transportation, including severance damages paid to private property owners as a result of the construction of Interstate 75.
 
 (Pub. L. 93–440, §1, Oct. 11, 1974, 88 Stat. 1258; Pub. L. 100–301, §4(a)–(e), Apr. 29, 1988, 102 Stat. 444, 445.)
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–301, §4(b), inserted in provisions before first proviso “or the Addition” after “boundaries of the preserve” and in first proviso “in the preserve” after “subdivisions,” and “and, any land acquired by the State of Florida, or any of its subdivisions, in the Addition shall be acquired in accordance with subsection (d) of this section” before the colon.
+1988—Subsec. (c). Pub. L. 100–301, §4(b), inserted in provisions before first proviso “or the Addition” after“boundaries of the preserve” and in first proviso “in the preserve” after “subdivisions,” and “and, any land acquired by the State of Florida, or any of its subdivisions, in the Addition shall be acquired in accordance with subsection (d) of this section” before the colon.
 
 Pub. L. 100–301, §4(e), inserted “and the Addition” after “for the purposes of the preserve” and after “any lands within the preserve” in third sentence.
 

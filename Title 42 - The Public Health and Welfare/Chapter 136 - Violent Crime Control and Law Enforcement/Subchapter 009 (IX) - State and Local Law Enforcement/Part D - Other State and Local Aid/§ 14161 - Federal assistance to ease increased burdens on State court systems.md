@@ -6,7 +6,7 @@ The Attorney General shall, subject to the availability of appropriation, make g
 
 #### (b) Applications
 
-In carrying out this section, the Attorney General may make grants to, or enter into contracts with public or private agencies, institutions, or organizations or individuals to carry out any purpose specified in this section. The Attorney General shall have final authority over all funds awarded under this section.
+In carrying out this section, the Attorney General may make grants to, or enter into contracts with public or private agencies, institutions, or organizations or individuals to carryout any purpose specified in this section. The Attorney General shall have final authority over all funds awarded under this section.
 
 #### (c) Records
 

@@ -118,9 +118,11 @@ Pub. L. 100–202, §101(b) \[title VIII, §8119\], Dec. 22, 1987, 101 Stat. 132
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
 
-Pub. L. 107–67, title VI, §603, Nov. 12, 2001, 115 Stat. 545, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810) \[31 U.S.C. 1343\], for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
+Pub. L. 108–7, div. J, title VI, §603, Feb. 20, 2003, 117 Stat. 463, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with section 16 of the Act of August 2, 1946 (60 Stat. 810) \[31 U.S.C. 1343\], for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $8,100 except station wagons for which the maximum shall be $9,100: <i>Provided</i>, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: <i>Provided further</i>, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[15 U.S.C. 2501 et seq.\]: <i>Provided further</i>, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–67, title VI, §603, Nov. 12, 2001, 115 Stat. 545.
 
 Pub. L. 106–554, §1(a)(3) \[title VI, §603\], Dec. 21, 2000, 114 Stat. 2763, 2763A–155.
 
@@ -232,5 +234,5 @@ July 30, 1947, ch. 359, title II, §201, 61 Stat. 608.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 3374, 3704; title 22 sections 2514, 3622; title 33 section 576a; title 40 section 611.
+This section is referred to in title 5 sections 3374, 3704; title 6 section 453a; title 22 sections 2514, 3622; title 33 section 576a; title 40 section 611.
 

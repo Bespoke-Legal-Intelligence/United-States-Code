@@ -12,7 +12,7 @@ Such Board shall be composed of at least nine members, one of whom shall be desi
 
 (1) The Administrator, at the time any proposed criteria document, standard, limitation, or regulation under the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Resource Conservation and Recovery Act of 1976 \[42 U.S.C. 6901 et seq.\], the Noise Control Act \[42 U.S.C. 4901 et seq.\], the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], or the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], or under any other authority of the Administrator, is provided to any other Federal agency for formal review and comment, shall make available to the Board such proposed criteria document, standard, limitation, or regulation, together with relevant scientific and technical information in the possession of the Environmental Protection Agency on which the proposed action is based.
 
-(2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on the adequacy of the scientific and technical basis of the proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
+(2) The Board may make available to the Administrator, within the time specified by the Administrator, its advice and comments on the adequacy of the scientific and technical basis ofthe proposed criteria document, standard, limitation, or regulation, together with any pertinent information in the Board's possession.
 
 #### (d) Utilization of technical and scientific capabilities of Federal agencies and national environmental laboratories for determining adequacy of scientific and technical basis of proposed criteria document, etc.
 
@@ -68,7 +68,7 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of Houseof Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
 #### Termination of Advisory Boards
 

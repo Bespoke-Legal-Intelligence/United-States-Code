@@ -38,7 +38,7 @@ The Secretary shall implement, in consultation with the Joint Subcommittee on Aq
 
 #### References in Text
 
-The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
+The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 #### Amendments
 

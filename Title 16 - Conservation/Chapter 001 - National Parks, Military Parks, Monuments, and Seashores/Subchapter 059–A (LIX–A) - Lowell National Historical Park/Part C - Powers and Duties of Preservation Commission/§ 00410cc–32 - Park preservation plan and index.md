@@ -24,7 +24,7 @@
 
 &emsp;(A) carry out activities to preserve, restore, manage, develop, or maintain any property identified in subsection (c)(1) of this section;
 
-&emsp;(B) take any action the Commission considers necessary to provide owners of property with national historical or cultural significance within the park or preservation district with emergency assistance for the purpose of preserving and protecting their property in a manner consistent with the purpose of this subchapter; or
+&emsp;(B) take any action the Commission considers necessary to provide owners of propertywith national historical or cultural significance within the park or preservation district with emergency assistance for the purpose of preserving and protecting their property in a manner consistent with the purpose of this subchapter; or
 
 &emsp;(C) acquire in accordance with section 410cc–34 of this title, any property within the park which—
 

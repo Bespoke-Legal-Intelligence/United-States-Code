@@ -32,7 +32,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for—
 
-&emsp;&emsp;(A) the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on October 18, 2000) for vaccine-related injury or death with respect to any vaccine—
+&emsp;&emsp;(A) the payment of compensation under subtitle 2 of title XXI of the Public HealthService Act (as in effect on October 18, 2000) for vaccine-related injury or death with respect to any vaccine—
 
 &emsp;&emsp;&emsp;(i) which is administered after September 30, 1988, and
 
@@ -68,7 +68,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (c)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, asamended. Subtitle 2 of title XXI of the Public Health Service Act is classified generally to part 2 (§300aa–10 et seq.) of subchapter XIX of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subtitle 2 of title XXI of the Public Health Service Act is classified generally to part 2 (§300aa–10 et seq.) of subchapter XIX of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The National Childhood Vaccine Injury Act of 1986, referred to in subsec. (d)(2), is title III of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3755, as amended, which is classified principally to subchapter XIX (§300aa–1 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under section 201 of Title 42 and Tables.
 
@@ -108,7 +108,7 @@ Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in th
 
 #### Effective Date of 1989 Amendment
 
-Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning after September 30, 1989.”
+Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to fiscal years beginning after September 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 

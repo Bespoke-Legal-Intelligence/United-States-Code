@@ -92,7 +92,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 &emsp;&emsp;(ii) in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the head of the procuring activity or a delegate who, if a member of the armed forces, is a general or flag officer or, if a civilian, is serving in a position in grade GS–16 or above under the General Schedule (or in a comparable or higher position under another schedule); or
 
-&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3) of this title (without further delegation); and
+&emsp;&emsp;(iii) in the case of a contract for an amount exceeding $50,000,000, by the senior procurement executive of the agency designated pursuant to section 414(3)<sup>1</sup> of this title (without further delegation); and
 
 &emsp;(C) any required notice has been published with respect to such contract pursuant to section 416 of this title and all bids or proposals received in response to such notice have been considered by such executive agency.
 
@@ -134,7 +134,7 @@ An executive agency using procedures other than competitive procedures to procur
 
 (1) In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
 
-&emsp;(A) special simplified procedures for purchases of property and services for amountsnot greater than the simplified acquisition threshold; and
+&emsp;(A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
 &emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
@@ -166,13 +166,15 @@ The Federal Acquisition Regulation shall ensure that the requirement to obtain f
 
 (3) For purposes of this subsection, a contract is a new contract unless the work provided for in the contract is a continuation of the work performed by the specified entity under a preceding contract.
 
-(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to the Congress or any agency of the Federal Government.
+(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an executive agency and to report on such matters to theCongress or any agency of the Federal Government.
 
 (June 30, 1949, ch. 288, title III, §303, 63 Stat. 395; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 90–268, §2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, §504(a)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(2), title XIII, §1304(c)(2), (3), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 101–510, div. A, title VIII, §806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §§1051–1053, 1055(a), title IV, §4402(a), title VII, §7203(b)(1), Oct. 13, 1994, 108 Stat. 3260, 3261, 3265, 3348, 3380; Pub. L. 104–106, div. D, title XLI, §§4101(b), 4102(b), title XLII, §4202(b)(1), title XLIII, §4321(e)(2), Feb. 10, 1996, 110 Stat. 642, 643, 653, 674; Pub. L. 104–320, §§7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850.)
 
 #### References in Text
 
 Subsection (h) of this section, referred to in subsec. (c)(5), was redesignated subsec. (i) and a new subsec. (h) was added by Pub. L. 104–106, div. D, title XLI, §4101(b), Feb. 10, 1996, 110 Stat. 642.
+
+Section 414 of this title, referred to in subsec. (f)(1)(B)(iii), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
 The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -280,6 +282,66 @@ Authority to issue solicitations for purchases of commercial items in excess of 
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
+#### Public Disclosure of Noncompetitive Contracting for the Reconstruction of Infrastructure in Iraq
+
+Pub. L. 108–136, div. A, title XIV, §1442, Nov. 24, 2003, 117 Stat. 1674, provided that:
+
+“(a)
+
+Disclosure Required.—
+
+&emsp;“(1)
+
+Publication and public availability.—The head of an executive agency of the United States that enters into a contract for the repair, maintenance, or construction of infrastructure in Iraq without full and open competition shall publish in the Federal Register or Commerce Business Daily and otherwise make available to the public, not later than 30 days after the date on which the contract is entered into, the following information:
+
+&emsp;&emsp;“(A) The amount of the contract.
+
+&emsp;&emsp;“(B) A brief description of the scope of the contract.
+
+&emsp;&emsp;“(C) A discussion of how the executive agency identified, and solicited offers from, potential contractors to perform the contract, together with a list of the potential contractors that were issued solicitations for the offers.
+
+&emsp;&emsp;“(D) The justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
+
+&emsp;“(2)
+
+Inapplicability to contracts after fiscal year 2005.—Paragraph (1) does not apply to a contract entered into after September 30, 2005.
+
+“(b)
+
+Classified Information.—
+
+&emsp;“(1)
+
+Authority to withhold.—The head of an executive agency may—
+
+&emsp;&emsp;“(A) withhold from publication and disclosure under subsection (a) any document that is classified for restricted access in accordance with an Executive order in the interest of national defense or foreign policy; and
+
+&emsp;&emsp;“(B) redact any part so classified that is in a document not so classified before publication and disclosure of the document under subsection (a).
+
+&emsp;“(2)
+
+Availability to congress.—In any case in which the head of an executive agency withholds information under paragraph (1), the head of such executive agency shall make available an unredacted version of the document containing that information to the chairman and ranking member of each of the following committees of Congress:
+
+&emsp;&emsp;“(A) The Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+
+&emsp;&emsp;“(B) The Committees on Appropriations of the Senate and House of Representatives.
+
+&emsp;&emsp;“(C) Each committee that the head of the executive agency determines has legislative jurisdiction for the operations of such department or agency to which the information relates.
+
+“(c)
+
+Fiscal Year 2003
+
+Contracts.—This section shall apply to contracts entered into on or after October 1, 2002, except that, in the case of a contract entered into before the date of the enactment of this Act \[Nov. 24, 2003\], subsection (a) shall be applied as if the contract had been entered into on the date of the enactment of this Act.
+
+“(d)
+
+Relationship to Other Disclosure Laws.—Nothing in this section shall be construed as affecting obligations to disclose United States Government information under any other provision of law.
+
+“(e)
+
+Definitions.—In this section, the terms ‘executive agency’ and ‘full and open competition’ have the meanings given such terms in section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403).”
+
 #### Small Business Act
 
 Section 2711(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 259 of this title and enacting sections 253a and 253b of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
@@ -290,7 +352,7 @@ The definitions in section 102 of Title 40, Public Buildings, Property, and Work
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 6 sections 189, 393, 425, 426; title 15 section 637; title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 3310; title 49 section 40110; title 50 App. section 2077.
+This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427, 428a of this title; title 6 sections 189, 393, 425, 426; title 15 section 637; title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 3310; title 49 section 40110; title 50 App. section 2077.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

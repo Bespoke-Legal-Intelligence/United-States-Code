@@ -96,7 +96,7 @@ Transmitting utility.—The term “transmitting utility” means any electric u
 
 &emsp;(24)
 
-Wholesale transmission services.—The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>2</sup>
+Wholesale transmission services.—The term “wholesale transmission services”means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>2</sup>
 
 &emsp;(25)
 

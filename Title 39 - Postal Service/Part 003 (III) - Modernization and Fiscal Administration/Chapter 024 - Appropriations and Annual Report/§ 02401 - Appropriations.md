@@ -18,7 +18,7 @@
 
 &emsp;(G) except as provided in paragraph (2) of this subsection, for each fiscal year thereafter an amount equal to 5 percent of such sum for fiscal year 1971.
 
-(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that the amounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
+(2) After fiscal year 1984, the Postal Service may reduce the percentage figure in paragraph (1)(G) of this subsection, including a reduction to 0, if the Postal Service finds that theamounts determined under such paragraph are no longer required to operate the Postal Service in accordance with the policies of this title.
 
 (c) There are authorized to be appropriated to the Postal Service each year a sum determined by the Postal Service to be equal to the difference between the revenues the Postal Service would have received if sections 3217 and 3403 through 3406 had not been enacted and the estimated revenues to be received on mail carried under such sections. In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume.
 
@@ -120,7 +120,7 @@ Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 7
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No.6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Termination of Reporting Requirements
 

@@ -60,7 +60,7 @@ Subsec. (b)(2)(A), (4). Pub. L. 102–484, §1052(9), substituted “section 615
 
 1991—Subsec. (g). Pub. L. 102–190 added subsec. (g).
 
-1988—Subsec. (a). Pub. L. 100–456, §501(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If, after reviewing the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned determines that the board has acted contrary to law or regulation, the Secretary shall return the report to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.”
+1988—Subsec. (a). Pub. L. 100–456, §501(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If, after reviewing the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military departmentconcerned determines that the board has acted contrary to law or regulation, the Secretary shall return the report to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.”
 
 Subsec. (c)(1). Pub. L. 100–456, §501(d)(2), struck out “, modification,” after “for his approval” and inserted at end “If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.”
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 102–190 applicable to selection boards convened under sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and applicable with respect to selectionboards convened under section 611(a) of this title on or after that effective date, see section 501(e) of Pub. L. 100–456, set out as a note under section 615 of this title.
+Amendment by Pub. L. 100–456 effective 60 days after Sept. 29, 1988, and applicable with respect to selection boards convened under section 611(a) of this title on or after that effective date, see section 501(e) of Pub. L. 100–456, set out as a note under section 615 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -98,7 +98,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture and the Secretary of the Interior shall take such actions as may be necessary to coordinate Federal agency programs for control, research, andeducational efforts associated with Federal, State, and locally designated noxious weeds.
+&emsp;The Secretary of Agriculture and the Secretary of the Interior shall take such actions as may be necessary to coordinate Federal agency programs for control, research, and educational efforts associated with Federal, State, and locally designated noxious weeds.
 
 #### (2) Duties
 

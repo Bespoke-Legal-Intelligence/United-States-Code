@@ -14,13 +14,15 @@ In general.—There are authorized to be appropriated from the Highway Trust Fun
 
 &emsp;&emsp;(C) $110,000,000 for fiscal year 2001;
 
-&emsp;&emsp;(D) $120,000,000 for fiscal year 2002; and
+&emsp;&emsp;(D) $120,000,000 for fiscal year 2002;
 
-&emsp;&emsp;(E) $130,000,000 for fiscal year 2003.
+&emsp;&emsp;(E) $130,000,000 for fiscal year 2003; and
+
+&emsp;&emsp;(F) $58,333,333 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;(2)
 
-Administrative costs.—From funds made available under paragraph (1), the Secretary may use, for the administration of this subchapter, not more than $2,000,000 for each of fiscal years 1999 through 2003.
+Administrative costs.—From funds made available under paragraph (1), the Secretary may use, for the administration of this subchapter, not more than $2,000,000 for each of fiscal years 1999 through 2003 and $833,333 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;(3)
 
@@ -40,21 +42,28 @@ Availability.—Amounts authorized under this section for a fiscal year shall be
 
 (c)
 
-Limitations on Credit Amounts.—For each of fiscal years 1999 through 2003, principal amounts of Federal credit instruments made available under this subchapter shall be limited to the amounts specified in the following table:
+Limitations on Credit Amounts.—For each of fiscal years 1999 through 2004, principal amounts of Federal credit instruments made available under this subchapter shall be limited to the amounts specified in the following table:
 
 &nbsp;
 
 | Fiscal year: | <b>Maximum amount of credit:</b> |
 | :--- | ---: |
-| &nbsp;1999 | $1,600,000,000   |
+| &nbsp;1999 | $1,600,000,000&nbsp;&nbsp; |
 | &nbsp;2000 | $1,800,000,000&nbsp;&nbsp; |
 | &nbsp;2001 | $2,200,000,000&nbsp;&nbsp; |
 | &nbsp;2002 | $2,400,000,000&nbsp;&nbsp; |
-| &nbsp;2003 | $2,600,000,000. |
+| &nbsp;2003 | $2,600,000,000&nbsp;&nbsp; |
+| &nbsp;2004 | $1,083,333,333. |
 
-(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849.)
+(Added and amended Pub. L. 105–178, title I, §1503(a), (c), June 9, 1998, 112 Stat. 249; Pub. L. 105–206, title IX, §9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, §5(a)(10), Sept. 30, 2003, 117 Stat. 1115.)
 
 #### Amendments
+
+2003—Subsec. (a)(1)(F). Pub. L. 108–88, §5(a)(10)(A), added subpar. (F).
+
+Subsec. (a)(2). Pub. L. 108–88, §5(a)(10)(B), inserted “and $833,333 for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (c). Pub. L. 108–88, §5(a)(10)(C), substituted “2004” for “2003” and inserted item in table relating to fiscal year 2004.
 
 1998—Subsec. (a)(2). Pub. L. 105–178, §1503(c)(1), as added by Pub. L. 105–206, §9007(a), substituted “1999” for “1998”.
 

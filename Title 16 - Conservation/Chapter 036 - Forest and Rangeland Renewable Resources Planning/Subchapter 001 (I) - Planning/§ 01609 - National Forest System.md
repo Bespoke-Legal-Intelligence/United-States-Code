@@ -30,7 +30,7 @@ Pub. L. 104–106, div. B, title XXIX, Feb. 10, 1996, 110 Stat. 594, as amended 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460hhh, 5207 of this title; title 42 section 8401.
+This section is referred to in sections 460hhh, 5207, 6502 of this title; title 42 section 8401.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

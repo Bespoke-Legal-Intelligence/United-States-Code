@@ -60,7 +60,7 @@ Project Eligibility.—To be eligible to receive financial assistance under subs
 
 &emsp;(5) satisfy applicable statewide and metropolitan planning requirements;
 
-&emsp;(6) be approved by the Secretary based on an application submitted to the Secretary by a State or authority designated by 1 or more States;
+&emsp;(6) be approved by the Secretary based on an application submitted to the Secretary by aState or authority designated by 1 or more States;
 
 &emsp;(7) to the extent that non-United States MAGLEV technology is used within the United States, be carried out as a technology transfer project; and
 
@@ -102,7 +102,7 @@ Preconstruction planning activities.—Not later than 90 days after a deadline e
 
 &emsp;(2)
 
-Final design, engineering, and construction activities.—After completion ofpreconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
+Final design, engineering, and construction activities.—After completion of preconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
 
 (g)
 
@@ -214,7 +214,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Advanced Technology Pilot Project
 
-Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857, provided that:
+Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125, provided that:
 
 “(1)
 
@@ -222,7 +222,7 @@ In general.—The Secretary shall make grants for the development of low speed m
 
 “(2)
 
-Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2003, $5,000,000 per fiscal year shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2003, and for the period of October 1, 2003, through February 29, 2004, $5,000,000 per fiscal year and $2,083,333 for such period shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
 
 “(3)
 

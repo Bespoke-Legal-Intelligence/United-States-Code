@@ -126,6 +126,16 @@
 | 253<i>l</i>–2. | Contract authority of Library of Congress. |
 | 253<i>l</i>–3. | Contract authority of Chief Administrative Officer of the House of Representatives. |
 | 253<i>l</i>–4. | Contract authority of Congressional Budget Office. |
+| 253<i>l</i>–5. | Contract authority of Secretary and Sergeant at Arms and Doorkeeper of the Senate. |
+| 253<i>l</i>–6. | Contract authority of Capitol Police. |
+| (a) | In general. |
+| (b) | Effective date. |
+| 253<i>l</i>–7. | Contract authority of Architect of the Capitol. |
+| (a) | In general. |
+| (b) | Effective date. |
+| 253<i>l</i>–8. | Contract authority of Secretary of Smithsonian Institution. |
+| (a) | In general. |
+| (b) | Effective date. |
 | 253m. | Design-build selection procedures. |
 | (a) | Authorization. |
 | (b) | Criteria for use. |

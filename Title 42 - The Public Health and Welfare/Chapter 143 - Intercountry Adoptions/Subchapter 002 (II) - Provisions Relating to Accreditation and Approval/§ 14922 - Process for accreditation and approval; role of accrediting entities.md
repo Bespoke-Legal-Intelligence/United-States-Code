@@ -26,7 +26,7 @@ The duties described in this subsection are the following:
 
 #### (1) Accreditation and approval
 
-&emsp;Accreditation of agencies, and approval of persons, to provide adoption services in theUnited States in cases subject to the Convention.
+&emsp;Accreditation of agencies, and approval of persons, to provide adoption services in the United States in cases subject to the Convention.
 
 #### (2) Oversight
 

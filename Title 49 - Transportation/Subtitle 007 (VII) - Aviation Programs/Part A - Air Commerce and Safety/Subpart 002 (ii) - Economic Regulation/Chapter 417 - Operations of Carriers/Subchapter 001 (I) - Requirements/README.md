@@ -28,3 +28,5 @@
 - [&sect; 41719 - Air service termination notice](%C2%A7%2041719%20-%20Air%20service%20termination%20notice.md)
 - [&sect; 41720 - Joint venture agreements](%C2%A7%2041720%20-%20Joint%20venture%20agreements.md)
 - [&sect; 41721 - Reports by carriers on incidents involving animals during air transport](%C2%A7%2041721%20-%20Reports%20by%20carriers%20on%20incidents%20involving%20animals%20during%20air%20transport.md)
+- [&sect; 41722 - Delay reduction actions](%C2%A7%2041722%20-%20Delay%20reduction%20actions.md)
+- [&sect; 41723 - Notice concerning aircraft assembly](%C2%A7%2041723%20-%20Notice%20concerning%20aircraft%20assembly.md)

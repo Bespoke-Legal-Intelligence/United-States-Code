@@ -46,13 +46,13 @@ Subsection (a) of section 1278 of this title shall apply to that portion of the 
 
 #### (e) DeSoto State Park
 
-If lands within DeSoto State Park are acquired by the Secretary, at the request of the Department of Conservation and Natural Resources of the State of Alabama, the Secretaryshall enter into a cooperative agreement with the Department for the continued management by the Department of the lodge and other facilities that, as of October 21, 1992, are part of DeSoto State Park. The cooperative agreement shall provide for the management and operation of the lodge and facilities in a manner that, to the maximum extent practicable, is consistent with similar operations elsewhere in the National Park System.
+If lands within DeSoto State Park are acquired by the Secretary, at the request of the Department of Conservation and Natural Resources of the State of Alabama, the Secretary shall enter into a cooperative agreement with the Department for the continued management by the Department of the lodge and other facilities that, as of October 21, 1992, are part of DeSoto State Park. The cooperative agreement shall provide for the management and operation of the lodge and facilities in a manner that, to the maximum extent practicable, is consistent with similar operations elsewhere in the National Park System.
 
 #### (f) Public involvement
 
 #### (1) Public awareness and participation program
 
-&emsp;The Secretary shall develop and conduct a program to promote and encourage awareness of and participation in the development of the general management plan for the Preserve by persons owning property in the vicinity of the Preserve, other interested groups and individuals, State, county, and municipal agencies, and the general public. Prior to final approval of the plan, the Secretary shall hold public meetings in DeKalb and Cherokee Counties.
+&emsp;The Secretary shall develop and conduct a program to promote and encourage awarenessof and participation in the development of the general management plan for the Preserve by persons owning property in the vicinity of the Preserve, other interested groups and individuals, State, county, and municipal agencies, and the general public. Prior to final approval of the plan, the Secretary shall hold public meetings in DeKalb and Cherokee Counties.
 
 #### (2) Consideration of public comment
 

@@ -130,7 +130,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L.97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ Subsec. (c)(8). Pub. L. 94–455, §1901(a)(76)(D), inserted “(15 U.S.C. 661 a
 
 1969—Subsec. (a)(2). Pub. L. 91–172 substituted “section 401(a), 501(c)(17), or 509(a)” for “section 503(b)” in the list of sections that contain the description of organizations that may be considered as individuals for the purpose of establishing stock ownership, and struck out provisions which would have kept an organization or trust created before July 1, 1950, from being so designated if it had been denied exemption under section 504 or an unlimited charitable deduction under section 681(c) of this title.
 
-1966—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7)applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
+1966—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7) applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
 
 1964—Subsec. (a)(1). Pub. L. 88–272, §225(b), substituted “60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a))” for “80 percent of its gross income for the taxable year is personal holding company income as defined in section 543”.
 
@@ -208,7 +208,7 @@ and (c).—The amendments made by subsections (b) and (c) \[amending this sectio
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commenced after Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or judicial proceedings commenced after Sept. 30, 1979, see section 7(d)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commenced after Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or judicial proceedings commenced after Sept. 30, 1979, seesection 7(d)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -248,7 +248,7 @@ Pub. L. 95–600, title VII, §701(<i>o</i>), Nov. 6, 1978, 92 Stat. 2907, as am
 
 “(1)
 
-In general.—The last sentence of section 542(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to stock ownership requirement) shall not apply in the case of an organization or trust organized or created before July 1, 1950, if at all times on or after July 1, 1950, and before the close of the taxable year such organization or trust has owned all of the common stock and at least 80 percent of the totalnumber of shares of all other classes of stock of the corporation.
+In general.—The last sentence of section 542(a)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to stock ownership requirement) shall not apply in the case of an organization or trust organized or created before July 1, 1950, if at all times on or after July 1, 1950, and before the close of the taxable year such organization or trust has owned all of the common stock and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
 “(2)
 

@@ -76,7 +76,7 @@ The Combined Fund shall not enroll any individual who is not receiving benefits 
 
 For purposes of this subchapter, the term “eligible beneficiary” means an individual who—
 
-&emsp;(1) is a coal industry retiree who, on July 20, 1992, was eligible to receive, and receiving, benefits from the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan, or
+&emsp;(1) is a coal industry retiree who, on July 20, 1992, was eligible to receive, and receiving,benefits from the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan, or
 
 &emsp;(2) on such date was eligible to receive, and receiving, benefits in either such plan by reason of a relationship to such retiree.
 

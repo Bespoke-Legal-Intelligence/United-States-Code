@@ -14,3 +14,7 @@ The term “other nonprofit organization” shall mean (1) a nonprofit organizat
 
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6232 of this title.
+

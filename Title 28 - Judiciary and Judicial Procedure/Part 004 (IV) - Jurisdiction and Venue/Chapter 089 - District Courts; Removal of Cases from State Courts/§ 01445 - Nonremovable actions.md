@@ -1,6 +1,6 @@
 ### §1445. Nonremovable actions
 
-(a) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60), may not be removed to any district court of the United States.
+(a) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22,1908 (45 U.S.C. 51–54, 55–60), may not be removed to any district court of the United States.
 
 (b) A civil action in any State court against a carrier or its receivers or trustees to recover damages for delay, loss, or injury of shipments, arising under section 11706 or 14706 of title 49, may not be removed to any district court of the United States unless the matter in controversy exceeds $10,000, exclusive of interest and costs.
 
@@ -14,7 +14,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §71 (Mar. 3, 1911, ch. 231, §28, 36 Stat. 1094; Jan. 20, 1914, ch. 11, 38 Stat. 278; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
-The words “or its receivers or trustees” were inserted in both subsections to make clear that nonremovableactions against a carrier do not become removable under section 1442 of this title when filed against court receivers or trustees.
+The words “or its receivers or trustees” were inserted in both subsections to make clear that nonremovable actions against a carrier do not become removable under section 1442 of this title when filed against court receivers or trustees.
 
 This was the unquestioned rule prior to the act of Aug. 23, 1916, ch. 399, 39 Stat. 532, amending section 76 of title 28, U.S.C., 1940 ed., and permitting removal of actions against officers of United States courts. The cases are in conflict as to whether under that amendment the case becomes removable when the carrier is in receivership or undergoing reorganization. The revised section resolves the conflict by denying the right of removal to receivers and trustees where it would be nonexistent if the carrier were the party defendant. Thus the subject matter rather than legalistic distinctions as to the identity of the parties is made determinative consideration.
 

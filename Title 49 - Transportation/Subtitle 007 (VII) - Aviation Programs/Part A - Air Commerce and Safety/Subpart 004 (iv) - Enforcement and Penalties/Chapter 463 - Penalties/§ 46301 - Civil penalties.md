@@ -2,9 +2,9 @@
 
 (a)
 
-General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $1,000 for violating—
+General Penalty.—(1) A person is liable to the United States Government for a civil penalty of not more than $25,000 (or $1,100 if the person is an individual or small business concern) for violating—
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), or section 47107(b) (including any assurance made under such section) of this title;
+&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40116, and 40117), chapter 411, chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714), chapter 419, subchapter II or III of chapter 421, chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), and 44908), section 47107(b) (including any assurance made under such section), or section 47133 of this title;
 
 &emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies;
 
@@ -12,41 +12,41 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 &emsp;(D) a regulation of the United States Postal Service under this part.
 
-(2) A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+(2) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41719) continues or, if applicable, for each flight involving the violation (other than a violation of section 41719).
 
-&emsp;(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
-
-&emsp;(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.
-
-(3) A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to—
-
-&emsp;(A) the transportation of hazardous material;
-
-&emsp;(B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation;
-
-&emsp;(C) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
-
-&emsp;(D) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
-
-&emsp;(E) a violation of section 41705, relating to discrimination against handicapped individuals.
-
-(4) A separate violation occurs under this subsection for each day the violation (other than a violation of section 41715) <sup>1</sup> continues or, if applicable, for each flight involving the violation (other than a violation of section 41715).<sup>1</sup>
-
-(5)
+(3)
 
 Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
-(6)
+(4)
 
-Air service termination notice.—Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 <sup>1</sup> shall be $5,000 instead of $1,000.
+Aviation security violations.—Notwithstanding paragraph (1) of this subsection, the maximum civil penalty for violating chapter 449 or another requirement under this title administered by the Under Secretary of Transportation for Security shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
 
-(7)
+(5)
 
-Consumer protection.—Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.
+Penalties applicable to individuals and small business concerns.—
 
-(8)
+&emsp;(A) An individual (except an airman serving as an airman) or small business concern is liable to the Government for a civil penalty of not more than $10,000 for violating—
 
-Aviation security violations.—Notwithstanding paragraphs (1) and (2) of this subsection, the maximum civil penalty for violating chapter 449 or another requirement under this title administered by the Under Secretary of Transportation for Security shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
+&emsp;&emsp;(i) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502 (b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+
+&emsp;&emsp;(ii) a regulation prescribed or order issued under any provision to which clause (i) applies.
+
+&emsp;(B) A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) committed by an individual or small business concern related to—
+
+&emsp;&emsp;(i) the transportation of hazardous material;
+
+&emsp;&emsp;(ii) the registration or recordation under chapter 441 of an aircraft not used to provide air transportation;
+
+&emsp;&emsp;(iii) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
+
+&emsp;&emsp;(iv) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
+
+&emsp;&emsp;(v) a violation of section 40127 or section 41705, relating to discrimination.
+
+&emsp;(C) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41719 committed by an individual or small business concern shall be $5,000 instead of $1,000.
+
+&emsp;(D) Notwithstanding paragraph (1), the maximum civil penalty for a violation of section 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary by an individual or small business concern that is intended to afford consumer protection to commercial air transportation passengers shall be $2,500 for each violation.
 
 (b)
 
@@ -86,7 +86,13 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Under Secretary or Administrator initiates if—
 
-&emsp;(A) the amount in controversy is more than $50,000;
+&emsp;(A) the amount in controversy is more than—
+
+&emsp;&emsp;(i) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+
+&emsp;&emsp;(ii) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+
+&emsp;&emsp;(iii) $50,000 if the violation was committed by an individual or small business concern on or after that date;
 
 &emsp;(B) the action is in rem or another action in rem based on the same violation has been brought;
 
@@ -124,7 +130,13 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(iii) judicial review of any order assessing a civil penalty may be obtained only pursuant to section 46110 of this title.
 
-(8) The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is $50,000.
+(8) The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is—
+
+&emsp;(A) $50,000 if the violation was committed by any person before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act;
+
+&emsp;(B) $400,000 if the violation was committed by a person other than an individual or small business concern on or after that date; or
+
+&emsp;(C) $50,000 if the violation was committed by an individual or small business concern on or after that date.
 
 (9) This subsection applies only to a violation occurring after August 25, 1992.
 
@@ -164,7 +176,11 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312.)
+(i)
+
+Small Business Concern Defined.—In this section, the term “small business concern” has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558.)
 
 Historical and Revision Notes
 
@@ -346,9 +362,51 @@ These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the
 
 #### References in Text
 
-Section 41715, referred to in subsec. (a)(4), (6), was renumbered section 41719 of this title and a new section 41715 of this title was enacted by Pub. L. 106–181, title II, §231(b), Apr. 5, 2000, 114 Stat. 108.
+The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (d)(4)(A), (8), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–176, §503(a)(1), substituted “$25,000 (or $1,100 if the person is an individual or small business concern)” for “$1,000” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 108–176, §503(a)(2), (3), struck out “or” before “section 47107(b)” and substituted “section), or section 47133” for “section)”.
+
+Subsec. (a)(2). Pub. L. 108–176, §503(a)(5), substituted “section 41719” for “section 41715” in two places.
+
+Pub. L. 108–176, §503(a)(4), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “A person operating an aircraft for the transportation of passengers or property for compensation (except an airman serving as an airman) is liable to the Government for a civil penalty of not more than $10,000 for violating—
+
+&emsp;“(A) chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), section 44502(b) or (c), chapter 447 (except sections 44717–44723), or chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909) of this title; or
+
+&emsp;“(B) a regulation prescribed or order issued under any provision to which clause (A) of this paragraph applies.”
+
+Subsec. (a)(3). Pub. L. 108–176, §503(a)(4), redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “A civil penalty of not more than $10,000 may be imposed for each violation under paragraph (1) of this subsection related to
+
+&emsp;“(A) the transportation of hazardous material;
+
+&emsp;“(B) the registration or recordation under chapter 441 of this title of an aircraft not used to provide air transportation;
+
+&emsp;“(C) a violation of section 44718(d), relating to the limitation on construction or establishment of landfills;
+
+&emsp;“(D) a violation of section 44725, relating to the safe disposal of life-limited aircraft parts; or
+
+&emsp;“(E) a violation of section 41705, relating to discrimination against handicapped individuals.”
+
+Subsec. (a)(4). Pub. L. 108–176, §503(a)(6), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+
+Pub. L. 108–176, §503(a)(4), redesignated par. (8) as (4). Former par. (4) redesignated (2).
+
+Subsec. (a)(5). Pub. L. 108–176, §503(a)(7), added par. (5). Former par. (5) redesignated (3).
+
+Subsec. (a)(6). Pub. L. 108–176, §503(a)(4), struck out heading and text of par. (6). Text read as follows: “Notwithstanding paragraph (1), the maximum civil penalty for violating section 41715 shall be $5,000 instead of $1,000.”
+
+Subsec. (a)(7). Pub. L. 108–176, §503(a)(4), struck out heading and text of par. (7). Text read as follows: “Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.”
+
+Subsec. (a)(8). Pub. L. 108–176, §503(a)(4), redesignated par. (8) as (4).
+
+Subsec. (d)(4)(A). Pub. L. 108–176, §503(b)(1), substituted “more than—” for “more than $50,000;” and added cls. (i) to (iii).
+
+Subsec. (d)(8). Pub. L. 108–176, §503(b)(2), substituted “is—” for “is $50,000.” and added subpars. (A) to (C).
+
+Subsec. (i). Pub. L. 108–176, §503(c), added subsec. (i).
 
 2002—Subsec. (a)(8). Pub. L. 107–296 added par. (8).
 
@@ -364,7 +422,7 @@ Subsec. (d)(8). Pub. L. 107–71, §140(d)(3), substituted “Under Secretary, A
 
 Subsec. (h)(2). Pub. L. 107–71, §140(d)(4), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for“subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
 
 Subsec. (a)(3)(C). Pub. L. 106–181, §503(c), added subpar. (C).
 
@@ -404,7 +462,7 @@ Subsec. (c)(1)(A). Pub. L. 104–287, §5(77)(D)(ii), (iii), struck out “or”
 
 Pub. L. 104–287, §5(77)(D)(i), substituted “chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714),” for “any of sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, or 41731–41742,”.
 
-Subsec. (d)(2). Pub. L. 104–287, §5(77)(E), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
+Subsec. (d)(2). Pub. L. 104–287, §5(77)(E), substituted “section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902,44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section” for “or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, 44932–44938,”.
 
 Pub. L. 104–264, §1220(b), which directed amendment of par. (2) by inserting “44718(d),” after “44716,”, was repealed by Pub. L. 105–102.
 
@@ -440,6 +498,10 @@ Subsec. (d)(7)(D). Pub. L. 103–305, §112(c)(3), added subpar. (D).
 
 Subsec. (f)(1)(A)(i). Pub. L. 103–429, §6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -460,7 +522,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Amendment by section 502(c) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -479,6 +541,4 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 1133, 1153, 40109, 41110, 41705, 46304 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 &emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
-&emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
+&emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which areinsured by the Federal Deposit Insurance Corporation;
 
 &emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Board with respect to any Federal credit union;
 

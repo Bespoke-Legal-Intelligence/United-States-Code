@@ -134,7 +134,7 @@ $1,000.
 
 #### (1) Beneficiary must be under age 701/2
 
-&emsp;No deduction shall be allowed under this section with respect to any qualified retirementcontribution for the benefit of an individual if such individual has attained age 701/2 before the close of such individual's taxable year for which the contribution was made.
+&emsp;No deduction shall be allowed under this section with respect to any qualified retirement contribution for the benefit of an individual if such individual has attained age 701/2 before the close of such individual's taxable year for which the contribution was made.
 
 #### (2) Recontributed amounts
 
@@ -208,7 +208,7 @@ For purposes of this section, the term “qualified retirement contribution” m
 
 #### (1) In general
 
-&emsp;If (for any part of any plan year ending with or within a taxable year) an individual or the individual's spouse is an active participant, each of the dollar limitations contained in subsections (b)(1)(A) and (c)(1)(A) for such taxable year shall be reduced (but not below zero)by the amount determined under paragraph (2).
+&emsp;If (for any part of any plan year ending with or within a taxable year) an individual or the individual's spouse is an active participant, each of the dollar limitations contained in subsections (b)(1)(A) and (c)(1)(A) for such taxable year shall be reduced (but not below zero) by the amount determined under paragraph (2).
 
 #### (2) Amount of reduction
 
@@ -430,7 +430,7 @@ $50,000.
 
 #### Prior Provisions
 
-A prior section 219 was renumbered section 223 of this title.
+A prior section 219 was renumbered section 224 of this title.
 
 #### Amendments
 
@@ -498,7 +498,7 @@ Subsec. (g)(3)(A)(ii). Pub. L. 101–239, §7816(c)(1), made technical correctio
 
 Subsec. (g)(4). Pub. L. 100–647, §1011(a)(1), inserted “and living apart” after “filing separately” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a married individual filing a separate return for any taxable year, paragraph (1) shall be applied without regard to whether such individual's spouse is an active participant for any plan year ending with or within such taxable year.”
 
-1986—Subsec. (b)(2). Pub. L. 99–514, §1108(g)(2), amended par. (2) generally, substituting provision that this section shall not apply with respect to an employer contribution to a simplified employee pension for former provisions consisting of subpars. (A), (B), and (C) which set out detailed limits on deductibility of employer contributions.
+1986—Subsec. (b)(2). Pub. L. 99–514, §1108(g)(2), amended par. (2) generally, substituting provision that thissection shall not apply with respect to an employer contribution to a simplified employee pension for former provisions consisting of subpars. (A), (B), and (C) which set out detailed limits on deductibility of employer contributions.
 
 Subsec. (b)(2)(C). Pub. L. 99–514, §1875(c)(6)(B), substituted “the dollar limitation in effect under section 415(c)(1)(A)” for “the $15,000 amount specified in subparagraph (A)(ii)”.
 
@@ -556,7 +556,7 @@ Subsec. (e)(3)(D), (E). Pub. L. 97–448, §103(c)(3)(A), redesignated subpar. (
 
 Subsec. (f)(1). Pub. L. 97–448, §103(c)(4), substituted “earned income (as defined in section 401(c)(2)) reduced by any amount allowable as a deduction to the individual in computing adjusted gross income under paragraph (7) of section 62” for “earned income as defined in section 401(c)(2)” and inserted provision that “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation.
 
-Subsec. (f)(3)(B). Pub. L. 97–448, §103(c)(5), substituted “if the contribution is made on account of the taxable year which includes such last day and by April 15 of thecalendar year” for “if the contribution is made by April 15 of the calendar year”.
+Subsec. (f)(3)(B). Pub. L. 97–448, §103(c)(5), substituted “if the contribution is made on account of the taxable year which includes such last day and by April 15 of the calendar year” for “if the contribution is made by April 15 of the calendar year”.
 
 1982—Subsec. (d)(4). Pub. L. 97–248 added par. (4).
 
@@ -564,7 +564,7 @@ Subsec. (f)(3)(B). Pub. L. 97–448, §103(c)(5), substituted “if the contribu
 
 Subsec. (b). Pub. L. 97–34, §311(a), in heading substituted “Maximum amount of deduction” for “Limitations and restrictions”.
 
-Subsec. (b)(1). Pub. L. 97–34, §311(a), amended par. (1) generally, substituting “In general” for “Maximum deduction” in heading and in text provision for allowance of a deduction not to exceed the lesser of (A) $2,000, or (B) an amount equal to the compensation includible in the individual's gross income for such taxable year, for provision for an amount not to exceed amount equal to 15 percent of the compensation includible in gross income for the taxable year, or $1,500, whichever is less.
+Subsec. (b)(1). Pub. L. 97–34, §311(a), amended par. (1) generally, substituting “In general” for “Maximum deduction” in heading and in text provision for allowance of a deduction not to exceed the lesser of (A) $2,000, or\(B) an amount equal to the compensation includible in the individual's gross income for such taxable year, for provision for an amount not to exceed amount equal to 15 percent of the compensation includible in gross income for the taxable year, or $1,500, whichever is less.
 
 Subsec. (b)(2)(A)(ii), (C). Pub. L. 97–34, §312(c)(1), substituted “$15,000” for “$7,500”.
 
@@ -710,7 +710,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Integration rules.—Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954 (as in effect before the amendments made by this section) shall continue to apply for years beginning afterDecember 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
+Integration rules.—Subparagraphs (D) and (E) of section 408(k)(3) of the Internal Revenue Code of 1954 (as in effect before the amendments made by this section) shall continue to apply for years beginning after December 31, 1986, and before January 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by this section) may not be integrated under such subparagraphs.”
 
 Section 1109(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and section 501 of this title\] shall apply to taxable years beginning after December 31, 1986.”
 
@@ -724,7 +724,7 @@ Section 147(d) of Pub. L. 98–369 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 408 of this title\] shall apply to contributions made after December 31, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 408 of this title\] shall apply to contributions made after December 31, 1984.
 
 “(2)
 
@@ -828,7 +828,7 @@ Effective Date.—The provisions of subsection (a) shall apply to taxable years 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -844,5 +844,5 @@ Section 157(b)(4)(B) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, O
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25B, 62, 72, 86, 132, 135, 137, 220, 221, 222, 408, 408A, 469, 501, 4973, 6047, 6652 of this title; title 29 section 1309.
+This section is referred to in sections 25B, 62, 72, 86, 132, 135, 137, 220, 221, 222, 223, 408, 408A, 469, 501, 4973, 6047, 6652 of this title; title 29 section 1309.
 

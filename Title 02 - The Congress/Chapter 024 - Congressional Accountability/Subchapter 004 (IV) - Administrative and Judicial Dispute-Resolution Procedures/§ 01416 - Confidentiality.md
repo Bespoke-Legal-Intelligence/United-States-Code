@@ -10,7 +10,7 @@ All mediation shall be strictly confidential.
 
 #### (c) Hearings and deliberations
 
-Except as provided in subsections (d), (e), and (f) of this section, all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under section 1341 of this title, but shall applyto the deliberations of hearing officers and the Board under that section.
+Except as provided in subsections (d), (e), and (f) of this section, all proceedings and deliberations of hearing officers and the Board, including any related records, shall be confidential. This subsection shall not apply to proceedings under section 1341 of this title, but shall apply to the deliberations of hearing officers and the Board under that section.
 
 #### (d) Release of records for judicial action
 
@@ -22,7 +22,7 @@ At the discretion of the Executive Director, the Executive Director may provide 
 
 #### (f) Final decisions
 
-A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under section 1331 of this title, or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
+A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee,or in favor of the charging party under section 1331 of this title, or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
 
 (Pub. L. 104–1, title IV, §416, Jan. 23, 1995, 109 Stat. 38.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to establish a State performance accountability system, comprised of the activities described in this section, to assess the effectiveness of the State in achieving statewide progress in vocational andtechnical education, and to optimize the return of investment of Federal funds in vocational and technical education activities.
+The purpose of this section is to establish a State performance accountability system, comprised of the activities described in this section, to assess the effectiveness of the State in achieving statewide progress in vocational and technical education, and to optimize the return of investment of Federal funds in vocational and technical education activities.
 
 #### (b) State performance measures
 

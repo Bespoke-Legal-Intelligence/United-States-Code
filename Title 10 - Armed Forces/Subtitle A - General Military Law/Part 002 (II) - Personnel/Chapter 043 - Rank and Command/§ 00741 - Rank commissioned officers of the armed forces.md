@@ -19,13 +19,13 @@
 
 (b) Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.
 
-(c) Rank among officers of the Army, Navy, Air Force, and Marine Corps of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+(c) Rank among officers of the Army, Navy, Air Force, and Marine Corps of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribedby the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
 (d)(1) The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall be made under regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
 (2) Except as otherwise provided by law, the date of rank of an officer who holds a grade as the result of a promotion is the date of his appointment to that grade.
 
-(3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, or Marine Corps who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissionedofficer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer's qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.
+(3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, or Marine Corps who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissioned officer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer's qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.
 
 (4)(A) The Secretary concerned may adjust the date of rank of an officer appointed under section 624(a) of this title to a higher grade that is not a general officer or flag officer grade if the appointment of that officer to that grade is delayed from the date on which (as determined by the Secretary) it would otherwise have been made by reason of unusual circumstances (as determined by the Secretary) that cause an unintended delay in—
 
@@ -109,7 +109,7 @@ In subsections (a) and (b), the words “entitled to pay” and “entitled to t
 
 In subsection (b), the words “in such grades”, in 10:517 and 34:241a, are omitted as surplusage.
 
-In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank amongofficers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
+In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank among officers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
 
 #### Amendments
 
@@ -172,6 +172,10 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -106,7 +106,7 @@ June 30, 1954, ch. 432, title VII, §731, 68 Stat. 356.
 
 1984—Subsec. (a). Pub. L. 98–525, §543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
 
-Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A)and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
+Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(7). Pub. L. 98–525, §1401(h), added par. (7).
 
@@ -120,5 +120,5 @@ Amendment by section 1401(h) of Pub. L. 98–525 effective Oct. 1, 1985, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1475, 1478, 2103, 2105, 2106, 2109 of this title; title 37 section 209.
+This section is referred to in sections 1475, 1478, 2103, 2103a, 2105, 2106, 2109, 4342, 6954, 9342 of this title; title 37 section 209.
 

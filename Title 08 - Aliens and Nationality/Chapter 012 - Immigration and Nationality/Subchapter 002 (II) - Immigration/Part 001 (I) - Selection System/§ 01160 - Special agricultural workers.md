@@ -34,7 +34,7 @@
 
 #### (B) Group 2
 
-&emsp;&emsp;In the case of aliens to which subparagraph (A) does not apply, the adjustment shall occur on the day after the last day ofthe two-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
+&emsp;&emsp;In the case of aliens to which subparagraph (A) does not apply, the adjustment shall occur on the day after the last day of the two-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
 
 #### (C) Numerical limitation
 
@@ -86,7 +86,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An alien may establish that he meets the requirement of subsection (a)(1)(B)(ii) of this section through government employment records, records supplied by employers or collective bargaining organizations, and such other reliable documentation as the alien may provide. The Attorney General shall establish special procedures to credit properly work in cases in which an alien was employed under an assumed name.
+&emsp;&emsp;An alien may establish that he meets the requirement of subsection (a)(1)(B)(ii) of this section through government employment records, records supplied by employers or collective bargaining organizations, and such other reliable documentation as thealien may provide. The Attorney General shall establish special procedures to credit properly work in cases in which an alien was employed under an assumed name.
 
 #### (B) Documentation of work history
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securing timely production of those records under regulations to be promulgated by the Attorney General.
 
-&emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) of this section by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney Generalto disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
+&emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) of this section by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney General to disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
 
 #### (4) Treatment of applications by designated entities
 
@@ -272,7 +272,7 @@ Subsec. (b)(6). Pub. L. 104–208, §623(b), amended par. (6) generally, substit
 
 Pub. L. 104–208, §384(d)(1), substituted “Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be subject to appropriate disciplinary action and subject to a civil money penalty of not more than $5,000 for each violation.” for “Anyone who uses, publishes, or permits information to be examined in violation of this paragraph shall be fined in accordance with title 18 or imprisoned not more than five years, or both.” in concluding provisions.
 
-Pub. L. 104–132, §431(b)(2), inserted before “Anyone who uses” in concluding provisions “Notwithstanding the preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discover information leading to the location or identity of the alien.”
+Pub. L. 104–132, §431(b)(2), inserted before “Anyone who uses” in concluding provisions “Notwithstanding the preceding sentence, the Attorney General may authorize an application to a Federal court of competent jurisdiction for, and a judge of such court may grant an order authorizing, disclosure of information contained in the application of the alien to be used for identification of the alien when there is reason to believe that the alien has been killed or severely incapacitated, or for criminal law enforcement purposes against the alien whose application is to be disclosed or to discoverinformation leading to the location or identity of the alien.”
 
 Subsec. (e)(3)(A). Pub. L. 104–208, §308(g)(2)(B), inserted “(as in effect before October 1, 1996)” after “section 1105a of this title”.
 

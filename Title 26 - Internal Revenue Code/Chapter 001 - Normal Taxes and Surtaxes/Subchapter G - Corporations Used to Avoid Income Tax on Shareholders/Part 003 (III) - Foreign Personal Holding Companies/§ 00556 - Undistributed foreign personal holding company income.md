@@ -78,7 +78,7 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 201(g) ofPub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 201(g) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -104,5 +104,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 508, 557, 4947, 4948 of this title.
+This section is referred to in sections 170, 501, 508, 557, 4947, 4948 of this title.
 

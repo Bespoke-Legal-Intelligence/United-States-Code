@@ -78,6 +78,10 @@ For purposes of this subchapter—
 
 1986—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.

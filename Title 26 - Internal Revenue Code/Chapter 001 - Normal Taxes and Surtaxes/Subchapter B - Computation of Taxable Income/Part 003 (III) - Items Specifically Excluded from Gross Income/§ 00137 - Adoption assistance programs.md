@@ -62,9 +62,9 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 (Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57.)
 
-#### Adjustment for Adoption Assistance Program Expenses Exclusion for Taxable Years Beginning in 2003
+#### Adjustment for Adoption Assistance Program Expenses Exclusion for Taxable Years Beginning in 2004
 
-<i>For inflation adjustment for taxable years beginning in 2003 of maximum exclusion in subsection (a)(2) of this section in connection with employee's adoption of a child with special needs, of maximum exclusion in subsection (b)(1) of this section in connection with adoption assistance program for other adoptions, and of phaseout of exclusion in subsection (b)(2)(A) of this section, see section 3.13 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment for taxable years beginning in 2004 of maximum exclusion in subsection (a)(2) of this section in connection with employee's adoption of a child with special needs, of maximum exclusion in subsection (b)(1) of this section in connection with adoption assistance program for other adoptions, and of phaseout of exclusion in subsection (b)(2)(A) of this section, see section 3.14 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 

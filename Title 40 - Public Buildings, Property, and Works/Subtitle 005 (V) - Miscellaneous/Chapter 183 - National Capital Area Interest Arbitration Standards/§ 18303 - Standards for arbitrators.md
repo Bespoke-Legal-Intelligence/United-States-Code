@@ -46,7 +46,7 @@ Written award.—In resolving a dispute submitted to arbitration involving the e
 
 &emsp;(2)
 
-Prerequisites.—An award may grant an increase in pay rates or benefits (including insurance and pension benefits), or reduce hoursof work, only if the arbitrator concludes that any costs to the agency do not adversely affect the public welfare.
+Prerequisites.—An award may grant an increase in pay rates or benefits (including insurance and pension benefits), or reduce hours of work, only if the arbitrator concludes that any costs to the agency do not adversely affect the public welfare.
 
 &emsp;(3)
 

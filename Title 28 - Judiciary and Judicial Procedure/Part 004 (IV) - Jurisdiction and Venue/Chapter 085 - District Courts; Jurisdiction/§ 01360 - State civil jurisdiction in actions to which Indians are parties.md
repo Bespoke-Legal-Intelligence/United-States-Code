@@ -21,7 +21,7 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted “within the State” for “within the Territory” in item relating to Alaska.
+1984—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted“within the State” for “within the Territory” in item relating to Alaska.
 
 1978—Subsec. (a). Pub. L. 95–598 directed the amendment of subsec. (a) by substituting in the item relating to Alaska “within the State” for “within the Territory”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
@@ -35,7 +35,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 #### Admission of Alaska as State
 
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, setout as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendment of State Constitutions To Remove Legal Impediment; Effective Date
 

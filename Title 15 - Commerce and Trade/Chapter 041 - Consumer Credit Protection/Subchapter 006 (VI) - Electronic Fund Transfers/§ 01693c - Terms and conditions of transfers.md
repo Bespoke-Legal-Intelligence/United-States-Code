@@ -24,7 +24,7 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 &emsp;(10) a notice to the consumer that a fee may be imposed by—
 
-&emsp;&emsp;(A) an automated teller machine operator (as defined in section 1693b(d)(3)(D)(i) of this title) if the consumer initiates a transfer from an automated teller machine that is not operated by the person issuing the card or other means of access; and
+&emsp;&emsp;(A) an automated teller machine operator (as defined in section 1693b(d)(3)(D)(i) of this title) if the consumer initiates a transferfrom an automated teller machine that is not operated by the person issuing the card or other means of access; and
 
 &emsp;&emsp;(B) any national, regional, or local network utilized to effect the transaction.
 

@@ -10,7 +10,7 @@
 
 (b) The Secretary shall schedule the payment of amounts, consistent with the program purposes and applicable regulations prescribed by the Secretary of the Treasury, to minimize the time elapsing between the transfer of amounts from the Treasury and the subsequent disbursement of the amounts by a State.
 
-(c) The Secretary shall notify a State authority or agency that further payments will be made to the State only when the program complies with the prescribed standards or a failure to comply substantially with standards is corrected if the Secretary, after reasonable noticeto the designated State authority or agency, finds that—
+(c) The Secretary shall notify a State authority or agency that further payments will be made to the State only when the program complies with the prescribed standards or a failure to comply substantially with standards is corrected if the Secretary, after reasonable notice to the designated State authority or agency, finds that—
 
 &emsp;(1) the State recreational boating safety program submitted by the State and accepted by the Secretary has been so changed that it no longer complies with this chapter or standards prescribed by regulations; or
 

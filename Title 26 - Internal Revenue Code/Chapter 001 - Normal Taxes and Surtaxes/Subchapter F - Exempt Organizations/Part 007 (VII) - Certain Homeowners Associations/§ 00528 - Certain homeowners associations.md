@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34, §966(d), which directed amendment of subsec. (b) by inserting before the period “(32 percent of such income in the case of a timeshare association)”, was executed by making the insertion before the period at end to reflect the probable intent of Congress.
+1997—Subsec. (b). Pub. L. 105–34, §966(d), which directed amendment of subsec. (b) by inserting before theperiod “(32 percent of such income in the case of a timeshare association)”, was executed by making the insertion before the period at end to reflect the probable intent of Congress.
 
 Subsec. (c)(1). Pub. L. 105–34, §966(a)(1)(A), substituted “, a residential real estate management association, or a timeshare association” for “or a residential real estate management association” in introductory provisions.
 

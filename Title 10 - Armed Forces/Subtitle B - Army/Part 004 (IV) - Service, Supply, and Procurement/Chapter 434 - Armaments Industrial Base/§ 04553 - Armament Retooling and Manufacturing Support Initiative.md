@@ -34,7 +34,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;(9) To foster cooperation between the Department of the Army, property managers, commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in eligible facilities made available for purposes of the ARMS Initiative.
 
-&emsp;(10) To reduce or eliminate the cost of asset disposal that would be incurred if property at an eligible facility was declared excess to the needs of the Department of the Army.
+&emsp;(10) To reduce or eliminate the cost of asset disposal that would be incurred if property atan eligible facility was declared excess to the needs of the Department of the Army.
 
 (c)
 
@@ -42,7 +42,7 @@ Availability of Facilities.—The Secretary may make any eligible facility avail
 
 (d)
 
-Consideration for Leases.—Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), shall not apply to uses of property or facilities in accordance with the ARMS Initiative.
+Consideration for Leases.—Section 1302 of title 40 shall not apply to uses of property or facilities in accordance with the ARMS Initiative.
 
 (e)
 
@@ -50,5 +50,13 @@ Program Support.—(1) Funds appropriated for purposes of the ARMS Initiative ma
 
 (2) A full annual accounting of such expenses for each fiscal year shall be provided to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives not later than March 30 of the following fiscal year.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–68.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–68; amended Pub. L. 108–178, §4(b)(5), Dec. 15, 2003, 117 Stat. 2641.)
+
+#### Amendments
+
+2003—Subsec. (d). Pub. L. 108–178 substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 

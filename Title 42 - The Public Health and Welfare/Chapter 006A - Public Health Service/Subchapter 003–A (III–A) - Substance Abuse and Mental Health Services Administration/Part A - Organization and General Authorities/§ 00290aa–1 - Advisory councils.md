@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the organization;
 
-&emsp;&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies and services that are being carriedon in the United States or any other country as to the diseases, disorders, or other aspects of human health with respect to which the organization was established and with the approval of the Administrator or Director, whichever is appropriate, make such information available through appropriate publications for the benefit of public and private health entities and health professions personnel and for the information of the general public; and
+&emsp;&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies and services that are being carried on in the United States or any other country as to the diseases, disorders, or other aspects of human health with respect to which the organization was established and with the approval of the Administrator or Director, whichever is appropriate, make such information available through appropriate publications for the benefit of public and private health entities and health professions personnel and for the information of the general public; and
 
 &emsp;&emsp;(C) may appoint subcommittees and convene workshops and conferences.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(A) Nine of the members shall be appointed by the Secretary from among the leading representatives of the health disciplines (including public health and behavioral and social sciences) relevant to the activities of the Administration or Center for which the advisory council is established.
 
-&emsp;&emsp;(B) Three of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, public relations, law, health policy economics, or management.
+&emsp;&emsp;(B) Three of the members shall be appointed by the Secretary from the general public and shall include leaders in fields ofpublic policy, public relations, law, health policy economics, or management.
 
 #### (4) Compensation
 

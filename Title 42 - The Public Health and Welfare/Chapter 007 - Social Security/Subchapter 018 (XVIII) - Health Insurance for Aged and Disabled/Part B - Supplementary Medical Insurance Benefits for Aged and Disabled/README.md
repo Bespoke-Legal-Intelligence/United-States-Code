@@ -2,7 +2,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 300k, 300gg, 300gg–41, 426–1, 1320a–3, 1320a–3a, 1320a–7a, 1320a–7b, 1320d, 1395a, 1395b–1, 1395b–2, 1395b–6, 1395d, 1395i–2, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395cc, 1395cc–1, 1395cc–2, 1395ff,1395<i>ll</i>, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395ss, 1395uu, 1395xx, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 2 section 906; title 5 sections 8904, 8910; title 10 sections 1079, 1086; title 25 sections 1616m, 1621k; title 26 sections 35, 213, 6103, 9801; title 29 sections 1181, 2918; title 31 section 3806.
+This part is referred to in sections 300k, 300gg, 300gg–41, 426–1, 1320a–3, 1320a–3a, 1320a–7, 1320a–7a, 1320a–7b, 1320d, 1395a, 1395b–1, 1395b–2, 1395b–6, 1395b–8, 1395b–9, 1395d, 1395i–2, 1395w–3b, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–27a, 1395w–28, 1395w–29, 1395w–101, 1395w–102, 1395w–115, 1395w–131, 1395w–141, 1395w–152, 1395x, 1395y, 1395cc, 1395cc–1, 1395cc–2, 1395cc–3, 1395ff, 1395hh, 1395kk–1, 1395<i>ll</i>, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395ss, 1395uu, 1395xx, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396r–8, 1396u–4, 1396u–5 of this title; title 2 section 906; title 5 sections 8904, 8910; title 10 sections 1079, 1086; title 25 sections 1616m, 1621k; title 26 sections 35, 213, 6103, 9801; title 29 sections 1181, 2918; title 31 section 3806.
 
 
 ---
@@ -26,5 +26,7 @@ This part is referred to in sections 300k, 300gg, 300gg–41, 426–1, 1320a–3
 - [&sect; 01395w - Appropriations to cover Government contributions and contingency reserve](%C2%A7%2001395w%20-%20Appropriations%20to%20cover%20Government%20contributions%20and%20contingency%20reserve.md)
 - [&sect; 01395w&#8211;1 - Repealed. Pub. L. 105&#8211;33, title IV, &sect;4022(b)(2)(A), Aug. 5, 1997, 111 Stat. 354](%C2%A7%2001395w%E2%80%931%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9333%2C%20title%20IV%2C%20%C2%A74022%28b%29%282%29%28A%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20354.md)
 - [&sect; 01395w&#8211;2 - Intermediate sanctions for providers or suppliers of clinical diagnostic laboratory tests](%C2%A7%2001395w%E2%80%932%20-%20Intermediate%20sanctions%20for%20providers%20or%20suppliers%20of%20clinical%20diagnostic%20laboratory%20tests.md)
-- [&sect; 01395w&#8211;3 - Demonstration projects for competitive acquisition of items and services](%C2%A7%2001395w%E2%80%933%20-%20Demonstration%20projects%20for%20competitive%20acquisition%20of%20items%20and%20services.md)
+- [&sect; 01395w&#8211;3 - Competitive acquisition of certain items and services](%C2%A7%2001395w%E2%80%933%20-%20Competitive%20acquisition%20of%20certain%20items%20and%20services.md)
+- [&sect; 01395w&#8211;3a - Use of average sales price payment methodology](%C2%A7%2001395w%E2%80%933a%20-%20Use%20of%20average%20sales%20price%20payment%20methodology.md)
+- [&sect; 01395w&#8211;3b - Competitive acquisition of outpatient drugs and biologicals](%C2%A7%2001395w%E2%80%933b%20-%20Competitive%20acquisition%20of%20outpatient%20drugs%20and%20biologicals.md)
 - [&sect; 01395w&#8211;4 - Payment for physicians&#8217; services](%C2%A7%2001395w%E2%80%934%20-%20Payment%20for%20physicians%E2%80%99%20services.md)

@@ -106,7 +106,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 #### (B) Nondisclosure of certain other information
 
-&emsp;&emsp;Paragraph (1) shall not require the disclosure of any information if the Secretarywithheld such information from public inspection under subsection (a)(1)(D).
+&emsp;&emsp;Paragraph (1) shall not require the disclosure of any information if the Secretary withheld such information from public inspection under subsection (a)(1)(D).
 
 #### (4) Limitation on providing copies
 
@@ -180,7 +180,7 @@ Pub. L. 106–230, §1(b)(4)(D), added par. (6) relating to notice materials.
 
 1998—Subsec. (b). Pub. L. 105–206, §6019(a), inserted at end “In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization.”
 
-Subsec. (d). Pub. L. 105–277 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The annual return required to be filed under section 6033 (relating to returns by exempt organizations) by any organization which is a private foundation within the meaning of section 509(a) shall be made available by the foundation managers for inspection at the principal office of the foundation duringregular business hours by any citizen on request made within 180 days after the date of the publication of notice of its availability. Such notice shall be published, not later than the day prescribed for filing such annual return (determined with regard to any extension of time for filing), in a newspaper having general circulation in the county in which the principal office of the private foundation is located. The notice shall state that the annual return of the private foundation is available at its principal office for inspection during regular business hours by any citizen who requests it within 180 days after the date of such publication, and shall state the address and the telephone number of the private foundation's principal office and the name of its principal manager.”
+Subsec. (d). Pub. L. 105–277 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The annual return required to be filed under section 6033 (relating to returns by exempt organizations) by any organization which is a private foundation within the meaning of section 509(a) shall be made available by the foundation managers for inspection at the principal office of the foundation during regular business hours by any citizen on request made within 180 days after the date of the publication of notice of its availability. Such notice shall be published, not later than the day prescribed for filing such annual return (determined with regard to any extension of time for filing), in a newspaper having general circulation in the county in which the principal office of the private foundation is located. The notice shall state that the annual return of the private foundation is available at its principal office for inspection during regular business hours by any citizen who requests it within 180 days after the date of such publication, and shall state the address and the telephone number of the private foundation's principal office and the name of its principal manager.”
 
 Subsec. (e). Pub. L. 105–277 struck out subsec. (e), which consisted of pars. (1) to (3) relating to public inspection of certain annual returns and applications for exemption with a limitation of applicability of certain provisions.
 
@@ -308,7 +308,7 @@ Section 75(c) of Pub. L. 85–866 provided that: “The amendments made by subse
 
 #### Effect of Amendments on Existing Disclosures
 
-Pub. L. 107–276, §7, Nov. 2, 2002, 116 Stat. 1935, provided that: “Notices, reports, or returns that were required to be filed with the Secretary of the Treasury before the date of the enactment of the amendments made by this Act \[Nov. 2, 2002\] and that were disclosed by the Secretary of the Treasury consistent with the law in effect at the time of disclosure shall remain subject on and after such date to the disclosure provisions of section 6104 of the Internal Revenue Code of 1986.”
+Pub. L. 107–276, §7, Nov. 2, 2002, 116 Stat. 1935, provided that: “Notices, reports, or returns that were required to be filed with the Secretary of the Treasurybefore the date of the enactment of the amendments made by this Act \[Nov. 2, 2002\] and that were disclosed by the Secretary of the Treasury consistent with the law in effect at the time of disclosure shall remain subject on and after such date to the disclosure provisions of section 6104 of the Internal Revenue Code of 1986.”
 
 #### Section Referred to in Other Sections
 

@@ -144,15 +144,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a national defense reserve fleet vessel, including a vessel in the Ready Reserve Force maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
 
-&emsp;(4) The term “congressional defense committees” means—
+&emsp;(4) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
 
-&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-&emsp;(5) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
-
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228.)
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 108–136, div. A, title X, §1043(b)(9), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### References in Text
 
@@ -163,6 +157,12 @@ Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), an
 Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 1024 of the National Defense Authorization Act for Fiscal Year 1993 \[H.R. 5006, Pub. L. 102–484\], as it passed the Senate on Oct. 3, 1992, shall be amended in subsection 2218(c)(2) proposed for inclusion in this chapter by deleting all after “expended only” down to and including “appropriations Act” and inserting in lieu thereof “in amounts authorized by law”. It further provided that for purposes of that amendment, Pub. L. 102–396 shall be treated as having been enacted after Pub. L. 102–484, regardless of the actual dates of enactment. The date of Oct. 3, 1992, referred to as the date the Senate passed the National Defense Authorization Act for Fiscal Year 1993, apparently is based on an order adopted by the Senate on Oct. 3, 1992 \[Cong. Rec., vol. 138, p. 30919\] providing that when the conference report on the National Defense Authorization Act for Fiscal Year 1993 was received by the Senate from the House of Representatives it would be deemed to have been agreed to. On Oct. 5, 1992, the Senate received the conference report from the House, and it was considered adopted pursuant to that order \[Cong. Rec., vol. 138, p. 31565\].
 
 #### Amendments
+
+2003—Subsec. (<i>l</i>)(4), (5). Pub. L. 108–136 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘congressional defense committees’ means—
+
+&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
 2001—Subsec. (d)(1). Pub. L. 107–107 struck out “for fiscal years after fiscal year 1993” after “Department of Defense” in introductory provisions.
 

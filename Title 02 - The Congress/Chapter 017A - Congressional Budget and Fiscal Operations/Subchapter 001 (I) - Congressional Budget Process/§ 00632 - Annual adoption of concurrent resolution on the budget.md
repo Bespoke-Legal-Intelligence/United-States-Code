@@ -32,7 +32,7 @@ The concurrent resolution on the budget may—
 
 &emsp;(4) set forth such other matters, and require such other procedures, relating to the budget, as may be appropriate to carry out the purposes of this Act;
 
-&emsp;(5) include a heading entitled “Debt Increase as Measure of Deficit” in which the concurrent resolution shall set forth the amounts by which the debt subject to limit (in section 3101 of title 31) has increased or would increase in each of the relevant fiscal years;
+&emsp;(5) include a heading entitled “Debt Increase as Measure of Deficit” in which the concurrent resolution shall set forth the amounts bywhich the debt subject to limit (in section 3101 of title 31) has increased or would increase in each of the relevant fiscal years;
 
 &emsp;(6) include a heading entitled “Display of Federal Retirement Trust Fund Balances” in which the concurrent resolution shall set forth the balances of the Federal retirement trust funds;
 
@@ -88,7 +88,7 @@ Within 6 weeks after the President submits a budget under section 1105(a) of tit
 
 #### (f) Achievement of goals for reducing unemployment
 
-(1) If, pursuant to section 4(c) of the Employment Act of 1946 \[15 U.S.C. 1022a(c)\], the President recommends in the Economic Report that the goals for reducing unemployment set forth in section 4(b) of such Act \[15 U.S.C. 1022a(b)\] be achieved in a year after the close of the five-year period prescribed by such subsection, theconcurrent resolution on the budget for the fiscal year beginning after the date on which such Economic Report is received by the Congress may set forth the year in which, in the opinion of the Congress, such goals can be achieved.
+(1) If, pursuant to section 4(c) of the Employment Act of 1946 \[15 U.S.C. 1022a(c)\], the President recommends in the Economic Report that the goals for reducing unemployment set forth in section 4(b) of such Act \[15 U.S.C. 1022a(b)\] be achieved in a year after the close of the five-year period prescribed by such subsection, the concurrent resolution on the budget for the fiscal year beginning after the date on which such Economic Report is received by the Congress may set forth the year in which, in the opinion of the Congress, such goals can be achieved.
 
 (2) After the Congress has expressed its opinion pursuant to paragraph (1) as to the year in which the goals for reducing unemployment set forth in section 4(b) of the Employment Act of 1946 \[15 U.S.C. 1022a(b)\] can be achieved, if, pursuant to section 4(e) of such Act \[15 U.S.C. 1022a(e)\], the President recommends in the Economic Report that such goals be achieved in a year which is different from the year in which the Congress has expressed its opinion that such goals should be achieved, either in its action pursuant to paragraph (1) or in its most recent action pursuant to this paragraph, the concurrent resolution on the budget for the fiscal year beginning after the date on which such Economic Report is received by the Congress may set forth the year in which, in the opinion of the Congress, such goals can be achieved.
 
@@ -118,7 +118,7 @@ The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 5
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
-This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of thistitle, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
@@ -130,7 +130,7 @@ Section was formerly classified to section 1322 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
 Subsec. (a)(1), (4). Pub. L. 105–33, §10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
 
@@ -144,9 +144,9 @@ Subsec. (e). Pub. L. 105–33, §10105(e), designated existing provisions as par
 
 Subsec. (i). Pub. L. 105–33, §10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
 
-1995—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
-1990—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
 
 Subsec. (a)(6), (7). Pub. L. 101–508, §13303(a), added pars. (6) and (7).
 
@@ -158,13 +158,13 @@ Subsec. (d). Pub. L. 101–508, §13112(a)(5), substituted “Within 6 weeks aft
 
 Subsec. (i). Pub. L. 101–508, §13303(b), amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
 
-1988—Subsec. (e)(10). Pub. L. 100–418 temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (e)(10). Pub. L. 100–418 temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
 
-1987—Subsec. (g). Pub. L. 100–119, §208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
+<b>1987</b>—Subsec. (g). Pub. L. 100–119, §208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
 
 Subsec. (i)(2). Pub. L. 100–119, §106(d), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-1985—Pub. L. 99–177 substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
+<b>1985</b>—Pub. L. 99–177 substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, substituting provisions relating to content of concurrent resolution on the budget, for provisions relating to action required to be completed by May 15 of each year.
 
@@ -178,7 +178,7 @@ Subsec. (e). Pub. L. 99–177 amended subsec. (e) generally, substituting provis
 
 Subsecs. (f) to (i). Pub. L. 99–177, §§201(b), 275(b)(2)(B), in amending section generally, added subsecs. (f) to (i).
 
-1978—Subsec. (a)(6), (7). Pub. L. 95–523, §304(a), added par. (6) and redesignated former par. (6) as (7).
+<b>1978</b>—Subsec. (a)(6), (7). Pub. L. 95–523, §304(a), added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (d). Pub. L. 95–523, §303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 #### Effective Date of 1990 Amendment
 
-Section 13306 of Pub. L. 101–508 provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
+Section 13306 of Pub. L. 101–508 provided that: “Sections 13301, 13302, and 13303 and any amendments madeby such sections \[amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section\] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 \[amending section 401 of Title 42, The Public Health and Welfare\] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -252,7 +252,7 @@ Definitions.—For purposes of this subsection:
 
 #### Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982
 
-Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 96–5, §5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, thatthe Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 #### Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975
 

@@ -188,6 +188,10 @@ The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(
 
 2002—Subsec. (a)(2)(A). Pub. L. 107–210 inserted “, other than under subsection (a)(4), (f), and (g)” after “national emergency grants”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
+
 #### Construction of 2002 Amendment
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.

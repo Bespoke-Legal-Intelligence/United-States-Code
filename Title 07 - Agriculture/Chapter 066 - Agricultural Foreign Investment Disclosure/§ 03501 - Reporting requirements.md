@@ -22,7 +22,7 @@ Any foreign person who acquires or transfers any interest, other than a security
 
 &emsp;&emsp;(B) in any case in which such transferee is not an individual or a government, the nature of the legal entity holding the interest, the country in which such transferee is created or organized, and the principal place of business of such transferee;
 
-&emsp;(8) the agricultural purposes for which such foreign person intends, on the date on which such report is submitted to the Secretary, to use such agricultural land; and
+&emsp;(8) the agricultural purposes for which such foreign person intends, on the date on whichsuch report is submitted to the Secretary, to use such agricultural land; and
 
 &emsp;(9) such other information as the Secretary may require by regulation.
 

@@ -112,7 +112,7 @@ The voting members of each Council who are required to be appointed by the Secre
 
 (3) Each Council shall meet at appropriate times and places in any of the constituent States of the Council at the call of the Chairman or upon the request of a majority of its voting members.
 
-(4) If any voting member of a Council disagrees with respect to any matter which is transmitted to the Secretary by such Council, such member may submit a statement to the Secretary setting forth the reasons for such disagreement. The regional director of the National Marine Fisheries Service serving on the Council, or the regional director's designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.
+(4) If any voting member of a Council disagrees with respect to any matter which is transmitted to the Secretary by such Council, such member may submit a statement to the Secretary setting forth the reasons for such disagreement. The regional director of the National Marine Fisheries Service serving on the Council, or the regional director's designee, shall submit such a statement, which shall be made available to the public upon request, if theregional director disagrees with any such matter.
 
 (5) At the request of any voting member of a Council, the Council shall hold a roll call vote on any matter before the Council. The official minutes and other appropriate records of any Council meeting shall identify all roll call votes held, the name of each voting member present during each roll call vote, and how each member voted on each roll call vote.
 
@@ -168,7 +168,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(2) prepare comments on any application for foreign fishing transmitted to it under section 1824(b)(4)(C) of this title or section 1824(d) of this title, and any fishery management plan or amendment transmitted to it under section 1854(c)(4) of this title;
 
-&emsp;(3) conduct public hearings, at appropriate times and in appropriate locations in the geographical area concerned, so as to allow all interested persons an opportunity to be heard in the development of fishery management plans and amendments to such plans, and with respect to the administration and implementation of the provisions of this chapter (and for purposes of this paragraph, the term “geographical area concerned” may include an area under the authority of another Council if the fish in the fishery concerned migrate into, or occur in, that area or if the matters being heard affect fishermen of that area; but not unless such other Council is first consulted regarding the conduct of such hearings within its area);
+&emsp;(3) conduct public hearings, at appropriate times and in appropriate locations in the geographical area concerned, so as to allow all interested persons an opportunity to be heard in the development of fishery management plans and amendments to such plans, and with respect to the administration and implementation of the provisions of this chapter (and for purposes of this paragraph, the term “geographical area concerned” may include an area under the authority of another Council ifthe fish in the fishery concerned migrate into, or occur in, that area or if the matters being heard affect fishermen of that area; but not unless such other Council is first consulted regarding the conduct of such hearings within its area);
 
 &emsp;(4) submit to the Secretary such periodic reports as the Council deems appropriate, and any other relevant report which may be requested by the Secretary;
 
@@ -202,11 +202,11 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 > Subparagraphs (D) and (F) of paragraph (2) shall not apply to any meeting or portion thereof that is so closed.
 
-(B) If any meeting or portion is closed, the Council concerned shall notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including in that notification the time and place of themeeting. This subpararaph <sup>6</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
+(B) If any meeting or portion is closed, the Council concerned shall notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including in that notification the time and place of the meeting. This subpararaph <sup>6</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
 
 (4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee access and the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1881a(b) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
 
-(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
+(5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels establishedunder subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
 (6) At any time when a Council determines it appropriate to consider new information from a State or Federal agency or from a Council advisory body, the Council shall give comparable consideration to new information offered at that time by interested members of the public. Interested parties shall have a reasonable opportunity to respond to new data or information before the Council takes final action on conservation and management measures.
 
@@ -262,13 +262,13 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (D) Any affected individual who does not vote in a Council decision in accordance with this subsection may state for the record how he or she would have voted on such decision if he or she had voted.
 
-(E) If the Council makes a decision before the Secretary has reviewed a determination undersubparagraph (C), the eventual ruling may not be treated as cause for the invalidation or reconsideration by the Secretary of such decision.
+(E) If the Council makes a decision before the Secretary has reviewed a determination under subparagraph (C), the eventual ruling may not be treated as cause for the invalidation or reconsideration by the Secretary of such decision.
 
 (F) The Secretary, in consultation with the Councils and by not later than one year from October 11, 1996, shall promulgate regulations which prohibit an affected individual from voting in accordance with subparagraph (A), and which allow for the making of determinations under subparagraphs (B) and (C).
 
 (8) Section 208 of title 18 does not apply to an affected individual referred to in paragraph (1)(A)(ii) during any time in which that individual is in compliance with the regulations prescribed under paragraph (5).
 
-(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33.)
+(Pub. L. 94–265, title III, §302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, §5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, §234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, §104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, §403, Nov. 2, 1992, 106 Stat. 4909; Pub. L.104–297, title I, §107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §210\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33.)
 
 #### References in Text
 
@@ -324,7 +324,7 @@ Subsec. (i)(2). Pub. L. 104–297, §107(h)(2), substituted “established under
 
 Subsec. (i)(2)(C). Pub. L. 104–297, §107(h)(3), (4), struck out “Council's” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
 
-Subsec. (i)(2)(D). Pub. L. 104–297, §107(h)(5), inserted at end “All written information submitted to a Councilby an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
+Subsec. (i)(2)(D). Pub. L. 104–297, §107(h)(5), inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
 
 Subsec. (i)(2)(E). Pub. L. 104–297, §107(h)(6), added subpar. (E) and struck out former subpar. (E) which read as follows: “Minutes of each meeting shall be kept and shall contain a record of the persons present, an accurate description of matters discussed and conclusions reached, and copies of all statements filed.”
 
@@ -392,7 +392,7 @@ Subsec. (j)(4). Pub. L. 101–627, §120(c), substituted “Council employee” 
 
 Subsec. (j)(6). Pub. L. 101–627, §108(j), added par. (6).
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–659, §104(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The members of each Council required to be appointed by the Secretary mustbe individuals who are knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest of the fishery resources of the geographical area concerned.”
+1986—Subsec. (b)(2)(A). Pub. L. 99–659, §104(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest of the fishery resources of the geographical area concerned.”
 
 Subsec. (b)(2)(B). Pub. L. 99–659, §104(a)(1)(B), inserted provision that a Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals, substituted “knowledge and experience” for “knowledge or experience”, and inserted provision that an individual is not eligible for appointment by the Secretary until that individual complies with applicable financial disclosure requirements under subsec. (k) of this section.
 
@@ -446,7 +446,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors
 
-Section 104(e)(2) of Pub. L. 99–659 provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member ordirector must file a disclosure form under subsec. (k) within 45 days after that date.
+Section 104(e)(2) of Pub. L. 99–659 provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
 
 #### Directions Regarding Fishery Management Council Membership
 

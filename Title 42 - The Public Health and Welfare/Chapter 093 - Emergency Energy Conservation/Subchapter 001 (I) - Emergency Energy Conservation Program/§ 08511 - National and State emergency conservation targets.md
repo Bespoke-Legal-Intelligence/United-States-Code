@@ -32,7 +32,7 @@ The President shall notify the Governor of each State of each target established
 
 #### (c) Establishment of targets for Federal agencies
 
-In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
+In connection with the establishment of any national target under subsection (a) of this section the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D) of this section. Such plan shall contain measures which the President willimplement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
 
 &emsp;(1) by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and
 

@@ -4,7 +4,7 @@
 
 #### (1) Timing
 
-&emsp;Not later than February 1, 1999, the President shall submit to Congress a National Drug Control Strategy, which shall set forth a comprehensive plan, covering a period of not more than 5 years, for reducing drug abuse and the consequences of drug abuse in the UnitedStates, by limiting the availability of and reducing the demand for illegal drugs.
+&emsp;Not later than February 1, 1999, the President shall submit to Congress a National Drug Control Strategy, which shall set forth a comprehensive plan, covering a period of not more than 5 years, for reducing drug abuse and the consequences of drug abuse in the United States, by limiting the availability of and reducing the demand for illegal drugs.
 
 #### (2) Contents
 
@@ -152,7 +152,7 @@
 
 &emsp;The President may submit to Congress a revised National Drug Control Strategy that meets the requirements of this section—
 
-&emsp;&emsp;(A) at any time, upon a determination by the President, in consultation with the Director, that the National Drug ControlStrategy in effect is not sufficiently effective; and
+&emsp;&emsp;(A) at any time, upon a determination by the President, in consultation with the Director, that the National Drug Control Strategy in effect is not sufficiently effective; and
 
 &emsp;&emsp;(B) if a new President or Director takes office.
 

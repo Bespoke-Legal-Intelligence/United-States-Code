@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to carry out this subchapter $36,000,000 for fiscal year 1999 and such sums as may be necessary for each of fiscal years 2000 through 2004.
+There are authorized to be appropriated to carry out this subchapter $36,000,000 for fiscalyear 1999 and such sums as may be necessary for each of fiscal years 2000 through 2004.
 
 #### (b) Reservations of funds
 

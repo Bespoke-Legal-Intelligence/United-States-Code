@@ -21,6 +21,7 @@ This subchapter is referred to in sections 892, 892a of this title.
 - [&sect; 00883i - Authorization of appropriations](%C2%A7%2000883i%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00883j - Ocean satellite data](%C2%A7%2000883j%20-%20Ocean%20satellite%20data.md)
 - [&sect; 00883k - Acquisition of land for facilities](%C2%A7%2000883k%20-%20Acquisition%20of%20land%20for%20facilities.md)
+- [&sect; 00883l - Contracts for surveying and mapping services](%C2%A7%2000883l%20-%20Contracts%20for%20surveying%20and%20mapping%20services.md)
 - [&sect; 00884 - Power to use books, maps, etc., and to employ persons](%C2%A7%2000884%20-%20Power%20to%20use%20books%2C%20maps%2C%20etc.%2C%20and%20to%20employ%20persons.md)
 - [&sect; 00885 - Repealed. Aug. 6, 1947, ch. 504, &sect;10(6), 61 Stat. 788](%C2%A7%2000885%20-%20Repealed.%20Aug.%206%2C%201947%2C%20ch.%20504%2C%20%C2%A710%286%29%2C%2061%20Stat.%20788.md)
 - [&sect; 00886, 887 - Repealed. June 21, 1955, ch. 172, &sect;5(1), (2), 69 Stat. 170](%C2%A7%2000886%2C%20887%20-%20Repealed.%20June%2021%2C%201955%2C%20ch.%20172%2C%20%C2%A75%281%29%2C%20%282%29%2C%2069%20Stat.%20170.md)

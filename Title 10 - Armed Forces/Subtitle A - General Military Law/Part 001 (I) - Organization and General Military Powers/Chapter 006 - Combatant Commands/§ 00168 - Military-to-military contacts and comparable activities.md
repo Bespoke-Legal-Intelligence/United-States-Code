@@ -142,7 +142,7 @@ Report of Past Military-to-Military Exchanges and Contacts With the PRC.—Not l
 
 &emsp;“(1) A list of the general and flag grade officers of the People's Liberation Army who have visited United States military installations since January 1, 1993.
 
-&emsp;“(2) The itinerary of the visits referred to in paragraph (2)\[(1)\], including the installations visited, theduration of the visits, and the activities conducted during the visits.
+&emsp;“(2) The itinerary of the visits referred to in paragraph (2)\[(1)\], including the installations visited, the duration of the visits, and the activities conducted during the visits.
 
 &emsp;“(3) The involvement, if any, of the general and flag officers referred to in paragraph (1) in the Tiananmen Square massacre of June 1989.
 
@@ -164,7 +164,7 @@ Pub. L. 104–201, div. A, title X, §1082, Sept. 23, 1996, 110 Stat. 2672, prov
 
 “(a)
 
-Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defense may enter into international defense personnel exchange agreements.
+Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defensemay enter into international defense personnel exchange agreements.
 
 “(2) For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of—
 

@@ -22,11 +22,11 @@
 
 &emsp;&emsp;&emsp;(i) the amount of the family assistance grant payable to the territory without regard to section 609 of this title; and
 
-&emsp;&emsp;&emsp;(ii) the total amount expended by the territory during fiscal year 1995 pursuantto parts A and F of subchapter IV of this chapter (as so in effect), other than for child care.
+&emsp;&emsp;&emsp;(ii) the total amount expended by the territory during fiscal year 1995 pursuant to parts A and F of subchapter IV of this chapter (as so in effect), other than for child care.
 
 #### (2) Appropriation
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1997 through 2002, such sums as are necessary for grants under this paragraph.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1997 through 2003, such sums as are necessary for grants under this paragraph.
 
 #### (c) Definitions
 
@@ -76,9 +76,9 @@ A territory to which an amount is paid under subsection (b) of this section may 
 
 #### (f) Total amount certified under subchapter XIX
 
-Subject to subsection (g) of this section, the total amount certified by the Secretary under subchapter XIX of this chapter with respect to a fiscal year for payment to—
+Subject to subsection (g) of this section and section 1396u–5(e)(1)(B) of this title, the total amount certified by the Secretary under subchapter XIX of this chapter with respect to a fiscal year for payment to—
 
-&emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
+&emsp;(1) Puerto Rico shall not exceed (A) $116,500,000 for fiscal year 1994 and (B) for eachsucceeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase in the medical care component of the consumer price index for all urban consumers (as published by the Bureau of Labor Statistics) for the twelve-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
 &emsp;(2) the Virgin Islands shall not exceed (A) $3,837,500 for fiscal year 1994, and (B) for each succeeding fiscal year the amount provided in this paragraph for the preceding fiscal year increased by the percentage increase referred to in paragraph (1)(B), rounded to the nearest $10,000;
 
@@ -108,7 +108,7 @@ Subject to subsection (g) of this section, the total amount certified by the Sec
 
 &emsp;Notwithstanding subsection (f) of this section, with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX of this chapter for payment to—
 
-&emsp;&emsp;(A) Puerto Rico shall not exceed the sum of the amount provided in this subsection forthe preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
+&emsp;&emsp;(A) Puerto Rico shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
 &emsp;&emsp;(B) the Virgin Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
@@ -118,7 +118,7 @@ Subject to subsection (g) of this section, the total amount certified by the Sec
 
 &emsp;&emsp;(E) American Samoa shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000.
 
-(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619.)
+(Aug. 14, 1935, ch. 531, title XI, §1108, as added Aug. 28, 1950, ch. 809, title III, pt. 6, §361(g), 64 Stat. 558; amended Aug. 1, 1956, ch. 836, title III, §351(c), 70 Stat. 855; Pub. L. 85–840, title V, §§507, 508, Aug. 28, 1958, 72 Stat. 1051; Pub. L. 86–778, title VI, §602, Sept. 13, 1960, 74 Stat. 992; Pub. L. 87–31, §6(a)(1), (2), (b), May 8, 1961, 75 Stat. 78; Pub. L. 87–64, title III, §303(d), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §151, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title II, §208(a)(2), title IV, §408(a), July 30, 1965, 79 Stat. 355, 422; Pub. L. 90–248, title II, §248(a)(1), Jan. 2, 1968, 81 Stat. 918; Pub. L. 92–603, title II, §§271(a), (b), 272(b), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–647, §3(i), Jan. 4, 1975, 88 Stat. 2350; Pub. L. 95–600, title VIII, §802(b), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title II, §207(c), title III, §§305(a), (b), June 17, 1980, 94 Stat. 526, 529, 530; Pub. L. 97–35, title XXI, §§2162(b)(1), 2193(c)(1), title XXIII, §2353(f), Aug. 13, 1981, 95 Stat. 806, 827, 872; Pub. L. 97–248, title I, §§136(b), 160(a), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title III, §2365(a), July 18, 1984, 98 Stat. 1108; Pub. L. 100–203, title IV, §4111(a), Dec. 22, 1987, 101 Stat. 1330–148; Pub. L. 100–485, title II, §202(c)(2), (3), title VI, §§601(b), (c)(2), 602(a), Oct. 13, 1988, 102 Stat. 2378, 2407, 2408; Pub. L. 103–66, title XIII, §13641(a), Aug. 10, 1993, 107 Stat. 646; Pub. L. 104–193, title I, §103(b), Aug. 22, 1996, 110 Stat. 2160; Pub. L. 105–33, title IV, §4726, title V, §§5001(b), 5512, Aug. 5, 1997, 111 Stat. 519, 589, 619; Pub. L. 108–40, §3(b), June 30, 2003, 117 Stat. 836; Pub. L. 108–173, title I, §103(d)(2), Dec. 8, 2003, 117 Stat. 2159.)
 
 #### References in Text
 
@@ -129,6 +129,10 @@ Part F of subchapter IV of this chapter, referred to in subsec. (b)(1)(B)(ii), w
 Subsection (e) of this section, referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title V, §5512(c), Aug. 5, 1997, 111 Stat. 619.
 
 #### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–40 substituted “2003” for “2002”.
+
+Subsec. (f). Pub. L. 108–173 inserted “and section 1396u–5(e)(1)(B) of this title” after “Subject to subsection (g) of this section” in introductory provisions.
 
 1997—Subsec. (a). Pub. L. 105–33, §5512(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this chapter, the total amount certified by the Secretary of Health and Human Services under subchapters I, X, XIV, and XVI of this chapter, under parts A and E of subchapter IV of this chapter, and under subsection (b) of this section, for payment to any territory for a fiscal year shall not exceed the ceiling amount for the territory for the fiscal year.”
 
@@ -164,7 +168,7 @@ Subsec. (f). Pub. L. 104–193, §103(b)(2), redesignated subsec. (c) as (f).
 
 “(3) Guam shall not exceed (A) $2,320,000 for fiscal year 1988, (B) $2,410,000 for fiscal year 1989, and (C) $2,500,000 for fiscal year 1990 (and each succeeding fiscal year);
 
-“(4) the Northern Mariana Islands shall not exceed (A) $636,700 for fiscal year 1988, (B) $693,350 for fiscalyear 1989, and (C) $750,000 for fiscal year 1990 (and each succeeding fiscal year); and
+“(4) the Northern Mariana Islands shall not exceed (A) $636,700 for fiscal year 1988, (B) $693,350 for fiscal year 1989, and (C) $750,000 for fiscal year 1990 (and each succeeding fiscal year); and
 
 “(5) American Samoa shall not exceed (A) $1,330,000 for fiscal year 1988, (B) $1,390,000 for fiscal year 1989, and (C) $1,450,000 for fiscal year 1990 (and each succeeding fiscal year).”
 
@@ -243,6 +247,10 @@ Pub. L. 87–31 increased the grant to Puerto Rico for fiscal year ending June 3
 1958—Pub. L. 85–840, §§507, 508, amended section. Section 507(a) substituted “$8,500,000” for “$5,312,500” and “$300,000” for “$200,000”, and limited the total amount certified for payment to Guam with respect to any fiscal year to not more than $400,000. Section 507(b) amended catchline to include Guam. Section 508 inserted provisions requiring the Secretary, in lieu of the allotments specified in sections 702(a)(2), 712(a)(2) and 722(a) of this title, to allot such smaller amounts as he may deem appropriate to Guam, notwithstanding provisions of such sections and until such time as the Congress may by appropriation or other law otherwise provide.
 
 1956—Act Aug. 1, 1956, substituted “$5,312,500” for “$4,250,000”, and “$200,000” for “$160,000”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -336,7 +344,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 603, 1396a, 1396d of this title.
+This section is referred to in sections 603, 1396a, 1396d, 1396u–5 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ A State educational agency that consolidates administrative funds under this sec
 
 #### (d) Review
 
-To determine the effectiveness of State administration under this section, the Secretarymay periodically review the performance of State educational agencies in using consolidated administrative funds under this section and take such steps as the Secretary finds appropriate to ensure the effectiveness of that administration.
+To determine the effectiveness of State administration under this section, the Secretary may periodically review the performance of State educational agencies in using consolidated administrative funds under this section and take such steps as the Secretary finds appropriate to ensure the effectiveness of that administration.
 
 #### (e) Unused administrative funds
 

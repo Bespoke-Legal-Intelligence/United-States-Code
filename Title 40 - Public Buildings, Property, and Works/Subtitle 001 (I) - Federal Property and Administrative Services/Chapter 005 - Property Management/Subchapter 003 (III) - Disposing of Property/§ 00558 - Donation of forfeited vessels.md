@@ -20,7 +20,7 @@ Eligible Institution.—An eligible institution referred to in subsection (a) is
 
 (c)
 
-Terms and Conditions.—The donation of a vessel under this section shall be made on termsand conditions considered appropriate by the federal officer making the donation. All of the following terms and conditions are required:
+Terms and Conditions.—The donation of a vessel under this section shall be made on terms and conditions considered appropriate by the federal officer making the donation. All of the following terms and conditions are required:
 
 &emsp;(1)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Association shall be established without NAIC oversight and the provisions set forth in section 6754 of this title, subsections (a), (b), (c), and (e) of section 6758 of this title, and sections 6759(b) and 6760 of this title shall cease to be effective if, at the end of the 2-year period beginning on the date on which the provisions of thissubchapter take effect pursuant to section 6751 of this title—
+The Association shall be established without NAIC oversight and the provisions set forth in section 6754 of this title, subsections (a), (b), (c), and (e) of section 6758 of this title, and sections 6759(b) and 6760 of this title shall cease to be effective if, at the end of the 2-year period beginning on the date on which the provisions of this subchapter take effect pursuant to section 6751 of this title—
 
 &emsp;(1) at least a majority of the States representing at least 50 percent of the total United States commercial-lines insurance premiums have not satisfied the uniformity or reciprocity requirements of subsections (a), (b), and (c) of section 6751 of this title; and
 
@@ -30,7 +30,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (i) Removal
 
-&emsp;&emsp;&emsp;If the President determines that the Association is not acting in the interests of the public, the President may remove the entire existing Board for the remainder of the term to which the members of the Board were appointed and appoint, with the advice and consent of the Senate, new members to fill the vacancies on the Board for the remainder of such terms.
+&emsp;&emsp;&emsp;If the President determines that the Association is not acting in the interests ofthe public, the President may remove the entire existing Board for the remainder of the term to which the members of the Board were appointed and appoint, with the advice and consent of the Senate, new members to fill the vacancies on the Board for the remainder of such terms.
 
 #### (ii) Suspension of rules or actions
 

@@ -48,5 +48,5 @@ Another section 1131(b) of Pub. L. 105–34 amended sections 367, 721, and 1035 
 
 Amendment by Pub. L. 107–16 applicable to transfers after Dec. 31, 2009, see section 542(f)(2) of Pub. L. 107–16, set out as a note under section 121 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skippingtransfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

@@ -76,7 +76,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 Amendment by section 1902(a)(1) of Pub. L. 94–455 applicable to estates of decedents dying after Oct. 4, 1976, see section 1902(c)(1) of Pub. L. 94–455, set out as a note under section 2011 of this title.
 
-Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to estates of decedents dying afterDec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1970 Amendment
 

@@ -18,13 +18,13 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support; or
 
-&emsp;&emsp;&emsp;(iii) is incapable of self-support because of a mental or physical incapacity that occurs while a dependent of a member or former member under clause (i) or (ii) and is, or was at the time of the member's orformer member's death, in fact dependent on the member or former member for over one-half of the child's support;
+&emsp;&emsp;&emsp;(iii) is incapable of self-support because of a mental or physical incapacity that occurs while a dependent of a member or former member under clause (i) or (ii) and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support;
 
 &emsp;&emsp;(E) a parent or parent-in-law who is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support and residing in his household;
 
 &emsp;&emsp;(F) the unremarried former spouse of a member or former member who (i) on the date of the final decree of divorce, dissolution, or annulment, had been married to the member or former member for a period of at least 20 years during which period the member or former member performed at least 20 years of service which is creditable in determining that member's or former member's eligibility for retired or retainer pay, or equivalent pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
 
-&emsp;&emsp;(G) a person who (i) is the unremarried former spouse of a member or former member who performed at least 20 years of service which is creditable in determining the member or former member's eligibility for retired or retainer pay, or equivalent pay, and on the date of the final decree of divorce, dissolution, or annulment before April 1, 1985, had been married to the member or former member for a period of at least 20 years, at least 15 of which, but less than 20 of which, were during the period the member or former member performed service creditable in determining the member or former member's eligibility for retired or retainer pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
+&emsp;&emsp;(G) a person who (i) is the unremarried former spouse of a member or former member who performed at least 20 years of service which is creditable in determining the member or former member's eligibility for retired or retainer pay, or equivalent pay, and on the date of the final decree of divorce, dissolution, or annulment before April 1, 1985, had been married to the member or former member for a period of at least 20 years, at least 15 of which, but less than 20 of which, were during the period the member or former member performed servicecreditable in determining the member or former member's eligibility for retired or retainer pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
 
 &emsp;&emsp;(H) a person who would qualify as a dependent under clause (G) but for the fact that the date of the final decree of divorce, dissolution, or annulment of the person is on or after April 1, 1985, except that the term does not include the person after the end of the one-year period beginning on the date of that final decree; and
 
@@ -80,11 +80,7 @@ In this chapter:
 
 &emsp;&emsp;(B) members of the patient's family are unwilling to provide the care.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2,1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160.)
-
-#### Amendment of Paragraph (7)
-
-<i>Pub. L. 107–107, div. A, title VII, §708(a)(1), Dec. 28, 2001, 115 Stat. 1164, provided that during the one-year period following Dec. 28, 2001, par. (7) of this section shall be deemed to be amended by striking “the competitive selection of contractors to financially underwrite”.</i>
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160.)
 
 Historical and Revision Notes
 
@@ -232,5 +228,5 @@ Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1040, 1060a, 1062, 1074h, 1076a, 1076c, 1078a, 1079, 1086, 1086a, 1095d, 1097a, 1108, 1111, 1481, 1490, 2114, 2147 of this title; title 42 section 1320d.
+This section is referred to in sections 1040, 1060a, 1062, 1074h, 1076a, 1076b, 1076c, 1078a, 1079, 1086, 1086a, 1095d, 1097a, 1108, 1111, 1448, 1481, 1490, 1789, 2114, 2147 of this title; title 42 sections 1320d, 1395r.
 

@@ -56,7 +56,7 @@
 
 #### (2) Authorized activities
 
-&emsp;Each local educational agency, or consortium of such agencies, that receives a subgrant under this subpart may use such funds to carry out activities that comply with the principles of effectiveness described in subsection (a) of this section, such as the following:
+&emsp;Each local educational agency, or consortium of such agencies, that receives asubgrant under this subpart may use such funds to carry out activities that comply with the principles of effectiveness described in subsection (a) of this section, such as the following:
 
 &emsp;&emsp;(A) Age appropriate and developmentally based activities that—
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;(xv) Emergency intervention services following traumatic crisis events, such as a shooting, major accident, or a drug-related incident that have disrupted the learning environment.
 
-&emsp;&emsp;&emsp;(xvi) Establishing or implementing a system for transferring suspension and expulsion records, consistent with section 1232g of this title, by a local educational agency to any public or private elementary school or secondary school.
+&emsp;&emsp;&emsp;(xvi) Establishing or implementing a system for transferring suspension and expulsion records, consistent with section1232g of this title, by a local educational agency to any public or private elementary school or secondary school.
 
 &emsp;&emsp;&emsp;(xvii) Developing and implementing character education programs, as a component of drug and violence prevention programs, that take into account the views of parents of the students for whom the program is intended and such students, such as a program described in subpart 3 of part D of subchapter V of this chapter.
 

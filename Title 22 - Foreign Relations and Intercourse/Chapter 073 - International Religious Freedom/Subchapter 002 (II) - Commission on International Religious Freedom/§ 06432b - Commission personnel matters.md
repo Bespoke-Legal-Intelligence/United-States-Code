@@ -20,7 +20,7 @@ The Commission and the Executive Director shall hire Commission staff on the bas
 
 #### (2) Other Federal agencies
 
-&emsp;Upon the request of the Commission, the head of any Federal department or agencymay detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this subchapter. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
+&emsp;Upon the request of the Commission, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its functions under this subchapter. The detail of any such personnel shall be without interruption or loss of civil service or Foreign Service status or privilege.
 
 #### (e) Security clearances
 

@@ -46,7 +46,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(B) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
 
-&emsp;&emsp;(C) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
+&emsp;&emsp;(C) includes a strategy to coordinate the provision of such services with programs forHIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
 &emsp;&emsp;(D) describes the services and activities to be provided and an explanation of the manner in which the elements of the program to be implemented by the State with such assistance will maximize the quality of health and support services available to individuals with HIV disease throughout the State;
 
@@ -104,7 +104,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
-&emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the officialpoverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
+&emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
 &emsp;&emsp;(E) in the case of individuals with an income greater than 300 percent of the official poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 10 percent of the annual gross income of the individual involved.
 

@@ -114,7 +114,7 @@ Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provide
 
 #### Short Title of 1963 Amendment
 
-Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of thistitle\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
+Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of this title\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
 
 #### Short Title
 

@@ -54,7 +54,7 @@ A prior section 554, act June 25, 1948, ch. 646, 62 Stat. 913, related to the de
 
 A prior section 555, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 574 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 575 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactmentin section 575 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 

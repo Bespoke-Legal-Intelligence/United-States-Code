@@ -5,6 +5,7 @@
 | [111\.](%C2%A7%2000111%20-%20Executive%20department.md) | Executive department. |
 | [112\.](%C2%A7%2000112%20-%20Department%20of%20Defense%20seal.md) | Department of Defense: seal. |
 | [113\.](%C2%A7%2000113%20-%20Secretary%20of%20Defense.md) | Secretary of Defense. |
+| [113a.](%C2%A7%2000113a%20-%20Transmission%20of%20annual%20defense%20authorization%20request.md) | Transmission of annual defense authorization request. |
 | [114\.](%C2%A7%2000114%20-%20Annual%20authorization%20of%20appropriations.md) | Annual authorization of appropriations. |
 | \[114a. | Renumbered.\] |
 | [115\.](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md) | Personnel strengths: requirement for annual authorization. |
@@ -13,11 +14,14 @@
 | [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
 | [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md) | Readiness reporting system: establishment; reporting to congressional committees. |
 | [118\.](%C2%A7%2000118%20-%20Quadrennial%20defense%20review.md) | Quadrennial defense review. |
+| [118a.](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md) | Quadrennial quality of life review. |
 | [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §581(a)(2), title X, §1061(b), Dec. 2, 2002, 116 Stat. 2561, 2649, added items 113a and 118a.
 
 1999—Pub. L. 106–65, div. A, title IX, §901(a)(2), Oct. 5, 1999, 113 Stat. 717, added item 118.
 
@@ -49,6 +53,7 @@ This chapter is referred to in title 20 section 1087vv.
 - [&sect; 00111 - Executive department](%C2%A7%2000111%20-%20Executive%20department.md)
 - [&sect; 00112 - Department of Defense seal](%C2%A7%2000112%20-%20Department%20of%20Defense%20seal.md)
 - [&sect; 00113 - Secretary of Defense](%C2%A7%2000113%20-%20Secretary%20of%20Defense.md)
+- [&sect; 00113a - Transmission of annual defense authorization request](%C2%A7%2000113a%20-%20Transmission%20of%20annual%20defense%20authorization%20request.md)
 - [&sect; 00114 - Annual authorization of appropriations](%C2%A7%2000114%20-%20Annual%20authorization%20of%20appropriations.md)
 - [&sect; 00114a - Renumbered &sect;221](%C2%A7%2000114a%20-%20Renumbered%20%C2%A7221.md)
 - [&sect; 00115 - Personnel strengths requirement for annual authorization](%C2%A7%2000115%20-%20Personnel%20strengths%20requirement%20for%20annual%20authorization.md)
@@ -57,4 +62,5 @@ This chapter is referred to in title 20 section 1087vv.
 - [&sect; 00116 - Annual operations and maintenance report](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md)
 - [&sect; 00117 - Readiness reporting system establishment; reporting to congressional committees](%C2%A7%2000117%20-%20Readiness%20reporting%20system%20establishment%3B%20reporting%20to%20congressional%20committees.md)
 - [&sect; 00118 - Quadrennial defense review](%C2%A7%2000118%20-%20Quadrennial%20defense%20review.md)
+- [&sect; 00118a - Quadrennial quality of life review](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md)
 - [&sect; 00119 - Special access programs congressional oversight](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md)

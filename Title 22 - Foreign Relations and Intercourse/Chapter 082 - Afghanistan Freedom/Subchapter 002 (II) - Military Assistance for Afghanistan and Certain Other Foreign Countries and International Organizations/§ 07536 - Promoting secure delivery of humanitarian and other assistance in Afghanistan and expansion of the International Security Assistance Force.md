@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(B) On September 5, 2002, a car bomb exploded in Kabul killing 32 and injuring 150 and on the same day a member of Kandahar Governor Sherzai's security team attempted to assassinate President Karzai.
 
-&emsp;(6) The violence and lawlessness may jeopardize the “Loya Jirga” process, undermine efforts to build a strong central government, severely impede reconstruction and the delivery of humanitarian assistance, and increase the likelihood that parts of Afghanistan will once again become safe havens for al-Qaida, Taliban forces, and drug traffickers.
+&emsp;(6) The violence and lawlessness may jeopardize the “Loya Jirga” process, undermine efforts to build a strong central government, severely impede reconstruction and the delivery of humanitarian assistance, and increasethe likelihood that parts of Afghanistan will once again become safe havens for al-Qaida, Taliban forces, and drug traffickers.
 
 &emsp;(7) The lack of security and lawlessness may also perpetuate the need for United States Armed Forces in Afghanistan and threaten the ability of the United States to meet its military objectives.
 
@@ -85,4 +85,8 @@ It should be the policy of the United States to support measures to help meet th
 Public Law 107–206, referred to in subsec. (c)(1)(A), is Pub. L. 107–206, Aug. 2, 2002, 116 Stat. 820, known as the 2002 Supplemental Appropriations Act for Further Recovery From and Response To Terrorist Attacks on the United States. For complete classification of this Act to the Code, see Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under subsec. (c) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 

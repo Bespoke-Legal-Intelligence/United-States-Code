@@ -7,7 +7,7 @@
 | [1101\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001101%20-%20Definitions.md) | Definitions. |
 | [1102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001102%20-%20Diplomatic%20and%20semidiplomatic%20immunities.md) | Diplomatic and semidiplomatic immunities. |
 | [1103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001103%20-%20Powers%20and%20duties%20of%20the%20Secretary%2C%20the%20Under%20Secretary%2C%20and%20the%20Attorney%20General.md) | Powers and duties of the Secretary, the Under Secretary, and the Attorney General. |
-| (a) | Administration and enforcement. |
+| (a) | Secretary of Homeland Security. |
 | (b) | Land acquisition authority. |
 | (c) | Commissioner; appointment. |
 | (d) | Statistical information system. |
@@ -128,7 +128,8 @@
 | (p) | Computation of prevailing wage level. |
 | (q) | Academic honoraria. |
 | (r) | Exception for certain alien nurses. |
-| (p) | Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge. |
+| (s) | Consideration of benefits received as battered alien in determination of inadmissibility as likely to become public charge. |
+| (t) | Nonimmigrant professionals; labor attestations. |
 | 1182a to 1182c. Repealed. |  |
 | [1182d.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182d%20-%20Denial%20of%20visas%20to%20confiscators%20of%20American%20property.md) | Denial of visas to confiscators of American property. |
 | (a) | Denial of visas. |
@@ -166,11 +167,11 @@
 | (k) | Numerical limitations; period of admission; conditions for admission and stay; annual report. |
 | (<i>l</i>) | Restrictions on waiver. |
 | (m) | Nonimmigrant elementary and secondary school students. |
-| (m) | Increased portability of H–1B status. |
-| (n) | Nonimmigrants guilty of trafficking in persons. |
-| (<i>o</i>) | Requirements applicable to section 1101(a)(15)(U) visas. |
-| (<i>o</i>) | Employment of nonimmigrants described in section 1101(a)(15)(V). |
-| (p) | Visas of nonimmigrants described in section 1101(a)(15)(K)(ii). |
+| (n) | Increased portability of H–1B status. |
+| (<i>o</i>) | Nonimmigrants guilty of trafficking in persons. |
+| (p) | Requirements applicable to section 1101(a)(15)(U) visas. |
+| (q) | Employment of nonimmigrants described in section 1101(a)(15)(V). |
+| (r) | Visas of nonimmigrants described in section 1101(a)(15)(K)(ii). |
 | [1184a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001184a%20-%20Philippine%20Traders%20as%20nonimmigrants.md) | Philippine Traders as nonimmigrants. |
 | [1185\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001185%20-%20Travel%20control%20of%20citizens%20and%20aliens.md) | Travel control of citizens and aliens. |
 | (a) | Restrictions and prohibitions. |
@@ -392,7 +393,7 @@
 | (j) | Adjustment to permanent resident status. |
 | (k) | Inapplicability of certain provisions for certain employment-based immigrants. |
 | (<i>l</i>) | Adjustment of status for victims of trafficking. |
-| (<i>l</i>) | Adjustment of status for victims of crimes against women. |
+| (m) | Adjustment of status for victims of crimes against women. |
 | [1255a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20005%20%28V%29%20-%20Adjustment%20and%20Change%20of%20Status/%C2%A7%2001255a%20-%20Adjustment%20of%20status%20of%20certain%20entrants%20before%20January%201%2C%201982%2C%20to%20that%20of%20person%20admitted%20for%20lawful%20residence.md) | Adjustment of status of certain entrants before January 1, 1982, to that of person admitted for lawful residence. |
 | (a) | Temporary resident status. |
 | (b) | Subsequent adjustment to permanent residence and nature of temporary resident status. |
@@ -750,6 +751,15 @@
 | (c) | Periods when not in service. |
 | (d) | Residence requirements. |
 | (e) | Moral character. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(f)
+
+Revocation.
+
+|  |  |
+| :--- | ---: |
 | [1440\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001440%20-%20Naturalization%20through%20active-duty%20service%20in%20the%20Armed%20Forces%20during%20World%20War%20I%2C%20World%20War%20II%2C%20Korean%20hostilities%2C%20Vietnam%20hostilities%E2%80%A6.md) | Naturalization through active-duty service in the Armed Forces during World War I, World War II, Korean hostilities, Vietnam hostilities, or other periods of military hostilities. |
 | (a) | Requirements. |
 | (b) | Exceptions. |
@@ -759,7 +769,6 @@
 | (b) | Noncitizens eligible for posthumous citizenship. |
 | (c) | Requests for posthumous citizenship. |
 | (d) | Documentation of posthumous citizenship. |
-| (e) | No benefits to survivors. |
 | 1440a to 1440d. Omitted. |  |
 | [1440e.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001440e%20-%20Exemption%20from%20naturalization%20fees%20for%20aliens%20naturalized%20through%20service%20during%20Vietnam%20hostilities%20or%20other%20subsequent%20period%20of%E2%80%A6.md) | Exemption from naturalization fees for aliens naturalized through service during Vietnam hostilities or other subsequent period of military hostilities; report by clerks of courts to Attorney General. |
 | [1441\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001441%20-%20Constructive%20residence%20through%20service%20on%20certain%20United%20States%20vessels.md) | Constructive residence through service on certain United States vessels. |
@@ -778,6 +787,7 @@
 | (f) | Copies of records. |
 | (g) | Furnished quarters for photographic studios. |
 | (h) | Public education regarding naturalization benefits. |
+| [1443a.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001443a%20-%20Naturalization%20proceedings%20overseas%20for%20members%20of%20the%20Armed%20Forces.md) | Naturalization proceedings overseas for members of the Armed Forces. |
 | [1444\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001444%20-%20Photographs%3B%20number.md) | Photographs; number. |
 | [1445\.](Subchapter%20003%20%28III%29%20-%20Nationality%20and%20Naturalization/Part%20002%20%28II%29%20-%20Nationality%20Through%20Naturalization/%C2%A7%2001445%20-%20Application%20for%20naturalization%3B%20declaration%20of%20intention.md) | Application for naturalization; declaration of intention. |
 | (a) | Evidence and form. |
@@ -923,7 +933,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643, 1721, 1772, 1775 of this title; title 6 sections 101, 236, 255, 278, 279, 297; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 sections 278g, 7411; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705, 14941; title 46 section 8103; title 50 sections 47c, 47f.
+This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643, 1721, 1772, 1775 of this title; title 6 sections 101, 236, 255, 278, 279, 297; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 sections 278g, 7411; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2730, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705, 14941; title 46 sections 8103, 70105; title 48 section 1921c; title 50 sections 47c, 47f.
 
 
 ---

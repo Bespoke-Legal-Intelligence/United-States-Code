@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§661–667, 671 (R.S. §§882–886, 889; July 31, 1894, ch. 174, §§17, 22, 28 Stat. 210;Mar. 2, 1895, ch. 177, §10, 28 Stat. 809; June 10, 1921, ch. 18, §§301, 302, 304, 310, 42 Stat. 23–25; May 10, 1934, ch. 277, §512, 48 Stat. 758; June 19, 1934, ch. 653, §6(a), 48 Stat. 1109).
+Based on title 28, U.S.C., 1940 ed., §§661–667, 671 (R.S. §§882–886, 889; July 31, 1894, ch. 174, §§17, 22, 28 Stat. 210; Mar. 2, 1895, ch. 177, §10, 28 Stat. 809; June 10, 1921, ch. 18, §§301, 302, 304, 310, 42 Stat. 23–25; May 10, 1934, ch. 277, §512, 48 Stat. 758; June 19, 1934, ch. 653, §6(a), 48 Stat. 1109).
 
 The consolidation of sections 661–667 and 671 of title 28, U.S.C., 1940 ed., permitted omission of obsolete, unnecessary and repetitive provisions in such sections. For example, the provision in section 665 of title 28, U.S.C., 1940 ed., authorizing the court to require production of documents on a plea of non est factum, was omitted. Such plea is obsolete in Federal practice.
 

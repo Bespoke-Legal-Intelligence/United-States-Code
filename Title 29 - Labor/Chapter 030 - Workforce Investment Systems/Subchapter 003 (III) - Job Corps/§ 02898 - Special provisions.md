@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, if the Administrator of General Serv
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, Public Buildings, Property, and Works, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 torevised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, Public Buildings, Property, and Works, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

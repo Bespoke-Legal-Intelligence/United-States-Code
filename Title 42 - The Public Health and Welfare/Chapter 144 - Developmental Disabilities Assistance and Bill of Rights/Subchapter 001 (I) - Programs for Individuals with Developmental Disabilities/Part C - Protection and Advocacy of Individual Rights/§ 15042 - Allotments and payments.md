@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the total amount appropriated under section 15045 of this title for a fiscal year is not less than $20,000,000, the allotment under paragraph (1) for such fiscal year—
 
-&emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands may not be less than $107,000; and
+&emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, and theCommonwealth of the Northern Mariana Islands may not be less than $107,000; and
 
 &emsp;&emsp;&emsp;(ii) to any State not described in clause (i) may not be less than $200,000; or
 
@@ -24,7 +24,7 @@
 
 #### (3) Reduction of allotment
 
-&emsp;Notwithstanding paragraphs (1) and (2), if the aggregate of the amounts to be allotted tothe States pursuant to such paragraphs for any fiscal year exceeds the total amount appropriated for such allotments under section 15045 of this title for such fiscal year, the amount to be allotted to each State for such fiscal year shall be proportionately reduced.
+&emsp;Notwithstanding paragraphs (1) and (2), if the aggregate of the amounts to be allotted to the States pursuant to such paragraphs for any fiscal year exceeds the total amount appropriated for such allotments under section 15045 of this title for such fiscal year, the amount to be allotted to each State for such fiscal year shall be proportionately reduced.
 
 #### (4) Increase in allotments
 

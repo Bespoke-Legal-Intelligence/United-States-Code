@@ -34,7 +34,7 @@ Amount.—(1) With respect to the Department of Defense, the requirements of sub
 
 Types of Assistance.—(1) To attain the goal specified in subsection (a)(1), the head of an agency shall provide technical assistance to the entities referred to in that subsection and, in the case of historically Black colleges and universities and minority institutions, shall also provide infrastructure assistance.
 
-(2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firmsand institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
+(2) Technical assistance provided under this section shall include information about the program, advice about agency procurement procedures, instruction in preparation of proposals, and other such assistance as the head of the agency considers appropriate. If the resources of the agency are inadequate to provide such assistance, the head of the agency may enter into contracts with minority private sector entities with experience and expertise in the design, development, and delivery of technical assistance services to eligible individuals, business firms and institutions, acquisition agencies, and prime contractors. Agency contracts with such entities shall be awarded annually, based upon, among other things, the number of minority small business concerns, historically Black colleges and universities, and minority institutions that each such entity brings into the program.
 
 (3) Infrastructure assistance provided by the Department of Defense under this section to historically Black colleges and universities and to minority institutions may include programs to do the following:
 
@@ -112,7 +112,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;&emsp;(F) Implementation of this section in a manner which will not alter the procurement process under the program established under section 8(a) of the Small Business Act (15 U.S.C. 637(a)).
 
-&emsp;&emsp;(G) A requirement that one factor used in evaluating the performance of a contracting officer be the ability of the officer to increase contract awards to entities described in subsection (a)(1).
+&emsp;&emsp;(G) A requirement that one factor used in evaluating the performance of a contractingofficer be the ability of the officer to increase contract awards to entities described in subsection (a)(1).
 
 &emsp;&emsp;(H) Increased technical assistance to entities described in subsection (a)(1).
 
@@ -148,31 +148,21 @@ Annual Report.—(1) Not later than December 15 of each year, the head of the ag
 
 &emsp;(B) A plan to achieve the goal, if necessary.
 
-(3) The report required under paragraph (1) shall also include the following:
-
-&emsp;(A) The aggregate differential between the fair market price of all contracts awarded pursuant to subsection (e)(3) and the estimatedfair market price of all such contracts had such contracts been entered into using full and open competitive procedures.
-
-&emsp;(B) An analysis of the impact that subsection (a) shall have on the ability of small business concerns not owned and controlled by socially and economically disadvantaged individuals to compete for contracts with the agency.
-
-&emsp;(C) A description of the percentage of contracts (actions), the total dollar amount (size of action), and the number of different entities relative to the attainment of the goal of subsection (a), separately for Black Americans, Native Americans, Hispanic Americans, Asian Pacific Americans, and other minorities.
-
-&emsp;(D) A detailed description of the infrastructure assistance provided under subsection (c) during the preceding fiscal year and of the plans for providing such assistance during the fiscal year in which the report is submitted.
-
 (j)
 
 Definitions.—In this section:
 
 &emsp;(1) The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
 
-&emsp;(2) The term “head of an agency” means the Secretary of Defense, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration.
+&emsp;(2) The term “head of an agency” means the Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
 
 (k)
 
-Effective Date.—(1) This section applies in the Department of Defense to each of fiscal years 1987 through 2003.
+Effective Date.—(1) This section applies in the Department of Defense to each of fiscal years 1987 through 2006.
 
-(2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2003.
+(2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2006.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### References in Text
 
@@ -189,6 +179,12 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
+
+2003—Subsec. (i)(3). Pub. L. 108–136 struck out par. (3) which listed certain items to be included in the report required under par. (1).
+
+2002—Subsec. (j)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (k). Pub. L. 107–314 substituted “2006” for “2003” in pars. (1) and (2).
 
 2001—Subsec. (a)(1)(C). Pub. L. 107–107 substituted “section 365(3)” for “section 1046(3)” and “20 U.S.C. 1067k” for “20 U.S.C. 1135d–5(3)” and struck out before period at end “, which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1)))”.
 
@@ -252,6 +248,10 @@ Pub. L. 102–484, §801(e)(1), redesignated subsec. (h) as (i).
 
 Subsec. (j). Pub. L. 102–484, §802(1), redesignated subsec. (i) as (j).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135 set out as a note under section 631 of Title 15, Commerce and Trade.
@@ -281,6 +281,10 @@ Section 811(d) of Pub. L. 103–160 provided that:
 “(2) Not later than 15 days after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall publish such proposed amendments in accordance with section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b). The Secretary shall provide a period of at least 60 days for public comment on the proposed amendments.
 
 “(3) The Secretary shall publish the final regulations not later than 120 days after the date of the enactment of this Act.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

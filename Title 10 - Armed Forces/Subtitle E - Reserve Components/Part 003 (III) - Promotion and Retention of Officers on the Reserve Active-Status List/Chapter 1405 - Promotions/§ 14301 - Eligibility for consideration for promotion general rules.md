@@ -20,7 +20,7 @@ Previously Selected Officers Not Eligible To Be Considered.—A promotion board 
 
 &emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case of such a report that has not yet been approved by the President.
 
-&emsp;(3) An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as the case may be, if that nomination is pending before the Senate.
+&emsp;(3) An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as thecase may be, if that nomination is pending before the Senate.
 
 &emsp;(4) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
@@ -38,11 +38,21 @@ Certain Reserve Officers of the Air Force.—A reserve officer of the Air Force 
 
 Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
 
-(g) A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
+(g)
 
-&emsp;(1) has been in an inactive status for less than one year as of the date of the convening of the promotion board; and
+Brigadier Generals.—(1) An officer who is a reserve component brigadier general of the Army or the Air Force who is not eligible for consideration for promotion under subsection (a) because the officer is not on the reserve active status list (as required by paragraph (1) of that subsection for such eligibility) is nevertheless eligible for consideration for promotion to the grade of major general by a promotion board convened under section 14101(a) of this title if—
 
-&emsp;(2) had continuously served for at least one year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.
+&emsp;(A) as of the date of the convening of the promotion board, the officer has been in an inactive status for less than one year; and
+
+&emsp;(B) immediately before the date of the officer's most recent transfer to an inactive status, the officer had continuously served on the reserve active status list or the active-duty list (or a combination of the reserve active status list and the active-duty list) for at least one year.
+
+(2) An officer who is a reserve component brigadier general of the Army or the Air Force who is on the reserve active status list but who is not eligible for consideration for promotion under subsection (a) because the officer's service does not meet the one-year-of-continuous-service requirement under paragraph (2) of that subsection is nevertheless eligible for consideration for promotion to the grade of major general by a promotion board convened under section 14101(a) of this title if—
+
+&emsp;(A) the officer was transferred from an inactive status to the reserve active status list during the one-year period preceding the date of the convening of the promotion board;
+
+&emsp;(B) immediately before the date of the officer's most recent transfer to an active status, the officer had been in an inactive status for less than one year; and
+
+&emsp;(C) immediately before the date of the officer's most recent transfer to an inactive status, the officer had continuously served for at least one year on the reserve active status list or the active-duty list (or a combination of the reserve active status list and the active-duty list).
 
 (h)
 
@@ -52,9 +62,15 @@ Officers on Educational Delay.—An officer on the reserve active-status list is
 
 &emsp;(2) is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, §521, Dec. 2, 2002, 116 Stat. 2540.)
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: “A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
+
+&emsp;“(1) has been in an inactive status for less than one year as of the date of the convening of the promotion board; and
+
+&emsp;“(2) had continuously served for at least one year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.”
 
 2001—Subsec. (c)(5). Pub. L. 107–107 added par. (5).
 

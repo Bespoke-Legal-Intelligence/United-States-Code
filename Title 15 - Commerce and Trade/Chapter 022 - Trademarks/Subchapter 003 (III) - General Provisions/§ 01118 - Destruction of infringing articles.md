@@ -10,7 +10,7 @@ Acts Feb. 20, 1905, ch. 592, §20, 33 Stat. 729; Mar. 3, 1911, ch. 231, §291, 3
 
 #### Amendments
 
-1999—Pub. L. 106–43, in first sentence, substituted “a violation under section 1125(a) of this title, or a willfulviolation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” and inserted “or a willful violation under section 1125(c) of this title” before “, the word,”.
+1999—Pub. L. 106–43, in first sentence, substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” and inserted “or a willful violation under section 1125(c) of this title” before “, the word,”.
 
 1988—Pub. L. 100–667 inserted in first sentence “, or a violation under section 1125(a) of this title,” after “Office” and “or, in the case of a violation of section 1125(a) of this title, the word, term, name, symbol, device, combination thereof, designation, description, or representation that is the subject of the violation,” after “registered mark”.
 

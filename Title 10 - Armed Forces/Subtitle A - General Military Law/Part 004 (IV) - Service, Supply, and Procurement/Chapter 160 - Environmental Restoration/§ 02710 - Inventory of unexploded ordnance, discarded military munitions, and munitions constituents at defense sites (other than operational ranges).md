@@ -62,37 +62,27 @@ Definitions.—In this section:
 
 &emsp;(1) The term “defense site” applies to locations that are or were owned by, leased to, or otherwise possessed or used by the Department of Defense. The term does not include any operational range, operating storage or manufacturing facility, or facility that is used for or was permitted for the treatment or disposal of military munitions.
 
-&emsp;(2) The term “discarded military munitions” means military munitions that have been abandoned without proper disposal or removed from storage in a military magazine or otherstorage area for the purpose of disposal. The term does not include unexploded ordnance, military munitions that are being held for future use or planned disposal, or military munitions that have been properly disposed of, consistent with applicable environmental laws and regulations.
+&emsp;(2) The term “discarded military munitions” means military munitions that have been abandoned without proper disposal or removed from storage in a military magazine or other storage area for the purpose of disposal. The term does not include unexploded ordnance, military munitions that are being held for future use or planned disposal, or military munitions that have been properly disposed of, consistent with applicable environmental laws and regulations.
 
-&emsp;(3)(A) The term “military munitions” means all ammunition products and components produced for or used by the armed forces for national defense and security, including ammunition products or components under the control of the Department of Defense, the Coast Guard, the Department of Energy, and the National Guard. The term includes confined gaseous, liquid, and solid propellants, explosives, pyrotechnics, chemical and riot control agents, smokes, and incendiaries, including bulk explosives and chemical warfare agents, chemical munitions, rockets, guided and ballistic missiles, bombs, warheads, mortar rounds, artillery ammunition, small arms ammunition, grenades, mines, torpedoes, depth charges, cluster munitions and dispensers, demolition charges, and devices and components thereof.
+&emsp;(3) The term “munitions constituents” means any materials originating from unexploded ordnance, discarded military munitions, or other military munitions, including explosive and nonexplosive materials, and emission, degradation, or breakdown elements of such ordnance or munitions.
 
-&emsp;(B) The term does not include wholly inert items, improvised explosive devices, and nuclear weapons, nuclear devices, and nuclear components, except that the term does include nonnuclear components of nuclear devices that are managed under the nuclear weapons program of the Department of Energy after all required sanitization operations under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) have been completed.
+&emsp;(4) The term “possessions” includes Johnston Atoll, Kingman Reef, Midway Island, Nassau Island, Palmyra Island, and Wake Island.
 
-&emsp;(4) The term “munitions constituents” means any materials originating from unexploded ordnance, discarded military munitions, or other military munitions, including explosive and nonexplosive materials, and emission, degradation, or breakdown elements of such ordnance or munitions.
+&emsp;(5) The term “Secretary” means the Secretary of Defense.
 
-&emsp;(5) The term “operational range” means a military range that is used for range activities, or a military range that is not currently being used, but that is still considered by the Secretary to be a range area, is under the jurisdiction, custody, or control of the Department of Defense, and has not been put to a new use that is incompatible with range activities.
+&emsp;(6) The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions.
 
-&emsp;(6) The term “possessions” includes Johnston Atoll, Kingman Reef, Midway Island, Nassau Island, Palmyra Island, and Wake Island.
+&emsp;(7) The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
 
-&emsp;(7) The term “Secretary” means the Secretary of Defense.
+(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048; amended Pub. L. 108–136, div. A, title X, §1042(b), Nov. 24, 2003, 117 Stat. 1610.)
 
-&emsp;(8) The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions.
+#### Amendments
 
-&emsp;(9) The term “unexploded ordnance” means military munitions that—
+2003—Subsec. (e). Pub. L. 108–136 redesignated pars. (4), (6), (7), (8), and (10) as (3) to (7), respectively, and struck out former pars. (3), (5), and (9) which defined terms “military munitions”, “operational range”, and “unexploded ordnance”, respectively.
 
-&emsp;&emsp;(A) have been primed, fused, armed, or otherwise prepared for action;
+#### Transfer of Functions
 
-&emsp;&emsp;(B) have been fired, dropped, launched, projected, or placed in such a manner as to constitute a hazard to operations, installations, personnel, or material; and
-
-&emsp;&emsp;(C) remain unexploded either by malfunction, design, or any other cause.
-
-&emsp;(10) The term “United States”, in a geographic sense, means the States, territories, and possessions and associated navigable waters, contiguous zones, and ocean waters of which the natural resources are under the exclusive management authority of the United States.
-
-(Added Pub. L. 107–107, div. A, title III, §311(a)(1), Dec. 28, 2001, 115 Stat. 1048.)
-
-#### References in Text
-
-The Atomic Energy Act of 1954, referred to in subsec. (e)(3)(B), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Initial Inventory
 
@@ -104,5 +94,5 @@ Pub. L. 107–107, div. A, title III, §311(b), Dec. 28, 2001, 115 Stat. 1051, p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2703 of this title.
+This section is referred to in sections 2701, 2703 of this title.
 

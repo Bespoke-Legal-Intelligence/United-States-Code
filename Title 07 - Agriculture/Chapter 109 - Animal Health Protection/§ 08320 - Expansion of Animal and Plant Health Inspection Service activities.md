@@ -12,7 +12,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;(4) develop new and improve existing strategies and technologies for dealing with intentional outbreaks of plant and animal disease arising from acts of terrorism or from unintentional introduction, including—
 
-&emsp;&emsp;(A) establishing cooperative agreements among Veterinary Services of the Animal and Plant Health Inspection Service, Stateanimal health commissions and regulatory agencies for livestock and poultry health, and private veterinary practitioners to enhance the preparedness and ability of Veterinary Services and the commissions and agencies to respond to outbreaks of such animal diseases; and
+&emsp;&emsp;(A) establishing cooperative agreements among Veterinary Services of the Animal and Plant Health Inspection Service, State animal health commissions and regulatory agencies for livestock and poultry health, and private veterinary practitioners to enhance the preparedness and ability of Veterinary Services and the commissions and agencies to respond to outbreaks of such animal diseases; and
 
 &emsp;&emsp;(B) strengthening planning and coordination with State and local agencies, including—
 
@@ -34,5 +34,5 @@ There is authorized to be appropriated to carry out this section, $30,000,000 fo
 
 #### Codification
 
-Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Animal Health Protection Act which comprises this chapter.
+Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and ResponseAct of 2002, and not as part of the Animal Health Protection Act which comprises this chapter.
 

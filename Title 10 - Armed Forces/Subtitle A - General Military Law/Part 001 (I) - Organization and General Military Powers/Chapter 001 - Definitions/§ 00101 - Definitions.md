@@ -34,7 +34,7 @@ In General.—The following definitions apply in this title:
 
 &emsp;&emsp;(C) the Secretary of the Air Force, with respect to matters concerning the Air Force; and
 
-&emsp;&emsp;(D) the Secretary of Transportation, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
+&emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy.
 
 &emsp;(10) The term “service acquisition executive” means the civilian official within a military department who is designated as the service acquisition executive for purposes of regulations and procedures providing for a service acquisition executive for that military department.
 
@@ -59,6 +59,20 @@ In General.—The following definitions apply in this title:
 &emsp;(14) The term “supplies” includes material, equipment, and stores of all kinds.
 
 &emsp;(15) The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
+
+&emsp;(16) The term “congressional defense committees” means—
+
+&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+
+&emsp;(17) The term “base closure law” means the following:
+
+&emsp;&emsp;(A) Section 2687 of this title.
+
+&emsp;&emsp;(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;&emsp;(C) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
 (b)
 
@@ -100,7 +114,7 @@ Reserve Components.—The following definitions relating to the reserve componen
 
 &emsp;(1) The term “National Guard” means the Army National Guard and the Air National Guard.
 
-&emsp;(2) The term “Army National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
+&emsp;(2) The term “Army National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, andthe District of Columbia, active and inactive, that—
 
 &emsp;&emsp;(A) is a land force;
 
@@ -166,6 +180,66 @@ Duty Status.—The following definitions relating to duty status apply in this t
 
 (e)
 
+Facilities and Operations.—The following definitions relating to facilities and operations apply in this title:
+
+&emsp;(1)
+
+Range.—The term “range”, when used in a geographic sense, means a designated land or water area that is set aside, managed, and used for range activities of the Department of Defense. Such term includes the following:
+
+&emsp;&emsp;(A) Firing lines and positions, maneuver areas, firing lanes, test pads, detonation pads, impact areas, electronic scoring sites, buffer zones with restricted access, and exclusionary areas.
+
+&emsp;&emsp;(B) Airspace areas designated for military use in accordance with regulations and procedures prescribed by the Administrator of the Federal Aviation Administration.
+
+&emsp;(2)
+
+Range activities.—The term “range activities” means—
+
+&emsp;&emsp;(A) research, development, testing, and evaluation of military munitions, other ordnance, and weapons systems; and
+
+&emsp;&emsp;(B) the training of members of the armed forces in the use and handling of military munitions, other ordnance, and weapons systems.
+
+&emsp;(3)
+
+Operational range.—The term “operational range” means a range that is under the jurisdiction, custody, or control of the Secretary of Defense and—
+
+&emsp;&emsp;(A) that is used for range activities, or
+
+&emsp;&emsp;(B) although not currently being used for range activities, that is still considered by the Secretary to be a range and has not been put to a new use that is incompatible with range activities.
+
+&emsp;(4)
+
+Military munitions.—(A) The term “military munitions” means all ammunition products and components produced for or used by the armed forces for national defense and security, including ammunition products or components under the control of the Department of Defense, the Coast Guard, the Department of Energy, and the National Guard.
+
+&emsp;(B) Such term includes the following:
+
+&emsp;&emsp;(i) Confined gaseous, liquid, and solid propellants.
+
+&emsp;&emsp;(ii) Explosives, pyrotechnics, chemical and riot control agents, smokes, and incendiaries, including bulk explosives, and chemical warfare agents.
+
+&emsp;&emsp;(iii) Chemical munitions, rockets, guided and ballistic missiles, bombs, warheads, mortar rounds, artillery ammunition, small arms ammunition, grenades, mines, torpedoes, depth charges, cluster munitions and dispensers, and demolition charges.
+
+&emsp;&emsp;(iv) Devices and components of any item specified in clauses (i) through (iii).
+
+&emsp;(C) Such term does not include the following:
+
+&emsp;&emsp;(i) Wholly inert items.
+
+&emsp;&emsp;(ii) Improvised explosive devices.
+
+&emsp;&emsp;(iii) Nuclear weapons, nuclear devices, and nuclear components, other than nonnuclear components of nuclear devices that are managed under the nuclear weapons program of the Department of Energy after all required sanitization operations under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) have been completed.
+
+&emsp;(5)
+
+Unexploded ordnance.—The term “unexploded ordnance” means military munitions that—
+
+&emsp;&emsp;(A) have been primed, fused, armed, or otherwise prepared for action;
+
+&emsp;&emsp;(B) have been fired, dropped, launched, projected, or placed in such a manner as to constitute a hazard to operations, installations, personnel, or material; and
+
+&emsp;&emsp;(C) remain unexploded, whether by malfunction, design, or any other cause.
+
+(f)
+
 Rules of Construction.—In this title—
 
 &emsp;(1) “shall” is used in an imperative sense;
@@ -178,13 +252,13 @@ Rules of Construction.—In this title—
 
 &emsp;(5) “spouse” means husband or wife, as the case may be.
 
-(f)
+(g)
 
 Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612.)
 
 Historical and Revision Notes<br>1956
 
@@ -440,13 +514,29 @@ Sept. 3, 1954, ch. 1257, §102(6), 68 Stat. 1150.
 
 The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
-\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his currentseries of appointments and excludes any appointment made before a lapse in service.
+\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
 
 #### References in Text
 
 Section 125(d) of this title, referred to in subsec. (a)(12)(A), was repealed by Pub. L. 99–433, title III, §301(b)(1), Oct. 1, 1986, 100 Stat. 1022.
 
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Tables.
+
+The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
+
+The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+
+#### Codification
+
+Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of this title by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
+
 #### Amendments
+
+2003—Subsec. (a)(9)(D). Pub. L. 108–136, §1045(a)(2), substituted “Homeland Security” for “Transportation”.
+
+Subsec. (a)(16), (17). Pub. L. 108–136, §1043(a), added pars. (16) and (17).
+
+Subsecs.(e) to (g). Pub. L. 108–136, §1042(a), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1996—Subsec. (d)(4). Pub. L. 104–201 substituted “a member of a reserve component” for “a reserve commissioned officer, other than a commissioned warrant officer,”.
 
@@ -528,6 +618,10 @@ Par. 36. Pub. L. 90–235 added par. (36).
 
 Par. (35). Pub. L. 85–861, §33(a)(1), added par. (35).
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–296, title XVII, §1704(g), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section (other than subsection (f)) \[see Tables for classification\] shall take effect on the date of transfer of the Coast Guard to the Department \[of Homeland Security\].”
+
 #### Effective Date of 1996 Amendment
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
@@ -594,13 +688,17 @@ Section 1(a) of Pub. L. 96–513 provided that: “This Act \[see Tables for cla
 
 Section 703 of Pub. L. 96–513 provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act \[see Tables for classification\] do not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act \[see Effective Date of 1980 Amendment note above\].”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Laws in Suspended Status Prior to 1980 Amendment by Pub. L. 96–513
 
 Section 702 of Pub. L. 96–513 provided that: “If a provision of law that is in a suspended status on the day before the effective date of this Act \[see Effective Date of 1980 Amendment note above\] is amended by this Act \[see Tables for classification\], the suspended status of that provision is not affected by that amendment.”
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to Coast and Geodetic Survey \[now commissioned officer corps of National Oceanic and Atmospheric Administration\], by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Public Health Service
 
@@ -622,7 +720,7 @@ Section 1074(e) of Pub. L. 104–201 provided that: “For purposes of applying 
 
 Section 1506 of title XV of div. A of Pub. L. 104–106 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Section 1070(h) of Pub. L. 103–337 provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+Section 1070(h) of Pub. L. 103–337 provided that: “For purposes of applying amendments made by provisionsof this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 103–160, div. A, title XI, §1182(h), Nov. 30, 1993, 107 Stat. 1774, provided that: “For purposes of applying the amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
@@ -642,5 +740,5 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401, 8906; title 8 section 1154; title 14 section 423; title 15 section 636; title 18 sections 232, 3267; title 20 sections 1078, 1087dd; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 49 section 40125; title 50 App. section 592.
+This section is referred to in sections 1074, 3750, 6246, 8750 of this title; title 5 sections 6323, 8331, 8401, 8906; title 8 section 1154; title 14 section 423; title 15 sections 636, 1681a; title 18 sections 232, 3267; title 20 sections 1078, 1087dd, 6673; title 26 sections 121, 7508; title 31 section 3711; title 33 section 3002; title 37 sections 101, 308, 436; title 39 section 3401; title 41 sections 259, 428a; title 42 sections 2651, 5170b, 7235, 12639; title 46 section 53107; title 46 App. section 1187b; title 49 sections 40125, 44903; title 50 App. sections 511, 592, 593.
 

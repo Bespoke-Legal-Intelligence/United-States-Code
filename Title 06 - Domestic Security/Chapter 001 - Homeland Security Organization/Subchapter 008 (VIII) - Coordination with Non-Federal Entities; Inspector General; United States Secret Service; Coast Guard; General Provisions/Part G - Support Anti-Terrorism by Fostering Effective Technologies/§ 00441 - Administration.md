@@ -20,7 +20,7 @@ The Secretary may designate anti-terrorism technologies that qualify for protect
 
 &emsp;(6) Evaluation of all scientific studies that can be feasibly conducted in order to assess the capability of the technology to substantially reduce risks of harm.
 
-&emsp;(7) Anti-terrorism technology that would be effective in facilitating the defense against acts of terrorism, including technologies that prevent, defeat or respond to such acts.
+&emsp;(7) Anti-terrorism technology that would be effective in facilitating the defense againstacts of terrorism, including technologies that prevent, defeat or respond to such acts.
 
 #### (c) Regulations
 

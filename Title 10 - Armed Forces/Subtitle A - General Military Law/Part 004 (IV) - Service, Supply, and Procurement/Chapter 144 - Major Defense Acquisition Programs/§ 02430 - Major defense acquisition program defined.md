@@ -4,7 +4,7 @@
 
 &emsp;(1) that is designated by the Secretary of Defense as a major defense acquisition program; or
 
-&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventualtotal expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
 (b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
@@ -17,6 +17,128 @@
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1992—Pub. L. 102–484 designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
+
+#### Management of National Security Agency Modernization Program
+
+Pub. L. 108–136, div. A, title IX, §924, Nov. 24, 2003, 117 Stat. 1576, provided that:
+
+“(a)
+
+Management of Acquisition Programs Through USD (AT\&L).—The Secretary of Defense shall direct that, effective as of the date of the enactment of this Act \[Nov. 24, 2003\], acquisitions under the National Security Agency Modernization Program shall be directed and managed by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+“(b)
+
+Applicability of Major Defense Acquisition Program Authorities.—(1) Each project designated as a major defense acquisition program under paragraph (2) shall be managed under the laws, policies, and procedures that are applicable to major defense acquisition programs (as defined in section 2430 of title 10, United States Code).
+
+“(2) The Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) shall designate those projects under the National Security Agency Modernization Program that are to be managed as major defense acquisition programs.
+
+“(c)
+
+Milestone Decision Authority.—(1) The authority to make a decision that a program is authorized to proceed from one milestone stage into another (referred to as the milestone decision authority) may only be exercised by the Under Secretary of Defense for Acquisition, Technology, and Logistics for the following:
+
+&emsp;“(A) Each project of the National Security Agency Modernization Program that is to be managed as a major defense acquisition program, as designated under subsection (b).
+
+&emsp;“(B) Each major system under the National Security Agency Modernization Program.
+
+“(2) The limitation in paragraph (1) shall terminate on, and the Under Secretary may delegate the milestone decision authority referred to in paragraph (1) to the Director of the National Security Agency at any time after, the date that is the later of—
+
+&emsp;“(A) September 30, 2005, or
+
+&emsp;“(B) the date on which the Under Secretary submits to the appropriate committees of Congress a notification described in paragraph (3).
+
+“(3) A notification described in this paragraph is a notification by the Under Secretary of the Under Secretary's intention to delegate the milestone decision authority referred to in paragraph (1) to the Director of the National Security Agency, together with a detailed discussion of the justification for that delegation. Such a notification may not be submitted until—
+
+&emsp;“(A) the Under Secretary has determined (after consultation with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management) that the Director has implemented acquisition management policies, procedures, and practices that are sufficient to ensure that acquisitions by the National Security Agency are conducted in a manner consistent with sound, efficient acquisition practices;
+
+&emsp;“(B) the Under Secretary has consulted with the Under Secretary of Defense for Intelligence and the Deputy Director of Central Intelligence for Community Management on the delegation of such milestone decision authority to the Director; and
+
+&emsp;“(C) the Secretary of Defense has approved the delegation of such milestone decision authority to the Director.
+
+“(d)
+
+Projects Comprising Program.—The National Security Agency Modernization Program consists of the following projects of the National Security Agency:
+
+&emsp;“(1) The Trailblazer project.
+
+&emsp;“(2) The Groundbreaker project.
+
+&emsp;“(3) Each cryptological mission management project.
+
+&emsp;“(4) Each other project of that Agency that—
+
+&emsp;&emsp;“(A) meets either of the dollar thresholds in effect under paragraph (2) of section 2430(a) of title 10, United States Code; and
+
+&emsp;&emsp;“(B) is determined by the Under Secretary of Defense for Acquisition, Technology, and Logistics as being a major project that is within, or properly should be within, the National Security Agency Modernization Project.
+
+“(e)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Major system.—The term ‘major system’ has the meaning given that term in section 2302(5) of title 10, United States Code.
+
+&emsp;“(2)
+
+Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means the following:
+
+&emsp;&emsp;“(A) The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+
+&emsp;&emsp;“(B) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+#### Spiral Development Under Major Defense Acquisition Programs
+
+Pub. L. 107–314, div. A, title VIII, §803, Dec. 2, 2002, 116 Stat. 2603, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense is authorized to conduct major defense acquisition programs as spiral development programs.
+
+“(b)
+
+Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the militarydepartment or Defense Agency concerned, but such authority may not be further delegated.
+
+“(c)
+
+Spiral Development Plans.—A spiral development plan for a research and development program for a major defense acquisition program shall, at a minimum, include the following matters:
+
+&emsp;“(1) A rationale for dividing the research and development program into separate spirals, together with a preliminary identification of the spirals to be included.
+
+&emsp;“(2) A program strategy, including overall cost, schedule, and performance goals for the total research and development program.
+
+&emsp;“(3) Specific cost, schedule, and performance parameters, including measurable exit criteria, for the first spiral to be conducted.
+
+&emsp;“(4) A testing plan to ensure that performance goals, parameters, and exit criteria are met.
+
+&emsp;“(5) An appropriate limitation on the number of prototype units that may be produced under the research and development program.
+
+&emsp;“(6) Specific performance parameters, including measurable exit criteria, that must be met before the major defense acquisition program proceeds into production of units in excess of the limitation on the number of prototype units.
+
+“(d)
+
+Guidance.—Not later than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall issue guidance for the implementation of spiral development programs authorized by this section. The guidance shall include appropriate processes for ensuring the independent validation of exit criteria being met, the operational assessment of fieldable prototypes, and the management of spiral development programs.
+
+“(e)
+
+Reporting Requirement.—The Secretary shall submit to Congress by September 30 of each of 2003 through 2008 a status report on each research and development program that is a spiral development program. The report shall contain information on unit costs that is similar to the information on unit costs under major defense acquisition programs that is required to be provided to Congress under chapter 144 of title 10, United States Code, except that the information on unit costs shall address projected prototype costs instead of production costs.
+
+“(f)
+
+Applicability of Existing Law.—Nothing in this section shall be construed to exempt any program of the Department of Defense from the application of any provision of chapter 144 of title 10, United States Code, section 139, 181, 2366, 2399, or 2400 of such title, or any requirement under Department of Defense Directive 5000.1, Department of Defense Instruction 5000.2, or Chairman of the Joint Chiefs of Staff Instruction 3170.01B in accordance with the terms of such provision or requirement.
+
+“(g)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘spiral development program’, with respect to a research and development program, means a program that—
+
+&emsp;&emsp;“(A) is conducted in discrete phases or blocks, each of which will result in the development of fieldable prototypes; and
+
+&emsp;&emsp;“(B) will not proceed into acquisition until specific performance parameters, including measurable exit criteria, have been met.
+
+&emsp;“(2) The term ‘spiral’ means one of the discrete phases or blocks of a spiral development program.
+
+&emsp;“(3) The term ‘major defense acquisition program’ has the meaning given such term in section 139(a)(2)(B) of title 10, United States Code.”
 
 #### Environmental Consequence Analysis of Major Defense Acquisition Programs
 
@@ -74,7 +196,7 @@ Pub. L. 103–355, title V, §5064, Oct. 13, 1994, 108 Stat. 3359, as amended by
 
 “(a)
 
-In General.—The Secretary of Defense is authorized to designate the following defense acquisition programs for participation in the defense acquisition pilot program authorized by section 809 of the NationalDefense Authorization Act for Fiscal Year 1991 \[Pub. L. 101–510\] (10 U.S.C. 2430 note):
+In General.—The Secretary of Defense is authorized to designate the following defense acquisition programs for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 \[Pub. L. 101–510\] (10 U.S.C. 2430 note):
 
 &emsp;“(1)
 
@@ -252,5 +374,5 @@ Termination of Authority.—The authority to waive or limit the applicability of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 139, 1621, 1733, 1737, 2433 of this title.
+This section is referred to in sections 139, 1621, 1733, 1737, 2433 of this title; title 50 section 1521a.
 

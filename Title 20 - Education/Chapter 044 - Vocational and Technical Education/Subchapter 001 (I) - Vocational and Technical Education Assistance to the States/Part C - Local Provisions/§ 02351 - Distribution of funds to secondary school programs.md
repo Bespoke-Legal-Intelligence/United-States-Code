@@ -14,7 +14,7 @@ Except as provided in section 2353 of this title and as otherwise provided in th
 
 #### (3) Ten percent
 
-&emsp;From 10 percent of such portion, each local educational agency shall be allocated anamount that bears the same relationship to such 10 percent as the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of such local educational agency for the preceding fiscal year bears to the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of all local educational agencies in the State for such preceding fiscal year.
+&emsp;From 10 percent of such portion, each local educational agency shall be allocated an amount that bears the same relationship to such 10 percent as the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of such local educational agency for the preceding fiscal year bears to the number of students enrolled in schools and adults enrolled in training programs under the jurisdiction of all local educational agencies in the State for such preceding fiscal year.
 
 #### (b) Special distribution rules for succeeding fiscal years
 

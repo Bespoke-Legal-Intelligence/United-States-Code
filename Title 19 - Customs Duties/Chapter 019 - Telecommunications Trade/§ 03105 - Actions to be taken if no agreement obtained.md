@@ -52,7 +52,7 @@
 
 #### (d) Modification and termination authority
 
-The President may modify or terminate any action taken under subsection (a) of this section if, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
+The President may modify or terminate any action taken under subsection (a) of this sectionif, after taking into consideration the factors described in section 3103(b) of this title, the President determines that changed circumstances warrant such modification or termination.
 
 #### (e) Report
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish an annual goal for the purchase by each enterprise of mortgageson housing located in central cities, rural areas, and other underserved areas. The Secretary may establish separate subgoals within the goal under this section and such subgoals shall not be enforceable under the provisions of section 4566 of this title, any other provision of this chapter, or any provision of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\].
+The Secretary shall establish an annual goal for the purchase by each enterprise of mortgages on housing located in central cities, rural areas, and other underserved areas. The Secretary may establish separate subgoals within the goal under this section and such subgoals shall not be enforceable under the provisions of section 4566 of this title, any other provision of this chapter, or any provision of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\].
 
 #### (b) Factors to be applied
 
@@ -50,7 +50,7 @@ The Secretary shall monitor the performance of each enterprise in carrying out t
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 The Federal National Mortgage Association Charter Act, referred to in subsec. (a), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 

@@ -10,7 +10,7 @@ The standards shall be designed to reduce the risk of loss of life to building o
 
 #### (c) Consultation
 
-In carrying out this section, the Secretary shall consult with the Director of the Federal Emergency Management Agency and may utilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 \[42 U.S.C. 7701 et seq.\]) and any other resources as may be required to carry out the activities under this section.
+In carrying out this section, the Secretary shall consult with the Director of the FederalEmergency Management Agency and may utilize the resources under the National Earthquake Hazards Reduction Program (established under the Earthquake Hazards Reduction Act of 1977 \[42 U.S.C. 7701 et seq.\]) and any other resources as may be required to carry out the activities under this section.
 
 (Pub. L. 101–625, title IX, §947, Nov. 28, 1990, 104 Stat. 4416.)
 
@@ -22,7 +22,7 @@ The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub
 
 Subsec. (d) of this section, which required the Secretary to submit a report to Congress not less than biennially on the findings of the risk assessment study conducted under this section and the activities undertaken, and the expenditures made, by the Secretary to carry out this section and Executive Order No. 12699, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 104 of House Document No. 103–7.
 
-Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of theEarthquake Hazards Reduction Act of 1977 which comprises this chapter.
+Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of the Earthquake Hazards Reduction Act of 1977 which comprises this chapter.
 
 #### Transfer of Functions
 

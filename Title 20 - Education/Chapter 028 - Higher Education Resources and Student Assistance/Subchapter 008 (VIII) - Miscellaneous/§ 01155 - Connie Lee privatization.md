@@ -144,13 +144,13 @@
 
 #### (ii) Administration
 
-&emsp;&emsp;&emsp;The Mayor shall administer the program of grants under this subparagraph, except that if the committee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
+&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall administer the program of grants under this subparagraph, except that if the committee described in subparagraph (C)(iii) is in operation and is fully functional prior to the date the Mayor makes the grants, the Mayor may delegate the administration of the program to the committee.
 
 #### (C) Other grants
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities tocarry out the purposes described in subparagraph (E).
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District ofColumbia shall make grants to entities to carry out the purposes described in subparagraph (E).
 
 #### (ii) Participation of schools
 
@@ -158,7 +158,7 @@
 
 #### (iii) Administration through committee
 
-&emsp;&emsp;&emsp;The Mayor shall carry out this subparagraph through the committee appointed by the Mayor under the second sentence of paragraph (2)(B) (as in effect prior to November 22, 2000). The committee may enter into an agreement with a third party to carry out its responsibilities under this subparagraph.
+&emsp;&emsp;&emsp;Subject to subparagraph (F), the Mayor shall carry out this subparagraph through the committee appointed by the Mayor under the second sentence of paragraph (2)(B) (as in effect prior to November 22, 2000). The committee may enter into an agreement with a third party to carry out its responsibilities under this subparagraph.
 
 #### (iv) Cap on administrative costs
 
@@ -184,7 +184,11 @@
 
 &emsp;&emsp;&emsp;Funds provided under a grant under this subparagraph may not be used by a recipient to make direct loans or grants to public charter schools.
 
-(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936.)
+#### (F) Role of Office of Public Charter School Financing and Support
+
+&emsp;&emsp;During fiscal year 2003 and each succeeding fiscal year, the Office of Public Charter School Financing and Support shall be responsible for receiving applications, making payments, and otherwise administering this paragraph, except that no grant may be made under this paragraph without the approval of the committee described in subparagraph (C)(iii).
+
+(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936; Pub. L. 108–7, div. C, title III, §143(c), Feb. 20, 2003, 117 Stat. 131.)
 
 #### References in Text
 
@@ -204,17 +208,21 @@ Section is comprised of section 101(e) \[title VI, §603\] of div. A of Pub. L. 
 
 #### Amendments
 
+2003—Subsec. (e)(3)(B)(ii), (C)(iii). Pub. L. 108–7, §143(c)(1), substituted “Subject to subparagraph (F), the Mayor” for “The Mayor”.
+
+Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
+
 2001—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 
 Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in heading of par. (3) and in par. (3)(A), was executed by revising the amendment by Pub. L. 106–522, §161(2), which had added subsec. (e)(3) to this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
-Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of the cap on administrative costs as amended by Pub. L. 106–522, §161, by substituting “5 percent” for “10 percent”, could not be executed because the words “10 percent” did not appear in this section after the amendment of Pub. L. 106–522, §161(2), by Pub. L. 107–96, par. (3). See 2000 Amendment note below.
+Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of the cap on administrative costsas amended by Pub. L. 106–522, §161, by substituting “5 percent” for “10 percent”, could not be executed because the words “10 percent” did not appear in this section after the amendment of Pub. L. 106–522, §161(2), by Pub. L. 107–96, par. (3). See 2000 Amendment note below.
 
 2000—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 
-Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointedby the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(2), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 

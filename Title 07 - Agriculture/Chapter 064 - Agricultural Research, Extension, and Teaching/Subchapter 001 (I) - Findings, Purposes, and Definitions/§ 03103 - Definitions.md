@@ -138,7 +138,7 @@ Act of August 30, 1890, 26 Stat. 417, referred to in pars. (11) and (17)(B), is 
 
 Act of March 2, 1887, referred to in pars. (14) and (17)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of October 10, 1962, referred to in pars. (16) and (17)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962,which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+Act of October 10, 1962, referred to in pars. (16) and (17)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

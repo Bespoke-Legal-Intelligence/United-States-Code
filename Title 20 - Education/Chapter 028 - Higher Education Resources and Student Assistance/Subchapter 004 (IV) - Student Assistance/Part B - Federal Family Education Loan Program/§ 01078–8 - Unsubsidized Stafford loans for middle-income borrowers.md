@@ -18,7 +18,7 @@ Any student meeting the requirements for student eligibility under section 1091 
 
 #### (c) Determination of amount of loan
 
-The determination of the amount of a loan by an eligible institution under subsection (b) of this section shall be calculated by subtracting from the estimated cost of attendance at the eligible institution any estimated financial assistance reasonably available to such student. An eligible institution may not, in carrying out the provisions of subsection (b) of this section, provide a statement which certifies the eligibility of any student to receive any loan under this section in excess of the amount calculated under the preceding sentence.
+The determination of the amount of a loan by an eligible institution under subsection (b) ofthis section shall be calculated by subtracting from the estimated cost of attendance at the eligible institution any estimated financial assistance reasonably available to such student. An eligible institution may not, in carrying out the provisions of subsection (b) of this section, provide a statement which certifies the eligibility of any student to receive any loan under this section in excess of the amount calculated under the preceding sentence.
 
 #### (d) Loan limits
 
@@ -146,7 +146,7 @@ Subsec. (d)(3). Pub. L. 105–244, §423(b)(2), inserted at end “Interest capi
 
 Subsec. (e)(2). Pub. L. 105–244, §423(c), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Interest on loans made under this section for which payments of principal are not required during the in-school and grace periods or for which payments are deferred under sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly, or (B) be added to the principal amount of the loan not more frequently than quarterly by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the student.”
 
-Subsec. (e)(6). Pub. L. 105–244, §423(d), which directed substitution of “repayment period under section 1078(b)(9) of this title” for “10 year repayment period under section 1078(b)(1)(D) of this title”, was executed by making the substitution for “10-year repayment period under section 1078(b)(1)(D) of this title” to reflect the probable intent of Congress.
+Subsec. (e)(6). Pub. L. 105–244, §423(d), which directed substitution of “repayment period under section 1078(b)(9) of this title” for “10 year repayment period under section 1078(b)(1)(D) of this title”, was executedby making the substitution for “10-year repayment period under section 1078(b)(1)(D) of this title” to reflect the probable intent of Congress.
 
 Subsec. (e)(7). Pub. L. 105–244, §423(e), added par. (7).
 
@@ -158,7 +158,7 @@ Subsec. (f). Pub. L. 105–244, §423(f), struck out heading and text of subsec.
 
 Subsec. (d). Pub. L. 103–66, §4047(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The annual and aggregate limits for loans under this section shall be the same as those established under section 1078(b)(1) of this title, less any amount received by such student pursuant to the subsidized loan program established under section 1078 of this title.”
 
-Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “in the case of such a student attending an eligible institution who has completed the first 2 years of undergraduate study but who has not completed the remainder of a program of undergraduate study—
+Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of such a student attending an eligible institution who has completed the first 2 years of undergraduate study but who has not completed the remainder of a program of undergraduate study—
 
 &emsp;“(i) $5,000, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this section);
 

@@ -56,7 +56,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (2) Identification; database
 
-&emsp;Regulations under subsections (b) and (c) of this section shall require that registration include (if available to the person registering) information regarding the characterization of listed agents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registered persons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
+&emsp;Regulations under subsections (b) and (c) of this section shall require that registration include (if available to the person registering) information regarding the characterization of listed agents and toxins to facilitate their identification, including their source. The Secretary shall maintain a national database that includes the names and locations of registeredpersons, the listed agents and toxins such persons are possessing, using, or transferring, and information regarding the characterization of such agents and toxins.
 
 #### (e) Safeguard and security requirements for registered persons
 
@@ -244,7 +244,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (2) General authority for exemptions not involving overlap agents or toxins
 
-&emsp;In the case of listed agents or toxins that are not overlap agents or toxins, the Secretary may grant exemptions from the applicability of provisions of regulations under subsection (b) or (c) of this section if the Secretary determines that such exemptions are consistent with protecting animal and plant health, and animal and plant products.
+&emsp;In the case of listed agents or toxins that are not overlap agents or toxins, the Secretarymay grant exemptions from the applicability of provisions of regulations under subsection (b) or (c) of this section if the Secretary determines that such exemptions are consistent with protecting animal and plant health, and animal and plant products.
 
 #### (h) Disclosure of information
 
@@ -310,7 +310,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal or plant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to animal orplant health, or animal or plant products, the Secretary shall take appropriate action to notify relevant Federal, State, and local authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin, the Secretary shall promptly notify the Secretary of Health and Human Services upon notification by the registered person.
 
 #### (k) Reports
 
@@ -390,5 +390,5 @@ Transitional Provision Regarding Current Research and Education.—The interim f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8411 of this title; title 6 section 182; title 18 section 175b.
+This section is referred to in section 8411 of this title; title 6 section 182; title 18 section 175b; title 42 section 262a.
 

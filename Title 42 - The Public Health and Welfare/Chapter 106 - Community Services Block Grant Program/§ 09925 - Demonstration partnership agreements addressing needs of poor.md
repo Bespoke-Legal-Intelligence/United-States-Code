@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of thissection to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
 &emsp;(A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -66,7 +66,7 @@ As soon as practicable, but not later than 180 days after the end of the fiscal 
 
 As used in this section—
 
-&emsp;(1) the term “eligible entity” has the same meaning given such term by section 673(1) ofthe Community Services Block Grant Act (42 U.S.C. 9902(1)), except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section; and
+&emsp;(1) the term “eligible entity” has the same meaning given such term by section 673(1) of the Community Services Block Grant Act (42 U.S.C. 9902(1)), except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section; and
 
 &emsp;(2) the term “Secretary” means the Secretary of Health and Human Services.
 
@@ -88,7 +88,7 @@ Subsection (f) of this section, referred to in subsec. (h)(3), was omitted from 
 
 #### Codification
 
-Subsec. (f) of this section, which required the Secretary to submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an annual report describing programs for which grants were made under this section in the most recently completed fiscal year and the evaluations received under subsec. (a)(1)(D) of this section in such fiscal year, describing the methods used by the Secretary to comply with subsec. (d) of this section, making recommendations regarding the suitability of carrying out such programs with funds made available under other Federal laws, and describing each program identified under subsec. (d)(1) of this section or replicated under subsec. (e)(2) of this section and identifying the geographical location where such program was carried out, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 98 of House Document No. 103–7.
+Subsec. (f) of this section, which required the Secretary to submit to the Committee on Education andLabor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an annual report describing programs for which grants were made under this section in the most recently completed fiscal year and the evaluations received under subsec. (a)(1)(D) of this section in such fiscal year, describing the methods used by the Secretary to comply with subsec. (d) of this section, making recommendations regarding the suitability of carrying out such programs with funds made available under other Federal laws, and describing each program identified under subsec. (d)(1) of this section or replicated under subsec. (e)(2) of this section and identifying the geographical location where such program was carried out, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 98 of House Document No. 103–7.
 
 Section was formerly classified to section 9910b of this title.
 

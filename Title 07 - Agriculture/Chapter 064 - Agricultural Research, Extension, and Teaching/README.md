@@ -80,6 +80,11 @@
 | (a) | Competitive grant program. |
 | (b) | Preference. |
 | (c) | Apportionment and distribution of funds. |
+| [3151a.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003151a%20-%20Veterinary%20medicine%20loan%20repayment.md) | Veterinary medicine loan repayment. |
+| (a) | Program. |
+| (b) | Determination of veterinarian shortage situations. |
+| (c) | Administration. |
+| (d) | Authorization of appropriations. |
 | [3152\.](Subchapter%20003%20%28III%29%20-%20Agricultural%20Research%20and%20Education%20Grants%20and%20Fellowships/%C2%A7%2003152%20-%20Grants%20and%20fellowships%20for%20food%20and%20agricultural%20sciences%20education.md) | Grants and fellowships for food and agricultural sciences education. |
 | (a) | Higher education teaching programs. |
 | (b) | Grants. |
@@ -355,6 +360,8 @@
 | (f) | Stakeholder input. |
 | (g) | Participation by other farmers and ranchers. |
 | (h) | Authorization of appropriations. |
+| [3319g.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319g%20-%20Fees.md) | Fees. |
+| [3319h.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319h%20-%20Funds%20for%20research%20facilities.md) | Funds for research facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

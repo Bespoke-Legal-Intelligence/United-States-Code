@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) which the Governor requests, and agrees to assume, the responsibility for administration and enforcement in accordance with subsection (d) of this section;
 
-&emsp;&emsp;(ii) which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
+&emsp;&emsp;(ii) which the attorney general of that State has found that (I) absent a delegationof authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
 
 &emsp;&emsp;(iii) which either the Secretary determines are contained in the standby Federal conservation plan established under section 8513 of this title or are approved by the Secretary, in his discretion.
 
@@ -32,7 +32,7 @@
 
 &emsp;(A) that, taken as a whole, the plan is not likely to achieve the emergency conservation target established for that State under section 8511(a) of this title for each energy source involved,
 
-&emsp;(B) that, taken as a whole, the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energyuse on any specific class of industry, business, or commercial enterprise, or any individual segment thereof,
+&emsp;(B) that, taken as a whole, the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof,
 
 &emsp;(C) that the requirements of this subchapter regarding the plan have not been met, or
 

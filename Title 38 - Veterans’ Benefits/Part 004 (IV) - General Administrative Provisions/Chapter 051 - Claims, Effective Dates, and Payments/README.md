@@ -16,6 +16,7 @@
 | [5108\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005108%20-%20Reopening%20disallowed%20claims.md) | Reopening disallowed claims. |
 | [5109\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109%20-%20Independent%20medical%20opinions.md) | Independent medical opinions. |
 | [5109A.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109A%20-%20Revision%20of%20decisions%20on%20grounds%20of%20clear%20and%20unmistakable%20error.md) | Revision of decisions on grounds of clear and unmistakable error. |
+| [5109B.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005109B%20-%20Expedited%20treatment%20of%20remanded%20claims.md) | Expedited treatment of remanded claims. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -50,6 +51,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–183, title VII, §707(a)(2), Dec. 16, 2003, 117 Stat. 2673, added item 5109B.
 
 2000—Pub. L. 106–475, §6, Nov. 9, 2000, 114 Stat. 2099, added items 5100, 5102 to 5103A, 5107, and 5126, and struck out former items 5102 “Application forms furnished upon request”, 5103 “Incomplete applications”, and 5107 “Burden of proof; benefit of the doubt”.
 

@@ -20,5 +20,5 @@ The following are the members of the Service:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2664a, 3974, 4155, 4861 of this title; title 5 sections 7511, 8331, 8351, 8401.
+This section is referred to in sections 2664a, 3974, 4155, 4861 of this title; title 5 sections 7511, 8331, 8351, 8401; title 26 section 121.
 

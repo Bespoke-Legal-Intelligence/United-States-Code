@@ -32,7 +32,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to beeffective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
 #### Section Referred to in Other Sections
 

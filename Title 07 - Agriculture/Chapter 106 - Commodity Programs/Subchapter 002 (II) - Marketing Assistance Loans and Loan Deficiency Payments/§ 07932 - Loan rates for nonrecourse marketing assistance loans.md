@@ -22,7 +22,25 @@ For purposes of the 2002 and 2003 crop years, the loan rate for a marketing assi
 
 &emsp;(9) In the case of soybeans, $5.00 per bushel.
 
-&emsp;(10) In the case of other oilseeds, $0.0960 per pound.
+&emsp;(10) In the case of other oilseeds, $.0960 per pound for each of the following kinds of oilseeds:
+
+&emsp;&emsp;(A) Sunflower seed.
+
+&emsp;&emsp;(B) Rapeseed.
+
+&emsp;&emsp;(C) Canola.
+
+&emsp;&emsp;(D) Safflower.
+
+&emsp;&emsp;(E) Flaxseed.
+
+&emsp;&emsp;(F) Mustard seed.
+
+&emsp;&emsp;(G) Crambe.
+
+&emsp;&emsp;(H) Sesame seed.
+
+&emsp;&emsp;(I) Other oilseeds designated by the Secretary.
 
 &emsp;(11) In the case of graded wool, $1.00 per pound.
 
@@ -40,7 +58,7 @@ For purposes of the 2002 and 2003 crop years, the loan rate for a marketing assi
 
 #### (b) 2004 through 2007 crop years
 
-For purposes of the 2004 through 2007 crop years, the loan rate for a marketing assistanceloan under section 7931 of this title for a loan commodity shall be equal to the following:
+For purposes of the 2004 through 2007 crop years, the loan rate for a marketing assistance loan under section 7931 of this title for a loan commodity shall be equal to the following:
 
 &emsp;(1) In the case of wheat, $2.75 per bushel.
 
@@ -60,7 +78,25 @@ For purposes of the 2004 through 2007 crop years, the loan rate for a marketing 
 
 &emsp;(9) In the case of soybeans, $5.00 per bushel.
 
-&emsp;(10) In the case of other oilseeds, $0.0930 per pound.
+&emsp;(10) In the case of other oilseeds, $.0930 per pound for each of the following kinds of oilseeds:
+
+&emsp;&emsp;(A) Sunflower seed.
+
+&emsp;&emsp;(B) Rapeseed.
+
+&emsp;&emsp;(C) Canola.
+
+&emsp;&emsp;(D) Safflower.
+
+&emsp;&emsp;(E) Flaxseed.
+
+&emsp;&emsp;(F) Mustard seed.
+
+&emsp;&emsp;(G) Crambe.
+
+&emsp;&emsp;(H) Sesame seed.
+
+&emsp;&emsp;(I) Other oilseeds designated by the Secretary.
 
 &emsp;(11) In the case of graded wool, $1.00 per pound.
 
@@ -76,7 +112,33 @@ For purposes of the 2004 through 2007 crop years, the loan rate for a marketing 
 
 &emsp;(17) In the case of small chickpeas, $7.43 per hundredweight.
 
-(Pub. L. 107–171, title I, §1202, May 13, 2002, 116 Stat. 155.)
+#### (c) Single county loan rate for other oilseeds
+
+The Secretary shall establish a single loan rate in each county for each kind of other oilseeds described in subsections (a)(10) and (b)(10) of this section.
+
+#### (d) Quality grades for dry peas, lentils, and small chickpeas
+
+The loan rate for dry peas, lentils, and small chickpeas shall be based on—
+
+&emsp;(1) in the case of dry peas, United States feed peas;
+
+&emsp;(2) in the case of lentils, United States number 3 lentils; and
+
+&emsp;(3) in the case of small chickpeas, United States number 3 small chickpeas that drop below a 20/64 screen.
+
+(Pub. L. 107–171, title I, §1202, May 13, 2002, 116 Stat. 155; Pub. L. 108–7, div. A, title VII, §763(b), Feb. 20, 2003, 117 Stat. 46.)
+
+#### Amendments
+
+2003—Subsec. (a)(10). Pub. L. 108–7, §763(b)(1), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0960 per pound.”
+
+Subsec. (b)(10). Pub. L. 108–7, §763(b)(2), added par. (10) and struck out former par. (10) which read as follows: “In the case of other oilseeds, $0.0930 per pound.”
+
+Subsecs. (c), (d). Pub. L. 108–7, §763(b)(3), added subsecs. (c) and (d).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils, and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
 
 #### Section Referred to in Other Sections
 

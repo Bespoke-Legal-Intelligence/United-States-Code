@@ -12,7 +12,7 @@ The Secretary shall establish a wetlands reserve program to assist owners of eli
 
 #### (2) Methods of enrollment
 
-&emsp;The Secretary shall enroll acreage into the wetlands reserve program through the use of permanent easements, 30-year easements, restoration cost share agreements, or any combination of those options.
+&emsp;The Secretary shall enroll acreage into the wetlands reserve program through the use ofpermanent easements, 30-year easements, restoration cost share agreements, or any combination of those options.
 
 #### (c) Eligibility
 

@@ -16,7 +16,7 @@ Not later than January 31 of each year, the President shall submit to the Congre
 
 &emsp;&emsp;(B) an evaluation of the degree to which the assistance authorized by chapter 12 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2296 et seq.\] has accomplished the purposes identified in that chapter;
 
-&emsp;&emsp;(C) a description of the progress being made by the United States to resolve trade disputes registered with and raised by the United States embassies in each country,and to negotiate a bilateral agreement relating to the protection of United States direct investment in, and other business interests with, each country; and
+&emsp;&emsp;(C) a description of the progress being made by the United States to resolve trade disputes registered with and raised by the United States embassies in each country, and to negotiate a bilateral agreement relating to the protection of United States direct investment in, and other business interests with, each country; and
 
 &emsp;&emsp;(D) recommendations of any additional initiatives that should be undertaken by the United States to implement the policy and purposes contained in the Silk Road Strategy Act of 1999 \[22 U.S.C. 2296 et seq.\].
 
@@ -53,6 +53,8 @@ Reports.—The President shall submit a report to the Committees on Appropriatio
 Pub. L. 103–87, title V, §560(g), Sept. 30, 1993, 107 Stat. 967, provided that: “None of the funds appropriated by this Act \[see Tables for classification\] shall be made available to any government of the New Independent States of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other New Independent State, such as those violations included in Principle Six of the Helsinki Final Act: <i>Provided</i>, That such funds may be made available without regard to the restriction in this subsection if the President determines that to do so is in the national interest of the United States: <i>Provided further</i>, That the restriction of this subsection shall not apply to the use of such funds for the provision of assistance for purposes of humanitarian, disaster and refugee relief: <i>Provided further</i>, That thirty days after the date of enactment of this Act \[Sept. 30, 1993\], and then annually thereafter, the Secretary of State shall report to the Committees on Appropriations on steps taken by the governments of the New Independent States concerning violations referred to in this subsection: <i>Provided further</i>, That in preparing this report the Secretary shall consult with the United States Representative to the Conference on Security and Cooperation in Europe \[now the Organization for Security and Cooperation in Europe\].”
 
 Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the following appropriation acts:
+
+Pub. L. 108–7, div. E, title V, §517(b), Feb. 20, 2003, 117 Stat. 185.
 
 Pub. L. 107–115, title V, §517(b), Jan. 10, 2002, 115 Stat. 2144.
 

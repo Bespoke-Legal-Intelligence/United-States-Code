@@ -30,7 +30,7 @@ For purposes of this part:
 
 #### (6) Dispute Settlement Understanding
 
-&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
+&emsp;The term “Dispute Settlement Understanding” means the Understanding on Rules andProcedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title.
 
 #### (7) General Council
 
@@ -42,7 +42,7 @@ For purposes of this part:
 
 #### (9) Other terms
 
-&emsp;The terms “Antidumping Agreement”, “Agreement on Subsidies and CountervailingMeasures”, and “Safeguards Agreement” mean the agreements referred to in section 3511(d)(7), (12), and (13) of this title, respectively.
+&emsp;The terms “Antidumping Agreement”, “Agreement on Subsidies and Countervailing Measures”, and “Safeguards Agreement” mean the agreements referred to in section 3511(d)(7), (12), and (13) of this title, respectively.
 
 (Pub. L. 103–465, title I, §121, Dec. 8, 1994, 108 Stat. 4828.)
 

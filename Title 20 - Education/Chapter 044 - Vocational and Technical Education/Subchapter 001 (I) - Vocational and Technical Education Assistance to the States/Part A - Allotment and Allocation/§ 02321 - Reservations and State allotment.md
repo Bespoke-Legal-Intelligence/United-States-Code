@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (4), no State shall receive for a fiscal year under this subsection lessthan 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Notwithstanding any other provision of law and subject to subparagraphs (B) and (C), and paragraph (4), no State shall receive for a fiscal year under this subsection less than 1/2 of 1 percent of the amount appropriated under section 2307 of this title and not reserved under paragraph (1) for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Requirement
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;Subject to paragraph (4), no State, by reason of the application of subparagraph (A), shall be allotted for a fiscal year more than the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the amount that the State received in the preceding fiscal year (or in the case of fiscal year 1999 only, under section 101 of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section was in effect on the day before October 31, 1998); and
+&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the amount that the State received in the preceding fiscal year (or in the case of fiscal year 1999only, under section 101 of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section was in effect on the day before October 31, 1998); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount calculated under clause (ii).
 
@@ -104,7 +104,7 @@ For the purpose of this section, the term “State” means each of the several 
 
 #### References in Text
 
-Section 101 and part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, assuch section and part were in effect on the day before October 31, 1998, referred to in subsec. (a)(3)(B), (C), (4)(A), means section 101 and part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which were classified, respectively, to section 2311 of this title and part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 101 and part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section and part were in effect on the day before October 31, 1998, referred to in subsec. (a)(3)(B), (C), (4)(A), means section 101 and part A of title I of Pub. L. 88–210, as added by Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2438, as amended, which were classified, respectively, to section 2311 of this title and part A (§2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 #### Prior Provisions
 

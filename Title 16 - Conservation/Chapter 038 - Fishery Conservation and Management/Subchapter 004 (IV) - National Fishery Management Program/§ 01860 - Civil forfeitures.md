@@ -34,7 +34,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 #### (e) Rebuttable presumptions
 
-(1) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
+(1) For purposes of this section, it shall be a rebuttable presumption that all fish found onboard a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
 
 (2) For purposes of this chapter, it shall be a rebuttable presumption that any fish of a species which spawns in fresh or estuarine waters and migrates to ocean waters that is found on board a vessel is of United States origin if the vessel is within the migratory range of the species during that part of the year to which the migratory range applies.
 
@@ -50,7 +50,7 @@ The customs laws, referred to in subsec. (c), are classified generally to Title 
 
 1996—Subsec. (e)(3). Pub. L. 104–297 added par. (3).
 
-1990—Subsec. (e). Pub. L. 101–627 designated existing provisions as par. (1) and and added par. (2).
+1990—Subsec. (e). Pub. L. 101–627 designated existing provisions as par. (1) and added par. (2).
 
 1986—Subsec. (c). Pub. L. 99–659, §109(a)(1), amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: “The provisions of the customs laws relating to—
 

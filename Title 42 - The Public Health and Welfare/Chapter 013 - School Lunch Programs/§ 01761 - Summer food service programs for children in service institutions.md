@@ -180,9 +180,9 @@ Each State desiring to participate in the program shall notify the Secretary by 
 
 #### (q) Authorization of appropriations
 
-For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 2003, there are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
+For the period beginning October 1, 1977, and ending March 31, 2004, there are hereby authorized to be appropriated such sums as are necessary to carry out the purposes of this section.
 
-(June 4, 1946, ch. 281, §13, as added Pub. L. 90–302, §3, May 8, 1968, 82 Stat. 117; amended Pub. L. 91–248, §6(c), (d), May 14, 1970, 84 Stat. 210; Pub. L. 92–32, §7, June 30, 1971, 85 Stat. 86; Pub. L. 92–433, §§1, 2, Sept. 26, 1972, 86 Stat. 724; Pub. L. 94–20, May 2, 1975, 89 Stat. 82; Pub. L. 94–105, §13, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §2, Nov. 10, 1977, 91 Stat. 1325; Pub. L. 95–627, §§5(d), 7(b), 10(d)(2), Nov. 10, 1978, 92 Stat. 3620, 3622, 3624; Pub. L. 96–499, title II, §206, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§809, 817(b), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §311, Oct. 18, 1986, 100 Stat. 1783–360, and Pub. L. 99–591, title III, §311, Oct. 30, 1986, 100 Stat. 3341–363; Pub. L. 99–661, div. D, title I, §4101, Nov. 14, 1986, 100 Stat. 4071; Pub. L. 100–435, title II, §213, Sept. 19, 1988, 102 Stat. 1658; Pub. L. 101–147, title I, §102(a), title III, §307, Nov. 10, 1989, 103 Stat. 879, 915; Pub. L. 103–448, title I, §§105(b), 114(a)–(g), Nov. 2, 1994, 108 Stat. 4702, 4712, 4713; Pub. L. 104–193, title VII, §706(a)–(<i>l</i>), Aug. 22, 1996, 110 Stat. 2291–2293; Pub. L. 105–336, title I, §§105(a)–(e)(1), 107(j)(2)(A), (3)(B), Oct. 31, 1998, 112 Stat. 3148, 3149, 3152, 3153.)
+(June 4, 1946, ch. 281, §13, as added Pub. L. 90–302, §3, May 8, 1968, 82 Stat. 117; amended Pub. L. 91–248, §6(c), (d), May 14, 1970, 84 Stat. 210; Pub. L. 92–32, §7, June 30, 1971, 85 Stat. 86; Pub. L. 92–433, §§1, 2, Sept. 26, 1972, 86 Stat. 724; Pub. L. 94–20, May 2, 1975, 89 Stat. 82; Pub. L. 94–105, §13, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §2, Nov. 10, 1977, 91 Stat. 1325; Pub. L. 95–627, §§5(d), 7(b), 10(d)(2), Nov. 10, 1978, 92 Stat. 3620, 3622, 3624; Pub. L. 96–499, title II, §206, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§809, 817(b), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §311, Oct. 18, 1986, 100 Stat. 1783–360, and Pub. L. 99–591, title III, §311, Oct. 30, 1986, 100 Stat. 3341–363; Pub. L. 99–661, div. D, title I, §4101, Nov. 14, 1986, 100 Stat. 4071; Pub. L. 100–435, title II, §213, Sept. 19, 1988, 102 Stat. 1658; Pub. L. 101–147, title I, §102(a), title III, §307, Nov. 10, 1989, 103 Stat. 879, 915; Pub. L. 103–448, title I, §§105(b), 114(a)–(g), Nov. 2, 1994, 108 Stat. 4702, 4712, 4713; Pub. L. 104–193, title VII, §706(a)–(<i>l</i>), Aug. 22, 1996, 110 Stat. 2291–2293; Pub. L. 105–336, title I, §§105(a)–(e)(1), 107(j)(2)(A), (3)(B), Oct. 31, 1998, 112 Stat. 3148, 3149, 3152, 3153; Pub. L. 108–134, §5(1), Nov. 22, 2003, 117 Stat. 1389.)
 
 #### References in Text
 
@@ -193,6 +193,8 @@ The Child Nutrition Act of 1966, referred to in subsec. (a)(1), (5), is Pub. L. 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2003—Subsec. (q). Pub. L. 108–134 substituted “the period beginning October 1, 1977, and ending March 31, 2004” for “the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 2003”.
 
 1998—Subsec. (a)(1)(D)(i). Pub. L. 105–336, §107(j)(3)(B)(i), substituted “to have a disability” for “to be mentally or physically handicapped”.
 
@@ -234,7 +236,7 @@ Subsec. (n)(2). Pub. L. 105–336, §105(e)(1), amended Pub. L. 104–193, §706
 
 Subsec. (q). Pub. L. 105–336, §105(d), substituted “2003” for “1998”.
 
-1996—Subsec. (a)(1). Pub. L. 104–193, §706(a)(1)(A), substituted “initiate and maintain nonprofit food serviceprograms” for “initiate, maintain, and expand nonprofit food service programs” in first sentence.
+1996—Subsec. (a)(1). Pub. L. 104–193, §706(a)(1)(A), substituted “initiate and maintain nonprofit food service programs” for “initiate, maintain, and expand nonprofit food service programs” in first sentence.
 
 Subsec. (a)(1)(E). Pub. L. 104–193, §706(a)(1)(B), struck out “the Trust Territory of the Pacific Islands,” before “and the Northern Mariana Islands”.
 
@@ -412,7 +414,7 @@ Subsec. (e). Pub. L. 95–166 added subsec. (e) which in incorporating in part p
 
 Subsec. (f). Pub. L. 95–166 redesignated former subsec. (e) as (f), substituted in first sentence “receiving funds” for “to which funds are disbursed”, and inserted provisions respecting: charging ineligible children for meals served in camps, model specifications and standards for quality assurance, meal preparation contract requirements, and inspection and testing. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 95–166 redesignated former subsec. (f) as (g), required publication of proposed regulations by November 1, instead of January 1, final regulations by January 1, instead of March 1, and guidelines, applications, and handbooks by February 1, instead of March 1, of each fiscal year, inserted proviso, substituted provision for payment of startup costs limited to 20 percent of administrative funds provided for in the administrative budget for prior limitation to 10 per centum of Federal funds provided the service institutions for meals served under this section during the preceding summer, and substituted provision for subtraction of startup costs from amounts otherwise payable for administrative costs made to the service institutions for prior provision for such reduction from payments made for meals served under subsec. (b) of this section. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 95–166 redesignated former subsec. (f) as (g), required publication of proposed regulations by November 1, instead of January 1, final regulations by January 1, instead of March 1, and guidelines, applications, and handbooks by February 1, instead of March 1, of each fiscal year, inserted proviso, substituted provision for payment of startup costs limited to 20 percent of administrative funds provided for in the administrative budget for prior limitation to 10 percentum of Federal funds provided the service institutions for meals served under this section during the preceding summer, and substituted provision for subtraction of startup costs from amounts otherwise payable for administrative costs made to the service institutions for prior provision for such reduction from payments made for meals served under subsec. (b) of this section. Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 95–166 redesignated former subsec. (g) as (h), struck out “participating” before “service institution” and “, either nationally or in the institution area, or foods donated by the Secretary” after “abundance”, and substituted provision for donation of available or purchased food to States, for distribution to service institutions that can use commodities efficiently and effectively, as determined by the Secretary for prior provision for donation by the Secretary of available or purchased foods, irrespective of amount of appropriated funds, to service institutions in accordance with the needs as determined by authorities of these institutions for utilization in their feeding program. Former subsec. (h) redesignated (i).
 
@@ -454,7 +456,7 @@ Subsec. (j). Pub. L. 94–105 substituted provision authorizing to be appropriat
 
 Pub. L. 94–20, §1(b), added subsec. (j).
 
-Subsec. (k). Pub. L. 94–105 substituted provisions directing the Secretary to pay each State for administrative costs an amount equal to 2 per centum of funds distributed under subsec. (b), with no State to receive less than $10,000 unless funds distributed to such State total less than $50,000 for provisions directing the Secretary to issue regulations no later than ten days following May 2, 1975 pertaining to operations of the program during the months of May through Sept. 1975, with proviso that such regulations shall in no way differ from current regulations except for changes necessary to implement this chapter.
+Subsec. (k). Pub. L. 94–105 substituted provisions directing the Secretary to pay each State for administrative costs an amount equal to 2 per centum of funds distributed under subsec. (b), with no State to receiveless than $10,000 unless funds distributed to such State total less than $50,000 for provisions directing the Secretary to issue regulations no later than ten days following May 2, 1975 pertaining to operations of the program during the months of May through Sept. 1975, with proviso that such regulations shall in no way differ from current regulations except for changes necessary to implement this chapter.
 
 Pub. L. 94–20, §1(b), added subsec. (k).
 

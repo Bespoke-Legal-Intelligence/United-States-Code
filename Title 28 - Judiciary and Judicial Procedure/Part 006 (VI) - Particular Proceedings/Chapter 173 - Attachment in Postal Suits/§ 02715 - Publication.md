@@ -12,5 +12,5 @@ The marshal shall cause publication of an executed warrant of attachment—
 
 #### Codification
 
-Section was derived from R.S. §929, which was originally classified to section 742 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. §929 was reclassified to section 842 of Title 39. R.S. §929 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised andenacted Title 39), and reenacted by section 9 thereof as section 2715 of this title.
+Section was derived from R.S. §929, which was originally classified to section 742 of former Title 28. Following the general revision and enactment of Title 28 by act June 25, 1948, R.S. §929 was reclassified to section 842 of Title 39. R.S. §929 was repealed by section 12(c) of Pub. L. 86–682 (section 1 of which revised and enacted Title 39), and reenacted by section 9 thereof as section 2715 of this title.
 

@@ -44,7 +44,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (2) Exception for certain transfers, etc., of hazardous substances
 
-&emsp;No amount in the Superfund or derived from the Superfund shall be available or used for the transfer or disposal of hazardous waste carried out pursuant to a cooperative agreement between the Administrator of the Environmental Protection Agency and a State if the following conditions apply—
+&emsp;No amount in the Superfund or derived from the Superfund shall be available or used forthe transfer or disposal of hazardous waste carried out pursuant to a cooperative agreement between the Administrator of the Environmental Protection Agency and a State if the following conditions apply—
 
 &emsp;&emsp;(A) the transfer or disposal, if made on December 13, 1985, would not comply with a State or local requirement,
 
@@ -84,7 +84,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in CERCLA or the Superfund Amendments and Reauthorization Act of 1986\(or in any amendment made by either of such Acts) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Superfund.
+&emsp;Nothing in CERCLA or the Superfund Amendments and Reauthorization Act of 1986 (or in any amendment made by either of such Acts) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Superfund.
 
 #### (3) Order in which unpaid claims are to be paid
 

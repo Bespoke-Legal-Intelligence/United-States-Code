@@ -24,7 +24,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §636\], Sept. 30, 1996
 
 “(a)
 
-Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
+Authority.—Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-halfthe costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
 
 “(b)
 

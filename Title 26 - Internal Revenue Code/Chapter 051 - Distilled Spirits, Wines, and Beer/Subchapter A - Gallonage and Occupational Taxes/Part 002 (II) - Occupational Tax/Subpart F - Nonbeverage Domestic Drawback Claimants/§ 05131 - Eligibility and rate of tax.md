@@ -8,7 +8,7 @@ Any person using distilled spirits on which the tax has been determined, in the 
 
 The special tax imposed by subsection (a) shall be $500 per year.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345; amended Pub. L. 94–455, title XIX,§1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, §10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345; amended Pub. L. 94–455, title XIX, §1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, §10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### Prior Provisions
 

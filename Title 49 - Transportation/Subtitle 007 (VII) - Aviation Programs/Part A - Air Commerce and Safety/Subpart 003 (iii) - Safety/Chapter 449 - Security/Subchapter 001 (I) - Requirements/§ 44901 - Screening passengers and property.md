@@ -90,7 +90,7 @@ In general.—The Under Secretary shall order the deployment of law enforcement 
 
 &emsp;(2)
 
-Minimum requirements.—Except at airports required to enter into agreements undersubsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
+Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
 (h)
 
@@ -180,7 +180,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;“(1) that have been issued, made, granted, or allowed to become effective by the Federal Aviation Administration, any officer or employee thereof, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
-&emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms untilmodified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
+&emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
 
 “(c)
 
@@ -248,7 +248,7 @@ Assignment of contracts.—
 
 &emsp;“(A)
 
-In general.—Upon request of the Under Secretary, an air carrier or foreign air carrier carrying out a screening or security function under chapter 449 of title 49, United States Code, may enter into an agreement with the Under Secretary to transfer any contract the carrier has entered into with respect to carrying out the function, before the Under Secretary assumes responsibility for the function.
+In general.—Upon request of the Under Secretary, an air carrier or foreign air carrier carryingout a screening or security function under chapter 449 of title 49, United States Code, may enter into an agreement with the Under Secretary to transfer any contract the carrier has entered into with respect to carrying out the function, before the Under Secretary assumes responsibility for the function.
 
 &emsp;“(B)
 
@@ -302,19 +302,7 @@ Pub. L. 104–264, title III, §307, Oct. 9, 1996, 110 Stat. 3253, provided that
 
 #### Authority To Use Certain Funds for Airport Security Programs and Activities
 
-Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, provided that:
-
-“(a)
-
-In General.—Notwithstanding any other provision of law, funds referred to in subsection (b) may be used for the improvement of facilities and the purchase and deployment of equipment to enhance and ensure the safety and security of passengers and other persons involved in air travel.
-
-“(b)
-
-Covered Funds.—The following funds may be used under subsection (a):
-
-&emsp;“(1) Project grants made under subchapter I of chapter 471 of title 49, United States Code.
-
-&emsp;“(2) Passenger facility fees collected under section 40117 of title 49, United States Code.”
+Pub. L. 104–264, title III, §308, Oct. 9, 1996, 110 Stat. 3253, which provided that funds from project grants made under subchapter I of chapter 471 of this title and passenger facility fees collected under section 40117 of this title could be used for the improvement of facilities and the purchase and deployment of equipment to enhance and ensure safe air travel, was repealed by Pub. L. 108–176, title I, §143, Dec. 12, 2003, 117 Stat. 2503.
 
 #### Installation and Use of Explosive Detection Equipment
 

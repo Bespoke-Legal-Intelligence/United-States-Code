@@ -6,7 +6,7 @@ It is the purpose of this chapter to implement the Convention for the Conservati
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title VIII of Pub. L. 102–567, which is classified generally to this chapter. For complete classification of title VIII to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title VIII of Pub. L. 102–567, whichis classified generally to this chapter. For complete classification of title VIII to the Code, see Short Title note below and Tables.
 
 #### Codification
 

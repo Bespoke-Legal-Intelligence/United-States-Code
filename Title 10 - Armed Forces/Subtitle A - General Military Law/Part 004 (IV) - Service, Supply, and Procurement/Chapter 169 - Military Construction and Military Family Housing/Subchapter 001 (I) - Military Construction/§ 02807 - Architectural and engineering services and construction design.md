@@ -2,15 +2,19 @@
 
 (a) Within amounts appropriated for military construction and military family housing, the Secretary concerned may obtain architectural and engineering services and may carry out construction design in connection with military construction projects, family housing projects, and projects undertaken in connection with the authority provided under section 2854 of this title that are not otherwise authorized by law. Amounts available for such purposes may be used for construction management of projects that are funded by foreign governments directly or through international organizations and for which elements of the armed forces of the United States are the primary user.
 
-(b) In the case of architectural and engineering services and construction design to be undertaken under subsection (a) for which the estimated cost exceeds $500,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services not less than 21 days before the initial obligation of funds for such services.
+(b) In the case of architectural and engineering services and construction design to be undertaken under subsection (a) for which the estimated cost exceeds $1,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 21-day period beginning on the date on which the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
-(c) If the Secretary concerned determines that the amount authorized for activities under subsection (a) in any fiscal year must be increased the Secretary may proceed with activities at such higher level (1) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of funds to be used for the increase, and (2) after a period of 21 days has elapsed from the date of receipt of the report.
+(c) If the Secretary concerned determines that the amount authorized for activities under subsection (a) in any fiscal year must be increased the Secretary may proceed with activities at such higher level (1) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of funds to be used for the increase, and (2) after a period of 21 days has elapsed from the date of receipt of the report or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (d) For architectural and engineering services and construction design related to military construction and family housing projects, the Secretaries of the military departments may incur obligations for contracts or portions of contracts using military construction and family housing appropriations from different fiscal years to the extent that those appropriations are available for obligation.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, §804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, §2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, §2801, Oct. 17, 1998, 112 Stat. 2202.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, §804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, §2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, §2801, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 108–136, div. A, title X, §1031(a)(37), Nov. 24, 2003, 117 Stat. 1601.)
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–136, §1031(a)(37)(A), substituted “$1,000,000” for “$500,000”, struck out “not less than 21 days” after “of such services”, and inserted last sentence.
+
+Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
 1998—Subsec. (b). Pub. L. 105–261, §2801(a), substituted “$500,000” for “$300,000”.
 
@@ -34,7 +38,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Architectural and Engineering Services and Construction Design Contracts for Military Construction Projects
 
-Pub. L. 98–212, title VII, §796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries forarchitectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. §541, et seq.”
+Pub. L. 98–212, title VII, §796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries for architectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. §541, et seq. \[now chapter 11 of Title 40, Public Buildings, Property, and Works.\]”
 
 #### Small Business Set-Aside for Architectural and Engineering Services and Construction Design
 

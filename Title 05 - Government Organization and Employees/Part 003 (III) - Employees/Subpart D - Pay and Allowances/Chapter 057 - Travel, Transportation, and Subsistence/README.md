@@ -115,7 +115,7 @@ Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3396, 5307, 9701 of this title; title 14 section 193; title 18 section 3168; title 22 section 3671; title 26 section 7471; title 42 section 5816; title 43 section 50d; title 49 section 106.
+This chapter is referred to in sections 3396, 5307, 9701, 9902 of this title; title 14 section 193; title 18 section 3168; title 22 section 3671; title 26 section 7471; title 42 section 5816; title 43 section 50d; title 49 section 106.
 
 
 ---

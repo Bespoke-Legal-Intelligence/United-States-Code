@@ -1,6 +1,6 @@
 ### §2803. Designation of major wine trading countries
 
-(a) The Trade Representative shall designate as a major wine trading country each foreign country, or group of foreign countries represented as an economic union, that, in the judgment of the Trade Representative—
+(a) The Trade Representative shall designate as a major wine trading country each foreigncountry, or group of foreign countries represented as an economic union, that, in the judgment of the Trade Representative—
 
 &emsp;(1) is a potential significant market for United States wine; and
 

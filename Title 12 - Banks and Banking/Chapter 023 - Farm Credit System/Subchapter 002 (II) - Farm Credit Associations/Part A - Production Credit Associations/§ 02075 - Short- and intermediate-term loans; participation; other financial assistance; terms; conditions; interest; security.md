@@ -36,7 +36,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (2) Setting of rates
 
-&emsp;In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
+&emsp;In setting rates and charges, it shall be the objective to provide the types of credit neededby eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
 
 #### (3) Varying rates
 

@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), each employer shall furnish to theDirectory of New Hires of the State in which a newly hired employee works, a report that contains the name, address, and social security number of the employee, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), each employer shall furnish to the Directory of New Hires of the State in which a newly hired employee works, a report that contains the name, address, and social security number of the employee, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
 
 #### (B) Multistate employers
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(A) not later than 20 days after the date the employer hires the employee; or
 
-&emsp;&emsp;(B) in the case of an employer transmitting reports magnetically or electronically, by 2 monthly transmissions (if necessary) not less than 12 days nor more than 16 days apart.
+&emsp;&emsp;(B) in the case of an employer transmitting reports magnetically or electronically, by 2 monthly transmissions (if necessary)not less than 12 days nor more than 16 days apart.
 
 #### (c) Reporting format and method
 
@@ -128,7 +128,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 1997—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
 
-Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
+Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports requiredunder section 503(a)(6) of this title to be made to the Secretary of Labor”.
 
 #### Effective Date of 1997 Amendment
 

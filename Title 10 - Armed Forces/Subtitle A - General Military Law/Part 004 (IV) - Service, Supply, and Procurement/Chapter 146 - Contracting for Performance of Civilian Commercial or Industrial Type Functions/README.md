@@ -13,7 +13,7 @@
 | [2467\.](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md) | Cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison. |
 | \[2468. | Repealed.\] |
 | [2469\.](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md) | Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition. |
-| [2469a.](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md) | Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at certain military installations. |
+| \[2469a. | Repealed.\] |
 | [2470\.](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md) | Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies. |
 | \[2471. | Repealed.\] |
 | [2472\.](%C2%A7%2002472%20-%20Management%20of%20depot%20employees.md) | Management of depot employees. |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title III, §333(b), Dec. 2, 2002, 116 Stat. 2514, struck out item 2469a “Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at certain military installations”.
 
 2001—Pub. L. 107–107, div. A, title X, §1048(e)(10)(B), Dec. 28, 2001, 115 Stat. 1228, struck out item 2468 “Military installations: authority of base commanders over contracting for commercial activities”.
 
@@ -65,7 +67,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02467 - Cost comparisons inclusion of retirement costs; consultation with employees; waiver of comparison](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md)
 - [&sect; 02468 - Repealed. Pub. L. 107&#8211;107, div. A, title X, &sect;1048(e)(10)(A), Dec. 28, 2001, 115 Stat. 1228](%C2%A7%2002468%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71048%28e%29%2810%29%28A%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201228.md)
 - [&sect; 02469 - Contracts to perform workloads previously performed by depot-level activities of the Department of Defense requirement of competition](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md)
-- [&sect; 02469a - Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at&#8230;](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md)
+- [&sect; 02469a - Repealed. Pub. L. 107&#8211;314, div. A, title III, &sect;333(a), Dec. 2, 2002, 116 Stat. 2514](%C2%A7%2002469a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7333%28a%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202514.md)
 - [&sect; 02470 - Depot-level activities of the Department of Defense authority to compete for maintenance and repair workloads of other Federal agencies](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md)
 - [&sect; 02471 - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title III, &sect;341(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;64](%C2%A7%2002471%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20III%2C%20%C2%A7341%28g%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%9364.md)
 - [&sect; 02472 - Management of depot employees](%C2%A7%2002472%20-%20Management%20of%20depot%20employees.md)

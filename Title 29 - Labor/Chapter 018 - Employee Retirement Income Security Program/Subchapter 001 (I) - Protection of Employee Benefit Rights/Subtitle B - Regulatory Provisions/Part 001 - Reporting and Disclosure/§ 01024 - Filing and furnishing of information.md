@@ -6,9 +6,9 @@
 
 (2)(A) With respect to annual reports required to be filed with the Secretary under this part, he may by regulation prescribe simplified annual reports for any pension plan which covers less than 100 participants.
 
-(B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes ofthis subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
+(B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
 
-(3) The Secretary may by regulation exempt any welfare benefit plan from all or part of the reporting and disclosure requirements of this subchapter, or may provide for simplified reporting and disclosure if he finds that such requirements are inappropriate as applied to welfare benefit plans.
+(3) The Secretary may by regulation exempt any welfare benefit plan from all or part of the reporting and disclosure requirements of thissubchapter, or may provide for simplified reporting and disclosure if he finds that such requirements are inappropriate as applied to welfare benefit plans.
 
 (4) The Secretary may reject any filing under this section—
 

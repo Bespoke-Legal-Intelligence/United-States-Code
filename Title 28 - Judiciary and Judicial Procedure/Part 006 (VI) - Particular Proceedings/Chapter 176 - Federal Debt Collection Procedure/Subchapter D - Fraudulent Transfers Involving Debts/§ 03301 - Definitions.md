@@ -78,7 +78,7 @@ As used in this subchapter:
 
 &emsp;(5) <sup>3</sup> “Relative” means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
 
-&emsp;(6) <sup>4</sup> “Transfer” means every mode, direct or indirect, absolute or conditional, voluntary orinvoluntary, of disposing of or parting with an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.
+&emsp;(6) <sup>4</sup> “Transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.
 
 &emsp;(7) <sup>5</sup> “Valid lien” means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
 

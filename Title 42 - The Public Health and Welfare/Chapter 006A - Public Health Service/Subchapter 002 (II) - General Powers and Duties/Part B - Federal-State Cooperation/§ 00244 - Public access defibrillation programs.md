@@ -36,9 +36,11 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 &emsp;(4) provide information to the local emergency medical services system regarding the placement of automated external defibrillators in public places;
 
-&emsp;(5) produce materials to encourage private companies, including small businesses, to purchase automated external defibrillators; and
+&emsp;(5) produce materials to encourage private companies, including small businesses, to purchase automated external defibrillators;
 
-&emsp;(6) further develop strategies to improve access to automated external defibrillators in public places.
+&emsp;(6) establish an information clearinghouse that provides information to increase public access to defibrillation in schools; and
+
+&emsp;(7) further develop strategies to improve access to automated external defibrillators in public places.
 
 #### (d) Application
 
@@ -50,7 +52,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 &emsp;An application submitted under paragraph (1) shall—
 
-&emsp;&emsp;(A) describe the comprehensive public access defibrillation program to be funded with the grant and demonstrate how such program would make automated external defibrillation accessible and available to cardiac arrest victims in the community;
+&emsp;&emsp;(A) describe the comprehensive public access defibrillation program to be funded with the grant and demonstrate how such program would make automated externaldefibrillation accessible and available to cardiac arrest victims in the community;
 
 &emsp;&emsp;(B) contain procedures for implementing appropriate nationally recognized training courses in performing cardiopulmonary resuscitation and the use of automated external defibrillators;
 
@@ -66,13 +68,17 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 For the purpose of carrying out this section, there are authorized to be appropriated $25,000,000 for fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006. Not more than 10 percent of amounts received under a grant awarded under this section may be used for administrative expenses.
 
-(July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634.)
+(July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634; amended Pub. L. 108–41, §2, July 1, 2003, 117 Stat. 839.)
 
 #### Prior Provisions
 
 A prior section 244, acts July 1, 1944, ch. 373, title III, §312, 58 Stat. 693; July 3, 1946, ch. 538, §8, 60 Stat. 424; Dec. 5, 1967, Pub. L. 90–174, §12(b), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for health conferences, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242<i>o</i>(a) of this title.
 
 A prior section 312 of act July 1, 1944, was classified to section 244–1 of this title prior to repeal by Pub. L. 94–484.
+
+#### Amendments
+
+2003—Subsec. (c)(6), (7). Pub. L. 108–41 added par. (6) and redesignated former par. (6) as (7).
 
 #### Findings
 

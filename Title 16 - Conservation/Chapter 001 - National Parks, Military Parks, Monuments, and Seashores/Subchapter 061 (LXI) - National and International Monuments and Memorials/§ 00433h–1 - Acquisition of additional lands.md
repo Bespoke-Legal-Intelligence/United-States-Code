@@ -1,10 +1,10 @@
 ### §433h–1. Acquisition of additional lands
 
-The Secretary of the Interior is authorized and directed to acquire by purchase, condemnation, or otherwise, subject to the acreage limitation contained in section 433g of this title, the site known as the Bloody Marsh Battle memorial monument located on Saint Simon Island, Georgia, together with such additional land, including the marshland across the river to the west of Fort Frederica National Monument, or interest in land, as in the judgment of the Secretary of the Interior might be desirable for the protection of such national monument. Such lands or interest in lands acquired by the Secretary pursuant to this section shall be made a part of the Fort Frederica National Monument.
+The Secretary of the Interior is authorized and directed to acquire by purchase, condemnation, or otherwise, subject to the acreage limitation contained in section 433g of this title, the siteknown as the Bloody Marsh Battle memorial monument located on Saint Simon Island, Georgia, together with such additional land, including the marshland across the river to the west of Fort Frederica National Monument, or interest in land, as in the judgment of the Secretary of the Interior might be desirable for the protection of such national monument. Such lands or interest in lands acquired by the Secretary pursuant to this section shall be made a part of the Fort Frederica National Monument.
 
 (Pub. L. 85–401, §2, May 16, 1958, 72 Stat. 110.)
 
 #### Appropriations
 
-Section 3 of Pub. L. 85–401 provided that: “There are hereby authorized to be appropriated, out of any moneyin the Treasury not otherwise appropriated, such amounts, not to exceed $20,000, as may be necessary to carry out the provisions of this Act \[this section\].”
+Section 3 of Pub. L. 85–401 provided that: “There are hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such amounts, not to exceed $20,000, as may be necessary to carry out the provisions of this Act \[this section\].”
 

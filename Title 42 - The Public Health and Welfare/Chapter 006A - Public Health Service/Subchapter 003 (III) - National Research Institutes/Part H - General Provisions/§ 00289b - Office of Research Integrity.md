@@ -54,7 +54,7 @@ The Secretary shall by regulation establish procedures for the Director to monit
 
 #### (2) Monitoring by Secretary
 
-&emsp;The Secretary shall by regulation establish procedures for the Director to monitor the implementation of the standards established by an entity under paragraph (1) for the purpose of determining whether the procedures have been established, and are being utilized, in accordance with the standards established under such paragraph.
+&emsp;The Secretary shall by regulation establish procedures for the Director to monitor the implementation of the standards established by an entity under paragraph (1) for the purposeof determining whether the procedures have been established, and are being utilized, in accordance with the standards established under such paragraph.
 
 #### (3) Noncompliance
 

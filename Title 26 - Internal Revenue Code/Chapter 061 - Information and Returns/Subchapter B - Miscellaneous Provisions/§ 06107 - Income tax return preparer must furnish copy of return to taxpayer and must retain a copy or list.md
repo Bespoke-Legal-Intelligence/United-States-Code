@@ -14,7 +14,7 @@ Any person who is an income tax return preparer with respect to a return or clai
 
 #### (c) Regulations
 
-The Secretary shall prescribe regulations under which, in cases where 2 or more persons are income tax return preparers with respect to the same return or claim for refund, compliance with the requirements of subsection (a) or (b), as the case may be, of one such person shall be deemed to be compliance with the requirements of such subsection by the other persons.
+The Secretary shall prescribe regulations under which, in cases where 2 or more personsare income tax return preparers with respect to the same return or claim for refund, compliance with the requirements of subsection (a) or (b), as the case may be, of one such person shall be deemed to be compliance with the requirements of such subsection by the other persons.
 
 #### (d) Definitions
 

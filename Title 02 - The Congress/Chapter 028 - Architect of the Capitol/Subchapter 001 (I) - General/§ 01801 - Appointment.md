@@ -16,7 +16,7 @@
 
 (3) An individual appointed Architect of the Capitol under paragraph (1) shall be eligible for reappointment to such office.
 
-(b) Subsection (a) of this section shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitolwhich occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a) of this section.
+(b) Subsection (a) of this section shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a) of this section.
 
 (Pub. L. 101–163, title III, §319, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 104–19, title I, §701, July 27, 1995, 109 Stat. 220.)
 
@@ -32,13 +32,13 @@ Act Mar. 2, 1867, ch. 167, §2, 14 Stat. 466, abolished office of Commissioner o
 
 Act Sept. 30, 1850, ch. 90, §1, 9 Stat. 538, made appropriation for “the extension of the Capitol” according to the plan as might be approved by the President, to be expended under his direction, “by such architect as he may appoint to execute the same.” Subsequent acts frequently referred to the Architect of the Capitol or to the Architect of the Capitol Extension.
 
-Act Mar. 3, 1829, ch. 151, §2, 4 Stat. 363, authorized President to continue office of Architect of the Capitol long enough to complete work in progress.
+Act Mar. 3, 1829, ch. 51, §2, 4 Stat. 363, authorized President to continue office of Architect of the Capitol long enough to complete work in progress.
 
 Act May 2, 1828, ch. 45, §3, 4 Stat. 266, abolished office of Architect of the Capitol. The duties of that office were transferred to Commissioner of Public Buildings and Grounds, appointed by President under act April 29, 1816, ch. 150, §2, 3 Stat. 324, to succeed a previously existing board of three commissioners of Public Buildings and Grounds.
 
 #### Amendments
 
-1995—Subsec. (a)(2). Pub. L. 104–19, §701(1), (2), substituted “office” for “Office” in first sentence and “commission” for “Commission” in introductory provisions in second sentence.
+<b>1995</b>—Subsec. (a)(2). Pub. L. 104–19, §701(1), (2), substituted “office” for “Office” in first sentence and “commission” for “Commission” in introductory provisions in second sentence.
 
 Subsec. (a)(2)(D). Pub. L. 104–19, §701(3), substituted “Oversight of the House of Representatives, the Committee on Rules and Administration of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “Administration of the House of Representatives and the Committee on Rules and Administration of the Senate”.
 
@@ -66,19 +66,5 @@ Plan by architect in response.—After the Comptroller General submits the study
 
 #### Accounting and Financial Management System
 
-Pub. L. 107–68, title I, §132, Nov. 12, 2001, 115 Stat. 581, provided that: “The Architect of the Capitol shall develop and maintain an accounting and financial management system, including financial reporting and internal controls, which—
-
-&emsp;“(1) complies with applicable federal accounting principles, standards, and requirements, and internal control standards;
-
-&emsp;“(2) complies with any other requirements applicable to such systems; and
-
-&emsp;“(3) provides for—
-
-&emsp;&emsp;“(A) complete, reliable, consistent, and timely information which is prepared on a uniform basis and which is responsive to financial information needs of the Architect of the Capitol;
-
-&emsp;&emsp;“(B) the development and reporting of cost information;
-
-&emsp;&emsp;“(C) the integration of accounting and budgeting information; and
-
-&emsp;&emsp;“(D) the systematic measurement of performance.”
+Pub. L. 107–68, title I, §132, Nov. 12, 2001, 115 Stat. 581, which directed the Architect of the Capitol to develop and maintain an accounting and financial management system, including financial reporting and internal controls, was from the Legislative Branch Appropriations Act, 2002.
 

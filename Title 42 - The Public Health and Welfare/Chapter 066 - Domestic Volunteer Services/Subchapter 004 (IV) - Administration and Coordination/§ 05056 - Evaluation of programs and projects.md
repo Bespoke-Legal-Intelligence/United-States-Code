@@ -24,7 +24,7 @@ The Director shall take the necessary action to assure that all studies, evaluat
 
 Not later than December 31, 1988, the Director shall—
 
-&emsp;(1) evaluate the impact of Corporation programs carried out under subchapter II of thischapter that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
+&emsp;(1) evaluate the impact of Corporation programs carried out under subchapter II of this chapter that relate to services that assist families caring for frail and disabled adult family members and shall include in such evaluation information on—
 
 &emsp;&emsp;(A) the range and extent of service needs of, and the services provided to, family caregivers assisted by volunteers;
 

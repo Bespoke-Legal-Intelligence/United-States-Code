@@ -4,7 +4,7 @@
 
 (1) Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
 
-(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the NorthernMariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
+(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
 (B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
@@ -22,7 +22,7 @@ In accordance with regulations promulgated under this part, a portion of any all
 
 In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under section 5633(a)(3) of this title.
 
-(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
+(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50,2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
 
 #### Amendments
 
@@ -68,7 +68,7 @@ Subsec. (e). Pub. L. 95–115, §4(b)(4)(A), (B), added subsec. (e) and redesign
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1988 Amendment
 

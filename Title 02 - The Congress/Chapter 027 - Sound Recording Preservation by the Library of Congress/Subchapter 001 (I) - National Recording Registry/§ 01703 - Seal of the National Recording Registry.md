@@ -18,7 +18,7 @@ The Librarian shall establish guidelines for approval of the use of the seal pro
 
 #### (c) Effective date of the seal
 
-The use of the seal provided under subsection (a) of this section with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register\(in accordance with section 1702(b) of this title) the name of the recording, as selected for inclusion in the National Recording Registry.
+The use of the seal provided under subsection (a) of this section with respect to a sound recording shall be effective beginning on the date the Librarian publishes in the Federal Register (in accordance with section 1702(b) of this title) the name of the recording, as selected for inclusion in the National Recording Registry.
 
 #### (d) Prohibited uses of the seal
 
@@ -38,7 +38,7 @@ The use of the seal provided under subsection (a) of this section with respect t
 
 #### (1) Jurisdiction
 
-&emsp;The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d) of this section.
+&emsp;The several district courts of the United States shall have jurisdiction, for causeshown, to prevent and restrain violations of subsection (d) of this section.
 
 #### (2) Relief
 

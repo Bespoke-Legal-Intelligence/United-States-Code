@@ -42,7 +42,7 @@ Activities supported by grants under this section may include—
 
 &emsp;&emsp;(A) the evidence of past success in implementing undergraduate education reform and the likelihood of success in undertaking the proposed expanded effort;
 
-&emsp;&emsp;(B) the extent to which the faculty, staff, and administrators of the institution arecommitted to making the proposed institutional reform a priority of the participating academic unit;
+&emsp;&emsp;(B) the extent to which the faculty, staff, and administrators of the institution are committed to making the proposed institutional reform a priority of the participating academic unit;
 
 &emsp;&emsp;(C) the degree to which the proposed reform will contribute to change in institutional culture and policy such that a greater value is placed on faculty engagement in undergraduate education, as evidenced through promotion and tenure policies; and
 

@@ -140,7 +140,7 @@ For purposes of this subchapter:
 
 &emsp;The term “uncovered child” means a child that does not have creditable health coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582.)
+(Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(d)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582.)
 
 #### Amendments
 

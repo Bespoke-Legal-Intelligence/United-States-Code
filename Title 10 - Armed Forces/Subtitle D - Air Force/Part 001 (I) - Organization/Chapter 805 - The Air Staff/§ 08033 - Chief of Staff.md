@@ -122,7 +122,7 @@ A prior section 8033 was renumbered section 10305 of this title.
 
 1981—Subsec. (b). Pub. L. 97–22 struck out the comma after “his regular or reserve grade”.
 
-1980—Subsec. (b). Pub. L. 96–513 struck out “and is counted as one of the officers authorized to serve in agrade above lieutenant general under section 8066 of this title” after “without vacating his regular or reserve grade”.
+1980—Subsec. (b). Pub. L. 96–513 struck out “and is counted as one of the officers authorized to serve in a grade above lieutenant general under section 8066 of this title” after “without vacating his regular or reserve grade”.
 
 1967—Subsec. (a). Pub. L. 90–22 changed the requirement that the Chief of Staff be reappointed only with the advice and consent of the Senate by providing for his reappointment for a term of not more than four years by the President without such advice and consent in a time of war or national emergency as declared by the Congress.
 

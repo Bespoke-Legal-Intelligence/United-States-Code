@@ -106,7 +106,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(H) develop standards and procedures for regional and national comparisons;
 
-&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9622 of this title consistent with the provisions of this section and section 9622 of this title; and
+&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized bysection 9622 of this title consistent with the provisions of this section and section 9622 of this title; and
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 
@@ -130,7 +130,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (6) Report
 
-&emsp;Not later than 90 days after an evaluation of the student achievement levels under section 9622(e) of this title, the Assessment Board shall make a report to the Secretary, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate describing the steps the Assessment Board is taking to respond to eachof the recommendations contained in such evaluation.
+&emsp;Not later than 90 days after an evaluation of the student achievement levels under section 9622(e) of this title, the Assessment Board shall make a report to the Secretary, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate describing the steps the Assessment Board is taking to respond to each of the recommendations contained in such evaluation.
 
 #### (f) Personnel
 

@@ -110,7 +110,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (6) Conservation requirements
 
-&emsp;If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in the area, except that the requirements may not be more onerous than the requirements imposed on other land.
+&emsp;If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar land in thearea, except that the requirements may not be more onerous than the requirements imposed on other land.
 
 (Pub. L. 99–198, title XII, §1235, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 249.)
 

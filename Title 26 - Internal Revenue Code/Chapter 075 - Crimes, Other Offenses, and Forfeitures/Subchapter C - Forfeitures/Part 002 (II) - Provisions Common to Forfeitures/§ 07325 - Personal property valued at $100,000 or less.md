@@ -8,7 +8,7 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 
 #### (2) Notice of seizure
 
-&emsp;If such goods are found by such appraisers to be of the value of $100,000 or less, the Secretary shall publish a notice for 3 weeks, in some newspaper of the district where the seizure was made, describing the articles and stating the time, place, and cause of their seizure, and requiring any person claiming them to appear and make such claim within 30 days from the date of the first publication of such notice.
+&emsp;If such goods are found by such appraisers to be of the value of $100,000 or less, the Secretary shall publish a notice for 3 weeks, in some newspaper of the district where the seizure was made, describing the articles andstating the time, place, and cause of their seizure, and requiring any person claiming them to appear and make such claim within 30 days from the date of the first publication of such notice.
 
 #### (3) Execution of bond by claimant
 

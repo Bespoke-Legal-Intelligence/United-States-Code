@@ -22,13 +22,13 @@ General Authority.—In carrying out this chapter, the Secretary of Transportati
 
 &emsp;(9) include in an agreement or instrument under this chapter a covenant or term the Secretary of Transportation considers necessary to carry out this chapter; and
 
-&emsp;(10) collect fees to cover the costs of training or conferences, including costs of promotionalmaterials, sponsored by the Federal Transit Administration to promote mass transportation and credit amounts collected to the appropriation concerned.
+&emsp;(10) collect fees to cover the costs of training or conferences, including costs of promotional materials, sponsored by the Federal Transit Administration to promote mass transportation and credit amounts collected to the appropriation concerned.
 
 (b)
 
 Procedures for Prescribing Regulations.—(1) The Secretary of Transportation shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary's semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate on the day the agenda is published.
 
-(2) Except for emergency regulations, the Secretary of Transportation shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
+(2) Except for emergency regulations, the Secretary of Transportation shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, exceptwhen the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
 
 (3) An emergency regulation ends 120 days after it is issued.
 
@@ -198,7 +198,7 @@ In subsection (c), before clause (1), the words “In the performance of, and wi
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words “such . . . as the making of loans” are omitted as surplus. The words “under this chapter” are added for clarity. The word “related” is substituted for “in connection with such financial transactions” to eliminate unnecessary words. The words “approved by the Secretary” are omitted as surplus. The word “binding” is substituted for “final and conclusive” to eliminate unnecessary words. The words“and employees” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (e), the words “such . . . as the making of loans” are omitted as surplus. The words “under this chapter” are added for clarity. The word “related” is substituted for “in connection with such financial transactions” to eliminate unnecessary words. The words “approved by the Secretary” are omitted as surplus. The word “binding” is substituted for “final and conclusive” to eliminate unnecessary words. The words “and employees” are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (f), before clause (1), the words “in any way” are substituted for “complete, administer, remodel and convert, dispose of, lease and otherwise” to eliminate unnecessary words. In clause (1), the words “civil or criminal” are omitted as surplus. In clause (2), the words “political subdivision of a State” are substituted for “local” for consistency.
 

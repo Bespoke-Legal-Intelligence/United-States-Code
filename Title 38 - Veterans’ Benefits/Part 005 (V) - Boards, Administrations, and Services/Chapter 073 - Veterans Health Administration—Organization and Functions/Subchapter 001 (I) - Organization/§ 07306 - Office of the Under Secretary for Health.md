@@ -92,5 +92,5 @@ Pub. L. 102–405, §302(c)(1), substituted “Under Secretary for Health” for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7314, 7401, 7404, 7405, 7408, 7424, 7425, 8107 of this title.
+This section is referred to in sections 7314, 7401, 7404, 7405, 7408, 7424, 7425 of this title.
 

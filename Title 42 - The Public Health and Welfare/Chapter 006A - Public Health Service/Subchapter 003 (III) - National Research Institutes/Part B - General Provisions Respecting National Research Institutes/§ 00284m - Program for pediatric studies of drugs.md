@@ -82,13 +82,13 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 #### (8) Dispute resolution
 
-#### (A) Referral to Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee
+#### (A) Referral to Pediatric Advisory Committee
 
-&emsp;&emsp;If, not later than the end of the 180-day period specified in paragraph (7), the holder ofan approved application for the drug involved does not agree to any labeling change requested by the Commissioner of Food and Drugs under that paragraph, the Commissioner of Food and Drugs shall refer the request to the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee.
+&emsp;&emsp;If, not later than the end of the 180-day period specified in paragraph (7), the holder of an approved application for the drug involved does not agree to any labeling change requested by the Commissioner of Food and Drugs under that paragraph, the Commissioner of Food and Drugs shall refer the request to the Pediatric Advisory Committee.
 
-#### (B) Action by the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee
+#### (B) Action by the Pediatric Advisory Committee
 
-&emsp;&emsp;Not later than 90 days after receiving a referral under subparagraph (A), the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee shall—
+&emsp;&emsp;Not later than 90 days after receiving a referral under subparagraph (A), the Pediatric Advisory Committee shall—
 
 &emsp;&emsp;&emsp;(i) review the available information on the safe and effective use of the drug in the pediatric population, including study reports submitted under this section; and
 
@@ -96,7 +96,7 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 #### (9) FDA determination
 
-&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to make any labeling change that the Commissioner of Food and Drugs determines to be appropriate.
+&emsp;Not later than 30 days after receiving a recommendation from the Pediatric Advisory Committee under paragraph (8)(B)(ii) with respect to a drug, the Commissioner of Food and Drugs shall consider the recommendation and, if appropriate, make a request to the holders of approved applications for the drug to makeany labeling change that the Commissioner of Food and Drugs determines to be appropriate.
 
 #### (10) Failure to agree
 
@@ -104,7 +104,7 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 #### (11) No effect on authority
 
-&emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
+&emsp;Nothing in this subsection limits the authority of the United States to bring an enforcement action under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] when a drug lacks appropriate pediatric labeling. Neither course of action (the Pediatric Advisory Committee process or an enforcement action referred to in the preceding sentence) shall preclude, delay, or serve as the basis to stay the other course of action.
 
 #### (12) Recommendation for formulation changes
 
@@ -124,19 +124,27 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942.)
 
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1)(A)(iii) and (c)(10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-#### Pediatric Pharmacology Advisory Committee
+#### Amendments
 
-Pub. L. 107–109, §14, Jan. 4, 2002, 115 Stat. 1419, provided that:
+2003—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of Title 21, Food and Drugs.
+
+#### Pediatric Advisory Committee
+
+Pub. L. 107–109, §14, Jan. 4, 2002, 115 Stat. 1419, as amended by Pub. L. 108–155, §3(b)(2), Dec. 3, 2003, 117 Stat. 1941, provided that:
 
 “(a)
 
-In General.—The Secretary of Health and Human Services shall, under section 222 of the Public Health Service Act (42 U.S.C. 217a), convene and consult an advisory committee on pediatric pharmacology (referred to in this section as the ‘advisory committee’).
+In General.—The Secretary of Health and Human Services shall, under section 222 of the Public Health Service Act (42 U.S.C. 217a) or other appropriate authority, convene and consult an advisory committee on pediatric therapeutics (referred to in this section as the ‘advisory committee’).
 
 “(b)
 
@@ -144,17 +152,17 @@ Purpose.—
 
 &emsp;“(1)
 
-In general.—The advisory committee shall advise and make recommendations to the Secretary, through the Commissioner of Food and Drugs and in consultation with the Director of the National Institutes of Health, on matters relating to pediatric pharmacology.
+In general.—The advisory committee shall advise and make recommendations to the Secretary, through the Commissioner of Food and Drugs, on matters relating to pediatric therapeutics.
 
 &emsp;“(2)
 
 Matters included.—The matters referred to in paragraph (1) include—
 
-&emsp;&emsp;“(A) pediatric research conducted under sections 351, 409I, and 499 of the Public Health Service Act \[sections 262, 284m, and 290b of this title\] and sections 501, 502, 505, and 505A of the Federal Food, Drug, and Cosmetic Act \[sections 351, 352, 355, and 355a of Title 21, Food and Drugs\];
+&emsp;&emsp;“(A) pediatric research conducted under sections 351, 409I, and 499 of the Public Health Service Act \[sections 262, 284m, and 290b of this title\] and sections 501, 502, 505, 505A, and 505B of the Federal Food, Drug, and Cosmetic Act \[sections 351, 352, 355, 355a, and 355c of Title 21, Food and Drugs\];
 
-&emsp;&emsp;“(B) identification of research priorities related to pediatric pharmacology and the need for additional treatments of specific pediatric diseases or conditions; and
+&emsp;&emsp;“(B) identification of research priorities related to pediatric therapeutics and the need for additional treatments of specific pediatric diseases or conditions; and
 
-&emsp;&emsp;“(C) the ethics, design, and analysis of clinical trials related to pediatric pharmacology.
+&emsp;&emsp;“(C) the ethics, design, and analysis of clinical trials related to pediatric therapeutics.
 
 “(c)
 
@@ -162,5 +170,5 @@ Composition.—The advisory committee shall include representatives of pediatric
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 290b of this title; title 21 section 355a.
+This section is referred to in section 290b of this title; title 21 sections 355a, 355c.
 

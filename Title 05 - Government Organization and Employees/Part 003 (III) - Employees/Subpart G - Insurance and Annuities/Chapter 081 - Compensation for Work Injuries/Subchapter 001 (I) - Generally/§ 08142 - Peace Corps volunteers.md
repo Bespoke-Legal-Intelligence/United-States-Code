@@ -68,7 +68,7 @@ Section 8142 of title 5 was derived from section 2504(d) of title 22. This amend
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring on or after such effective date, see section 23(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring onor after such effective date, see section 23(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 #### Section Referred to in Other Sections
 

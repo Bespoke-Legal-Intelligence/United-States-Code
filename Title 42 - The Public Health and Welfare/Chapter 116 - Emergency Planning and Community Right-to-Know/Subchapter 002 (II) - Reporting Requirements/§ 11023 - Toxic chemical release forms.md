@@ -2,7 +2,7 @@
 
 #### (a) Basic requirement
 
-The owner or operator of a facility subject to the requirements of this section shall complete a toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
+The owner or operator of a facility subject to the requirements of this section shall completea toxic chemical release form as published under subsection (g) of this section for each toxic chemical listed under subsection (c) of this section that was manufactured, processed, or otherwise used in quantities exceeding the toxic chemical threshold quantity established by subsection (f) of this section during the preceding calendar year at such facility. Such form shall be submitted to the Administrator and to an official or officials of the State designated by the Governor on or before July 1, 1988, and annually thereafter on July 1 and shall contain data reflecting releases during the preceding calendar year.
 
 #### (b) Covered owners and operators of facilities
 
@@ -10,7 +10,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 &emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
 
-&emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to theextent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
+&emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
 
 &emsp;(C) For purposes of this section—
 
@@ -74,7 +74,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (4) Effective date
 
-&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 of the next calender year shall take effect beginning with the calendar year following such next calendar year.
+&emsp;Any revision made on or after January 1 and before December 1 of any calendar year shall take effect beginning with the next calendar year. Any revision made on or after December 1 of any calendar year and before January 1 ofthe next calender year shall take effect beginning with the calendar year following such next calendar year.
 
 #### (e) Petitions
 
@@ -88,7 +88,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Governor petitions
 
-&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 daysafter receipt of the petition, unless the Administrator—
+&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
 
 &emsp;&emsp;(A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
 
@@ -232,7 +232,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (3) Information collection
 
-&emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from suchStates provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
+&emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
 
 &emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 

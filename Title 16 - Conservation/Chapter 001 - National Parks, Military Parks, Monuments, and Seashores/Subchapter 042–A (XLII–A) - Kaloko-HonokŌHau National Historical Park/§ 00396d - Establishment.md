@@ -2,7 +2,11 @@
 
 #### (a) In general
 
-In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and cultureby local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978.
+
+(2) The boundaries of the park are modified to include lands and interests therein comprised of Parcels 1 and 2 totaling 2.14 acres, identified as “Tract A” on the map entitled “Kaloko-Honokōhau National Historical Park Proposed Boundary Adjustment”, numbered PWR (PISO) 466/82,043 and dated April 2002.
+
+(3) The maps referred to in this subsection shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (b) Land acquisition; manner
 
@@ -28,7 +32,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 #### (f) Advisory Commission; establishment; membership; qualifications; term; Chairman; vacancies; compensation and expenses; ex officio members; duties; meetings; termination
 
-(1) There is hereby established the Na Hoa Pili O Kaloko-Honokōhau (The Friends of Kaloko-Honokōhau), an Advisory Commission for the park. The Commission shall be composed of ninemembers, appointed by the Secretary, at least five of whom shall be selected from nominations provided by native Hawaiian organizations. All members of the Commission shall be residents of the State of Hawaii, and at least six members shall be native Hawaiians. Members of the Commission shall be appointed for five-year terms except that initial appointment(s) shall consist of two members appointed for a term of five years, two for a term of four years, two for a term of three years, two for a term of two years, and one for a term of one year. No member may serve more than one term consecutively.
+(1) There is hereby established the Na Hoa Pili O Kaloko-Honokōhau (The Friends of Kaloko-Honokōhau), an Advisory Commission for the park. The Commission shall be composed of nine members, appointed by the Secretary, at least five of whom shall be selected from nominations provided by native Hawaiian organizations. All members of the Commission shall be residents of the State of Hawaii, and at least six members shall be native Hawaiians. Members of the Commission shall be appointed for five-year terms except that initial appointment(s) shall consist of two members appointed for a term of five years, two for a term of four years, two for a term of three years, two for a term of two years, and one for a term of one year. No member may serve more than one term consecutively.
 
 (2) The Secretary shall designate one member of the Commission to be Chairman. Any vacancy in the Commission shall be filled by appointment for the remainder of the term.
 
@@ -46,7 +50,7 @@ In carrying out the purposes of this section the Secretary is authorized and dir
 
 There are hereby authorized to be appropriated not to exceed $25,000,000 for acquisition and $1,000,000 for development.
 
-(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V, §503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363.)
+(Pub. L. 95–625, title V, §505, Nov. 10, 1978, 92 Stat. 3499; Pub. L. 96–87, title IV, §401(i), Oct. 12, 1979, 93 Stat. 666; Pub. L. 104–333, div. I, title V, §503(b), Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–510, §3(c)(1), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 108–142, §2, Dec. 2, 2003, 117 Stat. 1875.)
 
 #### References in Text
 
@@ -55,6 +59,8 @@ Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the or
 The date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996, referred to in subsec. (f)(7), probably means the date of enactment of the Omnibus Parks and Public Lands Management Act of 1996, Pub. L. 104–333, which was approved Nov. 12, 1996. No act named the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996 has been enacted. Section 503 of title V of div. I of Pub. L. 104–333, which amended this section and enacted provisions set out as a note below, relates to extension of Kaloko-Honokōhau Advisory Commission.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.”, and added pars. (2) and (3).
 
 2000—Pub. L. 106–510, §3(c)(1)(A), amended section catchline.
 
@@ -67,6 +73,10 @@ Subsecs. (a), (c), (f)(1), (7). Pub. L. 106–510, §3(c)(1)(B), substituted “
 #### Change of Name
 
 Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Kaloko-Honokohau National Historical Park’ shall be considered a reference to ‘Kaloko-Honokōhau National Historical Park’.”
+
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–142, §1, Dec. 2, 2003, 117 Stat. 1875, provided that: “This Act \[amending this section\] may be cited as the ‘Kaloko-Honokōhau National Historical Park Addition Act of 2003’.”
 
 #### Extension of Kaloko-Honokōhau Advisory Commission
 

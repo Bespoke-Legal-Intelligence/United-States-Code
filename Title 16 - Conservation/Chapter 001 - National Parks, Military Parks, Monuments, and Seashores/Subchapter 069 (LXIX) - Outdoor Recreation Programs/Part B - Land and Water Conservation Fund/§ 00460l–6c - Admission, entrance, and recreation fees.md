@@ -22,7 +22,7 @@ As used in this section:
 
 #### (3) Campground
 
-&emsp;The term “campground” means any campground where a majority of the followingamenities are provided, as determined by the Secretary:
+&emsp;The term “campground” means any campground where a majority of the following amenities are provided, as determined by the Secretary:
 
 &emsp;&emsp;(A) Tent or trailer spaces.
 

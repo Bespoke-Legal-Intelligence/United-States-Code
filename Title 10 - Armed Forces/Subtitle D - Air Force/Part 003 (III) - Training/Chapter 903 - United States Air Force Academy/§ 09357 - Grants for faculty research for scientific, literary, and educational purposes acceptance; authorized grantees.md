@@ -10,7 +10,7 @@ Qualifying Grants.—A qualifying research grant under this section is a grant t
 
 (c)
 
-Entities From Which Grants May be Accepted.—A grant may be accepted under thissection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
+Entities From Which Grants May be Accepted.—A grant may be accepted under this section only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
 
 (d)
 
@@ -18,7 +18,7 @@ Administration of Grant Funds.—The Secretary shall establish an account for ad
 
 (e)
 
-Related Expenses.—Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Academy may be used to pay expenses incurred by the Academy in applying for, and otherwise pursuing, award of a qualifying research grant.
+Related Expenses.—Subject to such limitations as may be provided in appropriationsActs, appropriations available for the Academy may be used to pay expenses incurred by the Academy in applying for, and otherwise pursuing, award of a qualifying research grant.
 
 (f)
 

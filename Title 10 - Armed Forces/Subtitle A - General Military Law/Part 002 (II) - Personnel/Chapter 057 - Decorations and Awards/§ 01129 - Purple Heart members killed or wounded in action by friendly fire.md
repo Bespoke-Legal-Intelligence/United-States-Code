@@ -14,7 +14,7 @@
 
 #### Award of Purple Heart to Persons Wounded While Held as Prisoners of War Before April 25, 1962
 
-Pub. L. 104–106, div. A, title V, §521, Feb. 10, 1996, 110 Stat. 309, provided that:
+Pub. L. 104–106, div. A, title V, §521, Feb. 10, 1996, 110 Stat. 309, as amended by Pub. L. 108–136, div. A, title V, §544, Nov. 24, 2003, 117 Stat. 1478, provided that:
 
 “(a)
 
@@ -26,5 +26,17 @@ Standards for Award.—An award of the Purple Heart under subsection (a) shall b
 
 “(c)
 
-Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under section 1128 of title 10, United States Code.”
+Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under section 1128 of title 10, United States Code.
+
+“(d)
+
+Procedures for Award.—In determining whether a former prisoner of war who submits an application for the award of the Purple Heart under subsection (a) is eligible for that award, the Secretary concerned shall apply the following procedures:
+
+&emsp;“(1) Failure of the applicant to provide any documentation as required by the Secretary shall not in itself disqualify the application from being considered.
+
+&emsp;“(2) In evaluating the application, the Secretary shall consider (A) historical information as to the prison camp or other circumstances in which the applicant was held captive, and (B) the length of time that the applicant was held captive.
+
+&emsp;“(3) To the extent that information is readily available, the Secretary shall assist the applicant in obtaining information or identifying the sources of information referred to in paragraph (2).
+
+&emsp;“(4) The Secretary shall review a completed application under this section based upon the totality of the information presented, taking into account the length of time between the period during which the applicant was held as a prisoner of war and the date of the application.”
 

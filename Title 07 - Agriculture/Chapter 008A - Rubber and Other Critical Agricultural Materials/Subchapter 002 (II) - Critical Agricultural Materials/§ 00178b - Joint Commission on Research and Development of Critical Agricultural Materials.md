@@ -14,7 +14,7 @@ The Joint Commission shall be headed by a Chairman who shall be selected by the 
 
 #### (d) Delegation of responsibilities to Joint Commission; transfer and use of appropriated funds
 
-The Secretaries may delegate to the Joint Commission one or more of their responsibilities under this subchapter, and transfer to the Joint Commission funds appropriated to carry out the purposes of this subchapter as they deem appropriate to achieve the purposes of this subchapter, and the Joint Commission is authorized to carry out such functions and expend such funds to achieve the purposes of the subchapter.
+The Secretaries may delegate to the Joint Commission one or more of their responsibilitiesunder this subchapter, and transfer to the Joint Commission funds appropriated to carry out the purposes of this subchapter as they deem appropriate to achieve the purposes of this subchapter, and the Joint Commission is authorized to carry out such functions and expend such funds to achieve the purposes of the subchapter.
 
 #### (e) Duties
 
@@ -34,7 +34,7 @@ The Secretaries are authorized to provide without reimbursement such administrat
 
 #### (g) Advice of scientific, engineering and business communities
 
-To the maximum extent possible, the Secretaries and the Joint Commission shall seekthe advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
+To the maximum extent possible, the Secretaries and the Joint Commission shall seek the advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
 
 (Pub. L. 95–592, §4, Nov. 4, 1978, 92 Stat. 2530; Pub. L. 98–284, §4, May 16, 1984, 98 Stat. 181; Pub. L. 104–127, title VIII, §881(a), Apr. 4, 1996, 110 Stat. 1175.)
 

@@ -18,11 +18,11 @@ Collateral Incentive Agreements.—The Secretary concerned may also enter into c
 
 Selection of Investment Opportunities.—(1) The Secretary concerned shall use publicly advertised, competitively bid or competitively negotiated, contracting procedures, as provided in chapter 137 of this title, to enter into limited partnerships under subsection (a).
 
-(2) When a decision is made to enter into a limited partnership under subsection (a), the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include the justification for the limited partnership, the terms and conditions of the limited partnership, a description of the development costs for projects under the limited partnership, and a description of the share of such costs to be incurred by the Secretary concerned. The Secretary concerned may then enter into the limited partnership only after the end of the 21-day period beginning on the date the report is received by such committees.
+(2) When a decision is made to enter into a limited partnership under subsection (a), the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include the justification for the limited partnership, the terms and conditions of the limited partnership, a description of the development costs for projects under the limited partnership, and a description of the share of such costs to be incurred by the Secretary concerned. The Secretary concerned may then enter into the limited partnership only after the end of the 21-day period beginning on the date the report is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.
 
 (d)
 
-Account.—(1) There is hereby established on the books of the Treasury an account to beknown as the “Defense Housing Investment Account”.
+Account.—(1) There is hereby established on the books of the Treasury an account to be known as the “Defense Housing Investment Account”.
 
 (2) There shall be deposited into the Account—
 
@@ -48,9 +48,11 @@ Transfer of Lands Prohibited.—Nothing in this section shall be construed to pe
 
 Expiration and Termination of Authority.—The authority of the Secretary concerned to enter into a limited partnership under this section shall expire on September 30, 2000.
 
-(Added Pub. L. 103–337, div. B, title XXVIII, §2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, §2802, Feb. 10, 1996, 110 Stat. 551; Pub. L. 106–65, div. A, title X, §1066(a)(28), oct. 5, 1999, 113 Stat. 772.)
+(Added Pub. L. 103–337, div. B, title XXVIII, §2803(a), Oct. 5, 1994, 108 Stat. 3051; amended Pub. L. 104–106, div. B, title XXVIII, §2802, Feb. 10, 1996, 110 Stat. 551; Pub. L. 106–65, div. A, title X, §1066(a)(28), oct. 5, 1999, 113 Stat. 772; Pub. L. 108–136, div. A, title X, §1031(a)(44), Nov. 24, 2003, 117 Stat. 1602.)
 
 #### Amendments
+
+2003—Subsec. (c)(2). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
 1999—Subsec. (d)(2). Pub. L. 106–65 inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “any unobligated balances which remain in the Navy Housing Investment Account as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996.”
 

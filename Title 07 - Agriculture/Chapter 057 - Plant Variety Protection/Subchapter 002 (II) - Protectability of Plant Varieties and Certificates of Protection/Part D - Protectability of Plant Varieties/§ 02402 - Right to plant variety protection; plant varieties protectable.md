@@ -36,7 +36,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 &emsp;&emsp;If the varieties that are the subject of the applications cannot be distinguished in any manner, a single certificate shall be issued jointly to the applicants.
 
-(Pub. L. 91–577, title II, §42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, §3, Oct. 6, 1994, 108 Stat. 3138; Pub. L. 104–127, title IX, §913(a), Apr. 4, 1996, 110 Stat. 1186.)
+(Pub. L. 91–577, title II, §42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, §3, Oct. 6, 1994, 108 Stat.3138; Pub. L. 104–127, title IX, §913(a), Apr. 4, 1996, 110 Stat. 1186.)
 
 #### Amendments
 

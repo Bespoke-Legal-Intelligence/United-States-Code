@@ -8,7 +8,7 @@ Gallaudet University and the National Technical Institute for the Deaf shall eac
 
 The University and NTID shall each prepare and submit an annual research report, to the Secretary, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, not later than January 10 of each year, that shall include—
 
-&emsp;(1) a summary of the public input received as part of the establishment and dissemination ofpriorities required by subsection (a) of this section, and the University's and NTID's response to the input; and
+&emsp;(1) a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a) of this section, and the University's and NTID's response to the input; and
 
 &emsp;(2) a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source or sources of funding for each project, and any products resulting from research completed in the prior fiscal year.
 

@@ -24,11 +24,11 @@ Assumption of Obligations.—(1) In the case of a transfer of copyright ownershi
 
 &emsp;&emsp;&emsp;(bb) if no such application is filed, within 18 months before the first publication of the motion picture in the United States.
 
-&emsp;(C) Awareness of other facts and circumstances pertaining to a particular transfer from which it is apparent that the collective bargaining agreement was or will be applicable to the motion picture.
+&emsp;(C) Awareness of other facts and circumstances pertaining to a particular transferfrom which it is apparent that the collective bargaining agreement was or will be applicable to the motion picture.
 
 (b)
 
-Scope of Exclusion of Transfers of Public Performance Rights.—For purposes of this section, the exclusion under subsection (a) of transfers of copyright ownership in a motion picture that are limited to public performance rights includes transfers to a terrestrial broadcast station, cable system, or programmer to the extent that the station, system, or programmer is functioning as an exhibitor of the motion picture, either by exhibiting the motion picture on its own network, system, service, or station, or by initiating the transmission of an exhibition that is carried on another network, system, service, or station. When a terrestrial broadcast station, cable system, or programmer,or other transferee, is also functioning otherwise as a distributor or as a producer of the motion picture, the public performance exclusion does not affect any obligations imposed on the transferee to the extent that it is engaging in such functions.
+Scope of Exclusion of Transfers of Public Performance Rights.—For purposes of this section, the exclusion under subsection (a) of transfers of copyright ownership in a motion picture that are limited to public performance rights includes transfers to a terrestrial broadcast station, cable system, or programmer to the extent that the station, system, or programmer is functioning as an exhibitor of the motion picture, either by exhibiting the motion picture on its own network, system, service, or station, or by initiating the transmission of an exhibition that is carried on another network, system, service, or station. When a terrestrial broadcast station, cable system, or programmer, or other transferee, is also functioning otherwise as a distributor or as a producer of the motion picture, the public performance exclusion does not affect any obligations imposed on the transferee to the extent that it is engaging in such functions.
 
 (c)
 

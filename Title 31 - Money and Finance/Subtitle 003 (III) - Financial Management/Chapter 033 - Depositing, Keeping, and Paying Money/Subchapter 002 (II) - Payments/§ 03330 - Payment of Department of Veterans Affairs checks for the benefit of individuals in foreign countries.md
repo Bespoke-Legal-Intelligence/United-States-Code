@@ -32,7 +32,7 @@
 
 (2) Payment shall include only amounts due at the time of death under ratings or decisions existing at the time of the death.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, §13(<i>l</i>)(3), (4)(A), June 13, 1991, 105 Stat. 277; Pub. L. 103–272, §4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 954; Pub. L. 102–54, §13(<i>l</i>)(3), (4)(A), June 13, 1991, 105 Stat.277; Pub. L. 103–272, §4(f)(1)(I), July 5, 1994, 108 Stat. 1362.)
 
 Historical and Revision Notes
 
@@ -62,7 +62,7 @@ In the section, the words “laws carried out” are substituted for “laws adm
 
 In subsection (a)(1), before clause (A), the word “issued” is substituted for “drawn” for clarity and consistency. Clause (A) is substituted for “drawn against funds of the United States” for consistency in the chapter. In clause (C), the words “guardian, curator, conservator, or other” are omitted as surplus. The words “legally responsible for” are substituted for “vested with” for clarity.
 
-In subsection (b), the words “under section 3329(b)(4) of this title” are substituted for “to the special depositaccount” for clarity and because of the restatement. The words “deposited in” are substituted for “covered into” for clarity and consistency in the revised title.
+In subsection (b), the words “under section 3329(b)(4) of this title” are substituted for “to the special deposit account” for clarity and because of the restatement. The words “deposited in” are substituted for “covered into” for clarity and consistency in the revised title.
 
 In subsection (c), before clause (1), the word “accruing” is omitted as surplus. In clauses (1) and (2), the words “surviving spouse” and “spouse” are substituted for “widow”, and the word “spouse's” is substituted for “widow's”, to conform to amendments made generally to title 38 by the Veterans Disability Compensation and Survivor Benefits Act of 1976 (Pub. L. 94–433, 90 Stat. 1374). In clause (1), the words “first to” are omitted as surplus. In clause (4), the word “only” is substituted for “no disbursement whatsoever of such pension, compensation, or emergency officers’ retirement pay shall be made or allowed except so much” to eliminate unnecessary words.
 

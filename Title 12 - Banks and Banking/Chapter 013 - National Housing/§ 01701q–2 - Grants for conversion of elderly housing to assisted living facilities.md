@@ -22,7 +22,7 @@ An eligible project described in this subsection is a multifamily housing projec
 
 &emsp;(3) designated primarily for occupancy by elderly persons.
 
-> Notwithstanding any other provision of this subsection or this section, an unused or underutilized commercial property may be considered aneligible project under this subsection, except that the Secretary may not provide grants under this section for more than three such properties. For any such projects, any reference under this section to dwelling units shall be considered to refer to the premises of such properties.
+> Notwithstanding any other provision of this subsection or this section, an unused or underutilized commercial property may be considered an eligible project under this subsection, except that the Secretary may not provide grants under this section for more than three such properties. For any such projects, any reference under this section to dwelling units shall be considered to refer to the premises of such properties.
 
 #### (c) Applications
 

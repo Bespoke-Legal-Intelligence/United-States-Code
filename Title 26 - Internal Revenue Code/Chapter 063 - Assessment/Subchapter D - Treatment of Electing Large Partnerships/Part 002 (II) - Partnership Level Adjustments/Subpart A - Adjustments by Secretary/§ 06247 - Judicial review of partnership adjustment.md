@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Within 90 days after the date on which a notice of a partnership adjustment is mailed to the partnership with respect to any partnership taxable year, the partnership may file a petition for a readjustment of the partnership items for such taxable year with—
+Within 90 days after the date on which a notice of a partnership adjustment is mailed to thepartnership with respect to any partnership taxable year, the partnership may file a petition for a readjustment of the partnership items for such taxable year with—
 
 &emsp;(1) the Tax Court,
 
@@ -22,7 +22,7 @@ Within 90 days after the date on which a notice of a partnership adjustment is m
 
 #### (c) Scope of judicial review
 
-A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership items of the partnership for the partnership taxable year to which the notice of partnership adjustment relates and the proper allocation of such items among the partners (and the applicability of any penalty, addition to tax, or additional amountfor which the partnership may be liable under section 6242(b)).
+A court with which a petition is filed in accordance with this section shall have jurisdiction to determine all partnership items of the partnership for the partnership taxable year to which the notice of partnership adjustment relates and the proper allocation of such items among the partners (and the applicability of any penalty, addition to tax, or additional amount for which the partnership may be liable under section 6242(b)).
 
 #### (d) Determination of court reviewable
 

@@ -108,7 +108,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (A) In general
 
-&emsp;&emsp;As a condition of the forfeiture of in-process sugars and syrups serving as collateral for a loan under paragraph (2), the processor shall, within such reasonable time period as the Secretary may prescribe and at no cost to the Commodity Credit Corporation, convert the in-process sugars and syrups into raw cane sugar or refined beet sugar of acceptable grade and quality for sugars eligible for loans under subsection (a) or (b) of this section.
+&emsp;&emsp;As a condition of the forfeiture of in-process sugars and syrups serving as collateralfor a loan under paragraph (2), the processor shall, within such reasonable time period as the Secretary may prescribe and at no cost to the Commodity Credit Corporation, convert the in-process sugars and syrups into raw cane sugar or refined beet sugar of acceptable grade and quality for sugars eligible for loans under subsection (a) or (b) of this section.
 
 #### (B) Transfer to Corporation
 
@@ -144,7 +144,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (A) In general
 
-&emsp;&emsp;To carry out paragraph (1), the Commodity Credit Corporation may accept bids to obtain raw cane sugar or refined beet sugar in the inventory of the Commodity Credit Corporation from (or otherwise make available such commodities, on appropriate terms and conditions, to) processors of sugarcane and processors of sugar beets (acting in conjunction with the producers of the sugarcane or sugar beets processed by the processors) inreturn for the reduction of production of raw cane sugar or refined beet sugar, as appropriate.
+&emsp;&emsp;To carry out paragraph (1), the Commodity Credit Corporation may accept bids to obtain raw cane sugar or refined beet sugar in the inventory of the Commodity Credit Corporation from (or otherwise make available such commodities, on appropriate terms and conditions, to) processors of sugarcane and processors of sugar beets (acting in conjunction with the producers of the sugarcane or sugar beets processed by the processors) in return for the reduction of production of raw cane sugar or refined beet sugar, as appropriate.
 
 #### (B) Additional authority
 
@@ -186,7 +186,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (i) Substitution of refined sugar
 
-For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
+For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule ofthe United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
 
 #### (j) Effective period
 
@@ -214,7 +214,7 @@ Pub. L. 107–171, title I, §1401(b), May 13, 2002, 116 Stat. 187, provided tha
 
 #### Regulations
 
-Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: “As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: “As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section 3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
 
 #### Section Referred to in Other Sections
 

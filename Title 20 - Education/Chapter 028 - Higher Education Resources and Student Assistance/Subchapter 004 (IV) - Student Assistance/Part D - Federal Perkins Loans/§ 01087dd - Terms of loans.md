@@ -36,7 +36,7 @@
 
 &emsp;(B) shall include provision for acceleration of repayment of the whole, or any part, of such loan, at the option of the borrower;
 
-&emsp;(C)(i) may provide, at the option of the institution, in accordance with regulations of the Secretary, that during the repayment period of the loan, payments of principal and interest by the borrower with respect to all outstanding loans made to the student from a student loan fund assisted under this part shall be at a rate equal to not less than $40 per month, except that the institution may, subject to suchregulations, permit a borrower to pay less than $40 per month for a period of not more than one year where necessary to avoid hardship to the borrower, but without extending the 10-year maximum repayment period provided for in subparagraph (A) of this paragraph; and
+&emsp;(C)(i) may provide, at the option of the institution, in accordance with regulations of the Secretary, that during the repayment period of the loan, payments of principal and interest by the borrower with respect to all outstanding loans made to the student from a student loan fund assisted under this part shall be at a rate equal to not less than $40 per month, except that the institution may, subject to such regulations, permit a borrower to pay less than $40 per month for a period of not more than one year where necessary to avoid hardship to the borrower, but without extending the 10-year maximum repayment period provided for in subparagraph (A) of this paragraph; and
 
 &emsp;(ii) may provide that the total payments by a borrower for a monthly or similar payment period with respect to the aggregate of all loans held by the institution may, when the amount of a monthly or other similar payment is not a multiple of $5, be rounded to the next highest whole dollar amount that is a multiple of $5;
 
@@ -72,7 +72,7 @@
 
 (B) No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
 
-(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
+(C) An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as ineffect on October 7, 1998, shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
 
 (3)(A) The Secretary is authorized, when good cause is shown, to extend, in accordance with regulations, the 10-year maximum repayment period provided for in subparagraph (A) of paragraph (1) with respect to individual loans.
 
@@ -86,7 +86,7 @@
 
 &emsp;(B) to make the amount of the charge payable to the institution not later than the due date of the next installment.
 
-(6) Requests for deferment of repayment of loans under this part by students engaged in graduate or post-graduate fellowship-supported study (such as pursuant to a Fulbright grant)outside the United States shall be approved until completion of the period of the fellowship.
+(6) Requests for deferment of repayment of loans under this part by students engaged in graduate or post-graduate fellowship-supported study (such as pursuant to a Fulbright grant) outside the United States shall be approved until completion of the period of the fellowship.
 
 (7) There shall be excluded from the 9-month period that begins on the date on which a student ceases to carry at least one-half the normal full-time academic workload (as described in paragraph (1)(A)) any period not to exceed 3 years during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10 is called or ordered to active duty for a period of more than 30 days (as defined in section 101(d)(2) of such title). Such period of exclusion shall include the period necessary to resume enrollment at the borrower's next available regular enrollment period.
 
@@ -126,7 +126,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (2) Assignment
 
-&emsp;A borrower whose loan has been discharged pursuant to this subsection shall be deemed to have assigned to the United States the right to a loan refund in an amount that does not exceed the amount discharged against the institution and the institution's affiliates and principals.
+&emsp;A borrower whose loan has been discharged pursuant to this subsection shall be deemed tohave assigned to the United States the right to a loan refund in an amount that does not exceed the amount discharged against the institution and the institution's affiliates and principals.
 
 #### (3) Eligibility for additional assistance
 
@@ -146,7 +146,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (A) In general
 
-&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 12 ontime, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any credit bureau organization or credit reporting agencyto which the default was reported remove the default from the borrower's credit history.
+&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 12 ontime, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any credit bureau organization or credit reporting agency to which the default was reported remove the default from the borrower's credit history.
 
 #### (B) Comparable conditions
 
@@ -190,7 +190,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(3) of this section.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3),Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580.)
 
 #### References in Text
 
@@ -210,7 +210,7 @@ Subsec. (j). Pub. L. 107–314, §651(d)(2), added subsec. (j).
 
 Subsec. (b)(1). Pub. L. 105–244, §464(b)(1), inserted at end “A student who is in default on a loan under this part shall not be eligible for an additional loan under this part unless such loan meets one of the conditions for exclusion under section 1087bb(g)(1)(E) of this title.”
 
-Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time andindependent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
+Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
 
 Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)” after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
 
@@ -286,7 +286,7 @@ Section 468 of Pub. L. 102–325, as amended by Pub. L. 102–394, title III, §
 
 &emsp;“(3) the changes made in section 464(c)(2)(A), relating to deferments, shall apply with respect to loans for which the first disbursement is made on or after July 1, 1993;
 
-&emsp;“(4) the changes made in section 467 \[20 U.S.C. 1087gg\], relating to the creation of a Perkins LoanRevolving Fund, shall take effect on September 15, 1997; and
+&emsp;“(4) the changes made in section 467 \[20 U.S.C. 1087gg\], relating to the creation of a Perkins Loan Revolving Fund, shall take effect on September 15, 1997; and
 
 &emsp;“(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does not result in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment.”
 

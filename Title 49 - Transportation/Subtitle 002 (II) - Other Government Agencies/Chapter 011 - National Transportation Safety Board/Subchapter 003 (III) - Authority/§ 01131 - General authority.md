@@ -4,7 +4,7 @@
 
 General.—(1) The National Transportation Safety Board shall investigate or have investigated (in detail the Board prescribes) and establish the facts, circumstances, and cause or probable cause of—
 
-&emsp;(A) an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
+&emsp;(A) an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) <sup>1</sup> of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
 
 &emsp;(B) a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
 
@@ -40,7 +40,7 @@ Accidents Involving Public Vessels.—(1) The Board or the head of the departmen
 
 Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation may—
 
-&emsp;(A) investigate an accident described under subsection (a) or (b) of this section in whichmisfeasance or nonfeasance by the Government has not been alleged; and
+&emsp;(A) investigate an accident described under subsection (a) or (b) of this section in which misfeasance or nonfeasance by the Government has not been alleged; and
 
 &emsp;(B) report the facts and circumstances of the accident to the Board.
 
@@ -54,7 +54,7 @@ Accidents Involving Public Aircraft.—The Board, in furtherance of its investig
 
 Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034.)
 
 Historical and Revision Notes
 
@@ -140,7 +140,13 @@ In subsection (c), the text of 49 App.:1441(f) is omitted as superseded by 49 Ap
 
 In subsection (d), the words “in writing” in 49 App.:1903(a)(2) are omitted as surplus. The words “by it” are added for clarity. The text of 49 App.:1441(a)(4) is omitted as superseded by 49 App.:1903(a)(1)(A) and (2).
 
+#### References in Text
+
+Section 40102(a)(37) of this title, referred to in subsec. (a)(1)(A), was redesignated section 40102(a)(41) by Pub. L. 108–176, title II, §225(a)(3), Dec. 12, 2003, 117 Stat. 2528.
+
 #### Amendments
+
+2003—Subsec. (a)(2)(B), (C). Pub. L. 108–168 realigned margins.
 
 2000—Subsec. (a)(2). Pub. L. 106–424, §6(a), designated existing provisions as subpar. (A), substituted “Subject to the requirements of this paragraph, an investigation” for “An investigation”, and added subpars. (B) and (C).
 
@@ -160,6 +166,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Revision of 1977 Agreement
 
+Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: “Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+
 Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\].”
 
 #### Memorandum of Understanding
@@ -173,4 +181,10 @@ Pub. L. 106–424, §8, Nov. 1, 2000, 114 Stat. 1886, provided that: “Not late
 #### Territorial Sea of United States
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1136 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

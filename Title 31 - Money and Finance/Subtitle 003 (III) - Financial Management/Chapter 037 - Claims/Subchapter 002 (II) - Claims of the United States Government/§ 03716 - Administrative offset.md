@@ -58,7 +58,7 @@
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 
-&emsp;(i) the occurrence of the administrative offset to satisfy a past due legally enforceable debt, including a description of the type and amount of the payment otherwise payable to the payee against which the offset was executed;
+&emsp;(i) the occurrence of the administrative offset to satisfy a past due legally enforceable debt, including a description of the type andamount of the payment otherwise payable to the payee against which the offset was executed;
 
 &emsp;(ii) the identity of the creditor agency requesting the offset; and
 
@@ -182,7 +182,7 @@ Section 31001(a)(2)(B) of Pub. L. 104–134 provided that: “Subparagraph (A) o
 
 Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
-The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose ofthe Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
+The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
 The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
@@ -238,7 +238,7 @@ Sec. 3. <i>Reports</i>. (a) The head of each executive department and agency sha
 
 (b) The Secretary shall report annually to the President concerning the implementation by departments and agencies of this order and the provisions of the Debt Collection Improvement Act of 1996 applicable to delinquent child support obligations.
 
-Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceableat law by a party against the United States, its agencies, its officers, or any person.
+Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

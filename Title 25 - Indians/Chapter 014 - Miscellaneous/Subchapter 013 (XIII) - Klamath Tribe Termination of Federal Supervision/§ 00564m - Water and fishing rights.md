@@ -2,7 +2,7 @@
 
 #### (a) Water rights; laws applicable to abandonment
 
-Nothing in this subchapter shall abrogate any water rights of the tribe and its members, and the laws of the State of Oregon with respect tothe abandonment of water rights by nonuse shall not apply to the tribe and its members until fifteen years after the date of the proclamation issued pursuant to section 564q of this title.
+Nothing in this subchapter shall abrogate any water rights of the tribe and its members, and the laws of the State of Oregon with respect to the abandonment of water rights by nonuse shall not apply to the tribe and its members until fifteen years after the date of the proclamation issued pursuant to section 564q of this title.
 
 #### (b) Fishing rights or privileges
 

@@ -84,7 +84,7 @@ In determining whether property of a partnership is—
 
 > such partnership shall be treated as owning its proportionate share of the property of any other partnership in which it is a partner. Under regulations, rules similar to the rules of the preceding sentence shall also apply in the case of interests in trusts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m),July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930.)
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Amendment by section 492(b)(4) of Pub. L. 98–369 applicable to taxable years b
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendments
 

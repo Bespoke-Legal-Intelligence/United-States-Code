@@ -74,7 +74,7 @@ For purposes of this part, the term “transportation” includes layover or wai
 
 #### (3) Qualified agreement
 
-&emsp;For purposes of this subsection, the term “qualified agreement” means an agreementbetween the United States and Canada or Mexico (as the case may be)—
+&emsp;For purposes of this subsection, the term “qualified agreement” means an agreement between the United States and Canada or Mexico (as the case may be)—
 
 &emsp;&emsp;(A) setting forth that portion of such country which is not to be treated as within the 225-mile zone, and
 

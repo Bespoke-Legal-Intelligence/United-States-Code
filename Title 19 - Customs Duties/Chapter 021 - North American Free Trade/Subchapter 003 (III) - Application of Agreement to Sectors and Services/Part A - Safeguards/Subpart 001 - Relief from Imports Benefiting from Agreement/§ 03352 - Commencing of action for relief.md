@@ -16,7 +16,7 @@
 
 #### (b) Investigation and determination
 
-Upon the filing of a petition under subsection (a) of this section, the International Trade Commission, unless subsection (d) of this section applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions sothat imports of the article, alone, constitute a substantial cause of—
+Upon the filing of a petition under subsection (a) of this section, the International Trade Commission, unless subsection (d) of this section applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Canadian article or a Mexican article, as the case may be, is being imported into the United States in such increased quantities (in absolute terms) and under such conditions so that imports of the article, alone, constitute a substantial cause of—
 
 &emsp;(1) serious injury; or
 

@@ -42,7 +42,7 @@
 
 #### (3) Settlement of civil penalties
 
-&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty that may be assessed under this subsection.
+&emsp;The Secretary may compromise, modify, or remit, with or without conditions, any civilpenalty that may be assessed under this subsection.
 
 #### (4) Finality of orders
 

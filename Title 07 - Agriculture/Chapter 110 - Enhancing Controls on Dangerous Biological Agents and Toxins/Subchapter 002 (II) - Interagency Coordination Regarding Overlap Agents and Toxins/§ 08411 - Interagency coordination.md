@@ -48,7 +48,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(C) A procedure through which a copy of a single registration form received pursuant to subparagraph (B) by the agency administering one of such programs is promptly provided to the agency administering the other program.
 
-&emsp;&emsp;(D) A procedure through which the agency receiving the single registration form under one of such programs obtains the concurrence of the agency administering the otherprogram that the requirements for registration under the other program have been met.
+&emsp;&emsp;(D) A procedure through which the agency receiving the single registration form under one of such programs obtains the concurrence of the agency administering the other program that the requirements for registration under the other program have been met.
 
 &emsp;&emsp;(E) A procedure through which—
 
@@ -64,7 +64,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(B) A procedure for the sharing by both of such agencies of information received from the Attorney General by one of such agencies pursuant to the submission under subparagraph (A).
 
-&emsp;&emsp;(C) A procedure through which the agencies administering such programs concur in determinations that access to overlap agents and toxins will be granted.
+&emsp;&emsp;(C) A procedure through which the agencies administering such programs concur indeterminations that access to overlap agents and toxins will be granted.
 
 #### (4) Coordination of inspections and enforcement
 

@@ -10,6 +10,12 @@ Based on title 18, U.S.C., 1940 ed., §925 (June 16, 1938, ch. 486, §5, 52, Sta
 
 Minor changes were made in arrangement and phraseology.
 
+#### Codification
+
+Another section 505 of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1896, is classified to section 5784 of Title 42, The Public Health and Welfare.
+
+Another section 505 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5028, was classified to section 5784 of Title 42, The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
+
 #### Amendments
 
 1974—Pub. L. 93–415 amended section generally, substituting “Detention prior to disposition”, for “Arrest, detention and bail” in section catchline, striking out provisions relating to discretionary power of arresting officer or marshal to confine juvenile in jail, provisions relating to bail and default of bail, and inserting provisions relating to mandatory separation of juvenile from adjudicated delinquents, and provisions relating to the physical conditions of confining facility.

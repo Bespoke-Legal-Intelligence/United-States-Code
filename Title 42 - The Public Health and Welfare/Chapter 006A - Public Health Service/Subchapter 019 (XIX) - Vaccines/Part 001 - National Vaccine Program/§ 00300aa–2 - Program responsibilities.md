@@ -28,7 +28,7 @@
 
 #### (7) Evaluating the need for and the effectiveness and adverse effects of vaccines and immunization activities
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction to the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the National Center for Health Statistics, the National Center for Health Services Research and Health Care Technology Assessment, and the Health Care Financing Administration in monitoring the need for and the effectiveness and adverse effects of vaccines and immunization activities.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction to the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the National Center for Health Statistics, the National Center for Health Services Research and Health Care Technology Assessment, and the Centers for Medicare \& Medicaid Services in monitoring the need for and the effectiveness and adverse effects of vaccines and immunization activities.
 
 #### (8) Coordinating governmental and non-governmental activities
 
@@ -40,7 +40,7 @@
 
 (b) In carrying out subsection (a) of this section and in preparing the plan under section 300aa–3 of this title, the Director shall consult with all Federal agencies involved in research on and development, testing, licensing, production, procurement, distribution, and use of vaccines.
 
-(July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 108–173, title IX, §900(e)(2)(F), Dec. 8, 2003, 117 Stat. 2372.)
 
 #### Prior Provisions
 
@@ -49,6 +49,8 @@ A prior section 300aa–2, act July 1, 1944, §2103, was successively renumbered
 A prior section 2102 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 1992—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
 
@@ -60,7 +62,7 @@ Pub. L. 101–502, §2(b), Nov. 3, 1990, 104 Stat. 1285, provided that:
 
 In general.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, may make grants to public and nonprofit private entities for the purpose of carrying out demonstration projects—
 
-&emsp;“(A) to provide, without charge, immunizations against vaccine-preventable diseases to children not more than 2 years of age who reside in communities whose population includes a significant number of low-income individuals; and
+&emsp;“(A) to provide, without charge, immunizations against vaccine-preventable diseases to children notmore than 2 years of age who reside in communities whose population includes a significant number of low-income individuals; and
 
 &emsp;“(B) to provide outreach services to identify such children and to inform the parents (or other guardians) of the children of the availability from the entities of the immunizations specified in subparagraph (A).
 

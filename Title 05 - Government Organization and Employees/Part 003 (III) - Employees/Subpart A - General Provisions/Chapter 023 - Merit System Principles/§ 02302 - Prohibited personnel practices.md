@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8);
 
-&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Imagery and Mapping Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(ii) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(iii) the General Accounting Office.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(E) on the basis of marital status or political affiliation, as prohibited under any law, rule, or regulation;
 
-&emsp;(2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is basedon the personal knowledge or records of the person furnishing it and consists of—
+&emsp;(2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
 
 &emsp;&emsp;(A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety,
 
-> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
+> &emsp;&emsp;if such disclosure is not specifically prohibited by law and if such information is notspecifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; or
 
 &emsp;&emsp;(B) any disclosure to the Special Counsel, or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee or applicant reasonably believes evidences—
 
@@ -116,7 +116,7 @@
 
 &emsp;(1) section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16), prohibiting discrimination on the basis of race, color, religion, sex, or national origin;
 
-&emsp;(2) sections 12 and 15 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 631,633a), prohibiting discrimination on the basis of age;
+&emsp;(2) sections 12 and 15 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 631, 633a), prohibiting discrimination on the basis of age;
 
 &emsp;(3) under section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)), prohibiting discrimination on the basis of sex;
 
@@ -134,7 +134,7 @@
 
 &emsp;(D) Section 301(c) of the Foreign Service Act of 1980.
 
-&emsp;(E) Sections 106(f),<sup>1</sup> 7281(e), and 7802(5) of title 38.
+&emsp;(E) Sections 106(f),<sup>1</sup> 7281(e), and 7802(5) <sup>1</sup> of title 38.
 
 &emsp;(F) Section 1005(a) of title 39.
 
@@ -144,7 +144,7 @@
 
 (2) Notwithstanding any other provision of this title, no authority to order corrective action shall be available in connection with a prohibited personnel practice described in subsection (b)(11). Nothing in this paragraph shall be considered to affect any authority under section 1215 (relating to disciplinary action).
 
-(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c), Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188.)
+(Added Pub. L. 95–454, title I, §101(a), Oct. 13, 1978, 92 Stat. 1114; amended Pub. L. 101–12, §4, Apr. 10, 1989, 103 Stat. 32; Pub. L. 101–474, §5(d), Oct. 30, 1990, 104 Stat. 1099; Pub. L. 102–378, §2(5), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 103–94, §8(c),Oct. 6, 1993, 107 Stat. 1007; Pub. L. 103–359, title V, §501(c), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–424, §5, Oct. 29, 1994, 108 Stat. 4363; Pub. L. 104–197, title III, §315(b)(2), Sept. 16, 1996, 110 Stat. 2416, Pub. L. 104–201, div. A, title XI, §1122(a)(1), title XVI, §1615(b), Sept. 23, 1996, 110 Stat. 2687, 2741; Pub. L. 105–339, §6(a), (b), (c)(2), Oct. 31, 1998, 112 Stat. 3187, 3188; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 #### References in Text
 
@@ -156,7 +156,11 @@ Section 301(c) of the Foreign Service Act of 1980, referred to in subsec. (e)(1)
 
 Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subsequent to the enactment of subsec. (e) of this section.
 
+Section 7802(5) of title 38, referred to in subsec. (e)(1)(E), was redesignated section 7802(e) of title 38 by Pub. L. 108–170, title III, §304(b)(3), Dec. 6, 2003, 117 Stat. 2059.
+
 #### Amendments
+
+2003—Subsec. (a)(2)(C)(ii). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1998—Subsec. (a)(1). Pub. L. 105–339, §6(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this title, ‘prohibited personnel practice’ means the following:
 
@@ -224,7 +228,7 @@ Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701, 9701 of this title; title 2 section 1371; title 6 sections 344, 463; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331; title 49 section 40122; title 50 section 403q.
+This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701, 9701, 9902 of this title; title 2 section 1371; title 6 sections 344, 463; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331; title 49 section 40122; title 50 section 403q.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

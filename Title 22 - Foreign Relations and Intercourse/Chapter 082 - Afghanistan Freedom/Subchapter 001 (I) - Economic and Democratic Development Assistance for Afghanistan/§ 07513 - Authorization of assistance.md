@@ -138,7 +138,7 @@ Notwithstanding section 512 of Public Law 107–115 or any other similar provisi
 
 &emsp;&emsp;&emsp;(iv) to develop and expand technical and vocational training programs and income-generation projects for women;
 
-&emsp;&emsp;&emsp;(v) to provide special educational opportunities for girls whose schooling was ended by the Taliban, and to support theability of women to have access to higher education;
+&emsp;&emsp;&emsp;(v) to provide special educational opportunities for girls whose schooling was ended by the Taliban, and to support the ability of women to have access to higher education;
 
 &emsp;&emsp;&emsp;(vi) to develop and implement programs to protect women and girls against sexual and physical abuse, abduction, trafficking, exploitation, and sex discrimination in the delivery of humanitarian supplies and services;
 

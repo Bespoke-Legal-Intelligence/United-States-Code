@@ -110,7 +110,7 @@ Members of the Board shall serve without pay, but may be reimbursed for the actu
 
 (2) The following limitations apply with respect to the appointment of officers and employees of the Foundation:
 
-&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;(A) Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 &emsp;(B) The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.
 
@@ -140,7 +140,7 @@ Subsec. (b). Pub. L. 103–232, §103(a)(1), inserted at end “The Secretary of
 
 #### Effective Date of 1994 Amendment
 
-Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
+Section 103(a)(2) of Pub. L. 103–232 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act \[Apr. 11, 1994\].”
 
 #### Initial Terms of Six New Directors
 

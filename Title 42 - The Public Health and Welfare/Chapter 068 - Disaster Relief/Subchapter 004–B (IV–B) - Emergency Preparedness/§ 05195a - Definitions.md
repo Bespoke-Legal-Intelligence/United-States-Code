@@ -66,7 +66,7 @@ The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in sections 2252 and 2282 of Title 50, Appendix,War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Transfer of Functions
 

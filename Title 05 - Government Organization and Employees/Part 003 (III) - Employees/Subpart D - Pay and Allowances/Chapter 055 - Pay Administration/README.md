@@ -187,7 +187,7 @@ Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5362, 9701 of this title.
+This chapter is referred to in sections 5362, 9701, 9902 of this title.
 
 
 ---

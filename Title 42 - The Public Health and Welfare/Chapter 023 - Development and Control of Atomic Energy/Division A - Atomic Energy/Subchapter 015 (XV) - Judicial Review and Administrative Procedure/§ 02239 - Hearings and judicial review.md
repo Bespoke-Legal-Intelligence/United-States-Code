@@ -8,7 +8,7 @@
 
 (iii) After receiving a request for a hearing under clause (i), the Commission expeditiously shall either deny or grant the request. If the request is granted, the Commission shall determine, after considering petitioners’ prima facie showing and any answers thereto, whether during a period of interim operation, there will be reasonable assurance of adequate protection of the public health and safety. If the Commission determines that there is such reasonable assurance, it shall allow operation during an interim period under the combined license.
 
-(iv) The Commission, in its discretion, shall determine appropriate hearing procedures, whether informal or formal adjudicatory, for any hearing under clause (i), and shall state its reasons therefor.
+(iv) The Commission, in its discretion, shall determine appropriate hearing procedures, whether informal or formal adjudicatory, forany hearing under clause (i), and shall state its reasons therefor.
 
 (v) The Commission shall, to the maximum possible extent, render a decision on issues raised by the hearing request within 180 days of the publication of the notice provided by clause (i) or the anticipated date for initial loading of fuel into the reactor, whichever is later. Commencement of operation under a combined license is not subject to subparagraph (A).
 

@@ -12,7 +12,7 @@ The Headquarters Agreement, referred to in text, is set out as a note under sect
 
 1997—Pub. L. 105–54 inserted at end “Subject to such criteria as the Secretary of State may prescribe, including the duration of stay of the alien and the financial burden upon the charitable organization, the Secretary of State shall waive or reduce the fee for application and issuance of a nonimmigrant visa for any alien coming to the United States primarily for, or in activities related to, a charitable purpose involving health or nursing care, the provision of food or housing, job training, or any other similar direct service or assistance to poor or otherwise needy individuals in the United States.”
 
-1968—Pub. L. 90–609 struck out provisions fixing statutory fees for specified immigration and nationality benefits and services rendered, including those pertaining to immigrant visas, reentry permits, adjustments of status to permanent residence, creation of record of admission for permanent residence, suspension of deportation, extension of stay to nonimmigrants, and application for admission to practice as attorney or representative before the Service.
+1968—Pub. L. 90–609 struck out provisions fixing statutory fees for specified immigration and nationality benefits and services rendered, including those pertaining to immigrant visas, reentry permits, adjustmentsof status to permanent residence, creation of record of admission for permanent residence, suspension of deportation, extension of stay to nonimmigrants, and application for admission to practice as attorney or representative before the Service.
 
 1965—Subsec. (a). Pub. L. 89–236, §14(a), (b), designated opening provision beginning “The following fees shall be charged:” and ending with the end of par. (7) as subsec. (a) and substituted reference to section 1154 of this title for sections 1154(b) and 1155(b) of this title in par. (6).
 
@@ -30,7 +30,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Surcharge for Processing Machine Readable Nonimmigrant Visas
 
-Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236, set out below\], fees may be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended”.
+Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, which provided in part that notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of Pub. L. 103–236 \[below\], fees could be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1), and that all fees so collected would be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs under section 140(a)(2) and would remain available until expended, was from the Department of State and Related Agency Appropriations Act, 2002, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriations acts:
 

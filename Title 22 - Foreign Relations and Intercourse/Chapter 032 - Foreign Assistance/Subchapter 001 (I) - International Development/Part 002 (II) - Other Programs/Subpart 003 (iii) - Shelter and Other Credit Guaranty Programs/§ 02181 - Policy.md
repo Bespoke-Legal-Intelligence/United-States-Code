@@ -10,7 +10,7 @@ Amendment by Pub. L. 98–473 is based on section 311(a) of H.R. 5119, Ninety-ei
 
 #### Prior Provisions
 
-A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as amended by Pub. L. 87–565, pt. I, §104(a), Aug. 1, 1962, 76 Stat. 256; Pub. L. 88–205, pt. I, §104(a), Dec. 16, 1963, 77 Stat. 381; Pub. L. 88–633, pt. I, §103(a), Oct. 7, 1964, 78 Stat. 1009; Pub. L. 89–171, pt. I, §104(a), (b), Sept. 6, 1965, 79 Stat. 654; Pub. L. 89–583, pt. I, §104(a), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(a), Nov. 14, 1967, 81 Stat. 450; Pub. L. 90–554, pt. I, §103, Oct. 8, 1968, 82 Stat. 960, related to general authority for foreign investment guaranties by the President, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
+A prior section 221 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 429, as amended by Pub. L. 87–565, pt. I, §104(a), Aug. 1, 1962, 76 Stat. 256; Pub. L. 88–205, pt. I, §104(a), Dec. 16, 1963, 77 Stat. 381; Pub. L. 88–633, pt. I, §103(a), Oct. 7, 1964, 78 Stat. 1009; Pub. L. 89–171, pt. I, §104(a), (b), Sept. 6, 1965, 79 Stat. 654; Pub. L. 89–583, pt. I, §104(a), Sept. 19, 1966, 80 Stat. 798; Pub. L. 90–137, pt. I, §104(a), Nov. 14, 1967, 81 Stat. 450; Pub. L. 90–554, pt.I, §103, Oct. 8, 1968, 82 Stat. 960, related to general authority for foreign investment guaranties by the President, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Amendments
 

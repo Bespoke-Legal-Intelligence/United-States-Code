@@ -38,7 +38,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (f) Processing of applications received prior to determination of nonrural status; assistance
 
-&emsp;continue processing as expeditiously as possible applications on hand received prior to the time an area has been determined by the Secretary not to be “rural” or a “rural area”, as those terms are defined in section 1490 of this title, and make loans or grants to suchapplicants who are found to be eligible on the same basis as though the area were still rural;
+&emsp;continue processing as expeditiously as possible applications on hand received prior to the time an area has been determined by the Secretary not to be “rural” or a “rural area”, as those terms are defined in section 1490 of this title, and make loans or grants to such applicants who are found to be eligible on the same basis as though the area were still rural;
 
 #### (g) Rules and regulations for written notice of denial or reduction of assistance
 
@@ -98,5 +98,5 @@ For termination, effective May 15, 2000, of reporting provisions in subsec. (d)(
 
 #### Study of Problems Caused by Remote Claims
 
-Section 509 of Pub. L. 95–557 directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in ruralareas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
+Section 509 of Pub. L. 95–557 directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in rural areas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
 

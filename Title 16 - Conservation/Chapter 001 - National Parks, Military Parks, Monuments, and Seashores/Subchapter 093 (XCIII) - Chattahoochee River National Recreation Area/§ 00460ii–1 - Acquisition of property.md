@@ -6,7 +6,7 @@ Within the recreation area the Secretary is authorized to acquire lands, waters,
 
 #### (b) Manner of acquisition of lands partly within and partly without area; disposal of unutilized lands
 
-When a tract of land lies partly within and partly without the boundaries of the recreation area, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
+When a tract of land lies partly within and partly without the boundaries of the recreationarea, the Secretary may acquire the entire tract by any of the above methods in order to avoid the payment of severance costs. Land so acquired outside of the boundaries of the recreation area may be exchanged by the Secretary for non-Federal land within such boundaries, and any portion of the land not utilized for such exchanges may be disposed of in accordance with the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (c) Acquisition of improved property used for noncommercial residential purposes; retention by owners of right of use and occupancy for residential purposes; terms; payment of fair market value
 
@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 106–154, §2(e)(1), substituted “this subchapter” for
 
 Subsec. (f). Pub. L. 106–154, §2(b)(2), struck out subsec. (f) which read as follows:
 
-“(f)(1) The Secretary shall exchange those federally owned lands identified on the map referenced in section460ii of this title as ‘exchange lands’ for non-Federal lands which are within the boundaries of the recreation area. The values of the lands exchanged under this subsection shall be equal, or shall be equalized in the same manner as provided in section 1716 of title 43.
+“(f)(1) The Secretary shall exchange those federally owned lands identified on the map referenced in section 460ii of this title as ‘exchange lands’ for non-Federal lands which are within the boundaries of the recreation area. The values of the lands exchanged under this subsection shall be equal, or shall be equalized in the same manner as provided in section 1716 of title 43.
 
 “(2) At three year intervals after October 30, 1984, the Secretary shall publish in the Federal Register a progress report on the land exchanges which have taken place and the exchanges which are likely to take place under the authority of this subsection. Such report shall identify the lands which are unsuitable for exchange pursuant to such authority.
 

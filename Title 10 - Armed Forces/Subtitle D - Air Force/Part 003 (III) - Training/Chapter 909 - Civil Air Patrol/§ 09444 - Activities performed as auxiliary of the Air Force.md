@@ -8,7 +8,7 @@ Air Force Support for Activities.—The Secretary of the Air Force may furnish t
 
 Forms of Air Force Support.—The Secretary of the Air Force may, under subsection (a)—
 
-&emsp;(1) give, lend, or sell to the Civil Air Patrol without regard to the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)—
+&emsp;(1) give, lend, or sell to the Civil Air Patrol without regard to subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)—
 
 &emsp;&emsp;(A) major items of equipment (including aircraft, motor vehicles, computers, and communications equipment) that are excess to the military departments; and
 
@@ -46,17 +46,21 @@ Forms of Air Force Support.—The Secretary of the Air Force may, under subsecti
 
 (c)
 
-Assistance by Other Agencies.—(1) The Secretary of the Air Force may arrange for theuse by the Civil Air Patrol of such facilities and services under the jurisdiction of the Secretary of the Army, the Secretary of the Navy, or the head of any other department or agency of the United States as the Secretary of the Air Force considers to be needed by the Civil Air Patrol to carry out its mission.
+Assistance by Other Agencies.—(1) The Secretary of the Air Force may arrange for the use by the Civil Air Patrol of such facilities and services under the jurisdiction of the Secretary of the Army, the Secretary of the Navy, or the head of any other department or agency of the United States as the Secretary of the Air Force considers to be needed by the Civil Air Patrol to carry out its mission.
 
 (2) An arrangement for use of facilities or services of a military department or other department or agency under this subsection shall be subject to the agreement of the Secretary of the military department or head of the other department or agency, as the case may be.
 
 (3) Each arrangement under this subsection shall be made in accordance with regulations prescribed under section 9448 of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–296.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–296; amended Pub. L. 107–217, §3(b)(35), Aug. 21, 2002, 116 Stat. 1298.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act related to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. Forcomplete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–217, in introductory provisions, inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 #### Section Referred to in Other Sections
 

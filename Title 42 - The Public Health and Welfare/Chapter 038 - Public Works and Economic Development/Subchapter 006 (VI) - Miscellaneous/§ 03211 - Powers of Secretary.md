@@ -14,7 +14,7 @@ In carrying out the duties of the Secretary under this chapter, the Secretary ma
 
 &emsp;(5) under regulations promulgated by the Secretary—
 
-&emsp;&emsp;(A) assign or sell at public or private sale, or otherwise dispose of for cash or credit, in the Secretary's discretion and on such terms and conditions and for such consideration asthe Secretary determines to be reasonable, any evidence of debt, contract, claim, personal property, or security assigned to or held by the Secretary in connection with assistance provided under this chapter; and
+&emsp;&emsp;(A) assign or sell at public or private sale, or otherwise dispose of for cash or credit, in the Secretary's discretion and on such terms and conditions and for such consideration as the Secretary determines to be reasonable, any evidence of debt, contract, claim, personal property, or security assigned to or held by the Secretary in connection with assistance provided under this chapter; and
 
 &emsp;&emsp;(B) collect or compromise all obligations assigned to or held by the Secretary in connection with that assistance until such time as the obligations are referred to the Attorney General for suit or collection;
 
@@ -52,7 +52,7 @@ The authority under subsection (a)(7) of this section to pursue claims shall inc
 
 #### (c) Inapplicability of certain other requirements
 
-Section 5 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
+Section 5 of title 41 shall not apply to any contract of hazard insurance or to any purchase orcontract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 
 #### (d) Property interests
 
@@ -80,7 +80,7 @@ The power to convey and to execute, in the name of the Secretary, deeds of conve
 
 #### References in Text
 
-The civil service and classification laws, referred to in subsec. (a)(2), are the civil service laws which are setforth in Title 5, Government Organization and Employees, particularly section 3301 et seq. of Title 5, and the classification laws which are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
+The civil service and classification laws, referred to in subsec. (a)(2), are the civil service laws which are set forth in Title 5, Government Organization and Employees, particularly section 3301 et seq. of Title 5, and the classification laws which are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
 The Public Works Employment Act of 1976, referred to in subsec. (d)(1)(B), is Pub. L. 94–369, July 22, 1976, 90 Stat. 999, as amended. Title I of the Act, known as the Local Public Works Capital Development and Investment Act of 1976, is classified generally to subchapter I (§6701 et seq.) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of this title and Tables.
 

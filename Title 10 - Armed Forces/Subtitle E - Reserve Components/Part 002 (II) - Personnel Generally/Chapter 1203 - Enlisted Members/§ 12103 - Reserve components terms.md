@@ -2,7 +2,7 @@
 
 (a) Except as otherwise prescribed by law, enlistments as Reserves are for terms prescribed by the Secretary concerned. However, an enlistment that is in effect at the beginning of a war or of a national emergency declared by Congress, or entered into during such a war or emergency, and that would otherwise expire, continues in effect until the expiration of six months after the end of that war or emergency, whichever is later, unless sooner terminated by the Secretary concerned.
 
-(b) Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, a person who is qualified for enlistment for active duty in an armed force, and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), may be enlisted as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall serve—
+(b) Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a person who is qualified for enlistment for active duty in an armed force, and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), may be enlisted as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall serve—
 
 &emsp;(1) on active duty for a period of not less than two years; and
 
@@ -10,9 +10,9 @@
 
 (c) In time of war or of national emergency declared by Congress the term of service of an enlisted member transferred to a reserve component according to law, that would otherwise expire, continues until the expiration of six months after the end of that war or emergency, whichever is later, unless sooner terminated by the Secretary concerned.
 
-(d) Under regulations to be prescribed by the Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, a non-prior-service person who is qualified for induction for active duty in an armed force and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), except as provided in section 6(c)(2)(A)(ii) and (iii) of such Act, may be enlisted in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall perform an initial period of active duty for training of not less than twelve weeks to commence insofar as practicable within 270 days after the date of that enlistment.
+(d) Under regulations to be prescribed by the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a non-prior-service person who is qualified for induction for active duty in an armed force and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. App. 451 et seq.), except as provided in section 6(c)(2)(A)(ii) and (iii) of such Act, may be enlisted in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall perform an initial period of active duty for training of not less than twelve weeks to commence insofar as practicable within one year after the date of that enlistment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 18, §511; Pub. L. 85–861, §1(8), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 88–110, §3, Sept. 3, 1963, 77 Stat. 135; Pub. L. 90–168, §2(11), Dec. 1, 1967, 81 Stat. 523; Pub. L. 94–106, title VIII, §802(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 95–485, title IV, §405(c)(1), Oct. 20, 1978, 92 Stat. 1615; Pub. L. 96–107, title VIII, §805(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title V, §511(14), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 97–252, title XI, §1115(a), Sept. 8, 1982, 96 Stat. 750; Pub. L. 97–295, §1(6), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, §1022(a)(1), Sept. 24, 1983, 97 Stat. 670; renumbered §12103, Pub. L.103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 18, §511; Pub. L. 85–861, §1(8), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 88–110, §3, Sept. 3, 1963, 77 Stat. 135; Pub. L. 90–168, §2(11), Dec. 1, 1967, 81 Stat. 523; Pub. L. 94–106, title VIII, §802(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 95–485, title IV, §405(c)(1), Oct. 20, 1978, 92 Stat. 1615; Pub. L. 96–107, title VIII, §805(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title V, §511(14), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 97–252, title XI, §1115(a), Sept. 8, 1982, 96 Stat. 750; Pub. L. 97–295, §1(6), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, §1022(a)(1), Sept. 24, 1983, 97 Stat. 670; renumbered §12103, Pub. L.103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §533(a), Dec. 2, 2002, 116 Stat. 2547.)
 
 Historical and Revision Notes<br>1956
 
@@ -64,6 +64,12 @@ The Military Selective Service Act, referred to in subsecs. (b) and (d), is act 
 
 #### Amendments
 
+2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (d). Pub. L. 107–314 substituted “one year” for “270 days” in last sentence.
+
+Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1994—Pub. L. 103–337 renumbered section 511 of this title as this section.
 
 1983—Subsec. (b). Pub. L. 98–94, §1022(a)(1)(A), substituted “not less than six years nor more than eight years” for “six years”.
@@ -88,6 +94,12 @@ Subsec. (d). Pub. L. 97–252 extended to 270 from 180 days requirement for comm
 
 1958—Subsecs. (b), (c). Pub. L. 85–861, §1(8)(A), added subsec. (b) and redesignated former subsec. (b) as (c).
 
+#### Effective Date of 2002 Amendments
+
+Pub. L. 107–314, div. A, title V, §533(b), Dec. 2, 2002, 116 Stat. 2547, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to enlistments under section 12103(d) of title 10, United States Code, after the end of the 90-day period beginning on the date of the enactment of this Act \[Dec. 2, 2002\].”
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1983 Amendment
 
 Section 1022(a)(2) of Pub. L. 98–94 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply only with respect to persons who enlist under the authority of subsection (b) or (d) of section 511 \[now 12103\] of title 10, United States Code, 60 or more days after the date of the enactment of this Act \[Sept. 24, 1983\].”
@@ -111,6 +123,10 @@ Section 405(c)(2) of Pub. L. 95–485 provided that: “The amendments made by p
 #### Effective Date of 1967 Amendment
 
 For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
+
+#### Transition
+
+Pub. L. 107–314, div. A, title V, §533(c), Dec. 2, 2002, 116 Stat. 2547, provided that: “In the case of a person who enlisted under section 12103(d) of title 10, United States Code, before the date of the enactment of this Act \[Dec. 2, 2002\] and who as of such date has not commenced the required initial period of active duty for training under that section, the amendment made by subsection (a) \[amending this section\] may be applied to that person, but only with the agreement of that person and the Secretary concerned.”
 
 #### Section Referred to in Other Sections
 

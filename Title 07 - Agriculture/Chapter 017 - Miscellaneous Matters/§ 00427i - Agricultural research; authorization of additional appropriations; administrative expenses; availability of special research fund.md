@@ -56,5 +56,5 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 361a, 427, 1623a, 1629, 3152 of this title; title 21 section 113a; title 35 section 210.
+This section is referred to in sections 361a, 427, 1629, 3152 of this title; title 21 section 113a; title 35 section 210.
 

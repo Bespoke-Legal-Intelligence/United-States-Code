@@ -30,23 +30,33 @@ Use of Appropriated Funds.—(1) If a nonappropriated fund instrumentality incur
 
 (f)
 
-Definitions.—In this section:
+Nonappropriated Fund Instrumentality Defined.—In this section, the term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
-&emsp;(1) The term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
-
-&emsp;(2) The term “base closure law” has the meaning given such term by section 2667(h) of this title.
-
-(Added Pub. L. 104–106, div. A, title III, §336(a)(1), Feb. 10, 1996, 110 Stat. 263; amended Pub. L. 105–85, div. A, title X, §1061(d), Nov. 18, 1997, 111 Stat. 1891.)
+(Added Pub. L. 104–106, div. A, title III, §336(a)(1), Feb. 10, 1996, 110 Stat. 263; amended Pub. L. 105–85, div. A, title X, §1061(d), Nov. 18, 1997, 111 Stat. 1891; Pub. L. 108–136, div. A, title X, §1043(c)(2), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### References in Text
 
 Section 375 of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (c), is section 375 of Pub. L. 103–337, div. A, title III, Oct. 5, 1994, 108 Stat. 2736, as amended, which is not classified to the Code.
 
-#### Amendments
-
-1997—Subsec. (f)(2). Pub. L. 105–85 substituted “section 2667(h)” for “section 2667(g)”.
-
 #### Prior Provisions
 
 A prior section 2490a was renumbered section 2783 of this title.
+
+#### Amendments
+
+2003—Subsec. (f). Pub. L. 108–136, §1043(c)(2), substituted “
+
+Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “
+
+Definitions.—In this section:
+
+&emsp;“(1) The term”
+
+> and struck out par. (2) which read as follows: “The term ‘base closure law’ has the meaning given such term by section 2667(h) of this title.”
+
+1997—Subsec. (f)(2). Pub. L. 105–85 substituted “section 2667(h)” for “section 2667(g)”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2481 of this title.
 

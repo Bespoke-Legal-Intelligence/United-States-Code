@@ -28,7 +28,7 @@ Minimum Annual Rate of Compensation.—A minimum annual rate under subsection (b
 
 (d)
 
-Collective Bargaining.—This section does not prevent pilots or copilots of an air carrier from obtaining by collective bargaining higherrates of compensation or more favorable working conditions or relations.
+Collective Bargaining.—This section does not prevent pilots or copilots of an air carrier from obtaining by collective bargaining higher rates of compensation or more favorable working conditions or relations.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1160.)
 

@@ -10,7 +10,7 @@
 
 (B) Upon the filing of such a complaint—
 
-&emsp;(i) the Secretary shall serve notice upon the aggrieved person acknowledging such filing and advising the aggrieved person of the time limits and choice of forums provided under this subchapter;
+&emsp;(i) the Secretary shall serve notice upon the aggrieved person acknowledging such filingand advising the aggrieved person of the time limits and choice of forums provided under this subchapter;
 
 &emsp;(ii) the Secretary shall, not later than 10 days after such filing or the identification of an additional respondent under paragraph (2), serve on the respondent a notice identifying the alleged discriminatory housing practice and advising such respondent of the procedural rights and obligations of respondents under this subchapter, together with a copy of the original complaint;
 
@@ -52,7 +52,7 @@
 
 #### (c) Failure to comply with conciliation agreement
 
-Whenever the Secretary has reasonable cause to believe that a respondent has breached a conciliation agreement, the Secretary shall referthe matter to the Attorney General with a recommendation that a civil action be filed under section 3614 of this title for the enforcement of such agreement.
+Whenever the Secretary has reasonable cause to believe that a respondent has breached a conciliation agreement, the Secretary shall refer the matter to the Attorney General with a recommendation that a civil action be filed under section 3614 of this title for the enforcement of such agreement.
 
 #### (d) Prohibitions and requirements with respect to disclosure of information
 
@@ -106,7 +106,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 (1) The Secretary shall, within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), determine based on the facts whether reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, unless it is impracticable to do so, or unless the Secretary has approved a conciliation agreement with respect to the complaint. If the Secretary is unable to make the determination within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) of this section with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 
-(2)(A) If the Secretary determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall, except as provided in subparagraph (C), immediately issue a charge onbehalf of the aggrieved person, for further proceedings under section 3612 of this title.
+(2)(A) If the Secretary determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall, except as provided in subparagraph (C), immediately issue a charge on behalf of the aggrieved person, for further proceedings under section 3612 of this title.
 
 (B) Such charge—
 

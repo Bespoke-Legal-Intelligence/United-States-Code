@@ -74,7 +74,7 @@
 
 &emsp;&emsp;Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
 
-&emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potentialrevenue of which the United States is or may be deprived as a result of overpayment of the claim; or
+&emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potential revenue of which the United States is or may be deprived as a result of overpayment of the claim; or
 
 &emsp;&emsp;&emsp;(ii) if the violation resulted from negligence, an amount equal to the interest computed on the basis of the prevailing rate of interest applied under section 6621 of title 26 on the amount of actual revenue of which the United States is or may be deprived during the period that—
 
@@ -96,7 +96,7 @@
 
 #### (5) Exclusivity
 
-&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawback related violation of subsection (a) of this section.
+&emsp;Penalty claims under this section shall be the exclusive civil remedy for any drawbackrelated violation of subsection (a) of this section.
 
 #### (d) Deprivation of lawful revenue
 

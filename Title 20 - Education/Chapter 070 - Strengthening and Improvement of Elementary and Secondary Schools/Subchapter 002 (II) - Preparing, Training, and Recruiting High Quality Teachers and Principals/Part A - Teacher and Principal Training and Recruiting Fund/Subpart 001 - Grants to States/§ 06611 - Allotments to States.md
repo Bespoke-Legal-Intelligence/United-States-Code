@@ -1,6 +1,6 @@
 ### §6611. Allotments to States
 
-#### (a) In General
+#### (a) In general
 
 The Secretary shall make grants to States with applications approved under section 6612 of this title to pay for the Federal share of the cost of carrying out the activities specified in section 6613 of this title. Each grant shall consist of the allotment determined for a State under subsection (b) of this section.
 
@@ -38,7 +38,7 @@ The Secretary shall make grants to States with applications approved under secti
 
 &emsp;&emsp;&emsp;Subject to clause (ii), for any fiscal year for which the funds appropriated under section 6603(a) of this title and not reserved under paragraph (1) exceed the total amount required to make allotments under subparagraph (A), the Secretary shall allot to each of the States described in subparagraph (A) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 35 percent of the excess amount as the number of individuals age 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to thenumber of those individuals in all such States, as so determined; and
+&emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 35 percent of the excess amount as the number of individuals age 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 65 percent of the excess amount as the number of individuals age 5 through 17 from families with incomes below the poverty line, in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined.
 

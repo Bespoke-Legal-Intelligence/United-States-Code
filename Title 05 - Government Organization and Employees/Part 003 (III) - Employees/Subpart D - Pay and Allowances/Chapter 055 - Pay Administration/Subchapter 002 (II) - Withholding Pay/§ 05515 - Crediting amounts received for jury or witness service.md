@@ -1,6 +1,6 @@
 ### §5515. Crediting amounts received for jury or witness service
 
-An amount received by an employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia for service as a juror or witness during a period for which he is entitled to leave under section 6322(a) of this title, or is performing official duty under section 6322(b) of this title, shall be credited against pay payable to him by the United States or the District of Columbia with respect to that period.
+An amount received by an employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of theSenate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia for service as a juror or witness during a period for which he is entitled to leave under section 6322(a) of this title, or is performing official duty under section 6322(b) of this title, shall be credited against pay payable to him by the United States or the District of Columbia with respect to that period.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 478; Pub. L. 91–563, §2(a), Dec. 19, 1970, 84 Stat. 1476; Pub. L. 104–186, title II, §215(5), Aug. 20, 1996, 110 Stat. 1745.)
 

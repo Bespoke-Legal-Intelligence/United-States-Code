@@ -42,3 +42,7 @@ Administrative Provisions.—The provisions of subsections (d) and (f) of sectio
 
 Amendment by Pub. L. 102–190 effective Apr. 1, 1992, see section 653(b)(3) of Pub. L. 102–190, set out as a note under section 1457 of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1458 of this title.
+

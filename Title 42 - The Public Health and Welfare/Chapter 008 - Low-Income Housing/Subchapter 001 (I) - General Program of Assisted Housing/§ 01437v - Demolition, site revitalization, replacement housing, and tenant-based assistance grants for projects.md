@@ -12,6 +12,8 @@ The purpose of this section is to provide assistance to public housing agencies 
 
 &emsp;(4) building sustainable communities.
 
+> It is also the purpose of this section to provide assistance to smaller communities for the purpose of facilitating the development of affordable housing for low-income families that is undertaken in connection with a main street revitalization or redevelopment project in such communities.
+
 #### (b) Grant authority
 
 The Secretary may make grants as provided in this section to applicants whose applications for such grants are approved by the Secretary under this section.
@@ -22,7 +24,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;The Secretary may not make any grant under this section to any applicant unless the applicant certifies to the Secretary that the applicant will—
 
-&emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section withan amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
+&emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
 &emsp;&emsp;(B) in addition to supplemental amounts provided in accordance with subparagraph (A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L) of this section, provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
 
@@ -76,15 +78,15 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Selection criteria
 
-&emsp;The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—
+&emsp;The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—
 
 &emsp;&emsp;(A) the relationship of the grant to the public housing agency plan for the applicant and how the grant will result in a revitalized site that will enhance the neighborhood in which the project is located and enhance economic opportunities for residents;
 
-&emsp;&emsp;(B) the capability and record of the applicant public housing agency, or any alternative management entity for the agency, for managing large-scale redevelopment or modernization projects, meeting construction timetables, and obligating amounts in a timely manner;
+&emsp;&emsp;(B) the capability and record of the applicant public housing agency, or any alternative management entity for the agency, for managing redevelopment or modernization projects, meeting construction timetables, and obligating amounts in a timely manner;
 
 &emsp;&emsp;(C) the extent to which the applicant could undertake such activities without a grant under this section;
 
-&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private service providers, financing entities, and developers, in the development of a revitalization program for the project;
+&emsp;&emsp;(D) the extent of involvement of residents, State and local governments, private service providers, financing entities, and developers, in the development and ongoing implementation of a revitalization program for the project, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application;
 
 &emsp;&emsp;(E) the need for affordable housing in the community;
 
@@ -92,9 +94,15 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;&emsp;(G) the amount of funds and other resources to be leveraged by the grant;
 
-&emsp;&emsp;(H) the extent of the need for, and the potential impact of, the revitalization program; and
+&emsp;&emsp;(H) the extent of the need for, and the potential impact of, the revitalization program;
 
-&emsp;&emsp;(I) such other factors as the Secretary considers appropriate.
+&emsp;&emsp;(I) the extent to which the plan minimizes permanent displacement of current residents of the public housing site who wish to remain in or return to the revitalized community and provides for community and supportive services to residents prior to any relocation;
+
+&emsp;&emsp;(J) the extent to which the plan sustains or creates more project-based housing units available to persons eligible for public housing in markets where the plan shows there is demand for the maintenance or creation of such units;
+
+&emsp;&emsp;(K) the extent to which the plan gives to existing residents priority for occupancy in dwelling units which are public housing dwelling units, or for residents who can afford to live in other units, priority for those units in the revitalized community; and
+
+&emsp;&emsp;(L) such other factors as the Secretary considers appropriate.
 
 #### (3) Applicability of selection criteria
 
@@ -148,17 +156,19 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i) requires major redesign, reconstruction or redevelopment, or partial or total demolition, to correct serious deficiencies in the original design (including inappropriately high population density), deferred maintenance, physical deterioration or obsolescence of major systems and other deficiencies in the physical plant of the project;
 
-&emsp;&emsp;&emsp;(ii) is a significant contributing factor to the physical decline of and disinvestment by public and private entities in the surrounding neighborhood;
+&emsp;&emsp;&emsp;(ii) is a significant contributing factor to the physical decline of and disinvestmentby public and private entities in the surrounding neighborhood;
 
-&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income families with children, are unemployed, and dependent on various forms of public assistance; or
+&emsp;&emsp;&emsp;(iii)(I) is occupied predominantly by families who are very low-income families with children, are unemployed, and dependent on various forms of public assistance;
 
-&emsp;&emsp;&emsp;(II) has high rates of vandalism and criminal activity (including drug-related criminal activity) in comparison to other housing in the area;
+&emsp;&emsp;&emsp;(II) has high rates of vandalism and criminal activity (including drug-related criminal activity) in comparison to other housing in the area; or
+
+&emsp;&emsp;&emsp;(III) is lacking in sufficient appropriate transportation, supportive services, economic opportunity, schools, civic and religious institutions, and public services, resulting in severe social distress in the project;
 
 &emsp;&emsp;&emsp;(iv) cannot be revitalized through assistance under other programs, such as the program for capital and operating assistance for public housing under this chapter, or the programs under sections 1437g and 1437<i>l</i> of this title (as in effect before the effective date under under <sup>2</sup> section 503(a) <sup>2</sup> the Quality Housing and Work Responsibility Act of 1998), because of cost constraints and inadequacy of available amounts; and
 
 &emsp;&emsp;&emsp;(v) in the case of individual buildings, is, in the Secretary's determination, sufficiently separable from the remainder of the project of which the building is part to make use of the building feasible for purposes of this section; or
 
-&emsp;&emsp;(B) that was a project described in subparagraph (A) that has been legally vacated or demolished, but for which the Secretaryhas not yet provided replacement housing assistance (other than tenant-based assistance).
+&emsp;&emsp;(B) that was a project described in subparagraph (A) that has been legally vacated or demolished, but for which the Secretary has not yet provided replacement housing assistance (other than tenant-based assistance).
 
 #### (3) Supportive services
 
@@ -176,25 +186,121 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 &emsp;(2) the status of projects identified as severely distressed public housing;
 
-&emsp;(3) the amount and type of financial assistance provided under and in conjunction with this section; and
+&emsp;(3) the amount and type of financial assistance provided under and in conjunction with this section, including a specification of the amount and type of assistance provided under subsection (n) of this section;
 
-&emsp;(4) the recommendations of the Secretary for statutory and regulatory improvements to the program established by this section.
+&emsp;(4) the types of projects funded, and number of affordable housing dwelling units developed with, grants under subsection (n) of this section; and
+
+&emsp;(5) the recommendations of the Secretary for statutory and regulatory improvements to the program established by this section.
 
 #### (m) Funding
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated for grants under this section $600,000,000 for fiscal year 1999 and such sums as may be necessary for each of fiscal years 2000, 2001, and 2002.
+&emsp;There are authorized to be appropriated for grants under this section $574,000,000 for fiscal year 2003.
 
 #### (2) Technical assistance and program oversight
 
 &emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods <sup>3</sup> Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
 
-#### (n) Sunset
+#### (3) Set-aside for main street housing grants
 
-No assistance may be provided under this section after September 30, 2002.
+&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary shall provide up to 5 percent for use only for grants under subsection (n) of this section.
 
-(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27.)
+#### (n) Grants for assisting affordable housing developed through main street projects in smaller communities
+
+#### (1) Authority and use of grant amounts
+
+&emsp;The Secretary may make grants under this subsection to smaller communities. Such grant amounts shall be used by smaller communities only to provide assistance to carry out eligible affordable housing activities under paragraph (4) in connection with an eligible project under paragraph (2).
+
+#### (2) Eligible project
+
+&emsp;For purposes of this subsection, the term “eligible project” means a project that—
+
+&emsp;&emsp;(A) the Secretary determines, under the criteria established pursuant to paragraph (3), is a main street project;
+
+&emsp;&emsp;(B) is carried out within the jurisdiction of a smaller community receiving the grant; and
+
+&emsp;&emsp;(C) involves the development of affordable housing that is located in the commercial area that is the subject of the project.
+
+#### (3) Main street projects
+
+&emsp;The Secretary shall establish requirements for a project to be considered a main street project for purposes of this section, which shall require that the project—
+
+&emsp;&emsp;(A) has as its purpose the revitalization or redevelopment of a historic or traditional commercial area;
+
+&emsp;&emsp;(B) involves investment, or other participation, by the government for, and private entities in, the community in which the project is carried out; and
+
+&emsp;&emsp;(C) complies with such historic preservation guidelines or principles as the Secretary shall identify to preserve significant historic or traditional architectural and design features in the structures or area involved in the project.
+
+#### (4) Eligible affordable housing activities
+
+&emsp;For purposes of this subsection, the activities described in subsection (d)(1) of this section shall be considered eligible affordable housing activities, except that—
+
+&emsp;&emsp;(A) such activities shall be conducted with respect to affordable housing rather than with respect to severely distressed public housing projects; and
+
+&emsp;&emsp;(B) eligible affordable housing activities under this subsection shall not include the activities described in subparagraphs (B) through (E), (J), or (K) of subsection (d)(1) of this section.
+
+#### (5) Maximum grant amount
+
+&emsp;A grant under this subsection for a fiscal year for a single smaller community may not exceed $1,000,000.
+
+#### (6) Contribution requirement
+
+&emsp;A smaller community applying for a grant under this subsection shall be considered an applicant for purposes of subsection (c) of this section (relating to contributions by applicants), except that—
+
+&emsp;&emsp;(A) such supplemental amounts shall be used only for carrying out eligible affordable housing activities; and
+
+&emsp;&emsp;(B) paragraphs (1)(B) and (3) shall not apply to grants under this subsection.
+
+#### (7) Applications and selection
+
+#### (A) Application
+
+&emsp;&emsp;Pursuant to subsection (e)(1) of this section, the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+
+#### (B) Selection criteria
+
+&emsp;&emsp;The Secretary shall establish selection criteria for the award of grants under this subsection, which shall be based on the selection criteria established pursuant to subsection (e)(2) of this section, with such changes as may be appropriate to carry out the purposes of this subsection.
+
+#### (8) Cost limits
+
+&emsp;The cost limits established pursuant to subsection (f) of this section shall apply to eligible affordable housing activities assisted with grant amounts under this subsection.
+
+#### (9) Inapplicability of other provisions
+
+&emsp;The provisions of subsections (g) (relating to disposition and replacement of severely distressed public housing), and (h) (relating to administration of grants by other entities) of this section, shall not apply to grants under this subsection.
+
+#### (10) Reporting
+
+&emsp;The Secretary shall require each smaller community receiving a grant under this subsection to submit a report regarding the use of all amounts provided under the grant.
+
+#### (11) Definitions
+
+&emsp;For purposes of this subsection, the following definitions shall apply:
+
+#### (A) Affordable housing
+
+&emsp;&emsp;The term “affordable housing” means rental or homeownership dwelling units that—
+
+&emsp;&emsp;&emsp;(i) are made available for initial occupancy to low-income families, with a subset of units made available to very- and extremely-low income families; and
+
+&emsp;&emsp;&emsp;(ii) are subject to the same rules regarding occupant contribution toward rent or purchase and terms of rental or purchase as dwelling units in public housing projects assisted with a grant under this section.
+
+#### (B) Smaller community
+
+&emsp;&emsp;The term “smaller community” means a unit of general local government (as such term is defined in section 5302 of this title) that—
+
+&emsp;&emsp;&emsp;(i) has a population of 50,000 or fewer; and
+
+&emsp;&emsp;&emsp;(ii)(I) is not served by a public housing agency; or
+
+&emsp;&emsp;&emsp;(II) is served by a single public housing agency, which agency administers 100 or fewer public housing dwelling units.
+
+#### (<i>o</i>) Sunset
+
+No assistance may be provided under this section after September 30, 2006.
+
+(Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694.)
 
 #### References in Text
 
@@ -203,6 +309,36 @@ Section 1437<i>l</i> of this title, referred to in subsec. (j)(2)(A)(iv), was re
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (j)(2)(A)(iv), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
+
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—” for “The Secretary shall establish selectioncriteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
+
+Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out “large-scale” after “for managing”.
+
+Subsec. (e)(2)(D). Pub. L. 108–186, §402(a)(3), inserted “and ongoing implementation” after “development” and “, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application” before semicolon at end.
+
+Subsec. (e)(2)(I) to (L). Pub. L. 108–186, §402(a)(4)–(6), added subpars. (I) to (K) and redesignated former subpar. (I) as (L).
+
+Subsec. (j)(2)(A)(iii)(III). Pub. L. 108–186, §402(b), added subcl. (III).
+
+Subsec. (<i>l</i>)(3). Pub. L. 108–186, §403(c)(1), substituted “, including a specification of the amount and type of assistance provided under subsection (n) of this section;” for “; and”.
+
+Subsec. (<i>l</i>)(4), (5). Pub. L. 108–186, §403(c)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (m)(1). Pub. L. 108–186, §402(d), which directed substitution of “through 2006” for “, 2001, and 2002” could not be executed because the words “, 2001, and 2002” did not appear subsequent to amendment by Pub. L. 108–7, §215(a). See below.
+
+Pub. L. 108–7, §215(a), substituted “$574,000,000 for fiscal year 2003” for “$600,000,000 for fiscal year 1999 and such sums as may be necessary for each of fiscal years 2000, 2001, and 2002”.
+
+Subsec. (m)(3). Pub. L. 108–186, §403(d), added par. (3).
+
+Subsec. (n). Pub. L. 108–186, §403(b)(2), added subsec. (n). Former subsec. (n) redesignated (<i>o</i>).
+
+Pub. L. 108–186, §402(e), substituted “September 30, 2006” for “September 30, 2004”.
+
+Pub. L. 108–7, §215(b), substituted “September 30, 2004” for “September 30, 2002”.
+
+Subsec. (<i>o</i>) Pub. L. 108–186, §403(b)(1), redesignated subsec. (n) as (<i>o</i>).
 
 2000—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon “, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
 
@@ -232,7 +368,11 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Study of Elderly and Disabled Public Housing Needs
+
+Pub. L. 108–186, title IV, §402(c), Dec. 16, 2003, 117 Stat. 2694, provided that: “Not later than 18 months after the date of enactment of this Act \[Dec. 16, 2003\], the Comptroller General of the United States shall submit a report to Congress regarding the extent of severely distressed elderly and non-elderly disabled public housing, and recommendations for improving that housing through the HOPE VI program or other means, taking into account the special needs of the residents.”
 
 #### Section Referred to in Other Sections
 

@@ -4,17 +4,19 @@
 
 (b)(1) Proceeds from sales under subsection (a) shall be credited to the appropriation account currently available to the military department concerned for the supply of electrical energy.
 
-(2) Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under section 2865(a) of this title, including minor military construction projects authorized under section 2805 of this title that are designed to increase energy conservation.
+(2) Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under section 2865(a) of this title, including minor military construction projects authorizedunder section 2805 of this title that are designed to increase energy conservation.
 
-(c) Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress in writing of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 21-day period beginning on the date the notification is received by Congress.
+(c) Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress in writing of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 21-day period beginning on the date the notification is received by Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 98–407, title VIII, §810(a), Aug. 28, 1984, 98 Stat. 1523, §2483; amended Pub. L. 103–160, div. B, title XXVIII, §2802, Nov. 30, 1993, 107 Stat. 1884; renumbered §2867, Pub. L. 105–85, div. A, title III, §371(b)(2), Nov. 18, 1997, 111 Stat. 1705.)
+(Added Pub. L. 98–407, title VIII, §810(a), Aug. 28, 1984, 98 Stat. 1523, §2483; amended Pub. L. 103–160, div. B, title XXVIII, §2802, Nov. 30, 1993, 107 Stat. 1884; renumbered §2867, Pub. L. 105–85, div. A, title III, §371(b)(2), Nov. 18, 1997, 111 Stat. 1705; Pub. L. 108–136, div. A, title X, §1031(a)(49), Nov. 24, 2003, 117 Stat. 1602.)
 
 #### References in Text
 
 The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
 1997—Pub. L. 105–85 renumbered section 2483 of this title as this section.
 

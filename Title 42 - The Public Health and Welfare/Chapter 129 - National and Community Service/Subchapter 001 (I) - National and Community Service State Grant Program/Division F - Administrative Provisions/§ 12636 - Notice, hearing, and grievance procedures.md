@@ -24,11 +24,11 @@ A transcript or recording shall be made of a hearing conducted under this sectio
 
 #### (d) State legislation
 
-Nothing in this subchapter shall be construed to preclude the enactment of State legislation providing for the implementation, consistent with this subchapter, of the programs administered under this subchapter.
+Nothing in this subchapter shall be construed to preclude the enactment of State legislationproviding for the implementation, consistent with this subchapter, of the programs administered under this subchapter.
 
 #### (e) Construction
 
-Nothing in this subchapter shall be construed to link performance of service with receipt ofFederal student financial assistance, other than assistance provided pursuant to this chapter.
+Nothing in this subchapter shall be construed to link performance of service with receipt of Federal student financial assistance, other than assistance provided pursuant to this chapter.
 
 #### (f) Grievance procedure
 

@@ -26,11 +26,11 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(7) removal of the family members of a member of the Service, and the furniture and household and personal effects (including automobiles) of the family, from a Foreign Service post where there is imminent danger because of the prevalence of disturbed conditions, and the return of such individuals, furniture, and effects to such post upon the cessation of such conditions, or to such other Foreign Service post as may in the meantime have become the post to which the member of the Service has been reassigned;
 
-&emsp;(8) trips by a member of the Service for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of the member because of imminent danger due to the prevalence of disturbed conditions, except that—
+&emsp;(8) trips by a member of the Service, and members of his or her family, for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of the member because of imminent danger due to the prevalence of disturbed conditions, except that—
 
 &emsp;&emsp;(A) with respect to any such member whose family is located in the United States, the Secretary may pay the costs and expenses for not to exceed two round trips in a 12-month period; and
 
-&emsp;&emsp;(B) with respect to any such member whose family is located abroad, the Secretary may pay such costs and expenses for trips in a 12-month period as do not exceedthe cost of 2 round trips (at less than first class) to the District of Columbia;
+&emsp;&emsp;(B) with respect to any such member whose family is located abroad, the Secretary may pay such costs and expenses for trips in a 12-month period as do not exceed the cost of 2 round trips (at less than first class) to the District of Columbia;
 
 &emsp;(9) roundtrip travel to or from an employee's post of assignment for purposes of family visitation in emergency situations involving personal hardship, except that payment for travel by family members to an employee's post of assignment may be authorized under this paragraph only where the family of the member is prevented by official order from residing at such post.<sup>1</sup>
 
@@ -64,13 +64,11 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 (Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387.)
 
-#### Amendment of Paragraph (8)
-
-<i>Pub. L. 107–228, div. A, title III, §315(a), (c), Sept. 30, 2002, 116 Stat. 1379, provided that, effective on the date on which guidance for implementation of this amendment is issued by the Secretary of State, par. (8) of this section is amended by striking “Service” and inserting “Service, and members of his or her family,”.</i>
-
 #### Amendments
 
-2002—Par. (15). Pub. L. 107–228, §328, in concluding provisions, substituted “residence of the other parent,or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
+2002—Par. (8). Pub. L. 107–228, §315(a), substituted “Service, and members of his or her family,” for “Service”.
+
+Par. (15). Pub. L. 107–228, §328, in concluding provisions, substituted “residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent” for “port of entry in the contiguous 48 States which is nearest to that post”.
 
 1991—Par. (10). Pub. L. 102–138, §146, inserted before semicolon “or, if death occurs in the United States, transport of the remains to the designated home in the United States or to a place not more distant”.
 
@@ -82,7 +80,7 @@ Par. (12)(C). Pub. L. 102–138, §145(2), inserted before semicolon “, excep
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.”
+Pub. L. 107–228, div. A, title III, §315(c), Sept. 30, 2002, 116 Stat. 1379, provided that: “The amendment made bysubsection (a) \[amending this section\] shall take effect on the date on which guidance for implementation of such amendment is issued by the Secretary.” \[Guidance in the form of a State Department cable was issued Nov. 5, 2002.\]
 
 \[For definition of “Secretary” as used in section 315(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

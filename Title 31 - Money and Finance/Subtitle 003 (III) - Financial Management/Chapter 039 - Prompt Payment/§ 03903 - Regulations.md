@@ -126,7 +126,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 Section 11 of Pub. L. 100–496 provided that:
 
-“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
+“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
 
 “(b) The solicitation provisions and contract clauses required by subsection (a) of this section shall include (but not be limited to) the following matters:
 
@@ -156,7 +156,7 @@ Section 11 of Pub. L. 100–496 provided that:
 
 &emsp;&emsp;&emsp;“(ii) the making of a determination by such an employee, that the performance covered by the payment conforms to the terms and conditions of the contract.
 
-&emsp;“(3) A conclusive presumption, exclusively for the purposes of determining when an agency becomes obligated to pay a late payment interest penalty (other than under construction contracts), that the Federal Government has accepted property or services by the 7th day after the date on which, in accordance with the terms and conditions of the contract, the property is delivered or final performance of the services is completed, unless the solicitation specifies alonger period which is determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed.
+&emsp;“(3) A conclusive presumption, exclusively for the purposes of determining when an agency becomes obligated to pay a late payment interest penalty (other than under construction contracts), that the Federal Government has accepted property or services by the 7th day after the date on which, in accordance with the terms and conditions of the contract, the property is delivered or final performance of the services is completed, unless the solicitation specifies a longer period which is determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed.
 
 &emsp;“(4) The limitation that the Federal Government may take a discount offered by a contractor for early payment by the Federal Government only in accordance with the time limits specified by the contractor, determined in accordance with the second sentence of section 3904 of title 31, United States Code.
 

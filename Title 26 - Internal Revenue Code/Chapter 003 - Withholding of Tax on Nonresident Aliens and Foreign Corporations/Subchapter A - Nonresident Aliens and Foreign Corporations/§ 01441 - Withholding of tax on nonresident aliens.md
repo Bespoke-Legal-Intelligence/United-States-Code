@@ -26,7 +26,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (1) Income connected with United States business
 
-&emsp;No deduction or withholding under subsection (a) shall be required in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year.
+&emsp;No deduction or withholding under subsection (a) shall be required in the case of anyitem of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year.
 
 #### (2) Owner unknown
 
@@ -38,7 +38,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (4) Compensation of certain aliens
 
-&emsp;Under regulations prescribed by the Secretary, compensation for personal servicesmay be exempted from deduction and withholding under subsection (a).
+&emsp;Under regulations prescribed by the Secretary, compensation for personal services may be exempted from deduction and withholding under subsection (a).
 
 #### (5) Special items
 
@@ -84,7 +84,7 @@ For purposes of this section, the term “nonresident alien individual” includ
 
 &emsp;<b>For provision treating 85 percent of social security benefits as subject to withholding under this section, see section 871(a)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, §11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI,§11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099.)
 
 #### References in Text
 
@@ -94,7 +94,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A \[§§5 to 1082\] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to\(n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
 
 #### Amendments
 
@@ -160,7 +160,7 @@ Subsecs. (d), (e). Pub. L. 89–809, §103(h)(9), added subsec. (d) and redesign
 
 Subsec. (b). Pub. L. 87–256, §110(d)(2), inserted provisions listing items of income from which tax shall be deducted and withheld at the rate of 18 percent.
 
-Subsec. (c)(4). Pub. L. 87–256, §110(d)(3), authorized the exemption from deduction and withholding of the compensation for personal services of a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant undersubpar. (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended.
+Subsec. (c)(4). Pub. L. 87–256, §110(d)(3), authorized the exemption from deduction and withholding of the compensation for personal services of a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subpar. (F) or (J) of section 101(a)(15) of the Immigration and Nationality Act, as amended.
 
 1958—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted “section 403(a)(2),” after “section 402(a)(2),”.
 

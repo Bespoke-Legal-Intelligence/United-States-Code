@@ -74,7 +74,7 @@ Each plan administrator required to file a registration statement under subsecti
 
 &emsp;&emsp;<b>For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. B. title VI, §2663(j)(5)(D), July 18, 1984, 98 Stat. 1171; Pub. L. 98–397, title II, §206, Aug. 23, 1984, 98 Stat. 1449; Pub. L. 99–514, title XV, §1501(d)(1)(F), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 103–296, title I, §108(h)(5), Aug. 15, 1994, 108 Stat. 1487.)
+(Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. B. title VI, §2663(j)(5)(D), July 18, 1984, 98 Stat. 1171; Pub. L. 98–397, title II, §206, Aug. 23, 1984, 98 Stat. 1449; Pub. L. 99–514, title XV, §1501(d)(1)(F), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 103–296, title I, §108(h)(5), Aug. 15, 1994, 108 Stat. 1487.)
 
 #### References in Text
 

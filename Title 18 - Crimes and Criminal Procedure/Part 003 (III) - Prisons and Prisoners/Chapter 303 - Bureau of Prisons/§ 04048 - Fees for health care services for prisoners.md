@@ -28,7 +28,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) any individual who is incarcerated in an institution under the jurisdiction of the Bureau of Prisons; or
 
-&emsp;&emsp;(B) any other individual, as designated by the Director, who has been charged with or convicted of an offense against the United States.
+&emsp;&emsp;(B) any other individual, as designated by the Director, who has been charged with orconvicted of an offense against the United States.
 
 (b)
 
@@ -96,7 +96,7 @@ Notice to Prisoners of Regulations.—The regulations promulgated by the Directo
 
 (j)
 
-Notice Before Public Comment Period.—Before the beginning of any period a proposed regulation under this section is open to public comment, the Director shall provide written and oral notice of the provisions of that proposedregulation to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed regulation.
+Notice Before Public Comment Period.—Before the beginning of any period a proposed regulation under this section is open to public comment, the Director shall provide written and oral notice of the provisions of that proposed regulation to groups that advocate on behalf of Federal prisoners and to each prisoner subject to such proposed regulation.
 
 (k)
 

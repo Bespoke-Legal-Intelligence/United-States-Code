@@ -32,7 +32,7 @@ The requirements of this section shall apply to—
 
 #### (2) Definitions
 
-&emsp;For purposes of the application of title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) under this section, the term “public entity” means any entity listed in subsection (a) of this section that provides public services, programs, or activities.
+&emsp;For purposes of the application of title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) under this section, the term “public entity” means any entity listedin subsection (a) of this section that provides public services, programs, or activities.
 
 #### (c) Remedy
 

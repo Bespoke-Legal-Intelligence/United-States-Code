@@ -10,7 +10,7 @@
 
 (1) The Secretary shall, after consultation with the Marine Mammal Commission—
 
-&emsp;(A) publish in the Federal Register, for public comment, not later than sixty days after November 23, 1988, a proposed list of those fisheries, along with a statement of the marinemammals and the approximate number of vessels or persons involved in each such fishery, that have—
+&emsp;(A) publish in the Federal Register, for public comment, not later than sixty days after November 23, 1988, a proposed list of those fisheries, along with a statement of the marine mammals and the approximate number of vessels or persons involved in each such fishery, that have—
 
 &emsp;&emsp;(i) frequent incidental taking of marine mammals;
 
@@ -84,7 +84,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(B) interviews with fishermen; and
 
-&emsp;(C) other such information gathering and verification activities that will enable the Secretary to determine reliably the nature, type, and extent of the incidental taking of marine mammals that occurs in a fishery.
+&emsp;(C) other such information gathering and verification activities that will enable the Secretary to determine reliably the nature,type, and extent of the incidental taking of marine mammals that occurs in a fishery.
 
 > Except to the extent authorized by the provisions of subsection (e) of this section, the program shall not include placement of observers aboard exempted vessels.
 
@@ -116,7 +116,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 > The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
 
-(4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition oftarget and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
+(4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
 (5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to require observers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
 
@@ -162,7 +162,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(A) a Regional Fishery Management Council or State does not act in a reasonable period of time on a request made by the Secretary under paragraph (3); or
 
-&emsp;(B) if the Secretary determines after notice and opportunity for public comment that thepurposes of this section would be better served by such action.
+&emsp;(B) if the Secretary determines after notice and opportunity for public comment that the purposes of this section would be better served by such action.
 
 #### (h) Information and management system for processing and analyzing reports and information; accessibility to public
 

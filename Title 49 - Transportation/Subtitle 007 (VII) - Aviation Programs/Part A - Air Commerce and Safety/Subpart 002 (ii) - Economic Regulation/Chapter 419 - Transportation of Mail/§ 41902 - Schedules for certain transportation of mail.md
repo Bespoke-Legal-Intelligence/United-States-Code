@@ -20,7 +20,7 @@ Statements on Places and Schedules.—Every air carrier shall file with the Secr
 
 Designating and Additional Schedules.—The Postal Service may—
 
-&emsp;(1) designate any schedule of an air carrier filed under subsection (b)(3) of this section for the transportation of mail between the places between which the carrier is authorized by its certificate to transport mail; and
+&emsp;(1) designate any schedule of an air carrier filed under subsection (b)(3) of this section for the transportation of mail between the placesbetween which the carrier is authorized by its certificate to transport mail; and
 
 &emsp;(2) require the carrier to establish additional schedules for the transportation of mail between those places.
 
@@ -138,7 +138,7 @@ Section 4(k) reflects amendments to the restatement required by section 1601(a)(
 
 1999—Subsecs. (a), (b)(2) to (4). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
 
-1994—Subsec. (a). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting “foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
+1994—Subsec. (a). Pub. L. 103–272, §4(k)(1), which directed the amendment of this section by substituting“foreign air transportation” for “foreign air transportation or between places in Alaska”, effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 
 Subsec. (b)(2) to (4). Pub. L. 103–272, §4(k)(3), as amended by Pub. L. 103–429, which directed the amendment of subsec. (b) by redesignating par. (3) as (2) and substituting “clause (1)” for “clauses (1) and (2)”, striking out former par. (2) which read as follows: “the places between which the carrier is authorized to transport mail in Alaska;”, and redesignating par. (4) as (3), effective Jan. 1, 1999, was repealed by Pub. L. 106–31, §6003, effective Dec. 31, 1998.
 

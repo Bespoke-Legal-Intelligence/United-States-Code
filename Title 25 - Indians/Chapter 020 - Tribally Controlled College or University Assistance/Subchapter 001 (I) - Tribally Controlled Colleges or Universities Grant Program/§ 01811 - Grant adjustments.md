@@ -40,7 +40,7 @@ In any fiscal year in which the amounts for which grant recipients are eligible 
 
 1998—Subsec. (a)(2). Pub. L. 105–244 substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscalyear an amount equal to 95 per centum of the product of—
+1990—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment,subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
 
 &emsp;“(i) the per capita payment for the preceding fiscal year; and
 

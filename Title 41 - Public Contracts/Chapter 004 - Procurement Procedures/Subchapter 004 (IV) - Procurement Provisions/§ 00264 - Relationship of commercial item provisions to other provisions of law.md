@@ -16,11 +16,11 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Regulations
 
-Section 8002 of Pub. L. 103–355 provided that:
+Pub. L. 103–355, title VIII, §8002, Oct. 13, 1994, 108 Stat. 3386, as amended by Pub. L. 108–136, div. A, title XIV, §1432, Nov. 24, 2003, 117 Stat. 1672, provided that:
 
 “(a)
 
-In General.—The Federal Acquisition Regulation shall provide regulations to implement paragraphs\(12) through (15) of section 4 of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)–(15)\], chapter 140 of title 10, United States Code, and sections 314 through 314B of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 264–264b\].
+In General.—The Federal Acquisition Regulation shall provide regulations to implement paragraphs (12) through (15) of section 4 of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)–(15)\], chapter 140 of title 10, United States Code, and sections 314 through 314B of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 264–264b\].
 
 “(b)
 
@@ -62,11 +62,35 @@ Market Acceptance.—(1) The Federal Acquisition Regulation shall provide that u
 
 “(d)
 
-Use of Firm, Fixed Price Contracts.—The Federal Acquisition Regulation shall include, for acquisitions of commercial items—
+Provisions Relating to Types of Contracts for Commercial Items.—(1) \[The\] Federal Acquisition Regulation shall include, for acquisitions of commercial items—
 
-&emsp;“(1) a requirement that firm, fixed price contracts or fixed price with economic price adjustment contracts be used to the maximum extent practicable; and
+&emsp;“(A) a requirement that firm, fixed price contracts or fixed price with economic price adjustment contracts be used to the maximum extent practicable;
 
-&emsp;“(2) a prohibition on use of cost type contracts.
+&emsp;“(B) a prohibition on use of cost type contracts; and
+
+&emsp;“(C) subject to paragraph (2), authority for use of a time-and-materials contract or a labor-hour contract for the procurement of commercial services that are commonly sold to the general public through such contracts and are purchased by the procuring agency on a competitive basis.
+
+“(2) A time-and-materials contract or a labor-hour contract may be used pursuant to the authority referred to in paragraph (1)(C)—
+
+&emsp;“(A) only for a procurement of commercial services in a category of commercial services described in paragraph (3); and—
+
+&emsp;“(B) only if the contracting officer for such procurement—
+
+&emsp;&emsp;“(i) executes a determination and findings that no other contract type is suitable;
+
+&emsp;&emsp;“(ii) includes in the contract a ceiling price that the contractor exceeds at its own risk; and
+
+&emsp;&emsp;“(iii) authorizes any subsequent change in the ceiling price only upon a determination, documented in the contract file, that it is in the best interest of the procuring agency to change such ceiling price.
+
+“(3) The categories of commercial services referred to in paragraph (2) are as follows:
+
+&emsp;“(A) Commercial services procured for support of a commercial item, as described in section 4(12)(E) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(E)).
+
+&emsp;“(B) Any other category of commercial services that is designated by the Administrator for Federal Procurement Policy in the Federal Acquisition Regulation for the purposes of this paragraph on the basis that—
+
+&emsp;&emsp;“(i) the commercial services in such category are of a type of commercial services that are commonly sold to the general public through use of time-and-materials or labor-hour contracts; and
+
+&emsp;&emsp;“(ii) it would be in the best interests of the Federal Government to authorize use of time-and-materials or labor-hour contracts for purchases of the commercial services in such category.
 
 “(e)
 
@@ -86,7 +110,7 @@ Defense Contract Clauses.—(1) Section 824(b) of the National Defense Authoriza
 
 #### Provisions Not Affected by Title VIII of Pub. L. 103–355
 
-Section 8304 of title VIII of Pub. L. 103–355 provided that: “Nothing in this title \[enacting this section, sections 264a, 264b, and 430 of this title, sections 2375 to 2377 of Title 10, Armed Forces, and section 334 of former Title 40, Public Buildings, Property, and Works, now section 3707 of Title 40, amending sections 57, 58, 253g, 254, 403, 416, 418, 422, 423, and 701 of this title, sections 2306, 2320, 2321, 2384, 2393, 2397, 2397b, 2397c, 2402, 2408, and 2410b of Title 10, section 1368 of Title 33, Navigation and Navigable Waters, and section 40118 of Title 49, Transportation, repealing section 424 of this title and section 2325 of Title 10, enacting provisions set out as notes under this section, sections 264b and 430 of this title, and section 7606 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 2301 and 2327 of Title 10\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
+Section 8304 of title VIII of Pub. L. 103–355 provided that: “Nothing in this title \[enacting this section, sections 264a, 264b, and 430 of this title, sections 2375 to2377 of Title 10, Armed Forces, and section 334 of former Title 40, Public Buildings, Property, and Works, now section 3707 of Title 40, amending sections 57, 58, 253g, 254, 403, 416, 418, 422, 423, and 701 of this title, sections 2306, 2320, 2321, 2384, 2393, 2397, 2397b, 2397c, 2402, 2408, and 2410b of Title 10, section 1368 of Title 33, Navigation and Navigable Waters, and section 40118 of Title 49, Transportation, repealing section 424 of this title and section 2325 of Title 10, enacting provisions set out as notes under this section, sections 264b and 430 of this title, and section 7606 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 2301 and 2327 of Title 10\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
 &emsp;“(1) section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
 

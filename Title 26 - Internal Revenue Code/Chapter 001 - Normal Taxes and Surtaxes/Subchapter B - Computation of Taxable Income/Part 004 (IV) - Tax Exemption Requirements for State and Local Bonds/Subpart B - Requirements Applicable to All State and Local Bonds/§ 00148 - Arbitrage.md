@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (B) Exception
 
-&emsp;&emsp;With respect to an issue other than an issue a part of which is a specified private activity bond (as defined in section 57(a)(5)(C)), the term “investment property” includes a specified private activity bond (as so defined).
+&emsp;&emsp;With respect to an issue other than an issue a part of which is a specified private activity bond (as defined in section57(a)(5)(C)), the term “investment property” includes a specified private activity bond (as so defined).
 
 #### (c) Temporary period exception
 
@@ -110,7 +110,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (3) Due date of payments under paragraph (2)
 
-&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270 days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
+&emsp;Except to the extent provided by the Secretary, the amount which is required to be paid to the United States by the issuer shall be paid in installments which are made at least once every 5 years. Each installment shall be in an amount which ensures that 90 percent of the amount described in paragraph (2) with respect to the issue at the time payment of such installment is required will have been paid to the United States. The last installment shall be made no later than 60 days after the day on which the last bond of the issue is redeemed and shall be in an amount sufficient to pay the remaining balance of the amount described in paragraph (2) with respect to such issue. A series of issues which are redeemed during a 6-month period (or such longer period as the Secretary may prescribe) shall be treated (at the election of the issuer) as 1 issue for purposes of the preceding sentence if no bond which is part of any issue in such series has a maturity of more than 270days or is a private activity bond. In the case of a tax and revenue anticipation bond, the last installment shall not be required to be made before the date 8 months after the date of issuance of the issue of which the bond is a part.
 
 #### (4) Special rules for applying paragraph (2)
 
@@ -320,7 +320,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (xvi) Time for payment of penalties
 
-&emsp;&emsp;&emsp;Any penalty under this subparagraph shall be paid to the United States not later than 90 days after the period to which the penalty relates.
+&emsp;&emsp;&emsp;Any penalty under this subparagraph shall be paid to the United States not laterthan 90 days after the period to which the penalty relates.
 
 #### (xvii) Treatment of bona fide debt service funds
 
@@ -386,11 +386,11 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(I) such issue was issued by a governmental unit with general taxing powers,
 
-&emsp;&emsp;&emsp;&emsp;(II) no bond issued as part of such issue was an industrial development bond (as defined in section 103(b)(2), but without regard to subparagraph (B) of section 103(b)(3)) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(C)), and
+&emsp;&emsp;&emsp;&emsp;(II) no bond issued as part of such issue was an industrial development bond (as defined in section 103(b)(2), but without regard to subparagraph (B) of section103(b)(3)) or a private loan bond (as defined in section 103(<i>o</i>)(2)(A), but without regard to any exception from such definition other than section 103(<i>o</i>)(2)(C)), and
 
 &emsp;&emsp;&emsp;&emsp;(III) the aggregate face amount of all tax-exempt bonds (other than bonds described in subclause (II)) issued by such unit during the calendar year in which such issue was issued did not exceed $5,000,000.
 
-&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similarto the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
+&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similar to the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
 
 #### (vii) Increase in exception for bonds financing public school capital expenditures
 
@@ -536,7 +536,7 @@ Subsec. (f)(7)(B). Pub. L. 100–647, §1013(a)(19), substituted “not due” f
 
 Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -546,7 +546,7 @@ Section 1445 of title XIV of Pub. L. 105–34 provided that: “The amendments m
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision ofthe Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 Section 11701(j)(8) of Pub. L. 101–508 provided that: “Section 148(f)(4)(C)(xiii)(II) of such Code (as added by this subsection) shall apply only to refunding bonds issued after August 3, 1990.”
 

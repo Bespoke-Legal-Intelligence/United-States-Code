@@ -84,7 +84,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (B) Deduction for certain offsets
 
-&emsp;&emsp;There shall be allowed as a deduction the net short-term capital gain for the taxable year to the extent such gain does not exceed the amount of any capital loss carryover to such taxable year under section 1212 (determined without regard to paragraph (7)(B)).
+&emsp;&emsp;There shall be allowed as a deduction the net short-term capital gain for the taxable year to the extent such gain does not exceedthe amount of any capital loss carryover to such taxable year under section 1212 (determined without regard to paragraph (7)(B)).
 
 #### (C) Earnings and profits
 
@@ -98,7 +98,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (1) General rule
 
-&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed bysubsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
+&emsp;For purposes of subsection (a), in the case of a corporation other than a mere holding or investment company the accumulated earnings credit is (A) an amount equal to such part of the earnings and profits for the taxable year as are retained for the reasonable needs of the business, minus (B) the deduction allowed by subsection (b)(6). For purposes of this paragraph, the amount of the earnings and profits for the taxable year which are retained is the amount by which the earnings and profits for the taxable year exceed the dividends paid deduction (as defined in section 561) for such year.
 
 #### (2) Minimum credit
 
@@ -174,7 +174,7 @@ Subsec. (b)(9), (10). Pub. L. 94–455, §1901(b)(32)(C), struck out par. (9) re
 
 1969—Subsec. (b)(6). Pub. L. 91–172, §512(f)(5), substituted “capital loss carryback or carryover” for “capital loss carryover” and “capital loss carryback and carryover” for “capital loss carryover” in subpar. (B).
 
-Subsec. (b)(7). Pub. L. 91–172, §512(f)(6), substituted “Capital loss” for “Capital loss carryover” in headingand “capital loss carryback or carryover” for “capital loss carryover” in text.
+Subsec. (b)(7). Pub. L. 91–172, §512(f)(6), substituted “Capital loss” for “Capital loss carryover” in heading and “capital loss carryback or carryover” for “capital loss carryover” in text.
 
 Subsec. (c)(5). Pub. L. 91–172, §401(b)(2)(C), substituted “section 1551, and for limitation on such credit in the case of certain controlled corporations, see sections 1561 and 1564” for “section 1551”.
 
@@ -246,7 +246,7 @@ Section 205(b) of Pub. L. 85–866 provided that: “The amendments made by subs
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

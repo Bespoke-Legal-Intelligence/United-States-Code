@@ -2,7 +2,7 @@
 
 (a)
 
-Research on Effect of Automation on Performance.—To develop the means necessaryto establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
+Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
 &emsp;(1) methods for improving and accelerating future air traffic controller training through the application of advanced training techniques, including the use of simulation technology;
 
@@ -79,6 +79,30 @@ In subsection (c), the words “institutions of higher education” are substitu
 #### Amendments
 
 1996—Subsec. (d). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Controller Staffing
+
+Pub. L. 108–176, title II, §221, Dec. 12, 2003, 117 Stat. 2526, provided that:
+
+“(a)
+
+Annual Report.—Beginning with the submission of the Budget of the United States to the Congress for fiscal year 2005, the Administrator of the Federal Aviation Administration shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure that describes the overall air traffic controller staffing plan, including strategies to address anticipated retirement and replacement of air traffic controllers.
+
+“(b)
+
+Human Capital Workforce Strategy.—
+
+&emsp;“(1)
+
+Development.—The Administrator shall develop a comprehensive human capital workforce strategy to determine the most effective method for addressing the need for more air traffic controllers that is identified in the June 2002 report of the General Accounting Office.
+
+&emsp;“(2)
+
+Completion date.—Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator shall complete development of the strategy.
+
+&emsp;“(3)
+
+Report.—Not later than 30 days after the date on which the strategy is completed, the Administrator shall transmit to Congress a report describing the strategy.”
 
 #### Section Referred to in Other Sections
 

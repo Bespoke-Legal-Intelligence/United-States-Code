@@ -8,7 +8,7 @@ As used in this chapter—
 
 (c) The term “automobile dealer” shall mean any person, partnership, corporation, association, or other form of business enterprise resident in the United States or in any Territory thereof or in the District of Columbia operating under the terms of a franchise and engaged in the sale or distribution of passenger cars, trucks, or station wagons.
 
-(d) The term “commerce” shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation,or between the District of Columbia and any State or Territory or foreign nation.
+(d) The term “commerce” shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
 
 (e) The term “good faith” shall mean the duty of each party to any franchise, and all officers, employees, or agents thereof to act in a fair and equitable manner toward each other so as to guarantee the one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: <i>Provided</i>, That recommendation, endorsement, exposition, persuasion, urging or argument shall not be deemed to constitute a lack of good faith.
 

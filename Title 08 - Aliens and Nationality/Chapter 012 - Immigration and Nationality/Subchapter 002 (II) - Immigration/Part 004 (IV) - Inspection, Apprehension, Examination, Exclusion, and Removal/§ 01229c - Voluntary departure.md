@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a detailed diagnosis statement from the physician, which includes the treatment being sought and the expected time period the alien will be required to remain in the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that thealien's treatment is not being paid through any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
+&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that the alien's treatment is not being paid through any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
 
 &emsp;&emsp;&emsp;&emsp;(III) evidence of financial ability to support the alien's day-to-day expenses while in the United States (including the expenses of any family member described in clause (ii)) and evidence that any such alien or family member is not receiving any form of public assistance; or
 

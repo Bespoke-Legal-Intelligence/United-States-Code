@@ -58,7 +58,7 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 (1) Before the Secretary may authorize any person to conduct mineral activities the Secretary shall require such person to post a bond or other financial guarantee in an amount to insure the completion of reclamation pursuant to this subchapter. Such bond or other financial guarantee shall ensure—
 
-&emsp;(A) payment to the surface owner, after the completion of such mineral activities and reclamation, compensation for any permanent damages to crops and tangible improvements of the surface owner that resulted from mineral activities; and
+&emsp;(A) payment to the surface owner, after the completion of such mineral activities and reclamation, compensation for any permanentdamages to crops and tangible improvements of the surface owner that resulted from mineral activities; and
 
 &emsp;(B) payment to the surface owner of compensation for any permanent loss of income of the surface owner due to loss or impairment of grazing, or other uses of the land by the surface owner to the extent that reclamation required by the plan of operations would not permit such uses to continue at the level existing prior to the commencement of mineral activities.
 
@@ -80,7 +80,7 @@ The Secretary shall authorize a person to conduct mineral activities (other than
 
 &emsp;(i) The proposed plan of operations is complete and accurate.
 
-&emsp;(ii) The person submitting the proposed plan of operations has demonstrated that all otherapplicable Federal and State requirements have been met.
+&emsp;(ii) The person submitting the proposed plan of operations has demonstrated that all other applicable Federal and State requirements have been met.
 
 (B) The Secretary shall notify the person submitting a plan of operations of any modifications to such plan required to bring it into compliance with the requirements of this subchapter. If the person submitting the plan agrees to modify such plan in a manner acceptable to the Secretary, the Secretary shall approve the plan as modified. In the event no agreement can be reached on the modifications to the plan which, in the opinion of the Secretary, will bring such plan into compliance with the requirements of this subchapter, then the Secretary shall disapprove the plan and notify both the surface owner and the person submitting the plan of the decision.
 
@@ -112,7 +112,7 @@ Lands affected by mineral activities under a plan of operations approved pursuan
 
 #### (j) Inspections
 
-Should any surface owner of land subject to this subchapter have reason to believe that they are or may be adversely affected by mineral activities due to any violation of the terms and conditions of a plan of operations approved under subsection (f) of this section, such surface owner may request an inspection of such lands. The Secretary shall determine within 10 days of the receipt of the request whether the request states a reason to believe that a violation exists, except in the event the surface owner alleges and provides reason to believe that an imminent danger exists, the 10-day period shall be waived and the inspection conducted immediately. When an inspection is conducted under this paragraph, the Secretary shall notify the surface owner and such surface owner shall be allowed to accompany the inspector on the inspection.
+Should any surface owner of land subject to this subchapter have reason to believe that they are or may be adversely affected by mineral activities due to any violation of the terms andconditions of a plan of operations approved under subsection (f) of this section, such surface owner may request an inspection of such lands. The Secretary shall determine within 10 days of the receipt of the request whether the request states a reason to believe that a violation exists, except in the event the surface owner alleges and provides reason to believe that an imminent danger exists, the 10-day period shall be waived and the inspection conducted immediately. When an inspection is conducted under this paragraph, the Secretary shall notify the surface owner and such surface owner shall be allowed to accompany the inspector on the inspection.
 
 #### (k) Damages for failure to comply
 
@@ -174,7 +174,7 @@ The effective date of this subsection, referred to in subsecs. (b)(1)(A) and (c)
 
 This title, referred to in subsec. (i)(1), is unidentifiable because act Dec. 29, 1916, does not contain titles.
 
-The Mineral Leasing Act, referred to in subsec. (p)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act, referred to in subsec. (p)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.)of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 

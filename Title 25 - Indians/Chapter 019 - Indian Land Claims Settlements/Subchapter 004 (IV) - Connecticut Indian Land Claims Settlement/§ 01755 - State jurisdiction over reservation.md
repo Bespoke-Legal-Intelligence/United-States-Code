@@ -6,5 +6,5 @@ Notwithstanding the provision relating to a special election in section 406 of t
 
 #### References in Text
 
-Act of April 11, 1968, referred to in text, is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. Title IV of Pub. L. 90–284 is classified generally to subchapter III (§1321 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
+Act of April 11, 1968, referred to in text, is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. Title IV of Pub. L. 90–284 is classified generally to subchapter III (§1321 et seq.) ofchapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
 

@@ -10,7 +10,7 @@
 
 > shall be fined under this title, or imprisoned not more than 5 years, or both.
 
-(b) Notwithstanding subsection (a) or any other provision of law, if a forged, counterfeited, mutilated, or altered seal of a department or agency of the United States, or any facsimile thereof, is—
+(b) Notwithstanding subsection (a) or any other provision of law, if a forged, counterfeited,mutilated, or altered seal of a department or agency of the United States, or any facsimile thereof, is—
 
 &emsp;(1) so forged, counterfeited, mutilated, or altered;
 

@@ -80,7 +80,7 @@ Amendment by Pub. L. 89–74 effective July 15, 1965, see section 11 of Pub. L. 
 
 #### Savings Provision
 
-Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment,and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
 #### Transfer of Functions
 

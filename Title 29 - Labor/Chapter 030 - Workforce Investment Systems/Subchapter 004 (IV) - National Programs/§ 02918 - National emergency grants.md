@@ -26,7 +26,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (A) Application
 
-&emsp;&emsp;To be eligible to receive a grant under subsection (a)(1) of this section, an entity shallsubmit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;&emsp;To be eligible to receive a grant under subsection (a)(1) of this section, an entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (B) Eligible entity
 
@@ -188,7 +188,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;(ix) Coverage under a group health plan that is available through the employment of the eligible individual's spouse.
 
-&emsp;&emsp;&emsp;(x) In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
+&emsp;&emsp;&emsp;(x) In the case of any eligible individual and such individual's qualifying familymembers, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of an eligible TAA recipient, the allowance described in section 35(c)(2) of title 26,
 
@@ -348,7 +348,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;With respect to applications submitted by States or entities for grants under this subsection, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity, notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
+&emsp;&emsp;&emsp;(i) not later than 15 days after the date on which the Secretary receives a completed application from a State or entity,notify the State or entity of the determination of the Secretary with respect to the approval or disapproval of such application;
 
 &emsp;&emsp;&emsp;(ii) in the case of an application of a State or entity that is disapproved by the Secretary, provide technical assistance, at the request of the State or entity, in a timely manner to enable the State or entity to submit an approved application; and
 
@@ -360,7 +360,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (5) Inclusion of certain individuals as eligible individuals
 
-&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 oftitle II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
+&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
 
 (Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963.)
 

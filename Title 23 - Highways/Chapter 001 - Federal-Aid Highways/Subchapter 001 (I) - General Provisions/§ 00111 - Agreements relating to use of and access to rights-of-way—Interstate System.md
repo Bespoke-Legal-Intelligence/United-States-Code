@@ -42,7 +42,7 @@ Distribution throughout state.—Within a State, at least 20 percent of the call
 
 &emsp;(3)
 
-Nonsafety hazards.—The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessary by the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
+Nonsafety hazards.—The call boxes and their location, posts, foundations, and mountings shall be consistent with requirements of the Manual on Uniform Traffic Control Devices or any requirements deemed necessaryby the Secretary to assure that the call boxes shall not be a safety hazard to motorists.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 87–61, title I, §104(a), June 29, 1961, 75 Stat. 122; Pub. L. 95–599, title I, §114, Nov. 6, 1978, 92 Stat. 2697; Pub. L. 100–17, title I, §110(a), Apr. 2, 1987, 101 Stat. 146; Pub. L. 104–59, title III, §306, Nov. 28, 1995, 109 Stat. 580; Pub. L. 105–178, title I, §1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
 
@@ -60,7 +60,7 @@ Nonsafety hazards.—The call boxes and their location, posts, foundations, and 
 
 #### Vending Machines; Placement in Rest, Recreation, and Safety Rest Areas; State Operation of Machines
 
-Pub. L. 97–424, title I, §111, Jan. 6, 1983, 96 Stat. 2106, provided that notwithstanding section 111 of this title before Oct. 1, 1983, any State could permit placement of vending machines in rest and recreation areas and in safety rest areas constructed or located on rights-of-way of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] in such State. Such vending machines could only dispense such food, drink, and other articles as the State highway department determined were appropriate and desirable. Such vending machines could only be operated by the State. In permitting the placement of vending machines under this section, the State had to give priority to vending machines which were operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, commonly known as the Randolph-Sheppard Act (20 U.S.C. 107a(a)(5)).
+Pub. L. 97–424, title I, §111, Jan. 6, 1983, 96 Stat. 2106, provided that notwithstanding section 111 of this title before Oct. 1, 1983, any State could permit placement of vending machines in rest and recreation areas and in safety rest areas constructed or located on rights-of-way of National System of Interstate and Defense Highways \[now Dwight D. Eisenhower System of Interstate and Defense Highways\] in such State. Such vending machines could only dispense such food, drink, and other articles as the State highway department determined were appropriate and desirable. Such vending machines could only be operated by the State. In permitting the placement of vending machines under this section, the State had to give priority to vending machines which were operated through the State licensing agency designated pursuant to section 2(a)(5) of the Act of June 20, 1936, known as the Randolph-Sheppard Act (20 U.S.C. 107a(a)(5)).
 
 #### Demonstration Project for Vending Machines in Rest and Recreation Areas
 

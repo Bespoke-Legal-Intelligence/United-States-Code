@@ -28,5 +28,5 @@ Congress finds that—
 
 Pub. L. 106–200, §1(a), May 18, 2000, 114 Stat. 251, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Trade and Development Act of 2000’.”
 
-Pub. L. 106–200, title I, §101, May 18, 2000, 114 Stat. 252, provided that: “This title \[enacting this chapter and sections 2466a and 2466b of this title and amending section 2463 of this title and sections 2193 and 2293 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘African Growth and Opportunity Act’.”
+Pub. L. 106–200, title I, §101, May 18, 2000, 114 Stat. 252, provided that: “This title \[enacting this chapter and sections 2466a and 2466b of this title and amending section 2463 of this title and sections 2193 and 2293 of Title22, Foreign Relations and Intercourse\] may be cited as the ‘African Growth and Opportunity Act’.”
 

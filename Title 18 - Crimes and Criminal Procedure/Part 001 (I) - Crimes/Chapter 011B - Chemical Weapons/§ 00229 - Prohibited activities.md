@@ -50,5 +50,5 @@ Pub. L. 105–277, div. I, title II, §211, Oct. 21, 1998, 112 Stat. 2681–872,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 229A, 229D, 229E, 2332b, 2339, 2339A, 2516 of this title.
+This section is referred to in sections 229A, 229D, 229E, 2332b, 2339, 2339A, 2516 of this title; title 38 section 6105.
 

@@ -94,7 +94,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (e) Dismissal with prejudice
 
-An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar as the moving defendant may be rejoined to the action as provided in section 1606 of this title.
+An order granting a motion to dismiss or for summary judgment pursuant to this section shall be entered with prejudice, except insofar asthe moving defendant may be rejoined to the action as provided in section 1606 of this title.
 
 #### (f) Manufacturer conduct of litigation
 

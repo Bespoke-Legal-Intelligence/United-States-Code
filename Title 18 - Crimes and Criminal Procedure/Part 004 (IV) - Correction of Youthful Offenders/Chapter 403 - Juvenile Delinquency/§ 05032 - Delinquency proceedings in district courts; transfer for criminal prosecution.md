@@ -1,6 +1,6 @@
 ### §5032. Delinquency proceedings in district courts; transfer for criminal prosecution
 
-A juvenile alleged to have committed an act of juvenile delinquency, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months, shall not be proceeded against in any court of the United States unless the Attorney General, after investigation, certifies to the appropriate district court of the United States that (1) the juvenile court or other appropriate court of a State does not have jurisdiction or refuses to assume jurisdiction over said juvenile with respect to such alleged act of juvenile delinquency, (2) the State does not have available programs and services adequate for the needs of juveniles, or (3) the offense charged is a crime of violence that is a felony or an offense described in section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), section 922(x) or section 924(b), (g), or (h) of this title, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.
+A juvenile alleged to have committed an act of juvenile delinquency, other than a violation of law committed within the special maritime and territorial jurisdiction of the United States for which the maximum authorized term of imprisonment does not exceed six months, shall not be proceeded against in any court of the United States unless the Attorney General, after investigation, certifies to the appropriate district court of the United States that (1) the juvenile court or other appropriate court of a State does not have jurisdiction or refuses to assume jurisdiction over said juvenile with respect to such alleged act of juvenile delinquency, (2) the Statedoes not have available programs and services adequate for the needs of juveniles, or (3) the offense charged is a crime of violence that is a felony or an offense described in section 401 of the Controlled Substances Act (21 U.S.C. 841), or section 1002(a), 1003, 1005, 1009, or 1010(b)(1), (2), or (3) of the Controlled Substances Import and Export Act (21 U.S.C. 952(a), 953, 955, 959, 960(b)(1), (2), (3)), section 922(x) or section 924(b), (g), or (h) of this title, and that there is a substantial Federal interest in the case or the offense to warrant the exercise of Federal jurisdiction.
 
 If the Attorney General does not so certify, such juvenile shall be surrendered to the appropriate legal authorities of such State. For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
@@ -10,7 +10,7 @@ A juvenile who is alleged to have committed an act of juvenile delinquency and w
 
 Evidence of the following factors shall be considered, and findings with regard to each factor shall be made in the record, in assessing whether a transfer would be in the interest of justice: the age and social background of the juvenile; the nature of the alleged offense; the extent and nature of the juvenile's prior delinquency record; the juvenile's present intellectual development and psychological maturity; the nature of past treatment efforts and the juvenile's response to such efforts; the availability of programs designed to treat the juvenile's behavioral problems. In considering the nature of the offense, as required by this paragraph, the court shall consider the extent to which the juvenile played a leadership role in an organization, or otherwise influenced other persons to take part in criminal activities, involving the use or distribution of controlled substances or firearms. Such a factor, if found to exist, shall weigh in favor of a transfer to adult status, but the absence of this factor shall not preclude such a transfer.
 
-Reasonable notice of the transfer hearing shall be given to the juvenile, his parents, guardian,or custodian and to his counsel. The juvenile shall be assisted by counsel during the transfer hearing, and at every other critical stage of the proceedings.
+Reasonable notice of the transfer hearing shall be given to the juvenile, his parents, guardian, or custodian and to his counsel. The juvenile shall be assisted by counsel during the transfer hearing, and at every other critical stage of the proceedings.
 
 Once a juvenile has entered a plea of guilty or the proceeding has reached the stage that evidence has begun to be taken with respect to a crime or an alleged act of juvenile delinquency subsequent criminal prosecution or juvenile proceedings based upon such alleged act of delinquency shall be barred.
 
@@ -31,6 +31,12 @@ Based on title 18, U.S.C., 1940 ed., §922 (June 16, 1938, ch. 486, §2, 52 Stat
 The final sentence of said section 922 of title 18, U.S.C., 1940 ed., was incorporated in section 5033 of this title.
 
 Changes were made in arrangement and phraseology.
+
+#### Codification
+
+Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1894, is classified to section 5781 of Title 42, The Public Health and Welfare.
+
+Another section 502 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to section 5781 of Title 42, The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
 
 #### Amendments
 
@@ -64,7 +70,7 @@ Pub. L. 98–473, §1201(b)(3), inserted provision at end of fourth par., relati
 
 Pub. L. 98–473, §1201(c), added three pars. at end of section relating to juveniles not convicted of crimes in district court, reception of prior juveniles court records by the court, and description of the specific act of delinquency for the record.
 
-1974—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedings against juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
+1974—Pub. L. 93–415 amended section generally, substituting “Delinquency proceedings in district courts; transfer for criminal prosecution”, for “Proceedingsagainst juvenile delinquent” in section catchline, inserting provisions relating to certification to, and procedures in, district courts, transfer upon motion by Attorney General with respect to a juvenile sixteen years and older, factors considered in transfer, notice of transfer, barring of subsequent criminal or juvenile delinquency proceedings upon entering plea of guilty or upon taking of evidence, and admissibility of statements by a juvenile in subsequent criminal prosecution, and substituting provision relating to consent upon advice of counsel for treatment as an adult, for provision requiring consent for treatment as a juvenile.
 
 #### Section Referred to in Other Sections
 

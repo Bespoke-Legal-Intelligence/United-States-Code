@@ -76,7 +76,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Maximum amount
 
-&emsp;No reward paid under this section may exceed $5,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.. <sup>1</sup>
+&emsp;No reward paid under this section may exceed $5,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts..<sup>1</sup>
 
 #### (2) Approval
 

@@ -4,5 +4,5 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 586; Dec. 12, 1980, Pub. L. 96�
 
 #### Effective Date of Repeal
 
-Repeal effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Repeal effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 

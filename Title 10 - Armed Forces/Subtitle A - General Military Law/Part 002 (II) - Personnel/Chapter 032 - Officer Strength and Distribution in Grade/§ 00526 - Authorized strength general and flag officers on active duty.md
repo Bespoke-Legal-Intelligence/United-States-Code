@@ -14,7 +14,7 @@ Limitations.—The number of general officers on active duty in the Army, Air Fo
 
 (b)
 
-Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint Chiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
+Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the JointChiefs of Staff may designate up to 12 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). Officers in positions so designated shall not be counted for the purposes of those limitations.
 
 (2)(A) The Chairman of the Joint Chiefs of Staff may designate up to 10 general and flag officer positions on the staffs of the commanders of the unified and specified combatant commands as positions to be held only by reserve component officers who are in a general or flag officer grade below lieutenant general or vice admiral. Each position so designated shall be considered to be a joint duty assignment position for purposes of chapter 38 of this title.
 
@@ -30,25 +30,15 @@ Limited Exclusion for Joint Duty Requirements.—(1) The Chairman of the Joint C
 
 (E) Subparagraph (B) does not apply in the case of an officer serving in a position designated under subparagraph (A) if the Secretary of Defense, when considering officers for assignment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that assignment from each Secretary of a military department who (pursuant to subparagraph (C)) was required to make such a recommendation.
 
-(3) This subsection shall cease to be effective on October 1, 2002.
+\[(3) Repealed. Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457.\]
 
-(c)
-
-Notice to Congress Upon Change in Grade for Certain Positions.—(1) Not later than 60 days before an action specified in paragraph (2) may become effective, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report providing notice of the intended action and an analytically based justification for the intended action.
-
-(2) Paragraph (1) applies in the case of the following actions:
-
-&emsp;(A) A change in the grade authorized as of July 1, 1994, for a general officer position in the National Guard Bureau, a general or flag officer position in the Office of a Chief of a reserve component, or a general or flag officer position in the headquarters of a reserve component command.
-
-&emsp;(B) Assignment of a reserve component officer to a general officer position in the National Guard Bureau, to a general or flag officer position in the Office of a Chief of a reserve component, or to a general or flag officer position in the headquarters of a reserve component command in a grade other than the grade authorized for that position as of July 1, 1994.
-
-&emsp;(C) Assignment of an officer other than a general or flag officer as the military executive to the Reserve Forces Policy Board.
+\[(c) Repealed. Pub. L. 107–314, div. A, title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2645.\]
 
 (d)
 
 Exclusion of Certain Officers.—The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
-(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774.)
+(Added Pub. L. 100–370, §1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, §403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, §403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, §404, title V, §512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, §405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §553, title X, §1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, §405(c), title X, §1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, §504(c), Nov. 24, 2003, 117 Stat. 1457.)
 
 #### Historical and Revision Notes
 
@@ -61,6 +51,22 @@ Present law (section 811(a) of Public Law 95–79, as amended) provides that the
 A prior section 526 was renumbered section 527 of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(3). Pub. L. 108–136 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
+
+2002—Subsec. (b)(3). Pub. L. 107–314, §405(c), substituted “December 31, 2004” for “October 1, 2002”.
+
+Subsec. (c). Pub. L. 107–314, §1041(a)(3), struck out heading and text of subsec. (c). Text read as follows:
+
+“(1) Not later than 60 days before an action specified in paragraph (2) may become effective, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report providing notice of the intended action and an analytically based justification for the intended action.
+
+“(2) Paragraph (1) applies in the case of the following actions:
+
+&emsp;“(A) A change in the grade authorized as of July 1, 1994, for a general officer position in the National Guard Bureau, a general or flag officer position in the Office of a Chief of a reserve component, or a general or flag officer position in the headquarters of a reserve component command.
+
+&emsp;“(B) Assignment of a reserve component officer to a general officer position in the National Guard Bureau, to a general or flag officer position in the Office of a Chief of a reserve component, or to a general or flag officer position in the headquarters of a reserve component command in a grade other than the grade authorized for that position as of July 1, 1994.
+
+&emsp;“(C) Assignment of an officer other than a general or flag officer as the military executive to the Reserve Forces Policy Board.”
 
 1999—Subsec. (b)(2), (3). Pub. L. 106–65, §553, added par. (2) and redesignated former par. (2) as (3).
 

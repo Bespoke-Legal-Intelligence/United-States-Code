@@ -2,7 +2,7 @@
 
 (a) The trustee may avoid a lien that secures a claim of a kind specified in section 726(a)(4) of this title.
 
-(b) Property in which the estate has an interest and that is subject to a lien that is notavoidable under this title and that secures an allowed claim for a tax, or proceeds of such property, shall be distributed—
+(b) Property in which the estate has an interest and that is subject to a lien that is not avoidable under this title and that secures an allowed claim for a tax, or proceeds of such property, shall be distributed—
 
 &emsp;(1) first, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is senior to such tax lien;
 
@@ -40,7 +40,7 @@ Subsection (d) specifies that any statutory lien whose priority is determined in
 
 #### house report no. 95–595
 
-Subsection (b) governs tax liens. It is derived from section 67c(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\], without substantial modification in result. It subordinates tax liens to administrative expense and wage claims, and solves certain circuity of liens problems that arise in connection with the subordination. The order of distribution of property subject to a tax lien is as follows: First, to holders of liens senior to the tax lien; second, to administrative expenses, wage claims, and consumer creditors that are granted priority, but only to the extent of the amount of the allowed tax claim secured by the lien. In other words, the priority claimants step into the shoes of the tax collector. Third, to the tax claimant, to the extent that priority claimants did not use up his entire claim. Fourth, to junior lien holders. Fifth, to the tax collector to the extent that he was not paid under paragraph (3). Finally, any remaining property goes to the estate. The result of these provisions are to leave senior and junior lienors and holders of unsecured claims undisturbed. If there are any liens that are equal in status to the tax lien, they share pari passu with the tax lien under the distribution provisions of this subsection.
+Subsection (b) governs tax liens. It is derived from section 67c(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\], without substantial modification in result. It subordinates tax liens to administrative expense and wage claims, and solves certain circuity of liens problems that arise in connection with the subordination. The order of distribution of property subject to a tax lien is as follows: First, to holders of liens senior to the tax lien; second, to administrative expenses, wage claims, and consumer creditors that are granted priority, but only to the extent of the amount of the allowed tax claim secured by the lien. In other words, the priority claimants step into the shoes of the tax collector. Third, to the tax claimant, to the extent that priority claimants did not use up his entire claim. Fourth, to junior lien holders. Fifth, to the tax collector to theextent that he was not paid under paragraph (3). Finally, any remaining property goes to the estate. The result of these provisions are to leave senior and junior lienors and holders of unsecured claims undisturbed. If there are any liens that are equal in status to the tax lien, they share pari passu with the tax lien under the distribution provisions of this subsection.
 
 #### References in Text
 

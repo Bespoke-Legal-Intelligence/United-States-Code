@@ -28,7 +28,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 (3) For the purposes of the preceding sentence, if one or more of the purposes of such a condition or restriction is covered by the functions of both Endowments, or if some of the purposes of such a condition or restriction are covered by the functions of one Endowment and other of the purposes of such a condition or restriction are covered by the functions of the other Endowment, the Federal Council on the Arts and the Humanities shall determine an equitable manner for distribution between each of the Endowments of the property so donated, bequeathed, or devised.
 
-(4) For the purposes of the income tax, gift tax, and estate tax laws of the United States, any money or other property donated, bequeathed, or devised to the Foundation or one of its Endowments and received by the Chairperson of an Endowment pursuant to authority derived under this subsection shall be deemed to have been donated, bequeathed, or devised to or for the use of the United States.
+(4) For the purposes of the income tax, gift tax, and estate tax laws of the United States, any money or other property donated, bequeathed, or devised to the Foundation or one ofits Endowments and received by the Chairperson of an Endowment pursuant to authority derived under this subsection shall be deemed to have been donated, bequeathed, or devised to or for the use of the United States.
 
 #### (c) Advisory panels; membership; procedures
 
@@ -50,7 +50,7 @@ The Chairperson of the National Endowment for the Arts shall utilize advisory pa
 
 &emsp;&emsp;(B) to make such records available to the public in a manner that protects the privacy of individual applicants and panel members;
 
-&emsp;(5) to require, when necessary and feasible, the use of site visitations to view the work ofthe applicant and deliver a written report on the work being reviewed, in order to assist panelists in making their recommendations; and
+&emsp;(5) to require, when necessary and feasible, the use of site visitations to view the work of the applicant and deliver a written report on the work being reviewed, in order to assist panelists in making their recommendations; and
 
 &emsp;(6) to require that the membership of each panel change substantially from year to year and to provide that each individual is ineligible to serve on a panel for more than 3 consecutive years.
 
@@ -80,7 +80,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 (3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
-&emsp;(A) for purposes of determining whether to provide any subsequent financial assistance, take into consideration the results of the post-award evaluation conducted under this subsection;
+&emsp;(A) for purposes of determining whether to provide any subsequent financial assistance,take into consideration the results of the post-award evaluation conducted under this subsection;
 
 &emsp;(B) prohibit the recipient of such financial assistance to use the name of, or in any way associate such project, production, or program with the Endowment that provided such financial assistance; and
 
@@ -128,7 +128,7 @@ Subsecs. (b), (c). Pub. L. 96–496, §107(b), (c), substituted “April” for 
 
 Subsec. (d). Pub. L. 96–496, §107(d), added subsec. (d).
 
-1973—Subsec. (a)(2). Pub. L. 93–133, §2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
+1973—Subsec. (a)(2). Pub. L. 93–133, §2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisionsof sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
 
 Subsec. (a)(4). Pub. L. 93–133, §2(a)(10), inserted proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding shall have broad geographic representation.
 

@@ -42,7 +42,7 @@ Beginning with fiscal year 2000, to be eligible to receive a grant or allotment 
 
 &emsp;&emsp;&emsp;(vii) to achieve greater participation in the affairs of the communities involved, including the development of public and private grassroots partnerships with local law enforcement agencies, local housing authorities, private foundations, and other public and private partners to—
 
-&emsp;&emsp;&emsp;&emsp;(I) document best practices based on successful grassroots intervention in urban areas, to develop methodologies for widespread replication; and
+&emsp;&emsp;&emsp;&emsp;(I) document best practices based on successful grassroots intervention inurban areas, to develop methodologies for widespread replication; and
 
 &emsp;&emsp;&emsp;&emsp;(II) strengthen and improve relationships with local law enforcement agencies, which may include participation in activities such as neighborhood or community policing efforts;
 

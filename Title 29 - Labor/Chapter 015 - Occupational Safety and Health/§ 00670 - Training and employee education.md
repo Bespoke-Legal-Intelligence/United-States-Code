@@ -50,9 +50,11 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### Retention of Training Institute Course Tuition Fees by OSHA
 
-Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2182, provided in part that: “notwithstanding 31 U.S.C. 3302, the Occupational Safety and Health Administration may retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and may utilize such sums for occupational safety and health training and education grants”.
+Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303, provided in part that: “notwithstanding 31 U.S.C. 3302, the Occupational Safety and Health Administration may retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and may utilize such sums for occupational safety and health training and education grants”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2182.
 
 Pub. L. 106–554, §1(a)(1) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–8.
 

@@ -20,7 +20,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 &emsp;(A) Before initiating negotiations with regard to agriculture, and, with respect to the Free Trade Area for the Americas and negotiations with regard to agriculture under the auspices of the World Trade Organization, as soon as practicable after August 6, 2002, the United States Trade Representative shall—
 
-&emsp;&emsp;(i) identify those agricultural products subject to tariff-rate quotas on August 6, 2002, and agricultural products subject totariff reductions by the United States as a result of the Uruguay Round Agreements, for which the rate of duty was reduced on January 1, 1995, to a rate which was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994;
+&emsp;&emsp;(i) identify those agricultural products subject to tariff-rate quotas on August 6, 2002, and agricultural products subject to tariff reductions by the United States as a result of the Uruguay Round Agreements, for which the rate of duty was reduced on January 1, 1995, to a rate which was not less than 97.5 percent of the rate of duty that applied to such article on December 31, 1994;
 
 &emsp;&emsp;(ii) consult with the Committee on Ways and Means and the Committee on Agriculture of the House of Representatives and the Committee on Finance and the Committee on Agriculture, Nutrition, and Forestry of the Senate concerning—
 
@@ -78,7 +78,7 @@ Before initiating or continuing negotiations the subject matter of which is dire
 
 &emsp;&emsp;The President, at least 180 calendar days before the day on which the President enters into a trade agreement under section 3803(b) of this title, shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
-&emsp;&emsp;&emsp;(i) the range of proposals advanced in the negotiations with respect to that agreement, that may be in the final agreement, and that could require amendments to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or to chapter 1 of title II of theTrade Act of 1974 \[19 U.S.C. 2251 et seq.\]; and
+&emsp;&emsp;&emsp;(i) the range of proposals advanced in the negotiations with respect to that agreement, that may be in the final agreement, and that could require amendments to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or to chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\]; and
 
 &emsp;&emsp;&emsp;(ii) how these proposals relate to the objectives described in section 3802(b)(14) of this title.
 
@@ -134,7 +134,7 @@ The report required under section 135(e)(1) of the Trade Act of 1974 \[19 U.S.C.
 
 #### (3) Review of empirical literature
 
-&emsp;In preparing the assessment, the Commission shall review available economic assessments regarding the agreement, including literature regarding any substantially equivalent proposed agreement, and shall provide in its assessment a description of the analyses used and conclusions drawn in such literature, and a discussion of areas of consensus and divergence between the various analyses andconclusions, including those of the Commission regarding the agreement.
+&emsp;In preparing the assessment, the Commission shall review available economic assessments regarding the agreement, including literature regarding any substantially equivalent proposed agreement, and shall provide in its assessment a description of the analyses used and conclusions drawn in such literature, and a discussion of areas of consensus and divergence between the various analyses and conclusions, including those of the Commission regarding the agreement.
 
 (Pub. L. 107–210, div. B, title XXI, §2104, Aug. 6, 2002, 116 Stat. 1008.)
 

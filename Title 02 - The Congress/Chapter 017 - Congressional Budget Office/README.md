@@ -41,6 +41,9 @@
 | (d) | Limitation. |
 | (e) | Accounting. |
 | (f) | Applicability. |
+| [611\.](%C2%A7%2000611%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| (a) | Employee development program. |
+| (b) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,3 +66,4 @@ This chapter is referred to in section 622 of this title.
 - [&sect; 00608 - Lump-sum payments to enhance staff recruitment and to reward exceptional performance](%C2%A7%2000608%20-%20Lump-sum%20payments%20to%20enhance%20staff%20recruitment%20and%20to%20reward%20exceptional%20performance.md)
 - [&sect; 00609 - Employee training](%C2%A7%2000609%20-%20Employee%20training.md)
 - [&sect; 00610 - Repayment of student loan on behalf of employee](%C2%A7%2000610%20-%20Repayment%20of%20student%20loan%20on%20behalf%20of%20employee.md)
+- [&sect; 00611 - Administrative provisions](%C2%A7%2000611%20-%20Administrative%20provisions.md)

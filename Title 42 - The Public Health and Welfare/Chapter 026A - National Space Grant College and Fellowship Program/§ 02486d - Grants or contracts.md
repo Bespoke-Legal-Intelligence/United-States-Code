@@ -16,7 +16,7 @@ The Administrator may make special grants under this subsection to carry out the
 
 #### (c) Application
 
-Any person may apply to the Administrator for a grant or contract under this section. Application shall be made in such form and manner, and with such content and other submissions, as the Administrator shall by regulation prescribe.
+Any person may apply to the Administrator for a grant or contract under this section. Application shall be made in such form and manner,and with such content and other submissions, as the Administrator shall by regulation prescribe.
 
 #### (d) Terms and conditions; limitations; leasing; recordkeeping; audits
 

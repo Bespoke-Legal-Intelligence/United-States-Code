@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any repayment of funds drawn from a jurisdiction's HOME Investment Trust Fund, and any payment of interest or other return on the investment of such funds, shall be deposited insuch jurisdiction's HOME Investment Trust Fund, except that, if the jurisdiction is not a participating jurisdiction when such payment or repayment is made, the amount of such payment or repayment shall be reallocated in accordance with section 12747(d) of this title.
+Any repayment of funds drawn from a jurisdiction's HOME Investment Trust Fund, and any payment of interest or other return on the investment of such funds, shall be deposited in such jurisdiction's HOME Investment Trust Fund, except that, if the jurisdiction is not a participating jurisdiction when such payment or repayment is made, the amount of such payment or repayment shall be reallocated in accordance with section 12747(d) of this title.
 
 #### (b) Assurance of repayment
 
@@ -16,5 +16,5 @@ The Secretary shall take such actions as are necessary to ensure that any repaym
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12748, 12802 of this title.
+This section is referred to in sections 12748, 12802, 12821 of this title.
 

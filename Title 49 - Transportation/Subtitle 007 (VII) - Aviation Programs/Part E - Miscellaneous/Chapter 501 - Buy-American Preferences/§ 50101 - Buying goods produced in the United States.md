@@ -106,7 +106,7 @@ Pub. L. 103–305, title III, §306, Aug. 23, 1994, 108 Stat. 1593, provided tha
 
 “(a)
 
-Sense of Congress.—It is the sense of Congress that any recipient of a grant under this title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies.
+Sense of Congress.—It is the sense of Congress that any recipient of a grant under this title \[enactingsection 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies.
 
 “(b)
 

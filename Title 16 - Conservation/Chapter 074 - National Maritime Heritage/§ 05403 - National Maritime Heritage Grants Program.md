@@ -6,7 +6,7 @@ There is hereby established within the Department of the Interior the National M
 
 &emsp;(1) annual grants to the National Trust for Historic Preservation for subgrants administered by the National Trust for maritime heritage education projects under subsection (b) of this section;
 
-&emsp;(2) grants to State Historic Preservation Officers for maritime heritage preservationprojects carried out or administered by those Officers under subsection (c) of this section; and
+&emsp;(2) grants to State Historic Preservation Officers for maritime heritage preservation projects carried out or administered by those Officers under subsection (c) of this section; and
 
 &emsp;(3) grants for interim projects under subsection (j) of this section.
 
@@ -70,7 +70,7 @@ There is hereby established within the Department of the Interior the National M
 
 #### (d) Criteria for direct grant and subgrant eligibility
 
-To qualify for a subgrant from the National Trust under subsection (b) of this section, or a direct grant to or a subgrant from a State Historic Preservation Officer under subsection (c) of this section, a person must—
+To qualify for a subgrant from the National Trust under subsection (b) of this section, or adirect grant to or a subgrant from a State Historic Preservation Officer under subsection (c) of this section, a person must—
 
 &emsp;(1) demonstrate that the project for which the direct grant or subgrant will be used has the potential for reaching a broad audience with an effective educational program based on American maritime history, technology, or the role of maritime endeavors in American culture;
 

@@ -2,7 +2,7 @@
 
 (a) When any veteran dies after December 31, 1956, from a service-connected or compensable disability, the Secretary shall pay dependency and indemnity compensation to such veteran's surviving spouse, children, and parents. The standards and criteria for determining whether or not a disability is service-connected shall be those applicable under chapter 11 of this title.
 
-(b) Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other than dishonorable from the period of active military, naval, or air service in which the disability causing such veteran's death was incurred or aggravated, or (2) died while in the active military, naval, or air service.
+(b) Dependency and indemnity compensation shall not be paid to the surviving spouse, children, or parents of any veteran dying after December 31, 1956, unless such veteran (1) was discharged or released under conditions other thandishonorable from the period of active military, naval, or air service in which the disability causing such veteran's death was incurred or aggravated, or (2) died while in the active military, naval, or air service.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §410; Pub. L. 94–433, title IV, §405(7), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 95–479, title II, §204, Oct. 18, 1978, 92 Stat. 1564; Pub. L. 97–306, title I, §112(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 100–687, div. B, title XIV, §1403(b), Nov. 18, 1988, 102 Stat. 4131; renumbered §1310 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

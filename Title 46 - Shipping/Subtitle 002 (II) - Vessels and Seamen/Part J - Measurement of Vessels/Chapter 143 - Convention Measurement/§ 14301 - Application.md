@@ -66,7 +66,7 @@ Section 14301(c) provides that if a vessel owner requests that the vessel be mea
 
 Section 14301(d) provides that after July 18, 1994, a vessel whose keel was laid or was at a similar stage of construction before July 18, 1982 may retain its regulatory tonnage for the application of requirements under U.S. laws or international agreements, except the International Convention on Tonnage Measurement of Ships. However, if the vessel was not required to be measured under the Convention, but the vessel's owner requested that the vessel be measured under the Convention system before July 19, 1994, or if the vessel undergoes a change affecting its tonnage, the vessel may not use its regulatory tonnage for the application of U.S. laws or international agreements after July 19, 1994.
 
-Section 14301(e) provides that this chapter does not affect any international agreement to which the United States is a party that is not in conflict with the International Convention on Tonnage Measurement of Ships, 1969. It further provides that this chapter does not affect the application of the three interim schemes of the International Maritime Organization, which are discussed under section 14305 below.
+Section 14301(e) provides that this chapter does not affect any international agreement to which the United States is a party that is not in conflict with the International Convention on Tonnage Measurement of Ships, 1969. It further provides that this chapter does not affect the application of the three interim schemesof the International Maritime Organization, which are discussed under section 14305 below.
 
 #### Amendments
 

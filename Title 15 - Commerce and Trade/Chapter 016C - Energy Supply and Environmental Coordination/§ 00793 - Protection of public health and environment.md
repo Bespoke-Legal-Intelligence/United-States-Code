@@ -6,7 +6,7 @@ Any allocation program provided for in section 792 of this title or in the Emerg
 
 #### (b) Study of chronic effects of sulfur oxide emissions among exposed populations
 
-In order to determine the health effects of emissions of sulfur oxides to the air resultingfrom any conversions to burning coal to which section 119 <sup>1</sup> of the Clean Air Act \[42 U.S.C. 1857c–10\] applies, the Department of Health and Human Services shall, through the National Institute of Environmental Health Sciences and in cooperation with the Environmental Protection Agency, conduct a study of chronic effects among exposed populations. The sum of $3,500,000 is authorized to be appropriated for such a study. In order to assure that long-term studies can be conducted without interruption, such sums as are appropriated shall be available until expended.
+In order to determine the health effects of emissions of sulfur oxides to the air resulting from any conversions to burning coal to which section 119 <sup>1</sup> of the Clean Air Act \[42 U.S.C. 1857c–10\] applies, the Department of Health and Human Services shall, through the National Institute of Environmental Health Sciences and in cooperation with the Environmental Protection Agency, conduct a study of chronic effects among exposed populations. The sum of $3,500,000 is authorized to be appropriated for such a study. In order to assure that long-term studies can be conducted without interruption, such sums as are appropriated shall be available until expended.
 
 #### (c) Major Federal actions significantly affecting the quality of the human environment
 
@@ -28,7 +28,7 @@ Section 119 of the Clean Air Act \[42 U.S.C. 1857c–10\], referred to in subsec
 
 The Clean Air Act, referred to in subsec. (c), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42. For complete classification of this Act of the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 

@@ -18,7 +18,7 @@ Grants for technical assistance.—The cost of grants under section 9617(e) of t
 
 &emsp;(6)
 
-Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of a pilot program for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
+Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of a pilotprogram for removal, decontamination, or other action with respect to lead-contaminated soil in one to three different metropolitan areas.
 
 > The President shall not pay for any administrative costs or expenses out of the Fund unless such costs and expenses are reasonably necessary for and incidental to the implementation of this subchapter.
 
@@ -44,7 +44,7 @@ Uses of the Fund under subsection (a) of this section include—
 
 &emsp;(1) The costs of assessing both short-term and long-term injury to, destruction of, or loss of any natural resources resulting from a release of a hazardous substance.
 
-&emsp;(2) The costs of Federal or State or Indian tribe efforts in the restoration, rehabilitation, or replacement or acquiring the equivalent ofany natural resources injured, destroyed, or lost as a result of a release of a hazardous substance.
+&emsp;(2) The costs of Federal or State or Indian tribe efforts in the restoration, rehabilitation, or replacement or acquiring the equivalent of any natural resources injured, destroyed, or lost as a result of a release of a hazardous substance.
 
 &emsp;(3) Subject to such amounts as are provided in appropriation Acts, the costs of a program to identify, investigate, and take enforcement and abatement action against releases of hazardous substances.
 
@@ -96,7 +96,7 @@ Lead poisoning study.—The cost of carrying out the study under subsection (f) 
 
 (1) Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
 
-(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>2</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for responseto threats to public health from releases or threatened releases of hazardous substances.
+(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>2</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
 
 (3) No money in the Fund shall be available for remedial action, other than actions specified in subsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
 
@@ -114,7 +114,7 @@ The President shall provide for the promulgation of rules and regulations with r
 
 #### (i) Restoration, etc., of natural resources
 
-Except in a situation requiring action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action, funds may not be used under this chapter for the restoration, rehabilitation, or replacement or acquisition of the equivalent of any natural resources until a plan for the use of such funds for such purposes has been developed and adopted by affected Federal agencies and the Governor or Governors of any State having sustained damage to natural resources within its borders, belonging to, managed by or appertaining to such State, and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation, after adequate public notice and opportunity for hearing and consideration of all public comment.
+Except in a situation requiring action to avoid an irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action, funds may not be used under this chapter for the restoration, rehabilitation, or replacement or acquisition of the equivalent of any natural resources until a plan for the use of such funds for such purposes has been developed and adopted by affected Federal agencies and theGovernor or Governors of any State having sustained damage to natural resources within its borders, belonging to, managed by or appertaining to such State, and by the governing body of any Indian tribe having sustained damage to natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation, after adequate public notice and opportunity for hearing and consideration of all public comment.
 
 #### (j) Use of Post-closure Liability Fund
 
@@ -132,7 +132,7 @@ To the extent that the provisions of this chapter permit, a foreign claimant may
 
 &emsp;(2) the claimant is not otherwise compensated for his loss;
 
-&emsp;(3) the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.)or the Deepwater Port Act of 1974, as amended (33 U.S.C. 1501 et seq.); and
+&emsp;(3) the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.) or the Deepwater Port Act of 1974, as amended (33 U.S.C. 1501 et seq.); and
 
 &emsp;(4) recovery is authorized by a treaty or an executive agreement between the United States and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
 

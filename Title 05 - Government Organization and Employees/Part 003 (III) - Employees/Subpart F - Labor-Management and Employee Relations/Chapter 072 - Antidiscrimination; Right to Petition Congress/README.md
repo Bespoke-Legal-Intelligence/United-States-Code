@@ -25,7 +25,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 9701 of this title; title 39 section 410.
+This chapter is referred to in sections 9701, 9902 of this title; title 39 section 410.
 
 
 ---

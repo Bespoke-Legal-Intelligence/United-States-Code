@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (B) Cumulative foreign amount
 
-&emsp;&emsp;The term “cumulative foreign amount” means the aggregate amount allowed as adeduction under the appropriate foreign tax laws for the taxable year and all prior taxable years to which this section applies.
+&emsp;&emsp;The term “cumulative foreign amount” means the aggregate amount allowed as a deduction under the appropriate foreign tax laws for the taxable year and all prior taxable years to which this section applies.
 
 #### (3) Effect on earnings and profits, etc.
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (4) Accounting method
 
-&emsp;Any change in the method (but not the actuarial assumptions) used to determine theamount allowed as a deduction under subsection (a) shall be treated as a change in accounting method under section 446(e).
+&emsp;Any change in the method (but not the actuarial assumptions) used to determine the amount allowed as a deduction under subsection (a) shall be treated as a change in accounting method under section 446(e).
 
 #### (5) Section 481 applies to election
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
 
-(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496.)
+(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI,§1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496.)
 
 #### Amendments
 

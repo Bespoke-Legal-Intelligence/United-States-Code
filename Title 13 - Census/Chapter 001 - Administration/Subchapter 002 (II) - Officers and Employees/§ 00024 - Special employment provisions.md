@@ -28,7 +28,7 @@ Words “except that such special agents shall be appointed in accordance with t
 
 The provisions of section 203 of title 13, U.S.C., 1952 ed., relating to per diem rates of compensation for special agents, to authority to detail permanent employees and special agents to act as supervisors or enumerators, and to duties thereof, were omitted as obsolete and superseded by the Classification Act of 1949.
 
-The provision of section 203 of title 13, U.S.C., 1952 ed., that the Director of the Census might delegate to the supervisors the authority to appoint enumerators, was omitted because all functions of the Director and other officers and employees of the Department ofCommerce and its bureaus and agencies were transferred to the Secretary by 1950 Reorganization Plan No. 5, referred to above. However, section 4 of this title provides for delegation of functions by the Secretary.
+The provision of section 203 of title 13, U.S.C., 1952 ed., that the Director of the Census might delegate to the supervisors the authority to appoint enumerators, was omitted because all functions of the Director and other officers and employees of the Department of Commerce and its bureaus and agencies were transferred to the Secretary by 1950 Reorganization Plan No. 5, referred to above. However, section 4 of this title provides for delegation of functions by the Secretary.
 
 Words “on a temporary basis” were inserted after “appointed” in subsection (a) for the purpose of clarity.
 

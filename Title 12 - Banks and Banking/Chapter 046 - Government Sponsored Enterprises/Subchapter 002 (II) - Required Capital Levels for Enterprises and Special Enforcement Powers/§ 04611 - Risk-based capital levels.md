@@ -16,7 +16,7 @@ The Director shall, by regulation, establish a risk-based capital test under thi
 
 #### (B) Decreases
 
-&emsp;&emsp;The 10-year constant maturity Treasury yield decreases during the first year of thestress period and will remain at the new level for the remainder of the stress period. The yield decreases to the lesser of—
+&emsp;&emsp;The 10-year constant maturity Treasury yield decreases during the first year of the stress period and will remain at the new level for the remainder of the stress period. The yield decreases to the lesser of—
 
 &emsp;&emsp;&emsp;(i) 600 basis points below the average yield during the preceding 9 months, or
 
@@ -168,7 +168,7 @@ For purposes of this section:
 
 #### (2) Contents
 
-&emsp;The regulations under this subsection shall contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
+&emsp;The regulations under this subsection shall contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yieldcurve slopes, default experience, and prepayment rates). The regulations shall be sufficiently specific to permit an individual other than the Director to apply the test in the same manner as the Director.
 
 #### (3) Confidentiality of information
 

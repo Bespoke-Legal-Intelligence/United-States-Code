@@ -6,7 +6,7 @@ General Authority.—(1) To the extent financial resources are available, Amtrak
 
 &emsp;(A) necessary for intercity rail passenger transportation, except property of a rail carrier, a State, a political subdivision of a State, or a governmental authority; or
 
-&emsp;(B) requested by the Secretary of Transportation in carrying out the Secretary's duty to design and build an intermodal transportation terminal at Union Station in the District of Columbia if the Secretary assures Amtrak that the Secretary will reimburse Amtrak.
+&emsp;(B) requested by the Secretary of Transportation in carrying out the Secretary's duty todesign and build an intermodal transportation terminal at Union Station in the District of Columbia if the Secretary assures Amtrak that the Secretary will reimburse Amtrak.
 
 (2) Amtrak may exercise the power of eminent domain only if it cannot—
 

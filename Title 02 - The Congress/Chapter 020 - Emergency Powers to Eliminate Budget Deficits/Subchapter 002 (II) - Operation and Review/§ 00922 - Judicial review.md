@@ -16,11 +16,11 @@
 
 #### (b) Appeal to Supreme Court
 
-Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
+Notwithstanding any other provision of law, any order of the United States District Court for the District of Columbia which is issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shallbe reviewable by appeal directly to the Supreme Court of the United States. Any such appeal shall be taken by a notice of appeal filed within 10 days after such order is entered; and the jurisdictional statement shall be filed within 30 days after such order is entered. No stay of an order issued pursuant to an action brought under paragraph (1), (2), or (3) of subsection (a) of this section shall be issued by a single Justice of the Supreme Court.
 
 #### (c) Expedited consideration
 
-It shall be the duty of the District Court for the District of Columbia and the Supreme Courtof the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under subsection (a) of this section.
+It shall be the duty of the District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of any matter brought under subsection (a) of this section.
 
 #### (d) Noncompliance with sequestration procedures
 
@@ -62,7 +62,7 @@ This title, referred to in subsec. (a)(2), (3), means title II (§200 et seq.) o
 
 #### Amendments
 
-1997—Subsec. (a)(1), (3). Pub. L. 105–33, §10211(1), substituted “section 904” for “section 902”.
+<b>1997</b>—Subsec. (a)(1), (3). Pub. L. 105–33, §10211(1), substituted “section 904” for “section 902”.
 
 Subsec. (d)(1). Pub. L. 105–33, §10211(1), substituted “section 904” for “section 902(b)” in introductory provisions.
 
@@ -84,11 +84,13 @@ Pub. L. 105–33, §10211(5), redesignated subsec. (h) as (g). Former subsec. (g
 
 Subsec. (h). Pub. L. 105–33, §10211(5), redesignated subsec. (h) as (g).
 
-1987—Subsec. (f)(1). Pub. L. 100–119, §102(b)(9)(A), added par. (1) and struck out former par. (1) which read as follows: “In the event that any of the reporting procedures described in section 901 of this title are invalidated, then any report of the Directors referred to in section 901(a) or (c)(1) of this title shall be transmitted to the joint committee established under this subsection.”
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–119, §102(b)(9)(A), added par. (1) and struck out former par. (1) which read as follows: “In the event that any of the reporting procedures described in section 901 of this title are invalidated, then any report of the Directors referred to in section 901(a) or (c)(1) of this title shall be transmittedto the joint committee established under this subsection.”
 
 Subsec. (f)(2), (3). Pub. L. 100–119, §102(b)(9)(B), substituted “Director of CBO” for “Directors” wherever appearing.
 
 Subsec. (f)(5). Pub. L. 100–119, §102(b)(9)(C), substituted “section 901(a)(2)(B) or (c)(2)” for “section 901(b) or (c)(2)”.
 
 Subsec. (h). Pub. L. 100–119, §102(b)(10), substituted “and economic assumptions” for “, assumptions, and methodologies”, “Director of OMB” for “Comptroller General” in two places, and “section 901(a)(2)(B)” for “section 901(b)”.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 100–426, §102(b), substituted “basic pay at a rate equ
 
 #### Application of Provisions Amended by Pub. L. 103–283
 
-Pub. L. 104–1, title V, §504(c)(2), Jan. 23, 1995, 109 Stat. 41, provided that: “The provisions of sections 751, 753, and 755 of title 31, United States Code, amended by section 312(e) of the Architect of the Capitol Human Resources Act \[Pub. L. 103–283\], shall be applied and administered as if such section 312(e) \[amending this section and sections 753 and 755 of this title and enacting section 1831(e) of Title 2, The Congress\] (and the amendments made by such section) had not been enacted.”
+Pub. L. 104–1, title V, §504(c)(2), Jan. 23, 1995, 109 Stat. 41, provided that: “The provisions of sections 751, 753,and 755 of title 31, United States Code, amended by section 312(e) of the Architect of the Capitol Human Resources Act \[Pub. L. 103–283\], shall be applied and administered as if such section 312(e) \[amending this section and sections 753 and 755 of this title and enacting section 1831(e) of Title 2, The Congress\] (and the amendments made by such section) had not been enacted.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

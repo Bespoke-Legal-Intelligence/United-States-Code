@@ -16,11 +16,15 @@ Use of revenues.—
 
 In general.—The Secretary may grant an exemption to a sponsor from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the sponsor to recover from the sale or lease of the airport such amount as may be approved—
 
-&emsp;&emsp;&emsp;(i) by at least 65 percent of the air carriers serving the airport; and
+&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduled and nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
 
-&emsp;&emsp;&emsp;(ii) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year.
+&emsp;&emsp;&emsp;(ii) in the case of a nonprimary airport, by the Secretary after the airport has consulted with at least 65 percent of the owners of aircraft based at that airport, as determined by the Secretary.
 
 &emsp;&emsp;(B)
+
+Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
+
+&emsp;&emsp;(C)
 
 Landed weight defined.—In this paragraph, the term “landed weight” means the weight of aircraft transporting passengers or cargo, or both, in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
 
@@ -80,7 +84,7 @@ Interests of General Aviation Users.—In approving an application of an airport
 
 (g)
 
-Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a public agency, the sponsor shall not be prohibited from—
+Passenger Facility Fees; Apportionments; Service Charges.—Notwithstanding that the sponsor of an airport receiving an exemption under subsection (b) is not a publicagency, the sponsor shall not be prohibited from—
 
 &emsp;(1) imposing a passenger facility fee under section 40117 of this title;
 
@@ -98,7 +102,7 @@ Revocation of Exemptions.—The Secretary may revoke an exemption issued to a pu
 
 (j)
 
-Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions ofthis section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
+Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 
 (k)
 
@@ -112,11 +116,25 @@ Report.—Not later than 2 years after the date of the initial approval of an ap
 
 General Aviation Airport Defined.—In this section, the term “general aviation airport” means an airport that is not a commercial service airport.
 
-(Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224.)
+(Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508.)
 
 #### References in Text
 
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
+
+#### Amendments
+
+2003—Subsec. (b)(1)(A). Pub. L. 108–176, §155(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) by at least 65 percent of the air carriers serving the airport; and
+
+“(ii) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year.”
+
+Subsec. (b)(1)(B), (C). Pub. L. 108–176, §155(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–176, title I, §155(b), Dec. 12, 2003, 117 Stat. 2508, provided that: “The amendments made by subsection (a) \[amending this section\] shall not affect any application submitted before the date of enactment of this Act \[Dec. 12, 2003\].”
 
 #### Effective Date
 

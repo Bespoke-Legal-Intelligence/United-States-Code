@@ -40,7 +40,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 &emsp;&emsp;(B) in the case of an offer-in-compromise which relates only to issues of liability of the taxpayer—
 
-&emsp;&emsp;&emsp;(i) such offer shall not be rejected solely because the Secretary is unable to locate the taxpayer's return or return information for verification of such liability; and
+&emsp;&emsp;&emsp;(i) such offer shall not be rejected solely because the Secretary is unable to locatethe taxpayer's return or return information for verification of such liability; and
 
 &emsp;&emsp;&emsp;(ii) the taxpayer shall not be required to provide a financial statement.
 
@@ -76,7 +76,7 @@ Section 503(b) of Pub. L. 104–168 provided that: “The amendment made by this
 
 Pub. L. 105–206, title III, §3462(d), July 22, 1998, 112 Stat. 766, provided that: “The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall—
 
-&emsp;“(1) advise taxpayers who have entered into a compromise of the advantages of promptly notifying theInternal Revenue Service of any change of address or marital status;
+&emsp;“(1) advise taxpayers who have entered into a compromise of the advantages of promptly notifying the Internal Revenue Service of any change of address or marital status;
 
 &emsp;“(2) provide notice to taxpayers that in the case of a compromise terminated due to the actions of one spouse or former spouse, the Internal Revenue Service will, upon application, reinstate such compromise with the spouse or former spouse who remains in compliance with such compromise; and
 

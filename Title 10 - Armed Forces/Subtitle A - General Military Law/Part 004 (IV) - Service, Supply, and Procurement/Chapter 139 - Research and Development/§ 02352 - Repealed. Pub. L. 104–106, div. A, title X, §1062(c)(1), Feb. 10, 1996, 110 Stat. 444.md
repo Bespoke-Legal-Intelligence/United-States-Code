@@ -1,4 +1,0 @@
-### \[§2352. Repealed. Pub. L. 104–106, div. A, title X, §1062(c)(1), Feb. 10, 1996, 110 Stat. 444\]
-
-Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 133; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §803(a)(1), 105 Stat. 1414; Pub. L. 102–484, div. A, title X, §1053(4), Oct. 23, 1992, 106 Stat. 2501, required Secretary of military department to give notice to Congress of contracts performed over a period exceeding 10 years.
-

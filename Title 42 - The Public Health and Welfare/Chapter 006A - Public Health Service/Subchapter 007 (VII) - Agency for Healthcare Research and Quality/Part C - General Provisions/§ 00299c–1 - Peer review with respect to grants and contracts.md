@@ -38,7 +38,7 @@ The Director may not approve an application described in subsection (a)(1) of th
 
 #### (d) Authority for procedural adjustments in certain cases
 
-In the case of applications for financial assistance whose direct costs will not exceed $100,000,the Director may make appropriate adjustments in the procedures otherwise established by the Director for the conduct of peer review under this section. Such adjustments may be made for the purpose of encouraging the entry of individuals into the field of research, for the purpose of encouraging clinical practice-oriented or provider-based research, and for such other purposes as the Director may determine to be appropriate.
+In the case of applications for financial assistance whose direct costs will not exceed $100,000, the Director may make appropriate adjustments in the procedures otherwise established by the Director for the conduct of peer review under this section. Such adjustments may be made for the purpose of encouraging the entry of individuals into the field of research, for the purpose of encouraging clinical practice-oriented or provider-based research, and for such other purposes as the Director may determine to be appropriate.
 
 #### (e) Regulations
 
@@ -48,7 +48,7 @@ The Director shall issue regulations for the conduct of peer review under this s
 
 #### References in Text
 
-The provisions of title 5 that govern appointments in the competitive service, referred to in subsec. (c)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 that govern appointments in the competitive service, referred to in subsec. (c)(1), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (c)(3), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
 

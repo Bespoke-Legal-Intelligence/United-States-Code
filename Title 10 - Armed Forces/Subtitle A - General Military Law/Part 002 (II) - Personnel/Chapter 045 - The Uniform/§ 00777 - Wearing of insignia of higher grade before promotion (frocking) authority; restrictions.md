@@ -8,9 +8,15 @@ Authority.—An officer who has been selected for promotion to the next higher g
 
 Restrictions.—An officer may not be authorized to wear the insignia for a grade as described in subsection (a) unless—
 
-&emsp;(1) the Senate has given its advice and consent to the appointment of the officer to that grade; and
+&emsp;(1) the Senate has given its advice and consent to the appointment of the officer to that grade;
 
-&emsp;(2) the officer is serving in, or has received orders to serve in, a position for which that grade is authorized.
+&emsp;(2) the officer is serving in, or has received orders to serve in, a position for which that grade is authorized; and
+
+&emsp;(3) in the case of an officer selected for promotion to a grade above colonel or, in the case of an officer of the Navy, a grade above captain—
+
+&emsp;&emsp;(A) authority for that officer to wear the insignia of that grade has been approved by the Secretary of Defense (or a civilian officer within the Office of the Secretary of Defense whose appointment was made with the advice and consent of the Senate and to whom the Secretary delegates such approval authority); and
+
+&emsp;&emsp;(B) the Secretary of Defense has submitted to Congress a written notification of the intent to authorize the officer to wear the insignia for that grade and a period of 30 days has elapsed after the date of the notification.
 
 (c)
 
@@ -32,9 +38,11 @@ Limitation on Number of Officers Frocked to Specified Grades.—(1) The total nu
 
 (2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
-(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502, Oct. 5, 1999, 113 Stat. 590.)
+(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, §509(a), Nov. 24, 2003, 117 Stat. 1458.)
 
 #### Amendments
+
+2003—Subsec. (b)(3). Pub. L. 108–136 added par. (3).
 
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “55.” for “the following:” and struck out subpars. (A) to (C) which read as follows:
 
@@ -45,6 +53,10 @@ Limitation on Number of Officers Frocked to Specified Grades.—(1) The total nu
 “(C) After fiscal year 1998, 35.”
 
 1997—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title V, §509(b), Nov. 24, 2003, 117 Stat. 1459, provided that: “Paragraph (3) of subsection (b) of section 777 of title 10, United States Code, as added by subsection (a), shall not apply with respect to the wearing by an officer of insignia for a grade that was authorized under that section before the date of the enactment of this Act \[Nov. 24, 2003\].”
 
 #### Temporary Variation of Limitations on Numbers of Frocked Officers
 

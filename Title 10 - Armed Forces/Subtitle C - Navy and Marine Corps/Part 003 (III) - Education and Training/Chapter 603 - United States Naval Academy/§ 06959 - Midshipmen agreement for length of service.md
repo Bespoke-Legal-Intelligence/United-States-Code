@@ -20,7 +20,7 @@
 
 (2) A midshipman who is transferred to the Naval Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
-(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
+(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman ofthe midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
 
 (c) The Secretary of the Navy shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -30,7 +30,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
 
-(d) In this section, “commissioned service obligation”, with respect to an officer who is agraduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+(d) In this section, “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a midshipman who is not a citizen or national of the United States.
 

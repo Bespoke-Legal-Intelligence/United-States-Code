@@ -4,11 +4,11 @@
 
 #### (1) Grants authorized
 
-&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriationin section 12681(a)(4) of this title, the Corporation may make a grant in an amount between $125,000 and $750,000 to a State to assist the State to establish or operate the State Commission on National and Community Service required to be established by the State under section 12638 of this title.
+&emsp;From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(4) of this title, the Corporation may make a grant in an amount between $125,000 and $750,000 to a State to assist the State to establish or operate the State Commission on National and Community Service required to be established by the State under section 12638 of this title.
 
 #### (2) Limitation on amount of grants
 
-&emsp;Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
+&emsp;Notwithstanding the amounts specified in paragraph (1), the amount of a grant that maybe provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
 
 &emsp;&emsp;(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
 

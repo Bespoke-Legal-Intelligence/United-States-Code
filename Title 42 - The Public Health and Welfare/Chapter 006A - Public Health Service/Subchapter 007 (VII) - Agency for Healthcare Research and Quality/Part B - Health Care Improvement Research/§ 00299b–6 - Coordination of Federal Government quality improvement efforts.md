@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) to describe and evaluate current quality improvement, quality research and quality monitoring processes through—
 
-&emsp;&emsp;&emsp;(i) an overview of pertinent health services research activities and quality improvement efforts conducted by all Federal programs, with particular attention paid to those under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]; and
+&emsp;&emsp;&emsp;(i) an overview of pertinent health services research activities and quality improvement efforts conducted by all Federal programs, with particular attention paidto those under titles XVIII, XIX, and XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\]; and
 
 &emsp;&emsp;&emsp;(ii) a summary of the partnerships that the Department of Health and Human Services has pursued with private accreditation, quality measurement and improvement organizations; and
 

@@ -12,5 +12,5 @@ The Commission may also cause to be disseminated information regarding hazardous
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary” in subsec. (a) and for “Secretary” and “Department” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary” in subsec. (a) and for “Secretary” and “Department” in subsec.\(b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 

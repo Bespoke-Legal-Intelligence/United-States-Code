@@ -50,7 +50,7 @@
 
 &emsp;(B) Subparagraph (A) shall not apply to the extent that such debt is a consumer debt secured by real property.
 
-(d) In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted orthe reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
+(d) In a case concerning an individual, when the court has determined whether to grant or not to grant a discharge under section 727, 1141, 1228, or 1328 of this title, the court may hold a hearing at which the debtor shall appear in person. At any such hearing, the court shall inform the debtor that a discharge has been granted or the reason why a discharge has not been granted. If a discharge has been granted and if the debtor desires to make an agreement of the kind specified in subsection (c) of this section and was not represented by an attorney during the course of negotiating such agreement, then the court shall hold a hearing at which the debtor shall appear in person and at such hearing the court shall—
 
 &emsp;(1) inform the debtor—
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(bb) a separate class or classes of the claimants whose claims are to be addressed by a trust described in clause (i) is established and votes, by at least 75 percent of those voting, in favor of the plan; and
 
-&emsp;&emsp;(V) subject to subsection (h), pursuant to court orders or otherwise, the trust will operate through mechanisms such as structured, periodic, or supplemental payments, pro rata distributions, matrices, or periodic review of estimates of the numbers and values of present claims and future demands, or other comparable mechanisms, that provide reasonable assurance that the trust will value, and be in a financial position to pay, present claims and future demands that involve similar claims in substantially the same manner.
+&emsp;&emsp;(V) subject to subsection (h), pursuant to court orders or otherwise, the trust will operate through mechanisms such as structured, periodic, or supplemental payments, pro rata distributions, matrices, or periodic review of estimates of the numbers and values of present claims and future demands, or other comparable mechanisms, that providereasonable assurance that the trust will value, and be in a financial position to pay, present claims and future demands that involve similar claims in substantially the same manner.
 
 (3)(A) If the requirements of paragraph (2)(B) are met and the order confirming the plan of reorganization was issued or affirmed by the district court that has jurisdiction over the reorganization case, then after the time for appeal of the order that issues or affirms the plan—
 
@@ -176,7 +176,7 @@
 
 Application to Existing Injunctions.—For purposes of subsection (g)—
 
-&emsp;(1) subject to paragraph (2), if an injunction of the kind described in subsection (g)(1)(B) was issued before the date of the enactment ofthis Act, as part of a plan of reorganization confirmed by an order entered before such date, then the injunction shall be considered to meet the requirements of subsection (g)(2)(B) for purposes of subsection (g)(2)(A), and to satisfy subsection (g)(4)(A)(ii), if—
+&emsp;(1) subject to paragraph (2), if an injunction of the kind described in subsection (g)(1)(B) was issued before the date of the enactment of this Act, as part of a plan of reorganization confirmed by an order entered before such date, then the injunction shall be considered to meet the requirements of subsection (g)(2)(B) for purposes of subsection (g)(2)(A), and to satisfy subsection (g)(4)(A)(ii), if—
 
 &emsp;&emsp;(A) the court determined at the time the plan was confirmed that the plan was fair and equitable in accordance with the requirements of section 1129(b);
 

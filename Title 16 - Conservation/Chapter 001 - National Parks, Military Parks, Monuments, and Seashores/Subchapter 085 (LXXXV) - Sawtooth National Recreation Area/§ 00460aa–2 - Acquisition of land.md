@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; manner; limitation; “scenic easement” defined
 
-Except as provided in section 460aa–3 of this title, the Secretary is authorized to acquire bydonation, purchase with donated or appropriated funds, exchange, bequest, or otherwise any lands, or lesser interests therein, including mineral interests and scenic easements, which he determines are needed for the purposes of this subchapter: <i>Provided</i>, That acquisitions of lands or interests therein for access to and utilization of public property, and for recreation and other facilities, shall not exceed five per centum of the total acreage of all private property within the recreation area as of August 22, 1972.
+Except as provided in section 460aa–3 of this title, the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, bequest, or otherwise any lands, or lesser interests therein, including mineral interests and scenic easements, which he determines are needed for the purposes of this subchapter: <i>Provided</i>, That acquisitions of lands or interests therein for access to and utilization of public property, and for recreation and other facilities, shall not exceed five per centum of the total acreage of all private property within the recreation area as of August 22, 1972.
 
 As used in this subchapter the term “scenic easement” means the right to control the use of land in order to protect the esthetic values for the purposes of this subchapter, but shall not preclude the continuation of any use exercised by the owner as of August 22, 1972.
 
@@ -16,7 +16,7 @@ The Secretary may utilize condemnation proceedings without the consent of the ow
 
 #### (d) Exchange of property; cash equalization payments
 
-In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property, or interests therein, located within the recreation area and, notwithstanding any other provision of law, he may convey in exchange therefor any federally owned property within the State of Idaho which he classifies as suitable for exchange and which is under his administrative jurisdiction. The values of the properties so exchanged shall be approximately equal or, if they are not approximately equal, they shall be equalized by the payment of cash to the grantor or to the Secretary as the circumstances require. In the exercise of his exchange authority, the Secretary may utilize authorities and procedures available to him in connection with exchanges of national forest lands.
+In exercising his authority to acquire property by exchange, the Secretary may accept title to any non-Federal property, or interests therein, located within the recreation area and, notwithstanding any other provision of law, he may convey in exchange therefor any federally owned property within the State of Idaho which he classifies as suitable for exchange and which is under his administrative jurisdiction. The values of the properties so exchanged shall be approximately equal or, if they are not approximately equal, they shall be equalized by thepayment of cash to the grantor or to the Secretary as the circumstances require. In the exercise of his exchange authority, the Secretary may utilize authorities and procedures available to him in connection with exchanges of national forest lands.
 
 #### (e) Mineral interests
 

@@ -18,7 +18,7 @@ Each boxing commission shall establish each of the following procedures:
 
 &emsp;&emsp;(E) unsportsmanlike conduct or other inappropriate behavior inconsistent with generally accepted methods of competition in a professional boxing match.
 
-&emsp;(3) Procedures to review a suspension where appealed by a boxer, licensee, manager, matchmaker, promoter, or other boxing service provider, including an opportunity for a boxer to present contradictory evidence.
+&emsp;(3) Procedures to review a suspension where appealed by a boxer, licensee, manager,matchmaker, promoter, or other boxing service provider, including an opportunity for a boxer to present contradictory evidence.
 
 &emsp;(4) Procedures to revoke a suspension where a boxer—
 

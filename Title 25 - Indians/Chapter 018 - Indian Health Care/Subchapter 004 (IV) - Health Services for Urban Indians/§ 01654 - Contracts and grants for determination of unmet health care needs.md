@@ -14,7 +14,7 @@ Any contract entered into, or grant made, by the Secretary under this section sh
 
 &emsp;&emsp;(B) with respect to urban Indians in the urban center involved, determine the matters described in clauses (2), (3), (4), and (8) of section 1653(b) of this title; and
 
-&emsp;(2) the urban Indian organization complete performance of the contract, or carry out the requirements of the grant, within one yearafter the date on which the Secretary and such organization enter into such contract, or within one year after such organization receives such grant, whichever is applicable.
+&emsp;(2) the urban Indian organization complete performance of the contract, or carry out the requirements of the grant, within one year after the date on which the Secretary and such organization enter into such contract, or within one year after such organization receives such grant, whichever is applicable.
 
 #### (c) Renewal
 

@@ -6,7 +6,7 @@ For purposes of this section, the term “coastal zone enhancement objective” 
 
 &emsp;(1) Protection, restoration, or enhancement of the existing coastal wetlands base, or creation of new coastal wetlands.
 
-&emsp;(2) Preventing or significantly reducing threats to life and destruction of property by eliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
+&emsp;(2) Preventing or significantly reducing threats to life and destruction of property byeliminating development and redevelopment in high-hazard areas, managing development in other hazard areas, and anticipating and managing the effects of potential sea level rise and Great Lakes level rise.
 
 &emsp;(3) Attaining increased opportunities for public access, taking into account current and future public access needs, to coastal areas of recreational, historical, aesthetic, ecological, or cultural value.
 

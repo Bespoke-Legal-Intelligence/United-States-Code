@@ -94,7 +94,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(B) without regard to whether or not such goods or economic sector were involved in the act, policy, or practice that is the subject of such action.
 
-(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatory trade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
+(4) Any trade agreement described in paragraph (1)(D)(iii) shall provide compensatorytrade benefits that benefit the economic sector which includes the domestic industry that would benefit from the elimination of the act, policy, or practice that is the subject of the action to be taken under subsection (a) or (b) of this section, or benefit the economic sector as closely related as possible to such economic sector, unless—
 
 &emsp;(A) the provision of such trade benefits is not feasible, or
 
@@ -248,7 +248,7 @@ Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade A
 
 (2) provides adequate and effective intellectual property protection consistent with the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)).
 
-(b) The United States shall encourage all beneficiary sub-Saharan African countries to implement policies designed to address the underlying causes of the HIV/AIDS crisis by, among other things, making efforts to encourage practices that will prevent further transmission and infection and to stimulate development ofthe infrastructure necessary to deliver adequate health services, and by encouraging policies that provide an incentive for public and private research on, and development of, vaccines and other medical innovations that will combat the HIV/AIDS epidemic in Africa.
+(b) The United States shall encourage all beneficiary sub-Saharan African countries to implement policies designed to address the underlying causes of the HIV/AIDS crisis by, among other things, making efforts to encourage practices that will prevent further transmission and infection and to stimulate development of the infrastructure necessary to deliver adequate health services, and by encouraging policies that provide an incentive for public and private research on, and development of, vaccines and other medical innovations that will combat the HIV/AIDS epidemic in Africa.
 
 Sec. 2. <i>Rationale</i>: (a) This order finds that:
 

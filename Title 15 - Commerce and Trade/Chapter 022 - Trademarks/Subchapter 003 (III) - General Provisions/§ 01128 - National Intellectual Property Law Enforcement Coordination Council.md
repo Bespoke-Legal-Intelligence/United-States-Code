@@ -4,7 +4,7 @@
 
 There is established the National Intellectual Property Law Enforcement Coordination Council (in this section referred to as the “Council”). The Council shall consist of the following members—
 
-&emsp;(1) The Assistant Secretary of Commerce and Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, who shall serve as co-chair of the Council.
+&emsp;(1) The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, who shall serve as co-chair of the Council.
 
 &emsp;(2) The Assistant Attorney General, Criminal Division, who shall serve as co-chair of the Council.
 
@@ -48,7 +48,7 @@ Section was enacted as part of the Treasury and General Government Appropriation
 
 #### Amendments
 
-1999—Subsec. (a)(1). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+1999—Subsec. (a)(1). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Assistant Secretary of Commerce and Commissioner of Patents and Trademarks”.
 
 #### Effective Date of 1999 Amendment
 

@@ -36,11 +36,11 @@ Section 302(b) of Pub. L. 102–318 provided that: “The amendment made by subs
 
 #### Effective Date of 1986 Amendment
 
-Section 121(c)(2) of Pub. L. 99–603 provided that: “The amendments made by subsection (b) \[enacting section 1437r of this title, amending this section and sections 303, 603, 1203, 1353, and 1396b of this title, section 2025 of Title 7, Agriculture, and section 1096 of Title 20, Education, and amending provisions set out as a Puerto Rico, Guam, and Virgin Islands note under section 1383 of this title\] take effect on October 1, 1987.”
+Section 121(c)(2) of Pub. L. 99–603 provided that: “The amendments made by subsection (b) \[enacting section1437r of this title, amending this section and sections 303, 603, 1203, 1353, and 1396b of this title, section 2025 of Title 7, Agriculture, and section 1096 of Title 20, Education, and amending provisions set out as a Puerto Rico, Guam, and Virgin Islands note under section 1383 of this title\] take effect on October 1, 1987.”
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Transfer of Functions
 

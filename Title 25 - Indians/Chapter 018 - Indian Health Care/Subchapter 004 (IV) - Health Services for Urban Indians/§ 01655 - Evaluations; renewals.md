@@ -30,7 +30,7 @@ Subsec. (a). Pub. L. 102–573, §501(b)(3)(A), inserted “compliance with gran
 
 Subsec. (b). Pub. L. 102–573, §501(b)(3)(B), inserted “or received a grant” after “entered into a contract” and “or the terms of such grant” before period at end.
 
-Subsec. (c). Pub. L. 102–573, §501(b)(3)(C), inserted “the requirements of a grant or complied with” after “has not complied with”, “or grant” after “such contract” wherever appearing, “or make a grant” after “enter into a contract”, and “or grant” after “whose contract”.
+Subsec. (c). Pub. L. 102–573, §501(b)(3)(C), inserted “the requirements of a grant or complied with” after “has not complied with”, “or grant” after “such contract” wherever appearing, “or make a grant” after“enter into a contract”, and “or grant” after “whose contract”.
 
 Subsec. (d). Pub. L. 102–573, §501(b)(3)(D), inserted “or grant” after “a contract” wherever appearing.
 

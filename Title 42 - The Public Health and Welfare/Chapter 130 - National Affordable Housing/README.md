@@ -230,13 +230,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part E—Mortgage Credit Enhancement
+#### Part E—Other Assistance
 
 |  |  |
 | :--- | ---: |
-| [12821\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20E%20-%20Mortgage%20Credit%20Enhancement/%C2%A7%2012821%20-%20Report%20on%20credit%20enhancement.md) | Report on credit enhancement. |
-| (a) | In general. |
-| (b) | Report. |
+| [12821\.](Subchapter%20002%20%28II%29%20-%20Investment%20in%20Affordable%20Housing/Part%20E%20-%20Other%20Assistance/%C2%A7%2012821%20-%20Downpayment%20assistance%20initiative.md) | Downpayment assistance initiative. |
+| (a) | Definitions. |
+| (b) | Grant authority. |
+| (c) | Eligible activities. |
+| (d) | Formula allocation. |
+| (e) | Reallocation. |
+| (f) | Applicability of other provisions. |
+| (g) | Housing strategy. |
+| (h) | Report. |
+| (i) | Sunset. |
+| (j) | Relocation assistance and downpayment assistance. |
+| (k) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -26,9 +26,9 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 #### (iv) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this titlethat occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-> &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of suchdetermination under section 300bb–6(3) of this title before the end of such 18 months.
+> &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this subchapter, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.
 
 #### (B) End of plan
 
@@ -88,7 +88,7 @@ Pub. L. 104–191, §421(a)(1)(A)(i), transferred sentence following cl. (iii) t
 
 Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “In the case of an event described in section 300bb–3(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
 
-Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted “(other than such an exclusion or limitation whichdoes not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)” before “, or”.
+Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)” before “, or”.
 
 Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
 

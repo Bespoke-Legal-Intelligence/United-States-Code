@@ -9,6 +9,7 @@
 | [1464\.](%C2%A7%2001464%20-%20Broadcasting%20obscene%20language.md) | Broadcasting obscene language. |
 | [1465\.](%C2%A7%2001465%20-%20Transportation%20of%20obscene%20matters%20for%20sale%20or%20distribution.md) | Transportation of obscene matters for sale or distribution. |
 | [1466\.](%C2%A7%2001466%20-%20Engaging%20in%20the%20business%20of%20selling%20or%20transferring%20obscene%20matter.md) | Engaging in the business of selling or transferring obscene matter. |
+| [1466A.](%C2%A7%2001466A%20-%20Obscene%20visual%20representations%20of%20the%20sexual%20abuse%20of%20children.md) | Obscene visual representations of the sexual abuse of children. |
 | [1467\.](%C2%A7%2001467%20-%20Criminal%20forfeiture.md) | Criminal forfeiture. |
 | [1468\.](%C2%A7%2001468%20-%20Distributing%20obscene%20material%20by%20cable%20or%20subscription%20television.md) | Distributing obscene material by cable or subscription television. |
 | [1469\.](%C2%A7%2001469%20-%20Presumptions.md) | Presumptions. |
@@ -17,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–21, title V, §504(b), Apr. 30, 2003, 117 Stat. 682, added item 1466A.
 
 1998—Pub. L. 105–314, title IV, §401(b), Oct. 30, 1998, 112 Stat. 2979, added item 1470.
 
@@ -28,7 +31,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2516 of this title; title 19 section 1583; title 39 section 3001; title 47 section 230.
+This chapter is referred to in sections 2251, 2252, 2252A, 2257, 2516, 3553 of this title; title 15 sections 7703, 7707; title 19 section 1583; title 39 section 3001; title 47 section 230.
 
 
 ---
@@ -42,6 +45,7 @@ This chapter is referred to in section 2516 of this title; title 19 section 1583
 - [&sect; 01464 - Broadcasting obscene language](%C2%A7%2001464%20-%20Broadcasting%20obscene%20language.md)
 - [&sect; 01465 - Transportation of obscene matters for sale or distribution](%C2%A7%2001465%20-%20Transportation%20of%20obscene%20matters%20for%20sale%20or%20distribution.md)
 - [&sect; 01466 - Engaging in the business of selling or transferring obscene matter](%C2%A7%2001466%20-%20Engaging%20in%20the%20business%20of%20selling%20or%20transferring%20obscene%20matter.md)
+- [&sect; 01466A - Obscene visual representations of the sexual abuse of children](%C2%A7%2001466A%20-%20Obscene%20visual%20representations%20of%20the%20sexual%20abuse%20of%20children.md)
 - [&sect; 01467 - Criminal forfeiture](%C2%A7%2001467%20-%20Criminal%20forfeiture.md)
 - [&sect; 01468 - Distributing obscene material by cable or subscription television](%C2%A7%2001468%20-%20Distributing%20obscene%20material%20by%20cable%20or%20subscription%20television.md)
 - [&sect; 01469 - Presumptions](%C2%A7%2001469%20-%20Presumptions.md)

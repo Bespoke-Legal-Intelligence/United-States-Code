@@ -22,7 +22,7 @@ Pub. L. 104–106, div. A, title V, §571(c)(1), (2), Feb. 10, 1996, 110 Stat. 3
 
 1994—Pub. L. 103–337, div. A, title XIV, §1412(b), Oct. 5, 1994, 108 Stat. 2913, added item 404.
 
-1992—Pub. L. 102–484, div. A, title X, §1081(b)(2), title XIII, §1342(c)(2), Oct. 23, 1992, 106 Stat. 2516, 2558, added subchapter analysis, subchapter I heading, and item 403.
+1992—Pub. L. 102–484, div. A, title X, §1081(b)(2), title XIII, §1342(c)(2), Oct. 23, 1992, 106 Stat. 2516, 2558, addedsubchapter analysis, subchapter I heading, and item 403.
 
 1987—Pub. L. 100–180, div. A, title III, §332(b)(6), Dec. 4, 1987, 101 Stat. 1080, substituted “HUMANITARIAN AND OTHER ASSISTANCE” for “HUMANITARIAN AND CIVIC ASSISTANCE PROVIDED IN CONJUNCTION WITH MILITARY OPERATIONS” in chapter heading, “Humanitarian and civic assistance provided in conjunction with military operations” for “Armed forces participation in humanitarian and civic assistance activities” in item 401, and “Transportation of humanitarian relief supplies to foreign countries” for “Approval of Secretary of State” in item 402, and struck out items 403 “Payment of expenses”, 404 “Annual report to Congress”, 405 “Definition of humanitarian and civic assistance”, and 406 “Expenditure limitation”.
 

@@ -14,17 +14,21 @@
 
 &emsp;&emsp;(C) innovative approaches to the delivery of health care in rural areas, including programs providing community-based mental health services, pre-natal and infant care services, and rural occupational safety and preventive health education and promotion,
 
-&emsp;(3) coordinate the activities within the Department that relate to rural health care, and
+&emsp;(3) coordinate the activities within the Department that relate to rural health care,
 
-&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion.
+&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion, and
 
-(Aug. 14, 1935, ch. 531, title VII, §711, as added Pub. L. 100–203, title IV, §4401, Dec. 22, 1987, 101 Stat. 1330–225; amended Pub. L. 100–360, title IV, §411(m)(1), July 1, 1988, 102 Stat. 806; Pub. L. 101–239, title VI, §6213(g), Dec. 19, 1989, 103 Stat. 2251.)
+&emsp;(5) administer grants, cooperative agreements, and contracts to provide technical assistance and other activities as necessary to support activities related to improving health care in rural areas.
+
+(Aug. 14, 1935, ch. 531, title VII, §711, as added Pub. L. 100–203, title IV, §4401, Dec. 22, 1987, 101 Stat. 1330–225; amended Pub. L. 100–360, title IV, §411(m)(1), July 1, 1988, 102 Stat. 806; Pub. L. 101–239, title VI, §6213(g), Dec. 19, 1989, 103 Stat. 2251; Pub. L. 108–173, title IV, §432, Dec. 8, 2003, 117 Stat. 2288.)
 
 #### References in Text
 
 Section 4403 of the Omnibus Budget Reconciliation Act of 1987, referred to in subsec. (b)(1), is section 4403 of Pub. L. 100–203, which is set out as a note under section 1395b–1 of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(5). Pub. L. 108–173 added par. (5).
 
 1989—Subsec. (b)(2)(A). Pub. L. 101–239, §6213(g)(1), substituted “health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion” for “health care issues”.
 

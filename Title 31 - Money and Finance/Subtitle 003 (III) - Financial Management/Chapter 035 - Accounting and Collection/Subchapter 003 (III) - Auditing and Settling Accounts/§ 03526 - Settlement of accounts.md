@@ -116,7 +116,7 @@ R.S. §291.
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (a), the text of 31:538 and 541 is omitted as executed and obsolete. The words “either as debtor or creditor” in 31:71(related to accounts) and “and adjusted” are omitted as surplus. The last 17 words are added to restate that part of section 4 of the Act of July 31, 1894 (ch. 174, 28 Stat. 206), that was inadvertently repealed in the codification of title 5.
+In subsection (a), the text of 31:538 and 541 is omitted as executed and obsolete. The words “either as debtor or creditor” in 31:71(related to accounts) and “and adjusted” are omitted as surplus. The last 17 words are added to restate that part of section 4 of the Act ofJuly 31, 1894 (ch. 174, 28 Stat. 206), that was inadvertently repealed in the codification of title 5.
 
 Subsection (b) is substituted for 31:74(last par. words after 4th comma) for clarity and consistency and because of the restatement.
 

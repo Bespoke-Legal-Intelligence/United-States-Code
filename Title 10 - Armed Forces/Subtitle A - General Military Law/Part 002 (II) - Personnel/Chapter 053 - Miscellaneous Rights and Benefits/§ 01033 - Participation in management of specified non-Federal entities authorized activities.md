@@ -6,7 +6,7 @@ Authorization.—The Secretary concerned may authorize a member of the armed for
 
 (b)
 
-Designated Entities.—(1) The Secretary of Defense, and the Secretary of Transportation in the case of the Coast Guard when it is not operating as a service in the Navy, shall designate those entities for which authorization under subsection (a) may be provided. The list of entities so designated may not be revised more frequently than semiannually. In making such designations, the Secretary shall designate each military welfare society and may designate any other entity described in paragraph (3). No other entities may be designated.
+Designated Entities.—(1) The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall designate those entities for which authorization under subsection (a) may be provided. The list of entities so designated may not be revised more frequently than semiannually. In making such designations, the Secretary shall designate each military welfare society and may designate any other entity described in paragraph (3). No other entities may be designated.
 
 (2) In this section, the term “military welfare society” means the following:
 
@@ -36,9 +36,9 @@ Publication of Designated Entities and of Authorized Persons.—A designation of
 
 (d)
 
-Regulations.—The Secretary of Defense, and the Secretary of Transportation in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
+Regulations.—The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 105–85, div. A, title V, §593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, §583, Oct. 5, 1999, 113 Stat. 634.)
+(Added Pub. L. 105–85, div. A, title V, §593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, §583, Oct. 5, 1999, 113 Stat. 634; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
@@ -46,7 +46,13 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 
 #### Amendments
 
+2002—Subsecs. (b)(1), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1999—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

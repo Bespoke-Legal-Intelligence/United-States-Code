@@ -44,7 +44,7 @@ Regulations under sections 355(i) and 360(j) of this title, relating to investig
 
 #### (g) Change of address
 
-Every registrant under this subchapter shall be required to report any change of professional or business address in such manner as the Attorney General shall by regulation require.
+Every registrant under this subchapter shall be required to report any change of professionalor business address in such manner as the Attorney General shall by regulation require.
 
 #### (h) Reporting requirements for GHB
 

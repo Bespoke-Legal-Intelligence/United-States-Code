@@ -30,7 +30,7 @@ If any of the Federal mandates in the bill or joint resolution are Federal inter
 
 &emsp;(2) any existing sources of Federal assistance in addition to those identified in paragraph (1) that may assist State, local, and tribal governments in meeting the direct costs of the Federal intergovernmental mandates; and
 
-&emsp;(3) if the bill or joint resolution would make the reduction specified in section 658(5)(B)(i)(II) of this title, a statement of howthe committee specifically intends the States to implement the reduction and to what extent the legislation provides additional flexibility, if any, to offset the reduction.
+&emsp;(3) if the bill or joint resolution would make the reduction specified in section 658(5)(B)(i)(II) of this title, a statement of how the committee specifically intends the States to implement the reduction and to what extent the legislation provides additional flexibility, if any, to offset the reduction.
 
 #### (e) Preemption clarification and information
 
@@ -50,7 +50,7 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 #### Amendments
 
-1999—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
+<b>1999</b>—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
 
 #### Section Referred to in Other Sections
 

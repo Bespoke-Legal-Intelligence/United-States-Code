@@ -92,7 +92,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (1) Local consultation
 
-&emsp;No proposed enterprise zone homeownership opportunity program may be approved by the Secretary under this section unless the applicant involved demonstrates to the satisfaction of the Secretary that—
+&emsp;No proposed enterprise zone homeownership opportunity program may be approved by theSecretary under this section unless the applicant involved demonstrates to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) it has consulted with and received the support of residents of the neighborhood in which such program is to be located; and
 

@@ -22,13 +22,13 @@
 
 &emsp;&emsp;(B) subject to subsection (e), allowances under chapter 7 of this title; and
 
-&emsp;(2) the rates of pay and allowances of a grade which an officer formerly held are those to which the officer would have been entitled had he remained in that grade and continued to receive the increases in pay and allowances authorized for that grade, as otherwise provided in this title.
+&emsp;(2) the rates of pay and allowances of a grade which an officer formerly held are those towhich the officer would have been entitled had he remained in that grade and continued to receive the increases in pay and allowances authorized for that grade, as otherwise provided in this title.
 
 (d) In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under section 301 of this title, special pay for diving duty under section 304 of this title, for hardship duty under section 305 of this title, and for sea duty under section 305a of this title, and proficiency pay under section 307 of this title may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.
 
 (e) The clothing allowance under section 418 of this title may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under section 415 of this title.
 
-(Added Pub. L. 91–484, §1(1), Oct. 21, 1970, 84 Stat. 1083; amended Pub. L. 96–343, §6(a)(1), Sept. 8,1980, 94 Stat. 1126; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(d), Nov. 18, 1997, 111 Stat. 1790; Pub. L. 105–261, div. A, title VI, §617(b), Oct. 17, 1998, 112 Stat. 2041.)
+(Added Pub. L. 91–484, §1(1), Oct. 21, 1970, 84 Stat. 1083; amended Pub. L. 96–343, §6(a)(1), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(d), Nov. 18, 1997, 111 Stat. 1790; Pub. L. 105–261, div. A, title VI, §617(b), Oct. 17, 1998, 112 Stat. 2041.)
 
 #### Amendments
 

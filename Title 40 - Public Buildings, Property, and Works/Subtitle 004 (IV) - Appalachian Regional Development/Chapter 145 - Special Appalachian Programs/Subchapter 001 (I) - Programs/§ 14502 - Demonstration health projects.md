@@ -66,7 +66,7 @@ Standards for making grants.—A grant for the operation of a demonstration heal
 
 &emsp;&emsp;(A) unless the facility is publicly owned, or owned by a public or private nonprofit organization, and is not operated for profit;
 
-&emsp;&emsp;(B) after five years following the commencement of the initial grant for operationof the project, except that child development demonstrations assisted under this section during fiscal year 1979 may be approved under section 14322 of this title for continued support beyond that period, on request of the State, if the Commission finds that no federal, state, or local amounts are available to continue the project; and
+&emsp;&emsp;(B) after five years following the commencement of the initial grant for operation of the project, except that child development demonstrations assisted under this section during fiscal year 1979 may be approved under section 14322 of this title for continued support beyond that period, on request of the State, if the Commission finds that no federal, state, or local amounts are available to continue the project; and
 
 &emsp;&emsp;(C) unless the Secretary of Health and Human Services is satisfied that the operation of the project will be conducted under efficient management practices designed to obviate operating deficits.
 
@@ -84,7 +84,7 @@ Federal share.—Notwithstanding any provision of law limiting the federal share
 
 &emsp;(5)
 
-State deemed to meet requirement of providing assistance or services on statewide basis.—Notwithstanding any provision of the Social Security Act (42 U.S.C. 301 et seq.) requiring assistance or services on a statewide basis, a State providing assistance or services under a federal grant program described in paragraph (2) in any area of the region approved by the Commission is deemed to be meeting that requirement.
+State deemed to meet requirement of providing assistance or services on statewide basis.—Notwithstanding any provision of the Social Security Act (42 U.S.C. 301 et seq.) requiring assistance or services on a statewide basis, a State providing assistance or servicesunder a federal grant program described in paragraph (2) in any area of the region approved by the Commission is deemed to be meeting that requirement.
 
 (e)
 
@@ -182,7 +182,7 @@ In subsection (f)(1), the words “After September 30, 1998” are omitted as ob
 
 The Public Health Service Act, referred to in subsec. (c)(2), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub.L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§601 et seq.) and B (§620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

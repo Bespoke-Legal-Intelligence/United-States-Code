@@ -10,7 +10,7 @@ A prior section 401 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 269
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(9) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title \[amending sections 7107, 7109, and 7110 of this title and repealing former section 7109 of this title\] may be cited as the ‘National Women's Business Council Reauthorization Act of 2000’.”
+Pub. L. 106–554, §1(a)(9) \[title VII, §701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701, provided that: “This title \[amending sections 7107, 7109, and 7110 of this title andrepealing former section 7109 of this title\] may be cited as the ‘National Women's Business Council Reauthorization Act of 2000’.”
 
 #### Ex. Ord. No. 12138. National Women's Business Enterprise Policy and National Program for Women's Business Enterprise
 
@@ -56,7 +56,7 @@ Establishment of the Interagency Committee on Women's Business Enterprise
 
 1–202. The Chairperson of the Committee (hereinafter called the Chairperson) shall be appointed by the President. The Chairperson shall be the presiding officer of the Committee and shall have such duties as prescribed in this Order or by the Committee in its rules of procedure. The Chairperson may also represent his or her department, agency or office on the Committee.
 
-1–203. The Committee shall be composed of the Chairperson and other members appointed by the heads of departments and agencies from among high level policy-making officials. In making these appointments, the recommendations of the Chairperson shall be taken into consideration. The following departments and agencies and such other departments and agencies as the Chairperson shall select shall be members of the Committee: the Departments of Agriculture; Commerce; Defense; Energy; Health and Human Services; Housing and Urban Development; Interior; Justice; Labor; Transportation; Treasury; the Federal Trade Commission; General Services Administration; National Science Foundation; Office of Federal Procurement Policy; and the Small Business Administration. These members shall have a vote. Nonvoting membersshall include the Executive Director of the Committee and at least one but no more than three representatives from the Executive Office of the President appointed by the President.
+1–203. The Committee shall be composed of the Chairperson and other members appointed by the heads of departments and agencies from among high level policy-making officials. In making these appointments, the recommendations of the Chairperson shall be taken into consideration. The following departments and agencies and such other departments and agencies as the Chairperson shall select shall be members of the Committee: the Departments of Agriculture; Commerce; Defense; Energy; Health and Human Services; Housing and Urban Development; Interior; Justice; Labor; Transportation; Treasury; the Federal Trade Commission; General Services Administration; National Science Foundation; Office of Federal Procurement Policy; and the Small Business Administration. These members shall have a vote. Nonvoting members shall include the Executive Director of the Committee and at least one but no more than three representatives from the Executive Office of the President appointed by the President.
 
 1–204. The Committee shall meet at least quarterly at the call of the Chairperson, and at such other times as may be determined to be useful according to the rules of procedure adopted by the Committee.
 
@@ -74,7 +74,7 @@ The Committee shall in a manner consistent with law:
 
 1–303. Promote the mobilization of activities and resources of State and local governments, business and trade associations, private industry, colleges and universities, foundations, professional organizations, and volunteer and other groups toward the growth of women's business enterprise, and facilitate the coordination of the efforts of these groups with those of the departments and agencies.
 
-1–304. Make an annual assessment of the progress made in the Federal Government toward assisting women's business enterprise to enter the mainstream of business ownership and to provide recommendations for future actions to the President.
+1–304. Make an annual assessment of the progress made in the Federal Government toward assistingwomen's business enterprise to enter the mainstream of business ownership and to provide recommendations for future actions to the President.
 
 1–305. Convene and consult as necessary with persons inside and outside government to develop and promote new ideas concerning the development of women's business enterprise.
 

@@ -24,7 +24,7 @@
 
 (3)(A) Any career appointee in an agency may be granted a sabbatical under this subsection only if the appointee agrees, as a condition of accepting the sabbatical, to serve in the civil service upon the completion of the sabbatical for a period of 2 consecutive years.
 
-(B) Each agreement required under subparagraph (A) of this paragraph shall provide that in the event the career appointee fails to carry out the agreement (except for good and sufficient reason as determined by the head of the agency who granted the sabbatical) the appointee shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
+(B) Each agreement required under subparagraph (A) of this paragraph shall provide that inthe event the career appointee fails to carry out the agreement (except for good and sufficient reason as determined by the head of the agency who granted the sabbatical) the appointee shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
 (d)(1) The Office shall encourage and assist individuals to improve their skills and increase their contribution by service in a variety of agencies as well as by accepting temporary placements in State or local governments or in the private sector.
 
@@ -48,5 +48,5 @@ A prior section 3396, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3151 of this title; title 10 section 1606; title 22 section 3984.
+This section is referred to in section 3151 of this title; title 2 section 611; title 10 section 1606; title 22 section 3984.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Accident Reports and Scene Preservation.—When the failure of a locomotive, tender, or locomotive or tender part or appurtenance results in an accident or incident causing serious personal injury or death, the railroad carrier owning or operating the locomotive or tender—
+Accident Reports and Scene Preservation.—When the failure of a locomotive, tender,or locomotive or tender part or appurtenance results in an accident or incident causing serious personal injury or death, the railroad carrier owning or operating the locomotive or tender—
 
 &emsp;(1) immediately shall file with the Secretary of Transportation a written statement of the fact of the accident or incident; and
 

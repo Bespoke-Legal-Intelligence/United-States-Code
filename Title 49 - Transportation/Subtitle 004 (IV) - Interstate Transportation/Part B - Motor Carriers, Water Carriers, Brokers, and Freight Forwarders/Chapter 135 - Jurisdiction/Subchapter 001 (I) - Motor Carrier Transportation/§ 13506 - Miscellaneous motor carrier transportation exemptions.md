@@ -8,7 +8,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(2) a motor vehicle providing taxicab service;
 
-&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patronsbetween the hotel and the local station of a carrier;
+&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patrons between the hotel and the local station of a carrier;
 
 &emsp;(4) a motor vehicle controlled and operated by a farmer and transporting—
 
@@ -70,7 +70,7 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 &emsp;&emsp;(B) that in transporting passengers over a route between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State, the transportation is exempt from jurisdiction under this part only if the motor carrier operating the motor vehicle also is lawfully providing intrastate transportation of passengers over the entire route under the laws of each State through which the route runs;
 
-&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided bya person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
+&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
 
 &emsp;(3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
 

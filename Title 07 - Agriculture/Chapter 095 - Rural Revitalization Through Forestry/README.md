@@ -8,6 +8,7 @@
 | (a) | Establishment of economic development and global marketing program. |
 | (b) | Activities. |
 | (c) | Types of programs. |
+| (d) | Rural revitalization technologies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

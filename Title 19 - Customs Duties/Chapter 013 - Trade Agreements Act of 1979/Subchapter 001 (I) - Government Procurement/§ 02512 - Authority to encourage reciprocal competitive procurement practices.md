@@ -50,7 +50,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (3) Consultation
 
-&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysisrequired by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisory committees established pursuant to section 2155 of this title.
+&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysis required by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisory committees established pursuant to section 2155 of this title.
 
 #### (d) Proposed action
 
@@ -72,7 +72,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### References in Text
 
-Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
+Title III of the Act of March 3, 1933, referred to in subsec. (c)(2), is act Mar. 3, 1933, ch. 212, title III, 47 Stat. 1520, as amended, known as the Buy American Act, which is classified generally to sections 10a, 10b,and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
 #### Amendments
 

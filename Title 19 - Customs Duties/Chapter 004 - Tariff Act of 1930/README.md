@@ -72,8 +72,8 @@
 | (k) | Use of domestic merchandise acquired in exchange for imported merchandise of same kind and quality. |
 | (<i>l</i>) | Regulations. |
 | (m) | Source of payment. |
-| (n) | Refunds, waivers, or reductions under North American Free Trade Agreement Implementation Act. |
-| (<i>o</i>) | Vessels built for account of resident of NAFTA country. |
+| (n) | Refunds, waivers, or reductions under certain free trade agreements. |
+| (<i>o</i>) | Special rules for certain vessels and imported materials. |
 | (p) | Substitution of finished petroleum derivatives. |
 | (q) | Packaging material. |
 | (r) | Filing drawback claims. |
@@ -471,10 +471,12 @@ I74subpart a—definitions
 | (b) | Crude oil and petroleum products. |
 | [1508\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001508%20-%20Recordkeeping.md) | Recordkeeping. |
 | (a) | Requirements. |
-| (b) | Exportations to free trade countries. |
+| (b) | Exportations to NAFTA countries. |
 | (c) | Period of time. |
 | (d) | Limitation. |
 | (e) | Subsection (b) penalties. |
+| (f) | Certificates of origin for goods exported under the United States-Chile Free Trade Agreement. |
+| (g) | Penalties. |
 | [1509\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001509%20-%20Examination%20of%20books%20and%20witnesses.md) | Examination of books and witnesses. |
 | (a) | Authority. |
 | (b) | Regulatory audit procedures. |
@@ -496,6 +498,7 @@ I74subpart a—definitions
 | (d) | Limitation on protest of reliquidation. |
 | (e) | Advance notice of certain determinations. |
 | (f) | Denial of preferential treatment. |
+| (g) | Denial of preferential tariff treatment under United States-Chile Free Trade Agreement. |
 | [1515\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001515%20-%20Review%20of%20protests.md) | Review of protests. |
 | (a) | Administrative review and modification of decisions. |
 | (b) | Request for accelerated disposition of protest. |
@@ -522,7 +525,7 @@ I74subpart a—definitions
 | (a) | Cases in which refunds authorized. |
 | (b) | Authorization of appropriations. |
 | (c) | Reliquidation of entry or reconciliation. |
-| (d) | Goods qualifying under NAFTA rules of origin. |
+| (d) | Goods qualifying under free trade agreement rules of origin. |
 | 1521, 1522. Repealed or Omitted. |  |
 | [1523\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001523%20-%20Examination%20of%20accounts.md) | Examination of accounts. |
 | [1524\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001524%20-%20Deposit%20of%20reimbursable%20charges.md) | Deposit of reimbursable charges. |
@@ -631,6 +634,7 @@ I74subpart a—definitions
 | (d) | Deprivation of lawful duties, taxes, or fees. |
 | (e) | Court of International Trade proceedings. |
 | (f) | False certifications regarding exports to NAFTA countries. |
+| (g) | False certifications of origin under the United States-Chile Free Trade Agreement. |
 | [1592a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001592a%20-%20Special%20provisions%20regarding%20certain%20violations.md) | Special provisions regarding certain violations. |
 | (a) | Publication of names of certain violators. |
 | (b) | List of high risk countries. |
@@ -741,8 +745,9 @@ I74subpart a—definitions
 | (b) | Functions and duties. |
 | (c) | Compliance. |
 | (d) | Seizures. |
-| (e) | Stationing of foreign customs officers in the United States. |
+| (e) | Stationing of foreign customs and agriculture inspection officers in the United States. |
 | (f) | Application of certain laws. |
+| (g) | Privileges and immunities for designated persons. |
 | [1630\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001630%20-%20Authority%20to%20settle%20claims.md) | Authority to settle claims. |
 | (a) | In general. |
 | (b) | Limitations. |

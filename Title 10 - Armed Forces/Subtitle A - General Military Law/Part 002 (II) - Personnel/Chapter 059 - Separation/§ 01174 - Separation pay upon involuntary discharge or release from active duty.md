@@ -18,7 +18,7 @@ Regular Enlisted Members.—(1) A regular enlisted member of an armed force who 
 
 (c)
 
-Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of an armed force other than a regular member who is discharged or released from active duty and who has completed six or more, but fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary concerned, if—
+Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of an armedforce other than a regular member who is discharged or released from active duty and who has completed six or more, but fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary concerned, if—
 
 &emsp;(A) the member's discharge or release from active duty is involuntary; or
 
@@ -44,7 +44,7 @@ Amount of Separation Pay.—The amount of separation pay which may be paid to a 
 
 (e)
 
-Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under this section, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision oflaw that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
+Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under this section, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision of law that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
 
 (B) Each person who enters into an agreement referred to in subparagraph (A) who is not already a Reserve of an armed force and who is qualified shall, upon such person's discharge or release from active duty, be enlisted or appointed, as appropriate, as a Reserve and be transferred to a reserve component.
 
@@ -152,7 +152,7 @@ Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
 1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
+Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months ormore is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
 Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted “, other than section 1212 of this title,” after “any other provision of law”.
 
@@ -192,7 +192,7 @@ Section 501(e) of Pub. L. 101–510 provided that:
 
 “(1) Except as provided in paragraph (2), subsection (b) of section 1174 of title 10, United States Code, as added by subsection (a), and the amendments made by subsections (b), (c), and (d) \[amending this section\] shall apply with respect to a member of the Armed Forces who is discharged, or released from active duty, after the date of the enactment of this Act \[Nov. 5, 1990\].
 
-“(2) The amendments made by subsection (b) \[amending this section\] shall not apply in the case of a member (other than a regular enlisted member) of the Armed Forces who (A) is serving on active duty on the date of the enactment of this Act, (B) is discharged, orreleased from active duty, after that date; and (C) on that date has five or more, but less than six, years of active service in the Armed Forces.”
+“(2) The amendments made by subsection (b) \[amending this section\] shall not apply in the case of a member (other than a regular enlisted member) of the Armed Forces who (A) is serving on active duty on the date of the enactment of this Act, (B) is discharged, or released from active duty, after that date; and (C) on that date has five or more, but less than six, years of active service in the Armed Forces.”
 
 #### Effective Date of 1983 Amendment
 
@@ -214,5 +214,5 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 580, 642, 1165, 1166, 1174a, 1186, 6383, 14517, 14905 of this title.
+This section is referred to in sections 580, 642, 1165, 1166, 1174a, 1186, 6383, 14517, 14905 of this title; title 14 sections 286, 286a; title 33 section 3042.
 

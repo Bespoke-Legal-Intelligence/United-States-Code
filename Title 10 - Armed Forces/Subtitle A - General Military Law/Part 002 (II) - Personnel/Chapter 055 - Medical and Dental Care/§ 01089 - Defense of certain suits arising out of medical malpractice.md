@@ -10,7 +10,7 @@
 
 (e) For purposes of this section, the provisions of section 2680(h) of title 28 shall not apply to any cause of action arising out of a negligent or wrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations).
 
-(f)(1) The head of the agency concerned may, to the extent that the head of the agency concerned considers appropriate, hold harmless or provide liability insurance for any person described in subsection (a) for damages for personal injury, including death, caused by such person's negligent or wrongful act or omission in the performance of medical, dental, or relatedhealth care functions (including clinical studies and investigations) while acting within the scope of such person's duties if such person is assigned to a foreign country or detailed for service with other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 1346(b) of title 28, for such damage or injury.
+(f)(1) The head of the agency concerned may, to the extent that the head of the agency concerned considers appropriate, hold harmless or provide liability insurance for any person described in subsection (a) for damages for personal injury, including death, caused by such person's negligent or wrongful act or omission in the performance of medical, dental, or related health care functions (including clinical studies and investigations) while acting within the scope of such person's duties if such person is assigned to a foreign country or detailed for service with other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 1346(b) of title 28, for such damage or injury.
 
 (2) With respect to the Secretary of Defense and the Armed Forces Retirement Home Board, the authority provided by paragraph (1) also includes the authority to provide for reasonable attorney's fees for persons described in subsection (a), as determined necessary pursuant to regulations prescribed by the head of the agency concerned.
 
@@ -18,15 +18,17 @@
 
 &emsp;(1) the Director of Central Intelligence, in the case of an employee of the Central Intelligence Agency;
 
-&emsp;(2) the Secretary of Transportation, in the case of a member or employee of the Coast Guard when it is not operating as a service in the Navy;
+&emsp;(2) the Secretary of Homeland Security, in the case of a member or employee of the Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;(3) the Armed Forces Retirement Home Board, in the case of an employee of the Armed Forces Retirement Home; and
 
 &emsp;(4) the Secretary of Defense, in all other cases.
 
-(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, §736(b), Nov. 18, 1997, 111 Stat. 1814.)
+(Added Pub. L. 94–464, §1(a), Oct. 8, 1976, 90 Stat. 1985; amended Pub. L. 97–124, §2, Dec. 29, 1981, 95 Stat. 1666; Pub. L. 98–94, title IX, §934(a)–(c), Sept. 24, 1983, 97 Stat. 651, 652; Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title XV, §1533(a)(1), Nov. 5, 1990, 104 Stat. 1733; Pub. L. 105–85, div. A, title VII, §736(b), Nov. 18, 1997, 111 Stat. 1814; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (g)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1997—Subsec. (a). Pub. L. 105–85, §736(b)(1), inserted at end “This subsection shall also apply if the physician, dentist, nurse, pharmacist, or paramedical or other supporting personnel (or the estate of such person) involved is serving under a personal services contract entered into under section 1091 of this title.”
 
@@ -46,9 +48,13 @@ Subsec. (g)(3), (4). Pub. L. 98–94, §934(c)(3), added par. (3) and redesignat
 
 1981—Subsec. (a). Pub. L. 97–124 inserted “the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” after “armed forces,”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 #### Effective Date of 1983 Amendment
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House of Representatives before the 61st day after the date of the report; and
 
-&emsp;(2) the Committees on Appropriations of both Houses of Congress in the first request for appropriations submitted more than 60 days after the date of the report.
+&emsp;(2) the Committees on Appropriations of both Houses of Congress in the first requestfor appropriations submitted more than 60 days after the date of the report.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 896.)
 

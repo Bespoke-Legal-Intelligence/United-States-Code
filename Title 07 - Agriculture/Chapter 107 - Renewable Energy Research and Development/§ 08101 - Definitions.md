@@ -68,7 +68,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Biomass Research and Development
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483, provided that:
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901, provided that:
 
 #### “SEC. 301. SHORT TITLE.
 
@@ -122,7 +122,7 @@ Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L
 
 &emsp;&emsp;“(B) giving rise to processing innovations based on new knowledge;
 
-&emsp;“(10) the added utility of biobased industrial products developed through improvements in processingtechnology would encourage the design of feedstocks that would meet future needs more effectively;
+&emsp;“(10) the added utility of biobased industrial products developed through improvements in processing technology would encourage the design of feedstocks that would meet future needs more effectively;
 
 &emsp;“(11) the creation of value-added biobased industrial products would create new jobs in construction, manufacturing, and distribution, as well as new higher-valued exports of products and technology;
 
@@ -504,9 +504,31 @@ Uses of Grants, Contracts, and Assistance.—A grant, contract, or assistance un
 
 &emsp;&emsp;&emsp;“(iii) improved technologies for harvest, collection, transport, storage, and handling of crop and residue feedstocks; and
 
-&emsp;&emsp;&emsp;“(iv) development of economically viable cropping systems that improve the conservation and restoration of marginal land; or
+&emsp;&emsp;&emsp;“(iv) development of economically viable cropping systems that improve the conservation and restoration of marginal land;
 
-&emsp;“(4) any research and development in technologies or processes determined by the Secretary of Agriculture and the Secretary of Energy, acting through their respective points of contact and in consultation with the Board, to be consistent with the purposes described in subsection (b) and the priority described in subsection (c)(2)(B).
+&emsp;“(4) any research and development in technologies or processes determined by the Secretary of Agriculture and the Secretary of Energy, acting through their respective points of contact and in consultation with the Board, to be consistent with the purposes described in subsection (b) and the priority described in subsection (c)(2)(B); or
+
+&emsp;“(5) research to integrate silviculture, harvesting, product development, processing information, and economic evaluation to provide the science, technology, and tools to forest managers and community developers for use in evaluating forest treatment and production alternatives, including—
+
+&emsp;&emsp;“(A) to develop tools that would enable land managers, locally or in a several-State region, to estimate—
+
+&emsp;&emsp;&emsp;“(i) the cost to deliver varying quantities of wood to a particular location; and
+
+&emsp;&emsp;&emsp;“(ii) the amount that could be paid for stumpage if delivered wood was used for a specific mix of products;
+
+&emsp;&emsp;“(B) to conduct research focused on developing appropriate thinning systems and equipment designs that are—
+
+&emsp;&emsp;&emsp;“(i) capable of being used on land without significant adverse effects on the land;
+
+&emsp;&emsp;&emsp;“(ii) capable of handling large and varied landscapes;
+
+&emsp;&emsp;&emsp;“(iii) adaptable to handling a wide variety of tree sizes;
+
+&emsp;&emsp;&emsp;“(iv) inexpensive; and
+
+&emsp;&emsp;&emsp;“(v) adaptable to various terrains; and
+
+&emsp;&emsp;“(C) to develop, test, and employ in the training of forestry managers and community developers curricula materials and training programs on matters described in subparagraphs (A) and (B).
 
 “(e)
 
@@ -524,7 +546,7 @@ Report.—Not later than 5 years after the date of the enactment of this Act \[J
 
 “(a)
 
-In General.—To the extent administrative support and funds are not provided by other agencies under subsection (b), the Secretary of Energy and the Secretary of Agriculture may provide such administrative support and funds of the Department of Energy and the Department of Agriculture to the Board and the Advisory Committee as are necessary to enable the Boardand the Advisory Committee to carry out their duties under this title.
+In General.—To the extent administrative support and funds are not provided by other agencies under subsection (b), the Secretary of Energy and the Secretary of Agriculture may provide such administrative support and funds of the Department of Energy and the Department of Agriculture to the Board and the Advisory Committee as are necessary to enable the Board and the Advisory Committee to carry out their duties under this title.
 
 “(b)
 
@@ -584,7 +606,7 @@ Funding.—Of funds of the Commodity Credit Corporation, the Secretary shall mak
 
 “(b)
 
-Authorization of Appropriations.—In addition to amounts transferred under subsection (a), there are authorized to be appropriated to carry out this title $49,000,000 for each of fiscal years 2002 through 2007.
+Authorization of Appropriations.—In addition to amounts transferred under subsection (a), there are authorized to be appropriated to carry out this title $54,000,000 for each of fiscal years 2002 through 2007.
 
 #### “SEC. 311. TERMINATION OF AUTHORITY.
 

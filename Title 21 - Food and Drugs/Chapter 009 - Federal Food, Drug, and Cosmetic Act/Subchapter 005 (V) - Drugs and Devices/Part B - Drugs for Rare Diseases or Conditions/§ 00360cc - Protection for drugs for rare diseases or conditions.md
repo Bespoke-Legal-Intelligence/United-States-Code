@@ -48,5 +48,5 @@ Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 355a of this title.
+This section is referred to in sections 355, 355a of this title.
 

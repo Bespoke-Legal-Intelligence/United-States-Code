@@ -26,7 +26,7 @@
 
 &emsp;(B) the differentiation made by such action is based upon reasonable factors other than age.
 
-(2) The provisions of this chapter shall not apply to any program or activity establishedunder authority of any law which (A) provides any benefits or assistance to persons based upon the age of such persons; or (B) establishes criteria for participation in age-related terms or describes intended beneficiaries or target groups in such terms.
+(2) The provisions of this chapter shall not apply to any program or activity established under authority of any law which (A) provides any benefits or assistance to persons based upon the age of such persons; or (B) establishes criteria for participation in age-related terms or describes intended beneficiaries or target groups in such terms.
 
 #### (c) Employment practices and labor-management joint apprenticeship training program exemptions; Age Discrimination in Employment Act unaffected
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, asamended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Codification
 

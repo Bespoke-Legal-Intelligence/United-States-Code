@@ -18,3 +18,5 @@ Section 3(1) of the Child Abuse Prevention and Treatment Act, referred to in sub
 
 Section 568(c) of Pub. L. 104–106 directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

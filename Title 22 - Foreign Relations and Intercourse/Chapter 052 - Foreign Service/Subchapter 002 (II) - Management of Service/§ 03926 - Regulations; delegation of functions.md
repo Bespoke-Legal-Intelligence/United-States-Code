@@ -16,7 +16,7 @@ Pub. L. 103–236, title I, §191(a), Apr. 30, 1994, 108 Stat. 418, as amended b
 
 &emsp;“(3) requiring that employees receiving long-term training in a language, or hired with a hiring preference for a language, serve at least 2 tours in jobs requiring that language, with exceptions for certain limited-use languages and priority needs of the service at the discretion of the Director General;
 
-&emsp;“(4) requiring that significant consideration be given to foreign language competence and use in the evaluation, assignment, and promotion of all Foreign Service Officers of the Department of State, the Agency for International Development, and the United States Information Agency;
+&emsp;“(4) requiring that significant consideration be given to foreign language competence and use in theevaluation, assignment, and promotion of all Foreign Service Officers of the Department of State, the Agency for International Development, and the United States Information Agency;
 
 &emsp;“(5) requiring the identification of appropriate Washington, D.C. metropolitan area positions as language-designated; and
 

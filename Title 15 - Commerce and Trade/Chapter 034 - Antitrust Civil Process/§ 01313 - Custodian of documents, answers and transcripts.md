@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 94–435, among other changes, inserted provisions relating
 
 Subsec. (d). Pub. L. 94–435, among other changes, in par. (1), inserted provisions relating to answers to interrogatories and transcripts of oral testimony, substituted a provision that an attorney designated under this section be from the Department of Justice for a provision that a designated attorney be appearing on behalf of the United States, provided that such an attorney can make an appearance under this section before a Federal administrative or regulatory agency in addition to a court or grand jury, and added par. (2).
 
-Subsec. (e). Pub. L. 94–435, among other changes, inserted provisions of subsec. (f) relating to the institution of a case or proceeding within a reasonable time after examination and analysis of any evidence assembled during the course of an investigation, and relating to written demand for the return of such material, and, in addition, provided that copies furnished the custodian pursuant to subsec. (b) of this section need not be returned by the custodian.
+Subsec. (e). Pub. L. 94–435, among other changes, inserted provisions of subsec. (f) relating to the institution of a case or proceeding within a reasonable timeafter examination and analysis of any evidence assembled during the course of an investigation, and relating to written demand for the return of such material, and, in addition, provided that copies furnished the custodian pursuant to subsec. (b) of this section need not be returned by the custodian.
 
 Subsecs. (f), (g). Pub. L. 94–435 redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e)(2).
 

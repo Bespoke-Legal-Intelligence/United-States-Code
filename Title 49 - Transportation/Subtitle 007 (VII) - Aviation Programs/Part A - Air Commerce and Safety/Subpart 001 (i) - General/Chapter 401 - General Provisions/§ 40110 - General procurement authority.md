@@ -24,7 +24,7 @@ Adjustments for inflation.—For fiscal years beginning after September 30, 1997
 
 &emsp;(3)
 
-Continuing obligations.—Notwithstanding section 1341 of title 31, the Administrator may purchase a housing unit under paragraph (1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
+Continuing obligations.—Notwithstanding section 1341 of title 31, the Administrator may purchase a housing unit under paragraph\(1) even if there is an obligation thereafter to pay necessary and reasonable fees duly assessed upon such unit, including fees related to operation, maintenance, taxes, and insurance.
 
 &emsp;(4)
 
@@ -42,23 +42,17 @@ Payment of fees.—The Administrator may pay, when due, fees resulting from the 
 
 (c)
 
-Duties and Powers.—When carrying out subsection (a) of this section, the Administrator of the Federal Aviation Administration—
+Duties and Powers.—When carrying out subsection (a) of this section, the Administrator of the Federal Aviation Administration may—
 
-&emsp;(1) is the senior procurement executive referred to in section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) for approving the justification for using procedures other than competitive procedures, as required under section 303(f)(1)(B)(iii) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(B)(iii)); and
+&emsp;(1) notwithstanding section 1341(a)(1) of title 31, lease an interest in property for not more than 20 years;
 
-&emsp;(2) may—
+&emsp;(2) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
 
-&emsp;&emsp;(A) notwithstanding section 1341(a)(1) of title 31, lease an interest in property for not more than 20 years;
+&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services;
 
-&emsp;&emsp;(B) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
+&emsp;(4) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
 
-&emsp;&emsp;(C) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services;
-
-&emsp;&emsp;(D) use procedures other than competitive procedures, as provided under section 303(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c));
-
-&emsp;&emsp;(E) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
-
-&emsp;&emsp;(F) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
+&emsp;(5) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -66,7 +60,11 @@ Acquisition Management System.—
 
 &emsp;(1)
 
-In general.—In consultation with such non-governmental experts in acquisition management systems as the Administrator may employ, and notwithstanding provisions of Federal acquisition law, the Administrator shall develop and implement, not later than January 1, 1996, an acquisition management system for the Administration that addresses the unique needs of the agency and, at a minimum, provides for more timely and cost-effective acquisitions of equipment and materials.
+In general.—In consultation with such non-governmental experts in acquisition management systems as the Administrator may employ, and notwithstanding provisions of Federal acquisition law, the Administrator shall develop and implement an acquisition management system for the Administration that addresses the unique needs of the agency and, at a minimum, provides for—
+
+&emsp;&emsp;(A) more timely and cost-effective acquisitions of equipment, services, property, and materials; and
+
+&emsp;&emsp;(B) the resolution of bid protests and contract disputes related thereto, using consensual alternative dispute resolution techniques to the maximum extent practicable.
 
 &emsp;(2)
 
@@ -76,7 +74,7 @@ Applicability of federal acquisition law.—The following provisions of Federal 
 
 &emsp;&emsp;(B) The Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.).
 
-&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355).
+&emsp;&emsp;(C) The Federal Acquisition Streamlining Act of 1994 (Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term “executive agency” is deemed to refer to the Federal Aviation Administration.
 
 &emsp;&emsp;(D) The Small Business Act (15 U.S.C. 631 et seq.), except that all reasonable opportunities to be awarded contracts shall be provided to small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
@@ -84,9 +82,7 @@ Applicability of federal acquisition law.—The following provisions of Federal 
 
 &emsp;&emsp;(F) Subchapter V of chapter 35 of title 31, relating to the procurement protest system.
 
-&emsp;&emsp;(G) The Brooks Automatic Data Processing Act (40 U.S.C. 759).<sup>1</sup>
-
-&emsp;&emsp;(H) The Federal Acquisition Regulation and any laws not listed in subparagraphs (A) through (G) providing authority to promulgate regulations in the Federal Acquisition Regulation.
+&emsp;&emsp;(G) The Federal Acquisition Regulation and any laws not listed in subparagraphs (A) through (F) providing authority to promulgate regulations in the Federal Acquisition Regulation.
 
 &emsp;(3)
 
@@ -102,7 +98,7 @@ Certain provisions of the office of federal procurement policy act.—Notwithsta
 
 &emsp;(4)
 
-Effective date.—This subsection shall take effect on April 1, 1996.
+Adjudication of certain bid protests and contract disputes.—A bid protest or contract dispute that is not addressed or resolved through alternative dispute resolution shall be adjudicated by the Administrator through Dispute Resolution Officers or Special Masters of the Federal Aviation Administration Office ofDispute Resolution for Acquisition, acting pursuant to sections 46102, 46104, 46105, 46106 and 46107 and shall be subject to judicial review under section 46110 and to section 504 of title 5.
 
 (e)
 
@@ -120,7 +116,7 @@ Exception.—Paragraph (1) shall not apply to any portion of a proposal of an of
 
 Proposal defined.—In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642.)
 
 Historical and Revision Notes
 
@@ -198,11 +194,23 @@ The Small Business Act, referred to in subsec. (d)(2)(D), is Pub. L. 85–536, J
 
 The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts, and Tables.
 
-The Brooks Automatic Data Processing Act, referred to in subsec. (d)(2)(G), is act June 30, 1949, ch. 288, title I, §111, as added Oct. 30, 1965, Pub. L. 89–306, 79 Stat. 1127, as amended, which was classified to section 759 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–106, div. E, title LI, §5101, Feb. 10, 1996, 110 Stat. 680.
-
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (d)(3)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–176, §224(a), struck out par. (1), which related to the senior procurement executive, par. (2) designation before “may—”, and subpar.\(D) of par. (2), which related to use procedures other than competitive procedures, redesignated subpars. (A), (B), (C), (E), and (F) of par. (2) as pars. (1) to (5), respectively, and realigned margins.
+
+Subsec. (d)(1). Pub. L. 108–176, §224(b)(1), struck out “, not later than January 1, 1996,” after “shall develop and implement”, substituted “provides for—” for “provides for more timely and cost-effective acquisitions of equipment and materials.”, and added subpars. (A) and (B).
+
+Subsec. (d)(2)(C). Pub. L. 108–176, §222, substituted “(Public Law 103–355), except for section 315 (41 U.S.C. 265). For the purpose of applying section 315 of that Act to the system, the term ‘executive agency’ is deemed to refer to the Federal Aviation Administration.” for “(Public Law 103–355).”
+
+Subsec. (d)(2)(G). Pub. L. 108–178, §4(k)(3), substituted “subparagraphs (A) through (F)” for “subparagraphs (A) through (G)”.
+
+Pub. L. 108–178, §4(k)(1), (2), redesignated subpar. (H) as (G) and struck out former subpar. (G) which read as follows: “The Brooks Automatic Data Processing Act (40 U.S.C. 759).”
+
+Subsec. (d)(2)(H). Pub. L. 108–178, §4(k)(2), redesignated subpar. (H) as (G).
+
+Subsec. (d)(4). Pub. L. 108–176, §224(b)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “This subsection shall take effect on April 1, 1996.”
 
 2002—Subsec. (c)(2)(C). Pub. L. 107–217, §3(n)(5)(A), substituted “(as defined in section 3301(a) of title 40)” for “(as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612))”.
 
@@ -215,6 +223,12 @@ Subsec. (c)(2)(F). Pub. L. 107–217, §3(n)(5)(B), substituted “sections 121,
 1994—Subsec. (a). Pub. L. 103–429, §6(48), in introductory provisions, struck out “may” after “Administration”, in par. (1), struck out “acquire,” before “to the extent” and substituted “may acquire services or, by condemnation or otherwise,” for “services or”, and in pars. (2) and (3), inserted “may” after par. designation.
 
 Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted “notwithstanding section 1341(a)(1) of title 31,” before “lease”.
+
+#### Effective Date of 2003 Amendments
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -272,7 +286,7 @@ Authority.—The Secretary of Transportation may conduct a test of alternative a
 
 “(b)
 
-Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies and procedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
+Pilot Program Implementation.—(1) The Secretary of Transportation should prescribe policies andprocedures for the interaction of the program manager and the end user executive responsible for the requirement for the equipment acquired. Such policies and procedures should include provisions for enabling the end user executive to participate in acceptance testing.
 
 “(2) Not later than 45 days after the date of enactment of this Act \[Oct. 13, 1994\], the Secretary of Transportation shall identify for the pilot program quantitative measures and goals for reducing acquisition management costs.
 
@@ -369,6 +383,4 @@ Rule of Construction.—Nothing in this section shall be construed as authorizin
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 114, 40121 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

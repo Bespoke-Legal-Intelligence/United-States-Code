@@ -22,21 +22,23 @@ General Authority.—(1) The Secretary of Transportation may make grants under t
 
 (2)
 
-Special rule for fiscal year 2003.—
+Special rule for fiscal year 2003 and for the period of October 1, 2003, through February 29, 2004.—
 
 &emsp;(A)
 
-Increased flexibility.—The Secretary may make grants under this section, from funds made available to carry out this section for fiscal year 2003, to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000 as determined under the 2000 decennial census of population if—
+Increased flexibility.—The Secretary may make grants under this section, from funds made available to carry out this section for fiscal year 2003, and for the period of October 1, 2003, through February 29, 2004 <sup>1</sup> to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000 as determined under the 2000 decennial census of population if—
 
 &emsp;&emsp;(i) the urbanized area had a population of less than 200,000 as determined under the 1990 Federal decennial census of population;
 
-&emsp;&emsp;(ii) a portion of the urbanized area was a separate urbanized area with a population of less than 200,000 as determined under the 1990 Federal decennial census of population; or
+&emsp;&emsp;(ii) a portion of the urbanized area was a separate urbanized area with a population of less than 200,000 as determined under the 1990 Federal decennial census of population;
 
-&emsp;&emsp;(iii) the area was not designated as a urbanized area as determined under the 1990 Federal decennial census of population.
+&emsp;&emsp;(iii) the area was not designated as a urbanized area as determined under the 1990 Federal decennial census of population; and
+
+&emsp;&emsp;(iv) a portion of the area was not designated as an urbanized area as determined under the 1990 Federal decennial census and received assistance under section 5311 in fiscal year 2002.
 
 &emsp;(B)
 
-Maximum amounts.—Amounts made available pursuant to subparagraphs (A)(i) and (A)(ii) shall be no more than the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000 as determined in the 1990 Federal decennial census of population. Amounts made available pursuant to subparagraph (A)(iii) shall be no more than the amount apportioned under this section for fiscal year 2003.
+Maximum amounts.—Amounts made available pursuant to subparagraphs (A)(i) and (A)(ii) shall be no more than the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000 as determined in the 1990 Federal decennial census of population. Amounts made available pursuant to subparagraph (A)(iii) shall be no more than the amount apportioned under this section for fiscal year 2003. Each portion of an area not designated as an urbanized area under the 1990 Federal decennial census and eligible to receive funds under subparagraph (A)(iv) shall receive an amount of funds made available to carry out this section that is no less than the amount the portion of the area received under section 5311 in fiscal year 2002.
 
 (3) In a transportation management area designated under section 5305(a) of this title, amounts that cannot be used to pay operating expenses under this section also are available for a highway project if—
 
@@ -60,7 +62,7 @@ Public Participation Requirements.—Each recipient of a grant shall—
 
 &emsp;(4) provide an opportunity for a public hearing in which to obtain the views of citizens on the proposed program of projects;
 
-&emsp;(5) ensure that the proposed program of projects provides for the coordination of mass transportation services assisted under section 5336 of this title with transportation services assisted from other United States Government sources;
+&emsp;(5) ensure that the proposed program of projects provides for the coordination of mass transportation services assisted under section5336 of this title with transportation services assisted from other United States Government sources;
 
 &emsp;(6) consider comments and views received, especially those of private transportation providers, in preparing the final program of projects; and
 
@@ -96,7 +98,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation; and
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of theamount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
 
 &emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary; and
 
@@ -184,7 +186,7 @@ Relationship to Other Laws.—(1) Section 1001 of title 18 applies to a certific
 
 (2) Sections 5302, 5318, 5319, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125.)
 
 Historical and Revision Notes
 
@@ -392,9 +394,15 @@ The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935,
 
 #### Amendments
 
+2003—Subsec. (b)(2). Pub. L. 108–88, §8(n)(1), inserted “and for the period of October 1, 2003, through February 29, 2004” after “2003” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 108–88, §8(n)(2), inserted “and for the period of October 1, 2003, through February 29, 2004” after “2003,” and added cl. (iv).
+
+Subsec. (b)(2)(B). Pub. L. 108–88, §8(n)(3), inserted at end “Each portion of an area not designated as an urbanized area under the 1990 Federal decennial census and eligible to receive funds under subparagraph (A)(iv) shall receive an amount of funds made available to carry out this section that is no less than the amount the portion of the area received under section 5311 in fiscal year 2002.”
+
 2002—Subsec. (b)(1). Pub. L. 107–232, §1(1), struck out at end “The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
 
-Subsec. (b)(2) to (4). Pub. L. 107–232, §1(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and\(4), respectively, and realigned margins of par. (3)(C), as redesignated.
+Subsec. (b)(2) to (4). Pub. L. 107–232, §1(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and realigned margins of par. (3)(C), as redesignated.
 
 1998—Pub. L. 105–178, §3007(a)(1), substituted “Urbanized area formula grants” for “Block grants” in section catchline.
 
@@ -424,7 +432,7 @@ Subsec. (g)(3). Pub. L. 105–178, §3007(d), substituted “the most favorable 
 
 Subsec. (i)(2). Pub. L. 105–178, §3007(e), inserted at end “To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.”
 
-Subsec. (k). Pub. L. 105–178, §3007(f), amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “A certification under subsection (d) of this section and any additional certification required by law to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of the grant application under this section. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2) of this title.”
+Subsec. (k). Pub. L. 105–178, §3007(f), amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “A certification under subsection (d) of this section and any additional certification required by law to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of the grant application under thissection. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2) of this title.”
 
 Subsec. (k)(3). Pub. L. 105–178, §3007(h)(2), as added by Pub. L. 105–206, §9009(e), inserted “preceding” before “fiscal year”.
 
@@ -535,4 +543,6 @@ Services for elderly and persons with disabilities.—In addition to assistance 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5302, 5308, 5315, 5319, 5323, 5326, 5327, 5330, 5331, 5333, 5334, 5335, 5336, 5338, 31138 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

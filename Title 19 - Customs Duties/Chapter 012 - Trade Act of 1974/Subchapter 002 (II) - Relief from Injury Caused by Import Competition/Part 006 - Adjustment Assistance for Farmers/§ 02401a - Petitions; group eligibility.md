@@ -12,7 +12,7 @@ If the petitioner, or any other person found by the Secretary to have a substant
 
 The Secretary shall certify a group of agricultural commodity producers as eligible to apply for adjustment assistance under this part if the Secretary determines—
 
-&emsp;(1) that the national average price for the agricultural commodity, or a class of goods within the agricultural commodity, producedby the group for the most recent marketing year for which the national average price is available is less than 80 percent of the average of the national average price for such agricultural commodity, or such class of goods, for the 5 marketing years preceding the most recent marketing year; and
+&emsp;(1) that the national average price for the agricultural commodity, or a class of goods within the agricultural commodity, produced by the group for the most recent marketing year for which the national average price is available is less than 80 percent of the average of the national average price for such agricultural commodity, or such class of goods, for the 5 marketing years preceding the most recent marketing year; and
 
 &emsp;(2) that increases in imports of articles like or directly competitive with the agricultural commodity, or class of goods within the agricultural commodity, produced by the group contributed importantly to the decline in price described in paragraph (1).
 

@@ -6,7 +6,7 @@ Federal investigations and improvements of rivers and other waterways for flood 
 
 #### Amendments
 
-1954—Act Aug. 4, 1954, repealed provisions conferring authority on the Department of Agriculture under thedirection of the Secretary of Agriculture to make preliminary examinations and surveys and to prosecute works of improvement for runoff and waterflow retardation and soil erosion prevention on the watersheds of rivers and other waterways.
+1954—Act Aug. 4, 1954, repealed provisions conferring authority on the Department of Agriculture under the direction of the Secretary of Agriculture to make preliminary examinations and surveys and to prosecute works of improvement for runoff and waterflow retardation and soil erosion prevention on the watersheds of rivers and other waterways.
 
 1941—Act Aug. 18, 1941, reenacted without change portion of section preceding semicolon.
 

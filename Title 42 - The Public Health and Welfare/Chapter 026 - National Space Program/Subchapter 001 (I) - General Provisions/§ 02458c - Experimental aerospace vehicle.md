@@ -22,7 +22,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (B) Maximum required
 
-&emsp;&emsp;The Administrator shall determine the amount of insurance required, but, except as provided in subparagraph (C), that amount shall not be greater than the amount required under section 70112(a)(3) of title 49 for a launch. The Administrator shall publish notice of the Administrator's determination and the applicable amount or amounts in the Federal Register within 10 days after making the determination.
+&emsp;&emsp;The Administrator shall determine the amount of insurance required, but, except asprovided in subparagraph (C), that amount shall not be greater than the amount required under section 70112(a)(3) of title 49 for a launch. The Administrator shall publish notice of the Administrator's determination and the applicable amount or amounts in the Federal Register within 10 days after making the determination.
 
 #### (C) Increase in dollar amounts
 
@@ -50,7 +50,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (A) Claims
 
-&emsp;&emsp;A reciprocal waiver under paragraph (1) may not preclude a claim by any natural person (including, but not limited to, a natural person who is an employee of the UnitedStates, the developer, the cooperating party, or their respective subcontractors) or that natural person's estate, survivors, or subrogees for injury or death, except with respect to a subrogee that is a party to the waiver or has otherwise agreed to be bound by the terms of the waiver.
+&emsp;&emsp;A reciprocal waiver under paragraph (1) may not preclude a claim by any natural person (including, but not limited to, a natural person who is an employee of the United States, the developer, the cooperating party, or their respective subcontractors) or that natural person's estate, survivors, or subrogees for injury or death, except with respect to a subrogee that is a party to the waiver or has otherwise agreed to be bound by the terms of the waiver.
 
 #### (B) Liability for negligence
 
@@ -118,7 +118,7 @@ In this section:
 
 #### Codification
 
-October 20, 1999, referred to in subsec. (c)(3), was in the original ”the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–74, which enacted this section, to reflect the probable intent of Congress.
+October 20, 1999, referred to in subsec. (c)(3), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–74, which enacted this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -131,4 +131,8 @@ A prior section 309 of Pub. L. 85–568 was renumbered section 310 and is classi
 Subsec. (c)(2)(D). Pub. L. 106–391, §324(b)(2), added subpar. (D).
 
 Subsec. (f). Pub. L. 106–391, §324(b)(3), added subsec. (f).
+
+#### Extension of Termination Date for Section
+
+The termination date for this section was extended to Sept. 30, 2005, by the Administrator of the National Aeronautics and Space Administration on Dec. 30, 2002.
 

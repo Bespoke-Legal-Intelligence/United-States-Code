@@ -8,7 +8,7 @@ The purpose of this part is to help ensure that limited English proficient child
 
 &emsp;(3) developing the English proficiency of limited English proficient children and, to the extent possible, the native language skills of such children;
 
-&emsp;(4) providing similar assistance to Native Americans with certain modifications relative to the unique status of Native American languages under Federal law;
+&emsp;(4) providing similar assistance to Native Americans with certain modifications relativeto the unique status of Native American languages under Federal law;
 
 &emsp;(5) developing data collection and dissemination, research, materials, and technical assistance that are focused on school improvement for limited English proficient children; and
 

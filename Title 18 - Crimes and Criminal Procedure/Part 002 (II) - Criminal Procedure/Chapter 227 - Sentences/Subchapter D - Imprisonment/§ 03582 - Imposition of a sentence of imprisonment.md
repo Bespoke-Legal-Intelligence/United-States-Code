@@ -22,7 +22,7 @@ Modification of an Imposed Term of Imprisonment.—The court may not modify a te
 
 &emsp;(1) in any case—
 
-&emsp;&emsp;(A) the court, upon motion of the Director of the Bureau of Prisons, may reduce theterm of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
+&emsp;&emsp;(A) the court, upon motion of the Director of the Bureau of Prisons, may reduce the term of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
 
 &emsp;&emsp;&emsp;(i) extraordinary and compelling reasons warrant such a reduction; or
 

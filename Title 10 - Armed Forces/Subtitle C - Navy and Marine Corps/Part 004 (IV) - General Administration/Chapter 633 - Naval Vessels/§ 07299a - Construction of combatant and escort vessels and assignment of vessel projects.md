@@ -58,5 +58,5 @@ Subsecs. (c), (d). Pub. L. 102–484, §1016(b), redesignated subsec. (d) as (c)
 
 #### Delegation of Authority
 
-For delegation of authority of President under subsec. (a) of this section, see section 2 of Ex. Ord. No. 12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.
+For delegation of authority of President under subsec. (a) of this section, see section 2 of Ex. Ord. No.12765, June 11, 1991, 56 F.R. 27401, set out as a note under section 113 of this title.
 

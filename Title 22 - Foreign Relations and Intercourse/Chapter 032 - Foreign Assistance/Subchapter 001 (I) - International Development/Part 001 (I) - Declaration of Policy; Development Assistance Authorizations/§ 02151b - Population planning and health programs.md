@@ -24,47 +24,9 @@ In order to increase the opportunities and motivation for family planning and to
 
 (3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to the Child Survival Fund) and to carry out subsection (c) of this section (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
 
-(4)(A) Congress recognizes the growing international dilemma of children with the human immunodeficiency virus (HIV) and the merits of intervention programs aimed at this problem. Congress further recognizes that mother-to-child transmission prevention strategies can serve as a major force for change in developing regions, and it is, therefore, a major objective of the foreign assistance program to control the acquired immune deficiency syndrome (AIDS) epidemic.
+(4)
 
-(B) The agency primarily responsible for administering subchapter I of this chapter shall—
-
-&emsp;(i) coordinate with UNAIDS, UNICEF, WHO, national and local governments, and other organizations to develop and implement effective strategies to prevent vertical transmission of HIV; and
-
-&emsp;(ii) coordinate with those organizations to increase intervention programs and introduce voluntary counseling and testing, antiretroviral drugs, replacement feeding, and other strategies.
-
-(5)(A) Congress expects the agency primarily responsible for administering subchapter I of this chapter to make the human immunodeficiency virus (HIV) and the acquired immune deficiency syndrome (AIDS) a priority in the foreign assistance program and to undertake a comprehensive, coordinated effort to combat HIV and AIDS.
-
-(B) Assistance described in subparagraph (A) shall include help providing—
-
-&emsp;(i) primary prevention and education;
-
-&emsp;(ii) voluntary testing and counseling;
-
-&emsp;(iii) medications to prevent the transmission of HIV from mother to child; and
-
-&emsp;(iv) care for those living with HIV or AIDS.
-
-(6)(A) In addition to amounts otherwise available for such purpose, there is authorized to be appropriated to the President $300,000,000 for each of the fiscal years 2001 and 2002 to carry out paragraphs (4) and (5).
-
-(B) Of the funds authorized to be appropriated under subparagraph (A), not less than 65 percent is authorized to be available through United States and foreign nongovernmental organizations, including private and voluntary organizations, for-profit organizations, religious affiliated organizations, educational institutions, and research facilities.
-
-(C)(i) Of the funds authorized to be appropriated by subparagraph (A), not less than 20 percent is authorized to be available for programs as part of a multidonor strategy to address the support and education of orphans in sub-Saharan Africa, including AIDS orphans.
-
-(ii) Assistance made available under this subsection, and assistance made available under part IV of subchapter II of this chapter to carry out the purposes of this subsection, may be made available notwithstanding any other provision of law that restricts assistance to foreign countries.
-
-(D) Of the funds authorized to be appropriated under subparagraph (A), not less than 8.3 percent is authorized to be available to carry out the prevention strategies for vertical transmission referred to in paragraph (4)(A).
-
-(E) Of the funds authorized to be appropriated by subparagraph (A), not more than 7 percent may be used for the administrative expenses of the agency primarily responsible for carrying out subchapter I of this chapter in support of activities described in paragraphs (4) and (5).
-
-(F) Funds appropriated under this paragraph are authorized to remain available until expended.
-
-(7)(A) Congress recognizes the growing international problem of tuberculosis and the impact its continued existence has on those nations that had previously largely controlled the disease. Congress further recognizes that the means exist to control and treat tuberculosis, and that it is therefore a major objective of the foreign assistance program to control the disease. To this end, Congress expects the agency primarily responsible for administering subchapter I of this chapter—
-
-&emsp;(i) to coordinate with the World Health Organization, the Centers for Disease Control, the National Institutes of Health, and other organizations toward the development and implementation of a comprehensive tuberculosis control program; and
-
-&emsp;(ii) to set as a goal the detection of at least 70 percent of the cases of infectious tuberculosis, and the cure of at least 85 percent of the cases detected, in those countries in which the agency has established development programs, by December 31, 2010.
-
-(B) There is authorized to be appropriated to the President, $60,000,000 for each of the fiscal years 2001 and 2002 to be used to carry out this paragraph. Funds appropriated under this subparagraph are authorized to remain available until expended.
+Relationship to other laws.—Assistance made available under this subsection and sections 2151b–2, 2151b–3, and 2151b–4 of this title, and assistance made available under part IV of subchapter II of this chapter to carry out the purposes of this subsection and the provisions cited in this paragraph, may be made available notwithstanding any other provision of law thatrestricts assistance to foreign countries, except for the provisions of this subsection, the provisions of law cited in this paragraph, subsection (f) of this section, section 2394–1 of this title, and provisions of law that limit assistance to organizations that support or participate in a program of coercive abortion or involuntary sterilization included under the Child Survival and Health Programs Fund heading in the Consolidated Appropriations Resolution, 2003 (Public Law 108–7).
 
 #### (d) Administration of assistance
 
@@ -104,21 +66,25 @@ In order to increase the opportunities and motivation for family planning and to
 
 (2) Funds appropriated under this subsection are authorized to remain available until expended.
 
-(Pub. L. 87–195, pt. I, §104, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §4(1), Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §304, Dec. 20, 1975, 89 Stat. 857; Pub. L. 95–88, title I, §103(a)–(c), Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §104(a), Oct. 6, 1978, 92 Stat. 945; Pub. L. 96–53, title I, §102, Aug. 14, 1979, 93 Stat. 360; Pub. L. 96–533, title III, §302, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §302, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §§303–305(a), Aug. 8, 1985, 99 Stat. 214; Pub. L. 99–529, title I, §103, title IV, §404(1), Oct. 24, 1986, 100 Stat. 3011, 3019; Pub. L. 106–264, title I, §111(a), title II, §203, Aug. 19, 2000, 114 Stat. 751, 759.)
+(Pub. L. 87–195, pt. I, §104, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §4(1), Dec. 30, 1974, 88 Stat. 1795; Pub. L. 94–161, title III, §304, Dec. 20, 1975, 89 Stat. 857; Pub. L. 95–88, title I, §103(a)–(c), Aug. 3, 1977, 91 Stat. 534; Pub. L. 95–424, title I, §104(a), Oct. 6, 1978, 92 Stat. 945; Pub. L. 96–53, title I, §102, Aug. 14, 1979, 93 Stat. 360; Pub. L. 96–533, title III, §302, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §302, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title III, §§303–305(a), Aug. 8, 1985, 99 Stat. 214; Pub. L. 99–529, title I, §103, title IV, §404(1), Oct. 24, 1986, 100 Stat. 3011, 3019; Pub. L. 106–264, title I, §111(a), title II, §203, Aug. 19, 2000, 114 Stat. 751, 759; Pub. L. 108–25, title III, §§301(a)(1), 303(c), May 27, 2003, 117 Stat. 728, 737.)
 
 #### References in Text
+
+The Consolidated Appropriations Resolution, 2003, referred to in subsec. (c)(4), is Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 11. Provisions under the heading “Child Survival and Health Programs Fund” in Pub. L. 108–7 appear at 117 Stat. 161 and are not classified to the Code.
 
 This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to excludesuch parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Codification
 
 Amendment by Pub. L. 98–473 is based on section 303 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
+
+2003—Subsec. (c)(4) to (7). Pub. L. 108–25 added par. (4) and struck out former pars. (4) to (7), which related to coordination between governments and organizations to prevent vertical transmission of HIV, prioritization of HIV/AIDS in foreign assistance program efforts, appropriation of funds for fiscal years 2001 and 2002, and coordination in developing a comprehensive tuberculosis program.
 
 2000—Subsec. (c)(4) to (7). Pub. L. 106–264 added pars. (4) to (7).
 
@@ -226,5 +192,5 @@ Section 305(b) of Pub. L. 99–83 provided that: “Each annual report required 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1727c, 1727e, 2151a, 2151d, 2151q, 2151u, 2293, 5453 of this title.
+This section is referred to in sections 1727c, 1727e, 2151a, 2151b–2, 2151b–3, 2151b–4, 2151d, 2151q, 2151u, 2293, 5453, 7631, 7632, 7633 of this title.
 

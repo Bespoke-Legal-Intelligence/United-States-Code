@@ -14,7 +14,7 @@
 
 #### (3) Committee action
 
-&emsp;Each joint resolution introduced pursuant to paragraph (1) shall be referred to the appropriate committees of the House of Representatives or the Committee on the Budget of the Senate, as the case may be; and such Committee shall report the joint resolution to its House without amendment on or before the fifth day on which such House is in session after the date on which the joint resolution is introduced. If the Committee fails to report the joint resolution within the five-day period referred to in the preceding sentence, it shallbe automatically discharged from further consideration of the joint resolution, and the joint resolution shall be placed on the appropriate calendar.
+&emsp;Each joint resolution introduced pursuant to paragraph (1) shall be referred to the appropriate committees of the House of Representatives or the Committee on the Budget of the Senate, as the case may be; and such Committee shall report the joint resolution to its House without amendment on or before the fifth day on which such House is in session after the date on which the joint resolution is introduced. If the Committee fails to report the joint resolution within the five-day period referred to in the preceding sentence, it shall be automatically discharged from further consideration of the joint resolution, and the joint resolution shall be placed on the appropriate calendar.
 
 #### (4) Consideration of joint resolution
 

@@ -36,7 +36,7 @@ The enactment of the Subchapter S Revision Act of 1982, referred to in subsecs. 
 
 #### Prior Provisions
 
-A prior section 1379, added Pub. L. 91–172, title V, §531(a), Dec. 30, 1969, 83 Stat. 654; amended Pub. L. 93–406, title II, §2001(b), Sept. 2, 1974, 88 Stat. 952; Pub. L. 97–34, title III, §312(c)(6), Aug. 13, 1981, 95 Stat. 284; Pub. L. 97–248, title II, §238(c), Sept. 3, 1982, 96 Stat. 513, related to certain qualified pension, etc., plans, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1379, added Pub. L. 91–172, title V, §531(a), Dec. 30, 1969, 83 Stat. 654; amended Pub. L.93–406, title II, §2001(b), Sept. 2, 1974, 88 Stat. 952; Pub. L. 97–34, title III, §312(c)(6), Aug. 13, 1981, 95 Stat. 284; Pub. L. 97–248, title II, §238(c), Sept. 3, 1982, 96 Stat. 513, related to certain qualified pension, etc., plans, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
 

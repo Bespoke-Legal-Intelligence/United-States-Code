@@ -44,7 +44,7 @@
 
 #### (C) Adjustment to $160,000 limit where benefit begins before age 62
 
-&emsp;&emsp;If the retirement income benefit under the plan begins before age 62, the determinationas to whether the $160,000 limitation set forth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by reducing the limitation of paragraph (1)(A) so that such limitation (as so reduced) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $160,000 annual benefit beginning at age 62.
+&emsp;&emsp;If the retirement income benefit under the plan begins before age 62, the determination as to whether the $160,000 limitation set forth in paragraph (1)(A) has been satisfied shall be made, in accordance with regulations prescribed by the Secretary, by reducing the limitation of paragraph (1)(A) so that such limitation (as so reduced) equals an annual benefit (beginning when such retirement income benefit begins) which is equivalent to a $160,000 annual benefit beginning at age 62.
 
 #### (D) Adjustment to $160,000 limit where benefit begins after age 65
 
@@ -104,7 +104,7 @@
 
 #### (A) Dollar limitation
 
-&emsp;&emsp;In the case of an employee who has less than 10 years of participation in a definedbenefit plan, the limitation referred to in paragraph (1)(A) shall be the limitation determined under such paragraph (without regard to this paragraph) multiplied by a fraction—
+&emsp;&emsp;In the case of an employee who has less than 10 years of participation in a defined benefit plan, the limitation referred to in paragraph (1)(A) shall be the limitation determined under such paragraph (without regard to this paragraph) multiplied by a fraction—
 
 &emsp;&emsp;&emsp;(i) the numerator of which is the number of years (or part thereof) of participation in the defined benefit plan of the employer, and
 
@@ -120,7 +120,7 @@
 
 #### (D) Application to changes in benefit structure
 
-&emsp;&emsp;To the extent provided in regulations, subparagraph (A) shall be applied separately with respect to each change in the benefit structure of a plan.
+&emsp;&emsp;To the extent provided in regulations, subparagraph (A) shall be applied separatelywith respect to each change in the benefit structure of a plan.
 
 #### (6) Computation of benefits and contributions
 
@@ -182,7 +182,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining theplan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)).
+&emsp;&emsp;&emsp;This paragraph shall not apply to any plan unless each employer maintaining the plan elects before the close of the 1st plan year beginning after December 31, 1989, to have this subsection (other than paragraph (2)(G)).
 
 #### (ii) Revocation of election
 
@@ -258,7 +258,7 @@
 
 &emsp;If no more than one-third of the employer contributions to an employee stock ownership plan (as described in section 4975(e)(7)) for a year which are deductible under paragraph (9) of section 404(a) are allocated to highly compensated employees (within the meaning of section 414(q)), the limitations imposed by this section shall not apply to—
 
-&emsp;&emsp;(A) forfeitures of employer securities (within the meaning of section 409) undersuch an employee stock ownership plan if such securities were acquired with the proceeds of a loan (as described in section 404(a)(9)(A)), or
+&emsp;&emsp;(A) forfeitures of employer securities (within the meaning of section 409) under such an employee stock ownership plan if such securities were acquired with the proceeds of a loan (as described in section 404(a)(9)(A)), or
 
 &emsp;&emsp;(B) employer contributions to such an employee stock ownership plan which are deductible under section 404(a)(9)(B) and charged against the participant's account.
 
@@ -270,7 +270,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection, at the election of a participant who is an employee of a church or a convention or association of churches, including an organization described in section 414(e)(3)(B)(ii), contributions and other additions for an annuity contract or retirement income account described in section 403(b) with respect to such participant, when expressed as an annual addition to such participant's account, shall be treated as not exceeding the limitation of paragraph (1) if such annual addition is not in excess of $10,000.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection, at the election of a participant who is an employee of a church or a convention or association of churches, including an organization described in section 414(e)(3)(B)(ii), contributions and other additions for an annuity contract orretirement income account described in section 403(b) with respect to such participant, when expressed as an annual addition to such participant's account, shall be treated as not exceeding the limitation of paragraph (1) if such annual addition is not in excess of $10,000.
 
 #### (ii) $40,000 aggregate limitation
 
@@ -424,7 +424,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (B) Qualified cost-of-living arrangement defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified cost-of-living arrangement”means an arrangement under a defined benefit plan which—
+&emsp;&emsp;For purposes of this paragraph, the term “qualified cost-of-living arrangement” means an arrangement under a defined benefit plan which—
 
 &emsp;&emsp;&emsp;(i) provides a cost-of-living adjustment to a benefit provided under such plan or a separate plan subject to the requirements of section 412, and
 
@@ -440,7 +440,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (D) Arrangement elective; time for election
 
-&emsp;&emsp;An arrangement meets the requirements of this subparagraph only if it is elective, it is available under the same terms to all participants, and it provides that such election may at least be made in the year in which the participant—
+&emsp;&emsp;An arrangement meets the requirements of this subparagraph only if it is elective, itis available under the same terms to all participants, and it provides that such election may at least be made in the year in which the participant—
 
 &emsp;&emsp;&emsp;(i) attains the earliest retirement age under the defined benefit plan (determined without regard to any requirement of separation from service), or
 
@@ -512,7 +512,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### (1) In general
 
-&emsp;If an employee makes 1 or more contributions to a defined benefit governmental plan (within the meaning of section 414(d)) to purchase permissive service credit under such plan, then the requirements of this section shall be treated as met only if—
+&emsp;If an employee makes 1 or more contributions to a defined benefit governmental plan (within the meaning of section 414(d)) to purchase permissive service credit under suchplan, then the requirements of this section shall be treated as met only if—
 
 &emsp;&emsp;(A) the requirements of subsection (b) are met, determined by treating the accrued benefit derived from all such contributions as an annual benefit for purposes of subsection (b), or
 
@@ -562,7 +562,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 > &emsp;&emsp;In the case of service described in clauses <sup>1</sup> (i), (ii), or (iii), such service will be nonqualified service if recognition of such service would cause a participant to receive a retirement benefit for the same service under more than one plan.
 
-(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958;Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, 115 Stat. 96, 97, 100, 113–115, 121, 130, 131; Pub. L. 107–147, title IV, §411(p)(4), Mar. 9, 2002, 116 Stat. 50.)
+(Added Pub. L. 93–406, title II, §2004(a)(2), Sept. 2, 1974, 88 Stat. 979; amended Pub. L. 94–455, title VIII, §803(b)(4), (f), title XV, §§1501(b)(3), 1502(a)(1), 1511(a), title XIX, §§1901(a)(65), (b)(8)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1589, 1735–1737, 1741, 1775, 1794, 1834; Pub. L. 95–600, title I, §§141(f)(7), 152(g), 153(a), Nov. 6, 1978, 92 Stat. 2795, 2800; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VII), (iv)(I), (10)(I), (J)(iii), (11), 94 Stat. 199, 200, 203, 204; Pub. L. 96–605, title II, §222(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§311(g)(4), (h)(3), 333(b)(1), Aug. 13, 1981, 95 Stat. 281, 282, 297; Pub. L. 97–248, title II, §§235(a)–(e), 238(d)(5), 251(c)(1), (2), 253(a), Sept. 3, 1982, 96 Stat. 505–507, 513, 530, 532; Pub. L. 98–21, title I, §122(c)(5), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §15, title IV, §491(d)(28)–(32), (e)(6), title (V), §528(a), title VII, §713(a)(1), (3), (d)(4)(B), (7), (k), July 18, 1984, 98 Stat. 505, 850, 853, 876, 955, 956, 958, 960; Pub. L. 99–514, title XI, §§1106(a)–(c)(1), (e)–(g), 1108(g)(5), 1114(b)(12), 1174(d)(1), (2), title XVIII, §§1847(b)(4), 1852(h)(2), (3), 1875(c)(9), (11), 1898(b)(15)(C), 1899A(13), Oct. 22, 1986, 100 Stat. 2420, 2422, 2424, 2425, 2434, 2451, 2518, 2856, 2869, 2895, 2951, 2958; Pub. L. 100–647, title I, §§1011(d)(2), (3), (6), (7), 1018(t)(3)(B), (8)(D), title VI, §§6054(a), 6059(a), Nov. 10, 1988, 102 Stat. 3459, 3460, 3588, 3589, 3696, 3699; Pub. L. 101–239, title VII, §7304(c)(1), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 102–318, title V, §521(b)(23)–(25), July 3, 1992, 106 Stat. 311, 312; Pub. L. 103–465, title VII, §§732(b), 767(b), Dec. 8, 1994, 108 Stat. 5004, 5038; Pub. L. 104–188, title I, §§1434(a), 1444(a), (b)(1), (c), (d), 1446(a), 1449(b), 1452(a), (c)(1)–(6), 1704(t)(75), Aug. 20, 1996, 110 Stat. 1807, 1809–1811, 1814, 1816, 1891; Pub. L. 105–34, title XV, §§1526(a), (b), 1527(a), 1530(c)(3), (4), Aug. 5, 1997, 111 Stat. 1072–1074, 1078; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§611(a), (b), (h), 632(a)(1), (3)(C)–(F), (b)(1), 641(e)(9), (10), 654(a), (b), June 7, 2001, 115 Stat. 96, 97, 100, 113–115, 121, 130, 131; Pub. L. 107–147, title IV, §411(p)(4), Mar. 9, 2002, 116 Stat. 50.)
 
 #### Amendment of Section
 
@@ -570,7 +570,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 215(i)(2)(A) and 216(<i>l</i>) of the Act enacted sections 415(i)(2)(A) and 416(<i>l</i>) of Title 42, respectively. For complete classification of this Act to the Code, see Tables.
+The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 215(i)(2)(A) and 216(<i>l</i>) of the Act enacted sections 415(i)(2)(A) and 416(<i>l</i>) of Title 42, respectively. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of this clause, referred to in subsec. (b)(10)(C)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
@@ -858,7 +858,7 @@ Subsec. (e)(6). Pub. L. 97–248, §235(d), added par. (6).
 
 1981—Subsec. (a)(2). Pub. L. 97–34, §311(g)(4)(A), struck out in provision preceding subpar. (A) “Except as provided in paragraph (3)”, redesignated former subpar. (E) as (C), and in subpar. (C) as so designated, inserted “described in section 408(k), or”, redesignated former subpar. (F) as (D), struck out former subpars. (C), relating to an individual retirement account described under section 408(a), (D), relating to an individual retirement annuity described in section 408(b), and (G), relating to a retirement bond described in section 409, and in provision following subpar. (D), substituted “such a contract, plan, or pension,” for “such contract, annuity plan, account, annuity, plan, or bond” and “408(k)” for “408(a), 408(b), or 409”.
 
-Subsec. (a)(3). Pub. L. 97–34, §311(h)(3), struck out par. (3) which provided that par. (2) not apply to an account, annuity, or bond described in section 408(a), 408(b), or409, established for the benefit of the spouse of the individual contributing to such account, or for such annuity or bond, if a deduction is allowed under section 220 to such individual with respect to such contribution for such year.
+Subsec. (a)(3). Pub. L. 97–34, §311(h)(3), struck out par. (3) which provided that par. (2) not apply to an account, annuity, or bond described in section 408(a), 408(b), or 409, established for the benefit of the spouse of the individual contributing to such account, or for such annuity or bond, if a deduction is allowed under section 220 to such individual with respect to such contribution for such year.
 
 Subsec. (c)(2). Pub. L. 97–34, §311(g)(4)(B), included in provision following subpar. (C) references to sections 403(b)(8) and 405(d)(3) and inserted “without regard to employee contributions to a simplified employee pension allowable as a deduction under section 219(a), and without regard to deductible employee contributions within the meaning of section 72(<i>o</i>)(5)”.
 
@@ -978,7 +978,7 @@ Transition rule.—
 
 &emsp;“(A)
 
-In general.—In the case of an eligible participant in a governmental plan (within the meaning of section 414(d) of the Internal Revenue Code of 1986), the limitations of section 415(c)(1) of such Code shall not be applied to reduce the amount of permissive service credit which may be purchased to an amount less than the amount which was allowed to be purchased under the terms of the plan as in effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+In general.—In the case of an eligible participant in a governmental plan (within the meaning ofsection 414(d) of the Internal Revenue Code of 1986), the limitations of section 415(c)(1) of such Code shall not be applied to reduce the amount of permissive service credit which may be purchased to an amount less than the amount which was allowed to be purchased under the terms of the plan as in effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 &emsp;“(B)
 
@@ -1176,7 +1176,7 @@ Adjustment procedures.—The amendments made by subsections (b)(1) and (b)(2)(B)
 
 “(3)
 
-Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for the last year beginning before January 1, 1983, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of the Internal Revenue Code of 1986 (as amended by the Tax Equity and Fiscal Responsibility Act of 1982) does not exceed 1.0 for such year. A similar rule shall apply with respect to the last plan year beginning before January 1, 1984, for purposes of applying section 416(h) of the Internal Revenue Code of 1986.
+Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for the last year beginning before January 1, 1983, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of the Internal Revenue Code of 1986 (as amended by the Tax Equity and Fiscal ResponsibilityAct of 1982) does not exceed 1.0 for such year. A similar rule shall apply with respect to the last plan year beginning before January 1, 1984, for purposes of applying section 416(h) of the Internal Revenue Code of 1986.
 
 “(4)
 
@@ -1240,7 +1240,7 @@ Amendment by section 141(f)(7) of Pub. L. 95–600 effective for years beginning
 
 Section 141(g)(5) of Pub. L. 95–600, as added by Pub. L. 96–222, title I, §101(a)(7)(B), Apr. 1, 1980, 94 Stat. 197, provided that: “The amendment made by subsection (f)(7) \[amending this section\] shall apply to years beginning after December 31, 1978.”
 
-Amendment by section 152(g) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, seesection 152(h) of Pub. L. 95–600, set out as a note under section 408 of this title.
+Amendment by section 152(g) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 152(h) of Pub. L. 95–600, set out as a note under section 408 of this title.
 
 Section 153(b) of Pub. L. 95–600 provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 1978.”
 

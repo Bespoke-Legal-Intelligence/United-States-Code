@@ -38,7 +38,11 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 1951—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Director of the Bureau of Federal Supply, Department of the Treasury” in second par.
 
+#### Purchases by Central Intelligence Agency of Products of Federal Prison Industries
+
+Pub. L. 108–177, title IV, §404, Dec. 13, 2003, 117 Stat. 2632, provided that: “Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of Central Intelligence determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2410n; title 15 section 657a; title 41 section 48.
+This section is referred to in title 10 section 2410n; title 15 sections 657a, 657f; title 41 section 48.
 

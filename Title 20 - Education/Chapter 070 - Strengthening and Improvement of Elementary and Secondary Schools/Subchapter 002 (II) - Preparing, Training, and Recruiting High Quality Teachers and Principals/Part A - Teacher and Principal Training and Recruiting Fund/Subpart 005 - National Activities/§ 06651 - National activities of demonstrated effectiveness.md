@@ -76,7 +76,7 @@ The Secretary is authorized to award a grant to the University of Northern Color
 
 &emsp;&emsp;&emsp;(II) another public or private entity that provides such professional development;
 
-&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
+&emsp;&emsp;&emsp;(ii) one or more public agencies ( <sup>1</sup> including local educational agencies, State educational agencies, State human services agencies, and State and local agencies administering programs under the Child Care and Development BlockGrant Act of 1990 (42 U.S.C. 9858 et seq.), Head Start agencies, or private organizations; and
 
 &emsp;&emsp;&emsp;(iii) to the extent feasible, an entity with demonstrated experience in providing training to educators in early childhood education programs concerning identifying and preventing behavior problems or working with children identified as or suspected to be victims of abuse.
 

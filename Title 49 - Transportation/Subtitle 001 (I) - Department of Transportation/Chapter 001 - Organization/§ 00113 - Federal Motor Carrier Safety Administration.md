@@ -98,7 +98,7 @@ Proceedings.—
 
 &emsp;“(1)
 
-In general.—The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under section 104 of this title\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
+In general.—The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under section 104 of this title\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall bemade pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
 
 &emsp;“(2)
 
@@ -126,7 +126,7 @@ Remanded cases.—If the court in a suit described in paragraph (1) remands a ca
 
 “(e)
 
-Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by oragainst any officer in his official capacity as an officer of the Office shall abate by reason of the enactment of this Act. No cause of action by or against the Office, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act.
+Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Office shall abate by reason of the enactment of this Act. No cause of action by or against the Office, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act.
 
 “(f)
 

@@ -6,12 +6,6 @@ Beginning in September, 2001, the President shall transmit to the Congress bienn
 
 #### National Ocean Policy
 
-Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 107–117, div. B, §207, Jan. 10, 2002, 115 Stat. 2298, provided in part: “That the Commission \[on Ocean Policy\] shall present to the Congress within 18 months of the first meeting of the Commission its recommendations for a national ocean policy.”
-
-Similar provisions were contained in section 3(f)(1) of Pub. L. 106–256, set out below, and in the following prior appropriation act:
-
-Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
-
 Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, §306, Dec. 19, 2002, 116 Stat. 3096, provided that:
 
 #### “SECTION 1. SHORT TITLE.
@@ -50,7 +44,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 “(a)
 
-Establishment.—There is hereby established the Commission on Ocean Policy. The Federal AdvisoryCommittee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
+Establishment.—There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
 
 “(b)
 
@@ -96,7 +90,7 @@ Resources.—In carrying out its functions under this section, the Commission—
 
 “(d)
 
-Staffing.—The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Director and such other additional personnel as may be necessary for the Commission to perform its duties. The Executive Director shall be compensated at a rate not to exceed the rate payable for Level V of the Executive Schedule under section 5136 of title 5, United States Code. The employment and termination of an Executive Director shall be subject to confirmation by a majority of the members of the Commission.
+Staffing.—The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Directorand such other additional personnel as may be necessary for the Commission to perform its duties. The Executive Director shall be compensated at a rate not to exceed the rate payable for Level V of the Executive Schedule under section 5136 of title 5, United States Code. The employment and termination of an Executive Director shall be subject to confirmation by a majority of the members of the Commission.
 
 “(e)
 
@@ -239,4 +233,10 @@ Commission.—The term ‘Commission’ means the Commission on Ocean Policy est
 “This Act shall become effective on January 20, 2001.”
 
 \[Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833, which directed the amendment of section (3)(f)(1) of Pub. L. 106–256, set out above, by striking “within 18 months of the establishment of the Commission” and inserting “by June 20, 2003”, was executed by striking “Within 18 months after the establishment of the Commission” and inserting “By June 20, 2003”, to reflect the probable intent of Congress.\]
+
+The following appropriations acts contained provisions similar to those in section 3(f)(1) of Pub. L. 106–256, set out above:
+
+Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 107–117, div. B, §207, Jan. 10, 2002, 115 Stat. 2298.
+
+Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
 

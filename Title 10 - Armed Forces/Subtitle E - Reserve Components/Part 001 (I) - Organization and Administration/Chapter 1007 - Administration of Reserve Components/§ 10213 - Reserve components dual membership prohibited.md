@@ -8,7 +8,3 @@ Except as otherwise provided in this title, no person may be a member of more th
 
 Provisions similar to those in this section were contained in section 261(b) of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14317 of this title.
-

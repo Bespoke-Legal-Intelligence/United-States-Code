@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(J) Education and training of Alaska Native students enrolled in a degree program that will lead to certification or licensing as teachers.
 
-&emsp;&emsp;(K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parenting education provided through in-home visitation of new mothers.
+&emsp;&emsp;(K) Parenting education for parents and caregivers of Alaska Native children to improve parenting and caregiving skills (including skills relating to discipline and cognitive development), including parentingeducation provided through in-home visitation of new mothers.
 
 &emsp;&emsp;(L) Cultural education programs operated by the Alaska Native Heritage Center and designed to share the Alaska Native culture with students.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(O) Other early learning and preschool programs.
 
-&emsp;&emsp;(P) Dropout prevention programs such as the Cook Inlet Tribal Council's Partners for Success program.
+&emsp;&emsp;(P) Dropout prevention programs operated by the Cook Inlet Tribal Council's Partners for Success program.
 
 &emsp;&emsp;(Q) An Alaska Initiative for Community Engagement program.
 
@@ -106,7 +106,7 @@ In awarding grants or contracts to carry out activities described in subsection 
 
 &emsp;&emsp;(E) not less than $2,000,000 to support activities described in subsection (a)(2)(Q) of this section.
 
-(Pub. L. 89–10, title VII, §7304, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1943.)
+(Pub. L. 89–10, title VII, §7304, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1943; amended Pub. L. 108–11, title II, §2504, Apr. 16, 2003, 117 Stat. 599.)
 
 #### References in Text
 
@@ -115,4 +115,8 @@ The Head Start Act, referred to in subsec. (a)(2)(N), is subchapter B (§635 et 
 #### Prior Provisions
 
 A prior section 7544, Pub. L. 89–10, title VII, §7304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3740, related to State allocations, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6964 of this title.
+
+#### Amendments
+
+2003—Subsec. (a)(2)(P). Pub. L. 108–11 substituted “operated by” for “such as”.
 

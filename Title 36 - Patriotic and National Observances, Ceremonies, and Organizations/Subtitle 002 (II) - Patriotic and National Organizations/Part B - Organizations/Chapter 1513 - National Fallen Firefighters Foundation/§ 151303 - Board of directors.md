@@ -8,7 +8,7 @@ General.—The board of directors is the governing body of the corporation.
 
 Members and Appointment.—(1) The Administrator of the United States Fire Administration of the Federal Emergency Management Agency is an ex officio nonvoting member of the board. The Administrator appoints the voting members of the board.
 
-(2) The board consists of the following 9 voting members:
+(2) The board consists of the following 12 voting members:
 
 &emsp;(A) one active volunteer firefighter;
 
@@ -16,9 +16,9 @@ Members and Appointment.—(1) The Administrator of the United States Fire Admin
 
 &emsp;(C) one United States Government firefighter; and
 
-&emsp;(D) six individuals who have a demonstrated interest in the fire service.
+&emsp;(D) nine individuals who have a demonstrated interest in the fire service.
 
-(3) The terms of office of the voting members are 6 years (except for the initial members). The terms shall be staggered so that the terms of 3 members expire every 2 years.
+(3) The terms of office of the voting members are 6 years (except for the initial members). The terms shall be staggered so that the terms of 4 members expire every 2 years.
 
 (4) A vacancy on the board shall be filled within 60 days in the manner in which the original appointment was made.
 
@@ -46,7 +46,7 @@ Status and Compensation.—
 
 Liability.—Members of the board are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304; Pub. L. 108–169, title II, §206(a), Dec. 6, 2003, 117 Stat. 2040.)
 
 Historical and Revision Notes
 
@@ -117,6 +117,10 @@ Subsection (f)(1) is substituted for “Appointment to the Board shall not const
 This amends subsections (f) and (g) of section 151303 of title 36, as enacted by section 1 of Public Law 105–225 (Aug. 12, 1998, 112 Stat. 1400). The amendment clarifies the restatement of 36:5202(a)(3) by making it clear that appointment to the board of directors of the National Fallen Firefighters Foundation does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
 #### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–169, §206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
+
+Subsec. (b)(3). Pub. L. 108–169, §206(a)(3), substituted “4 members” for “3 members”.
 
 2000—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
 

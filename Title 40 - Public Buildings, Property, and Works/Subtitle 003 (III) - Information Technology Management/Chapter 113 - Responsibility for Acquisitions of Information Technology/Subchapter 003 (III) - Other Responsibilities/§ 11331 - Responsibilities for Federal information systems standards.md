@@ -84,7 +84,7 @@ Authority to prescribe.—Except as provided under paragraph (2), the Secretary 
 
 &emsp;“(2)
 
-National security systems.—Standards and guidelines for national security systems (as definedunder this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
+National security systems.—Standards and guidelines for national security systems (as defined under this section) shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
 “(b)
 
@@ -122,7 +122,7 @@ Application of More Stringent Standards.—The head of an executive agency may e
 
 “(f)
 
-Decisions on Promulgation of Standards.—The decision by the Secretary regarding the promulgation of any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
+Decisions on Promulgation of Standards.—The decision by the Secretary regarding the promulgation of any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute ofStandards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
 
 “(g)
 

@@ -2,7 +2,7 @@
 
 #### (a) Flexible authority for multifamily projects
 
-During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose ofmultifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law.
+During fiscal year 1997 and fiscal years thereafter, the Secretary may manage and dispose of multifamily properties owned by the Secretary, including, for fiscal years 1997, 1998, 1999, 2000, and thereafter, the provision of grants and loans from the General Insurance Fund (12 U.S.C. 1735c) for the necessary costs of rehabilitation, demolition, or construction on the properties (which shall be eligible whether vacant or occupied), and multifamily mortgages held by the Secretary on such terms and conditions as the Secretary may determine, notwithstanding any other provision of law.
 
 #### (b) Transfer of unoccupied and substandard housing to local governments and community development corporations
 

@@ -58,7 +58,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before carrying out functions described in paragraph (1)(A), a qualified State orlocal development company shall submit to the Administration a proposed liquidation plan.
+&emsp;&emsp;&emsp;Before carrying out functions described in paragraph (1)(A), a qualified State or local development company shall submit to the Administration a proposed liquidation plan.
 
 #### (ii) Administration action on plan
 

@@ -56,13 +56,15 @@
 
 &emsp;(2) an appropriately reduced amount based on the amount so contributed, as determined under regulations which the Secretary shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
-(h) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1) equal to the percentage by which—
+(h)(1) With respect to any fiscal year, the Secretary shall provide a percentage increase in the rates payable under subsections (a)(1) and (b)(1) equal to the percentage by which—
 
-&emsp;(1) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+&emsp;(A) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
-&emsp;(2) such Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
+&emsp;(B) such Consumer Price Index for the 12-month period preceding the 12-month period described in subparagraph (A).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10,1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829; Pub. L. 107–14, §7(b)(2)(A), (c)(3), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §101(a), Dec. 27, 2001, 115 Stat. 977.)
+(2) Any increase under paragraph (1) in a rate with respect to a fiscal year after fiscal year2004 and before fiscal year 2014 shall be rounded down to the next lower whole dollar amount. Any such increase with respect to a fiscal year after fiscal year 2013 shall be rounded to the nearest whole dollar amount.
+
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829; Pub. L. 107–14, §7(b)(2)(A), (c)(3), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §101(a), Dec. 27, 2001, 115 Stat. 977; Pub. L. 108–183, title III, §304(a), Dec. 16, 2003, 117 Stat. 2659.)
 
 #### References in Text
 
@@ -71,6 +73,12 @@ Sections 308a and 308f of title 37, referred to in subsec. (d)(2), were repealed
 The date of the enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
 
 #### Amendments
+
+2003—Subsec. (h). Pub. L. 108–183, §304(a)(1), (2), (5), inserted “(1)” after “(h)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+Subsec. (h)(1). Pub. L. 108–183, §304(a)(3), struck out “(rounded to the nearest dollar)” after “increase” in introductory provisions.
+
+Subsec. (h)(1)(B). Pub. L. 108–183, §304(a)(4), substituted “subparagraph (A)” for “paragraph (1)”.
 
 2001—Subsec. (a)(1). Pub. L. 107–103, §101(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “at the monthly rate of $650 (as increased from time to time under subsection (h)) for an approved program of education pursued on a full-time basis; or”.
 
@@ -206,7 +214,7 @@ Amendment by section 105(b) of Pub. L. 106–419 effective May 1, 2001, see sect
 
 #### Effective Date of 1998 Amendments
 
-Pub. L. 105–261, div. A, title V, §565(b), Oct. 17, 1998, 112 Stat. 2029, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to individuals who first become members of the Armed Forces on or after that date.”
+Pub. L. 105–261, div. A, title V, §565(b), Oct. 17, 1998, 112 Stat. 2029, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect toindividuals who first become members of the Armed Forces on or after that date.”
 
 Pub. L. 105–178, title VIII, §8203(a)(4), June 9, 1998, 112 Stat. 493, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under subsection (g) \[now (h)\] of section 3015 of title 38, United States Code, as amended by paragraph (2), for fiscal year 1999.”
 

@@ -10,7 +10,7 @@ For purposes of this subchapter, a State has primary enforcement responsibility 
 
 &emsp;(3) will keep such records and make such reports with respect to its activities under paragraphs (1) and (2) as the Administrator may require by regulation;
 
-&emsp;(4) if it permits variances or exemptions, or both, from the requirements of its drinking water regulations which meet the requirements of paragraph (1), permits such variances and exemptions under conditions and in a manner which is not less stringent than the conditions under, and the manner in which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title;
+&emsp;(4) if it permits variances or exemptions, or both, from the requirements of its drinking water regulations which meet the requirements of paragraph (1), permits such variances and exemptions under conditions and in a manner which is not less stringent than theconditions under, and the manner in which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title;
 
 &emsp;(5) has adopted and can implement an adequate plan for the provision of safe drinking water under emergency circumstances including earthquakes, floods, hurricanes, and other natural disasters, as appropriate; and
 

@@ -54,7 +54,7 @@ Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712
 
 #### “SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
-“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
+“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reductiontransition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
 
 #### “SEC. 4412. MEMBER OF SELECTED RESERVE DEFINED.
 
@@ -150,7 +150,7 @@ Temporary Special Authority.—During the force reduction transition period, the
 
 “(d)
 
-Annual Payment Period.—An annual payment granted to a member under this section shall be paid for a period of years prescribed by the Secretary concerned, except that if the member attains 60 years of age during that period the entitlement to the annualpayment shall terminate on the member's 60th birthday. A period prescribed for purposes of this subsection may not be less than one year nor more than five years.
+Annual Payment Period.—An annual payment granted to a member under this section shall be paid for a period of years prescribed by the Secretary concerned, except that if the member attains 60 years of age during that period the entitlement to the annual payment shall terminate on the member's 60th birthday. A period prescribed for purposes of this subsection may not be less than one year nor more than five years.
 
 “(e)
 
@@ -254,5 +254,5 @@ Special Separation Benefits.—\[Amended section 1174a of this title.\]
 
 Voluntary Separation Incentive.—\[Amended section 1175 of this title.\]”
 
-\[Section 518(c) of Pub. L. 103–337 provided that: “The amendments made by this section \[amending section 4416 of Pub. L. 102–484, set out above\] shall apply only to payments to a member of the Armed Forces undersubsection (b) of section 4416 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484) that are granted by the Secretary of Defense to that member after the date of the enactment of this Act \[Oct. 5, 1994\].”\]
+\[Section 518(c) of Pub. L. 103–337 provided that: “The amendments made by this section \[amending section 4416 of Pub. L. 102–484, set out above\] shall apply only to payments to a member of the Armed Forces under subsection (b) of section 4416 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of Public Law 102–484) that are granted by the Secretary of Defense to that member after the date of the enactment of this Act \[Oct. 5, 1994\].”\]
 

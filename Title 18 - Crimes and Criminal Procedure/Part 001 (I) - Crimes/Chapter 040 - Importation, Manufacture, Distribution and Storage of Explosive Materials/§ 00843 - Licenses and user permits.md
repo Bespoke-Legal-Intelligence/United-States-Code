@@ -1,6 +1,6 @@
 ### §843. Licenses and user permits
 
-(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such formand contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to be charged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
+(a) An application for a user permit or limited permit or a license to import, manufacture, or deal in explosive materials shall be in such form and contain such information as the Attorney General shall by regulation prescribe, including the names of and appropriate identifying information regarding all employees who will be authorized by the applicant to possess explosive materials, as well as fingerprints and a photograph of each responsible person. Each applicant for a license or permit shall pay a fee to be charged as set by the Attorney General, said fee not to exceed $50 for a limited permit and $200 for any other license or permit. Each license or user permit shall be valid for not longer than 3 years from the date of issuance and each limited permit shall be valid for not longer than 1 year from the date of issuance. Each license or permit shall be renewable upon the same conditions and subject to the same restrictions as the original license or permit, and upon payment of a renewal fee not to exceed one-half of the original fee.
 
 (b) Upon the filing of a proper application and payment of the prescribed fee, and subject to the provisions of this chapter and other applicable laws, the Attorney General shall issue to such applicant the appropriate license or permit if—
 
@@ -110,7 +110,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Exception.—Notwithstanding any provision of this Act \[see Tables for classification\], a license or permit issued under section 843 of title 18, United States Code, before the date of enactment of this Act \[Nov. 25, 2002\], shall remain valid until that license or permit isrevoked under section 843(d) or expires, or until a timely application for renewal is acted upon.”
+Exception.—Notwithstanding any provision of this Act \[see Tables for classification\], a license or permit issued under section 843 of title 18, United States Code, before the date of enactment of this Act \[Nov. 25, 2002\], shall remain valid until that license or permit is revoked under section 843(d) or expires, or until a timely application for renewal is acted upon.”
 
 #### Continuation in Business or Operation of Any Person Engaged in Business or Operation on October 15, 1970
 

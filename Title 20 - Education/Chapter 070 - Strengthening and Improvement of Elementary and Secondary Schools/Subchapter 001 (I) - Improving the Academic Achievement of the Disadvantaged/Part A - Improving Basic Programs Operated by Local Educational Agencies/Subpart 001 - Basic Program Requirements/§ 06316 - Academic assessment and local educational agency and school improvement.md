@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(iv) specify how the funds described in clause (iii) will be used to remove the school from school improvement status;
 
-&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensure that all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
+&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensurethat all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
 &emsp;&emsp;&emsp;(vi) describe how the school will provide written notice about the identification to parents of each student enrolled in such school, in a format and, to the extent practicable, in a language that the parents can understand;
 
@@ -314,7 +314,7 @@
 
 &emsp;&emsp;(A) make technical assistance under section 6317 of this title available to schools identified for school improvement, corrective action, or restructuring under this subsection consistent with section 6317(a)(2) of this title;
 
-&emsp;&emsp;(B) if the State educational agency determines that a local educational agency failedto carry out its responsibilities under this subsection, take such corrective actions as the State educational agency determines to be appropriate and in compliance with State law;
+&emsp;&emsp;(B) if the State educational agency determines that a local educational agency failed to carry out its responsibilities under this subsection, take such corrective actions as the State educational agency determines to be appropriate and in compliance with State law;
 
 &emsp;&emsp;(C) ensure that academic assessment results under this part are provided to schools before any identification of a school may take place under this subsection; and
 
@@ -370,7 +370,7 @@
 
 &emsp;&emsp;&emsp;(iv) include specific measurable achievement goals and targets for each of the groups of students identified in the disaggregated data pursuant to section 6311(b)(2)(C)(v) of this title, consistent with adequate yearly progress as defined under section 6311(b)(2) of this title;
 
-&emsp;&emsp;&emsp;(v) address the fundamental teaching and learning needs in the schools of thatagency, and the specific academic problems of low-achieving students, including a determination of why the local educational agency's prior plan failed to bring about increased student academic achievement;
+&emsp;&emsp;&emsp;(v) address the fundamental teaching and learning needs in the schools of that agency, and the specific academic problems of low-achieving students, including a determination of why the local educational agency's prior plan failed to bring about increased student academic achievement;
 
 &emsp;&emsp;&emsp;(vi) incorporate, as appropriate, activities before school, after school, during the summer, and during an extension of the school year;
 
@@ -420,7 +420,7 @@
 
 #### (C) Certain corrective actions required
 
-&emsp;&emsp;In the case of a local educational agency identified for corrective action, the State educational agency shall take at least one of the following corrective actions:
+&emsp;&emsp;In the case of a local educational agency identified for corrective action, the Stateeducational agency shall take at least one of the following corrective actions:
 
 &emsp;&emsp;&emsp;(i) Deferring programmatic funds or reducing administrative funds.
 
@@ -438,7 +438,7 @@
 
 #### (D) Hearing
 
-&emsp;&emsp;Prior to implementing any corrective action under this paragraph, the State educational agency shall provide notice and a hearing to the affected local educationalagency, if State law provides for such notice and hearing. The hearing shall take place not later than 45 days following the decision to implement corrective action.
+&emsp;&emsp;Prior to implementing any corrective action under this paragraph, the State educational agency shall provide notice and a hearing to the affected local educational agency, if State law provides for such notice and hearing. The hearing shall take place not later than 45 days following the decision to implement corrective action.
 
 #### (E) Notice to parents
 
@@ -622,7 +622,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequate yearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
+&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequateyearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
 
 #### (ii) Use of definition
 

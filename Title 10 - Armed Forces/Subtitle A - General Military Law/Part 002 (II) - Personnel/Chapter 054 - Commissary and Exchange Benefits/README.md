@@ -4,14 +4,16 @@
 | :--- | ---: |
 | [1061\.](%C2%A7%2001061%20-%20Survivors%20of%20certain%20Reserve%20and%20Guard%20members.md) | Survivors of certain Reserve and Guard members. |
 | [1062\.](%C2%A7%2001062%20-%20Certain%20former%20spouses.md) | Certain former spouses. |
-| [1063\.](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20members%20of%20Ready%20Reserve.md) | Use of commissary stores: members of Ready Reserve. |
-| [1063a.](%C2%A7%2001063a%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster.md) | Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster. |
-| [1064\.](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20persons%20qualified%20for%20retired%20pay%20under%20chapter%201223%20but%20under%20age%2060.md) | Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60. |
-| [1065\.](%C2%A7%2001065%20-%20Morale%2C%20welfare%2C%20and%20recreation%20retail%20facilities%20use%20by%20members%20of%20reserve%20components%20and%20dependents.md) | Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents. |
+| [1063\.](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20reserve%20components%20and%20reserve%20retirees%20under%20age%2060.md) | Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60. |
+| [1064\.](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md) | Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VI, §651(c), Nov. 24, 2003, 117 Stat. 1522, added items 1063 and 1064 and struck out former items 1063 “Use of commissary stores: members of Ready Reserve”, 1063a “Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency”, 1064 “Use of commissary stores: persons qualified for retired pay under chapter 1223 but under age 60”, and 1065 “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents”.
+
+2002—Pub. L. 107–314, div. A, title III, §322(b)(2), Dec. 2, 2002, 116 Stat. 2510, inserted “or national emergency” after “disaster” in item 1063a.
 
 2001—Pub. L. 107–107, div. A, title III, §331(d)(3), Dec. 28, 2001, 115 Stat. 1058, struck out “with at least 50 creditable points” after “Ready Reserve” in item 1063.
 
@@ -30,7 +32,7 @@
 
 - [&sect; 01061 - Survivors of certain Reserve and Guard members](%C2%A7%2001061%20-%20Survivors%20of%20certain%20Reserve%20and%20Guard%20members.md)
 - [&sect; 01062 - Certain former spouses](%C2%A7%2001062%20-%20Certain%20former%20spouses.md)
-- [&sect; 01063 - Use of commissary stores members of Ready Reserve](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20members%20of%20Ready%20Reserve.md)
-- [&sect; 01063a - Use of commissary stores and MWR retail facilities members of National Guard serving in federally declared disaster](%C2%A7%2001063a%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster.md)
-- [&sect; 01064 - Use of commissary stores persons qualified for retired pay under chapter 1223 but under age 60](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20persons%20qualified%20for%20retired%20pay%20under%20chapter%201223%20but%20under%20age%2060.md)
-- [&sect; 01065 - Morale, welfare, and recreation retail facilities use by members of reserve components and dependents](%C2%A7%2001065%20-%20Morale%2C%20welfare%2C%20and%20recreation%20retail%20facilities%20use%20by%20members%20of%20reserve%20components%20and%20dependents.md)
+- [&sect; 01063 - Use of commissary stores and MWR retail facilities members of reserve components and reserve retirees under age 60](%C2%A7%2001063%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20reserve%20components%20and%20reserve%20retirees%20under%20age%2060.md)
+- [&sect; 01063a - Renumbered &sect;1064](%C2%A7%2001063a%20-%20Renumbered%20%C2%A71064.md)
+- [&sect; 01064 - Use of commissary stores and MWR retail facilities members of National Guard serving in federally declared disaster or national emergency](%C2%A7%2001064%20-%20Use%20of%20commissary%20stores%20and%20MWR%20retail%20facilities%20members%20of%20National%20Guard%20serving%20in%20federally%20declared%20disaster%20or%20national%20emergency.md)
+- [&sect; 01065 - Renumbered &sect;1063](%C2%A7%2001065%20-%20Renumbered%20%C2%A71063.md)

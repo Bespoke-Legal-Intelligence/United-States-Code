@@ -2,7 +2,7 @@
 
 The head of each agency operating or exercising control of a national security system shall be responsible for ensuring that the agency—
 
-&emsp;(1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information contained in such system;
+&emsp;(1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification,or destruction of the information contained in such system;
 
 &emsp;(2) implements information security policies and practices as required by standards and guidelines for national security systems, issued in accordance with law and as directed by the President; and
 

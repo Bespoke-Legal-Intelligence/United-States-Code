@@ -4,8 +4,6 @@
 
 This subchapter is referred to in title 12 section 1721.
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

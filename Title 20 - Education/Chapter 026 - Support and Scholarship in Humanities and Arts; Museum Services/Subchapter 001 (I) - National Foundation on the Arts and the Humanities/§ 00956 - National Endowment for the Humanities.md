@@ -46,11 +46,11 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 #### (f) Grants-in-aid programs; designation of State administrative agency; matching funds; applications and plans; allotments; cost limitations; grants to regional groups; non-Federal funding; definitions; suspension of grants; single entity limitation
 
-(1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in the humanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
+(1) The Chairperson, with the advice of the National Council on the Humanities, is authorized, in accordance with the provisions of this subsection, to establish and carry out a program of grants-in-aid in each of the several States in order to support not more than 50 per centum of the cost of existing activities which meet the standards enumerated in subsection (c) of this section, and in order to develop a program in thehumanities in such a manner as will furnish adequate programs in the humanities in each of the several States.
 
 (2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
-&emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) asthe sole agency for the administration of the State plan;
+&emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) as the sole agency for the administration of the State plan;
 
 &emsp;(ii) provides that the chief executive officer of the State will appoint new members to the State humanities council designated under the provisions of this subparagraph, as vacancies occur as a result of the expiration of the terms of members of such council, until the chief executive officer has appointed all of the members of such council;
 
@@ -94,7 +94,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 &emsp;(D) provides a nomination process which assures opportunities for nomination to membership from various groups within the State involved and from a variety of segments of the population of such State, and including individuals who by reason of their achievement, scholarship, or creativity in the humanities, are especially qualified to serve;
 
-&emsp;(E) provides for a membership rotation process which assures the regular rotation of the membership and officers of such grant recipient;
+&emsp;(E) provides for a membership rotation process which assures the regular rotation of themembership and officers of such grant recipient;
 
 &emsp;(F) establishes reporting procedures which are designed to inform the chief executive officer of the State involved, and other appropriate officers and agencies, of the activities of such grant recipient;
 
@@ -260,7 +260,7 @@ Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for 
 
 Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
-Subsec. (f). Pub. L. 99–194, §107(3), (5), substituted “Chairperson” for “Chairman” wherever appearing; in par. (2)(A) substituted “December 20, 1985” for “December 4, 1980”, inserted “officer” after “chief executive” wherever appearing in cl. (ii), struck out “and” at endof cl. (v), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (vi), and added cls. (vii) and (viii) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection; in par. (2)(B)(i) substituted “six” and “25” for “four” and “20”, respectively; and in par. (3) struck out “and” at end of cl. (G), substituted “, including a description of the progress made toward achieving the goals of the plan;” for the period at end of cl. (H), and added cls. (I) and (J) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
+Subsec. (f). Pub. L. 99–194, §107(3), (5), substituted “Chairperson” for “Chairman” wherever appearing; in par. (2)(A) substituted “December 20, 1985” for “December 4, 1980”, inserted “officer” after “chief executive” wherever appearing in cl. (ii), struck out “and” at end of cl. (v), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (vi), and added cls. (vii) and (viii) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection; in par. (2)(B)(i) substituted “six” and “25” for “four” and “20”, respectively; and in par. (3) struck out “and” at end of cl. (G), substituted “, including a description of the progress made toward achieving the goals of the plan;” for the period at end of cl. (H), and added cls. (I) and (J) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
 Subsec. (g). Pub. L. 99–194, §107(4), substituted “The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection not later than 180 days after December 20, 1985” for “The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as he may deem necessary or appropriate to carry out the provisions of this subsection”.
 
@@ -328,7 +328,7 @@ Amendment by section 2(a)(6) of Pub. L. 93–133 effective on and after July 1, 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrenniallysubmitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrennially submitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

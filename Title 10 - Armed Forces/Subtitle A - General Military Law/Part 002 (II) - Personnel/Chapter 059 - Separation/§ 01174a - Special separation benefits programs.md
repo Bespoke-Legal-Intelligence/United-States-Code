@@ -14,7 +14,7 @@ Benefits.—Upon the approval of the request of an eligible member, the member s
 
 &emsp;&emsp;(A) separation pay equal to 15 percent of the product of (i) the member's years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
+&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Actfor Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
 (c)
 
@@ -182,5 +182,5 @@ Section 663 of Pub. L. 102–190 directed Secretary, not later than 180 days aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1152, 1153, 1175 of this title; title 29 section 2918; title 33 section 857a; title 38 section 3018B.
+This section is referred to in sections 1152, 1153, 1175 of this title; title 29 section 2918; title 33 section 3071; title 38 section 3018B.
 

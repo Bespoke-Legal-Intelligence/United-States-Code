@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization of Appropriations.—Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to carry out sections 44504, 44505, 44507, 44509, and 44511–44513 of this title:
+Authorization of Appropriations.—Not more than the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) for conducting civil aviation research and development under sections 44504, 44505, 44507, 44509, and 44511–44513 of this title:
 
 &emsp;(1) for fiscal year 1995—
 
@@ -116,9 +116,115 @@ Authorization of Appropriations.—Not more than the following amounts may be ap
 
 &emsp;&emsp;(J) $2,171,000 for innovative/cooperative research projects and activities, of which $750,000 shall be for carrying out subsection (h);
 
-&emsp;(7) for fiscal year 2001, $237,000,000; and
+&emsp;(7) for fiscal year 2001, $237,000,000;
 
-&emsp;(8) for fiscal year 2002, $249,000,000.
+&emsp;(8) for fiscal year 2002, $249,000,000;
+
+&emsp;(9) for fiscal year 2004, $346,317,000, including—
+
+&emsp;&emsp;(A) $65,000,000 for Improving Aviation Safety;
+
+&emsp;&emsp;(B) $24,000,000 for Weather Safety Research;
+
+&emsp;&emsp;(C) $27,500,000 for Human Factors and Aeromedical Research;
+
+&emsp;&emsp;(D) $30,000,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+
+&emsp;&emsp;(E) $7,000,000 for Research Mission Support;
+
+&emsp;&emsp;(F) $10,000,000 for the Airport Cooperative Research Program;
+
+&emsp;&emsp;(G) $1,500,000 for carrying out subsection (h) of this section;
+
+&emsp;&emsp;(H) $42,800,000 for Advanced Technology Development and Prototyping;
+
+&emsp;&emsp;(I) $30,300,000 for Safe Flight 21;
+
+&emsp;&emsp;(J) $90,800,000 for the Center for Advanced Aviation System Development;
+
+&emsp;&emsp;(K) $9,667,000 for Airports Technology-Safety; and
+
+&emsp;&emsp;(L) $7,750,000 for Airports Technology-Efficiency;
+
+&emsp;(10) for fiscal year 2005, $356,192,000, including—
+
+&emsp;&emsp;(A) $65,705,000 for Improving Aviation Safety;
+
+&emsp;&emsp;(B) $24,260,000 for Weather Safety Research;
+
+&emsp;&emsp;(C) $27,800,000 for Human Factors and Aeromedical Research;
+
+&emsp;&emsp;(D) $30,109,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+
+&emsp;&emsp;(E) $7,076,000 for Research Mission Support;
+
+&emsp;&emsp;(F) $10,000,000 for the Airport Cooperative Research Program;
+
+&emsp;&emsp;(G) $1,650,000 for carrying out subsection (h) of this section;
+
+&emsp;&emsp;(H) $43,300,000 for Advanced Technology Development and Prototyping;
+
+&emsp;&emsp;(I) $31,100,000 for Safe Flight 21;
+
+&emsp;&emsp;(J) $95,400,000 for the Center for Advanced Aviation System Development;
+
+&emsp;&emsp;(K) $2,200,000 for Free Flight Phase 2;
+
+&emsp;&emsp;(L) $9,764,000 for Airports Technology-Safety; and
+
+&emsp;&emsp;(M) $7,828,000 for Airports Technology-Efficiency;
+
+&emsp;(11) for fiscal year 2006, $352,157,000, including—
+
+&emsp;&emsp;(A) $66,447,000 for Improving Aviation Safety;
+
+&emsp;&emsp;(B) $24,534,000 for Weather Safety Research;
+
+&emsp;&emsp;(C) $28,114,000 for Human Factors and Aeromedical Research;
+
+&emsp;&emsp;(D) $30,223,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+
+&emsp;&emsp;(E) $7,156,000 for Research Mission Support;
+
+&emsp;&emsp;(F) $10,000,000 for the Airport Cooperation Research Program;
+
+&emsp;&emsp;(G) $1,815,000 for carrying out subsection (h) of this section;
+
+&emsp;&emsp;(H) $42,200,000 for Advanced Technology Development and Prototyping;
+
+&emsp;&emsp;(I) $23,900,000 for Safe Flight 21;
+
+&emsp;&emsp;(J) $100,000,000 for the Center for Advanced Aviation System Development;
+
+&emsp;&emsp;(K) $9,862,000 for Airports Technology-Safety; and
+
+&emsp;&emsp;(L) $7,906,000 for Airports Technology-Efficiency; and
+
+&emsp;(12) for fiscal year 2007, $356,261,000, including—
+
+&emsp;&emsp;(A) $67,244,000 for Improving Aviation Safety;
+
+&emsp;&emsp;(B) $24,828,000 for Weather Safety Research;
+
+&emsp;&emsp;(C) $28,451,000 for Human Factors and Aeromedical Research;
+
+&emsp;&emsp;(D) $30,586,000 for Environmental Research and Development, of which $20,000,000 shall be for research activities related to reducing community exposure to civilian aircraft noise or emissions;
+
+&emsp;&emsp;(E) $7,242,000 for Research Mission Support;
+
+&emsp;&emsp;(F) $10,000,000 for the Airport Cooperation Research Program;
+
+&emsp;&emsp;(G) $1,837,000 for carrying out subsection (h) of this section;
+
+&emsp;&emsp;(H) $42,706,000 for Advanced Technology Development and Prototyping;
+
+&emsp;&emsp;(I) $24,187,000 for Safe Flight 21;
+
+&emsp;&emsp;(J) $101,200,000 for the Center for Advanced Aviation System Development;
+
+&emsp;&emsp;(K) $9,980,000 for Airports Technology-Safety; and
+
+&emsp;&emsp;(L) $8,000,000 for Airports Technology-Efficiency.
 
 (b)
 
@@ -162,9 +268,11 @@ Establishment.—The Administrator of the Federal Aviation Administration shall 
 
 &emsp;&emsp;(A) research projects to be carried out at primarily undergraduate institutions and technical colleges;
 
-&emsp;&emsp;(B) research projects that combine research at primarily undergraduate institutions and technical colleges with other research supported by the Federal Aviation Administration; or
+&emsp;&emsp;(B) research projects that combine research at primarily undergraduate institutions and technical colleges with other research supported by the Federal Aviation Administration;
 
-&emsp;&emsp;(C) research on future training requirements on projected changes in regulatory requirements for aircraft maintenance and power plant licensees.
+&emsp;&emsp;(C) research on future training requirements on projected changes in regulatory requirements for aircraft maintenance and power plant licensees; or
+
+&emsp;&emsp;(D) research on the impact of new technologies and procedures, particularly those related to aircraft flight deck and air traffic management functions, on training requirements for pilots and air traffic controllers.
 
 &emsp;(2)
 
@@ -184,7 +292,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194; Pub. L. 108–176, title VII, §§701, 707, Dec. 12, 2003, 117 Stat. 2574, 2582.)
 
 Historical and Revision Notes
 
@@ -248,6 +356,12 @@ The date of the enactment of the FAA Research, Engineering, and Development Auth
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–176, §701(1), substituted “for conducting civil aviation research and development under sections 44504” for “to carry out sections 44504” in introductory provisions.
+
+Subsec. (a)(9) to (12). Pub. L. 108–176, §701(2)–(4), added pars. (9) to (12).
+
+Subsec. (h)(1)(D). Pub. L. 108–176, §707, added subpar. (D).
+
 2000—Subsec. (a)(6) to (8). Pub. L. 106–181 added pars. (6) to (8).
 
 1998—Subsec. (a)(4). Pub. L. 105–155, §2, added par. (4).
@@ -298,6 +412,10 @@ Pub. L. 104–287, §5(9), substituted “Transportation and Infrastructure” f
 
 “(2) for the fiscal year ending September 30, 1994, $297,000,000.”
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -320,7 +438,7 @@ Notice of Reorganization.—The Administrator of the Federal Aviation Administra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44508, 47108, 48108, 48109, 50101, 50102, 50103, 50105 of this title.
+This section is referred to in sections 44508, 47108, 48108, 48109, 48114, 50101, 50102, 50103, 50105 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (g) has been enacted.</i>
 

@@ -28,7 +28,7 @@ A person may not—
 
 #### (B) Plan requirements
 
-&emsp;&emsp;The plan shall include a requirement that any person in a category listed in paragraph (1) achieve a passing grade on an examination and participate in continuing education to stay informed about current asbestos inspection and response action technology. The examination shall demonstrate the knowledge of the person in areas that the Administrator prescribes as necessary and appropriate in each of the categories. Such examinations may include requirements for knowledge in the following areas:
+&emsp;&emsp;The plan shall include a requirement that any person in a category listed in paragraph (1) achieve a passing grade on an examination and participate in continuing education to stay informed about current asbestos inspection and response action technology. The examination shall demonstrate the knowledge of the person in areas that the Administrator prescribes as necessary and appropriate in each of the categories. Suchexaminations may include requirements for knowledge in the following areas:
 
 &emsp;&emsp;&emsp;(i) Recognition of asbestos-containing material and its physical characteristics.
 
@@ -112,7 +112,7 @@ A person may not—
 
 #### (f) List of EPA-approved courses
 
-Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) of this section and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this titleand to each regional office of the Environmental Protection Agency.
+Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) of this section and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
 
 (Pub. L. 94–469, title II, §206, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2980; amended Pub. L. 100–368, §3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, §15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of rules and regulations
 
-Within nine months from April 29, 1988, the Secretary shall promulgate, subject to the requirements of subsections (b)–(e) of this section, such rules and regulations governing the exploration for and development and production of non-Federal interests in oil and gas located within the boundaries of the Big Cypress National Preserve and the Addition, including but not limited to access on, across, or through all lands within the boundaries of the Big Cypress National Preserve and the Addition for the purpose of conducting such exploration or development and production, as are necessary and appropriate to provide reasonable use and enjoyment of privately owned oil and gas interests, and consistent with the purposes for which the Big Cypress National Preserve and the Addition were established. Rules and regulations promulgated pursuant to the authority of this section may be made by appropriate amendment to or in substitution of the rules and regulations respecting non-Federal oil and gas rights (currently codified at 36 CFR 9.30, et seq. (1986)).
+Within nine months from April 29, 1988, the Secretary shall promulgate, subject to the requirements of subsections (b)–(e) of this section, such rules and regulations governing the exploration for and development and production of non-Federal interests in oil and gas located within the boundaries of the Big Cypress National Preserve and the Addition, including but not limited to access on, across, or through all lands within the boundaries of the Big CypressNational Preserve and the Addition for the purpose of conducting such exploration or development and production, as are necessary and appropriate to provide reasonable use and enjoyment of privately owned oil and gas interests, and consistent with the purposes for which the Big Cypress National Preserve and the Addition were established. Rules and regulations promulgated pursuant to the authority of this section may be made by appropriate amendment to or in substitution of the rules and regulations respecting non-Federal oil and gas rights (currently codified at 36 CFR 9.30, et seq. (1986)).
 
 #### (b) Contents of rule or regulation; permit from National Park Service
 
@@ -36,7 +36,7 @@ Prior to the promulgation of rules or regulations under this section, the Secret
 
 #### (f) Minerals Management Office; establishment; duties
 
-There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundariesof the Big Cypress National Preserve and the Addition.
+There is hereby authorized to be established a Minerals Management Office within the Office of the Superintendent of the Big Cypress National Preserve, for the purpose of ensuring, consistent with the purposes for which the Big Cypress National Preserve was established, timely consideration of and final action on applications for the exploration or development and production of non-Federal oil and gas rights located beneath the surface of lands within the boundaries of the Big Cypress National Preserve and the Addition.
 
 #### (g) Authorization of appropriations
 

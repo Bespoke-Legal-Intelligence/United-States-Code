@@ -62,7 +62,7 @@ Section 1415 of title XIV of Pub. L. 95–561 provided that:
 
 #### Short Title
 
-Section 1401 of title XIV of Pub. L. 95–561 provided that: “This title \[enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
+Section 1401 of title XIV of Pub. L. 95–561 provided that: “This title \[enacting this chapter, section 429 ofTitle 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
 #### Pilot Program on Private Operation of Defense Dependents’ Schools
 

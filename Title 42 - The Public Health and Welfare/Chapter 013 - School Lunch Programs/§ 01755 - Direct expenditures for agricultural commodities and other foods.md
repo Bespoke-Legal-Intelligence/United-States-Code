@@ -128,7 +128,7 @@ Pub. L. 93–13 added subsec. (d).
 
 1968—Pub. L. 90–302 inserted “except section 1761 of this title” after “The funds appropriated for any fiscal year for carrying out the provisions of this chapter,”.
 
-1962—Pub. L. 87–823 substituted “, less the amount apportioned by him pursuant to sections 1753, 1754, and 1759 of this title, and less the amount appropriated pursuant to section 1759a of this title” for “and less the amount apportioned to him pursuant to sections 1753, 1754, and 1759 of this title”.
+1962—Pub. L. 87–823 substituted “, less the amount apportioned by him pursuant to sections 1753, 1754, and 1759 of this title, and less the amount appropriated pursuant to section 1759a of this title” for “and less the amount apportioned to him pursuant to sections 1753, 1754, and 1759 of this title”.
 
 #### Effective Date of 2002 Amendment
 

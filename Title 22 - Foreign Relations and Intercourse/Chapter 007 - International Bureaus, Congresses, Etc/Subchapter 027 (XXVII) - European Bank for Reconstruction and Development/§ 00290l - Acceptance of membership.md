@@ -1,6 +1,6 @@
 ### §290<i>l</i>. Acceptance of membership
 
-The President is hereby authorized to accept membership for the United States in the European Bank for Reconstruction and Development\(in this subchapter referred to as the “Bank”) provided for by the agreement establishing the Bank (in this subchapter referred to as the “Agreement”), signed on May 29, 1990.
+The President is hereby authorized to accept membership for the United States in the European Bank for Reconstruction and Development (in this subchapter referred to as the “Bank”) provided for by the agreement establishing the Bank (in this subchapter referred to as the “Agreement”), signed on May 29, 1990.
 
 (Pub. L. 101–513, title V, §562(c)(2), Nov. 5, 1990, 104 Stat. 2034.)
 

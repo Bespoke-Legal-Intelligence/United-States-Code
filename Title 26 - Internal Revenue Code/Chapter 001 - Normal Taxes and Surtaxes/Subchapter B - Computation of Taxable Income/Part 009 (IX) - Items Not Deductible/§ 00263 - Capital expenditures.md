@@ -44,7 +44,7 @@ In the case of a domestic common carrier by rail (including a railroad switching
 
 #### (1) General rule
 
-&emsp;No deduction shall be allowed for interest and carrying charges properly allocable to personal property which is part of a straddle (asdefined in section 1092(c)). Any amount not allowed as a deduction by reason of the preceding sentence shall be chargeable to the capital account with respect to the personal property to which such amount relates.
+&emsp;No deduction shall be allowed for interest and carrying charges properly allocable to personal property which is part of a straddle (as defined in section 1092(c)). Any amount not allowed as a deduction by reason of the preceding sentence shall be chargeable to the capital account with respect to the personal property to which such amount relates.
 
 #### (2) Interest and carrying charges defined
 
@@ -142,7 +142,7 @@ In the case of intangible drilling and development costs paid or incurred with r
 
 > This subsection shall not apply to costs paid or incurred with respect to a nonproductive well.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 86–779, §6(c), Sept. 14, 1960, 74 Stat. 1001; Pub. L. 87–834, §21(b), Oct. 16, 1962, 76 Stat. 1064; Pub. L. 88–563, §4, Sept. 2, 1964, 78 Stat. 845; Pub. L. 89–243, §4(p)(1), (2), Oct. 9, 1965, 79 Stat. 964; Pub. L. 91–172, title VII, §706(a), Dec. 30, 1969, 83 Stat. 674; Pub. L. 92–178, title I, §109(b), (c), Dec. 10, 1971, 85 Stat. 509; Pub. L. 94–455, title XVII, §1701(a), title XIX, §§1904(b)(10)(A)(i), 1906(b)(13)(A), title XXI, §2122(b)(2), Oct. 4, 1976, 90 Stat. 1759, 1817, 1834, 1915; Pub. L. 95–618, title IV, §402(a), Nov. 9, 1978, 92 Stat. 3201; Pub. L. 96–223, title II, §251(a)(2)(B), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§201(c), 202(d)(1), title V, §502, Aug. 13, 1981, 95 Stat. 219, 221, 327; Pub. L. 97–248, title II, §204(c)(1), Sept. 3, 1982, 96 Stat. 426; Pub. L. 97–448, title I, §105(b)(1), title III, §306(a)(9)(A), Jan. 12, 1983, 96 Stat. 2385, 2403; Pub. L. 98–369, div. A, title I, §§56(a), 102(e)(7), (8), July 18, 1984, 98 Stat. 573, 624, 625; Pub. L. 99–514, title IV, §§402(b)(1), 411(b)(1), title VII, §701(e)(4)(D), title XVIII, §1808(b), Oct. 22, 1986, 100 Stat. 2221, 2225, 2343, 2817; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §§11801(a)(16), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–520, 1388–558; Pub. L. 105–34, title XVI, §1604(a)(1), Aug. 5, 1997, 111 Stat. 1097.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 86–779, §6(c), Sept. 14, 1960, 74 Stat. 1001; Pub. L. 87–834, §21(b), Oct. 16, 1962, 76 Stat. 1064; Pub. L. 88–563, §4, Sept. 2, 1964, 78 Stat. 845; Pub. L. 89–243,§4(p)(1), (2), Oct. 9, 1965, 79 Stat. 964; Pub. L. 91–172, title VII, §706(a), Dec. 30, 1969, 83 Stat. 674; Pub. L. 92–178, title I, §109(b), (c), Dec. 10, 1971, 85 Stat. 509; Pub. L. 94–455, title XVII, §1701(a), title XIX, §§1904(b)(10)(A)(i), 1906(b)(13)(A), title XXI, §2122(b)(2), Oct. 4, 1976, 90 Stat. 1759, 1817, 1834, 1915; Pub. L. 95–618, title IV, §402(a), Nov. 9, 1978, 92 Stat. 3201; Pub. L. 96–223, title II, §251(a)(2)(B), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§201(c), 202(d)(1), title V, §502, Aug. 13, 1981, 95 Stat. 219, 221, 327; Pub. L. 97–248, title II, §204(c)(1), Sept. 3, 1982, 96 Stat. 426; Pub. L. 97–448, title I, §105(b)(1), title III, §306(a)(9)(A), Jan. 12, 1983, 96 Stat. 2385, 2403; Pub. L. 98–369, div. A, title I, §§56(a), 102(e)(7), (8), July 18, 1984, 98 Stat. 573, 624, 625; Pub. L. 99–514, title IV, §§402(b)(1), 411(b)(1), title VII, §701(e)(4)(D), title XVIII, §1808(b), Oct. 22, 1986, 100 Stat. 2221, 2225, 2343, 2817; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §§11801(a)(16), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–520, 1388–558; Pub. L. 105–34, title XVI, §1604(a)(1), Aug. 5, 1997, 111 Stat. 1097.)
 
 #### Amendments
 
@@ -302,7 +302,7 @@ Section 4(q) of Pub. L. 89–243 provided in part that: “Except as otherwise s
 
 #### Effective Date of 1962 Amendment
 
-Section 21(d) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 182 of this title and amending this section\] shall apply with respect to taxable years beginning after December 31, 1962.”
+Section 21(d) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 182of this title and amending this section\] shall apply with respect to taxable years beginning after December 31, 1962.”
 
 #### Effective Date of 1960 Amendment
 

@@ -34,7 +34,7 @@
 
 #### (2) Limitation on fund investments
 
-&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that,if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
 
 #### (3) Investment in certain preferred stock permitted
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the acquisition, construction, or reconstruction of a qualified vessel,
 
-&emsp;&emsp;(B) the acquisition, construction, or reconstruction of barges and containers which arepart of the complement of a qualified vessel, or
+&emsp;&emsp;(B) the acquisition, construction, or reconstruction of barges and containers which are part of the complement of a qualified vessel, or
 
 &emsp;&emsp;(C) the payment of the principal on indebtedness incurred in connection with the acquisition, construction, or reconstruction of a qualified vessel or a barge or container which is part of the complement of a qualified vessel.
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) by increasing the tax imposed by chapter 1 by the product of the amount of such withdrawal and the highest rate of tax specified in section 1 (section 11 in the case of a corporation).
 
-> &emsp;&emsp;With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) applies, the rate of tax taken into account under the preceding sentence shall not exceed 20 percent (34 percent in the case of a corporation).
+> &emsp;&emsp;With respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) or 1201(a) applies, the rate of tax taken into account under the preceding sentence shall not exceed 15 percent (34 percent in the case of a corporation).
 
 #### (B) Tax benefit rule
 
@@ -290,7 +290,11 @@ Under joint regulations—
 
 For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, titleI, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835.)
+(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
@@ -302,6 +306,8 @@ The date of the enactment of this section, referred to in subsec. (i), is the da
 
 #### Amendments
 
+2003—Subsec. (g)(6)(A). Pub. L. 108–27, §§301(a)(2)(D), 303, temporarily substituted “15 percent” for “20 percent” in concluding provisions. See Effective and Termination Dates of 2003 Amendment note below.
+
 1997—Subsec. (g)(6)(A). Pub. L. 105–34 substituted “20 percent” for “28 percent” in concluding provisions.
 
 1990—Subsec. (g)(6)(A). Pub. L. 101–508 substituted “section 1(h)” for “section 1(j)” in last sentence.
@@ -309,6 +315,12 @@ The date of the enactment of this section, referred to in subsec. (i), is the da
 1988—Subsec. (g)(1). Pub. L. 100–647, §1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
 Subsec. (g)(6)(A). Pub. L. 100–647, §1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -328,7 +340,7 @@ Section 261(g) of Pub. L. 99–514 provided that: “The amendments made by this
 
 #### Merchant Marine Capital Construction Funds
 
-Section 261(a) of Pub. L. 99–514 provided that: “The purpose of this section \[enacting this section, amending section 26 of this title and section 1177 of Title 46, Appendix, and enacting provisions set out as a note above\] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\].”
+Section 261(a) of Pub. L. 99–514 provided that: “The purpose of this section \[enacting this section, amendingsection 26 of this title and section 1177 of Title 46, Appendix, and enacting provisions set out as a note above\] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\].”
 
 #### Section Referred to in Other Sections
 

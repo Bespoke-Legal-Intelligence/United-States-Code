@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties added to disgorgement funds for the relief of victims
 
-If in any judicial or administrative action brought by the Commission under the securitieslaws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.
+If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.
 
 #### (b) Acceptance of additional donations
 

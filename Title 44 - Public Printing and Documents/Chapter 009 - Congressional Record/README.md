@@ -3,7 +3,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [901\.](%C2%A7%2000901%20-%20Congressional%20Record%20arrangement%2C%20style%2C%20contents%2C%20and%20indexes.md) | Congressional Record: arrangement, style, contents, and indexes. |
-| [902\.](%C2%A7%2000902%20-%20Congressional%20Record%20indexes.md) | Congressional Record: indexes. |
+| [902\.](%C2%A7%2000902%20-%20Congressional%20Record%20Indexes.md) | Congressional Record: indexes.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [903\.](%C2%A7%2000903%20-%20Congressional%20Record%20daily%20and%20permanent%20forms.md) | Congressional Record: daily and permanent forms. |
 | [904\.](%C2%A7%2000904%20-%20Congressional%20Record%20maps%3B%20diagrams%3B%20illustrations.md) | Congressional Record: maps; diagrams; illustrations. |
 | [905\.](%C2%A7%2000905%20-%20Congressional%20Record%20additional%20insertions.md) | Congressional Record: additional insertions. |
@@ -23,13 +28,15 @@
 
 Authority and responsibilities under chapter not limited or repealed by Federal Records Management Amendments of 1976, see section 5(b) of Pub. L. 94–575, set out as a note under section 2901 of this title.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–102 without corresponding amendment of analysis.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00901 - Congressional Record arrangement, style, contents, and indexes](%C2%A7%2000901%20-%20Congressional%20Record%20arrangement%2C%20style%2C%20contents%2C%20and%20indexes.md)
-- [&sect; 00902 - Congressional Record indexes](%C2%A7%2000902%20-%20Congressional%20Record%20indexes.md)
+- [&sect; 00902 - Congressional Record Indexes](%C2%A7%2000902%20-%20Congressional%20Record%20Indexes.md)
 - [&sect; 00903 - Congressional Record daily and permanent forms](%C2%A7%2000903%20-%20Congressional%20Record%20daily%20and%20permanent%20forms.md)
 - [&sect; 00904 - Congressional Record maps; diagrams; illustrations](%C2%A7%2000904%20-%20Congressional%20Record%20maps%3B%20diagrams%3B%20illustrations.md)
 - [&sect; 00905 - Congressional Record additional insertions](%C2%A7%2000905%20-%20Congressional%20Record%20additional%20insertions.md)

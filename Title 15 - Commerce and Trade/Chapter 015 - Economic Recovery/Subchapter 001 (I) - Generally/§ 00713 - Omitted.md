@@ -22,7 +22,7 @@ Secretary of Agriculture authorized to dissolve the Delaware corporation under a
 
 #### Transfer of Assets of Corporation
 
-Assets, funds, liabilities, etc., of Delaware corporation transferred to newly created Commodity CreditCorporation under authority of section 714n of this title.
+Assets, funds, liabilities, etc., of Delaware corporation transferred to newly created Commodity Credit Corporation under authority of section 714n of this title.
 
 #### Subsidy Operations
 

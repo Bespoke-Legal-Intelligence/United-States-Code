@@ -6,7 +6,7 @@ It is hereby declared to be the agricultural trade policy of the United States t
 
 &emsp;(2) support the principle of free trade and the promotion of fair trade in agricultural commodities and products;
 
-&emsp;(3) cooperate fully in all efforts to negotiate with foreign countries further reductions in tariff and nontariff barriers to trade, including sanitary and phytosanitary measures and trade-distorting subsidies;
+&emsp;(3) cooperate fully in all efforts to negotiate with foreign countries further reductions intariff and nontariff barriers to trade, including sanitary and phytosanitary measures and trade-distorting subsidies;
 
 &emsp;(4) aggressively counter unfair foreign trade practices as a means of encouraging fairer trade;
 

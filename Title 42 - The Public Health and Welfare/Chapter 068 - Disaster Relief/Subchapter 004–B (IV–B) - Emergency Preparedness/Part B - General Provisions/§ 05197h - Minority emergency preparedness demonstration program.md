@@ -22,7 +22,7 @@ A recipient of a grant, contract, or cooperative agreement awarded under this se
 
 &emsp;(1) acquire expert professional services necessary to conduct research in communities predominately populated by minority citizens, with a primary emphasis on African American and Hispanic communities;
 
-&emsp;(2) develop and prepare informational materials to promote awareness among minoritycommunities about emergency preparedness and how to protect their households and communities in advance of disasters;
+&emsp;(2) develop and prepare informational materials to promote awareness among minority communities about emergency preparedness and how to protect their households and communities in advance of disasters;
 
 &emsp;(3) establish consortia with minority national organizations, minority institutions of higher education, and faith-based institutions to disseminate information about emergency preparedness to minority communities; and
 

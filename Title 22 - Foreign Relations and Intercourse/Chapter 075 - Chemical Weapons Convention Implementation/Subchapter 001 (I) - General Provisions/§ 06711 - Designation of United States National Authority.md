@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the President shall designate the Department of State to be the United States National Authority.
+Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the Presidentshall designate the Department of State to be the United States National Authority.
 
 #### (b) Purposes
 
@@ -38,7 +38,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. The Department of State shall be the United States National Authority (the “USNA”) for purposes of the Act and the Convention.
 
-Sec. 2. The USNA shall coordinate the implementation of the provisions of the Act and the Conventionwith an interagency group consisting of the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Energy, and the heads of such other agencies or departments, or their designees, I may consider necessary or advisable.
+Sec. 2. The USNA shall coordinate the implementation of the provisions of the Act and the Convention with an interagency group consisting of the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Energy, and the heads of such other agencies or departments, or their designees, I may consider necessary or advisable.
 
 Sec. 3. The Departments of State and Commerce, and other agencies as appropriate, each shall issue, amend, or revise regulations, orders, or directives as necessary to implement the Act and U.S. obligations under Article VI and related provisions of the Convention. Regulations under section 401(a) of the Act \[22 U.S.C. 6741(a)\] shall be issued by the Department of Commerce by a date specified by the USNA, which shall review and approve these regulations, in coordination with the interagency group designated in section 2 of this order, prior to their issuance.
 

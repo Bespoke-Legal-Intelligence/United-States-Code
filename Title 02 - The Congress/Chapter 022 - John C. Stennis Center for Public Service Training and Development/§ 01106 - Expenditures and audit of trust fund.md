@@ -12,7 +12,7 @@ The activities of the Center under this chapter may be audited by the General Ac
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–520 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Treasury is authorized to pay to the Center from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Center to carry out the provisions of this chapter.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–520 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Treasury is authorized to pay to the Center from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Center to carry out the provisions of this chapter.”
 
 #### Section Referred to in Other Sections
 

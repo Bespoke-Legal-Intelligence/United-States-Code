@@ -38,7 +38,7 @@ Members of the Board of Directors shall receive no additional compensation by re
 
 #### (2) Staff
 
-&emsp;Subject to such rules as the Board of Directors may prescribe, the Trust may appoint andhire such staff and provide for offices as may be necessary to carry out its duties. The Trust may fix the compensation of the staff, which shall be paid from amounts in the National Homeownership Trust Fund.
+&emsp;Subject to such rules as the Board of Directors may prescribe, the Trust may appoint and hire such staff and provide for offices as may be necessary to carry out its duties. The Trust may fix the compensation of the staff, which shall be paid from amounts in the National Homeownership Trust Fund.
 
 (Pub. L. 101–625, title III, §302, Nov. 28, 1990, 104 Stat. 4129.)
 

@@ -4,7 +4,7 @@
 
 Definitions.—In this subchapter:
 
-&emsp;(1) The term “program manager” means, with respect to a defense acquisition program, the member of an Acquisition Corps responsible for managing the program, regardless of the title given the member.
+&emsp;(1) The term “program manager” means, with respect to a defense acquisition program, the member of the Acquisition Corps responsible for managing the program, regardless of the title given the member.
 
 &emsp;(2) The term “deputy program manager” means the person who has authority to act on behalf of the program manager in the absence of the program manager.
 
@@ -20,21 +20,21 @@ Limitation.—Any civilian or military member of the Corps who does not meet the
 
 (c)
 
-Waiver.—(1) The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual's qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
+Waiver.—The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual's qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
 
-(2) The authority to grant such waivers may be delegated—
-
-&emsp;(A) in the case of the service acquisition executives of the military departments, only to the Director of Acquisition Career Management for the military department concerned; and
-
-&emsp;(B) in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, only to the Director of Acquisition Education, Training, and Career Development.
-
-(d)
-
-OPM Approval.—The Secretary of Defense shall submit any requirement with respect to civilian employees established under this subchapter to the Director of the Office of Personnel Management for approval. If the Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.
-
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1650; amended Pub. L. 102–190, div. A, title X, §1061(a)(8), (c), Dec. 5, 1991, 105 Stat. 1472, 1475; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1650; amended Pub. L. 102–190, div. A, title X, §1061(a)(8), (c), Dec. 5, 1991, 105 Stat. 1472, 1475; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–136, div. A, title VIII, §§831(b)(5), 832(b)(4), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550.)
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
+
+Subsec. (c). Pub. L. 108–136, §831(b)(5), substituted “The Secretary” for “(1) The Secretary” and struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated—
+
+&emsp;“(A) in the case of the service acquisition executives of the military departments, only to the Director of Acquisition Career Management for the military department concerned; and
+
+&emsp;“(B) in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, only to the Director of Acquisition Education, Training, and Career Development.”
+
+Subsec. (d). Pub. L. 108–136, §832(b)(4), struck out heading and text of subsec. (d). Text read as follows: “The Secretary of Defense shall submit any requirement with respect to civilian employees established under this subchapter to the Director of the Office of Personnel Management for approval. If the Director does not disapprove the requirement within 30 days after the date on which the Director receives the requirement, the requirement is deemed to be approved by the Director.”
 
 2001—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 

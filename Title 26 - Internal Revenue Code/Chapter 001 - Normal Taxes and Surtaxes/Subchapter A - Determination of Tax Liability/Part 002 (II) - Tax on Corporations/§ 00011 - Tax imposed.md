@@ -188,7 +188,7 @@ Section 301(c) of Pub. L. 95–600 provided that: “The amendments made by this
 
 #### Effective Date of 1976 Amendment
 
-Section 901(d) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on December 23, 1975. The amendments made by subsection (b) \[amending section 821 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsection (c) \[amending sections 21, 1561, and 6154 of this title\] shall apply to taxable years ending after December 31, 1975.”
+Section 901(d) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on December 23, 1975. The amendments made by subsection (b) \[amending section 821 ofthis title\] shall apply to taxable years ending after December 31, 1974. The amendments made by subsection (c) \[amending sections 21, 1561, and 6154 of this title\] shall apply to taxable years ending after December 31, 1975.”
 
 #### Effective and Termination Dates of 1975 Amendments
 

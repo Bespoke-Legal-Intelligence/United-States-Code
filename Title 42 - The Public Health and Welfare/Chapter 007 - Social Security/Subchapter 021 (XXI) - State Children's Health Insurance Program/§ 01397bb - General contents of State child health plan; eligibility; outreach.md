@@ -66,7 +66,7 @@ A State child health plan shall include a description of the procedures to be us
 
 #### (1) Outreach
 
-&emsp;Outreach to families of children likely to be eligible for child health assistance under theplan or under other public or private health coverage programs to inform these families of the availability of, and to assist them in enrolling their children in, such a program.
+&emsp;Outreach to families of children likely to be eligible for child health assistance under the plan or under other public or private health coverage programs to inform these families of the availability of, and to assist them in enrolling their children in, such a program.
 
 #### (2) Coordination with other health insurance programs
 

@@ -96,7 +96,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;&emsp;(i) all rents from real property (including property described in section 1245(a)(3)(C)), and
 
-&emsp;&emsp;&emsp;(ii) all rents from personal property (including for purposes of this paragraph as personal property any property described in section 1245(a)(3)(B)) leased with such real property, if the rents attributable to such personal property are an incidental amount of the total rents received or accrued under the lease, determined at the time the personal property is placed in service.
+&emsp;&emsp;&emsp;(ii) all rents from personal property (including for purposes of this paragraph as personal property any property describedin section 1245(a)(3)(B)) leased with such real property, if the rents attributable to such personal property are an incidental amount of the total rents received or accrued under the lease, determined at the time the personal property is placed in service.
 
 &emsp;&emsp;(B) Subparagraph (A) shall not apply—
 
@@ -322,11 +322,11 @@ Regulations.—The Secretary shall prescribe such regulations as may be necessar
 
 &emsp;This subsection shall not apply to employer securities (within the meaning of section 409(<i>l</i>)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L.88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825.)
 
-#### Adjustment of Amount of Annual Dues Threshold for Taxable Years Beginning in 2003
+#### Adjustment of Amount of Annual Dues Threshold for Taxable Years Beginning in 2004
 
-<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural organizations under subsection (d)(1) of this section for taxable years beginning in 2003, see section 3.19 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural organizations under subsection (d)(1) of this section for taxable years beginning in 2004, see section 3.21 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -450,7 +450,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Binding contracts.—The amendments made by this section shall not apply to any amount received or accrued during the first 2 taxable years beginning on or after the date of the enactment of this Act if such amount is received or accrued pursuant to a written binding contract in effect on June 8, 1997, and at alltimes thereafter before such amount is received or accrued. The preceding sentence shall not apply to any amount which would (but for the exercise of an option to accelerate payment of such amount) be received or accrued after such 2 taxable years.”
+Binding contracts.—The amendments made by this section shall not apply to any amount received or accrued during the first 2 taxable years beginning on or after the date of the enactment of this Act if such amount is received or accrued pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such amount is received or accrued. The preceding sentence shall not apply to any amount which would (but for the exercise of an option to accelerate payment of such amount) be received or accrued after such 2 taxable years.”
 
 Section 1523(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
@@ -558,7 +558,7 @@ Section 1951(b)(8)(B) of Pub. L. 94–455 provided that: “Notwithstanding subp
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

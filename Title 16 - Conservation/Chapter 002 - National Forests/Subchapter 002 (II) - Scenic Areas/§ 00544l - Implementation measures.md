@@ -8,7 +8,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (1) Notwithstanding the provisions of section 500 of this title, that portion of which is paid under such provisions to the State of Oregon with respect to the special management areas within the Mount Hood National Forest, the Gates of the Columbia Gorge Special Management Area, Mount Hood National Forest, and to the State of Washington with respect to the special management areas within the Gifford Pinchot National Forest—
 
-&emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools ofthe county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
+&emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
 
 &emsp;(B) the remainder shall be expended for the benefit of public roads or any public purposes of any county which has adopted implementation measures pursuant to sections 544 to 544p of this title.
 
@@ -62,7 +62,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;(C) Military activities essential to national security.
 
-&emsp;(D) Any of the following actions or projects, but only if the making available of expenditures or assistance therefor is consistent with the standards in section 544d(b) of this titleand the purposes of sections 544 to 544p of this title:
+&emsp;(D) Any of the following actions or projects, but only if the making available of expenditures or assistance therefor is consistent with the standards in section 544d(b) of this title and the purposes of sections 544 to 544p of this title:
 
 &emsp;&emsp;(i) Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including, but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
 
@@ -108,7 +108,7 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 
 #### Amendments
 
-2000—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”,substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
+2000—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
 
 #### Section Referred to in Other Sections
 

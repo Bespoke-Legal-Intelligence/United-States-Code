@@ -6,7 +6,7 @@
 
 &emsp;(i) knowing that a person is an alien, brings to or attempts to bring to the United States in any manner whatsoever such person at a place other than a designated port of entry or place other than as designated by the Commissioner, regardless of whether such alien has received prior official authorization to come to, enter, or reside in the United States and regardless of any future official action which may be taken with respect to such alien;
 
-&emsp;(ii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, transports, or moves or attempts to transport or move such alien within the United States by means of transportation or otherwise, in furtherance of such violation of law;
+&emsp;(ii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, transports, or moves or attempts to transport or move such alien within the United Statesby means of transportation or otherwise, in furtherance of such violation of law;
 
 &emsp;(iii) knowing or in reckless disregard of the fact that an alien has come to, entered, or remains in the United States in violation of law, conceals, harbors, or shields from detection, or attempts to conceal, harbor, or shield from detection, such alien in any place, including any building or any means of transportation;
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(iii) an offense in which the alien is not upon arrival immediately brought and presented to an appropriate immigration officer at a designated port of entry,
 
-> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation ofsubparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
+> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
 
 (3)(A) Any person who, during any 12-month period, knowingly hires for employment at least 10 individuals with actual knowledge that the individuals are aliens described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 5 years, or both.
 
@@ -100,7 +100,7 @@ Subsec. (a)(1)(B)(iii), (iv). Pub. L. 104–208, §203(b)(2)(C), (D), substitute
 
 Subsec. (a)(2). Pub. L. 104–208, §203(d), substituted “for each alien in respect to whom a violation of this paragraph occurs” for “for each transaction constituting a violation of this paragraph, regardless of the number of aliens involved” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 104–208, §203(b)(3), in concluding provisions, substituted “be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.” for “be fined in accordance with title 18 or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both..”
+Subsec. (a)(2)(B). Pub. L. 104–208, §203(b)(3), in concluding provisions, substituted “be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.” for “be fined in accordance with title 18 or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both..”
 
 Subsec. (a)(2)(B)(i). Pub. L. 104–208, §203(c), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a second or subsequent offense,”.
 
@@ -130,7 +130,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 > any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
 
-Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and “seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
+Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and“seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
 
 Subsec. (b)(2). Pub. L. 99–603, §112(b)(3), inserted “or is being” after “has been”.
 

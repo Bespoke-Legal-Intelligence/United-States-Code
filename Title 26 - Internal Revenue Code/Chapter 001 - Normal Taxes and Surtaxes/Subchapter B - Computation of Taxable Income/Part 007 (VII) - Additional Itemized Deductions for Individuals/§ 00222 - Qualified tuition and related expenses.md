@@ -8,7 +8,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 #### (1) In general
 
-&emsp;The amount allowed as a deduction under subsection (a) with respect to the taxpayer for any taxable year shall not exceed the applicable dollar limit.
+&emsp;The amount allowed as a deduction under subsection (a) with respect to the taxpayer forany taxable year shall not exceed the applicable dollar limit.
 
 #### (2) Applicable dollar limit
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (5) Nonresident aliens
 
-&emsp;If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual istreated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
+&emsp;If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
 
 #### (6) Regulations
 
@@ -104,7 +104,7 @@ This section shall not apply to taxable years beginning after December 31, 2005.
 
 #### Prior Provisions
 
-A prior section 222 was renumbered section 223 of this title.
+A prior section 222 was renumbered section 224 of this title.
 
 Another prior section 222, added Pub. L. 97–34, title I, §125(a), Aug. 13, 1981, 95 Stat. 201; amended Pub. L. 97–448, title I, §101(f), Jan. 12, 1983, 96 Stat. 2367, related to deduction of adoption expenses, prior to repeal by Pub. L. 99–514, title I, §§135(a), 151(a), Oct. 22, 1986, 100 Stat. 2116, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 

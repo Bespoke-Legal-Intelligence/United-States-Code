@@ -48,5 +48,5 @@ Intent of Act.—Nothing in this Act is intended to restrain or restrict peacefu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 175a, 176, 177, 2332b, 2339, 2339A, 2516 of this title; title 10 section 382.
+This section is referred to in sections 175a, 176, 177, 2332b, 2339, 2339A, 2516 of this title; title 10 section 382; title 38 section 6105.
 

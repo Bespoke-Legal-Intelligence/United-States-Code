@@ -22,7 +22,7 @@ The following entities are agencies of the Administration:
 
 #### (2) Deputy Administrator
 
-&emsp;The Administrator, with the approval of the Secretary, may appoint a Deputy Administrator and may employ and prescribe the functions of such officers and employees, including attorneys, as are necessary to administer the activities to be carried out through the Administration.
+&emsp;The Administrator, with the approval of the Secretary, may appoint a Deputy Administrator and may employ and prescribe the functions of such officers and employees, including attorneys, as are necessary to administer theactivities to be carried out through the Administration.
 
 #### (d) Authorities
 
@@ -70,7 +70,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance abuse services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill; and
 
-&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care Financing Administration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
+&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Centers for Medicare \& Medicaid Services, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
@@ -114,7 +114,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;&emsp;(iv) assure that the unique needs of minority women, including Native American, Hispanic, African-American and Asian women, are recognized and addressed within the activities of the Administration; and
 
-&emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed ofnot more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
+&emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
 
 &emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse and mental health services, including services which require a multidisciplinary approach;
 
@@ -166,7 +166,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (h) Peer review groups
 
-The Administrator shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officersand employees of the United States shall not receive additional compensation for services as members of such groups. The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under this subsection.
+The Administrator shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officers and employees of the United States shall not receive additional compensation for services as members of such groups. The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under this subsection.
 
 #### (i) Voluntary services
 
@@ -220,7 +220,7 @@ No information, if an establishment or person supplying the information or descr
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372.)
 
 #### References in Text
 
@@ -237,6 +237,8 @@ Section was formerly classified to section 3511 of this title prior to renumberi
 A prior section 501 of act July 1, 1944, which was classified to section 219 of this title, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
 #### Amendments
+
+2003—Subsec. (d)(18). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 2000—Subsec. (e)(1). Pub. L. 106–310, §3401(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There shall be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Administrator shall delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment, and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also shall ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2000 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.”
 
@@ -416,7 +418,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
-Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning currentpolicies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
+Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
 
 #### Relationship Between Mental Illness and Substance Abuse
 
@@ -434,7 +436,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 &emsp;“(2) a commitment to—
 
-&emsp;&emsp;“(A) extensive dissemination to States, units of local government, community organizations, and private groups of the most recent information and research findings with respect to alcohol abuse and alcoholism and drug abuse, including information with respect to the application of research findings; and
+&emsp;&emsp;“(A) extensive dissemination to States, units of local government, community organizations, andprivate groups of the most recent information and research findings with respect to alcohol abuse and alcoholism and drug abuse, including information with respect to the application of research findings; and
 
 &emsp;&emsp;“(B) the accomplishment of such dissemination through up-to-date publications, demonstrations, educational programs, and other appropriate means;
 

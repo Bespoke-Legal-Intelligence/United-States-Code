@@ -38,7 +38,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2000—Subsec. (a). Pub. L. 106–518, §104, substituted “the amount equal to the difference between the fee specified in paragraph (3) and the fee specified in paragraph (1)” for “$400” in concluding provisions.
 
-Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by which the fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
+Subsec. (a)(2). Pub. L. 106–518, §103, substituted “equal to the fee specified in paragraph (3) for filing a case under chapter 11 of title 11. The amount by whichthe fee payable under this paragraph exceeds $300 shall be deposited in the fund established under section 1931 of this title” for “$300”.
 
 Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a) by adding par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions to reflect the probable intent of Congress.
 
@@ -46,7 +46,7 @@ Subsec. (a)(7). Pub. L. 106–518, §105, which directed amendment of subsec. (a
 
 1996—Subsec. (a)(3). Pub. L. 104–208 inserted a dollar sign before “800”.
 
-Subsec. (a)(6). Pub. L. 104–208 substituted “$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 ormore. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.” for “$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
+Subsec. (a)(6). Pub. L. 104–208 substituted “$500 for each quarter in which disbursements total $15,000 or more but less than $75,000; $750 for each quarter in which disbursements total $75,000 or more but less than $150,000; $1,250 for each quarter in which disbursements total $150,000 or more but less than $225,000; $1,500 for each quarter in which disbursements total $225,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $1,000,000; $5,000 for each quarter in which disbursements total $1,000,000 or more but less than $2,000,000; $7,500 for each quarter in which disbursements total $2,000,000 or more but less than $3,000,000; $8,000 for each quarter in which disbursements total $3,000,000 or more but less than $5,000,000; $10,000 for each quarter in which disbursements total $5,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.” for “$500 for each quarter in which disbursements total $15,000 or more but less than $150,000; $1,250 or each quarter in which disbursements total $150,000 or more but less than $300,000; $3,750 for each quarter in which disbursements total $300,000 or more but less than $3,000,000; $5,000 for each quarter in which disbursements total $3,000,000 or more. The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.”
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, struck out “a plan is confirmed or” before “the case is converted”.
 
@@ -124,7 +124,7 @@ Contents of report.—Such report shall include—
 
 &emsp;“(ii) recommendations regarding various revenue sources to offset the net cost of waiving such fees; and
 
-&emsp;“(B)(i) an evaluation of the effects that would result in cases under chapters 11 and 13 of title 11, United States Code, from using a graduated bankruptcy fee system based on assets, liabilities, or both of the debtor, and
+&emsp;“(B)(i) an evaluation of the effects that would result in cases under chapters 11 and 13 of title 11,United States Code, from using a graduated bankruptcy fee system based on assets, liabilities, or both of the debtor, and
 
 &emsp;“(ii) recommendations regarding various methods to implement such a graduated bankruptcy fee system.
 

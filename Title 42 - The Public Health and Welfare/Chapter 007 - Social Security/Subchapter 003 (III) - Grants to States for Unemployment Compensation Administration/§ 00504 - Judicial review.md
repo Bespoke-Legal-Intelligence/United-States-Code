@@ -8,7 +8,7 @@ Whenever the Secretary of Labor—
 
 &emsp;(2) makes a finding with respect to a State under subsection (b), (c), (d), (e), (h), (i), or (j) of section 503 of this title,
 
-> such State may, within 60 days after the Governor of the State has been notified of such action, file with the United States court of appeals for the circuit in which such State is located or with the United States Court of Appeals for the District of Columbia, a petition for review of such action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary of Labor. The Secretary of Labor thereupon shall file in the court the record of the proceedings on which he based his action as provided in section 2112 of title 28.
+> such State may, within 60 days after the Governor of the State has been notified of such action, file with the United States court of appeals for the circuit in which such State is located orwith the United States Court of Appeals for the District of Columbia, a petition for review of such action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary of Labor. The Secretary of Labor thereupon shall file in the court the record of the proceedings on which he based his action as provided in section 2112 of title 28.
 
 #### (b) Findings of fact by Secretary of Labor; new or modified findings
 

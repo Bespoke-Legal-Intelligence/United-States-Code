@@ -42,7 +42,7 @@ Pub. L. 105–393, title I, §105, Nov. 13, 1998, 112 Stat. 3618, provided that:
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–393, §1(a), Nov. 13, 1998, 112 Stat. 3596, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Economic Development Administration and Appalachian Regional Development Reform Act of 1998’.”
+Pub. L. 105–393, §1(a), Nov. 13, 1998, 112 Stat. 3596, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Economic Development Administration and Appalachian Regional Development Reform Act of 1998’.”
 
 Pub. L. 105–393, title I, §101, Nov. 13, 1998, 112 Stat. 3597, provided that: “This title \[enacting subchapters I to VII of this chapter, transferring section 3222 of this title to section 3212 of this title, amending section 5316 of Title 5, Government Organization and Employees, repealing former subchapters I to X of this chapter, enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] may be cited as the ‘Economic Development Administration Reform Act of 1998’.”
 
@@ -52,7 +52,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Ac
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, andsections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
 
 Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
 
@@ -102,7 +102,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 #### Denali Commission
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158, provided that:
 
 #### “SEC. 301. SHORT TITLE.
 
@@ -130,7 +130,7 @@ Membership.—
 
 &emsp;“(1)
 
-Composition.—The Commission shall be composed of 7 members, who shall be appointed by the Secretary of Commerce (referred to in this title as the ‘Secretary’), of whom—
+Composition.—The Commission shall be composed of 7 members, who shall be appointed by theSecretary of Commerce (referred to in this title as the ‘Secretary’), of whom—
 
 &emsp;&emsp;“(A) one shall be the Governor of the State of Alaska, or an individual selected from nominations submitted by the Governor, who shall serve as the State Cochairperson;
 
@@ -276,7 +276,7 @@ Staff.—
 
 &emsp;“(1)
 
-In general.—The Federal Cochairperson of the Commission may, without regard to the civil servicelaws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
+In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
 
 &emsp;“(2)
 
@@ -320,6 +320,10 @@ Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the
 
 Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make grants to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shall exceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
+“(d)
+
+Solid Waste.—The Secretary of Agriculture is authorized to make direct lump sum payments which shall remain available until expended to the Denali Commission to address deficiencies in solid waste disposal sites which threaten to contaminate rural drinking water supplies.
+
 #### “SEC. 308. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
 
 “The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Commission.
@@ -328,7 +332,7 @@ Demonstration Health Projects.—In order to demonstrate the value of adequate h
 
 “(a)
 
-In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 4 \[304\] under this Act, $20,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003\[.\]
+In General.—There are authorized to be appropriated to the Commission to carry out the duties of the Commission consistent with the purposes of this title and pursuant to the work plan approved under section 4 \[304\] under this Act, $20,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2008\[.\]
 
 “(b)
 
@@ -338,7 +342,7 @@ Availability.—Any sums appropriated under the authorization contained in this 
 
 #### Lower Mississippi Delta Development Commission
 
-Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
+Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374, incorporated by reference and made a part of that public law the provisions of S.2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
 
 Prior to amendment by Pub. L. 106–554, Pub. L. 100–460 also incorporated by reference and made a part of that public law the provisions of H.R. 5378, as introduced in the House of Representatives on Sept. 26, 1988, and known as the “Lower Mississippi Delta Development Act”, which contained provisions similar to those in S. 2836.
 

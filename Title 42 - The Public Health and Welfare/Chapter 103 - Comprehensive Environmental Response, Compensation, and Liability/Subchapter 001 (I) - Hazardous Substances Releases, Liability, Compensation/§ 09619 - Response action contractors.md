@@ -22,7 +22,7 @@
 
 #### (1) Liability of other persons
 
-&emsp;The defense provided by section 9607(b)(3) of this title shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) of this section and the preceding sentence, nothing in this section shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
+&emsp;The defense provided by section 9607(b)(3) of this title shall not be available to any potentially responsible party with respect to any costs or damages caused by any act or omission of a response action contractor. Except as provided in subsection (a)(4) of this section and the preceding sentence, nothing in thissection shall affect the liability under this chapter or under any other Federal or State law of any person, other than a response action contractor.
 
 #### (2) Burden of plaintiff
 

@@ -8,10 +8,13 @@
 | [5044\.](%C2%A7%2005044%20-%20Assistant%20Commandant%20of%20the%20Marine%20Corps.md) | Assistant Commandant of the Marine Corps. |
 | [5045\.](%C2%A7%2005045%20-%20Deputy%20Commandants.md) | Deputy Commandants. |
 | [5046\.](%C2%A7%2005046%20-%20Staff%20Judge%20Advocate%20to%20the%20Commandant%20of%20the%20Marine%20Corps.md) | Staff Judge Advocate to the Commandant of the Marine Corps. |
+| [5047\.](%C2%A7%2005047%20-%20Legislative%20Assistant%20to%20the%20Commandant.md) | Legislative Assistant to the Commandant. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §504(d)(3)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5047.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224, substituted “Deputy Commandants” for “Chief of Staff; Deputy and Assistant Chiefs of Staff” in item 5045.
 
@@ -28,3 +31,4 @@
 - [&sect; 05044 - Assistant Commandant of the Marine Corps](%C2%A7%2005044%20-%20Assistant%20Commandant%20of%20the%20Marine%20Corps.md)
 - [&sect; 05045 - Deputy Commandants](%C2%A7%2005045%20-%20Deputy%20Commandants.md)
 - [&sect; 05046 - Staff Judge Advocate to the Commandant of the Marine Corps](%C2%A7%2005046%20-%20Staff%20Judge%20Advocate%20to%20the%20Commandant%20of%20the%20Marine%20Corps.md)
+- [&sect; 05047 - Legislative Assistant to the Commandant](%C2%A7%2005047%20-%20Legislative%20Assistant%20to%20the%20Commandant.md)

@@ -34,7 +34,7 @@ Conditions.—The Board may require compliance with reasonable conditions consis
 
 &emsp;(4)
 
-Independently established rates.—Any carrier which is a party to an agreement under paragraph (1) is not, and may not be, precluded from independently establishing its own rates, classification, and mileages or from adopting and using a noncollectively made classification or mileage guide.
+Independently established rates.—Any carrier which is a party to an agreement under paragraph (1) is not, and may not be, precludedfrom independently establishing its own rates, classification, and mileages or from adopting and using a noncollectively made classification or mileage guide.
 
 &emsp;(5)
 
@@ -80,10 +80,6 @@ Periodic review of approvals.—Subject to this section, in the 5-year period be
 
 (d)
 
-Limitation.—The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority.
-
-(e)
-
 Existing Agreements.—
 
 &emsp;(1)
@@ -94,7 +90,7 @@ Agreements existing as of December 31, 1995.—Agreements approved under former 
 
 Cases pending as of date of the enactment.—Nothing in section 227 (other than subsection (b)) of the Motor Carrier Safety Improvement Act of 1999, including the amendments made by such section, shall be construed to affect any case brought under this section that is pending before the Board as of the date of the enactment of this paragraph.
 
-(f)
+(e)
 
 Limitations on Statutory Construction.—
 
@@ -106,7 +102,7 @@ Undercharge claims.—Nothing in this section shall serve as a basis for any und
 
 Obligation of shipper.—Nothing in this title, the ICC Termination Act of 1995, or any amendments or repeals made by such Act shall be construed as creating any obligation for a shipper based solely on a classification that was on file with the Interstate Commerce Commission or elsewhere on December 31, 1995.
 
-(g)
+(f)
 
 Industry Standard Guides.—
 
@@ -138,11 +134,11 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 &emsp;&emsp;(B) uses a publication of mileage (other than a publication described in subparagraph (A)) that can be examined by any interested person upon reasonable request.
 
-(h)
+(g)
 
 Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772; Pub. L. 108–7, div. I, title III, §354, Feb. 20, 2003, 117 Stat. 421.)
 
 #### Historical and Revision Notes
 
@@ -152,19 +148,21 @@ This amends 49:13703(a)(2) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The date of the enactment of this paragraph, referred to in subsecs. (c)(2) and (e)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+The date of the enactment of this paragraph, referred to in subsecs. (c)(2) and (d)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
 
-Former section 10706(b), referred to in subsec. (e)(1), probably means section 10706(b) of this title as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 812.
+Former section 10706(b), referred to in subsec. (d)(1), probably means section 10706(b) of this title as in effect before that section was omitted and a new section 10706 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 812.
 
-Section 227 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (e)(2), is section 227 of Pub. L. 106–159, which amended this section. See 1999 Amendment notes below.
+Section 227 of the Motor Carrier Safety Improvement Act of 1999, referred to in subsec. (d)(2), is section 227 of Pub. L. 106–159, which amended this section. See 1999 Amendment notes below.
 
-The ICC Termination Act of 1995, referred to in subsec. (f)(2), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
+The ICC Termination Act of 1995, referred to in subsec. (e)(2), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+2003—Subsecs. (d) to (h). Pub. L. 108–7 redesignated subsecs. (e) to (h) as (d) to (g), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The Board shall not take any action that would permit the establishment of nationwide collective ratemaking authority.”
 
 1999—Subsec. (c). Pub. L. 106–159, §227(a), designated introductory provisions as par. (1) and inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned their margins, and added par. (2).
 

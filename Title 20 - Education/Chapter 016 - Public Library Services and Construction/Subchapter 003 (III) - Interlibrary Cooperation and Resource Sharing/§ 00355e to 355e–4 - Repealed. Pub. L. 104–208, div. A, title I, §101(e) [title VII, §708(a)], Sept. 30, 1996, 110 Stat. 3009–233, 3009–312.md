@@ -32,7 +32,7 @@ Section 355f–5, act June 19, 1956, ch. 407, title IV, §412, as added and amen
 
 Section 355f–6, act June 19, 1956, ch. 407, title IV, §413, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 317; amended Nov. 24, 1967, Pub. L. 90–154, §4, 81 Stat. 509, related to the payment to the States of the Federal share and the determination of the amount of such payment.
 
-Section 355f–7, act June 19, 1956, ch. 407, title IV, §414, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 317; amended Nov. 24, 1967, Pub. L. 90–154, §5, 81 Stat. 509, set forth the criteria for approval by the Commissioner of State plans for library services to the physically handicapped.
+Section 355f–7, act June 19, 1956, ch. 407, title IV, §414, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 317; amended Nov. 24, 1967, Pub. L. 90–154, §5, 81 Stat. 509, set forth the criteria for approval by the Commissionerof State plans for library services to the physically handicapped.
 
 Section 356, act June 19, 1956, ch. 407, title V, §501, formerly §7, 70 Stat. 295, renumbered §301 and amended Feb. 11, 1964, Pub. L. 88–269, §7(f), (g), 78 Stat. 14, renumbered §501, July 19, 1966, Pub. L. 89–511, §10(b), 80 Stat. 317, authorized the Commissioner to withhold payments to the States, enumerated the grounds for such withholding, and provided that notice and an opportunity for a hearing to be accorded to the appropriate State agency.
 

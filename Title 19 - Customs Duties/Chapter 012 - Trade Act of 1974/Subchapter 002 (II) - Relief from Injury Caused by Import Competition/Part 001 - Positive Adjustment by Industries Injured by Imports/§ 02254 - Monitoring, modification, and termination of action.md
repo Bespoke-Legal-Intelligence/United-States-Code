@@ -50,7 +50,7 @@
 
 (2) If the Commission treats as the domestic industry production located in a major geographic area of the United States under section 2252(c)(4)(C) of this title, then the President shall take into account the geographic concentration of domestic production and of imports in that area in taking any action authorized under paragraph (1).
 
-(Pub. L. 93–618, title II, §204, as added Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1238; amended Pub. L. 100–647, title IX, §9001(a)(8), Nov. 10, 1988, 102 Stat. 3807; Pub. L.103–465, title I, §129(a)(7), title III, §302(c), (d), Dec. 8, 1994, 108 Stat. 4837, 4936.)
+(Pub. L. 93–618, title II, §204, as added Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1238; amended Pub. L. 100–647, title IX, §9001(a)(8), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title I, §129(a)(7), title III, §302(c), (d), Dec. 8, 1994, 108 Stat. 4837, 4936.)
 
 #### Amendments
 

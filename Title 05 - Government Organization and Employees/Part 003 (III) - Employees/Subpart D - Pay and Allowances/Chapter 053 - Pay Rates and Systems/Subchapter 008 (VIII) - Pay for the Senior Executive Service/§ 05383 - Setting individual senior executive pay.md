@@ -1,10 +1,10 @@
 ### §5383. Setting individual senior executive pay
 
-(a) Each appointing authority shall determine, in accordance with criteria established by the Office of Personnel Management, which of the rates established under section 5382 of this title shall be paid to each senior executive under such appointing authority.
+(a) Each appointing authority shall determine, in accordance with criteria established by the Office of Personnel Management, which of the rates within a range established under section 5382 shall be paid to each senior executive under such appointing authority.
 
 (b) Members of the Senior Executive Service shall be subject to the limitation under section 5307.
 
-(c) Except for any pay adjustment under section 5382 of this title, the rate of basic pay for any senior executive may not be adjusted more than once during any 12-month period.
+(c) Except as provided in regulations prescribed by the Office under section 5385, the rate of basic pay for any senior executive may not be adjusted more than once during any 12-month period.
 
 (d) The rate of basic pay for any career appointee may be reduced from any rate of basic pay to any lower rate of basic pay only if the career appointee receives a written notice of the reduction at least 15 days in advance of the reduction.
 
@@ -22,9 +22,13 @@
 
 (B) The initial rate of pay for a career appointee following the position's conversion (as described in paragraph (1)(B)) may not be less than the rate of basic pay last payable to that individual immediately before such position's conversion.
 
-(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, §3, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, §305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, §529 \[title I, §101(b)(7)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, §2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, §2(35), Oct. 2, 1992, 106 Stat. 1351.)
+(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, §3, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, §305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, §529 \[title I, §101(b)(7)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, §2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, §2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, §1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §1125(a)(3)(A), substituted “which of the rates within a range established under section 5382” for “which of the rates established under section 5382 of this title”.
+
+Subsec. (c). Pub. L. 108–136, §1125(a)(3)(B), substituted “as provided in regulations prescribed by the Office under section 5385” for “for any pay adjustment under section 5382 of this title”.
 
 1992—Subsec. (b). Pub. L. 102–378 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -34,7 +38,7 @@
 
 “(B) Any amount paid under this paragraph during a fiscal year shall be taken into account for purposes of applying the limitation under paragraph (1) of this subsection with respect to such fiscal year.
 
-“(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of this title, under which payment under this paragraph shall be made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
+“(C) The Office of Personnel Management shall prescribe regulations, consistent with section 5582 of this title, under which payment under this paragraph shallbe made in the case of any individual whose death precludes payment under subparagraph (A) of this paragraph.”
 
 1991—Subsec. (e). Pub. L. 102–175 added subsec. (e).
 
@@ -43,6 +47,10 @@
 1984—Subsec. (b). Pub. L. 98–615 designated existing provisions as par. (1) and added par. (2).
 
 1979—Subsec. (b). Pub. L. 96–166 inserted reference to section 5948.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–136 effective on first day of first pay period beginning on or after Jan. 1, 2004, but not to result in reduction in rate of basic pay for any senior executive during first year after effective date, see section 1125(c) of Pub. L. 108–136, set out as a note under section 5304 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -54,5 +62,5 @@ Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5347 of this title; title 20 section 4709.
+This section is referred to in sections 5307, 5347, 9902 of this title; title 20 section 4709.
 

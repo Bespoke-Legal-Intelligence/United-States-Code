@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Commercial purposes.—The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
+Commercial purposes.—The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no serviceby a private operator is reasonably available to meet the threat.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Armed forces.—The term “armed forces” has the meaning given such term by s
 
 (b)
 
-Aircraft Owned by Governments.—An aircraft described in subparagraph (A), (B), (C), or (D) of section 40102(a)(37) does not qualify as a public aircraft under such section when the aircraft is used for commercial purposes or to carry an individual other than a crewmember or a qualified non-crewmember.
+Aircraft Owned by Governments.—An aircraft described in subparagraph (A), (B), (C), or (D) of section 40102(a)(37) <sup>1</sup> does not qualify as a public aircraft under such section when the aircraft is used for commercial purposes or to carry an individual other than a crewmember or a qualified non-crewmember.
 
 (c)
 
@@ -34,7 +34,7 @@ Aircraft Owned or Operated by the Armed Forces.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), an aircraft described in section 40102(a)(37)(E) qualifies as a public aircraft if—
+In general.—Subject to paragraph (2), an aircraft described in section 40102(a)(37)(E) <sup>1</sup> qualifies as a public aircraft if—
 
 &emsp;&emsp;(A) the aircraft is operated in accordance with title 10;
 
@@ -48,6 +48,10 @@ Limitation.—An aircraft that meets the criteria set forth in paragraph (1) and
 
 (Added Pub. L. 106–181, title VII, §702(b)(1), Apr. 5, 2000, 114 Stat. 155.)
 
+#### References in Text
+
+Section 40102(a)(37) of this title, referred to in subsecs. (b) and (c)(1), was redesignated section 40102(a)(41) by Pub. L. 108–176, title II, §225(a)(3), Dec. 12, 2003, 117 Stat. 2528.
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
@@ -59,4 +63,6 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Section Referred to in Other Sections
 
 This section is referred to in section 40102 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

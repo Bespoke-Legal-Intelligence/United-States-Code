@@ -1738,7 +1738,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 22, 25B, 26, 67, 79, 101, 122, 135, 138, 220, 221, 264, 401, 402, 402A, 403, 406, 407, 408, 408A, 414, 457, 529, 530, 691, 805, 817, 817A, 953, 1014, 1275, 4973, 4978, 5891, 6050G, 7702, 7702A, 7702B of this title; title 5 section 8433; title 12 sections 24a, 1813; title 15 section 6712; title 29 sections 1002, 1345; title 45 section 726.
+This section is referred to in sections 22, 25B, 26, 67, 79, 101, 122, 135, 138, 220, 221, 223, 264, 401, 402, 402A, 403, 406, 407, 408, 408A, 414, 457, 529, 530, 691, 805, 817, 817A, 953, 1014, 1275, 4973, 4978, 5891, 6050G, 7702, 7702A, 7702B of this title; title 5 section 8433; title 12 sections 24a, 1813; title 15 section 6712; title 29 sections 1002, 1345; title 45 section 726.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(B)”.</i>
 

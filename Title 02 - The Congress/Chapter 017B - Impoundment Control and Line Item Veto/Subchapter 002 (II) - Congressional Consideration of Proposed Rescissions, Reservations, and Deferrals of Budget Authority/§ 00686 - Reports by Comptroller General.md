@@ -12,7 +12,7 @@ If the Comptroller General finds that the President, the Director of the Office 
 
 #### (b) Incorrect classification of special message
 
-If the President has transmitted a special message to both Houses of Congress in accordance with section 683 or 684 of this title, and the Comptroller General believes that the President so transmitted the special message in accordance with one of those sections when the special message should have been transmitted in accordance with the other of those sections, the Comptroller General shall make a report to both Houses of the Congress setting forth his reasons.
+If the President has transmitted a special message to both Houses of Congress in accordancewith section 683 or 684 of this title, and the Comptroller General believes that the President so transmitted the special message in accordance with one of those sections when the special message should have been transmitted in accordance with the other of those sections, the Comptroller General shall make a report to both Houses of the Congress setting forth his reasons.
 
 (Pub. L. 93–344, title X, §1015, July 12, 1974, 88 Stat. 336.)
 
@@ -22,5 +22,5 @@ Section was formerly classified to section 1405 of Title 31 prior to the general
 
 #### Reaffirmation
 
-Pub. L. 100–119, title II, §206(c), Sept. 29, 1987, 101 Stat. 786, provided that: “Sections 1015 and 1016 of theImpoundment Control Act of 1974 \[2 U.S.C. 686, 687\] are reaffirmed.”
+Pub. L. 100–119, title II, §206(c), Sept. 29, 1987, 101 Stat. 786, provided that: “Sections 1015 and 1016 of the Impoundment Control Act of 1974 \[2 U.S.C. 686, 687\] are reaffirmed.”
 

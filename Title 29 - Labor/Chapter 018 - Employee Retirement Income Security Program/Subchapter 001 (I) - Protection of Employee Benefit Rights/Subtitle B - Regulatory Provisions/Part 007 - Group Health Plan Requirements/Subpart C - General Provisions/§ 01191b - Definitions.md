@@ -42,7 +42,7 @@ For purposes of this part—
 
 #### (4) Group health insurance coverage
 
-&emsp;The term “group health insurance coverage” means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
+&emsp;The term “group health insurance coverage” means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
 
 #### (c) Excepted benefits
 

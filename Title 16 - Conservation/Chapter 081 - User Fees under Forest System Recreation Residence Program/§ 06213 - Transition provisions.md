@@ -56,7 +56,7 @@ For the period of time determined under subsection (b) of this section, the Secr
 
 #### (1) In general
 
-&emsp;Not later than 2 years after the promulgation of final regulations and policies and thedevelopment of appraisal guidelines in accordance with section 6205(a)(5) of this title, cabin owners that are subject to appraisals completed after September 30, 1995, but before the date of promulgation of final regulations under section 6212 of this title, may request, in accordance with paragraph (2), that the Secretary—
+&emsp;Not later than 2 years after the promulgation of final regulations and policies and the development of appraisal guidelines in accordance with section 6205(a)(5) of this title, cabin owners that are subject to appraisals completed after September 30, 1995, but before the date of promulgation of final regulations under section 6212 of this title, may request, in accordance with paragraph (2), that the Secretary—
 
 &emsp;&emsp;(A) conduct a new appraisal and determine a new base cabin user fee in accordance with this chapter; or
 

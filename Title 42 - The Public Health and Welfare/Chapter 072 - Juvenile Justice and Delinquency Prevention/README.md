@@ -163,34 +163,34 @@
 
 |  |  |
 | :--- | ---: |
-| [5701\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/%C2%A7%2005701%20-%20Congressional%20statement%20of%20findings.md) | Congressional statement of findings. |
+| [5701\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/%C2%A7%2005701%20-%20Findings.md) | Findings. |
 | [5702\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/%C2%A7%2005702%20-%20Promulgation%20of%20rules.md) | Promulgation of rules. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part A—Runaway and Homeless Youth Grant Program
+#### Part A—Basic Center Grant Program
 
 |  |  |
 | :--- | ---: |
-| [5711\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005711%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
+| [5711\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005711%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
 | (a) | Grants for centers and services. |
 | (b) | Allotment of funds for grants; priority given to certain private entities. |
-| [5712\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005712%20-%20Eligibility%3B%20plan%20requirements.md) | Eligibility; plan requirements. |
+| [5712\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005712%20-%20Eligibility%3B%20plan%20requirements.md) | Eligibility; plan requirements. |
 | (a) | Runaway and homeless youth center; project providing temporary shelter; counseling services. |
 | (b) | Provisions of plan. |
 | (c) | Applicants providing street-based services. |
 | (d) | Applicants providing home-based services. |
 | (e) | Applicants providing drug abuse education and prevention services. |
 | 5712a to 5712c. Repealed. |  |
-| [5712d.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005712d%20-%20Grants%20for%20prevention%20of%20sexual%20abuse%20and%20exploitation.md) | Grants for prevention of sexual abuse and exploitation. |
+| [5712d.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005712d%20-%20Grants%20for%20prevention%20of%20sexual%20abuse%20and%20exploitation.md) | Grants for prevention of sexual abuse and exploitation. |
 | (a) | In general. |
 | (b) | Priority. |
 | (c) | Authorization of appropriations. |
 | (d) | Definitions. |
-| [5713\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005713%20-%20Approval%20of%20applications.md) | Approval of applications. |
+| [5713\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005713%20-%20Approval%20of%20applications.md) | Approval of applications. |
 | (a) | In general. |
 | (b) | Priority. |
-| [5714\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Runaway%20and%20Homeless%20Youth%20Grant%20Program/%C2%A7%2005714%20-%20Grants%20to%20private%20entities%3B%20staffing.md) | Grants to private entities; staffing. |
+| [5714\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005714%20-%20Grants%20to%20private%20entities%3B%20staffing.md) | Grants to private entities; staffing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -200,6 +200,9 @@
 | :--- | ---: |
 | 5714–1. | Authority for program. |
 | 5714–2. | Eligibility. |
+| (a) | In general. |
+| (b) | Priority. |
+| (c) | Definition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -221,8 +224,8 @@
 | (a) | Authorization; purposes. |
 | (b) | Selection factors; special consideration. |
 | (c) | Priority. |
-| 5714–24. | Temporary demonstration projects to provide services to youth in rural areas. |
-| 5714–25. | Study. |
+| 5714–24. | Demonstration projects to provide services to youth in rural areas. |
+| 5714–25. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -259,6 +262,9 @@
 | [5751\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005751%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Separate identification required. |
+| [5752\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005752%20-%20Restriction%20on%20use%20of%20funds.md) | Restrictions on use of funds. |
+| (a) | In general. |
+| (b) | Separate accounting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -309,6 +315,54 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—PUBLIC OUTREACH
+
+#### Part A—AMBER Alert
+
+|  |  |
+| :--- | ---: |
+| [5791\.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791%20-%20National%20coordination%20of%20AMBER%20Alert%20communications%20network.md) | National coordination of AMBER Alert communications network. |
+| (a) | Coordination within Department of Justice. |
+| (b) | Duties. |
+| (c) | Consultation with Federal Bureau of Investigation. |
+| (d) | Cooperation. |
+| (e) | Report. |
+| [5791a.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791a%20-%20Minimum%20standards%20for%20issuance%20and%20dissemination%20of%20alerts%20through%20AMBER%20Alert%20communications%20network.md) | Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network. |
+| (a) | Establishment of minimum standards. |
+| (b) | Limitations. |
+| (c) | Cooperation. |
+| [5791b.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791b%20-%20Grant%20program%20for%20notification%20and%20communications%20systems%20along%20highways%20for%20recovery%20of%20abducted%20children.md) | Grant program for notification and communications systems along highways for recovery of abducted children. |
+| (a) | Program required. |
+| (b) | Development grants. |
+| (c) | Implementation grants. |
+| (d) | Federal share. |
+| (e) | Distribution of grant amounts. |
+| (f) | Administration. |
+| (g) | Definition. |
+| (h) | Authorization of appropriations. |
+| (i) | Study of State programs. |
+| [5791c.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791c%20-%20Grant%20program%20for%20support%20of%20AMBER%20Alert%20communications%20plans.md) | Grant program for support of AMBER Alert communications plans. |
+| (a) | Program required. |
+| (b) | Activities. |
+| (c) | Federal share. |
+| (d) | Distribution of grant amounts on geographic basis. |
+| (e) | Administration. |
+| (f) | Authorization of appropriations. |
+| [5791d.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20A%20-%20AMBER%20Alert/%C2%A7%2005791d%20-%20Limitation%20on%20liability.md) | Limitation on liability. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Missing Children Procedures in Public Buildings
+
+|  |  |
+| :--- | ---: |
+| [5792\.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20B%20-%20Missing%20Children%20Procedures%20in%20Public%20Buildings/%C2%A7%2005792%20-%20Definitions.md) | Definitions. |
+| [5792a.](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/Part%20B%20-%20Missing%20Children%20Procedures%20in%20Public%20Buildings/%C2%A7%2005792a%20-%20Procedures%20in%20public%20buildings%20regarding%20a%20missing%20or%20lost%20child.md) | Procedures in public buildings regarding a missing or lost child. |
+| (a) | In general. |
+| (b) | Notification and search procedures. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 3797, 11804 of this title; title 20 sections 5964, 6434, 6453, 6455; title 25 sections 2433, 2453, 2454.
@@ -323,3 +377,4 @@ This chapter is referred to in sections 3797, 11804 of this title; title 20 sect
 - [Subchapter 003 (III) - Runaway and Homeless Youth](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/README.md)
 - [Subchapter 004 (IV) - Missing Children](Subchapter%20004%20%28IV%29%20-%20Missing%20Children/README.md)
 - [Subchapter 005 (V) - Incentive Grants for Local Delinquency Prevention Programs](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/README.md)
+- [Subchapter 006 (VI) - Public Outreach](Subchapter%20006%20%28VI%29%20-%20Public%20Outreach/README.md)

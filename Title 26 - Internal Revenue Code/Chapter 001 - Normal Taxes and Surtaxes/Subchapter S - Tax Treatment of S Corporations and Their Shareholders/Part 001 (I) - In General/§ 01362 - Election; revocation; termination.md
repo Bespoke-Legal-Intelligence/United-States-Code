@@ -182,7 +182,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (B) C short year
 
-&emsp;&emsp;The portion of such year beginning on such 1st day shall be treated as a short taxable year for which the corporation is a C corporation.
+&emsp;&emsp;The portion of such year beginning on such 1st day shall be treated as a short taxableyear for which the corporation is a C corporation.
 
 #### (2) Pro rata allocation
 
@@ -356,7 +356,7 @@ Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1
 
 Section 102(d)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1808(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that: “If a commodities dealer or an options dealer—
 
-&emsp;“(A) becomes a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) at any time before the close of the 75th day after the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;“(A) becomes a small business corporation (as defined in section 1361(b) of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\]) at any time before the close of the 75th day after the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;“(B) makes the election under section 1362(a) of such Code before the close of such 75th day,
 

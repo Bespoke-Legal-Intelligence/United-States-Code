@@ -20,7 +20,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (3) An individual may be appointed as a member of a board under this section only if the individual has a security clearance that affords the individual access to all information relating to the whereabouts and status of the missing persons covered by the inquiry.
 
-(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
+(4) A Secretary appointing a board under this subsection shall, for purposes of providing legalcounsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
 
 (d)
 
@@ -90,13 +90,13 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 
-(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that thereport may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
+(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that the report may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
 
 (i)
 
 Determination by Secretary.—(1) Not later than 30 days after receiving a report from a board under subsection (h), the Secretary receiving the report shall review the report.
 
-(2) In reviewing a report under paragraph (1), the Secretary shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
+(2) In reviewing a report under paragraph (1), the Secretary shall determine whether or notthe report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
 (3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
 

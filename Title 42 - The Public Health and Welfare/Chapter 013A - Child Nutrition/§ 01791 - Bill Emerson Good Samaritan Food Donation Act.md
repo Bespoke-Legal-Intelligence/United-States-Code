@@ -30,7 +30,7 @@ As used in this section:
 
 #### (6) Grocery product
 
-&emsp;The term “grocery product” means a nonfood grocery product, including a disposable paper or plastic product, household cleaning product, laundry detergent, cleaning product, or miscellaneous household item.
+&emsp;The term “grocery product” means a nonfood grocery product, including a disposable paper or plastic product, household cleaningproduct, laundry detergent, cleaning product, or miscellaneous household item.
 
 #### (7) Gross negligence
 

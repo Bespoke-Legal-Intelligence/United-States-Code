@@ -18,7 +18,3 @@ Prior sections 300aa–7 to 300aa–9, act July 1, 1944, §§2108–2110, respec
 
 1990—Pub. L. 101–502 substituted provisions authorizing appropriations for fiscal years 1991 through 1995 for provisions authorizing appropriations for fiscal years 1987 through 1991 in subsecs. (a) and (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 300aa–2 of this title.
-

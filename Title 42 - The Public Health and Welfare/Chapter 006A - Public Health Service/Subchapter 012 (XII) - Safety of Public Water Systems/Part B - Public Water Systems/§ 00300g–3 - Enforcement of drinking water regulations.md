@@ -52,7 +52,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(ii) perform monitoring required by section 300j–4(a) of this title.
 
-&emsp;&emsp;(B) If the public water system is subject to a variance granted under subsection\(a)(1)(A), (a)(2), or (e) of section 300g–4 of this title for an inability to meet a maximum contaminant level requirement or is subject to an exemption granted under section 300g–5 of this title, notice of—
+&emsp;&emsp;(B) If the public water system is subject to a variance granted under subsection (a)(1)(A), (a)(2), or (e) of section 300g–4 of this title for an inability to meet a maximum contaminant level requirement or is subject to an exemption granted under section 300g–5 of this title, notice of—
 
 &emsp;&emsp;&emsp;(i) the existence of the variance or exemption; and
 
@@ -148,7 +148,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (A) Annual reports to consumers
 
-&emsp;&emsp;The Administrator, in consultation with public water systems, environmental groups, public interest groups, risk communication experts, and the States, and other interested parties, shall issue regulations within 24 months after August 6, 1996, to require each community water system to mail to each customer of the system at least once annually a report on the level of contaminants in the drinking water purveyed by that system (referred to in this paragraph as a “consumer confidence report”). Such regulations shall provide a brief and plainly worded definition of the terms “maximum contaminant level goal”, “maximum contaminant level”, “variances”, and “exemptions” and brief statements in plain language regarding the health concerns that resulted in regulation of each regulated contaminant. The regulations shall also include a brief and plainly worded explanation regarding contaminants that may reasonably be expected to be present in drinking water, including bottled water. The regulations shall also provide for an Environmental Protection Agency toll-free hotline that consumers can call for more information and explanation.
+&emsp;&emsp;The Administrator, in consultation with public water systems, environmental groups, public interest groups, risk communication experts, and the States, and other interested parties, shall issue regulations within 24 months after August 6, 1996, to require each community water system to mail to each customer of the system at least once annually a report on the level of contaminants inthe drinking water purveyed by that system (referred to in this paragraph as a “consumer confidence report”). Such regulations shall provide a brief and plainly worded definition of the terms “maximum contaminant level goal”, “maximum contaminant level”, “variances”, and “exemptions” and brief statements in plain language regarding the health concerns that resulted in regulation of each regulated contaminant. The regulations shall also include a brief and plainly worded explanation regarding contaminants that may reasonably be expected to be present in drinking water, including bottled water. The regulations shall also provide for an Environmental Protection Agency toll-free hotline that consumers can call for more information and explanation.
 
 #### (B) Contents of report
 
@@ -172,7 +172,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;The Governor of a State may determine not to apply the mailing requirement of subparagraph (A) to a community water system serving fewer than 10,000 persons. Any such system shall—
 
-&emsp;&emsp;&emsp;(i) inform, in the newspaper notice required by clause (iii) or by other means, its customers that the system will not bemailing the report as required by subparagraph (A);
+&emsp;&emsp;&emsp;(i) inform, in the newspaper notice required by clause (iii) or by other means, its customers that the system will not be mailing the report as required by subparagraph (A);
 
 &emsp;&emsp;&emsp;(ii) make the consumer confidence report available upon request to the public; and
 
@@ -196,7 +196,7 @@ Whenever, on the basis of information available to him, the Administrator finds 
 
 #### (e) State authority to adopt or enforce laws or regulations respecting drinking water regulations or public water systems unaffected
 
-Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting drinking water regulations or public water systems, but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
+Nothing in this subchapter shall diminish any authority of a State or political subdivision toadopt or enforce any law or regulation respecting drinking water regulations or public water systems, but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
 #### (f) Notice and public hearing; availability of recommendations transmitted to State and public water system
 
@@ -218,7 +218,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 (B) In a case in which a civil penalty sought by the Administrator under this paragraph does not exceed $5,000, the penalty shall be assessed by the Administrator after notice and opportunity for a public hearing (unless the person against whom the penalty is assessed requests a hearing on the record in accordance with section 554 of title 5). In a case in which a civil penalty sought by the Administrator under this paragraph exceeds $5,000, but does not exceed $25,000, the penalty shall be assessed by the Administrator after notice and opportunity for a hearing on the record in accordance with section 554 of title 5.
 
-(C) Whenever any civil penalty sought by the Administrator under this subsection for a violation of an applicable requirement exceeds$25,000, the penalty shall be assessed by a civil action brought by the Administrator in the appropriate United States district court (as determined under the provisions of title 28).
+(C) Whenever any civil penalty sought by the Administrator under this subsection for a violation of an applicable requirement exceeds $25,000, the penalty shall be assessed by a civil action brought by the Administrator in the appropriate United States district court (as determined under the provisions of title 28).
 
 (D) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Administrator, the Attorney General shall recover the amount for which such person is liable in any appropriate district court of the United States. In any such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 

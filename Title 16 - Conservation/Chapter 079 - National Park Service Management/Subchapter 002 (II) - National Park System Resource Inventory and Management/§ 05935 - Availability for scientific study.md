@@ -6,7 +6,7 @@ The Secretary may solicit, receive, and consider requests from Federal or non-Fe
 
 #### (b) Criteria
 
-A request for use of a unit of the National Park System under subsection (a) of this section may only be approved if the Secretary determines that the proposed study—
+A request for use of a unit of the National Park System under subsection (a) of this sectionmay only be approved if the Secretary determines that the proposed study—
 
 &emsp;(1) is consistent with applicable laws and National Park Service management policies; and
 

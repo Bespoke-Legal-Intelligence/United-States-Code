@@ -32,7 +32,7 @@ In any action under subsection (a) of this section—
 
 &emsp;(2) the court may, in its discretion, award a reasonable attorney's fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.
 
-(Oct. 15, 1914, ch. 323, §4C, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1394; amended Pub. L. 96–349, §4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
+(Oct. 15, 1914, ch. 323, §4C, as added Pub. L. 94–435, title III, §301, Sept. 30, 1976, 90 Stat. 1394;amended Pub. L. 96–349, §4(a)(3), Sept. 12, 1980, 94 Stat. 1157.)
 
 #### References in Text
 

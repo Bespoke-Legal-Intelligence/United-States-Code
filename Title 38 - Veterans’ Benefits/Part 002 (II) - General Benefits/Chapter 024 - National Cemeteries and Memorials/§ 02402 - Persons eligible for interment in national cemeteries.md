@@ -22,21 +22,25 @@ Under such regulations as the Secretary may prescribe and subject to the provisi
 
 (4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-(5) The spouse, surviving spouse (which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
 
 (6) Such other persons or classes of persons as may be designated by the Secretary.
 
 (7) Any person who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
-(8) Any individual whose service is described in section 107(a) of this title if such individual at the time of death—
+(8) Any individual whose service is described in subsection (a) or (b) of section 107 of this title if such individual at the time of death—
 
 &emsp;(A) was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; and
 
 &emsp;(B) resided in the United States.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667.)
 
 #### Amendments
+
+2003—Par. (5). Pub. L. 108–183, §502(a), substituted “(which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage)” for “(which for purposes of this chapter includes an unremarried surviving spouse who had a subsequent remarriage which was terminated by death or divorce)”.
+
+Par. (8). Pub. L. 108–183, §212(b), substituted “subsection (a) or (b) of section 107” for “section 107(a)”.
 
 2000—Par. (7). Pub. L. 106–419, §404(a)(5), substituted “chapter 1223 of title 10” for “chapter 67 of title 10”.
 
@@ -61,6 +65,12 @@ Pub. L. 102–40 substituted “6105” for “3505” in introductory provision
 1986—Pars. (2), (3). Pub. L. 99–576, §701(54)(A), substituted “while such member” for “while he” wherever appearing.
 
 Par. (5). Pub. L. 99–576, §701(54)(B), struck out “wife, husband,” before “surviving spouse”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 212(b) of Pub. L. 108–183 applicable with respect to deaths occurring on or after Dec. 16, 2003, see section 212(c) of Pub. L. 108–183, set out as a note under section 107 of this title.
+
+Pub. L. 108–183, title V, §502(b), Dec. 16, 2003, 117 Stat. 2667, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to deaths occurring on or after January 1, 2000.”
 
 #### Effective Date of 2000 Amendment
 
@@ -100,5 +110,5 @@ Definitions.—For purposes of this section:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 107, 2301, 2306 of this title.
+This section is referred to in sections 107, 2301, 2303, 2306 of this title.
 

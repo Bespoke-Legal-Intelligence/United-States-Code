@@ -6,7 +6,7 @@ There is established within the Federal Government an Interagency Committee on E
 
 #### (b) Federal agencies; affirmative action program plans
 
-Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Suchplan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
+Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
 
 #### (c) State agencies; rehabilitated individuals, employment
 
@@ -58,9 +58,9 @@ Subsec. (e). Pub. L. 105–220, §408(a)(1)(B), substituted “individualized pl
 
 1992—Pub. L. 102–569, §102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
 
-Subsec. (a). Pub. L. 102–569, §503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
+Subsec. (a). Pub. L. 102–569, §503(a), substituted “the Director of the Office of Personnel Management, theSecretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
 
-Pub. L. 102–569, §102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee onHandicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
+Pub. L. 102–569, §102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
 
 Subsec. (b). Pub. L. 102–569, §102(p)(29)(C), (D), substituted “individuals with disabilities” for “individuals with handicaps” after “advancement of” and after “opportunities for” and “employees who are individuals with disabilities” for “employees with handicaps”.
 
@@ -132,7 +132,7 @@ Ex. Ord. No. 10640, Oct. 10, 1955, 20 F.R. 7717, formerly set out as a note unde
 
 #### Executive Order No. 10994
 
-Ex. Ord. No. 10994, Feb. 14, 1962, 27 F.R. 1447, as amended by Ex. Ord. No. 11018, Apr. 27, 1962, 27 F.R.4143, which established the President's Committee on Employment of the Handicapped, was superseded by Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, formerly set out below.
+Ex. Ord. No. 10994, Feb. 14, 1962, 27 F.R. 1447, as amended by Ex. Ord. No. 11018, Apr. 27, 1962, 27 F.R. 4143, which established the President's Committee on Employment of the Handicapped, was superseded by Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, formerly set out below.
 
 #### Executive Order No. 11480
 

@@ -8,7 +8,7 @@ The Secretary may make grants and enter into contracts under this subsection to 
 
 &emsp;(2) be responsive to the needs or problems of individual States or regions.
 
-> The total amount paid pursuant to any such grant or contract may equal 662/3 percent, or anylesser percent, of the total cost of the sea grant program or project involved; except that this limitation shall not apply in the case of grants or contracts paid for with funds accepted by the Secretary under section 1123(c)(4)(F) of this title.
+> The total amount paid pursuant to any such grant or contract may equal 662/3 percent, or any lesser percent, of the total cost of the sea grant program or project involved; except that this limitation shall not apply in the case of grants or contracts paid for with funds accepted by the Secretary under section 1123(c)(4)(F) of this title.
 
 #### (b) Special grants; maximum amount; prerequisites
 
@@ -54,7 +54,7 @@ Any person may apply to the Secretary for a grant or contract under this section
 
 1980—Subsec. (d)(2). Pub. L. 96–289 authorized application of any payment under a grant or contract to the short-term rental of buildings or facilities for meetings which are in direct support of any sea grant program or project.
 
-1978—Subsec. (a). Pub. L. 95–428 made the percentage limitation inapplicable to grants or contracts paid for with funds accepted by the Secretary under section 1123(d)(6) of this title.
+1978—Subsec. (a). Pub. L. 95–428 made the percentage limitation inapplicable to grants or contracts paid forwith funds accepted by the Secretary under section 1123(d)(6) of this title.
 
 1976—Pub. L. 94–461 substituted provisions covering program or project grants and contracts for provisions authorizing the study of ways to share with other countries the results of marine research useful in the exploration, development, conservation, and management of marine resources.
 

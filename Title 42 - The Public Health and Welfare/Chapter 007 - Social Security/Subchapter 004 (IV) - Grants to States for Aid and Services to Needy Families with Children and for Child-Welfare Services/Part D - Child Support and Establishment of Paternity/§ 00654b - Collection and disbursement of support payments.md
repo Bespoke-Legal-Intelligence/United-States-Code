@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order for a State to meet the requirements of this section, the State agency must establish and operate a unit (which shall be known as the “State disbursement unit”) for the collection and disbursement of payments under support orders—
+&emsp;In order for a State to meet the requirements of this section, the State agency mustestablish and operate a unit (which shall be known as the “State disbursement unit”) for the collection and disbursement of payments under support orders—
 
 &emsp;&emsp;(A) in all cases being enforced by the State pursuant to section 654(4) of this title; and
 

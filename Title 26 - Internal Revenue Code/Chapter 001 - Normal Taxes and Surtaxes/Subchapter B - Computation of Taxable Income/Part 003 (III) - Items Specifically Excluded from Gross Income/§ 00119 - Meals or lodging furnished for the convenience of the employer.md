@@ -124,7 +124,7 @@ Section 1886(d)(5)(B) or (h) of the Social Security Act, referred to in subsec. 
 
 Educational institution.—For purposes of this paragraph, the term ‘educational institution’ means an institution described in section 170(b)(1)(A)(ii).”
 
-1988—Subsec. (d). Pub. L. 100–647 struck out “(as of the close of the calendar year in which the taxable year begins)” after “appraised value” in par. (2)(A)(i) and inserted at end “The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins.” as concluding provision.
+1988—Subsec. (d). Pub. L. 100–647 struck out “(as of the close of the calendar year in which the taxable year begins)” after “appraised value” in par. (2)(A)(i) and inserted at end “The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in thecase of a rental period not greater than 1 year, at any time during the calendar year in which such period begins.” as concluding provision.
 
 1986—Subsec. (d). Pub. L. 99–514 added subsec. (d).
 

@@ -66,7 +66,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (g) Notice and public comment
 
-The Secretary shall hold public hearings and shall develop detailed regulations, with notice and public comment, to guide the implementation of the standards for livestock products provided under this section.
+The Secretary shall hold public hearings and shall develop detailed regulations, with noticeand public comment, to guide the implementation of the standards for livestock products provided under this section.
 
 (Pub. L. 101–624, title XXI, §2110, Nov. 28, 1990, 104 Stat. 3940; Pub. L. 102–237, title X, §1001(2), Dec. 13, 1991, 105 Stat. 1893.)
 

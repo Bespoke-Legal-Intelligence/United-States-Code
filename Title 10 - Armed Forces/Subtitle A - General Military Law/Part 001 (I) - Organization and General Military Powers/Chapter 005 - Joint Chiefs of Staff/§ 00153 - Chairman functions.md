@@ -1,6 +1,8 @@
 ### §153. Chairman: functions
 
-Subject <sup>1</sup> to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
+(a)
+
+Planning; Advice; Policy Formulation.—Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
 
 &emsp;(1)
 
@@ -8,7 +10,7 @@ Strategic Direction.—Assisting the President and the Secretary of Defense in p
 
 &emsp;(2)
 
-Strategic Planning.—(A) Preparing strategic plans, including plans which conformwith resource levels projected by the Secretary of Defense to be available for the period of time for which the plans are to be effective.
+Strategic Planning.—(A) Preparing strategic plans, including plans which conform with resource levels projected by the Secretary of Defense to be available for the period of time for which the plans are to be effective.
 
 &emsp;(B) Preparing joint logistic and mobility plans to support those strategic plans and recommending the assignment of logistic and mobility responsibilities to the armed forces in accordance with those logistic and mobility plans.
 
@@ -20,7 +22,7 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 &emsp;(B) Preparing joint logistic and mobility plans to support those contingency plans and recommending the assignment of logistic and mobility responsibilities to the armed forces in accordance with those logistic and mobility plans.
 
-&emsp;(C) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths on meeting national security objectives and policy and on strategic plans.
+&emsp;(C) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths onmeeting national security objectives and policy and on strategic plans.
 
 &emsp;(D) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniform system of evaluating the preparedness of each such command to carry out missions assigned to the command.
 
@@ -52,17 +54,17 @@ Other Matters.—(A) Providing for representation of the United States on the Mi
 
 &emsp;(B) Performing such other duties as may be prescribed by law or by the President or the Secretary of Defense.
 
-\[(b) Repealed. Pub. L. 107–107, div. A, title IX, §921(b)(2), Dec. 28, 2001, 115 Stat. 1198.\]
+(b)
 
-(c)
-
-Risks Under National Military Strategy.—(1) Not later than January 1 each year, the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.
+Risks Under National Military Strategy.—(1) Not later than January 1 of each odd-numbered year, the Chairman shall submit to the Secretary of Defense a report providing the Chairman's assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.
 
 (2) The Secretary shall forward the report received under paragraph (1) in any year, with the Secretary's comments thereon (if any), to Congress with the Secretary's next transmission to Congress of the annual Department of Defense budget justification materials in support of the Department of Defense component of the budget of the President submitted under section 1105 of title 31 for the next fiscal year. If the Chairman's assessment in such report in any year is that risk associated with executing the missions called for under the National Military Strategy is significant, the Secretary shall include with the report as submitted to Congress the Secretary's plan for mitigating that risk.
 
-(d)
+(c)
 
-Annual Report on Combatant Command Requirements.—(1) At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, the Chairman shall submit to the committees of Congress named in paragraph (2) a report on the requirements of the combatant commands established under section 161 of this title. The report shall contain the following:
+Annual Report on Combatant Command Requirements.—(1) At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, the Chairman shall submit to the congressional defense committees a report on the requirements of the combatant commands established under section 161 of this title.
+
+(2) Each report under paragraph (1) shall contain the following:
 
 &emsp;(A) A consolidation of the integrated priority lists of requirements of the combatant commands.
 
@@ -72,11 +74,51 @@ Annual Report on Combatant Command Requirements.—(1) At or about the time that
 
 &emsp;(D) A description of the funding proposed in the President's budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
 
-(2) The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.
+(d)
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A,title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198.)
+Biennial Review of National Military Strategy.—(1) Not later then February 15 of each even-numbered year, the Chairman shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the results of a comprehensive examination of the national military strategy. Each such examination shall be conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified commands.
+
+(2) Each report on the examination of the national military strategy under paragraph (1) shall include the following:
+
+&emsp;(A) Delineation of a national military strategy consistent with—
+
+&emsp;&emsp;(i) the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+
+&emsp;&emsp;(ii) the most recent annual report of the Secretary of Defense submitted to the President and Congress pursuant to section 113 of this title; and
+
+&emsp;&emsp;(iii) the most recent Quadrennial Defense Review conducted by the Secretary of Defense pursuant to section 118 of this title.
+
+&emsp;(B) A description of the strategic environment and the opportunities and challenges that affect United States national interests and United States national security.
+
+&emsp;(C) A description of the regional threats to United States national interests and United States national security.
+
+&emsp;(D) A description of the international threats posed by terrorism, weapons of massdestruction, and asymmetric challenges to United States national security.
+
+&emsp;(E) Identification of United States national military objectives and the relationship of those objectives to the strategic environment, regional, and international threats.
+
+&emsp;(F) Identification of the strategy, underlying concepts, and component elements that contribute to the achievement of United States national military objectives.
+
+&emsp;(G) Assessment of the capabilities and adequacy of United States forces (including both active and reserve components) to successfully execute the national military strategy.
+
+&emsp;(H) Assessment of the capabilities, adequacy, and interoperability of regional allies of the United States and or other friendly nations to support United States forces in combat operations and other operations for extended periods of time.
+
+(3)(A) As part of the assessment under this subsection, the Chairman, in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified commands, shall undertake an assessment of the nature and magnitude of the strategic and military risks associated with successfully executing the missions called for under the current National Military Strategy.
+
+(B) In preparing the assessment of risk, the Chairman should make assumptions pertaining to the readiness of United States forces (in both the active and reserve components), the length of conflict and the level of intensity of combat operations, and the levels of support from allies and other friendly nations.
+
+(4) Before submitting a report under this subsection to the Committees on Armed Services of the Senate and House of Representatives, the Chairman shall provide the report to the Secretary of Defense. The Secretary's assessment and comments thereon (if any) shall be included with the report. If the Chairman's assessment in such report in any year is that the risk associated with executing the missions called for under the National Military Strategy is significant, the Secretary shall include with the report as submitted to those committees the Secretary's plan for mitigating the risk.
+
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610.)
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–136, §903(b), substituted “of each odd-numbered year” for “each year”.
+
+Subsec. (c). Pub. L. 108–136, §1043(b)(2), in par. (1), substituted “congressional defense committees” for “committees of Congress named in paragraph (2)”, designated the second sentence of par. (1) as par. (2), in par. (2), substituted “Each report under paragraph (1)” for “The report”, and struck out former par. (2) which read as follows: “The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
+
+Subsec. (d). Pub. L. 108–136, §903(a), added subsec. (d).
+
+2002—Pub. L. 107–314 inserted subsec. (a) heading and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
 2001—Subsec. (a). Pub. L. 107–107, §921(b)(1), struck out “(a)
 
@@ -116,97 +158,17 @@ PERSTEMPO Measurement.—The measurement of personnel tempo developed by the Cha
 
 #### Annual Assessment of Force Readiness
 
-Pub. L. 103–160, div. A, title III, §376, Nov. 30, 1993, 107 Stat. 1637, provided that:
-
-“(a)
-
-Annual Assessment Required.—Not later than March 1 of each of 1994, 1995, and 1996, the Chairman of the Joint Chiefs of Staff shall submit to the Congress an assessment of—
-
-&emsp;“(1) the readiness and capability of the Armed Forces to carry out the full range of the missions assigned to the Armed Forces; and
-
-&emsp;“(2) the associated level or degree of risk for the Armed Forces in responding to current and anticipated threats to national security interests of the United States.
-
-“(b)
-
-Content of Assessment.—Each assessment shall include, for the five-year period described in subsection (c), the following matters:
-
-&emsp;“(1) An unclassified description of the current and projected readiness and capability of the Armed Forces taking into consideration each of the following areas:
-
-&emsp;&emsp;“(A) Personnel.
-
-&emsp;&emsp;“(B) Training and exercises.
-
-&emsp;&emsp;“(C) Logistics, including equipment maintenance and supply availability.
-
-&emsp;&emsp;“(D) Equipment modernization.
-
-&emsp;&emsp;“(E) Installations, real property, and facilities.
-
-&emsp;&emsp;“(F) Munitions.
-
-&emsp;&emsp;“(G) Mobility.
-
-&emsp;&emsp;“(H) Wartime sustainability.
-
-&emsp;“(2) The personal assessment of the Chairman of the Joint Chiefs of Staff regarding the readiness and capabilities of the Armed Forces, together with the Chairman's personal judgment on whether there are significant problems or risks regarding the readiness and capabilities of the Armed Forces.
-
-&emsp;“(3) Any factors that the Chairman or any other member of the Joint Chiefs of Staff believes may lead to a decrease in force readiness or a degradation in the overall capability of the Armed Forces.
-
-&emsp;“(4) Any recommended actions that the Chairman of the Joint Chiefs of Staff considers appropriate.
-
-&emsp;“(5) Any classified annexes that the Chairman of the Joint Chiefs of Staff considers appropriate.
-
-“(c)
-
-Period Assessed.—The assessment shall include information for the fiscal year in which the assessment is submitted, the three preceding fiscal years, and projections for the subsequent fiscal year.
-
-“(d)
-
-Interim Assessments.—If, at any time between submissions of assessments to the Congress under subsection (a), the Chairman of the Joint Chiefs of Staff determines that there is a significant change in the projected readiness or capability of the Armed Forces from the readiness or capability projected in the most recent annual assessment, the Chairman shall submit to the Congress a revised assessment that reflects each such significant change.”
+Pub. L. 103–160, div. A, title III, §376, Nov. 30, 1993, 107 Stat. 1637, provided for an annual assessment of readiness and capability of the Armed Forces by the Chairman of the Joint Chiefs of Staff to be submitted to Congress not later than March 1 of each of 1994, 1995, and 1996 and for interim assessments between annual submissions in the event of a significant change in readiness or capability of the Armed Forces.
 
 #### Report of Chairman of Joint Chiefs of Staff on Roles and Missions of Armed Forces
 
-Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided that:
-
-“(a)
-
-Report.—(1) The Secretary of Defense shall transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that is submitted to the Secretary by the Chairman of the Joint Chiefs of Staff under section 153(b) of title 10, United States Code, after January 1, 1992.
-
-“(2) The Secretary shall transmit the report, together with his views on the report, within 30 days after receiving the report.
-
-“(b)
-
-Additional Matters.—In addition to the matters required under such section 153(b), the Chairman shall include in the report referred to in subsection (a) the Chairman's comments and recommendations regarding the following matters:
-
-&emsp;“(1) Reassessing the roles and missions assigned to each of the Armed Forces (under the Key West agreement of 1947 and subsequent actions by the various Secretaries of Defense and the Congress) in light of the new national security environment resulting from the end of the Cold War.
-
-&emsp;“(2) The extent to which the efficiency of the Armed Forces in carrying out their roles and missions can be enhanced by—
-
-&emsp;&emsp;“(A) the elimination or reduction of duplication in the capabilities of the military departments and Defense Agencies without an undue diminution in their effectiveness; and
-
-&emsp;&emsp;“(B) the consolidation or streamlining of organizations and activities within the military departments and Defense Agencies.
-
-&emsp;“(3) Changes in the operational tempo of forces stationed in the continental United States and changes in deployment patterns and operational tempo of forces deployed outside the United States.
-
-&emsp;“(4) Changes in the readiness status of units based upon time-phased force deployment plans.
-
-&emsp;“(5) Transfers of functions from the active components of the Armed Forces to the reserve components of the Armed Forces.”
+Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staffunder subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
 
 #### Transition Provisions
 
-Section 204(a), (b) of Pub. L. 99–433 provided that:
-
-“(a)
-
-Preparedness Evaluation System.—The uniform system of evaluating the preparedness of each unified and specified combatant command required to be established by paragraph (3)(D) of section 153(a) of title 10, United States Code, as added by section 201 of this Act, shall be established not later than one year after the date of the enactment of this Act \[Oct. 1, 1986\].
-
-“(b)
-
-Date for First Report.—The first report under section 153(b) of title 10, United States Code, as added by section 201 of this Act, shall be submitted by the Chairman of the Joint Chiefs of Staff not later than two years after the date of the enactment of this Act \[Oct. 1, 1986\].”
+Pub. L. 99–433, title II, §204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provided dates for establishment of the uniform system of evaluating the preparedness of each unified and specified combatant command and for submission of the first report.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2464 of this title.
-
-<i><sup>1</sup></i><i> So in original. See 2001 Amendment note below.</i>
 

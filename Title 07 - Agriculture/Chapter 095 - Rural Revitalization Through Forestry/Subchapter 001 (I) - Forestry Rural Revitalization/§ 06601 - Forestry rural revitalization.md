@@ -24,7 +24,27 @@ The Secretary of Agriculture shall establish specific programs under subsection 
 
 &emsp;(3) use the full resources of the Cooperative Extension Service, including land-grant universities and county offices, to promote economic development that is sustainable and environmentally sound.
 
-(Pub. L. 101–624, title XXIII, §2371, Nov. 28, 1990, 104 Stat. 4045.)
+#### (d) Rural revitalization technologies
+
+#### (1) In general
+
+&emsp;The Secretary of Agriculture, acting through the Chief of the Forest Service, in consultation with the State and Private Forestry Technology Marketing Unit at the Forest Products Laboratory, and in collaboration with eligible institutions, may carry out a program—
+
+&emsp;&emsp;(A) to accelerate adoption of technologies using biomass and small-diameter materials;
+
+&emsp;&emsp;(B) to create community-based enterprises through marketing activities and demonstration projects; and
+
+&emsp;&emsp;(C) to establish small-scale business enterprises to make use of biomass and small-diameter materials.
+
+#### (2) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2004 through 2008.
+
+(Pub. L. 101–624, title XXIII, §2371, Nov. 28, 1990, 104 Stat. 4045; Pub. L. 108–148, title II, §202, Dec. 3, 2003, 117 Stat. 1902.)
+
+#### Amendments
+
+2003—Subsec. (d). Pub. L. 108–148 added subsec. (d).
 
 #### Short Title
 

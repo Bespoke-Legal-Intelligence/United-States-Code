@@ -74,7 +74,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (1) General requirement
 
-&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor duringthe period in which an affidavit of support is enforceable.
 
 #### (2) Penalty
 
@@ -272,7 +272,7 @@ Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1
 
 #### Benefits Not Subject to Reimbursement
 
-Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B),\(f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;“(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 

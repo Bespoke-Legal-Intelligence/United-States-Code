@@ -110,6 +110,10 @@ Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(3)\], substituted “Archer MS
 
 Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
 
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+
 #### Effective Date
 
 Section 4006(c) of Pub. L. 105–33 provided that: “The amendments made by this section \[enacting this section, amending sections 220 and 4973 of this title, and renumbering former section 138 of this title as section 139 of this title\] shall apply to taxable years beginning after December 31, 1998.”

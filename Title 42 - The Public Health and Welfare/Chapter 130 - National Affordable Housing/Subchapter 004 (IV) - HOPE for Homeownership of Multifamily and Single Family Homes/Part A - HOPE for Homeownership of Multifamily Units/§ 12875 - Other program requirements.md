@@ -22,7 +22,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (B) Right to purchase
 
-&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firm contract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
+&emsp;&emsp;Where a resident management corporation, resident council, or cooperative has jurisdiction over the unit, the corporation, council, or cooperative shall have the right to purchase the ownership interest in, or shares representing, the unit from the homeowner for the amount specified in a firmcontract between the homeowner and a prospective buyer. If such an entity does not have jurisdiction over the unit or elects not to purchase and if the prospective buyer is not a low-income family, the public housing agency or the implementation grant recipient shall have the right to purchase the ownership interest in, or shares representing, the unit for the same amount.
 
 #### (C) Promissory note required
 
@@ -46,7 +46,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (4) Use of recaptured funds
 
-&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to thehomeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
+&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
 
 #### (e) Third party rights
 

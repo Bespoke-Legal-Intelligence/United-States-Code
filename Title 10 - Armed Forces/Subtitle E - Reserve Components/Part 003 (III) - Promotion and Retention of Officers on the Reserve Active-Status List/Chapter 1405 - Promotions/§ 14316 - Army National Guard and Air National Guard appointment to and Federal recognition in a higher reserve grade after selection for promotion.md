@@ -6,7 +6,7 @@ Opportunity for Promotion To Fill a Vacancy in the Guard.—If an officer of the
 
 (b)
 
-Automatic Federal Recognition.—An officer of the Army National Guard of the United States or the Air National Guard of the United States who is on a promotion list for promotion to the next higher grade as a result of selectionfor promotion as described in subsection (a) and who before the date of promotion is appointed in that higher grade to fill a vacancy in the Army National Guard or Air National Guard shall—
+Automatic Federal Recognition.—An officer of the Army National Guard of the United States or the Air National Guard of the United States who is on a promotion list for promotion to the next higher grade as a result of selection for promotion as described in subsection (a) and who before the date of promotion is appointed in that higher grade to fill a vacancy in the Army National Guard or Air National Guard shall—
 
 &emsp;(1) be extended Federal recognition in that grade, without the examination prescribed in section 307 of title 32; and
 

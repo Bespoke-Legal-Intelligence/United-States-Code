@@ -44,11 +44,11 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(iv) the availability of assistive technology, assistive technology services, or rehabilitation technology, or information about assistive technology, assistive technology services, or rehabilitation technology to individuals with developmental disabilities;
 
-&emsp;&emsp;&emsp;(v) the numbers of individuals with developmental disabilities on waiting lists for services described in this subparagraph;
+&emsp;&emsp;&emsp;(v) the numbers of individuals with developmental disabilities on waiting listsfor services described in this subparagraph;
 
 &emsp;&emsp;&emsp;(vi) a description of the adequacy of current resources and projected availability of future resources to fund services described in this subparagraph;
 
-&emsp;&emsp;&emsp;(vii) a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are in facilities receive (based in part on each independent review (pursuant to section 1396a(a)(30)(C)of this title) of an Intermediate Care Facility (Mental Retardation) within the State, which the State shall provide to the Council not later than 30 days after the availability of the review); and
+&emsp;&emsp;&emsp;(vii) a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are in facilities receive (based in part on each independent review (pursuant to section 1396a(a)(30)(C) of this title) of an Intermediate Care Facility (Mental Retardation) within the State, which the State shall provide to the Council not later than 30 days after the availability of the review); and
 
 &emsp;&emsp;&emsp;(viii) to the extent that information is available, a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under section 1396n(c) of this title) receive;
 
@@ -114,7 +114,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (D) Conflict of interest
 
-&emsp;&emsp;The plan shall provide an assurance that no member of such Council will cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest.
+&emsp;&emsp;The plan shall provide an assurance that no member of such Council will cast a voteon any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest.
 
 #### (E) Urban and rural poverty areas
 
@@ -176,7 +176,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (c)(5)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81,as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -156,7 +156,7 @@ Sec. 56. \[Amended Ex. Ord. No. 11926, set out as a note preceding section 1121 
 
 Sec. 57. \[Amended Ex. Ord. No. 11858, set out as a note under section 78b of Title 15, Commerce and Trade.\]
 
-Sec. 58. \[Amended Ex. Ord. No. 11800, set out as a note under section 301a of Title 37, Pay and Allowances of the Uniformed Services.\]
+Sec. 58. \[Amended Ex. Ord. No. 11800, formerly set out as a note under section 301a of Title 37, Pay and Allowances of the Uniformed Services.\]
 
 Sec. 59. \[Amended Ex. Ord. No. 11645, set out as a note under section 475 of Title 14, Coast Guard.\]
 

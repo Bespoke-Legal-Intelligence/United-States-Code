@@ -10,7 +10,7 @@ To be eligible for benefits from the Facility under this subchapter, a country s
 
 &emsp;&emsp;(A) an International Monetary Fund (hereafter referred to in this subchapter as the “IMF”) standby arrangement, extended IMF arrangement, or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, an IMF-monitored program or its equivalent; and
 
-&emsp;&emsp;(B) as appropriate, structural or sectoral adjustment loans from the InternationalBank for Reconstruction and Development (hereafter referred to in this subchapter as the “World Bank”) or the International Development Association (hereafter referred to in this subchapter as the “IDA”);
+&emsp;&emsp;(B) as appropriate, structural or sectoral adjustment loans from the International Bank for Reconstruction and Development (hereafter referred to in this subchapter as the “World Bank”) or the International Development Association (hereafter referred to in this subchapter as the “IDA”);
 
 &emsp;(3) have placed into effect major investment reforms in conjunction with an Inter-American Development Bank (hereafter referred to as the “IDB”) loan or otherwise be implementing, or making significant progress towards an open investment regime; and
 

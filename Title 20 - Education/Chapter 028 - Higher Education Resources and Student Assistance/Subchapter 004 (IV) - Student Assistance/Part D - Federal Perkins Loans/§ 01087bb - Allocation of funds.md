@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(i) 25 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
-&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;&emsp;(ii) the average cost of attendance for all undergraduate students minus the expectedfamily contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 
@@ -152,7 +152,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g) of this section) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after the submission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
+&emsp;&emsp;For fiscal year 2000 and any succeeding fiscal year, any institution with a cohort default rate (as defined in subsection (g) of this section) that equals or exceeds 50 percent for each of the 3 most recent years for which data are available shall not be eligible to participate in a program under this part for the fiscal year for which the determination is made and the 2 succeeding fiscal years, unless, within 30 days of receiving notification from the Secretary of the loss of eligibility under this paragraph, the institution appeals the loss of eligibility to the Secretary. The Secretary shall issue a decision on any such appeal within 45 days after thesubmission of the appeal. Such decision may permit the institution to continue to participate in a program under this part if—
 
 &emsp;&emsp;&emsp;(i) the institution demonstrates to the satisfaction of the Secretary that the calculation of the institution's cohort default rate is not accurate, and that recalculation would reduce the institution's cohort default rate for any of the 3 fiscal years below 50 percent; or
 
@@ -176,7 +176,7 @@
 
 #### (E) Definition
 
-&emsp;&emsp;For the purposes of subparagraph (A), the term “loss of eligibility” shall be defined asthe mandatory liquidation of an institution's student loan fund, and assignment of the institution's outstanding loan portfolio to the Secretary.
+&emsp;&emsp;For the purposes of subparagraph (A), the term “loss of eligibility” shall be defined as the mandatory liquidation of an institution's student loan fund, and assignment of the institution's outstanding loan portfolio to the Secretary.
 
 #### (f) Applicable maximum cohort default rate
 
@@ -408,7 +408,7 @@ Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior t
 
 Subsec. (h). Pub. L. 102–325, §462(e), substituted “Definitions of default rate and cohort default rate” for “Definition of default rate” in heading, in par. (1) substituted “For any award year prior to award year 1994, for the purpose” for “For the purpose”, added par. (3), redesignated former par. (3) as (4), substituted “240” for “120” in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: “180 days (in the case of a loan repayable quarterly),”.
 
-Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
+Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read asfollows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
 
 1987—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
 

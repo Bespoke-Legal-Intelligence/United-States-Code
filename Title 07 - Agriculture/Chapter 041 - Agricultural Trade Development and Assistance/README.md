@@ -564,10 +564,6 @@ Deadline for agreements under Subchapters II and III–A of this chapter.
 
 Annual reports.
 
-(g)
-
-World Food Day report.
-
 |  |  |
 | :--- | ---: |
 | [1736b.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001736b%20-%20Expiration%20date.md) | Expiration date. |
@@ -759,6 +755,10 @@ Presidential approval.
 (n)
 
 Program management.
+
+(<i>o</i>)
+
+Private voluntary organizations and other private entities.
 
 |  |  |
 | :--- | ---: |

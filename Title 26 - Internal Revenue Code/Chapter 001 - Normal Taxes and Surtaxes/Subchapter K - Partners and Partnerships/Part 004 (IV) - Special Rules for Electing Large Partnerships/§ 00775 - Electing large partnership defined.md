@@ -40,7 +40,7 @@ For purposes of this part—
 
 #### (c) Exclusion of commodity pools
 
-For purposes of this part, an election under subsection (a) shall not be effective with respect to any partnership the principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to such commodities.
+For purposes of this part, an election under subsection (a) shall not be effective with respectto any partnership the principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to such commodities.
 
 #### (d) Secretary may rely on treatment on return
 

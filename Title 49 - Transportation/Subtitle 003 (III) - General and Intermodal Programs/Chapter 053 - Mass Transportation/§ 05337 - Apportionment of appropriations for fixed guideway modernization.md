@@ -82,12 +82,6 @@ Availability of Amounts.—An amount apportioned under this section—
 
 (e)
 
-Special Rule for October 1, 1997,
-
-Through March 31, 1998.—The Secretary shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under this section on a pro rata basis to reflect the partial fiscal year 1998 funding made available by section 5338(b)(1)(F).<sup>1</sup>
-
-(e) <sup>2</sup>
-
 Route Segments To Be Included in Apportionment Formulas.—
 
 &emsp;(1) 1997
@@ -98,7 +92,7 @@ standard.—Amounts apportioned under paragraphs (2)(B), (3), and (4) of subsect
 
 Other standards.—Amounts apportioned under paragraphs (5) through (7) of subsection (a) shall have attributable to each urbanized area only the number of fixed guideway revenue miles of service and number of fixed guideway route-miles for segments of fixed guideway systems placed in revenue service at least 7 years before the fiscal year in which amounts are made available.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 844; Pub. L. 103–429, §6(14), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 102–240, title III, §3049(b), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §§3028, 3029(b)(12), June 9, 1998, 112 Stat. 366, 373; Pub. L. 105–206, title IX, §9009(p), July 22, 1998, 112 Stat. 858; Pub. L. 108–88, §8(b)(2), Sept. 30, 2003, 117 Stat. 1121.)
 
 Historical and Revision Notes
 
@@ -142,11 +136,9 @@ In subsection (d)(1), the words “for obligation”, “a period of”, and “
 
 This amends 49:5337(a)(4) to correct an erroneous cross-reference.
 
-#### References in Text
-
-Section 5338(b)(1), referred to in subsec. (e), was amended generally by Pub. L. 105–178, title III, §3029(a), June 9, 1998, 112 Stat. 368, and, as so amended, no longer contains a subpar. (F).
-
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–88 struck out subsec. (e) relating to special rule.
 
 1998—Subsec. (a). Pub. L. 105–178, §3028(c), as added by Pub. L. 105–206, in par. (2)(B), substituted “(e)(1)” for “(e)”, in par. (3)(D), substituted “(2)(B)” for “(2)(B)(ii)” and “(e)(1)” for “(e)”, in par. (4), substituted “(e)(1)” for “(e)”, and in pars. (5) to (7), substituted “(e)(2)” for “(e)” wherever appearing.
 
@@ -170,11 +162,11 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Special Rule for October 1, 2003, Through February 29, 2004
+
+Pub. L. 108–88, §8(b)(1), Sept. 30, 2003, 117 Stat. 1121, provided that: “The Secretary of Transportation shall determine the amount that each urbanized area is to be apportioned for fixed guideway modernization under section 5337 of title 49, United States Code, on a pro rata basis to reflect the partial fiscal year 2004 funding made available by sections 5338(b)(2)(A)(vi) and 5338(b)(2)(B)(vi) of such title.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5333 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “(f)”.</i>
 

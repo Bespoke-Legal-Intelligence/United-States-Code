@@ -16,13 +16,17 @@ Covered Transactions.—Subsection (a) applies to the following transactions inv
 
 &emsp;(4) The disposal of real property of the United States for which the Secretary will be the disposal agent.
 
+&emsp;(5) The conveyance of real property under section 2694a of this title.
+
 (c)
 
 Use of Amounts Collected.—Amounts collected under subsection (a) for administrative expenses shall be credited to the appropriation, fund, or account from which the expenses were paid. Amounts so credited shall be merged with funds in such appropriation, fund, or account and shall be available for the same purposes and subject to the same limitations as the funds with which merged.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2813(a), Nov. 18, 1997, 111 Stat. 1993; amended Pub. L. 106–65, div. B, title XXVIII, §2813, Oct. 5, 1999, 113 Stat. 851.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2813(a), Nov. 18, 1997, 111 Stat. 1993; amended Pub. L. 106–65, div. B, title XXVIII, §2813, Oct. 5, 1999, 113 Stat. 851; Pub. L. 107–314, div. B, title XXVIII, §2812(b), Dec. 2, 2002, 116 Stat. 2709.)
 
 #### Amendments
+
+2002—Subsec. (b)(5). Pub. L. 107–314 added par. (5).
 
 1999—Subsec. (b). Pub. L. 106–65 inserted “involving real property under the control of the Secretary of a military department” after “transactions” in introductory provisions and added par. (4).
 

@@ -30,7 +30,7 @@ The Commission shall be composed of 12 members appointed by the President within
 
 (1) Except as provided in paragraph (2), members of the Commission shall serve without pay.
 
-(2) While away from their homes or regular places of business in the performance of servicesfor the Commission, members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons serving intermittently in the Government service are allowed travel expenses under section 5703 of title 5.
+(2) While away from their homes or regular places of business in the performance of services for the Commission, members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons serving intermittently in the Government service are allowed travel expenses under section 5703 of title 5.
 
 (Pub. L. 99–570, title VIII, §8004, Oct. 27, 1986, 100 Stat. 3207–162.)
 

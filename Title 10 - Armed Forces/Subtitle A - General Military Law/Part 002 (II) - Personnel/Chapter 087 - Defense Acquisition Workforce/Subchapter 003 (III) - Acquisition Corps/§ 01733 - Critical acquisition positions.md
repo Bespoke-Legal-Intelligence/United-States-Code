@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Corps Member.—A critical acquisition position may be filled only by a member of an Acquisition Corps.
+Requirement for Corps Member.—A critical acquisition position may be filled only by a member of the Acquisition Corps.
 
 (b)
 
@@ -26,13 +26,15 @@ Designation of Critical Acquisition Positions.—(1) The Secretary of Defense sh
 
 (2) The Secretary shall periodically publish a list of the positions designated under this subsection.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L.102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550.)
 
 #### References in Text
 
 The General Schedule, referred to in subsec. (b)(1)(A)(i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136 substituted “the Acquisition Corps” for “an Acquisition Corps”.
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “A critical” for “On and after October 1, 1993, a critical”.
 
@@ -42,7 +44,7 @@ The General Schedule, referred to in subsec. (b)(1)(A)(i), is set out under sect
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note undersection 3372 of Title 5, Government Organization and Employees.
 
 #### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
 

@@ -4,7 +4,7 @@
 
 (b) When an officer of the Army National Guard to whom temporary Federal recognition has been extended is appointed as a Reserve for service as a member of the Army National Guard of the United States, his appointment shall bear the date of the temporary recognition and shall be considered to have been accepted and effective on that date.
 
-(c) When the Army National Guard of the United States is ordered to active duty, any officer of the Army National Guard who is not a Reserve of the Army may be appointed by the President as a Reserve for service as a memberof the Army National Guard of the United States in the grade that he holds in the Army National Guard.
+(c) When the Army National Guard of the United States is ordered to active duty, any officer of the Army National Guard who is not a Reserve of the Army may be appointed by the President as a Reserve for service as a member of the Army National Guard of the United States in the grade that he holds in the Army National Guard.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 193, §3351; renumbered §12211, Pub. L. 103–337, div. A, title XVI, §1662(c)(3), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 104–106, div. A, title XV, §1501(b)(13)(A), Feb. 10, 1996, 110 Stat. 496.)
 

@@ -80,7 +80,7 @@ Subsecs. (f), (g). Pub. L. 90–448, §301(2), added subsecs. (f) and (g). A pri
 
 1965—Subsec. (b)(2). Pub. L. 89–117, §212(1), substituted “$30,000” for “$20,000”.
 
-Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of the date the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited the mortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
+Subsec. (b)(3). Pub. L. 89–117, §212(2), substituted provisions prohibiting the mortgage to have a principal obligation in excess of the sum of (i) 97 per centum of $15,000 of the appraised value of the property as of the date the mortgage is accepted for insurance, (ii) 90 per centum of such value in excess of $15,000 but not in excess of $20,000, and (iii) 85 per centum of such value in excess of $20,000 for provisions which prohibited themortgage to have a principal obligation in an amount in excess of 95 per centum of the appraised value of the property or such higher amount as may be derived by applying the maximum ratio of loan to value prescribed in section 1709(b)(2) of this title.
 
 Subsec. (e). Pub. L. 89–117, §1108(j)(1), substituted “General Insurance Fund” for “Servicemen's Mortgage Insurance Fund”.
 

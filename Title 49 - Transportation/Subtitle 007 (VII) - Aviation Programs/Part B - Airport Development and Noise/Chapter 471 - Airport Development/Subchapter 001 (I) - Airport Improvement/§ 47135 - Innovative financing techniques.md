@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation may approve applications for not more than 20 airport development projects for which grants received under this subchapter may be used for innovative financing techniques. Such projects shall be located at airports that each year have less than .25 percent of the total number of passenger boardings each year at all commercial service airports in the most recent calendar year for which data is available.
+In General.—The Secretary of Transportation may approve, after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act, applications for not more than 20 airport development projects for which grants received under this subchapter may be used for innovative financing techniques. Such projects shall be located at airports that each year have less than .25 percent of the total number of passenger boardings each year at all commercial service airports in the most recent calendar year for which data is available.
 
 (b)
 
@@ -28,11 +28,21 @@ Types of techniques.—In this section, innovative financing techniques are limi
 
 &emsp;&emsp;(D) use of funds apportioned under section 47114 for the payment of principal and interest of terminal development for costs incurred before the date of the enactment of this section.
 
-(Added Pub. L. 106–181, title I, §132(a), Apr. 5, 2000, 114 Stat. 80.)
+(Added Pub. L. 106–181, title I, §132(a), Apr. 5, 2000, 114 Stat. 80; amended Pub. L. 108–176, title I, §156, Dec. 12, 2003, 117 Stat. 2508.)
 
 #### References in Text
 
+The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (a), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+
 The date of the enactment of this section, referred to in subsec. (c)(2)(D), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–176 inserted “, after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act,” after “approve” in first sentence.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 

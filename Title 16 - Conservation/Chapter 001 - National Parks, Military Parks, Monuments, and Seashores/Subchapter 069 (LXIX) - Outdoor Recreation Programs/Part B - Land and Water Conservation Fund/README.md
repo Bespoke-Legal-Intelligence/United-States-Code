@@ -2,7 +2,7 @@ Part B—Land and Water Conservation Fund
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1c, 398f, 429b–4, 460y–9, 460ii–4, 469h, 470b, 471i, 544<i>l</i>, 544n, 577h, 1225, 1247, 1249, 1251, 1273, 1278, 1282, 1534, 3505, 3911 of this title; title 7 section 1011; title 23 section 206; title 26 section9503; title 40 section 14507; title 42 sections 1962c–2, 3534; title 43 sections 1457a, 1600e, 1712, 2305; title 46 section 13101.
+This part is referred to in sections 1c, 398f, 429b–4, 460y–9, 460ii–4, 469h, 470b, 471i, 544<i>l</i>, 544n, 577h, 1225, 1247, 1249, 1251, 1273, 1278, 1282, 1534, 3505, 3911 of this title; title 7 section 1011; title 23 section 206; title 26 section 9503; title 40 section 14507; title 42 sections 1962c–2, 3534; title 43 sections 1457a, 1600e, 1712, 2305; title 46 section 13101.
 
 
 ---

@@ -26,7 +26,7 @@
 | [<b>155.</b>](Chapter%20155%20-%20Acceptance%20of%20Gifts%20and%20Services/README.md) | <b>Acceptance of Gifts and Services</b> | <b>2601</b> |
 | [<b>157.</b>](Chapter%20157%20-%20Transportation/README.md) | <b>Transportation</b> | <b>2631</b> |
 | [<b>159.</b>](Chapter%20159%20-%20Real%20Property%3B%20Related%20Personal%20Property%3B%20and%20Lease%20of%20Non-Excess%20Property/README.md) | <b>Real Property; Related Personal Property; and Lease of Non-Excess Property</b> | <b>2661</b> |
-| [<b>160.</b>](Chapter%20160%20-%20Environmental%20Restoration/README.md) | <b>Environmental Restoration</b> | <b>2701</b> |
+| [<b>160.</b>](Chapter%20160%20-%20Environmental%20Restoration/README.md) | <b>Environmental Restoration</b> | <b>2700</b> |
 | [<b>161.</b>](Chapter%20161%20-%20Property%20Records%20and%20Report%20of%20Theft%20or%20Loss%20of%20Certain%20Property/README.md) | <b>Property Records and Report of Theft or Loss of Certain Property</b> | <b>2721</b> |
 | [<b>163.</b>](Chapter%20163%20-%20Military%20Claims/README.md) | <b>Military Claims</b> | <b>2731</b> |
 | [<b>165.</b>](Chapter%20165%20-%20Accountability%20and%20Responsibility/README.md) | <b>Accountability and Responsibility</b> | <b>2771</b> |
@@ -38,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1612, substituted “2700” for “2701” in item for chapter 160.
 
 2001—Pub. L. 107–107, div. A, title IX, §911(b), Dec. 28, 2001, 115 Stat. 1196, added item for chapter 135.
 

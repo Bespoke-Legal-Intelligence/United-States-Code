@@ -132,7 +132,7 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 #### (B) Cooperative agreement
 
-&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary may enter into a cooperative agreement to reflect the terms of any cooperation under subparagraph (A).
+&emsp;&emsp;Notwithstanding chapter 63 of title 31, the Secretary may enter into a cooperativeagreement to reflect the terms of any cooperation under subparagraph (A).
 
 #### (e) Curriculum and training clearinghouse
 

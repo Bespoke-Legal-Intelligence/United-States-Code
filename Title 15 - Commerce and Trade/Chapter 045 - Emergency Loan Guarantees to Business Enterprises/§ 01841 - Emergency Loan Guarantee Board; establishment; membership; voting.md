@@ -296,11 +296,11 @@ Additional costs.—For the additional cost of the loans guaranteed under this s
 
 “(f)
 
-Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by aqualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
 
 &emsp;“(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 
-&emsp;“(2) the prospective earning power of the company, together with the character and value of the security pledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
+&emsp;“(2) the prospective earning power of the company, together with the character and value of the securitypledged, provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with its terms;
 
 &emsp;“(3) the loan to be guaranteed bears interest at a rate determined by the Board to be reasonable, taking into account the current average yield on outstanding obligations of the United States with remaining periods of maturity comparable to the maturity of the loan; and
 

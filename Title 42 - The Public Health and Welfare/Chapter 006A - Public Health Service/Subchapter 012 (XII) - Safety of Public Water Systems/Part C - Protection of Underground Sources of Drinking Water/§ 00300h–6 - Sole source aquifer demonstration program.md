@@ -66,7 +66,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(C) Limits on Federal, State, and local government, financially assisted activities and projects which may contribute to degradation of such ground water or any loss of natural surface and subsurface infiltration of purification capability of the special protection watershed.
 
-&emsp;(D) A comprehensive statement of land use management including emergency contingency planning as it pertains to the maintenance of the quality of underground sources of drinking water or to the improvement of such sources if necessary to meet drinking waterstandards pursuant to this chapter and State law.
+&emsp;(D) A comprehensive statement of land use management including emergency contingency planning as it pertains to the maintenance of the quality of underground sources of drinking water or to the improvement of such sources if necessary to meet drinking water standards pursuant to this chapter and State law.
 
 &emsp;(E) Actions in the special protection area which would avoid adverse impacts on water quality, recharge capabilities, or both.
 
@@ -127,7 +127,7 @@ The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, 
 
 The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ The Commission is authorized to—
 
 #### (b) Material for Department of Defense use
 
-The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as he deems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
+The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as hedeems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
 
 #### (c) Sale, lease, or loan to other Nations of materials for military applications
 
@@ -32,7 +32,7 @@ The President may authorize the Commission or the Department of Defense, with th
 
 > whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomic weapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
 
-(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub.L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -54,93 +54,23 @@ Authority vested in President by subsec. (c) of this section delegated to Secret
 
 #### Form of Certifications Regarding Safety or Reliability of Nuclear Weapons Stockpile
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that: “Any certification submitted to the President by the Secretary of Defense or the Secretary of Energy regarding confidence in the safety or reliability of a nuclear weapon type in the United States nuclear weapons stockpile shall be submitted in classified form only.”
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3194\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4206 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(7), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2526 of Title 50, War and National Defense.
 
 #### Authority To Provide Certificate of Commendation to Department of Energy and Contractor Employees for Exemplary Service in Stockpile Stewardship and Security
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, provided that:
-
-“(a)
-
-Authority To Present Certificate of Commendation.—The Secretary of Energy may present a certificate of commendation to any current or former employee of the Department of Energy, and any current or former employee of a Department contractor, whose service to the Department in matters relating to stockpile stewardship and security assisted the Department in furthering the national security interests of the United States.
-
-“(b)
-
-Certificate.—The certificate of commendation presented to a current or former employee under subsection (a) shall include an appropriate citation of the service of the current or former employee described in that subsection, including a citation for dedication, intellect, and sacrifice in furthering the national security interests of the United States by maintaining a strong, safe, and viable United States nuclear deterrent during the Cold War or thereafter.
-
-“(c)
-
-Department of Energy Defined.—For purposes of this section, the term ‘Department of Energy’ includes any predecessor agency of the Department of Energy.”
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481, which was formerly set out as a note under this section, was renumbered section 4605 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(6), Nov. 24, 2003, 117 Stat. 1778, and is classified to section 2705 of Title 50, War and National Defense.
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
-Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, provided that:
-
-“(a)
-
-Program Required.—The Secretary of Energy shall, in consultation with the Secretary of Defense, carry out a program to provide for the extension of the effective life of the weapons in the nuclear weapons stockpile.
-
-“(b)
-
-Administrative Responsibility for Program.—(1) The program under subsection (a) shall be carried out through the element of the Department of Energy with responsibility for defense programs.
-
-“(2) For each budget submitted by the President to Congress under section 1105 of title 31, United States Code, the amounts requested for the program shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
-
-“(c)
-
-Program Plan.—As part of the program under subsection (a), the Secretary shall develop a long-term plan for the extension of the effective life of the weapons in the nuclear weapons stockpile. The plan shall include the following:
-
-&emsp;“(1) Mechanisms to provide for the remanufacture, refurbishment, and modernization of each weapon design designated by the Secretary for inclusion in the enduring nuclear weapons stockpile as of the date of the enactment of this Act \[Oct. 5, 1999\].
-
-&emsp;“(2) Mechanisms to expedite the collection of information necessary for carrying out the program, including information relating to the aging of materials and components, new manufacturing techniques, and the replacement or substitution of materials.
-
-&emsp;“(3) Mechanisms to ensure the appropriate assignment of roles and missions for each nuclear weapons laboratory and production plant of the Department, including mechanisms for allocation of workload, mechanisms to ensure the carrying out of appropriate modernization activities, and mechanisms to ensure the retention of skilled personnel.
-
-&emsp;“(4) Mechanisms for allocating funds for activities under the program, including allocations of funds by weapon type and facility.
-
-&emsp;“(5) An identification of the funds needed, in the current fiscal year and in each of the next five fiscal years, to carry out the program.
-
-“(d)
-
-Annual Submittal of Plan.—(1) The Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the plan developed under subsection (c) not later than January 1, 2000. The plan shall contain the maximum level of detail practicable.
-
-“(2) The Secretary shall submit to the committees referred to in paragraph (1) each year after 2000, at the same time as the submission of the budget for the fiscal year beginning in such year under section 1105 of title 31, United States Code, an update of the plan submitted under paragraph (1). Each update shall contain the same level of detail as the plan submitted under paragraph (1).
-
-“(e)
-
-GAO Assessment.—Not later than 30 days after the submission of the plan under subsection (d)(1) or any update of the plan under subsection (d)(2), the Comptroller General shall submit to the committees referred to in subsection (d)(1) an assessment of whether the program can be carried out under the plan or the update (as applicable)—
-
-&emsp;“(1) in the current fiscal year, given the budget for that fiscal year; and
-
-&emsp;“(2) in future fiscal years.
-
-“(f)
-
-Sense of Congress Regarding Funding of Program.—It is the sense of Congress that the President should include in each budget for a fiscal year submitted to Congress under section 1105 of title 31, United States Code, sufficient funds to carry out in the fiscal year covered by such budget the activities under the program under subsection (a) that are specified in the most current version of the plan for the program under this section.”
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
 
 #### Report on Stockpile Stewardship Criteria
 
-Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
-
-“(a)
-
-Requirement for Criteria.—The Secretary of Energy shall develop clear and specific criteria for judging whether the science-based tools being used by the Department of Energy for determining the safety and reliability of the nuclear weapons stockpile areperforming in a manner that will provide an adequate degree of certainty that the stockpile is safe and reliable.
-
-“(b)
-
-Coordination With Secretary of Defense.—The Secretary of Energy, in developing the criteria required by subsection (a), shall coordinate with the Secretary of Defense.
-
-“(c)
-
-Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the efforts by the Department of Energy to develop the criteria required by subsection (a). The report shall include—
-
-&emsp;“(1) a description of the information needed to determine that the nuclear weapons stockpile is safe and reliable and the relationship of the science-based tools to the collection of that information; and
-
-&emsp;“(2) a description of the criteria required by subsection (a) to the extent they have been developed as of the date of the submission of the report.”
+Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, which was formerly set out as a note under this section, was renumbered section 4202 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(3), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2522 of Title 50, War and National Defense.
 
 #### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
 
-Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, titleX, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
 
 “(a)
 
@@ -160,7 +90,7 @@ Duties of Panel.—Each year the panel shall review and assess the following:
 
 &emsp;“(2) The long-term adequacy of the process of certifying the safety, security, and reliability of the nuclear weapons stockpile of the United States.
 
-&emsp;“(3) The adequacy of the criteria established by the Secretary of Energy pursuant to section 3158 \[set out as a note above\] for achieving the purposes for which those criteria are established.
+&emsp;“(3) The adequacy of the criteria established by the Secretary of Energy pursuant to section 3158 \[formerly set out as a note above\] for achieving the purposes for which those criteria are established.
 
 “(d)
 
@@ -262,213 +192,23 @@ Funding.—Of the amounts authorized to be appropriated pursuant to section 3101
 
 #### Tritium Production Program
 
-Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, provided that:
-
-“(a)
-
-Establishment of Program.—The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons. In carrying out the tritium production program, the Secretary shall—
-
-&emsp;“(1) complete the tritium supply and recycling environmental impact statement in preparation by the Secretary as of the date of the enactment of this Act \[Feb. 10, 1996\]; and
-
-&emsp;“(2) assess alternative means for tritium production, including production through—
-
-&emsp;&emsp;“(A) types of new and existing reactors, including multipurpose reactors (such as advanced light water reactors and gas turbine gas-cooled reactors) capable of meeting both the tritium production requirements and the plutonium disposition requirements of the United States for nuclear weapons;
-
-&emsp;&emsp;“(B) an accelerator; and
-
-&emsp;&emsp;“(C) multipurpose reactor projects carried out by the private sector and the Government.
-
-“(b)
-
-Funding.—Of funds authorized to be appropriated to the Department of Energy pursuant to section 3101 \[110 Stat. 608\], not more than $50,000,000 shall be available for the tritium production program established pursuant to subsection (a).
-
-“(c)
-
-Location of Tritium Production Facility.—The Secretary shall locate any new tritium production facility of the Department of Energy at the Savannah River Site, South Carolina.
-
-“(d)
-
-Cost-Benefit Analysis.—(1) The Secretary shall include in the statements referred to in paragraph (2) a comparison of the costs and benefits of carrying out two projects for the separate performance of the tritium production mission of the Department and the plutonium disposition mission of the Department with the costs and benefits of carrying out one multipurpose project for the performance of both such missions.
-
-“(2) The statements referred to in paragraph (1) are—
-
-&emsp;“(A) the environmental impact statement referred to in subsection (a)(1);
-
-&emsp;“(B) the plutonium disposition environmental impact statement in preparation by the Secretary as of the date of the enactment of this Act \[Feb. 10, 1996\]; and
-
-&emsp;“(C) assessments related to the environmental impact statements referred to in subparagraphs (A) and (B).
-
-“(e)
-
-Report.—Not later than 45 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the tritium production program established pursuant to subsection (a). The report shall include a specification of—
-
-&emsp;“(1) the planned expenditures of the Department during fiscal year 1996 for any of the alternative means for tritium production assessed under subsection (a)(2);
-
-&emsp;“(2) the amount of funds required to be expended by the Department, and the program milestones (including feasibility demonstrations) required to be met, during fiscal years 1997 through 2001 to ensure tritium production beginning not later than 2005 that is adequate to meet the tritium requirements of the United States for nuclear weapons; and
-
-&emsp;“(3) the amount of such funds to be expended and such program milestones to be met during such fiscal years to ensure such tritium production beginning not later than 2011.
-
-“(f)
-
-Tritium Targets.—Of the funds made available pursuant to subsection (b), not more than $5,000,000 shall be available for the Idaho National Engineering Laboratory for the test and development of nuclear reactor tritium targets for the types of reactors assessed under subsection (a)(2)(A).”
+Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, which was formerly set out as a note under this section, was renumbered section 4231 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(16)(A)–(C), Nov. 24, 2003, 117 Stat. 1761, and is classified to section 2541 of Title 50, War and National Defense.
 
 #### Manufacturing Infrastructure for Refabrication and Certification of Nuclear Weapons Stockpile
 
-Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, provided that:
-
-“(a)
-
-Manufacturing Program.—(1) The Secretary of Energy shall carry out a program for purposes of establishing within the Government a manufacturing infrastructure that has the capabilities of meeting the following objectives as specified in the Nuclear Posture Review:
-
-&emsp;“(A) To provide a stockpile surveillance engineering base.
-
-&emsp;“(B) To refabricate and certify weapon components and types in the enduring nuclear weapons stockpile, as necessary.
-
-&emsp;“(C) To fabricate and certify new nuclear warheads, as necessary.
-
-&emsp;“(D) To support nuclear weapons.
-
-&emsp;“(E) To supply sufficient tritium in support of nuclear weapons to ensure an upload hedge in the event circumstances require.
-
-“(2) The purpose of the program carried out under paragraph (1) shall also be to develop manufacturing capabilities and capacities necessary to meet the requirements specified in the annual Nuclear Weapons Stockpile Review.
-
-“(b)
-
-Required Capabilities.—The manufacturing infrastructure established under the program under subsection (a) shall include the following capabilities (modernized to attain the objectives referred to in that subsection):
-
-&emsp;“(1) The weapons assembly capabilities of the Pantex Plant.
-
-&emsp;“(2) The weapon secondary fabrication capabilities of the Y–12 Plant, Oak Ridge, Tennessee.
-
-&emsp;“(3) The capabilities of the Savannah River Site relating to tritium recycling and fissile materials components processing and fabrication.
-
-&emsp;“(4) The non-nuclear component capabilities of the Kansas City Plant.
-
-“(c)
-
-Nuclear Posture Review.—For purposes of subsection (a), the term ‘Nuclear Posture Review’ means the Department of Defense Nuclear Posture Review as contained in the Report of the Secretary of Defense to the President and the Congress dated February 19, 1995, or subsequent such reports.
-
-“(d)
-
-Funding.—Of the funds authorized to be appropriated under section 3101(b) \[110 Stat. 609\], $143,000,000 shall be available for carrying out the program required under this section, of which—
-
-&emsp;“(1) $35,000,000 shall be available for activities at the Pantex Plant;
-
-&emsp;“(2) $30,000,000 shall be available for activities at the Y–12 Plant, Oak Ridge, Tennessee;
-
-&emsp;“(3) $35,000,000 shall be available for activities at the Savannah River Site; and
-
-&emsp;“(4) $43,000,000 shall be available for activities at the Kansas City Plant.
-
-“(e)
-
-Plan and Report.—The Secretary shall develop a plan for the implementation of this section. Not later than March 1, 1996, the Secretary shall submit to Congress a report on the obligations the Secretary has incurred, and plans to incur, during fiscal year 1996 for the program referred to in subsection (a).”
+Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as amended by Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829, which was formerly set out as a note under this section, was renumbered section 4212 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2532 of Title 50, War and National Defense.
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
-Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, provided that:
-
-“(a)
-
-In General.—The Secretary of Energy shall conduct a fellowship program for the development of skills critical to the ongoing mission of the Department of Energy nuclear weapons complex. Under the fellowship program, the Secretary shall provide educational assistance and research assistance to eligible individuals to facilitate the development by such individuals of skills critical to maintaining the ongoing mission of the Department of Energy nuclear weapons complex.
-
-“(b)
-
-Eligible Individuals.—Individuals eligible for participation in the fellowship program are United States citizens who are the following:
-
-&emsp;“(1) Students pursuing graduate degrees in fields of science or engineering that are related to nuclear weapons engineering or to the science and technology base of the Department of Energy.
-
-&emsp;“(2) Individuals engaged in postdoctoral studies in such fields.
-
-“(c)
-
-Covered Facilities.—The Secretary shall carry out the fellowship program at or in connection with the following facilities:
-
-&emsp;“(1) The Kansas City Plant, Kansas City, Missouri.
-
-&emsp;“(2) The Pantex Plant, Amarillo, Texas.
-
-&emsp;“(3) The Y–12 Plant, Oak Ridge, Tennessee.
-
-&emsp;“(4) The Savannah River Site, Aiken, South Carolina.
-
-&emsp;“(5) The Lawrence Livermore National Laboratory, Livermore, California.
-
-&emsp;“(6) The Los Alamos National Laboratory, Los Alamos, New Mexico.
-
-&emsp;“(7) The Sandia National Laboratories, Albuquerque, New Mexico, and Livermore, California.
-
-“(d)
-
-Administration.—The Secretary shall carry out the fellowship program at a facility referred to in subsection (c) through the stockpile manager of the facility.
-
-“(e)
-
-Allocation of Funds.—The Secretary shall, in consultation with the Assistant Secretary of Energy for Defense Programs, allocate funds available for the fellowship program under subsection (f) among the facilities referred to in subsection (c). The Secretary shall make the allocation after evaluating an assessment by the weapons program director of each such facility of the personnel and critical skills necessary at the facility for carrying out the ongoing mission of the facility.
-
-“(f)
-
-Agreement.—(1) The Secretary may allow an individual to participate in the program only if the individual signs an agreement described in paragraph (2).
-
-“(2) An agreement referred to in paragraph (1) shall be in writing, shall be signed by the participant, and shall include the participant's agreement to serve, after completion of the course of study for which the assistance was provided, as a full-time employee in a position in the Department of Energy for a period of time to be established by the Secretary of Energy of not less than one year, if such a position is offered to the participant.”
+Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
 
 #### Study on Nuclear Test Readiness Postures
 
-Pub. L. 104–106, div. C, title XXXI, §3152, Feb. 10, 1996, 110 Stat. 623, as amended by Pub. L. 106–398, §1 \[div. C, title XXXI, §3192\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, provided that:
-
-“(a)
-
-Report.—Not later than February 15, 1996, the Secretary of Energy shall submit to Congress a report on the costs, programmatic issues, and other issues associated with sustaining the capability of the Department of Energy—
-
-&emsp;“(1) to conduct an underground nuclear test 6 months after the date on which the President determines that such a test is necessary to ensure the national security of the United States;
-
-&emsp;“(2) to conduct such a test 18 months after such date; and
-
-&emsp;“(3) to conduct such a test 36 months after such date.
-
-“(b)
-
-Biennial Update Report.—(1) Not later than February 15 of each odd-numbered year, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an update of the report required under subsection (a), as updated by any report previously submitted under this paragraph.
-
-“(2) Each report under paragraph (1) shall include, as of the date of such report, the following:
-
-&emsp;“(A) A list and description of the workforce skills and capabilities that are essential to carry out underground nuclear tests at the Nevada Test Site.
-
-&emsp;“(B) A list and description of the infrastructure and physical plant that are essential to carry out underground nuclear tests at the Nevada Test Site.
-
-&emsp;“(C) A description of the readiness status of the skills and capabilities described in subparagraph (A) and of the infrastructure and physical plant described in subparagraph (B).
-
-“(3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.”
+Pub. L. 104–106, div. C, title XXXI, §3152, Feb. 10, 1996, 110 Stat. 623, as amended by Pub. L. 106–398, §1 \[div. C, title XXXI, §3192\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, which was formerly set out as a note under this section, was renumbered section 4208 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(9), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2528 of Title 50, War and National Defense.
 
 #### Plan for Stewardship, Management, and Certification of Warheads in the Nuclear Weapons Stockpile
 
-Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041, provided that:
-
-“(a)
-
-Plan Requirement.—The Secretary of Energy shall develop and annually update a plan for maintaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, and program direction and shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
-
-“(b)
-
-Plan Elements.—The plan and each update of the plan shall set forth the following:
-
-&emsp;“(1) The number of warheads (including active and inactive warheads) for each warhead type in the nuclear weapons stockpile.
-
-&emsp;“(2) The current age of each warhead type, and any plans for stockpile lifetime extensions and modifications or replacement of each warhead type.
-
-&emsp;“(3) The process by which the Secretary of Energy is assessing the lifetime, and requirements for lifetime extension or replacement, of the nuclear and nonnuclear components of the warheads (including active and inactive warheads) in the nuclear weapons stockpile.
-
-&emsp;“(4) The process used in recertifying the safety, security, and reliability of each warhead type in the nuclear weapons stockpile.
-
-&emsp;“(5) Any concerns which would affect the ability of the Secretary of Energy to recertify the safety, security, or reliability of warheads in the nuclear weapons stockpile (including active and inactive warheads).
-
-“(c)
-
-Annual Submission of Plan to Congress.—The Secretary of Energy shall submit to Congress the plan developed under subsection (a) not later than March 15, 1998, and shall submit an updated version of the plan not later than March 15 of each year thereafter. The plan shall be submitted in both classified and unclassified form.”
-
-Similar provisions were contained in the following prior authorization act:
-
-Pub. L. 104–106, div. C, title XXXI, §3153, Feb. 10, 1996, 110 Stat. 624; repealed Pub. L. 105–85, div. C, title XXXI, §3152(c), Nov. 18, 1997, 111 Stat. 2042.
+Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041, which was formerly set out as a note under this section, was renumbered section 4203 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2523 of Title 50, War and National Defense.
 
 #### Report on Waste Streams Generated by Nuclear Weapons Production Cycle
 
@@ -476,57 +216,15 @@ Pub. L. 103–337, div. C, title XXXI, §3154, Oct. 5, 1994, 108 Stat. 3091, dir
 
 #### Prohibition on Research and Development of Low-Yield Nuclear Weapons
 
-Pub. L. 103–160, div. C, title XXXI, §3136, Nov. 30, 1993, 107 Stat. 1946, provided that:
+Pub. L. 103–160, div. C, title XXXI, §3136, Nov. 30, 1993, 107 Stat. 1946, expressed policy of United States with respect to research and development of low-yield nuclear weapons, prior to repeal by Pub. L. 108–136, div. C, title XXXI, §3116(a), Nov. 24, 2003, 117 Stat. 1746.
 
-“(a)
-
-United States Policy.—It shall be the policy of the United States not to conduct research and development which could lead to the production by the United States of a new low-yield nuclear weapon, including a precision low-yield warhead.
-
-“(b)
-
-Limitation.—The Secretary of Energy may not conduct, or provide for the conduct of, research and development which could lead to the production by the United States of a low-yield nuclear weapon which, as of the date of the enactment of this Act \[Nov. 30, 1993\], has not entered production.
-
-“(c)
-
-Effect on Other Research and Development.—Nothing in this section shall prohibit the Secretary of Energy from conducting, or providing for the conduct of, research and development necessary—
-
-&emsp;“(1) to design a testing device that has a yield of less than five kilotons;
-
-&emsp;“(2) to modify an existing weapon for the purpose of addressing safety and reliability concerns; or
-
-&emsp;“(3) to address proliferation concerns.
-
-“(d)
-
-Definition.—In this section, the term ‘low-yield nuclear weapon’ means a nuclear weapon that has a yield of less than five kilotons.”
+\[Pub. L. 108–136, div. C, title XXXI, §3116(b), Nov. 24, 2003, 117 Stat. 1746, provided that: “Nothing in the repeal made by subsection (a) \[repealing section 3136 of Pub. L. 103–160, formerly set out as a note above\] shall be construed as authorizing the testing, acquisition, or deployment of a low-yield nuclear weapon.”\]
 
 #### Stockpile Stewardship Program
 
 Pub. L. 105–85, div. C, title XXXI, §3156, Nov. 18, 1997, 111 Stat. 2045, expressed findings of Congress and policy of United States about the direction and conduct of the stockpile stewardship program, prior to repeal by Pub. L. 105–261, div. C, title XXXI, §3157, Oct. 17, 1998, 112 Stat. 2257.
 
-Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, provided that:
-
-“(a)
-
-Establishment.—The Secretary of Energy shall establish a stewardship program to ensure the preservation of the core intellectual and technical competencies of the United States in nuclear weapons, including weapons design, system integration, manufacturing, security, use control, reliability assessment, and certification.
-
-“(b)
-
-Program Elements.—The program shall include the following:
-
-&emsp;“(1) An increased level of effort for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the detonation of nuclear weapons.
-
-&emsp;“(2) An increased level of effort for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
-
-&emsp;“(3) Support for new facilities construction projects that contribute to the experimental capabilities of the United States, such as an advanced hydrodynamics facility, the National Ignition Facility, and other facilities for above-ground experiments to assess nuclear weapons effects.
-
-“(c)
-
-Authorization of Appropriations.—Of funds authorized to be appropriated to the Secretary of Energy for fiscal year 1994 for weapons activities, $157,400,000 shall be available for the stewardship program established under subsection (a).
-
-“\[(d) Repealed. Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042.\]”
-
-\[Section 3152(e) of Pub. L. 105–85, which directed amendment of section 3138 of Pub. L. 103–160, set out above, by striking out subsecs. (d) and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out “and the 60-day period referred to in subsection (e)(2)(A)(ii)” in subsec. (e), as so redesignated, was executed by striking out subsec. (d) because section 3138 of Pub. L. 103–160 did not contain subsecs. (e) to (g).\]
+Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4201 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2521 of Title 50, War and National Defense.
 
 #### Limitations on United States Nuclear Weapons Testing
 
@@ -548,17 +246,9 @@ Certain Actions Not Prohibited.—Subsection (a) does not preclude the Secretary
 
 Funding.—Of the funds authorized to be appropriated pursuant to section 201 \[107 Stat. 1583\] for Defense-wide activities, not more than $38,000,000 may be used for activities described in subsection (b).”
 
-Pub. L. 103–160, div. C, title XXXI, §3137, Nov. 30, 1993, 107 Stat. 1946, provided that:
+Pub. L. 103–160, div. C, title XXXI, §3137, Nov. 30, 1993, 107 Stat. 1946, which was formerly set out as a note under this section, was renumbered section 4211 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(12)(A)–(C), Nov. 24, 2003, 117 Stat. 1760, and is classified to section 2531 of Title 50, War and National Defense.
 
-“(a)
-
-In General.—Of the funds authorized to be appropriated under section 3101(a)(2) \[107 Stat. 1936\] for the Department of Energy for fiscal year 1994 for weapons testing, $211,326,000 shall be available for infrastructure maintenance at the Nevada Test Site, and for maintaining the technical capability to resume underground nuclear testing at the Nevada Test Site.
-
-“(b)
-
-Atmospheric Testing of Nuclear Weapons.—None of the funds appropriated pursuant to this Act or any other Act for any fiscal year may be available to maintain the capability of the United States to conduct atmospheric testing of a nuclear weapon.”
-
-Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
+Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1760, provided that:
 
 “(a) Hereafter, funds made available by this Act or any other Act for fiscal year 1993 or for any other fiscal year may be available for conducting a test of a nuclear explosive device only if the conduct of that test is permitted in accordance with the provisions of this section.
 
@@ -620,9 +310,9 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 “(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
-“(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States ispermitted to conduct during that period under paragraph (1)(B).
+“(3) The President may authorize the United Kingdom to conduct in the United States, within a periodcovered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
 
-“(f) No underground test of nuclear weapons may be conducted by the United States after September 30, 1996, unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted.
+“(f) \[Transferred to section 2530 of Title 50, War and National Defense.\]
 
 “(g) In the computation of the 90-day period referred to in subsection (c)(1) and the 60-day period referred to in subsection (e)(2)(A)(ii), the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded.
 
@@ -636,37 +326,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 #### Nuclear Test Ban Readiness Program
 
-Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, provided that:
-
-“(a)
-
-Findings.—The Congress makes the following findings:
-
-&emsp;“(1) On September 17, 1987, the United States and the Soviet Union announced that they would resume full-scale, stage-by-stage negotiations on issues relating to nuclear testing, including further intermediate limitations on nuclear testing leading to the ultimate objective of a comprehensive nuclear test ban.
-
-&emsp;“(2) It was agreed that the first step in these negotiations would be to reach agreement on verification measures that will make possible the ratification of the Threshold Test Ban Treaty of 1974 and the Peaceful Nuclear Explosions Treaty of 1976.
-
-&emsp;“(3) To achieve the agreement on verification measures, the United States and the Soviet Union have agreed to design and conduct a Joint Verification Experiment at the test sites of each country during the summer of 1988.
-
-&emsp;“(4) At the Moscow summit in May 1988, President Reagan and General Secretary Gorbachev reaffirmed their commitment to negotiations on ‘effective verification measures which will make it possible to ratify the Threshold Test Ban Treaty of 1974 and Peaceful Nuclear Explosions Treaty of 1976, and proceed to negotiating further intermediate limitations on nuclear testing leading to the ultimate objective of the complete cessation of nuclear testing as part of an effective disarmament process’.
-
-“(b)
-
-Establishment of Program.—The Secretary of Energy shall establish and support a program to assure that the United States is in a position to maintain the reliability, safety, and continued deterrent effect of its stockpile of existing nuclear weapons designs in the event that a low-threshold or comprehensive ban on nuclear explosives testing is negotiated and ratified within the framework agreed to by the United States and the Soviet Union.
-
-“(c)
-
-Purposes of Program.—The purposes of the program under subsection (b) shall be the following:
-
-&emsp;“(1) To assure that the United States maintains a vigorous program of stockpile inspection and non-explosive testing so that, if a low-threshold or comprehensive test ban is entered into, the United States remains able to detect and identify potential problems in stockpile reliability and safety in existing designs of nuclear weapons.
-
-&emsp;“(2) To assure that the specific materials, components, processes, and personnel needed for the remanufacture of existing nuclear weapons or the substitution of alternative nuclear warheads are available to support such remanufacture or substitution if such action becomes necessary in order to satisfy reliability and safety requirements under a low-threshold or comprehensive test ban agreement.
-
-&emsp;“(3) To assure that a vigorous program of research in areas related to nuclear weapons science and engineering is supported so that, if a low-threshold or comprehensive test ban agreement is entered into, the United States is able to maintain a base of technical knowledge about nuclear weapons design and nuclear weapons effects.
-
-“(d)
-
-Conduct of Program.—The Secretary of Energy shall carry out the program provided for in subsection (b). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national nuclear weapons laboratories.”
+Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2527 of Title 50, War and National Defense.
 
 #### Section Referred to in Other Sections
 

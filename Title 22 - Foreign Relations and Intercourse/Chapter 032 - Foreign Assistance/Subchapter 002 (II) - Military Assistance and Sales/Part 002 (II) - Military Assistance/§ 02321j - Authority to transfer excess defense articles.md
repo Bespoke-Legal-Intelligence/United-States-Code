@@ -30,7 +30,7 @@ The President is authorized to transfer excess defense articles under this secti
 
 #### (2) Priority
 
-&emsp;Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
+&emsp;Notwithstanding any other provision of law, the delivery of excess defense articles underthis section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
 
 #### (d) Waiver of requirement for reimbursement of Department of Defense expenses
 
@@ -44,7 +44,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (2) Exception
 
-&emsp;The President may provide for the transportation of excess defense articles withoutcharge to a country for the costs of such transportation if—
+&emsp;The President may provide for the transportation of excess defense articles without charge to a country for the costs of such transportation if—
 
 &emsp;&emsp;(A) it is determined that it is in the national interest of the United States to do so;
 
@@ -96,7 +96,7 @@ For purposes of this section, the term “excess defense articles” shall be de
 
 Section 573(e) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990, referred to in subsec. (b)(2), is section 573(e) of Pub. L. 101–167, which is set out in a note below.
 
-The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, asamended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Prior Provisions
 
@@ -164,7 +164,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Mediterranean Excess Defense Articles
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §535\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153, provided that: “For the four-year period beginning on October 1, 1996, the President shall ensure that excess defense articles will be made available under section\[s\] 516 and 519 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j, 2321m\] consistent with the manner in which the President made available excess defense articles under those sections during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the Foreign Operations, Export Financing, Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, set out below\].”
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §535\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153, provided that: “For the four-year period beginning on October 1, 1996, the President shall ensure that excess defense articles will be made available under section\[s\] 516 and 519 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j, 2321m\] consistent with the manner in which the President made available excess defense articles under those sections during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the ForeignOperations, Export Financing, Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, set out below\].”
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -188,7 +188,7 @@ NATO southern flank countries.—The President may transfer—
 
 &emsp;&emsp;“(A) to any NATO southern flank country which is eligible for United States security assistance and which is integrated into NATO's military structure; and
 
-&emsp;&emsp;“(B) to any major non-NATO ally on the southern and southeastern flank of NATO which is eligiblefor United States security assistance, such excess defense articles as may be necessary to help modernize the defense capabilities of such country.
+&emsp;&emsp;“(B) to any major non-NATO ally on the southern and southeastern flank of NATO which is eligible for United States security assistance, such excess defense articles as may be necessary to help modernize the defense capabilities of such country.
 
 &emsp;“(2)
 

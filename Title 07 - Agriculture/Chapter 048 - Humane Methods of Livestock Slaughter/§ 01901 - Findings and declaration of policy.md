@@ -16,7 +16,7 @@ Pub. L. 107–171, title X, §10305, May 13, 2002, 116 Stat. 493, provided that:
 
 Sense of Congress.—It is the sense of Congress that the Secretary of Agriculture should—
 
-&emsp;“(1) continue tracking the number of violations of Public Law 85–765 (7 U.S.C. 1901 et seq.; commonly known as the ‘Humane Methods of Slaughter Act of1958’) and report the results and relevant trends annually to Congress; and
+&emsp;“(1) continue tracking the number of violations of Public Law 85–765 (7 U.S.C. 1901 et seq.; commonly known as the ‘Humane Methods of Slaughter Act of 1958’) and report the results and relevant trends annually to Congress; and
 
 &emsp;“(2) fully enforce Public Law 85–765 by ensuring that humane methods in the slaughter of livestock—
 

@@ -88,7 +88,7 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
 “(c)(1) The amounts payable in accordance with subsection (a) with respect to inpatient hospital services shall, subject to paragraph (2) of this subsection, be paid from the Federal Hospital Insurance Trust Fund in amounts equal to 60 percent of the hospital's reasonable charges for routine services furnished in the accommodations occupied by the individual or in semi-private accommodations (as defined in section 1861(v)(4) of the Social Security Act \[section 1395x(v)(4) of this title\]) whichever is less, plus 80 percent of the hospital's reasonable charges for ancillary services. If separate charges for routine and ancillary services are not made by the hospital, reimbursement may be based on two-thirds of the hospital's reasonable charges for the services received but not to exceed the charges which would have been made if the patient had occupied semi-private accommodations (as so defined). For purposes of the preceding provisions of this paragraph, the term ‘routine services’ shall mean the regular room, dietary, and nursing services, minor medical and surgical supplies and the use of equipment and facilities for which a separate charge is not customarily made; the term ‘ancillary services’ shall mean those special services for which charges are customarily made in addition to routine services.
 
-“(2) Before applying paragraph (1), payments made under this section shall be reduced to the extent provided for under section 1813 of the Social Security Act\[section 1395e of this title\] in the case of benefits payable to providers of services under part A of title XVIII of such Act \[this part\].
+“(2) Before applying paragraph (1), payments made under this section shall be reduced to the extent provided for under section 1813 of the Social Security Act \[section 1395e of this title\] in the case of benefits payable to providers of services under part A of title XVIII of such Act \[this part\].
 
 “(d) For the purposes of this section—
 
@@ -100,5 +100,5 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 220; title 38 sections 1725, 1729.
+This section is referred to in title 26 sections 220, 223; title 38 sections 1725, 1729.
 

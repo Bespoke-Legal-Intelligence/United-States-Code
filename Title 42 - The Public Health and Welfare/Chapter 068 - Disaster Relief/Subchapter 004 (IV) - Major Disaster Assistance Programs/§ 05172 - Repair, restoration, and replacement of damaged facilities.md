@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) the costs of using prison labor to perform eligible work, including wages actually paid, transportation to a worksite, and extraordinary costs of guards, food, and lodging; and
 
-&emsp;&emsp;(C) base and overtime wages for the employees and extra hires of a State, local government, or person described in paragraph (1) that perform eligible work, plus fringebenefits on such wages to the extent that such benefits were being paid before the major disaster.
+&emsp;&emsp;(C) base and overtime wages for the employees and extra hires of a State, local government, or person described in paragraph (1) that perform eligible work, plus fringe benefits on such wages to the extent that such benefits were being paid before the major disaster.
 
 #### (3) Conditions for assistance to private nonprofit facilities
 
@@ -200,7 +200,7 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;Taking into account the recommendations of the expert panel under subparagraph (B), the President shall promulgate regulations that establish—
+&emsp;&emsp;Taking into account the recommendations of the expert panel under subparagraph (B),the President shall promulgate regulations that establish—
 
 &emsp;&emsp;&emsp;(i) cost estimation procedures described in subparagraph (B)(i); and
 

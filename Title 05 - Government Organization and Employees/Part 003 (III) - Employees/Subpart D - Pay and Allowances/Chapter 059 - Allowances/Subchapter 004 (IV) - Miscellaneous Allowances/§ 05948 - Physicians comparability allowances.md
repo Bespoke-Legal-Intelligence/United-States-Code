@@ -56,7 +56,7 @@
 
 (h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81 or 87 of this title, or other benefits related to basic pay.
 
-(2) Any allowance under this section for a Government physician shall be paid in the samemanner and at the same time as the physician's basic pay is paid.
+(2) Any allowance under this section for a Government physician shall be paid in the same manner and at the same time as the physician's basic pay is paid.
 
 (i) Any regulations, criteria, or conditions that may be prescribed under this section by the President or his designee shall not be applicable to the Tennessee Valley Authority, and the Tennessee Valley Authority shall have sole responsibility for administering the provisions of this section with respect to Government physicians employed by the Authority.
 
@@ -208,7 +208,7 @@ Limitation.—A modification taking effect under this subsection in any year sha
 
 #### Effectiveness of Service Agreements Limited by Appropriation Acts
 
-Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement entered into on or after the date ofthe enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 #### Due Date for First Annual Report on Operation of Section
 

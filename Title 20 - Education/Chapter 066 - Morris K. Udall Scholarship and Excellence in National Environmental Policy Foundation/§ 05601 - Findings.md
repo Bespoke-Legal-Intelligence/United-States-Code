@@ -12,6 +12,10 @@ The Congress finds that—
 
 (Pub. L. 102–259, §3, Mar. 19, 1992, 106 Stat. 78.)
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–160, §1, Dec. 6, 2003, 117 Stat. 2013, provided that: “This Act \[amending section 5609 of this title\] may be cited as the ‘Environmental Policy and Conflict Resolution Advancement Act of 2003’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–156, §1, Feb. 11, 1998, 112 Stat. 8, provided that: “This Act \[enacting sections 5607a and 5607b of this title and amending sections 5602 to 5607, 5608, and 5609 of this title\] may be cited as the ‘Environmental Policy and Conflict Resolution Act of 1998’.”

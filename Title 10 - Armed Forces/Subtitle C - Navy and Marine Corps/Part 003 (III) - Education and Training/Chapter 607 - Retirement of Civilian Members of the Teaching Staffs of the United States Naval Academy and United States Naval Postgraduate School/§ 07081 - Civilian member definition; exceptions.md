@@ -66,7 +66,7 @@ Act
 
 \[No source\].
 
-Subsection (c) is added to reflect the effect on chapter 607 of this title of the Act of July 31, 1956, ch. 804, §402(a) (70 Stat. 760) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the Act of January 16, 1936, ch. 3 (49 Stat. 1092) would no longer apply to civilians employed at those schools on or after that date.
+Subsection (c) is added to reflect the effect on chapter 607 of this title of the Act of July 31, 1956, ch. 804, §402(a) (70 Stat. 760) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the Act of January 16, 1936, ch. 3 (49 Stat. 1092)would no longer apply to civilians employed at those schools on or after that date.
 
 #### References in Text
 

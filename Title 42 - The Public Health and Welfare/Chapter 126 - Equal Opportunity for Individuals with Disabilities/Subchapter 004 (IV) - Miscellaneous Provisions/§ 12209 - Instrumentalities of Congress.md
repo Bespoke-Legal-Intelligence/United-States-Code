@@ -34,7 +34,7 @@ The General Accounting Office, the Government Printing Office, and the Library o
 
 #### References in Text
 
-The General Accounting Office Personnel Act of 1980, referred to in par. (7), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1 et seq. of former Title 31, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance.
+The General Accounting Office Personnel Act of 1980, referred to in par. (7), is Pub. L. 96–191, Feb. 15, 1980, 94 Stat. 27, which was classified principally to section 52–1et seq. of former Title 31, and which was substantially repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof principally in subchapters III (§731 et seq.) and IV (§751 et seq.) of chapter 7 of Title 31, Money and Finance.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 &emsp;(A) an annuity payable from the Fund commences on the first day of the month after—
 
-&emsp;&emsp;(i) separation from the service, in the case of an employee or Member retiring undersection 8412, or subsection (a), (b)(1)(B), or (d) of section 8414; or
+&emsp;&emsp;(i) separation from the service, in the case of an employee or Member retiring under section 8412, or subsection (a), (b)(1)(B), or (d) of section 8414; or
 
 &emsp;&emsp;(ii) pay ceases, and the applicable age and service requirements are met, in the case of an employee or Member retiring under section 8413;
 

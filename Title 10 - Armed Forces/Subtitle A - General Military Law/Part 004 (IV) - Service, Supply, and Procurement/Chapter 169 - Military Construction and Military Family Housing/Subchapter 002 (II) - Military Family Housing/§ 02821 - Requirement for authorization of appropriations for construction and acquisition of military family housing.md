@@ -30,9 +30,13 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Repair and Maintenance of Family Housing Units
 
-Pub. L. 107–64, §127, Nov. 5, 2001, 115 Stat. 482, provided that: “Notwithstanding this or any other provision of law, funds appropriated in Military Construction Appropriations Acts for operations and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days advance prior notification to the appropriate committees of Congress: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations all operations and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
+Pub. L. 108–132, §125, Nov. 22, 2003, 117 Stat. 1382, provided that: “Notwithstanding this or any other provision of law, funds appropriated in Military Construction Appropriations Acts for operations and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days advance prior notification to the appropriate committees of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations all operations and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–249, §127, Oct. 23, 2002, 116 Stat. 1586.
+
+Pub. L. 107–64, §127, Nov. 5, 2001, 115 Stat. 482.
 
 Pub. L. 106–246, div. A, §127, July 13, 2000, 114 Stat. 518.
 
@@ -48,13 +52,7 @@ Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended by 
 
 #### Family Housing Constructed Overseas
 
-Pub. L. 98–115, title VIII, §803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, §812, Aug. 28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, §1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that:
-
-“(a) The Secretary of Defense shall ensure that any contract entered into for the construction of military family housing for the Department of Defense in a foreign country shall (1) require the use of manufactured or factory-built housing which is fabricated in the United States by a United States contractor, or (2) in the case of concrete housing, the use of housing (A) that is produced in a plant that was fabricated in the United States by a United States company, and (B) for which the materials, fixtures, and equipment used in the construction of such housing (other than cement, sand, and aggregates) are manufactured in the United States.
-
-“(b) The Secretary of Defense may waive subsection (a) with respect to not more than 10 percent of the total number of military family housing units authorized to be constructed in foreign countries in any year if the Secretary determines that with respect to such units compliance with the requirement in such subsection is infeasible.
-
-“(c) This section shall apply to any contract entered into after the date of the enactment of this Act \[Oct. 11, 1983\].”
+Pub. L. 98–115, title VIII, §803, Oct. 11, 1983, 97 Stat. 784, as amended by Pub. L. 98–407, title VIII, §812, Aug. 28, 1984, 98 Stat. 1524; Pub. L. 101–510, div. A, title XIII, §1302(f), Nov. 5, 1990, 104 Stat. 1669, provided that any contract entered into for the construction of military family housing for the Department of Defense in a foreign country was to require the use of housing fabricated in the United States by a United States contractor or, in the case of concrete housing, the use of housing produced in a plant that was fabricated in the United States by a United States company, and for which the materials, fixtures, and equipment used in the construction (other than cement, sand, and aggregates) were manufactured in the United States, prior to repeal by Pub. L. 107–314, div. B, title XXVIII, §2804, Dec. 2, 2002, 116 Stat. 2705.
 
 #### Section Referred to in Other Sections
 

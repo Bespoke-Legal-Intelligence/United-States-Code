@@ -1,6 +1,6 @@
 ### §1066g. Minority business enterprise utilization
 
-In the performance of and with respect to the Secretary's effectuation of his responsibilities under section 1066d(1) of this title and to the maximum extent feasible in the implementation of the purposes of this part, minority business persons, including bond underwriters and credit enhancers, bond counsel, marketers, accountants, advisors, construction contractors, and managers should be utilized.
+In the performance of and with respect to the Secretary's effectuation of his responsibilitiesunder section 1066d(1) of this title and to the maximum extent feasible in the implementation of the purposes of this part, minority business persons, including bond underwriters and credit enhancers, bond counsel, marketers, accountants, advisors, construction contractors, and managers should be utilized.
 
 (Pub. L. 89–329, title III, §348, formerly title VII, §728, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 747; renumbered title III, §348, and amended Pub. L. 105–244, title III, §301(a)(3), (4), (c)(7), Oct. 7, 1998, 112 Stat. 1636, 1637.)
 

@@ -26,7 +26,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred toas “Mid-Career Investigator Awards in Patient-Oriented Research”) to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Mid-Career Investigator Awards in Patient-Oriented Research”) to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
 
 #### (B) Use
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master's or doctoral degrees in clinical investigation.
+&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as“Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master's or doctoral degrees in clinical investigation.
 
 #### (2) Applications
 

@@ -12,7 +12,7 @@
 
 > is nonmailable.
 
-(2) Matter made nonmailable by this subsection which reaches the office of destination may be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
+(2) Matter made nonmailable by this subsection which reaches the office of destinationmay be delivered in accordance with its address, if the party addressed furnishes the name and address of the sender.
 
 (d) Matter otherwise legally acceptable in the mails which—
 
@@ -40,7 +40,7 @@
 
 (g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
 
-(2) The Postal Service shall by regulation establish the standards or requirements which afragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
+(2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
 (h) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
@@ -54,7 +54,7 @@
 
 &emsp;(3) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(i) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for information or the contribution of funds or membership fees and which reasonably could be interpreted or construed as implying any Federal Government connection,approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(1) such nongovernmental entity has such expressed connection, approval or endorsement;
 
@@ -126,7 +126,7 @@
 
 &emsp;(VIII) represents that an individual is a winner of a prize unless that individual has won such prize; or
 
-&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including any statement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
+&emsp;(IX) contains a representation that contradicts, or is inconsistent with sweepstakes rules or any other disclosure required to be made under this subsection, including anystatement qualifying, limiting, or explaining the rules or disclosures in a manner inconsistent with such rules or disclosures;
 
 &emsp;(B)(i) includes entry materials for a skill contest or a promotion that purports to be a skill contest; and
 
@@ -174,7 +174,7 @@
 
 &emsp;(ii) that attorney general transmits such request to the mailer.
 
-(2) Any person who mails matter to which subsection (h), (i), (j), or (k) applies shall maintainor cause to be maintained a record of all requests made under paragraph (1). The records shall be maintained in a form to permit the suppression of an applicable name at the applicable address for a 5-year period beginning on the date the written request under paragraph (1) is submitted to the mailer.
+(2) Any person who mails matter to which subsection (h), (i), (j), or (k) applies shall maintain or cause to be maintained a record of all requests made under paragraph (1). The records shall be maintained in a form to permit the suppression of an applicable name at the applicable address for a 5-year period beginning on the date the written request under paragraph (1) is submitted to the mailer.
 
 (m) Except as otherwise provided by law, proceedings concerning the mailability of matter under this chapter and chapters 71 and 83 of title 18 shall be conducted in accordance with chapters 5 and 7 of title 5.
 
@@ -248,7 +248,7 @@ Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuantto section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuant to section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
 
 Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 

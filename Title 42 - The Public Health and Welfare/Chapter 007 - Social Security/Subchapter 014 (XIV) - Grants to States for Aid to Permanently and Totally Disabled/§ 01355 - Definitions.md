@@ -8,7 +8,7 @@ For the purposes of this subchapter, the term “aid to the permanently and tota
 
 &emsp;(3) undertaking and continuing special efforts to protect the welfare of such individual and to improve, to the extent possible, his capacity for self-care and to manage funds;
 
-&emsp;(4) periodic review by such State agency of the determination under paragraph (1) to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title, if and when it appearsthat such action will best serve the interests of such needy individual; and
+&emsp;(4) periodic review by such State agency of the determination under paragraph (1) to ascertain whether conditions justifying such determination still exist, with provision for termination of such payments if they do not and for seeking judicial appointment of a guardian or other legal representative, as described in section 1311 of this title, if and when it appears that such action will best serve the interests of such needy individual; and
 
 &emsp;(5) opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) for any individual with respect to whom it is made.
 
@@ -18,7 +18,7 @@ For the purposes of this subchapter, the term “aid to the permanently and tota
 
 #### Repeal of Section
 
-<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+<i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is</i><i>repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
 #### Amendments
 

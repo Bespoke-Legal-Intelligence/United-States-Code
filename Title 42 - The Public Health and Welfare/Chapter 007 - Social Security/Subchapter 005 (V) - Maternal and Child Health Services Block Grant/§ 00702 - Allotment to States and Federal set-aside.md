@@ -24,7 +24,7 @@
 
 #### (c) Allotments to States
 
-From the remaining amounts appropriated under section 701(a) of this title for any fiscal year that are not in excess of $600,000,000, the Secretary shall allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title, an amount determined as follows:
+From the remaining amounts appropriated under section 701(a) of this title for any fiscal year that are not in excess of $600,000,000, the Secretary shall allot to each State which hastransmitted an application for the fiscal year under section 705(a) of this title, an amount determined as follows:
 
 &emsp;(1) The Secretary shall determine, for each State—
 
@@ -44,7 +44,7 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 #### (d) Re-allotment of unallotted funds
 
-(1) To the extent that all the funds appropriated under this subchapter for a fiscal yearare not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
+(1) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
 (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
@@ -82,7 +82,7 @@ Subsec. (a)(2)(B). Pub. L. 99–272 substituted “programs for children with sp
 
 Subsec. (b). Pub. L. 99–509, §9441(b)(2), inserted “that are not in excess of $478,000,000” in introductory provisions and struck out par. (3) which read as follows:
 
-“(A) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705 of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705 of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.
+“(A) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705 of this title for the fiscal year or because some Stateshave indicated in their descriptions of activities under section 705 of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.
 
 “(B) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph.”
 

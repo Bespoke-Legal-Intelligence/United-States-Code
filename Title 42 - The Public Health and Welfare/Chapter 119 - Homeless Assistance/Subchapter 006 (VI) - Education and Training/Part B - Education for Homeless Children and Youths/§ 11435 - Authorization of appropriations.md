@@ -1,6 +1,6 @@
 ### §11435. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $70,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2007.
+For the purpose of carrying out this part, there are authorized to be appropriated $70,000,000 for fiscal year 2002 and such sums asmay be necessary for each of fiscal years 2003 through 2007.
 
 (Pub. L. 100–77, title VII, §726, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2006.)
 

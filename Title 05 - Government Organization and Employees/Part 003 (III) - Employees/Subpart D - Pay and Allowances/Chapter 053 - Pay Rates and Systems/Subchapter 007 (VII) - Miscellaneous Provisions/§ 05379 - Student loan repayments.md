@@ -18,9 +18,9 @@
 
 (2) Payments under this section shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the agency and employee concerned, except that the amount paid by an agency under this section may not exceed—
 
-&emsp;(A) $6,000 for any employee in any calendar year; or
+&emsp;(A) $10,000 for any employee in any calendar year; or
 
-&emsp;(B) a total of $40,000 in the case of any employee.
+&emsp;(B) a total of $60,000 in the case of any employee.
 
 (3) Nothing in this section shall be considered to authorize an agency to pay any amount to reimburse an employee for any repayments made by such employee prior to the agency's entering into an agreement under this section with such employee.
 
@@ -48,7 +48,7 @@
 
 &emsp;(2) does not maintain an acceptable level of performance, as determined under standards and procedures which the agency head shall by regulation prescribe.
 
-(e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of this title, take into consideration the need to maintain a balanced workforce in which women andmembers of racial and ethnic minority groups are appropriately represented in Government service.
+(e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of this title, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
 (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
 
@@ -64,7 +64,7 @@
 
 (2) The Director of the Office of Personnel Management shall prepare, and annually submit to Congress, a report containing the information submitted under paragraph (1), and information identifying the agencies that have provided benefits under this section.
 
-(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316.)
+(Added Pub. L. 101–510, div. A, title XII, §1206(b)(1), Nov. 5, 1990, 104 Stat. 1659; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a), (b), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–316; Pub. L. 108–123, §2, Nov. 11, 2003, 117 Stat. 1345; Pub. L. 108–136, div. A, title XI, §1123(a), Nov. 24, 2003, 117 Stat. 1637.)
 
 #### References in Text
 
@@ -73,6 +73,10 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1)(B)(i), (ii), is 
 The Public Health Service Act, referred to in subsec. (a)(1)(B)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+2003—Subsec. (b)(2)(A). Pub. L. 108–123, §2(1), and Pub. L. 108–136 amended subpar. (A) identically, substituting “$10,000” for “$6,000”.
+
+Subsec. (b)(2)(B). Pub. L. 108–123, §2(2), substituted “$60,000” for “$40,000”.
 
 2000—Subsec. (a)(1)(B)(i). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(a)(1)\], inserted “(20 U.S.C. 1071 et seq.)” before semicolon.
 
@@ -86,9 +90,13 @@ Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(1)\], a
 
 &emsp;“(B) is not subject to subchapter III of this chapter.”
 
-Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(2)\], struck out “professional, technical, or administrative” after “ highly qualified”.
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(b)(2)\], struck out “professional, technical, or administrative” after “highly qualified”.
 
 Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(d)\], added subsec. (h).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title XI, §1123(b), Nov. 24, 2003, 117 Stat. 1637, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2004.”
 
 #### Regulations
 

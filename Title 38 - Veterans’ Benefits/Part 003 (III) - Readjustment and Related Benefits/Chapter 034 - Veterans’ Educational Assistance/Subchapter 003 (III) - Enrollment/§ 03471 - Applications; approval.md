@@ -1,14 +1,16 @@
 ### §3471. Applications; approval
 
-Any eligible veteran, or any person on active duty (after consultation with the appropriate service education officer), who desires to initiate a program of education under this chapter shall submit an application to the Secretary which shall be in such form, and contain such information, as the Secretary shall prescribe. The Secretary shall approve such application unless the Secretary finds that (1) such veteran or person is not eligible for or entitled to the educational assistance for which application is made, (2) the veteran's or person's selected educational institution or training establishment fails to meet any requirement of this chapter or chapter 36 of this title, (3) the veteran's or person's enrollment in, or pursuit of, the program of education selected would violate any provision of this chapter or chapter 36 of this title, or (4) the veteran or person is already qualified, by reason of previous education or training, for the educational, professional, or vocational objective for which the program of education is offered. The Secretary shall notify the veteran or person of the approval or disapproval of the veteran's or person's application.
+Any eligible veteran, or any person on active duty (after consultation with the appropriate service education officer), who desires to initiate a program of education under this chapter shall submit an application to the Secretary which shall be in such form, and contain such information, as the Secretary shall prescribe. The Secretary shall approve such application unless the Secretary finds that (1) such veteran or person is not eligible for or entitled to the educational assistance for which application is made, (2) the veteran's or person's selected educational institution or training establishment fails to meet any requirement of this chapter or chapter 36 of this title, (3) the veteran's or person's enrollment in, or pursuit of, the program of education selected would violate any provision of this chapter or chapter 36 of this title, or (4) the veteran or person is already qualified, by reason of previous education or training, for the educational, professional, or vocational objective for which the program of education is offered. The Secretary shall not treat a person as already qualified for the objective of a program of education offered by a qualified provider of entrepreneurship courses solely because such person is the owner or operator of a business. The Secretary shall notify the veteran or person of the approval or disapproval of the veteran's or person's application.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15, §1671; amended Pub. L. 92–540, title III, §302, Oct. 24, 1972, 86 Stat. 1080; Pub. L. 94–502, title II, §211(6), Oct. 15, 1976, 90 Stat. 2388; Pub. L. 96–466, title III, §302, Oct. 17, 1980, 94 Stat. 2192; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3471, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15, §1671; amended Pub. L. 92–540, title III, §302, Oct. 24, 1972, 86 Stat. 1080; Pub. L. 94–502, title II, §211(6), Oct. 15, 1976, 90 Stat. 2388; Pub. L. 96–466, title III, §302, Oct. 17, 1980, 94 Stat. 2192; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3471, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 108–183, title III, §305(b), Dec. 16, 2003, 117 Stat. 2660.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1177, which was classified to section 1621 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+
+2003—Pub. L. 108–183 inserted before last sentence “The Secretary shall not treat a person as already qualified for the objective of a program of education offered by a qualified provider of entrepreneurship courses solely because such person is the owner or operator of a business.”
 
 1991—Pub. L. 102–83 renumbered section 1671 of this title as this section.
 
@@ -19,6 +21,10 @@ Provisions similar to those comprising this section were contained in Pub. L. 85
 1976—Pub. L. 94–502 substituted “unless the Administrator finds” for “unless he finds”, “the veteran or person” for “he”, and “the veteran's or person's” for “his” in two places.
 
 1972—Pub. L. 92–540 inserted provision authorizing any person on active duty, after consultation with the appropriate service education officer, to submit an application to the Administrator.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–183 applicable to courses approved by State approving agencies after Dec. 16, 2003, see section 305(f) of Pub. L. 108–183, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1980 Amendment
 

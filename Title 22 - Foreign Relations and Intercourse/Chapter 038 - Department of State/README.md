@@ -9,7 +9,8 @@
 | (c) | Assistant Secretaries. |
 | (d) | Other senior officials. |
 | (e) | Coordinator for Counterterrorism. |
-| (f) | Qualifications of certain officers of the Department of State. |
+| (f) | HIV/AIDS response Coordinator. |
+| (g) | Qualifications of certain officers of the Department of State. |
 | 2652, 2652a. Repealed. |  |
 | [2652b.](%C2%A7%2002652b%20-%20Assistant%20Secretary%20of%20State%20for%20South%20Asian%20Affairs.md) | Assistant Secretary of State for South Asian Affairs. |
 | (a) | Establishment of position. |
@@ -301,6 +302,10 @@
 | (d) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 7602 of this title.
 
 
 ---

@@ -1,6 +1,6 @@
 ### §6152. Emergency shore duty: advance of funds
 
-Under such regulations as the President approves, the Secretary of the Navy may, to meetnecessary expenses, advance funds to members of the naval service detailed on emergency shore duty. The funds advanced may not exceed the reasonable estimate of expenses to be incurred for which reimbursement is authorized.
+Under such regulations as the President approves, the Secretary of the Navy may, to meet necessary expenses, advance funds to members of the naval service detailed on emergency shore duty. The funds advanced may not exceed the reasonable estimate of expenses to be incurred for which reimbursement is authorized.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 386.)
 

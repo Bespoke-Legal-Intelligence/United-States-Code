@@ -58,13 +58,23 @@ Use of previous fiscal year's apportionment.—Notwithstanding subparagraph (A),
 
 &emsp;&emsp;&emsp;(iii) the cause of the shortfall in passenger boardings was a temporary but significant interruption in service by an air carrier to that airport due to an employment action, natural disaster, or other event unrelated to the demand for air transportation at the affected airport.
 
+&emsp;&emsp;(F)
+
+Special rule for fiscal years 2004 and 2005.—Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary may apportion in fiscal years 2004 and 2005 to the sponsor of the airport an amount equal to the amount apportioned to that sponsor in fiscal year 2002 or 2003, whichever amount is greater, if the Secretary finds that—
+
+&emsp;&emsp;&emsp;(i) the passenger boardings at the airport were below 10,000 in calendar year 2002 or 2003;
+
+&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings and scheduled passenger aircraft service in either calendar year 2000 or 2001; and
+
+&emsp;&emsp;&emsp;(iii) the reason that passenger boardings described in clause (i) were below 10,000 was the decrease in passengers following the terrorist attacks of September 11, 2001.
+
 (2)
 
-Cargo only airports.—
+Cargo airports.—
 
 &emsp;(A)
 
-Apportionment.—Subject to subparagraph (D), the Secretary shall apportion an amount equal to 3 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds.
+Apportionment.—Subject to subparagraph (D), the Secretary shall apportion an amount equal to 3.5 percent of the amount subject to apportionment each fiscal year to the sponsors of airports served by aircraft providing air transportation of only cargo with a total annual landed weight of more than 100,000,000 pounds.
 
 &emsp;(B)
 
@@ -192,17 +202,17 @@ Effective date of reduction.—A reduction in an apportionment required by parag
 
 &emsp;(3)
 
-Special rule for transitioning airorts.<sup>1</sup>—
+Special rule for transitioning airports.—
 
 &emsp;&emsp;(A)
 
-In general.—Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the fee in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenuesderived from such fee in the preceding fiscal year.
+In general.—Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the fee in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenues derived from such fee in the preceding fiscal year.
 
 &emsp;&emsp;(B)
 
-Effective period.—Subparagraph (A) shall be in effect for fiscal years 2000 through 2003.
+Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504.)
 
 Historical and Revision Notes
 
@@ -307,9 +317,27 @@ In subsection (c)(3)(B), the words “the total of all amounts apportioned under
 
 #### References in Text
 
-Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a)of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+2003—Subsec. (c)(1)(F). Pub. L. 108–176, §146(a), added subpar. (F).
+
+Subsec. (c)(2). Pub. L. 108–176, §147(1), struck out “
+
+only” after “
+
+Cargo” in heading.
+
+Subsec. (c)(2)(A). Pub. L. 108–176, §147(2), substituted “3.5 percent” for “3 percent”.
+
+Subsec. (f)(3). Pub. L. 108–176, §146(b)(1), substituted “
+
+airports” for “
+
+airorts” in heading.
+
+Subsec. (f)(3)(B). Pub. L. 108–176, §146(b)(2), substituted “fiscal year 2004” for “fiscal years 2000 through 2003”.
 
 2000—Subsec. (c)(1). Pub. L. 106–181, §104(a)(2)(A), (C), inserted headings for par. (1) and subpar. (A) and realigned margins.
 
@@ -321,7 +349,7 @@ Subsec. (c)(2)(A). Pub. L. 106–181, §104(b)(1), substituted “3 percent” f
 
 Subsec. (c)(2)(C). Pub. L. 106–181, §104(b)(2), substituted “In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than” for “Not more than”.
 
-Subsec. (d). Pub. L. 106–181, §104(c), amended heading and text of subsec. (d) generally, revising and restatingas pars. (1) to (6) provisions formerly contained in pars. (1) to (3).
+Subsec. (d). Pub. L. 106–181, §104(c), amended heading and text of subsec. (d) generally, revising and restating as pars. (1) to (6) provisions formerly contained in pars. (1) to (3).
 
 Subsec. (e). Pub. L. 106–181, §104(d)(1), substituted “Supplemental” for “Alternative” in heading.
 
@@ -359,6 +387,10 @@ Subsec. (d)(2)(B), (C). Pub. L. 104–264, §§121(b)(3), (4), substituted “49
 
 Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -389,7 +421,5 @@ Pub. L. 107–71, title I, §119(b), Nov. 19, 2001, 115 Stat. 629, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 41742, 47102, 47104, 47105, 47106, 47107, 47108, 47110, 47115, 47116, 47117, 47119, 47124, 47134, 47135 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “airports”.</i>
+This section is referred to in sections 41742, 47102, 47104, 47105, 47106, 47107, 47108, 47110, 47115, 47116, 47117, 47118, 47119, 47124, 47134, 47135, 47173 of this title.
 

@@ -88,5 +88,5 @@ The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Suppo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 262d, 282m, 2295b, 6036 of this title; title 20 section 6715; title 50 sections 2302, 2357a.
+This section is referred to in sections 262d, 282m, 2295b, 6036 of this title; title 2 section 1151; title 20 section 6715; title 50 sections 2302, 2357a.
 

@@ -44,11 +44,11 @@ The Secretary may, at the request of a recipient of a grant under subsection (a)
 
 > when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
-(Pub. L. 94–437, title II, §218, as added Pub. L. 102–573, title II, §214, Oct. 29, 1992, 106 Stat. 4556; amended Pub. L. 103–437, §10(e)(1), (2)(B), Nov. 2, 1994, 108 Stat. 4589.)
+(Pub. L. 94–437, title II, §218, as added Pub. L. 102–573, title II, §214, Oct. 29, 1992, 106 Stat. 4556;amended Pub. L. 103–437, §10(e)(1), (2)(B), Nov. 2, 1994, 108 Stat. 4589.)
 
 #### Amendments
 
-1994—Subsec. (d)(4). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian”and “Natural Resources” for “Interior and Insular Affairs”.
+1994—Subsec. (d)(4). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
 #### Change of Name
 

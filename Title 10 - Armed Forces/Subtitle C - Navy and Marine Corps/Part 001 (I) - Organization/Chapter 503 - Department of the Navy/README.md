@@ -19,10 +19,13 @@
 | [5024\.](%C2%A7%2005024%20-%20Naval%20Research%20Advisory%20Committee.md) | Naval Research Advisory Committee. |
 | [5025\.](%C2%A7%2005025%20-%20Financial%20management.md) | Financial management. |
 | [5026\.](%C2%A7%2005026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md) | Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation. |
+| [5027\.](%C2%A7%2005027%20-%20Chief%20of%20Legislative%20Affairs.md) | Chief of Legislative Affairs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §504(d)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5027.
 
 1998—Pub. L. 105–261, div. A, title IX, §935(b), Oct. 17, 1998, 112 Stat. 2110, added item 5026.
 
@@ -58,3 +61,4 @@
 - [&sect; 05024 - Naval Research Advisory Committee](%C2%A7%2005024%20-%20Naval%20Research%20Advisory%20Committee.md)
 - [&sect; 05025 - Financial management](%C2%A7%2005025%20-%20Financial%20management.md)
 - [&sect; 05026 - Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation](%C2%A7%2005026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md)
+- [&sect; 05027 - Chief of Legislative Affairs](%C2%A7%2005027%20-%20Chief%20of%20Legislative%20Affairs.md)

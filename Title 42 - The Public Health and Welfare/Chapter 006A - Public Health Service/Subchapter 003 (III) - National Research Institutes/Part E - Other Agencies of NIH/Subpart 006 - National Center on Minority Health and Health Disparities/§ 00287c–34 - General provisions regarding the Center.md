@@ -2,7 +2,7 @@
 
 #### (a) Administrative support for Center
 
-The Secretary, acting through the Director of the National Institutes of Health, shall provideadministrative support and support services to the Director of the Center and shall ensure that such support takes maximum advantage of existing administrative structures at the agencies of the National Institutes of Health.
+The Secretary, acting through the Director of the National Institutes of Health, shall provide administrative support and support services to the Director of the Center and shall ensure that such support takes maximum advantage of existing administrative structures at the agencies of the National Institutes of Health.
 
 #### (b) Evaluation and report
 

@@ -26,5 +26,5 @@ For purposes of this subchapter:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D of title XXXI of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 931, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 7383 of this title and Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle D of title XXXI ofdiv. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 931, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Short Title note set out under section 7383 of this title and Tables.
 

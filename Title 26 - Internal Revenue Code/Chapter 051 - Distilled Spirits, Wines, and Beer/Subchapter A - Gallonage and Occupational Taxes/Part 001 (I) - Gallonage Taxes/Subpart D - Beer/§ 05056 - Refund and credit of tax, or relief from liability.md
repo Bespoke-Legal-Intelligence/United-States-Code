@@ -14,7 +14,7 @@ Any tax paid by any brewer on beer removed for consumption or sale may be refund
 
 #### (d) Limitations
 
-No claim under this section shall be allowed (1) unless filed within 6 months after the date ofthe return, loss, destruction, rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant or (2) if the claimant was indemnified by insurance or otherwise in respect of the tax.
+No claim under this section shall be allowed (1) unless filed within 6 months after the date of the return, loss, destruction, rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant or (2) if the claimant was indemnified by insurance or otherwise in respect of the tax.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 91–673, §1(a), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, §1414(c), Aug. 5, 1997, 111 Stat. 1047; Pub. L. 105–206, title VI, §6014(a)(3), July 22, 1998, 112 Stat. 820.)
 

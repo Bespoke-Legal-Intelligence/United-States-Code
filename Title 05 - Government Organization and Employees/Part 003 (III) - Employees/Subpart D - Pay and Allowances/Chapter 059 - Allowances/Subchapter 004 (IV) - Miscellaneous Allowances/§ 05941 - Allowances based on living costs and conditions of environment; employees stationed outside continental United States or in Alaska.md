@@ -10,7 +10,7 @@
 
 > The allowance may not exceed 25 percent of the rate of basic pay. Except as otherwise specifically authorized by statute, the allowance is paid only in accordance with regulations prescribed by the President establishing the rates and defining the area, groups of positions, and classes of employees to which each rate applies.
 
-(b) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of thissection based on living costs substantially higher than in the District of Columbia.
+(b) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512.)
 
@@ -50,7 +50,7 @@ Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pu
 
 &emsp;“(1) an examination of the pay practices of other employers in the affected areas;
 
-&emsp;“(2) a consideration of alternative approaches to dealing with the unusual and unique circumstances of the affected areas, including modifications to the current methodology for calculating allowances to take into account all cost of living in the geographic areas of the affected employee; and
+&emsp;“(2) a consideration of alternative approaches to dealing with the unusual and unique circumstances ofthe affected areas, including modifications to the current methodology for calculating allowances to take into account all cost of living in the geographic areas of the affected employee; and
 
 &emsp;“(3) an evaluation of the likely impact of the different approaches on the Government's ability to recruit and retain a well-qualified workforce.
 
@@ -182,7 +182,7 @@ Periodic Review. The Office of Personnel Management shall periodically review th
 
 Sec. 301.
 
-Temporary Regulations. During the period commencing with the date of this order or the effective date of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under Parts I and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
+Temporary Regulations. During the period commencing with the date of this order or the effective date of section 207 of the Act (as defined in section 101 hereof), whichever shall occur earlier, and ending on a date or dates fixed by the Secretary of State and the Office of Personnel Management, respectively, as the effective dates of the designation of places and of the fixing of additional rates of compensation, under PartsI and II of this order, but in no event later than January 1, 1949, and notwithstanding the provisions of Parts I and II of this order, the payment of salaries and compensation (including the payment of additional compensation) of persons subject to the provisions of said section 207 shall be governed by the regulations and practices in effect in the respective Executive departments, independent establishments, and wholly owned government corporations immediately prior to April 20, 1948. Executive Order No. 9962 of May 24, 1948 is hereby revoked.
 
 #### Part IV—Foreign Service Salary Differentials
 

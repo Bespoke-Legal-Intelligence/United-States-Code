@@ -30,6 +30,12 @@ The Congress finds that—
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–169, title I, §101, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title \[amending section 2216 of this title and enacting provisions set out as a note under section 2204 of this title\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2003’.”
+
+Pub. L. 108–169, title II, §201, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title \[amending sections 2206, 2207, 2209, and 2229 of this title and sections 151303, 151304, and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under section 2206 of this title\] may be cited as the ‘Firefighting Research and Coordination Act’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that: “This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the ‘Fire Administration Authorization Act of 2000’.”
@@ -44,7 +50,7 @@ Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
 
 #### Short Title
 
@@ -250,7 +256,7 @@ While serving an important “all hazards” readiness and response role, civil 
 
 <i>Fourth, Federal hazard mitigation activities should be closely linked with emergency preparedness and response functions</i>. This reorganization would permit more rational decisions on the relative costs and benefits of alternative approaches to disasters by making the Federal Emergency Management Agency the focal point of all Federal hazard mitigation activities and by combining these with the key Federal preparedness and response functions.
 
-The affected hazard mitigation activities include the Federal Insurance Administration which seeks to reduce flood losses by assisting states and local governments in developing appropriate land uses and building standards and several agencies that presently seek to reduce fire and earthquake losses through research and education.
+The affected hazard mitigation activities include the Federal Insurance Administration which seeks to reduce flood losses by assisting states and local governments in developing appropriate land uses and building standards and several agencies that presently seek toreduce fire and earthquake losses through research and education.
 
 Most State and local governments have consolidated emergency planning, preparedness and response functions on an “all hazard” basis to take advantage of the similarities in preparing for and responding to the full range of potential emergencies. The Federal Government can and should follow this lead.
 
@@ -268,7 +274,7 @@ The White House, June 19, 1978
 
 Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 
@@ -278,7 +284,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 (b) There was also transferred from the Department of Commerce any function concerning the Emergency Broadcast System which was transferred to the Secretary of Commerce by Section 5B of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
 
-1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
+1–104. The functions transferred from the Department of Housing and Urban Development are those vested in the Secretary of Housing and Urban Development pursuant to Section 15(e) of the Federal Flood Insurance Act of 1956, as amended (42 U.S.C. 2414(e)), and the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\] and the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001 et seq.), and Section 520(b) of the National Housing Act, as amended (12 U.S.C. 1735d(b)), to the extent necessary to borrow from the Treasury to make payments for reinsured and directly insured losses, and Title XII of the National Housing Act, as amended (\[formerly\] 12 U.S.C. 1749bbb et seq., and as explained in Section 1 of the National Insurance Development Act of 1975 (Section 1 of Public Law 94–13 \[formerly\] at 12 U.S.C. 1749bbb note)). (Section 202 of the Plan.)
 
 1–105. The functions transferred from the President are those concerning the Emergency Broadcast System which were transferred to the President by Section 5 of Reorganization Plan No. 1 of 1977 (42 FR 56101; implemented by Executive Order No. 12046 of March 27, 1978) \[set out in Title 5, Appendix, Government Organization and Employees; set out as a note under section 305 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\]. (Section 203 of the Plan.)
 

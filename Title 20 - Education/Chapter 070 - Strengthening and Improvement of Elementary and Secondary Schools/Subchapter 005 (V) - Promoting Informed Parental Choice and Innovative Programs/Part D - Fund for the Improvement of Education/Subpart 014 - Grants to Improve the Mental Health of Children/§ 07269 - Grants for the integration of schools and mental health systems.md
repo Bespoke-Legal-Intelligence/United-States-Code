@@ -6,7 +6,7 @@ The Secretary is authorized to award grants to, or enter into contracts or coope
 
 #### (b) Duration
 
-With respect to a grant, contract, or cooperative agreement awarded or entered into under this section, the period during which payments under such grant, contract or agreement are made to the recipient may not exceed 5 years.
+With respect to a grant, contract, or cooperative agreement awarded or entered into under this section, the period during which paymentsunder such grant, contract or agreement are made to the recipient may not exceed 5 years.
 
 #### (c) Use of funds
 
@@ -88,5 +88,5 @@ Any services provided through programs carried out under this section must suppl
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (i), is title VI of Pub. L. 91–230, Apr.13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

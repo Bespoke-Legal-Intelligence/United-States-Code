@@ -44,7 +44,7 @@
 
 &emsp;(5) the Botanic Garden; and
 
-&emsp;(6) the Administrative Office of the United States Courts, the Federal Judicial Center,and any of the courts set forth in section 610 of title 28.
+&emsp;(6) the Administrative Office of the United States Courts, the Federal Judicial Center, and any of the courts set forth in section 610 of title 28.
 
 > For purposes of this section, the Director of the Administrative Office of the United States Courts shall be the head of the agency in the case of those entities set forth in paragraph (6) of this subsection.
 

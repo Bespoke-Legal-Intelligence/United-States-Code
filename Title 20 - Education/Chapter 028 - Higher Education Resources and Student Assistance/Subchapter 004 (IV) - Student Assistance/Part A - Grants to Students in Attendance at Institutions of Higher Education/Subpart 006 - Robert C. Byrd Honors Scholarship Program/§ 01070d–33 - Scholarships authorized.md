@@ -20,7 +20,7 @@ A student awarded a scholarship under this subpart may attend any institution of
 
 Individuals awarded scholarships under this subpart shall be known as “Byrd Scholars”.
 
-(Pub. L. 89–329, title IV, §419C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(b), July 23, 1992, 106 Stat. 508; Pub. L. 103–208, §2(b)(28), Dec. 20, 1993, 107 Stat. 2459.)
+(Pub. L. 89–329, title IV, §419C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1344; amended Pub. L. 102–325, title IV, §406(b),July 23, 1992, 106 Stat. 508; Pub. L. 103–208, §2(b)(28), Dec. 20, 1993, 107 Stat. 2459.)
 
 #### Prior Provisions
 
@@ -34,7 +34,7 @@ A prior section 1070d–33, Pub. L. 89–329, title IV, §419C, as added Pub. L.
 
 &emsp;“(2) the State educational agency shall award not less than that number of scholarships for a period of 4 years.”
 
-1992—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Scholarships under this section shall be awardedfor a period of one academic year for the first year of study at an institution of higher education.”
+1992—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Scholarships under this section shall be awarded for a period of one academic year for the first year of study at an institution of higher education.”
 
 #### Effective Date of 1993 Amendment
 

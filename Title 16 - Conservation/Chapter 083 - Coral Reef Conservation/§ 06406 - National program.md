@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the availability of appropriations, the Secretary may conduct activities to conserve coral reefs and coral reef ecosystems, that are consistent with this chapter, the National Marine Sanctuaries Act \[16 U.S.C. 1431 et seq.\], the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\], the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
+Subject to the availability of appropriations, the Secretary may conduct activities to conserve coral reefs and coral reef ecosystems, that are consistent with this chapter, the NationalMarine Sanctuaries Act \[16 U.S.C. 1431 et seq.\], the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\], the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\].
 
 #### (b) Authorized activities
 

@@ -8,7 +8,7 @@
 
 (c)(1)(A) The Chairman shall establish a panel to review the performance of members of the Board. The panel shall be comprised of the Chairman and two other members of the Board (other than the Vice Chairman). The Chairman shall periodically rotate membership on the panel so as to ensure that each member of the Board (other than the Vice Chairman) serves as a member of the panel for and within a reasonable period.
 
-(B) Not less than one year after the job performance standards under subsection (f) are initially established, and not less often than once every three years thereafter, the performance review panel shall determine, with respect to each member of the Board (other than the Chairman or a member who is a member of the Senior Executive Service), whether that member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f). Each such determination shall be in writing.
+(B) Not less than one year after the job performance standards under subsection (f) are initially established, and not less often than once every three years thereafter, the performance review panel shall determine, with respect to each member of the Board (other than the Chairman or a member who is a member of theSenior Executive Service), whether that member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f). Each such determination shall be in writing.
 
 (2) If the determination of the performance review panel in any case is that the member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f), the Chairman shall recertify the member's appointment as a member of the Board.
 
@@ -18,7 +18,7 @@
 
 &emsp;(B) recommend to the Secretary that the member be noncertified.
 
-(4) In the case of a member of the Board who is granted a conditional recertification under paragraph (3)(A) or (5)(A), the performance review panel shall review the member's job performance record and make a further determination under paragraph (1) concerning that member not later than one year after the date of theconditional recertification. If the determination of the performance review panel at that time is that the member's job performance as a member of the Board still does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall recommend to the Secretary that the member be noncertified.
+(4) In the case of a member of the Board who is granted a conditional recertification under paragraph (3)(A) or (5)(A), the performance review panel shall review the member's job performance record and make a further determination under paragraph (1) concerning that member not later than one year after the date of the conditional recertification. If the determination of the performance review panel at that time is that the member's job performance as a member of the Board still does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall recommend to the Secretary that the member be noncertified.
 
 (5) In a case in which the Chairman recommends to the Secretary under paragraph (3) or (4) that a member be noncertified, the Secretary, after considering the recommendation of the Chairman, may either—
 
@@ -66,5 +66,5 @@ Deadline.—The job performance standards required to be established by section 
 
 “(b)
 
-Submission to Congressional Committees.—Not later than the date on which the standards referred to in subsection (a) take effect, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report describing the standards established by the Chairman of the Board of Veterans’ Appeals.”
+Submission to Congressional Committees.—Not later than the date on which the standards referred toin subsection (a) take effect, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report describing the standards established by the Chairman of the Board of Veterans’ Appeals.”
 

@@ -24,7 +24,7 @@ Today, all responsibilities for the administration of the park are vested in the
 
 Under the accompanying reorganization plan, the responsibility for the preparation of these plans and specifications would be transferred from the District of Columbia Board of Commissioners to the Smithsonian. The complete administration of the park would then be vested in one agency—the Smithsonian Institution. This will allow the more efficient and effective development and management of the park.
 
-In 1912, the functions to be transferred were vested in the Municipal Architect of the District of Columbia and in the Engineers of the Bridges of the District of Columbia. In 1952, they were transferred to the Board of Commissioners.
+In 1912, the functions to be transferred were vested in the Municipal Architect of the District of Columbiaand in the Engineers of the Bridges of the District of Columbia. In 1952, they were transferred to the Board of Commissioners.
 
 When the 1912 act was passed, the District of Columbia shared the costs of capital improvements in the National Zoological Park. In 1961, it ceased sharing these costs, and the Federal Government assumed complete responsibility for financing the improvements. Accordingly, the District government retains no capital improvement responsibilities for the National Zoological Park except those functions relating to construction plans and specifications for buildings and bridges, as specified in the 1912 statute. Upon the transfer of these remaining functions to the Smithsonian Institution, the administration of the National Zoological Park will, at last, be fully centered in one agency. It is not practicable at this time, however, to itemize the resulting reduction in expenditures.
 

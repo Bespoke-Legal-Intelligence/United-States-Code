@@ -54,7 +54,7 @@ The Federal share of a grant received under this chapter may not exceed 75 perce
 
 #### (g) Reports
 
-Each entity that receives a grant under this subchapter shall submit to the Attorney General, for each year in which funds from a grant received under this subchapter is expended, a description and an evaluation report at such time and in such manner as the Attorney General may reasonably require that contains—
+Each entity that receives a grant under this subchapter shall submit to the Attorney General, for each year in which funds from a grant received under this subchapter is expended, a description and an evaluation report at such timeand in such manner as the Attorney General may reasonably require that contains—
 
 &emsp;(1) a summary of the activities carried out under the grant and an assessment of whether such activities are meeting the needs identified in the application funded under this subchapter; and
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) the term “regular-rate category” means any class of mail or kind of mailer, other than a class or kind referred to in paragraph (3)(A) or section 2401(c); and
 
-&emsp;(C) the term “institutional-costs contribution”, as used with respect to a class of mail or kind of mailer, means that portion of the estimated revenues to the Postal Service fromsuch class of mail or kind of mailer which remains after subtracting an amount equal to the estimated costs attributable to such class of mail or kind of mailer.
+&emsp;(C) the term “institutional-costs contribution”, as used with respect to a class of mail or kind of mailer, means that portion of the estimated revenues to the Postal Service from such class of mail or kind of mailer which remains after subtracting an amount equal to the estimated costs attributable to such class of mail or kind of mailer.
 
 (3)(A) Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358 of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
@@ -40,7 +40,7 @@
 
 (B) With respect to the postage for the advertising pound portion of any mail matter under former section 4358 (d) or (e) of this title, the 5-percent discount specified in subparagraph (A) shall not apply if the advertising portion exceeds 10 percent of the publication involved.
 
-(5) The rates for any advertising under former section 4358(f) of this title shall be equal to 75 percent of the rates for advertising contained in the most closely corresponding regular-rate category of mail.
+(5) The rates for any advertising under former section 4358(f) of this title shall be equal to 75percent of the rates for advertising contained in the most closely corresponding regular-rate category of mail.
 
 (6) The rates for mail matter under former sections 4452 (b) and (c) of this title shall be established as follows:
 
@@ -64,7 +64,7 @@
 
 (2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
 
-(e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the ratescurrently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
+(e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the rates currently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
 
 (2) For purposes of this subsection—
 
@@ -88,7 +88,7 @@
 
 &emsp;(A) any credit, debit, or charge card, or similar financial instrument or account, provided by or through an arrangement with any person or organization not authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title;
 
-&emsp;(B) any insurance policy, unless the organization which promotes the purchase of such policy is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the policy is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization, and the coverage provided by the policy is not generally otherwise commercially available;
+&emsp;(B) any insurance policy, unless the organization which promotes the purchase of suchpolicy is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the policy is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization, and the coverage provided by the policy is not generally otherwise commercially available;
 
 &emsp;(C) any travel arrangement, unless the organization which promotes the arrangement is authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of this title, the travel contributes substantially (aside from the cultivation of members, donors, or supporters, or the acquisition of income or funds) to one or more of the purposes which constitutes the basis for the organization's authorization to mail at such rates, and the arrangement is designed for and primarily promoted to the members, donors, supporters, or beneficiaries of the organization; or
 
@@ -194,7 +194,7 @@ Pub. L. 101–509, §1(a), added subsec. (k) relating to mailing of matter at in
 
 1986—Subsec. (a). Pub. L. 99–272, §15102(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If the rates of postage for any class of mail or kind of mailer under former sections 4358, 4359, 4421, 4422, 4452, or 4554 of this title, as such rates existed on the effective date of this subchapter, are, on the effective date of the first rate decision under this subchapter affecting that class or kind, less than the rates established by such decision, a separate rate schedule shall be adopted for that class or kind effective each time rates are established or changed under this subchapter, with annual increases as nearly equal as practicable, so that—
 
-&emsp;“(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c) shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
+&emsp;“(1) the revenues received from rates for mail under former sections 4358, 4452(b) and (c), 4554(b) and (c)shall not, on and after the first day of the sixteenth year following the effective date of the first rate decision applicable to that class or kind, exceed the direct and indirect postal costs attributable to mail of such class or kind (excluding all other costs of the Postal Service);
 
 &emsp;“(2) the rates for mail under former sections 4359, 4421, 4422, and 4554(a) shall be equal, on and after the first day of the eighth year following the effective date of the first rate decision applicable to that class or kind, to the rates that would have been in effect for such mail if this subparagraph had not been enacted; and
 

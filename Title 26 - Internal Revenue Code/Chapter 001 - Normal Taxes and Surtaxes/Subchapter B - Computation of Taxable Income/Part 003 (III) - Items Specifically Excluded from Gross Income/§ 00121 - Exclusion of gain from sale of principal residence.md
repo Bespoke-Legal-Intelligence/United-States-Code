@@ -136,6 +136,46 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any sale to, or exchange with, any person who bears a relationship to the taxpayer which is described in section 267(b) or 707(b).
 
+#### (9) Members of uniformed services and Foreign Service
+
+#### (A) In general
+
+&emsp;&emsp;At the election of an individual with respect to a property, the running of the 5-year period described in subsections (a) and (c)(1)(B) and paragraph (7) of this subsection with respect to such property shall be suspended during any period that such individual or such individual's spouse is serving on qualified official extended duty as a member of the uniformed services or of the Foreign Service of the United States.
+
+#### (B) Maximum period of suspension
+
+&emsp;&emsp;The 5-year period described in subsection (a) shall not be extended more than 10 years by reason of subparagraph (A).
+
+#### (C) Qualified official extended duty
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “qualified official extended duty” means any extended duty while serving at a duty station which is at least 50 miles from such property or while residing under Government orders in Government quarters.
+
+#### (ii) Uniformed services
+
+&emsp;&emsp;&emsp;The term “uniformed services” has the meaning given such term by section 101(a)(5) of title 10, United States Code, as in effect on the date of the enactment of this paragraph.
+
+#### (iii) Foreign Service of the United States
+
+&emsp;&emsp;&emsp;The term “member of the Foreign Service of the United States” has the meaning given the term “member of the Service” by paragraph (1), (2), (3), (4), or (5) of section 103 of the Foreign Service Act of 1980, as in effect on the date of the enactment of this paragraph.
+
+#### (iv) Extended duty
+
+&emsp;&emsp;&emsp;The term “extended duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
+
+#### (D) Special rules relating to election
+
+#### (i) Election limited to 1 property at a time
+
+&emsp;&emsp;&emsp;An election under subparagraph (A) with respect to any property may not be made if such an election is in effect with respect to any other property.
+
+#### (ii) Revocation of election
+
+&emsp;&emsp;&emsp;An election under subparagraph (A) may be revoked at any time.
+
 #### (e) Denial of exclusion for expatriates
 
 This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
@@ -146,9 +186,9 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 #### (g) Residences acquired in rollovers under section 1034
 
-For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(7) in determining the holding period of such property) had been so owned and used.
+For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effecton the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(7) in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84.)
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336.)
 
 #### Amendment of Subsection (d)
 
@@ -170,13 +210,23 @@ For purposes of this section, in the case of property the acquisition of which b
 
 #### References in Text
 
+The date of the enactment of this paragraph, referred to in subsec. (d)(9)(C)(ii), (iii), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
+
+Section 103 of the Foreign Service Act of 1980, referred to in subsec. (d)(9)(C)(iii), is classified to section 3903 of Title 22, Foreign Relations and Intercourse.
+
 Section 1034 (as in effect on the day before the date of the enactment of this section), referred to in subsec. (g), probably means section 1034 of this title as in effect on the day before the date of enactment of Pub. L. 105–34 which amended this section generally and was approved Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, §312(b), Aug. 5, 1997, 111 Stat. 839.
+
+#### Codification
+
+Pub. L. 108–121, title I, §101(a), (b)(1), Nov. 11, 2003, 117 Stat. 1336, which directed that subsec. (d) of this section be amended by redesignating paragraph (9) as (10) and adding a new paragraph (9), effective as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997, Pub. L. 105–34, could not be executed insofar as it directed the redesignation because subsection (d), as amended by Pub. L. 105–34, did not contain a paragraph (9).
 
 #### Prior Provisions
 
 A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
+
+2003—Subsec. (d)(9). Pub. L. 108–121 added par. (9).
 
 1998—Subsec. (b)(2). Pub. L. 105–206, §6005(e)(1), substituted “Special rules for joint returns” for “$500,000 limitation for certain joint returns” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall be applied by substituting ‘$500,000’ for ‘$250,000’ if—
 
@@ -221,6 +271,18 @@ Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 1976—Subsec. (b)(1). Pub. L. 94–455, §1404(a), substituted “$35,000” for “$20,000” in three places.
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–121, title I, §101(b), Nov. 11, 2003, 117 Stat. 1336, provided that:
+
+“(1)
+
+Effective date.—The amendments made by this section \[amending this section\] shall take effect as ifincluded in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
+
+“(2)
+
+Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section \[amending this section\] is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Nov. 11, 2003\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
 #### Effective and Termination Dates of 2001 Amendment
 

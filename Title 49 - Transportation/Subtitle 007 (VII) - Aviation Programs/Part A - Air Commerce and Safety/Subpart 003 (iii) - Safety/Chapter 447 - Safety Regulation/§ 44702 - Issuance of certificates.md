@@ -36,7 +36,11 @@ Delegation.—(1) Subject to regulations, supervision, and review the Administra
 
 (3) A person affected by an action of a private person under this subsection may apply for reconsideration of the action by the Administrator. On the Administrator's own initiative, the Administrator may reconsider the action of a private person at any time. If the Administrator decides on reconsideration that the action is unreasonable or unwarranted, the Administrator shall change, modify, or reverse the action. If the Administrator decides the action is warranted, the Administrator shall affirm the action.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1186; Pub. L. 108–176, title II, §227(a), Dec. 12, 2003, 117 Stat. 2531.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 108–176, title II, §227(a), Dec. 12, 2003, 117 Stat. 2531, provided that, effective on the last day of the 7-year period beginning on Dec. 12, 2003, subsection (a) of this section is amended by inserting “design organization certificates,” after “airman certificates,”.</i>
 
 Historical and Revision Notes
 
@@ -120,7 +124,15 @@ In subsection (d)(1), before clause (A), the words “In exercising the powers a
 
 In subsection (d)(2), the words “made by him” are omitted as surplus.
 
-In subsection (d)(3), the words “exercising delegated authority” and “with respect to the authority granted under subsection (a) of this section” are omitted as surplus. The words “at any time” are substituted for “either before or after it has become effective”, and the words “If the Administrator decides on reconsideration that the action is unreasonable or unwarranted” are substituted for “If, upon reconsideration by the Secretary of Transportation, it shall appear that the action in question is in any respect unjust or unwarranted”, to eliminate unnecessary words. The words “the action” are substituted for “the same accordingly”, and the words “If the Administrator decides the action is warranted, the Administrator shall affirm theaction” are substituted for “otherwise, such action shall be affirmed”, for clarity. The text of 49 App.:1355(b) (proviso) is omitted as unnecessary because of 5:559 (last sentence).
+In subsection (d)(3), the words “exercising delegated authority” and “with respect to the authority granted under subsection (a) of this section” are omitted as surplus. The words “at any time” are substituted for “either before or after it has become effective”, and the words “If the Administrator decides on reconsideration that the action is unreasonable or unwarranted” are substituted for “If, upon reconsideration by the Secretary of Transportation, it shall appear that the action in question is in any respect unjust or unwarranted”, to eliminate unnecessary words. The words “the action” are substituted for “the same accordingly”, and the words “If the Administrator decides the action is warranted, the Administrator shall affirm the action” are substituted for “otherwise, such action shall be affirmed”, for clarity. The text of 49 App.:1355(b) (proviso) is omitted as unnecessary because of 5:559 (last sentence).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–176, title II, §227(a), Dec. 12, 2003, 117 Stat. 2531, provided that the amendment made by section 227(a) is effective on the last day of the 7-year period beginning on Dec. 12, 2003.
+
+#### Development of Analytical Tools and Certification Methods
+
+Pub. L. 108–176, title VII, §706, Dec. 12, 2003, 117 Stat. 2582, provided that: “The Federal Aviation Administration shall conduct research to promote the development of analytical tools to improve existing certification methods and to reduce the overall costs for the certification of new products.”
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@
 
 #### (c) Release of merchandise
 
-The Customs Service may permit the entry and release of merchandise from customs custody in accordance with such regulations as the Secretary may prescribe. No officer of the Customs Service shall be liable to any person with respect to the delivery of merchandise releasedfrom customs custody in accordance with such regulations.
+The Customs Service may permit the entry and release of merchandise from customs custody in accordance with such regulations as the Secretary may prescribe. No officer of the Customs Service shall be liable to any person with respect to the delivery of merchandise released from customs custody in accordance with such regulations.
 
 #### (d) Signing and contents
 
@@ -80,7 +80,7 @@ Any entry or other information transmitted by means of an authorized electronic 
 
 #### (3) Exception
 
-&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which is prohibited by law or merchandise for which the filing of an entry summary is required before the merchandise is released from customs custody.
+&emsp;The provisions of paragraph (1) shall not apply to merchandise the entry of which isprohibited by law or merchandise for which the filing of an entry summary is required before the merchandise is released from customs custody.
 
 #### (4) Foreign trade zone; zone
 
@@ -94,7 +94,7 @@ In the case of merchandise that is purchased and invoiced as a single entity but
 
 &emsp;(2) is shipped in separate shipments due to the inability of the carrier to include all of the merchandise in a single shipment (at the instruction of the carrier),
 
-> the Customs Service may, upon application by an importer in advance, treat such separateshipments for entry purposes as a single transaction.
+> the Customs Service may, upon application by an importer in advance, treat such separate shipments for entry purposes as a single transaction.
 
 (June 17, 1930, ch. 497, title IV, §484, 46 Stat. 722; June 25, 1938, ch. 679, §12, 52 Stat. 1083; Aug. 8, 1953, ch. 397, §§3(b), 16(b), (c), 67 Stat. 509, 517; Pub. L. 91–271, title III, §301(i), June 2, 1970, 84 Stat. 288; Pub. L. 93–618, title VI, §608(a), Jan. 3, 1975, 88 Stat. 2073; Pub. L. 95–106, §4, Aug. 17, 1977, 91 Stat. 869; Pub. L. 95–410, title I, §102(a), Oct. 3, 1978, 92 Stat. 888; Pub. L. 97–446, title II, §201(d), Jan. 12, 1983, 96 Stat. 2349; Pub. L. 103–182, title VI, §637(a), Dec. 8, 1993, 107 Stat. 2200; Pub. L. 104–153, §12, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §§18(b), 21(e)(6), Oct. 11, 1996, 110 Stat. 3524, 3531; Pub. L. 106–200, title IV, §410(a), May 18, 2000, 114 Stat. 297; Pub. L. 106–476, title I, §1460(a), Nov. 9, 2000, 114 Stat. 2171.)
 
@@ -180,7 +180,7 @@ Pub. L. 106–200, title IV, §410(b), May 18, 2000, 114 Stat. 298, provided tha
 
 #### Effective Date of 1983 Amendment
 
-Section 201(g) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the General headnotes of the Tariff Schedules, this section, and sections 1485, 1487, 1494, 1505, and 1557 of this title, and repealing section 1483 of this title\] shall apply with respect to merchandise entered on and after the 30th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Section 201(g) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the General headnotes of the Tariff Schedules, this section, and sections 1485, 1487, 1494, 1505, and 1557 of this title, and repealing section 1483 of this title\] shall apply with respect to merchandise entered on and after the 30th dayafter the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date of 1978 Amendment
 

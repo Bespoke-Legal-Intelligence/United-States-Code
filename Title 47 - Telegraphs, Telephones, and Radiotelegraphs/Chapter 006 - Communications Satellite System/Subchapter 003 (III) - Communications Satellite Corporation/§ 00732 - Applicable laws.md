@@ -6,7 +6,7 @@ The corporation shall be subject to the provisions of this chapter and, to the e
 
 #### Termination of Section
 
-<i>Section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
+<i>Section to cease to be effective on the effective date of a Commission order determining under</i><i>section 761(b)(2) of this title that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title, see section 765d(4) of this title.</i>
 
 #### References in Text
 

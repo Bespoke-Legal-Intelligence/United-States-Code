@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (2) Qualified architectural and transportation barrier removal expenses
 
-&emsp;The term “qualified architectural and transportation barrier removal expense” means, with respect to any such facility or public transportation vehicle, an architectural or transportation barrier removal expense with respect to which the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any such barrier meets the standards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
+&emsp;The term “qualified architectural and transportation barrier removal expense” means, with respect to any such facility or public transportation vehicle, an architectural or transportation barrier removal expense with respect to which the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any such barrier meets the standards promulgated by the Secretary with the concurrence of the Architectural andTransportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
 
 #### (3) Handicapped individual
 

@@ -48,7 +48,7 @@ The Landsat Program Management may, subject to appropriations and only under the
 
 #### (1) Establishment
 
-&emsp;The Landsat Program Management shall seek impartial advice and comments regardingthe status, effectiveness, and operation of the Landsat system, using existing advisory committees and other appropriate mechanisms. Such advice shall be sought from individuals who represent—
+&emsp;The Landsat Program Management shall seek impartial advice and comments regarding the status, effectiveness, and operation of the Landsat system, using existing advisory committees and other appropriate mechanisms. Such advice shall be sought from individuals who represent—
 
 &emsp;&emsp;(A) a broad range of perspectives on basic and applied science and operational needs with respect to land remote sensing data;
 

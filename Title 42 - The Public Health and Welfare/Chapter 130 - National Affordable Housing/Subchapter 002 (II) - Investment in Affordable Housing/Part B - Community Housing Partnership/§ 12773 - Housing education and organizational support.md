@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to provide education and organizational support assistance, in conjunction with other assistance made available under this part—
+The Secretary is authorized to provide education and organizational support assistance, inconjunction with other assistance made available under this part—
 
 &emsp;(1) to facilitate the education of low-income homeowners and tenants;
 
@@ -20,7 +20,7 @@ Assistance under this section may be used only for the following eligible activi
 
 #### (2) Housing education
 
-&emsp;Housing education assistance may be made available to community housing development organizations to cover expenses for providing or administering programs for educating,counseling, or organizing homeowners and tenants who are eligible to receive assistance under other provisions of this subchapter.
+&emsp;Housing education assistance may be made available to community housing development organizations to cover expenses for providing or administering programs for educating, counseling, or organizing homeowners and tenants who are eligible to receive assistance under other provisions of this subchapter.
 
 #### (3) Program-wide support of nonprofit development and management
 
@@ -72,7 +72,7 @@ Contracts under this section with any one contractor for a fiscal year may not�
 
 #### (e) Single-State contractors
 
-Not less than 40 percent of the funds made available for this section in an appropriationsAct in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
+Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
 
 #### (f) “Community land trust” defined
 

@@ -24,7 +24,7 @@ The Secretary shall not enter into or renew an agreement with any agency or orga
 
 #### (c) Terms and conditions of agreements; prompt payment of claims
 
-(1) An agreement with any agency or organization under this section may contain such terms and conditions as the Secretary finds necessary or appropriate, may provide for advances of funds to the agency or organization for the making of payments by it under subsection (a) of this section, and shall provide for payment of so much of the cost of administration of the agency or organization as is determined by the Secretary to be necessary and proper for carrying out the functions covered by the agreement. The Secretary shall provide that in determining the necessary and proper cost of administration, the Secretary shall, with respect to each agreement, take into account the amount that is reasonable and adequate to meet the costs which must be incurred by an efficiently and economically operated agency or organization in carrying outthe terms of its agreement. The Secretary shall cause to have published in the Federal Register, by not later than September 1 before each fiscal year, data, standards, and methodology to be used to establish budgets for fiscal intermediaries under this section for that fiscal year, and shall cause to be published in the Federal Register for public comment, at least 90 days before such data, standards, and methodology are published, the data, standards, and methodology proposed to be used. The Secretary may not require, as a condition of entering into or renewing an agreement under this section or under section 1395hh of this title, that a fiscal intermediary match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which the provisions of section 1395y(b) of this title may apply.
+(1) An agreement with any agency or organization under this section may contain such terms and conditions as the Secretary finds necessary or appropriate, may provide for advances of funds to the agency or organization for the making of payments by it under subsection (a) of this section, and shall provide for payment of so much of the cost of administration of the agency or organization as is determined by the Secretary to be necessary and proper for carrying out the functions covered by the agreement. The Secretary shall provide that in determining the necessary and proper cost of administration, the Secretary shall, with respect to each agreement, take into account the amount that is reasonable and adequate to meet the costs which must be incurred by an efficiently and economically operated agency or organization in carrying out the terms of its agreement. The Secretary shall cause to have published in the Federal Register, by not later than September 1 before each fiscal year, data, standards, and methodology to be used to establish budgets for fiscal intermediaries under this section for that fiscal year, and shall cause to be published in the Federal Register for public comment, at least 90 days before such data, standards, and methodology are published, the data, standards, and methodology proposed to be used. The Secretary may not require, as a condition of entering into or renewing an agreement under this section or under section 1395hh of this title, that a fiscal intermediary match data obtained other than in its activities under this part with data used in the administration of this part for purposes of identifying situations in which the provisions of section 1395y(b) of this title may apply.
 
 (2)(A) Each agreement under this section shall provide that payment shall be issued, mailed, or otherwise transmitted with respect to not less than 95 percent of all claims submitted under this subchapter—
 
@@ -44,9 +44,9 @@ The Secretary shall not enter into or renew an agreement with any agency or orga
 
 &emsp;&emsp;(II) with respect to claims received in the 12-month period beginning October 1, 1987, 26 calendar days,
 
-&emsp;&emsp;(III) with respect to claims received in the 12-month period beginning October 1, 1988, 25 calendar days, and <sup>1</sup>
+&emsp;&emsp;(III) with respect to claims received in the 12-month period beginning October 1, 1988, 25 calendar days,
 
-&emsp;&emsp;(IV) with respect to claims received in the 12-month period beginning October 1, 1989, and claims received in any succeeding 12-month period ending on or before September 30, 1993, 24 calendar days.<sup>2</sup>
+&emsp;&emsp;(IV) with respect to claims received in the 12-month period beginning October 1, 1989, and claims received in any succeeding 12-month period ending on or before September 30, 1993, 24 calendar days, and
 
 &emsp;&emsp;(V) with respect to claims received in the 12-month period beginning October 1, 1993, and claims received in any succeeding 12-month period, 30 calendar days.
 
@@ -66,11 +66,11 @@ If the nomination of an agency or organization as provided in this section is ma
 
 #### (e) Assignment or reassignment of provider of services; designation of agency or organization to perform provider services and home health agency functions
 
-(1) Notwithstanding subsections (a) and (d) of this section, the Secretary, after taking into consideration any preferences of providers of services, may assign or reassign any provider of services to any agency or organization which has entered into an agreement with him under this section, if he determines, after applying the standards, criteria, and procedures developed under subsection (f) of this section, that such assignment or reassignment would result in the more effective and efficient administration of this part.
+(1) Notwithstanding subsections (a) and (d) of this section, the Secretary, after taking intoconsideration any preferences of providers of services, may assign or reassign any provider of services to any agency or organization which has entered into an agreement with him under this section, if he determines, after applying the standards, criteria, and procedures developed under subsection (f) of this section, that such assignment or reassignment would result in the more effective and efficient administration of this part.
 
 (2) Notwithstanding subsections (a) and (d) of this section, the Secretary may (subject to the provisions of paragraph (4)) designate a national or regional agency or organization which has entered into an agreement with him under this section to perform functions under the agreement with respect to a class of providers of services in the Nation or region (as the case may be), if he determines, after applying the standards, criteria, and procedures developed under subsection (f) of this section, that such designation would result in more effective and efficient administration of this part.
 
-(3)(A) Before the Secretary makes an assignment or reassignment under paragraph (1) of aprovider of services to other than the agency or organization nominated by the provider, he shall furnish (i) the provider and such agency or organization with a full explanation of the reasons for his determination as to the efficiency and effectiveness of the agency or organization to perform the functions required under this part with respect to the provider, and (ii) such agency or organization with opportunity for a hearing, and such determination shall be subject to judicial review in accordance with chapter 7 of title 5.
+(3)(A) Before the Secretary makes an assignment or reassignment under paragraph (1) of a provider of services to other than the agency or organization nominated by the provider, he shall furnish (i) the provider and such agency or organization with a full explanation of the reasons for his determination as to the efficiency and effectiveness of the agency or organization to perform the functions required under this part with respect to the provider, and (ii) such agency or organization with opportunity for a hearing, and such determination shall be subject to judicial review in accordance with chapter 7 of title 5.
 
 (B) Before the Secretary makes a designation under paragraph (2) with respect to a class of providers of services, he shall furnish (i) such providers and the agencies and organizations adversely affected by such designation with a full explanation of the reasons for his determination as to the efficiency and effectiveness of such agencies and organizations to perform the functions required under this part with respect to such providers, and (ii) the agencies and organizations adversely affected by such designation with opportunity for a hearing, and such determination shall be subject to judicial review in accordance with chapter 7 of title 5.
 
@@ -132,13 +132,39 @@ An agreement with an agency or organization under this section shall require tha
 
 No agency or organization may carry out (or receive payment for carrying out) any activity pursuant to an agreement under this section to the extent that the activity is carried out pursuant to a contract under the Medicare Integrity Program under section 1395ddd of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1816, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 92–603, title II, §243(b), Oct. 30, 1972, 86 Stat. 1422; Pub. L. 95–142, §14(a), Oct. 25, 1977, 91 Stat. 1198; Pub. L. 96–499, title IX, §930(<i>o</i>), Dec. 5, 1980, 94 Stat. 2632; Pub. L. 97–248, title I, §122(c)(3), Sept. 3, 1982, 96 Stat. 359; Pub. L. 98–369, div. B, title III, §2326(b), (c)(1), (d)(1), July 18, 1984, 98 Stat. 1087; Pub. L. 99–509, title IX, §§9311(b), 9352(a)(2), Oct. 21, 1986, 100 Stat. 1997, 2044; Pub. L. 100–203, title IV, §§4031(a)(1), 4032(a), (b), 4035(a)(1), 4085(d)(1), Dec. 22, 1987, 101 Stat. 1330–75 to 1330–78, 1330–130; Pub. L. 100–360, title II, §203(f), title IV, §411(e)(1)(B), July 1, 1988, 102 Stat. 725, 775; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(vi), 6202(d)(1), Dec. 19, 1989, 103 Stat. 2153, 2234; Pub. L. 101–508, title IV, §4005(c)(1)(A), Nov. 5, 1990, 104 Stat. 1388–41; Pub. L. 103–66, title XIII, §13568(a), (b), Aug. 10, 1993, 107 Stat. 608; Pub. L. 103–432, title I, §§110(d)(2), 151(b)(1)(A), (2)(A), Oct. 31, 1994, 108 Stat. 4408, 4433, 4434; Pub. L. 104–191, title II, §202(b)(1), Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(4), title IX, §911(b), Dec. 8, 2003, 117 Stat. 2355, 2383.)
+
+#### Amendment of Section
+
+<i>Pub. L. 108–173, title IX, §911(b), (d), Dec. 8, 2003, 117 Stat. 2383, 2385, provided that, effective Oct. 1, 2005, except as otherwise provided, this section is amended as follows:</i>
+
+<i>(1) The section catchline is amended to read as follows:</i>
+
+> <i>“Provisions relating to the administration of part A”.</i>
+
+<i>(2) Subsection (a) is amended to read as follows:</i>
+
+<i>“The administration of this part shall be conducted through contracts with medicare administrative contractors under section 1395kk–1 of this title.”</i>
+
+<i>(3) Subsection (b) is repealed.</i>
+
+<i>(4) Subsection (c) is amended by striking paragraph (1) and, in each of paragraphs (2)(A) and (3)(A), by striking “agreement under this section” and inserting “contract under section 1395kk–1 of this title that provides for making payments under this part”.</i>
+
+<i>(5) Subsections (d) through (i) are repealed.</i>
+
+<i>(6) Subsections (j) and (k) are each amended by striking “An agreement with an agency or organization under this section” and inserting “A contract with a medicare administrative contractor under section 1395kk–1 of this title with respect to the administration of this part”, and by striking “such agency or organization” and inserting “such medicare administrative contractor” each place it appears.</i>
+
+<i>(7) Subsection (l) is repealed.</i>
 
 #### References in Text
 
 Part B of subchapter XI of this chapter, referred to in subsec. (a), is classified to section 1320c et seq. of this title.
 
 #### Amendments
+
+2003—Subsec. (c)(2)(B)(ii)(III). Pub. L. 108–173, §736(a)(4)(A), struck out “and” at end.
+
+Subsec. (c)(2)(B)(ii)(IV). Pub. L. 108–173, §736(a)(4)(B), substituted “, and” for period at end.
 
 1997—Subsec. (c)(2)(C). Pub. L. 105–33 substituted “critical access” for “rural primary care”.
 
@@ -208,6 +234,10 @@ Subsecs. (h), (i). Pub. L. 95–142, §14(a)(4), redesignated former subsecs. (f
 
 1972—Subsec. (a). Pub. L. 92–603 inserted reference to provisions of section 1395<i>oo</i> of this title.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by section 911(b) of Pub. L. 108–173 effective Oct. 1, 2005, except as otherwise provided, with transition rules authorizing Secretary of Health and Human Services to continue to enter into agreements under this section prior to such date, and provisions authorizing continuation of Medicare Integrity Program functions during the period that begins on Dec. 8, 2003, and ends on Oct. 1, 2011, see section 911(d) of Pub. L. 108–173, set out as an Effective Date; Transition Rule note under section 1395kk–1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
@@ -234,7 +264,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4031(a)(3)(A) of Pub. L. 100–203 provided that: “The amendments made by paragraphs (1) and (2)\[amending this section and section 1395u of this title\] shall apply to claims received on or after July 1, 1988.”
+Section 4031(a)(3)(A) of Pub. L. 100–203 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 1395u of this title\] shall apply to claims received on or after July 1, 1988.”
 
 Section 4032(c)(1) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(e)(1)(C), July 1, 1988, 102 Stat. 775, provided that:
 
@@ -280,7 +310,7 @@ Section 14(c), (d) of Pub. L. 95–142 provided that:
 
 “(c) The amendment made by paragraphs (2) and (3) of subsection (a) \[amending this section\] to the extent that they require application of standards, criteria, and procedures developed under section 1816(f) of the Social Security Act \[subsec. (f) of this section\] shall apply to the entering into, renewal, or termination of agreements on and after October 1, 1978.
 
-“(d) Except as provided in subsection (c), the amendment made by subsection (a)(2) \[amending this section\] shall apply to agreements entered into or renewed on or after the date of enactment of this Act \[Oct. 25, 1977\].”
+“(d) Except as provided in subsection (c), the amendment made by subsection (a)(2) \[amending this section\]shall apply to agreements entered into or renewed on or after the date of enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date of 1972 Amendment
 
@@ -312,7 +342,7 @@ Section 4032(c)(2) provided that: “The Secretary of Health and Human Services 
 
 #### Replacement of Agency, Organization, or Carrier Processing Medicare Claims; Number of Agreements and Contracts Authorized for Fiscal Years 1985 Through 1993
 
-Section 2326(a) of Pub. L. 98–369, as amended by Pub. L. 98–617, §3(a)(2), Nov. 8, 1984, 98 Stat. 3295; Pub. L.99–509, title IX, §9321(b), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 101–239, title VI, §6215(a), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §159(a), Oct. 31, 1994, 108 Stat. 4443, provided that: “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[section 1395u of this title\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary's cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
+Section 2326(a) of Pub. L. 98–369, as amended by Pub. L. 98–617, §3(a)(2), Nov. 8, 1984, 98 Stat. 3295; Pub. L. 99–509, title IX, §9321(b), Oct. 21, 1986, 100 Stat. 2016; Pub. L. 101–239, title VI, §6215(a), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §159(a), Oct. 31, 1994, 108 Stat. 4443, provided that: “During each fiscal year (beginning with fiscal year 1985 and ending with fiscal year 1993), the Secretary of Health and Human Services may enter into not more than two agreements under section 1816 of the Social Security Act \[this section\], and not more than two contracts under section 1842 of such Act \[section 1395u of this title\], on the basis of competitive bidding, without regard to the nominating process under section 1816(a) of such Act or cost reimbursement provisions under sections 1816(c) or 1842(c) of such Act during the term of the agreement. Such procedure may be used only for the purpose of replacing an agency or organization or carrier which over a 2-year period of time has been in the lowest 20th percentile of agencies and organizations or carriers having agreements or contracts under the respective section, as measured by the Secretary's cost and performance criteria. In addition, beginning with fiscal year 1990 and any subsequent fiscal year the Secretary may enter into such additional agreements and contracts without regard to such cost reimbursement provisions if the fiscal intermediary or carrier involved and the Secretary agree to waive such provisions, but the Secretary may not take any action that has the effect of requiring that the intermediary or carrier agree to waive such provisions, including requiring such a waiver as a condition for entering into or renewing such an agreement or contract. Any agency or organization or carrier selected on the basis of competitive bidding must perform all of the duties listed in section 1816(a) of such Act, or the duties listed in paragraphs (1) through (4) of section 1842(a) of such Act, as the case may be, and must be a health insuring organization (as determined by the Secretary).”
 
 \[Section 159(b) of Pub. L. 103–432 provided that: “The amendment made by subsection (a) \[amending section 2326(a) of Pub. L. 98–369, set out above\] shall apply beginning with fiscal year 1994.”\]
 
@@ -330,9 +360,5 @@ Section 14(b) of Pub. L. 95–142 directed the Secretary of Health, Education, a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320a–3, 1320c–2, 1320c–3, 1395g, 1395u, 1395w–27, 1395cc–2, 1395ff, 1395hh, 1395mm, 1395<i>oo</i>, 1395pp, 1395ddd of this title.
-
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. The period probably should be “, and”.</i>
+This section is referred to in sections 1320a–3, 1320c–2, 1320c–3, 1395g, 1395u, 1395w–27, 1395cc–2, 1395ff, 1395hh, 1395kk–1, 1395mm, 1395<i>oo</i>, 1395pp, 1395zz, 1395ddd of this title.
 

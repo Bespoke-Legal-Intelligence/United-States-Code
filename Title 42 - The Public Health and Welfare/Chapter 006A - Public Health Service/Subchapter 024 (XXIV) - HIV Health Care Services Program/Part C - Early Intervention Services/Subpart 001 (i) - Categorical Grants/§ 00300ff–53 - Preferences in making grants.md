@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In making grants under section 300ff–51 of this title, the Secretary shall give preference to any qualified applicant experiencing an increase inthe burden of providing services regarding HIV disease, as indicated by the factors specified in subsection (b) of this section.
+In making grants under section 300ff–51 of this title, the Secretary shall give preference to any qualified applicant experiencing an increase in the burden of providing services regarding HIV disease, as indicated by the factors specified in subsection (b) of this section.
 
 #### (b) Specification of factors
 

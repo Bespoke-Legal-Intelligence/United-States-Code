@@ -10,7 +10,7 @@ The Secretary shall prepare a comprehensive program management plan for the rese
 
 &emsp;(3) a three-year program for wind resource assessment <sup>1</sup>
 
-> which shall be consistent with the provisions of sections 9204, 9205, and 9206 of this title. In thepreparation of such plan, the Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Secretary of the Interior, and the heads of such other Federal agencies and such public and private organizations as he deems appropriate.
+> which shall be consistent with the provisions of sections 9204, 9205, and 9206 of this title. In the preparation of such plan, the Secretary shall consult with the Administrator of the National Aeronautics and Space Administration, the Secretary of the Interior, and the heads of such other Federal agencies and such public and private organizations as he deems appropriate.
 
 #### (b) Initial transmittal to Congressional committees
 
@@ -38,7 +38,7 @@ Concurrently with the submission of the President's annual budget to the Congres
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives byHouse Resolution No. 5, One Hundredth Congress, Jan. 6, 1987. Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Termination of Reporting Requirements
 

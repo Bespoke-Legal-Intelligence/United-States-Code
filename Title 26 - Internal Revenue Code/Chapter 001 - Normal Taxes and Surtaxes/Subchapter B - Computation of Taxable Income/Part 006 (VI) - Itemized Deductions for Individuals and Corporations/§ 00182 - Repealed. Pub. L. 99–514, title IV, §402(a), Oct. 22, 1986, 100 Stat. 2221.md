@@ -1,6 +1,6 @@
 ### \[§182. Repealed. Pub. L. 99–514, title IV, §402(a), Oct. 22, 1986, 100 Stat. 2221\]
 
-Section, added Pub. L. 87–834, §21(a), Oct. 16, 1962, 76 Stat. 1063; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, authorized deduction of expenditures by farmers for clearing land.
+Section, added Pub. L. 87–834, §21(a), Oct. 16, 1962, 76 Stat. 1063; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, authorized deduction of expenditures by farmers for clearing land.
 
 #### Effective Date of Repeal
 

@@ -18,7 +18,7 @@ Except as otherwise provided in this subchapter, a financial institution may not
 
 #### (2) Exception
 
-&emsp;This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution's own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of this title, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
+&emsp;This subsection shall not prevent a financial institution from providing nonpublic personal information to a nonaffiliated third party to perform services for or functions on behalf of the financial institution, including marketing of the financial institution's own products or services, or financial products or services offered pursuant to joint agreements between two or more financial institutions that comply with the requirements imposed by the regulations prescribed under section 6804 of thistitle, if the financial institution fully discloses the providing of such information and enters into a contractual agreement with the third party that requires the third party to maintain the confidentiality of such information.
 
 #### (c) Limits on reuse of information
 
@@ -50,7 +50,7 @@ Subsections (a) and (b) of this section shall not prohibit the disclosure of non
 
 &emsp;(6)(A) to a consumer reporting agency in accordance with the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], or (B) from a consumer report reported by a consumer reporting agency;
 
-&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or aportion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
+&emsp;(7) in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit if the disclosure of nonpublic personal information concerns solely consumers of such business or unit; or
 
 &emsp;(8) to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
 
@@ -68,5 +68,5 @@ The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6803, 6804, 6809 of this title.
+This section is referred to in sections 1681b, 6803, 6804, 6809 of this title.
 

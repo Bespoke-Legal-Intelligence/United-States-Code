@@ -6,7 +6,7 @@
 
 (2) Construction shall not be initiated for facilities for treatment of wastewater at any Federal property or facility after September 30, 1979, if alternative methods for wastewater treatment at such property or facility utilizing innovative treatment processes and techniques, including but not limited to methods utilizing recycle and reuse techniques and land treatment are not utilized, unless the life cycle cost of the alternative treatment works exceeds the life cycle cost of the most cost effective alternative by more than 15 per centum. The Administrator may waive the application of this paragraph in any case where the Administrator determines it to be in the public interest, or that compliance with this paragraph would interfere with the orderly compliance with conditions of a permit issued pursuant to section 1342 of this title.
 
-(June 30, 1948, ch. 758, title III, §313, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875;amended Pub. L. 95–217, §§60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598.)
+(June 30, 1948, ch. 758, title III, §313, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598.)
 
 #### Amendments
 

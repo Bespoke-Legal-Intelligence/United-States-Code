@@ -1,6 +1,8 @@
 ### §3414. Special procedures
 
-(a)(1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 <sup>1</sup> of this title) shall apply to the production and disclosure of financial records pursuant to requests from—
+#### (a) Access to financial records for certain intelligence and protective purposes
+
+(1) Nothing in this chapter (except sections 3415, 3417, 3418, and 3421 <sup>1</sup> of this title) shall apply to the production and disclosure of financial records pursuant to requests from—
 
 &emsp;(A) a Government authority authorized to conduct foreign counter- or foreign positive-intelligence activities for purposes of conducting such activities;
 
@@ -22,7 +24,9 @@
 
 (D) No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under this paragraph.
 
-(b)(1) Nothing in this chapter shall prohibit a Government authority from obtaining financial records from a financial institution if the Government authority determines that delay in obtaining access to such records would create imminent danger of—
+#### (b) Emergency access to financial records
+
+(1) Nothing in this chapter shall prohibit a Government authority from obtaining financial records from a financial institution if the Government authority determines that delay in obtaining access to such records would create imminent danger of—
 
 &emsp;(A) physical injury to any person;
 
@@ -36,7 +40,11 @@
 
 (4) The Government authority specified in paragraph (1) shall compile an annual tabulation of the occasions in which this section was used.
 
-(Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, §811(b)(9), Nov. 27, 2002, 116 Stat. 2426.)
+#### (d) <sup>3</sup> Definition of “financial institution”
+
+For purposes of this section, and sections 3415 and 3417 of this title insofar as they relate to the operation of this section, the term “financial institution” has the same meaning as in subsections (a)(2) and (c)(1) of section 5312 of title 31, except that, for purposes of this section, such term shall include only such a financial institution any part of which is located inside any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands.
+
+(Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, §811(b)(9), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–177, title III, §374(a), Dec. 13, 2003, 117 Stat. 2628.)
 
 #### References in Text
 
@@ -45,6 +53,8 @@ Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. 
 Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended, which is set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–177 added subsec. (d).
 
 2002—Subsec. (a)(5)(C). Pub. L. 107–306 substituted “On the dates provided in section 415b of title 50, the Attorney General shall fully inform the congressional intelligence committees (as defined in section 401a of title 50)” for “On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
@@ -68,9 +78,11 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 3409 of this title; title 50 section 415b.
+This section is referred to in sections 3401, 3402, 3409 of this title; title 50 section 415b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “counterintelligence”.</i>
+
+<i><sup>3</sup></i><i> So in original. No subsec. (c) has been enacted.</i>
 

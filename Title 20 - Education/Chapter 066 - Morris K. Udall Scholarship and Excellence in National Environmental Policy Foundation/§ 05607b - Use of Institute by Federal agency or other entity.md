@@ -18,7 +18,7 @@ A Federal agency may use the Foundation and the Institute to provide assessment,
 
 #### (1) Notification
 
-&emsp;An agency or instrumentality of the Federal Government shall notify the chairperson of the President's Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a) of this section.
+&emsp;An agency or instrumentality of the Federal Government shall notify the chairperson ofthe President's Council on Environmental Quality when using the Foundation or the Institute to provide the services described in subsection (a) of this section.
 
 #### (2) Notification descriptions
 

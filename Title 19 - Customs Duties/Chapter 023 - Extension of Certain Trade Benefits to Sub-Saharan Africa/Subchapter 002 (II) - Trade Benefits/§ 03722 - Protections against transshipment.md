@@ -52,7 +52,7 @@
 
 #### (2) Certificate of Origin
 
-&emsp;The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin would not be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
+&emsp;The Certificate of Origin that otherwise would be required pursuant to the provisions of paragraph (1) shall not be required in the case of an article imported under section 3721 of this title if such Certificate of Origin wouldnot be required under Article 503 of the NAFTA (as implemented pursuant to United States law), if the article were imported from Mexico.
 
 #### (3) Penalties for exporters
 

@@ -56,13 +56,13 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (1) As used in this subsection:
 
-&emsp;(A) The term “approved lender” means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or alender certified under section 1989 <sup>1</sup> of this title.
+&emsp;(A) The term “approved lender” means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 <sup>1</sup> of this title.
 
 &emsp;(B) The term “seasoned direct loan borrower” means a borrower receiving a direct loan under this chapter who has been classified as “commercial” or “standard” under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
 
 (2) The Secretary, or a contracting third party, shall annually review under section 2006b of this title the loans of each seasoned loan borrower. If, based on the review, it is determined that a borrower would be able to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender at reasonable rates and terms for loans for similar purposes and periods of time, the Secretary shall assist the borrower in applying for the commercial or cooperative loan.
 
-(3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectus on each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
+(3) In accordance with section 2006d of this title, the Secretary shall prepare a prospectuson each seasoned direct loan borrower determined eligible to obtain a guaranteed loan. The prospectus shall contain a description of the amounts of loan guarantee and interest assistance that the Secretary will provide to the seasoned direct loan borrower to enable the seasoned direct loan borrower to carry out a financially viable farming plan if a guaranteed loan is made.
 
 (4)
 
@@ -154,7 +154,7 @@ Subsec. (g)(1). Pub. L. 107–171, §5307, substituted “$125,000” for “$50
 
 1996—Subsec. (f)(4). Pub. L. 104–127, §637(1), inserted heading.
 
-Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
+Subsec. (f)(4)(A). Pub. L. 104–127, §637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that followsthrough “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
 
 Subsec. (f)(4)(B), (C). Pub. L. 104–127, §637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
 

@@ -110,7 +110,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (B) Referrals
 
-&emsp;&emsp;Standards that permit any person accepting deposits from the public in an area where such transactions are routinely conducted in a depository institution to refer acustomer who seeks to purchase any insurance product to a qualified person who sells such product, only if the person making the referral receives no more than a one-time nominal fee of a fixed dollar amount for each referral that does not depend on whether the referral results in a transaction.
+&emsp;&emsp;Standards that permit any person accepting deposits from the public in an area where such transactions are routinely conducted in a depository institution to refer a customer who seeks to purchase any insurance product to a qualified person who sells such product, only if the person making the referral receives no more than a one-time nominal fee of a fixed dollar amount for each referral that does not depend on whether the referral results in a transaction.
 
 #### (C) Qualification and licensing requirements
 

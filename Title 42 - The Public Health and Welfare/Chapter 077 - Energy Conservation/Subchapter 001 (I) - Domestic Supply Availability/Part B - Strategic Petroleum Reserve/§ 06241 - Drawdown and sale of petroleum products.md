@@ -32,7 +32,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 (2) Repealed. Pub. L. 106–469, title I, §103(15)(F)(ii), Nov. 9, 2000, 114 Stat. 2031.
 
-(3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
+(3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold orexchanged to or with entities that are not part of the Federal Government.
 
 (4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
 
@@ -186,7 +186,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031.)
 
 #### References in Text
 

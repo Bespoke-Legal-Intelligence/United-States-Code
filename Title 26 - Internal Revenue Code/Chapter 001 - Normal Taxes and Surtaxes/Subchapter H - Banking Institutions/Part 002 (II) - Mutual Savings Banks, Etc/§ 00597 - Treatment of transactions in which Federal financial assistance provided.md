@@ -116,7 +116,7 @@ Pub. L. 99–514, title IX, §904(c)(2), Oct. 22, 1986, 100 Stat. 2385, as amend
 
 #### Effective Date
 
-Section 246(c) of Pub. L. 97–34 provided that: “The amendment made by section 244 \[enacting this section\]shall apply to any payment made on or after January 1, 1981.”
+Section 246(c) of Pub. L. 97–34 provided that: “The amendment made by section 244 \[enacting this section\] shall apply to any payment made on or after January 1, 1981.”
 
 #### Transfer of Functions
 

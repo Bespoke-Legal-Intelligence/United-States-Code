@@ -18,11 +18,17 @@ The reference to particular sections dealing with probation was omitted as unnec
 
 Changes were made in phraseology and arrangement.
 
+#### Codification
+
+Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 107–273, div. C, title II, §12222(a), Nov. 2, 2002, 116 Stat. 1895, is classified to section 5783 of Title 42, The Public Health and Welfare.
+
+Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, was classified to section 5783 of Title 42, The Public Health and Welfare, prior to the general amendment of that title V by Pub. L. 107–273.
+
 #### Amendments
 
 1988—Pub. L. 100–690 substituted “facility) upon” for “facility upon” in last par.
 
-1974—Pub. L. 93–415 amended section generally, substituting “Duties of magistrate”, for “Probation; commitment to custody of Attorney General; support” in section catchline, and substituting provisions relating to procedure before, and duties of, magistrate, for provisions relating to probation, commitment to custody of Attorney General, duties of Attorney General, andprocedures aiding court in determining whether to place juvenile on probation or commit him to custody of Attorney General.
+1974—Pub. L. 93–415 amended section generally, substituting “Duties of magistrate”, for “Probation; commitment to custody of Attorney General; support” in section catchline, and substituting provisions relating to procedure before, and duties of, magistrate, for provisions relating to probation, commitment to custody of Attorney General, duties of Attorney General, and procedures aiding court in determining whether to place juvenile on probation or commit him to custody of Attorney General.
 
 1962—Pub. L. 87–428 added fourth par. authorizing commitment of a juvenile delinquent to the custody of the Attorney General for observation and study.
 

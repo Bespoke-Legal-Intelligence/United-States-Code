@@ -18,7 +18,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a New York Liberty Zone business described in subclause (II) of subparagraph (C)(i), the term “New York Liberty Zone business employee” includes any employee of such business (not described in subparagraph (A)) if substantially allthe services performed during such period by such employee for such business are performed in the City of New York, New York.
+&emsp;&emsp;&emsp;In the case of a New York Liberty Zone business described in subclause (II) of subparagraph (C)(i), the term “New York Liberty Zone business employee” includes any employee of such business (not described in subparagraph (A)) if substantially all the services performed during such period by such employee for such business are performed in the City of New York, New York.
 
 #### (ii) Limitation
 
@@ -98,11 +98,11 @@
 
 #### (B) Eligible real property
 
-&emsp;&emsp;Nonresidential real property or residential rental property is described in this subparagraph only to the extent it rehabilitates real property damaged, or replaces real property destroyed or condemned, as a result of the September 11, 2001, terrorist attack. For purposes of the preceding sentence, property shall be treated as replacing real property destroyed or condemned if, as part of an integrated plan, such property replaces real property which is included in a continuous area which includes real property destroyed or condemned.
+&emsp;&emsp;Nonresidential real property or residential rental property is described in this subparagraph only to the extent it rehabilitates real property damaged, or replaces real propertydestroyed or condemned, as a result of the September 11, 2001, terrorist attack. For purposes of the preceding sentence, property shall be treated as replacing real property destroyed or condemned if, as part of an integrated plan, such property replaces real property which is included in a continuous area which includes real property destroyed or condemned.
 
 #### (C) Exceptions
 
-#### (i) 30 percent additional allowance property
+#### (i) Bonus depreciation property under section 168(k)
 
 &emsp;&emsp;&emsp;Such term shall not include property to which section 168(k) applies.
 
@@ -204,7 +204,7 @@
 
 #### (B) Costs for certain property outside zone included
 
-&emsp;&emsp;Such term includes the cost of acquisition, construction, reconstruction, and renovation of nonresidential real property (including fixed tenant improvements associated with such property) located outside the New York Liberty Zone but within the City of NewYork, New York, if such property is part of a project which consists of at least 100,000 square feet of usable office or other commercial space located in a single building or multiple adjacent buildings.
+&emsp;&emsp;Such term includes the cost of acquisition, construction, reconstruction, and renovation of nonresidential real property (including fixed tenant improvements associated with such property) located outside the New York Liberty Zone but within the City of New York, New York, if such property is part of a project which consists of at least 100,000 square feet of usable office or other commercial space located in a single building or multiple adjacent buildings.
 
 #### (5) Special rules
 
@@ -280,7 +280,7 @@
 
 #### (2) Qualified New York Liberty Zone property
 
-&emsp;For purposes of this subsection, the term “qualified New York Liberty Zone property” has the meaning given such term by subsection (b)(2).
+&emsp;For purposes of this subsection, the term “qualified New York Liberty Zone property”has the meaning given such term by subsection (b)(2).
 
 #### (3) Recapture
 
@@ -298,13 +298,21 @@ For purposes of this section, the term “New York Liberty Zone” means the are
 
 For purposes of this section, the terms “Governor” and “Mayor” mean the Governor of the State of New York and the Mayor of the City of New York, New York, respectively.
 
-(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33.)
+(Added Pub. L. 107–147, title III, §301(a), Mar. 9, 2002, 116 Stat. 33; amended Pub. L. 108–27, title II, §201(c)(2), May 28, 2003, 117 Stat. 757.)
 
 #### References in Text
 
 Subpart F of part IV of subchapter B of this chapter, referred to in subsec. (a)(2)(D), probably should be a reference to subpart F of part IV of subchapter A of this chapter, which relates to rules for computing work opportunity credits. No subpart F of part IV of subchapter B of this chapter has been enacted.
 
 The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of Pub. L. 107–147, which was approved Mar. 9, 2002.
+
+#### Amendments
+
+2003—Subsec. (b)(2)(C)(i). Pub. L. 108–27, which directed amendment of heading by substituting “Bonus depreciation property under section 168(k)” for “30-percent additional allowance property”, was executed by making the substitution for “30 percent additional allowance property” to reflect the probable intent of Congress.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable to taxable years ending after May 5, 2003, see section 201(d) of Pub. L. 108–27, set out as a note under section 168 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ Civil Actions To Enforce Section 40106(b).—The Attorney General may bring a ci
 
 (b)
 
-Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties andpowers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator), the Attorney General may bring a civil action in an appropriate court—
+Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator), the Attorney General may bring a civil action in an appropriate court—
 
 &emsp;(A) to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part; and
 
@@ -83,4 +83,8 @@ Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, o
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 40110 of this title.
 

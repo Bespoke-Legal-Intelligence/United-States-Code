@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-In addition to mortgages insured under section 1750b of this title, the Secretary is authorized to insure mortgages as defined in section1750 of this title (including advances on such mortgages during construction) which are eligible for insurance as hereinafter provided.
+In addition to mortgages insured under section 1750b of this title, the Secretary is authorized to insure mortgages as defined in section 1750 of this title (including advances on such mortgages during construction) which are eligible for insurance as hereinafter provided.
 
 #### (b) Eligibility  requirements;  release  of  part  of  property
 

@@ -6,7 +6,7 @@ Nothing in section 360aaa of this title shall be construed as prohibiting a manu
 
 #### (b) Dissemination of information on drugs or devices not evidence of intended use
 
-Notwithstanding subsection (a), (f), or (<i>o</i>) of section 352 of this title, or any other provision of law, the dissemination of information relating to a new use of a drug or device, in accordance with section 360aaa of this title, shall not be construed by the Secretary as evidence of a new intended use of the drug or device that is different from the intended use of the drug or device set forth in the official labeling of the drug or device. Such dissemination shall not be considered by the Secretary as labeling, adulteration, or misbranding of the drug or device.
+Notwithstanding subsection (a), (f), or (<i>o</i>) of section 352 of this title, or any other provision of law, the dissemination of information relatingto a new use of a drug or device, in accordance with section 360aaa of this title, shall not be construed by the Secretary as evidence of a new intended use of the drug or device that is different from the intended use of the drug or device set forth in the official labeling of the drug or device. Such dissemination shall not be considered by the Secretary as labeling, adulteration, or misbranding of the drug or device.
 
 #### (c) Patent protection
 

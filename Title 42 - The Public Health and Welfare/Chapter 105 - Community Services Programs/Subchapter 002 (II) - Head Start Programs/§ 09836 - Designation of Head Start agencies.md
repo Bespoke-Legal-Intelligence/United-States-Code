@@ -56,7 +56,7 @@ If no entity in a community is entitled to the priority specified in subsection 
 
 &emsp;(6) other factors related to the requirements of this subchapter;
 
-&emsp;(7) the plan of such applicant to meet the needs of non-English background children andtheir families, including needs related to the acquisition of the English language;
+&emsp;(7) the plan of such applicant to meet the needs of non-English background children and their families, including needs related to the acquisition of the English language;
 
 &emsp;(8) the plan of such applicant to meet the needs of children with disabilities;
 
@@ -76,7 +76,7 @@ The Secretary shall require that the practice of significantly involving parents
 
 If the Secretary determines that a nonprofit agency and a for-profit agency have submitted applications for designation of equivalent quality under subsection (d) of this section, the Secretary may give priority to the nonprofit agency. In selecting from among qualified applicants for designation as a Head Start agency under subsection (d) of this section, the Secretary shall give priority to applicants that have demonstrated capacity in providing comprehensive early childhood services to children and their families.
 
-(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712.)
+(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30,1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Authority.—The Secretary of the Navy may provide, by contract or otherwise, ne
 
 (b)
 
-Coordination With Secretary of Transportation.—The Secretary shall submit to the Secretary of Transportation for comment each proposed contract for salvage facilities that affects the interests of the Department of Transportation.
+Coordination With Secretary of Homeland Security.—The Secretary shall submit to the Secretary of Homeland Security for comment each proposed contract for salvage facilities that affects the interests of the Department of Homeland Security.
 
 (c)
 
@@ -16,9 +16,23 @@ Limitation.—The Secretary of the Navy may enter into a term contract under sub
 
 Public Notice.—The Secretary may not enter into a contract under subsection (a) until the Secretary has provided public notice of the intent to enter into such a contract.
 
-(Added Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 424.)
+(e)
+
+Salvage Facilities Defined.—In this section, the term “salvage facilities” includes equipment and gear utilized to prevent, abate, or minimize damage to the environment.
+
+(Added Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 424; amended Pub. L. 107–296, title XVII, §1704(b)(1), (6), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title III, §315(a), Nov. 24, 2003, 117 Stat. 1431.)
 
 #### Prior Provisions
 
 A prior section 7361, acts Aug. 10, 1956, ch. 1041, 70A Stat. 455; Aug. 6, 1981, Pub. L. 97–31, §12(3)(D), 95 Stat. 154, authorized Secretary of the Navy to provide for necessary salvage facilities for public and private vessels, prior to the general amendment of this chapter by Pub. L. 104–106.
+
+#### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 added subsec. (e).
+
+2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in heading and in two places in text.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

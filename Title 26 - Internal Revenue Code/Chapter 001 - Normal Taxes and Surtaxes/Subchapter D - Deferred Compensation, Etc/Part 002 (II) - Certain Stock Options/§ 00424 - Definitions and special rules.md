@@ -72,7 +72,7 @@ For purposes of this part, the term “subsidiary corporation” means any corpo
 
 #### (g) Special rule for applying subsections (e) and (f)
 
-In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
+In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall besubstituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
 
 #### (h) Modification, extension, or renewal of option
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 101–508, §11801(c)(9)(F)(iii), substituted “422(b)(6) 
 
 Subsec. (g). Pub. L. 101–508, §11801(c)(9)(F)(iv), substituted “422(a)(2) and 423(a)(2)” for “422(a)(2), 422A(a)(2), 423(a)(2), and 424(a)(2)” and “424(a)” for “425(a)”.
 
-Subsec. (h)(2). Pub. L. 101–508, §11801(c)(9)(F)(v)(I), added par. (2) and struck out former par. (2) which related to special rules for sections 423 and 424 optionsand to an exception that such rules would not apply with respect to a modification, extension or renewal of a restricted stock option before Jan. 1, 1964, if the aggregate of the monthly fair market value for 12 consecutive months before date of modification, etc., divided by 12 is an amount less than 80% of the fair market value of such stock on the date of original granting or the date of modification, etc., whichever is higher.
+Subsec. (h)(2). Pub. L. 101–508, §11801(c)(9)(F)(v)(I), added par. (2) and struck out former par. (2) which related to special rules for sections 423 and 424 options and to an exception that such rules would not apply with respect to a modification, extension or renewal of a restricted stock option before Jan. 1, 1964, if the aggregate of the monthly fair market value for 12 consecutive months before date of modification, etc., divided by 12 is an amount less than 80% of the fair market value of such stock on the date of original granting or the date of modification, etc., whichever is higher.
 
 Subsec. (h)(3). Pub. L. 101–508, §11801(c)(9)(F)(v)(III), struck out at end “If a restricted stock option is exercisable after the expiration of 10 years from the date such option is granted, subparagraph (B) shall not apply unless the terms of the option are also changed to make it not exercisable after the expiration of such period.”
 
@@ -156,7 +156,7 @@ Subsec. (h)(3)(B). Pub. L. 97–34, §251(b)(4), inserted reference to section 4
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -106,7 +106,7 @@
 
 (ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount of any extended compensation for which an individual might be eligible.
 
-(C)(i) At the option of the State, cash benefits under this paragraph may include amountswhich shall be payable to 1 or more categories of individuals not otherwise eligible for regular compensation under the unemployment compensation law of such State, including those described in clause (iii).
+(C)(i) At the option of the State, cash benefits under this paragraph may include amounts which shall be payable to 1 or more categories of individuals not otherwise eligible for regular compensation under the unemployment compensation law of such State, including those described in clause (iii).
 
 (ii) The benefits paid under this subparagraph to any individual may not, for any period of unemployment, exceed the maximum amount of regular compensation authorized under the unemployment compensation law of such State for that same period, plus any additional compensation (described in subparagraph (B)(i)) which could have been paid with respect to that amount.
 
@@ -150,7 +150,7 @@ Subsec. (c)(2). Pub. L. 105–33, §5403(b), inserted concluding provisions.
 
 1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
 
-&emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
+&emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasurybefore that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
 
 &emsp;“(B) shall bear the same ratio to the total amount to be so transferred as the amount of wages subject to contributions under such State's unemployment compensation law during the preceding calendar year which have been reported to the State before August 1 bears to the total of wages subject to contributions under all State unemployment compensation laws during such calendar year which have been reported to the States before August 1.”
 
@@ -172,7 +172,7 @@ Subsec. (b)(1). Pub. L. 94–273, §3(23), substituted “October” for “July
 
 Subsec. (c)(2). Pub. L. 94–273, §41, in subpar. (D) and provisions following subpar. (D) substituted provisions relating to determination based on a twelve-month period (as prescribed in the law of the State), or during a transitional period of less than twelve months caused by a change in the twelve-month period (as prescribed in the law of the State), for provisions relating to determination based on a fiscal year period.
 
-1974—Subsec. (b)(3). Pub. L. 93–368 struck out par. (3) which related to reductions in the amount transferable to the account of any State by reason of emergencycompensation paid to any individual for a week of unemployment ending after June 30, 1972.
+1974—Subsec. (b)(3). Pub. L. 93–368 struck out par. (3) which related to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
 
 1972—Subsec. (b)(3). Pub. L. 92–329 inserted provisions relating to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
 

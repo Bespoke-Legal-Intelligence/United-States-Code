@@ -12,7 +12,7 @@ The Secretary of Labor shall make no certification for payment to any State unle
 
 &emsp;(4) The payment of all money received in the unemployment fund of such State (except for refunds of sums erroneously paid into such fund and except for refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]), immediately upon such receipt, to the Secretary of the Treasury to the credit of the unemployment trust fund <sup>1</sup> established by section 1104 of this title; and
 
-&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) or 1103(d)(4) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may bewithdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
+&emsp;(5) Expenditure of all money withdrawn from an unemployment fund of such State, in the payment of unemployment compensation, exclusive of expenses of administration, and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b) of the Federal Unemployment Tax Act \[26 U.S.C. 3305(b)\]: <i>Provided</i>, That an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration: <i>Provided further</i>, That the amounts specified by section 1103(c)(2) or 1103(d)(4) of this title may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices: <i>Provided further</i>, That nothing in this paragraph shall be construed to prohibit deducting an amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor: <i>Provided further</i>, Thatamounts may be deducted from unemployment benefits and used to repay overpayments as provided in subsection (g) of this section: <i>Provided further</i>, That amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor: <i>Provided further</i>, That amounts may be withdrawn for the payment of allowances under a self-employment assistance program (as defined in section 3306(t) of the Internal Revenue Code of 1986 \[26 U.S.C. 3306(t)\]); and
 
 &emsp;(6) The making of such reports, in such form and containing such information, as the Secretary of Labor may from time to time require, and compliance with such provisions as the Secretary of Labor may from time to time find necessary to assure the correctness and verification of such reports; and
 
@@ -114,7 +114,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>2</sup> of this title), and
 
-&emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
+&emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriateState or local child support enforcement agency.
 
 > Any amount deducted and withheld under clause (iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by such individual to the State or local child support enforcement agency in satisfaction of his child support obligations.
 
@@ -158,7 +158,7 @@ The State agency charged with the administration of the State law shall provide 
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the term “wage information” means information regarding wages paid to an individual, the social security account number of such individual, and the name, address, State, and the Federal employer identification number of the employer paying such wages to such individual; and
+&emsp;(A) the term “wage information” means information regarding wages paid to an individual, the social security account number of such individual, and the name, address, State,and the Federal employer identification number of the employer paying such wages to such individual; and
 
 &emsp;(B) the term “claim information” means information regarding whether an individual is receiving, has received, or has made application for, unemployment compensation, the amount of any such compensation being received (or to be received by such individual), and the individual's current (or most recent) home address.
 
@@ -200,7 +200,7 @@ The State agency charged with the administration of the State law shall provide 
 
 The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, asamended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Part D of subchapter IV of this chapter, referred to in subsec. (e)(1), is classified to section 651 et seq. of this title.
 
@@ -300,7 +300,7 @@ Section 4(f) of Pub. L. 103–152 provided that:
 
 “(1) The amendments made by subsections (a) and (b) \[amending this section and section 504 of this title\] shall take effect on the date one year after the date of the enactment of this Act \[Nov. 24, 1993\].
 
-“(2) The provisions of subsections (c), (d), and (e) \[enacting provisions set out as notes below and repealing provisions set out as a note under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of enactment of this Act.”
+“(2) The provisions of subsections (c), (d), and (e) \[enacting provisions set out as notes below and repealingprovisions set out as a note under section 3304 of Title 26, Internal Revenue Code\] shall take effect on the date of enactment of this Act.”
 
 #### Effective Date of 1988 Amendments
 

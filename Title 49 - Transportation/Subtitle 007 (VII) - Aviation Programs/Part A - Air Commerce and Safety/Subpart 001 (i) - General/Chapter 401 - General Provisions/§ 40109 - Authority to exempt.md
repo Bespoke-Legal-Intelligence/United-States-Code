@@ -32,7 +32,7 @@ Maximum Flying Hours.—The Secretary may not exempt an air carrier under this s
 
 (f)
 
-Smaller Aircraft.—(1) An air carrier is exempt from section 41101(a)(1) of this title, and the Secretary may exempt an air carrier from another provision of subpart II of this part, if the air carrier—
+Smaller Aircraft.—(1) An air carrier is exempt from section 41101(a)(1) of this title, and the Secretary may exempt an air carrier fromanother provision of subpart II of this part, if the air carrier—
 
 &emsp;(A)(i) provides passenger transportation only with aircraft having a maximum capacity of 55 passengers; or
 
@@ -74,7 +74,7 @@ Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that t
 
 (h)
 
-Notice and Opportunity for Hearing.—The Secretary may act under subsections (d)and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
+Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395.)
 

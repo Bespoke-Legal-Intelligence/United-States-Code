@@ -24,5 +24,5 @@ In managing the resources subject to the provisions of this chapter, States are 
 
 #### References in Text
 
-The National Historic Preservation Act, referred to in subsec. (b), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915,as amended. Title I of the Act is classified generally to sections 470a, 470b, and 470c to 470h–3 of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
+The National Historic Preservation Act, referred to in subsec. (b), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended. Title I of the Act is classified generally to sections 470a, 470b, and 470c to 470h–3 of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 

@@ -34,11 +34,17 @@
 
 &emsp;(C) the Secretary of the Interior may not list or remove from any list any such species, and may not change the status of any such species which are listed, without a prior favorable determination made pursuant to this section by the Secretary of Commerce.
 
-(3) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
+(3)(A) The Secretary, by regulation promulgated in accordance with subsection (b) of this section and to the maximum extent prudent and determinable—
 
-&emsp;(A) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
+&emsp;(i) shall, concurrently with making a determination under paragraph (1) that a species is an endangered species or a threatened species, designate any habitat of such species which is then considered to be critical habitat; and
 
-&emsp;(B) may, from time-to-time thereafter as appropriate, revise such designation.
+&emsp;(ii) may, from time-to-time thereafter as appropriate, revise such designation.
+
+(B)(i) The Secretary shall not designate as critical habitat any lands or other geographical areas owned or controlled by the Department of Defense, or designated for its use, that are subject to an integrated natural resources management plan prepared under section 670a of this title, if the Secretary determines in writing that such plan provides a benefit to the species for which critical habitat is proposed for designation.
+
+(ii) Nothing in this paragraph affects the requirement to consult under section 1536(a)(2) of this title with respect to an agency action (as that term is defined in that section).
+
+(iii) Nothing in this paragraph affects the obligation of the Department of Defense to comply with section 1538 of this title, including the prohibition preventing extinction and taking of endangered species and threatened species.
 
 #### (b) Basis for determinations
 
@@ -50,7 +56,7 @@
 
 &emsp;(ii) identified as in danger of extinction, or likely to become so within the foreseeable future, by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish or wildlife or plants.
 
-(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) of this section on the basis of the best scientific data available and after taking into consideration the economic impact, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
+(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) of this section on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
 (3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c) of this section, the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
@@ -156,7 +162,7 @@
 
 #### (d) Protective regulations
 
-Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to the taking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
+Whenever any species is listed as a threatened species pursuant to subsection (c) of this section, the Secretary shall issue such regulations as he deems necessary and advisable to provide for the conservation of such species. The Secretary may by regulation prohibit with respect to any threatened species any act prohibited under section 1538(a)(1) of this title, in the case of fish or wildlife, or section 1538(a)(2) of this title, in the case of plants, with respect to endangered species; except that with respect to thetaking of resident species of fish or wildlife, such regulations shall apply in any State which has entered into a cooperative agreement pursuant to section 1535(c) of this title only to the extent that such regulations have also been adopted by such State.
 
 #### (e) Similarity of appearance cases
 
@@ -212,9 +218,9 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) of this section files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3) of this section, the Secretary shall submitto the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
-(Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307.)
+(Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433.)
 
 #### References in Text
 
@@ -223,6 +229,10 @@ Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg.
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Amendments
+
+2003—Subsec. (a)(3). Pub. L. 108–136, §318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+
+Subsec. (b)(2). Pub. L. 108–136, §318(b), inserted “the impact on national security,” after “the economic impact,”.
 
 1988—Subsec. (b)(3)(C)(iii). Pub. L. 100–478, §1002(a), added subcl. (iii).
 
@@ -264,7 +274,7 @@ Subsec. (h). Pub. L. 97–304, §2(a)(4)(C), (F), added subsec. (h) and redesign
 
 Subsec. (f)(2)(B)(i). Pub. L. 96–159, §3(2), required publication of summary of text rather than of the complete text of proposed regulation specifying any critical habitat and inclusion of a map of the proposed critical habitat.
 
-Subsec. (f)(2)(B)(iv)(II). Pub. L. 96–159, §3(3), substituted “if requested within 15 days after the date on which the public meeting is conducted,” for “if requested,”.
+Subsec. (f)(2)(B)(iv)(II). Pub. L. 96–159, §3(3), substituted “if requested within 15 days after the date onwhich the public meeting is conducted,” for “if requested,”.
 
 Subsec. (f)(2)(C). Pub. L. 96–159, §3(4), (5), inserted in introductory text “, subsection (b)(4) of this section,”; and in cl. (ii), included reference to significant risk to wellbeing of any species of plants, inserted in item (II) reference to regulation applicable to resident species of plants, extended the statutory period to a “240-day period” from a “120-day period”, and provided for withdrawal of an emergency regulation without substantial evidence to warrant it, respectively.
 
@@ -310,7 +320,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534, 1535, 1536, 1537, 1538, 1540, 4202, 4261, 6301 of this title; title 10 section 7524.
+This section is referred to in sections 460k–1, 668dd, 670h, 715i, 715s, 1374, 1383b, 1387, 1402, 1532, 1534, 1535, 1536, 1537, 1538, 1540, 4202, 4261, 6301, 6512, 6572, 6573 of this title; title 10 section 7524.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
 

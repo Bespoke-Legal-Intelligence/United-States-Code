@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, any person may commence a 
 
 &emsp;(2) against the Administrator where there is alleged a failure of the Administrator to perform any act or duty under this chapter which is not discretionary with the Administrator, or
 
-&emsp;(3) against any person who proposes to construct or constructs any new or modified major emitting facility without a permit required under part C of subchapter I of thischapter (relating to significant deterioration of air quality) or part D of subchapter I of this chapter (relating to nonattainment) or who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of any condition of such permit.
+&emsp;(3) against any person who proposes to construct or constructs any new or modified major emitting facility without a permit required under part C of subchapter I of this chapter (relating to significant deterioration of air quality) or part D of subchapter I of this chapter (relating to nonattainment) or who is alleged to have violated (if there is evidence that the alleged violation has been repeated) or to be in violation of any condition of such permit.
 
 > The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such an emission standard or limitation, or such an order, or to order the Administrator to perform such act or duty, as the case may be, and to apply any appropriate civil penalties (except for actions under paragraph (2)). The district courts of the United States shall have jurisdiction to compel (consistent with paragraph (2) of this subsection) agency action unreasonably delayed, except that an action to compel agency action referred to in section 7607(b) of this title which is unreasonably delayed may only be filed in a United States District Court within the circuit in which such action would be reviewable under section 7607(b) of this title. In any such action for unreasonable delay, notice to the entities referred to in subsection (b)(1)(A) of this section shall be provided 180 days before commencing such action.
 
@@ -112,7 +112,7 @@ Pub. L. 95–95, §303(b), added par. (3).
 
 #### Effective Date of 1990 Amendment
 
-Section 707(g) of Pub. L. 101–549 provided that: “The amendment made by this subsection \[amending this section\] shall take effect with respect to actions brought after the date 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].”
+Section 707(g) of Pub. L. 101–549 provided that: “The amendment made by this subsection \[amending thissection\] shall take effect with respect to actions brought after the date 2 years after the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].”
 
 #### Effective Date of 1977 Amendment
 

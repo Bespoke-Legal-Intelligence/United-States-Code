@@ -1,6 +1,6 @@
 ### §4315. Certification of organizations; applicable criteria and considerations
 
-The eligibility of any organization to represent producers of flowers and plants of anyproducing area of the United States or importers of flowers and plants, for purposes of requesting the issuance of an order under section 4304 of this title, or making nominations under section 4306(2) of this title, shall be certified by the Secretary. Certification shall be based, in addition to other available information, upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including, but not limited to, the following:
+The eligibility of any organization to represent producers of flowers and plants of any producing area of the United States or importers of flowers and plants, for purposes of requesting the issuance of an order under section 4304 of this title, or making nominations under section 4306(2) of this title, shall be certified by the Secretary. Certification shall be based, in addition to other available information, upon a factual report submitted by the organization which shall contain information deemed relevant and specified by the Secretary for the making of such determination, including, but not limited to, the following:
 
 &emsp;(1) geographic territory covered by the organization's active membership;
 

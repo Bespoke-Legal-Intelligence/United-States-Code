@@ -6,7 +6,7 @@ The Choctaw and Chickasaw Tribes absolutely and unqualifiedly relinquish, cede, 
 
 #### Codification
 
-Section is from section 64 of act July 1, 1902, which was part of an agreement between the United Statesand the Choctaw and Chicasaw tribes of Indians, ratified by and included in that Act.
+Section is from section 64 of act July 1, 1902, which was part of an agreement between the United States and the Choctaw and Chicasaw tribes of Indians, ratified by and included in that Act.
 
 The following provisions contained in this section as originally enacted were omitted as temporary and executed:
 

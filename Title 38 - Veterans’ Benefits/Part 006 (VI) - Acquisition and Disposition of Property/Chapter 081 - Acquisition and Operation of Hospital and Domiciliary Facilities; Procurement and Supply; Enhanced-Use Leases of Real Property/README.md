@@ -73,7 +73,7 @@
 | :--- | ---: |
 | [8161\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008161%20-%20Definitions.md) | Definitions. |
 | [8162\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008162%20-%20Enhanced-use%20leases.md) | Enhanced-use leases. |
-| [8163\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008163%20-%20Designation%20of%20property%20to%20be%20leased.md) | Designation of property to be leased. |
+| [8163\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008163%20-%20Hearing%20and%20notice%20requirements%20regarding%20proposed%20leases.md) | Hearing and notice requirements regarding proposed leases. |
 | [8164\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008164%20-%20Authority%20for%20disposition%20of%20leased%20property.md) | Authority for disposition of leased property. |
 | [8165\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008165%20-%20Use%20of%20proceeds.md) | Use of proceeds. |
 | [8166\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008166%20-%20Construction%20standards.md) | Construction standards. |
@@ -84,6 +84,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–170, title II, §202(d)(2), Dec. 6, 2003, 117 Stat. 2048, substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in item 8163.
 
 2002—Pub. L. 107–314, div. A, title VII, §721(a)(2), Dec. 2, 2002, 116 Stat. 2595, substituted “Sharing of Department of Veterans Affairs and Department of Defense health care resources” for “Sharing of Department and Department of Defense health-care resources” in item 8111.
 

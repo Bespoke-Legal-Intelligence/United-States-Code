@@ -74,7 +74,7 @@ Subsec. (d)(2). Pub. L. 101–239, §7110(c)(2), inserted “for a taxable year 
 
 1988—Subsec. (c)(4). Pub. L. 100–647, §4008(b)(2)(A), added par. (4).
 
-Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit” after “tax credit” in heading and amended text generally. Prior to amendment, text readas follows: “In the case of the investment credit determined under section 46(a) (other than a credit to which section 48(q)(3) applies), subsection (a) shall be applied by substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’.”
+Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit” after “tax credit” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of the investment credit determined under section 46(a) (other than a credit to which section 48(q)(3) applies), subsection (a) shall be applied by substituting ‘an amount equal to 50 percent of’ for ‘an amount equal to’.”
 
 1984—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
+Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I,§121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -180,5 +180,5 @@ Certain projects with respect to historic structures.—In the case of any certi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affecttreatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 

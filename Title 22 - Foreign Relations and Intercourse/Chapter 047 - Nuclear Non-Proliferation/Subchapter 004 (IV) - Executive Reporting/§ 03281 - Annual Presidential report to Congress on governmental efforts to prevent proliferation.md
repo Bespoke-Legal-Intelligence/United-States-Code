@@ -94,7 +94,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 #### Delegation of Functions
 
-Secretary of State responsible for performing function vested in President by this section to extent that it relates to preparation of an annual report, see section 2(c) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out as a note under section 3201 of this title.
+For delegation of congressional reporting functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

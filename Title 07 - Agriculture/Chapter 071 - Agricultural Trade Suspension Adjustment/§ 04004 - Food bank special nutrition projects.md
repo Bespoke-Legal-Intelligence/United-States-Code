@@ -20,7 +20,7 @@ The Secretary shall submit to Congress a progress report on July 1, 1983, and a 
 
 #### (e) Sale of food prohibited; fines and penalties
 
-The sale of food provided under this section shall be prohibited and any person who receivesany remuneration in exchange for food provided under this section shall be subject to a fine of not more than $1,000 or imprisonment for not more than six months, or both.
+The sale of food provided under this section shall be prohibited and any person who receives any remuneration in exchange for food provided under this section shall be subject to a fine of not more than $1,000 or imprisonment for not more than six months, or both.
 
 #### (f) Paperwork minimization and encouragement of participation
 

@@ -14,7 +14,7 @@
 
 &emsp;(6) issue a certification pursuant to subsection (h) of section 5403 of this title, if such person in the exercise of due care has reason to know that such certification is false or misleading in a material respect; or
 
-&emsp;(7) after the expiration of the period specified in section 5404(c)(2)(B) of this title, fail to comply with the requirements for the installation program required by section 5404 of this title in any State that has not adopted and implemented a State installation program.
+&emsp;(7) after the expiration of the period specified in section 5404(c)(2)(B) of this title, fail tocomply with the requirements for the installation program required by section 5404 of this title in any State that has not adopted and implemented a State installation program.
 
 (b)(1) Paragraph (1) of subsection (a) of this section shall not apply to the sale, the offer for sale, or the introduction or delivery for introduction in interstate commerce of any manufactured home after the first purchase of it in good faith for purposes other than resale.
 

@@ -542,5 +542,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 50, 55, 56, 121, 168, 170, 267, 291, 341, 453, 467, 751, 1017, 1400B, 1400I, 7701 of this title.
+This section is referred to in sections 1, 50, 55, 56, 121, 168, 170, 267, 291, 453, 467, 751, 1017, 1400B, 1400I, 7701 of this title.
 

@@ -44,11 +44,11 @@ Pub. L. 97–35, title XII, §1201(a), Aug. 13, 1981, 95 Stat. 703, provided tha
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–319, §1, July 11, 1978, 92 Stat. 386, provided: “That this Act \[enacting section 2082 of this title,amending section 2068 of this title, and enacting provision set out as a note under section 2082 of this title\] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
+Pub. L. 95–319, §1, July 11, 1978, 92 Stat. 386, provided: “That this Act \[enacting section 2082 of this title, amending section 2068 of this title, and enacting provision set out as a note under section 2082 of this title\] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: “This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069, 2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
+Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: “This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069,2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
 
 #### Short Title
 

@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (1) Personal service corporation
 
-&emsp;The term “personal service corporation” means a corporation the principal activity ofwhich is the performance of personal services and such services are substantially performed by employee-owners.
+&emsp;The term “personal service corporation” means a corporation the principal activity of which is the performance of personal services and such services are substantially performed by employee-owners.
 
 #### (2) Employee-owner
 

@@ -27,6 +27,8 @@
 | [1049\.](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md) | Subsistence: miscellaneous persons. |
 | [1050\.](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md) | Latin American cooperation: payment of personnel expenses. |
 | [1051\.](%C2%A7%2001051%20-%20Bilateral%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md) | Bilateral or regional cooperation programs: payment of personnel expenses. |
+| [1051a.](%C2%A7%2001051a%20-%20Coalition%20liaison%20officers%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20and%20other%20personal%20expenses.md) | Coalition liaison officers: administrative services and support; travel, subsistence, and other personal expenses. |
+| [1051b.](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md) | Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance. |
 | [1052\.](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md) | Adoption expenses: reimbursement. |
 | [1053\.](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md) | Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement. |
 | [1053a.](%C2%A7%2001053a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md) | Expenses incurred in connection with leave canceled due to contingency operations: reimbursement. |
@@ -42,6 +44,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title XII, §1222(b), Nov. 24, 2003, 117 Stat. 1652, added item 1051b.
+
+2002—Pub. L. 107–314, div. A, title XII, §1201(a)(2), Dec. 2, 2002, 116 Stat. 2663, added item 1051a.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §§551(b), 579(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 “Reimbursement for adoption expenses” and 1053 “Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay”.
 
@@ -59,7 +65,7 @@ Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, 
 
 1993—Pub. L. 103–160, div. A, title V, §§551(a)(2), 574(b), title XIV, §1433(b)(2), Nov. 30, 1993, 107 Stat. 1662, 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
 
-Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
+Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A,title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
 
 1992—Pub. L. 102–484, div. A, title VI, §651(b), title X, §1080(b), Oct. 23, 1992, 106 Stat. 2426, 2514, added items 1046 and 1057.
 
@@ -139,6 +145,8 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 - [&sect; 01049 - Subsistence miscellaneous persons](%C2%A7%2001049%20-%20Subsistence%20miscellaneous%20persons.md)
 - [&sect; 01050 - Latin American cooperation payment of personnel expenses](%C2%A7%2001050%20-%20Latin%20American%20cooperation%20payment%20of%20personnel%20expenses.md)
 - [&sect; 01051 - Bilateral or regional cooperation programs payment of personnel expenses](%C2%A7%2001051%20-%20Bilateral%20or%20regional%20cooperation%20programs%20payment%20of%20personnel%20expenses.md)
+- [&sect; 01051a - Coalition liaison officers administrative services and support; travel, subsistence, and other personal expenses](%C2%A7%2001051a%20-%20Coalition%20liaison%20officers%20administrative%20services%20and%20support%3B%20travel%2C%20subsistence%2C%20and%20other%20personal%20expenses.md)
+- [&sect; 01051b - Bilateral or regional cooperation programs awards and mementos to recognize superior noncombat achievements or performance](%C2%A7%2001051b%20-%20Bilateral%20or%20regional%20cooperation%20programs%20awards%20and%20mementos%20to%20recognize%20superior%20noncombat%20achievements%20or%20performance.md)
 - [&sect; 01052 - Adoption expenses reimbursement](%C2%A7%2001052%20-%20Adoption%20expenses%20reimbursement.md)
 - [&sect; 01053 - Financial institution charges incurred because of Government error in direct deposit of pay reimbursement](%C2%A7%2001053%20-%20Financial%20institution%20charges%20incurred%20because%20of%20Government%20error%20in%20direct%20deposit%20of%20pay%20reimbursement.md)
 - [&sect; 01053a - Expenses incurred in connection with leave canceled due to contingency operations reimbursement](%C2%A7%2001053a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md)

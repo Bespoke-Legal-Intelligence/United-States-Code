@@ -24,7 +24,7 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(3) An explanation of the procedures for and advantages of affiliating with the Selected Reserve.
 
-&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.).
+&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.).<sup>1</sup>
 
 &emsp;(5) If the member has a spouse, job placement counseling for the spouse.
 
@@ -46,7 +46,7 @@ Transmittal of Medical Information to Department of Veterans Affairs.—In the c
 
 #### References in Text
 
-The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which is classified principally to chapter 74 (§9301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 9301(a) of Title 20 and Tables.
+The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which was classified principally to chapter 74 (§9301 et seq.) of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(6), Jan. 8, 2002, 115 Stat. 1986.
 
 #### Amendments
 
@@ -80,5 +80,7 @@ Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078a, 1144 of this title; title 20 section 9303.
+This section is referred to in sections 1078a, 1144 of this title; title 20 section 6672.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

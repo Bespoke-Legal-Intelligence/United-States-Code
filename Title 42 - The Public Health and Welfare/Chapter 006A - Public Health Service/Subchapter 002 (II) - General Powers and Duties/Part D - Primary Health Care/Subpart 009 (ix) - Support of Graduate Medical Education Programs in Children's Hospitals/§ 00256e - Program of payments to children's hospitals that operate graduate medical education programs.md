@@ -68,7 +68,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;The Secretary shall compute for each such hospital that is a children's hospital a per resident amount—
 
-&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applying the proportion determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) by dividing the national average per resident amount computed under subparagraph (D) into a wage-related portion and a non-wage-related portion by applyingthe proportion determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) by multiplying the wage-related portion by the factor described in subparagraph (C)(ii) for the hospital's area; and
 

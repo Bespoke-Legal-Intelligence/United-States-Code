@@ -136,7 +136,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;&emsp;(A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
-&emsp;&emsp;(B) the performance of each beneficiary country or ATPEA beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title.
+&emsp;&emsp;(B) the performance of each beneficiary country or ATPEA <sup>2</sup> beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title.
 
 #### (2) Public comment
 
@@ -176,6 +176,8 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
+Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
+
 #### Petitions for Review
 
 Pub. L. 107–210, div. C, title XXXI, §3103(d), Aug. 6, 2002, 116 Stat. 1033, provided that:
@@ -186,7 +188,7 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 
 “(2)
 
-Content of regulations.—The regulations shall be similar to the regulations regarding eligibility under the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, andshall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
+Content of regulations.—The regulations shall be similar to the regulations regarding eligibility under the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, and shall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
 
 \[For delegation of functions of President under section 3103(d) of Pub. L. 107–210, set out above, see section 2(a) of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.\]
 
@@ -205,4 +207,6 @@ Peru, Proc. No. 6585, Aug. 11, 1993, 58 F.R. 43239.
 This section is referred to in sections 2411, 3203 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “ATPDEA”.</i>
 

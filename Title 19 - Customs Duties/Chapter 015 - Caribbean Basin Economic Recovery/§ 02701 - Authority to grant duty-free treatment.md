@@ -6,7 +6,7 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–67, Aug. 5,1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(6) The economic security of the countries in the Caribbean Basin will be enhanced by the completion of the FTAA.
 
-&emsp;“(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and therebyenhance the national security interests of the United States.
+&emsp;“(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and thereby enhance the national security interests of the United States.
 
 &emsp;“(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United States products compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
 

@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(v) identify the practical and technological constraints to expanding lead poisoning prevention;
 
-&emsp;&emsp;(vi) annually carry out a comprehensive review of Federal programs providing assistance to prevent lead poisoning, and not later than May 1 of each year, submit to the Committee on Labor and Human Resources of the Senate and the Committee on the Environment and Public Works of the Senate, and to the Committee on Energy and Commerce of the House of Representatives, a report that summarizes the findings made as a result of such review and that contains the recommendations of the Task Force on the programs and policies with respect to which the Task Force is established, including related budgetary recommendations; and
+&emsp;&emsp;(vi) annually carry out a comprehensive review of Federal programs providing assistance to prevent lead poisoning, and not later than May 1 of each year, submit to the Committee on Labor and Human Resources of the Senate and the Committee on the Environment and Public Works of the Senate, and to the Committee on Energy and Commerce of the House of Representatives, a report that summarizes the findings made as a result of such review and that contains the recommendations of the Task Force on the programs and policies with respect to whichthe Task Force is established, including related budgetary recommendations; and
 
 &emsp;&emsp;(vii) annually review and coordinate departmental and agency budgetary requests with respect to all lead poisoning prevention activities of the Federal Government.
 

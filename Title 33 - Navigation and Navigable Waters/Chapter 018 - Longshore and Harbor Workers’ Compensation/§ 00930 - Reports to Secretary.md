@@ -6,7 +6,7 @@ Within ten days from the date of any injury, which causes loss of one or more sh
 
 #### (b) Additional reports
 
-Additional reports in respect of such injury and of the condition of such employee shall be sent by the employer to the Secretary and to such deputy commissioner at such times and in such manner as the Secretary may prescribe.
+Additional reports in respect of such injury and of the condition of such employee shall besent by the employer to the Secretary and to such deputy commissioner at such times and in such manner as the Secretary may prescribe.
 
 #### (c) Use as evidence
 
@@ -18,7 +18,7 @@ The mailing of any such report and copy in a stamped envelope, within the time p
 
 #### (e) Penalty for failure or refusal to send report
 
-Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required bythis section or knowingly or willfully makes a false statement or misrepresentation in any such report shall be subject to a civil penalty not to exceed $10,000 for each such failure, refusal, false statement, or misrepresentation.
+Any employer, insurance carrier, or self-insured employer who knowingly and willfully fails or refuses to send any report required by this section or knowingly or willfully makes a false statement or misrepresentation in any such report shall be subject to a civil penalty not to exceed $10,000 for each such failure, refusal, false statement, or misrepresentation.
 
 #### (f) Tolling provision
 

@@ -30,23 +30,29 @@ Conditions.—Assistance may be provided to a qualified former intelligence empl
 
 Duration of Assistance.—Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual in a defense intelligence position.
 
-(e)
-
-Annual Report.—(1) The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report with respect to any expenditure made under this section.
-
-(2) The committees referred to in paragraph (1) are the following:
-
-&emsp;(A) The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
-
-&emsp;(B) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
-
-(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 107–107, div. A, title X, §1048(a)(15), Dec. 28, 2001, 115 Stat. 1223.)
+(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 107–107, div. A, title X, §1048(a)(15), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–306, title VIII, §811(b)(4)(B), Nov. 27, 2002, 116 Stat. 2423; Pub. L. 108–177, title III, §361(h), Dec. 13, 2003, 117 Stat. 2625.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 1604(e)(4) of this title and in section 17 of Pub. L. 86–36 as added by Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436, set out as a note under section 402 of Title 50, War and National Defense, prior to repeal by Pub. L. 103–359, §806(b).
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–177 struck out heading and text of subsec. (e). Text read as follows:
+
+“(1) The Secretary of Defense shall submit to the congressional committees specified in paragraph (3) an annual report with respect to any expenditure made under this section.
+
+“(2) In the case of a report required to be submitted under paragraph (1) to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, the date for the submittal of such report shall be as provided in section 507 of the National Security Act of 1947.
+
+“(3) The committees referred to in paragraph (1) are the following:
+
+&emsp;“(A) The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;“(B) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.”
+
+2002—Subsec. (e)(1). Pub. L. 107–306, §811(b)(4)(B)(i), substituted “paragraph (3)” for “paragraph (2)”.
+
+Subsec. (e)(2), (3). Pub. L. 107–306, §811(b)(4)(B)(ii), (iii), added par. (2) and redesignated former par. (2) as (3).
 
 2001—Subsec. (d). Pub. L. 107–107 struck out “with” before “in a defense intelligence position”.
 
@@ -77,6 +83,10 @@ Subsec. (f). Pub. L. 104–201 substituted “includes the National Reconnaissan
 &emsp;“(4) The Central Imagery Office.
 
 &emsp;“(5) The intelligence components of any of the military departments.”
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–177, title III, §361(n), Dec. 13, 2003, 117 Stat. 2626, provided that: “The amendments made by this section \[amending this section, section 1681b of Title 15, Commerce and Trade, and sections 402a, 403–5, 404g, 404i, 415b, and 2366 of Title 50, War and National Defense, repealing section 540C of Title 28, Judiciary and Judicial Procedure, and section 404n–3 of Title 50, and repealing provisions set out as a note under section 402a of Title 50\] shall take effect on December 31, 2003.”
 
 #### Effective Date of 1996 Amendment
 

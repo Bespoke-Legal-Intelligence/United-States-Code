@@ -4,7 +4,7 @@
 
 (b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to be returned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
 
-(c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts of America, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
+(c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts ofAmerica, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
 
 (d) The Secretary of Defense is hereby authorized under such regulations as he may prescribe, to provide, without expense to the United States Government, transportation from the United States or military commands overseas, and return, on vessels of the Military Sealift Command or aircraft of the Air Mobility Command for (1) those Boy Scouts, Scouters, and officials certified by the Boy Scouts of America, as representing the Boy Scouts of America at any national or world Boy Scout Jamboree, and (2) the equipment and property of such Boy Scouts, Scouters, and officials and the property loaned to the Boy Scouts of America, by the Secretary of Defense pursuant to this section to the extent that such transportation will not interfere with the requirements of military operations.
 

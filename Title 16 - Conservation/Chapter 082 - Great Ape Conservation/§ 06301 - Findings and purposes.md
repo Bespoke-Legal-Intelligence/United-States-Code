@@ -18,7 +18,7 @@ Congress finds that—
 
 &emsp;(7) although subsistence hunting of tropical forest animals has occurred for hundreds of years at a sustainable level, the tremendous increase in the commercial trade of tropical forest species is detrimental to the future of these species; and
 
-&emsp;(8) the reduction, removal, or other effective addressing of the threats to the long-term viability of populations of great apes in the wild will require the joint commitment and effortof countries that have within their boundaries any part of the range of great apes, the United States and other countries, and the private sector.
+&emsp;(8) the reduction, removal, or other effective addressing of the threats to the long-term viability of populations of great apes in the wild will require the joint commitment and effort of countries that have within their boundaries any part of the range of great apes, the United States and other countries, and the private sector.
 
 #### (b) Purposes
 

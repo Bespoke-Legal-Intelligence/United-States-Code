@@ -1,6 +1,6 @@
 ### §2084. Audits by the Comptroller General
 
-The Comptroller General shall conduct annual audits of the transactions of the Commission and shall report the results of each audit to the Congress.
+The Comptroller General shall conduct annual audits of the transactions of the Commissionand shall report the results of each audit to the Congress.
 
 (Pub. L. 100–696, title VIII, §804, Nov. 18, 1988, 102 Stat. 4610.)
 

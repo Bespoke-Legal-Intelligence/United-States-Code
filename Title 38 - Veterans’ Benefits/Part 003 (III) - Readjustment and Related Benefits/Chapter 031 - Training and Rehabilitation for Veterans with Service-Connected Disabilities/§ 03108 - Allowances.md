@@ -37,7 +37,7 @@
 
 (c)(1) In any case in which the vocational rehabilitation program for a veteran includes training on the job by an employer in any month, such employer shall be required to submit to the Secretary a statement in writing showing any wage, compensation, or other income paid (directly or indirectly) by the employer to such veteran for such month. Based upon such written statement, the Secretary is authorized to reduce the subsistence allowance of such veteran to an amount considered equitable and just in accordance with criteria which the Secretary shall establish in regulations which the Secretary shall prescribe.
 
-(2) A veteran pursuing on-job training or work experience as part of a vocational rehabilitation program in a Federal, State, or local government agency or federally recognized Indian tribe under the provisions of section 3115(a)(1) of this title without pay or for nominal pay shall be paid the appropriate subsistence allowance rate provided in subsection (b) of this section for an institutional program.
+(2) A veteran pursuing on-job training or work experience as part of a vocational rehabilitation program in a Federal, State, or local government agency or federally recognized Indian tribeunder the provisions of section 3115(a)(1) of this title without pay or for nominal pay shall be paid the appropriate subsistence allowance rate provided in subsection (b) of this section for an institutional program.
 
 (d)(1) The Secretary shall, in accordance with regulations which the Secretary shall prescribe, define full-time and each part-time status for veterans participating in rehabilitation programs under this chapter.
 
@@ -87,7 +87,7 @@ Subsec. (f)(1)(B). Pub. L. 104–275, §101(g)(2)(B), substituted “chapter 30�
 
 1992—Subsec. (b). Pub. L. 102–568, §405(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Pub. L. 102–568, §405(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $333, $250, $167, $291, $333, $333, $250, and $167 to $366, $275, $184, $320, $366, $366, $275, and $184; in column III from $413, $310, $207, $352, $413, $413, $310, and $207 to $454, $341, $228, $387, $454, $454, $341, and $228; in column IV from $486, $364, $244, $405, $486, $486, $364, and $244 to $535, $400, $268, $446, $535, $535, $$400, and $268; and in column V from $35, $27, $18, $26, $35, $35, $27, and $18 to $39, $30, $20, $29, $39, $39, $30, and $20, respectively.
+Pub. L. 102–568, §405(a), increased the monthly rehabilitation subsistence allowance for eligible veterans in column II from $333, $250, $167, $291, $333, $333, $250, and $167 to $366, $275, $184, $320, $366, $366, $275, and $184; in column III from $413, $310, $207, $352, $413, $413, $310, and$207 to $454, $341, $228, $387, $454, $454, $341, and $228; in column IV from $486, $364, $244, $405, $486, $486, $364, and $244 to $535, $400, $268, $446, $535, $535, $$400, and $268; and in column V from $35, $27, $18, $26, $35, $35, $27, and $18 to $39, $30, $20, $29, $39, $39, $30, and $20, respectively.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1508 of this title as this section.
 

@@ -52,11 +52,11 @@ For purposes of this subchapter—
 
 #### (7) Non-Federal interest
 
-&emsp;The term “non-Federal interest” has the meaning such term has under section 1962d–5b of title 42 and includes any interstate agency and port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
+&emsp;The term “non-Federal interest” has the meaning such term has under section 1962d–5b of title 42 and includes any interstate agencyand port authority established under a compact entered into between two or more States with the consent of Congress under section 10 of Article I of the Constitution.
 
 #### (8) United States
 
-&emsp;The term “United States” means all areas included within the territorial boundaries ofthe United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
+&emsp;The term “United States” means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
 
 (Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, §201(e), Oct. 12, 1996, 110 Stat. 3672.)
 

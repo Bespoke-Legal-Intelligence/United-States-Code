@@ -4,9 +4,13 @@
 
 Every consumer reporting agency shall, upon request, and subject to section 1681h(a)(1) of this title, clearly and accurately disclose to the consumer:
 
-(1) All information in the consumer's file at the time of the request, except that nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
+(1) All information in the consumer's file at the time of the request, except that—
 
-(2) The sources of the information; except that the sources of information acquired solely foruse in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: <i>Provided</i>, That in the event an action is brought under this subchapter, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
+&emsp;(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identityof the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+
+&emsp;(B) nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
+
+(2) The sources of the information; except that the sources of information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: <i>Provided</i>, That in the event an action is brought under this subchapter, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
 
 (3)(A) Identification of each person (including each end-user identified under section 1681e(e)(1) of this title) that procured a consumer report—
 
@@ -22,7 +26,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (C) Subparagraph (A) does not apply if—
 
-&emsp;(i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) of this title); and
+&emsp;(i) the end user is an agency or department of the United States Government that procures the report from the person for purposes of determining the eligibility of the consumer to whom the report relates to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) <sup>1</sup> of this title); and
 
 &emsp;(ii) the head of the agency or department makes a written finding as prescribed under section 1681b(b)(4)(A) of this title.
 
@@ -30,49 +34,375 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (5) A record of all inquiries received by the agency during the 1-year period preceding the request that identified the consumer in connection with a credit or insurance transaction that was not initiated by the consumer.
 
+(6) If the consumer requests the credit file and not the credit score, a statement that the consumer may request and obtain a credit score.
+
 #### (b) Exempt information
 
 The requirements of subsection (a) of this section respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
 
-#### (c) Summary of rights required to be included with disclosure
+#### (c) Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores
 
-#### (1) Summary of rights
+#### (1) Commission summary of rights required
+
+#### (A) In general
+
+&emsp;&emsp;The Commission shall prepare a model summary of the rights of consumers under this subchapter.
+
+#### (B) Content of summary
+
+&emsp;&emsp;The summary of rights prepared under subparagraph (A) shall include a description of—
+
+&emsp;&emsp;&emsp;(i) the right of a consumer to obtain a copy of a consumer report under subsection (a) of this section from each consumer reporting agency;
+
+&emsp;&emsp;&emsp;(ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under section 1681j of this title;
+
+&emsp;&emsp;&emsp;(iii) the right of a consumer to dispute information in the file of the consumer under section 1681i of this title;
+
+&emsp;&emsp;&emsp;(iv) the right of a consumer to obtain a credit score from a consumer reporting agency, and a description of how to obtain a credit score;
+
+&emsp;&emsp;&emsp;(v) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency without charge, as provided in the regulations of the Commission prescribed under section 211(c) <sup>1</sup> of the Fair and Accurate Credit Transactions Act of 2003; and
+
+&emsp;&emsp;&emsp;(vi) the method by which a consumer can contact, and obtain a consumer report from, a consumer reporting agency described in section 1681a(w) of this title, as provided in the regulations of the Commission prescribed under section 1681j(a)(1)(C) of this title.
+
+#### (C) Availability of summary of rights
+
+&emsp;&emsp;The Commission shall—
+
+&emsp;&emsp;&emsp;(i) actively publicize the availability of the summary of rights prepared under this paragraph;
+
+&emsp;&emsp;&emsp;(ii) conspicuously post on its Internet website the availability of such summary of rights; and
+
+&emsp;&emsp;&emsp;(iii) promptly make such summary of rights available to consumers, on request.
+
+#### (2) Summary of rights required to be included with agency disclosures
 
 &emsp;A consumer reporting agency shall provide to a consumer, with each written disclosure by the agency to the consumer under this section—
 
-&emsp;&emsp;(A) a written summary of all of the rights that the consumer has under this subchapter; and
+&emsp;&emsp;(A) the summary of rights prepared by the Commission under paragraph (1);
 
-&emsp;&emsp;(B) in the case of a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours.
+&emsp;&emsp;(B) in the case of a consumer reporting agency described in section 1681a(p) of this title, a toll-free telephone number established by the agency, at which personnel are accessible to consumers during normal business hours;
 
-#### (2) Specific items required to be included
+&emsp;&emsp;(C) a list of all Federal agencies responsible for enforcing any provision of this subchapter, and the address and any appropriatephone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
 
-&emsp;The summary of rights required under paragraph (1) shall include—
+&emsp;&emsp;(D) a statement that the consumer may have additional rights under State law, and that the consumer may wish to contact a State or local consumer protection agency or a State attorney general (or the equivalent thereof) to learn of those rights; and
 
-&emsp;&emsp;(A) a brief description of this subchapter and all rights of consumers under this subchapter;
+&emsp;&emsp;(E) a statement that a consumer reporting agency is not required to remove accurate derogatory information from the file of a consumer, unless the information is outdated under section 1681c of this title or cannot be verified.
 
-&emsp;&emsp;(B) an explanation of how the consumer may exercise the rights of the consumer under this subchapter;
+#### (d) Summary of rights of identity theft victims
 
-&emsp;&emsp;(C) a list of all Federal agencies responsible for enforcing any provision of this subchapter and the address and any appropriate phone number of each such agency, in a form that will assist the consumer in selecting the appropriate agency;
+#### (1) In general
 
-&emsp;&emsp;(D) a statement that the consumer may have additional rights under State law and that the consumer may wish to contact a State or local consumer protection agency or a State attorney general to learn of those rights; and
+&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
 
-&emsp;&emsp;(E) a statement that a consumer reporting agency is not required to remove accurate derogatory information from a consumer's file, unless the information is outdated under section 1681c of this title or cannot be verified.
+#### (2) Summary of rights and contact information
 
-#### (3) Form of summary of rights
+&emsp;Beginning 60 days after the date on which the model summary of rights is prescribed in final form by the Commission pursuant to paragraph (1), if any consumer contacts a consumer reporting agency and expresses a belief that the consumer is a victim of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor, the consumer reporting agency shall, in addition to any other action that the agency may take, provide the consumer with a summary of rights that contains all of the information required by the Commission under paragraph (1), and information on how to contact the Commission to obtain more detailed information.
 
-&emsp;For purposes of this subsection and any disclosure by a consumer reporting agency required under this subchapter with respect to consumers’ rights, the Federal Trade Commission (after consultation with each Federal agency referred to in section 1681s(b) of this title) shall prescribe the form and content of any such disclosure of the rights of consumers required under this subchapter. A consumer reporting agency shall be in compliance with this subsection if it provides disclosures under paragraph (1) that are substantially similar to the Federal Trade Commission prescription under this paragraph.
+#### (e) Information available to victims
 
-#### (4) Effectiveness
+#### (1) In general
 
-&emsp;No disclosures shall be required under this subsection until the date on which the Federal Trade Commission prescribes the form and content of such disclosures under paragraph (3).
+&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
 
-(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, §4(a), Nov. 2, 1998, 112 Stat. 3210.)
+&emsp;&emsp;(A) the victim;
+
+&emsp;&emsp;(B) any Federal, State, or local government law enforcement agency or officer specified by the victim in such a request; or
+
+&emsp;&emsp;(C) any law enforcement agency investigating the identity theft and authorized by the victim to take receipt of records provided under this subsection.
+
+#### (2) Verification of identity and claim
+
+&emsp;Before a business entity provides any information under paragraph (1), unless the business entity, at its discretion, otherwise has a high degree of confidence that it knows the identity of the victim making a request under paragraph (1), the victim shall provide to the business entity—
+
+&emsp;&emsp;(A) as proof of positive identification of the victim, at the election of the business entity—
+
+&emsp;&emsp;&emsp;(i) the presentation of a government-issued identification card;
+
+&emsp;&emsp;&emsp;(ii) personally identifying information of the same type as was provided to the business entity by the unauthorized person; or
+
+&emsp;&emsp;&emsp;(iii) personally identifying information that the business entity typically requests from new applicants or for new transactions, at the time of the victim's request for information, including any documentation described in clauses (i) and (ii); and
+
+&emsp;&emsp;(B) as proof of a claim of identity theft, at the election of the business entity—
+
+&emsp;&emsp;&emsp;(i) a copy of a police report evidencing the claim of the victim of identity theft; and
+
+&emsp;&emsp;&emsp;(ii) a properly completed—
+
+&emsp;&emsp;&emsp;&emsp;(I) copy of a standardized affidavit of identity theft developed and made available by the Commission; or
+
+&emsp;&emsp;&emsp;&emsp;(II) an <sup>2</sup> affidavit of fact that is acceptable to the business entity for that purpose.
+
+#### (3) Procedures
+
+&emsp;The request of a victim under paragraph (1) shall—
+
+&emsp;&emsp;(A) be in writing;
+
+&emsp;&emsp;(B) be mailed to an address specified by the business entity, if any; and
+
+&emsp;&emsp;(C) if asked by the business entity, include relevant information about any transaction alleged to be a result of identity theft to facilitate compliance with this section including—
+
+&emsp;&emsp;&emsp;(i) if known by the victim (or if readily obtainable by the victim), the date of the application or transaction; and
+
+&emsp;&emsp;&emsp;(ii) if known by the victim (or if readily obtainable by the victim), any other identifying information such as an account or transaction number.
+
+#### (4) No charge to victim
+
+&emsp;Information required to be provided under paragraph (1) shall be so provided without charge.
+
+#### (5) Authority to decline to provide information
+
+&emsp;A business entity may decline to provide information under paragraph (1) if, in the exercise of good faith, the business entity determines that—
+
+&emsp;&emsp;(A) this subsection does not require disclosure of the information;
+
+&emsp;&emsp;(B) after reviewing the information provided pursuant to paragraph (2), the business entity does not have a high degree of confidence in knowing the true identity of the individual requesting the information;
+
+&emsp;&emsp;(C) the request for the information is based on a misrepresentation of fact by the individual requesting the information relevant to the request for information; or
+
+&emsp;&emsp;(D) the information requested is Internet navigational data or similar information about a person's visit to a website or online service.
+
+#### (6) Limitation on liability
+
+&emsp;Except as provided in section 1681s of this title, sections 1681n and 1681<i>o</i> of this title do not apply to any violation of this subsection.
+
+#### (7) Limitation on civil liability
+
+&emsp;No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
+
+#### (8) No new recordkeeping obligation
+
+&emsp;Nothing in this subsection creates an obligation on the part of a business entity to obtain, retain, or maintain information or records that are not otherwise required to be obtained, retained, or maintained in the ordinary course of its business or under other applicable law.
+
+#### (9) Rule of construction
+
+#### (A) In general
+
+&emsp;&emsp;No provision of subtitle A of title V of Public Law 106–102 \[15 U.S.C. 6801 et seq.\], prohibiting the disclosure of financial information by a business entity to third parties shall be used to deny disclosure of information to the victim under this subsection.
+
+#### (B) Limitation
+
+&emsp;&emsp;Except as provided in subparagraph (A), nothing in this subsection permits a business entity to disclose information, including information to law enforcement under subparagraphs (B) and (C) of paragraph (1), that the business entity is otherwise prohibited from disclosing under any other applicable provision of Federal or State law.
+
+#### (10) Affirmative defense
+
+&emsp;In any civil action brought to enforce this subsection, it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) for a business entity to file an affidavit or answer stating that—
+
+&emsp;&emsp;(A) the business entity has made a reasonably diligent search of its available business records; and
+
+&emsp;&emsp;(B) the records requested under this subsection do not exist or are not reasonably available.
+
+#### (11) Definition of victim
+
+&emsp;For purposes of this subsection, the term “victim” means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
+
+#### (12) Effective date
+
+&emsp;This subsection shall become effective 180 days after December 4, 2003.
+
+#### (13) Effectiveness study
+
+&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision.
+
+#### (f) Disclosure of credit scores
+
+#### (1) In general
+
+&emsp;Upon the request of a consumer for a credit score, a consumer reporting agency shall supply to the consumer a statement indicating that the information and credit scoring model may be different than the credit score that may be used by the lender, and a notice which shall include—
+
+&emsp;&emsp;(A) the current credit score of the consumer or the most recent credit score of the consumer that was previously calculated by the credit reporting agency for a purpose related to the extension of credit;
+
+&emsp;&emsp;(B) the range of possible credit scores under the model used;
+
+&emsp;&emsp;(C) all of the key factors that adversely affected the credit score of the consumer in the model used, the total number of which shall not exceed 4, subject to paragraph (9);
+
+&emsp;&emsp;(D) the date on which the credit score was created; and
+
+&emsp;&emsp;(E) the name of the person or entity that provided the credit score or credit file upon which the credit score was created.
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection, the following definitions shall apply:
+
+#### (A) Credit score
+
+&emsp;&emsp;The term “credit score”—
+
+&emsp;&emsp;&emsp;(i) means a numerical value or a categorization derived from a statistical tool or modeling system used by a person who makes or arranges a loan to predict the likelihood of certain credit behaviors, including default (and the numerical value or the categorization derived from such analysis may also be referred to as a “risk predictor” or “risk score”); and
+
+&emsp;&emsp;&emsp;(ii) does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any mortgage score or rating of an automated underwriting system that considers one or more factors in addition to credit information, including the loan to value ratio, the amount of down payment, or the financial assets of a consumer; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any other elements of the underwriting process or underwriting decision.
+
+#### (B) Key factors
+
+&emsp;&emsp;The term “key factors” means all relevant elements or reasons adversely affecting the credit score for the particular individual, listed in the order of their importance based on their effect on the credit score.
+
+#### (3) Timeframe and manner of disclosure
+
+&emsp;The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a) of this section.
+
+#### (4) Applicability to certain uses
+
+&emsp;This subsection shall not be construed so as to compel a consumer reporting agency to develop or disclose a score if the agency does not—
+
+&emsp;&emsp;(A) distribute scores that are used in connection with residential real property loans; or
+
+&emsp;&emsp;(B) develop scores that assist credit providers in understanding the general credit behavior of a consumer and predicting the future credit behavior of the consumer.
+
+#### (5) Applicability to credit scores developed by another person
+
+#### (A) In general
+
+&emsp;&emsp;This subsection shall not be construed to require a consumer reporting agency that distributes credit scores developed by another person or entity to provide a further explanation of them, or to process a dispute arising pursuant to section 1681i of this title, except that the consumer reporting agency shall provide the consumer with the name and address and website for contacting the person or entity who developed the score or developed the methodology of the score.
+
+#### (B) Exception
+
+&emsp;&emsp;This paragraph shall not apply to a consumer reporting agency that develops or modifies scores that are developed by another person or entity.
+
+#### (6) Maintenance of credit scores not required
+
+&emsp;This subsection shall not be construed to require a consumer reporting agency to maintain credit scores in its files.
+
+#### (7) Compliance in certain cases
+
+&emsp;In complying with this subsection, a consumer reporting agency shall—
+
+&emsp;&emsp;(A) supply the consumer with a credit score that is derived from a credit scoring model that is widely distributed to users by that consumer reporting agency in connection with residential real property loans or with a credit score that assists the consumer in understanding the credit scoring assessment of the credit behavior of the consumer and predictions about the future credit behavior of the consumer; and
+
+&emsp;&emsp;(B) a statement indicating that the information and credit scoring model may be different than that used by the lender.
+
+#### (8) Fair and reasonable fee
+
+&emsp;A consumer reporting agency may charge a fair and reasonable fee, as determined by the Commission, for providing the information required under this subsection.
+
+#### (9) Use of enquiries as a key factor
+
+&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
+
+#### (g) Disclosure of credit scores by certain mortgage lenders
+
+#### (1) In general
+
+&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f) of this section, in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the “lender”) shall provide the following to the consumer as soon as reasonably practicable:
+
+#### (A) Information required under subsection (f)
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A copy of the information identified in subsection (f) of this section that was obtained from a consumer reporting agency or was developed and used by the user of the information.
+
+#### (ii) Notice under subparagraph (D)
+
+&emsp;&emsp;&emsp;In addition to the information provided to it by a third party that provided the credit score or scores, a lender is only required to provide the notice contained in subparagraph (D).
+
+#### (B) Disclosures in case of automated underwriting system
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If a person that is subject to this subsection uses an automated underwriting system to underwrite a loan, that person may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
+
+#### (ii) Numerical credit score
+
+&emsp;&emsp;&emsp;However, if a numerical credit score is generated by an automated underwriting system used by an enterprise, and that score is disclosed to the person, the score shall be disclosed to the consumer consistent with subparagraph (C).
+
+#### (iii) Enterprise defined
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “enterprise” has the same meaning as in paragraph (6) of section 4502 of title 12.
+
+#### (C) Disclosures of credit scores not obtained from a consumer reporting agency
+
+&emsp;&emsp;A person that is subject to the provisions of this subsection and that uses a credit score, other than a credit score provided by a consumer reporting agency, may satisfy the obligation to provide a credit score by disclosing a credit score and associated key factors supplied by a consumer reporting agency.
+
+#### (D) Notice to home loan applicants
+
+&emsp;&emsp;A copy of the following notice, which shall include the name, address, and telephonenumber of each consumer reporting agency providing a credit score that was used:
+
+“notice to the home loan applicant
+
+“In connection with your application for a home loan, the lender must disclose to you the score that a consumer reporting agency distributed to users and the lender used in connection with your home loan, and the key factors affecting your credit scores.
+
+“The credit score is a computer generated summary calculated at the time of the request and based on information that a consumer reporting agency or lender has on file. The scores are based on data about your credit history and payment patterns. Credit scores are important because they are used to assist the lender in determining whether you will obtain a loan. They may also be used to determine what interest rate you may be offered on the mortgage. Credit scores can change over time, depending on your conduct, how your credit history and payment patterns change, and how credit scoring technologies change.
+
+“Because the score is based on information in your credit history, it is very important that you review the credit-related information that is being furnished to make sure it is accurate. Credit records may vary from one company to another.
+
+“If you have questions about your credit score or the credit information that is furnished to you, contact the consumer reporting agency at the address and telephone number provided with this notice, or contact the lender, if the lender developed or generated the credit score. The consumer reporting agency plays no part in the decision to take any action on the loan application and is unable to provide you with specific reasons for the decision on a loan application.
+
+“If you have questions concerning the terms of the loan, contact the lender.”.
+
+#### (E) Actions not required under this subsection
+
+&emsp;&emsp;This subsection shall not require any person to—
+
+&emsp;&emsp;&emsp;(i) explain the information provided pursuant to subsection (f) of this section;
+
+&emsp;&emsp;&emsp;(ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
+
+&emsp;&emsp;&emsp;(iii) disclose any credit score or related information obtained by the user after a loan has closed;
+
+&emsp;&emsp;&emsp;(iv) provide more than 1 disclosure per loan transaction; or
+
+&emsp;&emsp;&emsp;(v) provide the disclosure required by this subsection when another person has made the disclosure to the consumer for that loan transaction.
+
+#### (F) No obligation for content
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The obligation of any person pursuant to this subsection shall be limited solely to providing a copy of the information that was received from the consumer reporting agency.
+
+#### (ii) Limit on liability
+
+&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
+
+#### (G) Person defined as excluding enterprise
+
+&emsp;&emsp;As used in this subsection, the term “person” does not include an enterprise (as defined in paragraph (6) of section 4502 of title 12).
+
+#### (2) Prohibition on disclosure clauses null and void
+
+#### (A) In general
+
+&emsp;&emsp;Any provision in a contract that prohibits the disclosure of a credit score by a person who makes or arranges loans or a consumer reporting agency is void.
+
+#### (B) No liability for disclosure under this subsection
+
+&emsp;&emsp;A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
+
+(Pub. L. 90–321, title VI, §609, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131; amended Pub. L. 103–325, title III, §339, Sept. 23, 1994, 108 Stat. 2237; Pub. L. 104–208, div. A, title II, §2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, 110 Stat. 3009–436, 3009–437, 3009–439; Pub. L. 105–347, §4(a), Nov. 2, 1998, 112 Stat. 3210; Pub. L. 108–159, title I, §§115, 151(a)(1), title II, §§211(c), 212(a)–(c), title VIII, §811(d), Dec. 4, 2003, 117 Stat. 1961, 1970, 1973–1975, 2011.)
 
 #### References in Text
 
+Section 1681b(b)(4) of this title, referred to in subsec. (a)(3)(C)(i), was subsequently amended, and section 1681b(b)(4)(E) no longer defines the term “classified information”. However, such term is defined elsewhere in that section.
+
 For the effective date of this subchapter, referred to in subsec. (b), see section 504(d) of Pub. L. 90–321, set out as an Effective Date note under section 1681 of this title.
 
+Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (c)(1)(B)(v), probably means section 211(d) of Pub. L. 108–159, which is set out as a note under section 1681j of this title and relates to the promulgation of regulations. Section 211(c) of Pub. L. 108–159 amended this section.
+
+Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–159, §115, substituted “except that—
+
+&emsp;“(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
+
+&emsp;“(B) nothing”
+
+> for “except that nothing”.
+
+Subsec. (a)(2), (3)(C). Pub. L. 108–159, §811(d), realigned margins.
+
+Subsec. (a)(6). Pub. L. 108–159, §212(a), added par. (6).
+
+Subsec. (c). Pub. L. 108–159, §211(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included with disclosure to consumers by consumer reporting agencies.
+
+Subsecs. (d), (e). Pub. L. 108–159, §151(a)(1), added subsecs. (d) and (e).
+
+Subsec. (f). Pub. L. 108–159, §212(b), added subsec. (f).
+
+Subsec. (g). Pub. L. 108–159, §212(c), added subsec. (g).
 
 1998—Subsec. (a)(3)(C). Pub. L. 105–347 added subpar. (C).
 
@@ -91,6 +421,10 @@ Subsec. (a)(5). Pub. L. 104–208, §2408(c), added par. (5).
 Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
 1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -114,5 +448,9 @@ Goals.—The Federal Trade Commission shall take appropriate action to assure th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681b, 1681d, 1681h, 1681j, 1681t of this title.
+This section is referred to in sections 1681b, 1681c, 1681c–1, 1681d, 1681h, 1681j, 1681t of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “an” probably should not appear.</i>
 

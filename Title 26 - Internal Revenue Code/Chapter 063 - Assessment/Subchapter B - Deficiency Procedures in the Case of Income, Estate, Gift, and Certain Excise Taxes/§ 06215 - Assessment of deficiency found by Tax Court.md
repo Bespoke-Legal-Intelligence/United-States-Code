@@ -20,7 +20,7 @@ If the taxpayer files a petition with the Tax Court, the entire amount redetermi
 
 &emsp;&emsp;<b>(7) For extension of time for paying amount determined as deficiency, see section 6161(b).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 773; Pub. L. 94–455, title XIX, §1906(a)(16), (b)(13)(A), Oct. 4,1976, 90 Stat. 1825, 1834; Pub. L. 99–514, title XIV, §1404(c)(2), Oct. 22, 1986, 100 Stat. 2714.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 773; Pub. L. 94–455, title XIX, §1906(a)(16), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 99–514, title XIV, §1404(c)(2), Oct. 22, 1986, 100 Stat. 2714.)
 
 #### Amendments
 

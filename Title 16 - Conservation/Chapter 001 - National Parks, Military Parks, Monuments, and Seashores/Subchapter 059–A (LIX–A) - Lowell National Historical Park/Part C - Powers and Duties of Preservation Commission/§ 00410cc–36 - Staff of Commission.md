@@ -2,7 +2,7 @@
 
 #### (a) Appointment and compensation of Director
 
-The Commission shall have a Director who shall be appointed by the Commission and whoshall be paid at a rate not to exceed the rate of pay payable for grade GS–15 of the General Schedule.
+The Commission shall have a Director who shall be appointed by the Commission and who shall be paid at a rate not to exceed the rate of pay payable for grade GS–15 of the General Schedule.
 
 #### (b) Appointment and compensation of additional personnel
 

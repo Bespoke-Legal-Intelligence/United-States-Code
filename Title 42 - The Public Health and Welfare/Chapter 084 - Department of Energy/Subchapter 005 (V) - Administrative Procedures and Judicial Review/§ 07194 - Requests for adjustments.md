@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Federal Energy Administration Act, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended, which is classified generally to chapter 16B (§761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
+The Federal Energy Administration Act, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended, which is classified generally to chapter 16B (§761 et seq.) of Title 15, Commerce and Trade. Forcomplete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
 
 The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 

@@ -90,7 +90,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (i) Matching
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge Administration Act of 1966\(16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
 
 #### (ii) Use of Federal funds
 

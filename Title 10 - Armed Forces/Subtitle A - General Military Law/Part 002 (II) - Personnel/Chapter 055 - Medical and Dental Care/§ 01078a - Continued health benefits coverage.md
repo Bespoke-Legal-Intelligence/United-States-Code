@@ -8,7 +8,7 @@ Provision of Continued Health Coverage.—The Secretary of Defense shall impleme
 
 Eligible Persons.—The persons referred to in subsection (a) are the following:
 
-&emsp;(1) A member of the armed forces who—
+&emsp;(1) A member of the uniformed services who—
 
 &emsp;&emsp;(A) is discharged or released from active duty (or full-time National Guard duty), whether voluntarily or involuntarily, under other than adverse conditions, as characterized by the Secretary concerned;
 
@@ -18,7 +18,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;(2) A person who—
 
-&emsp;&emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child of a member or former member of the armed forces under section 1072(2)(D) of this title or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title;
+&emsp;&emsp;(A) ceases to meet the requirements for being considered an unmarried dependent child of a member or former member of the uniformed services under section 1072(2)(D) of this title or ceases to meet the requirements for being considered an unmarried dependent under section 1072(2)(I) of this title;
 
 &emsp;&emsp;(B) on the day before ceasing to meet those requirements, was covered under a health benefits plan under this chapter or transitional health care under section 1145(a) of this title as a dependent of the member or former member; and
 
@@ -26,7 +26,7 @@ Eligible Persons.—The persons referred to in subsection (a) are the following:
 
 &emsp;(3) A person who—
 
-&emsp;&emsp;(A) is an unremarried former spouse of a member or former member of the armed forces; and
+&emsp;&emsp;(A) is an unremarried former spouse of a member or former member of the uniformed services; and
 
 &emsp;&emsp;(B) on the day before the date of the final decree of divorce, dissolution, or annulment was covered under a health benefits plan under this chapter or transitional health care under section 1145(a) of this title as a dependent of the member or former member; and
 
@@ -116,9 +116,11 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;(II) for whom a court order (as defined in section 1408(a)(2) of this title) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(13) of this title) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996,110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530.)
 
 #### Amendments
+
+2003—Subsec. (b)(1), (2)(A), (3)(A). Pub. L. 108–136 substituted “uniformed services” for “armed forces”.
 
 1997—Subsec. (g)(4)(B)(iii)(II). Pub. L. 105–85 substituted “section 1447(13)” for “section 1447(8)”.
 
@@ -128,7 +130,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 Subsec. (c)(3). Pub. L. 103–337, §702(c)(2), substituted “dependent” for “child” in two places and “dependent's” for “child's” wherever appearing.
 
-Subsec. (d)(2)(A). Pub. L. 103–337, §702(c)(3), substituted “a dependent” for “a child” in introductory provisions, “the dependent” for “the child” in cls. (i) and (ii), and “a dependent under subparagraph (D) or (I) of section 1072(2) of this title;” for “an unmarried dependent child under section 1072(2)(D) of this title,” in cl. (i).
+Subsec. (d)(2)(A). Pub. L. 103–337, §702(c)(3), substituted “a dependent” for “a child” in introductoryprovisions, “the dependent” for “the child” in cls. (i) and (ii), and “a dependent under subparagraph (D) or (I) of section 1072(2) of this title;” for “an unmarried dependent child under section 1072(2)(D) of this title,” in cl. (i).
 
 Subsec. (d)(2)(B). Pub. L. 103–337, §702(c)(4), substituted “dependent's” for “child's” and “dependent” for “child”.
 
@@ -139,4 +141,8 @@ Subsec. (g)(2). Pub. L. 103–337, §702(c)(6), substituted “dependent” for 
 1993—Subsec. (b)(3)(C). Pub. L. 103–35, §201(g)(1)(A), substituted “subparagraph” for “subparagraphs” after “member under”.
 
 Subsec. (d)(2)(A). Pub. L. 103–35, §201(g)(1)(B), inserted “under” after “coverage”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title VII, §713(b), Nov. 24, 2003, 117 Stat. 1531, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to members of the uniformed services who are not otherwise covered by section 1078a of title 10, United States Code, before the date of the enactment of this Act \[Nov. 24, 2003\] and who, on or after such date, first meet the eligibility criteria specified in subsection (b) of that section.”
 

@@ -8,7 +8,7 @@ Another prior subchapter VII, related to education, research, training, and demo
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 242b, 242<i>l</i> of this title.
+This subchapter is referred to in sections 242b, 242<i>l</i>, 299b–7 of this title.
 
 
 ---

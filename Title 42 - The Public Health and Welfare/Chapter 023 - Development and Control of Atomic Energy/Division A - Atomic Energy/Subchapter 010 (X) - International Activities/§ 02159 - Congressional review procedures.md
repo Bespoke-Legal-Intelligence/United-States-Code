@@ -2,7 +2,7 @@
 
 #### (a) Committee consideration of Presidential submissions; reports
 
-Not later than forty-five days of continuous session of Congress after the date of transmittal to the Congress of any submission of the President required by section 2155(a)(2), 2155(b)(2), 2157(b), 2158, 2160(a)(3), or 2160(f)(1)(A) of this title, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives shall each submit a report to its respective House on its views and recommendations respecting such Presidentialsubmission together with a resolution, as defined in subsection (f) of this section, stating in substance that the Congress approves or disapproves such submission, as the case may be: <i>Provided</i>, That if any such committee has not reported such a resolution at the end of such forty-five day period, such committee shall be deemed to be discharged from further consideration of such submission. If no such resolution has been reported at the end of such period, the first resolution, as defined in subsection (f) of this section, which is introduced within five days thereafter within such House shall be placed on the appropriate calendar of such House.
+Not later than forty-five days of continuous session of Congress after the date of transmittal to the Congress of any submission of the President required by section 2155(a)(2), 2155(b)(2), 2157(b), 2158, 2160(a)(3), or 2160(f)(1)(A) of this title, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives shall each submit a report to its respective House on its views and recommendations respecting such Presidential submission together with a resolution, as defined in subsection (f) of this section, stating in substance that the Congress approves or disapproves such submission, as the case may be: <i>Provided</i>, That if any such committee has not reported such a resolution at the end of such forty-five day period, such committee shall be deemed to be discharged from further consideration of such submission. If no such resolution has been reported at the end of such period, the first resolution, as defined in subsection (f) of this section, which is introduced within five days thereafter within such House shall be placed on the appropriate calendar of such House.
 
 #### (b) Consideration of resolution by respective Houses of Congress
 
@@ -44,7 +44,7 @@ This section is enacted by Congress—
 
 &emsp;(1) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by subsection (f) of this section; and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(2) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+&emsp;(2) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
 #### (i) Joint resolutions
 

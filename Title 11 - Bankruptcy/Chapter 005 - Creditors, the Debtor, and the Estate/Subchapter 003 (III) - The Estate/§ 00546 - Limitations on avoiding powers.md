@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) 2 years after the entry of the order for relief; or
 
-&emsp;&emsp;(B) 1 year after the appointment or election of the first trustee under section 702, 1104, 1163, 1202, or 1302 of this title if such appointment or such election occurs before theexpiration of the period specified in subparagraph (A); or
+&emsp;&emsp;(B) 1 year after the appointment or election of the first trustee under section 702, 1104, 1163, 1202, or 1302 of this title if such appointment or such election occurs before the expiration of the period specified in subparagraph (A); or
 
 &emsp;(2) the time the case is closed or dismissed.
 
@@ -50,7 +50,7 @@
 
 (g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer under a swap agreement, made by or to a swap participant, in connection with a swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(g) <sup>1</sup> Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
+(g) <sup>1</sup> Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor, may return goods shipped to the debtor by the creditor before the commencement of thecase, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518.)
 
@@ -58,7 +58,7 @@
 
 I74legislative statements
 
-Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt ofgoods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
+Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
 
 #### senate report no. 95–989
 

@@ -24,7 +24,7 @@
 
 #### (b) Insufficient funds
 
-If the funds appropriated under this subchapter for a fiscal year are insufficient to fund the activities described in the acceptable applications submitted under this subchapter for such year, a State whose application was approved for such year but that did not receive a grant under this subchapter may update the application for the succeeding fiscal year. Priority shall be given in such succeeding fiscal year to such updated applications, if acceptable.
+If the funds appropriated under this subchapter for a fiscal year are insufficient to fundthe activities described in the acceptable applications submitted under this subchapter for such year, a State whose application was approved for such year but that did not receive a grant under this subchapter may update the application for the succeeding fiscal year. Priority shall be given in such succeeding fiscal year to such updated applications, if acceptable.
 
 #### (c) Definitions
 

@@ -1,6 +1,6 @@
 ### §3714. Assumptions; release from liability
 
-(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies theholder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
+(a)(1) Except as provided in subsection (f) of this section, if a veteran or any other person disposes of residential property securing a loan guaranteed, insured, or made under this chapter and the veteran or other person notifies the holder of the loan in writing before the property is disposed of, the veteran or other person, as the case may be, shall be relieved of all further liability to the Secretary with respect to the loan (including liability for any loss resulting from any default of the purchaser or any subsequent owner of the property) and the application for assumption shall be approved if the holder determines that—
 
 &emsp;(A) the loan is current; and
 
@@ -38,7 +38,7 @@
 
 > the holder may demand immediate, full payment of the principal, and all interest earned thereon, of such loan if the transferor disposes of the property.
 
-(b) If a person disposes of residential property described in subsection (a)(1) of this section and the person fails to notify the holder of the loan before the property is disposed of, the holder, upon learning of such action by the person, may demand immediate and full payment of the principal, interest, and all other amounts owing under the terms of the loan.
+(b) If a person disposes of residential property described in subsection (a)(1) of this section andthe person fails to notify the holder of the loan before the property is disposed of, the holder, upon learning of such action by the person, may demand immediate and full payment of the principal, interest, and all other amounts owing under the terms of the loan.
 
 (c)(1) In any case in which the holder of a loan described in subsection (a)(1) of this section has knowledge of a person's disposing of residential property securing the loan, the holder shall notify the Secretary of such action.
 
@@ -50,7 +50,7 @@
 
 (f)(1) This section shall apply—
 
-&emsp;(A) in the case of loans other than loans to finance the purchase of real property describedin section 3733(a)(1) of this title, only to loans for which commitments are made on or after March 1, 1988; and
+&emsp;(A) in the case of loans other than loans to finance the purchase of real property described in section 3733(a)(1) of this title, only to loans for which commitments are made on or after March 1, 1988; and
 
 &emsp;(B) in the case of loans to finance the purchase of such property, only to loans which are closed after January 1, 1989.
 

@@ -20,7 +20,7 @@ This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classifie
 
 #### Amendments
 
-1974—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation of transportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
+1974—Subsec. (b). Pub. L. 93–254 struck out statement of the purpose of this Act as being the regulation oftransportation of material from the United States for dumping into ocean waters, and the dumping of material, transported from outside the United States, if the dumping occurs in ocean waters over which the United States has jurisdiction or over which it may exercise control, under accepted principles of international law, in order to protect its territory or territorial sea, now covered by subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 93–254 added subsec. (c).
 
@@ -30,7 +30,7 @@ Section 2 of Pub. L. 93–254 provided in part that amendment of subsecs. (b) an
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title \[enacting sections 1414band 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under section 2267 of this title\] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
+Pub. L. 100–688, title I, §1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title \[enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under section 2267 of this title\] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
 
 #### Short Title
 

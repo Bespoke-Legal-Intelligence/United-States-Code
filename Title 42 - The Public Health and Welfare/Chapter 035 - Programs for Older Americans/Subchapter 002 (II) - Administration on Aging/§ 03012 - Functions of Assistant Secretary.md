@@ -26,7 +26,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(11) coordinate, and assist in, the planning and development by public (including Federal, State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
-&emsp;(12) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attention to the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
+&emsp;(12) carry on a continuing evaluation of the programs and activities related to the objectives of this chapter, with particular attentionto the impact of medicare and medicaid, the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], and the programs of the National Housing Act \[12 U.S.C. 1701 et seq.\] relating to housing for older individuals and the setting of standards for the licensing of nursing homes, intermediate care homes, and other facilities providing care for such individuals;
 
 &emsp;(13) provide information and assistance to private organizations for the establishment and operation by them of programs and activities related to the objectives of this chapter;
 
@@ -152,7 +152,7 @@ In executing the duties and functions of the Administration under this chapter a
 
 &emsp;(ii) not later than 60 days before the date on which the Assistant Secretary establishes such priorities, publish in the Federal Register for public comment a statement of such proposed priorities.
 
-(4) The Assistant Secretary shall make available to the Center such resources as are necessary for the Center to carry out effectively the functions of the Center under this chapter and not less than the amount of resources made available to the Resource Center on Elder Abuse for fiscal year 2000.
+(4) The Assistant Secretary shall make available to the Center such resources as are necessary for the Center to carry out effectively the functions of the Center under this chapter and not less than the amount of resources madeavailable to the Resource Center on Elder Abuse for fiscal year 2000.
 
 #### (e) National Aging Information Center
 
@@ -222,7 +222,7 @@ In executing the duties and functions of the Administration under this chapter a
 
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
-The National Housing Act, referred to in subsec. (a)(12), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a)(12), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13\(§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(17)(A), (20), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 

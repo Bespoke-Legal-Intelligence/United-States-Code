@@ -38,7 +38,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 #### (B) Public participation
 
-&emsp;&emsp;In preparing the revised plan, the Secretary shall encourage the participation of the State of Georgia and affected political subdivisions of the State, private landowners, interested citizens, public officials, groups, agencies, educational institutions, and other entities.
+&emsp;&emsp;In preparing the revised plan, the Secretary shall encourage the participation ofthe State of Georgia and affected political subdivisions of the State, private landowners, interested citizens, public officials, groups, agencies, educational institutions, and other entities.
 
 #### (d) Federal actions affecting corridor area; procedural requirements: notification of Secretary, Secretary's recommendations or notification of Congressional committees, copies of decisions and recommendations to Congressional committees; concurrence condition; exemptions
 

@@ -200,7 +200,7 @@ Contract authority.—Funds authorized by this subsection shall be available for
 
 Section 1032(d) of Pub. L. 102–240 provided that: “Notwithstanding any other provision of law, funds allocated for Indian reservation roads may be used for the purpose of funding road projects on roads of tribally controlled postsecondary vocational institutions.”
 
-Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads and to report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
+Pub. L. 102–240, title I, §1042, Dec. 18, 1991, 105 Stat. 1993, directed Secretary of Transportation to conduct a study on funding needs for Indian reservation roads andto report to Congress on results of the study not later than one year after Dec. 18, 1991, prior to repeal by Pub. L. 105–362, title XV, §1501(c), Nov. 10, 1998, 112 Stat. 3294.
 
 #### Study and Report on Method of Allocating Funds
 

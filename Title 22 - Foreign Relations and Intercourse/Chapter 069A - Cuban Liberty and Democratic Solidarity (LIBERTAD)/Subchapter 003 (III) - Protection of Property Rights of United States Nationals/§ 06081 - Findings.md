@@ -16,7 +16,7 @@ The Congress makes the following findings:
 
 &emsp;&emsp;&emsp;(ii) thousands of United States nationals; and
 
-&emsp;&emsp;&emsp;(iii) thousands more Cubans who claimed asylum in the United States as refugeesbecause of persecution and later became naturalized citizens of the United States.
+&emsp;&emsp;&emsp;(iii) thousands more Cubans who claimed asylum in the United States as refugees because of persecution and later became naturalized citizens of the United States.
 
 &emsp;(4) It is in the interest of the Cuban people that the Cuban Government respect equally the property rights of Cuban nationals and nationals of other countries.
 

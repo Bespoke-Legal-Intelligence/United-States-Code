@@ -14,7 +14,7 @@ The Secretaries shall assess the future use of NARL in—
 
 &emsp;(3) developing advanced design technologies, operational practices, and transportation systems to improve the environmental safety and efficiency of oil and gas exploration and production in the Arctic, including offshore activities;
 
-&emsp;(4) enlarging the body of knowledge on Arctic ice conditions and developing practical andefficient means of dealing with potential oil spills and other hazards associated with resource development in Alaska's Arctic; and
+&emsp;(4) enlarging the body of knowledge on Arctic ice conditions and developing practical and efficient means of dealing with potential oil spills and other hazards associated with resource development in Alaska's Arctic; and
 
 &emsp;(5) developing a comprehensive Arctic policy for the Federal Government that will accommodate the need for development and use of Arctic resources with appropriate recognition and consideration given to the unique nature of the Arctic environment and the needs of its Native residents.
 

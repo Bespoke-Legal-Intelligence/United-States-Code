@@ -62,7 +62,7 @@ The area described in this subsection is the portion of the Hudson River, New Yo
 
 #### (c) Determination of public interest
 
-The declaration made in subsection (a) of this section shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
+The declaration made in subsection (a) of this section shall not take effect if the Secretary ofthe Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
 
 &emsp;(1) before the date which is 120 days after the date of the submission to the Secretary of appropriate plans for the proposed project; and
 

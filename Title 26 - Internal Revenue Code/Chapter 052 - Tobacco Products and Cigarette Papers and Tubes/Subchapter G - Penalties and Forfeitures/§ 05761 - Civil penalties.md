@@ -12,7 +12,7 @@ Whoever fails to pay any tax imposed by this chapter at the time prescribed by l
 
 Except as provided in subsections (b) and (d) of section 5704—
 
-&emsp;(1) every person who sells, relands, or receives within the jurisdiction of the United States any tobacco products or cigarette papers or tubes which have been labeled or shipped for exportation under this chapter,
+&emsp;(1) every person who sells, relands, or receives within the jurisdiction of the UnitedStates any tobacco products or cigarette papers or tubes which have been labeled or shipped for exportation under this chapter,
 
 &emsp;(2) every person who sells or receives such relanded tobacco products or cigarette papers or tubes, and
 
@@ -68,7 +68,7 @@ Subsec. (d). Pub. L. 97–34, §§722(a)(3), 724(b)(5), added subsec. (d). Forme
 
 Subsec. (b). Pub. L. 85–859 substituted provisions relating to failure to pay tax for provisions which made persons willfully failing to pay a tax liable, in addition to any other penalty provided in this title, to a penalty of the amount of the tax evaded, or not paid.
 
-Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisions which authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the time prescribed, and required the penalties to be added to the tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
+Subsec. (c). Pub. L. 85–859 substituted provisions relating to failure to make deposit of taxes for provisions which authorized a penalty of 5 percent of the tax due but unpaid where a person failed to pay tax at the time prescribed, and required the penalties to be added tothe tax and assessed and collected at the same time, in the same manner, and as a part of the tax.
 
 Subsec. (d). Pub. L. 85–859 added subsec. (d). Similar provisions were formerly contained in subsec. (c) of this section.
 

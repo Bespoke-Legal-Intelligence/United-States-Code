@@ -22,9 +22,9 @@
 
 &emsp;&emsp;A State shall use funds reserved as described in section 2863(a)(2) of this title to carry out statewide rapid response activities, which shall include—
 
-&emsp;&emsp;&emsp;(i) provision of rapid response activities, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas; and
+&emsp;&emsp;&emsp;(i) provision of rapid response activities, carried out in local areas by the State orby an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas; and
 
-&emsp;&emsp;&emsp;(ii) provision of additional assistance to local areas that experience disasters, mass layoffs or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas by the State orby an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas.
+&emsp;&emsp;&emsp;(ii) provision of additional assistance to local areas that experience disasters, mass layoffs or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas.
 
 #### (B) Other required statewide employment and training activities
 
@@ -168,7 +168,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iii) information relating to local occupations in demand and the earnings and skill requirements for such occupations; and
 
-&emsp;&emsp;(F) provision of performance information and program cost information on eligibleproviders of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
+&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
 
 &emsp;&emsp;(G) provision of information regarding how the local area is performing on the local performance measures and any additional performance information with respect to the one-stop delivery system in the local area;
 
@@ -232,7 +232,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(i) who have met the eligibility requirements for intensive services under paragraph (3)(A) and who are unable to obtain or retain employment through such services;
 
-&emsp;&emsp;&emsp;(ii) who after an interview, evaluation, or assessment, and case management, have been determined by a one-stop operator or one-stop partner, as appropriate, to be in need of training services and to have the skills and qualifications to successfully participate in the selected program of training services;
+&emsp;&emsp;&emsp;(ii) who after an interview, evaluation, or assessment, and case management, have been determined by a one-stop operator or one-stop partner, as appropriate, to be in need of training services and to have theskills and qualifications to successfully participate in the selected program of training services;
 
 &emsp;&emsp;&emsp;(iii) who select programs of training services that are directly linked to the employment opportunities in the local area involved or in another area in which the adults or dislocated workers receiving such services are willing to relocate;
 
@@ -314,9 +314,9 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(I) such services are on-the-job training provided by an employer or customized training;
 
-&emsp;&emsp;&emsp;&emsp;(II) the local board determines there are an insufficient number of eligible providers of training services in the local area involved (such as in a rural area) to accomplish the purposes of a system of individual training accounts; or
+&emsp;&emsp;&emsp;&emsp;(II) the local board determines there are an insufficient number of eligibleproviders of training services in the local area involved (such as in a rural area) to accomplish the purposes of a system of individual training accounts; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization toserve special participant populations that face multiple barriers to employment.
+&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization to serve special participant populations that face multiple barriers to employment.
 
 #### (iii) Linkage to occupations in demand
 
@@ -384,7 +384,7 @@ The Social Security Act, referred to in subsec. (a)(3)(A)(vi)(I), is act Aug. 14
 
 The Wagner-Peyser Act, referred to in subsecs. (c)(1)(E) and (d)(1)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-Title II, referred to in subsec. (d)(2)(F), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
+Title II, referred to in subsec. (d)(2)(F), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family LiteracyAct, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (d)(2)(F), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of Title 20, Education, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 

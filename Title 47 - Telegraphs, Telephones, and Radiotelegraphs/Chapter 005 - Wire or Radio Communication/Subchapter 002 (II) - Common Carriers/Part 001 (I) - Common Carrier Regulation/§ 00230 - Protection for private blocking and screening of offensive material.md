@@ -38,13 +38,13 @@ It is the policy of the United States—
 
 &emsp;No provider or user of an interactive computer service shall be held liable on account of—
 
-&emsp;&emsp;(A) any action voluntarily taken in good faith to restrict access to or availability of material that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
+&emsp;&emsp;(A) any action voluntarily taken in good faith to restrict access to or availability ofmaterial that the provider or user considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable, whether or not such material is constitutionally protected; or
 
 &emsp;&emsp;(B) any action taken to enable or make available to information content providers or others the technical means to restrict access to material described in paragraph (1).<sup>1</sup>
 
 #### (d) Obligations of interactive computer service
 
-A provider of interactive computer service shall, at the time of entering an agreement witha customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.
+A provider of interactive computer service shall, at the time of entering an agreement with a customer for the provision of interactive computer service and in a manner deemed appropriate by the provider, notify such customer that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist the customer in limiting access to material that is harmful to minors. Such notice shall identify, or provide the customer with access to information identifying, current providers of such protections.
 
 #### (e) Effect on other laws
 

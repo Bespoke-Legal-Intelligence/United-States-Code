@@ -82,13 +82,13 @@
 
 #### (C) Coordination with recapture
 
-&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
+&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) aremet with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
 
 #### (5) Special rules for surviving spouses
 
 #### (A) In general
 
-&emsp;&emsp;If property is qualified real property with respect to a decedent (hereinafter in this paragraph referred to as the “first decedent“) and such property was acquired from or passed from the first decedent to the surviving spouse of the first decedent, for purposes of applying this subsection and subsection (c) in the case of the estate of such surviving spouse, active management of the farm or other business by the surviving spouse shall be treated as material participation by such surviving spouse in the operation of such farm or business.
+&emsp;&emsp;If property is qualified real property with respect to a decedent (hereinafter in this paragraph referred to as the “first decedent”) and such property was acquired from or passed from the first decedent to the surviving spouse of the first decedent, for purposes of applying this subsection and subsection (c) in the case of the estate of such surviving spouse, active management of the farm or other business by the surviving spouse shall be treated as material participation by such surviving spouse in the operation of such farm or business.
 
 #### (B) Special rule
 
@@ -230,7 +230,7 @@
 
 #### (2) Agreement
 
-&emsp;The agreement referred to in this paragraph is a written agreement signed by each person in being who has an interest (whether or not in possession) in any property designated in such agreement consenting to the application of subsection (c) with respect to such property.
+&emsp;The agreement referred to in this paragraph is a written agreement signed by each person in being who has an interest (whether or notin possession) in any property designated in such agreement consenting to the application of subsection (c) with respect to such property.
 
 #### (3) Modification of election and agreement to be permitted
 
@@ -410,7 +410,7 @@ For purposes of this section—
 
 #### (ii) Replaced property
 
-&emsp;&emsp;&emsp;The term “replaced property means—
+&emsp;&emsp;&emsp;The term “replaced property” means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the property transferred in the exchange which qualifies under section 1031, or
 
@@ -420,7 +420,7 @@ For purposes of this section—
 
 If qualified real property is disposed of or ceases to be used for a qualified use, then—
 
-&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 yearsfrom the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
+&emsp;(1) the statutory period for the assessment of any additional tax under subsection (c) attributable to such disposition or cessation shall not expire before the expiration of 3 years from the date the Secretary is notified (in such manner as the Secretary may by regulations prescribe) of such disposition or cessation (or if later in the case of an involuntary conversion or exchange to which subsection (h) or (i) applies, 3 years from the date the Secretary is notified of the replacement of the converted property or of an intention not to replace or of the exchange of property), and
 
 &emsp;(2) such additional tax may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
@@ -518,9 +518,9 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 (Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045.)
 
-#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2003
+#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2004
 
-<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2003, see section 3.23 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2004, see section 3.25 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -582,7 +582,7 @@ Pub. L. 97–34, §421(c)(1)(B)(i), redesignated par. (7) as (6). Former par. (6
 
 Subsec. (c)(7). Pub. L. 97–34, §421(c)(1)(B)(i), (2)(A), added par. (7). Former par. (7) redesignated (6).
 
-Subsec. (d)(1). Pub. L. 97–34, §421(j)(3), substituted “The election under this section shall be made on thereturn of the tax imposed by section 2001. Such election shall be made in such manner as the Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.” for “The election under this section shall be made not later than the time prescribed by section 6075(a) for filing the return of tax imposed by section 2001 (including extensions thereof), and shall be made in such manner as the Secretary shall by regulations prescribe.”
+Subsec. (d)(1). Pub. L. 97–34, §421(j)(3), substituted “The election under this section shall be made on the return of the tax imposed by section 2001. Such election shall be made in such manner as the Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.” for “The election under this section shall be made not later than the time prescribed by section 6075(a) for filing the return of tax imposed by section 2001 (including extensions thereof), and shall be made in such manner as the Secretary shall by regulations prescribe.”
 
 Subsec. (e)(2). Pub. L. 97–34, §421(i), substituted provisions designated subpars. (A) through (D) for “such individual's ancestor or lineal descendant, a lineal descendant of a grandparent of such individual, the spouse of such individual, or the spouse of any such descendant”.
 
@@ -672,7 +672,7 @@ Section 421(k) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §10
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 1016, 1040, and 6324B of this title\] shall apply with respect to the estates of decedents dying after December 31, 1981.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 1016, 1040, and 6324B of this title\] shall apply with respect to the estates of decedents dying after December 31, 1981.
 
 “(2)
 
@@ -760,7 +760,7 @@ Special Rule for Certain Estate.—Notwithstanding subsection (a)(2), the provis
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 
-Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this section, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
+Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to betreated, for purposes of this section, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
 
 #### Section Referred to in Other Sections
 

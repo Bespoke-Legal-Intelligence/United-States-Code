@@ -26,7 +26,7 @@ Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter i
 
 #### (c) Report by Commission
 
-Within 15 months after the date of the establishment of the Commission, it shall prepare, and submit to the Secretary and Congress, a comprehensive report containing conclusions, comments, and recommendations for the development, of a management structure (including effective procedures, mechanisms, and institutional arrangements) for the effective coordination of research, enhancement, management, and enforcement policies for the salmon and steelhead resources of the Columbia River and Washington conservation areas, and for the resolution of disputes between management entities that are concerned with stocks of commoninterest. The principal objectives of, and the standards for, the management structure shall include, but not be limited to—
+Within 15 months after the date of the establishment of the Commission, it shall prepare, and submit to the Secretary and Congress, a comprehensive report containing conclusions, comments, and recommendations for the development, of a management structure (including effective procedures, mechanisms, and institutional arrangements) for the effective coordination of research, enhancement, management, and enforcement policies for the salmon and steelhead resources of the Columbia River and Washington conservation areas, and for the resolution of disputes between management entities that are concerned with stocks of common interest. The principal objectives of, and the standards for, the management structure shall include, but not be limited to—
 
 &emsp;(1) the development of common principles to govern and coordinate effectively management and enhancement activities;
 
@@ -36,7 +36,7 @@ Within 15 months after the date of the establishment of the Commission, it shall
 
 &emsp;(4) the consideration of, and allowance for, variations among, and contingencies in, fisheries and catches;
 
-&emsp;(5) the promotion of harvest strategies and regulations which will encourage continued and increased investment by the salmon and steelhead producing jurisdictions;
+&emsp;(5) the promotion of harvest strategies and regulations which will encourage continuedand increased investment by the salmon and steelhead producing jurisdictions;
 
 &emsp;(6) the optimization of the use of resources for enforcement;
 

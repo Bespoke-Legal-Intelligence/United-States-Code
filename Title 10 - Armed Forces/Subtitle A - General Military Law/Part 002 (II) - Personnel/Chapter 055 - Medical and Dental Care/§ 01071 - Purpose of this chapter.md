@@ -22,7 +22,7 @@ The words “and certain former members” are inserted to reflect the fact that
 
 #### Prior Provisions
 
-A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, §36B(5), Sept.2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -44,7 +44,49 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amendingthis section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+
+#### Access to Health Care Services for Beneficiaries Eligible for TRICARE and Department of Veterans Affairs Health Care
+
+Pub. L. 107–314, div. A, title VII, §708, Dec. 2, 2002, 116 Stat. 2585, provided that:
+
+“(a)
+
+Requirement To Establish Process.—(1) The Secretary of Defense shall prescribe in regulations a process for resolving issues relating to patient safety and continuity of care for covered beneficiaries who are concurrently entitled to health care under the TRICARE program and eligible for health care services provided by the Department of Veterans Affairs. The Secretary shall—
+
+&emsp;“(A) ensure that the process provides for coordination of, and access to, health care from the two sources in a manner that prevents diminution of access to health care from either source; and
+
+&emsp;“(B) in consultation with the Secretary of Veterans Affairs, prescribe a clear definition of an ‘episode of care’ for use in the resolution of patient safety and continuity of care issues under such process.
+
+“(2) Not later than May 1, 2003, the Secretary shall submit to the Committees on Armed Services of the Senate and of the House of Representatives a report describing the process prescribed under paragraph (1).
+
+“(3) While prescribing the process under paragraph (1) and upon completion of the report under paragraph (2), the Secretary shall provide to the Comptroller General information that would be relevant in carrying out the study required by subsection (b).
+
+“(b)
+
+Comptroller General Study and Report.—(1) The Comptroller General shall conduct a study of the health care issues of covered beneficiaries described in subsection (a). The study shall include the following:
+
+&emsp;“(A) An analysis of whether covered beneficiaries who seek services through the Department of Veterans Affairs are receiving needed health care services in a timely manner from the Department of Veterans Affairs, as compared to the timeliness of the care available to covered beneficiaries under TRICARE Prime (as set forth in access to care standards under TRICARE program policy that are applicable to the care being sought).
+
+&emsp;“(B) An evaluation of the quality of care for covered beneficiaries who do not receive needed services from the Department of Veterans Affairs within a time period that is comparable to the time period provided for under such access to care standards and who then must seek alternative care under the TRICARE program.
+
+&emsp;“(C) Recommendations to improve access to, and timeliness and quality of, care for covered beneficiaries described in subsection (a).
+
+&emsp;“(D) An evaluation of the feasibility and advisability of making access to care standards applicable jointly under the TRICARE program and the Department of Veterans Affairs health care system.
+
+&emsp;“(E) A review of the process prescribed by the Secretary of Defense under subsection (a) to determine whether the process ensures the adequacy and quality of the health care services provided to covered beneficiaries under the TRICARE program and through the Department of Veterans Affairs, together with timeliness of access to such services and patient safety.
+
+“(2) Not later than 60 days after the congressional committees specified in subsection (a)(2) receive the report required under that subsection, the Comptroller General shall submit to those committees a report on the study conducted under this subsection.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘covered beneficiary’ has the meaning provided by section 1072(5) of title 10, United States Code.
+
+&emsp;“(2) The term ‘TRICARE program’ has the meaning provided by section 1072(7) of such title.
+
+&emsp;“(3) The term ‘TRICARE Prime’ has the meaning provided by section 1097a(f) of such title.”
 
 #### Pilot Program Providing for Department of Veterans Affairs Support in the Performance of Separation Physical Examinations
 
@@ -60,7 +102,7 @@ Reimbursement.—The Secretary of Defense shall reimburse the Secretary of Veter
 
 “(c)
 
-Agreement.—(1) If the Secretary of Defense and the Secretary of Veterans Affairs carry out the pilot program authorized by this section, the Secretaries shall enter into an agreement specifying the geographic areas in which the pilot program is carried out and the means for making reimbursement payments under subsection (b).
+Agreement.—(1) If the Secretary of Defense and the Secretary of Veterans Affairs carry out the pilotprogram authorized by this section, the Secretaries shall enter into an agreement specifying the geographic areas in which the pilot program is carried out and the means for making reimbursement payments under subsection (b).
 
 “(2) The other administering Secretaries shall also enter into the agreement to the extent that the Secretary of Defense determines necessary to apply the pilot program, including the requirement for reimbursement, to the uniformed services not under the jurisdiction of the Secretary of a military department.
 
@@ -266,7 +308,7 @@ Department of Defense Program for Medical Informatics and Data.—The Secretary 
 
 “(c)
 
-Automation and Capture of Clinical Data.—(1) Through the program established under subsection (b), the Secretary of Defense shall accelerate the efforts of the Department of Defense to automate, capture, andexchange controlled clinical data and present providers with clinical guidance using a personal information carrier, clinical lexicon, or digital patient record.
+Automation and Capture of Clinical Data.—(1) Through the program established under subsection (b), the Secretary of Defense shall accelerate the efforts of the Department of Defense to automate, capture, and exchange controlled clinical data and present providers with clinical guidance using a personal information carrier, clinical lexicon, or digital patient record.
 
 “(2) The program shall serve as a primary resource for the Department of Defense for matters concerning the capture, processing, and dissemination of data on health care quality.
 
@@ -336,7 +378,7 @@ Annual Report.—The Assistant Secretary of Defense for Health Affairs shall sub
 
 #### Joint Department of Defense and Department of Veterans Affairs Reports Relating to Interdepartmental Cooperation in Delivery of Medical Care
 
-Pub. L. 105–261, div. A, title VII, §745, Oct. 17, 1998, 112 Stat. 2075, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
+Pub. L. 105–261, div. A, title VII, §745, Oct. 17, 1998, 112 Stat. 2075, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(g)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(a)
 
@@ -372,7 +414,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 “(c)
 
-Joint Survey of Populations Served.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly conduct a survey of their respective medical care beneficiary populations to identify, by category of beneficiary (defined as the Secretaries consider appropriate), the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care. The two Secretaries shall develop the protocol for the survey jointly, but shall obtain the services of an entity independent of the Department of Defense and the Department of Veterans Affairs to carry out the survey.
+Joint Survey of Populations Served.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly conduct a survey of their respective medical care beneficiary populations to identify, by category of beneficiary (defined as the Secretaries consider appropriate), the expectations of, requirementsfor, and behavior patterns of the beneficiaries with respect to medical care. The two Secretaries shall develop the protocol for the survey jointly, but shall obtain the services of an entity independent of the Department of Defense and the Department of Veterans Affairs to carry out the survey.
 
 “(2) The survey shall include the following:
 
@@ -412,9 +454,7 @@ Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of 
 
 “(e)
 
-Participation in TRICARE.—(1) The Secretary of Defense shall review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program. The ongoing collaboration between Department of Defense officials and Department of Veterans Affairs officials regarding increased participation shall be included among the matters reviewed.
-
-“(2) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate committees of Congress a semiannual report on the status of the review under this subsection and on efforts to increase the participation of the Department of Veterans Affairs in the TRICARE program. No report is required under this paragraph after the submission of a semiannual report in which the Secretaries declare that the Department of Veterans Affairs is participating in the TRICARE program to the extent that can reasonably be expected to be attained.
+Participation in TRICARE.—The Secretary of Defense shall review the TRICARE program to identify opportunities for increased participation by the Department of Veterans Affairs in that program. The ongoing collaboration between Department of Defense officials and Department of Veterans Affairs officials regarding increased participation shall be included among the matters reviewed.
 
 “(f)
 
@@ -428,7 +468,7 @@ Pharmaceutical Benefits and Programs.—(1) The Department of Defense-Department
 
 “(g)
 
-Standardization of Physical Examinations for Disability.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to theappropriate committees of Congress a report on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
+Standardization of Physical Examinations for Disability.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
 
 “(h)
 
@@ -460,7 +500,7 @@ Establishment of External Peer Review Process.—The Secretary of Defense shall 
 
 “(b)
 
-Peer Review Requirements.—Funds of the Department of Defense may not be obligated or expended for any medical research project unless the research protocol for the project has been approved by the external peer review process established under subsection (a).
+Peer Review Requirements.—Funds of the Department of Defense may not be obligated or expendedfor any medical research project unless the research protocol for the project has been approved by the external peer review process established under subsection (a).
 
 “(c)
 

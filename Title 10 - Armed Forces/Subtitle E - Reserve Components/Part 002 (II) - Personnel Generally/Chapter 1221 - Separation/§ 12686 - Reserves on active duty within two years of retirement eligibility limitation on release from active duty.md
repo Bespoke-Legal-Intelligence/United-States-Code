@@ -2,7 +2,7 @@
 
 (a)
 
-Limitation.—Under regulations to be prescribed by the Secretary concerned, which shall be as uniform as practicable, a member of a reserve component who is on active duty (other than for training) and is within two years of becoming eligible for retired pay or retainer pay under a purely military retirement system, may not be involuntarily released from that duty before he becomes eligible for that pay, unless the release is approved by the Secretary.
+Limitation.—Under regulations to be prescribed by the Secretary concerned, which shallbe as uniform as practicable, a member of a reserve component who is on active duty (other than for training) and is within two years of becoming eligible for retired pay or retainer pay under a purely military retirement system, may not be involuntarily released from that duty before he becomes eligible for that pay, unless the release is approved by the Secretary.
 
 (b)
 

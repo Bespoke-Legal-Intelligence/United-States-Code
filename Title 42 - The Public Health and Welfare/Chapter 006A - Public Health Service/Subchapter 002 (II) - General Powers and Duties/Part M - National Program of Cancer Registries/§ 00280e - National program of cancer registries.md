@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will usethe funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
+&emsp;No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
 
 #### (2) Assurances
 
@@ -112,7 +112,7 @@
 
 In the case of a grant under subsection (a) of this section to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
 
-(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992,106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
+(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
 
 #### Amendments
 

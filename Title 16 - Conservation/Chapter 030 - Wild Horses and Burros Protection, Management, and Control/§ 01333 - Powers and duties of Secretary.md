@@ -12,7 +12,7 @@ All wild free-roaming horses and burros are hereby declared to be under the juri
 
 &emsp;(A) The Secretary shall order old, sick, or lame animals to be destroyed in the most humane manner possible;
 
-&emsp;(B) The Secretary shall cause such number of additional excess wild free-roaming horses and burros to be humanely captured and removed for private maintenance and care for which he determines an adoption demand exists by qualified individuals, and for which he determines he can assure humane treatment and care (including proper transportation, feeding, and handling): <i>Provided</i>, That, not more than four animals may be adopted per year by any individual unless the Secretary determines in writing that such individual is capable of humanely caring for more than four animals, including the transportation of such animals by the adopting party; and
+&emsp;(B) The Secretary shall cause such number of additional excess wild free-roaming horses and burros to be humanely captured and removed for private maintenance and care for which he determines an adoption demand exists by qualified individuals, and for which he determines he can assure humane treatment and care (including proper transportation,feeding, and handling): <i>Provided</i>, That, not more than four animals may be adopted per year by any individual unless the Secretary determines in writing that such individual is capable of humanely caring for more than four animals, including the transportation of such animals by the adopting party; and
 
 &emsp;(C) The Secretary shall cause additional excess wild free-roaming horses and burros for which an adoption demand by qualified individuals does not exist to be destroyed in the most humane and cost efficient manner possible.
 
@@ -32,7 +32,7 @@ Wild free-roaming horses and burros or their remains shall lose their status as 
 
 &emsp;(3) upon destruction by the Secretary or his designee pursuant to subsection (b) of this section; or
 
-&emsp;(4) if they die of natural causes on the public lands or on private lands where maintainedthereon pursuant to section 1334 of this title and disposal is authorized by the Secretary or his designee; or
+&emsp;(4) if they die of natural causes on the public lands or on private lands where maintained thereon pursuant to section 1334 of this title and disposal is authorized by the Secretary or his designee; or
 
 &emsp;(5) upon destruction or death for purposes of or incident to the program authorized in this section; <i>Provided</i>, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products.
 

@@ -16,7 +16,7 @@ The Secretary shall reserve for each fiscal year the greater of 5 percent or $5,
 
 &emsp;(2) To provide for other evaluations or studies that include the evaluation of the impact of charter schools on student academic achievement, including information regarding—
 
-&emsp;&emsp;(A) students attending charter schools reported on the basis of race, age, disability, gender, limited English proficiency, and previous enrollment in public school; and
+&emsp;&emsp;(A) students attending charter schools reported on the basis of race, age, disability,gender, limited English proficiency, and previous enrollment in public school; and
 
 &emsp;&emsp;(B) the professional qualifications of teachers within a charter school and the turnover of the teaching force.
 

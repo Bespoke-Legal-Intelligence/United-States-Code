@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) under paragraph (2)(A) of this subsection—
 
-&emsp;&emsp;&emsp;(i) prior to sixty days after the plaintiff has given notice in writing of the alleged violation to the Secretary, to the Commission, and to the county in which the violation is alleged to have occurred; or
+&emsp;&emsp;&emsp;(i) prior to sixty days after the plaintiff has given notice in writing of the allegedviolation to the Secretary, to the Commission, and to the county in which the violation is alleged to have occurred; or
 
 &emsp;&emsp;&emsp;(ii) if the Attorney General of the United States, or the attorney general of Oregon or Washington, has commenced and is diligently prosecuting a civil action on the same matter pursuant to paragraph (1) of this subsection to require compliance with the management plan or any regulations, guidelines, or standards issued or other actions taken by the Secretary, the Commission, or any county pursuant to sections 544 to 544p of this title: <i>Provided</i>, That in any such action any person or entity otherwise entitled to bring an action pursuant to paragraph (2) of this subsection may intervene as a matter of right; or
 

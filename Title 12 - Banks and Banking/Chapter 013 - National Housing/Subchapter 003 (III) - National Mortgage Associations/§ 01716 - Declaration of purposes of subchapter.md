@@ -12,7 +12,7 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 &emsp;(5) manage and liquidate federally owned mortgage portfolios in an orderly manner, with a minimum of adverse effect upon the residential mortgage market and minimum loss to the Federal Government.
 
-(June 27, 1934, ch. 847, title III, §301, 48 Stat. 1252; May 28, 1935, ch. 150, §30, 49 Stat. 300; Feb. 3, 1938, ch. 13, §§4, 5, 52 Stat. 23; June 3, 1939, ch. 175, §§15, 16, 53 Stat. 808; Mar. 28, 1941, ch. 31, §5, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 10, 1948, ch. 832, title II, §§201, 202, 62 Stat. 1275; Aug. 8, 1949, ch. 403, §4, 63 Stat. 576; Oct. 25, 1949, ch. 729, §7, 63 Stat. 906; Apr. 20, 1950, ch. 94, title I, §§116, 122, 64 Stat. 57, 59; Sept. 1, 1951, ch. 378, title II, §205, title VI, §608(b), 65 Stat. 303, 315; Apr. 9, 1952, ch. 173, 66 Stat. 51; July 14, 1952, ch. 723, §§3(a), 10(a)(2), 66 Stat. 602, 603; June 30, 1953, ch. 170, §§12, 13(a), 67 Stat. 125; June 29, 1954, ch. 410, §1(1), 68 Stat. 320; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 612; Pub. L. 90–448, title VIII, §802(b), Aug. 1, 1968, 82 Stat. 536; Pub. L. 101–73, title VII, §731(m)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1381(a), Oct. 28, 1992, 106 Stat. 3994.)
+(June 27, 1934, ch. 847, title III, §301, 48 Stat. 1252; May 28, 1935, ch. 150, §30, 49 Stat. 300; Feb. 3, 1938, ch. 13, §§4, 5, 52 Stat. 23; June 3, 1939, ch. 175, §§15, 16, 53 Stat. 808; Mar. 28, 1941, ch. 31, §5, 55 Stat. 62; July 1, 1948, ch. 784, §1, 62 Stat. 1206; Aug. 10, 1948, ch. 832, title II, §§201, 202, 62 Stat.1275; Aug. 8, 1949, ch. 403, §4, 63 Stat. 576; Oct. 25, 1949, ch. 729, §7, 63 Stat. 906; Apr. 20, 1950, ch. 94, title I, §§116, 122, 64 Stat. 57, 59; Sept. 1, 1951, ch. 378, title II, §205, title VI, §608(b), 65 Stat. 303, 315; Apr. 9, 1952, ch. 173, 66 Stat. 51; July 14, 1952, ch. 723, §§3(a), 10(a)(2), 66 Stat. 602, 603; June 30, 1953, ch. 170, §§12, 13(a), 67 Stat. 125; June 29, 1954, ch. 410, §1(1), 68 Stat. 320; Aug. 2, 1954, ch. 649, title II, §201, 68 Stat. 612; Pub. L. 90–448, title VIII, §802(b), Aug. 1, 1968, 82 Stat. 536; Pub. L. 101–73, title VII, §731(m)(1), Aug. 9, 1989, 103 Stat. 435; Pub. L. 102–550, title XIII, §1381(a), Oct. 28, 1992, 106 Stat. 3994.)
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Subsec. (a)(1)(G). Act June 29, 1954, substituted in first sentence “August 1,
 
 Subsec. (a)(1)(G). Act June 30, 1953, §13(a), substituted in first sentence “July 1, 1954” for “July 1, 1953”.
 
-1952—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured orguaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
+1952—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured or guaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
 
 Subsec. (a)(1)(E). Act July 14, 1952, §3(a)(2), (3), changed the base date from Apr. 30, 1948 to Feb. 29, 1952, and exempted defense or disaster mortgages from the limitation of this subparagraph.
 
@@ -88,7 +88,7 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 #### Effective Date of 1949 Amendment
 
-Section 7 of Joint Res. Oct. 25, 1949, provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen's Readjustment Act of 1944, as amended \[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\].”
+Section 7 of Joint Res. Oct. 25, 1949, provided in part: “That the amendment made by this section 7 with respect to mortgages guaranteed under section 501 of the Servicemen's Readjustment Act of 1944, as amended\[this section\], shall apply only to such mortgages guaranteed after the date of enactment of this Act \[Oct. 25, 1949\].”
 
 #### Short Title
 

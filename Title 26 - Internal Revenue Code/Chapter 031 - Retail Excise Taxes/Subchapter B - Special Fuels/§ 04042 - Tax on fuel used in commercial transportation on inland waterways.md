@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Person
 
-&emsp;The term “person” includes the United States, a State, a political subdivision of aState, or any agency or instrumentality of any of the foregoing.
+&emsp;The term “person” includes the United States, a State, a political subdivision of a State, or any agency or instrumentality of any of the foregoing.
 
 #### (e) Date for filing return
 

@@ -14,7 +14,7 @@ Section 1 of Pub. L. 91–345 provided: “That this Act \[enacting this chapter
 
 #### White House Conference on Library and Information Services
 
-Pub. L. 100–382, Aug. 8, 1988, 102 Stat. 898, authorized President to call and conduct a White House Conference on Library and Information Services to be held not earlier than Sept. 1, 1989, and not later than Sept. 30, 1991, to develop recommendations for the further improvement of the library and information services of the Nation and their use by the public, with a final report of the Conference to be submitted to the President not later than 120 days following the close of the Conference and to be made public and transmitted to theCongress together with a statement of the President containing the recommendations of the President with respect to such report.
+Pub. L. 100–382, Aug. 8, 1988, 102 Stat. 898, authorized President to call and conduct a White House Conference on Library and Information Services to be held not earlier than Sept. 1, 1989, and not later than Sept. 30, 1991, to develop recommendations for the further improvement of the library and information services of the Nation and their use by the public, with a final report of the Conference to be submitted to the President not later than 120 days following the close of the Conference and to be made public and transmitted to the Congress together with a statement of the President containing the recommendations of the President with respect to such report.
 
 #### Section Referred to in Other Sections
 

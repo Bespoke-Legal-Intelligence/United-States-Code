@@ -64,7 +64,7 @@ No fees or penalties other than those specified in this section may be imposed o
 
 &emsp;&emsp;(A) shall not exceed the amount necessary to prepay existing debentures, including all costs associated with the refinancing and any applicable prepayment penalty or repurchase premium; and
 
-&emsp;&emsp;(B) except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers anddealers in trust certificates issued pursuant to section 697b of this title.
+&emsp;&emsp;(B) except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers and dealers in trust certificates issued pursuant to section 697b of this title.
 
 #### (2) Job creation
 

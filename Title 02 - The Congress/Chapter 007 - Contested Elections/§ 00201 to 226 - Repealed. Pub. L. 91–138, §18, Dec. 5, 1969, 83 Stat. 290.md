@@ -4,7 +4,7 @@ The subject matter of former sections 201 to 226 of this title is covered genera
 
 Section 201, R.S. §105, provided that whenever any person intended to contest an election of any member of House of Representatives he had to give notice in writing to that member within thirty days of result of such election.
 
-Section 202, R.S. §106, provided that a member of House of Representatives whose election was contestedserve an answer within thirty days after service of notice upon him.
+Section 202, R.S. §106, provided that a member of House of Representatives whose election was contested serve an answer within thirty days after service of notice upon him.
 
 Section 203, R.S. §107; Mar. 2, 1875, ch. 119, §2, 18 Stat. 338, provided time and order for taking testimony.
 

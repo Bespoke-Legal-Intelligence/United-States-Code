@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2201\.](%C2%A7%2002201%20-%20Combat%20zone-related%20deaths%20of%20members%20of%20the%20Armed%20Forces%20and%20deaths%20of%20victims%20of%20certain%20terrorist%20attacks.md) | Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks. |
+| [2201\.](%C2%A7%2002201%20-%20Combat%20zone-related%20deaths%20of%20members%20of%20the%20Armed%20Forces%2C%20deaths%20of%20astronauts%2C%20and%20deaths%20of%20victims%20of%20certain%20terrorist%20attacks.md) | Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks. |
 | \[2202. | Repealed.\] |
 | [2203\.](%C2%A7%2002203%20-%20Definition%20of%20executor.md) | Definition of executor. |
 | [2204\.](%C2%A7%2002204%20-%20Discharge%20of%20fiduciary%20from%20personal%20liability.md) | Discharge of fiduciary from personal liability. |
@@ -18,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–121, title I, §110(c)(2)(B), Nov. 11, 2003, 117 Stat. 1342, inserted “, deaths of astronauts,” after “Forces” in item 2201.
 
 2002—Pub. L. 107–134, title I, §103(c), Jan. 23, 2002, 115 Stat. 2431, substituted “Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks.” for “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” in item 2201.
 
@@ -46,7 +48,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02201 - Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks](%C2%A7%2002201%20-%20Combat%20zone-related%20deaths%20of%20members%20of%20the%20Armed%20Forces%20and%20deaths%20of%20victims%20of%20certain%20terrorist%20attacks.md)
+- [&sect; 02201 - Combat zone-related deaths of members of the Armed Forces, deaths of astronauts, and deaths of victims of certain terrorist attacks](%C2%A7%2002201%20-%20Combat%20zone-related%20deaths%20of%20members%20of%20the%20Armed%20Forces%2C%20deaths%20of%20astronauts%2C%20and%20deaths%20of%20victims%20of%20certain%20terrorist%20attacks.md)
 - [&sect; 02202 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1902(a)(8), Oct. 4, 1976, 90 Stat. 1805](%C2%A7%2002202%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71902%28a%29%288%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201805.md)
 - [&sect; 02203 - Definition of executor](%C2%A7%2002203%20-%20Definition%20of%20executor.md)
 - [&sect; 02204 - Discharge of fiduciary from personal liability](%C2%A7%2002204%20-%20Discharge%20of%20fiduciary%20from%20personal%20liability.md)

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Unless otherwise prohibited by law, before promulgating any general notice of proposedrulemaking that is likely to result in promulgation of any rule that includes any Federal mandate that may result in the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector, of $100,000,000 or more (adjusted annually for inflation) in any 1 year, and before promulgating any final rule for which a general notice of proposed rulemaking was published, the agency shall prepare a written statement containing—
+Unless otherwise prohibited by law, before promulgating any general notice of proposed rulemaking that is likely to result in promulgation of any rule that includes any Federal mandate that may result in the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector, of $100,000,000 or more (adjusted annually for inflation) in any 1 year, and before promulgating any final rule for which a general notice of proposed rulemaking was published, the agency shall prepare a written statement containing—
 
 &emsp;(1) an identification of the provision of Federal law under which the rule is being promulgated;
 

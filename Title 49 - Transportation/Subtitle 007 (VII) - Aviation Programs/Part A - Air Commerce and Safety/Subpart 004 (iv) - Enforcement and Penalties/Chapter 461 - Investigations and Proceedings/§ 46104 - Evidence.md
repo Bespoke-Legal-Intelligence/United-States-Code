@@ -228,5 +228,5 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 47122 of this title.
+This section is referred to in sections 106, 40110, 47122 of this title.
 

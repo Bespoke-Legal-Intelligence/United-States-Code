@@ -98,11 +98,11 @@ With respect to a tribally controlled school that receives assistance under this
 
 The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) ofchapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.
+A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, §11, Sept. 9,1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, §801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.
 
 #### Effective Date
 

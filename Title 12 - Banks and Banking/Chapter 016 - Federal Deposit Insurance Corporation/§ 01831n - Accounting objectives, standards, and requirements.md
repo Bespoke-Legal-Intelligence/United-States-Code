@@ -20,7 +20,7 @@
 
 #### (B) Stringency
 
-&emsp;&emsp;If the appropriate Federal banking agency or the Corporation determines that the application of any generally accepted accounting principle to any insured depository institution is inconsistent with the objectives described in paragraph (1), the agency or the Corporation may, with respect to reports or statements required to be filed with such agency or Corporation, prescribe an accounting principle which is applicable to such institutions which is no less stringent than generally accepted accounting principles.
+&emsp;&emsp;If the appropriate Federal banking agency or the Corporation determines that the application of any generally accepted accounting principle to any insured depository institution is inconsistent with the objectives described in paragraph (1), the agency or theCorporation may, with respect to reports or statements required to be filed with such agency or Corporation, prescribe an accounting principle which is applicable to such institutions which is no less stringent than generally accepted accounting principles.
 
 #### (3) Review and implementation of accounting principles required
 

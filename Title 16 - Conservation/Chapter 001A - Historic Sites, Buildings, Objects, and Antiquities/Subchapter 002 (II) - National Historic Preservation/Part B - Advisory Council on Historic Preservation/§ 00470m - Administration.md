@@ -6,7 +6,7 @@ There shall be an Executive Director of the Council who shall be appointed in th
 
 #### (b) General Counsel; appointment; functions and duties
 
-The Council shall have a General Counsel, who shall be appointed by the Executive Director. The General Counsel shall report directly to the Executive Director and serve as the Council's legal advisor. The Executive Director shall appoint such other attorneys as may be necessary to assist the General Counsel, represent the Council in courts of law whenever appropriate, including enforcement of agreements with Federal agencies to which the Council is a party, assist the Department of Justice in handling litigation concerning the Council in courts of law, and perform such other legal duties and functions as the Executive Director and the Council may direct.
+The Council shall have a General Counsel, who shall be appointed by the Executive Director.The General Counsel shall report directly to the Executive Director and serve as the Council's legal advisor. The Executive Director shall appoint such other attorneys as may be necessary to assist the General Counsel, represent the Council in courts of law whenever appropriate, including enforcement of agreements with Federal agencies to which the Council is a party, assist the Department of Justice in handling litigation concerning the Council in courts of law, and perform such other legal duties and functions as the Executive Director and the Council may direct.
 
 #### (c) Appointment and compensation of officers and employees
 
@@ -48,7 +48,7 @@ In subsec. (f), “(31 U.S.C. 1513(d), 1514)” was substituted for “(31 U.S.C
 
 1980—Subsec. (b). Pub. L. 96–515, §301(i), inserted “, including enforcement of agreements with Federal agencies to which the Council is a party” after “wherever appropriate”.
 
-Subsec. (g). Pub. L. 96–515, §301(j), substituted “paragraphs (2) through (4)” for “paragraphs (1) through (16)” and inserted provision authorizing the Council to accept donations of moneys and the Executive Director, in his discretion, to accept, hold, use, expend, and administer such moneys.
+Subsec. (g). Pub. L. 96–515, §301(j), substituted “paragraphs (2) through (4)” for “paragraphs (1) through\(16)” and inserted provision authorizing the Council to accept donations of moneys and the Executive Director, in his discretion, to accept, hold, use, expend, and administer such moneys.
 
 1976—Subsec. (a). Pub. L. 94–422 substituted provisions authorizing appointment of the Executive Director by the Chairman and that the Executive Director shall report to the Council who shall prescribe his functions and duties for provisions designating the Director of the National Park Service or his designee as the Executive Director of the Council and incorporated provisions relating to furnishing of financial and administrative services by the Department of the Interior in subsec. (f).
 

@@ -6,7 +6,7 @@ Every 2 years, the Secretary shall, on a competitive basis, make grants to, or e
 
 #### (b) Eligible entities
 
-To be eligible to receive a grant or enter into a contract under this section, an entity shall have an understanding of the problems of eligible migrant and seasonal farmworkers (including dependents), a familiarity with the area to be served, and the ability to demonstrate a capacity to administer effectively a diversifiedprogram of workforce investment activities (including youth activities) and related assistance for eligible migrant and seasonal farmworkers.
+To be eligible to receive a grant or enter into a contract under this section, an entity shall have an understanding of the problems of eligible migrant and seasonal farmworkers (including dependents), a familiarity with the area to be served, and the ability to demonstrate a capacity to administer effectively a diversified program of workforce investment activities (including youth activities) and related assistance for eligible migrant and seasonal farmworkers.
 
 #### (c) Program plan
 

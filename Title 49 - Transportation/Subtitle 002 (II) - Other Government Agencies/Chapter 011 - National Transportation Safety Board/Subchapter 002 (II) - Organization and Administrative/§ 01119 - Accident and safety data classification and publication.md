@@ -28,13 +28,33 @@ Publication.—The Board shall publish on a periodic basis accident and safety d
 
 Recommendations of the administrator.—The Administrator may, from time to time, request the Board to consider revisions (including additions to the classification system developed under this section). The Board shall respond to any request made by the Administrator under this section not later than 90 days after receiving that request.
 
-(Added Pub. L. 104–264, title IV, §407(a)(1), Oct. 9, 1996, 110 Stat. 3257.)
+(c)
+
+Appeals.—
+
+&emsp;(1)
+
+Notification of rights.—In any case in which an employee of the Board determines that an occurrence associated with the operation of an aircraft constitutes an accident, the employee shall notify the owner or operator of that aircraft of the right to appeal that determination to the Board.
+
+&emsp;(2)
+
+Procedure.—The Board shall establish and publish the procedures for appeals under this subsection.
+
+&emsp;(3)
+
+Limitation on applicability.—This subsection shall not apply in the case of an accident that results in a loss of life.
+
+(Added Pub. L. 104–264, title IV, §407(a)(1), Oct. 9, 1996, 110 Stat. 3257; amended Pub. L. 108–168, §5, Dec. 6, 2003, 117 Stat. 2034.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a) and (b)(1), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
 
+#### Amendments
+
+2003—Subsec. (c). Pub. L. 108–168 added subsec. (c).
+
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30,1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 

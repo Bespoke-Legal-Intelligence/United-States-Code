@@ -14,7 +14,7 @@ The Secretary shall designate one member to be Chairman. Any vacancy in the Comm
 
 #### (d) Compensation and expenses; vouchers
 
-A member of the Commission shall serve without compensation as such. The Secretary is authorized to pay the expense reasonably incurredby the Commission in carrying out its responsibilities under this subchapter on vouchers signed by the Chairman.
+A member of the Commission shall serve without compensation as such. The Secretary is authorized to pay the expense reasonably incurred by the Commission in carrying out its responsibilities under this subchapter on vouchers signed by the Chairman.
 
 #### (e) Consultation of Secretary with Commission
 

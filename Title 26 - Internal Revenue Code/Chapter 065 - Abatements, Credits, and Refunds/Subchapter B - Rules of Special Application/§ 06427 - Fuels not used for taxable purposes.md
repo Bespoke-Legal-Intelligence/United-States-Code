@@ -6,7 +6,7 @@ Except as provided in subsection (k), if tax has been imposed under paragraph (2
 
 &emsp;(1) the amount of tax imposed on the sale of the fuel to him, reduced by
 
-&emsp;(2) if he uses the fuel, the amount of tax which would have been imposed under section 4041 on such use if no tax under section 4041 had been imposed on the sale of the fuel.
+&emsp;(2) if he uses the fuel, the amount of tax which would have been imposed under section4041 on such use if no tax under section 4041 had been imposed on the sale of the fuel.
 
 #### (b) Intercity, local, or school buses
 
@@ -180,7 +180,7 @@ Except as provided in subsection (k), if any gasoline blend stock or additive (w
 
 &emsp;Payment shall be made under this section only to—
 
-&emsp;&emsp;(A) the United States or an agency or instrumentality thereof, a State, a political subdivision of a State, or any agency or instrumentality of one or more States or political subdivisions, or
+&emsp;&emsp;(A) the United States or an agency or instrumentality thereof, a State, a politicalsubdivision of a State, or any agency or instrumentality of one or more States or political subdivisions, or
 
 &emsp;&emsp;(B) an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
 
@@ -230,7 +230,7 @@ Except as provided in subsection (k), if any gasoline blend stock or additive (w
 
 #### (4) No refund of certain taxes on fuel used in commercial aviation
 
-&emsp;In the case of fuel used in commercial aviation (as defined in section 4092(b)) (other thansupplies for vessels or aircraft within the meaning of section 4221(d)(3)), paragraph (1) shall not apply to so much of the tax imposed by section 4091 as is attributable to—
+&emsp;In the case of fuel used in commercial aviation (as defined in section 4092(b)) (other than supplies for vessels or aircraft within the meaning of section 4221(d)(3)), paragraph (1) shall not apply to so much of the tax imposed by section 4091 as is attributable to—
 
 &emsp;&emsp;(A) the Leaking Underground Storage Tank Trust Fund financing rate imposed by such section, and
 
@@ -502,7 +502,7 @@ Subsec. (q). Pub. L. 101–508, §11211(b)(6)(E)(ii), substituted heading for on
 
 &emsp;“(3) no tax is imposed by section 4041(c)(2) on taxable events occurring during 1991 by reason of section 4283,
 
-> the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the excess of the aggregate amount of tax paid under section 4081 on the gasoline so used over an amountequal to 6 cents multiplied by the number of gallons of gasoline so used.”
+> the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline an amount equal to the excess of the aggregate amount of tax paid under section 4081 on the gasoline so used over an amount equal to 6 cents multiplied by the number of gallons of gasoline so used.”
 
 1989—Subsec. (f)(1)(B). Pub. L. 101–239, §7812(a), made technical correction to directory language of Pub. L. 100–647, §2001(d)(7)(C), see 1988 Amendment note below.
 
@@ -700,7 +700,7 @@ Subsec. (e)(3). Pub. L. 97–424, §511(e)(2), substituted “September 30, 1984
 
 Subsec. (f)(1). Pub. L. 97–424, §511(d)(4), substituted “on which a tax” for “on which tax”, inserted “at the rate of 9 cents a gallon” after “is imposed by section 4081”, and substituted “the amount determined at the rate of 5 cents a gallon” for “the aggregate amount of the tax imposed on such gasoline”.
 
-Subsec. (f)(2). Pub. L. 97–424, §511(d)(4), substituted provision that no amount shall be payable under paragraph (1) with respect to any gasoline with respect to which an amount is payable under subsection (d) or (e) of this section or under section 6420 or 6421, for provision that no amount would be payable under subsection\(d) or (e) of this section or under section 6420 or 6421 with respect to any gasoline with respect to which an amount was payable under paragraph (1).
+Subsec. (f)(2). Pub. L. 97–424, §511(d)(4), substituted provision that no amount shall be payable under paragraph (1) with respect to any gasoline with respect to which an amount is payable under subsection (d) or (e) of this section or under section 6420 or 6421, for provision that no amount would be payable under subsection (d) or (e) of this section or under section 6420 or 6421 with respect to any gasoline with respect to which an amount was payable under paragraph (1).
 
 Subsec. (k). Pub. L. 97–424, §516(b)(5), added subsec. (k). Former subsec. (k) redesignated (<i>l</i>).
 

@@ -20,7 +20,7 @@
 
 #### (b) State allotments
 
-The allotment for each State shall be the sum of the amounts allotted for national grants insuch State under subsection (d) of this section and for the grant to such State under subsection (e) of this section.
+The allotment for each State shall be the sum of the amounts allotted for national grants in such State under subsection (d) of this section and for the grant to such State under subsection (e) of this section.
 
 #### (c) Division between national grants and grants to States
 
@@ -78,7 +78,7 @@ From the sums provided for grants to States under subsection (c) of this section
 
 #### (3) Reduction
 
-&emsp;Allotments for States not affected by paragraphs (1) and (2)(B) of this subsection shall bereduced proportionally to satisfy the conditions in such paragraphs.
+&emsp;Allotments for States not affected by paragraphs (1) and (2)(B) of this subsection shall be reduced proportionally to satisfy the conditions in such paragraphs.
 
 #### (f) Allotment percentage
 

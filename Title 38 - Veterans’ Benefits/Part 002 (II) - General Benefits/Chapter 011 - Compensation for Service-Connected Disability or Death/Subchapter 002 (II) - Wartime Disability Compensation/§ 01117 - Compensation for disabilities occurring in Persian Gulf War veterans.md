@@ -1,6 +1,6 @@
 ### §1117. Compensation for disabilities occurring in Persian Gulf War veterans
 
-(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteranwith a qualifying chronic disability that became manifest—
+(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest—
 
 &emsp;(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -80,7 +80,7 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from anundiagnosed illness (or combination of undiagnosed illnesses) that—
+2001—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
 
 &emsp;“(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -342,7 +342,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
-&emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
+&emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited andthat such information was collected only after a considerable delay.
 
 &emsp;“(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 \[see Short Title of 1992 Amendments note under section 101 of this title\], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 \[see Tables for classification\], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) \[see Tables for classification\] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium.
 
@@ -486,7 +486,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
-“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
+“(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date onwhich the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
 “(c)
 

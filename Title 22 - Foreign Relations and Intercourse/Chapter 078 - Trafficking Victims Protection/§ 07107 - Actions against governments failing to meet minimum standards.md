@@ -30,7 +30,33 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 > &emsp;since the transmission of the last annual report.
 
-#### (3) Significant efforts
+#### (3) Special watch list
+
+#### (A) Submission of list
+
+&emsp;&emsp;Not later than the date on which the determinations described in subsections (c) and (d) of this section are submitted to the appropriate congressional committees in accordance with such subsections, the Secretary of State shall submit to the appropriate congressional committees a list of countries that the Secretary determines requires special scrutiny during the following year. The list shall be composed of the following countries:
+
+&emsp;&emsp;&emsp;(i) Countries that have been listed pursuant to paragraph (1)(A) in the current annual report and were listed pursuant to paragraph (1)(B) in the previous annual report.
+
+&emsp;&emsp;&emsp;(ii) Countries that have been listed pursuant to paragraph (1)(B) pursuant to the current annual report and were listed pursuant to paragraph (1)(C) in the previous annual report.
+
+&emsp;&emsp;&emsp;(iii) Countries that have been listed pursuant to paragraph (1)(B) pursuant to the current annual report, where—
+
+&emsp;&emsp;&emsp;&emsp;(I) the absolute number of victims of severe forms of trafficking is very significant or is significantly increasing;
+
+&emsp;&emsp;&emsp;&emsp;(II) there is a failure to provide evidence of increasing efforts to combat severe forms of trafficking in persons from the previous year, including increased investigations, prosecutions and convictions of trafficking crimes, increased assistance to victims, and decreasing evidence of complicity in severe forms of trafficking by government officials; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the determination that a country is making significant efforts to bring themselves into compliance with minimum standards was based on commitments by the country to take additional future steps over the next year.
+
+#### (B) Interim assessment
+
+&emsp;&emsp;Not later than February 1st of each year, the Secretary of State shall provide to theappropriate congressional committees an assessment of the progress that each country on the special watch list described in subparagraph (A) has made since the last annual report.
+
+#### (C) Relation of special watch list to annual trafficking in persons report
+
+&emsp;&emsp;A determination that a country shall not be placed on the special watch list described in subparagraph (A) shall not affect in any way the determination to be made in the following year as to whether a country is complying with the minimum standards for the elimination of trafficking or whether a country is making significant efforts to bring itself into compliance with such standards.
+
+#### (4) Significant efforts
 
 &emsp;In determinations under paragraph (1) or (2) as to whether the government of a country is making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking, the Secretary of State shall consider—
 
@@ -72,7 +98,7 @@ The determinations referred to in subsection (c) of this section are the followi
 
 #### (4) Continuation of assistance in the national interest
 
-&emsp;Notwithstanding the failure of the government of the country to comply with minimum standards for the elimination of trafficking and to make significant efforts to bring itself into compliance, the President has determined that the provision to the country of nonhumanitarian, nontrade-related foreign assistance, or the multilateral assistance described in paragraph (1)(B), or both, would promote the purposes of this chapter or is otherwise in the national interest of the United States.
+&emsp;Notwithstanding the failure of the government of the country to comply with minimum standards for the elimination of trafficking and to make significant efforts to bring itself into compliance, the President has determined that the provision to the country of nonhumanitarian, nontrade-related foreign assistance or funding for participation in educational and cultural exchange programs, or the multilateral assistance described in paragraph (1)(B), or both, would promote the purposes of this chapter or is otherwise in the national interest of the United States.
 
 #### (5) Exercise of waiver authority
 
@@ -80,7 +106,7 @@ The determinations referred to in subsection (c) of this section are the followi
 
 &emsp;&emsp;The President may exercise the authority under paragraph (4) with respect to—
 
-&emsp;&emsp;&emsp;(i) all nonhumanitarian, nontrade-related foreign assistance to a country;
+&emsp;&emsp;&emsp;(i) all nonhumanitarian, nontrade-related foreign assistance or funding for participation in educational and cultural exchange programs to a country;
 
 &emsp;&emsp;&emsp;(ii) all multilateral assistance described in paragraph (1)(B) to a country; or
 
@@ -98,7 +124,43 @@ The determinations referred to in subsection (c) of this section are the followi
 
 Together with any notification under subsection (c) of this section, the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(7)(A) of this title, or with respect to any assistance described in section 7102(7)(B) of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 
-(Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482.)
+#### (f) Subsequent waiver authority
+
+After the President has made a determination described in subsection (d)(1) of this section with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) of this section to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1) of this section.
+
+(Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884.)
+
+#### Amendments
+
+2003—Subsec. (b)(3), (4). Pub. L. 108–193, §6(e), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (d)(4). Pub. L. 108–193, §6(h)(1), inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
+
+Subsec. (d)(5)(A)(i). Pub. L. 108–193, §6(h)(2), inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
+
+Subsec. (f). Pub. L. 108–193, §6(i), added subsec. (f).
+
+#### Presidential Determination With Respect to Foreign Governments’ Efforts Regarding Trafficking in Persons
+
+Determination of President of the United States, No. 2003–35, Sept. 9, 2003, 68 F.R. 53871, provided:
+
+Memorandum for the Secretary of State
+
+Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386) \[22 U.S.C. 7107\] (the “Act”), I hereby:
+
+Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Burma, Cuba, Liberia, North Korea, and Sudan, not to provide certain funding for those countries’ governments for fiscal year 2004, until such a government complies with the minimum standards or makes significant efforts to bring itself into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+
+Make the determination provided in section 110(d)(3) of the Act, concerning the determinations of the Secretary of State with respect to Belize, Bosnia and Herzegovina, the Dominican Republic, Georgia, Greece, Haiti, Kazakhstan, Suriname, Turkey, and Uzbekistan;
+
+Determine, consistent with section 110(d)(4) of the Act, with respect to Liberia, that provision to Liberia of the multilateral assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act \[22 U.S.C. 7101 et seq.\] or is otherwise in the national interest of the United States; and
+
+Determine, consistent with section 110(d)(4) of the Act, with respect to Sudan for all programs, projects, or activities of assistance as may be necessary to implement a peace accord, that provision to Sudan of the multilateral assistance described in section 110(d)(1)(B) of the Act for such programs, projects, or activities would promote the purposes of the Act or is otherwise in the national interest of the United States.
+
+The certification required by section 110(e) of the Act is provided herewith.
+
+You are hereby authorized and directed to submit this determination to the Congress, and to publish it in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

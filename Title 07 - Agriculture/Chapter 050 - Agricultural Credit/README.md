@@ -546,16 +546,16 @@
 | (c) | Certification. |
 | (d) | Votes for decisions. |
 | 2009bb–9. | Consent of States. |
-| 2009bb–10. | Records. |
+| 2009bb–10. Records. |  |
 | (a) | Records of the Authority. |
 | (b) | Records of recipients of Federal assistance. |
 | (c) | Annual audit. |
-| 2009bb–11. | Annual report. |
-| 2009bb–12. | Authorization of appropriations. |
+| 2009bb–11. Annual report. |  |
+| 2009bb–12. Authorization of appropriations. |  |
 | (a) | In general. |
 | (b) | Administrative expenses. |
 | (c) | Minimum State share of grants. |
-| 2009bb–13. | Termination of authority. |
+| 2009bb–13. Termination of authority. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -602,31 +602,31 @@
 | (a) | In general. |
 | (b) | Limitation. |
 | (c) | Limitation on rural business investment companies controlled by Farm Credit System institutions. |
-| 2009cc–10. | Reporting requirements. |
+| 2009cc–10. Reporting requirements. |  |
 | (a) | Rural business investment companies. |
 | (b) | Public reports. |
-| 2009cc–11. | Examinations. |
+| 2009cc–11. Examinations. |  |
 | (a) | In general. |
 | (b) | Assistance of private sector entities. |
 | (c) | Costs. |
 | (d) | Deposit of funds. |
-| 2009cc–12. | Injunctions and other orders. |
+| 2009cc–12. Injunctions and other orders. |  |
 | (a) | In general. |
 | (b) | Jurisdiction. |
 | (c) | Secretary as trustee or receiver. |
-| 2009cc–13. | Additional penalties for noncompliance. |
+| 2009cc–13. Additional penalties for noncompliance. |  |
 | (a) | In general. |
 | (b) | Adjudication of noncompliance. |
-| 2009cc–14. | Unlawful acts and omissions; breach of fiduciary duty. |
+| 2009cc–14. Unlawful acts and omissions; breach of fiduciary duty. |  |
 | (a) | Parties deemed to commit a violation. |
 | (b) | Fiduciary duties. |
 | (c) | Unlawful acts. |
-| 2009cc–15. | Removal or suspension of directors or officers. |
-| 2009cc–16. | Contracting of functions. |
+| 2009cc–15. Removal or suspension of directors or officers. |  |
+| 2009cc–16. Contracting of functions. |  |
 | (a) | In general. |
 | (b) | Funding. |
-| 2009cc–17. | Regulations. |
-| 2009cc–18. | Funding. |
+| 2009cc–17. Regulations. |  |
+| 2009cc–18. Funding. |  |
 | (a) | In general. |
 | (b) | Availability of funds. |
 

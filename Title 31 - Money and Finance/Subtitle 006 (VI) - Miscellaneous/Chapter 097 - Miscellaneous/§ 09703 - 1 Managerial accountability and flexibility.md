@@ -26,7 +26,7 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1115, 1116, 1118, 1119, 5340, 9704 of this title; title 40 section 11315.
+This section is referred to in sections 1115, 1116, 1118, 1119, 5340, 9704 of this title; title 40 section 11315; title 41 section 414.
 
 <i><sup>1</sup></i><i> Another section 9703 is set out after section 9704 of this title.</i>
 

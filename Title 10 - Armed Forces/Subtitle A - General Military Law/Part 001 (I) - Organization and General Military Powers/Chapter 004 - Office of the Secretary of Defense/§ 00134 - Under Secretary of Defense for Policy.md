@@ -12,9 +12,11 @@
 
 (3) Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary shall have responsibility for supervising and directing activities of the Department of Defense relating to export controls.
 
+(4) Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Policy shall have overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism.
+
 (c) The Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Secretaries of the military departments.
 
-(Added Pub. L. 99–433, title I, §105(1), Oct. 1, 1986, 100 Stat. 997; amended Pub. L. 99–500, §101(c) \[title X, §903(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(a), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 105–261, div. A, title XV, §1521(a), Oct. 17, 1998, 112 Stat. 2178; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719.)
+(Added Pub. L. 99–433, title I, §105(1), Oct. 1, 1986, 100 Stat. 997; amended Pub. L. 99–500, §101(c)\[title X, §903(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(a), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 105–261, div. A, title XV, §1521(a), Oct. 17, 1998, 112 Stat. 2178; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §902(b), Dec. 2, 2002, 116 Stat. 2620.)
 
 #### Codification
 
@@ -27,6 +29,8 @@ Provisions of this section were contained in section 135 of this title prior to 
 A prior section 134 was renumbered section 132 of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(4). Pub. L. 107–314 added par. (4).
 
 1999—Subsec. (c). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -50,7 +54,7 @@ Time for Implementation.—The Secretary of Defense shall complete the actions n
 
 “(d)
 
-Report.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the plans of the Secretary for implementing theamendments made by subsections (a) and (b) \[enacting section 134b of this title and amending this section\]. The report shall include the following:
+Report.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the plans of the Secretary for implementing the amendments made by subsections (a) and (b) \[enacting section 134b of this title and amending this section\]. The report shall include the following:
 
 &emsp;“(1) A description of any organizational changes that are to be made within the Department of Defense to implement those amendments.
 

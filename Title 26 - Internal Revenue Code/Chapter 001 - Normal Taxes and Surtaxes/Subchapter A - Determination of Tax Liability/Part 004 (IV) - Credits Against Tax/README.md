@@ -18,7 +18,7 @@
 
 1990—Pub. L. 101–508, title XI, §11813(b)(26), Nov. 5, 1990, 104 Stat. 1388–555, substituted “Rules for computing investment credit” for “Rules for computing credit for investment in certain depreciable property” in item for subpart E.
 
-1984—Pub. L. 98–369, div. A, title IV, §§471(a), 474(n)(3), July 18, 1984, 98 Stat. 825, 834, substituted “Nonrefundable personal credits” for “Credits allowable” in item for subpart A, “Foreign tax credit, etc” for “Rules for computing credit for investment in certain depreciable property” in item for subpart B, “Refundable credits” for “Rules for computing credit for expense of work incentive programs” in item for subpart C, and “Business-related credits” for “Rules for computing credit for employment of certain new employees” in item for subpart D, and added items for subparts E and F.
+1984—Pub. L. 98–369, div. A, title IV, §§471(a), 474(n)(3), July 18, 1984, 98 Stat. 825, 834, substituted “Nonrefundable personal credits” for “Credits allowable” in item for subpart A, “Foreign tax credit, etc” for “Rules forcomputing credit for investment in certain depreciable property” in item for subpart B, “Refundable credits” for “Rules for computing credit for expense of work incentive programs” in item for subpart C, and “Business-related credits” for “Rules for computing credit for employment of certain new employees” in item for subpart D, and added items for subparts E and F.
 
 1977—Pub. L. 95–30, title II, §202(d)(1)(B), May 23, 1977, 91 Stat. 147, added subpart D.
 
@@ -26,7 +26,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 665, 1374, 1375, 1397E, 1398, 1503, 6096, 6425, 6428, 6654, 6655, 6682 of this title.
+This part is referred to in sections 665, 1374, 1375, 1397E, 1398, 1503, 6096, 6425, 6428, 6429, 6654, 6655, 6682 of this title.
 
 
 ---

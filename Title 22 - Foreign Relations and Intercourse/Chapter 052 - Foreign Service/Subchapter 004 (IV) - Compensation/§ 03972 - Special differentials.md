@@ -8,7 +8,7 @@ The Secretary may pay special differentials, in addition to compensation otherwi
 
 #### (c) Compensatory time off
 
-Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall preclude the grantingof compensatory time off for Foreign Service officers.
+Nothing in this chapter, or in subchapter V of chapter 55 of title 5 shall preclude the granting of compensatory time off for Foreign Service officers.
 
 (Pub. L. 96–465, title I, §412, Oct. 17, 1980, 94 Stat. 2092; Pub. L. 103–236, title I, §139(6), Apr. 30, 1994, 108 Stat. 398.)
 

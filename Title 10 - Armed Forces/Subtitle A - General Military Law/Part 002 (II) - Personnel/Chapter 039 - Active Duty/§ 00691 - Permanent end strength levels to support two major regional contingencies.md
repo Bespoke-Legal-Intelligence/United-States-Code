@@ -4,25 +4,35 @@
 
 (b) Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-&emsp;(1) For the Army, 480,000.
+&emsp;(1) For the Army, 482,400.
 
-&emsp;(2) For the Navy, 376,000.
+&emsp;(2) For the Navy, 373,800.
 
-&emsp;(3) For the Marine Corps, 172,600.
+&emsp;(3) For the Marine Corps, 175,000.
 
-&emsp;(4) For the Air Force, 358,800.
+&emsp;(4) For the Air Force, 359,300.
 
 (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
 (d) No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-(e) For a fiscal year for which the active duty end strength authorized by law pursuant to section 115(a)(1)(A) of this title for any of the armed forces is identical to or greater than the number applicable to that armed force under subsection (b), the Secretary of Defense may reduce that number by not more than 0.5 percent.
+\[(e) Repealed. Pub. L. 107–314, div. A, title IV, §402(b), Dec. 2, 2002, 116 Stat. 2525.\]
 
 (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.
 
-(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069.)
+(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069; Pub. L. 107–314, div. A, title IV, §402, Dec. 2, 2002, 116 Stat. 2524; Pub. L. 108–136, div. A, title IV, §402, Nov. 24, 2003, 117 Stat. 1450.)
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–136, §402(1), substituted “482,400” for “480,000”.
+
+Subsec. (b)(2). Pub. L. 108–136, §402(2), substituted “373,800” for “375,700”.
+
+Subsec. (b)(4). Pub. L. 108–136, §402(3), substituted “359,300” for “359,000”.
+
+2002—Subsec. (b)(2) to (4). Pub. L. 107–314, §402(a), substituted “375,700” for “376,000” in par. (2), “175,000” for “172,600” in par. (3), and “359,000” for “358,800” in par. (4).
+
+Subsec. (e). Pub. L. 107–314, §402(b), struck out subsec. (e) which read as follows: “For a fiscal year for which the active duty end strength authorized by law pursuant to section 115(a)(1)(A) of this title for any of the armed forces is identical to or greater than the number applicable to that armed force under subsection (b), the Secretary of Defense may reduce that number by not more than 0.5 percent.”
 
 2001—Subsec. (b)(2). Pub. L. 107–107, §402(1), substituted “376,000” for “372,000”.
 
@@ -66,5 +76,9 @@ Pub. L. 106–65, div. A, title X, §1066(b), Oct. 5, 1999, 113 Stat. 772, provi
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title IV, §402(c), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments madeby this section \[amending this section\] shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title IV, §402(c), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

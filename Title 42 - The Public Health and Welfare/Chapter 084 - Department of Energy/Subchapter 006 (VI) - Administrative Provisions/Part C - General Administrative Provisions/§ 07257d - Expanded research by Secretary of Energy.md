@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In conjunction with the working group under section 247d–6(a) of this title, the Secretary of Energy and the Administrator of theNational Nuclear Security Administration shall expand, enhance, and intensify research relevant to the rapid detection and identification of pathogens likely to be used in a bioterrorism attack or other agents that may cause a public health emergency.
+&emsp;In conjunction with the working group under section 247d–6(a) of this title, the Secretary of Energy and the Administrator of the National Nuclear Security Administration shall expand, enhance, and intensify research relevant to the rapid detection and identification of pathogens likely to be used in a bioterrorism attack or other agents that may cause a public health emergency.
 
 #### (2) Authorized activities
 

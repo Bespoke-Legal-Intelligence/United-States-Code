@@ -12,15 +12,19 @@
 
 #### (b) Gifts
 
-Gifts or donations of services or property of or for the Department may not be accepted, used, or disposed of unless specifically permitted in advance in an appropriations Act and only under the conditions and for the purposes specified in such appropriations Act.
+Except as authorized by section 2601 of title 10 and by section 93 of title 14, gifts or donations of services or property of or for the Department may not be accepted, used, or disposed of unless specifically permitted in advance in an appropriations Act and only under the conditions andfor the purposes specified in such appropriations Act.
 
 #### (c) Budget request
 
 Under section 1105 of title 31, the President shall submit to Congress a detailed budget request for the Department for fiscal year 2004, and for each subsequent fiscal year.
 
-(Pub. L. 107–296, title VIII, §873, Nov. 25, 2002, 116 Stat. 2243.)
+(Pub. L. 107–296, title VIII, §873, Nov. 25, 2002, 116 Stat. 2243; Pub. L. 108–7, div. L, §103(3), Feb. 20, 2003, 117 Stat. 529.)
 
 #### Codification
 
 In subsec. (a)(1), “subchapter IV of chapter 5 of title 40” substituted for “section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### Amendments
+
+2003—Subsec. (b). Pub. L. 108–7 substituted “Except as authorized by section 2601 of title 10 and by section 93 of title 14, gifts” for “Gifts”.
 

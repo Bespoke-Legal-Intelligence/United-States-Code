@@ -86,7 +86,7 @@ In this subchapter:
 
 #### (10) Education activities
 
-&emsp;The term “education activities” means advocacy, capacity building, and systemic change activities that result in individuals with developmental disabilities being able to access appropriate supports and modifications when necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
+&emsp;The term “education activities” means advocacy, capacity building, and systemicchange activities that result in individuals with developmental disabilities being able to access appropriate supports and modifications when necessary, to maximize their educational potential, to benefit from lifelong educational activities, and to be integrated and included in all facets of student life.
 
 #### (11) Employment-related activities
 
@@ -164,7 +164,7 @@ In this subchapter:
 
 #### (18) Not-for-profit
 
-&emsp;The term “not-for-profit”, used with respect to an agency, institution, or organization,means an agency, institution, or organization that is owned or operated by 1 or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term “not-for-profit”, used with respect to an agency, institution, or organization, means an agency, institution, or organization that is owned or operated by 1 or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (19) Personal assistance services
 
@@ -238,7 +238,7 @@ In this subchapter:
 
 #### (28) State
 
-&emsp;The term “State”, except as otherwise provided, includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam,American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “State”, except as otherwise provided, includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (29) State Council on Developmental Disabilities
 
@@ -246,7 +246,7 @@ In this subchapter:
 
 #### (30) Supported employment services
 
-&emsp;The term “supported employment services” means services that enable individuals with developmental disabilities to perform competitive work in integrated work settings, in the case of individuals with developmental disabilities—
+&emsp;The term “supported employment services” means services that enable individuals withdevelopmental disabilities to perform competitive work in integrated work settings, in the case of individuals with developmental disabilities—
 
 &emsp;&emsp;(A)(i) for whom competitive employment has not traditionally occurred; or
 

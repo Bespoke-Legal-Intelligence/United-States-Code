@@ -36,7 +36,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1)of Pub. L. 97–248, set out as a note under section 5 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

@@ -6,7 +6,7 @@
 
 &emsp;(1) consider the average cost of common carrier transportation when prescribing a monetary allowance in place of transportation;
 
-&emsp;(2) consider the current economic data on the cost of subsistence, including lodging and other necessary incidental expenses related thereto, when prescribing per diem rates and designating areas as high cost areas; and
+&emsp;(2) consider the current economic data on the cost of subsistence, including lodging andother necessary incidental expenses related thereto, when prescribing per diem rates and designating areas as high cost areas; and
 
 &emsp;(3) consider the average cost of transportation and current economic data on the cost of subsistence, including lodging and other necessary incidental expenses relating thereto, when prescribing mileage allowances.
 
@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(c) (10th sentence), (f), (g), (h), 63 Stat. 814.
 
-In subsection (a), section 253(h) (provisos) of existing title 37 is omitted, since the regulations to which reference is made have been issued. The exceptions to sections 404(c) and 406(g) are inserted, since the sourcetext for those subsections require regulations prescribed thereunder to be uniform.
+In subsection (a), section 253(h) (provisos) of existing title 37 is omitted, since the regulations to which reference is made have been issued. The exceptions to sections 404(c) and 406(g) are inserted, since the source text for those subsections require regulations prescribed thereunder to be uniform.
 
 In subsections (c) and (d), the words “for the purposes of the sections of this title designated by subsection (a) of this section” are inserted to clarify the coverage of the source statute.
 

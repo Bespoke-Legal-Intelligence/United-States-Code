@@ -34,7 +34,7 @@ Regulation of unregulated contaminants.—
 
 Listing of contaminants for consideration.—(I) Not later than 18 months after August 6, 1996, and every 5 years thereafter, the Administrator, after consultation with the scientific community, including the Science Advisory Board, after notice and opportunity for public comment, and after considering the occurrence data base established under section 300j–4(g) of this title, shall publish a list of contaminants which, at the time of publication, are not subject to any proposed or promulgated national primary drinking water regulation, which are known or anticipated to occur in public water systems, and which may require regulation under this subchapter.
 
-&emsp;&emsp;(II) The unregulated contaminants considered under subclause (I) shall include, butnot be limited to, substances referred to in section 9601(14) of this title, and substances registered as pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
+&emsp;&emsp;(II) The unregulated contaminants considered under subclause (I) shall include, but not be limited to, substances referred to in section 9601(14) of this title, and substances registered as pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
 &emsp;&emsp;(III) The Administrator's decision whether or not to select an unregulated contaminant for a list under this clause shall not be subject to judicial review.
 
@@ -58,7 +58,7 @@ Priorities.—In selecting unregulated contaminants for consideration under subp
 
 &emsp;(D)
 
-Urgent threats to public health.—The Administrator may promulgate an interim national primary drinking water regulation for a contaminant without making a determination for the contaminant under paragraph (4)(C), or completing the analysis under paragraph (3)(C), to address an urgent threat to public health as determined by the Administrator after consultation with and written response to any comments provided by the Secretary of Health and Human Services, acting through the director of the Centers for Disease Control and Prevention or the director of the National Institutes of Health. A determination for any contaminant in accordance with paragraph (4)(C) subject to an interim regulation under this subparagraph shall be issued, and a completed analysis meeting the requirements of paragraph (3)(C) shall be published, not later than 3 years after the date on which the regulation is promulgated and the regulation shall be repromulgated, or revised if appropriate, not later than 5 years after that date.
+Urgent threats to public health.—The Administrator may promulgate an interim national primary drinking water regulation for a contaminant without making a determination for the contaminant under paragraph (4)(C), or completing the analysis under paragraph (3)(C), to address an urgent threat to publichealth as determined by the Administrator after consultation with and written response to any comments provided by the Secretary of Health and Human Services, acting through the director of the Centers for Disease Control and Prevention or the director of the National Institutes of Health. A determination for any contaminant in accordance with paragraph (4)(C) subject to an interim regulation under this subparagraph shall be issued, and a completed analysis meeting the requirements of paragraph (3)(C) shall be published, not later than 3 years after the date on which the regulation is promulgated and the regulation shall be repromulgated, or revised if appropriate, not later than 5 years after that date.
 
 &emsp;(E)
 
@@ -122,7 +122,7 @@ Health risk reduction and cost analysis.—
 
 &emsp;&emsp;(i)
 
-Maximum contaminant levels.—When proposing any national primary drinking water regulation that includes a maximum contaminant level, the Administrator shall, with respect to a maximum contaminant level that is being considered in accordance with paragraph (4) and each alternative maximum contaminant level that is being considered pursuant to paragraph (5) or (6)(A), publish, seek public comment on, and use for the purposes of paragraphs (4), (5), and (6) an analysis of each of the following:
+Maximum contaminant levels.—When proposing any national primary drinking water regulation that includes a maximumcontaminant level, the Administrator shall, with respect to a maximum contaminant level that is being considered in accordance with paragraph (4) and each alternative maximum contaminant level that is being considered pursuant to paragraph (5) or (6)(A), publish, seek public comment on, and use for the purposes of paragraphs (4), (5), and (6) an analysis of each of the following:
 
 &emsp;&emsp;&emsp;(I) Quantifiable and nonquantifiable health risk reduction benefits for which there is a factual basis in the rulemaking record to conclude that such benefits are likely to occur as the result of treatment to comply with each level.
 
@@ -148,7 +148,7 @@ Approaches to measure and value benefits.—The Administrator may identify valid
 
 &emsp;&emsp;(iv)
 
-Authorization.—There are authorized to be appropriated to the Administrator,acting through the Office of Ground Water and Drinking Water, to conduct studies, assessments, and analyses in support of regulations or the development of methods, $35,000,000 for each of fiscal years 1996 through 2003.
+Authorization.—There are authorized to be appropriated to the Administrator, acting through the Office of Ground Water and Drinking Water, to conduct studies, assessments, and analyses in support of regulations or the development of methods, $35,000,000 for each of fiscal years 1996 through 2003.
 
 (4)
 
@@ -180,7 +180,7 @@ In general.—Each national primary drinking water regulation which establishes 
 
 &emsp;&emsp;(ii)
 
-List of technologies for small systems.—The Administrator shall include in the list any technology, treatment technique, or other means that is affordable, as determined by the Administrator in consultation with the States, for small public water systems serving—
+List of technologies for small systems.—The Administrator shall include in the list any technology, treatment technique, or other means that is affordable, asdetermined by the Administrator in consultation with the States, for small public water systems serving—
 
 &emsp;&emsp;&emsp;(I) a population of 10,000 or fewer but more than 3,300;
 
@@ -314,7 +314,7 @@ Sulfate.—
 
 &emsp;&emsp;(i)
 
-Additional study.—Prior to promulgating a national primary drinking water regulation for sulfate, the Administratorand the Director of the Centers for Disease Control and Prevention shall jointly conduct an additional study to establish a reliable dose-response relationship for the adverse human health effects that may result from exposure to sulfate in drinking water, including the health effects that may be experienced by groups within the general population (including infants and travelers) that are potentially at greater risk of adverse health effects as the result of such exposure. The study shall be conducted in consultation with interested States, shall be based on the best available, peer-reviewed science and supporting studies conducted in accordance with sound and objective scientific practices, and shall be completed not later than 30 months after August 6, 1996.
+Additional study.—Prior to promulgating a national primary drinking water regulation for sulfate, the Administrator and the Director of the Centers for Disease Control and Prevention shall jointly conduct an additional study to establish a reliable dose-response relationship for the adverse human health effects that may result from exposure to sulfate in drinking water, including the health effects that may be experienced by groups within the general population (including infants and travelers) that are potentially at greater risk of adverse health effects as the result of such exposure. The study shall be conducted in consultation with interested States, shall be based on the best available, peer-reviewed science and supporting studies conducted in accordance with sound and objective scientific practices, and shall be completed not later than 30 months after August 6, 1996.
 
 &emsp;&emsp;(ii)
 
@@ -386,7 +386,7 @@ Review.—The Administrator shall periodically, but not less often than every 5 
 
 &emsp;&emsp;(v)
 
-Extension.—If, within 90 days after the promulgation of an alternative maximum contaminant level under subparagraph (F), the Governor of a State submits a letter to the Administrator committing to develop a multimedia mitigation program under this subparagraph, the effective date of the national primary drinking water regulation for radon in the State that would be applicable under paragraph (10) shall be extended for a period of 18 months.
+Extension.—If, within 90 days after the promulgation of an alternative maximum contaminant level under subparagraph (F), the Governor of a State submits a letter to the Administrator committing to develop amultimedia mitigation program under this subparagraph, the effective date of the national primary drinking water regulation for radon in the State that would be applicable under paragraph (10) shall be extended for a period of 18 months.
 
 &emsp;&emsp;(vi)
 

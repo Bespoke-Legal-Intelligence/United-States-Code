@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 107, 1734 of this title; title 26 section 6334.
+This subchapter is referred to in section 107 of this title; title 26 section 6334.
 
 
 ---

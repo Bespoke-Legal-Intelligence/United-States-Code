@@ -12,7 +12,7 @@
 
 (2) This section does not prohibit the employment of any individual in any position other than that of a law enforcement officer.
 
-(d) If the conviction is overturned on appeal, the removal shall be set aside retroactively to the date on which the removal occurred, withback pay under section 5596 for the period during which the removal was in effect, unless the removal was properly effected other than under this section.
+(d) If the conviction is overturned on appeal, the removal shall be set aside retroactively to the date on which the removal occurred, with back pay under section 5596 for the period during which the removal was in effect, unless the removal was properly effected other than under this section.
 
 (e)(1) If removal is required under this section, the agency shall deliver written notice to the employee as soon as practicable, and not later than 5 calendar days after the conviction notice date. The notice shall include a description of the specific reasons for the removal, the date of removal, and the procedures made applicable under paragraph (2).
 
@@ -24,7 +24,7 @@
 
 &emsp;(C) the conviction was overturned on appeal.
 
-(3) A removal required under this section shall occur on the date specified in subsection (b) regardless of whether the notice required under paragraph (1) of this subsection and the procedures made applicable under paragraph (2) of this subsection have been provided or completed by that date.
+(3) A removal required under this section shall occur on the date specified in subsection (b) regardless of whether the notice required underparagraph (1) of this subsection and the procedures made applicable under paragraph (2) of this subsection have been provided or completed by that date.
 
 (Added Pub. L. 106–554, §1(a)(3) \[title VI, §639(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–168.)
 

@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(B) The authority to authorize a foreign government to construct and operate a radio station at the seat of Government of the United States, but only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Commission.
 
-&emsp;&emsp;(C) Functions relating to the communications satellite system, including authority vested in the President by section 201(a) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)) and delegated to the Secretary under Executive Order 12046, to—
+&emsp;&emsp;(C) Functions relating to the communications satellite system, including authority vested in the President by section 201(a) of the Communications Satellite Act of 1962 (47U.S.C. 721(a)) and delegated to the Secretary under Executive Order 12046, to—
 
 &emsp;&emsp;&emsp;(i) aid in the planning and development of the commercial communications satellite system and the execution of a national program for the operation of such a system;
 
 &emsp;&emsp;&emsp;(ii) conduct a continuous review of all phases of the development and operation of such system, including the activities of the Corporation;
 
-&emsp;&emsp;&emsp;(iii) coordinate, in consultation with the Secretary of State, the activities of governmental agencies with responsibilities inthe field of telecommunications, so as to ensure that there is full and effective compliance at all times with the policies set forth in the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\];
+&emsp;&emsp;&emsp;(iii) coordinate, in consultation with the Secretary of State, the activities of governmental agencies with responsibilities in the field of telecommunications, so as to ensure that there is full and effective compliance at all times with the policies set forth in the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\];
 
 &emsp;&emsp;&emsp;(iv) make recommendations to the President and others as appropriate, with respect to steps necessary to ensure the availability and appropriate utilization of the communications satellite system for general governmental purposes in consonance with section 201(a)(6) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)(6)); <sup>1</sup>
 

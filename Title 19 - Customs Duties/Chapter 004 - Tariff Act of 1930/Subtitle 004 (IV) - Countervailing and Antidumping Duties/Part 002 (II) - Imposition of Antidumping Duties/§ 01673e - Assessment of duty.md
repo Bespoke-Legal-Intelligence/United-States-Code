@@ -18,7 +18,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (1) General rule
 
-&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to theimposition of antidumping duties under section 1673 of this title.
+&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which,but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to the imposition of antidumping duties under section 1673 of this title.
 
 #### (2) Special rule
 
@@ -70,7 +70,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 &emsp;&emsp;(A) make all business proprietary information supplied to the administering authority under paragraph (1) available under a protective order in accordance with section 1677f(c) of this title to all interested parties described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title, and
 
-&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security under paragraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
+&emsp;&emsp;(B) afford all interested parties an opportunity to file written comments on whether the posting of bond or other security underparagraph (1) in lieu of the deposit of estimated antidumping duties should be permitted.
 
 #### (d) Special rule for regional industries
 

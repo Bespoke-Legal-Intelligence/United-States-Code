@@ -12,7 +12,7 @@ For the purpose of this title–
 
 > &emsp;and who has been separated from the armed forces under honorable conditions;
 
-&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disabilityretirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
+&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
 
 &emsp;(3) “preference eligible” means, except as provided in paragraph (4) of this section—
 
@@ -44,7 +44,7 @@ For the purpose of this title–
 
 > &emsp;but does not include applicants for, or members of, the Senior Executive Service, the Defense Intelligence Senior Executive Service, the Senior Cryptologic Executive Service, or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
 
-&emsp;(4) except for the purposes of chapters 43 and 75 of this title, “preference eligible” does not include a retired member of the armed forces unless—
+&emsp;(4) except for the purposes of chapters 43 and 75 of this title, “preference eligible” does notinclude a retired member of the armed forces unless—
 
 &emsp;&emsp;(A) the individual is a disabled veteran; or
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 90–623 effective Sept. 11, 1967, for all purposes, see se
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

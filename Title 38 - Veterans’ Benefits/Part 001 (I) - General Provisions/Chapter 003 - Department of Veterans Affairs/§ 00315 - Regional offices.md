@@ -2,9 +2,9 @@
 
 (a) The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-(b) The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2003.
+(b) The Secretary may maintain a regional office in the Republic of the Philippines until December 31, 2009.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 384; amended Pub. L. 102–291, §1(a), May 20, 1992, 106 Stat. 178; Pub. L. 103–210, §2(c), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title V, §502, Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title VIII, §802, Nov. 30, 1999, 113 Stat. 1586.)
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 384; amended Pub. L. 102–291, §1(a), May 20, 1992, 106 Stat. 178; Pub. L. 103–210, §2(c), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 103–446, title V, §502, Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title VIII, §802, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title II, §213, Dec. 16, 2003, 117 Stat. 2658.)
 
 #### Prior Provisions
 
@@ -13,6 +13,8 @@ Prior section 315 was renumbered section 1115 of this title.
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, §2(a).
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–183 substituted “December 31, 2009” for “December 31, 2003”.
 
 1999—Subsec. (b). Pub. L. 106–117 substituted “December 31, 2003” for “December 31, 1999”.
 

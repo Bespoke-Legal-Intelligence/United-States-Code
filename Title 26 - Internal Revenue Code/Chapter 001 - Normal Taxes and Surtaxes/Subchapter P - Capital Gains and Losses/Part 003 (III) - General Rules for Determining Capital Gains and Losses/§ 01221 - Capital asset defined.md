@@ -128,7 +128,7 @@ Section 514(c) of Pub. L. 91–172 provided that: “The amendments made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 198, 263A, 267, 341, 367, 543, 707, 751, 775, 818, 856, 857, 864, 865, 954, 995, 1092, 1223, 1231, 1234, 1234B, 1248, 1256, 1362, 1397C, 4662, 7704 of this title.
+This section is referred to in sections 170, 198, 263A, 267, 367, 543, 707, 751, 775, 818, 856, 857, 864, 865, 954, 995, 1092, 1223, 1231, 1234, 1234B, 1248, 1256, 1362, 1397C, 4662, 7704 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “who”.</i>
 

@@ -172,7 +172,7 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, whichamended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
@@ -192,7 +192,7 @@ Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesign
 
 1959—Subsec. (a). Pub. L. 86–197, §§(1), (2), redesignated cls. (D) to (F) as (E) to (G), and added cls. (D), (H), (I), and (J), and provisions requiring, for the purpose of cls. (A), (B), and (C), service in the National Guard to be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
-Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated former par. (6) as (7), and prohibited thecounting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
+Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated former par. (6) as (7), and prohibited the counting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
 
 1958—Subsec. (a). Pub. L. 85–861 substituted “full-time service under” for “service under”, and inserted reference to section 502 of this title in cl. (2)(A)(ii).
 
@@ -256,5 +256,5 @@ Section 15 of Pub. L. 85–861 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1063, 1176, 1209, 1482, 2126, 6389, 12308, 12503, 12642, 12646, 12731, 12731a, 12731b, 12733, 14704 of this title; title 5 section 3329; title 32 section 115.
+This section is referred to in sections 1063, 1176, 1209, 1414, 1482, 2126, 6389, 12308, 12503, 12642, 12646, 12731, 12731a, 12731b, 12733, 14704 of this title; title 5 section 3329; title 20 section 6673; title 32 section 115; title 37 section 203.
 

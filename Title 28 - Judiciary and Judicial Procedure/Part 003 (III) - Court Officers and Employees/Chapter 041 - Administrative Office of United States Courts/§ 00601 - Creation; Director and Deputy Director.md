@@ -38,7 +38,7 @@ In general.—Subject to paragraphs (2) and (3), the Judicial Conference of the 
 
 “(2)
 
-Procedures.—Under the procedures, a preference eligible (as defined by section 2108 of title 5, United States Code) shall be afforded preferences in a manner and to the extent consistent with preferences afforded to preference eligibles in the executive branch.
+Procedures.—Under the procedures, a preference eligible (as defined by section 2108 of title 5, UnitedStates Code) shall be afforded preferences in a manner and to the extent consistent with preferences afforded to preference eligibles in the executive branch.
 
 “(3)
 

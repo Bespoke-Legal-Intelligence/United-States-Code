@@ -112,7 +112,7 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility andWork Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 

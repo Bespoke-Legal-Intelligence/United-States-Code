@@ -24,7 +24,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(II) who is in the process of being admitted to a facility rendering care or treatment, including persons being transported to such a facility; or”; <sup>2</sup>
 
-&emsp;&emsp;(III) who is involuntarily confined in a municipal detention facility for reasons other than serving a sentence resulting from conviction for a criminal offense; or
+&emsp;&emsp;(III) who is involuntarily confined in a municipal detention facility for reasons otherthan serving a sentence resulting from conviction for a criminal offense; or
 
 &emsp;&emsp;(ii) who satisfies the requirements of subparagraph (A) and lives in a community setting, including their own home.
 
@@ -34,7 +34,7 @@ For purposes of this subchapter:
 
 &emsp;(7) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 
-&emsp;(8) The term “American Indian consortium” means a consortium established under part Cof the Developmental Disabilities Assistance and Bill of Rights Act <sup>3</sup> (42 U.S.C. 6042 et seq.).
+&emsp;(8) The term “American Indian consortium” means a consortium established under part C of the Developmental Disabilities Assistance and Bill of Rights Act <sup>3</sup> (42 U.S.C. 6042 et seq.).
 
 (Pub. L. 99–319, title I, §102, May 23, 1986, 100 Stat. 478; Pub. L. 100–509, §3, Oct. 20, 1988, 102 Stat. 2543; Pub. L. 102–173, §§4, 10(1), Nov. 27, 1991, 105 Stat. 1217, 1219; Pub. L. 106–310, div. B, title XXXII, §3206(b), Oct. 17, 2000, 114 Stat. 1194; Pub. L. 106–402, title IV, §401(b)(13)(A), Oct. 30, 2000, 114 Stat. 1739.)
 

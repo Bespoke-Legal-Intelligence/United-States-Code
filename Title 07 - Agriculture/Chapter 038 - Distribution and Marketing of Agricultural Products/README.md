@@ -22,7 +22,7 @@
 | (n) | General research, services, and activities. |
 | [1622a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001622a%20-%20Authority%20to%20assist%20farmers%20and%20elevator%20operators.md) | Authority to assist farmers and elevator operators. |
 | [1623\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001623%20-%20Authorization%20of%20appropriations%3B%20allotments%20to%20States.md) | Authorization of appropriations; allotments to States. |
-| [1623a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001623a%20-%20Minimum%20sum%20for%20contracting.md) | Minimum sum for contracting. |
+| [1623a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001623a%20-%20Omitted.md) | Omitted. |
 | [1624\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001624%20-%20Cooperation%20with%20Government%20and%20State%20agencies%2C%20private%20research%20organizations%2C%20etc.%3B%20rules%20and%20regulations.md) | Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations. |
 | [1625\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001625%20-%20Transfer%20and%20consolidation%20of%20functions%2C%20powers%2C%20bureaus%2C%20etc.md) | Transfer and consolidation of functions, powers, bureaus, etc. |
 | [1626\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001626%20-%20Definitions.md) | Definitions. |
@@ -178,7 +178,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 198b, 1623a, 6104 of this title; title 21 section 1033.
+This chapter is referred to in sections 198b, 6104 of this title; title 21 section 1033.
 
 
 ---

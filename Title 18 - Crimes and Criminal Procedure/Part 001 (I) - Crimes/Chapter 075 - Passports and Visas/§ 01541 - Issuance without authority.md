@@ -1,6 +1,6 @@
 ### §1541. Issuance without authority
 
-Whoever, acting or claiming to act in any office or capacity under the United States, or aState, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
+Whoever, acting or claiming to act in any office or capacity under the United States, or a State, without lawful authority grants, issues, or verifies any passport or other instrument in the nature of a passport to or for any person whomsoever; or
 
 Whoever, being a consular officer authorized to grant, issue, or verify passports, knowingly and willfully grants, issues, or verifies any such passport to or for any person not owing allegiance, to the United States, whether a citizen or not—
 
@@ -34,7 +34,7 @@ Pub. L. 103–322, §130009(a)(1), substituted “under this title, imprisoned n
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, seesection 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Section Referred to in Other Sections
 

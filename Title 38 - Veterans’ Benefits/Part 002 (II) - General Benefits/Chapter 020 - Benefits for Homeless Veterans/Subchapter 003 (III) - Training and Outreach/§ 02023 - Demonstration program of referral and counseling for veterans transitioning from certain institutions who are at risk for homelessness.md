@@ -6,7 +6,7 @@ Program Authority.—The Secretary and the Secretary of Labor (hereinafter in th
 
 (b)
 
-Location of Demonstration Program.—The demonstration program shall be carried out in at least six locations. One location shall be apenal institution under the jurisdiction of the Bureau of Prisons.
+Location of Demonstration Program.—The demonstration program shall be carried out in at least six locations. One location shall be a penal institution under the jurisdiction of the Bureau of Prisons.
 
 (c)
 
@@ -18,7 +18,7 @@ Scope of Program.—(1) To the extent practicable, the demonstration program sha
 
 (3) The Secretaries may enter into contracts to carry out the referral and counseling services required under the program with entities or organizations that meet such requirements as the Secretaries may establish.
 
-(4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and such other officials as the Secretaries determine appropriate.
+(4) In developing the program, the Secretaries shall consult with officials of the Bureau of Prisons, officials of penal institutions of States and political subdivisions of States, and suchother officials as the Secretaries determine appropriate.
 
 (d)
 

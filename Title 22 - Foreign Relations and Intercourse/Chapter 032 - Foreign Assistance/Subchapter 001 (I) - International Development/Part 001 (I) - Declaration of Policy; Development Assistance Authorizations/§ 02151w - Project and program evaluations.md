@@ -4,7 +4,7 @@
 
 (b) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.
 
-(Pub. L. 87–195, pt. I, §125, as added Pub. L. 95–424, title I, §113, Oct. 6, 1978, 92 Stat. 950;amended Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 87–195, pt. I, §125, as added Pub. L. 95–424, title I, §113, Oct. 6, 1978, 92 Stat. 950; amended Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

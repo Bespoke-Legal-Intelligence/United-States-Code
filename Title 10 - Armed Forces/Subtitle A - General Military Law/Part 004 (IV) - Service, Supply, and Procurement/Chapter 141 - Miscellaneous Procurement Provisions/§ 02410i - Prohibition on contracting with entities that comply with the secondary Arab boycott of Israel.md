@@ -18,7 +18,7 @@ Waiver Authority.—The Secretary of Defense may waive the prohibition in subsec
 
 Exceptions.—Subsection (b) does not apply—
 
-&emsp;(1) to contracts for consumable supplies, provisions, or services that are intended to be used for the support of United States forces or of allied forces in a foreign country; or
+&emsp;(1) to contracts for consumable supplies, provisions, or services that are intended to beused for the support of United States forces or of allied forces in a foreign country; or
 
 &emsp;(2) to contracts pertaining to the use of any equipment, technology, data, or services for intelligence or classified purposes by the United States Government in the interests of national security or to the acquisition or lease of any such equipment, technology, data, or services by the United States Government in the interests of national security.
 

@@ -58,7 +58,7 @@
 
 #### (1) Designation
 
-&emsp;(A) The Secretary shall, in consultation with the Secretary of the Interior, designate one or more Onsite Coordinators for an unusual mortality event, who shall make immediate recommendations to the stranding network participants on how to proceed with response activities.
+&emsp;(A) The Secretary shall, in consultation with the Secretary of the Interior, designateone or more Onsite Coordinators for an unusual mortality event, who shall make immediate recommendations to the stranding network participants on how to proceed with response activities.
 
 &emsp;(B) An Onsite Coordinator so designated shall be one or more appropriate Regional Directors of the National Marine Fisheries Service or the United States Fish and Wildlife Service, or their designees.
 

@@ -32,7 +32,7 @@
 
 #### (2) Non-Federal contribution in excess of 35 percent
 
-&emsp;At any time during construction of a project, if the Secretary determines that the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
+&emsp;At any time during construction of a project, if the Secretary determines that thecosts of land, easements, rights-of-way, dredged material disposal areas, and relocations for the project, in combination with other costs contributed by the non-Federal interests, will exceed 35 percent, any additional costs for the project (not to exceed 65 percent of the total costs of the project) shall be a Federal responsibility and shall be contributed during construction as part of the Federal share.
 
 #### (c) Other purposes
 
@@ -104,7 +104,7 @@ For purposes of this Act, the term “separable element” means a portion of a 
 
 #### (g) Deferral of payment
 
-(1) With respect to the projects listed in paragraph (2), no amount of the non-Federal share required under this section shall be required to be paid during the three-year period beginning on November 17, 1986.
+(1) With respect to the projects listed in paragraph (2), no amount of the non-Federal sharerequired under this section shall be required to be paid during the three-year period beginning on November 17, 1986.
 
 (2) The projects referred to in paragraph (1) are the following:
 
@@ -252,11 +252,11 @@ Amendment of cooperation agreement.—If requested by the non-Federal interest, 
 
 Non-federal option.—If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 \[subsec. (m) of this section\] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
 
-Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending this section\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
+Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by subsection (a) \[amending thissection\] apply only to projects authorized after the date of the enactment of this Act \[Oct. 12, 1996\].”
 
 #### Continuation of Existing Regulations
 
-Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carry out section 103(m) of the WaterResources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
+Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
 
 #### Reports to Congress
 

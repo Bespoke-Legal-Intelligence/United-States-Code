@@ -2,7 +2,7 @@
 
 #### (a) Consolidation of departments, bureaus, etc.; popular election of school board members
 
-The Governor shall, within one year after July 22, 1954, reorganize and consolidate the existing executive departments, bureaus, independent boards, agencies, authorities, commissions, and other instrumentalities of the government of the Virgin Islands or of the municipal governments into not more than nine executive departments except for independent bodies whose existence may be required by Federal law for participation in Federal programs. The head of each executive department other than the department of law shall be designated as the commissioner thereof, and the commissioner of finance shall be bonded. The head of the department of law shall be known as the attorney general of the Virgin Islands. Members of school boards,which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
+The Governor shall, within one year after July 22, 1954, reorganize and consolidate the existing executive departments, bureaus, independent boards, agencies, authorities, commissions, and other instrumentalities of the government of the Virgin Islands or of the municipal governments into not more than nine executive departments except for independent bodies whose existence may be required by Federal law for participation in Federal programs. The head of each executive department other than the department of law shall be designated as the commissioner thereof, and the commissioner of finance shall be bonded. The head of the department of law shall be known as the attorney general of the Virgin Islands. Members of school boards, which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
 
 #### (b) Changes after examination from time to time
 
@@ -24,5 +24,5 @@ The heads of the executive departments created by this chapter shall be appointe
 
 #### Effective Date of 1968 Amendment
 
-Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
+Amendment of provisions of section necessary to authorize the holding of an election for Governor andLieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
 

@@ -56,7 +56,7 @@ Upon request by the chairperson of the Interagency Committee, the head of any Fe
 
 #### Codification
 
-December 2, 1997, referred to in subsec. (a)(2)(A), was in the original “the date of enactment of the Small Business Administration Reauthorization Act of 1997” and December 2, 1997, referred to in subsec. (b), was in the original “enactment of the Small Business Administration Reauthorization Act of 1997”, both of which were translated as meaning the date of enactment of the Small Business Reauthorization Act of 1997, Pub. L.105–135, which was approved Dec. 2, 1997, to reflect the probable intent of Congress.
+December 2, 1997, referred to in subsec. (a)(2)(A), was in the original “the date of enactment of the Small Business Administration Reauthorization Act of 1997” and December 2, 1997, referred to in subsec. (b), was in the original “enactment of the Small Business Administration Reauthorization Act of 1997”, both of which were translated as meaning the date of enactment of the Small Business Reauthorization Act of 1997, Pub. L. 105–135, which was approved Dec. 2, 1997, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

@@ -24,11 +24,11 @@ When the Senate is considering a conference report on, or an amendment between t
 
 &emsp;(2) such point of order being sustained,
 
-> such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of order is sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
+> such material contained in such conference report or amendment shall be deemed stricken, and the Senate shall proceed, without intervening action or motion, to consider the question of whether the Senate shall recede from its amendment and concur with a further amendment, or concur in the House amendment with a further amendment, as the case may be, which further amendment shall consist of only that portion of the conference report or House amendment, as the case may be, not so stricken. Any such motion in the Senate shall be debatable for two hours. In any case in which such point of orderis sustained against a conference report (or Senate amendment derived from such conference report by operation of this subsection), no further amendment shall be in order.
 
 #### (e) General point of order
 
-Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisionsagainst which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.
+Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisions against which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.
 
 (Pub. L. 93–344, title III, §313, formerly Pub. L. 99–272, title XX, §20001, Apr. 7, 1986, 100 Stat. 390, as amended Pub. L. 99–509, title VII, §7006, Oct. 21, 1986, 100 Stat. 1949; Pub. L. 100–119, title II, §205(a), (b), Sept. 29, 1987, 101 Stat. 784; renumbered §313 of Pub. L. 93–344 and amended Pub. L. 101–508, title XIII, §13214(a)–(b)(4), Nov. 5, 1990, 104 Stat. 1388–621, 1388–622; Pub. L. 105–33, title X, §10113(b)(1), Aug. 5, 1997, 111 Stat. 688.)
 
@@ -38,13 +38,13 @@ Prior to redesignation by Pub. L. 101–508, this section was section 20001 of P
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
+<b>1997</b>—Subsec. (c). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
 
 Subsec. (d). Pub. L. 105–33, §10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 105–33, §10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
 
-1990—Pub. L. 101–508, §13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
+<b>1990</b>—Pub. L. 101–508, §13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
 
 Pub. L. 101–508, §13214(b)(1), redesignated section 20001 of Pub. L. 99–272 as this section.
 
@@ -90,11 +90,11 @@ Subsec. (d). Pub. L. 101–508, §13214(b)(2)(C), redesignated subsec. (f) as (d
 
 Subsecs. (e) to (g). Pub. L. 101–508, §13214(a)(8), (b)(2)(C), added subsecs. (e) to (g) and redesignated them as subsecs. (c) to (e), respectively.
 
-1987—Subsec. (c). Pub. L. 100–119, §205(a), substituted “September 30, 1992” for “January 2, 1988”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–119, §205(a), substituted “September 30, 1992” for “January 2, 1988”.
 
 Subsec. (d)(1)(E). Pub. L. 100–119, §205(b), which directed that cl. (E) be added to subsec. (d)(1)(A), was executed to subsec. (d)(1), as the probable intent of Congress.
 
-1986—Subsec. (c). Pub. L. 99–509, §7006(b), substituted “January 2, 1988” for “January 2, 1987”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–509, §7006(b), substituted “January 2, 1988” for “January 2, 1987”.
 
 Pub. L. 99–509, §7006(c), substituted “section 20001” for “section 1201” in Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985. See 1990 Amendment note above.
 

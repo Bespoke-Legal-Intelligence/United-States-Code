@@ -26,7 +26,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (2) Priorities for offset
 
-&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) <sup>1</sup> of the Social Security Act and before such overpayment is reduced pursuant to subsection (e) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpaymentby such person shall be applied against such debts in the order in which such debts accrued.
+&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) <sup>1</sup> of the Social Security Act and before such overpayment is reduced pursuant to subsection (e) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
 #### (3) Treatment of OASDI overpayments
 
@@ -100,7 +100,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;&emsp;(C) considers any evidence presented by such person and determines that an amount of such debt is past-due and legally enforceable; and
 
-&emsp;&emsp;(D) satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C)is valid and that the State has made reasonable efforts to obtain payment of such State income tax obligation.
+&emsp;&emsp;(D) satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C) is valid and that the State has made reasonable efforts to obtain payment of such State income tax obligation.
 
 #### (5) Past-due, legally enforceable State income tax obligation
 
@@ -136,7 +136,7 @@ For purposes of this section, the term “Federal agency” means a department, 
 
 #### (h) Treatment of payments to States
 
-The Secretary may provide that, for purposes of determining interest, the payment of any amount withheld under subsection (c) or (e) to a State shall be treated as a payment to the person or persons making the overpayment.
+The Secretary may provide that, for purposes of determining interest, the payment of anyamount withheld under subsection (c) or (e) to a State shall be treated as a payment to the person or persons making the overpayment.
 
 #### (i) Cross reference
 

@@ -4,7 +4,7 @@
 
 #### (1) Stand-alone assistance
 
-&emsp;The Corporation, in its sole discretion and on such terms and conditions as the Board of Directors may prescribe, may make loans to, purchase the assets or securities of, assume the liabilities of, or make contributions to, any insured System bank if such action is taken—
+&emsp;The Corporation, in its sole discretion and on such terms and conditions as the Board ofDirectors may prescribe, may make loans to, purchase the assets or securities of, assume the liabilities of, or make contributions to, any insured System bank if such action is taken—
 
 &emsp;&emsp;(A) to prevent the placing of the bank in receivership;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) is, in the judgment of the Board of Directors, in danger of being placed in receivership; or
 
-&emsp;&emsp;&emsp;(iii) is, in the sole discretion of the Corporation, an insured System bank that,when severe financial conditions exist that threaten the stability of a significant number of insured System banks or of insured System banks possessing significant financial resources, requires assistance under subparagraph (A) to lessen the risk to the Corporation posed by such insured System bank under such threat of instability.
+&emsp;&emsp;&emsp;(iii) is, in the sole discretion of the Corporation, an insured System bank that, when severe financial conditions exist that threaten the stability of a significant number of insured System banks or of insured System banks possessing significant financial resources, requires assistance under subparagraph (A) to lessen the risk to the Corporation posed by such insured System bank under such threat of instability.
 
 #### (3) Limitation
 
@@ -110,7 +110,7 @@ Any agreement that shall diminish or defeat the right, title, or interest of the
 
 &emsp;(2) is executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank;
 
-&emsp;(3) has been approved by the board of directors of the bank or its loan committee, whichapproval shall be reflected in the minutes of the board or committee; and
+&emsp;(3) has been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of the board or committee; and
 
 &emsp;(4) has been, continuously, from the time of its execution, an official record of the bank.
 

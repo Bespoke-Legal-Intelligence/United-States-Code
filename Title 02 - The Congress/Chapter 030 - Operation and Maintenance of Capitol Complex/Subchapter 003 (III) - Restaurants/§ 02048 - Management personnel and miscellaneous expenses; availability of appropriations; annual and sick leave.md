@@ -10,9 +10,9 @@ Section was classified to section 174j–8 of former Title 40, prior to the enac
 
 #### Amendments
 
-1990—Pub. L. 101–509 substituted “5306” for “5307”.
+<b>1990</b>—Pub. L. 101–509 substituted “5306” for “5307”.
 
-1975—Pub. L. 94–59 inserted references to compensation of Director of Food Service, Assistant Director of Food Service, Manager (special functions), and Administrative Officer.
+<b>1975</b>—Pub. L. 94–59 inserted references to compensation of Director of Food Service, Assistant Director of Food Service, Manager (special functions), and Administrative Officer.
 
 #### Effective Date of 1990 Amendment
 

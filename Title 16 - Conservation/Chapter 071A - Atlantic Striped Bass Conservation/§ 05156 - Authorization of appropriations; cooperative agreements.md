@@ -10,7 +10,7 @@ For each of fiscal years 2001, 2002, and 2003, there are authorized to be approp
 
 #### (b) Cooperative agreements
 
-The Secretaries may enter into cooperative agreements with the Atlantic States Marine Fisheries Commission or with States, for the purpose of using amounts appropriated pursuant to this section to provide financial assistance for carrying out the purposes of this chapter.
+The Secretaries may enter into cooperative agreements with the Atlantic States MarineFisheries Commission or with States, for the purpose of using amounts appropriated pursuant to this section to provide financial assistance for carrying out the purposes of this chapter.
 
 (Pub. L. 98–613, §7, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 99–432, §4, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, §1, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 102–130, §2(b), Oct. 17, 1991, 105 Stat. 626; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2676; Pub. L. 106–555, title I, §101, Dec. 21, 2000, 114 Stat. 2765.)
 

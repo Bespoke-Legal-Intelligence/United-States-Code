@@ -50,7 +50,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
 
-&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery.
+&emsp;(14) to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate any harvest restrictions or recovery benefits fairly and equitablyamong the commercial, recreational, and charter fishing sectors in the fishery.
 
 #### (b) Discretionary provisions
 
@@ -166,7 +166,7 @@ Section 108(f) of the Sustainable Fisheries Act, referred to in subsec. (d)(5), 
 
 Subsec. (a)(5). Pub. L. 104–297, §108(a)(2), inserted “commercial, recreational, and charter fishing in” after “with respect to”.
 
-Subsec. (a)(7). Pub. L. 104–297, §108(a)(3), added par. (7) and struck out former par. (7) which read as follows:“include readily available information regarding the significance of habitat to the fishery and assessment as to the effects which changes to that habitat may have upon the fishery;”.
+Subsec. (a)(7). Pub. L. 104–297, §108(a)(3), added par. (7) and struck out former par. (7) which read as follows: “include readily available information regarding the significance of habitat to the fishery and assessment as to the effects which changes to that habitat may have upon the fishery;”.
 
 Subsec. (a)(9)(A). Pub. L. 104–297, §108(a)(5), inserted “and fishing communities” after “fisheries”.
 
@@ -236,7 +236,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended bythis section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
 
 &emsp;“(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or
 

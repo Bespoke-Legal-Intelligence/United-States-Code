@@ -6,7 +6,7 @@ Notwithstanding the provisions of sections 1314b(c) and 1314c(b) of this title, 
 
 #### Codification
 
-Section was not enacted as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.The first sentence of section 703 of Pub. L. 89–321 amended section 1314b(a) of this title.
+Section was not enacted as part of the Agricultural Adjustment Act of 1938 which comprises this chapter. The first sentence of section 703 of Pub. L. 89–321 amended section 1314b(a) of this title.
 
 #### Amendments
 

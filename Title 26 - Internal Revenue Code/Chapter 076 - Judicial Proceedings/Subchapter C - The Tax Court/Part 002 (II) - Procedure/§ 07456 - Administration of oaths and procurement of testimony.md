@@ -98,7 +98,7 @@ Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub
 
 #### References to Commissioners Deemed References to Special Trial Judges
 
-Section 464(e)(2) of Pub. L. 98–369 provided that: “Any reference in any law to a commissioner of the TaxCourt shall be treated as a reference to a special trial judge of the Tax Court.”
+Section 464(e)(2) of Pub. L. 98–369 provided that: “Any reference in any law to a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court.”
 
 #### Commissioners’ Salaries Pending Changes Under Federal Salary Act
 

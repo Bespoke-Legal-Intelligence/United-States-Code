@@ -809,6 +809,14 @@ Amount payable determined as of date of death.
 
 Limitations on benefits.
 
+(k)
+
+Death by heart attack or stroke; presumption.
+
+(<i>l</i>)
+
+Definition.
+
 |  |  |
 | :--- | ---: |
 | [3796a.](Subchapter%20012%20%28XII%29%20-%20Public%20Safety%20Officers%E2%80%99%20Death%20Benefits/Part%20A%20-%20Death%20Benefits/%C2%A7%2003796a%20-%20Limitations%20on%20benefits.md) | Limitations on benefits. |
@@ -2432,7 +2440,7 @@ Certification.
 
 #### Codification
 
-Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
+Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however,as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
 
 #### Chapter Referred to in Other Sections
 

@@ -48,7 +48,7 @@ Pub. L. 102–484, div. A, title VII, §711, Oct. 23, 1992, 106 Stat. 2433, prov
 
 “(a)
 
-Claims Processing System Required.—(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall provide by contract forthe operation of a claims processing system to be known as the ‘National Claims Processing System for CHAMPUS’. The Secretary may procure the system in installments, including the use of incremental modules. The system, including completion and integration of all modules, shall be in full operation not later than seven years after the date of the enactment of this Act \[Oct. 23, 1992\].
+Claims Processing System Required.—(1) The Secretary of Defense, in consultation with the other administering Secretaries, shall provide by contract for the operation of a claims processing system to be known as the ‘National Claims Processing System for CHAMPUS’. The Secretary may procure the system in installments, including the use of incremental modules. The system, including completion and integration of all modules, shall be in full operation not later than seven years after the date of the enactment of this Act \[Oct. 23, 1992\].
 
 “(2) The Secretary shall use competitive procedures for entering into any contract or contracts under paragraph (1).
 
@@ -68,7 +68,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 &emsp;“(3) The ability to process, adjudicate, and pay (by electronic or other means) such claims.
 
-&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the matters referred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
+&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the mattersreferred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
 
 “(c)
 

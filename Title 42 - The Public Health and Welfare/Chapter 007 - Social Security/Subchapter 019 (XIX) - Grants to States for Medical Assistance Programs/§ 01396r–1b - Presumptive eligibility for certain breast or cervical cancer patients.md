@@ -54,7 +54,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made; and
 
-&emsp;&emsp;(B) inform such individual at the time the determination is made that an application for medical assistance under the State plan is required to be made by not later than the last day of the month following the month during which the determination is made.
+&emsp;&emsp;(B) inform such individual at the time the determination is made that an application for medical assistance under the State planis required to be made by not later than the last day of the month following the month during which the determination is made.
 
 #### (3) Application for medical assistance
 

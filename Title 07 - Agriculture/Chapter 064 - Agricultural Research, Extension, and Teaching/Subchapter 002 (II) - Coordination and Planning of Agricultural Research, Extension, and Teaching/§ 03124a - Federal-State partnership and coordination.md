@@ -44,7 +44,7 @@ In order to promote research and education in food and human nutrition, the Secr
 
 #### (d) Designation of State agricultural experiment stations and Agricultural Research Service facilities; pilot projects; additional research
 
-To address more effectively the critical need for reducing farm input costs, improving soil, water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
+To address more effectively the critical need for reducing farm input costs, improving soil, water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing andmarketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
 
 #### (e) Applicability of Federal Advisory Committee Act
 
@@ -86,7 +86,7 @@ Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 
 
 Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

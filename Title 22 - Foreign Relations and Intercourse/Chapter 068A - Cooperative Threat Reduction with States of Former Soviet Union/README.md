@@ -43,6 +43,39 @@
 | (g) | Omitted. |
 | (h) | Limitation on use of funds until submission of multiyear plan. |
 | (i) | Report on Russian nonstrategic nuclear arms. |
+| [5960\.](%C2%A7%2005960%20-%20Limitation%20on%20use%20of%20funds%20until%20certain%20permits%20obtained.md) | Limitation on use of funds until certain permits obtained. |
+| (a) | In general. |
+| (b) | Use of funds for new construction projects. |
+| (c) | Identification of required permits for ongoing incomplete construction projects. |
+| (d) | Use of funds for certain incomplete construction projects. |
+| (e) | Exception to limitations on use of funds. |
+| (f) | Definitions. |
+| [5961\.](%C2%A7%2005961%20-%20Requirement%20for%20on-site%20managers.md) | Requirement for on-site managers. |
+| (a) | On-site manager requirement. |
+| (b) | Projects covered. |
+| (c) | Duties of on-site manager. |
+| (d) | Authority to manage more than one project. |
+| (e) | Steps or activities. |
+| (f) | Notification to Congress. |
+| (g) | Effective date. |
+| [5961a.](%C2%A7%2005961a%20-%20Requirement%20for%20on-site%20managers.md) | Requirement for on-site managers. |
+| (a) | On-site manager requirement. |
+| (b) | Projects covered. |
+| (c) | Duties of on-site manager. |
+| (d) | Authority to manage more than one project. |
+| (e) | Steps or activities. |
+| (f) | Notification to Congress. |
+| (g) | Permit defined. |
+| (h) | Effective date. |
+| [5962\.](%C2%A7%2005962%20-%20Annual%20certifications%20on%20use%20of%20facilities%20being%20constructed%20for%20Cooperative%20Threat%20Reduction%20projects%20or%20activities.md) | Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities. |
+| (a) | Certification on use of facilities being constructed. |
+| (b) | Applicability. |
+| [5963\.](%C2%A7%2005963%20-%20Authority%20to%20use%20Cooperative%20Threat%20Reduction%20funds%20outside%20the%20former%20Soviet%20Union.md) | Authority to use Cooperative Threat Reduction funds outside the former Soviet Union. |
+| (a) | Authority. |
+| (b) | Scope of authority. |
+| (c) | Limitation on total amount of obligation. |
+| (d) | Limitation on availability of funds. |
+| (e) | Additional limitations and requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,3 +97,8 @@ This chapter is referred to in sections 2295a, 6041 of this title.
 - [&sect; 05957 - &#8220;Appropriate congressional committees&#8221; defined](%C2%A7%2005957%20-%20%E2%80%9CAppropriate%20congressional%20committees%E2%80%9D%20defined.md)
 - [&sect; 05958 - Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union](%C2%A7%2005958%20-%20Authorization%20for%20additional%20fiscal%20year%201993%20assistance%20to%20independent%20states%20of%20the%20former%20Soviet%20Union.md)
 - [&sect; 05959 - Reports on activities and assistance under cooperative threat reduction programs](%C2%A7%2005959%20-%20Reports%20on%20activities%20and%20assistance%20under%20cooperative%20threat%20reduction%20programs.md)
+- [&sect; 05960 - Limitation on use of funds until certain permits obtained](%C2%A7%2005960%20-%20Limitation%20on%20use%20of%20funds%20until%20certain%20permits%20obtained.md)
+- [&sect; 05961 - Requirement for on-site managers](%C2%A7%2005961%20-%20Requirement%20for%20on-site%20managers.md)
+- [&sect; 05961a - Requirement for on-site managers](%C2%A7%2005961a%20-%20Requirement%20for%20on-site%20managers.md)
+- [&sect; 05962 - Annual certifications on use of facilities being constructed for Cooperative Threat Reduction projects or activities](%C2%A7%2005962%20-%20Annual%20certifications%20on%20use%20of%20facilities%20being%20constructed%20for%20Cooperative%20Threat%20Reduction%20projects%20or%20activities.md)
+- [&sect; 05963 - Authority to use Cooperative Threat Reduction funds outside the former Soviet Union](%C2%A7%2005963%20-%20Authority%20to%20use%20Cooperative%20Threat%20Reduction%20funds%20outside%20the%20former%20Soviet%20Union.md)

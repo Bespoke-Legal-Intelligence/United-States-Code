@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) A reasonable period ending after section 401(a)(11) applies to the participant.
 
-&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, the applicable period shall be a reasonable period after separation.
+&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, theapplicable period shall be a reasonable period after separation.
 
 #### (4) Requirement of spousal consent for using plan assets as security for loans
 
@@ -190,7 +190,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (i) Present value
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), for purposes of paragraphs (1) and (2), the present value shall not be less than thepresent value calculated by using the applicable mortality table and the applicable interest rate.
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), for purposes of paragraphs (1) and (2), the present value shall not be less than the present value calculated by using the applicable mortality table and the applicable interest rate.
 
 #### (ii) Definitions
 

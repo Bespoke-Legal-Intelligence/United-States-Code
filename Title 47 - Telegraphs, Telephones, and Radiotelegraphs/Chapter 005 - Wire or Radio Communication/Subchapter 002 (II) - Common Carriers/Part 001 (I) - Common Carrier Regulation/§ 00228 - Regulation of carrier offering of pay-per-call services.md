@@ -12,7 +12,7 @@ It is the purpose of this section—
 
 The Commission by regulation shall, within 270 days after October 28, 1992, establish a system for oversight and regulation of pay-per-call services in order to provide for the protection of consumers in accordance with this chapter and other applicable Federal statutes and regulations. The Commission's final rules shall—
 
-&emsp;(1) include measures that provide a consumer of pay-per-call services with adequate and clear descriptions of the rights of the caller;
+&emsp;(1) include measures that provide a consumer of pay-per-call services with adequateand clear descriptions of the rights of the caller;
 
 &emsp;(2) define the obligations of common carriers with respect to the provision of pay-per-call services;
 
@@ -20,7 +20,7 @@ The Commission by regulation shall, within 270 days after October 28, 1992, esta
 
 &emsp;(4) identify procedures by which common carriers and providers of pay-per-call services may take affirmative steps to protect against nonpayment of legitimate charges; and
 
-&emsp;(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use ofcertain telephone number prefixes and area codes.
+&emsp;(5) require that any service described in subparagraphs (A) and (B) of subsection (i)(1) of this section be offered only through the use of certain telephone number prefixes and area codes.
 
 #### (c) Common carrier obligations
 
@@ -234,7 +234,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (4) State authority
 
-&emsp;Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatorysystems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
+&emsp;Nothing in this section shall preclude any State from enacting and enforcing additional and complementary oversight and regulatory systems or procedures, or both, so long as such systems and procedures govern intrastate services and do not significantly impede the enforcement of this section or other Federal statutes.
 
 #### (5) Enforcement of existing regulations
 

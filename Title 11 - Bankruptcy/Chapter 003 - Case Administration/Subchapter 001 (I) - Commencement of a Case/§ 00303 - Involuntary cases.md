@@ -28,11 +28,11 @@
 
 (h) If the petition is not timely controverted, the court shall order relief against the debtor in an involuntary case under the chapter under which the petition was filed. Otherwise, after trial, the court shall order relief against the debtor in an involuntary case under the chapter under which the petition was filed, only if—
 
-&emsp;(1) the debtor is generally not paying such debtor's debts as such debts become due unless such debts are the subject of a bona fide dispute; or
+&emsp;(1) the debtor is generally not paying such debtor's debts as such debts become due unlesssuch debts are the subject of a bona fide dispute; or
 
 &emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
 
-(i) If the court dismisses a petition under this section other than on consent of all petitionersand the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
+(i) If the court dismisses a petition under this section other than on consent of all petitioners and the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
 
 &emsp;(1) against the petitioners and in favor of the debtor for—
 
@@ -80,11 +80,11 @@ The provisions for involuntary chapter 11 cases is a slight change from present 
 
 Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makes explicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencing an involuntary case. That Rule will be continued under section 405(d) of this bill.
 
-Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
+Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claimof one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
 Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
-The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection\(i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
+The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
 
 Subsection (f) is both a clarification and a change from existing law. It permits the debtor to continue to operate any business of the debtor and to dispose of property as if the case had not been commenced. The court is permitted, however, to control the debtor's powers under this subsection by appropriate orders, such as where there is a fear that the debtor may attempt to abscond with assets, dispose of them at less than their fair value, or dismantle his business, all to the detriment of the debtor's creditors.
 
@@ -136,7 +136,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 
-Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days afterJuly 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Adjustment of Dollar Amounts
 

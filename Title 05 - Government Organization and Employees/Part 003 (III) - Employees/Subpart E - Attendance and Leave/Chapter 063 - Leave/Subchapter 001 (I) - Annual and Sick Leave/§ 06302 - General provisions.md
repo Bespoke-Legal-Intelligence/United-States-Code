@@ -2,7 +2,7 @@
 
 (a) The days of leave provided by this subchapter are days on which an employee would otherwise work and receive pay and are exclusive of holidays and nonworkdays established by Federal statute, Executive order, or administrative order.
 
-(b) For the purpose of this subchapter an employee is deemed employed for a full biweekly pay period if he is employed during the days within that period, exclusive of holidays and nonworkdays established by Federal statute,Executive order, or administrative order, which fall within his basic administrative workweek.
+(b) For the purpose of this subchapter an employee is deemed employed for a full biweekly pay period if he is employed during the days within that period, exclusive of holidays and nonworkdays established by Federal statute, Executive order, or administrative order, which fall within his basic administrative workweek.
 
 (c) A part-time employee, unless otherwise excepted, is entitled to the benefits provided by subsection (d) of this section and sections 6303, 6304(a), (b), 6305(a), 6307, and 6310 of this title on a pro rata basis.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit Insurance Fund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year shall be equal to the sum of—
+&emsp;If at the end of any calendar year the aggregate of amounts in the Farm Credit InsuranceFund does not exceed the secure base amount, subject to paragraph (2), the annual premium due from any insured System bank for the calendar year shall be equal to the sum of—
 
 &emsp;&emsp;(A) the annual average principal outstanding for such year on loans made by the bank that are in accrual status, excluding the guaranteed portions of loans provided for in subparagraphs (C) and (D), multiplied by 0.0015;
 
@@ -32,7 +32,7 @@
 
 #### (4) Definition of Government Sponsored Enterprise-guaranteed loan
 
-In this section and sections 2020(b) and 2277a–5(a) of this title, the term “GovernmentSponsored Enterprise-guaranteed loan” means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.
+In this section and sections 2020(b) and 2277a–5(a) of this title, the term “Government Sponsored Enterprise-guaranteed loan” means a loan or credit, or portion of a loan or credit, that is guaranteed by an entity that is chartered by Congress to serve a public purpose and the debt obligations of which are not explicitly guaranteed by the United States, including the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank System, and the Federal Agricultural Mortgage Corporation, but not including any other institution of the Farm Credit System.
 
 #### (b) Amount in Fund exceeding secure base amount
 
@@ -122,7 +122,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (II) Termination of Account
 
-&emsp;&emsp;&emsp;&emsp;On disbursement of $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)) from the Allocated Insurance Reserves Account, the Corporation shall close the Account established under paragraph (1)(B) and transfer any remaining funds in the Account to the remaining Allocated Insurance Reserves Accounts in accordance with paragraph (4)(B) for the calendar year in which the transfer occurs.
+&emsp;&emsp;&emsp;&emsp;On disbursement of $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)) from the Allocated Insurance Reserves Account, the Corporation shall close the Account established under paragraph (1)(B) and transfer any remaining funds in the Account to the remaining Allocated Insurance ReservesAccounts in accordance with paragraph (4)(B) for the calendar year in which the transfer occurs.
 
 #### (D) Distribution of payments received
 
@@ -140,7 +140,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 &emsp;&emsp;&emsp;(ii) interest earned on any amounts that would have been paid as described in clause (i) from the date on which the payments would have been paid as described in clause (i); and
 
-&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A),based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
+&emsp;&emsp;&emsp;(iii) the payment to be made in the initial year described in subparagraph (A), based on the amount in each Account after subtracting the amounts to be paid under clauses (i) and (ii).
 
 (Pub. L. 92–181, title V, §5.55, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(c)–(e), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–220, §6(a), Dec. 12, 1989, 103 Stat. 1879; Pub. L. 104–105, title II, §215(a)(1), (2)(A), (b), (c), Feb. 10, 1996, 110 Stat. 175, 176, 179; Pub. L. 107–171, title V, §5403(a)(1), May 13, 2002, 116 Stat. 350.)
 
@@ -184,7 +184,7 @@ Subsec. (d)(3). Pub. L. 100–399, §302(e), substituted “Farm Credit Bank” 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, seesection 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1989 Amendment
 

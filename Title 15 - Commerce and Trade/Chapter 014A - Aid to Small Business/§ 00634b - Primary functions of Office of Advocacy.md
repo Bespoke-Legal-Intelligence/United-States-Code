@@ -20,11 +20,11 @@ The primary functions of the Office of Advocacy shall be to—
 
 &emsp;(9) recommend specific measures for creating an environment in which all businesses will have the opportunity to complete <sup>1</sup> effectively and expand to their full potential, and to ascertain the common reasons, if any, for small business successes and failures;
 
-&emsp;(10) determine the desirability of developing a set of rational, objective criteria to be used to define small business, and to develop such criteria, if appropriate;
+&emsp;(10) determine the desirability of developing a set of rational, objective criteria to be usedto define small business, and to develop such criteria, if appropriate;
 
 &emsp;(11) advise, cooperate with, and consult with, the Chairman of the Administrative Conference of the United States with respect to section 504(e) of title 5; and
 
-&emsp;(12) evaluate the efforts of each department and agency of the United States, and of private industry, to assist small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, and small business concerns owned and controlled by serviced-disabled <sup>2</sup> veterans, as defined in such section 632(q) of this title, and to provide statistical information on the utilization of such programs by such small business concerns, andto make appropriate recommendations to the Administrator of the Small Business Administration and to the Congress in order to promote the establishment and growth of those small business concerns.
+&emsp;(12) evaluate the efforts of each department and agency of the United States, and of private industry, to assist small business concerns owned and controlled by veterans, as defined in section 632(q) of this title, and small business concerns owned and controlled by serviced-disabled <sup>2</sup> veterans, as defined in such section 632(q) of this title, and to provide statistical information on the utilization of such programs by such small business concerns, and to make appropriate recommendations to the Administrator of the Small Business Administration and to the Congress in order to promote the establishment and growth of those small business concerns.
 
 (Pub. L. 94–305, title II, §202, June 4, 1976, 90 Stat. 668; Pub. L. 96–481, title II, §203(b), Oct. 21, 1980, 94 Stat. 2327; Pub. L. 106–50, title VII, §702, Aug. 17, 1999, 113 Stat. 250.)
 

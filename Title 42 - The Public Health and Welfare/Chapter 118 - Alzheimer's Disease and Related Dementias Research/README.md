@@ -68,16 +68,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part 3—Responsibilities of Health Care Financing Administration
+#### Part 3—Responsibilities of the Centers for Medicare \& Medicaid Services
 
 |  |  |
 | :--- | ---: |
-| [11271\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20Health%20Care%20Financing%20Administration/%C2%A7%2011271%20-%20Research%20program%20and%20plan.md) | Research program and plan. |
+| [11271\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services/%C2%A7%2011271%20-%20Research%20program%20and%20plan.md) | Research program and plan. |
 | (a) | Grants for research. |
 | (b) | Preparation of plan; contents; revision. |
 | (c) | Consultation for preparation and revision of plan. |
-| [11272\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20Health%20Care%20Financing%20Administration/%C2%A7%2011272%20-%20Dissemination.md) | Dissemination. |
-| [11273\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20Health%20Care%20Financing%20Administration/%C2%A7%2011273%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11272\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services/%C2%A7%2011272%20-%20Dissemination.md) | Dissemination. |
+| [11273\.](Subchapter%20004%20%28IV%29%20-%20Research%20Relating%20to%20Services%20for%20Individuals%20with%20Alzheimer%27s%20Disease%20and%20Related%20Dementias%20and%20Their%20Families/Part%20003%20-%20Responsibilities%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services/%C2%A7%2011273%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 11281 to 11283. Repealed or Transferred. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

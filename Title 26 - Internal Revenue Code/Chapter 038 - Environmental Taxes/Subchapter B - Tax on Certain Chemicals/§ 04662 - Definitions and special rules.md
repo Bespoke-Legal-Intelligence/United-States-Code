@@ -104,7 +104,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;No tax shall be imposed under section 4661(a) on any taxable chemical described insubparagraph (B) by reason of the transitory presence of such chemical during any process of smelting, refining, or otherwise extracting any substance not subject to tax under section 4661(a).
+&emsp;&emsp;No tax shall be imposed under section 4661(a) on any taxable chemical described in subparagraph (B) by reason of the transitory presence of such chemical during any process of smelting, refining, or otherwise extracting any substance not subject to tax under section 4661(a).
 
 #### (B) Chemicals to which subparagraph (A) applies
 
@@ -364,7 +364,7 @@ Subsecs. (e), (f). Pub. L. 99–499, §513(b)(1), added subsec. (e) and redesign
 
 Subsec. (b)(2)(A). Pub. L. 98–369, §1019(b)(2)(A), substituted “qualified fertilizer substance” for “qualified substance”.
 
-Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, the term ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
+Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, theterm ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
 
 Subsec. (b)(5), (6). Pub. L. 98–369, §1019(a)(1), added pars. (5) and (6).
 

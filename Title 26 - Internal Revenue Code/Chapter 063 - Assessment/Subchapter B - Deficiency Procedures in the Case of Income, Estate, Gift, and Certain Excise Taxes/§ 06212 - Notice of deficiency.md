@@ -186,7 +186,7 @@ Amendment by section 89(b) of Pub. L. 85–866 applicable only if mailing occurs
 
 #### Notice of Deficiency To Specify Deadlines for Filing Tax Court Petition
 
-Pub. L. 105–206, title III, §3463(a), July 22, 1998, 112 Stat. 767, provided that: “The Secretary of the Treasury or the Secretary's delegate shall include on each notice of deficiency under section 6212 of the Internal Revenue Code of 1986 the date determined by such Secretary (or delegate) as the last day on which the taxpayer may file a petition with the Tax Court.”
+Pub. L. 105–206, title III, §3463(a), July 22, 1998, 112 Stat. 767, provided that: “The Secretary of the Treasury or the Secretary's delegate shall include on eachnotice of deficiency under section 6212 of the Internal Revenue Code of 1986 the date determined by such Secretary (or delegate) as the last day on which the taxpayer may file a petition with the Tax Court.”
 
 \[Section 3463(a) of Pub. L. 105–206, set out above, applicable to notices mailed after Dec. 31, 1998, see section 3463(c) of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 6213 of this title.\]
 

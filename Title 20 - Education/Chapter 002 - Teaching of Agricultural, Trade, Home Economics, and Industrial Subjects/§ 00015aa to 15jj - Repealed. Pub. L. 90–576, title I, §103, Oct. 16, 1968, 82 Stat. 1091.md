@@ -6,9 +6,9 @@ Section 15bb, act Aug. 1, 1946, ch. 725, title II, §202, as added Aug. 2, 1956,
 
 Section 15cc, act Aug. 1, 1946, ch. 725, title II, §203, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 926; amended Apr. 24, 1961, Pub. L. 87–22, §4, 75 Stat. 44, set out requirements for State plans under sections 15aa to 15jj of this title.
 
-Section 15dd, act Aug. 1, 1946, ch. 725, title II, §204, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, set out method of making and computing payments to States.
+Section 15dd, act Aug. 1, 1946, ch. 725, title II, §204, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, setout method of making and computing payments to States.
 
-Section 15ee, act Aug. 1, 1946, ch. 725, title II, §205, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, setout duties and authority of Commissioner in carrying out sections 15aa to 15jj of this title.
+Section 15ee, act Aug. 1, 1946, ch. 725, title II, §205, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, set out duties and authority of Commissioner in carrying out sections 15aa to 15jj of this title.
 
 Section 15ff, act Aug. 1, 1946, ch. 725, title II, §206, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, authorized appointment of advisory committees by Commissioner.
 

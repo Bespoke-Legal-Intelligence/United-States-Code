@@ -38,7 +38,7 @@
 
 #### (4) Application
 
-&emsp;To be eligible to receive a grant under this section, a State, agency, or organization shall submit an application to the Commissioner at such time, in such manner, and containing such information as the Commissioner may require, including a description of—
+&emsp;To be eligible to receive a grant under this section, a State, agency, or organization shall submit an application to the Commissioner atsuch time, in such manner, and containing such information as the Commissioner may require, including a description of—
 
 &emsp;&emsp;(A) the manner in which the findings and results of the project to be funded under the grant, particularly information that facilitates the replication of the results of such projects, will be made generally available; and
 

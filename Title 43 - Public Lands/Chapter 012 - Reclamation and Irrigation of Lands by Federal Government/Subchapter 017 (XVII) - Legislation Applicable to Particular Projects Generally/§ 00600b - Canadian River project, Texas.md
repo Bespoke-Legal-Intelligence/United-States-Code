@@ -70,7 +70,7 @@ Flood Control.—The Secretary of the Army, acting through the Corps of Engineer
 
 “(e)
 
-Sanford Dam Property.—The Authority shall have the right to occupy and use without payment oflease or rental charges or license or use fees the property retained by the Bureau of Reclamation at Sanford Dam and all buildings constructed by the United States thereon for use as the Authority's headquarters and maintenance facility. Buildings constructed by the Authority on such property, or past and future additions to Government constructed buildings, shall be allowed to remain on the property. The Authority shall operate and maintain such property and facilities without cost to the United States.
+Sanford Dam Property.—The Authority shall have the right to occupy and use without payment of lease or rental charges or license or use fees the property retained by the Bureau of Reclamation at Sanford Dam and all buildings constructed by the United States thereon for use as the Authority's headquarters and maintenance facility. Buildings constructed by the Authority on such property, or past and future additions to Government constructed buildings, shall be allowed to remain on the property. The Authority shall operate and maintain such property and facilities without cost to the United States.
 
 #### “SEC. 5. RELATIONSHIP TO CERTAIN CONTRACT OBLIGATIONS.
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ix) <sup>2</sup> the Defense Intelligence Agency, Department of Defense; or
 
-&emsp;&emsp;(x) the National Imagery and Mapping Agency, Department of Defense.<sup>3</sup>
+&emsp;&emsp;(x) the National Geospatial-Intelligence Agency, Department of Defense.<sup>3</sup>
 
 &emsp;(2) “employee” means an individual employed in or under an agency;
 
@@ -132,7 +132,7 @@
 
 (d) This chapter does not apply to an employee of the Office of the Architect of the Capitol whose pay is fixed by other statute. Subsection (c) of this section, except paragraph (7), does not apply to the Office of the Architect of the Capitol.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 444; Pub. L. 90–83, §1(11), Sept. 11, 1967, 81 Stat. 197; Pub. L. 90–610, §2, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 91–34, §2(a), June 30, 1969, 83 Stat. 41; Pub. L. 91–358, title I, §172(f), July 29, 1970, 84 Stat. 591; Pub. L. 91–375, §6(c)(9), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–176, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 94–183, §2(12), (13), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title VIII, §801(a)(3)(D), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1221, 1224; Pub. L. 96–54, §2(a)(22), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–70, title III, §3302(e)(1), (6), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(b), Feb. 15, 1980, 94 Stat. 33; Pub. L. 96–465, title II, §2314(b), Oct. 17, 1980, 94 Stat. 2167; Pub. L. 97–468, title VI, §615(b)(1)(C), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(a), Nov. 8, 1984, 98 Stat. 3302; Pub. L. 99–145, title V, §504(b), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–335, title II, §207(n), June 6, 1986, 100 Stat. 598; Pub. L. 100–135, §1(b)(2), Oct. 16, 1987, 101 Stat. 811; Pub. L. 101–189, div. A, title XI, §1124(e), Nov. 29, 1989, 103 Stat. 1560; Pub. L. 101–474, §5(h), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §§101(b)(9)(F), 104(d)(1), 109(a)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1441, 1447, 1451; Pub. L. 101–510, div. A, title XII, §1209(h)(2), Nov. 5, 1990, 104 Stat. 1667; Pub. L. 102–40, title IV, §403(c)(1), May 7, 1991, 105 Stat. 240; Pub. L. 102–54, §13(b)(1), (2), June 13, 1991, 105 Stat. 274; Pub. L. 103–160, div. A, title V, §533(c), title IX, §923(b), Nov. 30, 1993, 107 Stat. 1658, 1731; Pub. L. 103–359, title V, §501(g), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 103–446, title XII, §1203(b), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(2), Sept. 23, 1996, 110 Stat. 2687, 2868; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 Historical and Revision Notes<br>1966
 
@@ -286,9 +286,11 @@ Section 8 of the Contract Disputes Act of 1978, referred to in subsec. (c)(30), 
 
 #### Amendments
 
+Subsec. (a)(1)(x). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+
 1999—Subsec. (c)(23). Pub. L. 106–113 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “examiners-in-chief and designated examiners-in-chief in the Patent and Trademark Office, Department of Commerce;”.
 
-1996—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi) and (vii), respectively, and struck out former cl. (vi) which read as follows: “the Panama Canal Commission;”.
+1996—Subsec. (a)(1)(vi), (vii). Pub. L. 104–201, §3548(a)(2)(A), redesignated cls. (vii) and (viii) as (vi)and (vii), respectively, and struck out former cl. (vi) which read as follows: “the Panama Canal Commission;”.
 
 Subsec. (a)(1)(viii). Pub. L. 104–201, §3548(a)(2)(A)(ii), which directed redesignation of cl. (ix) as (viii) could not be executed because subsec. (a)(1) did not contain a cl. (ix). See 1983 Amendment note below. Former cl. (viii) redesignated (vii).
 
@@ -372,7 +374,7 @@ Reference to Executive Protective Service held to refer to United States Secret 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1996 Amendment
 
@@ -452,11 +454,11 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Dissolution of Virgin Islands Corporation
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat.350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 #### Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985
 
-Section 504(c) of Pub. L. 99–145 provided that: “Section 9314(b)(2) of title 10, United States Code (as added by subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
+Section 504(c) of Pub. L. 99–145 provided that: “Section 9314(b)(2) of title 10, United States Code (as addedby subsection (a)(1)(B)), and section 5102(c)(28) of title 5, United States Code (as added by subsection (b)), shall not apply to any person who on the date of the enactment of this Act \[Nov. 8, 1985\]—
 
 &emsp;“(1) is a civilian member of the faculty of the United States Air Force Institute of Technology;
 

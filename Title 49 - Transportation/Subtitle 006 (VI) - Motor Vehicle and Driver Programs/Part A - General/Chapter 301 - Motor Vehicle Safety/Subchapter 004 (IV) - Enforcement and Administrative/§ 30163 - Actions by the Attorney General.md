@@ -6,7 +6,7 @@ Civil Actions To Enforce.—The Attorney General may bring a civil action in a U
 
 &emsp;(1) a violation of this chapter or a regulation prescribed or order issued under this chapter; and
 
-&emsp;(2) the sale, offer for sale, or introduction or delivery for introduction, in interstate commerce, or the importation into the United States, of a motor vehicle or motor vehicle equipment for which it is decided, before the first purchase in good faith other than for resale, that the vehicle or equipment—
+&emsp;(2) the sale, offer for sale, or introduction or delivery for introduction, in interstate commerce, or the importation into the United States, of a motor vehicle or motor vehicle equipment for which it is decided, before thefirst purchase in good faith other than for resale, that the vehicle or equipment—
 
 &emsp;&emsp;(A) contains a defect related to motor vehicle safety about which notice was given under section 30118(c) of this title or an order was issued under section 30118(b) of this title; or
 

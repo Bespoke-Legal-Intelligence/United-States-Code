@@ -22,7 +22,7 @@ Regulations.—(1) Each official named in paragraph (2) shall prescribe acquisit
 
 (2)(A) The Secretary of Defense shall prescribe the regulations applicable to the Department of Defense.
 
-(B) The Secretary of Transportation shall prescribe the regulations applicable to the Coast Guard, except that the regulations prescribed by the Secretary of Defense shall apply to the Coast Guard when it is operating as a service in the Navy.
+(B) The Secretary of Homeland Security shall prescribe the regulations applicable to the Coast Guard, except that the regulations prescribed by the Secretary of Defense shall apply to the Coast Guard when it is operating as a service in the Navy.
 
 (C) The Administrator of the National Aeronautics and Space Administration shall prescribe the regulations applicable to the National Aeronautics and Space Administration.
 
@@ -58,7 +58,7 @@ Cancellation or Termination for Insufficient Funding.—In the event funds are n
 
 (g)
 
-Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notificationof the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 (h)
 
@@ -79,6 +79,10 @@ Defense Acquisitions Specifically Authorized by Law.—(1) A multiyear contract 
 (2) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
 (3) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into for any fiscal year under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
+
+(4)(A) The Secretary of Defense may obligate funds for procurement of an end item under a multiyear contract for the purchase of property only for procurement of a complete and usable end item.
+
+(B) The Secretary of Defense may obligate funds appropriated for any fiscal year for advance procurement under a contract for the purchase of property only for the procurement of those long-lead items necessary in order to meet a planned delivery schedule for complete major end items that are programmed under the contract to be acquired with funds appropriated for a subsequent fiscal year (including an economic order quantity of such long-lead items when authorized by law).
 
 (j)
 
@@ -114,7 +118,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;&emsp;(ii) the agency procurement total.
 
-&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (orcontract extension)) under multiyear contracts in effect at the time the report is submitted and the percentage that such amount represents of—
+&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (or contract extension)) under multiyear contracts in effect at the time the report is submitted and the percentage that such amount represents of—
 
 &emsp;&emsp;(i) the applicable procurement account; and
 
@@ -136,25 +140,29 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (8) This subsection does not apply to the National Aeronautics and Space Administration or to the Coast Guard.
 
-(9) In this subsection, the term “congressional defense committees” means the following:
-
-&emsp;(A) The Committee on Armed Services of the Senate and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
-
-&emsp;(B) The Committee on Armed Services of the House of Representatives and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives.
-
-(10) In this subsection:
+(9) In this subsection:
 
 &emsp;(A) The term “applicable procurement account” means, with respect to a multiyear procurement contract (or contract extension), the appropriation account from which payments to execute the contract will be made.
 
 &emsp;(B) The term “agency procurement total” means the procurement accounts of the agency entering into a multiyear procurement contract (or contract extension) treated in the aggregate.
 
-(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207.)
+(Added Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; amended Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611.)
 
 #### Amendments
 
+2003—Subsec. (<i>l</i>)(9), (10). Pub. L. 108–136 redesignated par. (10) as (9) and struck out former par. (9) which read as follows: “In this subsection, the term ‘congressional defense committees’ means the following:
+
+&emsp;“(A) The Committee on Armed Services of the Senate and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
+
+&emsp;“(B) The Committee on Armed Services of the House of Representatives and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives.”
+
+2002—Subsec. (b)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (i)(4). Pub. L. 107–314 added par. (4).
+
 2000—Subsec. (k). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(c)\], struck out “or services” after “purchase of property”.
 
-Subsec. (<i>l</i>)(4). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
+Subsec. (<i>l</i>)(4). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(A)\], in introductory provisions, substituted “Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into,by the head of an agency during the current or preceding year” for “The head of an agency may not enter into a multiyear contract (or extend an existing multiyear contract) until the Secretary of Defense submits to the congressional defense committees a report with respect to that contract (or contract extension) that provides the following information”.
 
 Subsec. (<i>l</i>)(4)(B). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §806(1)(B)\], substituted “in effect at the time the report is submitted” for “in effect immediately before the contract (or contract extension) is entered into” in introductory provisions.
 
@@ -190,6 +198,16 @@ Subsecs. (k), (<i>l</i>). Pub. L. 104–106, §5601(b), redesignated subsec. (<i
 
 Inapplicability to Automatic Data Processing Contracts.—This section does not apply to contracts for the purchase of property to which section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759) applies.”
 
+#### Effective Date of 2002 Amendments
+
+Pub. L. 107–314, div. A, title VIII, §820(b), Dec. 2, 2002, 116 Stat. 2614, provided that:
+
+“(1) Paragraph (4) of section 2306b(i) of title 10, United States Code, as added by subsection (a), shall not apply with respect to any contract awarded before the date of the enactment of this Act \[Dec. 2, 2002\].
+
+“(2) Nothing in this section \[amending this section\] shall be construed to authorize the expenditure of funds under any contract awarded before the date of the enactment of this Act for any purpose other than the purpose for which such funds have been authorized and appropriated.”
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 806(a)(2) of Pub. L. 105–85 provided that: “Paragraph (3) of section 2306b(i) of title 10, United States Code, as added by paragraph (1), shall not apply with respect to a contract authorized by law before the date of the enactment of this Act \[Nov. 18, 1997\].”
@@ -198,7 +216,7 @@ Section 806(b)(2) of Pub. L. 105–85 provided that: “The amendment made by pa
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 5601(b) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by section 5601(b) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date
 
@@ -208,7 +226,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided that:
 
-“(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees have been notified at least 30 days in advance of the proposed contract award: <i>Provided</i>, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability: <i>Provided further</i>, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: <i>Provided further</i>, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\]: <i>Provided further</i>, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
+“(a) None of the funds provided in this Act \[see Tables for classification\] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees \[Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate\] have been notified at least 30 days in advance of the proposed contract award: <i>Provided</i>, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability: <i>Provided further</i>, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: <i>Provided further</i>, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: <i>Provided further</i>, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.
 
 “Funds appropriated in title III of this Act \[111 Stat. 1211\] may be used for multiyear procurement contracts as follows:
 
@@ -227,6 +245,10 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 108–87, title VIII, §8008, Sept. 30, 2003, 117 Stat. 1072.
+
+Pub. L. 107–248, title VIII, §8008, Oct. 23, 2002, 116 Stat. 1537.
 
 Pub. L. 107–117, div. A, title VIII, §8008, Jan. 10, 2002, 115 Stat. 2248.
 

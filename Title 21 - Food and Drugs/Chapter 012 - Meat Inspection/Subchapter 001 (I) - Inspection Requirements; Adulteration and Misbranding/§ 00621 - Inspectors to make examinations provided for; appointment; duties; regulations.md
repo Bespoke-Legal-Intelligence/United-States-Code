@@ -12,7 +12,7 @@ Section was formerly classified to section 89 of this title.
 
 1986—Pub. L. 99–641 temporarily substituted “thereof, and of meat food products” for “and meat food products”, which substitution was made for the first such reference as the probable intent of Congress. See Effective and Termination Dates of 1986 Amendment note below.
 
-1967—Pub. L. 90–201, §§3(b), 12(a), (i), struck out “of Agriculture” after “Secretary” in four places, included horses, mules, and other equines in the list of animals, and substituted “not adulterated” for “sound, healthful, wholesome, and fit for human food, and to contain no dyes, chemicals, preservatives, or ingredients whichrender such meat food product unsound, unhealthful, unwholesome, or unfit for human food; and to have been prepared under proper sanitary conditions, hereinbefore provided for”, respectively.
+1967—Pub. L. 90–201, §§3(b), 12(a), (i), struck out “of Agriculture” after “Secretary” in four places, included horses, mules, and other equines in the list of animals, and substituted “not adulterated” for “sound, healthful, wholesome, and fit for human food, and to contain no dyes, chemicals, preservatives, or ingredients which render such meat food product unsound, unhealthful, unwholesome, or unfit for human food; and to have been prepared under proper sanitary conditions, hereinbefore provided for”, respectively.
 
 #### Effective and Termination Dates of 1986 Amendment
 

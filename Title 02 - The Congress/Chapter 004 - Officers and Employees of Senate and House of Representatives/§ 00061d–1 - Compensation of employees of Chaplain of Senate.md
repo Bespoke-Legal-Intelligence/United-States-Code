@@ -10,9 +10,9 @@ A prior section 61d–1, Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 424; Pub. L. 
 
 #### Amendments
 
-1989—Pub. L. 101–163 substituted “such employees as he deems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000” for “a secretary”.
+<b>1989</b>—Pub. L. 101–163 substituted “such employees as he deems appropriate, except that the amount which may be paid for any fiscal year as gross compensation for personnel in such Office for any fiscal year shall not exceed $147,000” for “a secretary”.
 
-1987—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: “The Chaplain may appoint and fix the compensation of a secretary at not to exceed $8,541 per annum.”
+<b>1987</b>—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: “The Chaplain may appoint and fix the compensation of a secretary at not to exceed $8,541 per annum.”
 
 #### Increases in Compensation
 

@@ -72,7 +72,7 @@ In this chapter, the following definitions shall apply:
 
 #### (12) Original value
 
-&emsp;The term “original value”, with respect to a residential mortgage transaction, means thelesser of the sales price of the property securing the mortgage, as reflected in the contract, or the appraised value at the time at which the subject residential mortgage transaction was consummated. In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.
+&emsp;The term “original value”, with respect to a residential mortgage transaction, means the lesser of the sales price of the property securing the mortgage, as reflected in the contract, or the appraised value at the time at which the subject residential mortgage transaction was consummated. In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.
 
 #### (13) Private mortgage insurance
 
@@ -150,7 +150,7 @@ Pars. (17), (18). Pub. L. 106–569, §402(a)(1)(C), redesignated pars. (15) and
 
 #### Effective Date
 
-Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: “This Act \[enacting this chapter and amending section 1088 of Title 20, Education\], otherthan section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\].”
+Pub. L. 105–216, §13, July 29, 1998, 112 Stat. 908, provided that: “This Act \[enacting this chapter and amending section 1088 of Title 20, Education\], other than section 14 \[enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title\], shall become effective 1 year after the date of enactment of this Act \[July 29, 1998\].”
 
 #### Short Title of 2000 Amendment
 

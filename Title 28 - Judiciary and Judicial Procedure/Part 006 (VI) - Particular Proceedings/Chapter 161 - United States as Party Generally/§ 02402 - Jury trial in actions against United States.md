@@ -26,5 +26,5 @@ Amendment by Pub. L. 104–331 effective Oct. 1, 1997, see section 3(d) of Pub. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 41 section 113; title 42 section 2212.
+This section is referred to in title 41 section 113; title 50 section 2783.
 

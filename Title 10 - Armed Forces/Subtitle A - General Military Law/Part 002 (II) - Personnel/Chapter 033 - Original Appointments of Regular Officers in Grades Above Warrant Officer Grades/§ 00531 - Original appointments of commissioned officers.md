@@ -26,7 +26,7 @@ Pub. L. 101–189, div. A, title VII, §708, Nov. 29, 1989, 103 Stat. 1475, prov
 
 Program Required.—(1) Not later than September 30, 1991, the Secretary of each military department shall implement a program to appoint persons who have an associate degree or diploma in nursing (but have not received a baccalaureate degree in nursing) as officers and to assign such officers to duty as nurses.
 
-“(2) An officer appointed pursuant to the program required by subsection (a) shall be appointed in a warrant officer grade or in a commissioned grade not higher than O–3. Such officer may not be promoted above the grade of O–3 unless the officer receives a baccalaureate degree in nursing.
+“(2) An officer appointed pursuant to the program required by subsection (a) shall be appointed in a warrant officer grade or in a commissioned grade not higherthan O–3. Such officer may not be promoted above the grade of O–3 unless the officer receives a baccalaureate degree in nursing.
 
 “(b)
 

@@ -18,7 +18,7 @@
 
 > life insurance, without accidental death and dismemberment insurance, may be continued, under conditions determined by the Office, during the period the employee is receiving compensation and is held by the Secretary of Labor or the Secretary's delegate to be unable to return to duty.
 
-(3) The amount of life insurance continued under paragraph (1) or (2) of this subsection shall be continued, with or without reduction, at the end of each full calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury, in accordance with the employee's written election at the time eligibility to continue insurance during retirement or receipt of compensation arises, as follows:
+(3) The amount of life insurance continued under paragraph (1) or (2) of this subsection shall be continued, with or without reduction, at the end of each full calendar month after the date the employee becomes 65 years of age andis retired or is receiving compensation for disease or injury, in accordance with the employee's written election at the time eligibility to continue insurance during retirement or receipt of compensation arises, as follows:
 
 &emsp;(A) the employee may elect to have the deductions required by section 8707 of this title withheld from annuity or compensation, and the employee's life insurance shall be reduced each month by 2 percent of the face value until 25 percent of the amount of life insurance in force before the first reduction remains; or
 
@@ -78,7 +78,7 @@ In subsection (b), the words “armed forces” are coextensive with and substit
 
 In subsection (c), the word “only” is supplied for clarity and for consistency with subsection (b). The words “under conditions determined by the Commission, without cost to him” are coextensive with and substituted for “as provided in subsection (b) of this section”.
 
-In subsection (d), the first sentence of former section 2091(c) is omitted as unnecessary as the definition of “employee” in section 8701 precludes acquisition of coverage by a member of a uniformed service. The words “section 101 of title 38” are substituted for “section 1101 of title 38” on authority of section 5(a) of the Act of Sept. 2, 1958, Pub. L. 85–857, 72 Stat. 1262.
+In subsection (d), the first sentence of former section 2091(c) is omitted as unnecessary as the definition of“employee” in section 8701 precludes acquisition of coverage by a member of a uniformed service. The words “section 101 of title 38” are substituted for “section 1101 of title 38” on authority of section 5(a) of the Act of Sept. 2, 1958, Pub. L. 85–857, 72 Stat. 1262.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -176,7 +176,7 @@ Nonprofit organization.—The term ‘nonprofit organization’ means any corpor
 
 &emsp;“(7)
 
-State.—The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, and any instrumentality thereof, any multi-State, regional, or interstate entity which has governmental functions, and any Indian Tribal Government.
+State.—The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands, and any instrumentality thereof, anymulti-State, regional, or interstate entity which has governmental functions, and any Indian Tribal Government.
 
 &emsp;“(8)
 
@@ -316,7 +316,7 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the FederalGovernment, as defined in the Federal Acquisition Regulation.
+&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation.
 
 &emsp;“(2) The term ‘nonprocurement activities’ means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 

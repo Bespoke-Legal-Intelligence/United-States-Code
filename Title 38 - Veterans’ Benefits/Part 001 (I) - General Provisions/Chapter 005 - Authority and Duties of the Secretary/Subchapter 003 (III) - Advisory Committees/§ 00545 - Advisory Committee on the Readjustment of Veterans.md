@@ -24,7 +24,7 @@
 
 &emsp;(iv) provide on-going advice on the most appropriate means of responding to the readjustment needs of veterans in the future.
 
-(B) In carrying out its duties under subparagraph (A), the Committee shall take into specialaccount the needs of veterans who have served in a theater of combat operations.
+(B) In carrying out its duties under subparagraph (A), the Committee shall take into special account the needs of veterans who have served in a theater of combat operations.
 
 (c)(1) Not later than March 31 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that relate to the readjustment of veterans to civilian life. Each such report shall include—
 
@@ -38,7 +38,7 @@
 
 (3) The Committee may also submit to the Secretary such other reports and recommendations as the Committee considers appropriate.
 
-(4) The Secretary shall submit with each annual report submitted to the Congress pursuant to section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
+(4) The Secretary shall submit with each annual report submitted to the Congress pursuantto section 529 of this title a summary of all reports and recommendations of the Committee submitted to the Secretary since the previous annual report of the Secretary submitted pursuant to that section.
 
 (d)(1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
 
@@ -230,7 +230,7 @@ Review of Programs To Assist Veterans.—(1) While carrying out the general duti
 
 “(d)
 
-Reports.—(1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commission shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives \[now Committees on Veterans’ Affairs and Armed Services of the House of Representatives\] a report setting forth a plan for the workof the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
+Reports.—(1) Not later than 90 days after the date on which all members of the Commission have been appointed under section 701(b)(1), the Commission shall submit to the Committees on Veterans’ Affairs and Armed Services of the Senate and the Committees on Veterans’ Affairs and National Security of the House of Representatives \[now Committees on Veterans’ Affairs and Armed Services of the House of Representatives\] a report setting forth a plan for the work of the Commission. The Commission shall develop the plan in consultation with the Secretary of Defense, the Secretary of Veterans Affairs, the Secretary of Labor, and the heads of other appropriate departments and agencies of the Government.
 
 “(2)(A) Not later than 18 months after the date of the first meeting of the Commission, the Commission shall submit to the committees referred to in paragraph (1), and to the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor, a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for legislative action and administrative action as the Commission considers appropriate.
 
@@ -322,5 +322,5 @@ Section 333(b) of Pub. L. 104–262 provided that:
 
 “(1) Notwithstanding subsection (a)(2) of section 545 of title 38, United States Code (as added by subsection (a)), the members of the Advisory Committee on the Readjustment of Vietnam and Other War Veterans on the date of the enactment of this Act \[Oct. 9, 1996\] shall be the original members of the advisory committee recognized under such section.
 
-“(2) The original members shall so serve until the Secretary of Veterans Affairs carries out appointments under such subsection (a)(2). The Secretary of Veterans Affairs shall carry out such appointments as soon after such date as is practicable. The Secretary may makesuch appointments from among such original members.”
+“(2) The original members shall so serve until the Secretary of Veterans Affairs carries out appointments under such subsection (a)(2). The Secretary of Veterans Affairs shall carry out such appointments as soon after such date as is practicable. The Secretary may make such appointments from among such original members.”
 

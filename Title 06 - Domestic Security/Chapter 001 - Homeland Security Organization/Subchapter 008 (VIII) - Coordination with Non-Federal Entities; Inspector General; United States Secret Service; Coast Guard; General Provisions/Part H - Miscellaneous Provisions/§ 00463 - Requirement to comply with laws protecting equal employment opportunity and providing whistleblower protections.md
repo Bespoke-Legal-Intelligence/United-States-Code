@@ -10,5 +10,5 @@ Nothing in this chapter shall be construed as exempting the Department from requ
 
 #### References in Text
 
-The Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002, referred to in pars. (1) and (2), is Pub. L. 107–174, May 15, 2002, 116 Stat. 566, which is set out as a note under section 2301 of Title 5,Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
+The Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002, referred to in pars. (1) and (2), is Pub. L. 107–174, May 15, 2002, 116 Stat. 566, which is set out as a note under section 2301 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
 

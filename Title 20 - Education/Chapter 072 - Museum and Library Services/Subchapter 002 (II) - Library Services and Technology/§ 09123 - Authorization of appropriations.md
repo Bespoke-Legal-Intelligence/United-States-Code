@@ -1,18 +1,8 @@
 ### §9123. Authorization of appropriations
 
-#### (a) Authorization of appropriations
+#### (a) In general
 
-#### (1) In general
-
-&emsp;There are authorized to be appropriated $150,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2002 to carry out this subchapter.
-
-#### (2) Transfer
-
-&emsp;The Secretary of Education shall—
-
-&emsp;&emsp;(A) transfer promptly to the Director any funds appropriated under the authority of paragraph (1), to enable the Director to carry out this subchapter; and
-
-&emsp;&emsp;(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A).
+There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.
 
 #### (b) Forward funding
 
@@ -26,11 +16,33 @@
 
 #### (c) Administration
 
-Not more than 3 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.
+Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.
 
-(Pub. L. 94–462, title II, §214, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296.)
+(Pub. L. 94–462, title II, §214, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 108–81, title II, §203, Sept. 25, 2003, 117 Stat. 997.)
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–81, §203(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+
+“(1)
+
+In general.—There are authorized to be appropriated $150,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2002 to carry out this subchapter.
+
+“(2)
+
+Transfer.—The Secretary of Education shall—
+
+&emsp;“(A) transfer promptly to the Director any funds appropriated under the authority of paragraph (1), to enable the Director to carry out this subchapter; and
+
+&emsp;“(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A).”
+
+Subsec. (c). Pub. L. 108–81, §203(2), substituted “3.5 percent” for “3 percent”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L. 108–81, set out as a note under section 9101 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 9131, 9133, 9141 of this title.
+This section is referred to in sections 9108, 9131, 9133, 9141 of this title.
 

@@ -66,7 +66,7 @@ By virtue of the authority vested in me by sections 605, 606B and 606D of Title 
 
 Section 1. (a) The provisions of section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall be applicable to the official activities of persons assigned abroad under authority of Title VI of the said act of August 28, 1954 \[this chapter\].
 
-(b) The Secretary of Agriculture shall institute and maintain such measures consistent with the said Part II as may be necessary to insure that the official activities of persons assigned abroad under the said Title VI are carried on consonant with United States foreign-policy objectives as defined by the Secretary of State and are effectively coordinated with the activities ofrepresentatives of other United States agencies, under the leadership of the Chief of the United States Diplomatic Mission.
+(b) The Secretary of Agriculture shall institute and maintain such measures consistent with the said Part II as may be necessary to insure that the official activities of persons assigned abroad under the said Title VI are carried on consonant with United States foreign-policy objectives as defined by the Secretary of State and are effectively coordinated with the activities of representatives of other United States agencies, under the leadership of the Chief of the United States Diplomatic Mission.
 
 (c) Consistent with subsections (a) and (b) of this section, the Secretary of Agriculture shall issue instructions on agricultural matters to persons assigned abroad under authority of the said Title VI.
 

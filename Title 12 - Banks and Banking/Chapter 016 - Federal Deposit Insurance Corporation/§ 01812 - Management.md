@@ -80,7 +80,7 @@
 
 #### (3) Certification
 
-&emsp;Upon taking office, each member of the Board of Directors shall certify under oath that such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
+&emsp;Upon taking office, each member of the Board of Directors shall certify under oaththat such member has complied with this subsection and such certification shall be filed with the secretary of the Board of Directors.
 
 #### (f) Status of employees
 
@@ -102,7 +102,7 @@
 
 > &emsp;This subsection shall not be construed to limit or alter in any way the immunities that are available under applicable law for Federal officials and employees not described in this subsection.
 
-(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Pub. L. 86–230, §19, Sept. 8, 1959, 73 Stat. 460; Pub. L. 98–181, title VII, §702(a), Nov. 30, 1983, 97 Stat. 1267; Pub. L. 101–73, title II, §203(a), Aug. 9, 1989, 103 Stat. 188; Pub. L. 102–18, title I, §103(b), Mar.23, 1991, 105 Stat. 60; Pub. L. 104–208, div. A, title II, §2243, Sept. 30, 1996, 110 Stat. 3009–419.)
+(Sept. 21, 1950, ch. 967, §2\[2\], 64 Stat. 873; Pub. L. 86–230, §19, Sept. 8, 1959, 73 Stat. 460; Pub. L. 98–181, title VII, §702(a), Nov. 30, 1983, 97 Stat. 1267; Pub. L. 101–73, title II, §203(a), Aug. 9, 1989, 103 Stat. 188; Pub. L. 102–18, title I, §103(b), Mar. 23, 1991, 105 Stat. 60; Pub. L. 104–208, div. A, title II, §2243, Sept. 30, 1996, 110 Stat. 3009–419.)
 
 #### References in Text
 

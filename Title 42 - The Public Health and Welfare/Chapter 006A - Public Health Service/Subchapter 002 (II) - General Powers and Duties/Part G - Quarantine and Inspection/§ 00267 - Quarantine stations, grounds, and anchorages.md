@@ -36,6 +36,8 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Functions of President delegated to Secretary of Health Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
+For assignment of functions of President under subsec. (a) of this section, see section 3 of Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, set out as a note under section 264 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 270, 271 of this title.

@@ -58,7 +58,7 @@ Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries
 
 &emsp;(2)(A) with respect to transactions involving lead-acid batteries, the person was in compliance with applicable Federal environmental regulations or standards, and any amendments thereto, regarding the storage, transport, management, or other activities associated with the recycling of spent lead-acid batteries;
 
-&emsp;(B) with respect to transactions involving nickel-cadmium batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of spent nickel-cadmium batteries,and the person was in compliance with applicable regulations or standards or any amendments thereto; or
+&emsp;(B) with respect to transactions involving nickel-cadmium batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of spent nickel-cadmium batteries, and the person was in compliance with applicable regulations or standards or any amendments thereto; or
 
 &emsp;(C) with respect to transactions involving other spent batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of such batteries, and the person was in compliance with applicable regulations or standards or any amendments thereto.
 

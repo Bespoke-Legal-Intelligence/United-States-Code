@@ -32,7 +32,7 @@ For the purposes of this Act the term—
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41\(§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
+This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation.
 
 For definition of Canal Zone, referred to in subsec. (d), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 

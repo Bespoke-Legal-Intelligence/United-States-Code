@@ -6,7 +6,7 @@ The Secretary shall, by notice published in the Federal Register, establish such
 
 #### (b) Consultation
 
-In establishing requirements to carry out the provisions of this part, and in considering applications under this part, the Secretary shall consult with officials of the appropriate agencies of the Department of Health and Human Services and with representative provider and public interest groups.
+In establishing requirements to carry out the provisions of this part, and in considering applications under this part, the Secretary shall consult with officials of the appropriate agencies ofthe Department of Health and Human Services and with representative provider and public interest groups.
 
 #### (c) Eligibility for SSI and medicaid
 
@@ -26,5 +26,5 @@ In establishing requirements to carry out the provisions of this part, and in co
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitlesXVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -26,7 +26,7 @@ Waiver for Certain Workforce Reviews.—Subsection (b) shall not apply to a work
 
 (d)
 
-Annual Report.—Not later than February 1 of each fiscal year, the Secretary of Defenseshall submit to Congress a report on the results of the monitoring performed under the system established under subsection (b). For each function subject to monitoring during the previous fiscal year, the report shall indicate the following:
+Annual Report.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a report on the results of the monitoring performed under the system established under subsection (b). For each function subject to monitoring during the previous fiscal year, the report shall indicate the following:
 
 &emsp;(1) The cost of the workforce review.
 

@@ -20,7 +20,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 #### Amendments
 
-2000—Subsec.(c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title” for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
+2000—Subsec.(c). Pub. L. 106–459, in first sentence, substituted “$175,000,000 for section 1592(a) of this title”for “$75,000,000 for subsection 1592(a) of this title” and “paragraph (6) of section 1592(a) of this title” for “paragraph 1592(a)(6) of this title” and, in second sentence, substituted “section 1592(a)(6) of this title” for “paragraph 1592(a)(6) of this title”.
 
 1995—Subsec. (c). Pub. L. 104–20 added subsec. (c).
 

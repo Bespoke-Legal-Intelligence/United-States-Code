@@ -16,7 +16,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Savings Provision
 
-Authority of Secretary of Agriculture under this section as unaffected by repeal of Secretary's authorityunder section 701b of this title, see section 7 of act Aug. 4, 1954, set out as a note under section 701b of this title
+Authority of Secretary of Agriculture under this section as unaffected by repeal of Secretary's authority under section 701b of this title, see section 7 of act Aug. 4, 1954, set out as a note under section 701b of this title
 
 #### Section as Unaffected by Submerged Lands Act
 

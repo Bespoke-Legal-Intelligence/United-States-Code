@@ -61,7 +61,7 @@
 | (a) | Adoption of plan by State; submission to Administrator; content of plan; revision; new sources; indirect source review program; supplemental or intermittent control systems. |
 | (b) | Extension of period for submission of plans. |
 | (c) | Preparation and publication by Administrator of proposed regulations setting forth implementation plan; transportation regulations study and report; parking surcharge; suspension authority; plan implementation. |
-| (d), | (e) Repealed. |
+| (d), (e) | Repealed. |
 | (f) | National or regional energy emergencies; determination by President. |
 | (g) | Governor's authority to issue temporary emergency suspensions. |
 | (h) | Publication of comprehensive document for each State setting forth requirements of applicable implementation plan. |
@@ -974,7 +974,7 @@ Act July 14, 1955, ch. 360, 69 Stat. 322, as amended, known as the Clean Air Act
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6901, 6905, 6907, 6949, 7273, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 7 section 7719; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 460<i>lll</i>, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345, 1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 5506, 26101, 47102.
+This chapter is referred to in sections 2022, 4363a, 4365, 4905, 6901, 6905, 6907, 6949, 8302, 8402, 8411, 9621, 13257, 13260, 13369 of this title; title 7 section 7719; title 10 section 2704; title 15 sections 793, 798, 2080, 2617, 2706, 3801; title 16 sections 410aaa–59, 460ii–4, 460<i>lll</i>, 1456; title 18 section 2721; title 23 sections 104, 134, 135, 149; title 26 section 169; title 30 sections 201, 1251, 1253, 1292, 1303; title 33 sections 1345, 1502, 1503; title 43 section 1334; title 49 sections 5303, 5305, 5309, 5323, 5335, 5506, 26101, 47102, 47117; title 50 section 2762.
 
 
 ---

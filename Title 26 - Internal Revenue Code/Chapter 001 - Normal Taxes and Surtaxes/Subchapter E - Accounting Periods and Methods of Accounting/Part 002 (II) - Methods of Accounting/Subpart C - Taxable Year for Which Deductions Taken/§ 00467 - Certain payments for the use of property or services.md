@@ -92,7 +92,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 &emsp;&emsp;(B) any transferee in a disposition excepted by reason of subparagraph (A) who has a transferred basis in the property shall be treated in the same manner as the transferor, and
 
-&emsp;&emsp;(C) for purposes of sections 170(e), 341(e)(12), and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245 or 1250.
+&emsp;&emsp;(C) for purposes of sections 170(e) and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245 or 1250.
 
 #### (d) Section 467 rental agreements
 
@@ -190,15 +190,21 @@ Under regulations prescribed by the Secretary, rules comparable to the rules of 
 
 #### (g) Comparable rules for services
 
-Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2)shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.
+Under regulations prescribed by the Secretary, rules comparable to the rules of subsection (a)(2) shall also apply in the case of payments for services which meet requirements comparable to the requirements of subsection (d). The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.
 
 #### (h) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
 
-(Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392.)
+(Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
+
+2003—Subsec. (c)(5)(C). Pub. L. 108–27, §§302(e)(4)(B)(ii), 303, temporarily struck out “, 341(e)(12),” after “170(e)”. See Effective and Termination Dates of 2003 Amendment note below.
 
 1988—Subsec. (c)(5)(C). Pub. L. 100–647, §1005(c)(10), made technical correction to directory language of Pub. L. 99–514, §511(d)(2)(A). See 1986 Amendment note below.
 
@@ -225,6 +231,12 @@ Subsec. (e)(5). Pub. L. 99–514, §201(d)(8)(B), substituted “section 465(b)(
 Pub. L. 99–514, §1807(b)(2)(D), substituted “section 168(e)(4)(D)” for “section 168(d)(4)(D)”.
 
 Subsec. (g). Pub. L. 99–514, §1807(b)(1), inserted at end “The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.”
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -348,7 +360,7 @@ Operating rules.—For purposes of this schedule—
 
 &emsp;“(C)
 
-Paragraph not to apply.—This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all the payments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually.”
+Paragraph not to apply.—This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all thepayments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

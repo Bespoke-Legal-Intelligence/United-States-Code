@@ -38,7 +38,7 @@
 
 #### (1) Prohibition on effecting an arrest
 
-&emsp;No officer or employee of the United States may directly effect an arrest in any foreigncountry as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
+&emsp;No officer or employee of the United States may directly effect an arrest in any foreign country as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
 
 #### (2) Participation in arrest actions
 
@@ -46,7 +46,7 @@
 
 #### (3) Exception for exigent, threatening circumstances
 
-&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protect life or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
+&emsp;Paragraph (1) does not prohibit an officer or employee from taking direct action to protectlife or safety if exigent circumstances arise which are unanticipated and which pose an immediate threat to United States officers or employees, officers or employees of a foreign government, or members of the public.
 
 #### (4) Exception for maritime law enforcement
 
@@ -242,7 +242,7 @@ Subsecs. (f) to (h). Pub. L. 102–583, §6(b)(2), struck out subsec. (f) relati
 
 Subsec. (i). Pub. L. 102–583, §6(b)(3), redesignated subsec. (i) as (e).
 
-Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted ofsubpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
+Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
 
 Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted “or” at end of subpar. (A), substituted a period for “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government.”
 
@@ -312,7 +312,7 @@ Subsec. (k). Pub. L. 100–690, §4405(a), added subsec. (k).
 
 1987—Subsec. (e)(7). Pub. L. 100–204, §805(a), added par. (7).
 
-Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed to in an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
+Subsec. (h)(2)(A). Pub. L. 100–202 designated existing provisions of subpar. (A) as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, and in subcl. (I) inserted “in satisfying the goals agreed toin an applicable bilateral narcotics agreement with the United States, (as described in (ii)) and,” after “on its own,”, and added cl. (ii).
 
 Subsec. (h)(4)(A). Pub. L. 100–204, §805(b), which directed that subpar. (A) of subsec. (h) of this section be amended by substituting “45” for “30”, was executed by making the substitution in subpar. (A) of subsec. (h)(4) of this section to reflect the probable intent of Congress.
 
@@ -532,7 +532,7 @@ Section 10 of Pub. L. 101–231 provided that:
 
 “(a)
 
-Authority.—The President may release Bolivia, Colombia, or Peru from its obligation to make payments to the United States Government of principal and interest on account of a loan made to that country under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to foreign assistance programs) or credits extended for that country under section 23 ofthe Arms Export Control Act (22 U.S.C. 2763; relating to foreign military sales credits) if the President determines that that country is implementing programs to reduce the flow of cocaine to the United States in accordance with a formal bilateral or multilateral agreement, to which the United States is a party, that contains specific, quantitative and qualitative, performance criteria with respect to those programs.
+Authority.—The President may release Bolivia, Colombia, or Peru from its obligation to make payments to the United States Government of principal and interest on account of a loan made to that country under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to foreign assistance programs) or credits extended for that country under section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to foreign military sales credits) if the President determines that that country is implementing programs to reduce the flow of cocaine to the United States in accordance with a formal bilateral or multilateral agreement, to which the United States is a party, that contains specific, quantitative and qualitative, performance criteria with respect to those programs.
 
 “(b)
 
@@ -540,7 +540,7 @@ Congressional Review of Agreements.—The President shall submit any such agreem
 
 “(b) \[(c)\]
 
-Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection (a) shall be exercised in coordination with multilateral debt relief activities.
+Coordination with Multilateral Debt Relief Activities.—The authority provided in subsection\(a) shall be exercised in coordination with multilateral debt relief activities.
 
 “(c) \[(d)\]
 
@@ -618,7 +618,7 @@ Section 2029 of Pub. L. 99–570 directed Director of United States Information 
 
 Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
-“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Expenses of the United States Senate Caucus on International Narcotics Control’ under the heading ‘Congressional Operations’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
+“(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Expenses of the UnitedStates Senate Caucus on International Narcotics Control’ under the heading ‘Congressional Operations’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
@@ -710,7 +710,7 @@ Section 502(a)(2)–(4) of Pub. L. 97–113 provided that:
 
 “(3) Funds appropriated for the fiscal year 1980 to carry out section 481 of the Foreign Assistance Act of 1961 \[this section\] which were obligated for assistance for the Republic of Colombia may be used for purposes other than those set forth in section 482(a)(2) of that Act \[22 U.S.C. 2291a\] as in effect immediately before the enactment of the International Security and Development Cooperation Act of 1980 \[Dec. 16, 1980\].
 
-“(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds described in those paragraphs are authorized to be made available for the purposes specified in those paragraphs.”
+“(4) Paragraphs (2) and (3) of this subsection shall apply only to the extent provided in advance in an appropriations Act. For such purpose, the funds describedin those paragraphs are authorized to be made available for the purposes specified in those paragraphs.”
 
 #### United States Citizens Imprisoned in Mexico
 

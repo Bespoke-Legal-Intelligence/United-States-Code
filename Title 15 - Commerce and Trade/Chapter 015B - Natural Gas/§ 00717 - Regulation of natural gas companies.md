@@ -52,7 +52,7 @@ Ex. Ord. No. 11969, Feb. 2, 1977, 42 F.R. 6791, as amended by Ex. Ord. No. 12038
 
 #### Proclamation No. 4485
 
-Proc. No. 4485, Feb. 2, 1977, 42 F.R. 6789, declared that a natural gas emergency existed within the meaning of section 3 of the Emergency Natural Gas Act of 1977, set out as a note above, which emergency was terminated by Proc. No. 4495, Apr. 1, 1977, 42 F.R. 18053, formerly set out below.
+Proc. No. 4485, Feb. 2, 1977, 42 F.R. 6789, declared that a natural gas emergency existed within the meaning ofsection 3 of the Emergency Natural Gas Act of 1977, set out as a note above, which emergency was terminated by Proc. No. 4495, Apr. 1, 1977, 42 F.R. 18053, formerly set out below.
 
 #### Proclamation No. 4495
 

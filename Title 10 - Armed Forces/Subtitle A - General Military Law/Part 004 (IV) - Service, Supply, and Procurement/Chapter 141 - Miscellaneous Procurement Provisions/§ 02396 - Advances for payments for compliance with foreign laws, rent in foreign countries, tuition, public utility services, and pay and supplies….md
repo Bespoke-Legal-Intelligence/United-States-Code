@@ -10,7 +10,7 @@
 
 &emsp;(4) public service utilities.
 
-(b)(1) Under regulations prescribed by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service of the Navy, an officer of an armed force of the United States accountable for public money may advance amounts to a disbursing official of a friendly foreign country or members of an armed force of a friendly foreign country for—
+(b)(1) Under regulations prescribed by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service of the Navy, an officer of an armed force of the United States accountable for public money may advance amounts to a disbursing official of a friendly foreign country or members of an armed force of a friendly foreign country for—
 
 &emsp;(A) pay and allowances to members of the armed force of that country; and
 
@@ -24,7 +24,7 @@
 
 &emsp;(C) containing any other provision the President considers necessary to carry out this subsection and to safeguard the interests of the United States.
 
-(Added Pub. L. 97–258, §2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1053, §2395; renumbered §2396 and amended Pub. L. 97–295, §1(28)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 105–85, div. A, title X, §1014(a), (b)(1), Nov. 18, 1997, 111 Stat. 1875.)
+(Added Pub. L. 97–258, §2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1053, §2395; renumbered §2396 and amended Pub. L. 97–295, §1(28)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 105–85, div. A, title X, §1014(a), (b)(1), Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes<br>1982
 
@@ -74,9 +74,15 @@ This redesignates 10:2395 as 10:2396 because of the redesignation of 10:2394 (en
 
 #### Amendments
 
+2002—Subsec. (b)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in introductory provisions.
+
 1997—Pub. L. 105–85, §1014(b)(1), inserted “public utility services,” after “tuition,” in section catchline.
 
 Subsec. (a)(4). Pub. L. 105–85, §1014(a), added par. (4).
 
 1982—Subsec. (b)(2)(C). Pub. L. 97–295 substituted “any other” for “another”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

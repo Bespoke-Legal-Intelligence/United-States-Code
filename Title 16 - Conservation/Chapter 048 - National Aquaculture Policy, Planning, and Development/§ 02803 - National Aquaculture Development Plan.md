@@ -52,7 +52,7 @@ The Plan shall specify—
 
 &emsp;(A) the responsibilities conferred on the respective Secretaries by law or by any executive action having the effect of law (including, but not limited to, Reorganization Plan Numbered 4 of 1970);
 
-&emsp;(B) the experience, expertise, and other appropriate resources that the department ofeach such Secretary may have with respect to the action required under the activity concerned; and
+&emsp;(B) the experience, expertise, and other appropriate resources that the department of each such Secretary may have with respect to the action required under the activity concerned; and
 
 &emsp;(C) the concurrence of the Secretaries.
 

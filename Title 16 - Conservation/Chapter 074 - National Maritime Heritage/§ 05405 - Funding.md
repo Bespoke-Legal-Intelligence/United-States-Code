@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) 50 percent shall be available to the Administrator of the Maritime Administration for such acquisition, maintenance, repair, reconditioning, or improvement of vessels in the National Defense Reserve Fleet as is authorized under other Federal law.
 
-&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
+&emsp;&emsp;(B) 25 percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United StatesMerchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
 &emsp;&emsp;(C) The remainder shall be available to the Secretary to carry out the Program, as provided in subsection (b) of this section.
 
@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not more than 15 percent or $500,000, whichever is less, of the amount availablefor the Program under subsection (a)(1)(C) of this section for a fiscal year may be used for expenses of administering the Program.
+&emsp;&emsp;Not more than 15 percent or $500,000, whichever is less, of the amount available for the Program under subsection (a)(1)(C) of this section for a fiscal year may be used for expenses of administering the Program.
 
 #### (B) Allocation
 

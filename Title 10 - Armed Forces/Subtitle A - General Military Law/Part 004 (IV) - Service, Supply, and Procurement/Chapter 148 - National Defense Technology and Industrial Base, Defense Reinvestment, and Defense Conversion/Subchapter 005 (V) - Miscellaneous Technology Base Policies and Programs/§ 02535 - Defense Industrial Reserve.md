@@ -10,7 +10,7 @@ Declaration of Purpose and Policy.—It is the intent of Congress—
 
 &emsp;(3) that to the maximum extent practicable, reliance will be placed upon private industry for support of defense production; and
 
-&emsp;(4) that machine tools and other industrial manufacturing equipment may be held inplant equipment packages or in a general reserve to maintain a high state of readiness for production of critical items of defense materiel, to provide production capacity not available in private industry for defense materiel, or to assist private industry in time of national disaster.
+&emsp;(4) that machine tools and other industrial manufacturing equipment may be held in plant equipment packages or in a general reserve to maintain a high state of readiness for production of critical items of defense materiel, to provide production capacity not available in private industry for defense materiel, or to assist private industry in time of national disaster.
 
 (b)
 
@@ -28,7 +28,7 @@ Powers and Duties of the Secretary of Defense.—(1) To execute the policy set f
 
 &emsp;(F) authorize the disposition in accordance with existing law of any of such property when in the opinion of the Secretary such property is no longer needed by the Department of Defense; and
 
-&emsp;(G) notwithstanding title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.) and any other provision of law, authorize the transfer to a nonprofit educational institution or training school, on a nonreimbursable basis, of any such property already in the possession of such institution or school whenever the program proposed by such institution or school for the use of such property is in the public interest.
+&emsp;(G) notwithstanding chapter 5 of title 40 and any other provision of law, authorize the transfer to a nonprofit educational institution or training school, on a nonreimbursable basis, of any such property already in the possession of such institution or school whenever the program proposed by such institution or school for the use of such property is in the public interest.
 
 (2)(A) The Secretary of a military department to which equipment or other property is transferred from the Defense Industrial Reserve shall reimburse appropriations available for the purposes of the Defense Industrial Reserve for the full cost (including direct and indirect costs) of—
 
@@ -54,11 +54,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “plant equipment package” means a complement of active and idle machine tools and other industrial manufacturing equipment held by and under the control of the Department of Defense and approved by the Secretary for retention to produce particular defense materiel or defense supporting items at a specific level of output in the event of emergency.
 
-(Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737; Pub. L. 107–107, div. A, title X, §1048(a)(23), Dec. 28, 2001, 115 Stat. 1224.)
-
-#### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1)(G), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act, is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+(Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737; Pub. L. 107–107, div. A, title X, §1048(a)(23), Dec. 28, 2001, 115 Stat. 1224; Pub. L. 107–217, §3(b)(7), Aug. 21, 2002, 116 Stat. 1295.)
 
 #### Codification
 
@@ -69,6 +65,8 @@ The text of section 453 of Title 50 which was transferred to this section, desig
 The text of section 452 of Title 50 which was transferred to this section, designated subsec. (c), and amended by Pub. L. 102–484, §4235(b), was based on acts July 2, 1948, ch. 811, §3, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
 
 #### Amendments
+
+2002—Subsec. (b)(1)(G). Pub. L. 107–217 substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
 2001—Subsec. (a). Pub. L. 107–107, §1048(a)(23)(A)(i), substituted “intent of Congress—” for “intent of Congress” in introductory provisions.
 
@@ -97,4 +95,8 @@ Subsec. (c). Pub. L. 102–484, §4235(b), transferred the text of section 452 o
 #### Treatment of Property Loaned Before December 31, 1993 to Educational Institutions or Training Schools
 
 Section 379(b) of Pub. L. 103–337 provided that: “Except for property determined by the Secretary of Defense to be needed by the Department of Defense, property loaned before December 31, 1993, to an educational institution or training school under section 2535(b) of title 10, United States Code, or section 4(a)(7) of the Defense Industrial Reserve Act (as in effect before October 23, 1992 \[former section 453(a)(7) of Title 50, War and National Defense, see Codification and 1992 Amendment notes above\]) shall be regarded as surplus property. Upon certification by the Secretary to the Administrator of General Services that the property is being used by the borrowing educational institution or training school for a purpose consistent with that for which the property was loaned, the Administrator may authorize the conveyance of all right, title, and interest of the United States in such property to the borrower if the borrower agrees to accept the property. The Administrator may require any additional terms and conditions in connection with a conveyance so authorized that the Administrator considers appropriate to protect the interests of the United States.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 sections 113, 581.
 

@@ -570,5 +570,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 722, 725, 773, 794, 795j, 796b, 796d, 3011 of this title; title 42 sections 5061, 12511.
+This section is referred to in sections 722, 725, 773, 794, 795j, 796b, 796d, 3011 of this title; title 16 section 6231; title 42 sections 5061, 12511.
 

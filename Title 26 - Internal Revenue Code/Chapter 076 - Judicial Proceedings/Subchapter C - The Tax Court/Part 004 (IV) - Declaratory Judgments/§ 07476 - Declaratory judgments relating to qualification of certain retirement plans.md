@@ -18,7 +18,7 @@ In a case of actual controversy involving—
 
 #### (1) Petitioner
 
-&emsp;A pleading may be filed under this section only by a petitioner who is the employer, the plan administrator, an employee who has qualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
+&emsp;A pleading may be filed under this section only by a petitioner who is the employer, theplan administrator, an employee who has qualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
 
 #### (2) Notice
 
@@ -30,7 +30,7 @@ In a case of actual controversy involving—
 
 #### (4) Plan put into effect
 
-&emsp;No proceeding may be maintained under this section unless the plan (and, in the case of a controversy involving the continuing qualification of the plan because of an amendment to the plan, the amendment) with respect to which a decision of the Tax Court is sought has been put into effect before the filing of the pleading. A plan or amendment shall not be treated as not being in effect merely becauseunder the plan the funds contributed to the plan may be refunded if the plan (or the plan as so amended) is found to be not qualified.
+&emsp;No proceeding may be maintained under this section unless the plan (and, in the case of a controversy involving the continuing qualification of the plan because of an amendment to the plan, the amendment) with respect to which a decision of the Tax Court is sought has been put into effect before the filing of the pleading. A plan or amendment shall not be treated as not being in effect merely because under the plan the funds contributed to the plan may be refunded if the plan (or the plan as so amended) is found to be not qualified.
 
 #### (5) Time for bringing action
 
@@ -86,7 +86,7 @@ Section 701(dd)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct
 
 Amendment by section 1042(d)(2)(C) of Pub. L. 94–455 applicable to pleadings filed with the Tax Court after Oct. 4, 1976, but only with respect to transfers beginning after Oct. 9, 1975, see section 1042(e)(1) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Amendment by section 1306(b)(3) of Pub. L. 94–455 applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of this title.
+Amendment by section 1306(b)(3) of Pub. L. 94–455 applicable with respect to pleadings filed with the UnitedStates Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of this title.
 
 Amendment by section 1906(a)(48), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 

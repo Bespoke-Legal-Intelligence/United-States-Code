@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the forced transportation of elementary and secondary school students in implementation of the constitutional requirement for thedesegregation of such schools is controversial and difficult under the best planning and administration; and
+&emsp;(1) the forced transportation of elementary and secondary school students in implementation of the constitutional requirement for the desegregation of such schools is controversial and difficult under the best planning and administration; and
 
 &emsp;(2) the forced transportation of elementary and secondary school students after the commencement of an academic school year is educationally unsound and administratively inefficient.
 

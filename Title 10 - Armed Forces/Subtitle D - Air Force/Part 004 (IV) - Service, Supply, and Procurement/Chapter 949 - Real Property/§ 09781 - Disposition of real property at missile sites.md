@@ -26,25 +26,33 @@
 
 (C) Subject to subparagraph (D), the Administrator shall convey the interest of the United States in the tract of real property to the highest bidder.
 
-(D) If all of the bids received by the Administrator in the sealed bid competitive sale of the tract of real property are less than the fair market value of the real property, the Administrator shall dispose of the real property in accordance with the provisions of title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
+(D) If all of the bids received by the Administrator in the sealed bid competitive sale of the tract of real property are less than the fair market value of the real property, the Administrator shall dispose of the real property in accordance with the provisions of chapter 5 of title 40.
 
 (c) The Administrator shall determine the fair market value of the interest of the United States to be conveyed under this section.
 
-(d) The requirement to determine whether any tract of land described in subsection (a)(2) is excess property or surplus property under title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.) before disposing of such tract shall not be applicable to the disposition of such tract under this section.
+(d) The requirement to determine whether any tract of land described in subsection (a)(2) is excess property or surplus property under chapter 5 of title 40 before disposing of such tract shall not be applicable to the disposition of such tract under this section.
 
 (e) The disposition of a tract of land under this section to any person shall be subject to (1) any easement retained by the Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator considers necessary or appropriate to protect the interests of the United States.
 
 (f) The exact acreage and legal description of any tract of land to be conveyed under this section shall be determined in any manner that is satisfactory to the Administrator. The cost of any survey conducted for the purpose of this subsection in the case of any tract of land shall be borne by the person or persons to whom the conveyance of such tract of land is made.
 
-(g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with the Federal Property and Administrative Services Act of 1949.
+(g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
-(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906.)
+(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (b)(2)(D), (d), and (g), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title II of that Act, is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 251 of Title 41 and Tables.
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–178 substituted “title III of the Federal Property and Administrative Services Act of 1949” for “subtitle III of the Federal Property and Administrative Services Act of 1949” and made technical correction to reference to (41 U.S.C. 251 et seq.).
+
+2002—Subsec. (b)(2)(D). Pub. L. 107–217, §3(b)(40)(A), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+
+Subsec. (d). Pub. L. 107–217, §3(b)(40)(B), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+
+Subsec. (g). Pub. L. 107–217, §3(b)(40)(C), inserted “subtitle I of title 40 and subtitle III of” before “the Federal Property and Administrative Services Act of 1949” and “(41 U.S.C. 251 et seq.)” at end.
 
 1993—Subsec. (a)(1). Pub. L. 103–160, §2851(a)(1), substituted “Administrator of General Services” for “Secretary of the Air Force”.
 
@@ -57,4 +65,8 @@ Subsec. (c). Pub. L. 103–160, §2851(a)(2), substituted “Administrator” fo
 Subsec. (e). Pub. L. 103–160, §2851(a)(3), substituted “Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator” for “Secretary with respect to such tract, and (2) such additional terms and conditions as the Secretary”.
 
 Subsec. (f). Pub. L. 103–160, §2851(a)(4), substituted “Administrator” for “Secretary”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 

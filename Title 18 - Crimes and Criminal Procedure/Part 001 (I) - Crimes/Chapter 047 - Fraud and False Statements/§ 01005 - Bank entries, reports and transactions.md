@@ -32,7 +32,7 @@ Since section 3231 of this title gives the district court jurisdiction of crimin
 
 #### References in Text
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) ofthe Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 3(w)(1) of the Federal Deposit Insurance Act, referred to in text, is classified to section 1813(w)(1) of Title 12.
 

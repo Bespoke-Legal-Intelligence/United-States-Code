@@ -268,11 +268,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Waiver of Restriction on Assistance to Azerbaijan
 
-Determination of President of the United States, No. 2003–12, Jan. 17, 2003, 68 F.R. 3803, provided:
+Determination of President of the United States, No. 2004–18, Dec. 30, 2003, 69 F.R. 2057, provided:
 
 Memorandum for the Secretary of State
 
-Pursuant to the authority contained in Title II of the Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115) \[set out as a note above\], I hereby determine and certify that extending the waiver of section 907 of the FREEDOM Support Act of 1992 (Public Law 102–511) \[set out as a note above\]:
+Consistent with the authority contained in title II of the Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002 (Public Law 107–115) \[see title II \[(g)(2)–(6)\] of Pub. L. 107–115, set out as a note above\], I hereby determine and certify that extending the waiver of section 907 of the FREEDOM Support Act of 1992 (Public Law 102–511) \[set out as a note above\]:
 
 • is necessary to support United States efforts to counter international terrorism;
 
@@ -282,11 +282,15 @@ Pursuant to the authority contained in Title II of the Kenneth M. Ludden Foreign
 
 • will not undermine or hamper ongoing efforts to negotiate a peaceful settlement between Armenia and Azerbaijan or be used for offensive purposes against Armenia.
 
-Accordingly, I hereby extend the waiver of section 907 of the FREEDOM Support Act. You are authorized and directed to notify the Congress of this determination and to arrange for its publication in the Federal Register.
+Accordingly, I hereby extend the waiver of section 907 of the FREEDOM Support Act.
+
+You are authorized and directed to notify the Congress of this determination and to arrange for its publication in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Prior waiver of section 907 of Pub. L. 102–511 was contained in the following:
+Prior waivers of section 907 of Pub. L. 102–511 were contained in the following:
+
+Determination of the President of the United States, No. 2003–12, Jan. 17, 2003, 68 F.R. 3803.
 
 Determination of the President of the United States, No. 2002–06, Jan. 25, 2002, 67 F.R. 5921.
 

@@ -78,7 +78,7 @@ Sec. 2. <i>Responsibilities of Agency Heads</i>. The head of each executive agen
 
 (b) strengthen the quality of decisions about the employment of information resources to meet mission needs through integrated analysis, planning, budgeting, and evaluation processes, including:
 
-(1) determining, before making investments in new information systems, whether the Government shouldbe performing the function, if the private sector or another agency should support the function, and if the function needs to be or has been appropriately redesigned to improve its efficiency;
+(1) determining, before making investments in new information systems, whether the Government should be performing the function, if the private sector or another agency should support the function, and if the function needs to be or has been appropriately redesigned to improve its efficiency;
 
 (2) establishing mission-based performance measures for information systems investments, aligned with agency performance plans prepared pursuant to the Government Performance and Results Act of 1993 (Public Law 103–62);
 
@@ -182,7 +182,7 @@ Sec. 4. <i>Government Information Technology Services Board.</i>
 
 (4) developing with the National Institute of Standards and Technology and with established standards bodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act \[now 40 U.S.C. 11332\].
 
-(b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIOCouncil may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
+(b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIO Council may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
 
 Sec. 5. <i>Information Technology Resources Board.</i>
 
@@ -266,7 +266,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the United States Government
 
 (3) developing and maintaining adequate recordkeeping systems.
 
-(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws and determine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
+(c) Contractors and recipients of Federal financial assistance, including recipients of grants and loan guarantee assistance, should have appropriate systems and controls in place to ensure that Federal funds are not used to acquire, operate, or maintain computer software in violation of applicable copyright laws. If agencies become aware that contractors or recipients are using Federal funds to acquire, operate, or maintain computer software in violation of copyright laws anddetermine that such actions of the contractors or recipients may affect the integrity of the agency's contracting and Federal financial assistance processes, agencies shall take such measures, including the use of certifications or written assurances, as the agency head deems appropriate and consistent with the requirements of law.
 
 (d) Executive agencies shall cooperate fully in implementing this order and shall share information as appropriate that may be useful in combating the use of computer software in violation of applicable copyright laws.
 

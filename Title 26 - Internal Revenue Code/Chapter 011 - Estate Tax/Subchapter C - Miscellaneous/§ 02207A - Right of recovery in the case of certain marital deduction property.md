@@ -42,7 +42,7 @@ Section 1302(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section applicable to estates of decedents dying after Dec. 31, 1981, see section 403(e) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 2056 of this title.
+Section applicable to estates of decedents dying after Dec. 31, 1981, see section 403(e) of Pub. L. 97–34, set outas an Effective Date of 1981 Amendment note under section 2056 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -70,7 +70,7 @@ The United States shall be deemed to own Federal property for the purposes of th
 
 &emsp;&emsp;(C) requires the grantee of the property to report to the Federal Government (or its agent) regarding information on the use of the property;
 
-&emsp;&emsp;(D) except with the approval of the Federal Government (or its agent), prohibits the sale, lease, assignment, or other disposal ofthe property unless such sale, lease, assignment, or other disposal is to another eligible government agency; and
+&emsp;&emsp;(D) except with the approval of the Federal Government (or its agent), prohibits the sale, lease, assignment, or other disposal of the property unless such sale, lease, assignment, or other disposal is to another eligible government agency; and
 
 &emsp;&emsp;(E) reserves to the Federal Government a right of reversion at any time the Federal Government (or its agent) deems it necessary for the national defense.
 
@@ -96,7 +96,7 @@ Beginning with fiscal year 1995, a local educational agency shall be deemed to m
 
 (4) For the purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hot Springs, South Dakota local educational agency as if it had filed a timely application under this section for fiscal year 1994 if the Secretary has received the fiscal year 1994 application, as well as Exhibits A and B not later than December 1, 1999.
 
-(5) For purposes of payments under this section for each fiscal year beginning with fiscal year 2000, the Secretary shall treat the Hueneme, California local educational agency as if it had filed a timely application under this section if the Secretary has received the fiscal year 1995 application not later than December 1, 1999.
+(5) For purposes of payments under this section for each fiscal year beginning with fiscalyear 2000, the Secretary shall treat the Hueneme, California local educational agency as if it had filed a timely application under this section if the Secretary has received the fiscal year 1995 application not later than December 1, 1999.
 
 #### (g) Former districts
 
@@ -124,7 +124,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (C) Insufficient appropriations
 
-&emsp;&emsp;If the amount appropriated under section 7714(a) of this title is insufficient to pay thefull amount determined under this paragraph for all eligible local educational agencies for the fiscal year, then the Secretary shall ratably reduce the payment to each local educational agency under this paragraph.
+&emsp;&emsp;If the amount appropriated under section 7714(a) of this title is insufficient to pay the full amount determined under this paragraph for all eligible local educational agencies for the fiscal year, then the Secretary shall ratably reduce the payment to each local educational agency under this paragraph.
 
 #### (2) Payments for 1995 recipients
 
@@ -242,7 +242,7 @@ Subsec. (h)(2)(A). Pub. L. 107–110, §801(b)(1), inserted before period at end
 
 Subsec. (h)(2)(B)(ii). Pub. L. 107–110, §801(b)(2), substituted “for each local educational agency described in subparagraph (A)” for “for each local educational agency that received a payment under this section for fiscal year 1995”.
 
-Subsec. (h)(4)(B). Pub. L. 107–110, §801(c), substituted “(by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)” for “(in the same manner as percentage shares are determined for local educational agencies under paragraph (2)(B)(ii))” and “, except that, for the purpose of calculating a local educational agency'smaximum amount under subsection (b) of this section” for “, except that for the purpose of calculating a local educational agency's assessed value of the Federal property”.
+Subsec. (h)(4)(B). Pub. L. 107–110, §801(c), substituted “(by dividing the maximum amount that the agency is eligible to receive under subsection (b) of this section by the total of the maximum amounts for all such agencies)” for “(in the same manner as percentage shares are determined for local educational agencies under paragraph (2)(B)(ii))” and “, except that, for the purpose of calculating a local educational agency's maximum amount under subsection (b) of this section” for “, except that for the purpose of calculating a local educational agency's assessed value of the Federal property”.
 
 Subsec. (j). Pub. L. 107–110, §801(d), struck out subsec. (j) which authorized additional assistance for certain local educational agencies impacted by Federal property acquisition.
 

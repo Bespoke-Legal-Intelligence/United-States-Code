@@ -38,6 +38,7 @@
 | [<b>869.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20869%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>8961</b> |
 | [<b>871.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20871%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>8991</b> |
 | [<b>873.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20873%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>9021</b> |
+| [<b>875.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20875%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>9061</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -78,6 +79,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
 1999—Pub. L. 106–65, div. A, title VII, §721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
 

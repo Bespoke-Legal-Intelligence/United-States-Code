@@ -12,7 +12,7 @@ A prior section 5411, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Pub. L. 91–673 struck out requirement of separate facilities for bottling of beer and cereal beveragesand permitted use of brewery for packaging and storing beer and other cereal beverages.
+1971—Pub. L. 91–673 struck out requirement of separate facilities for bottling of beer and cereal beverages and permitted use of brewery for packaging and storing beer and other cereal beverages.
 
 #### Effective Date of 1971 Amendment
 

@@ -40,7 +40,7 @@ Whenever the Commissioner determines that—
 
 &emsp;(2) a State has failed to qualify under the State plan required under section 12335 of this title;
 
-> the Commissioner shall make such allotment available for carrying out such purposes to other participating States in a proportional manner based on the relative population of the State of individuals under the age of 21.
+> the Commissioner shall make such allotment available for carrying out such purposes toother participating States in a proportional manner based on the relative population of the State of individuals under the age of 21.
 
 #### (d) Repealed. Pub. L. 103–252, title IV, §402(b)(2), May 18, 1994, 108 Stat. 673
 
@@ -50,7 +50,7 @@ A State shall not use in excess of 10 percent of a grant awarded under section 1
 
 #### (f) Grants for Indians
 
-The Commissioner shall use 1 percent of the amount appropriated under this section for eachfiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 450b(b) and (c) <sup>1</sup> of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
+The Commissioner shall use 1 percent of the amount appropriated under this section for each fiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 450b(b) and (c) <sup>1</sup> of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
 
 #### (g) Limitation
 

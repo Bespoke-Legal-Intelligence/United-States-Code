@@ -200,7 +200,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (1) Design and selection
 
-&emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, without penalty, repayment on the borrower's loans under this part. The borrower may choose—
+&emsp;Consistent with criteria established by the Secretary, the Secretary shall offer a borrower of a loan made under this part a variety of plans for repayment of such loan, including principal and interest on the loan. The borrower shall be entitled to accelerate, withoutpenalty, repayment on the borrower's loans under this part. The borrower may choose—
 
 &emsp;&emsp;(A) a standard repayment plan, with a fixed annual repayment amount paid over a fixed period of time, consistent with subsection (a)(1) of this section;
 
@@ -220,7 +220,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (4) Alternative repayment plans
 
-&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1)are not adequate to accommodate the borrower's exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
+&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower's exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
 
 #### (5) Repayment after default
 
@@ -346,7 +346,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1),\(b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580.)
 
 #### References in Text
 

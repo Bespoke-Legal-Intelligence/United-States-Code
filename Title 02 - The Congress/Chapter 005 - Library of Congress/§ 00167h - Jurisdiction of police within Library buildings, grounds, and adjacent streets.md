@@ -6,9 +6,9 @@ The police provided for in section 167 of this title shall have the power, withi
 
 #### Amendments
 
-1987—Pub. L. 100–135 substituted “The police” for “The special police”.
+<b>1987</b>—Pub. L. 100–135 substituted “The police” for “The special police”.
 
-1973—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia.
+<b>1973</b>—Pub. L. 93–198 inserted reference to violations of any law of the District of Columbia.
 
 #### Effective Date of 1987 Amendment
 

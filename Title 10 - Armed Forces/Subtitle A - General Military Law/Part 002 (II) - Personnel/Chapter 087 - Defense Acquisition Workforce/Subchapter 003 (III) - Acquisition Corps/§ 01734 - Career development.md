@@ -32,15 +32,13 @@ Major Milestone Regulations.—(1) The Secretary of Defense shall issue regulati
 
 Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and the service obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
 
-(2) The authority to grant such waivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.
-
-(3) With respect to each waiver granted under this subsection, the service acquisition executive (or his delegate) shall set forth in a written document the rationale for the decision to grant the waiver. The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.
+(2) With respect to each waiver granted under this subsection, the service acquisition executive (or his delegate) shall set forth in a written document the rationale for the decision to grant the waiver.
 
 (e)
 
-Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of an Acquisition Corps serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
+Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the Acquisition Corpsserving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
 
-(2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis, by the acquisition career program board of the department concerned, for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
+(2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
 
 (f)
 
@@ -48,17 +46,31 @@ Centralized Job Referral System.—The Secretary of Defense shall prescribe regu
 
 (g)
 
-Exchange Program.—(1) The Secretary of Defense shall establish, for purposes of broadening the experience of members of each Acquisition Corps, a test program in which members of a Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
-
-(2) The Secretary of Defense shall submit the portion of the test program applicable to civilian employees to the Director of the Office of Personnel Management for approval. If the Director does not disapprove that portion of the test program within 30 days after the date on which the Director receives it, that portion of the test program is deemed to be approved by the Director.
+Exchange Program.—The Secretary of Defense shall establish, for purposes of broadening the experience of members of the Acquisition Corps, a test program in which members of the Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 
 (h)
 
-Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military members of the Acquisition Corps of that military department to critical acquisition positions.
+Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
 
 #### Amendments
+
+2003—Subsec. (d)(2). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2) and struck out at end “The document shall be submitted to the Director of Acquisition Education, Training, and Career Development.”
+
+Pub. L. 108–136, §831(b)(4)(A)(i), struck out par. (2) which read as follows: “The authority to grant such waivers may be delegated by the service acquisition executive of a military department only to the Director of Acquisition Career Management for the military department.”
+
+Subsec. (d)(3). Pub. L. 108–136, §831(b)(4)(A)(ii), redesignated par. (3) as (2).
+
+Subsec. (e)(1). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”
+
+Subsec. (e)(2). Pub. L. 108–136, §831(b)(4)(B), struck out “, by the acquisition career program board of the department concerned,” after “case-by-case basis”.
+
+Subsec. (g). Pub. L. 108–136, §833(3)(A), substituted “the Acquisition Corps, a test program in which members of the Corps” for “each Acquisition Corps, a test program in which members of a Corps”.
+
+Pub. L. 108–136, §832(b)(3), substituted “The Secretary” for “(1) The Secretary” and struck out par. (2) which read as follows: “The Secretary of Defense shall submit the portion of the test program applicable to civilian employees to the Director of the Office of Personnel Management for approval. If the Director does not disapprove that portion of the test program within 30 days after the date on which the Director receives it, that portion of the test program is deemed to be approved by the Director.”
+
+Subsec. (h). Pub. L. 108–136, §833(3)(B), substituted “making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps” for “making assignments of civilian and military members of the Acquisition Corps of that military department”.
 
 2001—Subsec. (b)(1)(B). Pub. L. 107–107, §1048(e)(5)(A), struck out “on and after October 1, 1991,” before “to the maximum extent practicable”.
 

@@ -8,7 +8,7 @@
 
 #### (2) Atomic Energy Act of 1954
 
-Nothing in this chapter shall supersede any requirement made by or under the Atomic EnergyAct of 1954 (42 U.S.C. 2011 et seq.). Restricted Data or Formerly Restricted Data shall be handled, protected, classified, downgraded, and declassified in conformity with the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
+Nothing in this chapter shall supersede any requirement made by or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.). Restricted Data or Formerly Restricted Data shall be handled, protected, classified, downgraded, and declassified in conformity with the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
 (Pub. L. 107–296, title X, §1001(c), Nov. 25, 2002, 116 Stat. 2267.)
 

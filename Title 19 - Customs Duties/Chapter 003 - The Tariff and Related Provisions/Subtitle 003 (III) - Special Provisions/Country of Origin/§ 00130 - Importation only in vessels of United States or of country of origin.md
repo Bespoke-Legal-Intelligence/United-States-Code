@@ -6,7 +6,7 @@ No goods, wares, or merchandise, unless in cases provided for by treaty, shall b
 
 #### Amendment or Repeal; Exception
 
-Section is expressly excepted from repeal or amendment by the Tariff Act of 1930 (act June 17, 1930, ch. 497,title IV, 46 Stat. 763) by section 651(d) of that act which is classified to section 1651(d) of this title.
+Section is expressly excepted from repeal or amendment by the Tariff Act of 1930 (act June 17, 1930, ch. 497, title IV, 46 Stat. 763) by section 651(d) of that act which is classified to section 1651(d) of this title.
 
 #### Section Referred to in Other Sections
 

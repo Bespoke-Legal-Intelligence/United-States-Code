@@ -6,7 +6,7 @@ Gifts or bequests or devises to or for the benefit of the Library of Congress, i
 
 #### Amendments
 
-1942—Act Oct. 2, 1942, included devises in the exemptions, and exempted gifts, bequests and devises, and the income therefrom, from taxes levied by the District of Columbia.
+<b>1942</b>—Act Oct. 2, 1942, included devises in the exemptions, and exempted gifts, bequests and devises, and the income therefrom, from taxes levied by the District of Columbia.
 
 #### Section Referred to in Other Sections
 

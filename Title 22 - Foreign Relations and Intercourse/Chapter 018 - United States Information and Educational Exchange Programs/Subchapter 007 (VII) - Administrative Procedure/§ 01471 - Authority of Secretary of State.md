@@ -32,7 +32,7 @@ The classification laws, referred to in par. (5), are classified generally to ch
 
 In par. (4), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
-In par. (6), “, with the approval of the Commission on Information and the Commission on Educational Exchange,” was deleted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission on International Educational and Cultural Affairs \[which replaced the Advisory Commission on Educational Exchange\], effective on or before July 1, 1978, at such time as specified by the President.
+In par. (6), “, with the approval of the Commission on Information and the Commission on Educational Exchange,” was deleted pursuant to Reorg. Plan No. 2 of 1977, §9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, which abolished both the United States Advisory Commission on Information, and the United States Advisory Commission on International Educational and Cultural Affairs \[which replaced the Advisory Commission on Educational Exchange\], effective on or before July 1, 1978, at such time as specified by the President.
 
 In par. (6), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946, as amended, (5 U.S.C. 73b-2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 

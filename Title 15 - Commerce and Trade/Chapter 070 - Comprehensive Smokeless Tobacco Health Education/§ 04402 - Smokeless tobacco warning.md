@@ -52,7 +52,7 @@ This section does not apply to a distributor or a retailer of any smokeless toba
 
 #### (f) Television and radio advertising
 
-Effective 6 months after February 27, 1986, it shall be unlawful to advertise smokeless tobacco on any medium of electronic communicationssubject to the jurisdiction of the Federal Communications Commission.
+Effective 6 months after February 27, 1986, it shall be unlawful to advertise smokeless tobacco on any medium of electronic communications subject to the jurisdiction of the Federal Communications Commission.
 
 (Pub. L. 99–252, §3, Feb. 27, 1986, 100 Stat. 30.)
 

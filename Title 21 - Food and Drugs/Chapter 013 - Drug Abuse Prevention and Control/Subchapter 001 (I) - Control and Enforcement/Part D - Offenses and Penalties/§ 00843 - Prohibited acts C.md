@@ -14,7 +14,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(5) to make, distribute, or possess any punch, die, plate, stone, or other thing designed to print, imprint, or reproduce the trademark, trade name, or other identifying mark, imprint, or device of another or any likeness of any of the foregoing upon any drug or container or labeling thereof so as to render such drug a counterfeit substance;
 
-&emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance orlisted chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
+&emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
 
 &emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
 
@@ -50,7 +50,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 #### (f) Injunctions
 
-(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section or section 842 of this title.
+(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 <sup>2</sup> of this title.
 
 (2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
 
@@ -58,7 +58,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (4) The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13,1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810.)
+(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out
 The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2003—Subsec. (f)(1). Pub. L. 108–21 substituted “this section, section 842 of this title, or 856 of this title” for “this section or section 842 of this title”.
 
 2002—Subsec. (d). Pub. L. 107–273 substituted “under title 18, or both;” for “of not more than $30,000, or both;” in two places and “under title 18, or both.” for “of not more than $60,000, or both.” in two places.
 
@@ -118,7 +120,9 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 864 of this title.
+This section is referred to in sections 856, 864 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

@@ -28,19 +28,19 @@ The words “may award” are inserted to conform to other sections of this chap
 
 #### Amendments
 
-1963—Pub. L. 88–77 substituted provisions permitting the issuance of a silver star for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and requiring it to be of appropriate design, for provisions which authorized the issuance of the silver star for gallantry in action and which required that the silver star be three-sixteenths of an inch in diameter, the citation thereof be published in orders issued from the headquarters of a force that is the appropriate command of a general officer, and that it be worn as directed by the President.
+1963—Pub. L. 88–77 substituted provisions permitting the issuance of a silver star for gallantry while engaged in an action against an enemy of the United States,while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and requiring it to be of appropriate design, for provisions which authorized the issuance of the silver star for gallantry in action and which required that the silver star be three-sixteenths of an inch in diameter, the citation thereof be published in orders issued from the headquarters of a force that is the appropriate command of a general officer, and that it be worn as directed by the President.
 
 #### Executive Order No. 9419
 
-Ex. Ord. No. 9419, Feb. 4, 1944, 9 F.R. 1495, which authorized award of Bronze Star Medal, was superseded by Ex. Ord. No. 11046, Aug. 24, 1962, 27 F.R. 8575, set out below.
+Ex. Ord. No. 9419, Feb. 4, 1944, 9 F.R. 1495, which authorized award of Bronze Star Medal, was superseded by Ex. Ord. No. 11046, Aug. 24, 1962, 27 F.R. 8575, as amended, set out below.
 
 #### Ex. Ord. No. 11046. Bronze Star Medal
 
-Ex. Ord. No. 11046, Aug. 24, 1962, 27 F.R. 8575, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, provided:
+Ex. Ord. No. 11046, Aug. 24, 1962, 27 F.R. 8575, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 13286, §70, Feb. 28, 2003, 68 F.R. 10630, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces of the United States, it is hereby ordered as follows:
 
-1\. The Bronze Star Medal, with accompanying ribbons and appurtenances, which was first established by Executive Order No. 9419 of February 4, 1944, may be awarded by the Secretary of a military department or the Secretary of Transportation with regard to the Coast Guard when not operating as a service in the Navy, or by such military commanders, or other appropriate officers as the Secretary concerned may designate, to any person who, while serving in any capacity in or with the Army, Navy, Marine Corps, Air Force, or Coast Guard of the United States, after December 6, 1941, distinguishes, or has distinguished, himself by heroic or meritorious achievement or service not involving participation in aerial flight—
+1\. The Bronze Star Medal, with accompanying ribbons and appurtenances, which was first established by Executive Order No. 9419 of February 4, 1944, may be awarded by the Secretary of a military department or the Secretary of Homeland Security with regard to the Coast Guard when not operating as a service in the Navy, or by such military commanders, or other appropriate officers as the Secretary concerned may designate, to any person who, while serving in any capacity in or with the Army, Navy, Marine Corps, Air Force, or Coast Guard of the United States, after December 6, 1941, distinguishes, or has distinguished, himself by heroic or meritorious achievement or service not involving participation in aerial flight—
 
 (a) while engaged in an action against an enemy of the United States;
 

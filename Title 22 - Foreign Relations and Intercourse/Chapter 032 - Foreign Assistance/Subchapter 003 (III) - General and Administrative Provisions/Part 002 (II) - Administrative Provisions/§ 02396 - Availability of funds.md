@@ -34,7 +34,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(15) ice and drinking water for use outside the United States;
 
-&emsp;(16) services of commissioned officers of the Environmental Science Services Administration, and for the purposes of providing such services the Environmental Science Services Administration may appoint not to exceed twenty commissioned officers in addition to those otherwise authorized;<sup>2</sup>
+&emsp;(16) services of commissioned officers of the Environmental Science Services Administration, and for the purposes of providing such services the Environmental Science Services Administration may appoint not to exceed twenty commissioned officers in addition to those otherwise authorized; <sup>2</sup>
 
 #### (b) Compensation, allowances, and travel of personnel; printing and binding; expenditures outside United States
 

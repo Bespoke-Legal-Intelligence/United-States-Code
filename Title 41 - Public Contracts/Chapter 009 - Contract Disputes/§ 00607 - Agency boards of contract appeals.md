@@ -22,7 +22,7 @@ Each agency board shall have jurisdiction to decide any appeal from a decision o
 
 #### (e) Decisions
 
-An agency board shall provide to the fullest extent practicable, informal, expeditious, and inexpensive resolution of disputes, and shall issue a decision in writing or take other appropriate action on each appeal submitted, and shall mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
+An agency board shall provide to the fullest extent practicable, informal, expeditious, and inexpensive resolution of disputes, and shall issue a decision in writing or take other appropriate action on each appeal submitted, andshall mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
 
 #### (f) Accelerated appeal disposition
 
@@ -68,7 +68,7 @@ Subsec. (i), which required all agency boards of three or more full time members
 
 1992—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (b)(1). Pub. L. 101–509, §529 \[title I, §104(d)(4)(A)\], substituted “Compensation for the chairman, the vice chairman, and all other members of an agency board shall be determined under section 5372a of title 5.” for “The chairman of each agency board shallreceive compensation at a rate equal to that paid a GS–18 under the General Schedule contained in section 5332, of title 5, the vice chairman shall receive compensation at a rate equal to that paid a GS–17 under such General Schedule, and all other members shall receive compensation at a rate equal to that paid a GS–16 under such General Schedule. Such positions shall be in addition to the number of positions which may be placed in GS–16, GS–17, and GS–18 of such General Schedule under existing law.”
+1990—Subsec. (b)(1). Pub. L. 101–509, §529 \[title I, §104(d)(4)(A)\], substituted “Compensation for the chairman, the vice chairman, and all other members of an agency board shall be determined under section 5372a of title 5.” for “The chairman of each agency board shall receive compensation at a rate equal to that paid a GS–18 under the General Schedule contained in section 5332, of title 5, the vice chairman shall receive compensation at a rate equal to that paid a GS–17 under such General Schedule, and all other members shall receive compensation at a rate equal to that paid a GS–16 under such General Schedule. Such positions shall be in addition to the number of positions which may be placed in GS–16, GS–17, and GS–18 of such General Schedule under existing law.”
 
 Subsec. (b)(2). Pub. L. 101–509, §529 \[title I, §104(d)(4)(B)\], substituted “The chairman and all other members of such board shall receive compensation, at the daily equivalent of the rates determined under section 5372a of title 5, for each day they are engaged in the actual performance of their duties as members of the board.” for “The chairman of such board shall receive compensation at a rate equal to the daily rate paid a GS–18 under the General Schedule contained in section 5332, of title 5, for each day he is engaged in the actual performance of his duties as a member of such board. All other members of such board shall receive compensation at a rate equal to the daily rate paid a GS–16 under such General Schedule for each day they are engaged in the actual performance of their duties as members of such board.”
 

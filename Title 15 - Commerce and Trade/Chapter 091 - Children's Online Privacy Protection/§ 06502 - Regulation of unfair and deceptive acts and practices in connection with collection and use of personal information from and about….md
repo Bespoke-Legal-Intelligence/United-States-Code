@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(iii) not disclosed on the site,
 
-> &emsp;&emsp;if the operator uses reasonable efforts to provide a parent notice of the name and online contact information collected from the child, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
+> &emsp;&emsp;if the operator uses reasonable efforts to provide a parent notice of the name and online contact information collected from thechild, the purposes for which it is to be used, and an opportunity for the parent to request that the operator make no further use of the information and that it not be maintained in retrievable form; or
 
 &emsp;&emsp;(E) the collection, use, or dissemination of such information by the operator of such a website or online service necessary—
 

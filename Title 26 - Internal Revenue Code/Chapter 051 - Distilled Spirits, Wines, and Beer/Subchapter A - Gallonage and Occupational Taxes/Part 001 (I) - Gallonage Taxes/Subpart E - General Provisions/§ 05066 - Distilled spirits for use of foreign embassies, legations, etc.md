@@ -26,7 +26,7 @@ Distilled spirits entered into customs bonded warehouses as authorized by this s
 
 No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(5) <sup>1</sup> are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.
 
-(Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L.96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2), July 18, 1984, 98 Stat. 820.)
+(Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2), July 18, 1984, 98 Stat. 820.)
 
 #### References in Text
 

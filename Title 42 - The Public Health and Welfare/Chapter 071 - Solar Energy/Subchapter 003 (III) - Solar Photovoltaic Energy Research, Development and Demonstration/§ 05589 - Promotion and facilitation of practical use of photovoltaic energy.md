@@ -2,7 +2,7 @@
 
 #### (a) Dissemination of information; trade secret exemption
 
-The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is madeavailable to Federal, State, and local authorities, relevant segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of photovoltaic energy throughout the United States. Any trade secret or other proprietary information shall be exempted from such mandatory disclosure, as otherwise specified in law applicable to research, development and demonstration programs of the Department of Energy, including, but not limited to, section 5916 of this title.
+The Secretary shall take all possible steps to assure that full and complete information with respect to the demonstrations and other activities conducted under this subchapter is made available to Federal, State, and local authorities, relevant segments of the economy, the scientific and technical community, and the public at large, both during and after the close of the programs under this subchapter, with the objective of promoting and facilitating to the maximum extent feasible the early and widespread practical use of photovoltaic energy throughout the United States. Any trade secret or other proprietary information shall be exempted from such mandatory disclosure, as otherwise specified in law applicable to research, development and demonstration programs of the Department of Energy, including, but not limited to, section 5916 of this title.
 
 #### (b) Studies and investigations
 
@@ -12,7 +12,7 @@ The Secretary shall—
 
 &emsp;(2) study and investigate the effect of utility rate structures, building codes, zoning ordinances, and other laws, codes, ordinances, and practices upon the practical use of photovoltaic systems;
 
-&emsp;(3) determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use and the methods by which any such changes may best be accomplished; and
+&emsp;(3) determine the extent to which such laws, codes, ordinances, and practices should be changed to permit or facilitate such use andthe methods by which any such changes may best be accomplished; and
 
 &emsp;(4) determine the necessity of a program of incentives to accelerate the commercial application of photovoltaic technologies.
 

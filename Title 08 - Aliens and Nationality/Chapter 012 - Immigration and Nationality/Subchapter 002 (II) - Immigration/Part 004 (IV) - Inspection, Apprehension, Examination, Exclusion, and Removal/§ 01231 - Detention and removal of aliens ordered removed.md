@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iii) The country in which the alien has a residence.
 
-&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country'sterritory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
+&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country's territory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
 
 #### (2) Other aliens
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(v)(I) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States or a reentry permit;
 
-&emsp;&emsp;&emsp;(II) the alien applies for admission more than 120 days after the date the visa or documentation was issued or after the dateof the last inspection and admission under the reentry permit; and
+&emsp;&emsp;&emsp;(II) the alien applies for admission more than 120 days after the date the visa or documentation was issued or after the date of the last inspection and admission under the reentry permit; and
 
 &emsp;&emsp;&emsp;(III) the owner of the vessel or aircraft satisfies the Attorney General that the existence of the condition relating to inadmissibility could not have been discovered by exercising reasonable care before the alien boarded the vessel or aircraft; or
 
@@ -332,7 +332,7 @@
 
 #### (C) Costs of removal of certain aliens granted voluntary departure
 
-&emsp;&emsp;In the case of an alien who has been granted voluntary departure under section 1229c of this title and who is financially unable to depart at the alien's own expense and whose removal the Attorney General deems to be in the best interest of the United States, theexpense of such removal may be paid from the appropriation for the enforcement of this chapter.
+&emsp;&emsp;In the case of an alien who has been granted voluntary departure under section 1229c of this title and who is financially unable to depart at the alien's own expense and whose removal the Attorney General deems to be in the best interest of the United States, the expense of such removal may be paid from the appropriation for the enforcement of this chapter.
 
 #### (f) Aliens requiring personal care during removal
 
@@ -380,7 +380,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
 
-(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
+(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated inFederal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
 (5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.
 

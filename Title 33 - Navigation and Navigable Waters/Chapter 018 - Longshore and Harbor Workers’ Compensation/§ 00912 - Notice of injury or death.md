@@ -2,7 +2,7 @@
 
 #### (a) Time limitation
 
-Notice of an injury or death in respect of which compensation is payable under this chapter shall be given within thirty days after the date of such injury or death, or thirty days after the employee or beneficiary is aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of a relationship between the injury or death and the employment, except that in the case of an occupational disease which does not immediately result in a disability or death, such notice shall begiven within one year after the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability. Notice shall be given (1) to the deputy commissioner in the compensation district in which the injury or death occurred, and (2) to the employer.
+Notice of an injury or death in respect of which compensation is payable under this chapter shall be given within thirty days after the date of such injury or death, or thirty days after the employee or beneficiary is aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of a relationship between the injury or death and the employment, except that in the case of an occupational disease which does not immediately result in a disability or death, such notice shall be given within one year after the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability. Notice shall be given (1) to the deputy commissioner in the compensation district in which the injury or death occurred, and (2) to the employer.
 
 #### (b) Form and content
 
@@ -32,7 +32,7 @@ Pub. L. 98–426, §11(c)(4), inserted “(i) notice, while not given to a respo
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 11(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, and amendment by section 11(b), (c) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, see section 28(a), (b) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 11(a) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, and amendment by section 11(b), (c) of Pub. L. 98–426 effective 90 days after Sept. 28, 1984, and applicable both with respect to claims filed after such 90th day and to claims pending on such 90th day, see section28(a), (b) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

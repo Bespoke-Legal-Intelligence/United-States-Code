@@ -16,7 +16,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 (B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
 
-(3)(A) The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been in helping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
+(3)(A) The Secretary shall evaluate from time to time how successful the procedures under paragraph (2) of this subsection have been inhelping to maintain records about first purchasers of tires. After each evaluation, the Secretary shall decide—
 
 &emsp;(i) the extent to which distributors and dealers have complied with the procedures;
 

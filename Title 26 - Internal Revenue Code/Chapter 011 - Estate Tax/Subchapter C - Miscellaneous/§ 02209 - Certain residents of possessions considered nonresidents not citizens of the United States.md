@@ -6,7 +6,7 @@ A decedent who was a citizen of the United States and a resident of a possession
 
 #### Effective Date
 
-Section applicable with respect to estates of decedents dying after Sept. 14, 1960, see section 4(e)(2) of Pub. L. 86–779, set out as an Effective Date of 1960 Amendment note under section 2106 of this title.
+Section applicable with respect to estates of decedents dying after Sept. 14, 1960, see section 4(e)(2) ofPub. L. 86–779, set out as an Effective Date of 1960 Amendment note under section 2106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,13 +8,13 @@
 
 &emsp;(B) knowing that the transaction is designed in whole or in part—
 
-&emsp;&emsp;(i) to conceal or disguise the nature, the location, the source, the ownership, or thecontrol of the proceeds of specified unlawful activity; or
+&emsp;&emsp;(i) to conceal or disguise the nature, the location, the source, the ownership, or the control of the proceeds of specified unlawful activity; or
 
 &emsp;&emsp;(ii) to avoid a transaction reporting requirement under State or Federal law,
 
 > shall be sentenced to a fine of not more than $500,000 or twice the value of the property involved in the transaction, whichever is greater, or imprisonment for not more than twenty years, or both.
 
-(2) Whoever transports, transmits, or transfers, or attempts to transport, transmit, or transfer a monetary instrument or funds from a place in the United States to or through a place outside the United States or to a place in the United States from or through a place outside the United States—
+(2) Whoever transports, transmits, or transfers, or attempts to transport, transmit, ortransfer a monetary instrument or funds from a place in the United States to or through a place outside the United States or to a place in the United States from or through a place outside the United States—
 
 &emsp;(A) with the intent to promote the carrying on of specified unlawful activity; or
 
@@ -86,7 +86,7 @@ Appointment and authority.—A Federal Receiver described in subparagraph (A)—
 
 (c) As used in this section—
 
-&emsp;(1) the term “knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity” means that the person knew the property involved in the transaction represented proceeds from some form, though not necessarily which form, of activity that constitutes a felony under State, Federal, or foreign law, regardless of whether or not such activity is specified in paragraph (7);
+&emsp;(1) the term “knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity” means that the person knew the propertyinvolved in the transaction represented proceeds from some form, though not necessarily which form, of activity that constitutes a felony under State, Federal, or foreign law, regardless of whether or not such activity is specified in paragraph (7);
 
 &emsp;(2) the term “conducts” includes initiating, concluding, or participating in initiating, or concluding a transaction;
 
@@ -160,7 +160,7 @@ Venue.—(1) Except as provided in paragraph (2), a prosecution for an offense u
 
 &emsp;(B) any district where a prosecution for the underlying specified unlawful activity could be brought, if the defendant participated in the transfer of the proceeds of the specified unlawful activity from that district to the district where the financial or monetary transaction is conducted.
 
-(2) A prosecution for an attempt or conspiracy offense under this section or section 1957 may be brought in the district where venue would lie for the completed offense under paragraph (1), or in any other district where an act in furtherance of the attempt or conspiracy took place.
+(2) A prosecution for an attempt or conspiracy offense under this section or section 1957 may bebrought in the district where venue would lie for the completed offense under paragraph (1), or in any other district where an act in furtherance of the attempt or conspiracy took place.
 
 (3) For purposes of this section, a transfer of funds from 1 place to another, by wire or any other means, shall constitute a single, continuing transaction. Any person who conducts (as that term is defined in subsection (c)(2)) any portion of the transaction may be charged in any district in which the transaction takes place.
 
@@ -284,7 +284,7 @@ Subsec. (c)(6). Pub. L. 102–550, §1526(a), substituted “or the regulations�
 
 Subsec. (c)(7)(B). Pub. L. 102–550, §1536, designated part of existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-Subsec. (c)(7)(D). Pub. L. 102–550, §§1524, 1534(1), (2), struck out “1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution, section 1344 (relating to bank fraud),” after “hostage taking),”, inserted “section 1708 (theft from the mail),” before “section 2113”, substituted “section 422 of the Controlled Substances Act” for “section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857)”, and struck out “or” before “section 16”.
+Subsec. (c)(7)(D). Pub. L. 102–550, §§1524, 1534(1), (2), struck out “1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution, section 1344 (relating to bank fraud),” after “hostage taking),”, inserted “section 1708 (theft from themail),” before “section 2113”, substituted “section 422 of the Controlled Substances Act” for “section 1822 of the Mail Order Drug Paraphernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857)”, and struck out “or” before “section 16”.
 
 Pub. L. 102–550, §1534(3), which directed insertion of “, any felony violation of section 9(c) of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, or any felony violation of the Foreign Corrupt Practices Act” before semicolon, was executed by making insertion before semicolon at end to reflect the probable intent of Congress.
 

@@ -2,7 +2,7 @@
 
 (a) Financial records about a customer obtained from a financial institution pursuant to a subpena issued under the authority of a Federal grand jury—
 
-&emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; <sup>1</sup>
+&emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grandjury shall be provided with a description of the contents of the records.; <sup>1</sup>
 
 &emsp;(2) shall be used only for the purpose of considering whether to issue an indictment or presentment by that grand jury, or of prosecuting a crime for which that indictment or presentment is issued, or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure, or for a purpose authorized by section 3412(a) of this title;
 

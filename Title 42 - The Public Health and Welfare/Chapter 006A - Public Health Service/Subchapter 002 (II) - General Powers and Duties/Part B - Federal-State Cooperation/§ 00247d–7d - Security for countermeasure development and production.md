@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the Attorney General and the Secretary of Defense, may provide technical or other assistance to providesecurity to persons or facilities that conduct development, production, distribution, or storage of priority countermeasures (as defined in section 247d–6(h)(4) of this title).
+The Secretary, in consultation with the Attorney General and the Secretary of Defense, may provide technical or other assistance to provide security to persons or facilities that conduct development, production, distribution, or storage of priority countermeasures (as defined in section 247d–6(h)(4) of this title).
 
 #### (b) Guidelines
 

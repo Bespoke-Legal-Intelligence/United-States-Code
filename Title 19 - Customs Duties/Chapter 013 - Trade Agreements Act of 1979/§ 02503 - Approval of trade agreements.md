@@ -62,7 +62,7 @@ The trade agreements to which subsection (a) of this section applies are the fol
 
 &emsp;(12) Certain Bilateral Agreements to Eliminate the Wine-Gallon Method of Tax and Duty Assessment.
 
-&emsp;(13) Certain other agreements to be reflected in Schedule XX of the United States to the General Agreement on Tariffs and Trade, including Agreements—
+&emsp;(13) Certain other agreements to be reflected in Schedule XX of the United States to theGeneral Agreement on Tariffs and Trade, including Agreements—
 
 &emsp;&emsp;(A) to Modify United States Watch Marking Requirements, and to Modify United States Tariff Nomenclature and Rates of Duty for Watches,
 
@@ -156,7 +156,7 @@ These agreements are collectively referred to herein as the “MTN agreements”
 
 &emsp;(B) should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 126(c) of the Trade Act of 1974 (19 U.S.C. 2136(c)), to the United States.
 
-4\. Section 701 of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) \[19 U.S.C. 1671\], provides that the President must determine that certain conditions must be met before a country can be considered a “country under the Agreement” and, therefore, entitled to the injury determination provided for in section 703(a) and 705(b) of the Tariff Act of 1930 (93 Stat. 152 and 159) \[19 U.S.C. 1671b(a) and 1671d(b)\].
+4\. Section 701 of the Tariff Act of 1930, as amended effective January 1, 1980 (93 Stat. 151) \[19 U.S.C. 1671\], provides that the President must determine that certain conditions must be met before a country can be considered a “country under the Agreement” and,therefore, entitled to the injury determination provided for in section 703(a) and 705(b) of the Tariff Act of 1930 (93 Stat. 152 and 159) \[19 U.S.C. 1671b(a) and 1671d(b)\].
 
 5\. Section 601(a) of the Trade Agreements Act of 1979 (93 Stat. 267) authorizes the President to proclaim certain modifications in the Tariff Schedules of the United States if the President determines that the conditions under section 2(b) of the Trade Agreements Act of 1979 (93 Stat. 147) \[subsec. (b) of this section\] on acceptance of the Agreement on Trade in Civil Aircraft have been fulfilled.
 
@@ -194,7 +194,7 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 
 2\. Authorize the United States Special Representative for Trade Negotiations \[now United States Trade Representative\], or his designee, on behalf of the United States of America,
 
-(a) to sign and accept the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII ofthe General Agreement on Tariffs and Trade, the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade, the Agreement on Technical Barriers to Trade, the Agreement on Import Licensing Procedures, the Agreement on Trade in Civil Aircraft, the International Dairy Arrangement and the Arrangement Regarding Bovine Meat;
+(a) to sign and accept the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade, the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade, the Agreement on Technical Barriers to Trade, the Agreement on Import Licensing Procedures, the Agreement on Trade in Civil Aircraft, the International Dairy Arrangement and the Arrangement Regarding Bovine Meat;
 
 (b) to sign the Agreement on Government Procurement subject to satisfactory completion of negotiations on entity coverage under the Agreement; and
 
@@ -203,10 +203,6 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 3\. \[Revoked by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989.\]
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Change of Name
-
-United States Special Representative for Trade Negotiations redesignated the United States Trade Representative by Reorg. Plan No. 3 of 1979, §1(b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
 
 #### Determination Regarding Multilateral Trade Negotiations
 

@@ -2,7 +2,7 @@
 
 #### (a) Issuance of policy and regulations
 
-Not later than 90 days after October 1, 1988, the Administrator of the Office of Federal Procurement Policy shall issue a policy, and not later than 180 days thereafter Government-wide regulations shall be issued under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.) which set forth—
+Not later than 90 days after October 1, 1988, the Administrator of the Office of Federal Procurement Policy shall issue a policy, and notlater than 180 days thereafter Government-wide regulations shall be issued under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.) which set forth—
 
 &emsp;(1) conflict of interest standards for persons who provide consulting services described in subsection (b) of this section; and
 
@@ -16,7 +16,7 @@ The regulations required by subsection (a) of this section shall apply to the fo
 
 &emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusion of such services in such regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
 
-&emsp;(3) such other services related to Federal contracts as may be specified in the regulations prescribed under subsection (a) of this section to the extent necessary to identify and evaluate the potential for conflicts of interestthat could be prejudicial to the interests of the United States.
+&emsp;(3) such other services related to Federal contracts as may be specified in the regulations prescribed under subsection (a) of this section to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States.
 
 #### (c) Report to Congress by Comptroller General on effectiveness of regulations
 

@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 2002 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2003 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -87,6 +87,7 @@
 | [<b>74.</b>](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md) | <b>Troops-to-Teachers Program</b> | <b>9301</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md) | <b>Early Learning Opportunities</b> | <b>9401</b> |
 | [<b>76.</b>](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md) | <b>Education Research, Statistics, Evaluation, Information, and Dissemination</b> | <b>9501</b> |
+| [<b>77.</b>](Chapter%20077%20-%20Financial%20Literacy%20and%20Education%20Improvement/README.md) | <b>Financial Literacy and Education Improvement</b> | <b>9701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -177,3 +178,4 @@
 - [Chapter 074 - Troops-to-Teachers Program](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md)
 - [Chapter 075 - Early Learning Opportunities](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md)
 - [Chapter 076 - Education Research, Statistics, Evaluation, Information, and Dissemination](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md)
+- [Chapter 077 - Financial Literacy and Education Improvement](Chapter%20077%20-%20Financial%20Literacy%20and%20Education%20Improvement/README.md)

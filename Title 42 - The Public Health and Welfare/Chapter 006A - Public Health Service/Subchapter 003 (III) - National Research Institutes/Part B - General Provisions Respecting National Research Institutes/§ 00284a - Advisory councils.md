@@ -10,7 +10,7 @@
 
 &emsp;(A)(i) may on the basis of the materials provided under section 289a(b)(2) of this title respecting research conducted at the institute, make recommendations to the Director of the institute respecting such research,
 
-&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval is required under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
+&emsp;(ii) may review applications for grants and cooperative agreements for research or training and for which advisory council approval isrequired under section 284(b)(2) of this title and recommend for approval applications for projects which show promise of making valuable contributions to human knowledge, and
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
@@ -108,7 +108,7 @@ Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted “shall be nonvotin
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to theexpiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

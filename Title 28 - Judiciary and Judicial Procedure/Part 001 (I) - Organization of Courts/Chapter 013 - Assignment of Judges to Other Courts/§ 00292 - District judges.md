@@ -48,7 +48,7 @@ Many changes were made in phraseology.
 
 1958—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
 
-Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerlycontained in section 293 of this title and subsec. (f) of this section.
+Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerly contained in section 293 of this title and subsec. (f) of this section.
 
 Subsec. (e). Pub. L. 85–755 struck out subsec. (e) which provided for assignment of judges of the Court of Claims to district courts. See section 293(a) of this title.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 91–358 effective on first day of seventh calendar month w
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 
-Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the United States Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], see section 7 of Pub. L. 85–755, set out as a note under section 291 of this title.
+Amendment by Pub. L. 85–755 not limiting or altering the jurisdiction of the United States Court of Customsand Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], see section 7 of Pub. L. 85–755, set out as a note under section 291 of this title.
 
 #### Limitation or Alteration of Jurisdiction
 

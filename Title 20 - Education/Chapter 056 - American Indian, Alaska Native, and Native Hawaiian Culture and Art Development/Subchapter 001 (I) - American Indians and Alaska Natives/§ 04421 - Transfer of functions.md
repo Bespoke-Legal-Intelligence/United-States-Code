@@ -34,7 +34,7 @@ Subsec. (d)(2). Pub. L. 102–325, §1331(f)(2), substituted “monetary damages
 
 1990—Subsec. (d). Pub. L. 101–644, §503, added subsec. (d) and struck out former subsec. (d) which read as follows: “Unless the Board provides otherwise, the Secretary of the Interior shall, until October 1, 1989, provide such technical and support assistance to the Institute as the Secretary determines reasonable or necessary to assist the Institute. Such assistance shall include audit, accounting, computer services, and building and maintenance services.”
 
-Subsecs. (e), (f). Pub. L. 101–644, §503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, payment of unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
+Subsecs. (e), (f). Pub. L. 101–644, §503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, paymentof unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
 
 1988—Subsec. (e)(3), (4). Pub. L. 100–297 added pars. (3) and (4).
 

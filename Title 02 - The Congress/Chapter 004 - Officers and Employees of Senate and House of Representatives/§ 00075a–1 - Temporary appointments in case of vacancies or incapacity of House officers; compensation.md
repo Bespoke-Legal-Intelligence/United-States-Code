@@ -16,5 +16,5 @@ Any person appointed pursuant to this section shall be paid the compensation whi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper, Postmaster,” wherever appearing.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Doorkeeper, Postmaster,” wherever appearing.
 

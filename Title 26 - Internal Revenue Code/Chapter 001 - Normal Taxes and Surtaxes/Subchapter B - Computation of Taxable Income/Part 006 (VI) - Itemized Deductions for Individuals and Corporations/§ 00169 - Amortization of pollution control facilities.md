@@ -6,7 +6,7 @@ Every person, at his election, shall be entitled to a deduction with respect to 
 
 #### (b) Election of amortization
 
-The election of the taxpayer to take the amortization deduction and to begin the 60-month period with the month following the month in which the facility is completed or acquired, or with the taxable year succeeding the taxable year in which such facility is completed or acquired, shall be made by filing with the Secretary, in such manner, in such form, and within such time, as the Secretary may by regulations prescribe, a statement of such election.
+The election of the taxpayer to take the amortization deduction and to begin the 60-month period with the month following the month in which the facility is completed or acquired, or with the taxable year succeeding the taxableyear in which such facility is completed or acquired, shall be made by filing with the Secretary, in such manner, in such form, and within such time, as the Secretary may by regulations prescribe, a statement of such election.
 
 #### (c) Termination of amortization deduction
 
@@ -66,7 +66,7 @@ The Federal certifying authority shall not certify any property under subsection
 
 #### (2) Special rules
 
-&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
+&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjustedbasis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
 
 &emsp;&emsp;(B) The amortizable basis of a certified pollution control facility with respect to which an election under this section is in effect shall not be increased, for purposes of this section, for additions or improvements after the amortization period has begun.
 

@@ -54,47 +54,45 @@ Competition and Cost Sharing.—(1) In accordance with the policy stated in sect
 
 (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
-(e)
-
-Five-Year Plan.—(1) The Secretary of Defense shall prepare a five-year plan for the program which establishes—
-
-&emsp;(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
-
-&emsp;(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.
-
-(2) The plan shall include the following:
-
-&emsp;(A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
-
-&emsp;(B) An assessment of the extent to which the costs of projects are being shared by the following:
-
-&emsp;&emsp;(i) Commercial enterprises in the private sector.
-
-&emsp;&emsp;(ii) Department of Defense program offices, including weapon system program offices.
-
-&emsp;&emsp;(iii) Departments and agencies of the Federal Government outside the Department of Defense.
-
-&emsp;&emsp;(iv) Institutions of higher education.
-
-&emsp;&emsp;(v) Other institutions not operated for profit.
-
-&emsp;&emsp;(vi) Other sources.
-
-&emsp;(C) Plans for the implementation of the advanced manufacturing technologies and processes being developed under the program.
-
-(3) The plan shall be updated annually and shall be included in the budget justification documents submitted in support of the budget of the Department of Defense for a fiscal year (as included in the budget of the President submitted to Congress under section 1105 of title 31).
-
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598.)
 
 #### Prior Provisions
 
-A prior section 2521, added Pub. L. 102–484, div. D, title XLII, §4231(a), Oct. 23, 1992, 106 Stat. 2686, relatedto National Defense Manufacturing Technology Program, prior to repeal by Pub. L. 104–106, div. A, title X, §1081(f), Feb. 10, 1996, 110 Stat. 454.
+A prior section 2521, added Pub. L. 102–484, div. D, title XLII, §4231(a), Oct. 23, 1992, 106 Stat. 2686, related to National Defense Manufacturing Technology Program, prior to repeal by Pub. L. 104–106, div. A, title X, §1081(f), Feb. 10, 1996, 110 Stat. 454.
 
 Another prior section 2521, added Pub. L. 102–190, div. A, title VIII, §821(a), Dec. 5, 1991, 105 Stat. 1426, defined terms for purposes of former chapter 150 of this title, prior to repeal and restatement in section 2491 \[now 2500\] of this title by Pub. L. 102–484, §§4202(a), 4203(a).
 
 Another prior section 2521 was renumbered section 2540 of this title and subsequently repealed.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
+
+2002—Subsec. (e)(1). Pub. L. 107–314, §213(a), substituted “prepare and maintain a five-year plan for the program.” for “prepare a five-year plan for the program which establishes—
+
+&emsp;“(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
+
+&emsp;“(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.”
+
+Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted “establish” for “include” in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+
+“(A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
+
+“(B) An assessment of the extent to which the costs of projects are being shared by the following:
+
+&emsp;“(i) Commercial enterprises in the private sector.
+
+&emsp;“(ii) Department of Defense program offices, including weapon system program offices.
+
+&emsp;“(iii) Departments and agencies of the Federal Government outside the Department of Defense.
+
+&emsp;“(iv) Institutions of higher education.
+
+&emsp;“(v) Other institutions not operated for profit.
+
+&emsp;“(vi) Other sources.”
+
+Subsec. (e)(3). Pub. L. 107–314, §213(b), substituted “biennially” for “annually” and “for each even-numbered fiscal year” for “for a fiscal year”.
 
 2001—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -116,7 +114,7 @@ Subsec. (e)(2)(C). Pub. L. 106–65, §216(e)(2), added subpar. (C).
 
 Subsec. (d)(2). Pub. L. 105–261, §213(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpars. (B) and (C).
 
-Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted “As a goal, at least” for “At least” and “should” for “shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
+Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted “As a goal, at least” for “At least” and “should” for“shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
 
 Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
 
@@ -143,4 +141,48 @@ Subsec. (d)(2)(C). Pub. L. 104–106, §276(a)(4)(A), added subpar. (C).
 Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+
+#### Technical Assistance Relating to Machine Tools
+
+Pub. L. 108–136, div. A, title VIII, §823, Nov. 24, 2003, 117 Stat. 1547, provided that:
+
+“(a)
+
+Technical Assistance.—The Secretary of Defense shall publish in the Federal Register information on Government contracting for purposes of assisting machine tool companies in the United States and entities that use machine tools. The information shall contain, at a minimum, the following:
+
+&emsp;“(1) An identification of resources with respect to Government contracting regulations, including compliance procedures and information on the availability of counseling.
+
+&emsp;“(2) An identification of resources for locating opportunities for contracting with the Department of Defense, including information about defense contracts that are expected to be carried out that may require the use of machine tools.
+
+“(b)
+
+Science and Technology Initiatives.—The Secretary of Defense shall incorporate into the Department of Defense science and technology initiatives on manufacturing technology an objective of developing advanced machine tool capabilities. Such technologies shall be used to improve the technological capabilities of the United States domestic machine tool industrial base in meeting national security objectives.”
+
+#### Participation in Manufacturing Extension Program
+
+Pub. L. 108–87, title VIII, §8062, Sept. 30, 2003, 117 Stat. 1086, provided that: “Notwithstanding any other provision of law, the Naval shipyards of the United States shall be eligible to participate in any manufacturing extension program financed by funds appropriated in this or any other Act or hereafter in any other Act.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8063, Oct. 23, 2002, 116 Stat. 1550.
+
+Pub. L. 107–117, div. A, title VIII, §8068, Jan. 10, 2002, 115 Stat. 2262.
+
+Pub. L. 106–259, title VIII, §8067, Aug. 9, 2000, 114 Stat. 689.
+
+Pub. L. 106–79, title VIII, §8070, Oct. 25, 1999, 113 Stat. 1245.
+
+Pub. L. 105–262, title VIII, §8070, Oct. 17, 1998, 112 Stat. 2312.
+
+Pub. L. 105–56, title VIII, §8076, Oct. 8, 1997, 111 Stat. 1236.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8085\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–105.
+
+Pub. L. 104–61, title VIII, §8064, Dec. 1, 1995, 109 Stat. 664.
+
+Pub. L. 103–335, title VIII, §8071, Sept. 30, 1994, 108 Stat. 2635.
+
+Pub. L. 103–139, title VIII, §8083A, Nov. 11, 1993, 107 Stat. 1459.
+
+Pub. L. 102–396, title IX, §9112, Oct. 6, 1992, 106 Stat. 1929.
 

@@ -50,5 +50,5 @@ Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8101, 8143 of this title; title 18 section 1921; title 42 section 5055.
+This section is referred to in sections 8101, 8143 of this title; title 18 section 1921; title 42 sections 239d, 5055.
 

@@ -34,7 +34,7 @@
 
 (1) It shall be the duty and function of the Commission to serve as a forum on behalf of the children of the Nation and to conduct the studies and issue the report required by subsection (d) of this section.
 
-(2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
+(2) The Commission (and any committees that it may form) shall conduct public hearings indifferent geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
 
 (3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children, including educators, health care professionals, religious leaders, providers of social services, representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
 
@@ -122,7 +122,7 @@ The Commission shall submit to the President, and to the Committees on Finance a
 
 &emsp;&emsp;(A) seek to identify ways in which public and private organizations and institutions can work together at the community level to identify deficiencies in existing services for families and children and to develop recommendations to ensure that the needs of families and children are met, using all available resources, in a coordinated and comprehensive manner, and
 
-&emsp;&emsp;(B) assess the existing capacities of agencies to collect and analyze data on the status of children and on relevant programs, identify gaps in the data collection system, and recommend ways to improve the collection of data and the coordination among agencies in the collection and utilization of data.
+&emsp;&emsp;(B) assess the existing capacities of agencies to collect and analyze data on the status of children and on relevant programs, identify gaps in the data collection system,and recommend ways to improve the collection of data and the coordination among agencies in the collection and utilization of data.
 
 > The reports required by this subsection shall be based upon the testimony received in the hearings conducted pursuant to subsection (c) of this section, and upon other data and findings developed by the Commission.
 
@@ -166,7 +166,7 @@ The General Services Administration shall provide to the Commission, on a reimbu
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated through fiscal year 1991, such sums as may benecessary to carry out this section for each of fiscal years 1989 and 1990.
+There are authorized to be appropriated through fiscal year 1991, such sums as may be necessary to carry out this section for each of fiscal years 1989 and 1990.
 
 #### (k) Donations accepted and deposited in Treasury in separate fund; expenditures; gift or bequest to or for use of United States
 
@@ -184,7 +184,7 @@ The Commission is authorized to conduct such public surveys as it deems necessar
 
 #### References in Text
 
-The provisions of title 5 that govern appointments in the competitive services, referred to in subsec. (f)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 that govern appointments in the competitive services, referred to in subsec. (f)(1),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -228,7 +228,7 @@ Section 264(d) of Pub. L. 103–432 provided that: “Section 5057 of OBRA–199
 
 #### Termination of Advisory Commissions
 
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, suchcommission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -1,6 +1,6 @@
 ### §1681s–1. Information on overdue child support obligations
 
-Notwithstanding any other provision of this subchapter, a consumer reporting agency shall include in any consumer report furnished by the agency in accordance with section 1681b of this title, any information on the failure of the consumer to pay overdue support which—
+Notwithstanding any other provision of this subchapter, a consumer reporting agency shall include in any consumer report furnished by theagency in accordance with section 1681b of this title, any information on the failure of the consumer to pay overdue support which—
 
 &emsp;(1) is provided—
 
@@ -14,7 +14,7 @@ Notwithstanding any other provision of this subchapter, a consumer reporting age
 
 #### Prior Provisions
 
-A prior section 622 of Pub. L. 90–321 was renumbered section 624 and is classified to section 1681t of this title.
+A prior section 622 of Pub. L. 90–321 was renumbered section 625 and is classified to section 1681t of this title.
 
 #### Effective Date
 

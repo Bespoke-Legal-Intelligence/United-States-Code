@@ -2,9 +2,9 @@
 
 (a) There shall be paid from the Fund—
 
-&emsp;(1) retired pay payable to members on the retired lists of the Army, Navy, Air Force, and Marine Corps;
+&emsp;(1) retired pay payable to members on the retired lists of the Army, Navy, Air Force, and Marine Corps and payments under section 1413, 1413a, or 1414 of this title paid to such members;
 
-&emsp;(2) retired pay payable under chapter 1223 of this title to former members of the armed forces (other than retired pay payable by the Secretary of Transportation);
+&emsp;(2) retired pay payable under chapter 1223 of this title to former members of the armed forces (other than retired pay payable by the Secretary of Homeland Security);
 
 &emsp;(3) retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
 
@@ -14,7 +14,7 @@
 
 (b) The assets of the Fund are hereby made available for payments under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515.)
 
 #### References in Text
 
@@ -24,6 +24,10 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 
 #### Amendments
 
+2003—Subsec. (a)(1). Pub. L. 108–136 inserted before semicolon at end “and payments under section 1413, 1413a, or 1414 of this title paid to such members”.
+
+2002—Subsec. (a)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1996—Subsec. (a)(2). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 
 1993—Subsec. (a)(5). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §653(b)(2). See 1992 Amendment note below.
@@ -32,9 +36,17 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “members” for “persons” in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L. 108–136, set out as a note under section 1413a of this title.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by theReserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1993 Amendment
 

@@ -454,7 +454,9 @@ Coordination.—The data required under this section shall be in addition to the
 
 \[For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.\]
 
+\[Memorandum of President of the United States, July 8, 2003, 68 F.R. 45155, delegated to Director of Office of Personnel Management authority of President under section 204(a) of Public Law 107–174, set out above.\]
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2302, 4107, 4313, 5379, 9701 of this title; title 6 section 461; title 10 sections 1612, 1722; title 22 section 3902; title 31 section 732; title 41 section 433.
+This section is referred to in sections 2302, 4107, 4313, 5379, 5406, 9701, 9902 of this title; title 6 section 461; title 10 sections 1612, 1722; title 22 section 3902; title 31 section 732; title 41 section 433; title 50 section 2701.
 

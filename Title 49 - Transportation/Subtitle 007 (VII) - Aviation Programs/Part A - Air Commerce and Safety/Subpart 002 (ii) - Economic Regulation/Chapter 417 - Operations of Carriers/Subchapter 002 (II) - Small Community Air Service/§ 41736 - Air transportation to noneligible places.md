@@ -28,7 +28,7 @@ Approval for Certain Air Transportation.—Notwithstanding subsection (a)(1)(B) 
 
 &emsp;(3) the place is more than 150 miles from the nearest hub airport; and
 
-&emsp;(4) the State or local government submitting the proposal or a person is willing and able to pay 25 percent of the cost of providing the compensated transportation.
+&emsp;(4) the State or local government submitting the proposal or a person is willing and able topay 25 percent of the cost of providing the compensated transportation.
 
 > Paragraph (4) does not apply to any community approved for service under this section during the period beginning October 1, 1991, and ending December 31, 1997.
 
@@ -56,7 +56,7 @@ Compensation Payments.—(1) The Secretary shall pay compensation under this sec
 
 (e)
 
-Review.—The Secretary shall review periodically the level of air transportation providedunder this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
+Review.—The Secretary shall review periodically the level of air transportation provided under this section. Based on the review and consultation with any interested community, the appropriate State authority of the State in which the community is located, and the State or local government or person paying compensation under this section, the Secretary may make appropriate adjustments in the level of transportation.
 
 (f)
 

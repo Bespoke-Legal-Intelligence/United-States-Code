@@ -8,7 +8,7 @@ The Office shall be administered by the Administrator under the general authorit
 
 Sections 3789d(c), 3789f(a), 3789f(b), 3789f(c), 3789g(a), 3789g(b), and 3789g(d) of this title, shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
 
-&emsp;(1) any reference to the Office of Justice Programs in such sections shall be deemed to bea reference to the Assistant Attorney General who heads the Office of Justice Programs; and
+&emsp;(1) any reference to the Office of Justice Programs in such sections shall be deemed to be a reference to the Assistant Attorney General who heads the Office of Justice Programs; and
 
 &emsp;(2) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
 
@@ -54,7 +54,7 @@ Subsecs. (c), (d). Pub. L. 98–473, in amending section generally, added subsec
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1984 Amendment
 

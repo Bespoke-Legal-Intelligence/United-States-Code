@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) any person who participates with or assists the body with respect to the action,
 
-> &emsp;shall not be liable in damages under any law of the United States or of any State (or political subdivision thereof) with respect to the action. The preceding sentence shall not apply to damages under any law of the United States or any State relating to the civil rights of any person or persons, including the Civil Rights Act of 1964, 42 U.S.C. 2000e, et seq. and the Civil Rights Acts, 42 U.S.C. 1981, et seq. Nothing in this paragraph shall prevent the United States or any Attorney General of a State from bringing an action, including an action under section 15c of title 15, where such an action is otherwise authorized.
+> &emsp;shall not be liable in damages under any law of the United States or of any State (or political subdivision thereof) with respect to the action. The preceding sentence shall not apply to damages under any law of the United States or any State relating to the civil rights of any person or persons, including the Civil Rights Act of 1964, 42 U.S.C. 2000e, et seq. and the Civil Rights Acts, 42 U.S.C. 1981, et seq. Nothing in this paragraph shall prevent the United States or any Attorney General of a Statefrom bringing an action, including an action under section 15c of title 15, where such an action is otherwise authorized.
 
 #### (2) Protection for those providing information to professional review bodies
 
@@ -22,7 +22,7 @@
 
 #### (b) Exception
 
-If the Secretary has reason to believe that a health care entity has failed to report information in accordance with section 11133(a) of this title, the Secretary shall conduct an investigation. If, after providing notice of noncompliance,an opportunity to correct the noncompliance, and an opportunity for a hearing, the Secretary determines that a health care entity has failed substantially to report information in accordance with section 11133(a) of this title, the Secretary shall publish the name of the entity in the Federal Register. The protections of subsection (a)(1) of this section shall not apply to an entity the name of which is published in the Federal Register under the previous sentence with respect to professional review actions of the entity commenced during the 3-year period beginning 30 days after the date of publication of the name.
+If the Secretary has reason to believe that a health care entity has failed to report information in accordance with section 11133(a) of this title, the Secretary shall conduct an investigation. If, after providing notice of noncompliance, an opportunity to correct the noncompliance, and an opportunity for a hearing, the Secretary determines that a health care entity has failed substantially to report information in accordance with section 11133(a) of this title, the Secretary shall publish the name of the entity in the Federal Register. The protections of subsection (a)(1) of this section shall not apply to an entity the name of which is published in the Federal Register under the previous sentence with respect to professional review actions of the entity commenced during the 3-year period beginning 30 days after the date of publication of the name.
 
 #### (c) Treatment under State laws
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(A) a savings association if the person directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 25 percent of the voting shares of such savings association, or controls in any manner the election of a majority of the directors of such association;
 
-&emsp;&emsp;(B) any other company if the person directly or indirectly or acting in concert withone or more other persons, or through one or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 25 percent of the voting shares or rights of such other company, or controls in any manner the election or appointment of a majority of the directors or trustees of such other company, or is a general partner in or has contributed more than 25 percent of the capital of such other company;
+&emsp;&emsp;(B) any other company if the person directly or indirectly or acting in concert with one or more other persons, or through one or more subsidiaries, owns, controls, or holds with power to vote, or holds proxies representing, more than 25 percent of the voting shares or rights of such other company, or controls in any manner the election or appointment of a majority of the directors or trustees of such other company, or is a general partner in or has contributed more than 25 percent of the capital of such other company;
 
 &emsp;&emsp;(C) a trust if the person is a trustee thereof; or
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) any company by virtue of its ownership or control of voting shares of a savings association or a savings and loan holding company acquired in connection with the underwriting of securities if such shares are held only for such period of time (not exceeding 120 days unless extended by the Director) as will permit the sale thereof on a reasonable basis; and
 
-&emsp;&emsp;(B) any trust (other than a pension, profit-sharing, shareholders’, voting, or business trust) which controls a savings association or a savings and loan holding company if such trust by its terms must terminate within 25 years or not later than 21 years and 10 months after the death of individuals living on the effective date of the trust, and is (i) in existence on June 26, 1967, or (ii) a testamentary trust created on or after June 26, 1967.
+&emsp;&emsp;(B) any trust (other than a pension, profit-sharing, shareholders’, voting, or businesstrust) which controls a savings association or a savings and loan holding company if such trust by its terms must terminate within 25 years or not later than 21 years and 10 months after the death of individuals living on the effective date of the trust, and is (i) in existence on June 26, 1967, or (ii) a testamentary trust created on or after June 26, 1967.
 
 #### (4) Special rule relating to qualified stock issuance
 
@@ -108,7 +108,7 @@
 
 &emsp;Except as otherwise provided in this subsection, no savings and loan holding company and no subsidiary which is not a savings association shall—
 
-&emsp;&emsp;(A) engage in any activity or render any service for or on behalf of a savings association subsidiary for the purpose or with theeffect of evading any law or regulation applicable to such savings association;
+&emsp;&emsp;(A) engage in any activity or render any service for or on behalf of a savings association subsidiary for the purpose or with the effect of evading any law or regulation applicable to such savings association;
 
 &emsp;&emsp;(B) commence any business activity, other than the activities described in paragraph (2); or
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(F) Any other activity—
 
-&emsp;&emsp;&emsp;(i) which the Board of Governors of the Federal Reserve System, by regulation, has determined to be permissible for bank holding companies under section 4(c) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(c)\], unless the Director, by regulation, prohibits or limits any such activity for savings and loan holding companies; or
+&emsp;&emsp;&emsp;(i) which the Board of Governors of the Federal Reserve System, by regulation,has determined to be permissible for bank holding companies under section 4(c) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(c)\], unless the Director, by regulation, prohibits or limits any such activity for savings and loan holding companies; or
 
 &emsp;&emsp;&emsp;(ii) in which multiple savings and loan holding companies were authorized (by regulation) to directly engage on March 5, 1987.
 
@@ -178,7 +178,7 @@
 
 #### (5) Grace period to achieve compliance
 
-&emsp;If any savings association referred to in paragraph (3) fails to maintain the status ofsuch association as a qualified thrift lender, the Director may allow, for good cause shown, any company that controls such association (or any subsidiary of such company which is not a savings association) up to 3 years to comply with the limitations contained in paragraph (1)(C).
+&emsp;If any savings association referred to in paragraph (3) fails to maintain the status of such association as a qualified thrift lender, the Director may allow, for good cause shown, any company that controls such association (or any subsidiary of such company which is not a savings association) up to 3 years to comply with the limitations contained in paragraph (1)(C).
 
 #### (6) Special provisions relating to certain companies affected by 1987 amendments
 
@@ -192,7 +192,7 @@
 
 #### (C) Termination of subparagraph (B) exemption
 
-&emsp;&emsp;The exemption provided under subparagraph (B) for activities engaged in by any savings and loan holding company or a subsidiary of such company (which is not a savings association) which would otherwise be prohibited under paragraph (1)(C) shall terminate with respect to such activities of such company or subsidiary upon the occurrence (after August 10, 1987) of any of the following:
+&emsp;&emsp;The exemption provided under subparagraph (B) for activities engaged in by anysavings and loan holding company or a subsidiary of such company (which is not a savings association) which would otherwise be prohibited under paragraph (1)(C) shall terminate with respect to such activities of such company or subsidiary upon the occurrence (after August 10, 1987) of any of the following:
 
 &emsp;&emsp;&emsp;(i) The savings and loan holding company acquires control of a bank or an additional savings association (other than a savings association acquired pursuant to section 13(c) or 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(c) or (k)\] or section 406(f) or 408(m) <sup>1</sup> of the National Housing Act \[12 U.S.C. 1729(f) or 1730a(m)\]).
 
@@ -232,7 +232,7 @@
 
 #### (B) Prevention of new commercial affiliations
 
-&emsp;&emsp;Notwithstanding paragraph (3), no savings and loan holding company may engage directly or indirectly (including through asubsidiary other than a savings association) in any activity other than as described in clauses (i) and (ii) of subparagraph (A).
+&emsp;&emsp;Notwithstanding paragraph (3), no savings and loan holding company may engage directly or indirectly (including through a subsidiary other than a savings association) in any activity other than as described in clauses (i) and (ii) of subparagraph (A).
 
 #### (C) Preservation of authority of existing unitary S\&L holding companies
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;&emsp;(i) involves solely a company under common control with a savings and loan holding company from acquiring, directly or indirectly, control of the savings and loan holding company or any savings association that is already a subsidiary of the savings and loan holding company; or
 
-&emsp;&emsp;&emsp;(ii) involves solely a merger, consolidation, or other type of business combination as a result of which a company under common control with the savings and loan holding company acquires, directly or indirectly, control of the savings and loan holding company or any savings association that is already a subsidiary of the savings and loan holding company.
+&emsp;&emsp;&emsp;(ii) involves solely a merger, consolidation, or other type of business combination as a result of which a company under common control with the savings and loan holding company acquires, directly or indirectly, control of the savings and loanholding company or any savings association that is already a subsidiary of the savings and loan holding company.
 
 #### (E) Authority to prevent evasions
 
@@ -288,7 +288,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;&emsp;&emsp;(IV) over which no control is held other than control of voting rights acquired in the normal course of a proxy solicitation;
 
-&emsp;&emsp;&emsp;&emsp;(V) acquired in securing or collecting a debt previously contracted in good faith,during the 2-year period beginning on the date of such acquisition or for such additional time (not exceeding 3 years) as the Director may permit if the Director determines that such an extension will not be detrimental to the public interest;
+&emsp;&emsp;&emsp;&emsp;(V) acquired in securing or collecting a debt previously contracted in good faith, during the 2-year period beginning on the date of such acquisition or for such additional time (not exceeding 3 years) as the Director may permit if the Director determines that such an extension will not be detrimental to the public interest;
 
 &emsp;&emsp;&emsp;&emsp;(VI) acquired under section 408(m) <sup>4</sup> of the National Housing Act \[12 U.S.C. 1730a(m)\] or section 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(k)\];
 
@@ -298,7 +298,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;&nbsp;except that the aggregate amount of shares held under this clause (other than under subclauses (I), (II), (III), (IV), and (VI)) may not exceed 15 percent of all outstanding shares or of the voting power of a savings association or savings and loan holding company; or
 
-&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Director may upon application by such company extend such one-year period from year to year, for an additional period not exceeding 3 years, if the Director finds such extension is warranted and is not detrimental to the public interest; and
+&emsp;&emsp;&emsp;(iv) to acquire the control of an uninsured institution, or to retain for more than one year after February 14, 1968, or from the date on which such control was acquired, whichever is later, except that the Director may upon application by such company extend such one-year period from year to year, for an additional period notexceeding 3 years, if the Director finds such extension is warranted and is not detrimental to the public interest; and
 
 &emsp;&emsp;(B) any other company, without the prior written approval of the Director, directly or indirectly, or through one or more subsidiaries or through one or more transactions, to acquire the control of one or more savings associations, except that such approval shall not be required in connection with the control of a savings association, (i) acquired by devise under the terms of a will creating a trust which is excluded from the definition of “savings and loan holding company” under subsection (a) of this section, (ii) acquired in connection with a reorganization in which a person or group of persons, having had control of a savings association for more than 3 years, vests control of that association in a newly formed holding company subject to the control of the same person or group of persons, or (iii) acquired by a bank holding company that is registered under, and subject to, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company. The Director shall approve an acquisition of a savings association under this subparagraph unless the Director finds the financial and managerial resources and future prospects of the company and association involved to be such that the acquisition would be detrimental to the association or the insurance risk of the Savings Association Insurance Fund or Bank Insurance Fund, and shall render a decision within 90 days after submission to the Director of the complete record on the application.
 
@@ -314,7 +314,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;&emsp;(C) if the company fails to provide adequate assurances to the Director that the company will make available to the Director such information on the operations or activities of the company, and any affiliate of the company, as the Director determines to be appropriate to determine and enforce compliance with this chapter, or
 
-&emsp;&emsp;(D) in the case of an application involving a foreign bank, if the foreign bank is notsubject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in the bank's home country.
+&emsp;&emsp;(D) in the case of an application involving a foreign bank, if the foreign bank is not subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in the bank's home country.
 
 #### (3) Interstate acquisitions
 
@@ -360,7 +360,7 @@ Every subsidiary savings association of a savings and loan holding company shall
 
 #### (2) Investigations
 
-&emsp;The Director may make such investigations as the Director deems necessary or appropriate to determine whether the provisions of this section, and regulations and orders thereunder, are being and have been complied with by savings and loan holding companies and subsidiaries and affiliates thereof. For the purpose of any investigation under this section, the Director may administer oaths and affirmations, issue subpenas, take evidence, and require the production of any books, papers,correspondence, memorandums, or other records which may be relevant or material to the inquiry. The attendance of witnesses and the production of any such records may be required from any place in any State. The Director may apply to the United States district court for the judicial district (or the United States court in any territory) in which any witness or company subpenaed resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance.
+&emsp;The Director may make such investigations as the Director deems necessary or appropriate to determine whether the provisions of this section, and regulations and orders thereunder, are being and have been complied with by savings and loan holding companies and subsidiaries and affiliates thereof. For the purpose of any investigation under this section, the Director may administer oaths and affirmations, issue subpenas, take evidence, and require the production of any books, papers, correspondence, memorandums, or other records which may be relevant or material to the inquiry. The attendance of witnesses and the production of any such records may be required from any place in any State. The Director may apply to the United States district court for the judicial district (or the United States court in any territory) in which any witness or company subpenaed resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance.
 
 #### (3) Proceedings
 
@@ -386,7 +386,7 @@ It shall be unlawful for—
 
 &emsp;(2) any director or officer of a savings and loan holding company, or any individual who owns, controls, or holds with power to vote (or holds proxies representing) more than 25 percent of the voting shares of such holding company, to acquire control of any savings association not a subsidiary of such savings and loan holding company, unless such acquisition is approved by the Director pursuant to subsection (e)(4) of this section; or
 
-&emsp;(3) any individual, except with the prior approval of the Director, to serve or act as a director, officer, or trustee of, or become a partner in, any savings and loan holding companyafter having been convicted of any criminal offense involving dishonesty or breach of trust.
+&emsp;(3) any individual, except with the prior approval of the Director, to serve or act as a director, officer, or trustee of, or become a partner in, any savings and loan holding company after having been convicted of any criminal offense involving dishonesty or breach of trust.
 
 #### (i) Penalties
 
@@ -516,7 +516,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (II) Branching
 
-&emsp;&emsp;&emsp;&emsp;The savings association shall not establish any new branch office at any location at which a national bank located in the savings association's home Statemay not establish a branch office. For purposes of this subclause, a savings association's home State is the State in which the savings association's total deposits were largest on the date on which the savings association should have become or ceased to be a qualified thrift lender.
+&emsp;&emsp;&emsp;&emsp;The savings association shall not establish any new branch office at any location at which a national bank located in the savings association's home State may not establish a branch office. For purposes of this subclause, a savings association's home State is the State in which the savings association's total deposits were largest on the date on which the savings association should have become or ceased to be a qualified thrift lender.
 
 #### (III) Dividends
 
@@ -578,7 +578,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (B) Portfolio assets
 
-&emsp;&emsp;The term “portfolio assets” means, with respect to any savings association, the totalassets of the savings association, minus the sum of—
+&emsp;&emsp;The term “portfolio assets” means, with respect to any savings association, the total assets of the savings association, minus the sum of—
 
 &emsp;&emsp;&emsp;(i) goodwill and other intangible assets;
 
@@ -828,7 +828,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (A) New activities
 
-&emsp;&emsp;If a mutual holding company acquires or merges with another holding company underparagraph (5)(C), the holding company acquired or the holding company resulting from such merger or acquisition may only invest in assets and engage in activities which are authorized under paragraph (5).
+&emsp;&emsp;If a mutual holding company acquires or merges with another holding company under paragraph (5)(C), the holding company acquired or the holding company resulting from such merger or acquisition may only invest in assets and engage in activities which are authorized under paragraph (5).
 
 #### (B) Grace period for divesting prohibited assets or discontinuing prohibited activities
 
@@ -840,7 +840,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (7) Regulation
 
-&emsp;A mutual holding company shall be chartered by the Director and shall be subject to such regulations as the Director may prescribe. Unless the context otherwise requires, a mutual holding company shall be subject to the other requirements of this section regarding regulation of holding companies.
+&emsp;A mutual holding company shall be chartered by the Director and shall be subject tosuch regulations as the Director may prescribe. Unless the context otherwise requires, a mutual holding company shall be subject to the other requirements of this section regarding regulation of holding companies.
 
 #### (8) Capital improvement
 
@@ -984,7 +984,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 &emsp;&emsp;(A) maintains procedures reasonably adapted to avoid any inadvertent and unintentional error and, as a result of such an error—
 
-&emsp;&emsp;&emsp;(i) fails to submit or publish any report or information required under this section or regulations prescribed by the Director, within the period of time specified by the Director; or
+&emsp;&emsp;&emsp;(i) fails to submit or publish any report or information required under this sectionor regulations prescribed by the Director, within the period of time specified by the Director; or
 
 &emsp;&emsp;&emsp;(ii) submits or publishes any false or misleading report or information; or
 
@@ -1058,7 +1058,7 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 #### (t) Exemption for bank holding companies
 
-This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
+This section shall not apply to a bank holding company that is subject to the Bank HoldingCompany Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
 
 (June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032.)
 
@@ -1126,7 +1126,7 @@ Subsec. (m)(3)(F). Pub. L. 104–208, §2704(d)(12)(B)(v), which directed the am
 
 Pub. L. 104–201 substituted “associations serving certain” for “association serving transient” in heading, substituted “company if” for “company if—” and cl. (i), struck out cl. (ii) designation before “at least 90”, and substituted “members” for “officers” in two places. Prior to amendment, cl. (i) read as follows: “the savings and loan holding company is a reciprocal interinsurance exchange that acquired control of the insured institution before January 1, 1984; and”.
 
-Subsec. (m)(3)(G), (H). Pub. L. 104–208, §2704(d)(12)(B)(v), which directed the amendment of par. (3) by redesignating subpars. (G) and (H) as (F) and (G), respectively, was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (m)(3)(G), (H). Pub. L. 104–208, §2704(d)(12)(B)(v), which directed the amendment of par.\(3) by redesignating subpars. (G) and (H) as (F) and (G), respectively, was not executed. See Effective Date of 1996 Amendment note below.
 
 Subsec. (m)(4). Pub. L. 104–208, §2303(g)(1), substituted “subsection, the following definitions apply:” for “subsection—” in introductory provisions.
 
@@ -1198,7 +1198,7 @@ Amendment by section 907(k) of Pub. L. 101–73 applicable to conduct engaged in
 
 #### Savings Provision
 
-Section 302 of title III of Pub. L. 101–73 provided that: “Notwithstanding the amendment made by this title tosection 10 of the Home Owners’ Loan Act \[12 U.S.C. 1467a\] and the repeal of section 416 of the National Housing Act \[12 U.S.C. 1730i\]—
+Section 302 of title III of Pub. L. 101–73 provided that: “Notwithstanding the amendment made by this title to section 10 of the Home Owners’ Loan Act \[12 U.S.C. 1467a\] and the repeal of section 416 of the National Housing Act \[12 U.S.C. 1730i\]—
 
 &emsp;“(1) any plan approved by the Federal Home Loan Bank Board under such section 10 for any Federal savings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Director of the Office of Thrift Supervision regular and complete reports on the association's progress in meeting the association's goals under the plan; and
 

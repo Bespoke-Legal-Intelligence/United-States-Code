@@ -30,7 +30,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
 
-&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
+&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeepingrequirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
 
 &emsp;&emsp;&emsp;(ii) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
 
@@ -44,7 +44,7 @@ As used in this subchapter—
 
 &emsp;(7) the term “information resources management” means the process of managing information resources to accomplish agency missions and to improve agency performance, including through the reduction of information collection burdens on the public;
 
-&emsp;(8) the term “information system” means a discrete set of information resources organizedfor the collection, processing, maintenance, use, sharing, dissemination, or disposition of information;
+&emsp;(8) the term “information system” means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information;
 
 &emsp;(9) the term “information technology” has the meaning given that term in section 11101 of title 40 but does not include national security systems as defined in section 11103 of title 40;
 
@@ -94,9 +94,9 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface TransportationBoard effective Jan. 1, 1996, by section 702 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 701 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 701 of Title 49.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3532, 3542, 3601 of this title; title 10 section 1782; title 15 section 278g–3; title 31 sections 1344, 3811; title 40 section 11101; title 41 section 421; title 42 section 1320b–9.
+This section is referred to in sections 3532, 3542, 3601 of this title; title 10 section 1782; title 15 section 278g–3; title 31 sections 1344, 3811; title 40 section 11101; title 41 section 421; title 42 sections 1320b–9, 1395kk–1.
 

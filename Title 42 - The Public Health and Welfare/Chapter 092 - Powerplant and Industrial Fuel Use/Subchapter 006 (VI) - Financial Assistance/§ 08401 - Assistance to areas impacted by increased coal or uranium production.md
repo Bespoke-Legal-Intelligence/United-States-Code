@@ -2,7 +2,7 @@
 
 #### (a) Designation of impacted areas
 
-(1) In accordance with such criteria and guidelines as the Secretary of Agriculture shall, by rule, prescribe, the Governor of any State may designate any area within such State for the purposes of this section, if he finds that—
+(1) In accordance with such criteria and guidelines as the Secretary of Agriculture shall, byrule, prescribe, the Governor of any State may designate any area within such State for the purposes of this section, if he finds that—
 
 &emsp;(A) either (i) employment in coal or uranium production development activities in such area has increased for the most recent calendar year by 8 percent or more from the immediately preceding year or (ii) employment in such activities will increase 8 percent or more per year during each of the 3 calendar years beginning after the date of such finding;
 
@@ -58,7 +58,7 @@
 
 &emsp;(A) such property is not available by means other than condemnation at a price which does not substantially exceed the fair market value of such property;
 
-&emsp;(B) other real property is not similarly available which is within the same designated area and which is suitable for the purposes to which the property involved is to be applied; and
+&emsp;(B) other real property is not similarly available which is within the same designated area and which is suitable for the purposes towhich the property involved is to be applied; and
 
 &emsp;(C) the State and the local governments serving such area lack the legal authority to acquire such property by condemnation.
 
@@ -116,7 +116,7 @@ The Secretary of Agriculture shall carry out his responsibilities under this sec
 
 #### (h) Appropriations authorization
 
-(1) <sup>2</sup> There is hereby authorized to be appropriated to the Secretary of Energy for purposes of this section, $60,000,000 for fiscal year 1979 and $120,000,000 for fiscal year 1980. The Secretary of Energy and the Secretary of Agriculture shall enter into an agreement for the allocation of funds appropriated pursuant to this section for carrying out their respective responsibilities under this section, including the amounts for personnel and administrative costs, and upon such agreement, the Secretary of Energy shall transfer to the Secretary of Agriculture amounts determined under that agreement.
+(1) <sup>2</sup> There is hereby authorized to be appropriated to the Secretary of Energy for purposes of this section, $60,000,000 for fiscal year 1979 and $120,000,000 for fiscal year 1980. The Secretary of Energy and the Secretary of Agriculture shall enter into an agreement for the allocation of funds appropriated pursuant to this section for carrying out their respective responsibilities under this section, including the amounts for personnel and administrative costs, and upon such agreement, the Secretary of Energy shalltransfer to the Secretary of Agriculture amounts determined under that agreement.
 
 #### (i) Protection from certain hazardous actions
 

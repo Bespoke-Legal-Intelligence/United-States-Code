@@ -44,5 +44,5 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 #### Special Transition Rule for Fiscal Year 1996
 
-Section 564(b) of Pub. L. 104–106 provided that: “For purposes of applying subsection (b)(1) of section 129c of title 10, United States Code, as added by subsection (a), during fiscal year 1996, the number against which the percentage limitation of 95 percent is computed shall be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994 (rather than the number as of the end of fiscal year 1995).”
+Section 564(b) of Pub. L. 104–106 provided that: “For purposes of applying subsection (b)(1) of section 129c oftitle 10, United States Code, as added by subsection (a), during fiscal year 1996, the number against which the percentage limitation of 95 percent is computed shall be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994 (rather than the number as of the end of fiscal year 1995).”
 

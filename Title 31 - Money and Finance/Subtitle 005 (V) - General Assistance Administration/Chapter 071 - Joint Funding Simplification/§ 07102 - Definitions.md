@@ -48,7 +48,7 @@ Dec. 5, 1974, Pub. L. 93–510, §12, 88 Stat. 1608.
 
 42:4261(5).
 
-In clause (1), the words “applying for” are substituted for “seeking” for clarity. The words “actingseparately or together” are omitted as unnecessary. The text of 42:4261(4) is omitted as unnecessary because of section 102 of the revised title.
+In clause (1), the words “applying for” are substituted for “seeking” for clarity. The words “acting separately or together” are omitted as unnecessary. The text of 42:4261(4) is omitted as unnecessary because of section 102 of the revised title.
 
 In clause (2), the words “of the United States Government” are added for clarity. The words “assistance in the form of” are omitted as unnecessary.
 

@@ -34,7 +34,7 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 #### (c) Submittal to Congressional committees of proposals for conveyance of retained lands or rights
 
-No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatory statement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
+No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatorystatement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
 
 #### (d) Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.
 
@@ -66,7 +66,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 Proc. No. 4346, eff. Feb. 1, 1975, 40 F.R. 5127, as amended by Proc. No. 4359, eff. Mar. 28, 1975, 40 F.R. 14565, provided:
 
-The Buck Island Reef National Monument, situated off the northeast coast of Saint Croix Island in the Virgin Islands of the United States, was established by Proclamation No. 3443 of December 28, 1961 (76 Stat. 1441). It now has been determined that approximatelythirty acres of submerged land should be added to the monument site in order to insure the proper care and management of the shoals, rocks, undersea coral reef formations and other objects of scientific and historical interest pertaining to this National Monument.
+The Buck Island Reef National Monument, situated off the northeast coast of Saint Croix Island in the Virgin Islands of the United States, was established by Proclamation No. 3443 of December 28, 1961 (76 Stat. 1441). It now has been determined that approximately thirty acres of submerged land should be added to the monument site in order to insure the proper care and management of the shoals, rocks, undersea coral reef formations and other objects of scientific and historical interest pertaining to this National Monument.
 
 These thirty acres of submerged lands are presently owned in fee by the United States. They will be conveyed to the Government of the Virgin Islands on February 3, 1975, pursuant to Section 1(a) of Public Law 93–435 (88 Stat. 1210) \[subsec. (a) of this section\], unless the President, under Section 1(b)(vii) of that Act \[subsec. (b)(vii) of this section\], designates otherwise.
 

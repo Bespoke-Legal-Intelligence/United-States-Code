@@ -14,7 +14,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(6) sex stereotyping of female and male victims of rape and sexual assault, racial stereotyping of rape victims and defendants, and the impact of such stereotypes on credibility of witnesses, sentencing, and other aspects of the administration of justice;
 
-&emsp;(7) application of rape shield laws and other limits on introduction of evidence that may subject victims to improper sex stereotyping and harassment in both rape and nonrape cases, including the need for sua sponte judicial intervention in inappropriate cross-examination;
+&emsp;(7) application of rape shield laws and other limits on introduction of evidence that maysubject victims to improper sex stereotyping and harassment in both rape and nonrape cases, including the need for sua sponte judicial intervention in inappropriate cross-examination;
 
 &emsp;(8) the use of expert witness testimony on rape trauma syndrome, child sexual abuse accommodation syndrome, post-traumatic stress syndrome, and similar issues;
 
@@ -34,7 +34,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(16) the likelihood of retaliation, recidivism, and escalation of violence by batterers, and the potential impact of incarceration and other meaningful sanctions for acts of domestic violence including violations of orders of protection;
 
-&emsp;(17) economic, psychological, social and institutional reasons for victims’ inability to leave the batterer, to report domestic violenceor dating violence or to follow through on complaints, including the influence of lack of support from police, judges, and court personnel, and the legitimate reasons why victims of domestic violence or dating violence may refuse to testify against a defendant;
+&emsp;(17) economic, psychological, social and institutional reasons for victims’ inability to leave the batterer, to report domestic violence or dating violence or to follow through on complaints, including the influence of lack of support from police, judges, and court personnel, and the legitimate reasons why victims of domestic violence or dating violence may refuse to testify against a defendant;
 
 &emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence and dating violence cases;
 

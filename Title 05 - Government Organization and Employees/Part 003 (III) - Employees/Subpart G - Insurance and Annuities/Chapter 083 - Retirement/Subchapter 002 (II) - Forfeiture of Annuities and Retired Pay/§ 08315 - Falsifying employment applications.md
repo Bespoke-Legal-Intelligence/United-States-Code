@@ -18,7 +18,7 @@
 
 &emsp;(2) before, on, or after September 26, 1961, concerning his conviction of an offense named by subsection (c) of section 8312 of this title, to the extent provided by that subsection;
 
-> in a document executed by the individual in connection with his employment in, or application for, a civilian or military office or position in or under the legislative, executive, or judicial branch of the Government of the United States or the government of the District of Columbia.
+> in a document executed by the individual in connection with his employment in, or application for, a civilian or military office or position in orunder the legislative, executive, or judicial branch of the Government of the United States or the government of the District of Columbia.
 
 (b) The prohibition on the payment of annuity or retired pay applies—
 

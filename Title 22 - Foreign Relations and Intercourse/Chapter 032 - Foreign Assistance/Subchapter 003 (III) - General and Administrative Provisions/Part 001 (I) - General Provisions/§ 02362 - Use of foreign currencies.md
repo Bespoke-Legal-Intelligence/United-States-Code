@@ -54,7 +54,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 107–115, title V, §529, Jan. 10, 2002, 115 Stat. 2148, provided that:
+Pub. L. 108–7, div. E, title V, §529, Feb. 20, 2003, 117 Stat. 190, provided that:
 
 “(a)
 
@@ -111,6 +111,8 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–115, title V, §529, Jan. 10, 2002, 115 Stat. 2148.
 
 Pub. L. 106–429, §101(a) \[title V, §532\], Nov. 6, 2000, 114 Stat. 1900, 1900A–32.
 

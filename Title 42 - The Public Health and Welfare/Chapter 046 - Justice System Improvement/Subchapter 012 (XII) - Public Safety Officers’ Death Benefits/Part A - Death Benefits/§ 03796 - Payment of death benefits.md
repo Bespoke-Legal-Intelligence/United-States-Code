@@ -44,7 +44,7 @@ No benefit paid under this subchapter shall be subject to execution or attachmen
 
 #### (h) Consumer Price Index adjustment
 
-On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsection (a) of this section, to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
+On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust thelevel of the benefit payable immediately before such October 1 under subsection (a) of this section, to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
 
 #### (i) Amount payable determined as of date of death
 
@@ -56,7 +56,31 @@ The amount payable under subsection (a) of this section with respect to the deat
 
 (2) No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
 
-(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, §2(b), June 24, 2002, 116 Stat. 719.)
+#### (k) Death by heart attack or stroke; presumption
+
+For purposes of this section, if a public safety officer dies as the direct and proximate result of a heart attack or stroke, that officer shall be presumed to have died as the direct and proximate result of a personal injury sustained in the line of duty, if—
+
+&emsp;(1) that officer, while on duty—
+
+&emsp;&emsp;(A) engaged in a situation, and such engagement involved nonroutine stressful or strenuous physical law enforcement, fire suppression, rescue, hazardous material response, emergency medical services, prison security, disaster relief, or other emergency response activity; or
+
+&emsp;&emsp;(B) participated in a training exercise, and such participation involved nonroutine stressful or strenuous physical activity;
+
+&emsp;(2) that officer died as a result of a heart attack or stroke suffered—
+
+&emsp;&emsp;(A) while engaging or participating as described under paragraph (1);
+
+&emsp;&emsp;(B) while still on that duty after so engaging or participating; or
+
+&emsp;&emsp;(C) not later than 24 hours after so engaging or participating; and
+
+&emsp;(3) such presumption is not overcome by competent medical evidence to the contrary.
+
+#### (<i>l</i>) Definition
+
+For purposes of subsection (k) of this section, “nonroutine stressful or strenuous physical” excludes actions of a clerical, administrative, or nonmanual nature.
+
+(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, §2(b), June 24, 2002, 116 Stat. 719; Pub. L. 108–182, §2, Dec. 15, 2003, 117 Stat. 2649.)
 
 #### References in Text
 
@@ -71,6 +95,8 @@ Another prior section 3796, Pub. L. 90–351, title I, §701, as added Pub. L. 9
 A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+
+2003—Subsecs. (k), (<i>l</i>). Pub. L. 108–182 added subsecs. (k) and (<i>l</i>).
 
 2002—Subsec. (a)(4), (5). Pub. L. 107–196 added par. (4) and redesignated former par. (4) as (5).
 

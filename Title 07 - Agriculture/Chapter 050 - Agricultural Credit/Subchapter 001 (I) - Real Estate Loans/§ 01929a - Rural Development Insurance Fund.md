@@ -14,7 +14,7 @@ Moneys in the Insurance Fund not needed for current operations shall be deposite
 
 #### (d) Notes, issuing authority of the Secretary; use of funds; terms and conditions, form, denominations, maturities, and interest rate of notes; notes, purchasing authority of the Secretary of the Treasury; public debt transactions
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for making loans, advances, and authorized expenditures out of the Insurance Fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the average maturities of rural development loans made, guaranteed, or insured under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary hereunder. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for making loans, advances, and authorized expenditures out of the Insurance Fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed bythe Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the average maturities of rural development loans made, guaranteed, or insured under this chapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary hereunder. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (e) Notes and security as part of Insurance Fund; collection and sale of notes and other obligations; deposit of net proceeds in Insurance Fund
 
@@ -40,7 +40,7 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
-&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under theprograms referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (h) Gross income; interest or other income on insured loans
 
@@ -50,7 +50,7 @@ When any loan is sold out of the Insurance Fund as an insured loan, the interest
 
 #### References in Text
 
-For statutory changes to section 1926(a)(1) of this title by the Rural Development Act of 1972, referred to in subsec. (a), see 1972 Amendment note for section 104 of Pub. L. 92–419, set out under section 1926 of this title. For complete classification of the Rural Development Act of 1972 to the Code, see Short Title of 1972 Amendment note set out under section 1921 of this title and Tables.
+For statutory changes to section 1926(a)(1) of this title by the Rural Development Act of 1972, referred to in subsec. (a), see 1972 Amendment note for section 104 of Pub. L. 92–419, set out under section 1926 of this title.For complete classification of the Rural Development Act of 1972 to the Code, see Short Title of 1972 Amendment note set out under section 1921 of this title and Tables.
 
 For definition of “this chapter”, referred to in subsecs. (b), (d), (e), (f), and (g)(5), (7), see note set out under section 1921 of this title.
 
@@ -130,7 +130,7 @@ Pub. L. 100–387, title III, §331, Aug. 11, 1988, 102 Stat. 951.
 
 #### Sale of Rural Development Notes and Other Obligations
 
-Section 1001 of Pub. L. 99–509, as amended by Pub. L. 100–233, title VIII, §803, Jan. 6, 1988, 101 Stat. 1714; Pub.L. 101–220, §12, Dec. 12, 1989, 103 Stat. 1883, provided that:
+Section 1001 of Pub. L. 99–509, as amended by Pub. L. 100–233, title VIII, §803, Jan. 6, 1988, 101 Stat. 1714; Pub. L. 101–220, §12, Dec. 12, 1989, 103 Stat. 1883, provided that:
 
 “(a)
 

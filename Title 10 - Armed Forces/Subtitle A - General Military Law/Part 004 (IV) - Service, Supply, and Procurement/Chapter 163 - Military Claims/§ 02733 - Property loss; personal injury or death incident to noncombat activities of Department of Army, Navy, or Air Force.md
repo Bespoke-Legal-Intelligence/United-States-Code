@@ -26,7 +26,7 @@
 
 (c) Payment may not be made under this section for reimbursement for medical, hospital, or burial services furnished at the expense of the United States.
 
-(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, and the claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
+(d) If the Secretary concerned considers that a claim in excess of $100,000 is meritorious, andthe claim otherwise is payable under this section, the Secretary may pay the claimant $100,000 and report any meritorious amount in excess of $100,000 to the Secretary of the Treasury for payment under section 1304 of title 31.
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
@@ -34,7 +34,7 @@
 
 (g) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
 
-(h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respectto the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
+(h) Under such regulations as the Secretary of Defense may prescribe, he or his designee has the same authority as the Secretary of a military department under this section with respect to the settlement of claims based on damage, loss, personal injury, or death caused by a civilian officer or employee of the Department of Defense acting within the scope of his employment or otherwise incident to noncombat activities of that department.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 153; Pub. L. 85–729, §1, Aug. 23, 1958, 72 Stat. 813; Pub. L. 85–861, §1(54), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–522, Sept. 26, 1968, 82 Stat. 875; Pub. L. 90–525, §§1, 3–5, Sept. 26, 1968, 82 Stat. 877, 878; Pub. L. 91–312, §2, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §1, July 8, 1974, 88 Stat. 291; Pub. L. 96–513, title V, §511(94), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §1, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842.)
 
@@ -193,6 +193,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 

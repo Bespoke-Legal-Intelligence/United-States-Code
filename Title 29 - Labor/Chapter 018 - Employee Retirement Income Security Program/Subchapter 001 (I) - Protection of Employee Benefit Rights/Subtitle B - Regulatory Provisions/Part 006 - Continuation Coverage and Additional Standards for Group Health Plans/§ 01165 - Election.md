@@ -46,7 +46,7 @@ For purposes of this part—
 
 &emsp;For purposes of this subsection:
 
-#### (A) Nonelecting taa-eligible individual
+#### (A) Nonelecting TAA-eligible individual
 
 &emsp;&emsp;The term “nonelecting TAA-eligible individual” means a TAA-eligible individual who—
 
@@ -81,6 +81,10 @@ Section 1166(4) of this title, referred to in subsec. (a)(1)(C)(ii), was redesig
 2002—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1986—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
 
 #### Effective Date of 1986 Amendment
 

@@ -32,7 +32,7 @@ Organizations eligible to receive a grant or enter into a contract under subsect
 
 #### (1) Evaluation
 
-&emsp;Each organization receiving a grant or a contract under subsection (a) of this section to carry out a demonstration project shall evaluate the multigenerational activities assisted under the project to determine the effectiveness of the multigenerational activities, the impact of such activities on child care and youth day care programs, and the impact of such activities on older individuals involved in such project.
+&emsp;Each organization receiving a grant or a contract under subsection (a) of this section tocarry out a demonstration project shall evaluate the multigenerational activities assisted under the project to determine the effectiveness of the multigenerational activities, the impact of such activities on child care and youth day care programs, and the impact of such activities on older individuals involved in such project.
 
 #### (2) Report
 

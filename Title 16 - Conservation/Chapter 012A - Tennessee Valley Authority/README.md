@@ -87,7 +87,7 @@
 | [831bb.](%C2%A7%2000831bb%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md) | Reservation of right to amend or repeal. |
 | [831cc.](%C2%A7%2000831cc%20-%20Separability.md) | Separability. |
 | [831dd.](%C2%A7%2000831dd%20-%20Liberal%20construction%20of%20chapter%3B%20sale%20of%20surplus%20lands.md) | Liberal construction of chapter; sale of surplus lands. |
-| [831ee.](%C2%A7%2000831ee%20-%20Tennessee%20Valley%20Authority.md) | Tennessee Valley Authority. |
+| [831ee.](%C2%A7%2000831ee%20-%20Essential%20stewardship%20activities.md) | Essential stewardship activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -144,4 +144,4 @@ This chapter is referred to in sections 460<i>lll</i>–49, 824k, 831ee of this 
 - [&sect; 00831bb - Reservation of right to amend or repeal](%C2%A7%2000831bb%20-%20Reservation%20of%20right%20to%20amend%20or%20repeal.md)
 - [&sect; 00831cc - Separability](%C2%A7%2000831cc%20-%20Separability.md)
 - [&sect; 00831dd - Liberal construction of chapter; sale of surplus lands](%C2%A7%2000831dd%20-%20Liberal%20construction%20of%20chapter%3B%20sale%20of%20surplus%20lands.md)
-- [&sect; 00831ee - Tennessee Valley Authority](%C2%A7%2000831ee%20-%20Tennessee%20Valley%20Authority.md)
+- [&sect; 00831ee - Essential stewardship activities](%C2%A7%2000831ee%20-%20Essential%20stewardship%20activities.md)

@@ -4,7 +4,7 @@
 
 (b) The Secretary of Defense may authorize the Secretary of the Air Force, during the period beginning on October 1, 1990, and ending on December 31, 2001, to reduce the requirement under subsection (a) for at least 10 years of active service as a commissioned officer to a period (determined by the Secretary of the Air Force) of not less than eight years.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 549; Pub. L. 101–510, div. A, title V, §523(c), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c),Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 549; Pub. L. 101–510, div. A, title V, §523(c), Nov. 5, 1990, 104 Stat. 1562; Pub. L. 103–160, div. A, title V, §561(c), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(e), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
 
 Historical and Revision Notes
 

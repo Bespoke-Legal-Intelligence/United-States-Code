@@ -30,6 +30,60 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under section 1101 of this title.
 
+#### Radiation Dose Reconstruction Program of Department of Defense
+
+Pub. L. 108–183, title VI, §601, Dec. 16, 2003, 117 Stat. 2667, provided that:
+
+“(a)
+
+Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense.
+
+“(2) In conducting the review under paragraph (1), the Secretaries shall—
+
+&emsp;“(A) determine whether any additional actions are required to ensure that the quality assurance and quality control mechanisms of the Radiation Dose Reconstruction Program are adequate and sufficient for purposes of the program; and
+
+&emsp;“(B) determine the actions that are required to ensure that the mechanisms of the Radiation Dose Reconstruction Program for communication and interaction with veterans are adequate and sufficient for purposes of the program, including mechanisms to permit veterans to review the assumptions utilized in their dose reconstructions.
+
+“(3) Not later than 90 days after the date of the enactment of this Act \[Dec. 16, 2003\], the Secretaries shall jointly submit to Congress a report on the review under paragraph (1). The report shall set forth—
+
+&emsp;“(A) the results of the review;
+
+&emsp;“(B) a plan for any actions determined to be required under paragraph (2); and
+
+&emsp;“(C) such other recommendations for the improvement of the mission, procedures, and administration of the Radiation Dose Reconstruction Program as the Secretaries jointly consider appropriate.
+
+“(b)
+
+On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program, including the establishment of the advisory board required by subsection (c).
+
+“(c)
+
+Advisory Board.—(1) In taking actions under subsection (b), the Secretaries shall jointly appoint an advisory board to provide review and oversight of the Radiation Dose Reconstruction Program.
+
+“(2) The advisory board under paragraph (1) shall be composed of the following:
+
+&emsp;“(A) At least one expert in historical dose reconstruction of the type conducted under the Radiation Dose Reconstruction Program.
+
+&emsp;“(B) At least one expert in radiation health matters.
+
+&emsp;“(C) At least one expert in risk communications matters.
+
+&emsp;“(D) A representative of the Department of Veterans Affairs.
+
+&emsp;“(E) A representative of the Defense Threat Reduction Agency.
+
+&emsp;“(F) At least three veterans, including at least one veteran who is a member of an atomic veterans group.
+
+“(3) The advisory board under paragraph (1) shall—
+
+&emsp;“(A) conduct periodic, random audits of dose reconstructions under the Radiation Dose Reconstruction Program and of decisions by the Department of Veterans Affairs on claims for service connection of radiogenic diseases;
+
+&emsp;“(B) assist the Department of Veterans Affairs and the Defense Threat Reduction Agency in communicating to veterans information on the mission, procedures, and evidentiary requirements of the Radiation Dose Reconstruction Program; and
+
+&emsp;“(C) carry out such other activities with respect to the review and oversight of the Radiation Dose Reconstruction Program as the Secretaries shall jointly specify.
+
+“(4) The advisory board under paragraph (1) may make such recommendations on modifications in the mission or procedures of the Radiation Dose Reconstruction Program as the advisory board considers appropriate as a result of the audits conducted under paragraph (3)(A).”
+
 #### Review of Dose Reconstruction Program of the Defense Threat Reduction Agency
 
 Pub. L. 106–419, title III, §305, Nov. 1, 2000, 114 Stat. 1853, provided that:
@@ -92,11 +146,11 @@ Content of Registry.—Except as provided in subsection (c), the Registry shall 
 
 &emsp;“(3) Data on claims for the compensation referred to in paragraph (1), including decisions and determinations of the Department of Veterans Affairs relating to such claims.
 
-&emsp;“(4) An estimate of the dose of radiation to which each veteran listed in the Registry was exposed underthe conditions described in section 1710(e)(1)(B) of such title.
+&emsp;“(4) An estimate of the dose of radiation to which each veteran listed in the Registry was exposed under the conditions described in section 1710(e)(1)(B) of such title.
 
 “(c)
 
-Veterans Submitting Claims Before Date of Enactment.—If in the case of a veteran described in subsection (b)(1) the application or claim referred to in such subsection was submitted or filed before October 28, 1986, the Secretary shall include in the Registry, to the extent feasible, such veteran's name and the data and information described in subsection (b) relating to the veteran.
+Veterans Submitting Claims Before Date of Enactment.—If in the case of a veteran described in subsection (b)(1) the application or claim referred to in such subsection was submitted or filed before October 28, 1986, the Secretary shall include in the Registry, to the extent feasible, such veteran's name and the dataand information described in subsection (b) relating to the veteran.
 
 “(d)
 
@@ -162,7 +216,7 @@ Sec. 2. The Congress makes the following findings:
 
 &emsp;“(12) Such claims (especially those involving health effects with long latency periods) present adjudicatory issues which are significantly different from issues generally presented in claims based upon the usual types of injuries incurred in military service.
 
-&emsp;“(13) It has always been the policy of the Veterans’ Administration \[now Department of Veterans Affairs\]and is the policy of the United States, with respect to individual claims for service connection of diseases and disabilities, that when, after consideration of all evidence and material of record, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of a claim, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+&emsp;“(13) It has always been the policy of the Veterans’ Administration \[now Department of Veterans Affairs\] and is the policy of the United States, with respect to individual claims for service connection of diseases and disabilities, that when, after consideration of all evidence and material of record, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of a claim, the benefit of the doubt in resolving each such issue shall be given to the claimant.
 
 #### “purpose
 
@@ -206,7 +260,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 &emsp;“(B) a requirement that a claimant filing a claim based upon a veteran's exposure to ionizing radiation from the detonation of a nuclear device may not be required to produce evidence substantiating the veteran's exposure during active military, naval, or air service if the information in the veteran's service records and other records of the Department of Defense is not inconsistent with the claim that the veteran was present where and when the claimed exposure occurred.
 
-“(c)(1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That processmay include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
+“(c)(1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
 
 “(2)(A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
 

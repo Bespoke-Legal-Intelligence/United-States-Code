@@ -4,7 +4,7 @@
 
 &emsp;(1) the director of the medical center, the chief of staff of the medical center, and as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in the case of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and
 
-&emsp;(2) subject to subsection (c), members who are not officers or employees of the FederalGovernment and who are familiar with issues involving medical and scientific research or education, as appropriate.
+&emsp;(2) subject to subsection (c), members who are not officers or employees of the Federal Government and who are familiar with issues involving medical and scientific research or education, as appropriate.
 
 (b) Each such corporation shall have an executive director who shall be appointed by the board of directors with the concurrence of the Under Secretary for Health of the Department. The executive director of a corporation shall be responsible for the operations of the corporation and shall have such specific duties and responsibilities as the board may prescribe.
 

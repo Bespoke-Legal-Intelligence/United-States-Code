@@ -2,7 +2,7 @@
 
 #### (a) Counseling before testing
 
-The Secretary may not make a grant under this part unless the applicant for the grant agrees that, before testing an individual for HIV disease, the applicant will provide to the individual appropriate counseling regarding the disease (based on the most recently available scientific data), including counseling on—
+The Secretary may not make a grant under this part unless the applicant for the grantagrees that, before testing an individual for HIV disease, the applicant will provide to the individual appropriate counseling regarding the disease (based on the most recently available scientific data), including counseling on—
 
 &emsp;(1) measures for the prevention of exposure to, and the transmission of, HIV;
 

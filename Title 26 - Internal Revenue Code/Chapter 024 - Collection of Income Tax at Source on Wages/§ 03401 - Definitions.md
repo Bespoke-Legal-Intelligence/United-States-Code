@@ -66,13 +66,15 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(17) for service described in section 3121(b)(20); <sup>2</sup>
 
-&emsp;(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127 or 129; <sup>2</sup>
+&emsp;(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, or 134(b)(4); <sup>2</sup>
 
 &emsp;(19) for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132; <sup>2</sup>
 
-&emsp;(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); or
+&emsp;(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); <sup>2</sup>
 
-&emsp;(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b).
+&emsp;(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); or
+
+&emsp;(22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
 
 #### (b) Payroll period
 
@@ -104,7 +106,7 @@ For purposes of subsection (a), the term “wages” includes tips received by a
 
 Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(<i>l</i>), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L.94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(<i>l</i>), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477.)
 
 #### Amendment of Section
 
@@ -115,6 +117,10 @@ Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of
 Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2003—Subsec. (a)(18). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
+
+Subsec. (a)(22). Pub. L. 108–173 added par. (22).
 
 2001—Subsec. (a)(12)(E). Pub. L. 107–16, §§641(a)(1)(D)(i), 901, temporarily added subpar. (E). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -200,6 +206,12 @@ Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 1955—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
 
+#### Effective Date of 2003 Amendments
+
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+
+Amendment by Pub. L. 108–121 applicable to taxable years beginning after Dec. 31, 2002, see section 106(c) of Pub. L. 108–121, set out as a note under section 134 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
@@ -222,7 +234,7 @@ Section 11703(f)(2) of Pub. L. 101–508 provided that: “The amendment made by
 
 Section 7631(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to remuneration paid after December 31, 1989.”
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -278,7 +290,7 @@ Section 3(b) of Pub. L. 92–279 provided that: “The amendments made by sectio
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to remuneration paid after Dec. 31, 1966, see section103(n)(4) of Pub. L. 89–809, set out as a note under section 871 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to remuneration paid after Dec. 31, 1966, see section 103(n)(4) of Pub. L. 89–809, set out as a note under section 871 of this title.
 
 #### Effective Date of 1965 Amendment
 
@@ -306,7 +318,15 @@ Pub. L. 89–368, §1, Mar. 15, 1966, 80 Stat. 38, provided that: “This Act \[
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions,see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+
+#### No Inference To Be Drawn From Amendment by Pub. L. 108–121
+
+No inference to be drawn from amendment to subsec. (a)(18) of this section by section 106 of Pub. L. 108–121 with respect to tax treatment of any amounts under program described in section 134(b)(4) of this title for any taxable year beginning before Jan. 1, 2003, see section 106(d) of Pub. L. 108–121, set out as a note under section 134 of this title.
+
+#### Plan Amendments Not Required Until January 1, 1998
+
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Controversies Involving Whether Individuals Are Employees for Purposes of Employment Taxes
 
@@ -370,7 +390,7 @@ Special Rules for Application of Section.—
 
 &emsp;“(1)
 
-Notice of availability of section.—An officer or employee of the Internal Revenue Service shall,before or at the commencement of any audit inquiry relating to the employment status of one or more individuals who perform services for the taxpayer, provide the taxpayer with a written notice of the provisions of this section.
+Notice of availability of section.—An officer or employee of the Internal Revenue Service shall, before or at the commencement of any audit inquiry relating to the employment status of one or more individuals who perform services for the taxpayer, provide the taxpayer with a written notice of the provisions of this section.
 
 &emsp;“(2)
 
@@ -445,10 +465,6 @@ In general.—Section 530(e)(4) of the Revenue Act of 1978 (as added by subsecti
 No inference.—Nothing in the amendments made by this section shall be construed to infer the proper treatment of the burden of proof with respect to disputes involving periods before January 1, 1997.”\]
 
 \[Section 1706(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending section 530 of Pub. L. 95–600, set out above\] shall apply to remuneration paid and services rendered after December 31, 1986.”\]
-
-#### Plan Amendments Not Required Until January 1, 1998
-
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

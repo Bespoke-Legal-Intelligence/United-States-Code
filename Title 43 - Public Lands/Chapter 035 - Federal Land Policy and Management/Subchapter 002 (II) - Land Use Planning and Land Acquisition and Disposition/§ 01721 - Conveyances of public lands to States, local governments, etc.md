@@ -2,7 +2,7 @@
 
 #### (a) Unsurveyed islands; authorization and limitations on authority
 
-The Secretary is authorized to convey to States or their political subdivisions under the Recreation and Public Purposes Act (44 Stat. 741 as amended; 43 U.S.C. 869 et seq.), as amended, but without regard to the acreage limitations contained therein, unsurveyed islands determined by the Secretary to be public lands of theUnited States. The conveyance of any such island may be made without survey: <i>Provided, however</i>, That such island may be surveyed at the request of the applicant State or its political subdivision if such State or subdivision donates money or services to the Secretary for such survey, the Secretary accepts such money or services, and such services are conducted pursuant to criteria established by the Director of the Bureau of Land Management. Any such island so surveyed shall not be conveyed without approval of such survey by the Secretary prior to the conveyance.
+The Secretary is authorized to convey to States or their political subdivisions under the Recreation and Public Purposes Act (44 Stat. 741 as amended; 43 U.S.C. 869 et seq.), as amended, but without regard to the acreage limitations contained therein, unsurveyed islands determined by the Secretary to be public lands of the United States. The conveyance of any such island may be made without survey: <i>Provided, however</i>, That such island may be surveyed at the request of the applicant State or its political subdivision if such State or subdivision donates money or services to the Secretary for such survey, the Secretary accepts such money or services, and such services are conducted pursuant to criteria established by the Director of the Bureau of Land Management. Any such island so surveyed shall not be conveyed without approval of such survey by the Secretary prior to the conveyance.
 
 #### (b) Omitted lands; authorization and limitations on authority
 
@@ -18,7 +18,7 @@ The Secretary is authorized to convey to States or their political subdivisions 
 
 #### (d) Applicability of other statutory requirements for authorized use of conveyed lands
 
-The final sentence of section 1(c) of the Recreation and Public Purposes Act \[43 U.S.C. 869(c)\] shall not be applicable to conveyances under this section.
+The final sentence of section 1(c) of the Recreation and Public Purposes Act \[43 U.S.C. 869(c)\]shall not be applicable to conveyances under this section.
 
 #### (e) Limitations on uses of conveyed lands
 

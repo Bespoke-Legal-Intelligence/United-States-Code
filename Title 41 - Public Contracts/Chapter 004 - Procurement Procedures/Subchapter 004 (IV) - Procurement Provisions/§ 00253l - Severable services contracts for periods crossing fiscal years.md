@@ -24,5 +24,5 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253<i>l</i>–1, 253<i>l</i>–2, 253<i>l</i>–3, 253<i>l</i>–4 of this title.
+This section is referred to in sections 253<i>l</i>–1, 253<i>l</i>–2, 253<i>l</i>–3, 253<i>l</i>–4, 253<i>l</i>–5, 253<i>l</i>–6, 253<i>l</i>–7, 253<i>l</i>–8 of this title.
 

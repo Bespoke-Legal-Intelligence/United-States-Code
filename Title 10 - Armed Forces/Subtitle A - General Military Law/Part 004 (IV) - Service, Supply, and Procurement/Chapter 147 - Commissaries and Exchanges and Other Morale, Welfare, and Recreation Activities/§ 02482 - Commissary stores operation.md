@@ -2,7 +2,9 @@
 
 (a)
 
-Private Operation.—Private persons may operate commissary stores under such regulations as the Secretary of Defense may approve. A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
+Private Operation.—(1) Under such regulations as the Secretary of Defense may approve, private persons may operate selected commissary store functions, except that such functions may not include functions relating to the procurement of products to be sold in a commissary store or functions relating to the overall management of a commissary system or the management of a commissary store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
+
+(2) Any change to private operation of a commissary store function that is being performed by more than 10 Department of Defense civilian employees shall not take effect until the end of the 75-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the change.
 
 (b)
 
@@ -18,7 +20,7 @@ Governing Board.—(1) Notwithstanding section 192(d) of this title, the Secreta
 
 (3) The governing board shall be accountable only to the Secretary of Defense and to the civilian officer of the Department of Defense who is assigned the responsibility for the overall supervision of the Defense Commissary Agency pursuant to section 192(a) of this title. The Director of the Defense Commissary Agency shall be accountable to and report to the board.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522.)
 
 Historical and Revision Notes
 
@@ -38,7 +40,9 @@ This section is codified as permanent law on the basis of an opinion of the Assi
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–261, §363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procuredthrough full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
+2003—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1), inserted first sentence, added par. (2), and struck out former first and second sentences which read as follows: “Private persons may operate commissary stores under such regulations as the Secretary of Defense may approve. A contract with a private person for the operation of any commissary store may not require or permit the contractor to carry out functions for the procurement of products to be sold in the store or to engage in functions relating to the overall management of a commissary system or the management of any such store.”
+
+1998—Subsec. (b)(1). Pub. L. 105–261, §363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
 
 Subsec. (c). Pub. L. 105–261, §361(b), added subsec. (c).
 
@@ -92,7 +96,7 @@ Program Requirement and Limitation.—(1) Except as provided in paragraph (3), c
 
 “(d)
 
-Period of Demonstration Program.—A nonappropriated fund instrumentality selected under subsection (a)(2) shall operate commissary store facilities under such program for the period beginning on the date of the selection of the nonappropriated fund instrumentality and ending on the date of the expiration of the period referred to in subsection (e).
+Period of Demonstration Program.—A nonappropriated fund instrumentality selected under subsection (a)(2) shall operate commissary store facilities under such program for the period beginning on thedate of the selection of the nonappropriated fund instrumentality and ending on the date of the expiration of the period referred to in subsection (e).
 
 “(e)
 

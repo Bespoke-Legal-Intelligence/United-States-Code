@@ -2,7 +2,7 @@
 
 #### (a) Disclosure required prior to disbursement
 
-Each institution of higher education, in order to carry out the provisions of section 1087cc(a)(8) <sup>1</sup> of this title, shall, at or prior to the time such institution makes a loan to a student borrower which is made under this part, provide thorough and adequate loan information on such loan to the student borrower. Any disclosure required by this subsection may be made by an institution of higher education as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosures shall include—
+Each institution of higher education, in order to carry out the provisions of section1087cc(a)(8) <sup>1</sup> of this title, shall, at or prior to the time such institution makes a loan to a student borrower which is made under this part, provide thorough and adequate loan information on such loan to the student borrower. Any disclosure required by this subsection may be made by an institution of higher education as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosures shall include—
 
 &emsp;(1) the name of the institution of higher education, and the address to which communications and payments should be sent;
 
@@ -22,7 +22,7 @@ Each institution of higher education, in order to carry out the provisions of se
 
 &emsp;(9) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
 
-&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at anytime, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
+&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
 
 &emsp;(11) a definition of default and the consequences to the borrower if the borrower defaults, together with a statement that the disbursement of, and the default on, a loan under this part, shall be reported to a credit bureau or credit reporting agency;
 
@@ -64,7 +64,7 @@ Section 1087cc(a) of this title, referred to in subsec. (a), was amended by Pub.
 
 #### Prior Provisions
 
-A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3, 1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97 Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087cc–1, Pub. L. 89–329, title IV, §463A, as added Pub. L. 96–374, title IV, §447(b), Oct. 3,1980, 94 Stat. 1443; amended Pub. L. 97–301, §13, Oct. 13, 1982, 96 Stat. 1405; Pub. L. 98–79, §3(b), Aug. 15, 1983, 97 Stat. 478; Pub. L. 99–272, title XVI, §16027, Apr. 7, 1986, 100 Stat. 353, related to student loan information to be provided by institutions, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -90,7 +90,7 @@ Subsec. (a)(10). Pub. L. 100–50, §13(h), substituted “the Department of Def
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, seesection 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1993 Amendment
 

@@ -20,7 +20,7 @@ As used in this section—
 
 #### (1) Prohibitions
 
-&emsp;It shall be unlawful for any person within the United States—
+&emsp;It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States—
 
 &emsp;&emsp;(A) to make any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice—
 
@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;&emsp;(B) to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes or is exempted by rule or order by the Commission under paragraph (2)(B);
 
-&emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or
+&emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send anunsolicited advertisement to a telephone facsimile machine; or
 
 &emsp;&emsp;(D) to use an automatic telephone dialing system in such a way that two or more telephone lines of a multi-line business are engaged simultaneously.
 
@@ -98,7 +98,7 @@ As used in this section—
 
 &emsp;&emsp;(D) specify the methods by which such objections shall be collected and added to the database;
 
-&emsp;&emsp;(E) prohibit any residential subscriber from being charged for giving or revokingsuch notification or for being included in a database compiled under this section;
+&emsp;&emsp;(E) prohibit any residential subscriber from being charged for giving or revoking such notification or for being included in a database compiled under this section;
 
 &emsp;&emsp;(F) prohibit any person from making or transmitting a telephone solicitation to the telephone number of any subscriber included in such database;
 
@@ -158,7 +158,7 @@ As used in this section—
 
 #### (2) Telephone facsimile machines
 
-&emsp;The Commission shall revise the regulations setting technical and procedural standards for telephone facsimile machines to require that any such machine which is manufactured after one year after December 20, 1991, clearly marks, in a margin at the top or bottom of each transmitted page or on the first page of each transmission, the date and time sent, an identification of the business, other entity, orindividual sending the message, and the telephone number of the sending machine or of such business, other entity, or individual.
+&emsp;The Commission shall revise the regulations setting technical and procedural standards for telephone facsimile machines to require that any such machine which is manufactured after one year after December 20, 1991, clearlymarks, in a margin at the top or bottom of each transmitted page or on the first page of each transmission, the date and time sent, an identification of the business, other entity, or individual sending the message, and the telephone number of the sending machine or of such business, other entity, or individual.
 
 #### (3) Artificial or prerecorded voice systems
 
@@ -214,21 +214,27 @@ As used in this section—
 
 #### (7) Limitation
 
-&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in theCommission's complaint for any violation as alleged in the Commission's complaint.
+&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for any violation as alleged in the Commission's complaint.
 
 #### (8) “Attorney general” defined
 
 &emsp;As used in this subsection, the term “attorney general” means the chief legal officer of a State.
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294.)
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717.)
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–187 inserted “, or any person outside the United States if the recipient is within the United States” after “United States” in introductory provisions.
 
 1994—Subsec. (b)(2)(C). Pub. L. 103–414, §303(a)(11), substituted “paragraph” for “paragraphs”.
 
 Subsec. (e)(2). Pub. L. 103–414, §303(a)(12), substituted “national database” for “national datebase” after “such single”.
 
 1992—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L. 108–187, set out as an Effective Date note under section 7701 of Title 15, Commerce and Trade.
 
 #### Effective Date; Deadline for Regulations
 
@@ -278,5 +284,5 @@ Section 2 of Pub. L. 102–243 provided that: “The Congress finds that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 152 of this title.
+This section is referred to in section 152 of this title; title 15 section 7712.
 

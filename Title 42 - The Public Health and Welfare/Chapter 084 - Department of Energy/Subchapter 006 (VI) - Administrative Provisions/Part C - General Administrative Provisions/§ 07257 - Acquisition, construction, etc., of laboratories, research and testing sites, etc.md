@@ -10,7 +10,7 @@ Pub. L. 106–65, div. C, title XXXI, §3175, Oct. 5, 1999, 113 Stat. 950, provi
 
 “(a)
 
-Requirement.—(1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as‘PMO services’) for construction projects of the Department of Energy.
+Requirement.—(1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as ‘PMO services’) for construction projects of the Department of Energy.
 
 “(2) The purpose of the pilot program shall be to provide a basis for determining whether or not the use of competitively procured, external PMO services for those construction projects would permit the Department to control excessive costs and schedule delays associated with those construction projects that have large capital costs.
 
@@ -54,11 +54,7 @@ Report.—Not later than February 1, 2000, the Secretary shall submit to the Com
 
 #### Laboratory Funding Plan
 
-Pub. L. 106–60, title III, §310, Sept. 29, 1999, 113 Stat. 496, provided that:
-
-“(a) None of the funds in this Act or any future Energy and Water Development Appropriations Act may be expended after December 31 of each year under a covered contract unless the funds are expended in accordance with a Laboratory Funding Plan that has been approved by the Secretary of Energy. At the beginning of each fiscal year, the Secretary shall issue directions to the laboratories for the programs, projects, and activities to be conducted in that fiscal year. The Secretary and the Laboratories shall devise a Laboratory Funding Plan that identifies the resources needed to carry out these programs, projects, and activities. Funds shall be released to the Laboratories only after the Secretary has approved the Laboratory Funding Plan. The Secretary of Energy may provide exceptions to this requirement as the Secretary considers appropriate.
-
-“(b) For purposes of this section, ‘covered contract’ means a contract for the management and operation of the following laboratories: Argonne National Laboratory, Brookhaven National Laboratory, Idaho National Engineering and Environmental Laboratory, Lawrence Berkeley National Laboratory, Lawrence Livermore National Laboratory, Los Alamos National Laboratory, Oak Ridge National Laboratory, Pacific Northwest National Laboratory, and Sandia National Laboratories.”
+Pub. L. 106–60, title III, §310, Sept. 29, 1999, 113 Stat. 496, which provided that no funds in an Energy and Water Development Appropriations Act were to be expended after December 31 of each year under certain contracts unless the funds were expended pursuant to a Laboratory Funding Plan approved by the Secretary of Energy, and which also provided for directives, approval, and exceptions by the Secretary, was repealed by Pub. L. 108–7, div. D, title III, §310, Feb. 20, 2003, 117 Stat. 155.
 
 #### Termination or Changes in Activities of Government-Owned and Contractor-Operated Facilities, National Laboratories, Etc.; Reports by Secretary of Energy Concerning Proposals Prior to Implementation; Contents; Submission Date
 

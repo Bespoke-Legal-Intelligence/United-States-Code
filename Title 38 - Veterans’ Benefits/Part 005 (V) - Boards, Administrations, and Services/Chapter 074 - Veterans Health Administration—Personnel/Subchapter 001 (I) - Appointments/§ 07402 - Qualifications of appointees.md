@@ -76,11 +76,19 @@ Social Worker.—To be eligible to be appointed to a social worker position, a p
 
 (10)
 
+Chiropractor.—To be eligible to be appointed to a chiropractor position, a person must—
+
+&emsp;(A) hold the degree of doctor of chiropractic, or its equivalent, from a college of chiropractic approved by the Secretary; and
+
+&emsp;(B) be licensed to practice chiropractic in a State.
+
+(11)
+
 Other Health-Care Positions.—To be appointed as a physician assistant, expanded-function dental auxiliary, certified or registered respiratory therapist, licensed physical therapist, licensed practical or vocational nurse, occupational therapist, dietitian, microbiologist, chemist, biostatistician, medical technologist, dental technologist, or other position, a person must have such medical, dental, scientific, or technical qualifications as the Secretary shall prescribe.
 
 (c) Except as provided in section 7407(a) of this title, a person may not be appointed in the Administration to a position listed in section 7401(1) of this title unless the person is a citizen of the United States.
 
-(d) A person may not be appointed under section 7401(1) of this title to serve in the Administration in any direct patient-care capacity unless the Under Secretary for Health determines that the person possesses such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable the person to carry out the person's health-care responsibilities satisfactorily. Any determinationby the Under Secretary for Health under this subsection shall be in accordance with regulations which the Secretary shall prescribe.
+(d) A person may not be appointed under section 7401(1) of this title to serve in the Administration in any direct patient-care capacity unless the Under Secretary for Health determines that the person possesses such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable the person to carry out the person's health-care responsibilities satisfactorily. Any determination by the Under Secretary for Health under this subsection shall be in accordance with regulations which the Secretary shall prescribe.
 
 (e) A person may not serve as Chief of Staff of a Department health-care facility if the person is not serving on a full-time basis.
 
@@ -94,13 +102,15 @@ Other Health-Care Positions.—To be appointed as a physician assistant, expande
 
 &emsp;&emsp;(B) the person has voluntarily relinquished such license, registration, or certification in any of those States after being notified in writing by that State of potential termination for cause.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, §205, Nov. 1, 2000, 114 Stat. 1842.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–86, title III, §305(a), Aug. 14, 1991, 105 Stat. 417; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, §209, Nov. 30, 1999, 113 Stat. 1569; Pub. L. 106–419, title II, §205, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 108–170, title III, §302(b), Dec. 6, 2003, 117 Stat. 2058.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4105 and 4108(b) of this title prior to the repeal of those sections as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+2003—Subsec. (b)(10), (11). Pub. L. 108–170 added par. (10) and redesignated former par. (10) as (11).
 
 2000—Subsec. (b)(9). Pub. L. 106–419 substituted “a person must—” and subpars. (A) and (B) for “a person must hold a master's degree in social work from a college or university approved by the Secretary and satisfy the social worker licensure, certification, or registration requirements, if any, of the State in which the social worker is to be employed, except that the Secretary may waive the licensure, certification, or registration requirement of this paragraph for an individual social worker for a reasonable period, not to exceed 3 years, in order for the social worker to take any actions necessary to satisfy the licensure, certification, or registration requirements of such State.”
 
@@ -109,6 +119,10 @@ Provisions similar to those in this section were contained in sections 4105 and 
 1992—Subsec. (d). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
 1991—Subsec. (b)(9), (10). Pub. L. 102–86 added par. (9) and redesignated former par. (9) as (10).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
 #### Effective Date of 1991 Amendment
 

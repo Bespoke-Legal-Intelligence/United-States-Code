@@ -36,7 +36,7 @@
 
 #### (4) Special considerations
 
-&emsp;In making the determinations required by this subsection, the Secretary shall take intoaccount changes in the number, identity, or interest of producers sharing in the risk of producing a peanut crop since the 1998 crop year, including providing a method for the assignment of average acres and average yield to a farm—
+&emsp;In making the determinations required by this subsection, the Secretary shall take into account changes in the number, identity, or interest of producers sharing in the risk of producing a peanut crop since the 1998 crop year, including providing a method for the assignment of average acres and average yield to a farm—
 
 &emsp;&emsp;(A) when an historic peanut producer is no longer living;
 

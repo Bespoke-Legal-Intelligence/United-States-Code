@@ -32,7 +32,7 @@ In this section:
 
 &emsp;The term “precision agriculture” means an integrated information- and production-based farming system that is designed to increase long-term, site-specific, and whole farm production efficiencies, productivity, and profitability while minimizing unintended impacts on wildlife and the environment by—
 
-&emsp;&emsp;(A) combining agricultural sciences, agricultural inputs and practices, agronomic production databases, and precision agriculture technologies to efficiently manageagronomic, horticultural, and livestock production systems;
+&emsp;&emsp;(A) combining agricultural sciences, agricultural inputs and practices, agronomic production databases, and precision agriculture technologies to efficiently manage agronomic, horticultural, and livestock production systems;
 
 &emsp;&emsp;(B) gathering on-farm information pertaining to the variation and interaction of site-specific spatial and temporal factors affecting crop and livestock production;
 

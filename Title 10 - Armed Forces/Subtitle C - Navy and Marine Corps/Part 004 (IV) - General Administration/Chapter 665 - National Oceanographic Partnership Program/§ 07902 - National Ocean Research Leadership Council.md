@@ -32,6 +32,10 @@ Membership.—The Council is composed of the following members:
 
 &emsp;(12) The Director of the Office of Management and Budget.
 
+&emsp;(13) The Under Secretary for Science and Technology of the Department of Homeland Security.
+
+&emsp;(14) Other Federal officials the Council considers appropriate.
+
 (c)
 
 Chairman and Vice Chairman.—(1) Except as provided in paragraph (2), the chairman and vice chairman of the Council shall be appointed every two years by a selection committee of the Council composed of, at a minimum, the Secretary of the Navy, the Administrator of the National Oceanic and Atmospheric Administration, and the Director of the National Science Foundation. The term of office of the chairman and vice chairman shall be two years. A person who has previously served as chairman or vice chairman may be reappointed.
@@ -106,9 +110,11 @@ Establishment and Forms of Partnership Projects.—(1) A partnership project und
 
 (2) Projects under the program may include demonstration projects.
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L. 105–85, div. A, title II, §241(a), title X,§1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L. 105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1713, Nov. 25, 2002, 116 Stat. 2320.)
 
 #### Amendments
+
+2002—Subsec. (b)(13), (14). Pub. L. 107–296 added pars. (13) and (14).
 
 1999—Subsec. (e)(5). Pub. L. 106–65 struck out “, United States Code,” after “title 31”.
 
@@ -130,11 +136,19 @@ Subsecs. (d) to (i). Pub. L. 105–85, §241(a)(2), (3), redesignated subsecs. (
 
 “(d)
 
-Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16), or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.”
+Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16),or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1997 Amendment
 
 Section 241(d) of Pub. L. 105–85 provided that: “The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Initial Appointments of Council Members
 

@@ -40,7 +40,7 @@ Qualified aliens under this subsection shall be eligible for any State public be
 
 #### (4) Transition for those currently receiving benefits
 
-&emsp;An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefits on August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
+&emsp;An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefitson August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
 
 (Pub. L. 104–193, title IV, §412, Aug. 22, 1996, 110 Stat. 2269; Pub. L. 105–33, title V, §§5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, 111 Stat. 599, 602, 638, 643.)
 

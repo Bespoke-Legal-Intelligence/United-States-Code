@@ -118,7 +118,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 &emsp;&emsp;(D) The estimated balance of the subaccount at the end of the fiscal year in which the report is submitted.
 
-&emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will beneeded to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
+&emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
 
 (Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64.)
 
@@ -204,7 +204,7 @@ Provisions similar to those in subsecs. (m) to (q) of this section were containe
 
 #### Amendments
 
-2000—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at end of subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
+2000—Subsec. (j)(1). Pub. L. 106–398 substituted “contract, and the solicitation” for “contract; and” at endof subpar. (A) and all that follows through “(B) the solicitation”, substituted “; or” for period after “private firms”, and added a new subpar. (B).
 
 1999—Subsec. (j). Pub. L. 106–65, §§331(a)(1), 332, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, substituted “, remanufacturing, and engineering” for “or remanufacturing” in introductory provisions, inserted “or a subcontract under a Department of Defense contract” before the semicolon in subpar. (A), substituted “solicitation for the contract or subcontract” for “Department of Defense solicitation for such contract” in subpar. (B), and added par. (2).
 
@@ -284,5 +284,5 @@ Pub. L. 96–154, title VII, §767, Dec. 21, 1979, 93 Stat. 1163, which had prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 129, 2210, 2350c, 4543, 4621, 7227, 7300, 7606, 9621 of this title; title 40 section 484.
+This section is referred to in sections 129, 2210, 2350c, 4543, 4621, 7227, 7300, 7606, 9621 of this title; title 40 section 549.
 

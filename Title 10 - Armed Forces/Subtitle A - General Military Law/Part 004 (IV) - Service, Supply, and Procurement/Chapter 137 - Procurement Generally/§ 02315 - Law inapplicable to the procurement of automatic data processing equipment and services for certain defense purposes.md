@@ -1,6 +1,6 @@
 ### §2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes
 
-(a) For the purposes of division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.), the term “national security systems” means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which—
+(a) For the purposes of subtitle III of title 40, the term “national security systems” means those telecommunications and information systems operated by the Department of Defense, the functions, operation or use of which—
 
 &emsp;(1) involves intelligence activities;
 
@@ -14,13 +14,11 @@
 
 (b) Subsection (a)(5) does not include procurement of automatic data processing equipment or services to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
 
-(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div.A, title X, §1073(a)(49), Nov. 18, 1997, 111 Stat. 1903.)
-
-#### References in Text
-
-The Clinger-Cohen Act of 1996, referred to in subsec. (a), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, §1073(a)(49), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–217, §3(b)(5), Aug. 21, 2002, 116 Stat. 1295.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” in introductory provisions.
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
@@ -30,7 +28,7 @@ The Clinger-Cohen Act of 1996, referred to in subsec. (a), is div. D (§§4001�
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date
 
@@ -72,5 +70,5 @@ Effect on Other Law.—Nothing in this section may be construed as modifying or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 278g–3, 5527.
+This section is referred to in title 15 section 5527.
 

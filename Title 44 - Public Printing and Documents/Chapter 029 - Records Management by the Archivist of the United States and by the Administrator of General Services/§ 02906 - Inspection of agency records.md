@@ -4,7 +4,7 @@
 
 (2) Records, the use of which is restricted by law or for reasons of national security or the public interest, shall be inspected, in accordance with regulations promulgated by the Administrator and the Archivist, subject to the approval of the head of the agency concerned or of the President. The regulations promulgated by the Administrator and the Archivist under this paragraph shall, to the extent practicable, be identical.
 
-(3) If the Administrator or the Archivist (or the designee of either) inspects a record, as provided in this subsection, which is contained in a system of records which is subject to section 552a of title 5, such record shall be—
+(3) If the Administrator or the Archivist (or the designee of either) inspects a record, as provided in this subsection, which is contained in asystem of records which is subject to section 552a of title 5, such record shall be—
 
 &emsp;(A) maintained by the Administrator, the Archivist, or such designee as a record contained in a system of records; or
 

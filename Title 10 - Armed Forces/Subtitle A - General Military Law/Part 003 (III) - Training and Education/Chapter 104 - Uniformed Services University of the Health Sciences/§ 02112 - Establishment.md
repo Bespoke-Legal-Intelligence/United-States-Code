@@ -68,7 +68,7 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 &emsp;“(4) A review of the overall issue of the special needs of military medicine and how those special needs are being met by physicians obtained from University and physicians obtained from other sources.
 
-&emsp;“(5) An assessment of the extent to which the University has responded to the 1990 report of the Inspector General of the Department of Defense, includingrecommendations as to resolution of any continuing issues relating to management and internal fiscal controls of the University, including issues relating to the Henry M. Jackson Foundation for the Advancement of Military Medicine identified in the 1990 report.
+&emsp;“(5) An assessment of the extent to which the University has responded to the 1990 report of the Inspector General of the Department of Defense, including recommendations as to resolution of any continuing issues relating to management and internal fiscal controls of the University, including issues relating to the Henry M. Jackson Foundation for the Advancement of Military Medicine identified in the 1990 report.
 
 &emsp;“(6) Such other recommendations as the Comptroller General considers appropriate.”
 

@@ -1,6 +1,6 @@
 ### §506. Time for printing documents or reports which include illustrations or maps
 
-A document or report to be illustrated or accompanied by maps may not be printed by thePublic Printer until the illustrations or maps designed for it are ready for publication.
+A document or report to be illustrated or accompanied by maps may not be printed by the Public Printer until the illustrations or maps designed for it are ready for publication.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1244.)
 

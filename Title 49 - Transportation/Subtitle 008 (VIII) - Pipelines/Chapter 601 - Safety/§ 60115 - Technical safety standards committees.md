@@ -142,7 +142,7 @@ Aug. 12, 1968, Pub. L. 90–481, §4(c), 82 Stat. 722; Nov. 30, 1979, Pub. L. 96
 
 49 App.:2003(c).
 
-In subsection (a), the words “Not later than 12 months after November 30, 1979” and “and appoint the initial members of the Committee” in 49 App.:2003(a) (1st sentence) are omitted as executed.
+In subsection (a), the words “Not later than 12 months after November 30, 1979” and “and appoint theinitial members of the Committee” in 49 App.:2003(a) (1st sentence) are omitted as executed.
 
 In subsection (b)(3)(A)–(C), the word “individuals” is substituted for “members” for consistency.
 
@@ -198,7 +198,7 @@ Subsec. (f). Pub. L. 104–304, §10(e), substituted “
 
 Expenses” for “
 
-Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including traveltime) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5.” after heading, and inserted “of a committee under this section” after “A member”.
+Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5.” after heading, and inserted “of a committee under this section” after “A member”.
 
 1995—Subsec. (b)(4)(A). Pub. L. 104–88 struck out “(referred to in section 10344(f) of this title)” after “commissions”.
 

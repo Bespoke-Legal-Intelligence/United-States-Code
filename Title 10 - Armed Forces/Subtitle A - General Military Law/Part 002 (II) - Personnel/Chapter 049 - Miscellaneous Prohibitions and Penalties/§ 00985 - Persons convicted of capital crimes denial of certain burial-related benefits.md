@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition of Performance of Military Honors.—The Secretary of a military department and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy, may not provide military honors at the funeral or burial of a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole.
+Prohibition of Performance of Military Honors.—The Secretary of a military department and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may not provide military honors at the funeral or burial of a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole.
 
 (b)
 
@@ -24,7 +24,15 @@ Definitions.—In this section:
 
 &emsp;(3) The term “State” includes the District of Columbia and any commonwealth or territory of the United States.
 
-(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914.)
+(Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

@@ -30,7 +30,7 @@
 
 (4) Any payment under this subsection to an individual bars recovery by any other individual.
 
-(5) The 10-year requirement of section 4044(b)(6) of this title, or any other provision of this part, shall not be construed to affect the rights any spouse or individual formerly married to a participant or annuitant may have, under any law or rule of law of any State or the District of Columbia, with respect to an annuity of a participant or annuitant under this part.
+(5) The 10-year requirement of section 4044(b)(6) of this title, or any other provision ofthis part, shall not be construed to affect the rights any spouse or individual formerly married to a participant or annuitant may have, under any law or rule of law of any State or the District of Columbia, with respect to an annuity of a participant or annuitant under this part.
 
 #### (c) Applicability of other provisions of law or remedies
 

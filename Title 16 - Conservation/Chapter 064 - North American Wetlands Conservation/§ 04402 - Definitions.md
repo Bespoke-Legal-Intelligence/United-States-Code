@@ -4,13 +4,13 @@ For the purposes of this chapter:
 
 &emsp;(1) The term “Agreement” means the Tripartite Agreement signed in March 1988, by the Director General for Ecological Conservation of Natural Resources of Mexico, the Director of the Canadian Wildlife Service, and the Director of the United States Fish and Wildlife Service.
 
-&emsp;(2) The term “appropriate Committees” means the Committee on Environment and Public Works of the United States Senate and the Committee on Resources of the House of Representatives.
+&emsp;(2) The term “appropriate Committees” means the Committee on Environment andPublic Works of the United States Senate and the Committee on Resources of the House of Representatives.
 
 &emsp;(3) The term “flyway” means the four administrative units used by the United States Fish and Wildlife Service and the States in the management of waterfowl populations.
 
 &emsp;(4) The term “Migratory Bird Conservation Commission” means that commission established by section 715a of this title.
 
-&emsp;(5) The term “migratory birds” means all wild birds native to North America that are in an unconfined state and that are protected under the Migratory Bird Treaty Act \[16 U.S.C. 703 et seq.\], including ducks, geese, and swans of the family Anatidae, species listed as threatened or endangered under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), and species defined as nongame underthe Fish and Wildlife Conservation Act of 1980 (16 U.S.C. 2901–2912).
+&emsp;(5) The term “migratory birds” means all wild birds native to North America that are in an unconfined state and that are protected under the Migratory Bird Treaty Act \[16 U.S.C. 703 et seq.\], including ducks, geese, and swans of the family Anatidae, species listed as threatened or endangered under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), and species defined as nongame under the Fish and Wildlife Conservation Act of 1980 (16 U.S.C. 2901–2912).
 
 &emsp;(6) The term “Plan” means the North American Waterfowl Management Plan signed by the Minister of the Environment for Canada and the Secretary of the Interior for the United States in May 1986, and by the Secretary of Sedesol for Mexico in 1994, and subsequent dates.
 

@@ -42,23 +42,5 @@ Section 3161 of Pub. L. 101–510 provided that: “This part \[part E (§§3161
 
 #### University-Based Research Collaboration Program
 
-Pub. L. 105–85, div. C, title XXXI, §3155, Nov. 18, 1997, 111 Stat. 2044, provided that:
-
-“(a)
-
-Findings.—Congress makes the following findings:
-
-&emsp;“(1) The maintenance of scientific and engineering competence in the United States is vital to long-term national security and the defense and national security missions of the Department of Energy.
-
-&emsp;“(2) Engaging the universities and colleges of the Nation in research on long-range problems of vital national security interest will be critical to solving the technology challenges faced within the defense and national security programs of the Department of Energy in the next century.
-
-&emsp;“(3) Enhancing collaboration among the national laboratories, universities and colleges, and industry will contribute significantly to the performance of these Department of Energy missions.
-
-“(b)
-
-Program.—The Secretary of Energy shall establish a university program at a location that can develop the most effective collaboration among national laboratories, universities and colleges, and industry in support of scientific and engineering advancement in key Department of Energy defense and national security program areas.
-
-“(c)
-
-Funding.—Of the funds authorized to be appropriated in this title \[see Tables for classification\] to the Department of Energy for fiscal year 1998, the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b).”
+Pub. L. 105–85, div. C, title XXXI, §3155, Nov. 18, 1997, 111 Stat. 2044, which was formerly set out as a note under this section, was renumbered section 4814 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(9)(A)–(C), Nov. 24, 2003, 117 Stat. 1785, and is classified to section 2795 of Title 50, War and National Defense.
 

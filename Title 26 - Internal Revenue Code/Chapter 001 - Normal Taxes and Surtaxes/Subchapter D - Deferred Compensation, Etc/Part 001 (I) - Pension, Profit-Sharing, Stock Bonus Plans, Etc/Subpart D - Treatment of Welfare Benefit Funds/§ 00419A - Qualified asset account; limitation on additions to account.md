@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such plan has at least 50 employees (determined without regard to subsection (h)(1)), and
 
-&emsp;&emsp;&emsp;(ii) no employee is entitled to a refund with respect to amounts in the fund, other than a refund based on the experience of the entire fund.
+&emsp;&emsp;&emsp;(ii) no employee is entitled to a refund with respect to amounts in the fund, otherthan a refund based on the experience of the entire fund.
 
 #### (6) Exception for 10-or-more employer plans
 
@@ -244,7 +244,7 @@ For purposes of this subpart—
 
 #### (B) Permissive aggregation for purposes not specified in subparagraph (A)
 
-&emsp;&emsp;For purposes of this section (other than the provisions specified in subparagraph\(A)), at the election of the employer, 2 or more welfare benefit funds of such employer may (to the extent not inconsistent with the purposes of this subpart and section 512) be treated as 1 fund.
+&emsp;&emsp;For purposes of this section (other than the provisions specified in subparagraph (A)), at the election of the employer, 2 or more welfare benefit funds of such employer may (to the extent not inconsistent with the purposes of this subpart and section 512) be treated as 1 fund.
 
 #### (2) Treatment of related employers
 

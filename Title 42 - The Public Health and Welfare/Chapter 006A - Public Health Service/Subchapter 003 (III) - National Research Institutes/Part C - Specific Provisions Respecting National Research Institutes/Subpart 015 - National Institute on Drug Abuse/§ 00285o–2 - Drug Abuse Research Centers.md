@@ -64,11 +64,11 @@ The Director of the Institute shall, under such conditions as the Secretary may 
 
 &emsp;&emsp;Amounts appropriated pursuant to the authorization of appropriations in subparagraph (A) for a fiscal year shall supplement and not supplant any other amounts appropriated in such fiscal year for research on drug abuse and addiction.
 
-(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, titleXXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794.)
+(July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794.)
 
 #### References in Text
 
-Section 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292<i>o</i> and 295p of this title.
+Section 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292<i>o</i> and 295p of this title.
 
 #### Amendments
 

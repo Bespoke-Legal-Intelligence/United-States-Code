@@ -94,33 +94,7 @@ Pub. L. 107–206, title I, §1202, Aug. 2, 2002, 116 Stat. 887, provided that:
 
 #### Annual Outstanding Student Award
 
-Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
-
-Similar provisions were contained in the following prior appropriation acts:
-
-Pub. L. 106–554, §1(a)(3) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–127.
-
-Pub. L. 106–58, title I, Sept. 29, 1999, 113 Stat. 432.
-
-Pub. L. 105–277, div. A, §101(h) \[title I\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–483.
-
-Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1275.
-
-Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–317.
-
-Pub. L. 104–52, title I, Nov. 19, 1995, 109 Stat. 470.
-
-Pub. L. 103–329, title I, Sept. 30, 1994, 108 Stat. 2383.
-
-Pub. L. 103–123, title I, Oct. 28, 1993, 107 Stat. 1227.
-
-Pub. L. 102–393, title I, Oct. 6, 1992, 106 Stat. 1730.
-
-Pub. L. 102–141, title I, Oct. 28, 1991, 105 Stat. 835.
-
-Pub. L. 101–509, title I, Nov. 5, 1990, 104 Stat. 1390.
-
-Pub. L. 101–136, title I, Nov. 3, 1989, 103 Stat. 784.
+Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, and similar provisions authorizing the Federal Law Enforcement Training Center to use gifts of property for authorized purposes, including funding of an annual gift to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, were transferred to a note set out under section 464a of Title 6, Domestic Security.
 
 #### Travel and Subsistence Expenses of State and Local Law Enforcement Officers Attending Meetings, Courses, Etc., at FBI National Academy
 

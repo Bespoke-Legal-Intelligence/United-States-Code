@@ -108,7 +108,7 @@ Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment,
 
 &emsp;&emsp;“(ii) an organization which is licensed by a State (or political subdivision thereof) as a child-placing agency and which is described in section 501(c)(3) and exempt from tax under section 501(a).”
 
-Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to “qualified foster individual”, “such individual”, and “foster care provider” for references to “qualified foster child”, “such child”, and “foster parent”, respectively, and in par. (2) substituted “more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not described in subparagraph (A)” for “more than 10 qualified foster children”.
+Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to “qualified foster individual”, “such individual”, and “foster care provider” for references to “qualified foster child”, “such child”, and “foster parent”, respectively, and in par. (2) substituted “more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not describedin subparagraph (A)” for “more than 10 qualified foster children”.
 
 #### Effective Date of 2002 Amendment
 

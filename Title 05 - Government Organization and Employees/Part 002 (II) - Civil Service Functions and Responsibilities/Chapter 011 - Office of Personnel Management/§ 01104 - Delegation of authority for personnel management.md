@@ -2,7 +2,7 @@
 
 (a) Subject to subsection (b)(3) of this section—
 
-&emsp;(1) the President may delegate, in whole or in part, authority for personnel management functions, including authority for competitive examinations, to the Director of the Office of Personnel Management; and
+&emsp;(1) the President may delegate, in whole or in part, authority for personnel management functions, including authority for competitiveexaminations, to the Director of the Office of Personnel Management; and
 
 &emsp;(2) the Director may delegate, in whole or in part, any function vested in or delegated to the Director, including authority for competitive examinations (except competitive examinations for administrative law judges appointed under section 3105 of this title, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)), to the heads of agencies in the executive branch and other agencies employing persons in the competitive service.
 
@@ -16,7 +16,7 @@
 
 (c) If the Office makes a written finding, on the basis of information obtained under the program established under subsection (b)(2) of this section or otherwise, that any action taken by an agency pursuant to authority delegated under subsection (a)(2) of this section is contrary to any law, rule, or regulation, or is contrary to any standard established under subsection (b)(1) of this section, the agency involved shall take any corrective action the Office may require.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 90–83, §1(2), Sept. 11, 1967, 81 Stat. 195; Pub. L.95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1120; Pub. L. 104–52, title IV, §1, Nov. 19, 1995, 109 Stat. 489.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 90–83, §1(2), Sept. 11, 1967, 81 Stat. 195; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1120; Pub. L. 104–52, title IV, §1, Nov. 19, 1995, 109 Stat. 489.)
 
 Historical and Revision Notes<br>1966
 

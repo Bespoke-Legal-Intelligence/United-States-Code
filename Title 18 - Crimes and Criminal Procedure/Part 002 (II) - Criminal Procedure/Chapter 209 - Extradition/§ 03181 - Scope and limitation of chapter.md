@@ -74,7 +74,7 @@ Evidence on hearings.—For purposes of applying section 3190 of title 18, Unite
 
 &emsp;“(3)
 
-Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, UnitedStates Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 &emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 

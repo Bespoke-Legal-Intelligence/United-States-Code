@@ -32,7 +32,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(11) “licensee” means a citizen of the United States holding a valid license for the ownership, construction, and operation of a deepwater port that was issued, transferred, or renewed pursuant to this chapter;
 
-&emsp;(12) “marine environment” includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
+&emsp;(12) “marine environment” includes the coastal environment, waters of the contiguouszone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
 
 &emsp;(13) “natural gas” means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas;
 

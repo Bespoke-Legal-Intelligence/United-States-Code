@@ -10,7 +10,7 @@ The boundaries of the park shall be as generally depicted on the drawing entitle
 
 #### (c) Acquisition of lands and interests therein; manner of acquisition
 
-Within the boundaries of the park, the Secretary may acquire lands and interests therein by donation, purchase with donated or appropriated funds, exchange, or transfer.
+Within the boundaries of the park, the Secretary may acquire lands and interests thereinby donation, purchase with donated or appropriated funds, exchange, or transfer.
 
 #### (d) Identification, etc., of other points relevant to park
 
@@ -100,7 +100,7 @@ Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
 
 &emsp;“(7) the liberation of the Mariana Islands marked a pivotal point in the Pacific war and led to the American victories at Iwo Jima, Okinawa, the Philippines, Taiwan, and the south China coast, and ultimately against the Japanese home islands;
 
-&emsp;“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, airbases which allowed land-based American bombers to reach strategic targets in Japan; and
+&emsp;“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, air bases which allowed land-based American bombers to reach strategic targets in Japan; and
 
 &emsp;“(9) the air offensive conducted from the Marianas against the Japanese war-making capability helped shorten the war and ultimately reduced the toll of lives to secure peace in the Pacific.”
 

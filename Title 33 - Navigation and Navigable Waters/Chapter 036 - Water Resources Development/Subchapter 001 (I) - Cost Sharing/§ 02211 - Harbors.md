@@ -4,7 +4,7 @@
 
 #### (1) Payments during construction
 
-&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or anyseparable element thereof, on which a contract for physical construction has not been awarded before November 17, 1986, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
+&emsp;The non-Federal interests for a navigation project for a harbor or inland harbor, or any separable element thereof, on which a contract for physical construction has not been awarded before November 17, 1986, shall pay, during the period of construction of the project, the following costs associated with general navigation features:
 
 &emsp;&emsp;(A) 10 percent of the cost of construction of the portion of the project which has a depth not in excess of 20 feet; plus
 
@@ -136,7 +136,7 @@ Section 201(g) of Pub. L. 104–303 provided that: “Nothing in this section \[
 
 &emsp;“(2) any confined dredged material disposal facility for which the invitation for bids for construction was issued before the date of the enactment of this Act \[Oct. 12, 1996\]; and
 
-&emsp;“(3) expanding any confined dredged material disposal facility constructed under section 123 of the River and Harbor Act of 1970 (33 U.S.C. 1293a) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
+&emsp;“(3) expanding any confined dredged material disposal facility constructed under section 123 of theRiver and Harbor Act of 1970 (33 U.S.C. 1293a) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
 
 #### Dredged Material Disposal Areas Study
 

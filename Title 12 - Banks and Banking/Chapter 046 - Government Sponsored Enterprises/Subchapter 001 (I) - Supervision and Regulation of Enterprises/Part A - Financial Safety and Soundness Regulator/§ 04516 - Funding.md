@@ -2,7 +2,7 @@
 
 #### (a) Annual assessments
 
-The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.
+The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient toprovide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.
 
 #### (b) Allocation of annual assessment to enterprises
 
@@ -30,7 +30,7 @@ The semiannual payments made pursuant to subsection (b) of this section by any e
 
 #### (d) Surplus
 
-If any amount from any annual assessment collected from an enterprise remains unobligated at the end of the year for which the assessment was collected, such amount shall becredited to the assessment to be collected from the enterprise for the following year.
+If any amount from any annual assessment collected from an enterprise remains unobligated at the end of the year for which the assessment was collected, such amount shall be credited to the assessment to be collected from the enterprise for the following year.
 
 #### (e) Initial special assessment
 

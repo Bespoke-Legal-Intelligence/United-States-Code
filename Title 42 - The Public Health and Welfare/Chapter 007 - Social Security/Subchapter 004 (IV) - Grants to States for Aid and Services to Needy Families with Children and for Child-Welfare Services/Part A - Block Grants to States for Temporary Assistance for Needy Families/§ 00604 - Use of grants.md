@@ -54,7 +54,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (e) Authority to reserve certain amounts for assistance
 
-A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.
+A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscalyear for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.
 
 #### (f) Authority to operate employment placement program
 
@@ -86,7 +86,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (ii) First home purchase
 
-&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for aqualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
+&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
 
 #### (iii) Business capitalization
 
@@ -176,7 +176,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (I) Qualified principal residence
 
-&emsp;&emsp;The term “qualified principal residence” means a principal residence (within themeaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
+&emsp;&emsp;The term “qualified principal residence” means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
@@ -210,7 +210,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (2) Amount limitation
 
-&emsp;From a grant made to a State under section 603(a) of this title, the amount that a State uses to match funds described in paragraph (1) of this subsection shall not exceed the amount (if any) by which 30 percent of the total amount of the grant exceeds the amount (if any) of the grant that is used by the State to carry out any State program described in subsection (d)(1) of this section.
+&emsp;From a grant made to a State under section 603(a) of this title, the amount that a State uses to match funds described in paragraph (1) of this subsection shall not exceed the amount (if any) by which 30 percent of the total amount of the grant exceeds the amount (if any) of the grant that is used by the State tocarry out any State program described in subsection (d)(1) of this section.
 
 #### (3) Rule of interpretation
 
@@ -236,7 +236,7 @@ Section 3037 of the Transportation Equity Act for the 21st Century, referred to 
 
 #### Prior Provisions
 
-A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6,§361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 
@@ -280,7 +280,7 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 #### Assets for Independence
 
-Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L. 106–554, §1(a)(1) \[title VI, §§602–607(a), 608(a), 609, 610\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74 to 2763A–76; Pub. L. 107–110, title VII, §702(h), Jan. 8, 2002, 115 Stat. 1947, provided that:
+Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L. 106–554, §1(a)(1) \[title VI,§§602–607(a), 608(a), 609, 610\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74 to 2763A–76; Pub. L. 107–110, title VII, §702(h), Jan. 8, 2002, 115 Stat. 1947, provided that:
 
 #### “SEC. 401. SHORT TITLE.
 
@@ -432,7 +432,7 @@ First-home purchase.—Qualified acquisition costs with respect to a principal r
 
 &emsp;&emsp;&emsp;“(i)
 
-Principal residence.—The term ‘principal residence’ means a main residence, the qualifiedacquisition costs of which do not exceed 120 percent of the average area purchase price applicable to such residence.
+Principal residence.—The term ‘principal residence’ means a main residence, the qualified acquisition costs of which do not exceed 120 percent of the average area purchase price applicable to such residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -558,7 +558,7 @@ Contracts With Nonprofit Entities.—The Secretary may contract with an entity d
 
 “(g)
 
-Grandfathering of Existing Statewide Programs.—Any statewide individual asset-building program that is carried out in a manner consistent with the purposes of this title, that is established under State law as of the date of enactment of this Act \[Oct.27, 1998\], and that as of such date is operating with an annual State appropriation of not less than $1,000,000 in non-Federal funds, shall be deemed to meet the eligibility requirements of this subtitle \[title\], and the entity carrying out the program shall be deemed to be a qualified entity. The Secretary shall consider funding the statewide program as a demonstration project described in this subtitle \[title\]. In considering the statewide program for funding, the Secretary shall review an application submitted by the entity carrying out such statewide program under this section, notwithstanding the preference requirements listed in subsection (d). Any program requirements under sections 407 through 411 that are inconsistent with State statutory requirements in effect on the date of enactment of this Act, governing such statewide program, shall not apply to the program.
+Grandfathering of Existing Statewide Programs.—Any statewide individual asset-building program that is carried out in a manner consistent with the purposes of this title, that is established under State law as of the date of enactment of this Act \[Oct. 27, 1998\], and that as of such date is operating with an annual State appropriation of not less than $1,000,000 in non-Federal funds, shall be deemed to meet the eligibility requirements of this subtitle \[title\], and the entity carrying out the program shall be deemed to be a qualified entity. The Secretary shall consider funding the statewide program as a demonstration project described in this subtitle \[title\]. In considering the statewide program for funding, the Secretary shall review an application submitted by the entity carrying out such statewide program under this section, notwithstanding the preference requirements listed in subsection (d). Any program requirements under sections 407 through 411 that are inconsistent with State statutory requirements in effect on the date of enactment of this Act, governing such statewide program, shall not apply to the program.
 
 #### “SEC. 406. DEMONSTRATION AUTHORITY; ANNUAL GRANTS.
 
@@ -626,7 +626,7 @@ Investment.—A qualified entity shall invest the amounts in its Reserve Fund th
 
 &emsp;“(3)
 
-Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
+Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entityfor the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
 
 “(d)
 
@@ -834,7 +834,7 @@ Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal
 
 #### “SEC. 415. NO REDUCTION IN BENEFITS.
 
-“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
+“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C.1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### “SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
 

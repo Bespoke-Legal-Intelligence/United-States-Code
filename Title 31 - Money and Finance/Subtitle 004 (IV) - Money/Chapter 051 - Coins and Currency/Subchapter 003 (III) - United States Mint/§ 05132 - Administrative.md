@@ -6,7 +6,7 @@
 
 (B) Notwithstanding any other provision of law, for purposes of this paragraph—
 
-&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made of an alloy of 90 percent silver and 10 percent copper; and
+&emsp;(i) the coins described in paragraphs (2) through (4) of section 5112(a) shall be made ofan alloy of 90 percent silver and 10 percent copper; and
 
 &emsp;(ii) all coins minted under this paragraph shall have a mint mark indicating the place of manufacture.
 

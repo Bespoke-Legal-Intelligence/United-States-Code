@@ -38,7 +38,7 @@ An entity is a qualified entity for purposes of subsection (a)(1) of this sectio
 
 &emsp;(C) services within the meaning of the terms “health promotion”, “disease prevention”, and “primary health services”, as such terms are defined in section 11711 of this title, which are not specifically referred to in paragraph (1) of this subsection.
 
-(3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) ofthis section may be provided by traditional Native Hawaiian healers.
+(3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) of this section may be provided by traditional Native Hawaiian healers.
 
 #### (d) Limitation of number of entities
 

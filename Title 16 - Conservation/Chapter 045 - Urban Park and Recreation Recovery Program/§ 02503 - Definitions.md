@@ -2,7 +2,7 @@
 
 When used in this chapter the term—
 
-&emsp;(a) “recreational areas and facilities” means indoor or outdoor parks, buildings, sites, or other facilities which are dedicated to recreation purposes and administered by public or private nonprofit agencies to serve the recreation needs of community residents. Emphasis shall be on public facilities readily accessible to residential neighborhoods, including multiple-use community centers which have recreation as one of their primary purposes, but excluding major sports arenas, exhibition areas, and conference halls used primarily for commercial sports, spectator, or display activities;
+&emsp;(a) “recreational areas and facilities” means indoor or outdoor parks, buildings, sites, or other facilities which are dedicated to recreation purposes and administered by public or private nonprofit agencies to serve the recreation needs of community residents. Emphasis shall be on public facilities readily accessibleto residential neighborhoods, including multiple-use community centers which have recreation as one of their primary purposes, but excluding major sports arenas, exhibition areas, and conference halls used primarily for commercial sports, spectator, or display activities;
 
 &emsp;(b) “rehabilitation grants” means matching capital grants to local governments for the purpose of rebuilding, remodeling, expanding, or developing existing outdoor or indoor recreation areas and facilities, including improvements in park landscapes, buildings, and support facilities, but excluding routine maintenance and upkeep activities;
 

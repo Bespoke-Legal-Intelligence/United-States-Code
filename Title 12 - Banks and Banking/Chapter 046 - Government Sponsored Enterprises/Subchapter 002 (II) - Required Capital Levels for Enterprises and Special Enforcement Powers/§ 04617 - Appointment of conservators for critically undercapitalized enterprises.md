@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon a determination and notice under section 4618(d) of this title that an enterprise is critically undercapitalized and not later than 30 days after providing notice under section 4619(a)(3) of this title, the Director shall appoint a conservator for the enterprise in accordance with the provisions of section 4619 of this title (excluding subsections <sup>1</sup> (a)(1) and (2)).
+&emsp;Upon a determination and notice under section 4618(d) of this title that an enterprise is critically undercapitalized and not later than30 days after providing notice under section 4619(a)(3) of this title, the Director shall appoint a conservator for the enterprise in accordance with the provisions of section 4619 of this title (excluding subsections <sup>1</sup> (a)(1) and (2)).
 
 #### (2) Exception
 

@@ -142,7 +142,7 @@ Subsec. (h)(1), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secreta
 
 1990—Subsec. (a)(2)(E). Pub. L. 101–508, §8011(a), added subpar. (E).
 
-Subsec. (c)(2)(B). Pub. L. 101–508, §8011(b), substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
+Subsec. (c)(2)(B). Pub. L. 101–508, §8011(b), substituted “if provided by” for “in accordance with the prevailingrates at which the third party makes payments under comparable health-plan contracts with”.
 
 Subsec. (g). Pub. L. 101–508, §8011(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
 
@@ -180,7 +180,7 @@ Section 19013(b) of Pub. L. 99–272 provided that:
 
 #### Effective Date
 
-Section 106(b) of Pub. L. 97–72 provided that: “Section 629 \[now 1729\] of title 38, United States Code, as addedby subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 3, 1981\].”
+Section 106(b) of Pub. L. 97–72 provided that: “Section 629 \[now 1729\] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 3, 1981\].”
 
 #### Healthcare Facilities Certified as Medicare and Medicaid Providers for Collection Purposes
 

@@ -32,7 +32,7 @@
 
 #### Effective Date
 
-Section to take effect at end of 60-day period beginning on Nov. 20, 1981, to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by officerexercising general court-martial jurisdiction under provisions of such section as it existed on day before effective date of Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by officer empowered to act on sentence on or after that effective date, see section 7(a), (b)(1) of Pub. L. 97–81, set out as a note under section 706 of this title.
+Section to take effect at end of 60-day period beginning on Nov. 20, 1981, to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by officer exercising general court-martial jurisdiction under provisions of such section as it existed on day before effective date of Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by officer empowered to act on sentence on or after that effective date, see section 7(a), (b)(1) of Pub. L. 97–81, set out as a note under section 706 of this title.
 
 #### Section Referred to in Other Sections
 

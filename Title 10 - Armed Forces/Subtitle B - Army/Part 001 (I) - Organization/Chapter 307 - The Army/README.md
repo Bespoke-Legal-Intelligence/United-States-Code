@@ -21,10 +21,13 @@
 | [3081\.](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md) | Dental Corps: Chief, functions. |
 | \[3082. | Renumbered.\] |
 | [3083\.](%C2%A7%2003083%20-%20Public%20Affairs%20Specialty.md) | Public Affairs Specialty. |
+| [3084\.](%C2%A7%2003084%20-%20Chief%20of%20Veterinary%20Corps%3B%20grade.md) | Chief of Veterinary Corps: grade.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §504(b)(2), Dec. 2, 2002, 116 Stat. 2531, added item 3084.
 
 1997—Pub. L. 105–85, div. A, title V, §596(b), Nov. 18, 1997, 111 Stat. 1766, added item 3083.
 
@@ -45,6 +48,8 @@
 1960—Pub. L. 86–603, §1(2)(B), July 7, 1960, 74 Stat. 357, added item 3080.
 
 1957—Pub. L. 85–155, title I, §101(3), Aug. 21, 1957, 71 Stat. 376, substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in item 3070.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -70,3 +75,4 @@
 - [&sect; 03081 - Dental Corps Chief, functions](%C2%A7%2003081%20-%20Dental%20Corps%20Chief%2C%20functions.md)
 - [&sect; 03082 - Renumbered &sect;10542](%C2%A7%2003082%20-%20Renumbered%20%C2%A710542.md)
 - [&sect; 03083 - Public Affairs Specialty](%C2%A7%2003083%20-%20Public%20Affairs%20Specialty.md)
+- [&sect; 03084 - Chief of Veterinary Corps; grade](%C2%A7%2003084%20-%20Chief%20of%20Veterinary%20Corps%3B%20grade.md)

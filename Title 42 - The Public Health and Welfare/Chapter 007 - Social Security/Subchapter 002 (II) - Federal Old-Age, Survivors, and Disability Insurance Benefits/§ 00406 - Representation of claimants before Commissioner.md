@@ -154,7 +154,7 @@ Subsec. (c). Pub. L. 101–239, §10307(b)(1), added subsec. (c).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title IV, §406(d), Dec. 17, 1999, 113 Stat. 1913, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant's past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act \[this section\] after the later of—
+Pub. L. 106–170, title IV, §406(d), Dec. 17, 1999, 113 Stat. 1913, provided that: “The amendments made by thissection \[amending this section and enacting provisions set out as a note under this section\] shall apply in the case of any attorney with respect to whom a fee for services is required to be certified for payment from a claimant's past-due benefits pursuant to subsection (a)(4) or (b)(1) of section 206 of the Social Security Act \[this section\] after the later of—
 
 &emsp;“(1) December 31, 1999, or
 

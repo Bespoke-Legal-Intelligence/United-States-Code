@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -272,7 +272,7 @@ Consultation.—In preparing portions of the report that address Weather Forecas
 
 “\[Amended section 407 of Pub. L. 100–685, set out below, and repealed section 408 of Pub. L. 100–685, formerly set out below.\]”
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Purchase of Atmospheric Wind Data
 

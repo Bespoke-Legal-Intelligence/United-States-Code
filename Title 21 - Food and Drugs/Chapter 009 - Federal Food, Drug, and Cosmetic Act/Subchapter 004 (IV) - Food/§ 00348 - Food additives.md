@@ -34,7 +34,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 (3) Upon request of the Secretary, the petitioner shall furnish (or, if the petitioner is not the manufacturer of such additive, the petitioner shall have the manufacturer of such additive furnish, without disclosure to the petitioner) a full description of the methods used in, and the facilities and controls used for, the production of such additive.
 
-(4) Upon request of the Secretary, the petitioner shall furnish samples of the food additive involved, or articles used as components thereof, and of the food in or on which the additive is proposed to be used.
+(4) Upon request of the Secretary, the petitioner shall furnish samples of the food additive involved, or articles used as components thereof,and of the food in or on which the additive is proposed to be used.
 
 (5) Notice of the regulation proposed by the petitioner shall be published in general terms by the Secretary within thirty days after filing.
 
@@ -80,7 +80,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (1) Within thirty days after publication of an order made pursuant to subsection (c) or (d) of this section, any person adversely affected by such an order may file objections thereto with the Secretary, specifying with particularity the provisions of the order deemed objectionable, stating reasonable grounds therefor, and requesting a public hearing upon such objections. The Secretary shall, after due notice, as promptly as possible hold such public hearing for the purpose of receiving evidence relevant and material to the issues raised by such objections. As soon as practicable after completion of the hearing, the Secretary shall by order act upon such objections and make such order public.
 
-(2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
+(2) Such order shall be based upon a fair evaluation of the entire record at such hearing, andshall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
 (3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
@@ -136,7 +136,7 @@ Any order, including any regulation established by such order, issued under subs
 
 #### (i) Amendment or repeal of regulations
 
-The Secretary shall by regulation prescribe the procedure by which regulations under theforegoing provisions of this section may be amended or repealed, and such procedure shall conform to the procedure provided in this section for the promulgation of such regulations. The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.
+The Secretary shall by regulation prescribe the procedure by which regulations under the foregoing provisions of this section may be amended or repealed, and such procedure shall conform to the procedure provided in this section for the promulgation of such regulations. The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.
 
 #### (j) Exemptions for investigational use
 
@@ -162,7 +162,7 @@ Subsec. (j). Pub. L. 105–115, §309(b)(1), (4), redesignated subsec. (i) as (j
 
 1962—Subsec. (c)(3)(A). Pub. L. 87–781 excepted proviso from applying to use of a substance as an ingredient of feed for animals raised for food production, if under conditions of use specified in proposed labeling, and which conditions are reasonably certain to be followed in practice, such additive will not adversely affect the animals and no residue will be found in any edible portion of such animal after slaughter, or in any food from the living animal.
 
-1960—Subsec. (g)(2). Pub. L. 86–546 substituted “forthwith transmitted by the clerk of the court to the Secretary, or any officer” for “served upon the Secretary, or upon any officer”, “shall file in the court the record of the proceedings on which he based his order, as provided in section 2112 of title 28” for “shall certify and file in the court a transcript of the proceedings and the record on which he based his order”, and “Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive,” for “Upon such filing, the court shall have exclusive jurisdiction”, and inserted sentence authorizing the Secretary to modify or set aside his order until the filing of the record.
+1960—Subsec. (g)(2). Pub. L. 86–546 substituted “forthwith transmitted by the clerk of the court to the Secretary, or any officer” for “served upon the Secretary, or upon any officer”, “shall file in the court the record of the proceedings on which he based his order, as provided in section 2112 of title 28” for “shall certify and file in the court a transcript of the proceedings and therecord on which he based his order”, and “Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive,” for “Upon such filing, the court shall have exclusive jurisdiction”, and inserted sentence authorizing the Secretary to modify or set aside his order until the filing of the record.
 
 #### Change of Name
 
@@ -204,7 +204,7 @@ Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on avail
 
 &emsp;“(2) which is not, by design, representation, or custom of usage intended for use by children,
 
-> is unsafe, the Secretary shall not take any action before January 1, 2003, to ban lead and cadmium based enamel on such glass and ceramic ware. Any action taken after January 1, 2003, to ban such enamel on such glass and ceramic ware as an unapproved food additive shall be taken by regulation and such regulation shall provide that such products shall not be removed fromthe market before 1 year after publication of the final regulation.”
+> is unsafe, the Secretary shall not take any action before January 1, 2003, to ban lead and cadmium based enamel on such glass and ceramic ware. Any action taken after January 1, 2003, to ban such enamel on such glass and ceramic ware as an unapproved food additive shall be taken by regulation and such regulation shall provide that such products shall not be removed from the market before 1 year after publication of the final regulation.”
 
 #### Moratorium on Authority of Secretary With Respect to Saccharin
 

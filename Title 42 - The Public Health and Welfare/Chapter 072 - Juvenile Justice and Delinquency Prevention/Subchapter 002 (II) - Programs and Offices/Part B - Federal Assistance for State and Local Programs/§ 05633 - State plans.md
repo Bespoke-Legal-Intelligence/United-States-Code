@@ -118,7 +118,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) to ensure that juveniles follow the terms of their probation;
 
-&emsp;&emsp;(G) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal, State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
+&emsp;&emsp;(G) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal,State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
 
 &emsp;&emsp;(H) programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist community services, law enforcement, and juvenile justice personnel to more effectively recognize and provide for learning disabled and other juveniles with disabilities;
 
@@ -216,7 +216,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;&emsp;(II) is located where conditions of distance to be traveled or the lack of highway, road, or transportation do not allow for court appearances within 48 hours (excluding Saturdays, Sundays, and legal holidays) so that a brief (not to exceed an additional 48 hours) delay is excusable; or
 
-&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearancemay be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
+&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
 
 &emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
 
@@ -266,7 +266,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(24) provide an assurance that if the State receives under section 5632 of this title for any fiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 2000, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services;
 
-&emsp;(25) specify a percentage (if any), not to exceed 5 percent, of funds received by the State under section 5632 of this title (other than funds made available to the State advisory group under section 5632(d) of this title) that the State will reserve for expenditure by the State to provide incentive grants to units of general local government that reduce thecaseload of probation officers within such units;
+&emsp;(25) specify a percentage (if any), not to exceed 5 percent, of funds received by the State under section 5632 of this title (other than funds made available to the State advisory group under section 5632(d) of this title) that the State will reserve for expenditure by the State to provide incentive grants to units of general local government that reduce the caseload of probation officers within such units;
 
 &emsp;(26) provide that the State, to the maximum extent practicable, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court;
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 &emsp;&emsp;(E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII,§§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873.)
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873.)
 
 #### References in Text
 
@@ -384,7 +384,7 @@ Subsec. (a)(10)(A). Pub. L. 107–273, §12209(1)(H)(i), substituted “includin
 
 Subsec. (a)(10)(D). Pub. L. 107–273, §12209(1)(H)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
 
-Subsec. (a)(10)(E). Pub. L. 107–273, §12209(1)(H)(iii), substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struckout former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
+Subsec. (a)(10)(E). Pub. L. 107–273, §12209(1)(H)(iii), substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
 
 &emsp;“(I) education in settings that promote experiential, individualized learning and exploration of academic and career options;
 
@@ -500,7 +500,7 @@ Subsec. (c). Pub. L. 107–273, §12209(2), amended subsec. (c) generally. Prior
 
 “(3) If a State fails to comply with the requirements of subsection (a), (12)(A), (13), (14), or (23) of this section in any fiscal year beginning after January 1, 1993—
 
-&emsp;“(A) subject to subparagraph (B), the amount allotted under section 5632 of this title to the State for that fiscal year shall be reduced by 25 percent for each such paragraph with respect to which noncompliance occurs; and
+&emsp;“(A) subject to subparagraph (B), the amount allotted under section 5632 of this title to the State forthat fiscal year shall be reduced by 25 percent for each such paragraph with respect to which noncompliance occurs; and
 
 &emsp;“(B) the State shall be ineligible to receive any allotment under that section for such fiscal year unless—
 
@@ -532,7 +532,7 @@ Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], su
 
 1992—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 ofthis title to reflect renumbering of corresponding section of original act.
+Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
 Subsec. (a)(3). Pub. L. 102–586, §2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
 
@@ -694,7 +694,7 @@ Subsec. (d). Pub. L. 96–509, §§11(c), 19(g)(13), substituted reference to se
 
 Subsec. (a)(4). Pub. L. 95–115. §4(c)(2), inserted provisions relating to grants or contracts with local private agencies or the advisory group, and substituted “units of general local government or combinations thereof in” for “local governments in”.
 
-Subsec. (a)(5). Pub. L. 95–115, §4(c)(3), substituted provisions relating to requirements respecting expenditure of funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
+Subsec. (a)(5). Pub. L. 95–115, §4(c)(3), substituted provisions relating to requirements respecting expenditureof funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
 
 Subsec. (a)(6). Pub. L. 95–115, §4(c)(4), inserted provision relating to regional planning agency and “unit of general” before “local government”.
 
@@ -738,7 +738,7 @@ Subsec. (e). Pub. L. 95–115, §4(c)(15), struck out subsec. (e) which related 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1996 Amendment
 

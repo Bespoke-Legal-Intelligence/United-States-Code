@@ -96,7 +96,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Federal employee shall fully participate in the governance and operations of the Coordinating Committee, including activities related to grants, contracts, and other agreements, in accordance with this section.
+&emsp;&emsp;A Federal employee shall fully participate in the governance and operations of the Coordinating Committee, including activitiesrelated to grants, contracts, and other agreements, in accordance with this section.
 
 #### (B) Conflicts
 
@@ -176,11 +176,11 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a State rural development council shall providematching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2) of this section.
+&emsp;Except as provided in paragraph (2), a State rural development council shall provide matching funds, or in-kind goods or services, to support the activities of the State rural development council in an amount that is not less than 33 percent of the amount of Federal funds received from a Federal agency under subsection (g)(2) of this section.
 
 #### (2) Exceptions to matching requirement for certain Federal funds
 
-&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, or technical assistance received by a State rural development council from a Federal agency that are used—
+&emsp;Paragraph (1) shall not apply to funds, grants, funds provided under contracts or cooperative agreements, gifts, contributions, ortechnical assistance received by a State rural development council from a Federal agency that are used—
 
 &emsp;&emsp;(A) to support 1 or more specific program or project activities; or
 

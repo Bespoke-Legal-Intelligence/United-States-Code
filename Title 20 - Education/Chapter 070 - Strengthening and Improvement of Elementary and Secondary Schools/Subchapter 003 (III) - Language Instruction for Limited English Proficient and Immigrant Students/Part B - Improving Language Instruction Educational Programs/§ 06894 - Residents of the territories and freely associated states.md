@@ -18,7 +18,7 @@ Section 6897, Pub. L. 89–10, title III, §3207, as added Pub. L. 103–382, ti
 
 Section 6898, Pub. L. 89–10, title III, §3208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3661, defined terms. See section 7255f of this title.
 
-Section 6899, Pub. L. 89–10, title III, §3209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3661,set forth administrative provisions. See section 7255e of this title.
+Section 6899, Pub. L. 89–10, title III, §3209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3661, set forth administrative provisions. See section 7255e of this title.
 
 Section 6900, Pub. L. 89–10, title III, §3210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3661, related to other assistance. See section 7255d of this title.
 

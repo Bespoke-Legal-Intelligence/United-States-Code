@@ -24,7 +24,7 @@ On November 12, 1996, the Secretary shall review and revise the existing criteri
 
 #### (4) Submission of report
 
-A report detailing the results of the revisions required by paragraph (3) shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 180 days after November 12, 1996. The report shall include justifications for keeping, or forchanging, each of the criteria or factors used by the Department of the Interior with regard to the provision of housing to employees of the National Park Service.
+A report detailing the results of the revisions required by paragraph (3) shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 180 days after November 12, 1996. The report shall include justifications for keeping, or for changing, each of the criteria or factors used by the Department of the Interior with regard to the provision of housing to employees of the National Park Service.
 
 #### (5) Review of condition of and costs relating to housing
 
@@ -52,7 +52,7 @@ For those units of the National Park System for which the review required by par
 
 &emsp;Each lease under subparagraph (A)(i)—
 
-&emsp;&emsp;(i) shall stipulate whether operation and maintenance of field employee quarters is to be provided by the lessee, field employees or the Federal Government;
+&emsp;&emsp;(i) shall stipulate whether operation and maintenance of field employee quarters is tobe provided by the lessee, field employees or the Federal Government;
 
 &emsp;&emsp;(ii) shall require that the construction and rehabilitation of field employee quarters be done in accordance with the requirements of the National Park Service and local applicable building codes and industry standards;
 
@@ -96,7 +96,7 @@ The Secretary may use authorities granted by statute in combination with one ano
 
 #### (A) General authority
 
-&emsp;Subject to the appropriation of necessary funds in advance, the Secretary may enterinto contracts of any duration for the management, repair, and maintenance of field employee quarters.
+&emsp;Subject to the appropriation of necessary funds in advance, the Secretary may enter into contracts of any duration for the management, repair, and maintenance of field employee quarters.
 
 #### (B) Terms and conditions
 
@@ -134,7 +134,7 @@ Expenditure of any funds authorized and appropriated for new construction, repai
 
 #### (14) Annual budget submittal
 
-The President's proposed budget to Congress for the first fiscal year beginning after November 12, 1996, and for each subsequent fiscal year, shall include identification of nonconstruction funds to be spent for National Park Service housing maintenance and operations which are in addition to rental receipts collected.
+The President's proposed budget to Congress for the first fiscal year beginning after November 12, 1996, and for each subsequent fiscal year, shall include identification of nonconstruction funds to be spent for National Park Servicehousing maintenance and operations which are in addition to rental receipts collected.
 
 #### (15) Study of housing allowances
 

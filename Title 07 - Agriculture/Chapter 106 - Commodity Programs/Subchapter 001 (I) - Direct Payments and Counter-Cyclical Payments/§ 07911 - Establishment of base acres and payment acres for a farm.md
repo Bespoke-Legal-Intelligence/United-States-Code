@@ -88,7 +88,7 @@ The payment acres for a covered commodity on a farm shall be equal to 85 percent
 
 #### (1) Required reduction
 
-&emsp;If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreageof the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
+&emsp;If the sum of the base acres for a farm, together with the acreage described in paragraph (2), exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities for the farm or the base acres for peanuts for the farm under subchapter III of this chapter so that the sum of the base acres and acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
 
 #### (2) Other acreage
 
@@ -120,9 +120,17 @@ The owner of a farm may reduce, at any time, the base acres for any covered comm
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+Subchapter III of this chapter, referred to in subsec. (g)(1), (2)(A), (3), was in the original “subtitle C”,meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (g)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+
+#### Popcorn Acreage
+
+Pub. L. 108–7, div. A, title VII, §767, Feb. 20, 2003, 117 Stat. 48, provided that:
+
+“(a) Notwithstanding any other provision of law, for purposes of administering sections 1101 and 1102 of Public Law 107–171 \[7 U.S.C. 7911, 7912\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: <i>Provided</i>, That if a farm program payment yield for corn is otherwise established for a farm under such section 1102, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: <i>Provided further</i>, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area.
+
+“(b) This section shall take effect on October 1, 2003.”
 
 #### Section Referred to in Other Sections
 

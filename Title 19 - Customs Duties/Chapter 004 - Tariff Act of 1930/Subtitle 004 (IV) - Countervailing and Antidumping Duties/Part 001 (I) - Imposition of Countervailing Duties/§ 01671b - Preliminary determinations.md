@@ -102,7 +102,7 @@ Notification of article 8 violation.—If the only subsidy under investigation i
 
 &emsp;&emsp;&emsp;(ii) additional time is necessary to make the preliminary determination,
 
-> &emsp;then the administering authority may postpone making the preliminary determination under subsection (b) of this section until not later than the 130th day after the date on which the administering authority initiates an investigation under section 1671a(c) of this title, or an investigation is initiated under section 1671a(a) of this title.
+> &emsp;then the administering authority may postpone making the preliminary determination under subsection (b) of this section until not later than the 130th day after the date onwhich the administering authority initiates an investigation under section 1671a(c) of this title, or an investigation is initiated under section 1671a(a) of this title.
 
 #### (2) Notice of postponement
 
@@ -228,7 +228,7 @@ Subsec. (e)(1). Pub. L. 103–465, §214(a)(1), in introductory provisions, stru
 
 Subsec. (e)(2). Pub. L. 103–465, §§215(a)(2), 264(c)(2), substituted “subsection (d)(2)” for “subsection (d)(1)” and “warehouse, for consumption on or after the later of—” and subpars. (A) and (B) for “warehouse, for consumption on or after the date which is 90 days before the date on which suspension of liquidation was first ordered.”
 
-Subsec. (f). Pub. L. 103–465, §212(b)(1)(F), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based,and it shall publish notice of its determination in the Federal Register.”
+Subsec. (f). Pub. L. 103–465, §212(b)(1)(F), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.”
 
 Subsec. (g)(1). Pub. L. 103–465, §233(a)(6)(B), substituted “initiation” for “commencement”.
 

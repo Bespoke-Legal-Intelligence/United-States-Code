@@ -2,7 +2,9 @@
 
 #### (a) In general
 
-There is established the Gunnison Gorge National Conservation Area, consisting of approximately 57,725 acres as generally depicted on the Map.
+(1) There is established the Gunnison Gorge National Conservation Area, consisting of approximately 57,725 acres as generally depicted on the Map.
+
+(2) The boundary of the Conservation Area is revised to include the addition of approximately 7,100 acres, as generally depicted on the map entitled “Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications”, and dated April 2, 2003.
 
 #### (b) Management of Conservation Area
 
@@ -70,7 +72,7 @@ In addition to the use of motorized vehicles on established roadways, the use of
 
 The Secretary may make revisions to the boundary of the Conservation Area following acquisition of land necessary to accomplish the purposes for which the Conservation Area was designated.
 
-(Pub. L. 106–76, §7, Oct. 21, 1999, 113 Stat. 1129.)
+(Pub. L. 106–76, §7, Oct. 21, 1999, 113 Stat. 1129; Pub. L. 108–128, §3, Nov. 17, 2003, 117 Stat. 1356.)
 
 #### References in Text
 
@@ -81,4 +83,8 @@ The public land laws, referred to in subsec. (c), are classified generally to Ti
 The mining laws and the mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
 Geothermal leasing laws, referred to in subsec. (c), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–128 designated existing provisions as par. (1) and added par. (2).
 

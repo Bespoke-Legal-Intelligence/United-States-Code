@@ -1,26 +1,68 @@
 ### §310. Special pay: duty subject to hostile fire or imminent danger
 
-(a) Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
+(a)
 
-&emsp;(1) was subject to hostile fire or explosion of hostile mines;
+Eligibility and Special Pay Amount.—Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which—
 
-&emsp;(2) was on duty in an area in which he was in imminent danger of being exposed to hostile fire or explosion of hostile mines and in which, during the period he was on duty in that area, other members of the uniformed services were subject to hostile fire or explosion of hostile mines;
+&emsp;(1) the member was entitled to basic pay or compensation under section 204 or 206 of this title; and
 
-&emsp;(3) was killed, injured, or wounded by hostile fire, explosion of a hostile mine, or any other hostile action; or
+&emsp;(2) the member—
 
-&emsp;(4) was on duty in a foreign area in which he was subject to the threat of physical harm or imminent danger on the basis of civil insurrection, civil war, terrorism, or wartime conditions.
+&emsp;&emsp;(A) was subject to hostile fire or explosion of hostile mines;
 
-> A member covered by clause (3) who is hospitalized for the treatment of his injury or wound may be paid special pay under this section for not more than three additional months during which he is so hospitalized.
+&emsp;&emsp;(B) was on duty in an area in which the member was in imminent danger of being exposed to hostile fire or explosion of hostile mines and in which, during the period the member was on duty in the area, other members of the uniformed services were subject to hostile fire or explosion of hostile mines;
 
-(b)(1) A member may not be paid more than one special pay under this section for any month. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
+&emsp;&emsp;(C) was killed, injured, or wounded by hostile fire, explosion of a hostile mine, or any other hostile action; or
+
+&emsp;&emsp;(D) was on duty in a foreign area in which the member was subject to the threat of physical harm or imminent danger on the basis of civil insurrection, civil war, terrorism, or wartime conditions.
+
+(b)
+
+Continuation During Hospitalization.—A member covered by subsection (a)(2)(C) who is hospitalized for the treatment of the injury or wound may be paid special pay under this section for not more than three additional months during which the member is so hospitalized.
+
+(c)
+
+Limitations and Administration.—(1) A member may not be paid more than one special pay under this section for any month. A member may be paid special pay under this section in addition to any other pay and allowances to which he may be entitled.
 
 (2) A member of a reserve component who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection.
 
-(c) Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agency of the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
+(d)
 
-(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042.)
+Determinations of Fact.—Any determination of fact that is made in administering this section is conclusive. Such a determination may not be reviewed by any other officer or agencyof the United States unless there has been fraud or gross negligence. However, the determination may be changed on the basis of new evidence or for other good cause.
+
+(e)
+
+Temporary Increase in Authorized Amount of Special Pay.—For the period beginning on October 1, 2003, and ending on December 31, 2004, the rate of pay authorized by subsection (a) shall be increased to $225.
+
+(Added Pub. L. 88–132, §9(a)(1), Oct. 2, 1963, 77 Stat. 216; amended Pub. L. 89–132, §4, Aug. 21, 1965, 79 Stat. 547; Pub. L. 98–94, title IX, §905(a), (b)(1), Sept. 24, 1983, 97 Stat. 636, 637; Pub. L. 99–145, title VI, §638(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 101–510, div. A, title XIII, §1322(c)(6), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title VI, §§611(a), 613, Dec. 5, 1991, 105 Stat. 1376, 1377; Pub. L. 105–261, div. A, title VI, §621, Oct. 17, 1998, 112 Stat. 2042; Pub. L. 108–11, title I, §1316(a), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§618(a), (b), (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §618(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under regulations prescribed by the Secretary of Defense, a member of a uniformed service may be paid special pay at the rate of $150 for any month in which he was entitled to basic pay and in which he—
+
+&emsp;“(1) was subject to hostile fire or explosion of hostile mines;
+
+&emsp;“(2) was on duty in an area in which he was in imminent danger of being exposed to hostile fire or explosion of hostile mines and in which, during the period he was on duty in that area, other members of the uniformed services were subject to hostile fire or explosion of hostile mines;
+
+&emsp;“(3) was killed, injured, or wounded by hostile fire, explosion of a hostile mine, or any other hostile action; or
+
+&emsp;“(4) was on duty in a foreign area in which he was subject to the threat of physical harm or imminent danger on the basis of civil insurrection, civil war, terrorism, or wartime conditions.
+
+> A member covered by clause (3) who is hospitalized for the treatment of his injury or wound may be paid special pay under this section for not more than three additional months during which he is so hospitalized.”
+
+Pub. L. 108–11, §1316(a), (c), as amended by Pub. L. 108–136, §618(d)(2), temporarily substituted “$225” for “$150” in introductory provisions. See Effective and Termination Dates of 2003 Amendments note below.
+
+Subsec. (b). Pub. L. 108–136, §618(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 108–136, §618(b)(1), inserted heading.
+
+Pub. L. 108–136, §618(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 108–136, §618(b)(2), inserted heading.
+
+Pub. L. 108–136, §618(a)(1), redesignated subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 108–136, §619, added subsec. (e).
 
 1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
@@ -35,6 +77,20 @@
 Subsec. (a)(4). Pub. L. 98–94, §905(a), added cl. (4).
 
 1965—Subsec. (a). Pub. L. 89–132 increased rate of special pay from $55 to $65 a month.
+
+#### Effective and Termination Dates of 2003 Amendments
+
+Pub. L. 108–136, div. A, title VI, §618(c), Nov. 24, 2003, 117 Stat. 1504, provided that: “Subsections (a) and (b) of section 310 of title 37, United States Code, as added by subsection (a)(2), shall take effect as of September 11, 2001.”
+
+Pub. L. 108–136, div. A, title VI, §618(d)(2), Nov. 24, 2003, 117 Stat. 1504, provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
+
+Pub. L. 108–11, title I, §1316(c), Apr. 16, 2003, 117 Stat. 570, as amended by Pub. L. 108–136, div. A, title VI, §618(d)(2), Nov. 24, 2003, 117 Stat. 1504, provided that:
+
+“(1) The amendments made by subsections (a) and (b) \[amending this section and section 427 of this title\] shall expire on September 30, 2003.
+
+“(2) Effective on September 30, 2003, the dollar amounts specified in sections 310(a) of title 37, United States Code, and 427(a)(1) of title 37, United States Code, as in effect on the day before the date of the enactment of this Act \[Apr. 16, 2003\] are hereby revived.”
+
+Pub. L. 108–11, title I, §1316(d), Apr. 16, 2003, 117 Stat. 571, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 427 of this title\] shall take effect on October 1, 2002, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1985 Amendment
 
@@ -51,6 +107,30 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 #### Effective Date
 
 Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date of 1963 Amendment note under section 201 of this title.
+
+#### Relation to Temporary Increase in Authorized Amount of Hostile Fire and Imminent Danger Special Pay
+
+Pub. L. 108–136, div. A, title VI, §618(d)(1), Nov. 24, 2003, 117 Stat. 1504, provided that: “The amendment made by subsection (a)(2) \[amending this section\] does not affect the authority to pay an increased amount of hostile fire and imminent danger special pay under section 310 of title 37, United States Code, pursuant to—
+
+&emsp;“(A) the amendment made by subsection (a) of section 1316 of Public Law 108–11 (117 Stat. 570) \[amending this section\] during the period specified in subsection (c)(1) of such section, as modified by section 113 of Public Law 108–84 (117 Stat. 1044); or
+
+&emsp;“(B) the amendment made by section 619 of this Act \[amending this section\] during the period specified in such amendment.”
+
+#### Retroactive Payment of Hostile Fire or Imminent Danger Pay for Service in Eastern Mediterranean Sea in Operation Iraqi Freedom
+
+Pub. L. 108–136, div. A, title VI, §620, Nov. 24, 2003, 117 Stat. 1504, provided that:
+
+“(a)
+
+Payment Authorized.—The Secretary of Defense may authorize the payment of hostile fire or imminent danger pay under section 310(a) of title 37, United States Code, to members of the Armed Forces who were assigned to duty, during the period beginning on March 19, 2003, and ending on April 11, 2003, in the area specified in subsection (b) in connection with Operation Iraqi Freedom at any time during that period.
+
+“(b)
+
+Specified Area.—The area referred to in subsection (a) is the Mediterranean Sea east of 30 degrees East Longitude (sea area only).”
+
+#### Rates of Pay for Fiscal Year 2004
+
+Pub. L. 108–106, title I, §1104, Nov. 6, 2003, 117 Stat. 1214, provided that: “From October 1, 2003, through September 30, 2004, (a) the rates of pay authorized by section 310(a) of title 37, United States Code, shall be $225; and (b) the rates of pay authorized by section 427(a)(1) of title 37, United States Code, shall be $250.”
 
 #### Retroactive Authorization for Imminent Danger Pay for Service in Connection With Operation Enduring Freedom
 

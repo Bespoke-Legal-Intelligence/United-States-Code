@@ -48,7 +48,7 @@ Assistance provided under this section may include—
 
 #### (2) Report to Congress
 
-&emsp;The Secretary shall annually prepare and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in reports submitted under paragraph (1).
+&emsp;The Secretary shall annually prepare and submit to the Committee on the Judiciary ofthe House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in reports submitted under paragraph (1).
 
 #### (e) Evaluation, monitoring, and administration
 
@@ -56,7 +56,11 @@ Of the amount appropriated under subsection (f) of this section for each fiscal 
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 2001.
+There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2003 through 2008.
 
-(Pub. L. 98–457, title III, §319, as added Pub. L. 106–386, div. B, title II, §1203, Oct. 28, 2000, 114 Stat. 1506.)
+(Pub. L. 98–457, title III, §319, as added Pub. L. 106–386, div. B, title II, §1203, Oct. 28, 2000, 114 Stat. 1506; amended Pub. L. 108–36, title IV, §414, June 25, 2003, 117 Stat. 830.)
+
+#### Amendments
+
+2003—Subsec. (f). Pub. L. 108–36 substituted “each of fiscal years 2003 through 2008” for “fiscal year 2001”.
 

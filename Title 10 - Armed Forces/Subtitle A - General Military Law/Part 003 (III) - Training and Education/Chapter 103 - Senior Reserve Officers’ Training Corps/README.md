@@ -5,6 +5,7 @@
 | [2101\.](%C2%A7%2002101%20-%20Definitions.md) | Definitions. |
 | [2102\.](%C2%A7%2002102%20-%20Establishment.md) | Establishment. |
 | [2103\.](%C2%A7%2002103%20-%20Eligibility%20for%20membership.md) | Eligibility for membership. |
+| [2103a.](%C2%A7%2002103a%20-%20Students%20not%20eligible%20for%20advanced%20training%20commitment%20to%20military%20service.md) | Students not eligible for advanced training: commitment to military service. |
 | [2104\.](%C2%A7%2002104%20-%20Advanced%20training%3B%20eligibility%20for.md) | Advanced training; eligibility for. |
 | [2105\.](%C2%A7%2002105%20-%20Advanced%20training%3B%20failure%20to%20complete%20or%20to%20accept%20commission.md) | Advanced training; failure to complete or to accept commission. |
 | [2106\.](%C2%A7%2002106%20-%20Advanced%20training%3B%20commission%20on%20completion.md) | Advanced training; commission on completion. |
@@ -20,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §523(b)(2), Nov. 24, 2003, 117 Stat. 1464, added item 2103a.
 
 1999—Pub. L. 106–65, div. A, title V, §541(a)(2), Oct. 5, 1999, 113 Stat. 606, added item 2111b.
 
@@ -37,7 +40,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 5 section 8140; title 37 section 209.
+This chapter is referred to in sections 4342, 6954, 9342 of this title; title 5 section 8140; title 37 section 209.
 
 
 ---
@@ -47,6 +50,7 @@ This chapter is referred to in title 5 section 8140; title 37 section 209.
 - [&sect; 02101 - Definitions](%C2%A7%2002101%20-%20Definitions.md)
 - [&sect; 02102 - Establishment](%C2%A7%2002102%20-%20Establishment.md)
 - [&sect; 02103 - Eligibility for membership](%C2%A7%2002103%20-%20Eligibility%20for%20membership.md)
+- [&sect; 02103a - Students not eligible for advanced training commitment to military service](%C2%A7%2002103a%20-%20Students%20not%20eligible%20for%20advanced%20training%20commitment%20to%20military%20service.md)
 - [&sect; 02104 - Advanced training; eligibility for](%C2%A7%2002104%20-%20Advanced%20training%3B%20eligibility%20for.md)
 - [&sect; 02105 - Advanced training; failure to complete or to accept commission](%C2%A7%2002105%20-%20Advanced%20training%3B%20failure%20to%20complete%20or%20to%20accept%20commission.md)
 - [&sect; 02106 - Advanced training; commission on completion](%C2%A7%2002106%20-%20Advanced%20training%3B%20commission%20on%20completion.md)

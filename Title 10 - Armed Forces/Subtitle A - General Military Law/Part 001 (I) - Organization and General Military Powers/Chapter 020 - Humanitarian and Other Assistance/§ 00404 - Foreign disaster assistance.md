@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The President may direct the Secretary of Defense to provide disaster assistance outside the United States to respond to manmade or natural disasters when necessary to prevent loss of lives.
+In General.—The President may direct the Secretary of Defense to provide disaster assistance outside the United States to respond to manmade or natural disasters when necessary to prevent loss of lives or serious harm to the environment.
 
 (b)
 
@@ -14,7 +14,7 @@ Notification Required.—Not later than 48 hours after the commencement of disas
 
 &emsp;(1) The manmade or natural disaster for which disaster assistance is necessary.
 
-&emsp;(2) The threat to human lives presented by the disaster.
+&emsp;(2) The threat to human lives or the environment presented by the disaster.
 
 &emsp;(3) The United States military personnel and material resources that are involved or expected to be involved.
 
@@ -24,13 +24,25 @@ Notification Required.—Not later than 48 hours after the commencement of disas
 
 (d)
 
-Organizing Policies and Programs.—Amounts appropriated to the Department of Defense for any fiscal year for Overseas Humanitarian, Disaster, and Civic Aid (OHDACA) programs of the Department shall be available for organizing general policies and programs for disaster relief programs for disasters occurring outside the United States.
+Organizing Policies and Programs.—Amounts appropriated to the Department of Defense for any fiscal year for Overseas Humanitarian, Disaster, and Civic Aid (OHDACA) programs of the Department shall be available fororganizing general policies and programs for disaster relief programs for disasters occurring outside the United States.
 
-(Added Pub. L. 103–337, div. A, title XIV, §1412(a), Oct. 5, 1994, 108 Stat. 2912.)
+(e)
+
+Limitation on Transportation Assistance.—Transportation services authorized under subsection (b) may be provided in response to a manmade or natural disaster to prevent serious harm to the environment, when human lives are not at risk, only if other sources to provide such transportation are not readily available.
+
+(Added Pub. L. 103–337, div. A, title XIV, §1412(a), Oct. 5, 1994, 108 Stat. 2912; amended Pub. L. 108–136, div. A, title III, §312(c), Nov. 24, 2003, 117 Stat. 1430.)
 
 #### Prior Provisions
 
 A prior section 404 was renumbered section 401(d) of this title.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §312(c)(1), inserted “or serious harm to the environment” after “loss of lives”.
+
+Subsec. (c)(2). Pub. L. 108–136, §312(c)(2), inserted “or the environment” after “human lives”.
+
+Subsec. (e). Pub. L. 108–136, §312(c)(3), added subsec. (e).
 
 #### Ex. Ord. No. 12966. Foreign Disaster Assistance
 

@@ -82,7 +82,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;In making awards or entering into cooperative agreements under this section, the Administrator and the SBIR program managers referred to in paragraph (1)—
 
-&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support,or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
+&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
 
 &emsp;&emsp;(B) shall consider, at a minimum—
 
@@ -220,7 +220,7 @@ The authority to carry out the FAST program under this section shall terminate o
 
 #### Prior Provisions
 
-A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[36\] and is set out as a note under section 631 of this title.
+A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
 
 #### Amendments
 

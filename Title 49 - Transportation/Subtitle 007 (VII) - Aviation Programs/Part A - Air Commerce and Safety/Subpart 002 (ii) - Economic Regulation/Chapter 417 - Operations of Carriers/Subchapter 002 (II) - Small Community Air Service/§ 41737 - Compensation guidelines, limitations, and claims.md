@@ -26,11 +26,27 @@ Claims.—Not later than 15 days after receiving a written claim from an air car
 
 (d)
 
-Authority To Make Agreements and Incur Obligations.—(1) The Secretary maymake agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government's share of the compensation.
+Authority To Make Agreements and Incur Obligations.—(1) The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government's share of the compensation.
 
 (2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts made available under this section remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151.)
+(e)
+
+Adjustments to Account for Significantly Increased Costs.—
+
+&emsp;(1)
+
+In general.—If the Secretary determines that air carriers are experiencing significantly increased costs in providing air service or air transportation for which compensation is being paid under this subchapter, the Secretary may increase the rates of compensation payable under this subchapter without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
+
+&emsp;(2)
+
+Readjustment if costs subsequently decline.—If an adjustment is made under paragraph (1), and total unit costs subsequently decrease to at least the total unit cost reflected in the compensation rate, then the Secretary may reverse the adjustment previously made under paragraph (1) without regard to any agreement or requirement relating to the renegotiation of contracts or any notice requirement under section 41734.
+
+&emsp;(3)
+
+Significantly increased costs defined.—In this subsection, the term “significantly increased costs” means a total unit cost increase (but not increases in individual unit costs) of 10 percent or more in relation to the total unit cost reflected in the compensation rate, based on the carrier's internal audit of its financial statements if such cost increase is incurred for a period of at least 2 consecutive months.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1151; Pub. L. 108–176, title IV, §402(a), Dec. 12, 2003, 117 Stat. 2543.)
 
 Historical and Revision Notes
 
@@ -69,6 +85,14 @@ In subsection (a)(2), the words “compensation provided to a carrier under this
 In subsection (b), the words “air service or air transportation” are substituted for “air service” for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title.
 
 In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
+
+#### Amendments
+
+2003—Subsec. (e). Pub. L. 108–176 added subsec. (e).
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–176, title IV, §402(b), Dec. 12, 2003, 117 Stat. 2543, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Dec. 12, 2003\].”
 
 #### Section Referred to in Other Sections
 

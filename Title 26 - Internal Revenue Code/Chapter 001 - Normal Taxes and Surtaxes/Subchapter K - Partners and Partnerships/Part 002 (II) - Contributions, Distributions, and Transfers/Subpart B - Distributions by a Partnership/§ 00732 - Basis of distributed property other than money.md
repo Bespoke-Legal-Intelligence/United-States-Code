@@ -52,7 +52,7 @@ For purposes of subsections (a), (b), and (c), a partner who acquired all or a p
 
 #### (e) Exception
 
-This section shall not apply to the extent that a distribution is treated as a sale or exchange ofproperty under section 751(b) (relating to unrealized receivables and inventory items).
+This section shall not apply to the extent that a distribution is treated as a sale or exchange of property under section 751(b) (relating to unrealized receivables and inventory items).
 
 #### (f) Corresponding adjustment to basis of assets of a distributed corporation controlled by a corporate partner
 
@@ -136,7 +136,7 @@ In general.—Except as provided in paragraph (2), the amendment made by this se
 
 “(2)
 
-Partnerships in existence on July 14, 1999.—In the case of a corporation which is a partner in a partnership as of July 14, 1999, the amendment made by this section shall apply to any distribution made (or treated as made) to such partner from such partnership after June 30, 2001, except that this paragraph shall not apply to any distribution after the date of the enactment ofthis Act \[Dec. 17, 1999\] unless the partner makes an election to have this paragraph apply to such distribution on the partner's return of Federal income tax for the taxable year in which such distribution occurs.”
+Partnerships in existence on July 14, 1999.—In the case of a corporation which is a partner in a partnership as of July 14, 1999, the amendment made by this section shall apply to any distribution made (or treated as made) to such partner from such partnership after June 30, 2001, except that this paragraph shall not apply to any distribution after the date of the enactment of this Act \[Dec. 17, 1999\] unless the partner makes an election to have this paragraph apply to such distribution on the partner's return of Federal income tax for the taxable year in which such distribution occurs.”
 
 #### Effective Date of 1997 Amendment
 

@@ -118,7 +118,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (B) Failure of creditors to agree
 
-&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principaland interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
+&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principal and interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
 
 #### (2) Participation of creditors
 
@@ -132,7 +132,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (2) Terms
 
-&emsp;Shared appreciation agreements shall have a term not to exceed 10 years, and shall provide for recapture based on the difference between the appraised values of the real security property at the time of restructuring and at the time of recapture.
+&emsp;Shared appreciation agreements shall have a term not to exceed 10 years, and shall providefor recapture based on the difference between the appraised values of the real security property at the time of restructuring and at the time of recapture.
 
 #### (3) Percentage of recapture
 
@@ -216,7 +216,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (1) In general
 
-&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered orcertified mail within 15 days after such determination.
+&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered or certified mail within 15 days after such determination.
 
 #### (2) Contents
 
@@ -230,7 +230,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (j) Independent appraisals
 
-An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
+An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal ofany property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
 
 #### (k) Partial liquidations
 
@@ -300,7 +300,7 @@ Available income.—If an amount up to 105 percent of the debt payments of the b
 
 Subsec. (c)(6). Pub. L. 104–127, §645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
 
-Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text offormer subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
+Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
 
 Subsec. (<i>l</i>). Pub. L. 104–127, §661(j), struck out “and subparagraphs (A)(i) and (C)(i) of section 1985(e)(1) of this title,” before “if a borrower” in introductory provisions.
 
@@ -312,7 +312,7 @@ Subsecs. (m) to (p). Pub. L. 104–127, §645(3), redesignated subsecs. (m) to (
 
 Subsec. (m). Pub. L. 102–237, §501(h)(2), substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
 
-1990—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section”.
+1990—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods wouldproduce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section”.
 
 Subsec. (c)(2)(A). Pub. L. 101–624, §1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
 

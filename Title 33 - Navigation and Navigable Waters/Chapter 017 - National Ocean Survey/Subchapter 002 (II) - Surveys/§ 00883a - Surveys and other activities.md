@@ -36,7 +36,7 @@ Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amen
 
 “(a)
 
-Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle\[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
+Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle \[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
 
 “(b)
 
@@ -54,7 +54,7 @@ Content of Plan.—A plan prepared under paragraph (1) shall include—
 
 “(a)
 
-In General.—The \[sic\] following completion of a shoreline mapping plan under section 3202 and subject to authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
+In General.—The \[sic\] following completion of a shoreline mapping plan under section 3202 and subjectto authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
 
 “(b)
 

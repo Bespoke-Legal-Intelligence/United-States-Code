@@ -4,7 +4,7 @@ In order to support Teams in carrying out this chapter, the Director may—
 
 &emsp;(1) procure the temporary or intermittent services of experts or consultants under section 3109 of title 5;
 
-&emsp;(2) request the use, when appropriate, of available services, equipment, personnel, andfacilities of a department, agency, or instrumentality of the United States Government on a reimbursable or other basis;
+&emsp;(2) request the use, when appropriate, of available services, equipment, personnel, and facilities of a department, agency, or instrumentality of the United States Government on a reimbursable or other basis;
 
 &emsp;(3) confer with employees and request the use of services, records, and facilities of State and local governmental authorities;
 

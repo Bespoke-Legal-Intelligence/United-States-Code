@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;(B) The grant may be made only if the Secretary makes the following determinations:
 
-&emsp;&emsp;&emsp;(i) The applicant or other entity (as the case may be under subparagraph (A)) is appropriately qualified to conduct the project of research. An entity shall be considered to be so qualified if any research protocol of the entity has been recommended for funding under this chapter pursuant to technical and scientific peer review through the National Institutes of Health.
+&emsp;&emsp;&emsp;(i) The applicant or other entity (as the case may be under subparagraph (A)) is appropriately qualified to conduct the project of research. An entity shall be considered to be so qualified if any research protocol of the entity has been recommended for funding under this chapter pursuant to technical and scientific peerreview through the National Institutes of Health.
 
 &emsp;&emsp;&emsp;(ii) The project of research is being conducted in accordance with a research protocol to which the Secretary gives priority regarding the prevention or treatment of HIV disease in women, infants, children, or youth, subject to paragraph (2).
 
@@ -114,7 +114,7 @@ The Secretary shall develop and implement a plan that provides for the coordinat
 
 #### (1) Determination by Secretary
 
-&emsp;Not later than 12 months after October 20, 2000, the Secretary, in consultation with grantees under this part, shall conduct a review of the administrative, program support,and direct service-related activities that are carried out under this part to ensure that eligible individuals have access to quality, HIV-related health and support services and research opportunities under this part, and to support the provision of such services.
+&emsp;Not later than 12 months after October 20, 2000, the Secretary, in consultation with grantees under this part, shall conduct a review of the administrative, program support, and direct service-related activities that are carried out under this part to ensure that eligible individuals have access to quality, HIV-related health and support services and research opportunities under this part, and to support the provision of such services.
 
 #### (2) Requirements
 

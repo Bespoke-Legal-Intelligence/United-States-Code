@@ -36,7 +36,7 @@ Revenues credited to the development fund shall not be available for constructio
 
 Moneys credited to the development fund pursuant to subsection (b) and clauses (1) and (3) of subsection (c) of this section and the portion of revenues derived from the sale of power and energy for use in Arizona pursuant to clause (2) of subsection (c) of this section in excess of the amount necessary to meet the requirements of clauses (1) and (2) of subsection (d) of this section shall be paid annually to the general fund of the Treasury to return—
 
-&emsp;(1) the costs of each unit of the projects or separable feature thereof authorized pursuant to subchapter III of this chapter which are allocated to irrigation, commercial power, or municipal and industrial water supply, pursuant to this chapter within a period not exceeding fifty years from the date of completion of each such unit or separable feature, exclusive of any development period authorized by law:<i>Provided</i>, That return of the cost, if any, required by section 616aa–1 of this title shall not be made until after the payout period of the Central Arizona Project as authorized herein; and
+&emsp;(1) the costs of each unit of the projects or separable feature thereof authorized pursuantto subchapter III of this chapter which are allocated to irrigation, commercial power, or municipal and industrial water supply, pursuant to this chapter within a period not exceeding fifty years from the date of completion of each such unit or separable feature, exclusive of any development period authorized by law: <i>Provided</i>, That return of the cost, if any, required by section 616aa–1 of this title shall not be made until after the payout period of the Central Arizona Project as authorized herein; and
 
 &emsp;(2) interest (including interest during construction) on the unamortized balance of the investment in the commercial power and municipal and industrial water supply features of the project at a rate determined by the Secretary of the Treasury in accordance with the provisions of subsection (h) of this section, and interest due shall be a first charge.
 
@@ -76,19 +76,23 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Payment From Development Fund to General Fund of Treasury
 
-Pub. L. 107–66, title II, §204, Nov. 12, 2001, 115 Stat. 500, provided that:
+Pub. L. 108–137, title II, §205, Dec. 1, 2003, 117 Stat. 1849, provided that:
 
 “(a)
 
-In general.—Notwithstanding section 403(f) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)), no amount from the Lower Colorado River Basin Development Fund shall be paid to the general fund of the Treasury until each provision of the Stipulation Regarding a Stay and for Ultimate Judgment Upon the Satisfaction of Conditions, filed in United States district court on May 3, 2000, in Central Arizona Water Conservation District v. United States (No. CIV 95–625–TUC–WDB (EHC), No. CIV 95–1720–OHX–EHC (Consolidated Action)) is met.
+In General.—Notwithstanding section 403(f) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)), no amount from the Lower Colorado River Basin Development Fund shall be paid to the general fund of the Treasury until each provision of the revised Stipulation Regarding a Stay and for Ultimate Judgment Upon the Satisfaction of Conditions, filed in United States District Court on April 24, 2003, in Central Arizona Water Conservation District v. United States (No. CIV 95–625–TUC–WDB (EHC), No. CIV 95–1720–OHX–EHC (Consolidated Action)), and any amendment or revision thereof, is met.
 
 “(b)
 
-Payment to general fund.—If any of the provisions of the stipulation referred to in subsection (a) are not met by the date that is 3 years after the date of enactment of this Act \[Nov. 12, 2001\], payments to the general fund of the Treasury shall resume in accordance with section 403(f) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)).
+Payment to General Fund.—If any of the provisions of the stipulation referred to in subsection (a) are not met by the date that is 10 years after the date of enactment of this Act \[Dec. 1, 2003\], payments to the general fund of the Treasury shall resume in accordance with section 403(f) of the Colorado River Basin Project Act (43 U.S.C. 1543(f)).
 
 “(c)
 
 Authorization.—Amounts in the Lower Colorado River Basin Development Fund that but for this section would be returned to the general fund of the Treasury shall not be expended until further Act of Congress.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–66, title II, §204, Nov. 12, 2001, 115 Stat. 500.
 
 #### Section Referred to in Other Sections
 

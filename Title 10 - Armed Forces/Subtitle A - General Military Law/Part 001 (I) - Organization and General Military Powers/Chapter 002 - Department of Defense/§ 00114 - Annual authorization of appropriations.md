@@ -162,7 +162,7 @@ Subsec. (a). Pub. L. 96–342, §1001(a)(1), (b)(1), in cl. (6) substituted refe
 
 Subsec. (c)(1). Pub. L. 96–513, §102(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (c)(3)(D). Pub. L. 96–513, §102(b), substituted provisions relating to expanded coverage in the annual report of the Secretary of Defense for provisions under which the report had formerly covered only the estimated requirements in members on active duty during the next fiscal year, the estimated number of commissioned officers in each grade on active duty and to bepromoted during the next fiscal year, and an analysis of the distribution by grade of commissioned officers on active duty at the time the report was prepared.
+Subsec. (c)(3)(D). Pub. L. 96–513, §102(b), substituted provisions relating to expanded coverage in the annual report of the Secretary of Defense for provisions under which the report had formerly covered only the estimated requirements in members on active duty during the next fiscal year, the estimated number of commissioned officers in each grade on active duty and to be promoted during the next fiscal year, and an analysis of the distribution by grade of commissioned officers on active duty at the time the report was prepared.
 
 Subsec. (e). Pub. L. 96–342, §1001(b)(2), (3), added subsec. (e). Former subsec. (e) redesignated (f)(1).
 
@@ -208,7 +208,7 @@ Section 801(b) of Pub. L. 94–106 provided that: “The amendment provided by p
 
 Pub. L. 101–165, title IX, §9017, Nov. 21, 1989, 103 Stat. 1133, which prohibited funding to be used for planning or executing programs which utilized amounts credited to the Department of Defense pursuant to section 2777(a) of Title 22, Foreign Relations and Intercourse, was repealed and restated in subsec. (c)(2) of this section by Pub. L. 101–510, div. A, title XIV, §1481(a), Nov. 5, 1990, 104 Stat. 1704.
 
-The following general provisions, which had been repeated as fiscal year provisions in prior appropriation acts, were enacted as permanent law in the Department of Defense Appropriations Act, 1986, Pub. L. 99–190, §101(b) \[title VIII, §§8005, 8006, 8009\], Dec. 19, 1985, 99 Stat. 1185, 1202, 1203, 1204:
+The following general provisions, which had been repeated as fiscal year provisions in prior appropriationacts, were enacted as permanent law in the Department of Defense Appropriations Act, 1986, Pub. L. 99–190, §101(b) \[title VIII, §§8005, 8006, 8009\], Dec. 19, 1985, 99 Stat. 1185, 1202, 1203, 1204:
 
 “
 
@@ -228,7 +228,7 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 “Sec. 706. \[Authorized use of appropriated funds for expenses incident to maintenance, pay, and allowances of prisoners of war, other persons in Army, Navy, or Air Force custody whose status was determined by Secretary concerned to be similar to prisoners of war, and persons detained in such custody pursuant to Presidential proclamation, and was repealed by Pub. L. 98–525, title XIV, §§1403(a)(1), 1404, Oct. 19, 1984, 98 Stat. 2621, effective Oct. 1, 1985. See section 956(5) of this title.\]
 
-“Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of thistitle by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
+“Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of this title by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
 
 “Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupied by military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
 
@@ -322,7 +322,7 @@ Pub. L. 102–484, div. D, title XLV, §4501, Oct. 23, 1992, 106 Stat. 2769, pro
 
 “(a)
 
-Requirement for Determination.—An amount made available under this Act \[see Tables for classification\] for a program described in subsection (b) may be obligated for that program only if expenditures for that program have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionaryspending limits for fiscal year 1993 (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
+Requirement for Determination.—An amount made available under this Act \[see Tables for classification\] for a program described in subsection (b) may be obligated for that program only if expenditures for that program have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
 “(b)
 
@@ -420,5 +420,5 @@ Pub. L. 93–365, title V, §502, Aug. 5, 1974, 88 Stat. 404, which provided tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2431, 2561, 2608 of this title; title 22 section 2795.
+This section is referred to in sections 113a, 2431, 2561, 2608 of this title; title 22 section 2795.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the appropriate agencies of the Public Health Service, shall make grants to public or nonprofit private entities for the establishment and operation of regional centers whose purpose is to develop,evaluate, and disseminate effective strategies, which utilize quality management measures, to assist public and private health care programs and providers in the appropriate utilization of preventive health care services by specific populations.
+The Secretary, acting through the appropriate agencies of the Public Health Service, shall make grants to public or nonprofit private entities for the establishment and operation of regional centers whose purpose is to develop, evaluate, and disseminate effective strategies, which utilize quality management measures, to assist public and private health care programs and providers in the appropriate utilization of preventive health care services by specific populations.
 
 #### (b) Research and training
 
@@ -14,7 +14,7 @@ In carrying out the purpose described in subsection (a) of this section, the Sec
 
 #### (d) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2000 through 2004.
+For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2000 through 2004.
 
 (July 1, 1944, ch. 373, title III, §330D, as added Pub. L. 106–129, §3, Dec. 6, 1999, 113 Stat. 1670.)
 

@@ -20,7 +20,7 @@ A priority countermeasure that is a drug or biological product shall be consider
 
 #### (d) Definitions
 
-For purposes of this title:<sup>1</sup>
+For purposes of this title: <sup>1</sup>
 
 &emsp;(1) The term “priority countermeasure” has the meaning given such term in section 247d–6(h)(4) of title 42.
 

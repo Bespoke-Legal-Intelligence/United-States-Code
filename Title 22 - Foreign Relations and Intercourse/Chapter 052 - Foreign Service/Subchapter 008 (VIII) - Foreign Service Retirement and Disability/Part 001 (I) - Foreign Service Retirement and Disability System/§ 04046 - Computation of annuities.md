@@ -10,7 +10,7 @@
 
 &emsp;(B) the annuity of a Foreign Service criminal investigator/inspector of such office, who was appointed to a law enforcement position as defined in section 8401(17) of that title on or after January 1, 1984, and who would have been eligible to retire pursuant to section 8412(d) of that title, after attaining 50 years of age and completing 20 years of service as such a law enforcement officer, had the employee remained in the civil service, shall be computed in the same manner as that of a law enforcement officer pursuant to section 8415(d) of that title.
 
-(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to election the annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
+(3) The annuity of a Foreign Service investigator/inspector of the Office of the Inspector General, Agency for International Development, appointed to a law enforcement position prior to January 1, 1984, who exercised election rights under section 4071i of this title, shall be computed as follows: for the period prior to electionthe annuity shall be computed in accordance with section 8339(d) of title 5; for the period following election the annuity shall be computed in accordance with section 8415(d) of that title.
 
 (4) All service in a law enforcement position, as defined in section 8331(20) or 8401(17) of that title, as applicable, in any agency or combination of agencies shall be included in the computation of time for purposes of this paragraph.
 
@@ -56,7 +56,7 @@
 
 (D) The Secretary of State may prescribe regulations under which a participant or former participant may make an election under subparagraph (B) or (C) without the participant's spouse or former spouse if the participant establishes to the satisfaction of the Secretary of State that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the spouse or former spouse.
 
-(2) The annuity of a participant or former participant providing a survivor benefit under this section (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
+(2) The annuity of a participant or former participant providing a survivor benefit under thissection (or section 4054(b) of this title), excluding any portion of the annuity not designated or committed as a base for any survivor annuity, shall be reduced by 21/2 percent of the first $3,600 plus 10 percent of any amount over $3,600. The reduction under this paragraph shall be calculated before any reduction under section 4054(a)(5) of this title.
 
 (3)(A) If a former participant entitled to receive a reduced annuity under this subsection dies and is survived by a spouse, a survivor annuity shall be paid to the surviving spouse equal to 55 percent of the full amount of the participant's annuity computed under subsection (a) of this section, or 55 percent of any lesser amount elected as the base for the survivor benefit under paragraph (1)(B).
 
@@ -66,7 +66,7 @@
 
 #### (c) Surviving children
 
-(1) If an annuitant who was a participant dies and is survived by a spouse or a former spousewho is the natural or adoptive parent of a surviving child of the annuitant and by a child or children, in addition to the annuity payable to the surviving spouse, there shall be paid to or on behalf of each child an annuity equal to the smaller of—
+(1) If an annuitant who was a participant dies and is survived by a spouse or a former spouse who is the natural or adoptive parent of a surviving child of the annuitant and by a child or children, in addition to the annuity payable to the surviving spouse, there shall be paid to or on behalf of each child an annuity equal to the smaller of—
 
 &emsp;(A) $900, or
 
@@ -102,7 +102,7 @@ A participant or former participant who was unmarried at retirement and who late
 
 #### (h) Election of benefits
 
-A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or to the restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
+A surviving spouse or surviving former spouse of any participant or former participant shall not become entitled to a survivor annuity or tothe restoration of a survivor annuity payable from the Fund under this part unless the survivor elects to receive it instead of any other survivor annuity to which he or she may be entitled under this or any other retirement system for Government employees on the basis of a marriage to someone other than that participant.
 
 #### (i) Reversion to retired status
 
@@ -112,7 +112,7 @@ A surviving spouse or surviving former spouse of any participant or former parti
 
 #### (j) Recomputation upon dissolution of marriage; election after remarriage
 
-An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married\(or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
 
 #### (k) Informing of rights by Secretary
 
@@ -170,7 +170,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 #### Amendment of Section
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on</i><i>or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 
@@ -264,7 +264,7 @@ Section 203 of title II of Pub. L. 100–238 provided that:
 
 “(a)
 
-Election.—A former participant who married his or her current spouse before the effective date of theForeign Service Act of 1980 \[see Effective Date note set out under section 3901 of this title\] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—
+Election.—A former participant who married his or her current spouse before the effective date of the Foreign Service Act of 1980 \[see Effective Date note set out under section 3901 of this title\] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—
 
 &emsp;“(1) the participant was married at the time of retirement and elected not to provide a survivor annuity for that spouse at the time of retirement, or
 

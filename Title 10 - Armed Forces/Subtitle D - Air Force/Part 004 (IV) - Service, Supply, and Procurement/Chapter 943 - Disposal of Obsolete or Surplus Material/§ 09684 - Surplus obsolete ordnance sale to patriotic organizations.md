@@ -1,12 +1,12 @@
 ### §9684. Surplus obsolete ordnance: sale to patriotic organizations
 
-Subject to regulations under section 205 of the Federal Property and Administrative ServicesAct of 1949 (40 U.S.C. 486), the Secretary of the Air Force may sell, without advertisement and at prices that he considers reasonable—
+Subject to regulations under section 121 of title 40, the Secretary of the Air Force may sell, without advertisement and at prices that he considers reasonable—
 
 &emsp;(1) surplus obsolete small arms and ammunition and equipment for them, to any patriotic organization for military purposes; and
 
 &emsp;(2) surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 96–513, title V, §514(18), Dec. 12, 1980, 94 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 583; Pub. L. 96–513, title V, §514(18), Dec. 12, 1980, 94 Stat.2936; Pub. L. 107–217, §3(b)(38), Aug. 21, 2002, 116 Stat. 1298.)
 
 Historical and Revision Notes
 
@@ -33,6 +33,8 @@ Mar. 4, 1909, ch. 319, §47, 35 Stat. 1075; June 28, 1950, ch. 383, §402(i), 64
 The words “the Chief of Ordnance” are omitted, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force.
 
 #### Amendments
+
+2002—Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” in introductory provisions.
 
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
 

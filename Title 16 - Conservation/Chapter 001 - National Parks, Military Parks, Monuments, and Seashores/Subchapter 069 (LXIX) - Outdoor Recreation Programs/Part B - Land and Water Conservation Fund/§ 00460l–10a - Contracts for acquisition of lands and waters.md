@@ -18,6 +18,10 @@ A prior section 9 of Pub. L. 88–578 was renumbered section 10 and is classifie
 
 Provisions rescinding contract authority provided for specific fiscal years by 16 U.S.C. 460<i>l</i>–10a were contained in the following appropriation acts:
 
+Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1251.
+
+Pub. L. 108–7, div. F, title I, Feb. 20, 2003, 117 Stat. 226.
+
 Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 425.
 
 Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 930.

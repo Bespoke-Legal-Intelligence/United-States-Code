@@ -80,7 +80,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(i) are primarily—
 
-&emsp;&emsp;&emsp;&emsp;(I) the investigation, apprehension, or detention of individuals suspected or convicted of offenses against the criminal laws of the United States, or
+&emsp;&emsp;&emsp;&emsp;(I) the investigation, apprehension, or detention of individuals suspected orconvicted of offenses against the criminal laws of the United States, or
 
 &emsp;&emsp;&emsp;&emsp;(II) the protection of officials of the United States against threats to personal safety; and
 
@@ -118,7 +118,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(ii) for a fractional part of a month in the total service;
 
-&emsp;(20) the term “Member” has the same meaning as provided in section 2106, except that such term does not include an individual who irrevocably elects, by written notice to the official by whom such individual is paid, not to participate in the Federal Employees’ Retirement System;
+&emsp;(20) the term “Member” has the same meaning as provided in section 2106, except that such term does not include an individual who irrevocably elects, by written notice to the official by whom such individual is paid, not to participate in the Federal Employees’ Retirement System, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004;
 
 &emsp;(21) the term “net earnings” means the excess of earnings over losses;
 
@@ -168,11 +168,17 @@ For the purpose of this chapter—
 
 &emsp;(32) the term “nonforfeitable account balance” means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g));
 
-&emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27); and
+&emsp;(33) “Nuclear materials courier” has the meaning given that term in section 8331(27);
 
-&emsp;(34) the term “Government physician” has the meaning given such term under section 5948.
+&emsp;(34) the term “Government physician” has the meaning given such term under section 5948; and
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056.)
+&emsp;(35) the term “air traffic controller” or “controller” means—
+
+&emsp;&emsp;(A) a controller within the meaning of section 2109(1); and
+
+&emsp;&emsp;(B) a civilian employee of the Department of Transportation or the Department of Defense who is the immediate supervisor of a person described in section 2109(1)(B).
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(<i>o</i>), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529.)
 
 #### References in Text
 
@@ -186,7 +192,13 @@ The Federal Employees’ Retirement System Act of 1986, referred to in par. (17)
 
 The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (19)(A) and (27)(B)(iii)(II), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under section 8331 of this title.
 
+The date of the enactment of the Legislative Branch Appropriations Act, 2004, referred to in par. (20), is the date of enactment of Pub. L. 108–83, which was approved Sept. 30, 2003.
+
 #### Amendments
+
+2003—Par. (20). Pub. L. 108–83 inserted before semicolon at end “, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004”.
+
+Par. (35). Pub. L. 108–176 added par. (35).
 
 2000—Par. (34). Pub. L. 106–571 added par. (34).
 
@@ -234,6 +246,40 @@ Par. (18). Pub. L. 99–556, §109, amended par. (18) generally. Prior to amendm
 
 Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated former subpar. (C) as (D).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–176, title II, §226(c), Dec. 12, 2003, 117 Stat. 2530, provided that:
+
+“(1)
+
+In general.—This section \[amending this section and sections 8331, 8335, 8415, 8422, 8425, 8452, and 8468 of this title\] and the amendments made by this section—
+
+&emsp;“(A) shall take effect on the 60th day after the date of enactment of this Act \[Dec. 12, 2003\]; and
+
+&emsp;“(B) shall apply with respect to—
+
+&emsp;&emsp;“(i) any annuity entitlement to which is based on an individual's separation from service occurring on or after the effective date of this section; and
+
+&emsp;&emsp;“(ii) any service performed by any such individual before, on, or after the effective date of this section, subject to paragraph (2).
+
+“(2)
+
+Special rule.—
+
+&emsp;“(A)
+
+Deposit requirement.—For purposes of determining eligibility for immediate retirement under section 8412(e) of title 5, United States Code, the amendment made by subsection (a)(2) \[amending this section\] shall, with respect to any service described in subparagraph (B), be disregarded unless there is deposited into the Civil Service Retirement and Disability Fund, with respect to such service, in such time, form, and manner as the Office of Personnel Management by regulation requires, an amount equal to the amount by which—
+
+&emsp;&emsp;“(i) the deductions from pay which would have been required for such service if the amendments made by subsection (a)(2) had been in effect when such service was performed, exceeds
+
+&emsp;&emsp;“(ii) the unrefunded deductions or deposits actually made under subchapter II of chapter 84 of such title with respect to such service.
+
+> &emsp;An amount under this subparagraph shall include interest, computed under paragraphs (2) and (3) of section 8334(e) of such title 5.
+
+&emsp;“(B)
+
+Prior service described.—This paragraph applies with respect to any service performed by an individual before the effective date of this section as an employee described in section 8401(35)(B) of title 5, United States Code (as amended by subsection (a)(2)).”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
@@ -246,7 +292,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Effective Date of 1990 Amendments
 
@@ -310,11 +356,21 @@ Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478
 
 #### Short Title
 
-Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331,8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Election
+
+Pub. L. 108–83, title I, §104(b), Sept. 30, 2003, 117 Stat. 1018, provided that:
+
+“(1) During the 60-day period which begins on the date of the enactment of the Legislative Branch Appropriations Act, 2004 \[Sept. 30, 2003\], any individual who, as of such date, is serving as a Member of the House of Representatives and on such date is not subject to chapter 84 of title 5, United States Code, may elect to become subject to such chapter.
+
+“(2) Any election under this paragraph shall be carried out in accordance with such procedures as the Office of Personnel Management may provide.
+
+“(3) In this subsection, the term ‘Member of the House of Representatives’ includes a Delegate or Resident Commissioner to the Congress.”
 
 #### Service as Law Enforcement Officer
 
@@ -354,7 +410,7 @@ Section 702(c) of Pub. L. 99–335 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 7371, 8331, 8351, 8411, 8440e, 8477, 8704 of this title; title 10 sections 2467, 10217; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
+This section is referred to in sections 3307, 3323, 3329, 5541, 6323, 7371, 8331, 8351, 8411, 8425, 8440e, 8477, 8704 of this title; title 10 sections 2467, 10217; title 22 section 4046; title 38 sections 7296, 7426, 7438; title 50 sections 2152, 2154.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

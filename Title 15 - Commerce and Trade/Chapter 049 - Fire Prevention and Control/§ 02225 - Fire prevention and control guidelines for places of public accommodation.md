@@ -28,7 +28,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;(3) The term “governmental authority having jurisdiction” means the Federal, State, local, or other governmental entity with statutory or regulatory authority for the approval of fire safety systems, equipment, installations, or procedures within a specified locality.
 
-(Pub. L. 93–498, §29, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 102–522, title I, §105, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 105–108, §3(1)–(3), Nov. 20, 1997, 111 Stat. 2264.)
+(Pub. L. 93–498, §29, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 102–522, title I, §105, Oct. 26, 1992, 106 Stat.3411; Pub. L. 105–108, §3(1)–(3), Nov. 20, 1997, 111 Stat. 2264.)
 
 #### Amendments
 

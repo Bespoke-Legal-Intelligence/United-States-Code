@@ -14,7 +14,7 @@ The owners of the lands to be conveyed to the United States, before any exchange
 
 #### Electric Power Development Permits
 
-Pub. L. 99–338, June 19, 1986, 100 Stat. 641, as amended by Pub. L. 103–437, §6(d)(4), Nov. 2, 1994, 108 Stat. 4583, provided: “That the Secretary of the Interior is hereby authorized to issue a permit for ten years, and may issue not more than one renewal of equivalent duration, for portions of an existing hydroelectric project, known as the Kaweah Project of Southern California Edison Company, to continue to occupy and use lands of the United States within Sequoia National Park as necessary for continued operation and maintenance.
+Pub. L. 99–338, June 19, 1986, 100 Stat. 641, as amended by Pub. L. 103–437, §6(d)(4), Nov. 2, 1994, 108 Stat. 4583,provided: “That the Secretary of the Interior is hereby authorized to issue a permit for ten years, and may issue not more than one renewal of equivalent duration, for portions of an existing hydroelectric project, known as the Kaweah Project of Southern California Edison Company, to continue to occupy and use lands of the United States within Sequoia National Park as necessary for continued operation and maintenance.
 
 “
 

@@ -44,7 +44,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(A) petroleum coke, shale oil, uranium, biomass, and municipal, industrial, or agricultural wastes, wood, and renewable and geothermal energy sources;
 
-&emsp;&emsp;(B) liquid, solid, or gaseous waste byproducts of refinery or industrial operationswhich are commercially unmarketable, either by reason of quality or quantity, as determined under rules prescribed by the Secretary; and
+&emsp;&emsp;(B) liquid, solid, or gaseous waste byproducts of refinery or industrial operations which are commercially unmarketable, either by reason of quality or quantity, as determined under rules prescribed by the Secretary; and
 
 &emsp;&emsp;(C) waste gases from industrial operations.
 
@@ -88,7 +88,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(ii) any pump or compressor used solely in connection with the production, gathering, transmission, storage, or distribution of gases or liquids, but only if there is certification to the Secretary of such use (in accordance with rules prescribed by the Secretary).
 
-&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unit which has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
+&emsp;(C) For purposes of clause (ii) of subparagraph (A), there shall be excluded any unitwhich has a design capability to consume any fuel (including any mixture thereof) that does not equal or exceed 100 million Btu's per hour and the exclusion of which for purposes of such clause is determined by the Secretary, by rule to be appropriate.
 
 &emsp;(11) The term “new major fuel-burning installation” means—
 

@@ -52,7 +52,7 @@ The purposes for which a grant under this part may be used include delivering or
 
 #### (2) Use of funds
 
-&emsp;From amounts received under a grant awarded under this part for a fiscal year, theState may (in addition to amounts to which section 300ff–28(b)(5) of this title applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
+&emsp;From amounts received under a grant awarded under this part for a fiscal year, the State may (in addition to amounts to which section 300ff–28(b)(5) of this title applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
 
 &emsp;&emsp;(A) 5 percent of amounts received under the grant; or
 

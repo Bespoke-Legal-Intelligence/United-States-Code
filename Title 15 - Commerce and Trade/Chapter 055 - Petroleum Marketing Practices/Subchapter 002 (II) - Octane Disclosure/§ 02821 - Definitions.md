@@ -8,7 +8,7 @@ As used in this subchapter:
 
 &emsp;(3) The term “knock” means the combustion of a fuel spontaneously in localized areas of a cylinder of a spark-ignition engine, instead of the combustion of such fuel progressing from the spark.
 
-&emsp;(4) The term “automotive fuel retailer” means any person who markets automotivefuel to the general public for ultimate consumption.
+&emsp;(4) The term “automotive fuel retailer” means any person who markets automotive fuel to the general public for ultimate consumption.
 
 &emsp;(5) The term “refiner” means any person engaged in the production or importation of automotive fuel.
 
@@ -60,7 +60,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 
@@ -90,7 +90,7 @@ Pars. (17), (18). Pub. L. 102–486, §1501(b), added pars. (17) and (18).
 
 #### Effective Date of 1992 Amendment
 
-Section 1501(d)(1) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending thissection and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
+Section 1501(d)(1) of Pub. L. 102–486 provided that: “The amendments made by this section \[amending this section and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
 
 #### Regulations
 

@@ -46,7 +46,7 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 (3) For purposes of this subsection, the term “executive officer” has the meaning given the term in section 4502 of this title.
 
-(Pub. L. 91–351, title III, §303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, §316(b), Dec. 21,1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, §177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, §731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, §1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004.)
+(Pub. L. 91–351, title III, §303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, §316(b), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, §177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, §731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, §1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004.)
 
 #### Amendments
 

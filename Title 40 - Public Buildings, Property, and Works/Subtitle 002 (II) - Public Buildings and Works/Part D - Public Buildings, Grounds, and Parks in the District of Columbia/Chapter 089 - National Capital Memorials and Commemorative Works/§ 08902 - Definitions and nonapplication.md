@@ -2,37 +2,29 @@
 
 (a)
 
-Definitions.—In this chapter, the following definitions apply:
+Definitions.—In this chapter:
 
 &emsp;(1)
 
-Commemorative work.—The term “commemorative work”—
-
-&emsp;&emsp;(A) means any statue, monument, sculpture, memorial, plaque, inscription, or other structure or landscape feature, including a garden or memorial grove, designed to perpetuate in a permanent manner the memory of an individual, group, event or other significant element of American history; but
-
-&emsp;&emsp;(B) does not include an item described in subclause (A) that is located within the interior of a structure or a structure which is primarily used for other purposes.
+Commemorative work.—The term “commemorative work” means any statue, monument, sculpture, memorial, plaque, inscription, or other structure or landscape feature, including a garden or memorial grove, designed to perpetuate in a permanent manner the memory of an individual, group, event or other significant element of American history, except that the term does not include any such item which is located within the interior of a structure or a structure which is primarily used for other purposes.
 
 &emsp;(2)
 
-Person.—The term “person” means—
-
-&emsp;&emsp;(A) a public agency; and
-
-&emsp;&emsp;(B) an individual, group or organization—
-
-&emsp;&emsp;&emsp;(i) described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from tax under section 501(a) of the Code (26 U.S.C. 501(a)); and
-
-&emsp;&emsp;&emsp;(ii) authorized by Congress to establish a commemorative work in the District of Columbia and its environs.
+The district of columbia and its environs.—The term “the District of Columbia and its environs” means those lands and properties administered by the National Park Service and the General Services Administration located in the Reserve, Area I, and Area II as depicted on the map entitled “Commemorative Areas Washington, DC and Environs”, numbered 869/86501 B, and dated June 24, 2003.
 
 &emsp;(3)
 
-The district of columbia and its environs.—The term “the District of Columbia and its environs” means land and property located in Areas I and II as depicted on the map numbered 869/86501, and dated May 1, 1986, that the National Park Service and the Administrator of General Services administer.
+Reserve.—The term “Reserve” means the great cross-axis of the Mall, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, as depicted on the map referenced in paragraph (2).
+
+&emsp;(4)
+
+Sponsor.—The term “sponsor” means a public agency, or an individual, group or organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, and which is authorized by Congress to establish a commemorative work in the District of Columbia and its environs.
 
 (b)
 
 Nonapplication.—This chapter does not apply to commemorative works authorized by a law enacted before January 3, 1985.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227; Pub. L. 108–126, title II, §203(b), Nov. 17, 2003, 117 Stat. 1350.)
 
 Historical and Revision Notes
 
@@ -61,4 +53,44 @@ In subsection (a), the text of 40:1002(a) and (b) is omitted as unnecessary beca
 In subsection (a)(3), the words “notwithstanding any other provision of law” are omitted as unnecessary. The words “Administrator of General Services” are substituted for “General Services Administration” because of section 101(b) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 379), which is restated as section 302(a) of the revised title.
 
 In subsection (b), the words “January 3, 1985” are substituted for “the commencement of the Ninety-ninth Congress” for clarity.
+
+#### References in Text
+
+Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 501 of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–126 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “In this chapter, the following definitions apply:
+
+&emsp;“(1)
+
+Commemorative work.—The term ‘commemorative work’—
+
+&emsp;&emsp;“(A) means any statue, monument, sculpture, memorial, plaque, inscription, or other structure or landscape feature, including a garden or memorial grove, designed to perpetuate in a permanent manner the memory of an individual, group, event or other significant element of American history; but
+
+&emsp;&emsp;“(B) does not include an item described in subclause (A) that is located within the interior of a structure or a structure which is primarily used for other purposes.
+
+&emsp;“(2)
+
+Person.—The term ‘person’ means—
+
+&emsp;&emsp;“(A) a public agency; and
+
+&emsp;&emsp;“(B) an individual, group or organization—
+
+&emsp;&emsp;&emsp;“(i) described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from tax under section 501(a) of the Code (26 U.S.C. 501(a)); and
+
+&emsp;&emsp;&emsp;“(ii) authorized by Congress to establish a commemorative work in the District of Columbia and its environs.
+
+&emsp;“(3)
+
+The district of columbia and its environs.—The term ‘the District of Columbia and its environs’ means land and property located in Areas I and II as depicted on the map numbered 869/86581, and dated May 1, 1986, that the National Park Service and the Administrator of General Services administer.”
+
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8905 of this title.
 

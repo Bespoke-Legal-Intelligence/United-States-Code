@@ -1,6 +1,6 @@
 ### §16131. Educational assistance program: establishment; amount
 
-(a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Transportation, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
+(a) To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Homeland Security, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
 
 (b)(1) Except as provided in subsections (d) through (f), each educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, to each person entitled to educational assistance under this chapter who is pursuing a program of education of an educational assistance allowance at the following rates:
 
@@ -34,7 +34,7 @@
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
+(C) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 
 (d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistance allowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
 
@@ -84,7 +84,7 @@
 
 (B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
-(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
+(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under thisparagraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
@@ -102,13 +102,15 @@
 
 (i)(1) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under subparagraphs (A) through (D) of subsection (b)(1) as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
 
-(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteriaspecified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
+(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteria specified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
 
 (3) The authority provided by paragraphs (1) and (2) shall be exercised by the Secretaries concerned under regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 328, §2131; amended Pub. L. 96–107, title IV, §402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, §906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, §511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, §422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, §337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, §2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, §12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, §518, Nov. 30, 1993, 107 Stat. 1651; renumbered §16131 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, §1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, §105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, §553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, §8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, §1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1999—Subsec. (b)(1). Pub. L. 106–65 inserted “in” after “Except as provided” in introductory provisions.
 
@@ -120,7 +122,7 @@ Subsec. (b)(1)(B). Pub. L. 105–178, §8203(b)(1)(B), substituted “$188 (as i
 
 Subsec. (b)(1)(C). Pub. L. 105–178, §8203(b)(1)(C), substituted “$125 (as increased from time to time under paragraph (2))” for “$95”.
 
-Subsec. (b)(2). Pub. L. 105–178, §8203(b)(2), in introductory provisions, substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
+Subsec. (b)(2). Pub. L. 105–178, §8203(b)(2), in introductory provisions, substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
 
 1997—Subsec. (c)(3)(B)(i). Pub. L. 105–85 struck out “, in connection with the Persian Gulf War,” after “being ordered”.
 
@@ -201,6 +203,10 @@ Subsec. (c). Pub. L. 96–342 substituted “$1,000” for “$500” and “$4,
 Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Education” for “Commissioner of Education, Department of Health, Education, and Welfare”.
 
 1979—Subsec. (b)(1). Pub. L. 96–107 substituted “100 percent” for “50 percent”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

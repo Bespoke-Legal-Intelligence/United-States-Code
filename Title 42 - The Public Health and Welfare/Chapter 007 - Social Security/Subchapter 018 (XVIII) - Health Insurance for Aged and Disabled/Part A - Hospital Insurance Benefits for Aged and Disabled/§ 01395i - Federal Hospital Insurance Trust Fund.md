@@ -12,17 +12,17 @@ There is hereby created on the books of the Treasury of the United States a trus
 
 #### (b) Board of Trustees; composition; meetings; duties
 
-With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Health Care Financing Administration shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
+With respect to the Trust Fund, there is hereby created a body to be known as the Board of Trustees of the Trust Fund (hereinafter in this section referred to as the “Board of Trustees”) composed of the Commissioner of Social Security, the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate. A member of the Board of Trustees serving as a member of the public and nominated and confirmed to fill a vacancy occurring during a term shall be nominated and confirmed only for the remainder of such term. An individual nominated and confirmed as a member of the public may serve in such position after the expiration of such member's term until the earlier of the time at which the member's successor takes office or the time at which a report of the Board is first issued under paragraph (2) after the expiration of the member's term. The Secretary of the Treasury shall be the Managing Trustee of the Board of Trustees (hereinafter in this section referred to as the “Managing Trustee”). The Administrator of the Centers for Medicare \& Medicaid Services shall serve as the Secretary of the Board of Trustees. The Board of Trustees shall meet not less frequently than once each calendar year. It shall be the duty of the Board of Trustees to—
 
 &emsp;(1) Hold the Trust Fund;
 
-&emsp;(2) Report to the Congress not later than the first day of April of each year on the operation and status of the Trust Fund during the preceding fiscal year and on its expected operation and status during the current fiscal year and the next 2 fiscal years;
+&emsp;(2) Report to the Congress not later than the first day of April of each year on the operation and status of the Trust Fund during the preceding fiscal year and on its expected operation and status during the current fiscal year and the next 2 fiscal years; Each report provided under paragraph (2) beginning with the report in 2005 shall include the information specified in section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.<sup>1</sup>
 
 &emsp;(3) Report immediately to the Congress whenever the Board is of the opinion that the amount of the Trust Fund is unduly small; and
 
 &emsp;(4) Review the general policies followed in managing the Trust Fund, and recommend changes in such policies, including necessary changes in the provisions of law which govern the way in which the Trust Fund is to be managed.
 
-> The report provided for in paragraph (2) shall include a statement of the assets of, and the disbursements made from, the Trust Fund during the preceding fiscal year, an estimate of the expected income to, and disbursements to be made from, the Trust Fund during the current fiscal year and each of the next 2 fiscal years, and a statement of the actuarial status of the Trust Fund. Such report shall also include an actuarial opinion by the Chief Actuarial Officer of the Health Care Financing Administration certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable. Such report shall be printed as a House document of the session of the Congress to which the report is made. A person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
+> The report provided for in paragraph (2) shall include a statement of the assets of, and the disbursements made from, the Trust Fund during the preceding fiscal year, an estimate of the expected income to, and disbursements to be made from, the Trust Fund during the current fiscal year and each of the next 2 fiscal years, and a statement of the actuarial status of the Trust Fund. Such report shall also include an actuarial opinion by the Chief Actuary of the Centers for Medicare \& Medicaid Services certifying that the techniques and methodologies used are generally accepted within the actuarial profession and that the assumptions and cost estimates used are reasonable. Such report shall be printed as a House document of the session of the Congress to which the report is made. A person serving on the Board of Trustees shall not be considered to be a fiduciary and shall not be personally liable for actions taken in such capacity with respect to the Trust Fund.
 
 #### (c) Investment of Trust Fund by Managing Trustee
 
@@ -40,7 +40,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 (1) The Managing Trustee is directed to pay from time to time from the Trust Fund into the Treasury the amount estimated by him as taxes imposed under section 3101(b) which are subject to refund under section 6413(c) of the Internal Revenue Code of 1986 with respect to wages paid after December 31, 1965. Such taxes shall be determined on the basis of the records of wages established and maintained by the Commissioner of Social Security in accordance with the wages reported to the Secretary of the Treasury or his delegate pursuant to subtitle F of the Internal Revenue Code of 1986, and the Commissioner of Social Security shall furnish the Managing Trustee such information as may be required by the Managing Trustee for such purpose. The payments by the Managing Trustee shall be covered into the Treasury as repayments to the account for refunding internal revenue collections.
 
-(2) Repayments made under paragraph (1) shall not be available for expenditures but shall be carried to the surplus fund of the Treasury. If itsubsequently appears that the estimates under such paragraph in any particular period were too high or too low, appropriate adjustments shall be made by the Managing Trustee in future payments.
+(2) Repayments made under paragraph (1) shall not be available for expenditures but shall be carried to the surplus fund of the Treasury. If it subsequently appears that the estimates under such paragraph in any particular period were too high or too low, appropriate adjustments shall be made by the Managing Trustee in future payments.
 
 #### (g) Transfers from other Funds
 
@@ -74,7 +74,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(I) the balance in the Federal Hospital Insurance Trust Fund, as of the last day of such calendar year; to
 
-&emsp;(II) the amount estimated by the Secretary to be the total amount to be paid from the Federal Hospital Insurance Trust Fund during the calendar year following such calendar year (other than payments of interest on, and repayments of, loans from the Federal Old-Age and Survivors Insurance Trust Fund and theFederal Disability Insurance Trust Fund under paragraph (1)), and reducing the amount of any transfer to the Railroad Retirement Account by the amount of any transfers into such Trust Fund from the Railroad Retirement Account.
+&emsp;(II) the amount estimated by the Secretary to be the total amount to be paid from the Federal Hospital Insurance Trust Fund during the calendar year following such calendar year (other than payments of interest on, and repayments of, loans from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund under paragraph (1)), and reducing the amount of any transfer to the Railroad Retirement Account by the amount of any transfers into such Trust Fund from the Railroad Retirement Account.
 
 (C)(i) The full amount of all loans made under paragraph (1) (whether made before or after January 1, 1983) shall be repaid at the earliest feasible date and in any event no later than December 31, 1989.
 
@@ -88,7 +88,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;(i) the combined balance in the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to either such Trust Fund from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title, as of the last day of the second month preceding such month, to
 
-&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title), but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
+&emsp;(ii) the amount obtained by multiplying by twelve the total amount which (as estimated by the Secretary) will be paid from the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund during the month for which such ratio is to be determined for all purposes authorized by section 401 of this title (other than payments of interest on, or repayments of, loans from the Federal Hospital Insurance Trust Fund under section 401(<i>l</i>) of this title),but excluding any transfer payments between such trust funds and reducing the amount of any transfers to the Railroad Retirement Account by the amount of any transfers into either such trust fund from that Account.
 
 #### (k) Health Care Fraud and Abuse Control Account
 
@@ -134,9 +134,9 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums asthe Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to be available without further appropriation, in an amount not to exceed—
+&emsp;&emsp;&emsp;There are hereby appropriated to the Account from the Trust Fund such sums as the Secretary and the Attorney General certify are necessary to carry out the purposes described in subparagraph (C), to be available without further appropriation, in an amount not to exceed—
 
-&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, $104,000,000,<sup>1</sup>
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, $104,000,000;
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 1998 through 2003, the limit for the preceding fiscal year, increased by 15 percent; and
 
@@ -144,7 +144,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (ii) Medicare and medicaid activities
 
-&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the following amounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the Medicare and medicaid programs—
+&emsp;&emsp;&emsp;For each fiscal year, of the amount appropriated in clause (i), the following amounts shall be available only for the purposes of the activities of the Office of the Inspector General of the Department of Health and Human Services with respect to the programs under this subchapter and subchapter XIX of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(I) for fiscal year 1997, not less than $60,000,000 and not more than $70,000,000;
 
@@ -180,7 +180,7 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 #### (C) Use of funds
 
-&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (including equipment, salaries and benefits, and travel and training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
+&emsp;&emsp;The purposes described in this subparagraph are to cover the costs (including equipment, salaries and benefits, and traveland training) of the administration and operation of the health care fraud and abuse control program established under section 1320a–7c(a) of this title, including the costs of—
 
 &emsp;&emsp;&emsp;(i) prosecuting health care matters (through criminal, civil, and administrative proceedings);
 
@@ -234,23 +234,35 @@ There are authorized to be made available for expenditure out of the Trust Fund 
 
 &emsp;&emsp;&emsp;(ii) the amounts appropriated from the Trust Fund for such fiscal years under paragraph (3) and the justification for the expenditure of such amounts;
 
-&emsp;&emsp;(B) identifies any expenditures from the Trust Fund with respect to activities not involving the Medicare program under this subchapter;
+&emsp;&emsp;(B) identifies any expenditures from the Trust Fund with respect to activities not involving the program under this subchapter;
 
 &emsp;&emsp;(C) identifies any savings to the Trust Fund, and any other savings, resulting from expenditures from the Trust Fund; and
 
 &emsp;&emsp;(D) analyzes such other aspects of the operation of the Trust Fund as the Comptroller General of the United States considers appropriate.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1817, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 299; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(d), Oct. 30, 1972, 86 Stat. 1361; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title III, §310(c), June 9, 1980, 94 Stat. 460; Pub. L. 97–123, §1(b), Dec. 29, 1981, 95 Stat. 1659; Pub. L. 98–21, title I, §§141(b), 142(b)(1), (2)(A), (3), (4), 154(b), title III, §341(b), Apr. 20, 1983, 97 Stat. 98, 100, 101, 107, 135; Pub. L. 98–369, div. B, title III, §§2337(a), 2354(b)(2), title VI, §2663(j)(2)(F)(i), July 18, 1984, 98 Stat. 1091, 1100, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–360, title II, §212(c)(3), July 1, 1988, 102 Stat. 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title V, §5106(c), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(c)(1), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 104–191, title II, §201(b), Aug. 21, 1996, 110 Stat. 1993; Pub. L. 105–33, title IV, §4318, Aug. 5, 1997, 111 Stat. 392; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(j)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title VII, §736(a)(5), (6), title VIII, §801(d)(1), title IX, §900(e)(1)(D), Dec. 8, 2003, 117 Stat. 2355, 2359, 2371.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(1), (2), (f)(1), and (k)(2)(C), is classified generally to Title 26, Internal Revenue Code. Subtitle F of such Code appears at section 6001 et seq. of Title 26.
+
+Section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (b)(2), is section 801(a) of Pub. L. 108–173, which is set out as a note under this section.
 
 Sections 242(b) and 249(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(2)(A)(ii), are sections 242(b) and 249(b) of Pub. L. 104–191, which are set out as notes under this section.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–173, §900(e)(1)(D), in fifth sentence of introductory provisions, substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”, and, in second sentence of concluding provisions, substituted “Chief Actuary of the Centers for Medicare \& Medicaid Services” for “Chief Actuarial Officer of the Health Care Financing Administration”.
+
+Subsec. (b)(2). Pub. L. 108–173, §801(d)(1), inserted at end “Each report provided under paragraph (2) beginning with the report in 2005 shall include the information specified in section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.”
+
+Subsec. (k)(3)(A)(i)(I). Pub. L. 108–173, §736(a)(5)(A), substituted semicolon for comma at end.
+
+Subsec. (k)(3)(A)(ii). Pub. L. 108–173, §736(a)(5)(B), substituted “the programs under this subchapter and subchapter XIX of this chapter” for “the Medicare and medicaid programs” in introductory provisions.
+
+Subsec. (k)(6)(B). Pub. L. 108–173, §736(a)(6), substituted “program under this subchapter” for “Medicare program under this subchapter”.
 
 1999—Subsec. (k)(2)(C)(i). Pub. L. 106–113 substituted “section 24(a)” for “section 982(a)(6)(B)”.
 
@@ -286,7 +298,7 @@ Subsec. (c). Pub. L. 98–369, §2354(b)(2), substituted “under chapter 31 of 
 
 Subsecs. (f)(1), (g), (h). Pub. L. 98–369, §2663(j)(2)(F)(i), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-1983—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferredto the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
+1983—Subsec. (a). Pub. L. 98–21, §141(b)(1)(A), in provisions following par. (2) substituted “monthly on the first day of each calendar month” for “from time to time”, substituted “to be paid to or deposited into the Treasury during such month” for “paid to or deposited into the Treasury”, and inserted provision that all amounts transferred to the Trust Fund under existing provisions shall be invested by the Managing Trustee in the same manner and to the same extent as the other assets of the Trust Fund; and the Trust Fund shall pay interest to the general fund on the amount so transferred on the first day of any month at a rate (calculated on a daily basis, and applied against the difference between the amount so transferred on such first day and the amount which would have been transferred to the Trust Fund up to that day under the procedures in effect on Jan. 1, 1983) equal to the rate earned by the investments of the Trust Fund in the same month under subsection (c).
 
 Subsec. (b). Pub. L. 98–21, §341(b)(1), substituted in provisions preceding par. (1) “Secretary of Health and Human Services, all ex officio, and of two members of the public (both of whom may not be from the same political party), who shall be nominated by the President for a term of four years and subject to confirmation by the Senate” for “Secretary of Health, Education, and Welfare, all ex officio”.
 
@@ -364,6 +376,206 @@ Amendment by Pub. L. 92–603 applicable with respect to gifts and bequests rece
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (b)(2) of this section are listed in item 7 on page 143), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
+#### Restoration of Medicare Trust Funds
+
+Pub. L. 108–173, title VII, §734, Dec. 8, 2003, 117 Stat. 2352, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Clerical error.—The term ‘clerical error’ means a failure that occurs on or after April 15, 2001, to have transferred the correct amount from the general fund of the Treasury to a Trust Fund.
+
+&emsp;“(2)
+
+Trust fund.—The term ‘Trust Fund’ means the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t).
+
+“(b)
+
+Correction of Trust Fund Holdings.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Treasury shall take the actions described in paragraph (2) with respect to the Trust Fund with the goal being that, after such actions are taken, the holdings of the Trust Fund will replicate, to the extent practicable in the judgment of the Secretary of the Treasury, in consultation with the Secretary \[of Health and Human Services\], the holdings that would have been held by the Trust Fund if the clerical error involved had not occurred.
+
+&emsp;“(2)
+
+Obligations issued and redeemed.—The Secretary of the Treasury shall—
+
+&emsp;&emsp;“(A) issue to the Trust Fund obligations under chapter 31 of title 31, United States Code, that bear issue dates, interest rates, and maturity dates that are the same as those for the obligations that—
+
+&emsp;&emsp;&emsp;“(i) would have been issued to the Trust Fund if the clerical error involved had not occurred; or
+
+&emsp;&emsp;&emsp;“(ii) were issued to the Trust Fund and were redeemed by reason of the clerical error involved; and
+
+&emsp;&emsp;“(B) redeem from the Trust Fund obligations that would have been redeemed from the Trust Fund if the clerical error involved had not occurred.
+
+“(c)
+
+Appropriation.—There is appropriated to the Trust Fund, out of any money in the Treasury not otherwise appropriated, an amount determined by the Secretary of the Treasury, in consultation with the Secretary, to be equal to the interest income lost by the Trust Fund through the date on which the appropriation is being made as a result of the clerical error involved.
+
+“(d)
+
+Congressional Notice.—In the case of a clerical error that occurs after April 15, 2001, the Secretary of the Treasury, before taking action to correct the error under this section, shall notify the appropriate committees of Congress concerning such error and the actions to be taken under this section in response to such error.
+
+“(e)
+
+Deadline.—With respect to the clerical error that occurred on April 15, 2001, not later than 120 days after the date of the enactment of this Act \[Dec. 8, 2003\]—
+
+&emsp;“(1) the Secretary of the Treasury shall take the actions under subsection (b)(1); and
+
+&emsp;“(2) the appropriation under subsection (c) shall be made.”
+
+#### Inclusion in Annual Report of Medicare Trustees of Information on Status of Medicare Trust Funds
+
+Pub. L. 108–173, title VIII, §801, Dec. 8, 2003, 117 Stat. 2357, provided that:
+
+“(a)
+
+Determinations of Excess General Revenue Medicare Funding.—
+
+&emsp;“(1)
+
+In general.—The Board of Trustees of each medicare trust fund shall include in the annual reports submitted under subsection (b)(2) of sections 1817 and 1841 of the Social Security Act (42 U.S.C. 1395i and 1395t)—
+
+&emsp;&emsp;“(A) the information described in subsection (b); and
+
+&emsp;&emsp;“(B) a determination as to whether there is projected to be excess general revenue medicare funding (as defined in subsection (c)) for the fiscal year in which the report is submitted or for any of the succeeding 6 fiscal years.
+
+&emsp;“(2)
+
+Medicare funding warning.—For purposes of section 1105(h) of title 31, United States Code, and this subtitle \[subtitle A (§§801–804) of title VIII of Pub. L. 108–173, amending this section, section 1395t of this title, and section 1105 of Title 31, Money and Finance, and enacting provisions set out as a note under section 1105 of Title 31\], an affirmative determination under paragraph (1)(B) in 2 consecutive annual reports shall be treated as a medicare funding warning in the year in which the second such report is made.
+
+&emsp;“(3) 7-
+
+fiscal-year reporting period.—For purposes of this subtitle, the term ‘7-fiscal-year reporting period’ means, with respect to a year in which an annual report described in paragraph (1) is made, the period of 7 consecutive fiscal years beginning with the fiscal year in which the report is submitted.
+
+“(b)
+
+Information.—The information described in this subsection for an annual report in a year is as follows:
+
+&emsp;“(1)
+
+Projections of growth of general revenue spending.—A statement of the general revenue medicare funding as a percentage of the total medicare outlays for each of the following:
+
+&emsp;&emsp;“(A) Each fiscal year within the 7-fiscal-year reporting period.
+
+&emsp;&emsp;“(B) Previous fiscal years and as of 10, 50, and 75 years after such year.
+
+&emsp;“(2)
+
+Comparison with other growth trends.—A comparison of the trend of such percentages with the annual growth rate in the following:
+
+&emsp;&emsp;“(A) The gross domestic product.
+
+&emsp;&emsp;“(B) Private health costs.
+
+&emsp;&emsp;“(C) National health expenditures.
+
+&emsp;&emsp;“(D) Other appropriate measures.
+
+&emsp;“(3)
+
+Part d spending.—Expenditures, including trends in expenditures, under part D of title XVIII of the Social Security Act \[part D of this subchapter\], as added by section 101.
+
+&emsp;“(4)
+
+Combined medicare trust fund analysis.—A financial analysis of the combined medicare trust funds if general revenue medicare funding were limited to the percentage specified in subsection (c)(1)(B) of total medicare outlays.
+
+“(c)
+
+Definitions.—For purposes of this section:
+
+&emsp;“(1)
+
+Excess general revenue medicare funding.—The term ‘excess general revenue medicare funding’ means, with respect to a fiscal year, that—
+
+&emsp;&emsp;“(A) general revenue medicare funding (as defined in paragraph (2)), expressed as a percentage of total medicare outlays (as defined in paragraph (4)) for the fiscal year; exceeds
+
+&emsp;&emsp;“(B) 45 percent.
+
+&emsp;“(2)
+
+General revenue medicare funding.—The term ‘general revenue medicare funding’ means for a year—
+
+&emsp;&emsp;“(A) the total medicare outlays (as defined in paragraph (4)) for the year; minus
+
+&emsp;&emsp;“(B) the dedicated medicare financing sources (as defined in paragraph (3)) for the year.
+
+&emsp;“(3)
+
+Dedicated medicare financing sources.—The term ‘dedicated medicare financing sources’ means the following:
+
+&emsp;&emsp;“(A)
+
+Hospital insurance tax.—Amounts appropriated to the Hospital Insurance Trust Fund under the third sentence of section 1817(a) of the Social Security Act (42 U.S.C. 1395i(a)) and amounts transferred to such Trust Fund under section 7(c)(2) of the Railroad Retirement Act of 1974 (45 U.S.C. 231f(c)(2)).
+
+&emsp;&emsp;“(B)
+
+Taxation of certain oasdi benefits.—Amounts appropriated to the Hospital Insurance Trust Fund under section 121(e)(1)(B) of the Social Security Amendments of 1983 (Public Law 98–21) \[set out as a note under section 401 of this title\], as inserted by section 13215(c) of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66).
+
+&emsp;&emsp;“(C)
+
+State transfers.—The State share of amounts paid to the Federal Government by a State under section 1843 of the Social Security Act (42 U.S.C. 1395v) or pursuant to section 1935(c) of such Act \[section 1396u–5(c) of this title\].
+
+&emsp;&emsp;“(D)
+
+Premiums.—The following premiums:
+
+&emsp;&emsp;&emsp;“(i)
+
+Part a.—Premiums paid by non-Federal sources under sections 1818 and section \[sic\] 1818A (42 U.S.C. 1395i–2 and 1395i–2a) of such Act.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Part b.—Premiums paid by non-Federal sources under section 1839 of such Act (42 U.S.C. 1395r), including any adjustments in premiums under such section.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Part d.—Monthly beneficiary premiums paid under part D of title XVIII of such Act \[part D of this subchapter\], as added by section 101, and MA monthly prescription drug beneficiary premiums paid under part C of such title \[part C of this subchapter\] insofar as they are attributable to basic prescription drug coverage.
+
+> &emsp;Premiums under clauses (ii) and (iii) shall be determined without regard to any reduction in such premiums attributable to a beneficiary rebate under section 1854(b)(1)(C) of such title \[section 1395w–24(b)(1)(C) of this title\], as amended by section 222(b)(1), and premiums under clause (iii) are deemed to include any amounts paid under section 1860D–13(b) of such title \[section 1395w–113(b) of this title\], as added by section 101.
+
+&emsp;&emsp;“(E)
+
+Gifts.—Amounts received by the medicare trust funds under section 201(i) of the Social Security Act (42 U.S.C. 401(i)).
+
+&emsp;“(4)
+
+Total medicare outlays.—The term ‘total medicare outlays’ means total outlays from the medicare trust funds and shall—
+
+&emsp;&emsp;“(A) include payments made to plans under part C of title XVIII of the Social Security Act \[part C of this subchapter\] that are attributable to any rebates under section 1854(b)(1)(C) of such Act (42 U.S.C. 1395w–24(b)(1)(C)), as amended by section 222(b)(1);
+
+&emsp;&emsp;“(B) include administrative expenditures made in carrying out title XVIII of such Act \[this subchapter\] and Federal outlays under section 1935(b) of such Act \[section 1396u–5(b) of this title\], as added by section 103(a)(2); and
+
+&emsp;&emsp;“(C) offset outlays by the amount of fraud and abuse collections insofar as they are applied or deposited into a medicare trust fund.
+
+&emsp;“(5)
+
+Medicare trust fund.—The term ‘medicare trust fund’ means—
+
+&emsp;&emsp;“(A) the Federal Hospital Insurance Trust Fund established under section 1817 of the Social Security Act (42 U.S.C. 1395i); and
+
+&emsp;&emsp;“(B) the Federal Supplementary Medical Insurance Trust Fund established under section 1841 of such Act (42 U.S.C. 1395t), including the Medicare Prescription Drug Account under such Trust Fund.
+
+“(d)
+
+Conforming Amendments.—
+
+&emsp;“(1)
+
+Federal hospital insurance trust fund \[Amended section 1395i of this title\].
+
+&emsp;“(2)
+
+Federal supplementary medical insurance trust fund \[Amended section 1395t of this title\].
+
+“(e)
+
+Notice of Medicare Funding Warning.—Whenever any report described in subsection (a) contains a determination that for any fiscal year within the 7-fiscal-year reporting period there will be excess general revenue medicare funding, Congress and the President should address the matter under existing rules and procedures.”
+
 #### Criminal Fines Deposited in Federal Hospital Insurance Trust Fund
 
 Section 242(b) of Pub. L. 104–191 provided that: “The Secretary of the Treasury shall deposit into the Federal Hospital Insurance Trust Fund pursuant to section 1817(k)(2)(C) of the Social Security Act (42 U.S.C. 1395i) an amount equal to the criminal fines imposed under section 1347 of title 18, United States Code (relating to health care fraud).”
@@ -408,5 +620,5 @@ Notwithstanding subsec. (b)(2) of this section, the annual report of the Board o
 
 This section is referred to in sections 401, 417, 426a, 429, 910, 1320a–7a, 1320b–12, 1395b–1, 1395i–1, 1395gg, 1395vv, 1395yy, 1395ggg, 1396m of this title.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. See 2003 Amendment note below.</i>
 

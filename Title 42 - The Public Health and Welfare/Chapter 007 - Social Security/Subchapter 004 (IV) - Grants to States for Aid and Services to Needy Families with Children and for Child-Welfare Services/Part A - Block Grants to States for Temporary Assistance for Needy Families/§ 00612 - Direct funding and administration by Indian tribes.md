@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal family assistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in which lies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
+&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal family assistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in whichlies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
 
 #### (B) Amount determined
 
@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each eligible Indian tribe that proposes to operate a program described in subparagraph (C) a grant in an amount equal to the amount received by the Indian tribe in fiscal year 1994 under section 682(i) of this title (as in effect during fiscal year 1994).
+&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003, the Secretary shall pay to each eligible Indian tribe that proposes to operate a program described in subparagraph (C) a grant in an amount equal to the amount received by the Indian tribe in fiscal year 1994 under section 682(i) of this title (as in effect during fiscal year 1994).
 
 #### (B) Eligible Indian tribe
 
@@ -112,7 +112,7 @@ The Secretary, with the participation of Indian tribes, shall establish for each
 
 #### (d) Emergency assistance
 
-Nothing in this section shall preclude an Indian tribe from seeking emergency assistancefrom any Federal loan program or emergency fund.
+Nothing in this section shall preclude an Indian tribe from seeking emergency assistance from any Federal loan program or emergency fund.
 
 #### (e) Accountability
 
@@ -146,11 +146,11 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 &emsp;An Indian tribe described in paragraph (1) may apply to the appropriate State authority to receive a waiver of the requirement of paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12.)
+(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12; Pub. L. 108–40, §3(h), June 30, 2003, 117 Stat. 837.)
 
 #### References in Text
 
-Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+Part F of this subchapter, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of thistitle, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 682 of this title, referred to in subsec. (a)(2)(A), (B), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
@@ -161,6 +161,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 A prior section 612, act Aug. 14, 1935, ch. 531, title IV, §412, as added June 17, 1980, Pub. L. 96–272, title III, §303, 94 Stat. 528; amended Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2306(b), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §155(a), 96 Stat. 397, related to prorating shelter allowance for AFDC family living with another household, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
+
+2003—Subsec. (a)(1)(A), (2)(A). Pub. L. 108–40 substituted “2002, and 2003” for “and 2002”.
 
 2000—Subsec. (a)(3)(A). Pub. L. 106–554 substituted “603(a)(5)(H)” for “603(a)(5)(I)”.
 
@@ -183,6 +185,10 @@ Subsec. (f). Pub. L. 105–33, §5508(f), added subsec. (f). Former subsec. (f) 
 Subsec. (f)(1). Pub. L. 105–33, §5508(e), substituted “(b), and (c)” for “and (b)”.
 
 Subsecs. (g) to (i). Pub. L. 105–33, §5508(f), redesignated subsecs. (f) to (h) as (g) to (i), respectively.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
 
 #### Effective Date of 2000 Amendment
 

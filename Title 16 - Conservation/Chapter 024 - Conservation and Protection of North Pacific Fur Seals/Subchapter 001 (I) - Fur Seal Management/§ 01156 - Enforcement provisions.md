@@ -2,13 +2,13 @@
 
 #### (a) Search of vessels; certificate of identification; exhibition to master
 
-Any person authorized to enforce the provisions of this chapter who has reasonable cause to believe that any vessel outfitted for the harvesting of living marine resources and subject to the jurisdiction of any of the parties to the Convention is violating the provisions of article III of the Convention may, except within the areas in which another State exercises fisheries jurisdiction, board and search such vessel. Such person shall carry a special certificate of identification issued by the Secretary or Secretary of the department in which the Coast Guard is operating which shall be in English, Japanese, and Russian and which shall be exhibited to the master of the vessel upon request.
+Any person authorized to enforce the provisions of this chapter who has reasonable causeto believe that any vessel outfitted for the harvesting of living marine resources and subject to the jurisdiction of any of the parties to the Convention is violating the provisions of article III of the Convention may, except within the areas in which another State exercises fisheries jurisdiction, board and search such vessel. Such person shall carry a special certificate of identification issued by the Secretary or Secretary of the department in which the Coast Guard is operating which shall be in English, Japanese, and Russian and which shall be exhibited to the master of the vessel upon request.
 
 #### (b) Seizure; arrest; notice; delivery of vessel or person to authorized officials; custody
 
 If, after boarding and searching such vessel, such person continues to have reasonable cause to believe that such vessel, or any person onboard, is violating said article, he may seize such vessel or arrest such person, or both. The Secretary of State shall, as soon as practicable, notify the party having jurisdiction over the vessel or person of such seizure or arrest.
 
-The Secretary or the Secretary of the department in which the Coast Guard is operating, upon request of the Secretary of State, shall deliver the seized vessel or arrested person, or both, as promptly as practicable to the authorized officials of said party: <i>Provided</i>, That whenever said party cannot immediately accept such delivery, the Secretary or the Secretary of thedepartment in which the Coast Guard is operating may, upon the request of the Secretary of State, keep the vessel or person in custody within the United States.
+The Secretary or the Secretary of the department in which the Coast Guard is operating, upon request of the Secretary of State, shall deliver the seized vessel or arrested person, or both, as promptly as practicable to the authorized officials of said party: <i>Provided</i>, That whenever said party cannot immediately accept such delivery, the Secretary or the Secretary of the department in which the Coast Guard is operating may, upon the request of the Secretary of State, keep the vessel or person in custody within the United States.
 
 #### (c) Testimony of enforcement agents
 

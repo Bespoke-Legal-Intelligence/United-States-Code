@@ -210,7 +210,7 @@ Nothing in this organization plan shall divert the Secretary of any function ves
 
 #### Sec. 7. Interim Officers
 
-(a) The President may authorize any person who immediately prior to the effective date of this reorganization plan held a position in the executive branch of theGovernment to act as Administrator until the office of Administrator is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
+(a) The President may authorize any person who immediately prior to the effective date of this reorganization plan held a position in the executive branch of the Government to act as Administrator until the office of Administrator is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
 
 (b) The President may similarly authorize any such person to act as Deputy Administrator.
 

@@ -20,7 +20,7 @@ Any person who—
 
 &emsp;&emsp;(B) a gross valuation overstatement as to any material matter,
 
-> shall pay, with respect to each activity described in paragraph (1), a penalty equal to the $1,000 or, if the person establishes that it is lesser, 100 percent of the gross income derived (or to be derived) by such person from such activity. For purposes of the preceding sentence, activities described in paragraph (1)(A) with respect to each entity or arrangement shall be treated as a separate activity and participation in each sale described in paragraph (1)(B) shall be so treated.
+> shall pay, with respect to each activity described in paragraph (1), a penalty equal to the $1,000 or, if the person establishes that it is lesser, 100 percent of the gross income derived (or tobe derived) by such person from such activity. For purposes of the preceding sentence, activities described in paragraph (1)(A) with respect to each entity or arrangement shall be treated as a separate activity and participation in each sale described in paragraph (1)(B) shall be so treated.
 
 #### (b) Rules relating to penalty for gross valuation overstatements
 

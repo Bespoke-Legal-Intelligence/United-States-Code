@@ -10,7 +10,7 @@ A State educational agency may apply for a grant under this part for a grant per
 
 #### (A) Contractual partners
 
-&emsp;&emsp;In order to be considered for a grant under this part, a State educational agency shall establish a partnership with local educational agencies and other State agenciesinvolved in, or concerned with, the education of children with disabilities.
+&emsp;&emsp;In order to be considered for a grant under this part, a State educational agency shallestablish a partnership with local educational agencies and other State agencies involved in, or concerned with, the education of children with disabilities.
 
 #### (B) Other partners
 

@@ -36,7 +36,7 @@ No agreement entered into pursuant to subsection (b) of this section shall provi
 
 &emsp;(1) the construction and operation of any production or utilization facility or any uranium enrichment facility;
 
-&emsp;(2) the export from or import into the United States of byproduct, source, or special nuclearmaterial, or of any production or utilization facility;
+&emsp;(2) the export from or import into the United States of byproduct, source, or special nuclear material, or of any production or utilization facility;
 
 &emsp;(3) the disposal into the ocean or sea of byproduct, source, or special nuclear waste materials as defined in regulations or orders of the Commission;
 
@@ -54,7 +54,7 @@ The Commission shall enter into an agreement under subsection (b) of this sectio
 
 #### (e) Publication in Federal Register; comment of interested persons
 
-(1) Before any agreement under subsection (b) of this section is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) of this section shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
+(1) Before any agreement under subsection (b) of this section is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) of this section shall be published once each weekfor four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
 
 (2) Each proposed agreement shall include the proposed effective date of such proposed agreement or exemptions. The agreement and exemptions shall be published in the Federal Register within thirty days after signature by the Commission and the Governor.
 
@@ -76,7 +76,7 @@ The Commission in carrying out its licensing and regulatory responsibilities und
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
-(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has becomeeffective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
 (2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
@@ -124,7 +124,7 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 &emsp;&emsp;(C) require for each license which has a significant impact on the human environment a written analysis (which shall be available to the public before the commencement of any such proceedings) of the impact of such license, including any activities conducted pursuant thereto, on the environment, which analysis shall include—
 
-&emsp;&emsp;&emsp;(i) an assessment of the radiological and nonradiological impacts to the publichealth of the activities to be conducted pursuant to such license;
+&emsp;&emsp;&emsp;(i) an assessment of the radiological and nonradiological impacts to the public health of the activities to be conducted pursuant to such license;
 
 &emsp;&emsp;&emsp;(ii) an assessment of any impact on any waterway and groundwater resulting from such activities;
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 95–604 effective Nov. 8, 1978, see section 208 of Pub. L.
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
 #### State Authorities and Agreements Respecting Byproduct Material; Entry and Effective Dates of Agreements
 
@@ -186,7 +186,7 @@ Section 204(g), (h) of Pub. L. 95–604, as amended by Pub. L. 96–106, §22(a)
 
 “(2) An agreement entered into with any State as permitted under section 274 of the Atomic Energy Act of 1954 \[this section\] with respect to byproduct material as defined in section 11 e. (2) of such Act. \[section 2014(e)(2) of this title\], may be entered into at any time after the date of the enactment of this Act \[Nov. 8, 1978\] but no such agreement may take effect before the date three years after the date of the enactment of this Act.
 
-“(3) Notwithstanding any other provision of this title \[See Effective Date of 1978 Amendment note set out under section 2014 of this title\], where a State assumes or has assumed, pursuant to an agreement entered into under section 274 b. of the Atomic Energy Act of 1954 \[subsec. (b) of this section\], authority over any activity which results in the production of byproduct material, as defined in section 11 e. (2) of such Act \[section 2014(e)(2) of this title\], the Commission shall not, until the end of the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\], have licensing authority over such byproduct material produced in any activity covered by such agreement, unless the agreement is terminated, suspended, or amended to provide for such Federal licensing. If, at the end of such three-year period, a State has not entered into such an agreement with respect to byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954, the Commission shall have authority over such byproduct material: <i>Provided, however</i>, That, in the case of a State which has exercised any authority under State law pursuant to an agreement entered into under section 274 of the Atomic Energy Act of 1954 \[this section\], the State authority over such byproduct material may be terminated, and the Commission authority over such material may be exercised, only after compliance by the Commission with the same procedures as are applicable in the case of termination of agreements under section 274j. of the Atomic Energy Act of 1954 \[subsec. (j) of this section\].”
+“(3) Notwithstanding any other provision of this title \[See Effective Date of 1978 Amendment note set out under section 2014 of this title\], where a State assumes or has assumed, pursuant to an agreement entered into under section 274 b. of the Atomic Energy Act of 1954 \[subsec. (b) of this section\], authority over any activity which results in the production of byproduct material, as defined in section 11 e. (2) of such Act \[section 2014(e)(2) of this title\], the Commission shall not, untilthe end of the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\], have licensing authority over such byproduct material produced in any activity covered by such agreement, unless the agreement is terminated, suspended, or amended to provide for such Federal licensing. If, at the end of such three-year period, a State has not entered into such an agreement with respect to byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954, the Commission shall have authority over such byproduct material: <i>Provided, however</i>, That, in the case of a State which has exercised any authority under State law pursuant to an agreement entered into under section 274 of the Atomic Energy Act of 1954 \[this section\], the State authority over such byproduct material may be terminated, and the Commission authority over such material may be exercised, only after compliance by the Commission with the same procedures as are applicable in the case of termination of agreements under section 274j. of the Atomic Energy Act of 1954 \[subsec. (j) of this section\].”
 
 #### Federal Compliance With Pollution Control Standards
 

@@ -74,7 +74,7 @@ A drug may be compounded under subsection (a) of this section only if the pharma
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumerorganizations, and other experts selected by the Secretary.
+&emsp;The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
 
 #### (2) Limiting compounding
 
@@ -90,7 +90,7 @@ This section shall not apply to—
 
 #### (f) “Compounding” defined
 
-As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturer and other manufacturer directions consistent with that labeling.
+As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturerand other manufacturer directions consistent with that labeling.
 
 (June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328.)
 

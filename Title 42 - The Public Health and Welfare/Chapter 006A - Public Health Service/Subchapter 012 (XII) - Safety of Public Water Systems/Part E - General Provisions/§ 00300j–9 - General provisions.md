@@ -54,7 +54,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (3)(A) Any person adversely affected or aggrieved by an order issued under paragraph (2) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
 
-(B) An order of the Secretary with respect to which review could have been obtained undersubparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
+(B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
 (4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
 

@@ -24,5 +24,5 @@ Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1725, 1735 of this title.
+This section is referred to in section 1735 of this title.
 

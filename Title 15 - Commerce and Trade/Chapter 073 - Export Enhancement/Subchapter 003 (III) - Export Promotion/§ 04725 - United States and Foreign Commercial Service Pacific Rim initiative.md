@@ -24,7 +24,7 @@ As used in this section, the term “United States person” means—
 
 &emsp;(1) a United States citizen; or
 
-&emsp;(2) a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
+&emsp;(2) a corporation, partnership, or other association created under the laws of the UnitedStates or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
 
 (Pub. L. 100–418, title II, §2306, Aug. 23, 1988, 102 Stat. 1344.)
 

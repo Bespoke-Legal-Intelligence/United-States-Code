@@ -64,7 +64,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3362, 9701 of this title; title 10 section 1124; title 28 sections 995, 996.
+This chapter is referred to in sections 3362, 9701, 9902 of this title; title 10 section 1124; title 28 sections 995, 996.
 
 
 ---

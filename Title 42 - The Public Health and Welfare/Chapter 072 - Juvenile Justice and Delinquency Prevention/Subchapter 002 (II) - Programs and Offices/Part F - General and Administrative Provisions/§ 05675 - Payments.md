@@ -14,7 +14,7 @@ Except as provided in the second sentence of section 5632(c) of this title, fina
 
 (2) If a State does not have an adequate forum to enforce grant provisions imposing any liability on Indian tribes, the Administrator may waive State liability attributable to the liability of such tribes and may pursue such legal remedies as are necessary.
 
-(Pub. L. 93–415, title II, §299D, formerly §295, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18,1988, 102 Stat. 4450; renumbered §299D, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; amended Pub. L. 107–273, div. C, title II, §12221(a)(3), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title II, §299D, formerly §295, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18, 1988, 102 Stat. 4450; renumbered §299D, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; amended Pub. L. 107–273, div. C, title II, §12221(a)(3), Nov. 2, 2002, 116 Stat. 1894.)
 
 #### Amendments
 
@@ -22,7 +22,7 @@ Except as provided in the second sentence of section 5632(c) of this title, fina
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date
 

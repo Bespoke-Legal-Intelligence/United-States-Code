@@ -134,7 +134,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Commissioner for Education Statistics may decline to make available through public means, such as posting on the Internet, distribution to the media,distribution through public agencies, or in response to a request under section 552 of title 5, for a period, not to exceed 10 years after initial use, cognitive questions that the Commissioner for Education Statistics intends to reuse in the future.
+&emsp;&emsp;&emsp;The Commissioner for Education Statistics may decline to make available through public means, such as posting on the Internet, distribution to the media, distribution through public agencies, or in response to a request under section 552 of title 5, for a period, not to exceed 10 years after initial use, cognitive questions that the Commissioner for Education Statistics intends to reuse in the future.
 
 #### (ii) Extension
 
@@ -214,7 +214,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 #### (3) Reporting
 
-&emsp;After determining that such levels are reasonable, valid, and informative to the public,as the result of an evaluation under subsection (f) of this section, the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
+&emsp;After determining that such levels are reasonable, valid, and informative to the public, as the result of an evaluation under subsection (f) of this section, the Commissioner for Education Statistics shall use such levels or other methods or indicators for reporting results of the National Assessment and State assessments.
 
 #### (4) Review
 
@@ -234,7 +234,7 @@ The Commissioner for Education Statistics shall, with the advice of the Assessme
 
 &emsp;&emsp;&emsp;(i) whether any authorized assessment is properly administered, produces high quality data that are valid and reliable, is consistent with relevant widely accepted professional assessment standards, and produces data on student achievement that are not otherwise available to the State (other than data comparing participating States to each other and the Nation);
 
-&emsp;&emsp;&emsp;(ii) whether student achievement levels are reasonable, valid, reliable, and informative to the public;–<sup>2</sup>
+&emsp;&emsp;&emsp;(ii) whether student achievement levels are reasonable, valid, reliable, and informative to the public;– <sup>2</sup>
 
 &emsp;&emsp;&emsp;(iii) whether any authorized assessment is being administered as a random sample and is reporting the trends in academic achievement in a valid and reliable manner in the subject areas being assessed;
 

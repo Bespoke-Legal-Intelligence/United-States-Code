@@ -58,7 +58,7 @@ The Secretary shall establish and, for each of fiscal years 2003 through 2007, c
 
 #### (2) Resource planning
 
-&emsp;The Secretary may assist producers that enter into conservation security contracts in developing a comprehensive, long-term strategy for improving and maintaining all natural resources of the agricultural operation of the producer.
+&emsp;The Secretary may assist producers that enter into conservation security contracts indeveloping a comprehensive, long-term strategy for improving and maintaining all natural resources of the agricultural operation of the producer.
 
 #### (d) Conservation contracts and practices
 

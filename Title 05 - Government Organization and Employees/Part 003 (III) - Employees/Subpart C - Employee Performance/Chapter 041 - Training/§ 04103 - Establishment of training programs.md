@@ -174,7 +174,7 @@ Sec. 401. The following functions vested in the President are hereby delegated t
 
 (b) The authority under section 4111(a) of Title 5, United States Code, to fix by regulation the extent to which the contributions, awards, and payments referred to in that section may be made to and accepted by employees.
 
-Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agency for his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
+Sec. 402. The authority vested in the President by section 4101(6)(B) of Title 5, United States Code, to designate a foreign government or international organization or instrumentality of either as eligible to provide training, is hereby delegated to the head of each agencyfor his employees except that each such designation shall be made only after the agency head concerned has obtained and given due consideration to the advice of the Department of State thereon prior to the first use of such training facility and thereafter periodically but not less often than once every three years.
 
 #### Part V—Revocation of Prior Order
 
@@ -220,7 +220,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13111. Using Technology To Improve Training Opportunities for Federal Government Employees
 
-Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419; Ex. Ord. No. 13218, §3(a), June 20, 2001, 66 F.R. 33628, provided:
+Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419; Ex. Ord. No. 13218, §3(a), June 20, 2001, 66 F.R. 33628; Ex. Ord. No. 13316, §3(a), Sept. 17, 2003, 68 F.R. 55255, provided:
 
 Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
@@ -228,11 +228,11 @@ To help us meet these goals, I am creating a task force on Federal training tech
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, “Providing for the Further Training of Government Employees,” \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 
-Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The “President'sTask Force on Federal Training Technology” (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency, National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
+Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The “President's Task Force on Federal Training Technology” (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency, National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
 
 (b) Within 30 days of the date of this order, the head of each agency or council shall designate a senior official to serve as a representative to the Task Force. The representative shall report directly to the agency head or the President's Management Council member on the agency's or council's activities under this order.
 
-(c) The Director of the Office of Personnel Management (OPM) shall be the Chair and the representative from the Department of Labor shall be the Vice Chair of the Task Force.
+(c) The Director of the Office of Personnel Management (OPM) shall be the Chair and the representativefrom the Department of Labor shall be the Vice Chair of the Task Force.
 
 (d) The Chair and Vice Chair shall appoint an Executive Director.
 
@@ -290,35 +290,11 @@ Sec. 4. <i>Duties of Specific Federal Agencies</i>. (a) In light of the Office o
 
 &emsp;(2) provide guidance to Defense agencies and advise the civilian agencies, as appropriate, on how best to use these standards for large-scale development and implementation of efficient and effective distributed learning technologies.
 
-(d) Each Executive department shall designate at least one subject area of training that it will use to demonstrate opportunities in technology-based training and assign an agency leader in the designated area. Leaders in these training technology experiments shall work closely with other agencies with similar training interests. Each Executive department shall develop a plan for measuring and evaluating the effectiveness, cost-effectiveness, and benefits to employees and the agency for each designated subject area.
+(d) Each Executive department shall designate at least one subject area of training that it will use to demonstrate opportunities in technology-based training and assign an agency leader in the designated area. Leaders in these training technology experiments shall work closely with other agencies with similar training interests. Each Executive department shall develop a plan for measuring and evaluating the effectiveness,cost-effectiveness, and benefits to employees and the agency for each designated subject area.
 
-Sec. 5. <i>Establishment of Advisory Committee on Expanding Training Opportunities.</i>
+\[
 
-The Advisory Committee on Expanding Training Opportunities (Committee) is established. The Committee shall consist of not more that 20 members appointed by the President from outside the Federal Government, including representatives of the research, education, labor, and training communities, information technology sector, and representatives from other critical sectors. The President shall designate Co-Chairs from among the members of the Committee.
-
-Sec. 6. <i>Functions of the Advisory Committee</i>. The Committee shall provide the President, through the Secretary of Labor (who shall ensure the coordination of the activities of the Committee with the activities undertaken pursuant to sections 1 and 2 of the Executive Order on the 21st Century Workforce Initiative \[Ex. Ord. No. 13218, 29 U.S.C. 2801 note\]), an independent assessment of:
-
-&emsp;(1) progress made by the Federal Government in its use and integration of technology in adult training programs, particularly in addressing the problems of adult illiteracy;
-
-&emsp;(2) how Federal Government programs, initiatives, and policies can encourage or accelerate training technology to provide more accessible, more timely, and more cost-effective training opportunities for all Americans;
-
-&emsp;(3) mechanisms for the Federal Government to widely deploy and utilize technology-mediated instruction so all Americans may take advantage of opportunities provided by learning technology;
-
-&emsp;(4) the appropriate Federal Government role in research and development for learning technologies and their applications in order to develop high-quality training and education opportunities for all Americans; and
-
-&emsp;(5) such other issues regarding emerging technologies in government training as specified by the Secretary of Labor.
-
-Sec. 7. <i>Administration of the Advisory Committee</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the Office of Personnel Management shall provide the financial and administrative support for the Committee.
-
-(b) The heads of Executive agencies shall, to the extent permitted by law, provide to the Committee such information as it may require for the purpose of carrying out its functions.
-
-(c) The Committee Co-Chairs may, from time to time, invite experts to submit information to the Committee and may form subcommittees or working groups within the Committee to review specific issues.
-
-(d) Members of the Committee shall serve without compensation but shall be allowed travel expenses, including per diem instead of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
-
-(e) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, that are applicable to the Committee, except that of reporting to the Congress, shall be performed by the Office of Personnel Management in accordance with guidelines that have been issued by the Administrator of General Services.
-
-(f) The Committee shall terminate on January 11, 2003\[,\] unless extended by the President prior to such date.
+Secs. 5 to 7. Revoked by Ex. Ord. No. 13316, §3(a), Sept. 17, 2003, 68 F.R. 55255, eff. Sept. 30, 2003.\]
 
 Sec. 8. <i>Definitions</i>. (a) As used in this order, the terms “agency,” “employee,” “Government,” and “training” have the meaning given to those terms, respectively, by section 4101 of title 5, United States Code.
 

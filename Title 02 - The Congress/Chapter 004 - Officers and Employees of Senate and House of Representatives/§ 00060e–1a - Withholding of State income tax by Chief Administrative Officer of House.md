@@ -10,7 +10,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 #### (c) Acceptance or disapproval of proposed agreement by Committee on House Administration
 
-(1) The Chief Administrative Officer shall, before entering into any agreement under subsection (a) of this section, transmit a statement with respect to the proposed agreement to theCommittee on House Administration of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the “committee”). Such statement shall set forth a detailed description of the proposed agreement, together with any other information which the committee may require.
+(1) The Chief Administrative Officer shall, before entering into any agreement under subsection (a) of this section, transmit a statement with respect to the proposed agreement to the Committee on House Administration of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the “committee”). Such statement shall set forth a detailed description of the proposed agreement, together with any other information which the committee may require.
 
 (2) If the committee does not disapprove, through appropriate action, any proposed agreement transmitted to the committee under paragraph (1) no later than ten legislative days after receiving such proposed agreement, then the Chief Administrative Officer may enter into such proposed agreement. The Chief Administrative Officer may not enter into any proposed agreement if such proposed agreement is disapproved by the committee under this paragraph.
 
@@ -38,7 +38,7 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–186, §204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
 
 &emsp;“(1) the Clerk, in the case of employees whose compensation is disbursed by the Clerk; and
 
@@ -46,7 +46,7 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 > shall withhold”.
 
-Pub. L. 104–186, §204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall, in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
+Pub. L. 104–186, §204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall,in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
 
 Subsec. (b). Pub. L. 104–186, §204(4)(C), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms”.
 

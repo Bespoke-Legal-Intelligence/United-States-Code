@@ -72,7 +72,7 @@ In subsection (c), the word “duly” is omitted as surplus.
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to securityduties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+2001—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsec. (a)(1). Pub. L. 107–71, §140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
 

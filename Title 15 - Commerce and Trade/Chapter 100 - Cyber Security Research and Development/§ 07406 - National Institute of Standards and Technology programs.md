@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;In developing the agencywide information security program required by section 3534(b) of title 44, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—
+&emsp;In developing the agencywide information security program required by section 3534(b) oftitle 44, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—
 
 &emsp;&emsp;(A) shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and
 

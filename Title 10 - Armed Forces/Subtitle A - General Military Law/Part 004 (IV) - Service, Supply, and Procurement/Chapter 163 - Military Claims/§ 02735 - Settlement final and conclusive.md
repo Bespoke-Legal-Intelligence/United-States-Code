@@ -48,5 +48,5 @@ The directory language of, but not the amendment made by, Pub. L. 88–558, Aug.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 857a.
+This section is referred to in title 33 section 3071.
 

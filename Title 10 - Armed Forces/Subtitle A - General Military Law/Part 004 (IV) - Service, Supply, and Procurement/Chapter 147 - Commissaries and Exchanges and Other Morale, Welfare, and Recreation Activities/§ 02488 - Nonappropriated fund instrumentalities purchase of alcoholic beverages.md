@@ -36,9 +36,13 @@ Section 312(b) of Pub. L. 100–180 provided that: “The amendment made by subs
 
 #### Procurement of Malt Beverages and Wine by Nonappropriated Fund Activity
 
-Pub. L. 107–117, div. A, title VIII, §8108, Jan. 10, 2002, 115 Stat. 2271, provided that: “None of the funds appropriated by this Act \[see Tables for classification\] shall be used for the support of any nonappropriated funds activity of the Department of Defense that procures malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine are procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation is located: <i>Provided</i>, That in a case in which the military installation is located in more than one State, purchases may be made in any State in which the installation is located: <i>Provided further</i>, That such local procurement requirements for malt beverages and wine shall apply to all alcoholic beverages only for military installations in States which are not contiguous with another State: <i>Provided further</i>, That alcoholic beverages other than wine and malt beverages, in contiguous States and the District of Columbia shall be procured from the most competitive source, price and other factors considered.”
+Pub. L. 108–87, title VIII, §8088, Sept. 30, 2003, 117 Stat. 1093, provided that: “None of the funds appropriated by this Act \[see Tables for classification\] shall be used for the support of any nonappropriated funds activity of the Department of Defense that procures malt beverages and wine with nonappropriated funds for resale (including such alcoholic beverages sold by the drink) on a military installation located in the United States unless such malt beverages and wine are procured within that State, or in the case of the District of Columbia, within the District of Columbia, in which the military installation is located: <i>Provided</i>, That in a case in which the military installation is located in more than one State, purchases may be made in any State in which the installation is located: <i>Provided further</i>, That such local procurement requirements for malt beverages and wine shall apply to all alcoholic beverages only for military installations in States which are not contiguous with another State: <i>Provided further</i>, That alcoholic beverages other than wine and malt beverages, in contiguous States and the District of Columbia shall be procured from the most competitive source, price and other factors considered.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8092, Oct. 23, 2002, 116 Stat. 1558.
+
+Pub. L. 107–117, div. A, title VIII, §8108, Jan. 10, 2002, 115 Stat. 2271.
 
 Pub. L. 106–259, title VIII, §8108, Aug. 9, 2000, 114 Stat. 698.
 

@@ -138,7 +138,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (A) In general
 
-&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, andshall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
+&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, and shall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
 
 #### (B) Waiver authority
 

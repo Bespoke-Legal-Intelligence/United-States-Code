@@ -2,9 +2,9 @@
 
 In this chapter:
 
-&emsp;(1) The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, the General Counsel of the Department of Transportation.
+&emsp;(1) The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.
 
-&emsp;(2) The Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy, shall be considered as one armed force.
+&emsp;(2) The Navy, the Marine Corps, and the Coast Guard when it is operating as a servicein the Navy, shall be considered as one armed force.
 
 &emsp;(3) The term “commanding officer” includes only commissioned officers.
 
@@ -44,7 +44,7 @@ In this chapter:
 
 &emsp;(16) The term “national security” means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -80,6 +80,8 @@ In clause (12), the words “Marine Corps” are inserted to make explicit that 
 
 #### Amendments
 
+2002—Cl. (1). Pub. L. 107–296 substituted “an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security” for “the General Counsel of the Department of Transportation”.
+
 1996—Cls. (15), (16). Pub. L. 104–106 added cls. (15) and (16).
 
 1988—Cl. (1). Pub. L. 100–456 substituted “term ‘Judge” for “term ‘judge”.
@@ -97,6 +99,10 @@ Cl. (14). Pub. L. 98–209, §6(a), added cl. (14).
 Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
 1966—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -148,7 +154,7 @@ Pub. L. 97–81, §1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Ac
 
 #### Short Title of 1968 Amendment
 
-Section 1 of Pub. L. 90–632 provided: “That this Act \[amending this section and sections 806, 816, 818, 819,820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
+Section 1 of Pub. L. 90–632 provided: “That this Act \[amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title\] may be cited as the ‘Military Justice Act of 1968’.”
 
 #### Redesignation of Navy Law Specialists as Judge Advocates
 
@@ -161,6 +167,10 @@ Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Ju
 #### Legislative Construction
 
 Section 49(e) of act Aug. 10, 1956, provided that: “In chapter 47 of title 10, United States Code \[this chapter\], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism
 
@@ -220,7 +230,7 @@ Sec. 4. <i>Authority of the Secretary of Defense Regarding Trials of Individuals
 
 (b) As a military function and in light of the findings in section 1, including subsection (f) thereof, the Secretary of Defense shall issue such orders and regulations, including orders for the appointment of one or more military commissions, as may be necessary to carry out subsection (a) of this section.
 
-(c) Orders and regulations issued under subsection (b) of this section shall include, but not be limited to, rules for the conduct of the proceedings of militarycommissions, including pretrial, trial, and post-trial procedures, modes of proof, issuance of process, and qualifications of attorneys, which shall at a minimum provide for—
+(c) Orders and regulations issued under subsection (b) of this section shall include, but not be limited to, rules for the conduct of the proceedings of military commissions, including pretrial, trial, and post-trial procedures, modes of proof, issuance of process, and qualifications of attorneys, which shall at a minimum provide for—
 
 &emsp;(1) military commissions to sit at any time and any place, consistent with such guidance regarding time and place as the Secretary of Defense may provide;
 

@@ -20,7 +20,7 @@ The provisions of this section shall become effective on the first day of the fi
 
 #### References in Text
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and\(c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
 The date of adoption of this resolution, referred to in subsec. (d), is Mar. 25, 1971. See Codification note below.
 
@@ -32,7 +32,7 @@ Section is based on section 2 of House Resolution No. 317, Ninety-second Congres
 
 #### Amendments
 
-1996—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
+<b>1996</b>—Subsecs. (a) to (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration” wherever appearing.
 
 #### Change of Name
 

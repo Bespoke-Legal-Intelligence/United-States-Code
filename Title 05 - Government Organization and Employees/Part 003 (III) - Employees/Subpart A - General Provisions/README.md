@@ -2,7 +2,7 @@
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in section 9701 of this title.
+This subpart is referred to in sections 9701, 9902 of this title.
 
 
 ---

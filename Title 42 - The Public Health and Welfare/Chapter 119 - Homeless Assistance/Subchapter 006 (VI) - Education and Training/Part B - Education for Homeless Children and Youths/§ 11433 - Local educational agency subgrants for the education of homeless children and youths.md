@@ -36,7 +36,7 @@
 
 #### (b) Application
 
-A local educational agency that desires to receive a subgrant under this section shall submit an application to the State educational agency at such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require. Such application shall include the following:
+A local educational agency that desires to receive a subgrant under this section shall submit an application to the State educational agencyat such time, in such manner, and containing or accompanied by such information as the State educational agency may reasonably require. Such application shall include the following:
 
 &emsp;(1) An assessment of the educational and related needs of homeless children and youths in the area served by such agency (which may be undertaken as part of needs assessments for other disadvantaged groups).
 
@@ -44,7 +44,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 &emsp;(3) An assurance that the local educational agency's combined fiscal effort per student, or the aggregate expenditures of that agency and the State with respect to the provision of free public education by such agency for the fiscal year preceding the fiscal year for which the determination is made, was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
 
-&emsp;(4) An assurance that the applicant complies with, or will use requested funds to complywith, paragraphs (3) through (7) of section 11432(g) of this title.
+&emsp;(4) An assurance that the applicant complies with, or will use requested funds to comply with, paragraphs (3) through (7) of section 11432(g) of this title.
 
 &emsp;(5) A description of policies and procedures, consistent with section 11432(e)(3) of this title, that the agency will implement to ensure that activities carried out by the agency will not isolate or stigmatize homeless children and youths.
 

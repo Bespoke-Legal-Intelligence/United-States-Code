@@ -104,7 +104,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (C) Determination of adjusted gross income in case of estates and trusts
 
-&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall becomputed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (D) Coordination with estate tax
 
@@ -152,7 +152,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (3) Exceptions
 
-&emsp;The Secretary may, by regulations, provide that this subsection and section 1287 shall notapply with respect to obligations held by any person if—
+&emsp;The Secretary may, by regulations, provide that this subsection and section 1287 shall not apply with respect to obligations held by any person if—
 
 &emsp;&emsp;(A) such person holds such obligations in connection with a trade or business outside the United States,
 
@@ -298,7 +298,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 98–369, §1051(a), added subsec. (k) and red
 
 Subsec. (h). Pub. L. 97–248, §203(a), added subsec. (h) relating to casualty and theft losses. Former subsec. (h), relating to disaster losses, redesignated (i).
 
-Subsec. (i). Pub. L. 97–248, §203(a), redesignated former subsec. (h), relating to disaster losses, as (i), in subsec. (i), as so redesignated, further redesignated existing unnumbered provisions as pars. (1) and (2), in par. (1), as so redesignated, substituted “be taken into account for the taxable year” for “be deducted for the taxable year”, in par. (2), as so redesignated, substituted “shall be treated for purposes of this title as having occurred” for “will be deemed to have occurred”, added par. (3), and struck out provision that a deduction under this subsection could not be in excess of so much of the loss as would have been deductible in the taxable year in which the casualty occurred, based on facts existing at the date the taxpayer claimed theloss. Former subsec. (i), setting forth cross references, redesignated (j).
+Subsec. (i). Pub. L. 97–248, §203(a), redesignated former subsec. (h), relating to disaster losses, as (i), in subsec. (i), as so redesignated, further redesignated existing unnumbered provisions as pars. (1) and (2), in par. (1), as so redesignated, substituted “be taken into account for the taxable year” for “be deducted for the taxable year”, in par. (2), as so redesignated, substituted “shall be treated for purposes of this title as having occurred” for “will be deemed to have occurred”, added par. (3), and struck out provision that a deduction under this subsection could not be in excess of so much of the loss as would have been deductible in the taxable year in which the casualty occurred, based on facts existing at the date the taxpayer claimed the loss. Former subsec. (i), setting forth cross references, redesignated (j).
 
 Subsec. (j). Pub. L. 97–248, §310(b)(5), added subsec. (j) relating to denial of deduction for losses on certain obligations not in registered form. Former subsec. (j), setting forth cross references, redesignated (k).
 
@@ -372,7 +372,7 @@ Section 1051(b) of Pub. L. 98–369 provided that: “The amendment made by subs
 
 Section 203(c) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1982. Such amendments shall also apply to the taxpayer's last taxable year beginning before January 1, 1983, solely for purposes of determining the amount allowable as a deduction with respect to any loss taken into account for such year by reason of an election under section 165(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section).”
 
-Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, withexceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
+Amendment by section 310(b)(5) of Pub. L. 97–248 applicable to obligations issued after Dec. 31, 1982, with exceptions for certain warrants, see section 310(d) of Pub. L. 97–248, set out as a note under section 103 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -452,7 +452,7 @@ In general.—Except as otherwise provided in this subsection—
 
 &emsp;&emsp;“(A) The provisions of this section shall apply to taxable years ending on or after March 4, 1991, but only with respect to FSLIC assistance not credited before March 4, 1991.
 
-&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of anynet operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
+&emsp;&emsp;“(B) If any FSLIC assistance not credited before March 4, 1991, is with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991, for purposes of determining the amount of any net operating loss carryover to a taxable year ending on or after March 4, 1991, the provisions of this section shall apply to such assistance for purposes of determining the amount of the net operating loss for the taxable year in which such loss was sustained or debt written off. Except as provided in the preceding sentence, this section shall not apply to any FSLIC assistance with respect to a loss sustained or charge-off in a taxable year ending before March 4, 1991.
 
 &emsp;“(2)
 

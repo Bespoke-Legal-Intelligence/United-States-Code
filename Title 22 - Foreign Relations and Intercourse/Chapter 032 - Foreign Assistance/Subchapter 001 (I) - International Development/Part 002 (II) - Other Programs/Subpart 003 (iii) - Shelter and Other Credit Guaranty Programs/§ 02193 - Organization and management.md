@@ -8,11 +8,11 @@ The Corporation shall have a Board of Directors, a President, an Executive Vice 
 
 All powers of the Corporation shall vest in and be exercised by or under the authority of its Board of Directors (“the Board”) which shall consist of fifteen Directors, including the Chairman, with eight Directors constituting a quorum for the transaction of business. Eight Directors shall be appointed by the President of the United States, by and with the advice and consent of the Senate, and shall not be officials or employees of the Government of the United States. At least two of the eight Directors appointed under the preceding sentence shall be experienced in small business, one in organized labor, and one in cooperatives. Each such Director shall be appointed for a term of no more than three years. The terms of no more than three such Directors shall expire in any one year. Such Directors shall serve until their successors are appointed and qualified and may be reappointed.
 
-The other Directors shall be officials of the Government of the United States, including the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and an official of the Department of Labor, designated by and serving at the pleasure of the President of the United States. The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.
+The other Directors shall be principal officers of the Government of the United States whose duties relate to the programs of the Corporation, including the President of the Corporation, the Administrator of the Agency for International Development, the United States Trade Representative, and one such officer of the Department of Labor, designated by and serving at the pleasure of the President of the United States. The United States Trade Representative may designate a Deputy United States Trade Representative to serve on the Board in place of the United States Trade Representative.
 
 There shall be a Chairman and a Vice Chairman of the Board, both of whom shall be designated by the President of the United States from among the Directors of the Board other than those appointed under the second sentence of the first paragraph of this subsection.
 
-All Directors who are not officers of the Corporation or officials of the Government of theUnited States shall be compensated at a rate equivalent to that of level IV of the Executive Schedule when actually engaged in the business of the Corporation and may be paid per diem in lieu of subsistence at the applicable rate prescribed in the standardized Government travel regulations, as amended from time to time, while away from their homes or usual places of business.
+All Directors who are not officers of the Corporation or officials of the Government of the United States shall be compensated at a rate equivalent to that of level IV of the Executive Schedule when actually engaged in the business of the Corporation and may be paid per diem in lieu of subsistence at the applicable rate prescribed in the standardized Government travel regulations, as amended from time to time, while away from their homes or usual places of business.
 
 #### (c) President
 
@@ -26,7 +26,7 @@ The Executive Vice President of the Corporation shall be appointed by the Presid
 
 The Board shall take prompt measures to increase the loan, guarantee, and insurance programs, and financial commitments, of the Corporation in sub-Saharan Africa, including through the use of an investment advisory council to assist the Board in developing and implementing policies, programs, and financial instruments with respect to sub-Saharan Africa. In addition, the investment advisory council shall make recommendations to the Board on how the Corporation can facilitate greater support by the United States for trade and investment with and in sub-Saharan Africa. The investment advisory council shall terminate 4 years after May 18, 2000.
 
-(Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 810; amended Pub. L. 97–65, §3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022; Pub. L. 106–158, §4, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 106–200, title I, §123(c)(1), May 18, 2000, 114 Stat. 269.)
+(Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 810; amended Pub. L. 97–65, §3(a), (b), Oct. 16, 1981, 95 Stat. 1021, 1022; Pub. L. 106–158, §4, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 106–200, title I, §123(c)(1), May 18, 2000, 114 Stat. 269; Pub. L. 108–158, §3(e), Dec. 3, 2003, 117 Stat. 1950.)
 
 #### References in Text
 
@@ -39,6 +39,8 @@ The civil service laws, referred to in subsec. (d), are set out in Title 5. See,
 A prior section 233 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, contained definitions, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–158, in second par., substituted “principal officers” for “officials” and “one such officer” for “an official” and inserted “whose duties relate to the programs of the Corporation” after “Government of the United States”.
 
 2000—Subsec. (e). Pub. L. 106–200 added subsec. (e).
 
@@ -60,7 +62,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Members of Board of Directors of Overseas Private Investment Corporation
 
-For provisions directing that the United States Trade Representative serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation and to serve as the Vice Chair of that Board and authorizing and directing the appointment of an additional member of the Board ofDirectors of the Overseas Private Investment Corporation as part of the consolidation of the trade functions of the Federal government, see Reorg. Plan No. 3 of 1979, §4, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided in section 1–107(a) of Ex. Ord. No. 12188, 45 F.R. 993, set out in the Appendix to Title 5, Government Organization and Employees.
+For provisions directing that the United States Trade Representative serve, ex officio, as an additional voting member of the Board of Directors of the Overseas Private Investment Corporation and to serve as the Vice Chair of that Board and authorizing and directing the appointment of an additional member of the Board of Directors of the Overseas Private Investment Corporation as part of the consolidation of the trade functions of the Federal government, see Reorg. Plan No. 3 of 1979, §4, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided in section 1–107(a) of Ex. Ord. No. 12188, 45 F.R. 993, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

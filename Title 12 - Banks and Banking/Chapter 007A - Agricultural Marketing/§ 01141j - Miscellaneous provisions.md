@@ -2,7 +2,7 @@
 
 #### (a) “Cooperative association” defined
 
-As used in this chapter, the term “cooperative association” means any association in which farmers act together in processing, preparing for market, handling, and/or marketing the farm products of persons so engaged, and also means any association in which farmers act together in purchasing, testing, grading, processing, distributing, and/or furnishing farm supplies and/or farm business services: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof as such producers or purchasers and conform to one or both of the following requirements:
+As used in this chapter, the term “cooperative association” means any association in which farmers act together in processing, preparing for market, handling, and/or marketing the farm products of persons so engaged, and also means any association in which farmers act together in purchasing, testing, grading, processing, distributing, and/or furnishing farm supplies and/orfarm business services: <i>Provided, however</i>, That such associations are operated for the mutual benefit of the members thereof as such producers or purchasers and conform to one or both of the following requirements:
 
 First. That no member of the association is allowed more than one vote because of the amount of stock or membership capital he may own therein; and
 
@@ -56,7 +56,7 @@ Section was formerly classified to section 535 of Title 7, Agriculture.
 
 #### Transfer of Functions
 
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm CreditAdministration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq of this title.
+Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq of this title.
 
 #### Exceptions From Transfer of Functions
 

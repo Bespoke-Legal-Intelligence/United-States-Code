@@ -56,7 +56,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 The Secretary shall establish procedures for—
 
-&emsp;(1) receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
+&emsp;(1) receiving from interested persons critical comments relating to the manner in which theOrgan Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b) of this section; and
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 

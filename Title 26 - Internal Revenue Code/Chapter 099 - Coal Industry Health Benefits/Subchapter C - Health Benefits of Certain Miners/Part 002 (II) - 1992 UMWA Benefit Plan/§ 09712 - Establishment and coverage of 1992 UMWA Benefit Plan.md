@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the UnitedMine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initially consist of five members and shall thereafter be the number set by the settlors.
+&emsp;As soon as practicable after the enactment date, the settlors shall create a separate private plan which shall be known as the United Mine Workers of America 1992 Benefit Plan. For purposes of this title, the 1992 UMWA Benefit Plan shall be treated as an organization exempt from taxation under section 501(a). The settlors shall be responsible for designing the structure, administration and terms of the 1992 UMWA Benefit Plan, and for appointment and removal of the members of the board of trustees. The board of trustees shall initially consist of five members and shall thereafter be the number set by the settlors.
 
 #### (2) Treatment of plan
 
@@ -40,7 +40,7 @@
 
 #### (2) Managed care
 
-&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of this subsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
+&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of thissubsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
 
 #### (3) Major elements of rules
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;All 1988 last signatory operators shall be responsible for financing the benefits describedin subsection (c), in accordance with contribution requirements established in the 1992 UMWA Benefit Plan. Such contribution requirements, which shall be applied uniformly to each 1988 last signatory operator, on the basis of the number of eligible and potentially eligible beneficiaries attributable to each operator, shall include:
+&emsp;All 1988 last signatory operators shall be responsible for financing the benefits described in subsection (c), in accordance with contribution requirements established in the 1992 UMWA Benefit Plan. Such contribution requirements, which shall be applied uniformly to each 1988 last signatory operator, on the basis of the number of eligible and potentially eligible beneficiaries attributable to each operator, shall include:
 
 &emsp;&emsp;(A) the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries attributable to a 1988 last signatory operator,
 

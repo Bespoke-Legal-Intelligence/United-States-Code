@@ -54,7 +54,7 @@ Nothing in this section may be construed to authorize the bringing of an action 
 
 &emsp;(1) sets forth the terms and conditions under which such lease or leases is or shall be purchased by such unit owners or associations; or
 
-&emsp;(2) reforms any clause in the lease which contained an automatic rent increase clause,unless such agreement was entered into when the leaseholder or his affiliate held a majority of the votes in the owners’ association.
+&emsp;(2) reforms any clause in the lease which contained an automatic rent increase clause, unless such agreement was entered into when the leaseholder or his affiliate held a majority of the votes in the owners’ association.
 
 (Pub. L. 96–399, title VI, §609, Oct. 8, 1980, 94 Stat. 1677.)
 

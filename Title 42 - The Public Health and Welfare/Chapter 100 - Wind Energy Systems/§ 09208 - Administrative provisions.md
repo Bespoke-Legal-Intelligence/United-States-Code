@@ -10,7 +10,7 @@ The Secretary, in coordination with such Government agencies as may be appropria
 
 #### (b) Liaison
 
-The Secretary shall also maintain continuing liaison with related industries and interests and with the scientific and technical community in order to assure that the benefits of programs under this chapter are and will continue to be realized to the maximum extent feasible.
+The Secretary shall also maintain continuing liaison with related industries and interests and with the scientific and technical community in order to assure that the benefits of programsunder this chapter are and will continue to be realized to the maximum extent feasible.
 
 #### (c) Availability of information
 

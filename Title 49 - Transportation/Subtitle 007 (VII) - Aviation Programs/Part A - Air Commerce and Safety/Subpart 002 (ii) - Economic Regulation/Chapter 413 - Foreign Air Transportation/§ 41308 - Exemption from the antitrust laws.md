@@ -6,7 +6,7 @@ Definition.—In this section, “antitrust laws” has the same meaning given t
 
 (b)
 
-Exemption Authorized.—When the Secretary of Transportation decides it is required by the public interest, the Secretary, as part of an order under section 41309 or 42111 of this title, may exempt a person affected by the order from the antitrust laws to the extent necessary to allow the person to proceed with the transaction specifically approved by the order and with any transaction necessarily contemplated by the order.
+Exemption Authorized.—When the Secretary of Transportation decides it is required by the public interest, the Secretary, as part of an order under section 41309 or 42111 of this title, may exempt a person affected by the order from the antitrust laws to the extent necessary to allow the person to proceed with the transaction specifically approved by the order and with anytransaction necessarily contemplated by the order.
 
 (c)
 

@@ -64,7 +64,7 @@ The Board may enter into and perform such contracts as may be appropriate to car
 
 #### (e) Obtaining and acceptance of non-Federal funds and resources; indirect resources
 
-(1) Subject to the provisions of paragraph (2), the Board may seek and accept funds and otherresources to carry out its activities. The Board may not accept any funds or other resources which are—
+(1) Subject to the provisions of paragraph (2), the Board may seek and accept funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
 
 &emsp;(A) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Award Program or a specific regional or local program; and
 
@@ -108,7 +108,7 @@ The Board shall have no power—
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
+<b>1990</b>—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 
 Subsec. (b)(2)(C). Pub. L. 101–525, §7(b)(1)(A), substituted “conduct” for “conducting” and struck out “State and” after “new”.
 
@@ -130,13 +130,13 @@ Subsec. (e). Pub. L. 101–525, §7(b)(2), (c), redesignated subsec. (d) as (e) 
 
 Subsecs. (f) to (i). Pub. L. 101–525, §7(b)(2), redesignated subsecs. (e) to (h) as (f) to (i), respectively.
 
-1988—Pub. L. 100–674, §2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
+<b>1988</b>—Pub. L. 100–674, §2(c)(1), substituted “Powers, functions, and limitations” for “Powers and limitations of Board” in section catchline.
 
 Subsecs. (b) to (h). Pub. L. 100–674, §2(c)(2), added subsec. (b) and redesignated former subsecs. (b) to (g) as (c) to (h), respectively.
 
-1986—Subsec. (a)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Subsec. (c). Pub. L. 99–161 inserted at end “The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.”
+<b>1985</b>—Subsec. (c). Pub. L. 99–161 inserted at end “The Board may permit donors to use the name of the Board or the name ‘Congressional Award Program’ in advertising.”
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ Designation of Agencies.—Each test conducted pursuant to subsection (a) shall 
 
 Test Requirements and Limitations.—(1) Each test conducted under subsection (a)—
 
-&emsp;“(A) shall be developed and structured by the Administrator or by the agency senior procurement executive designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) in close coordination with the Administrator; and
+&emsp;“(A) shall be developed and structured by the Administrator or by the agency senior procurement executive designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3)) in close coordination with the Administrator; and
 
 &emsp;“(B) shall be limited to specific programs of agencies or specific acquisitions.
 

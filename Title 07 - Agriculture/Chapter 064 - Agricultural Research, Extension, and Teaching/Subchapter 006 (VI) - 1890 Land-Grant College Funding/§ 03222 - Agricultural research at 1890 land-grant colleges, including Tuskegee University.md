@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated annually such sums as Congress may determinenecessary to support continuing agricultural research at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter referred to in this section as “eligible institutions”).
+&emsp;There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural research at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter referred to in this section as “eligible institutions”).
 
 #### (2) Minimum amount
 
@@ -32,7 +32,7 @@
 
 #### (ii) Redistribution
 
-&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
+&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection\(b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
 
 #### (b) Allocation and distribution of appropriated funds
 
@@ -60,7 +60,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 &emsp;Each plan of work required under paragraph (2) shall contain descriptions of the following:
 
-&emsp;&emsp;(A) The critical short-term, intermediate, and long-term agricultural issues in theState in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
+&emsp;&emsp;(A) The critical short-term, intermediate, and long-term agricultural issues in the State in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
 
 &emsp;&emsp;(B) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
 
@@ -108,7 +108,7 @@ Nothing in this section shall be construed to impair or modify the legal relatio
 
 #### References in Text
 
-Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the“Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Amendments
 

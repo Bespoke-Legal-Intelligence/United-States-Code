@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b) of this section.
+The Secretary shall require that, as part of an application for a grant under this subpart, eachapplicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b) of this section.
 
 #### (b) Forms
 
@@ -40,7 +40,7 @@ The forms and the standards of proof (including the standard of good faith compl
 
 #### (e) Documentation
 
-For purposes of determining whether a child is eligible to be counted for the purpose of computing the amount of a grant award under section 7423 of this title, the membership of the child, or any parent or grandparent of the child, in a tribe or band of Indians (as so defined) may be established by proof other than an enrollmentnumber, notwithstanding the availability of an enrollment number for a member of such tribe or band. Nothing in subsection (b) of this section shall be construed to require the furnishing of an enrollment number.
+For purposes of determining whether a child is eligible to be counted for the purpose of computing the amount of a grant award under section 7423 of this title, the membership of the child, or any parent or grandparent of the child, in a tribe or band of Indians (as so defined) may be established by proof other than an enrollment number, notwithstanding the availability of an enrollment number for a member of such tribe or band. Nothing in subsection (b) of this section shall be construed to require the furnishing of an enrollment number.
 
 #### (f) Monitoring and evaluation review
 
@@ -78,7 +78,7 @@ Notwithstanding any other provision of this section, in calculating the amount o
 
 For purposes of determining the number of children to be counted in calculating the amount of a local educational agency's grant under this subpart (other than in the case described in subsection (g)(1) of this section), the local educational agency shall—
 
-&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title; and
+&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date orperiod occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title; and
 
 &emsp;(2) determine that each such child was enrolled, and receiving a free public education, in a school of the agency on that date or during that period, as the case may be.
 

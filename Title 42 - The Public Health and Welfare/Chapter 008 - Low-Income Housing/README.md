@@ -884,6 +884,10 @@ Funding.
 
 (n)
 
+Grants for assisting affordable housing developed through main street projects in smaller communities.
+
+(<i>o</i>)
+
 Sunset.
 
 |  |  |

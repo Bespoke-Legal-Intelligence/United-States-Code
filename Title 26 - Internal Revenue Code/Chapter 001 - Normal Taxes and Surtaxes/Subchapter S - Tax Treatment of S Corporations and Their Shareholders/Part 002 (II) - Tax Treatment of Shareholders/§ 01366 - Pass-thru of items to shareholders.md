@@ -14,7 +14,7 @@
 
 #### (2) Nonseparately computed income or loss defined
 
-&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss” means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
+&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss”means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
 
 #### (b) Character passed thru
 

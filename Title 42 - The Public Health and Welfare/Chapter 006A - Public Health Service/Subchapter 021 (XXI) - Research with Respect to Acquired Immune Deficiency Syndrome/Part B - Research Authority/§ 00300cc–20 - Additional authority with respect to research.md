@@ -28,7 +28,7 @@ The Secretary may make grants to public and nonprofit private entities for the p
 
 #### (d) Social sciences research
 
-The Secretary, acting through the Director of the National Institute of Mental Health, may make grants to public and nonprofit private entities for the purpose of assisting grantees in conducting scientific research into the psychological and social sciences as such sciences relate to acquired immune deficiency syndrome.
+The Secretary, acting through the Director of the National Institute of Mental Health, maymake grants to public and nonprofit private entities for the purpose of assisting grantees in conducting scientific research into the psychological and social sciences as such sciences relate to acquired immune deficiency syndrome.
 
 #### (e) Authorization of appropriations
 

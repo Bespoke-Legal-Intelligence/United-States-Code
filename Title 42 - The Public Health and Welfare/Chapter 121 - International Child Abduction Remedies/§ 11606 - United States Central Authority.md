@@ -10,7 +10,7 @@ The functions of the United States Central Authority are those ascribed to the C
 
 #### (c) Regulatory authority
 
-The United States Central Authority is authorized to issue such regulations as may be necessary to carry out its functions under the Convention and this chapter.
+The United States Central Authority is authorized to issue such regulations as may benecessary to carry out its functions under the Convention and this chapter.
 
 #### (d) Obtaining information from Parent Locator Service
 

@@ -6,7 +6,7 @@
 
 (2) The revolving fund shall be available only for paying the salaries of personnel employed under subsection (c) of this section, and agency contributions attributable thereto, and for paying refunds under contracts entered into under subsection (b) of this section.
 
-(3) Within 90 days after the end of each fiscal year, the Secretary of the Senate shall withdraw all amounts in the revolving fund in excess of $100,000, other than amounts required to make refunds under subsection (b)(2)(B) of this section, and shall deposit the amounts withdrawn in the Treasury of the United States as miscellaneous receipts.
+(3) Within 90 days after the end of each fiscal year, the Secretary of the Senate shall withdrawall amounts in the revolving fund in excess of $100,000, other than amounts required to make refunds under subsection (b)(2)(B) of this section, and shall deposit the amounts withdrawn in the Treasury of the United States as miscellaneous receipts.
 
 #### (b) Contracts for use of Senate computer; approval; terms
 

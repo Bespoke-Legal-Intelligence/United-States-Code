@@ -10,7 +10,7 @@ Whether or not the method of collecting any tax imposed by chapter 21, 31, 32, o
 
 #### (c) Use of Government depositaries
 
-The Secretary may authorize Federal Reserve banks, and incorporated banks, trust companies,domestic building and loan associations, or credit unions which are depositaries or financial agents of the United States, to receive any tax imposed under the internal revenue laws, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, times, and conditions under which the receipt of such tax by such banks, trust companies, domestic building and loan associations, and credit unions is to be treated as payment of such tax to the Secretary.
+The Secretary may authorize Federal Reserve banks, and incorporated banks, trust companies, domestic building and loan associations, or credit unions which are depositaries or financial agents of the United States, to receive any tax imposed under the internal revenue laws, in such manner, at such times, and under such conditions as he may prescribe; and he shall prescribe the manner, times, and conditions under which the receipt of such tax by such banks, trust companies, domestic building and loan associations, and credit unions is to be treated as payment of such tax to the Secretary.
 
 #### (d) Time for payment of manufacturers’ excise tax on sporting goods
 
@@ -160,7 +160,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;<b>For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890.)
 
 #### Amendments
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pu
 
 Section 11217(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to payments of taxes considered collected during semimonthly periods beginning after December 31, 1990.”
 
-Section 11334(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply to amounts required to be deposited after December 31, 1990.”
+Section 11334(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply toamounts required to be deposited after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 

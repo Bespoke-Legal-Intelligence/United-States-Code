@@ -60,7 +60,7 @@ Interest rate.—The interest rate on the secured loan shall be not less than th
 
 &emsp;(5)
 
-Maturity date.—The final maturity date of the secured loan shall be not later than 35 years after the date of substantial completion of the project.
+Maturity date.—The final maturity date of the secured loan shall be not later than 35years after the date of substantial completion of the project.
 
 &emsp;(6)
 

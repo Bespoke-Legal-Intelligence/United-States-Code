@@ -26,7 +26,7 @@
 
 (3) If the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to an authority head a written finding that the continuation of any hearing under this section with respect to a claim or statement may adversely affect any pending or potential criminal or civil action related to such claim or statement, such hearing shall be immediately stayed and may be resumed only upon written authorization of the Attorney General.
 
-(c)(1) No allegations of liability under section 3802 of this title with respect to any claim made, presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
+(c)(1) No allegations of liability under section 3802 of this title with respect to any claim made,presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
 
 &emsp;(A) an amount of money in excess of $150,000; or
 
@@ -100,7 +100,7 @@
 
 (2) At any time after receiving a notice under paragraph (2)(B) of subsection (d), the person receiving such notice shall be entitled to obtain all exculpatory information in the possession of the investigating official or the reviewing official relating to the allegations contained in such notice. The provisions of subparagraph (B) of paragraph (1) do not apply to any document, transcript, record, or other material, or any portion thereof, in which such exculpatory information is contained.
 
-(f) Any hearing commenced under paragraph (2) of subsection (d) shall be conducted by the presiding officer on the record in order to determine—
+(f) Any hearing commenced under paragraph (2) of subsection (d) shall be conducted by thepresiding officer on the record in order to determine—
 
 &emsp;(1) the liability of a person under section 3802 of this title; and
 
@@ -164,7 +164,7 @@
 
 &emsp;(C) in such other place as may be agreed upon by such person and the presiding officer who will conduct such hearing.
 
-(h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
+(h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liableunder section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
 
 (i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, the decision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
 

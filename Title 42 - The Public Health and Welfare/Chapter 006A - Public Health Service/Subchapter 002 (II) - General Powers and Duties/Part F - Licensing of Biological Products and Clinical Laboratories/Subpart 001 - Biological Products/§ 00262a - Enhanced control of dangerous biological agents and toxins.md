@@ -102,7 +102,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (4) Notifications by Secretary
 
-&emsp;The Secretary, after receiving notice under paragraph (3) regarding an individual, shall promptly notify the registered person involvedof whether the individual is granted or denied access under paragraph (2). If the individual is denied such access, the Secretary shall promptly notify the individual of the denial.
+&emsp;The Secretary, after receiving notice under paragraph (3) regarding an individual, shall promptly notify the registered person involved of whether the individual is granted or denied access under paragraph (2). If the individual is denied such access, the Secretary shall promptly notify the individual of the denial.
 
 #### (5) Expedited review
 
@@ -220,7 +220,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;No Federal agency specified in paragraph (2) shall disclose under section 552 of title 5 any of the following:
 
-&emsp;&emsp;(A) Any registration or transfer documentation submitted under subsections (b) and (c) of this section for the possession, use, or transfer of a listed agent or toxin; or information derived therefrom to the extent that it identifies the listed agent or toxinpossessed, used, or transferred by a specific registered person or discloses the identity or location of a specific registered person.
+&emsp;&emsp;(A) Any registration or transfer documentation submitted under subsections (b) and (c) of this section for the possession, use, or transfer of a listed agent or toxin; or information derived therefrom to the extent that it identifies the listed agent or toxin possessed, used, or transferred by a specific registered person or discloses the identity or location of a specific registered person.
 
 &emsp;&emsp;(B) The national database developed pursuant to subsection (d) of this section, or any other compilation of the registration or transfer information submitted under subsections (b) and (c) of this section to the extent that such compilation discloses site-specific registration or transfer information.
 
@@ -348,17 +348,7 @@ Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided th
 
 #### Report to Congress
 
-Pub. L. 107–188, title II, §201(b), June 12, 2002, 116 Stat. 646, provided that: “Not later than one year after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services, after consultation with other appropriate Federal agencies, shall submit to the Congress a report that—
-
-&emsp;“(1) describes the extent to which there has been compliance by governmental and private entities with applicable regulations under section 351A of the Public Health Service Act \[this section\] (as added by subsection (a) of this section), including the extent of compliance before the date of the enactment of this Act \[June 12, 2002\], and including the extent of compliance with regulations promulgated after such date of enactment;
-
-&emsp;“(2) describes the actions to date and future plans of the Secretary for updating the list of biological agents and toxins under such section 351A;
-
-&emsp;“(3) describes the actions to date and future plans of the Secretary for determining compliance with regulations under such section 351A and for taking appropriate enforcement actions;
-
-&emsp;“(4) evaluates the impact of such section 351A on research on biological agents and toxins listed pursuant to such section; and
-
-&emsp;“(5) provides any recommendations of the Secretary for administrative or legislative initiatives regarding such section 351A.”
+Pub. L. 107–188, title II, §201(b), June 12, 2002, 116 Stat. 646, required the Secretary of Health and Human Services to report to Congress not later than one year after June 12, 2002, on the implementation, compliance, and future plans under this section.
 
 #### Implementation by Department of Health and Human Services
 

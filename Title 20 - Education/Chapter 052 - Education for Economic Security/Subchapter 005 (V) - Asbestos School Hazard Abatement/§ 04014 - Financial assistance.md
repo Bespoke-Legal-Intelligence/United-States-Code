@@ -88,7 +88,7 @@ Loans under this section shall be made pursuant to agreements which shall provid
 
 &emsp;(C) the application contains assurances that the local educational agency will furnish such information as is necessary for the Administrator to make the report required by section 4016 of this title.
 
-(3) No financial assistance may be provided by the Administrator under this section for projects described in subsection (a)(2) of this section on which abatement action was completed prior to January 1, 1984.
+(3) No financial assistance may be provided by the Administrator under this section forprojects described in subsection (a)(2) of this section on which abatement action was completed prior to January 1, 1984.
 
 (4) Except as provided in section 4021(b)(1) of this title, in approving applications the Administrator shall provide assistance to the local educational agencies having the highest priority among applications being considered in order of ranking until the appropriated funds are expended.
 

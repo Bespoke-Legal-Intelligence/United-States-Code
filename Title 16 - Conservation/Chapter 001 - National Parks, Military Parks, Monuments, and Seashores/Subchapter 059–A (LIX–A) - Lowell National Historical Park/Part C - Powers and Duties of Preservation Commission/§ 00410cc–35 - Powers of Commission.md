@@ -22,7 +22,7 @@ The Commission may use its funds to obtain money from any source under any progr
 
 #### (f) Use of mails
 
-The Commission may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
+The Commission may use the United States mails in the same manner and upon the sameconditions as other departments and agencies of the United States.
 
 #### (g) Purchase, rental, donation, etc., of property, facilities, and services; manner of acquisition; transfers to Department of the Interior upon termination of Commission
 

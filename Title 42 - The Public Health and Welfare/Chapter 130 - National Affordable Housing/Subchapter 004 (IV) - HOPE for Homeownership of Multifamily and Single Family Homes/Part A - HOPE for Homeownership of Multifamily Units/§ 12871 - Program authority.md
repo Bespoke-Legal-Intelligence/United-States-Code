@@ -16,7 +16,7 @@ In connection with a grant under this part, the Secretary may reserve authority 
 
 #### References in Text
 
-This part, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle B (§§421–431) oftitle IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4162, which enacted this part and amended section 1709 of Title 12, Banks and Banking.
+This part, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle B (§§421–431) of title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4162, which enacted this part and amended section 1709 of Title 12, Banks and Banking.
 
 #### Amendments
 

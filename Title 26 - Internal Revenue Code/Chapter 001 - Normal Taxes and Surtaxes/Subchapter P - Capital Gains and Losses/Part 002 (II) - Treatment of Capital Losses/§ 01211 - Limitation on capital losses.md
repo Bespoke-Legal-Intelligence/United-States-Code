@@ -2,7 +2,7 @@
 
 #### (a) Corporations
 
-In the case of a corporation, losses from sales or exchanges of capital assets shall be allowedonly to the extent of gains from such sales or exchanges.
+In the case of a corporation, losses from sales or exchanges of capital assets shall be allowed only to the extent of gains from such sales or exchanges.
 
 #### (b) Other taxpayers
 

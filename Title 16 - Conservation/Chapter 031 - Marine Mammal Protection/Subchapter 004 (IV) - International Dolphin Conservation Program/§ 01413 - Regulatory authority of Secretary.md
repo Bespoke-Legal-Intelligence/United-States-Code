@@ -42,7 +42,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 #### (c) Emergency regulations
 
-(1) If the Secretary determines, on the basis of the best scientific information available (including research conducted under section 1414a of this title and information obtained under the International Dolphin Conservation Program) that the incidental mortality and serious injury of marine mammals authorized under this subchapter is having, or is likely to have, a significant adverse impact on a marine mammal stock or species, the Secretary shall—
+(1) If the Secretary determines, on the basis of the best scientific information available (including research conducted under section 1414a of this title and information obtained under the International Dolphin Conservation Program)that the incidental mortality and serious injury of marine mammals authorized under this subchapter is having, or is likely to have, a significant adverse impact on a marine mammal stock or species, the Secretary shall—
 
 &emsp;(A) notify the Inter-American Tropical Tuna Commission of his or her determination, along with recommendations to the Commission as to actions necessary to reduce incidental mortality and serious injury and mitigate such adverse impact; and
 

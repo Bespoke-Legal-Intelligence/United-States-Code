@@ -1,6 +1,6 @@
 ### §605. Operation of snag boats on Upper Mississippi River
 
-For the purpose of securing the uninterrupted work of operating snag boats on the Upper Mississippi River, the Illinois River, from its mouth to Copperas Creek, and the Minnesota River and other tributaries of the Upper Mississippi River improved by the United States, the Secretary of the Army, upon the application of the Chief ofEngineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $25,000.
+For the purpose of securing the uninterrupted work of operating snag boats on the Upper Mississippi River, the Illinois River, from its mouth to Copperas Creek, and the Minnesota River and other tributaries of the Upper Mississippi River improved by the United States, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $25,000.
 
 (Aug. 11, 1888, ch. 860, §§1, 7, 25 Stat. 420, 421, 424; Mar. 2, 1907, ch. 2509, §1, 34 Stat. 1102; Mar. 3, 1909, ch. 264, §3, 35 Stat. 817; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967.)
 
@@ -26,5 +26,5 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Appropriations
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating snag and dredge boats on upper Mississippi, Illinois, and Minnesota Rivers (fiscal year) (8–962.60)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31,Money and Finance, repealed the permanent appropriation under the title “Operating snag and dredge boats on upper Mississippi, Illinois, and Minnesota Rivers (fiscal year) (8–962.60)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

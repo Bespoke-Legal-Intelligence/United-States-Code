@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;(C) A private, nonprofit organization.
 
-&emsp;&emsp;(D) A tribal organization, as defined in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(<i>l</i>)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+&emsp;&emsp;(D) A tribal organization, as defined in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(<i>l</i>)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
 &emsp;(2) The term “distressed area” means—
 

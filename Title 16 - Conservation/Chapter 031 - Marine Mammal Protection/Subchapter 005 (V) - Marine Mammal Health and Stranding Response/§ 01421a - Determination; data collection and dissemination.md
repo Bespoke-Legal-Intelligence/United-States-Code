@@ -2,7 +2,7 @@
 
 #### (a) Determination for release
 
-The Secretary shall, in consultation with the Secretary of the Interior, the Marine Mammal Commission, and individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, and marine conservation, including stranding network participants, develop objective criteria, after an opportunity forpublic review and comment, to provide guidance for determining at what point a rehabilitated marine mammal is releasable to the wild.
+The Secretary shall, in consultation with the Secretary of the Interior, the Marine Mammal Commission, and individuals with knowledge and experience in marine science, marine mammal science, marine mammal veterinary and husbandry practices, and marine conservation, including stranding network participants, develop objective criteria, after an opportunity for public review and comment, to provide guidance for determining at what point a rehabilitated marine mammal is releasable to the wild.
 
 #### (b) Collection
 
@@ -30,7 +30,7 @@ The Secretary shall make information collected under this section available to s
 
 Section 3003(b) of Pub. L. 102–587 provided that: “The Secretary of Commerce shall—
 
-&emsp;“(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act, and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
+&emsp;“(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act,and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
 
 &emsp;&emsp;“(A) develop and implement objective criteria to determine at what point a marine mammal undergoing rehabilitation is returnable to the wild; and
 

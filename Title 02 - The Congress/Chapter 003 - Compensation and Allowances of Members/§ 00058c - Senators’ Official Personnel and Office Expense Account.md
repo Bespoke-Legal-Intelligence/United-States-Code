@@ -22,7 +22,7 @@ This section, referred to in pars. (1) and (2), means section 1 of Pub. L. 100�
 
 #### Amendments
 
-1997—Par. (6). Pub. L. 105–55 added par. (6).
+<b>1997</b>—Par. (6). Pub. L. 105–55 added par. (6).
 
 #### Construction of 1997 Amendment
 

@@ -22,7 +22,7 @@ Funds from grants received under this part may be used for the following:
 
 &emsp;(A) Such funds may be used for advanced placement programs operated by local educational agencies that are designed to allow qualified secondary students to attend college preparatory schools, colleges, or universities on a part-time or full-time basis with respect to science and mathematics instruction.
 
-&emsp;(B) A local educational agency that receives funds from a grant under this part for an advanced placement program described in subparagraph (A) shall allocate to such program apercentage of funds received from the State on a per student basis according to—
+&emsp;(B) A local educational agency that receives funds from a grant under this part for an advanced placement program described in subparagraph (A) shall allocate to such program a percentage of funds received from the State on a per student basis according to—
 
 &emsp;&emsp;(i) the number of students participating in the program; and
 

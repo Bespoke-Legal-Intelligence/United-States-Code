@@ -32,7 +32,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
+1994—Pub. L. 103–337, div. A, title XVI, §1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
 
 1980—Pub. L. 96–513, title V, §503(16), Dec. 12, 1980, 94 Stat. 2912, inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”.
 

@@ -108,7 +108,7 @@ Not later than 3 years after October 10, 2000, each Federal agency that has juri
 
 &emsp;(2) is consistent with the performance criteria published under subsection (a) of this section;
 
-&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of this section, to be submitted to the Administrator; and
+&emsp;(3) includes a completed report on the information specified in subsection (b)(3)(A) of thissection, to be submitted to the Administrator; and
 
 &emsp;(4) addresses the matters specified in subsection (c) of this section.
 

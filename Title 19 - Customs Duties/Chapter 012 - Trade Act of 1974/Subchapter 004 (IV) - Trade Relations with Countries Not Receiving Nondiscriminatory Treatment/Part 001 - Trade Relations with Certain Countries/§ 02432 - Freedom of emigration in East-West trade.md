@@ -34,7 +34,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 #### (d) Extension of waiver authority
 
-(1) If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will substantially promote the objectives of this section, hemay recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
+(1) If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will substantially promote the objectives of this section, he may recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
 
 &emsp;(A) be made not later than 30 days before the expiration of such authority;
 
@@ -78,7 +78,7 @@ The Tariff Schedules of the United States, referred to in subsec. (e), to be tre
 
 Subsec. (d)(2). Pub. L. 101–382, §132(a)(2)(A), (C), added par. (2) and struck out former par. (2) which authorized extension of waiver authority for 12-month period upon recommendation of President and adoption of concurrent resolution approving extension of authority and not excluding country, and provided procedures if such resolution was not adopted.
 
-Subsec. (d)(3), (4). Pub. L. 101–382, §132(a)(2)(A), struck out par. (3) which authorized extension of waiver authority upon recommendation of President for 60 days, and for 12 months if before end of 60-day period concurrent resolution was adopted approving extension of authority and failing to exclude particular country, and provided procedures if such resolution was not adopted, and struck out par. (4) which authorized extension of waiver authority for 12 months upon recommendationof President if Congress failed to adopt concurrent resolution approving extension under par. (3) and also failed to adopt, in 45-day period following 60-day period, concurrent resolution disapproving extension generally or with respect to particular country.
+Subsec. (d)(3), (4). Pub. L. 101–382, §132(a)(2)(A), struck out par. (3) which authorized extension of waiver authority upon recommendation of President for 60 days, and for 12 months if before end of 60-day period concurrent resolution was adopted approving extension of authority and failing to exclude particular country, and provided procedures if such resolution was not adopted, and struck out par. (4) which authorized extension of waiver authority for 12 months upon recommendation of President if Congress failed to adopt concurrent resolution approving extension under par. (3) and also failed to adopt, in 45-day period following 60-day period, concurrent resolution disapproving extension generally or with respect to particular country.
 
 Subsec. (d)(5). Pub. L. 101–382, §132(a)(2)(B), redesignated par. (5) as (1).
 
@@ -114,6 +114,10 @@ Extension of waiver authority.—
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
 
+#### Delegation of Functions
+
+For delegation of congressional reporting functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
+
 #### Waiver of Subsections (a) and (b) by Executive Order
 
 The following Executive orders waived the application of subsections (a) and (b) of this section for the countries listed:
@@ -147,6 +151,8 @@ Ex. Ord. No. 12811, June 24, 1992, 57 F.R. 28585.—Tajikistan and Turkmenistan.
 Ex. Ord. No. 13079, Apr. 7, 1998, 63 F.R. 17309.—Vietnam.
 
 Ex. Ord. No. 13220, July 2, 2001, 66 F.R. 35527.—Republic of Belarus.
+
+Ex. Ord. No. 13314, Aug. 8, 2003, 68 F.R. 48249.—Turkmenistan.
 
 #### Presidential Determinations Relating to Waivers
 
@@ -196,7 +202,7 @@ Determination No. 92–26, May 20, 1992, 57 F.R. 48711.—Albania.
 
 Determination No. 92–29, June 2, 1992, 57 F.R. 24539.—People's Republic of China.
 
-Determination No. 92–30, June 3, 1992, 57 F.R. 24929.—Albania, Armenia, Azerbaijan, Bulgaria, Byelarus,Georgia, Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Romania, Russia, Ukraine, and Uzbekistan.
+Determination No. 92–30, June 3, 1992, 57 F.R. 24929.—Albania, Armenia, Azerbaijan, Bulgaria, Byelarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Mongolia, Romania, Russia, Ukraine, and Uzbekistan.
 
 Determination No. 92–31, June 3, 1992, 57 F.R. 24931.—Tajikistan and Turkmenistan.
 
@@ -249,6 +255,12 @@ Determination No. 2001–20, July 2, 2001, 66 F.R. 37109.—Republic of Belarus.
 Determination No. 02–21, June 3, 2002, 67 F.R. 40833.—Republic of Belarus.
 
 Determination No. 02–22, June 3, 2002, 67 F.R. 40835.—Vietnam.
+
+Determination No. 2003–24, May 29, 2003, 68 F.R. 35525.—Vietnam.
+
+Determination No. 2003–25, May 29, 2003, 68 F.R. 35527.—Republic of Belarus.
+
+Determination No. 2003–31, Aug. 8, 2003, 68 F.R. 49325.—Turkmenistan.
 
 #### Section Referred to in Other Sections
 

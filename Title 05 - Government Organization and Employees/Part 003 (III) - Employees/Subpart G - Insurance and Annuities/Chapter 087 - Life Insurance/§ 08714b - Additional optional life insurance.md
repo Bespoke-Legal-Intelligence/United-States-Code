@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) the reduction under clause (i) shall continue for 50 months at which time the insurance shall stop.
 
-&emsp;(B) The employee may, instead of the option under subparagraph (A), elect to have the full cost of additional optional insurance continue to be withheld from such employee's annuity or compensation on and after the date such withholdings would otherwise cease pursuantto an election under subparagraph (A), in which case the amount of additional optional insurance continued under paragraph (2) shall not be reduced, subject to paragraph (4).
+&emsp;(B) The employee may, instead of the option under subparagraph (A), elect to have the full cost of additional optional insurance continue to be withheld from such employee's annuity or compensation on and after the date such withholdings would otherwise cease pursuant to an election under subparagraph (A), in which case the amount of additional optional insurance continued under paragraph (2) shall not be reduced, subject to paragraph (4).
 
 &emsp;(C) An employee who does not make any election under the preceding provisions of this paragraph shall be treated as if such employee had made an election under subparagraph (A).
 

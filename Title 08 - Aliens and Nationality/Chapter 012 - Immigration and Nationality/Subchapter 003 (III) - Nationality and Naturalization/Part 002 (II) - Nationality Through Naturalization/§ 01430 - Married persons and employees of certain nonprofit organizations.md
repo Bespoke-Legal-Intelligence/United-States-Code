@@ -6,11 +6,15 @@
 
 (c) Any person who (1) is employed by a bona fide United States incorporated nonprofit organization which is principally engaged in conducting abroad through communications media the dissemination of information which significantly promotes United States interests abroad and which is recognized as such by the Attorney General, and (2) has been so employed continuously for a period of not less than five years after a lawful admission for permanent residence, and (3) who files his application for naturalization while so employed or within six months following the termination thereof, and (4) who is in the United States at the time of naturalization, and (5) who declares before the Attorney General in good faith an intention to take up residence within the United States immediately upon termination of such employment, may be naturalized upon compliance with all the requirements of this subchapter except that no prior residence or specified period of physical presence within the United States or any State or district of the Service in the United States, or proof thereof, shall be required.
 
-(d) Any person who is the surviving spouse of a United States citizen, whose citizen spouse dies during a period of honorable service in an active duty status in the Armed Forces of the United States and who was living in marital union with the citizen spouse at the time of his death, may be naturalized upon compliance with all the requirements of this subchapter except that no prior residence or specified physical presence within the United States, or within a State or a district of the Service in the United States shall be required.
+(d) Any person who is the surviving spouse, child, or parent of a United States citizen, whose citizen spouse, parent, or child dies during a period of honorable service in an active duty status in the Armed Forces of the United States and who, in the case of a surviving spouse, was living in marital union with the citizen spouse at the time of his death, may be naturalized upon compliance with all the requirements of this subchapter except that no prior residence or specified physical presence within the United States, or within a State or a district of the Service in the United States shall be required. For purposes of this subsection, the terms “United States citizen” and “citizen spouse” include a person granted posthumous citizenship under section 1440–1 of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Pub. L. 85–697, §2, Aug. 20, 1958, 72 Stat. 687; Pub. L. 90–215, §1(a), Dec. 18, 1967, 81 Stat. 661; Pub. L. 90–369, June 29, 1968, 82 Stat. 279; Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 106–386, div. B, title V, §1503(e), Oct. 28, 2000, 114 Stat. 1522.)
+(June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Pub. L. 85–697, §2, Aug. 20, 1958, 72 Stat. 687; Pub. L. 90–215, §1(a), Dec. 18, 1967, 81 Stat. 661; Pub. L. 90–369, June 29, 1968, 82 Stat. 279; Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 106–386, div. B, title V, §1503(e), Oct. 28, 2000, 114 Stat. 1522; Pub. L. 108–136, div. A, title XVII, §1703(f)(1), (h), Nov. 24, 2003, 117 Stat. 1695, 1696.)
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136, §1703(h), inserted “, child, or parent” after “surviving spouse” and “, parent, or child” after “whose citizen spouse”, and substituted “who, in the case of a surviving spouse, was living” for “who was living”.
+
+Pub. L. 108–136, §1703(f)(1), inserted at end “For purposes of this subsection, the terms ‘United States citizen’ and ‘citizen spouse’ include a person granted posthumous citizenship under section 1440–1 of this title.”
 
 2000—Subsec. (a). Pub. L. 106–386 inserted “, or any person who obtained status as a lawful permanent resident by reason of his or her status as a spouse or child of a United States citizen who battered him or her or subjected him or her to extreme cruelty,” after “citizen of the United States” and “(except in the case of a person who has been battered or subjected to extreme cruelty by a United States citizen spouse or parent)” after “has been living in marital union with the citizen spouse”.
 
@@ -35,6 +39,12 @@ Subsec. (d). Pub. L. 101–649, §407(b)(1)(B), substituted “within a State or
 1967—Subsec. (c). Pub. L. 90–215 added subsec. (c).
 
 1958—Subsec. (b). Pub. L. 85–697 inserted provision relating to persons performing religious duties.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title XVII, §1703(f)(2), Nov. 24, 2003, 117 Stat. 1695, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to persons granted posthumous citizenship under section 329A of the Immigration and Nationality Act (8 U.S.C. 1440–1) due to death on or after September 11, 2001.”
+
+Amendment by Pub. L. 108–136 effective as if enacted Sept. 11, 2001, see section 1705(a) of Pub. L. 108–136, set out as a note under section 1439 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

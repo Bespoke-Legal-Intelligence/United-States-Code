@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Employer
 
-&emsp;Subsection (n) (relating to leased employees) and subsection (t) (relating to application of controlled group rules to certain employee benefits) of section 414 of title 26 shall applyfor purposes of this part in the same manner and to the same extent as such subsections apply for purposes of section 106 of title 26. Any regulations prescribed by the Secretary pursuant to the preceding sentence shall be consistent and coextensive with any regulations prescribed for similar purposes by the Secretary of the Treasury (or such Secretary's delegate) under such subsections.
+&emsp;Subsection (n) (relating to leased employees) and subsection (t) (relating to application of controlled group rules to certain employee benefits) of section 414 of title 26 shall apply for purposes of this part in the same manner and to the same extent as such subsections apply for purposes of section 106 of title 26. Any regulations prescribed by the Secretary pursuant to the preceding sentence shall be consistent and coextensive with any regulations prescribed for similar purposes by the Secretary of the Treasury (or such Secretary's delegate) under such subsections.
 
 #### (5) Optional extension of required periods
 
@@ -104,9 +104,9 @@ Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1144, 1162, 1163, 1165 of this title; title 38 sections 4317, 4318; title 42 sections 1396a, 1396b, 1396g–1, 1397ee.
+This section is referred to in sections 1144, 1162, 1163, 1165 of this title; title 38 sections 4317, 4318; title 42 sections 1395w–132, 1396a, 1396b, 1396g–1, 1397ee.
 

@@ -64,7 +64,7 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 &emsp;(F) The development of technologies and equipment related to the production of aluminum that enhance the protection of the environment and the safety and health of workers.
 
-&emsp;(G) Aluminum, copper, and other metals technologies which, in the judgment of the Secretary, further the purposes of this chapter.
+&emsp;(G) Aluminum, copper, and other metals technologies which, in the judgment of theSecretary, further the purposes of this chapter.
 
 #### (d) Industry participation and review
 

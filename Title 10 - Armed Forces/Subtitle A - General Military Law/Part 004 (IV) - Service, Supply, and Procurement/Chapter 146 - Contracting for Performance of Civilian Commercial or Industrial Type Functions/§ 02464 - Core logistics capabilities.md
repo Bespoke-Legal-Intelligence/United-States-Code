@@ -16,7 +16,7 @@ Necessity for Core Logistics Capabilities.—(1) It is essential for the nationa
 
 Limitation on Contracting.—(1) Except as provided in paragraph (2), performance of workload needed to maintain a logistics capability identified by the Secretary under subsection (a)(2) may not be contracted for performance by non-Government personnel under the procedures and requirements of Office of Management and Budget Circular A–76 or any successor administrative regulation or policy (hereinafter in this section referred to as OMB Circular A–76).
 
-(2) The Secretary of Defense may waive paragraph (1) in the case of any such logistics capability and provide that performance of the workload needed to maintain that capability shall be considered for conversion to contractor performance in accordance with OMB Circular A–76. Any such waiver shall be made under regulations prescribed by the Secretary and shall be based on a determination by the Secretary that Government performance of the workload is no longer required for national defense reasons. Such regulations shall include criteria for determining whether Government performance of any such workload is no longer required for national defense reasons.
+(2) The Secretary of Defense may waive paragraph (1) in the case of any such logistics capability and provide that performance of the workload needed to maintain that capability shall be considered for conversion to contractor performance in accordance with OMB Circular A–76. Any such waiver shall be made under regulations prescribed by the Secretary and shall be based on a determination by the Secretary that Government performance of the workload is no longer required for national defense reasons.Such regulations shall include criteria for determining whether Government performance of any such workload is no longer required for national defense reasons.
 
 (3)(A) A waiver under paragraph (2) may not take effect until the expiration of the first period of 30 days of continuous session of Congress that begins on or after the date on which the Secretary submits a report on the waiver to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
@@ -92,7 +92,7 @@ Definitions.—In this section:
 
 “(c)
 
-Relationship to Other Laws.—Nothing in this section shall be construed to exempt a prime vendor contract from the requirements of section 2461 of title 10, United States Code, or any other provision of chapter 146 of such title.”
+Relationship to Other Laws.—Nothing in this section shall be construed to exempt a prime vendor contract from the requirements of section 2461 of title10, United States Code, or any other provision of chapter 146 of such title.”
 
 #### Policy Regarding Performance of Depot-Level Maintenance and Repair for Department of Defense
 
@@ -124,7 +124,7 @@ Requirement for Policy.—Not later than March 31, 1996, the Secretary of Defens
 
 Content of Policy.—In developing the policy, the Secretary of Defense shall do each of the following:
 
-&emsp;“(1) Identify for each military department, with the concurrence of the Secretary of that military department, those depot-level maintenance and repair activities that are necessary to ensure the depot-levelmaintenance and repair capability as required by section 2464 of title 10, United States Code.
+&emsp;“(1) Identify for each military department, with the concurrence of the Secretary of that military department, those depot-level maintenance and repair activities that are necessary to ensure the depot-level maintenance and repair capability as required by section 2464 of title 10, United States Code.
 
 &emsp;“(2) Provide for performance of core depot-level maintenance and repair capabilities in facilities owned and operated by the United States.
 
@@ -170,7 +170,7 @@ Considerations.—In developing the policy, the Secretary shall take into consid
 
 Review by General Accounting Office.—(1) The Secretary shall make available to the Comptroller General of the United States all information used by the Department of Defense in developing the policy under subsections (c) through (e) of this section.
 
-“(2) Not later than 45 days after the date on which the Secretary submits to Congress the report required by subsection (c), the Comptroller General shall transmit to Congress a report containing a detailed analysis of the Secretary's proposed policy as reported under such subsection.
+“(2) Not later than 45 days after the date on which the Secretary submits to Congress the report requiredby subsection (c), the Comptroller General shall transmit to Congress a report containing a detailed analysis of the Secretary's proposed policy as reported under such subsection.
 
 “(i)
 
@@ -187,8 +187,4 @@ Report on Depot-Level Maintenance and Repair Workload.—Not later than March 31
 Other Review by General Accounting Office.—(1) The Comptroller General of the United States shall conduct an independent audit of the findings of the Secretary of Defense in the report under subsection (i). The Secretary of Defense shall provide to the Comptroller General for such purpose all information used by the Secretary in preparing such report.
 
 “(2) Not later than 45 days after the date on which the Secretary of Defense submits to Congress the report required under subsection (i), the Comptroller General shall transmit to Congress a report containing a detailed analysis of the report submitted under that subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2469a of this title.
 

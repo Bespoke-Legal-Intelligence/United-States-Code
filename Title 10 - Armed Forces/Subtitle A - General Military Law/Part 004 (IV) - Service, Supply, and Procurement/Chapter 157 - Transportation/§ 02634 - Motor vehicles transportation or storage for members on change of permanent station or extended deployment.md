@@ -12,9 +12,23 @@
 
 > When the Secretary concerned determines that a replacement for that motor vehicle is necessary for reasons beyond the control of the member and is in the interest of the United States, and he approves the transportation in advance, one additional motor vehicle of the member (or a dependent of the member) may be so transported.
 
-(b)(1) In lieu of transportation authorized by this section, if a member is ordered to make a change of permanent station to a foreign country and the laws, regulations, or other restrictions imposed by the foreign country or the United States preclude entry of a motor vehicle described in subsection (a) into that country, or would require extensive modification of the vehicle as a condition to entry, the member may elect to have the vehicle stored at the expense of the United States at a location approved by the Secretary concerned.
+(b)(1) When a member receives a vehicle storage qualifying order, the member may elect to have a motor vehicle described in subsection (a) stored at the expense of the United States at a location approved by the Secretary concerned. In the case of a vehicle storage qualifying order that is to make a change of permanent station, such storage is in lieu of transportation authorized by subsection (a).
 
-(2) If a member is transferred or assigned in connection with a contingency operation to duty at a location other than the permanent station of the member for a period of more than 30 consecutive days, but the transfer or assignment is not considered a change of permanent station, the member may elect to have a motor vehicle described in subsection (a) stored at the expense of the United States at a location approved by the Secretary concerned.
+(2) In this subsection, the term “vehicle storage qualifying order” means any of the following:
+
+&emsp;(A) An order to make a change of permanent station to a foreign country in a case in which the laws, regulations, or other restrictions imposed by the foreign country or by the United States either—
+
+&emsp;&emsp;(i) preclude entry of a motor vehicle described in subsection (a) into that country; or
+
+&emsp;&emsp;(ii) would require extensive modification of the vehicle as a condition to entry.
+
+&emsp;(B) An order to make a change of permanent station to a nonforeign area outside the continental United States in a case in which the laws, regulations, or other restrictions imposed by that area or by the United States either—
+
+&emsp;&emsp;(i) preclude entry of a motor vehicle described in subsection (a) into that area; or
+
+&emsp;&emsp;(ii) would require extensive modification of the vehicle as a condition to entry.
+
+&emsp;(C) An order under which a member is transferred or assigned in connection with a contingency operation to duty at a location other than the permanent station of the member for a period of more than 30 consecutive days but which is not considered a change of permanent station.
 
 (3) Authorized expenses under this subsection include costs associated with the delivery of the motor vehicle for storage and removal of the vehicle for delivery to a destination approved by the Secretary concerned.
 
@@ -24,13 +38,15 @@
 
 (d) When the Secretary concerned makes a determination under section 406(j) of title 37 that the dependents of a member on a permanent change of station are unable to accompany the member to an overseas duty station because of unexpected and uncontrollable circumstances, and the member shipped a motor vehicle pursuant to this section in anticipation of a dependent accompanying the member to the new duty station, the member may reship or transship such motor vehicle in accordance with this section.
 
-(e) The Secretary of Defense (and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may be transported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
+(e) The Secretary of Defense (and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may be transported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
 
 (f) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of a motor vehicle being transported under this section.
 
 (g) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the member for expenses incurred after that date to rent a motor vehicle for the member's use, or for the use of the dependent for whom the delayed vehicle was transported. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
 
-(h) In this section:
+(h) In the case of a member's change of permanent station described in subparagraph (A) or (B) of subsection (i)(1), the Secretary concerned may authorize the member to arrange for the shipment of the motor vehicle in lieu of transportation at the expense of the United States under this section. The Secretary concerned may pay the member a monetary allowance in lieu of transportation, as established under section 404(d)(1) of title 37, and the member shall be responsible for any transportation costs in excess of such allowance.
+
+(i) In this section:
 
 &emsp;(1) The term “change of permanent station” means the transfer or assignment of a member of the armed forces from a permanent station inside the continental United States to a permanent station outside the continental United States or from a permanent station outside the continental United States to another permanent station. It also includes the following:
 
@@ -44,13 +60,27 @@
 
 &emsp;(2) The term “continental United States” does not include Alaska.
 
-(Added Pub. L. 87–651, title I, §111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, §1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, §202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, §7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, §616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, §622(b), Oct. 23, 1992, 106 Stat. 2422; Pub. L. 104–106, div. A, title VI, §642(a)(2), Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–201, div. A, title III, §368(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2497; Pub. L. 105–261, div. A, title VI, §§631(b)(2), 653(a), Oct. 17, 1998, 112 Stat. 2044, 2051; Pub. L. 107–107, div. A, title V, §594(a), (b), Dec. 28, 2001, 115 Stat. 1126.)
+&emsp;(3) The term “nonforeign area outside the continental United States” means any of the following: the States of Alaska and Hawaii, the Commonwealths of Puerto Rico and the Northern Mariana Islands, and any possession of the United States.
+
+(Added Pub. L. 87–651, title I, §111(b), Sept. 7, 1962, 76 Stat. 510; amended Pub. L. 88–431, §1(b), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §1(1), July 30, 1965, 79 Stat. 425; Pub. L. 93–548, §§1, 2, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 97–60, title II, §202, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 99–661, div. A, title VI, §§611, 620(b)(2), Nov. 14, 1986, 100 Stat. 3878, 3883; Pub. L. 100–26, §7(j)(6), Apr. 21, 1987, 101 Stat. 283; Pub. L. 100–180, div. A, title VI, §616(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 102–484, div. A, title VI, §622(b), Oct. 23, 1992, 106 Stat. 2422; Pub. L. 104–106, div. A, title VI, §642(a)(2), Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–201, div. A, title III, §368(a)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2497; Pub. L. 105–261, div. A, title VI, §§631(b)(2), 653(a), Oct. 17, 1998, 112 Stat. 2044, 2051; Pub. L. 107–107, div. A, title V, §594(a), (b), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §575(a), (b), Dec. 2, 2002, 116 Stat. 2558, 2559; Pub. L. 108–136, div. A, title VI, §631(a), Nov. 24, 2003, 117 Stat. 1508.)
 
 #### Historical and Revision Notes
 
 The new section 2634 of title 10 combines sections 4748, 6157, and 9748 of this title and section 471a of title 14 (which are being repealed), and reflects the Act of May 28, 1956, ch. 325 (46 U.S.C. 1241(c)).
 
 #### Amendments
+
+2003—Subsecs. (h), (i). Pub. L. 108–136 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+2002—Subsec. (b)(1), (2). Pub. L. 107–314, §575(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) In lieu of transportation authorized by this section, if a member is ordered to make a change of permanent station to a foreign country and the laws, regulations, or other restrictions imposed by the foreign country or the United States preclude entry of a motor vehicle described in subsection (a) into that country, or would require extensive modification of the vehicle as a condition to entry, the member may elect to have the vehicle stored at the expense of the United States at a location approved by the Secretary concerned.
+
+“(2) If a member is transferred or assigned in connection with a contingency operation to duty at a locationother than the permanent station of the member for a period of more than 30 consecutive days, but the transfer or assignment is not considered a change of permanent station, the member may elect to have a motor vehicle described in subsection (a) stored at the expense of the United States at a location approved by the Secretary concerned.”
+
+Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (h)(3). Pub. L. 107–314, §575(b), added par. (3).
 
 2001—Subsec. (b)(4). Pub. L. 107–107, §594(a), added par. (4).
 
@@ -92,7 +122,13 @@ Subsec. (c). Pub. L. 93–548, §2, added subsec. (c).
 
 1965—Pub. L. 89–101 substituted “change of permanent station” for “permanent change of station” in section catchline, designated existing provisions as subsec. (a), substituted “change of permanent station” for “permanent change of station” in two places, inserted “or for the use of his dependents” and “or such other place as the Secretary concerned may authorize”, added cl. 3, provided for the transportation of one additional motor vehicle when replacement is necessary, and added subsec. (b).
 
-1964—Pub. L. 88–431 inserted “, leased, or chartered” and “unless a motor vehicle owned by him was transported in advance of that permanent change of station under section 406(h) of title 37”.
+1964—Pub. L. 88–431 inserted “, leased, or chartered” and “unless a motor vehicle owned by him was transported in advance of that permanent change of station under section 406(h) of title 37”.
+
+#### Effective Date of 2002 Amendments
+
+Pub. L. 107–314, div. A, title V, §575(c), Dec. 2, 2002, 116 Stat. 2559, provided that: “The amendments made by this section \[amending this section\] apply to orders to make a change of permanent station to a nonforeign area outside the continental United States (as such term is defined in subsection (h)(3) of section 2634 of title 10, United States Code, as added by subsection (b)) that are issued on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -112,7 +148,7 @@ Section 368(c) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because ofcircumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1965 Amendment; Reimbursement of Expenses
 
@@ -130,9 +166,9 @@ Authority vested by this section in “the Secretary concerned” to be exercise
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 857a; title 37 sections 406, 406b, 406c; title 42 section 213a.
+This section is referred to in title 33 section 3071; title 37 sections 406, 406b, 406c; title 42 section 213a.
 

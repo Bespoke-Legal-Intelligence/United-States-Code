@@ -6,7 +6,7 @@ For purposes of this section, except subsection (r) of this section—
 
 #### (1) Major source
 
-&emsp;The term “major source” means any stationary source or group of stationary sources located within a contiguous area and under common control that emits or has the potential to emit considering controls, in the aggregate, 10 tons per year or more of any hazardous air pollutant or 25 tons per year or more of any combination of hazardous air pollutants. The Administrator may establish a lesser quantity, or in the case of radionuclides different criteria, for a major source than that specified in the previous sentence, on the basis of the potency of the air pollutant, persistence, potential for bioaccumulation, other characteristics of the air pollutant, or other relevant factors.
+&emsp;The term “major source” means any stationary source or group of stationary sources located within a contiguous area and under common control that emits or has the potential to emit considering controls, in the aggregate, 10 tons per year or more of any hazardous air pollutant or 25 tons per year or more of any combination of hazardous air pollutants. The Administrator may establish a lesser quantity, or in the case of radionuclides different criteria, for a major source than thatspecified in the previous sentence, on the basis of the potency of the air pollutant, persistence, potential for bioaccumulation, other characteristics of the air pollutant, or other relevant factors.
 
 #### (2) Area source
 
@@ -30,7 +30,7 @@ For purposes of this section, except subsection (r) of this section—
 
 #### (7) Adverse environmental effect
 
-&emsp;The term “adverse environmental effect” means any significant and widespread adverseeffect, which may reasonably be anticipated, to wildlife, aquatic life, or other natural resources, including adverse impacts on populations of endangered or threatened species or significant degradation of environmental quality over broad areas.
+&emsp;The term “adverse environmental effect” means any significant and widespread adverse effect, which may reasonably be anticipated, to wildlife, aquatic life, or other natural resources, including adverse impacts on populations of endangered or threatened species or significant degradation of environmental quality over broad areas.
 
 #### (8) Electric utility steam generating unit
 
@@ -272,7 +272,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (3) Petitions to modify the list
 
-&emsp;(A) Beginning at any time after 6 months after November 15, 1990, any person may petition the Administrator to modify the list of hazardous air pollutants under this subsection by adding or deleting a substance or, in case oflisted pollutants without CAS numbers (other than coke oven emissions, mineral fibers, or polycyclic organic matter) removing certain unique substances. Within 18 months after receipt of a petition, the Administrator shall either grant or deny the petition by publishing a written explanation of the reasons for the Administrator's decision. Any such petition shall include a showing by the petitioner that there is adequate data on the health or environmental defects <sup>2</sup> of the pollutant or other evidence adequate to support the petition. The Administrator may not deny a petition solely on the basis of inadequate resources or time for review.
+&emsp;(A) Beginning at any time after 6 months after November 15, 1990, any person may petition the Administrator to modify the list of hazardous air pollutants under this subsection by adding or deleting a substance or, in case of listed pollutants without CAS numbers (other than coke oven emissions, mineral fibers, or polycyclic organic matter) removing certain unique substances. Within 18 months after receipt of a petition, the Administrator shall either grant or deny the petition by publishing a written explanation of the reasons for the Administrator's decision. Any such petition shall include a showing by the petitioner that there is adequate data on the health or environmental defects <sup>2</sup> of the pollutant or other evidence adequate to support the petition. The Administrator may not deny a petition solely on the basis of inadequate resources or time for review.
 
 &emsp;(B) The Administrator shall add a substance to the list upon a showing by the petitioner or on the Administrator's own determination that the substance is an air pollutant and that emissions, ambient concentrations, bioaccumulation or deposition of the substance are known to cause or may reasonably be anticipated to cause adverse effects to human health or adverse environmental effects.
 
@@ -346,7 +346,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations establishing emission standards for each category or subcategory of major sources and area sources of hazardous air pollutants listed for regulation pursuant to subsection (c) of this section in accordance with the schedules provided in subsections (c) and (e) of this section. The Administrator may distinguish among classes, types, and sizes of sources within a category or subcategory in establishing such standards except that, there shall be no delay in the compliance date for any standard applicable to any source under subsection (i) of this section as the result of the authority provided by this sentence.
+&emsp;The Administrator shall promulgate regulations establishing emission standards for each category or subcategory of major sources andarea sources of hazardous air pollutants listed for regulation pursuant to subsection (c) of this section in accordance with the schedules provided in subsections (c) and (e) of this section. The Administrator may distinguish among classes, types, and sizes of sources within a category or subcategory in establishing such standards except that, there shall be no delay in the compliance date for any standard applicable to any source under subsection (i) of this section as the result of the authority provided by this sentence.
 
 #### (2) Standards and methods
 
@@ -404,7 +404,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;&emsp;(ii) door and jam cleaning practices.
 
-> &emsp;Notwithstanding subsection (i) of this section, the compliance date for such work practiceregulations for coke oven batteries shall be not later than the date 3 years after November 15, 1990.
+> &emsp;Notwithstanding subsection (i) of this section, the compliance date for such work practice regulations for coke oven batteries shall be not later than the date 3 years after November 15, 1990.
 
 &emsp;(C) For coke oven batteries electing to qualify for an extension of the compliance date for standards promulgated under subsection (f) of this section in accordance with subsection (i)(8) of this section, the emission standards under this subsection for coke oven batteries shall require that coke oven batteries not exceed 8 per centum leaking doors, 1 per centum leaking lids, 5 per centum leaking offtakes, and 16 seconds visible emissions per charge, with no exclusion for emissions during the period after the closing of self-sealing doors. Notwithstanding subsection (i) of this section, the compliance date for such emission standards for existing coke oven batteries seeking an extension shall be not later than the date 3 years after November 15, 1990.
 
@@ -490,7 +490,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (5) Area sources
 
-&emsp;The Administrator shall not be required to conduct any review under this subsection or promulgate emission limitations under this subsection for any category or subcategory of area sources that is listed pursuant to subsection (c)(3) of this section and for which an emission standard is promulgated pursuant to subsection (d)(5) of this section.
+&emsp;The Administrator shall not be required to conduct any review under this subsection or promulgate emission limitations under thissubsection for any category or subcategory of area sources that is listed pursuant to subsection (c)(3) of this section and for which an emission standard is promulgated pursuant to subsection (d)(5) of this section.
 
 #### (6) Unique chemical substances
 
@@ -502,7 +502,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(A) A physical change in, or change in the method of operation of, a major source which results in a greater than de minimis increase in actual emissions of a hazardous air pollutant shall not be considered a modification, if such increase in the quantity of actual emissions of any hazardous air pollutant from such source will be offset by an equal or greater decrease in the quantity of emissions of another hazardous air pollutant (or pollutants) from such source which is deemed more hazardous, pursuant to guidance issued by the Administrator under subparagraph (B). The owner or operator of such source shall submit a showing to the Administrator (or the State) that such increase has been offset under the preceding sentence.
 
-&emsp;(B) The Administrator shall, after notice and opportunity for comment and not later than 18 months after November 15, 1990, publish guidance with respect to implementation of this subsection. Such guidance shall include an identification, to the extent practicable, ofthe relative hazard to human health resulting from emissions to the ambient air of each of the pollutants listed under subsection (b) of this section sufficient to facilitate the offset showing authorized by subparagraph (A). Such guidance shall not authorize offsets between pollutants where the increased pollutant (or more than one pollutant in a stream of pollutants) causes adverse effects to human health for which no safety threshold for exposure can be determined unless there are corresponding decreases in such types of pollutant(s).
+&emsp;(B) The Administrator shall, after notice and opportunity for comment and not later than 18 months after November 15, 1990, publish guidance with respect to implementation of this subsection. Such guidance shall include an identification, to the extent practicable, of the relative hazard to human health resulting from emissions to the ambient air of each of the pollutants listed under subsection (b) of this section sufficient to facilitate the offset showing authorized by subparagraph (A). Such guidance shall not authorize offsets between pollutants where the increased pollutant (or more than one pollutant in a stream of pollutants) causes adverse effects to human health for which no safety threshold for exposure can be determined unless there are corresponding decreases in such types of pollutant(s).
 
 #### (2) Construction, reconstruction and modifications
 
@@ -552,7 +552,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (3) Compliance schedule for existing sources
 
-&emsp;(A) After the effective date of any emissions standard, limitation or regulation promulgated under this section and applicable to a source, no person may operate such source inviolation of such standard, limitation or regulation except, in the case of an existing source, the Administrator shall establish a compliance date or dates for each category or subcategory of existing sources, which shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the effective date of such standard, except as provided in subparagraph (B) and paragraphs (4) through (8).
+&emsp;(A) After the effective date of any emissions standard, limitation or regulation promulgated under this section and applicable to a source, no person may operate such source in violation of such standard, limitation or regulation except, in the case of an existing source, the Administrator shall establish a compliance date or dates for each category or subcategory of existing sources, which shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the effective date of such standard, except as provided in subparagraph (B) and paragraphs (4) through (8).
 
 &emsp;(B) The Administrator (or a State with a program approved under subchapter V of this chapter) may issue a permit that grants an extension permitting an existing source up to 1 additional year to comply with standards under subsection (d) of this section if such additional period is necessary for the installation of controls. An additional extension of up to 3 years may be added for mining waste operations, if the 4-year compliance time is insufficient to dry and cover mining waste in order to reduce emissions of any pollutant listed under subsection (b) of this section.
 
@@ -702,7 +702,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (2) Guidance
 
-&emsp;Not later than 12 months after November 15, 1990, the Administrator shall publish guidance that would be useful to the States in developing programs for submittal under this subsection. The guidance shall also provide for the registration of all facilities producing, processing, handling or storing any substance listed pursuant to subsection (r) of this sectionin amounts greater than the threshold quantity. The Administrator shall include as an element in such guidance an optional program begun in 1986 for the review of high-risk point sources of air pollutants including, but not limited to, hazardous air pollutants listed pursuant to subsection (b) of this section.
+&emsp;Not later than 12 months after November 15, 1990, the Administrator shall publish guidance that would be useful to the States in developing programs for submittal under this subsection. The guidance shall also provide for the registration of all facilities producing, processing, handling or storing any substance listed pursuant to subsection (r) of this section in amounts greater than the threshold quantity. The Administrator shall include as an element in such guidance an optional program begun in 1986 for the review of high-risk point sources of air pollutants including, but not limited to, hazardous air pollutants listed pursuant to subsection (b) of this section.
 
 #### (3) Technical assistance
 
@@ -732,7 +732,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (7) Authority to enforce
 
-&emsp;Nothing in this subsection shall prohibit the Administrator from enforcing any applicable emission standard or requirement under this section.
+&emsp;Nothing in this subsection shall prohibit the Administrator from enforcing any applicableemission standard or requirement under this section.
 
 #### (8) Local program
 
@@ -822,7 +822,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(A) Notwithstanding the provisions of subsection (a) of this section, emissions from any oil or gas exploration or production well (with its associated equipment) and emissions from any pipeline compressor or pump station shall not be aggregated with emissions from other similar units, whether or not such units are in a contiguous area or under common control, to determine whether such units or stations are major sources, and in the case of any oil or gas exploration or production well (with its associated equipment), such emissions shall not be aggregated for any purpose under this section.
 
-&emsp;(B) The Administrator shall not list oil and gas production wells (with its associated equipment) as an area source category under subsection (c) of this section, except that theAdministrator may establish an area source category for oil and gas production wells located in any metropolitan statistical area or consolidated metropolitan statistical area with a population in excess of 1 million, if the Administrator determines that emissions of hazardous air pollutants from such wells present more than a negligible risk of adverse effects to public health.
+&emsp;(B) The Administrator shall not list oil and gas production wells (with its associated equipment) as an area source category under subsection (c) of this section, except that the Administrator may establish an area source category for oil and gas production wells located in any metropolitan statistical area or consolidated metropolitan statistical area with a population in excess of 1 million, if the Administrator determines that emissions of hazardous air pollutants from such wells present more than a negligible risk of adverse effects to public health.
 
 #### (5) Hydrogen sulfide
 
@@ -856,7 +856,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (3) Other health effects of concern
 
-&emsp;To the extent practicable, the Academy shall evaluate and report on the methodology for assessing the risk of adverse human health effects other than cancer for which safe thresholds of exposure may not exist, including, but not limited to, inheritable genetic mutations, birth defects, and reproductive dysfunctions.
+&emsp;To the extent practicable, the Academy shall evaluate and report on the methodology for assessing the risk of adverse human health effects other than cancer for which safe thresholds of exposure may not exist, including, but not limited to, inheritable geneticmutations, birth defects, and reproductive dysfunctions.
 
 #### (4) Report
 
@@ -928,7 +928,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 #### (3) List of substances
 
-&emsp;The Administrator shall promulgate not later than 24 months after November 15, 1990, an initial list of 100 substances which, in the case of an accidental release, are known to cause or may reasonably be anticipated to cause death, injury, or serious adverse effects to human health or the environment. For purposes of promulgating such list, the Administrator shall use, but is not limited to, the list of extremely hazardous substances published under the Emergency Planning and Community Right-to-Know Act of 1986 \[42 U.S.C. 11001 et seq.\], with such modifications as the Administrator deems appropriate. The initial list shall include chlorine, anhydrous ammonia, methyl chloride, ethylene oxide, vinyl chloride, methyl isocyanate, hydrogen cyanide, ammonia, hydrogen sulfide, toluene diisocyanate, phosgene, bromine, anhydrous hydrogen chloride, hydrogen fluoride, anhydrous sulfur dioxide, and sulfur trioxide. The initial list shall include at least 100 substances which pose the greatest risk of causing death, injury, or serious adverse effects to human health or the environment from accidental releases. Regulations establishing the list shall include an explanation of the basis for establishing the list. The list may be revised from time to time by the Administrator on the Administrator's own motion or by petition and shall be reviewed at least every 5 years. No air pollutant for which a national primary ambient air quality standard has been established shall be included on any such list. No substance, practice, process, or activity regulated under subchapter VI of this chapter shall be subject to regulations under this subsection. The Administrator shall establish procedures for the addition and deletion of substances from the list established under this paragraph consistent with those applicable to the list in subsection (b) of this section.
+&emsp;The Administrator shall promulgate not later than 24 months after November 15, 1990, an initial list of 100 substances which, in the case of an accidental release, are known to cause or may reasonably be anticipated to cause death, injury, or serious adverse effects to human health or the environment. For purposes of promulgating such list, the Administrator shall use, but is not limited to, the list of extremely hazardous substances published under the Emergency Planning and Community Right-to-Know Act of 1986 \[42 U.S.C. 11001 et seq.\], with such modifications as the Administrator deems appropriate. The initial list shall include chlorine, anhydrous ammonia, methyl chloride, ethylene oxide, vinyl chloride, methyl isocyanate, hydrogen cyanide, ammonia, hydrogen sulfide, toluene diisocyanate, phosgene, bromine, anhydrous hydrogen chloride, hydrogen fluoride, anhydrous sulfur dioxide, and sulfur trioxide. The initial list shall include at least 100 substances which pose the greatest risk of causing death, injury, or serious adverse effects to human health or the environment from accidental releases. Regulations establishing the list shall include an explanation of the basis for establishing the list. The list may be revised from time to time by the Administrator on the Administrator's own motion or by petition and shall be reviewed at least every 5 years. No air pollutant for which a national primary ambient air quality standard has been established shall be included on any such list. No substance, practice, process, or activity regulated under subchapter VI of this chapter shall be subject toregulations under this subsection. The Administrator shall establish procedures for the addition and deletion of substances from the list established under this paragraph consistent with those applicable to the list in subsection (b) of this section.
 
 #### (4) Factors to be considered
 
@@ -1018,7 +1018,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(B)(i) Within 3 years after November 15, 1990, the Administrator shall promulgate reasonable regulations and appropriate guidance to provide, to the greatest extent practicable, for the prevention and detection of accidental releases of regulated substances and for response to such releases by the owners or operators of the sources of such releases. The Administrator shall utilize the expertise of the Secretaries of Transportation and Labor in promulgating such regulations. As appropriate, such regulations shall cover the use, operation, repair, replacement, and maintenance of equipment to monitor, detect, inspect, and control such releases, including training of persons in the use and maintenance of such equipment and in the conduct of periodic inspections. The regulations shall include procedures and measures for emergency response after an accidental release of a regulated substance in order to protect human health and the environment. The regulations shall cover storage, as well as operations. The regulations shall, as appropriate, recognize differences in size, operations, processes, class and categories of sources and the voluntary actions of such sources to prevent such releases and respond to such releases. The regulations shall be applicable to a stationary source 3 years after the date of promulgation, or 3 years after the date on which a regulated substance present at the source in more than threshold amounts is first listed under paragraph (3), whichever is later.
 
-&emsp;(ii) The regulations under this subparagraph shall require the owner or operator of stationary sources at which a regulated substance is present in more than a threshold quantity to prepare and implement a risk management plan to detect and prevent or minimize accidental releases of such substances from the stationary source, and to provide a promptemergency response to any such releases in order to protect human health and the environment. Such plan shall provide for compliance with the requirements of this subsection and shall also include each of the following:
+&emsp;(ii) The regulations under this subparagraph shall require the owner or operator of stationary sources at which a regulated substance is present in more than a threshold quantity to prepare and implement a risk management plan to detect and prevent or minimize accidental releases of such substances from the stationary source, and to provide a prompt emergency response to any such releases in order to protect human health and the environment. Such plan shall provide for compliance with the requirements of this subsection and shall also include each of the following:
 
 &emsp;&emsp;(I) a hazard assessment to assess the potential effects of an accidental release of any regulated substance. This assessment shall include an estimate of potential release quantities and a determination of downwind effects, including potential exposures to affected populations. Such assessment shall include a previous release history of the past 5 years, including the size, concentration, and duration of releases, and shall include an evaluation of worst case accidental releases;
 
@@ -1034,7 +1034,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(D) In carrying out the authority of this paragraph, the Administrator shall consult with the Secretary of Labor and the Secretary of Transportation and shall coordinate any requirements under this paragraph with any requirements established for comparable purposes by the Occupational Safety and Health Administration or the Department of Transportation. Nothing in this subsection shall be interpreted, construed or applied to impose requirements affecting, or to grant the Administrator, the Chemical Safety and Hazard Investigation Board, or any other agency any authority to regulate (including requirements for hazard assessment), the accidental release of radionuclides arising from the construction and operation of facilities licensed by the Nuclear Regulatory Commission.
 
-&emsp;(E) After the effective date of any regulation or requirement imposed under this subsection, it shall be unlawful for any person to operate any stationary source subject to such regulation or requirement in violation of such regulation or requirement. Each regulation or requirement under this subsection shall for purposes of sections 7413, 7414, 7416, 7420, 7604, and 7607 of this title and other enforcement provisions of this chapter, be treated as a standard in effect under subsection (d) of this section.
+&emsp;(E) After the effective date of any regulation or requirement imposed under this subsection, it shall be unlawful for any person to operate any stationary source subject to such regulation or requirement in violation of such regulation or requirement. Each regulation or requirement under this subsection shall for purposes of sections 7413, 7414, 7416, 7420, 7604, and7607 of this title and other enforcement provisions of this chapter, be treated as a standard in effect under subsection (d) of this section.
 
 &emsp;(F) Notwithstanding the provisions of subchapter V of this chapter or this section, no stationary source shall be required to apply for, or operate pursuant to, a permit issued under such subchapter solely because such source is subject to regulations or requirements under this subsection.
 
@@ -1068,7 +1068,7 @@ Covered person.—The term “covered person” means—
 
 &emsp;&emsp;&emsp;(II)
 
-Official use.—The term “official use” means an action of a Federal, State, or local government agency or an entity referred to in subclause (I)(ee) intended tocarry out a function relevant to preventing, planning for, or responding to accidental releases.
+Official use.—The term “official use” means an action of a Federal, State, or local government agency or an entity referred to in subclause (I)(ee) intended to carry out a function relevant to preventing, planning for, or responding to accidental releases.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -1134,7 +1134,7 @@ In general.—Beginning on August 5, 1999, a covered person shall not disclose t
 
 &emsp;&emsp;&emsp;(II)
 
-Criminal penalties.—Notwithstanding section 7413 of this title, a covered person that willfully violates a restriction or prohibition established by this subparagraph (including the regulations promulgated under clause (ii)) shall, upon conviction, be fined for an infraction under section 3571 of title 18 (but shall not be subject to imprisonment) for each unauthorized disclosure of off-site consequence analysis information, except that subsection (d) of such section 3571 shall not apply to a case in which the offense results in pecuniary loss unless the defendant knew that such loss would occur. The disclosure of off-site consequence analysis information for each specific stationary source shall be considered a separate offense. The total of all penalties that may be imposed on a single person or organization under this item shall not exceed$1,000,000 for violations committed during any 1 calendar year.
+Criminal penalties.—Notwithstanding section 7413 of this title, a covered person that willfully violates a restriction or prohibition established by this subparagraph (including the regulations promulgated under clause (ii)) shall, upon conviction, be fined for an infraction under section 3571 of title 18 (but shall not be subject to imprisonment) for each unauthorized disclosure of off-site consequence analysis information, except that subsection (d) of such section 3571 shall not apply to a case in which the offense results in pecuniary loss unless the defendant knew that such loss would occur. The disclosure of off-site consequence analysis information for each specific stationary source shall be considered a separate offense. The total of all penalties that may be imposed on a single person or organization under this item shall not exceed $1,000,000 for violations committed during any 1 calendar year.
 
 &emsp;&emsp;&emsp;(III)
 
@@ -1232,7 +1232,7 @@ Authorization of appropriations.—There are authorized to be appropriated to th
 
 #### (10) Presidential review
 
-&emsp;The President shall conduct a review of release prevention, mitigation and response authorities of the various Federal agencies and shall clarify and coordinate agency responsibilities to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources which may exist. The President may utilize the resources and solicit the recommendations of the Chemical Safety and Hazard Investigation Board in conducting such review. At the conclusion of such review, but not later than 24 months after November 15, 1990, the President shall transmit a message to the Congress on the release prevention, mitigation and response activities of the Federal Government making such recommendations for change in law as the President may deem appropriate. Nothing in this paragraph shall be interpreted, construed or applied to authorize the President to modify or reassign release prevention, mitigation or response authorities otherwise established by law.
+&emsp;The President shall conduct a review of release prevention, mitigation and response authorities of the various Federal agencies and shall clarify and coordinate agency responsibilities to assure the most effective and efficient implementation of such authorities and to identify any deficiencies in authority or resources which may exist. The President may utilize the resources and solicit the recommendations of the Chemical Safety and Hazard Investigation Board in conducting such review. At the conclusion of such review, but notlater than 24 months after November 15, 1990, the President shall transmit a message to the Congress on the release prevention, mitigation and response activities of the Federal Government making such recommendations for change in law as the President may deem appropriate. Nothing in this paragraph shall be interpreted, construed or applied to authorize the President to modify or reassign release prevention, mitigation or response authorities otherwise established by law.
 
 #### (11) State authority
 
@@ -1354,7 +1354,7 @@ Memorandum for the Attorney General\[, \] the Administrator of the Environmental
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 112(r)(7)(H) of the Clean Air Act (“Act”) (42 U.S.C. 7412(r)(7)(H)), as added by section 3 of the Chemical Safety Information, Site Security and Fuels Regulatory Relief Act (Public Law 106–40), and section 301 of title 3, United States Code, I hereby delegate to:
 
-(1) the Attorney General the authority vested in the President under section 112(r)(7)(H)(ii)(I)(aa) of the Act to assess the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet;
+(1) the Attorney General the authority vested in the President under section 112(r)(7)(H)(ii)(I)(aa) of the Actto assess the increased risk of terrorist and other criminal activity associated with the posting of off-site consequence analysis information on the Internet;
 
 (2) the Administrator of the Environmental Protection Agency (EPA) the authority vested in the President under section 112(r)(7)(H)(ii)(I)(bb) of the Act to assess the incentives created by public disclosure of off-site consequence analysis information for reduction in the risk of accidental releases; and
 
@@ -1382,7 +1382,7 @@ Report on compliance with certain information submission requirements.—Not lat
 
 &emsp;“(A) describes the level of compliance with Federal and State requirements relating to the submission to local emergency response personnel of information intended to help the local emergency response personnel respond to chemical accidents or related environmental or public health threats; and
 
-&emsp;“(B) contains an analysis of the adequacy of the information required to be submitted and the efficacyof the methods for delivering the information to local emergency response personnel.”
+&emsp;“(B) contains an analysis of the adequacy of the information required to be submitted and the efficacy of the methods for delivering the information to local emergency response personnel.”
 
 #### Reevaluation of Regulations
 
@@ -1438,7 +1438,7 @@ Staff and Contracts.—
 
 &emsp;“(2) The Commission may appoint and fix the pay of such staff as it deems necessary in accordance with the provisions of title 5, United States Code. The Commission may request the temporary assignment of personnel from the Environmental Protection Agency or other Federal agencies.
 
-&emsp;“(3) The members of the Commission who are not officers or employees of the United States, while attending conferences or meetings of the Commission or while otherwise serving at the request of the Chair, shall be entitled to receive compensation at a rate not in excess of the maximum rate of pay for Grade GS–18, as provided in the General Schedule under section 5332 of title 5 of the United States Code, including travel time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu ofsubsistence as authorized by law for persons in the Government service employed intermittently.
+&emsp;“(3) The members of the Commission who are not officers or employees of the United States, while attending conferences or meetings of the Commission or while otherwise serving at the request of the Chair, shall be entitled to receive compensation at a rate not in excess of the maximum rate of pay for Grade GS–18, as provided in the General Schedule under section 5332 of title 5 of the United States Code, including travel time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence as authorized by law for persons in the Government service employed intermittently.
 
 “(f)
 

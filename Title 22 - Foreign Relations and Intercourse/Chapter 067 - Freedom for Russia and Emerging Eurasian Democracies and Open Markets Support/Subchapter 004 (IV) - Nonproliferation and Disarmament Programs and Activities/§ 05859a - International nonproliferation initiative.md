@@ -8,7 +8,7 @@ Subject to the limitations and requirements provided in this section, the Secret
 
 Activities for which assistance may be provided under this section are activities such as the following:
 
-&emsp;(1) Activities carried out by international organizations that are designed to ensuremore effective safeguards against proliferation and more effective verification of compliance with international agreements on nonproliferation.
+&emsp;(1) Activities carried out by international organizations that are designed to ensure more effective safeguards against proliferation and more effective verification of compliance with international agreements on nonproliferation.
 
 &emsp;(2) Activities of the Department of Defense in support of the United Nations Special Commission on Iraq (or any successor organization).
 
@@ -122,7 +122,7 @@ Subsec. (b)(1). Pub. L. 103–337, §1501(b)(1), substituted “international or
 
 Subsec. (b)(4). Pub. L. 103–337, §1501(b)(2), substituted “nuclear, biological, chemical, and missile proliferation through technical projects and improved information sharing” for “nuclear proliferation through joint technical projects and improved intelligence sharing”.
 
-Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to in this paragraph may also be derived” for “fiscal year 1994 or”.
+Subsec. (d)(1). Pub. L. 103–337, §1501(c)(1), inserted “for fiscal year 1994” after “under this section” and substituted “fiscal year 1994. Funds provided as assistance under this section for fiscal year 1995 shall be derived from amounts made available to the Department of Defense for fiscal year 1995. Funds provided as assistance under this section for a fiscal year referred to inthis paragraph may also be derived” for “fiscal year 1994 or”.
 
 Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted “for fiscal year 1994 or $20,000,000 for fiscal year 1995”.
 
@@ -132,7 +132,7 @@ Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of sub
 
 1993—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 
-Subsec. (d)(3). Pub. L. 103–160, §1602(b)(2), struck out at end “Of such amount, not more than $20,000,000 may be used for the activities of the On-Site InspectionAgency in support of the United Nations Special Commission on Iraq.”
+Subsec. (d)(3). Pub. L. 103–160, §1602(b)(2), struck out at end “Of such amount, not more than $20,000,000 may be used for the activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq.”
 
 Pub. L. 103–160, §1602(b)(1), substituted “$25,000,000, including funds used for activities of the On-Site Inspection Agency in support of the United Nations Special Commission on Iraq” for “40,000,000”.
 

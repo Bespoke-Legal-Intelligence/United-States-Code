@@ -14,7 +14,7 @@ Such lender may offer a combined payment plan only if—
 
 &emsp;(1) the lender holds an outstanding loan of that borrower which is selected by the borrower for incorporation into a combined payment plan pursuant to this section (including loans which are selected by the borrower for consolidation under this section); or
 
-&emsp;(2) the borrower certifies that the borrower has sought and has been unable to obtain acombined payment plan from the holders of the outstanding loans of that borrower.
+&emsp;(2) the borrower certifies that the borrower has sought and has been unable to obtain a combined payment plan from the holders of the outstanding loans of that borrower.
 
 #### (d) Borrower selection of competing offers
 

@@ -52,7 +52,7 @@ In awarding grants or contracts under this section, the eligible agency shall co
 
 &emsp;(9) whether the activities coordinate with other available resources in the community, such as by establishing strong links with elementary schools and secondary schools, postsecondary educational institutions, one-stop centers, job training programs, and social service agencies;
 
-&emsp;(10) whether the activities offer flexible schedules and support services (such as child care and transportation) that are necessary to enable individuals, including individuals withdisabilities or other special needs, to attend and complete programs;
+&emsp;(10) whether the activities offer flexible schedules and support services (such as child care and transportation) that are necessary to enable individuals, including individuals with disabilities or other special needs, to attend and complete programs;
 
 &emsp;(11) whether the activities maintain a high-quality information management system that has the capacity to report participant outcomes and to monitor program performance against the eligible agency performance measures; and
 

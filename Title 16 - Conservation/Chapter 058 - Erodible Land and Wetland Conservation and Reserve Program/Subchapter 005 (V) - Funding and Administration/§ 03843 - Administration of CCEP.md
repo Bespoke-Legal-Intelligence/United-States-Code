@@ -18,7 +18,7 @@ The Secretary shall, to the extent practicable, avoid duplication in—
 
 #### (1) In general
 
-&emsp;The Secretary shall not enroll more than 25 percent of the cropland in any county in theprograms administered under the conservation reserve and wetlands reserve programs established under subparts B and C, respectively, of part I of subchapter IV of this chapter. Not more than 10 percent of the cropland in a county may be subject to an easement acquired under the subparts.
+&emsp;The Secretary shall not enroll more than 25 percent of the cropland in any county in the programs administered under the conservation reserve and wetlands reserve programs established under subparts B and C, respectively, of part I of subchapter IV of this chapter. Not more than 10 percent of the cropland in a county may be subject to an easement acquired under the subparts.
 
 #### (2) Exception
 
@@ -94,7 +94,7 @@ Not later than 90 days after April 4, 1996, the Secretary shall issue regulation
 
 #### (A) In general
 
-&emsp;&emsp;In addition to resources from programs under subchapter IV of this chapter, subjectto subparagraph (B), the Secretary shall use not more than 5 percent of the funds made available for each fiscal year under section 3841(a) of this title to carry out activities that are authorized under conservation programs under subchapter IV of this chapter.
+&emsp;&emsp;In addition to resources from programs under subchapter IV of this chapter, subject to subparagraph (B), the Secretary shall use not more than 5 percent of the funds made available for each fiscal year under section 3841(a) of this title to carry out activities that are authorized under conservation programs under subchapter IV of this chapter.
 
 #### (B) Unused funding
 

@@ -12,7 +12,7 @@
 
 (b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
-&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretaryshall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
+&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
 &emsp;(2) contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.
 
@@ -56,7 +56,7 @@ A prior section 1781 was renumbered section 3681 of this title.
 
 2002—Pub. L. 107–135, §208(c)(1), (2), renumbered section 1713 of this title as this section.
 
-Subsec. (b). Pub. L. 107–135, §208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.”
+Subsec. (b). Pub. L. 107–135, §208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medicalservices as a veteran, including services under sections 1782 and 1783 of this title.”
 
 Subsec. (d)(1)(B)(i). Pub. L. 107–330, §308(g)(8)(A), substituted “as of June 5, 2001” for “as of the date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001”.
 

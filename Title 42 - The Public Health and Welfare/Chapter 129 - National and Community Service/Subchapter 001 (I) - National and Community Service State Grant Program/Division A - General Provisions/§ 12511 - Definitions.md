@@ -48,7 +48,7 @@ For purposes of this subchapter:
 
 #### (10) Indian lands
 
-&emsp;The term “Indian lands” means any real property owned by an Indian tribe, any realproperty held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
+&emsp;The term “Indian lands” means any real property owned by an Indian tribe, any real property held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
 
 #### (11) Indian tribe
 
@@ -148,7 +148,7 @@ For purposes of this subchapter:
 
 #### (24) Service-learning coordinator
 
-&emsp;The term “service-learning coordinator” means an individual who provides services asdescribed in subsection (a)(3) or (b) of section 12521 of this title.
+&emsp;The term “service-learning coordinator” means an individual who provides services as described in subsection (a)(3) or (b) of section 12521 of this title.
 
 #### (25) Service sponsor
 
@@ -156,7 +156,7 @@ For purposes of this subchapter:
 
 #### (26) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. The term also includes Palau, until such time as the Compact of Free Association is ratified.
+&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. The term also includes Palau, untilsuch time as the Compact of Free Association is ratified.
 
 #### (27) State Commission
 
@@ -228,7 +228,7 @@ Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and ins
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2751, 12524, 12531, 12561, 12604, 12653b, 12682 of this title; title 20 section 1003.
+This section is referred to in sections 2751, 12524, 12531, 12561, 12604, 12605, 12653b, 12682 of this title; title 20 section 1003.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

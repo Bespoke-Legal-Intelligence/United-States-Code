@@ -8,29 +8,41 @@
 
 &emsp;(B) the supplies to be transported are suitable for humanitarian purposes and are in usable condition;
 
-&emsp;(C) there is a legitimate humanitarian need for such supplies by the people for whom they are intended;
+&emsp;(C) there is a legitimate humanitarian need for such supplies by the people or entity for whom they are intended;
 
 &emsp;(D) the supplies will in fact be used for humanitarian purposes; and
 
-&emsp;(E) adequate arrangements have been made for the distribution of such supplies in the destination country.
+&emsp;(E) adequate arrangements have been made for the distribution or use of such supplies in the destination country.
 
 (2) The President shall establish procedures for making the determinations required under paragraph (1). Such procedures shall include inspection of supplies before acceptance for transport.
 
-(3) It shall be the responsibility of the donor to ensure that supplies to be transported under this section are suitable for transport.
+(3) It shall be the responsibility of the entity requesting the transport of supplies under this section to ensure that the supplies are suitable for transport.
 
 (c)(1) Supplies transported under this section may be distributed by an agency of the United States Government, a foreign government, an international organization, or a private nonprofit relief organization.
 
 (2) Supplies transported under this section may not be distributed, directly or indirectly, to any individual, group, or organization engaged in a military or paramilitary activity.
 
-(d) Not later than July 31 each year, the Secretary of State shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report identifying the origin, contents, destination, and disposition of all supplies transported under this section during the 12-month period ending on the preceding June 30.
+(d)(1) The Secretary of Defense may use the authority provided by subsection (a) to transport supplies intended for use to respond to, or mitigate the effects of, an event or condition, such as an oil spill, that threatens serious harm to the environment, but only if other sources to provide such transportation are not readily available.
 
-(Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L. 101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–106, div. A, title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(2) Notwithstanding subsection (a), the Secretary of Defense may require reimbursement for costs incurred by the Department of Defense to transport supplies under this subsection.
+
+(e) Not later than July 31 each year, the Secretary of State shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives a report identifying the origin, contents, destination, and disposition of all supplies transported under this section during the 12-month period ending on the preceding June 30.
+
+(Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L. 101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–106, div. A, title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title III, §312(a), (b), Nov. 24, 2003, 117 Stat. 1429.)
 
 #### Prior Provisions
 
 A prior section 402 was renumbered section 401(b) of this title.
 
 #### Amendments
+
+2003—Subsec. (b)(1)(C). Pub. L. 108–136, §312(b)(1), inserted “or entity” after “people”.
+
+Subsec. (b)(1)(E). Pub. L. 108–136, §312(b)(2), inserted “or use” after “distribution”.
+
+Subsec. (b)(3). Pub. L. 108–136, §312(b)(3), substituted “entity requesting the transport of supplies under this section to ensure that the supplies” for “donor to ensure that supplies to be transported under this section”.
+
+Subsecs. (d), (e). Pub. L. 108–136, §312(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -52,7 +64,7 @@ Priority for Disaster Relief Assistance.—In processing applications for the tr
 
 “(b)
 
-Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assistapplicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
+Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
 
 #### First Report Deadline
 

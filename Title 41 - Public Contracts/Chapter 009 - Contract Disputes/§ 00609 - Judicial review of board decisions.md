@@ -10,7 +10,7 @@
 
 #### (b) Finality of board decision
 
-In the event of an appeal by a contractor or the Government from a decision of any agencyboard pursuant to section 607 of this title, notwithstanding any contract provision, regulation, or rules of law to the contrary, the decision of the agency board on any question of law shall not be final or conclusive, but the decision on any question of fact shall be final and conclusive and shall not be set aside unless the decision is fraudulent, or arbitrary, or capricious, or so grossly erroneous as to necessarily imply bad faith, or if such decision is not supported by substantial evidence.
+In the event of an appeal by a contractor or the Government from a decision of any agency board pursuant to section 607 of this title, notwithstanding any contract provision, regulation, or rules of law to the contrary, the decision of the agency board on any question of law shall not be final or conclusive, but the decision on any question of fact shall be final and conclusive and shall not be set aside unless the decision is fraudulent, or arbitrary, or capricious, or so grossly erroneous as to necessarily imply bad faith, or if such decision is not supported by substantial evidence.
 
 #### (c) Remand or retention of case
 
@@ -22,7 +22,7 @@ If two or more suits arising from one contract are filed in the United States Co
 
 #### (e) Judgments as to fewer than all claims
 
-In any suit filed pursuant to this chapter involving two or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one such claim can be divided for purposes of decision or judgment, and in any such suit where multiple parties are involved, the court, whenever such action is appropriate, may enter a judgment as to one or more but fewer than all of the claims, portions thereof, or parties.
+In any suit filed pursuant to this chapter involving two or more claims, counterclaims, cross-claims, or third-party claims, and where a portion of one such claim can be divided for purposes of decision or judgment, and in any such suit where multiple parties are involved, thecourt, whenever such action is appropriate, may enter a judgment as to one or more but fewer than all of the claims, portions thereof, or parties.
 
 #### (f) Advisory opinions
 

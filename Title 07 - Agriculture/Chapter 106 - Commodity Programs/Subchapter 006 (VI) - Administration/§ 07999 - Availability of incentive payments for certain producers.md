@@ -2,7 +2,7 @@
 
 #### (a) Incentive payments required
 
-Subject to subsection (b) of this section, the Secretary shall make available a total of$20,000,000 of funds of the Commodity Credit Corporation during the 2003 through 2005 crop years to provide incentive payments to producers of hard white wheat.
+Subject to subsection (b) of this section, the Secretary shall make available a total of $20,000,000 of funds of the Commodity Credit Corporation during the 2003 through 2005 crop years to provide incentive payments to producers of hard white wheat.
 
 #### (b) Conditions on implementation
 

@@ -16,7 +16,7 @@ A limited retail dealer may lawfully purchase distilled spirits for resale from 
 
 #### (c) Penalty and forfeiture
 
-&emsp;&emsp;<b>For penalty and forfeiture provisions applicable to violation of subsection (a), see sections 5687 and 7302</b>
+&emsp;&emsp;<b>For penalty and forfeiture provisions applicable to violation of subsection (a), see sections 5687 and 7302.</b>
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, §1905(a)(8), Oct. 4, 1976, 90 Stat. 1819.)
 

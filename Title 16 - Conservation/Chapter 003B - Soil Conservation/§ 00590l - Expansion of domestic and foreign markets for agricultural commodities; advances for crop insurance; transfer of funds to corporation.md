@@ -2,7 +2,7 @@
 
 #### (a) Market expansion and surplus disposition
 
-Whenever the Secretary finds that the exercise of the powers conferred in this section will tend to carry out the purpose specified in clause (5) of section 590g(a) of this title, or will tend to provide for and maintain a continuous and stable supply of agricultural commodities adequate to meet consumer demand at prices fair to both producers and consumers, or both, he shall use such part as he deems necessary of the sums appropriated to carry out this chapter for the expansion of domestic and foreign markets or for seeking new or additional markets for agricultural commodities or the products thereof or for the removal or disposition of surpluses of such commodities or the products thereof.
+Whenever the Secretary finds that the exercise of the powers conferred in this section will tend to carry out the purpose specified in clause (5) of section 590g(a) of this title, or will tend to provide for and maintain a continuous and stable supply of agricultural commodities adequateto meet consumer demand at prices fair to both producers and consumers, or both, he shall use such part as he deems necessary of the sums appropriated to carry out this chapter for the expansion of domestic and foreign markets or for seeking new or additional markets for agricultural commodities or the products thereof or for the removal or disposition of surpluses of such commodities or the products thereof.
 
 #### (b) Advances for premiums
 

@@ -56,5 +56,5 @@ Section effective Oct. 13, 1994, and to be implemented in Federal Acquisition Re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 10a of this title; title 6 sections 393, 424.
+This section is referred to in sections 10a, 428a of this title; title 6 sections 393, 424.
 

@@ -28,7 +28,12 @@
 | [523\.](%C2%A7%2000523%20-%20Requisitions.md) | Requisitions. |
 | [524\.](%C2%A7%2000524%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
 | [525\.](%C2%A7%2000525%20-%20Procurement%20of%20law%20books%2C%20reference%20books%2C%20and%20periodicals%3B%20sale%20and%20exchange.md) | Procurement of law books, reference books, and periodicals; sale and exchange. |
-| [526\.](%C2%A7%2000526%20-%20Authority%20of%20Attorney%20General%20to%20investigate%20United%20States%20attorneys%2C%20marshals%2C%20trustees%2C%20clerks%20of%20court%2C%20and%20others.md) | Authority of the Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others. |
+| [526\.](%C2%A7%2000526%20-%20Authority%20of%20Attorney%20General%20to%20investigate%20United%20States%20attorneys%2C%20marshals%2C%20trustees%2C%20clerks%20of%20court%2C%20and%20others.md) | Authority of the Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [527\.](%C2%A7%2000527%20-%20Establishment%20of%20working%20capital%20fund.md) | Establishment of working capital fund. |
 | [528\.](%C2%A7%2000528%20-%20Disqualification%20of%20officers%20and%20employees%20of%20the%20Department%20of%20Justice.md) | Disqualification of officers and employees of the Department of Justice. |
 | [529\.](%C2%A7%2000529%20-%20Annual%20report%20of%20Attorney%20General.md) | Annual report of Attorney General. |
@@ -64,11 +69,13 @@ Pub. L. 95–521, title VI, §603(b), Oct. 26, 1978, 92 Stat. 1875, added items 
 
 1975—Pub. L. 93–613, §1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
 
-1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies”for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
+1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies” for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 463 of this title; title 42 section 7192.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

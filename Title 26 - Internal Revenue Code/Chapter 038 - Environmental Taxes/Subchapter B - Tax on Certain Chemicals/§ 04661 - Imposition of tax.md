@@ -260,7 +260,7 @@ Registration requirements.—Section 4662(c)(2)(B) of such Code (as added by sub
 
 “(4)
 
-Exports of taxable substances.—Subclause (II) of section 4662(e)(2)(A)(ii) of such Code (as added by this section) shall not apply to the export of any taxable substance (as defined in section 4672(a) of such Code) before January 1, 1989.
+Exports of taxable substances.—Subclause (II) of section 4662(e)(2)(A)(ii) of such Code (as added by this section) shall not apply to the export of any taxablesubstance (as defined in section 4672(a) of such Code) before January 1, 1989.
 
 “(5)
 

@@ -40,7 +40,7 @@ For each quarter beginning after September 30, 1980, each State which has a plan
 
 #### (b) Quarterly estimates of State's entitlement for next quarter; payments; United States’ pro rata share of amounts recovered as overpayment; allowance, disallowance, or deferral of claim
 
-(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with subsection (a) of this section, and stating the amount appropriated or made available by theState and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of children in the State receiving assistance under this part, and (C) such other investigation as the Secretary may find necessary.
+(1) The Secretary shall, prior to the beginning of each quarter, estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with subsection (a) of this section, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the differenceis expected to be derived, (B) records showing the number of children in the State receiving assistance under this part, and (C) such other investigation as the Secretary may find necessary.
 
 (2) The Secretary shall then pay to the State, in such installments as he may determine, the amounts so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
 
@@ -92,7 +92,17 @@ From amounts appropriated pursuant to section 677(h)(2) of this title, the Secre
 
 &emsp;(2) the amount, if any, allotted to the State under section 677(c)(3) of this title for the fiscal year in which the quarter occurs, reduced by the total of the amounts payable to the State under this subsection for such purposes for all prior quarters in the fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917;Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424.)
+#### (f) Reduction for failure to submit required data
+
+(1) If the Secretary finds that a State has failed to submit to the Secretary data, as required by regulation, for the data collection system implemented under section 679 of this title, the Secretary shall, within 30 days after the date by which the data was due to be so submitted, notify the State of the failure and that payments to the State under this part will be reduced if the State fails to submit the data, as so required, within 6 months after the date the data was originally due to be so submitted.
+
+(2) If the Secretary finds that the State has failed to submit the data, as so required, by theend of the 6-month period referred to in paragraph (1) of this subsection, then, notwithstanding subsection (a) of this section and any regulations promulgated under section 1320a–2a(b)(3) of this title, the Secretary shall reduce the amounts otherwise payable to the State under this part, for each quarter ending in the 6-month period (and each quarter ending in each subsequent consecutively occurring 6-month period until the Secretary finds that the State has submitted the data, as so required), by—
+
+&emsp;(A) 1/6 of 1 percent of the total amount expended by the State for administration of foster care activities under the State plan approved under this part in the quarter so ending, in the case of the 1st 6-month period during which the failure continues; or
+
+&emsp;(B) 1/4 of 1 percent of the total amount so expended, in the case of the 2nd or any subsequent such 6-month period.
+
+(Aug. 14, 1935, ch. 531, title IV, §474, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 506; amended Pub. L. 96–611, §3, Dec. 28, 1980, 94 Stat. 3567; Pub. L. 98–369, div. B, title VI, §2663(c)(18), July 18, 1984, 98 Stat. 1167; Pub. L. 98–617, §4(a), (b), Nov. 8, 1984, 98 Stat. 3296, 3297; Pub. L. 99–272, title XII, §§12306(a), (b), 12307(c), Apr. 7, 1986, 100 Stat. 294, 296; Pub. L. 99–514, title XVIII, §1883(b)(9), Oct. 22, 1986, 100 Stat. 2917; Pub. L. 100–203, title IX, §9132(a), Dec. 22, 1987, 101 Stat. 1330–313; Pub. L. 101–239, title VIII, §§8001(a), 8002(c), 8006(a), title X, §§10401(a), 10402(a), 10403(c)(1), Dec. 19, 1989, 103 Stat. 2452, 2453, 2461, 2487, 2488; Pub. L. 101–508, title V, §5071(a), Nov. 5, 1990, 104 Stat. 1388–233; Pub. L. 103–66, title XIII, §13713(a)(1), (2), (b)(1), Aug. 10, 1993, 107 Stat. 656, 657; Pub. L. 103–432, title II, §§207(a), (b), 210(a), Oct. 31, 1994, 108 Stat. 4457, 4460; Pub. L. 104–188, title I, §1808(b), Aug. 20, 1996, 110 Stat. 1903; Pub. L. 105–89, title II, §202(b), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–200, title III, §301(b), (c), title IV, §410(g), July 16, 1998, 112 Stat. 658, 674; Pub. L. 106–169, title I, §101(c), Dec. 14, 1999, 113 Stat. 1828; Pub. L. 107–133, title II, §201(f), Jan. 17, 2002, 115 Stat. 2424; Pub. L. 108–145, §4, Dec. 2, 2003, 117 Stat. 1881.)
 
 #### References in Text
 
@@ -101,6 +111,8 @@ Parts A and B of this subchapter, referred to in subsec. (a)(3)(C)(iii), (iv), a
 The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Amendments
+
+2003—Subsec. (f). Pub. L. 108–145 added subsec. (f).
 
 2002—Subsec. (a)(4). Pub. L. 107–133, §201(f)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the lesser of—
 
@@ -229,6 +241,10 @@ Pub. L. 98–369, §2663(c)(18)(B), substituted “relevant” for “relvant”
 Subsec. (d)(1). Pub. L. 98–369, §2663(c)(18)(C), substituted “and (C) such” for “and (c) such” and “Secretary may find” for “secretary may find”.
 
 1980—Subsec. (d). Pub. L. 96–611 added subsec. (d).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–145 effective Oct. 1, 2003, see section 5 of Pub. L. 108–145, set out as a note under section 673b of this section.
 
 #### Effective Date of 2002 Amendment
 

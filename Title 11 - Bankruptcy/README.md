@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 2002 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 2003 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -30,7 +30,7 @@
 
 1986—Pub. L. 99–554, title II, §257(a), Oct. 27, 1986, 100 Stat. 3114, added item for chapter 12.
 
-Table I<br>This Table lists the sections of former Title 11, Bankruptcy, and indicates the sections of Title 11, as revised by Pub. L. 95–598 which cover similar and related subject matter.
+Table I<br>This Table lists the sections of former Title 11,<br>Bankruptcy, and indicates the sections of Title 11,<br>as revised by Pub. L. 95–598 which cover similar<br>and related subject matter.
 
 <i>Title 11</i>
 
@@ -2700,7 +2700,7 @@ Rep.
 
 Rep.
 
-Table II<br>This Table lists the sections of revised Title 11, Bankruptcy, and indicates the sections of former Title 11, which covered similar and related subject matter.
+Table II<br>This Table lists the sections of revised Title 11,<br>Bankruptcy, and indicates the sections of former<br>Title 11, which covered similar and related subject<br>matter.
 
 <i>Title 11</i>
 
@@ -4132,7 +4132,7 @@ Pub. L. 95–598, title IV, §401(a), Nov. 6, 1978, 92 Stat. 2682, provided that
 
 #### Effective Date
 
-Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pub. L. 98–249, §1(a), Mar. 31, 1984, 98Stat. 116; Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343, 345; Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745, provided that:
+Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pub. L. 98–249, §1(a), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343, 345; Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745, provided that:
 
 “(a) Except as otherwise provided in this title \[sections 401 to 411\], this Act \[for classification to the Code, see Tables\] shall take effect on October 1, 1979.
 
@@ -4200,7 +4200,7 @@ Pub. L. 91–354, §§1–6, July 24, 1970, 84 Stat. 468, as amended by Pub. L. 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 7 sections 12, 24; title 8 section 1154; title 10 sections 510, 1151, 2005, 2130a, 2200a; title 12 sections 339a, 624, 1150, 1467a, 1787, 1817, 1821; title 15 sections 77c, 77ccc, 78eee, 78fff, 78fff–1, 78fff–2, 78fff–4, 78<i>lll</i>, 79k, 80a–2, 80a–25, 80b–2, 1681c, 1870; title 17 section 201; title 18 sections 151, 152, 154, 155, 156, 157, 1961, 2516, 3284, 3613; title 19 section 1485; title 20 sections 1087–3, 6674; title 25 sections 1613a, 1616a; title 26 sections 108, 351, 355, 368, 382, 401, 422, 542, 856, 1017, 1361, 1398, 1399, 3302, 4980B, 6012, 6036, 6103, 6161, 6212, 6213, 6229, 6255, 6327, 6503, 6512, 6532, 6658, 6871, 6872, 7437, 7464, 7508; title 28 sections 156, 157, 158, 526, 586, 1334, 1408, 1409, 1411, 1412, 1930, 2075, 3003; title 29 sections 152, 402, 1054, 1163, 1341, 1343, 1362, 1368, 1391, 1402, 1405, 1413; title 30 section 934; title 31 section 3713; title 33 sections 511, 2716; title 37 sections 301b, 301d, 301e, 302, 302b, 302d, 302e, 302g, 302h, 302j, 308e, 308g, 308h, 308i, 309, 314, 315, 317, 318, 319, 321, 322, 323, 324, 325; title 38 sections 3732, 7634; title 40 section 1307; title 41 section 41; title 42 sections 254<i>o</i>, 292f, 292<i>o</i>, 294f, 300ff–76, 656, 1473, 2000e, 3602, 6924, 6991b, 6991c, 9602, 9608; title 43 sections 617p, 1606,1636; title 45 sections 701, 791, 912, 1007; title 47 section 1104; title 48 sections 1424–4, 1614, 1821; title 49 section 14301.
+This title is referred to in title 7 sections 12, 24; title 8 section 1154; title 10 sections 510, 1151, 2005, 2130a, 2200a, 16135; title 12 sections 339a, 624, 1150, 1467a, 1787, 1817, 1821; title 14 section 709a; title 15 sections 77c, 77ccc, 78eee, 78fff, 78fff–1, 78fff–2, 78fff–4, 78<i>lll</i>, 79k, 80a–2, 80a–25, 80b–2, 1681c, 1870; title 17 section 201; title 18 sections 151, 152, 154, 155, 156, 157, 1519, 1961, 2516, 3284, 3613; title 19 section 1485; title 20 sections 1087–3, 6674; title 25 sections 1613a, 1616a; title 26 sections 108, 351, 355, 368, 382, 401, 422, 542, 856, 1017, 1361, 1398, 1399, 3302, 4980B, 6012, 6036, 6103, 6161, 6212, 6213, 6229, 6255, 6327, 6503, 6512, 6532, 6658, 6871, 6872, 7437, 7464, 7508; title 28 sections 156, 157, 158, 526, 586, 1334, 1408, 1409, 1411, 1412, 1930, 2075, 3003; title 29 sections 152, 402, 1054, 1163, 1341, 1343, 1362, 1368, 1391, 1402, 1405, 1413; title 30 section 934; title 31 section 3713; title 33 sections 511, 2716; title 37 sections 301b, 301d, 301e, 302, 302b, 302d, 302e, 302g, 302h, 302j, 308e,308g, 308h, 308i, 309, 314, 315, 317, 318, 319, 321, 322, 323, 324, 325, 326; title 38 sections 3732, 7634; title 40 section 1307; title 41 section 41; title 42 sections 254<i>o</i>, 292f, 292<i>o</i>, 294f, 300ff–76, 656, 1473, 2000e, 3602, 6924, 6991b, 6991c, 9602, 9608; title 43 sections 617p, 1606, 1636; title 45 sections 701, 791, 912, 1007; title 47 section 1104; title 48 sections 1424–4, 1614, 1821; title 49 section 14301.
 
 
 ---

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) any cooperative bank without capital stock organized and operated for mutual purposes and without profit,
 
-> &emsp;there shall be allowed a deduction for a reasonable addition to a reserve for bad debts.Such deduction shall be in lieu of any deduction under section 166(a).
+> &emsp;there shall be allowed a deduction for a reasonable addition to a reserve for bad debts. Such deduction shall be in lieu of any deduction under section 166(a).
 
 #### (2) Organization must meet 60-percent asset test of section 7701(a)(19)
 
@@ -40,7 +40,7 @@
 
 #### (B) Reduction for amounts referred to in paragraph (1)(A)
 
-&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced (but not below 0) by the amount determined under paragraph (1)(A).
+&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced (but not below 0)by the amount determined under paragraph (1)(A).
 
 #### (C) Overall limitation on paragraph
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (2) Amounts charged to reserve accounts and included in gross income
 
-&emsp;If any distribution is treated under paragraph (1) as having been made out of the reserves described in subparagraphs (B) and (C) of such paragraph, the amount charged against such reserve shall be the amount which, when reduced by the amount of tax imposed under this chapter and attributable to the inclusion of such amount in gross income,is equal to the amount of such distribution; and the amount so charged against such reserve shall be included in gross income of the taxpayer.
+&emsp;If any distribution is treated under paragraph (1) as having been made out of the reserves described in subparagraphs (B) and (C) of such paragraph, the amount charged against such reserve shall be the amount which, when reduced by the amount of tax imposed under this chapter and attributable to the inclusion of such amount in gross income, is equal to the amount of such distribution; and the amount so charged against such reserve shall be included in gross income of the taxpayer.
 
 #### (3) Special rules
 
@@ -214,7 +214,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 #### (D) Base amount
 
-&emsp;&emsp;For purposes of subparagraph (B), the base amount is the average of the principal amounts of the residential loans made by the taxpayer during the 6 most recent taxable years beginning on or before December 31, 1995. At the election of the taxpayer who made such loans during each of such 6 taxable years, the preceding sentence shall beapplied without regard to the taxable year in which such principal amount was the highest and the taxable year in such principal amount was the lowest. Such an election may be made only for the first taxable year beginning after such date, and, if made for such taxable year, shall apply to the succeeding taxable year unless revoked with the consent of the Secretary.
+&emsp;&emsp;For purposes of subparagraph (B), the base amount is the average of the principal amounts of the residential loans made by the taxpayer during the 6 most recent taxable years beginning on or before December 31, 1995. At the election of the taxpayer who made such loans during each of such 6 taxable years, the preceding sentence shall be applied without regard to the taxable year in which such principal amount was the highest and the taxable year in such principal amount was the lowest. Such an election may be made only for the first taxable year beginning after such date, and, if made for such taxable year, shall apply to the succeeding taxable year unless revoked with the consent of the Secretary.
 
 #### (E) Controlled groups
 
@@ -278,7 +278,7 @@ Subsecs. (f), (g). Pub. L. 104–188, §1616(a), added subsecs. (f) and (g).
 
 1990—Subsec. (b). Pub. L. 101–508, §11801(c)(12)(F), which directed the amendment of pars. (1)(A) and (E) by substituting “section 585(b)(2)” for “section 585(b)(3)”, was executed to pars. (1)(A) and (3). See 1996 Amendment note above.
 
-1989—Subsec. (e)(1). Pub. L. 101–73 amended last sentence generally. Prior to amendment, last sentenceread as follows: “This paragraph shall not apply to any transaction to which section 381 (relating to carryovers in certain corporate acquisitions) applies, or to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Federal Savings and Loan Insurance Corporation in exchange for financial assistance pursuant to section 406(f) of the National Housing Act (12 U.S.C. sec. 1729(f)).”
+1989—Subsec. (e)(1). Pub. L. 101–73 amended last sentence generally. Prior to amendment, last sentence read as follows: “This paragraph shall not apply to any transaction to which section 381 (relating to carryovers in certain corporate acquisitions) applies, or to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Federal Savings and Loan Insurance Corporation in exchange for financial assistance pursuant to section 406(f) of the National Housing Act (12 U.S.C. sec. 1729(f)).”
 
 1988—Subsec. (b)(2)(D)(v). Pub. L. 100–647, §1003(c)(3), added cl. (v).
 

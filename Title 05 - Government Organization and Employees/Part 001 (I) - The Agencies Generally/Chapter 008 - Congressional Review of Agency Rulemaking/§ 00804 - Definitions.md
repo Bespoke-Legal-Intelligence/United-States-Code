@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions; or
 
-&emsp;&emsp;(C) significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic and export markets.
+&emsp;&emsp;(C) significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete withforeign-based enterprises in domestic and export markets.
 
 > &emsp;The term does not include any rule promulgated under the Telecommunications Act of 1996 and the amendments made by that Act.
 

@@ -84,11 +84,11 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In subsection (a), the cross-reference to chapter 7 of title 5 is omitted as unnecessary.
 
-In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma) is omitted as obsolete. The words “National Transportation Safety Board”were substituted for “Board” in 49 App.:1481 (4th sentence) because 49 App.:1655(d) transferred all functions, duties, and powers of the Civil Aeronautics Board under titles VI and VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775) to the Secretary of Transportation to be carried out through the former National Transportation Safety Board in the Department of Transportation. Title VI includes sections 602 and 609 \[49 App.:1422, 1429\], that provide for appeals to the Civil Aeronautics Board (subsequently transferred to the National Transportation Safety Board), and section 611(e) \[49 App.:1431(e)\], that provides for appeals to the National Transportation Safety Board. Under 49 App.:1902(a), the National Transportation Safety Board in the Department of Transportation was replaced by an independent National Transportation Safety Board outside the Department, and 49 App.:1903(a)(9)(A) gave the independent Board the authority to review appeals from actions of the Secretary under 49 App.:1422, 1429, and 1431(e).
+In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma) is omitted as obsolete. The words “National Transportation Safety Board” were substituted for “Board” in 49 App.:1481 (4th sentence) because 49 App.:1655(d) transferred all functions, duties, and powers of the Civil Aeronautics Board under titles VI and VII of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 775) to the Secretary of Transportation to be carried out through the former National Transportation Safety Board in the Department of Transportation. Title VI includes sections 602 and 609 \[49 App.:1422, 1429\], that provide for appeals to the Civil Aeronautics Board (subsequently transferred to the National Transportation Safety Board), and section 611(e) \[49 App.:1431(e)\], that provides for appeals to the National Transportation Safety Board. Under 49 App.:1902(a), the National Transportation Safety Board in the Department of Transportation was replaced by an independent National Transportation Safety Board outside the Department, and 49 App.:1903(a)(9)(A) gave the independent Board the authority to review appeals from actions of the Secretary under 49 App.:1422, 1429, and 1431(e).
 
 In subsection (c), the words “vote and” are omitted as surplus.
 
-In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+In subsection (d), the words “officer or employee of the Administration” are substituted for “member” forclarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
 
 #### Amendments
 
@@ -103,4 +103,8 @@ Subsec. (d). Pub. L. 107–71, §140(b)(6), inserted “the Under Secretary,” 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 40110 of this title.
 

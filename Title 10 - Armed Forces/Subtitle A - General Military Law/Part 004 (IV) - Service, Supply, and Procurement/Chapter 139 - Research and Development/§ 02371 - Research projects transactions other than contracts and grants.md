@@ -58,6 +58,8 @@ Annual Report.—(1) Not later than 90 days after the end of each fiscal year, t
 
 &emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection\(d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
 
+(3) No report is required under this subsection for a fiscal year after fiscal year 2006.
+
 (i)
 
 Protection of Certain Information From Disclosure.—(1) Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for five years after the date on which the information is received by the Department of Defense.
@@ -72,9 +74,11 @@ Protection of Certain Information From Disclosure.—(1) Disclosure of informati
 
 &emsp;(iii) Technical information submitted on a confidential basis.
 
-(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 101–189, div. A, title II, §251(a)(1), Nov. 29, 1989, 103 Stat. 1403; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(9), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–190, div. A, title VIII, §826, Dec. 5, 1991, 105 Stat. 1442; Pub. L. 102–484, div. A, title II, §217, Oct. 23, 1992, 106 Stat. 2352; Pub. L. 103–35, title II, §201(c)(4), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title VIII, §827(b), title XI, §1182(a)(6), Nov. 30, 1993, 107 Stat. 1712, 1771; Pub. L. 103–355, title I, §1301(b), Oct. 13, 1994, 108 Stat. 3285; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title II, §267(a)–(c)(1)(A), title X, §1073(e)(1)(B), Sept. 23, 1996, 110 Stat. 2467, 2468, 2658; Pub. L. 105–85, div. A, title VIII, §832, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 105–261, div. A, title VIII, §817, Oct. 17, 1998, 112 Stat. 2089; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(19), Nov. 24, 2003, 117 Stat. 1597.)
 
 #### Amendments
+
+2003—Subsec. (h)(3). Pub. L. 108–136 added par. (3).
 
 1999—Subsec. (h)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
@@ -118,7 +122,7 @@ Subsec. (b). Pub. L. 103–160, §827(b)(1)(B), redesignated subsec. (c) as (b).
 
 Subsec. (c). Pub. L. 103–160, §827(b)(1)(B), (2)(A), redesignated subsec. (d) as (c) and inserted “and development” after “research” in two places in par. (1). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 103–160, §827(b)(1)(B), (D), (2)(B), redesignated subsec. (e), as amended by Pub. L. 103–160, §1182(a)(6), (h), as (d) and substituted “section 2358 ofthis title” for “subsection (a)” and “research and development” for “advanced research”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 103–160, §827(b)(1)(B), (D), (2)(B), redesignated subsec. (e), as amended by Pub. L. 103–160, §1182(a)(6), (h), as (d) and substituted “section 2358 of this title” for “subsection (a)” and “research and development” for “advanced research”. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 103–160, §827(b)(1)(B), (E), (2)(B), (C), redesignated subsec. (f) as (e), in par. (1) substituted “research and development are” for “advanced research is”, in par. (3) substituted “research and development” for “advanced research”, in par. (4) substituted “subsection (a)” for “subsection (b)”, and in par. (5) substituted “subsection (d)” for “subsection (e)”. Former subsec. (e) redesignated (d).
 
@@ -156,11 +160,11 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554, provided that:
 
 “(a)
 
-Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense.
+Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
 
 “(b)
 
@@ -188,11 +192,11 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;“(A) there is at least one nontraditional defense contractor participating to a significant extent in the prototype project; or
 
-&emsp;“(B) no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
+&emsp;“(B) no nontraditional defense contractor is participating to a significant extent in the prototypeproject, but at least one of the following circumstances exists:
 
 &emsp;&emsp;“(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
 
-&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
 
 “(2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
 
@@ -204,13 +208,35 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 “(e)
 
+Pilot Program for Transition to Follow-on Contracts.—(1) The Secretary of Defense is authorized to carry out a pilot program for follow-on contracting for the production of items or processes under prototype projects carried out under this section.
+
+“(2) Under the pilot program—
+
+&emsp;“(A) a qualifying contract for the procurement of such an item or process, or a qualifying subcontract under a contract for the procurement of such an item or process, may be treated as a contract or subcontract, respectively, for the procurement of commercial items, as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)); and
+
+&emsp;“(B) the item or process may be treated as an item or process, respectively, that is developed in part with Federal funds and in part at private expense for the purposes of section 2320 of title 10, United States Code.
+
+“(3) For the purposes of the pilot program, a qualifying contract or subcontract is a contract or subcontract, respectively, with a nontraditional defense contractor that—
+
+&emsp;“(A) does not exceed $50,000,000; and
+
+&emsp;“(B) is either—
+
+&emsp;&emsp;“(i) a firm, fixed-price contract or subcontract; or
+
+&emsp;&emsp;“(ii) a fixed-price contract or subcontract with economic price adjustment.
+
+“(4) The authority to conduct a pilot program under this subsection shall terminate on September 30, 2008. The termination of the authority shall not affect the validity of contracts or subcontracts that are awarded or modified during the period of the pilot program, without regard to whether the contracts or subcontracts are performed during the period.
+
+“(f)
+
 Nontraditional Defense Contractor Defined.—In this section, the term ‘nontraditional defense contractor’ means an entity that has not, for a period of at least one year prior to the date that a transaction (other than a contract, grant, or cooperative agreement) for a prototype project under the authority of this section is entered into, entered into or performed with respect to—
 
 &emsp;“(1) any contract that is subject to full coverage under the cost accounting standards prescribed pursuant to section 26 of the Office of Federal Procurement Policy Act (41 U.S.C. 422) and the regulations implementing such section; or
 
 &emsp;“(2) any other contract in excess of $500,000 to carry out prototype projects or to perform basic, applied, or advanced research projects for a Federal agency, that is subject to the Federal Acquisition Regulation.
 
-“(f)
+“(g)
 
 Follow-On Production Contracts.—(1) A transaction entered into under this section for a prototype project that satisfies the conditions set forth in subsection (d)(1)(B)(i) may provide for the award of a follow-on production contract to the participants in the transaction for a specific number of units at specific target prices. The number of units specified in the transaction shall be determined on the basis of a balancing of the level of the investment made in the project by the participants other than the Federal Government with the interest of the Federal Government in having competition among sources in the acquisition of the product or products prototyped under the project.
 
@@ -224,11 +250,11 @@ Follow-On Production Contracts.—(1) A transaction entered into under this sect
 
 &emsp;“(D) the prices established in the follow-on production contract do not exceed the target prices specified in the transaction for such a follow-on production contract.
 
-“(g)
+“(h)
 
-Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2004.”
+Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2008.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2358, 2511, 2519 of this title; title 49 section 5506.
+This section is referred to in sections 2358, 2511, 2519 of this title; title 6 section 391; title 49 section 5506.
 

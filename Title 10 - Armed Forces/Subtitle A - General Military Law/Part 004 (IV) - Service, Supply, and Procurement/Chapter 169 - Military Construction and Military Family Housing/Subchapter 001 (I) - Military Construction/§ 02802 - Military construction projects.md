@@ -44,7 +44,7 @@ New Construction.—The Secretary of Defense shall develop specific guidelines f
 
 “(d)
 
-Completion of Assessment and Demonstration.—The assessment conducted under subsection (a)and the demonstration projects, if any, conducted under subsection (b) shall be completed not later than September 30, 2006.
+Completion of Assessment and Demonstration.—The assessment conducted under subsection (a) and the demonstration projects, if any, conducted under subsection (b) shall be completed not later than September 30, 2006.
 
 “(e)
 
@@ -56,11 +56,11 @@ Limitation on Expenditures.—The Secretary of Defense and the Secretaries of th
 
 #### Reports Relating to Military Construction for Facilities Supporting New Weapon Systems
 
-Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, provided that:
+Pub. L. 102–190, div. B, title XXVIII, §2868, Dec. 5, 1991, 105 Stat. 1562, as amended by Pub. L. 108–136, div. A, title X, §1031(c)(2), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(a)
 
-Requirement.—The Secretary of Defense shall submit to Congress with the budget submitted under section 1105 of title 31, United States Code, for the fiscal year in which the first construction of a facility for the permanent basing of a new weapon system is to be authorized a report describing—
+Requirement.—Not later than 30 days after the date on which a decision is made selecting the site or sites for the permanent basing of a new weapon system, the Secretary of Defense shall submit to Congress a report describing—
 
 &emsp;“(1) the site or sites selected or planned for permanent basing of the planned force of that weapon system;
 
@@ -74,5 +74,5 @@ New Weapon System Defined.—For purposes of this section, the term ‘new weapo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2667 of this title.
+This section is referred to in sections 113a, 2667 of this title.
 

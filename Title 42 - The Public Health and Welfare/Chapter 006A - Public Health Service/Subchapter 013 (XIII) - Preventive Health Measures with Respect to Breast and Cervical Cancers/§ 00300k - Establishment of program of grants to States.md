@@ -32,7 +32,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Special consideration for certain States
 
-In making grants under subsection (a) of this section to States whose initial grants under such subsection are made for fiscal year 1995 or any subsequent fiscal year, the Secretary shall give special consideration to any State whoseproposal for carrying out programs under such subsection—
+In making grants under subsection (a) of this section to States whose initial grants under such subsection are made for fiscal year 1995 or any subsequent fiscal year, the Secretary shall give special consideration to any State whose proposal for carrying out programs under such subsection—
 
 &emsp;(1) has been approved through a process of peer review; and
 

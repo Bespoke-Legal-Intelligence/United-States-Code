@@ -1,5 +1,5 @@
 
-19 U.S.C.<br>United States Code, 2002 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
+19 U.S.C.<br>United States Code, 2003 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 19—CUSTOMS DUTIES
 
@@ -30,6 +30,7 @@
 | [<b>22.</b>](Chapter%20022%20-%20Uruguay%20Round%20Trade%20Agreements/README.md) | <b>Uruguay Round Trade Agreements</b> | <b>3501</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Extension%20of%20Certain%20Trade%20Benefits%20to%20Sub-Saharan%20Africa/README.md) | <b>Extension of Certain Trade Benefits to Sub-Saharan Africa</b> | <b>3701</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Bipartisan%20Trade%20Promotion%20Authority/README.md) | <b>Bipartisan Trade Promotion Authority</b> | <b>3801</b> |
+| [<b>25.</b>](Chapter%20025%20-%20Clean%20Diamond%20Trade/README.md) | <b>Clean Diamond Trade</b> | <b>3901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,3 +64,4 @@
 - [Chapter 022 - Uruguay Round Trade Agreements](Chapter%20022%20-%20Uruguay%20Round%20Trade%20Agreements/README.md)
 - [Chapter 023 - Extension of Certain Trade Benefits to Sub-Saharan Africa](Chapter%20023%20-%20Extension%20of%20Certain%20Trade%20Benefits%20to%20Sub-Saharan%20Africa/README.md)
 - [Chapter 024 - Bipartisan Trade Promotion Authority](Chapter%20024%20-%20Bipartisan%20Trade%20Promotion%20Authority/README.md)
+- [Chapter 025 - Clean Diamond Trade](Chapter%20025%20-%20Clean%20Diamond%20Trade/README.md)

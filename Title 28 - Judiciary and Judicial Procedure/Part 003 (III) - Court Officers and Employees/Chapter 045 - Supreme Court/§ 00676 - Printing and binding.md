@@ -12,7 +12,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §354 (Feb. 27, 1925, ch. 364, title II, 43 Stat. 1028; Apr. 29, 1926, ch. 195, title II, 44 Stat. 344; Feb. 24, 1927, ch. 189, title II, 44 Stat. 1194; Feb. 15, 1928, ch. 57, title II, 45 Stat. 79; Jan. 25, 1929, ch. 102, title II, 45 Stat. 1109; Apr. 18, 1930, ch. 184, title II, 46 Stat. 188; Feb. 23, 1931, ch. 280, title II, 46 Stat. 1323; July 1, 1932, ch. 361, title II, 47 Stat. 490; Mar. 1, 1933, ch. 144, title II, 47 Stat. 1382; Apr. 7, 1934, ch. 104, title II, 48 Stat. 539).
 
-The section was expanded to include the printing and binding of the official edition of the court's decisions,thus making possible an economy in the expenditure of Government funds by having the printing and binding done by the same printer.
+The section was expanded to include the printing and binding of the official edition of the court's decisions, thus making possible an economy in the expenditure of Government funds by having the printing and binding done by the same printer.
 
 Subsection (b) of the revised section was supplied to conform to sections 411 and 412 of this title.
 

@@ -68,7 +68,7 @@
 
 (c)(1) The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.
 
-(2) A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the courtmay also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the 6-month grace period but before the acceptance of a maintenance fee under this subsection.
+(2) A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced afterthe 6-month grace period but before the acceptance of a maintenance fee under this subsection.
 
 (d) The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
@@ -122,7 +122,7 @@ The fee for reissue applications is changed slightly.
 
 #### References in Text
 
-Section 13 of this title, referred to in subsec. (d), was renumbered section 12 of this title by Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\], Nov. 29, 1999, 113 Stat. 1501A–536, 1501A–580.
+Section 13 of this title, referred to in subsec. (d), was renumbered section 12 of this title by Pub. L. 106–113,§1000(a)(9) \[title IV, §4717(1)\], Nov. 29, 1999, 113 Stat. 1501A–536, 1501A–580.
 
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to section 632 of Title 15, Commerce and Trade.
 
@@ -196,7 +196,7 @@ Subsec. (a). Pub. L. 102–204, §5(a)(1), amended subsec. (a) generally. Prior 
 
 “6. On filing an appeal from the examiner to the Board of Patent Appeals and Interferences, $115; in addition, on filing a brief in support of the appeal, $115, and on requesting an oral hearing in the appeal before the Board of Patent Appeals and Interferences, $100.
 
-“7. On filing each petition for the revival of an unintentionally abandoned application for a patent or forthe unintentionally delayed payment of the fee for issuing each patent, $500, unless the petition is filed under sections 133 or 151 of this title, in which case the fee shall be $50.
+“7. On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $500, unless the petition is filed under sections 133 or 151 of this title, in which case the fee shall be $50.
 
 “8. For petitions for one-month extensions of time to take actions required by the Commissioner in an application:
 
@@ -264,7 +264,7 @@ Subsec. (a)2. Pub. L. 89–83, §1, applied the issue fee to reissue patents as 
 
 Subsec. (a)3. Pub. L. 89–83, §1, changed the fee structure applicable to design patents from a filing fee of $10, $15, or $30 for terms of 31/2, 7, or 14 years, respectively, to a filing fee of $20 and an issue fee of $10, $20, or $30 for terms of 31/2, 7, or 14 years, respectively.
 
-Subsec. (a)4. Pub. L. 89–83, §1, increased the filing fee for reissue patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty over and above the number of claims in the original patent to $10 for each claim in independent form whichis in excess of the number of independent claims of the original patent and $2 for each claim (whether independent or dependent) which is in excess of ten and also in excess of the number of claims in the original patent, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
+Subsec. (a)4. Pub. L. 89–83, §1, increased the filing fee for reissue patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty over and above the number of claims in the original patent to $10 for each claim in independent form which is in excess of the number of independent claims of the original patent and $2 for each claim (whether independent or dependent) which is in excess of ten and also in excess of the number of claims in the original patent, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
 
 Subsec. (a)5. Pub. L. 89–83, §1, increased the fee for filing disclaimers from $10 to $15.
 
@@ -338,7 +338,7 @@ Section 8 of Pub. L. 96–517 provided that:
 
 “(b) Section 1 of this Act \[enacting sections 301 to 307 of this title\] will take effect on the first day of the seventh month beginning after its enactment \[Dec. 12, 1980\] and will apply to patents in force as of that date or issued thereafter.
 
-“(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent and Trademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
+“(c) Section 3 of this Act \[amending section 42 of this title\] will take effect on the first day of the first fiscal year beginning on or after one calendar year after enactment \[Dec. 12, 1980\]. However, until section 3 takes effect, the Commissioner may credit the Patent andTrademark Office appropriation account in the Treasury of the United States with the revenues from collected reexamination fees, which will be available to pay the costs to the Office of reexamination proceedings.
 
 “(d) Any fee in effect as of the date of enactment of this Act \[Dec. 12, 1980\] will remain in effect until a corresponding fee established under section 41 of title 35, United States Code, or section 1113 of title 15, United States Code, takes effect.
 
@@ -404,7 +404,7 @@ Section 5(c)(2) of Pub. L. 102–204 provided that fees established by the Commi
 
 #### Patent Information Dissemination
 
-Section 11 of Pub. L. 102–204 set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, provided for fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
+Section 11 of Pub. L. 102–204 set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, providedfor fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
 
 #### Surcharges on Patent Fees
 

@@ -10,7 +10,7 @@ The Secretary may adjust, in accordance with this section, the Federal matching 
 
 #### (b) Reductions in payments to and by States
 
-The Secretary may (subject to the remaining provisions of this section) reduce payment to a State under this subchapter for any quarter by an amount equal to the lesser of the Federal matching share of payments to any institution or person specified in subsection (a) of this section, or the total overpayments to such institution or person under subchapter XVIII of thischapter, and may require the State to reduce its payment to such institution or person by such amount.
+The Secretary may (subject to the remaining provisions of this section) reduce payment to a State under this subchapter for any quarter by an amount equal to the lesser of the Federal matching share of payments to any institution or person specified in subsection (a) of this section, or the total overpayments to such institution or person under subchapter XVIII of this chapter, and may require the State to reduce its payment to such institution or person by such amount.
 
 #### (c) Notice
 

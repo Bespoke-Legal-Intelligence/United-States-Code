@@ -8,7 +8,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;One or more chains of corporations connected through stock ownership with a common parent corporation if—
 
-&emsp;&emsp;(A) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of each of the corporations, except the common parent corporation, is owned (within the meaning of subsection (d)(1)) by one or more of the other corporations; and
+&emsp;&emsp;(A) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of each of the corporations, except the common parent corporation, isowned (within the meaning of subsection (d)(1)) by one or more of the other corporations; and
 
 &emsp;&emsp;(B) the common parent corporation owns (within the meaning of subsection (d)(1)) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of at least one of the other corporations, excluding, in computing such voting power or value, stock owned directly by such other corporations.
 
@@ -88,7 +88,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in anothercorporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -96,7 +96,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
 
-&emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than theparent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
+&emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than the parent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
 
 #### (B) Brother-sister controlled group
 

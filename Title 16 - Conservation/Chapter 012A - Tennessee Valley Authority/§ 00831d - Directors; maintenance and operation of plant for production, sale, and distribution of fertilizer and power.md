@@ -30,7 +30,7 @@ The board is authorized—
 
 #### Codification
 
-Former subsec. (n) authorized President within twelve months after May 18, 1933, to lease nitrate plant numbered 2 and Waco Quarry for production of fertilizer, and has been omitted as executed.
+Former subsec. (n) authorized President within twelve months after May 18, 1933, to lease nitrate plantnumbered 2 and Waco Quarry for production of fertilizer, and has been omitted as executed.
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Former subsec. (n) authorized President within twelve months after May 18, 1933,
 
 1952—Subsec. (m). Joint Res. July 3, 1952, inserted “or, until six months after the termination of the national emergency proclaimed by the President on December 16, 1950, or until such earlier date or dates as the Congress by concurrent resolution or the President may provide but in no event after April 1, 1953, to nations associated with the United States in defense activities”.
 
-1935—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers andlandowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
+1935—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers and landowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
 
 #### Change of Name
 

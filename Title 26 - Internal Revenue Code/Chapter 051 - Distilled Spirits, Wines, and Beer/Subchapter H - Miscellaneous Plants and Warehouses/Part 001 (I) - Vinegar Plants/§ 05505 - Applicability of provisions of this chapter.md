@@ -22,11 +22,11 @@ The provisions of section 5552 relating to the installation of meters, tanks, an
 
 #### (f) Assignment of internal revenue officers
 
-The provisions of section 5553(a) relating to the assignment of internal revenue officers shallbe applicable to plants established under this part.
+The provisions of section 5553(a) relating to the assignment of internal revenue officers shall be applicable to plants established under this part.
 
 #### (g) Authority to waive records, statements, and returns
 
-The provisions of section 5555(b) relating to the authority of the Secretary to waive records, statements, and returns shall be applicable to records, statements, or returns required by this part.
+The provisions of section 5555(b) relating to the authority of the Secretary to waive records,statements, and returns shall be applicable to records, statements, or returns required by this part.
 
 #### (h) Regulations
 

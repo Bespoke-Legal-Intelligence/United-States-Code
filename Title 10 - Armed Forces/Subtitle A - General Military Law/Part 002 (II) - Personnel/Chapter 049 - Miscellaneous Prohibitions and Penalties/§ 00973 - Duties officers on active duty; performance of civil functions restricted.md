@@ -20,17 +20,35 @@
 
 (B) An officer to whom this subsection applies may hold or exercise the functions of a civil office in the Government of the United States that is not described in subparagraph (A) when assigned or detailed to that office or to perform those functions.
 
-(3) Except as otherwise authorized by law, an officer to whom this subsection applies may not hold or exercise, by election or appointment, the functions of a civil office in the government of a State, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government).
+(3) Except as otherwise authorized by law, an officer to whom this subsection applies by reason of subparagraph (A) of paragraph (1) may not hold or exercise, by election or appointment, the functions of a civil office in the government of a State (or of any political subdivision of a State).
 
-(4) Nothing in this subsection shall be construed to invalidate any action undertaken by an officer in furtherance of assigned official duties.
+(4)(A) An officer to whom this subsection applies by reason of subparagraph (B) or (C) of paragraph (1) may not hold, by election or appointment, a civil office in the government of a State (or of any political subdivision of a State) if the holding of such office while this subsection so applies to the officer—
+
+&emsp;(i) is prohibited under the laws of that State; or
+
+&emsp;(ii) as determined by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, interferes with the performance of the officer's duties as an officer of the armed forces.
+
+(B) Except as otherwise authorized by law, while an officer referred to in subparagraph (A) is serving on active duty, the officer may not exercise the functions of a civil office held by the officer as described in that subparagraph.
+
+(5) Nothing in this subsection shall be construed to invalidate any action undertaken by an officer in furtherance of assigned official duties.
+
+(6) In this subsection, the term “State” includes the District of Columbia and a territory, possession, or commonwealth of the United States.
 
 (c) An officer to whom subsection (b) applies may seek and hold nonpartisan civil office on an independent school board that is located exclusively on a military reservation.
 
-(d) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
+(d) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
-(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591.)
+(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §545, Nov. 24, 2003, 117 Stat. 1479.)
 
 #### Amendments
+
+2003—Subsec. (b)(3). Pub. L. 108–136, §545(2), inserted “by reason of subparagraph (A) of paragraph (1)” after “applies” and substituted “(or of any political subdivision of a State)” for “, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government)”.
+
+Subsec. (b)(4), (5). Pub. L. 108–136, §545(1), (3), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (b)(6). Pub. L. 108–136, §545(4), added par. (6).
+
+2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1999—Subsec. (b)(1)(B), (C). Pub. L. 106–65 substituted “270 days” for “180 days”.
 
@@ -46,6 +64,14 @@ Subsec. (a). Pub. L. 96–513, §116(a), substituted “of an armed force on act
 
 Subsec. (b). Pub. L. 96–513, §116(b), substituted “regular officer of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+
 #### Construction and Applicability of Section 973(b)
 
 Section 1002(b), (c) of Pub. L. 98–94 provided that:
@@ -58,11 +84,7 @@ Section 1002(b), (c) of Pub. L. 98–94 provided that:
 
 “(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall preclude a Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election.”
 
-#### Effective Date of 1980 Amendment
-
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in section 806 of this title; title 40 section 758; title 44 section 2105.
+This section is referred to in section 806 of this title; title 40 section 311; title 44 section 2105.
 

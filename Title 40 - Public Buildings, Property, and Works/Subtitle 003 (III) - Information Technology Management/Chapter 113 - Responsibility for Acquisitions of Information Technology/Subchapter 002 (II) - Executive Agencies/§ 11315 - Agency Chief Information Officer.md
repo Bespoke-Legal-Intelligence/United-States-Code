@@ -24,7 +24,7 @@ Duties and Qualifications.—The Chief Information Officer of an agency listed i
 
 &emsp;(3) annually, as part of the strategic planning and performance evaluation process required (subject to section 1117 of title 31) under section 306 of title 5 and sections 1105(a)(28), 1115–1117, and 9703 (as added by section 5(a) of the Government Performance and Results Act of 1993 (Public Law 103–62, 107 Stat. 289)) of title 31—
 
-&emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
+&emsp;&emsp;(A) assesses the requirements established for agency personnel regarding knowledgeand skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management;
 
 &emsp;&emsp;(B) assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements;
 

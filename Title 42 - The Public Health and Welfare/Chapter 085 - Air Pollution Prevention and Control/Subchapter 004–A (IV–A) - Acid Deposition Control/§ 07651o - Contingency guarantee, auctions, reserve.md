@@ -72,7 +72,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;&emsp;(D) has not received (within 180 days after submitting offers to purchase under subparagraph (C)) an acceptance of the offer to purchase the required allowances,
 
-> &emsp;shall, within 30 days after submission of such application, be entitled to receive the Administrator's written guarantee (subject to the eligibility requirements set forth in paragraph (4)) that such required allowances will be made available for purchase from the Direct Sale Subaccount established under this subsection and at a guaranteed price. The guaranteed price at which such allowances shall be made available for purchase shall be $1,500 per ton, adjusted by the percentage, if any, by which the Consumer Price Index (as determined under section 7661a(b)(3)(B)(v) of this title) for the year in which the allowance is purchased exceeds the Consumer Price Index for the calendar year 1990.
+> &emsp;shall, within 30 days after submission of such application, be entitled to receive the Administrator's written guarantee (subject to the eligibility requirements set forth in paragraph (4)) that such required allowances will be made available for purchase from the Direct Sale Subaccount established under this subsection and at a guaranteed price. The guaranteed price at which such allowances shall be made available for purchase shall be $1,500 per ton,adjusted by the percentage, if any, by which the Consumer Price Index (as determined under section 7661a(b)(3)(B)(v) of this title) for the year in which the allowance is purchased exceeds the Consumer Price Index for the calendar year 1990.
 
 #### (4) Eligibility requirements
 
@@ -80,7 +80,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;&emsp;(A) the independent power producer has—
 
-&emsp;&emsp;&emsp;(i) made good faith efforts to purchase the required allowances from the ownersor operators of affected units to which allowances will be allocated, including efforts to purchase at annual auctions under this section, and from industrial sources that have elected to become affected units pursuant to section 7651i of this title; and
+&emsp;&emsp;&emsp;(i) made good faith efforts to purchase the required allowances from the owners or operators of affected units to which allowances will be allocated, including efforts to purchase at annual auctions under this section, and from industrial sources that have elected to become affected units pursuant to section 7651i of this title; and
 
 &emsp;&emsp;&emsp;(ii) such bids and efforts were unsuccessful in obtaining the required allowances; and
 
@@ -174,7 +174,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (3) Proceeds
 
-&emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section, on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b) of this section. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
+&emsp;(A) Notwithstanding section 3302 of title 31 or any other provision of law, within 90 days of receipt, the Administrator shall transfer the proceeds from the auction under this section,on a pro rata basis, to the owners or operators of the affected units at an affected source from whom allowances were withheld under subsection (b) of this section. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
 
 &emsp;(B) At the end of each year, any allowances offered for sale but not sold at the auction shall be returned without charge, on a pro rata basis, to the owner or operator of the affected units from whose allocation the allowances were withheld.
 

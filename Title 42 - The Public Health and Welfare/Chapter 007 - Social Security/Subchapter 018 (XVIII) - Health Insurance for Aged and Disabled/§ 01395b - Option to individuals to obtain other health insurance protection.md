@@ -34,7 +34,7 @@ Federal unemployment tax.—For purposes of chapter 23 of the Internal Revenue C
 
 &emsp;“(2)
 
-Railroad unemployment contributions.—For purposes of the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], the term ‘compensation’ shall not include the amount of any refund requiredunder section 421 of the Medicare Catastrophic Coverage Act of 1988.
+Railroad unemployment contributions.—For purposes of the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], the term ‘compensation’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
 &emsp;“(3)
 
@@ -50,7 +50,7 @@ Effective Date.—This section shall apply with respect to refunds provided on o
 
 #### United States Bipartisan Commission on Comprehensive Health Care
 
-Pub. L. 100–360, title IV, subtitle A, §§401–408, July 1, 1988, 102 Stat. 765–768, as amended by Pub. L. 100–647, title VIII, §8414, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–239, title VI, §6220, Dec. 19, 1989, 103 Stat. 2254, established the United States Bipartisan Commission on Comprehensive Health Care, also known as the “Claude Pepper Commission” or the “Pepper Commission”, and directed Commission to examine shortcomings in health care delivery and financing mechanisms that limit or prevent access of all individuals in United States to comprehensive health care, and make specific recommendations respecting Federal programs, policies, and financing needed to assure the availability of comprehensive long-term care services for elderly and disabled, as well as comprehensive health care services for all individuals in the United States, and further provided for membership of Commission, staff and consultants, powers, authorization of appropriations, submission of findings and recommendations to Congress not later than Nov. 9, 1989, and for termination of Commission 30 days after submissions to Congress.
+Pub. L. 100–360, title IV, subtitle A, §§401–408, July 1, 1988, 102 Stat. 765–768, as amended by Pub. L. 100–647, title VIII, §8414, Nov. 10, 1988, 102 Stat. 3801; Pub. L. 101–239, title VI, §6220, Dec. 19, 1989, 103 Stat. 2254, established the United States Bipartisan Commission on Comprehensive Health Care, also known as the “Claude Pepper Commission” or the “Pepper Commission”, and directed Commission to examine shortcomings in health care delivery and financing mechanisms that limit or prevent access of all individuals in United States to comprehensive health care, and make specificrecommendations respecting Federal programs, policies, and financing needed to assure the availability of comprehensive long-term care services for elderly and disabled, as well as comprehensive health care services for all individuals in the United States, and further provided for membership of Commission, staff and consultants, powers, authorization of appropriations, submission of findings and recommendations to Congress not later than Nov. 9, 1989, and for termination of Commission 30 days after submissions to Congress.
 
 #### Maintenance of Effort Regarding Duplicative Benefits
 

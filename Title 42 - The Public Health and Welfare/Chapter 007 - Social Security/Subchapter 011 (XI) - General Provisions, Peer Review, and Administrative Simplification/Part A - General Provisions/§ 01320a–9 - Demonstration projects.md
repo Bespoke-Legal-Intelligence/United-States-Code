@@ -8,13 +8,13 @@
 
 #### (2) Limitation
 
-&emsp;The Secretary may authorize not more than 10 demonstration projects under paragraph (1) in each of fiscal years 1998 through 2002.
+&emsp;The Secretary may authorize not more than 10 demonstration projects under paragraph (1) in each of fiscal years 1998 through 2003.
 
 #### (3) Certain types of proposals required to be considered
 
 &emsp;(A) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address barriers that result in delays to adoptive placements for children in foster care.
 
-&emsp;(B) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address parental substance abuse problems that endanger childrenand result in the placement of children in foster care, including through the placement of children with their parents in residential treatment facilities (including residential treatment facilities for post-partum depression) that are specifically designed to serve parents and children together in order to promote family reunification and that can ensure the health and safety of the children in such placements.
+&emsp;(B) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address parental substance abuse problems that endanger children and result in the placement of children in foster care, including through the placement of children with their parents in residential treatment facilities (including residential treatment facilities for post-partum depression) that are specifically designed to serve parents and children together in order to promote family reunification and that can ensure the health and safety of the children in such placements.
 
 &emsp;(C) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to address kinship care.
 
@@ -78,7 +78,7 @@ Each State authorized to conduct a demonstration project under this section shal
 
 The Secretary may not authorize a State to conduct a demonstration project under this section unless the Secretary determines that the total amount of Federal funds that will be expended under (or by reason of) the project over its approved term (or such portion thereof or other period as the Secretary may find appropriate) will not exceed the amount of such funds that would be expended by the State under the State plans approved under parts B and E of subchapter IV of this chapter if the project were not conducted.
 
-(Aug. 14, 1935, ch. 531, title XI, §1130, as added Pub. L. 103–432, title II, §208, Oct. 31, 1994, 108 Stat. 4457; amended Pub. L. 105–89, title III, §301(a), (c), Nov. 19, 1997, 111 Stat. 2127, 2128.)
+(Aug. 14, 1935, ch. 531, title XI, §1130, as added Pub. L. 103–432, title II, §208, Oct. 31, 1994, 108 Stat. 4457; amended Pub. L. 105–89, title III, §301(a), (c), Nov. 19, 1997, 111 Stat. 2127, 2128; Pub. L. 108–40, §5, June 30, 2003, 117 Stat. 837.)
 
 #### References in Text
 
@@ -92,9 +92,15 @@ A prior section 1130 of act Aug. 14, 1935, was classified to section 1320b of th
 
 #### Amendments
 
+2003—Subsec. (a)(2). Pub. L. 108–40 substituted “2003” for “2002”.
+
 1997—Subsec. (a). Pub. L. 105–89, §301(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter.”
 
 Subsec. (d). Pub. L. 105–89, §301(c), inserted before period at end “, unless in the judgment of the Secretary, the demonstration project should be allowed to continue”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
 
 #### Effective Date of 1997 Amendment
 

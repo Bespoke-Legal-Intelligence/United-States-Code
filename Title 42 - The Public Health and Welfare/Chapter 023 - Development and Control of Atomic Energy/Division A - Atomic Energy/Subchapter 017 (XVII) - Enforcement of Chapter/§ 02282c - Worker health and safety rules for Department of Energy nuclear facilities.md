@@ -8,7 +8,7 @@
 
 #### (2) Applicability
 
-&emsp;The regulations promulgated under paragraph (1) shall not apply to any facility that is a component of, or any activity conducted under, the Naval Nuclear Propulsion Program provided for under Executive Order No. 12344, dated February 1, 1982 (42 U.S.C. 7158 note) (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 42 U.S.C. 7158 note)).
+&emsp;The regulations promulgated under paragraph (1) shall not apply to any facility that is a component of, or any activity conducted under, the Naval Nuclear Propulsion Program provided for under Executive Order No. 12344, dated February 1, 1982 (as in force pursuant to section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525)).
 
 #### (3) Flexibility
 
@@ -59,6 +59,12 @@
 &emsp;The Secretary shall ensure that a contractor of the Department is not penalized both under this section and under section 2282a of this title for the same violation.
 
 (Aug. 1, 1946, ch. 724, title I, §234C, as added Pub. L. 107–314, div. C, title XXXI, §3173(a), Dec. 2, 2002, 116 Stat. 2743.)
+
+#### References in Text
+
+Executive Order No. 12344, referred to in subsec. (a)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
+
+Section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525), referred to in subsec. (a)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 #### Promulgation of Initial Regulations
 

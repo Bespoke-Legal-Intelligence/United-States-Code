@@ -6,7 +6,7 @@
 
 #### (A) Operators
 
-&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency, an area vocational education school or residential vocational school, or a private organization, for the operation of each Job Corps center.
+&emsp;&emsp;The Secretary shall enter into an agreement with a Federal, State, or local agency,an area vocational education school or residential vocational school, or a private organization, for the operation of each Job Corps center.
 
 #### (B) Providers
 
@@ -16,7 +16,7 @@
 
 #### (A) Competitive basis
 
-&emsp;&emsp;Except as provided in subsections (c) and (d) of section 253 of title 41, the Secretaryshall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this subchapter to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the industry council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
+&emsp;&emsp;Except as provided in subsections (c) and (d) of section 253 of title 41, the Secretary shall select on a competitive basis an entity to operate a Job Corps center and entities to provide activities described in this subchapter to the Job Corps center. In developing a solicitation for an operator or service provider, the Secretary shall consult with the Governor of the State in which the center is located, the industry council for the Job Corps center (if established), and the applicable local board regarding the contents of such solicitation, including elements that will promote the consistency of the activities carried out through the center with the objectives set forth in the State plan or in a local plan.
 
 #### (B) Recommendations and considerations
 

@@ -106,7 +106,7 @@ Notification prohibited.—
 
 &emsp;&emsp;(A)
 
-In general.—If a financial institution or any director, officer, employee, or agentof any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
+In general.—If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
 &emsp;&emsp;&emsp;(i) the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and
 
@@ -240,7 +240,7 @@ Definition.—For purposes of this subsection, the following definitions shall a
 
 &emsp;&emsp;(A)
 
-Offshore banking license.—The term “offshore banking license” means a license to conduct banking activities which, as a condition of the license, prohibits the licensed entity from conducting banking activities with the citizens of, or with the local currency of, the country which issued the license.
+Offshore banking license.—The term “offshore banking license” means a license to conduct banking activities which, as a condition of the license, prohibits the licensed entity from conducting banking activities with the citizens of, or with thelocal currency of, the country which issued the license.
 
 &emsp;&emsp;(B)
 
@@ -258,7 +258,7 @@ Prohibition on United States Correspondent Accounts With Foreign Shell Banks.—
 
 &emsp;(1)
 
-In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the UnitedStates for, or on behalf of, a foreign bank that does not have a physical presence in any country.
+In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
 
 &emsp;(2)
 
@@ -358,7 +358,7 @@ Limitation on liability.—A covered financial institution shall not be liable t
 
 Failure to terminate relationship.—Failure to terminate a correspondent relationship in accordance with this subsection shall render the covered financial institution liable for a civil penalty of up to $10,000 per day until the correspondent relationship is so terminated.
 
-(<i>l</i>) <sup>3</sup>
+(<i>l</i>)
 
 Identification and Verification of Accountholders.—
 
@@ -392,11 +392,11 @@ Exemptions.—The Secretary (and, in the case of any financial institution descr
 
 Effective date.—Final regulations prescribed under this subsection shall take effect before the end of the 1-year period beginning on the date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001.
 
-(<i>l</i>) <sup>3</sup>
+(m)
 
 Applicability of Rules.—Any rules promulgated pursuant to the authority contained in section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b) shall apply, in addition to any other financial institution to which such rules apply, to any person that engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012.)
 
 Historical and Revision Notes
 
@@ -416,7 +416,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§205(a), (b)(1st sentence), 206, 84 Stat. 11
 
 31:1055.
 
-In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
+In the section, before clause (1), the words “have the responsibility to assure compliance with the requirements of this chapter” in 31:1054(a) are omitted as unnecessary because of section 321 of the revised title. The words “(except under section 5315 of this title and regulations prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. In clause (1), the words“duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code. The words “bank supervisory agency, or other” are omitted as surplus. In clause (2), the words “by regulation” and “as he may deem” are omitted as surplus. The words “and regulations prescribed under this subchapter” are added because of the restatement. In clause (3), the word “prescribe” is substituted for “make” in 31:1055 for consistency in the revised title and with other titles of the Code. The words “otherwise imposed”, 31:1055(1st sentence), and the words “in his discretion” are omitted as surplus.
 
 #### References in Text
 
@@ -441,6 +441,8 @@ The date of enactment of the International Money Laundering Abatement and Financ
 Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
 
 #### Amendments
+
+2003—Subsecs. (<i>l</i>), (m). Pub. L. 108–159 redesignated subsec. (<i>l</i>), relating to applicability of rules, as (m).
 
 2001—Subsec. (a)(2), (3). Pub. L. 107–56, §365(c)(2)(B)(ii), inserted “or nonfinancial trades or businesses” after “financial institutions”.
 
@@ -516,13 +518,17 @@ Subsecs. (b) to (e). Pub. L. 99–570, §1356(a)(6), added subsecs. (b) to (e).
 
 Subsec. (f). Pub. L. 99–570, §1356(b), added subsec. (f).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
 
-Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect atthe end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
+Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
 Pub. L. 107–56, title III, §352(b), Oct. 26, 2001, 115 Stat. 322, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
@@ -580,7 +586,7 @@ Section 404 of Pub. L. 103–325 provided that:
 
 “(a)
 
-Enhanced Training, Examinations, and Referrals by Banking Agencies.—Before the end of the 6-month period beginning on the date of enactment of this Act \[Sept. 23, 1994\], each appropriate Federal banking agency shall, in consultation with the Secretary of the Treasury and other appropriate law enforcement agencies—
+Enhanced Training, Examinations, and Referrals by Banking Agencies.—Before the end of the 6-month period beginning on the date of enactment of this Act \[Sept. 23, 1994\], each appropriate Federal banking agency shall, in consultation with the Secretary ofthe Treasury and other appropriate law enforcement agencies—
 
 &emsp;“(1) review and enhance training and examination procedures to improve the identification of money laundering schemes involving depository institutions; and
 
@@ -600,11 +606,9 @@ Definition.—For purposes of this section, the term ‘appropriate Federal bank
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5313, 5318A, 5321, 5322 of this title; title 18 section 981.
+This section is referred to in sections 5313, 5318A, 5321, 5322 of this title; title 15 section 1681m; title 18 section 981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Two subsecs. (l) have been enacted.</i>
 

@@ -62,7 +62,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(D) which disregard an inadvertent ceasing to meet the requirements of paragraph (2)(B) by reason of changes in relative values of different classes of stock,
 
-&emsp;&emsp;(E) which provide that transfers of stock within the group shall not be taken into account in determining whether a corporation ceases to be a member of an affiliated group, and
+&emsp;&emsp;(E) which provide that transfers of stock within the group shall not be taken into account in determining whether a corporationceases to be a member of an affiliated group, and
 
 &emsp;&emsp;(F) which disregard changes in voting power to the extent such changes are disproportionate to related changes in value.
 
@@ -138,7 +138,7 @@ Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1702(h)(6), inserted “section” be
 
 Subsec. (f). Pub. L. 100–647, §1018(d)(10)(B), added subsec. (f).
 
-1986—Subsec. (a)(4)(C). Pub. L. 99–514, §1804(e)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
+1986—Subsec. (a)(4)(C). Pub. L. 99–514, §1804(e)(1), amended subpar. (C) generally. Prior to amendment,subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
 
 Subsec. (b)(2). Pub. L. 99–514, §1024(c)(15), struck out “or 821” after “section 802”.
 
@@ -158,7 +158,7 @@ Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted “
 
 1976—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
 
-Subsec. (b)(4). Pub. L. 94–455, §1051(g), substituted “Corporations with respect to which an election undersection 936 (relating to possession tax credit) is in effect for the taxable year” for “Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States” in par. (4).
+Subsec. (b)(4). Pub. L. 94–455, §1051(g), substituted “Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year” for “Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States” in par. (4).
 
 Subsec. (b)(5). Pub. L. 94–455, §1053(d)(2), struck out par. (5) which included corporations organized under the China Trade Act, 1922, within term “includible corporation”.
 
@@ -242,7 +242,7 @@ Native corporations.—
 
 &emsp;&emsp;“(i) the amendment made by subsection (a) \[amending this section\] shall not apply, and
 
-&emsp;&emsp;“(ii) the requirements for affiliation under section 1504(a) of the Internal Revenue Code of 1986 before the amendment made by subsection (a) shall be applied solely according to the provisions expresslycontained therein, without regard to escrow arrangements, redemption rights, or similar provisions.
+&emsp;&emsp;“(ii) the requirements for affiliation under section 1504(a) of the Internal Revenue Code of 1986 before the amendment made by subsection (a) shall be applied solely according to the provisions expressly contained therein, without regard to escrow arrangements, redemption rights, or similar provisions.
 
 &emsp;“(B) Except as provided in subparagraph (C), during the period described in subparagraph (A), no provision of the Internal Revenue Code of 1986 (including sections 269 and 482) or principle of law shall apply to deny the benefit or use of losses incurred or credits earned by a corporation described in subparagraph (A) to the affiliated group of which the Native Corporation is the common parent.
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 95–600 effective with respect to qualified investment for
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974, see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
+Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974,see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
 Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
@@ -428,7 +428,7 @@ Basis Determination.—For purposes of determining basis for Federal tax purpose
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transaction Rules
 

@@ -38,7 +38,7 @@
 | [1333\.](%C2%A7%2001333%20-%20National%20high%20school%20and%20college%20debate%20topics.md) | National high school and college debate topics. |
 | [1334\.](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md) | Naval Intelligence Office: additional copies of publications. |
 | [1335\.](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md) | Naval Observatory Observations. |
-| [1336\.](%C2%A7%2001336%20-%20National%20Imagery%20and%20Mapping%20Agency%20special%20publications.md) | National Imagery and Mapping Agency: special publications. |
+| [1336\.](%C2%A7%2001336%20-%20National%20Geospatial-Intelligence%20Agency%20special%20publications.md) | National Geospatial-Intelligence Agency: special publications. |
 | \[1337, 1338. Repealed.\] |  |
 | [1339\.](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md) | Printing of the President's message. |
 | [1340\.](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md) | Public Printer: annual report. |
@@ -55,6 +55,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
 
 2000—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out “and aeronautical” after “nautical” in item 1307.
 
@@ -115,7 +117,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01333 - National high school and college debate topics](%C2%A7%2001333%20-%20National%20high%20school%20and%20college%20debate%20topics.md)
 - [&sect; 01334 - Naval Intelligence Office additional copies of publications](%C2%A7%2001334%20-%20Naval%20Intelligence%20Office%20additional%20copies%20of%20publications.md)
 - [&sect; 01335 - Naval Observatory Observations](%C2%A7%2001335%20-%20Naval%20Observatory%20Observations.md)
-- [&sect; 01336 - National Imagery and Mapping Agency special publications](%C2%A7%2001336%20-%20National%20Imagery%20and%20Mapping%20Agency%20special%20publications.md)
+- [&sect; 01336 - National Geospatial-Intelligence Agency special publications](%C2%A7%2001336%20-%20National%20Geospatial-Intelligence%20Agency%20special%20publications.md)
 - [&sect; 01337, 1338 - Repealed. Pub. L. 106&#8211;113, div. B, &sect;1000(a)(9) \[title IV, &sect;4732(b)(25)\], Nov. 29, 1999, 113 Stat. 1536, 1501A&#8211;585](%C2%A7%2001337%2C%201338%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93113%2C%20div.%20B%2C%20%C2%A71000%28a%29%289%29%20%5Btitle%20IV%2C%20%C2%A74732%28b%29%2825%29%5D%2C%20Nov.%2029%2C%201999%2C%20113%20Stat.%201536%2C%201501A%E2%80%93585.md)
 - [&sect; 01339 - Printing of the President's Message](%C2%A7%2001339%20-%20Printing%20of%20the%20President%27s%20Message.md)
 - [&sect; 01340 - Public Printer annual report](%C2%A7%2001340%20-%20Public%20Printer%20annual%20report.md)

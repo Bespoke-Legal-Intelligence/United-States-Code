@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 99–570, §1356(c)(1), substituted “5318(a)(2)” for �
 
 #### Termination Date of 2001 Amendment
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that suchamendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -14,39 +14,47 @@
 
 > shall be considered to have been incurred in or aggravated by such service, notwithstanding there is no record of evidence of such disease during the period of service.
 
-(b) For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war and who was detained or interned for not less than thirty days, the disease of—
+(b)(1) For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war—
 
-&emsp;(1) avitaminosis,
+&emsp;(A) a disease specified in paragraph (2) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service; and
 
-&emsp;(2) beriberi (including beriberi heart disease),
+&emsp;(B) if the veteran was detained or interned as a prisoner of war for not less than thirty days, a disease specified in paragraph (3) which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
 
-&emsp;(3) chronic dysentery,
+(2) The diseases specified in this paragraph are the following:
 
-&emsp;(4) helminthiasis,
+&emsp;(A) Psychosis.
 
-&emsp;(5) malnutrition (including optic atrophy associated with malnutrition),
+&emsp;(B) Any of the anxiety states.
 
-&emsp;(6) pellagra,
+&emsp;(C) Dysthymic disorder (or depressive neurosis).
 
-&emsp;(7) any other nutritional deficiency,
+&emsp;(D) Organic residuals of frostbite, if the Secretary determines that the veteran was detained or interned in climatic conditions consistent with the occurrence of frostbite.
 
-&emsp;(8) psychosis,
+&emsp;(E) Post-traumatic osteoarthritis.
 
-&emsp;(9) any of the anxiety states,
+(3) The diseases specified in this paragraph are the following:
 
-&emsp;(10) dysthymic disorder (or depressive neurosis),
+&emsp;(A) Avitaminosis.
 
-&emsp;(11) organic residuals of frostbite, if the Secretary determines that the veteran was interned in climatic conditions consistent with the occurrence of frostbite,
+&emsp;(B) Beriberi (including beriberi heart disease).
 
-&emsp;(12) post-traumatic osteoarthritis,
+&emsp;(C) Chronic dysentery.
 
-&emsp;(13) peripheral neuropathy except where directly related to infectious causes,
+&emsp;(D) Helminthiasis.
 
-&emsp;(14) irritable bowel syndrome, or
+&emsp;(E) Malnutrition (including optic atrophy associated with malnutrition).
 
-&emsp;(15) peptic ulcer disease,
+&emsp;(F) Pellagra.
 
-> which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.
+&emsp;(G) Any other nutritional deficiency.
+
+&emsp;(H) Cirrhosis of the liver.
+
+&emsp;(I) Peripheral neuropathy except where directly related to infectious causes.
+
+&emsp;(J) Irritable bowel syndrome.
+
+&emsp;(K) Peptic ulcer disease.
 
 (c)(1) For the purposes of section 1110 of this title, and subject to the provisions of section 1113 of this title, a disease specified in paragraph (2) of this subsection becoming manifest in a radiation-exposed veteran shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such disease during a period of such service.
 
@@ -86,7 +94,7 @@
 
 (3) For the purposes of this subsection:
 
-&emsp;(A) The term “radiation-exposed veteran” means (i) a veteran who, while serving on active duty, participated in a radiation-risk activity, or (ii) an individual who, while a member of a reserve component of the Armed Forces, participated in a radiation-risk activity during a period of active duty for training or inactive duty training.
+&emsp;(A) The term “radiation-exposed veteran” means (i) a veteran who, while serving on active duty, participated in a radiation-risk activity, or (ii) an individual who, while a member of a reserve component of the ArmedForces, participated in a radiation-risk activity during a period of active duty for training or inactive duty training.
 
 &emsp;(B) The term “radiation-risk activity” means any of the following:
 
@@ -96,9 +104,43 @@
 
 &emsp;&emsp;(iii) Internment as prisoner of war in Japan (or service on active duty in Japan immediately following such internment) during World War II which (as determined by the Secretary) resulted in an opportunity for exposure to ionizing radiation comparable to that of veterans described in clause (ii) of this subparagraph.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37,§4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1120, §312; Pub. L. 86–187, Aug. 25, 1959, 73 Stat. 418; Pub. L. 86–188, Aug. 25, 1959, 73 Stat. 418; Pub. L. 87–645, §3, Sept. 7, 1962, 76 Stat. 442; Pub. L. 91–376, §3(a), (b), Aug. 12, 1970, 84 Stat. 788, 789; Pub. L. 97–37, §4(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 98–223, title I, §§101(c), 111, Mar. 2, 1984, 98 Stat. 38, 40; Pub. L. 99–576, title I, §108(a), Oct. 28, 1986, 100 Stat. 3252; Pub. L. 100–321, §2(a), May 20, 1988, 102 Stat. 485; Pub. L. 100–322, title III, §312, May 20, 1988, 102 Stat. 534; renumbered §1112 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §§104(a), 105, Aug. 14, 1991, 105 Stat. 415; Pub. L. 102–578, §2(a), Oct. 30, 1992, 106 Stat. 4774; Pub. L. 103–446, title V, §501(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 106–117, title V, §503, Nov. 30, 1999, 113 Stat. 1575; Pub. L. 108–183, title II, §201, Dec. 16, 2003, 117 Stat. 2656.)
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–183 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of section 1110 of this title and subject to the provisions of section 1113 of this title, in the case of a veteran who is a former prisoner of war and who was detained or interned for not less than thirty days, the disease of—
+
+&emsp;“(1) avitaminosis,
+
+&emsp;“(2) beriberi (including beriberi heart disease),
+
+&emsp;“(3) chronic dysentery,
+
+&emsp;“(4) helminthiasis,
+
+&emsp;“(5) malnutrition (including optic atrophy associated with malnutrition),
+
+&emsp;“(6) pellagra,
+
+&emsp;“(7) any other nutritional deficiency,
+
+&emsp;“(8) psychosis,
+
+&emsp;“(9) any of the anxiety states,
+
+&emsp;“(10) dysthymic disorder (or depressive neurosis),
+
+&emsp;“(11) organic residuals of frostbite, if the Secretary determines that the veteran was interned in climatic conditions consistent with the occurrence of frostbite,
+
+&emsp;“(12) post-traumatic osteoarthritis,
+
+&emsp;“(13) peripheral neuropathy except where directly related to infectious causes,
+
+&emsp;“(14) irritable bowel syndrome, or
+
+&emsp;“(15) peptic ulcer disease,
+
+> which became manifest to a degree of 10 percent or more after active military, naval, or air service shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of such disease during the period of service.”
 
 1999—Subsec. (c)(2)(P). Pub. L. 106–117 added subpar. (P).
 
@@ -156,7 +198,7 @@ Section 2(b) of Pub. L. 102–578 provided that: “The amendments made by subse
 
 #### Effective Date of 1991 Amendment
 
-Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment made by subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
+Section 104(b) of Pub. L. 102–86 provided that: “No benefit may be paid by reason of the amendment madeby subsection (a) \[amending this section\] for any period before the date of the enactment of this Act \[Aug. 14, 1991\].”
 
 #### Effective Date of 1988 Amendment
 

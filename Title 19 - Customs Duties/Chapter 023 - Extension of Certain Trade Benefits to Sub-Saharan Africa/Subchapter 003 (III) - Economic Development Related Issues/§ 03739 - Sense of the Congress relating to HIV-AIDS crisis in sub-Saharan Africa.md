@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5)(A) The HIV/AIDS crisis threatens the future of the workforce in sub-Saharan Africa.
 
-&emsp;(B) Studies show that HIV/AIDS in sub-Saharan Africa most severely affects individuals between the ages of 15 and 49—the age group that provides the most support for the economies of sub-Saharan African countries.
+&emsp;(B) Studies show that HIV/AIDS in sub-Saharan Africa most severely affects individuals between the ages of 15 and 49—the age groupthat provides the most support for the economies of sub-Saharan African countries.
 
 &emsp;(6) Clear evidence demonstrates that HIV/AIDS is destructive to the economies of sub-Saharan African countries.
 

@@ -8,7 +8,7 @@
 
 #### (2) Use of funds
 
-&emsp;A State shall use the funds provided under a payment under this section (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
+&emsp;A State shall use the funds provided under a payment under this section (either directly oras reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
 
 &emsp;&emsp;(A) does not use punch cards or levers;
 

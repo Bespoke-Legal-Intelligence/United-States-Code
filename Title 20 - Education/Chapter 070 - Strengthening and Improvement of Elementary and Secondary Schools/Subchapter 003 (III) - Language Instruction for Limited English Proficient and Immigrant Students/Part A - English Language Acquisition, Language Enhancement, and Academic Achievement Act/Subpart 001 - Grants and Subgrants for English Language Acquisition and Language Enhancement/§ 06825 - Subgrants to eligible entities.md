@@ -74,7 +74,7 @@ Subject to subsection (c) of this section, an eligible entity receiving funds un
 
 #### (1) In general
 
-&emsp;An eligible entity receiving funds under section 6824(d)(1) of this title shall use the fundsto pay for activities that provide enhanced instructional opportunities for immigrant children and youth, which may include—
+&emsp;An eligible entity receiving funds under section 6824(d)(1) of this title shall use the funds to pay for activities that provide enhanced instructional opportunities for immigrant children and youth, which may include—
 
 &emsp;&emsp;(A) family literacy, parent outreach, and training activities designed to assist parents to become active participants in the education of their children;
 

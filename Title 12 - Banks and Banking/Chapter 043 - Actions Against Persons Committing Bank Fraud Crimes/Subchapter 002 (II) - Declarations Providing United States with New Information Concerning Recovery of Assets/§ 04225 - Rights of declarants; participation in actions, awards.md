@@ -14,7 +14,7 @@ When the United States recovers any asset or assets specifically identified in a
 
 #### (d) Prohibition of double awards
 
-(1) No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A <sup>1</sup> of title 18 for providing the same or substantially similar information.
+(1) No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A <sup>1</sup> of title18 for providing the same or substantially similar information.
 
 (2) When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A <sup>1</sup> of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person's election to seek an award under this section or a reward under such other section.
 
@@ -26,7 +26,7 @@ For purposes of this section, funds or assets acquired by the United States shal
 
 #### References in Text
 
-Section 3509A of title 18, referred to in subsec. (d)(1), probably is a reference to former section 3059A of title18, which was repealed by Pub. L. 107–273, div. A, title III, §301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+Section 3509A of title 18, referred to in subsec. (d)(1), probably is a reference to former section 3059A of title 18, which was repealed by Pub. L. 107–273, div. A, title III, §301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
 #### Section Referred to in Other Sections
 

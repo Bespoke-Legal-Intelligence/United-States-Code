@@ -24,7 +24,7 @@
 
 (3) Notwithstanding any provision of title XIX of the Social Security Act, the amount of the payment paid a nursing facility pursuant to a Medicaid plan for services furnished a veteran may not be reduced by any amount of pension permitted to be paid such veteran under paragraph (2) of this subsection.
 
-(4) A veteran is not liable to the United States for any payment of pension in excess of the amount permitted under this subsection that ispaid to or for the veteran by reason of the inability or failure of the Secretary to reduce the veteran's pension under this subsection unless such inability or failure is the result of a willful concealment by the veteran of information necessary to make a reduction in pension under this subsection.
+(4) A veteran is not liable to the United States for any payment of pension in excess of the amount permitted under this subsection that is paid to or for the veteran by reason of the inability or failure of the Secretary to reduce the veteran's pension under this subsection unless such inability or failure is the result of a willful concealment by the veteran of information necessary to make a reduction in pension under this subsection.
 
 (5) The provisions of this subsection shall apply with respect to a surviving spouse having no child in the same manner as they apply to a veteran having neither spouse nor child.
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 86–146 effective first day of first calendar month which 
 
 #### Improvement in Pension Program Administration; Report to Congressional Committees
 
-Pub. L. 99–166, title I, §108(d), Dec. 3, 1985, 99 Stat. 947, provided that (1) in order to improve timeliness of adjustments made pursuant to subsec. (a) of this section, in amount of pension being paid to a veteran being furnished nursing home care by Veterans’ Administration, the Chief Medical Director \[now Under Secretary for Health\] of the Veterans’ Administration was to develop improved procedures for notifying the Chief Benefits Director \[now Under Secretary for Benefits\] of the Veterans’ Administration when a veteran is admitted to a nursing home, and (2) the Administrator was to submit to Committees on Veterans’ Affairs of the Senate andHouse of Representatives a report, within 90 days, on development and implementation of such procedures.
+Pub. L. 99–166, title I, §108(d), Dec. 3, 1985, 99 Stat. 947, provided that (1) in order to improve timeliness of adjustments made pursuant to subsec. (a) of this section, in amount of pension being paid to a veteran being furnished nursing home care by Veterans’ Administration, the Chief Medical Director \[now Under Secretary for Health\] of the Veterans’ Administration was to develop improved procedures for notifying the Chief Benefits Director \[now Under Secretary for Benefits\] of the Veterans’ Administration when a veteran is admitted to a nursing home, and (2) the Administrator was to submit to Committees on Veterans’ Affairs of the Senate and House of Representatives a report, within 90 days, on development and implementation of such procedures.
 
 #### Regulations; Waiver for Hardship Reasons
 

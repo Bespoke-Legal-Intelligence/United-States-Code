@@ -10,13 +10,13 @@ Of any amounts made available in any fiscal year to carry out this subchapter no
 
 #### (c) Set-aside for technical assistance and program oversight
 
-Of any amounts appropriated in any fiscal year to carry out this subchapter, amounts shall be available to the extent provided in appropriations Acts to provide training, technical assistance, contract expertise, program oversight, program assessment, execution, and other assistance for or on behalf of public housing agencies, recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\], resident organizations, and officials and employees of the Department (including training and the cost of necessary travel for participants in such training, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees). Assistance and other activities carried out using amounts made available under this subsection may be provided directly or indirectly by grants, contracts, or cooperative agreements.
+Of any amounts appropriated in any fiscal year to carry out this subchapter, amounts shall be available to the extent provided in appropriations Acts to provide training, technical assistance, contract expertise, program oversight, program assessment, execution, and other assistance for or on behalf of public housing agencies, recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\], resident organizations, and officials and employees of the Department (including training and thecost of necessary travel for participants in such training, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees). Assistance and other activities carried out using amounts made available under this subsection may be provided directly or indirectly by grants, contracts, or cooperative agreements.
 
 (Pub. L. 100–690, title V, §5129, as added Pub. L. 105–276, title V, §586(g), Oct. 21, 1998, 112 Stat. 2650.)
 
 #### References in Text
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (c), isPub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (c), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 #### Prior Provisions
 

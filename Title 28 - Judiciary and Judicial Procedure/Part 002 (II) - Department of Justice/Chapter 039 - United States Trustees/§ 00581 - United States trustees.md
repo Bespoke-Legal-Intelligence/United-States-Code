@@ -90,7 +90,7 @@ Title III of Pub. L. 99–554, as amended by Pub. L. 101–650, title III, §317
 
 “(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, UnitedStates Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 “(b)
 
@@ -116,7 +116,7 @@ Amendments Relating to Bankruptcy Judges and Incumbent United States Trustees.�
 
 Amendments Relating to Family Farmers.—(1) The amendments made by subtitle B of title II \[§§251 to 257 of Pub. L. 99–554, see Tables for classification\] shall not apply with respect to cases commenced under title 11 of the United States Code before the effective date of this Act.
 
-“(2) Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act \[amending section 1202 of this title\].
+“(2) Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of thisAct) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act \[amending section 1202 of this title\].
 
 “(3) Until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective in a district and apply to a case, for purposes of such case—
 
@@ -254,7 +254,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;&emsp;“(ii) apply to cases while pending in such district before,
 
-> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
+> &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act,except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
 
 &emsp;“(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
 
@@ -312,7 +312,7 @@ In general.—Subject to paragraph (2), with respect to cases under chapters 7, 
 
 &emsp;“(2)
 
-Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (asadded by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
+Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
 &emsp;&emsp;“(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 

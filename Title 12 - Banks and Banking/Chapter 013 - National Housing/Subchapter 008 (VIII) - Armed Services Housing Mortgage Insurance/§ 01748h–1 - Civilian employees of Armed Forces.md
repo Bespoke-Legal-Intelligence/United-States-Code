@@ -22,7 +22,7 @@ The provisions of subsections (b), (c), (d), (e), (f), (g), (h),<sup>1</sup> (j)
 
 #### (f) Provisions of subchapter applicable; termination date
 
-The provisions of sections 1748, 1748a,<sup>1</sup> 1748b(c), 1748b(i), 1748b(j), 1748c(a),<sup>1</sup> 1748c(b),<sup>1</sup> and 1748f of this title and the provisions of section 1748b(a) of this title relating to the aggregate amount of all mortgages insured under this subchapter, shall be applicable to mortgages insured under this section.
+The provisions of sections 1748, 1748a,<sup>1</sup> 1748b(c), 1748b(i), 1748b(j), 1748c(a),<sup>1</sup> 1748c(b),<sup>1</sup> and 1748f ofthis title and the provisions of section 1748b(a) of this title relating to the aggregate amount of all mortgages insured under this subchapter, shall be applicable to mortgages insured under this section.
 
 #### (g) Housing for persons employed by National Aeronautics and Space Administration or Atomic Energy Commission; guaranty from loss; definitions
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, ThePublic Health and Welfare. See also Transfer of Functions notes set out under those sections.
 
 #### Section Referred to in Other Sections
 

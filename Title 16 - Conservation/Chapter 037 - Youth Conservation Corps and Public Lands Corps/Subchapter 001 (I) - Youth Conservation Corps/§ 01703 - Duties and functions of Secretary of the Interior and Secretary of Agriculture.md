@@ -20,7 +20,7 @@ In carrying out this subchapter, the Secretary of the Interior and the Secretary
 
 #### (b) Use of unoccupied Federal facilities and equipment
 
-Existing but unoccupied Federal facilities and surplus or unused equipment (or both), of all types including military facilities and equipment, shall be utilized for the purposes of the Corps, where appropriate and with the approvalof the Federal agency involved. To minimize transportation costs, Corps members shall be employed on conservation projects as near to their places of residence as is feasible.
+Existing but unoccupied Federal facilities and surplus or unused equipment (or both), of all types including military facilities and equipment, shall be utilized for the purposes of the Corps, where appropriate and with the approval of the Federal agency involved. To minimize transportation costs, Corps members shall be employed on conservation projects as near to their places of residence as is feasible.
 
 #### (c) Contracts for the operation of projects
 

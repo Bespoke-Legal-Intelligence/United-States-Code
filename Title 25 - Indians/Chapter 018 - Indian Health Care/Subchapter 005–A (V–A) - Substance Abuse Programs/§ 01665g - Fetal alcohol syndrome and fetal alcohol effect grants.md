@@ -2,7 +2,7 @@
 
 #### (a) Award; use; review criteria
 
-(1) The Secretary may make grants to Indian tribes and tribal organizations to establish fetal alcohol syndrome and fetal alcohol effect programs as provided in this section for the purposes of meeting the health status objectives specified in section 1602(b) of this title.
+(1) The Secretary may make grants to Indian tribes and tribal organizations to establish fetalalcohol syndrome and fetal alcohol effect programs as provided in this section for the purposes of meeting the health status objectives specified in section 1602(b) of this title.
 
 (2) Grants made pursuant to this section shall be used to—
 

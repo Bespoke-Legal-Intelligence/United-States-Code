@@ -18,7 +18,7 @@
 
 &emsp;(8)(A) The “Federal percentage” for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
-&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
+&emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the UnitedStates for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
 
 &emsp;(C) The term “United States” means (but only for purposes of subparagraphs (A) and (B) of this paragraph) the fifty States and the District of Columbia.
 
@@ -86,7 +86,7 @@ Subsec. (a)(8), (9). Pub. L. 98–369, §2663(e)(1), realigned margins of pars. 
 
 Pub. L. 97–248, §160(c), substituted “Guam, and the Northern Mariana Islands” for “American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands”.
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted “American Samoa, the Northern MarianaIslands, and” for “American Samoa and” and inserted provisions that “State” when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+1981—Subsec. (a)(1). Pub. L. 97–35, §§2162(a)(1), 2352(b), substituted “American Samoa, the Northern Mariana Islands, and” for “American Samoa and” and inserted provisions that “State” when used in subchapter XIX of this chapter also includes the Northern Mariana Islands and when used in subchapter XX of this chapter also includes the Virgin Islands, American Samoa, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 Subsec. (a)(9)(D). Pub. L. 97–35, §2193(c)(2), substituted “subchapters XVIII, and XIX of this chapter” for “subchapters V, XVIII, and XIX of this chapter”.
 
@@ -180,7 +180,7 @@ Hold Harmless Provision.—Notwithstanding subsection (b), for calendar quarters
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -236,7 +236,7 @@ Section 403(b) of act Aug. 28, 1950, provided that the amendment made by that se
 
 #### Effective Date of 1948 Amendment
 
-Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] with respect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
+Section 2(b) of act June 14, 1948, provided that: “The amendment made by subsection (a) \[amending this section\] shall have the same effect as if included in the Social Security Act \[this chapter\] on August 14, 1935, the date of its enactment, but shall not have the effect of voiding any (1) wage credits reported to the Bureau of Internal Revenue \[now Internal Revenue Service\] withrespect to services performed prior to the enactment of this Act \[June 14, 1948\] or (2) wage credits with respect to services performed prior to the close of the first calendar quarter which begins after the date of the enactment of this Act in the case of individuals who have attained age sixty-five or who have died, prior to the close of such quarter, and with respect to whom prior to the date of enactment of this Act wage credits were established which would not have been established had the amendment made by subsection (a) been in effect on and after August 14, 1935.”
 
 #### Effective Date of 1946 Amendment
 
@@ -254,7 +254,7 @@ Provisions of the Internal Revenue Code of 1939 were generally repealed by secti
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferredto Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -272,6 +272,18 @@ Section 2663(<i>l</i>) of Pub. L. 98–369 provided that: “Any reference to th
 
 > and any reference to the Federal Security Agency which may remain in such provisions is amended by substituting ‘Department of Health and Human Services’ for the term ‘Federal Security Agency’; but nothing in this subsection shall affect the exercise under section 402(a)(5) of such Act \[section 602(a)(5) of this title\] of the functions, powers, and duties relating to the prescription of personnel standards on a merit basis which were transferred from the Secretary of Health, Education, and Welfare by section 208(a)(3)(D) of Public Law 91–648 \[42 U.S.C. 4728(a)(3)(D)\].”
 
+#### Definitions of “BIPA” and “Secretary”
+
+Pub. L. 108–173, §1(c), Dec. 8, 2003, 117 Stat. 2066, provided that:
+
+“In this Act \[see Short Title of 2003 Amendments note set out under section 1305 of this title\]:
+
+&emsp;“(1) BIPA.—The term ‘BIPA’ means the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted into law by section 1(a)(6) of Public Law 106–554 \[see Tables for classification\].
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.”
+
 #### Definition of “Secretary”
 
 Pub. L. 90–248, title IV, §404, Jan. 2, 1968, 81 Stat. 933, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the amendments made by this Act \[see Short Title of 1968 Amendment note set out under section 1305 of this title\] (unless the context otherwise requires), the term ‘Secretary’ means the Secretary of Health and Human Services.”
@@ -284,7 +296,7 @@ Section 201 of Pub. L. 87–543, as amended by Pub. L. 96–88, title V, §509(b
 
 Section 304 of title III of Pub. L. 87–64, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this title and title I, and in the provisions of the Social Security Act amended thereby \[see Short Title of 1961 Amendment note set out under section 1305 of this title\], the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
-Section 709 of Pub. L. 86–778, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 of this title\] the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
+Section 709 of Pub. L. 86–778, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 ofthis title\] the term ‘Secretary’, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 
 Section 702 of Pub. L. 85–840, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: “As used in the provisions of the Social Security Act amended by this Act \[see Short Title of 1958 Amendment note set out under section 1305 of this title\], the term “Secretary”, unless the context otherwise requires, means the Secretary of Health and Human Services.”
 

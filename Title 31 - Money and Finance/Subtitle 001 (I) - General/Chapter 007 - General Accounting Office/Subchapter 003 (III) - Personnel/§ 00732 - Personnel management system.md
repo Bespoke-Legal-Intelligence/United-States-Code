@@ -24,7 +24,7 @@
 
 &emsp;(3) except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;
 
-&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for gradeGS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service under section 733 of this title (except positions included in the Service under section 733(c) of this title and senior-level positions described in section 732a(b) of this title); and
+&emsp;(4) the pay schedule for officers and employees of the Office may provide that the basic pay rates for not more than 129 positions (including senior-level positions under section 732a of this title) may be at rates not more than the rate of basic pay payable for grade GS–18 of the General Schedule, less the number of positions in the General Accounting Office Senior Executive Service under section 733 of this title (except positions included in the Service under section 733(c) of this title and senior-level positions described in section 732a(b) of this title); and
 
 &emsp;(5) officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.
 

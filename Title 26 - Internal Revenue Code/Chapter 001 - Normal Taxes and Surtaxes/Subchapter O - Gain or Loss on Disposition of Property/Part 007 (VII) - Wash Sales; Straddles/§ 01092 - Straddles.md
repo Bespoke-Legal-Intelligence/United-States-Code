@@ -376,7 +376,7 @@ Section 246(c)(3) of this title, referred to in subsec. (c)(4)(E), was amended b
 
 Subsec. (d)(3)(A). Pub. L. 99–514, §1808(c), inserted at end “The preceding sentence shall not apply to any interest in stock.”
 
-Subsec. (d)(5), (6). Pub. L. 99–514, §1899A(66), amended directory language of section 101(b)(2) of Pub. L. 98–369to clarify general amendment by sections 101(d) and 102(e) of Pub. L. 98–369. See 1984 Amendment notes below.
+Subsec. (d)(5), (6). Pub. L. 99–514, §1899A(66), amended directory language of section 101(b)(2) of Pub. L. 98–369 to clarify general amendment by sections 101(d) and 102(e) of Pub. L. 98–369. See 1984 Amendment notes below.
 
 Subsec. (d)(7). Pub. L. 99–514, §1261(b), added par. (7).
 
@@ -468,7 +468,7 @@ Months After the Date of Enactment.—The Secretary of the Treasury or his deleg
 
 “(c)
 
-Effective Date of Regulations With Respect to Mixed Straddles.—The regulations described in subsection (b) with respect to the application of section1233 of the Internal Revenue Code of 1986 to mixed straddles shall not apply to mixed straddles all of the positions of which were established before January 1, 1984.”
+Effective Date of Regulations With Respect to Mixed Straddles.—The regulations described in subsection (b) with respect to the application of section 1233 of the Internal Revenue Code of 1986 to mixed straddles shall not apply to mixed straddles all of the positions of which were established before January 1, 1984.”
 
 Section 107(e) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and sections 1236 and 1256 of this title\] shall apply to positions entered into after the date of the enactment of this Act \[July 18, 1984\], in taxable years ending after such date.”
 

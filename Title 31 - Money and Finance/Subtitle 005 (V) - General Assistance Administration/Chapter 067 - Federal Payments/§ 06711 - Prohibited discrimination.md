@@ -40,7 +40,7 @@ Title VIII of the Act of April 11, 1968, referred to in subsec. (b)(3), is title
 
 #### Prior Provisions
 
-A prior section 6711, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1021; Pub. L. 98–185, §4, Nov. 30, 1983, 97 Stat. 1309, related to State variation of local government allocations, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
+A prior section 6711, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1021; Pub. L. 98–185, §4, Nov. 30, 1983, 97 Stat. 1309,related to State variation of local government allocations, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
 #### Section Referred to in Other Sections
 

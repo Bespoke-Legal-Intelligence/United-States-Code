@@ -4,7 +4,7 @@
 
 No person may—
 
-&emsp;(1) import into the customs territory of the United States from any place outside thereof (but within the United States), or import into the United States from any place outsidethereof, any controlled substance or list I chemical, or
+&emsp;(1) import into the customs territory of the United States from any place outside thereof (but within the United States), or import into the United States from any place outside thereof, any controlled substance or list I chemical, or
 
 &emsp;(2) export from the United States any controlled substance or list I chemical,
 

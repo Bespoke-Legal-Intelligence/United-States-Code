@@ -8,7 +8,7 @@ Contents of Wire or Electronic Communications in Electronic Storage.—A governm
 
 Contents of Wire or Electronic Communications in a Remote Computing Service.—(1) A governmental entity may require a provider of remote computing service to disclose the contents of any wire or electronic communication to which this paragraph is made applicable by paragraph (2) of this subsection—
 
-&emsp;(A) without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction overthe offense under investigation or equivalent State warrant; or
+&emsp;(A) without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation or equivalent State warrant; or
 
 &emsp;(B) with prior notice from the governmental entity to the subscriber or customer if the governmental entity—
 
@@ -58,7 +58,7 @@ Records Concerning Electronic Communication Service or Remote Computing Service.
 
 (d)
 
-Requirements for Court Order.—A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation. In the case of a State governmental authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the service provider, may quash or modify such order, if the information or records requested are unusually voluminous in nature or compliance with such order otherwise would cause an undue burden on such provider.
+Requirements for Court Order.—A court order for disclosure under subsection (b) or (c) may be issued by any court that is a court of competent jurisdiction and shall issue only if the governmental entity offers specific and articulable facts showing that there are reasonable grounds to believe that the contents of a wire or electronic communication, or the records or other information sought, are relevant and material to an ongoing criminal investigation. In the case of a State governmental authority, such a court order shall not issue if prohibited by the law of such State. A court issuing an order pursuant to this section, on a motion made promptly by the service provider, may quash or modify such order, if the information or records requested are unusually voluminous in nature or compliance with such orderotherwise would cause an undue burden on such provider.
 
 (e)
 
@@ -80,7 +80,7 @@ Period of retention.—Records referred to in paragraph (1) shall be retained fo
 
 Presence of Officer Not Required.—Notwithstanding section 3105 of this title, the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994,108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### Amendment of Section
 
@@ -142,7 +142,7 @@ Subsec. (d). Pub. L. 100–690, §7039, inserted “may be issued by any court t
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Termination Date of 2001 Amendment
 
@@ -150,7 +150,7 @@ Amendment by sections 209(2), 212(b)(1), 220(a)(1), (b) of Pub. L. 107–56 to c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2701, 2702, 2704, 2705, 2706, 2707 of this title.
+This section is referred to in sections 2701, 2702, 2704, 2705, 2706, 2707, 3486 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

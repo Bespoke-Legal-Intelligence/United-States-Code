@@ -12,7 +12,7 @@ Program.—(1) The amounts made available under subsections (d) and (h)(7) of se
 
 (B) The Secretary shall establish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.
 
-(C) The Secretary shall develop guidelines for cost sharing in technology development projectsfinanced under this paragraph. The guidelines shall be flexible and reflect the extent of technical risk, market risk, and anticipated supplier benefits and payback periods.
+(C) The Secretary shall develop guidelines for cost sharing in technology development projects financed under this paragraph. The guidelines shall be flexible and reflect the extent of technical risk, market risk, and anticipated supplier benefits and payback periods.
 
 (5) The Secretary may use amounts appropriated under this subsection to supplement amounts available under section 5313(a) of this title, as the Secretary considers appropriate.
 
@@ -52,7 +52,7 @@ In subsection (a)(4)(C), the word “section” in the source provision is trans
 
 Section 5317 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 105–178, title V, §5110(c), June 9, 1998, 112 Stat. 444.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally tochapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
 

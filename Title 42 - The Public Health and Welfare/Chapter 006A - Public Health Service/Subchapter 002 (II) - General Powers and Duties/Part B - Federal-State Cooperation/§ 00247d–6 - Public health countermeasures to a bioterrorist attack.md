@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in coordination with the Secretary of Agriculture, the Attorney General, the Director of Central Intelligence, the Secretary of Defense, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, the Secretary of Labor, the Secretary of Veterans Affairs, and with other similar Federal officials as determined appropriate, shall establish a working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies. Such joint working group, or subcommittees thereof, shall meet periodically for the purpose of consultation on, assisting in, and making recommendations on—
+&emsp;The Secretary, in coordination with the Secretary of Agriculture, the Attorney General, the Director of Central Intelligence, the Secretary of Defense, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Director of the Federal Emergency Management Agency, the Secretary of Labor, the Secretary of Veterans Affairs, and with other similar Federal officials as determined appropriate, shall establish a working group on the prevention, preparedness, and response to bioterrorism and other public health emergencies. Such joint working group, or subcommittees thereof, shall meetperiodically for the purpose of consultation on, assisting in, and making recommendations on—
 
 &emsp;&emsp;(A) responding to a bioterrorist attack, including the provision of appropriate safety and health training and protective measures for medical, emergency service, and other personnel responding to such attacks;
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(ii) needed changes to the health care and emergency medical service systems and emergency medical services protocols to meet the special needs of children; and
 
-&emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 of this title to meet the emergency health security of children.
+&emsp;&emsp;&emsp;(iii) changes, if necessary, to the national stockpile under section 300hh–12 ofthis title to meet the emergency health security of children.
 
 #### (C) Composition
 
@@ -230,7 +230,7 @@ Funds appropriated under this section shall be used to supplement and not suppla
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec.\(a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
+2002—Subsec. (a). Pub. L. 107–188, §108, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, in coordination with the Secretary of Defense, shall establish a joint interdepartmental working group on preparedness and readiness for the medical and public health effects of a bioterrorist attack on the civilian population. Such joint working group shall—
 
 &emsp;“(1) coordinate research on pathogens likely to be used in a bioterrorist attack on the civilian population as well as therapies to treat such pathogens;
 

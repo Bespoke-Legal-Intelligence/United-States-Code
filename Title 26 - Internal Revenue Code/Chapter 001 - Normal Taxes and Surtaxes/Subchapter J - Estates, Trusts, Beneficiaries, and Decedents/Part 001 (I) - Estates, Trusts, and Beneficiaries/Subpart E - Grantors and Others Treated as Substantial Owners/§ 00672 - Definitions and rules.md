@@ -40,7 +40,7 @@ A person shall be considered to have a power described in this subpart even thou
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subpart, this subpart shall apply only to the extent such application results in an amount (if any) being currently taken into account (directly or through 1 or more entities) underthis chapter in computing the income of a citizen or resident of the United States or a domestic corporation.
+&emsp;Notwithstanding any other provision of this subpart, this subpart shall apply only to the extent such application results in an amount (if any) being currently taken into account (directly or through 1 or more entities) under this chapter in computing the income of a citizen or resident of the United States or a domestic corporation.
 
 #### (2) Exceptions
 

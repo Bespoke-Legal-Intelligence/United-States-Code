@@ -10,7 +10,7 @@ Not later than 1 year after November 5, 1990, the Secretary shall prepare and su
 
 &emsp;(1) the construction or acquisition of a major center for education, interpretation, and appreciation of the benefits and methods of the intelligent management of tropical forests;
 
-&emsp;(2) the acquisition or construction of facilities for housing and classroom instructionnear the Caribbean National Forest/Luguillo Experimental Forest; and
+&emsp;(2) the acquisition or construction of facilities for housing and classroom instruction near the Caribbean National Forest/Luguillo Experimental Forest; and
 
 &emsp;(3) the acquisition or construction of facilities for the study and recovery of endangered tropical wildlife, fish and plant species.
 

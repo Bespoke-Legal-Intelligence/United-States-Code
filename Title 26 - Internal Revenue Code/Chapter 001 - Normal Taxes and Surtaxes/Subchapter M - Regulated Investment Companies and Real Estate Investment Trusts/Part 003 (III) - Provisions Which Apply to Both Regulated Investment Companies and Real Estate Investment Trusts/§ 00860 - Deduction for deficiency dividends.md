@@ -70,7 +70,7 @@ For purposes of this section, the term “determination” means—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term “deficiency dividends” means a distribution of property made by the qualified investment entity on or after the date of the determinationand before filing claim under subsection (g), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for tax resulting from the determination exists if distributed during such taxable year. No distribution of property shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination, and unless a claim for a deficiency dividend deduction with respect to such distribution is filed pursuant to subsection (g).
+&emsp;For purposes of this section, the term “deficiency dividends” means a distribution ofproperty made by the qualified investment entity on or after the date of the determination and before filing claim under subsection (g), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for tax resulting from the determination exists if distributed during such taxable year. No distribution of property shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination, and unless a claim for a deficiency dividend deduction with respect to such distribution is filed pursuant to subsection (g).
 
 #### (2) Limitations
 

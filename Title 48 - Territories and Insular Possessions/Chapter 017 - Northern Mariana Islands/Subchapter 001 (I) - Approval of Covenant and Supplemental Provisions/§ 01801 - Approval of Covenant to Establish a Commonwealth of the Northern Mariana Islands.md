@@ -58,7 +58,7 @@ I74“political relationship
 
 “
 
-Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become aself-governing commonwealth to be known as the ‘Commonwealth of the Northern Mariana Islands’, in political union with and under the sovereignty of the United States of America.
+Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become a self-governing commonwealth to be known as the ‘Commonwealth of the Northern Mariana Islands’, in political union with and under the sovereignty of the United States of America.
 
 “
 
@@ -140,7 +140,7 @@ Section 401. The United States will establish for and within the Northern Marian
 
 “
 
-Section 402. (a) The District Court for the Northern Mariana Islands will have the jurisdiction of a districtcourt of the United States, except that in all causes arising under the Constitution, treaties or laws of the United States it will have jurisdiction regardless of the sum or value of the matter in controversy.
+Section 402. (a) The District Court for the Northern Mariana Islands will have the jurisdiction of a district court of the United States, except that in all causes arising under the Constitution, treaties or laws of the United States it will have jurisdiction regardless of the sum or value of the matter in controversy.
 
 “(b) The District Court will have original jurisdiction in all causes in the Northern Mariana Islands not described in Subsection (a) jurisdiction over which is not vested by the Constitution or laws of the Northern Mariana Islands in a court or courts of the Northern Mariana Islands. In causes brought in the District Court solely on the basis of this subsection, the District Court will be considered a court of the Northern Mariana Islands for the purposes of determining the requirements of indictment by grand jury or trial by jury.
 
@@ -164,7 +164,7 @@ Section 501. (a) To the extent that they are not applicable of their own force, 
 
 “
 
-Section 502. (a) The following laws of the United States in existence on the effective date of this Section and subsequent amendments to such laws will apply to the Northern Mariana Islands, except as otherwise provided in this Covenant:
+Section 502. (a) The following laws of the United States in existence on the effective date of this Sectionand subsequent amendments to such laws will apply to the Northern Mariana Islands, except as otherwise provided in this Covenant:
 
 &emsp;“(1) those laws which provide federal services and financial assistance programs and the federal banking laws as they apply to Guam; Section 228 of Title II and Title XVI of the Social Security Act as it applies to the several States; the Public Health Service Act as it applies to the Virgin Islands; and the Micronesian Claims Act as it applies to the Trust Territory of the Pacific Islands;
 
@@ -190,7 +190,7 @@ Section 504. The President will appoint a Commission on Federal Laws to survey t
 
 “
 
-Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and its local municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of theUnited States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
+Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and its local municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
 
 “
 
@@ -278,7 +278,7 @@ Section 702. Approval of this Covenant by the United States will constitute a co
 
 “
 
-Section 703. (a) The United States will make available to the Northern Mariana Islands the full range of federal programs and services available to the territories of the United States. Funds provided under Section 702 will be considered to be local revenues when used as the local share required to obtain federal programs and services. (As amended Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–196.)
+Section 703. (a) The United States will make available to the Northern Mariana Islands the full range of federal programs and services available to the territories of the United States. Funds provided under Section 702 will be considered to be local revenues when used as the local share required to obtain federal programs and services. (As amended Pub. L. 104–208, div. A,title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–196.)
 
 “(b) There will be paid into the Treasury of the Government of the Northern Mariana Islands, to be expended to the benefit of the people thereof as that Government may by law prescribe, the proceeds of all customs duties and federal income taxes derived from the Northern Mariana Islands, the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in the Northern Mariana Islands and transported to the United States, its territories or possessions, or consumed in the Northern Mariana Islands, the proceeds of any other taxes which may be levied by the Congress on the inhabitants of the Northern Mariana Islands, and all quarantine, passport, immigration and naturalization fees collected in the Northern Mariana Islands, except that nothing in this Section shall be construed to apply to any tax imposed by Chapters 2 or 21 of Title 26, United States Code.
 

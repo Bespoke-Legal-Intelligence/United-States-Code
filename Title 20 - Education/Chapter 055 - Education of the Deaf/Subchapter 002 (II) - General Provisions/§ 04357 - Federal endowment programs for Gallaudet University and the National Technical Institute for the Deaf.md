@@ -2,7 +2,7 @@
 
 #### (a) Establishment of programs
 
-(1) The Secretary and the Board of Trustees of Gallaudet University are authorized to establishthe Gallaudet University Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of the University. The Secretary and the Board of Trustees may enter into such agreements as may be necessary to carry out the purposes of this section with respect to the University.
+(1) The Secretary and the Board of Trustees of Gallaudet University are authorized to establish the Gallaudet University Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of the University. The Secretary and the Board of Trustees may enter into such agreements as may be necessary to carry out the purposes of this section with respect to the University.
 
 (2) The Secretary and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title are authorized to establish the National Technical Institute for the Deaf Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of NTID. The Secretary and the Board or other governing body may enter into such agreements as may be necessary to carry out the purposes of this section with respect to NTID.
 
@@ -52,7 +52,7 @@ After notice and an opportunity for a hearing, the Secretary is authorized to re
 
 &emsp;(2) fails to comply with the investment standards and limitations under this section; or
 
-&emsp;(3) fails to account properly to the Secretary concerning the investment of or expendituresfrom the Federal endowment fund corpus or income.
+&emsp;(3) fails to account properly to the Secretary concerning the investment of or expenditures from the Federal endowment fund corpus or income.
 
 #### (g) Definitions
 
@@ -78,7 +78,7 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f),Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831.)
 
 #### Prior Provisions
 

@@ -44,7 +44,7 @@
 
 > &emsp;except that nothing in this section shall be construed as granting to the Department regulatory functions presently within the Nuclear Regulatory Commission, or any additional functions than those already conferred by law.
 
-&emsp;(9) Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reduce total energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
+&emsp;(9) Energy conservation functions, including the development of comprehensive energy conservation strategies for the Nation, the planning and implementation of major research and demonstration programs for the development of technologies and processes to reducetotal energy consumption, the administration of voluntary and mandatory energy conservation programs, and the dissemination to the public of all available information on energy conservation programs and measures.
 
 &emsp;(10) Power marketing functions, including responsibility for marketing and transmission of Federal power.
 
@@ -58,7 +58,7 @@
 
 1999—Subsec. (a). Pub. L. 106–65, §3294(a)(2), substituted “six” for “eight” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 106–65, §3294(b), struck out par. (5) which read as follows: “National security functions,including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
+Subsec. (a)(5). Pub. L. 106–65, §3294(b), struck out par. (5) which read as follows: “National security functions, including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
 
 #### Effective Date of 1999 Amendment
 

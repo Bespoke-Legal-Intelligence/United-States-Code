@@ -76,7 +76,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Redesignation of Navy Law Specialists as Judge Advocates
 

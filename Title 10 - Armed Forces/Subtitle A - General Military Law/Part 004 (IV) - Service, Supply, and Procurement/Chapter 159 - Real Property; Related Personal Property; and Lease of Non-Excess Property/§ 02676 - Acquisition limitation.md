@@ -1,6 +1,6 @@
 ### §2676. Acquisition: limitation
 
-(a) No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.).
+(a) No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 251 et seq.).
 
 (b) Authority provided the Secretary of a military department by law to acquire an interest in real property (including a temporary interest) includes authority—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) to acquire the interest in real property by gift, purchase, exchange of real property owned by the United States, or otherwise.
 
-(c)(1) Except as provided in paragraph (2), the cost authorized for a land acquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have beenreasonably anticipated at the time the project was originally approved by Congress.
+(c)(1) Except as provided in paragraph (2), the cost authorized for a land acquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have been reasonably anticipated at the time the project was originally approved by Congress.
 
 (2) A land acquisition project may not be placed under contract if, based upon the agreed price for the land or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land—
 
@@ -18,11 +18,11 @@
 
 > until subsection (d) is complied with.
 
-(d) The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the appropriate committees of Congress. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees.
+(d) The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the appropriate committees of Congress. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided in an electronic medium pursuant to section 480 of this title.
 
 (e) The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, §3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, §1031(a)(30), Nov. 24, 2003, 117 Stat. 1600.)
 
 Historical and Revision Notes
 
@@ -42,9 +42,15 @@ The word “property” is substituted for the word “estate”. The words “n
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act related to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 inserted before period at end “or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided in an electronic medium pursuant to section 480 of this title”.
+
+2002—Subsec. (a). Pub. L. 107–314 inserted opening parenthesis before “41 U.S.C.”.
+
+Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 1991—Subsec. (d). Pub. L. 102–190 struck out “(1)” after “be awarded only” and “, or (2) upon the approval of those committees, if before the end of that period each such committee approves the proposed reduced scope or increased cost” before period at end.
 

@@ -70,7 +70,7 @@ Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of sect
 
 “(b) Nothing in this Act shall be construed to authorize the Secretary of Agriculture to determine or adjudicate the validity or invalidity of any mining claim or part thereof.
 
-“(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agricultureto dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
+“(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agriculture to dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
 
 “(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
 

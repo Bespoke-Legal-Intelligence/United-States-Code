@@ -34,7 +34,7 @@ Technical Assistance.—
 
 &emsp;(1)
 
-In general.—The sponsor of a public-use airport carrying out inherently low-emission vehicle activities under the pilot program mayuse not more than 10 percent of the amounts made available for expenditure at the airport in a fiscal year under the pilot program to receive technical assistance in carrying out such activities.
+In general.—The sponsor of a public-use airport carrying out inherently low-emission vehicle activities under the pilot program may use not more than 10 percent of the amounts made available for expenditure at the airport in a fiscal year under the pilot program to receive technical assistance in carrying out such activities.
 
 &emsp;(2)
 
@@ -87,4 +87,8 @@ The date of the enactment of this section, referred to in subsec. (h), is the da
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 47139 of this title.
 

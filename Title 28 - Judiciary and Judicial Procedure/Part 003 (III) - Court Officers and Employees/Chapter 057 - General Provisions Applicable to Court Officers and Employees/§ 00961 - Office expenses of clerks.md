@@ -6,7 +6,7 @@ Each clerk of court shall be allowed his necessary office expenses when authoriz
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§544, 563 (Mar. 3, 1891, ch. 517, §2, 26 Stat. 826; Feb. 26, 1919, ch. 49, §5, 40Stat. 1182; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; June 1, 1922, ch. 204, title II, 42 Stat. 616; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921).
+Based on title 28, U.S.C., 1940 ed., §§544, 563 (Mar. 3, 1891, ch. 517, §2, 26 Stat. 826; Feb. 26, 1919, ch. 49, §5, 40 Stat. 1182; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; June 1, 1922, ch. 204, title II, 42 Stat. 616; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921).
 
 Section consolidates parts of sections 544 and 563 of title 28, U.S.C., 1940 ed. For remainder of such sections, see Distribution Table.
 

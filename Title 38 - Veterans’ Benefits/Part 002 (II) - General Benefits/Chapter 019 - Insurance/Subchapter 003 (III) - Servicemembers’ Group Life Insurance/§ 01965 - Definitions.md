@@ -108,7 +108,7 @@ Par. (5)(A). Pub. L. 92–315, §1(4), expanded definition of “member” to in
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 daysafter June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

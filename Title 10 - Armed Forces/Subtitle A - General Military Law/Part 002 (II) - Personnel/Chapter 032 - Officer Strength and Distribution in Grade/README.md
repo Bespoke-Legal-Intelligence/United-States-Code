@@ -9,11 +9,13 @@
 | [525\.](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md) | Distribution of commissioned officers on active duty in general officer and flag officer grades. |
 | [526\.](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md) | Authorized strength: general and flag officers on active duty. |
 | [527\.](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md) | Authority to suspend sections 523, 525, and 526. |
-| \[528. | Repealed.\] |
+| [528\.](%C2%A7%2000528%20-%20Exclusion%20officer%20serving%20as%20Associate%20Director%20of%20Central%20Intelligence%20for%20Military%20Support.md) | Exclusion: Associate Director of Central Intelligence for Military Support.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §507(b), Nov. 24, 2003, 117 Stat. 1458, added item 528.
 
 2001—Pub. L. 107–107, div. A, title V, §501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 “Limitation on number of officers on active duty in grades of general and admiral”.
 
@@ -22,6 +24,8 @@
 1988—Pub. L. 100–370, §1(b)(3), July 19, 1988, 102 Stat. 840, struck out former item 526 “Authority to suspend sections 523, 524, and 525”, and added items 526 and 527.
 
 1984—Pub. L. 98–525, title IV, §414(a)(4)(B)(ii), inserted references to the National Guard and to full-time National Guard duty in item 524.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -35,4 +39,4 @@
 - [&sect; 00525 - Distribution of commissioned officers on active duty in general officer and flag officer grades](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md)
 - [&sect; 00526 - Authorized strength general and flag officers on active duty](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md)
 - [&sect; 00527 - Authority to suspend sections 523, 525, and 526](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md)
-- [&sect; 00528 - Repealed. Pub. L. 107&#8211;107, div. A, title V, &sect;501(a), Dec. 28, 2001, 115 Stat. 1079](%C2%A7%2000528%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7501%28a%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201079.md)
+- [&sect; 00528 - Exclusion officer serving as Associate Director of Central Intelligence for Military Support](%C2%A7%2000528%20-%20Exclusion%20officer%20serving%20as%20Associate%20Director%20of%20Central%20Intelligence%20for%20Military%20Support.md)

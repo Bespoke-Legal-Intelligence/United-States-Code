@@ -4,41 +4,47 @@
 
 General Authorization of Appropriations.—Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
 
-&emsp;(1) $2,131,000,000 for fiscal year 1999.
+&emsp;(1) $3,138,000,000 for fiscal year 2004;
 
-&emsp;(2) $2,689,000,000 for fiscal year 2000.
+&emsp;(2) $2,993,000,000 for fiscal year 2005;
 
-&emsp;(3) $2,656,765,000 for fiscal year 2001.
+&emsp;(3) $3,053,000,000 for fiscal year 2006; and
 
-&emsp;(4) $2,914,000,000 for fiscal year 2002.
-
-&emsp;(5) $2,981,022,000 for fiscal year 2003.
+&emsp;(4) $3,110,000,000 for fiscal year 2007.
 
 (b)
 
-Major Airway Capital Investment Plan Changes.—If the Secretary decides that it is necessary to augment or substantially modify elements of the Airway Capital Investment Plan referred to in section 44501(b) of this title (including a decision that it is necessary to establish more than 23 area control facilities), not more than $100,000,000 may be appropriated to the Secretary out of the Fund for the fiscal year ending September 30, 1994, to carry out the augmentation or modification.
+Availability of Amounts.—Amounts appropriated under this section remain available until expended.
 
 (c)
 
-Availability of Amounts.—Amounts appropriated under this section remain available until expended.
+Enhanced Safety and Security for Aircraft Operations in the Gulf of Mexico.—Of amounts appropriated under subsection (a), such sums as may be necessary for fiscal years 2004 through 2007 may be used to expand and improve the safety, efficiency, and security of air traffic control, navigation, low altitude communications and surveillance, and weather services in the Gulf of Mexico.
 
 (d)
 
-Universal Access Systems.—Of the amounts appropriated under subsection (a) forfiscal year 2001, $8,000,000 may be used for the voluntary purchase and installation of universal access systems.
+Operational Benefits of Wake Vortex Advisory System.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 through 2007 may be used for the development and analysis of wake vortex advisory systems.
 
 (e)
 
-Alaska National Air Space Communications System.—Of the amounts appropriated under subsection (a) for fiscal year 2001, $7,200,000 may be used by the Administrator of the Federal Aviation Administration for the Alaska National Air Space Interfacility Communications System if the Administrator issues a report supporting the use of such funds for the System.
+Ground-Based Precision Navigational Aids.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 to 2007 may be used to establish a program for the installation of a precision approach aid designed to improve aircraft accessibility at mountainous airports with limited land if the approach aid is able to provide curved and segmented approach guidance for noise abatement purposes and other such approach aids and is certified or approved by the Administrator.
 
 (f)
 
-Automated Surface Observation System/Automated Weather Observing System Upgrade.—Of the amounts appropriated under subsection (a) for fiscal years beginning after September 30, 2000, such sums as may be necessary for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
+Automated Surface Observation System/Automated Weather Observing System Upgrade.—Of the amounts appropriated under subsection (a), such sums as may be necessary may be used for the implementation and use of upgrades to the current automated surface observation system/automated weather observing system, if the upgrade is successfully demonstrated.
 
 (g)
 
 Life-Cycle Cost Estimates.—The Administrator of the Federal Aviation Administration shall establish life-cycle cost estimates for any air traffic control modernization project the total life-cycle costs of which equal or exceed $50,000,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65.)
+(h)
+
+Standby Power Efficiency Program.—Of amounts appropriated under subsection (a), such sums as may be necessary for each of fiscal years 2004 through 2007 may be used by the Secretary of Transportation, in cooperation with the Secretary of Energy and, where applicable, the Secretary of Defense, to establish a program to improve the efficiency, cost effectiveness, and environmental performance of standby power systems at Federal Aviation Administration sites, including the implementation of fuel cell technology.
+
+(i)
+
+Pilot Program To Provide Incentives for Development of New Technologies.—Of amounts appropriated under subsection (a), $500,000 for fiscal year 2004 may be used for the conduct of a pilot program to provide operating incentives to users of the airspace for the deployment of new technologies, including technologies to facilitate expedited flight routing and sequencing of takeoffs and landings.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title I, §102(a), Aug. 23, 1994, 108 Stat. 1571; Pub. L. 104–264, title I, §102(a), (b)(1), Oct. 9, 1996, 110 Stat. 3216; Pub. L. 106–6, §3, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §102, Apr. 5, 2000, 114 Stat. 65; Pub. L. 108–176, title I, §102, Dec. 12, 2003, 117 Stat. 2494.)
 
 Historical and Revision Notes
 
@@ -80,6 +86,24 @@ In subsection (a), the words “to the Secretary of Transportation” are added 
 
 #### Amendments
 
+2003—Subsec. (a)(1) to (5). Pub. L. 108–176, §102(1), added pars. (1) to (4) and struck out formers par. (1) to (5) which read as follows:
+
+“(1) $2,131,000,000 for fiscal year 1999.
+
+“(2) $2,689,000,000 for fiscal year 2000.
+
+“(3) $2,656,765,000 for fiscal year 2001.
+
+“(4) $2,914,000,000 for fiscal year 2002.
+
+“(5) $2,981,022,000 for fiscal year 2003.”
+
+Subsecs. (b) to (e). Pub. L. 108–176, §102(2), (3), added subsecs. (c) to (e), redesignated former subsec. (c) as (b), and struck out former subsecs. (b), (d) and (e), which related, respectively, to major airway capital investment plan changes, universal access systems, and the Alaska National Air Space Interfacility Communications System.
+
+Subsec. (f). Pub. L. 108–176, §102(4), struck out “for fiscal years beginning after September 30, 2000” after “appropriated under subsection (a)” and inserted “may be used” after “may be necessary”.
+
+Subsecs. (h), (i). Pub. L. 108–176, §102(5), added subsecs. (h) and (i).
+
 2000—Subsec. (a). Pub. L. 106–181, §102(a), added pars. (1) to (5) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) $2,068,000,000 for fiscal year 1997.
@@ -118,71 +142,43 @@ Subsec. (a)(3). Pub. L. 103–305, §102(a)(3), substituted “For” for “for
 
 Subsec. (a)(4). Pub. L. 103–305, §102(a)(4), added par. (4).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
-#### Funding for Aviation Programs
+#### Facilities and Equipment Reports
 
-Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, provided that:
+Pub. L. 108–176, title I, §184, Dec. 12, 2003, 117 Stat. 2517, provided that:
 
 “(a)
 
-Authorization of Appropriations.—
+Biannual Reports.—Beginning 180 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure every 6 months that describes—
 
-&emsp;“(1)
+&emsp;“(1) the 10 largest programs funded under section 48101(a) of title 49, United States Code;
 
-Airport and airway trust fund guarantee.—
+&emsp;“(2) any changes in the budget for such programs;
 
-&emsp;&emsp;“(A)
+&emsp;“(3) the program schedule; and
 
-In general.—The total budget resources made available from the Airport and Airway Trust Fund each fiscal year through fiscal year 2003 pursuant to sections 48101, 48102, 48103, and 106(k) of title 49, United States Code, shall be equal to the level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year. Such amounts may be used only for aviation investment programs listed in subsection (b).
-
-&emsp;&emsp;“(B)
-
-Guarantee.—No funds may be appropriated or limited for aviation investment programs listed in subsection (b) unless the amount described in subparagraph (A) has been provided.
-
-&emsp;“(2)
-
-Additional authorizations of appropriations from the general fund.—In any fiscal year through fiscal year 2003, if the amount described in paragraph (1) is appropriated, there is further authorized to be appropriated from the general fund of the Treasury such sums as may be necessary for the Federal Aviation Administration Operations account.
+&emsp;“(4) technical risks associated with the programs.
 
 “(b)
 
-Definitions.—In this section, the following definitions apply:
+Sunset Provision.—This section shall cease to be effective beginning on the date that is 4 years after the date of enactment of this Act \[Dec. 12, 2003\].”
 
-&emsp;“(1)
+#### Funding for Aviation Programs
 
-Total budget resources.—The term ‘total budget resources’ means the total amount made available from the Airport and Airway Trust Fund for the sum of obligation limitations and budget authority made available for a fiscal year for the following budget accounts that are subject to the obligation limitation on contract authority provided in this Act \[see Tables for classification\] and for which appropriations are provided pursuant to authorizations contained in this Act:
-
-&emsp;&emsp;“(A) 69–8106–0–7–402 (Grants in Aid for Airports).
-
-&emsp;&emsp;“(B) 69–8107–0–7–402 (Facilities and Equipment).
-
-&emsp;&emsp;“(C) 69–8108–0–7–402 (Research and Development).
-
-&emsp;&emsp;“(D) 69–8104–0–7–402 (Trust Fund Share of Operations).
-
-&emsp;“(2)
-
-Level of receipts plus interest.—The term ‘level of receipts plus interest’ means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 \[26 U.S.C. 9502\] for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) \[2 U.S.C. 907\] (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
-
-“(c)
-
-Enforcement of Guarantees.—
-
-&emsp;“(1)
-
-Total airport and airway trust fund funding.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources in a fiscal year for aviation investment programs described in subsection (b) to be less than the amount required by subsection (a)(1)(A) for such fiscal year.
-
-&emsp;“(2)
-
-Capital priority.—It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that provides an appropriation (or any amendment thereto) for any fiscal year through fiscal year 2003 for Research and Development or Operations if the sum of the obligation limitation for Grants-in-Aid for Airports and the appropriation for Facilities and Equipment for such fiscal year is below the sum of the authorized levels for Grants-in-Aid for Airports and for Facilities and Equipment for such fiscal year.”
+Pub. L. 106–181, title I, §106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, which related to budget resources made available from the Airport and Airway Trust Fund through fiscal year 2003, was repealed by Pub. L. 108–176, title I, §104(c), Dec. 12, 2003, 117 Stat. 2497.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 44502, 48108, 48109, 48112, 48113 of this title.
+This section is referred to in sections 44502, 44517, 48108, 48109, 48112, 48113, 48114 of this title.
 

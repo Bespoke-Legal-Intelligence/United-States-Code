@@ -24,7 +24,7 @@
 
 (d) For purposes of this chapter, a modification in a decree, order, agreement, or election referred to in subsection (a) shall not be effective—
 
-&emsp;(1) if such modification is made after the retirement or death of the employee, Member, orannuitant, or former employee or Member, concerned; and
+&emsp;(1) if such modification is made after the retirement or death of the employee, Member, or annuitant, or former employee or Member, concerned; and
 
 &emsp;(2) to the extent that such modification involves an annuity under this section.
 
@@ -38,7 +38,7 @@
 
 (h)(1) Subsection (c)(2) (to the extent that it provides for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
 
-(2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
+(2) A remarriage described in paragraph (1) shall not be taken into account for purposes ofsection 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 564; amended Pub. L. 105–61, title V, §518(b)(2), Oct. 10, 1997, 111 Stat. 1308.)
 

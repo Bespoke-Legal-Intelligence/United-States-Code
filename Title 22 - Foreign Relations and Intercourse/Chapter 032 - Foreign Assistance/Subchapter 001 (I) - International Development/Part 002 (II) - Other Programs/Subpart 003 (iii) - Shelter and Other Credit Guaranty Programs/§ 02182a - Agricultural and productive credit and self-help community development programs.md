@@ -18,7 +18,7 @@ The Inter-American Foundation shall be consulted in developing criteria for maki
 
 #### (e) Guaranty reserve
 
-Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilities under guaranties issued under this section or any guaranties previously issued under section 2200 of this title.
+Not to exceed $3,000,000 of the guaranty reserve established under section 2183(b) of this title shall be available to make such payments as may be necessary to discharge liabilitiesunder guaranties issued under this section or any guaranties previously issued under section 2200 of this title.
 
 #### (f) Administrative and operating expenses; funds
 

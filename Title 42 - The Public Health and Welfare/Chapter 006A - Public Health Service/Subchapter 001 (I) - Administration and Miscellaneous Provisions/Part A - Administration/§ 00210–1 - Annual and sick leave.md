@@ -10,13 +10,13 @@ In accordance with regulations of the President, commissioned officers of the Re
 
 #### (d) Definitions
 
-For purposes of this section the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
+For purposes of this section the term “accumulated annual leave” means unused accruedannual leave carried forward from one leave year into a succeeding leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
 
 (July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586.)
 
 #### Partial Repeal of Subsection (d)
 
-<i>Subsection (d) of this section was repealed by Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499,</i><i>insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.</i>
+<i>Subsection (d) of this section was repealed by Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499, insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.</i>
 
 #### Amendments
 

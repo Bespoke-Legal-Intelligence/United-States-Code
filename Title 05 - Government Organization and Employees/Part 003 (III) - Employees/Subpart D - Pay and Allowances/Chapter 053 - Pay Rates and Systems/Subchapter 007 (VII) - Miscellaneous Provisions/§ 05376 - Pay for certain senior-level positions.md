@@ -64,5 +64,5 @@ Regulations.—The Office of Personnel Management may prescribe regulations, con
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3405, 4507a, 5304, 5307, 5331, 5382, 5595, 5948, 9509 of this title; title 7 section 7317; title 20 section 9578; title 33 sections 892c, 1123, 1128; title 42 sections 1863, 1864, 5612, 5651.
+This section is referred to in sections 3405, 4507a, 5304, 5307, 5331, 5382, 5595, 5948, 9509, 9902, 9903 of this title; title 7 section 7317; title 20 section 9578; title 33 sections 892c, 1123, 1128; title 42 sections 1863, 1864, 5612.
 

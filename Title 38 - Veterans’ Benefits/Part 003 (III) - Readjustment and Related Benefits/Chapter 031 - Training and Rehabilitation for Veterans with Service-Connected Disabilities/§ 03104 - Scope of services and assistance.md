@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 102–54 substituted “(29 U.S.C. 796a)” for “(29 U.S.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(d)(1)(C), (2) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary of Veterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
+Amendment by Pub. L. 104–275 effective Oct. 9, 1996, with amendment by section 101(d)(1)(C), (2) of Pub. L. 104–275 only applicable with respect to claims of eligibility or entitlement to services and assistance (including claims for extension of such services and assistance) under this chapter received by the Secretary ofVeterans Affairs on or after Oct. 9, 1996, including those claims based on original applications, and applications seeking to reopen, revise, reconsider, or otherwise adjudicate or readjudicate on any basis claims for services and assistance under this chapter, see section 101(j) of Pub. L. 104–275, set out as a note under section 3101 of this title.
 
 #### Effective Date of 1991 Amendment
 

@@ -36,7 +36,7 @@ If the President determines that a State or local government has identified natu
 
 #### (B) Extraordinary circumstances
 
-&emsp;&emsp;In providing assistance to local governments under this section, the President may select a local government that has not beenrecommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
+&emsp;&emsp;In providing assistance to local governments under this section, the President may select a local government that has not been recommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
 
 #### (3) Effect of failure to nominate
 
@@ -64,7 +64,7 @@ If the President determines that a State or local government has identified natu
 
 #### (f) Allocation of funds
 
-The amount of financial assistance made available to a State (including amounts made available to local governments of the State) under this section for a fiscal year—
+The amount of financial assistance made available to a State (including amounts madeavailable to local governments of the State) under this section for a fiscal year—
 
 &emsp;(1) shall be not less than the lesser of—
 
@@ -168,7 +168,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (1) Definition of multihazard advisory map
 
-&emsp;In this subsection, the term “multihazard advisory map” means a map on which hazard data concerning each type of natural disaster is identified simultaneously for the purpose of showing areas of hazard overlap.
+&emsp;In this subsection, the term “multihazard advisory map” means a map on which hazard data concerning each type of natural disasteris identified simultaneously for the purpose of showing areas of hazard overlap.
 
 #### (2) Development of maps
 

@@ -20,7 +20,7 @@ The following Federal standards are hereby established:
 
 #### (2) Advertising
 
-&emsp;No gas utility may recover from any person other than the shareholders (or other owners) of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 3204(b) of this title.
+&emsp;No gas utility may recover from any person other than the shareholders (or other owners)of such utility any direct or indirect expenditure by such utility for promotional or political advertising as defined in section 3204(b) of this title.
 
 #### (3) Integrated resource planning
 
@@ -28,7 +28,7 @@ The following Federal standards are hereby established:
 
 #### (4) Investments in conservation and demand management
 
-&emsp;The rates charged by any State regulated gas utility shall be such that the utility's prudent investments in, and expenditures for, energy conservation and load shifting programs and for other demand-side management measures which are consistent with the findings and purposes of the Energy Policy Act of 1992 are at least as profitable (taking into account the income lost due to reduced sales resulting from such programs) as prudent investments in, and expenditures for, the acquisition orconstruction of supplies and facilities. This objective requires that (A) regulators link the utility's net revenues, at least in part, to the utility's performance in implementing cost-effective programs promoted by this section; and (B) regulators ensure that, for purposes of recovering fixed costs, including its authorized return, the utility's performance is not affected by reductions in its retail sales volumes.
+&emsp;The rates charged by any State regulated gas utility shall be such that the utility's prudent investments in, and expenditures for, energy conservation and load shifting programs and for other demand-side management measures which are consistent with the findings and purposes of the Energy Policy Act of 1992 are at least as profitable (taking into account the income lost due to reduced sales resulting from such programs) as prudent investments in, and expenditures for, the acquisition or construction of supplies and facilities. This objective requires that (A) regulators link the utility's net revenues, at least in part, to the utility's performance in implementing cost-effective programs promoted by this section; and (B) regulators ensure that, for purposes of recovering fixed costs, including its authorized return, the utility's performance is not affected by reductions in its retail sales volumes.
 
 #### (c) Procedural requirements
 

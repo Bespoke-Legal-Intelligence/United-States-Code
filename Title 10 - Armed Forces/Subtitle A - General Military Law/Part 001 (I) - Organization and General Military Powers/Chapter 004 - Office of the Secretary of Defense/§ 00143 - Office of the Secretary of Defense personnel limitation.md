@@ -20,7 +20,7 @@ Section, as added by Pub. L. 105–85, consists of text of Pub. L. 104–201, di
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted “The number” for “Effective October 1, 1999, the number” and “3,767” for “75 percent of the baseline number”.
+1999—Subsec. (a). Pub. L. 106–65, §921(c)(1), substituted “The number” for “Effective October 1, 1999,the number” and “3,767” for “75 percent of the baseline number”.
 
 Subsec. (b). Pub. L. 106–65, §921(c)(2), (3), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “The number of OSD personnel—
 

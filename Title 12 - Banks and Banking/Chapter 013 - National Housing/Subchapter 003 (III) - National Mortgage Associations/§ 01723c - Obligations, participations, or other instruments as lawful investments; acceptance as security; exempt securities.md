@@ -6,7 +6,7 @@ All obligations, participations, or other instruments issued by either of the bo
 
 #### Amendments
 
-1992—Pub. L. 102–550 struck out before period at end “; but all such issuances by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation shall be made only withthe approval of the Secretary of Housing and Urban Development”.
+1992—Pub. L. 102–550 struck out before period at end “; but all such issuances by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation shall be made only with the approval of the Secretary of Housing and Urban Development”.
 
 1984—Pub. L. 98–440 inserted “by the Association and all issuances of stock, and debt obligations convertible into stock, by the corporation”.
 

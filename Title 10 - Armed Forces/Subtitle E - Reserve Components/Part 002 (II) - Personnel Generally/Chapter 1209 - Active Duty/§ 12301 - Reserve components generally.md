@@ -8,7 +8,7 @@
 
 (d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
-(e) The period of time allowed between the date when a Reserve ordered to active duty (other than for training) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
+(e) The period of time allowed between the date when a Reserve ordered to active duty (other than for training) is alerted for that duty and the date when the Reserve is required toenter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
 (f) The consent of a Governor described in subsections (b) and (d) may not be withheld (in whole or in part) with regard to active duty outside the United States, its territories, and its possessions, because of any objection to the location, purpose, type, or schedule of such active duty.
 
@@ -108,7 +108,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1994—Pub. L. 103–337, §1662(e)(2), renumbered section 672 of this title as this section.
 
-Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
+Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia NationalGuard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
 
 Subsec. (d). Pub. L. 103–337, §1675(c)(1)(B), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
@@ -146,5 +146,5 @@ For rule of construction for certain duplicate provisions of Public Laws 99–50
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 523, 582, 641, 672, 10142, 10151, 10215, 12305, 12306, 12307, 12310, 12408, 12686, 16131, 16133 of this title; title 5 section 6323; title 38 sections 3011, 3013, 3231, 3511, 4211, 4312; title 50 App. section 592.
+This section is referred to in sections 101, 523, 582, 641, 672, 10142, 10151, 10215, 12305, 12306, 12307, 12310, 12408, 12686, 16131, 16133 of this title; title 5 section 6323; title 20 section 921; title 38 sections 3011, 3013, 3103, 3105, 3231, 3511, 3512, 4211, 4312; title 50 App. section 593.
 

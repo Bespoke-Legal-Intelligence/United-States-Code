@@ -48,7 +48,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to th
 
 &emsp;&emsp;&emsp;&emsp;(II) an applicable corporation has a corporate equity reduction interest loss for any loss limitation year ending after August 2, 1989,
 
-&emsp;&emsp;&nbsp;then the corporate equity reduction interest loss shall be a net operating loss carryback and carryover to the taxable years described in subparagraph (A), except that such loss shall not be carried back to a taxable year preceding the taxable year in which the corporate equity reduction transaction occurs.
+&emsp;&emsp;&nbsp;then the corporate equity reduction interest loss shall be a net operating loss carryback and carryover to the taxable yearsdescribed in subparagraph (A), except that such loss shall not be carried back to a taxable year preceding the taxable year in which the corporate equity reduction transaction occurs.
 
 #### (ii) Loss limitation year
 
@@ -332,7 +332,7 @@ For purposes of this section—
 
 #### (i) Plans to acquire stock
 
-&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation)with respect to another corporation shall be treated as 1 plan.
+&emsp;&emsp;&emsp;All plans referred to in subparagraph (B) by any corporation (or group of persons acting in concert with such corporation) with respect to another corporation shall be treated as 1 plan.
 
 #### (ii) Acquisitions during 24-month period
 
@@ -396,7 +396,7 @@ For purposes of this section—
 
 #### (3) Election
 
-&emsp;Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(G) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(G). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
+&emsp;Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(G) from any loss year may elect to have the carryback period with respect to such loss year determined without regard to subsection (b)(1)(G). Such election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss. Such election,once made for any taxable year, shall be irrevocable for such taxable year.
 
 #### (j) Election to disregard 5-year carryback for certain net operating losses
 
@@ -408,7 +408,7 @@ Any taxpayer entitled to a 5-year carryback under subsection (b)(1)(H) from any 
 
 &emsp;&emsp;<b>(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1),\(6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56.)
 
 #### Amendments
 
@@ -580,7 +580,7 @@ Subsec. (b)(1)(E)(ii). Pub. L. 97–34, §207(a)(2)(B)(ii), struck out designati
 
 Subsec. (g)(3)(C). Pub. L. 97–34, §207(a)(2)(C), struck out subpar. (C) which provided that, in the case of a net operating loss carryover from a loss year ending after Dec. 31, 1975, subpars. (A) and (B) were to be applied by substituting “8th taxable year” for “6th taxable year” and “9th taxable year” for “7th taxable year”.
 
-1980—Subsec. (b)(1)(A). Pub. L. 96–222, §106(a)(6), substituted “, (H), and (I)” for “and (H)”.
+1980—Subsec. (b)(1)(A). Pub. L. 96–222, §106(a)(6), substituted “, (H), and (I)” for “and (H)”.
 
 Pub. L. 96–222, §103(a)(15), amended directory language of Pub. L. 95–600, §371(a)(2), to correct an error, and did not involve any change in text. See 1978 Amendment note for subsec. (b)(1)(A) below.
 
@@ -630,7 +630,7 @@ Subsec. (b)(3)(C)(i). Pub. L. 94–455, §1901(a)(29)(C)(iii), substituted “su
 
 Subsec. (b)(3)(C)(ii), (iii). Pub. L. 94–455, §1906(b)(13)(A), struck out “Or his delegate” in two places after “Secretary”.
 
-Subsec. (b)(3)(E). Pub. L. 94–455, §§806(c), 1901(a)(29)(A)(ii), added subpar. (E). Former subpar. (E), which related to applicability of special rules in computing taxpayer's net operating loss deduction, was struck out.
+Subsec. (b)(3)(E). Pub. L. 94–455, §§806(c), 1901(a)(29)(A)(ii), added subpar. (E). Former subpar. (E),which related to applicability of special rules in computing taxpayer's net operating loss deduction, was struck out.
 
 Subsec. (b)(3)(F). Pub. L. 94–455, §1901(a)(29)(A)(ii), struck out subpar. (F) which defined “class of products” and provided for the use of information compiled or published by Secretary of Commerce or manufacturers as prima facie evidence of the total number of units of such class of products manufactured and produced in the United States in a calendar year.
 
@@ -656,7 +656,7 @@ Subsec. (i). Pub. L. 94–455, §1901(a)(29)(C)(i), redesignated subsec. (<i>l</
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 94–455, §1901(a)(29)(C)(i), redesignated subsecs. (j) to (<i>l</i>) as (g) to (i), respectively.
 
-1971—Subsec. (b)(1)(D). Pub. L. 91–677, §2(a), inserted “(or, with respect to that portion of the net operatingloss for such year attributable to a Cuban expropriation loss, to each of the 15 taxable years following the taxable year of such loss)” after “the 10 taxable years following the taxable year of such loss”.
+1971—Subsec. (b)(1)(D). Pub. L. 91–677, §2(a), inserted “(or, with respect to that portion of the net operating loss for such year attributable to a Cuban expropriation loss, to each of the 15 taxable years following the taxable year of such loss)” after “the 10 taxable years following the taxable year of such loss”.
 
 Subsec. (b)(2). Pub. L. 91–677, §2(b), inserted provisions relating to treatment of Cuban expropriation losses.
 
@@ -830,7 +830,7 @@ Clarification of earnings and profits of federal home loan mortgage corporation.
 
 &emsp;“(A)
 
-Treatment of distribution of preferred stock, etc.—For purposes of the Internal Revenue Code of 1986, the distribution of preferred stock by the Federal Home Loan Mortgage Corporation during December of 1984, and the other distributions of such stock by Federal Home Loan Banks during January of 1985, shall be treated as if they were distributions of money equal to the fair market value of the stock on the date of the distribution by the Federal Home Loan Banks (and such stock shall be treated as if it were purchased with the money treated as so distributed). No deduction shall be allowed under section 243 of the Internal Revenue Code of 1986 with respect to any dividend paid by the Federal Home Loan Mortgage Corporation out of earnings and profits accumulated before January 1, 1985.
+Treatment of distribution of preferred stock, etc.—For purposes of the Internal Revenue Code of 1986, the distribution of preferred stock by the Federal Home Loan Mortgage Corporation during December of 1984, and the other distributions of such stock by Federal Home Loan Banks during January of 1985, shall be treated as if they were distributions of money equal to the fair market value of the stockon the date of the distribution by the Federal Home Loan Banks (and such stock shall be treated as if it were purchased with the money treated as so distributed). No deduction shall be allowed under section 243 of the Internal Revenue Code of 1986 with respect to any dividend paid by the Federal Home Loan Mortgage Corporation out of earnings and profits accumulated before January 1, 1985.
 
 &emsp;“(B)
 
@@ -924,7 +924,7 @@ Section 317(b) of Pub. L. 87–794 provided that the amendment made by that sect
 
 Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 31, 1962, see section 8 of Pub. L. 87–792, set out as a note under section 22 of this title.
 
-Section 2 of Pub. L. 87–710 provided that: “The amendments made by the first section of this Act\[amending this section\] shall apply only with respect to net operating losses for taxable years ending after December 31, 1955.”
+Section 2 of Pub. L. 87–710 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to net operating losses for taxable years ending after December 31, 1955.”
 
 #### Effective Date of 1958 Amendment
 
@@ -1180,7 +1180,7 @@ Section 11811(b)(2)(B) of Pub. L. 101–508 provided that: “The portion of any
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Refund or Credit of Overpayment; Limitations; Interest
 

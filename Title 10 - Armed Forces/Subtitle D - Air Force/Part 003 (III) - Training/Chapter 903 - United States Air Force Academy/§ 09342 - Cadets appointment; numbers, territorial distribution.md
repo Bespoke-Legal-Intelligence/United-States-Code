@@ -1,6 +1,6 @@
 ### §9342. Cadets: appointment; numbers, territorial distribution
 
-(a) The authorized strength of Air Force Cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, Air Force Cadets are selected as follows:
+(a) The authorized strength of Air Force Cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,000 or such higher number as may be prescribed by the Secretary of the Air Force under subsection (j). Subject to that limitation, Air Force Cadets are selected as follows:
 
 &emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a “missing status” as defined in section 551(2) of title 37, and children of civilian employees who are in “missing status” as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
 
@@ -12,13 +12,13 @@
 
 &emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
-&emsp;(6) Two cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+&emsp;(6) Three cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
 &emsp;(7) Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-&emsp;(8) Two cadets from Guam, nominated by the Delegate in Congress from Guam.
+&emsp;(8) Three cadets from Guam, nominated by the Delegate in Congress from Guam.
 
-&emsp;(9) One cadet from American Samoa, nominated by the Delegate in Congress from American Samoa.
+&emsp;(9) Two cadet <sup>1</sup> from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 &emsp;(10) One cadet from the Commonwealth of the Northern Mariana Islands, nominated by the resident representative from the commonwealth.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eight years of service computed under section 12733 of this title; or
 
-&emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay underchapter 1223 of this title except for not having attained 60 years of age;
+&emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
 
 > &emsp;however, a person who is eligible for selection under clause (1) of subsection (a) may not be selected under this clause.
 
@@ -78,11 +78,19 @@
 
 &emsp;(4) The limitations provided for in this subsection do not affect the operation of subsection (e).
 
-(h) The Secretary of the Air Force shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
+(h) The Superintendent shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
 (i) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of Air Force Cadets, the Secretary of the Air Force may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(3), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110.)
+(j)(1) Beginning with the 2003–2004 academic year, the Secretary of the Air Force may prescribe annual increases in the cadet strength limit in effect under subsection (a). For any academic year, any such increase shall be by no more than 100 cadets or such lesser number as applies under paragraph (3) for that year. Such annual increases may be prescribed until the cadet strength limit is 4,400. However, no increase may be prescribed for any academic year after the 2007–2008 academic year.
+
+(2) Any increase in the cadet strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under sections 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strength limit, as so increased, and the amount of the increase in Senior Air Force Reserve Officers’ Training Corps enrollment under each of sections 2104 and 2107 of this title.
+
+(3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of cadets enrolled in the Air Force Senior Reserve Officers’ Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
+
+(4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of Air Force Cadets of the Academy.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 563; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(3), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–314, div. A, title V, §532(c), Dec. 2, 2002, 116 Stat. 2546; Pub. L. 108–136, div. A, title V, §524(c), title X, §1031(a)(58), Nov. 24, 2003, 117 Stat. 1464, 1603.)
 
 Historical and Revision Notes
 
@@ -170,6 +178,16 @@ In subsection (h), the words “or shall hereafter be” are omitted as surplusa
 
 #### Amendments
 
+2003—Subsec. (a)(6), (8). Pub. L. 108–136, §524(c)(1), substituted “Three” for “Two”.
+
+Subsec. (a)(9). Pub. L. 108–136, §524(c)(2), substituted “Two” for “One”.
+
+Subsec. (h). Pub. L. 108–136, §1031(a)(58), substituted “Superintendent” for “Secretary of the Air Force”.
+
+2002—Subsec. (a). Pub. L. 107–314, §532(c)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Air Force under subsection (j)”.
+
+Subsec. (j). Pub. L. 107–314, §532(c)(2), added subsec. (j).
+
 2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)(1)\], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
 
 Subsec. (b)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)(2)\], added subpars. (C) and (D).
@@ -216,7 +234,7 @@ Subsec. (a)(9). Pub. L. 93–171, §3(2), struck out reference to American Samoa
 
 Subsec. (a)(10). Pub. L. 93–171, §3(3), added cl. (10).
 
-Subsec. (f). Pub. L. 93–171, §3(4), substituted “, (9) and (10) of subsection (a)” for “and (9) of subsection (a)” and struck out reference to Territory.
+Subsec. (f). Pub. L. 93–171, §3(4), substituted “, (9) and (10) of subsection (a)” for “and (9) of subsection (a)” and struck out reference to Territory.
 
 1972—Subsec. (a)(1). Pub. L. 92–365 increased number of Air Force Cadets from 40 to 65 and added sons of members who are in missing status and sons of civilian employees who are in missing status as eligible for competitive examination.
 
@@ -239,6 +257,10 @@ Subsec. (b)(3). Pub. L. 89–650, §1(5), substituted “reserve components of t
 1962—Subsec. (a)(10). Pub. L. 87–663, §1(5), added cl. (10).
 
 Subsec. (c). Pub. L. 87–663, §1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by section 524(c) of Pub. L. 108–136 applicable with respect to nomination of candidates for appointment to United States Air Force Academy for classes entering after Nov. 24, 2003, see section 524(d) of Pub. L. 108–136, set out as a note under section 4342 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -268,11 +290,11 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date; Interim System for Appointment of Cadets
 
-Section 52(b) of act Aug. 10, 1956, as amended by Pub. L. 85–182, Aug. 28, 1957, 71 Stat. 463, provided that section 9342(a) of Title 10, Armed Forces would take effect four years after the entrance of the initial class at the United States Air Force Academy. However, for the four-year period beginning with the class of cadets entering in July 1959, not more than one quarter of the number of cadets authorized by clause (1), (2), (3), (4), (7), or (8) of that section could be appointed in any one academic year; two of the number of cadets authorized by clause (5) of that section could be appointed in the first and third years of that four-year period, and not more than one of the number authorized by it could be appointed in the second and fourth years of that period; and one cadet authorized by clause (6) of that section could be appointed in the first two years of that four-year period, and not more than one of the number authorized by it could be appointed in the second two years of that period. In addition, during that four-year period, the nominating authority named in clauses (1) to (6) of that section could select for each cadet allocated to him for the year concerned a principal candidate and not more than ten alternate candidates, or he could nominate as many candidates as the Secretary prescribed and authorize the Secretary to select the principal candidates in order of merit as determined by competitive examination. In carrying out section 9343 of Title 10, during that four-year period, only qualified alternates who were nominated by the authorities named in clauses (1) to (4) of section 9342(a) could benominated for appointment as cadets. Not more than one qualified alternate nominated by any one authority named in those classes could be appointed as a cadet, after nomination under section 9343, during each year of that four-year period.
+Section 52(b) of act Aug. 10, 1956, as amended by Pub. L. 85–182, Aug. 28, 1957, 71 Stat. 463, provided that section 9342(a) of Title 10, Armed Forces would take effect four years after the entrance of the initial class at the United States Air Force Academy. However, for the four-year period beginning with the class of cadets entering in July 1959, not more than one quarter of the number of cadets authorized by clause (1), (2), (3), (4), (7), or (8) of that section could be appointed in any one academic year; two of the number of cadets authorized by clause (5) of that section could be appointed in the first and third years of that four-year period, and not more than one of the number authorized by it could be appointed in the second and fourth years of that period; and one cadet authorized by clause (6) of that section could be appointed in the first two years of that four-year period, and not more than one of the number authorized by it could be appointed in the second two years of that period. In addition, during that four-year period, the nominating authority named in clauses (1) to (6) of that section could select for each cadet allocated to him for the year concerned a principal candidate and not more than ten alternate candidates, or he could nominate as many candidates as the Secretary prescribed and authorize the Secretary to select the principal candidates in order of merit as determined by competitive examination. In carrying out section 9343 of Title 10, during that four-year period, only qualified alternates who were nominated by the authorities named in clauses (1) to (4) of section 9342(a) could be nominated for appointment as cadets. Not more than one qualified alternate nominated by any one authority named in those classes could be appointed as a cadet, after nomination under section 9343, during each year of that four-year period.
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
-Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
+Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals
 
@@ -285,4 +307,6 @@ Secretary to continue to exercise the authority granted under this chapter and c
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 9343, 9344 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “cadets”.</i>
 

@@ -8,7 +8,7 @@
 
 #### (2) Limited review of agency compliance or noncompliance
 
-&emsp;(A) Agency compliance or noncompliance with the provisions of sections 1532 and1533(a)(1) and (2) of this title shall be subject to judicial review only under section 706(1) of title 5, and only as provided under subparagraph (B).
+&emsp;(A) Agency compliance or noncompliance with the provisions of sections 1532 and 1533(a)(1) and (2) of this title shall be subject to judicial review only under section 706(1) of title 5, and only as provided under subparagraph (B).
 
 &emsp;(B) If an agency fails to prepare the written statement (including the preparation of the estimates, analyses, statements, or descriptions) under section 1532 of this title or the written plan under section 1533(a)(1) and (2) of this title, a court may compel the agency to prepare such written statement.
 
@@ -18,7 +18,7 @@
 
 #### (4) Certain information as part of record
 
-&emsp;Any information generated under sections 1532 and 1533(a)(1) and (2) of this title that is part of the rulemaking record for judicial review under the provisions of any other Federal law may be considered as part of the record for judicial review conducted under such other provisions of Federal law.
+&emsp;Any information generated under sections 1532 and 1533(a)(1) and (2) of this title that ispart of the rulemaking record for judicial review under the provisions of any other Federal law may be considered as part of the record for judicial review conducted under such other provisions of Federal law.
 
 #### (5) Application of other Federal law
 

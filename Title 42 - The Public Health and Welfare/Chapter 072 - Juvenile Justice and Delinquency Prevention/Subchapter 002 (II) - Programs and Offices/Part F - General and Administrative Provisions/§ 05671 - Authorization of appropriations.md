@@ -62,7 +62,7 @@ Subsec. (c). Pub. L. 98–473, amended subsec. (c) generally. Prior to amendment
 
 Subsec. (d). Pub. L. 98–473, in amending section generally, added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–509, §2(a), substituted provisions authorizing appropriations of $200,000,000 for each of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
+1980—Subsec. (a). Pub. L. 96–509, §2(a), substituted provisions authorizing appropriations of $200,000,000 foreach of fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions that had authorized appropriations of $150,000,000 for fiscal year ending Sept. 30, 1978, $175,000,000 for fiscal year ending Sept. 30, 1979, and $200,000,000 for fiscal year ending Sept. 30, 1980.
 
 Subsec. (c). Pub. L. 96–509, §15, added subsec. (c).
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 94–503 substituted “subsection (a) of this section” f
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1988 Amendment
 

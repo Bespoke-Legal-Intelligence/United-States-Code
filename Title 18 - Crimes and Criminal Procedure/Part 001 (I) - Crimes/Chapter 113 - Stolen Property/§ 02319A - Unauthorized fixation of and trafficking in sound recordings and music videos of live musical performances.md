@@ -10,7 +10,7 @@ Offense.—Whoever, without the consent of the performer or performers involved,
 
 &emsp;(3) distributes or offers to distribute, sells or offers to sell, rents or offers to rent, or traffics in any copy or phonorecord fixed as described in paragraph (1), regardless of whether the fixations occurred in the United States;
 
-> shall be imprisoned for not more than 5 years or fined in the amount set forth in this title, or both, or if the offense is a second or subsequent offense, shall be imprisoned for not more than 10 years or fined in the amount set forth in this title, or both.
+> shall be imprisoned for not more than 5 years or fined in the amount set forth in this title, orboth, or if the offense is a second or subsequent offense, shall be imprisoned for not more than 10 years or fined in the amount set forth in this title, or both.
 
 (b)
 

@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (A) Total amount payable is dollar limit or less
 
-&emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant's consent) if—
+&emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as madeavailable merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant's consent) if—
 
 &emsp;&emsp;&emsp;(i) the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D)) does not exceed the dollar limit under section 411(a)(11)(A), and
 
@@ -172,7 +172,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) reimbursement for (or a reasonable allowance for) reasonable expenses incurred in the performance of such services, or
 
-&emsp;&emsp;&emsp;&emsp;(II) reasonable benefits (including length of service awards), and nominalfees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
+&emsp;&emsp;&emsp;&emsp;(II) reasonable benefits (including length of service awards), and nominal fees for such services, customarily paid by eligible employers in connection with the performance of such services by volunteers.
 
 #### (ii) Limitation on accruals
 
@@ -242,7 +242,7 @@ $15,000.
 
 #### (B) Cost-of-living adjustments
 
-&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarterbeginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
 
 #### (16) Rollover amounts
 
@@ -542,7 +542,7 @@ Nonelective plan.—For purposes of this paragraph, a nonelective plan is a plan
 
 &emsp;“(C)
 
-Termination.—This paragraph shall cease to apply to a plan as of the effective date of the firstmaterial modification of the plan agreed to after December 31, 1987.
+Termination.—This paragraph shall cease to apply to a plan as of the effective date of the first material modification of the plan agreed to after December 31, 1987.
 
 “(3)
 

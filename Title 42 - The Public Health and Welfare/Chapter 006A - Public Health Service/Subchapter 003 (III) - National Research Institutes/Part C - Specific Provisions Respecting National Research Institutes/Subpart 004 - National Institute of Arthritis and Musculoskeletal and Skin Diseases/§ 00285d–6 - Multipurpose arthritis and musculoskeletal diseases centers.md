@@ -20,7 +20,7 @@ Each center assisted under this section shall—
 
 &emsp;&emsp;(D) programs for the dissemination to the general public of information—
 
-&emsp;&emsp;&emsp;(i) on the importance of early detection of arthritis and musculoskeletal diseases,of seeking prompt treatment, and of following an appropriate regimen; and
+&emsp;&emsp;&emsp;(i) on the importance of early detection of arthritis and musculoskeletal diseases, of seeking prompt treatment, and of following an appropriate regimen; and
 
 &emsp;&emsp;&emsp;(ii) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive, treatment, and control methods and unapproved and ineffective drugs and devices.
 

@@ -14,7 +14,7 @@ Whenever the Council submits any budget estimate or request to the President or 
 
 2000—Subsec. (a). Pub. L. 106–208 substituted “2005” for “2000”.
 
-1996—Subsec. (a). Pub. L. 104–333 amended last sentence generally. Prior to amendment, last sentence read as follows: “There are authorized to be appropriated for purposes of this part not to exceed $5,000,000 for each of the fiscal years 1993 through 1996.”
+1996—Subsec. (a). Pub. L. 104–333 amended last sentence generally. Prior to amendment, last sentenceread as follows: “There are authorized to be appropriated for purposes of this part not to exceed $5,000,000 for each of the fiscal years 1993 through 1996.”
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 

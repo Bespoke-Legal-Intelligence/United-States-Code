@@ -118,7 +118,7 @@ Pub. L. 94–455, §1402(b)(1)(Q), provided that “6 months” would be changed
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 Amendment by section 1(a)(7) \[title IV, §401(h)(1)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7) \[title IV, §401(j)\] of Pub. L. 106–554, set out as a note under section 1032 of this title.
 
@@ -180,5 +180,5 @@ Pub. L. 95–600, §702(c)(5), cited as a credit to this section, and the amendm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 121, 246, 341, 735, 818, 1045, 1233, 1246, 1250, 1291, 1397B, 5881 of this title.
+This section is referred to in sections 121, 246, 735, 818, 1045, 1233, 1246, 1250, 1291, 1397B, 5881 of this title.
 

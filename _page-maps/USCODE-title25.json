@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title25",
- "package": "USCODE-2002-title25",
+ "package": "USCODE-2003-title25",
  "pieces": [
   {
    "id": "25_",
@@ -5761,7 +5761,7 @@
      18,
      [
       [
-       515,
+       470,
        "[Page 154]"
       ]
      ]
@@ -7118,14 +7118,10 @@
    "id": "25_472a",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       95,
-       "[Page 211]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 211]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00472a - Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions.md",
@@ -7142,7 +7138,7 @@
      2,
      [
       [
-       94,
+       587,
        "[Page 212]"
       ]
      ]
@@ -7171,7 +7167,7 @@
      14,
      [
       [
-       391,
+       995,
        "[Page 213]"
       ]
      ]
@@ -7205,20 +7201,20 @@
    "id": "25_476",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       135,
-       "[Page 214]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 214]",
+     true
     ],
     [
-     "L",
-     70,
-     "[Page 215]",
-     true
+     "I",
+     72,
+     [
+      [
+       270,
+       "[Page 215]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00476 - Organization of Indian tribes; constitution and bylaws and amendment thereof; special election.md",
@@ -7267,14 +7263,10 @@
    "id": "25_478b",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       235,
-       "[Page 216]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 216]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00478b - Application of laws and treaties.md",
@@ -7303,26 +7295,26 @@
   },
   {
    "id": "25_479a-1",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 217]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00479a–1 - Publication of list of recognized tribes.md",
    "printed_pages": [
     216,
-    217
+    216
    ]
   },
   {
    "id": "25_480",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 217]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00480 - Indians eligible for loans.md",
    "printed_pages": [
-    217,
+    216,
     217
    ]
   },
@@ -7366,14 +7358,10 @@
    "id": "25_484",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       136,
-       "[Page 218]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 218]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00484 - Conversion of exchange assignments of tribal lands on certain Sioux reservations into trust titles; trust and tax exemption.md",
@@ -7402,30 +7390,30 @@
   },
   {
    "id": "25_487",
+   "marks": [],
+   "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00487 - Spokane Indian Reservation; consolidations of land.md",
+   "printed_pages": [
+    218,
+    218
+   ]
+  },
+  {
+   "id": "25_488",
    "marks": [
     [
      "I",
-     40,
+     2,
      [
       [
-       212,
+       132,
        "[Page 219]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00487 - Spokane Indian Reservation; consolidations of land.md",
-   "printed_pages": [
-    218,
-    219
-   ]
-  },
-  {
-   "id": "25_488",
-   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00488 - Agricultural loans to acquire land within reservations.md",
    "printed_pages": [
-    219,
+    218,
     219
    ]
   },
@@ -7458,26 +7446,30 @@
   },
   {
    "id": "25_492",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 220]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00492 - Interest rates and taxes.md",
    "printed_pages": [
     219,
-    220
+    219
    ]
   },
   {
    "id": "25_493",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       240,
+       "[Page 220]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 005 (V) - Protection of Indians and Conservation of Resources/§ 00493 - Reduction of unpaid principal.md",
    "printed_pages": [
-    220,
+    219,
     220
    ]
   },
@@ -7530,14 +7522,10 @@
    "id": "25_500",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       433,
-       "[Page 221]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 221]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 007 (VII) - Reindeer Industry/§ 00500 - Purpose.md",
@@ -7595,14 +7583,10 @@
    "id": "25_500f",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       227,
-       "[Page 222]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 222]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 007 (VII) - Reindeer Industry/§ 00500f - Management of industry by Secretary; aim of management.md",
@@ -7637,7 +7621,7 @@
      2,
      [
       [
-       2386,
+       2818,
        "[Page 223]"
       ]
      ]
@@ -7707,14 +7691,10 @@
    "id": "25_501",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       993,
-       "[Page 224]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 224]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 008 (VIII) - Indians in Oklahoma Promotion of Welfare/§ 00501 - Acquisition of agricultural and grazing lands for Indians; title to lands; tax exemption.md",
@@ -7754,14 +7734,10 @@
    "id": "25_505",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       272,
-       "[Page 225]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 225]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 008 (VIII) - Indians in Oklahoma Promotion of Welfare/§ 00505 - Amendment or revocation of charters; suits by and against associations.md",
@@ -7835,26 +7811,26 @@
   },
   {
    "id": "25_531_to_535",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 226]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 009 (IX) - Klamath Tribe Capital Reserve Fund/§ 00531 to 535 - Repealed. Aug. 13, 1954, ch. 732, §12, 68 Stat. 721.md",
    "printed_pages": [
     225,
-    226
+    225
    ]
   },
   {
    "id": "25_-ch14-scX",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 226]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 010 (X) - Klamath Tribe Disposition of Certain Tribal Funds/README.md",
    "printed_pages": [
-    226,
+    225,
     226
    ]
   },
@@ -7869,26 +7845,26 @@
   },
   {
    "id": "25_542",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 227]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 010 (X) - Klamath Tribe Disposition of Certain Tribal Funds/§ 00542 - Limitations on remainder of fund.md",
    "printed_pages": [
     226,
-    227
+    226
    ]
   },
   {
    "id": "25_543",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 227]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 010 (X) - Klamath Tribe Disposition of Certain Tribal Funds/§ 00543 - Liability of judgment funds for debts.md",
    "printed_pages": [
-    227,
+    226,
     227
    ]
   },
@@ -7921,26 +7897,30 @@
   },
   {
    "id": "25_551",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 228]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 011 (XI) - Klamath Tribe Payments in Lieu of Allotments; Inheritance of Restricted Property/§ 00551 - “Klamath Tribe” defined.md",
    "printed_pages": [
     227,
-    228
+    227
    ]
   },
   {
    "id": "25_552",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       183,
+       "[Page 228]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 011 (XI) - Klamath Tribe Payments in Lieu of Allotments; Inheritance of Restricted Property/§ 00552 - Payments in lieu of allotments.md",
    "printed_pages": [
-    228,
+    227,
     228
    ]
   },
@@ -8024,7 +8004,7 @@
      2,
      [
       [
-       141,
+       428,
        "[Page 229]"
       ]
      ]
@@ -8059,10 +8039,10 @@
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       761,
+       110,
        "[Page 230]"
       ]
      ]
@@ -8078,14 +8058,10 @@
    "id": "25_564d",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       269,
-       "[Page 231]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 231]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564d - Management specialists.md",
@@ -8096,26 +8072,30 @@
   },
   {
    "id": "25_564e",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 232]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564e - Sale of tribal property.md",
    "printed_pages": [
     231,
-    232
+    231
    ]
   },
   {
    "id": "25_564f",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       290,
+       "[Page 232]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564f - Per capita payments to tribal members.md",
    "printed_pages": [
-    232,
+    231,
     232
    ]
   },
@@ -8145,7 +8125,7 @@
      2,
      [
       [
-       95,
+       371,
        "[Page 233]"
       ]
      ]
@@ -8188,14 +8168,10 @@
    "id": "25_564m",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       140,
-       "[Page 234]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 234]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564m - Water and fishing rights.md",
@@ -8242,30 +8218,30 @@
   },
   {
    "id": "25_564r",
+   "marks": [],
+   "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564r - Termination of Federal powers over tribe.md",
+   "printed_pages": [
+    234,
+    234
+   ]
+  },
+  {
+   "id": "25_564s",
    "marks": [
     [
      "I",
      2,
      [
       [
-       564,
+       278,
        "[Page 235]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564r - Termination of Federal powers over tribe.md",
-   "printed_pages": [
-    234,
-    235
-   ]
-  },
-  {
-   "id": "25_564s",
-   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564s - Set off of individual indebtedness; credit.md",
    "printed_pages": [
-    235,
+    234,
     235
    ]
   },
@@ -8313,7 +8289,7 @@
      10,
      [
       [
-       1644,
+       2197,
        "[Page 236]"
       ]
      ]
@@ -8323,7 +8299,7 @@
      26,
      [
       [
-       97,
+       729,
        "[Page 237]"
       ]
      ]
@@ -8337,26 +8313,26 @@
   },
   {
    "id": "25_564w-2",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 238]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564w–2 - Federal acquisition of tribal land.md",
    "printed_pages": [
     237,
-    238
+    237
    ]
   },
   {
    "id": "25_564x",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 238]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 013 (XIII) - Klamath Tribe Termination of Federal Supervision/§ 00564x - Timber sales.md",
    "printed_pages": [
-    238,
+    237,
     238
    ]
   },
@@ -8398,26 +8374,30 @@
   },
   {
    "id": "25_565c",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 239]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014 (XIV) - Klamath Tribe Distribution of Judgment Fund/§ 00565c - Disposition of funds remaining after distribution.md",
    "printed_pages": [
     238,
-    239
+    238
    ]
   },
   {
    "id": "25_565d",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       236,
+       "[Page 239]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014 (XIV) - Klamath Tribe Distribution of Judgment Fund/§ 00565d - Disposition of funds insufficient to justify further distribution.md",
    "printed_pages": [
-    239,
+    238,
     239
    ]
   },
@@ -8459,18 +8439,11 @@
   },
   {
    "id": "25_566",
-   "marks": [
-    [
-     "L",
-     38,
-     "[Page 240]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014–A (XIV–A) - Klamath Tribe Restoration of Federal Supervision/§ 00566 - Restoration of Federal recognition, rights, and privileges.md",
    "printed_pages": [
     239,
-    240
+    239
    ]
   },
   {
@@ -8478,16 +8451,27 @@
    "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014–A (XIV–A) - Klamath Tribe Restoration of Federal Supervision/§ 00566a - Tribe Constitution and Bylaws.md",
    "printed_pages": [
-    240,
-    240
+    239,
+    239
    ]
   },
   {
    "id": "25_566b",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       99,
+       "[Page 240]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014–A (XIV–A) - Klamath Tribe Restoration of Federal Supervision/§ 00566b - Conservation and development of lands.md",
    "printed_pages": [
-    240,
+    239,
     240
    ]
   },
@@ -8520,26 +8504,30 @@
   },
   {
    "id": "25_566f",
-   "marks": [
-    [
-     "L",
-     42,
-     "[Page 241]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014–A (XIV–A) - Klamath Tribe Restoration of Federal Supervision/§ 00566f - Economic development.md",
    "printed_pages": [
     240,
-    241
+    240
    ]
   },
   {
    "id": "25_566g",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       85,
+       "[Page 241]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 014–A (XIV–A) - Klamath Tribe Restoration of Federal Supervision/§ 00566g - Definitions.md",
    "printed_pages": [
-    241,
+    240,
     241
    ]
   },
@@ -8583,14 +8571,10 @@
    "id": "25_573",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       89,
-       "[Page 242]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 242]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 015 (XV) - Shoshone Tribe Distribution of Judgment Fund/§ 00573 - Uses of judgment fund.md",
@@ -8630,14 +8614,10 @@
    "id": "25_576",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       98,
-       "[Page 243]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 243]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 015 (XV) - Shoshone Tribe Distribution of Judgment Fund/§ 00576 - Purchase of lands; reimbursement of expenditures.md",
@@ -8696,7 +8676,7 @@
    "marks": [
     [
      "L",
-     12,
+     26,
      "[Page 244]",
      true
     ]
@@ -8727,22 +8707,11 @@
   },
   {
    "id": "25_588",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       116,
-       "[Page 245]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 015 (XV) - Shoshone Tribe Distribution of Judgment Fund/§ 00588 - Shoshone Tribe of the Wind River Reservation; distribution of funds.md",
    "printed_pages": [
     244,
-    245
+    244
    ]
   },
   {
@@ -8750,16 +8719,23 @@
    "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 015 (XV) - Shoshone Tribe Distribution of Judgment Fund/§ 00589 - Tax exemption.md",
    "printed_pages": [
-    245,
-    245
+    244,
+    244
    ]
   },
   {
    "id": "25_590",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 245]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 015 (XV) - Shoshone Tribe Distribution of Judgment Fund/§ 00590 - Rules and regulations.md",
    "printed_pages": [
-    245,
+    244,
     245
    ]
   },
@@ -8813,10 +8789,10 @@
    "marks": [
     [
      "I",
-     2,
+     8,
      [
       [
-       317,
+       114,
        "[Page 246]"
       ]
      ]
@@ -8869,7 +8845,7 @@
    "marks": [
     [
      "L",
-     4,
+     10,
      "[Page 247]",
      true
     ]
@@ -8930,10 +8906,10 @@
    "marks": [
     [
      "I",
-     8,
+     18,
      [
       [
-       92,
+       218,
        "[Page 248]"
       ]
      ]
@@ -8947,26 +8923,26 @@
   },
   {
    "id": "25_608",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 249]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 017 (XVII) - Yakima Tribes/§ 00608 - Purchase, sale, and exchange of land.md",
    "printed_pages": [
     248,
-    249
+    248
    ]
   },
   {
    "id": "25_608a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 249]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 017 (XVII) - Yakima Tribes/§ 00608a - Sale of tribal trust lands, etc.md",
    "printed_pages": [
-    249,
+    248,
     249
    ]
   },
@@ -9010,14 +8986,10 @@
    "id": "25_609b",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       234,
-       "[Page 250]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 250]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 017 (XVII) - Yakima Tribes/§ 00609b - Disposition of judgment fund; deductions; advances, expenditures, investments, or reinvestments for authorized purposes.md",
@@ -9037,26 +9009,30 @@
   },
   {
    "id": "25_609c",
-   "marks": [
-    [
-     "L",
-     46,
-     "[Page 251]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 017 (XVII) - Yakima Tribes/§ 00609c - Disbursement of minor's share of judgment funds.md",
    "printed_pages": [
     250,
-    251
+    250
    ]
   },
   {
    "id": "25_609c-1",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       285,
+       "[Page 251]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 017 (XVII) - Yakima Tribes/§ 00609c–1 - Tax exemption; eligibility for Federal assistance without regard to payments.md",
    "printed_pages": [
-    251,
+    250,
     251
    ]
   },
@@ -9136,17 +9112,21 @@
    "id": "25_611",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 252]",
-     true
+     "I",
+     12,
+     [
+      [
+       393,
+       "[Page 252]"
+      ]
+     ]
     ],
     [
      "I",
-     38,
+     42,
      [
       [
-       265,
+       106,
        "[Page 253]"
       ]
      ]
@@ -9171,14 +9151,10 @@
    "id": "25_613",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       2650,
-       "[Page 254]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 254]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 019 (XIX) - Shoshone and Arapaho Tribes of Wyoming/§ 00613 - Advances or expenditures from tribal funds; emergency and educational loans; payments to individuals of tribes; per capita payments not….md",
@@ -9201,10 +9177,10 @@
    "marks": [
     [
      "I",
-     14,
+     20,
      [
       [
-       222,
+       101,
        "[Page 255]"
       ]
      ]
@@ -9257,7 +9233,7 @@
    "marks": [
     [
      "L",
-     10,
+     16,
      "[Page 256]",
      true
     ]
@@ -9288,26 +9264,30 @@
   },
   {
    "id": "25_634",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 257]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 021 (XXI) - Navajo and Hopi Tribes Rehabilitation/§ 00634 - Loans to Tribes or individual members; loan fund.md",
    "printed_pages": [
     256,
-    257
+    256
    ]
   },
   {
    "id": "25_635",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 257]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 021 (XXI) - Navajo and Hopi Tribes Rehabilitation/§ 00635 - Disposition of lands.md",
    "printed_pages": [
-    257,
+    256,
     257
    ]
   },
@@ -9342,14 +9322,10 @@
    "id": "25_639",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       421,
-       "[Page 258]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 258]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 021 (XXI) - Navajo and Hopi Tribes Rehabilitation/§ 00639 - Repealed. Pub. L. 104–193, title I, §110(u), Aug. 22, 1996, 110 Stat. 2175.md",
@@ -9387,33 +9363,36 @@
   },
   {
    "id": "25_640c",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 259]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 021 (XXI) - Navajo and Hopi Tribes Rehabilitation/§ 00640c - Study of facilities needs.md",
    "printed_pages": [
     258,
-    259
+    258
    ]
   },
   {
    "id": "25_640c-1",
    "marks": [
     [
+     "I",
+     4,
+     [
+      [
+       94,
+       "[Page 259]"
+      ]
+     ]
+    ],
+    [
      "L",
-     84,
+     88,
      "[Page 260]",
      true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 021 (XXI) - Navajo and Hopi Tribes Rehabilitation/§ 00640c–1 - Authorization of appropriations.md",
    "printed_pages": [
-    259,
+    258,
     260
    ]
   },
@@ -9449,23 +9428,23 @@
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       1063,
+       86,
        "[Page 261]"
       ]
      ]
     ],
     [
      "L",
-     96,
+     108,
      "[Page 262]",
      true
     ],
     [
      "L",
-     224,
+     230,
      "[Page 263]",
      true
     ]
@@ -9481,10 +9460,10 @@
    "marks": [
     [
      "I",
-     8,
+     12,
      [
       [
-       284,
+       139,
        "[Page 264]"
       ]
      ]
@@ -9509,14 +9488,10 @@
    "id": "25_640d-3",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       111,
-       "[Page 265]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 265]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–3 - Default or failure to reach agreement; recommendations to District Court; final adjudication.md",
@@ -9536,26 +9511,30 @@
   },
   {
    "id": "25_640d-5",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 266]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–5 - Considerations and guidelines for preparation of report by Mediator and final adjudication by District Court.md",
    "printed_pages": [
     265,
-    266
+    265
    ]
   },
   {
    "id": "25_640d-6",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       283,
+       "[Page 266]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–6 - Joint ownership and management of coal, oil, gas and other minerals within or underlying partitioned lands; division of proceeds.md",
    "printed_pages": [
-    266,
+    265,
     266
    ]
   },
@@ -9563,10 +9542,14 @@
    "id": "25_640d-7",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 267]",
-     true
+     "I",
+     48,
+     [
+      [
+       272,
+       "[Page 267]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–7 - Determination of tribal rights and interests in land.md",
@@ -9588,14 +9571,10 @@
    "id": "25_640d-9",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       519,
-       "[Page 268]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 268]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–9 - Partitioned or other designated lands.md",
@@ -9612,17 +9591,17 @@
      12,
      [
       [
-       431,
+       751,
        "[Page 269]"
       ]
      ]
     ],
     [
      "I",
-     54,
+     56,
      [
       [
-       271,
+       166,
        "[Page 270]"
       ]
      ]
@@ -9639,19 +9618,23 @@
    "marks": [
     [
      "I",
-     18,
+     22,
      [
       [
-       322,
+       98,
        "[Page 271]"
       ]
      ]
     ],
     [
-     "L",
-     78,
-     "[Page 272]",
-     true
+     "I",
+     82,
+     [
+      [
+       156,
+       "[Page 272]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–11 - Office of Navajo and Hopi Indian Relocation.md",
@@ -9673,10 +9656,14 @@
    "id": "25_640d-13",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 273]",
-     true
+     "I",
+     8,
+     [
+      [
+       276,
+       "[Page 273]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–13 - Relocation of households and members.md",
@@ -9690,10 +9677,10 @@
    "marks": [
     [
      "I",
-     20,
+     22,
      [
       [
-       94,
+       318,
        "[Page 274]"
       ]
      ]
@@ -9710,7 +9697,7 @@
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 275]",
      true
     ]
@@ -9732,26 +9719,30 @@
   },
   {
    "id": "25_640d-17",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 276]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–17 - Actions for accounting, fair value of grazing, and claims for damages to land.md",
    "printed_pages": [
     275,
-    276
+    275
    ]
   },
   {
    "id": "25_640d-18",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       318,
+       "[Page 276]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–18 - Reduction of livestock within joint use area.md",
    "printed_pages": [
-    276,
+    275,
     276
    ]
   },
@@ -9790,7 +9781,7 @@
      2,
      [
       [
-       180,
+       697,
        "[Page 277]"
       ]
      ]
@@ -9825,10 +9816,10 @@
    "marks": [
     [
      "I",
-     8,
+     12,
      [
       [
-       91,
+       86,
        "[Page 278]"
       ]
      ]
@@ -9851,18 +9842,11 @@
   },
   {
    "id": "25_640d-27",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 279]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–27 - Attorney fees, costs and expenses for litigation or court action.md",
    "printed_pages": [
     278,
-    279
+    278
    ]
   },
   {
@@ -9870,18 +9854,24 @@
    "marks": [
     [
      "I",
-     50,
+     6,
      [
       [
-       90,
-       "[Page 280]"
+       459,
+       "[Page 279]"
       ]
      ]
+    ],
+    [
+     "L",
+     62,
+     "[Page 280]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–28 - Life estates.md",
    "printed_pages": [
-    279,
+    278,
     280
    ]
   },
@@ -9905,18 +9895,11 @@
   },
   {
    "id": "25_640d-31",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 281]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 022 (XXII) - Navajo and Hopi Tribes Settlement of Rights and Interests/§ 00640d–31 - Residence of families eligible for relocation assistance.md",
    "printed_pages": [
     280,
-    281
+    280
    ]
   },
   {
@@ -9924,16 +9907,27 @@
    "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 023 (XXIII) - Hopi Tribe Industrial Park/README.md",
    "printed_pages": [
-    281,
-    281
+    280,
+    280
    ]
   },
   {
    "id": "25_641",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       374,
+       "[Page 281]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 023 (XXIII) - Hopi Tribe Industrial Park/§ 00641 - Congressional findings and declaration of purpose.md",
    "printed_pages": [
-    281,
+    280,
     281
    ]
   },
@@ -9966,26 +9960,30 @@
   },
   {
    "id": "25_645",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 282]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 023 (XXIII) - Hopi Tribe Industrial Park/§ 00645 - Exemption from taxation.md",
    "printed_pages": [
     281,
-    282
+    281
    ]
   },
   {
    "id": "25_646",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       235,
+       "[Page 282]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 023 (XXIII) - Hopi Tribe Industrial Park/§ 00646 - Exempted securities.md",
    "printed_pages": [
-    282,
+    281,
     282
    ]
   },
@@ -10047,14 +10045,10 @@
    "id": "25_652",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       104,
-       "[Page 283]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 283]",
+     true
     ]
    ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 025 (XXV) - Indians of California/§ 00652 - Claims against United States for appropriated lands; submission to United States Court of Federal Claims; appeal; grounds for relief.md",
@@ -10107,7 +10101,7 @@
      2,
      [
       [
-       335,
+       867,
        "[Page 284]"
       ]
      ]
@@ -10121,26 +10115,30 @@
   },
   {
    "id": "25_658",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 285]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Miscellaneous/Subchapter 025 (XXV) - Indians of California/§ 00658 - Distribution of $150 from fund to each enrolled Indian.md",
    "printed_pages": [
     284,
-    285
+    284
    ]
   },
   {
    "id": "25_659",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       141,
+       "[Page 285]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 014 - Miscellaneous/Subchapter 025 (XXV) - Indians of California/§ 00659 - Distribution of judgment fund.md",
    "printed_pages": [
-    285,
+    284,
     285
    ]
   },
@@ -10158,10 +10156,10 @@
    "marks": [
     [
      "I",
-     14,
+     16,
      [
       [
-       105,
+       155,
        "[Page 286]"
       ]
      ]
@@ -10205,10 +10203,10 @@
    "marks": [
     [
      "I",
-     38,
+     42,
      [
       [
-       104,
+       160,
        "[Page 287]"
       ]
      ]
@@ -10252,7 +10250,7 @@
    "marks": [
     [
      "L",
-     12,
+     20,
      "[Page 288]",
      true
     ]
@@ -10307,7 +10305,7 @@
      2,
      [
       [
-       554,
+       709,
        "[Page 289]"
       ]
      ]
@@ -18403,10 +18401,14 @@
    "id": "25_1621a",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 474]",
-     true
+     "I",
+     46,
+     [
+      [
+       90,
+       "[Page 474]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 002 (II) - Health Services/§ 01621a - Catastrophic Health Emergency Fund.md",
@@ -18429,7 +18431,7 @@
    "marks": [
     [
      "L",
-     42,
+     36,
      "[Page 475]",
      true
     ]
@@ -18445,7 +18447,7 @@
    "marks": [
     [
      "L",
-     44,
+     40,
      "[Page 476]",
      true
     ]
@@ -18470,10 +18472,10 @@
    "marks": [
     [
      "I",
-     10,
+     4,
      [
       [
-       115,
+       138,
        "[Page 477]"
       ]
      ]
@@ -18499,25 +18501,29 @@
    "marks": [
     [
      "L",
-     50,
+     44,
      "[Page 478]",
      true
     ],
     [
      "L",
-     104,
+     98,
      "[Page 479]",
      true
     ],
     [
-     "L",
-     166,
-     "[Page 480]",
-     true
+     "I",
+     160,
+     [
+      [
+       92,
+       "[Page 480]"
+      ]
+     ]
     ],
     [
      "L",
-     240,
+     232,
      "[Page 481]",
      true
     ]
@@ -18542,7 +18548,7 @@
    "marks": [
     [
      "L",
-     50,
+     44,
      "[Page 482]",
      true
     ]
@@ -18576,7 +18582,7 @@
    "marks": [
     [
      "L",
-     30,
+     26,
      "[Page 483]",
      true
     ]
@@ -18592,7 +18598,7 @@
    "marks": [
     [
      "L",
-     60,
+     56,
      "[Page 484]",
      true
     ]
@@ -18617,10 +18623,10 @@
    "marks": [
     [
      "I",
-     24,
+     20,
      [
       [
-       134,
+       92,
        "[Page 485]"
       ]
      ]
@@ -18637,10 +18643,10 @@
    "marks": [
     [
      "I",
-     50,
+     46,
      [
       [
-       103,
+       105,
        "[Page 486]"
       ]
      ]
@@ -18672,30 +18678,30 @@
   },
   {
    "id": "25_1621t",
-   "marks": [],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 002 (II) - Health Services/§ 01621t - Demonstration of electronic claims processing.md",
-   "printed_pages": [
-    486,
-    486
-   ]
-  },
-  {
-   "id": "25_1621u",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       91,
+       92,
        "[Page 487]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 002 (II) - Health Services/§ 01621u - Liability for payment.md",
+   "path": "Chapter 018 - Indian Health Care/Subchapter 002 (II) - Health Services/§ 01621t - Demonstration of electronic claims processing.md",
    "printed_pages": [
     486,
+    487
+   ]
+  },
+  {
+   "id": "25_1621u",
+   "marks": [],
+   "path": "Chapter 018 - Indian Health Care/Subchapter 002 (II) - Health Services/§ 01621u - Liability for payment.md",
+   "printed_pages": [
+    487,
     487
    ]
   },
@@ -18748,10 +18754,14 @@
    "id": "25_1631",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 488]",
-     true
+     "I",
+     32,
+     [
+      [
+       92,
+       "[Page 488]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 003 (III) - Health Facilities/§ 01631 - Consultation; closure of facilities; reports.md",
@@ -18764,18 +18774,14 @@
    "id": "25_1632",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       89,
-       "[Page 489]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 489]",
+     true
     ],
     [
      "L",
-     106,
+     102,
      "[Page 490]",
      true
     ]
@@ -18800,7 +18806,7 @@
    "marks": [
     [
      "L",
-     26,
+     16,
      "[Page 491]",
      true
     ]
@@ -18825,7 +18831,7 @@
    "marks": [
     [
      "L",
-     42,
+     34,
      "[Page 492]",
      true
     ]
@@ -18841,10 +18847,10 @@
    "marks": [
     [
      "I",
-     72,
+     68,
      [
       [
-       99,
+       94,
        "[Page 493]"
       ]
      ]
@@ -18879,10 +18885,10 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       139,
+       230,
        "[Page 494]"
       ]
      ]
@@ -18926,10 +18932,10 @@
    "marks": [
     [
      "I",
-     16,
+     14,
      [
       [
-       223,
+       109,
        "[Page 495]"
       ]
      ]
@@ -18954,10 +18960,14 @@
    "id": "25_1643",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 496]",
-     true
+     "I",
+     8,
+     [
+      [
+       109,
+       "[Page 496]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 003–A (III–A) - Access to Health Services/§ 01643 - Amount and use of funds reimbursed through medicare and medicaid available to Indian Health Service.md",
@@ -18980,27 +18990,23 @@
    "marks": [
     [
      "I",
-     10,
+     6,
      [
       [
-       143,
+       678,
        "[Page 497]"
       ]
      ]
     ],
     [
-     "I",
-     78,
-     [
-      [
-       270,
-       "[Page 498]"
-      ]
-     ]
+     "L",
+     76,
+     "[Page 498]",
+     true
     ],
     [
      "L",
-     136,
+     132,
      "[Page 499]",
      true
     ]
@@ -19013,30 +19019,30 @@
   },
   {
    "id": "25_1646",
-   "marks": [],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 003–A (III–A) - Access to Health Services/§ 01646 - Authorization for emergency contract health services.md",
-   "printed_pages": [
-    499,
-    499
-   ]
-  },
-  {
-   "id": "25_1647",
    "marks": [
     [
      "I",
      2,
      [
       [
-       90,
+       188,
        "[Page 500]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 003–A (III–A) - Access to Health Services/§ 01647 - Authorization of appropriations.md",
+   "path": "Chapter 018 - Indian Health Care/Subchapter 003–A (III–A) - Access to Health Services/§ 01646 - Authorization for emergency contract health services.md",
    "printed_pages": [
     499,
+    500
+   ]
+  },
+  {
+   "id": "25_1647",
+   "marks": [],
+   "path": "Chapter 018 - Indian Health Care/Subchapter 003–A (III–A) - Access to Health Services/§ 01647 - Authorization of appropriations.md",
+   "printed_pages": [
+    500,
     500
    ]
   },
@@ -19071,18 +19077,14 @@
    "id": "25_1653",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       97,
-       "[Page 501]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 501]",
+     true
     ],
     [
      "L",
-     104,
+     102,
      "[Page 502]",
      true
     ]
@@ -19097,14 +19099,10 @@
    "id": "25_1654",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       137,
-       "[Page 503]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 503]",
+     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01654 - Contracts and grants for determination of unmet health care needs.md",
@@ -19115,30 +19113,30 @@
   },
   {
    "id": "25_1655",
-   "marks": [],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01655 - Evaluations; renewals.md",
-   "printed_pages": [
-    503,
-    503
-   ]
-  },
-  {
-   "id": "25_1656",
    "marks": [
     [
      "I",
-     4,
+     32,
      [
       [
-       91,
+       208,
        "[Page 504]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01656 - Other contract and grant requirements.md",
+   "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01655 - Evaluations; renewals.md",
    "printed_pages": [
     503,
+    504
+   ]
+  },
+  {
+   "id": "25_1656",
+   "marks": [],
+   "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01656 - Other contract and grant requirements.md",
+   "printed_pages": [
+    504,
     504
    ]
   },
@@ -19146,10 +19144,14 @@
    "id": "25_1657",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 505]",
-     true
+     "I",
+     40,
+     [
+      [
+       90,
+       "[Page 505]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01657 - Reports and records.md",
@@ -19190,7 +19192,7 @@
    "marks": [
     [
      "L",
-     34,
+     28,
      "[Page 506]",
      true
     ]
@@ -19221,11 +19223,18 @@
   },
   {
    "id": "25_1660d",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 507]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 004 (IV) - Health Services for Urban Indians/§ 01660d - Authorization of appropriations.md",
    "printed_pages": [
     506,
-    506
+    507
    ]
   },
   {
@@ -19233,8 +19242,8 @@
    "marks": [],
    "path": "Chapter 018 - Indian Health Care/Subchapter 005 (V) - Organizational Improvements/README.md",
    "printed_pages": [
-    506,
-    506
+    507,
+    507
    ]
   },
   {
@@ -19242,24 +19251,18 @@
    "marks": [
     [
      "I",
-     4,
+     80,
      [
       [
-       93,
-       "[Page 507]"
+       112,
+       "[Page 508]"
       ]
      ]
-    ],
-    [
-     "L",
-     86,
-     "[Page 508]",
-     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 005 (V) - Organizational Improvements/§ 01661 - Establishment of Indian Health Service as an agency of Public Health Service.md",
    "printed_pages": [
-    506,
+    507,
     508
    ]
   },
@@ -19292,26 +19295,26 @@
   },
   {
    "id": "25_1665",
-   "marks": [],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665 - Indian Health Service responsibilities.md",
-   "printed_pages": [
-    508,
-    508
-   ]
-  },
-  {
-   "id": "25_1665a",
    "marks": [
     [
      "L",
-     10,
+     12,
      "[Page 509]",
      true
     ]
    ],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665a - Indian Health Service program.md",
+   "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665 - Indian Health Service responsibilities.md",
    "printed_pages": [
     508,
+    509
+   ]
+  },
+  {
+   "id": "25_1665a",
+   "marks": [],
+   "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665a - Indian Health Service program.md",
+   "printed_pages": [
+    509,
     509
    ]
   },
@@ -19332,7 +19335,7 @@
      8,
      [
       [
-       518,
+       185,
        "[Page 510]"
       ]
      ]
@@ -19348,10 +19351,14 @@
    "id": "25_1665d",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 511]",
-     true
+     "I",
+     12,
+     [
+      [
+       85,
+       "[Page 511]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665d - Training and community education.md",
@@ -19382,10 +19389,14 @@
    "id": "25_1665g",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 512]",
-     true
+     "I",
+     4,
+     [
+      [
+       94,
+       "[Page 512]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665g - Fetal alcohol syndrome and fetal alcohol effect grants.md",
@@ -19398,10 +19409,14 @@
    "id": "25_1665h",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 513]",
-     true
+     "I",
+     2,
+     [
+      [
+       88,
+       "[Page 513]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 005–A (V–A) - Substance Abuse Programs/§ 01665h - Pueblo substance abuse treatment project for San Juan Pueblo, New Mexico.md",
@@ -19424,7 +19439,7 @@
    "marks": [
     [
      "L",
-     68,
+     62,
      "[Page 514]",
      true
     ]
@@ -19476,19 +19491,15 @@
    "marks": [
     [
      "L",
-     26,
+     22,
      "[Page 515]",
      true
     ],
     [
-     "I",
-     158,
-     [
-      [
-       109,
-       "[Page 516]"
-      ]
-     ]
+     "L",
+     152,
+     "[Page 516]",
+     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01671 - Reports.md",
@@ -19537,14 +19548,10 @@
    "id": "25_1676",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       105,
-       "[Page 517]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 517]",
+     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01676 - Limitation on use of funds appropriated to Indian Health Service.md",
@@ -19557,10 +19564,14 @@
    "id": "25_1677",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 518]",
-     true
+     "I",
+     50,
+     [
+      [
+       195,
+       "[Page 518]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01677 - Nuclear resource development health hazards.md",
@@ -19582,14 +19593,10 @@
    "id": "25_1679",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       101,
-       "[Page 519]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 519]",
+     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01679 - Eligibility of California Indians.md",
@@ -19630,23 +19637,19 @@
    "marks": [
     [
      "I",
-     14,
+     12,
      [
       [
-       141,
+       342,
        "[Page 520]"
       ]
      ]
     ],
     [
-     "I",
-     58,
-     [
-      [
-       195,
-       "[Page 521]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 521]",
+     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680c - Health services for ineligible persons.md",
@@ -19677,14 +19680,10 @@
    "id": "25_1680f",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       99,
-       "[Page 522]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 522]",
+     true
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680f - Indian Health Service and Department of Veterans Affairs health facilities and services sharing.md",
@@ -19707,10 +19706,10 @@
    "marks": [
     [
      "I",
-     20,
+     10,
      [
       [
-       232,
+       473,
        "[Page 523]"
       ]
      ]
@@ -19724,26 +19723,26 @@
   },
   {
    "id": "25_1680i",
-   "marks": [],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680i - Child sexual abuse treatment programs.md",
-   "printed_pages": [
-    523,
-    523
-   ]
-  },
-  {
-   "id": "25_1680j",
    "marks": [
     [
      "L",
-     14,
+     20,
      "[Page 524]",
      true
     ]
    ],
-   "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680j - Tribal leasing.md",
+   "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680i - Child sexual abuse treatment programs.md",
    "printed_pages": [
     523,
+    524
+   ]
+  },
+  {
+   "id": "25_1680j",
+   "marks": [],
+   "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680j - Tribal leasing.md",
+   "printed_pages": [
+    524,
     524
    ]
   },
@@ -19751,10 +19750,14 @@
    "id": "25_1680k",
    "marks": [
     [
-     "L",
-     82,
-     "[Page 525]",
-     true
+     "I",
+     66,
+     [
+      [
+       91,
+       "[Page 525]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680k - Home- and community-based care demonstration project.md",
@@ -19783,11 +19786,18 @@
   },
   {
    "id": "25_1680n",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 526]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680n - Priority for Indian reservations.md",
    "printed_pages": [
     525,
-    525
+    526
    ]
   },
   {
@@ -19795,27 +19805,16 @@
    "marks": [],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01680o - Authorization of appropriations.md",
    "printed_pages": [
-    525,
-    525
+    526,
+    526
    ]
   },
   {
    "id": "25_1681",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       500,
-       "[Page 526]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01681 - Omitted.md",
    "printed_pages": [
-    525,
+    526,
     526
    ]
   },
@@ -19830,11 +19829,18 @@
   },
   {
    "id": "25_1683",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 527]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Indian Health Care/Subchapter 006 (VI) - Miscellaneous/§ 01683 - Indian Catastrophic Health Emergency Fund.md",
    "printed_pages": [
     526,
-    526
+    527
    ]
   },
   {
@@ -19842,54 +19848,48 @@
    "marks": [
     [
      "I",
-     12,
+     74,
      [
       [
-       91,
-       "[Page 527]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     77,
-     [
-      [
-       297,
+       100,
        "[Page 528]"
       ]
      ]
     ],
     [
      "I",
-     190,
+     168,
      [
       [
-       60,
+       57,
        "[Page 529]"
       ]
      ]
     ],
     [
      "I",
-     333,
+     307,
      [
       [
-       19,
+       36,
        "[Page 530]"
       ]
      ]
     ],
     [
-     "L",
-     482,
-     "[Page 531]",
-     true
+     "I",
+     463,
+     [
+      [
+       70,
+       "[Page 531]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/README.md",
    "printed_pages": [
-    526,
+    527,
     531
    ]
   },
@@ -19922,11 +19922,18 @@
   },
   {
    "id": "25_1702",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 532]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01702 - Definitions.md",
    "printed_pages": [
     531,
-    531
+    532
    ]
   },
   {
@@ -19934,52 +19941,45 @@
    "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01703 - Rhode Island Indian Claims Settlement Fund; establishment.md",
    "printed_pages": [
-    531,
-    531
+    532,
+    532
    ]
   },
   {
    "id": "25_1704",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       89,
-       "[Page 532]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01704 - Option agreements to purchase private settlement lands.md",
    "printed_pages": [
-    531,
+    532,
     532
    ]
   },
   {
    "id": "25_1705",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       467,
+       "[Page 533]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01705 - Publication of findings.md",
    "printed_pages": [
     532,
-    532
+    533
    ]
   },
   {
    "id": "25_1706",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 533]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01706 - Findings by Secretary.md",
    "printed_pages": [
-    532,
+    533,
     533
    ]
   },
@@ -19994,26 +19994,26 @@
   },
   {
    "id": "25_1708",
-   "marks": [],
-   "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01708 - Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act.md",
-   "printed_pages": [
-    533,
-    533
-   ]
-  },
-  {
-   "id": "25_1709",
    "marks": [
     [
      "L",
-     10,
+     24,
      "[Page 534]",
      true
     ]
    ],
-   "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01709 - Preservation of Federal benefits.md",
+   "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01708 - Applicability of State law; treatment of settlement lands under Indian Gaming Regulatory Act.md",
    "printed_pages": [
     533,
+    534
+   ]
+  },
+  {
+   "id": "25_1709",
+   "marks": [],
+   "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part A - General Provisions/§ 01709 - Preservation of Federal benefits.md",
+   "printed_pages": [
+    534,
     534
    ]
   },
@@ -20055,30 +20055,26 @@
   },
   {
    "id": "25_1715",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 535]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part B - Tax Treatment/§ 01715 - Exemption from taxation.md",
    "printed_pages": [
     534,
-    534
+    535
    ]
   },
   {
    "id": "25_1716",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       104,
-       "[Page 535]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 001 (I) - Rhode Island Indian Claims Settlement/Part B - Tax Treatment/§ 01716 - Deferral of capital gains.md",
    "printed_pages": [
-    534,
+    535,
     535
    ]
   },
@@ -20095,30 +20091,22 @@
    "id": "25_1721",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       152,
-       "[Page 536]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 536]",
+     true
     ],
     [
      "L",
-     144,
+     134,
      "[Page 537]",
      true
     ],
     [
-     "I",
-     216,
-     [
-      [
-       197,
-       "[Page 538]"
-      ]
-     ]
+     "L",
+     204,
+     "[Page 538]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 002 (II) - Maine Indian Claims Settlement/§ 01721 - Congressional findings and declaration of policy.md",
@@ -20131,14 +20119,10 @@
    "id": "25_1722",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       93,
-       "[Page 539]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 539]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 002 (II) - Maine Indian Claims Settlement/§ 01722 - Definitions.md",
@@ -20161,32 +20145,32 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       144,
+       83,
        "[Page 540]"
       ]
      ]
     ],
     [
      "L",
-     36,
+     32,
      "[Page 541]",
      true
     ],
     [
      "L",
-     76,
+     70,
      "[Page 542]",
      true
     ],
     [
      "I",
-     130,
+     120,
      [
       [
-       99,
+       108,
        "[Page 543]"
       ]
      ]
@@ -20203,23 +20187,19 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       86,
+       370,
        "[Page 544]"
       ]
      ]
     ],
     [
-     "I",
-     42,
-     [
-      [
-       682,
-       "[Page 545]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 545]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 002 (II) - Maine Indian Claims Settlement/§ 01725 - State laws applicable.md",
@@ -20242,7 +20222,7 @@
    "marks": [
     [
      "L",
-     22,
+     14,
      "[Page 546]",
      true
     ]
@@ -20273,30 +20253,26 @@
   },
   {
    "id": "25_1730",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 547]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 002 (II) - Maine Indian Claims Settlement/§ 01730 - Transfer of tribal trust funds held by the State of Maine.md",
    "printed_pages": [
     546,
-    546
+    547
    ]
   },
   {
    "id": "25_1731",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       336,
-       "[Page 547]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 002 (II) - Maine Indian Claims Settlement/§ 01731 - Other claims discharged by this subchapter.md",
    "printed_pages": [
-    546,
+    547,
     547
    ]
   },
@@ -20368,10 +20344,10 @@
    "marks": [
     [
      "I",
-     12,
+     6,
      [
       [
-       89,
+       93,
        "[Page 548]"
       ]
      ]
@@ -20397,7 +20373,7 @@
    "marks": [
     [
      "L",
-     26,
+     16,
      "[Page 549]",
      true
     ]
@@ -20430,14 +20406,10 @@
    "id": "25_1747",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       91,
-       "[Page 550]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 550]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 003 (III) - Florida Indian (Miccosukee) Land Claims Settlement/Part A - Florida Indian Land Claims Settlement Act of 1982/§ 01747 - Transfer of lands to United States.md",
@@ -20486,10 +20458,14 @@
    "id": "25_1750a",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 551]",
-     true
+     "I",
+     18,
+     [
+      [
+       94,
+       "[Page 551]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 003 (III) - Florida Indian (Miccosukee) Land Claims Settlement/Part B - Miccosukee Settlement/§ 01750a - Definitions.md",
@@ -20530,7 +20506,7 @@
    "marks": [
     [
      "L",
-     18,
+     10,
      "[Page 552]",
      true
     ]
@@ -20563,10 +20539,14 @@
    "id": "25_1752",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 553]",
-     true
+     "I",
+     12,
+     [
+      [
+       89,
+       "[Page 553]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 004 (IV) - Connecticut Indian Land Claims Settlement/§ 01752 - Definitions.md",
@@ -20589,7 +20569,7 @@
    "marks": [
     [
      "L",
-     14,
+     10,
      "[Page 554]",
      true
     ]
@@ -20602,26 +20582,30 @@
   },
   {
    "id": "25_1755",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       229,
+       "[Page 555]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 004 (IV) - Connecticut Indian Land Claims Settlement/§ 01755 - State jurisdiction over reservation.md",
    "printed_pages": [
     554,
-    554
+    555
    ]
   },
   {
    "id": "25_1756",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 555]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 004 (IV) - Connecticut Indian Land Claims Settlement/§ 01756 - Practice and procedure.md",
    "printed_pages": [
-    554,
+    555,
     555
    ]
   },
@@ -20674,14 +20658,10 @@
    "id": "25_1771",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       135,
-       "[Page 556]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 556]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 005 (V) - Massachusetts Indian Land Claims Settlement/§ 01771 - Congressional findings and declaration of policy.md",
@@ -20704,7 +20684,7 @@
    "marks": [
     [
      "L",
-     30,
+     20,
      "[Page 557]",
      true
     ]
@@ -20728,14 +20708,10 @@
    "id": "25_1771d",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       91,
-       "[Page 558]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 558]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 005 (V) - Massachusetts Indian Land Claims Settlement/§ 01771d - Purchase and transfer of settlement lands.md",
@@ -20761,7 +20737,7 @@
      10,
      [
       [
-       1124,
+       501,
        "[Page 559]"
       ]
      ]
@@ -20793,11 +20769,18 @@
   },
   {
    "id": "25_1771i",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 560]",
+     true
+    ]
+   ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 005 (V) - Massachusetts Indian Land Claims Settlement/§ 01771i - Eligibility.md",
    "printed_pages": [
     559,
-    559
+    560
    ]
   },
   {
@@ -20805,27 +20788,16 @@
    "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 006 (VI) - Florida Indian (Seminole) Land Claims Settlement/README.md",
    "printed_pages": [
-    559,
-    559
+    560,
+    560
    ]
   },
   {
    "id": "25_1772",
-   "marks": [
-    [
-     "I",
-     6,
-     [
-      [
-       92,
-       "[Page 560]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 006 (VI) - Florida Indian (Seminole) Land Claims Settlement/§ 01772 - Findings and policy.md",
    "printed_pages": [
-    559,
+    560,
     560
    ]
   },
@@ -20843,7 +20815,7 @@
    "marks": [
     [
      "L",
-     16,
+     8,
      "[Page 561]",
      true
     ]
@@ -20868,10 +20840,10 @@
    "marks": [
     [
      "I",
-     6,
+     4,
      [
       [
-       232,
+       89,
        "[Page 562]"
       ]
      ]
@@ -20896,14 +20868,10 @@
    "id": "25_1772f",
    "marks": [
     [
-     "I",
+     "L",
      4,
-     [
-      [
-       506,
-       "[Page 563]"
-      ]
-     ]
+     "[Page 563]",
+     true
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 006 (VI) - Florida Indian (Seminole) Land Claims Settlement/§ 01772f - Judicial review.md",
@@ -20943,10 +20911,14 @@
    "id": "25_1773a",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 564]",
-     true
+     "I",
+     4,
+     [
+      [
+       184,
+       "[Page 564]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 007 (VII) - Washington Indian (Puyallup) Land Claims Settlement/§ 01773a - Resolution of Puyallup tribal land claims.md",
@@ -20960,10 +20932,10 @@
    "marks": [
     [
      "I",
-     36,
+     30,
      [
       [
-       142,
+       329,
        "[Page 565]"
       ]
      ]
@@ -20997,10 +20969,14 @@
    "id": "25_1773e",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 566]",
-     true
+     "I",
+     2,
+     [
+      [
+       91,
+       "[Page 566]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 007 (VII) - Washington Indian (Puyallup) Land Claims Settlement/§ 01773e - Fisheries.md",
@@ -21050,10 +21026,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       88,
+       181,
        "[Page 567]"
       ]
      ]
@@ -21078,10 +21054,14 @@
    "id": "25_1774",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 568]",
-     true
+     "I",
+     46,
+     [
+      [
+       97,
+       "[Page 568]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 019 - Indian Land Claims Settlements/Subchapter 008 (VIII) - Seneca Nation (New York) Land Claims Settlement/§ 01774 - Findings and purposes.md",
@@ -21919,7 +21899,7 @@
    "marks": [
     [
      "L",
-     12,
+     10,
      "[Page 599]",
      true
     ]
@@ -21961,10 +21941,14 @@
    "id": "25_1805",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 600]",
-     true
+     "I",
+     4,
+     [
+      [
+       148,
+       "[Page 600]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 001 (I) - Tribally Controlled Colleges or Universities Grant Program/§ 01805 - Technical assistance contracts.md",
@@ -21986,10 +21970,14 @@
    "id": "25_1807",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 601]",
-     true
+     "I",
+     18,
+     [
+      [
+       201,
+       "[Page 601]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 001 (I) - Tribally Controlled Colleges or Universities Grant Program/§ 01807 - Grants to tribally controlled colleges or universities.md",
@@ -22002,14 +21990,10 @@
    "id": "25_1808",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       115,
-       "[Page 602]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 602]",
+     true
     ]
    ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 001 (I) - Tribally Controlled Colleges or Universities Grant Program/§ 01808 - Amount of grants.md",
@@ -22026,7 +22010,7 @@
      26,
      [
       [
-       620,
+       387,
        "[Page 603]"
       ]
      ]
@@ -22042,10 +22026,14 @@
    "id": "25_1810",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 604]",
-     true
+     "I",
+     40,
+     [
+      [
+       218,
+       "[Page 604]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 001 (I) - Tribally Controlled Colleges or Universities Grant Program/§ 01810 - Authorization of appropriations.md",
@@ -22062,7 +22050,7 @@
      42,
      [
       [
-       268,
+       101,
        "[Page 605]"
       ]
      ]
@@ -22079,7 +22067,7 @@
    "marks": [
     [
      "L",
-     56,
+     52,
      "[Page 606]",
      true
     ]
@@ -22094,10 +22082,14 @@
    "id": "25_1813",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 607]",
-     true
+     "I",
+     42,
+     [
+      [
+       96,
+       "[Page 607]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 001 (I) - Tribally Controlled Colleges or Universities Grant Program/§ 01813 - Construction of new facilities.md",
@@ -22150,7 +22142,7 @@
      2,
      [
       [
-       339,
+       95,
        "[Page 608]"
       ]
      ]
@@ -22167,10 +22159,10 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       109,
+       106,
        "[Page 609]"
       ]
      ]
@@ -22204,10 +22196,14 @@
    "id": "25_1836",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 610]",
-     true
+     "I",
+     12,
+     [
+      [
+       106,
+       "[Page 610]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 002 (II) - Tribally Controlled College or University Endowment Program/§ 01836 - Authorization of appropriations.md",
@@ -22236,30 +22232,26 @@
   },
   {
    "id": "25_1852",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 611]",
+     true
+    ]
+   ],
    "path": "Chapter 020 - Tribally Controlled College or University Assistance/Subchapter 003 (III) - Tribal Economic Development/§ 01852 - Authorization of appropriations.md",
    "printed_pages": [
     610,
-    610
+    611
    ]
   },
   {
    "id": "25_-ch21",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       34,
-       "[Page 611]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - Indian Child Welfare/README.md",
    "printed_pages": [
-    610,
+    611,
     611
    ]
   },
@@ -22267,10 +22259,14 @@
    "id": "25_1901",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 612]",
-     true
+     "I",
+     4,
+     [
+      [
+       201,
+       "[Page 612]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 021 - Indian Child Welfare/§ 01901 - Congressional findings.md",
@@ -22293,7 +22289,7 @@
    "marks": [
     [
      "L",
-     38,
+     36,
      "[Page 613]",
      true
     ]
@@ -22327,10 +22323,10 @@
    "marks": [
     [
      "I",
-     24,
+     20,
      [
       [
-       133,
+       272,
        "[Page 614]"
       ]
      ]
@@ -22364,14 +22360,10 @@
    "id": "25_1915",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       139,
-       "[Page 615]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 615]",
+     true
     ]
    ],
    "path": "Chapter 021 - Indian Child Welfare/Subchapter 001 (I) - Child Custody Proceedings/§ 01915 - Placement of Indian children.md",
@@ -22406,7 +22398,7 @@
      32,
      [
       [
-       281,
+       117,
        "[Page 616]"
       ]
      ]
@@ -22477,7 +22469,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 617]",
      true
     ]
@@ -22508,11 +22500,18 @@
   },
   {
    "id": "25_1934",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 618]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - Indian Child Welfare/Subchapter 002 (II) - Indian Child and Family Programs/§ 01934 - “Indian” defined for certain purposes.md",
    "printed_pages": [
     617,
-    617
+    618
    ]
   },
   {
@@ -22520,27 +22519,16 @@
    "marks": [],
    "path": "Chapter 021 - Indian Child Welfare/Subchapter 003 (III) - Recordkeeping, Information Availability, and Timetables/README.md",
    "printed_pages": [
-    617,
-    617
+    618,
+    618
    ]
   },
   {
    "id": "25_1951",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       87,
-       "[Page 618]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 021 - Indian Child Welfare/Subchapter 003 (III) - Recordkeeping, Information Availability, and Timetables/§ 01951 - Information availability to and disclosure by Secretary.md",
    "printed_pages": [
-    617,
+    618,
     618
    ]
   },
@@ -22594,20 +22582,20 @@
    "marks": [
     [
      "I",
-     19,
+     4,
      [
       [
-       57,
+       33,
        "[Page 619]"
       ]
      ]
     ],
     [
      "I",
-     139,
+     119,
      [
       [
-       23,
+       26,
        "[Page 620]"
       ]
      ]
@@ -22624,7 +22612,7 @@
    "marks": [
     [
      "L",
-     82,
+     54,
      "[Page 621]",
      true
     ]
@@ -22639,56 +22627,52 @@
    "id": "25_2001",
    "marks": [
     [
+     "I",
+     52,
+     [
+      [
+       200,
+       "[Page 622]"
+      ]
+     ]
+    ],
+    [
      "L",
-     58,
-     "[Page 622]",
+     114,
+     "[Page 623]",
+     true
+    ],
+    [
+     "L",
+     172,
+     "[Page 624]",
      true
     ],
     [
      "I",
-     130,
+     222,
      [
       [
-       97,
-       "[Page 623]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     180,
-     [
-      [
-       180,
-       "[Page 624]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     238,
-     [
-      [
-       99,
+       684,
        "[Page 625]"
       ]
      ]
     ],
     [
-     "L",
-     322,
-     "[Page 626]",
-     true
-    ],
-    [
      "I",
-     406,
+     310,
      [
       [
-       95,
-       "[Page 627]"
+       145,
+       "[Page 626]"
       ]
      ]
+    ],
+    [
+     "L",
+     398,
+     "[Page 627]",
+     true
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02001 - Accreditation for the basic education of Indian children in Bureau of Indian Affairs schools.md",
@@ -22701,14 +22685,10 @@
    "id": "25_2002",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       94,
-       "[Page 628]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 628]",
+     true
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02002 - National criteria for home-living situations.md",
@@ -22731,10 +22711,10 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       232,
+       95,
        "[Page 629]"
       ]
      ]
@@ -22750,22 +22730,34 @@
    "id": "25_2005",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 630]",
-     true
+     "I",
+     36,
+     [
+      [
+       93,
+       "[Page 630]"
+      ]
+     ]
     ],
     [
-     "L",
-     122,
-     "[Page 631]",
-     true
+     "I",
+     114,
+     [
+      [
+       98,
+       "[Page 631]"
+      ]
+     ]
     ],
     [
-     "L",
-     186,
-     "[Page 632]",
-     true
+     "I",
+     184,
+     [
+      [
+       95,
+       "[Page 632]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02005 - Facilities construction.md",
@@ -22778,20 +22770,20 @@
    "id": "25_2006",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 633]",
-     true
-    ],
-    [
      "I",
-     98,
+     10,
      [
       [
-       116,
-       "[Page 634]"
+       147,
+       "[Page 633]"
       ]
      ]
+    ],
+    [
+     "L",
+     90,
+     "[Page 634]",
+     true
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02006 - Bureau of Indian Affairs education functions.md",
@@ -22804,20 +22796,20 @@
    "id": "25_2007",
    "marks": [
     [
-     "L",
-     78,
-     "[Page 635]",
-     true
-    ],
-    [
      "I",
-     162,
+     74,
      [
       [
-       178,
-       "[Page 636]"
+       98,
+       "[Page 635]"
       ]
      ]
+    ],
+    [
+     "L",
+     158,
+     "[Page 636]",
+     true
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02007 - Allotment formula.md",
@@ -22830,36 +22822,36 @@
    "id": "25_2008",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 637]",
-     true
-    ],
-    [
      "I",
-     156,
+     64,
      [
       [
-       184,
-       "[Page 638]"
+       92,
+       "[Page 637]"
       ]
      ]
     ],
     [
      "L",
-     214,
-     "[Page 639]",
+     150,
+     "[Page 638]",
      true
     ],
     [
      "I",
-     274,
+     208,
      [
       [
-       113,
-       "[Page 640]"
+       138,
+       "[Page 639]"
       ]
      ]
+    ],
+    [
+     "L",
+     268,
+     "[Page 640]",
+     true
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02008 - Administrative cost grants.md",
@@ -22881,26 +22873,34 @@
    "id": "25_2010",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 641]",
-     true
+     "I",
+     24,
+     [
+      [
+       228,
+       "[Page 641]"
+      ]
+     ]
     ],
     [
      "I",
-     106,
+     98,
      [
       [
-       97,
+       228,
        "[Page 642]"
       ]
      ]
     ],
     [
-     "L",
-     194,
-     "[Page 643]",
-     true
+     "I",
+     186,
+     [
+      [
+       188,
+       "[Page 643]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02010 - Uniform direct funding and support.md",
@@ -22911,11 +22911,22 @@
   },
   {
    "id": "25_2011",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       113,
+       "[Page 644]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02011 - Policy for Indian control of Indian education.md",
    "printed_pages": [
     643,
-    643
+    644
    ]
   },
   {
@@ -22923,87 +22934,89 @@
    "marks": [
     [
      "I",
-     4,
-     [
-      [
-       96,
-       "[Page 644]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     86,
-     "[Page 645]",
-     true
-    ],
-    [
-     "L",
-     166,
-     "[Page 646]",
-     true
-    ],
-    [
-     "L",
-     258,
-     "[Page 647]",
-     true
-    ],
-    [
-     "I",
-     326,
+     76,
      [
       [
        140,
-       "[Page 648]"
+       "[Page 645]"
       ]
      ]
     ],
     [
      "I",
-     412,
+     156,
      [
       [
-       94,
-       "[Page 649]"
+       89,
+       "[Page 646]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     252,
+     [
+      [
+       95,
+       "[Page 647]"
       ]
      ]
     ],
     [
      "L",
-     478,
-     "[Page 650]",
+     320,
+     "[Page 648]",
      true
+    ],
+    [
+     "L",
+     402,
+     "[Page 649]",
+     true
+    ],
+    [
+     "I",
+     476,
+     [
+      [
+       407,
+       "[Page 650]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02012 - Indian education personnel.md",
    "printed_pages": [
-    643,
+    644,
     650
    ]
   },
   {
    "id": "25_2013",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     38,
+     [
+      [
+       111,
+       "[Page 651]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02013 - Computerized management information system.md",
    "printed_pages": [
     650,
-    650
+    651
    ]
   },
   {
    "id": "25_2014",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 651]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02014 - Recruitment of Indian educators.md",
    "printed_pages": [
-    650,
+    651,
     651
    ]
   },
@@ -23029,10 +23042,14 @@
    "id": "25_2017",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 652]",
-     true
+     "I",
+     22,
+     [
+      [
+       94,
+       "[Page 652]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02017 - Regulations.md",
@@ -23045,10 +23062,14 @@
    "id": "25_2018",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 653]",
-     true
+     "I",
+     52,
+     [
+      [
+       109,
+       "[Page 653]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02018 - Regional meetings and negotiated rulemaking.md",
@@ -23062,10 +23083,10 @@
    "marks": [
     [
      "I",
-     100,
+     94,
      [
       [
-       169,
+       223,
        "[Page 654]"
       ]
      ]
@@ -23079,11 +23100,18 @@
   },
   {
    "id": "25_2020",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     66,
+     "[Page 655]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02020 - Tribal departments or divisions of education.md",
    "printed_pages": [
     654,
-    654
+    655
    ]
   },
   {
@@ -23091,24 +23119,14 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 655]",
+     94,
+     "[Page 656]",
      true
-    ],
-    [
-     "I",
-     106,
-     [
-      [
-       97,
-       "[Page 656]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 022 - Bureau of Indian Affairs Programs/§ 02021 - Definitions.md",
    "printed_pages": [
-    654,
+    655,
     656
    ]
   },
@@ -23117,10 +23135,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       62,
+       23,
        "[Page 657]"
       ]
      ]
@@ -23155,10 +23173,10 @@
    "marks": [
     [
      "I",
-     20,
+     16,
      [
       [
-       138,
+       93,
        "[Page 658]"
       ]
      ]
@@ -23208,30 +23226,26 @@
   },
   {
    "id": "25_2108",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 659]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Development of Tribal Mineral Resources/§ 02108 - Tribal right to develop mineral resources.md",
    "printed_pages": [
     658,
-    658
+    659
    ]
   },
   {
    "id": "25_-ch24",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       119,
-       "[Page 659]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Indian Land Consolidation/README.md",
    "printed_pages": [
-    658,
+    659,
     659
    ]
   },
@@ -23239,10 +23253,14 @@
    "id": "25_2201",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 660]",
-     true
+     "I",
+     34,
+     [
+      [
+       112,
+       "[Page 660]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 024 - Indian Land Consolidation/§ 02201 - Definitions.md",
@@ -23265,10 +23283,10 @@
    "marks": [
     [
      "I",
-     18,
+     12,
      [
       [
-       90,
+       92,
        "[Page 661]"
       ]
      ]
@@ -23285,10 +23303,10 @@
    "marks": [
     [
      "I",
-     32,
+     26,
      [
       [
-       275,
+       105,
        "[Page 662]"
       ]
      ]
@@ -23305,10 +23323,10 @@
    "marks": [
     [
      "I",
-     88,
+     70,
      [
       [
-       94,
+       93,
        "[Page 663]"
       ]
      ]
@@ -23325,21 +23343,31 @@
    "marks": [
     [
      "I",
-     36,
+     28,
      [
       [
-       466,
+       94,
        "[Page 664]"
       ]
      ]
     ],
     [
      "I",
-     128,
+     110,
      [
       [
-       95,
+       272,
        "[Page 665]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     204,
+     [
+      [
+       159,
+       "[Page 666]"
       ]
      ]
     ]
@@ -23347,26 +23375,15 @@
    "path": "Chapter 024 - Indian Land Consolidation/§ 02206 - Descent and distribution.md",
    "printed_pages": [
     663,
-    665
+    666
    ]
   },
   {
    "id": "25_2207",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       141,
-       "[Page 666]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Indian Land Consolidation/§ 02207 - Full faith and credit to tribal actions under tribal ordinances limiting descent and distribution of trust or restricted or controlled….md",
    "printed_pages": [
-    665,
+    666,
     666
    ]
   },
@@ -23410,14 +23427,10 @@
    "id": "25_2212",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       99,
-       "[Page 667]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 667]",
+     true
     ]
    ],
    "path": "Chapter 024 - Indian Land Consolidation/§ 02212 - Pilot program for the acquisition of fractional interests.md",
@@ -23430,14 +23443,10 @@
    "id": "25_2213",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       236,
-       "[Page 668]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 668]",
+     true
     ]
    ],
    "path": "Chapter 024 - Indian Land Consolidation/§ 02213 - Administration of acquired fractional interests; disposition of proceeds.md",
@@ -23469,10 +23478,10 @@
    "marks": [
     [
      "I",
-     36,
+     22,
      [
       [
-       90,
+       103,
        "[Page 669]"
       ]
      ]
@@ -23498,30 +23507,29 @@
    "marks": [
     [
      "L",
-     34,
+     12,
      "[Page 670]",
+     true
+    ],
+    [
+     "L",
+     94,
+     "[Page 671]",
      true
     ]
    ],
    "path": "Chapter 024 - Indian Land Consolidation/§ 02218 - Approval of leases, rights-of-way, and sales of natural resources.md",
    "printed_pages": [
     669,
-    670
+    671
    ]
   },
   {
    "id": "25_2219",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 671]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Indian Land Consolidation/§ 02219 - Application to Alaska.md",
    "printed_pages": [
-    670,
+    671,
     671
    ]
   },
@@ -23545,30 +23553,26 @@
   },
   {
    "id": "25_2302",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 672]",
+     true
+    ]
+   ],
    "path": "Chapter 025 - Old Age Assistance Claims Settlement/§ 02302 - Payment of claims.md",
    "printed_pages": [
     671,
-    671
+    672
    ]
   },
   {
    "id": "25_2303",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       92,
-       "[Page 672]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - Old Age Assistance Claims Settlement/§ 02303 - Notice.md",
    "printed_pages": [
-    671,
+    672,
     672
    ]
   },
@@ -23601,30 +23605,30 @@
   },
   {
    "id": "25_2307",
-   "marks": [],
-   "path": "Chapter 025 - Old Age Assistance Claims Settlement/§ 02307 - Treatment of funds.md",
-   "printed_pages": [
-    672,
-    672
-   ]
-  },
-  {
-   "id": "25_-ch26",
    "marks": [
     [
      "I",
-     17,
+     2,
      [
       [
-       19,
+       94,
        "[Page 673]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/README.md",
+   "path": "Chapter 025 - Old Age Assistance Claims Settlement/§ 02307 - Treatment of funds.md",
    "printed_pages": [
     672,
+    673
+   ]
+  },
+  {
+   "id": "25_-ch26",
+   "marks": [],
+   "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/README.md",
+   "printed_pages": [
+    673,
     673
    ]
   },
@@ -23641,14 +23645,10 @@
    "id": "25_2401",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       138,
-       "[Page 674]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 674]",
+     true
     ]
    ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 001 (I) - General Provisions/§ 02401 - Congressional findings.md",
@@ -23671,7 +23671,7 @@
    "marks": [
     [
      "L",
-     36,
+     24,
      "[Page 675]",
      true
     ]
@@ -23693,11 +23693,22 @@
   },
   {
    "id": "25_2411",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     56,
+     [
+      [
+       276,
+       "[Page 676]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02411 - Inter-departmental Memorandum of Agreement.md",
    "printed_pages": [
     675,
-    675
+    676
    ]
   },
   {
@@ -23705,34 +23716,31 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 676]",
+     62,
+     "[Page 677]",
      true
-    ],
-    [
-     "I",
-     82,
-     [
-      [
-       111,
-       "[Page 677]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02412 - Tribal Action Plans.md",
    "printed_pages": [
-    675,
+    676,
     677
    ]
   },
   {
    "id": "25_2413",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 678]",
+     true
+    ]
+   ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02413 - Departmental responsibility.md",
    "printed_pages": [
     677,
-    677
+    678
    ]
   },
   {
@@ -23740,52 +23748,45 @@
    "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02414 - Congressional intent in construction of laws.md",
    "printed_pages": [
-    677,
-    677
+    678,
+    678
    ]
   },
   {
    "id": "25_2414a",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       89,
-       "[Page 678]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02414a - Review of programs.md",
    "printed_pages": [
-    677,
+    678,
     678
    ]
   },
   {
    "id": "25_2415",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       97,
+       "[Page 679]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02415 - Federal facilities, property, and equipment; leasing of tribal property.md",
    "printed_pages": [
     678,
-    678
+    679
    ]
   },
   {
    "id": "25_2416",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 679]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 002 (II) - Coordination of Resources and Programs/§ 02416 - Newsletter.md",
    "printed_pages": [
-    678,
+    679,
     679
    ]
   },
@@ -23811,14 +23812,10 @@
    "id": "25_2432",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       111,
-       "[Page 680]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 680]",
+     true
     ]
    ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 003 (III) - Indian Youth Programs/§ 02432 - Indian education programs.md",
@@ -23832,10 +23829,10 @@
    "marks": [
     [
      "I",
-     48,
+     34,
      [
       [
-       102,
+       195,
        "[Page 681]"
       ]
      ]
@@ -23849,11 +23846,22 @@
   },
   {
    "id": "25_2434",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       280,
+       "[Page 682]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 003 (III) - Indian Youth Programs/§ 02434 - Social services reports.md",
    "printed_pages": [
     681,
-    681
+    682
    ]
   },
   {
@@ -23861,37 +23869,33 @@
    "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 004 (IV) - Law Enforcement and Judicial Services/README.md",
    "printed_pages": [
-    681,
-    681
+    682,
+    682
    ]
   },
   {
    "id": "25_2441",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       92,
-       "[Page 682]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 004 (IV) - Law Enforcement and Judicial Services/§ 02441 - Review of programs.md",
    "printed_pages": [
-    681,
+    682,
     682
    ]
   },
   {
    "id": "25_2442",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     48,
+     "[Page 683]",
+     true
+    ]
+   ],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 004 (IV) - Law Enforcement and Judicial Services/§ 02442 - Illegal narcotics traffic on Tohono O'odham and St. Regis Reservations; source eradication.md",
    "printed_pages": [
     682,
-    682
+    683
    ]
   },
   {
@@ -23899,27 +23903,16 @@
    "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 005 (V) - Bureau of Indian Affairs Law Enforcement/README.md",
    "printed_pages": [
-    682,
-    682
+    683,
+    683
    ]
   },
   {
    "id": "25_2451",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       87,
-       "[Page 683]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 005 (V) - Bureau of Indian Affairs Law Enforcement/§ 02451 - Bureau of Indian Affairs law enforcement and judicial training.md",
    "printed_pages": [
-    682,
+    683,
     683
    ]
   },
@@ -23937,7 +23930,7 @@
    "marks": [
     [
      "L",
-     26,
+     10,
      "[Page 684]",
      true
     ]
@@ -23986,30 +23979,30 @@
   },
   {
    "id": "25_2472_to_2478",
-   "marks": [],
-   "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 006 (VI) - Indian Alcohol and Substance Abuse Treatment and Rehabilitation/§ 02472 to 2478 - Repealed. Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582.md",
-   "printed_pages": [
-    684,
-    684
-   ]
-  },
-  {
-   "id": "25_-ch27",
    "marks": [
     [
      "I",
-     5,
+     2,
      [
       [
-       20,
+       115,
        "[Page 685]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 027 - Tribally Controlled School Grants/README.md",
+   "path": "Chapter 026 - Indian Alcohol and Substance Abuse Prevention and Treatment/Subchapter 006 (VI) - Indian Alcohol and Substance Abuse Treatment and Rehabilitation/§ 02472 to 2478 - Repealed. Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582.md",
    "printed_pages": [
     684,
+    685
+   ]
+  },
+  {
+   "id": "25_-ch27",
+   "marks": [],
+   "path": "Chapter 027 - Tribally Controlled School Grants/README.md",
+   "printed_pages": [
+    685,
     685
    ]
   },
@@ -24018,7 +24011,7 @@
    "marks": [
     [
      "L",
-     52,
+     26,
      "[Page 686]",
      true
     ]
@@ -24033,12 +24026,18 @@
    "id": "25_2502",
    "marks": [
     [
+     "L",
+     8,
+     "[Page 687]",
+     true
+    ],
+    [
      "I",
-     78,
+     82,
      [
       [
-       541,
-       "[Page 687]"
+       181,
+       "[Page 688]"
       ]
      ]
     ]
@@ -24046,7 +24045,7 @@
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02502 - Grants authorized.md",
    "printed_pages": [
     686,
-    687
+    688
    ]
   },
   {
@@ -24054,47 +24053,47 @@
    "marks": [
     [
      "L",
-     40,
-     "[Page 688]",
+     48,
+     "[Page 689]",
      true
     ],
     [
      "L",
-     112,
-     "[Page 689]",
+     116,
+     "[Page 690]",
      true
     ]
    ],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02503 - Composition of grants.md",
    "printed_pages": [
-    687,
-    689
+    688,
+    690
    ]
   },
   {
    "id": "25_2504",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       93,
-       "[Page 690]"
-      ]
-     ]
-    ],
-    [
      "L",
-     140,
+     60,
      "[Page 691]",
      true
+    ],
+    [
+     "I",
+     142,
+     [
+      [
+       142,
+       "[Page 692]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02504 - Eligibility for grants.md",
    "printed_pages": [
-    689,
-    691
+    690,
+    692
    ]
   },
   {
@@ -24102,25 +24101,25 @@
    "marks": [
     [
      "L",
-     40,
-     "[Page 692]",
+     46,
+     "[Page 693]",
      true
     ],
     [
      "I",
-     100,
+     104,
      [
       [
-       227,
-       "[Page 693]"
+       115,
+       "[Page 694]"
       ]
      ]
     ]
    ],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02505 - Duration of eligibility determination.md",
    "printed_pages": [
-    691,
-    693
+    692,
+    694
    ]
   },
   {
@@ -24128,8 +24127,8 @@
    "marks": [],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02506 - Payment of grants; investment of funds.md",
    "printed_pages": [
-    693,
-    693
+    694,
+    694
    ]
   },
   {
@@ -24140,8 +24139,8 @@
      4,
      [
       [
-       91,
-       "[Page 694]"
+       142,
+       "[Page 695]"
       ]
      ]
     ],
@@ -24150,16 +24149,16 @@
      76,
      [
       [
-       221,
-       "[Page 695]"
+       280,
+       "[Page 696]"
       ]
      ]
     ]
    ],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02507 - Application with respect to Indian Self-Determination and Education Assistance Act.md",
    "printed_pages": [
-    693,
-    695
+    694,
+    696
    ]
   },
   {
@@ -24167,8 +24166,8 @@
    "marks": [],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02508 - Role of the Director.md",
    "printed_pages": [
-    695,
-    695
+    696,
+    696
    ]
   },
   {
@@ -24176,8 +24175,8 @@
    "marks": [],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02509 - Regulations.md",
    "printed_pages": [
-    695,
-    695
+    696,
+    696
    ]
   },
   {
@@ -24185,8 +24184,8 @@
    "marks": [],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02510 - The tribally controlled grant school endowment program.md",
    "printed_pages": [
-    695,
-    695
+    696,
+    696
    ]
   },
   {
@@ -24195,14 +24194,14 @@
     [
      "L",
      12,
-     "[Page 696]",
+     "[Page 697]",
      true
     ]
    ],
    "path": "Chapter 027 - Tribally Controlled School Grants/§ 02511 - Definitions.md",
    "printed_pages": [
-    695,
-    696
+    696,
+    697
    ]
   },
   {
@@ -24210,8 +24209,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/README.md",
    "printed_pages": [
-    696,
-    696
+    697,
+    697
    ]
   },
   {
@@ -24219,8 +24218,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 001 (I) - Financial Assistance to Local Educational Agencies for the Education of Indian Children/README.md",
    "printed_pages": [
-    696,
-    696
+    697,
+    697
    ]
   },
   {
@@ -24232,15 +24231,15 @@
      [
       [
        111,
-       "[Page 697]"
+       "[Page 698]"
       ]
      ]
     ]
    ],
    "path": "Chapter 028 - Indian Education Program/Subchapter 001 (I) - Financial Assistance to Local Educational Agencies for the Education of Indian Children/§ 02601 to 2606 - Repealed. Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.md",
    "printed_pages": [
-    696,
-    697
+    697,
+    698
    ]
   },
   {
@@ -24248,8 +24247,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 002 (II) - Special Programs and Projects to Improve Educational Opportunities for Indian Children/README.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24257,8 +24256,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 002 (II) - Special Programs and Projects to Improve Educational Opportunities for Indian Children/§ 02621 to 2624 - Repealed. Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24266,8 +24265,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 003 (III) - Special Programs Relating to Adult Education for Indians/README.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24275,8 +24274,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 003 (III) - Special Programs Relating to Adult Education for Indians/§ 02631 - Repealed. Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24284,8 +24283,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 004 (IV) - Program Administration/README.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24293,8 +24292,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 004 (IV) - Program Administration/§ 02641 to 2643 - Repealed. Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24302,8 +24301,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 005 (V) - Miscellaneous/README.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24311,8 +24310,8 @@
    "marks": [],
    "path": "Chapter 028 - Indian Education Program/Subchapter 005 (V) - Miscellaneous/§ 02651 - Repealed. Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.md",
    "printed_pages": [
-    697,
-    697
+    698,
+    698
    ]
   },
   {
@@ -24324,15 +24323,15 @@
      [
       [
        91,
-       "[Page 698]"
+       "[Page 699]"
       ]
      ]
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/README.md",
    "printed_pages": [
-    697,
-    698
+    698,
+    699
    ]
   },
   {
@@ -24340,8 +24339,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02701 - Findings.md",
    "printed_pages": [
-    698,
-    698
+    699,
+    699
    ]
   },
   {
@@ -24349,8 +24348,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02702 - Declaration of policy.md",
    "printed_pages": [
-    698,
-    698
+    699,
+    699
    ]
   },
   {
@@ -24359,14 +24358,14 @@
     [
      "L",
      42,
-     "[Page 699]",
+     "[Page 700]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02703 - Definitions.md",
    "printed_pages": [
-    698,
-    699
+    699,
+    700
    ]
   },
   {
@@ -24375,14 +24374,14 @@
     [
      "L",
      18,
-     "[Page 700]",
+     "[Page 701]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02704 - National Indian Gaming Commission.md",
    "printed_pages": [
-    699,
-    700
+    700,
+    701
    ]
   },
   {
@@ -24390,8 +24389,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02705 - Powers of Chairman.md",
    "printed_pages": [
-    700,
-    700
+    701,
+    701
    ]
   },
   {
@@ -24400,14 +24399,14 @@
     [
      "L",
      30,
-     "[Page 701]",
+     "[Page 702]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02706 - Powers of Commission.md",
    "printed_pages": [
-    700,
-    701
+    701,
+    702
    ]
   },
   {
@@ -24415,8 +24414,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02707 - Commission staffing.md",
    "printed_pages": [
-    701,
-    701
+    702,
+    702
    ]
   },
   {
@@ -24424,8 +24423,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02708 - Commission; access to information.md",
    "printed_pages": [
-    701,
-    701
+    702,
+    702
    ]
   },
   {
@@ -24433,8 +24432,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02709 - Interim authority to regulate gaming.md",
    "printed_pages": [
-    701,
-    701
+    702,
+    702
    ]
   },
   {
@@ -24443,7 +24442,7 @@
     [
      "L",
      14,
-     "[Page 702]",
+     "[Page 703]",
      true
     ],
     [
@@ -24452,7 +24451,7 @@
      [
       [
        139,
-       "[Page 703]"
+       "[Page 704]"
       ]
      ]
     ],
@@ -24462,21 +24461,21 @@
      [
       [
        235,
-       "[Page 704]"
+       "[Page 705]"
       ]
      ]
     ],
     [
      "L",
      212,
-     "[Page 705]",
+     "[Page 706]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02710 - Tribal gaming ordinances.md",
    "printed_pages": [
-    701,
-    705
+    702,
+    706
    ]
   },
   {
@@ -24485,14 +24484,14 @@
     [
      "L",
      20,
-     "[Page 706]",
+     "[Page 707]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02711 - Management contracts.md",
    "printed_pages": [
-    705,
-    706
+    706,
+    707
    ]
   },
   {
@@ -24504,15 +24503,15 @@
      [
       [
        320,
-       "[Page 707]"
+       "[Page 708]"
       ]
      ]
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02712 - Review of existing ordinances and contracts.md",
    "printed_pages": [
-    706,
-    707
+    707,
+    708
    ]
   },
   {
@@ -24521,14 +24520,14 @@
     [
      "L",
      24,
-     "[Page 708]",
+     "[Page 709]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02713 - Civil penalties.md",
    "printed_pages": [
-    707,
-    708
+    708,
+    709
    ]
   },
   {
@@ -24536,8 +24535,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02714 - Judicial review.md",
    "printed_pages": [
-    708,
-    708
+    709,
+    709
    ]
   },
   {
@@ -24545,8 +24544,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02715 - Subpoena and deposition authority.md",
    "printed_pages": [
-    708,
-    708
+    709,
+    709
    ]
   },
   {
@@ -24554,8 +24553,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02716 - Investigative powers.md",
    "printed_pages": [
-    708,
-    708
+    709,
+    709
    ]
   },
   {
@@ -24567,15 +24566,15 @@
      [
       [
        234,
-       "[Page 709]"
+       "[Page 710]"
       ]
      ]
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02717 - Commission funding.md",
    "printed_pages": [
-    708,
-    709
+    709,
+    710
    ]
   },
   {
@@ -24583,8 +24582,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02717a - Availability of class II gaming activity fees to carry out duties of Commission.md",
    "printed_pages": [
-    709,
-    709
+    710,
+    710
    ]
   },
   {
@@ -24592,8 +24591,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02718 - Authorization of appropriations.md",
    "printed_pages": [
-    709,
-    709
+    710,
+    710
    ]
   },
   {
@@ -24602,14 +24601,14 @@
     [
      "L",
      8,
-     "[Page 710]",
+     "[Page 711]",
      true
     ]
    ],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02719 - Gaming on lands acquired after October 17, 1988.md",
    "printed_pages": [
-    709,
-    710
+    710,
+    711
    ]
   },
   {
@@ -24617,8 +24616,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02720 - Dissemination of information.md",
    "printed_pages": [
-    710,
-    710
+    711,
+    711
    ]
   },
   {
@@ -24626,8 +24625,8 @@
    "marks": [],
    "path": "Chapter 029 - Indian Gaming Regulation/§ 02721 - Severability.md",
    "printed_pages": [
-    710,
-    710
+    711,
+    711
    ]
   },
   {
@@ -24639,15 +24638,15 @@
      [
       [
        107,
-       "[Page 711]"
+       "[Page 712]"
       ]
      ]
     ]
    ],
    "path": "Chapter 030 - Indian Law Enforcement Reform/README.md",
    "printed_pages": [
-    710,
-    711
+    711,
+    712
    ]
   },
   {
@@ -24655,8 +24654,8 @@
    "marks": [],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02801 - Definitions.md",
    "printed_pages": [
-    711,
-    711
+    712,
+    712
    ]
   },
   {
@@ -24668,15 +24667,15 @@
      [
       [
        88,
-       "[Page 712]"
+       "[Page 713]"
       ]
      ]
     ]
    ],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02802 - Indian law enforcement responsibilities.md",
    "printed_pages": [
-    711,
-    712
+    712,
+    713
    ]
   },
   {
@@ -24684,8 +24683,8 @@
    "marks": [],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02803 - Law enforcement authority.md",
    "printed_pages": [
-    712,
-    712
+    713,
+    713
    ]
   },
   {
@@ -24697,15 +24696,15 @@
      [
       [
        328,
-       "[Page 713]"
+       "[Page 714]"
       ]
      ]
     ]
    ],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02804 - Assistance by other agencies.md",
    "printed_pages": [
-    712,
-    713
+    713,
+    714
    ]
   },
   {
@@ -24713,8 +24712,8 @@
    "marks": [],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02805 - Regulations.md",
    "printed_pages": [
-    713,
-    713
+    714,
+    714
    ]
   },
   {
@@ -24722,8 +24721,8 @@
    "marks": [],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02806 - Jurisdiction.md",
    "printed_pages": [
-    713,
-    713
+    714,
+    714
    ]
   },
   {
@@ -24731,8 +24730,8 @@
    "marks": [],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02807 - Uniform allowance.md",
    "printed_pages": [
-    713,
-    713
+    714,
+    714
    ]
   },
   {
@@ -24741,14 +24740,14 @@
     [
      "L",
      6,
-     "[Page 714]",
+     "[Page 715]",
      true
     ]
    ],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02808 - Source of funds.md",
    "printed_pages": [
-    713,
-    714
+    714,
+    715
    ]
   },
   {
@@ -24756,8 +24755,8 @@
    "marks": [],
    "path": "Chapter 030 - Indian Law Enforcement Reform/§ 02809 - Reports to tribes.md",
    "printed_pages": [
-    714,
-    714
+    715,
+    715
    ]
   },
   {
@@ -24765,8 +24764,8 @@
    "marks": [],
    "path": "Chapter 031 - Native American Languages/README.md",
    "printed_pages": [
-    714,
-    714
+    715,
+    715
    ]
   },
   {
@@ -24774,8 +24773,8 @@
    "marks": [],
    "path": "Chapter 031 - Native American Languages/§ 02901 - Findings.md",
    "printed_pages": [
-    714,
-    714
+    715,
+    715
    ]
   },
   {
@@ -24787,15 +24786,15 @@
      [
       [
        89,
-       "[Page 715]"
+       "[Page 716]"
       ]
      ]
     ]
    ],
    "path": "Chapter 031 - Native American Languages/§ 02902 - Definitions.md",
    "printed_pages": [
-    714,
-    715
+    715,
+    716
    ]
   },
   {
@@ -24803,8 +24802,8 @@
    "marks": [],
    "path": "Chapter 031 - Native American Languages/§ 02903 - Declaration of policy.md",
    "printed_pages": [
-    715,
-    715
+    716,
+    716
    ]
   },
   {
@@ -24812,8 +24811,8 @@
    "marks": [],
    "path": "Chapter 031 - Native American Languages/§ 02904 - No restrictions.md",
    "printed_pages": [
-    715,
-    715
+    716,
+    716
    ]
   },
   {
@@ -24825,15 +24824,15 @@
      [
       [
        137,
-       "[Page 716]"
+       "[Page 717]"
       ]
      ]
     ]
    ],
    "path": "Chapter 031 - Native American Languages/§ 02905 - Evaluations.md",
    "printed_pages": [
-    715,
-    716
+    716,
+    717
    ]
   },
   {
@@ -24841,8 +24840,8 @@
    "marks": [],
    "path": "Chapter 031 - Native American Languages/§ 02906 - Use of English.md",
    "printed_pages": [
-    716,
-    716
+    717,
+    717
    ]
   },
   {
@@ -24850,8 +24849,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/README.md",
    "printed_pages": [
-    716,
-    716
+    717,
+    717
    ]
   },
   {
@@ -24863,15 +24862,15 @@
      [
       [
        89,
-       "[Page 717]"
+       "[Page 718]"
       ]
      ]
     ]
    ],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03001 - Definitions.md",
    "printed_pages": [
-    716,
-    717
+    717,
+    718
    ]
   },
   {
@@ -24883,7 +24882,7 @@
      [
       [
        88,
-       "[Page 718]"
+       "[Page 719]"
       ]
      ]
     ],
@@ -24893,15 +24892,15 @@
      [
       [
        216,
-       "[Page 719]"
+       "[Page 720]"
       ]
      ]
     ]
    ],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03002 - Ownership.md",
    "printed_pages": [
-    717,
-    719
+    718,
+    720
    ]
   },
   {
@@ -24909,8 +24908,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03003 - Inventory for human remains and associated funerary objects.md",
    "printed_pages": [
-    719,
-    719
+    720,
+    720
    ]
   },
   {
@@ -24922,15 +24921,15 @@
      [
       [
        195,
-       "[Page 720]"
+       "[Page 721]"
       ]
      ]
     ]
    ],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03004 - Summary for unassociated funerary objects, sacred objects, and cultural patrimony.md",
    "printed_pages": [
-    719,
-    720
+    720,
+    721
    ]
   },
   {
@@ -24939,14 +24938,14 @@
     [
      "L",
      42,
-     "[Page 721]",
+     "[Page 722]",
      true
     ]
    ],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03005 - Repatriation.md",
    "printed_pages": [
-    720,
-    721
+    721,
+    722
    ]
   },
   {
@@ -24958,15 +24957,15 @@
      [
       [
        105,
-       "[Page 722]"
+       "[Page 723]"
       ]
      ]
     ]
    ],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03006 - Review committee.md",
    "printed_pages": [
-    721,
-    722
+    722,
+    723
    ]
   },
   {
@@ -24974,8 +24973,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03007 - Penalty.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -24983,8 +24982,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03008 - Grants.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -24992,8 +24991,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03009 - Savings provision.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -25001,8 +25000,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03010 - Special relationship between Federal Government and Indian tribes and Native Hawaiian organizations.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -25010,8 +25009,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03011 - Regulations.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -25019,8 +25018,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03012 - Authorization of appropriations.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -25028,8 +25027,8 @@
    "marks": [],
    "path": "Chapter 032 - Native American Graves Protection and Repatriation/§ 03013 - Enforcement.md",
    "printed_pages": [
-    722,
-    722
+    723,
+    723
    ]
   },
   {
@@ -25041,15 +25040,15 @@
      [
       [
        20,
-       "[Page 723]"
+       "[Page 724]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/README.md",
    "printed_pages": [
-    722,
-    723
+    723,
+    724
    ]
   },
   {
@@ -25057,8 +25056,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03101 - Findings.md",
    "printed_pages": [
-    723,
-    723
+    724,
+    724
    ]
   },
   {
@@ -25066,8 +25065,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03102 - Purposes.md",
    "printed_pages": [
-    723,
-    723
+    724,
+    724
    ]
   },
   {
@@ -25076,20 +25075,20 @@
     [
      "L",
      12,
-     "[Page 724]",
+     "[Page 725]",
      true
     ],
     [
      "L",
      90,
-     "[Page 725]",
+     "[Page 726]",
      true
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03103 - Definitions.md",
    "printed_pages": [
-    723,
-    725
+    724,
+    726
    ]
   },
   {
@@ -25097,8 +25096,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03104 - Management of Indian forest land.md",
    "printed_pages": [
-    725,
-    725
+    726,
+    726
    ]
   },
   {
@@ -25107,14 +25106,14 @@
     [
      "L",
      16,
-     "[Page 726]",
+     "[Page 727]",
      true
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03105 - Forest management deduction.md",
    "printed_pages": [
-    725,
-    726
+    726,
+    727
    ]
   },
   {
@@ -25122,8 +25121,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03106 - Forest trespass.md",
    "printed_pages": [
-    726,
-    726
+    727,
+    727
    ]
   },
   {
@@ -25131,8 +25130,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03107 - Direct payment of forest products receipts.md",
    "printed_pages": [
-    726,
-    726
+    727,
+    727
    ]
   },
   {
@@ -25140,8 +25139,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03108 - Secretarial recognition of tribal laws.md",
    "printed_pages": [
-    726,
-    726
+    727,
+    727
    ]
   },
   {
@@ -25153,15 +25152,15 @@
      [
       [
        141,
-       "[Page 727]"
+       "[Page 728]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03109 - Indian forest land assistance account.md",
    "printed_pages": [
-    726,
-    727
+    727,
+    728
    ]
   },
   {
@@ -25169,8 +25168,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03110 - Tribal forestry programs.md",
    "printed_pages": [
-    727,
-    727
+    728,
+    728
    ]
   },
   {
@@ -25182,15 +25181,15 @@
      [
       [
        180,
-       "[Page 728]"
+       "[Page 729]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03111 - Assessment of Indian forest land and management programs.md",
    "printed_pages": [
-    727,
-    728
+    728,
+    729
    ]
   },
   {
@@ -25198,8 +25197,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03112 - Alaska Native technical assistance program.md",
    "printed_pages": [
-    728,
-    728
+    729,
+    729
    ]
   },
   {
@@ -25208,14 +25207,14 @@
     [
      "L",
      22,
-     "[Page 729]",
+     "[Page 730]",
      true
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03113 - Establishment of Indian and Alaska Native forestry education assistance.md",
    "printed_pages": [
-    728,
-    729
+    729,
+    730
    ]
   },
   {
@@ -25227,15 +25226,15 @@
      [
       [
        96,
-       "[Page 730]"
+       "[Page 731]"
       ]
      ]
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03114 - Postgraduation recruitment, education and training programs.md",
    "printed_pages": [
-    729,
-    730
+    730,
+    731
    ]
   },
   {
@@ -25243,8 +25242,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03115 - Cooperative agreement between Department of the Interior and Indian tribes.md",
    "printed_pages": [
-    730,
-    730
+    731,
+    731
    ]
   },
   {
@@ -25252,8 +25251,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03116 - Obligated service; breach of contract.md",
    "printed_pages": [
-    730,
-    730
+    731,
+    731
    ]
   },
   {
@@ -25261,8 +25260,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03117 - Authorization of appropriations.md",
    "printed_pages": [
-    730,
-    730
+    731,
+    731
    ]
   },
   {
@@ -25271,14 +25270,14 @@
     [
      "L",
      6,
-     "[Page 731]",
+     "[Page 732]",
      true
     ]
    ],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03118 - Regulations.md",
    "printed_pages": [
-    730,
-    731
+    731,
+    732
    ]
   },
   {
@@ -25286,8 +25285,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03119 - Severability.md",
    "printed_pages": [
-    731,
-    731
+    732,
+    732
    ]
   },
   {
@@ -25295,8 +25294,8 @@
    "marks": [],
    "path": "Chapter 033 - National Indian Forest Resources Management/§ 03120 - Trust responsibility.md",
    "printed_pages": [
-    731,
-    731
+    732,
+    732
    ]
   },
   {
@@ -25304,8 +25303,8 @@
    "marks": [],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/README.md",
    "printed_pages": [
-    731,
-    731
+    732,
+    732
    ]
   },
   {
@@ -25314,14 +25313,14 @@
     [
      "L",
      38,
-     "[Page 732]",
+     "[Page 733]",
      true
     ]
    ],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03201 - Findings and purpose.md",
    "printed_pages": [
-    731,
-    732
+    732,
+    733
    ]
   },
   {
@@ -25330,14 +25329,14 @@
     [
      "L",
      70,
-     "[Page 733]",
+     "[Page 734]",
      true
     ]
    ],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03202 - Definitions.md",
    "printed_pages": [
-    732,
-    733
+    733,
+    734
    ]
   },
   {
@@ -25345,8 +25344,8 @@
    "marks": [],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03203 - Reporting procedures.md",
    "printed_pages": [
-    733,
-    733
+    734,
+    734
    ]
   },
   {
@@ -25355,14 +25354,14 @@
     [
      "L",
      26,
-     "[Page 734]",
+     "[Page 735]",
      true
     ]
    ],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03204 - Central registry.md",
    "printed_pages": [
-    733,
-    734
+    734,
+    735
    ]
   },
   {
@@ -25370,8 +25369,8 @@
    "marks": [],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03205 - Confidentiality.md",
    "printed_pages": [
-    734,
-    734
+    735,
+    735
    ]
   },
   {
@@ -25379,8 +25378,8 @@
    "marks": [],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03206 - Waiver of parental consent.md",
    "printed_pages": [
-    734,
-    734
+    735,
+    735
    ]
   },
   {
@@ -25392,15 +25391,15 @@
      [
       [
        163,
-       "[Page 735]"
+       "[Page 736]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03207 - Character investigations.md",
    "printed_pages": [
-    734,
-    735
+    735,
+    736
    ]
   },
   {
@@ -25408,8 +25407,8 @@
    "marks": [],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03208 - Indian Child Abuse Treatment Grant Program.md",
    "printed_pages": [
-    735,
-    735
+    736,
+    736
    ]
   },
   {
@@ -25418,14 +25417,14 @@
     [
      "L",
      32,
-     "[Page 736]",
+     "[Page 737]",
      true
     ]
    ],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03209 - Indian Child Resource and Family Services Centers.md",
    "printed_pages": [
-    735,
-    736
+    736,
+    737
    ]
   },
   {
@@ -25434,7 +25433,7 @@
     [
      "L",
      34,
-     "[Page 737]",
+     "[Page 738]",
      true
     ],
     [
@@ -25443,15 +25442,15 @@
      [
       [
        145,
-       "[Page 738]"
+       "[Page 739]"
       ]
      ]
     ]
    ],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03210 - Indian Child Protection and Family Violence Prevention Program.md",
    "printed_pages": [
-    736,
-    738
+    737,
+    739
    ]
   },
   {
@@ -25459,8 +25458,8 @@
    "marks": [],
    "path": "Chapter 034 - Indian Child Protection and Family Violence Prevention/§ 03211 - Repealed. Pub. L. 105–362, title VIII, §801(a), Nov. 10, 1998, 112 Stat. 3287.md",
    "printed_pages": [
-    738,
-    738
+    739,
+    739
    ]
   },
   {
@@ -25468,8 +25467,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/README.md",
    "printed_pages": [
-    738,
-    738
+    739,
+    739
    ]
   },
   {
@@ -25477,8 +25476,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/README.md",
    "printed_pages": [
-    738,
-    738
+    739,
+    739
    ]
   },
   {
@@ -25486,8 +25485,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03301 - Short title.md",
    "printed_pages": [
-    738,
-    738
+    739,
+    739
    ]
   },
   {
@@ -25496,14 +25495,14 @@
     [
      "L",
      8,
-     "[Page 739]",
+     "[Page 740]",
      true
     ]
    ],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03302 - Findings.md",
    "printed_pages": [
-    738,
-    739
+    739,
+    740
    ]
   },
   {
@@ -25511,8 +25510,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03303 - Program authority.md",
    "printed_pages": [
-    739,
-    739
+    740,
+    740
    ]
   },
   {
@@ -25521,14 +25520,14 @@
     [
      "L",
      30,
-     "[Page 740]",
+     "[Page 741]",
      true
     ]
    ],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03304 - Qualification for grants to tribes.md",
    "printed_pages": [
-    739,
-    740
+    740,
+    741
    ]
   },
   {
@@ -25536,8 +25535,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03305 - Allocation of grant funds.md",
    "printed_pages": [
-    740,
-    740
+    741,
+    741
    ]
   },
   {
@@ -25549,15 +25548,15 @@
      [
       [
        91,
-       "[Page 741]"
+       "[Page 742]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03306 - Limitations on use of funds.md",
    "printed_pages": [
-    740,
-    741
+    741,
+    742
    ]
   },
   {
@@ -25569,15 +25568,15 @@
      [
       [
        213,
-       "[Page 742]"
+       "[Page 743]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 001 (I) - Higher Education Tribal Grant Authorization/§ 03307 - Administrative provisions.md",
    "printed_pages": [
-    741,
-    742
+    742,
+    743
    ]
   },
   {
@@ -25585,8 +25584,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 002 (II) - Critical Needs for Tribal Development/README.md",
    "printed_pages": [
-    742,
-    742
+    743,
+    743
    ]
   },
   {
@@ -25594,8 +25593,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 002 (II) - Critical Needs for Tribal Development/§ 03321 - Short title.md",
    "printed_pages": [
-    742,
-    742
+    743,
+    743
    ]
   },
   {
@@ -25603,8 +25602,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 002 (II) - Critical Needs for Tribal Development/§ 03322 - Definitions.md",
    "printed_pages": [
-    742,
-    742
+    743,
+    743
    ]
   },
   {
@@ -25612,8 +25611,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 002 (II) - Critical Needs for Tribal Development/§ 03323 - Service conditions permitted.md",
    "printed_pages": [
-    742,
-    742
+    743,
+    743
    ]
   },
   {
@@ -25625,15 +25624,15 @@
      [
       [
        95,
-       "[Page 743]"
+       "[Page 744]"
       ]
      ]
     ]
    ],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 002 (II) - Critical Needs for Tribal Development/§ 03324 - Critical area service agreements.md",
    "printed_pages": [
-    742,
-    743
+    743,
+    744
    ]
   },
   {
@@ -25641,8 +25640,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 002 (II) - Critical Needs for Tribal Development/§ 03325 - General provisions.md",
    "printed_pages": [
-    743,
-    743
+    744,
+    744
    ]
   },
   {
@@ -25650,8 +25649,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 003 (III) - Tribal Development Student Assistance Revolving Loan Program/README.md",
    "printed_pages": [
-    743,
-    743
+    744,
+    744
    ]
   },
   {
@@ -25659,8 +25658,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 003 (III) - Tribal Development Student Assistance Revolving Loan Program/§ 03331 to 3338 - Repealed. Pub. L. 105–332, §6(b)(1), Oct. 31, 1998, 112 Stat. 3128.md",
    "printed_pages": [
-    743,
-    743
+    744,
+    744
    ]
   },
   {
@@ -25668,8 +25667,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 004 (IV) - American Indian Post-Secondary Economic Development Scholarship/README.md",
    "printed_pages": [
-    743,
-    743
+    744,
+    744
    ]
   },
   {
@@ -25678,14 +25677,14 @@
     [
      "L",
      12,
-     "[Page 744]",
+     "[Page 745]",
      true
     ]
    ],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 004 (IV) - American Indian Post-Secondary Economic Development Scholarship/§ 03351 to 3355 - Repealed. Pub. L. 105–332, §6(b)(1), Oct. 31, 1998, 112 Stat. 3128.md",
    "printed_pages": [
-    743,
-    744
+    744,
+    745
    ]
   },
   {
@@ -25693,8 +25692,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 005 (V) - American Indian Teacher Training/README.md",
    "printed_pages": [
-    744,
-    744
+    745,
+    745
    ]
   },
   {
@@ -25702,8 +25701,8 @@
    "marks": [],
    "path": "Chapter 035 - Indian Higher Education Programs/Subchapter 005 (V) - American Indian Teacher Training/§ 03371 - Repealed. Pub. L. 105–332, §6(b)(1), Oct. 31, 1998, 112 Stat. 3128.md",
    "printed_pages": [
-    744,
-    744
+    745,
+    745
    ]
   },
   {
@@ -25711,8 +25710,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/README.md",
    "printed_pages": [
-    744,
-    744
+    745,
+    745
    ]
   },
   {
@@ -25720,8 +25719,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03401 - Statement of purpose.md",
    "printed_pages": [
-    744,
-    744
+    745,
+    745
    ]
   },
   {
@@ -25730,14 +25729,14 @@
     [
      "L",
      8,
-     "[Page 745]",
+     "[Page 746]",
      true
     ]
    ],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03402 - Definitions.md",
    "printed_pages": [
-    744,
-    745
+    745,
+    746
    ]
   },
   {
@@ -25745,8 +25744,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03403 - Integration of services authorized.md",
    "printed_pages": [
-    745,
-    745
+    746,
+    746
    ]
   },
   {
@@ -25754,8 +25753,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03404 - Programs affected.md",
    "printed_pages": [
-    745,
-    745
+    746,
+    746
    ]
   },
   {
@@ -25763,8 +25762,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03405 - Plan requirements.md",
    "printed_pages": [
-    745,
-    745
+    746,
+    746
    ]
   },
   {
@@ -25772,8 +25771,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03406 - Plan review.md",
    "printed_pages": [
-    745,
-    745
+    746,
+    746
    ]
   },
   {
@@ -25785,15 +25784,15 @@
      [
       [
        226,
-       "[Page 746]"
+       "[Page 747]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03407 - Plan approval.md",
    "printed_pages": [
-    745,
-    746
+    746,
+    747
    ]
   },
   {
@@ -25801,8 +25800,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03408 - Job creation activities authorized.md",
    "printed_pages": [
-    746,
-    746
+    747,
+    747
    ]
   },
   {
@@ -25810,8 +25809,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03409 - Private sector training placements.md",
    "printed_pages": [
-    746,
-    746
+    747,
+    747
    ]
   },
   {
@@ -25819,8 +25818,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03410 - Federal responsibilities.md",
    "printed_pages": [
-    746,
-    746
+    747,
+    747
    ]
   },
   {
@@ -25832,15 +25831,15 @@
      [
       [
        93,
-       "[Page 747]"
+       "[Page 748]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03411 - No reduction in amounts.md",
    "printed_pages": [
-    746,
-    747
+    747,
+    748
    ]
   },
   {
@@ -25848,8 +25847,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03412 - Interagency fund transfers authorized.md",
    "printed_pages": [
-    747,
-    747
+    748,
+    748
    ]
   },
   {
@@ -25857,8 +25856,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03413 - Administration of funds and overage.md",
    "printed_pages": [
-    747,
-    747
+    748,
+    748
    ]
   },
   {
@@ -25866,8 +25865,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03414 - Fiscal accountability.md",
    "printed_pages": [
-    747,
-    747
+    748,
+    748
    ]
   },
   {
@@ -25875,8 +25874,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03415 - Report on statutory obstacles to program integration.md",
    "printed_pages": [
-    747,
-    747
+    748,
+    748
    ]
   },
   {
@@ -25888,15 +25887,15 @@
      [
       [
        169,
-       "[Page 748]"
+       "[Page 749]"
       ]
      ]
     ]
    ],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03416 - Labor market information on Indian work force.md",
    "printed_pages": [
-    747,
-    748
+    748,
+    749
    ]
   },
   {
@@ -25904,8 +25903,8 @@
    "marks": [],
    "path": "Chapter 036 - Indian Employment, Training and Related Services/§ 03417 - Assignment of Federal personnel to State Indian economic development programs.md",
    "printed_pages": [
-    748,
-    748
+    749,
+    749
    ]
   },
   {
@@ -25913,8 +25912,8 @@
    "marks": [],
    "path": "Chapter 037 - Indian Energy Resources/README.md",
    "printed_pages": [
-    748,
-    748
+    749,
+    749
    ]
   },
   {
@@ -25926,15 +25925,15 @@
      [
       [
        109,
-       "[Page 749]"
+       "[Page 750]"
       ]
      ]
     ]
    ],
    "path": "Chapter 037 - Indian Energy Resources/§ 03501 - Definitions.md",
    "printed_pages": [
-    748,
-    749
+    749,
+    750
    ]
   },
   {
@@ -25942,8 +25941,8 @@
    "marks": [],
    "path": "Chapter 037 - Indian Energy Resources/§ 03502 - Tribal consultation.md",
    "printed_pages": [
-    749,
-    749
+    750,
+    750
    ]
   },
   {
@@ -25951,8 +25950,8 @@
    "marks": [],
    "path": "Chapter 037 - Indian Energy Resources/§ 03503 - Promoting energy resource development and energy vertical integration on Indian reservations.md",
    "printed_pages": [
-    749,
-    749
+    750,
+    750
    ]
   },
   {
@@ -25961,14 +25960,14 @@
     [
      "L",
      20,
-     "[Page 750]",
+     "[Page 751]",
      true
     ]
    ],
    "path": "Chapter 037 - Indian Energy Resources/§ 03504 - Indian energy resource regulation.md",
    "printed_pages": [
-    749,
-    750
+    750,
+    751
    ]
   },
   {
@@ -25980,15 +25979,15 @@
      [
       [
        90,
-       "[Page 751]"
+       "[Page 752]"
       ]
      ]
     ]
    ],
    "path": "Chapter 037 - Indian Energy Resources/§ 03505 - Indian Energy Resource Commission.md",
    "printed_pages": [
-    750,
-    751
+    751,
+    752
    ]
   },
   {
@@ -25997,14 +25996,14 @@
     [
      "L",
      14,
-     "[Page 752]",
+     "[Page 753]",
      true
     ]
    ],
    "path": "Chapter 037 - Indian Energy Resources/§ 03506 - Tribal government energy assistance program.md",
    "printed_pages": [
-    751,
-    752
+    752,
+    753
    ]
   },
   {
@@ -26012,8 +26011,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/README.md",
    "printed_pages": [
-    752,
-    752
+    753,
+    753
    ]
   },
   {
@@ -26021,8 +26020,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/§ 03601 - Findings.md",
    "printed_pages": [
-    752,
-    752
+    753,
+    753
    ]
   },
   {
@@ -26034,15 +26033,15 @@
      [
       [
        188,
-       "[Page 753]"
+       "[Page 754]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Indian Tribal Justice Support/§ 03602 - Definitions.md",
    "printed_pages": [
-    752,
-    753
+    753,
+    754
    ]
   },
   {
@@ -26050,8 +26049,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 001 (I) - Tribal Justice Systems/README.md",
    "printed_pages": [
-    753,
-    753
+    754,
+    754
    ]
   },
   {
@@ -26059,8 +26058,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 001 (I) - Tribal Justice Systems/§ 03611 - Office of Tribal Justice Support.md",
    "printed_pages": [
-    753,
-    753
+    754,
+    754
    ]
   },
   {
@@ -26069,14 +26068,14 @@
     [
      "L",
      14,
-     "[Page 754]",
+     "[Page 755]",
      true
     ]
    ],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 001 (I) - Tribal Justice Systems/§ 03612 - Survey of tribal judicial systems.md",
    "printed_pages": [
-    753,
-    754
+    754,
+    755
    ]
   },
   {
@@ -26088,15 +26087,15 @@
      [
       [
        106,
-       "[Page 755]"
+       "[Page 756]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 001 (I) - Tribal Justice Systems/§ 03613 - Base support funding for tribal justice systems.md",
    "printed_pages": [
-    754,
-    755
+    755,
+    756
    ]
   },
   {
@@ -26104,8 +26103,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 001 (I) - Tribal Justice Systems/§ 03614 - Tribal judicial conferences.md",
    "printed_pages": [
-    755,
-    755
+    756,
+    756
    ]
   },
   {
@@ -26113,8 +26112,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 002 (II) - Authorizations of Appropriations/README.md",
    "printed_pages": [
-    755,
-    755
+    756,
+    756
    ]
   },
   {
@@ -26122,8 +26121,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 002 (II) - Authorizations of Appropriations/§ 03621 - Tribal justice systems.md",
    "printed_pages": [
-    755,
-    755
+    756,
+    756
    ]
   },
   {
@@ -26131,8 +26130,8 @@
    "marks": [],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 003 (III) - Disclaimers/README.md",
    "printed_pages": [
-    755,
-    755
+    756,
+    756
    ]
   },
   {
@@ -26141,14 +26140,14 @@
     [
      "L",
      4,
-     "[Page 756]",
+     "[Page 757]",
      true
     ]
    ],
    "path": "Chapter 038 - Indian Tribal Justice Support/Subchapter 003 (III) - Disclaimers/§ 03631 - Tribal authority.md",
    "printed_pages": [
-    755,
-    756
+    756,
+    757
    ]
   },
   {
@@ -26156,8 +26155,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/README.md",
    "printed_pages": [
-    756,
-    756
+    757,
+    757
    ]
   },
   {
@@ -26165,8 +26164,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/§ 03651 - Findings.md",
    "printed_pages": [
-    756,
-    756
+    757,
+    757
    ]
   },
   {
@@ -26178,15 +26177,15 @@
      [
       [
        167,
-       "[Page 757]"
+       "[Page 758]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/§ 03652 - Purposes.md",
    "printed_pages": [
-    756,
-    757
+    757,
+    758
    ]
   },
   {
@@ -26194,8 +26193,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/§ 03653 - Definitions.md",
    "printed_pages": [
-    757,
-    757
+    758,
+    758
    ]
   },
   {
@@ -26203,8 +26202,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/README.md",
    "printed_pages": [
-    757,
-    757
+    758,
+    758
    ]
   },
   {
@@ -26212,8 +26211,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/§ 03661 - Tribal justice training and technical assistance grants.md",
    "printed_pages": [
-    757,
-    757
+    758,
+    758
    ]
   },
   {
@@ -26221,8 +26220,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/§ 03662 - Tribal civil legal assistance grants.md",
    "printed_pages": [
-    757,
-    757
+    758,
+    758
    ]
   },
   {
@@ -26230,8 +26229,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/§ 03663 - Tribal criminal assistance grants.md",
    "printed_pages": [
-    757,
-    757
+    758,
+    758
    ]
   },
   {
@@ -26243,15 +26242,15 @@
      [
       [
        135,
-       "[Page 758]"
+       "[Page 759]"
       ]
      ]
     ]
    ],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/§ 03664 - No offset.md",
    "printed_pages": [
-    757,
-    758
+    758,
+    759
    ]
   },
   {
@@ -26259,8 +26258,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/§ 03665 - Tribal authority.md",
    "printed_pages": [
-    758,
-    758
+    759,
+    759
    ]
   },
   {
@@ -26268,8 +26267,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 001 (I) - Training and Technical Assistance, Civil and Criminal Legal Assistance Grants/§ 03666 - Authorization of appropriations.md",
    "printed_pages": [
-    758,
-    758
+    759,
+    759
    ]
   },
   {
@@ -26277,8 +26276,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 002 (II) - Indian Tribal Courts/README.md",
    "printed_pages": [
-    758,
-    758
+    759,
+    759
    ]
   },
   {
@@ -26286,8 +26285,8 @@
    "marks": [],
    "path": "Chapter 038A - Indian Tribal Justice Technical and Legal Assistance/Subchapter 002 (II) - Indian Tribal Courts/§ 03681 - Grants.md",
    "printed_pages": [
-    758,
-    758
+    759,
+    759
    ]
   },
   {
@@ -26299,15 +26298,15 @@
      [
       [
        46,
-       "[Page 759]"
+       "[Page 760]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/README.md",
    "printed_pages": [
-    758,
-    759
+    759,
+    760
    ]
   },
   {
@@ -26315,8 +26314,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/§ 03701 - Findings.md",
    "printed_pages": [
-    759,
-    759
+    760,
+    760
    ]
   },
   {
@@ -26324,8 +26323,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/§ 03702 - Purposes.md",
    "printed_pages": [
-    759,
-    759
+    760,
+    760
    ]
   },
   {
@@ -26337,15 +26336,15 @@
      [
       [
        264,
-       "[Page 760]"
+       "[Page 761]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/§ 03703 - Definitions.md",
    "printed_pages": [
-    759,
-    760
+    760,
+    761
    ]
   },
   {
@@ -26353,8 +26352,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 001 (I) - Rangeland and Farmland Enhancement/README.md",
    "printed_pages": [
-    760,
-    760
+    761,
+    761
    ]
   },
   {
@@ -26366,15 +26365,15 @@
      [
       [
        178,
-       "[Page 761]"
+       "[Page 762]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 001 (I) - Rangeland and Farmland Enhancement/§ 03711 - Management of Indian rangelands and farmlands.md",
    "printed_pages": [
-    760,
-    761
+    761,
+    762
    ]
   },
   {
@@ -26382,8 +26381,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 001 (I) - Rangeland and Farmland Enhancement/§ 03712 - Indian participation in land management activities.md",
    "printed_pages": [
-    761,
-    761
+    762,
+    762
    ]
   },
   {
@@ -26395,15 +26394,15 @@
      [
       [
        135,
-       "[Page 762]"
+       "[Page 763]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 001 (I) - Rangeland and Farmland Enhancement/§ 03713 - Indian agricultural lands trespass.md",
    "printed_pages": [
-    761,
-    762
+    762,
+    763
    ]
   },
   {
@@ -26411,8 +26410,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 001 (I) - Rangeland and Farmland Enhancement/§ 03714 - Assessment of Indian agricultural management programs.md",
    "printed_pages": [
-    762,
-    762
+    763,
+    763
    ]
   },
   {
@@ -26424,15 +26423,15 @@
      [
       [
        92,
-       "[Page 763]"
+       "[Page 764]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 001 (I) - Rangeland and Farmland Enhancement/§ 03715 - Leasing of Indian agricultural lands.md",
    "printed_pages": [
-    762,
-    763
+    763,
+    764
    ]
   },
   {
@@ -26440,8 +26439,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 002 (II) - Education in Agriculture Management/README.md",
    "printed_pages": [
-    763,
-    763
+    764,
+    764
    ]
   },
   {
@@ -26453,27 +26452,27 @@
      [
       [
        92,
-       "[Page 764]"
+       "[Page 765]"
       ]
      ]
     ],
     [
      "L",
      136,
-     "[Page 765]",
+     "[Page 766]",
      true
     ],
     [
      "L",
      280,
-     "[Page 766]",
+     "[Page 767]",
      true
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 002 (II) - Education in Agriculture Management/§ 03731 - Indian and Alaska Native agriculture management education assistance programs.md",
    "printed_pages": [
-    763,
-    766
+    764,
+    767
    ]
   },
   {
@@ -26485,15 +26484,15 @@
      [
       [
        95,
-       "[Page 767]"
+       "[Page 768]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 002 (II) - Education in Agriculture Management/§ 03732 - Postgraduation recruitment, education and training programs.md",
    "printed_pages": [
-    766,
-    767
+    767,
+    768
    ]
   },
   {
@@ -26501,8 +26500,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 002 (II) - Education in Agriculture Management/§ 03733 - Cooperative agreement between Department of the Interior and Indian tribes.md",
    "printed_pages": [
-    767,
-    767
+    768,
+    768
    ]
   },
   {
@@ -26510,8 +26509,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 002 (II) - Education in Agriculture Management/§ 03734 - Obligated service; breach of contract.md",
    "printed_pages": [
-    767,
-    767
+    768,
+    768
    ]
   },
   {
@@ -26519,8 +26518,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/README.md",
    "printed_pages": [
-    767,
-    767
+    768,
+    768
    ]
   },
   {
@@ -26528,8 +26527,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/§ 03741 - Regulations.md",
    "printed_pages": [
-    767,
-    767
+    768,
+    768
    ]
   },
   {
@@ -26537,8 +26536,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/§ 03742 - Trust responsibility.md",
    "printed_pages": [
-    767,
-    767
+    768,
+    768
    ]
   },
   {
@@ -26550,15 +26549,15 @@
      [
       [
        96,
-       "[Page 768]"
+       "[Page 769]"
       ]
      ]
     ]
    ],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/§ 03743 - Severability.md",
    "printed_pages": [
-    767,
-    768
+    768,
+    769
    ]
   },
   {
@@ -26566,8 +26565,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/§ 03744 - Federal, State and local authority.md",
    "printed_pages": [
-    768,
-    768
+    769,
+    769
    ]
   },
   {
@@ -26575,8 +26574,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/§ 03745 - Authorization of appropriations.md",
    "printed_pages": [
-    768,
-    768
+    769,
+    769
    ]
   },
   {
@@ -26584,8 +26583,8 @@
    "marks": [],
    "path": "Chapter 039 - American Indian Agricultural Resource Management/Subchapter 003 (III) - General Provisions/§ 03746 - Tribal immunity.md",
    "printed_pages": [
-    768,
-    768
+    769,
+    769
    ]
   },
   {
@@ -26593,8 +26592,8 @@
    "marks": [],
    "path": "Chapter 040 - Indian Dams Safety/README.md",
    "printed_pages": [
-    768,
-    768
+    769,
+    769
    ]
   },
   {
@@ -26602,8 +26601,8 @@
    "marks": [],
    "path": "Chapter 040 - Indian Dams Safety/§ 03801 - Findings.md",
    "printed_pages": [
-    768,
-    768
+    769,
+    769
    ]
   },
   {
@@ -26611,8 +26610,8 @@
    "marks": [],
    "path": "Chapter 040 - Indian Dams Safety/§ 03802 - Definitions.md",
    "printed_pages": [
-    768,
-    768
+    769,
+    769
    ]
   },
   {
@@ -26624,21 +26623,21 @@
      [
       [
        131,
-       "[Page 769]"
+       "[Page 770]"
       ]
      ]
     ],
     [
      "L",
      86,
-     "[Page 770]",
+     "[Page 771]",
      true
     ]
    ],
    "path": "Chapter 040 - Indian Dams Safety/§ 03803 - Dam Safety Maintenance and Repair Program.md",
    "printed_pages": [
-    768,
-    770
+    769,
+    771
    ]
   },
   {
@@ -26646,8 +26645,8 @@
    "marks": [],
    "path": "Chapter 040 - Indian Dams Safety/§ 03804 - Authorization of appropriations.md",
    "printed_pages": [
-    770,
-    770
+    771,
+    771
    ]
   },
   {
@@ -26655,8 +26654,8 @@
    "marks": [],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/README.md",
    "printed_pages": [
-    770,
-    770
+    771,
+    771
    ]
   },
   {
@@ -26664,8 +26663,8 @@
    "marks": [],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03901 - Findings and purposes.md",
    "printed_pages": [
-    770,
-    770
+    771,
+    771
    ]
   },
   {
@@ -26674,14 +26673,14 @@
     [
      "L",
      22,
-     "[Page 771]",
+     "[Page 772]",
      true
     ]
    ],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03902 - Definitions.md",
    "printed_pages": [
-    770,
-    771
+    771,
+    772
    ]
   },
   {
@@ -26689,8 +26688,8 @@
    "marks": [],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03903 - Inventory of open dumps.md",
    "printed_pages": [
-    771,
-    771
+    772,
+    772
    ]
   },
   {
@@ -26702,15 +26701,15 @@
      [
       [
        89,
-       "[Page 772]"
+       "[Page 773]"
       ]
      ]
     ]
    ],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03904 - Authority of Director of Indian Health Service.md",
    "printed_pages": [
-    771,
-    772
+    772,
+    773
    ]
   },
   {
@@ -26718,8 +26717,8 @@
    "marks": [],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03905 - Contract authority.md",
    "printed_pages": [
-    772,
-    772
+    773,
+    773
    ]
   },
   {
@@ -26727,8 +26726,8 @@
    "marks": [],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03906 - Tribal demonstration project.md",
    "printed_pages": [
-    772,
-    772
+    773,
+    773
    ]
   },
   {
@@ -26736,8 +26735,8 @@
    "marks": [],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03907 - Authorization of appropriations.md",
    "printed_pages": [
-    772,
-    772
+    773,
+    773
    ]
   },
   {
@@ -26746,14 +26745,14 @@
     [
      "L",
      10,
-     "[Page 773]",
+     "[Page 774]",
      true
     ]
    ],
    "path": "Chapter 041 - Indian Lands Open Dump Cleanup/§ 03908 - Disclaimers.md",
    "printed_pages": [
-    772,
-    773
+    773,
+    774
    ]
   },
   {
@@ -26761,8 +26760,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/README.md",
    "printed_pages": [
-    773,
-    773
+    774,
+    774
    ]
   },
   {
@@ -26771,14 +26770,14 @@
     [
      "L",
      28,
-     "[Page 774]",
+     "[Page 775]",
      true
     ]
    ],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/§ 04001 - Definitions.md",
    "printed_pages": [
-    773,
-    774
+    774,
+    775
    ]
   },
   {
@@ -26786,8 +26785,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 001 (I) - Recognition of Trust Responsibility/README.md",
    "printed_pages": [
-    774,
-    774
+    775,
+    775
    ]
   },
   {
@@ -26795,8 +26794,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 001 (I) - Recognition of Trust Responsibility/§ 04011 - Responsibility of Secretary to account for daily and annual balances of Indian trust funds.md",
    "printed_pages": [
-    774,
-    774
+    775,
+    775
    ]
   },
   {
@@ -26804,8 +26803,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 001 (I) - Recognition of Trust Responsibility/§ 04012 - Authority for payment of claims for interest owed.md",
    "printed_pages": [
-    774,
-    774
+    775,
+    775
    ]
   },
   {
@@ -26813,8 +26812,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/README.md",
    "printed_pages": [
-    774,
-    774
+    775,
+    775
    ]
   },
   {
@@ -26822,8 +26821,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04021 - Purpose.md",
    "printed_pages": [
-    774,
-    774
+    775,
+    775
    ]
   },
   {
@@ -26832,14 +26831,14 @@
     [
      "L",
      24,
-     "[Page 775]",
+     "[Page 776]",
      true
     ]
    ],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04022 - Voluntary withdrawal from trust funds program.md",
    "printed_pages": [
-    774,
-    775
+    775,
+    776
    ]
   },
   {
@@ -26847,8 +26846,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04023 - Judgment funds.md",
    "printed_pages": [
-    775,
-    775
+    776,
+    776
    ]
   },
   {
@@ -26856,8 +26855,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04024 - Technical assistance.md",
    "printed_pages": [
-    775,
-    775
+    776,
+    776
    ]
   },
   {
@@ -26865,8 +26864,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04025 - Grant program.md",
    "printed_pages": [
-    775,
-    775
+    776,
+    776
    ]
   },
   {
@@ -26874,8 +26873,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04026 - Return of withdrawn funds.md",
    "printed_pages": [
-    775,
-    775
+    776,
+    776
    ]
   },
   {
@@ -26883,8 +26882,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04027 - Savings provision.md",
    "printed_pages": [
-    775,
-    775
+    776,
+    776
    ]
   },
   {
@@ -26892,8 +26891,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04028 - Report to Congress.md",
    "printed_pages": [
-    775,
-    775
+    776,
+    776
    ]
   },
   {
@@ -26902,14 +26901,14 @@
     [
      "L",
      6,
-     "[Page 776]",
+     "[Page 777]",
      true
     ]
    ],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 002 (II) - Indian Trust Fund Management Program/§ 04029 - Regulations.md",
    "printed_pages": [
-    775,
-    776
+    776,
+    777
    ]
   },
   {
@@ -26917,8 +26916,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/README.md",
    "printed_pages": [
-    776,
-    776
+    777,
+    777
    ]
   },
   {
@@ -26926,8 +26925,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/§ 04041 - Purposes.md",
    "printed_pages": [
-    776,
-    776
+    777,
+    777
    ]
   },
   {
@@ -26935,8 +26934,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/§ 04042 - Office of Special Trustee for American Indians.md",
    "printed_pages": [
-    776,
-    776
+    777,
+    777
    ]
   },
   {
@@ -26945,7 +26944,7 @@
     [
      "L",
      16,
-     "[Page 777]",
+     "[Page 778]",
      true
     ],
     [
@@ -26954,7 +26953,7 @@
      [
       [
        89,
-       "[Page 778]"
+       "[Page 779]"
       ]
      ]
     ],
@@ -26964,15 +26963,15 @@
      [
       [
        162,
-       "[Page 779]"
+       "[Page 780]"
       ]
      ]
     ]
    ],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/§ 04043 - Authorities and functions of Special Trustee.md",
    "printed_pages": [
-    776,
-    779
+    777,
+    780
    ]
   },
   {
@@ -26980,8 +26979,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/§ 04044 - Reconciliation report.md",
    "printed_pages": [
-    779,
-    779
+    780,
+    780
    ]
   },
   {
@@ -26989,8 +26988,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/§ 04045 - Staff and consultants.md",
    "printed_pages": [
-    779,
-    779
+    780,
+    780
    ]
   },
   {
@@ -27002,15 +27001,15 @@
      [
       [
        137,
-       "[Page 780]"
+       "[Page 781]"
       ]
      ]
     ]
    ],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 003 (III) - Special Trustee for American Indians/§ 04046 - Advisory board.md",
    "printed_pages": [
-    779,
-    780
+    780,
+    781
    ]
   },
   {
@@ -27018,8 +27017,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 004 (IV) - Authorization of Appropriations/README.md",
    "printed_pages": [
-    780,
-    780
+    781,
+    781
    ]
   },
   {
@@ -27027,8 +27026,8 @@
    "marks": [],
    "path": "Chapter 042 - American Indian Trust Fund Management Reform/Subchapter 004 (IV) - Authorization of Appropriations/§ 04061 - Authorization of appropriations.md",
    "printed_pages": [
-    780,
-    780
+    781,
+    781
    ]
   },
   {
@@ -27036,80 +27035,80 @@
    "marks": [
     [
      "I",
-     108,
+     96,
      [
       [
-       38,
-       "[Page 781]"
+       22,
+       "[Page 782]"
       ]
      ]
     ],
     [
      "I",
-     265,
+     255,
      [
       [
        31,
-       "[Page 782]"
+       "[Page 783]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/README.md",
    "printed_pages": [
-    780,
-    782
+    781,
+    783
    ]
   },
   {
    "id": "25_4101",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       740,
+       "[Page 784]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/§ 04101 - Congressional findings.md",
    "printed_pages": [
-    782,
-    782
+    783,
+    784
    ]
   },
   {
    "id": "25_4102",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 783]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/§ 04102 - Administration through Office of Native American Programs.md",
    "printed_pages": [
-    782,
-    783
+    784,
+    784
    ]
   },
   {
    "id": "25_4103",
    "marks": [
     [
-     "I",
-     100,
-     [
-      [
-       90,
-       "[Page 784]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 785]",
+     true
     ],
     [
      "L",
-     184,
-     "[Page 785]",
+     174,
+     "[Page 786]",
      true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/§ 04103 - Definitions.md",
    "printed_pages": [
-    783,
-    785
+    784,
+    786
    ]
   },
   {
@@ -27117,19 +27116,19 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       172,
-       "[Page 786]"
+       91,
+       "[Page 787]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/§ 04104 - Waiver of matching funds requirements in Indian housing programs.md",
    "printed_pages": [
-    785,
-    786
+    786,
+    787
    ]
   },
   {
@@ -27137,50 +27136,50 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/README.md",
    "printed_pages": [
-    786,
-    786
+    787,
+    787
    ]
   },
   {
    "id": "25_4111",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 787]",
-     true
+     "I",
+     40,
+     [
+      [
+       95,
+       "[Page 788]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04111 - Block grants.md",
    "printed_pages": [
-    786,
-    787
+    787,
+    788
    ]
   },
   {
    "id": "25_4112",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       93,
-       "[Page 788]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 789]",
+     true
     ],
     [
      "L",
-     82,
-     "[Page 789]",
+     76,
+     "[Page 790]",
      true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04112 - Indian housing plans.md",
    "printed_pages": [
-    787,
-    789
+    788,
+    790
    ]
   },
   {
@@ -27188,19 +27187,19 @@
    "marks": [
     [
      "I",
-     10,
+     6,
      [
       [
-       186,
-       "[Page 790]"
+       231,
+       "[Page 791]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04113 - Review of plans.md",
    "printed_pages": [
-    789,
-    790
+    790,
+    791
    ]
   },
   {
@@ -27208,39 +27207,35 @@
    "marks": [
     [
      "I",
-     36,
+     32,
      [
       [
-       186,
-       "[Page 791]"
+       820,
+       "[Page 792]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04114 - Treatment of program income and labor standards.md",
    "printed_pages": [
-    790,
-    791
+    791,
+    792
    ]
   },
   {
    "id": "25_4115",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       190,
-       "[Page 792]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 793]",
+     true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04115 - Environmental review.md",
    "printed_pages": [
-    791,
-    792
+    792,
+    793
    ]
   },
   {
@@ -27248,19 +27243,19 @@
    "marks": [
     [
      "I",
-     52,
+     50,
      [
       [
-       174,
-       "[Page 793]"
+       115,
+       "[Page 794]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04116 - Regulations.md",
    "printed_pages": [
-    792,
-    793
+    793,
+    794
    ]
   },
   {
@@ -27268,8 +27263,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 001 (I) - Block Grants and Grant Requirements/§ 04117 - Authorization of appropriations.md",
    "printed_pages": [
-    793,
-    793
+    794,
+    794
    ]
   },
   {
@@ -27277,28 +27272,24 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/README.md",
    "printed_pages": [
-    793,
-    793
+    794,
+    794
    ]
   },
   {
    "id": "25_4131",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       186,
-       "[Page 794]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 795]",
+     true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04131 - National objectives and eligible families.md",
    "printed_pages": [
-    793,
-    794
+    794,
+    795
    ]
   },
   {
@@ -27309,41 +27300,41 @@
      32,
      [
       [
-       444,
-       "[Page 795]"
+       97,
+       "[Page 796]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04132 - Eligible affordable housing activities.md",
    "printed_pages": [
-    794,
-    795
+    795,
+    796
    ]
   },
   {
    "id": "25_4133",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     42,
+     "[Page 797]",
+     true
+    ]
+   ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04133 - Program requirements.md",
    "printed_pages": [
-    795,
-    795
+    796,
+    797
    ]
   },
   {
    "id": "25_4134",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 796]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04134 - Types of investments.md",
    "printed_pages": [
-    795,
-    796
+    797,
+    797
    ]
   },
   {
@@ -27351,8 +27342,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04135 - Low-income requirement and income targeting.md",
    "printed_pages": [
-    796,
-    796
+    797,
+    797
    ]
   },
   {
@@ -27360,24 +27351,28 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04136 - Repealed. Pub. L. 106–568, title X, §1003(k)(2), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, §503(j)(2), Dec. 27, 2000….md",
    "printed_pages": [
-    796,
-    796
+    797,
+    797
    ]
   },
   {
    "id": "25_4137",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 797]",
-     true
+     "I",
+     12,
+     [
+      [
+       98,
+       "[Page 798]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04137 - Lease requirements and tenant selection.md",
    "printed_pages": [
-    796,
-    797
+    797,
+    798
    ]
   },
   {
@@ -27385,8 +27380,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04138 - Availability of records.md",
    "printed_pages": [
-    797,
-    797
+    798,
+    798
    ]
   },
   {
@@ -27394,19 +27389,19 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       161,
-       "[Page 798]"
+       156,
+       "[Page 799]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04139 - Noncompliance with affordable housing requirement.md",
    "printed_pages": [
-    797,
-    798
+    798,
+    799
    ]
   },
   {
@@ -27414,8 +27409,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 002 (II) - Affordable Housing Activities/§ 04140 - Continued use of amounts for affordable housing.md",
    "printed_pages": [
-    798,
-    798
+    799,
+    799
    ]
   },
   {
@@ -27423,8 +27418,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 003 (III) - Allocation of Grant Amounts/README.md",
    "printed_pages": [
-    798,
-    798
+    799,
+    799
    ]
   },
   {
@@ -27432,8 +27427,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 003 (III) - Allocation of Grant Amounts/§ 04151 - Annual allocation.md",
    "printed_pages": [
-    798,
-    798
+    799,
+    799
    ]
   },
   {
@@ -27444,16 +27439,16 @@
      30,
      [
       [
-       439,
-       "[Page 799]"
+       93,
+       "[Page 800]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 003 (III) - Allocation of Grant Amounts/§ 04152 - Allocation formula.md",
    "printed_pages": [
-    798,
-    799
+    799,
+    800
    ]
   },
   {
@@ -27461,8 +27456,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/README.md",
    "printed_pages": [
-    799,
-    799
+    800,
+    800
    ]
   },
   {
@@ -27470,25 +27465,25 @@
    "marks": [
     [
      "I",
-     24,
+     18,
      [
       [
-       95,
-       "[Page 800]"
+       96,
+       "[Page 801]"
       ]
      ]
     ],
     [
      "L",
-     102,
-     "[Page 801]",
+     96,
+     "[Page 802]",
      true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04161 - Remedies for noncompliance.md",
    "printed_pages": [
-    799,
-    801
+    800,
+    802
    ]
   },
   {
@@ -27496,8 +27491,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04162 - Replacement of recipient.md",
    "printed_pages": [
-    801,
-    801
+    802,
+    802
    ]
   },
   {
@@ -27508,16 +27503,16 @@
      8,
      [
       [
-       231,
-       "[Page 802]"
+       91,
+       "[Page 803]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04163 - Monitoring of compliance.md",
    "printed_pages": [
-    801,
-    802
+    802,
+    803
    ]
   },
   {
@@ -27525,8 +27520,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04164 - Performance reports.md",
    "printed_pages": [
-    802,
-    802
+    803,
+    803
    ]
   },
   {
@@ -27538,15 +27533,15 @@
      [
       [
        189,
-       "[Page 803]"
+       "[Page 804]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04165 - Review and audit by Secretary.md",
    "printed_pages": [
-    802,
-    803
+    803,
+    804
    ]
   },
   {
@@ -27554,8 +27549,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04166 - GAO audits.md",
    "printed_pages": [
-    803,
-    803
+    804,
+    804
    ]
   },
   {
@@ -27563,8 +27558,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04167 - Reports to Congress.md",
    "printed_pages": [
-    803,
-    803
+    804,
+    804
    ]
   },
   {
@@ -27572,8 +27567,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 004 (IV) - Compliance, Audits, and Reports/§ 04168 - Public availability of information.md",
    "printed_pages": [
-    803,
-    803
+    804,
+    804
    ]
   },
   {
@@ -27581,8 +27576,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 005 (V) - Termination of Assistance for Indian Tribes under Incorporated Programs/README.md",
    "printed_pages": [
-    803,
-    803
+    804,
+    804
    ]
   },
   {
@@ -27594,15 +27589,15 @@
      [
       [
        161,
-       "[Page 804]"
+       "[Page 805]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 005 (V) - Termination of Assistance for Indian Tribes under Incorporated Programs/§ 04181 - Termination of Indian housing assistance under United States Housing Act of 1937.md",
    "printed_pages": [
-    803,
-    804
+    804,
+    805
    ]
   },
   {
@@ -27610,8 +27605,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 005 (V) - Termination of Assistance for Indian Tribes under Incorporated Programs/§ 04182 - Termination of new commitments for rental assistance.md",
    "printed_pages": [
-    804,
-    804
+    805,
+    805
    ]
   },
   {
@@ -27623,15 +27618,15 @@
      [
       [
        100,
-       "[Page 805]"
+       "[Page 806]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 005 (V) - Termination of Assistance for Indian Tribes under Incorporated Programs/§ 04183 - Savings provision.md",
    "printed_pages": [
-    804,
-    805
+    805,
+    806
    ]
   },
   {
@@ -27639,8 +27634,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 006 (VI) - Federal Guarantees for Financing for Tribal Housing Activities/README.md",
    "printed_pages": [
-    805,
-    805
+    806,
+    806
    ]
   },
   {
@@ -27648,8 +27643,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 006 (VI) - Federal Guarantees for Financing for Tribal Housing Activities/§ 04191 - Authority and requirements.md",
    "printed_pages": [
-    805,
-    805
+    806,
+    806
    ]
   },
   {
@@ -27661,15 +27656,15 @@
      [
       [
        185,
-       "[Page 806]"
+       "[Page 807]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 006 (VI) - Federal Guarantees for Financing for Tribal Housing Activities/§ 04192 - Security and repayment.md",
    "printed_pages": [
-    805,
-    806
+    806,
+    807
    ]
   },
   {
@@ -27677,8 +27672,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 006 (VI) - Federal Guarantees for Financing for Tribal Housing Activities/§ 04193 - Payment of interest.md",
    "printed_pages": [
-    806,
-    806
+    807,
+    807
    ]
   },
   {
@@ -27686,8 +27681,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 006 (VI) - Federal Guarantees for Financing for Tribal Housing Activities/§ 04194 - Training and information.md",
    "printed_pages": [
-    806,
-    806
+    807,
+    807
    ]
   },
   {
@@ -27695,8 +27690,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 006 (VI) - Federal Guarantees for Financing for Tribal Housing Activities/§ 04195 - Limitations on amount of guarantees.md",
    "printed_pages": [
-    806,
-    806
+    807,
+    807
    ]
   },
   {
@@ -27704,8 +27699,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 007 (VII) - Other Housing Assistance for Native Americans/README.md",
    "printed_pages": [
-    806,
-    806
+    807,
+    807
    ]
   },
   {
@@ -27717,15 +27712,15 @@
      [
       [
        235,
-       "[Page 807]"
+       "[Page 808]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 007 (VII) - Other Housing Assistance for Native Americans/§ 04211 - 50-year leasehold interest in trust or restricted lands for housing purposes.md",
    "printed_pages": [
-    806,
-    807
+    807,
+    808
    ]
   },
   {
@@ -27733,8 +27728,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 007 (VII) - Other Housing Assistance for Native Americans/§ 04212 - Training and technical assistance.md",
    "printed_pages": [
-    807,
-    807
+    808,
+    808
    ]
   },
   {
@@ -27742,8 +27737,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/README.md",
    "printed_pages": [
-    807,
-    807
+    808,
+    808
    ]
   },
   {
@@ -27752,20 +27747,20 @@
     [
      "L",
      66,
-     "[Page 808]",
+     "[Page 809]",
      true
     ],
     [
      "L",
      140,
-     "[Page 809]",
+     "[Page 810]",
      true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04221 - Definitions.md",
    "printed_pages": [
-    807,
-    809
+    808,
+    810
    ]
   },
   {
@@ -27777,15 +27772,15 @@
      [
       [
        176,
-       "[Page 810]"
+       "[Page 811]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04222 - Block grants for affordable housing activities.md",
    "printed_pages": [
-    809,
-    810
+    810,
+    811
    ]
   },
   {
@@ -27794,7 +27789,7 @@
     [
      "L",
      86,
-     "[Page 811]",
+     "[Page 812]",
      true
     ],
     [
@@ -27803,15 +27798,15 @@
      [
       [
        128,
-       "[Page 812]"
+       "[Page 813]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04223 - Housing plan.md",
    "printed_pages": [
-    810,
-    812
+    811,
+    813
    ]
   },
   {
@@ -27823,15 +27818,15 @@
      [
       [
        95,
-       "[Page 813]"
+       "[Page 814]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04224 - Review of plans.md",
    "printed_pages": [
-    812,
-    813
+    813,
+    814
    ]
   },
   {
@@ -27839,8 +27834,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04225 - Treatment of program income and labor standards.md",
    "printed_pages": [
-    813,
-    813
+    814,
+    814
    ]
   },
   {
@@ -27852,15 +27847,15 @@
      [
       [
        308,
-       "[Page 814]"
+       "[Page 815]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04226 - Environmental review.md",
    "printed_pages": [
-    813,
-    814
+    814,
+    815
    ]
   },
   {
@@ -27868,8 +27863,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04227 - Regulations.md",
    "printed_pages": [
-    814,
-    814
+    815,
+    815
    ]
   },
   {
@@ -27881,15 +27876,15 @@
      [
       [
        90,
-       "[Page 815]"
+       "[Page 816]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04228 - Affordable housing activities.md",
    "printed_pages": [
-    814,
-    815
+    815,
+    816
    ]
   },
   {
@@ -27901,15 +27896,15 @@
      [
       [
        143,
-       "[Page 816]"
+       "[Page 817]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04229 - Eligible affordable housing activities.md",
    "printed_pages": [
-    815,
-    816
+    816,
+    817
    ]
   },
   {
@@ -27917,8 +27912,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04230 - Program requirements.md",
    "printed_pages": [
-    816,
-    816
+    817,
+    817
    ]
   },
   {
@@ -27930,15 +27925,15 @@
      [
       [
        108,
-       "[Page 817]"
+       "[Page 818]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04231 - Types of investments.md",
    "printed_pages": [
-    816,
-    817
+    817,
+    818
    ]
   },
   {
@@ -27946,8 +27941,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04232 - Low-income requirement and income targeting.md",
    "printed_pages": [
-    817,
-    817
+    818,
+    818
    ]
   },
   {
@@ -27959,15 +27954,15 @@
      [
       [
        116,
-       "[Page 818]"
+       "[Page 819]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04233 - Lease requirements and tenant selection.md",
    "printed_pages": [
-    817,
-    818
+    818,
+    819
    ]
   },
   {
@@ -27975,8 +27970,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04234 - Repayment.md",
    "printed_pages": [
-    818,
-    818
+    819,
+    819
    ]
   },
   {
@@ -27984,8 +27979,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04235 - Annual allocation.md",
    "printed_pages": [
-    818,
-    818
+    819,
+    819
    ]
   },
   {
@@ -27993,8 +27988,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04236 - Allocation formula.md",
    "printed_pages": [
-    818,
-    818
+    819,
+    819
    ]
   },
   {
@@ -28006,15 +28001,15 @@
      [
       [
        275,
-       "[Page 819]"
+       "[Page 820]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04237 - Remedies for noncompliance.md",
    "printed_pages": [
-    818,
-    819
+    819,
+    820
    ]
   },
   {
@@ -28026,15 +28021,15 @@
      [
       [
        90,
-       "[Page 820]"
+       "[Page 821]"
       ]
      ]
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04238 - Monitoring of compliance.md",
    "printed_pages": [
-    819,
-    820
+    820,
+    821
    ]
   },
   {
@@ -28042,8 +28037,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04239 - Performance reports.md",
    "printed_pages": [
-    820,
-    820
+    821,
+    821
    ]
   },
   {
@@ -28052,14 +28047,14 @@
     [
      "L",
      16,
-     "[Page 821]",
+     "[Page 822]",
      true
     ]
    ],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04240 - Review and audit by Secretary.md",
    "printed_pages": [
-    820,
-    821
+    821,
+    822
    ]
   },
   {
@@ -28067,8 +28062,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04241 - General Accounting Office audits.md",
    "printed_pages": [
-    821,
-    821
+    822,
+    822
    ]
   },
   {
@@ -28076,8 +28071,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04242 - Reports to Congress.md",
    "printed_pages": [
-    821,
-    821
+    822,
+    822
    ]
   },
   {
@@ -28085,8 +28080,8 @@
    "marks": [],
    "path": "Chapter 043 - Native American Housing Assistance and Self-Determination/Subchapter 008 (VIII) - Housing Assistance for Native Hawaiians/§ 04243 - Authorization of appropriations.md",
    "printed_pages": [
-    821,
-    821
+    822,
+    822
    ]
   },
   {
@@ -28098,15 +28093,15 @@
      [
       [
        32,
-       "[Page 822]"
+       "[Page 823]"
       ]
      ]
     ]
    ],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/README.md",
    "printed_pages": [
-    821,
-    822
+    822,
+    823
    ]
   },
   {
@@ -28115,20 +28110,20 @@
     [
      "L",
      74,
-     "[Page 823]",
+     "[Page 824]",
      true
     ],
     [
      "L",
      228,
-     "[Page 824]",
+     "[Page 825]",
      true
     ]
    ],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04301 - Findings; purposes.md",
    "printed_pages": [
-    822,
-    824
+    823,
+    825
    ]
   },
   {
@@ -28137,14 +28132,14 @@
     [
      "L",
      64,
-     "[Page 825]",
+     "[Page 826]",
      true
     ]
    ],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04302 - Definitions.md",
    "printed_pages": [
-    824,
-    825
+    825,
+    826
    ]
   },
   {
@@ -28152,8 +28147,8 @@
    "marks": [],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04303 - Office of Native American Business Development.md",
    "printed_pages": [
-    825,
-    825
+    826,
+    826
    ]
   },
   {
@@ -28162,14 +28157,14 @@
     [
      "L",
      22,
-     "[Page 826]",
+     "[Page 827]",
      true
     ]
    ],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04304 - Native American trade and export promotion.md",
    "printed_pages": [
-    825,
-    826
+    826,
+    827
    ]
   },
   {
@@ -28178,14 +28173,14 @@
     [
      "L",
      58,
-     "[Page 827]",
+     "[Page 828]",
      true
     ]
    ],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04305 - Intertribal tourism demonstration projects.md",
    "printed_pages": [
-    826,
-    827
+    827,
+    828
    ]
   },
   {
@@ -28193,8 +28188,8 @@
    "marks": [],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04306 - Report to Congress.md",
    "printed_pages": [
-    827,
-    827
+    828,
+    828
    ]
   },
   {
@@ -28202,11 +28197,11 @@
    "marks": [],
    "path": "Chapter 044 - Native American Business Development, Trade Promotion, and Tourism/§ 04307 - Authorization of appropriations.md",
    "printed_pages": [
-    827,
-    827
+    828,
+    828
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2002-title25 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2003-title25 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 25 - Indians"
 }

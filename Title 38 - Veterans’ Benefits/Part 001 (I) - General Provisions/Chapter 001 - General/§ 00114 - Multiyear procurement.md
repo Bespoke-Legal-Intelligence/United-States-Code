@@ -26,7 +26,7 @@
 
 &emsp;(5) The use of a multiyear contract will not inhibit small business concerns in competing for the contract.
 
-&emsp;(6) In the case of the procurement of a pharmaceutical item for which a patent has expired less than four years before the date on which the solicitation of offers is issued, there is no substantial likelihood that increased competition among potential contractorswould occur during the term of the contract as the result of the availability of generic equivalents increasing during the term of the contract.
+&emsp;(6) In the case of the procurement of a pharmaceutical item for which a patent has expired less than four years before the date on which the solicitation of offers is issued, there is no substantial likelihood that increased competition among potential contractors would occur during the term of the contract as the result of the availability of generic equivalents increasing during the term of the contract.
 
 (b)(1) A multiyear contract authorized by this section shall contain—
 

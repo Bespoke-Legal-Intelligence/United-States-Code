@@ -12,5 +12,5 @@ Keeping of records by district court clerks and magistrate judges, rule 55.
 
 #### Change of Name
 
-Words “magistrate judges” substituted for “magistrates” in text pursuant to section 321 of Pub. L.101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judges” substituted for “magistrates” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

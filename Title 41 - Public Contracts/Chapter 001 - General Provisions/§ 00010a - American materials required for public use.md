@@ -2,7 +2,7 @@
 
 Notwithstanding any other provision of law, and unless the head of the department or independent establishment concerned shall determine it to be inconsistent with the public interest, or the cost to be unreasonable, only such unmanufactured articles, materials, and supplies as have been mined or produced in the United States, and only such manufactured articles, materials, and supplies as have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States, shall be acquired for public use. This section shall not apply with respect to articles, materials, or supplies for use outside the United States, or if articles, materials, or supplies of the class or kind to be used or the articles, materials, or supplies from which they are manufactured are not mined, produced, or manufactured, as the case may be, in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality. This section shall not apply to manufactured articles, materials, or supplies procured under any contract the award value of which is less than or equal to the micro-purchase threshold under section 428 of this title.
 
-(Mar. 3, 1933, ch. 212, title III, §2, 47 Stat. 1520; Pub. L. 100–418, title VII, §7005(b), Aug. 23, 1988,102 Stat. 1553; Pub. L. 103–355, title IV, §4301(b), Oct. 13, 1994, 108 Stat. 3347.)
+(Mar. 3, 1933, ch. 212, title III, §2, 47 Stat. 1520; Pub. L. 100–418, title VII, §7005(b), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–355, title IV, §4301(b), Oct. 13, 1994, 108 Stat. 3347.)
 
 #### Amendments
 

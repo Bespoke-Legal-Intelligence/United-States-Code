@@ -56,7 +56,7 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 (b) All functions of the International Claims Commission of the United States (hereinafter referred to as the International Claims Commission) and the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
-(c) The functions of the Secretary of State and of the Department of State with respect to the International Claims Commission and its affairs, exclusive of the functions of the said Secretary and Department under sections 3(c), 4(b), and 5, and the first sentence of section 8(d), of the International Claims Settlement Act of 1949, 64 Stat. 12, as amended \[22 U.S.C. 1622(c), 1623(b), 1624, and 1627(d)\], are hereby transferred to the Commission.
+(c) The functions of the Secretary of State and of the Department of State with respect to the International Claims Commission and its affairs, exclusive of thefunctions of the said Secretary and Department under sections 3(c), 4(b), and 5, and the first sentence of section 8(d), of the International Claims Settlement Act of 1949, 64 Stat. 12, as amended \[22 U.S.C. 1622(c), 1623(b), 1624, and 1627(d)\], are hereby transferred to the Commission.
 
 (d) The functions of the Commissioner provided for in the Joint Resolution approved August 4, 1939, ch. 421, 53 Stat. 1199, together with the functions of the Secretary of State under section 2 thereof, are hereby transferred to the Commission.
 
@@ -78,7 +78,7 @@ The Commission is hereby authorized to delegate any of its functions to one or m
 
 (a) Any person who is a member or acting member of the War Claims Commission or of the International Claims Commission immediately prior to the taking effect of the provisions of this reorganization plan may be designated by the President as an acting member of the Foreign Claims Settlement Commission of the United States in respect of an office of member the initial appointment to which has not then been made under section 1 of this reorganization plan. Each such acting member of the said Foreign Claims Settlement Commission shall perform the duties and receive the compensation of member. Unless sooner terminated, the tenure of any acting member designated hereunder shall terminate when the office of member concerned is filled in pursuance of section 1 hereof, or 120 days after the effective date of this reorganization plan, whichever is earlier.
 
-(b) The Chairman shall make such provisions as may be necessary with respect to winding up any affairs ofthe agencies abolished by the provisions of this reorganization plan not otherwise provided for herein.
+(b) The Chairman shall make such provisions as may be necessary with respect to winding up any affairs of the agencies abolished by the provisions of this reorganization plan not otherwise provided for herein.
 
 (c) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by section 2 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Commission at such time or times as the said Director shall direct.
 

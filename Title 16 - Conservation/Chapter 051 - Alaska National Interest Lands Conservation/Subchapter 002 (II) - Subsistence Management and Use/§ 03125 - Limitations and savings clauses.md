@@ -44,7 +44,7 @@ The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9,
 
 #### Effective and Termination Dates of 1997 Amendment
 
-Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L.105–83 was effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
+Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
 #### Effective Date of 1996 Amendment
 

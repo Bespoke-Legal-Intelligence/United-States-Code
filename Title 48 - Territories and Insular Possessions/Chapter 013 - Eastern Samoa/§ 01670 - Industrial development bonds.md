@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-The legislature of the government of American Samoa may cause to be issued after September 20, 1984, industrial development bonds\(within the meaning of section 103(b)(2) <sup>1</sup> of title 26).
+The legislature of the government of American Samoa may cause to be issued after September 20, 1984, industrial development bonds (within the meaning of section 103(b)(2) <sup>1</sup> of title 26).
 
 #### (b) Exemption from taxation; “State” defined
 

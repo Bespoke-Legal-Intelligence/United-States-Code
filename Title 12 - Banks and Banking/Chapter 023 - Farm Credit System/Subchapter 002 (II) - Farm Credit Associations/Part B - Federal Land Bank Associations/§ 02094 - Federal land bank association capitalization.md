@@ -1,6 +1,6 @@
 ### §2094. Federal land bank association capitalization
 
-In accordance with section 2154a of this title, the Federal land bank association shall provide, through its bylaws and subject to Farm CreditAdministration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and its earnings distributed.
+In accordance with section 2154a of this title, the Federal land bank association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and its earnings distributed.
 
 (Pub. L. 92–181, title II, §2.13, as added Pub. L. 100–233, title IV, §401, Jan. 6, 1988, 101 Stat. 1636.)
 

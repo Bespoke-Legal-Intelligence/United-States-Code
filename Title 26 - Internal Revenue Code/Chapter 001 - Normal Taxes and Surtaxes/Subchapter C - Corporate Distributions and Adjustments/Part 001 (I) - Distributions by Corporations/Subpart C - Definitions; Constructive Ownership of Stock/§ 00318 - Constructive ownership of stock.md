@@ -116,7 +116,7 @@ Subsec. (b)(4). Pub. L. 98–369, §712(k)(5)(E), substituted “section 338(h)(
 
 1982—Subsec. (b)(4). Pub. L. 97–248 substituted “section 338(h)(3)(B) (relating to purchase of stock from subsidiaries, etc.)” for “section 334(b)(3)(C) (relating to basis of property received in certain liquidations of subsidiaries)”.
 
-1964—Subsec. (a). Pub. L. 88–554, §4(a), struck out sidewise attribution by providing that when stock isattributed to a partnership, estate, trust, or corporation from a partner, shareholder, or beneficiary, this stock is not to be attributed again to another partner, beneficiary, or shareholder.
+1964—Subsec. (a). Pub. L. 88–554, §4(a), struck out sidewise attribution by providing that when stock is attributed to a partnership, estate, trust, or corporation from a partner, shareholder, or beneficiary, this stock is not to be attributed again to another partner, beneficiary, or shareholder.
 
 Subsec. (b)(7), (8). Pub. L. 88–554, §4(b)(2), added par. (7) and redesignated former par. (7) as (8).
 

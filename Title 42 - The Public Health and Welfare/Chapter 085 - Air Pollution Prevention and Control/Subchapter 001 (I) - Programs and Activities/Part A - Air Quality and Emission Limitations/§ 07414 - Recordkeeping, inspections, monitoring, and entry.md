@@ -4,7 +4,7 @@
 
 For the purpose (i) of developing or assisting in the development of any implementation plan under section 7410 or section 7411(d) of this title, any standard of performance under section 7411 of this title, any emission standard under section 7412 of this title,,<sup>1</sup> or any regulation of solid waste combustion under section 7429 of this title, or any regulation under section 7429 of this title (relating to solid waste combustion), (ii) of determining whether any person is in violation of any such standard or any requirement of such a plan, or (iii) carrying out any provision of this chapter (except a provision of subchapter II of this chapter with respect to a manufacturer of new motor vehicles or new motor vehicle engines)—
 
-&emsp;(1) the Administrator may require any person who owns or operates any emission source,who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
+&emsp;(1) the Administrator may require any person who owns or operates any emission source, who manufactures emission control equipment or process equipment, who the Administrator believes may have information necessary for the purposes set forth in this subsection, or who is subject to any requirement of this chapter (other than a manufacturer subject to the provisions of section 7525(c) or 7542 of this title with respect to a provision of subchapter II of this chapter) on a one-time, periodic or continuous basis to—
 
 &emsp;&emsp;(A) establish and maintain such records;
 
@@ -36,7 +36,7 @@ For the purpose (i) of developing or assisting in the development of any impleme
 
 #### (c) Availability of records, reports, and information to public; disclosure of trade secrets
 
-Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
+Any records, reports or information obtained under subsection (a) of this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that records, reports, or information, or particular part thereof, (other than emission data) to which the Administrator has access under this section if made public, would divulge methods or processes entitled to protection as trade secrets of such person, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of section 1905 of title 18, except that such record, report, or information may be disclosed to other officers, employees, or authorized representatives of theUnited States concerned with carrying out this chapter or when relevant in any proceeding under this chapter.
 
 #### (d) Notice of proposed entry, inspection, or monitoring
 
@@ -88,7 +88,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, orother actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -17,6 +17,7 @@
 | [2563\.](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md) | Articles and services of industrial facilities: sale to persons outside the Department of Defense. |
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
 | [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
+| [2566\.](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md) | Space and services: provision to military welfare societies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,9 +27,11 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 #### Amendments
 
+2002—Pub. L. 107–314, div. A, title X, §1066(b), Dec. 2, 2002, 116 Stat. 2656, added item 2566.
+
 2001—Pub. L. 107–107, div. A, title III, §361(b)(2), title XII, §1201(a)(2), Dec. 28, 2001, 115 Stat. 1065, 1245, substituted “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” for “Excess nonlethal supplies: humanitarian relief” in item 2557 and substituted “2565.” for “2555.” in item 2565.
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
 
 1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, §367(b). See 1996 Amendment note below.
 
@@ -42,7 +45,7 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 
 1992—Pub. L. 102–484, div. A, title III, §304(c)(2), div. D, title XLIII, §4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 
-1991—Pub. L. 102–190, div. A, title VIII, §821(e)(1), (2), Dec. 5, 1991, 105 Stat. 1431, substituted “152” for “150” as chapter number, “ISSUE OF SUPPLIES, SERVICES, AND FACILITIES” for “ISSUE TO ARMED FORCES” as chapter heading, added subchapter analysis and subchapter I heading, renumbered item 2521 as 2540, and substituted subchapter II heading for former chapter 151 heading “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO ARMED FORCES”.
+1991—Pub. L. 102–190, div. A, title VIII, §821(e)(1), (2), Dec. 5, 1991, 105 Stat. 1431, substituted “152” for “150” as chapter number, “ISSUE OF SUPPLIES, SERVICES, AND FACILITIES” for “ISSUE TO ARMED FORCES” as chapter heading, added subchapter analysis and subchapter I heading, renumbered item 2521 as 2540, and substituted subchapter II heading for formerchapter 151 heading “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO ARMED FORCES”.
 
 1990—Pub. L. 101–510, div. A, title VIII, §823(a)(1), (b)(2), title XIV, §1481(f)(2), (g)(2), Nov. 5, 1990, 104 Stat. 1600, 1602, 1707, substituted “150” for “149” as chapter number, renumbered item 2511 as 2521, and added items 2549 and 2550.
 
@@ -78,3 +81,4 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02563 - Articles and services of industrial facilities sale to persons outside the Department of Defense](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md)
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
 - [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
+- [&sect; 02566 - Space and services provision to military welfare societies](%C2%A7%2002566%20-%20Space%20and%20services%20provision%20to%20military%20welfare%20societies.md)

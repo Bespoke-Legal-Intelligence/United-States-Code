@@ -2,7 +2,7 @@
 
 (a)
 
-Office for Missing Personnel.—(1) The Secretary of Defense shall establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy relating to missing persons. Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the office shall include—
+Office for Missing Personnel.—(1) The Secretary of Defense shall establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy relating to missing persons. Such office shall be known as the Defense Prisoner of War/Missing Personnel Office. Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the office shall include—
 
 &emsp;(A) policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons (including matters related to search, rescue, escape, and evasion); and
 
@@ -13,6 +13,12 @@ Office for Missing Personnel.—(1) The Secretary of Defense shall establish wit
 (3) The office shall establish policies, which shall apply uniformly throughout the Department of Defense, for personnel recovery (including search, rescue, escape, and evasion).
 
 (4) The office shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.
+
+(5)(A) The Secretary of Defense shall ensure that the office is provided sufficient military and civilian personnel, and sufficient funding, to enable the office to fully perform the complete range of missions of the office. The Secretary shall ensure that Department of Defense programming, planning, and budgeting procedures are structured so as to ensure compliance with the preceding sentence for each fiscal year.
+
+(B) For any fiscal year, the number of military and civilian personnel assigned or detailed to the office may not be less than the number requested in the President's budget for fiscal year 2003, unless a level below such number is expressly required by law.
+
+(C) For any fiscal year, the level of funding allocated to the office within the Department of Defense may not be below the level requested for such purposes in the President's budget for fiscal year 2003, unless such a level of funding is expressly required by law.
 
 (b)
 
@@ -26,7 +32,7 @@ Uniform DoD Procedures.—(1) The Secretary of Defense shall prescribe procedure
 
 (3) Such procedures shall be prescribed in a single directive applicable to all elements of the Department of Defense.
 
-(4) As part of such procedures, the Secretary may provide for the extension, on a case-by-casebasis, of any time limit specified in section 1502, 1503, or 1504 of this title. Any such extension may not be for a period in excess of the period with respect to which the extension is provided. Subsequent extensions may be provided on the same basis.
+(4) As part of such procedures, the Secretary may provide for the extension, on a case-by-case basis, of any time limit specified in section 1502, 1503, or 1504 of this title. Any such extension may not be for a period in excess of the period with respect to which the extension is provided. Subsequent extensions may be provided on the same basis.
 
 (c)
 
@@ -36,7 +42,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 &emsp;(B) whose status is undetermined or who is unaccounted for.
 
-(2) Section 1502 of this title applies in the case of any other person who is a citizen of the United States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
+(2) Section 1502 of this title applies in the case of any other person who is a citizen of theUnited States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
 
 &emsp;(A) who serves in direct support of, or accompanies, the armed forces in the field under orders and becomes involuntarily absent as a result of a hostile action or under circumstances suggesting that the involuntary absence is a result of a hostile action; and
 
@@ -56,9 +62,13 @@ Termination of Applicability of Procedures When Missing Person Is Accounted for.
 
 Secretary Concerned.—In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–314, §551(b), inserted “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after first sentence.
+
+Subsec. (a)(5). Pub. L. 107–314, §551(a), added par. (5).
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “described” for “prescribed” in first sentence.
 
@@ -100,7 +110,7 @@ Pub. L. 105–85, div. A, title IX, §934, Nov. 18, 1997, 111 Stat. 1866, as ame
 
 “(a)
 
-Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on mattersconcerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
+Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
 
 “(b)
 

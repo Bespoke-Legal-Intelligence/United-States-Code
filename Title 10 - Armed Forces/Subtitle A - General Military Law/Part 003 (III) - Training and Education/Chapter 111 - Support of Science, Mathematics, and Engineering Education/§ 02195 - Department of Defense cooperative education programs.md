@@ -1,6 +1,6 @@
 ### §2195. Department of Defense cooperative education programs
 
-(a) The Secretary of Defense shall ensure that the director of each defense laboratory establishes, in association with one or more public or private colleges or universities in the United States or one or more consortia of colleges or universities in the United States, cooperative work-education programs for undergraduate and graduate students.
+(a) The Secretary of Defense shall ensure that the director of each defense laboratory establishes, in association with one or more public or private colleges or universities in the United States or one or more consortia of colleges oruniversities in the United States, cooperative work-education programs for undergraduate and graduate students.
 
 (b) Under a cooperative work-education program established under subsection (a), a director referred to in that subsection may, without regard to any applicable non-statutory limitation on the number of authorized personnel or on the aggregate amount of any personnel cost—
 
@@ -10,7 +10,7 @@
 
 &emsp;(3) pay all travel expenses between the college or university in which the student is enrolled and the laboratory concerned for not more than six round trips per year; and
 
-&emsp;(4) pay all or part of such fees, charges, and costs related to the participation of such student in the cooperative work-education program as tuition, matriculation fees, chargesfor library and laboratory services, materials, and supplies, and the purchase or rental price of books.
+&emsp;(4) pay all or part of such fees, charges, and costs related to the participation of such student in the cooperative work-education program as tuition, matriculation fees, charges for library and laboratory services, materials, and supplies, and the purchase or rental price of books.
 
 (c) A director of a defense laboratory may—
 
@@ -18,5 +18,17 @@
 
 &emsp;(2) make such payments without requiring such an agreement.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522.)
+(d)(1) The Director of the National Security Agency may provide a qualifying employee of a defense laboratory of that Agency with living quarters at no charge, or at a rate or charge prescribed by the Director by regulation, without regard to section 5911(c) of title 5.
+
+(2) In this subsection, the term “qualifying employee” means a student who is employed at the National Security Agency under—
+
+&emsp;(A) a Student Educational Employment Program of the Agency conducted under this section or any other provision of law; or
+
+&emsp;(B) a similar cooperative or summer education program of the Agency that meets the criteria for Federal cooperative or summer education programs prescribed by the Office of Personnel Management.
+
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 108–136, div. A, title IX, §926, Nov. 24, 2003, 117 Stat. 1579.)
+
+#### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 

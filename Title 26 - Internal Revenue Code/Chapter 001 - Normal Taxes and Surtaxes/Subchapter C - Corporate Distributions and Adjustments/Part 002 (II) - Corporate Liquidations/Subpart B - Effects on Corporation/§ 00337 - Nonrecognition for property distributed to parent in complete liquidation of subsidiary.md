@@ -34,7 +34,7 @@ No gain or loss shall be recognized to the liquidating corporation on the distri
 
 #### (c) 80-percent distributee
 
-For purposes of this section, the term “80-percent distributee” means only the corporation which meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
+For purposes of this section, the term “80-percent distributee” means only the corporationwhich meets the 80-percent stock ownership requirements specified in section 332(b). For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.
 
 #### (d) Regulations
 
@@ -52,7 +52,7 @@ The Tax Reform Act of 1986, referred to in subsec. (d), is Pub. L. 99–514, Oct
 
 #### Prior Provisions
 
-A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, §19, 72 Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(46), 1906(b)(13)(A), title XXI, §2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, §4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471,§2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, §5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, §224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, §631(a).
+A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, §19, 72 Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(46), 1906(b)(13)(A), title XXI, §2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, §4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, §5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, §224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, §631(a).
 
 #### Amendments
 
@@ -84,5 +84,5 @@ Section applicable to any distribution in complete liquidation, and any sale or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 334, 336, 341, 367, 453B, 897, 1248 of this title.
+This section is referred to in sections 334, 336, 367, 453B, 857, 897, 1248 of this title.
 

@@ -16,7 +16,7 @@ The President shall establish the terms and conditions under which qualified deb
 
 #### (1) Sales of debt
 
-&emsp;Qualified debt may be sold pursuant to subsection (a)(1) of this section only to a purchaser who presents plans satisfactory to the President for using the debt for the purpose of engaging in eligible debt swaps.
+&emsp;Qualified debt may be sold pursuant to subsection (a)(1) of this section only to a purchaser who presents plans satisfactory to thePresident for using the debt for the purpose of engaging in eligible debt swaps.
 
 #### (2) Reduction or cancellation of debt
 

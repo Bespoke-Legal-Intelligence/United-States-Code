@@ -240,7 +240,7 @@ In subsection (d)(1), before clause (A), the words “Not later than 180 days af
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (e)(2)(A) and\(g)(2), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (e)(2)(A) and (g)(2), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
 #### Amendments
 

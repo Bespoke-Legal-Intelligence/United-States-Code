@@ -30,7 +30,7 @@ The governing State official may prepare and submit a plan for the establishment
 
 #### (2) Changes in program
 
-&emsp;The governing State official, prior to implementing any substantive change to programs approved under this subsection, shall submit such change to the Secretary for approval.
+&emsp;The governing State official, prior to implementing any substantive change to programsapproved under this subsection, shall submit such change to the Secretary for approval.
 
 #### (3) Time for determination
 

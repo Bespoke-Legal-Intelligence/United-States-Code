@@ -4,11 +4,11 @@
 
 Prompt Indemnification Required.—(1) In the event of a loss that is covered by defense-related aviation insurance, the Secretary of Defense shall promptly indemnify the Secretary of Transportation for the amount of the loss consistent with the indemnification agreement between the two Secretaries that underlies such insurance. The Secretary of Defense shall make such indemnification—
 
-&emsp;(A) in the case of a claim for the loss of an aircraft hull, not later than 30 days after thedate on which the Secretary of Transportation determines the claim to be payable or that amounts are due under the policy that provided the defense-related aviation insurance; and
+&emsp;(A) in the case of a claim for the loss of an aircraft hull, not later than 30 days after the date on which the Secretary of Transportation determines the claim to be payable or that amounts are due under the policy that provided the defense-related aviation insurance; and
 
 &emsp;(B) in the case of any other claim, not later than 180 days after the date on which the Secretary of Transportation determines the claim to be payable.
 
-(2) When there is a loss of an aircraft hull that is (or may be) covered by defense-related aviation insurance, the Secretary of Transportation may make, during the period when a claim for such loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such aircraft. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the aircraft hull to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the aviation insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
+(2) When there is a loss of an aircraft hull that is (or may be) covered by defense-related aviation insurance, the Secretary of Transportation may make, during the period when a claim forsuch loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such aircraft. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the aircraft hull to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the aviation insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
 
 (b)
 
@@ -16,11 +16,7 @@ Source of Funds for Payment of Indemnity.—The Secretary of Defense may pay an 
 
 (c)
 
-Notice to Congress.—In the event of a loss that is covered by defense-related aviation insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $1,000,000, the Secretary of Defense shall submit to Congress—
-
-&emsp;(1) notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss; and
-
-&emsp;(2) semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.
+Notice to Congress.—In the event of a loss that is covered by defense-related aviation insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $1,000,000, the Secretary of Defense shall submit to Congress notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss.
 
 (d)
 
@@ -32,9 +28,7 @@ Implementing Matters.—(1) Payment of indemnification under this section is not
 
 Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
-(f)
-
-Annual Report on Contingent Liabilities.—Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the insurance program under chapter 443 of title 49.
+\[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(60)(B), Nov. 24, 2003, 117 Stat. 1603.\]
 
 (g)
 
@@ -48,9 +42,15 @@ Defense-related aviation insurance.—The term “defense-related aviation insur
 
 Loss.—The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.
 
-(Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667.)
+(Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667; amended Pub. L. 108–136, div. A, title X, §1031(a)(60), Nov. 24, 2003, 117 Stat. 1603.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
+
+#### Amendments
+
+2003—Subsec. (c). Pub. L. 108–136, §1031(a)(60)(A), struck out designation for par. (1) before “notification of the loss”, substituted “Congress” for “Congress—” and “loss.” for “loss; and”, and struck out par. (2) which read as follows: “semiannual reports thereafter updating the information submitted under paragraph (1) and showing with respect to losses arising from such incident the total amount expended to cover such losses, the source of those funds, pending litigation, and estimated total cost to the Government.”
+
+Subsec. (f). Pub. L. 108–136, §1031(a)(60)(B), struck out heading and text of subsec. (f). Text read as follows: “Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report setting forth the current amount of the contingent outstanding liability of the United States under the insurance program under chapter 443 of title 49.”
 

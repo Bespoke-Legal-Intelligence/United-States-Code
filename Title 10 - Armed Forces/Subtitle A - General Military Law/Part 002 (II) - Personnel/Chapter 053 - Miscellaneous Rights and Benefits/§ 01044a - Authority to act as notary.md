@@ -40,7 +40,11 @@ Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted “adjutants, including
 
 Subsec. (b)(4). Pub. L. 104–201, §573(3), substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1044b, 1052 of this title; title 14 section 514.
+This section is referred to in sections 1044b, 1052 of this title; title 14 section 514; title 50 App. sections 566, 568.
 

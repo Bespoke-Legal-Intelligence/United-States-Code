@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this chapter $397,969,000 f
 
 #### Prior Provisions
 
-A prior section 3231, Pub. L. 89–136, title VIII, §801, as added Pub. L. 93–288, title V, §501, May 22, 1974, 88 Stat. 160; amended Pub. L. 100–707, title I, §109(r)(1), Nov. 23,1988, 102 Stat. 4710, set forth congressional statement of purpose and defined “major disaster”, prior to repeal by Pub. L. 105–393, §102(c).
+A prior section 3231, Pub. L. 89–136, title VIII, §801, as added Pub. L. 93–288, title V, §501, May 22, 1974, 88 Stat. 160; amended Pub. L. 100–707, title I, §109(r)(1), Nov. 23, 1988, 102 Stat. 4710, set forth congressional statement of purpose and defined “major disaster”, prior to repeal by Pub. L. 105–393, §102(c).
 
 A prior section 701 of Pub. L. 89–136 was classified to section 3211 of this title prior to repeal by Pub. L. 105–393, §102(b)(3).
 

@@ -20,7 +20,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(C) determine whether the person has been convicted of a violation of section 408, 1011, or 1383a of this title; and
 
-&emsp;(D) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits underthis subchapter, subchapter II, or XVI of this chapter, respectively.
+&emsp;(D) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
 
 #### (c) Requirement for maintaining lists of undesirable payees
 
@@ -88,7 +88,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (f) Hearing
 
-Any qualified individual who is dissatisfied with a determination by the Commissioner ofSocial Security to make payment of the qualified individual's benefit to a representative payee under subsection (a) of this section or with the designation of a particular person to serve as representative payee shall be entitled to a hearing by the Commissioner of Social Security to the same extent as is provided in section 1009(a) of this title, and to judicial review of the Commissioner of Social Security's final decision as is provided in section 1009(b) of this title.
+Any qualified individual who is dissatisfied with a determination by the Commissioner of Social Security to make payment of the qualified individual's benefit to a representative payee under subsection (a) of this section or with the designation of a particular person to serve as representative payee shall be entitled to a hearing by the Commissioner of Social Security to the same extent as is provided in section 1009(a) of this title, and to judicial review of the Commissioner of Social Security's final decision as is provided in section 1009(b) of this title.
 
 #### (g) Notice requirements
 
@@ -130,7 +130,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (i) Restitution
 
-In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
+In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee,the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. The Commissioner of Social Security shall make a good faith effort to obtain restitution from the terminated representative payee.
 
 (Aug. 14, 1935, ch. 531, title VIII, §807, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1846.)
 

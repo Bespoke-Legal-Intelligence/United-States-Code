@@ -20,7 +20,7 @@ The head of the lead agency shall—
 
 The head of the lead agency is authorized to issue such regulations and establish such procedures as he may determine to be necessary to assure—
 
-&emsp;(1) that the payments and assistance authorized by this chapter shall be administered in amanner which is fair and reasonable and as uniform as practicable;
+&emsp;(1) that the payments and assistance authorized by this chapter shall be administered in a manner which is fair and reasonable and as uniform as practicable;
 
 &emsp;(2) that a displaced person who makes proper application for a payment authorized for such person by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance; and
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment,
 
 &emsp;“(3) that any person aggrieved by a determination as to eligibility for a payment authorized by this chapter, or the amount of a payment, may have his application reviewed by the head of the Federal agency having authority over the applicable program or project, or in the case of a program or project receiving Federal financial assistance, by the head of the State agency.”
 
-Subsec. (c). Pub. L. 100–17 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The head of each Federal agency may prescribe such other regulations and procedures, consistent with the provisions of this chapter, as he deems necessary or appropriate to carry out this chapter.”
+Subsec. (c). Pub. L. 100–17 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:“The head of each Federal agency may prescribe such other regulations and procedures, consistent with the provisions of this chapter, as he deems necessary or appropriate to carry out this chapter.”
 
 #### Effective Date of 1991 Amendment
 

@@ -142,7 +142,7 @@
 
 #### (B) Report by ITC
 
-&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit to the Congress as soon as practicable, but not later than May 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
+&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit tothe Congress as soon as practicable, but not later than May 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
 
 #### (4) Status of reports
 
@@ -150,7 +150,7 @@
 
 #### (5) Extension disapproval resolutions
 
-&emsp;(A) For purposes of paragraph (1), the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respectto any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.”, with the blank space being filled with the name of the resolving House of the Congress.
+&emsp;(A) For purposes of paragraph (1), the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respect to any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.”, with the blank space being filled with the name of the resolving House of the Congress.
 
 &emsp;(B) Extension disapproval resolutions—
 

@@ -4,7 +4,7 @@
 
 In order to prevent discrimination against State-chartered depository institutions, and other nonfederally chartered housing creditors, with respect to making, purchasing, and enforcing alternative mortgage transactions, housing creditors may make, purchase, and enforce alternative mortgage transactions, except that this section shall apply—
 
-&emsp;(1) with respect to banks, only to transactions made in accordance with regulations governing alternative mortgage transactions as issued by the Comptroller of the Currency for national banks, to the extent that such regulations are authorized by rulemaking authority granted to the Comptroller of the Currency with regard to national banks under laws other than this section;
+&emsp;(1) with respect to banks, only to transactions made in accordance with regulations governing alternative mortgage transactionsas issued by the Comptroller of the Currency for national banks, to the extent that such regulations are authorized by rulemaking authority granted to the Comptroller of the Currency with regard to national banks under laws other than this section;
 
 &emsp;(2) with respect to credit unions, only to transactions made in accordance with regulations governing alternative mortgage transactions as issued by the National Credit Union Administration Board for Federal credit unions, to the extent that such regulations are authorized by rulemaking authority granted to the National Credit Union Administration with regard to Federal credit unions under laws other than this section; and
 

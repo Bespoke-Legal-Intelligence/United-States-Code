@@ -50,13 +50,13 @@ The Director shall ensure that the Corps units and camps are distributed in urba
 
 #### (1) In general
 
-&emsp;The superintendent of each camp shall establish and enforce standards of conduct to promote proper moral and disciplinary conditions in the camp.
+&emsp;The superintendent of each camp shall establish and enforce standards of conduct topromote proper moral and disciplinary conditions in the camp.
 
 #### (2) Sanctions
 
 &emsp;Under procedures prescribed by the Director, the superintendent of a camp may—
 
-&emsp;&emsp;(A) transfer a member of the Corps in that camp to another unit or camp if the superintendent determines that the retention of the member in the member's unit or in the superintendent's camp will jeopardize theenforcement of the standards or diminish the opportunities of other Corps members in that unit or camp, as the case may be; or
+&emsp;&emsp;(A) transfer a member of the Corps in that camp to another unit or camp if the superintendent determines that the retention of the member in the member's unit or in the superintendent's camp will jeopardize the enforcement of the standards or diminish the opportunities of other Corps members in that unit or camp, as the case may be; or
 
 &emsp;&emsp;(B) dismiss a member of the Corps from the Corps if the superintendent determines that retention of the member in the Corps will jeopardize the enforcement of the standards or diminish the opportunities of other Corps members.
 

@@ -6,7 +6,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (b) Number of centers
 
-In carrying out subsection (a) of this section, the Director of the Institute shall, subject to theextent of amounts made available in appropriations Acts, provide for the establishment of three centers with respect to contraception and for two centers with respect to infertility.
+In carrying out subsection (a) of this section, the Director of the Institute shall, subject to the extent of amounts made available in appropriations Acts, provide for the establishment of three centers with respect to contraception and for two centers with respect to infertility.
 
 #### (c) Duties
 

@@ -10,7 +10,7 @@ To be eligible to receive a grant under subsection (a) of this section, an organ
 
 #### (c) Eligible organization
 
-The Attorney General shall award the grant described in subsection (a) of this section to anational voluntary organization that has a direct link to patients, and families of patients, with Alzheimer's disease and related dementias.
+The Attorney General shall award the grant described in subsection (a) of this section to a national voluntary organization that has a direct link to patients, and families of patients, with Alzheimer's disease and related dementias.
 
 #### (d) Authorization of appropriations
 

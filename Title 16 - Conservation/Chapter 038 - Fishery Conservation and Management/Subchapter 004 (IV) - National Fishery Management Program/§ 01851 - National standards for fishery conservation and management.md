@@ -26,7 +26,7 @@ Any fishery management plan prepared, and any regulation promulgated to implemen
 
 #### (b) Guidelines
 
-The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
+The Secretary shall establish advisory guidelines (which shall not have the force and effectof law), based on the national standards, to assist in the development of fishery management plans.
 
 (Pub. L. 94–265, title III, §301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, §4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, §404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, §106, Oct. 11, 1996, 110 Stat. 3570.)
 
@@ -290,7 +290,7 @@ Catcher Vessels to Catcher/Processors.—Effective January 1, 1999, only the fol
 
 “(c)
 
-Catcher Vessels to Motherships.—Effective January 1, 2000, only the following catcher vessels shall be eligible to harvest the directed fishing allowance under section 206(b)(3) pursuant to a federal fishing permit:
+Catcher Vessels to Motherships.—Effective January 1, 2000, only the following catcher vessels shallbe eligible to harvest the directed fishing allowance under section 206(b)(3) pursuant to a federal fishing permit:
 
 &emsp;“(1) ALEUTIAN CHALLENGER (United States official number 603820);
 
@@ -622,7 +622,7 @@ Bering sea crab and groundfish.—
 
 &emsp;&emsp;“(A) Effective January 1, 2000, the owners of the motherships eligible under section 208(d) and the shoreside processors eligible under section 208(f) that receive pollock from the directed pollock fishery under a fishery cooperative are hereby prohibited from processing, in the aggregate for each calendar year, more than the percentage of the total catch of each species of crab in directed fisheries under the jurisdiction of the North Pacific Council than facilities operated by such owners processed of each such species in the aggregate, on average, in 1995, 1996, 1997. For the purposes of this subparagraph, the term ‘facilities’ means any processing plant, catcher/processor, mothership, floating processor, or any other operation that processes fish. Any entity in which 10 percent or more of the interest is owned or controlled by another individual or entity shall be considered to be the same entity as the other individual or entity for the purposes of this subparagraph.
 
-&emsp;&emsp;“(B) Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend for approval by the Secretary conservation and management measures to prevent any particular individual or entity from harvesting or processing an excessive share of crab or of groundfish in fisheries in the Bering Sea and Aleutian Islands Management Area.
+&emsp;&emsp;“(B) Under the authority of section 301(a)(4) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(4)), the North Pacific Council is directed to recommend forapproval by the Secretary conservation and management measures to prevent any particular individual or entity from harvesting or processing an excessive share of crab or of groundfish in fisheries in the Bering Sea and Aleutian Islands Management Area.
 
 &emsp;&emsp;“(C) The catcher vessels eligible under section 208(b) are hereby prohibited from participating in a directed fishery for any species of crab in the Bering Sea and Aleutian Islands Management Area unless the catcher vessel harvested crab in the directed fishery for that species of crab in such Area during 1997 and is eligible to harvest such crab in such directed fishery under the license limitation program recommended by the North Pacific Council and approved by the Secretary. The North Pacific Council is directed to recommend measures for approval by the Secretary to eliminate latent licenses under such program, and nothing in this subparagraph shall preclude the Council from recommending measures more restrictive than under this paragraph.
 

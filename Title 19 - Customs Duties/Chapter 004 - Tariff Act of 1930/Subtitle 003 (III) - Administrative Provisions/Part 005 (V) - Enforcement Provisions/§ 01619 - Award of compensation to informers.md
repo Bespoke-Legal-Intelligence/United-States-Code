@@ -12,7 +12,7 @@ If—
 
 &emsp;&emsp;&emsp;(i) any fraud upon the customs revenue, or
 
-&emsp;&emsp;&emsp;(ii) any violation of the customs laws or the navigation laws which is being, or has been, perpetrated or contemplated by any other person; and
+&emsp;&emsp;&emsp;(ii) any violation of the customs laws or the navigation laws which is being, or hasbeen, perpetrated or contemplated by any other person; and
 
 &emsp;(2) such detection and seizure or such information leads to a recovery of—
 

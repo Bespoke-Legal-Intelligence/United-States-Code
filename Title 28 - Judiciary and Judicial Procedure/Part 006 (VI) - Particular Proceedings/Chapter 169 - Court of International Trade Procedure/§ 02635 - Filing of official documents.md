@@ -2,7 +2,7 @@
 
 (a) In any action commenced in the Court of International Trade contesting the denial of a protest under section 515 of the Tariff Act of 1930 or the denial of a petition under section 516 of such Act, the Customs Service, as prescribed by the rules of the court, shall file with the clerk of the court, as part of the official record, any document, paper, information or data relating to the entry of merchandise and the administrative determination that is the subject of the protest or petition.
 
-(b)(1) In any civil action commenced in the Court of International Trade under section 516Aof the Tariff Act of 1930, within forty days or within such other period of time as the court may specify, after the date of service of a complaint on the administering authority established to administer title VII of the Tariff Act of 1930 or the United States International Trade Commission, the administering authority or the Commission shall transmit to the clerk of the court the record of such action, as prescribed by the rules of the court. The record shall, unless otherwise stipulated by the parties, consist of—
+(b)(1) In any civil action commenced in the Court of International Trade under section 516A of the Tariff Act of 1930, within forty days or within such other period of time as the court may specify, after the date of service of a complaint on the administering authority established to administer title VII of the Tariff Act of 1930 or the United States International Trade Commission, the administering authority or the Commission shall transmit to the clerk of the court the record of such action, as prescribed by the rules of the court. The record shall, unless otherwise stipulated by the parties, consist of—
 
 &emsp;(A) a copy of all information presented to or obtained by the administering authority or the Commission during the course of the administrative proceedings, including all governmental memoranda pertaining to the case and the record of ex parte meetings required to be maintained by section 777(a)(3) of the Tariff Act of 1930; and
 
@@ -58,7 +58,7 @@ A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 &emsp;“(I) a copy of any bond relating to the entry.
 
-“(2) If any of the items listed in paragraph (1) of this subsection do not exist in a particular civil action, anaffirmative statement to that effect shall be transmitted to the clerk of the court.”
+“(2) If any of the items listed in paragraph (1) of this subsection do not exist in a particular civil action, an affirmative statement to that effect shall be transmitted to the clerk of the court.”
 
 #### Effective Date
 

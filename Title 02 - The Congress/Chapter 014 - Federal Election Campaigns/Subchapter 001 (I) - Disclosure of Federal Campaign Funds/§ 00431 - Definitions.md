@@ -46,7 +46,7 @@ When used in this Act:
 
 &emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
-&emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign orfor use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf of any candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
@@ -88,7 +88,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates;
 
-&emsp;(xii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments receivedby any political party committee as a condition of ballot access;
+&emsp;(xii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access;
 
 &emsp;(xiii) any honorarium (within the meaning of section 441i of this title); and
 
@@ -106,7 +106,7 @@ When used in this Act:
 
 &emsp;(ii) nonpartisan activity designed to encourage individuals to vote or to register to vote;
 
-&emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by a membership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
+&emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination forelection, or election, of any individual to Federal office, except that the costs incurred by a membership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
 
 &emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
@@ -222,7 +222,7 @@ Telephone bank.—The term “telephone bank” means more than 500 telephone ca
 
 (25)
 
-Election cycle.—For purposes of sections 441a(i) and 441a–1 of this title and paragraph (26), the term “election cycle” means the period beginning on the day after the date of the most recent election for the specific office or seat thata candidate is seeking and ending on the date of the next election for that office or seat. For purposes of the preceding sentence, a primary election and a general election shall be considered to be separate elections.
+Election cycle.—For purposes of sections 441a(i) and 441a–1 of this title and paragraph (26), the term “election cycle” means the period beginning on the day after the date of the most recent election for the specific office or seat that a candidate is seeking and ending on the date of the next election for that office or seat. For purposes of the preceding sentence, a primary election and a general election shall be considered to be separate elections.
 
 (26)
 
@@ -250,7 +250,7 @@ Personal funds.—The term “personal funds” means an amount that is derived 
 
 &emsp;&emsp;(vii) proceeds from lotteries and similar legal games of chance; and
 
-&emsp;(C) a portion of assets that are jointly owned by the candidate and the candidate's spouse equal to the candidate's share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by an instrument of conveyance or ownership, the value of 1/2 of the property.
+&emsp;(C) a portion of assets that are jointly owned by the candidate and the candidate's spouse equal to the candidate's share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by aninstrument of conveyance or ownership, the value of 1/2 of the property.
 
 (Pub. L. 92–225, title III, §301, Feb. 7, 1972, 86 Stat. 11; Pub. L. 93–443, title II, §§201(a), 208(c)(1), Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283, title I, §§102, 115(d), (h), May 11, 1976, 90 Stat. 478, 495, 496; Pub. L. 96–187, title I, §101, Jan. 8, 1980, 93 Stat. 1339; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–346, §101(a) \[title V, §502(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §§101(b), 103(b)(1), title II, §211, title III, §304(c), Mar. 27, 2002, 116 Stat. 85, 87, 92, 100.)
 
@@ -260,7 +260,7 @@ The Federal Election Campaign Act of 1971, as amended, referred to in par. (19),
 
 #### Amendments
 
-2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
+<b>2002</b>—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
 
 Par. (17). Pub. L. 107–155, §211, added par. (17) and struck out former par. (17) which read as follows: “The term ‘independent expenditure’ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.”
 
@@ -268,13 +268,13 @@ Pars. (20) to (24). Pub. L. 107–155, §101(b), added pars. (20) to (24).
 
 Pars. (25), (26). Pub. L. 107–155, §304(c), added pars. (25) and (26).
 
-2000—Par. (8)(B)(xv). Pub. L. 106–346 added cl. (xv).
+<b>2000</b>—Par. (8)(B)(xv). Pub. L. 106–346 added cl. (xv).
 
-1986—Pars. (8)(B)(ix)(II), (9)(A)(vii)(II). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Pars. (8)(B)(ix)(II), (9)(A)(vii)(II). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Pub. L. 96–187 changed the section designations from letters to numbers, and as so redesignated, substantially redefined the terms applicable to the provisions of this Act.
+<b>1980</b>—Pub. L. 96–187 changed the section designations from letters to numbers, and as so redesignated, substantially redefined the terms applicable to the provisions of this Act.
 
-1976—Subsec. (a)(2). Pub. L. 94–283, §102(a), substituted “party which has authority to nominate” for “party held to nominate”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–283, §102(a), substituted “party which has authority to nominate” for “party held to nominate”.
 
 Subsec. (e)(2). Pub. L. 94–283, §102(b), substituted “written contract, promise, or agreement,” for “contract, promise, or agreement, expressed or implied,”.
 
@@ -288,7 +288,7 @@ Subsec. (n). Pub. L. 94–283, §115(h), substituted “section 432(e) (1) of th
 
 Subsec. (<i>o</i>) to (q). Pub. L. 94–283, §102(g)(3), added subsecs. (<i>o</i>) to (q).
 
-1974—Pub. L. 93–443, §201(a) (1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
+<b>1974</b>—Pub. L. 93–443, §201(a) (1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
 
 Subsec. (a)(5). Pub. L. 93–443, §201(a)(2), struck out from definition of “election” the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States.
 
@@ -296,7 +296,7 @@ Subsec. (d). Pub. L. 93–443, §201(a)(3), inserted reference to “club,” be
 
 Subsec. (e). Pub. L. 93–443, §201(a)(4), transferred the word “means” after introductory word “contribution” to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of any person as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of “funds received by a political committee which are transferred to such committee from another political committee or other source” for “a transfer of funds between political committees”; inserted at end of par. (4) the word “but”; and added par. (5.)
 
-Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word “means” following introductory word “expenditure” to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading ”, or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States”; in par. (2), provided for express or implied transactions; in par. (3), substituted “the transfer of funds by a political committee to another political committee; but” for “a transfer of funds between political committees”; and added par. (4).
+Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word “means” following introductory word “expenditure” to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading “, or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States”; in par. (2), provided for express or implied transactions; in par. (3), substituted “the transfer of funds by a political committee to another political committee; but” for “a transfer of funds between political committees”; and added par. (4).
 
 Subsec. (g). Pub. L. 93–443, §208(c)(1), substituted definition of “Commission” for “supervisory officer”.
 
@@ -408,7 +408,7 @@ Section 408, formerly §406, of Pub. L. 92–225 as renumbered Pub. L. 93–443,
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81, provided that: “This Act \[enacting sections 438a, 439a, 441a–1, 441i, and 441k of this title and section 510 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending this section, sections 434, 437g, 441a, 441b, 441d, 441e, 441h, 453, and 455 of this title, section 607 of Title 18, Crimes and Criminal Procedure, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, transferring section 510 of Title 36 to section 511 of Title 36, repealing section 439a of this title, enacting provisions set out as notes under this section, sections 434, 437g, 437h, 441a, 454, and 455 of this title, and section 315 of Title 47, and amending provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Bipartisan Campaign Reform Act of 2002’.”
+Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81, provided that: “This Act \[enacting sections 438a, 439a, 441a–1, 441i, and 441k of this title and section 510 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending this section, sections 434, 437g, 441a, 441b, 441d, 441e, 441h, 453, and 455 of this title, section 607 of Title 18, Crimes and Criminal Procedure, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, transferring section 510 ofTitle 36 to section 511 of Title 36, repealing section 439a of this title, enacting provisions set out as notes under this section, sections 434, 437g, 437h, 441a, 454, and 455 of this title, and section 315 of Title 47, and amending provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Bipartisan Campaign Reform Act of 2002’.”
 
 #### Short Title of 1980 Amendment
 
@@ -486,5 +486,5 @@ Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §511
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 58, 59e, 433, 434, 441a, 441b, 441i of this title; title 6 section 331; title 18 sections 602, 603; title 20 section 1094; title 22 section 3944; title 26 section 527; title 42 sections 1973gg–1, 5043; title 47 section 315; title 50 App. section 594.
+This section is referred to in sections 58, 59e, 433, 434, 441a, 441b, 441i of this title; title 6 section 331; title 18 sections 602, 603; title 20 section 1094; title 22 section 3944; title 26 sections 527, 6033; title 42 sections 1973gg–1, 5043; title 47 section 315; title 50 App. section 595.
 

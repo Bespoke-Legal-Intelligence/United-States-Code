@@ -12,7 +12,7 @@
 
 &emsp;(5) development and support of local conservation programs;
 
-&emsp;(6) training programs to strengthen conservation institutions and increase scientific,technical, and managerial capabilities of individuals and organizations involved in conservation efforts;
+&emsp;(6) training programs to strengthen conservation institutions and increase scientific, technical, and managerial capabilities of individuals and organizations involved in conservation efforts;
 
 &emsp;(7) efforts to generate knowledge, increase understanding, and enhance public commitment to conservation;
 

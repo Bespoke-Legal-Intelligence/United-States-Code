@@ -22,7 +22,7 @@
 
 (3) Three years after April 30, 1994, the Secretary shall review the progress of all commercial fisheries, by fishery, toward reducing incidental mortality and serious injury to insignificant levels approaching a zero rate. The Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report setting forth the results of such review within 1 year after commencement of the review. The Secretary shall note any commercial fishery for which additional information is required to accurately assess the level of incidental mortality and serious injury of marine mammals in the fishery.
 
-(4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistentwith paragraph (1), then the Secretary shall take appropriate action under subsection (f) of this section.
+(4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistent with paragraph (1), then the Secretary shall take appropriate action under subsection (f) of this section.
 
 #### (c) Registration and authorization
 
@@ -40,7 +40,7 @@
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered under this chapter and other relevant sources and after notice and opportunity for public comment, the classification of commercial fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
-(2)(A) An authorization shall be granted by the Secretary in accordance with this section for a vessel engaged in a commercial fishery listed under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner and operator, the name and description of the vessel, the fisheries in which it will be engaged, the approximate time, duration, and location of such fishery operations, and the general type and nature of use of the fishing gear and techniques used. Such information shall be in a readily usable format that can be efficiently entered into and utilized by an automated or computerized data processing system. A decal or other physical evidence that the authorization is current and valid shall be issued by the Secretary at the time an authorization is granted, and so long as the authorization remains current and valid, shall be reissued annually thereafter.
+(2)(A) An authorization shall be granted by the Secretary in accordance with this section for a vessel engaged in a commercial fishery listed under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner and operator, the name and description of the vessel, the fisheries in which it will be engaged, the approximate time, duration, and location of such fishery operations, and the general type and nature of use of the fishing gear and techniquesused. Such information shall be in a readily usable format that can be efficiently entered into and utilized by an automated or computerized data processing system. A decal or other physical evidence that the authorization is current and valid shall be issued by the Secretary at the time an authorization is granted, and so long as the authorization remains current and valid, shall be reissued annually thereafter.
 
 (B) No authorization may be granted under this section to the owner of a vessel unless such vessel—
 
@@ -90,7 +90,7 @@
 
 #### (d) Monitoring of incidental takes
 
-(1) The Secretary shall establish a program to monitor incidental mortality and serious injury of marine mammals during the course of commercial fishing operations. The purposes of the monitoring program shall be to—
+(1) The Secretary shall establish a program to monitor incidental mortality and serious injuryof marine mammals during the course of commercial fishing operations. The purposes of the monitoring program shall be to—
 
 &emsp;(A) obtain statistically reliable estimates of incidental mortality and serious injury;
 
@@ -162,7 +162,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (f) Take reduction plans
 
-(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
+(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammalstocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
 (2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under section 1386 of this title. The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
@@ -198,7 +198,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
 
-&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
+&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft takereduction plan for such stock to the Secretary, consistent with the other provisions of this section.
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
@@ -220,7 +220,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
-&emsp;(B)(i) The Secretary shall take the draft take reduction plan into consideration and, not later than 60 days after the submission of the draft plan by the team, the Secretary shall publish in the Federal Register the plan proposed by the team, any changes proposed bythe Secretary with an explanation of the reasons therefor, and proposed regulations to implement such plan, for public review and comment during a period of not to exceed 90 days.
+&emsp;(B)(i) The Secretary shall take the draft take reduction plan into consideration and, not later than 60 days after the submission of the draft plan by the team, the Secretary shall publish in the Federal Register the plan proposed by the team, any changes proposed by the Secretary with an explanation of the reasons therefor, and proposed regulations to implement such plan, for public review and comment during a period of not to exceed 90 days.
 
 &emsp;(ii) In the event that the take reduction team does not submit a draft plan to the Secretary within 11 months, the Secretary shall, not later than 13 months after the establishment of the team, publish in the Federal Register a proposed take reduction plan and implementing regulations, for public review and comment during a period of not to exceed 90 days.
 
@@ -268,7 +268,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;&emsp;(i) prescribe emergency regulations to reduce such incidental mortality and serious injury in that fishery; and
 
-&emsp;&emsp;(ii) approve and implement, on an expedited basis, such plan, which shall providemethods to address such adverse impact if still necessary.
+&emsp;&emsp;(ii) approve and implement, on an expedited basis, such plan, which shall provide methods to address such adverse impact if still necessary.
 
 &emsp;(C) In the case of a stock or species for which a take reduction plan does not exist and is not being developed, or in the case of a commercial fishery listed under subsection (c)(1)(A)(iii) of this section which the Secretary believes may be contributing to such adverse impact, the Secretary shall—
 

@@ -14,10 +14,13 @@
 | [3020\.](%C2%A7%2003020%20-%20Inspector%20General.md) | Inspector General. |
 | [3021\.](%C2%A7%2003021%20-%20Army%20Reserve%20Forces%20Policy%20Committee.md) | Army Reserve Forces Policy Committee. |
 | [3022\.](%C2%A7%2003022%20-%20Financial%20management.md) | Financial management. |
+| [3023\.](%C2%A7%2003023%20-%20Chief%20of%20Legislative%20Liaison.md) | Chief of Legislative Liaison. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §504(c)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 3023.
 
 1988—Pub. L. 100–456, div. A, title VII, §702(a)(3), Sept. 29, 1988, 102 Stat. 1994, added item 3022.
 
@@ -49,3 +52,4 @@
 - [&sect; 03020 - Inspector General](%C2%A7%2003020%20-%20Inspector%20General.md)
 - [&sect; 03021 - Army Reserve Forces Policy Committee](%C2%A7%2003021%20-%20Army%20Reserve%20Forces%20Policy%20Committee.md)
 - [&sect; 03022 - Financial management](%C2%A7%2003022%20-%20Financial%20management.md)
+- [&sect; 03023 - Chief of Legislative Liaison](%C2%A7%2003023%20-%20Chief%20of%20Legislative%20Liaison.md)

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award supplemental grants to States determined to be eligible undersubsection (b) of this section to enable such States to provide comprehensive services of the type described in section 300ff–22(a) of this title to supplement the services otherwise provided by the State under a grant under this subpart in emerging communities within the State that are not eligible to receive grants under part A of this subchapter.
+The Secretary shall award supplemental grants to States determined to be eligible under subsection (b) of this section to enable such States to provide comprehensive services of the type described in section 300ff–22(a) of this title to supplement the services otherwise provided by the State under a grant under this subpart in emerging communities within the State that are not eligible to receive grants under part A of this subchapter.
 
 #### (b) Eligibility
 

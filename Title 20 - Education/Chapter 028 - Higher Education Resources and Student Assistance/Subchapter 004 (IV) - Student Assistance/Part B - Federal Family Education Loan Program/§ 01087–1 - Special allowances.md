@@ -8,7 +8,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 #### (1) Quarterly payment based on unpaid balance
 
-&emsp;A special allowance shall be paid for each of the 3-month periods ending March 31, June 30, September 30, and December 31 of every year and the amount of such allowance paid to any holder with respect to any 3-month periodshall be a percentage of the average unpaid balance of principal (not including unearned interest added to principal) of all eligible loans held by such holder during such period.
+&emsp;A special allowance shall be paid for each of the 3-month periods ending March 31, June 30, September 30, and December 31 of every year and the amount of such allowance paid to any holder with respect to any 3-month period shall be a percentage of the average unpaid balance of principal (not including unearned interest added to principal) of all eligible loans held by such holder during such period.
 
 #### (2) Rate of special allowance
 
@@ -34,7 +34,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(ii) For the purpose of division (i) of this subparagraph, the term “qualified State obligation” means—
 
-&emsp;&emsp;(I) an obligation of the Maine Educational Loan Marketing Corporation to the Student Loan Marketing Association pursuant to an agreement entered into on January 31, 1984; or
+&emsp;&emsp;(I) an obligation of the Maine Educational Loan Marketing Corporation to the StudentLoan Marketing Association pursuant to an agreement entered into on January 31, 1984; or
 
 &emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the South Carolina National Bank pursuant to an agreement entered into on July 30, 1986.
 
@@ -180,7 +180,7 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 Limitation on special allowances for plus loans on or after july 1, 2006.—In the case of PLUS loans made under section 1078–2 of this title and first disbursed on or after July 1, 2006, for which the interest rate is determined under section 1077a(<i>l</i>)(2) of this title, a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless—
 
-&emsp;&emsp;&emsp;(I) the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial), as published by the Board of Governors of the Federal Reserve System in Publication H–15 (or its successor), for the last calendar week ending on or before such July 1; plus
+&emsp;&emsp;&emsp;(I) the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial), as published bythe Board of Governors of the Federal Reserve System in Publication H–15 (or its successor), for the last calendar week ending on or before such July 1; plus
 
 &emsp;&emsp;&emsp;(II) 2.64 percent,
 
@@ -196,7 +196,7 @@ Limitation on special allowances for plus loans on or after july 1, 2006.—In t
 
 &emsp;(B) Such daily interest shall be computed at the daily equivalent rate of the sum of the special allowance rate computed pursuant to paragraph (2) and the interest rate applicable to the loan and shall be paid for the later of (i) the 31st day after the receipt of such request for payment from the holder, or (ii) the 31st day after the final day of the period or periods covered by such request, and shall be paid for each succeeding day until, and including, the date on which the Secretary authorizes payment.
 
-&emsp;(C) For purposes of reporting to the Congress the amounts of special allowances paid underthis section, amounts of special allowances paid pursuant to this paragraph shall be segregated and reported separately.
+&emsp;(C) For purposes of reporting to the Congress the amounts of special allowances paid under this section, amounts of special allowances paid pursuant to this paragraph shall be segregated and reported separately.
 
 #### (5) “Eligible loan” defined
 
@@ -258,7 +258,7 @@ Limitation on special allowances for plus loans on or after july 1, 2006.—In t
 
 #### (8) Exception
 
-&emsp;Notwithstanding paragraph (2), a lender may assess a lesser origination fee for a borrowerdemonstrating greater financial need as determined by such borrower's adjusted gross family income.
+&emsp;Notwithstanding paragraph (2), a lender may assess a lesser origination fee for a borrower demonstrating greater financial need as determined by such borrower's adjusted gross family income.
 
 #### (d) Loan fees from lenders
 
@@ -300,7 +300,7 @@ The Secretary shall adopt or amend appropriate regulations pertaining to program
 
 #### References in Text
 
-Section 1078–1 of this title, referred to in subsecs. (b)(2)(C), (5)(A)(ii) and (c)(6), (7), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
+Section 1078–1 of this title, referred to in subsecs. (b)(2)(C), (5)(A)(ii) and (c)(6), (7), was repealed by Pub.L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Prior Provisions
 

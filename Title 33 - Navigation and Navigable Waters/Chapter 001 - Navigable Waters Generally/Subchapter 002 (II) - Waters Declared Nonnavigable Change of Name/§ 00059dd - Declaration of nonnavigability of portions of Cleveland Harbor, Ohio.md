@@ -40,7 +40,7 @@ Unless the Secretary of the Army finds, after consultation with local and region
 
 &emsp;&emsp;Thence south 33°–53–08 east on the southwesterly right-of-way line of East 9th Street a distance of 368.79 feet to a drill hole set;
 
-&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet, and whose chord bears south 11°–06–52 west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
+&emsp;&emsp;Thence southwesterly along the arc of a curve to the right with a radius of 40.00 feet,and whose chord bears south 11°–06–52 west 56.57 feet, an arc distance of 62.83 feet to the true place of beginning containing 174,764 square feet (4.012 acres) more or less.
 
 #### (e) Limits on applicability; regulatory requirements
 
@@ -48,7 +48,7 @@ The declaration under subsection (d) of this section shall apply only to those p
 
 #### (f) Expiration date
 
-If, 20 years from December 18, 1991, any area or part thereof described in subsection (d) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (e) of this section, or if workin connection with any activity permitted in subsection (e) of this section is not commenced within 5 years after issuance of such permit, then the declaration of nonnavigability for such area or part thereof shall expire.
+If, 20 years from December 18, 1991, any area or part thereof described in subsection (d) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (e) of this section, or if work in connection with any activity permitted in subsection (e) of this section is not commenced within 5 years after issuance of such permit, then the declaration of nonnavigability for such area or part thereof shall expire.
 
 (Pub. L. 102–240, title I, §1079, Dec. 18, 1991, 105 Stat. 2017.)
 

@@ -40,7 +40,7 @@ A husband and wife may make a single return jointly of income taxes under subtit
 
 &emsp;&emsp;&emsp;(iii) Where only one spouse filed a separate return prior to the making of the joint return, and the other spouse had gross income of the exemption amount or more for such taxable year—on the date of the filing of such joint return.
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clauses shall be applied by substituting “the sum of the exemption amount and the additional standard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
+> &emsp;&emsp;For purposes of this subparagraph, the term “exemption amount” has the meaning given to such term by section 151(d). For purposes of clauses (ii) and (iii), if the spouse whose gross income is being compared to the exemption amount is 65 or over, such clausesshall be applied by substituting “the sum of the exemption amount and the additional standard deduction under section 63(c)(2) by reason of section 63(f)(1)(A)” for “the exemption amount”.
 
 #### (B) Credit or refund
 
@@ -106,7 +106,7 @@ For purposes of this section and subtitle A—
 
 &emsp;&emsp;(A) such election shall be valid even if such individual died before the beginning of such year, and
 
-&emsp;&emsp;(B) except for purposes of section 692 (relating to income taxes of members of the Armed Forces and victims of certain terrorist attacks on death), the income tax liability of such individual, his spouse, and his estate shall be determined as if he were alive throughout the taxable year.
+&emsp;&emsp;(B) except for purposes of section 692 (relating to income taxes of members of the Armed Forces, astronauts, and victims of certain terrorist attacks on death), the income tax liability of such individual, his spouse, and his estate shall be determined as if he were alive throughout the taxable year.
 
 #### (3) Missing status
 
@@ -122,7 +122,7 @@ For purposes of this section and subtitle A—
 
 #### (4) Making of election; revocation
 
-&emsp;An election described in this subsection with respect to any taxable year may be made by filing a joint return in accordance with subsection (a) and under such regulations as may be prescribed by the Secretary. Such an election may be revoked by either spouse on or before the due date (including extensions) for such taxable year, and, in the case of an executor or administrator, may be revoked bydisaffirming as provided in the last sentence of subsection (a)(3).
+&emsp;An election described in this subsection with respect to any taxable year may be made byfiling a joint return in accordance with subsection (a) and under such regulations as may be prescribed by the Secretary. Such an election may be revoked by either spouse on or before the due date (including extensions) for such taxable year, and, in the case of an executor or administrator, may be revoked by disaffirming as provided in the last sentence of subsection (a)(3).
 
 #### (g) Election to treat nonresident alien individual as resident of the United States
 
@@ -196,9 +196,11 @@ For purposes of this section and subtitle A—
 
 &emsp;If any election under this subsection applies for any 2 individuals for any taxable year, such 2 individuals shall be ineligible to make an election under this subsection for any subsequent taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 733; Pub. L. 85–866, title I, §73, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title VIII, §801(a)(2), (b)(2), (c)(2), (d)(2), Dec. 30, 1969, 83 Stat. 675, 676; Pub. L. 91–679, §1, Jan. 12, 1971, 84 Stat. 2063; Pub. L. 92–178, title II, §201(a)(2), (b)(2), (c), Dec. 10, 1971, 85 Stat. 510, 511; Pub. L. 93–597, §3(a), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–455, title X, §1012(a)(1), title XIX, §1906(a)(1), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1612, 1824, 1834; Pub. L. 94–569, §3(d), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–600, title I, §102(b)(2), title VII, §701(u)(15)(A)–(C), (16)(A), Nov. 6, 1978, 92 Stat. 2771, 2919, 2920; Pub. L. 97–34, title I, §104(d)(2), Aug. 13, 1981, 95 Stat. 189; Pub. L. 97–248, title III, §§307(a)(4), (5), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–448, title III, §307(c), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–67,title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, §§424(a), 474(b)(2), July 18, 1984, 98 Stat. 801, 830; Pub. L. 99–514, title I, §104(a)(2), title XVII, §1708(a)(3), Oct. 22, 1986, 100 Stat. 2104, 2782; Pub. L. 100–647, title I, §1015(b)(1), Nov. 10, 1988, 102 Stat. 3568; Pub. L. 101–239, title VII, §7721(c)(6), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11704(a)(22), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title IV, §402(a), July 30, 1996, 110 Stat. 1459; Pub. L. 105–206, title III, §3201(e)(1), title VI, §6011(e)(2), July 22, 1998, 112 Stat. 740, 818; Pub. L. 107–134, title I, §101(b)(2), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(B), Nov. 11, 2003, 117 Stat. 1342.)
 
 #### Amendments
+
+2003—Subsec. (f)(2)(B). Pub. L. 108–121 inserted “, astronauts,” after “Forces”.
 
 2002—Subsec. (f)(2)(B). Pub. L. 107–134 inserted “and victims of certain terrorist attacks” before “on death”.
 
@@ -261,6 +263,10 @@ Subsec. (e). Pub. L. 91–679 added subsec. (e).
 1969—Subsec. (b)(3)(A). Pub. L. 91–172, §801(a)(2), (b)(2), (c)(2), (d)(2), increased the exemptions wherever appearing from $600 and $1,200 to $625 and $1,250, respectively with respect to taxable years ending Dec. 31, 1970, and to $650 and $1,300, respectively, with respect to taxable years beginning after Dec. 31, 1970, and before Jan. 1, 1972, to $700 and $1,400, respectively, with respect to taxable years beginning after Dec. 31, 1971, and before Jan. 1, 1973, and to $750 and $1,500, respectively, with respect to taxable years beginning after Dec. 31, 1972.
 
 1958—Subsec. (b)(2)(C). Pub. L. 85–866 substituted “section 6213” for “such section”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–121 applicable with respect to any astronaut whose death occurs after Dec. 31, 2002, see section 110(a)(4) of Pub. L. 108–121, set out as a note under section 5 of this title.
 
 #### Effective Date of 2002 Amendment
 
@@ -330,7 +336,7 @@ Amendment by section 102(b)(2) of Pub. L. 95–600 effective with respect to tax
 
 Section 701(u)(15)(E) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this paragraph \[amending this section and section 6401 of this title\]—
 
-&emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, sections 1 et seq. and 1491 et seq. of this title, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
+&emsp;“(i) to the extent that they relate to chapter 1 or 5 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, sections 1 et seq. and 1491 et seq. of thistitle, respectively\], shall apply to taxable years ending on or after December 31, 1975, and
 
 &emsp;“(ii) to the extent that they relate to wage withholding under chapter 24 of such Code \[section 3401 et seq. of this title\], shall apply to remuneration paid on or after the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Nov. 6, 1978\].”
 

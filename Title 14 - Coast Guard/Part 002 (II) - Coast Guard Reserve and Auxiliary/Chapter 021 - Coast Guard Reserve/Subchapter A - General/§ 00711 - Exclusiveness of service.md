@@ -1,6 +1,6 @@
 ### §711. Exclusiveness of service
 
-No member of the Reserve, other than a temporary member, may be a member of anothermilitary organization. A temporary member of the Reserve who is a member of another military component shall, if ordered to active duty therein, be disenrolled as a temporary member of the Reserve.
+No member of the Reserve, other than a temporary member, may be a member of another military organization. A temporary member of the Reserve who is a member of another military component shall, if ordered to active duty therein, be disenrolled as a temporary member of the Reserve.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1006; amended Pub. L. 97–136, §6(c)(1), (2), Dec. 29, 1981, 95 Stat. 1706.)
 

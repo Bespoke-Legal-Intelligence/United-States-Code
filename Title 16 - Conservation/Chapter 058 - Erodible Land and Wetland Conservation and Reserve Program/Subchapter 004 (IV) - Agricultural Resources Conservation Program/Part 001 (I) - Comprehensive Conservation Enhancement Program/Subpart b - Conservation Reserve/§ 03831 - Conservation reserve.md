@@ -18,7 +18,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;(2) marginal pasture land converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
-&emsp;(3) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
+&emsp;(3) marginal pasture land to be devoted to appropriate vegetation, including trees, in ornear riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
 
 &emsp;(4) cropland that is otherwise ineligible if the Secretary determines that—
 
@@ -108,7 +108,7 @@ The Secretary may maintain up to 39,200,000 acres in the conservation reserve at
 
 #### (g) Multi-year grasses and legumes
 
-For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities.
+For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotationpractice, approved by the Secretary, shall be considered agricultural commodities.
 
 #### (h) Pilot program for enrollment of wetland and buffer acreage in conservation reserve
 

@@ -74,7 +74,7 @@
 
 #### (B) Consideration regarding designation of council
 
-&emsp;&emsp;In making a determination of whether to establish or designate a council under subparagraph (A), a chief elected official receiving a grant under section 300ff–11(a) of this title shall give priority to the designation of an existing entity that has demonstrated experience in planning for the HIV health care service needs within the eligible area and in the implementation of such plans in addressing those needs. Any existing entity so designated shall be expanded to include a broad representation of the full range of entities that provide such services within the geographic area to be served.
+&emsp;&emsp;In making a determination of whether to establish or designate a council under subparagraph (A), a chief elected official receiving a grant under section 300ff–11(a) of thistitle shall give priority to the designation of an existing entity that has demonstrated experience in planning for the HIV health care service needs within the eligible area and in the implementation of such plans in addressing those needs. Any existing entity so designated shall be expanded to include a broad representation of the full range of entities that provide such services within the geographic area to be served.
 
 #### (4) Duties
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 33 percent of the council shall be individuals who are receiving HIV-related services pursuant to a grant under section 300ff–11(a) of this title, are not officers, employees, or consultants to any entity that receives amounts from such a grant, and do not represent any such entity, and reflect the demographics of the population of individuals with HIV disease as determined under paragraph (4)(A). For purposes of the preceding sentence, an individual shall be considered to be receiving such services if the individual is a parent of, or a caregiver for, a minor child who is receiving such services.
 
-&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not beconstrued as having any effect on entities that receive funds from grants under any of parts B through F of this subchapter but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
+&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not be construed as having any effect on entities that receive funds from grants under any of parts B through F of this subchapter but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
 
 #### (6) Grievance procedures
 
@@ -190,7 +190,7 @@ The Secretary shall provide to each chief elected official receiving a grant und
 
 Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
-The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classifiedgenerally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 501 of the Ryan White CARE Act Amendments of 2000, referred to in subsec. (d), is section 501 of Pub. L. 106–345, which is set out as a note under section 300ff–11 of this title. Provisions relating to a report are contained in section 501(d) of Pub. L. 106–345.
 

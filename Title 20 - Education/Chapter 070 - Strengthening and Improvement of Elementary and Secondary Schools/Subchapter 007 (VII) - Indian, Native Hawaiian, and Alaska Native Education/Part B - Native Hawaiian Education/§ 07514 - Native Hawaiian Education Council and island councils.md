@@ -24,7 +24,7 @@ The Education Council shall consist of not more than 21 members, unless otherwis
 
 #### (4) Council determinations
 
-&emsp;Additional conditions and terms relating to membership on the Education Council, including term lengths and term renewals, shall bedetermined by a majority of the Education Council.
+&emsp;Additional conditions and terms relating to membership on the Education Council, including term lengths and term renewals, shall be determined by a majority of the Education Council.
 
 #### (d) Native Hawaiian Education Council grant
 
@@ -74,7 +74,7 @@ The Secretary shall make a direct grant to the Education Council to carry out th
 
 #### (2) Composition of island councils
 
-&emsp;Each island council shall consist of parents, students, and other community members who have an interest in the education of Native Hawaiians, and shall be representative of individuals concerned with the educational needs of all age groups, from children in preschool through adults. At least three-fourths of the members of each island council shall be Native Hawaiians.
+&emsp;Each island council shall consist of parents, students, and other community members whohave an interest in the education of Native Hawaiians, and shall be representative of individuals concerned with the educational needs of all age groups, from children in preschool through adults. At least three-fourths of the members of each island council shall be Native Hawaiians.
 
 #### (g) Administrative provisions relating to Education Council and island councils
 

@@ -6,7 +6,7 @@ For purposes of this title—
 
 &emsp;(1) the applicable DC area is hereby designated as the District of Columbia Enterprise Zone, and
 
-&emsp;(2) except as otherwise provided in this subchapter, the District of Columbia Enterprise Zone shall be treated as an empowerment zone designated under subchapter U.
+&emsp;(2) except as otherwise provided in this subchapter, the District of Columbia EnterpriseZone shall be treated as an empowerment zone designated under subchapter U.
 
 #### (b) Applicable DC area
 

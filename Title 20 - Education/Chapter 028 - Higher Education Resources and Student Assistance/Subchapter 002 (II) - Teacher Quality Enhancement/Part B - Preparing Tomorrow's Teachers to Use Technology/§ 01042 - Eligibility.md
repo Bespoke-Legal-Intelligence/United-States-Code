@@ -16,7 +16,7 @@ In order to receive a grant or enter into a contract or cooperative agreement un
 
 &emsp;&emsp;(C) A school or college of arts and sciences (as defined in section 1021(b) of this title) at an institution of higher education.
 
-&emsp;&emsp;(D) A professional association, foundation, museum, library, for-profit business, publicor private nonprofit organization, community-based organization, or other entity, with the capacity to contribute to the technology-related reform of teacher preparation programs.
+&emsp;&emsp;(D) A professional association, foundation, museum, library, for-profit business, public or private nonprofit organization, community-based organization, or other entity, with the capacity to contribute to the technology-related reform of teacher preparation programs.
 
 #### (b) Application requirements
 

@@ -54,7 +54,7 @@ Where the donor transfers an interest in property, if by such transfer his spous
 
 #### (3) Certain rules made applicable
 
-&emsp;For purposes of this subsection, rules similar to the rules of clauses (ii), (iii), and (iv) of section 2056(b)(7)(B) shall apply and the rules of section 2056(b)(10) shall apply.
+&emsp;For purposes of this subsection, rules similar to the rules of clauses (ii), (iii), and (iv) ofsection 2056(b)(7)(B) shall apply and the rules of section 2056(b)(10) shall apply.
 
 #### (4) Election
 
@@ -122,9 +122,9 @@ If the spouse of the donor is not a citizen of the United States—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 412; Pub. L. 91–614, title I, §102(c)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(12)(E), title XX, §2002(b), Oct. 4, 1976, 90 Stat. 1806, 1854; Pub. L. 97–34, title IV, §403(b)(1), (2), (d)(2), Aug. 13, 1981, 95 Stat. 301, 303; Pub. L. 97–448, title I, §104(a)(2)(B), (4)–(6), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 99–514, title XVIII, §1879(n)(1), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 100–647, title V, §5033(b), title VI, §6152(b), Nov. 10, 1988, 102 Stat. 3672, 3725; Pub. L. 101–239, title VII, §7815(d)(1)(A), (2), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 101–508, title XI, §11702(g)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 102–486, title XIX, §1941(b), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XVI, §1604(g)(4), Aug. 5, 1997, 111 Stat. 1099.)
 
-#### Adjustment of Annual Exclusion for Gifts in Calendar Year 2003 to Spouse Who is Not United States Citizen
+#### Adjustment of Annual Exclusion for Gifts in Calendar Year 2004 to Spouse Who is Not United States Citizen
 
-<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under subsection (i)(2) of this section for calendar year 2003, see section 3.24(2) of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amounts of gifts not includible in total amount of taxable gifts under subsection (i)(2) of this section for calendar year 2004, see section 3.26(2) of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of aforeign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

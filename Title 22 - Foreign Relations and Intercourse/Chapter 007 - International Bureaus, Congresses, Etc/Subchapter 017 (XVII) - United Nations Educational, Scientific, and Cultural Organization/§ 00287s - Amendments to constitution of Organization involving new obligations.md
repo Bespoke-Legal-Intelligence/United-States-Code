@@ -1,6 +1,6 @@
 ### §287s. Amendments to constitution of Organization involving new obligations
 
-Unless Congress by law authorizes such action, neither the President nor any person or agencyshall on behalf of the United States approve any amendment under article XIII of the constitution of the Organization involving any new obligation for the United States.
+Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States approve any amendment under article XIII of the constitution of the Organization involving any new obligation for the United States.
 
 (July 30, 1946, ch. 700, §7, 60 Stat. 714.)
 

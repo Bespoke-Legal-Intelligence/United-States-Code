@@ -15,3 +15,4 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 - [&sect; 07304 - Regulations](%C2%A7%2007304%20-%20Regulations.md)
 - [&sect; 07305 - Divisions of Veterans Health Administration](%C2%A7%2007305%20-%20Divisions%20of%20Veterans%20Health%20Administration.md)
 - [&sect; 07306 - Office of the Under Secretary for Health](%C2%A7%2007306%20-%20Office%20of%20the%20Under%20Secretary%20for%20Health.md)
+- [&sect; 07307 - Office of Research Oversight](%C2%A7%2007307%20-%20Office%20of%20Research%20Oversight.md)

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The undistributed foreign personal holding company income of a foreign personal holdingcompany shall be included in the gross income of the citizens or residents of the United States, domestic corporations, domestic partnerships, and estates or trusts (other than foreign estates or trusts), who are shareholders in such foreign personal holding company (hereinafter called “United States shareholders”) in the manner and to the extent set forth in this part.
+The undistributed foreign personal holding company income of a foreign personal holding company shall be included in the gross income of the citizens or residents of the United States, domestic corporations, domestic partnerships, and estates or trusts (other than foreign estates or trusts), who are shareholders in such foreign personal holding company (hereinafter called “United States shareholders”) in the manner and to the extent set forth in this part.
 
 #### (b) Amount included in gross income
 
@@ -48,7 +48,7 @@ If, but for this subsection, an amount would be included in the gross income of 
 
 1988—Subsec. (a). Pub. L. 100–647, §1012(bb)(1)(B), substituted “(other than foreign estates or trusts)” for “(other than estates or trusts the gross income of which under this subtitle includes only income from sources within the United States)”.
 
-Subsec. (f). Pub. L. 100–647, §1012(bb)(1)(A), substituted “a foreign partnership” for “a partnership, estate, or trust which is not a United States shareholder” in par. (1) and “that rules similar to the rules of section 1297(b)(5) shall apply, and provide for such other adjustments in the application of this subchapter asmay be necessary to carry out the purposes of this subsection” for “for such adjustments in the application of this part as may be necessary to carry out the purposes of the preceding sentence” in last sentence.
+Subsec. (f). Pub. L. 100–647, §1012(bb)(1)(A), substituted “a foreign partnership” for “a partnership, estate, or trust which is not a United States shareholder” in par. (1) and “that rules similar to the rules of section 1297(b)(5) shall apply, and provide for such other adjustments in the application of this subchapter as may be necessary to carry out the purposes of this subsection” for “for such adjustments in the application of this part as may be necessary to carry out the purposes of the preceding sentence” in last sentence.
 
 1986—Subsec. (f)(1). Pub. L. 99–514, §1810(h)(2), inserted “or an estate or trust which is a foreign estate or trust”.
 

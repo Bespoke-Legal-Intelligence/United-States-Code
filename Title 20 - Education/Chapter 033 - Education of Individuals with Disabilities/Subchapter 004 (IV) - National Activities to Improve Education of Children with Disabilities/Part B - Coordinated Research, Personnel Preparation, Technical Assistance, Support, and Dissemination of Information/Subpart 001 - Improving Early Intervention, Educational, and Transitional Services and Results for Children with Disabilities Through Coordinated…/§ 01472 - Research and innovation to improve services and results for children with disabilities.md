@@ -62,7 +62,7 @@ The Secretary shall make competitive grants to, or enter into contracts or coope
 
 &emsp;&emsp;(A) Model demonstration projects to apply and test research findings in typical service settings to determine the usability, effectiveness, and general applicability of such research findings in such areas as improving instructional methods, curricula, and tools, such as textbooks and media.
 
-&emsp;&emsp;(B) Demonstrating and applying research-based findings to facilitate systemic changes, related to the provision of services to children with disabilities, in policy, procedure, practice, and the training and use of personnel.
+&emsp;&emsp;(B) Demonstrating and applying research-based findings to facilitate systemicchanges, related to the provision of services to children with disabilities, in policy, procedure, practice, and the training and use of personnel.
 
 &emsp;&emsp;(C) Promoting and demonstrating the coordination of early intervention and educational services for children with disabilities with services provided by health, rehabilitation, and social service agencies.
 

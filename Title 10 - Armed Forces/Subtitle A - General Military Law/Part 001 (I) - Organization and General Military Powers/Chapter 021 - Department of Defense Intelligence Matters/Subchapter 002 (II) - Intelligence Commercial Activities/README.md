@@ -18,6 +18,8 @@
 
 1991—Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 437, added subchapter heading and analysis of sections.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “coordination”.</i>
+
 
 ---
 

@@ -10,7 +10,7 @@ When all or any substantial portion of lands under the administration of the Uni
 
 #### (c) Administrative site
 
-The Secretary is authorized to lease or to acquire, by purchase, donation, or exchange, and to operate incidental administrative and support facilities in Key West, Florida, for park administration and to further the purposes of this subchapter.
+The Secretary is authorized to lease or to acquire, by purchase, donation, or exchange, andto operate incidental administrative and support facilities in Key West, Florida, for park administration and to further the purposes of this subchapter.
 
 (Pub. L. 102–525, title II, §203, Oct. 26, 1992, 106 Stat. 3440.)
 
@@ -20,5 +20,5 @@ Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in su
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

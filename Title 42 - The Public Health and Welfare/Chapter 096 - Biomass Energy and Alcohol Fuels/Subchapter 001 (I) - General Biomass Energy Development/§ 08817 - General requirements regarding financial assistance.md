@@ -10,7 +10,7 @@
 
 > Nothing in this paragraph shall be construed to exclude financial assistance for any project which does not use such a fuel or apply such a technology.
 
-(2)(A) Financial assistance under this subchapter shall be available for a biomass energyproject only if the Secretary concerned finds that the Btu content of the motor fuels to be used in the facility involved to produce the biomass fuel will not exceed the Btu content of the biomass fuel produced in the facility.
+(2)(A) Financial assistance under this subchapter shall be available for a biomass energy project only if the Secretary concerned finds that the Btu content of the motor fuels to be used in the facility involved to produce the biomass fuel will not exceed the Btu content of the biomass fuel produced in the facility.
 
 (B) In making the determination under subparagraph (A), the Secretary concerned shall take into account any displacement of motor fuel or other petroleum products which the applicant has demonstrated to the satisfaction of the Secretary would result from the use of the biomass fuel produced in the facility involved.
 

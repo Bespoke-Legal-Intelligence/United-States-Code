@@ -18,7 +18,7 @@ The Associate Administrator—
 
 #### Prior Provisions
 
-A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[36\] and is set out as a note under section 631 of this title.
+A prior section 2\[32\] of Pub. L. 85–536 was renumbered section 2\[37\] and is set out as a note under section 631 of this title.
 
 #### Congressional Findings
 
@@ -242,7 +242,7 @@ Pub. L. 106–50, title III, §302, Aug. 17, 1999, 113 Stat. 242, provided that:
 
 #### Annual Report of Administrator
 
-Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
+Pub. L. 106–50, title VI, §603, Aug. 17, 1999, 113 Stat. 248, provided that: “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs ofthe House of Representatives and the Senate a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
 
 &emsp;“(1) the availability of Small Business Administration programs for such small business concerns and the degree of utilization of such programs by such small business concerns during the preceding 12-month period, including statistical information on such utilization as compared to the small business community as a whole;
 

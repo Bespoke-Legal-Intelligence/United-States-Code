@@ -78,7 +78,7 @@ Decisions concerning publications issued by the Office shall rest solely with th
 
 #### (f) Transfer of funds
 
-The Office may transfer funds to other Federal agencies or provide funding to non-Federal entities through grants, cooperative agreements, or contracts to carry out its duties under this section.
+The Office may transfer funds to other Federal agencies or provide funding to non-Federal entities through grants, cooperative agreements, or contracts to carry out its duties under this section: <i>Provided</i>, That any such transfer or provision of funding shall be carried out in accordance with section 605 of Public Law 107–77.
 
 #### (g) Annual report
 
@@ -90,13 +90,19 @@ The Director of the Office shall include with the budget justification materials
 
 &emsp;&emsp;(B) a strategic plan for meeting such needs of such law enforcement agencies.
 
-&emsp;(2) For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent to which those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
+&emsp;(2) For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent towhich those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
 
-(Pub. L. 107–296, title II, §232, Nov. 25, 2002, 116 Stat. 2159.)
+(Pub. L. 107–296, title II, §232, Nov. 25, 2002, 116 Stat. 2159; Pub. L. 108–7, div. L, §103(1), Feb. 20, 2003, 117 Stat. 529.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Technology Transfer and Advancement Act of 1995, referred to in subsec. (b)(3), (4), is Pub. L. 104–113, Mar. 7, 1996, 110 Stat. 775, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3701 of Title 15, Commerce and Trade, and Tables.
+
+Section 605 of Public Law 107–77, referred to in subsec. (f), is section 605 of Pub. L. 107–77, title VI, Nov. 28, 2001, 115 Stat. 798, which is not classified to the Code.
+
+#### Amendments
+
+2003—Subsec. (f). Pub. L. 108–7 inserted before period at end “: <i>Provided</i>, That any such transfer or provision of funding shall be carried out in accordance with section 605 of Public Law 107–77”.
 

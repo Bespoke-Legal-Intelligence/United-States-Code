@@ -20,7 +20,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 Pub. L. 96–395, title III, §307, June 30, 1980, 94 Stat. 791, provided that:
 
-“(a) The Commission is authorized and directed to prepare a plan for improving the technical capability of licensee personnel to safely operate utilization facilities licensed under section 103 or 104b. of the Atomic Energy Act of 1954 \[sections 2133 and 2134(b) of this title\]. In proposing such plan, the Commission shall consider the feasibility of requiring standard mandatory training programs for nuclear facility operators, including classroom study, apprenticeships at the facility, and emergency simulator training. Such plan shall include specific criteria for more intensive training and retraining of operator personnel licensed under section 107 of the Atomic Energy Act of 1954 \[this section\], and for the licensing of such personnel, to assure—
+“(a) The Commission is authorized and directed to prepare a plan for improving the technical capability of licensee personnel to safely operate utilization facilities licensed under section 103 or 104b. of the Atomic Energy Act of 1954 \[sections 2133 and 2134(b) of this title\]. In proposing such plan, the Commission shall consider the feasibility of requiring standard mandatory training programs for nuclear facility operators, including classroom study, apprenticeships at the facility, and emergency simulator training. Such plan shallinclude specific criteria for more intensive training and retraining of operator personnel licensed under section 107 of the Atomic Energy Act of 1954 \[this section\], and for the licensing of such personnel, to assure—
 
 &emsp;“(1) conformity with all conditions and requirements of the operating license;
 

@@ -18,7 +18,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) in the case of INTELSAT, or INTELSAT successors or separated entities, means a Party, or the telecommunications entity designated by a Party, that has signed the Operating Agreement and for which such Agreement has entered into force; and
 
-&emsp;&emsp;(B) in the case of Inmarsat, or Inmarsat successors or separated entities, means either a Party to, or an entity that has been designated by a Party to sign, the Operating Agreement.
+&emsp;&emsp;(B) in the case of Inmarsat, or Inmarsat successors or separated entities, means either a Party to, or an entity that has beendesignated by a Party to sign, the Operating Agreement.
 
 #### (4) Party
 
@@ -106,7 +106,7 @@ As used in this subchapter:
 
 #### (21) National security agency
 
-&emsp;The term “national security agency” means the National Security Agency, the Director of Central Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
+&emsp;The term “national security agency” means the National Security Agency, the Director ofCentral Intelligence and the Central Intelligence Agency, the Department of Defense, and the Coast Guard.
 
 #### (b) Common terminology
 
@@ -116,5 +116,5 @@ Except as otherwise provided in subsection (a) of this section, terms used in th
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

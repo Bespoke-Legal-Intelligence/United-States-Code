@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 #### (8) Person
 
-&emsp;The term “person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, public corporation, or any other legal or commercial entity.
+&emsp;The term “person” means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, governmental agency, publiccorporation, or any other legal or commercial entity.
 
 #### (9) Record
 

@@ -28,7 +28,7 @@ Based on title 18, U.S.C., 1940 ed., §121 (Mar. 4, 1909, ch. 321, §65, 35 Stat
 
 Section was formed from the words following the first semicolon and ending with the second semicolon, in section 121 of title 18, U.S.C., 1940 ed.
 
-The remaining provisions of section 121 of title 18, U.S.C., 1940 ed., relating to assaulting, resisting, or interfering with customs officers, revenue officers, or other persons, and to the rescue of seized property, constitute, along with provisions from other sections, sections 2231 and 2233 of this title.
+The remaining provisions of section 121 of title 18, U.S.C., 1940 ed., relating to assaulting, resisting, or interfering with customs officers, revenue officers, orother persons, and to the rescue of seized property, constitute, along with provisions from other sections, sections 2231 and 2233 of this title.
 
 Minor changes were made in phraseology.
 

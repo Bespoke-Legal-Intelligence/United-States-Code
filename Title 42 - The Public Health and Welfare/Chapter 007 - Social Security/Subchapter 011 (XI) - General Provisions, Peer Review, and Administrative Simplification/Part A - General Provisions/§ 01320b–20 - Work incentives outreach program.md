@@ -122,7 +122,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(3), 
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(1)(C)(ii)(I), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat.355, as amended. Title VII of the Act is classified generally to subchapter VII (§796 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Section 6024 of this title, referred to in subsec. (b)(1)(C)(ii)(I), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. See section 15025 of this title.
 

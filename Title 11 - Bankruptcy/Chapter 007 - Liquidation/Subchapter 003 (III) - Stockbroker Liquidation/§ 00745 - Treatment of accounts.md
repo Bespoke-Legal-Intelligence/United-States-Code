@@ -2,7 +2,7 @@
 
 (a) Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
 
-(b) If a stockbroker or a bank holds a customer net equity claim against the debtor that arose out of a transaction for a customer of such stockbroker or bank, each such customer of such stockbroker or bank shall be treated as a separate customer of the debtor.
+(b) If a stockbroker or a bank holds a customer net equity claim against the debtor thatarose out of a transaction for a customer of such stockbroker or bank, each such customer of such stockbroker or bank shall be treated as a separate customer of the debtor.
 
 (c) Each trustee's account specified as such on the debtor's books, and supported by a trust deed filed with, and qualified as such by, the Internal Revenue Service, and under the Internal Revenue Code of 1986, shall be treated as a separate customer account for each beneficiary under such trustee account.
 
@@ -14,7 +14,7 @@ I74senate report no. 95–989
 
 Section 745(a) indicates that each account held by a customer in a separate capacity is to be considered a separate account. This prevents the offset of accounts held in different capacities.
 
-Subsection (b) indicates that a bank or another stockbroker that is a customer of a debtor is considered to hold its customers accounts in separate capacities. Thus a bank or other stockbroker is not treated as a mutual fund for purposes of bulk investment. Thisprotects unrelated customers of a bank or other stockholder from having their accounts offset.
+Subsection (b) indicates that a bank or another stockbroker that is a customer of a debtor is considered to hold its customers accounts in separate capacities. Thus a bank or other stockbroker is not treated as a mutual fund for purposes of bulk investment. This protects unrelated customers of a bank or other stockholder from having their accounts offset.
 
 Subsection (c) effects the same result with respect to a trust so that each beneficiary is treated as the customer of the debtor rather than the trust itself. This eliminates any doubt whether a trustee holds a personal account in a separate capacity from his trustee's account.
 

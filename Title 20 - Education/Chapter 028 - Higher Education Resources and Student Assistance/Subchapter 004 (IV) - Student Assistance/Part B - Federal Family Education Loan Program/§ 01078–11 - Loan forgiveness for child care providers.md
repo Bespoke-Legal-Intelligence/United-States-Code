@@ -112,7 +112,7 @@ The Secretary shall pay to each eligible lender or holder for each fiscal year a
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct, by grant or contract, an independent national evaluation of the impact of the demonstration program assisted under this section on the field of early childhood education.
+&emsp;The Secretary shall conduct, by grant or contract, an independent national evaluationof the impact of the demonstration program assisted under this section on the field of early childhood education.
 
 #### (2) Competitive basis
 
@@ -136,7 +136,7 @@ The Secretary shall pay to each eligible lender or holder for each fiscal year a
 
 &emsp;&emsp;(E) identify the reasons why participants in the program have chosen to take part in the program;
 
-&emsp;&emsp;(F) identify the number of individuals participating in the program who received anassociate's degree and the number of such individuals who received a bachelor's degree; and
+&emsp;&emsp;(F) identify the number of individuals participating in the program who received an associate's degree and the number of such individuals who received a bachelor's degree; and
 
 &emsp;&emsp;(G) identify the number of years each individual participates in the program.
 

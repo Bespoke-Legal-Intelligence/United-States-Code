@@ -1,6 +1,14 @@
 ### §8334. Deductions, contributions, and deposits
 
-(a)(1) The employing agency shall deduct and withhold from the basic pay of an employee, Member, Congressional employee, law enforcement officer, firefighter, bankruptcy judge, judge of the United States Court of Appeals for the Armed Forces, United States magistrate,<sup>1</sup> Court of Federal Claims judge, member of the Capitol Police, member of the Supreme Court Police, or nuclear materials courier, as the case may be, the percentage of basic pay applicable under subsection (c). An equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
+(a)(1)(A) The employing agency shall deduct and withhold from the basic pay of an employee, Member, Congressional employee, law enforcement officer, firefighter, bankruptcy judge, judge of the United States Court of Appeals for the Armed Forces, United States magistrate,<sup>1</sup> Court of Federal Claims judge, member of the Capitol Police, member of the Supreme Court Police, or nuclear materials courier, as the case may be, the percentage of basic pay applicable under subsection (c).
+
+(B)(i) Except as provided in clause (ii), an equal amount shall be contributed from the appropriation or fund used to pay the employee or, in the case of an elected official, from an appropriation or fund available for payment of other salaries of the same office or establishment. When an employee in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the contribution that otherwise would be contributed from the appropriation or fund used to pay the employee.
+
+(ii) In the case of an employee of the United States Postal Service, the amount to be contributed under this subparagraph shall (instead of the amount described in clause (i)) be equal to the product derived by multiplying the employee's basic pay by the percentage equal to—
+
+&emsp;(I) the normal-cost percentage for the applicable employee category listed in subparagraph (A), minus
+
+&emsp;(II) the percentage deduction rate that applies with respect to such employee under subparagraph (A).
 
 (2) The amounts so deducted and withheld, together with the amounts so contributed, shall be deposited in the Treasury of the United States to the credit of the Fund under such procedures as the Secretary of the Treasury may prescribe. Deposits made by an employee or Member also shall be credited to the Fund.
 
@@ -93,7 +101,7 @@
 
 (2)(A) This paragraph applies with respect to any employee or Member who—
 
-&emsp;(i) separates before October 1, 1990, and receives (or elects, in accordance with applicable provisions of this subchapter, to receive) a refund (described in paragraph (1)) which relates to a period of service ending before October 1, 1990;
+&emsp;(i) separates before October 1, 1990, and receives (or elects, in accordance with applicable provisions of this subchapter, to receive) a refund (described in paragraph (1)) which relatesto a period of service ending before October 1, 1990;
 
 &emsp;(ii) is entitled to an annuity under this subchapter (other than a disability annuity) which is based on service of such employee or Member, and which commences on or after December 2, 1990; and
 
@@ -127,7 +135,7 @@
 
 (h) For the purpose of survivor annuities, deposits authorized by subsections (c), (d)(1), (j), and (k) of this section may also be made by a survivor of an employee or Member.
 
-(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to thissubchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
+(i)(1) The Director of the Administrative Office of the United States Courts shall pay to the Fund the amount which an employee may deposit under subsection (c) of this section for service creditable under section 8332(b)(12) of this title if such creditable service immediately precedes service as an employee subject to this subchapter with a break in service of no more than ninety working days. The Director shall pay such amount from any appropriation available to him as a necessary expense of the appropriation concerned.
 
 (2) The amount the Director pays in accordance with paragraph (1) of this subsection shall be reduced by the amount of any refund to the employee under section 376 of title 28. Except to the extent of such reduction, the amount the Director pays to the Fund shall satisfy the deposit requirement of subsection (c) of this section.
 
@@ -137,7 +145,7 @@
 
 (5) Notwithstanding any other provision of law, a judge who is covered by section 7296 of title 38 shall not be subject to deductions and contributions to the Fund, if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
 
-(6) Notwithstanding any other provision of law, a judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall not be subject to deductions and contributions to the Fund if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
+(6) Notwithstanding any other provision of law, a judge of the United States Court of Federal Claims who is covered by section 178 of title28 shall not be subject to deductions and contributions to the Fund if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such an election, the judge shall be entitled to a lump-sum credit under section 8342(a) of this title.
 
 (j)(1)(A) Except as provided in subparagraph (B), and subject to paragraph (5), each employee or Member who has performed military service before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office shall issue, to the agency by which the employee is employed, or, in the case of a Member or a Congressional employee, to the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, an amount equal to 7 percent of the amount of the basic pay paid under section 204 of title 37 to the employee or Member for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the employee or Member may provide, or if the Office determines sufficient evidence has not been so provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Office under paragraph (4).
 
@@ -159,9 +167,9 @@
 
 (k)(1) Effective with respect to pay periods beginning after December 31, 1986, in administering this section in the case of an individual described in section 8402(b)(2) of this title—
 
-&emsp;(A) the amount to be deducted and withheld by the employing agency shall be determined in accordance with paragraph (2) of this subsection instead of the first sentence of subsection (a)(1) of this section; and
+&emsp;(A) the amount to be deducted and withheld by the employing agency shall be determined in accordance with paragraph (2) of this subsection instead of subsection (a)(1)(A); and
 
-&emsp;(B) the amount of the contribution under the second sentence of subsection (a)(1) of this section shall be the amount which would have been contributed under such sentence if this subsection had not been enacted.
+&emsp;(B) the amount of the contribution under subparagraph (B) of subsection (a)(1) shall be the amount which would have been contributed under such subparagraph if this subsection had not been enacted.
 
 (2)(A) With respect to Federal wages of an employee or Member (or that portion thereof) not exceeding the contribution and benefit base during the calendar year involved, the appropriate amount to be deducted and withheld under this subsection is the amount by which—
 
@@ -177,7 +185,7 @@
 
 &emsp;(ii) the term “contribution and benefit base” means the contribution and benefit base in effect with respect to the period involved, as determined under section 230 of the Social Security Act;
 
-&emsp;(iii) the term “total deduction”, as used with respect to any Federal wages (or portion thereof), means an amount equal to the amount of those wages (or of that portion), multiplied by the percentage which (but for this subsection) would apply under the first sentence of subsection (a)(1) with respect to the individual involved; and
+&emsp;(iii) the term “total deduction”, as used with respect to any Federal wages (or portion thereof), means an amount equal to the amount of those wages (or of that portion), multiplied by the percentage which (but for this subsection) would apply under subsection (a)(1)(A) with respect to the individual involved; and
 
 &emsp;(iv) the term “OASDI contribution”, with respect to any income, means the amount of tax which may be imposed under section 3101(a) of the Internal Revenue Code of 1986 with respect to such income (determined without regard to any income which is not a part of Federal wages).
 
@@ -211,7 +219,7 @@
 
 (n) Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L.95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86; Pub. L. 107–107, div. A, title XI, §1132(a)(2), Dec. 28, 2001, 115 Stat. 1243.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 569; Pub. L. 90–83, §1(74), Sept. 11, 1967, 81 Stat. 214; Pub. L. 90–486, §5(b), Aug. 13, 1968, 82 Stat. 757; Pub. L. 91–93, title I, §102(a), title II, §202, Oct. 20, 1969, 83 Stat. 136, 138; Pub. L. 92–297, §7(2), May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §3, July 12, 1974, 88 Stat. 356; Pub. L. 94–126, §§1(a), 2(a), Nov. 12, 1975, 89 Stat. 679; Pub. L. 95–382, §1(b), Sept. 22, 1978, 92 Stat. 727; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–598, title III, §338(b), Nov. 6, 1978, 92 Stat. 2681; Pub. L. 97–164, title II, §207(b), Apr. 2, 1982, 96 Stat. 54; Pub. L. 97–253, title III, §§303(a)(1), 306(d), (e), Sept. 8, 1982, 96 Stat. 793, 796, 797; Pub. L. 97–346, §3(a), (c)–(e)(1), Oct. 15, 1982, 96 Stat. 1647, 1648; Pub. L. 98–94, title XII, §§1256(a), 1257, Sept. 24, 1983, 97 Stat. 701, 702; Pub. L. 89–702, title II, §209(f), as added Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 843; Pub. L. 98–353, title I, §116(b), July 10, 1984, 98 Stat. 344; Pub. L. 98–615, §2(2), Nov. 8, 1984, 98 Stat. 3195; Pub. L. 99–335, title II, §201(a), (c), June 6, 1986, 100 Stat. 588, 591; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–53, §2(b), June 18, 1987, 101 Stat. 367; Pub. L. 100–238, title I, §§102, 108(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1748; Pub. L. 100–659, §6(b), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(a), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–508, title VII, §7001(b)(1), (2)(A), (B), Nov. 5, 1990, 104 Stat. 1388–328, 1388–329; Pub. L. 101–650, title III, §§306(c)(2), (e)(2), 321, Dec. 1, 1990, 104 Stat. 5110, 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–378, §2(59), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XI, §11004(a)(3), Aug. 10, 1993, 107 Stat. 412; Pub. L. 103–82, title III, §371(a)(2), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title IX, §924(d)(1)(A), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–353, §5(b), Oct. 13, 1994, 108 Stat. 3173; Pub. L. 104–186, title II, §215(12), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, §103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, §7001(a)(3), (4), Aug. 5, 1997, 111 Stat. 653, 657; Pub. L. 105–61, title V, §516(a)(1), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, §3154(c)(1), (2), Oct. 17, 1998, 112 Stat. 2254; Pub. L. 106–65, div. A, title X, §1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, §101(a) \[title V, §505(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(1)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–86; Pub. L. 107–107, div. A, title XI, §1132(a)(2), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 108–18, §2(b), Apr. 23, 2003, 117 Stat. 624.)
 
 Historical and Revision Notes<br>1966
 
@@ -286,6 +294,14 @@ Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, refe
 The Peace Corps Act, referred to in subsec. (<i>l</i>)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–18, §2(b)(1), designated first sentence as subpar. (A), designated second and third sentences as subpar. (B)(i), substituted “Except as provided in clause (ii), an equal” for “An equal” in subpar. (B)(i), and added subpar. (B)(ii).
+
+Subsec. (k)(1)(A). Pub. L. 108–18, §2(b)(2)(A), substituted “subsection (a)(1)(A)” for “the first sentence of subsection (a)(1) of this section”.
+
+Subsec. (k)(1)(B). Pub. L. 108–18, §2(b)(2)(B), substituted “subparagraph (B) of subsection (a)(1)” for “the second sentence of subsection (a)(1) of this section” and “such subparagraph” for “such sentence”.
+
+Subsec. (k)(2)(C)(iii). Pub. L. 108–18, §2(b)(2)(C), substituted “subsection (a)(1)(A)” for “the first sentence of subsection (a)(1)”.
 
 2001—Subsec. (n). Pub. L. 107–107 added subsec. (n).
 
@@ -403,7 +419,7 @@ Subsec. (k)(2)(C)(iv). Pub. L. 99–514 substituted “Internal Revenue Code of 
 
 Subsec. (c). Pub. L. 98–353, §116(b)(2), substituted in the table relating to bankruptcy judges the items relating to 7 percent for the period Jan. 1, 1970 to Dec. 31, 1983, and 8 percent for the period after Dec. 31, 1983, for the prior item relating to 7 percent for the period after Jan. 1, 1970.
 
-Subsec. (h). Pub. L. 98–615 substituted “annuities, deposits authorized by subsections (c), (d), and (j) of this section and by section 8339(j)(5)(C) and the last sentence of section 8339(k)(2) of this title may also be made by a survivor” for “annuity, deposits authorized by subsections (c), (d), and (j) of this section may also be made by the survivor”.
+Subsec. (h). Pub. L. 98–615 substituted “annuities, deposits authorized by subsections (c), (d), and (j) of thissection and by section 8339(j)(5)(C) and the last sentence of section 8339(k)(2) of this title may also be made by a survivor” for “annuity, deposits authorized by subsections (c), (d), and (j) of this section may also be made by the survivor”.
 
 1983—Subsec. (a)(1). Pub. L. 98–94, §1256(a)(1), inserted “and a judge of the United States Court of Military Appeals” after “and 8 percent of the basic pay of a Member”.
 
@@ -458,6 +474,10 @@ Subsec. (g)(5). Pub. L. 91–93, §202, added par. (5).
 #### Change of Name
 
 “United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in subsecs. (c) and (i)(4) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–18, §4, Apr. 23, 2003, 117 Stat. 630, provided that: “This Act \[see section 1 of Pub. L. 108–18, set out as a Short Title of 2003 Amendments note under section 101 of this title\] and the amendments made by this Act shall become effective on the date of the enactment of this Act \[Apr. 23, 2003\], except that the amendments made by section 2(b) \[amending this section\] shall apply with respect to pay periods beginning on or after such date.”
 
 #### Effective Date of 2001 Amendment
 
@@ -603,7 +623,7 @@ In general.—Notwithstanding section 8334(a)(1) or (k)(1) of title 5, United St
 
 &emsp;&emsp;“(ii) 9.01 percent of the basic pay of a congressional employee, a law enforcement officer, a member of the Capitol police, or a firefighter; and
 
-&emsp;&emsp;“(iii) 9.51 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate \[now United States magistratejudge\], a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge;
+&emsp;&emsp;“(iii) 9.51 percent of the basic pay of a Member of Congress, a Court of Federal Claims judge, a United States magistrate \[now United States magistrate judge\], a judge of the United States Court of Appeals for the Armed Forces, or a bankruptcy judge;
 
 > &emsp;in lieu of the agency contributions otherwise required under section 8334(a)(1) of title 5, United States Code.
 

@@ -56,7 +56,7 @@ Amendment by act Aug. 28, 1950, effective Jan. 1, 1950, see section 404(c) of ac
 
 #### Termination Date
 
-Section 4 of act Aug. 6, 1947, provided that: “Section 603 of the War Mobilization and Reconversion Act of1944 \[section 1651 note of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and section 1104 of this title\].”
+Section 4 of act Aug. 6, 1947, provided that: “Section 603 of the War Mobilization and Reconversion Act of 1944 \[section 1651 note of Appendix to Title 50, War and National Defense\] (terminating the provisions of such Act \[sections 1651 to 1678 of Appendix to Title 50\] on June 30, 1947) shall not be applicable in the case of the amendments made by title IV of such Act \[sections 1666 and 1667 of Appendix to Title 50\] to the Social Security Act \[this section and section 1104 of this title\].”
 
 #### Applications for Transfer of Funds Under Former Provisions of Section 1321(a); Limitations
 
@@ -70,7 +70,7 @@ Section 522(b) of Pub. L. 86–778 provided that:
 
 > the Secretary of the Treasury shall, prior to audit or settlement by the General Accounting Office, transfer from the Federal unemployment account to the account of such State in the Unemployment Trust Fund the amount so requested or (if smaller) the amount available in the Federal unemployment account at the time of the transfer. No such amount shall be transferred under this paragraph after the one-year period beginning on the date of the enactment of this Act \[Sept. 13, 1960\].
 
-“(2) For purposes of section 3302(c) of the Federal Unemployment Tax Act \[section 3302(c) of Title 26, Internal Revenue Code\] and titles IX and XII of the Social Security Act \[subchapter IX and XII of this chapter\], if any amount is transferred pursuant to paragraph (1) to the unemployment account of any State, such amount shall be treated as an advance made before the date of the enactment of this Act \[Sept. 13, 1960\].”
+“(2) For purposes of section 3302(c) of the Federal Unemployment Tax Act \[section 3302(c) of Title 26, Internal Revenue Code\] and titles IX and XII of the Social Security Act \[subchapter IX and XII of this chapter\], if any amount is transferred pursuant to paragraph (1) to the unemployment account of any State, such amountshall be treated as an advance made before the date of the enactment of this Act \[Sept. 13, 1960\].”
 
 #### Advances to Alaska
 

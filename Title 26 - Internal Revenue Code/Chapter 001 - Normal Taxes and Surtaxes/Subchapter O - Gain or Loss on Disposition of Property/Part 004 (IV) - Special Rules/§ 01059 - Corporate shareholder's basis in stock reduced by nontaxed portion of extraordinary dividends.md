@@ -444,7 +444,7 @@ Definition of term and demand loans.—For purposes of this paragraph, the terms
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 246, 263, 1016 of this title; title 29 section 1343.
+This section is referred to in sections 1, 246, 263, 1016 of this title; title 29 section 1343.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

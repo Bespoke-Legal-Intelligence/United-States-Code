@@ -1,6 +1,6 @@
 ### §7675. Commissions of auctioneers
 
-(a) The Secretary of the Navy may establish a scale of commissions to be paid to auctioneersemployed to make sales of prize property. These commissions are in full satisfaction of expenses as well as services. The scale may in no case allow a commission in excess of—
+(a) The Secretary of the Navy may establish a scale of commissions to be paid to auctioneers employed to make sales of prize property. These commissions are in full satisfaction of expenses as well as services. The scale may in no case allow a commission in excess of—
 
 &emsp;(1) 1/2 of 1 percent on any amount exceeding $10,000 on the sale of a vessel; and
 

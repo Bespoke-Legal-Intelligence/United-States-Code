@@ -34,7 +34,7 @@ A comprehensive statewide outdoor recreation plan shall be required prior to the
 
 &emsp;(4) other necessary information, as may be determined by the Secretary.
 
-> The plan shall take into account relevant Federal resources and programs and shall be correlated so far as practicable with other State, regional, and local plans. Where there exists or is in preparation for any particular State a comprehensive plan financed in part with funds supplied by the Housing and Home Finance Agency, any statewide outdoor recreation plan prepared for purposes of this part shall be based upon the same population, growth, and other pertinent factors as are used in formulating the Housing and Home Finance Agency financed plans.
+> The plan shall take into account relevant Federal resources and programs and shall be correlated so far as practicable with other State, regional, and local plans. Where there exists or is in preparation for any particular State a comprehensive plan financed in part with funds supplied by the Housing and Home Finance Agency, any statewide outdoor recreation plan preparedfor purposes of this part shall be based upon the same population, growth, and other pertinent factors as are used in formulating the Housing and Home Finance Agency financed plans.
 
 The Secretary may provide financial assistance to any State for projects for the preparation of a comprehensive statewide outdoor recreation plan when such plan is not otherwise available or for the maintenance of such plan.
 
@@ -114,7 +114,7 @@ A prior section 6 of Pub. L. 88–578 was renumbered section 7 and is classified
 
 Subsec. (h). Pub. L. 103–322 added subsec. (h).
 
-1986—Subsec. (d). Pub. L. 99–645, §303(1), inserted provision requiring that for fiscal year 1988 and thereafter, each comprehensive statewide outdoor recreation plan specifically address wetlands within the State as an important outdoor recreation resource, or alternatively, submission of a wetlands priority plan developed in consultation with the State agency responsible for fish and wildlife resources in the State.
+1986—Subsec. (d). Pub. L. 99–645, §303(1), inserted provision requiring that for fiscal year 1988 and thereafter, each comprehensive statewide outdoor recreation planspecifically address wetlands within the State as an important outdoor recreation resource, or alternatively, submission of a wetlands priority plan developed in consultation with the State agency responsible for fish and wildlife resources in the State.
 
 Subsec. (e)(1). Pub. L. 99–645, §303(2), inserted “, or wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan”.
 

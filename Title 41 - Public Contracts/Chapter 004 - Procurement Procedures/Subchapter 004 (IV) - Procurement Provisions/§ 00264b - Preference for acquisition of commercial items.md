@@ -48,7 +48,7 @@ The head of each executive agency shall ensure that procurement officials in tha
 
 &emsp;(C) could meet the executive agency's requirements if those requirements were modified to a reasonable extent.
 
-(3) In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimum information that is necessary to make the determinations required in paragraph (2).
+(3) In conducting market research, the head of an executive agency should not require potential sources to submit more than the minimuminformation that is necessary to make the determinations required in paragraph (2).
 
 (June 30, 1949, ch. 288, title III, §314B, as added Pub. L. 103–355, title VIII, §8203, Oct. 13, 1994, 108 Stat. 3394.)
 

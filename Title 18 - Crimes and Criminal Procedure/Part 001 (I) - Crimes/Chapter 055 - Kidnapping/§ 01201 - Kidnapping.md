@@ -54,15 +54,13 @@ To whom applicable.—If—
 
 &emsp;&emsp;&emsp;&emsp;(VII) an individual having legal custody of the victim;
 
-> &emsp;the sentence under this section for such offense shall be subject to paragraph (2) of this subsection.
+> &emsp;the sentence under this section for such offense shall include imprisonment for not less than 20 years.
 
-&emsp;(2)
-
-Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of “kidnapping, abduction, or unlawful restraint,” by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.
+&emsp;\[(2) Repealed. Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653.\]
 
 (h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 
-(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201,Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987.)
+(June 25, 1948, ch. 645, 62 Stat. 760; Aug. 6, 1956, ch. 971, 70 Stat. 1043; Pub. L. 92–539, title II, §201, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §4, Oct. 8, 1976, 90 Stat. 1998; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 98–473, title II, §1007, Oct. 12, 1984, 98 Stat. 2139; Pub. L. 99–646, §§36, 37(b), Nov. 10, 1986, 100 Stat. 3599; Pub. L. 101–647, title IV, §401, title XXXV, §3538, Nov. 29, 1990, 104 Stat. 4819, 4925; Pub. L. 103–272, §5(e)(2), (8), July 5, 1994, 108 Stat. 1373, 1374; Pub. L. 103–322, title VI, §60003(a)(6), title XXXII, §§320903(b), 320924, title XXXIII, §330021, Sept. 13, 1994, 108 Stat. 1969, 2124, 2131, 2150; Pub. L. 104–132, title VII, §721(f), Apr. 24, 1996, 110 Stat. 1299; Pub. L. 105–314, title VII, §702, Oct. 30, 1998, 112 Stat. 2987; Pub. L. 108–21, title I, §104(b), Apr. 30, 2003, 117 Stat. 653.)
 
 #### Historical and Revision Notes
 
@@ -81,6 +79,12 @@ The phrase “for any term of years or for life” was substituted for the words
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–21 substituted “shall include imprisonment for not less than 20 years.” for “shall be subject to paragraph (2) of this subsection.” in concluding provisions of par. (1) and struck out par. (2) which read as follows:
+
+“(2)
+
+Guidelines.—The United States Sentencing Commission is directed to amend the existing guidelines for the offense of ‘kidnapping, abduction, or unlawful restraint,’ by including the following additional specific offense characteristics: If the victim was intentionally maltreated (i.e., denied either food or medical care) to a life-threatening degree, increase by 4 levels; if the victim was sexually exploited (i.e., abused, used involuntarily for pornographic purposes) increase by 3 levels; if the victim was placed in the care or custody of another person who does not have a legal right to such care or custody of the child either in exchange for money or other consideration, increase by 3 levels; if the defendant allowed the child to be subjected to any of the conduct specified in this section by another person, then increase by 2 levels.”
 
 1998—Subsec. (a)(1). Pub. L. 105–314, §702(a), inserted “, regardless of whether the person was alive when transported across a State boundary if the person was alive when the transportation began” before semicolon at end.
 
@@ -140,9 +144,9 @@ Pub. L. 103–173, §1, Dec. 2, 1993, 107 Stat. 1998, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 2001 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[enacting section 1203 of this title and provisions set outas a note under section 1203 of this title\] may be cited as the ‘Act for the Prevention and Punishment of the Crime of Hostage-Taking’.”
+Section 2001 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98–473 provided that: “This part \[enacting section 1203 of this title and provisions set out as a note under section 1203 of this title\] may be cited as the ‘Act for the Prevention and Punishment of the Crime of Hostage-Taking’.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 11, 115, 878, 1202, 1956, 2333, 3486, 3592, 4042 of this title.
+This section is referred to in sections 11, 115, 878, 1202, 1956, 2333, 3142, 3486, 3553, 3583, 3592, 4042 of this title.
 

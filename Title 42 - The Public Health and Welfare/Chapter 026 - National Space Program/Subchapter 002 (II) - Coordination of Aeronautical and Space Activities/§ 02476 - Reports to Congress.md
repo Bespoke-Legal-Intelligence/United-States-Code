@@ -26,5 +26,17 @@ Section 2451(c) of this title, referred to in subsecs. (a) and (b), was redesign
 
 Subsecs. (b) to (d). Pub. L. 92–68, §7(2), redesignated subsecs. (b), (c), and (d) as (a), (b), and (c), respectively.
 
+#### Delegation of Certain Reporting Authority
+
+Memorandum of President of the United States, Mar. 5, 2004, 69 F.R. 11489, provided:
+
+Memorandum for the Administrator of the National Aeronautics and Space Administration
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions conferred upon the President by section 206 of the National Aeronautics and Space Act of 1958, as amended (42 U.S.C. 2476), to provide the specified report to the Congress. Nothing in this delegation shall be construed to impair or otherwise affect the authority of the Director of the Office of Management and Budget with respect to budget, administrative, and legislative proposals.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

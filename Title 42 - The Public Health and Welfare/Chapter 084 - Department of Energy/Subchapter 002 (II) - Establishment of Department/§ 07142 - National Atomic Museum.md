@@ -14,7 +14,7 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 (1) In operating the National Atomic Museum, the Secretary of Energy may—
 
-&emsp;(A) recruit, train, and accept the services of individuals without compensation as volunteers for, or in aid of, interpretive functions orother services or activities of and related to the museum; and
+&emsp;(A) recruit, train, and accept the services of individuals without compensation as volunteers for, or in aid of, interpretive functions or other services or activities of and related to the museum; and
 
 &emsp;(B) provide to volunteers incidental expenses, such as nominal awards, uniforms, and transportation.
 

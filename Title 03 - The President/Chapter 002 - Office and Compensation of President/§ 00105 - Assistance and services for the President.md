@@ -24,7 +24,7 @@
 
 &emsp;(1) in the case of the White House Office, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5; and
 
-&emsp;(2) in the case of the Executive Residence, at respective daily rates of pay for individuals which are not more than the daily equivalentof the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5.
+&emsp;(2) in the case of the Executive Residence, at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5.
 
 > Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured for a period in excess of one year if the President determines such procurement is necessary.
 
@@ -82,7 +82,7 @@ Amendment by act July 31, 1956, effective at beginning of first pay period comme
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 of that act, set out as a note under section 273 of Title 2, The Congress.
+Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 ofthat act, set out as a note under section 273 of Title 2, The Congress.
 
 #### Repeals
 

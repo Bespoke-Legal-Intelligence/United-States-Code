@@ -6,7 +6,7 @@ Consistent with section 640d–7 of this title and the order of the District Cou
 
 #### (b) Additional payments to heads of household; time
 
-In addition to the payments made pursuant to section 640d–14 of this title, the Commissioner shall make payments to heads of households identified in the report prepared pursuant to section 640d–12 of this title upon the date of relocation of such households, as determined by the Commissioner, in accordance with the following schedule:
+In addition to the payments made pursuant to section 640d–14 of this title, the Commissioner shall make payments to heads of households identified in the report prepared pursuant to section 640d–12 of this title upon the date of relocation of such households, as determined bythe Commissioner, in accordance with the following schedule:
 
 &emsp;(1) the sum of $5,000 to each head of a household who, prior to the expiration of one year after the effective date of the relocation plan, contracts with the Commissioner to relocate;
 

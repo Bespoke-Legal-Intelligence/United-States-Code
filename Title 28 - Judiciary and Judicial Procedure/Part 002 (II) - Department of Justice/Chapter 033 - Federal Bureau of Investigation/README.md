@@ -14,17 +14,13 @@
 | [540\.](%C2%A7%2000540%20-%20Investigation%20of%20felonious%20killings%20of%20State%20or%20local%20law%20enforcement%20officers.md) | Investigation of felonious killings of State or local law enforcement officers. |
 | [540A.](%C2%A7%2000540A%20-%20Investigation%20of%20violent%20crimes%20against%20travelers.md) | Investigation of violent crimes against travelers. |
 | [540B.](%C2%A7%2000540B%20-%20Investigation%20of%20serial%20killings.md) | Investigation of serial killings. |
-| 540C.<sup>1</sup> | Annual report on activities of Federal Bureau of Investigation personnel outside the United States. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 540C.<sup>1</sup> | FBI police. |
+| [540C.](%C2%A7%2000540C%20-%20FBI%20police.md) | FBI police. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–177, title III, §361(m)(2), Dec. 13, 2003, 117 Stat. 2626, which directed amendment of table of sections by striking the item relating to section 540C, was executed by striking out item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States to reflect the probable intent of Congress, because corresponding section was repealed.
 
 2002—Pub. L. 107–306, title VIII, §824(b), Nov. 27, 2002, 116 Stat. 2429, added item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States.
 
@@ -44,8 +40,6 @@ Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
 1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
 
-<i><sup>1</sup></i><i> So in original. Two sections 540C have been enacted.</i>
-
 
 ---
 
@@ -63,5 +57,4 @@ Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 - [&sect; 00540 - Investigation of felonious killings of State or local law enforcement officers](%C2%A7%2000540%20-%20Investigation%20of%20felonious%20killings%20of%20State%20or%20local%20law%20enforcement%20officers.md)
 - [&sect; 00540A - Investigation of violent crimes against travelers](%C2%A7%2000540A%20-%20Investigation%20of%20violent%20crimes%20against%20travelers.md)
 - [&sect; 00540B - Investigation of serial killings](%C2%A7%2000540B%20-%20Investigation%20of%20serial%20killings.md)
-- [&sect; 00540C - 1 FBI police](%C2%A7%2000540C%20-%201%20FBI%20police.md)
-- [&sect; 00540C - 1 Annual report on activities of Federal Bureau of Investigation personnel outside the United States](%C2%A7%2000540C%20-%201%20Annual%20report%20on%20activities%20of%20Federal%20Bureau%20of%20Investigation%20personnel%20outside%20the%20United%20States.md)
+- [&sect; 00540C - FBI police](%C2%A7%2000540C%20-%20FBI%20police.md)

@@ -12,7 +12,7 @@ The purpose of the Initiative is to provide funds to enable the Director of NIHâ
 
 &emsp;(2) to enhance collaborative efforts among the Institutes to conduct and support multidisciplinary research in the areas that the Director deems most promising; and
 
-&emsp;(3) in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer andmore effective use of prescription drugs in the pediatric population.
+&emsp;(3) in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer and more effective use of prescription drugs in the pediatric population.
 
 #### (c) Duties
 
@@ -26,7 +26,7 @@ In carrying out subsection (b) of this section, the Director of NIH shallâ€”
 
 #### (d) Authorization
 
-For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated$50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.
 
 #### (e) Transfer of funds
 

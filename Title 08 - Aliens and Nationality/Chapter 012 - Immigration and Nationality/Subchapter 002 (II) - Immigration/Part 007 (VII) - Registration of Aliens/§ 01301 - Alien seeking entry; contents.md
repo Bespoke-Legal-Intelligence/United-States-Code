@@ -16,7 +16,7 @@ Amendment by Pub. L. 100–525 effective as if included in the enactment of the 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–653 applicable to applications for immigrant visas made, and visas issued, on orafter Nov. 14, 1986, see section 23(b) of Pub. L. 99–653, set out as a note under section 1201 of this title.
+Amendment by Pub. L. 99–653 applicable to applications for immigrant visas made, and visas issued, on or after Nov. 14, 1986, see section 23(b) of Pub. L. 99–653, set out as a note under section 1201 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -100,7 +100,7 @@ Subsec. (e)(1)(C). Pub. L. 104–188, §1309(b), added subpar. (C).
 
 1984—Subsec. (c). Pub. L. 98–369, §721(r)(2), inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
 
-Subsec. (e)(1)(A). Pub. L. 98–369, §721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation's taxable income and not properly chargeable to capital account)”.
+Subsec. (e)(1)(A). Pub. L. 98–369, §721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax underthis title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation's taxable income and not properly chargeable to capital account)”.
 
 1983—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revis
 
 #### Effective Date of 1983 Amendment
 
-Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note undersection 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
+Section 311(c)(4) of Pub. L. 97–448 provided that: “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under section 1361 of this title, and amending provisions set out as a note under section 1361 of this title\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
 
 #### Effective Date
 

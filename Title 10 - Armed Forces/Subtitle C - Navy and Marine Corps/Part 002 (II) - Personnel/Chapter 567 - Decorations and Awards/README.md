@@ -18,16 +18,29 @@
 | [6254\.](%C2%A7%2006254%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
 | [6255\.](%C2%A7%2006255%20-%20Commemorative%20or%20special%20medals%20facsimiles%20and%20ribbons.md) | Commemorative or special medals: facsimiles and ribbons. |
 | [6256\.](%C2%A7%2006256%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
+| 6257\.<sup>1</sup> | Medal of honor: presentation of Medal of Honor Flag. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 6257\.<sup>1</sup> | Korea Defense Service Medal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2002—Pub. L. 107–314, div. A, title V, §543(c)(2), Dec. 2, 2002, 116 Stat. 2550, added item 6257 “Korea Defense Service Medal”.
+
+Pub. L. 107–248, title VIII, §8143(c)(2)(B), Oct. 23, 2002, 116 Stat. 1570, added item 6257 “Medal of honor: presentation of Medal of Honor Flag”.
+
 2001—Pub. L. 107–107, div. A, title V, §553(b)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 6256.
 
 #### Extension of Time for Award of Decoration
 
-For extension of time for the award of decorations, or devices in lieu of decorations, for acts or services performed in direct support of military operations in Southeast Asia between July 1, 1958, and Mar. 28, 1973, see Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, set out as a note preceding section 3741 of this title.
+For extension of time for the award of decorations, or devices in lieu of decorations, for acts or services performed in direct support of military operations inSoutheast Asia between July 1, 1958, and Mar. 28, 1973, see Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, set out as a note preceding section 3741 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two sections 6257 have been enacted.</i>
 
 
 ---
@@ -50,3 +63,5 @@ For extension of time for the award of decorations, or devices in lieu of decora
 - [&sect; 06254 - Availability of appropriations](%C2%A7%2006254%20-%20Availability%20of%20appropriations.md)
 - [&sect; 06255 - Commemorative or special medals facsimiles and ribbons](%C2%A7%2006255%20-%20Commemorative%20or%20special%20medals%20facsimiles%20and%20ribbons.md)
 - [&sect; 06256 - Medal of honor duplicate medal](%C2%A7%2006256%20-%20Medal%20of%20honor%20duplicate%20medal.md)
+- [&sect; 06257 - 1 Medal of honor presentation of Medal of Honor Flag](%C2%A7%2006257%20-%201%20Medal%20of%20honor%20presentation%20of%20Medal%20of%20Honor%20Flag.md)
+- [&sect; 06257 - 1 Korea Defense Service Medal](%C2%A7%2006257%20-%201%20Korea%20Defense%20Service%20Medal.md)

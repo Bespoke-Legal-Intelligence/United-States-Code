@@ -46,7 +46,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 107 of Pub. L. 
 
 #### Study on Trade Adjustment Assistance for Fishermen
 
-Pub. L. 107–210, div. A, title I, §143, Aug. 6, 2002, 116 Stat. 953, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 6, 2002\], the Secretary of Commerce shall conduct a study and report to Congress regarding whether a trade adjustment assistance program is appropriate and feasible for fishermen. For purposes of the preceding sentence, the term ‘fishermen’ means any person who is engaged in commercial fishing or is a United States fish processor.”
+Pub. L. 107–210, div. A, title I, §143, Aug. 6, 2002, 116 Stat. 953, required Secretary of Commerce, not later than 1 year after Aug. 6, 2002, to conduct a study and report to Congress on appropriateness and feasibility of a trade adjustment assistance program for fishermen.
 
 #### Term “Industry” To Include Producers Located in United States Insular Possessions
 

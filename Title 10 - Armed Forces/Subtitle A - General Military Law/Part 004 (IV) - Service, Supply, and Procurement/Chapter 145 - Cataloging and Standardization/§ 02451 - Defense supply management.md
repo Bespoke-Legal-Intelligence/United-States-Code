@@ -12,7 +12,9 @@
 
 &emsp;(3) make efficient use of the services and facilities for inspecting, testing, and accepting such items.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, §33(a)(13), Sept. 2, 1958, 72 Stat. 1565.)
+(d) The Secretary shall coordinate with the Administrator of General Services to enable the use of commercial identifiers for commercial items within the Federal cataloging system.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 138; Pub. L. 85–861, §33(a)(13), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 108–136, div. A, title III, §341, Nov. 24, 2003, 117 Stat. 1448.)
 
 Historical and Revision Notes<br>1956
 
@@ -49,6 +51,8 @@ In subsection (c), the words “the most” are omitted as surplusage. The words
 The change makes clear that clauses (2) and (3) apply to all items, whether or not standardized, used throughout the Department of Defense.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 
 1958—Subsec. (c). Pub. L. 85–861 substituted “such” for “standardized” in cl. (2), and “such” for “those” in cl. (3).
 

@@ -2,7 +2,7 @@
 
 Each judge of a district court of the United States shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Mar. 2, 1955, ch. 9, §1(c), 69 Stat. 10; Pub. L. 88–426, title IV, §403(c), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, §205(b)(3), Aug. 9, 1975, 89 Stat. 422.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Mar. 2, 1955, ch. 9, §1(c), 69 Stat. 10; Pub. L. 88–426, title IV,§403(c), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, §205(b)(3), Aug. 9, 1975, 89 Stat. 422.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,11 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-2003—Salaries of district judges increased to $154,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2003, by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+2004—Salaries of district judges increased to $158,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+Salaries of district judges increased to $157,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
+
+2003—Salaries of district judges increased to $154,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2003, by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, formerly set out as a note under section 5332 of Title 5.
 
 2002—Salaries of district judges increased to $150,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
 

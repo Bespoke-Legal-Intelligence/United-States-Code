@@ -34,7 +34,7 @@ Nothing in this section shall be interpreted as—
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums asmay be necessary for succeeding fiscal years to carry out this section and section 80q–9a of this title.
+There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section and section 80q–9a of this title.
 
 (Pub. L. 101–185, §11, Nov. 28, 1989, 103 Stat. 1343; Pub. L. 104–278, §3, Oct. 9, 1996, 110 Stat. 3355.)
 

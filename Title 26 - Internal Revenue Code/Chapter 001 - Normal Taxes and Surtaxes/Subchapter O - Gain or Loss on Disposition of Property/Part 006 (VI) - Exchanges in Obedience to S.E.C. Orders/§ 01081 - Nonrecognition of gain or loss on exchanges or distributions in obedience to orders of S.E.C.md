@@ -16,7 +16,7 @@ No gain or loss shall be recognized to the transferor if stock or securities in 
 
 #### (3) Cancellation or redemption of stock or securities
 
-&emsp;For purposes of this subsection, a distribution in cancellation or redemption (except adistribution having the effect of a dividend) of the whole or a part of the transferor's own stock (not acquired on the transfer) and a payment in complete or partial retirement or cancellation of securities representing indebtedness of the transferor or a complete or partial retirement or cancellation of such securities which is a part of the consideration for the transfer shall be considered an expenditure for property other than nonexempt property, and if, on the transfer, a liability of the transferor is assumed, or property of the transferor is transferred subject to a liability, the amount of such liability shall be considered to be an expenditure by the transferor for property other than nonexempt property.
+&emsp;For purposes of this subsection, a distribution in cancellation or redemption (except a distribution having the effect of a dividend) of the whole or a part of the transferor's own stock (not acquired on the transfer) and a payment in complete or partial retirement or cancellation of securities representing indebtedness of the transferor or a complete or partialretirement or cancellation of such securities which is a part of the consideration for the transfer shall be considered an expenditure for property other than nonexempt property, and if, on the transfer, a liability of the transferor is assumed, or property of the transferor is transferred subject to a liability, the amount of such liability shall be considered to be an expenditure by the transferor for property other than nonexempt property.
 
 #### (4) Consents
 
@@ -58,7 +58,7 @@ The provisions of this section shall not apply to an exchange, expenditure, inve
 
 &emsp;(1) the order of the Securities and Exchange Commission in obedience to which such exchange, expenditure, investment, distribution, or sale was made recites that such exchange, expenditure, investment, distribution, or sale is necessary or appropriate to effectuate the provisions of section 11(b) of the Public Utility Holding Company Act of 1935 (15 U.S.C. 79k(b)),
 
-&emsp;(2) such order specifies and itemizes the stock and securities and other property which are ordered to be acquired, transferred, received, or sold on such exchange, acquisition, expenditure, distribution, or sale, and, in thecase of an investment, the investment to be made, and
+&emsp;(2) such order specifies and itemizes the stock and securities and other property which are ordered to be acquired, transferred, received, or sold on such exchange, acquisition, expenditure, distribution, or sale, and, in the case of an investment, the investment to be made, and
 
 &emsp;(3) such exchange, acquisition, expenditure, investment, distribution, or sale was made in obedience to such order, and was completed within the time prescribed therefor.
 

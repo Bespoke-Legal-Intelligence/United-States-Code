@@ -40,7 +40,7 @@ Section was classified to section 214b of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1996—Subsecs. (b)(1), (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsecs. (b)(1), (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

@@ -2,7 +2,7 @@ Part B—Education for Homeless Children and Youths
 
 #### Part Referred to in Other Sections
 
-This part is referred to in title 20 section 7824.
+This part is referred to in sections 5712, 5714–2 of this title; title 20 section 7824.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) Enforcement by Federal Trade Commission
 
-(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective ofwhether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
+(1) Compliance with the requirements imposed under this subchapter shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other government agency under subsection (b) hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed under this subchapter shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal Trade Commission Act \[15 U.S.C. 45(a)\] and shall be subject to enforcement by the Federal Trade Commission under section 5(b) thereof \[15 U.S.C. 45(b)\] with respect to any consumer reporting agency or person subject to enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements imposed under this subchapter and to require the filing of reports, the production of documents, and the appearance of witnesses as though the applicable terms and conditions of the Federal Trade Commission Act were part of this subchapter. Any person violating any of the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act as though the applicable terms and provisions thereof were part of this subchapter.
 
 (2)(A) In the event of a knowing violation, which constitutes a pattern or practice of violations of this subchapter, the Commission may commence a civil action to recover a civil penalty in a district court of the United States against any person that violates this subchapter. In such action, such person shall be liable for a civil penalty of not more than $2,500 per violation.
 
@@ -18,9 +18,9 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
+&emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], by the Board of Governors of the Federal Reserve System; and
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
+&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by theBoard of Directors of the Federal Deposit Insurance Corporation;
 
 &emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
 
@@ -46,7 +46,7 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;&emsp;&emsp;(i) damages for which the person is liable to such residents under sections 1681n and 1681<i>o</i> of this title as a result of the violation;
 
-&emsp;&emsp;&emsp;(ii) in the case of a violation of section 1681s–2(a) of this title, damages for which the person would, but for section 1681s–2(c) of this title, be liable to such residents as a result of the violation; or
+&emsp;&emsp;&emsp;(ii) in the case of a violation described in any of paragraphs (1) through (3) of section 1681s–2(c) of this title, damages for which the person would, but for section 1681s–2(c) of this title, be liable to such residents as a result of the violation; or
 
 &emsp;&emsp;&emsp;(iii) damages of not more than $1,000 for each willful or negligent violation; and
 
@@ -72,11 +72,11 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 &emsp;If the Federal Trade Commission or the appropriate Federal regulator has instituted a civil action or an administrative action under section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\] for a violation of this subchapter, no State may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission or the appropriate Federal regulator for any violation of this subchapter that is alleged in that complaint.
 
-#### (5) Limitations on State actions for violation of section 1681s–2(a)(1)
+#### (5) Limitations on State actions for certain violations
 
 #### (A) Violation of injunction required
 
-&emsp;&emsp;A State may not bring an action against a person under paragraph (1)(B) for a violation of section 1681s–2(a)(1) of this title, unless—
+&emsp;&emsp;A State may not bring an action against a person under paragraph (1)(B) for a violation described in any of paragraphs (1) through (3) of section 1681s–2(c) of this title, unless—
 
 &emsp;&emsp;&emsp;(i) the person has been enjoined from committing the violation, in an action brought by the State under paragraph (1)(A); and
 
@@ -84,11 +84,11 @@ Compliance with the requirements imposed under this subchapter with respect to c
 
 #### (B) Limitation on damages recoverable
 
-&emsp;&emsp;In an action against a person under paragraph (1)(B) for a violation of section 1681s–2(a)(1) of this title, a State may not recover any damages incurred before the date of the violation of an injunction on which the action is based.
+&emsp;&emsp;In an action against a person under paragraph (1)(B) for a violation described in any of paragraphs (1) through (3) of section 1681s–2(c) of this title, a State may not recover any damages incurred before the date of the violation of an injunction on which the action is based.
 
 #### (d) Enforcement under other authority
 
-For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (b) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under thatAct. In addition to its powers under any provision of law specifically referred to in subsection (b) of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this subchapter any other authority conferred on it by law.
 
 #### (e) Regulatory authority
 
@@ -96,19 +96,37 @@ For the purpose of the exercise by any agency referred to in subsection (b) of t
 
 (2) The Board of the National Credit Union Administration shall prescribe such regulations as necessary to carry out the purposes of this subchapter with respect to any persons identified under paragraph (3) of subsection (b) of this section.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442.)
+#### (f) Coordination of consumer complaint investigations
+
+#### (1) In general
+
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall develop and maintain procedures for the referral to each other such agency of any consumer complaint received by the agency alleging identity theft, or requesting a fraud alert under section 1681c–1 of this title or a block under section 1681c–2 of this title.
+
+#### (2) Model form and procedure for reporting identity theft
+
+&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall develop a model form and model procedures to be used by consumers who are victims of identity theft for contacting and informing creditors and consumer reporting agencies of the fraud.
+
+#### (3) Annual summary reports
+
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit an annual summary report to the Commission on consumer complaints received by the agency on identity theft or fraud alerts.
+
+#### (g) FTC regulation of coding of trade names
+
+If the Commission determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Commission shall take action to ensure the person's compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
+
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(<i>l</i>), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012.)
 
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
 The Federal Credit Union Act, referred to in subsec. (b)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (b)(6), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-This subchapter, referred to in subsec. (e), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as theFair Credit Reporting Act, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (e), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as the Fair Credit Reporting Act, to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -117,6 +135,18 @@ In subsec. (b)(4), “subtitle IV of title 49” substituted for “the Acts to 
 In subsec. (b)(5), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments
+
+2003—Subsec. (b)(1)(B). Pub. L. 108–159, §811(f), substituted “25A” for “25(a)”.
+
+Subsec. (c)(1)(B)(ii). Pub. L. 108–159, §312(e)(2)(A), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)”.
+
+Subsec. (c)(5). Pub. L. 108–159, §312(e)(2)(B)(ii), substituted “certain violations” for “violation of section 1681s–2(a)(1)” in heading.
+
+Subsec. (c)(5)(A), (B). Pub. L. 108–159, §312(e)(2)(B)(i), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)(1)”.
+
+Subsec. (f). Pub. L. 108–159, §153, added subsec. (f).
+
+Subsec. (g). Pub. L. 108–159, §412(e), added subsec. (g).
 
 1999—Subsec. (a)(4). Pub. L. 106–102, §506(b), struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
 
@@ -158,6 +188,12 @@ Pub. L. 102–242, §212(c)(1), added par. (1) and struck out former par. (1) wh
 
 1984—Subsec. (b)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+
+Amendment by section 412(e) of Pub. L. 108–159 effective at end of 15-month period beginning on Dec. 4, 2003, see section 412(g) of Pub. L. 108–159, set out as a note under section 1681b of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
@@ -176,11 +212,9 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note undersection 5314 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681g, 1681s–2 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1681b, 1681c, 1681c–1, 1681g, 1681m, 1681s–2, 1681t, 1681w of this title.
 

@@ -14,7 +14,7 @@ Each State, as a condition for having its State plan approved under this part, m
 
 The Secretary shall furnish technical assistance to the States for establishing the guidelines, and each State shall furnish the Secretary with copies of its guidelines.
 
-(Aug. 14, 1935, ch. 531, title IV, §467, as added Pub. L. 98–378, §18(a), Aug. 16, 1984, 98 Stat. 1321; amended Pub. L. 100–485, title I, §103(a), (b), Oct. 13, 1988, 102 Stat. 2346.)
+(Aug. 14, 1935, ch. 531, title IV, §467, as added Pub. L. 98–378, §18(a), Aug. 16, 1984, 98 Stat. 1321;amended Pub. L. 100–485, title I, §103(a), (b), Oct. 13, 1988, 102 Stat. 2346.)
 
 #### Amendments
 

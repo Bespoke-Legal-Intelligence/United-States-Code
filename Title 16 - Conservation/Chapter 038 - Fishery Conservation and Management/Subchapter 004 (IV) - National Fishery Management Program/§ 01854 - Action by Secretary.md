@@ -90,7 +90,7 @@
 
 #### (e) Rebuilding overfished fisheries
 
-(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort,fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
+(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
 
 (2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) take into consideration traditional fishing patterns of fishing vessels of the United States and the operating requirements of the fisheries;
 
-&emsp;&emsp;&emsp;(iii) are fair and equitable in allocating fishing privileges among United States fishermen and do not have economic allocation as the sole purpose; and
+&emsp;&emsp;&emsp;(iii) are fair and equitable in allocating fishing privileges among United Statesfishermen and do not have economic allocation as the sole purpose; and
 
 &emsp;&emsp;&emsp;(iv) promote, to the extent practicable, implementation of scientific research programs that include the tagging and release of Atlantic highly migratory species.
 
@@ -288,7 +288,7 @@ Section 109(h) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 
 “(1) The Secretary of Commerce shall—
 
-&emsp;“(A) establish an advisory panel under section 302(g)(4) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1852(g)(4)\], as amended by this Act, for pelagic longline fishing vessels that participate in fisheries for Atlantic highly migratory species;
+&emsp;“(A) establish an advisory panel under section 302(g)(4) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1852(g)(4)\], asamended by this Act, for pelagic longline fishing vessels that participate in fisheries for Atlantic highly migratory species;
 
 &emsp;“(B) conduct surveys and workshops with affected fishery participants to provide information and identify options for future management programs;
 

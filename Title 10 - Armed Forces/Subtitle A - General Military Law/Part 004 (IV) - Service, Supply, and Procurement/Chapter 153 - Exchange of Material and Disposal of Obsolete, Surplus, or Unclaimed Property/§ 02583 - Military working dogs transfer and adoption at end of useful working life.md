@@ -2,7 +2,7 @@
 
 (a)
 
-Availability for Adoption.—The Secretary of Defense may make a military working dog of the Department of Defense available for adoption by a person or entity referred to in subsection (c) at the end of the dog's useful working life or when the dog is otherwise excess to the needs of the Department, unless the dog has been determined to be unsuitable for adoption under subsection (b).
+Availability for Adoption.—The Secretary of Defense may make a military working dog of the Department of Defense available for adoption by a person or entity referred to in subsection (c) at the end of the dog's usefulworking life or when the dog is otherwise excess to the needs of the Department, unless the dog has been determined to be unsuitable for adoption under subsection (b).
 
 (b)
 

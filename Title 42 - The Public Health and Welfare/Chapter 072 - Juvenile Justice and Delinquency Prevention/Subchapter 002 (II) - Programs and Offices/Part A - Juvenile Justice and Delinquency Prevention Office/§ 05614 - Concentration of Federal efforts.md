@@ -22,7 +22,7 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(1) advise the President through the Attorney General as to all matters relating to federally assisted juvenile delinquency programs and Federal policies regarding juvenile delinquency;
 
-&emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations,guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
+&emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations, guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
 
 &emsp;(3) conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities;
 
@@ -56,7 +56,7 @@ All functions of the Administrator under this subchapter shall be coordinated as
 
 #### References in Text
 
-Section 5633(a)(15) of this title, referred to in subsec. (b)(6), was redesignated section 5633(a)(14) of this title by Pub. L. 107–273, div. C, title II, §12209(1)(S), Nov. 2, 2002, 116 Stat. 1879.
+Section 5633(a)(15) of this title, referred to in subsec. (b)(6), was redesignated section 5633(a)(14) of this titleby Pub. L. 107–273, div. C, title II, §12209(1)(S), Nov. 2, 2002, 116 Stat. 1879.
 
 #### Codification
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (
 
 “(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
-Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
+Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress bythe Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
@@ -174,7 +174,7 @@ Subsec. (b)(6). Pub. L. 94–273, §12(3), substituted “June” for “March�
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1988 Amendment
 

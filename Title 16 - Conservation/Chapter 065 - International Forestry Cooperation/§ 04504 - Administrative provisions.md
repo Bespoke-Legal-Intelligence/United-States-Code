@@ -6,7 +6,7 @@ The Secretary shall coordinate all activities outside of the United States under
 
 #### (b) Assistance
 
-The Secretary may provide assistance, as determined appropriate by the Secretary to carry out this chapter, including technical and financial assistance, equipment, and facilities without reimbursement.
+The Secretary may provide assistance, as determined appropriate by the Secretary to carryout this chapter, including technical and financial assistance, equipment, and facilities without reimbursement.
 
 (Pub. L. 101–513, title VI, §609, formerly §605, Nov. 5, 1990, 104 Stat. 2072; renumbered §609, Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)
 

@@ -1,6 +1,6 @@
 ### §7502. Actions covered
 
-This subchapter applies to a suspension for 14 days or less, but does not apply to a suspensionunder section 7521 or 7532 of this title or any action initiated under section 1215 of this title.
+This subchapter applies to a suspension for 14 days or less, but does not apply to a suspension under section 7521 or 7532 of this title or any action initiated under section 1215 of this title.
 
 (Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–12, §9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 

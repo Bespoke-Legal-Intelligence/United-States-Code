@@ -82,7 +82,7 @@ The Director—
 
 &emsp;(15) shall ensure that drug prevention and drug treatment research and information is effectively disseminated by National Drug Control Program agencies to State and local governments and nongovernmental entities involved in demand reduction by—
 
-&emsp;&emsp;(A) encouraging formal consultation between any such agency that conducts or sponsors research, and any such agency that disseminates information in developing research and information product development agendas;
+&emsp;&emsp;(A) encouraging formal consultation between any such agency that conducts or sponsors research, and any such agency thatdisseminates information in developing research and information product development agendas;
 
 &emsp;&emsp;(B) encouraging such agencies (as appropriate) to develop and implement dissemination plans that specifically target State and local governments and nongovernmental entities involved in demand reduction; and
 
@@ -120,7 +120,7 @@ The Director—
 
 #### (i) Inadequate requests
 
-&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) isinadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description of funding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
+&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description of funding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
 
 #### (ii) Adequate requests
 
@@ -152,7 +152,7 @@ The Director—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the time a National Drug Control Program agency submits its budget request to the Office of Management and Budget, the head of the National Drug Control Program agency shall submit a copy of the budget request to the Director.
+&emsp;&emsp;&emsp;At the time a National Drug Control Program agency submits its budget request to the Office of Management andBudget, the head of the National Drug Control Program agency shall submit a copy of the budget request to the Director.
 
 #### (ii) Certification
 
@@ -192,7 +192,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;(3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
-&emsp;(4) procure the services of experts and consultants in accordance with section 3109 of title 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent ofthe rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
+&emsp;(4) procure the services of experts and consultants in accordance with section 3109 of title 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
 
 &emsp;(5) accept and use gifts and donations of property from Federal, State, and local government agencies, and from the private sector, as authorized in section 1702(d) of this title;
 
@@ -308,7 +308,7 @@ Ex. Ord. No. 12880, Nov. 16, 1993, 58 F.R. 60989, as amended by Ex. Ord. No. 130
 
 The Office of National Drug Control Policy has the lead responsibility within the Executive Office of the President to establish policies, priorities, and objectives for the Nation's drug control program, with the goal of reducing the production, availability, and use of illegal drugs. All lawful and reasonable means must be used to ensure that the United States has a comprehensive and effective National Drug Control Strategy.
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United Statesof America, including the National Narcotics Leadership Act of 1988, as amended (former 21 U.S.C. 1501 <i>et seq</i>.), and in order to provide for the effective management of the drug abuse policies of the United States, it is hereby ordered as follows:
 
 Section 1.
 

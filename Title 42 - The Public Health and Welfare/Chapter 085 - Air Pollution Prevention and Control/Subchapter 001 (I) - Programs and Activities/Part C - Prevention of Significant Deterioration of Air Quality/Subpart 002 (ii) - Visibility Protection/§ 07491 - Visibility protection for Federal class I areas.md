@@ -6,7 +6,7 @@
 
 (2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
 
-(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete astudy and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
+(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete a study and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
 
 &emsp;(A) methods for identifying, characterizing, determining, quantifying, and measuring visibility impairment in Federal areas referred to in paragraph (1), and
 
@@ -34,7 +34,7 @@ Regulations under subsection (a)(4) of this section shall—
 
 #### (c) Exemptions
 
-(1) The Administrator may, by rule, after notice and opportunity for public hearing, exempt any major stationary source from the requirement of subsection (b)(2)(A) of this section, upon his determination that such source does not or will not, by itself or in combination with other sources, emit any air pollutant which may reasonably be anticipated to cause or contribute to a significant impairment of visibility in any mandatory class I Federal area.
+(1) The Administrator may, by rule, after notice and opportunity for public hearing, exempt any major stationary source from the requirement of subsection (b)(2)(A) of this section, upon his determination that such source does not or will not, by itself or in combination with othersources, emit any air pollutant which may reasonably be anticipated to cause or contribute to a significant impairment of visibility in any mandatory class I Federal area.
 
 (2) Paragraph (1) of this subsection shall not be applicable to any fossil-fuel fired powerplant with total design capacity of 750 megawatts or more, unless the owner or operator of any such plant demonstrates to the satisfaction of the Administrator that such powerplant is located at such distance from all areas listed by the Administrator under subsection (a)(2) of this section that such powerplant does not or will not, by itself or in combination with other sources, emit any air pollutant which may reasonably be anticipated to cause or contribute to significant impairment of visibility in any such area.
 

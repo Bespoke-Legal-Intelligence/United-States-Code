@@ -20,10 +20,13 @@
 | [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. |
 | \[4111. | Repealed.\] |
 | [4112\.](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md) | Performance incentive awards for quality employment, training, and placement services. |
+| [4113\.](%C2%A7%2004113%20-%20Outstationing%20of%20Transition%20Assistance%20Program%20personnel.md) | Outstationing of Transition Assistance Program personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–183, title III, §309(a)(2), Dec. 16, 2003, 117 Stat. 2663, added item 4113.
 
 2002—Pub. L. 107–288, §§3(b), 4(a)(2), (3)(A)(ii), Nov. 7, 2002, 116 Stat. 2038, 2042, substituted “Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators” for “Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators” in item 4102A and “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in item 4103, struck out item 4104A “Performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives”, and added item 4112.
 
@@ -49,7 +52,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1966—Pub. L. 89–358, §6(a), Mar. 3, 1966, 80 Stat. 27, substituted “JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS” for “UNEMPLOYMENT BENEFITS FOR VETERANS” in chapter heading.
 
-1962—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of Stateagreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
+1962—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of State agreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
 
 #### Chapter Referred to in Other Sections
 
@@ -78,3 +81,4 @@ This chapter is referred to in sections 3117, 4212 of this title; title 20 secti
 - [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)
 - [&sect; 04111 - Repealed. Pub. L. 107&#8211;95, &sect;5(e)(3), Dec. 21, 2001, 115 Stat. 918](%C2%A7%2004111%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9395%2C%20%C2%A75%28e%29%283%29%2C%20Dec.%2021%2C%202001%2C%20115%20Stat.%20918.md)
 - [&sect; 04112 - Performance incentive awards for quality employment, training, and placement services](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md)
+- [&sect; 04113 - Outstationing of Transition Assistance Program personnel](%C2%A7%2004113%20-%20Outstationing%20of%20Transition%20Assistance%20Program%20personnel.md)

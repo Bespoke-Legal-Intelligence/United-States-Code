@@ -30,7 +30,7 @@ Protests.—A protest is not authorized in connection with the issuance or propo
 
 (e)
 
-Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
+Task and Delivery Order Ombudsman.—Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shallappoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency's competition advocate.
 
 (f)
 
@@ -44,9 +44,9 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304a, 2304b, 2304d of this title.
+This section is referred to in sections 2304a, 2304b, 2304d, 2382 of this title; title 6 section 426.
 

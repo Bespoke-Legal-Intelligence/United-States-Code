@@ -38,7 +38,7 @@ Section 1730a of this title, referred to in pars. (2) and (3)(A), was repealed b
 
 1988—Par. (3)(B). Pub. L. 100–650, §2, substituted “25 percent” for “50 per centum” in two places.
 
-Par. (4). Pub. L. 100–650, §3, substituted “(including an advisory or honorary director, except in the case ofa depository institution with total assets of less than $100,000,000)” for “(including an advisory or honorary director)”.
+Par. (4). Pub. L. 100–650, §3, substituted “(including an advisory or honorary director, except in the case of a depository institution with total assets of less than $100,000,000)” for “(including an advisory or honorary director)”.
 
 Par. (6). Pub. L. 100–650, §5(b)(1), added par. (6).
 

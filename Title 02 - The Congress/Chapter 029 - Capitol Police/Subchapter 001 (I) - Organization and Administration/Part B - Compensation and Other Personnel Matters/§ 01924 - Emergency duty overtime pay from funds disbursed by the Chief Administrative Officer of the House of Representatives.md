@@ -58,7 +58,7 @@ As originally codified, this section consisted of two undesignated pars. based o
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–186, §221(10), substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–186, §221(10), substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (d). Pub. L. 104–186, §221(11)(A), substituted “House Oversight” for “House Administration”.
 
@@ -67,4 +67,8 @@ Subsec. (g). Pub. L. 104–186, §221(11)(B), struck out subsec. (g) which read 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Transfer of Functions
+
+Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or the Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police. See section 1907(a) of this title.
 

@@ -132,7 +132,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 &emsp;An election and consent under this subsection shall apply to the taxable year for which made and all subsequent taxable years unless revoked by the partnership. Such revocation may be made without the consent of the Secretary, but, once so revoked, may not be reinstated.
 
-(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931.)
+(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI,§6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931.)
 
 #### References in Text
 

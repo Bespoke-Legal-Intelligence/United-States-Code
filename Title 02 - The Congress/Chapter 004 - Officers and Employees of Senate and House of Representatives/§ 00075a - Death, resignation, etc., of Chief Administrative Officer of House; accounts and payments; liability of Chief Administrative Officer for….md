@@ -6,7 +6,7 @@ On and after June 8, 1942, in case of the death, resignation, separation from of
 
 #### Amendments
 
-1996—Pub. L. 104–186, §204(19)(A), in first sentence, substituted “Chief Administrative Officer of the House of Representatives, the accounts of the Chief Administrative Officer” for “Clerk of the House of Representatives, the accounts of such Clerk” and “new Chief Administrative Officer shall have been appointed” for “new Clerk of the House of Representatives shall have been elected and qualified”.
+<b>1996</b>—Pub. L. 104–186, §204(19)(A), in first sentence, substituted “Chief Administrative Officer of the House of Representatives, the accounts of the Chief Administrative Officer” for “Clerk of the House of Representatives, the accounts of such Clerk” and “new Chief Administrative Officer shall have been appointed” for “new Clerk of the House of Representatives shall have been elected and qualified”.
 
 Pub. L. 104–186, §204(19)(B), in second sentence, struck out “, audited,” after “shall be allowed” and substituted “name of the former Chief Administrative Officer” for “name of the former Clerk of the House of Representatives” and “the former Chief Administrative Officer” for “such former Clerk”.
 
@@ -14,7 +14,7 @@ Pub. L. 104–186, §204(19)(C), in third sentence, substituted “The former Ch
 
 Pub. L. 104–186, §204(19)(D), inserted at end “The accounts and payments referred to in the second sentence shall be audited by the Inspector General of the House of Representatives.”
 
-1972—Pub. L. 92–310 struck out provisions which related to the sureties on the bond of the former clerk, and which required the disbursing clerk to give a bond.
+<b>1972</b>—Pub. L. 92–310 struck out provisions which related to the sureties on the bond of the former clerk, and which required the disbursing clerk to give a bond.
 
 #### Section Referred to in Other Sections
 

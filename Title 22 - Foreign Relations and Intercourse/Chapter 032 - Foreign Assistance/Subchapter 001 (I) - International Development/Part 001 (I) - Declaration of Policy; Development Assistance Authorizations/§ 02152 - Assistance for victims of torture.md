@@ -16,7 +16,7 @@ Such assistance shall be available—
 
 &emsp;(2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).
 
-(Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
+(Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
 
 #### Delegation of Functions
 
@@ -24,7 +24,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Torture Victims Relief; Effective Date
 
-Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87, §6(b), Nov. 3, 1999, 113 Stat. 1302, provided that:
+Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87, §6(b), Nov. 3, 1999, 113 Stat. 1302; Pub. L. 108–179, §§2(a), 3(a), Dec. 15, 2003, 117 Stat. 2643, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -66,7 +66,7 @@ Funding.—
 
 &emsp;“(1)
 
-Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President $5,000,000 for fiscal year 1999 and $7,500,000 for fiscal year 2000 to carry out section 130 of the Foreign Assistance Act of 1961 \[this section\] (as redesignated by section 6(a) of the Torture Victims Relief Reauthorization Act of 1999).
+Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 2004 and 2005 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President to carry out section 130 of such Act \[this section\] (relating to assistance for centers in foreign countries and programs for the treatment of victims of torture) $11,000,000 for fiscal year 2004 and $12,000,000 for fiscal year 2005.
 
 &emsp;“(2)
 
@@ -94,7 +94,7 @@ Funding.—
 
 &emsp;“(1)
 
-Authorization of appropriations.—Of the amounts authorized to be appropriated for the Department of Health and Human Services for fiscal years 1999 and 2000, there are authorized to be appropriated to carry out subsection (a) (relating to assistance for domestic centers and programs for the treatment of victims of torture) $5,000,000 for fiscal year 1999, and $7,500,000 for fiscal year 2000.
+Authorization of appropriations.—Of the amounts authorized to be appropriated for the Department of Health and Human Services for fiscal years 2004 and 2005, there are authorized to be appropriated to carry out subsection (a) (relating to assistance for domestic centers and programs for the treatment of victims of torture) $20,000,000 for fiscal year 2004 and $25,000,000 for fiscal year 2005.
 
 &emsp;“(2)
 
@@ -104,7 +104,7 @@ Availability of funds.—Amounts appropriated pursuant to this subsection shall 
 
 “(a)
 
-Funding.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant to chapter 3 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2221 et seq.\], there are authorized to be appropriated to the United Nations Voluntary Fund for Victims of Torture (in this section referred to as the ‘Fund’) the following amounts for the following fiscal years:
+Funding.—Of the amounts authorized to be appropriated for fiscal years 1999 and 2000 pursuant tochapter 3 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2221 et seq.\], there are authorized to be appropriated to the United Nations Voluntary Fund for Victims of Torture (in this section referred to as the ‘Fund’) the following amounts for the following fiscal years:
 
 &emsp;“(1)
 
@@ -151,4 +151,8 @@ In General.—The Secretary of State shall provide training for foreign service 
 “(b)
 
 Gender-Related Considerations.—In conducting training under subsection (a)(4) or (5), gender-specific training shall be provided on the subject of interacting with women and men who are victims of torture by rape or any other form of sexual violence.”
+
+\[Pub. L. 108–179, §2(b), Dec. 15, 2003, 117 Stat. 2643, provided that: “The amendment made by subsection (a) \[amending section 5(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003.”\]
+
+\[Pub. L. 108–179, §3(b), Dec. 15, 2003, 117 Stat. 2643, provided that: “The amendment made by subsection (a) \[amending section 4(b)(1) of Pub. L. 105–320, set out above\] shall take effect October 1, 2003.”\]
 

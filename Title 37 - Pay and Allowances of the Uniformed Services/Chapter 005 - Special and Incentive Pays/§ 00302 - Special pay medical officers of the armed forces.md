@@ -138,7 +138,7 @@ In subsection (c), the words “disability retirement pay” are omitted as cove
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under this subsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
+2002—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under thissubsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
 
 2000—Subsec. (h)(1). Pub. L. 106–398 inserted before period at end “, including active duty in the form of annual training, active duty for training, and active duty for special work”.
 
@@ -270,7 +270,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Application of Increase
 
-In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonusthat may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
+In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
 
 #### Prohibition on Use of Appropriations To Pay Bonuses to Certain Regular or Reserve Medical Officers of Public Health Service
 

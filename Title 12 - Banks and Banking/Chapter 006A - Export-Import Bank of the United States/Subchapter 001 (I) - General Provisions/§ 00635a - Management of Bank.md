@@ -32,7 +32,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;(iii) of the directors first appointed to serve beginning on or after January 21, 1985, two directors (other than the President and First Vice President of the Bank) shall be appointed for terms of two years, as designated by the President of the United States at the time of their appointment; and
 
-&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term wouldhave expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had been preceded by a director whose term had begun on January 21, 1985.
+&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term would have expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had been preceded by a director whose term had begun on January 21, 1985.
 
 (B) Of the five members of the Board appointed by the President, not less than one such member shall be selected from among the small business community and shall represent the interests of small business.
 
@@ -146,9 +146,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119, provided in part that: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2002.”
+\[Pub. L. 108–7, div. E, title I, Feb. 20, 2003, 117 Stat. 160, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2003.”\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119.
 
 \[Pub. L. 106–429, §101(a) \[title I\], Nov. 6, 2000, 114 Stat. 1900, 1900A–4.
 
@@ -198,7 +200,7 @@ There is hereby established the office of Managing Director of the Export-Import
 
 #### Sec. 2. Deputy Director
 
-There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. The Deputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
+There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. TheDeputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
 
 #### Sec. 3. Assistant Director
 

@@ -2,7 +2,7 @@
 
 #### (a) Function and operation
 
-There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of theAssistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
+There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
 
 #### (b) Appointment of Assistant Secretary
 
@@ -74,7 +74,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(B) review and make recommendations to the Assistant Secretary regarding—
 
-&emsp;&emsp;(i) the approval of the provisions in State plans submitted under section 3027(a) of this title that relate to State Long-Term Care Ombudsman programs; and
+&emsp;&emsp;(i) the approval of the provisions in State plans submitted under section 3027(a) of thistitle that relate to State Long-Term Care Ombudsman programs; and
 
 &emsp;&emsp;(ii) the adequacy of State budgets and policies relating to the programs;
 
@@ -138,7 +138,7 @@ Subsec. (c)(3)(B). Pub. L. 102–375, §§201(b)(1), 904(a)(3)(A), (B), inserted
 
 Subsec. (c)(3)(E). Pub. L. 102–375, §904(a)(3)(A), (C), substituted “this chapter” for “the chapter” and inserted “individuals who are” after “older”.
 
-Subsec. (c)(3)(F). Pub. L. 102–375, §201(b)(2), inserted before semicolon “, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans”.
+Subsec. (c)(3)(F). Pub. L. 102–375, §201(b)(2), inserted before semicolon “, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, withexperience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans”.
 
 Subsec. (c)(3)(G). Pub. L. 102–375, §904(a)(3)(A), inserted “individuals who are” before “Native Americans”.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) dairy products are basic foods that are a valuable part of the human diet;
 
-&emsp;(2) the production of dairy products plays a significant role in the Nation's economy themilk from which dairy products are manufactured is produced by thousands of milk producers, and dairy products are consumed by millions of people throughout the United States;
+&emsp;(2) the production of dairy products plays a significant role in the Nation's economy the milk from which dairy products are manufactured is produced by thousands of milk producers, and dairy products are consumed by millions of people throughout the United States;
 
 &emsp;(3) dairy products must be readily available and marketed efficiently to ensure that the people of the United States receive adequate nourishment;
 
@@ -18,7 +18,7 @@
 
 #### Amendments
 
-2002—Subsec. (b). Pub. L. 107–171 inserted “and on imported dairy products” after “commercial use” and struck out “ produced in the United States” after “fluid milk and dairy products” in first sentence and inserted “or the right of any person to import dairy products” before period at end of second sentence.
+2002—Subsec. (b). Pub. L. 107–171 inserted “and on imported dairy products” after “commercial use” and struck out “produced in the United States” after “fluid milk and dairy products” in first sentence and inserted “or the right of any person to import dairy products” before period at end of second sentence.
 
 #### Short Title
 

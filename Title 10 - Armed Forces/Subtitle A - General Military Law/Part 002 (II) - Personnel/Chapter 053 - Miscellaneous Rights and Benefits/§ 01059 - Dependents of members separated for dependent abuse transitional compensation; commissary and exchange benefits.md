@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
+Authority To Pay Compensation.—The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
 (b)
 
@@ -14,7 +14,7 @@ Punitive and Other Adverse Actions Covered.—This section applies in the case o
 
 &emsp;&emsp;(B) forfeiting all pay and allowances pursuant to a sentence of a court-martial; or
 
-&emsp;(2) who is administratively separated from active duty in accordance with applicable regulations if the basis for the separation includes a dependent-abuse offense.
+&emsp;(2) who is administratively separated, voluntarily or involuntarily, from active duty in accordance with applicable regulations if the basis for the separation includes a dependent-abuse offense.
 
 (c)
 
@@ -40,17 +40,17 @@ Recipients of Payments.—In the case of any individual described in subsection 
 
 Commencement and Duration of Payment.—(1) Payment of transitional compensation under this section—
 
-&emsp;(A) in the case of a member convicted by a court-martial for a dependent-abuse offense, shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
+&emsp;(A) in the case of a member convicted by a court-martial for a dependent-abuse offense, shall commence—
+
+&emsp;&emsp;(i) as of the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
+
+&emsp;&emsp;(ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
 
 &emsp;(B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
-(2) Transitional compensation with respect to a member shall be paid for a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+(2) Transitional compensation with respect to a member shall be paid for a period of not lessthan 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
-&emsp;(A) the unserved portion of the member's period of obligated active duty service; or
-
-&emsp;(B) 12 months.
-
-(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such punishment applicable to the member under the sentence is remitted, set aside, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
+(3)(A) If a member is sentenced by a court-martial to receive punishment that includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances as a result of a conviction by a court-martial for a dependent-abuse offense and each such conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated to a lesser punishment that does not include any such punishment, any payment of transitional compensation that has commenced under this section on the basis of such sentence in that case shall cease.
 
 (B) If administrative separation of a member from active duty is proposed on a basis that includes a dependent-abuse offense and the proposed administrative separation is disapproved by competent authority under applicable regulations, payment of transitional compensation in such case shall cease.
 
@@ -92,7 +92,7 @@ Commissary and Exchange Benefits.—(1) A dependent or former dependent entitled
 
 (k)
 
-Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Transportation shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces\(other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
@@ -106,9 +106,33 @@ Dependent Child Defined.—In this section, the term “dependent child”, with
 
 &emsp;(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child's support.
 
-(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, titleV, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032.)
+(m)
+
+Exceptional Eligibility for Dependents of Former Members.—(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
+
+(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
+
+(3) The authority of the Secretary concerned under paragraph (1) may not be delegated.
+
+(Added Pub. L. 103–160, div. A, title V, §554(a)(1), Nov. 30, 1993, 107 Stat. 1663, §1058; renumbered §1059 and amended Pub. L. 103–337, div. A, title V, §535(a)–(c)(1), title X, §1070(a)(5)(A), Oct. 5, 1994, 108 Stat. 2762, 2763, 2855; Pub. L. 104–106, div. A, title VI, §636(a), (b), title XV, §1503(a)(8), Feb. 10, 1996, 110 Stat. 367, 511; Pub. L. 105–261, div. A, title V, §570(a), (b), Oct. 17, 1998, 112 Stat. 2032; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §§572(a), (b)(1), (c), 573(a), 574, Nov. 24, 2003, 117 Stat. 1484–1486.)
 
 #### Amendments
+
+2003—Subsec. (b)(2). Pub. L. 108–136, §574, inserted “, voluntarily or involuntarily,” after “administratively separated”.
+
+Subsec. (e)(1)(A). Pub. L. 108–136, §572(a), substituted “shall commence—” and cls. (i) and (ii) for “shall commence as of the date of the approval of the court-martial sentence by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) if the sentence, as approved, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and”.
+
+Subsec. (e)(2). Pub. L. 108–136, §572(b)(1), substituted “a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned” for “a period of 36 months, except that, if as of the date on which payment of transitional compensation commences the unserved portion of the member's period of obligated active duty service is less than 36 months, the period for which transitional compensation is paid shall be equal to the greater of—
+
+&emsp;“(A) the unserved portion of the member's period of obligated active duty service; or
+
+&emsp;“(B) 12 months”.
+
+Subsec. (e)(3)(A). Pub. L. 108–136, §572(c), substituted “conviction is disapproved by the person acting under section 860(c) of this title (article 60(c) of the Uniform Code of Military Justice) or set aside, or each such punishment applicable to the member under the sentence is disapproved by the person acting under section 860(c) of this title, remitted, set aside, suspended, or mitigated” for “punishment applicable to the member under the sentence is remitted, set aside, or mitigated”.
+
+Subsec. (m). Pub. L. 108–136, §573(a), added subsec. (m).
+
+2002—Subsecs. (a), (k)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1998—Subsec. (d)(1). Pub. L. 105–261, §570(a)(1), struck out “(except as otherwise provided in this subsection)” after “such compensation shall” and inserted before period at end “, including an amount (determined under subsection (f)(2)) for each, if any, dependent child of the individual described in subsection (b) who resides in the same household as that spouse or former spouse”.
 
@@ -152,6 +176,16 @@ Commencement and Duration of Payment.—(1) Payment of transitional compensation
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 103–337, §535(b), added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (<i>l</i>), respectively.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title V, §572(d), Nov. 24, 2003, 117 Stat. 1485, provided that: “The amendments made by this section \[amending this section\] shall apply only with respect to cases in which a court-martial sentence is adjudged on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+
+Pub. L. 108–136, div. A, title V, §573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: “The authority under subsection (m) of section 1059 of title 10, United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title V, §570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: “No benefits shall accrue by reason of the amendments made by this section \[amending this section\] for any month that begins before the date of the enactment of this Act \[Oct. 17, 1998\].”
@@ -168,7 +202,11 @@ Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, ti
 
 “(2) Payments of transitional compensation under that section in the case of any person eligible to receive payments under that section shall be made for each month after November 1993 for which that person may be paid transitional compensation in accordance with that section.”
 
+#### Duration of Transitional Compensation Payments
+
+Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: “Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1076 of this title.
+This section is referred to in section 1076 of this title; title 37 section 406; title 42 section 213a.
 

@@ -12,7 +12,7 @@
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8451, the procedures under section 7701 shall apply and the decision of the Board shall be subject to judicial review under section 7703.
 
-(f) The Office shall fix the fees for examinations made under subchapter V of this chapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid fromappropriations for the cost of administering the provisions of this chapter administered by the Office.
+(f) The Office shall fix the fees for examinations made under subchapter V of this chapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering the provisions of this chapter administered by the Office.
 
 (g) The Office may prescribe regulations to carry out the provisions of this chapter administered by the Office.
 
@@ -22,7 +22,7 @@
 
 (i) In making a determination of “actuarial equivalence” under this chapter, the economic assumptions used shall be the same as the economic assumptions most recently used by the Office (before the determination of actuarial equivalence involved) in determining the normal-cost percentage of the System.
 
-(j)(1) Notwithstanding any other provision of this chapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this chapter by the Office, and to the extent considered appropriate by the Director of Central Intelligence—
+(j)(1) Notwithstanding any other provision of this chapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this chapter by the Office, andto the extent considered appropriate by the Director of Central Intelligence—
 
 &emsp;(A) determine entitlement to benefits under this chapter based on the service of employees of the Central Intelligence Agency;
 
@@ -84,7 +84,7 @@
 
 #### Amendments
 
-2001—Subsec. (n)(1). Pub. L. 107–107, §1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
+2001—Subsec. (n)(1). Pub. L. 107–107, §1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar.\(C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
 
 Subsec. (n)(2)(B). Pub. L. 107–107, §1131(b)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 

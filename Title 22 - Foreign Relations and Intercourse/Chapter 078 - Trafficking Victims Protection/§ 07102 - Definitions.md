@@ -42,7 +42,7 @@ In this chapter:
 
 &emsp;&emsp;(A) any assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], other than—
 
-&emsp;&emsp;&emsp;(i) assistance under chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] that is made available for any program, project, or activity eligible for assistance under chapter 1 of part I of that Act \[22 U.S.C. 2151 et seq.\];
+&emsp;&emsp;&emsp;(i) assistance under chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] in support of programs of nongovernmental organizations that is made available for any program, project, or activity eligible for assistance under chapter 1 of part I of that Act \[22 U.S.C. 2151 et seq.\];
 
 &emsp;&emsp;&emsp;(ii) assistance under chapter 8 of part I of that Act \[22 U.S.C. 2291 et seq.\];
 
@@ -94,7 +94,7 @@ In this chapter:
 
 &emsp;The term “victim of trafficking” means a person subjected to an act or practice described in paragraph (8) or (9).
 
-(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469.)
+(Pub. L. 106–386, div. A, §103, Oct. 28, 2000, 114 Stat. 1469; Pub. L. 108–193, §8(b)(1), Dec. 19, 2003, 117 Stat. 2887.)
 
 #### References in Text
 
@@ -104,9 +104,13 @@ Chapters 1 and 10 of that Act, referred to in par. (7)(A)(vii), probably means c
 
 The Arms Export Control Act, referred to in par. (7)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
+#### Amendments
+
+2003—Par. (7)(A)(i). Pub. L. 108–193 inserted “in support of programs of nongovernmental organizations” before “that is made available”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151n, 2152d, 2304, 7105, 7107 of this title; title 8 sections 1101, 1182, 1184; title 18 section 1592.
+This section is referred to in sections 2151n, 2152d, 2304, 7105, 7107, 7110 of this title; title 8 sections 1101, 1182, 1184; title 18 section 1592.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
 

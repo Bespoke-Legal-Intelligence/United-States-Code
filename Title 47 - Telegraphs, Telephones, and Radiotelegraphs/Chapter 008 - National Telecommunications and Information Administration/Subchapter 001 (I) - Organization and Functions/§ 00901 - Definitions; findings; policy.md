@@ -22,7 +22,7 @@ The Congress finds the following:
 
 &emsp;(2) Rapid technological advances being made in the telecommunications and information fields make it imperative that the United States maintain effective national and international policies and programs capable of taking advantage of continued advancements.
 
-&emsp;(3) Telecommunications and information policies and recommendations advancing thestrategic interests and the international competitiveness of the United States are essential aspects of the Nation's involvement in international commerce.
+&emsp;(3) Telecommunications and information policies and recommendations advancing the strategic interests and the international competitiveness of the United States are essential aspects of the Nation's involvement in international commerce.
 
 &emsp;(4) There is a critical need for competent and effective telecommunications and information research and analysis and national and international policy development, advice, and advocacy by the executive branch of the Federal Government.
 

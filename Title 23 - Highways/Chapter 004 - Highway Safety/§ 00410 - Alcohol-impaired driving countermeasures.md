@@ -14,7 +14,7 @@ Maintenance of effort.—No grant may be made to a State under this section in a
 
 &emsp;(3)
 
-Maximum period of eligibility.—No State may receive grants under this section in more than 6 fiscal years beginning after September 30, 1997.
+Maximum period of eligibility.—No State may receive grants under this section in more than 7 fiscal years beginning after September 30, 1997.
 
 &emsp;(4)
 
@@ -24,7 +24,7 @@ Federal share.—The Federal share of the cost of implementing and enforcing in 
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth and sixth fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth, sixth, and seventh fiscal years in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -64,7 +64,7 @@ Graduated licensing system.—A 3-stage graduated licensing system for young dri
 
 &emsp;&emsp;(E)
 
-Drivers with high bac.—Programs to target individuals with high blood alcohol concentrations who operate a motor vehicle. Such programs may include implementation of a system of graduated penalties and assessment of individuals convicted of driving under the influence of alcohol.
+Drivers with high bac.—Programs to target individuals with high blood alcoholconcentrations who operate a motor vehicle. Such programs may include implementation of a system of graduated penalties and assessment of individuals convicted of driving under the influence of alcohol.
 
 &emsp;&emsp;(F)
 
@@ -104,7 +104,7 @@ Video equipment for detection of drunk drivers.—The State provides for a progr
 
 &emsp;&emsp;(B)
 
-Self-sustaining drunk driving prevention program.—The State provides for a self-sustaining drunk driving preventionprogram under which a significant portion of the fines or surcharges collected from individuals apprehended and fined for operating a motor vehicle while under the influence of alcohol are returned to those communities which have comprehensive programs for the prevention of such operations of motor vehicles.
+Self-sustaining drunk driving prevention program.—The State provides for a self-sustaining drunk driving prevention program under which a significant portion of the fines or surcharges collected from individuals apprehended and fined for operating a motor vehicle while under the influence of alcohol are returned to those communities which have comprehensive programs for the prevention of such operations of motor vehicles.
 
 &emsp;&emsp;(C)
 
@@ -154,13 +154,17 @@ Controlled substances.—The term “controlled substances” has the meaning gi
 
 Motor vehicle.—The term “motor vehicle” has the meaning given such term in section 405.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328.)
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat.328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120.)
 
 #### References in Text
 
 The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a)(2) and (b)(1)(A)(i), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
+
+2003—Subsec. (a)(3). Pub. L. 108–88, §6(e)(1)(A), substituted “7” for “6”.
+
+Subsec. (a)(4)(C). Pub. L. 108–88, §6(e)(1)(B), substituted “, sixth, and seventh” for “and sixth”.
 
 1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, section related to alcohol-impaired driving countermeasures, providing for general authority in subsec. (a), maintenance of effort in subsec. (b), maximum period of eligibility and Federal share for grants in subsec. (c), basic grant eligibility in subsec. (d), amount of basic grant in subsec. (e), supplemental grants in subsec. (f), administrative expenses in subsec. (g), applicability of chapter 1 of this title in subsec. (h), definitions in subsec. (i), and authorization of appropriations in subsec. (j).
 
@@ -192,7 +196,7 @@ Subsec. (d). Pub. L. 102–388, §§601(2), 602, redesignated subsec. (c) as (d)
 
 Subsec. (e). Pub. L. 102–388, §§601(2), 603, redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “
 
-Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of theamount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
+Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of the amount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 102–388, §§601(2), 604, redesignated subsec. (e) as (f) and substituted “Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title” for “A State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in the fiscal year under this section” in pars. (1) to (7). Former subsec. (f) redesignated (g).
 

@@ -1,6 +1,6 @@
 ### §5208. Procedures
 
-(a) At any time after 6 months from the entry of an order stating the Board's determination under section 5207 of this title, the Postal Service or an interested carrier may apply for a reexamination and substantially similar proceedings as have theretofore been had shall be followed with respect to the rates of compensation for services covered by the application. At the conclusion of the hearing the Board shall enter an order stating its determination.
+(a) At any time after 6 months from the entry of an order stating the Board's determinationunder section 5207 of this title, the Postal Service or an interested carrier may apply for a reexamination and substantially similar proceedings as have theretofore been had shall be followed with respect to the rates of compensation for services covered by the application. At the conclusion of the hearing the Board shall enter an order stating its determination.
 
 (b) Except as authorized by sections 5207(d), 5209, 5210, and 5212 of this title, the Postal Service shall pay a carrier the rates or compensation so determined and fixed for application at such stated times as named in the order.
 

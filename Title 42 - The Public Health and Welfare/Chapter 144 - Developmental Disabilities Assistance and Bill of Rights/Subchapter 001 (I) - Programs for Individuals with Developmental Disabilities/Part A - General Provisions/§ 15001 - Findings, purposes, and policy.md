@@ -102,7 +102,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(6) recruitment efforts in disciplines related to developmental disabilities relating to pre-service training, community training, practice, administration, and policymaking must focus on bringing larger numbers of racial and ethnic minorities into the disciplines in order to provide appropriate skills, knowledge, role models, and sufficient personnel to address the growing needs of an increasingly diverse population;
 
-&emsp;(7) with education and support, communities can be accessible to and responsive to the needs of individuals with developmental disabilities and their families and are enriched by full and active participation in community activities, and contributions, by individuals with developmental disabilities and their families;
+&emsp;(7) with education and support, communities can be accessible to and responsive to theneeds of individuals with developmental disabilities and their families and are enriched by full and active participation in community activities, and contributions, by individuals with developmental disabilities and their families;
 
 &emsp;(8) individuals with developmental disabilities have access to opportunities and the necessary support to be included in community life, have interdependent relationships, live in homes and communities, and make contributions to their families, communities, and States, and the Nation;
 
@@ -124,31 +124,31 @@ Pub. L. 106–402, title II, §201, Oct. 30, 2000, 114 Stat. 1728, provided that
 
 #### Ex. Ord. No. 12994. President's Committee on Mental Retardation
 
-Ex. Ord. No. 12994, Mar. 21, 1996, 61 F.R. 13047, provided:
+Ex. Ord. No. 12994, Mar. 21, 1996, 61 F.R. 13047, as amended by Ex. Ord. No. 13309, July 25, 2003, 68 F.R. 44851, provided:
 
-The President's Committee on Mental Retardation, established by Executive Order No. 11280 \[former 42 U.S.C. note prec. 2661\] on May 11, 1966, as superseded by Executive Order No. 11776 on March 28, 1974, has organized national planning, stimulated development of plans, policies and programs, and advanced the concept of community participation in the field of mental retardation.
+The President's Committee on Mental Retardation, established by Executive Order No. 11280 \[former 42 U.S.C. note prec. 2661\] on May 11, 1966, as superseded by Executive Order No. 11776 on March 28, 1974, has organized national planning, stimulated development of plans, policies and programs, and advanced the concept of community participation in the field of intellectual disabilities.
 
 National goals have been established to:
 
-(1) promote full participation of people with mental retardation in their communities;
+(1) promote full participation of people with intellectual disabilities in their communities;
 
-(2) provide all necessary supports to people with mental retardation and their families for such participation;
+(2) provide all necessary supports to people with intellectual disabilities and their families for such participation;
 
-(3) reduce the occurrence and severity of mental retardation by one-half by the year 2010;
+(3) reduce the occurrence and severity of intellectual disabilities by one-half by the year 2010;
 
-(4) assure the full citizenship rights of all people with mental retardation, including those rights secured by such landmark statutes as the Americans with Disabilities Act of 1990, Public Law 101–336 (42 U.S.C. 12101 <i>et seq</i>.);
+(4) assure the full citizenship rights of all people with intellectual disabilities, including those rights secured by such landmark statutes as the Americans with Disabilities Act of 1990, Public Law 101–336 (42 U.S.C. 12101 <i>et seq</i>.);
 
-(5) recognize the right of all people with mental retardation to self-determination and autonomy, to be treated in a nondiscriminatory manner, and to exercise meaningful choice, with whatever supports are necessary to effectuate these rights;
+(5) recognize the right of all people with intellectual disabilities to self-determination and autonomy, to be treated in a nondiscriminatory manner, and to exercise meaningful choice, with whatever supports are necessary to effectuate these rights;
 
-(6) recognize the right of all people with mental retardation to enjoy a quality of life that promotes independence, self-determination, and participation as productive members of society; and
+(6) recognize the right of all people with intellectual disabilities to enjoy a quality of life that promotes independence, self-determination, and participation as productive members of society; and
 
-(7) promote the widest possible dissemination of information on models, programs, and services in the field of mental retardation.
+(7) promote the widest possible dissemination of information on models, programs, and services in the field of intellectual disabilities.
 
 > The achievement of these goals will require the most effective possible use of public and private resources.
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. <i>Committee Continued and Responsibilities Expanded</i>. The President's Committee on Mental Retardation (the “Committee”), with expanded membership and expanded responsibilities, is hereby continued in operation.
+Section 1. <i>Committee Continued and Responsibilities Expanded</i>. The President's Committee on Mental Retardation, with expanded membership and expanded responsibilities, and renamed the President's Committee for People with Intellectual Disabilities (the “Committee”), is hereby continued in operation.
 
 Sec. 2. <i>Composition of Committee</i>. (a) The Committee shall be composed of the following members:
 
@@ -162,35 +162,43 @@ Sec. 2. <i>Composition of Committee</i>. (a) The Committee shall be composed of 
 
 (5) The Secretary of Housing and Urban Development;
 
-(6) The Chief Executive Officer of the Corporation for National and Community Service (formerly ACTION);
+(6) The Secretary of Commerce;
 
-(7) The Commissioner of Social Security;
+(7) The Secretary of Transportation;
 
-(8) The Chair of the Equal Employment Opportunity Commission;
+(8) The Secretary of the Interior;
 
-(9) The Chairperson of the National Council on Disability;
+(9) The Secretary of Homeland Security;
 
-(10) No more than 21 other members who shall be appointed to the Committee by the President. These citizen members shall consist of individuals who represent a broad spectrum of perspectives, experience, and expertise on mental retardation, and shall include self-advocates with mental retardation and members of families with a child or adult with mental retardation, and persons employed in either the public or the private sector. Except as the President may from time to time otherwise direct, appointees under this paragraph shall have two-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
+(10) The Chief Executive Officer of the Corporation for National and Community Service (formerly ACTION);
+
+(11) The Commissioner of Social Security;
+
+(12) The Chair of the Equal Employment Opportunity Commission;
+
+(13) The Chairperson of the National Council on Disability;
+
+(10)\[sic\] No more than 21 other members who shall be appointed to the Committee by the President. These citizen members shall consist of individuals who represent a broad spectrum of perspectives, experience, and expertise on intellectual disabilities, and shall include self-advocates with intellectual disabilities and members of families with a child or adult with intellectual disabilities, and persons employed in either the public or the private sector. Except as the President may from time to time otherwise direct, appointees under this paragraph shall have two-year terms, except that an appointment made to fill a vacancy occurring before the expiration of a term shall be made for the balance of the unexpired term.
 
 (b) The President shall designate the Chair of the Committee from the 21 citizen members. The Chair shall advise and counsel the Committee and represent the Committee on appropriate occasions.
 
-Sec. 3. <i>Functions of the Committee</i>. (a) The Committee shall provide such advice and assistance in the area of mental retardation as the President or Secretary of Health and Human Services may request, and particularly shall advise with respect to the following areas:
+Sec. 3. <i>Functions of the Committee</i>. (a) The Committee shall provide such advice and assistance in the area of intellectual disabilities as the President or Secretary of Health and Human Services may request, and particularly shall advise with respect to the following areas:
 
-(1) evaluating and monitoring the national efforts to establish appropriate policies and supports for people with mental retardation;
+(1) evaluating and monitoring the national efforts to establish appropriate policies and supports for people with intellectual disabilities;
 
-(2) providing suggestions for improvement in the delivery of mental retardation services, including preventive services, the promulgation of effective and humane policies, and the provision of necessary supports;
+(2) providing suggestions for improvement in the delivery of intellectual disabilities services, including preventive services, the promulgation of effective and humane policies, and the provision of necessary supports;
 
-(3) identifying the extent to which various Federal and State programs achieve the national goals in mental retardation described in the preamble to this order and have a positive impact on the lives of people with mental retardation;
+(3) identifying the extent to which various Federal and State programs achieve the national goals in intellectual disabilities described in the preamble to this order and have a positive impact on the lives of people with intellectual disabilities;
 
-(4) facilitating liaison among Federal, State, and local governments, foundations, nonprofit organizations, other private organizations, and citizens concerning mental retardation;
+(4) facilitating liaison among Federal, State, and local governments, foundations, nonprofit organizations, other private organizations, and citizens concerning intellectual disabilities;
 
-(5) developing and disseminating such information as will tend to reduce the incidence and severity of mental retardation; and
+(5) developing and disseminating such information as will tend to reduce the incidence and severity of intellectual disabilities; and
 
-(6) promoting the concept of community participation and development of community supports for citizens with mental retardation.
+(6) promoting the concept of community participation and development of community supports for citizens with intellectual disabilities.
 
-(b) The Committee shall make an annual report, through the Secretary of Health and Human Services, to the President concerning mental retardation. Such additional reports may be made as the President may require or as the Committee may deem appropriate.
+(b) The Committee shall make an annual report, through the Secretary of Health and Human Services, to the President concerning intellectual disabilities. Such additional reports may be made as the President may require or as the Committee may deem appropriate.
 
-Sec. 4. <i>Cooperation by Other Agencies</i>. To assist the Committee in providing advice to the President, Federal departments and agencies requested to do so by the Committee shall designate liaison officers to the Committee. Such officers shall, on request by the Committee, and to the extent permitted by law, provide the Committee with information on department and agency programs that do contribute to or could contribute to achievement of the President's goals in the field of mental retardation.
+Sec. 4. <i>Cooperation by Other Agencies</i>. To assist the Committee in providing advice to the President, Federal departments and agencies requested to do so by the Committee shall designate liaison officers to the Committee. Such officers shall, on request by the Committee, and to the extent permitted by law, provide the Committee with information on department and agency programs that do contribute to or could contribute to achievement of the President's goals in the field of intellectual disabilities.
 
 Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services shall, to the extent permitted by law, provide the Committee with necessary staff, administrative services, and facilities and funding.
 
@@ -201,8 +209,6 @@ Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services s
 Sec. 6. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to law to, any Federal agency, to the authority of the Committee or as abrogating or restricting any such function in any manner.
 
 Sec. 7. <i>Superseded Authority</i>. Executive Order No. 11776 is hereby superseded.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Committee on Mental Retardation
 
@@ -228,7 +234,23 @@ Term of the President's Committee on Mental Retardation extended until Sept. 30,
 
 Term of the President's Committee on Mental Retardation extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Committee on Mental Retardation extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Committee on Mental Retardation extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+#### Ex. Ord. No. 13309. Amendments to Executive Order 12994, and Renaming the President's Committee on Mental Retardation as the President's Committee for People with Intellectual Disabilities
+
+Ex. Ord. No. 13309, July 25, 2003, 68 F.R. 44851, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to change the name of the “President's Committee on Mental Retardation” to the “President's Committee for People with Intellectual Disabilities” (the “Committee”) and expand the membership of the Committee, it is hereby ordered as follows:
+
+Section 1. The President's Committee on Mental Retardation is hereby renamed the President's Committee for People with Intellectual Disabilities.
+
+\[
+
+Secs. 2 to 4. Amended Ex. Ord. No. 12994, set out above.\]
+
+Sec. 5. The Committee is continued until September 30, 2005.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 #### (1) In general
 
-&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by a private entity under a contract or lease with a Federal agency).
+&emsp;With respect to the Paducah Gaseous Diffusion Plant, Kentucky, and the Portsmouth Gaseous Diffusion Plant, Ohio, the guidelines relating to the authority of the Department of Energy's contractors (including any Federal agency, or private entity operating a gaseous diffusion plant under a contract or lease with the Department of Energy) and any subcontractor (at any tier) to carry firearms and make arrests in providing security at Federal installations, issued under section 2201(k) of this title shall require, at a minimum, the presence of all security police officers carrying sidearms at all times to ensure maintenance of security at the gaseous diffusion plants (whether a gaseous diffusion plant is operated directly by a Federal agency or by aprivate entity under a contract or lease with a Federal agency).
 
 #### (2) Funding
 
@@ -54,7 +54,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, 
 
 #### Codification
 
-Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus ConsolidatedRescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
 

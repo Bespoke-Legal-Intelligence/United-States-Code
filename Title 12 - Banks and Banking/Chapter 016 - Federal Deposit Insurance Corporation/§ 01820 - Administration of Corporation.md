@@ -108,7 +108,7 @@ In connection with examinations of insured depository institutions and any State
 
 &emsp;To minimize the disruptive effects of examinations on the operations of insured depository institutions—
 
-&emsp;&emsp;(A) each appropriate Federal banking agency shall, to the extent practicable andconsistent with principles of safety and soundness and the public interest—
+&emsp;&emsp;(A) each appropriate Federal banking agency shall, to the extent practicable and consistent with principles of safety and soundness and the public interest—
 
 &emsp;&emsp;&emsp;(i) coordinate examinations to be conducted by that agency at an insured depository institution and its affiliates;
 
@@ -214,7 +214,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (3) Cooperative agreement
 
-&emsp;The State bank supervisors from 2 or more States may enter into cooperative agreements to facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
+&emsp;The State bank supervisors from 2 or more States may enter into cooperative agreementsto facilitate State regulatory supervision of State banks, including cooperative agreements relating to the coordination of examinations and joint participation in examinations.
 
 #### (4) Federal regulatory authority
 
@@ -336,7 +336,7 @@ Subsec. (d). Pub. L. 101–73, §210(b)(2), struck out subsec. (d) which defined
 
 Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of this title and”.
 
-1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank”and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
+1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 
@@ -386,7 +386,7 @@ Amendment by Pub. L. 86–671 effective Jan. 1, 1961, see section 7 of Pub. L. 8
 
 #### Effective Date of Initial Guidelines
 
-Section 349(b) of Pub. L. 103–325 provided that: “The initial guidelines required to be issued pursuant to theamendment made by subsection (a) \[amending this section\] shall become effective not later than 1 year after the date of enactment of this Act \[Sept. 23, 1994\].”
+Section 349(b) of Pub. L. 103–325 provided that: “The initial guidelines required to be issued pursuant to the amendment made by subsection (a) \[amending this section\] shall become effective not later than 1 year after the date of enactment of this Act \[Sept. 23, 1994\].”
 
 #### Transition Rule
 

@@ -8,9 +8,11 @@ Denial of Certificate.—
 
 In general.—Except as provided in paragraph (2) of this subsection and subsection (e)(2), the Administrator of the Federal Aviation Administration may not issue a certificate under this chapter to any person—
 
-&emsp;&emsp;(A) convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material; or
+&emsp;&emsp;(A) convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material;
 
-&emsp;&emsp;(B) subject to a controlling or ownership interest of an individual convicted of such a violation.
+&emsp;&emsp;(B) whose certificate is revoked under subsection (b); or
+
+&emsp;&emsp;(C) subject to a controlling or ownership interest of an individual described in subparagraph (A) or (B).
 
 &emsp;(2)
 
@@ -80,7 +82,15 @@ Amendment of Certificate.—If the holder of a certificate issued under this cha
 
 > then the Administrator may amend the certificate to impose a limitation that the certificate will not be valid if that individual has a controlling or ownership interest in the holder. A decision by the Administrator under this subsection is not reviewable by the Board.
 
-(Added Pub. L. 106–181, title V, §505(a)(1), Apr. 5, 2000, 114 Stat. 134.)
+(Added Pub. L. 106–181, title V, §505(a)(1), Apr. 5, 2000, 114 Stat. 134; amended Pub. L. 108–176, title V, §501, Dec. 12, 2003, 117 Stat. 2556.)
+
+#### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–176 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted “described in subparagraph (A) or (B)” for “convicted of such a violation”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date
 

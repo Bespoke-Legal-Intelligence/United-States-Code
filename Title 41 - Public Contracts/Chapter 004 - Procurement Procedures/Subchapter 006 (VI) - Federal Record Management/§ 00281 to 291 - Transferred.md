@@ -6,7 +6,7 @@ Section 281, acts June 30, 1949, ch. 288, title V, §502; Sept. 5, 1950, ch. 849
 
 Section 282, acts June 30, 1949, ch. 288, title V, §503; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related to National Historical Publications Commission, was transferred to section 393 of former Title 44.
 
-Section 283, acts June 30, 1949, ch. 288, title V, §504; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related to establishment of Federal Records Council, was transferred to section 394 of former Title 44.
+Section 283, acts June 30, 1949, ch. 288, title V, §504; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related toestablishment of Federal Records Council, was transferred to section 394 of former Title 44.
 
 Section 284, acts June 30, 1949, ch. 288, title V, §505; Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which related to records management by Administrator, was transferred to section 395 of former Title 44.
 

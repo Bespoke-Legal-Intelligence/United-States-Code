@@ -48,5 +48,5 @@ In subsection (b)(2), the words “in fiscal year 1993 and thereafter” are omi
 
 #### References in Text
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (a)(2), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (a)(2), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set outunder section 501 of Title 31, Money and Finance, and Tables.
 

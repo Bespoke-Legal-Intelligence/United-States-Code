@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director shall establish, at the earliest practicable date, a National Academy for Fire Prevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
+The Director shall establish, at the earliest practicable date, a National Academy for FirePrevention and Control. The purpose of the Academy shall be to advance the professional development of fire service personnel and of other persons engaged in fire prevention and control activities.
 
 #### (b) Superintendent
 
@@ -42,9 +42,25 @@ The Superintendent is authorized to—
 
 &emsp;&emsp;(D) tactical training in the specialized field of aircraft fire control and crash rescue;
 
-&emsp;&emsp;(E) tactical training in the specialized field of fire control and rescue aboard waterborne vessels; and
+&emsp;&emsp;(E) tactical training in the specialized field of fire control and rescue aboard waterborne vessels;
 
-&emsp;&emsp;(F) the training of present and future instructors in the aforementioned subjects;
+&emsp;&emsp;(F) strategies for building collapse rescue;
+
+&emsp;&emsp;(G) the use of technology in response to fires, including terrorist incidents and other national emergencies;
+
+&emsp;&emsp;(H) response, tactics, and strategies for dealing with terrorist-caused national catastrophes;
+
+&emsp;&emsp;(I) use of and familiarity with the Federal Response Plan;
+
+&emsp;&emsp;(J) leadership and strategic skills, including integrated management systems operations and integrated response;
+
+&emsp;&emsp;(K) applying new technology and developing strategies and tactics for fighting forest fires;
+
+&emsp;&emsp;(L) integrating the activities of terrorism response agencies into national terrorism incident response systems;
+
+&emsp;&emsp;(M) response tactics and strategies for fighting fires at United States ports, including fires on the water and aboard vessels; and
+
+&emsp;&emsp;(N) the training of present and future instructors in the aforementioned subjects;
 
 &emsp;(2) develop model curricula, training programs and other educational materials suitable for use at other educational institutions, and to make such materials available without charge;
 
@@ -94,7 +110,7 @@ The Administrator is authorized to—
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eightsuch persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
+Upon establishment of the Academy, the Director shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Director shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Director may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Director regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -102,15 +118,19 @@ The Superintendent is authorized to establish a Committee on Fire Training and E
 
 #### (<i>l</i>) Admission
 
-The Superintendent is authorized to admit to the courses and programs of the Academy individuals who are members of the firefighting, rescue, and civil defense forces of the Nation and such other individuals, including candidates for membership in these forces, as he determines can benefit from attendance. Students shall be admitted from any State, with due regard to adequate representation in the student body of all geographic regions of the Nation. In selecting students, the Superintendent may seek nominations and advice from the fire services and other organizations which wish to send students to the Academy.
+The Superintendent is authorized to admit to the courses and programs of the Academy individuals who are members of the firefighting, rescue, and civil defense forces of the Nation and such other individuals, including candidates for membership in these forces, as he determines can benefit from attendance. Students shall be admitted from any State, with due regard to adequate representation in the student body of all geographic regions of the Nation. In selecting students, the Superintendent may seek nominations and advice from the fire services and other organizations which wish to send students to the Academy. The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.
 
-(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302.)
+(Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §204(a), (d), Dec. 6, 2003, 117 Stat. 2039.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (c)(4), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (d)(1)(F) to (N). Pub. L. 108–169, §204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
+
+Subsec. (<i>l</i>). Pub. L. 108–169, §204(d), inserted at end “The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.”
 
 2000—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted “Director” for “Secretary” wherever appearing.
 
@@ -119,6 +139,18 @@ The provisions of title 5 governing appointments in the competitive service, ref
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
+
+#### Consultation on Fire Academy Classes
+
+Pub. L. 108–169, title II, §204(b), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Superintendent of the National Fire Academy may consult with other Federal, State, and local agency officials in developing curricula for classes offered by the Academy.”
+
+#### Coordination With Other Programs To Avoid Duplication
+
+Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
+
+&emsp;“(1) to ensure that such training does not duplicate existing courses available to fire service personnel; and
+
+&emsp;“(2) to establish a mechanism for eliminating duplicative training programs.”
 
 #### Limitations on Authority of Superintendent of Fire Academy; Exclusive Control and Direction of United States Fire Administrator
 

@@ -4,7 +4,7 @@
 
 (b) A civil action to enforce, enjoin, set aside, annul, or suspend, in whole or in part, an order of the Interstate Commerce Commission made pursuant to the referral of a question or issue by a district court or by the United States Court of Federal Claims, shall be brought only in the court which referred the question or issue.
 
-(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 88–513, §2, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, §2,Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, §130, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 936; Pub. L. 88–513, §2, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, §2, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, §130, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Historical and Revision Notes
 

@@ -8,7 +8,7 @@ To the extent necessary to carry out this chapter, the Secretary may acquire and
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary may pay tort claims in the manner authorized in the first paragraph of section 2672 of title 28, when the claims arise outside theUnited States in connection with activities that are authorized under this chapter.
+&emsp;Except as provided in paragraph (2), the Secretary may pay tort claims in the manner authorized in the first paragraph of section 2672 of title 28, when the claims arise outside the United States in connection with activities that are authorized under this chapter.
 
 #### (2) Requirements of claim
 

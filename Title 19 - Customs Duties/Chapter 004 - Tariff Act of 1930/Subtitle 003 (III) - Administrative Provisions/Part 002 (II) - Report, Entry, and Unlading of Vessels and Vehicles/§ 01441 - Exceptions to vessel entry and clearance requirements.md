@@ -26,7 +26,7 @@ The following vessels shall not be required to make entry under section 1434 of 
 
 &emsp;(6) Any vessel required to anchor at the Belle Isle Anchorage in the waters of the Detroit River in the State of Michigan, for the purposes of awaiting the availability of cargo or berthing space or for the purpose of taking on a pilot or awaiting pilot services, or at the direction of the Coast Guard, prior to proceeding to the Port of Toledo, Ohio, where the vessel makes entry under section 1434 of this title or obtains clearance under section 91 of title 46, Appendix.
 
-(June 17, 1930, ch. 497, title IV, §441, 46 Stat. 712; Aug. 5, 1935, ch. 438, title III, §302, 49 Stat. 527;Aug. 14, 1937, ch. 620, §1, 50 Stat. 638; Sept. 1, 1954, ch. 1213, title V, §501(b), 68 Stat. 1140; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §204, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 103–182, title VI, §655, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 104–295, §21(e)(5), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–36, title I, §1001(b)(10), June 25, 1999, 113 Stat. 132; Pub. L. 106–476, title I, §1452(b), Nov. 9, 2000, 114 Stat. 2168.)
+(June 17, 1930, ch. 497, title IV, §441, 46 Stat. 712; Aug. 5, 1935, ch. 438, title III, §302, 49 Stat. 527; Aug. 14, 1937, ch. 620, §1, 50 Stat. 638; Sept. 1, 1954, ch. 1213, title V, §501(b), 68 Stat. 1140; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §204, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 103–182, title VI, §655, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 104–295, §21(e)(5), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–36, title I, §1001(b)(10), June 25, 1999, 113 Stat. 132; Pub. L. 106–476, title I, §1452(b), Nov. 9, 2000, 114 Stat. 2168.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 106–476, except as otherwise provided, applicable with re
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands on or after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands onor after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
 
 #### Effective Date of 1970 Amendment
 

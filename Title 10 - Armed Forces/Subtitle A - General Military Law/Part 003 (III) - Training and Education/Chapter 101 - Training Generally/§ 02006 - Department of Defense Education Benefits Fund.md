@@ -4,7 +4,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term “armed forces education liabilities” means liabilities of the armed forces for benefits under chapter 30 of title 38 and for Department of Defense benefits under chapter 1606 of this title.
+&emsp;(1) The term “armed forces education liabilities” means liabilities of the armed forces for benefits under chapter 30 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapter 1606 of this title.
 
 &emsp;(2) The term “normal cost”, with respect to any period of time, means the total of the following:
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(D) The present value of future benefits payable from the Fund for the Department of Defense portion of payments of educational assistance under subchapter II of chapter 30 of title 38 attributable to increased usage of benefits as a result of transfers of entitlement to basic educational assistance under section 3020 of that title during such period.
 
-s
+&emsp;&emsp;(E) The present value of future benefits payable from the Fund for educational assistance under paragraphs (3) and (4) of section 510(e) of this title to persons who during such period become entitled to such assistance.
 
 (c) There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
@@ -34,7 +34,7 @@ s
 
 (e)(1)(A) There is established in the Department of Defense a Department of Defense Education Benefits Board of Actuaries (hereinafter in this section referred to as the “Board”). The Board shall consist of three members, who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
 
-(B)(i) Except as provided in clause (ii), the members of the Board shall serve for a term of fifteen years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failureto perform functions vested in the Board, and for no other reason.
+(B)(i) Except as provided in clause (ii), the members of the Board shall serve for a term of fifteen years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
 
 (ii) Of the members of the Board who are first appointed under this paragraph, one each shall be appointed for terms ending five, ten, and fifteen years, respectively, after the date of appointment, as designated by the Secretary of Defense at the time of appointment.
 
@@ -70,15 +70,19 @@ s
 
 (h) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157.)
+(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474.)
 
 #### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–136, §535(b)(1), inserted “paragraphs (3) and (4) of section 510(e) and” after “Department of Defense benefits under”.
+
+Subsec. (b)(2)(E). Pub. L. 108–136, §535(b)(2), added subpar. (E).
 
 2001—Subsec. (b)(2)(D). Pub. L. 107–107 added subpar. (D).
 
 1999—Subsec. (a). Pub. L. 106–65, §550(1), substituted “armed forces education liabilities” for “Department of Defense education liabilities”.
 
-Subsec. (b)(1). Pub. L. 106–65, §550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows:“The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
+Subsec. (b)(1). Pub. L. 106–65, §550(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Department of Defense education liabilities’ means liabilities of the Department of Defense for benefits under chapter 30 of title 38 and for benefits under chapter 1606 of this title.”
 
 Subsec. (b)(2)(C). Pub. L. 106–65, §550(3), inserted “Department of Defense” after “future” and substituted “chapter 1606” for “chapter 106”.
 
@@ -108,6 +112,10 @@ Subsec. (e)(3). Pub. L. 101–510, §1322(a)(2), substituted “and shall recomm
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
@@ -118,5 +126,5 @@ Section 706(b) of Pub. L. 98–525 directed that first payment into Department o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12521 of this title; title 38 section 3035.
+This section is referred to in sections 510, 12521 of this title; title 38 sections 3020, 3035.
 

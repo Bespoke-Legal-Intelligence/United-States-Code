@@ -34,5 +34,5 @@ This section shall take effect on January 10, 2002, and shall apply to fiscal ye
 
 #### Codification
 
-Section is from the Emergency Supplemental Act, 2002, which is division B of the Department of Defense and Emergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
+Section is from the Emergency Supplemental Act, 2002, which is div. B of the Department of Defense and Emergency Supplemental Appropriations for Recovery from and Response to Terrorist Attacks on the United States Act, 2002.
 

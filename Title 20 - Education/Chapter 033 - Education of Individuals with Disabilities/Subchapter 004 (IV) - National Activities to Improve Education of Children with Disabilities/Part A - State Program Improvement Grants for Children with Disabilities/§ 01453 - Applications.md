@@ -106,7 +106,7 @@ Each State improvement plan shall—
 
 #### (2) Priority
 
-&emsp;The Secretary may give priority to applications on the basis of need, as indicated by suchinformation as the findings of Federal compliance reviews.
+&emsp;The Secretary may give priority to applications on the basis of need, as indicated by such information as the findings of Federal compliance reviews.
 
 #### (e) Peer review
 

@@ -10,7 +10,7 @@ Each district that has entered into a repayment contract or water service contra
 
 #### (c) Coordination of ongoing programs; full public participation
 
-The Secretary is authorized and directed to enter into memorandums of agreement withthose Federal agencies having capability to assist in implementing water conservation measures to assure coordination of ongoing programs. Such memorandums should provide for involvement of non-Federal entities such as States, Indian tribes, and water user organizations to assure full public participation in water conservation efforts.
+The Secretary is authorized and directed to enter into memorandums of agreement with those Federal agencies having capability to assist in implementing water conservation measures to assure coordination of ongoing programs. Such memorandums should provide for involvement of non-Federal entities such as States, Indian tribes, and water user organizations to assure full public participation in water conservation efforts.
 
 (Pub. L. 97–293, title II, §210, Oct. 12, 1982, 96 Stat. 1268.)
 

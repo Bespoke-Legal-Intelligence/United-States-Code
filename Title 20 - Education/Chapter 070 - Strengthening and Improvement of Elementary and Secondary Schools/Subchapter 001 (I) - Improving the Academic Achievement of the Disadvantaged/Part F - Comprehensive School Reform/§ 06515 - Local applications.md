@@ -12,7 +12,7 @@ Each such application shall—
 
 &emsp;(2) describe the comprehensive school reforms based on scientifically based research and effective practices that such schools will implement;
 
-&emsp;(3) describe how the local educational agency or consortium will provide technical assistance and support for the effective implementation of the comprehensive school reforms based on scientifically based research and effective practices selected by such schools; and
+&emsp;(3) describe how the local educational agency or consortium will provide technical assistance and support for the effective implementation of the comprehensive school reformsbased on scientifically based research and effective practices selected by such schools; and
 
 &emsp;(4) describe how the local educational agency or consortium will evaluate the implementation of such comprehensive school reforms and measure the results achieved in improving student academic achievement.
 

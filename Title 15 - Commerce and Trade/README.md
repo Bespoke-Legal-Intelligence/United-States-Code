@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 2002 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 2003 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -128,6 +128,9 @@
 | [<b>98.</b>](Chapter%20098%20-%20Public%20Company%20Accounting%20Reform%20and%20Corporate%20Responsibility/README.md) | <b>Public Company Accounting Reform and Corporate Responsibility</b> | <b>7201</b> |
 | [<b>99.</b>](Chapter%20099%20-%20National%20Construction%20Safety%20Team/README.md) | <b>National Construction Safety Team</b> | <b>7301</b> |
 | [<b>100.</b>](Chapter%20100%20-%20Cyber%20Security%20Research%20and%20Development/README.md) | <b>Cyber Security Research and Development</b> | <b>7401</b> |
+| [<b>101.</b>](Chapter%20101%20-%20Nanotechnology%20Research%20and%20Development/README.md) | <b>Nanotechnology Research and Development</b> | <b>7501</b> |
+| [<b>102.</b>](Chapter%20102%20-%20Fairness%20to%20Contact%20Lens%20Consumers/README.md) | <b>Fairness to Contact Lens Consumers.</b> | <b>7601</b> |
+| [<b>103.</b>](Chapter%20103%20-%20Controlling%20the%20Assault%20of%20Non-Solicited%20Pornography%20and%20Marketing/README.md) | <b>Controlling the Assault of Non-Solicited Pornography and Marketing</b> | <b>7701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -259,3 +262,6 @@
 - [Chapter 098 - Public Company Accounting Reform and Corporate Responsibility](Chapter%20098%20-%20Public%20Company%20Accounting%20Reform%20and%20Corporate%20Responsibility/README.md)
 - [Chapter 099 - National Construction Safety Team](Chapter%20099%20-%20National%20Construction%20Safety%20Team/README.md)
 - [Chapter 100 - Cyber Security Research and Development](Chapter%20100%20-%20Cyber%20Security%20Research%20and%20Development/README.md)
+- [Chapter 101 - Nanotechnology Research and Development](Chapter%20101%20-%20Nanotechnology%20Research%20and%20Development/README.md)
+- [Chapter 102 - Fairness to Contact Lens Consumers](Chapter%20102%20-%20Fairness%20to%20Contact%20Lens%20Consumers/README.md)
+- [Chapter 103 - Controlling the Assault of Non-Solicited Pornography and Marketing](Chapter%20103%20-%20Controlling%20the%20Assault%20of%20Non-Solicited%20Pornography%20and%20Marketing/README.md)

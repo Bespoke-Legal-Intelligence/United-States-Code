@@ -48,7 +48,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;(B) The objectives for this goal are that—
 
-&emsp;&emsp;(i) all teachers will have access to preservice teacher education and continuing professional development activities that will provide such teachers with the knowledgeand skills needed to teach to an increasingly diverse student population with a variety of educational, social, and health needs;
+&emsp;&emsp;(i) all teachers will have access to preservice teacher education and continuing professional development activities that will provide such teachers with the knowledge and skills needed to teach to an increasingly diverse student population with a variety of educational, social, and health needs;
 
 &emsp;&emsp;(ii) all teachers will have continuing opportunities to acquire additional knowledge and skills needed to teach challenging subject matter and to use emerging new methods, forms of assessment, and technologies;
 
@@ -112,7 +112,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;(B) The objectives for this Goal are that—
 
-&emsp;&emsp;(i) every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varying needs of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
+&emsp;&emsp;(i) every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varyingneeds of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
 
 &emsp;&emsp;(ii) every school will actively engage parents and families in a partnership which supports the academic work of children at home and shared educational decisionmaking at school; and
 

@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (1) Qualified capital gain
 
-&emsp;Except as otherwise provided in this subsection, the term “qualified capital gain” means any gain recognized on the sale or exchange of—
+&emsp;Except as otherwise provided in this subsection, the term “qualified capital gain”means any gain recognized on the sale or exchange of—
 
 &emsp;&emsp;(A) a capital asset, or
 

@@ -12,7 +12,7 @@ If a shareholder in a corporation receives its stock or rights to acquire its st
 
 &emsp;&emsp;(A) a corporation distributes rights to acquire its stock to a shareholder in a distribution to which section 305(a) applies, and
 
-&emsp;&emsp;(B) the fair market value of such rights at the time of the distribution is less than 15 percent of the fair market value of the old stock at such time,
+&emsp;&emsp;(B) the fair market value of such rights at the time of the distribution is less than 15percent of the fair market value of the old stock at such time,
 
 > &emsp;then subsection (a) shall not apply and the basis of such rights shall be zero, unless the taxpayer elects under paragraph (2) of this subsection to determine the basis of the old stock and of the stock rights under the method of allocation provided in subsection (a).
 

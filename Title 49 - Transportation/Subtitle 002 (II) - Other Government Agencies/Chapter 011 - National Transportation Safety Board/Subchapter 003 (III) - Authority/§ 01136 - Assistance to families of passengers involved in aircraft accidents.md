@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As soon as practicable after being notified of an aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
+In General.—As soon as practicable after being notified of an aircraft accident within the United States involving an air carrier or foreignair carrier and resulting in a major loss of life, the Chairman of the National Transportation Safety Board shall—
 
 &emsp;(1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
 
@@ -22,7 +22,7 @@ Responsibilities of Designated Organization.—The organization designated for a
 
 &emsp;(3) To meet with the families who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all affected families periodically thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
 
-&emsp;(4) To communicate with the families as to the roles of the organization, governmentagencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
+&emsp;(4) To communicate with the families as to the roles of the organization, government agencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
 
 &emsp;(5) To arrange a suitable memorial service, in consultation with the families.
 
@@ -94,9 +94,23 @@ Passenger.—The term “passenger” includes—
 
 Statutory Construction.—Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
-(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129.)
+(j)
+
+Relinquishment of Investigative Priority.—
+
+&emsp;(1)
+
+General rule.—This section (other than subsection (g)) shall not apply to an aircraft accident if the Board has relinquished investigative priority under section 1131(a)(2)(B) and the Federal agency to which the Board relinquished investigative priority is willing and able to provide assistance to the victims and families of the passengers involved in the accident.
+
+&emsp;(2)
+
+Board assistance.—If this section does not apply to an aircraft accident because the Board has relinquished investigative priority with respect to the accident, the Board shall assist, to the maximum extent possible, the agency to which the Board has relinquished investigative priority in assisting families with respect to the accident.
+
+(Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129; Pub. L. 108–168, §3(a), Dec. 6, 2003, 117 Stat. 2033.)
 
 #### Amendments
+
+2003—Subsec. (j). Pub. L. 108–168 added subsec. (j).
 
 2000—Subsec. (g)(2). Pub. L. 106–181, §401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
 
@@ -112,7 +126,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30,1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

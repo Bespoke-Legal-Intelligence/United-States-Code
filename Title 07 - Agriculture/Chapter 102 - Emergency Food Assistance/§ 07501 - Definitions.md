@@ -40,7 +40,7 @@ In this chapter:
 
 #### (6) Food pantry
 
-&emsp;The term “food pantry” means a public or private nonprofit organization that distributesfood to low-income and unemployed households, including food from sources other than the Department of Agriculture, to relieve situations of emergency and distress.
+&emsp;The term “food pantry” means a public or private nonprofit organization that distributes food to low-income and unemployed households, including food from sources other than the Department of Agriculture, to relieve situations of emergency and distress.
 
 #### (7) Poverty line
 

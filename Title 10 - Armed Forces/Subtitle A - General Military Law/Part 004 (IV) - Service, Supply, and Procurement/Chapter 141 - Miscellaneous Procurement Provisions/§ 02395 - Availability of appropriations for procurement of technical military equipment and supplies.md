@@ -1,6 +1,6 @@
 ### §2395. Availability of appropriations for procurement of technical military equipment and supplies
 
-Funds appropriated to the Department of Defense for the procurement of technical militaryequipment and supplies remain available until spent.
+Funds appropriated to the Department of Defense for the procurement of technical military equipment and supplies remain available until spent.
 
 (Added Pub. L. 97–258, §2(b)(4)(B), Sept. 13, 1982, 96 Stat. 1052, §2394; renumbered §2395 and amended Pub. L. 97–295, §1(28)(A), Oct. 12, 1982, 96 Stat. 1291.)
 

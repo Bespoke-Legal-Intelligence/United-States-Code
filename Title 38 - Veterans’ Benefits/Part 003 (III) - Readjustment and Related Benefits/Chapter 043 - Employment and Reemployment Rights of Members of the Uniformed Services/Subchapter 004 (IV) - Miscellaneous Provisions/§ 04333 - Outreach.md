@@ -1,6 +1,6 @@
 ### §4333. Outreach
 
-The Secretary, the Secretary of Defense, and the Secretary of Veterans Affairs shall take such actions as such Secretaries determine are appropriate to inform persons entitled to rightsand benefits under this chapter and employers of the rights, benefits, and obligations of such persons and such employers under this chapter.
+The Secretary, the Secretary of Defense, and the Secretary of Veterans Affairs shall take such actions as such Secretaries determine are appropriate to inform persons entitled to rights and benefits under this chapter and employers of the rights, benefits, and obligations of such persons and such employers under this chapter.
 
 (Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3169.)
 
@@ -34,7 +34,7 @@ Another prior section 5006, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, rela
 
 Prior section 5007 was renumbered section 8107 of this title.
 
-Another prior section 5007, added Pub. L. 93–82, title III, §302(1), Aug. 2, 1973, 87 Stat. 195, and amended Pub. L. 94–581, title II, §210(e)(5), Oct. 21, 1976, 90 Stat. 2865, relating to partial relinquishment of legislative jurisdiction, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8112 of this title.
+Another prior section 5007, added Pub. L. 93–82, title III, §302(1), Aug. 2, 1973, 87 Stat. 195, and amended Pub.L. 94–581, title II, §210(e)(5), Oct. 21, 1976, 90 Stat. 2865, relating to partial relinquishment of legislative jurisdiction, was omitted in the general revision of subchapter I of chapter 81 of this title by Pub. L. 96–22. See section 8112 of this title.
 
 Prior sections 5008 to 5011 were renumbered sections 8108 to 8111 of this title, respectively.
 

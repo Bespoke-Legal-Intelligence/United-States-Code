@@ -128,7 +128,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;(ii) an estimate of the future income to be earned in connection with such property for periods after the recomputation year and before the close of the 10th taxable year following the taxable year in which the property was placed in service,
 
-&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would result solely from the application of subparagraph (A), and
+&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would resultsolely from the application of subparagraph (A), and
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
@@ -166,7 +166,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (D) Collection of interest
 
-&emsp;&emsp;For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under paragraph (1)for any recomputation year shall be treated as an increase in the tax imposed by this chapter for such year.
+&emsp;&emsp;For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under paragraph (1) for any recomputation year shall be treated as an increase in the tax imposed by this chapter for such year.
 
 #### (E) Determinations
 
@@ -198,7 +198,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8,1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957.)
 
 #### Amendments
 
@@ -458,7 +458,7 @@ Amendment by Pub. L. 97–424 applicable to taxable years beginning after Dec. 3
 
 Section 264(b) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to rehabilitation expenditures incurred after December 31, 1980.”
 
-Amendment by sections 203 and 209 of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, except that amendment by section 203(c) of Pub. L. 97–34 effective Jan. 1, 1981, and applicable with respect to taxable years ending after that date, see section 209(a), (b) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by sections 203 and 209 of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, except that amendment by section 203(c) of Pub. L. 97–34 effective Jan. 1, 1981, and applicable with respect to taxable years ending after that date, see section 209(a), (b) ofPub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 Amendment by section 212(d)(1) of Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after that date, see section 212(e) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
@@ -568,5 +568,5 @@ Pub. L. 93–482, §4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 56, 62, 132, 142, 168, 169, 172, 174, 175, 179A, 197, 198, 216, 312, 381, 453,514, 542, 543, 545, 556, 611, 616, 617, 642, 818, 832, 834, 936, 1016, 1082, 1221, 1231, 1239, 1245, 1250, 1400L, 4940, 7518, 7701 of this title; title 33 sections 1316, 1326; title 46 App. section 1177.
+This section is referred to in sections 42, 56, 62, 132, 142, 168, 169, 172, 174, 175, 179, 179A, 197, 198, 216, 312, 381, 453, 514, 542, 543, 545, 556, 611, 616, 617, 642, 818, 832, 834, 936, 1016, 1082, 1221, 1231, 1239, 1245, 1250, 1400L, 4940, 7518, 7701 of this title; title 33 sections 1316, 1326; title 46 App. section 1177.
 

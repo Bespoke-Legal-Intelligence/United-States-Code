@@ -152,3 +152,7 @@ Subsec. (c)(2)(A). Pub. L. 95–362, §1(3), inserted reference to the Coast Gua
 
 Section 318(d) of Pub. L. 100–180 required that regulations to implement amendments to this section be prescribed not later than 90 days after Dec. 4, 1987.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

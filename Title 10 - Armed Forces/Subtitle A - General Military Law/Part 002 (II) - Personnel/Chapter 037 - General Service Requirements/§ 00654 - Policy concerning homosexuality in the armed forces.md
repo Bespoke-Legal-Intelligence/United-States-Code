@@ -12,7 +12,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;(4) The primary purpose of the armed forces is to prepare for and to prevail in combat should the need arise.
 
-&emsp;(5) The conduct of military operations requires members of the armed forces to make extraordinary sacrifices, including the ultimate sacrifice, in order to provide for the common defense.
+&emsp;(5) The conduct of military operations requires members of the armed forces to makeextraordinary sacrifices, including the ultimate sacrifice, in order to provide for the common defense.
 
 &emsp;(6) Success in combat requires military units that are characterized by high morale, good order and discipline, and unit cohesion.
 
@@ -60,7 +60,7 @@ Policy.—A member of the armed forces shall be separated from the armed forces 
 
 (c)
 
-Entry Standards and Documents.—(1) The Secretary of Defense shall ensure that thestandards for enlistment and appointment of members of the armed forces reflect the policies set forth in subsection (b).
+Entry Standards and Documents.—(1) The Secretary of Defense shall ensure that the standards for enlistment and appointment of members of the armed forces reflect the policies set forth in subsection (b).
 
 (2) The documents used to effectuate the enlistment or appointment of a person as a member of the armed forces shall set forth the provisions of subsection (b).
 
@@ -80,7 +80,7 @@ Rule of Construction.—Nothing in subsection (b) shall be construed to require 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “homosexual” means a person, regardless of sex, who engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual acts, and includes the terms “gay” and “lesbian”.
+&emsp;(1) The term “homosexual” means a person, regardless of sex, who engages in, attempts toengage in, has a propensity to engage in, or intends to engage in homosexual acts, and includes the terms “gay” and “lesbian”.
 
 &emsp;(2) The term “bisexual” means a person who engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual and heterosexual acts.
 

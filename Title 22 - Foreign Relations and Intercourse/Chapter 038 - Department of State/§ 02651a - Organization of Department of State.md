@@ -80,7 +80,71 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The Coordinator shall have the rank and status of Ambassador at Large.
 
-#### (f) Qualifications of certain officers of the Department of State
+#### (f) HIV/AIDS Response Coordinator
+
+#### (1) In general
+
+&emsp;There shall be established within the Department of State in the immediate office of the Secretary of State a Coordinator of United States Government Activities to Combat HIV/AIDS Globally, who shall be appointed by the President, by and with the advice and consent of the Senate. The Coordinator shall report directly to the Secretary.
+
+#### (2) Authorities and duties; definitions
+
+#### (A) Authorities
+
+&emsp;&emsp;The Coordinator, acting through such nongovernmental organizations (including faith-based and community-based organizations) and relevant executive branch agencies as may be necessary and appropriate to effect the purposes of this section, is authorized—
+
+&emsp;&emsp;&emsp;(i) to operate internationally to carry out prevention, care, treatment, support, capacity development, and other activities for combatting HIV/AIDS;
+
+&emsp;&emsp;&emsp;(ii) to transfer and allocate funds to relevant executive branch agencies; and
+
+&emsp;&emsp;&emsp;(iii) to provide grants to, and enter into contracts with, nongovernmental organizations (including faith-based and community-based organizations) to carry out the purposes of section.
+
+#### (B) Duties
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Coordinator shall have primary responsibility for the oversight and coordination of all resources and international activities of the United States Government to combat the HIV/AIDS pandemic, including all programs, projects, and activities of the United States Government relating to the HIV/AIDS pandemic under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 \[22 U.S.C. 7601 et seq.\] or any amendment made by that Act.
+
+#### (ii) Specific duties
+
+&emsp;&emsp;&emsp;The duties of the Coordinator shall specifically include the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Ensuring program and policy coordination among the relevant executive branch agencies and nongovernmental organizations, including auditing, monitoring, and evaluation of all such programs.
+
+&emsp;&emsp;&emsp;&emsp;(II) Ensuring that each relevant executive branch agency undertakes programs primarily in those areas where the agency has the greatest expertise, technical capabilities, and potential for success.
+
+&emsp;&emsp;&emsp;&emsp;(III) Avoiding duplication of effort.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Ensuring coordination of relevant executive branch agency activities in the field.
+
+&emsp;&emsp;&emsp;&emsp;(V) Pursuing coordination with other countries and international organizations.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Resolving policy, program, and funding disputes among the relevant executive branch agencies.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003.
+
+&emsp;&emsp;&emsp;&emsp;(VIII) Establishing due diligence criteria for all recipients of funds section and all activities subject to the coordination and appropriate monitoring, evaluation, and audits carried out by the Coordinator necessary to assess the measurable outcomes of such activities.
+
+#### (C) Definitions
+
+&emsp;&emsp;In this paragraph:
+
+#### (i) AIDS
+
+&emsp;&emsp;&emsp;The term “AIDS” means acquired immune deficiency syndrome.
+
+#### (ii) HIV
+
+&emsp;&emsp;&emsp;The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
+
+#### (iii) HIV/AIDS
+
+&emsp;&emsp;&emsp;The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
+
+#### (iv) Relevant executive branch agencies
+
+&emsp;&emsp;&emsp;The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, the Department of Health and Human Services (including the Public Health Service), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this Act.
+
+#### (g) Qualifications of certain officers of the Department of State
 
 #### (1) Officer having primary responsibility for personnel management
 
@@ -94,11 +158,13 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted sections 2651a, 2669 to 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, and 2696 to 2724 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted this section, sections 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2730 of this title, and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+
+The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
 #### Codification
 
@@ -107,6 +173,8 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2003—Subsecs. (f), (g). Pub. L. 108–25 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2002—Subsecs. (f), (g). Pub. L. 107–228 added subsec. (f) and struck out former subsecs. (f) and (g), which related to the qualifications of officers having primary responsibility for personnel management and for diplomatic security.
 
@@ -338,7 +406,7 @@ For definitions of “Secretary”, “Department”, and “appropriate congres
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2652c of this title.
+This section is referred to in section 2652c, 7622, 7634 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
 

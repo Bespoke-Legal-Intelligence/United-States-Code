@@ -20,7 +20,7 @@
 
 #### (3) Follow-up testing
 
-&emsp;The court may order follow-up tests and counseling under paragraph (1) if the initialtest was negative. Such follow-up tests and counseling shall be performed at the request of the victim on dates that occur six months and twelve months following the initial test.
+&emsp;The court may order follow-up tests and counseling under paragraph (1) if the initial test was negative. Such follow-up tests and counseling shall be performed at the request of the victim on dates that occur six months and twelve months following the initial test.
 
 #### (4) Termination of testing requirements
 

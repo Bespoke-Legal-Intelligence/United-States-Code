@@ -1,6 +1,6 @@
 ### §13. Contracts limited to one year
 
-Except as otherwise provided, it shall not be lawful for any of the executive departments tomake contracts for stationery or other supplies for a longer term than one year from the time the contract is made.
+Except as otherwise provided, it shall not be lawful for any of the executive departments to make contracts for stationery or other supplies for a longer term than one year from the time the contract is made.
 
 (R.S. §3735.)
 

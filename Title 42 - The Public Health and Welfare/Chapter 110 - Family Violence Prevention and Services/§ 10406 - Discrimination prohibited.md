@@ -32,5 +32,9 @@ The Civil Rights Act of 1964, referred to in subsecs. (a)(1), (b)(2), is Pub. L.
 
 This part, referred to in subsec. (a)(1), probably was intended to be a reference to this title, meaning title III of Pub. L. 98–457 which enacted this chapter, because title III was not divided into parts and because similar references to programs or activities funded in whole or in part with funds made available, referred to “this title”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 10409 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

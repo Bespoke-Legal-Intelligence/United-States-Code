@@ -2,7 +2,7 @@
 
 #### (a) Classes of deportable aliens
 
-Any alien (including an alien crewman) in and admitted to the United States shall, upon the order of the Attorney General, be removed if thealien is within one or more of the following classes of deportable aliens:
+Any alien (including an alien crewman) in and admitted to the United States shall, upon the order of the Attorney General, be removed if the alien is within one or more of the following classes of deportable aliens:
 
 #### (1) Inadmissible at time of entry or of adjustment of status or violates status
 
@@ -112,7 +112,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (C) Certain firearm offenses
 
-&emsp;&emsp;Any alien who at any time after admission is convicted under any law of purchasing, selling, offering for sale, exchanging, using, owning, possessing, or carrying, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, or carry, any weapon, part, or accessory which is a firearm or destructive device (as defined in section 921(a) of title 18) in violation of any law is deportable.
+&emsp;&emsp;Any alien who at any time after admission is convicted under any law of purchasing,selling, offering for sale, exchanging, using, owning, possessing, or carrying, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, or carry, any weapon, part, or accessory which is a firearm or destructive device (as defined in section 921(a) of title 18) in violation of any law is deportable.
 
 #### (D) Miscellaneous crimes
 
@@ -174,7 +174,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
+&emsp;&emsp;&emsp;In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States priorto attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
 
 #### (4) Security and related grounds
 
@@ -210,7 +210,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (5) Public charge
 
-&emsp;Any alien who, within five years after the date of entry, has become a public charge fromcauses not affirmatively shown to have arisen since entry is deportable.
+&emsp;Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
 
 #### (6) Unlawful voters
 
@@ -306,7 +306,7 @@ Subsec. (a)(1)(F). Pub. L. 104–208, §671(d)(1)(C), struck out heading and tex
 
 Subsec. (a)(1)(G). Pub. L. 104–208, §308(f)(1)(L), substituted “admission” for “entry” wherever appearing.
 
-Subsec. (a)(1)(H). Pub. L. 104–208, §308(f)(5), which directed amendment of subsec. (a)(1)(H)(ii) by striking “at entry”, was executed by striking “at entry” after “grounds of inadmissibility” in concluding provisions of subpar. (H) to reflect the probable intent of Congress.
+Subsec. (a)(1)(H). Pub. L. 104–208, §308(f)(5), which directed amendment of subsec. (a)(1)(H)(ii) by striking “at entry”, was executed by striking “at entry” after “grounds of inadmissibility” in concluding provisionsof subpar. (H) to reflect the probable intent of Congress.
 
 Pub. L. 104–208, §308(f)(1)(M), substituted “admission as aliens” for “entry as aliens” in introductory provisions and “such admission” for “such entry” in cl. (ii).
 
@@ -410,7 +410,7 @@ Pub. L. 101–649, §153(b)(1), added subsec. (h).
 
 1988—Subsec. (a)(4). Pub. L. 100–690, §7344(a), inserted cl. (B).
 
-Subsec. (a)(14). Pub. L. 100–690 inserted “any firearm or destructive device (as defined in paragraphs (3) and (4)), respectively, of section 921(a) of title 18, or any revolver or” after “law”.
+Subsec. (a)(14). Pub. L. 100–690 inserted “any firearm or destructive device (as defined in paragraphs (3) and\(4)), respectively, of section 921(a) of title 18, or any revolver or” after “law”.
 
 Subsec. (a)(17). Pub. L. 100–525, §9(m), substituted “amendment, thereof, known as the Trading With the Enemy Act” for “amendment thereof; the Trading With the Enemy Act”.
 
@@ -430,7 +430,7 @@ Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 
 1978—Subsec. (a)(19). Pub. L. 95–549 added par. (19).
 
-1976—Subsec. (a)(10). Pub. L. 94–571 substituted “(other than an alien described in section 1101(a)(27)(A)of this title and aliens born in the Western Hemisphere)” for “(other than an alien who is a native-born citizen of any of the countries enumerated in section 1101(a)(27)(A) of this title and an alien described in section 1101(a)(27)(B) of this title)”.
+1976—Subsec. (a)(10). Pub. L. 94–571 substituted “(other than an alien described in section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere)” for “(other than an alien who is a native-born citizen of any of the countries enumerated in section 1101(a)(27)(A) of this title and an alien described in section 1101(a)(27)(B) of this title)”.
 
 1965—Subsec. (a)(10). Pub. L. 89–236 substituted “section 1101(a)(27)(A) of this title” for “section 1101(a)(27)(C) of this title”.
 
@@ -498,7 +498,7 @@ Section 602(d) of Pub. L. 101–649 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendments
 
-Section 7344(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
+Section 7344(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
 
 Section 7348(b) of Pub. L. 100–690 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any alien convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of possessing any firearm or destructive device referred to in such subsection.”
 

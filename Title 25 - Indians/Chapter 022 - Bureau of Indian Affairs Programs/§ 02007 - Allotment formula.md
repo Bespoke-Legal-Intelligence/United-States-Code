@@ -72,7 +72,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 > &emsp;&emsp;in considering the number of eligible Indian students served by the school.
 
-&emsp;&emsp;(E) Uses a weighted unit of 0.25 for each eligible Indian student who is enrolled in a year-long credit course in an Indian or Native language as part of the regular curriculum of a school, in considering the number of eligible Indian students served by such school. The adjustment required under this subparagraph shall be used for such school after—
+&emsp;&emsp;(E) Uses a weighted unit of 0.25 for each eligible Indian student who is enrolled in ayear-long credit course in an Indian or Native language as part of the regular curriculum of a school, in considering the number of eligible Indian students served by such school. The adjustment required under this subparagraph shall be used for such school after—
 
 &emsp;&emsp;&emsp;(i) the certification of the Indian or Native language curriculum by the school board of such school to the Secretary, together with an estimate of the number of full-time students expected to be enrolled in the curriculum in the second school year for which the certification is made; and
 
@@ -160,7 +160,7 @@ In this section, the term “eligible Indian student” means a student who—
 
 #### (3) Attendance of non-Indian students at contract and grant schools
 
-&emsp;The school board of a contract or grant school may permit students who are not eligible Indian students under this subsection to attend its contract school or grant school.Any tuition collected for those students shall be in addition to funding received under this section.
+&emsp;The school board of a contract or grant school may permit students who are not eligible Indian students under this subsection to attend its contract school or grant school. Any tuition collected for those students shall be in addition to funding received under this section.
 
 #### (h) Funds available without fiscal year limitation
 

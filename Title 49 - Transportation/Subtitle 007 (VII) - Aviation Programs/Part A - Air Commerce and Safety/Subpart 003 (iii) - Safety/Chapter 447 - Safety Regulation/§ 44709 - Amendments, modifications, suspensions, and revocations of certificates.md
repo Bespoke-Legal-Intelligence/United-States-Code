@@ -2,7 +2,7 @@
 
 (a)
 
-Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
+Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
 
 (b)
 
@@ -58,9 +58,9 @@ Final disposition.—The Board shall make a final disposition of an appeal under
 
 (f)
 
-Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+Judicial Review.—A person substantially affected by an order of the Board under this section, or the Administrator when the Administrator decides that an order of the Board under this section will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 ofthis title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1190; Pub. L. 106–181, title VII, §716, Apr. 5, 2000, 114 Stat. 162; Pub. L. 108–176, title II, §227(c), Dec. 12, 2003, 117 Stat. 2532.)
 
 Historical and Revision Notes
 
@@ -172,11 +172,17 @@ In subsection (e), before clause (1), the words “the effectiveness of” are o
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–176 inserted “design organization, production certificate holder,” after “appliance,”.
+
 2000—Subsec. (e). Pub. L. 106–181 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “When a person files an appeal with the Board under subsection (d) of the section, the order of the Administrator is stayed. However, if the Administrator advises the Board that an emergency exists and safety in air commerce or air transportation requires the order to be effective immediately—
 
 &emsp;“(1) the order is effective; and
 
 &emsp;“(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board.”
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -116,15 +116,17 @@ Not later than the end of the second fiscal year beginning after November 12, 19
 
 &emsp;In carrying out this section—
 
-&emsp;&emsp;(A) not more than $2,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
+&emsp;&emsp;(A) not more than $5,000,000 may be appropriated for construction, restoration, and rehabilitation of visitor and interpretive facilities, and directional and visitor orientation signage;
 
 &emsp;&emsp;(B) none of the funds authorized to be appropriated by this section may be used for the operation or maintenance of the Schooner Ernestina; and
 
 &emsp;&emsp;(C) not more than $50,000 annually of Federal funds may be used for interpretive and education programs for the Schooner Ernestina pursuant to cooperative agreements under subsection (e)(2) of this section.
 
-(Pub. L. 104–333, div. I, title V, §511, Nov. 12, 1996, 110 Stat. 4159; Pub. L. 106–176, title I, §111(a), Mar. 10, 2000, 114 Stat. 26.)
+(Pub. L. 104–333, div. I, title V, §511, Nov. 12, 1996, 110 Stat. 4159; Pub. L. 106–176, title I, §111(a), Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–7, div. F, title I, §154, Feb. 20, 2003, 117 Stat. 246.)
 
 #### Amendments
+
+2003—Subsec. (g)(2)(A). Pub. L. 108–7 substituted “$5,000,000” for “$2,000,000”.
 
 2000—Pub. L. 106–176, §111(a)(1), substituted “Whaling National Historical Park” for “National Historic Landmark District” in section catchline.
 

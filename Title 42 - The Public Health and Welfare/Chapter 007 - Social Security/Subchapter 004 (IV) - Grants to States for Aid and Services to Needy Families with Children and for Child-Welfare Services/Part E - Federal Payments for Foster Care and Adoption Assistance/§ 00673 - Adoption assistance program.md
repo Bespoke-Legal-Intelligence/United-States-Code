@@ -40,7 +40,7 @@
 
 #### (b) Aid for dependent children; assistance for minor children in needy families
 
-(1) For purposes of subchapter XIX of this chapter, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A ofthis subchapter (as so in effect) in the State where such child resides.
+(1) For purposes of subchapter XIX of this chapter, any child who is described in paragraph (3) is deemed to be a dependent child as defined in section 606 of this title (as in effect as of July 16, 1996) and deemed to be a recipient of aid to families with dependent children under part A of this subchapter (as so in effect) in the State where such child resides.
 
 (2) For purposes of subchapter XX of this chapter, any child who is described in paragraph (3) is deemed to be a minor child in a needy family under a State program funded under part A of this subchapter and deemed to be a recipient of assistance under such part.
 

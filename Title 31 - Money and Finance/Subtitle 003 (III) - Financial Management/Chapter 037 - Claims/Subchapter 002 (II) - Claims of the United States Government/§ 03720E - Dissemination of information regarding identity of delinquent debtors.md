@@ -6,7 +6,7 @@
 
 (2) Regulations under this subsection shall include—
 
-&emsp;(A) standards for disseminating information that maximize collections of delinquent nontax debts, by directing actions under this section toward delinquent debtors that have assets or income sufficient to pay their delinquent nontax debt;
+&emsp;(A) standards for disseminating information that maximize collections of delinquent nontax debts, by directing actions under this section toward delinquent debtors that haveassets or income sufficient to pay their delinquent nontax debt;
 
 &emsp;(B) procedures and requirements that prevent dissemination of information under this section regarding persons who have not had an opportunity to verify, contest, and compromise their nontax debt in accordance with this subchapter; and
 

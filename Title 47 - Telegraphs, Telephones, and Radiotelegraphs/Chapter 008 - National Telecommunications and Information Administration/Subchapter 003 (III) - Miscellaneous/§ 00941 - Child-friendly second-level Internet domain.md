@@ -12,7 +12,7 @@ The NTIA shall require the registry selected to operate and maintain the United 
 
 #### (2) Successor registries
 
-&emsp;The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c) of this section.
+&emsp;The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with anysuccessor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c) of this section.
 
 #### (c) Requirements of new domain
 
@@ -26,7 +26,7 @@ The registry and new domain shall be subject to the following requirements:
 
 &emsp;(4) Rules and procedures for enforcement and oversight that minimize the possibility that the new domain provides access to content that is not in accordance with the standards and requirements of the registry.
 
-&emsp;(5) A process for removing from the new domain any content that is not in accordancewith the standards and requirements of the registry.
+&emsp;(5) A process for removing from the new domain any content that is not in accordance with the standards and requirements of the registry.
 
 &emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt, expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
 
@@ -92,7 +92,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “harmful to minors” means, with respect to material, that—
 
-&emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appealto, or is designed to pander to, the prurient interest;
+&emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
 
 &emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
@@ -158,7 +158,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(10) the creation of a ‘green-light’ area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children's section within a library and will promote the positive experiences of children and families in the United States; and
 
-&emsp;“(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest.
+&emsp;“(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors byshielding them from material that is harmful to them is a compelling governmental interest.
 
 “(b)
 

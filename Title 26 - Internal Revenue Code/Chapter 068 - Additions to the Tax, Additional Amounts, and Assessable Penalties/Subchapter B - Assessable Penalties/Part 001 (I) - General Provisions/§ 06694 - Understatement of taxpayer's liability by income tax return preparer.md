@@ -20,7 +20,7 @@ If any part of any understatement of liability with respect to any return or cla
 
 &emsp;(2) to any reckless or intentional disregard of rules or regulations by any such person,
 
-> such person shall pay a penalty of $1,000 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).
+> such person shall pay a penalty of $1,000 with respect to such return or claim. With respect toany return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).
 
 #### (c) Extension of period of collection where preparer pays 15 percent of penalty
 

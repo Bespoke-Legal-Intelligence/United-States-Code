@@ -42,7 +42,7 @@ Section 6(e) of Pub. L. 100–448 provided that: “This section \[enacting sect
 
 #### Effective Date of 1984 Amendment
 
-Section 1014(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section and sections 777b, 777c to 777e, 777g, and 777k of this title\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984.”
+Section 1014(b) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending thissection and sections 777b, 777c to 777e, 777g, and 777k of this title\] shall take effect on October 1, 1984, and shall apply with respect to fiscal years beginning after September 30, 1984.”
 
 #### Effective Date
 
@@ -184,7 +184,7 @@ Determination of Eligibility.—In determining the eligibility of a project unde
 
 “(a)
 
-Non-Federal Share.—The non-Federal share of the cost of development and implementation of any project under the Program on land or at a facility that is not owned by the United States shall be 35 percent.
+Non-Federal Share.—The non-Federal share of the cost of development and implementation of anyproject under the Program on land or at a facility that is not owned by the United States shall be 35 percent.
 
 “(b)
 

@@ -24,3 +24,11 @@ Pub. L. 105–277, div. A, §101(e) \[title II\], Oct. 21, 1998, 112 Stat. 2681�
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 
+#### Authorized Investments
+
+Pub. L. 108–108, title II, Nov. 10, 2003, 117 Stat. 1288, provided in part: “That authorized investments of Federal funds held by the Foundation may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 256.
+

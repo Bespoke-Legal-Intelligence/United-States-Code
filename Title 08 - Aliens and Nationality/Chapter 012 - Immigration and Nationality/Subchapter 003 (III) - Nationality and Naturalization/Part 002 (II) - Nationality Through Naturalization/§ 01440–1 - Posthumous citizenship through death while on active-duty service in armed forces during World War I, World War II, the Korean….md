@@ -2,7 +2,7 @@
 
 #### (a) Permitting granting of posthumous citizenship
 
-Notwithstanding any other provision of this subchapter, the Attorney General shall provide, in accordance with this section, for the granting of posthumous citizenship at the time of death to a person described in subsection (b) of this section if the Attorney General approves an application for that posthumous citizenship under subsection (c) of this section.
+Notwithstanding any other provision of this subchapter, the Secretary of Homeland Security shall provide, in accordance with this section, for the granting of posthumous citizenship at the time of death to a person described in subsection (b) of this section if the Secretary of Homeland Security approves an application for that posthumous citizenship under subsection (c) of this section.
 
 #### (b) Noncitizens eligible for posthumous citizenship
 
@@ -18,33 +18,57 @@ A person referred to in subsection (a) of this section is a person who, while an
 
 #### (c) Requests for posthumous citizenship
 
-A request for the granting of posthumous citizenship to a person described in subsection (b) of this section may be filed on behalf of the person only by the next-of-kin (as defined by the Attorney General) or another representative (as defined by the Attorney General). The Attorney General shall approve such a request respecting a person if—
+#### (1) In general
 
-&emsp;(1) the request is filed not later than 2 years after—
+&emsp;A request for the granting of posthumous citizenship to a person described in subsection (b) of this section may be filed on behalf of that person—
 
-&emsp;&emsp;(A) November 2, 2002, or
+&emsp;&emsp;(A) upon locating the next-of-kin, and if so requested by the next-of-kin, by the Secretary of Defense or the Secretary's designee with the Bureau of Citizenship and Immigration Services in the Department of Homeland Security immediately upon the death of that person; or
 
-&emsp;&emsp;(B) the date of the person's death, whichever date is later;
+&emsp;&emsp;(B) by the next-of-kin.
 
-&emsp;(2) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b) of this section; and
+#### (2) Approval
 
-&emsp;(3) the Attorney General finds that the person satisfied the requirement of subsection (b)(3) of this section.
+&emsp;The Director of the Bureau of Citizenship and Immigration Services shall approve a request for posthumous citizenship filed by the next-of-kin in accordance with paragraph (1)(B) if—
+
+&emsp;&emsp;(A) the request is filed not later than 2 years after—
+
+&emsp;&emsp;&emsp;(i) November 24, 2003; or
+
+&emsp;&emsp;&emsp;(ii) the date of the person's death;
+
+> &emsp;&emsp;whichever date is later;
+
+&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b) of this section; and
+
+&emsp;&emsp;(C) the Director finds that the person satisfied the requirement of subsection (b)(3) of this section.
 
 #### (d) Documentation of posthumous citizenship
 
-If the Attorney General approves such a request to grant a person posthumous citizenship,the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.
+If the Director of the Bureau of Citizenship and Immigration Services approves the request referred to in subsection (c) of this section, the Director shall send to the next-of-kin of the person who is granted citizenship, a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.
 
-#### (e) No benefits to survivors
+(June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Pub. L. 101–249, §2(a), Mar. 6, 1990, 104 Stat. 94; Pub. L. 107–273, div. C, title I, §11030(b), Nov. 2, 2002, 116 Stat. 1836; Pub. L. 108–136, div. A, title XVII, §§1703(g), 1704, Nov. 24, 2003, 117 Stat. 1695, 1696.)
 
-Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.
+#### Codification
 
-(June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Pub. L. 101–249, §2(a), Mar. 6, 1990, 104 Stat. 94; Pub. L. 107–273, div. C, title I, §11030(b), Nov. 2, 2002, 116 Stat. 1836.)
+November 24, 2003, referred to in subsec. (c)(2)(A)(i), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 108–136, which enacted subsec. (c) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
+2003—Subsec. (a). Pub. L. 108–136, §1703(g)(2), substituted “Secretary of Homeland Security” for “Attorney General” in two places.
+
+Subsec. (c). Pub. L. 108–136, §1704(1), added heading and text of subsec. (c) and struck out former subsec. (c) which related to procedures for approval by the Attorney General of a request for the granting of posthumous citizenship.
+
+Subsec. (d). Pub. L. 108–136, §1704(2), added heading and text of subsec. (d) and struck out former subsec. (d) which read as follows: “If the Attorney General approves such a request to grant a person posthumous citizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.”
+
+Subsec. (e). Pub. L. 108–136, §1703(g)(1), struck out heading and text of subsec. (e). Text read as follows: “Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.”
+
 2002—Subsec. (c)(1)(A). Pub. L. 107–273 substituted “November 2, 2002,” for “March 6, 1990,”.
 
-#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+#### Effective Date of 2003 Amendment
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+Amendment by Pub. L. 108–136 effective as if enacted Sept. 11, 2001, see section 1705 of Pub. L. 108–136, set out in a note under section 1439 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1430 of this title.
 

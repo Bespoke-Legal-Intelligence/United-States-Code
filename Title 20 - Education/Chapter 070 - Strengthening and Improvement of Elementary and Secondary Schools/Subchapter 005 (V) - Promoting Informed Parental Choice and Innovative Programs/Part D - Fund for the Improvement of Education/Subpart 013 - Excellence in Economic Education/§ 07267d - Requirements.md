@@ -18,7 +18,7 @@ In carrying out the activities assisted under this subpart, the grantee and reci
 
 &emsp;(1) include interactions with the local business community to the fullest extent possible to reinforce the connection between economic and financial literacy and economic development; and
 
-&emsp;(2) work with private businesses to obtain matching contributions for Federal funds andassist recipients in working toward self-sufficiency.
+&emsp;(2) work with private businesses to obtain matching contributions for Federal funds and assist recipients in working toward self-sufficiency.
 
 #### (d) Additional requirements and technical assistance
 

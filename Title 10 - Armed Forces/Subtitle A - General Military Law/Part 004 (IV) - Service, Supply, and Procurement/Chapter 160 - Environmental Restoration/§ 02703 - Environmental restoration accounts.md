@@ -16,35 +16,13 @@ Establishment of Accounts.—There are hereby established in the Department of D
 
 (b)
 
-Program Elements for Ordnance Remediation.—The Secretary of Defense shall establish a program element for remediation of unexploded ordnance, discarded military munitions, and munitions constituents within each environmental restoration account established under subsection (a). The terms “unexploded ordnance”, “discarded military munitions”, and “munitions constituents” have the meanings given such terms in section 2710 of this title.
+Program Elements for Ordnance Remediation.—The Secretary of Defense shall establish a program element for remediation of unexploded ordnance, discarded military munitions, and munitions constituents within each environmental restoration account established under subsection (a). The terms “unexploded ordnance”, “discarded military munitions”, and “munitions constituents” have the meanings given such terms in section 2710 <sup>1</sup> of this title.
 
 (c)
 
-Obligation of Authorized Amounts.—(1) Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only—
+Obligation of Authorized Amounts.—(1) Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.
 
-&emsp;(A) to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law; and
-
-&emsp;(B) to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants from—
-
-&emsp;&emsp;(i) real property on which the facility is located and that is currently under the jurisdiction of the Secretary of Defense or the Secretary of a military department; or
-
-&emsp;&emsp;(ii) real property on which the facility is located and that was under the jurisdiction of the Secretary of Defense or the Secretary of a military department at the time of the actions leading to the release or threatened release.
-
-(2) The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
-
-&emsp;(A) determines that permanent relocation—
-
-&emsp;&emsp;(i) is the most cost effective method of responding to the release or threatened release of hazardous substances, pollutants, or contaminants from the real property on which the facility is located;
-
-&emsp;&emsp;(ii) has the approval of relevant regulatory agencies; and
-
-&emsp;&emsp;(iii) is supported by the affected community; and
-
-&emsp;(B) submits to Congress written notice of the determination before undertaking the permanent relocation of the facility, including a description of the response action taken or to be taken in connection with the permanent relocation and a statement of the costs incurred or to be incurred in connection with the permanent relocation.
-
-(3) If relocation costs are to be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary.
-
-(4) Funds authorized for deposit in an account under subsection (a) shall remain available until expended. Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).
+(2) Funds authorized for deposit in an account under subsection (a) shall remain available until expended.
 
 (d)
 
@@ -68,13 +46,41 @@ Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(
 
 (2) In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA (42 U.S.C. 9601).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051; Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430.)
 
 #### References in Text
 
-CERCLA, referred to in subsec. (e)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+Section 2710 of this title, referred to in subsec. (b), was subsequently amended, and no longer defines the term “unexploded ordnance”.
 
 #### Amendments
+
+2003—Subsec. (c)(1). Pub. L. 108–136, §313(a)(1), substituted “only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.” for “only—
+
+&emsp;“(A) to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law; and
+
+&emsp;“(B) to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants from—
+
+&emsp;&emsp;“(i) real property on which the facility is located and that is currently under the jurisdiction of the Secretary of Defense or the Secretary of a military department; or
+
+&emsp;&emsp;“(ii) real property on which the facility is located and that was under the jurisdiction of the Secretary of Defense or the Secretary of a military department at the time of the actions leading to the release or threatened release.”
+
+Subsec. (c)(2). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2) and struck out second sentence which read as follows: “Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).”
+
+Pub. L. 108–136, §313(a)(2), struck out par. (2) which read as follows: “The authority provided by paragraph (1)(B) expires September 30, 2003. The Secretary of Defense or the Secretary of a military department may not pay the costs of permanently relocating a facility under such paragraph unless the Secretary—
+
+&emsp;“(A) determines that permanent relocation—
+
+&emsp;&emsp;“(i) is the most cost effective method of responding to the release or threatened release of hazardous substances, pollutants, or contaminants from the real property on which the facility is located;
+
+&emsp;&emsp;“(ii) has the approval of relevant regulatory agencies; and
+
+&emsp;&emsp;“(iii) is supported by the affected community; and
+
+&emsp;“(B) submits to Congress written notice of the determination before undertaking the permanent relocation of the facility, including a description of the response action taken or to be taken in connection with the permanent relocation and a statement of the costs incurred or to be incurred in connection with the permanent relocation.”
+
+Subsec. (c)(3). Pub. L. 108–136, §313(a)(2), struck out par. (3) which read as follows: “If relocation costs are to be paid under paragraph (1)(B) with respect to a facility located on real property described in clause (ii) of such paragraph, the Secretary of Defense or the Secretary of the military department concerned may use only fund transfer mechanisms otherwise available to the Secretary.”
+
+Subsec. (c)(4). Pub. L. 108–136, §313(a)(3), redesignated par. (4) as (2).
 
 2001—Subsecs. (b) to (g). Pub. L. 107–107 added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
@@ -106,6 +112,10 @@ Amounts Recovered Under CERCLA.—Amounts recovered under section 107 of CERCLA 
 
 1994—Subsec. (f). Pub. L. 103–337 added subsec. (f).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title III, §313(a), Nov. 24, 2003, 117 Stat. 1430, provided that the amendment made by that section is effective Oct. 1, 2003.
+
 #### Effective Date of 1996 Amendment
 
 Section 322(e) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 2705 of this title\] shall take effect on the later of—
@@ -118,6 +128,10 @@ Section 322(e) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 Section 211(c) of Pub. L. 99–499 provided that: “Section 2703(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1986.”
 
+#### Effect of Amendment by Pub. L. 108–136 on Existing Agreements
+
+Pub. L. 108–136, div. A, title III, §313(b), Nov. 24, 2003, 117 Stat. 1430, provided that: “An agreement in effect on September 30, 2003, under section 2703(c)(1)(B) of title 10, United States Code, as in effect on that date, to pay for the costs of permanently relocating a facility because of a release or threatened release of hazardous substances, pollutants, or contaminants shall remain in effect after that date, subject to the terms of the agreement, and costs may be paid in accordance with the terms of the agreement, notwithstanding the amendments made by subsection (a) \[amending this section\].”
+
 #### References to Defense Environmental Restoration Account
 
 Section 322(b) of Pub. L. 104–201 provided that: “Any reference to the Defense Environmental Restoration Account in any Federal law, Executive Order, regulation, delegation of authority, or document shall be deemed to refer to the appropriate environmental restoration account established under section 2703(a)(1) of title 10, United States Code (as amended by subsection (a)(1)).”
@@ -128,5 +142,7 @@ Section 322(d) of Pub. L. 104–201 provided that: “Any unobligated balances t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2705 of this title.
+This section is referred to in sections 2705, 2707 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

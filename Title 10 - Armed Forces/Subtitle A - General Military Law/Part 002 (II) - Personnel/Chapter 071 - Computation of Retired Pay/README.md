@@ -16,12 +16,17 @@
 | [1410\.](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md) | Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986. |
 | [1411\.](%C2%A7%2001411%20-%20Rules%20of%20construction.md) | Rules of construction. |
 | [1412\.](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md) | Rounding to next lower dollar. |
-| [1413\.](%C2%A7%2001413%20-%20Special%20compensation%20for%20certain%20severely%20disabled%20uniformed%20services%20retirees.md) | Special compensation for certain severely disabled uniformed services retirees. |
-| [1414\.](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20have%20service-connected%20disabilities%20payment%20of%20retired%20pay%20and%20veterans%E2%80%99%20disability%20compensation%E2%80%A6.md) | Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans’ disability compensation; contingent authority. |
+| \[1413. | Repealed.\] |
+| [1413a.](%C2%A7%2001413a%20-%20Combat-related%20special%20compensation.md) | Combat-related special compensation. |
+| [1414\.](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20are%20also%20eligible%20for%20veterans%E2%80%99%20disability%20compensation%20for%20disabilities%20rated%2050%20percent%20or%20higher%E2%80%A6.md) | Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VI, §641(d), (e)(2), Nov. 24, 2003, 117 Stat. 1516, 1517, struck out item 1413 “Special compensation for certain severely disabled uniformed services retirees”, and substituted “Combat-related special compensation” for “Special compensation for certain combat-related disabled uniformed services retirees” in item 1413a and “Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation” for “Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans’ disability compensation; contingent authority” in item 1414.
+
+2002—Pub. L. 107–314, div. A, title VI, §636(a)(3), Dec. 2, 2002, 116 Stat. 2576, added item 1413a.
 
 2001—Pub. L. 107–107, div. A, title VI, §641(c), Dec. 28, 2001, 115 Stat. 1150, added item 1414.
 
@@ -33,7 +38,7 @@
 
 1982—Pub. L. 97–252, title X, §1002(b), Sept. 8, 1982, 96 Stat. 735, added item 1408.
 
-1980—Pub. L. 96–513, title V, §511(51)(C), (52)(C), Dec. 12, 1980, 94 Stat. 2924, 2925, substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after the enactment of the Department of Defense Authorization Act, 1981” in item 1402a, and substituted “Internal Revenue Code of 1954” for “title 26” in item 1403.
+1980—Pub. L. 96–513, title V, §511(51)(C), (52)(C), Dec. 12, 1980, 94 Stat. 2924, 2925, substituted “of members who first became members after September 7, 1980” for “in case of members who first became members after theenactment of the Department of Defense Authorization Act, 1981” in item 1402a, and substituted “Internal Revenue Code of 1954” for “title 26” in item 1403.
 
 Pub. L. 96–342, title VIII, §813(a)(2), (b)(3)(B), 94 Stat. 1101, 1104, added items 1402a and 1407.
 
@@ -47,7 +52,7 @@ Pub. L. 89–652, §2(2), Oct. 14, 1966, 80 Stat. 902, added item 1406.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 642, 1275, 1315 of this title; title 4 section 114; title 33 section 857a; title 42 section 213a.
+This chapter is referred to in sections 642, 1275, 1315 of this title; title 4 section 114; title 33 section 3071; title 42 section 213a.
 
 
 ---
@@ -68,5 +73,6 @@ This chapter is referred to in sections 642, 1275, 1315 of this title; title 4 s
 - [&sect; 01410 - Restoral of full retirement amount at age 62 for certain members entering on or after August 1, 1986](%C2%A7%2001410%20-%20Restoral%20of%20full%20retirement%20amount%20at%20age%2062%20for%20certain%20members%20entering%20on%20or%20after%20August%201%2C%201986.md)
 - [&sect; 01411 - Rules of construction](%C2%A7%2001411%20-%20Rules%20of%20construction.md)
 - [&sect; 01412 - Rounding to next lower dollar](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md)
-- [&sect; 01413 - Special compensation for certain severely disabled uniformed services retirees](%C2%A7%2001413%20-%20Special%20compensation%20for%20certain%20severely%20disabled%20uniformed%20services%20retirees.md)
-- [&sect; 01414 - Members eligible for retired pay who have service-connected disabilities payment of retired pay and veterans&#8217; disability compensation&#8230;](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20have%20service-connected%20disabilities%20payment%20of%20retired%20pay%20and%20veterans%E2%80%99%20disability%20compensation%E2%80%A6.md)
+- [&sect; 01413 - Repealed. Pub. L. 108&#8211;136, div. A, title VI, &sect;641(b), Nov. 24, 2003, 117 Stat. 1514](%C2%A7%2001413%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7641%28b%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201514.md)
+- [&sect; 01413a - Combat-related special compensation](%C2%A7%2001413a%20-%20Combat-related%20special%20compensation.md)
+- [&sect; 01414 - Members eligible for retired pay who are also eligible for veterans&#8217; disability compensation for disabilities rated 50 percent or higher&#8230;](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20are%20also%20eligible%20for%20veterans%E2%80%99%20disability%20compensation%20for%20disabilities%20rated%2050%20percent%20or%20higher%E2%80%A6.md)

@@ -1,6 +1,6 @@
 ### §650. El Nino-related ocean conditions; disaster loan assistance to small business concerns in fishing industry
 
-Notwithstanding any other provision of law, rule, or regulations, for purposes of section 636(b) of this title, the Administrator shall, with respect to small business concerns involved in the fishing industry, treat the recent El Nino-related ocean conditions as a disaster under such subsection:
+Notwithstanding any other provision of law, rule, or regulations, for purposes of section636(b) of this title, the Administrator shall, with respect to small business concerns involved in the fishing industry, treat the recent El Nino-related ocean conditions as a disaster under such subsection:
 
 &emsp;(1) disaster loan assistance shall be provided to the fishing industry pursuant to paragraph (2) of such section—
 

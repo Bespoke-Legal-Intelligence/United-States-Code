@@ -102,7 +102,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (2) Health
 
-&emsp;Improving health conditions, with special emphasis on meeting the health needs ofmothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
+&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
 
 #### (3) Voluntary family planning services
 
@@ -162,7 +162,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### (1) Authority to provide assistance
 
-&emsp;To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph (2), that are supported by the Southern Africa Development Coordination Conference (SADCC) to enhance the economic development of the member states forming that regional institution.
+&emsp;To the extent funds are provided for such purpose in the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act, funds made available to carry out this part may be used to assist sector projects, in the sectors specified in paragraph\(2), that are supported by the Southern Africa Development Coordination Conference (SADCC) to enhance the economic development of the member states forming that regional institution.
 
 #### (2) Sectors
 
@@ -232,7 +232,7 @@ Findings.—Congress finds the following:
 
 “(b)
 
-Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
+Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities,businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development.”
 
 Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
 
@@ -352,7 +352,7 @@ Additional Requirements.—Such plan shall seek to ensure that—
 
 #### Reports to Congress
 
-Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of theForeign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
+Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
 &emsp;“(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 \[22 U.S.C. 2293(e)(1), (f)\];
 

@@ -1,6 +1,6 @@
 ### \[§§3259 to 3261. Repealed. Pub. L. 103–337, div. A, title XVI, §1662(b)(3), Oct. 5, 1994, 108 Stat. 2990\]
 
-Section 3259, acts Aug. 10, 1956, ch. 1041, 70A Stat. 179; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, §1234(a)(1), 102 Stat. 2059, related to transfers in grade of enlisted members of Army National Guard of United States to Army Reserve. See section 12105 of this title.
+Section 3259, acts Aug. 10, 1956, ch. 1041, 70A Stat. 179; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII,§1234(a)(1), 102 Stat. 2059, related to transfers in grade of enlisted members of Army National Guard of United States to Army Reserve. See section 12105 of this title.
 
 Section 3260, act Aug. 10, 1956, ch. 1041, 70A Stat. 179, provided that enlisted members of Army National Guard of United States are transferred to Army Reserve upon withdrawal as members of Army National Guard. See section 12106 of this title.
 

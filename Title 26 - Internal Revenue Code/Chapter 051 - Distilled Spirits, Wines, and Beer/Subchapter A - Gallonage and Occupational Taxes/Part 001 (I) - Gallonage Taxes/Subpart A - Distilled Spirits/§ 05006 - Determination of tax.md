@@ -18,7 +18,7 @@
 
 #### (2) Alternative method
 
-&emsp;Where there is evidence satisfactory to the Secretary that there has been access, other than is authorized by law, to the contents of casks or packages stored on bonded premises, and the extent of such access is such as to evidence a lack of due diligence or a failure to employ necessary and effective controls on the part of the proprietor, the Secretary (in lieu of requiring the casks or packages to which such access has been had to be withdrawn and tax paid on the original quantity of distilled spirits entered for deposit on bonded premises in such casks or packages as provided in paragraph (1)) may assess an amount equal to the tax on 5 proof gallons of distilled spirits at the prevailing rate on each of the total number of such casks or packages as determined by him.
+&emsp;Where there is evidence satisfactory to the Secretary that there has been access, other than is authorized by law, to the contents of casks or packages stored on bonded premises, and the extent of such access is such as to evidence a lack of due diligence or a failure to employ necessary and effective controls on the part of the proprietor, the Secretary (in lieu of requiring the casks or packages to which such access has been had to be withdrawn and tax paid on the original quantity of distilled spirits entered for deposit on bonded premises in such casks or packages as provided in paragraph (1)) may assess an amount equal to the tax on 5 proof gallons of distilled spirits at theprevailing rate on each of the total number of such casks or packages as determined by him.
 
 #### (3) Application of subsection
 

@@ -10,7 +10,7 @@ The Secretary shall require collection of the penalty upon a proportion of each 
 
 #### (c) Lien in favor of United States
 
-Until the amount of the penalty provided by this section is paid, a lien on the tobacco with respect to which such penalty is incurred, and on any subsequent tobacco subject to marketing quotas in which the person liable for payment of the penalty has an interest, shall be in effect in favor of the United States for the amount of the penalty.
+Until the amount of the penalty provided by this section is paid, a lien on the tobacco with respect to which such penalty is incurred, andon any subsequent tobacco subject to marketing quotas in which the person liable for payment of the penalty has an interest, shall be in effect in favor of the United States for the amount of the penalty.
 
 (Feb. 16, 1938. ch. 30, title III, §314, 52 Stat. 48; Aug. 7, 1939, ch. 565, 53 Stat. 1262; June 13, 1940, ch. 360, §5, 54 Stat. 393; Feb. 19, 1946, ch. 31, §2, 60 Stat. 21; June 22, 1954, ch. 339, 68 Stat. 270; Mar. 31, 1955, ch. 21, §5, 69 Stat. 24; Pub. L. 97–218, title I, §103, title II, §206(a), July 20, 1982, 96 Stat. 201, 206.)
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 97–218, §206(a), added subsec. (c).
 
 1940—Act June 13, 1940, designated existing provisions as subsec. (a), inserted last three sentences to subsec. (a), and added subsec. (b).
 
-1939—Subsec. (a). Act Aug. 7, 1939, struck out first sentence and inserted in lieu thereof “The marketingof any tobacco in excess of the marketing quota for the farm on which the tobacco is produced shall be subject to a penalty of 10 cents per pound in the case of flue-cured, Maryland, or Burley tobacco and 5 cents per pound in the case of all other kinds of tobacco”.
+1939—Subsec. (a). Act Aug. 7, 1939, struck out first sentence and inserted in lieu thereof “The marketing of any tobacco in excess of the marketing quota for the farm on which the tobacco is produced shall be subject to a penalty of 10 cents per pound in the case of flue-cured, Maryland, or Burley tobacco and 5 cents per pound in the case of all other kinds of tobacco”.
 
 #### Effective Date of 1982 Amendment
 

@@ -1,12 +1,12 @@
 ### §167. Buildings and grounds; designation of employees as police
 
-The Librarian of Congress may designate employees of the Library of Congress as police for duty with respect to the Library of Congress buildings and adjacent streets. The rank structure and pay for employees so designated shall be the same as the rank structure and pay for the Capitol Police.
+The Librarian of Congress may designate employees of the Library of Congress as police forduty with respect to the Library of Congress buildings and adjacent streets. The rank structure and pay for employees so designated shall be the same as the rank structure and pay for the Capitol Police.
 
 (Aug. 4, 1950, ch. 561, §1, 64 Stat. 411; Pub. L. 90–610, §1, Oct. 21, 1968, 82 Stat. 1201; Pub. L. 93–175, §1, Dec. 5, 1973, 87 Stat. 693; Pub. L. 100–135, §1(a), Oct. 16, 1987, 101 Stat. 811.)
 
 #### Amendments
 
-1987—Pub. L. 100–135 amended section generally. Prior to amendment, section read as follows:
+<b>1987</b>—Pub. L. 100–135 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Librarian of Congress may designate employees of the Library of Congress as special policemen for duty in connection with policing of the Library of Congress buildings and grounds and adjacent streets and shall fix their rates of basic pay as follows:
 
@@ -22,7 +22,7 @@ The Librarian of Congress may designate employees of the Library of Congress as 
 
 “(b) The Librarian of Congress may apply the provisions of subchapter V of chapter 55 of title 5 to members of the special police force of the Library of Congress.”
 
-1973—Subsec. (a)(1). Pub. L. 93–175 substituted “Private GS–7—step one through five” for “Private—not to exceed the rate for GS–5, Step 5”.
+<b>1973</b>—Subsec. (a)(1). Pub. L. 93–175 substituted “Private GS–7—step one through five” for “Private—not to exceed the rate for GS–5, Step 5”.
 
 Subsec. (a)(2). Pub. L. 93–175 substituted “Sergeant GS–8—step one through five” for “Sergeant—not to exceed the rate for GS–6, Step 5”.
 
@@ -32,7 +32,7 @@ Subsec. (a)(4). Pub. L. 93–175 substituted “Senior Lieutenant GS–10—step
 
 Subsec. (a)(5). Pub. L. 93–175 substituted “Captain GS–11—step one through seven” for “Captain—not to exceed the rate for GS–10, Step 5”.
 
-1968—Pub. L. 90–610 struck out provisions which permitted the Librarian to designate employees as special policemen without additional compensation, and inserted provisions permitting designation of employees as special employees, prescribing their rates of basic pay, and empowering the Librarian to apply the provisions of subchapter V of chapter 55 of title 5 to members of the special police force.
+<b>1968</b>—Pub. L. 90–610 struck out provisions which permitted the Librarian to designate employees as special policemen without additional compensation, and inserted provisions permitting designation of employees as special employees, prescribing their rates of basic pay, and empowering the Librarian to apply the provisions of subchapter V of chapter 55 of title 5 to members of the special police force.
 
 #### Effective Date of 1987 Amendment
 
@@ -44,7 +44,7 @@ Section 2 of Pub. L. 93–175 provided that: “The amendment made by this Act \
 
 #### Effective Date of 1968 Amendment
 
-Section 3 of Pub. L. 90–610 provided that: “The amendments made by this Act \[amending this section and section 5102 of Title 5, Government Organizationand Employees\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 21, 1968\]. Notwithstanding any provisions of this Act, no rate of basic pay shall be reduced by reason of the enactment of this Act.”
+Section 3 of Pub. L. 90–610 provided that: “The amendments made by this Act \[amending this section and section 5102 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 21, 1968\]. Notwithstanding any provisions of this Act, no rate of basic pay shall be reduced by reason of the enactment of this Act.”
 
 #### Transition Rule for Certain Employees
 

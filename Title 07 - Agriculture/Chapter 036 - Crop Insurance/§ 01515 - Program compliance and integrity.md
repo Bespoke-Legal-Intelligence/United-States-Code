@@ -36,7 +36,7 @@ The Secretary shall develop and implement a coordinated plan for the Corporation
 
 &emsp;&emsp;(A) at the request of the Corporation or, subject to paragraph (2), on its own initiative if the Farm Service Agency has reason to suspect the existence of program fraud, waste, or abuse, conducting fact finding relative to allegations of program fraud, waste, or abuse;
 
-&emsp;&emsp;(B) reporting to the Corporation, in writing in a timely manner, the results of anyfact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
+&emsp;&emsp;(B) reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
 
 &emsp;&emsp;(C) assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this chapter.
 

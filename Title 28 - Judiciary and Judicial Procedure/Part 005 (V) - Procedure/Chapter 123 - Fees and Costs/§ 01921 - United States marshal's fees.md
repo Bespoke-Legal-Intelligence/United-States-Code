@@ -10,7 +10,7 @@
 
 &emsp;(D) The preparation of any notice of sale, proclamation in admiralty, or other public notice or bill of sale.
 
-&emsp;(E) The keeping of attached property (including boats, vessels, or other property attached or libeled), actual expenses incurred, such as storage, moving, boat hire, or otherspecial transportation, watchmen's or keepers’ fees, insurance, and an hourly rate, including overtime, for each deputy marshal required for special services, such as guarding, inventorying, and moving.
+&emsp;(E) The keeping of attached property (including boats, vessels, or other property attached or libeled), actual expenses incurred, such as storage, moving, boat hire, or other special transportation, watchmen's or keepers’ fees, insurance, and an hourly rate, including overtime, for each deputy marshal required for special services, such as guarding, inventorying, and moving.
 
 &emsp;(F) Copies of writs or other papers furnished at the request of any party.
 
@@ -58,7 +58,7 @@ The 2 per centum fee for disbursing moneys is omitted as an unnecessary burden u
 
 The provision that a folio consists of “100 words or major fraction thereof” is inserted to conform with section 607 of title 28, U.S.C., 1940 ed., which is transferred to title 44, U.S.C., 1940 ed., Public Printing and Documents, along with section 606 of said title 28, to which said section 607 also relates.
 
-The provision for a lump sum to be determined by the court and taxed in criminal cases was added. It fixes a maximum of $25 in misdemeanor cases and $100 in felony cases. It may be questioned whether costs as such should ever be taxed against the convicted defendant in a criminal case. The acquitted defendant is not permitted to tax costs against the United States. Indeed the allowance of costs in criminal cases is not a matter of right but rests completely within the discretion ofthe court. <i>Morris v. United States</i>, 1911, 185 Fed. 73, 107 C.C.A. 293.
+The provision for a lump sum to be determined by the court and taxed in criminal cases was added. It fixes a maximum of $25 in misdemeanor cases and $100 in felony cases. It may be questioned whether costs as such should ever be taxed against the convicted defendant in a criminal case. The acquitted defendant is not permitted to tax costs against the United States. Indeed the allowance of costs in criminal cases is not a matter of right but rests completely within the discretion of the court. <i>Morris v. United States</i>, 1911, 185 Fed. 73, 107 C.C.A. 293.
 
 In <i>Alberty v. U.S</i>., C.C.A.9, 1937, 91 F.2d 461, the defendant was fined $100 on each of 11 accounts of an indictment under the 1906 Food and Drug Act (title 21, §§2, 10, U.S.C., 1934 ed., as amended). Costs of prosecution were taxed in the sum of $1,499.80. Yet the court in its discretion might have reached substantially the same result by imposing a fine of $200 on each count without any taxation of costs.
 

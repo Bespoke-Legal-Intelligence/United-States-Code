@@ -1,0 +1,28 @@
+### §7508. Additional centers
+
+#### (a) American Nanotechnology Preparedness Center
+
+The Program shall provide for the establishment, on a merit-reviewed and competitive basis, of an American Nanotechnology Preparedness Center which shall—
+
+&emsp;(1) conduct, coordinate, collect, and disseminate studies on the societal, ethical, environmental, educational, legal, and workforce implications of nanotechnology; and
+
+&emsp;(2) identify anticipated issues related to the responsible research, development, and application of nanotechnology, as well as provide recommendations for preventing or addressing such issues.
+
+#### (b) Center for nanomaterials manufacturing
+
+The Program shall provide for the establishment, on a merit reviewed and competitive basis, of a center to—
+
+&emsp;(1) encourage, conduct, coordinate, commission, collect, and disseminate research on new manufacturing technologies for materials, devices, and systems with new combinations of characteristics, such as, but not limited to, strength, toughness, density, conductivity, flame resistance, and membrane separation characteristics; and
+
+&emsp;(2) develop mechanisms to transfer such manufacturing technologies to United States industries.
+
+#### (c) Reports
+
+The Council, through the Director of the National Nanotechnology Coordination Office, shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science—
+
+&emsp;(1) within 6 months after December 3, 2003, a report identifying which agency shall be the lead agency and which other agencies, if any, will be responsible for establishing the Centers described in this section; and
+
+&emsp;(2) within 18 months after December 3, 2003, a report describing how the Centers described in this section have been established.
+
+(Pub. L. 108–153, §9, Dec. 3, 2003, 117 Stat. 1930.)
+

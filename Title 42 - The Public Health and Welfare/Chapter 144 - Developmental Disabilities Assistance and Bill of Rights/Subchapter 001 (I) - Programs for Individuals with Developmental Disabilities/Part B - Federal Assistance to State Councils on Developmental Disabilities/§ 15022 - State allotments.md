@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands may not be less than $210,000; and
 
-&emsp;&emsp;&emsp;(ii) to any State not described in clause (i) may not be less than $400,000.
+&emsp;&emsp;&emsp;(ii) to any State not described in clause (i) may not be less than $400,000, the amount received by the State for the previous year, or the amount of Federal appropriations received in fiscal year 2000, 2001, or 2002, whichever is greater.
 
 #### (B) Reduction of allotment
 
@@ -42,11 +42,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which the total amount appropriated under section 15029 of this title for a fiscal year is more than $70,000,000, the allotment under this section for such fiscal year—
+&emsp;&emsp;In any case in which the total amount appropriated under section 15029 of this titlefor a fiscal year is more than $70,000,000, the allotment under this section for such fiscal year—
 
 &emsp;&emsp;&emsp;(i) to each of American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands may not be less than $220,000; and
 
-&emsp;&emsp;&emsp;(ii) to any State not described in clause (i) may not be less than $450,000.
+&emsp;&emsp;&emsp;(ii) to any State not described in clause (i) may not be less than $450,000, the amount received by the State for the previous year, or the amount of Federal appropriations received in fiscal year 2000, 2001, or 2002, whichever is greater.
 
 #### (B) Reduction of allotment
 
@@ -100,7 +100,15 @@ If a State plan approved in accordance with section 15024 of this title provides
 
 &emsp;Any amount reallotted to a State under this subsection for a fiscal year shall be deemed to be a part of the allotment of the State under subsection (a) of this section for such fiscal year.
 
-(Pub. L. 106–402, title I, §122, Oct. 30, 2000, 114 Stat. 1693.)
+(Pub. L. 106–402, title I, §122, Oct. 30, 2000, 114 Stat. 1693; Pub. L. 108–154, §3(a), Dec. 3, 2003, 117 Stat. 1934.)
+
+#### Amendments
+
+2003—Subsec. (a)(3)(A)(ii), (4)(A)(ii). Pub. L. 108–154 inserted before period at end “, the amount received by the State for the previous year, or the amount of Federal appropriations received in fiscal year 2000, 2001, or 2002, whichever is greater”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–154, §3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1,2003 and apply to allotments beginning in fiscal year 2004.”
 
 #### Section Referred to in Other Sections
 

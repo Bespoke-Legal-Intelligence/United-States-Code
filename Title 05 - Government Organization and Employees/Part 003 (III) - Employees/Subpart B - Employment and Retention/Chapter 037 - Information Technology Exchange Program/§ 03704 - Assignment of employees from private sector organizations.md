@@ -44,7 +44,7 @@ Prohibition Against Charging Certain Costs to the Federal Government.—A privat
 
 #### References in Text
 
-The Federal Tort Claims Act, referred to in subsec. (b)(2)(D), is classified generally to section 1346(b) andchapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+The Federal Tort Claims Act, referred to in subsec. (b)(2)(D), is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 The Ethics in Government Act of 1978, referred to in subsec. (b)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
 

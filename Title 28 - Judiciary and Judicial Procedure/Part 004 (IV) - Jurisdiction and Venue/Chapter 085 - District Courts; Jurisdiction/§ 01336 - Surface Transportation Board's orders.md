@@ -6,7 +6,7 @@
 
 (c) Any action brought under subsection (b) of this section shall be filed within 90 days from the date that the order of the Surface Transportation Board becomes final.
 
-(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 88–513, §1, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, §1,Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, §128, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–88, title III, §305(a)(1), (2), Dec. 29, 1995, 109 Stat. 944.)
+(June 25, 1948, ch. 646, 62 Stat. 931; Pub. L. 88–513, §1, Aug. 30, 1964, 78 Stat. 695; Pub. L. 93–584, §1, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 97–164, title I, §128, Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–88, title III, §305(a)(1), (2), Dec. 29, 1995, 109 Stat. 944.)
 
 #### Historical and Revision Notes
 

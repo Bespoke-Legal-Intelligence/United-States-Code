@@ -14,7 +14,7 @@ The individual or entity cooperating with the Secretary under subsection (a) of 
 
 #### (c) Transfer of biological control methods
 
-The Secretary may transfer to a State, Federal agency, or other person biological control methods using biological control organisms against plant pests or noxious weeds.
+The Secretary may transfer to a State, Federal agency, or other person biological controlmethods using biological control organisms against plant pests or noxious weeds.
 
 #### (d) Cooperation in program administration
 

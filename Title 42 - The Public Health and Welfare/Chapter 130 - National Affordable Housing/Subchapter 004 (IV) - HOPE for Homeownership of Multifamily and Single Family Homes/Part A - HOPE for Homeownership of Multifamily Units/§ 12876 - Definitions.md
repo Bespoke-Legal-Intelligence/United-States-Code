@@ -32,7 +32,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) determined by the Secretary to have serious physical or financial problems under the terms of an insurance or loan program administered by the Secretary; or
 
-&emsp;&emsp;(D) owned or held by the Secretary of Agriculture, the Resolution Trust Corporation,the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, or a State or local government or an agency or instrumentality thereof.
+&emsp;&emsp;(D) owned or held by the Secretary of Agriculture, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency, or a State or local government or an agency or instrumentality thereof.
 
 &emsp;(4) The term “homeownership program” means a program for homeownership under this part.
 

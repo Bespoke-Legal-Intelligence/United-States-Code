@@ -8,7 +8,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (1) In general
 
-&emsp;There is hereby created a body corporate to be known as the Student Loan Marketing Association (hereinafter referred to as the “Association”). The Association shall have succession until dissolved. It shall maintain its principal office in the District of Columbia and shall be deemed, for purposes of venue and jurisdiction in civil actions, to be a resident and citizen thereof. Offices may be established by the Association in such other place or places as it may deem necessary or appropriate for the conduct of its business.
+&emsp;There is hereby created a body corporate to be known as the Student Loan Marketing Association (hereinafter referred to as the “Association”). The Association shall have succession until dissolved. It shall maintain its principal office in the District of Columbia and shall be deemed, for purposes of venue and jurisdiction in civil actions, to be a resident and citizen thereof. Offices may be established by the Association in such other place or placesas it may deem necessary or appropriate for the conduct of its business.
 
 #### (2) Exemption from State and local taxes
 
@@ -78,7 +78,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 &emsp;&emsp;&emsp;(iii) not later than 30 days prior to the initial implementation of a program undertaken pursuant to this subparagraph (E), the Association shall advise the Chairman and the Ranking Member on the Committee on Labor and Human Resources of the Senate and the Chairman and the Ranking Member of the Committee on Education and Labor of the House of Representatives in writing of its plans to offer such program and shall provide information relating to the general terms and conditions of such program.
 
-> &emsp;The Association is further authorized to undertake any activity with regard to studentloans which are not insured or guaranteed as provided for in this subsection as it may undertake with regard to insured or guaranteed student loans. Any warehousing advance made on the security of such loans shall be subject to the provisions of paragraph (3) of this subsection to the same extent as a warehousing advance made on the security of insured loans.
+> &emsp;The Association is further authorized to undertake any activity with regard to student loans which are not insured or guaranteed as provided for in this subsection as it may undertake with regard to insured or guaranteed student loans. Any warehousing advance made on the security of such loans shall be subject to the provisions of paragraph (3) of this subsection to the same extent as a warehousing advance made on the security of insured loans.
 
 #### (2) Warehousing advances
 
@@ -152,7 +152,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (5) Authority of Treasury to purchase debt
 
-&emsp;The Secretary of the Treasury is authorized to purchase any obligations issued by the Association pursuant to this subsection as now or hereafter in force, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force are extended toinclude such purchases. The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if such purchase would increase the aggregate principal amount of his then outstanding holdings of such obligations under this subsection to an amount greater than $1,000,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding marketable obligations of the United States of comparable maturities as of the last day of the month preceding the making of such purchase. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.
+&emsp;The Secretary of the Treasury is authorized to purchase any obligations issued by the Association pursuant to this subsection as now or hereafter in force, and for such purpose the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force are extended to include such purchases. The Secretary of the Treasury shall not at any time purchase any obligations under this subsection if such purchase would increase the aggregate principal amount of his then outstanding holdings of such obligations under this subsection to an amount greater than $1,000,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary of the Treasury, taking into consideration the current average rate on outstanding marketable obligations of the United States of comparable maturities as of the last day of the month preceding the making of such purchase. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public debt transactions of the United States.
 
 #### (6) Sale of debt to Federal Financing Bank
 
@@ -186,7 +186,7 @@ The Association shall have power—
 
 &emsp;(8) to appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them, and fix the penalty thereof; and
 
-&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, and to do all things as are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
+&emsp;(9) to enter into contracts, to execute instruments, to incur liabilities, and to do all thingsas are necessary or incidental to the proper management of its affairs and the proper conduct of its business.
 
 #### (j) Accounting, auditing, and reporting
 
@@ -336,7 +336,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association)or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
@@ -388,7 +388,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 &emsp;(A) If the capital ratio is less than 1 percent at the end of the Association's most recent calendar quarter and the Association has already submitted a capital restoration plan to the Secretary of the Treasury pursuant to paragraph (4) or (6)(A), the Association shall forthwith proceed with diligence to implement the most recently proposed plan with such modifications as the Secretary of the Treasury determines are necessary to cause the capital ratio to equal or exceed 2 percent within 60 months.
 
-&emsp;(B) If the capital ratio is less than 1 percent at the end of the Association's most recent calendar quarter and the Association has notsubmitted a capital restoration plan to the Secretary of the Treasury pursuant to paragraph (4) or (6)(A), the Association shall—
+&emsp;(B) If the capital ratio is less than 1 percent at the end of the Association's most recent calendar quarter and the Association has not submitted a capital restoration plan to the Secretary of the Treasury pursuant to paragraph (4) or (6)(A), the Association shall—
 
 &emsp;&emsp;(i) within 14 days of such occurrence submit a capital restoration plan to the Secretary of the Treasury which the Association believes is adequate to cause the capital ratio to equal or exceed 2 percent within 60 months; and
 
@@ -662,7 +662,7 @@ Section 101(e) \[title VI, §602(e), (f)\] of div. A of Pub. L. 104–208 provid
 
 “(e)
 
-Association Names.—Upon dissolution in accordance with section 439(s) of the Higher Education Act of 1965 (20 U.S.C. 1087–2\[(s)\]), the names ‘Student Loan Marketing Association’, ‘Sallie Mae’, and any variations thereof may not be used by any entity engaged in any business similar to the business conducted pursuant to section 439 of such Act (as such section was in effect on the date of enactment of this Act \[Sept. 30, 1996\]) without the approval of the Secretary of the Treasury.
+Association Names.—Upon dissolution in accordance with section 439(s) of the Higher Education Act of1965 (20 U.S.C. 1087–2\[(s)\]), the names ‘Student Loan Marketing Association’, ‘Sallie Mae’, and any variations thereof may not be used by any entity engaged in any business similar to the business conducted pursuant to section 439 of such Act (as such section was in effect on the date of enactment of this Act \[Sept. 30, 1996\]) without the approval of the Secretary of the Treasury.
 
 “(f)
 

@@ -62,7 +62,7 @@ The advisory committee shall present to the Secretary an annual report on its ac
 
 #### (h) Reimbursement for expenses
 
-Nongovernmental members of the advisory committee shall serve without pay, but, to the extent funds are available pursuant to section 1261(d)(1)(B) <sup>1</sup> of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+Nongovernmental members of the advisory committee shall serve without pay, but, to theextent funds are available pursuant to section 1261(d)(1)(B) <sup>1</sup> of this title, shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (i) Report to Congress
 

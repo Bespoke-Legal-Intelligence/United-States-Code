@@ -84,7 +84,7 @@ Subsec. (b)(2)(F). Pub. L. 106–525, §101(b)(1)(A), realigned margins.
 
 Subsec. (b)(2)(G). Pub. L. 106–525, §101(b)(1)(B), added subpar. (G).
 
-1998—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted “National Institute of Dental and Craniofacial Research” for “National Institute of Dental Research”.
+1998—Subsec. (b)(1)(H). Pub. L. 105–277, §101(f) \[title II, §212\], substituted “National Institute of Dental andCraniofacial Research” for “National Institute of Dental Research”.
 
 Subsec. (b)(2)(F). Pub. L. 105–277, §101(f) \[title VI, §601(k)\], added subpar. (F).
 

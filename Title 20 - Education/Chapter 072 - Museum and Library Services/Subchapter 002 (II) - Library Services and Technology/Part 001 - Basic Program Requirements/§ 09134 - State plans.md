@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In order to be eligible to receive a grant under this subchapter, a State library administrative agency shall submit a State plan to the Director not later than April 1, 1997.
+&emsp;In order to be eligible to receive a grant under this subchapter, a State library administrative agency shall submit a State plan to the Director once every 5 years, as determined by the Director.
 
 #### (2) Duration
 
@@ -26,7 +26,7 @@ The State plan shall—
 
 &emsp;(4) describe the methodology that such agency will use to evaluate the success of the activities established under paragraph (2) in achieving the goals and meeting the priorities described in paragraph (1);
 
-&emsp;(5) describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter; and <sup>1</sup>
+&emsp;(5) describe the procedures that such agency will use to involve libraries and library users throughout the State in policy decisions regarding implementation of this subchapter;
 
 &emsp;(6) provide assurances that the State will comply with subsection (f) of this section; and
 
@@ -66,7 +66,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (1) In general
 
-&emsp;No funds made available under this chapter for a library described in section 9122(2)(A) or (B) of this title that does not receive services at discount rates under section 254(h)(6) of title 47, may be used to purchase computers used to access the Internet, or to pay for direct costs associated with accessing the Internet, for such library unless—
+&emsp;No funds made available under this subchapter for a library described in section9122(1)(A) or (B) of this title that does not receive services at discount rates under section 254(h)(6) of title 47 may be used to purchase computers used to access the Internet, or to pay for direct costs associated with accessing the Internet, for such library unless—
 
 &emsp;&emsp;(A) such library—
 
@@ -102,35 +102,35 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (A) In general
 
-&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part of the application process for the next program funding year under this chapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
+&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part of the application process for the next program funding year under this subchapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
 
 #### (B) Process
 
 #### (i) Libraries with Internet safety policies and technology protection measures in place
 
-&emsp;&emsp;&emsp;A library covered by paragraph (1) that has in place an Internet safety policy meeting the requirements of paragraph (1) shall certify its compliance with paragraph (1) during each annual program application cycle under this chapter.
+&emsp;&emsp;&emsp;A library covered by paragraph (1) that has in place an Internet safety policy meeting the requirements of paragraph (1) shall certify its compliance with paragraph (1) during each annual program application cycle under this subchapter.
 
 #### (ii) Libraries without Internet safety policies and technology protection measures in place
 
 &emsp;&emsp;&emsp;A library covered by paragraph (1) that does not have in place an Internet safety policy meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this chapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this chapter, shall certify that such library is in compliance with such requirements.
+&emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
-&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this chapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
+&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this subchapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this chapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 
 #### (A) Use of General Education Provisions Act remedies
 
-&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>2</sup> chapter is failing to comply substantially with the requirements of this subsection, the Director may—
+&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>1</sup> subchapter is failing to comply substantially with the requirements of this subsection, the Director may—
 
-&emsp;&emsp;&emsp;(i) withhold further payments to the recipient under this chapter,
+&emsp;&emsp;&emsp;(i) withhold further payments to the recipient under this subchapter,
 
 &emsp;&emsp;&emsp;(ii) issue a complaint to compel compliance of the recipient through a cease and desist order, or
 
@@ -138,7 +138,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (B) Recovery of funds prohibited
 
-&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available with respect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
+&emsp;&emsp;The actions authorized by subparagraph (A) are the exclusive remedies available withrespect to the failure of a library to comply substantially with a provision of this subsection, and the Director shall not seek a recovery of funds from the recipient for such failure.
 
 #### (C) Recommencement of payments
 
@@ -150,7 +150,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (7) Definitions
 
-&emsp;In this section:
+&emsp;In this subsection:
 
 #### (A) Child pornography
 
@@ -172,23 +172,33 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (D) Obscene
 
-&emsp;&emsp;The term “obscene” has the meaning given such term in section 1460 of title 18.
+&emsp;&emsp;The term “obscene” has the meaning applicable to such term in section 1460 of title 18.
 
 #### (E) Sexual act; sexual contact
 
 &emsp;&emsp;The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
 
-(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340.)
+(Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004.)
 
 #### References in Text
-
-This chapter, referred to in subsec. (f)(1), (4), (5)(A), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.
 
 For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title XVII, §1712(b)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–81, §205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
+
+Subsec. (b)(5). Pub. L. 108–81, §504(f), struck out “and” at end.
+
+Subsec. (f). Pub. L. 108–81, §205(2)(A), substituted “this subchapter” for “this chapter” wherever appearing.
+
+Subsec. (f)(1). Pub. L. 108–81, §205(2)(B), substituted “section 9122(1)(A) or (B)” for “9122(2)(A) or (B)” and made technical amendment to reference in original act which appears in text as reference to section 254(h)(6) of title 47.
+
+Subsec. (f)(7). Pub. L. 108–81, §205(2)(C)(i), substituted “subsection:” for “section:” in introductory provisions.
+
+Subsec. (f)(7)(D). Pub. L. 108–81, §205(2)(C)(ii), substituted “applicable to” for “given”.
 
 2000—Subsec. (b)(6), (7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
 

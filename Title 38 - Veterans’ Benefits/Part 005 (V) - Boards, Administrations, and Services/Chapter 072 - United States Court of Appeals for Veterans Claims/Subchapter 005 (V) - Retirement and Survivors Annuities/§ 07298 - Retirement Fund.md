@@ -30,7 +30,7 @@
 
 (g) For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges’ Retirement Fund.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 625, §4098; renumbered §7298 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §1011(j), Nov. 30, 1999, 113 Stat. 1589.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 625, §4098; renumbered §7298 and amended Pub. L. 102–40, title IV, §402(b)(1),\(d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §1011(j), Nov. 30, 1999, 113 Stat. 1589.)
 
 #### Amendments
 

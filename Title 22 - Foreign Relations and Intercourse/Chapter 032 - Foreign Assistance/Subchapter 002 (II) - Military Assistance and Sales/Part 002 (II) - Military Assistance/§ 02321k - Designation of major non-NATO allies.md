@@ -36,37 +36,21 @@ Pub. L. 107–228, div. B, title XII, §1206, Sept. 30, 2002, 116 Stat. 1428, pr
 
 \[For definitions of “defense article” and “defense service” as used in section 1206 of Pub. L. 107–228, set out above, see section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
 
-#### Designation of Jordan as Major Non-NATO Ally
+#### Presidential Determinations Relating to Designations of Countries as Major Non-NATO Allies
 
-Determination of President of the United States, No. 97–4, Nov. 12, 1996, 61 F.R. 59809, provided:
+The following Presidential Determinations designated the countries listed as major non-NATO allies of the United States for purposes of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) and the Arms Export Control Act (22 U.S.C. 2751 et seq.):
 
-I hereby designate the Hashemite Kingdom of Jordan a major non-NATO ally of the United States pursuant to section 517 of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2321k\], for the purposes of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], and the Arms Export Control Act \[22 U.S.C. 2751 et seq.\].
+Determination No. 97–4, Nov. 12, 1996, 61 F.R. 59809.—Jordan.
 
-You are authorized and directed to publish this determination in the Federal Register.
+Determination No. 98–9, Jan. 6, 1998, 63 F.R. 3635.—Argentina.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Determination No. 2002–10, Mar. 14, 2002, 67 F.R. 13247.—Bahrain.
 
-#### Designation of Argentina as Major Non-NATO Ally
+Determination No. 2004–02, Oct. 6, 2003, 68 F.R. 59855.—Philippines.
 
-Determination of President of the United States, No. 98–9, Jan. 6, 1998, 63 F.R. 3635, provided:
+Determination No. 2004–16, Dec. 30, 2003, 69 F.R. 2053.—Thailand.
 
-I hereby designate the Republic of Argentina a major non-NATO ally of the United States pursuant to section 517 of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2321k\], for the purposes of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], and the Arms Export Control Act \[22 U.S.C. 2751 et seq.\].
-
-You are authorized and directed to publish this determination in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Designation of Bahrain as Major Non-NATO Ally
-
-Determination of President of the United States, No. 2002–10, Mar. 14, 2002, 67 F.R. 13247, provided:
-
-Memorandum for the Secretary of State
-
-Pursuant to the authority vested in me, by section 517 of the Foreign Assistance Act of 1961, as amended (the “Act”) \[22 U.S.C. 2321k\], I hereby designate the Kingdom of Bahrain as a major non-NATO ally of the United States for the purposes of the Act \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[22 U.S.C. 2751\].
-
-You are authorized and directed to publish this determination in the Federal Register.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Determination No. 2004–21, Jan. 15, 2004, 69 F.R. 4843.—Kuwait.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@
 
 1974—Pub. L. 93–289, §11(c), May 24, 1974, 88 Stat. 173, added item 707.
 
-1966—Pub. L. 89–718, §49(a)(3), Nov. 2, 1966, 80 Stat. 1121, substituted “Environmental Science Services Administration for “Coast and Geodetic Survey” in item 706.
+1966—Pub. L. 89–718, §49(a)(3), Nov. 2, 1966, 80 Stat. 1121, substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey” in item 706.
 
 #### Chapter Referred to in Other Sections
 

@@ -40,7 +40,7 @@ Section 1862(b) of the Social Security Act, referred to in subsec. (c), is class
 
 1993—Subsec. (a). Pub. L. 103–66, §13561(e)(2)(A)(i), which directed insertion of “(including a self-employed person)” after “employer”, was executed by making the insertion after “employer” the first time it appeared, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer's employees, former employees, or the families of such employees or former employees.”
+Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer'semployees, former employees, or the families of such employees or former employees.”
 
 Subsec. (b)(2). Pub. L. 103–66, §13561(d)(2), inserted at end “For purposes of the preceding sentence—” and added subpars. (A) to (C).
 

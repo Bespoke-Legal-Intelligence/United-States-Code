@@ -10,7 +10,7 @@ All money paid a State under this section shall be used solely for the purposes 
 
 #### (c) Surety bonds
 
-Any agreement under this subpart may require any officer or employee of the State certifying payments or disbursing funds under the agreement or otherwise participating in the performance of the agreement, to give a suretybond to the United States in such amount as the Secretary may deem necessary, and may provide for the payment of the cost of such bond from funds for carrying out the purposes of this part.
+Any agreement under this subpart may require any officer or employee of the State certifying payments or disbursing funds under the agreement or otherwise participating in the performance of the agreement, to give a surety bond to the United States in such amount as the Secretary may deem necessary, and may provide for the payment of the cost of such bond from funds for carrying out the purposes of this part.
 
 (Pub. L. 93–618, title II, §241, Jan. 3, 1975, 88 Stat. 2025; Pub. L. 97–35, title XXV, §2513(b), Aug. 13, 1981, 95 Stat. 889.)
 

@@ -14,7 +14,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 #### (d) Water rights
 
-Congress reserves for the purposes of this reservation, a quantity of water sufficient to fulfill the purposes of the San Pedro Riparian National Conservation Area created by this subchapter. The priority date of such reserve rights shall be November 18, 1988. The Secretary shall file a claim for the quantification of such rights in an appropriate stream adjudication.
+Congress reserves for the purposes of this reservation, a quantity of water sufficient to fulfillthe purposes of the San Pedro Riparian National Conservation Area created by this subchapter. The priority date of such reserve rights shall be November 18, 1988. The Secretary shall file a claim for the quantification of such rights in an appropriate stream adjudication.
 
 #### (e) Enforcement
 

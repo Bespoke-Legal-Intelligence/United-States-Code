@@ -4,7 +4,7 @@
 
 If the Secretary of State determines that—
 
-&emsp;(1) he has been unable, within a reasonable period of time, to conclude with any foreign nation an international fishery agreement allowing fishing vessels of the United States equitable access to fisheries over which that nation asserts exclusive fishery managementauthority, including fisheries for tuna species, as recognized by the United States, in accordance with fishing activities of such vessels, if any, and under terms not more restrictive than those established under sections 1821(c) and (d) and 1824(b)(7) and (10) of this title, because such nation has (A) refused to commence negotiations, or (B) failed to negotiate in good faith;
+&emsp;(1) he has been unable, within a reasonable period of time, to conclude with any foreign nation an international fishery agreement allowing fishing vessels of the United States equitable access to fisheries over which that nation asserts exclusive fishery management authority, including fisheries for tuna species, as recognized by the United States, in accordance with fishing activities of such vessels, if any, and under terms not more restrictive than those established under sections 1821(c) and (d) and 1824(b)(7) and (10) of this title, because such nation has (A) refused to commence negotiations, or (B) failed to negotiate in good faith;
 
 &emsp;(2) any foreign nation is not allowing fishing vessels of the United States to engage in fishing for tuna species in accordance with an applicable international fishery agreement, whether or not such nation is a party thereto;
 

@@ -8,7 +8,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(3) “antitrust laws” includes the Act of July 2, 1890, as amended \[15 U.S.C. 1 et seq.\], the Act of October 15, 1914, as amended \[15 U.S.C. 12 et seq.\], and sections 73 and 74 of the Act of August 27, 1894, as amended \[15 U.S.C. 8 and 9\];
 
-&emsp;(4) “application” means any application submitted under this chapter (A) for issuance of a license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship; (B) for transfer or renewal of any such license; or (C) for any substantial change in any of the conditions and provisions of any such license;
+&emsp;(4) “application” means any application submitted under this chapter (A) for issuance of alicense for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship; (B) for transfer or renewal of any such license; or (C) for any substantial change in any of the conditions and provisions of any such license;
 
 &emsp;(5) “coastal State” means a State in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes;
 
@@ -24,7 +24,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(11) “ocean thermal energy conversion facility” means any facility which is standing, fixed or moored in whole or in part seaward of the highwater mark and which is designed to use temperature differences in ocean water to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such facility to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any cable or pipeline used to deliver such electricity, fresh water, or product to shore, and all other associated equipment and appurtenances of such facility, to the extent they are located seaward of the highwater mark;
 
-&emsp;(12) “ocean thermal energy conversion plantship” means any vessel which is designed to use temperature differences in ocean water while floating unmoored or moving through such water, to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such vessel to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and anyequipment used to transfer such product to other vessels for transportation to users, and all other associated equipment and appurtenances of such vessel;
+&emsp;(12) “ocean thermal energy conversion plantship” means any vessel which is designed to use temperature differences in ocean water while floating unmoored or moving through such water, to produce electricity or another form of energy capable of being used directly to perform work, and includes any equipment installed on such vessel to use such electricity or other form of energy to produce, process, refine, or manufacture a product, and any equipment used to transfer such product to other vessels for transportation to users, and all other associated equipment and appurtenances of such vessel;
 
 &emsp;(13) “plantship” means an ocean thermal energy conversion plantship;
 
@@ -44,7 +44,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 Act of July 2, 1890, as amended, referred to in par. (3), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-Act of October 15, 1914, as amended, referred to in par. (3), is act Oct. 15, 1914, ch. 323, 78 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+Act of October 15, 1914, as amended, referred to in par. (3), is act Oct. 15, 1914, ch. 323, 78 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 Sections 73 and 74 of the Act of August 27, 1894, as amended, referred to in par. (3), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 77 of such Act are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
 

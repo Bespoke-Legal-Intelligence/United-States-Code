@@ -12,7 +12,7 @@ Congress finds the following:
 
 &emsp;(5) In 1893, the sovereign, independent, internationally recognized, and indigenous government of Hawaii, the Kingdom of Hawaii, was overthrown by a small group of non-Hawaiians, including United States citizens, who were assisted in their efforts by the United States Minister, a United States naval representative, and armed naval forces of the United States. Because of the participation of United States agents and citizens in the overthrow of the Kingdom of Hawaii, in 1993 the United States apologized to Native Hawaiians for the overthrow and the deprivation of the rights of Native Hawaiians to self-determination through Public Law 103–150 (107 Stat. 1510).
 
-&emsp;(6) In 1898, the joint resolution entitled “Joint Resolution to provide for annexing the Hawaiian Islands to the United States”, approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic ofHawaii, including the government and crown lands of the former Kingdom of Hawaii, to the United States, but mandated that revenue generated from the lands be used “solely for the benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes”.
+&emsp;(6) In 1898, the joint resolution entitled “Joint Resolution to provide for annexing the Hawaiian Islands to the United States”, approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic of Hawaii, including the government and crown lands of the former Kingdom of Hawaii, to the United States, but mandated that revenue generated from the lands be used “solely for the benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes”.
 
 &emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778 to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
 
@@ -28,7 +28,7 @@ Congress finds the following:
 
 &emsp;&emsp;(A) Native Hawaiians have a cultural, historic, and land-based link to the indigenous people who exercised sovereignty over the Hawaiian Islands, and that group has never relinquished its claims to sovereignty or its sovereign lands;
 
-&emsp;&emsp;(B) Congress does not extend services to Native Hawaiians because of their race, but because of their unique status as the indigenous people of a once sovereign nation as to whom the United States has established a trust relationship;
+&emsp;&emsp;(B) Congress does not extend services to Native Hawaiians because of their race, butbecause of their unique status as the indigenous people of a once sovereign nation as to whom the United States has established a trust relationship;
 
 &emsp;&emsp;(C) Congress has also delegated broad authority to administer a portion of the Federal trust responsibility to the State of Hawaii;
 
@@ -64,7 +64,7 @@ Congress finds the following:
 
 &emsp;(15) In recognition of the educational needs of Native Hawaiians, in 1988, Congress enacted title IV of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988 (102 Stat. 130) to authorize and develop supplemental educational programs to address the unique conditions of Native Hawaiians.
 
-&emsp;(16) In 1993, the Kamehameha Schools Bishop Estate released a 10-year update of findings of the Native Hawaiian Educational Assessment Project, which found that despite the successes of the programs established under titleIV of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, many of the same educational needs still existed for Native Hawaiians. Subsequent reports by the Kamehameha Schools Bishop Estate and other organizations have generally confirmed those findings. For example—
+&emsp;(16) In 1993, the Kamehameha Schools Bishop Estate released a 10-year update of findings of the Native Hawaiian Educational Assessment Project, which found that despite the successes of the programs established under title IV of the Augustus F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988, many of the same educational needs still existed for Native Hawaiians. Subsequent reports by the Kamehameha Schools Bishop Estate and other organizations have generally confirmed those findings. For example—
 
 &emsp;&emsp;(A) educational risk factors continue to start even before birth for many Native Hawaiian children, including—
 
@@ -122,7 +122,7 @@ The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), and (11)
 
 Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52 Stat. 781, as amended, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, popularly known as the Hawaii Statehood AdmissionsAct, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, as amended, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 

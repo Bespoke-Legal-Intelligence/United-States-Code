@@ -42,7 +42,7 @@
 
 #### (B) Effect of subsequent State law
 
-&emsp;&emsp;The enactment by any State of a law of the type described in subparagraph (A) shall not affect the validity of any contractual commitment to purchase, hold, or invest that was made prior to the effective date of the law and shall not require the sale or other disposition of any securities acquired prior to the effective date of the law.
+&emsp;&emsp;The enactment by any State of a law of the type described in subparagraph (A) shallnot affect the validity of any contractual commitment to purchase, hold, or invest that was made prior to the effective date of the law and shall not require the sale or other disposition of any securities acquired prior to the effective date of the law.
 
 #### (d) State usury laws superseded
 

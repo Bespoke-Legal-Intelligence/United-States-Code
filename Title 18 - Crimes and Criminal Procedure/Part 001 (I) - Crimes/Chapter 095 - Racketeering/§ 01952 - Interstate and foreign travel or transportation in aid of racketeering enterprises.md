@@ -18,7 +18,7 @@
 
 (c) Investigations of violations under this section involving liquor shall be conducted under the supervision of the Attorney General.
 
-(Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct.27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, §1112(h), Nov. 25, 2002, 116 Stat. 2277.)
+(Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, §1112(h), Nov. 25, 2002, 116 Stat. 2277.)
 
 #### References in Text
 

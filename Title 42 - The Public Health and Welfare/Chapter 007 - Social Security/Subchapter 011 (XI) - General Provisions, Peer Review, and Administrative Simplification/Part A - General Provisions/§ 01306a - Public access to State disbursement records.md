@@ -12,7 +12,7 @@ Section 1383(a)(3), referred to in text, was in the original a reference to sect
 
 #### Codification
 
-Section was enacted as part of act Oct. 20, 1951, popularly known as the Revenue Act of 1951, and not as part of the Social Security Act which comprises this chapter.
+Section was enacted as part of act Oct. 20, 1951, popularly known as the Revenue Act of 1951, and not as partof the Social Security Act which comprises this chapter.
 
 #### Amendments
 

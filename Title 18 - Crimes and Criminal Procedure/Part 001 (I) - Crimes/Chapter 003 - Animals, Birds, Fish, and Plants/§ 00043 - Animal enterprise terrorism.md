@@ -20,7 +20,7 @@ Economic damage.—Any person who, in the course of a violation of subsection (a
 
 &emsp;(2)
 
-Major economic damage.—Any person who, in the course of a violation of subsection\(a), causes economic damage exceeding $10,000 to an animal enterprise shall be fined under this title or imprisoned not more than 3 years, or both.
+Major economic damage.—Any person who, in the course of a violation of subsection (a), causes economic damage exceeding $10,000 to an animal enterprise shall be fined under this title or imprisoned not more than 3 years, or both.
 
 &emsp;(3)
 
@@ -70,9 +70,9 @@ A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pu
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisons substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
+2002—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
-Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalites for property damage, personal injury and death for reference to serious bodily injury and death in text.
+Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
 
 Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
@@ -80,7 +80,7 @@ Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
 #### Short Title
 
-Section 1 of Pub. L. 102–346 provided that: “This Act \[enacting this section and provisions set out below\] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
+Section 1 of Pub. L. 102–346 provided that: “This Act \[enacting this section and provisions set out below\]may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises
 

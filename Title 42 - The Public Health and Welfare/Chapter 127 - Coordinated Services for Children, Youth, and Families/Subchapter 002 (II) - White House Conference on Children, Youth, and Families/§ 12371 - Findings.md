@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) an increasing opportunity for children and youth to participate in the decisions that affect their lives is essential;
 
-&emsp;(4) the family is the primary caregiver and the source of social learning which must be supported and strengthened, but when families are unable to ensure the satisfaction of the needs of children and youth, it is society's responsibility to assist them;
+&emsp;(4) the family is the primary caregiver and the source of social learning which must be supported and strengthened, but when familiesare unable to ensure the satisfaction of the needs of children and youth, it is society's responsibility to assist them;
 
 &emsp;(5) at a minimum, all children and youth need and deserve access to—
 

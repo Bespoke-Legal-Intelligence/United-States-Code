@@ -46,7 +46,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;&emsp;(i) implementing and coordinating science, research, modeling, support services, monitoring, data collection, and other activities that support the Chesapeake Bay Program;
 
-&emsp;&emsp;&emsp;(ii) developing and making available, through publications, technical assistance,and other appropriate means, information pertaining to the environmental quality and living resources of the Chesapeake Bay ecosystem;
+&emsp;&emsp;&emsp;(ii) developing and making available, through publications, technical assistance, and other appropriate means, information pertaining to the environmental quality and living resources of the Chesapeake Bay ecosystem;
 
 &emsp;&emsp;&emsp;(iii) in cooperation with appropriate Federal, State, and local authorities, assisting the signatories to the Chesapeake Bay Agreement in developing and implementing specific action plans to carry out the responsibilities of the signatories to the Chesapeake Bay Agreement;
 
@@ -214,7 +214,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 &emsp;The study shall—
 
-&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses, benthos, phytoplankton, zooplankton, fish, and shellfish;
+&emsp;&emsp;(A) determine the current status and trends of living resources, including grasses,benthos, phytoplankton, zooplankton, fish, and shellfish;
 
 &emsp;&emsp;(B) establish to the extent practicable the rates of recovery of the living resources in response to improved water quality condition;
 

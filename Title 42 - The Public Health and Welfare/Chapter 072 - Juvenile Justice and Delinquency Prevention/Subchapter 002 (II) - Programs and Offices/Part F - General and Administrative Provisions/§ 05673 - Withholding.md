@@ -8,7 +8,7 @@ Whenever the Administrator, after giving reasonable notice and opportunity for h
 
 > the Administrator shall initiate such proceedings as are appropriate.
 
-(Pub. L. 93–415, title II, §299B, formerly §293, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18,1988, 102 Stat. 4449; renumbered §299B, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
+(Pub. L. 93–415, title II, §299B, formerly §293, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered §299B, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
 
 #### Effective Date
 

@@ -10,7 +10,7 @@
 
 #### (3) Self-employed individuals
 
-&emsp;For purposes of this subsection, the term “employee” includes an individual who is anemployee within the meaning of section 401(c)(1), and the employer of such individual is the person treated as his employer under section 401(c)(4).
+&emsp;For purposes of this subsection, the term “employee” includes an individual who is an employee within the meaning of section 401(c)(1), and the employer of such individual is the person treated as his employer under section 401(c)(4).
 
 #### (4) Rollover amounts
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) all employees of the organization may elect to have the employer make contributions of more than $200 pursuant to a salary reduction agreement if any employee of the organization may elect to have the organization make contributions for such contracts pursuant to such agreement.
 
-> &emsp;&emsp;For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or a qualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week.
+> &emsp;&emsp;For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or aqualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week.
 
 #### (B) Church
 
@@ -254,7 +254,7 @@ Subsec. (b)(12)(A). Pub. L. 100–647, §1011(m)(2), inserted “(17),” after 
 
 Pub. L. 100–647, §1011(c)(12), inserted after cl. (ii) “For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement specified in regulations.”
 
-Pub. L. 100–647, §6052(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “For purposes of this subparagraph, students who normally work less than 20 hours per week may\(subject to the conditions applicable under section 410(b)(4)) be excluded.”
+Pub. L. 100–647, §6052(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “For purposes of this subparagraph, students who normally work less than 20 hours per week may (subject to the conditions applicable under section 410(b)(4)) be excluded.”
 
 1986—Subsec. (a)(1). Pub. L. 99–514, §1122(d)(1), substituted “Distributee taxable under section 72” for “General rule” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraph (2), if an annuity contract is purchased by an employer for an employee under a plan which meets the requirements of section 404(a)(2) (whether or not the employer deducts the amounts paid for the contract under such section), the employee shall include in his gross income the amounts received under such contract for the year received as provided in section 72 (relating to annuities).”
 
@@ -414,7 +414,7 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 6005 of Pub. L. 105–206 applicable to distributions after Dec. 31, 1998, see section 6005(c)(2)(C) of Pub. L. 105–206, set out as a note under section 402 of this title.
+Amendment by section 6005 of Pub. L. 105–206 applicable to distributions after Dec. 31, 1998, see section6005(c)(2)(C) of Pub. L. 105–206, set out as a note under section 402 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -574,7 +574,7 @@ Section 3(b) of Pub. L. 87–370 provided that: “The amendments made by subsec
 
 #### Effective Dates of 1958 Amendment
 
-Section 23(g) of Pub. L. 85–866 provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 101 of this title\] shall apply with respect to taxable years beginning after December 31, 1957. The amendments made by subsection (e) \[amending section 2039 of this title\] shall apply with respect to estates of decedents dying afterDecember 31, 1957. The amendments made by subsection (f) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1957.”
+Section 23(g) of Pub. L. 85–866 provided that: “The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 101 of this title\] shall apply with respect to taxable years beginning after December 31, 1957. The amendments made by subsection (e) \[amending section 2039 of this title\] shall apply with respect to estates of decedents dying after December 31, 1957. The amendments made by subsection (f) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1957.”
 
 #### Regulations
 

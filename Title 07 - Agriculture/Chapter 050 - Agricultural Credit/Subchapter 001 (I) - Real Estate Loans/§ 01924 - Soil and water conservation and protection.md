@@ -14,7 +14,7 @@ Loans may also be made or insured under this subchapter for soil and water conse
 
 &emsp;(5) the payment of costs of complying with section 3812 of title 16; and
 
-&emsp;(6) other purposes consistent with plans for soil and water conservation, integrated farm management, water quality protection and enhancement, and wildlife habitat improvement.
+&emsp;(6) other purposes consistent with plans for soil and water conservation, integrated farmmanagement, water quality protection and enhancement, and wildlife habitat improvement.
 
 #### (b) Priority
 

@@ -24,7 +24,7 @@ The President may authorize the Department of Defense, with the assistance of th
 
 &emsp;(1) the development of defense plans;
 
-&emsp;(2) the training of personnel in the employment of and defense against atomic weapons and other military applications of atomic energy;
+&emsp;(2) the training of personnel in the employment of and defense against atomic weaponsand other military applications of atomic energy;
 
 &emsp;(3) the evaluation of the capabilities of potential enemies in the employment of atomic weapons and other military applications of atomic energy; and
 
@@ -88,15 +88,11 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Delegation of Functions
 
-Authority vested in President by subsecs. (b) and (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(2) and (3) of Ex. Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
+Authority vested in President by subsecs. (b) and (c) of this section delegated to Secretary of Defense and Secretary of Energy, see section 2(a)(2) and (3) of Ex.Ord. No. 10841, as amended, set out as a note under section 2153 of this title.
 
 #### Prohibition on Inspections
 
-Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, provided that:
-
-“(1) The Secretary of Energy may not allow an inspection of a nuclear weapons facility by the International Atomic Energy Agency until the Secretary certifies to Congress that no restricted data will be revealed during such inspection.
-
-“(2) For purposes of paragraph (1), the term ‘restricted data’ has the meaning provided by section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).”
+Pub. L. 104–106, div. C, title XXXI, §3154(a), Feb. 10, 1996, 110 Stat. 624, which was formerly set out as a note under this section, was renumbered section 4501(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, and is classified to section 2651(a) of Title 50, War and National Defense.
 
 #### Section Referred to in Other Sections
 

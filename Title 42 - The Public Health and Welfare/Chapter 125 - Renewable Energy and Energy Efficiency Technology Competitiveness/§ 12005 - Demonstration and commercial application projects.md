@@ -64,7 +64,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;(B) A solicitation for proposals under this paragraph shall establish a closing date for receipt of proposals. The Secretary may, if necessary, extend the closing date for receipt of proposals for a period not to exceed 90 days.
 
-&emsp;(C) Each solicitation under this paragraph shall include a description of the criteria, developed by the Secretary, according to which proposals will be evaluated. In developing such criteria, the Secretary shall consider—
+&emsp;(C) Each solicitation under this paragraph shall include a description of the criteria, developed by the Secretary, according to whichproposals will be evaluated. In developing such criteria, the Secretary shall consider—
 
 &emsp;&emsp;(i) the need for Federal involvement to commercialize the technology or speed commercialization of the technology;
 

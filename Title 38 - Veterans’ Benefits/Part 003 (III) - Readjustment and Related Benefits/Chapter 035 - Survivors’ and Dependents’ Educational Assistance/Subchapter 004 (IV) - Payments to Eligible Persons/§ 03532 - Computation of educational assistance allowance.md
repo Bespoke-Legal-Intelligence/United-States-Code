@@ -1,10 +1,14 @@
 ### §3532. Computation of educational assistance allowance
 
-(a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $670 for full-time, $503 for three-quarter-time, or $335 for half-time pursuit.
+(a)(1) The educational assistance allowance on behalf of an eligible person who is pursuing a program of education consisting of institutional courses shall be paid at the monthly rate of $788for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.
 
-(2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $670 per month for a full-time course, whichever is the lesser.
+(2) The educational assistance allowance on behalf of an eligible person pursuing a program of education on less than a half-time basis shall be paid at the rate of the lesser of—
 
-(b) The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $670 per month.
+&emsp;(A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay; or
+
+&emsp;(B) $788 per month for a full-time course.
+
+(b) The educational assistance allowance to be paid on behalf of an eligible person who is pursuing a full-time program of education which consists of institutional courses and alternate phases of training in a business or industrial establishment with the training in the business or industrial establishment being strictly supplemental to the institutional portion, shall be computed at the rate of $788 per month.
 
 (c)(1) An eligible person who is enrolled in an educational institution for a “farm cooperative” program consisting of institutional agricultural courses prescheduled to fall within forty-four weeks of any period of twelve consecutive months and who pursues such program on—
 
@@ -16,7 +20,7 @@
 
 > shall be eligible to receive an educational assistance allowance at the appropriate rate provided in paragraph (2) of this subsection, if such eligible person is concurrently engaged in agricultural employment which is relevant to such institutional agricultural courses as determined under standards prescribed by the Secretary. In computing the foregoing clock hour requirements there shall be included the time involved in field trips and individual and group instruction sponsored and conducted by the educational institution through a duly authorized instructor of such institution in which the person is enrolled.
 
-(2) The monthly educational assistance allowance to be paid on behalf of an eligible person pursuing a farm cooperative program under this chapter shall be $541 for full-time, $406 for three-quarter-time, and $271 for half-time pursuit.
+(2) The monthly educational assistance allowance to be paid on behalf of an eligible person pursuing a farm cooperative program under this chapter shall be $636 for full-time, $477 for three-quarter-time, or $319 for half-time pursuit.
 
 (d) If a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person under this section shall be paid at the rate of $0.50 for each dollar.
 
@@ -28,9 +32,17 @@
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, §1732; Pub. L. 89–222, §1, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(a), (b), title II, §210, Mar. 25, 1970, 84 Stat. 77, 78, 83; Pub. L. 92–540, title I, §103(1)–(3), Oct. 24, 1972, 86 Stat. 1075, 1076; Pub. L. 93–508, title I, §103(1)–(3), title II, §208, Dec. 3, 1974, 88 Stat. 1580, 1584; Pub. L. 93–602, title II, §204(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §§301(1), 308, Oct. 15, 1976, 90 Stat. 2389, 2390; Pub. L. 95–202, title I, §103(1), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§202(1), 212(1), title III, §330, title VI, §602(b), Oct. 17, 1980, 94 Stat. 2188, 2190, 2198, 2209; Pub. L. 98–543, title II, §203(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(1)–(7), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2078, 2079, 2092; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3532 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(b), Oct. 29, 1992, 106 Stat. 4334; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 104–275, title I, §105(c), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–178, title VIII, §8210(a), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §§111(a), 122(b)(4), Nov. 1, 2000, 114 Stat. 1830, 1834; Pub. L. 107–103, title I, §102(a), Dec. 27, 2001, 115 Stat. 978.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, §1732; Pub. L. 89–222, §1, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(a), (b), title II, §210, Mar. 25, 1970, 84 Stat. 77, 78, 83; Pub. L. 92–540, title I, §103(1)–(3), Oct. 24, 1972, 86 Stat. 1075, 1076; Pub. L. 93–508, title I, §103(1)–(3), title II, §208, Dec. 3, 1974, 88 Stat. 1580, 1584; Pub. L. 93–602, title II, §204(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §§301(1), 308, Oct. 15, 1976, 90 Stat. 2389, 2390; Pub. L. 95–202, title I, §103(1), Nov. 23, 1977, 91 Stat. 1434; Pub. L. 96–466, title II, §§202(1), 212(1), title III, §330, title VI, §602(b), Oct. 17, 1980, 94 Stat. 2188, 2190, 2198, 2209; Pub. L. 98–543, title II, §203(1), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(1)–(7), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2078, 2079, 2092; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3532 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §316(b), Oct. 29, 1992, 106 Stat. 4334; Pub. L. 103–446, title V, §507(b), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 104–275, title I, §105(c), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–178, title VIII, §8210(a), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §§111(a), 122(b)(4), Nov. 1, 2000, 114 Stat. 1830, 1834; Pub. L. 107–103, title I, §102(a), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(a), Dec. 16, 2003, 117 Stat. 2658.)
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–183, §302(a)(1)(A), substituted “at the monthly rate of $788 for full-time, $592 for three-quarter-time, or $394 for half-time pursuit.” for “at the monthly rate of $670 for full-time, $503 for three-quarter-time, or $335 for half-time pursuit.”
+
+Subsec. (a)(2). Pub. L. 108–183, §302(a)(1)(B), substituted “at the rate of the lesser of—” and subpars. (A) and (B) for “at the rate of (A) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (B) $670 per month for a full-time course, whichever is the lesser.”
+
+Subsec. (b). Pub. L. 108–183, §302(a)(2), substituted “$788” for “$670”.
+
+Subsec. (c)(2). Pub. L. 108–183, §302(a)(3), substituted “shall be $636 for full-time, $477 for three-quarter-time, or $319 for half-time pursuit.” for “shall be $541 for full-time, $406 for three-quarter-time, and $271 for half-time pursuit.”
 
 2001—Subsec. (a)(1). Pub. L. 107–103, §102(a)(1), substituted “$670” for “$588”, “$503” for “$441”, and “$335” for “$294”.
 
@@ -129,6 +141,10 @@ Subsec. (c). Pub. L. 91–219, §210, substituted provision that if a program of
 1965—Subsec. (a). Pub. L. 89–222, §1(a), substituted “$130”, “$95”, and “$60” for “$110”, “$80”, and “$50”, respectively.
 
 Subsec. (b). Pub. L. 89–222, §1(b), substituted “$105” for “$90”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–183, title III, §302(e), Dec. 16, 2003, 117 Stat. 2659, provided that: “The amendments made bythis section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on July 1, 2004, and shall apply with respect to educational assistance allowances payable under chapter 35 and section 3687(b)(2) of title 38, United States Code, for months beginning on or after that date.”
 
 #### Effective Date of 2001 Amendment
 

@@ -202,7 +202,7 @@ Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 102(d)(1) of Pub. L. 98–369 applicable to positions established after July 18, 1984, intaxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369 set out as a note under section 1256 of this title.
+Amendment by section 102(d)(1) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date, except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369 set out as a note under section 1256 of this title.
 
 Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 

@@ -20,5 +20,5 @@ A prior section 50a, Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 S
 
 #### Change of Name
 
-“United States Geological Survey” substituted for “Geological Survey” in first paragraph pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+“United States Geological Survey” substituted for “Geological Survey” in first paragraph pursuant toprovision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
 

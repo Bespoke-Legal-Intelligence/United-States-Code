@@ -52,8 +52,6 @@ Section 306 of the Act of July 30, 1947, referred to in subsec. (c)(6), is secti
 
 #### Codification
 
-Subsec. (c)(6) is set out in this supplement to change translation appearing in main edition.
-
 In subsec. (c)(6), “chapter 91 of title 31” and “such chapter” substituted for “title I of the Government Corporation Control Act \[31 U.S.C. 846 et seq.\]” and “such title”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments

@@ -8,7 +8,7 @@ Offense.—Whoever provides material support or resources or conceals or disguis
 
 Definition.—In this section, the term “material support or resources” means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.
 
-(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132,title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811.)
+(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811.)
 
 #### Amendments
 

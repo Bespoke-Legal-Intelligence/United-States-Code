@@ -144,7 +144,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 #### (C) Criteria for review
 
-&emsp;&emsp;Prior to each fiscal year, the National Board shall publish objective criteria to be used by the Board in reviewing applications under subparagraph (B).
+&emsp;&emsp;Prior to each fiscal year, the National Board shall publish objective criteria to beused by the Board in reviewing applications under subparagraph (B).
 
 #### (3) Limitation on use of funds
 

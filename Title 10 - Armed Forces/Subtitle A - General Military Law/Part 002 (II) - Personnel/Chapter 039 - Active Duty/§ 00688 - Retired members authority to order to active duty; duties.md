@@ -70,5 +70,5 @@ Section 521(b) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 689, 690, 12307 of this title; title 37 sections 302f, 403; title 38 sections 3013, 3231, 3511, 4312; title 50 App. section 592.
+This section is referred to in sections 101, 688a, 689, 690, 12307 of this title; title 37 sections 302f, 403; title 38 sections 3013, 3103, 3105, 3231, 3511, 3512, 4312; title 50 App. section 593.
 

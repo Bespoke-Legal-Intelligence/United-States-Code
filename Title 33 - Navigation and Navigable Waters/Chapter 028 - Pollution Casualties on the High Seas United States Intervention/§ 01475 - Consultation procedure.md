@@ -2,7 +2,7 @@
 
 Before taking any measure under section 1474 of this title, the Secretary shall—
 
-&emsp;(1) consult, through the Secretary of State, with other countries affected by the marinecasualty, and particularly with the flag country of any ship involved;
+&emsp;(1) consult, through the Secretary of State, with other countries affected by the marine casualty, and particularly with the flag country of any ship involved;
 
 &emsp;(2) notify without delay the Administrator of the Environmental Protection Agency and any other persons known to the Secretary, or of whom he later becomes aware, who have interests which can reasonably be expected to be affected by any proposed measures; and
 

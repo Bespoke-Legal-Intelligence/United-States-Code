@@ -6,7 +6,7 @@ The purpose of this chapter is to authorize the Secretary to establish an urban 
 
 #### Amendments
 
-1994—Pub. L. 103–322 struck out “for a period of five years” after “development of improved recreation programs” and “short-term” before “program is intended to complement” and inserted at end “It is further the purpose of this chapter to improve recreation facilities and expand recreation services in urban areas with a high incidence of crime and to help deter crimethrough the expansion of recreation opportunities for at-risk youth. It is the further purpose of this section to increase the security of urban parks and to promote collaboration between local agencies involved in parks and recreation, law enforcement, youth social services, and juvenile justice system.”
+1994—Pub. L. 103–322 struck out “for a period of five years” after “development of improved recreation programs” and “short-term” before “program is intended to complement” and inserted at end “It is further the purpose of this chapter to improve recreation facilities and expand recreation services in urban areas with a high incidence of crime and to help deter crime through the expansion of recreation opportunities for at-risk youth. It is the further purpose of this section to increase the security of urban parks and to promote collaboration between local agencies involved in parks and recreation, law enforcement, youth social services, and juvenile justice system.”
 
 #### “Secretary” Defined
 

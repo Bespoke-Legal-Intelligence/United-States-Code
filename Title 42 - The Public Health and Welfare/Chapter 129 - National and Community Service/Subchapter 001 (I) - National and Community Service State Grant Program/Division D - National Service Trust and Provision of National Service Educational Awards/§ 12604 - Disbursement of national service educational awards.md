@@ -128,7 +128,7 @@ Notwithstanding section 12511 of this title, for purposes of this section the te
 
 The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A) and (c)(2)(C)(ii), (6)(B)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Part A of title IV of the Act is classified generally to part A (§1070 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(7)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Titles VII and VIII of the Act are classified generally to subchapters V (§292 et seq.) and VI (§296 et seq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (b)(7)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Titles VII and VIII of the Act are classified generally to subchapters V (§292 et seq.) and VI (§296 etseq.), respectively, of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Prior Provisions
 
@@ -144,5 +144,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12601 of this title.
+This section is referred to in sections 12601, 12605 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(7)”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The Secretary shall permit the producers on a farm to repay a marketing assistance loan under section 7931 of this title for a loan commodity (other than upland cotton, rice, and extra long staple cotton) at a rate that is the lesser of—
+The Secretary shall permit the producers on a farm to repay a marketing assistance loan under section 7931 of this title for a loan commodity (other than upland cotton, rice, extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)) at a rate that is the lesser of—
 
 &emsp;(1) the loan rate established for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title); or
 
@@ -42,7 +42,7 @@ For purposes of this section and section 7937 of this title, the Secretary shall
 
 #### (1) In general
 
-&emsp;During the period beginning on May 13, 2002, through July 31, 2008, the prevailing world market price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
+&emsp;During the period beginning on May 13, 2002, through July 31, 2008, the prevailing worldmarket price for upland cotton (adjusted to United States quality and location) established under subsection (d) of this section shall be further adjusted if—
 
 &emsp;&emsp;(A) the adjusted prevailing world market price is less than 115 percent of the loan rate for upland cotton established under section 7932 of this title, as determined by the Secretary; and
 
@@ -66,11 +66,33 @@ For purposes of this section and section 7937 of this title, the Secretary shall
 
 &emsp;&emsp;(B) the Northern Europe price.
 
-#### (f) Good faith exception to beneficial interest requirement
+#### (f) Repayment rates for confectionery and other kinds of sunflower seeds
+
+The Secretary shall permit the producers on a farm to repay a marketing assistance loan under section 7931 of this title for confectionery and each other kind of sunflower seed (other than oil sunflower seed) at a rate that is the lesser of—
+
+&emsp;(1) the loan rate established for the commodity under section 7932 of this title, plus interest (determined in accordance with section 7283 of this title); or
+
+&emsp;(2) the repayment rate established for oil sunflower seed.
+
+#### (g) Quality grades for dry peas, lentils, and small chickpeas
+
+The loan repayment rate for dry peas, lentils, and small chickpeas shall be based on the quality grades for the applicable commodity specified in section 7932(d) of this title.
+
+#### (h) Good faith exception to beneficial interest requirement
 
 For the 2001 crop year only, in the case of the producers on a farm that marketed or otherwise lost beneficial interest in a loan commodity for which a marketing assistance loan was made under section 7231 of this title before repaying the loan, the Secretary shall permit the producers to repay the loan at the appropriate repayment rate that was in effect for the loan commodity under section 7234 of this title on the date that the producers lost beneficial interest, as determined by the Secretary, if the Secretary determines the producers acted in good faith.
 
-(Pub. L. 107–171, title I, §1204, May 13, 2002, 116 Stat. 156.)
+(Pub. L. 107–171, title I, §1204, May 13, 2002, 116 Stat. 156; Pub. L. 108–7, div. A, title VII, §763(c), Feb. 20, 2003, 117 Stat. 47.)
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–7, §763(c)(1), substituted “extra long staple cotton, and confectionery and each other kind of sunflower seed (other than oil sunflower seed)” for “and extra long staple cotton”.
+
+Subsecs. (f) to (h). Pub. L. 108–7, §763(c)(2), (3), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–7 applicable beginning with the 2003 crop of other oilseeds, dry peas, lentils, and small chickpeas, see section 763(d) of Pub. L. 108–7, set out as a note under section 7901 of this title.
 
 #### Section Referred to in Other Sections
 

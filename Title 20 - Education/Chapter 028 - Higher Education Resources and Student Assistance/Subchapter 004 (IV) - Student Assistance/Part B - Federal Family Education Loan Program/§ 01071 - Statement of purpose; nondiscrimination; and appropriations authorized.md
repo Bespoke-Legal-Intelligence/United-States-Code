@@ -38,7 +38,7 @@ For the purpose of carrying out this part—
 
 The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 
-(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8,July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673.)
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 &emsp;“(1) as otherwise provided in such part B;
 
-&emsp;“(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on orafter July 1, 1987; or (B) are disbursed on or after July 1, 1987;
+&emsp;“(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
 
 &emsp;“(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C. 1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 

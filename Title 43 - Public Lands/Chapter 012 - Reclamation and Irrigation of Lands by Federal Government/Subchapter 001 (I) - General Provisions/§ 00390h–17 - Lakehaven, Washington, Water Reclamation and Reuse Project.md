@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary, in cooperation with the Lakehaven Utility District, Washington, is authorized to participate in the design, planning,and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of the service area of the Lakehaven Utility District.
+The Secretary, in cooperation with the Lakehaven Utility District, Washington, is authorized to participate in the design, planning, and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of the service area of the Lakehaven Utility District.
 
 #### (b) Cost share
 

@@ -6,7 +6,7 @@ Upon completion of all transfers from the Immigration and Naturalization Service
 
 #### (b) Prohibition
 
-The authority provided by section 542 of this title may be used to reorganize functions or organizational units within the Bureau of BorderSecurity or the Bureau of Citizenship and Immigration Services, but may not be used to recombine the two bureaus into a single agency or otherwise to combine, join, or consolidate functions or organizational units of the two bureaus with each other.
+The authority provided by section 542 of this title may be used to reorganize functions or organizational units within the Bureau of Border Security or the Bureau of Citizenship and Immigration Services, but may not be used to recombine the two bureaus into a single agency or otherwise to combine, join, or consolidate functions or organizational units of the two bureaus with each other.
 
 (Pub. L. 107–296, title IV, §471, Nov. 25, 2002, 116 Stat. 2205.)
 

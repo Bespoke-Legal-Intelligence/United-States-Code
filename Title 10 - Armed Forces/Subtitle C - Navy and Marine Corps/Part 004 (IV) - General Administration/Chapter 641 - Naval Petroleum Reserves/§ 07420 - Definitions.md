@@ -208,7 +208,7 @@ Remedial Action at Moab Site.—(1)(A) The Secretary of Energy shall prepare a p
 
 “(B) The remediation plan required by subparagraph (A) shall be completed not later than one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], and the Secretary of Energy shall commence remedial action at the Moab site as soon as practicable after the completion of the plan.
 
-“(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier.Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for a purpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
+“(C) The license for the materials at the Moab site issued by the Nuclear Regulatory Commission shall terminate one year after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, unless the Secretary of Energy determines that the license may be terminated earlier. Until the license is terminated, the Trustee, subject to the availability of funds appropriated specifically for a purpose described in clauses (i) through (iii) or made available by the Trustee from the Moab Mill Reclamation Trust, may carry out—
 
 &emsp;“(i) interim measures to reduce or eliminate localized high ammonia concentrations in the Colorado River, identified by the United States Geological Survey in a report dated March 27, 2000;
 
@@ -294,7 +294,7 @@ Equity Finalization.—(1) Not later than eight months after the effective date,
 
 “(2) The Secretary shall retain the services of an independent petroleum engineer, mutually acceptable to the equity owners, who shall prepare a recommendation on final equity figures. The Secretary may accept the recommendation of the independent petroleum engineer for final equity in each known oil and gas zone and establish final equity interest in Naval Petroleum Reserve Numbered 1 in accordance with the recommendation, or the Secretary may use such other method to establish final equity interest in the reserve as the Secretary considers appropriate.
 
-“(3) If, on the effective date, there is an ongoing equity redetermination dispute between the equity owners under section 9(b) of the unit plan contract, the dispute shall be resolved in the manner provided in theunit plan contract within eight months after the effective date. The resolution shall be considered final for all purposes under this section.
+“(3) If, on the effective date, there is an ongoing equity redetermination dispute between the equity owners under section 9(b) of the unit plan contract, the dispute shall be resolved in the manner provided in the unit plan contract within eight months after the effective date. The resolution shall be considered final for all purposes under this section.
 
 “(c)
 
@@ -312,7 +312,7 @@ Establishment of Minimum Sale Price.—(1) Not later than seven months after the
 
 “(2) The independent experts retained under paragraph (1) shall also determine and submit to the Secretary the estimated total amount of the cost of any environmental restoration and remediation necessary at the reserve. The Secretary shall report the estimate to the Director of the Office of Management and Budget, the Secretary of the Treasury, and Congress.
 
-“(3) The Secretary, in consultation with the Director of the Office of Management and Budget, shall set the minimum acceptable price for the reserve. The Secretary may not set the minimum acceptable price below the higher of—
+“(3) The Secretary, in consultation with the Director of the Office of Management and Budget, shall set theminimum acceptable price for the reserve. The Secretary may not set the minimum acceptable price below the higher of—
 
 &emsp;“(A) the average of the five assessments prepared under paragraph (1); and
 
@@ -448,7 +448,7 @@ Conduct of Study.—The Secretary shall retain an independent petroleum consulta
 
 “(c)
 
-Considerations Under Study.—An examination of the value to be derived by the United States from the transfer or sale of the naval petroleum reserves shall include an assessment and estimate of the fair market value of the interest of the United States in the naval petroleum reserves. The assessment and estimateshall be made in a manner consistent with customary property valuation practices in the oil and gas industry.
+Considerations Under Study.—An examination of the value to be derived by the United States from the transfer or sale of the naval petroleum reserves shall include an assessment and estimate of the fair market value of the interest of the United States in the naval petroleum reserves. The assessment and estimate shall be made in a manner consistent with customary property valuation practices in the oil and gas industry.
 
 “(d)
 

@@ -22,7 +22,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection\(c)(2) of such section and if the hospital meets the requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
 
-&emsp;(B) In the case of <sup>1</sup> hospital that—
+&emsp;(B) In the case of a hospital that—
 
 &emsp;&emsp;(i) has a disproportionate share adjustment percentage (as established in clause (iv) of such section) of at least 5.1 percent (as computed for purposes of establishing the average standardized amounts for discharges occurring during fiscal year 1987), and
 
@@ -40,15 +40,17 @@ Whenever a final determination is made that the amount of payment made under thi
 
 > &emsp;but only if the hospital was being paid for inpatient hospital services on such a periodic interim payment basis as of June 30, 1987, and continues to meet the requirements (in effect as of October 1, 1986) applicable to payment on such a basis.
 
-(2) The Secretary shall provide (or continue to provide) for payment on a periodic interim payment basis (under the standards established under section 405.454(j) of title 42, Code of Federal Regulations, as in effect on October 1, 1986) with respect to—
+(2) The Secretary shall provide (or continue to provide) for payment on a periodic interim payment basis (under the standards established under section 405.454(j) of title 42, Code of Federal Regulations, as in effect on October 1, 1986, in the cases described in subparagraphs (A) through (D)) with respect to—
 
 &emsp;(A) inpatient hospital services of a hospital that is not a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title);
 
 &emsp;(B) a hospital which is receiving payment under a State hospital reimbursement system under section 1395f(b)(3) or 1395ww(c) of this title, if payment on a periodic interim payment basis is an integral part of such reimbursement system;
 
-&emsp;(C) extended care services; and
+&emsp;(C) extended care services;
 
-&emsp;(D) hospice care;
+&emsp;(D) hospice care; and
+
+&emsp;(E) inpatient critical access hospital services;
 
 > if the provider of such services elects to receive, and qualifies for, such payments.
 
@@ -60,9 +62,15 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;(B) the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354.)
 
 #### Amendments
+
+2003—Subsec. (e)(1)(B). Pub. L. 108–173, §736(a)(3), substituted “of a hospital” for “of hospital” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 108–173, §405(c)(1)(A), inserted “, in the cases described in subparagraphs (A) through (D)” after “1986” in introductory provisions.
+
+Subsec. (e)(2)(E). Pub. L. 108–173, §405(c)(1)(B)–(D), added subpar. (E).
 
 1997—Subsec. (e)(2)(C) to (E). Pub. L. 105–33 inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “home health services; and”.
 
@@ -80,6 +88,10 @@ Subsec. (d). Pub. L. 97–248, §117(a)(1), added subsec. (d).
 
 1975—Pub. L. 94–182 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
@@ -94,7 +106,7 @@ Section 9311(a)(2) of Pub. L. 99–509 provided that: “The amendment made by p
 
 #### Effective Date of 1982 Amendment
 
-Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 117(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending thissection and section 1395<i>l</i> of this title\] apply to final determinations made on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 Amendment by section 148(b) of Pub. L. 97–248 effective with respect to contracts entered into or renewed on or after Sept. 3, 1982, see section 149 of Pub. L. 97–248, set out as an Effective Date note under section 1320c of this title.
 
@@ -105,6 +117,10 @@ Section 2(a)(4) of Pub. L. 95–142 provided that: “The amendments made by thi
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–182 effective with respect to utilization review activities conducted on and after the first day of the first month which begins more than 30 days after Dec. 31, 1975, see section 112(d) of Pub. L. 94–182, set out as a note under section 1395x of this title.
+
+#### Development of Alternative Timing Methods of Periodic Interim Payments
+
+Pub. L. 108–173, title IV, §405(c)(2), Dec. 8, 2003, 117 Stat. 2267, provided that: “With respect to periodic interim payments to critical access hospitals for inpatient critical access hospital services under section 1815(e)(2)(E) of the Social Security Act \[subsec. (e)(2)(E) of this section\], as added by paragraph (1), the Secretary \[of Health and Human Services\] shall develop alternative methods for the timing of such payments.”
 
 #### Transition
 
@@ -127,6 +143,4 @@ Section 120 of Pub. L. 97–248 provided that: “Notwithstanding section 1815(a
 &emsp;“(2) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1984, such payments shall be deferred until fiscal year 1985.”
 
 Pub. L. 96–499, title IX, §959, Dec. 5, 1980, 94 Stat. 2650, provided for deferral of interim payments to be made during last twenty-one days of fiscal year 1981 until fiscal year 1982, prior to repeal by Pub. L. 97–35, title XXI, §2155, Aug. 13, 1981, 95 Stat. 802.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
 

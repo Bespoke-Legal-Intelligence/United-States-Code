@@ -32,7 +32,7 @@ In carrying out the activities described in subsection (a) of this section, the 
 
 &emsp;(5) may accept gifts, or donations of services, money, or property, real, personal, or mixed, tangible or intangible; and
 
-&emsp;(6) shall take necessary action to ensure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
+&emsp;(6) shall take necessary action to ensure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the other scientific, medical, and biomedicaldisciplines and organizations nationally and internationally.
 
 #### (c) Report
 

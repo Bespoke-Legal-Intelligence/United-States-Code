@@ -76,13 +76,13 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed bythe Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
+&emsp;So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under section 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.
 
 #### (2) Deduction limited to adjusted basis in stock
 
 #### (A) In general
 
-&emsp;&emsp;The amount of any deduction for depreciation allowable under section 167(a) to a tenant-stockholder with respect to any stock for any taxable year by reason of paragraph (1) shall not exceed the adjusted basis of such stock as of the close of the taxable year of the tenant-stockholder in which such deduction was incurred.
+&emsp;&emsp;The amount of any deduction for depreciation allowable under section 167(a) to a tenant-stockholder with respect to any stock for any taxable year by reason of paragraph\(1) shall not exceed the adjusted basis of such stock as of the close of the taxable year of the tenant-stockholder in which such deduction was incurred.
 
 #### (B) Carryforward of disallowed amount
 
@@ -120,7 +120,7 @@ Subsec. (d). Pub. L. 99–514, §644(c), added subsec. (d).
 
 1980—Subsec. (b)(6)(A). Pub. L. 96–222, §105(a)(6)(A), added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
 
-Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account,the tax treatment of the original seller under this paragraph.
+Subsec. (b)(6)(B) to (D). Pub. L. 96–222, §105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
 
 1978—Subsec. (b)(6). Pub. L. 95–600, added par. (6).
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 94–455, §§1906(b)(13)(A), 2101(b), struck out “or his
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions,see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -242,7 +242,7 @@ In general.—For purposes of this subsection, the term ‘qualified cooperative
 
 &emsp;“(B)
 
-Qualified limited-profit housing companies law.—For purposes of subparagraph (A), the term ‘qualified limited-profit housing companies law’means any limited-profit housing companies law which limits the resale price for a tenant-stockholder's stock in a cooperative housing corporation to the sum of his basis for such stock plus his proportionate share of part or all of the amortization of any mortgage on the building owned by such corporation.
+Qualified limited-profit housing companies law.—For purposes of subparagraph (A), the term ‘qualified limited-profit housing companies law’ means any limited-profit housing companies law which limits the resale price for a tenant-stockholder's stock in a cooperative housing corporation to the sum of his basis for such stock plus his proportionate share of part or all of the amortization of any mortgage on the building owned by such corporation.
 
 “(5)
 

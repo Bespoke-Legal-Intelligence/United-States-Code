@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) the results of a comprehensive assessment of the teacher quality and professional development needs of any schools, local educational agencies, and State educational agencies that comprise the eligible partnership with respect to the teaching and learning of mathematics and science;
 
-&emsp;&emsp;(B) a description of how the activities to be carried out by the eligible partnershipwill be aligned with challenging State academic content and student academic achievement standards in mathematics and science and with other educational reform activities that promote student academic achievement in mathematics and science;
+&emsp;&emsp;(B) a description of how the activities to be carried out by the eligible partnership will be aligned with challenging State academic content and student academic achievement standards in mathematics and science and with other educational reform activities that promote student academic achievement in mathematics and science;
 
 &emsp;&emsp;(C) a description of how the activities to be carried out by the eligible partnership will be based on a review of scientifically based research, and an explanation of how the activities are expected to improve student academic achievement and strengthen the quality of mathematics and science instruction;
 
@@ -118,7 +118,7 @@ An eligible partnership shall use funds provided under this part for one or more
 
 #### (1) Partnership grants
 
-&emsp;An eligible partnership receiving a grant under section 1023 of this title shall coordinatethe use of such funds with any related activities carried out by such partnership with funds made available under this part.
+&emsp;An eligible partnership receiving a grant under section 1023 of this title shall coordinate the use of such funds with any related activities carried out by such partnership with funds made available under this part.
 
 #### (2) National Science Foundation
 
@@ -142,7 +142,7 @@ An eligible partnership shall use funds provided under this part for one or more
 
 &emsp;&emsp;&emsp;(i) increased participation by students in advanced courses in mathematics and science;
 
-&emsp;&emsp;&emsp;(ii) increased percentages of elementary school teachers with academic majors or minors, or group majors or minors, in mathematics, engineering, or the sciences; and
+&emsp;&emsp;&emsp;(ii) increased percentages of elementary school teachers with academic majors orminors, or group majors or minors, in mathematics, engineering, or the sciences; and
 
 &emsp;&emsp;&emsp;(iii) increased percentages of secondary school classes in mathematics and science taught by teachers with academic majors in mathematics, engineering, and science.
 

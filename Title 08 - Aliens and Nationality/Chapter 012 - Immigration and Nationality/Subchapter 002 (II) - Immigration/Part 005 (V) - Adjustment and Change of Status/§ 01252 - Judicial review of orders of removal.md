@@ -46,7 +46,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (2) Venue and forms
 
-&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit in which the immigration judge completed theproceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
+&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit in which the immigration judge completed the proceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
 
 #### (3) Service
 
@@ -198,7 +198,7 @@ A court may review a final order of removal only if—
 
 #### (5) Scope of inquiry
 
-&emsp;In determining whether an alien has been ordered removed under section 1225(b)(1) of this title, the court's inquiry shall be limited to whether such an order in fact was issued and whether it relates to the petitioner. Thereshall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.
+&emsp;In determining whether an alien has been ordered removed under section 1225(b)(1) of this title, the court's inquiry shall be limited to whether such an order in fact was issued and whether it relates to the petitioner. There shall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.
 
 #### (f) Limit on injunctive relief
 
@@ -232,7 +232,7 @@ Subsec. (a)(2). Pub. L. 104–132, §440(c)(2), struck out subpar. (B) which rea
 
 Pub. L. 104–132, §440(c)(1)(C), struck out “but subject to subparagraph (B)” before “, the Attorney General shall not release”.
 
-Pub. L. 104–132, §440(c)(1)(B), as amended by Pub. L. 104–208, §§306(d), 308(g)(10)(H), substituted “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title” for “an aggravated felony upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)”.
+Pub. L. 104–132, §440(c)(1)(B), as amended by Pub. L. 104–208, §§306(d), 308(g)(10)(H), substituted “any criminal offense covered in section 1251(a)(2)(A)(iii), (B), (C),or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to the date of their commission, otherwise covered by section 1227(a)(2)(A)(i) of this title” for “an aggravated felony upon release of the alien (regardless of whether or not such release is on parole, supervised release, or probation, and regardless of the possibility of rearrest or further confinement in respect of the same offense)”.
 
 Pub. L. 104–132, §440(c)(1)(A), substituted “(2) The Attorney” for “(2)(A) The Attorney”.
 

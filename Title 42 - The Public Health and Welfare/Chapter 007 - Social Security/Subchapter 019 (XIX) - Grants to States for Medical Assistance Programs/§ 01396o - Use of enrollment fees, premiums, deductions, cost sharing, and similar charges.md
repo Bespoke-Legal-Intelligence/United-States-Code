@@ -8,7 +8,7 @@ Subject to subsection (g) of this section, the State plan shall provide that in 
 
 &emsp;(2) no deduction, cost sharing or similar charge will be imposed under the plan with respect to—
 
-&emsp;&emsp;(A) services furnished to individuals under 18 years of age (and, at the option of the State, individuals under 21, 20, or 19 years of age, or any reasonable category of individuals 18 years of age or over),
+&emsp;&emsp;(A) services furnished to individuals under 18 years of age (and, at the option of the State, individuals under 21, 20, or 19 years ofage, or any reasonable category of individuals 18 years of age or over),
 
 &emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy (or, at the option of the State, any services furnished to pregnant women),
 
@@ -32,7 +32,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 &emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy (or, at the option of the State, any services furnished to pregnant women),
 
-&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costsof medical care all but a minimal amount of his income required for personal needs,
+&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
 
 &emsp;&emsp;(D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
 
@@ -46,7 +46,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 (2) In no case may the amount of any premium imposed under paragraph (1) exceed 10 percent of the amount by which the family income (less expenses for the care of a dependent child) of an individual exceeds 150 percent of the line described in paragraph (1).
 
-(3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
+(3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of an individualfor medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
 (4) A State may permit State or local funds available under other programs to be used for payment of a premium imposed under paragraph (1). Payment of a premium with such funds shall not be counted as income to the individual with respect to whom such payment is made.
 
@@ -78,7 +78,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 &emsp;(1) a State may (in a uniform manner for individuals described in either such subclause)—
 
-&emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set ona sliding scale based on income that the State may determine; and
+&emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set on a sliding scale based on income that the State may determine; and
 
 &emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of such an individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1) of this section) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
 
@@ -100,7 +100,7 @@ Subsec. (g). Pub. L. 106–170, §201(a)(3)(B), added subsec. (g).
 
 1997—Subsec. (a)(2)(D). Pub. L. 105–33, §4708(b)(1), struck out “or services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) in which he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
 
-Subsec. (b)(2)(D). Pub. L. 105–33, §4708(b)(2), struck out “or (at the option of the State) services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) in which he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
+Subsec. (b)(2)(D). Pub. L. 105–33, §4708(b)(2), struck out “or (at the option of the State) services furnished to such an individual by a health maintenance organization (as defined in section 1396b(m) of this title) inwhich he is enrolled,” after “section 1396d(a)(4)(C) of this title,”.
 
 1989—Subsec. (a). Pub. L. 101–239, §6408(d)(3)(A), substituted “subparagraph (A) or (E)(i)” for “subparagraph (A) or (E)” in introductory provisions.
 

@@ -60,7 +60,7 @@ Except as otherwise provided in this section, the amount of any tax imposed by t
 
 #### (8) Failure to notify Secretary of certain foreign transfers
 
-&emsp;In the case of any information which is required to be reported to the Secretary under section 6038, 6038A, 6038B, 6046, 6046A, or 6048, the time for assessment of any tax imposed by this title with respect to any event or period to which such information relates shall not expire before the date which is 3 years after the date on which the Secretary is furnished the information required to be reported under such section.
+&emsp;In the case of any information which is required to be reported to the Secretary under section 6038, 6038A, 6038B, 6046, 6046A, or 6048, the time for assessment of any tax imposed by this title with respect to any event or periodto which such information relates shall not expire before the date which is 3 years after the date on which the Secretary is furnished the information required to be reported under such section.
 
 #### (9) Gift tax on certain gifts not shown on return
 
@@ -106,7 +106,7 @@ Except as otherwise provided in subsection (c)—
 
 #### (f) Personal holding company tax
 
-If a corporation which is a personal holding company for any taxable year fails to file withits return under chapter 1 for such year a schedule setting forth—
+If a corporation which is a personal holding company for any taxable year fails to file with its return under chapter 1 for such year a schedule setting forth—
 
 &emsp;(1) the items of gross income and adjusted ordinary gross income, described in section 543, received by the corporation during such year, and
 
@@ -158,7 +158,7 @@ In a case where an amount has been applied, credited, or refunded under section 
 
 #### (2) Certain contributions to section 501(c)(3) organizations
 
-&emsp;In the case of a deficiency of tax of a private foundation making a contribution in the manner provided in section 4942(g)(3) (relating to certain contributions to section 501(c)(3) organizations) attributable to the failure of a section 501(c)(3) organization to make the distribution prescribed by section 4942(g)(3), such deficiency may be assessed at any time beforethe expiration of one year after the expiration of the period within which a deficiency may be assessed for the taxable year with respect to which the contribution was made.
+&emsp;In the case of a deficiency of tax of a private foundation making a contribution in the manner provided in section 4942(g)(3) (relating to certain contributions to section 501(c)(3) organizations) attributable to the failure of a section 501(c)(3) organization to make the distribution prescribed by section 4942(g)(3), such deficiency may be assessed at any time before the expiration of one year after the expiration of the period within which a deficiency may be assessed for the taxable year with respect to which the contribution was made.
 
 #### (3) Certain set-asides described in section 4942(g)(2)
 
@@ -192,7 +192,7 @@ Subsec. (c)(8). Pub. L. 105–34, §1145(a), amended heading and text of par. (8
 
 Subsec. (c)(9). Pub. L. 105–34, §506(b), reenacted par. (9) heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: “If any gift of property the value of which is determined under section 2701 or 2702 (or any increase in taxable gifts required under section 2701(d)) is required to be shown on a return of tax imposed by chapter 12 (without regard to section 2503(b)), and is not shown on such return, any tax imposed by chapter 12 on such gift may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, at any time. The preceding sentence shall not apply to any item not shown as a gift on such return if such item is disclosed in such return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.”
 
-Subsec. (m). Pub. L. 105–34, §1601(g)(2), provided that sections 1703(n)(8) and 1704(j)(4)(B) of Pub. L. 104–188 shall be applied as if the reference in the directory language to the redesignation by section 1602 referred to the redesignation by section 1702. See 1996 Amendment note below.
+Subsec. (m). Pub. L. 105–34, §1601(g)(2), provided that sections 1703(n)(8) and 1704(j)(4)(B) of Pub. L. 104–188 shall be applied as if the reference in the directory language to the redesignation by section 1602 referred tothe redesignation by section 1702. See 1996 Amendment note below.
 
 Subsec. (n)(3). Pub. L. 105–34, §1239(e)(2), which directed the addition of par. (3) to subsec. (<i>o</i>), was executed by adding par. (3) to subsec. (n) to reflect the probable intent of Congress and the redesignation of subsec. (<i>o</i>) as (n) by Pub. L. 104–188, §1702(e)(3)(A). See 1996 Amendment note below.
 
@@ -264,7 +264,7 @@ Subsec. (q). Pub. L. 98–369, §474(r)(39), redesignated subsec. (q) as (p).
 
 Subsec. (q)(3). Pub. L. 98–369, §714(p)(2)(F), amended par. (3) generally. Prior to amendment par. (3) related to partnership items of federally registered partnerships and provided that under regulations prescribed by the Secretary, rules similar to the rules of subsection (<i>o</i>) shall apply to the tax imposed by section 4986.
 
-1982—Subsec. (<i>o</i>). Pub. L. 97–248 substituted “Special rules for partnership items” for “Special rules for partnership items of federally registered partnerships” in heading and, in text, substituted cross reference to section 6229 for extension of period in case of partnership items (as defined in section 6231(a)(3)), for provisions that (1) in the case of any tax imposed by subtitle A with respect to any person, the period for assessing a deficiency attributable to any partnership item of a federally registered partnership would not expire before the later of (A) the date which was 4 years after the date on which the partnership return of the federally registered partnership for the partnership taxable year in which the item arose was filed (or, later, if the date prescribed for filing the return), or (B) if the name or address of such person did not appear on the partnership return, the date which was 1 year after the date on which such information was furnished to the Secretaryin such manner and at such place as he might prescribe by regulations, (2) for purposes of this subsec., the term “partnership item” meant (A) any item required to be taken into account for the partnership taxable year under any provision of subchapter K of chapter 1 to the extent that regulations prescribed by the Secretary provided that for purposes of this subtitle such item was more appropriately determined at the partnership level than at the partner level, and (B) any other item to the extent affected by an item described in subpar. (A), (3) the extensions referred to in subsec. (c)(4), insofar as they related to partnership items, could, with respect to any person, be consented to (A) except to the extent the Secretary was otherwise notified by the partnership, by a general partner of the partnership, or (B) by any person authorized to do so by the partnership in writing, and (4) for purposes of this subsec., the term “federally registered partnership” meant, with respect to any partnership taxable year, any partnership (A) interests in which had been offered for sale at any time during such taxable year or a prior taxable year in any offering required to be registered with the Securities and Exchange Commission, or (B) which, at any time during such taxable year or a prior taxable year, had been subject to the annual reporting requirements of the Securities and Exchange Commission which related to the protection of investors in the partnership.
+1982—Subsec. (<i>o</i>). Pub. L. 97–248 substituted “Special rules for partnership items” for “Special rules for partnership items of federally registered partnerships” in heading and, in text, substituted cross reference to section 6229 for extension of period in case of partnership items (as defined in section 6231(a)(3)), for provisions that (1) in the case of any tax imposed by subtitle A with respect to any person, the period for assessing a deficiency attributable to any partnership item of a federally registered partnership would not expire before the later of (A) the date which was 4 years after the date on which the partnership return of the federally registered partnership for the partnership taxable year in which the item arose was filed (or, later, if the dateprescribed for filing the return), or (B) if the name or address of such person did not appear on the partnership return, the date which was 1 year after the date on which such information was furnished to the Secretary in such manner and at such place as he might prescribe by regulations, (2) for purposes of this subsec., the term “partnership item” meant (A) any item required to be taken into account for the partnership taxable year under any provision of subchapter K of chapter 1 to the extent that regulations prescribed by the Secretary provided that for purposes of this subtitle such item was more appropriately determined at the partnership level than at the partner level, and (B) any other item to the extent affected by an item described in subpar. (A), (3) the extensions referred to in subsec. (c)(4), insofar as they related to partnership items, could, with respect to any person, be consented to (A) except to the extent the Secretary was otherwise notified by the partnership, by a general partner of the partnership, or (B) by any person authorized to do so by the partnership in writing, and (4) for purposes of this subsec., the term “federally registered partnership” meant, with respect to any partnership taxable year, any partnership (A) interests in which had been offered for sale at any time during such taxable year or a prior taxable year in any offering required to be registered with the Securities and Exchange Commission, or (B) which, at any time during such taxable year or a prior taxable year, had been subject to the annual reporting requirements of the Securities and Exchange Commission which related to the protection of investors in the partnership.
 
 1980—Subsec. (<i>o</i>). Pub. L. 96–222, §102(a)(2)(A), redesignated subsec. (q), as added by section 212(a) of Pub. L. 95–600, relating to special rules for partnership items of Federally registered partnerships, as (<i>o</i>). Former subsec. (<i>o</i>), relating to work incentive program credit carrybacks, was repealed by Pub. L. 95–628.
 
@@ -440,7 +440,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 131(d)(2) of Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under section 367 of this title.
+Amendment by section 131(d)(2) of Pub. L. 98–369 applicable to transfers or exchanges after Dec. 31, 1984, intaxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984, see section 131(g) of Pub. L. 98–369, set out as a note under section 367 of this title.
 
 Amendment by section 163(b)(1) of Pub. L. 98–369 applicable to expenditures with respect to which the second taxable year described in section 118(b)(2)(B) of this title ends after Dec. 31, 1984, see section 163(c) of Pub. L. 98–369, set out as a note under section 118 of this title.
 
@@ -516,7 +516,7 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 Amendment by section 101(g)(1)–(3) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-Amendment by section 512(e)(1) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
+Amendment by section 512(e)(1) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
 #### Effective Date of 1967 Amendment
 

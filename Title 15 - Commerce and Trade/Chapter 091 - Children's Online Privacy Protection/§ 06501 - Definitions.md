@@ -74,7 +74,7 @@ In this chapter:
 
 &emsp;&emsp;(F) any other identifier that the Commission determines permits the physical or online contacting of a specific individual; or
 
-&emsp;&emsp;(G) information concerning the child or the parents of that child that the websitecollects online from the child and combines with an identifier described in this paragraph.
+&emsp;&emsp;(G) information concerning the child or the parents of that child that the website collects online from the child and combines with an identifier described in this paragraph.
 
 #### (9) Verifiable parental consent
 
@@ -110,7 +110,7 @@ Pub. L. 105–277, div. C, title XIII, §1308, Oct. 21, 1998, 112 Stat. 2681–7
 
 &emsp;“(1) the date that is 18 months after the date of enactment of this Act \[Oct. 21, 1998\]; or
 
-&emsp;“(2) the date on which the Commission rules on the first application filed for safe harbor treatment under section 1304 \[enacting section 6503 of this title\] if the Commission does not rule on the first such application within one year after the date of enactment of this Act, but in no case later than the date that is 30 months after the date of enactment of this Act.”
+&emsp;“(2) the date on which the Commission rules on the first application filed for safe harbor treatment undersection 1304 \[enacting section 6503 of this title\] if the Commission does not rule on the first such application within one year after the date of enactment of this Act, but in no case later than the date that is 30 months after the date of enactment of this Act.”
 
 #### Short Title
 

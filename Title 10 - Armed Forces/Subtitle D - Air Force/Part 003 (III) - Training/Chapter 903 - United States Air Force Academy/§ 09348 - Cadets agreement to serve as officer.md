@@ -98,7 +98,7 @@ Amendment by Pub. L. 99–145 (other than with respect to the authority of the S
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 541(c) of Pub. L. 98–525 applicable with respect to agreements entered into underthis section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
+Amendment by section 541(c) of Pub. L. 98–525 applicable with respect to agreements entered into under this section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
@@ -106,5 +106,5 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub.L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
 

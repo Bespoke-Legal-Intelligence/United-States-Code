@@ -12,7 +12,7 @@ The distiller or importer of distilled spirits shall be liable for the taxes imp
 
 #### (2) Exception
 
-&emsp;A person owning or having the right of control of not more than 10 percent of any class of stock of a corporate proprietor of a distilled spirits plant shall not be deemed to be a person liable for the tax for which such proprietor is liable under the provisions of paragraph (1). This exception shall not apply to an officer or director of such corporate proprietor.
+&emsp;A person owning or having the right of control of not more than 10 percent of any class of stock of a corporate proprietor of a distilledspirits plant shall not be deemed to be a person liable for the tax for which such proprietor is liable under the provisions of paragraph (1). This exception shall not apply to an officer or director of such corporate proprietor.
 
 #### (c) Proprietors of distilled spirits plants
 

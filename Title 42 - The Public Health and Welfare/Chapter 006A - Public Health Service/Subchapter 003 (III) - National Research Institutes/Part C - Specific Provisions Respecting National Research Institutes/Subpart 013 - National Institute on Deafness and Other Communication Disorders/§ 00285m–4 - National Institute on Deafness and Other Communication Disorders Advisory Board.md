@@ -10,9 +10,9 @@ The Advisory Board shall be composed of eighteen appointed members and nonvoting
 
 &emsp;(1) The Secretary shall appoint—
 
-&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States,and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
+&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States, and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
 
-&emsp;&emsp;(B) six members from the general public who are knowledgeable with respect to such disorders, including not less than one person with a communication disorder and not less than one person who is a parent of an individual with such a disorder.
+&emsp;&emsp;(B) six members from the general public who are knowledgeable with respect to such disorders, including not less than one person with a communication disorder and not lessthan one person who is a parent of an individual with such a disorder.
 
 > &emsp;Of the appointed members, not less than five shall by virtue of training or experience be knowledgeable in diagnoses and rehabilitation of communication disorders, education of the hearing, speech, or language impaired, public health, public information, community program development, occupational hazards to communications senses, or the aging process.
 
@@ -72,7 +72,7 @@ The Advisory Board shall prepare an annual report for the Secretary which—
 
 The National Deafness and Other Communication Disorders Advisory Board shall be established not later than April 1, 1989.
 
-(July 1, 1944, ch. 373, title IV, §464D, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2772, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4235; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 101–93, §5(b), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–405, title III, §302(e)(1), Oct. 9 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(8), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(8), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §464D, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2772, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4235; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub.L. 101–93, §5(b), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–405, title III, §302(e)(1), Oct. 9 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(8), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(8), June 10, 1993, 107 Stat. 211.)
 
 #### Codification
 

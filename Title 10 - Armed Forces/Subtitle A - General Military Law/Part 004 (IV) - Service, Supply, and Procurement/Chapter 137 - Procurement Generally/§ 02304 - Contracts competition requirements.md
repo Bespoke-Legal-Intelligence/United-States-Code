@@ -156,11 +156,11 @@
 
 (4) The head of an agency shall comply with the Federal Acquisition Regulation provisions referred to in section 31(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 427).
 
-(h) For the purposes of the following laws, purchases or contracts awarded after using procedures other than sealed-bid procedures shall be treated as if they were made with sealed-bid procedures:
+(h) For the purposes of the following, purchases or contracts awarded after using procedures other than sealed-bid procedures shall be treated as if they were made with sealed-bid procedures:
 
 &emsp;(1) The Walsh-Healey Act (41 U.S.C. 35 et seq.).
 
-&emsp;(2) The Act entitled “An Act relating to the rate of wages for laborers and mechanics employed on public buildings of the United States and the District of Columbia by contractors and subcontractors, and for other purposes”, approved March 3, 1931 (commonly referred to as the “Davis-Bacon Act”) (40 U.S.C. 276a—276a–5).
+&emsp;(2) Sections 3141–3144, 3146, and 3147 of title 40.
 
 (i)(1) The Secretary of Defense shall prescribe by regulation the manner in which the Department of Defense negotiates prices for supplies to be obtained through the use of procedures other than competitive procedures, as defined in section 2302(2) of this title.
 
@@ -176,7 +176,7 @@
 
 (k)(1) It is the policy of Congress that an agency named in section 2303(a) of this title should not be required by legislation to award a new contract to a specific non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be procured through merit-based selection procedures.
 
-(2) A provision of law may not be construed as requiring a new contract to be awarded to aspecified non-Federal Government entity unless that provision of law—
+(2) A provision of law may not be construed as requiring a new contract to be awarded to a specified non-Federal Government entity unless that provision of law—
 
 &emsp;(A) specifically refers to this subsection;
 
@@ -188,7 +188,7 @@
 
 (4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII,§4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295.)
 
 Historical and Revision Notes<br>1956
 
@@ -292,17 +292,19 @@ In subsection (i)(1)(B), the words “or States” are omitted because of 1:1.
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, asamended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 The Walsh-Healey Act, referred to in subsec. (h)(1), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 et seq. of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
-
-The Davis-Bacon Act (40 U.S.C. 276a—276a–5), referred to in subsec. (h)(2), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–217, §3(b)(3)(A), struck out “laws” after “following” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 107–217, §3(b)(3)(B), substituted “Sections 3141–3144, 3146, and 3147 of title 40” for “The Act entitled ‘An Act relating to the rate of wages for laborers and mechanics employed on public buildings of the United States and the District of Columbia by contractors and subcontractors, and for other purposes’, approved March 3, 1931 (commonly referred to as the ‘Davis-Bacon Act’) (40 U.S.C. 276a—276a–5)”.
 
 2001—Subsec. (f)(1)(B)(iii), (6)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -326,7 +328,7 @@ Subsec. (f)(1)(B)(i). Pub. L. 104–106, §4102(a)(1), substituted “$500,000 (
 
 Subsec. (f)(1)(B)(ii). Pub. L. 104–106, §4102(a)(2), substituted “$10,000,000 (but equal to or less than $50,000,000)” for “$1,000,000 (but equal to or less than $10,000,000)” and inserted “or” at end.
 
-Subsec. (f)(1)(B)(iii), (iv). Pub. L. 104–106, §4102(a)(3), (4), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the senior procurement executive of the agency designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) or the senior procurement executive's delegate designated pursuant to paragraph (6)(B), or in the case of the Under Secretary of Defense for Acquisition and Technology, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (6)(C); or”.
+Subsec. (f)(1)(B)(iii), (iv). Pub. L. 104–106, §4102(a)(3), (4), redesignated cl. (iv) as (iii) and struck out formercl. (iii) which read as follows: “in the case of a contract for an amount exceeding $10,000,000 (but equal to or less than $50,000,000), by the senior procurement executive of the agency designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) or the senior procurement executive's delegate designated pursuant to paragraph (6)(B), or in the case of the Under Secretary of Defense for Acquisition and Technology, acting in his capacity as the senior procurement executive for the Department of Defense, the Under Secretary's delegate designated pursuant to paragraph (6)(C); or”.
 
 Subsec. (f)(2)(D). Pub. L. 104–106, §4321(b)(4), substituted “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.),” for “the Act of June 25, 1938 (41 U.S.C. 46 et seq.), popularly referred to as the Wagner-O'Day Act,”.
 
@@ -492,7 +494,7 @@ Section 101(c) \[title X, §923(d)\] of Pub. L. 99–500 and Pub. L. 99–591, a
 
 #### Effective Date of 1985 Amendment
 
-Section 961(e) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) \[amending this section and section 253 of Title 41, Public Contracts\], (b) \[amending section 2323 (now section 2343) of this title\], and (c) \[amending section 759 of Title 40, Public Buildings, Property, and Works\] shall take effect as if included in the enactment of the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369) \[see Effective Date of 1985 Amendment note set out under section 251 of Title 41\].”
+Section 961(e) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) \[amending this section and section 253 of Title 41, Public Contracts\], (b) \[amending section 2323 (now section 2343) of this title\], and (c) \[amending section 759 of former Title 40, Public Buildings, Property, and Works\] shall take effect as if included in the enactment of the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369) \[see Effective Date of 1985 Amendment note set out under section 251 of Title 41\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -512,11 +514,25 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Construction of 1994 Amendment
 
-Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 of Title 40, Public Buildings, Property, and Works, or subchapter VI (§541 et seq.) of chapter 10 of Title 40, see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
+Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former section 759 or former subchapter VI (§541 et seq.) of chapter 10 of Title 40 \[now chapter 11 of Title 40, Public Buildings, Property, and Works\], see section 1004(d) of Pub. L. 103–355, set out as a note under section 2304a of this title.
 
 #### Construction of 1984 Amendment
 
 Section 2723(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2305 of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
+
+#### Resources-Based Schedules for Completion of Public-Private Competitions for Performance of Department of Defense Functions
+
+Pub. L. 108–136, div. A, title III, §334, Nov. 24, 2003, 117 Stat. 1443, provided that:
+
+“(a)
+
+Application of Timeframes.—Any interim or final deadline or other schedule-related milestone for the completion of a Department of Defense public-private competition shall be established solely on the basis of considered research and sound analysis regarding the availability of sufficient personnel, training, and technical resources to the Department of Defense to carry out such competition in a timely manner.
+
+“(b)
+
+Extension of Timeframes.—(1) The Department of Defense official responsible for managing a Department of Defense public-private competition shall extend any interim or final deadline or other schedule-related milestone established (consistent with subsection (a)) for the completion of the competition if the official determines that the personnel, training, or technical resources available to the Department of Defense to carry out the competition in a timely manner are insufficient.
+
+“(2) A determination under this subsection shall be made pursuant to procedures prescribed by the Secretary of Defense.”
 
 #### Competition Requirement for Purchase of Services Pursuant to Multiple Award Contracts
 
@@ -598,7 +614,7 @@ Conventional Ammunition Defined.—For purposes of this section, the term ‘con
 
 #### Warranty Claims Recovery Pilot Program
 
-Pub. L. 105–85, div. A, title III, §391, Nov. 18, 1997, 111 Stat. 1716, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583; Pub. L. 107–107, div. A, title III, §364, Dec. 28, 2001, 115 Stat. 1068, provided that:
+Pub. L. 105–85, div. A, title III, §391, Nov. 18, 1997, 111 Stat. 1716, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583; Pub. L. 107–107, div. A, title III, §364, Dec. 28, 2001, 115 Stat. 1068; Pub. L. 107–314, div. A, title III, §368, Dec. 2, 2002, 116 Stat. 2524, provided that:
 
 “(a)
 
@@ -630,27 +646,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 “(f)
 
-Termination of Authority.—The pilot program shall terminate on September 30, 2003, and contracts entered into under this section shall terminate not later than that date.
-
-“(g)
-
-Reporting Requirements.—(1) Not later than January 1, 2003, the Secretary of Defense shall submitto Congress a report on the pilot program. The report shall include the following:
-
-&emsp;“(A) The number of contracts entered into under the program.
-
-&emsp;“(B) The extent to which the services provided under the contracts resulted in financial benefits for the Federal Government.
-
-&emsp;“(C) Any additional comments and recommendations that the Secretary considers appropriate regarding use of commercial sources of services for collection of Department of Defense claims under aircraft engine warranties.
-
-“(2) Not later than March 1, 2003, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the pilot program. In the review, the Comptroller General shall—
-
-&emsp;“(A) assess the success of the methods used in the demonstration program to identify and recover Department of Defense claims under aircraft engine warranties;
-
-&emsp;“(B) determine the total amount recovered by the Department of Defense under the pilot program;
-
-&emsp;“(C) evaluate the report prepared by the Secretary under paragraph (1); and
-
-&emsp;“(D) develop recommendations for improving the process by which warranty claims are recovered by the Department of Defense.”
+Termination of Authority.—The pilot program shall terminate on September 30, 2004, and contracts entered into under this section shall terminate not later than that date.”
 
 #### Requirements Relating to Micro-Purchases
 
@@ -692,7 +688,7 @@ Definitions.—In this section:
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
-Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2003. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
+Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183; Pub. L. 107–314, div. A, title VIII, §812(a), Dec. 2, 2002, 116 Stat. 2609; Pub. L. 108–136, div. A, title XIV, §1443(b), Nov. 24, 2003, 117 Stat. 1676, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2006. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -728,7 +724,7 @@ Termination of Authority.—The authority provided for commanders of military in
 
 #### Evaluation of Contracts for Professional and Technical Services
 
-Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 daysafter Sept. 29, 1988, to establish criteria to ensure that proposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
+Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 days after Sept. 29, 1988, to establish criteria to ensure that proposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
 
 #### Regulations On Use of Fixed-Price Development Contracts
 
@@ -772,7 +768,7 @@ Effective Date.—This section shall take effect six months after the date of th
 
 #### Deadline for Prescribing Regulations
 
-Section 101(c) \[title X, §927(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 927(b) of title IX, formerly title IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Secretary of Defense shall prescribe the regulations required by section 2304(i) of such title (as added by subsection (a)) not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
+Section 101(c) \[title X, §927(b)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 927(b) of title IX, formerlytitle IV, of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The Secretary of Defense shall prescribe the regulations required by section 2304(i) of such title (as added by subsection (a)) not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\].”
 
 #### One-Year Security-Guard Prohibition
 
@@ -839,6 +835,8 @@ In general.—Notwithstanding any other provision of law, each contract awarded 
 &emsp;“(2)
 
 Local resident defined.—As used in this subsection, the term ‘local resident’ means a resident of a State described in paragraph (1), and any individual who commutes daily to a State described in paragraph (1).”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -924,9 +922,9 @@ Pub. L. 90–5, title III, §304, Mar. 16, 1967, 81 Stat. 6, which had provided 
 
 #### Non-Applicability of National Emergencies Act
 
-Provisions of the National Emergencies Act not applicable to the powers and authorities conferred by subsec. (a)(1) of this section and actions taken hereunder, see section 1651(a)(7) of Title 50, War and National Defense.
+Provisions of the National Emergencies Act not applicable to the powers and authorities conferred by subsec. (a)(1) of this section and actions taken hereunder, see section 1651(a)(5) of Title 50, War and National Defense.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2533a, 2688, 4554 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
+This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2308, 2343, 2350b, 2361, 2486, 2533a, 2688, 4554 of this title; title 6 sections 425, 426; title 15 section 637; title 41 sections 416, 417, 427, 428a; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
 

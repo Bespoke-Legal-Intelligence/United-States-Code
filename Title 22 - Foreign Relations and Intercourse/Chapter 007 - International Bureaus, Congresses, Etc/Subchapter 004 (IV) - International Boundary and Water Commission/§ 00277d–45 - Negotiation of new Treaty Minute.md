@@ -28,7 +28,7 @@ In light of the existing threat to the environment and to public health and safe
 
 &emsp;&emsp;(E) Any terms and conditions considered necessary to allow for use in the United States of treated effluent from the Mexican facility, if there is reclaimed water which is surplus to the needs of users in Mexico and such use is consistent with applicable United States and California law.
 
-&emsp;&emsp;(F) Any other terms and conditions considered necessary by the Secretary in order to implement the provisions of sections 277d–43 to 277d–46 of this title.
+&emsp;&emsp;(F) Any other terms and conditions considered necessary by the Secretary in order toimplement the provisions of sections 277d–43 to 277d–46 of this title.
 
 (Pub. L. 106–457, title VIII, §805, Nov. 7, 2000, 114 Stat. 1980.)
 

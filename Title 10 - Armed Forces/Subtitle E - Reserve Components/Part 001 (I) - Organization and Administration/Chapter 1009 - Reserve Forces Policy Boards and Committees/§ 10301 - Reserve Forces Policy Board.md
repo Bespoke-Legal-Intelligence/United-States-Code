@@ -4,7 +4,7 @@
 
 &emsp;(1) A civilian chairman appointed by the Secretary of Defense.
 
-&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the Assistant Secretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
+&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the AssistantSecretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
 
 &emsp;(3) An officer of the Regular Army designated by the Secretary of the Army.
 
@@ -22,7 +22,7 @@
 
 &emsp;(10) An officer of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps serving in a position on the Joint Staff who is designated by the Chairman of the Joint Chiefs of Staff.
 
-(b) Whenever the Coast Guard is not operating as a service in the Navy, the Secretary of Transportation may designate two officers of the Coast Guard, Regular or Reserve, to serve as voting members of the Board.
+(b) Whenever the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security may designate two officers of the Coast Guard, Regular or Reserve, to serve as voting members of the Board.
 
 (c) The Board, acting through the Assistant Secretary of Defense for Reserve Affairs, is the principal policy adviser to the Secretary of Defense on matters relating to the reserve components.
 
@@ -32,11 +32,19 @@
 
 (f) The Board shall act on those matters referred to it by the Chairman and, in addition, on any matter raised by a member of the Board.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 175 of this title, prior to amendment by Pub. L. 103–337, §1661(b)(3).
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

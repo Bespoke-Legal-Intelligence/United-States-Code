@@ -6,7 +6,7 @@
 
 &emsp;(2) to a location in the United States.
 
-(b) When the transportation authorized by subsection (a) is provided by the Secretary concerned, the Secretary may use Government or commercial carriers. The Secretary concerned may limit the amount of payments made to members under subsection (a).
+(b) When the transportation authorized by subsection (a) is provided by the Secretary concerned, the Secretary may use Government or commercial carriers. The Secretary concernedmay limit the amount of payments made to members under subsection (a).
 
 (Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1003; amended Pub. L. 100–26, §8(d)(9), Apr. 21, 1987, 101 Stat. 286; Pub. L. 105–261, div. A, title VI, §633(a), (b)(1), Oct. 17, 1998, 112 Stat. 2044.)
 

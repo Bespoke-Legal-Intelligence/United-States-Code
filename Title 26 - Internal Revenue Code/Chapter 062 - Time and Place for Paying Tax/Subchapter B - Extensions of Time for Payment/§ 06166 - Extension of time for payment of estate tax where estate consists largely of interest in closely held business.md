@@ -272,7 +272,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed.
 
-> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of thetax imposed by section 2001 not less than the amount of money and other property distributed.
+> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of the tax imposed by section 2001 not less than the amount of money and other property distributed.
 
 &emsp;&emsp;(C) Subparagraph (A)(i) does not apply to an exchange of stock pursuant to a plan of reorganization described in subparagraph (D), (E), or (F) of section 368(a)(1) nor to an exchange to which section 355 (or so much of section 356 as relates to section 355) applies; but any stock received in such an exchange shall be treated for purposes of subparagraph (A)(i) as an interest qualifying under subsection (a)(1).
 
@@ -302,7 +302,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;(A) If an election is made under this section and the estate has undistributed net income for any taxable year ending on or after the due date for the first installment, the executor shall, on or before the date prescribed by law for filing the income tax return for such taxable year (including extensions thereof), pay an amount equal to such undistributed net income in liquidation of the unpaid portion of the tax payable in installments.
 
-&emsp;&emsp;(B) For purposes of subparagraph (A), the undistributed net income of the estate for any taxable year is the amount by which the distributable net income of the estate for such taxable year (as defined in section 643) exceeds the sum of—
+&emsp;&emsp;(B) For purposes of subparagraph (A), the undistributed net income of the estate for any taxable year is the amount by which thedistributable net income of the estate for such taxable year (as defined in section 643) exceeds the sum of—
 
 &emsp;&emsp;&emsp;(i) the amounts for such taxable year specified in paragraphs (1) and (2) of section 661(a) (relating to deductions for distributions, etc.);
 
@@ -386,7 +386,7 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 &emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, see section 2035(c)(2).</b>
 
-(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
+(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, titleI, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
 
 #### Amendment of Section
 

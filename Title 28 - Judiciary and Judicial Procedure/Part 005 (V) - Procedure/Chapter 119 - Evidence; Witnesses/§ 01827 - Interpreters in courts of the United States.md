@@ -46,7 +46,7 @@
 
 (i) The term “presiding judicial officer” as used in this section refers to any judge of a United States district court, including a bankruptcy judge, a United States magistrate judge, and in the case of grand jury proceedings conducted under the auspices of the United States attorney, a United States attorney.
 
-(j) The term “judicial proceedings instituted by the United States” as used in this section refers to all proceedings, whether criminal or civil, including pretrial and grand jury proceedings (as well as proceedings upon a petition for a writ of habeas corpus initiated in the name of the United States by a relator) conducted in, or pursuant to the lawful authority and jurisdiction of a United States district court. The term “United States district court” as used in this subsection includes any court which is created by an Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title.
+(j) The term “judicial proceedings instituted by the United States” as used in this section refers to all proceedings, whether criminal or civil, including pretrial and grand jury proceedings (as well as proceedings upon a petition for a writ of habeas corpus initiated in the name of the United States by a relator) conducted in, orpursuant to the lawful authority and jurisdiction of a United States district court. The term “United States district court” as used in this subsection includes any court which is created by an Act of Congress in a territory and is invested with any jurisdiction of a district court established by chapter 5 of this title.
 
 (k) The interpretation provided by certified or otherwise qualified interpreters pursuant to this section shall be in the simultaneous mode for any party to a judicial proceeding instituted by the United States and in the consecutive mode for witnesses, except that the presiding judicial officer, sua sponte or on the motion of a party, may authorize a simultaneous, or consecutive interpretation when such officer determines after a hearing on the record that such interpretation will aid in the efficient administration of justice. The presiding judicial officer, on such officer's motion or on the motion of a party, may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.
 
@@ -102,7 +102,7 @@ Subsec. (k). Pub. L. 100–702, §709, amended subsec. (k) generally. Prior to a
 
 #### Effective Date of 1988 Amendment
 
-Section 712 of title VII of Pub. L. 100–702 provided that: “This title \[amending this section and enactingprovisions set out as notes under this section and section 1 of this title\] shall become effective upon the date of enactment \[Nov. 19, 1988\].”
+Section 712 of title VII of Pub. L. 100–702 provided that: “This title \[amending this section and enacting provisions set out as notes under this section and section 1 of this title\] shall become effective upon the date of enactment \[Nov. 19, 1988\].”
 
 #### Effective Date
 

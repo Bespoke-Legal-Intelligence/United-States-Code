@@ -42,11 +42,11 @@ Transfer of Selected Functions to Non-Federal Management.—
 
 &emsp;(1)
 
-Agreement.—The Secretary may enter into an agreement with an organization thatrepresents the interests of the States to manage, administer, and operate the National Driver Register's computer timeshare and user assistance functions. If the Secretary decides to enter into such an agreement, the Secretary shall ensure that the management of these functions is compatible with this chapter and the regulations issued to implement this chapter.
+Agreement.—The Secretary may enter into an agreement with an organization that represents the interests of the States to manage, administer, and operate the National Driver Register's computer timeshare and user assistance functions. If the Secretary decides to enter into such an agreement, the Secretary shall ensure that the management of these functions is compatible with this chapter and the regulations issued to implement this chapter.
 
 &emsp;(2)
 
-Required demonstration.—Any transfer of the National Driver Register's computer timeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
+Required demonstration.—Any transfer of the National Driver Register's computertimeshare and user assistance functions to an organization that represents the interests of the States shall begin only after a determination is made by the Secretary that all States are participating in the National Driver Register's “Problem Driver Pointer System” (the system used by the Register to effect the exchange of motor vehicle driving records) and that the system is functioning properly.
 
 &emsp;(3)
 

@@ -142,7 +142,7 @@ Applies.—The provisions specified in this subsection are—
 
 “(a)
 
-General Rule.—In the case of any person, sections 2 and 3 of this Act shall not apply with respect toany land acquired by such person after February 23, 1983, unless such land was acquired in a qualified acquisition.
+General Rule.—In the case of any person, sections 2 and 3 of this Act shall not apply with respect to any land acquired by such person after February 23, 1983, unless such land was acquired in a qualified acquisition.
 
 “(b)
 

@@ -6,7 +6,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 #### (b) State participation in repository siting decisions
 
-(1) Unless otherwise provided by State law, the Governor or legislature of each State shall haveauthority to submit a notice of disapproval to the Congress under paragraph (2). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
+(1) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under paragraph (2). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
 
 (2) Upon the submission by the President to the Congress of a recommendation of a site for a repository, the Governor or legislature of the State in which such site is located may disapprove the site designation and submit to the Congress a notice of disapproval. Such Governor or legislature may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under section 10134 of this title. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why such Governor or legislature disapproved the recommended repository site involved.
 
@@ -18,7 +18,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (B) The Secretary shall make grants to the State of Nevada and any affected unit of local government for purposes of enabling such State or affected unit of local government—
 
-&emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site for purposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
+&emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site forpurposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
 
 &emsp;(ii) to develop a request for impact assistance under paragraph (2);
 
@@ -58,7 +58,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 > whichever occurs first.
 
-(B) The State of Nevada or any affected unit of local government may not receive any furtherassistance under paragraph (2) with respect to a site if repository construction activities or site characterization activities at such site are terminated by the Secretary or if such activities are permanently enjoined by any court.
+(B) The State of Nevada or any affected unit of local government may not receive any further assistance under paragraph (2) with respect to a site if repository construction activities or site characterization activities at such site are terminated by the Secretary or if such activities are permanently enjoined by any court.
 
 (C) At the end of the 2-year period beginning on the effective date of any license to receive and possess for a repository in a State, no Federal funds, shall be made available to such State or affected unit of local government under paragraph (1) or (2), except for—
 

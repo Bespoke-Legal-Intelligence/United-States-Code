@@ -22,7 +22,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that a State has not, within 45 days after the end of a fiscal quarter, submitted the report required by section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
+&emsp;&emsp;If the Secretary determines that a State has not, within 45 days after the end of a fiscal quarter, submitted the report requiredby section 611(a) of this title for the quarter, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by an amount equal to 4 percent of the State family assistance grant.
 
 #### (B) Rescission of penalty
 
@@ -48,7 +48,7 @@ Subject to this section:
 
 #### (C) Penalty based on severity of failure
 
-&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(6) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver orpenalty reduction due to such extraordinary circumstances.
+&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(6) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances.
 
 #### (4) Failure to participate in the income and eligibility verification system
 
@@ -66,7 +66,7 @@ Subject to this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for fiscal year 1998, 1999, 2000, 2001, 2002, or 2003 by the amount (if any) by which qualified State expenditures for the then immediately preceding fiscal year are less than the applicable percentage of historic State expenditures with respect to such preceding fiscal year.
+&emsp;&emsp;The Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for fiscal year 1998, 1999, 2000, 2001, 2002, 2003, 2004, or 2005 by the amount (if any) by which qualified State expenditures for the then immediately preceding fiscal year are less than the applicable percentage of historic State expenditures with respect to such preceding fiscal year.
 
 #### (B) Definitions
 
@@ -102,11 +102,11 @@ Subject to this section:
 
 #### (IV) Eligible families
 
-&emsp;&emsp;&emsp;&emsp;As used in subclause (I), the term “eligible families” means families eligible for assistance under the State program funded under this part, families that would be eligible for such assistance but for the application of section 608(a)(7) of this title, and families of aliens lawfullypresent in the United States that would be eligible for such assistance but for the application of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.
+&emsp;&emsp;&emsp;&emsp;As used in subclause (I), the term “eligible families” means families eligible for assistance under the State program funded under this part, families that would be eligible for such assistance but for the application of section 608(a)(7) of this title, and families of aliens lawfully present in the United States that would be eligible for such assistance but for the application of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.
 
 #### (ii) Applicable percentage
 
-&emsp;&emsp;&emsp;The term “applicable percentage” means for fiscal years 1997 through 2002, 80 percent (or, if the State meets the requirements of section 607(a) of this title for the fiscal year, 75 percent).
+&emsp;&emsp;&emsp;The term “applicable percentage” means for fiscal years 1997 through 2004, 80 percent (or, if the State meets the requirements of section 607(a) of this title for the fiscal year, 75 percent).
 
 #### (iii) Historic State expenditures
 
@@ -138,7 +138,7 @@ Subject to this section:
 
 #### (v) Source of data
 
-&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) of this title.
+&emsp;&emsp;&emsp;In determining expenditures by a State for fiscal years 1994 and 1995, the Secretary shall use information which was reported by the State on ACF Form 231 or (in the case of expenditures under part F of this subchapter) ACF Form 331, available as of the dates specified in clauses (ii) and (iii) of section 603(a)(1)(D) <sup>1</sup> of this title.
 
 #### (8) Noncompliance of State child support enforcement program with requirements of part D
 
@@ -166,7 +166,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;(i) not less than 1 nor more than 2 percent;
 
-&emsp;&emsp;&emsp;(ii) not less than 2 nor more than 3 percent, if the finding is the 2nd consecutivefinding made pursuant to subparagraph (A); or
+&emsp;&emsp;&emsp;(ii) not less than 2 nor more than 3 percent, if the finding is the 2nd consecutive finding made pursuant to subparagraph (A); or
 
 &emsp;&emsp;&emsp;(iii) not less than 3 nor more than 5 percent, if the finding is the 3rd or a subsequent consecutive such finding.
 
@@ -250,7 +250,7 @@ Subject to this section:
 
 #### (2) Effect of correcting or discontinuing violation
 
-&emsp;The Secretary may not impose any penalty under subsection (a) of this section with respect to any violation covered by a State corrective compliance plan accepted by the Secretary if the State corrects or discontinues, as appropriate <sup>1</sup> the violation pursuant to the plan.
+&emsp;The Secretary may not impose any penalty under subsection (a) of this section with respect to any violation covered by a State corrective compliance plan accepted by the Secretary if the State corrects or discontinues, as appropriate <sup>2</sup> the violation pursuant to the plan.
 
 #### (3) Effect of failing to correct or discontinue violation
 
@@ -270,7 +270,7 @@ Subject to this section:
 
 &emsp;To the extent that paragraph (1) of this subsection prevents the Secretary from recovering during a fiscal year the full amount of penalties imposed on a State under subsection (a) of this section for a prior fiscal year, the Secretary shall apply any remaining amount of such penalties to the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year.
 
-(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §409, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2142; amended Pub. L. 105–33, title V, §§5001(a)(2), (g), 5004(a), 5506, 5514(c), Aug. 5, 1997, 111 Stat. 589, 592, 594, 613, 620; Pub. L. 105–200, title I, §101(b), July 16, 1998, 112 Stat. 647; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287; Pub. L. 106–169, title IV, §401(b), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 108–40, §3(g), June 30, 2003, 117 Stat. 837; Pub. L. 108–89, title I, §101(b)(3), Oct. 1, 2003, 117 Stat. 1131.)
 
 #### References in Text
 
@@ -280,13 +280,23 @@ Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act 
 
 Part F of this subchapter, referred to in subsec. (a)(7)(B)(iii)(I), (v), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
+Section 603(a)(1)(D) of this title, referred to in subsec. (a)(7)(B)(v), was repealed by Pub. L. 108–40, §3(a)(2), June 30, 2003, 117 Stat. 836.
+
 #### Prior Provisions
 
 A prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added Nov. 5, 1990, Pub. L. 101–508, title V, §5052(a), 104 Stat. 1388–228, related to exclusion from AFDC unit of child for whom Federal, State, or local foster care maintenance or adoption assistance payments were made, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
-Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related tocommunity work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
+Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related to community work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
 
 #### Amendments
+
+2003—Subsec. (a)(7)(A). Pub. L. 108–89, §101(b)(3)(A), substituted “2004, or 2005” for “or 2004”.
+
+Pub. L. 108–40, §3(g)(1), substituted “2003, or 2004” for “or 2003”.
+
+Subsec. (a)(7)(B)(ii). Pub. L. 108–89, §101(b)(3)(B), substituted “2004” for “2003”.
+
+Pub. L. 108–40, §3(g)(2), substituted “2003” for “2002”.
 
 1999—Subsec. (a)(7)(B)(i)(II). Pub. L. 106–169 made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
@@ -358,11 +368,15 @@ Subsec. (c)(4). Pub. L. 105–33, §5506(m), amended heading and text of par. (4
 
 Pub. L. 105–33, §5001(g)(1)(C), substituted “(12), or (13)” for “or (12)”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
+
 #### Effective Date of 1999 Amendments
 
 Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287, provided that: “The amendments made by this section \[amending thissection and section 655 of this title\] shall take effect on October 1, 1999.”
+Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287, provided that: “The amendments made by this section \[amending this section and section 655 of this title\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1997 Amendment
 
@@ -380,5 +394,7 @@ Section effective July 1, 1997, with delayed effective date for subsec. (a)(2)�
 
 This section is referred to in sections 603, 606, 610, 612, 652, 1308, 9858i of this title; title 7 section 2025.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -48,7 +48,7 @@ Sec. 2. Property transferred to the Postal Service under this order shall be sub
 
 Sec. 3. Reimbursement of fair market value required for property transfers to the Postal Service under this order may consist of cash payments or, subject to approval by the Director of the Office of Management and Budget, property transferred from the Postal Service to other departments, agencies, or independent establishments of the Government of the United States, or both cash and approved properties.
 
-Sec. 4. Heads of agencies furnishing property to the Postal Service under section 411 of title 39 of the United States Code shall require reimbursement at fair market value of such property or at a rate based on appropriate commercial charges for comparable property, as agreed to by the agency head and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation is more equitable or better serves the public interest.
+Sec. 4. Heads of agencies furnishing property to the Postal Service under section 411 of title 39 of theUnited States Code shall require reimbursement at fair market value of such property or at a rate based on appropriate commercial charges for comparable property, as agreed to by the agency head and the Postmaster General, unless the Director of the Office of Management and Budget finds that a different basis of valuation is more equitable or better serves the public interest.
 
 Sec. 5. Delegations of authority made in this order may be redelegated.
 

@@ -48,7 +48,7 @@ To assist in the preparation of the National Urban Policy Report and any supplem
 
 #### (d) Referral
 
-The National Urban Policy Report shall, when transmitted to Congress, be referred in the Senate to the Committee on Banking, Housing, and Urban Affairs, and in the House of Representatives to the Committee on Banking, Finance and Urban Affairs.
+The National Urban Policy Report shall, when transmitted to Congress, be referred in the Senate to the Committee on Banking, Housing, andUrban Affairs, and in the House of Representatives to the Committee on Banking, Finance and Urban Affairs.
 
 (Pub. L. 91–609, title VII, §703, Dec. 31, 1970, 84 Stat. 1792; Pub. L. 95–128, title VI, §601(c), Oct. 12, 1977, 91 Stat. 1143; Pub. L. 102–550, title IX, §921(2), (3), Oct. 28, 1992, 106 Stat. 3883, 3884.)
 

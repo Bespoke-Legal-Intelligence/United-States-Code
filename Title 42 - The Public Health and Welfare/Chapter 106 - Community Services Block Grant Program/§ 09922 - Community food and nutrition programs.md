@@ -34,7 +34,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (B) Competitive grants for local and statewide programs
 
-&emsp;&emsp;The Secretary shall use 40 percent of such excess to make grants under subsection (a)of this section on a competitive basis to eligible agencies for local and statewide programs.
+&emsp;&emsp;The Secretary shall use 40 percent of such excess to make grants under subsection (a) of this section on a competitive basis to eligible agencies for local and statewide programs.
 
 #### (C) Competitive grants for nationwide programs
 
@@ -62,7 +62,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (5) Maximum grants
 
-&emsp;From funds made available under paragraphs (1)(B) and (2)(B) for any fiscal year, the Secretary may not make grants under subsection (a) of this section to an eligible agency in an aggregate amount exceeding $50,000. From funds made available under paragraph (2)(C) for any fiscal year, the Secretary may not make grants under subsection (a) of this section to an eligible agency in an aggregate amount exceeding $300,000.
+&emsp;From funds made available under paragraphs (1)(B) and (2)(B) for any fiscal year, the Secretary may not make grants under subsection (a) of this section to an eligible agency in an aggregate amount exceeding $50,000. From funds made available under paragraph\(2)(C) for any fiscal year, the Secretary may not make grants under subsection (a) of this section to an eligible agency in an aggregate amount exceeding $300,000.
 
 #### (c) Report
 

@@ -34,7 +34,7 @@ There is hereby established the Chattahoochee River National Recreation Area Adv
 
 #### (c) Meetings
 
-The Advisory Commission shall meet on a regular basis. Notice of meetings and agenda shallbe published in local newspapers which have a distribution which generally covers the area affected by the park. Commission meetings shall be held at locations and in such a manner as to insure adequate public involvement.
+The Advisory Commission shall meet on a regular basis. Notice of meetings and agenda shall be published in local newspapers which have a distribution which generally covers the area affected by the park. Commission meetings shall be held at locations and in such a manner as to insure adequate public involvement.
 
 #### (d) Compensation and expenses
 

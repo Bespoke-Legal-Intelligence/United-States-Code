@@ -38,7 +38,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 #### (5) Employee of the Office of the Architect of the Capitol
 
-&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employeeof the Office of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants.
+&emsp;The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants.
 
 #### (6) Employee of the Capitol Police
 
@@ -60,7 +60,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(B) a committee of the House of Representatives or the Senate or a joint committee;
 
-&emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate; or
+&emsp;&emsp;(C) any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employeeof the House of Representatives or the Senate; or
 
 &emsp;&emsp;(D) the Capitol Guide Board, the Capitol Police Board, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
 

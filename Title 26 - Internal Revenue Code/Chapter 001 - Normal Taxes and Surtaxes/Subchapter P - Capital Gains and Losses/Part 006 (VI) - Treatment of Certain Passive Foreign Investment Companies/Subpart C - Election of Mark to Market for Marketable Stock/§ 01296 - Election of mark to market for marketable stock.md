@@ -20,7 +20,7 @@ In the case of marketable stock in a passive foreign investment company which is
 
 &emsp;&emsp;(A) shall be increased by the amount included in the gross income of the United States person under subsection (a)(1) with respect to such stock, and
 
-&emsp;&emsp;(B) shall be decreased by the amount allowed as a deduction to the United Statesperson under subsection (a)(2) with respect to such stock.
+&emsp;&emsp;(B) shall be decreased by the amount allowed as a deduction to the United States person under subsection (a)(2) with respect to such stock.
 
 #### (2) Special rule for stock constructively owned
 

@@ -24,7 +24,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (A) In general
 
-&emsp;&emsp;Children who are economically disadvantaged, children with disabilities, migrant children or limited English proficient children, are eligible for services under this part on the same basis as other children selected to receive services under this part.
+&emsp;&emsp;Children who are economically disadvantaged, children with disabilities, migrantchildren or limited English proficient children, are eligible for services under this part on the same basis as other children selected to receive services under this part.
 
 #### (B) Head Start, Even Start, or Early Reading First children
 
@@ -50,7 +50,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (1) In general
 
-&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their studentsserved under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
+&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
 
 &emsp;&emsp;(A) use such program's resources under this part to help participating children meet such State's challenging student academic achievement standards expected for all children;
 
@@ -88,7 +88,7 @@ To promote the integration of staff supported with funds under this part into th
 
 &emsp;(1) participate in general professional development and school planning activities; and
 
-&emsp;(2) assume limited duties that are assigned to similar personnel who are not so paid, including duties beyond classroom instruction or that do not benefit participating children, so long as the amount of time spent on such duties is the same proportion of total work time as prevails with respect to similar personnel at the same school.
+&emsp;(2) assume limited duties that are assigned to similar personnel who are not so paid, including duties beyond classroom instruction or that do not benefit participating children, so long as the amount of time spent on suchduties is the same proportion of total work time as prevails with respect to similar personnel at the same school.
 
 #### (e) Special rules
 

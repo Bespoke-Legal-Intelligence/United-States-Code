@@ -32,7 +32,7 @@ No cooperation with any nation, group of nations or regional defense organizatio
 
 #### (c) Submittal of proposed agreements for cooperation to Congressional committees
 
-&emsp;the proposed agreement for cooperation (if not an agreement subject to subsection (d) of this section), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in section 2159(g) of this title): <i>Provided, however</i>, That these committees, after having received such agreement for cooperation, may by resolution in writing waive the conditions of all or any portion of such thirty-day period; and
+&emsp;the proposed agreement for cooperation (if not an agreement subject to subsection (d) of this section), together with the approval and determination of the President, has been submitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of thirty days of continuous session (as defined in section 2159(g) of this title): <i>Provided, however</i>, That these committees, after having received such agreement for cooperation, may by resolution in writing waive theconditions of all or any portion of such thirty-day period; and
 
 #### (d) Congressional action
 
@@ -126,7 +126,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Applicability of Notice and Wait Provisions
 
-Section 3155(b) of Pub. L. 103–337, as amended by Pub. L. 104–106, div. C, title XXXI, §3154(b), Feb. 10, 1996, 110Stat. 624; Pub. L. 104–201, div. C, title XXXI, §3160, Sept. 23, 1996, 110 Stat. 2843, provided that: “Section 123 d. of the Atomic Energy Act of 1954 (42 U.S.C. 2153(d)), as amended by subsection (c), shall not apply to a proposed agreement for cooperation under section 144 d. of such Act \[42 U.S.C. 2164(d)\], as inserted by subsection (a), until October 1, 1997.”
+Section 3155(b) of Pub. L. 103–337, as amended by Pub. L. 104–201, div. C, title XXXI, §3160, Sept. 23, 1996, 110 Stat. 2843; Pub. L. 107–314, div. D, title XLV, §4501(b), formerly Pub. L. 104–106, div. C, title XXXI, §3154(b), Feb. 10, 1996, 110 Stat. 624, renumbered §4501(b) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(h)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1771, provided that: “Section 123 d. of the Atomic Energy Act of 1954 (42 U.S.C. 2153(d)), as amended by subsection (c), shall not apply to a proposed agreement for cooperation under section 144 d. of such Act \[42 U.S.C. 2164(d)\], as inserted by subsection (a), until October 1, 1997.”
 
 #### Performance of Functions Pending Development of Procedures
 

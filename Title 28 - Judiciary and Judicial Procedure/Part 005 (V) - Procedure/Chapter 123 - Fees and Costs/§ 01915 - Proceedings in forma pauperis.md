@@ -74,7 +74,7 @@ Changes in phraseology were made.
 
 #### 1949 Act
 
-This amendment clarifies the meaning of subsection (b) of section 1915 of title 28, U.S.C., and supplies, insubsection (e) of section 1915, an inadvertent omission to make possible the recovery of public funds expended in printing the record for persons successfully suing in forma pauperis.
+This amendment clarifies the meaning of subsection (b) of section 1915 of title 28, U.S.C., and supplies, in subsection (e) of section 1915, an inadvertent omission to make possible the recovery of public funds expended in printing the record for persons successfully suing in forma pauperis.
 
 #### Amendments
 

@@ -68,13 +68,13 @@ It is the policy of Congress that it is in the national interest for the Secreta
 
 #### (d) Construction
 
-This chapter shall be construed to complement the policies and direction under theForest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
+This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
 (Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, known as the Cooperative Forestry Assistance Act of 1978. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, known as the Cooperative Forestry Assistance Act of 1978. For complete classification ofthis Act to the Code, see Short Title note set out below and Tables.
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (d), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
@@ -154,7 +154,7 @@ Purpose.—The purpose of this section is to authorize the President to designat
 
 “(b)
 
-Authority.—The President is authorized to designate a private nonprofit organization (hereafter in this section referred to as the ‘Foundation’) as eligible to receive funds pursuant to subsections (d) and (e) upon determining that such organization can, consistent with its charter, carry out the purposes stated in subsection (a), and that the officers of such organization have the experience and expertise necessary to direct the activities of the organization. Nothing in this section shall be construed to make officers, employees, or members of the board of directors of the Foundation officers or employees of the United States. The Foundation shall be a private and nonprofit organization and not an agency or establishment of the United States.
+Authority.—The President is authorized to designate a private nonprofit organization (hereafter inthis section referred to as the ‘Foundation’) as eligible to receive funds pursuant to subsections (d) and (e) upon determining that such organization can, consistent with its charter, carry out the purposes stated in subsection (a), and that the officers of such organization have the experience and expertise necessary to direct the activities of the organization. Nothing in this section shall be construed to make officers, employees, or members of the board of directors of the Foundation officers or employees of the United States. The Foundation shall be a private and nonprofit organization and not an agency or establishment of the United States.
 
 “(c)
 

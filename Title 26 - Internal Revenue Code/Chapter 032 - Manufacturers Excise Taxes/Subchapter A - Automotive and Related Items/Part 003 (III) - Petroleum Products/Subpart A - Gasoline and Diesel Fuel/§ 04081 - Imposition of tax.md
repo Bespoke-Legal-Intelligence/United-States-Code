@@ -104,7 +104,7 @@ Under regulations prescribed by the Secretary—
 
 #### (i) Mixtures containing ethanol
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), in the case of a qualified alcohol mixture which contains gasoline, the alcohol mixture rate is the excess of the rate which would (but for this paragraph) be determined under subsection (a) over—
+&emsp;&emsp;&emsp;Except as provided in clause (ii), in the case of a qualified alcohol mixture whichcontains gasoline, the alcohol mixture rate is the excess of the rate which would (but for this paragraph) be determined under subsection (a) over—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of 10 percent gasohol, the applicable blender rate (as defined in section 4041(b)(2)(C)) per gallon,
 
@@ -172,7 +172,7 @@ Under regulations prescribed by the Secretary—
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1),\(14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426,1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503.)
 
 #### References in Text
 
@@ -250,7 +250,7 @@ Subsec. (a)(3). Pub. L. 101–508, §11212(e)(2), struck out par. (3) which read
 
 Subsec. (c)(1). Pub. L. 101–508, §11211(a)(5)(A), substituted “applied by substituting rates which are 10/9th of the otherwise applicable rates” for “applied by substituting ‘31/3 cents’ for ‘9 cents’ and by substituting ‘1/9 cent’ for ‘0.1 cent’ ” and inserted “For purposes of this subsection, in the case of the Highway Trust Fund financing rate, the otherwise applicable rate is 6.1 cents a gallon.”
 
-Subsec. (c)(2). Pub. L. 101–508, §11211(a)(5)(B), which directed the substitution of “at a Highway Trust Fund financing rate equivalent to 6.1 cents” for “at a rate equivalent to 3 cents”, was executed by making the substitution for “at a Highway Trust Fund financing rate equivalent to 3 cents” to reflect the probable intent of Congress. See 1986 Amendment note below.
+Subsec. (c)(2). Pub. L. 101–508, §11211(a)(5)(B), which directed the substitution of “at a Highway Trust Fund financing rate equivalent to 6.1 cents” for “at a rate equivalent to 3 cents”, was executed by making thesubstitution for “at a Highway Trust Fund financing rate equivalent to 3 cents” to reflect the probable intent of Congress. See 1986 Amendment note below.
 
 Subsec. (c)(4). Pub. L. 101–508, §11211(a)(5)(C), added par. (4). Former par. (4) redesignated (5).
 
@@ -346,7 +346,7 @@ Subsec. (c)(3). Pub. L. 98–369, §912(f), substituted “coal (including peat)
 
 1983—Subsec. (a). Pub. L. 97–424, §511(a)(1), increased tax from 4 to 9 cents a gallon.
 
-Subsec. (b). Pub. L. 97–424, §516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, on and after Oct. 1, 1984, the tax imposed by this section would be 11/2 cents a gallon.
+Subsec. (b). Pub. L. 97–424, §516(a)(3), substituted provision that, on and after Oct. 1, 1988, the taxes imposed by this section shall not apply, for provision that, onand after Oct. 1, 1984, the tax imposed by this section would be 11/2 cents a gallon.
 
 Subsec. (c)(1). Pub. L. 97–424, §511(d)(1)(A), substituted “subsection (a) shall be applied by substituting ‘4 cents’ for ‘9 cents’ in the case of the sale of any gasoline” for “no tax shall be imposed by this section on the sale of any gasoline” after “Secretary,”.
 
@@ -450,7 +450,7 @@ Amendment by section 912(b), (f) of Pub. L. 98–369 effective Jan. 1, 1985, see
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 511(a)(1), (d)(1) of Pub. L. 97–424 effective Apr. 1, 1983, see section 511(h)(1) of Pub. L. 97–424, set out as a note under section 4041 of this title.
+Amendment by section 511(a)(1), (d)(1) of Pub. L. 97–424 effective Apr. 1, 1983, see section 511(h)(1) of Pub.L. 97–424, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1980 Amendment
 

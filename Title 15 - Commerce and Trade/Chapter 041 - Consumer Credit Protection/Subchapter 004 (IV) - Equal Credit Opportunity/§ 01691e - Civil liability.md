@@ -2,11 +2,11 @@
 
 #### (a) Individual or class action for actual damages
 
-Any creditor who fails to comply with any requirement imposed under this subchapter shallbe liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
+Any creditor who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
 
 #### (b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award
 
-Any creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a) of this section, except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net worth of the creditor. In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures of compliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional.
+Any creditor, other than a government or governmental subdivision or agency, who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, in addition to any actual damages provided in subsection (a) of this section, except that in the case of a class action the total recovery under this subsection shall not exceed the lesser of $500,000 or 1 per centum of the net worth of the creditor. In determining the amount of such damages in any action, the court shall consider, among other relevant factors, the amount of any actual damages awarded, the frequency and persistence of failures ofcompliance by the creditor, the resources of the creditor, the number of persons adversely affected, and the extent to which the creditor's failure of compliance was intentional.
 
 #### (c) Action for equitable and declaratory relief
 
@@ -62,7 +62,7 @@ Whenever an agency referred to in paragraph (1), (2), or (3) of section 1691c(a)
 
 #### References in Text
 
-Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
+Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act\(42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
 
 The Fair Housing Act, referred to in subsec. (k), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 

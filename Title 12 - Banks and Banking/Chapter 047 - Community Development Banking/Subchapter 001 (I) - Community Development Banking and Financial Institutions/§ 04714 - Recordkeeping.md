@@ -14,7 +14,7 @@ The Fund shall have access on demand, for the purpose of determining compliance 
 
 #### (d) Review
 
-Not less than annually, the Fund shall review the progress of each assisted community development financial institution in carrying out its strategic plan, meeting its performance goals,and satisfying the terms and conditions of its assistance agreement.
+Not less than annually, the Fund shall review the progress of each assisted community development financial institution in carrying out its strategic plan, meeting its performance goals, and satisfying the terms and conditions of its assistance agreement.
 
 #### (e) Reporting
 

@@ -166,7 +166,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (A) Monitoring
 
-&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
+&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determineemployment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
 
 #### (B) Improvements to establish secure system
 
@@ -278,7 +278,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;In conducting investigations and hearings under this subsection—
 
-&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable accessto examine evidence of any person or entity being investigated,
+&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated,
 
 &emsp;&emsp;(B) administrative law judges, may, if necessary, compel by subpoena the attendance of witnesses and the production of evidence at any designated place or hearing, and
 
@@ -308,7 +308,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(i) not less than $250 and not more than $2,000 for each unauthorized alien with respect to whom a violation of either such subsection occurred,
 
-&emsp;&emsp;&emsp;(ii) not less than $2,000 and not more than $5,000 for each such alien in the case of a person or entity previously subject to one order under this paragraph, or
+&emsp;&emsp;&emsp;(ii) not less than $2,000 and not more than $5,000 for each such alien in the caseof a person or entity previously subject to one order under this paragraph, or
 
 &emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the case of a person or entity previously subject to more than one order under this paragraph; and
 
@@ -364,7 +364,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Documentation
 
-&emsp;In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall provide that any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
+&emsp;In providing documentation or endorsement of authorization of aliens (other than alienslawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall provide that any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
 
 #### (2) Preemption
 
@@ -448,9 +448,9 @@ Section 379(b) of div. C of Pub. L. 104–208 provided that: “The amendments m
 
 Section 411(b) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to failures occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
-Section 412(e) of div. C of Pub. L. 104–208, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175, provided that:
+Section 412(e) of div. C of Pub. L. 104–208, as amended by Pub. L. 105–54, §3(a), Oct. 6, 1997, 111 Stat. 1175; Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Attorney General shall designate.
+“(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Secretary of Homeland Security shall designate.
 
 “(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on or after 60 days after the date of the enactment of this Act.
 
@@ -510,23 +510,23 @@ Authority of President under subsec. (d)(4) of this section to undertake demonst
 
 #### Pilot Programs for Employment Eligibility Confirmation
 
-Subtitle A of title IV of div. C of Pub. L. 104–208, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407, provided that:
+Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§2, 3, Dec. 3, 2003, 117 Stat. 1944, provided that:
 
 #### “SEC. 401. ESTABLISHMENT OF PROGRAMS.
 
 “(a)
 
-In General.—The Attorney General shall conduct 3 pilot programs of employment eligibility confirmation under this subtitle.
+In General.—The Secretary of Homeland Security shall conduct 3 pilot programs of employment eligibility confirmation under this subtitle.
 
 “(b)
 
-Implementation Deadline; Termination.—The Attorney General shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Attorney General shall terminate a pilot program at the end of the 6-year period beginning on the first day the pilot program is in effect.
+Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program at the end of the 11-year period beginning on the first day the pilot program is in effect.
 
 “(c)
 
-Scope of Operation of Pilot Programs.—The Attorney General shall provide for the operation—
+Scope of Operation of Pilot Programs.—The Secretary of Homeland Security shall provide for the operation—
 
-&emsp;“(1) of the basic pilot program (described in section 403(a) of this division) in, at a minimum, 5 of the 7 States with the highest estimated population of aliens who are not lawfully present in the United States;
+&emsp;“(1) of the basic pilot program (described in section 403(a) of this division) in, at a minimum, 5 of the 7 States with the highest estimated population of aliens who are not lawfully present in the United States, and the Secretary of Homeland Security shall expand the operation of the program to all 50 States not later than December 1, 2004;
 
 &emsp;“(2) of the citizen attestation pilot program (described in section 403(b) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(b)(2)(A) of this division; and
 
@@ -550,7 +550,7 @@ References to section 274a.—Any reference in this subtitle to section 274A (or
 
 &emsp;“(4) I–9
 
-or similar form.—The term ‘I–9 or similar form’ means the form used for purposes of section 274A(b)(1)(A) or such other form as the Attorney General determines to be appropriate.
+or similar form.—The term ‘I–9 or similar form’ means the form used for purposes of section 274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate.
 
 &emsp;“(5)
 
@@ -568,7 +568,7 @@ State.—The term ‘State’ has the meaning given such term in section 101(a)(
 
 “(a)
 
-Voluntary Election.—Subject to subsection (c)(3)(B), any person or other entity that conducts any hiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Attorney General may not require any person or other entity to participate in a pilot program.
+Voluntary Election.—Subject to subsection (c)(3)(B), any person or other entity that conducts any hiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Secretary of Homeland Security may not require any person or other entity to participate in a pilot program.
 
 “(b)
 
@@ -588,7 +588,7 @@ General Terms of Elections.—
 
 &emsp;“(1)
 
-In general.—An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the AttorneyGeneral shall specify. The Attorney General may not impose any fee as a condition of making an election or participating in a pilot program.
+In general.—An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the Secretary of Homeland Security shall specify. The Secretary of Homeland Security may not impose any fee as a condition of making an election or participating in a pilot program.
 
 &emsp;“(2)
 
@@ -604,27 +604,13 @@ In general.—Subject to paragraph (3), any electing person or other entity may 
 
 &emsp;&emsp;“(B)
 
-Application of programs in non-pilot program states.—In addition, the Attorney General may permit a person or entity electing—
+Application of programs in non-pilot program states.—In addition, the Secretary of Homeland Security may permit a person or entity electing the citizen attestation pilot program
 
-&emsp;&emsp;&emsp;“(i) the basic pilot program (described in section 403(a) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating, or
-
-&emsp;&emsp;&emsp;“(ii) the citizen attestation pilot program (described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively.
+(described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively.
 
 &emsp;“(3)
 
-Acceptance and rejection of elections.—
-
-&emsp;&emsp;“(A)
-
-In general.—Except as provided in subparagraph (B), the Attorney General shall accept all elections made under subsection (a).
-
-&emsp;&emsp;“(B)
-
-Rejection of elections.—The Attorney General may reject an election by a person or other entity under this section or limit its applicability to certain States or places of hiring (or recruitment or referral) if the Attorney General has determined that there are insufficient resources to provide appropriate services under a pilot program for the person's or entity's hiring (or recruitment or referral) in any or all States or places of hiring.
-
-&emsp;“(4)
-
-Termination of elections.—The Attorney General may terminate an election by a person or other entity under this section because the person or entity has substantially failed to comply with its obligations under the pilot program. A person or other entity may terminate an election in such form and manner as the Attorney General shall specify.
+Termination of elections.—The Secretary of Homeland Security may terminate an election by a person or other entity under this section because the person or entity has substantially failed to comply with its obligations under the pilot program. A person or other entity may terminate an election in such form and manner as the Secretary of Homeland Security shall specify.
 
 “(d)
 
@@ -632,15 +618,15 @@ Consultation, Education, and Publicity.—
 
 &emsp;“(1)
 
-Consultation.—The Attorney General shall closely consult with representatives of employers (and recruiters and referrers) in the development and implementation of the pilot programs, including the education of employers (and recruiters and referrers) about such programs.
+Consultation.—The Secretary of Homeland Security shall closely consult with representatives of employers (and recruiters and referrers) in the development and implementation of the pilot programs, including the education of employers (and recruiters and referrers) about such programs.
 
 &emsp;“(2)
 
-Publicity.—The Attorney General shall widely publicize the election process and pilot programs, including the voluntary nature of the pilot programs and the advantages to employers (and recruiters and referrers) of making an election under this section.
+Publicity.—The Secretary of Homeland Security shall widely publicize the election process and pilot programs, including the voluntary nature of the pilot programs and the advantages to employers (and recruiters and referrers) of making an election under this section.
 
 &emsp;“(3)
 
-Assistance through district offices.—The Attorney General shall designate one or more individuals in each District office of the Immigration and Naturalization Service for a Service District in which a pilot program is being implemented—
+Assistance through district offices.—The Secretary of Homeland Security shall designate one or more individuals in each District office of the Immigration and Naturalization Service for a Service District in which a pilot program is being implemented—
 
 &emsp;&emsp;“(A) to inform persons and other entities that seek information about pilot programs of the voluntary nature of such programs, and
 
@@ -672,7 +658,7 @@ Election.—Subject to clause (iii), the Secretary of each such Department—
 
 &emsp;&emsp;&emsp;“(iii)
 
-Role of attorney general.—The Attorney General shall assist and coordinate elections under this subparagraph in such manner as assures that—
+Role of secretary of homeland security.—The Secretary of Homeland Security shall assist and coordinate elections under this subparagraph in such manner as assures that—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a significant portion of the total hiring within each Department within States covered by a pilot program is covered under such a program, and
 
@@ -698,7 +684,7 @@ Consequence of failure to participate.—If a person or other entity is required
 
 “(f)
 
-Construction.—This subtitle shall not affect the authority of the Attorney General under any other law (including section 274A(d)(4)) to conduct demonstration projects in relation to section 274A.
+Construction.—This subtitle shall not affect the authority of the Secretary of Homeland Security under any other law (including section 274A(d)(4)) to conduct demonstration projects in relation to section 274A.
 
 #### “SEC. 403. PROCEDURES FOR PARTICIPANTS IN PILOT PROGRAMS.
 
@@ -712,7 +698,7 @@ Provision of additional information.—The person or entity shall obtain from th
 
 &emsp;&emsp;“(A) the individual's social security account number, if the individual has been issued such a number, and
 
-&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), suchidentification or authorization number established by the Immigration and Naturalization Service for the alien as the Attorney General shall specify,
+&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
 
 > &emsp;and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3).
 
@@ -724,7 +710,7 @@ Presentation of documentation.—
 
 In general.—The person or other entity, and the individual whose identity and employment eligibility are being confirmed, shall, subject to subparagraph (B), fulfill the requirements of section 274A(b) with the following modifications:
 
-&emsp;&emsp;&emsp;“(i) A document referred to in section 274A(b)(1)(B)(ii) (as redesignated by section 412(a) of this division) must be designated by the Attorney General as suitable for the purpose of identification in a pilot program.
+&emsp;&emsp;&emsp;“(i) A document referred to in section 274A(b)(1)(B)(ii) (as redesignated by section 412(a) of this division) must be designated by the Secretary of Homeland Security as suitable for the purpose of identification in a pilot program.
 
 &emsp;&emsp;&emsp;“(ii) A document referred to in section 274A(b)(1)(D) must contain a photograph of the individual.
 
@@ -732,13 +718,13 @@ In general.—The person or other entity, and the individual whose identity and 
 
 &emsp;&emsp;“(B)
 
-Limitation of requirement to examine documentation.—If the Attorney General finds that a pilot program would reliably determine with respect to an individual whether—
+Limitation of requirement to examine documentation.—If the Secretary of Homeland Security finds that a pilot program would reliably determine with respect to an individual whether—
 
 &emsp;&emsp;&emsp;“(i) the person with the identity claimed by the individual is authorized to work in the United States, and
 
 &emsp;&emsp;&emsp;“(ii) the individual is claiming the identity of another person,
 
-&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Attorney General may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
+&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
 
 &emsp;“(3)
 
@@ -746,7 +732,7 @@ Seeking confirmation.—
 
 &emsp;&emsp;“(A)
 
-In general.—The person or other entity shall make an inquiry, as provided in section 404(a)(1) of this division, using the confirmation system to seek confirmation of the identity and employment eligibility of an individual, by not later than the end of 3 working days (as specified by the Attorney General) after the date of the hiring (or recruitment or referral, as the case may be).
+In general.—The person or other entity shall make an inquiry, as provided in section 404(a)(1) of this division, using the confirmation system to seek confirmation of the identity and employment eligibility of an individual, by not later than the end of 3 working days (as specified by the Secretary of Homeland Security) after the date of the hiring (or recruitment or referral, as the case may be).
 
 &emsp;&emsp;“(B)
 
@@ -786,7 +772,7 @@ Consequences of nonconfirmation.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Termination or notification of continued employment.—If the person or other entity has received a final nonconfirmation regarding an individual under subparagraph (B), the person or entity may terminate employment (or recruitment or referral) of the individual. If the person or entity does not terminate employment (or recruitment or referral) of the individual, the person or entity shall notify the Attorney General of such fact through the confirmation system or in such other manner as the Attorney General may specify.
+Termination or notification of continued employment.—If the person or other entity has received a final nonconfirmation regarding an individual under subparagraph (B), the person or entity may terminate employment (or recruitment or referral) of the individual. If the person or entity does not terminate employment (or recruitment or referral) of the individual, the person or entity shall notify the Secretary of Homeland Security of such fact through the confirmation system or in such other manner as the Secretary of Homeland Security may specify.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -810,15 +796,15 @@ Restrictions.—
 
 &emsp;&emsp;“(A)
 
-State document requirement to participate in pilot program.—The Attorney Generalmay not provide for the operation of the citizen attestation pilot program in a State unless each driver's license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—
+State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the citizen attestation pilot program in a State unless each driver's license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—
 
 &emsp;&emsp;&emsp;“(i) contains a photograph of the individual involved, and
 
-&emsp;&emsp;&emsp;“(ii) has been determined by the Attorney General to have security features, and to have been issued through application and issuance procedures, which make such document sufficiently resistant to counterfeiting, tampering, and fraudulent use that it is a reliable means of identification for purposes of this section.
+&emsp;&emsp;&emsp;“(ii) has been determined by the Secretary of Homeland Security to have security features, and to have been issued through application and issuance procedures, which make such document sufficiently resistant to counterfeiting, tampering, and fraudulent use that it is a reliable means of identification for purposes of this section.
 
 &emsp;&emsp;“(B)
 
-Authorization to limit employer participation.—The Attorney General may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Attorney General determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud.
+Authorization to limit employer participation.—The Secretary of Homeland Security may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Secretary of Homeland Security determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud.
 
 &emsp;“(3)
 
@@ -834,15 +820,15 @@ Waiver of document presentation requirement in certain cases.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of a person or entity that elects, in a manner specified by the Attorney General consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b).
+In general.—In the case of a person or entity that elects, in a manner specified by the Secretary of Homeland Security consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b).
 
 &emsp;&emsp;“(B)
 
-Restriction.—The Attorney General shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers.
+Restriction.—The Secretary of Homeland Security shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers.
 
 &emsp;“(5)
 
-Nonreviewable determinations.—The determinations of the Attorney General under paragraphs (2) and (4) are within the discretion of the Attorney General and are not subject to judicial or administrative review.
+Nonreviewable determinations.—The determinations of the Secretary of Homeland Security under paragraphs (2) and (4) are within the discretion of the Secretary of Homeland Security and are not subject to judicial or administrative review.
 
 “(c)
 
@@ -854,7 +840,7 @@ In general.—Except as provided in paragraph (3), the procedures applicable und
 
 &emsp;“(2)
 
-State document requirement to participate in pilot program.—The Attorney General may not provide for the operation of the machine-readable-document pilot program in a State unless driver's licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number.
+State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the machine-readable-document pilot program in a State unless driver's licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number.
 
 &emsp;“(3)
 
@@ -868,13 +854,13 @@ Protection From Liability for Actions Taken on the Basis of Information Provided
 
 “(a)
 
-In General.—The Attorney General shall establish a pilot program confirmation system through which the Attorney General (or a designee of the Attorney General, which may be a nongovernmental entity)—
+In General.—The Secretary of Homeland Security shall establish a pilot program confirmation system through which the Secretary of Homeland Security (or a designee of the Secretary of Homeland Security, which may be a nongovernmental entity)—
 
 &emsp;“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual's identity and whether the individual is authorized to be employed, and
 
 &emsp;“(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs.
 
-> To the extent practicable, the Attorney General shall seek to establish such a system using one or more nongovernmental entities.
+> To the extent practicable, the Secretary of Homeland Security shall seek to establish such a system using one or more nongovernmental entities.
 
 “(b)
 
@@ -882,7 +868,7 @@ Initial Response.—The confirmation system shall provide confirmation or a tent
 
 “(c)
 
-Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Attorney General shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
+Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
 
 “(d)
 
@@ -928,23 +914,29 @@ No national identification card.—Nothing in this subtitle shall be construed t
 
 #### “SEC. 405. REPORTS.
 
-“The Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate reports on the pilot programs within 3 months after the end of the third and fourth years in which the programs are in effect. Such reports shall—
+“(a)
+
+In General.—The Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate reports on the pilot programs within 3 months after the end of the third and fourth years in which the programs are in effect. Such reports shall—
 
 &emsp;“(1) assess the degree of fraudulent attesting of United States citizenship,
 
 &emsp;“(2) include recommendations on whether or not the pilot programs should be continued or modified, and
 
-&emsp;“(3) assess the benefits of the pilot programs to employers and the degree to which they assist in the enforcement of section 274A.”
+&emsp;“(3) assess the benefits of the pilot programs to employers and the degree to which they assist in the enforcement of section 274A.
+
+“(b)
+
+Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report—
+
+&emsp;“(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and
+
+&emsp;“(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the basic pilot program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a).”
 
 \[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: “The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\].”\]
 
 #### Report on Additional Authority or Resources Needed for Enforcement of Employer Sanctions Provisions
 
-Section 413(a) of div. C of Pub. L. 104–208 provided that: “Not later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report on any additional authority or resources needed—
-
-&emsp;“(1) by the Immigration and Naturalization Service in order to enforce section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], or
-
-&emsp;“(2) by Federal agencies in order to carry out the Executive Order of February 13, 1996 (entitled ‘Economy and Efficiency in Government Procurement Through Compliance with Certain Immigration and Naturalization \[Nationality\] Act Provisions’) \[Ex. Ord. No. 12989, set out below\] and to expand the restrictions in such order to cover agricultural subsidies, grants, job training programs, and other Federally subsidized assistance programs.”
+Pub. L. 104–208, div. C, title IV, §413(a), Sept. 30, 1996, 110 Stat. 3009–668, as amended by Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, provided that not later than 1 year after Sept. 30, 1996, the Secretary of Homeland Security was to submit to the Committees on the Judiciary of the House of Representatives and of the Senate a report on any additional authority or resources needed by the Immigration and Naturalization Service in order to enforce section 1324a of this title, or by Federal agencies in order to carry out Ex. Ord. No. 12989, set out below, and to expand the restrictions in such order to cover agricultural subsidies, grants, job training programs, and other Federally subsidized assistance programs.
 
 #### Pilot Projects for Secure Documents
 
@@ -1016,7 +1008,7 @@ Section 402 of Pub. L. 99–603 provided that: “The President shall transmit t
 
 &emsp;&emsp;“(C) the violation of terms and conditions of nonimmigrant visas by foreign visitors.”
 
-\[Functions of President under section 402 of Pub. L. 99–603 delegated to Secretary of Homeland Security, except functions in section 402(3)(A) which were delegated to Secretary of Labor, by sections 1(b) and 2(a) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
+\[Functions of President under section 402 of Pub. L. 99–603 delegated to Secretary of Homeland Security, except functions in section 402(3)(A) which were delegated to Secretary of Labor, by sections 1(b) and 2(a) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, as amended, set out as a note under section 1364 of this title.\]
 
 #### Ex. Ord. No. 12989. Economy and Efficiency in Government Procurement Through Compliance With Certain Immigration and Nationality Act Provisions
 
@@ -1028,7 +1020,7 @@ NOW, THEREFORE, to ensure the economical and efficient administration and comple
 
 Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens. All discretion under this Executive order shall be exercised consistent with this policy.
 
-(b) It remains the policy of this Administration to fully and aggressively enforce the antidiscrimination provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to the fullest extent. Nothing in this order relieves employers from their obligation to avoid unfair immigration-related employment practices as required by the antidiscrimination provisions of section 1324(b) \[274B\] of the INA (8 U.S.C. 1324b) and all other antidiscrimination requirements of applicable law, including the requirements of 8 U.S.C. 1324b(a)(6)concerning the treatment of certain documentary practices as unfair immigration-related employment practices.
+(b) It remains the policy of this Administration to fully and aggressively enforce the antidiscrimination provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to the fullest extent. Nothing in this order relieves employers from their obligation to avoid unfair immigration-related employment practices as required by the antidiscrimination provisions of section 1324(b) \[274B\] of the INA (8 U.S.C. 1324b) and all other antidiscrimination requirements of applicable law, including the requirements of 8 U.S.C. 1324b(a)(6) concerning the treatment of certain documentary practices as unfair immigration-related employment practices.
 
 Sec. 2. Contractor, as used in this Executive order, shall have the same meaning as defined in subpart 9.4 of the Federal Acquisition Regulation.
 

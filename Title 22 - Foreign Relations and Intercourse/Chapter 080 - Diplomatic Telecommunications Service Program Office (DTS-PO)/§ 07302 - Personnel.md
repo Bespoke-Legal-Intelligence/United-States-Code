@@ -68,7 +68,7 @@
 
 #### (i) Semiannual reports
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), beginning on August 1, 2001, and every 6 monthsthereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), beginning on August 1, 2001, and every 6 months thereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
 
 #### (ii) Submittal date of reports to congressional intelligence committees
 
@@ -120,7 +120,7 @@ Effective upon the first appointment of a CEO pursuant to subsection (a) of this
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
 

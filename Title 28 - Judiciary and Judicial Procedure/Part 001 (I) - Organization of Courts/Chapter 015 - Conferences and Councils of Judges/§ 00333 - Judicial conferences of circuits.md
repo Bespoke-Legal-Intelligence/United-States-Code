@@ -42,7 +42,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 

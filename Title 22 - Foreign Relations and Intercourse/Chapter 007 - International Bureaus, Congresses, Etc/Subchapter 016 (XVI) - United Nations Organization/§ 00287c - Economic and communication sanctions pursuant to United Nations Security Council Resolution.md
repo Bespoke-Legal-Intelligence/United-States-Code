@@ -96,7 +96,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (b) To the extent consistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, licenses, contracts, agreements, and other actions made, issued, taken, or entered into under the provisions of such Executive orders and not previously revoked, superseded, or otherwise made inapplicable, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of othergovernment agencies, shall retain the authority and responsibility for the enforcement of Executive Orders 11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
+1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall retain the authority and responsibility for the enforcement of Executive Orders 11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
 
 (b) The revocation, in Section 1–101 of this order, of such prior Executive orders shall not affect:
 
@@ -140,7 +140,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 sections 3409, 3413.
+This section is referred to in title 12 sections 3409, 3413; title 26 section 501.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “fined”.</i>
 

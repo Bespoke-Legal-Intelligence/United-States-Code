@@ -18,7 +18,7 @@ General Authority.—(1) The Secretary of Transportation may make grants and loa
 
 &emsp;(G) mass transportation projects planned, designed, and carried out to meet the special needs of elderly individuals and individuals with disabilities; and
 
-&emsp;(H) the development of corridors to support fixed guideway systems, including protecting rights of way through acquisition, construction of dedicated bus and high occupancy vehicle lanes and park and ride lots, and other nonvehicular capital improvements that the Secretary may decide would result in increased mass transportation usage in the corridor.
+&emsp;(H) the development of corridors to support fixed guideway systems, including protectingrights of way through acquisition, construction of dedicated bus and high occupancy vehicle lanes and park and ride lots, and other nonvehicular capital improvements that the Secretary may decide would result in increased mass transportation usage in the corridor.
 
 (2) The Secretary of Transportation shall require that all grants and loans under this subsection be subject to all terms, conditions, requirements, and provisions the Secretary decides are necessary or appropriate for the purposes of this section, including requirements for the disposition of net increases in value of real property resulting from the project assisted under this section.
 
@@ -90,7 +90,7 @@ Local financial commitment.—
 
 Evaluation of project.—In evaluating a project under paragraph (1)(C), the Secretary shall require that—
 
-&emsp;&emsp;&emsp;(i) the proposed project plan provides for the availability of contingency amounts that the Secretary determines to be reasonable to cover unanticipated cost increases;
+&emsp;&emsp;&emsp;(i) the proposed project plan provides for the availability of contingency amountsthat the Secretary determines to be reasonable to cover unanticipated cost increases;
 
 &emsp;&emsp;&emsp;(ii) each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable; and
 
@@ -178,7 +178,7 @@ Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreeme
 
 (B) A work agreement under this paragraph obligates an amount of available budget authority specified in law and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary of Transportation decides are appropriate to make efficient, long-term project management easier. A work agreement shall cover the period of time the Secretary considers appropriate. The period may extend beyond the period of current authorization. Interest and other financing costs of efficiently carrying out the work agreement within a reasonable time are a cost of carrying out the agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Government payments made under the work agreement plus reasonable interest and penalty charges the Secretary establishes in the agreement.
 
-(4)(A) The total estimated amount of future obligations of the Government and contingentcommitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems, less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements may be not more than a limitation specified in law.
+(4)(A) The total estimated amount of future obligations of the Government and contingent commitments to incur obligations covered by all outstanding letters of intent, full funding grant agreements, and early systems work agreements may be not more than the greater of the amount authorized under section 5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems, less an amount the Secretary of Transportation reasonably estimates is necessary for grants under this section not covered by a letter. The total amount covered by new letters and contingent commitments included in full funding grant agreements and early systems work agreements may be not more than a limitation specified in law.
 
 (B) For fiscal year 2001 and thereafter, the amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems referred to in subparagraph (A) shall be the amount equivalent to the last 3 fiscal years of such authorized funding.
 
@@ -232,7 +232,7 @@ Allocating Amounts.—
 
 &emsp;(1)
 
-In general.—Of the amounts made available by or appropriated under section 5338(b) for grants and loans under this section for each of fiscal years 1998 through 2003—
+In general.—Of the amounts made available by or appropriated under section 5338(b) for grants and loans under this section for each of fiscal years 1998 through 2003 and for the period of October 1, 2003, through February 29, 2004—
 
 &emsp;&emsp;(A) 40 percent shall be available for fixed guideway modernization;
 
@@ -258,7 +258,11 @@ Amounts under (1)(b).—Of the amounts made available under paragraph (1)(B), $1
 
 &emsp;&emsp;&emsp;(ii)
 
-Amounts under 5338(h)(5).—Of the amounts appropriated under section 5338(h)(5), $3,600,000 shall be available in each of fiscal years 1999 through 2003 for capital projects in Alaska or Hawaii, for new fixed guideway systems and extensions to existing fixed guideway systems that are ferry boats or ferry terminal facilities, or that are approaches to ferry terminal facilities.
+Amounts under 5338(h)(5).—Of the amounts appropriated under section 5338(h)(5), $3,600,000 shall be available in each of fiscal years 1999 through 2003 forcapital projects in Alaska or Hawaii, for new fixed guideway systems and extensions to existing fixed guideway systems that are ferry boats or ferry terminal facilities, or that are approaches to ferry terminal facilities.
+
+&emsp;&emsp;&emsp;(iii)
+
+October 1, 2003 through february 29, 2004.—Of the amounts made available under paragraph (1)(B), $4,333,333 shall be available for the period of October 1, 2003, through February 29, 2004, for capital projects described in clause (i).
 
 &emsp;(3)
 
@@ -270,11 +274,11 @@ Consideration.—In making grants under paragraph (1)(C), the Secretary shall co
 
 &emsp;&emsp;(B)
 
-Funding for bus testing facility.—Of the amounts made available under paragraph (1)(C), $3,000,000 shall be available in each of fiscal years 1998 through 2003 to carry out section 5318.
+Funding for bus testing facility.—Of the amounts made available under paragraph (1)(C), $3,000,000 shall be available in each of fiscal years 1998 through 2003 (and $1,250,000 shall be available for the period October 1, 2003, through February 29, 2004) to carry out section 5318.
 
 &emsp;&emsp;(C)
 
-Funding for clean fuels.—Of the amounts made available under paragraph (1)(C), $50,000,000 shall be available in each of fiscal years 1999 through 2003 to carry out section 5308.
+Funding for clean fuels.—Of the amounts made available under paragraph (1)(C), $50,000,000 shall be available in each of fiscal years 1999 through 2003 (and $20,833,334 shall be available for the period October 1, 2003, through February 29, 2004) to carry out section 5308.
 
 &emsp;&emsp;(D)
 
@@ -312,7 +316,7 @@ Funding levels and allocations of funds for fixed guideway systems.—
 
 &emsp;&emsp;(A)
 
-Annual report.—Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that includes a proposalon the allocation of amounts to be made available to finance grants and loans for capital projects for new fixed guideway systems and extensions to existing fixed guideway systems among applicants for those amounts.
+Annual report.—Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that includes a proposal on the allocation of amounts to be made available to finance grants and loans for capital projects for new fixed guideway systems and extensions to existing fixed guideway systems among applicants for those amounts.
 
 &emsp;&emsp;(B)
 
@@ -338,7 +342,7 @@ Annual gao review.—The General Accounting Office shall—
 
 Project Defined.—In this section, the term “project” means, with respect to a new fixed guideway system or extension to an existing fixed guideway system, a minimum operable segment of the project.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 800; Pub. L. 104–287, §5(9), (12), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 102–240, title III, §3049(a), as added Pub. L. 105–130, §8, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title III, §3009(a), (c)–(h)(1), (3)(D), (i)–(k), June 9, 1998, 112 Stat. 352–357; Pub. L. 105–206, title IX, §9009(g), (h)(3), July 22, 1998, 112 Stat. 855, 856; Pub. L. 106–69, title III, §347, Oct. 9, 1999, 113 Stat. 1024; Pub. L. 106–346, §101(a) \[title III, §380\], Oct. 23, 2000, 114 Stat. 1356, 1356A–42; Pub. L. 106–554, §1(a)(4) \[div. A, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–201; Pub. L. 108–88, §8(a), Sept. 30, 2003, 117 Stat. 1121.)
 
 Historical and Revision Notes
 
@@ -530,7 +534,7 @@ In subsection (g)(2)(A)(i), the words “and conditions” are omitted as being 
 
 In subsection (g)(4), the word “issued” is omitted as surplus. The text of 49 App.:1602(a)(4)(E) (3d sentence) is omitted as executed. The text of 49 App.:1602(a)(4)(E) (4th and last sentences) is omitted as obsolete.
 
-In subsection (h), the words “nature and extent of” are omitted as surplus. The words “net project cost”are substituted for “what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called ‘net project cost’ ” because of the definition of “net project cost” in section 5302(a) of the revised title. The words “Except as provided in paragraph (2) of this subsection” are added for clarity. The words “Such remainder may be provided in whole or in part from other than public sources and any public or private”, “solely”, and “at any time” are omitted as surplus. The words “shall be deemed” are omitted as unnecessary since the text is a statement of a legal conclusion.
+In subsection (h), the words “nature and extent of” are omitted as surplus. The words “net project cost” are substituted for “what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called ‘net project cost’ ” because of the definition of “net project cost” in section 5302(a) of the revised title. The words “Except as provided in paragraph (2) of this subsection” are added for clarity. The words “Such remainder may be provided in whole or in part from other than public sources and any public or private”, “solely”, and “at any time” are omitted as surplus. The words “shall be deemed” are omitted as unnecessary since the text is a statement of a legal conclusion.
 
 In subsection (i), before clause (1), the words “Except for a loan under subsection (b) of this section” are added for clarity. The words “made under this section” and “at a rate” are omitted as surplus. In clause (1), the word “market” is omitted as surplus. In clause (2), the words “under the program” are omitted as surplus.
 
@@ -571,6 +575,14 @@ Section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 19
 Section 103 of title 23, referred to in subsec. (n)(1), was amended generally by Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131, and, as so amended, no longer contains a subsec. (e)(4).
 
 #### Amendments
+
+2003—Subsec. (m)(1). Pub. L. 108–88, §8(a)(1), inserted “and for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (m)(2)(B). Pub. L. 108–88, §8(a)(2), added cl. (iii).
+
+Subsec. (m)(3)(B). Pub. L. 108–88, §8(a)(3), inserted “(and $1,250,000 shall be available for the period October 1, 2003, through February 29, 2004)” after “2003”.
+
+Subsec. (m)(3)(C). Pub. L. 108–88, §8(a)(4), inserted “(and $20,833,334 shall be available for the period October 1, 2003, through February 29, 2004)” after “2003”.
 
 2000—Subsec. (g)(4). Pub. L. 106–346 designated existing provisions as subpar. (A) and added subpars. (B) to (G).
 
@@ -684,7 +696,7 @@ Report.—Not later than January 1, 2000, the Comptroller General shall transmit
 
 #### Job Access and Reverse Commute Grants
 
-Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, §9009(w), July 22, 1998, 112 Stat. 862, provided that:
+Pub. L. 105–178, title III, §3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, §9009(w), July 22, 1998, 112 Stat. 862; Pub. L. 108–88, §8(<i>l</i>), Sept. 30, 2003, 117 Stat. 1124, provided that:
 
 “(a)
 
@@ -836,7 +848,7 @@ In general.—The portion of the total cost of an eligible project that is not f
 
 &emsp;&emsp;“(B)
 
-Inapplicability.—For purposes of subparagraph (A)(ii), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vi) of the Social Security Act \[42 U.S.C. 603(a)(5)(C)(vi)\] shall not apply to Federal or State funds to be used for transportation services.
+Inapplicability.—For purposes of subparagraph (A)(ii), the prohibitions on the use of funds for matching requirements under section403(a)(5)(C)(vi) of the Social Security Act \[42 U.S.C. 603(a)(5)(C)(vi)\] shall not apply to Federal or State funds to be used for transportation services.
 
 “(i)
 
@@ -896,9 +908,11 @@ From the trust fund.—There shall be available from the Mass Transit Account of
 
 &emsp;&emsp;&emsp;“(iii) $80,000,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;“(iv) $100,000,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;“(iv) $100,000,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;“(v) $120,000,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;“(v) $120,000,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;“(vi) $50,519,167 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;“(B)
 
@@ -910,9 +924,11 @@ From the general fund.—In addition to amounts made available under subparagrap
 
 &emsp;&emsp;&emsp;“(iii) $20,000,000 for fiscal year 2001;
 
-&emsp;&emsp;&emsp;“(iv) $25,000,000 for fiscal year 2002; and
+&emsp;&emsp;&emsp;“(iv) $25,000,000 for fiscal year 2002;
 
-&emsp;&emsp;&emsp;“(v) $30,000,000 for fiscal year 2003.
+&emsp;&emsp;&emsp;“(v) $30,000,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;“(vi) $12,638,333 for the period of October 1, 2003, through February 29, 2004.
 
 &emsp;&emsp;“(C)
 
@@ -928,7 +944,7 @@ Additional amounts.—In addition to amounts made available under subparagraphs 
 
 &emsp;“(2)
 
-Set-aside for reverse commute projects.—Of amounts made available by or appropriated under subparagraphs (A) and (B) of paragraph (1) to carry out this section in each fiscal year, not more than $10,000,000 shall be used for grants for reverse commute projects.
+Set-aside for reverse commute projects.—Of amounts made available by or appropriated under subparagraphs (A) and (B) of paragraph (1) to carry out this section in each fiscal year, not more than $10,000,000 shall be used for grants for reverse commute projects; except that in the period of October 1, 2003, through February 29, 2004, $4,166,667 shall be used for such projects.
 
 &emsp;“(3)
 

@@ -20,7 +20,7 @@ Florida is divided into three judicial districts to be known as the Northern, Mi
 
 &emsp;&emsp;Court for the Southern District shall be held at Fort Lauderdale, Fort Pierce, Key West, Miami, and West Palm Beach.
 
-(June 25, 1948, ch. 646, 62 Stat. 876; July 17, 1952, ch. 929, 66 Stat. 757; Pub. L. 87–36, §3(f), May 19, 1961, 75 Stat. 83; Pub. L. 87–562, §1, July 30, 1962, 76 Stat. 247; Pub. L. 91–272, §10, June 2, 1970, 84Stat. 298; Pub. L. 95–408, §4(a), Oct. 2, 1978, 92 Stat. 884; Pub. L. 100–702, title X, §1021(a), Nov. 19, 1988, 102 Stat. 4672.)
+(June 25, 1948, ch. 646, 62 Stat. 876; July 17, 1952, ch. 929, 66 Stat. 757; Pub. L. 87–36, §3(f), May 19, 1961, 75 Stat. 83; Pub. L. 87–562, §1, July 30, 1962, 76 Stat. 247; Pub. L. 91–272, §10, June 2, 1970, 84 Stat. 298; Pub. L. 95–408, §4(a), Oct. 2, 1978, 92 Stat. 884; Pub. L. 100–702, title X, §1021(a), Nov. 19, 1988, 102 Stat. 4672.)
 
 #### Historical and Revision Notes
 

@@ -30,7 +30,7 @@
 
 #### (2) Establishment of consultation process by the Secretary
 
-&emsp;Not later than 1 year after October 30, 2000, the Secretary shall establish a consultation process that, on an ongoing basis, allows the Secretary to identify and address, through supplemental grants authorized under paragraph (1), training initiatives related to the unmet needs of individuals with developmental disabilities and their families.
+&emsp;Not later than 1 year after October 30, 2000, the Secretary shall establish a consultation process that, on an ongoing basis, allows the Secretary to identify and address, through supplemental grants authorized under paragraph (1), training initiatives related to theunmet needs of individuals with developmental disabilities and their families.
 
 #### (c) Technical assistance
 

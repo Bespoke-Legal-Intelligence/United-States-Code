@@ -18,7 +18,7 @@ The words “commissioner” and “referee” did not appear in section 127 of 
 
 Words “by the court or any judge thereof” in section 304 of title 28, U.S.C., 1940 ed., were omitted as surplusage.
 
-Words “or assistant clerks” and “in any case” were added in subsection (b) to make the section applicableto that officer and consistent with the prohibition in this section against deputies of district court clerks.
+Words “or assistant clerks” and “in any case” were added in subsection (b) to make the section applicable to that officer and consistent with the prohibition in this section against deputies of district court clerks.
 
 Minor changes were made in phraseology.
 

@@ -62,7 +62,7 @@ The Secretary shall—
 
 #### (6) Copies provided
 
-&emsp;Upon completion of the Secretary's final determination, the Secretary shall provide the complaining tribe, or its designee, and the local educational agency with copies of thehearing record, the hearing examiner's findings and recommendations, and the Secretary's final determination. The final determination of the Secretary shall be subject to judicial review.
+&emsp;Upon completion of the Secretary's final determination, the Secretary shall provide the complaining tribe, or its designee, and the local educational agency with copies of the hearing record, the hearing examiner's findings and recommendations, and the Secretary's final determination. The final determination of the Secretary shall be subject to judicial review.
 
 #### (7) Consolidation
 

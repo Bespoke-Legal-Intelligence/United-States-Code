@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 105–206, §3432(a), added subsec. (e).
 
 1996—Subsec. (d). Pub. L. 104–168 added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but such release shall not operate to prevent any subsequent levy.”
+1988—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but suchrelease shall not operate to prevent any subsequent levy.”
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to assist in the development of state-of-the-art technologyin animal nutrition (including research and development of the technology) and value-added manufacturing to promote an economic platform for the Delta region (as defined in section 2009aa of this title) to relieve severe economic conditions.
+The Secretary may make grants to assist in the development of state-of-the-art technology in animal nutrition (including research and development of the technology) and value-added manufacturing to promote an economic platform for the Delta region (as defined in section 2009aa of this title) to relieve severe economic conditions.
 
 #### (b) Authorization of appropriations
 

@@ -34,5 +34,5 @@ Section 330011(h) of Pub. L. 103–322 provided that the amendment made by that 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2332b of this title.
+This section is referred to in sections 1531, 2332b of this title.
 

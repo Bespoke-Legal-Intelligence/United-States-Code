@@ -112,7 +112,25 @@
 
 &emsp;(B) the amount which, pursuant to paragraph (3) of this subsection, was required to be available for deposit in such endowment with respect to such depository on the date the Archivist took such title or entered into such agreement, as the case may be.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495.)
+(5)(A) Notwithstanding paragraphs (3) and (4) (to the extent that such paragraphs are inconsistent with this paragraph), this subsection shall be administered in accordance with this paragraph with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Presidential records pertaining to any President who takes the oath of office as President for the first time on or after July 1, 2002.
+
+(B) For purposes of subparagraphs (A)(ii), (B)(i)(II), and (B)(ii)(II) of paragraph (3) the percentage of 40 percent shall apply instead of 20 percent.
+
+(C)(i) In this subparagraph, the term “base endowment amount” means the amount of the endowment required under paragraph (3).
+
+(ii)(I) The Archivist may give credits against the base endowment amount if the Archivist determines that the proposed Presidential archival depository will have construction features or equipment that are expected to result in quantifiable long-term savings to the Government with respect to the cost of facility operations.
+
+(II) The features and equipment described under subclause (I) shall comply with the standards promulgated by the Archivist under subsection (a)(2).
+
+(III) The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the base endowment amount.
+
+(D)(i) In calculating the additional endowment amount required under paragraph (4), the Archivist shall take into account credits given under subparagraph (C), and may also give credits against the additional endowment amount required under paragraph (4), if the Archivist determines that construction features or equipment used in making or equipping the physical or material change or addition are expected to result in quantifiable long-term savings to the Government with respect to the cost of facility operations.
+
+(ii) The features and equipment described under clause (i) shall comply with the standards promulgated by the Archivist under subsection (a)(2).
+
+(iii) The Archivist shall promulgate standards to be used in calculating the dollar amount of any credit to be given, and shall consult with all donors of the endowment before giving any credits. The total dollar amount of credits given under this paragraph may not exceed 20 percent of the additional endowment amount required under paragraph (4).
+
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1289, §2108; Pub. L. 94–575, §4(a), Oct. 21, 1976, 90 Stat. 2727; Pub. L. 95–591, §2(b)(3), Nov. 4, 1978, 92 Stat. 2528; renumbered §2112 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(6), Oct. 19, 1984, 98 Stat. 2280, 2286; Pub. L. 99–323, §3, May 27, 1986, 100 Stat. 495; Pub. L. 108–7, div. J, title V, §513, Feb. 20, 2003, 117 Stat. 462.)
 
 #### Historical and Revision Notes
 
@@ -124,9 +142,11 @@ A prior section 2112 was renumbered section 2116 of this title.
 
 #### Amendments
 
+2003—Subsec. (g)(5). Pub. L. 108–7 added par. (5).
+
 1986—Subsec. (a). Pub. L. 99–323, §3(a), amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
 
-Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
+Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historicalmaterials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
 
 1984—Subsec. (a). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
 
@@ -140,7 +160,7 @@ Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted “Archivist” 
 
 #### Effective Date of 1986 Amendment
 
-Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United StatesCode (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
+Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United States Code (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
 
 #### Effective Date of 1984 Amendment
 

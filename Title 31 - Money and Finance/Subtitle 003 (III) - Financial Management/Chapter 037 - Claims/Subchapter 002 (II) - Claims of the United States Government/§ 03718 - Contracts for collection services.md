@@ -60,7 +60,7 @@
 
 (g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the General Accounting Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983,97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633.)
 
 Historical and Revision Notes
 
@@ -148,7 +148,7 @@ Section 7 of Pub. L. 102–589 provided that: “The provisions of this Act \[am
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Section 5 of Pub. L. 99–578, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Section 5 of Pub. L. 99–578, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section andenacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
 #### Regulations
 

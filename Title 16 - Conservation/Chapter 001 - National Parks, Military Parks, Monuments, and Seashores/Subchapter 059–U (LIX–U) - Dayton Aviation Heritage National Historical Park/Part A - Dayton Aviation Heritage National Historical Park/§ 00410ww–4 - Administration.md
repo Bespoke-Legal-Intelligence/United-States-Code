@@ -14,7 +14,7 @@ The Secretary may sponsor, coordinate, or enter into cooperative agreements for 
 
 #### (d) Identification and marking of significant historical sites
 
-The Secretary may identify other significant sites related to the Wright brothers, the history of aviation, or Paul Laurence Dunbar in the Miami Valley which are related to the park, and, with the consent of the owner or owners thereof, may mark the sites appropriately and make reference to them in any interpretive literature. The Secretary may provide interpretive markers along transportation routes leading to units of the park.
+The Secretary may identify other significant sites related to the Wright brothers, the historyof aviation, or Paul Laurence Dunbar in the Miami Valley which are related to the park, and, with the consent of the owner or owners thereof, may mark the sites appropriately and make reference to them in any interpretive literature. The Secretary may provide interpretive markers along transportation routes leading to units of the park.
 
 #### (e) Interpretation of Huffman Prairie Flying Field
 

@@ -64,7 +64,7 @@
 
 &emsp;The report required under this subsection shall, to the maximum extent practicable, include a description of—
 
-&emsp;&emsp;(A) the quantity or, with respect to the Customs Service, the number of shipments, of imports from a NAFTA country that are inspected at the borders of the United States with Canada and Mexico during the prior year;
+&emsp;&emsp;(A) the quantity or, with respect to the Customs Service, the number of shipments, of imports from a NAFTA country that are inspected at the borders of the United Stateswith Canada and Mexico during the prior year;
 
 &emsp;&emsp;(B) any change in the level or types of inspections of imports in each NAFTA country during the prior year;
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(E) the incidence of violations of inspection requirements of imports to the United States from Mexico or Canada prior to the implementation of the Agreement;
 
-&emsp;&emsp;(F) any additional cost associated with maintaining an adequate inspection systemof imports as a result of the implementation of the Agreement;
+&emsp;&emsp;(F) any additional cost associated with maintaining an adequate inspection system of imports as a result of the implementation of the Agreement;
 
 &emsp;&emsp;(G) any incidence of transshipment of imports—
 

@@ -14,7 +14,7 @@
 
 #### (2) Enforcement of subpenas and orders
 
-&emsp;The appropriate United States district court may, upon petition of the Attorney General atthe request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
+&emsp;The appropriate United States district court may, upon petition of the Attorney General at the request of the President, in the case of refusal to obey a subpena or order of the President issued under this subsection, issue an order requiring compliance therewith, and any failure to obey an order of the court may be punished by the court as a contempt thereof.
 
 #### (b) Reporting of prices and volumes
 
@@ -78,7 +78,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–104. All functions delegated to the Secretary by this Order may be redelegated, in whole or in part, to the head of any other agency.
 
-1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretaryin carrying out the functions delegated to him by this Order.
+1–105. All Executive agencies shall, to the extent permitted by law, cooperate with and assist the Secretary in carrying out the functions delegated to him by this Order.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -126,7 +126,7 @@ Federal Reserve Study.—Not later than 180 days after the date of enactment of 
 
 “(b)
 
-Budgetary Impact Study.—Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Office of Management and Budget and the Director of the Congressional Budget Office, in consultation with the Committees on the Budget of the Senate and the House of Representatives,shall jointly conduct a study and report to the Congress on the budgetary impact of—
+Budgetary Impact Study.—Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Office of Management and Budget and the Director of the Congressional Budget Office, in consultation with the Committees on the Budget of the Senate and the House of Representatives, shall jointly conduct a study and report to the Congress on the budgetary impact of—
 
 &emsp;“(1) paying a market rate of interest to insured depository institutions on sterile reserves; and
 
@@ -204,7 +204,7 @@ Additional Factors.—The study required under subsection (a) shall consider the
 
 #### Timely Completion of CRA Review
 
-Section 342 of Pub. L. 103–325 provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
+Section 342 of Pub. L. 103–325 provided that: “The comprehensive regulatory review of the CommunityReinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\] that, as of the date of enactment of this Act \[Sept. 23, 1994\], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
 
 #### Waiver of Right of Rescission for Certain Refinancing Transactions
 

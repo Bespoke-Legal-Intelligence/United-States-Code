@@ -12,7 +12,7 @@ The Conservation Area shall consist of approximately 48,438 acres of public land
 
 #### (1) In general
 
-&emsp;As soon as practicable after November 6, 2002, the Secretary shall submit to Congress amap and legal description of the Conservation Area.
+&emsp;As soon as practicable after November 6, 2002, the Secretary shall submit to Congress a map and legal description of the Conservation Area.
 
 #### (2) Effect
 

@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Carryforward of unused limitation
 
-&emsp;If the section 382 limitation for any post-change year exceeds the taxable income of thenew loss corporation for such year which was offset by pre-change losses, the section 382 limitation for the next post-change year shall be increased by the amount of such excess.
+&emsp;If the section 382 limitation for any post-change year exceeds the taxable income of the new loss corporation for such year which was offset by pre-change losses, the section 382 limitation for the next post-change year shall be increased by the amount of such excess.
 
 #### (3) Special rule for post-change year which includes change date
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 #### (B) Recognized built-in loss
 
-&emsp;&emsp;The term “recognized built-in loss” means any loss recognized during the recognition period on the disposition of any asset except to the extent the new loss corporation establishes that—
+&emsp;&emsp;The term “recognized built-in loss” means any loss recognized during the recognitionperiod on the disposition of any asset except to the extent the new loss corporation establishes that—
 
 &emsp;&emsp;&emsp;(i) such asset was not held by the old loss corporation immediately before the change date, or
 
@@ -304,7 +304,7 @@ For purposes of this section—
 
 #### (C) Adjustments
 
-&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted foramounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
+&emsp;&emsp;The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
 
 #### (7) Recognition period, etc.
 
@@ -416,7 +416,7 @@ For purposes of this section—
 
 #### (A) Coordination with section 172(b) carryover rules
 
-&emsp;&emsp;In the case of any pre-change loss for any taxable year (hereinafter in this subparagraph referred to as the “loss year”) subject to limitation under this section, for purposes of determining under the 2nd sentence of section 172(b)(2) the amount of such loss which may be carried to any taxable year, taxable income for any taxable year shall be treated as not greater than—
+&emsp;&emsp;In the case of any pre-change loss for any taxable year (hereinafter in this subparagraph referred to as the “loss year”) subject to limitation under this section, for purposes of determining under the 2nd sentenceof section 172(b)(2) the amount of such loss which may be carried to any taxable year, taxable income for any taxable year shall be treated as not greater than—
 
 &emsp;&emsp;&emsp;(i) the section 382 limitation for such taxable year, reduced by
 
@@ -734,7 +734,7 @@ Pub. L. 100–647, §1006(d)(1)(C), redesignated former par. (5) as (4).
 
 Subsec. (h)(2)(B). Pub. L. 100–203, §10225(b), inserted at end “Such term includes any amount allowable as depreciation, amortization, or depletion for any period within the recognition period except to the extent the new loss corporation establishes that the amount so allowable is not attributable to the excess described in clause (ii).”
 
-1986—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
+1986—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owningcorporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e). See 1976 Amendment note below.
 
@@ -906,7 +906,7 @@ Ownership change of regulated air carrier.—The amendments made by subsections 
 
 &emsp;“(B) the acquisition (by or for such parent corporation) or retirement of the remaining common stock of such carrier is completed before the later of March 31, 1987, or 90 days after the requisite governmental approvals are finally granted,
 
-> but only if the ownership change occurs on or before the later of March 31, 1987, or such 90th day. The aggregate reduction in tax for any taxable year by reason of this paragraph shall not exceed $10,000,000. The testing period for determining whether a subsequent ownership change has occurred shall not begin before the 1st day following an ownership change to which this paragraph applies.
+> but only if the ownership change occurs on or before the later of March 31, 1987, or such 90th day. The aggregate reduction in tax for any taxable year by reason of this paragraph shall not exceed $10,000,000. The testing period for determining whether a subsequent ownership change has occurred shall not begin before the 1st dayfollowing an ownership change to which this paragraph applies.
 
 “(8) The amendments made by subsections (a), (b), and (c) shall not apply to any ownership change resulting from the conversion of a Minnesota mutual savings bank holding a Federal charter dated December 31, 1985, to a stock savings bank pursuant to the rules and regulations of the Federal Home Loan Bank Board, and from the issuance of stock pursuant to that conversion to a holding company incorporated in Delaware on February 21, 1984. For purposes of determining whether any ownership change occurs with respect to the holding company or any subsidiary thereof (whether resulting from the transaction described in the preceding sentence or otherwise), any issuance of stock made by such holding company in connection with the transaction described in the preceding sentence shall not be taken into account.
 

@@ -1,6 +1,6 @@
 ### §8626. Payments to States; fiscal year requirements respecting availability, etc.
 
-(a)(1) From its allotment under section 8623 of this title, the Secretary shall make payments toeach State in accordance with section 6503(a) of title 31, for use under this subchapter.
+(a)(1) From its allotment under section 8623 of this title, the Secretary shall make payments to each State in accordance with section 6503(a) of title 31, for use under this subchapter.
 
 (2) Each State shall notify the Secretary, not later than 2 months prior to the close of a fiscal year, of the amount (if any) of its allotment for such year that will not be obligated in such year, and, if such State elects to submit a request described in subsection (b)(2) of this section, such State shall submit such request at the same time. The Secretary shall make no payment under paragraph (1) to a State for a fiscal year unless the State has complied with this paragraph with respect to the prior fiscal year.
 
@@ -42,7 +42,7 @@ In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 
 
 1990—Subsec. (b)(2)(B). Pub. L. 101–501 substituted “10 percent” for “15 percent”.
 
-1984—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year.” and “or the amount payable to” after “computing the allotment of”.
+1984—Subsec. (b)(2)(A). Pub. L. 98–558, §606(a), inserted “Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for thefollowing fiscal year.” and “or the amount payable to” after “computing the allotment of”.
 
 Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted “15 percent” for “25 percent”, “payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title” for “allotted to such State for such prior fiscal year”, and “payable to a State but not transferred by the State” for “allotted to a State” in second sentence.
 

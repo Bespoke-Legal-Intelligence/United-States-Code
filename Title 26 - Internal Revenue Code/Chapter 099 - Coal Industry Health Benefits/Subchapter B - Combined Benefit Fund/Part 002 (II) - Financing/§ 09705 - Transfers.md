@@ -14,7 +14,7 @@
 
 #### (2) Reservation
 
-&emsp;Immediately upon the enactment date, the board of trustees of the 1950 UMWA PensionPlan shall segregate $210,000,000 from the general assets of the plan. Such funds shall be held in the plan until disbursed pursuant to paragraph (1). Any interest on such funds shall be deposited into the general assets of the 1950 UMWA Pension Plan.
+&emsp;Immediately upon the enactment date, the board of trustees of the 1950 UMWA Pension Plan shall segregate $210,000,000 from the general assets of the plan. Such funds shall be held in the plan until disbursed pursuant to paragraph (1). Any interest on such funds shall be deposited into the general assets of the 1950 UMWA Pension Plan.
 
 #### (3) Use of funds
 

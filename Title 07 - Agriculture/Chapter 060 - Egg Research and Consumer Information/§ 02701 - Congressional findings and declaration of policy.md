@@ -26,7 +26,7 @@ Pub. L. 96–276, §1, June 17, 1980, 94 Stat. 541, provided: “That this Act \
 
 #### Short Title
 
-Section 1 of Pub. L. 93–428 provided: “That this Act \[enacting this chapter and provisions set out as notes under this section\] shall be known as the ‘Egg Research and Consumer Information Act’.”
+Section 1 of Pub. L. 93–428 provided: “That this Act \[enacting this chapter and provisions set out as notesunder this section\] shall be known as the ‘Egg Research and Consumer Information Act’.”
 
 #### Separability
 

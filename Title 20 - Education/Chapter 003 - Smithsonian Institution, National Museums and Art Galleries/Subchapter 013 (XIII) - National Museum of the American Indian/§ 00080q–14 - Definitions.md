@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(4) the term “funerary object” means an object that, as part of a death rite or ceremony of a culture, is intentionally placed with individual human remains, either at the time of burial or later;
 
-&emsp;(5) the term “Heye Foundation assets” means the collections, endowment, and all other property of the Heye Foundation (other than the interest of the Heye Foundation inAudubon Terrace) described in the Memorandum of Understanding between the Smithsonian Institution and the Heye Foundation, dated May 8, 1989, and the schedules attached to such memorandum;
+&emsp;(5) the term “Heye Foundation assets” means the collections, endowment, and all other property of the Heye Foundation (other than the interest of the Heye Foundation in Audubon Terrace) described in the Memorandum of Understanding between the Smithsonian Institution and the Heye Foundation, dated May 8, 1989, and the schedules attached to such memorandum;
 
 &emsp;(6) the term “Heye Museum” means the Museum of the American Indian, Heye Foundation;
 

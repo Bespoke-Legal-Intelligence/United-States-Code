@@ -56,11 +56,11 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstandingmathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (d) Coordination with other Federal departments
 
-In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c) of this section, the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 \[20 U.S.C. 1011 et seq.\].
+In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhanceprogram effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c) of this section, the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 \[20 U.S.C. 1011 et seq.\].
 
 #### (e) Limitation on funding
 

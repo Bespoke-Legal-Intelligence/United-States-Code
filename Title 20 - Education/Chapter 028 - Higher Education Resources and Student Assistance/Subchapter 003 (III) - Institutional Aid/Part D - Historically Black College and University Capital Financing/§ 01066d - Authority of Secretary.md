@@ -26,7 +26,7 @@ In the performance of, and with respect to, the functions vested in the Secretar
 
 &emsp;(7) may, directly or by grant or contract, provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a capital improvement loan, including a loan under this part.
 
-(Pub. L. 89–329, title III, §345, formerly title VII, §725, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 745; amended Pub. L. 103–208, §2(j)(16), Dec. 20, 1993, 107 Stat. 2481; renumbered title III, §345, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(6), 306(c), Oct. 7, 1998, 112 Stat. 1636, 1637, 1647.)
+(Pub. L. 89–329, title III, §345, formerly title VII, §725, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745; amended Pub. L. 103–208, §2(j)(16), Dec. 20, 1993, 107 Stat. 2481; renumbered title III, §345, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(6), 306(c), Oct. 7, 1998, 112 Stat. 1636, 1637, 1647.)
 
 #### Codification
 

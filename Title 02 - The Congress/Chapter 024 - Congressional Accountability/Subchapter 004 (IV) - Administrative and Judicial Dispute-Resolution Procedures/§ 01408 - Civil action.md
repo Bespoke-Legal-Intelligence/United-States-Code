@@ -32,7 +32,7 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–68 added subsec. (d).
+<b>2001</b>—Subsec. (d). Pub. L. 107–68 added subsec. (d).
 
 #### Effective Date of 2001 Amendment
 

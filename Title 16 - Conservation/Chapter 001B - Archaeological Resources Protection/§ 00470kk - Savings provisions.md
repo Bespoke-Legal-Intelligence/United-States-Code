@@ -10,7 +10,7 @@ Nothing in this chapter applies to, or requires a permit for, the collection for
 
 #### (c) Lands within chapter
 
-Nothing in this chapter shall be construed to affect any land other than public land or Indian land or to affect the lawful recovery, collection, or sale of archaeological resources from land other than public land or Indian land.
+Nothing in this chapter shall be construed to affect any land other than public land or Indianland or to affect the lawful recovery, collection, or sale of archaeological resources from land other than public land or Indian land.
 
 (Pub. L. 96–95, §12, Oct. 31, 1979, 93 Stat. 728.)
 

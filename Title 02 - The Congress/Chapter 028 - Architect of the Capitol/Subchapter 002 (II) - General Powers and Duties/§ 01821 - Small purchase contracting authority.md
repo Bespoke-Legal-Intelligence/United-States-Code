@@ -1,0 +1,24 @@
+### §1821. Small purchase contracting authority
+
+#### (a) In general
+
+Notwithstanding any other provision of law—
+
+&emsp;(1) section 5 of title 41 shall apply with respect to purchases and contracts for the Architect of the Capitol as if the reference to “$25,000” in paragraph (1) of such section were a reference to “$100,000”; and
+
+&emsp;(2) the Architect may procure services, equipment, and construction for security related projects in the most efficient manner he determines appropriate.
+
+#### (b) Effective date
+
+This section shall apply to fiscal year 2003 and each fiscal year thereafter.
+
+(Pub. L. 108–7, div. H, title I, §1201, Feb. 20, 2003, 117 Stat. 372.)
+
+#### Codification
+
+Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
+
+#### Prior Provisions
+
+Prior similar provisions were contained in Pub. L. 107–68, title I, §131, Nov. 12, 2001, 115 Stat. 581.
+

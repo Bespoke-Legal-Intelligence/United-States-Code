@@ -40,25 +40,7 @@ Transfer Authority.—(1) Whenever there is an operation of the Department of De
 
 (6) A transfer made from one account to another under the authority of this subsection shall be deemed to increase the amount authorized for the account to which the amount is transferred by an amount equal to the amount transferred.
 
-(d)
-
-Report Upon Designation of an Operation.—Within 45 days after the Secretary of Defense identifies an operation pursuant to subsection (a)(2), the Secretary of Defense shall submit to Congress a report that sets forth the following:
-
-&emsp;(1) The manner by which the Secretary proposes to obtain funds for the cost to the United States of the operation, including a specific discussion of how the Secretary proposes to restore balances in—
-
-&emsp;&emsp;(A) the Defense Business Operations Fund (or a successor fund), or
-
-&emsp;&emsp;(B) the accounts from which the Secretary transfers funds under the authority of subsection (c), to the levels that would have been anticipated but for the provisions of subsection (c).
-
-&emsp;(2) If the operation is described in subsection (a)(1)(B), a justification why the budgetary resources of another department or agency of the Federal Government, instead of resources of the Department of Defense, are not being used for carrying out the operation.
-
-&emsp;(3) The objectives of the operation.
-
-&emsp;(4) The estimated duration of the operation and of any deployment of armed forces personnel in such operation.
-
-&emsp;(5) The estimated incremental cost of the operation to the United States.
-
-&emsp;(6) The exit criteria for the operation and for the withdrawal of the elements of the armed forces involved in the operation.
+\[(d) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596.\]
 
 (e)
 
@@ -82,13 +64,15 @@ Relationship to War Powers Resolution.—This section may not be construed as al
 
 GAO Compliance Reviews.—The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 
-(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415.)
+(Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596.)
 
 #### References in Text
 
 The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 
 1996—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
 

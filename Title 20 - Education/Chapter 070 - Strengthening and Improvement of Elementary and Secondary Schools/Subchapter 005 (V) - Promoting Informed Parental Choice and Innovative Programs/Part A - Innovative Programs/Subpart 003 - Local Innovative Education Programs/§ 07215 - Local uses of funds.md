@@ -2,7 +2,7 @@
 
 #### (a) Innovative assistance programs
 
-Funds made available to local educational agencies under section 7211a of this title shall be used for innovative assistance programs, which may include any of the following:
+Funds made available to local educational agencies under section 7211a of this title shall beused for innovative assistance programs, which may include any of the following:
 
 &emsp;(1) Programs to recruit, train, and hire highly qualified teachers to reduce class size, especially in the early grades, and professional development activities carried out in accordance with subchapter II of this chapter, that give teachers, principals, and administrators the knowledge and skills to provide students with the opportunity to meet challenging State or local academic content standards and student academic achievement standards.
 
@@ -30,7 +30,7 @@ Funds made available to local educational agencies under section 7211a of this t
 
 &emsp;(13) Programs to hire and support school nurses.
 
-&emsp;(14) Expansion and improvement of school-based mental health services, including earlyidentification of drug use and violence, assessment, and direct individual or group counseling services provided to students, parents, and school personnel by qualified school-based mental health services personnel.
+&emsp;(14) Expansion and improvement of school-based mental health services, including early identification of drug use and violence, assessment, and direct individual or group counseling services provided to students, parents, and school personnel by qualified school-based mental health services personnel.
 
 &emsp;(15) Alternative educational programs for those students who have been expelled or suspended from their regular educational setting, including programs to assist students to reenter the regular educational setting upon return from treatment or alternative educational programs.
 

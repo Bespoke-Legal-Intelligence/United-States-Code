@@ -2,7 +2,7 @@
 
 #### (a) Findings of Secretary
 
-No expenditures for the construction of any new project, new division of a project, or new supplemental works on a project shall be made, nor shall estimates be submitted therefor, by the Secretary until after he has made an investigation thereof and has submitted to the President and to the Congress his report and findings on—
+No expenditures for the construction of any new project, new division of a project, or newsupplemental works on a project shall be made, nor shall estimates be submitted therefor, by the Secretary until after he has made an investigation thereof and has submitted to the President and to the Congress his report and findings on—
 
 &emsp;(1) the engineering feasibility of the proposed construction;
 
@@ -48,7 +48,7 @@ No less than sixty days before entering into or amending any repayment contract 
 
 &emsp;(2) provide an opportunity for submission of written data, views and arguments, and shall consider all substantive comments so received.
 
-(Aug. 4, 1939, ch. 418, §9, 53 Stat. 1193; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 85–611, §§1, 3, Aug. 8, 1958, 72 Stat. 542, 543; Pub. L. 87–613, §2, Aug. 28, 1962, 76 Stat. 407; Pub. L. 97–293, title II, §226, Oct. 12, 1982, 96 Stat. 1273.)
+(Aug. 4, 1939, ch. 418, §9, 53 Stat. 1193; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L.85–611, §§1, 3, Aug. 8, 1958, 72 Stat. 542, 543; Pub. L. 87–613, §2, Aug. 28, 1962, 76 Stat. 407; Pub. L. 97–293, title II, §226, Oct. 12, 1982, 96 Stat. 1273.)
 
 #### References in Text
 

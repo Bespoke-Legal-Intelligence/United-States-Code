@@ -14,7 +14,7 @@
 
 (b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
-(B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
+(B) A determination referred to in subparagraph (A) is a determination based on soundmedical and scientific evidence that a positive association exists between—
 
 &emsp;(i) the exposure of humans or animals to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Southwest Asia theater of operations during the Persian Gulf War; and
 
@@ -36,7 +36,7 @@
 
 (3)(A) If the Secretary determines under this subsection that a presumption of service connection is not warranted, the Secretary shall, not later than 60 days after making the determination, publish in the Federal Register a notice of the determination. The notice shall include an explanation of the scientific basis for the determination.
 
-(B) If an illness already presumed to be service connected under this section is subject to a determination under subparagraph (A), the Secretary shall, not later than 60 days after publication of the notice under that subparagraph,issue proposed regulations removing the presumption of service connection for the illness.
+(B) If an illness already presumed to be service connected under this section is subject to a determination under subparagraph (A), the Secretary shall, not later than 60 days after publication of the notice under that subparagraph, issue proposed regulations removing the presumption of service connection for the illness.
 
 (4) Not later than 90 days after the date on which the Secretary issues any proposed regulations under this subsection, the Secretary shall issue final regulations. Such regulations shall be effective on the date of issuance.
 

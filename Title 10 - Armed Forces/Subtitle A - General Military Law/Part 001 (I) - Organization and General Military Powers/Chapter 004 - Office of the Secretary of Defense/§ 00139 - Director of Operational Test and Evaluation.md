@@ -16,7 +16,7 @@
 
 &emsp;(1) prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of operational test and evaluation in the Department of Defense;
 
-&emsp;(2) provide guidance to and consult with the Secretary of Defense and the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretaries of the military departments with respect to operational test and evaluation in the Department of Defense in general and with respect to specific operational test and evaluation to be conducted in connection with a major defense acquisition program;
+&emsp;(2) provide guidance to and consult with the Secretary of Defense and the Under Secretaryof Defense for Acquisition, Technology, and Logistics and the Secretaries of the military departments with respect to operational test and evaluation in the Department of Defense in general and with respect to specific operational test and evaluation to be conducted in connection with a major defense acquisition program;
 
 &emsp;(3) monitor and review all operational test and evaluation in the Department of Defense;
 
@@ -36,9 +36,17 @@
 
 (3) The Director shall have access to all records and data in the Department of Defense (including the records and data of each military department) that the Director considers necessary to review in order to carry out his duties under this section.
 
-(f) The Director shall ensure that safety concerns developed during the operational test and evaluation of a weapon system under a major defense acquisition program are communicated in a timely manner to the program manager forthat program for consideration in the acquisition decisionmaking process.
+(f) The Director shall ensure that safety concerns developed during the operational test and evaluation of a weapon system under a major defense acquisition program are communicated in a timely manner to the program manager for that program for consideration in the acquisition decisionmaking process.
 
-(g) The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year. Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Congress not later than 10 days after the transmission of the budget for the next fiscal year under section 1105 of title 31. If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress. The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The Secretary may comment on any report of the Director to Congress under this subsection.
+(g)(1) The Director shall prepare an annual report summarizing the operational test and evaluation activities (including live fire testing activities) of the Department of Defense during the preceding fiscal year.
+
+(2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Congress not later than 10 days after the transmission of the budget for the next fiscal year under section 1105 of title 31.
+
+(3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
+
+(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
+
+(5) The Secretary may comment on any report of the Director to Congress under this subsection.
 
 (h) The Director shall comply with requests from Congress (or any committee of either House of Congress) for information relating to operational test and evaluation in the Department of Defense.
 
@@ -46,7 +54,7 @@
 
 (j) The Director shall have sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director prescribed by law.
 
-(Added Pub. L. 98–94, title XII, §1211(a)(1), Sept. 24, 1983, 97 Stat. 684, §136a; amended Pub. L. 99–348, title V, §501(c), July 1, 1986, 100 Stat. 708; renumbered §138 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §§903(c), 910(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, §101(c) \[title X, §§903(c), 910(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, §801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, §802(b), title XVI, §1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, §1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered §139 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, §263, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225.)
+(Added Pub. L. 98–94, title XII, §1211(a)(1), Sept. 24, 1983, 97 Stat. 684, §136a; amended Pub. L. 99–348, title V, §501(c), July 1, 1986, 100 Stat. 708; renumbered §138 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(10), (g)(1), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §§903(c), 910(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, 1783–145, and Pub. L. 99–591, §101(c) \[title X, §§903(c), 910(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132, 3341–145; Pub. L. 99–661, div. A, title IX, formerly title IV, §§903(c), 910(c), Nov. 14, 1986, 100 Stat. 3912, 3924, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(1), (c)(2), Apr. 21, 1987, 101 Stat. 275, 280; Pub. L. 100–180, div. A, title VIII, §801, Dec. 4, 1987, 101 Stat. 1123; Pub. L. 101–189, div. A, title VIII, §802(b), title XVI, §1622(e)(1), Nov. 29, 1989, 103 Stat. 1486, 1605; Pub. L. 101–510, div. A, title XIV, §1484(k)(1), Nov. 5, 1990, 104 Stat. 1719; renumbered §139 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), 904(d)(1), 907, Nov. 30, 1993, 107 Stat. 1726, 1728, 1730; Pub. L. 103–355, title III, §§3011–3013, Oct. 13, 1994, 108 Stat. 3331, 3332; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–107, div. A, title II, §263, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1044, 1225; Pub. L. 107–314, div. A, title II, §235, Dec. 2, 2002, 116 Stat. 2491.)
 
 #### Codification
 
@@ -59,6 +67,10 @@ A prior section 139 was renumbered section 140 of this title.
 Another prior section 139 was renumbered section 2431 of this title.
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–314, §235(b), designated first sentence as par. (1), second sentence as par. (2), third sentence as par. (3), fourth and fifth sentences as par. (4), and sixth sentence as par. (5).
+
+Pub. L. 107–314, §235(a), inserted after fourth sentence “The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.”
 
 2001—Subsec. (c). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -146,5 +158,5 @@ For order of succession in event of death, disability, or resignation of Secreta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2399 of this title.
+This section is referred to in sections 196, 2399 of this title.
 

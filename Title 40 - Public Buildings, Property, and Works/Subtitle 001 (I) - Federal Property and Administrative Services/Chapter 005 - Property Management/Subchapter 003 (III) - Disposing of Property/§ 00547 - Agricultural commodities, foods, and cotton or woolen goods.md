@@ -14,7 +14,7 @@ In general.—The Administrator shall transfer without charge to the Department 
 
 &emsp;(2)
 
-Deposit of receipts.—Receipts resulting from disposal by the Department under this subsection shall be deposited pursuant to any authority available to the Secretary. When applicable, however, net proceeds from the sale of surplus property transferred under this subsection shall be credited pursuant to section 572(a) of this title.
+Deposit of receipts.—Receipts resulting from disposal by the Department under this subsection shall be deposited pursuant to any authority available to the Secretary. When applicable, however, net proceeds from the saleof surplus property transferred under this subsection shall be credited pursuant to section 572(a) of this title.
 
 &emsp;(3)
 

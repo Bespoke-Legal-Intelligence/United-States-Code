@@ -1,6 +1,6 @@
 ### §9801. Statement of purpose
 
-The purpose of this subchapter is to encourage the development of special programs by which the residents of urban and rural low-income areas may, through self-help and mobilization of the community at large, with appropriate Federal assistance, improve the quality of their economic and social participation in community life in such a way as to contribute to the elimination of poverty and the establishment of permanent economic and social benefits.
+The purpose of this subchapter is to encourage the development of special programs by which the residents of urban and rural low-incomeareas may, through self-help and mobilization of the community at large, with appropriate Federal assistance, improve the quality of their economic and social participation in community life in such a way as to contribute to the elimination of poverty and the establishment of permanent economic and social benefits.
 
 (Pub. L. 97–35, title VI, §612, Aug. 13, 1981, 95 Stat. 489.)
 
@@ -42,7 +42,7 @@ Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: “That this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending sections 8621, 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8621, 8623, and 10901 of this title, andamending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] may be cited as the ‘Human Services Reauthorization Act of 1986’.”
+Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: “That this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending sections 8621, 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8621, 8623, and 10901 of this title, and amending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] may be cited as the ‘Human Services Reauthorization Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

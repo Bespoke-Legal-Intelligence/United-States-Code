@@ -10,7 +10,7 @@ Section 3904, Pub. L. 90–448, title IV, §405, Aug. 1, 1968, 82 Stat. 514, rel
 
 Section 3905, Pub. L. 90–448, title IV, §406, Aug. 1, 1968, 82 Stat. 515, related to fees and charges for guarantees and the submission of a report to Congress concerning such fees and charges.
 
-Section 3906, Pub. L. 90–448, title IV, §407, Aug. 1, 1968, 82 Stat. 515; Pub. L. 91–351, title VII, §703, July 24, 1970, 84 Stat. 462; Pub. L. 91–609, title III, §303(a), Dec. 31,1970, 84 Stat. 1780, provided for a revolving guarantee fund. Section 4528 of this title transferred all receipts, funds, or other assets and all liabilities of the revolving fund established under this section to the revolving fund established under section 4518 of this title.
+Section 3906, Pub. L. 90–448, title IV, §407, Aug. 1, 1968, 82 Stat. 515; Pub. L. 91–351, title VII, §703, July 24, 1970, 84 Stat. 462; Pub. L. 91–609, title III, §303(a), Dec. 31, 1970, 84 Stat. 1780, provided for a revolving guarantee fund. Section 4528 of this title transferred all receipts, funds, or other assets and all liabilities of the revolving fund established under this section to the revolving fund established under section 4518 of this title.
 
 #### Short Title
 

@@ -14,7 +14,7 @@ If the police force of which the participant is a member subjects the participan
 
 #### (d) Layoffs
 
-If the police force of which the participant is a member lays off the participant such as would preclude the participant's completing 4 years of service, and result in denial of educational assistance under section 14095 of this title, the Director may permit the participant to complete the service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, section 14095(d)(1)(B)(iii) of this title shall not apply.
+If the police force of which the participant is a member lays off the participant such as would preclude the participant's completing 4 years of service, and result in denial of educational assistance under section 14095 of this title, the Director may permit the participant to completethe service obligation in an equivalent alternative law enforcement service and, if such service is satisfactorily completed, section 14095(d)(1)(B)(iii) of this title shall not apply.
 
 (Pub. L. 103–322, title XX, §200109, Sept. 13, 1994, 108 Stat. 2055.)
 

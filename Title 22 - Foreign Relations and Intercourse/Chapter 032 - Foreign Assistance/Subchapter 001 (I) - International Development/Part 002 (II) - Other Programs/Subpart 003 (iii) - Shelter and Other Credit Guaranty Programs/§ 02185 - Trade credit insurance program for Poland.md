@@ -26,7 +26,7 @@ The agreement referred to in subsection (c) of this section shall also provide f
 
 #### (1) Funds which may be used
 
-&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilitiesunder guarantees entered into under subsection (a) of this section.
+&emsp;Such amounts of the funds made available to carry out part IV of subchapter II of this chapter (relating to the economic support fund) as the President determines are necessary may be made available to discharge liabilities under guarantees entered into under subsection (a) of this section.
 
 #### (2) Crediting of subsequent payments
 

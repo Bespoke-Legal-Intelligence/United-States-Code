@@ -28,7 +28,7 @@ The Secretary may enter into cooperative agreements with the National Park Found
 
 The fee for a national park passport and stamp shall be $50.
 
-(Pub. L. 105–391, title VI, §603, Nov. 13, 1998, 112 Stat. 3519; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §145\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171; Pub. L. 106–176, title III, §306, Mar. 10, 2000, 114 Stat. 33.)
+(Pub. L. 105–391, title VI, §603, Nov. 13, 1998, 112 Stat. 3519; Pub. L. 106–113, div. B, §1000(a)(3)\[title I, §145\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171; Pub. L. 106–176, title III, §306, Mar. 10, 2000, 114 Stat. 33.)
 
 #### Amendments
 

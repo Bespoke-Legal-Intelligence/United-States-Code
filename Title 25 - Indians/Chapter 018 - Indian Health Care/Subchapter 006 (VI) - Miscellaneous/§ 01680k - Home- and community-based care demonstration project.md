@@ -64,7 +64,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated for each of the fiscal years 1996 through 2000 such sums as may be necessary to carry out this section. Such sums shall remain available until expended.
+There are authorized to be appropriated for each of the fiscal years 1996 through 2000 suchsums as may be necessary to carry out this section. Such sums shall remain available until expended.
 
 (Pub. L. 94–437, title VIII, §821, as added Pub. L. 102–573, title VIII, §809, Oct. 29, 1992, 106 Stat. 4587; amended Pub. L. 104–313, §2(g), Oct. 19, 1996, 110 Stat. 3822.)
 

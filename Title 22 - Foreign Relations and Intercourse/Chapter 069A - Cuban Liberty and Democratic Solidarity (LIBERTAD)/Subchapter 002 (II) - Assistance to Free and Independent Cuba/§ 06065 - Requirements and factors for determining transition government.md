@@ -46,7 +46,7 @@ In addition to the requirements in subsection (a) of this section, in determinin
 
 &emsp;&emsp;(C) assuring the right to private property; and
 
-&emsp;&emsp;(D) taking appropriate steps to return to United States citizens (and entities whichare 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or to provide equitable compensation to such citizens and entities for such property;
+&emsp;&emsp;(D) taking appropriate steps to return to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or to provide equitable compensation to such citizens and entities for such property;
 
 &emsp;(3) has extradited or otherwise rendered to the United States all persons sought by the United States Department of Justice for crimes committed in the United States; and
 

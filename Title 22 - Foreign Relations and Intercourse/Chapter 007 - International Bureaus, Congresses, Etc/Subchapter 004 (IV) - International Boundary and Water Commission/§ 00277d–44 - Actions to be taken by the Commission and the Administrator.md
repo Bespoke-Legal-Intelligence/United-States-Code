@@ -54,7 +54,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(J) Provision for the transfer of ownership of the Mexican facility to the United States, and provision for a cancellation fee by the United States to the owner of the Mexican facility, if the Commission fails to perform its obligations under the contract. The cancellation fee shall be in amounts declining over the term of the contract anticipated to be sufficient to repay construction debt and other amounts due to the owner that remain unamortized due to early termination of the contract.
 
-&emsp;&emsp;(K) Provision for the transfer of ownership of the Mexican facility to the United States, without a cancellation fee, if the owner of the Mexican facility fails to perform the obligations of the owner under the contract.
+&emsp;&emsp;(K) Provision for the transfer of ownership of the Mexican facility to the United States,without a cancellation fee, if the owner of the Mexican facility fails to perform the obligations of the owner under the contract.
 
 &emsp;&emsp;(L) The use of competitive procedures, consistent with title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), by the owner of the Mexican facility in the procurement of property or services for the engineering, construction, and operation and maintenance of the Mexican facility.
 
@@ -70,7 +70,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of State shall monitor the implementation ofany contract entered into under this section and evaluate the extent to which the owner of the Mexican facility has met the terms of this section and fulfilled the terms of the contract.
+&emsp;The Inspector General of the Department of State shall monitor the implementation of any contract entered into under this section and evaluate the extent to which the owner of the Mexican facility has met the terms of this section and fulfilled the terms of the contract.
 
 #### (2) Report
 

@@ -36,7 +36,7 @@
 
 #### (c) Acreage reports
 
-As a condition on the receipt of any benefits under this subchapter or subchapter II of thischapter, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
+As a condition on the receipt of any benefits under this subchapter or subchapter II of this chapter, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
 
 #### (d) Tenants and sharecroppers
 

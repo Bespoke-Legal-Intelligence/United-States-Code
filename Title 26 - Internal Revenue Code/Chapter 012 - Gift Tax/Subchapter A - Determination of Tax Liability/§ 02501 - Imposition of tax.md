@@ -34,7 +34,7 @@
 
 #### (4) Burden of proof
 
-&emsp;If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for paragraph (3), result in a substantial reduction for the calendar year in the taxes on the transfer of property by gift, the burden of proving that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on such individual.
+&emsp;If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for paragraph (3), result in a substantial reduction for the calendar year in the taxes on the transfer of property by gift, the burden of proving thatsuch loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on such individual.
 
 #### (5) Transfers to political organizations
 
@@ -54,7 +54,7 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 &emsp;&emsp;<b>(2) For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 85–866, title I, §§43(b), 102(b), Sept. 2, 1958, 72 Stat. 1641, 1674; Pub. L. 86–779, §4(d), Sept. 14,1960, 74 Stat. 1000; Pub. L. 89–809, title I, §109(a), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 91–614, title I, §102(a)(1), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–625, §14(a), Jan. 3, 1975, 88 Stat. 2121; Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834; Pub. L. 97–34, title IV, §442(a)(1), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–647, title III, §3031(a)(2), Nov. 10, 1988, 102 Stat. 3635; Pub. L. 101–508, title XI, §11601(b)(2), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 104–191, title V, §511(e)(2), (f)(2)(B), Aug. 21, 1996, 110 Stat. 2098, 2100; Pub. L. 105–34, title XVI, §1602(g)(5), Aug. 5, 1997, 111 Stat. 1095.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 85–866, title I, §§43(b), 102(b), Sept. 2, 1958, 72 Stat. 1641, 1674; Pub. L. 86–779, §4(d), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §109(a), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 91–614, title I, §102(a)(1), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–625, §14(a), Jan. 3, 1975, 88 Stat. 2121; Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834; Pub. L. 97–34, title IV, §442(a)(1), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–647, title III, §3031(a)(2), Nov. 10, 1988, 102 Stat. 3635; Pub. L. 101–508, title XI, §11601(b)(2), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 104–191, title V, §511(e)(2), (f)(2)(B), Aug. 21, 1996, 110 Stat. 2098, 2100; Pub. L. 105–34, title XVI, §1602(g)(5), Aug. 5, 1997, 111 Stat. 1095.)
 
 #### Amendments
 

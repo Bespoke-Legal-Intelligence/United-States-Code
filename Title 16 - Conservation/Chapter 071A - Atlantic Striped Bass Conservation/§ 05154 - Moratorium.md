@@ -30,7 +30,7 @@ During a moratorium period, it is unlawful for any person—
 
 #### (B) Disposal of fish
 
-&emsp;&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
+&emsp;&emsp;Any fish seized pursuant to this chapter may be disposed of pursuant to the order ofa court of competent jurisdiction, or, if perishable, in a manner prescribed in regulations.
 
 #### (d) Enforcement
 
@@ -54,7 +54,7 @@ The Secretaries may issue regulations to implement this section.
 
 1986—Pub. L. 99–432, §3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
 
-Pub. L. 99–432, §3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executedby making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
+Pub. L. 99–432, §3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
 
 #### Effective Date of 1996 Amendment
 

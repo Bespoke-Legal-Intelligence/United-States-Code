@@ -22,7 +22,7 @@ Limitation of Jurisdiction of District Courts.—The district court shall abstai
 
 Special Rules and Definitions.—For purposes of this section—
 
-&emsp;(1) minimal diversity exists between adverse parties if any party is a citizen of a State and any adverse party is a citizen of anotherState, a citizen or subject of a foreign state, or a foreign state as defined in section 1603(a) of this title;
+&emsp;(1) minimal diversity exists between adverse parties if any party is a citizen of a State and any adverse party is a citizen of another State, a citizen or subject of a foreign state, or a foreign state as defined in section 1603(a) of this title;
 
 &emsp;(2) a corporation is deemed to be a citizen of any State, and a citizen or subject of any foreign state, in which it is incorporated or has its principal place of business, and is deemed to be a resident of any State in which it is incorporated or licensed to do business or is doing business;
 

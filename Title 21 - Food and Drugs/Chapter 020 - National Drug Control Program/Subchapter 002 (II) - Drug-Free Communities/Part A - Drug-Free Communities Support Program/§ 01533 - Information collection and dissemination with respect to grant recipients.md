@@ -44,7 +44,7 @@
 
 #### (3) Consultation
 
-&emsp;The Administrator shall carry out activities under this subsection in consultation with the Advisory Commission and the National Community Antidrug Coalition Institute.
+&emsp;The Administrator shall carry out activities under this subsection in consultation with theAdvisory Commission and the National Community Antidrug Coalition Institute.
 
 #### (4) Limitation on use of certain funds for evaluation of Program
 

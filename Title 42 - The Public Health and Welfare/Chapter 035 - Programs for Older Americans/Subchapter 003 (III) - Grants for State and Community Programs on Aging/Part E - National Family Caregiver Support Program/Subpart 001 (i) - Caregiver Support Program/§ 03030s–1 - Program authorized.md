@@ -52,7 +52,7 @@ In carrying out this subpart, each area agency on aging shall coordinate the act
 
 #### (3) Reports
 
-&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data andrecords required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured.
+&emsp;The State shall prepare and submit to the Assistant Secretary reports on the data and records required under paragraph (2), including information on the services funded under this subpart, and standards and mechanisms by which the quality of the services shall be assured.
 
 #### (f) Caregiver allotment
 

@@ -110,7 +110,7 @@ Inapplicability of Certain Property Management Laws.—Except as otherwise provi
 
 &emsp;(2) Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
-&emsp;(3) Sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484).
+&emsp;(3) Subchapter II of chapter 5 and sections 541–555 of title 40.
 
 (k)
 
@@ -124,13 +124,15 @@ Property Support Service Defined.—In this section, the term ‘property suppor
 
 &emsp;(2) Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(18), Aug. 21, 2002, 116 Stat. 1296.)
 
 #### References in Text
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (k), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 #### Amendments
+
+2002—Subsec. (j)(3). Pub. L. 107–217 substituted “Subchapter II of chapter 5 and sections 541–555 of title 40” for “Sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
 
 2001—Subsec. (j)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 

@@ -16,7 +16,7 @@ Section was formerly classified to section 49 of Title 8, Aliens and Nationality
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. Seesection 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
 “United States magistrate judges” substituted in text for “magistrates” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28. Previously, “magistrates” substituted for “commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 

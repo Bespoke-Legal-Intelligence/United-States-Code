@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established, as an independent establishment of the executive branch of the United States Government, the Harry S Truman Scholarship Foundation.
+There is established, as an independent establishment of the executive branch of the UnitedStates Government, the Harry S Truman Scholarship Foundation.
 
 #### (b) Board of Trustees; membership
 

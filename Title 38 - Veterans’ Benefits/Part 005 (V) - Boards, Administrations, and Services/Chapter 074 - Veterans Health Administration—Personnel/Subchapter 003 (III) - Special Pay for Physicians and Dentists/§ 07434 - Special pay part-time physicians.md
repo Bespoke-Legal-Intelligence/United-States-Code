@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this subchapter were contained in section 4118 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
+Provisions similar to those in this subchapter were contained in section 4118 of this title prior to the repealof that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Effective Date
 

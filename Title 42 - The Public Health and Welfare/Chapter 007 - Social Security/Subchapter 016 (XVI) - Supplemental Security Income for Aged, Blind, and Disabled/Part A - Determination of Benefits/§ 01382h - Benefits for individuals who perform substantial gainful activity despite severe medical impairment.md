@@ -16,7 +16,7 @@
 
 &emsp;(A) such individual continues to be blind or continues to have the disabling physical or mental impairment on the basis of which he was found to be under a disability and, except for his earnings, meets all non-disability-related requirements for eligibility for benefits under this subchapter;
 
-&emsp;(B) the income of such individual would not, except for his earnings and increases pursuantto section 415(i) of this title in the level of monthly insurance benefits to which the individual is entitled under subchapter II of this chapter that occur while such individual is considered to be receiving supplemental security income benefits by reason of this subsection, be equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments);
+&emsp;(B) the income of such individual would not, except for his earnings and increases pursuant to section 415(i) of this title in the level of monthly insurance benefits to which the individual is entitled under subchapter II of this chapter that occur while such individual is considered to be receiving supplemental security income benefits by reason of this subsection, be equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments);
 
 &emsp;(C) the termination of eligibility for benefits under subchapter XIX of this chapter would seriously inhibit his ability to continue his employment; and
 
@@ -32,7 +32,7 @@
 
 &emsp;(ii) meets the requirements of paragraph (1); and
 
-&emsp;(B) was eligible for medical assistance under the State plan approved under subchapter XIX of this chapter in the month immediately preceding the first month in which the individual qualified for a benefit under such subsection or met such requirements,
+&emsp;(B) was eligible for medical assistance under the State plan approved under subchapter XIXof this chapter in the month immediately preceding the first month in which the individual qualified for a benefit under such subsection or met such requirements,
 
 > shall remain eligible for medical assistance under such plan for so long as the individual qualifies for a benefit under such subsection or meets such requirements.
 

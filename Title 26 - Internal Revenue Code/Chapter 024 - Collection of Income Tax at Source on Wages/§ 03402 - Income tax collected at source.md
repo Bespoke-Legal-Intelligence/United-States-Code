@@ -18,7 +18,7 @@
 
 (1) If wages are paid with respect to a period which is not a payroll period, the withholding exemption allowable with respect to each payment of such wages shall be the exemption allowed for a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
 
-(2) In any case in which wages are paid by an employer without regard to any payroll periodor other period, the withholding exemption allowable with respect to each payment of such wages shall be the exemption allowed for a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
+(2) In any case in which wages are paid by an employer without regard to any payroll period or other period, the withholding exemption allowable with respect to each payment of such wages shall be the exemption allowed for a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
 (3) In any case in which the period, or the time described in paragraph (2), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to compute the tax to be deducted and withheld as if the aggregate of the wages paid to the employee during the calendar week were paid for a weekly payroll period.
 
@@ -30,7 +30,7 @@
 
 (2) If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
 
-(3) In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
+(3) In any case in which wages are paid by an employer without regard to any payroll period or other period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing anumber of days equal to the number of days (including Sundays and holidays) which have elapsed since the date of the last payment of such wages by such employer during the calendar year, or the date of commencement of employment with such employer during such year, or January 1 of such year, whichever is the later.
 
 (4) In any case in which the period, or the time described in paragraph (3), in respect of any wages is less than one week, the Secretary, under regulations prescribed by him, may authorize an employer to determine the amount to be deducted and withheld under the tables applicable in the case of a weekly payroll period, in which case the aggregate of the wages paid to the employee during the calendar week shall be considered the weekly wages.
 
@@ -76,7 +76,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (C) Change of status which affects next calendar year
 
-&emsp;&emsp;If on any day during the calendar year the number of withholding exemptions to which the employee will be, or may reasonably be expected to be, entitled at the beginning of his next taxable year under subtitle A is different from the number to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary may by regulations prescribe, furnish the employer with a withholding exemption certificate relating to the number of withholding exemptions which he claims with respect to such next taxable year, which shall in no event exceed the number to which he will be, or may reasonably be expected to be, so entitled.
+&emsp;&emsp;If on any day during the calendar year the number of withholding exemptions to which the employee will be, or may reasonably beexpected to be, entitled at the beginning of his next taxable year under subtitle A is different from the number to which the employee is entitled on such day, the employee shall, in such cases and at such times as the Secretary may by regulations prescribe, furnish the employer with a withholding exemption certificate relating to the number of withholding exemptions which he claims with respect to such next taxable year, which shall in no event exceed the number to which he will be, or may reasonably be expected to be, so entitled.
 
 #### (3) When certificate takes effect
 
@@ -186,7 +186,7 @@ In the case of remuneration paid in any medium other than cash for services perf
 
 #### (k) Tips
 
-In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that the tax canbe deducted and withheld by the employer, at or after the time such statement is so furnished and before the close of the calendar year in which such statement is furnished, from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer for the purpose of such deduction and withholding) as are under the control of the employer; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (16)(B) of section 3401(a) is applicable may deduct and withhold the tax with respect to such tips from any wages of the employee (excluding tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20. Such tax shall not at any time be deducted and withheld in an amount which exceeds the aggregate of such wages and funds (including funds turned over under section 3102(c)(2) or section 3202(c)(2)) minus any tax required by section 3102(a) or section 3202(a) to be collected from such wages and funds.
+In the case of tips which constitute wages, subsection (a) shall be applicable only to such tips as are included in a written statement furnished to the employer pursuant to section 6053(a), and only to the extent that the tax can be deducted and withheld by the employer, at or after the time such statement is so furnished and before the close of the calendar year in which such statement is furnished, from such wages of the employee (excluding tips, but including funds turned over by the employee to the employer for the purpose of such deduction and withholding) as are under the control of the employer; and an employer who is furnished by an employee a written statement of tips (received in a calendar month) pursuant to section 6053(a) to which paragraph (16)(B) of section 3401(a) is applicable may deduct and withhold the tax with respect to such tips from any wages of the employee (excluding tips) under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20. Such tax shall not at any time be deducted and withheld in an amount which exceeds the aggregate of such wages and funds (including funds turned over under section 3102(c)(2) or section 3202(c)(2)) minus any tax required by section 3102(a) or section 3202(a) to be collected from such wages and funds.
 
 #### (<i>l</i>) Determination and disclosure of marital status
 
@@ -196,7 +196,7 @@ In the case of tips which constitute wages, subsection (a) shall be applicable o
 
 #### (2) Disclosure of status by employee
 
-&emsp;An employee shall be entitled to furnish the employer with a withholding exemption certificate indicating he is married only if, on the day of such furnishing, he is married (determined with the application of the rules in paragraph (3)). An employee whose marital status changes from married to single shall, at such time as the Secretary may by regulations prescribe, furnish the employer with a new withholding exemption certificate.
+&emsp;An employee shall be entitled to furnish the employer with a withholding exemption certificate indicating he is married only if, on the day of such furnishing, he is married (determined with the application of the rules inparagraph (3)). An employee whose marital status changes from married to single shall, at such time as the Secretary may by regulations prescribe, furnish the employer with a new withholding exemption certificate.
 
 #### (3) Determination of marital status
 
@@ -394,7 +394,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;The tax imposed by paragraph (1) shall not apply to any payment to the extent that the payment, when annualized, does not exceed an amount equal to the sum of—
 
-&emsp;&emsp;(A) the basic standard deduction (as defined in section 63(c)) for an individual to whom section 63(c)(2)(C) applies, and
+&emsp;&emsp;(A) the basic standard deduction (as defined in section 63(c)) for an individual to whom section 63(c)(2)(C) <sup>1</sup> applies, and
 
 &emsp;&emsp;(B) the exemption amount (as defined in section 151(d)).
 
@@ -449,6 +449,8 @@ Notwithstanding any other provision of this section, an employer shall not be re
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (<i>l</i>)(1), is the date of enactment of Pub. L. 89–368, which was approved Mar. 15, 1966.
+
+Section 63(c)(2)(C), referred to in subsec. (r)(2)(A), was redesignated section 63(c)(2)(D), and a new section 63(c)(2)(C) was added, by Pub. L. 107–147, title IV, §411(e)(1)(C), (D), Mar. 9, 2002, 116 Stat. 46.
 
 Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (r)(4), is classified to section 2703 of Title 25, Indians.
 
@@ -540,7 +542,7 @@ Subsec. (f)(1)(G). Pub. L. 97–34, §101(e)(3), inserted “(or more than one e
 
 Subsec. (i). Pub. L. 97–34, §101(e)(4), substituted provisions authorizing the Secretary by regulations to provide for increases or decreases in the amount of withholding otherwise required under this section in cases where the employee requests the changes, for provisions under which the Secretary was authorized to provide withholding in addition to that otherwise required under this section in cases in which the employer and the employee agreed to such additional withholding.
 
-Subsec. (m). Pub. L. 97–34, §101(e)(5), revised provisions respecting additional withholding allowances for anticipated excess itemized deductions and tax credits claimed in accordance with Treasury regulations and Treasury statutory authority to provide additional withholding allowances for any additional items specified in Treasury regulations.
+Subsec. (m). Pub. L. 97–34, §101(e)(5), revised provisions respecting additional withholding allowances foranticipated excess itemized deductions and tax credits claimed in accordance with Treasury regulations and Treasury statutory authority to provide additional withholding allowances for any additional items specified in Treasury regulations.
 
 1980—Subsec. (<i>o</i>)(1)(C). Pub. L. 96–601, §4(a), added subpar. (C).
 
@@ -572,7 +574,7 @@ Subsec. (m)(2)(C). Pub. L. 95–30, §105(b)(3)(C), substituted “(or the zero 
 
 Subsec. (q)(3)(C). Pub. L. 95–30, §405(a), inserted reference to certain parimutuel pools and jai alai in heading and, in text, designated existing provisions as cl. (i) and added cl. (ii).
 
-1976—Subsec. (a). Pub. L. 94–455, §§401(d)(1), 1906 (b)(13)(A), struck out “or his delegate” after “Secretary”, inserted “With respect to wages paid prior to January 1, 1978” after “by the Secretary”, as amended, and substituted “prescribed under this section which were” for “contained in this subsection as” after “same as the tables”, “1976” for “1975” after “January 1”, and “With respect to wages paid after December 31, 1977, the Secretary shall prescribe new tables which shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary toreflect the amendments made to subsections (b) and (c) of section 141 by the Tax Reform Act of 1976” for “except that the amounts set forth as amounts of income tax to be withheld with respect to wages paid after April 30, 1975, and before January 1, 1976, shall reflect the full calendar year effect for 1975 of the amendments made by sections 201, 202, 203, and 204 of the Tax Reduction Act of 1975” after “effect on January 1, 1976”, as amended.
+1976—Subsec. (a). Pub. L. 94–455, §§401(d)(1), 1906 (b)(13)(A), struck out “or his delegate” after “Secretary”, inserted “With respect to wages paid prior to January 1, 1978” after “by the Secretary”, as amended, and substituted “prescribed under this section which were” for “contained in this subsection as” after “same as the tables”, “1976” for “1975” after “January 1”, and “With respect to wages paid after December 31, 1977, the Secretary shall prescribe new tables which shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made to subsections (b) and (c) of section 141 by the Tax Reform Act of 1976” for “except that the amounts set forth as amounts of income tax to be withheld with respect to wages paid after April 30, 1975, and before January 1, 1976, shall reflect the full calendar year effect for 1975 of the amendments made by sections 201, 202, 203, and 204 of the Tax Reduction Act of 1975” after “effect on January 1, 1976”, as amended.
 
 Pub. L. 94–414 substituted “October 1, 1976” for “September 15, 1976”.
 
@@ -600,7 +602,7 @@ Subsecs. (n), (p). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 
 Subsec. (q). Pub. L. 94–455, §1207(d), added subsec. (q).
 
-1975—Subsec. (a). Pub. L. 94–164, §5(a)(1), inserted provision that the tables prescribed with respect to wages paid after Dec. 31, 1975, and before July 1, 1976, shall be the same as the tables prescribed under this subsection which were in effect on Dec. 10, 1975.
+1975—Subsec. (a). Pub. L. 94–164, §5(a)(1), inserted provision that the tables prescribed with respect to wages paid after Dec. 31, 1975, and before July 1, 1976, shall bethe same as the tables prescribed under this subsection which were in effect on Dec. 10, 1975.
 
 Pub. L. 94–12, §205(a), substituted provisions directing the Secretary to prescribe new withholding tables setting changed withholding rates for wages paid during the period May 1, 1975, to Dec. 31, 1975, so as to reflect the full calendar year effect for 1975 of the amendments to the minimum standard deduction, the percentage standard deduction, the earned income credit, and the additional tax credit by sections 201, 202, 203, and 204 of the Tax Reduction Act of 1975, Pub. L. 94–12, for provisions setting out 8 tables to be followed by employers in withholding taxes on wages paid.
 
@@ -644,7 +646,7 @@ Subsec. (a)(3) to (5). Pub. L. 91–172, §805(a), added sets of tables applicab
 
 Subsec. (b)(1). Pub. L. 91–172, §805(b)(1)–(4), revised withholding rates effective with respect to wages paid after Dec. 31, 1969, and before July 1, 1970, for the period after June 30, 1970, and before Jan. 1, 1972, during 1972, and after 1972.
 
-Subsec. (c)(1). Pub. L. 91–172, §805(c)(1), substituted provisions authorizing employer to deduct and withhold tax determinable according to tables prescribed by the Secretary or his delegate for provisions underwhich the employer was authorized to deduct and withhold tax only according to tables set out.
+Subsec. (c)(1). Pub. L. 91–172, §805(c)(1), substituted provisions authorizing employer to deduct and withhold tax determinable according to tables prescribed by the Secretary or his delegate for provisions under which the employer was authorized to deduct and withhold tax only according to tables set out.
 
 Subsec. (c)(6). Pub. L. 91–172, §805(c)(2), substituted provisions for determination of amount deductible according to tables prescribed by the Secretary or his delegate and for computation of wages and amounts of income tax after Dec. 31, 1969, for provisions for determination of such wages and amounts of income tax after July 13, 1968, and before Jan. 1, 1970.
 
@@ -670,7 +672,7 @@ Subsecs. (<i>o</i>), (p). Pub. L. 91–172, §805(g), added subsecs. (<i>o</i>) 
 
 Subsec. (c)(6). Pub. L. 90–364, §102(c)(2), added par. (6).
 
-1966—Subsec. (a). Pub. L. 89–368, §101(a), struck out reference to subsections (j) and (k) and substituted provisions establishing separate tables for single persons and for married persons in each of eight payroll period categories each containing six graduated withholding rates ranging from 14 to 30 percent for provisions placing the rate at a fixed 14 percent.
+1966—Subsec. (a). Pub. L. 89–368, §101(a), struck out reference to subsections (j) and (k) and substituted provisions establishing separate tables for single persons and for married persons in each of eight payroll period categories each containing six graduated withholdingrates ranging from 14 to 30 percent for provisions placing the rate at a fixed 14 percent.
 
 Subsec. (b)(1). Pub. L. 89–368, §101(b), increased amounts set out for one withholding exemption for each of the payroll period categories from “$13.00”, $26.00”, “$28.00”, “$56.00”, “$167.00”, “$333.00”, “$667.00”, and “$1.80” to “$13.50”, “$26.90”, “$29.20”, “$58.30”, “$175.00”, “$350.00”, “$700.00”, and “$1.90” respectively.
 
@@ -764,7 +766,7 @@ Section 101(f)(2) of Pub. L. 95–600 provided that: “The amendments made by s
 
 Section 102(d)(2) of Pub. L. 95–600 provided that: “The amendments made by subsection (c) \[amending this section\] shall apply with respect to remuneration paid after December 31, 1978.”
 
-Amendment by section 601(b)(2) of Pub. L. 95–600 applicable with respect to corporations chartered after Dec. 31, 1978, and before Jan. 1, 1984, see section 601(d) of Pub. L. 95–600, set out as a note under section 172 of this title.
+Amendment by section 601(b)(2) of Pub. L. 95–600 applicable with respect to corporations chartered afterDec. 31, 1978, and before Jan. 1, 1984, see section 601(d) of Pub. L. 95–600, set out as a note under section 172 of this title.
 
 #### Effective Date of 1977 Amendment
 
@@ -846,7 +848,7 @@ Section 1581(a) of Pub. L. 99–514 provided that: “The Secretary of the Treas
 
 Section 1581(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1015(p), Nov. 10, 1988, 102 Stat. 3572, provided that: “If an employee has not filed a revised withholding allowance certificate before October 1, 1987, the employer shall withhold income taxes from the employee's wages—
 
-&emsp;“(1) as if the employee claimed 1 withholding allowance, if the employee checked the ‘single’ box on the employee's previous withholding allowance certificate, or
+&emsp;“(1) as if the employee claimed 1 withholding allowance, if the employee checked the ‘single’ box on theemployee's previous withholding allowance certificate, or
 
 &emsp;“(2) as if the employee claimed 2 withholding allowances, if the employee checked the ‘married’ box on the employee's previous withholding allowance certificate.
 
@@ -871,4 +873,6 @@ Section 1 of act Aug. 9, 1955, provided that: “The terms used in this Act \[am
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 31, 275, 3401, 3405, 3406, 3505, 3507, 3509, 3510, 4999, 6040, 6051, 6205, 6413, 6682, 7205 of this title; title 25 section 2719; title 42 sections 407, 659.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,5 +34,5 @@ Pub. L. 94–297, §1, May 29, 1976, 90 Stat. 585, provided: “That this Act \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1164, 1460, 2252, 2252A, 2266, 3559, 3598, 5032 of this title; title 15 sections 632, 1175, 1243, 1245; title 16 sections 3371, 3377; title 25 sections 1616e–1, 1777d, 1903, 2801, 3202, 3653, 4302; title 28 section 1738B; title 33 sections 1377, 2269; title 42 sections 608, 654, 3796gg–2, 10101; title 49 section 40128.
+This section is referred to in sections 1164, 1460, 2252, 2252A, 2266, 3559, 3598, 5032 of this title; title 15 sections 632, 1175, 1243, 1245; title 16 sections 3371, 3377; title 25sections 1616e–1, 1777d, 1903, 2801, 3202, 3653, 4302; title 28 section 1738B; title 33 sections 1377, 2269; title 42 sections 608, 654, 3796gg–2, 10101; title 49 section 40128.
 

@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, 
 
 Pub. L. 107–107, div. A, title V, §533(b)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Naval Academy to receive instruction under section 6957 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
-Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
+Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28,2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 106–398 applicable with respect to academic years that be
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the UnitedStates Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under section 4344 of this title.
+Amendment by Pub. L. 106–65 applicable with respect to students from a foreign country entering the United States Military Academy, Naval Academy, or Air Force Academy on or after May 1, 1999, see section 534(d) of Pub. L. 106–65, set out as a note under section 4344 of this title.
 
 #### Effective Date of 1997 Amendment
 

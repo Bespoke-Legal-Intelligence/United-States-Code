@@ -42,7 +42,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (2) Additional rules applicable to sale
 
-&emsp;The Secretary shall by regulations prescribe the manner and other conditions of the sale of property seized by levy. If one or more alternative methods or conditions are permitted by regulations, the Secretary shall select the alternatives applicable to the sale. Such regulations shall provide:
+&emsp;The Secretary shall by regulations prescribe the manner and other conditions of the sale of property seized by levy. If one or more alternative methods or conditions are permitted byregulations, the Secretary shall select the alternatives applicable to the sale. Such regulations shall provide:
 
 &emsp;&emsp;(A) That the sale shall not be conducted in any manner other than—
 
@@ -62,7 +62,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (3) Payment of amount bid
 
-&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed toagain sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
+&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
 
 #### (4) Cross reference
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Uniform Asset Disposal Mechanism
 
-Pub. L. 105–206, title III, §3443, July 22, 1998, 112 Stat. 762, provided that: “Not later than the date which is 2 years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary's delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing.”
+Pub. L. 105–206, title III, §3443, July 22, 1998, 112 Stat. 762, provided that: “Not later than the date which is 2years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary's delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing.”
 
 #### Section Referred to in Other Sections
 

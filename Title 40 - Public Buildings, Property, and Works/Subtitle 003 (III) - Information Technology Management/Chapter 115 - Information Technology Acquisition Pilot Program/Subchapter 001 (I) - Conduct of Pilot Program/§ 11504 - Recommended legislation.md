@@ -26,5 +26,5 @@ Pub. L. 104–106, div. E, title LIII, §5304, Feb. 10, 1996, 110 Stat. 692.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, setout as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 

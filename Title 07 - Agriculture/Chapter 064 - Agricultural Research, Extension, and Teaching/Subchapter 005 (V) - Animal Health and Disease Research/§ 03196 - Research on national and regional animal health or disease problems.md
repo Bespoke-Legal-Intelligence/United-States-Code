@@ -68,7 +68,7 @@ Subsec. (f). Pub. L. 104–127, §812(5), added subsec. (f).
 
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98, §1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
+1981—Subsec. (a). Pub. L. 97–98, §1430(a), substituted “as Congress may determine necessary to support research on specific national or regional animal health or disease problems, but not to exceed $35,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year” for “, not to exceed $15,000,000 annually, as Congress may determine necessary to support research on specific national or regional animal health or disease problems”.
 
 Subsec. (b). Pub. L. 97–98, §1430(b), substituted provisions that funds appropriated under this section shall be awarded in the form of grants, for periods not to exceed five years, to eligible institutions for provisions that such funds shall be allocated by the Secretary to eligible institutions for work to be done, as mutually agreed upon between the Secretary and the eligible institution or institutions and that the Secretary shall consult the Board in developing plans for the use of these funds whenever possible.
 
@@ -80,5 +80,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3200, 3311 of this title.
+This section is referred to in sections 3200, 3311 of this title; title 40 section 525.
 

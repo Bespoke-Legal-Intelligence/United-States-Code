@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 105–285, §112(c), inserted at end “Each Head Start pro
 
 Subsec. (d)(1)(B). Pub. L. 105–285, §112(d), substituted “a community that is an off-reservation area, designated by an appropriate tribal government, in consultation with the Secretary” for “a community with a near-reservation designation, as defined by the Bureau of Indian Affairs”.
 
-1994—Subsec. (c). Pub. L. 103–252, §111(1), substituted “shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce anyrule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
+1994—Subsec. (c). Pub. L. 103–252, §111(1), substituted “shall be permitted to provide more than 1 year of Head Start services to eligible children (age 3 to compulsory school attendance) in the State.” for “may provide more than one year of Head Start services to children from age 3 to the age of compulsory school attendance in the State in which the Head Start program is located. The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
 
 Subsec. (d). Pub. L. 103–252, §111(2), added subsec. (d).
 

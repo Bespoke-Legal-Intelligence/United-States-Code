@@ -46,7 +46,7 @@ Exclusions From Tour Length.—The Secretary of Defense may exclude the followin
 
 (e)
 
-Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year,measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
+Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
 
 (2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
 
@@ -194,7 +194,7 @@ Subsec. (g)(3). Pub. L. 100–456, §514(5), substituted “shall be excluded if
 
 Subsec. (h). Pub. L. 100–456, §514(6), added subsec. (h).
 
-1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows:“The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
+1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
 
 Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
 
@@ -284,7 +284,7 @@ Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consulta
 
 “(3) The Secretary, after consultation with the Chairman of the Joint Chiefs of Staff, may give credit for service in a joint duty assignment under paragraph (1) in the case of an officer recommended for such credit by the Chief of Staff of the Army (for officers in the Army), the Chief of Naval Operations (for officers in the Navy), the Chief of Staff of the Air Force (for officers in the Air Force), and the Commandant of the Marine Corps (for officers in the Marine Corps). Any such credit shall be granted by the Secretary on a case-by-case basis.
 
-“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service in a joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of a full tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
+“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service in a joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of afull tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
 
 “(b)
 
@@ -322,7 +322,7 @@ Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 6
 
 #### Waiver of Qualifications for Appointment as Service Chief
 
-For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, set out as a note under section 3033 of this title.
+For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
 
 #### Section Referred to in Other Sections
 

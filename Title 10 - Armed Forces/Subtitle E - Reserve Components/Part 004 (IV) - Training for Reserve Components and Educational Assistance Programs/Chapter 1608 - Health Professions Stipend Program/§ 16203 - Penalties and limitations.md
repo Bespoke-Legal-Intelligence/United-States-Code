@@ -8,7 +8,7 @@ Failure to Complete Program of Training.—(1) A member of the program who, unde
 
 &emsp;(B) to repay the United States an amount equal to the total amount paid to such person under the program.
 
-(2) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member participating in the program who is dropped from the program from any requirement that may be imposed under paragraph (1), but such relief shall not relieve him from any military obligation imposed by any other law.
+(2) The Secretary of a military department, under regulations prescribed by the Secretary ofDefense, may relieve a member participating in the program who is dropped from the program from any requirement that may be imposed under paragraph (1), but such relief shall not relieve him from any military obligation imposed by any other law.
 
 (b)
 

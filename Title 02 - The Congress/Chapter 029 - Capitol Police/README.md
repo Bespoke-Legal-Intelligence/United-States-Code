@@ -21,6 +21,24 @@
 | (b) | Responsibility and accountability of certifying officers. |
 | (c) | Enforcement of liability. |
 | [1905\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001905%20-%20Deposit%20and%20use%20of%20reimbursements%20for%20law%20enforcement%20assistance.md) | Deposit and use of reimbursements for law enforcement assistance. |
+| [1906\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001906%20-%20Disposal%20of%20surplus%20property.md) | Disposal of surplus property. |
+| (a) | In general. |
+| (b) | Amounts received. |
+| (c) | Effective date. |
+| [1907\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001907%20-%20Transfer%20of%20disbursing%20function.md) | Transfer of disbursing function. |
+| (a) | In general. |
+| (b) | Treasury accounts. |
+| (c) | Transfer of funds, assets, accounts, records, and authority. |
+| (d) | Unexpended balances. |
+| (e) | Hiring authority; eligibility for same benefits as House employees. |
+| (f) | Worker's compensation. |
+| (g) | Effect on existing law. |
+| (h) | Omitted. |
+| (i) | Effective date. |
+| [1908\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001908%20-%20Legal%20representation%20authority.md) | Legal representation authority. |
+| (a) | In general. |
+| (b) | Limitations. |
+| (c) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,7 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1921\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001921%20-%20Payment%20of%20Capitol%20Police.md) | Payment of Capitol Police. |
+| [1921\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001921%20-%20Repealed.%20Pub.%20L.%20108%E2%80%937%2C%20div.%20H%2C%20title%20I%2C%20%C2%A71018%28h%29%282%29%2C%20Feb.%2020%2C%202003%2C%20117%20Stat.%20369.md) | Repealed. |
 | [1922\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001922%20-%20Unified%20payroll%20administration.md) | Unified payroll administration. |
 | [1923\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001923%20-%20Unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system.md) | Unified schedules of rates of basic pay and leave system. |
 | (a) | Rates of basic pay. |
@@ -43,23 +61,32 @@
 | (e) | Transfer of accrued compensatory time off or receipt of lump-sum payment upon termination of service. |
 | (f) | Definitions. |
 | [1925\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001925%20-%20Emergency%20duty%20overtime%20pay%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate.md) | Emergency duty overtime pay from funds disbursed by Secretary of the Senate. |
-| [1926\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001926%20-%20Student%20loan%20repayment%20program.md) | Student loan repayment program. |
-| (a) | Establishment and maintenance of program. |
-| (b) | Applicability of other laws. |
-| (c) | Limitations on amount. |
-| (d) | Reimbursements. |
-| (e) | Crediting and use of funds repaid by, or recovered from, an individual. |
-| (f) | Effective date. |
+| [1926\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001926%20-%20Educational%20assistance%20program%20for%20employees.md) | Educational assistance program for employees. |
+| (a) | Establishment. |
+| (b) | Special rules for student loan repayments. |
+| (c) | Limit on amount of payments. |
+| (d) | No review of determinations. |
+| (e) | Effective date. |
 | [1927\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001927%20-%20Bonuses%2C%20retention%20allowances%2C%20and%20additional%20compensation.md) | Bonuses, retention allowances, and additional compensation. |
 | (a) | Recruitment and relocation bonuses. |
 | (b) | Retention allowances. |
 | (c) | Lump sum incentive and merit bonus payments. |
 | (d) | Service step increases for meritorious service for officers. |
-| (e) | Additional compensation for field training officers. |
-| (f) | Regulations. |
-| (g) | Effective date. |
+| (e) | Regulations. |
+| (f) | Effective date. |
 | [1928\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001928%20-%20Suspension.md) | Suspension. |
 | [1929\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001929%20-%20Pay%20of%20members%20under%20suspension.md) | Pay of members under suspension. |
+| [1930\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001930%20-%20Applicable%20pay%20rate%20upon%20appointment.md) | Applicable pay rate upon appointment. |
+| (a) | In general. |
+| (b) | Effective date. |
+| [1931\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001931%20-%20Additional%20compensation%20for%20employees%20with%20specialty%20assignments%20and%20proficiencies.md) | Additional compensation for employees with specialty assignments and proficiencies. |
+| (a) | Establishment of positions. |
+| (b) | Additional compensation. |
+| (c) | Manner of payment. |
+| (d) | Determination not appealable or reviewable. |
+| [1932\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20B%20-%20Compensation%20and%20Other%20Personnel%20Matters/%C2%A7%2001932%20-%20Application%20of%20premium%20pay%20limits%20on%20annualized%20basis.md) | Application of premium pay limits on annualized basis. |
+| (a) | In general. |
+| (b) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -127,6 +154,14 @@
 | [1971\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001971%20-%20Contributions%20of%20meals%20and%20refreshments%20during%20emergency%20duty.md) | Contributions of meals and refreshments during emergency duty. |
 | [1972\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001972%20-%20Contributions%20of%20comfort%20and%20other%20incidental%20items%20and%20services%20during%20emergency%20duty.md) | Contributions of comfort and other incidental items and services during emergency duty. |
 | [1973\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001973%20-%20Support%20and%20maintenance%20expenditures%20during%20emergency%20duty.md) | Support and maintenance expenditures during emergency duty. |
+| [1974\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001974%20-%20Capitol%20Police%20special%20officers.md) | Capitol Police special officers. |
+| (a) | In general. |
+| (b) | Conditions of appointment. |
+| (c) | Qualifications. |
+| (d) | Reimbursement agreements. |
+| (e) | Approval. |
+| (f) | Regulations. |
+| (g) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -18,7 +18,7 @@
 
 #### (b) Education and vocational training
 
-The Secretary may arrange for education and vocational training of enrollees through local public or private educational agencies, vocational educational institutions, or technical institutes, whenever such entities provide education and training substantially equivalent incost and quality to that which the Secretary could provide through other means.
+The Secretary may arrange for education and vocational training of enrollees through local public or private educational agencies, vocational educational institutions, or technical institutes, whenever such entities provide education and training substantially equivalent in cost and quality to that which the Secretary could provide through other means.
 
 #### (c) Advanced career training programs
 

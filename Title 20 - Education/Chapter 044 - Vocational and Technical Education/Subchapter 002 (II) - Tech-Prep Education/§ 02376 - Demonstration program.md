@@ -40,7 +40,7 @@ There is authorized to be appropriated to carry out this section $25,000,000 for
 
 #### Prior Provisions
 
-A prior section 2376, Pub. L. 88–210, title III, §326, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988,102 Stat. 1509, provided findings and purpose of special program of financial assistance to States to enable them to expand and improve vocational education programs designed to meet current needs for training, retraining, and employment development of adults who had completed or left high school and were preparing to enter or had entered the labor market, including workers who were 55 years of age and older, in order to equip adults with competencies and skills required for productive employment, prior to repeal by Pub. L. 101–392, title III, §305, title VII, §702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+A prior section 2376, Pub. L. 88–210, title III, §326, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988, 102 Stat. 1509, provided findings and purpose of special program of financial assistance to States to enable them to expand and improve vocational education programs designed to meet current needs for training, retraining, and employment development of adults who had completed or left high school and were preparing to enter or had entered the labor market, including workers who were 55 years of age and older, in order to equip adults with competencies and skills required for productive employment, prior to repeal by Pub. L. 101–392, title III, §305, title VII, §702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@
 
 (2) All information reported to or otherwise obtained by the Commission or its representative under this Act which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18 or subject to section 552(b)(4) of title 5 shall be considered confidential and shall not be disclosed.
 
-(3) The Commission shall, prior to the disclosure of any information which will permit the public to ascertain readily the identity of a manufacturer or private labeler of a consumer product, offer such manufacturer or private labeler an opportunity to mark such information as confidential and therefore barred from disclosure under paragraph (2).
+(3) The Commission shall, prior to the disclosure of any information which will permit the public to ascertain readily the identity of amanufacturer or private labeler of a consumer product, offer such manufacturer or private labeler an opportunity to mark such information as confidential and therefore barred from disclosure under paragraph (2).
 
 (4) All information that a manufacturer or private labeler has marked to be confidential and barred from disclosure under paragraph (2), either at the time of submission or pursuant to paragraph (3), shall not be disclosed, except in accordance with the procedures established in paragraphs (5) and (6).
 
@@ -32,7 +32,7 @@
 
 (3) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin such disclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
 
-(4) Paragraphs (1) through (3) of this subsection shall not apply to the public disclosure of (A) information about any consumer product with respect to which product the Commissionhas filed an action under section 2061 of this title (relating to imminently hazardous products), or which the Commission has reasonable cause to believe is in violation of section 2068 of this title (relating to prohibited acts); or (B) information in the course of or concerning a rulemaking proceeding (which shall commence upon the publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking), an adjudicatory proceeding (which shall commence upon the issuance of a complaint) or other administrative or judicial proceeding under this Act.
+(4) Paragraphs (1) through (3) of this subsection shall not apply to the public disclosure of (A) information about any consumer product with respect to which product the Commission has filed an action under section 2061 of this title (relating to imminently hazardous products), or which the Commission has reasonablecause to believe is in violation of section 2068 of this title (relating to prohibited acts); or (B) information in the course of or concerning a rulemaking proceeding (which shall commence upon the publication of an advance notice of proposed rulemaking or a notice of proposed rulemaking), an adjudicatory proceeding (which shall commence upon the issuance of a complaint) or other administrative or judicial proceeding under this Act.
 
 (5) In addition to the requirements of paragraph (1), the Commission shall not disclose to the public information submitted pursuant to section 2064(b) of this title respecting a consumer product unless—
 
@@ -76,7 +76,7 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 (4) Upon written request of the Chairman or Ranking Minority Member of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee, the Commission shall provide to the Chairman or Ranking Minority Member any information furnished to the Commission under section 2084 of this title for purposes that are related to the jurisdiction of such committee or subcommittee.
 
-(5) Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title, who willfullyviolates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
+(5) Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under section 2084 of this title, who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
 
 (Pub. L. 92–573, §6, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 97–35, title XII, §1204, Aug. 13, 1981, 95 Stat. 713; Pub. L. 97–414, §9(j)(1), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 101–608, title I, §§106, 112(c), Nov. 16, 1990, 104 Stat. 3111, 3116.)
 

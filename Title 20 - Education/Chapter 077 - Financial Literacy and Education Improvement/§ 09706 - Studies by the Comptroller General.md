@@ -1,0 +1,36 @@
+### §9706. Studies by the Comptroller General
+
+#### (a) Effectiveness study
+
+Not later than 3 years after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of the Commission in promoting financial literacy and education.
+
+#### (b) Study and report on the need and means for improving financial literacy among consumers
+
+#### (1) Study required
+
+&emsp;The Comptroller General of the United States shall conduct a study to assess the extent of consumers’ knowledge and awareness of credit reports, credit scores, and the dispute resolution process, and on methods for improving financial literacy among consumers.
+
+#### (2) Factors to be included
+
+&emsp;The study required under paragraph (1) shall include the following issues:
+
+&emsp;&emsp;(A) The number of consumers who view their credit reports.
+
+&emsp;&emsp;(B) Under what conditions and for what purposes do consumers primarily obtain a copy of their consumer report (such as for the purpose of ensuring the completeness and accuracy of the contents, to protect against fraud, in response to an adverse action based on the report, or in response to suspected identity theft) and approximately what percentage of the total number of consumers who obtain a copy of their consumer report do so for each such primary purpose.
+
+&emsp;&emsp;(C) The extent of consumers’ knowledge of the data collection process.
+
+&emsp;&emsp;(D) The extent to which consumers know how to get a copy of a consumer report.
+
+&emsp;&emsp;(E) The extent to which consumers know and understand the factors that positively or negatively impact credit scores.
+
+#### (3) Report required
+
+&emsp;Before the end of the 12-month period beginning on December 4, 2003, the Comptroller General shall submit a report to Congress on the findings and conclusions of the Comptroller General pursuant to the study conducted under this subsection, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate, including recommendations on methods for improving financial literacy among consumers.
+
+(Pub. L. 108–159, title V, §517, Dec. 4, 2003, 117 Stat. 2008.)
+
+#### Definitions
+
+For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
+

@@ -1,4 +1,0 @@
-### \[§1076b. Repealed. Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685\]
-
-Section, added Pub. L. 104–106, div. A, title VII, §705(a)(1), Feb. 10, 1996, 110 Stat. 372; amended Pub. L. 104–201, div. A, title VII, §702(a), (b), Sept. 23, 1996, 110 Stat. 2588; Pub. L. 105–85, div. A, title VII, §733(a), Nov. 18, 1997, 111 Stat. 1812, related to Selected Reserve dental insurance.
-

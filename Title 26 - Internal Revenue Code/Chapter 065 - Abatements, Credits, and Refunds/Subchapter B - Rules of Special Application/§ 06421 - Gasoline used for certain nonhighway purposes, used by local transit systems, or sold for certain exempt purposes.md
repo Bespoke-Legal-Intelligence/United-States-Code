@@ -22,7 +22,7 @@ Except as provided in subsection (i), if gasoline is used in an off-highway busi
 
 #### (c) Exempt purposes
 
-If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) or (5) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) or (5) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstandingparagraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
 
 #### (d) Time for filing claims; period covered
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (1) Gasoline used on farms
 
-&emsp;This section shall not apply in respect of gasoline which was (within the meaning ofparagraphs (1), (2), and (3) of section 6420(c)) used on a farm for farming purposes.
+&emsp;This section shall not apply in respect of gasoline which was (within the meaning of paragraphs (1), (2), and (3) of section 6420(c)) used on a farm for farming purposes.
 
 #### (2) Gasoline used in aviation
 
@@ -230,7 +230,7 @@ Subsec. (e). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (d) as (e).
 
 Subsec. (e)(4). Pub. L. 99–499, §521(c)(2)(B), added par. (4).
 
-Subsec. (f). Pub. L. 99–514, §1703(c)(1)(A), (2)(B), redesignated subsec. (e) as (f), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) “Exempt sales” which read as follows: “No amount shall be payable under this section with respect to any gasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amount which (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundableunder any provision of this title, to any person with respect to such gasoline.” Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 99–514, §1703(c)(1)(A), (2)(B), redesignated subsec. (e) as (f), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) “Exempt sales” which read as follows: “No amount shall be payable under this section with respect to any gasoline which the Secretary determines was exempt from the tax imposed by section 4081. The amount which (but for this sentence) would be payable under this section with respect to any gasoline shall be reduced by any other amount which the Secretary determines is payable under this section, or is refundable under any provision of this title, to any person with respect to such gasoline.” Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 99–514, §1703(c)(1)(A), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 89–44 applicable with respect to gasoline used on or afte
 
 #### Effective Date of 1962 Amendment
 
-Section 5(d) of Pub. L. 87–508 provided in part that: “The amendments made by subsection (c)(2) \[amendingthis section\] shall apply only in respect of claims filed with respect to gasoline used on or after November 16, 1962.”
+Section 5(d) of Pub. L. 87–508 provided in part that: “The amendments made by subsection (c)(2) \[amending this section\] shall apply only in respect of claims filed with respect to gasoline used on or after November 16, 1962.”
 
 #### Effective Date of 1961 Amendment
 

@@ -25,6 +25,7 @@
 | [21\.](%C2%A7%2000021%20-%20Stolen%20or%20counterfeit%20nature%20of%20property%20for%20certain%20crimes%20defined.md) | Stolen or counterfeit nature of property for certain crimes defined. |
 | [23\.](%C2%A7%2000023%20-%201%20Court%20of%20the%20United%20States%20defined.md) | Court of the United States defined. |
 | [24\.](%C2%A7%2000024%20-%20Definitions%20relating%20to%20Federal%20health%20care%20offense.md) | Definitions relating to Federal health care offense. |
+| [25\.](%C2%A7%2000025%20-%20Use%20of%20minors%20in%20crimes%20of%20violence.md) | Use of minors in crimes of violence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +34,8 @@
 In the analysis of sections under this chapter heading, a new item, “14. Applicability to Canal Zone.”, was inserted by Senate amendment, to follow underneath item 13, inasmuch as a new section 14, with such a catchline, was inserted, by Senate amendment, in this chapter. See Senate Report No. 1620, amendments Nos. 1 and 3, 80th Cong.
 
 #### Amendments
+
+2003—Pub. L. 108–21, title VI, §601(b), Apr. 30, 2003, 117 Stat. 687, added item 25.
 
 2002—Pub. L. 107–273, div. B, title IV, §4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
 
@@ -68,7 +71,7 @@ Pub. L. 89–801, Nov. 8, 1966, 80 Stat. 1516, as amended by Pub. L. 91–39, Ju
 
 Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, provided:
 
-WHEREAS the problem of crime in America today presents the Nation with a major challenge calling formaximum law enforcement efforts at every level of Government;
+WHEREAS the problem of crime in America today presents the Nation with a major challenge calling for maximum law enforcement efforts at every level of Government;
 
 WHEREAS coordination of all Federal Criminal law enforcement activities and crime prevention programs is desirable in order to achieve more effective results;
 
@@ -126,3 +129,4 @@ Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Co
 - [&sect; 00021 - Stolen or counterfeit nature of property for certain crimes defined](%C2%A7%2000021%20-%20Stolen%20or%20counterfeit%20nature%20of%20property%20for%20certain%20crimes%20defined.md)
 - [&sect; 00023 - 1 Court of the United States defined](%C2%A7%2000023%20-%201%20Court%20of%20the%20United%20States%20defined.md)
 - [&sect; 00024 - Definitions relating to Federal health care offense](%C2%A7%2000024%20-%20Definitions%20relating%20to%20Federal%20health%20care%20offense.md)
+- [&sect; 00025 - Use of minors in crimes of violence](%C2%A7%2000025%20-%20Use%20of%20minors%20in%20crimes%20of%20violence.md)

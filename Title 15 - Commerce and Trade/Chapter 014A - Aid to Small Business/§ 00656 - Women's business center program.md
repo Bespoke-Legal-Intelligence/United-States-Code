@@ -40,7 +40,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (1) Non-Federal contributions
 
-&emsp;As a condition of receiving financial assistance authorized by this section, the recipient organization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
+&emsp;As a condition of receiving financial assistance authorized by this section, the recipientorganization shall agree to obtain, after its application has been approved and notice of award has been issued, cash contributions from non-Federal sources as follows:
 
 &emsp;&emsp;(A) in the first and second years, 1 non-Federal dollar for each 2 Federal dollars; and
 
@@ -280,7 +280,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;(D) information demonstrating the effective experience of the applicant in—
 
-&emsp;&emsp;&emsp;(i) conducting financial, management, and marketing assistance programs, as described in paragraphs (1), (2), and (3) of subsection (b) of this section, designed to impart or upgrade the business skills ofwomen business owners or potential owners;
+&emsp;&emsp;&emsp;(i) conducting financial, management, and marketing assistance programs, as described in paragraphs (1), (2), and (3) of subsection (b) of this section, designed to impart or upgrade the business skills of women business owners or potential owners;
 
 &emsp;&emsp;&emsp;(ii) providing training and services to a representative number of women who are both socially and economically disadvantaged;
 
@@ -306,7 +306,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;&emsp;(ii) as part of the final selection process, conduct a site visit at each women's business center for which a sustainability grant is sought; and
 
-&emsp;&emsp;&emsp;(iii) approve or disapprove applications for sustainability grants simultaneously with applications for grants under subsection (b) of this section.
+&emsp;&emsp;&emsp;(iii) approve or disapprove applications for sustainability grants simultaneouslywith applications for grants under subsection (b) of this section.
 
 #### (B) Data collection
 

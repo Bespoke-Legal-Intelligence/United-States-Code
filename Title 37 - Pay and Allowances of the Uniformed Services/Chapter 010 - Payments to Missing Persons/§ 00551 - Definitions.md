@@ -14,7 +14,7 @@ In this chapter:
 
 &emsp;&emsp;(E) a person determined to be dependent by the Secretary concerned, or his designee.
 
-&emsp;(2) The term “missing status” means the status of a member of a uniformed service who is officially carried or determined to be absent in a status of—
+&emsp;(2) The term “missing status” means the status of a member of a uniformed service whois officially carried or determined to be absent in a status of—
 
 &emsp;&emsp;(A) missing;
 
@@ -94,5 +94,5 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 501 of this title; title 10 sections 701, 1032, 1035, 1095a, 2181, 4342, 6954, 9342, 12301; title 26 section 112.
+This section is referred to in section 501 of this title; title 10 sections 701, 1032, 1035, 1095a, 2181, 4342, 6954, 9342, 12301; title 26 section 112; title 50, Appendix, section 592.
 

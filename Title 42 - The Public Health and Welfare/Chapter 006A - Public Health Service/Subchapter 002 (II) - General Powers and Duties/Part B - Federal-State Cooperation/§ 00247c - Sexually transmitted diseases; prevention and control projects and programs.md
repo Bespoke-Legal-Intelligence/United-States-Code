@@ -34,7 +34,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 #### (e) Authorization of appropriations; terms and conditions; payments; recordkeeping; audit; grant reduction; information disclosure
 
-(1) For the purpose of making grants under subsections (b) through (d) of this section, there are authorized to be appropriated $85,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
+(1) For the purpose of making grants under subsections (b) through (d) of this section, there are authorized to be appropriated $85,000,000 forfiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 1998.
 
 (2) Each recipient of a grant under this section shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grant, the total cost of the project or undertaking in connection with which such grant was given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
@@ -84,7 +84,7 @@ Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392,
 
 Subsec. (d). Pub. L. 100–607, §311(2), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to acquired immune deficiency syndrome.
 
-Subsec. (d)(1). Pub. L. 100–607, §311(4), substituted “(b) and (c)” for “(b), (c), and (d)”, struck out “and” after “1986,”, and inserted “, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991” before period at end of first sentence; substituted “(b) or (c)” for “(b), (c), or (d)” in third sentence; and struck out at end “If the appropriations under the first sentence for fiscal year 1985 exceed $50,000,000, one-half of the amount in excess of $50,000,000 shall be made available for grants under subsection (d) of this section; if the appropriations under the first sentence for fiscal year 1986 exceed $52,500,000, one-half of the amount in excess of $52,500,000 shall be made available for such grants; and if the appropriations under the first sentence for fiscal year 1987 exceed $55,000,000, one-half of the amount in excess of $55,000,000 shall be made available for such grants.”
+Subsec. (d)(1). Pub. L. 100–607, §311(4), substituted “(b) and (c)” for “(b), (c), and (d)”, struck out “and” after “1986,”, and inserted “, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991” before period at end of first sentence; substituted “(b) or (c)” for “(b), (c), or (d)” in third sentence; and struck out at end “If the appropriations under the first sentence for fiscal year 1985 exceed $50,000,000, one-half of the amount in excess of$50,000,000 shall be made available for grants under subsection (d) of this section; if the appropriations under the first sentence for fiscal year 1986 exceed $52,500,000, one-half of the amount in excess of $52,500,000 shall be made available for such grants; and if the appropriations under the first sentence for fiscal year 1987 exceed $55,000,000, one-half of the amount in excess of $55,000,000 shall be made available for such grants.”
 
 Subsecs. (e) to (g). Pub. L. 100–607, §311(2), (3), struck out subsec. (f) which related to conditional limitation on use of funds and redesignated subsecs. (e) and (g) as (d) and (e), respectively.
 

@@ -6,7 +6,7 @@ Terms and Conditions of Loan Guarantees.—In issuing a guarantee under this sub
 
 (b)
 
-Losses Arising From Fraud or Misrepresentation.—No payment may be made under a guarantee issued under this subchapter for a loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
+Losses Arising From Fraud or Misrepresentation.—No payment may be made under aguarantee issued under this subchapter for a loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
 (c)
 

@@ -2,7 +2,7 @@
 
 #### (a) Supplementary grants
 
-The Secretary is authorized to make supplementary grants to applicant State and localpublic bodies and agencies carrying out, or assisting in carrying out, areawide development projects meeting the requirements of this section.
+The Secretary is authorized to make supplementary grants to applicant State and local public bodies and agencies carrying out, or assisting in carrying out, areawide development projects meeting the requirements of this section.
 
 #### (b) Criteria
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Refusal.—The Under Secretary of Transportation for Security shall prescribe regulations requiring an air carrier, intrastate air carrier, or foreign air carrier to refuse to transport—
+Mandatory Refusal.—The Under Secretary of Transportation for Security shall prescribe regulations requiring an air carrier,intrastate air carrier, or foreign air carrier to refuse to transport—
 
 &emsp;(1) a passenger who does not consent to a search under section 44901(a) of this title establishing whether the passenger is carrying unlawfully a dangerous weapon, explosive, or other destructive substance; or
 

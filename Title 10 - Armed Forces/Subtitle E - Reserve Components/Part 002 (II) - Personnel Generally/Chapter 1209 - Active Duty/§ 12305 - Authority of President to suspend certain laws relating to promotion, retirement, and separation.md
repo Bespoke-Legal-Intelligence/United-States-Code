@@ -24,19 +24,17 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Ex. Ord. No. 12728. Delegating President's Authority To Suspend any Provision of Law Relating to Promotion, Retirement, or Separation of Members of Armed Forces
 
-Ex. Ord. No. 12728, Aug. 22, 1990, 55 F.R. 35029, provided:
+Ex. Ord. No. 12728, Aug. 22, 1990, 55 F.R. 35029, as amended by Ex. Ord. No. 13286, §38, Feb. 28, 2003, 68 F.R. 10626, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 673c \[now 12305\] of title 10 of the United States Code and section 301 of title 3 of the United States Code, I hereby order:
 
-Section 1. The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by section 673c \[now 12305\] of title 10 of the United States Code (1) to suspend any provision of law relating to promotion, retirement, or separation applicable to any member of the armed forces determined to be essential to the national security of the United States, and (2) to determine, for the purposes of said section, that members of the armed forces are essential to the national security of the United States.
+Section 1. The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy, are hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by section 673c \[now 12305\] of title 10 of the United States Code (1) to suspend any provision of law relating to promotion, retirement, or separation applicable to any member of the armed forces determined to be essential to the national security of the United States, and (2) to determine, for the purposes of said section, that members of the armed forces are essential to the national security of the United States.
 
-Sec. 2. The authority delegated to the Secretary of Defense and the Secretary of Transportation by this order may be redelegated and further subdelegated to subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
+Sec. 2. The authority delegated to the Secretary of Defense and the Secretary of Homeland Security by this order may be redelegated and further subdelegated to subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
 
 Sec. 3. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 1145 of this title; title 37 section 302f; title 38 section 4312.
+This section is referred to in sections 101, 1145 of this title; title 37 sections 302f, 909; title 38 section 4312.
 

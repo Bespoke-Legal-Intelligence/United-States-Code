@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Delegation of Authority
 
-Authority of President to extend a transfer of an employee under this section delegated to Secretary ofState, see section 3 of Ex. Ord. No. 11552, Aug. 24, 1970, 35 F.R. 13569, set out as a note under section 3584 of this title.
+Authority of President to extend a transfer of an employee under this section delegated to Secretary of State, see section 3 of Ex. Ord. No. 11552, Aug. 24, 1970, 35 F.R. 13569, set out as a note under section 3584 of this title.
 
 #### Section Referred to in Other Sections
 

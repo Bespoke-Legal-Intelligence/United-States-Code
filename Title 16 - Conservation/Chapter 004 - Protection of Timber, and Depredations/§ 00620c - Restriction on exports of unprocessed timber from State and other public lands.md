@@ -2,7 +2,7 @@
 
 #### (a) Order to prohibit export of unprocessed timber originating from State or other public lands
 
-Except as provided in subsection (g) of this section, the Secretary of Commerce shall issue orders to prohibit the export from the United States of unprocessed timber originating from public lands, as provided in subsection (b) of this section.
+Except as provided in subsection (g) of this section, the Secretary of Commerce shall issueorders to prohibit the export from the United States of unprocessed timber originating from public lands, as provided in subsection (b) of this section.
 
 #### (b) Schedule for determination to prohibit export of unprocessed timber originating from State or other public lands
 
@@ -132,7 +132,7 @@ Nothing in sections 620 to 620j of this title shall be construed to limit the au
 
 #### Amendments
 
-1999—Subsec. (g). Pub. L. 106–36 substituted “Dispute Settlement Body of the World Trade Organization (as the term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “Contracting Parties to the General Agreement on Tariffs and Trade”.
+1999—Subsec. (g). Pub. L. 106–36 substituted “Dispute Settlement Body of the World Trade Organization (asthe term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “Contracting Parties to the General Agreement on Tariffs and Trade”.
 
 1997—Subsec. (b)(2). Pub. L. 105–83 struck out “the following shall apply:” in introductory provisions, substituted “the Secretary” for “(A) The Secretary” and “as of November 14, 1997” for “during the period beginning on June 1, 1993, and ending on December 31, 1995”, and struck out subpar. (B) which read as follows: “For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.”
 

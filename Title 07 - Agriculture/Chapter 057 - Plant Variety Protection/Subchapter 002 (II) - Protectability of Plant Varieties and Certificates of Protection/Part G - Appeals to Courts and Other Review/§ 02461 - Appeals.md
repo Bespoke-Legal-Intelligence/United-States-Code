@@ -16,7 +16,7 @@ Amendment by Pub. L. 103–349 effective 180 days after Oct. 6, 1994, see sectio
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

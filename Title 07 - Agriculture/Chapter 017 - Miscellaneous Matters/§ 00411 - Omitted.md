@@ -10,5 +10,5 @@ Functions of the Bureau of Agricultural Economics were transferred to other unit
 
 Agricultural Statistics Division of the Agricultural Marketing Service and its functions, personnel, property, etc., transferred to Bureau of Agricultural Economics for duration of World War II, see Ex. Ord. No. 9069.
 
-The functions, personnel and property of the Division of Farm Management and Costs of the Bureau of Agricultural Economics concerned primarily with the planning of current agricultural production were consolidated with other agencies into the Food Production Administration, which was consolidated into the War Food Administration, which was terminated and its functions transferred to the Secretary of Agriculture by Ex. Ord. No. 9577.
+The functions, personnel and property of the Division of Farm Management and Costs of the Bureau of Agricultural Economics concerned primarily with the planning of current agricultural production were consolidated with other agencies into the Food Production Administration, which was consolidated into the WarFood Administration, which was terminated and its functions transferred to the Secretary of Agriculture by Ex. Ord. No. 9577.
 

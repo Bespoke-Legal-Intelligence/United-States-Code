@@ -26,7 +26,7 @@ The Institute shall keep a record of the names and addresses of its Board member
 
 #### (g) Audits
 
-The accounts of the Institute shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of a State or other political subdivision of the United States on or before December 31, 1970. The audit shall be conducted at the place or places where the accounts of the Institute are normally kept. All books, accounts, financial records, files, and other papers, things, and property belonging to or in use by the Institute and necessary to facilitate the audit shall be made available to the person or persons conducting the audit, and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians shall be afforded to such person or persons.
+The accounts of the Institute shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The audit shall be conducted at the place or places where the accounts of the Institute are normally kept. All books, accounts, financial records, files, and other papers, things, and property belonging to or in use by the Institute and necessary to facilitate the audit shall be made available to the person or persons conducting the audit, and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians shall be afforded to such person or persons.
 
 #### (h) Report of audit to Congress; copies for public
 
@@ -36,7 +36,11 @@ The Institute shall provide a report of the audit to the President and to each H
 
 The Institute and its directors, officers, employees, and agents shall be subject to the provisions of section 552 of title 5 (relating to freedom of information).
 
-(Pub. L. 98–525, title XVII, §1708, Oct. 19, 1984, 98 Stat. 2657.)
+(Pub. L. 98–525, title XVII, §1708, Oct. 19, 1984, 98 Stat. 2657; Pub. L. 108–7, div. G, title V, §515, Feb. 20, 2003, 117 Stat. 345.)
+
+#### Amendments
+
+2003—Subsec. (g). Pub. L. 108–7 struck out “on or before December 31, 1970” after “political subdivision of the United States”.
 
 #### Termination of Reporting Requirements
 

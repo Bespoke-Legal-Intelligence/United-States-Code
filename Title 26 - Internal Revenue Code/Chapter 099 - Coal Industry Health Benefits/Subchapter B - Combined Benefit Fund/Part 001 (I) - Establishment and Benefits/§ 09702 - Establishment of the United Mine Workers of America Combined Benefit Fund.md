@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable (but not later than 60 days) after the enactment date, the personsdescribed in subsection (b) shall designate the individuals to serve as trustees. Such trustees shall create a new private plan to be known as the United Mine Workers of America Combined Benefit Fund.
+&emsp;As soon as practicable (but not later than 60 days) after the enactment date, the persons described in subsection (b) shall designate the individuals to serve as trustees. Such trustees shall create a new private plan to be known as the United Mine Workers of America Combined Benefit Fund.
 
 #### (2) Merger of retiree benefit plans
 
@@ -50,7 +50,7 @@
 
 #### (B) Former signatories
 
-&emsp;&emsp;The initial trustee under paragraph (1)(B) shall be designated by the 3 employers, other than 1988 agreement operators, which the records of the 1950 UMWA Benefit Plan and 1974 UMWA Benefit Plan indicate have the greatest number of eligible beneficiaries as of the enactment date, and such trustee and any successor shall serve until November 1, 1993.
+&emsp;&emsp;The initial trustee under paragraph (1)(B) shall be designated by the 3 employers, other than 1988 agreement operators, which therecords of the 1950 UMWA Benefit Plan and 1974 UMWA Benefit Plan indicate have the greatest number of eligible beneficiaries as of the enactment date, and such trustee and any successor shall serve until November 1, 1993.
 
 #### (c) Plan year
 

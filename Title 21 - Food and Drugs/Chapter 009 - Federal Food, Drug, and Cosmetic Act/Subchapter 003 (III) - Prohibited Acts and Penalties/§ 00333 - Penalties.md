@@ -42,7 +42,7 @@
 
 (5) If a person provides information leading to the institution of a criminal proceeding against, and conviction of, a person for a violation of section 331(t) of this title because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample in violation of section 353(c)(1) of this title, such person shall be entitled to one-half of the criminal fine imposed and collected for such violation but not more than $125,000.
 
-(6) Notwithstanding subsection (a) of this section, any person who is a manufacturer or importer of a covered product pursuant to section 384(a) of this title and knowingly fails to comply with a requirement of section 384(e) of this title that is applicable to such manufacturer or importer, respectively, shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
+(6) Notwithstanding subsection (a) of this section, any person who is a manufacturer or importer of a prescription drug under section 384(b) of this title and knowingly fails to comply with a requirement of section 384(e) of this title that is applicable to such manufacturer or importer, respectively, shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.
 
 #### (c) Exceptions in certain cases of good faith, etc.
 
@@ -94,19 +94,21 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (5) If any person fails to pay an assessment of a civil penalty—
 
-&emsp;(A) after the order making the assessment becomes final, and if such person does not file a petition for judicial review of the order in accordance with paragraph (4), or
+&emsp;(A) after the order making the assessment becomes final, and if such person does not filea petition for judicial review of the order in accordance with paragraph (4), or
 
 &emsp;(B) after a court in an action brought under paragraph (4) has entered a final judgment in favor of the Secretary,
 
 > the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (4) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609.)
+(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609; Pub. L. 108–173, title XI, §1121(b)(2), Dec. 8, 2003, 117 Stat. 2469.)
 
 #### References in Text
 
 The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (b)(6). Pub. L. 108–173, which directed amendment of subsec. (a)(6) by substituting “prescription drug under section 384(b)” for “covered product pursuant to section 384(a)”, was executed by making the substitution in subsec. (b)(6), to reflect the probable intent of Congress.
 
 2002—Subsec. (g)(1)(A). Pub. L. 107–250 inserted at end “For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.”
 
@@ -228,7 +230,7 @@ Pub. L. 99–660, title I, §103, Nov. 14, 1986, 100 Stat. 3751, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 360j, 859 of this title; title 15 section 1456.
+This section is referred to in sections 331, 355c, 360j, 859 of this title; title 15 section 1456.
 
 <i><sup>1</sup></i><i> So in original. Words “of this section” probably should not appear.</i>
 

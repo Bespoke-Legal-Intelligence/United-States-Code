@@ -50,7 +50,7 @@ Subsec. (a)(8) to (11). Pub. L. 94–455 struck out pars. (8) to (11) which rela
 
 Subsec. (a)(2). Pub. L. 89–44, §502(b)(12)(B), struck out reference to statements.
 
-1958—Subsec. (a). Pub. L. 85–859 included export warehouse proprietors in par. (1), struck out provisions in pars. (6) and (9) to (11) which related to labels and notices, and added pars. (7) and (8).
+1958—Subsec. (a). Pub. L. 85–859 included export warehouse proprietors in par. (1), struck out provisions inpars. (6) and (9) to (11) which related to labels and notices, and added pars. (7) and (8).
 
 #### Effective Date of 1997 Amendment
 

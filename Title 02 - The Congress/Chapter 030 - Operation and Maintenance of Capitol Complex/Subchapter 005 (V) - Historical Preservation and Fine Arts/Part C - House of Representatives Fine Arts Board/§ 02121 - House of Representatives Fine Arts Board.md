@@ -20,7 +20,7 @@ Section was classified to section 188c of former Title 40, prior to the enactmen
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 

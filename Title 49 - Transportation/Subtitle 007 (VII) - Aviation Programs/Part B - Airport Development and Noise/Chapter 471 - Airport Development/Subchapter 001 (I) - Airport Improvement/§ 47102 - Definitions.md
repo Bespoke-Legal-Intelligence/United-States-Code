@@ -52,7 +52,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ix) engineered materials arresting systems as described in the Advisory Circular No. 150/5220–22 published by the Federal Aviation Administration on August 21, 1998, including any revision to the circular; and
 
-&emsp;&emsp;&emsp;(x) replacement of baggage conveyor systems, and reconfiguration of terminal baggage areas, that the Secretary determines are necessary to install bulk explosive detection devices.
+&emsp;&emsp;&emsp;(x) replacement of baggage conveyor systems, and reconfiguration of terminal baggage areas, that the Secretary determines are necessary to install bulk explosive detection devices; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114.
 
 &emsp;&emsp;(C) acquiring an interest in land or airspace, including land for future airport development, that is needed—
 
@@ -68,21 +68,21 @@ In this subchapter—
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
-&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
+&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
 
 &emsp;&emsp;(I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
 
-&emsp;&emsp;(J) in fiscal year 2002, any additional security related activity required by law or by the Secretary after September 11, 2001, and before October 1, 2002.
+&emsp;&emsp;(J) constructing an air traffic control tower or acquiring and installing air traffic control, communications, and related equipment at an air traffic control tower under the terms specified in section 47124(b)(4).
 
-&emsp;&emsp;(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
+I13(K) work necessary to construct or modify airport facilities to provide low-emission fuel systems, gate electrification, and other related air quality improvements at a commercial service airport if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits, as described in section 47139.
 
-&emsp;&emsp;(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.
+&emsp;&emsp;(L) a project for the acquisition or conversion of vehicles and ground support equipment, owned by a commercial service airport, to low-emission technology, if the airport is located in an air quality nonattainment or maintenance area (as defined in sections 171(2) and 175A of the Clean Air Act (42 U.S.C. 7501(2); 7505a) and if such project will result in an airport receiving appropriate emission credits as described in section 47139.
 
 &emsp;(4) “airport hazard” means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
 
 &emsp;(5) “airport planning” means planning as defined by regulations the Secretary prescribes and includes integrated airport system planning.
 
-&emsp;(6) “amount made available under section 48103 of this title” means the amount authorized for grants under section 48103 of this title as reduced by any law enacted after September 3, 1982.
+&emsp;(6) “amount made available under section 48103” or “amount newly made available” means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
 
 &emsp;(7) “commercial service airport” means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
 
@@ -98,21 +98,29 @@ In this subchapter—
 
 &emsp;(9) “landed weight” means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
 
-&emsp;(10) “passenger boardings”—
+&emsp;(10) “large hub airport” means a commercial service airport that has at least 1.0 percent of the passenger boardings.
 
-&emsp;&emsp;(A) means revenue passenger boardings on an aircraft in service in air commerce as the Secretary determines under regulations the Secretary prescribes; and
+&emsp;(11) “low-emission technology” means technology for vehicles and equipment whose emission performance is the best achievable under emission standards established by the Environmental Protection Agency and that relies exclusively on alternative fuels that are substantially nonpetroleum based, as defined by the Department of Energy, but not excluding hybrid systems or natural gas powered vehicles.
+
+&emsp;(12) “medium hub airport” means a commercial service airport that has at least 0.25 percent but less than 1.0 percent of the passenger boardings.
+
+&emsp;(13) “nonhub airport” means a commercial service airport that has less than 0.05 percent of the passenger boardings.
+
+&emsp;(14) “passenger boardings”—
+
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
 
 &emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
-&emsp;(11) “primary airport” means a commercial service airport the Secretary determines to have more than 10,000 passenger boardings each year.
+&emsp;(15) “primary airport” means a commercial service airport the Secretary determines to have more than 10,000 passenger boardings each year.
 
-&emsp;(12) “project” means a project, separate projects included in one project grant application, or all projects to be undertaken at an airport in a fiscal year, to achieve airport development or airport planning.
+&emsp;(16) “project” means a project, separate projects included in one project grant application, or all projects to be undertaken at an airport in a fiscal year, to achieve airport development or airport planning.
 
-&emsp;(13) “project cost” means a cost involved in carrying out a project.
+&emsp;(17) “project cost” means a cost involved in carrying out a project.
 
-&emsp;(14) “project grant” means a grant of money the Secretary makes to a sponsor to carry out at least one project.
+&emsp;(18) “project grant” means a grant of money the Secretary makes to a sponsor to carry out at least one project.
 
-&emsp;(15) “public agency” means—
+&emsp;(19) “public agency” means—
 
 &emsp;&emsp;(A) a State or political subdivision of a State;
 
@@ -120,13 +128,13 @@ In this subchapter—
 
 &emsp;&emsp;(C) an Indian tribe or pueblo.
 
-&emsp;(16) “public airport” means an airport used or intended to be used for public purposes—
+&emsp;(20) “public airport” means an airport used or intended to be used for public purposes—
 
 &emsp;&emsp;(A) that is under the control of a public agency; and
 
 &emsp;&emsp;(B) of which the area used or intended to be used for the landing, taking off, or surface maneuvering of aircraft is publicly owned.
 
-&emsp;(17) “public-use airport” means—
+&emsp;(21) “public-use airport” means—
 
 &emsp;&emsp;(A) a public airport; or
 
@@ -134,19 +142,21 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(i) a reliever airport; or
 
-&emsp;&emsp;&emsp;(ii) determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
+&emsp;&emsp;&emsp;(ii) determined by the Secretary to have at least 2,500 passenger boardings eachyear and to receive scheduled passenger aircraft service.
 
-&emsp;(18) “reliever airport” means an airport the Secretary designates to relieve congestion at acommercial service airport and to provide more general aviation access to the overall community.
+&emsp;(22) “reliever airport” means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
 
-&emsp;(19) “sponsor” means—
+&emsp;(23) “small hub airport” means a commercial service airport that has at least 0.05 percent but less than 0.25 percent of the passenger boardings.
+
+&emsp;(24) “sponsor” means—
 
 &emsp;&emsp;(A) a public agency that submits to the Secretary under this subchapter an application for financial assistance; and
 
 &emsp;&emsp;(B) a private owner of a public-use airport that submits to the Secretary under this subchapter an application for financial assistance for the airport.
 
-&emsp;(20) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
+&emsp;(25) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629; Pub. L. 108–7, div. I, title III, §370(a), Feb. 20, 2003, 117 Stat. 424; Pub. L. 108–176, title I, §§141, 142, 159(b)(1), (d), title VIII, §801(a), Dec. 12, 2003, 117 Stat. 2503, 2510, 2511, 2586.)
 
 Historical and Revision Notes
 
@@ -272,7 +282,7 @@ In clause (3)(D), the words “any . . . work involved to” are omitted as su
 
 In clause (4), the word “near” is substituted for “in the vicinity of” to eliminate unnecessary words. The words “obstructs or otherwise is hazardous to the landing or taking off” are substituted for “obstructs the airspace required for the flight of aircraft in landing or taking off . . . or is otherwise hazardous to such landing or taking off” for clarity and to eliminate unnecessary words.
 
-In clause (6), the words “for a fiscal year . . . for that fiscal year” are omitted as surplus. The words “authorized for grants” are substituted for “made available for obligation” for clarity and consistency. The word “law” is substituted for “Act of Congress” for consistency in the revised title and with other titles of the Code. The words “or limited” are omitted as surplus.
+In clause (6), the words “for a fiscal year . . . for that fiscal year” are omitted as surplus. The words “authorized for grants” are substituted for “made available for obligation” for clarity and consistency. The word“law” is substituted for “Act of Congress” for consistency in the revised title and with other titles of the Code. The words “or limited” are omitted as surplus.
 
 In clause (8), before subclause (A), the words “the initial as well as continuing” and “nature” are omitted as surplus. In subclause (C), the words “needed to decide which aeronautical needs should be met” are substituted for “as may be necessary to determine the short-, intermediate-, and long-range aeronautical demands required to be met” for clarity and to eliminate unnecessary words. The word “particular” is eliminated as unnecessary. In subclause (D), the word “prescribed” is substituted for “the establishment . . . of” for consistency in the revised title and with other titles of the Code.
 
@@ -298,6 +308,46 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
+2003—Par. (3)(B)(x). Pub. L. 108–176, §142, inserted “; except that such activities shall be eligible for funding under this subchapter only using amounts apportioned under section 47114” before period at end.
+
+Par. (3)(H). Pub. L. 108–176, §141, inserted “nonhub airports and” before “airports that are not primary airports”.
+
+Par. (3)(J). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J) and struck out former subpar. (J) which read as follows: “in fiscal year 2002, any additional security related activity required by law or by the Secretary after September 11, 2001, and before October 1, 2002.”
+
+Par. (3)(K), (L). Pub. L. 108–176, §159(b)(1), added subpars. (K) and (L) and struck out former subpars. (K) and (L) which read as follows:
+
+“(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
+
+“(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.”
+
+Par. (3)(M). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J).
+
+Pub. L. 108–7 added subpar. (M).
+
+Par. (6). Pub. L. 108–176, §801(a)(6), added par. (6) and struck out former par. (6) which read as follows: “ ‘amount made available under section 48103 of this title’ means the amount authorized for grants under section 48103 of this title as reduced by any law enacted after September 3, 1982.”
+
+Par. (10). Pub. L. 108–176, §801(a)(5), added par. (10). Former par. (10) redesignated (14).
+
+Par. (10)(A), (B). Pub. L. 108–176, §801(a)(3), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) means revenue passenger boardings on an aircraft in service in air commerce as the Secretary determines under regulations the Secretary prescribes; and
+
+“(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.”
+
+Par. (11). Pub. L. 108–176, §159(d), amended section as amended by Pub. L. 108–176, §801, by adding par. (11).
+
+Pub. L. 108–176, §801(a)(4), redesignated par. (11) as (15).
+
+Pars. (12) to (18). Pub. L. 108–176, §801(a)(4), (5), added pars. (12) and (13) and redesignated pars. (10) to (14) as (14) to (18), respectively. Former pars. (15) to (18) redesignated (19) to (22), respectively.
+
+Pars. (19), (20). Pub. L. 108–176, §801(a)(4), redesignated pars. (15) and (16) as (19) and (20), respectively. Former pars. (19) and (20) redesignated (24) and (25), respectively.
+
+Pars. (21) and (22). Pub. L. 108–176, §801(a)(4), redesignated pars. (17) and (18) as pars. (21) and (22), respectively.
+
+Par. (23). Pub. L. 108–176, §801(a)(2), added par. (23).
+
+Pars. (24), (25). Pub. L. 108–176, §801(a)(1), redesignated pars. (19) and (20) as (24) and (25), respectively.
+
 2001—Par. (3)(B)(x). Pub. L. 107–71, §119(a)(5), added cl. (x).
 
 Par. (3)(J) to (L). Pub. L. 107–71, §119(a)(1), added subpars. (J) to (L).
@@ -320,6 +370,10 @@ Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out “paid for by a gran
 
 1994—Par. (3)(B)(ii). Pub. L. 103–305 inserted “, including explosive detection devices and universal access systems,” after “or security equipment”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -332,7 +386,19 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Guidance
+
+Pub. L. 108–176, title I, §159(b)(2), Dec. 12, 2003, 117 Stat. 2510, provided that:
+
+“(A)
+
+Eligible low-emission modifications and improvements.—The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, shall issue guidance describing eligible low-emission modifications and improvements, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(K) of title 49, United States Code, as added by this subsection.
+
+“(B)
+
+Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 44502, 47106, 47109, 47110, 47114, 47115, 47134, 47151, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
+This section is referred to in sections 40102, 40117, 41104, 44502, 44923, 46319, 47106, 47109, 47110, 47114, 47115, 47117, 47134, 47139, 47151, 47175, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
 

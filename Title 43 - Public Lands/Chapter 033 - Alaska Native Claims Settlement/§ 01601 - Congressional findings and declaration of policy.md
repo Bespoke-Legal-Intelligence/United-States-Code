@@ -30,7 +30,7 @@ Pub. L. 106–283, §1, Oct. 6, 2000, 114 Stat. 867, provided that: “This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This Act \[amending sections 1606, 1611, 1621, 1626, 1629e, 1634, and 1636 of this title and section3197 of Title 16, Conservation, and enacting provisions set out as a note under section 3198 of Title 16\] may be cited as the ‘ANCSA Land Bank Protection Act of 1998’.”
+Pub. L. 105–333, §14, Oct. 31, 1998, 112 Stat. 3136, provided that: “This Act \[amending sections 1606, 1611, 1621, 1626, 1629e, 1634, and 1636 of this title and section 3197 of Title 16, Conservation, and enacting provisions set out as a note under section 3198 of Title 16\] may be cited as the ‘ANCSA Land Bank Protection Act of 1998’.”
 
 #### Short Title of 1992 Amendment
 
@@ -108,7 +108,7 @@ Statute of Limitations.—(1) Notwithstanding any other provision of law, a civi
 
 “(b)
 
-Jurisdiction and Procedure.—(1) The United States District Court for the District of Alaska shallhave exclusive original jurisdiction over a civil action described in subsection (a)(1). The action shall be heard and determined by a court of three judges as provided in section 2284 of title 28 of the United States Code. An appeal of the final judgment of such court shall be made directly to the United States Supreme Court.
+Jurisdiction and Procedure.—(1) The United States District Court for the District of Alaska shall have exclusive original jurisdiction over a civil action described in subsection (a)(1). The action shall be heard and determined by a court of three judges as provided in section 2284 of title 28 of the United States Code. An appeal of the final judgment of such court shall be made directly to the United States Supreme Court.
 
 “(2) No money judgment shall be entered against the United States in a civil action subject to this section.
 

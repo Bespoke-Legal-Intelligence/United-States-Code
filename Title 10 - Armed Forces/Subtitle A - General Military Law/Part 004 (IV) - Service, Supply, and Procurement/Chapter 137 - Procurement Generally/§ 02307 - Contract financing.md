@@ -28,7 +28,7 @@ Security for Advance Payments.—Advance payments made under subsection (a) may 
 
 (e)
 
-Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure that any payment for work in progress (including materials, labor, and other items) under a defense contract that provides for such payments is commensurate with the work accomplished thatmeets standards established under the contract. The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.
+Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure that any payment for work in progress (including materials, labor, and other items) under a defense contract that provides for such payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.
 
 (2) The Secretary shall ensure that progress payments referred to in paragraph (1) are not made for more than 80 percent of the work accomplished under a defense contract so long as the Secretary has not made the contractual terms, specifications, and price definite.
 
@@ -82,7 +82,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (9) The head of an agency may not delegate responsibilities under this subsection to any person in a position below level IV of the Executive Schedule.
 
-(10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigationsof fraud or corruption related to procurement activities.
+(10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
 
@@ -106,7 +106,7 @@ Act
 
 Feb. 19, 1948, ch. 65, §5, 62 Stat. 23.
 
-In subsection (a), the words “and appropriate” are omitted as surplusage. The words “whether or not the contract previously provided for such payments” are substituted for the words “heretofore or hereafter executed”.
+In subsection (a), the words “and appropriate” are omitted as surplusage. The words “whether or not thecontract previously provided for such payments” are substituted for the words “heretofore or hereafter executed”.
 
 In subsection (b), the words “under subsection (a)” are inserted for clarity. The words “provide for” are substituted for the words “include as security provision for”. The words “United States” are substituted for the word “Government”.
 
@@ -190,7 +190,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: “The provisions of section 2307 oftitle 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
+Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: “The provisions of section 2307 of title 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
 
 #### Relationship of 1994 Amendment to Prompt Payment Requirements
 
@@ -198,7 +198,7 @@ Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by th
 
 #### Limitations on Progress Payments
 
-Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
+Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
 
 #### Obligations Entered Into Before November 16, 1973
 

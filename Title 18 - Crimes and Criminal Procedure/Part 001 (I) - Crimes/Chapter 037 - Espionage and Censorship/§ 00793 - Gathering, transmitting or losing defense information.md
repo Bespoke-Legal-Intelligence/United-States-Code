@@ -66,5 +66,5 @@ Limitation period in connection with indictments for violating this section, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 792, 951, 1717, 1956, 3077, 3239 of this title; title 5 section 8312; title 8 section 1101; title 19 section 1583; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34, 2410.
+This section is referred to in sections 792, 951, 1717, 1956, 3077, 3239 of this title; title 5 section 8312; title 8section 1101; title 19 section 1583; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34, 2410.
 

@@ -52,7 +52,7 @@
 
 #### (4) Distribution of subgrants
 
-&emsp;The Secretary may make a grant to a State educational agency only if the State educational agency agrees to expend at least 80 percent of the amount of the funds provided under the grant for the purpose of making, in accordance with subsection (c) of this section, competitive subgrants to eligible local educational agencies.
+&emsp;The Secretary may make a grant to a State educational agency only if the State educational agency agrees to expend at least 80percent of the amount of the funds provided under the grant for the purpose of making, in accordance with subsection (c) of this section, competitive subgrants to eligible local educational agencies.
 
 #### (5) Reallotment
 
@@ -88,7 +88,7 @@
 
 #### (4) Local application
 
-&emsp;To be eligible to receive a subgrant under this subsection, an eligible local educationalagency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
+&emsp;To be eligible to receive a subgrant under this subsection, an eligible local educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
 
 #### (5) State requirement
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;A State educational agency that receives a grant under this section may expend funds made available under subparagraph (A) for planning and administration relating to the State uses of funds authorized under this subpart, including the following:
 
-&emsp;&emsp;&emsp;(i) Administering the distribution of competitive subgrants to eligible localeducational agencies under subsection (c) of this section and section 6364(d) of this title.
+&emsp;&emsp;&emsp;(i) Administering the distribution of competitive subgrants to eligible local educational agencies under subsection (c) of this section and section 6364(d) of this title.
 
 &emsp;&emsp;&emsp;(ii) Assessing and evaluating, on a regular basis, eligible local educational agency activities assisted under this subpart, with respect to whether they have been effective in increasing the number of children in grades 1, 2, and 3 served under this subpart who can read at or above grade level.
 
@@ -278,7 +278,7 @@
 
 #### (B) Information included
 
-&emsp;&emsp;The progress report shall include information on the progress the State educational agency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level (as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction). The report shall also include evidence from the State educational agency and local educational agencies within the State that the State educational agency and the local educational agencies have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
+&emsp;&emsp;The progress report shall include information on the progress the State educationalagency and local educational agencies within the State are making in reducing the number of students served under this subpart in grades 1, 2, and 3 who are reading below grade level (as demonstrated by such information as teacher reports and school evaluations of mastery of the essential components of reading instruction). The report shall also include evidence from the State educational agency and local educational agencies within the State that the State educational agency and the local educational agencies have significantly increased the number of students reading at grade level or above, significantly increased the percentages of students described in section 6311(b)(2)(C)(v)(II) of this title who are reading at grade level or above, and successfully implemented this subpart.
 
 #### (2) Peer review
 
@@ -292,7 +292,11 @@
 
 Any portion of funds described in subsection (d)(1) of this section that a State educational agency does not expend in accordance with subsection (d)(1) of this section shall be expended for the purpose of making subgrants in accordance with subsection (c) of this section.
 
-(Pub. L. 89–10, title I, §1202, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1535.)
+#### (g) Supplement, not supplant
+
+A State or local educational agency shall use funds received under this subpart only to supplement the level of non-Federal funds that, in the absence of funds under this subpart, would be expended for activities authorized under this subpart, and not to supplant those non-Federal funds.
+
+(Pub. L. 89–10, title I, §1202, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1535; amended Pub. L. 108–7, div. G, title III, §305, Feb. 20, 2003, 117 Stat. 333.)
 
 #### References in Text
 
@@ -300,9 +304,13 @@ The Individuals with Disabilities Education Act, referred to in subsec. (c)(7)(A
 
 #### Prior Provisions
 
-A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Startprogram, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381a of this title.
+A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381a of this title.
 
 A prior section 1202 of Pub. L. 89–10 was classified to section 2782 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### Amendments
+
+2003—Subsec. (g). Pub. L. 108–7 added subsec. (g).
 
 #### Section Referred to in Other Sections
 

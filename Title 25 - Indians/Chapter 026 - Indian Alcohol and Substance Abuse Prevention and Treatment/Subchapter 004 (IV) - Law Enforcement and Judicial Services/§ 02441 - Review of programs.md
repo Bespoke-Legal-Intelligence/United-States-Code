@@ -12,7 +12,7 @@ In the development of the Memorandum of Agreement required by section 2411 of th
 
 #### (b) Dissemination of review
 
-The results of the review conducted pursuant to subsection (a) of this section shall be madeavailable to every Indian tribe as soon as possible for their consideration and use in the development and modification of a Tribal Action Plan.
+The results of the review conducted pursuant to subsection (a) of this section shall be made available to every Indian tribe as soon as possible for their consideration and use in the development and modification of a Tribal Action Plan.
 
 (Pub. L. 99–570, title IV, §4215, Oct. 27, 1986, 100 Stat. 3207–145.)
 

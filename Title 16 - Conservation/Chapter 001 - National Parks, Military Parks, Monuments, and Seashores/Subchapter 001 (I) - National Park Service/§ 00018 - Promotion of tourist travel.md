@@ -6,7 +6,7 @@ The Secretary of Commerce shall encourage, promote, and develop travel within th
 
 #### Amendments
 
-1975—Pub. L. 94–55 substituted “shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency” for “is authorized and directed to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce”.
+1975—Pub. L. 94–55 substituted “shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency” for “is authorized anddirected to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce”.
 
 #### Transfer of Functions
 

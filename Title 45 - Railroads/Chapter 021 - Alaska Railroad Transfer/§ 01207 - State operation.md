@@ -42,7 +42,7 @@ The Railway Labor Act, referred to in subsec. (a)(1), is act May 20, 1926, ch. 3
 
 Act of April 22, 1908 (45 U.S.C. 51 et seq.) (popularly referred to as the “Federal Employers’ Liability Act”), referred to in subsec. (a)(1), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, and is classified generally to chapter 2 (§51 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 51 of this title and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally tochapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
 Section 10713 of title 49, referred to in subsec. (a)(2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 10713 are contained in section 10709 of Title 49.
 

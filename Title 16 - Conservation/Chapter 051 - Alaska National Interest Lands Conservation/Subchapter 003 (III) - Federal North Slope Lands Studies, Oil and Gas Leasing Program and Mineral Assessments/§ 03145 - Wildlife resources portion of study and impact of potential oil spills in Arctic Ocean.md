@@ -16,7 +16,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 &emsp;(D) the tankers would traverse the American Exclusive Economic Zone through the Beaufort Sea into the Chuckchi Sea and then through the Bering Straits;
 
-&emsp;(E) the Beaufort and Chuckchi Seas are vital to Alaska's Native people, providing themwith subsistence in the form of walrus, seals, fish, and whales;
+&emsp;(E) the Beaufort and Chuckchi Seas are vital to Alaska's Native people, providing them with subsistence in the form of walrus, seals, fish, and whales;
 
 &emsp;(F) the Secretary of the Interior has conducted Outer Continental Shelf lease sales in the Beaufort and Chuckchi Seas and oil and gas exploration is ongoing;
 
@@ -30,7 +30,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 #### (c) Treaty negotiations
 
-The Congress calls upon the Secretary of State, in consultation with the Secretary of the Interior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiations with the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
+The Congress calls upon the Secretary of State, in consultation with the Secretary of theInterior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiations with the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
 
 #### (d) Report to Congress
 

@@ -6,7 +6,7 @@ There is hereby established an Office of Juvenile Justice and Delinquency Preven
 
 #### (b) Administrator; head, appointment, authorities, etc.
 
-The Office shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) appointed by the President, by and with the advice and consent of the Senate, from among individuals who have had experience in juvenile justice programs. The Administrator is authorized to prescribe regulations consistent with this chapter to award, administer, modify, extend, terminate, monitor, evaluate, reject, or deny all grants and contracts from, and applications for, funds made available under this subchapter. The Administrator shall have the same reporting relationship with the Attorney General as the directorsof other offices and bureaus within the Office of Justice Programs have.
+The Office shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) appointed by the President, by and with the advice and consent of the Senate, from among individuals who have had experience in juvenile justice programs. The Administrator is authorized to prescribe regulations consistent with this chapter to award, administer, modify, extend, terminate, monitor, evaluate, reject, or deny all grants and contracts from, and applications for, funds made available under this subchapter. The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have.
 
 #### (c) Deputy Administrator; appointment, functions, etc.
 

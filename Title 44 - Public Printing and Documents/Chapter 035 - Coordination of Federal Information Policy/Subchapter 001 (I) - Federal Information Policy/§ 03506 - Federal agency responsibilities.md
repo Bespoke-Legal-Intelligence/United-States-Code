@@ -88,7 +88,7 @@
 
 &emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
 
-&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
+&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection ofinformation submitted to the Director for review under section 3507—
 
 &emsp;&emsp;(A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
 

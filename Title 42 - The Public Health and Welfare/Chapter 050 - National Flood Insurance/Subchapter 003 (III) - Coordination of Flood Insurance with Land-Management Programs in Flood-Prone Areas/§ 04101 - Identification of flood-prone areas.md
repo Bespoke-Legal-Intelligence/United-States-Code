@@ -22,7 +22,7 @@ The Director shall, not later than September 30, 1984, submit to the Congress a 
 
 #### (e) Review of flood maps
 
-Once during each 5-year period (the 1st such period beginning on September 23, 1994) or more often as the Director determines necessary, the Director shall assess the need to revise and update all floodplain areas and flood risk zones identified, delineated, or established under this section, based on an analysis of all natural hazards affecting flood risks.
+Once during each 5-year period (the 1st such period beginning on September 23, 1994) or more often as the Director determines necessary, the Director shall assess the need to revise and update all floodplain areas and flood risk zones identified, delineated, or established under thissection, based on an analysis of all natural hazards affecting flood risks.
 
 #### (f) Updating flood maps
 
@@ -34,7 +34,7 @@ The Director shall revise and update any floodplain areas and flood-risk zonesâ€
 
 #### (g) Availability of flood maps
 
-To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders,State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
+To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
 
 #### (h) Notification of flood map changes
 

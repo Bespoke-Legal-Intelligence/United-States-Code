@@ -56,7 +56,7 @@ Any judge may by written election filed while he is a judge (except that in the 
 
 #### (d) Deposits in survivors annuity fund
 
-Each judge electing under subsection (b) shall deposit, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the credit of the survivors annuity fund, a sum equal to 3.5 percent of his judge's salary and of his basic salary, pay, or compensation for service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, and for any other civilian service within the purview of section 8332 of title 5 of the United States Code. Each such judge may elect to make such deposits in installments during the continuance of his service as a judge in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge to make such deposit, credit shall be allowed for the service rendered, but the annuity of the surviving spouse of such judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge, unless such surviving spouse shall elect to eliminate such service entirely from credit under subsection (n), except that no deposit shall be required from a judge for any year with respect to which deductions from his salary were actually made under the civil service retirement laws and no deposit shall be required for any honorable service in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States.
+Each judge electing under subsection (b) shall deposit, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the credit of the survivors annuity fund, a sum equal to 3.5 percent of his judge's salary and of his basic salary, pay, or compensation for service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, and for any other civilian service within the purview of section 8332 of title 5 of the United States Code. Each such judge may elect to make such deposits in installments during the continuance of his service as a judge in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge to make such deposit, credit shall be allowed for the service rendered, but the annuity of the surviving spouse of such judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge, unless such surviving spouse shall elect to eliminatesuch service entirely from credit under subsection (n), except that no deposit shall be required from a judge for any year with respect to which deductions from his salary were actually made under the civil service retirement laws and no deposit shall be required for any honorable service in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States.
 
 #### (e) Investment of survivors annuity fund
 
@@ -68,7 +68,7 @@ The amount deposited by or deducted and withheld from the salary of each judge e
 
 #### (g) Termination
 
-If the service of any judge electing under subsection (b) terminates other than pursuant to the provisions of section 7447 or other than pursuant to section 1106 of the Internal Revenue Code of 1939 or if any judge ceases to be marriedafter making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election, the amount credited to his individual account, together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his relinquishment of office, shall be returned to him. For the purpose of this section, the service of any judge electing under subsection (b) who is not reappointed following expiration of his term but who, at the time of such expiration, is eligible for and elects to receive retired pay under section 7447 shall be deemed to have terminated pursuant to said section.
+If the service of any judge electing under subsection (b) terminates other than pursuant to the provisions of section 7447 or other than pursuant to section 1106 of the Internal Revenue Code of 1939 or if any judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election, the amount credited to his individual account, together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his relinquishment of office, shall be returned to him. For the purpose of this section, the service of any judge electing under subsection (b) who is not reappointed following expiration of his term but who, at the time of such expiration, is eligible for and elects to receive retired pay under section 7447 shall be deemed to have terminated pursuant to said section.
 
 #### (h) Entitlement to annuity
 
@@ -114,7 +114,7 @@ Questions of dependency and disability arising under this section shall be deter
 
 &emsp;(v) if none of the above, to the duly appointed executor or administrator of the estate of such judge; and
 
-&emsp;(vi) if none of the above, to such other next of kin of such judge as may be determined bythe chief judge to be entitled under the laws of the domicile of such judge at the time of his death.
+&emsp;(vi) if none of the above, to such other next of kin of such judge as may be determined by the chief judge to be entitled under the laws of the domicile of such judge at the time of his death.
 
 > Determination as to the surviving spouse, child, or parent of a judge for the purposes of this paragraph shall be made by the chief judge without regard to the definitions in subsections (a)(6) and (7).
 
@@ -140,7 +140,7 @@ The annuity of the surviving spouse of a judge electing under subsection (b) sha
 
 #### (n) Includible service
 
-Subject to the provisions of subsection (d), the years of service of a judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge of the Tax Court of the United States, and as a judge of the Tax Court, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of section 8332 of title 5 of the United States Code.
+Subject to the provisions of subsection (d), the years of service of a judge which are allowableas the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge of the Tax Court of the United States, and as a judge of the Tax Court, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of section 8332 of title 5 of the United States Code.
 
 #### (<i>o</i>) Simultaneous entitlement
 
@@ -148,7 +148,7 @@ Nothing contained in this section shall be construed to prevent a surviving spou
 
 #### (p) Estimates of expenditures
 
-The chief judge shall submit to the President annual estimates of the expenditures and appropriations necessary for the maintenance and operation of the survivors annuity fund, and such supplemental and deficiency estimates as may be required from time to time for the same purposes, according to law. The chief judge shallcause periodic examinations of the survivors annuity fund to be made by an actuary, who may be an actuary employed by another department of the Government temporarily assigned for the purpose, and whose findings and recommendations shall be transmitted by the chief judge to the Tax Court.
+The chief judge shall submit to the President annual estimates of the expenditures and appropriations necessary for the maintenance and operation of the survivors annuity fund, and such supplemental and deficiency estimates as may be required from time to time for the same purposes, according to law. The chief judge shall cause periodic examinations of the survivors annuity fund to be made by an actuary, who may be an actuary employed by another department of the Government temporarily assigned for the purpose, and whose findings and recommendations shall be transmitted by the chief judge to the Tax Court.
 
 #### (q) Transitional provision
 
@@ -282,7 +282,7 @@ Period revocation permitted.—Any revocation under subparagraph (A) may be made
 
 “(5)
 
-Opportunity to elect survivor annuity where prior revocation.—Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit of the survivors annuity fund under subsection (c) of such section the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
+Opportunity to elect survivor annuity where prior revocation.—Any individual who under paragraph (4) revoked an election under subsection (b) of section 7448 of such Code may thereafter make such an election only if such individual deposits to the credit ofthe survivors annuity fund under subsection (c) of such section the entire amount paid to such individual under paragraph (4), together with interest computed as provided in subsection (d) of such section.”
 
 #### Effective Date of 1984 Amendment
 

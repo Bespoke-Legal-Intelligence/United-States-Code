@@ -10,17 +10,17 @@ Authorization.—Out of the amounts received by the Federal Aviation Administrat
 
 &emsp;(2)
 
-Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated $15,000,000 for each fiscal year to carry out the essential air service program under this subchapter.
+Additional funds.—In addition to amounts authorized under paragraph (1), there is authorized to be appropriated $77,000,000 for each fiscal year to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+
+&emsp;(3)
+
+Authorization for additional employees.—In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for the office responsible for carrying out the essential air service program.
 
 (b)
 
 Funding for Small Community Air Service.—Notwithstanding any other provision of law, moneys credited to the account established under section 45303(a) of this title, including the funds derived from fees imposed under the authority contained in section 45301(a) of this title, shall be used to carry out the essential air service program under this subchapter. Notwithstanding section 47114(g) <sup>1</sup> of this title, any amounts from those fees that are not obligated or expended at the end of the fiscal year for the purpose of funding the essential air service program under this subchapter shall be made available to the Administration for use in improving rural air safety under subchapter I of chapter 471 of this title and shall be used exclusively for projects at rural airports under this subchapter.
 
-(c)
-
-Special Rule for Fiscal Year 1997.—Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543.)
 
 Historical and Revision Notes
 
@@ -44,9 +44,19 @@ Section 47114 of this title, referred to in subsec. (b), does not contain a subs
 
 #### Amendments
 
+2003—Subsec. (a)(2). Pub. L. 108–176, §404(1), substituted “$77,000,000” for “$15,000,000” and inserted “of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance” before period at end.
+
+Subsec. (a)(3). Pub. L. 108–176, §404(2), added par. (3).
+
+Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec. (c). Text read as follows: “Notwithstanding subsections (a) and (b), in fiscal year 1997, amounts in excess of $75,000,000 that are collected in fees pursuant to section 45301(a)(1) of this title shall be available for the essential air service program under this subchapter, in addition to amounts specifically provided for in appropriations Acts.”
+
 2000—Subsec. (a). Pub. L. 106–181 designated existing provisions as par. (1), inserted heading, realigned margins, and added par. (2).
 
 1996—Pub. L. 104–264 amended section generally, substituting provisions relating to essential air service authorization for provisions stating that this subchapter was not effective after Sept. 30, 1998.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 

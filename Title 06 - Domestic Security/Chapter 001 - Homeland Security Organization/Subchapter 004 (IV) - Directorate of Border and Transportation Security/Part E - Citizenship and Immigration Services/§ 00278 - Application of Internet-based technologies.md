@@ -28,7 +28,7 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 #### (2) Composition
 
-&emsp;The Technology Advisory Committee shall be composed of representatives from hightechnology companies capable of establishing and implementing the system in an expeditious manner, and representatives of persons who may use the tracking system described in subsection (a) of this section and the online filing system described in subsection (b)(1) of this section.
+&emsp;The Technology Advisory Committee shall be composed of representatives from high technology companies capable of establishing and implementing the system in an expeditious manner, and representatives of persons who may use the tracking system described in subsection (a) of this section and the online filing system described in subsection (b)(1) of this section.
 
 (Pub. L. 107–296, title IV, §461, Nov. 25, 2002, 116 Stat. 2202.)
 
@@ -40,5 +40,5 @@ The Immigration and Nationality Act, referred to in subsec. (a), is act June 27,
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on date of their establishment, unless, in the case of a committee established by the Presidentor an officer of the Federal Government, such committee is renewed by appropriate action prior to expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

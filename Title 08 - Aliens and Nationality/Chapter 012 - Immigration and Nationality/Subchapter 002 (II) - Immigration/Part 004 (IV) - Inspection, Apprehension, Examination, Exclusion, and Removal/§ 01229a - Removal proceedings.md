@@ -102,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;At the conclusion of the proceeding the immigration judge shall decide whether analien is removable from the United States. The determination of the immigration judge shall be based only on the evidence produced at the hearing.
+&emsp;&emsp;At the conclusion of the proceeding the immigration judge shall decide whether an alien is removable from the United States. The determination of the immigration judge shall be based only on the evidence produced at the hearing.
 
 #### (B) Certain medical decisions
 
@@ -184,7 +184,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in this subparagraph, the motion to reopen shall be filed within90 days of the date of entry of a final administrative order of removal.
+&emsp;&emsp;&emsp;Except as provided in this subparagraph, the motion to reopen shall be filed within 90 days of the date of entry of a final administrative order of removal.
 
 #### (ii) Asylum
 

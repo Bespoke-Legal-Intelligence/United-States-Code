@@ -8,7 +8,7 @@
 
 #### (b) Delegation of functions
 
-The Secretary shall delegate to the Administrator (which delegation may be on a nonexclusive basis as the Secretary may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the functions vested in him by law relating togathering, analysis, and dissemination of energy information (as defined in section 796 of title 15) and the Administrator may act in the name of the Secretary for the purpose of obtaining enforcement of such delegated functions.
+The Secretary shall delegate to the Administrator (which delegation may be on a nonexclusive basis as the Secretary may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the functions vested in him by law relating to gathering, analysis, and dissemination of energy information (as defined in section 796 of title 15) and the Administrator may act in the name of the Secretary for the purpose of obtaining enforcement of such delegated functions.
 
 #### (c) Functions of Director of Office of Energy Information and Analysis
 
@@ -46,7 +46,7 @@ Information collected by the Energy Information Administration shall be cataloge
 
 &emsp;(B) an analysis of the competitive structure of sectors and functional groupings within the energy industry;
 
-&emsp;(C) the segregation of energy information, including financial information, describing company operations by energy source and geographic area;
+&emsp;(C) the segregation of energy information, including financial information, describingcompany operations by energy source and geographic area;
 
 &emsp;(D) the determination of costs associated with exploration, development, production, processing, transportation, and marketing and other significant energy-related functions within such company; and
 
@@ -122,7 +122,7 @@ Pursuant to section 52(a) of the Federal Energy Administration Act of 1974 (15 U
 
 #### (<i>l</i>) Data collection
 
-In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiency policies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
+In order to improve the ability to evaluate the effectiveness of the Nation's energy efficiencypolicies and programs, the Administrator shall, in carrying out the data collection provisions of subsections (i) and (k) of this section, consider—
 
 &emsp;(1) expanding the survey instruments to include questions regarding participation in Government and utility conservation programs;
 

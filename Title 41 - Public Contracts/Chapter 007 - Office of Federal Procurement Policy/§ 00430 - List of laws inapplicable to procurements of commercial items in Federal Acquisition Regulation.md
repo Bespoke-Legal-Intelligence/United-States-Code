@@ -34,7 +34,7 @@ In the event that a provision of law described in subsection (c) of this section
 
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
-Section 8003(b) of Pub. L. 103–355 provided that: “No petition may be filed under section 34(d) of the Office of Federal Procurement Policy Act \[41 U.S.C. 430(d)\], as added by subsection (a), until after the date occurring 6 months after the date of the enactment of this Act \[Oct. 13, 1994\].”
+Section 8003(b) of Pub. L. 103–355 provided that: “No petition may be filed under section 34(d) of the Office of Federal Procurement Policy Act \[41 U.S.C. 430(d)\], asadded by subsection (a), until after the date occurring 6 months after the date of the enactment of this Act \[Oct. 13, 1994\].”
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (c)(1), (d)(1), is act July 10, 1954, ch. 649, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
@@ -106,7 +106,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(b)\], Nov. 2
 
 “(1)
 
-In general.—The Secretary of Commerce, with the concurrence of the Secretary of State, shall publish regulations in the Federal Register to require that, upon the effective date of those regulations, exporters (or their agents) who are required to file Shippers’ Export Declarations under chapter 9 of title 13, United States Code, file such Declarations through the Automated Export System with respect to exports of items on the United States Munitions List or the Commerce Control List.
+In general.—The Secretary of Commerce, with the concurrence of the Secretary of State, shall publish regulations in the Federal Register to require that, upon the effective date of those regulations, exporters (or their agents) who are required to file Shippers’ Export Declarations under chapter 9 of title 13, UnitedStates Code, file such Declarations through the Automated Export System with respect to exports of items on the United States Munitions List or the Commerce Control List.
 
 “(2)
 

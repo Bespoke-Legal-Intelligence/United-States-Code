@@ -40,7 +40,7 @@
 
 > Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of five years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of five years or longer.
 
-(B) In the case of an agreement under which the lessor first places the property in service under the agreement or the property has been in service for less than one year and there is allowable to the lessor or charterer an investment tax credit or depreciation for the property leased, chartered, or otherwise provided under the agreement under section 168 of the Internal Revenue Code of 1986 (unless the lessor or charterer has elected depreciation on a straightline method for such property), the term “long-term lease or charter” means a lease, charter, service contract, or conditional sale agreement—
+(B) In the case of an agreement under which the lessor first places the property in service under the agreement or the property has been in service for less than one year and there is allowable to the lessor or charterer an investment tax credit or depreciation for the property leased,chartered, or otherwise provided under the agreement under section 168 of the Internal Revenue Code of 1986 (unless the lessor or charterer has elected depreciation on a straightline method for such property), the term “long-term lease or charter” means a lease, charter, service contract, or conditional sale agreement—
 
 &emsp;(i) the term of which is for a period of three years or longer; or
 
@@ -96,7 +96,7 @@ Subsec. (c)(2). Pub. L. 104–106, §1503(a)(21), struck out “pursuant to an a
 
 1984—Subsec. (c). Pub. L. 98–525, §1232(a)(1), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), respectively, and added par. (2).
 
-Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90 days after the date of enactment of this section \[Sept. 24, 1983\].”
+Subsec. (f). Pub. L. 98–525, §1232(a)(2), struck out at end “Such guidelines shall be issued not later than 90days after the date of enactment of this section \[Sept. 24, 1983\].”
 
 #### Effective Date
 

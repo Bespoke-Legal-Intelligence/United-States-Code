@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary, in consultation with the Transportation Security Oversight Board, shall establish a program to evaluate and certify secure systems of international intermodal transportation.
+In General.—The Secretary, in consultation with the Transportation Security OversightBoard, shall establish a program to evaluate and certify secure systems of international intermodal transportation.
 
 (b)
 
@@ -24,7 +24,7 @@ Elements of Program.—The program shall include—
 
 Pub. L. 107–295, title I, §110(c), Nov. 25, 2002, 116 Stat. 2092, provided that:
 
-“Within 1 year after the secure system of transportation program is implemented under section 70116 of title 46, United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of RepresentativesCommittees on Transportation and Infrastructure and Ways and Means that—
+“Within 1 year after the secure system of transportation program is implemented under section 70116 of title 46, United States Code, as amended by this Act, the Secretary of the department in which the Coast Guard is operating shall transmit a report to the Senate Committees on Commerce, Science, and Transportation and Finance and the House of Representatives Committees on Transportation and Infrastructure and Ways and Means that—
 
 &emsp;“(1) evaluates the secure system of transportation program and its components;
 

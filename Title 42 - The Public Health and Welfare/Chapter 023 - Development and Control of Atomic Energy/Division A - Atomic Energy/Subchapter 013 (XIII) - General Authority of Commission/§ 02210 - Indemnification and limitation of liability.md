@@ -2,7 +2,7 @@
 
 #### (a) Requirement of financial protection for licensees
 
-Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b) of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
+Each license issued under section 2133 or 2134 of this title and each construction permit issued under section 2235 of this title shall, and each license issued under section 2073, 2093, or 2111 of this title may, for the public purposes cited in section 2012(i) of this title, have as a condition of the license a requirement that the licensee have and maintain financial protection of such type and in such amounts as the Nuclear Regulatory Commission (in this section referred to as the “Commission”) in the exercise of its licensing and regulatory authority and responsibility shall require in accordance with subsection (b)of this section to cover public liability claims. Whenever such financial protection is required, it may be a further condition of the license that the licensee execute and maintain an indemnification agreement in accordance with subsection (c) of this section. The Commission may require, as a further condition of issuing a license, that an applicant waive any immunity from public liability conferred by Federal or State law.
 
 #### (b) Amount and type of financial protection for licensees
 
@@ -30,7 +30,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 #### (c) Indemnification of licenses by Nuclear Regulatory Commission
 
-The Commission shall, with respect to licenses issued between August 30, 1954, and August 1, 2002, for which it requires financial protection of less than $560,000,000, agree to indemnify and hold harmless the licensee and other persons indemnified, as their interest may appear, from public liability arising from nuclear incidents which is in excess of the level of financial protection required of the licensee. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000 excluding costs of investigating and settling claims and defending suits for damage: <i>Provided, however</i>, That this amount of indemnity shall be reduced by the amount that the financial protection required shall exceed $60,000,000. Such a contract of indemnification shall cover public liability arising out of or in connection with the licensed activity. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and August 1, 2002, the requirements of this subsection shall apply to any license issued for such facility subsequent to August 1, 2002.
+The Commission shall, with respect to licenses issued between August 30, 1954, and December 31, 2003, for which it requires financial protection of less than $560,000,000, agree to indemnify and hold harmless the licensee and other persons indemnified, as their interest may appear, from public liability arising from nuclear incidents which is in excess of the level of financial protection required of the licensee. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000 excluding costs of investigating and settling claims and defending suits for damage: <i>Provided, however</i>, That this amount of indemnity shall be reduced by the amount that the financial protection required shall exceed $60,000,000. Such a contract of indemnification shall cover public liability arising out of or in connection with the licensed activity. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2003, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2003.
 
 #### (d) Indemnification of contractors by Department of Energy
 
@@ -88,7 +88,7 @@ In administering the provisions of this section, the Commission or the Secretary
 
 #### (h) Conditions of agreements of indemnification
 
-The agreement of indemnification may contain such terms as the Commission or the Secretary, as appropriate, deems appropriate to carry out the purposes of this section. Such agreement shall provide that, when the Commission or the Secretary, as appropriate, makes a determination that the United States will probably be required to make indemnity payments under this section, the Commission or the Secretary, as appropriate, shall collaborate with any person indemnified and may approve the payment of any claim under the agreement of indemnification, appear through the Attorney General on behalf of the person indemnified,take charge of such action, and settle or defend any such action. The Commission or the Secretary, as appropriate, shall have final authority on behalf of the United States to settle or approve the settlement of any such claim on a fair and reasonable basis with due regard for the purposes of this chapter. Such settlement shall not include expenses in connection with the claim incurred by the person indemnified.
+The agreement of indemnification may contain such terms as the Commission or the Secretary, as appropriate, deems appropriate to carry out the purposes of this section. Such agreement shall provide that, when the Commission or the Secretary, as appropriate, makes a determination that the United States will probably be required to make indemnity payments under this section, the Commission or the Secretary, as appropriate, shall collaborate with any person indemnified and may approve the payment of any claim under the agreement of indemnification, appear through the Attorney General on behalf of the person indemnified, take charge of such action, and settle or defend any such action. The Commission or the Secretary, as appropriate, shall have final authority on behalf of the United States to settle or approve the settlement of any such claim on a fair and reasonable basis with due regard for the purposes of this chapter. Such settlement shall not include expenses in connection with the claim incurred by the person indemnified.
 
 #### (i) Compensation plans
 
@@ -126,13 +126,13 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 &emsp;(ii) with full recognition of the constitutional right of the Senate to change the rules at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congress on            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
+(B) For purposes of this paragraph, the term “resolution” means only a joint resolution of the Congress the matter after the resolving clause  of  which  is  as  follows:  “That  the                  approves the compensation plan numbered            submitted to the Congresson            , 19  .”, the first blank space therein being filled with the name of the resolving House and the other blank spaces being appropriately filled; but does not include a resolution which specifies more than one compensation plan.
 
 (C) A resolution once introduced with respect to a compensation plan shall immediately be referred to a committee (and all resolutions with respect to the same compensation plan shall be referred to the same committee) by the President of the Senate.
 
 (D)(i) If the committee of the Senate to which a resolution with respect to a compensation plan has been referred has not reported it at the end of twenty calendar days after its referral, it shall be in order to move either to discharge the committee from further consideration of such resolution or to discharge the committee from further consideration with respect to such compensation plan which has been referred to the committee.
 
-(ii) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same compensationplan), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(ii) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same compensation plan), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (iii) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same compensation plan.
 
@@ -180,7 +180,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 (3) The study commission shall conduct a comprehensive study of appropriate means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section, and shall submit to the Congress a final report setting forth—
 
-&emsp;(A) recommendations for any changes in the laws and rules governing the liability or civil procedures that are necessary for the equitable, prompt, and efficient resolution andpayment of all valid damage claims, including the advisability of adjudicating public liability claims through an administrative agency instead of the judicial system;
+&emsp;(A) recommendations for any changes in the laws and rules governing the liability or civil procedures that are necessary for the equitable, prompt, and efficient resolution and payment of all valid damage claims, including the advisability of adjudicating public liability claims through an administrative agency instead of the judicial system;
 
 &emsp;(B) recommendations for any standards or procedures that are necessary to establish priorities for the hearing, resolution, and payment of claims when awards are likely to exceed the amount of funds available within a specific time period; and
 
@@ -254,7 +254,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 #### (<i>o</i>) Plan for distribution of funds
 
-(1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determines upon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
+(1) Whenever the United States district court in the district where a nuclear incident occurs, or the United States District Court for the District of Columbia in case of a nuclear incident occurring outside the United States, determinesupon the petition of any indemnitor or other interested person that public liability from a single nuclear incident may exceed the limit of liability under the applicable limit of liability under subparagraph (A), (B), or (C) of subsection (e)(1) of this section:
 
 &emsp;(A) Total payments made by or for all indemnitors as a result of such nuclear incident shall not exceed 15 per centum of such limit of liability without the prior approval of such court;
 
@@ -310,17 +310,19 @@ No court may award punitive damages in any action with respect to a nuclear inci
 
 (2) For purposes of this subsection, the term “Consumer Price Index” means the Consumer Price Index for all urban consumers published by the Secretary of Labor.
 
-(Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amended Pub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743.)
+(Aug. 1, 1946, ch. 724, title I, §170, as added Pub. L. 85–256, §4, Sept. 2, 1957, 71 Stat. 576; amendedPub. L. 85–602, §§2, 2\[3\], Aug. 8, 1958, 72 Stat. 525; Pub. L. 85–744, Aug. 23, 1958, 72 Stat. 837; Pub. L. 87–206, §15, Sept. 6, 1961, 75 Stat. 479; Pub. L. 87–615, §§6, 7, Aug. 29, 1962, 76 Stat. 410; Pub. L. 88–394, §§2, 3, Aug. 1, 1964, 78 Stat. 376; Pub. L. 89–210, §§1–5, Sept. 29, 1965, 79 Stat. 855–857; Pub. L. 89–645, §§2, 3, Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §§2–14, Dec. 31, 1975, 89 Stat. 1111–1115; Pub. L. 100–408, §§2–4(a), 5(c)–11(a), (c), (d)(1), 12–15, 16(a)(2), (b)(3)–(c), (d)(4)–(e), Aug. 20, 1988, 102 Stat. 1066–1068, 1070–1080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–362, title XII, §1201(b), Nov. 10, 1998, 112 Stat. 3292; Pub. L. 107–314, div. C, title XXXI, §3171, Dec. 2, 2002, 116 Stat. 2743; Pub. L. 108–7, div. O, §101, Feb. 20, 2003, 117 Stat. 551.)
 
 #### References in Text
 
 Public Law 85–804, referred to in subsec. (d)(1)(B)(i)(I), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(1), (4)(A), (E), (F), is Pub. L. 92–463, Oct. 6,1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (<i>l</i>)(1), (4)(A), (E), (F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2003—Subsec. (c). Pub. L. 108–7 substituted “December 31, 2003” for “August 1, 2002” wherever appearing.
 
 2002—Subsec. (d)(1)(A). Pub. L. 107–314 substituted “until December 31, 2004,” for “until August 1, 2002,”.
 
@@ -388,7 +390,7 @@ Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” 
 
 Subsec. (n). Pub. L. 100–408, §16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
 
-Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor”for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
+Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
 
 Subsec. (n)(2). Pub. L. 100–408, §16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
 
@@ -996,8 +998,6 @@ Issuance of Regulations, Guidelines, and Procedures.—Regulations, guidelines, 
 
 Judicial Review.—An individual whose claim for compensation under this Act is denied may seek judicial review solely in a district court of the United States. The court shall review the denial on the administrative record and shall hold unlawful and set aside the denial if it is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
-#### <i>\[See main edition for text of (l)\]</i>
-
 #### “SEC. 7. CLAIMS NOT ASSIGNABLE OR TRANSFERABLE; CHOICE OF REMEDIES.
 
 “(a)
@@ -1006,7 +1006,7 @@ Claims Not Assignable or Transferable.—No claim cognizable under this Act shal
 
 “(b)
 
-Choice of remedies.—No individual may receive more than 1 payment under this Act.
+Choice of Remedies.—No individual may receive more than 1 payment under this Act.
 
 #### “SEC. 8. LIMITATIONS ON CLAIMS.
 

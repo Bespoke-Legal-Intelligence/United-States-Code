@@ -90,7 +90,7 @@ Jan. 3, 1975, Pub. L. 93–633, §110(a)(2), 88 Stat. 2160.
 
 49 App.:1809(a)(2) (last sentence).
 
-In subsection (a)(1), before clause (1), the words “A person that knowingly violates this chapter or a regulation prescribed or order issued under this chapter isliable to the United States Government for a civil penalty of at least $250 but not more than $25,000 for each violation” are substituted for 49 App.:1809(a)(1) (1st sentence less 3d–16th words, 2d sentence words before 4th comma, 3d sentence) to eliminate unnecessary words.
+In subsection (a)(1), before clause (1), the words “A person that knowingly violates this chapter or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of at least $250 but not more than $25,000 for each violation” are substituted for 49 App.:1809(a)(1) (1st sentence less 3d–16th words, 2d sentence words before 4th comma, 3d sentence) to eliminate unnecessary words.
 
 In subsection (b), the word “impose” is substituted for “assessed” for consistency.
 

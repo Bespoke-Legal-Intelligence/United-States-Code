@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The foreclosure commissioner shall conduct the foreclosure sale in accordance withthe provisions of this chapter and in a manner fair to both the mortgagor and the Secretary.
+&emsp;&emsp;The foreclosure commissioner shall conduct the foreclosure sale in accordance with the provisions of this chapter and in a manner fair to both the mortgagor and the Secretary.
 
 #### (B) Written bids
 

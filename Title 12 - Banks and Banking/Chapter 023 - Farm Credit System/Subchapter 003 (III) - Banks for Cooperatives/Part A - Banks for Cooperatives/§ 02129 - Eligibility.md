@@ -6,7 +6,7 @@
 
 &emsp;(2) does not pay dividends on stock or membership capital in excess of such per centum per annum as may be approved under regulations of the Farm Credit Administration; and in any case
 
-&emsp;(3) does not deal in farm products or aquatic products, or products processed therefrom, farm or aquatic supplies, farm or aquatic business services, or services to eligible cooperatives with or for nonmembers in an amount greater in value than the total amount of such business transacted by it with or for members,excluding from the total of member and nonmember business transactions with the United States or any agency or instrumentality thereof or services or supplies furnished as a public utility; and
+&emsp;(3) does not deal in farm products or aquatic products, or products processed therefrom, farm or aquatic supplies, farm or aquatic business services, or services to eligible cooperatives with or for nonmembers in an amount greater in value than the total amount of such business transacted by it with or for members, excluding from the total of member and nonmember business transactions with the United States or any agency or instrumentality thereof or services or supplies furnished as a public utility; and
 
 &emsp;(4) a percentage of the voting control of the association not less than 80 per centum (60 per centum (A) in the case of rural electric, telephone, public utility, and service cooperatives; (B) in the case of local farm supply cooperatives that have historically served needs of the community that would not adequately be served by other suppliers and have experienced a reduction in the percentage of farmer membership due to changed circumstances beyond their control such as, but not limited to, urbanization of the community; and (C) in the case of local farm supply cooperatives that provide or will provide needed services to a community and that are or will be in competition with a cooperative specified in paragraph (B)) or, with respect to any type of association or cooperative, such higher percentage as established by the bank board, is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations as defined herein;
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) Any cooperative or other entity described in subsection (b) or (f) of section 2128 of this title.
 
-&emsp;&emsp;(D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) of this section and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
+&emsp;&emsp;(D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), orunder the last sentence, of subsection (a) of this section and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
 
 &emsp;(2) Notwithstanding the provisions of section 2130 of this title, the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
 

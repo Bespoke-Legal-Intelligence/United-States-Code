@@ -10,7 +10,7 @@
 
 &emsp;(4) The term “retirement fund” means the Court of Appeals for Veterans Claims Retirement Fund established under section 7298 of this title.
 
-&emsp;(5) The term “surviving spouse” means a surviving spouse of an individual who (A) was married to such individual for at least oneyear immediately preceding the individual's death, or (B) is a parent of issue by the marriage.
+&emsp;(5) The term “surviving spouse” means a surviving spouse of an individual who (A) was married to such individual for at least one year immediately preceding the individual's death, or (B) is a parent of issue by the marriage.
 
 &emsp;(6) The term “dependent child” has the meaning given the term “child” in section 376(a)(5) of title 28.
 
@@ -34,7 +34,7 @@
 
 &emsp;(1) the judge is not reappointed following expiration of the term for which appointed; and
 
-&emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and elects to receive retired pay under section 7296 of this title.
+&emsp;(2) at or before the time of the expiration of that term, the judge is eligible for and electsto receive retired pay under section 7296 of this title.
 
 (f)(1) If a judge who makes an election under subsection (b) of this section dies after having rendered at least 18 months of civilian service (computed as prescribed in subsection (<i>l</i>) of this section), for the last 18 months of which the salary deductions provided for by subsection (c) of this section or the deposits required by subsection (d) of this section have actually been made (and not withdrawn) or the salary deductions required by the civil service retirement laws have actually been made (and not withdrawn)—
 
@@ -94,7 +94,7 @@
 
 (5) In a case in which the annuities of all persons entitled to annuity based upon the service of a judge terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge (with interest at 3 percent per year, compounded on December 31 of each year to the date of the death of the judge), the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (2) of this subsection.
 
-(6) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any individual based upon the service of a judge shall be paid to that individual. Any accrued annuity remaining unpaid upon the death of an individual receiving an annuity based upon the service of a judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
+(6) Any accrued annuity remaining unpaid upon the termination (other than by death) of the annuity of any individual based upon theservice of a judge shall be paid to that individual. Any accrued annuity remaining unpaid upon the death of an individual receiving an annuity based upon the service of a judge shall be paid, upon the establishment of a valid claim therefor, in the following order of precedence:
 
 &emsp;(A) To the executor or administrator of the estate of that person.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(i) 1.5 percent of the judge's average annual pay; and
 
-&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowableservice as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
+&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
 
 &emsp;(B) Three-fourths of 1 percent of the judge's average annual pay multiplied by the judge's years of allowable service not counted under subparagraph (A) of this paragraph.
 

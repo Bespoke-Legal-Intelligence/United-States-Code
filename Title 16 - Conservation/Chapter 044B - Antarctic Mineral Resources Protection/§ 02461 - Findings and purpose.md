@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(8) the level of scientific study, including necessary support facilities, has increased to the point that some scientific programs may be degrading the Antarctic environment; and
 
-&emsp;(9) the planned special consultative meeting of parties to the Antarctic Treaty and the imminence of the thirtieth anniversary of the Antarctic Treaty provide opportunities for theUnited States to exercise leadership toward protection and sound management of Antarctica.
+&emsp;(9) the planned special consultative meeting of parties to the Antarctic Treaty and the imminence of the thirtieth anniversary of the Antarctic Treaty provide opportunities for the United States to exercise leadership toward protection and sound management of Antarctica.
 
 #### (b) Purpose
 

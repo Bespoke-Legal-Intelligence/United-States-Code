@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization.—Unless the traditional acquisition approach of design-bid-build established under the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.) is used or another acquisition procedure authorized by law is used, the head of an agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
+Authorization.—Unless the traditional acquisition approach of design-bid-build established under chapter 11 of title 40 is used or another acquisition procedure authorized by law is used, the head of an agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
 
 (b)
 
@@ -24,7 +24,7 @@ Criteria for Use.—A contracting officer shall make a determination whether two
 
 Procedures Described.—Two-phase selection procedures consist of the following:
 
-&emsp;(1) The agency develops, either in-house or by contract, a scope of work statement for inclusion in the solicitation that defines the project and provides prospective offerors with sufficient information regarding the Government's requirements (which may include criteria and preliminary design, budget parameters, and schedule or delivery requirements) to enable the offerors to submit proposalswhich meet the Government's needs. If the agency contracts for development of the scope of work statement, the agency shall contract for architectural and engineering services as defined by and in accordance with the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.).
+&emsp;(1) The agency develops, either in-house or by contract, a scope of work statement for inclusion in the solicitation that defines the project and provides prospective offerors with sufficient information regarding the Government's requirements (which may include criteria and preliminary design, budget parameters, and schedule or delivery requirements) to enable the offerors to submit proposals which meet the Government's needs. If the agency contracts for development of the scope of work statement, the agency shall contract for architectural and engineering services as defined by and in accordance with chapter 11 of title 40.
 
 &emsp;(2) The contracting officer solicits phase-one proposals that—
 
@@ -66,11 +66,7 @@ Requirement for Guidance and Regulations.—The Federal Acquisition Regulation s
 
 &emsp;(3) providing for a uniform approach to be used Government-wide.
 
-(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902.)
-
-#### References in Text
-
-The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is title IX of act June 30, 1949, ch. 288, as added by act Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278, as amended, which is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 541 of Title 40 and Tables.
+(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641.)
 
 #### Prior Provisions
 
@@ -78,7 +74,15 @@ A prior section 2305a was renumbered section 2438 of this title.
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–85 substituted “(40 U.S.C.” for “(41 U.S.C.”
+2003—Subsec. (c)(1). Pub. L. 108–178 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
+
+1997—Subsec. (a). Pub. L. 105–85 substituted “(40 U.S.C.” for “(41 U.S.C.”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

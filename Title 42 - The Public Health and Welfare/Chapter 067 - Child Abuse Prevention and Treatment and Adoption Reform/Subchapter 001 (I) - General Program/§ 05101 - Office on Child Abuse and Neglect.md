@@ -48,13 +48,17 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 1975—Subsec. (c). Pub. L. 93–644 added subsec. (c).
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–36, §1(a), June 25, 2003, 117 Stat. 800, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Keeping Children and Families Safe Act of 2003’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–251, title II, §221, Oct. 9, 1998, 112 Stat. 1885, provided that: “This subtitle \[subtitle B (§§221, 222) of title II of Pub. L. 105–251, amending sections 5119a and 5119b of this title\] may be cited as the ‘Volunteers for Children Act’.”
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections 5106i and 5116 to 5116i of this title, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the ‘Child Abuse Prevention and Treatment Act Amendments of 1996’.”
+Section 1(a) of Pub. L. 104–235 provided that: “This Act \[enacting sections 5106i and 5116 to 5116i of thistitle, amending this section and sections 5102, 5104 to 5106, 5106a, 5106c to 5106f, 5106g to 5106i, 5111, 5113, 5115, 5777, 10402, 10403, 10409, 10603a, and 13004 of this title, repealing sections 5103, 5106b, 5117 to 5117d, 5118 to 5118e, 5778, and 11481 to 11489 of this title, amending provisions set out as notes under this section and section 670 of this title, and repealing provisions set out as notes under section 5117 of this title\] may be cited as the ‘Child Abuse Prevention and Treatment Act Amendments of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -142,39 +146,51 @@ Modification of Uniform Crime Reporting Program.—(1) As soon as practicable, b
 
 #### Congressional Findings
 
-Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064, provided that: “Congress finds that—
+Section 2 of Pub. L. 93–247, as added by Pub. L. 102–295, title I, §102(a), May 28, 1992, 106 Stat. 188, and amended by Pub. L. 104–235, title I, §100, Oct. 3, 1996, 110 Stat. 3064; Pub. L. 108–36, title I, §101, June 25, 2003, 117 Stat. 801, provided that: “Congress finds that—
 
-&emsp;“(1) each year, close to 1,000,000 American children are victims of abuse and neglect;
+&emsp;“(1) each year, approximately 900,000 American children are victims of abuse and neglect;
 
-&emsp;“(2) many of these children and their families fail to receive adequate protection or treatment;
+&emsp;“(2)(A) more children suffer neglect than any other form of maltreatment; and
 
-&emsp;“(3) the problem of child abuse and neglect requires a comprehensive approach that—
+&emsp;“(B) investigations have determined that approximately 60 percent of children who were victims of maltreatment in 2001 suffered neglect, 19 percent suffered physical abuse, 10 percent suffered sexual abuse, and 7 percent suffered emotional maltreatment;
 
-&emsp;&emsp;“(A) integrates the work of social service, legal, health, mental health, education, and substance abuse agencies and organizations;
+&emsp;“(3)(A) child abuse can result in the death of a child;
+
+&emsp;“(B) in 2001, an estimated 1,300 children were counted by child protection services to have died as a result of abuse or neglect; and
+
+&emsp;“(C) children younger than 1 year old comprised 41 percent of child abuse fatalities and 85 percent of child abuse fatalities were younger than 6 years of age;
+
+&emsp;“(4)(A) many of these children and their families fail to receive adequate protection and treatment; and
+
+&emsp;“(B) slightly less than half of these children (42 percent in 2001) and their families fail to receive adequate protection or treatment;
+
+&emsp;“(5) the problem of child abuse and neglect requires a comprehensive approach that—
+
+&emsp;&emsp;“(A) integrates the work of social service, legal, health, mental health, education, and substance abuse agencies and community-based organizations;
 
 &emsp;&emsp;“(B) strengthens coordination among all levels of government, and with private agencies, civic, religious, and professional organizations, and individual volunteers;
 
 &emsp;&emsp;“(C) emphasizes the need for abuse and neglect prevention, assessment, investigation, and treatment at the neighborhood level;
 
-&emsp;&emsp;“(D) ensures properly trained and support staff with specialized knowledge, to carry out their child protection duties; and
+&emsp;&emsp;“(D) recognizes the need for properly trained staff with the qualifications needed, to carry out their child protection duties; and
 
-&emsp;&emsp;“(E) is sensitive to ethnic and cultural diversity;
+&emsp;&emsp;“(E) is sensitive to ethnic and cultural diversity, which may impact child rearing patterns, while at the same time, not allowing those differences to enable abuse;
 
-&emsp;“(4) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs;
+&emsp;“(6) the failure to coordinate and comprehensively prevent and treat child abuse and neglect threatens the futures of thousands of children and results in a cost to the Nation of billions of dollars in tangible expenditures, as well as significant intangible costs;
 
-&emsp;“(5) all elements of American society have a shared responsibility in responding to this national child and family emergency;
+&emsp;“(7) all elements of American society have a shared responsibility in responding to child abuse and neglect;
 
-&emsp;“(6) substantial reductions in the prevalence and incidence of child abuse and neglect and the alleviation of its consequences are matters of the highest national priority;
+&emsp;“(8) substantial reductions in the prevalence and incidence of child abuse and neglect and the alleviation of its consequences are matters of the highest national priority;
 
-&emsp;“(7) national policy should strengthen families to prevent child abuse and neglect, provide support for intensive services to prevent the unnecessary removal of children from families, and promote the reunification of families if removal has taken place;
+&emsp;“(9) national policy should strengthen families to prevent child abuse and neglect, provide support for needed services to prevent the unnecessary removal of children from families, and promote the reunification of families where appropriate;
 
-&emsp;“(8) the child protection system should be comprehensive, child-centered, family-focused, and community-based, should incorporate all appropriate measures to prevent the occurrence or recurrence of child abuse and neglect, and should promote physical and psychological recovery and social re-integration in an environment that fosters the health, safety, self-respect, and dignity of the child;
+&emsp;“(10) the child protection system should be comprehensive, child-centered, family-focused, and community-based, should incorporate all appropriate measures to prevent the occurrence or recurrence of child abuse and neglect, and should promote physical and psychological recovery and social re-integration in an environment that fosters the health, safety, self-respect, and dignity of the child;
 
-&emsp;“(9) because of the limited resources available in low-income communities, Federal aid for the child protection system should be distributed with due regard to the relative financial need of the communities;
+&emsp;“(11) because of the limited resources available in low-income communities, Federal aid for the child protection system should be distributed with due regard to the relative financial need of the communities;
 
-&emsp;“(10) the Federal government should assist States and communities with the fiscal, human, and technical resources necessary to develop and implement a successful and comprehensive child and family protection strategy;
+&emsp;“(12) the Federal government should assist States and communities with the fiscal, human, and technical resources necessary to develop and implement a successful and comprehensive child and family protection strategy;
 
-&emsp;“(11) the Federal government should provide leadership and assist communities in their child and family protection efforts by—
+&emsp;“(13) the Federal government should provide leadership and assist communities in their child and family protection efforts by—
 
 &emsp;&emsp;“(A) promoting coordinated planning among all levels of government;
 

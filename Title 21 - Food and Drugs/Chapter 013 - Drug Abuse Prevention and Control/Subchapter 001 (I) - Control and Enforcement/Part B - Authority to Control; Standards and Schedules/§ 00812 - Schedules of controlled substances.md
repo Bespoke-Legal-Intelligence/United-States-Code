@@ -6,7 +6,7 @@ There are established five schedules of controlled substances, to be known as sc
 
 #### (b) Placement on schedules; findings required
 
-Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970, and except in the case of an immediateprecursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
+Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
 
 (1)
 
@@ -292,7 +292,7 @@ Schedule II
 
 Schedule III
 
-(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system:
+(a) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains anyquantity of the following substances having a stimulant effect on the central nervous system:
 
 &emsp;(1) Amphetamine, its salts, optical isomers, and salts of its optical isomers.
 
@@ -326,7 +326,7 @@ Schedule III
 
 (c) Nalorphine.
 
-(d) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limitedquantities of any of the following narcotic drugs, or any salts thereof:
+(d) Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing limited quantities of any of the following narcotic drugs, or any salts thereof:
 
 &emsp;(1) Not more than 1.8 grams of codeine per 100 milliliters or not more than 90 milligrams per dosage unit, with an equal or greater quantity of an isoquinoline alkaloid of opium.
 
@@ -418,7 +418,7 @@ Pub. L. 106–172, §§2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 &emsp;“(1) Gamma hydroxybutyric acid (also called G, Liquid X, Liquid Ecstasy, Grievous Bodily Harm, Georgia Home Boy, Scoop) has become a significant and growing problem in law enforcement. At least 20 States have scheduled such drug in their drug laws and law enforcement officials have been experiencing an increased presence of the drug in driving under the influence, sexual assault, and overdose cases especially at night clubs and parties.
 
-&emsp;“(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid (‘GHB’) is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. Itis difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
+&emsp;“(2) A behavioral depressant and a hypnotic, gamma hydroxybutyric acid (‘GHB’) is being used in conjunction with alcohol and other drugs with detrimental effects in an increasing number of cases. It is difficult to isolate the impact of such drug's ingestion since it is so typically taken with an ever-changing array of other drugs and especially alcohol which potentiates its impact.
 
 &emsp;“(3) GHB takes the same path as alcohol, processes via alcohol dehydrogenase, and its symptoms at high levels of intake and as impact builds are comparable to alcohol ingestion/intoxication. Thus, aggression and violence can be expected in some individuals who use such drug.
 
@@ -454,7 +454,7 @@ Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 384, 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 sections 1583, 2484; title 20 sections 1415, 7161; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
+This section is referred to in sections 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 sections 1583, 2484; title 20 sections 1415, 7161; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
 
 <i><sup>1</sup></i><i> Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The actuarial report described in subsection (b) shall be filed by the plan administrator (asdefined in section 414(g) of each defined benefit plan to which section 412 applies, for the first plan year for which section 412 applies to the plan and for each third plan year thereafter (or more frequently if the Secretary determines that more frequent reports are necessary).
+The actuarial report described in subsection (b) shall be filed by the plan administrator (as defined in section 414(g) of each defined benefit plan to which section 412 applies, for the first plan year for which section 412 applies to the plan and for each third plan year thereafter (or more frequently if the Secretary determines that more frequent reports are necessary).
 
 #### (b) Actuarial report
 

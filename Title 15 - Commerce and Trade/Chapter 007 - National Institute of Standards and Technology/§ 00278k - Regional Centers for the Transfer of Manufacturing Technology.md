@@ -64,6 +64,14 @@ In addition to such sums as may be authorized and appropriated to the Secretary 
 
 Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
 
+#### Agreements and Contributions for Collective Research and Development Initiatives
+
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: “That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to 15 U.S.C. 278k paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 774.
+
 #### Additional Renewal of Federal Financial Assistance for Centers
 
 Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–83, which provided that Federal financial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center's total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
@@ -76,7 +84,7 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 #### Publication in Federal Register
 
-Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2)of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
+Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2) of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
 
 #### Section Referred to in Other Sections
 

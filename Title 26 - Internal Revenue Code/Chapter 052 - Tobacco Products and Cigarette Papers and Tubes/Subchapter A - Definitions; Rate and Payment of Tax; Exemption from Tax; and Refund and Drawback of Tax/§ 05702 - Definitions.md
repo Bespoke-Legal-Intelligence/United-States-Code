@@ -90,11 +90,11 @@ The term “pipe tobacco” means any tobacco which, because of its appearance, 
 
 The term “roll-your-own tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415;Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644.)
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined “cigarette papers”.
+2000—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struckout former subsec. (f), which defined “cigarette papers”.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 

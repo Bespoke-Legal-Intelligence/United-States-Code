@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-To carry out the policy of this subchapter, the Secretary (in consultation with the Agency for International Development and subject to suchcoordination with other Federal officials, Departments, and agencies as the President may direct) may—
+To carry out the policy of this subchapter, the Secretary (in consultation with the Agency for International Development and subject to such coordination with other Federal officials, Departments, and agencies as the President may direct) may—
 
 &emsp;(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research, extension, and teaching activities by—
 

@@ -6,7 +6,7 @@ Conveyance Authority.—The Secretary of a military department may convey a util
 
 (b)
 
-Selection of Conveyee.—(1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
+Selection of Conveyee.—(1) If more than one utility or entity referred to in subsection (a)notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
 
 (2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (c) through (f) of section 2304 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
 
@@ -38,15 +38,11 @@ Treatment of Payments.—(1) A lump sum payment received under subsection (c) sh
 
 (e)
 
-Notice-and-Wait Requirement.—The Secretary concerned may not make a conveyance under subsection (a) until—
+Quarterly Report.—Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter. The report shall include, for each such conveyance, an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
 
-&emsp;(1) the Secretary submits to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
+&emsp;(1) the long-term economic benefit of the conveyance to the United States exceeds the long-term economic cost of the conveyance to the United States; and
 
-&emsp;&emsp;(A) the long-term economic benefit of the conveyance to the United States exceeds the long-term economic cost of the conveyance to the United States; and
-
-&emsp;&emsp;(B) the conveyance will reduce the long-term costs of the United States for utility services provided by the utility system concerned; and
-
-&emsp;(2) a period of 21 days has elapsed after the date on which the economic analysis is received by the committees.
+&emsp;(2) the conveyance will reduce the long-term costs of the United States for utility services provided by the utility system concerned.
 
 (f)
 
@@ -84,13 +80,23 @@ Utility System Defined.—(1) In this section, the term “utility system” mea
 
 Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amendedPub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600.)
 
 #### Prior Provisions
 
 A prior section 2688, added Pub. L. 96–125, title VIII, §804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, §804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, §11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, §901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2857 of this title.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may not make a conveyance under subsection (a) until—
+
+&emsp;“(1) the Secretary submits to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
+
+&emsp;&emsp;“(A) the long-term economic benefit of the conveyance to the United States exceeds the long-term economic cost of the conveyance to the United States; and
+
+&emsp;&emsp;“(B) the conveyance will reduce the long-term costs of the United States for utility services provided by the utility system concerned; and
+
+&emsp;“(2) a period of 21 days has elapsed after the date on which the economic analysis is received by the committees.”
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2813(a)\], designated existing provisions as par. (1) and added pars. (2) and (3).
 

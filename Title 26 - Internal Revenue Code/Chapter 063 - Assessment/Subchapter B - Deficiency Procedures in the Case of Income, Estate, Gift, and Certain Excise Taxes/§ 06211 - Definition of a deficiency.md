@@ -16,7 +16,7 @@ For purposes of this title in the case of income, estate, and gift taxes imposed
 
 For purposes of this section—
 
-&emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the credit under section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection of amounts assessed under section 6851 or 6852 (relating to termination assessments).
+&emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the credit under section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection ofamounts assessed under section 6851 or 6852 (relating to termination assessments).
 
 &emsp;(2) The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after July 1, 1965, see section809(f) of Pub. L. 89–44, set out as a note under section 6420 of this title.
+Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as a note under section 6420 of this title.
 
 #### Section Referred to in Other Sections
 

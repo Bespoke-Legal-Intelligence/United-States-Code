@@ -4,7 +4,7 @@
 
 #### (b) Application for lease; contents; filing date; extension
 
-Any Navajo head of household who desires to do so may submit an application for a life estate lease to the Commissioner. Such application shall contain such information as the Commissioner may prescribe by regulation, such regulation to be promulgated by the Commissioner within ninety days of July 8, 1980. To be considered, such application must be filed with the Commissioner on or before April 1, 1981: <i>Provided</i>, That the Commissioner may, for good cause, grant an extension of one hundred and eighty days.
+Any Navajo head of household who desires to do so may submit an application for a life estate lease to the Commissioner. Such application shall contain such information as the Commissioner may prescribe by regulation, such regulation to be promulgated by the Commissioner within ninety days of July 8, 1980. To be considered, such application must be filed with the Commissioner on or before April 1, 1981: <i>Provided</i>, That the Commissioner may, for goodcause, grant an extension of one hundred and eighty days.
 
 #### (c) Application groupings
 
@@ -48,7 +48,7 @@ Nothing in this subchapter or any other law shall be construed to prevent a life
 
 #### (k) Additional leases for Hopi heads of household
 
-The Commissioner is authorized to grant not to exceed ten additional life estate leases toHopi heads of household residing on Navajo-partitioned lands under such terms of this section as may be appropriate.
+The Commissioner is authorized to grant not to exceed ten additional life estate leases to Hopi heads of household residing on Navajo-partitioned lands under such terms of this section as may be appropriate.
 
 (Pub. L. 93–531, §30, as added Pub. L. 96–305, §11, July 8, 1980, 94 Stat. 934; amended Pub. L. 100–666, §4(b), Nov. 16, 1988, 102 Stat. 3930.)
 

@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (ii) Personal services as an employee
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (B), personal services performed as an employee shall not be treated as performed in real property trades or businesses. The preceding sentence shall not apply if such employee is a 5-percent owner (as defined in section 416(i)(1)(B)) in the employer.
+&emsp;&emsp;&emsp;For purposes of subparagraph (B), personal services performed as an employee shall not be treated as performed in realproperty trades or businesses. The preceding sentence shall not apply if such employee is a 5-percent owner (as defined in section 416(i)(1)(B)) in the employer.
 
 #### (d) Passive activity loss and credit defined
 
@@ -458,7 +458,7 @@ For purposes of this section—
 
 &emsp;If any interest in a passive activity is distributed by an estate or trust—
 
-&emsp;&emsp;(A) the basis of such interest immediately before such distribution shall be increasedby the amount of any passive activity losses allocable to such interest, and
+&emsp;&emsp;(A) the basis of such interest immediately before such distribution shall be increased by the amount of any passive activity losses allocable to such interest, and
 
 &emsp;&emsp;(B) such losses shall not be allowable as a deduction for any taxable year.
 
@@ -543,7 +543,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) construction of property used in such activity began on or before August 16, 1986.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5,1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53.)
 
 #### Amendment of Section
 
@@ -581,7 +581,7 @@ Subsec. (i)(6)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(A)\]
 
 1998—Subsec. (i)(3)(E)(iii). Pub. L. 105–277 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any amount allowable as a deduction under section 219, and”.
 
-1996—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
+1996—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed theregular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
 
 Subsec. (g)(1)(A). Pub. L. 104–188, §1704(e)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If all gain or loss realized on such disposition is recognized, the excess of—
 
@@ -687,7 +687,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, seesection 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
@@ -781,7 +781,7 @@ Section 502 of Pub. L. 99–514, as amended by Pub. L. 99–509, title VIII, §8
 
 “(a)
 
-General Rule.—Any loss sustained by a qualified investor with respect to an interest in a qualified low-income housing project for any taxable year in the relief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
+General Rule.—Any loss sustained by a qualified investor with respect to an interest in a qualifiedlow-income housing project for any taxable year in the relief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
 
 “(b)
 

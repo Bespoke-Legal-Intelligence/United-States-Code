@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII,§712(<i>l</i>)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(<i>l</i>)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814.)
 
 #### References in Text
 

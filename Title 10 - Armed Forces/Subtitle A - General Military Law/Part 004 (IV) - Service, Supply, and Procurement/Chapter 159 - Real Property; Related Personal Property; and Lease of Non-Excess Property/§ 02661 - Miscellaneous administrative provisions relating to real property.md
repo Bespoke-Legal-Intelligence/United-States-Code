@@ -84,7 +84,7 @@ Installation Efficiency Initiative Fund.—(1) There is established on the books
 
 “(2) There shall be deposited in the Fund all cash rents, payments, reimbursements, proceeds, and other amounts from leases, sales, or other conveyances or transfers, joint activities, and other actions taken under the Initiative.
 
-“(3) To the extent provided in advance in authorization Acts and appropriations Acts, amounts in the Fund shall be available to the Secretary of Defense for purposes of managing capital assets and providing support services at military installations participating in the Initiative. Amounts in the Fund may be used for such purposes in addition to, or in combination with, other amounts authorized to be appropriated for such purposes. Amounts in the Fund shall be available for such purposes for five years.
+“(3) To the extent provided in advance in authorization Acts and appropriations Acts, amounts in the Fund shall be available to the Secretary of Defense forpurposes of managing capital assets and providing support services at military installations participating in the Initiative. Amounts in the Fund may be used for such purposes in addition to, or in combination with, other amounts authorized to be appropriated for such purposes. Amounts in the Fund shall be available for such purposes for five years.
 
 “(4) Subject to applicable financial management regulations, the Secretary shall structure the Fund, and provide administrative policies and procedures, in order to provide proper control of deposits in and disbursements from the Fund.
 

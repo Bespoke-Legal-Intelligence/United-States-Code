@@ -10,7 +10,7 @@
 
 (3) Any transfer of entitlement under this subsection shall be made in accordance with regulations prescribed by the Secretary of the military department concerned.
 
-(b) A spouse or surviving spouse or a dependent child to whom entitlement is transferred under subsection (a) is entitled to educationalassistance under this chapter in the same manner and at the same rate as the person from whom the entitlement was transferred.
+(b) A spouse or surviving spouse or a dependent child to whom entitlement is transferred under subsection (a) is entitled to educational assistance under this chapter in the same manner and at the same rate as the person from whom the entitlement was transferred.
 
 (c) The total amount of educational assistance available to a person entitled to educational assistance under section 2142 of this title and to the person's spouse, surviving spouse, and dependent children is the amount of educational assistance to which the person is entitled. If more than one person is being provided educational assistance for the same period by virtue of the entitlement of the same person, the subsistence allowance authorized by section 2144 of this title shall be divided in such manner as the person may specify or (if the person fails to specify) as the Secretary concerned may prescribe.
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) The term “surviving spouse” means a widow or widower who is not remarried.
 
-(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22, §10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
+(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22,§10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
 
 #### Amendments
 

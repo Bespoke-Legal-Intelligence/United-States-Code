@@ -180,7 +180,7 @@ Section 20415(c) of Pub. L. 103–322 provided that: “The Secretary of the Tre
 
 #### Reports on Uses Made of Currency Transaction Reports
 
-For requirement of Secretary of the Treasury to report to Congress on number of reports filed under thissection yearly, the rate of compliance with reporting requirements, the manner in which Federal agencies collect, organize and analyze such data, and sanctions imposed and indictments filed for failure to comply, see section 101 of Pub. L. 101–647, set out as a note under section 5311 of Title 31, Money and Finance.
+For requirement of Secretary of the Treasury to report to Congress on number of reports filed under this section yearly, the rate of compliance with reporting requirements, the manner in which Federal agencies collect, organize and analyze such data, and sanctions imposed and indictments filed for failure to comply, see section 101 of Pub. L. 101–647, set out as a note under section 5311 of Title 31, Money and Finance.
 
 #### No Inference To Be Drawn From Amendment
 

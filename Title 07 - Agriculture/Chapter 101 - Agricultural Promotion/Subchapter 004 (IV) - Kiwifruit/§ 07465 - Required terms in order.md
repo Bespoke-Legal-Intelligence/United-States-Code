@@ -66,7 +66,7 @@
 
 &emsp;The order shall provide that funds paid to the Board as assessments under subsection (b) of this section may be used by the Board—
 
-&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) of this section and for other expenses incurred by the Board in the administration of an order;
+&emsp;&emsp;(A) to pay for research, promotion, and consumer information described in the budget of the Board under subsection (a) of thissection and for other expenses incurred by the Board in the administration of an order;
 
 &emsp;&emsp;(B) to pay such other expenses for the administration, maintenance, and functioning of the Board (including any enforcement efforts for the collection of assessments) as may be authorized by the Secretary, including interest and penalties for late payments; and
 

@@ -56,7 +56,7 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 (f)
 
-Repayment of Bonus.—(1) If a person paid a bonus under this section fails to complete a period of active duty beginning on the date on which the election of the person under subsection (a)(1) is received and ending on the date on which the person completes 20 years of active-duty service as described in subsection (a)(2), the person shall refund to the United States the amount that bears the same ratio to the amount of the bonus payment as the uncompleted part of that period of active-duty service bears to the total period of such service.
+Repayment of Bonus.—(1) If a person paid a bonus under this section fails to complete a period of active duty beginning on the date on which the election of the person under subsection (a)(1) is received and ending on the date on which the person completes 20 years of active-duty service as described in subsection (a)(2), the person shall refund to the UnitedStates the amount that bears the same ratio to the amount of the bonus payment as the uncompleted part of that period of active-duty service bears to the total period of such service.
 
 (2) Subject to paragraph (3), an obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 

@@ -54,7 +54,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 &emsp;&emsp;(C) special management conditions or practices to be implemented at each site that are necessary for protection of the environment;
 
-&emsp;&emsp;(D) consideration of the quantity of the material to be disposed of at the site, andthe presence, nature, and bioavailability of the contaminants in the material;
+&emsp;&emsp;(D) consideration of the quantity of the material to be disposed of at the site, and the presence, nature, and bioavailability of the contaminants in the material;
 
 &emsp;&emsp;(E) consideration of the anticipated use of the site over the long term, including the anticipated closure date for the site, if applicable, and any need for management of the site after the closure of the site; and
 
@@ -94,7 +94,7 @@ This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classi
 
 1980—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
 
-1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+1974—Subsec. (a). Pub. L. 93–254, §1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in thecase of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
 Subsec. (e). Pub. L. 93–254, §1(4)(B), added subsec. (e).
 

@@ -1,12 +1,12 @@
 ### §717. Members of the armed forces: participation in international sports
 
-(a) The Secretary of Defense, or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in—
+(a) The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in—
 
 &emsp;(1) Pan-American Games and Olympic Games and qualifying events and preparatory competition for those games; and
 
 &emsp;(2) any other international competition in amateur sports, if the Secretary of State determines that the interests of the United States will be served by participation in that competition, and qualifying events and preparatory competition for that competition.
 
-(b) Subject to subsections (c) and (d), the Secretary of Defense or the Secretary of Transportation, as the case may be, may spend such funds, and acquire and use such supplies, as he determines to be necessary to provide for—
+(b) Subject to subsections (c) and (d), the Secretary of Defense or the Secretary of Homeland Security, as the case may be, may spend such funds, and acquire and use such supplies, as he determines to be necessary to provide for—
 
 &emsp;(1) the training of members of the armed forces for the competitions covered by subsection (a);
 
@@ -18,9 +18,9 @@
 
 (2) Not more than $100,000 may be spent during each successive four-year period beginning on October 1, 1980, for the participation of members of the Coast Guard in the competitions covered by subsection (a).
 
-(d) Appropriations available to the Department of Defense or to the Department of Transportation, as the case may be, may be used to carry out this section.
+(d) Appropriations available to the Department of Defense or to the Department of Homeland Security, as the case may be, may be used to carry out this section.
 
-(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632.)
+(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes<br>1958
 
@@ -54,13 +54,15 @@ This section corrects a duplication in numbering occasioned by the addition of a
 
 #### Amendments
 
+2002—Subsecs. (a), (b), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1984—Subsec. (a)(1). Pub. L. 98–525, §1534(1), included qualifying events and preparatory competition.
 
 Subsec. (a)(2). Pub. L. 98–525, §1534(2), included qualifying events and preparatory competition.
 
 Subsec. (b). Pub. L. 98–525, §1534(3), struck out reference to subsec. (e).
 
-Subsec. (c). Pub. L. 98–525, §1534(4), (6), designated existing provisions as par. (1), substituted “$3,000,000” for“$800,000” and “October 1, 1980” for “March 14, 1955”, redesignated subsec. (d) as par. (2), and substituted “October 1, 1980” for “March 14, 1955”.
+Subsec. (c). Pub. L. 98–525, §1534(4), (6), designated existing provisions as par. (1), substituted “$3,000,000” for “$800,000” and “October 1, 1980” for “March 14, 1955”, redesignated subsec. (d) as par. (2), and substituted “October 1, 1980” for “March 14, 1955”.
 
 Subsecs. (d), (e). Pub. L. 98–525, §1534(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated par. (2) of subsec. (c).
 
@@ -75,6 +77,10 @@ Subsecs. (e), (f). Pub. L. 96–513, §511(22) (A), (C), redesignated subsec. (f
 1966—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
 
 1965—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 

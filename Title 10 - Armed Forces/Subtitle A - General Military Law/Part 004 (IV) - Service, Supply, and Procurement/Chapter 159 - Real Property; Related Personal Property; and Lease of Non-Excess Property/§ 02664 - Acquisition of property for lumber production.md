@@ -26,7 +26,7 @@
 
 &emsp;(8) works, property, or appliances suitable for the production of lumber and timber products.
 
-(c) Jurisdiction over condemnation proceedings under this section is vested in the United States District Court for the district in whichthe property, or any part of it, sought to be condemned is located, regardless of its value.
+(c) Jurisdiction over condemnation proceedings under this section is vested in the United States District Court for the district in which the property, or any part of it, sought to be condemned is located, regardless of its value.
 
 (d) In time of war or when war is imminent, the United States may, immediately upon the filing of a petition for condemnation under subsection (a), take and use the property to the extent of the interest sought to be acquired.
 

@@ -92,7 +92,7 @@ For purposes of this section, the term “installment method” means a method u
 
 #### (5) Later payments treated as receipt of tax paid amounts
 
-&emsp;If paragraph (1) applies for any taxable year, payments received in subsequent taxable years by the person making the first disposition shall not be treated as the receipt of payments with respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
+&emsp;If paragraph (1) applies for any taxable year, payments received in subsequent taxable yearsby the person making the first disposition shall not be treated as the receipt of payments with respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
 
 #### (6) Exception for certain dispositions
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 #### (C) Special rule where obligor and shareholder are related persons
 
-&emsp;&emsp;If the obligor of any installment obligation and the shareholder are married to each other or are related persons (within the meaning of section 1239(b)), to the extent such installment obligation is attributableto the disposition by the corporation of depreciable property—
+&emsp;&emsp;If the obligor of any installment obligation and the shareholder are married to each other or are related persons (within the meaning of section 1239(b)), to the extent such installment obligation is attributable to the disposition by the corporation of depreciable property—
 
 &emsp;&emsp;&emsp;(i) subparagraph (A) shall not apply to such obligation, and
 
@@ -326,7 +326,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (ii) Dispositions to which subparagraph applies
 
-&emsp;&emsp;&emsp;A disposition is described in this clause if it is a disposition in the ordinary courseof the taxpayer's trade or business to an individual of—
+&emsp;&emsp;&emsp;A disposition is described in this clause if it is a disposition in the ordinary course of the taxpayer's trade or business to an individual of—
 
 &emsp;&emsp;&emsp;&emsp;(I) a timeshare right to use or a timeshare ownership interest in residential real property for not more than 6 weeks per year, or a right to use specified campgrounds for recreational purposes, or
 
@@ -434,7 +434,7 @@ Subsec. (h). Pub. L. 99–514, §631(e)(8)(C), substituted “certain liquidatio
 
 Subsec. (h)(1)(A). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If, in connection with a liquidation to which section 337 applies, in a transaction to which section 331 applies the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period set forth in section 337(a), then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.”
 
-Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B).”
+Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar.\(B) read as follows: “Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B).”
 
 Subsec. (h)(1)(E). Pub. L. 99–514, §631(e)(8)(B), substituted “subsidiaries” for “subsidiary” in heading and amended text generally. Prior to amendment, subpar. (E) read as follows: “For purposes of subparagraph (A), in any case to which section 337(c)(3) applies, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired by the corporation distributing the obligation to the shareholder.”
 
@@ -538,7 +538,7 @@ Certain dispositions deemed made on 1st day of taxable year.—If the taxpayer m
 
 &emsp;&emsp;“(i) dispositions after August 16, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day, and
 
-&emsp;&emsp;“(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for ‘$5,000,000’ the amount which bears the same ratio to $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
+&emsp;&emsp;“(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for ‘$5,000,000’ the amount which bears the same ratioto $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
 
 “(4)
 
@@ -712,7 +712,7 @@ For section 453b(f).—Section 453B(f) of the Internal Revenue Code of 1986 (as 
 
 “(6)
 
-For section 2(c).—The amendments made by section 2(c) \[amending sections 336, 337, 453B, and formersection 453 of this title\] shall take effect as if included in the amendments made by section 403(b) of the Crude Oil Windfall Profit Tax Act of 1980 \[see section 403(b)(3) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments note under section 337 of this title\].
+For section 2(c).—The amendments made by section 2(c) \[amending sections 336, 337, 453B, and former section 453 of this title\] shall take effect as if included in the amendments made by section 403(b) of the Crude Oil Windfall Profit Tax Act of 1980 \[see section 403(b)(3) of Pub. L. 96–223, set out as an Effective Date of 1980 Amendments note under section 337 of this title\].
 
 “(7)
 

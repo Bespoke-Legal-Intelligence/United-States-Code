@@ -6,14 +6,15 @@
 | [2872\.](%C2%A7%2002872%20-%20General%20authority.md) | General authority. |
 | [2872a.](%C2%A7%2002872a%20-%20Utilities%20and%20services.md) | Utilities and services. |
 | [2873\.](%C2%A7%2002873%20-%20Direct%20loans%20and%20loan%20guarantees.md) | Direct loans and loan guarantees. |
-| [2874\.](%C2%A7%2002874%20-%20Leasing%20of%20housing%20to%20be%20constructed.md) | Leasing of housing to be constructed. |
+| [2874\.](%C2%A7%2002874%20-%20Leasing%20of%20housing.md) | Leasing of housing. |
 | [2875\.](%C2%A7%2002875%20-%20Investments.md) | Investments. |
 | [2876\.](%C2%A7%2002876%20-%20Rental%20guarantees.md) | Rental guarantees. |
 | [2877\.](%C2%A7%2002877%20-%20Differential%20lease%20payments.md) | Differential lease payments. |
 | [2878\.](%C2%A7%2002878%20-%20Conveyance%20or%20lease%20of%20existing%20property%20and%20facilities.md) | Conveyance or lease of existing property and facilities. |
-| [2879\.](%C2%A7%2002879%20-%20Interim%20leases.md) | Interim leases. |
+| \[2879. | Repealed.\] |
 | [2880\.](%C2%A7%2002880%20-%20Unit%20size%20and%20type.md) | Unit size and type. |
 | [2881\.](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md) | Ancillary supporting facilities. |
+| [2881a.](%C2%A7%2002881a%20-%20Pilot%20projects%20for%20acquisition%20or%20construction%20of%20military%20unaccompanied%20housing.md) | Pilot projects for acquisition or construction of military unaccompanied housing. |
 | [2882\.](%C2%A7%2002882%20-%20Assignment%20of%20members%20of%20the%20armed%20forces%20to%20housing%20units.md) | Assignment of members of the armed forces to housing units. |
 | [2883\.](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md) | Department of Defense Housing Funds. |
 | [2883a.](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md) | Funds for housing allowances of members of the armed forces assigned to certain military family housing units. |
@@ -24,6 +25,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–314, div. B, title XXVIII, §§2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, 116 Stat. 2703, 2705, struck out “to be constructed” after “Leasing of housing” in item 2874, struck out item 2879 “Interim leases”, and added item 2881a.
+
 2001—Pub. L. 107–107, div. B, title XXVIII, §2804(b), Dec. 28, 2001, 115 Stat. 1306, added item 2883a.
 
 2000—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2805(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415, added item 2872a.
@@ -32,7 +35,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 2814 of this title.
+This subchapter is referred to in section 2814 of this title; title 20 section 7703; title 42 sections 1758, 1786.
 
 
 ---
@@ -43,14 +46,15 @@ This subchapter is referred to in section 2814 of this title.
 - [&sect; 02872 - General authority](%C2%A7%2002872%20-%20General%20authority.md)
 - [&sect; 02872a - Utilities and services](%C2%A7%2002872a%20-%20Utilities%20and%20services.md)
 - [&sect; 02873 - Direct loans and loan guarantees](%C2%A7%2002873%20-%20Direct%20loans%20and%20loan%20guarantees.md)
-- [&sect; 02874 - Leasing of housing to be constructed](%C2%A7%2002874%20-%20Leasing%20of%20housing%20to%20be%20constructed.md)
+- [&sect; 02874 - Leasing of housing](%C2%A7%2002874%20-%20Leasing%20of%20housing.md)
 - [&sect; 02875 - Investments](%C2%A7%2002875%20-%20Investments.md)
 - [&sect; 02876 - Rental guarantees](%C2%A7%2002876%20-%20Rental%20guarantees.md)
 - [&sect; 02877 - Differential lease payments](%C2%A7%2002877%20-%20Differential%20lease%20payments.md)
 - [&sect; 02878 - Conveyance or lease of existing property and facilities](%C2%A7%2002878%20-%20Conveyance%20or%20lease%20of%20existing%20property%20and%20facilities.md)
-- [&sect; 02879 - Interim leases](%C2%A7%2002879%20-%20Interim%20leases.md)
+- [&sect; 02879 - Repealed. Pub. L. 107&#8211;314, div. B, title XXVIII, &sect;2802(c)(1), Dec. 2, 2002, 116 Stat. 2703](%C2%A7%2002879%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72802%28c%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202703.md)
 - [&sect; 02880 - Unit size and type](%C2%A7%2002880%20-%20Unit%20size%20and%20type.md)
 - [&sect; 02881 - Ancillary supporting facilities](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md)
+- [&sect; 02881a - Pilot projects for acquisition or construction of military unaccompanied housing](%C2%A7%2002881a%20-%20Pilot%20projects%20for%20acquisition%20or%20construction%20of%20military%20unaccompanied%20housing.md)
 - [&sect; 02882 - Assignment of members of the armed forces to housing units](%C2%A7%2002882%20-%20Assignment%20of%20members%20of%20the%20armed%20forces%20to%20housing%20units.md)
 - [&sect; 02883 - Department of Defense Housing Funds](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md)
 - [&sect; 02883a - Funds for housing allowances of members of the armed forces assigned to certain military family housing units](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md)

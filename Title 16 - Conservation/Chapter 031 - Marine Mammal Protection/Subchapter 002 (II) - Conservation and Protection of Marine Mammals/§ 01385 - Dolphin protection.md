@@ -64,7 +64,7 @@ For purposes of this section—
 
 &emsp;(C) the written statements and endorsements referred to in subparagraph (B) comply with regulations promulgated by the Secretary which provide for the verification of tuna products as dolphin safe.
 
-(3)(A) The Secretary of Commerce shall develop an official mark that may be used to label tuna products as dolphin safe in accordance with this Act.<sup>1</sup>
+(3)(A) The Secretary of Commerce shall develop an official mark that may be used to labeltuna products as dolphin safe in accordance with this Act.<sup>1</sup>
 
 (B) A tuna product that bears the dolphin safe mark developed under subparagraph (A) shall not bear any other label or mark that refers to dolphins, porpoises, or marine mammals.
 
@@ -96,7 +96,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(4) The reporting, receipt, and database storage of radio and facsimile transmittals from fishing vessels containing information related to the tracking and verification of tuna, and the definition of set.
 
-&emsp;(5) The shore-based verification and tracking throughout the fishing, transshipment, and canning process by means of Inter-AmericanTropical Tuna Commission trip records or otherwise.
+&emsp;(5) The shore-based verification and tracking throughout the fishing, transshipment, and canning process by means of Inter-American Tropical Tuna Commission trip records or otherwise.
 
 &emsp;(6) The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d) of this section.
 
@@ -154,7 +154,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 &emsp;“(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.”
 
-Subsec. (f). Pub. L. 105–42, §5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishingprocedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
+Subsec. (f). Pub. L. 105–42, §5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
 
 Subsec. (g). Pub. L. 105–42, §5(c), added subsec. (g) and struck out former subsec. (g), which had amended section 1371 of this title.
 

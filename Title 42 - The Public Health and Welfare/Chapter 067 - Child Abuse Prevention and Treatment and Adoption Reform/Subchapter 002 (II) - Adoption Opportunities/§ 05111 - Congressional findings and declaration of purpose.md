@@ -4,43 +4,63 @@
 
 Congress finds that—
 
-&emsp;(1) the number of children in substitute care increased by nearly 61 percent between 1986 and 1994, as our Nation's foster care population included more than 452,000 as of June 1994;
+&emsp;(1) the number of children in substitute care has increased by nearly 24 percent since 1994, as our Nation's foster care population included more than 565,000 as of September of 2001;
 
-&emsp;(2) increasingly children entering foster care have complex problems which require intensive services;
+&emsp;(2) children entering foster care have complex problems that require intensive services, with many such children having special needs because they are born to mothers who did not receive prenatal care, are born with life threatening conditions or disabilities, are born addicted to alcohol or other drugs, or have been exposed to infection with the etiologic agent for the human immunodeficiency virus;
 
-&emsp;(3) an increasing number of infants are born to mothers who did not receive prenatal care,are born addicted to alcohol and other drugs, and exposed to infection with the etiologic agent for the human immunodeficiency virus, are medically fragile, and technology dependent;
+&emsp;(3) each year, thousands of children are in need of placement in permanent, adoptive homes;
 
-&emsp;(4) the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and some such children are in need of placement in permanent, adoptive homes;
+&emsp;(4) many thousands of children remain in institutions or foster homes solely because of legal and other barriers to their placement in permanent, adoptive homes;
 
-&emsp;(5) many thousands of children remain in institutions or foster homes solely because of legal and other barriers to their placement in permanent, adoptive homes;
-
-&emsp;(6) the majority of such children are of school age, members of sibling groups or disabled;
-
-&emsp;(7)(A) currently, 40,000 children are free for adoption and awaiting placement;
+&emsp;(5)(A) currently, there are 131,000 children waiting for adoption;
 
 &emsp;(B) such children are typically school aged, in sibling groups, have experienced neglect or abuse, or have a physical, mental, or emotional disability; and
 
 &emsp;(C) while the children are of all races, children of color and older children (over the age of 10) are over represented in such group;
 
-&emsp;(8) adoption may be the best alternative for assuring the healthy development of such children;
+&emsp;(6) adoption may be the best alternative for assuring the healthy development of such children;
 
-&emsp;(9) there are qualified persons seeking to adopt such children who are unable to do so because of barriers to their placement; and
+&emsp;(7) there are qualified persons seeking to adopt such children who are unable to do so because of barriers to their placement; and
 
-&emsp;(10) in order both to enhance the stability and love of the child's home environment and to avoid wasteful expenditures of public funds, such children should not have medically indicated treatment withheld from them nor be maintained in foster care or institutions when adoption is appropriate and families can be found for such children.
+&emsp;(8) in order both to enhance the stability and love of the child's home environment and to avoid wasteful expenditures of public funds, such children should not have medically indicated treatment withheld from them nor be maintained in foster care or institutions when adoption is appropriate and families can be found for such children.
 
 #### (b) Purpose
 
-It is the purpose of this subchapter to facilitate the elimination of barriers to adoption and to provide permanent and loving home environments for children who would benefit from adoption, particularly children with special needs, including disabled infants with life-threatening conditions, by providing a mechanism to—
+It is the purpose of this subchapter to facilitate the elimination of barriers, including geographic barriers, to adoption and to provide permanent and loving home environments for children who would benefit from adoption, particularly children with special needs, including disabled infants with life-threatening conditions, by providing a mechanism to—
 
 &emsp;(1) promote quality standards for adoption services, pre-placement, post-placement, and post-legal adoption counseling, and standards to protect the rights of children in need of adoption;
 
-&emsp;(2) maintain a national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and
+&emsp;(2) maintain an Internet-based national adoption information exchange system to bring together children who would benefit from adoption and qualified prospective adoptive parents who are seeking such children, and conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and
 
 &emsp;(3) demonstrate expeditious ways to free children for adoption for whom it has been determined that adoption is the appropriate plan.
 
-(Pub. L. 95–266, title II, §201, Apr. 24, 1978, 92 Stat. 208; Pub. L. 98–457, title II, §201, Oct. 9, 1984, 98 Stat. 1755; Pub. L. 102–295, title IV, §401, May 28, 1992, 106 Stat. 211; Pub. L. 104–235, title II, §211, Oct. 3, 1996, 110 Stat. 3090.)
+(Pub. L. 95–266, title II, §201, Apr. 24, 1978, 92 Stat. 208; Pub. L. 98–457, title II, §201, Oct. 9, 1984, 98 Stat. 1755; Pub. L. 102–295, title IV, §401, May 28, 1992, 106 Stat. 211; Pub. L. 104–235, title II, §211, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §201, June 25, 2003, 117 Stat. 818.)
 
 #### Amendments
+
+2003—Subsec. (a)(1) to (3). Pub. L. 108–36, §201(1)(A), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) the number of children in substitute care increased by nearly 61 percent between 1986 and 1994, as our Nation's foster care population included more than 452,000 as of June 1994;
+
+“(2) increasingly children entering foster care have complex problems which require intensive services;
+
+“(3) an increasing number of infants are born to mothers who did not receive prenatal care, are born addicted to alcohol and other drugs, and exposed to infection with the etiologic agent for the human immunodeficiency virus, are medically fragile, and technology dependent;”.
+
+Subsec. (a)(4). Pub. L. 108–36, §201(1)(A), (D), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and some such children are in need of placement in permanent, adoptive homes;”.
+
+Subsec. (a)(5). Pub. L. 108–36, §201(1)(D), redesignated par. (7) as (5). Former par. (5) redesignated (4).
+
+Subsec. (a)(6). Pub. L. 108–36, §201(1)(B), (D), redesignated par. (8) as (6) and struck out former par. (6) which read as follows: “the majority of such children are of school age, members of sibling groups or disabled;”.
+
+Subsec. (a)(7). Pub. L. 108–36, §201(1)(D), redesignated par. (9) as (7). Former par. (7) redesignated (5).
+
+Subsec. (a)(7)(A). Pub. L. 108–36, §201(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “currently, 40,000 children are free for adoption and awaiting placement;”.
+
+Subsec. (a)(8) to (10). Pub. L. 108–36, §201(1)(D), redesignated pars. (8) to (10) as (6) to (8), respectively.
+
+Subsec. (b). Pub. L. 108–36, §201(2)(A), inserted “, including geographic barriers,” after “barriers” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 108–36, §201(2)(B), substituted “an Internet-based national” for “a national”.
 
 1996—Subsec. (a)(1). Pub. L. 104–235, §211(1)(A), substituted “61 percent between 1986 and 1994” for “50 percent between 1985 and 1990” and “452,000 as of June 1994” for “400,000 children at the end of June, 1990”.
 

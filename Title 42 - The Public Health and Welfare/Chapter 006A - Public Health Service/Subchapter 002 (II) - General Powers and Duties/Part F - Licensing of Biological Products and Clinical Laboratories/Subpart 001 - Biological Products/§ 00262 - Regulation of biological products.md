@@ -16,7 +16,11 @@
 
 (2)(A) The Secretary shall establish, by regulation, requirements for the approval, suspension, and revocation of biologics licenses.
 
-(B) The Secretary shall approve a biologics license application—
+(B)
+
+Pediatric studies.—A person that submits an application for a license under this paragraph shall submit to the Secretary as part of the application any assessments required under section 505B of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355c\].
+
+(C) The Secretary shall approve a biologics license application—
 
 &emsp;(i) on the basis of a demonstration that—
 
@@ -74,7 +78,7 @@ In this section, the term “biological product” means a virus, therapeutic se
 
 The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] applies to a biological product subject to regulation under this section, except that a product for which a license has been approved under subsection (a) shall not be required to have an approved application under section 505 of such Act \[21 U.S.C. 355\].
 
-(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324.)
+(July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941.)
 
 #### References in Text
 
@@ -83,6 +87,8 @@ The effective date of this paragraph, referred to in subsec. (d)(2), is the effe
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), and (j), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(2)(B), (C). Pub. L. 108–155 added subpar. (B) and redesignated former subpar. (B) as (C).
 
 1997—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
 
@@ -100,7 +106,7 @@ Subsec. (j). Pub. L. 105–115, §123(g), added subsec. (j).
 
 Subsec. (h)(1)(A). Pub. L. 104–134, §2102(d)(2), substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
 
-1992—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed becausethe words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
+1992—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
 
 1986—Subsec. (d). Pub. L. 99–660, §315, designated existing provisions as par. (1) and added par. (2).
 
@@ -109,6 +115,10 @@ Subsec. (h). Pub. L. 99–660, §105(a), added subsec. (h).
 1970—Subsecs. (a) to (c). Pub. L. 91–515 inserted “vaccine, blood, blood component or derivative, allergenic product,” after “antitoxin” wherever appearing.
 
 1958—Subsec. (d). Pub. L. 85–881 struck out “made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary” after “regulations” in first sentence.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of Title 21, Food and Drugs.
 
 #### Effective Date of 1997 Amendment
 
@@ -152,5 +162,5 @@ Terrorism.—\[Amended section 2332a of Title 18.\]”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 236, 262a, 263, 300aa–22, 300aa–23, 1396r–8 of this title; title 7 section 8401; title 21 sections 321, 331, 352, 353, 355, 356, 356–1, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 379g, 379i, 379j, 381, 382, 384, 392, 397, 823; title 26 section 45C; title 35 section 156.
+This section is referred to in sections 236, 262a, 263, 300aa–22, 300aa–23, 1395w–102, 1396r–8 of this title; title 7 section 8401; title 21 sections 321, 331, 352, 353, 355, 355c, 356, 356–1, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 360bbb–3, 379g, 379i, 379j, 381, 382, 384, 392, 397, 823; title 26 section 45C; title 35 section 156.
 

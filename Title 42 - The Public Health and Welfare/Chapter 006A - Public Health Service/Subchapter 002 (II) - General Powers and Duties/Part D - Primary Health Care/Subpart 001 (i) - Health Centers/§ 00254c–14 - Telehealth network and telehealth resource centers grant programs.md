@@ -18,7 +18,7 @@ In this section:
 
 #### (4) Medically underserved area
 
-&emsp;The term “medically underserved area” has the meaning given the term “medically underserved community” in section 295p of this title.
+&emsp;The term “medically underserved area” has the meaning given the term “medically underserved community” in section 295p(6) of this title.
 
 #### (5) Medically underserved population
 
@@ -40,7 +40,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (1) Establishment
 
-&emsp;There is established in the Health and <sup>1</sup> Resources and Services Administration an Office for the Advancement of Telehealth. The Office shall be headed by a Director.
+&emsp;There is established in the Health Resources and Services Administration an Office for the Advancement of Telehealth. The Office shall be headed by a Director.
 
 #### (2) Duties
 
@@ -216,7 +216,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(A) not less than 50 percent of the funds awarded shall be awarded for projects in rural areas; and
 
-&emsp;&emsp;(B) the total amount of funds awarded for such projects for that fiscal year shall be not less than the total amount of funds awardedfor such projects for fiscal year 2001 under section 254c of this title (as in effect on the day before October 26, 2002).
+&emsp;&emsp;(B) the total amount of funds awarded for such projects for that fiscal year shall be not less than the total amount of funds awarded for such projects for fiscal year 2001 under section 254c of this title (as in effect on the day before October 26, 2002).
 
 #### (k) Use of funds
 
@@ -230,7 +230,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(C)(i) developing and providing distance education, in a manner that enhances access to care in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations; or
 
-&emsp;&emsp;(ii) mentoring, precepting, or supervising health care providers and students seeking to become health care providers, in a manner that enhances access to care in the areas and communities, or for the populations, described in clause (i);
+&emsp;&emsp;(ii) mentoring, precepting, or supervising health care providers and students seekingto become health care providers, in a manner that enhances access to care in the areas and communities, or for the populations, described in clause (i);
 
 &emsp;&emsp;(D) developing and acquiring instructional programming;
 
@@ -300,7 +300,7 @@ The Secretary shall establish and implement procedures to carry out outreach act
 
 #### (p) Telehealth
 
-It is the sense of Congress that, for purposes of this section, States should develop reciprocity agreements so that a provider of services underthis section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
+It is the sense of Congress that, for purposes of this section, States should develop reciprocity agreements so that a provider of services under this section who is a licensed or otherwise authorized health care provider under the law of 1 or more States, and who, through telehealth technology, consults with a licensed or otherwise authorized health care provider in another State, is exempt, with respect to such consultation, from any State law of the other State that prohibits such consultation on the basis that the first health care provider is not a licensed or authorized health care provider under the law of that State.
 
 #### (q) Report
 
@@ -318,7 +318,15 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(2) for grants under subsection (d)(2) of this section, $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
-(July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632.)
+(July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021.)
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+#### Amendments
+
+2003—Subsec. (a)(4). Pub. L. 108–163, §2(c)(1), substituted “section 295p(6)” for “section 295p”.
+
+Subsec. (c)(1). Pub. L. 108–163, §2(c)(2), substituted “Health Resources and Services Administration” for “Health and Resources and Services Administration”.
+
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 

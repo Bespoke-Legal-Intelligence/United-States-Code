@@ -14,7 +14,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(3) An assurance that the notice described in paragraph (2) will be provided to the family of a passenger as soon as the air carrier has verified that the passenger was aboard the aircraft (whether or not the names of all of the passengers have been verified) and, to the extent practicable, in person.
 
-&emsp;(4) An assurance that the air carrier will provide to the director of family support services designated for the accident under section 1136(a)(1) of this title, and to the organization designated for the accident under section 1136(a)(2) of this title, immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), and will periodically update the list.
+&emsp;(4) An assurance that the air carrier will provide to the director of family support services designated for the accident under section1136(a)(1) of this title, and to the organization designated for the accident under section 1136(a)(2) of this title, immediately upon request, a list (which is based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), and will periodically update the list.
 
 &emsp;(5) An assurance that the family of each passenger will be consulted about the disposition of all remains and personal effects of the passenger within the control of the air carrier.
 
@@ -38,7 +38,13 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(15) An assurance that the air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
 
-&emsp;(16) An assurance that the air carrier, in the event that the air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, the air carrier <sup>1</sup> will consult with the Board and the Department of State on the provision of the assistance.
+&emsp;(16) An assurance that the air carrier, in the event that the air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving major loss of life, will consult with the Board and the Department of State on the provision of the assistance.
+
+&emsp;(17)(A) An assurance that, in the case of an accident that results in significant damage to a manmade structure or other property on the ground that is not government-owned, the air carrier will promptly provide notice, in writing, to the extent practicable, directly to the owner of the structure or other property about liability for any property damage and means for obtaining compensation.
+
+&emsp;(B) At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by air carrier representatives about compensation by the air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.
+
+&emsp;(18) An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the air carrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the air carrier's flight if that city is located in the United States.
 
 (c)
 
@@ -56,11 +62,15 @@ Aircraft Accident and Passenger Defined.—In this section, the terms “aircraf
 
 Statutory Construction.—Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
-(Added Pub. L. 104–264, title VII, §703(a), Oct. 9, 1996, 110 Stat. 3267; amended Pub. L. 106–181, title IV, §402(a)(1)–(3), (5)–(c), Apr. 5, 2000, 114 Stat. 129, 130.)
+(Added Pub. L. 104–264, title VII, §703(a), Oct. 9, 1996, 110 Stat. 3267; amended Pub. L. 106–181, title IV, §402(a)(1)–(3), (5)–(c), Apr. 5, 2000, 114 Stat. 129, 130; Pub. L. 108–176, title VIII, §809(a), Dec. 12, 2003, 117 Stat. 2588.)
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
+2003—Subsec. (b)(16). Pub. L. 108–176, §809(a)(1), struck out “the air carrier” after “major loss of life,”.
+
+Subsec. (b)(17), (18). Pub. L. 108–176, §809(a)(2), added pars. (17) and (18).
+
+2000—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6months after the date of the enactment of this section, each air carrier”.
 
 Subsec. (b)(14) to (16). Pub. L. 106–181, §402(a)(1)–(3), added pars. (14) to (16).
 
@@ -69,6 +79,10 @@ Subsec. (c). Pub. L. 106–181, §402(a)(5)(B), substituted “The Secretary” 
 Subsec. (d). Pub. L. 106–181, §402(b), inserted “, or in providing information concerning a preliminary passenger manifest,” before “pursuant to a plan”.
 
 Subsec. (f). Pub. L. 106–181, §402(c), added subsec. (f).
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -79,6 +93,10 @@ Pub. L. 106–181, title IV, §402(a)(4), Apr. 5, 2000, 114 Stat. 130, provided 
 #### Effective Date
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+
+#### Update Plans
+
+Pub. L. 108–176, title VIII, §809(c), Dec. 12, 2003, 117 Stat. 2589, provided that: “Air carriers and foreign air carriers shall update their plans under sections 41113 and 41313 of title 49, United States Code, respectively, to reflect the amendments made by subsections (a) and (b) of this section \[amending this section and section 41313 of this title\] not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\].”
 
 #### Establishment of Task Force
 

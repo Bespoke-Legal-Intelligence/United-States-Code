@@ -52,7 +52,7 @@ Special projects of national significance may include the development of model a
 
 #### (f) Coordination
 
-The Secretary may not make a grant under this section unless the applicant submits evidence that the proposed program is consistent with the statewide coordinated statement of need, and the applicant agrees to participate in the ongoing revision process of such statement of need.
+The Secretary may not make a grant under this section unless the applicant submits evidence that the proposed program is consistentwith the statewide coordinated statement of need, and the applicant agrees to participate in the ongoing revision process of such statement of need.
 
 #### (g) Replication
 

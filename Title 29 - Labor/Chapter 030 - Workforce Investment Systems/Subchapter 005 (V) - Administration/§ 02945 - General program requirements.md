@@ -22,7 +22,7 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;&emsp;(i) receipts from goods or services (including conferences) provided as a result of activities funded under this chapter;
 
-&emsp;&emsp;(ii) funds provided to a service provider under this chapter that are in excess of the costs associated with the services provided; and
+&emsp;&emsp;(ii) funds provided to a service provider under this chapter that are in excess of thecosts associated with the services provided; and
 
 &emsp;&emsp;(iii) interest income earned on funds received under this chapter.
 

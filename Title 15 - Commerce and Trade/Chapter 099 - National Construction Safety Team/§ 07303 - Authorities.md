@@ -54,7 +54,7 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 #### (4) Preservation of evidence
 
-&emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
+&emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with theFederal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
 (Pub. L. 107–231, §4, Oct. 1, 2002, 116 Stat. 1472.)
 

@@ -56,13 +56,13 @@
 
 &emsp;&emsp;&emsp;(V) from each transplant center in its service area which has arrangements described in paragraph (2)(G) <sup>1</sup> with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
 
-&emsp;&emsp;(ii) has the authority to recommend policies for the procurement of organs and theother functions described in paragraph (2),<sup>1</sup> and
+&emsp;&emsp;(ii) has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (2),<sup>1</sup> and
 
 &emsp;&emsp;(iii) has no authority over any other activity of the organization.
 
 (2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E).<sup>1</sup>
 
-(B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the Federal Register a final rule to establish the criteria described in subparagraph (A).
+(B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the FederalRegister a final rule to establish the criteria described in subparagraph (A).
 
 (3) An organ procurement organization shall—
 
@@ -132,7 +132,7 @@ Subsec. (a)(4)(C). Pub. L. 100–607, §402(a)(3), added subpar. (C).
 
 Subsec. (b)(1)(E). Pub. L. 100–607, §402(c)(1)(A), substituted “size such that” for “size which”, and “the organization can reasonably expect to procure organs from not less than 50 donors each year” for “will include at least fifty potential organ donors each year”.
 
-Subsec. (b)(1)(G)(i)(III). Pub. L. 100–607, §402(c)(2), as amended by Pub. L. 101–616, §201(e), inserted “or an individual with a doctorate degree in a biological sciencewith knowledge, experience, or skill in the field of histocompatibility” before comma at end.
+Subsec. (b)(1)(G)(i)(III). Pub. L. 100–607, §402(c)(2), as amended by Pub. L. 101–616, §201(e), inserted “or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility” before comma at end.
 
 Subsec. (b)(2)(C). Pub. L. 100–607, §402(c)(1)(B), substituted “274(b)(2)(E) of this title, including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,” for “274(b)(2)(D) of this title,”.
 
@@ -140,7 +140,7 @@ Subsec. (b)(2)(E). Pub. L. 100–607, §402(c)(1)(C), substituted “organs equi
 
 Subsec. (b)(2)(K). Pub. L. 100–607, §402(c)(1)(D), added subpar. (K).
 
-Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
+Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987.”
 
 #### Effective Date of 1990 Amendment
 
@@ -208,7 +208,7 @@ Report.—The Secretary shall ensure that, not later than December 31, 2001, the
 
 #### Study on Hospital Agreements With Organ Procurement Agencies
 
-Pub. L. 103–432, title I, §155(b), Oct. 31, 1994, 108 Stat. 4439, directed Office of Technology Assessment to conduct study to determine efficacy and fairness of requiring a hospital to enter into agreement under subsec. (b)(3)(A) of this section with organ procurement agencyfor service area in which such hospital is located and impact of such requirement on efficacy and fairness of organ procurement and distribution, and to submit to Congress, not later than 2 years after Oct. 31, 1994, report containing findings of such study and implications of such findings with respect to policies affecting organ procurement and distribution.
+Pub. L. 103–432, title I, §155(b), Oct. 31, 1994, 108 Stat. 4439, directed Office of Technology Assessment to conduct study to determine efficacy and fairness of requiring a hospital to enter into agreement under subsec. (b)(3)(A) of this section with organ procurement agency for service area in which such hospital is located and impact of such requirement on efficacy and fairness of organ procurement and distribution, and to submit to Congress, not later than 2 years after Oct. 31, 1994, report containing findings of such study and implications of such findings with respect to policies affecting organ procurement and distribution.
 
 #### Task Force on Organ Procurement and Transplantation
 

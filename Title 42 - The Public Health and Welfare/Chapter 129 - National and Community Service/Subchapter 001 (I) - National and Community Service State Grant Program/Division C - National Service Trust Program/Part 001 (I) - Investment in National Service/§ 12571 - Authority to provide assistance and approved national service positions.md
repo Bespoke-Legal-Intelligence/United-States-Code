@@ -2,7 +2,7 @@
 
 #### (a) Provision of assistance
 
-Subject to the availability of appropriations for this purpose, the Corporation for National and Community Service may make grants to States, subdivisions of States, Indian tribes, public or private nonprofit organizations, and institutions of higher education for the purpose of assisting the recipients of the grants—
+Subject to the availability of appropriations for this purpose, the Corporation for Nationaland Community Service may make grants to States, subdivisions of States, Indian tribes, public or private nonprofit organizations, and institutions of higher education for the purpose of assisting the recipients of the grants—
 
 &emsp;(1) to carry out full- or part-time national service programs, including summer programs, described in section 12572(a) of this title; and
 

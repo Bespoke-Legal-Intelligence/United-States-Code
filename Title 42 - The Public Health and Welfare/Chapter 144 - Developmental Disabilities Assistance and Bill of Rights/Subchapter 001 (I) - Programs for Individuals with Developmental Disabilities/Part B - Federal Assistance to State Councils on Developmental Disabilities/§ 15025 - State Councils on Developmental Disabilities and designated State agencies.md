@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each State that receives assistance under this part shall establish and maintain a Council toundertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c) of this section.
+Each State that receives assistance under this part shall establish and maintain a Council to undertake advocacy, capacity building, and systemic change activities (consistent with subsections (b) and (c) of section 15001 of this title) that contribute to a coordinated, consumer- and family-centered, consumer- and family-directed, comprehensive system of community services, individualized supports, and other forms of assistance that contribute to the achievement of the purpose of this part. The Council shall have the authority to fulfill the responsibilities described in subsection (c) of this section.
 
 #### (b) Council membership
 
@@ -144,7 +144,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;The Council may support and conduct activities to enhance coordination of services with—
 
-&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under subtitle C <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council established under subtitle B <sup>1</sup> of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3011 or 3012 of title 29, and entities carrying out other similar councils, entities, or committees);
+&emsp;&emsp;&emsp;(i) other councils, entities, or committees, authorized by Federal or State law, concerning individuals with disabilities (such as the State interagency coordinating council established under subtitle C <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), the State Rehabilitation Council and the Statewide Independent Living Council established under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the State mental health planning council establishedunder subtitle B <sup>1</sup> of title XIX of the Public Health Service Act \[42 U.S.C. 300x et seq.\], and the activities authorized under section 3011 or 3012 of title 29, and entities carrying out other similar councils, entities, or committees);
 
 &emsp;&emsp;&emsp;(ii) parent training and information centers under part D of the Individuals with Disabilities Education Act (20 U.S.C. 1451 et seq.) and other entities carrying out federally funded projects that assist parents of children with disabilities; and
 
@@ -212,7 +212,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (8) Budget
 
-&emsp;Each Council shall prepare, approve, and implement a budget using amounts paid to theState under this part to fund and implement all programs, projects, and activities carried out under this part, including—
+&emsp;Each Council shall prepare, approve, and implement a budget using amounts paid to the State under this part to fund and implement all programs, projects, and activities carried out under this part, including—
 
 &emsp;&emsp;(A)(i) conducting such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council; and
 
@@ -340,7 +340,7 @@ The Rehabilitation Act of 1973, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (ii), (11), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. The reference to subtitle C of the Act probably means part C of the Act which is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Part D of the Act is classified generally to subchapter IV (§1451 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (b)(4)(A)(i)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (b)(4)(A)(i)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat.218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

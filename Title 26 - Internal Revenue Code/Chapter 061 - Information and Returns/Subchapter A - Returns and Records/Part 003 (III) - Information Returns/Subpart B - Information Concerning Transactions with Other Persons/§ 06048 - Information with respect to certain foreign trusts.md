@@ -76,7 +76,7 @@
 
 &emsp;&emsp;The rules of this paragraph shall apply to any foreign trust to which paragraph (1) applies unless such trust agrees (in such manner, subject to such conditions, and at such time as the Secretary shall prescribe) to authorize a United States person to act as such trust's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to—
 
-&emsp;&emsp;&emsp;(i) any request by the Secretary to examine records or produce testimony related to the proper treatment of amounts required to be taken into account under the rules referred to in subparagraph (A), or
+&emsp;&emsp;&emsp;(i) any request by the Secretary to examine records or produce testimony relatedto the proper treatment of amounts required to be taken into account under the rules referred to in subparagraph (A), or
 
 &emsp;&emsp;&emsp;(ii) any summons by the Secretary for such records or testimony.
 
@@ -102,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible in the gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject torules similar to the rules of subsection (b)(2)(B).
+&emsp;&emsp;If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible in the gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject to rules similar to the rules of subsection (b)(2)(B).
 
 #### (B) Application of accumulation distribution rules
 

@@ -16,7 +16,7 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 #### Amendments
 
-1989—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title” in pars. (1) and (2).
+<b>1989</b>—Pub. L. 101–194 substituted “subparagraphs (A) and (B) of section 352(8) of this title” for “section 352(2) and (3) of this title” in pars. (1) and (2).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

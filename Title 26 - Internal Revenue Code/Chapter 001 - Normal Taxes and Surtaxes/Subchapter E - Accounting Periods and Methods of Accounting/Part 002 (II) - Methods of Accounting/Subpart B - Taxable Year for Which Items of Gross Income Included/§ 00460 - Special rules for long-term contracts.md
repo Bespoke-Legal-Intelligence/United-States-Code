@@ -200,7 +200,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costs are allocated to property produced by the taxpayer under section 263A(f).
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costsare allocated to property produced by the taxpayer under section 263A(f).
 
 #### (B) Production period
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 #### (5) Special rule for residential construction contracts which are not home construction contracts
 
-&emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied—
+&emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shallapply except that such subsection shall be applied—
 
 &emsp;&emsp;(A) by substituting “70 percent” for “90 percent” each place it appears, and
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 #### (g) Contract commencement date
 
-For purposes of this section, the term “contract commencement date” means, with respectto any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+For purposes of this section, the term “contract commencement date” means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
 #### (h) Regulations
 
@@ -386,7 +386,7 @@ In general.—In the case of any long-term contract—
 
 percent look-back method to apply.—Upon completion of any long-term contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest determined by applying the look-back method of subsection (b)(3) to 90 percent of the items with respect to the contract.”
 
-Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)” after “any long-term contract”.
+Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when suchamount is so properly taken into account)” after “any long-term contract”.
 
 Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted “paragraph (3)” for “paragraph (4)”.
 
@@ -442,7 +442,7 @@ Subsec. (b)(2). Pub. L. 100–647, §1008(c)(2)(B), substituted “Except as pro
 
 Subsec. (b)(2)(B). Pub. L. 100–647, §1008(c)(4)(B), inserted “(or, with respect to any amount received or accrued after completion of the contract, when such amount is so received or accrued)” after “contract”.
 
-Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end “For purposes of the preceding sentence, anyamount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.”
+Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end “For purposes of the preceding sentence, any amount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.”
 
 Pub. L. 100–647, §1008(c)(1)(A), substituted “paragraph” for “subparagraph”.
 

@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “1562” for “562”.
 
 Subsec. (b). Pub. L. 88–77 enlarged the authority to enter and record names on the Medal of Honor Roll, which was limited to persons who served in the active military, naval or air service of the United States in any war, and who distinguished themselves by gallantry or intrepidity in action involving actual conflict with an enemy, to permit entering and recording names of persons who served on active duty in the Armed Forces of the United States distinguish themselves by gallantry and intrepidity while engaged in action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-1961—Subsec. (b). Pub. L. 87–138, §1(a), reduced the age requirement for entry on the Medal of Honor Roll from 65 to 50 years and struck out requirement that such person must have received an honorable discharge.
+1961—Subsec. (b). Pub. L. 87–138, §1(a), reduced the age requirement for entry on the Medal of Honor Rollfrom 65 to 50 years and struck out requirement that such person must have received an honorable discharge.
 
 Subsec. (c). Pub. L. 87–138, §1(b), required applicants to indicate if they wished to receive the pension provided by section 562 of this title.
 

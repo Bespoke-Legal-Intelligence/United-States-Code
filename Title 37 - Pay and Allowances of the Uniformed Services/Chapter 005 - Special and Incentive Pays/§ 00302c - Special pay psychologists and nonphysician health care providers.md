@@ -38,7 +38,7 @@ Army, Navy, and Air Force Psychologists.—The Secretary of Defense may provide 
 
 Nonphysician Health Care Providers.—The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 
-&emsp;(1) is an officer in the Medical Services Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
+&emsp;(1) is an officer in the Medical Services Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officerof the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
 
 &emsp;(2) is a health care provider (other than a psychologist);
 

@@ -58,7 +58,7 @@ In order to receive any grant, loan, or work assistance under this subchapter an
 
 &emsp;(A) the institution at which the student is in attendance, reviews the progress of the student at the end of each academic year, or its equivalent, as determined by the institution, and
 
-&emsp;(B) the student has a cumulative C average, or its equivalent or academic standing consistent with the requirements for graduation, as determined by the institution, at the end of the second such academic year.
+&emsp;(B) the student has a cumulative C average, or its equivalent or academic standing consistent with the requirements for graduation, asdetermined by the institution, at the end of the second such academic year.
 
 (2) Whenever a student fails to meet the eligibility requirements of subsection (a)(2) of this section as a result of the application of this subsection and subsequent to that failure the student has academic standing consistent with the requirements for graduation, as determined by the institution, for any grading period, the student may, subject to this subsection, again be eligible under subsection (a)(2) of this section for a grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
@@ -228,7 +228,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### (2) Notification
 
-&emsp;The Secretary shall establish procedures under which an applicant is notified that the Internal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26.
+&emsp;The Secretary shall establish procedures under which an applicant is notified that theInternal Revenue Service will disclose to the Secretary tax return information as authorized under section 6103(<i>l</i>)(13) of title 26.
 
 #### (r) Suspension of eligibility for drug-related offenses
 
@@ -299,7 +299,7 @@ Subsec. (j). Pub. L. 105–244, §483(c), amended heading and text of subsec. (j
 
 &emsp;“(2) meets the requirements of subsection (a)(5) of this section and attends a public or nonprofit private institution of higher education in the Federated States of Micronesia, the Republic of the Marshall Islands, or the Republic of Palau.”
 
-Subsec. (<i>l</i>)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A student enrolled in a course of instruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses.”
+Subsec. (<i>l</i>)(1). Pub. L. 105–244, §483(d), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A student enrolled in a course ofinstruction at an eligible institution of higher education (other than an institution that meets the definition in section 2471(4)(C) of this title) that is offered in whole or in part through telecommunications and leads to a recognized associate, bachelor, or graduate degree conferred by such institution shall not be considered to be enrolled in correspondence courses unless the total amount of telecommunications and correspondence courses at such institution equals or exceeds 50 percent of such courses.”
 
 Subsec. (q). Pub. L. 105–244, §483(e), added subsec. (q).
 
@@ -447,13 +447,13 @@ Section 13 of Pub. L. 100–369 provided that:
 
 “(a)
 
-General Rule.—Except as otherwise provided, the amendments made by this Act to title IV of the Higher Education Act of 1965 \[amending this section and section 1078–1 of this title\] shall be effective for any loan for which the eligibility of the borrower is certified by the institution 30 days after the date of enactment of this Act \[July 18, 1988\].
+General Rule.—Except as otherwise provided, the amendments made by this Act to title IV of the Higher Education Act of 1965 \[amending this sectionand section 1078–1 of this title\] shall be effective for any loan for which the eligibility of the borrower is certified by the institution 30 days after the date of enactment of this Act \[July 18, 1988\].
 
 “(b)
 
 Special Rules.—(1) The amendments made by section 5 \[amending this section and sections 1077 and 1078 of this title\] shall be effective with respect to loans made on or after October 1, 1988.
 
-“(2) The amendments made by sections 6, 7, 8, 9, 10, 11, and 12 \[amending this section, sections 1058, 1061,1062, 1070a–1, 1070a–3, 1070a–4, 1070a–6, 1071, 1077, 1078, 1087–2, 1087dd, 1087ee, 1087nn, 1087ss, 1087vv, 1132d–1, 1132g–1, and 1134m of this title, and section 1905 of Title 48, Territories and Insular Possessions\] shall take effect on the date of enactment of this Act \[July 18, 1988\].”
+“(2) The amendments made by sections 6, 7, 8, 9, 10, 11, and 12 \[amending this section, sections 1058, 1061, 1062, 1070a–1, 1070a–3, 1070a–4, 1070a–6, 1071, 1077, 1078, 1087–2, 1087dd, 1087ee, 1087nn, 1087ss, 1087vv, 1132d–1, 1132g–1, and 1134m of this title, and section 1905 of Title 48, Territories and Insular Possessions\] shall take effect on the date of enactment of this Act \[July 18, 1988\].”
 
 #### Effective Date of 1987 Amendment
 

@@ -1,6 +1,6 @@
 ### §247b–2. Repealed. Pub. L. 97–35, title IX, §902(a), Aug. 13, 1981, 95 Stat. 559
 
-Section, Pub. L. 95–626, title IV, §402, Nov. 10, 1978, 92 Stat. 3591; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93Stat. 695, related to deterrence of smoking and alcoholic beverage use among children and adolescents.
+Section, Pub. L. 95–626, title IV, §402, Nov. 10, 1978, 92 Stat. 3591; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, related to deterrence of smoking and alcoholic beverage use among children and adolescents.
 
 #### Effective Date of Repeal
 

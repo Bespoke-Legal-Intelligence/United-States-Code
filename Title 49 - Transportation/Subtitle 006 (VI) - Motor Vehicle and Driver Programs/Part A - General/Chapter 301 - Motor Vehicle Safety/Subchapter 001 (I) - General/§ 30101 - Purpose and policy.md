@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
-The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driverregister, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
 #### Short Title of 2000 Amendment
 
@@ -110,7 +110,7 @@ Action.—A rulemaking under paragraph (5) of section 2503 shall be considered c
 
 &emsp;&emsp;“(C)
 
-Standard.—The Secretary may, as part of any action taken under section 2503, amend anymotor vehicle safety standard or establish a new standard under the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.).
+Standard.—The Secretary may, as part of any action taken under section 2503, amend any motor vehicle safety standard or establish a new standard under the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.).
 
 #### “SEC. 2503. MATTERS BEFORE THE SECRETARY.
 
@@ -118,7 +118,7 @@ Standard.—The Secretary may, as part of any action taken under section 2503, a
 
 &emsp;“(1) Protection against unreasonable risk of rollovers of passenger cars, multipurpose passenger vehicles, and trucks with a gross vehicle weight rating of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less.
 
-&emsp;“(2) Extension of passenger car side impact protection to multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 8,500 pounds or less and an unloaded vehicle weight of 5,500 pounds or less.
+&emsp;“(2) Extension of passenger car side impact protection to multipurpose passenger vehicles and trucks with a gross vehicle weight rating of 8,500 pounds orless and an unloaded vehicle weight of 5,500 pounds or less.
 
 &emsp;“(3) Safety of child booster seats used in passenger cars and other appropriate motor vehicles.
 

@@ -64,21 +64,23 @@
 
 (2) Such regulations shall include provisions for—
 
-&emsp;(A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.); and
+&emsp;(A) the involuntary allotment of the pay of a member of the uniformed services for indebtedness owed a third party as determined by the final judgment of a court of competent jurisdiction, and as further determined by competent military or executive authority, as appropriate, to be in compliance with the procedural requirements of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.); and
 
 &emsp;(B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
 (3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Transportation with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
 
-(Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923.)
+(Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923; Pub. L. 108–189, §2(b)(1), Dec. 19, 2003, 117 Stat. 2865.)
 
 #### References in Text
 
 The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of Pub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
 
-The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
+
+2003—Subsec. (k)(2)(A). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act of 1940”.
 
 1997—Subsec. (j)(2). Pub. L. 105–85, §1105(1), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
 

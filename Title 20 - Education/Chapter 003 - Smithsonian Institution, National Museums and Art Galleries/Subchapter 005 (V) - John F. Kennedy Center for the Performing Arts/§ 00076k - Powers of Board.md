@@ -80,7 +80,7 @@ The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), i
 
 The provisions relating to the Federal competitive service, referred to in subsec. (d)(2), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, asamended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of Title 29. For complete classification of this Act to the Code, see section 141 of Title 29 and Tables.
 

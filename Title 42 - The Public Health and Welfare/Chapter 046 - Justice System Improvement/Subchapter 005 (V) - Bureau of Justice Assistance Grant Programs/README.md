@@ -10,7 +10,7 @@ Section 3762, Pub. L. 90–351, title I, §502, formerly §602, as added Pub. L.
 
 Section 3763, Pub. L. 90–351, title I, §503, formerly §603, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1196; renumbered §503 and amended Pub. L. 98–473, title II, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to procedure for establishing discretionary programs.
 
-Section 3764, Pub. L. 90–351, title I, §504, formerly §604, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1197; renumbered §504 and amended Pub. L. 98–473, title II, §608(b), (f), Oct. 12, 1984, 98 Stat. 2087, related to application requirements for discretionary grants.
+Section 3764, Pub. L. 90–351, title I, §504, formerly §604, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1197; renumbered §504 and amended Pub. L. 98–473, title II, §608(b), (f), Oct. 12, 1984, 98 Stat. 2087, related to application requirements for discretionary grants.
 
 Section 3765, Pub. L. 90–351, title I, §505, formerly §605, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1197; renumbered §505 and amended Pub. L. 98–473, title II, §608(c), Oct. 12, 1984, 98 Stat. 2087, related to criteria for award.
 
@@ -30,7 +30,7 @@ Section 3755, Pub. L. 90–351, title I, §505, as added Pub. L. 96–157, §2, 
 
 Another prior subchapter V, consisting of sections 3751 to 3774, related to administrative provisions, prior to the general amendment of this chapter by Pub. L. 96–157.
 
-Section 3751, Pub. L. 90–351, title I, §501, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, §120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures.
+Section 3751, Pub. L. 90–351, title I, §501, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211;Pub. L. 94–503, title I, §120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures.
 
 Section 3752, Pub. L. 90–351, title I, §502, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211, made provision for delegation of functions of Law Enforcement Assistance Administration to other officers of Department of Justice.
 

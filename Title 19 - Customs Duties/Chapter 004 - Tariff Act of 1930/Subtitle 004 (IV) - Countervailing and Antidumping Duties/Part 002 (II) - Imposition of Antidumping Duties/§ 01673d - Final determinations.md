@@ -18,7 +18,7 @@
 
 &emsp;If the final determination of the administering authority is affirmative, then that determination, in any investigation in which the presence of critical circumstances has been alleged under section 1673b(e) of this title, shall also contain a finding of whether—
 
-&emsp;&emsp;(A)(i) there is a history of dumping and material injury by reason of dumped imports in the United States or elsewhere of the subject merchandise, or
+&emsp;&emsp;(A)(i) there is a history of dumping and material injury by reason of dumped importsin the United States or elsewhere of the subject merchandise, or
 
 &emsp;&emsp;(ii) the person by whom, or for whose account, the merchandise was imported knew or should have known that the exporter was selling the subject merchandise at less than its fair value and that there would be material injury by reason of such sales, and
 
@@ -96,7 +96,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;&emsp;(ii) the administering authority shall order the posting of a cash deposit, bond, or other security, as the administering authority deems appropriate, for each entry of the subject merchandise in an amount based on the estimated weighted average dumping margin or the estimated all-others rate, whichever is applicable, and
 
-&emsp;&emsp;(C) in cases where the preliminary determination by the administering authority under section 1673b(b) of this title was negative, the administering authority shall order the suspension of liquidation under section 1673b(d)(2) of this title.
+&emsp;&emsp;(C) in cases where the preliminary determination by the administering authorityunder section 1673b(b) of this title was negative, the administering authority shall order the suspension of liquidation under section 1673b(d)(2) of this title.
 
 #### (2) Issuance of order; effect of negative determination
 

@@ -8,7 +8,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (1) In general
 
-&emsp;Non-Federal contributions required in subsection (a) of this section may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;Non-Federal contributions required in subsection (a) of this section may be in cash or inkind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
 #### (2) Maintenance of effort
 

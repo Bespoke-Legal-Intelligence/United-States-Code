@@ -1,14 +1,16 @@
 ### §3542. Special training allowance
 
-(a) While the eligible person is enrolled in and pursuing a full-time course of special restorative training, the eligible person shall be entitled to receive a special training allowance computed at the basic rate of $670 per month. If the charges for tuition and fees applicable to any such course are more than $210 per calendar month, the basic monthly allowance may be increased by the amount that such charges exceed $210 a month, upon election by the eligible person to have such person's period of entitlement reduced by one day for each such increased amount of allowance that is equal to one-thirtieth of the full-time basic monthly rate of special training allowance.
+(a) While the eligible person is enrolled in and pursuing a full-time course of special restorative training, the eligible person shall be entitled to receive a special training allowance computed at the basic rate of $788 per month. If the charges for tuition and fees applicable to any such course are more than $247 per calendar month, the basic monthly allowance may be increased by the amount that such charges exceed $247 a month, upon election by the eligible person to have such person's period of entitlement reduced by one day for each such increased amount of allowance that is equal to one-thirtieth of the full-time basic monthly rate of special training allowance.
 
 (b) No payments of a special training allowance shall be made for the same period for which the payment of an educational assistance allowance is made or for any period during which the training is pursued on less than a full-time basis.
 
 (c) Full-time training for the purpose of this section shall be determined by the Secretary with respect to the capacities of the individual trainee.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1742; Pub. L. 89–222, §2, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(c), Mar. 26, 1970, 84 Stat. 78; Pub. L. 92–540, title I, §103(4), Oct. 24, 1972, 86 Stat. 1076; Pub. L. 93–508, title I, §103(4), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §204(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §301(2), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 95–202, title I, §103(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§202(2), 212(2), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 98–543, title II, §203(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(10), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3542, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(c), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(c), Nov. 1, 2000, 114 Stat. 1830; Pub. L. 107–103, title I, §§102(c), 109(b)(2), Dec. 27, 2001, 115 Stat. 978, 986.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1742; Pub. L. 89–222, §2, Sept. 30, 1965, 79 Stat. 896; Pub. L. 91–219, title I, §104(c), Mar. 26, 1970, 84 Stat. 78; Pub. L. 92–540, title I, §103(4), Oct. 24, 1972, 86 Stat. 1076; Pub. L. 93–508, title I, §103(4), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §204(b), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 94–502, title III, §301(2), Oct. 15, 1976, 90 Stat. 2389; Pub. L. 95–202, title I, §103(2), Nov. 23, 1977, 91 Stat.1435; Pub. L. 96–466, title II, §§202(2), 212(2), Oct. 17, 1980, 94 Stat. 2188, 2190; Pub. L. 98–543, title II, §203(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §§403(a)(10), 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2080, 2092; renumbered §3542, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(c), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(c), Nov. 1, 2000, 114 Stat. 1830; Pub. L. 107–103, title I, §§102(c), 109(b)(2), Dec. 27, 2001, 115 Stat. 978, 986; Pub. L. 108–183, title III, §302(c), Dec. 16, 2003, 117 Stat. 2659.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–183 substituted “$788” for “$670” and substituted “$247” for “$210” in two places.
 
 2001—Subsec. (a). Pub. L. 107–103, §109(b)(2), substituted “the eligible person shall be entitled to receive” for “the parent or guardian shall be entitled to receive on behalf of such person” and “upon election by the eligible person” for “upon election by the parent or guardian of the eligible person”.
 
@@ -43,6 +45,10 @@ Pub. L. 96–466, §202(2), substituted “$327” for “$311”, “$103” fo
 1970—Subsec. (a). Pub. L. 91–219 substituted “$175” for “$130”, “$55” for “$41”, and “$6.80” for “$4.25” respectively.
 
 1965—Subsec. (a). Pub. L. 89–222 substituted “$130”, “$41”, “$41” and “$4.25” for “$110”, “$35”, “$35” and “$3.60”, respectively.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respect to educational assistance allowances payable under this chapter and section 3687(b)(2) of this title for months beginning on or after that date, see section 302(e) of Pub. L. 108–183, set out as a note under section 3532 of this title.
 
 #### Effective Date of 2001 Amendment
 

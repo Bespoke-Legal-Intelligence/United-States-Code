@@ -58,7 +58,7 @@ In this section:
 
 #### (c) Program
 
-In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President may enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f) of this section.
+In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President shall enter into agreements with eligible entities to furnish to the countries eligible commodities made available under subsections (e) and (f) of this section.
 
 #### (d) Consideration for agreements
 
@@ -116,7 +116,7 @@ Sale procedure.—In making sales of eligible commodities under this section, th
 
 #### (g) Minimum tonnage
 
-Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities may be provided under this section for the program for each of fiscal years 2002 through 2007.
+Subject to subsection (f)(3) of this section, not less than 400,000 metric tons of eligible commodities shall be provided under this section for the program for each of fiscal years 2002 through 2007.
 
 #### (h) Prohibition on resale or transshipment of eligible commodities
 
@@ -228,7 +228,15 @@ In carrying out this section, the President shall approve, as determined appropr
 
 &emsp;Each eligible entity that enters into an agreement under this section shall submit to the President, at such time as the President may request, a report containing such information as the President may request relating to the use of eligible commodities and funds furnished to the eligible entity under this section.
 
-(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291.)
+#### (<i>o</i>) Private voluntary organizations and other private entities
+
+In entering into agreements described in subsection (c) of this section, the President (acting through the Secretary)—
+
+&emsp;(1) shall enter into agreements with eligible entities described in subparagraphs (C) and (F) of subsection (b)(5) of this section; and
+
+&emsp;(2) shall not discriminate against such eligible entities.
+
+(Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, §4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, §335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, §101(a) \[title XI, §1125\], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291; Pub. L. 108–7, div. A, title VII, §745, Feb. 20, 2003, 117 Stat. 44.)
 
 #### References in Text
 
@@ -240,6 +248,10 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
+2003—Subsecs. (c), (g). Pub. L. 108–7, §745(1), substituted “shall” for “may”.
+
+Subsec. (<i>o</i>). Pub. L. 108–7, §745(2), added subsec. (<i>o</i>).
+
 2002—Subsecs. (b), (c). Pub. L. 107–171, §3106(b)(1), added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b) In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies, that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President is authorized to enter into agreements with the governments of such countries (including the independent states of the former Soviet Union), or with private voluntary organizations, nonprofit agricultural organizations, cooperatives, intergovernmental organizations, or other private entities, to furnish commodities made available pursuant to subsections (e) and (f) of this section. Such agreements may provide for commodities to be furnished on a multiyear basis.
@@ -248,7 +260,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 Subsec. (d). Pub. L. 107–171, §3106(b)(2)(A), (D), (c), inserted heading, in introductory provisions struck out “food” after “domestic production of” and substituted “eligible commodities” for “commodities” in two places, and in par. (2) substituted “eligible commodities” for “commodities”.
 
-Subsec. (e). Pub. L. 107–171, §3106(b)(2)(D), (E), (d), inserted heading, substituted “eligible commodities” for “commodities” and “Corporation” for “CommodityCredit Corporation” wherever appearing, inserted “, and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title” before period at end of par. (2), and added par. (5).
+Subsec. (e). Pub. L. 107–171, §3106(b)(2)(D), (E), (d), inserted heading, substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing, inserted “, and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title” before period at end of par. (2), and added par. (5).
 
 Subsec. (f). Pub. L. 107–171, §3106(b)(2)(D), (E), (e)(1), inserted heading and substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing.
 
@@ -324,7 +336,7 @@ Subsec. (f)(1). Pub. L. 101–624, §1516(5), struck out “to developing countr
 
 Subsec. (g). Pub. L. 101–624, §1516(6), substituted “1995” for “1990”.
 
-Subsec. (j). Pub. L. 101–624, §1572(1), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Within 90 days after the end of each fiscal year in which an agreement under this section isin effect with respect to a country, the President shall report to the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of such agreement and the progress being made to implement private, free enterprise agricultural policies for long-term agricultural development in such country.”
+Subsec. (j). Pub. L. 101–624, §1572(1), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Within 90 days after the end of each fiscal year in which an agreement under this section is in effect with respect to a country, the President shall report to the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of such agreement and the progress being made to implement private, free enterprise agricultural policies for long-term agricultural development in such country.”
 
 Pub. L. 101–624, §1516(7), struck out “entered into with a country” before “under this section”, and inserted “with respect to a country” after “effect”.
 
@@ -348,5 +360,5 @@ Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1431, 1733, 1736a of this title; title 22 sections 5413, 5425.
+This section is referred to in sections 1431, 1733, 1736a of this title; title 22 sections 5413, 5425, 7518.
 

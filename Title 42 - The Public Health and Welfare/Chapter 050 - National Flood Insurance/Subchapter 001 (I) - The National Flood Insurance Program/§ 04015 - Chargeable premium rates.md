@@ -2,7 +2,7 @@
 
 #### (a) Establishment; terms and conditions
 
-On the basis of estimates made under section 4014 of this title, and such other information as may be necessary, the Director shall from time to time, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the poolformed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation—
+On the basis of estimates made under section 4014 of this title, and such other information as may be necessary, the Director shall from time to time, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation—
 
 &emsp;(1) chargeable premium rates for any types and classes of properties for which insurance coverage shall be available under section 4012 of this title (at less than the estimated risk premium rates under section 4014(a)(1) of this title, where necessary), and
 
@@ -60,7 +60,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Limitation on Premiums
 
-Section 2302(e)(5) of Pub. L. 101–508 provided that, notwithstanding section 541(d) of Pub. L. 100–242, formerly set out below, premium rates charged for floodinsurance under any program established pursuant to this chapter could be increased by more than 10 percent during fiscal year 1991, with certain exceptions.
+Section 2302(e)(5) of Pub. L. 101–508 provided that, notwithstanding section 541(d) of Pub. L. 100–242, formerly set out below, premium rates charged for flood insurance under any program established pursuant to this chapter could be increased by more than 10 percent during fiscal year 1991, with certain exceptions.
 
 Pub. L. 100–242, title V, §541(d), Feb. 5, 1988, 101 Stat. 1939, as amended by Pub. L. 101–137, §1(d), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(c), Nov. 5, 1990, 104 Stat. 1388–23, limited increases in premium rates charged for flood insurance under programs established pursuant to this chapter during period beginning Feb. 5, 1988, and ending Sept. 30, 1995, to prorated annual rate of 10 percent, prior to repeal by Pub. L. 103–325, title V, §572(b), Sept. 23, 1994, 108 Stat. 2278.
 
@@ -68,7 +68,7 @@ Section 451(g)(1) of Pub. L. 98–181 provided that premium rates charged for fl
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of acommittee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

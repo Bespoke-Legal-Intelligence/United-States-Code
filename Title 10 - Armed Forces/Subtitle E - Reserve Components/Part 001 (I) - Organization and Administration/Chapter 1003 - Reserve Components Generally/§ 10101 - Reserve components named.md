@@ -26,6 +26,10 @@ Provisions similar to those in this section were contained in section 261(a) of 
 
 Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
 Pub. L. 104–61, title VIII, §8016, Dec. 1, 1995, 109 Stat. 654, provided that none of the funds appropriated for Department of Defense during and after fiscal year 1996 were to be obligated for pay of any individual who was initially employed after Dec. 1, 1995, as technician in administration and training of Army Reserve and maintenance and repair of supplies issued to Army Reserve unless such individual was also military member of Army Reserve troop program unit that he or she was employed to support, prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.

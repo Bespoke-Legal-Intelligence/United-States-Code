@@ -12,7 +12,7 @@
 
 #### (3) Certification
 
-&emsp;The Attorney General may certify an alien under this paragraph if the Attorney Generalhas reasonable grounds to believe that the alien—
+&emsp;The Attorney General may certify an alien under this paragraph if the Attorney General has reasonable grounds to believe that the alien—
 
 &emsp;&emsp;(A) is described in section 1182(a)(3)(A)(i), 1182(a)(3)(A)(iii), 1182(a)(3)(B), 1227(a)(4)(A)(i), 1227(a)(4)(A)(iii), or 1227(a)(4)(B) of this title; or
 

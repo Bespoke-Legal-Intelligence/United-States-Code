@@ -1,8 +1,14 @@
 ### §9314. United States Air Force Institute of Technology
 
-(a) When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander of the Air University may, under such regulations as the Secretary of the Air Force may prescribe, confer appropriate degrees upon persons who meet the requirements for those degrees in the Resident College of that Institute.
+(a)
 
-(b)(1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with the needs of the Air Force and with Department of Defense personnel limits.
+Authority to Confer Degrees.—(1) The Commander of the Air University may, under such regulations as the Secretary of the Air Force may prescribe, confer appropriate degrees upon persons who meet the requirements for those degrees in the Resident College of the United States Air Force Institute of Technology.
+
+(2) The authority under this subsection to confer a degree is effective only during a period when the United States Air Force Institute of Technology is accredited with respect to the award of that degree by a nationally recognized accreditation association or authority.
+
+(b)
+
+Civilian Faculty.—(1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with the needs of the Air Force and with Department of Defense personnel limits.
 
 (2) The Secretary shall prescribe regulations determining—
 
@@ -10,7 +16,15 @@
 
 &emsp;(B) pay of civilian members of the faculty, notwithstanding chapter 53 of title 5, but subject to the limitation set out in section 5373 of title 5.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141.)
+(c)
+
+Reimbursement.—(1) The Department of the Army, the Department of the Navy, and the Department of Homeland Security shall bear the cost of the instruction at the Air Force Institute of Technology that is received by members of the armed forces detailed for that instruction by the Secretaries of the Army, Navy, and Homeland Security, respectively.
+
+(2) Members of the Army, Navy, Marine Corps, and Coast Guard may only be detailed for instruction at the Institute on a space-available basis.
+
+(3) In the case of an enlisted member of the Army, Navy, Marine Corps, and Coast Guard permitted to receive instruction at the Institute, the Secretary of the Air Force shall charge that member only for such costs and fees as the Secretary considers appropriate (taking into consideration the admission of enlisted members on a space-available basis).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561; Pub. L. 99–145, title V, §504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, §510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, §529 \[title I, §106(b)(6)(C)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, §1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, §533, Nov. 24, 2003, 117 Stat. 1473.)
 
 Historical and Revision Notes
 
@@ -27,6 +41,12 @@ Historical and Revision Notes
 Aug. 31, 1954, ch. 1151, 68 Stat. 1006.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136, §533(b)(1), (c), inserted heading, desiginated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
+
+Subsec. (b). Pub. L. 108–136, §533(b)(2), inserted heading.
+
+Subsec. (c). Pub. L. 108–136, §533(a), added subsec. (c).
 
 1998—Subsec. (b)(2)(B). Pub. L. 105–261 substituted “section 5373” for “section 5306(e)”.
 

@@ -30,7 +30,7 @@ The Secretary shall notify the Committees on Resources and Appropriations of the
 
 #### References in Text
 
-Sections 390h through 390h–12p of this title, referred to in subsec. (a), was in the original “sections 1601through 1630 of this title” meaning sections 1601 through 1630 of title XVI of Pub. L. 102–575, which are classified to sections 390h to 390h–12p of this title and provisions set out as a note under section 390h of this title.
+Sections 390h through 390h–12p of this title, referred to in subsec. (a), was in the original “sections 1601 through 1630 of this title” meaning sections 1601 through 1630 of title XVI of Pub. L. 102–575, which are classified to sections 390h to 390h–12p of this title and provisions set out as a note under section 390h of this title.
 
 #### Amendments
 

@@ -100,6 +100,10 @@ Section 103(d)(1) of Pub. L. 97–119, as amended by Pub. L. 99–514, §2, Oct.
 
 Section 103(d)(2) of Pub. L. 97–119 provided that: “The Black Lung Disability Trust Fund established by the amendments made by this section \[enacting this section and sections 9500, 9601, 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall be treated for all purposes of law as the continuation of the Black Lung Disability Trust Fund established by section 3 of the Black Lung Benefits Revenue Act of 1977 \[former section 934a of Title 30\]. Any reference in any law to the Black Lung Disability Trust Fund established by such section 3 shall be deemed to include a reference to the Black Lung Disability Trust Fund established by the amendments made by this section.”
 
+#### Funds to Remain Available
+
+Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303, provided in part that: “Beginning in fiscal year 2003 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\], as amended; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+
 #### Moratorium on Interest Accruals on Indebtedness of Black Lung Disability Trust Fund
 
 Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided that: “No interest shall accrue for the period beginning on October 1, 1985, and ending on September 30, 1990, with respect to any repayable advance to the Black Lung Disability Trust Fund.”

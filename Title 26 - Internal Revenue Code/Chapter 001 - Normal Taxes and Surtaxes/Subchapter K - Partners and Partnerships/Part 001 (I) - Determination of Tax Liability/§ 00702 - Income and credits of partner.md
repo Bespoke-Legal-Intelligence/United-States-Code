@@ -12,7 +12,7 @@ In determining his income tax, each partner shall take into account separately h
 
 &emsp;(4) charitable contributions (as defined in section 170(c)),
 
-&emsp;(5) dividends with respect to which there is a deduction under part VIII of subchapter B,
+&emsp;(5) dividends with respect to which section 1(h)(11) or part VIII of subchapter B applies,
 
 &emsp;(6) taxes, described in section 901, paid or accrued to foreign countries and to possessions of the United States,
 
@@ -32,11 +32,17 @@ In any case where it is necessary to determine the gross income of a partner for
 
 &emsp;&emsp;<b>For rules relating to procedures for determining the tax treatment of partnership items see subchapter C of chapter 63 (section 6221 and following).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 239; Pub. L. 88–272, title II, §201(d)(7), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–455, title XIV, §1402(b)(1)(L), (2), title XIX, §§1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834; Pub. L. 96–223, title IV, §404(b)(5), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §301(b)(5), (6)(C), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title IV, §402(c)(1), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–448, title I, §103(a)(4), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(9), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(5), Oct. 22, 1986, 100 Stat. 2250.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 239; Pub. L. 88–272, title II, §201(d)(7), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–455, title XIV, §1402(b)(1)(L), (2), title XIX, §§1901(b)(1)(I)(i), (ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834; Pub. L. 96–223, title IV, §404(b)(5), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §301(b)(5), (6)(C), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–248, title IV, §402(c)(1), Sept. 3, 1982, 96 Stat. 667; Pub. L. 97–448, title I, §103(a)(4), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(9), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(5), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 108–27, title III, §302(e)(8), May 28, 2003, 117 Stat. 764.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
 
-1986—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows:“dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
+2003—Subsec. (a)(5). Pub. L. 108–27, §§302(e)(8), 303, temporarily amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends with respect to which there is a deduction under part VIII of subchapter B,”. See Effective and Termination Dates of 2003 Amendment note below.
+
+1986—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
 
 1984—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
@@ -54,11 +60,17 @@ Pub. L. 97–34, §301(b)(5), inserted “or 128” after “section 116”.
 
 Pub. L. 94–455, §1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
+Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated,struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
 
 1964—Subsec. (a)(5). Pub. L. 88–272 struck out “a credit under section 34,” before “an exclusion”.
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 108–27 inapplicable to taxable years beginning after Dec. 31, 2008, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 303 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

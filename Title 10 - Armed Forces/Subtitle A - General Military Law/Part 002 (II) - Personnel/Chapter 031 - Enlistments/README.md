@@ -11,7 +11,8 @@
 | [507\.](%C2%A7%2000507%20-%20Extension%20of%20enlistment%20for%20members%20needing%20medical%20care%20or%20hospitalization.md) | Extension of enlistment for members needing medical care or hospitalization. |
 | [508\.](%C2%A7%2000508%20-%20Reenlistment%20qualifications.md) | Reenlistment: qualifications. |
 | [509\.](%C2%A7%2000509%20-%20Voluntary%20extension%20of%20enlistments%20periods%20and%20benefits.md) | Voluntary extension of enlistments: periods and benefits. |
-| \[510 to 512. Renumbered.\] |  |
+| [510\.](%C2%A7%2000510%20-%20Enlistment%20incentives%20for%20pursuit%20of%20skills%20to%20facilitate%20national%20service.md) | Enlistment incentives for pursuit of skills to facilitate national service. |
+| \[511, 512. Renumbered.\] |  |
 | [513\.](%C2%A7%2000513%20-%20Enlistments%20Delayed%20Entry%20Program.md) | Enlistments: Delayed Entry Program. |
 | [514\.](%C2%A7%2000514%20-%20Bounties%20prohibited%3B%20substitutes%20prohibited.md) | Bounties prohibited; substitutes prohibited. |
 | [515\.](%C2%A7%2000515%20-%20Reenlistment%20after%20discharge%20as%20warrant%20officer.md) | Reenlistment after discharge as warrant officer. |
@@ -22,11 +23,15 @@
 | [520\.](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md) | Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level. |
 | \[520a. | Repealed.\] |
 | [520b.](%C2%A7%2000520b%20-%20Applicants%20for%20enlistment%20authority%20to%20use%20funds%20for%20the%20issue%20of%20authorized%20articles.md) | Applicants for enlistment: authority to use funds for the issue of authorized articles. |
-| [520c.](%C2%A7%2000520c%20-%20Recruiting%20functions%20use%20of%20funds.md) | Recruiting functions: use of funds. |
+| [520c.](%C2%A7%2000520c%20-%20Recruiting%20functions%20provision%20of%20meals%20and%20refreshments.md) | Recruiting functions: provision of meals and refreshments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title X, §1031(a)(8)(B), Nov. 24, 2003, 117 Stat. 1597, substituted “provision of meals and refreshments” for “use of funds” in item 520c.
+
+2002—Pub. L. 107–314, div. A, title V, §531(a)(2), Dec. 2, 2002, 116 Stat. 2544, added item 510.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(g)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, struck out item 520a “Criminal history information for military recruiting purposes”.
 
@@ -66,7 +71,7 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 - [&sect; 00507 - Extension of enlistment for members needing medical care or hospitalization](%C2%A7%2000507%20-%20Extension%20of%20enlistment%20for%20members%20needing%20medical%20care%20or%20hospitalization.md)
 - [&sect; 00508 - Reenlistment qualifications](%C2%A7%2000508%20-%20Reenlistment%20qualifications.md)
 - [&sect; 00509 - Voluntary extension of enlistments periods and benefits](%C2%A7%2000509%20-%20Voluntary%20extension%20of%20enlistments%20periods%20and%20benefits.md)
-- [&sect; 00510 - Renumbered &sect;12102](%C2%A7%2000510%20-%20Renumbered%20%C2%A712102.md)
+- [&sect; 00510 - Enlistment incentives for pursuit of skills to facilitate national service](%C2%A7%2000510%20-%20Enlistment%20incentives%20for%20pursuit%20of%20skills%20to%20facilitate%20national%20service.md)
 - [&sect; 00511 - Renumbered &sect;12103](%C2%A7%2000511%20-%20Renumbered%20%C2%A712103.md)
 - [&sect; 00512 - Renumbered &sect;12104](%C2%A7%2000512%20-%20Renumbered%20%C2%A712104.md)
 - [&sect; 00513 - Enlistments Delayed Entry Program](%C2%A7%2000513%20-%20Enlistments%20Delayed%20Entry%20Program.md)
@@ -79,4 +84,4 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 - [&sect; 00520 - Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md)
 - [&sect; 00520a - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title X, &sect;1076(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;282](%C2%A7%2000520a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20X%2C%20%C2%A71076%28g%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93282.md)
 - [&sect; 00520b - Applicants for enlistment authority to use funds for the issue of authorized articles](%C2%A7%2000520b%20-%20Applicants%20for%20enlistment%20authority%20to%20use%20funds%20for%20the%20issue%20of%20authorized%20articles.md)
-- [&sect; 00520c - Recruiting functions use of funds](%C2%A7%2000520c%20-%20Recruiting%20functions%20use%20of%20funds.md)
+- [&sect; 00520c - Recruiting functions provision of meals and refreshments](%C2%A7%2000520c%20-%20Recruiting%20functions%20provision%20of%20meals%20and%20refreshments.md)

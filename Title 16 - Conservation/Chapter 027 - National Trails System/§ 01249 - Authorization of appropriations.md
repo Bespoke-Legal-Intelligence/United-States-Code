@@ -38,7 +38,7 @@ Pub. L. 100–35 inserted “and (15)” after “(13)”.
 
 1983—Subsec. (a)(1). Pub. L. 98–11, §209(1), (2), inserted “(a)(1)” before “There are hereby authorized to be appropriated” at beginning of undesignated opening paragraph, and substituted “for the” for “(a) The” before “Appalachian National Scenic Trail” at beginning of former subsec. (a).
 
-Subsec. (a)(2). Pub. L. 98–11, §209(3), (4), inserted “(2)” before sentence beginning “It is the express intent of the Congress” and substituted “protection of the Appalachian Trail” for “protection of the Trail”.
+Subsec. (a)(2). Pub. L. 98–11, §209(3), (4), inserted “(2)” before sentence beginning “It is the express intent ofthe Congress” and substituted “protection of the Appalachian Trail” for “protection of the Trail”.
 
 Subsec. (c). Pub. L. 98–11, §209(5), designated existing provisions as par. (1), inserted provision that funds may be expended for the acquisition of lands or interests therein for the purpose of providing for one trail interpretation site, as described in section 1246(c) of this title, and added par. (2).
 
@@ -54,7 +54,7 @@ Subsec. (c). Pub. L. 95–625 added subsec. (c).
 
 #### Effective Date of Appropriation Authorizations Under Pub. L. 98–11; Contract Authority
 
-Section 101 of Pub. L. 98–11 provided that: “Authorizations of appropriations under this Act \[enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under section 1241 of this title\] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in suchamounts as are provided in advance in appropriation Acts.”
+Section 101 of Pub. L. 98–11 provided that: “Authorizations of appropriations under this Act \[enacting sections 1250 and 1251 of this title, amending this section and sections 1241 to 1247 of this title, and enacting provisions set out as a note under section 1241 of this title\] shall be effective only for the fiscal year beginning on October 1, 1983, and subsequent fiscal years. Notwithstanding any other provision of this Act, authority to enter into contracts, and to make payments, under this Act shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 #### Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority
 

@@ -16,7 +16,7 @@ Activities under the national arthritis and musculoskeletal and skin diseases pr
 
 &emsp;(4) the establishment of mechanisms to monitor the causes of athletic injuries and identify ways of preventing such injuries on scholastic athletic fields; and
 
-&emsp;(5) research into the causes of arthritis affecting children and the development, trial,and evaluation of techniques, drugs and devices used in the diagnosis, treatment (including medical rehabilitation), and prevention of arthritis in children.
+&emsp;(5) research into the causes of arthritis affecting children and the development, trial, and evaluation of techniques, drugs and devices used in the diagnosis, treatment (including medical rehabilitation), and prevention of arthritis in children.
 
 #### (c) Program to be carried out in accordance with plan
 

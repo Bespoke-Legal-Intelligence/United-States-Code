@@ -8,7 +8,7 @@
 
 (b) In computing monetary compensation for disability or death on the basis of monthly pay, that pay is determined under this section.
 
-(c) The monthly pay at the time of injury is deemed one-twelfth of the average annual earnings of the employee at that time. When compensation is paid on a weekly basis, the weekly equivalent of the monthly pay is deemed one-fifty-second of the average annual earnings. However, for so much of a period of total disability as does not exceed 90 calendar days from the date of the beginning of compensable disability, the compensation, in the discretion of the Secretary of Labor, may be computed on the basis of the actual daily wage of the employee at the time of injury in which event he may be paid compensation for the days he would have worked but for the injury.
+(c) The monthly pay at the time of injury is deemed one-twelfth of the average annual earnings of the employee at that time. When compensation is paid on a weekly basis, the weekly equivalent of the monthly pay is deemed one-fifty-second of the average annual earnings. However, for so much of a period of total disability as does not exceed 90 calendar days from the date of the beginning of compensable disability, the compensation, in the discretion of the Secretary of Labor, may be computed on the basis of the actual daily wage of the employee at the time of injury in which event he may be paidcompensation for the days he would have worked but for the injury.
 
 (d) Average annual earnings are determined as follows:
 
@@ -68,5 +68,5 @@ Section 4 of Pub. L. 89–737, which provided that the amendments made by this A
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5545a, 5545b, 8115, 8133 of this title; title 28 section 1877.
+This section is referred to in sections 5545a, 5545b, 8115, 8133 of this title; title 28 section 1877; title 42 section 239d.
 

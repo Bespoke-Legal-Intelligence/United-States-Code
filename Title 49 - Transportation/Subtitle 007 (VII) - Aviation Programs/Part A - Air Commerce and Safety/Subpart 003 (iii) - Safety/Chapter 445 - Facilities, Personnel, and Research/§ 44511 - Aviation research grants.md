@@ -26,7 +26,31 @@ Records.—Each person receiving a grant under this section shall maintain recor
 
 Annual Report.—The Administrator shall submit an annual report to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on carrying out this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396.)
+(f)
+
+Airport Cooperative Research Program.—
+
+&emsp;(1)
+
+Establishment.—The Secretary of Transportation shall establish a 4-year pilot airport cooperative research program to—
+
+&emsp;&emsp;(A) identify problems that are shared by airport operating agencies and can be solved through applied research but that are notbeing adequately addressed by existing Federal research programs; and
+
+&emsp;&emsp;(B) fund research to address those problems.
+
+&emsp;(2)
+
+Governance.—The Secretary of Transportation shall appoint an independent governing board for the research program established under this subsection. The governing board shall be appointed from candidates nominated by national associations representing public airport operating agencies, airport executives, State aviation officials, and the scheduled airlines, and shall include representatives of appropriate Federal agencies. Section 14 of the Federal Advisory Committee Act shall not apply to the governing board.
+
+&emsp;(3)
+
+Implementation.—The Secretary of Transportation shall enter into an arrangement with the National Academy of Sciences to provide staff support to the governing board established under paragraph (2) and to carry out projects proposed by the governing board that the Secretary considers appropriate.
+
+&emsp;(4)
+
+Report.—Not later than 6 months after the expiration of the program under this subsection, the Secretary shall transmit to the Congress a report on the program, including recommendations as to the need for establishing a permanent airport cooperative research program.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 108–176, title VII, §712, Dec. 12, 2003, 117 Stat. 2586.)
 
 Historical and Revision Notes
 
@@ -50,9 +74,19 @@ In subsection (c), the words “providing grants” are substituted for “the f
 
 In subsection (d), the words “money provided under the grant” are substituted for “grant funds” for consistency.
 
+#### References in Text
+
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
 #### Amendments
 
+2003—Subsec. (f). Pub. L. 108–176 added subsec. (f).
+
 1996—Subsec. (e). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -84,7 +84,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph and sections 1359cc(g), 1359ee(b), and 1359ff(b) of this title, the Secretary shall make allocations for beet sugar among beet sugar processors for each crop year that allotments are in effect on the basis of the adjusted weighted average quantity of beet sugar produced by the processors for each of the 1998 through 2000 crop years, as determined under this paragraph.
+&emsp;&emsp;Except as otherwise provided in this paragraph and sections 1359cc(g), 1359ee(b), and1359ff(b) of this title, the Secretary shall make allocations for beet sugar among beet sugar processors for each crop year that allotments are in effect on the basis of the adjusted weighted average quantity of beet sugar produced by the processors for each of the 1998 through 2000 crop years, as determined under this paragraph.
 
 #### (B) Quantity
 
@@ -118,7 +118,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;The quantity of beet sugar produced by a beet sugar processor under subparagraph (C) shall be—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total ofthe adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a processor that opened a sugar beet processing factory, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is opened by the processor;
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a processor that closed a sugar beet processing factory, decreased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each sugar beet processing factory that is closed by the processor;
 
@@ -142,7 +142,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to subparagraphs (E) and (F), if 1 or more factories of a processor of beet sugar (but not all of the assets of the processor) are sold to another processor of beet sugar during a crop year, the Secretary shall assign a pro rata portion of the allocation of the seller to the allocation of the buyer to reflect the historical contribution of the production of the sold factory or factories to the total allocation of the seller.
+&emsp;&emsp;&emsp;Subject to subparagraphs (E) and (F), if 1 or more factories of a processor of beet sugar (but not all of the assets of the processor) are sold to another processor of beet sugar during a crop year, the Secretary shall assign a pro rata portion of the allocation of the seller to the allocation of the buyer to reflect the historical contributionof the production of the sold factory or factories to the total allocation of the seller.
 
 #### (ii) Application of allocation
 

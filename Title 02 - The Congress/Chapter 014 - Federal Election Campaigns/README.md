@@ -143,7 +143,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 61a–9, 438a of this title; title 26 section 527.
+This chapter is referred to in sections 61a–9, 438a of this title; title 26 sections 527, 6033.
 
 
 ---

@@ -28,7 +28,7 @@ Continued Eligibility for Consideration for Promotion of Officers Who Have Previ
 
 (c)
 
-Officers To Be Considered by Promotion Boards.—(1) Each time a selection board is convened under section 611(a) of this title for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as providedunder paragraph (2)), and each officer above the promotion zone, for the grade and competitive category under consideration shall be considered for promotion.
+Officers To Be Considered by Promotion Boards.—(1) Each time a selection board is convened under section 611(a) of this title for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as provided under paragraph (2)), and each officer above the promotion zone, for the grade and competitive category under consideration shall be considered for promotion.
 
 (2) The Secretary of the military department concerned—
 
@@ -60,7 +60,7 @@ Officers To Be Considered by Promotion Boards.—(1) Each time a selection board
 
 Certain Officers Not To Be Considered.—A selection board convened under section 611(a) of this title may not consider for promotion to the next higher grade any of the following officers:
 
-&emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selection for promotion to that grade by an earlier selection board convened under that section.
+&emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selectionfor promotion to that grade by an earlier selection board convened under that section.
 
 &emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under that section, in the case of such a report that has not yet been approved by the President.
 

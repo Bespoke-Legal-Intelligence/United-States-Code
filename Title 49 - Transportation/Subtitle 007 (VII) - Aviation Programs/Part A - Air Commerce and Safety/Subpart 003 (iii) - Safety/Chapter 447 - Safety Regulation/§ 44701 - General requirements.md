@@ -168,6 +168,64 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### FAA Inspector Training
+
+Pub. L. 108–176, title V, §506, Dec. 12, 2003, 117 Stat. 2560, provided that:
+
+“(a)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General shall conduct a study of the training of the aviation safety inspectors of the Federal Aviation Administration (in this section referred to as ‘FAA inspectors’).
+
+&emsp;“(2)
+
+Contents.—The study shall include—
+
+&emsp;&emsp;“(A) an analysis of the type of training provided to FAA inspectors;
+
+&emsp;&emsp;“(B) actions that the Federal Aviation Administration has undertaken to ensure that FAA inspectors receive up-to-date training on the latest technologies;
+
+&emsp;&emsp;“(C) the extent of FAA inspector training provided by the aviation industry and whether such training is provided without charge or on a quid pro quo basis; and
+
+&emsp;&emsp;“(D) the amount of travel that is required of FAA inspectors in receiving training.
+
+&emsp;“(3)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study.
+
+“(b)
+
+Sense of the House.—It is the sense of the House of Representatives that—
+
+&emsp;“(1) FAA inspectors should be encouraged to take the most up-to-date initial and recurrent training on the latest aviation technologies;
+
+&emsp;“(2) FAA inspector training should have a direct relation to an individual's job requirements; and
+
+&emsp;“(3) if possible, a FAA inspector should be allowed to take training at the location most convenient for the inspector.
+
+“(c)
+
+Workload of Inspectors.—
+
+&emsp;“(1)
+
+Study by national academy of sciences.—Not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall make appropriate arrangements for the National Academy of Sciences to conduct a study of the assumptions and methods used by the Federal Aviation Administration to estimate staffing standards for FAA inspectors to ensure proper oversight over the aviation industry, including the designee program.
+
+&emsp;“(2)
+
+Contents.—The study shall include the following:
+
+&emsp;&emsp;“(A) A suggested method of modifying FAA inspectors staffing models for application to current local conditions or applying some other approach to developing an objective staffing standard.
+
+&emsp;&emsp;“(B) The approximate cost and length of time for developing such models.
+
+&emsp;“(3)
+
+Report.—Not later than 12 months after the initiation of the arrangements under subsection (a), the National Academy of Sciences shall transmit to Congress a report on the results of the study.”
+
 #### Air Transportation Oversight System
 
 Pub. L. 106–181, title V, §513, Apr. 5, 2000, 114 Stat. 144, provided that:
@@ -234,7 +292,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;“(1)
 
-Letter of authorization.—The term ‘letter of authorization’ means a letter issued by the Administrator once every 5 years to an Alaska guide pilotcertifying that the pilot is in compliance with general operating and flight rules applicable to the pilot. In the case of a multi-pilot operation, at the election of the operating entity, a letter of authorization may be issued by the Administrator to the entity or to each Alaska guide pilot employed by the entity.
+Letter of authorization.—The term ‘letter of authorization’ means a letter issued by the Administrator once every 5 years to an Alaska guide pilot certifying that the pilot is in compliance with general operating and flight rules applicable to the pilot. In the case of a multi-pilot operation, at the election of the operating entity, a letter of authorization may be issued by the Administrator to the entity or to each Alaska guide pilot employed by the entity.
 
 &emsp;“(2)
 

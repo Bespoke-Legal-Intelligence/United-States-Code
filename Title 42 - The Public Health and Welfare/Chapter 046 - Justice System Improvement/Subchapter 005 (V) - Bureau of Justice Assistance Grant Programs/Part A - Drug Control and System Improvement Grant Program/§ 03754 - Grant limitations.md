@@ -8,7 +8,7 @@ A grant made under this part may not—
 
 &emsp;(2) for any subsequent fiscal year appropriations be expended for more than 75 per centum;
 
-> of the cost of the identified uses for which such grant is received to carry out any purpose specified in section 3751(b) of this title, except that in the case of funds distributed to an Indian tribewhich performs law enforcement functions (as determined by the Secretary of the Interior) for any such program or project, the amount of such grant shall be equal to 100 percent of such cost. The non-Federal portion of the expenditures for such uses shall be paid in cash.
+> of the cost of the identified uses for which such grant is received to carry out any purpose specified in section 3751(b) of this title, except that in the case of funds distributed to an Indian tribe which performs law enforcement functions (as determined by the Secretary of the Interior) for any such program or project, the amount of such grant shall be equal to 100 percent of such cost. The non-Federal portion of the expenditures for such uses shall be paid in cash.
 
 #### (b) Administrative costs
 
@@ -28,7 +28,7 @@ The non-Federal portion of the cost of such program or project shall be in cash.
 
 #### (f) Programs already receiving funds
 
-Except for grants awarded to State and local governments for the purpose of participating in multijurisdictional drug task forces <sup>1</sup> victims assistance programs, or multijurisdictional gang task forces, no funds may be awarded under this part to a grant recipient for a program or project for which funds have been awarded under this chapter for 4 years (in the aggregate), including any period occurring before November 18, 1988.
+Except for grants awarded to State and local governments for the purpose of participating in multijurisdictional drug task forces <sup>1</sup> victims assistance programs, or multijurisdictional gang task forces, no funds may be awarded under this part to a grant recipient for a program orproject for which funds have been awarded under this chapter for 4 years (in the aggregate), including any period occurring before November 18, 1988.
 
 (Pub. L. 90–351, title I, §504, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4333; amended Pub. L. 101–162, title II, §211, Nov. 21, 1989, 103 Stat. 1006; Pub. L. 101–515, title II, §207, Nov. 5, 1990, 104 Stat. 2119; Pub. L. 101–647, title VI, §601(a), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 102–140, title I, §§108, 109, Oct. 28, 1991, 105 Stat. 794; Pub. L. 103–322, title XV, §150009, Sept. 13, 1994, 108 Stat. 2036; Pub. L. 107–273, div. A, title II, §203(a)(1), Nov. 2, 2002, 116 Stat. 1775.)
 

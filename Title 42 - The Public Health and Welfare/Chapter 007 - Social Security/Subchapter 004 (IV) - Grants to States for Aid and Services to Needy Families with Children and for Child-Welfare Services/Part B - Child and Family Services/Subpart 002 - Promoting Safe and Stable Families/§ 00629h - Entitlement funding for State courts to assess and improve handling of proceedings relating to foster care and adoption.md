@@ -32,7 +32,7 @@ In order to be eligible for a grant under this section, a highest State court sh
 
 #### (2) Formula
 
-&emsp;The amount described in this paragraph for any fiscal year is the amount that bears thesame ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in paragraph (1) of this subsection for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) of this section.
+&emsp;The amount described in this paragraph for any fiscal year is the amount that bears the same ratio to the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title) for the fiscal year (reduced by the dollar amount specified in paragraph (1) of this subsection for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b) of this section.
 
 #### (d) Federal share
 

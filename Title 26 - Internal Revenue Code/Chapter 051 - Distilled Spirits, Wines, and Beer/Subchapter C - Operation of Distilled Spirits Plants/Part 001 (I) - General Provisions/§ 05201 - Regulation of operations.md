@@ -14,7 +14,7 @@ The Secretary may prescribe regulations relating to hours for distillery operati
 
 #### (d) Identification of distilled spirits
 
-The Secretary may provide by regulations for the addition of tracer elements to distilled spirits to facilitate the enforcement of this chapter.Tracer elements to be added to distilled spirits at any distilled spirits plant under provisions of this subsection shall be of such character and in such quantity as the Secretary may authorize or require, and such as will not impair the quality of the distilled spirits for their intended use.
+The Secretary may provide by regulations for the addition of tracer elements to distilled spirits to facilitate the enforcement of this chapter. Tracer elements to be added to distilled spirits at any distilled spirits plant under provisions of this subsection shall be of such character and in such quantity as the Secretary may authorize or require, and such as will not impair the quality of the distilled spirits for their intended use.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(21), July 26, 1979, 93 Stat. 283.)
 

@@ -120,7 +120,7 @@ micrograms per cubic meter)
 
 &emsp;(C) concentrations of particulate matter attributable to the increase in emissions from construction or other temporary emission-related activities, and
 
-&emsp;(D) the increase in concentrations attributable to new sources outside the United States over the concentrations attributable to existing sources which are included in the baseline concentration determined in accordance with section 7479(4) of this title.
+&emsp;(D) the increase in concentrations attributable to new sources outside the United States over the concentrations attributable to existing sources which are included in thebaseline concentration determined in accordance with section 7479(4) of this title.
 
 (2) No action taken with respect to a source under paragraph (1)(A) or (1)(B) shall apply more than five years after the effective date of the order referred to in paragraph (1)(A) or the plan referred to in paragraph (1)(B), whichever is applicable. If both such order and plan are applicable, no such action shall apply more than five years after the later of such effective dates.
 

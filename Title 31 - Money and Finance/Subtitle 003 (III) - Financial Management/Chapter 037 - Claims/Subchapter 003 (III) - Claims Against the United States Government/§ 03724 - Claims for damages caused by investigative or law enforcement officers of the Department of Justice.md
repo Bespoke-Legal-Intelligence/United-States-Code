@@ -42,7 +42,7 @@ In subsection (c), the words “A claim may be paid under this section” are ad
 
 #### Amendments
 
-1998—Subsecs. (b), (c). Pub. L. 105–362 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.”
+1998—Subsecs. (b), (c). Pub. L. 105–362 redesignated subsec. (c) as (b) and struck out former subsec. (b)which read as follows: “The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.”
 
 1989—Pub. L. 101–203, §1(b)(1), amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-From funds made available to carry out this subpart under section 7103(2) of this title, the Secretary of Education and the Attorney General may jointly establish a National Center for School and Youth Safety (in this section referred to as the “Center”). The Secretary of Education and the Attorney General may establish the Center at an existing facility, if the facility has a history of performing two or more of the duties described in subsection (b) of this section. The Secretary of Education and the Attorney General shall jointly appoint a Director of the Center to oversee the operation of the Center.
+From funds made available to carry out this subpart under section 7103(2) of this title, theSecretary of Education and the Attorney General may jointly establish a National Center for School and Youth Safety (in this section referred to as the “Center”). The Secretary of Education and the Attorney General may establish the Center at an existing facility, if the facility has a history of performing two or more of the duties described in subsection (b) of this section. The Secretary of Education and the Attorney General shall jointly appoint a Director of the Center to oversee the operation of the Center.
 
 #### (b) Duties
 
@@ -22,7 +22,7 @@ The Center shall carry out emergency response, anonymous student hotline, consul
 
 #### (4) Information and outreach
 
-&emsp;The Center shall compile information about the best practices in school violence prevention, intervention, and crisis management, and shall serve as a clearinghouse for model school safety program information. The staff of the Center shall work to ensure local governments, school officials, parents, students, and law enforcement officials and agencies are aware of the resources, grants, and expertise available to enhance school safety and prevent school crime. The staff of the Center shall givespecial attention to providing outreach to rural and impoverished communities.
+&emsp;The Center shall compile information about the best practices in school violence prevention, intervention, and crisis management, and shall serve as a clearinghouse for model school safety program information. The staff of the Center shall work to ensure local governments, school officials, parents, students, and law enforcement officials and agencies are aware of the resources, grants, and expertise available to enhance school safety and prevent school crime. The staff of the Center shall give special attention to providing outreach to rural and impoverished communities.
 
 (Pub. L. 89–10, title IV, §4128, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756.)
 

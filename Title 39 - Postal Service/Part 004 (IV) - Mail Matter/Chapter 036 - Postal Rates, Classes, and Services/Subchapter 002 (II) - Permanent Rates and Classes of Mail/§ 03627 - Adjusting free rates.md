@@ -6,7 +6,7 @@ If Congress fails to appropriate an amount authorized under section 2401(c) of t
 
 #### Amendments
 
-1993—Pub. L. 103–123 substituted “free rates” for “free and reduced rates” in section catchline and “sent free of postage under section 3217 or 3403–3406” for “sent at a free or reduced rate under section 3217, 3403–3406, 3626, or 3629 of this title,” in text.
+1993—Pub. L. 103–123 substituted “free rates” for “free and reduced rates” in section catchline and “sent free of postage under section 3217 or 3403–3406” for “sent ata free or reduced rate under section 3217, 3403–3406, 3626, or 3629 of this title,” in text.
 
 Pub. L. 103–31 substituted “3626, or 3629 of this title” for “or 3626 of this title,”.
 

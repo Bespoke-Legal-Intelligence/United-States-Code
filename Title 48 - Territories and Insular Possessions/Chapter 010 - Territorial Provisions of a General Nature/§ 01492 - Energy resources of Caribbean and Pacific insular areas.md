@@ -30,7 +30,7 @@ The Secretary of Energy or any administrative official who may succeed him shall
 
 &emsp;(3) assessing, in depth, the availability and potential for development of indigenous energy sources, including solar, wind, hydropower, ocean current and tidal, biogas, biofuel, geothermal and ocean thermal energy conversion;
 
-&emsp;(4) assessing the mix of energy sources (including fossil fuels) and identifying those technologies that are needed to meet the projected demands for energy; and
+&emsp;(4) assessing the mix of energy sources (including fossil fuels) and identifying thosetechnologies that are needed to meet the projected demands for energy; and
 
 &emsp;(5) drafting long-term energy plans for such insular areas with the objective of minimizing their reliance on energy imports and making maximum use of their indigenous energy resources.
 

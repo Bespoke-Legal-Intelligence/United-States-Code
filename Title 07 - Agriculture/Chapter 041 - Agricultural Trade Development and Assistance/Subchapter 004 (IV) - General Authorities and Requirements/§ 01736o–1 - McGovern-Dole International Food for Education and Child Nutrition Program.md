@@ -10,7 +10,7 @@ Subject to subsection (<i>l</i>) of this section, the President may establish a 
 
 &emsp;(1) preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
 
-&emsp;(2) maternal, infant, and child nutrition programs for pregnant women, nursing mothers, infants, and children who are 5 years of age or younger.
+&emsp;(2) maternal, infant, and child nutrition programs for pregnant women, nursing mothers,infants, and children who are 5 years of age or younger.
 
 #### (c) Eligible commodities and cost items
 
@@ -92,7 +92,7 @@ Assistance may be provided under this section to private voluntary organizations
 
 &emsp;&emsp;(A) identify and assess the needs of beneficiaries, especially malnourished or undernourished mothers and their children who are 5 years of age or younger, and school-age children who are malnourished, undernourished, or do not regularly attend school;
 
-&emsp;&emsp;(B)(i) in the case of preschool and school-age children, target low-income areas where children's enrollment and attendance in school is low or girls’ enrollment and participation in preschool or school is low, and incorporate developmental objectives for improving literacy and primary education, particularly with respect to girls; and
+&emsp;&emsp;(B)(i) in the case of preschool and school-age children, target low-income areas wherechildren's enrollment and attendance in school is low or girls’ enrollment and participation in preschool or school is low, and incorporate developmental objectives for improving literacy and primary education, particularly with respect to girls; and
 
 &emsp;&emsp;(ii) in the case of programs to benefit mothers and children who are 5 years of age or younger, coordinate supplementary feeding and nutrition programs with existing or newly-established maternal, infant, and children programs that provide health-needs interventions, including maternal, prenatal, and postnatal and newborn care;
 

@@ -25,10 +25,13 @@
 | [4980D.](%C2%A7%2004980D%20-%20Failure%20to%20meet%20certain%20group%20health%20plan%20requirements.md) | Failure to meet certain group health plan requirements. |
 | [4980E.](%C2%A7%2004980E%20-%20Failure%20of%20employer%20to%20make%20comparable%20Archer%20MSA%20contributions.md) | Failure of employer to make comparable Archer MSA contributions. |
 | [4980F.](%C2%A7%2004980F%20-%20Failure%20of%20applicable%20plans%20reducing%20benefit%20accruals%20to%20satisfy%20notice%20requirements.md) | Failure of applicable plans reducing benefit accruals to satisfy notice requirements. |
+| [4980G.](%C2%A7%2004980G%20-%20Failure%20of%20employer%20to%20make%20comparable%20health%20savings%20account%20contributions.md) | Failure of employer to make comparable health savings account contributions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–173, title XII, §1201(d)(4)(B), Dec. 8, 2003, 117 Stat. 2478, added item 4980G.
 
 2002—Pub. L. 107–147, title IV, §417(17)(B), Mar. 9, 2002, 116 Stat. 56, substituted “Archer MSA contributions” for “medical savings account contributions” in item 4980E.
 
@@ -84,3 +87,4 @@ This chapter is referred to in sections 275, 6161, 6201, 6211, 6212, 6213, 6214,
 - [&sect; 04980D - Failure to meet certain group health plan requirements](%C2%A7%2004980D%20-%20Failure%20to%20meet%20certain%20group%20health%20plan%20requirements.md)
 - [&sect; 04980E - Failure of employer to make comparable Archer MSA contributions](%C2%A7%2004980E%20-%20Failure%20of%20employer%20to%20make%20comparable%20Archer%20MSA%20contributions.md)
 - [&sect; 04980F - Failure of applicable plans reducing benefit accruals to satisfy notice requirements](%C2%A7%2004980F%20-%20Failure%20of%20applicable%20plans%20reducing%20benefit%20accruals%20to%20satisfy%20notice%20requirements.md)
+- [&sect; 04980G - Failure of employer to make comparable health savings account contributions](%C2%A7%2004980G%20-%20Failure%20of%20employer%20to%20make%20comparable%20health%20savings%20account%20contributions.md)

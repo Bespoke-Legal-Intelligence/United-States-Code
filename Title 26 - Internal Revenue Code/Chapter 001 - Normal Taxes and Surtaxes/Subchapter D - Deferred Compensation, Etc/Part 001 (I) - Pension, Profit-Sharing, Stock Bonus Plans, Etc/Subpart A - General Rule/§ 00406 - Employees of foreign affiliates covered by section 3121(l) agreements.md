@@ -26,7 +26,7 @@ For purposes of applying this part with respect to a pension, profit-sharing, or
 
 &emsp;&emsp;(A) the total compensation of such individual shall be the remuneration paid to such individual by the foreign affiliate which would constitute his total compensation if his services had been performed for such American employer, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary; and
 
-&emsp;&emsp;(B) such individual shall be treated as having paid the amount paid by such Americanemployer which is equivalent to the tax imposed by section 3101.
+&emsp;&emsp;(B) such individual shall be treated as having paid the amount paid by such American employer which is equivalent to the tax imposed by section 3101.
 
 #### \[(c) Repealed. Pub. L. 104–188, title I, §1401(b)(7), Aug. 20, 1996, 110 Stat. 1789\]
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an Americ
 
 Subsec. (c). Pub. L. 98–21, §321(e)(2)(A), substituted reference to an American employer for reference to a domestic corporation, and reference to an affiliate for reference to a subsidiary, wherever appearing in provisions preceding par. (1) and in pars. (1) and (2).
 
-Subsec. (c)(3). Pub. L. 98–21, §321(e)(2)(A), (B), substituted “foreign affiliate by reason of which he is treated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(<i>l</i>)(8)(B)”for “foreign subsidiary by reason of which he is treated as an employee of such domestic corporation, if he becomes an employee of another corporation controlled by such domestic corporation”.
+Subsec. (c)(3). Pub. L. 98–21, §321(e)(2)(A), (B), substituted “foreign affiliate by reason of which he is treated as an employee of such American employer, if he becomes an employee of another entity in which such American employer has not less than a 10-percent interest (within the meaning of section 3121(<i>l</i>)(8)(B)” for “foreign subsidiary by reason of which he is treated as an employee of such domestic corporation, if he becomes an employee of another corporation controlled by such domestic corporation”.
 
 Subsec. (d). Pub. L. 98–21, §321(e)(2)(A), (C), substituted references to an American employer for references to a domestic corporation and reference to an affiliate for a reference to a subsidiary wherever appearing, substituted “another taxpayer” for “another corporation” in provisions preceding par. (1), and substituted “any other taxpayer” for “any other corporation” in par. (1).
 
@@ -184,5 +184,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

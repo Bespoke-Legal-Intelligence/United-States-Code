@@ -12,7 +12,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### (b) Development of essential public facilities
 
-For the development of essential public facilities there are authorized to be appropriated $2.6 million in addition to the sums previously appropriated.
+For the development of essential public facilities there are authorized to be appropriated $2.6million in addition to the sums previously appropriated.
 
 (Pub. L. 93–626, §9, Jan. 3, 1975, 88 Stat. 2125; Pub. L. 100–564, §2, Oct. 31, 1988, 102 Stat. 2831; Pub. L. 103–437, §6(m), Nov. 2, 1994, 108 Stat. 4586.)
 

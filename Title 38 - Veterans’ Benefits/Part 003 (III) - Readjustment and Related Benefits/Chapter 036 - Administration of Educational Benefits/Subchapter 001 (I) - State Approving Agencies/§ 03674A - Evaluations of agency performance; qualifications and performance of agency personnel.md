@@ -6,7 +6,7 @@
 
 &emsp;(2) take into account the results of annual evaluations carried out under paragraph (1) when negotiating the terms and conditions of a contract or agreement under section 3674 of this title;
 
-&emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuing the training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
+&emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuingthe training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
 
 &emsp;(4) prescribe prototype qualification and performance standards, developed in conjunction with State approving agencies, for use by such agencies in the development of qualification and performance standards for State approving agency personnel carrying out approval responsibilities under a contract or agreement entered into under section 3674(a).
 

@@ -2,7 +2,7 @@
 
 As used in this chapter, and unless the context otherwise requires—
 
-&emsp;(1) the term “communications satellite system” refers to a system of communications satellites in space whose purpose is to relay telecommunication information between satellite terminal stations, together with such associated equipment and facilities for tracking, guidance, control, and command functions as are not part of the generalized launching, tracking, control, and command facilities for all space purposes;
+&emsp;(1) the term “communications satellite system” refers to a system of communications satellites in space whose purpose is to relay telecommunication information between satellite terminal stations, together with such associated equipment and facilities for tracking, guidance, control, and command functions as are not part of the generalized launching,tracking, control, and command facilities for all space purposes;
 
 &emsp;(2) the term “satellite terminal station” refers to a complex of communication equipment located on the earth's surface, operationally connected with one or more terrestrial communication systems, and capable of transmitting telecommunications to or receiving telecommunications from a communications satellite system.
 

@@ -5,12 +5,15 @@
 | [421\.](%C2%A7%2000421%20-%20Funds%20for%20foreign%20cryptologic%20support.md) | Funds for foreign cryptologic support. |
 | [422\.](%C2%A7%2000422%20-%20Use%20of%20funds%20for%20certain%20incidental%20purposes.md) | Use of funds for certain incidental purposes. |
 | [423\.](%C2%A7%2000423%20-%20Authority%20to%20use%20proceeds%20from%20counterintelligence%20operations%20of%20the%20military%20departments.md) | Authority to use proceeds from counterintelligence operations of the military departments. |
-| [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20Defense%20Intelligence%20Agency%2C%20National%20Reconnaissance%20Office%2C%20and%E2%80%A6.md) | Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency. |
+| [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md) | Disclosure of organizational and personnel information: exemption for specified intelligence agencies. |
 | [425\.](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md) | Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies. |
+| [426\.](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md) | Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title IX, §§921(d)(5)(B)(ii), 923(c)(2), Nov. 24, 2003, 117 Stat. 1569, 1576, substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in item 424 and added item 426.
 
 2001—Pub. L. 107–108, title V, §501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted “Use of funds for certain incidental purposes” for “Counterintelligence official reception and representation expenses” in item 422.
 
@@ -34,5 +37,6 @@
 - [&sect; 00421 - Funds for foreign cryptologic support](%C2%A7%2000421%20-%20Funds%20for%20foreign%20cryptologic%20support.md)
 - [&sect; 00422 - Use of funds for certain incidental purposes](%C2%A7%2000422%20-%20Use%20of%20funds%20for%20certain%20incidental%20purposes.md)
 - [&sect; 00423 - Authority to use proceeds from counterintelligence operations of the military departments](%C2%A7%2000423%20-%20Authority%20to%20use%20proceeds%20from%20counterintelligence%20operations%20of%20the%20military%20departments.md)
-- [&sect; 00424 - Disclosure of organizational and personnel information exemption for Defense Intelligence Agency, National Reconnaissance Office, and&#8230;](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20Defense%20Intelligence%20Agency%2C%20National%20Reconnaissance%20Office%2C%20and%E2%80%A6.md)
+- [&sect; 00424 - Disclosure of organizational and personnel information exemption for specified intelligence agencies](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md)
 - [&sect; 00425 - Prohibition of unauthorized use of name, initials, or seal specified intelligence agencies](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md)
+- [&sect; 00426 - Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md)

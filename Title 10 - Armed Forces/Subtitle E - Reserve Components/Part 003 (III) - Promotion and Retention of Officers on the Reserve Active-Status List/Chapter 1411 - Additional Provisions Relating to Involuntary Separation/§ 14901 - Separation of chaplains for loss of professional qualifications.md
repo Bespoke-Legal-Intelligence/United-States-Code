@@ -6,7 +6,7 @@ Separation.—Under regulations prescribed by the Secretary of Defense, an offic
 
 (b)
 
-Effect of Separation.—If an officer separated under this section is eligible for retirement, the officer may be retired. If the officer has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the officer may be transferred to the Retired Reserve.
+Effect of Separation.—If an officer separated under this section is eligible for retirement, the officer may be retired. If the officer has completed the years of service required foreligibility for retired pay under chapter 1223 of this title, the officer may be transferred to the Retired Reserve.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957.)
 

@@ -23,3 +23,5 @@
 - [&sect; 03319d - Supplemental and alternative crops](%C2%A7%2003319d%20-%20Supplemental%20and%20alternative%20crops.md)
 - [&sect; 03319e - Repealed. Pub. L. 102&#8211;237, title IV, &sect;402(14), Dec. 13, 1991, 105 Stat. 1863](%C2%A7%2003319e%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93237%2C%20title%20IV%2C%20%C2%A7402%2814%29%2C%20Dec.%2013%2C%201991%2C%20105%20Stat.%201863.md)
 - [&sect; 03319f - Beginning farmer and rancher development program](%C2%A7%2003319f%20-%20Beginning%20farmer%20and%20rancher%20development%20program.md)
+- [&sect; 03319g - Fees](%C2%A7%2003319g%20-%20Fees.md)
+- [&sect; 03319h - Funds for research facilities](%C2%A7%2003319h%20-%20Funds%20for%20research%20facilities.md)

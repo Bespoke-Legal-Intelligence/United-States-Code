@@ -16,6 +16,22 @@ Reporting of Information for the Database.—The Secretary shall require that th
 
 (Added Pub. L. 106–65, div. A, title V, §594(a), Oct. 5, 1999, 113 Stat. 643.)
 
+#### Comptroller General Review and Report
+
+Pub. L. 108–136, div. A, title V, §575, Nov. 24, 2003, 117 Stat. 1486, provided that:
+
+“(a)
+
+Review.—During the two-year period beginning on the date of the enactment of this Act \[Nov. 24, 2003\], the Comptroller General shall review and assess the progress of the Department of Defense in implementing the recommendations of the Defense Task Force on Domestic Violence. In reviewing the status of the Department's efforts, the Comptroller General should specifically focus on—
+
+&emsp;“(1) the efforts of the Department to ensure confidentiality for victims and accountability and education of commanding officers and chaplains; and
+
+&emsp;“(2) the resources that the Department of Defense has provided toward such implementation, including personnel, facilities, and other administrative support, in order to ensure that necessary resources are provided to the organization within the Office of the Secretary of Defense with direct responsibility for oversight of implementation by the military departments of recommendations of the Task Force in order for that organization to carry out its duties and responsibilities.
+
+“(b)
+
+Report.—The Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the results of the review and assessment under subsection (a) not later than 30 months after the date of the enactment of this Act \[Nov. 24, 2003\].”
+
 #### Defense Task Force on Domestic Violence
 
 Pub. L. 106–65, div. A, title V, §591, Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 107–107, div. A, title V, §575, Dec. 28, 2001, 115 Stat. 1123, provided that:
@@ -152,7 +168,7 @@ Program.—The Secretary of Defense shall establish a program to provide funds a
 
 &emsp;“(1) To improve coordination between military and civilian law enforcement authorities in policies, training, and responses to, and tracking of, cases involving military domestic violence.
 
-&emsp;“(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B)for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
+&emsp;“(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
 
 &emsp;“(3) To strengthen the capacity of attorneys and other legal advocates to respond appropriately to victims of military domestic violence.
 

@@ -42,7 +42,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 &emsp;&emsp;&emsp;(i) which begins with the first taxable year for which the ownership test of subparagraph (C) is met with respect to the pass-thru entity (or a predecessor), and
 
-&emsp;&emsp;&emsp;(ii) which ends with the first taxable year after the taxable year referred to in clause (i) for which the ownership test of subparagraph (C) is not met and with respect to which the Secretary consents to the termination of the required accrual period.
+&emsp;&emsp;&emsp;(ii) which ends with the first taxable year after the taxable year referred to inclause (i) for which the ownership test of subparagraph (C) is not met and with respect to which the Secretary consents to the termination of the required accrual period.
 
 #### (C) Ownership test
 
@@ -66,7 +66,7 @@ Subsec. (b)(1)(F). Pub. L. 99–514, §1803(a)(7), added subpar. (F).
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1803(a)(7) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1803(a)(7) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Section 1803(a)(8)(A) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(c)(1), Nov. 10, 1988, 102 Stat. 3578, provided that the amendment made by section 1803(a)(8)(A) of Pub. L. 99–514 is effective with respect to obligations acquired after Dec. 31, 1985.
 

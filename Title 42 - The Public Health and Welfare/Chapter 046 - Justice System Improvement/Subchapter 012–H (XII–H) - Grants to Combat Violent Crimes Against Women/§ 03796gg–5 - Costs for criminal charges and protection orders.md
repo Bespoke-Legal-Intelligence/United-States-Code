@@ -30,7 +30,7 @@ Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering
 
 2000—Pub. L. 106–386, §1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
 
-Subsec. (a)(1). Pub. L. 106–386, §1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices donot require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
+Subsec. (a)(1). Pub. L. 106–386, §1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
 
 Subsec. (a)(2)(B). Pub. L. 106–386, §1101(b)(1)(B)(ii), substituted “2 years after October 28, 2000” for “2 years”.
 

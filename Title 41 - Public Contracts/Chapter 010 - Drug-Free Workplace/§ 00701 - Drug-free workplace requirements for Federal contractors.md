@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iv) the penalties that may be imposed upon employees for drug abuse violations;
 
-&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance ofsuch contract be given a copy of the statement required by subparagraph (A);
+&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance of such contract be given a copy of the statement required by subparagraph (A);
 
 &emsp;&emsp;(D) notifying the employee in the statement required by subparagraph (A), that as a condition of employment on such contract, the employee will—
 
@@ -40,7 +40,7 @@
 
 #### (1) Grounds for suspension, termination, or debarment
 
-&emsp;Each contract awarded by a Federal agency shall be subject to suspension of payments under the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
+&emsp;Each contract awarded by a Federal agency shall be subject to suspension of paymentsunder the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
 
 &emsp;&emsp;(A) the contractor violates the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
 

@@ -86,7 +86,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (5) Updating and monitoring
 
-&emsp;The State agency operating the automated system required by this section shall promptlyestablish and update, maintain, and regularly monitor, case records in the State case registry with respect to which services are being provided under the State plan approved under this part, on the basis of—
+&emsp;The State agency operating the automated system required by this section shall promptly establish and update, maintain, and regularly monitor, case records in the State case registry with respect to which services are being provided under the State plan approved under this part, on the basis of—
 
 &emsp;&emsp;(A) information on administrative actions and administrative and judicial proceedings and orders relating to paternity and support;
 
@@ -102,7 +102,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (1) Federal Case Registry of Child Support Orders
 
-&emsp;Furnishing to the Federal Case Registry of Child Support Orders established under section 653(h) of this title (and update as necessary, with information including notice of expiration of orders) the minimum amount of information on child support cases recorded in the State case registry that is necessary to operate the registry (as specified by the Secretary in regulations).
+&emsp;Furnishing to the Federal Case Registry of Child Support Orders established under section 653(h) of this title (and update as necessary, with information including notice of expiration of orders) the minimum amount of information on child support cases recorded inthe State case registry that is necessary to operate the registry (as specified by the Secretary in regulations).
 
 #### (2) Federal Parent Locator Service
 
@@ -156,7 +156,7 @@ Part A of this subchapter, referred to in subsec. (f)(3), (5), is classified to 
 
 1999—Subsec. (f)(5). Pub. L. 106–113 added par. (5).
 
-1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999,the social security number, of any child” for “the birth date of any child”.
+1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
 
 1996—Subsecs. (e), (f). Pub. L. 104–193, §311, added subsecs. (e) and (f).
 

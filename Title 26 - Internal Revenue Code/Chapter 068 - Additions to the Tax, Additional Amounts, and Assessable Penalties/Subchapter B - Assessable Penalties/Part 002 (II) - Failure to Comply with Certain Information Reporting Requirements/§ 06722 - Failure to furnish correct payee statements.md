@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of each failure described in subsection (b) by any person with respect to a payee statement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000.
+In the case of each failure described in subsection (b) by any person with respect to a payeestatement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000.
 
 #### (b) Failures subject to penalty
 
@@ -32,7 +32,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 #### Amendments
 
-1989—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally,substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+1989—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
 
 #### Effective Date of 1989 Amendment
 

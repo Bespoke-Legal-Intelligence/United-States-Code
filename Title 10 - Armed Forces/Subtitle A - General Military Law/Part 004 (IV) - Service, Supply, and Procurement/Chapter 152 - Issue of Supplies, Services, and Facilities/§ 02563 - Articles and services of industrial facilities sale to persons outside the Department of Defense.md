@@ -28,7 +28,7 @@ Conditions for Sales.—(1) A sale of articles or services may be made under thi
 
 &emsp;(F) the sale of the goods and services is made on the basis that it will not interfere with performance of work by the industrial facility concerned for the Department of Defense.
 
-(2) The Secretary of Defense may waive the condition in paragraph (1)(A) and subsection (a)(1) that an article or service must be not available from a United States commercial source in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
+(2) The Secretary of Defense may waive the condition in paragraph (1)(A) and subsection\(a)(1) that an article or service must be not available from a United States commercial source in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
 
 (3) Paragraph (1)(B) does not apply in any case of willful misconduct or gross negligence or in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the Government to comply with quality, schedule, or cost performance requirements in the contract to provide the articles or services.
 

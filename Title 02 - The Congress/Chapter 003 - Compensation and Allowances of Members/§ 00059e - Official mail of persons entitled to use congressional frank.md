@@ -32,7 +32,7 @@ Expenses of official mail of the Senate and the House of Representatives may be 
 
 #### (d) Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited
 
-No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate from—
+No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) from—
 
 &emsp;(1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 431 of this title);
 
@@ -56,7 +56,7 @@ No Senator or Member of the House of Representatives may maintain or use, direct
 
 #### (f) Mass mailing; submission of samples or description of proposed mail matter; advisory opinion
 
-A Member of the House of Representatives shall, before making any mass mailing, submit asample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.
+A Member of the House of Representatives shall, before making any mass mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.
 
 #### (g) “Member of the House of Representatives” and “person entitled to use the congressional frank” defined
 
@@ -72,11 +72,11 @@ As used in subsections (a) through (f) of this section—
 
 This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
-(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, §1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, §110, Nov. 12, 2001, 115 Stat. 569.)
+(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, §1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, §110, Nov. 12, 2001, 115 Stat. 569; Pub. L. 108–83, title I, §105(a), Sept. 30, 2003, 117 Stat. 1018.)
 
 #### References in Text
 
-The amendments made by this section, referred to in subsec. (i), means the amendments made by section 311(h) of Pub. L. 101–520, which amended section 58 of this title and sections 3210 and 3216 of Title 39, Postal Service, and amended provisions set out as notes under sections 3210 and 3216 of Title 39.
+The amendments made by this section, referred to in subsec. (i), means the amendments made by section311(h) of Pub. L. 101–520, which amended section 58 of this title and sections 3210 and 3216 of Title 39, Postal Service, and amended provisions set out as notes under sections 3210 and 3216 of Title 39.
 
 #### Codification
 
@@ -86,9 +86,11 @@ Subsec. (h) of this section made the amendments specified in the References in T
 
 #### Amendments
 
-2001—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–83, in introductory provisions, struck out “in the House, or official expenses” after “defray official expenses” and “in the Senate” after “(excluding handheld communications devices)”.
 
-1999—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
+
+<b>1999</b>—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
 
 Subsec. (b)(2). Pub. L. 106–19 substituted “any person with an allocation under subsection (a)(2)(A) as to the amount that has been used and any person with an allocation under subsection (a)(2)(B)” for “any person with an allocation under subsection (a)(2)”.
 
@@ -108,11 +110,11 @@ Subsec. (e)(3). Pub. L. 106–57, §103(a)(3), struck out par. (3) which read as
 
 “(B) The total amount a Member may so transfer with respect to a session of Congress may not exceed $25,000.”
 
-1998—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
+<b>1998</b>—Subsec. (e)(2). Pub. L. 105–275, §104(a), as amended by Pub. L. 106–57, §102, inserted “and” at end of subpar. (B), substituted a period for “; and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “shall not be available for payment of any nonpostage fee or charge, including any fee or charge for express mail, express mail drop shipment, certified mail, registered mail, return receipt, address correction, or postal insurance.”
 
 Subsec. (e)(4). Pub. L. 105–275, §104(b), struck out par. (4) which read as follows: “The Members’ Representational Allowance shall be available to a Member of the House of Representatives for the payment of nonpostage fees and charges referred to in paragraph (2)(D) and for postage for mail for official business sent outside the United States.”
 
-1996—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §203(22)(B)(i), substituted “House Oversight” for “House Administration” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 104–186, §203(22)(A), (B)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” and “House Oversight” for “House Administration”.
 
@@ -126,11 +128,15 @@ Subsec. (e)(3)(A). Pub. L. 104–186, §203(22)(B)(vi), substituted “Members�
 
 Subsec. (e)(4). Pub. L. 104–186, §203(22)(B)(vii), substituted “Members’ Representational Allowance” for “Official Expenses Allowance”.
 
-1991—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
+<b>1991</b>—Subsec. (i). Pub. L. 102–229 substituted “beginning on May 1, 1992,” for “with respect to sessions of Congress beginning with the second session of the One Hundred Second Congress,”.
 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–83, title I, §105(b), Sept. 30, 2003, 117 Stat. 1018, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2004 and each succeeding fiscal year.”
 
 #### Effective Date of 1999 Amendments
 

@@ -24,5 +24,5 @@ The words “has been or shall hereafter”, “by operation of or in accordance
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 857a; title 42 section 213a.
+This section is referred to in title 33 section 3071; title 42 section 213a.
 

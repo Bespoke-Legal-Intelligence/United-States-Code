@@ -38,7 +38,7 @@ The first annual report submitted to the Congress under section 3534 of this tit
 
 &emsp;(B) Subject to the provisions of this subsection, the provisions of subsections (b), (d), (e), and (f) of section 2192 of this title apply to joint resolutions to the same extent as such provisions apply to resolutions under such section.
 
-&emsp;(C) If the committee of either House to which a joint resolution has been referred has not reported it by the close of the 45th day after its introduction (excluding any day described in section 2194(b) of this title), such committee shall be automatically discharged from further consideration of the joint resolution and it shall be placed on the appropriate calendar.
+&emsp;(C) If the committee of either House to which a joint resolution has been referred has not reported it by the close of the 45th day after its introduction (excluding any day described in section 2194(b) of this title), suchcommittee shall be automatically discharged from further consideration of the joint resolution and it shall be placed on the appropriate calendar.
 
 &emsp;(D) It is not in order for—
 

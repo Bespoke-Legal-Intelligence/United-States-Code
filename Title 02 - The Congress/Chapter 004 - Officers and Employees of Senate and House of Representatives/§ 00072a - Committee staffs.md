@@ -14,7 +14,7 @@ The clerical staff of each standing committee of the Senate (other than the Comm
 
 #### (d) Recordation of committee hearings, data, etc.; access to records
 
-All committee hearings, records, data, charts, and files shall be kept separate and distinct from the congressional office records of the Member serving as chairman of the committee; and such records shall be the property of the Congress and all members of the committee and the respective Houses shall have access to such records. Each committee is authorized to have printed and bound such testimony and other data presented at hearings held by the committee.
+All committee hearings, records, data, charts, and files shall be kept separate and distinct from the congressional office records of the Member serving as chairman of the committee; and such records shall be the property of theCongress and all members of the committee and the respective Houses shall have access to such records. Each committee is authorized to have printed and bound such testimony and other data presented at hearings held by the committee.
 
 #### (e) Repealed. Pub. L. 91–510, title IV, §477(a)(3), Oct. 26, 1970, 84 Stat. 1195
 
@@ -76,7 +76,7 @@ Subsec. (k)(1) was based on House Resolution No. 172 of the Eighty-first Congres
 
 Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congress, which was enacted into permanent law by act Oct. 11, 1951, ch. 485, §105, 65 Stat. 403, House Resolution No. 393 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–454, §103, Aug. 20, 1964, 78 Stat. 550, House Resolution No. 248 of the Eighty-ninth Congress, which was enacted into permanent law by Pub. L. 89–90, §103, July 27, 1965, 79 Stat. 281, and House Resolution No. 640 of the Eighty-ninth Congress, which was enacted into permanent law by Pub. L. 89–545, §103, Aug. 27, 1966, 80 Stat. 369.
 
-Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted intopermanent law by act July 2, 1954, ch. 455, §103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, §103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
+Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by act July 2, 1954, ch. 455, §103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, §103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
 Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
@@ -84,9 +84,9 @@ Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congres
 
 #### Amendments
 
-1997—Subsec. (j)(1). Pub. L. 105–55 amended directory language of Pub. L. 104–186, §204(11). See 1996 Amendment note below.
+<b>1997</b>—Subsec. (j)(1). Pub. L. 105–55 amended directory language of Pub. L. 104–186, §204(11). See 1996 Amendment note below.
 
-1996—Subsec. (f). Pub. L. 104–186, §204(10)(A), substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–186, §204(10)(A), substituted “House Oversight” for “House Administration”.
 
 Subsec. (i)(1). Pub. L. 104–186, §204(10), substituted “House Oversight” for “House Administration”, “contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate,” for “contingent funds of the respective Houses pursuant to resolutions, which”, and “the appropriate House” for “such respective Houses”.
 
@@ -94,13 +94,13 @@ Subsec. (i)(3). Pub. L. 104–186, §204(10)(A), substituted “House Oversight�
 
 Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
 
-1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
+<b>1988</b>—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-1971—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+<b>1971</b>—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
 Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
-1970—Subsec. (a). Pub. L. 91–510, §301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
+<b>1970</b>—Subsec. (a). Pub. L. 91–510, §301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
 
 Subsec. (c). Pub. L. 91–510, §301(b), inserted “of the Senate (other than the Committee on Appropriations)” after “each standing committee”, provided for appointment of one clerical staff member by majority vote of minority members of a committee whenever majority of minority members so request and handling by such appointee of committee correspondence and stenographic work for minority members of the committee and for any members of the committee staff appointed under subsec. (a) of this section pursuant to request by the minority members, on matters related to committee work, and for termination of services of clerical staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request.
 
@@ -114,15 +114,15 @@ Subsec. (i). Pub. L. 91–510, §303, added subsec. (i).
 
 Subsec. (j). Pub. L. 91–510, §304, added subsec. (j).
 
-1964—Subsec. (e). Pub. L. 88–426 increased maximum basic annual compensation to professional staff members and clerical staff from $8,880 to highest amount which, together with additional compensation authorized by law, will not exceed maximum rate authorized by Classification Act of 1949, as amended.
+<b>1964</b>—Subsec. (e). Pub. L. 88–426 increased maximum basic annual compensation to professional staff members and clerical staff from $8,880 to highest amount which, together with additional compensation authorized by law, will not exceed maximum rate authorized by Classification Act of 1949, as amended.
 
-1958—Subsec. (e). Pub. L. 85–462 substituted “$8,880” for “$8,820” in two places.
+<b>1958</b>—Subsec. (e). Pub. L. 85–462 substituted “$8,880” for “$8,820” in two places.
 
-1955—Subsec. (e). Act Aug. 5, 1955, increased maximum basic annual compensation of professional staff and clerical staff from $8,000 to $8,820.
+<b>1955</b>—Subsec. (e). Act Aug. 5, 1955, increased maximum basic annual compensation of professional staff and clerical staff from $8,000 to $8,820.
 
-1949—Subsec. (g). Act Feb. 24, 1949, repealed subsec. (g).
+<b>1949</b>—Subsec. (g). Act Feb. 24, 1949, repealed subsec. (g).
 
-1947—Subsec. (e). Act July 30, 1947, omitted figure $2,000 as lowest salary to be paid clerks.
+<b>1947</b>—Subsec. (e). Act July 30, 1947, omitted figure $2,000 as lowest salary to be paid clerks.
 
 #### Change of Name
 
@@ -146,7 +146,7 @@ Section 601 of Pub. L. 91–510 provided that:
 
 “(2) Part 2 of title II \[amending section 11 of former Title 31\] shall be effective with respect to fiscal years beginning on or after July 1, 1972.
 
-“(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act \[section 166(d)(2) and (3) of this title\], shall become effective at the close of the first session of the Ninety-second Congress.
+“(3) Section 203(d)(2) and (3) of the Legislative Reorganization Act of 1946, as amended by section 321 of thisAct \[section 166(d)(2) and (3) of this title\], shall become effective at the close of the first session of the Ninety-second Congress.
 
 “(4) Section 203(i) of the Legislative Reorganization Act of 1946, as amended by section 321 of this Act \[section 166(i) of this title\], shall be effective with respect to fiscal years beginning on or after July 1, 1970.
 

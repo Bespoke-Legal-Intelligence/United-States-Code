@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) publish, not later than July 1 of the fiscal year for which the amounts are appropriated, information indicating the amount of the allotments to be made to each affected school under section 2007 of this title, of 80 percent of such appropriated amounts; and
 
-&emsp;&emsp;&emsp;(ii) publish, not later than September 30 of such fiscal year, information indicating the amount of the allotments to be made under section 2007 of this title, from the remaining 20 percent of such appropriated amounts, adjusted to reflect the actual student attendance.
+&emsp;&emsp;&emsp;(ii) publish, not later than September 30 of such fiscal year, information indicating the amount of the allotments to be made under section 2007 of this title, from the remaining 20 percent of such appropriatedamounts, adjusted to reflect the actual student attendance.
 
 #### (C) Overpayments
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) shall implement the decisions of the school board relating to the financial plan under paragraph (1);
 
-&emsp;&emsp;(B) shall provide the appropriate local union representative of the education employees of the school with copies of proposed financial plans relating to the school and all modifications and proposed modifications to the plans, and at the same time submit such copies to the local school board; and
+&emsp;&emsp;(B) shall provide the appropriate local union representative of the education employees of the school with copies of proposed financial plans relating to the school and all modifications and proposed modifications tothe plans, and at the same time submit such copies to the local school board; and
 
 &emsp;&emsp;(C) may appeal any such action of the local school board to the appropriate education line officer of the Bureau agency by filing a written statement describing the action and the reasons the supervisor believes such action should be overturned.
 
@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A copy of each statement filed under paragraph (4)(C) shall be submitted to the localschool board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
+&emsp;&emsp;A copy of each statement filed under paragraph (4)(C) shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
 
 #### (B) Overturned actions
 
@@ -184,7 +184,7 @@ In carrying out this section, a local school board may request technical assista
 
 #### (g) Product or result of student projects
 
-Notwithstanding any other provision of law, in a case in which there is agreement on action between the superintendent and the school board of a Bureau-funded school, the product or result of a project conducted in whole or in major part by a student may be given to that student upon the completion of such project.
+Notwithstanding any other provision of law, in a case in which there is agreement on action between the superintendent and the school board of a Bureau-funded school, the product or resultof a project conducted in whole or in major part by a student may be given to that student upon the completion of such project.
 
 #### (h) Matching fund requirements
 

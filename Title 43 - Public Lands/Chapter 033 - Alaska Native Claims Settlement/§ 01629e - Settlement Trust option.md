@@ -12,7 +12,11 @@
 
 &emsp;(A) shall be subject to applicable laws respecting fraudulent conveyance and creditors rights; and
 
-&emsp;(B) shall give rise to dissenters rights to the extent provided under the laws of the State only if the rights of beneficiaries in the Settlement Trust receiving a conveyance are inalienable.
+&emsp;(B) shall give rise to dissenters rights to the extent provided under the laws of the State only if—
+
+&emsp;&emsp;(i) the rights of beneficiaries in the Settlement Trust receiving a conveyance are inalienable; and
+
+&emsp;&emsp;(ii) a shareholder vote on such transfer is required by (a)(4) <sup>1</sup> of section 1629b of this title.
 
 (4) The provisions of this subsection shall not prohibit a Native Corporation from engaging in any conveyance, reorganization, or transaction not otherwise prohibited under the laws of the State or the United States.
 
@@ -76,9 +80,11 @@
 
 (8) A beneficiary's interest in a settlement trust and the distributions thereon shall be subject to creditor action (including without limitation, levy attachment, pledge, lien, judgment execution, assignment, and the insolvency and bankruptcy laws) only to the extent that Settlement Common Stock and the distributions thereon are subject to such creditor action under section 1606(h) of this title.
 
-(Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135; Pub. L. 106–559, title III, §302, Dec. 21, 2000, 114 Stat. 2782.)
+(Pub. L. 92–203, §39, as added Pub. L. 100–241, §10, Feb. 3, 1988, 101 Stat. 1804; amended Pub. L. 105–333, §13, Oct. 31, 1998, 112 Stat. 3135; Pub. L. 106–559, title III, §302, Dec. 21, 2000, 114 Stat. 2782; Pub. L. 108–7, div. F, title III, §337(b), Feb. 20, 2003, 117 Stat. 278.)
 
 #### Amendments
+
+2003—Subsec. (a)(3)(B). Pub. L. 108–7, §337(b), which directed that section 1629e(a)(3) of title 43, United States Code, be amended by adding subpar. (B) and striking out former subpar. (B), was executed to section 39 of Pub. L. 92–203, which is classified to this section, to reflect the probable intent of Congress. Former subpar. (B) read as follows: “shall give rise to dissenters rights to the extent provided under the laws of the State only if the rights of beneficiaries in the Settlement Trust receiving a conveyance are inalienable.”
 
 2000—Subsec. (c)(8). Pub. L. 106–559 added par. (8).
 
@@ -87,4 +93,6 @@
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1602, 1629b, 1636 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “subsection”.</i>
 

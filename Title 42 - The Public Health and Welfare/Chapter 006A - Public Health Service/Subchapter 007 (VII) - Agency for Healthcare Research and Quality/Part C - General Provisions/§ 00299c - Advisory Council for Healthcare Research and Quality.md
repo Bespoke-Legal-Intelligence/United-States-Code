@@ -48,7 +48,7 @@ There is established an advisory council to be known as the National Advisory Co
 
 &emsp;The Secretary shall designate as ex officio members of the Advisory Council—
 
-&emsp;&emsp;(A) the Assistant Secretary for Health, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, the Administrator of the Health Care Financing Administration, the Commissioner of the Food and Drug Administration, the Director of the Office of Personnel Management, the Assistant Secretary of Defense (Health Affairs), and the Under Secretary for Health of the Department of Veterans Affairs; and
+&emsp;&emsp;(A) the Assistant Secretary for Health, the Director of the National Institutes of Health, the Director of the Centers for Disease Control and Prevention, the Administrator of the Centers for Medicare \& Medicaid Services, the Commissioner of the Food and Drug Administration, the Director of the Office of Personnel Management, the Assistant Secretary of Defense (Health Affairs), and the Under Secretary for Health of the Department of Veterans Affairs; and
 
 &emsp;&emsp;(B) such other Federal officials as the Secretary may consider appropriate.
 
@@ -96,7 +96,7 @@ The Director shall provide to the Advisory Council such staff, information, and 
 
 Notwithstanding section 14(a) of the Federal Advisory Committee Act, the Advisory Council shall continue in existence until otherwise provided by law.
 
-(July 1, 1944, ch. 373, title IX, §921, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1663.)
+(July 1, 1944, ch. 373, title IX, §921, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1663; amended Pub. L. 108–173, title IX, §900(e)(2)(D), Dec. 8, 2003, 117 Stat. 2372.)
 
 #### References in Text
 
@@ -107,6 +107,10 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (j),
 A prior section 299c, act July 1, 1944, ch. 373, title IX, §921, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2199; amended Pub. L. 102–410, §8, Oct. 13, 1992, 106 Stat. 2100, established the Advisory Council for Health Care Policy, Research, and Evaluation, prior to the general amendment of this subchapter by Pub. L. 106–129.
 
 Another prior section 299c, act July 1, 1944, ch. 373, title IX, §903, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 927; amended Oct. 15, 1968, Pub. L. 90–574, title I, §104, 82 Stat. 1005; Oct. 30, 1970, Pub. L. 91–515, title I, §§105, 111(b), 84 Stat. 1299, 1301, authorized Secretary to make planning grants and set forth requirements for grant applications, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
+
+#### Amendments
+
+2003—Subsec. (c)(3)(A). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
 
 #### Section Referred to in Other Sections
 

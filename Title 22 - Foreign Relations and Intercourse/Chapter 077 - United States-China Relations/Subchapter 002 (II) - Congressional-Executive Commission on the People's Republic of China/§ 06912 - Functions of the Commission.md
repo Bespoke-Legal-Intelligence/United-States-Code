@@ -18,7 +18,7 @@ The Commission shall monitor the acts of the People's Republic of China which re
 
 &emsp;&emsp;(B) to be informed, if he or she does not have legal assistance, of the right set forth in subparagraph (A);
 
-&emsp;&emsp;(C) to have legal assistance assigned to him or her in any case in which the interestsof justice so require and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
+&emsp;&emsp;(C) to have legal assistance assigned to him or her in any case in which the interests of justice so require and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
 
 &emsp;&emsp;(D) to a fair and public hearing by a competent, independent, and impartial tribunal established by the law;
 
@@ -92,7 +92,7 @@ The Commission's report under subsection (g) of this section shall include—
 
 #### (i) Congressional hearings on annual reports
 
-(1) The Committee on International Relations of the House of Representatives shall, not later than 30 days after the receipt by the Congress ofthe report referred to in subsection (g) of this section, hold hearings on the contents of the report, including any recommendations contained therein, for the purpose of receiving testimony from Members of Congress, and such appropriate representatives of Federal departments and agencies, and interested persons and groups, as the committee deems advisable, with a view to reporting to the House of Representatives any appropriate legislation in furtherance of such recommendations. If any such legislation is considered by the Committee on International Relations within 45 days after receipt by the Congress of the report referred to in subsection (g) of this section, it shall be reported by the committee not later than 60 days after receipt by the Congress of such report.
+(1) The Committee on International Relations of the House of Representatives shall, not later than 30 days after the receipt by the Congress of the report referred to in subsection (g) of this section, hold hearings on the contents of the report, including any recommendations contained therein, for the purpose of receiving testimony from Members of Congress, and such appropriate representatives of Federal departments and agencies, and interested persons and groups, as the committee deems advisable, with a view to reporting to the House of Representatives any appropriate legislation in furtherance of such recommendations. If any such legislation is considered by the Committee on International Relations within 45 days after receipt by the Congress of the report referred to in subsection (g) of this section, it shall be reported by the committee not later than 60 days after receipt by the Congress of such report.
 
 (2) The provisions of paragraph (1) are enacted by the Congress—
 

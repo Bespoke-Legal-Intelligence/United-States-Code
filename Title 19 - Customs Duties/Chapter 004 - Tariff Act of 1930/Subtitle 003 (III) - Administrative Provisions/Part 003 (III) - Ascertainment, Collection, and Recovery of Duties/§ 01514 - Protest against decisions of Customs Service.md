@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, section 1501 of this title
 
 &emsp;(7) the refusal to reliquidate an entry under subsection (c) or (d) of section 1520 of this title;
 
-> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with acopy of the judgment or order to the Customs Service, which shall take action accordingly.
+> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed bysection 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
 
 #### (b) Finality of determinations
 
@@ -78,13 +78,23 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 > until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with section 3332 of this title.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26,1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171.)
+#### (g) Denial of preferential tariff treatment under United States-Chile Free Trade Agreement
+
+If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer of false or unsupported representations that goods qualify under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may deny preferential tariff treatment under the United States-Chile Free Trade Agreement to entries of identical goods imported by that person until the person establishes to the satisfaction of the Bureau of Customs and Border Protection that representations of that person are in conformity with such section 202.
+
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
 The customs laws, referred to in subsec. (a)(4), are classified generally to this title.
 
 Section 1303 of this title, referred to in subsec. (b), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
+
+Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (g), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
 
 #### Codification
 
@@ -99,6 +109,8 @@ Provisions that the decision of the collector as to duties, including dutiable c
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–77, §§107(c), 205(b), temporarily added subsec. (g). See Effective and Termination Dates of 2003 Amendment note below.
 
 1999—Subsec. (a)(7). Pub. L. 106–36 substituted “subsection (c) or (d) of section 1520” for “section 1520(c)”.
 
@@ -140,13 +152,17 @@ Subsec. (b). Pub. L. 96–417, §601(5), redesignated the United States Customs 
 
 Subsec. (b). Pub. L. 96–39, §1001(b)(3)(D), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, orthe authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
+Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
 
 Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
 
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+
+#### Effective and Termination Dates of 2003 Amendment
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -36,7 +36,7 @@ Pub. L. 97–295, §4(35)(B), Oct. 12, 1982, 96 Stat. 1307, substituted “1651�
 
 1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
-1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
+1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation forVeterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 
 1976—Pub. L. 94–502, title III, §309(b), title IV, §405, Oct. 15, 1976, 90 Stat. 2391, 2397, added item for chapter 32 and substituted “Survivors’ and Dependents’ Educational Assistance” for “War Orphans’ and Widows’ Education Assistance” in item for chapter 35.
 

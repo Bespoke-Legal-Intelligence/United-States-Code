@@ -18,7 +18,7 @@ Audit requirement.—
 
 &emsp;(A)
 
-In general.—Before the end of the 120-day period beginning on August 9, 1989, and notwithstanding any other provision of Federal or State law, the Board shall prescribe, by regulation, audit standards which require anoutside, independent audit of any insured credit union by a certified public accountant for any fiscal year (of such credit union)—
+In general.—Before the end of the 120-day period beginning on August 9, 1989, and notwithstanding any other provision of Federal or State law, the Board shall prescribe, by regulation, audit standards which require an outside, independent audit of any insured credit union by a certified public accountant for any fiscal year (of such credit union)—
 
 &emsp;&emsp;(i) for which such credit union has not conducted an annual supervisory committee audit;
 
@@ -84,7 +84,7 @@ Additional information.—In addition to the copies of the reports required to b
 
 #### (A) In general
 
-&emsp;&emsp;For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c) of this section.
+&emsp;&emsp;For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured creditunion with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c) of this section.
 
 #### (B) Exception for newly insured credit union
 
@@ -100,7 +100,7 @@ Additional information.—In addition to the copies of the reports required to b
 
 #### (c) Deposit with National Credit Union Share Insurance Fund; amount, return, distribution, etc.
 
-(1)(A)(i) Each insured credit union shall pay to and maintain with the National Credit UnionShare Insurance Fund a deposit in an amount equaling 1 per centum of the credit union's insured shares.
+(1)(A)(i) Each insured credit union shall pay to and maintain with the National Credit Union Share Insurance Fund a deposit in an amount equaling 1 per centum of the credit union's insured shares.
 
 (ii) The Board may, in its discretion, authorize insured credit unions to initially fund such deposit over a period of time in excess of one year if necessary to avoid adverse effects on the condition of insured credit unions.
 
@@ -222,7 +222,7 @@ Special rule for disputed payments.—No penalty may be assessed for the failure
 
 #### (e) Recovery of unpaid deposit or premium; limitations
 
-The Board, in a suit brought at law or in equity in any court of competent jurisdiction, shall be entitled to recover from any insured credit union the amount of any unpaid deposit or premium charge for insurance lawfully payable by the credit union to the fund, whether or not such credit union shall have made any report of condition under subsection (a) of this section or filed any certified statement required under subsection (b) of this section and whether or not suit shall have been brought to compel the credit union to make any such report or to file any such statement. No action or proceeding shall be brought for the recovery of any deposit or premium charge due to the fund, or for the recovery of any amount paid to the fund in excess of the amount due it, unless such action or proceeding shall have been brought within five years after the right accrued for which the claim is made. Where the insured credit union has made or filed with the Board a false or fraudulent certified statement with the intent to evade, in whole or in part, the payment of its deposit or any premium charge, the claim shall not be deemed to have accrued until the discovery by the Board of the fact that the certified statement is false or fraudulent.
+The Board, in a suit brought at law or in equity in any court of competent jurisdiction, shall be entitled to recover from any insured credit union the amount of any unpaid deposit or premium charge for insurance lawfully payable by the credit union to the fund, whether or not such credit union shall have made any report of condition under subsection (a) of this section or filed any certified statement required under subsection (b) of this section and whether or not suit shall have been brought to compel the credit union to make any such report or to file any such statement. No action or proceeding shall be brought for the recovery of any deposit or premium charge due to the fund, or for the recovery of any amount paid to the fund in excess of the amount due it, unless such action or proceeding shall have been brought within five years after the right accrued for which the claim is made. Where the insured credit union has made or filed with the Board a false or fraudulent certified statement with the intentto evade, in whole or in part, the payment of its deposit or any premium charge, the claim shall not be deemed to have accrued until the discovery by the Board of the fact that the certified statement is false or fraudulent.
 
 #### (f) Penalty for failure to comply with section; court determination of failure; remedies not exclusive
 
@@ -230,7 +230,7 @@ Should any Federal credit union fail to make any report of condition under subse
 
 #### (g) Records
 
-Each insured credit union shall maintain such records as will readily permit verification of thecorrectness of its reports of condition, certified statements, and deposit and premium charges for insurance. However, no insured credit union shall be required to retain such records for such purpose for a period in excess of five years from the date of the making of any such report, the filing of any such statement, or the payment of any deposit or adjustment thereof or any premium charge, except that when there is a dispute between the insured credit union and the Board over the amount of any deposit or adjustment thereof or any premium charge for insurance the credit union shall retain such records until final determination of the issue.
+Each insured credit union shall maintain such records as will readily permit verification of the correctness of its reports of condition, certified statements, and deposit and premium charges for insurance. However, no insured credit union shall be required to retain such records for such purpose for a period in excess of five years from the date of the making of any such report, the filing of any such statement, or the payment of any deposit or adjustment thereof or any premium charge, except that when there is a dispute between the insured credit union and the Board over the amount of any deposit or adjustment thereof or any premium charge for insurance the credit union shall retain such records until final determination of the issue.
 
 #### (h) Definitions
 
@@ -278,7 +278,7 @@ Subsec. (b). Pub. L. 105–219, §302(a)(1), added subsec. (b) and struck out fo
 
 “(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
 
-“(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in such form and shall set forth such supporting information as the Board shall require.
+“(2) The certified statements required to be filed with the Board pursuant to this subsection shall be in suchform and shall set forth such supporting information as the Board shall require.
 
 “(3) Each such statement shall be certified by the president of the credit union, or by any officer of the credit union designated by its board of directors, that to the best of his knowledge and belief that statement is true, correct, and complete and in accordance with this subchapter and regulations issued thereunder.”
 
@@ -298,7 +298,7 @@ Subsec. (h). Pub. L. 105–219, §302(a)(5), added subsec. (h) and struck out fo
 
 &emsp;“(2) the term ‘normal operating level’, when applied to the fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
 
-&emsp;“(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by theBoard, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title.”
+&emsp;“(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title.”
 
 1992—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1) of this section”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
 
@@ -334,7 +334,7 @@ Subsec. (g). Pub. L. 98–369, §2807, inserted “and deposit” and “deposit
 
 Subsec. (h)(1). Pub. L. 98–369, §2808, inserted “, unless otherwise prescribed by the Board”.
 
-Subsec. (h)(2). Pub. L. 98–369, §2809, in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
+Subsec. (h)(2). Pub. L. 98–369, §2809, in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of theinsured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
 
 Subsec. (h)(3). Pub. L. 98–369, §2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘members accounts’ when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in section 1787(c)(1) of this title;”.
 
@@ -352,7 +352,7 @@ Subsec. (h)(3). Pub. L. 97–320, §528, substituted “ ‘members accounts’
 
 Subsecs. (b) to (g). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
 
-Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted“received from other federally insured credit unions” after “not include amounts”.
+Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
 
 1974—Subsec. (h)(3). Pub. L. 93–383 added par. (3).
 

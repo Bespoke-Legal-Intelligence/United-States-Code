@@ -30,7 +30,7 @@ For purposes of this section, the term “permanent housing for homeless persons
 
 #### (d) Single room occupancy dwellings
 
-A project may provide supportive housing or supportive services in dwelling units that do notcontain bathrooms or kitchen facilities and are appropriate for use as supportive housing or in projects containing some or all such dwelling units.
+A project may provide supportive housing or supportive services in dwelling units that do not contain bathrooms or kitchen facilities and are appropriate for use as supportive housing or in projects containing some or all such dwelling units.
 
 (Pub. L. 100–77, title IV, §424, as added Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4016.)
 

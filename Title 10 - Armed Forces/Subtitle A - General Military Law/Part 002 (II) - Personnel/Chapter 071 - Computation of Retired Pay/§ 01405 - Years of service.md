@@ -104,11 +104,15 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Section effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1175, 1401, 1414, 3991, 3992, 6151, 6333, 6334 of this title; title 14 section 423; title 33 section 853<i>o</i>; title 37 section 322.
+This section is referred to in sections 1175, 1401, 1414, 3991, 3992, 6151, 6333, 6334 of this title; title 14 section 423; title 33 section 3045; title 37 section 322.
 

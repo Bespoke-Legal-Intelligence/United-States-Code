@@ -10,7 +10,7 @@ In the case of a corporation, there is hereby imposed (in addition to any other 
 
 #### (b) Modified alternative minimum taxable income
 
-For purposes of this section, the term “modified alternative minimum taxable income” means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without regard to—
+For purposes of this section, the term “modified alternative minimum taxable income”means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without regard to—
 
 &emsp;(1) the alternative tax net operating loss deduction (as defined in section 56(d)), and
 

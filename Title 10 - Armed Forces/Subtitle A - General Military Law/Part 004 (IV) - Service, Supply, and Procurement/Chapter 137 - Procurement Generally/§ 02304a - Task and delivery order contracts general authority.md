@@ -16,7 +16,7 @@ Solicitation.—The solicitation for a task or delivery order contract shall inc
 
 (c)
 
-Applicability of Restriction on Use of Noncompetitive Procedures.—The head of an agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in subsection (c) of section 2304 of this title applies to the contract and the use of such procedures is approved in accordance with subsection (f) of such section.
+Applicability of Restriction on Use of Noncompetitive Procedures.—The head of anagency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in subsection (c) of section 2304 of this title applies to the contract and the use of such procedures is approved in accordance with subsection (f) of such section.
 
 (d)
 
@@ -40,17 +40,25 @@ Contract Modifications.—A task or delivery order may not increase the scope, p
 
 (f)
 
-Inapplicability to Contracts for Advisory and Assistance Services.—Except as otherwise specifically provided in section 2304b of this title, this section does not apply to a task or delivery order contract for the procurement of advisory and assistance services (as defined in section 1105(g) of title 31).
+Contract Period.—The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover a total period of not more than five years.
 
 (g)
 
-Relationship to Other Contracting Authority.—Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
+Inapplicability to Contracts for Advisory and Assistance Services.—Except as otherwise specifically provided in section 2304b of this title, this section does not apply to a task or delivery order contract for the procurement of advisory and assistance services (as defined in section 1105(g) of title 31).
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249.)
+(h)
+
+Relationship to Other Contracting Authority.—Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.”
+
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3249; amended Pub. L. 108–136, div. A, title VIII, §843(b), Nov. 24, 2003, 117 Stat. 1553.)
 
 #### Codification
 
 Another section 2304a was renumbered section 2304e of this title.
+
+#### Amendments
+
+2003—Subsecs. (f) to (h). Pub. L. 108–136 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 #### Effective Date
 
@@ -58,13 +66,9 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-Section 1004(d) of Pub. L. 103–355 provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
-
-&emsp;“(1) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759)); and
-
-&emsp;“(2) the Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)).”
+Section 1004(d) of Pub. L. 103–355, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2304b, 2304c, 2304d of this title.
+This section is referred to in sections 2304b, 2304c, 2304d, 2382 of this title.
 

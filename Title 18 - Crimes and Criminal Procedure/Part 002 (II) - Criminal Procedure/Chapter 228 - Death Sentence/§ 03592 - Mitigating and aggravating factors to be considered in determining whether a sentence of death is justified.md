@@ -46,7 +46,7 @@ Prior espionage or treason offense.—The defendant has previously been convicte
 
 &emsp;(2)
 
-Grave risk to national security.—In the commission of the offense the defendantknowingly created a grave risk of substantial danger to the national security.
+Grave risk to national security.—In the commission of the offense the defendant knowingly created a grave risk of substantial danger to the national security.
 
 &emsp;(3)
 

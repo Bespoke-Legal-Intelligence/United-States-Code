@@ -108,7 +108,7 @@ Objection.—During the examination of a witness in any civil proceeding brought
 
 Action by court.—In determining whether a response is admissible, the court shall take precautions to guard against the compromise of any classified information, including—
 
-&emsp;&emsp;&emsp;(i) permitting the United States to provide the court, ex parte, with a proffer of the witness's response to the question or line of inquiry; and
+&emsp;&emsp;&emsp;(i) permitting the United States to provide the court, ex parte, with a proffer ofthe witness's response to the question or line of inquiry; and
 
 &emsp;&emsp;&emsp;(ii) requiring the defendant to provide the court with a proffer of the nature of the information that the defendant seeks to elicit.
 
@@ -160,7 +160,7 @@ Appeals during trial.—If an appeal is taken during trial, the trial court shal
 
 &emsp;&emsp;(C)
 
-Effect of ruling.—An interlocutory appeal and decision shall not affect the rightof the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
+Effect of ruling.—An interlocutory appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
 &emsp;(6)
 

@@ -46,7 +46,7 @@
 
 #### (2) Maximum price of property to be acquired
 
-&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranchfor which the purchase price or appraisal value, whichever is lower, exceeds $250,000.
+&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.
 
 #### (3) Prohibited types of financing
 

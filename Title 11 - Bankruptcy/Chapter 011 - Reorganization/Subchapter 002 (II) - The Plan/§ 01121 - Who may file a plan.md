@@ -38,7 +38,7 @@ Section 1121 of the House amendment is derived from section 1121 of the House bi
 
 Subsection (a) permits the debtor to file a reorganization plan with a petition commencing a voluntary case or at any time during a voluntary or involuntary case.
 
-Subsection (b) gives the debtor the exclusive right to file a plan during the first 120 days of the case. There are exceptions, however, enumerated in subsection (c). If a trustee has been appointed, if the debtor does not meet the 120-day deadline, or if the debtor fails to obtain the required consent within 180 days after the filing of the petition, any party in interest may propose a plan. This includes the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, and an indenture trustee. The list is not exhaustive. In the case of a public company, a trustee is appointed within 10 days of the petition. In such a case, for all practical purposes, any party in interest may file a plan.
+Subsection (b) gives the debtor the exclusive right to file a plan during the first 120 days of the case. There are exceptions, however, enumerated in subsection (c). If a trustee has been appointed, if the debtor does notmeet the 120-day deadline, or if the debtor fails to obtain the required consent within 180 days after the filing of the petition, any party in interest may propose a plan. This includes the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, and an indenture trustee. The list is not exhaustive. In the case of a public company, a trustee is appointed within 10 days of the petition. In such a case, for all practical purposes, any party in interest may file a plan.
 
 Subsection (d) permits the court, for cause, to increase or reduce the 120-day and 180-day periods specified. Since, the debtor has an exclusive privilege for 6 months during which others may not file a plan, the granted extension should be based on a showing of some promise of probable success. An extension should not be employed as a tactical device to put pressure on parties in interest to yield to a plan they consider unsatisfactory.
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set outas a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

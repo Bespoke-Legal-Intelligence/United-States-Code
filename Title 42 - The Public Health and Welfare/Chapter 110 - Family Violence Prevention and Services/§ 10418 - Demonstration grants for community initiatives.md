@@ -84,15 +84,15 @@ The Secretary shall award grants under this section to organizations in communit
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2001 through 2005.
+There is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2004 through 2008.
 
-#### (i) Regulations
-
-Not later than 60 days after September 13, 1994, the Secretary shall publish proposed regulations implementing this section. Not later than 120 days after September 13, 1994, the Secretary shall publish final regulations implementing this section.
-
-(Pub. L. 98–457, title III, §318, as added Pub. L. 103–322, title IV, §40261, Sept. 13, 1994, 108 Stat. 1935; amended Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–386, div. B, title IV, §1403, Oct. 28, 2000, 114 Stat. 1514.)
+(Pub. L. 98–457, title III, §318, as added Pub. L. 103–322, title IV, §40261, Sept. 13, 1994, 108 Stat. 1935; amended Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–386, div. B, title IV, §1403, Oct. 28, 2000, 114 Stat. 1514; Pub. L. 108–36, title IV, §413, June 25, 2003, 117 Stat. 830.)
 
 #### Amendments
+
+2003—Subsec. (h). Pub. L. 108–36, §413(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 2001 through 2005.”
+
+Subsec. (i). Pub. L. 108–36, §413(b), struck out heading and text. Text read as follows: “Not later than 60 days after September 13, 1994, the Secretary shall publish proposed regulations implementing this section. Not later than 120 days after September 13, 1994, the Secretary shall publish final regulations implementing this section.”
 
 2000—Subsec. (h). Pub. L. 106–386 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There are authorized to be appropriated to carry out this section—
 

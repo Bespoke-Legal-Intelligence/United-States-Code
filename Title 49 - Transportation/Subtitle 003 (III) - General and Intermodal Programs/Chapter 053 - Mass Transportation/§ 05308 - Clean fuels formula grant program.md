@@ -90,7 +90,7 @@ Formula.—Not later than February 1 of each year, the Secretary shall apportion
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of vehicles in the bus fleet of the eligible project of the designated recipient, weighted by severity of nonattainment for the area in which the eligible project is located, as provided in paragraph (2); and
 
-&emsp;&emsp;&emsp;&emsp;(II) the total number of vehicles in the bus fleets of all eligible projects in areas with a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment for all areas in which those eligible projects are located, as provided in paragraph (2); and
+&emsp;&emsp;&emsp;&emsp;(II) the total number of vehicles in the bus fleets of all eligible projects in areaswith a population of less than 1,000,000 funded under this section, weighted by severity of nonattainment for all areas in which those eligible projects are located, as provided in paragraph (2); and
 
 &emsp;&emsp;&emsp;(ii) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between—
 
@@ -136,7 +136,7 @@ In general.—For purposes of paragraph (1), subject to subparagraph (B) of this
 
 &emsp;&emsp;&emsp;&emsp;(I) an extreme ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
 
-&emsp;&emsp;&emsp;&emsp;(II) an extreme carbon monoxide nonattainment area under subpart 3 of partD of title I of the Clean Air Act (42 U.S.C. 7512 et seq.).
+&emsp;&emsp;&emsp;&emsp;(II) an extreme carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.).
 
 &emsp;&emsp;(B)
 
@@ -180,7 +180,7 @@ Clean diesel buses.—Not more than 35 percent of the amount made available by o
 
 &emsp;(3)
 
-Bus retrofitting and replacement.—Not more than 5 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section may be made available to fund retrofitting or replacement of the engines of buses that do not meet the clean air standards of the Environmental Protection Agency, as in effect on the date on which the application for such retrofitting or replacement is submitted under subsection (c)(1).
+Bus retrofitting and replacement.—Not more than 5 percent of the amount made available by or appropriated under section 5338 in each fiscal year to carry out this section may be made available to fund retrofitting or replacement of the engines of buses that donot meet the clean air standards of the Environmental Protection Agency, as in effect on the date on which the application for such retrofitting or replacement is submitted under subsection (c)(1).
 
 (f)
 

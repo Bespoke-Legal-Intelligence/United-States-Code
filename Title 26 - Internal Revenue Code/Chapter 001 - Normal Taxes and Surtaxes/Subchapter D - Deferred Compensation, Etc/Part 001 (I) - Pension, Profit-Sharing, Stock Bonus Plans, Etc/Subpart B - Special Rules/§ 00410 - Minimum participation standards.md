@@ -312,7 +312,7 @@
 
 &emsp;An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
 
-(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L.98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063.)
+(Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063.)
 
 #### References in Text
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 96–605 applicable with respect to plan years beginning af
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(61) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(61) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date; Transitional Rules
 
@@ -518,7 +518,7 @@ Year Delay for Certain Provisions.—Subparagraphs (B) and (C) of section 404(a)
 
 “(C)(i) The provisions of subsection (b)(4) of such section 413 shall not apply to plan years beginning before the applicable effective date of section 411 of such Code.
 
-“(ii) The provisions of subsection (b)(5) (other than the second sentence thereof) of such section 413 shall not apply to plan years beginning before the applicable effective date of section 412 of such Code.
+“(ii) The provisions of subsection (b)(5) (other than the second sentence thereof) of such section 413 shallnot apply to plan years beginning before the applicable effective date of section 412 of such Code.
 
 “(i)
 

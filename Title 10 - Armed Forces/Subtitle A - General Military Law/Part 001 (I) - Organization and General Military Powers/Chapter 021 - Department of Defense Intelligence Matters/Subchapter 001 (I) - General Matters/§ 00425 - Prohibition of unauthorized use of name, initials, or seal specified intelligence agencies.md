@@ -12,11 +12,13 @@ Prohibition.—Except with the written permission of both the Secretary of Defen
 
 &emsp;(4) The words “Defense Mapping Agency”, the initials “DMA”, or the seal of the Defense Mapping Agency.
 
+&emsp;(5) The words “National Geospatial-Intelligence Agency”, the initials “NGA,” or the seal of the National Geospatial-Intelligence Agency.
+
 (b)
 
 Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262.)
+(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569.)
 
 #### Codification
 
@@ -28,5 +30,11 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 
 #### Amendments
 
+2003—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
+
 1997—Subsec. (b). Pub. L. 105–107, §503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
+
+#### Change of Name
+
+Reference to National Imagery and Mapping Agency considered to be reference to National Geospatial-Intelligence Agency, see section 921(a) of Pub. L. 108–136, set out as a note under section 441 of this title.
 

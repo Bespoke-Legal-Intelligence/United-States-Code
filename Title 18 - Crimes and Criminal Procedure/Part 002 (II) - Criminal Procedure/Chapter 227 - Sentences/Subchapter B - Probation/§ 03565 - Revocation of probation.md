@@ -16,7 +16,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusa
 
 &emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a condition of probation prohibiting the defendant from possessing a firearm;
 
-&emsp;(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4);<sup>1</sup> or
+&emsp;(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4); <sup>1</sup> or
 
 &emsp;(4) as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
 

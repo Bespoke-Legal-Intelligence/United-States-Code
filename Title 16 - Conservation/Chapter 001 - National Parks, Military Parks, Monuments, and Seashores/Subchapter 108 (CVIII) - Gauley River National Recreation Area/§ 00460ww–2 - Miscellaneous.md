@@ -6,7 +6,7 @@ The Secretary may acquire lands or interests in lands within the boundaries of t
 
 #### (b) Jurisdiction
 
-Lands, waters and interests therein within the recreation area which are administered by any other agency of the United States and which arenot identified under section 460ww–1 of this title as directly related to the Summersville project and essential to the operation of that project shall be transferred without reimbursement to the administrative jurisdiction of the Secretary.
+Lands, waters and interests therein within the recreation area which are administered by any other agency of the United States and which are not identified under section 460ww–1 of this title as directly related to the Summersville project and essential to the operation of that project shall be transferred without reimbursement to the administrative jurisdiction of the Secretary.
 
 #### (c) Protection of existing project
 

@@ -52,7 +52,7 @@ The Secretary is authorized to provide financial, technical, and related assista
 
 #### (d) Program of education and technical assistance
 
-The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members ofthe public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
+The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
 
 &emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species, number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
 
@@ -146,7 +146,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;&emsp;&emsp;(II) 5, including 2 governmental employees, shall be appointed for a term of 2 years, and
 
-&emsp;&emsp;&emsp;&emsp;(III) 5, including 2 governmental employees, shall be appointed for a term of 1 year, as designated by the Secretary at the time of appointment.
+&emsp;&emsp;&emsp;&emsp;(III) 5, including 2 governmental employees, shall be appointed for a term of1 year, as designated by the Secretary at the time of appointment.
 
 #### (iii) Continuation
 
@@ -220,7 +220,7 @@ For the purposes of this section—
 
 #### (i) Authorization of appropriations
 
-There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
+There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
 
 (Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L. 101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905.)
 

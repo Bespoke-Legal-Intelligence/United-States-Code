@@ -46,7 +46,7 @@
 
 &emsp;(B) in each grade, year group, or specialty (or combination thereof) in each competitive category.
 
-(3) The total number of officers described in subsection (b)(4) from any of the armed forces (or from any of the armed forces in a particulargrade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
+(3) The total number of officers described in subsection (b)(4) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
 
 (4) An officer who is recommended for discharge by a selection board convened pursuant to the authority of subsection (b)(4) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
 
@@ -58,7 +58,7 @@
 
 #### References in Text
 
-Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(4)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
+Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(4)(C),is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
 
 #### Amendments
 

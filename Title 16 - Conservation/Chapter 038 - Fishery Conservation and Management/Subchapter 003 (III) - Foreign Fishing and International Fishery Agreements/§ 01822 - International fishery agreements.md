@@ -110,7 +110,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 (3) Not later than January 1, 1997, and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.
 
-(Pub. L. 94–265, title II, §202, Apr. 13, 1976, 90 Stat. 339; Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §§105(a), 120(a), Nov. 28, 1990, 104 Stat. 4439, 4459; Pub. L. 102–251, title III, §301(e), Mar. 9, 1992, 106 Stat. 63; Pub. L. 104–297, title I, §105(b), Oct. 11, 1996, 110 Stat. 3564.)
+(Pub. L. 94–265, title II, §202, Apr. 13, 1976, 90 Stat. 339; Pub. L. 99–659, title I, §101(c)(2), Nov.14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §§105(a), 120(a), Nov. 28, 1990, 104 Stat. 4439, 4459; Pub. L. 102–251, title III, §301(e), Mar. 9, 1992, 106 Stat. 63; Pub. L. 104–297, title I, §105(b), Oct. 11, 1996, 110 Stat. 3564.)
 
 #### Amendment of Section
 
@@ -196,7 +196,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 “The Secretary of Commerce, subject to the availability of appropriations authorized by section 10, shall establish a research program for Pacific and Atlantic sharks to engage in the following data collection and research:
 
-&emsp;“(1) The collection of data to support stock assessments of shark populations subject to incidental or directed harvesting by commercial vessels, giving priority to species according to vulnerability of the species to fishing gear and fishing mortality, and its population status.
+&emsp;“(1) The collection of data to support stock assessments of shark populations subject to incidental or directed harvesting by commercial vessels, givingpriority to species according to vulnerability of the species to fishing gear and fishing mortality, and its population status.
 
 &emsp;“(2) Research to identify fishing gear and practices that prevent or minimize incidental catch of sharks in commercial and recreational fishing.
 
@@ -278,7 +278,7 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 
 “The Congress finds that—
 
-&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement and death of enormous numbers of target and nontargetmarine resources in the waters of the North Pacific Ocean, including the Bering Sea;
+&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement and death of enormous numbers of target and nontarget marine resources in the waters of the North Pacific Ocean, including the Bering Sea;
 
 &emsp;“(2) there is a pressing need for detailed and reliable information on the number of marine resources that become entangled and die in actively fished driftnets and in driftnets that are lost, abandoned, or discarded; and
 
@@ -294,7 +294,7 @@ Driftnet.—The term ‘driftnet’ means a gillnet composed of a panel of plast
 
 &emsp;“(2)
 
-Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currentsand winds for the purpose of entangling fish in the webbing.
 
 &emsp;“(3)
 

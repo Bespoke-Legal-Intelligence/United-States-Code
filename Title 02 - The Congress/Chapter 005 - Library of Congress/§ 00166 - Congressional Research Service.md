@@ -30,7 +30,7 @@ It is the policy of Congress that—
 
 &emsp;(B) the positions of Specialist and Senior Specialist in the Congressional Research Service may be placed in GS–16, 17, and 18 of the General Schedule of section 5332 of title 5, without regard to section 5108(a) of such title, subject to the prior approval of the Joint Committee on the Library, of the placement of each such position in any of such grades.
 
-(3) Each appointment made under paragraphs (1) and (2) of this subsection and subsection (e) of this section shall be without regard to the civil service laws, without regard to political affiliation, and solely on the basis of fitness to perform the duties of the position.
+(3) Each appointment made under paragraphs (1) and (2) of this subsection and subsection (e) of this section shall be without regard to thecivil service laws, without regard to political affiliation, and solely on the basis of fitness to perform the duties of the position.
 
 #### (d) Duties of Service; assistance to Congressional committees; list of terminating programs and subjects for analysis; legislative data, studies, etc.; information research; digest of bills, preparation; legislation, purpose and effect, and preparation of memoranda; information and research capability, development
 
@@ -158,11 +158,11 @@ The civil service laws, referred to in subsec. (c)(3), are set forth in Title 5,
 
 #### Amendments
 
-1999—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5.”
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–57 substituted second sentence for former second sentence which read as follows: “The basic pay of the Director shall be at a per annum rate equal to the rate of basic pay provided for level V of the Executive Schedule contained in section 5316 of title 5.”
 
-1985—Subsec. (g). Pub. L. 99–190 amended subsec. (g) generally. Prior to amendment subsec. (g) read as follows: “In order to facilitate the study, consideration, evaluation, and determination by the Congress of the budget requirements of the Congressional Research Service for each fiscal year, the Librarian of Congress shall receive from the Director and submit, for inclusion in the Budget of the United States Government, the budget estimates of the Congressional Research Service which shall be prepared separately by the Director in detail for each fiscal year as a separate item of the budget estimates of the Library of Congress for such fiscal year.”
+<b>1985</b>—Subsec. (g). Pub. L. 99–190 amended subsec. (g) generally. Prior to amendment subsec. (g) read as follows: “In order to facilitate the study, consideration, evaluation, and determination by the Congress of the budget requirements of the Congressional Research Service for each fiscal year, the Librarian of Congress shall receive from the Director and submit, for inclusion in the Budget of the United States Government, the budget estimates of the Congressional Research Service which shall be prepared separately by the Director in detail for each fiscal year as a separate item of the budget estimates of the Library of Congress for such fiscal year.”
 
-1970—Subsec. (a). Pub. L. 91–510 substituted provision for continuation of Legislative Reference Service, redesignated “Congressional Research Service”, for prior authorization for establishment of Legislative Reference Service and deleted second sentence, cls. (1) to (3), prescribing as duties of such Service for the Congress and its committees, the giving of advice and assistance, making data available, and preparing summaries and digests of public hearings before committees and of bills and resolutions of public nature, which was incorporated in subsec. (d)(1), (d)(4), and (d)(6), respectively, of this section.
+<b>1970</b>—Subsec. (a). Pub. L. 91–510 substituted provision for continuation of Legislative Reference Service, redesignated “Congressional Research Service”, for prior authorization for establishment of Legislative Reference Service and deleted second sentence, cls. (1) to (3), prescribing as duties of such Service for the Congress and its committees, the giving of advice and assistance, making data available, and preparing summaries and digests of public hearings before committees and of bills and resolutions of public nature, whichwas incorporated in subsec. (d)(1), (d)(4), and (d)(6), respectively, of this section.
 
 Subsec. (b). Pub. L. 91–510 added subsec. (b). Former subsec. (b)(1) provided for appointment of director, assistant director, and other necessary personnel of Legislative Reference Service, without regard to civil-service laws, without reference to political affiliations, on ground of fitness to perform duties of the office, for compensation in accordance with Classification Act of 1949, with a prescribed minimum for senior specialists in the various fields, and made all employees of the Service subject to civil-service retirement laws, now incorporated in subsec. (c)(1), (2)(A), and (3) of this section and sections 8331(1)(viii) and 8347(j) of Title 5, Government Organization and Employees. Former subsec. (b)(2) provided for appointment of senior specialists in certain enumerated fields and was covered in subsec. (e) of this section.
 
@@ -176,7 +176,7 @@ Subsecs. (f) to (i). Pub. L. 91–510 added subsecs. (f) to (i).
 
 Subsec. (j). Pub. L. 91–510 incorporated in provisions added as subsec. (j) appropriations authorization of section 203(c) of Act Aug. 2, 1946, which had also provided $550,000, $650,000, and $750,000, for fiscal years ending June 30, 1947, 1948, and 1949, respectively.
 
-1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
 #### Effective Date of 1999 Amendment
 

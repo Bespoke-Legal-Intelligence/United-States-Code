@@ -56,7 +56,7 @@
 
 &emsp;If any amendment made by this subsection requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after the effective date of this section, if—
 
-&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effect and before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
+&emsp;&emsp;(A) during the period after such amendment made by this subsection takes effectand before such first plan year, the plan is operated in good faith compliance with the requirements of such amendment made by this subsection, and
 
 &emsp;&emsp;(B) such plan amendment applies retroactively to the period after such amendment made by this subsection takes effect and before such first plan year.
 

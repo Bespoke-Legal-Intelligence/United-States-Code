@@ -40,7 +40,7 @@ A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, §6156; renumbe
 
 Pub. L. 97–248, §271(b)(2)(C), substituted “0.8” for “0.7”.
 
-1976—Subsec. (a). Pub. L. 94–566, §114(b), amended subsec. (a) generally, changing the general rule coveringpayment of Federal unemployment tax on a quarterly or other time period basis to conform to the altered definitions of employment and wages pertaining to domestic and agricultural service in section 3306 of this title.
+1976—Subsec. (a). Pub. L. 94–566, §114(b), amended subsec. (a) generally, changing the general rule covering payment of Federal unemployment tax on a quarterly or other time period basis to conform to the altered definitions of employment and wages pertaining to domestic and agricultural service in section 3306 of this title.
 
 Pub. L. 94–455, §1906(a)(11)(B), (b)(13)(A), substituted “subsection (c)” for “subsections (c) and (d)” and struck out “or his delegate” after “Secretary”.
 

@@ -34,7 +34,7 @@ The exemptions provided under subsections (d), (e), and (f) of section 2006 of t
 
 &emsp;&emsp;&emsp;(v) beliefs, affiliations, opinions, or lawful activities regarding unions or labor organizations; and
 
-&emsp;&emsp;(D) the examiner does not conduct the test if there is sufficient written evidence by a physician that the examinee is suffering from a medical or psychological condition or undergoing treatment that might cause abnormal responses during the actual testing phase.
+&emsp;&emsp;(D) the examiner does not conduct the test if there is sufficient written evidence by aphysician that the examinee is suffering from a medical or psychological condition or undergoing treatment that might cause abnormal responses during the actual testing phase.
 
 #### (2) Pretest phase
 

@@ -56,9 +56,11 @@ Grants made under subsection (a) of this section may include programs, projects,
 
 &emsp;(9) develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
-&emsp;(10) establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members; and
+&emsp;(10) assist a State in enforcing a law throughout the State which requires that a convicted sex offender register his or her address with a State or local law enforcement agency and be subject to criminal prosecution for failure to comply;
 
-&emsp;(11) support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing.
+&emsp;(11) establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members; and
+
+&emsp;(12) support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing.
 
 #### (e) Preferential consideration of applications for certain grants
 
@@ -98,7 +100,7 @@ The funds available under this subchapter shall be allocated as provided in sect
 
 The authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments to this subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665.)
 
 #### References in Text
 
@@ -109,6 +111,8 @@ The Public Safety Partnership and Community Policing Act of 1994, referred to in
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments
+
+2003—Subsec. (d)(10) to (12). Pub. L. 108–21 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
 1998—Subsec. (d)(8) to (11). Pub. L. 105–302 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
@@ -126,7 +130,7 @@ Section 10002 of title I of Pub. L. 103–322 provided that: “The purposes of 
 
 &emsp;“(1) substantially increase the number of law enforcement officers interacting directly with members of the community (‘cops on the beat’);
 
-&emsp;“(2) provide additional and more effective training to law enforcement officers to enhance their problem solving, service, and other skills needed in interacting with members of the community;
+&emsp;“(2) provide additional and more effective training to law enforcement officers to enhance their problemsolving, service, and other skills needed in interacting with members of the community;
 
 &emsp;“(3) encourage the development and implementation of innovative programs to permit members of the community to assist State, Indian tribal government, and local law enforcement agencies in the prevention of crime in the community; and
 
@@ -136,7 +140,7 @@ Section 10002 of title I of Pub. L. 103–322 provided that: “The purposes of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3793, 3796dd–1 of this title.
+This section is referred to in sections 3793, 3796dd–1, 14071 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “year; and”.</i>
 

@@ -354,7 +354,7 @@ Subsec. (a)(23) to (25). Pub. L. 104–304, §3(a)(3), added pars. (23) to (25).
 
 Subsec. (b)(1)(A). Pub. L. 104–304, §20(f), substituted “prescribe standards defining” for “define by regulation”.
 
-Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24,1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
+Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24, 1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
 
 #### Effective Date of 1994 Amendment
 
@@ -366,7 +366,7 @@ Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: “This
 
 #### Short Title of 1996 Amendment
 
-Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
+Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amendingthis section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
 
 #### Pipeline Integrity, Safety, and Reliability Research and Development
 

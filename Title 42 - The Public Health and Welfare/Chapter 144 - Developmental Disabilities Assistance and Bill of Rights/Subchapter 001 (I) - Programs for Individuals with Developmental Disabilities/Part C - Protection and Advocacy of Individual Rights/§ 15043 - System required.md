@@ -22,7 +22,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;&emsp;(i) the goals and priorities established by the system and the rationale for the establishment of such goals; and
 
-&emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination of services with the entities carrying out advocacy programs under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and theProtection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.), and with entities carrying out other related programs, including the parent training and information centers funded under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and activities authorized under section 3011 or 3012 of title 29;
+&emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination of services with the entities carrying out advocacy programs under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.), and with entities carrying out other related programs, including the parent training and information centers funded under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and activities authorized under section 3011 or 3012 of title 29;
 
 &emsp;&emsp;(E) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with developmental disabilities have full access to services of the system;
 
@@ -72,7 +72,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;(3) to the extent that information is available, the State shall provide to the system—
 
-&emsp;&emsp;(A) a copy of each independent review, pursuant to section 1396a(a)(30)(C) of this title, of an Intermediate Care Facility (Mental Retardation) within the State, not later than 30 days after the availability of such a review; and
+&emsp;&emsp;(A) a copy of each independent review, pursuant to section 1396a(a)(30)(C) of this title, of an Intermediate Care Facility (Mental Retardation) within the State, not later than30 days after the availability of such a review; and
 
 &emsp;&emsp;(B) information about the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under section 1396n(c) of this title) receive; and
 

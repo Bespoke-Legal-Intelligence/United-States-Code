@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entitiesmust meet to qualify as provider-sponsored organizations under this part.
+&emsp;&emsp;The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entities must meet to qualify as provider-sponsored organizations under this part.
 
 #### (B) Factors to consider for solvency standards
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish by regulation other standards (not described in subsection (a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
+&emsp;The Secretary shall establish by regulation other standards (not described in subsection\(a) of this section) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998. In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
 
 #### (2) Use of current standards
 
@@ -70,35 +70,27 @@
 
 #### (3) Relation to State laws
 
-#### (A) In general
-
-&emsp;&emsp;The standards established under this subsection shall supersede any State law or regulation (including standards described in subparagraph (B)) with respect to Medicare+�Choice plans which are offered by Medicare+�Choice organizations under this part to theextent such law or regulation is inconsistent with such standards.
-
-#### (B) Standards specifically superseded
-
-&emsp;&emsp;State standards relating to the following are superseded under this paragraph:
-
-&emsp;&emsp;&emsp;(i) Benefit requirements (including cost-sharing requirements).
-
-&emsp;&emsp;&emsp;(ii) Requirements relating to inclusion or treatment of providers.
-
-&emsp;&emsp;&emsp;(iii) Coverage determinations (including related appeals and grievance processes).
-
-&emsp;&emsp;&emsp;(iv) Requirements relating to marketing materials and summaries and schedules of benefits regarding a Medicare+Choice plan.
+&emsp;The standards established under this part shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to MA plans which are offered by MA organizations under this part.
 
 #### (4) Prohibition of midyear implementation of significant new regulatory requirements
 
 &emsp;The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1856, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 317; amended Pub. L. 106–554, §1(a)(6) \[title VI, §§612(a), 614(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–560; Pub. L. 108–173, title II, §232(a), Dec. 8, 2003, 117 Stat. 2208.)
 
 #### Amendments
+
+2003—Subsec. (b)(3). Pub. L. 108–173 reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) stating general rule and listing standards specifically superseded.
 
 2000—Subsec. (b)(3)(B)(i). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(1)\], inserted “(including cost-sharing requirements)” after “Benefit requirements”.
 
 Subsec. (b)(3)(B)(iv). Pub. L. 106–554, §1(a)(6) \[title VI, §614(a)(2)\], added cl. (iv).
 
 Subsec. (b)(4). Pub. L. 106–554, §1(a)(6) \[title VI, §612(a)\], added par. (4).
+
+#### Change of Name
+
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -108,5 +100,5 @@ Pub. L. 106–554, §1(a)(6) \[title VI, §614(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–21, 1395w–22, 1395w–25, 1395w–28, 1395mm of this title.
+This section is referred to in sections 1395w–21, 1395w–22, 1395w–25, 1395w–28, 1395w–112, 1395mm of this title.
 

@@ -66,7 +66,7 @@ Section 7733(e) of Pub. L. 101–239 provided that: “The amendments made by th
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–44 effective as if included in the amendments made by section 179(b) of Pub. L. 98–369, see section 6(a) of Pub. L. 99–44, set out as a note under section 274 of this title.
+Amendment by Pub. L. 99–44 effective as if included in the amendments made by section 179(b) of Pub. L.98–369, see section 6(a) of Pub. L. 99–44, set out as a note under section 274 of this title.
 
 #### Effective Date of 1984 Amendment
 

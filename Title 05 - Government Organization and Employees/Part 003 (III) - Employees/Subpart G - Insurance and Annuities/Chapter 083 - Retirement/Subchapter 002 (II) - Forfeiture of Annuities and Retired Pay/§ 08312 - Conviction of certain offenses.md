@@ -60,7 +60,7 @@
 
 &emsp;(2) An offense within the purview of a current article of the Uniform Code of Military Justice (chapter 47 of title 10) or an earlier article on which the current article is based, as the case may be, on the basis of charges and specifications describing a violation of a statute named by paragraph (1), (3), or (4) of this subsection, if the executed sentence includes death, dishonorable discharge, or dismissal from the service, or if the defendant dies before execution of that sentence as finally approved.
 
-&emsp;(3) Perjury committed under the statutes of the United States or the District of Columbia in falsely denying the commission of an act which constitutes an offense within the purview of a statute named by paragraph (1) of this subsection.
+&emsp;(3) Perjury committed under the statutes of the United States or the District of Columbia in falsely denying the commission of an actwhich constitutes an offense within the purview of a statute named by paragraph (1) of this subsection.
 
 &emsp;(4) Subornation of perjury committed in connection with the false denial of another individual as specified by paragraph (3) of this subsection.
 

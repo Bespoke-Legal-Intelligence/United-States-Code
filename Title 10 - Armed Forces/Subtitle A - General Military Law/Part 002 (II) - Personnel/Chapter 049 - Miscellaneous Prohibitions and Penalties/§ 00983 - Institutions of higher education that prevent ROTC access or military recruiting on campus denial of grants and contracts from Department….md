@@ -12,7 +12,7 @@ Denial of Funds for Preventing ROTC Access to Campus.—No funds described in su
 
 Denial of Funds for Preventing Military Recruiting on Campus.—No funds described in subsection (d)(2) may be provided by contract or by grant (including a grant of funds to be available for student aid) to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-&emsp;(1) the Secretary of a military department or Secretary of Transportation from gaining entry to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting; or
+&emsp;(1) the Secretary of a military department or Secretary of Homeland Security from gaining entry to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting; or
 
 &emsp;(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
 
@@ -40,7 +40,7 @@ Covered Funds.—(1) The limitation established in subsection (a) applies to the
 
 &emsp;(A) Funds described in paragraph (1).
 
-&emsp;(B) Any funds made available for the Department of Transportation.
+&emsp;(B) Any funds made available for the Department of Homeland Security.
 
 (e)
 
@@ -54,7 +54,7 @@ Notice of Determinations.—Whenever the Secretary of Defense makes a determinat
 
 Semiannual Notice in Federal Register.—The Secretary of Defense shall publish in the Federal Register once every six months a list of each institution of higher education that is currently ineligible for contracts and grants by reason of a determination of the Secretary under subsection (a) or (b).
 
-(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609.)
+(Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Prior Provisions
 
@@ -62,9 +62,17 @@ Provisions similar to those in this section were contained in Pub. L. 103–337,
 
 #### Amendments
 
+2002—Subsec. (b)(1). Pub. L. 107–296, §1704(b)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+
+Subsec. (d)(2)(B). Pub. L. 107–296, §1704(b)(3), substituted “Department of Homeland Security” for “Department of Transportation”.
+
 1999—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Funds Available Solely for Student Financial Assistance
 
-Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that: “During the current fiscal year and hereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs may be used for the purpose for which the grant is made without regard to any provision to the contrary in section 514 of the Departments of Labor, Health andHuman Services, Education, and Related Agencies Appropriations Act, 1997 (\[former\] 10 U.S.C. 503 note), or section 983 of title 10, United States Code.”
+Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that: “During the current fiscal year and hereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs may be used for the purpose for which the grant is made without regard to any provision to the contrary in section 514 of the Departments of Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 1997 (\[former\] 10 U.S.C. 503 note), or section 983 of title 10, United States Code.”
 

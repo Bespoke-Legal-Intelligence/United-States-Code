@@ -1,6 +1,6 @@
 ### §1381. Statement of purpose; authorization of appropriations
 
-For the purpose of establishing a national program to provide supplemental security income to individuals who have attained age 65 or are blind or disabled, there are authorized to be appropriated sums sufficient to carry out this subchapter.
+For the purpose of establishing a national program to provide supplemental security incometo individuals who have attained age 65 or are blind or disabled, there are authorized to be appropriated sums sufficient to carry out this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1601, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465.)
 

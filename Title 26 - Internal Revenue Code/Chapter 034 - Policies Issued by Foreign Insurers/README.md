@@ -71,7 +71,7 @@ A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958,
 
 A prior section 4342, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, granted exemptions in the case of delivery or transfer of instruments by a fiduciary to his nominee or between nominees or by a custodian.
 
-A prior section 4343, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, provided that taxes imposed by sections 4321 and 4331 would not apply in specified cases involving decedents, minors, incompetents, financial institutions, bankrupts, successors, foreign governments and aliens, trustees, and survivors.
+A prior section 4343, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1297, provided that taxes imposed by sections 4321and 4331 would not apply in specified cases involving decedents, minors, incompetents, financial institutions, bankrupts, successors, foreign governments and aliens, trustees, and survivors.
 
 A prior section 4344, Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Stat. 1298, made provision for an exemption from tax in the case of specified loan transactions, worthless stock and obligations, and transfers between certain revocable trusts.
 

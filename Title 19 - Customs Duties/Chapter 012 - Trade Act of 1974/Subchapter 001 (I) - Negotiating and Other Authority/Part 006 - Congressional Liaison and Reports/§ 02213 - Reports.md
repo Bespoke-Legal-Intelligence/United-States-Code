@@ -30,7 +30,7 @@
 
 &emsp;(J) other information relating to the trade agreements program and to the agreements entered into thereunder; and
 
-&emsp;(K) the number of applications filed for adjustment assistance for workers and firms, the number of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
+&emsp;(K) the number of applications filed for adjustment assistance for workers and firms, thenumber of such applications which were approved, and the extent to which adjustment assistance has been provided under such approved applications.
 
 (3)(A) The national trade policy agenda required under paragraph (1)(B) for the year in which a report is submitted shall be in the form of a statement of—
 
@@ -101,6 +101,18 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “
 #### Amendments
 
 1988—Pub. L. 100–418 amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
+
+#### Delegation of Functions
+
+Memorandum of President of the United States, Mar. 1, 2004, 69 F.R. 10133, provided:
+
+Memorandum for the United States Trade Representative
+
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions conferred upon the President by section 163 of the Trade Act of 1974, as amended (19 U.S.C. 2213), to provide the specified report to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Trade Deficit Review Commission
 
@@ -234,7 +246,7 @@ Issues to be addressed.—The Commission shall examine and report to the Preside
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) any impact of the merchandise trade and current account deficits on the defense production and innovation capabilities of the United States; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) trade deficits within individual industrial, manufacturing, and production sectors, and any relationship between such deficits and the increasing volume of intra-industry and intra-company transactions;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) trade deficits within individual industrial, manufacturing, and production sectors,and any relationship between such deficits and the increasing volume of intra-industry and intra-company transactions;
 
 &emsp;&emsp;&emsp;“(ii) a review of the adequacy and accuracy of the current collection and reporting of import and export data, and the identification and development of additional data bases and economic measurements that may be needed to properly quantify the merchandise trade and current account balances, and any impact the merchandise trade and current account balances may have on the United States economy; and
 
@@ -252,7 +264,7 @@ Issues to be addressed.—The Commission shall examine and report to the Preside
 
 &emsp;&emsp;&emsp;“(v) any effect that international trade, labor, environmental, or other agreements may have on United States competitiveness.
 
-&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its tradingpartners may impact on United States merchandise trade and current account deficits.
+&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its trading partners may impact on United States merchandise trade and current account deficits.
 
 &emsp;&emsp;“(G) The impact that currency exchange rate fluctuations and any manipulation of exchange rates may have on United States merchandise trade and current account deficits.
 
@@ -340,7 +352,7 @@ Support Services.—The Administrator of the General Services Administration sha
 
 “(i)
 
-Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisions of this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
+Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisionsof this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
 
 “(j)
 

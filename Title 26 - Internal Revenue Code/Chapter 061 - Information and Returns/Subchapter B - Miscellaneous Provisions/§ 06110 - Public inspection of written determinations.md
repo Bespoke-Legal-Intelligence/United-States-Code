@@ -72,7 +72,7 @@ Before making any written determination or background file document open or avai
 
 #### (e) Background file documents
 
-Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of that person, any background file document relating to the written determination.
+Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of thatperson, any background file document relating to the written determination.
 
 #### (f) Resolution of disputes relating to disclosure
 
@@ -122,7 +122,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (6) Publicity of Tax Court proceedings
 
-&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connection with proceedings under this section may be closed to the public or to inspection by the public.
+&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connectionwith proceedings under this section may be closed to the public or to inspection by the public.
 
 #### (g) Time for disclosure
 
@@ -156,7 +156,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;Notwithstanding the provisions of paragraph (1), the Secretary shall not be required to make available to the public—
 
-&emsp;&emsp;(A) any technical advice memorandum, any Chief Counsel advice, and any relatedbackground file document involving any matter which is the subject of a civil fraud or criminal investigation or jeopardy or termination assessment until after any action relating to such investigation or assessment is completed, or
+&emsp;&emsp;(A) any technical advice memorandum, any Chief Counsel advice, and any related background file document involving any matter which is the subject of a civil fraud or criminal investigation or jeopardy or termination assessment until after any action relating to such investigation or assessment is completed, or
 
 &emsp;&emsp;(B) any general written determination and any related background file document that relates solely to approval of the Secretary of any adoption or change of—
 
@@ -278,7 +278,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;The Secretary is authorized to assess actual costs—
 
-&emsp;&emsp;(A) for duplication of any written determination or background file document made open or available to the public under this section, and
+&emsp;&emsp;(A) for duplication of any written determination or background file document madeopen or available to the public under this section, and
 
 &emsp;&emsp;(B) incurred in searching for and making deletions required under subsection (c)(1) or (i)(3) from any written determination or background file document which is available to public inspection only upon written request.
 
@@ -384,7 +384,7 @@ Transition rules.—The amendments made by this section shall apply to any Chief
 
 “(3)
 
-Documents treated as chief counsel advice.—If the Secretary of the Treasury by regulation providespursuant to section 6110(i)(2) of the Internal Revenue Code of 1986, as added by this section, that any additional advice or instruction issued by the Office of Chief Counsel shall be treated as Chief Counsel advice, such additional advice or instruction shall be made available for public inspection pursuant to section 6110 of such Code, as amended by this section, only in accordance with the effective date set forth in such regulation.
+Documents treated as chief counsel advice.—If the Secretary of the Treasury by regulation provides pursuant to section 6110(i)(2) of the Internal Revenue Code of 1986, as added by this section, that any additional advice or instruction issued by the Office of Chief Counsel shall be treated as Chief Counsel advice, such additional advice or instruction shall be made available for public inspection pursuant to section 6110 of such Code, as amended by this section, only in accordance with the effective date set forth in such regulation.
 
 “(4)
 

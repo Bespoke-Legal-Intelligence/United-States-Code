@@ -22,7 +22,7 @@
 
 (f)(1) The Secretary is authorized to convey to any State, or political subdivision thereof, in which any national cemetery is located, all right, title, and interest of the United States in and to any Government owned or controlled approach road to such cemetery if, prior to the delivery of any instrument of conveyance, the State or political subdivision to which such conveyance is to be made notifies the Secretary in writing of its willingness to accept and maintain the road included in such conveyance. Upon the execution and delivery of such a conveyance, the jurisdiction of the United States over the road conveyed shall cease and thereafter vest in the State or political subdivision concerned.
 
-(2) The Secretary may, to the extent of appropriated funds available for such purpose, make a contribution to local authorities for the construction of road improvements or traffic controls or other devices on land adjacent to a national cemetery if the Secretary determines that such a contribution is essential to ensure safe ingress to or egress from the cemetery.
+(2) The Secretary may, to the extent of appropriated funds available for such purpose, make acontribution to local authorities for the construction of road improvements or traffic controls or other devices on land adjacent to a national cemetery if the Secretary determines that such a contribution is essential to ensure safe ingress to or egress from the cemetery.
 
 (g) Notwithstanding any other provision of law, the Secretary may at such time as the Secretary deems desirable, relinquish to the State in which any cemetery, monument, or memorial under the Secretary's jurisdiction is located, such portion of legislative jurisdiction over the lands involved as is necessary to establish concurrent jurisdiction between the Federal Government and the State concerned. Such partial relinquishment of jurisdiction under the authority of this subsection may be made by filing with the Governor of the State involved a notice of such relinquishment and shall take effect upon acceptance thereof by the State in such manner as its laws may prescribe.
 
@@ -72,7 +72,7 @@ Section 6 of Pub. L. 93–43 provided that:
 
 \[Section 6 of Pub. L. 93–43 effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as an Effective Date note under section 2306 of this title.\]
 
-\[The United States Soldiers’ and Airmen's Home and the United States Naval Home were incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.\]
+\[The United States Soldiers’ and Airmen's Home and the United States Naval Home were incorporated intothe Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.\]
 
 #### Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) available office space, warehousing, wharfage, and means of communication, without charge.
 
-(c) No fee may be charged for a passport issued to an employee of the American National RedCross for travel outside the United States to assume or perform duties under this section.
+(c) No fee may be charged for a passport issued to an employee of the American National Red Cross for travel outside the United States to assume or perform duties under this section.
 
 (d) Supplies of the American National Red Cross, including gifts for the use of the armed forces, may be transported at the expense of the United States, if it is determined under regulations prescribed under subsection (a) that they are necessary to the cooperation and assistance accepted under this section.
 
@@ -50,7 +50,7 @@ July 17, 1953, ch. 222, §§1, 2, 7, 67 Stat. 178, 179.
 
 In subsection (a), the words “finds it necessary” are substituted for the words “shall find the \* \* \* to be necessary”. The words “cooperation and assistance” are substituted for the words “cooperation and use \* \* \* assistance \* \* \* the same”. The words “under regulations to be prescribed by the Secretary of Defense” are substituted for 36:17 (last sentence). The words “tendered by the said Red Cross” are omitted as surplusage.
 
-In subsection (b), the introductory clause is substituted for 36:17a (1st 33 words). In clause (1), the word “expense” is substituted for the words “cost and charge”. The words “traveling to and from, and while performing, those duties” are substituted for the words “proceeding to their place of duty, while serving thereat, and while returning therefrom”. In clause (2), the words “at their expense or at the expense of” are substituted for the words “providing the cost thereof is borne by such personnel or by”. The words “quartered without charge” are substituted for the words “furnished quarters on the same basis without cost”. In clause (3), the words “when such facilities are” are omitted as surplusage.
+In subsection (b), the introductory clause is substituted for 36:17a (1st 33 words). In clause (1), the word “expense” is substituted for the words “cost and charge”. The words “traveling to and from, and while performing, those duties” are substituted for the words “proceeding to their place of duty, while serving thereat, and while returning therefrom”. In clause (2), the words “at their expense or at the expense of” are substituted for the words “providing the cost thereof isborne by such personnel or by”. The words “quartered without charge” are substituted for the words “furnished quarters on the same basis without cost”. In clause (3), the words “when such facilities are” are omitted as surplusage.
 
 In subsection (c), the words “for travel outside the United States to assume or perform” are substituted for the words “so serving or proceeding abroad to enter upon such service”.
 

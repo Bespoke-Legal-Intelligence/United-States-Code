@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;No agency or subdivision of an agency which is transferred to the Department pursuant to this chapter shall be excluded from the coverage of chapter 71 of title 5 as a result of any order issued under section 7103(b)(1) of such title 5 after June 18, 2002, unless—
+&emsp;No agency or subdivision of an agency which is transferred to the Department pursuant tothis chapter shall be excluded from the coverage of chapter 71 of title 5 as a result of any order issued under section 7103(b)(1) of such title 5 after June 18, 2002, unless—
 
 &emsp;&emsp;(A) the mission and responsibilities of the agency (or subdivision) materially change; and
 

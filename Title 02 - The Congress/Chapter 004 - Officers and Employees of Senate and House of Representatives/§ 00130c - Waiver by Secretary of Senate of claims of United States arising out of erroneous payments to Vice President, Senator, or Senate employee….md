@@ -28,13 +28,13 @@ This section does not affect any authority under any other law to litigate, sett
 
 The Secretary of the Senate shall promulgate rules and regulations to carry out the provisions of this section.
 
-(Pub. L. 93–359, §2, July 25, 1974, 88 Stat. 394; Pub. L. 103–69, title III, §315, Aug. 11, 1993, 107Stat. 713; Pub. L. 104–316, title I, §102(b), Oct. 19, 1996, 110 Stat. 3828.)
+(Pub. L. 93–359, §2, July 25, 1974, 88 Stat. 394; Pub. L. 103–69, title III, §315, Aug. 11, 1993, 107 Stat. 713; Pub. L. 104–316, title I, §102(b), Oct. 19, 1996, 110 Stat. 3828.)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–316 in first sentence struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” after “in part by the Secretary of the Senate”, and in third sentence substituted “$1,500 may also” for “$1,500 shall also”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316 in first sentence struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” after “in part by the Secretary of the Senate”, and in third sentence substituted “$1,500 may also” for “$1,500 shall also”.
 
-1993—Subsec. (a). Pub. L. 103–69 substituted “$1,500” for “$500”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–69 substituted “$1,500” for “$500”.
 
 #### Effective Date of 1996 Amendment
 

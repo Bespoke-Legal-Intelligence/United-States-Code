@@ -28,7 +28,7 @@ The compensation provided under this section, when authorized or approved by the
 
 &emsp;(D) If there is no surviving spouse described in subparagraph (A), and if there are no children described in subparagraph (B) or parents described in subparagraph (C), such payment shall be made in equal shares to all grandchildren of the covered employee who are living at the time of payment.
 
-&emsp;(E) If there is no surviving spouse described in subparagraph (A), and if there are no children described in subparagraph (B), parents described in subparagraph (C), or grandchildren described in subparagraph (D), then such payment shall be made in equal shares to the grandparents of the covered employee who are living at the time of payment.
+&emsp;(E) If there is no surviving spouse described in subparagraph (A), and if there are no children described in subparagraph (B), parents described in subparagraph (C), or grandchildren described in subparagraph (D), thensuch payment shall be made in equal shares to the grandparents of the covered employee who are living at the time of payment.
 
 &emsp;(F) Notwithstanding the other provisions of this paragraph, if there is—
 

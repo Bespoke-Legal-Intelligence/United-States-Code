@@ -188,7 +188,7 @@ For purposes of subsection (a)(4), the term “facilities for the furnishing of 
 
 &emsp;(1) the water is or will be made available to members of the general public (including electric utility, industrial, agricultural, or commercial users), and
 
-&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivisionthereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
+&emsp;(2) either the facility is operated by a governmental unit or the rates for the furnishing or sale of the water have been established or approved by a State or political subdivision thereof, by an agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision thereof.
 
 #### (f) Local furnishing of electric energy or gas
 
@@ -268,7 +268,7 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system” means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
+&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system”means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
 
 &emsp;&emsp;&emsp;(i) residential, commercial, or industrial heating or cooling, or
 
@@ -276,7 +276,7 @@ For purposes of subsection (a)(8)—
 
 #### (B) Local system
 
-&emsp;&emsp;For purposes of this paragraph, a local system includes facilities furnishing heatingand cooling to an area consisting of a city and 1 contiguous county.
+&emsp;&emsp;For purposes of this paragraph, a local system includes facilities furnishing heating and cooling to an area consisting of a city and 1 contiguous county.
 
 #### (h) Qualified hazardous waste facilities
 
@@ -368,7 +368,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 #### (A) In general
 
-&emsp;&emsp;An issue shall not be treated as an issue described in subsection (a)(13) if the aggregate face amount of bonds issued by theState pursuant thereto (when added to the aggregate face amount of bonds previously so issued during the calendar year) exceeds an amount equal to the greater of—
+&emsp;&emsp;An issue shall not be treated as an issue described in subsection (a)(13) if the aggregate face amount of bonds issued by the State pursuant thereto (when added to the aggregate face amount of bonds previously so issued during the calendar year) exceeds an amount equal to the greater of—
 
 &emsp;&emsp;&emsp;(i) $10 multiplied by the State population, or
 
@@ -456,7 +456,7 @@ Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
 
 Pub. L. 107–16, title IV, §422(f), June 7, 2001, 115 Stat. 66, provided that: “The amendments made by this section \[amending this section and sections 146 and 147 of this title\] shall apply to bonds issued after December 31, 2001.”
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010,and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 

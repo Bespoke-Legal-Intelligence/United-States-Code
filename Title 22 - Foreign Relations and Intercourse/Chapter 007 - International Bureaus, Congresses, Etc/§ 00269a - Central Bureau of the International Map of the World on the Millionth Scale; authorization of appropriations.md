@@ -8,6 +8,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
 
+Pub. L. 108–7, div. B, title IV, Feb. 20, 2003, 117 Stat. 88, 89.
+
 Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 786, 787.
 
 Pub. L. 106–553, §1(a)(2) \[title IV\], Dec. 21, 2000, 114 Stat. 2762, 2762A–92, 2762A–94.

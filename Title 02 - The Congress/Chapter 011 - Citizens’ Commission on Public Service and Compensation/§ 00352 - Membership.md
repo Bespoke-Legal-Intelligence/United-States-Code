@@ -38,7 +38,7 @@
 
 (8)(A) The terms of office of persons first appointed as members of the Commission shall be for the period of the 1993 fiscal year of the Federal Government, and shall begin not later than February 14, 1993.
 
-(B) After the close of the 1993 fiscal year of the Federal Government, persons shall be appointed as members of the Commission with respect to every fourth fiscal year following the 1993 fiscalyear. The terms of office of persons so appointed shall be for the period of the fiscal year with respect to which the appointment is made, except that, if any appointment is made after the beginning and before the close of any such fiscal year, the term of office based on such appointment shall be for the remainder of such fiscal year.
+(B) After the close of the 1993 fiscal year of the Federal Government, persons shall be appointed as members of the Commission with respect to every fourth fiscal year following the 1993 fiscal year. The terms of office of persons so appointed shall be for the period of the fiscal year with respect to which the appointment is made, except that, if any appointment is made after the beginning and before the close of any such fiscal year, the term of office based on such appointment shall be for the remainder of such fiscal year.
 
 (C)(i) Notwithstanding any provision of subparagraph (A) or (B), members of the Commission may continue to serve after the close of a fiscal year, if the date designated by the President under section 357 of this title (relating to the date by which the Commission is to submit its report to the President) is subsequent to the close of such fiscal year, and only if or to the extent necessary to allow the Commission to submit such report.
 
@@ -48,13 +48,13 @@
 
 #### References in Text
 
-The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title, prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
+The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60Stat. 839, which was classified generally to chapter 8A (§261 et seq.) of this title, prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1989—Pub. L. 101–194 amended section generally, substituting pars. (1) to (8) for former pars. (1) to (5).
+<b>1989</b>—Pub. L. 101–194 amended section generally, substituting pars. (1) to (8) for former pars. (1) to (5).
 
-1985—Par. (3). Pub. L. 99–190 inserted “and with respect to fiscal year 1987” at end of first sentence.
+<b>1985</b>—Par. (3). Pub. L. 99–190 inserted “and with respect to fiscal year 1987” at end of first sentence.
 
 #### Section Referred to in Other Sections
 

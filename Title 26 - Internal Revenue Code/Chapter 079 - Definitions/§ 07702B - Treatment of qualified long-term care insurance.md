@@ -306,13 +306,13 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 (Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826.)
 
-#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2003
+#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2004
 
-<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2003, see section 3.33 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2004, see section 3.34 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat.620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -360,7 +360,7 @@ Continuation of existing policies.—In the case of any contract issued before J
 
 “(3)
 
-Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and before January 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of themoney and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
+Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and before January 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
 
 “(4)
 
@@ -382,5 +382,5 @@ Section 321(g) of Pub. L. 104–191 provided that: “The Chairman of the Commit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 106, 162, 213, 220, 807, 818, 4980B, 4980C of this title; title 5 sections 9001, 9002; title 12 section 1715z–20; title 29 section 1167; title 42 section 300bb–8.
+This section is referred to in sections 101, 106, 162, 213, 220, 223, 807, 818, 4980B, 4980C of this title; title 5 sections 9001, 9002; title 12 section 1715z–20; title 29 section 1167; title 42 section 300bb–8.
 

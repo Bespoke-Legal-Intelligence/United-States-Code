@@ -24,7 +24,7 @@
 
 1988—Pub. L. 100–690, title VII, §7035, Nov. 18, 1988, 102 Stat. 4398, substituted “wire, oral, or electronic” for “wire or oral” in items 2511, 2512, 2513, 2516, 2517, 2518, and 2519.
 
-1986—Pub. L. 99–508, title I, §§101(c)(2), 110(b), Oct. 21, 1986, 100 Stat. 1851, 1859, inserted “AND ELECTRONIC COMMUNICATIONS” in chapter heading and added item 2521.
+1986—Pub. L. 99–508, title I, §§101(c)(2), 110(b), Oct. 21, 1986, 100 Stat. 1851, 1859, inserted “AND ELECTRONICCOMMUNICATIONS” in chapter heading and added item 2521.
 
 1970—Pub. L. 91–452, title II, §227(b), Oct. 15, 1970, 84 Stat. 930, struck out item 2514 “Immunity of witnesses”, which section was repealed four years following the sixtieth day after Oct. 15, 1970.
 

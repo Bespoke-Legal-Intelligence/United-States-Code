@@ -130,15 +130,15 @@ Particular positions.—In carrying out activities under paragraphs (5) through 
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated for the Drug Enforcement Administration for each fiscal year after fiscal year 1999, $9,500,000 for purposes of carrying out the activities authorized by subsection (a) and employing personnel in positions established under subsection (b), of which $3,000,000 shall be available for activities under paragraphs (5) through (8) of subsection (a) and for employing personnel in positions established under subsection (b)(2).”
+Authorization of Appropriations.—There are authorized to be appropriated for the Drug Enforcement Administration for each fiscal year after fiscalyear 1999, $9,500,000 for purposes of carrying out the activities authorized by subsection (a) and employing personnel in positions established under subsection (b), of which $3,000,000 shall be available for activities under paragraphs (5) through (8) of subsection (a) and for employing personnel in positions established under subsection (b)(2).”
 
 #### National Drug Intelligence Center
 
-Pub. L. 107–306, title I, §104(e), Nov. 27, 2002, 116 Stat. 2387, provided that:
+Pub. L. 108–177, title I, §104(e), Dec. 13, 2003, 117 Stat. 2602, provided that:
 
 “(1)
 
-In general.—Of the amount authorized to be appropriated in subsection (a) \[116 Stat. 2386\], $34,100,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2004, and funds provided for procurement purposes shall remain available until September 30, 2005.
+In general.—Of the amount authorized to be appropriated in subsection (a) \[117 Stat. 2601\], $47,142,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2005, and funds provided for procurement purposes shall remain available until September 30, 2006.
 
 “(2)
 
@@ -153,6 +153,8 @@ Limitation.—Amounts available for the National Drug Intelligence Center may no
 Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–306, title I, §104(e), Nov. 27, 2002, 116 Stat. 2387.
 
 Pub. L. 107–108, title I, §104(e), Dec. 28, 2001, 115 Stat. 1396.
 

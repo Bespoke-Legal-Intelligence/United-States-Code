@@ -12,7 +12,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(2) shall be disclosed to contractors with the United States and employees of such contractors if in the opinion of the Administrator such disclosure is necessary for the satisfactory performance by the contractor of a contract with the United States entered into on or after October 11, 1976, for the performance of work in connection with this chapter and under such conditions as the Administrator may specify;
 
-&emsp;(3) shall be disclosed if the Administrator determines it necessary to protect health or the environment against an unreasonable risk of injury to health or the environment; or
+&emsp;(3) shall be disclosed if the Administrator determines it necessary to protect health or theenvironment against an unreasonable risk of injury to health or the environment; or
 
 &emsp;(4) may be disclosed when relevant in any proceeding under this chapter, except that disclosure in such a proceeding shall be made in such manner as to preserve confidentiality to the extent practicable without impairing the proceeding.
 
@@ -30,7 +30,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(B) any data reported to, or otherwise obtained by, the Administrator from a health and safety study which relates to a chemical substance or mixture described in clause (i) or (ii) of subparagraph (A).
 
-> This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture,the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
+> This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
 
 (2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 for information which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
 

@@ -28,11 +28,19 @@ Covered Utilities and Services.—The utilities and services that may be furnish
 
 &emsp;(10) Telecommunications service.
 
+&emsp;(11) Firefighting and fire protection services.
+
+&emsp;(12) Police protection services.
+
 (c)
 
 Reimbursement.—(1) The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
 
 (2) The amount of any cash payment received under paragraph (1) shall be credited to the appropriation or working capital account from which the cost of furnishing the utilities or services concerned was paid. Amounts so credited to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
 
-(Added Pub. L. 106–398, §1 \[div. B, title XXVIII, §2805(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414.)
+(Added Pub. L. 106–398, §1 \[div. B, title XXVIII, §2805(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; amended Pub. L. 107–314, div. B, title XXVIII, §2802(a), Dec. 2, 2002, 116 Stat. 2703.)
+
+#### Amendments
+
+2002—Subsec. (b)(11), (12). Pub. L. 107–314 added pars. (11) and (12).
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(ii) would be punishable within the jurisdiction of the foreign nation by death or imprisonment for a term exceeding 1 year; and
 
-&emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
+&emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for aterm exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
 
 &emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting “specified unlawful activity” (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
@@ -66,7 +66,7 @@
 
 (2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
-&emsp;(A) a complaint for forfeiture has been filed in the United States district court and thecourt issued an arrest warrant in rem pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims;
+&emsp;(A) a complaint for forfeiture has been filed in the United States district court and the court issued an arrest warrant in rem pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims;
 
 &emsp;(B) there is probable cause to believe that the property is subject to forfeiture and—
 
@@ -110,7 +110,7 @@
 
 &emsp;(6) as restoration to any victim of the offense giving rise to the forfeiture, including, in the case of a money laundering offense, any offense constituting the underlying specified unlawful activity; or
 
-&emsp;(7) In <sup>1</sup> the case of property referred to in subsection (a)(1)(D), to the Resolution TrustCorporation, the Federal Deposit Insurance Corporation, or any other Federal financial institution regulatory agency (as defined in section 8(e)(7)(D) of the Federal Deposit Insurance Act).
+&emsp;(7) In <sup>1</sup> the case of property referred to in subsection (a)(1)(D), to the Resolution Trust Corporation, the Federal Deposit InsuranceCorporation, or any other Federal financial institution regulatory agency (as defined in section 8(e)(7)(D) of the Federal Deposit Insurance Act).
 
 > The Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, shall ensure the equitable transfer pursuant to paragraph (2) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General, the Secretary of the Treasury, or the Postal Service pursuant to paragraph (2) shall not be subject to review. The United States shall not be liable in any action arising out of the use of any property the custody of which was transferred pursuant to this section to any non-Federal agency. The Attorney General, the Secretary of the Treasury, or the Postal Service may order the discontinuance of any forfeiture proceedings under this section in favor of the institution of forfeiture proceedings by State or local authorities under an appropriate State or local statute. After the filing of a complaint for forfeiture under this section, the Attorney General may seek dismissal of the complaint in favor of forfeiture proceedings under State or local law. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, the United States may transfer custody and possession of the seized property to the appropriate State or local official immediately upon the initiation of the proper actions by such officials. Whenever forfeiture proceedings are discontinued by the United States in favor of State or local proceedings, notice shall be sent to all known interested parties advising them of the discontinuance or dismissal. The United States shall not be liable in any action arising out of the seizure, detention, and transfer of seized property to State or local officials. The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.
 

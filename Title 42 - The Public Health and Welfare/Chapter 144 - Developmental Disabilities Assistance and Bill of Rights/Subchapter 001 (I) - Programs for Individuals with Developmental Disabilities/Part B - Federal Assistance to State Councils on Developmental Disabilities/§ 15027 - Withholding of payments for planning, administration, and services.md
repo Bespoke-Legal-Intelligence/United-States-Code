@@ -6,7 +6,7 @@ Whenever the Secretary, after providing reasonable notice and an opportunity for
 
 &emsp;(2) the Council or agency has failed to comply substantially with any regulations of the Secretary that are applicable to this part,
 
-> the Secretary shall notify such Council and agency that the Secretary will not make further payments to the State under section 15022 of this title (or, in the discretion of the Secretary, that further payments to the State under section 15022 of this title for activities for which there is such failure), until the Secretary is satisfied that there will no longer be such failure. Until the Secretary is so satisfied, the Secretary shall make no further payments to the State under section 15022 of this title, or shall limit further payments under section 15022 of this title to such State to activities for which there is no such failure.
+> the Secretary shall notify such Council and agency that the Secretary will not make further payments to the State under section 15022 of this title (or, in the discretion of the Secretary, that further payments to the State under section 15022 of this title for activities for which there is such failure), until the Secretary is satisfied that there will no longer be such failure. Until the Secretary is so satisfied, the Secretary shall make no further payments to the Stateunder section 15022 of this title, or shall limit further payments under section 15022 of this title to such State to activities for which there is no such failure.
 
 (Pub. L. 106–402, title I, §127, Oct. 30, 2000, 114 Stat. 1711.)
 

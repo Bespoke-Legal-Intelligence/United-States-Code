@@ -42,7 +42,7 @@
 
 (4) Except as provided under subsection (b) of this section, this section applies to contracts entered into by the head of an executive agency on behalf of a foreign government.
 
-(5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) of this section in thecase of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
+(5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) of this section in the case of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 
 (6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
-&emsp;&emsp;(C) A statement that any information received relating to commercial items that isexempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
 #### (e) Price reductions for defective cost or pricing data
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (1) Cost or pricing data
 
-&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
+&emsp;The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with subsection (e)(1)(B) of this section, another date agreed upon between the parties, a prudent buyer or seller would reasonably expectto affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
 
 #### (2) Subcontract
 
@@ -212,5 +212,5 @@ Pub. L. 105–261, div. A, title VIII, §808(d), Oct. 17, 1998, 112 Stat. 2085, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 423 of this title; title 15 section 205c.
+This section is referred to in sections 254d, 423, 428a of this title; title 15 section 205c.
 

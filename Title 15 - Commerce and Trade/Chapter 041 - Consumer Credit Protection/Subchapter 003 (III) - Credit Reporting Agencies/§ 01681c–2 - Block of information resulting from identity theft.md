@@ -1,0 +1,88 @@
+### §1681c–2. Block of information resulting from identity theft
+
+#### (a) Block
+
+Except as otherwise provided in this section, a consumer reporting agency shall block the reporting of any information in the file of a consumer that the consumer identifies as information that resulted from an alleged identity theft, not later than 4 business days after the date of receipt by such agency of—
+
+&emsp;(1) appropriate proof of the identity of the consumer;
+
+&emsp;(2) a copy of an identity theft report;
+
+&emsp;(3) the identification of such information by the consumer; and
+
+&emsp;(4) a statement by the consumer that the information is not information relating to any transaction by the consumer.
+
+#### (b) Notification
+
+A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a) of this section—
+
+&emsp;(1) that the information may be a result of identity theft;
+
+&emsp;(2) that an identity theft report has been filed;
+
+&emsp;(3) that a block has been requested under this section; and
+
+&emsp;(4) of the effective dates of the block.
+
+#### (c) Authority to decline or rescind
+
+#### (1) In general
+
+&emsp;A consumer reporting agency may decline to block, or may rescind any block, of information relating to a consumer under this section, if the consumer reporting agency reasonably determines that—
+
+&emsp;&emsp;(A) the information was blocked in error or a block was requested by the consumer in error;
+
+&emsp;&emsp;(B) the information was blocked, or a block was requested by the consumer, on the basis of a material misrepresentation of fact by the consumer relevant to the request to block; or
+
+&emsp;&emsp;(C) the consumer obtained possession of goods, services, or money as a result of the blocked transaction or transactions.
+
+#### (2) Notification to consumer
+
+&emsp;If a block of information is declined or rescinded under this subsection, the affected consumer shall be notified promptly, in the same manner as consumers are notified of the reinsertion of information under section 1681i(a)(5)(B) of this title.
+
+#### (3) Significance of block
+
+&emsp;For purposes of this subsection, if a consumer reporting agency rescinds a block, the presence of information in the file of a consumer prior to the blocking of such information is not evidence of whether the consumer knew or should have known that the consumer obtained possession of any goods, services, or money as a result of the block.
+
+#### (d) Exception for resellers
+
+#### (1) No reseller file
+
+&emsp;This section shall not apply to a consumer reporting agency, if the consumer reporting agency—
+
+&emsp;&emsp;(A) is a reseller;
+
+&emsp;&emsp;(B) is not, at the time of the request of the consumer under subsection (a) of this section, otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
+
+&emsp;&emsp;(C) informs the consumer, by any means, that the consumer may report the identity theft to the Commission to obtain consumer information regarding identity theft.
+
+#### (2) Reseller with file
+
+&emsp;The sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the consumer report maintained by the consumer reporting agency from any subsequent use, if—
+
+&emsp;&emsp;(A) the consumer, in accordance with the provisions of subsection (a) of this section, identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
+
+&emsp;&emsp;(B) the consumer reporting agency is a reseller of the identified information.
+
+#### (3) Notice
+
+&emsp;In carrying out its obligation under paragraph (2), the reseller shall promptly provide a notice to the consumer of the decision to block the file. Such notice shall contain the name, address, and telephone number of each consumer reporting agency from which the consumer information was obtained for resale.
+
+#### (e) Exception for verification companies
+
+The provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a) of this section, a check services company shall not report to a national consumer reporting agency described in section 1681a(p) of this title, any information identified in the subject identity theft report as resulting from identity theft.
+
+#### (f) Access to blocked information by law enforcement agencies
+
+No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this subchapter.
+
+(Pub. L. 90–321, title VI, §605B, as added Pub. L. 108–159, title I, §152(a), Dec. 4, 2003, 117 Stat. 1964.)
+
+#### Effective Date
+
+Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1681m, 1681s, 1681s–2, 1681t of this title.
+

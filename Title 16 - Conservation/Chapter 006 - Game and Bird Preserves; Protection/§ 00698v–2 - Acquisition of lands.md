@@ -64,11 +64,11 @@ The Secretary, acting through the Forest Service, in cooperation with the Secret
 
 #### (e) Outstanding mineral interests
 
-The acquisition of the Baca ranch by the Secretary shall be subject to all outstanding validexisting mineral interests. The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest on a willing seller basis for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions. Any such interests acquired within the boundaries of the Upper Alamo watershed, as referred to in subsection (b) of this section, shall be administered by the Secretary of the Interior as part of Bandelier National Monument.
+The acquisition of the Baca ranch by the Secretary shall be subject to all outstanding valid existing mineral interests. The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest on a willing seller basis for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions. Any such interests acquired within the boundaries of the Upper Alamo watershed, as referred to in subsection (b) of this section, shall be administered by the Secretary of the Interior as part of Bandelier National Monument.
 
 #### (f) Boundaries of the Baca ranch
 
-For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Baca ranch shall be treated as if they were National Forest boundaries existing as of January 1, 1965.
+For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Baca ranch shall be treated asif they were National Forest boundaries existing as of January 1, 1965.
 
 #### (g) Pueblo of Santa Clara
 

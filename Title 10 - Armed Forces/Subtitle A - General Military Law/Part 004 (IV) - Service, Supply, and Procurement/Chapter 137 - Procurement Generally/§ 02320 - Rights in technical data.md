@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iv) Such other factors as the Secretary of Defense may prescribe.
 
-&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may not be required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
+&emsp;(F) A contractor or subcontractor (or a prospective contractor or subcontractor) may notbe required, as a condition of being responsive to a solicitation or as a condition for the award of a contract—
 
 &emsp;&emsp;(i) to sell or otherwise relinquish to the United States any rights in technical data except—
 
@@ -78,11 +78,9 @@
 
 &emsp;(6) requiring the contractor to revise any technical data delivered under the contract to reflect engineering design changes made during the performance of the contract and affecting the form, fit, and function of the items specified in the contract and to deliver such revised technical data to an agency within a time specified in the contract;
 
-&emsp;(7) requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;
+&emsp;(7) establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data; and
 
-&emsp;(8) establishing remedies to be available to the United States when technical data required to be delivered or made available under the contract is found to be incomplete or inadequate or to not satisfy the requirements of the contract concerning technical data; and
-
-&emsp;(9) authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
+&emsp;(8) authorizing the head of the agency to withhold payments under the contract (or exercise such other remedies as the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
 
 (c) Nothing in this section or in section 2305(d) of this title prohibits the Secretary of Defense from—
 
@@ -92,13 +90,15 @@
 
 (d) The Secretary of Defense shall by regulation establish programs which provide domestic business concerns an opportunity to purchase or borrow replenishment parts from the United States for the purpose of design replication or modification, to be used by such concerns in the submission of subsequent offers to sell the same or like parts to the United States. Nothing in this subsection limits the authority of the head of an agency to impose restrictions on such a program related to national security considerations, inventory needs of the United States, the improbability of future purchases of the same or like parts, or any additional restriction otherwise required by law.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987, 101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2595; amended Pub. L. 98–577, title III, §301(b), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 99–145, title IX, §961(d)(1), Nov. 8, 1985, 99 Stat. 703; Pub. L. 99–500, §101(c) \[title X, §953(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–169, and Pub. L. 99–591, §101(c) \[title X, §953(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–169; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(a), Nov. 14, 1986, 100 Stat. 3949, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(a)(4), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–180, div. A, title VIII, §808(a), (b), Dec. 4, 1987,101 Stat. 1128, 1130; Pub. L. 101–189, div. A, title VIII, §853(b)(2), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 103–355, title VIII, §8106(a), Oct. 13, 1994, 108 Stat. 3393; Pub. L. 108–136, div. A, title VIII, §844, Nov. 24, 2003, 117 Stat. 1553.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2003—Subsec. (b)(7) to (9). Pub. L. 108–136 redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: “requiring the contractor to furnish written assurance at the time the technical data is delivered or is made available that the technical data is complete and accurate and satisfies the requirements of the contract concerning technical data;”.
 
 1994—Subsec. (b)(1). Pub. L. 103–355 inserted before semicolon at end “and providing that, in the case of a contract for a commercial item, the item shall be presumed to be developed at private expense unless shown otherwise in accordance with section 2321(f)”.
 

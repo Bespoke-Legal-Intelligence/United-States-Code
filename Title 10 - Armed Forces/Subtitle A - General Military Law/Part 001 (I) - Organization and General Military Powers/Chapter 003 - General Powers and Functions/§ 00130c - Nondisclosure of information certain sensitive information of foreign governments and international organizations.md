@@ -22,7 +22,7 @@ Information Eligible for Exemption.—For the purposes of this section, informat
 
 (c)
 
-Information of Other Agencies.—If the national security official concerned provides tothe head of another agency sensitive information of a foreign government, as determined by that national security official under subsection (b), and informs the head of the other agency of that determination, then the head of the other agency shall withhold the information from any public disclosure unless that national security official specifically authorizes the disclosure.
+Information of Other Agencies.—If the national security official concerned provides to the head of another agency sensitive information of a foreign government, as determined by that national security official under subsection (b), and informs the head of the other agency of that determination, then the head of the other agency shall withhold the information from any public disclosure unless that national security official specifically authorizes the disclosure.
 
 (d)
 
@@ -66,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) The Secretary of Defense, with respect to information of concern to the Department of Defense, as determined by the Secretary.
 
-&emsp;&emsp;(B) The Secretary of Transportation, with respect to information of concern to the Coast Guard, as determined by the Secretary, but only while the Coast Guard is not operating as a service in the Navy.
+&emsp;&emsp;(B) The Secretary of Homeland Security, with respect to information of concern to the Coast Guard, as determined by the Secretary, but only while the Coast Guard is not operating as a service in the Navy.
 
 &emsp;&emsp;(C) The Secretary of Energy, with respect to information concerning the national security programs of the Department of Energy, as determined by the Secretary.
 
@@ -74,21 +74,27 @@ Definitions.—In this section:
 
 &emsp;(3) The term “international organization” means the following:
 
-&emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
+&emsp;&emsp;(A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act\(59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
 
 &emsp;&emsp;(B) A public international organization created pursuant to a treaty or other international agreement as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
 
 &emsp;&emsp;(C) An official mission, except a United States mission, to a public international organization referred to in subparagraph (A) or (B).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277; Pub. L. 107–107, div. A, title X, §1048(a)(3), (c)(1), Dec. 28, 2001, 115 Stat. 1222, 1226.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277; amended Pub. L. 107–107, div. A, title X, §1048(a)(3), (c)(1), Dec. 28, 2001, 115 Stat. 1222, 1226; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### References in Text
 
-The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29,1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 #### Amendments
+
+2002—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
 
 Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 

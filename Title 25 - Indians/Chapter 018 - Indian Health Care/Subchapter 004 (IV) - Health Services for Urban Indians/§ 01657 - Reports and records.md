@@ -38,7 +38,7 @@ The Secretary shall allow as a cost of any contract or grant entered into under 
 
 &emsp;(A) assess the status of the welfare of urban Indian children, including the volume of child protection cases, the prevalence of child sexual abuse, and the extent of urban Indian coordination with tribal authorities with respect to child sexual abuse; and
 
-&emsp;(B) submit a report on the assessment required under subparagraph (A), together with recommended legislation to improve Indian child protection in urban Indian populations, to the Congress no later than March 31, 1992.
+&emsp;(B) submit a report on the assessment required under subparagraph (A), together withrecommended legislation to improve Indian child protection in urban Indian populations, to the Congress no later than March 31, 1992.
 
 (Pub. L. 94–437, title V, §507, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 101–630, title V, §507, Nov. 28, 1990, 104 Stat. 4566; Pub. L. 102–573, title V, §501(b)(5), Oct. 29, 1992, 106 Stat. 4568.)
 

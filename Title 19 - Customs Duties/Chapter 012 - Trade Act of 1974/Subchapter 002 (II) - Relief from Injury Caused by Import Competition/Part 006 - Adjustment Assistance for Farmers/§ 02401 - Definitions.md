@@ -18,7 +18,7 @@ In this part:
 
 #### (B) Determination of contributed importantly
 
-&emsp;&emsp;The determination of whether imports of articles like or directly competitive with an agricultural commodity with respect to which a petition under this part was filed contributed importantly to a decline in the price of the agricultural commodity shall be made by the Secretary.
+&emsp;&emsp;The determination of whether imports of articles like or directly competitive with anagricultural commodity with respect to which a petition under this part was filed contributed importantly to a decline in the price of the agricultural commodity shall be made by the Secretary.
 
 #### (4) Duly authorized representative
 

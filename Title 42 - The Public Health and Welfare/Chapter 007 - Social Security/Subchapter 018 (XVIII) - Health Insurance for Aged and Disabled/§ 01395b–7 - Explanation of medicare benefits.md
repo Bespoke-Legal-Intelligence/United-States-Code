@@ -12,7 +12,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (1) In general
 
-&emsp;An individual may submit a written request to any physician, provider, supplier, or any other person (including an organization, agency, or other entity) for an itemized statement for any item or service provided to such individual by such person with respect to which payment has been made under this subchapter.
+&emsp;An individual may submit a written request to any physician, provider, supplier, or anyother person (including an organization, agency, or other entity) for an itemized statement for any item or service provided to such individual by such person with respect to which payment has been made under this subchapter.
 
 #### (2) 30-day period to furnish statement
 
@@ -40,7 +40,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (4) Findings of Secretary
 
-&emsp;The Secretary shall, with respect to each written request submitted under paragraph (3), determine whether the itemized statement identifies specific items or services that werenot provided as claimed or any other billing irregularity (including duplicate billing) that has resulted in unnecessary payments under this subchapter.
+&emsp;The Secretary shall, with respect to each written request submitted under paragraph (3), determine whether the itemized statement identifies specific items or services that were not provided as claimed or any other billing irregularity (including duplicate billing) that has resulted in unnecessary payments under this subchapter.
 
 #### (5) Recovery of amounts
 
@@ -60,7 +60,19 @@ Statement by secretary.—Paragraph (1) of section 1806(a) of the Social Securit
 
 Itemized statement.—Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[subsecs. (a)(2) and (b) of this section\], as so added, shall take effect not later than January 1, 1999.”
 
+#### Inclusion of Additional Information in Notices to Beneficiaries About Skilled Nursing Facility Benefits
+
+Pub. L. 108–173, title IX, §925, Dec. 8, 2003, 117 Stat. 2396, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Health and Human Services\] shall provide that in medicare beneficiary notices provided (under section 1806(a) of the Social Security Act, 42 U.S.C. 1395b–7(a)) with respect to the provision of post-hospital extended care services under part A of title XVIII of the Social Security Act \[part A of this subchapter\], there shall be included information on the number of days of coverage of such services remaining under such part for the medicare beneficiary and spell of illness involved.
+
+“(b)
+
+Effective Date.—Subsection (a) shall apply to notices provided during calendar quarters beginning more than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1395b–2 of this title.
+This section is referred to in sections 1395b–2, 1395w–104 of this title.
 

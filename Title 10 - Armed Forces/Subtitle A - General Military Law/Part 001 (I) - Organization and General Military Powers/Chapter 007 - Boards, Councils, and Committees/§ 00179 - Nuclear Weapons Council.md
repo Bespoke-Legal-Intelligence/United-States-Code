@@ -70,7 +70,7 @@
 
 &emsp;(5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
 
-(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760.)
 
 #### Amendments
 
@@ -90,11 +90,11 @@ Subsec. (f)(3) to (5). Pub. L. 106–65, §3163(c), added pars. (3) to (5).
 
 1996—Subsec. (c)(2). Pub. L. 104–106, §904(b)(1), substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
 
-Subsec. (e). Pub. L. 104–201, §3159(c)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 107–314, §4213(c)(2), formerly Pub. L. 104–201, §3159(c)(2), as renumbered by Pub. L. 108–136, added subsec. (e). Former subsec. (e) redesignated (f).
 
 Pub. L. 104–106, §1502(a)(7), substituted “to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “to the Committees on Armed Services and Appropriations of the Senate and”.
 
-Subsec. (f). Pub. L. 104–201, §3159(c)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 107–314, §4213(c)(1), formerly Pub. L. 104–201, §3159(c)(1), as renumbered by Pub. L. 108–136, redesignated subsec. (e) as (f).
 
 1994—Subsecs. (a)(3), (b). Pub. L. 103–337, §3152(c), substituted “designated” for “appointed” wherever appearing.
 

@@ -32,7 +32,7 @@ For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which
 
 For short title of section 1 \[div. C, title XXXVI\] of Pub. L. 106–398, which enacted subchapter XVI of this chapter, as the “Energy Employees Occupational Illness Compensation Program Act of 2000”, see section 1 \[div. C, title XXXVI, §3601\] of Pub. L. 106–398, set out as a note under section 7384 of this title.
 
-Pub. L. 107–314, div. C, title XXXVI, §3601, Dec. 2, 2002, 116 Stat. 2756, provided that: “This title \[enacting subchapter XVII of this chapter\] may be cited as the ‘Atomic Energy Defense Act’.”
+Pub. L. 107–314, div. C, title XXXVI, §3601, Dec. 2, 2002, 116 Stat. 2756, which was formerly set out as a note under this section, was renumbered section 4001(a) of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(c)(1)(A)–(D)(ii), Nov. 24, 2003, 117 Stat. 1753, and is now set out as a note under section 2501 of Title 50, War and National Defense.
 
 #### Executive Order No. 12083
 

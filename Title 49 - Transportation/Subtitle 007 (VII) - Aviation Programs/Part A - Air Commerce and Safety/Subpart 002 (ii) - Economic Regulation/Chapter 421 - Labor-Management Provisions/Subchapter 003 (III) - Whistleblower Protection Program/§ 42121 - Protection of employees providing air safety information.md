@@ -34,7 +34,7 @@ Requirements.—
 
 &emsp;&emsp;&emsp;(i)
 
-Required showing by complainant.—The Secretary of Labor shall dismiss a complaint filed under this subsection andshall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+Required showing by complainant.—The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -54,7 +54,7 @@ Final order.—
 
 &emsp;&emsp;(A)
 
-Deadline for issuance; settlement agreements.—Not later than 120 days after the date of conclusion of a hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
+Deadline for issuance; settlement agreements.—Not later than 120 days after the date of conclusion of a hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of asettlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
 
 &emsp;&emsp;(B)
 

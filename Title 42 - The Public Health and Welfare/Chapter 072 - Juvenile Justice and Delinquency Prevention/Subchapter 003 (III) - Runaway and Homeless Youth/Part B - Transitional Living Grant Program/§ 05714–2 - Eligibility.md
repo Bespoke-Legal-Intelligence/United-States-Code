@@ -1,10 +1,12 @@
 ### §5714–2. Eligibility
 
-(a) To be eligible for assistance under this part, an applicant shall propose to establish, strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
+#### (a) In general
 
-&emsp;(1) to provide, directly or indirectly, shelter (such as group homes, host family homes, and supervised apartments) and services (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
+To be eligible for assistance under this part, an applicant shall propose to establish, strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
 
-&emsp;(2) to provide such shelter and such services to individual homeless youth throughout a continuous period not to exceed 540 days;
+&emsp;(1) to provide, directly or indirectly, shelter (such as group homes, including maternity group homes, host family homes, and supervised apartments) and services (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, parenting skills (as appropriate), interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
+
+&emsp;(2) to provide such shelter and such services to individual homeless youth throughout a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;
 
 &emsp;(3) to provide, directly or indirectly, on-site supervision at each shelter facility that is not a family home;
 
@@ -14,7 +16,7 @@
 
 &emsp;(6) to provide a written transitional living plan to each youth based on an assessment of such youth's needs, designed to help the transition from supervised participation in such project to independent living or another appropriate living arrangement;
 
-&emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational, vocational, training, welfare, legal service, and health care programs and to help integrate and coordinate such services for youths;
+&emsp;(7) to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational (including post-secondary education), vocational, training (including services and programs for youth available under the Workforce Investment Act of 1998), welfare (including programs under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996), legal service, and health care programs and to help integrate and coordinate such services for youths;
 
 &emsp;(8) to provide for the establishment of outreach programs designed to attract individuals who are eligible to participate in the project;
 
@@ -26,15 +28,41 @@
 
 &emsp;(12) to keep adequate statistical records profiling homeless youth which it serves and not to disclose the identity of individual homeless youth in reports or other documents based on such statistical records;
 
-&emsp;(13) not to disclose records maintained on individual homeless youth without the informed consent of the individual youth to anyone other than an agency compiling statistical records; and
+&emsp;(13) not to disclose records maintained on individual homeless youth without the informed consent of the individual youth to anyone other than an agency compiling statistical records;
 
-&emsp;(14) to provide to the Secretary such other information as the Secretary may reasonably require.
+&emsp;(14) to provide to the Secretary such other information as the Secretary may reasonably require; and
 
-(b) In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
+&emsp;(15) to coordinate services with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\].
 
-(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038.)
+#### (b) Priority
+
+In selecting eligible applicants to receive grants under this part, the Secretary shall give priority to entities that have experience in providing to homeless youth shelter and services of the types described in subsection (a)(1) of this section.
+
+#### (c) Definition
+
+In this part, the term “maternity group home” means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children.
+
+(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169.)
+
+#### References in Text
+
+The Workforce Investment Act of 1998, referred to in subsec. (a)(7), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of this title and Tables.
+
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–96, §107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
+
+Subsec. (a)(2). Pub. L. 108–96, §108, inserted “, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period” after “days”.
+
+Subsec. (a)(7). Pub. L. 108–96, §111, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational, vocational, training, welfare, legal service, and health care programs and to help integrate and coordinate such services for youths;”.
+
+Subsec. (a)(15). Pub. L. 108–96, §110, added par. (15).
+
+Subsec. (c). Pub. L. 108–96, §107(b), added subsec. (c).
 
 1999—Subsec. (a)(9). Pub. L. 106–71 inserted “, and the services provided to such youth by such project,” after “participate in such project”.
 

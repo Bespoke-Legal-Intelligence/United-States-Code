@@ -26,6 +26,6 @@ This subchapter is referred to in section 2305 of this title.
 - [&sect; 02210a - Conflicts of interest relating to contracts and other arrangements](%C2%A7%2002210a%20-%20Conflicts%20of%20interest%20relating%20to%20contracts%20and%20other%20arrangements.md)
 - [&sect; 02210b - Uranium supply](%C2%A7%2002210b%20-%20Uranium%20supply.md)
 - [&sect; 02211 - Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception&#8230;](%C2%A7%2002211%20-%20Payment%20of%20claims%20or%20judgments%20for%20damage%20resulting%20from%20nuclear%20incident%20involving%20nuclear%20reactor%20of%20United%20States%20warship%3B%20exception%E2%80%A6.md)
-- [&sect; 02212 - Contractor liability for injury or loss of property arising out of atomic weapons testing programs](%C2%A7%2002212%20-%20Contractor%20liability%20for%20injury%20or%20loss%20of%20property%20arising%20out%20of%20atomic%20weapons%20testing%20programs.md)
+- [&sect; 02212 - Transferred](%C2%A7%2002212%20-%20Transferred.md)
 - [&sect; 02213 - Nuclear Regulatory Commission annual charges](%C2%A7%2002213%20-%20Nuclear%20Regulatory%20Commission%20annual%20charges.md)
 - [&sect; 02214 - NRC user fees and annual charges](%C2%A7%2002214%20-%20NRC%20user%20fees%20and%20annual%20charges.md)

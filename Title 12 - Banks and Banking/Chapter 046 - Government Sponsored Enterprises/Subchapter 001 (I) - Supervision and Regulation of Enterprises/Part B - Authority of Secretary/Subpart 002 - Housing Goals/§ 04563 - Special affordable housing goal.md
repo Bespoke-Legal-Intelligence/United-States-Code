@@ -46,7 +46,7 @@
 
 #### (C) RTC and FDIC loans
 
-&emsp;&emsp;The purchase of direct loans made by the Resolution Trust Corporation or the FederalDeposit Insurance Corporation, if such loans—
+&emsp;&emsp;The purchase of direct loans made by the Resolution Trust Corporation or the Federal Deposit Insurance Corporation, if such loans—
 
 &emsp;&emsp;&emsp;(i) are not guaranteed by such agencies themselves or other Federal agencies;
 

@@ -8,7 +8,7 @@
 
 #### (2) Source of nominations
 
-&emsp;The Board shall consider for inclusion in the National Recording Registry nominations submitted by the general public as well as representatives of sound recording archives and the sound recording industry (such as the guilds and societies representing sound recording artists) and other creative artists.
+&emsp;The Board shall consider for inclusion in the National Recording Registry nominations submitted by the general public as well as representatives of sound recording archives and the sound recording industry (such as theguilds and societies representing sound recording artists) and other creative artists.
 
 #### (b) Study and report on sound recording preservation and restoration
 

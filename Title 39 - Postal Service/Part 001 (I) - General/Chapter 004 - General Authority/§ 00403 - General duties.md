@@ -1,6 +1,6 @@
 ### §403. General duties
 
-(a) The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 of this title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto as it finds appropriate to its functions and in thepublic interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
+(a) The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 of this title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto as it finds appropriate to its functions and in the public interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
 
 (b) It shall be the responsibility of the Postal Service—
 
@@ -29,6 +29,8 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 #### Continuation of Mail Delivery Services
 
 Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the following appropriations acts:
+
+Pub. L. 108–7, div. J, title II, Feb. 20, 2003, 117 Stat. 442.
 
 Pub. L. 107–67, title II, Nov. 12, 2001, 115 Stat. 525.
 

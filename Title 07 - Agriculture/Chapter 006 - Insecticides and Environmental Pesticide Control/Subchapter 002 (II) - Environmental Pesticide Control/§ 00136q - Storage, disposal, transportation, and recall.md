@@ -44,7 +44,7 @@
 
 #### (3) Mandatory recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administratordoes not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
 
 #### (4) Recall procedure
 
@@ -94,7 +94,7 @@
 
 #### (1) Voluntary agreements
 
-&emsp;Nothing in this section shall be construed as preventing or making unlawful any agreement between a seller and a buyer of any pesticide or other substance regarding the ultimate allocation of the costs of storage, transportation, or disposal of a pesticide.
+&emsp;Nothing in this section shall be construed as preventing or making unlawful any agreementbetween a seller and a buyer of any pesticide or other substance regarding the ultimate allocation of the costs of storage, transportation, or disposal of a pesticide.
 
 #### (2) Rule and regulation review
 
@@ -184,7 +184,7 @@
 
 #### (2) Antimicrobial products
 
-&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
+&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f) of this section, unless the Administrator determines that such product must be subject tosuch provisions to prevent an unreasonable adverse effect on the environment.
 
 (June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507.)
 
@@ -198,7 +198,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h)
 
 1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1988—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisionswhich related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
+1988—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
 
 Subsec. (a)(3). Pub. L. 100–532, §402, added par. (3).
 

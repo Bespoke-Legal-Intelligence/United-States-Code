@@ -222,7 +222,7 @@ Evaluation.—
 
 &emsp;“(1)
 
-In general.—The Director shall enter into a contract, with an evaluating agency that has demonstrated experience in the evaluation of substance abuse treatment, to conduct an evaluation that incorporates the criteria described in paragraph (2).
+In general.—The Director shall enter into a contract, with an evaluating agency that has demonstrated experience in the evaluation of substanceabuse treatment, to conduct an evaluation that incorporates the criteria described in paragraph (2).
 
 &emsp;“(2)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may provide financial assistance in the form of cooperative agreements in States that are eligible to receive drought assistance under this subchapter to promote thedevelopment of drought contingency plans under subchapter II of this chapter.
+The Secretary may provide financial assistance in the form of cooperative agreements in States that are eligible to receive drought assistance under this subchapter to promote the development of drought contingency plans under subchapter II of this chapter.
 
 #### (b) Report
 

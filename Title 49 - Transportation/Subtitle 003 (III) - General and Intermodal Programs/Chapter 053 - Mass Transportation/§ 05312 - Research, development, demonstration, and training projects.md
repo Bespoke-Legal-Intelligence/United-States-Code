@@ -68,7 +68,7 @@ Notice requirement.—The Secretary shall periodically give public notice of the
 
 &emsp;(5)
 
-Use of revenues.—The Secretary shall accept, to the maximum extent practicable, a portion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than$1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
+Use of revenues.—The Secretary shall accept, to the maximum extent practicable, a portion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
 
 (e)
 

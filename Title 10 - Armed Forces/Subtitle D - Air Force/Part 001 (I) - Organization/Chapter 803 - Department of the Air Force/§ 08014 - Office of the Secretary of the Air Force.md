@@ -12,9 +12,11 @@
 
 &emsp;(4) The Inspector General of the Air Force.
 
-&emsp;(5) The Air Reserve Forces Policy Committee.
+&emsp;(5) The Chief of Legislative Liaison.
 
-&emsp;(6) Such other offices and officials as may be established by law or as the Secretary of the Air Force may establish or designate.
+&emsp;(6) The Air Reserve Forces Policy Committee.
+
+&emsp;(7) Such other offices and officials as may be established by law or as the Secretary of the Air Force may establish or designate.
 
 (c)(1) The Office of the Secretary of the Air Force shall have sole responsibility within the Office of the Secretary and the Air Staff for the following functions:
 
@@ -36,7 +38,7 @@
 
 (3) The Secretary shall prescribe the relationship of each office or other entity established or designated under paragraph (2) to the Chief of Staff and to the Air Staff and shall ensure that each such office or entity provides the Chief of Staff such staff support as the Chief of Staff considers necessary to perform his duties and responsibilities.
 
-(4) The vesting in the Office of the Secretary of the Air Force of the responsibility for theconduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Air Force (including the Air Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Air Force.
+(4) The vesting in the Office of the Secretary of the Air Force of the responsibility for the conduct of a function specified in paragraph (1) does not preclude other elements of the executive part of the Department of the Air Force (including the Air Staff) from providing advice or assistance to the Chief of Staff or otherwise participating in that function within the executive part of the Department under the direction of the office assigned responsibility for that function in the Office of the Secretary of the Air Force.
 
 (5) The head of the office or other entity established or designated by the Secretary to conduct the auditing function shall have at least five years of professional experience in accounting or auditing. The position shall be considered to be a career reserved position as defined in section 3132(a)(8) of title 5.
 
@@ -58,7 +60,7 @@
 
 (4) The limitations in paragraphs (1), (2), and (3) do not apply in time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Air Force or on the Air Staff.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1057; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(c), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(29), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1057; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(c), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(29), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(e)(2), Dec. 2, 2002, 116 Stat. 2533.)
 
 #### Prior Provisions
 
@@ -67,6 +69,8 @@ A prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, §8013; Aug. 
 Another prior section 8014 was renumbered section 8015 of this title and subsequently repealed.
 
 #### Amendments
+
+2002—Subsec. (b)(5) to (7). Pub. L. 107–314 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 2001—Subsec. (f)(3). Pub. L. 107–107 substituted “60” for “the number equal to 85 percent of the number of general officers assigned or detailed to such duty on the date of the enactment of this subsection”.
 
@@ -86,5 +90,5 @@ Subsecs. (c) and (d) of this section to be implemented not later than 180 days a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8032 of this title.
+This section is referred to in sections 8023, 8032 of this title.
 

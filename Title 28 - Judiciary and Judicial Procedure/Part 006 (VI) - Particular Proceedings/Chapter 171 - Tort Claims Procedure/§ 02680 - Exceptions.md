@@ -66,7 +66,7 @@ Panama Canal Company, referred to in subsec. (m), deemed to refer to Panama Cana
 
 #### Amendments
 
-2000—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply toany claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
+2000—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
 
 1974—Subsec. (h). Pub. L. 93–253 inserted proviso.
 

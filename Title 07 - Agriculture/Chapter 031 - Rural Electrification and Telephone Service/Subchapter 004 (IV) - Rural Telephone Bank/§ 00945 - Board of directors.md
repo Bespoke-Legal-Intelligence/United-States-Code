@@ -22,7 +22,7 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (3) Commercial members
 
-&emsp;The commercial-type entities, and the organizations controlled by such entities, that hold class B or class C stock shall elect three individuals to serve on the Telephone Bank Board for a term of two years, by a plurality vote of the stockholders voting in the election.
+&emsp;The commercial-type entities, and the organizations controlled by such entities, that hold class B or class C stock shall elect three individuals to serve on the Telephone Bank Board for a term of two years, by a pluralityvote of the stockholders voting in the election.
 
 #### (c) Elections
 

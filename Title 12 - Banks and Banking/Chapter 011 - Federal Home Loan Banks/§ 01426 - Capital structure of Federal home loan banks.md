@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amounts paid for the Class A stock;
 
-&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Finance Board, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
+&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Finance Board, a generalallowance for losses, which may not include any reserves or allowances made or held against specific assets; and
 
 &emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Finance Board determines by regulation to be appropriate to include in determining total capital.
 
@@ -272,7 +272,7 @@ Subsec. (e). Pub. L. 101–73, §710(b)(3), which directed amendment of subsec. 
 
 Pub. L. 101–73, §710(b)(2), struck out “or nonmember borrower” after “such member” wherever appearing.
 
-Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
+Pub. L. 101–73, §706(2), substituted “If any member's membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the FederalHome Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
 
 Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 

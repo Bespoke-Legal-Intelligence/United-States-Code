@@ -10,7 +10,7 @@ Pub. L. 105–277, div. A, §101(f) \[title IX, §903(c)(1)\], Oct. 21, 1998, 11
 
 “(A)
 
-In general.—The amendment made by subsection (a) \[enacting this section\] shall apply to group health plans for plan years beginning on or after the date of enactment of this Act \[Oct. 21, 1998\].
+In general.—The amendment made by subsection (a) \[enacting this section\] shall apply to grouphealth plans for plan years beginning on or after the date of enactment of this Act \[Oct. 21, 1998\].
 
 “(B)
 

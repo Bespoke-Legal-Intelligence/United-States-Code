@@ -18,7 +18,7 @@ Each such demand shall—
 
 &emsp;(2) if it is a demand for production of documentary material—
 
-&emsp;&emsp;(A) describe the class or classes of documentary material to be produced thereunder with such definiteness and certainty as to permit such material to be fairly identified;
+&emsp;&emsp;(A) describe the class or classes of documentary material to be produced thereunderwith such definiteness and certainty as to permit such material to be fairly identified;
 
 &emsp;&emsp;(B) prescribe a return date or dates which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
 
@@ -78,7 +78,7 @@ A verified return by the individual serving any such demand or petition setting 
 
 #### (g) Sworn certificates
 
-The production of documentary material in response to a demand served pursuant to this section shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by a person or persons having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
+The production of documentary material in response to a demand served pursuant to this section shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by a person or persons having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary materialrequired by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
 
 #### (h) Interrogatories
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 96–349, §2(b)(3), designated existing provisions as par.
 
 Subsec. (b). Pub. L. 94–435 restructured subsec. (b) and as so restructured, in par. (1) inserted provisions of cl. (B), in par. (2), added cls. (B) and (C), in par. (3) substituted provisions relating to written interrogatories for provisions relating to prescription of a return date for demanded material, and in par. (4), substituted provisions relating to oral testimony for provisions requiring a demand to identify the custodian to whom demanded material shall be made available.
 
-Subsec. (c). Pub. L. 94–435 inserted provision relating to the submission of answers to written interrogatories and the giving of oral testimony, struck out provisions of par. (1) relating to the reasonableness requirementfor demands for documentary material, redesignated par. (2) as (1) and provided that protected status of any information or material would be determined by standards applicable in the case of a subpena or subpena duces tecum issued by a court of the United States, and added par. (2).
+Subsec. (c). Pub. L. 94–435 inserted provision relating to the submission of answers to written interrogatories and the giving of oral testimony, struck out provisions of par. (1) relating to the reasonableness requirement for demands for documentary material, redesignated par. (2) as (1) and provided that protected status of any information or material would be determined by standards applicable in the case of a subpena or subpena duces tecum issued by a court of the United States, and added par. (2).
 
 Subsec. (d). Pub. L. 94–435 redesignated existing provisions as par. (1) and added par. (2).
 

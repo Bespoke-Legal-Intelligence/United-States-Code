@@ -100,7 +100,7 @@ Section 5.40(b), formerly §5.26(b), of Pub. L. 92–181, as renumbered by Pub. 
 
 #### Separability
 
-Section 5.42, formerly §5.28, of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “If any provision of this Act \[this chapter\], or the application thereof to any persons or in any circumstances, is held invalid, the remainder of this Act and the application of such provision to other persons or in other circumstances shall not be affected thereby.”
+Section 5.42, formerly §5.28, of Pub. L. 92–181, as renumbered by Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703, provided that: “If any provision of this Act \[this chapter\], or the application thereof to any persons or in any circumstances, is held invalid,the remainder of this Act and the application of such provision to other persons or in other circumstances shall not be affected thereby.”
 
 #### References to Earlier Farm Credit Acts
 
@@ -142,7 +142,7 @@ Items in Study.—In conducting the study, the Secretary shall base the study on
 
 &emsp;&emsp;“(A) any added risk to the safety and soundness of the Farm Credit System that may result from approval of a proposal; and
 
-&emsp;&emsp;“(B) any positive or adverse impacts on competition between the Farm Credit System and thebanks of the United States in providing credit to rural users;
+&emsp;&emsp;“(B) any positive or adverse impacts on competition between the Farm Credit System and the banks of the United States in providing credit to rural users;
 
 &emsp;“(8) the nature and extent of the unsatisfied rural credit need that the Farm Credit System proposals are supposed to address and what aspects of the present Farm Credit System prevent the Farm Credit System from meeting the need;
 
@@ -172,5 +172,5 @@ Pub. L. 99–205, title III, §307, Dec. 23, 1985, 99 Stat. 1709, required each 
 
 #### National Commission on Agricultural Finance
 
-Pub. L. 99–205, title V, §501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and Farmers Home Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure, performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
+Pub. L. 99–205, title V, §501, Dec. 23, 1985, 99 Stat. 1710, directed President to appoint a National Commission on Agricultural Finance, comprised of 15 members, representing the financial community, the agricultural sector, and government, to conduct a study of methods to ensure availability of adequate credit to agricultural producers and agribusiness, taking into account long-term financing needs of agricultural economy, roles of commercial banks, Farm Credit System, and FarmersHome Administration in meeting those financial needs, with the Commission, in conducting such study, to (1) evaluate financial circumstances relative to both lenders and borrowers of farm credit, (2) evaluate structure, performance, and conduct of private lenders—commercial bankers and Farm Credit System—and public lenders, (3) explore need for long-term assistance in stabilizing value of agricultural assets, and (4) evaluate effect on suppliers, producers, processors, and local communities when financial institutions fail, and not later than Dec. 23, 1986, to submit to Congress a report containing results of study, together with comments and recommendations for legislation providing for a sound, reasonable, and primarily self-supporting credit program for farmers and ranchers as Commission considers appropriate.
 

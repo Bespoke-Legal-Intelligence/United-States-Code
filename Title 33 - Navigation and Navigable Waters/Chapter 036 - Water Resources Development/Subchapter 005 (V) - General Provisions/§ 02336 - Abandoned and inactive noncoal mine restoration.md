@@ -28,9 +28,9 @@ The Secretary may provide assistance to non-Federal and nonprofit entities to de
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $5,000,000.
+There is authorized to be appropriated to carry out this section $7,500,000.
 
-(Pub. L. 106–53, title V, §560, Aug. 17, 1999, 113 Stat. 354.)
+(Pub. L. 106–53, title V, §560, Aug. 17, 1999, 113 Stat. 354; Pub. L. 108–137, title I, §118, Dec. 1, 2003, 117 Stat. 1836.)
 
 #### References in Text
 
@@ -39,6 +39,10 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+2003—Subsec. (f). Pub. L. 108–137 substituted “$7,500,000” for “$5,000,000”.
 
 #### “Secretary” Defined
 

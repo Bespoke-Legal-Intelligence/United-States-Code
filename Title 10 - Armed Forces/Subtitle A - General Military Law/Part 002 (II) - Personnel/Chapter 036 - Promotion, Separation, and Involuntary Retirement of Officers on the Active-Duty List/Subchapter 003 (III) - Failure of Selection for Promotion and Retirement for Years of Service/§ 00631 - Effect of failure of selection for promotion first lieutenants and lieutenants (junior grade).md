@@ -6,7 +6,7 @@
 
 &emsp;(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
 
-&emsp;(3) if on the date on which he is to be discharged under clause (1) he is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, be retained on active duty until he is qualified for retirement and then be retired under that section, unless he is sooner retired or discharged under another provision of law.
+&emsp;(3) if on the date on which he is to be discharged under paragraph (1) he is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, be retained on active duty until he is qualified for retirement and then be retired under that section, unless he is sooner retired or discharged under another provision of law.
 
 (b) The retirement or discharge of an officer pursuant to this section shall be considered to be an involuntary retirement or discharge for purposes of any other provision of law.
 
@@ -14,9 +14,11 @@
 
 (d) For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps who holds the grade of first lieutenant, and an officer of the Navy who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 611(a) of this title if such a board were convened but is not fully qualified for promotion when recommending for promotion under section 624(a)(3) of this title all fully qualified officers of the officer's armed force in such grade who would be eligible for such consideration.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2861; amended Pub. L. 98–525, title V, §525(c), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(2), (d)(3), (4)(B), Dec. 28, 2001, 115 Stat. 1086, 1088.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2861; amended Pub. L. 98–525, title V, §525(c), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(2), (d)(3), (4)(B), Dec. 28, 2001, 115 Stat. 1086, 1088; Pub. L. 108–136, div. A, title V, §505(b), Nov. 24, 2003, 117 Stat. 1457.)
 
 #### Amendments
+
+2003—Subsec. (a)(3). Pub. L. 108–136 substituted “paragraph” for “clause”.
 
 2001—Pub. L. 107–107, §505(d)(4)(B), struck out “regular” before “first lieutenants” in section catchline.
 

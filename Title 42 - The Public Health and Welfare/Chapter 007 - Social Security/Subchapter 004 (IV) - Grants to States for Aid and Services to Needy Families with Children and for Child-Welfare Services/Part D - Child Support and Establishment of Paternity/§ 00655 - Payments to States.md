@@ -36,7 +36,7 @@
 
 &emsp;(II) the State has submitted to the Secretary a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) ofthis subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements referred to in the same subparagraph of section 654(24) of this title shall be considered a single failure of the State to comply with that subparagraph during the fiscal year for purposes of this paragraph.
 
@@ -106,7 +106,7 @@
 
 (1) Prior to the beginning of each quarter, the Secretary shall estimate the amount to which a State will be entitled under subsection (a) of this section for such quarter, such estimates to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, and (B) such other investigation as the Secretary may find necessary.
 
-(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarter and with respect to which adjustment has not already been made under this subsection.
+(2) Subject to subsection (d) of this section, the Secretary shall then pay, in such installments as he may determine, to the State the amount so estimated, reduced or increased to the extent of any overpayment or underpayment which the Secretary determines was made under this section to such State for any prior quarterand with respect to which adjustment has not already been made under this subsection.
 
 (3) Upon the making of any estimate by the Secretary under this subsection, any appropriations available for payments under this section shall be deemed obligated.
 
@@ -132,7 +132,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980,94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provid
 
 1981—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
-1980—Subsec. (a). Pub. L. 96–611, §9(c), inserted provision following par. (3) that no amount shall be paid toany State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title.
+1980—Subsec. (a). Pub. L. 96–611, §9(c), inserted provision following par. (3) that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title.
 
 Pub. L. 96–611, §11(c), which was intended to make a technical correction in par. (3) by substituting a period for the semicolon at the end thereof, was not executed in view of the amendment by section 9(c) of Pub. L. 96–611 inserting provision following par. (3).
 
@@ -278,7 +278,7 @@ In general.—The Secretary of Health and Human Services may not pay more than $
 
 “(B)
 
-Allocation of limitation among states.—The total amount payable to a State or a system describedin subparagraph (C) under section 455(a)(3)(B) of such Act for fiscal years 1996 through 2001 shall not exceed the limitation determined for the State or system by the Secretary of Health and Human Services in regulations.
+Allocation of limitation among states.—The total amount payable to a State or a system described in subparagraph (C) under section 455(a)(3)(B) of such Act for fiscal years 1996 through 2001 shall not exceed the limitation determined for the State or system by the Secretary of Health and Human Services in regulations.
 
 “(C)
 

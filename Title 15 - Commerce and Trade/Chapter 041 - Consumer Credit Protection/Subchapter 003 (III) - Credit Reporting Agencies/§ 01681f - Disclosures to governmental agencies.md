@@ -4,3 +4,7 @@ Notwithstanding the provisions of section 1681b of this title, a consumer report
 
 (Pub. L. 90–321, title VI, §608, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1131.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1681a of this title.
+

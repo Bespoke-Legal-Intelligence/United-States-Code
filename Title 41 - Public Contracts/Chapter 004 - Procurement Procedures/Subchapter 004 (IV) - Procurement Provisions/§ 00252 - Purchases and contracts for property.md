@@ -6,7 +6,7 @@ Executive agencies shall make purchases and contracts for property and services 
 
 &emsp;(1) to the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration; or
 
-&emsp;(2) when this subchapter is made inapplicable pursuant to section 113(e) of title 40 or any other law, but when this subchapter is made inapplicable by any such provision of law, sections 5 and 8 of this title shall be applicable inthe absence of authority conferred by statute to procure without advertising or without regard to said section 5 of this title.
+&emsp;(2) when this subchapter is made inapplicable pursuant to section 113(e) of title 40 or any other law, but when this subchapter is made inapplicable by any such provision of law, sections 5 and 8 of this title shall be applicable in the absence of authority conferred by statute to procure without advertising or without regard to said section 5 of this title.
 
 #### (b) Small business concerns; share of business
 
@@ -64,7 +64,7 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat.403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Transfer of Functions
 

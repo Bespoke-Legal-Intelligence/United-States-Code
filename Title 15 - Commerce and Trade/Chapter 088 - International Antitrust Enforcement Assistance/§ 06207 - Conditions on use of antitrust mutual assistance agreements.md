@@ -2,7 +2,7 @@
 
 #### (a) Determinations
 
-Neither the Attorney General nor the Commission may conduct an investigation under section6202 of this title, apply for an order under section 6203 of this title, or provide antitrust evidence to a foreign antitrust authority under an antitrust mutual assistance agreement, unless the Attorney General or the Commission, as the case may be, determines in the particular instance in which the investigation, application, or antitrust evidence is requested that—
+Neither the Attorney General nor the Commission may conduct an investigation under section 6202 of this title, apply for an order under section 6203 of this title, or provide antitrust evidence to a foreign antitrust authority under an antitrust mutual assistance agreement, unless the Attorney General or the Commission, as the case may be, determines in the particular instance in which the investigation, application, or antitrust evidence is requested that—
 
 &emsp;(1) the foreign antitrust authority—
 
@@ -20,7 +20,7 @@ Neither the Attorney General nor the Commission may disclose in violation of an 
 
 #### (c) Required disclosure of notice received
 
-If the Attorney General or the Commission receives a notice described in section 6211(2)(H) of this title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
+If the Attorney General or the Commission receives a notice described in section 6211(2)(H) ofthis title, the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
 
 (Pub. L. 103–438, §8, Nov. 2, 1994, 108 Stat. 4601.)
 

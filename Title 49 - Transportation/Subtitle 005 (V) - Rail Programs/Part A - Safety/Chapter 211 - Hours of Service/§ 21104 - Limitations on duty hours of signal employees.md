@@ -14,7 +14,7 @@ General.—(1) In paragraph (2)(C) of this subsection, “24-hour period” mean
 
 (b)
 
-Determining Time on Duty.—In determining under subsection (a) of this section the timea signal employee is on duty or off duty, the following rules apply:
+Determining Time on Duty.—In determining under subsection (a) of this section the time a signal employee is on duty or off duty, the following rules apply:
 
 &emsp;(1) Time on duty begins when the employee reports for duty and ends when the employee is finally released from duty.
 
@@ -24,7 +24,7 @@ Determining Time on Duty.—In determining under subsection (a) of this section 
 
 &emsp;(4) If, at the end of scheduled duty hours, an employee has not completed the trip from the final outlying worksite of the duty period to the employee's headquarters or directly to the employee's residence, the time after the scheduled duty hours necessarily spent in completing the trip to the residence or headquarters is neither time on duty nor time off duty.
 
-&emsp;(5) If an employee is released from duty at an outlying worksite before the end of the employee's scheduled duty hours to comply with this section, the time necessary for the trip from the worksite to the employee's headquarters or directly to the employee's residence is neither time on duty nor time off duty.
+&emsp;(5) If an employee is released from duty at an outlying worksite before the end of the employee's scheduled duty hours to comply with this section, the time necessary for the tripfrom the worksite to the employee's headquarters or directly to the employee's residence is neither time on duty nor time off duty.
 
 &emsp;(6) Time spent in transportation on an ontrack vehicle, including time referred to in paragraphs (3)–(5) of this subsection, is time on duty.
 

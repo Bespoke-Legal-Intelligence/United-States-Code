@@ -26,7 +26,7 @@ General contents.—A writ of execution shall specify the date that the judgment
 
 &emsp;&emsp;(B)
 
-Additional contents.—(i) Except as provided in clauses (ii) and (iii), the writ shall direct the United States marshal to satisfy the judgment by levying on and selling property in which the judgment debtor has a substantial nonexempt interest, but not to exceed property reasonably equivalent in value to the aggregate amount of the judgment, costs, and interest.
+Additional contents.—(i) Except as provided in clauses (ii) and (iii), the writ shall direct the United States marshal to satisfy the judgment by levying on and selling property in which the judgment debtor has a substantial nonexempt interest, butnot to exceed property reasonably equivalent in value to the aggregate amount of the judgment, costs, and interest.
 
 &emsp;&emsp;(ii) A writ of execution issued on a judgment for the delivery to the United States of the possession of personal property, or for the delivery of the possession of real property, shall particularly describe the property, and shall require the marshal to deliver the possession of the property to the United States.
 
@@ -106,7 +106,7 @@ In general.—(I) Except as provided in clause (ii), real property, or any inter
 
 &emsp;&emsp;&emsp;(II) The court may order the sale of any real property after the expiration of the 30-day period beginning on the date of levy under subsection (d) if the court determines that such property is likely to perish, waste, be destroyed, or otherwise substantially depreciate in value during the 90-day period beginning on the date of levy.
 
-&emsp;&emsp;&emsp;(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeks prior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location for rural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor's reasonable objections, for a reasonable period before the day of sale.
+&emsp;&emsp;&emsp;(III) The time and place of sale of real property, or any interest therein, under execution shall be advertised by the United States marshal, by publication of notice, once a week for at least 3 weeksprior to the sale, in at least one newspaper of general circulation in the county or parish where the property is located. The first publication shall appear not less than 25 days preceding the day of sale. The notice shall contain a statement of the authority by which the sale is to be made, the time of levy, the time and place of sale, and a brief description of the property to be sold, sufficient to identify the property (such as a street address for urban property and the survey identification and location for rural property), but it shall not be necessary for the notice to contain field notes. Such property shall be open for inspection and appraisal, subject to the judgment debtor's reasonable objections, for a reasonable period before the day of sale.
 
 &emsp;&emsp;&emsp;(IV) The United States marshal shall serve written notice of public sale by personal delivery, or certified or registered mail, to each person whom the marshal has reasonable cause to believe, after a title search is conducted by the United States, has an interest in property under execution, including lienholders, co-owners, and tenants, at least 25 days before the day of sale, to the last known address of each such person.
 
@@ -176,7 +176,7 @@ Transfer of title after sale.—
 
 &emsp;&emsp;(B)
 
-Purchaser considered innocent purchaser without notice.—The purchaser of property sold under execution shall be deemed to be an innocent purchaser without notice if the purchaser would have been considered an innocent purchaser without notice had the sale been made voluntarily and in person by the judgment debtor.
+Purchaser considered innocent purchaser without notice.—The purchaser ofproperty sold under execution shall be deemed to be an innocent purchaser without notice if the purchaser would have been considered an innocent purchaser without notice had the sale been made voluntarily and in person by the judgment debtor.
 
 &emsp;&emsp;(C)
 
@@ -190,7 +190,7 @@ Disposition of Proceeds; Further Levy.—
 
 Distribution of sale proceeds.—(A) The United States marshal shall first deliver to the judgment debtor such amounts to which the judgment debtor is entitled from the sale of partially exempt property.
 
-&emsp;(B) The United States marshal shall next deduct from the proceeds of an execution sale of property an amount equal to the reasonableexpenses incurred in making the levy of execution and in keeping and maintaining the property.
+&emsp;(B) The United States marshal shall next deduct from the proceeds of an execution sale of property an amount equal to the reasonable expenses incurred in making the levy of execution and in keeping and maintaining the property.
 
 &emsp;(C) Except as provided in subparagraph (D), the United States marshal shall deliver the balance of the proceeds to the counsel for the United States as soon as practicable.
 

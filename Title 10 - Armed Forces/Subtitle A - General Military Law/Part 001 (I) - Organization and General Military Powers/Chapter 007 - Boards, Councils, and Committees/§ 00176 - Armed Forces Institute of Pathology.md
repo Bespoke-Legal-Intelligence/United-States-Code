@@ -28,7 +28,7 @@
 
 2001—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1996—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
+1996—Subsec. (a)(3). Pub. L. 104–106, §903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs”and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
 
 1993—Subsec. (c). Pub. L. 103–160 inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
 

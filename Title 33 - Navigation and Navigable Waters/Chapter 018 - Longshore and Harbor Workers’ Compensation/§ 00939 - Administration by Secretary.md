@@ -24,7 +24,7 @@ Section 945 of this title, referred to in subsec. (a), was repealed by Pub. L. 9
 
 #### Codification
 
-In subsec. (a) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554,§7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 As originally enacted, subsec. (b) contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”.
 

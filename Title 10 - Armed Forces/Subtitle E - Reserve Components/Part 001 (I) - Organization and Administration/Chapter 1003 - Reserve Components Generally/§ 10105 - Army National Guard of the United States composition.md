@@ -56,7 +56,7 @@ Qualified Prior Active-Duty Personnel.—For purposes of this section, qualified
 
 “(a)
 
-Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Period of Active-duty Service Obligation Not Served on Active Duty.—(1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers’ Training Corps graduate and who is permitted to be released from active duty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
+Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Period of Active-duty Service Obligation Not Served on Active Duty.—(1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers’ Training Corps graduate and who is permitted to be released from activeduty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
 
 “(2) The Secretary concerned may waive paragraph (1) in a case in which the Secretary determines that there is no unit position available for the officer.
 

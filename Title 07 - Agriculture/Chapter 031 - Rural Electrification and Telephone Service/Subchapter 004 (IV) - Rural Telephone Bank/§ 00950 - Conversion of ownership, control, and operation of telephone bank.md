@@ -6,7 +6,7 @@ Whenever fifty-one per centum of the maximum amount of class A stock issued to t
 
 &emsp;(1) the powers and authority of the Governor of the telephone bank granted to the Secretary by this subchapter shall vest in the Telephone Bank Board, and may be exercised and performed through the Governor of the telephone bank, to be selected by the Telephone Bank Board, and through such other employees as the Telephone Bank Board shall designate;
 
-&emsp;(2) the five members of the Telephone Bank Board designated by the President pursuant to section 945(b)(1)(A) of this title shall cease to be members, and the number of Board members shall be accordingly reduced to eight unless other provision is thereafter made in the bylaws of the telephone bank;
+&emsp;(2) the five members of the Telephone Bank Board designated by the President pursuant to section 945(b)(1)(A) of this title shall cease tobe members, and the number of Board members shall be accordingly reduced to eight unless other provision is thereafter made in the bylaws of the telephone bank;
 
 &emsp;(3) the telephone bank shall cease to be an agency of the United States, but shall continue in existence in perpetuity as an instrumentality of the United States and as a banking corporation with all of the powers and limitations conferred or imposed by this subchapter except such as shall have lapsed pursuant to the provisions of this subchapter.
 

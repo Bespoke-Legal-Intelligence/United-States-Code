@@ -30,7 +30,7 @@ Pars. (7) to (9). Pub. L. 105–305, §2(b)(2), added pars. (7) to (9).
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act \[enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
+Pub. L. 105–305, §1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act \[enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out asnotes under this section\] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### (a) Reservation of funds
 
-From the amount appropriated for payments to States for any fiscal year under section <sup>1</sup> 6302(a) and 6337(f) of this title, the Secretaryshall reserve a total of 1 percent to provide assistance to—
+From the amount appropriated for payments to States for any fiscal year under section <sup>1</sup> 6302(a) and 6337(f) of this title, the Secretary shall reserve a total of 1 percent to provide assistance to—
 
 &emsp;(1) the outlying areas in the amount determined in accordance with subsection (b) of this section; and
 

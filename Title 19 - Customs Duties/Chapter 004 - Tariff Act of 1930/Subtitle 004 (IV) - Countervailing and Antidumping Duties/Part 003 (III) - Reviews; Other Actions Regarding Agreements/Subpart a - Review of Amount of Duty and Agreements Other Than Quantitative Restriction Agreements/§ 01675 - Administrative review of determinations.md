@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer ofthe subject merchandise establishing that—
+&emsp;&emsp;&emsp;If the administering authority receives a request from an exporter or producer of the subject merchandise establishing that—
 
 &emsp;&emsp;&emsp;&emsp;(I) such exporter or producer did not export the merchandise that was the subject of an antidumping duty or countervailing duty order to the United States (or, in the case of a regional industry, did not export the subject merchandise for sale in the region concerned) during the period of investigation, and
 
@@ -146,7 +146,7 @@
 
 #### (A) No response
 
-&emsp;&emsp;If no interested party responds to the notice of initiation under this subsection, the administering authority shall issue a final determination, within 90 days after the initiation of a review, revoking the order or terminating the suspended investigation to which such notice relates. For purposes of this paragraph, an interested party means a party described in section 1677(9)(C), (D), (E), (F), or (G) of this title.
+&emsp;&emsp;If no interested party responds to the notice of initiation under this subsection, the administering authority shall issue a final determination, within 90 days after the initiation of a review, revoking the order or terminating the suspended investigation towhich such notice relates. For purposes of this paragraph, an interested party means a party described in section 1677(9)(C), (D), (E), (F), or (G) of this title.
 
 #### (B) Inadequate response
 
@@ -350,7 +350,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

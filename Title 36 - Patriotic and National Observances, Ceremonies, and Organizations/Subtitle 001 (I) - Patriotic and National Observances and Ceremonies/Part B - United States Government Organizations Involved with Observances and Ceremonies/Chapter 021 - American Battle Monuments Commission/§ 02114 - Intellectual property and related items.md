@@ -26,7 +26,7 @@ Legal Representation.—The Attorney General shall furnish the Commission with s
 
 (e)
 
-Irrevocability of Transfers of Copyrights to Commission.—Section 203 of title 17shall not apply to any copyright transferred in any manner to the Commission.
+Irrevocability of Transfers of Copyrights to Commission.—Section 203 of title 17 shall not apply to any copyright transferred in any manner to the Commission.
 
 (Added Pub. L. 106–117, title VI, §603(a), Nov. 30, 1999, 113 Stat. 1579.)
 

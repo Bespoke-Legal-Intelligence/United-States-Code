@@ -30,7 +30,7 @@ For purposes of this section, the term “prohibited transaction” means any tr
 
 &emsp;(6) engages in any other transaction which results in a substantial diversion of its income or corpus to;
 
-> the creator of such organization (if a trust); a person who has made a substantial contributionto such organization; a member of the family (as defined in section 267(c)(4)) of an individual who is the creator of such trust or who has made a substantial contribution to such organization; or a corporation controlled by such creator or person through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation.
+> the creator of such organization (if a trust); a person who has made a substantial contribution to such organization; a member of the family (as defined in section 267(c)(4)) of an individual who is the creator of such trust or who has made a substantial contribution to such organization; or a corporation controlled by such creator or person through the ownership, directly or indirectly, of 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock of the corporation.
 
 #### (c) Future status of organizations denied exemption
 
@@ -78,7 +78,7 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 &emsp;“(1) If any part of the loan is repayable prior to December 31, 1955, the renewal of such part of the loan for a period not extending beyond December 31, 1955, on the same terms, shall not be considered a prohibited transaction.
 
-&emsp;“(2) If the loan is repayable on demand, the continuation of the loan without the receipt of adequatesecurity and a reasonable rate of interest beyond December 31, 1955, shall be considered a prohibited transaction.”
+&emsp;“(2) If the loan is repayable on demand, the continuation of the loan without the receipt of adequate security and a reasonable rate of interest beyond December 31, 1955, shall be considered a prohibited transaction.”
 
 1976—Subsecs. (a)(2), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

@@ -44,7 +44,7 @@ The Secretary is authorized to obtain and administer, according to the provision
 
 #### (f) Zoning restrictions for protection of scenic resources
 
-(1) The Secretary shall enter into discussions with appropriate local government officials to develop mutually agreeable zoning restrictions for the protection of scenic resources with respect to the lands described in subsection (c)(1) of this section.
+(1) The Secretary shall enter into discussions with appropriate local government officials todevelop mutually agreeable zoning restrictions for the protection of scenic resources with respect to the lands described in subsection (c)(1) of this section.
 
 (2) The Secretary shall enter into discussions with appropriate State and local officials responsible for the administration of the Goemaere-Anderson Wetland Protection Act (Michigan, P.A. 203, 1979) to ensure the protection of natural resources with respect to the lands described in subsection (c)(2) of this section.
 

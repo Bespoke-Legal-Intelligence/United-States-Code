@@ -6,5 +6,5 @@ If a State educational agency determines that a State agency does not need the f
 
 #### Prior Provisions
 
-A prior section 6433, Pub. L. 89–10, title I, §1413, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3593, related to State reallocation of funds, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6433, Pub. L. 89–10, title I, §1413, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3593, related to State reallocation of funds, prior to thegeneral amendment of this subchapter by Pub. L. 107–110.
 

@@ -20,7 +20,7 @@ In General.—(1) Each year each agency shall have performed an independent eval
 
 Independent Auditor.—Subject to subsection (c)—
 
-&emsp;(1) for each agency with an Inspector General appointed under the Inspector General Act of 1978, the annual evaluation required by this section shall be performed by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
+&emsp;(1) for each agency with an Inspector General appointed under the Inspector General Act of 1978 or any other law, the annual evaluation required by this section shall be performed by the Inspector General or by an independent external auditor, as determined by the Inspector General of the agency; and
 
 &emsp;(2) for each agency to which paragraph (1) does not apply, the head of the agency shall engage an independent external auditor to perform the evaluation.
 
@@ -62,11 +62,15 @@ Comptroller General.—The Comptroller General shall periodically evaluate and r
 
 &emsp;(2) implementation of the requirements of this subchapter.
 
-(Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2952.)
+(Added Pub. L. 107–347, title III, §301(b)(1), Dec. 17, 2002, 116 Stat. 2952; amended Pub. L. 108–177, title III, §377(e), Dec. 13, 2003, 117 Stat. 2631.)
 
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (b)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–177 inserted “or any other law” after “1978”.
 
 #### Section Referred to in Other Sections
 

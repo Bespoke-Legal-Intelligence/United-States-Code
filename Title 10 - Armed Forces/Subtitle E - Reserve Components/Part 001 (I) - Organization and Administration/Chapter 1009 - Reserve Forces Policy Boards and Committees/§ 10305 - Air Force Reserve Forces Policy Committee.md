@@ -1,6 +1,6 @@
 ### §10305. Air Force Reserve Forces Policy Committee
 
-(a) There is in the Office of the Secretary of the Air Force an Air Reserve Forces Policy Committee on Air National Guard and Air ForceReserve Policy. The Committee shall review and comment upon major policy matters directly affecting the reserve components and the mobilization preparedness of the Air Force. The Committee's comments on such policy matters shall accompany the final report regarding any such matters submitted to the Secretary of the Air Force and the Chief of Staff.
+(a) There is in the Office of the Secretary of the Air Force an Air Reserve Forces Policy Committee on Air National Guard and Air Force Reserve Policy. The Committee shall review and comment upon major policy matters directly affecting the reserve components and the mobilization preparedness of the Air Force. The Committee's comments on such policy matters shall accompany the final report regarding any such matters submitted to the Secretary of the Air Force and the Chief of Staff.
 
 (b) The committee consists of officers in the grade of colonel or above, as follows:
 
@@ -102,7 +102,7 @@ Subsec. (b)(2). Pub. L. 99–433, §521(a)(6)(B), inserted “and” after the s
 
 1967—Pub. L. 90–168 amended section generally, and among other changes, redesignated subsec. (e) as (h) and increased from seven to eight the number of subsecs. in the section and in such subsecs. (a)–(h) restated with certain changes the existing authority relating to the Staff Committee on Air Force Reserve Policy within the Office of the Secretary of the Air Force, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment on all major policies affecting Air Force Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve matters.
 
-1958—Subsec. (d). Pub. L. 85–861 substituted “affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of membersof the Air Force Reserve and those of either” for “affecting the Air Force Reserve and either”.
+1958—Subsec. (d). Pub. L. 85–861 substituted “affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Air Force Reserve and those of either” for “affecting the Air Force Reserve and either”.
 
 #### Effective Date of 1967 Amendment
 

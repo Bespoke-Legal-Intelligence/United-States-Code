@@ -3,7 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [2381\.](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md) | Contracts: regulations for bids. |
-| \[2382, 2383. Repealed.\] |  |
+| [2382\.](%C2%A7%2002382%20-%20Consolidation%20of%20contract%20requirements%20policy%20and%20restrictions.md) | Consolidation of contract requirements: policy and restrictions. |
+| \[2383. | Repealed.\] |
 | [2384\.](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md) | Supplies: identification of supplier and sources. |
 | [2384a.](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md) | Supplies: economic order quantities. |
 | [2385\.](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md) | Arms and ammunition: immunity from taxation. |
@@ -33,24 +34,29 @@
 | [2409\.](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md) | Contractor employees: protection from reprisal for disclosure of certain information. |
 | \[2409a. | Repealed.\] |
 | [2410\.](%C2%A7%2002410%20-%20Requests%20for%20equitable%20adjustment%20or%20other%20relief%20certification.md) | Requests for equitable adjustment or other relief: certification. |
-| [2410a.](%C2%A7%2002410a%20-%20Severable%20service%20contracts%20for%20periods%20crossing%20fiscal%20years.md) | Severable service contracts for periods crossing fiscal years. |
+| [2410a.](%C2%A7%2002410a%20-%20Contracts%20for%20periods%20crossing%20fiscal%20years%20severable%20service%20contracts%3B%20leases%20of%20real%20or%20personal%20property.md) | Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property. |
 | [2410b.](%C2%A7%2002410b%20-%20Contractor%20inventory%20accounting%20systems%20standards.md) | Contractor inventory accounting systems: standards. |
 | [2410c.](%C2%A7%2002410c%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md) | Preference for energy efficient electric equipment. |
 | [2410d.](%C2%A7%2002410d%20-%20Subcontracting%20plans%20credit%20for%20certain%20purchases.md) | Subcontracting plans: credit for certain purchases. |
 | \[2410e. | Repealed.\] |
 | [2410f.](%C2%A7%2002410f%20-%20Debarment%20of%20persons%20convicted%20of%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Debarment of persons convicted of fraudulent use of “Made in America” labels. |
 | [2410g.](%C2%A7%2002410g%20-%20Advance%20notification%20of%20contract%20performance%20outside%20the%20United%20States.md) | Advance notification of contract performance outside the United States. |
-| [2410h.](%C2%A7%2002410h%20-%20Acquisition%20fellowship%20program.md) | Acquisition fellowship program. |
+| \[2410h. | Renumbered.\] |
 | [2410i.](%C2%A7%2002410i%20-%20Prohibition%20on%20contracting%20with%20entities%20that%20comply%20with%20the%20secondary%20Arab%20boycott%20of%20Israel.md) | Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel. |
 | [2410j.](%C2%A7%2002410j%20-%20Displaced%20contractor%20employees%20assistance%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides. |
 | [2410k.](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md) | Defense contractors: listing of suitable employment openings with local employment service office. |
 | 2410<i>l</i>. | Contracts for advisory and assistance services: cost comparison studies. |
 | [2410m.](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md) | Retention of amounts collected from contractor during the pendency of contract dispute. |
 | [2410n.](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md) | Products of Federal Prison Industries: procedural requirements. |
+| 2410<i>o.</i> | Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VIII, §801(a)(2), title X, §1005(b)(2), Nov. 24, 2003, 117 Stat. 1540, 1585, added item 2382 and substituted “Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property” for “Severable service contracts for periods crossing fiscal years” in item 2410a.
+
+2002—Pub. L. 107–314, div. A, title VIII, §826(b), title X, §1062(a)(10)(B), Dec. 2, 2002, 116 Stat. 2617, 2650, transferred item 2410h “Acquisition fellowship program” to subchapter IV of chapter 87 as item 1747 and added item 2410<i>o.</i>
 
 2001—Pub. L. 107–107, div. A, title VIII, §§811(a)(2), 834(a)(2), Dec. 28, 2001, 115 Stat. 1181, 1191, added items 2389 and 2410n.
 
@@ -88,7 +94,7 @@ Pub. L. 100–370, §§1(h)(3), 3(b)(2), July 19, 1988, 102 Stat. 848, 855, in i
 
 1986—Pub. L. 99–661, div. A, title XI, §1103(b)(2)(B), Nov. 14, 1986, 100 Stat. 3963, struck out “North Atlantic Treaty Organization” before “cooperative projects” in item 2407.
 
-Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting “Availability of cost and pricing records” for “Cost and price management” in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
+Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting “Availability of cost and pricingrecords” for “Cost and price management” in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
 
 1985—Pub. L. 99–145, title IX, §§917(b), 923(a)(2), title XI, §1102(b)(2), Nov. 8, 1985, 99 Stat. 690, 697, 712, added items 2397a, 2406, and 2407.
 
@@ -120,7 +126,7 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02381 - Contracts regulations for bids](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md)
-- [&sect; 02382 - Repealed. Pub. L. 103&#8211;355, title II, &sect;2102(a), Oct. 13, 1994, 108 Stat. 3309](%C2%A7%2002382%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72102%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203309.md)
+- [&sect; 02382 - Consolidation of contract requirements policy and restrictions](%C2%A7%2002382%20-%20Consolidation%20of%20contract%20requirements%20policy%20and%20restrictions.md)
 - [&sect; 02383 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;803(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002383%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7803%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
 - [&sect; 02384 - Supplies identification of supplier and sources](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md)
 - [&sect; 02384a - Supplies economic order quantities](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md)
@@ -153,17 +159,18 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 - [&sect; 02409 - Contractor employees protection from reprisal for disclosure of certain information](%C2%A7%2002409%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
 - [&sect; 02409a - Repealed. Pub. L. 103&#8211;355, title VI, &sect;6005(b)(1), Oct. 13, 1994, 108 Stat. 3365](%C2%A7%2002409a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20VI%2C%20%C2%A76005%28b%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203365.md)
 - [&sect; 02410 - Requests for equitable adjustment or other relief certification](%C2%A7%2002410%20-%20Requests%20for%20equitable%20adjustment%20or%20other%20relief%20certification.md)
-- [&sect; 02410a - Severable service contracts for periods crossing fiscal years](%C2%A7%2002410a%20-%20Severable%20service%20contracts%20for%20periods%20crossing%20fiscal%20years.md)
+- [&sect; 02410a - Contracts for periods crossing fiscal years severable service contracts; leases of real or personal property](%C2%A7%2002410a%20-%20Contracts%20for%20periods%20crossing%20fiscal%20years%20severable%20service%20contracts%3B%20leases%20of%20real%20or%20personal%20property.md)
 - [&sect; 02410b - Contractor inventory accounting systems standards](%C2%A7%2002410b%20-%20Contractor%20inventory%20accounting%20systems%20standards.md)
 - [&sect; 02410c - Preference for energy efficient electric equipment](%C2%A7%2002410c%20-%20Preference%20for%20energy%20efficient%20electric%20equipment.md)
 - [&sect; 02410d - Subcontracting plans credit for certain purchases](%C2%A7%2002410d%20-%20Subcontracting%20plans%20credit%20for%20certain%20purchases.md)
 - [&sect; 02410e - Repealed. Pub. L. 103&#8211;355, title II, &sect;2301(b), Oct. 13, 1994, 108 Stat. 3321](%C2%A7%2002410e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20II%2C%20%C2%A72301%28b%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203321.md)
 - [&sect; 02410f - Debarment of persons convicted of fraudulent use of &#8220;Made in America&#8221; labels](%C2%A7%2002410f%20-%20Debarment%20of%20persons%20convicted%20of%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md)
 - [&sect; 02410g - Advance notification of contract performance outside the United States](%C2%A7%2002410g%20-%20Advance%20notification%20of%20contract%20performance%20outside%20the%20United%20States.md)
-- [&sect; 02410h - Acquisition fellowship program](%C2%A7%2002410h%20-%20Acquisition%20fellowship%20program.md)
+- [&sect; 02410h - Renumbered &sect;1747](%C2%A7%2002410h%20-%20Renumbered%20%C2%A71747.md)
 - [&sect; 02410i - Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel](%C2%A7%2002410i%20-%20Prohibition%20on%20contracting%20with%20entities%20that%20comply%20with%20the%20secondary%20Arab%20boycott%20of%20Israel.md)
 - [&sect; 02410j - Displaced contractor employees assistance to obtain certification and employment as teachers or employment as teachers&#8217; aides](%C2%A7%2002410j%20-%20Displaced%20contractor%20employees%20assistance%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md)
 - [&sect; 02410k - Defense contractors listing of suitable employment openings with local employment service office](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md)
 - [&sect; 02410l - Contracts for advisory and assistance services cost comparison studies](%C2%A7%2002410l%20-%20Contracts%20for%20advisory%20and%20assistance%20services%20cost%20comparison%20studies.md)
 - [&sect; 02410m - Retention of amounts collected from contractor during the pendency of contract dispute](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md)
 - [&sect; 02410n - Products of Federal Prison Industries procedural requirements](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md)
+- [&sect; 02410o - Multiyear procurement authority purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products](%C2%A7%2002410o%20-%20Multiyear%20procurement%20authority%20purchase%20of%20dinitrogen%20tetroxide%2C%20hydrazine%2C%20and%20hydrazine-related%20products.md)

@@ -34,7 +34,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
-(4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
+(4) The Director shall ensure that applications for service as a volunteer under this part areavailable to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
 (5)(A) The Director shall provide for the assignment of each applicant approved as a volunteer under this part to a project or program that is, to the maximum extent practicable, consistent with the abilities, experiences, and preferences of such applicant that are set forth in the application described in paragraph (4) and the needs and preferences of projects or programs approved for the assignment of such volunteers.
 
@@ -56,7 +56,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(B) advertising through the print media, direct mail, and other means;
 
-&emsp;(C) disseminating information about opportunities for service as a volunteer under thispart to relevant entities including institutions of higher education and other educational institutions (including libraries), professional associations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, and other institutions and organizations from or through which potential volunteers may be recruited;
+&emsp;(C) disseminating information about opportunities for service as a volunteer under this part to relevant entities including institutions of higher education and other educational institutions (including libraries), professional associations, community-based agencies, youth service and volunteer organizations, business organizations, labor unions, senior citizens organizations, and other institutions and organizations from or through which potential volunteers may be recruited;
 
 &emsp;(D) disseminating such information through presentations made personally by employees of the Corporation or other designees of the Director, to students and faculty at institutions of higher education and to other entities described in subparagraph (C), including presentations made at the facilities, conventions, or other meetings of such entities;
 
@@ -76,7 +76,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 #### (d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards
 
-The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce investment board established under section 2832 of title 29.<sup>3</sup>
+The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated withan appropriate local workforce investment board established under section 2832 of title 29.<sup>3</sup>
 
 #### (e) Educational and vocational counseling for volunteers; Director to provide
 
@@ -94,7 +94,7 @@ Volunteers under this part shall not be assigned to work in a program or project
 
 The Director is encouraged to enter into agreements with other Federal agencies to use VISTA volunteers in furtherance of program objectives that are consistent with the purposes described in section 4951 of this title.
 
-(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
+(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434.)
 
 #### References in Text
 
@@ -222,7 +222,7 @@ Retroactive effective date.—The amendments made by paragraphs (1) and (2) \[am
 
 Amendment by section 323 of Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L. 103–82, set out as a note under section 4951 of this title.
 
-Amendment by section 405(a)(2) to (4) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L.103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by section 405(a)(2) to (4) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1986 Amendment
 

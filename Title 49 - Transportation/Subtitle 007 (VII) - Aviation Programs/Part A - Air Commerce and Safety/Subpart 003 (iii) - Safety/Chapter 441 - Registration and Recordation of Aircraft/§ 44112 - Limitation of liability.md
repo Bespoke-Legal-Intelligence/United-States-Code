@@ -38,5 +38,5 @@ Aug. 23, 1958, Pub. L. 85–726, §504, 72 Stat. 774; restated July 8, 1959, Pub
 
 In subsection (a), clauses (1) and (3) are derived from 49 App.:1404 (2d–57th words). Clause (2) is added for clarity. In clause (1), the words “bona fide” are omitted as surplus. In clause (3), the word “nature” is omitted as surplus.
 
-In subsection (b), before clause (1), the words “personal injury, death” are substituted for “any injury to or death of persons”, and the words “on land or water” are substituted for “on the surface of the earth (whether on land or water)”, to eliminate unnecessary words. In clause (2), the words “ascent, descent, or” and “dropping or” are omitted as surplus.
+In subsection (b), before clause (1), the words “personal injury, death” are substituted for “any injury to or death of persons”, and the words “on land or water” are substituted for “on the surface of the earth (whether on land or water)”, to eliminate unnecessary words.In clause (2), the words “ascent, descent, or” and “dropping or” are omitted as surplus.
 

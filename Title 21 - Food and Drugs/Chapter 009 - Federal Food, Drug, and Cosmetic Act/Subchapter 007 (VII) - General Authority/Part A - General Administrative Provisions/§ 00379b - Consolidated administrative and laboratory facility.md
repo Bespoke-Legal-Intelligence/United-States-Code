@@ -10,11 +10,11 @@ The Secretary shall solicit contract proposals under subsection (a) of this sect
 
 #### (c) Donations
 
-In carrying out this section, the Secretary shall have the power, in connection with realproperty, buildings, and facilities, to accept on behalf of the Food and Drug Administration gifts or donations of services or property, real or personal, as the Secretary determines to be necessary.
+In carrying out this section, the Secretary shall have the power, in connection with real property, buildings, and facilities, to accept on behalf of the Food and Drug Administration gifts or donations of services or property, real or personal, as the Secretary determines to be necessary.
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $100,000,000 for fiscal year 1991, and such sums as may be necessary for each of the subsequent fiscal years, to remain available until expended.
+There are authorized to be appropriated to carry out this section $100,000,000 for fiscal year1991, and such sums as may be necessary for each of the subsequent fiscal years, to remain available until expended.
 
 (June 25, 1938, ch. 675, §710, as added Pub. L. 101–635, title I, §101, Nov. 28, 1990, 104 Stat. 4583.)
 

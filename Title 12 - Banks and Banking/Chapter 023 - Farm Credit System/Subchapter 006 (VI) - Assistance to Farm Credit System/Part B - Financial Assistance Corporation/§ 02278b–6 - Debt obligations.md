@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timelypayment of principal and interest by the Secretary of the Treasury as set forth in subsection (d) of this section, with semiannual interest coupon payments and a maturity period of 15 years—
+During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timely payment of principal and interest by the Secretary of the Treasury as set forth in subsection (d) of this section, with semiannual interest coupon payments and a maturity period of 15 years—
 
 &emsp;(1) in an aggregate amount not to exceed $2,800,000,000; and
 
@@ -44,7 +44,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (3) Payments by Treasury
 
-&emsp;The Secretary of the Treasury, in accordance with section 2278b–8 of this title, shall pay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
+&emsp;The Secretary of the Treasury, in accordance with section 2278b–8 of this title, shallpay to the Financial Assistance Corporation, in a timely manner, the balance of each interest payment not made by the System banks.
 
 #### (4) Payment of interest after first 10-year period
 
@@ -60,7 +60,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 &emsp;&emsp;In order to provide for the orderly funding by the banks of the System of the repayment by the Financial Assistance Corporation to the Secretary of the Treasury, the Financial Assistance Corporation shall assess each System bank, on or about December 31 of each year beginning in 1992, and each System bank shall promptly pay to the Financial Assistance Corporation, an annual annuity type payment in an amount designed to accumulate, in total, including earnings thereon, the amount of the bank's ultimate obligation (as determined by the Corporation on a fair and equitable basis), and no greater than .0006 nor less than .0004 times the bank's and its affiliated associations’ average accruing retail loan volume for the preceding year, subject to—
 
-&emsp;&emsp;&emsp;(i) upward or downward adjustment, as appropriate, by the Financial Assistance Corporation during each of the last 5 yearsprior to the date the Financial Assistance Corporation is obligated to make the repayment, in order to ensure that the Financial Assistance Corporation will have the amount of funds needed to make the repayment on the due date; and
+&emsp;&emsp;&emsp;(i) upward or downward adjustment, as appropriate, by the Financial Assistance Corporation during each of the last 5 years prior to the date the Financial Assistance Corporation is obligated to make the repayment, in order to ensure that the Financial Assistance Corporation will have the amount of funds needed to make the repayment on the due date; and
 
 &emsp;&emsp;&emsp;(ii) reduction or termination in any year when the funds paid to the Financial Assistance Corporation, including any anticipated future earnings on the funds, are sufficient to make the repayment on the due date.
 
@@ -88,7 +88,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (F) Associations terminating System status or in liquidation
 
-&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the bank against the estate of any association undergoing liquidation.
+&emsp;&emsp;Any association terminating System status pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to its supervising bank a share, based on the association's retail loan volume relative to the retail loan volume of the bank and its affiliated associations had the association remained in the System, of the estimated present value of all future such assessments against the bank. A liability to the bank in this amount (calculated as if the association had left the System on the date it was placed in liquidation) shall be recognized asa claim in favor of the bank against the estate of any association undergoing liquidation.
 
 #### (G) Capital requirements
 
@@ -150,7 +150,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In order to enable the Financial Assistance Corporation to repay the obligations issued to provide assistance under subsections (c) and (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note) and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board or the Financial Assistance Corporation under sections 2278a–7(a) and 2278b–4, respectively, of this title, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the obligation equal to—
+&emsp;&emsp;&emsp;In order to enable the Financial Assistance Corporation to repay the obligationsissued to provide assistance under subsections (c) and (e) of section 410 of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note) and section 2162(c) of this title, or issued to provide funds to cover the expenses of the Assistance Board or the Financial Assistance Corporation under sections 2278a–7(a) and 2278b–4, respectively, of this title, each System bank shall pay to the Financial Assistance Corporation a proportion, as calculated by the Financial Assistance Corporation, of the obligation equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average accruing retail loan volume of the bank and its affiliated associations for the preceding 15 years; divided by
 
@@ -166,7 +166,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iv) Banks leaving System
 
-&emsp;&emsp;&emsp;Any bank leaving the Farm Credit System pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of the payment required under this subparagraph had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date it was placedin liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation. The obligations of other banks shall not be reduced in anticipation of any such recoveries from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
+&emsp;&emsp;&emsp;Any bank leaving the Farm Credit System pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of the payment required under this subparagraph had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation. The obligations of other banks shall not be reduced in anticipation of any such recoveries from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
 
 #### (v) Associations terminating System status or in liquidation
 

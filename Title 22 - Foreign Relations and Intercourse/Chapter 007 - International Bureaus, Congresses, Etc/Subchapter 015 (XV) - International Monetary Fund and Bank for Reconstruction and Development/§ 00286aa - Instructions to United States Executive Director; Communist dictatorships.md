@@ -1,6 +1,6 @@
 ### §286aa. Instructions to United States Executive Director; Communist dictatorships
 
-The Congress hereby finds that Communist dictatorships result in severe constraints on labor and capital mobility and other highly inefficient labor and capital supply rigidities which contribute to balance of payments deficits in direct contradiction of the goals of the International Monetary Fund. Therefore, the Secretary of the Treasury shall instruct the United States Executive Director of the Fund to actively oppose any facility involving use of Fund credit by any Communist dictatorship, unless the Secretary of the Treasury certifies and documents in writing upon request and so notifies and appears, if requested, before the Foreign Relations and Banking, Housing, and Urban Affairs Committees of the Senate and the Banking, Finance and Urban Affairs Committee of the House of Representatives, at least twenty-one days in advance of any vote on such drawing that such drawing—
+The Congress hereby finds that Communist dictatorships result in severe constraints on labor and capital mobility and other highly inefficient labor and capital supply rigidities which contribute to balance of payments deficits in direct contradiction of the goals of the International Monetary Fund. Therefore, the Secretary of the Treasury shall instruct the UnitedStates Executive Director of the Fund to actively oppose any facility involving use of Fund credit by any Communist dictatorship, unless the Secretary of the Treasury certifies and documents in writing upon request and so notifies and appears, if requested, before the Foreign Relations and Banking, Housing, and Urban Affairs Committees of the Senate and the Banking, Finance and Urban Affairs Committee of the House of Representatives, at least twenty-one days in advance of any vote on such drawing that such drawing—
 
 &emsp;(1) provides the basis for correcting the balance of payments difficulties and restoring a sustainable balance of payments position;
 
@@ -14,7 +14,7 @@ The Congress hereby finds that Communist dictatorships result in severe constrai
 
 #### Amendments
 
-1993—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related touse of International Monetary Fund credit by any country which practices apartheid.
+1993—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
 
 #### Change of Name
 

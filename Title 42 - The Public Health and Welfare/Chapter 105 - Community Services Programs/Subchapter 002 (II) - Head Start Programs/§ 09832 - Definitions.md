@@ -122,7 +122,7 @@ Pub. L. 103–252, §102(3), (4), added par. (13) and redesignated it as (10).
 
 Par. (14). Pub. L. 103–252, §102(4), redesignated par. (9) as (14).
 
-1990—Par. (2). Pub. L. 101–501, §104(b)(1), substituted “the Federated States of Micronesia, the Republic ofthe Marshall Islands, Palau” for “the Trust Territory of the Pacific Islands”.
+1990—Par. (2). Pub. L. 101–501, §104(b)(1), substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau” for “the Trust Territory of the Pacific Islands”.
 
 Pars. (4), (5). Pub. L. 101–501, §104(b)(2), added pars. (4) and (5).
 

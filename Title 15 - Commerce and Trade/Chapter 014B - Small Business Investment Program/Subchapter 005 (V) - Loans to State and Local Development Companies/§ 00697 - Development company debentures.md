@@ -38,7 +38,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;&emsp;&emsp;(ii) 50 percent of the amount established under clause (i) in the case of a loan made during the 2-year period beginning on October 1, 2002, for the life of the loan; and
 
-&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
+&emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
 #### (c) Commercial loan interest rate
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–36 inapplicable to loans made or guaranteed under Small Business Act or Small Business Investment Act of 1958 before Oct. 12, 1995, unless such loans are refinanced, extended, restructured, or renewed on or after Oct. 12, 1995, see section 8 of Pub. L. 104–36, set out as a note under section 634 of this title.
+Amendment by Pub. L. 104–36 inapplicable to loans made or guaranteed under Small Business Act or SmallBusiness Investment Act of 1958 before Oct. 12, 1995, unless such loans are refinanced, extended, restructured, or renewed on or after Oct. 12, 1995, see section 8 of Pub. L. 104–36, set out as a note under section 634 of this title.
 
 #### Termination Date of 1988 Amendment
 

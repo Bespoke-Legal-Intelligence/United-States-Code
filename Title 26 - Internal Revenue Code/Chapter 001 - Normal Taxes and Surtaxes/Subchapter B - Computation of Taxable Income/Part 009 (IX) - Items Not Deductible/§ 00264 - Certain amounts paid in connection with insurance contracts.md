@@ -8,11 +8,11 @@ No deduction shall be allowed for—
 
 &emsp;(2) Any amount paid or accrued on indebtedness incurred or continued to purchase or carry a single premium life insurance, endowment, or annuity contract.
 
-&emsp;(3) Except as provided in subsection (d), any amount paid or accrued on indebtedness incurred or continued to purchase or carry a life insurance, endowment, or annuity contract (other than a single premium contract or a contract treated as a single premium contract) pursuant to a plan of purchase whichcontemplates the systematic direct or indirect borrowing of part or all of the increases in the cash value of such contract (either from the insurer or otherwise).
+&emsp;(3) Except as provided in subsection (d), any amount paid or accrued on indebtedness incurred or continued to purchase or carry a life insurance, endowment, or annuity contract (other than a single premium contract or a contract treated as a single premium contract) pursuant to a plan of purchase which contemplates the systematic direct or indirect borrowing of part or all of the increases in the cash value of such contract (either from the insurer or otherwise).
 
 &emsp;(4) Except as provided in subsection (e), any interest paid or accrued on any indebtedness with respect to 1 or more life insurance policies owned by the taxpayer covering the life of any individual, or any endowment or annuity contracts owned by the taxpayer covering any individual.
 
-> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased after March 1, 1954. Paragraph (3) shall apply only in respect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
+> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased after March 1, 1954. Paragraph (3) shall apply only inrespect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
 
 #### (b) Exceptions to subsection (a)(1)
 
@@ -170,7 +170,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (ii) Exception where business is beneficiary
 
-&emsp;&emsp;&emsp;If a trade or business is directly or indirectly the beneficiary under any policy or contract, such policy or contract shall betreated as held by such trade or business and not by a natural person.
+&emsp;&emsp;&emsp;If a trade or business is directly or indirectly the beneficiary under any policy or contract, such policy or contract shall be treated as held by such trade or business and not by a natural person.
 
 #### (iii) Special rules
 

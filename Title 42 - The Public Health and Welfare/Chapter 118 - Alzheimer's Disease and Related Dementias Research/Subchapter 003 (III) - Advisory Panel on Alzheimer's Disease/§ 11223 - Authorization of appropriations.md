@@ -6,5 +6,5 @@ There are authorized to be appropriated to carry out this subchapter such sums a
 
 #### Amendments
 
-1992—Pub. L. 102–507 amended section generally. Prior to amendment, section read as follows: “To carry outthis subchapter, there are authorized to be appropriated $100,000 for each of the fiscal years 1988 through 1991.”
+1992—Pub. L. 102–507 amended section generally. Prior to amendment, section read as follows: “To carry out this subchapter, there are authorized to be appropriated $100,000 for each of the fiscal years 1988 through 1991.”
 

@@ -56,7 +56,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (26) Upper Iowa, Iowa: The entire river.
 
-(27) Youghiogheny, Maryland and Pennsylvania: The segment from Oakland, Maryland, tothe Youghiogheny Reservoir, and from the Youghiogheny Dam downstream to the town of Connellsville, Pennsylvania.
+(27) Youghiogheny, Maryland and Pennsylvania: The segment from Oakland, Maryland, to the Youghiogheny Reservoir, and from the Youghiogheny Dam downstream to the town of Connellsville, Pennsylvania.
 
 (28) American, California: The North Fork from the Cedars to the Auburn Reservoir.
 
@@ -256,7 +256,7 @@ Mills River, North Carolina.—The North Fork from the bottom of the spillway of
 
 (110)
 
-Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup>—The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
+Sudbury, Assabet, and Concord, Massachussets.<sup>1</sup> —The segment of the Sudbury from the Danforth Street Bridge in the town of Framingham, to its confluence with the Assabet, the Assabet from 1,000 feet downstream of the Damon Mill Dam in Concord to its confluence with the Sudbury and the Concord from the confluence of the Sudbury and Assabet downstream to the Route 3 Bridge in the town of Billerica. The study of such river segments shall be completed and the report submitted thereon not later than at the end of the third fiscal year beginning after November 28, 1990.
 
 (111)
 
@@ -328,7 +328,7 @@ Sturgeon, Hiawatha National Forest, Michigan.—The 18.1-mile segment from Sixte
 
 Tahquamenon, Michigan.—The 103.5-mile segment as follows—
 
-&emsp;(A) the 90-mile segment of the mainstream beginning at the source in section 21, township47 north, range 12 west, to the mouth at Whitefish Bay; and
+&emsp;(A) the 90-mile segment of the mainstream beginning at the source in section 21, township 47 north, range 12 west, to the mouth at Whitefish Bay; and
 
 &emsp;(B) the 13.5-mile segment of the east branch from the western boundary of the Hiawatha National Forest in section 19, township 46 north, range 6 west, to its confluence with the mainstream.
 
@@ -420,7 +420,7 @@ Eightmile River, Connecticut.—The segment from its headwaters downstream to it
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal yearsafter November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
@@ -454,7 +454,7 @@ Eightmile River, Connecticut.—The segment from its headwaters downstream to it
 
 &emsp;(ii) consider previous plans for the protection of affected cultural, recreational, and natural resources (including water supply and water quality) and existing State and local regulations, so as to avoid unnecessary duplication.
 
-(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, NewJersey, to the Southern <sup>7</sup> boundary of Bucks County, Pennsylvania.
+(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, New Jersey, to the Southern <sup>7</sup> boundary of Bucks County, Pennsylvania.
 
 (15) The study of the Rio Grande in New Mexico shall be completed and the report submitted not later than 3 years after May 4, 1994.
 
@@ -480,7 +480,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484.)
+(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484.)
 
 #### References in Text
 

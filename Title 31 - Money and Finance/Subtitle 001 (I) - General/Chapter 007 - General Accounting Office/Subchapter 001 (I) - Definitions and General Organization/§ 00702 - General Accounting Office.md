@@ -2,7 +2,7 @@
 
 (a) The General Accounting Office is an instrumentality of the United States Government independent of the executive departments.
 
-(b) The head of the Office is the Comptroller General of the United States. The Office has a Deputy Comptroller General of the United States.
+(b) The head of the Office is the Comptroller General of the United States. The Office has aDeputy Comptroller General of the United States.
 
 (c) The Comptroller General may adopt a seal for the Office.
 

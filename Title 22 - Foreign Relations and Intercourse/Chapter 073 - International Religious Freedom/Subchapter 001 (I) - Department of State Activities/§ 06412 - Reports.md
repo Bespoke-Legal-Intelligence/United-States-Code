@@ -8,7 +8,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (1) Deadline for submission
 
-&emsp;On September 1 of each year or the first day thereafter on which the appropriate House of Congress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
+&emsp;On September 1 of each year or the first day thereafter on which the appropriate House ofCongress is in session, the Secretary of State, with the assistance of the Ambassador at Large, and taking into consideration the recommendations of the Commission, shall prepare and transmit to Congress an Annual Report on International Religious Freedom supplementing the most recent Human Rights Reports by providing additional detailed information with respect to matters involving international religious freedom. Each Annual Report shall contain the following:
 
 #### (A) Status of religious freedom
 
@@ -30,7 +30,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (C) United States policies
 
-&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 monthsby the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
+&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
 
 #### (D) International agreements in effect
 

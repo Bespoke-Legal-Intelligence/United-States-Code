@@ -8,7 +8,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit shall
 
 A partner's distributive share of income, gain, loss, deduction, or credit (or item thereof) shall be determined in accordance with the partner's interest in the partnership (determined by taking into account all facts and circumstances), if—
 
-&emsp;(1) the partnership agreement does not provide as to the partner's distributive share ofincome, gain, loss, deduction, or credit (or item thereof), or
+&emsp;(1) the partnership agreement does not provide as to the partner's distributive share of income, gain, loss, deduction, or credit (or item thereof), or
 
 &emsp;(2) the allocation to a partner under the agreement of income, gain, loss, deduction, or credit (or item thereof) does not have substantial economic effect.
 
@@ -68,7 +68,7 @@ A partner's distributive share of partnership loss (including capital loss) shal
 
 &emsp;&emsp;<b>For rules in the case of the sale, exchange, liquidation, or reduction of a partner's interest, see section 706(c)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379;Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
 
 #### Amendments
 

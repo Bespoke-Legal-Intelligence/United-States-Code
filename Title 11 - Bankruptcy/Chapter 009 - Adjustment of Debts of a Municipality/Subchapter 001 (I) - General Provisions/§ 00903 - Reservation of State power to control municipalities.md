@@ -12,7 +12,7 @@ This chapter does not limit or impair the power of a State to control, by legisl
 
 I74legislative statements
 
-Section 903 of the House amendment represents a stylistic revision of section 903 of the Senate amendment.To the extent section 903 of the House bill would have changed present law, such section is rejected.
+Section 903 of the House amendment represents a stylistic revision of section 903 of the Senate amendment. To the extent section 903 of the House bill would have changed present law, such section is rejected.
 
 #### senate report no. 95–989
 

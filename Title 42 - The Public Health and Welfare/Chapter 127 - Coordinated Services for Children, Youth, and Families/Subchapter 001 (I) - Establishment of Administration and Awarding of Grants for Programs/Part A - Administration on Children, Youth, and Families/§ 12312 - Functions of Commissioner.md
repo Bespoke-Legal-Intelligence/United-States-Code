@@ -52,7 +52,7 @@ The Commissioner shall—
 
 &emsp;(12) develop basic policies and set priorities with respect to the development and operation of programs and activities conducted under this chapter;
 
-&emsp;(13) convene conferences of authorities and officials of organizations, including Federal, State, and local agencies, and nonprofit private organizations, of programs for children, youth and their families for the development and implementation of policies related to the priorities and purposes of this chapter, including topics such as the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
+&emsp;(13) convene conferences of authorities and officials of organizations, including Federal, State, and local agencies, and nonprofit private organizations, of programs for children, youth and their families for the developmentand implementation of policies related to the priorities and purposes of this chapter, including topics such as the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
 &emsp;(14) conduct periodic evaluations of the programs and activities related to the purposes of this chapter; and
 

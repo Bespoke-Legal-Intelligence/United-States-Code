@@ -12,7 +12,7 @@ The Bank shall have power—
 
 &emsp;(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal in and with any property, real, personal, or mixed, or any interest therein, wherever situated;
 
-&emsp;(6) to accept gifts or donations of services, or of property, real, personal, or mixed, tangible or intangible, in aid of any of the purposes of the Bank;
+&emsp;(6) to accept gifts or donations of services, or of property, real, personal, or mixed, tangibleor intangible, in aid of any of the purposes of the Bank;
 
 &emsp;(7) to sell, convey, mortgage, pledge, lease, exchange, and otherwise dispose of its property and assets;
 

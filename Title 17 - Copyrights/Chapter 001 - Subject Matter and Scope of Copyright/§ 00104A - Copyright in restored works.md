@@ -76,7 +76,7 @@ Notices of Intent To Enforce a Restored Copyright.—
 
 &emsp;(1)
 
-Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
+Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically requirein regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
 
 &emsp;(ii) If a work in which copyright is restored has no formal title, it shall be described in the notice of intent in detail sufficient to identify it.
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(4) The term “reliance party” means any person who—
 
-&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if therestored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
+&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
 
 &emsp;&emsp;(B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
 
@@ -240,7 +240,7 @@ Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted “of which” be
 
 Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
 
-1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+1997—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “In the case of a derivative work that is based upon a restored work and is created—
 
 &emsp;“(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
@@ -248,7 +248,7 @@ Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read a
 
 > a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
 
-Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the FederalRegister on an annual basis for the first 2 years after the applicable date of restoration.”
+Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
 
 Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 

@@ -40,7 +40,7 @@ Except as provided in subsection (d) of this section, the Presidential actions r
 
 &emsp;(14) Prohibiting any United States financial institution from making loans or providing credits totaling more than $10,000,000 in any 12-month period to the specific foreign government, agency, instrumentality, or official found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
 
-&emsp;(15) Prohibiting the United States Government from procuring, or entering into any contract for the procurement of, any goods or services from the foreign government, entities, or officials found or determined by the President to be responsible for violations under section 6441 or 6442 of this title.
+&emsp;(15) Prohibiting the United States Government from procuring, or entering into any contract for the procurement of, any goods or services from the foreign government, entities, or officials found or determined by thePresident to be responsible for violations under section 6441 or 6442 of this title.
 
 #### (b) Commensurate action
 

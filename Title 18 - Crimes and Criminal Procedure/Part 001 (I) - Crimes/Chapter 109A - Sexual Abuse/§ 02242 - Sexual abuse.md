@@ -24,5 +24,5 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2242.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2119, 2244, 2255, 3486, 3559 of this title; title 42 sections 14071, 14135a.
+This section is referred to in sections 2119, 2244, 2255, 3142, 3486, 3559, 3583 of this title; title 42 sections 14071, 14135a.
 

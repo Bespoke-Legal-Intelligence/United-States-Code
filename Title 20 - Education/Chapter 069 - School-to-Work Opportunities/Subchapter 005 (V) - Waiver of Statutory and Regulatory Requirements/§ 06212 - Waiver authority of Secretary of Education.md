@@ -56,7 +56,7 @@ The provisions subject to the waiver authority of this section are—
 
 &emsp;(4) part B of title IX of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7821 et seq.\];
 
-&emsp;(5) parts K through N of the Educational Research, Development, Dissemination, and Improvement Act of 1994;<sup>1</sup> and
+&emsp;(5) parts K through N of the Educational Research, Development, Dissemination, and Improvement Act of 1994; <sup>1</sup> and
 
 &emsp;(6) the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\].
 
@@ -86,7 +86,7 @@ The Secretary of Education may not waive any requirement of any provision referr
 
 The Secretary of Education shall periodically review the performance of any State, local partnership, or local educational agency, for which the Secretary of Education has granted a waiver under this section and shall terminate the waiver under this section if the Secretary of Education determines that the performance of the State, local partnership, or local educational agency that is affected by the waiver has been inadequate to justify a continuation of the waiver, or the State fails to waive similar requirements of State law as required or agreed to in accordance with subsection (a)(1)(C) of this section.
 
-(Pub. L. 103–239, title V, §502, May 4, 1994, 108 Stat. 598; Pub. L. 103–382, title III, §394(j)(2), Oct.20, 1994, 108 Stat. 4029; Pub. L. 107–110, title X, §1076(q), Jan. 8, 2002, 115 Stat. 2092.)
+(Pub. L. 103–239, title V, §502, May 4, 1994, 108 Stat. 598; Pub. L. 103–382, title III, §394(j)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 107–110, title X, §1076(q), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### References in Text
 

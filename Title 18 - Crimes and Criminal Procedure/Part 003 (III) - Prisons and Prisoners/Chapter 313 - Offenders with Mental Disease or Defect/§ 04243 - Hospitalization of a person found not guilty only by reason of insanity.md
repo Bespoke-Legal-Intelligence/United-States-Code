@@ -2,7 +2,7 @@
 
 (a)
 
-Determination of Present Mental Condition of Acquitted Person.—If a person is found not guilty only by reason of insanity at the time of the offense charged, he shall be committed to a suitable facility until such time as he is eligible for release pursuant to subsection (e).
+Determination of Present Mental Condition of Acquitted Person.—If a person is foundnot guilty only by reason of insanity at the time of the offense charged, he shall be committed to a suitable facility until such time as he is eligible for release pursuant to subsection (e).
 
 (b)
 
@@ -34,7 +34,7 @@ Discharge.—When the director of the facility in which an acquitted person is h
 
 &emsp;(2) his conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment would no longer create a substantial risk of bodily injury to another person or serious damage to property of another, the court shall—
 
-&emsp;&emsp;(A) order that he be conditionally discharged under a prescribed regimen of medical, psychiatric, or psychological care or treatment that has been prepared for him, that has been certified to the court as appropriate by the director of the facility inwhich he is committed, and that has been found by the court to be appropriate; and
+&emsp;&emsp;(A) order that he be conditionally discharged under a prescribed regimen of medical, psychiatric, or psychological care or treatment that has been prepared for him, that has been certified to the court as appropriate by the director of the facility in which he is committed, and that has been found by the court to be appropriate; and
 
 &emsp;&emsp;(B) order, as an explicit condition of release, that he comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment.
 
@@ -46,7 +46,7 @@ Revocation of Conditional Discharge.—The director of a medical facility respon
 
 (h)
 
-Limitations on Furloughs.—An individual who is hospitalized under subsection (e) of this section after being found not guilty only by reason of insanity of an offense for which subsection (d) of this section creates a burden of proof of clear and convincing evidence, may leave temporarily the premises of the facility in which that individual is hospitalized only—
+Limitations on Furloughs.—An individual who is hospitalized under subsection (e) of this section after being found not guilty only by reason of insanity of an offense for which subsection (d) of this section creates a burden of proof of clear and convincing evidence, mayleave temporarily the premises of the facility in which that individual is hospitalized only—
 
 &emsp;(1) with the approval of the committing court, upon notice to the attorney for the Government and such individual, and after opportunity for a hearing;
 

@@ -20,7 +20,7 @@ Section 709 of Pub. L. 87–195, cited as a credit to this section, was repealed
 
 Section 544(b) of act Aug. 26, 1954, cited as a credit to this section, was repealed by Pub. L. 85–477, ch. IV, §401(h), June 30, 1958, 72 Stat. 270, except insofar as such section 544(b) affected this section.
 
-Section 421 of act August 26, 1954, cited as a credit to this section was repealed by section 8(n) of Pub. L. 85–141, except insofar as section 421 affected this section.
+Section 421 of act August 26, 1954, cited as a credit to this section was repealed by section 8(n) of Pub. L.85–141, except insofar as section 421 affected this section.
 
 #### Similar Provisions
 

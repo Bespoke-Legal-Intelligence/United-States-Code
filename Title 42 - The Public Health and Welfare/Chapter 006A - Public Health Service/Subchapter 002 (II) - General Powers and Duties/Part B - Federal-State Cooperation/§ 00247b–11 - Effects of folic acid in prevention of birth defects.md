@@ -18,7 +18,7 @@ In carrying out subsection (a) of this section, the Secretary shall consult with
 
 #### (c) Technical assistance
 
-The Secretary may (directly or through grants or contracts) provide technical assistance to public and nonprofit private entities in carrying out the activities described in subsection (a) of this section.
+The Secretary may (directly or through grants or contracts) provide technical assistance topublic and nonprofit private entities in carrying out the activities described in subsection (a) of this section.
 
 #### (d) Evaluations
 
@@ -26,7 +26,7 @@ The Secretary shall (directly or through grants or contracts) provide for the ev
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title III, §317J, as added Pub. L. 106–310, div. A, title VI, §601, Oct. 17, 2000, 114 Stat. 1118.)
 

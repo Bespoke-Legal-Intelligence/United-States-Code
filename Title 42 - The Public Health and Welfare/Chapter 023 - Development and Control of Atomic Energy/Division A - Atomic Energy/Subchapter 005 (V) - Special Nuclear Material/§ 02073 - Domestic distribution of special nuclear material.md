@@ -30,7 +30,7 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 (3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may be necessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchase price not to exceed the Commission's sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
 
-(4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
+(4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensedand distributed by lease under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
 
 #### (d) Determination of charges
 
@@ -60,7 +60,7 @@ Each license issued pursuant to this section shall contain and be subject to the
 
 &emsp;(5) no special nuclear material may be used in any utilization or production facility except in accordance with the provisions of this chapter;
 
-&emsp;(6) special nuclear material shall be distributed only on terms, as may be established byrule of the Commission, such that no user will be permitted to construct an atomic weapon;
+&emsp;(6) special nuclear material shall be distributed only on terms, as may be established by rule of the Commission, such that no user will be permitted to construct an atomic weapon;
 
 &emsp;(7) special nuclear material shall be distributed only pursuant to such safety standards as may be established by rule of the Commission to protect health and to minimize danger to life or property; and
 

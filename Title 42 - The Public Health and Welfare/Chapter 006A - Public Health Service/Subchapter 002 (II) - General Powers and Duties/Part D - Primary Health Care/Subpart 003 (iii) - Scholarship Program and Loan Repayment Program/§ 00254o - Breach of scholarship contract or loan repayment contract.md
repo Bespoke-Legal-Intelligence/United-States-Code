@@ -14,7 +14,7 @@
 
 (2) An individual who has entered into a written contract with the Secretary under section 254<i>l</i>–1 of this title and who—
 
-&emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institutionin which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
+&emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
 
 &emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254<i>l</i>–1(b)(1)(B)(ii) of this title,
 
@@ -64,7 +64,7 @@
 
 > except that the amount the United States is entitled to recover under this paragraph shall not be less than $31,000.
 
-(2) The Secretary may terminate a contract with an individual under section 254<i>l</i>–1 of this title if, not later than 45 days before the end ofthe fiscal year in which the contract was entered into, the individual—
+(2) The Secretary may terminate a contract with an individual under section 254<i>l</i>–1 of this title if, not later than 45 days before the end of the fiscal year in which the contract was entered into, the individual—
 
 &emsp;(A) submits a written request for such termination; and
 
@@ -86,15 +86,21 @@
 
 #### (e) Inapplicability of Federal and State statute of limitations on actions for collection
 
-Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
+Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, ajudgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651.)
+#### (f) Effective date
+
+The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments of 2002 (Public Law 107–251) shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after October 26, 2002.
+
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(<i>l</i>)(1), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### References in Text
 
 Section 234 of this title, referred to in subsecs. (b)(2) and (d)(3)(B)(ii), was repealed by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
 
 Section 254n of this title, referred to in subsec. (b)(2), in the original referred to section 753, meaning section 753 of the Public Health Service Act, which was classified to section 294v of this title. Section 753 was redesignated section 338C of the Public Health Service Act by Pub. L. 97–35, title XXVII, §2709(a), Aug. 13, 1981, 95 Stat. 908, and was transferred to section 254n of this title. Section 338C of the Public Health Service Act was renumbered section 338D by Pub. L. 100–177, title II, §201(2), Dec. 1, 1987, 101 Stat. 992.
+
+Section 313(a)(4) of the Health Care Safety Net Amendments of 2002, referred to in subsec. (f), is section 313(a)(4) of Pub. L. 107–251, which amended subsec. (d)(3)(A) of this section. See 2002 Amendment note below.
 
 #### Codification
 
@@ -105,6 +111,10 @@ Section was formerly classified to section 294w of this title prior to its renum
 A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified to section 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
 
 #### Amendments
+
+2003—Subsec. (c)(1). Pub. L. 108–163, §2(<i>l</i>)(1)(A), realigned margins.
+
+Subsec. (f). Pub. L. 108–163, §2(<i>l</i>)(1)(B), added subsec. (f).
 
 2002—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
 
@@ -118,7 +128,7 @@ Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C)
 
 Pub. L. 107–251, §313(a)(3)(A)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to section 254p(d) of this title.
 
-Subsec. (c)(2). Pub. L. 107–251, §313(a)(3)(B), added par. (2) and struck out former par. (2) which read as follows:“For purposes of paragraph (1), the term ‘unserved obligation penalty’ means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.”
+Subsec. (c)(2). Pub. L. 107–251, §313(a)(3)(B), added par. (2) and struck out former par. (2) which read as follows: “For purposes of paragraph (1), the term ‘unserved obligation penalty’ means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.”
 
 Subsec. (c)(3), (4). Pub. L. 107–251, §313(a)(3)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.”
 
@@ -152,9 +162,13 @@ Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (
 
 1977—Subsec. (c). Pub. L. 95–83 substituted “ ‘φ’ is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans” for “ ‘φ’ is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan”.
 
+#### Effective Date of 2003 Amendment
+
+Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–251, title III, §313(b), Oct. 26, 2002, 116 Stat. 1652, provided that: “The amendment made by subsection (a)(4) \[amending this section\] shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after the date of enactment of this Act \[Oct. 26, 2002\].”
+Pub. L. 107–251, title III, §313(b), Oct. 26, 2002, 116 Stat. 1652, which provided that the amendment to this section made by section 313(a)(4) of Pub. L. 107–251 was applicable to any obligation for which a discharge in bankruptcy had not been granted before the date that was 31 days after Oct. 26, 2002, was repealed by Pub. L. 108–163, §§2(<i>l</i>)(2), 3, Dec. 6, 2003, 117 Stat. 2023, effective immediately after enactment of Pub. L. 107–251.
 
 #### Effective Date of 1990 Amendment
 

@@ -138,7 +138,7 @@
 
 #### (C) Determination
 
-&emsp;&emsp;The determination of whether any interruption of any sale authorized under paragraph (1) is required under subparagraph (A)(i) shall be made by the Commission without regard to the character of the use of natural gas by any customer of the intrastate pipeline involved.
+&emsp;&emsp;The determination of whether any interruption of any sale authorized under paragraph (1) is required under subparagraph (A)(i) shall be made by the Commission without regard to the character of the use ofnatural gas by any customer of the intrastate pipeline involved.
 
 #### (D) State intervention
 

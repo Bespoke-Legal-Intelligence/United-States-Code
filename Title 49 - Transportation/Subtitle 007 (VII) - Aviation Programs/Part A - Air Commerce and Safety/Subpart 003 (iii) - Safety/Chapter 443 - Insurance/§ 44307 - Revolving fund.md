@@ -56,7 +56,7 @@ In subsection (a)(2), the words “The amounts appropriated and other amounts re
 
 In subsection (b), the words “any part” are substituted for “all or any part” to eliminate unnecessary words. The words “held in the revolving fund” are omitted as surplus. The words “deposited in” are substituted for “credited to and form a part of” for consistency.
 
-In subsection (d), the words “The Secretary of Transportation shall deposit annually an amount in the Treasury” are substituted for “Annual payments shall be made by the Secretary to the Treasury of the United States”, the words “The deposited amount shall equal an amount determined by multiplying” are substituted for “These payments shall be computed by applying to”, and the words “a percentage that is at least the current average rate payable on marketable obligations of the Government” are substituted for “a percentage” and “Such percentage shall not be less thanthe current average rate which the Treasury pays on its marketable obligations”, for clarity.
+In subsection (d), the words “The Secretary of Transportation shall deposit annually an amount in the Treasury” are substituted for “Annual payments shall be made by the Secretary to the Treasury of the United States”, the words “The deposited amount shall equal an amount determined by multiplying” are substituted for “These payments shall be computed by applying to”, and the words “a percentage that is at least the current average rate payable on marketable obligations of the Government” are substituted for “a percentage” and “Such percentage shall not be less than the current average rate which the Treasury pays on its marketable obligations”, for clarity.
 
 #### Section Referred to in Other Sections
 

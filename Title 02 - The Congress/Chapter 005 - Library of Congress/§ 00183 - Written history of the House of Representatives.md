@@ -32,7 +32,7 @@ In carrying out subsection (a) of this section, the Librarian of Congress shall 
 
 #### (3) Internet dissemination
 
-&emsp;Any arrangement under paragraph (2) shall include terms for dissemination of the history over the Internet via facilities maintained by the United States Government.
+&emsp;Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
 
 #### (4) Member copies
 
@@ -46,11 +46,15 @@ The Librarian of Congress shall make the history available for sale to the publi
 
 The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.
 
-(Pub. L. 106–99, §2, Nov. 12, 1999, 113 Stat. 1330.)
+(Pub. L. 106–99, §2, Nov. 12, 1999, 113 Stat. 1330; Pub. L. 108–7, div. H, title I, §1305, Feb. 20, 2003, 117 Stat. 379.)
 
 #### References in Text
 
 This section and section 183a of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–99, which enacted this section and section 183a of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note set out under this section and Tables.
+
+#### Amendments
+
+<b>2003</b>—Subsec. (c)(3). Pub. L. 108–7 inserted “excerpts of” after “dissemination of”.
 
 #### Short Title
 

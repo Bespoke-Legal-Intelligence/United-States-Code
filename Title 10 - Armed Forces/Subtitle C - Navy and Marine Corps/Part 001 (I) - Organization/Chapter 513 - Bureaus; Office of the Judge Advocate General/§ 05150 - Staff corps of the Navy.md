@@ -16,15 +16,17 @@
 
 (2) Subject to subsection (c), the Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.
 
-(c) The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under section 611(a) of this title to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral (lower half). An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary. For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526 of this title, an officer so appointed shall be considered an additional number in grade.
+(c) The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under section 611(a) of this title to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary. For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526 of this title, an officer so appointed shall be considered an additional number in grade.
 
-(Added Pub. L. 96–513, title III, §351, Dec. 12, 1980, 94 Stat. 2902, §5155; amended Pub. L. 97–22, §6(a), July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered §5150, Pub. L. 99–433, title V, §514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, §1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, §3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, §1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473.)
+(Added Pub. L. 96–513, title III, §351, Dec. 12, 1980, 94 Stat. 2902, §5155; amended Pub. L. 97–22, §6(a), July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered §5150, Pub. L. 99–433, title V, §514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, §1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, §3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, §1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 107–314, div. A, title V, §504(a)(2), Dec. 2, 2002, 116 Stat. 2531.)
 
 #### Prior Provisions
 
 A prior section 5150 was renumbered section 5021 of this title.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–314 substituted “for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps” for “for promotion to the grade of rear admiral (lower half)” in first sentence.
 
 1991—Subsec. (c). Pub. L. 102–190 substituted “section 526” for “section 5444”.
 

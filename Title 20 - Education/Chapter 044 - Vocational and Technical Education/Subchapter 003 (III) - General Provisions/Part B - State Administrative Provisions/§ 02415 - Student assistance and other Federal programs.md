@@ -76,7 +76,7 @@ Section 2466, Pub. L. 88–210, title V, §503, formerly §506, as added Pub. L.
 
 Section 2466a, Pub. L. 88–210, title V, §504, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 830; amended Pub. L. 103–382, title II, §261(i)(1), Oct. 20, 1994, 108 Stat. 3929, related to regional meetings and negotiated rulemaking.
 
-Section 2466b, Pub. L. 88–210, title V, §505, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831, contained requirements relating to reports, plans, and regulations.
+Section 2466b, Pub. L. 88–210, title V, §505, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104Stat. 831, contained requirements relating to reports, plans, and regulations.
 
 Section 2466c, Pub. L. 88–210, title V, §506, as added Pub. L. 101–392, title V, §501(c)(2), Sept. 25, 1990, 104 Stat. 831, provided for consistency of this chapter with Federal laws guaranteeing civil rights. See section 2396 of this title.
 

@@ -111,7 +111,12 @@
 |  |  |
 | :--- | ---: |
 | [5381\.](Subchapter%20008%20%28VIII%29%20-%20Pay%20for%20the%20Senior%20Executive%20Service/%C2%A7%2005381%20-%20Definitions.md) | Definitions. |
-| [5382\.](Subchapter%20008%20%28VIII%29%20-%20Pay%20for%20the%20Senior%20Executive%20Service/%C2%A7%2005382%20-%20Establishment%20and%20adjustment%20of%20rates%20of%20pay%20for%20the%20Senior%20Executive%20Service.md) | Establishment and adjustment of rates of pay for the Senior Executive Service. |
+| [5382\.](Subchapter%20008%20%28VIII%29%20-%20Pay%20for%20the%20Senior%20Executive%20Service/%C2%A7%2005382%20-%20Establishment%20of%20rates%20of%20pay%20for%20the%20Senior%20Executive%20Service.md) | Establishment and adjustment of rates of pay for the Senior Executive Service.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [5383\.](Subchapter%20008%20%28VIII%29%20-%20Pay%20for%20the%20Senior%20Executive%20Service/%C2%A7%2005383%20-%20Setting%20individual%20senior%20executive%20pay.md) | Setting individual senior executive pay. |
 | [5384\.](Subchapter%20008%20%28VIII%29%20-%20Pay%20for%20the%20Senior%20Executive%20Service/%C2%A7%2005384%20-%20Performance%20awards%20in%20the%20Senior%20Executive%20Service.md) | Performance awards in the Senior Executive Service. |
 | [5385\.](Subchapter%20008%20%28VIII%29%20-%20Pay%20for%20the%20Senior%20Executive%20Service/%C2%A7%2005385%20-%20Regulations.md) | Regulations. |

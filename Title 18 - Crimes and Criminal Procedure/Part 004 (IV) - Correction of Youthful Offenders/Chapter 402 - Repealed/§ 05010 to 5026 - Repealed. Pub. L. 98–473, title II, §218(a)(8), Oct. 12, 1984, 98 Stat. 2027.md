@@ -8,7 +8,7 @@ Section 5012, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087, provided f
 
 Section 1513, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087, authorized Director of Bureau of Prisons to contract for maintenance of youth offenders.
 
-Section 5014, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087; amended July 17, 1970, Pub. L. 91–339, §1, 84Stat. 437; Mar. 15, 1976, Pub. L. 94–233, §6, 90 Stat. 231, related to classification studies and reports.
+Section 5014, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087; amended July 17, 1970, Pub. L. 91–339, §1, 84 Stat. 437; Mar. 15, 1976, Pub. L. 94–233, §6, 90 Stat. 231, related to classification studies and reports.
 
 Section 5015, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1088; amended Mar. 15, 1976, Pub. L. 94–233, §9, 90 Stat. 232, related to powers of Director as to placement of youth offenders.
 
@@ -26,7 +26,7 @@ Section 5021, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Oc
 
 Section 5022, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089, provided that this chapter would not apply to offenses committed before its enactment (Sept. 30, 1950).
 
-Section 5023, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Apr. 8, 1952, ch. 163, §1, 66 Stat. 45, related to relationship between this chapter and Probation and Juvenile Delinquency Acts.
+Section 5023, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Apr. 8, 1952, ch. 163, §1, 66 Stat. 45,related to relationship between this chapter and Probation and Juvenile Delinquency Acts.
 
 Section 5024, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1089; amended Apr. 8, 1952, ch. 163, §2, 66 Stat. 45; June 25, 1959, Pub. L. 86–70, §17(a), 73 Stat. 144; July 12, 1960, Pub. L. 86–624, §13(b), 74 Stat. 413; Dec. 27, 1967, Pub. L. 90–226, title VIII, §801(a), 81 Stat. 741, provided that this chapter was applicable to States of the United States and to District of Columbia.
 

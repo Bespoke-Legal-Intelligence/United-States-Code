@@ -1,0 +1,100 @@
+### §5018. Depositary services efficiency and cost reduction
+
+#### (a) Findings
+
+The Congress finds as follows:
+
+&emsp;(1) The Secretary of the Treasury has long compensated financial institutions for various critical depositary and financial agency services provided for or on behalf of the United States by—
+
+&emsp;&emsp;(A) placing large balances, commonly referred to as “compensating balances”, on deposit at such institutions; and
+
+&emsp;&emsp;(B) using imputed interest on such funds to offset charges for the various depositary and financial agency services provided to or on behalf of the Government.
+
+&emsp;(2) As a result of sharp declines in interest rates over the last few years to record low levels, or the public debt outstanding reaching the statutory debt limit, the Department of the Treasury often has had to dramatically increase or decrease the size of the compensating balances on deposit at these financial institutions.
+
+&emsp;(3) The fluctuation of the compensating balances, and the necessary pledging of collateral by financial institutions to secure the value of compensating balances placed with those institutions, have created unintended financial uncertainty for the Secretary of the Treasury and for the management by financial institutions of their cash and securities.
+
+&emsp;(4) It is imperative that the process for providing financial services to the Government be transparent, and provide the information necessary for the Congress to effectively exercise its appropriation and oversight responsibilities.
+
+&emsp;(5) The use of direct payment for services rendered would strengthen cash and debt management responsibilities of the Secretary of the Treasury because the Secretary would no longer need to dramatically increase or decrease the level of such balances when interest rates fluctuate sharply or when the public debt outstanding reaches the statutory debt limit.
+
+&emsp;(6) An alternative to the use of compensating balances, such as direct payments to financial institutions, would ensure that payments to financial institutions for the services they provide would be made in a more predictable manner and could result in cost savings.
+
+&emsp;(7) Limiting the use of compensating balances could result in a more direct and cost-efficient method of obtaining those services currently provided under compensating balance arrangements.
+
+&emsp;(8) A transition from the use of compensating balances to another compensation method must be carefully managed to prevent higher-than-necessary transitional costs and enable participating financial institutions to modify their planned investment of cash and securities.
+
+#### (b) Authorization of appropriations for services rendered by depositaries and financial agencies of the United States
+
+There are authorized to be appropriated for fiscal years beginning after fiscal year 2003 to the Secretary of the Treasury such sums as may be necessary for reimbursing financial institutions in their capacity as depositaries and financial agents of the United States for all services required or directed by the Secretary of the Treasury, or a designee of the Secretary, to be performed by such financial institutions on behalf of the Secretary of the Treasury or another Federal agency, including services rendered before fiscal year 2004.
+
+#### (c) Orderly transition
+
+#### (1) In general
+
+&emsp;As appropriations authorized in subsection (b) become available, the Secretary of the Treasury shall promptly begin the process of phasing in the use of the appropriations to pay financial institutions serving as depositaries and financial agents of the United States, and transitioning from the use of compensating balances to fund these services.
+
+#### (2) Post-transition use limited to extraordinary circumstances
+
+#### (A) In general
+
+&emsp;&emsp;Following the transition to the use of the appropriations authorized in subsection (b), the Secretary of the Treasury may use the compensating balances to pay financial institutions serving as depositaries and financial agents of the United States only in extraordinary situations where the Secretary determines that they are needed to ensure the fiscal operations of the Government continue to function in an efficient and effective manner.
+
+#### (B) Report
+
+&emsp;&emsp;Any use of compensating balances pursuant to subparagraph (A) shall promptly be reported by the Secretary of the Treasury to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+#### (3) Requirements for orderly transition
+
+&emsp;In transitioning to the use of the appropriations authorized in subsection (b), the Secretary of the Treasury shall take such steps as may be appropriate to—
+
+&emsp;&emsp;(A) prevent abrupt financial disruption to the functions of the Department of the Treasury or to the participating financial institutions; and
+
+&emsp;&emsp;(B) maintain adequate accounting and management controls to ensure that payments to financial institutions for their banking services provided to the Government as depositaries and financial agents are accurate and that the arrangements last no longer than is necessary.
+
+#### (4) Reports required
+
+#### (A) Annual report
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For each fiscal year, the Secretary of the Treasury shall submit a report to the Congress on the use of compensating balances and on the use of appropriations authorized in subsection (b) during that fiscal year.
+
+#### (ii) Inclusion in budget
+
+&emsp;&emsp;&emsp;The report required under clause (i) may be submitted as part of the budget submitted by the President under section 1105 of title 31 for the following fiscal year and if so, the report shall be submitted concurrently to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+#### (B) Final report following transition
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Following completion of the transition from the use of compensating balances to the use of the appropriations authorized in subsection (b) to pay financial institutions for their services as depositaries and financial agents of the United States, the Secretary of the Treasury shall submit a report on the transition to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+#### (ii) Contents of report
+
+&emsp;&emsp;&emsp;The report submitted under clause (i) shall include a detailed analysis of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the cost of transition;
+
+&emsp;&emsp;&emsp;&emsp;(II) the direct costs of the services being paid from the appropriations authorized in subsection (b); and
+
+&emsp;&emsp;&emsp;&emsp;(III) the benefits realized from the use of direct payment for such services, rather than the use of compensating balance arrangements.
+
+#### (d) Omitted
+
+#### (e) Effective date
+
+Notwithstanding section 20,<sup>1</sup> this section shall take effect on October 28, 2003.
+
+(Pub. L. 108–100, §19, Oct. 28, 2003, 117 Stat. 1191.)
+
+#### References in Text
+
+Section 20, referred to in subsec. (e), means section 20 of Pub. L. 108–100, which is set out as an Effective Date note under section 5001 of this title.
+
+#### Codification
+
+Section is comprised of section 19 of Pub. L. 108–100. Subsec. (d) of section 19 of Pub. L. 108–100 amended section 412 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

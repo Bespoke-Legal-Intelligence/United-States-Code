@@ -46,7 +46,7 @@ Voluntary Retirement for Members of the Army.—
 
 &emsp;(1)
 
-In general.—In the case of a member whose retired pay is computed under section 3991 of this title or who is entitled to retired pay computed under section 3992 of this title, the retired pay base is determined in accordance with the following table.
+In general.—In the case of a member whose retired pay is computed under section 3991 of this title or who is entitled to retired pay computed under section 3992 of this title,the retired pay base is determined in accordance with the following table.
 
 &nbsp;
 
@@ -116,7 +116,7 @@ Coast Guard.—In the case of a member who is retired under any section of title
 
 (g)
 
-Commissioned Corps of National Oceanic and Atmospheric Administration.—In the case of an officer whose retired pay is computed under section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853<i>o</i>), the retired pay base is the basic pay of the rank with which the officer retired.
+Commissioned Corps of National Oceanic and Atmospheric Administration.—In the case of an officer whose retired pay is computed under section 305 <sup>1</sup> of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002, the retired pay base is the basic pay of the rank with which the officer retired.
 
 (h)
 
@@ -132,11 +132,11 @@ Voluntary retirement.—If the officer is retired under section 211(a) of such A
 
 (i)
 
-Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, and Senior Enlisted Members.—
+Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, Commanders of Combatant Commands, and Senior Enlisted Members.—
 
 &emsp;(1)
 
-In general.—For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
+In general.—For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as a commander of a unified or specified combatant command (as defined in section 161(c) of this title), or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
 
 &emsp;(2)
 
@@ -174,13 +174,21 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(v) Master Chief Petty Officer of the Coast Guard.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517.)
+
+#### References in Text
+
+Section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002, referred to in subsec. (g), probably means section 245 of title II of Pub. L. 107–372, known as the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002, which is classified to section 3045 of Title 33, Navigation and Navigable Waters. That Act does not contain a section 305, and section 245 relates to computation of retired pay.
 
 #### Prior Provisions
 
 A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
+
+2003—Subsec. (i). Pub. L. 108–136 inserted “Commanders of Combatant Commands,” after “Chiefs of Service,” in heading and “as a commander of a unified or specified combatant command (as defined in section 161(c) of this title),” after “Chief of Service,” in par. (1).
+
+2002—Subsec. (g). Pub. L. 107–372 substituted “section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002” for “section 16 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 (33 U.S.C. 853<i>o</i>)”
 
 1999—Subsec. (i)(2). Pub. L. 106–65 substituted “after October 16, 1998” for “on or after the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” in introductory provisions.
 
@@ -202,6 +210,10 @@ Subsec. (e)(1). Pub. L. 105–85, §1073(a)(23)(B), substituted “8962” for �
 
 Subsec. (i). Pub. L. 100–180, §1314(b)(6), inserted “and Vice Chairmen” after “Chairmen” in heading and inserted “or Vice Chairman” after “Chairman” in par. (1).
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–136, div. A, title VI, §643(c), Nov. 24, 2003, 117 Stat. 1517, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 24, 2003\] and shall apply with respect to officers who first become entitled to retired pay under title 10, United States Code, on or after such date.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -210,11 +222,17 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Grade on Transfer to Retired Reserve
 
-Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
+Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall applyonly to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1401a, 1407, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 33 section 853<i>o</i>; title 42 section 211.
+This section is referred to in sections 1401, 1401a, 1407, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 33 section 3045; title 42 section 211.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

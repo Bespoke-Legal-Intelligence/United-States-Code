@@ -18,7 +18,7 @@
 
 &emsp;(2) when requested, provide assistance to committees of Congress and members of Congress in obtaining information from the sources in the directory; and
 
-&emsp;(3) when requested, provide assistance to committees and, to the extent practicable, tomembers of Congress in evaluating the information obtained from the sources in the directory.
+&emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
 
 (d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
@@ -108,7 +108,7 @@ In subsection (e)(1)(A), the word “specify” is omitted as being included in 
 
 In subsection (e)(2), the words “Before September 2 of each year” are substituted for “On or before September 1, 1974, and each year thereafter” for consistency.
 
-In subsection (e)(3), the words “Before March 2 of each year are substituted for “On or before March 1,1975, and each year thereafter” for consistency. The word “codes” is omitted as being included in “classifications”. The words “information systems” are substituted for “systems”, and the words “use of standard classifications” are substituted for “classification implementations”, for consistency in the revised section.
+In subsection (e)(3), the words “Before March 2 of each year are substituted for “On or before March 1, 1975, and each year thereafter” for consistency. The word “codes” is omitted as being included in “classifications”. The words “information systems” are substituted for “systems”, and the words “use of standard classifications” are substituted for “classification implementations”, for consistency in the revised section.
 
 1983
 
@@ -144,7 +144,7 @@ Pub. L. 107–303, title III, §302(a), Nov. 27, 2002, 116 Stat. 2360, provided 
 
 “(a)
 
-In General.—Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; Public Law 104–66) does not apply to any report required to be submitted under any of the following provisions of law:
+In General.—Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C.1113 note; Public Law 104–66) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1)
 
@@ -688,9 +688,9 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(18) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 6687(b)).
 
-&emsp;“(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 (42 U.S.C. 7271).
+&emsp;“(19) Section 208 of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1979 (42 U.S.C. 7271 \[now 50 U.S.C. 2771\]).
 
-&emsp;“(20) Section 3134 of the National Defense Authorization Act for Fiscal Year 1991 (42 U.S.C. 7274c).
+&emsp;“(20) Section 3134 of the National Defense Authorization Act for Fiscal Year 1991 (42 U.S.C. 7274c \[now 50 U.S.C. 2587\]).
 
 &emsp;“(21) Section 3135 of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 7274g).
 
@@ -824,7 +824,7 @@ Purpose.—The purpose of this title is to improve the efficiency of executive b
 
 “(b)
 
-Authority of the Director.—The Director of the Office of Management and Budget may publish annually in the budget submitted by the President to the Congress, recommendations for consolidation, elimination, or adjustments in frequency and due dates ofstatutorily required periodic reports to the Congress or committees of Congress. For each recommendation, the Director shall provide an individualized statement of the reasons that support the recommendation. In addition, for each report for which a recommendation is made, the Director shall state with specificity the exact consolidation, elimination, or adjustment in frequency or due date that is recommended.
+Authority of the Director.—The Director of the Office of Management and Budget may publish annually in the budget submitted by the President to the Congress, recommendations for consolidation, elimination, or adjustments in frequency and due dates of statutorily required periodic reports to the Congress or committees of Congress. For each recommendation, the Director shall provide an individualized statement of the reasons that support the recommendation. In addition, for each report for which a recommendation is made, the Director shall state with specificity the exact consolidation, elimination, or adjustment in frequency or due date that is recommended.
 
 “(c)
 

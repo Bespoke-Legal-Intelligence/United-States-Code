@@ -28,7 +28,7 @@ A State that has not exercised its authority under subsection (d)(1)(A) of this 
 
 #### (A) Opt out
 
-&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any orall individuals domiciled in the State from the application of subsection (a) of this section.
+&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State from the application of subsection (a) of this section.
 
 #### (B) Limit period of prohibition
 
@@ -74,7 +74,7 @@ The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), 
 
 #### Codification
 
-Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments
 

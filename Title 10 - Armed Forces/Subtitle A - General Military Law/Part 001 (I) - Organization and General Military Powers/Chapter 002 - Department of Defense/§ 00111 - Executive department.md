@@ -64,11 +64,113 @@ References.—Any reference in any law, regulation, document, record, or other p
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for classification\] may be cited as the‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
+Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the Department of Defense, including the functions of the Secretary of Defense relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(2), 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
+
+#### Commission on Review of Overseas Military Facility Structure of the United States
+
+Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, provided that:
+
+“(a)
+
+Commission on Review of Overseas Military Facility Structure of the United States.—(1) There is established the Commission on the Review of the Overseas Military Facility Structure of the United States (in this section referred to as the ‘Commission’).
+
+“(2)(A) The Commission shall be composed of eight members of whom—
+
+&emsp;“(i) two shall be appointed by the Majority Leader of the Senate;
+
+&emsp;“(ii) two shall be appointed by the Minority Leader of the Senate;
+
+&emsp;“(iii) two shall be appointed by the Speaker of the House of Representatives; and
+
+&emsp;“(iv) two shall be appointed by the Minority Leader of the House of Representatives.
+
+“(B) Individuals appointed to the Commission shall have significant experience in the national security or foreign policy of the United States.
+
+“(C) Appointments of the members of the Commission shall be made not later than 45 days after the date of the enactment of this Act \[Nov. 22, 2003\].
+
+“(3) Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+
+“(4) Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
+
+“(5) The Commission shall meet at the call of the Chairman.
+
+“(6) A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+
+“(7) The Commission shall select a Chairman and Vice Chairman from among its members.
+
+“(b)
+
+Duties.—(1) The Commission shall conduct a thorough study of matters relating to the military facility structure of the United States overseas.
+
+“(2) In conducting the study, the Commission shall—
+
+&emsp;“(A) assess the number of forces required to be forward based outside the United States;
+
+&emsp;“(B) examine the current state of the military facilities and training ranges of the United States overseas for all permanent stations and deployed locations, including the condition of land and improvements at such facilities and ranges and the availability of additional land, if required, for such facilities and ranges;
+
+&emsp;“(C) identify the amounts received by the United States, whether in direct payments, in-kind contributions, or otherwise, from foreign countries by reason of military facilities of the United States overseas;
+
+&emsp;“(D) assess whether or not the current military basing and training range structure of the United States overseas is adequate to meet the current and future mission of the Department of Defense, including contingency, mobilization, and future force requirements;
+
+&emsp;“(E) assess the feasibility and advisability of the closure or realignment of military facilities of the United States overseas, or of the establishment of new military facilities of the United States overseas; and
+
+&emsp;“(F) consider or assess any other issue relating to military facilities of the United States overseas that the Commission considers appropriate.
+
+“(3)(A) Not later than December 31, 2004, the Commission shall submit to the President and Congress a report which shall contain a detailed statement of the findings and conclusions of the Commission, together with its recommendations for such legislation and administrative actions as it considers appropriate.
+
+“(B) In addition to the matters specified in subparagraph (A), the report shall also include a proposal by the Commission for an overseas basing strategy for the Department of Defense in order to meet the current and future mission of the Department.
+
+“(c)
+
+Powers.—(1) The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this section.
+
+“(2) The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out this section. Upon request of the Chairman of the Commission, the head of such department or agency shall furnish such information to the Commission.
+
+“(3) Upon request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support necessary for the Commission to carry out its duties under this section.
+
+“(4) The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+“(5) The Commission may accept, use, and dispose of gifts or donations of services or property.
+
+“(d)
+
+Personnel Matters.—(1) Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission under this section. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+
+“(2)(A) Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission under this section.
+
+“(B) Members and staff of the Commission may receive transportation on military aircraft to and from the United States, and overseas, for purposes of the performance of the duties of the Commission to the extent that such transportation will not interfere with the requirements of military operations.
+
+“(3)(A) The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties under this section. The employment of an executive director shall be subject to confirmation by the Commission.
+
+“(B) The Commission may employ a staff to assist the Commission in carrying out its duties. The total number of the staff of the Commission, including an executive director under subparagraph (A), may not exceed 12.
+
+“(C) The Chairman of the Commission may fix the compensation of the executive director and other personnel without regard to chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+“(4) Any employee of the Department of Defense, the Department of State, or the General Accounting Office may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+“(5) The Chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+“(e)
+
+Security.—(1) Members and staff of the Commission, and any experts and consultants to the Commission, shall possess security clearances appropriate for their duties with the Commission under this section.
+
+“(2) The Secretary of Defense shall assume responsibility for the handling and disposition of any information relating to the national security of the United States that is received, considered, or used by the Commission under this section.
+
+“(f)
+
+Termination.—The Commission shall terminate 45 days after the date on which the Commission submits its report under subsection (b).
+
+“(g)
+
+Funding.—(1) Of the amount appropriated by this Act \[see Tables for classification\], $3,000,000 shall be available to the Commission to carry out this section.
+
+“(2) The amount made available by paragraph (1) shall remain available, without fiscal year limitation, until September 2005.”
 
 #### Commission To Assess United States National Security Space Management and Organization
 
@@ -122,7 +224,7 @@ Chairman.—The President shall designate one of the individuals first appointed
 
 “(d)
 
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment.
+Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Anyvacancy in the Commission shall be filled in the same manner as the original appointment.
 
 “(e)
 
@@ -236,7 +338,7 @@ Staff.—(1) The chairman of the Commission may, without regard to the provision
 
 “(d)
 
-Detail of Government Employees.—Upon request of the chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
+Detail of Government Employees.—Upon request of the chairman of the Commission, the head ofany Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
 
 “(e)
 
@@ -502,7 +604,7 @@ Panels.—The Commission may establish panels composed of less than the full mem
 
 “(d)
 
-Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, ifauthorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
+Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
 
 #### “SEC. 957. PERSONNEL MATTERS; EXPERT SERVICES.
 
@@ -554,7 +656,7 @@ Travel.—To the maximum extent practicable, the members and employees of the Co
 
 #### “SEC. 959. PAYMENT OF COMMISSION EXPENSES.
 
-“The compensation, travel expenses, and per diem allowances of members and employees of the Commission shall be paid out of funds available to the Department of Defense for the payment of compensation, travel allowances, and per diem allowances, respectively, of civilian employees of the Department of Defense. The other expenses of the Commission shall be paid out of funds available to the Department of Defense for the payment of similar expenses incurred by that Department.
+“The compensation, travel expenses, and per diem allowances of members and employees of the Commission shall be paid out of funds available to the Departmentof Defense for the payment of compensation, travel allowances, and per diem allowances, respectively, of civilian employees of the Department of Defense. The other expenses of the Commission shall be paid out of funds available to the Department of Defense for the payment of similar expenses incurred by that Department.
 
 #### “SEC. 960. TERMINATION OF THE COMMISSION.
 
@@ -580,7 +682,7 @@ Preparation of List.—(1) The Secretary of Defense shall submit to Congress a l
 
 “(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
 
-“(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary orincompatible with the efficient management of the Department of Defense.
+“(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
 “(c)
 
@@ -628,7 +730,7 @@ Section 602 of Pub. L. 99–433, as amended by Pub. L. 100–180, div. A, title 
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Section 604 of Pub. L. 99–433 directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
+Section 604 of Pub. L. 99–433 directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senateand House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 
@@ -652,7 +754,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 I74Section 1. Transfers of Functions
 
-(a) All functions of the Munitions Board, the Research and Development Board, the Defense SupplyManagement Agency, and the Director of Installations are hereby transferred to the Secretary of Defense.
+(a) All functions of the Munitions Board, the Research and Development Board, the Defense Supply Management Agency, and the Director of Installations are hereby transferred to the Secretary of Defense.
 
 (b) The selection of the Director of the Joint Staff by the Joint Chiefs of Staff, and his tenure, shall be subject to the approval of the Secretary of Defense.
 

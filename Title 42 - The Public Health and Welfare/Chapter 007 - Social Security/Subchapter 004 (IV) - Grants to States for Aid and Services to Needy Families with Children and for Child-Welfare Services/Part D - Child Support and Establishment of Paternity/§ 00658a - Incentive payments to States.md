@@ -34,7 +34,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 &emsp;&emsp;&emsp;(ix) $483,000,000 for fiscal year 2008; and
 
-&emsp;&emsp;&emsp;(x) for any succeeding fiscal year, the amount of the incentive payment pool for the fiscal year that precedes such succeeding fiscal year, multiplied by the percentage (if any) by which the CPI for such preceding fiscal year exceeds the CPI for the second preceding fiscal year.
+&emsp;&emsp;&emsp;(x) for any succeeding fiscal year, the amount of the incentive payment pool forthe fiscal year that precedes such succeeding fiscal year, multiplied by the percentage (if any) by which the CPI for such preceding fiscal year exceeds the CPI for the second preceding fiscal year.
 
 #### (B) CPI
 
@@ -248,7 +248,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 | 40% | 41% | 50 |
 | 0% | 40% | 0\. |
 
-&emsp;&emsp;&nbsp;Notwithstanding the preceding sentence, if the current payment performance level of a State for a fiscal year is less than 40 percent but exceeds by at least 5 percentage points the current payment performance level of the State for the immediately preceding fiscal year, then the applicable percentage with respect to the State's current payment performance level is 50 percent.
+&emsp;&emsp;&nbsp;Notwithstanding the preceding sentence, if the current payment performance level of a State for a fiscal year is less than 40 percent but exceeds by at least 5 percentagepoints the current payment performance level of the State for the immediately preceding fiscal year, then the applicable percentage with respect to the State's current payment performance level is 50 percent.
 
 #### (D) Collections on child support arrearages
 
@@ -340,7 +340,7 @@ In computing incentive payments under this section, support which is collected b
 
 #### (d) Administrative provisions
 
-The amounts of the incentive payments to be made to the States under this section for a fiscal year shall be estimated by the Secretary at/or before the beginning of the fiscal year on the basis of the best information available. The Secretary shall make the payments for the fiscal year, on a quarterly basis (with each quarterly payment being made no later than the beginning of the quarter involved), in the amounts so estimated, reduced or increased to the extent of any overpayments or underpayments which the Secretary determines were made under this section to the States involved for prior periods and with respect to which adjustment has not already been made under this subsection. Upon the making of any estimate by the Secretary under the preceding sentence, any appropriations available for payments under this section are deemed obligated.
+The amounts of the incentive payments to be made to the States under this section for a fiscal year shall be estimated by the Secretary at/or before the beginning of the fiscal year on the basis of the best information available. The Secretary shall make the payments for the fiscal year, on a quarterly basis (with each quarterly payment being made no later than the beginning of the quarter involved), in the amounts so estimated, reduced or increased to the extent of any overpayments or underpayments which the Secretary determines were made under this section to the States involved for prior periods and with respect to which adjustment has not already been made under this subsection. Upon the making of any estimate by the Secretary under thepreceding sentence, any appropriations available for payments under this section are deemed obligated.
 
 #### (e) Regulations
 
@@ -406,7 +406,7 @@ Development of medical support incentive.—
 
 &emsp;“(A)
 
-In general.—The Secretary of Health and Human Services, in consultation with State directorsof programs operated under part D of title IV of the Social Security Act \[this part\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[this section\].
+In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[this part\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[this section\].
 
 &emsp;“(B)
 

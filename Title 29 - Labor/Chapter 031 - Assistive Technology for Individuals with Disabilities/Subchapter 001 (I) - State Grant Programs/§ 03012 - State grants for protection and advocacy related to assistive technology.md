@@ -18,7 +18,7 @@
 
 #### (1) Grants to outlying areas
 
-&emsp;From the funds appropriated under section 3015(a) of this title and reserved under section 3015(b)(1)(A) of this title for any fiscal year,the Secretary shall make a grant in an amount of not more than $30,000 to each eligible system within an outlying area.
+&emsp;From the funds appropriated under section 3015(a) of this title and reserved under section 3015(b)(1)(A) of this title for any fiscal year, the Secretary shall make a grant in an amount of not more than $30,000 to each eligible system within an outlying area.
 
 #### (2) Grants to States
 

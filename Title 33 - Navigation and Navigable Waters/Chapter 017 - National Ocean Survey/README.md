@@ -57,6 +57,7 @@
 | [883i.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [883j.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883j%20-%20Ocean%20satellite%20data.md) | Ocean satellite data. |
 | [883k.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000883k%20-%20Acquisition%20of%20land%20for%20facilities.md) | Acquisition of land for facilities. |
+| 883<i>l</i>. | Contracts for surveying and mapping services. |
 | [884\.](Subchapter%20002%20%28II%29%20-%20Surveys/%C2%A7%2000884%20-%20Power%20to%20use%20books%2C%20maps%2C%20etc.%2C%20and%20to%20employ%20persons.md) | Power to use books, maps, etc., and to employ persons. |
 | 885 to 890. Repealed or Omitted. |  |
 

@@ -34,7 +34,7 @@ The Council shall not be considered to be a Federal advisory committee for purpo
 
 #### (e) Members of Council not Federal officers or employees
 
-Members of the Council (other than a member from the FBI or any at-large member who maybe a Federal official or employee) shall not, by virtue of such membership, be deemed—
+Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—
 
 &emsp;(1) to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or
 
@@ -46,7 +46,7 @@ Members of the Council (other than a member from the FBI or any at-large member 
 
 The Privacy Act of 1974, referred to in subsec. (a), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
-The National Child Protection Act, referred to in subsec. (b)(1)(B), probably means the National Child Protection Act of 1993, Pub. L. 103–209, Dec. 20, 1993, 107 Stat. 2490, as amended, which is classified principally to subchapter VI (§5119 et seq.) of chapter 67 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 5101 of this title and Tables.
+The National Child Protection Act, referred to in subsec. (b)(1)(B), probably means the National Child Protection Act of 1993, Pub. L. 103–209, Dec. 20, 1993, 107 Stat. 2490, as amended, which is classified principallyto subchapter VI (§5119 et seq.) of chapter 67 of this title. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 5101 of this title and Tables.
 
 The Brady Handgun Violence Prevention Act, referred to in subsec. (b)(1)(C), is title I of Pub. L. 103–159, Nov. 30, 1993, 107 Stat. 1536, which enacted section 925A of Title 18, Crimes and Criminal Procedure, amended section 3759 of this title and sections 921, 922, and 924 of Title 18, and enacted provisions set out as notes under sections 921 and 922 of Title 18. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 921 of Title 18 and Tables.
 

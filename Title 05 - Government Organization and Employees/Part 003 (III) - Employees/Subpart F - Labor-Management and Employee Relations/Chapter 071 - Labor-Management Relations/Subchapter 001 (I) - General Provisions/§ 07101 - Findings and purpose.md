@@ -26,6 +26,40 @@ A prior section 7101, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 523; Pub. L. 91�
 
 Chapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
+#### Employee Surveys
+
+Pub. L. 108–136, div. A, title XI, §1128, Nov. 24, 2003, 117 Stat. 1641, provided that:
+
+“(a)
+
+In General.—Each agency shall conduct an annual survey of its employees (including survey questions unique to the agency and questions prescribed under subsection (b)) to assess—
+
+&emsp;“(1) leadership and management practices that contribute to agency performance; and
+
+&emsp;“(2) employee satisfaction with—
+
+&emsp;&emsp;“(A) leadership policies and practices;
+
+&emsp;&emsp;“(B) work environment;
+
+&emsp;&emsp;“(C) rewards and recognition for professional accomplishment and personal contributions to achieving organizational mission;
+
+&emsp;&emsp;“(D) opportunity for professional development and growth; and
+
+&emsp;&emsp;“(E) opportunity to contribute to achieving organizational mission.
+
+“(b)
+
+Regulations.—The Office of Personnel Management shall issue regulations prescribing survey questions that should appear on all agency surveys under subsection (a) in order to allow a comparison across agencies.
+
+“(c)
+
+Availability of Results.—The results of the agency surveys under subsection (a) shall be made available to the public and posted on the website of the agency involved, unless the head of such agency determines that doing so would jeopardize or negatively impact national security.
+
+“(d)
+
+Agency defined.—For purposes of this section, the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United States Code).”
+
 #### Executive Order No. 10988
 
 Ex. Ord. No. 10988, Jan. 17, 1962, 27 F.R. 551, which related to employee-management cooperation in the Federal service, was revoked by Ex. Ord. No. 11491, Oct. 29, 1969, 34 F.R. 17605, set out below.
@@ -46,7 +80,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 #### General Provisions
 
-Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management of the organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
+Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freelyand without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management of the organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
 
 (b) Paragraph (a) of this section does not authorize participation in the management of a labor organization or acting as a representative of such an organization by a supervisor, except as provided in section 24 of this Order, or by an employee when the participation or activity would result in a conflict or apparent conflict of interest or otherwise be incompatible with law or with the official duties of the employee.
 
@@ -134,7 +168,7 @@ Sec. 4. <i>Powers and Duties of the Federal Labor Relations Authority.</i>
 
 (e) In any matters arising under subsection (c) and (d)(3) of this Section, the Authority may require an agency or a labor organization to cease and desist from violations of this Order and require it to take such affirmative action as the Authority considers appropriate to effectuate the policies of this Order.
 
-(f) In performing the duties imposed on it by this Section, the Authority may request and use the services and assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
+(f) In performing the duties imposed on it by this Section, the Authority may request and use the servicesand assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
 
 Sec. 5. <i>Powers and Duties of the Federal Service Impasses Panel</i>. (a) There is hereby established the Federal Service Impasses Panel as a distinct organizational entity within the Authority. The Panel consists of at least three members appointed by the President, one of whom he designates as chairman. The Authority shall provide the services and staff assistance needed by the Panel.
 
@@ -222,7 +256,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 #### Agreements
 
-Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, toassist in such negotiation; and execute a written agreement or memorandum of understanding.
+Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
 (b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
@@ -376,5 +410,5 @@ Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, exce
 
 #### Executive Order No. 12871
 
-Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
+Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R.66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
 

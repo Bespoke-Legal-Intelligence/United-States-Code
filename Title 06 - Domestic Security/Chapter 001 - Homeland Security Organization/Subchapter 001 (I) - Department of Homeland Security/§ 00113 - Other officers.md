@@ -24,7 +24,7 @@ There are the following officers, appointed by the President, by and with the ad
 
 #### (b) Inspector General
 
-There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978.
+There shall be in the Department an Office of Inspector General and an Inspector General at the head of such office, as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
 
 #### (c) Commandant of the Coast Guard
 
@@ -48,11 +48,15 @@ To assist the Secretary in the performance of the Secretary's functions, there a
 
 Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official's office or prescribed by the Secretary.
 
-(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144.)
+(Pub. L. 107–296, title I, §103, Nov. 25, 2002, 116 Stat. 2144; Pub. L. 108–7, div. L, §104(a), Feb. 20, 2003, 117 Stat. 529.)
 
 #### References in Text
 
-Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (b), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2003—Subsec. (b). Pub. L. 108–7 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is an Inspector General, who shall be appointed as provided in section 3(a) of the Inspector General Act of 1978.”
 
 #### Section Referred to in Other Sections
 

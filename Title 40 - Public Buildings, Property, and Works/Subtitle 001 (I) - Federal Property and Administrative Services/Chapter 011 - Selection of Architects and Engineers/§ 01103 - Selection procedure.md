@@ -14,7 +14,7 @@ Evaluation.—For each proposed project, the agency head shall evaluate current 
 
 (d)
 
-Selection.—From the firms with which discussions have been conducted, the agencyhead shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.
+Selection.—From the firms with which discussions have been conducted, the agency head shall select, in order of preference, at least 3 firms that the agency head considers most highly qualified to provide the services required. Selection shall be based on criteria established and published by the agency head.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1130.)
 
@@ -37,6 +37,14 @@ June 30, 1949, ch. 288, title IX, §903, as added Pub. L. 92–582, Oct. 27, 197
 In subsection (b), the words “engaged in the lawful practice of their profession” are omitted as unnecessary because of the definition of “firm” in section 1102 of the revised title.
 
 In subsection (c), the words “compare alternative methods for furnishing services” are substituted for “the relative utility of alternative methods of approach for furnishing the required services” to eliminate unnecessary words.
+
+#### Architectural and Engineering Services
+
+Pub. L. 108–136, div. A, title XIV, §1427(b), Nov. 24, 2003, 117 Stat. 1670, provided that: “Architectural and engineering services (as defined in section 1102 of title 40, United States Code) shall not be offered under multiple-award schedule contracts entered into by the Administrator of General Services or under Governmentwide task and delivery order contracts entered into under sections 2304a and 2304b of title 10, United States Code, or sections 303H and 303I of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h and 253i) unless such services—
+
+&emsp;“(1) are performed under the direct supervision of a professional architect or engineer licensed, registered, or certified in the State, territory (including the Commonwealth of Puerto Rico), possession, or Federal District in which the services are to be performed; and
+
+&emsp;“(2) are awarded in accordance with the selection procedures set forth in chapter 11 of title 40, United States Code.”
 
 #### Section Referred to in Other Sections
 

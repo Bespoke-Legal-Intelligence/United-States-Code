@@ -2,7 +2,9 @@
 
 (a)
 
-Authorized Assistance.—To the extent provided in defense authorization Acts, funds authorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance shall be used for the purpose of providing transportation of humanitarian relief and for other humanitarian purposes worldwide.
+Authorized Assistance.—(1) To the extent provided in defense authorization Acts, funds authorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance shall be used for the purpose of providing transportation of humanitarian relief and for other humanitarian purposes worldwide.
+
+(2) The Secretary of Defense may use the authority provided by paragraph (1) to transport supplies intended for use to respond to, or mitigate the effects of, an event or condition, such as an oil spill, that threatens serious harm to the environment, but only if other sources to provide such transportation are not readily available. The Secretary may require reimbursement for costs incurred by the Department of Defense to transport supplies under this paragraph.
 
 (b)
 
@@ -38,9 +40,11 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 &emsp;(2) The Committee on Armed Services and the Committee on International Relations of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430.)
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], renumbered section 2551 of this title as this section.
 
@@ -80,5 +84,5 @@ Notification provided to appropriate congressional committees with respect to as
 
 #### Laws Covered by Initial Reports
 
-Pub. L. 102–484, div. A, title III, §304(d), Oct. 28, 1992, 106 Stat. 2362, provided that for purposes of subsec. (e) of this section, section 304 of Pub. L. 102–190 (105 Stat. 1333) and the humanitarian relief laws referred to in section 304(f)(4) of Pub. L. 102–190 (as in effect on the day before Oct. 23, 1992) were to be considered as provisions of law that authorized appropriations for humanitarian assistance to be available for the purposes of this section.
+Pub. L. 102–484, div. A, title III, §304(d), Oct. 28, 1992, 106 Stat. 2362, provided that for purposes of subsec. (e) of this section, section 304 of Pub. L. 102–190 (105 Stat.1333) and the humanitarian relief laws referred to in section 304(f)(4) of Pub. L. 102–190 (as in effect on the day before Oct. 23, 1992) were to be considered as provisions of law that authorized appropriations for humanitarian assistance to be available for the purposes of this section.
 

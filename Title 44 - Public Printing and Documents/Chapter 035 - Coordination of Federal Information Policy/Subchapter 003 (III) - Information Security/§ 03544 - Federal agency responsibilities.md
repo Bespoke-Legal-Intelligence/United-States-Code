@@ -16,7 +16,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;&emsp;(i) information security standards promulgated under section 11331 of title 40; and
 
-&emsp;&emsp;&emsp;(ii) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
+&emsp;&emsp;&emsp;(ii) information security standards and guidelines for national security systemsissued in accordance with law and as directed by the President; and
 
 &emsp;&emsp;(C) ensuring that information security management processes are integrated with agency strategic and operational planning processes;
 
@@ -92,7 +92,7 @@ Agency Program.—Each agency shall develop, document, and implement an agencywi
 
 &emsp;&emsp;(B) may include testing relied on in a <sup>1</sup> evaluation under section 3545;
 
-&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial action to address any deficiencies in the information security policies, procedures, and practices of the agency;
+&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial actionto address any deficiencies in the information security policies, procedures, and practices of the agency;
 
 &emsp;(7) procedures for detecting, reporting, and responding to security incidents, consistent with standards and guidelines issued pursuant to section 3546(b), including—
 
@@ -164,7 +164,7 @@ The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3543 of this title.
+This section is referred to in section 3543 of this title; title 42 section 1395kk–1.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

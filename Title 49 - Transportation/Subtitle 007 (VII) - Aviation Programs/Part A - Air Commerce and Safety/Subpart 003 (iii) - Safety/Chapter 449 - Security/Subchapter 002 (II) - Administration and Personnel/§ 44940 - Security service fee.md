@@ -22,7 +22,11 @@ Passenger fees.—The Under Secretary of Transportation for Security shall impos
 
 &emsp;&emsp;(G) The costs of deploying Federal law enforcement personnel pursuant to section 44903(h).
 
-> &emsp;The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review.
+&emsp;&emsp;(H) The costs of security-related capital improvements at airports.
+
+&emsp;&emsp;(I) The costs of training pilots and flight attendants under sections 44918 and 44921.
+
+> &emsp;The amount of such costs shall be determined by the Under Secretary and shall not be subject to judicial review. For purposes of subparagraph (A), the term “Federal law enforcement personnel” includes State and local law enforcement officers who are deputized under section 44922.
 
 &emsp;(2)
 
@@ -74,7 +78,7 @@ In general.—Notwithstanding section 9701 of title 31 and the procedural requir
 
 &emsp;(2)
 
-Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+Special rules passenger fees.—A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is notcollected from the passenger, the amount of the fee shall be paid by the carrier.
 
 &emsp;(3)
 
@@ -82,7 +86,7 @@ Subsequent modification of fee.—After imposing a fee in accordance with paragr
 
 &emsp;(4)
 
-Limitation on collection.—No fee may be collected under this section except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+Limitation on collection.—No fee may be collected under this section except to the extent that the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act or in section 44923.
 
 (e)
 
@@ -130,17 +134,33 @@ Refunds.—The Under Secretary may refund any fee paid by mistake or any amount 
 
 Exemptions.—The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
-(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625.)
+(Added Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625; amended Pub. L. 108–7, div. I, title III, §351(b), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–176, title VI, §605(b)(1), (2), Dec. 12, 2003, 117 Stat. 2568.)
 
 #### References in Text
 
-The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment ofPub. L. 107–71, which enacted this section and which was approved Nov. 19, 2001.
+The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment of Pub. L. 107–71, which enacted this section and which was approved Nov. 19, 2001.
 
 #### Codification
 
 2001—Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
+#### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–7 inserted at end of concluding provisions “For purposes of subparagraph (A), the term ‘Federal law enforcement personnel’ includes State and local law enforcement officers who are deputized under section 44922.”
+
+Subsec. (a)(1)(H), (I). Pub. L. 108–176, §605(b)(1), added subpars. (H) and (I).
+
+Subsec. (d)(4). Pub. L. 108–176, §605(b)(2), substituted “appropriations Act or in section 44923” for “appropriations Act”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 44923 of this title.
 

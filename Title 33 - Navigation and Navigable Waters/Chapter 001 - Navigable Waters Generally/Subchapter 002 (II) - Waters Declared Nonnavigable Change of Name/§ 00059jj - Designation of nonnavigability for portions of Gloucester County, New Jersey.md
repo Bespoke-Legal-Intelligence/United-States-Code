@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the Army (referred to in section <sup>1</sup> as the “Secretary”) shall designate as nonnavigable the areas described in paragraph (3) <sup>2</sup> unless the Secretary, after consultation with local and regional public officials (including local and regional planning organizations), makes a determination that 1 or more projects proposed to be carried out in 1 or more areas described in paragraph (2) are not in the public interest.
+&emsp;The Secretary of the Army (referred to in section <sup>1</sup> as the “Secretary”) shall designate as nonnavigable the areas described in paragraph (3) <sup>2</sup> unless the Secretary, after consultation with local and regional public officials (including local and regional planning organizations), makes a determination that 1 or more projectsproposed to be carried out in 1 or more areas described in paragraph (2) are not in the public interest.
 
 #### (2) Description of areas
 

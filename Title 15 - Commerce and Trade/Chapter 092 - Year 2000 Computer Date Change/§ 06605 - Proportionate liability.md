@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, whocaused or contributed to the total loss incurred by the plaintiff.
+Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
 
 #### (b) Proportionate liability
 
@@ -90,7 +90,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (C) Subject to contribution
 
-&emsp;&emsp;A defendant against whom judgment is not collectible is subject to contribution and toany continuing liability to the plaintiff on the judgment.
+&emsp;&emsp;A defendant against whom judgment is not collectible is subject to contribution and to any continuing liability to the plaintiff on the judgment.
 
 #### (D) Suits by consumers
 
@@ -132,7 +132,7 @@ Except in a Y2K action that is a contract action, and except as provided in subs
 
 #### (1) In general
 
-&emsp;A defendant who settles a Y2K action that is not a contract action at any time before final verdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court, the court shall enter an order constituting the final discharge of all obligations to the plaintiff of the settling defendant arising out of the action. The order shall bar all future claims for contribution arising out of the action—
+&emsp;A defendant who settles a Y2K action that is not a contract action at any time before finalverdict or judgment shall be discharged from all claims for contribution brought by other persons. Upon entry of the settlement by the court, the court shall enter an order constituting the final discharge of all obligations to the plaintiff of the settling defendant arising out of the action. The order shall bar all future claims for contribution arising out of the action—
 
 &emsp;&emsp;(A) by any person against the settling defendant; and
 

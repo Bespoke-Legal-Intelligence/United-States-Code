@@ -6,7 +6,7 @@
 | [<b>13.</b>](Chapter%20013%20-%20Dependency%20and%20Indemnity%20Compensation%20for%20Service-Connected%20Deaths/README.md) | <b>Dependency and Indemnity Compensation for Service-Connected Deaths</b> | <b>1301</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Pension%20for%20Non-Service-Connected%20Disability%20or%20Death%20or%20for%20Service/README.md) | <b>Pension for Non-Service-Connected Disability or Death or for Service</b> | <b>1501</b> |
 | [<b>17.</b>](Chapter%20017%20-%20Hospital%2C%20Nursing%20Home%2C%20Domiciliary%2C%20and%20Medical%20Care/README.md) | <b>Hospital, Nursing Home, Domiciliary, and Medical Care</b> | <b>1701</b> |
-| [<b>18.</b>](Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans/README.md) | <b>Benefits for Children of Vietnam Veterans</b> | <b>1802</b> |
+| [<b>18.</b>](Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans%20and%20Certain%20Other%20Veterans/README.md) | <b>Benefits for Children of Vietnam Veterans and Certain Other Veterans</b> | <b>1802</b> |
 | [<b>19.</b>](Chapter%20019%20-%20Insurance/README.md) | <b>Insurance</b> | <b>1901</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Benefits%20for%20Homeless%20Veterans/README.md) | <b>Benefits for Homeless Veterans</b> | <b>2001</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Specially%20Adapted%20Housing%20for%20Disabled%20Veterans/README.md) | <b>Specially Adapted Housing for Disabled Veterans</b> | <b>2101</b> |
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
 
 2001—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
@@ -42,7 +44,7 @@ This part is referred to in title 42 section 3013.
 - [Chapter 013 - Dependency and Indemnity Compensation for Service-Connected Deaths](Chapter%20013%20-%20Dependency%20and%20Indemnity%20Compensation%20for%20Service-Connected%20Deaths/README.md)
 - [Chapter 015 - Pension for Non-Service-Connected Disability or Death or for Service](Chapter%20015%20-%20Pension%20for%20Non-Service-Connected%20Disability%20or%20Death%20or%20for%20Service/README.md)
 - [Chapter 017 - Hospital, Nursing Home, Domiciliary, and Medical Care](Chapter%20017%20-%20Hospital%2C%20Nursing%20Home%2C%20Domiciliary%2C%20and%20Medical%20Care/README.md)
-- [Chapter 018 - Benefits for Children of Vietnam Veterans](Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans/README.md)
+- [Chapter 018 - Benefits for Children of Vietnam Veterans and Certain Other Veterans](Chapter%20018%20-%20Benefits%20for%20Children%20of%20Vietnam%20Veterans%20and%20Certain%20Other%20Veterans/README.md)
 - [Chapter 019 - Insurance](Chapter%20019%20-%20Insurance/README.md)
 - [Chapter 020 - Benefits for Homeless Veterans](Chapter%20020%20-%20Benefits%20for%20Homeless%20Veterans/README.md)
 - [Chapter 021 - Specially Adapted Housing for Disabled Veterans](Chapter%20021%20-%20Specially%20Adapted%20Housing%20for%20Disabled%20Veterans/README.md)

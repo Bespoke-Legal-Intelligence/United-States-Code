@@ -34,7 +34,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 &emsp;&emsp;(A) a citation or notice to any employing office responsible for correcting a violation of subsection (a) of this section; or
 
-&emsp;&emsp;(B) a notification to any employing office that the General Counsel believes has failedto correct a violation for which a citation has been issued within the period permitted for its correction.
+&emsp;&emsp;(B) a notification to any employing office that the General Counsel believes has failed to correct a violation for which a citation has been issued within the period permitted for its correction.
 
 #### (3) Hearings and review
 

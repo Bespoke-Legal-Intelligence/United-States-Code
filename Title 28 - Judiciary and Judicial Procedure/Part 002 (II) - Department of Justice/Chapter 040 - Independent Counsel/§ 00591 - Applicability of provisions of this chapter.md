@@ -34,7 +34,7 @@ In general.—When the Attorney General determines that an investigation or pros
 
 &emsp;(2)
 
-Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney Generalreceives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (d)
 
@@ -166,7 +166,7 @@ In General.—Subject to subsection (b), the amendments made by this Act \[enact
 
 “(b)
 
-Pending Proceedings.—With respect to any proceeding under chapter 39 of title 28, United States Code\(before the redesignation of such chapter as chapter 40 by section 144(g) of Public Law 99–554), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
+Pending Proceedings.—With respect to any proceeding under chapter 39 of title 28, United States Code (before the redesignation of such chapter as chapter 40 by section 144(g) of Public Law 99–554), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
 
 &emsp;“(1) Except as provided in paragraphs (2) and (3), the provisions of chapter 40 of such title as in effect on the day before such date of enactment shall, in lieu of the amendments made by this Act, continue to apply on or after such date to such proceeding until such proceeding is terminated in accordance with such chapter.
 

@@ -6,7 +6,7 @@ Whoever, whether or not acting under color of law, by force or threat of force w
 
 &emsp;(b) any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
 
-&emsp;&emsp;(1) participating, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in section 3602 of this title), familial status (as such term is defined in section 3602 of this title), or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section; or
+&emsp;&emsp;(1) participating, without discrimination on account of race, color, religion, sex, handicap (as such term is defined in section 3602 of this title), familial status (as such term is defined in section 3602 of this title),or national origin, in any of the activities, services, organizations or facilities described in subsection (a) of this section; or
 
 &emsp;&emsp;(2) affording another person or class of persons opportunity or protection so to participate; or
 

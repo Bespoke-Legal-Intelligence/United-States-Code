@@ -28,7 +28,7 @@ In carrying out the duties and functions of the Office, the Director may procure
 
 #### (d) Relationship to executive branch
 
-The Director is authorized to secure information, data, estimates, and statistics directly from the various departments, agencies, and establishments of the executive branch of Government and the regulatory agencies and commissions of the Government. All such departments, agencies, establishments, and regulatory agencies and commissions shall furnish the Director any available material which he determines to be necessary in the performance of his duties and functions (other than material the disclosure of which would be a violation of law). TheDirector is also authorized, upon agreement with the head of any such department, agency, establishment, or regulatory agency or commission, to utilize its services, facilities, and personnel with or without reimbursement; and the head of each such department, agency, establishment, or regulatory agency or commission is authorized to provide the Office such services, facilities, and personnel.
+The Director is authorized to secure information, data, estimates, and statistics directly from the various departments, agencies, and establishments of the executive branch of Government and the regulatory agencies and commissions of the Government. All such departments, agencies, establishments, and regulatory agencies and commissions shall furnish the Director any available material which he determines tobe necessary in the performance of his duties and functions (other than material the disclosure of which would be a violation of law). The Director is also authorized, upon agreement with the head of any such department, agency, establishment, or regulatory agency or commission, to utilize its services, facilities, and personnel with or without reimbursement; and the head of each such department, agency, establishment, or regulatory agency or commission is authorized to provide the Office such services, facilities, and personnel.
 
 #### (e) Relationship to other agencies of Congress
 
@@ -54,15 +54,15 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 #### Amendments
 
-1999—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
+<b>1999</b>—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
 
-1997—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
+<b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
 
 Subsec. (e). Pub. L. 105–33, §10102(b), inserted “and” before “the Library”, struck out “and the Office of Technology Assessment,” after “Library of Congress,”, inserted “and” before “the Librarian”, and struck out “, and the Technology Assessment Board” after “Librarian of Congress”.
 
 Subsecs. (f), (g). Pub. L. 105–33, §10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
 
-1990—Subsec. (f). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
+<b>1990</b>—Subsec. (f). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
 Subsec. (g). Pub. L. 101–508, §13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 

@@ -60,13 +60,21 @@ The Administrator shall—
 
 &emsp;&emsp;(E) disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;
 
-&emsp;&emsp;(F) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children; and
+&emsp;&emsp;(F) provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
 
-&emsp;&emsp;(G) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and internationally.
+&emsp;&emsp;(G) provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and internationally; and
+
+&emsp;&emsp;(H) coordinate the operation of a cyber tipline to provide online users an effective means of reporting Internet-related child sexual exploitation in the areas of—
+
+&emsp;&emsp;&emsp;(i) distribution of child pornography;
+
+&emsp;&emsp;&emsp;(ii) online enticement of children for sexual acts; and
+
+&emsp;&emsp;&emsp;(iii) child prostitution.
 
 #### (2) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection, $10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003.
+&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection, $20,000,000 for each of the fiscal years 2004 through 2008.
 
 #### (c) National incidence studies
 
@@ -80,13 +88,19 @@ The Administrator, either by making grants to or entering into contracts with pu
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172.)
 
 #### Prior Provisions
 
 A prior section 404 of Pub. L. 93–415 amended section 3882 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+
+2003—Subsec. (b)(1)(H). Pub. L. 108–21, §323, added subpar. (H).
+
+Subsec. (b)(2). Pub. L. 108–96 substituted “2008” for “2005”.
+
+Pub. L. 108–21, §321(b), substituted “$20,000,000 for each of the fiscal years 2004 through 2005” for “$10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003”.
 
 2002—Subsec. (a)(5)(E). Pub. L. 107–273 substituted “section 5714–11” for “section 5712a”.
 
@@ -110,7 +124,7 @@ Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Pri
 
 &emsp;“(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and”.
 
-Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among allagencies and organizations with responsibilities related to missing children.”
+Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children.”
 
 Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions as subpar. (A), inserted “24-hour” after “national” and “and” at end, and added subpar. (B).
 
@@ -122,7 +136,7 @@ Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1988 Amendment
 

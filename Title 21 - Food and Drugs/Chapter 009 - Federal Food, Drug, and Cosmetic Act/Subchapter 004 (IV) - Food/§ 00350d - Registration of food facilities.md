@@ -20,7 +20,7 @@
 
 #### (4) List
 
-&emsp;The Secretary shall compile and maintain an up-to-date list of facilities that are registered under this section. Such list and anyregistration documents submitted pursuant to this subsection shall not be subject to disclosure under section 552 of title 5. Information derived from such list or registration documents shall not be subject to disclosure under section 552 of title 5 to the extent that it discloses the identity or location of a specific registered person.
+&emsp;The Secretary shall compile and maintain an up-to-date list of facilities that are registered under this section. Such list and any registration documents submitted pursuant to this subsection shall not be subject to disclosure under section 552 of title 5. Information derived from such list or registration documents shall not be subject to disclosure under section 552 of title 5 to the extent that it discloses the identity or location of a specific registered person.
 
 #### (b) Facility
 
@@ -50,7 +50,7 @@ Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided t
 
 #### Electronic Filing
 
-Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: “For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section \[enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section\]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate.”
+Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: “For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section \[enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out asa note under this section\]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate.”
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (C) Certain transfers disregarded
 
-&emsp;&emsp;The transfer of properties or liabilities (including by contribution or distribution) shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
+&emsp;&emsp;The transfer of properties or liabilities (including by contribution or distribution)shall be disregarded if such transfers are part of a plan a principal purpose of which is to avoid the purposes of this section.
 
 #### (D) Special rule for related partnerships
 
@@ -66,7 +66,11 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 #### (d) Waivers
 
-The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of homeland security, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur.
+The Secretary shall waive subsection (a) of this section with respect to any specific contract if the Secretary determines that the waiver is required in the interest of homeland security.
 
-(Pub. L. 107–296, title VIII, §835, Nov. 25, 2002, 116 Stat. 2227.)
+(Pub. L. 107–296, title VIII, §835, Nov. 25, 2002, 116 Stat. 2227; Pub. L. 108–7, div. L, §101(2), Feb. 20, 2003, 117 Stat. 528.)
+
+#### Amendments
+
+2003—Subsec. (d). Pub. L. 108–7 struck out “, or to prevent the loss of any jobs in the United States or prevent the Government from incurring any additional costs that otherwise would not occur” before period at end.
 

@@ -10,7 +10,7 @@ A State, unit of local government, or combination of such units desiring to rece
 
 &emsp;(3) an estimate of the total cost of the construction of such project, including the amount of assistance requested for such project;
 
-&emsp;(4) reasonable assurance that title to such site is or will be vested solely in the applicant,or another agency or instrumentality of the applicant;
+&emsp;(4) reasonable assurance that title to such site is or will be vested solely in the applicant, or another agency or instrumentality of the applicant;
 
 &emsp;(5) reasonable assurance that adequate financial support will be available for the construction of the project and for its maintenance and operation when complete; and
 

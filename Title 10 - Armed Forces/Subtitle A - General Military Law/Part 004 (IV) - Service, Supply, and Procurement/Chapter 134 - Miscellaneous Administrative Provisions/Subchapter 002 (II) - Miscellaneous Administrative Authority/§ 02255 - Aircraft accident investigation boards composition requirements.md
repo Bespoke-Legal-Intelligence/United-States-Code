@@ -10,19 +10,17 @@ Required Membership of Boards.—Whenever the Secretary of a military department
 
 (b)
 
-Exception.—(1) The Secretary of the military department concerned may waive the requirement of subsection (a)(1) in the case of an aircraft accident if the Secretary determines that—
+Exception.—The Secretary of the military department concerned may waive the requirement of subsection (a)(1) in the case of an aircraft accident if the Secretary determines that—
 
-&emsp;(A) it is not practicable to meet the requirement because of—
+&emsp;(1) it is not practicable to meet the requirement because of—
 
-&emsp;&emsp;(i) the remote location of the aircraft accident;
+&emsp;&emsp;(A) the remote location of the aircraft accident;
 
-&emsp;&emsp;(ii) an urgent need to promptly begin the investigation; or
+&emsp;&emsp;(B) an urgent need to promptly begin the investigation; or
 
-&emsp;&emsp;(iii) a lack of available persons outside of the mishap unit who have adequate knowledge and expertise regarding the type of aircraft involved in the accident; and
+&emsp;&emsp;(C) a lack of available persons outside of the mishap unit who have adequate knowledge and expertise regarding the type of aircraft involved in the accident; and
 
-&emsp;(B) the objectivity and independence of the aircraft accident investigation board will not be compromised.
-
-(2) The Secretary shall notify Congress of a waiver exercised under this subsection and the reasons therefor.
+&emsp;(2) the objectivity and independence of the aircraft accident investigation board will not be compromised.
 
 (c)
 
@@ -46,7 +44,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term “mishap unit”, with respect to an aircraft accident investigation, means the unit of the armed forces (at the squadron or battalion level or equivalent) to which was assigned the flight crew of the aircraft that sustained the accident that is the subject of the investigation.
 
-(Added Pub. L. 104–201, div. A, title IX, §911(a)(1), Sept. 23, 1996, 110 Stat. 2621.)
+(Added Pub. L. 104–201, div. A, title IX, §911(a)(1), Sept. 23, 1996, 110 Stat. 2621; amended Pub. L. 108–136, div. A, title X, §1031(a)(13), Nov. 24, 2003, 117 Stat. 1597.)
+
+#### Amendments
+
+2003—Subsec. (b). Pub. L. 108–136 struck out par. (1) designation before “The Secretary”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, redesignated cls. (i) to (iii) of former subpar. (A) as subpars. (A) to (C), respectively, of par. (1), and struck out par. (2) which read as follows: “The Secretary shall notify Congress of a waiver exercised under this subsection and the reasons therefor.”
 
 #### Effective Date
 

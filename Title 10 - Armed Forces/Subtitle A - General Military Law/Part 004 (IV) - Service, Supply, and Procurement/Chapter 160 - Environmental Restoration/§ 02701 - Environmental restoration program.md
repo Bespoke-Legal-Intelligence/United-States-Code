@@ -10,7 +10,7 @@ In general.—The Secretary of Defense shall carry out a program of environmenta
 
 &emsp;(2)
 
-Application of section 120 of cercla.—Activities of the program described in subsection (b)(1) shall be carried out subject to, and in a manner consistent with, section 120 (relating to Federal facilities) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as “CERCLA”) (42 U.S.C. 9601 et seq.).
+Application of section 120 of cercla.—Activities of the program described in subsection (b)(1) shall be carried out subject to, and in a manner consistent with, section 120 (relating to Federal facilities) of CERCLA.
 
 &emsp;(3)
 
@@ -54,19 +54,27 @@ State fees and charges.—The Secretary shall pay fees and charges imposed by St
 
 (d)
 
-Services of Other Agencies.—
+Services of Other Entities.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, with any State or local government agency, or with any Indian tribe, to obtain the services of the agency to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
+In general.—Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, or organization to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
 
 &emsp;(2)
 
-Limitation on reimbursable agreements.—An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities.
+Cross-fiscal year agreements.—An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years.
 
 &emsp;(3)
 
-Definition.—In this subsection, the term “Indian tribe” has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).
+Limitation on reimbursable agreements.—An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities.
+
+&emsp;(4)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A) The term “Indian tribe” has the meaning given such term in section 101(36) of CERCLA (42 U.S.C. 9601(36)).
+
+&emsp;&emsp;(B) The term “nonprofit conservation organization” means any non-governmental nonprofit organization whose primary purpose is conservation of open space or natural resources.
 
 (e)
 
@@ -90,7 +98,7 @@ Surety Bonds.—
 
 &emsp;(1)
 
-Applicability of miller act.—If under the Miller Act (40 U.S.C. 270a et seq.) surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to the Act of April 29, 1941 (40 U.S.C. 270e–270f), the surety bonds shall be issued in accordance with the Miller Act.
+Applicability of miller act.—If under sections 3131 and 3133 of title 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to section 3134 of title 40, the surety bonds shall be issued in accordance with sections 3131 and 3133.
 
 &emsp;(2)
 
@@ -110,15 +118,21 @@ Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed b
 
 (2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(g)) applies.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053.)
+(k) UXO
+
+Program Manager.—(1) The Secretary of Defense shall establish a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>1</sup> of this title) that pose a threat to human health or safety.
+
+(2) The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.
+
+(3) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709.)
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsecs. (a)(2), (c)(1), (2), and (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. Sections 119, 120, and 122 of that Act are classified to sections 9619, 9620, and 9622, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+Sections 119, 120, and 122 of CERCLA, referred to in subsecs. (a)(2), (c)(2), and (e), are classified to sections 9619, 9620, and 9622, respectively, of Title 42, The Public Health and Welfare.
 
-The Miller Act, referred to in subsec. (i)(1), is act Aug. 24, 1935, ch. 642, 49 Stat. 793, as amended, which is classified generally to sections 270a to 270d–1 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 270a of Title 40 and Tables.
-
-Act of April 29, 1941, referred to in subsec. (i)(1), is act Apr. 29, 1941, ch. 81, 55 Stat. 147, as amended, which is classified generally to sections 270e and 270f of Title 40. For complete classification of this Act to the Code, see Tables.
+Section 2710 of this title, referred to in subsec. (k), was subsequently amended, and no longer defines the term “unexploded ordnance”.
 
 #### Prior Provisions
 
@@ -127,6 +141,22 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 A prior section 2701 was renumbered section 2721 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–314, §313(c)(2), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as ‘CERCLA’) (42 U.S.C. 9601 et seq.)”.
+
+Subsec. (d). Pub. L. 107–314, §2812(c)(1), substituted “Entities” for “Agencies” in heading.
+
+Subsec. (d)(1). Pub. L. 107–314, §§311(1), 2812(c)(2), substituted “paragraph (3)” for “paragraph (2)”, “any State or local government agency, any Indian tribe, or any nonprofit conservation organization” for “with any State or local government agency, or with any Indian tribe,”, and “the agency, Indian tribe, or organization” for “the agency”.
+
+Subsec. (d)(2), (3). Pub. L. 107–314, §311(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (d)(4). Pub. L. 107–314, §2812(c)(3), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In this subsection, the term ‘Indian tribe’ has the meaning given such term in section 101(36) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(36)).”
+
+Pub. L. 107–314, §311(2), redesignated par. (3) as (4).
+
+Subsec. (i)(1). Pub. L. 107–217 substituted “sections 3131 and 3133 of title 40” for “the Miller Act (40 U.S.C. 270a et seq.)”, “section 3134 of title 40” for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, and “sections 3131 and 3133” for “the Miller Act”.
+
+Subsec. (k). Pub. L. 107–314, §312, added subsec. (k).
 
 2001—Subsec. (j)(1). Pub. L. 107–107 struck out “, or after December 31, 1999” before period at end.
 
@@ -196,7 +226,7 @@ Effective Date.—The limitation in subsection (a) shall not take effect if befo
 
 Termination.—If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
 
-Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated asa site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
+Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
 
@@ -294,7 +324,7 @@ Authority.—(1) The Secretary of Defense may, in consultation with the Administ
 
 Incentives Available for Sale.—(1) Under the pilot program, the Secretary may sell economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department only if such incentives are not otherwise required for the activities or operations of the military department.
 
-“(2) The Secretary may not, under the pilot program, sell economic incentives attributable to the closure or realignment of a military installation under a base closure law.
+“(2) The Secretary may not, under the pilot program, sell economic incentives attributable to the closure orrealignment of a military installation under a base closure law.
 
 “(3) If the Secretary determines that additional sales of economic incentives are likely to result in amounts available for allocation under subsection (c)(2) in a fiscal year in excess of the limitation set forth in subparagraph (B) of that subsection, the Secretary shall not carry out such additional sales in that fiscal year.
 
@@ -462,7 +492,7 @@ Elements of Education and Training Program.—In establishing or conducting an e
 
 &emsp;“(5) To the extent practicable, the institution of higher education shall select instructors for the education and training program from institutions of higher education, appropriate community programs, and industry and labor.
 
-&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs andthe education and training program conducted by the consortium.
+&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs and the education and training program conducted by the consortium.
 
 “(f)
 
@@ -684,7 +714,7 @@ Employment of Graduates.—In the case of eligible civilian employees of the Dep
 
 “(c)
 
-Eligible Employees.—Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of the Department of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
+Eligible Employees.—Eligibility for selection to participate in the training program under subsection\(a) shall be limited to those civilian employees of the Department of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
 
 “(d)
 
@@ -700,7 +730,7 @@ Pub. L. 103–139, title II, Nov. 11, 1993, 107 Stat. 1422, provided in part: �
 
 #### Pilot Program for Expedited Environmental Response Actions
 
-Section 323 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title III, §323, Oct. 23, 1992, 106 Stat. 2365, provided that:
 
 “(a)
 
@@ -762,15 +792,9 @@ Program Restrictions.—The pilot program established in this section shall not 
 
 #### Overseas Environmental Restoration
 
-Section 324 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title III, §324, Oct. 23, 1992, 106 Stat. 2367, as amended by Pub. L. 108–136, div. A, title X, §1031(d)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
-“(a)
-
-Sense of Congress.—It is the sense of the Congress that in carrying out environmental restoration activities at military installations outside the United States, the President should seek to obtain an equitable division of the costs of environmental restoration with the nation in which the installation is located.
-
-“(b)
-
-Report.—The Secretary of Defense shall include in each Report on Allied Contributions to the Common Defense prepared under section 1003 of Public Law 98–525 (22 U.S.C. 1928 \[note\]) information, in classified and unclassified form, describing the efforts undertaken and the progress made by the President in carrying out subsection (a) during the period covered by the report.”
+“It is the sense of the Congress that in carrying out environmental restoration activities at military installations outside the United States, the President should seek to obtain an equitable division of the costs of environmental restoration with the nation in which the installation is located.”
 
 #### Environmental Scholarship and Fellowship Programs for Department of Defense
 
@@ -866,7 +890,7 @@ Funding for Fiscal Year 1993.—Of the amount authorized to be appropriated in s
 
 &emsp;“(1) $7,000,000 shall be available to carry out the scholarship and fellowship programs established in subsection (a); and
 
-&emsp;“(2) $3,000,000 shall be available to provide training to Department of Defense personnel to obtain theskills required to comply with existing environmental statutory and regulatory requirements.”
+&emsp;“(2) $3,000,000 shall be available to provide training to Department of Defense personnel to obtain the skills required to comply with existing environmental statutory and regulatory requirements.”
 
 #### Grants to Institutions of Higher Education To Provide Training in Environmental Restoration and Hazardous Waste Management
 
@@ -892,7 +916,7 @@ Section 344 of Pub. L. 101–510 directed Secretary of Defense to establish a pr
 
 #### Use of Ozone Depleting Substances Within Department of Defense
 
-Section 325 of Pub. L. 102–484 provided that:
+Pub. L. 102–484, div. A, title III, §325, Oct. 23, 1992, 106 Stat. 2367, provided that:
 
 “(a)
 
@@ -1034,9 +1058,9 @@ Chlorofluorocarbons Emission Reduction.—The Secretary of Defense shall formula
 
 “(b)
 
-Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], theSecretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
+Report.—(1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
 
-“(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph, the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
+“(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph,the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
 
 “(c)
 
@@ -1093,4 +1117,6 @@ Report.—Not later than March 1, 1991, the Secretary of Defense shall submit to
 #### Use of Department of Defense Appropriations for Removal of Unsafe Buildings or Debris
 
 Pub. L. 101–165, title IX, §9038, Nov. 21, 1989, 103 Stat. 1137, which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by Pub. L. 101–510, div. A, title XIV, §1481(i), Nov. 5, 1990, 104 Stat. 1708.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

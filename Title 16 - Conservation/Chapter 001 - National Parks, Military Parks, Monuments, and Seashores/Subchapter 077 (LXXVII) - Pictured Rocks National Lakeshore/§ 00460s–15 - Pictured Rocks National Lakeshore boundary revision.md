@@ -52,7 +52,7 @@ There are authorized to be appropriated to the Secretary $225,000 to restore, pr
 
 #### Codification
 
-Section was enacted as part of the Omnibus Maritime and Coast Guard Improvements Act of 2002, and also as part of the Maritime Transportation Security Act of2002, and not as part of Pub. L. 89–668 which comprises this subchapter.
+Section was enacted as part of the Omnibus Maritime and Coast Guard Improvements Act of 2002, and also as part of the Maritime Transportation Security Act of 2002, and not as part of Pub. L. 89–668 which comprises this subchapter.
 
 #### Transfer of Functions
 

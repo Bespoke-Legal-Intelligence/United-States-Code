@@ -52,13 +52,13 @@ Pub. L. 103–335, title VIII, §8077, Sept. 30, 1994, 108 Stat. 2636.
 
 Pub. L. 103–139, title VIII, §8095, Nov. 11, 1993, 107 Stat. 1461.
 
-Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, provided that: “Section 4403 (other than subsection (f)) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the commissioned officer corps of the National Oceanic and Atmospheric Administration in the same manner and to the same extent as that section applies to the Department of Defense. The Secretary of Commerce shall implement the provisions of that section with respect to such commissioned officer corps and shall apply the provisions of that section to the provisions of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 \[act June 3, 1948, see Short Title note set out under section 853a of Title 33, Navigation and Navigable Waters\] relating to the retirement of members of such commissioned officer corps.”
+Pub. L. 104–106, div. A, title V, §566(c), Feb. 10, 1996, 110 Stat. 328, as amended by Pub. L. 107–372, title II, §272(b), Dec. 19, 2002, 116 Stat. 3094, provided that: “Section 4403 (other than subsection (f)) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the commissioned officer corps of the National Oceanic and Atmospheric Administration in the same manner and to the same extent as that section applies to the Department of Defense. The Secretary of Commerce shall implement the provisions of that section with respect to such commissioned officer corps and shall apply the provisions of that section to the provisions of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 \[33 U.S.C. 3001 et seq.\] relating to the retirement of members of such commissioned officer corps.”
 
-\[Section 566(c) of Pub. L. 104–106, set out above, applicable only to members of commissioned officer corps of National Oceanic and Atmospheric Administration separated after Sept. 30, 1995, see section 566(d) of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 857a of Title 33, Navigation and Navigable Waters.\]
+\[Pub. L. 104–106, div. A, title V, §566(d), Feb. 10, 1996, 110 Stat. 328, provided that: “This section \[amending former section 857a of Title 33, Navigation and Navigable Waters, and enacting provisions set out as a note above\] shall apply only to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration who are separated after September 30, 1995.”\]
 
-Pub. L. 103–337, div. A, title V, §542(d), Oct. 5, 1994, 108 Stat. 2769, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Transportation shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
+Pub. L. 103–337, div. A, title V, §542(d), Oct. 5, 1994, 108 Stat. 2769, as amended by Pub. L. 107–296, title XVII, §1704(e)(5), Nov. 25, 2002, 116 Stat. 2315, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Homeland Security shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
 
-Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, provided that:
+Pub. L. 102–484, div. D, title XLIV, §4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, §561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, §1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, §561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–314, div. A, title V, §554, Dec. 2, 2002, 116 Stat. 2553, provided that:
 
 “(a)
 
@@ -72,7 +72,7 @@ to 20
 
 Years of Service.—(1) During the active force drawdown period, the Secretary of the Army may—
 
-&emsp;“(A) apply the provisions of section 3911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting ‘at least 15 years’ for ‘at least 20 years’ in subsection (a) of that section;
+&emsp;“(A) apply the provisions of section 3911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 yearsof service by substituting ‘at least 15 years’ for ‘at least 20 years’ in subsection (a) of that section;
 
 &emsp;“(B) apply the provisions of section 3914 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting ‘at least 15’ for ‘at least 20’; and
 
@@ -136,7 +136,9 @@ Members Receiving SSB or VSI.—The Secretary of a military department may retir
 
 “(i)
 
-Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on December 31, 2001.”
+Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on September 1, 2002.”
+
+\[Pub. L. 107–314, div. A, title V, §554, Dec. 2, 2002, 116 Stat. 2553, provided that the amendment made by that section to section 4403 of Pub. L. 102–484, set out above, is effective Jan. 1, 2002.\]
 
 #### Section Referred to in Other Sections
 

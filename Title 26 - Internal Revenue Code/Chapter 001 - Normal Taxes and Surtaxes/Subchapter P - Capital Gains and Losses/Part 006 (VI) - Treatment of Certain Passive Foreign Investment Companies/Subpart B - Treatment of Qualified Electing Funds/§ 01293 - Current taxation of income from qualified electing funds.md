@@ -60,7 +60,7 @@ For purposes of section 960—
 
 #### (1) Exception for certain income
 
-&emsp;For purposes of determining the amount included in the gross income of any person underthis section, the ordinary earnings and net capital gain of a qualified electing fund shall not include any item of income received by such fund if—
+&emsp;For purposes of determining the amount included in the gross income of any person under this section, the ordinary earnings and net capital gain of a qualified electing fund shall not include any item of income received by such fund if—
 
 &emsp;&emsp;(A) such fund is a controlled foreign corporation (as defined in section 957(a)) and such person is a United States shareholder (as defined in section 951(b)) in such fund, and
 

@@ -20,7 +20,7 @@ The recreation area shall comprise the following lands, waters, marshes, and sub
 
 #### (b) Boundary revisions: notification of Congressional committees; publication in Federal Register
 
-The map referred to in this section shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate in writing, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+The map referred to in this section shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate in writing, the Secretaryof the Interior (hereinafter referred to as the “Secretary”) is authorized to make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 (Pub. L. 92–592, §§1, 3(b)(2), Oct. 27, 1972, 86 Stat. 1308; Pub. L. 103–437, §6(n)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 106–132, §1(2), Dec. 7, 1999, 113 Stat. 1681.)
 

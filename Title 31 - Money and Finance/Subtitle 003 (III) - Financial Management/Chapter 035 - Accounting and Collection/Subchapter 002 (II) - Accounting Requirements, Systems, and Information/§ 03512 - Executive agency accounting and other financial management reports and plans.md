@@ -232,6 +232,10 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title
+
+This section is popularly known as the “Federal Managers Financial Integrity Act”.
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit statements and reports to Congress under subsection (d)(3) of this section is listed on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
@@ -292,7 +296,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 “(a)
 
-In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accountingstandards, and the United States Government Standard General Ledger at the transaction level.
 
 “(b)
 

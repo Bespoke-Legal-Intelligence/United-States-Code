@@ -102,5 +102,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §525(b)\], Oct. 30, 2000, 114 Sta
 
 #### Temporary Provision for Extension of Time for Separation or Retirement
 
-Pub. L. 106–65, div. A, title V, §522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act \[Oct. 5, 1999\], the provisions of subsections\(a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
+Pub. L. 106–65, div. A, title V, §522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act \[Oct. 5, 1999\], the provisions of subsections (a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
 

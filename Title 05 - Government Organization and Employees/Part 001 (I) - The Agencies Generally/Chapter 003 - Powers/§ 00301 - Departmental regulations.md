@@ -1,6 +1,6 @@
 ### §301. Departmental regulations
 
-The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
+The head of an Executive department or military department may prescribe regulations forthe government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379.)
 
@@ -106,7 +106,7 @@ Assistance in matching birth and death records.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—The Secretary of Health and Human Services, acting through the Director of the National Center for Health Statistics and after consulting with the head of any other agency designated by the President, shall make grants to States to assist them in developing the capability to match birth and death records, within each State and among the States, and to note the fact of death on the birth certificates of deceased persons. In developing the capability described in the preceding sentence, a State that receives a grant under this subparagraph shall focus first on individuals born after 1950.
+In general.—The Secretary of Health and Human Services, acting through the Director ofthe National Center for Health Statistics and after consulting with the head of any other agency designated by the President, shall make grants to States to assist them in developing the capability to match birth and death records, within each State and among the States, and to note the fact of death on the birth certificates of deceased persons. In developing the capability described in the preceding sentence, a State that receives a grant under this subparagraph shall focus first on individuals born after 1950.
 
 &emsp;&emsp;&emsp;“(ii)
 

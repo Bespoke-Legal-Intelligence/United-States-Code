@@ -68,7 +68,7 @@ and 118.—Sections 106(a) and 118 of title 23 apply to the development highway 
 
 &emsp;(2)
 
-Construction and maintenance.—States are required to maintain each development highway and local access road as provided forFederal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
+Construction and maintenance.—States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1265.)
 
@@ -126,5 +126,5 @@ In subsection (e), the text of 40 App.:201(g) is omitted as obsolete.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14507, 14526, 14703, 14704 of this title.
+This section is referred to in sections 14507, 14526, 14703, 14704 of this title; title 23 section 104.
 

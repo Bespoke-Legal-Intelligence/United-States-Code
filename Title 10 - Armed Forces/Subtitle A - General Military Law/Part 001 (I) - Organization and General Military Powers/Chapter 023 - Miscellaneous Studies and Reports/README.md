@@ -3,17 +3,22 @@
 | Sec. |  |
 | :--- | ---: |
 | [480\.](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md) | Reports to Congress: submission in electronic form. |
-| [481\.](%C2%A7%2000481%20-%20Race%20relations%2C%20gender%20discrimination%2C%20and%20hate%20group%20activity%20annual%20survey%20and%20report.md) | Race relations, gender discrimination, and hate group activity: annual survey and report. |
+| [481\.](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md) | Racial and ethnic issues; gender issues: surveys. |
 | [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
 | [483\.](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md) | Reports on transfers from high-priority readiness appropriations. |
 | [484\.](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md) | Annual report on aircraft inventory. |
 | [485\.](%C2%A7%2000485%20-%20Joint%20warfighting%20experimentation.md) | Joint warfighting experimentation. |
 | [486\.](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md) | Quadrennial report on emerging operational concepts. |
 | [487\.](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md) | Unit operations tempo and personnel tempo: annual report. |
+| [488\.](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md) | Management of electromagnetic spectrum: biennial strategic plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title X, §1054(b), Nov. 24, 2003, 117 Stat. 1615, added item 488.
+
+2002—Pub. L. 107–314, div. A, title V, §561(a)(2), Dec. 2, 2002, 116 Stat. 2554, substituted “Racial and ethnic issues; gender issues: surveys” for “Race relations, gender discrimination, and hate group activity: annual survey and report” in item 481.
 
 2001—Pub. L. 107–107, div. A, title X, §1042(b), Dec. 28, 2001, 115 Stat. 1218, added item 480.
 
@@ -35,10 +40,11 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00480 - Reports to Congress submission in electronic form](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md)
-- [&sect; 00481 - Race relations, gender discrimination, and hate group activity annual survey and report](%C2%A7%2000481%20-%20Race%20relations%2C%20gender%20discrimination%2C%20and%20hate%20group%20activity%20annual%20survey%20and%20report.md)
+- [&sect; 00481 - Racial and ethnic issues; gender issues surveys](%C2%A7%2000481%20-%20Racial%20and%20ethnic%20issues%3B%20gender%20issues%20surveys.md)
 - [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
 - [&sect; 00483 - Reports on transfers from high-priority readiness appropriations](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md)
 - [&sect; 00484 - Annual report on aircraft inventory](%C2%A7%2000484%20-%20Annual%20report%20on%20aircraft%20inventory.md)
 - [&sect; 00485 - Joint warfighting experimentation](%C2%A7%2000485%20-%20Joint%20warfighting%20experimentation.md)
 - [&sect; 00486 - Quadrennial report on emerging operational concepts](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md)
 - [&sect; 00487 - Unit operations tempo and personnel tempo annual report](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md)
+- [&sect; 00488 - Management of electromagnetic spectrum biennial strategic plan](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md)

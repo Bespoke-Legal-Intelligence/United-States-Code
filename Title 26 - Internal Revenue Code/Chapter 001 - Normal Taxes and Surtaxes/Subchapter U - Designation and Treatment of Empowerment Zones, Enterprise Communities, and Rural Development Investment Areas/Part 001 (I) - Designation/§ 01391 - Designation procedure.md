@@ -34,7 +34,7 @@ A designation may be made under subsection (a) only after 1993 and before 1996.
 
 #### (2) Revocation of designation
 
-&emsp;The appropriate Secretary may revoke the designation under this section of an area if such Secretary determines that the local government or the State in which it is located—
+&emsp;The appropriate Secretary may revoke the designation under this section of an area ifsuch Secretary determines that the local government or the State in which it is located—
 
 &emsp;&emsp;(A) has modified the boundaries of the area, or
 
@@ -112,7 +112,7 @@ No area may be designated under this section unless the application for such des
 
 #### (iii) Exception for developable sites
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to up to 3 noncontiguous parcels in a nominated area which may be developed for commercial or industrial purposes. The aggregate area of noncontiguous parcels to which the preceding sentence applies with respect to any nominated area shall not exceed 2,000 acres.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to up to 3 noncontiguous parcels in a nominated areawhich may be developed for commercial or industrial purposes. The aggregate area of noncontiguous parcels to which the preceding sentence applies with respect to any nominated area shall not exceed 2,000 acres.
 
 #### (iv) Certain provisions not to apply
 
@@ -130,7 +130,7 @@ No area may be designated under this section unless the application for such des
 
 #### (ii) Special rule for rural areas
 
-&emsp;&emsp;&emsp;If a population census tract (or equivalent division under section 1392(b)(4)) in arural area exceeds 1,000 square miles or includes a substantial amount of land owned by the Federal, State, or local government, the nominated area may exclude such excess square mileage or governmentally owned land and the exclusion of that area will not be treated as violating the continuous boundary requirement of section 1392(a)(3)(B).
+&emsp;&emsp;&emsp;If a population census tract (or equivalent division under section 1392(b)(4)) in a rural area exceeds 1,000 square miles or includes a substantial amount of land owned by the Federal, State, or local government, the nominated area may exclude such excess square mileage or governmentally owned land and the exclusion of that area will not be treated as violating the continuous boundary requirement of section 1392(a)(3)(B).
 
 #### (C) Aggregate population limitation
 

@@ -40,7 +40,7 @@
 
 #### (d) Report
 
-With respect to determinations by a special asset group that a loan will not be restructured,the special asset group shall submit to the National Special Asset Council a report evaluating the loan and the basis for the determination that the loan should not be restructured.
+With respect to determinations by a special asset group that a loan will not be restructured, the special asset group shall submit to the National Special Asset Council a report evaluating the loan and the basis for the determination that the loan should not be restructured.
 
 #### (e) Restructuring factors
 

@@ -14,9 +14,9 @@
 
 (d) The Secretary concerned shall include in his annual report to the President a complete statement of each easement granted under this section, including the name and address of the grantee, the purpose of the grant, and the benefits accruing to the United States or to the public.
 
-(e) Subsection (d) of section 2667 of this title shall apply with respect to proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsection applies to money rentals received pursuant to leases entered into by that Secretary under such section.
+(e) Subsections (c) and (d) of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(b), Nov. 24, 2003, 117 Stat. 1725.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,8 @@ In subsection (c), the words “any easement” are substituted for the words �
 In subsection (d), the words “a complete statement of each easement” are substituted for the words “a full and complete statement of each and all easements”.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 substituted “Subsections (c) and (d)” for “Subsection (d)” and “subsections apply to in-kind consideration and” for “subsection applies to” and inserted “in-kind consideration and” before “proceeds”.
 
 2000—Subsec. (e). Pub. L. 106–398 added subsec. (e).
 

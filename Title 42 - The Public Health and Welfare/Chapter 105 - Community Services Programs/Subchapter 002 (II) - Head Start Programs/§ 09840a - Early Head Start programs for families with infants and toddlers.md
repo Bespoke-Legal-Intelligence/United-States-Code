@@ -76,7 +76,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 &emsp;&emsp;&emsp;(ii) providing ongoing training and technical assistance for regional and program staff charged with monitoring and overseeing the administration of the program carried out under this section;
 
-&emsp;&emsp;&emsp;(iii) providing ongoing training and technical assistance for existing recipients (as of the date of such training or assistance) of grants under subsection (a) of this section and support and program planning and implementation assistance for new recipients of such grants; and
+&emsp;&emsp;&emsp;(iii) providing ongoing training and technical assistance for existing recipients (as of the date of such training or assistance)of grants under subsection (a) of this section and support and program planning and implementation assistance for new recipients of such grants; and
 
 &emsp;&emsp;&emsp;(iv) providing professional development and personnel enhancement activities, including the provision of funds to recipients of grants under subsection (a) of this section for the recruitment and retention of qualified staff with an appropriate level of education and experience.
 

@@ -48,7 +48,7 @@ Conservation system.—The term “conservation system” means a combination of
 
 &emsp;(7)
 
-Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practices make it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
+Field.—The term “field” means a part of a farm that is separated from the balance of the farm by permanent boundaries such as fences, roads, permanent waterways, or other similar features. At the option of the owner or operator of the farm, croplines may also be used to delineate a field if farming practicesmake it probable that the croplines are not subject to change. Any highly erodible land on which an agricultural commodity is produced after December 23, 1985, and that is not exempt under section 3812 of this title, shall be considered as part of the field in which the land was included on December 23, 1985, unless the owner and Secretary agree to modification of the boundaries of the field to carry out this chapter.
 
 &emsp;(8) The term “highly erodible cropland” means highly erodible land that is in cropland use, as determined by the Secretary.
 
@@ -132,6 +132,10 @@ Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) 
 
 1986—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term “wetland” shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
 
+#### Short Title of 2003 Amendment
+
+Pub. L. 108–7, div. N, title II, §201, Feb. 20, 2003, 117 Stat. 538, provided that: “This title \[amending sections 3832 and 3841 of this title\] may be cited as the ‘Agricultural Assistance Act of 2003’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–387, §1(a) \[title XI, §1101\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “This title \[amending sections 3831 and 3832 of this title and enacting provisions set out as notes under section 3831 of this title\] may be cited as the ‘Conservation of Farmable Wetland Act of 2000’.”
@@ -170,7 +174,7 @@ Applicable Authority.—The promulgation of regulations under subsection (a) and
 
 “(c)
 
-Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretaryshall use the authority provided under section 808(2) of title 5, United States Code.”
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808(2) of title 5, United States Code.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

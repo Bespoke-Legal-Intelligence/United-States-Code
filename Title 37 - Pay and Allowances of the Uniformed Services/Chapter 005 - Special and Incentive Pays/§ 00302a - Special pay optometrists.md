@@ -18,7 +18,7 @@ Regular Special Pay.—Each of the following officers is entitled to special pay
 
 > &emsp;who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
-&emsp;(3) A general officer of the Army or the Air Force appointed, from any of the categoriesnamed in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
+&emsp;(3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
 
 (b)
 

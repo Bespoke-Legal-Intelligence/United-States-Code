@@ -32,7 +32,7 @@ The Secretary shall take such action as may be necessary to assure that statisti
 
 #### (d) Information; publication restrictions
 
-No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 242b, 242k, or 242<i>l</i> of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose; and in the case of information obtained in the course of health statistical or epidemiological activities under section 242b or 242k of this title, such information may not be published or released in other form if the particular establishment or person supplying the information or described in it is identifiable unless such establishment or person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+No information, if an establishment or person supplying the information or described in it isidentifiable, obtained in the course of activities undertaken or supported under section 242b, 242k, or 242<i>l</i> of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose; and in the case of information obtained in the course of health statistical or epidemiological activities under section 242b or 242k of this title, such information may not be published or released in other form if the particular establishment or person supplying the information or described in it is identifiable unless such establishment or person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
 #### (e) Payment procedures; advances or reimbursement; installments; conditions; reductions
 
@@ -40,7 +40,7 @@ No information, if an establishment or person supplying the information or descr
 
 (2) The amounts otherwise payable to any person under a grant or contract made under section 242b, 242k, or 242<i>l</i> of this title shall be reduced by—
 
-&emsp;(A) amounts equal to the fair market value of any equipment or supplies furnished to suchperson by the Secretary for the purpose of carrying out the project with respect to which such grant or contract is made, and
+&emsp;(A) amounts equal to the fair market value of any equipment or supplies furnished to such person by the Secretary for the purpose of carrying out the project with respect to which such grant or contract is made, and
 
 &emsp;(B) amounts equal to the pay, allowances, traveling expenses, and related personnel expenses attributable to the performance of services by an officer or employee of the Government in connection with such project, if such officer or employee was assigned or detailed by the Secretary to perform such services,
 
@@ -138,7 +138,7 @@ Subsec. (i). Pub. L. 101–239, §6103(e)(4)(I), struck out subsec. (i) which au
 
 &emsp;“(C) A report on the utilization of health resources. Such report shall include a description and analysis, by age, sex, income, and geographic area, of the statistics collected under section 242k(b)(1)(F) of this title.
 
-&emsp;“(D) A report on the health of the Nation's people. Such report shall include a description and analysis, by age, sex, income, and geographic area, of the statistics collected under section 242k(b)(1)(A) of this title.”
+&emsp;“(D) A report on the health of the Nation's people. Such report shall include a description and analysis,by age, sex, income, and geographic area, of the statistics collected under section 242k(b)(1)(A) of this title.”
 
 Subsec. (a)(3). Pub. L. 100–177, §106(a)(2), struck out “or (2)” after “paragraph (1)”.
 
@@ -148,7 +148,7 @@ Subsec. (b)(2). Pub. L. 100–177, §107(2), added par. (2) and struck out forme
 
 Subsec. (i). Pub. L. 100–177, §108, amended subsec. (i) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for carrying out activities under sections 242b, 242c, 242k, and 242n of this title for former provisions authorizing appropriations for fiscal years 1975 to 1987 for carrying out activities under those sections.
 
-1984—Subsec. (i)(1). Pub. L. 98–551, §7(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, inserted “and Health Care Technology Assessment” after “Research”, substituted “and at least 10 per centum of such amount or $1,500,000, whichever is less, shall be available only forthe user liaison program and the technical assistance program referred to in section 242c(c)(2) of this title and for dissemination activities directly undertaken through such Center” for “and at least 5 per centum of such amount or $1,000,000, whichever is less, shall be available only for dissemination activities directly undertaken through such Center”, inserted “For health care technology assessment activities undertaken under subsections (b)(5), (e), (f), and (g) of section 242c of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, and $4,000,000 for the fiscal year ending September 30, 1987. For grants under section 242n of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $500,000 for the fiscal year ending September 30, 1985, $750,000 for the fiscal year ending September 30, 1986, and $750,000 for the fiscal year ending September 30, 1987.”, and in last sentence substituted “for any fiscal year” for “for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984,”.
+1984—Subsec. (i)(1). Pub. L. 98–551, §7(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, inserted “and Health Care Technology Assessment” after “Research”, substituted “and at least 10 per centum of such amount or $1,500,000, whichever is less, shall be available only for the user liaison program and the technical assistance program referred to in section 242c(c)(2) of this title and for dissemination activities directly undertaken through such Center” for “and at least 5 per centum of such amount or $1,000,000, whichever is less, shall be available only for dissemination activities directly undertaken through such Center”, inserted “For health care technology assessment activities undertaken under subsections (b)(5), (e), (f), and (g) of section 242c of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, and $4,000,000 for the fiscal year ending September 30, 1987. For grants under section 242n of this title the Secretary shall obligate from funds appropriated under this paragraph not less than $500,000 for the fiscal year ending September 30, 1985, $750,000 for the fiscal year ending September 30, 1986, and $750,000 for the fiscal year ending September 30, 1987.”, and in last sentence substituted “for any fiscal year” for “for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984,”.
 
 Subsec. (i)(2). Pub. L. 98–551, §7(b), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
@@ -192,7 +192,7 @@ Section 2600 of Pub. L. 100–690 provided that: “Except as provided in sectio
 
 #### Effective Date of 1987 Amendment
 
-Section 106(c) of Pub. L. 100–177 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 242p of this title\] shall apply to reports and profiles required to be submitted after November 1, 1987.”
+Section 106(c) of Pub. L. 100–177 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 242p of this title\] shall apply to reports and profiles required to be submitted after November 1, 1987.”
 
 #### Mine Workers Study; Report Completed and Submitted No Later Than 30 Months After November 9, 1978
 

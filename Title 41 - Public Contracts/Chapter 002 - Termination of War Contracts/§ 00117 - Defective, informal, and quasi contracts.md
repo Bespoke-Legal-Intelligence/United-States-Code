@@ -6,7 +6,7 @@ Where any person has arranged to furnish or furnished to a contracting agency or
 
 #### (b) Technical defects or omissions
 
-Whenever any formal or technical defect or omission in any prime contract, or in any grant of authority to an officer or agent of a contracting agency who ordered any materials, services, and facilities might invalidate the contract or commitment, the contracting agency (1) shall not take advantage of such defect or omission; (2) shall amend, confirm, or ratify such contract or commitment without consideration in order to cure such defect or omission; and (3) shall make a fair settlement of any obligation thereby created or incurred by such agency, whether expressed or implied, in fact or in law, or in the nature of an implied or quasi contract.
+Whenever any formal or technical defect or omission in any prime contract, or in any grant of authority to an officer or agent of a contracting agency who ordered any materials, services, and facilities might invalidate the contract or commitment, the contracting agency (1) shallnot take advantage of such defect or omission; (2) shall amend, confirm, or ratify such contract or commitment without consideration in order to cure such defect or omission; and (3) shall make a fair settlement of any obligation thereby created or incurred by such agency, whether expressed or implied, in fact or in law, or in the nature of an implied or quasi contract.
 
 #### (c) Failure to settle
 
@@ -16,7 +16,7 @@ Where a contracting agency fails to settle by agreement any claim asserted under
 
 The Administrator of General Services shall require each contracting agency to formalize all such obligations and commitments within such period as the Administrator of General Services deems appropriate. No person shall be entitled to recover compensation, to receive a settlement of any alleged obligation, or to obtain the benefit of any amendment, confirmation, ratification, or formalization of any alleged contract or commitment under the provisions of subsections (a), (b), (c), or (d) of this section, unless such person shall, on or before one hundred and eighty days after June 28, 1954, have filed a claim therefor with the contracting agency.
 
-(July 1, 1944, ch. 358, §17, 58 Stat. 665; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947Reorg. Plan. No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; June 28, 1954, ch. 403, §1, 68 Stat. 300.)
+(July 1, 1944, ch. 358, §17, 58 Stat. 665; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan. No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; June 28, 1954, ch. 403, §1, 68 Stat. 300.)
 
 #### Amendments
 

@@ -32,7 +32,7 @@ In making loans or commitments to loan pursuant to this section, the Secretary s
 
 &emsp;(1) allocate a minimum of 25 percent of available financial assistance to existing small municipal and rural powerplants; and
 
-&emsp;(2) give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition under subchapter III of this chapter (or under section 792 of title 15).
+&emsp;(2) give priority consideration to requests for financial assistance by existing electric powerplants subject to any prohibition undersubchapter III of this chapter (or under section 792 of title 15).
 
 #### (d) Definitions
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (e) Records
 
-(1) The Secretary shall require all persons receiving financial assistance under this sectionto keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) The Secretary shall require all persons receiving financial assistance under this section to keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the later of—
 

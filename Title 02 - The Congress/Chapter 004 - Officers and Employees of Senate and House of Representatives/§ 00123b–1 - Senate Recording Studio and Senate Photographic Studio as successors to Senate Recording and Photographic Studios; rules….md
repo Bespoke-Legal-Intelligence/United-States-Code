@@ -16,7 +16,7 @@ Subsec. (b)(2), which authorized the Sergeant at Arms and Doorkeeper of the Sena
 
 #### Amendments
 
-1990—Subsec. (a). Pub. L. 101–520 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Senate Recording Studio hereafter shall be known as the Senate Recording and Photographic Studios. Subject to subsection (b) of this section, all references to the Senate Recording Studio (including the revolving fund) in any law, resolution, or regulation shall be considered as referring to the Senate Recording and Photographic Studios, and any provision of any law, resolution, or regulation which is applicable to the Senate Recording Studio shall be deemed to apply to the Senate Recording and Photographic Studios.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–520 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Senate Recording Studio hereafter shall be known as the Senate Recording and Photographic Studios. Subject to subsection (b) of this section, all references to the Senate Recording Studio (including the revolving fund) in any law, resolution, or regulation shall be considered as referring to the Senate Recording and Photographic Studios, and any provision of any law, resolution, or regulation which is applicable to the Senate Recording Studio shall be deemed to apply to the Senate Recording and Photographic Studios.”
 
 #### Effective Date of 1990 Amendment
 

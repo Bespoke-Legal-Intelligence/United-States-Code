@@ -72,7 +72,7 @@
 
 #### Historical and Revision Notes
 
-Sections 81–131 of this chapter show the territorial composition of districts and divisions by counties as ofJanuary 1, 1945. All references to dates were omitted as unnecessary.
+Sections 81–131 of this chapter show the territorial composition of districts and divisions by counties as of January 1, 1945. All references to dates were omitted as unnecessary.
 
 All references to fixed terms of holding court were also omitted in order to vest in each district court a wider discretion and greater flexibility in the disposition of its business. Such times will now be determined by rule of court rather than by statute. See sections 138 and 141 of this title.
 

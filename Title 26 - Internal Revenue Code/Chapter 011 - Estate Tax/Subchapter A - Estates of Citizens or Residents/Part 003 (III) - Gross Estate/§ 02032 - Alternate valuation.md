@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The value of the gross estate may be determined, if the executor so elects, by valuing all the property included in the gross estate as follows:
+The value of the gross estate may be determined, if the executor so elects, by valuing allthe property included in the gross estate as follows:
 
 &emsp;(1) In the case of property distributed, sold, exchanged, or otherwise disposed of, within 6 months after the decedent's death such property shall be valued as of the date of distribution, sale, exchange, or other disposition.
 
@@ -12,7 +12,7 @@ The value of the gross estate may be determined, if the executor so elects, by v
 
 #### (b) Special rules
 
-No deduction under this chapter of any item shall be allowed if allowance for such items is in effect given by the alternate valuation provided by this section. Wherever in any other subsection or section of this chapter reference is made to the value of property at the time of the decedent's death, such reference shall be deemedto refer to the value of such property used in determining the value of the gross estate. In case of an election made by the executor under this section, then—
+No deduction under this chapter of any item shall be allowed if allowance for such items is in effect given by the alternate valuation provided by this section. Wherever in any other subsection or section of this chapter reference is made to the value of property at the time of the decedent's death, such reference shall be deemed to refer to the value of such property used in determining the value of the gross estate. In case of an election made by the executor under this section, then—
 
 &emsp;(1) for purposes of the charitable deduction under section 2055 or 2106(a)(2), any bequest, legacy, devise, or transfer enumerated therein, and
 
@@ -80,7 +80,7 @@ Transitional rule.—In the case of an estate of a decedent dying before the dat
 
 #### Effective Date of 1970 Amendment
 
-Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
+Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notesunder this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@ Subject to the direction and control of the Secretary, the responsibilities of t
 
 &emsp;&emsp;(A) exercising primary responsibility for public advisories related to threats to homeland security; and
 
-&emsp;&emsp;(B) in coordination with other agencies of the Federal Government, providing specific warning information, and advice about appropriate protective measures and countermeasures, to State and local government agencies and authorities, the private sector, other entities, and the public.
+&emsp;&emsp;(B) in coordination with other agencies of the Federal Government, providing specific warning information, and advice about appropriate protective measures and countermeasures, to State and local governmentagencies and authorities, the private sector, other entities, and the public.
 
 &emsp;(8) To review, analyze, and make recommendations for improvements in the policies and procedures governing the sharing of law enforcement information, intelligence information, intelligence-related information, and other information relating to homeland security within the Federal Government and between the Federal Government and State and local government agencies and authorities.
 
@@ -120,7 +120,7 @@ Subject to the direction and control of the Secretary, the responsibilities of t
 
 &emsp;&emsp;(D) The National Security Agency.
 
-&emsp;&emsp;(E) The National Imagery and Mapping Agency.
+&emsp;&emsp;(E) The National Geospatial-Intelligence Agency.
 
 &emsp;&emsp;(F) The Defense Intelligence Agency.
 
@@ -148,7 +148,7 @@ In accordance with subchapter XII of this chapter, there shall be transferred to
 
 &emsp;(5) The Federal Computer Incident Response Center of the General Services Administration, including the functions of the Administrator of General Services relating thereto.
 
-(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145.)
+(Pub. L. 107–296, title II, §201, Nov. 25, 2002, 116 Stat. 2145; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 
 #### References in Text
 
@@ -159,6 +159,10 @@ The National Security Act of 1947, referred to in subsec. (d)(12)(B), is act Jul
 #### Codification
 
 Section is comprised of section 201 of Pub. L. 107–296. Subsec. (h) of section 201 of Pub. L. 107–296 amended section 401a of Title 50, War and National Defense.
+
+#### Amendments
+
+2003—Subsec. (f)(2)(E). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 #### Ex. Ord. No. 13231. Critical Infrastructure Protection in the Information Age
 
@@ -223,6 +227,10 @@ Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infras
 Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Extension of Term of National Infrastructure Advisory Council
+
+Term of the National Infrastructure Advisory Council extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organizations and Employees.
 
 #### Ex. Ord. No. 13284. Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security
 

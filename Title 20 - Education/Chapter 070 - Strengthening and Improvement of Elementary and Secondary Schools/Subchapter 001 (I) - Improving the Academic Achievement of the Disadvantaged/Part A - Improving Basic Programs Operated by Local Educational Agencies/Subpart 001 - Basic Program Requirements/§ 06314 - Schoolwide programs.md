@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iii) includes a list of State educational agency and local educational agency programs and other Federal programs under subsection (a)(3) of this section that will be consolidated in the schoolwide program; and
 
-&emsp;&emsp;&emsp;(iv) describes how the school will provide individual student academic assessment results in a language the parents can understand, including an interpretation of those results, to the parents of a child who participates in the academic assessments required by section 6311(b)(3) of this title.
+&emsp;&emsp;&emsp;(iv) describes how the school will provide individual student academic assessmentresults in a language the parents can understand, including an interpretation of those results, to the parents of a child who participates in the academic assessments required by section 6311(b)(3) of this title.
 
 #### (B) Plan development
 

@@ -40,7 +40,7 @@ For purposes of this title, the term “Roth IRA” means an individual retireme
 
 #### (B) Rollover from IRA
 
-&emsp;&emsp;A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
+&emsp;&emsp;A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement planother than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's adjusted gross income exceeds $100,000, or
 
@@ -136,7 +136,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;(ii) section 72(t) shall not apply, and
 
-&emsp;&emsp;&emsp;(iii) unless the taxpayer elects not to have this clause apply for any taxableyear, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.
+&emsp;&emsp;&emsp;(iii) unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.
 
 > &emsp;&emsp;Any election under clause (iii) for any distributions during a taxable year may not be changed after the due date for such taxable year.
 
@@ -150,7 +150,7 @@ For purposes of this title—
 
 #### (D) Additional reporting requirements
 
-&emsp;&emsp;Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever is appropriate, shall include such additional information in reports required under section 408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
+&emsp;&emsp;Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever isappropriate, shall include such additional information in reports required under section 408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
 
 #### (E) Special rules for contributions to which 4-year averaging applies
 
@@ -210,7 +210,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;&emsp;(II) Qualified rollover contributions to which paragraph (3) applies on a first-in, first-out basis.
 
-> &emsp;&emsp;Any distribution allocated to a qualified rollover contribution under clause (ii)(II)shall be allocated first to the portion of such contribution required to be included in gross income.
+> &emsp;&emsp;Any distribution allocated to a qualified rollover contribution under clause (ii)(II) shall be allocated first to the portion of such contribution required to be included in gross income.
 
 #### (5) Qualified special purpose distribution
 
@@ -290,7 +290,7 @@ Subsec. (d)(2)(C). Pub. L. 105–206, §6005(b)(3)(B), added subpar. (C).
 
 Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: “in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made.”
 
-Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading andtext of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
+Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
 
 Subsec. (d)(3)(E). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 

@@ -46,7 +46,7 @@ Section was formerly classified to section 729 of Title 28 prior to the general 
 
 1996—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
 
-1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent ofCongress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
+1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
 
 1993—Subsec. (b). Pub. L. 103–141 inserted “the Religious Freedom Restoration Act of 1993,” before “or title VI”.
 

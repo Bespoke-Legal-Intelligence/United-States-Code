@@ -174,7 +174,7 @@ Pub. L. 105–206 amended cl. (ii) generally. Prior to amendment, cl. (ii) read 
 
 Pub. L. 101–73, §1401(a)(1), inserted “receivership” in heading and amended text generally, changing the structure of the subparagraph from one consisting of five clauses designated (i) to (v) to one consisting of a single undesignated subparagraph.
 
-1988—Subsec. (a)(2)(F)(ii). Pub. L. 100–647, §1018(q)(5), struck out “(other than stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause (ii))” after “any one issuer” and after “orfewer issuers” and inserted at end “For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.”
+1988—Subsec. (a)(2)(F)(ii). Pub. L. 100–647, §1018(q)(5), struck out “(other than stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause (ii))” after “any one issuer” and after “or fewer issuers” and inserted at end “For purposes of this clause, a person holding stock in a regulated investment company, a real estate investment trust, or an investment company which meets the requirements of this clause shall, except as provided in regulations, be treated as holding its proportionate share of the assets held by such company or trust.”
 
 Subsec. (a)(3)(D)(iv), (v). Pub. L. 100–647, §4012(b)(1)(A), amended subpar. (D), as in effect before the amendment made by section 904(a) of Pub. L. 99–514, by adding cls. (iv) and (v).
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see s
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 

@@ -14,7 +14,7 @@ In General.—The Director shall oversee agency information security policies an
 
 &emsp;(3) coordinating the development of standards and guidelines under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) to assure, to the maximum extent feasible, that such standards and guidelines are complementary with standards and guidelines developed for national security systems;
 
-&emsp;(4) overseeing agency compliance with the requirements of this subchapter, includingthrough any authorized action under section 11303 of title 40, to enforce accountability for compliance with such requirements;
+&emsp;(4) overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303 of title 40, to enforce accountability for compliance with such requirements;
 
 &emsp;(5) reviewing at least annually, and approving or disapproving, agency information security programs required under section 3544(b);
 

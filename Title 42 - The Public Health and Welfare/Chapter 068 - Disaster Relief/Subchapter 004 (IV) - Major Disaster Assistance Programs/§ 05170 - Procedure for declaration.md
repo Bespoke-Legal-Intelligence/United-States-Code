@@ -14,5 +14,5 @@ A prior section 401 of Pub. L. 93–288 was renumbered section 405 by Pub. L. 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5204 of this title; title 10 section 1063a; title 12 sections 1706c, 3352.
+This section is referred to in section 5204 of this title; title 10 section 1064; title 12 sections 1706c, 3352.
 

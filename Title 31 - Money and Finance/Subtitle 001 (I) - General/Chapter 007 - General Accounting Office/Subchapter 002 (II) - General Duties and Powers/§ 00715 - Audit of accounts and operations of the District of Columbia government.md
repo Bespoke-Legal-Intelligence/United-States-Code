@@ -4,7 +4,7 @@
 
 (b) The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts) the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
 
-(c)(1) By the 90th day after receiving an audit report from the Comptroller General, the Mayorshall state in writing to the Council measures the District of Columbia government is taking to comply with the recommendations of the Comptroller General. A copy of the statement shall be sent to Congress.
+(c)(1) By the 90th day after receiving an audit report from the Comptroller General, the Mayor shall state in writing to the Council measures the District of Columbia government is taking to comply with the recommendations of the Comptroller General. A copy of the statement shall be sent to Congress.
 
 (2) After the Council receives the statement of the Mayor, the Council may make available for public inspection the report of the Comptroller General and other material the Council considers pertinent.
 

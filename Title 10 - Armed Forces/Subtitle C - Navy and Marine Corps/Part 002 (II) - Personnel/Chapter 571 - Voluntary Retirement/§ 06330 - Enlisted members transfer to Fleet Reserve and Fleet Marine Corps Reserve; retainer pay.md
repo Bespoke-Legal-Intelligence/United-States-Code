@@ -8,7 +8,7 @@
 
 (2) A member may recompute his retainer pay under section 1402 or 1402a of this title, as appropriate, to reflect active duty after transfer.
 
-(3) If the member has been credited by the Secretary of the Navy with extraordinary heroismin the line of duty, which determination by the Secretary is final and conclusive for all purposes, his retainer pay shall be increased by 10 percent.
+(3) If the member has been credited by the Secretary of the Navy with extraordinary heroism in the line of duty, which determination by the Secretary is final and conclusive for all purposes, his retainer pay shall be increased by 10 percent.
 
 (d)(1) For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 9
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an enlisted member of the Navy or Marine Corps with at least 15 but less than 20 years of service by substituting “15 or more years” for “20 or more years” in the first sentence of subsection (a) \[probably should be (b)\] of this section and in the second sentence of subsec. (b) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and endingOct. 1, 1995, to apply this section to an enlisted member of the Navy or Marine Corps with at least 15 but less than 20 years of service by substituting “15 or more years” for “20 or more years” in the first sentence of subsection (a) \[probably should be (b)\] of this section and in the second sentence of subsec. (b) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
 
 #### Retainer Pay of Enlisted Members of Regular Navy, Naval Reserve, Regular Marine Corps, or Marine Corps Reserve Transferred to Fleet Reserve or Fleet Marine Corps Reserve
 

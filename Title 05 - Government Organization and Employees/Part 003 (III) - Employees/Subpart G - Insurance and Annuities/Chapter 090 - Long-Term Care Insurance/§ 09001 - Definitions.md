@@ -12,15 +12,13 @@ Employee.—The term “employee” means—
 
 &emsp;&emsp;(C) an individual employed by the Tennessee Valley Authority; and
 
-&emsp;&emsp;(D) an employee of a nonappropriated fund instrumentality of the Department of Defense described in section 2105(c),
-
-> &emsp;but does not include an individual employed by the government of the District of Columbia.
+&emsp;&emsp;(D) an employee of a nonappropriated fund instrumentality of the Department of Defense described in section 2105(c).
 
 &emsp;(2)
 
 Annuitant.—The term “annuitant” means—
 
-&emsp;&emsp;(A) any individual who would satisfy the requirements of paragraph (3) of section 8901 if, for purposes of such paragraph, the term “employee” were considered to have the meaning given to it under paragraph (1) of this subsection; <sup>1</sup> and
+&emsp;&emsp;(A) any individual who would satisfy the requirements of paragraph (3) of section 8901 if, for purposes of such paragraph, the term “employee” were considered to have the meaning given to it under paragraph (1);
 
 &emsp;&emsp;(B) any individual who—
 
@@ -28,7 +26,9 @@ Annuitant.—The term “annuitant” means—
 
 &emsp;&emsp;&emsp;(ii) is at least 18 years of age; and
 
-&emsp;&emsp;&emsp;(iii) would not (but for this subparagraph) otherwise satisfy the requirements of this paragraph.
+&emsp;&emsp;&emsp;(iii) would not (but for this subparagraph) otherwise satisfy the requirements of this paragraph; and
+
+&emsp;&emsp;(C) any former employee who, on the basis of his or her service, would meet all requirements for being considered an “annuitant” within the meaning of subchapter III of chapter 83, chapter 84, or any other retirement system for employees of the Government, but for the fact that such former employee has not attained the minimum age for title to annuity.
 
 &emsp;(3)
 
@@ -40,7 +40,7 @@ Member of the uniformed services.—The term “member of the uniformed services
 
 &emsp;(4)
 
-Retired member of the uniformed services.—The term “retired member of the uniformed services” means a member or former member of the uniformed services entitled to retired or retainer pay, including a member or former member retired under chapter 1223 of title 10 who has attained the age of 60 and who satisfies such eligibility requirements as the Office of Personnel Management prescribes under section 9008.
+Retired member of the uniformed services.—The term “retired member of the uniformed services” means a member or former member of the uniformed services entitled to retired or retainer pay, and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having attained the age of 60 and who satisfies such eligibility requirements as the Office of Personnel Management prescribes under section 9008.
 
 &emsp;(5)
 
@@ -82,13 +82,23 @@ Appropriate secretary.—The term “appropriate Secretary” means—
 
 &emsp;&emsp;(D) with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
 
-(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, §1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, §1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, §1101(a), Dec. 2, 2002, 116 Stat. 2660.)
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, §1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, §1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, §1101(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 108–7, div. C, title III, §138(a), Feb. 20, 2003, 117 Stat. 129; Pub. L. 108–136, div. A, title V, §561, Nov. 24, 2003, 117 Stat. 1482.)
 
 #### References in Text
 
 Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is classified to section 7702B of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2003—Par. (1). Pub. L. 108–136, §561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
+
+Pub. L. 108–7 inserted “(other than an employee of the District of Columbia Courts)” before period at end of concluding provisions.
+
+Par. (2)(A). Pub. L. 108–136, §561(d), struck out “of this subsection” after ”paragraph (1)”.
+
+Par. (2)(C). Pub. L. 108–136, §561(b), added subpar. (C).
+
+Par. (4). Pub. L. 108–136, §561(c), substituted “and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having” for “including a member or former member retired under chapter 1223 of title 10 who has”.
 
 2002—Par. (1)(D). Pub. L. 107–314 added subpar. (D).
 
@@ -115,6 +125,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 9002, 9004, 9008 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “section;”.</i>
 

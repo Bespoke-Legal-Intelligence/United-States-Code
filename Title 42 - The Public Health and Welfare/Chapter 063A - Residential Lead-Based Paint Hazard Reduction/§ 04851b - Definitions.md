@@ -68,7 +68,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (13) Interim controls
 
-&emsp;The term “interim controls” means a set of measures designed to reduce temporarily human exposure or likely exposure to lead-based paint hazards, including specialized cleaning, repairs, maintenance, painting, temporary containment, ongoing monitoring of lead-based paint hazards or potential hazards, and the establishment and operation of management and resident education programs.
+&emsp;The term “interim controls” means a set of measures designed to reduce temporarily human exposure or likely exposure to lead-based paint hazards, including specialized cleaning, repairs, maintenance, painting, temporary containment, ongoing monitoring of lead-based paint hazards or potential hazards,and the establishment and operation of management and resident education programs.
 
 #### (14) Lead-based paint
 
@@ -112,7 +112,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (22) Reduction
 
-&emsp;The term “reduction” means measures designed to reduce or eliminate human exposureto lead-based paint hazards through methods including interim controls and abatement.
+&emsp;The term “reduction” means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods including interim controls and abatement.
 
 #### (23) Residential dwelling
 

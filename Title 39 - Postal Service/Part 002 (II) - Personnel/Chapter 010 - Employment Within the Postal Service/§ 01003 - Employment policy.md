@@ -42,7 +42,7 @@ Section 9 of Pub. L. 91–375 provided that:
 
 “(d) \[<i>Group Life Insurance; Amount; Effective Date</i>\] For purposes of determining the amount of insurance for which an individual is eligible under chapter 87 of title 5, United States Code \[section 8701 et seq. of Title 5\], relating to group life insurance for Government employees, all changes in rates of pay, compensation, and salary which result from the enactment of this section shall be held and considered to become effective as of the date of such enactment \[Aug. 12, 1970\].
 
-“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay for GS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
+“(e) \[<i>Limitation of Basic Pay Rate</i>\] No rate of basic pay or compensation, in excess of the rate of basic pay forGS–18 of the General Schedule in section 5332 of title 5, United States Code, shall be paid by reason of the enactment of this section.”
 
 Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 

@@ -10,13 +10,13 @@ Third, if there be no beneficiary or surviving spouse, to the child or children 
 
 Fourth, if none of the above, to the parents of such individual, or the survivor of them;
 
-Fifth, if there be none of the above, to the duly appointed legal representative of the estate of the deceased individual, or if there be none, to the person or persons determined to be entitled thereto under the laws of the domicile of the deceased individual.
+Fifth, if there be none of the above, to the duly appointed legal representative of the estateof the deceased individual, or if there be none, to the person or persons determined to be entitled thereto under the laws of the domicile of the deceased individual.
 
 (July 2, 1954, ch. 455, title I, §105, 68 Stat. 409; Pub. L. 86–102, July 23, 1959, 73 Stat. 224; Pub. L. 104–186, title II, §203(5), Aug. 20, 1996, 110 Stat. 1725.)
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “(including amounts held in the trust fund account in the office of the Sergeant at Arms)” after “due such individual” in first undesignated par. and substituted “Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer” for “Sergeant at Arms, and received by the Sergeant at Arms” in second undesignated par.
+<b>1996</b>—Pub. L. 104–186 struck out “(including amounts held in the trust fund account in the office of the Sergeant at Arms)” after “due such individual” in first undesignated par. and substituted “Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer” for “Sergeant at Arms, and received by the Sergeant at Arms” in second undesignated par.
 
-1959—Pub. L. 86–102 inserted provisions including amounts held in trust fund account, authorizing an individual to designate a beneficiary or beneficiaries, and prescribing order of precedence in cases where no designation of beneficiary has been made.
+<b>1959</b>—Pub. L. 86–102 inserted provisions including amounts held in trust fund account, authorizing an individual to designate a beneficiary or beneficiaries, and prescribing order of precedence in cases where no designation of beneficiary has been made.
 

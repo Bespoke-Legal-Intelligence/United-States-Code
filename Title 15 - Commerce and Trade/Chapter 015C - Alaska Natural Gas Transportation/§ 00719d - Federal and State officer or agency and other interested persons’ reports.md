@@ -26,7 +26,7 @@ Not later than July 1, 1977, the Governor of any State, any municipality, State 
 
 #### (c) Report of Federal officer or agency to the President
 
-Not later than July 1, 1977, each Federal officer or agency shall report to the President with respect to actions to be taken by such officer or agency under section 719g(a) of this title relative to each transportation system reported on by the Commission under section 719c(c) of this title and shall include such officer's or agency's recommendations with respect to any provisionof law to be waived pursuant to section 719f(g) of this title in conjunction with any decision of the President which designates a system for approval.
+Not later than July 1, 1977, each Federal officer or agency shall report to the President with respect to actions to be taken by such officer or agency under section 719g(a) of this title relative to each transportation system reported on by the Commission under section 719c(c) of this title and shall include such officer's or agency's recommendations with respect to any provision of law to be waived pursuant to section 719f(g) of this title in conjunction with any decision of the President which designates a system for approval.
 
 #### (d) Report of Council on Environmental Quality to the President
 

@@ -34,7 +34,7 @@ Pub. L. 98–369, §735(c)(16), substituted “and special fuels” for “, sp
 
 1983—Subsec. (b). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsec. (b). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (b) is amended by inserting “, interest, dividends, and patronage dividends” after “tax withheld on wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–247 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsec. (b). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (b) is amended by inserting “, interest, dividends, and patronage dividends” after “tax withheld on wages”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–247 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1980—Subsec. (d). Pub. L. 96–223 struck out subsec. (d) which made a cross reference to section 46(a)(9)(C) for a rule allowing a refund for excess investment credit attributable to solar or wind energy property.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 99–514 applicable to distributions after Dec. 31, 1987, o
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(36) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(36) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 735(c)(16) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 

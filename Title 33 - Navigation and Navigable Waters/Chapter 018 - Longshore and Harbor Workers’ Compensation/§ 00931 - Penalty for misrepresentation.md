@@ -22,7 +22,7 @@
 
 &emsp;(iv) has accepted fees for representing claimants under this chapter which were not approved, or which were in excess of the amount approved pursuant to section 928 of this title.
 
-(C) Notwithstanding subparagraph (B), no individual who is on the list required to be maintained by the Secretary pursuant to this section shall be prohibited from presenting his or her own claim or from representing without fee, a claimant who is a spouse, mother, father, sister, brother, or child of such individual.
+(C) Notwithstanding subparagraph (B), no individual who is on the list required to be maintained by the Secretary pursuant to this section shall be prohibited from presenting his or herown claim or from representing without fee, a claimant who is a spouse, mother, father, sister, brother, or child of such individual.
 
 (D) A determination under subparagraph (A) shall remain in effect for a period of not less than three years and until the Secretary finds and gives notice to the public that there is reasonable assurance that the basis for the determination will not reoccur.
 

@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish a program for analysis
 
 (b)
 
-Supervision of Program.—The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition, Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
+Supervision of Program.—The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition,Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
 
 (c)
 

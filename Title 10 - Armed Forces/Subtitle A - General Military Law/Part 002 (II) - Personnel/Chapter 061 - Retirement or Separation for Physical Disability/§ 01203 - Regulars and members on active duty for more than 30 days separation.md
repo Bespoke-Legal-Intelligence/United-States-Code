@@ -20,7 +20,7 @@ Required Determinations of Disability.—Determinations referred to in subsectio
 
 &emsp;&emsp;(B) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and the member has at least eight years of service computed under section 1208 of this title, or
 
-&emsp;&emsp;(C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximateresult of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978, and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title.
+&emsp;&emsp;(C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978, and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title.
 
 > However, if the member is eligible for transfer to the inactive status list under section 1209 of this title, and so elects, he shall be transferred to that list instead of being separated.
 
@@ -44,7 +44,7 @@ Act
 
 Oct. 12, 1949, ch. 681, §402(a) (2d proviso), (b) (2d and last provisos), 63 Stat. 816, 817.
 
-To state fully in the revised section the rule contained in 37:272(a) (2d proviso) and 272(b) (2d and last provisos), the provisions of 37:272(a) (less clause (5), and less 1st proviso), 272(b) (less clause (5), and less 1st proviso) and 272(f) (less applicability to 37:272(c) and (e)), also contained in section 1201 of this title, are repeated. The words “the member may be separated” are substituted for the words “the member concerned shall not be eligible for any disability retirement provided in this section, but may be separated for physical disability,” in 37:272(a) (2d proviso) and 37:272(b) (2d proviso).
+To state fully in the revised section the rule contained in 37:272(a) (2d proviso) and 272(b) (2d and last provisos), the provisions of 37:272(a) (less clause (5), and less 1st proviso), 272(b) (less clause (5), and less 1st proviso) and 272(f) (less applicability to 37:272(c) and (e)), also contained in section 1201 of this title, are repeated.The words “the member may be separated” are substituted for the words “the member concerned shall not be eligible for any disability retirement provided in this section, but may be separated for physical disability,” in 37:272(a) (2d proviso) and 37:272(b) (2d proviso).
 
 Clause (1) is inserted for clarity, since a member who had over 20 years of service would qualify under section 1201 or 1202 of this title.
 

@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 #### (B) No application to certain excepted benefits
 
-&emsp;&emsp;In applying subparagraph (A), excepted benefits described in subsection (c)(1) shallnot be treated as benefits consisting of medical care.
+&emsp;&emsp;In applying subparagraph (A), excepted benefits described in subsection (c)(1) shall not be treated as benefits consisting of medical care.
 
 #### (2) Health insurance issuer
 

@@ -10,7 +10,7 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments madeby this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment notebelow\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
 
 #### Short Title of 1998 Amendment
 
@@ -76,7 +76,7 @@ In general.—The Secretary of Agriculture shall develop proposed changes to the
 
 &emsp;“(2)
 
-Consultation.—In developing proposed changes to the regulations under paragraph (1), theSecretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph.
+Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local,State, and regional administrators of the programs described in such paragraph.
 
 “(b)
 

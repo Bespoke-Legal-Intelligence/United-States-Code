@@ -94,7 +94,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (2) Limitation
 
-&emsp;A borrower may not exercise the option under paragraph (1) in the case of a loan orloan advance, or portion thereof, if the total amount of such loans for which such option would be exercised exceeds 50 percent of the outstanding principal balance of the loans made to such borrower and guaranteed under section 936 of this title.
+&emsp;A borrower may not exercise the option under paragraph (1) in the case of a loan or loan advance, or portion thereof, if the total amount of such loans for which such option would be exercised exceeds 50 percent of the outstanding principal balance of the loans made to such borrower and guaranteed under section 936 of this title.
 
 #### (3) Fee
 

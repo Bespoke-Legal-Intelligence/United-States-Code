@@ -20,7 +20,7 @@ For purposes of this section, the term “noncompliance period” means, with re
 
 #### (1) In general
 
-&emsp;No penalty shall be imposed by subsection (a) on any failure during any period for which it is established to the satisfaction of the Secretary of the Treasury that none of the persons responsible for such failure knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;No penalty shall be imposed by subsection (a) on any failure during any period for whichit is established to the satisfaction of the Secretary of the Treasury that none of the persons responsible for such failure knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (2) Corrections
 

@@ -10,7 +10,7 @@ Nothing in this subchapter shall be construed to preclude any Under Secretary of
 
 #### (c) Regulations
 
-The Secretary, acting through the Under Secretary for Science and Technology, may issue necessary regulations with respect to research, development, demonstration, testing, and evaluation activities of the Department, includingthe conducting, funding, and reviewing of such activities.
+The Secretary, acting through the Under Secretary for Science and Technology, may issue necessary regulations with respect to research, development, demonstration, testing, and evaluation activities of the Department, including the conducting, funding, and reviewing of such activities.
 
 #### (d) Notification of Presidential life sciences designations
 

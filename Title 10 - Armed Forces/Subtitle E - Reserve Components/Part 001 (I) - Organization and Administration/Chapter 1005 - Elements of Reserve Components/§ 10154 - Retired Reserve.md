@@ -18,7 +18,7 @@ Provisions similar to those in this section were contained in section 274 of thi
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section \[enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\].
+Pub. L. 107–107, div. A, title V, §517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section \[enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
 

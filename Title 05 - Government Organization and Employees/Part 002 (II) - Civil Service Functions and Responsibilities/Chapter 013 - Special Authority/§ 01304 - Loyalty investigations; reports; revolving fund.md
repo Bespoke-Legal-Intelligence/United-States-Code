@@ -14,7 +14,7 @@
 
 (d) The investigation and report required by subsection (a) of this section shall be made by the Federal Bureau of Investigation rather than the Office for those specific positions which the Secretary of State certifies are of a high degree of importance or sensitivity.
 
-(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at therequest of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
+(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
 
 (2) The capital of the fund consists of the aggregate of—
 
@@ -126,9 +126,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Abolition of House Committee on Post Office and Civil Service
 
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14,set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1104 of this title.
+This section is referred to in section 1104 of this title; title 50 section 2701.
 

@@ -8,7 +8,7 @@ For purposes of this chapter, the generation to which any person (other than the
 
 #### (1) In general
 
-&emsp;An individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results from comparing the number of generations between the grandparent and such individual with the number of generations between the grandparent and the transferor.
+&emsp;An individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results fromcomparing the number of generations between the grandparent and such individual with the number of generations between the grandparent and the transferor.
 
 #### (2) On spouse's side
 

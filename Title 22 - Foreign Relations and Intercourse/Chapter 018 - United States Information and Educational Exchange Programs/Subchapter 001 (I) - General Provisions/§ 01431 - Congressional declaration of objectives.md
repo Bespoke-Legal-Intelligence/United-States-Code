@@ -14,7 +14,7 @@ The Congress declares that the objectives of this chapter are to enable the Gove
 
 #### Termination of Chapter
 
-Section 1006 of act Jan. 27, 1948, provided that: “The authority granted under this Act \[this chapter\] shallterminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
+Section 1006 of act Jan. 27, 1948, provided that: “The authority granted under this Act \[this chapter\] shall terminate whenever such termination is directed by concurrent resolution of the two Houses of the Congress.”
 
 #### Short Title of 1983 Amendment
 

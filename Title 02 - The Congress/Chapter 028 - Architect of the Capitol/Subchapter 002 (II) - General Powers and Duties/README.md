@@ -15,3 +15,5 @@
 - [&sect; 01818 - Rental or lease of storage space](%C2%A7%2001818%20-%20Rental%20or%20lease%20of%20storage%20space.md)
 - [&sect; 01819 - Computer backup facilities for legislative offices](%C2%A7%2001819%20-%20Computer%20backup%20facilities%20for%20legislative%20offices.md)
 - [&sect; 01820 - Acquisition of real property for Capitol Police](%C2%A7%2001820%20-%20Acquisition%20of%20real%20property%20for%20Capitol%20Police.md)
+- [&sect; 01821 - Small purchase contracting authority](%C2%A7%2001821%20-%20Small%20purchase%20contracting%20authority.md)
+- [&sect; 01822 - Leasing of space](%C2%A7%2001822%20-%20Leasing%20of%20space.md)

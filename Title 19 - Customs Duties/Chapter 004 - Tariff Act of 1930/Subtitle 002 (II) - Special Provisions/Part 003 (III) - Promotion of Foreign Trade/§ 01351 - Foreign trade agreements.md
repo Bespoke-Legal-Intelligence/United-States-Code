@@ -6,7 +6,7 @@
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
-&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
+&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out anyforeign trade agreement that the President has entered into hereunder.
 
 (2) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made—
 
@@ -16,7 +16,7 @@
 
 &emsp;(C) In order to carry out a foreign trade agreement entered into by the President before June 12, 1955, or with respect to which notice of intention to negotiate was published in the Federal Register on November 16, 1954, decreasing by more than 50 per centum any rate of duty existing on January 1, 1945.
 
-&emsp;(D) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1958, decreasing (except as provided in subparagraph\(C) of this paragraph) any rate of duty below the lowest of the following rates:
+&emsp;(D) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1958, decreasing (except as provided in subparagraph (C) of this paragraph) any rate of duty below the lowest of the following rates:
 
 &emsp;&emsp;(i) The rate 15 per centum below the rate existing on January 1, 1955.
 
@@ -90,7 +90,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 (1) When any rate of duty has been increased or decreased for the duration of war or an emergency, by agreement or otherwise, any further increase or decrease shall be computed upon the basis of the post-war or post-emergency rate carried in such agreement or otherwise.
 
-(2) Where under a foreign trade agreement the United States has reserved the unqualified right to withdraw or modify, after the termination of war or an emergency, a rate on a specific commodity, the rate on such commodity to be considered as “existing on January 1, 1945” for thepurpose of this section shall be the rate which would have existed if the agreement had not been entered into.
+(2) Where under a foreign trade agreement the United States has reserved the unqualified right to withdraw or modify, after the termination of war or an emergency, a rate on a specific commodity, the rate on such commodity to be considered as “existing on January 1, 1945” for the purpose of this section shall be the rate which would have existed if the agreement had not been entered into.
 
 (3) No proclamation shall be made pursuant to this section for the purpose of carrying out any foreign trade agreement the proclamation with respect to which has been terminated in whole by the President prior to July 5, 1945.
 
@@ -144,7 +144,7 @@ Subsec. (e)(1). Pub. L. 85–686, §3(d), provided for the inclusion in the repo
 
 Subsec. (f). Pub. L. 85–686, §3(e), added subsec. (f).
 
-1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
+1955—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, orto reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
 
 Subsec. (b). Act June 21, 1955, §3(b), made applicable to Cuban products the new limits of authority to reduce tariffs.
 

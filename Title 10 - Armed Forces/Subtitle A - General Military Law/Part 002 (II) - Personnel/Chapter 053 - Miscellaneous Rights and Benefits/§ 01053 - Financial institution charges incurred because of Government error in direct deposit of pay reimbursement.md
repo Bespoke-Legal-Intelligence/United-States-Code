@@ -6,7 +6,7 @@
 
 (b) Reimbursements under this section shall be made from appropriations available for the pay and allowances of members of the armed force concerned.
 
-(c) The Secretaries concerned shall prescribe regulations to carry out this section, includingregulations for the manner in which reimbursement under this section is to be made.
+(c) The Secretaries concerned shall prescribe regulations to carry out this section, including regulations for the manner in which reimbursement under this section is to be made.
 
 (d) In this section:
 

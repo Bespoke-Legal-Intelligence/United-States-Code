@@ -60,5 +60,5 @@ In clause (5), the words “the Commonwealth of Puerto Rico” are omitted as be
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2411.
+This section is referred to in title 10 section 2411; title 43 section 373d.
 

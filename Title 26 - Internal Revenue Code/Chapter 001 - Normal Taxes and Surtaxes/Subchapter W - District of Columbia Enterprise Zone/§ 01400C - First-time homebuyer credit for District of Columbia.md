@@ -120,7 +120,7 @@ Subsec. (c)(1). Pub. L. 105–206, §6008(d)(2), reenacted heading without chang
 
 Subsec. (e)(2)(B). Pub. L. 105–206, §6008(d)(3), inserted “on the date the taxpayer first occupies such residence” before the period at end.
 
-Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted “on the date such residence is purchased.” for “on the date of acquisition (within the meaning of section 72(t)(8)(D)(iii)).”
+Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted “on the date such residence is purchased.” for “on thedate of acquisition (within the meaning of section 72(t)(8)(D)(iii)).”
 
 Subsec. (i). Pub. L. 105–206, §6008(d)(5), substituted “Application of section” for “Termination” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply to any property purchased after December 31, 2000.”
 

@@ -104,7 +104,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in subparagraph (A) or any other provision of this chapter shall be construedto prohibit the Secretary from issuing guidance, internal directives, or other documents similar to the documents found in the Indian Affairs Manual of the Bureau of Indian Affairs.
+&emsp;&emsp;Nothing in subparagraph (A) or any other provision of this chapter shall be construed to prohibit the Secretary from issuing guidance, internal directives, or other documents similar to the documents found in the Indian Affairs Manual of the Bureau of Indian Affairs.
 
 #### (17) Secretary
 

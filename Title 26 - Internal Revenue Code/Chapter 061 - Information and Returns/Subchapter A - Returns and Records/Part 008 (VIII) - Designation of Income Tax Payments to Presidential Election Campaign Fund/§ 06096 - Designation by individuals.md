@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every individual (other than a nonresident alien) whose income tax liability for the taxable year is $3 or more may designate that $3 shall be paid over to the Presidential Election Campaign Fund in accordance with the provisions of section 9006(a). In the case of a joint return of husband and wife having an income tax liability of $6 or more, each spouse may designate that $3 shall be paid to the fund.
+Every individual (other than a nonresident alien) whose income tax liability for the taxableyear is $3 or more may designate that $3 shall be paid over to the Presidential Election Campaign Fund in accordance with the provisions of section 9006(a). In the case of a joint return of husband and wife having an income tax liability of $6 or more, each spouse may designate that $3 shall be paid to the fund.
 
 #### (b) Income tax liability
 
@@ -74,7 +74,7 @@ Amendment by section 331(e)(1) of Pub. L. 97–34 applicable to taxable years be
 
 Amendment by section 231(b)(2) of Pub. L. 96–223, applicable to taxable years ending after Dec. 31, 1979, see section 231(c) of Pub. L. 96–223, set out as an Effective Date note under section 29 of this title.
 
-Amendment by section 232(b)(3)(C) of Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after that date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
+Amendment by section 232(b)(3)(C) of Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after that date, see section 232(h)(1)of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -8,7 +8,7 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 &emsp;(3) the Forest Service shall cooperate with the Attorney General in carrying out the seizure and forfeiture provisions of section 511 of the Controlled Substances Act (21 U.S.C. 881) for violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] relating to offenses committed within the National Forest System, or which affect the administration of the National Forest System;
 
-&emsp;(4) the Secretary is authorized to designate law enforcement officers of any other Federalagency, when the Secretary determines such designation to be economical and in the public interest, and with the concurrence of that agency, to exercise the powers and authorities of the Forest Service while assisting the Forest Service in the National Forest System, or for activities administered by the Forest Service; and
+&emsp;(4) the Secretary is authorized to designate law enforcement officers of any other Federal agency, when the Secretary determines such designation to be economical and in the public interest, and with the concurrence of that agency, to exercise the powers and authorities of the Forest Service while assisting the Forest Service in the National Forest System, or for activities administered by the Forest Service; and
 
 &emsp;(5) the Forest Service is authorized to accept law enforcement designation from any other Federal agency or agency of a State or political subdivision thereof for the purpose of cooperating in a multi-agency law enforcement task force investigation of violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] and other offenses committed in the course of or in connection with such violations.
 

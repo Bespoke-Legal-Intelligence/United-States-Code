@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) be appointed by the President, by and with the advice and consent of the Senate; or
 
-&emsp;&emsp;(B) be designated by the President, in consultation with the head of the agency, from among officials of the agency who are required by law to be so appointed;
+&emsp;&emsp;(B) be designated by the President, in consultation with the head of the agency, fromamong officials of the agency who are required by law to be so appointed;
 
 &emsp;(2) for those agencies described in subsection (b)(2)—
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Chief Financial Officer Within Executive Office of the President
 
@@ -118,7 +118,7 @@ Pay.—The Chief Financial Officer designated or appointed under such section sh
 
 Transfer of Functions.—(1) The President may transfer such offices, functions, powers, or duties thereof, as the President determines are properly related to the functions of the Chief Financial Officer under section 901(c) of title 31, United States Code (as added by subsection (a)).
 
-“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, or duties of which are transferred under paragraph (1) shall also be so transferred.”
+“(2) The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of any office the functions, powers, orduties of which are transferred under paragraph (1) shall also be so transferred.”
 
 #### Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development
 
@@ -170,5 +170,5 @@ Functions.—The Chief Financial Officers Council shall meet periodically to adv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 903, 3515 of this title; title 5 section 1401; title 28 section 507; title 40 section 11315; title 42 section 902; title 44 section 3603.
+This section is referred to in sections 503, 903, 3515 of this title; title 5 section 1401; title 28 section 507; title 40 section 11315; title 41 section 414; title 42 section 902; title 44 section 3603.
 

@@ -74,7 +74,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 #### (3) Federal-State coordination
 
-&emsp;Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance with the court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
+&emsp;Amounts recovered under this section with respect to sanctuary resources lying within the jurisdiction of a State shall be used under paragraphs (2)(A) and (B) in accordance withthe court decree or settlement agreement and an agreement entered into by the Secretary and the Governor of that State.
 
 #### (e) Statute of limitations
 

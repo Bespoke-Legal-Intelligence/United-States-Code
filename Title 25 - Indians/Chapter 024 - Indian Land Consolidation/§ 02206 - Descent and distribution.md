@@ -126,7 +126,7 @@
 
 #### (2) Descent
 
-&emsp;Except in the State of California, upon the death of an individual holding an interest intrust or restricted lands that are located outside the boundaries of an Indian reservation and that are not subject to the jurisdiction of any Indian tribe, that interest shall descend either—
+&emsp;Except in the State of California, upon the death of an individual holding an interest in trust or restricted lands that are located outside the boundaries of an Indian reservation and that are not subject to the jurisdiction of any Indian tribe, that interest shall descend either—
 
 &emsp;&emsp;(A) by testate or intestate succession in trust to an Indian; or
 
@@ -202,7 +202,7 @@ A prior section 2206, Pub. L. 97–459, title II, §207, Jan. 12, 1983, 96 Stat.
 
 #### Judicial Review
 
-Pub. L. 106–462, title I, §104, Nov. 7, 2000, 114 Stat. 2006, provided that: “Notwithstanding section 207(g)(5) of the Indian Land Consolidation Act (25 U.S.C. 2206(f)(5) \[2206(g)(5)\]), after the Secretary of the Interior provides the certification required under section 207(g)(4) of such Act, the owner of an interest in trust or restricted land may bring an administrative action to challenge the application of such section 207 to the devise or descent of his or her interest or interests in trust or restricted lands, and may seek judicial review of the final decision of the Secretary of the Interior with respect to such challenge.”
+Pub. L. 106–462, title I, §104, Nov. 7, 2000, 114 Stat. 2006, provided that: “Notwithstanding section 207(g)(5) of the Indian Land Consolidation Act (25 U.S.C.2206(f)(5) \[2206(g)(5)\]), after the Secretary of the Interior provides the certification required under section 207(g)(4) of such Act, the owner of an interest in trust or restricted land may bring an administrative action to challenge the application of such section 207 to the devise or descent of his or her interest or interests in trust or restricted lands, and may seek judicial review of the final decision of the Secretary of the Interior with respect to such challenge.”
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ When required by regulations prescribed by the Secretary:
 
 (1) Except as provided in paragraph (2), a return of any person with respect to his liability for tax, or any statement or other document in support thereof, shall not be considered for purposes of paragraphs (2) and (3) of subsection (a) as a return, statement, or other document with respect to another person.
 
-(2) For purposes of paragraphs (2) and (3) of subsection (a), a return of an estate or trust with respect to its liability for tax, and any statement or other document in support thereof, shall be considered as a return, statement, or other document with respect to each beneficiary of such estate or trust.
+(2) For purposes of paragraphs (2) and (3) of subsection (a), a return of an estate or trust with respect to its liability for tax, and anystatement or other document in support thereof, shall be considered as a return, statement, or other document with respect to each beneficiary of such estate or trust.
 
 #### (c) Requirement of information
 
@@ -80,7 +80,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (1) Payor
 
-&emsp;If any taxpayer claims a deduction under section 163 for qualified residence interest onany seller-provided financing, such taxpayer shall include on the return claiming such deduction the name, address, and TIN of the person to whom such interest is paid or accrued.
+&emsp;If any taxpayer claims a deduction under section 163 for qualified residence interest on any seller-provided financing, such taxpayer shall include on the return claiming such deduction the name, address, and TIN of the person to whom such interest is paid or accrued.
 
 #### (2) Recipient
 
@@ -120,7 +120,7 @@ Furnishing Number for Dependents.—Any taxpayer who claims an exemption under s
 
 Subsecs. (f), (g). Pub. L. 104–188, §1704(t)(42), redesignated subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act as subsec. (g).
 
-1994—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amended text generally. Prior to amendment, text read as follows: “If—
+1994—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amendedtext generally. Prior to amendment, text read as follows: “If—
 
 &emsp;“(1) any taxpayer claims an exemption under section 151 for any dependent on a return for any taxable year, and
 

@@ -12,7 +12,7 @@
 | (b) | Implementation of program functions of Secretary of Defense through Director. |
 | (c) | Functions of Director. |
 | (d) | Establishment of regional or area offices; reports to Congress on reorganizations; authorized number of civilian employees. |
-| [923\.](%C2%A7%2000923%20-%20Tuition-paying%20students.md) | Tuition-paying students. |
+| [923\.](%C2%A7%2000923%20-%20Space-available%20enrollment%20of%20students%3B%20tuition.md) | Space-available enrollment of students; tuition. |
 | (a) | Enrollment of ineligible child in system school. |
 | (b) | Determination of amount of tuition; use of payments. |
 | (c) | Regulations respecting enrollment requirements. |
@@ -60,7 +60,7 @@ This chapter is referred to in section 3489 of this title; title 10 section 2605
 
 - [&sect; 00921 - Defense dependents&#8217; education system](%C2%A7%2000921%20-%20Defense%20dependents%E2%80%99%20education%20system.md)
 - [&sect; 00922 - Administration of defense dependents&#8217; education system](%C2%A7%2000922%20-%20Administration%20of%20defense%20dependents%E2%80%99%20education%20system.md)
-- [&sect; 00923 - Tuition-paying students](%C2%A7%2000923%20-%20Tuition-paying%20students.md)
+- [&sect; 00923 - Space-available enrollment of students; tuition](%C2%A7%2000923%20-%20Space-available%20enrollment%20of%20students%3B%20tuition.md)
 - [&sect; 00924 - Annual educational assessment](%C2%A7%2000924%20-%20Annual%20educational%20assessment.md)
 - [&sect; 00925 - Budget request for school construction funds for Director of Dependents&#8217; Education](%C2%A7%2000925%20-%20Budget%20request%20for%20school%20construction%20funds%20for%20Director%20of%20Dependents%E2%80%99%20Education.md)
 - [&sect; 00926 - School system for dependents in overseas areas](%C2%A7%2000926%20-%20School%20system%20for%20dependents%20in%20overseas%20areas.md)

@@ -12,7 +12,7 @@ Other Assistance.—The Secretary of Defense may authorize a commander referred 
 
 &emsp;(2) to the extent that the provision of such assistance does not adversely affect the military preparedness of the armed forces; and
 
-&emsp;(3) if the organization requesting such assistance agrees to reimburse the Department foramounts expended by the Department in providing the assistance in accordance with the provisions of section 377 of this title and other applicable provisions of law.
+&emsp;(3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of section 377 of this title and other applicable provisions of law.
 
 (c)
 

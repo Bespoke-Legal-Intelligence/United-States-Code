@@ -54,7 +54,7 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 offormer Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
+Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
 
 #### Transfer of Functions
 
@@ -74,7 +74,7 @@ Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by P
 
 #### Report on State Management of Small Disasters Initiative
 
-Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after the date of the enactment of this Act \[Oct. 30, 2000\], the President shall submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including—
+Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after thedate of the enactment of this Act \[Oct. 30, 2000\], the President shall submit to Congress a report describing the results of the State Management of Small Disasters Initiative, including—
 
 &emsp;“(1) identification of any administrative or financial benefits of the initiative; and
 
@@ -314,7 +314,7 @@ Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which related to consolidation
 
 Ex. Ord. No. 11795, July 11, 1974, 39 F.R. 25939, as amended by Ex. Ord. No. 11910, Apr. 13, 1976, 41 F.R. 15681; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12673, Mar. 23, 1989, 54 F.R. 12571, provided:
 
-By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143) \[see References to Disaster Relief Act of 1974 note above\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Disaster Relief Act of 1974 (Public Law 93–288; 88 Stat. 143)\[see References to Disaster Relief Act of 1974 note above\], section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
 \[
 

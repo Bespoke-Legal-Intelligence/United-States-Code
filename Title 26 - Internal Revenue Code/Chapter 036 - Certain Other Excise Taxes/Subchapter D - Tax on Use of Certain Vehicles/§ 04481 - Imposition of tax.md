@@ -94,7 +94,7 @@ Subsec. (e). Pub. L. 94–280, §303(a)(8), substituted “1979” for “1977�
 
 Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted “1977” for “1972”.
 
-1961—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
+1961—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
 Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
 
@@ -108,7 +108,7 @@ Section 507(d) of Pub. L. 100–17 provided that: “The amendments made by subs
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in theprovisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
+Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
 Section 901(c) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
 
@@ -186,7 +186,7 @@ Part I \[§§931–934\] of subtitle D of title IX of div. A of Pub. L. 98–369
 
 #### “SEC. 931. WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.
 
-“The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
+“The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxablegross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
 
 #### “SEC. 932. TRANS-BORDER TRUCKING.
 

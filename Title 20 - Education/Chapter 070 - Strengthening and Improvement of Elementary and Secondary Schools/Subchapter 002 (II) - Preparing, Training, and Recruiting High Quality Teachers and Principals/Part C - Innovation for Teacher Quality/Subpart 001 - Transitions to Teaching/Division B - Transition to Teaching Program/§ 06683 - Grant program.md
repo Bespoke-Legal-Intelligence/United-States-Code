@@ -68,7 +68,7 @@ To the extent practicable, the Secretary shall ensure an equitable geographic di
 
 &emsp;The entity shall use the funds to carry out a program that includes two or more of the following activities:
 
-&emsp;&emsp;(A) Providing scholarships, stipends, bonuses, and other financial incentives, that are linked to participation in activities that have proven effective in retaining teachers in high-need schools operated by high-need local educational agencies, to all eligible participants, in an amount not to exceed $5,000 per participant.
+&emsp;&emsp;(A) Providing scholarships, stipends, bonuses, and other financial incentives, that are linked to participation in activities thathave proven effective in retaining teachers in high-need schools operated by high-need local educational agencies, to all eligible participants, in an amount not to exceed $5,000 per participant.
 
 &emsp;&emsp;(B) Carrying out pre- and post-placement induction or support activities that have proven effective in recruiting and retaining teachers, such as—
 
@@ -122,7 +122,7 @@ A program participant in a program under this division who receives training thr
 
 #### (j) Repayment
 
-The Secretary shall establish such requirements as the Secretary determines to be appropriate to ensure that program participants whoreceive a stipend or other financial incentive under subsection (g)(2)(A) of this section, but fail to complete their service obligation under subsection (i) of this section, repay all or a portion of such stipend or other incentive.
+The Secretary shall establish such requirements as the Secretary determines to be appropriate to ensure that program participants who receive a stipend or other financial incentive under subsection (g)(2)(A) of this section, but fail to complete their service obligation under subsection (i) of this section, repay all or a portion of such stipend or other incentive.
 
 #### (k) Administrative funds
 

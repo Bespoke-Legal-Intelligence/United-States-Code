@@ -20,7 +20,7 @@
 
 &emsp;(B) the rate payable for level V of the Executive Schedule in effect at the end of such calendar year.
 
-(c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulations may limit the payment of such premium pay on a biweekly basis.
+(c) The Office of Personnel Management shall prescribe regulations governing the methods of applying subsection (b)(2) and (b)(3) to employees who receive premium pay under section 5545(c) or 5545a, or to firefighters covered by section 5545b who receive overtime pay for hours in their regular tour of duty, and the method of payment to such employees. Such regulations may limit the payment of such premium pay on a biweekly basis.
 
 (d) This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
 
@@ -58,7 +58,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76 Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
+In the codification of 5 U.S.C. 5547, the words “premium pay under this subchapter” were substituted for “premium compensation provided by this Act” appearing in the source statute—section 603 of the Federal Employees Pay Act of 1945, as amended (former 5 U.S.C. 943). This amendment of 5 U.S.C. 5547 is made for clarity and precision of reference and in recognition that the source statutes for certain sections of subchapter V of chapter 55 of title 5 include statutes that were not a part of the Federal Employees Pay Act of 1949. Specifically, 5 U.S.C. 5544(a) is based in part on section 23 (2d proviso) of the act of March 28, 1934, as amended by 76Stat. 360; and 5 U.S.C. 5545(d) is based on section 804 of the Classification Act of 1949, as added by Public Law 89–512, 80 Stat. 318. Also, 5 U.S.C. 5541(2)(xi) in effect excludes employees subject to 5 U.S.C. 5544 from the operation of 5 U.S.C. 5547.
 
 #### References in Text
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 101–509, §529 \[title IV, §410(b)\], added subsec. (c).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, provided that: “The amendments made by subsections (a) and (b) \[amending this section andprovisions set out as a note under this section\] shall take effect on the first day of the first pay period beginning on or after the date that is 120 days following the date of enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title XI, §1114(c), Dec. 28, 2001, 115 Stat. 1240, provided that: “The amendments made by subsections (a) and (b) \[amending this section and provisions set out as a note under this section\] shall take effect on the first day of the first pay period beginning on or after the date that is 120 days following the date of enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1994 Amendment
 

@@ -14,7 +14,7 @@ If the Administrator finds that there is a reasonable basis to conclude that the
 
 &emsp;(3) A requirement that such substance or mixture or any article containing such substance or mixture be marked with or accompanied by clear and adequate warnings and instructions with respect to its use, distribution in commerce, or disposal or with respect to any combination of such activities. The form and content of such warnings and instructions shall be prescribed by the Administrator.
 
-&emsp;(4) A requirement that manufacturers and processors of such substance or mixture make and retain records of the processes used to manufacture or process such substance or mixture and monitor or conduct tests which are reasonable and necessary to assure compliance with the requirements of any rule applicable under this subsection.
+&emsp;(4) A requirement that manufacturers and processors of such substance or mixture make and retain records of the processes used to manufacture or process such substance or mixture and monitor or conduct tests which are reasonable and necessary to assure compliancewith the requirements of any rule applicable under this subsection.
 
 &emsp;(5) A requirement prohibiting or otherwise regulating any manner or method of commercial use of such substance or mixture.
 
@@ -28,7 +28,7 @@ If the Administrator finds that there is a reasonable basis to conclude that the
 
 #### (b) Quality control
 
-If the Administrator has a reasonable basis to conclude that a particular manufacturer orprocessor is manufacturing or processing a chemical substance or mixture in a manner which unintentionally causes the chemical substance or mixture to present or which will cause it to present an unreasonable risk of injury to health or the environment—
+If the Administrator has a reasonable basis to conclude that a particular manufacturer or processor is manufacturing or processing a chemical substance or mixture in a manner which unintentionally causes the chemical substance or mixture to present or which will cause it to present an unreasonable risk of injury to health or the environment—
 
 &emsp;(1) the Administrator may by order require such manufacturer or processor to submit a description of the relevant quality control procedures followed in the manufacturing or processing of such chemical substance or mixture; and
 
@@ -54,7 +54,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 > If the Administrator determines that a risk of injury to health or the environment could be eliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
 
-(2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
+(2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in therulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
 
 (3) Informal hearings required by paragraph (2)(C) shall be conducted by the Administrator in accordance with the following requirements:
 
@@ -66,7 +66,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(B) The Administrator may prescribe such rules and make such rulings concerning procedures in such hearings to avoid unnecessary costs or delay. Such rules or rulings may include (i) the imposition of reasonable time limits on each interested person's oral presentations, and (ii) requirements that any cross-examination to which a person may be entitled under subparagraph (A) be conducted by the Administrator on behalf of that person in such manner as the Administrator determines (I) to be appropriate, and (II) to be required for a full and true disclosure with respect to disputed issues of material fact.
 
-&emsp;(C)(i) Except as provided in clause (ii), if a group of persons each of whom under subparagraphs (A) and (B) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Administratorto have the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Administrator may make rules and rulings (I) limiting the representation of such interest for such purposes, and (II) governing the manner in which such cross-examination shall be limited.
+&emsp;(C)(i) Except as provided in clause (ii), if a group of persons each of whom under subparagraphs (A) and (B) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Administrator to have the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Administrator may make rules and rulings (I) limiting the representation of such interest for such purposes, and (II) governing the manner in which such cross-examination shall be limited.
 
 &emsp;(ii) When any person who is a member of a group with respect to which the Administrator has made a determination under clause (i) is unable to agree upon group representation with the other members of the group, then such person shall not be denied under the authority of clause (i) the opportunity to conduct (or have conducted) cross-examination as to issues affecting the person's particular interests if (I) the person satisfies the Administrator that the person has made a reasonable and good faith effort to reach agreement upon group representation with the other members of the group and (II) the Administrator determines that there are substantial and relevant issues which are not adequately presented by the group representative.
 
@@ -102,7 +102,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(i) the Administrator determines that—
 
-&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date; and
+&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of thechemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date; and
 
 &emsp;&emsp;(II) making such proposed rule so effective is necessary to protect the public interest; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Failure to report; penalties
 
-It shall be the duty of every person, including the owners, masters, officers, and agents of vessels, aircraft, transportation lines, or international bridges or toll roads, other than transportation lines which may enter into a contract as provided in section 1223 of this title, bringing an alien to, or providing a means for an alien to come to, the United States (including an alien crewman whose case is not covered by section 1284(a) of this title) to prevent the landing of such alien in the United States at a port of entry other than as designated by the Attorney General or at any time or place other than as designated by the immigration officers. Any such person, owner, master, officer, or agent who fails to comply with the foregoing requirements shall be liable to a penalty to be imposed by the Attorney General of $3,000 for each suchviolation, which may, in the discretion of the Attorney General, be remitted or mitigated by him in accordance with such proceedings as he shall by regulation prescribe. Such penalty shall be a lien upon the vessel or aircraft whose owner, master, officer, or agent violates the provisions of this section, and such vessel or aircraft may be libeled therefor in the appropriate United States court.
+It shall be the duty of every person, including the owners, masters, officers, and agents of vessels, aircraft, transportation lines, or international bridges or toll roads, other than transportation lines which may enter into a contract as provided in section 1223 of this title, bringing an alien to, or providing a means for an alien to come to, the United States (including an alien crewman whose case is not covered by section 1284(a) of this title) to prevent the landing of such alien in the United States at a port of entry other than as designated by the Attorney General or at any time or place other than as designated by the immigration officers. Any such person, owner, master, officer, or agent who fails to comply with the foregoing requirements shall be liable to a penalty to be imposed by the Attorney General of $3,000 for each such violation, which may, in the discretion of the Attorney General, be remitted or mitigated by him in accordance with such proceedings as he shall by regulation prescribe. Such penalty shall be a lien upon the vessel or aircraft whose owner, master, officer, or agent violates the provisions of this section, and such vessel or aircraft may be libeled therefor in the appropriate United States court.
 
 #### (b) Prima facie evidence
 
@@ -28,7 +28,7 @@ Proof that the alien failed to present himself at the time and place designated 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the firstmonth beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -148,13 +148,15 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650.)
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### Prior Provisions
 
 A prior section 338B of act July 1, 1944, was renumbered section 338C by section 201(2) of Pub. L. 100–177 and is classified to section 254m of this title.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–163 made technical amendment.
 
 2002—Subsec. (a)(1). Pub. L. 107–251, §310(1)(A), inserted “behavioral and mental health professionals,” after “dentists,”.
 
@@ -228,7 +230,7 @@ Subsec. (f)(2). Pub. L. 101–597, §202(e), inserted before semicolon at end �
 
 Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted “regarding the undergraduate or graduate education of the individual (or both), which loans were made” after “loans received by the individual”.
 
-Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in cls. (ii) and (iii).
+Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage areafor reference to health manpower shortage area in cls. (ii) and (iii).
 
 Pub. L. 101–597, §202(f)(2)(A), substituted “For each year” for “Except as provided in subparagraph (B) and paragraph (3), for each year” and “$35,000” for “$20,000”, inserted at end “In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—”, and added immediately thereafter cls. (i) to (iii).
 
@@ -249,6 +251,10 @@ Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, 
 &emsp;“(4) the amount of loan payments made in the year reported on.”
 
 1988—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date of 1990 Amendment
 

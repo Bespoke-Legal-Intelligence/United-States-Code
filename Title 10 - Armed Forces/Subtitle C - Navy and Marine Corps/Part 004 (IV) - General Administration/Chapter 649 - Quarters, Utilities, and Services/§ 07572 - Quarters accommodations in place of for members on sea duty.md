@@ -58,7 +58,7 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 In subsection (a) the word “public” is substituted for the words “possessed by the United States” and the subsection is phrased in terms of availability, as it is so interpreted. The itemization of personnel categories for whom quarters may be furnished is inserted to execute the definition of “naval personnel”, made applicable to this section by 5 U.S.C. 421g. The requirement in that definition that personnel be on active duty is omitted since this subsection applies only to personnel on sea duty.
 
-In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance for quarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance when on sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
+In subsection (b) the words “and who is not entitled to basic allowance for quarters” are inserted to make it clear that the entitlement under this subsection, as interpreted, is not in addition to basic allowance for quarters. The words “in obtaining quarters” are inserted for clarity. The words “basic allowance for quarters of an officer of his grade” are substituted for the words “his quarters allowance” because, under the Career Compensation Act of 1949, members without dependents are not entitled to a quarters allowance whenon sea duty, and the limitation must be based upon the allowance of an officer of the same grade who is entitled thereto.
 
 In subsection (c) the words “except the authority to prescribe regulations” are omitted, since subsection (a) does not contain such authority.
 
@@ -136,7 +136,7 @@ Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783�
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
-#### Section Referred to in Other Sections
+#### Transfer of Functions
 
-This section is referred to in title 33 section 857a.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

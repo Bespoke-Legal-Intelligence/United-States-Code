@@ -20,7 +20,7 @@ The purpose of this section is to provide grants for expanded delivery of health
 
 #### (4) Medically underserved community
 
-&emsp;The term “medically underserved community” has the meaning given the term in section 295p of this title.
+&emsp;The term “medically underserved community” has the meaning given the term in section 295p(6) of this title.
 
 #### (5) Medically underserved population
 
@@ -50,7 +50,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 &emsp;&emsp;&emsp;(ii) to provide for the planning and implementation of integrated health care networks in rural areas under subsection (f) of this section; and
 
-&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care providerquality improvement activities under subsection (g) of this section.
+&emsp;&emsp;&emsp;(iii) to provide for the planning and implementation of small health care provider quality improvement activities under subsection (g) of this section.
 
 #### (e) Rural health care services outreach grants
 
@@ -74,7 +74,7 @@ The Secretary shall establish, under section 241 of this title, a small health c
 
 #### (3) Applications
 
-&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+&emsp;To be eligible to receive a grant under this subsection, an eligible entity, in consultationwith the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;&emsp;(A) a description of the project that the eligible entity will carry out using the funds provided under the grant;
 
@@ -212,7 +212,7 @@ Not later than September 30, 2005, the Secretary shall prepare and submit to the
 
 There are authorized to be appropriated to carry out this section $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
-(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628.)
+(July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021.)
 
 #### Prior Provisions
 
@@ -220,7 +220,13 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 #### Amendments
 
+2003—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”.
+
 2002—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
 
 #### Effective Date
 

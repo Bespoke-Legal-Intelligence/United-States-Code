@@ -1,6 +1,6 @@
 ### §16136. Administration of program
 
-(a) Educational assistance under this chapter shall be provided through the Department of Veterans Affairs, under agreements to be entered into by the Secretary of Defense, and by the Secretary of Transportation, with the Secretary of Veterans Affairs. Such agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Department of Veterans Affairs for the making of payments under this chapter.
+(a) Educational assistance under this chapter shall be provided through the Department of Veterans Affairs, under agreements to be entered into by the Secretary of Defense, and by the Secretary of Homeland Security, with the Secretary of Veterans Affairs. Such agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Department of Veterans Affairs for the making of payments under this chapter.
 
 (b) Except as otherwise provided in this chapter, the provisions of sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “a person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this chapter to refer to a person eligible for educational assistance under this chapter.
 
@@ -12,9 +12,11 @@
 
 &emsp;(3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
-(Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §204(b), Nov. 11, 1998, 112 Stat. 3327.)
+(Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §204(b), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 1998—Subsec. (c)(2). Pub. L. 105–245 substituted “pilot certificate” for “pilot's license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
@@ -36,9 +38,13 @@ Subsec. (c)(1). Pub. L. 102–568, §313(a)(6), substituted “section 3680A(b) 
 
 Subsec. (b). Pub. L. 101–237, §405(d)(3), inserted reference to section 1685 of title 38.
 
-Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used”for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
+Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
 
 Subsec. (c). Pub. L. 101–237, §422(b)(1), added subsec. (c).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -66,5 +72,5 @@ Section 313(b) of Pub. L. 102–568 provided that: “The amendments made by par
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 16131 of this title.
+This section is referred to in sections 510, 16131 of this title.
 

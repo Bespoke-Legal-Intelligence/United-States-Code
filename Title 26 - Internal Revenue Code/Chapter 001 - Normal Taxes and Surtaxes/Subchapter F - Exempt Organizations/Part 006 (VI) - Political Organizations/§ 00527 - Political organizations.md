@@ -22,7 +22,7 @@ A political organization shall be subject to taxation under this subtitle only t
 
 #### (1) Taxable income defined
 
-&emsp;For purposes of this section, the political organization taxable income of any organizationfor any taxable year is an amount equal to the excess (if any) of—
+&emsp;For purposes of this section, the political organization taxable income of any organization for any taxable year is an amount equal to the excess (if any) of—
 
 &emsp;&emsp;(A) the gross income for the taxable year (excluding any exempt function income), over
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A)(i) in the case of a calendar year in which a regularly scheduled election is held—
 
-&emsp;&emsp;&emsp;(I) quarterly reports, beginning with the first quarter of the calendar year in which a contribution is accepted or expenditure is made, which shall be filed not later than the fifteenth day after the last day of each calendar quarter, except that the reportfor the quarter ending on December 31 of such calendar year shall be filed not later than January 31 of the following calendar year,
+&emsp;&emsp;&emsp;(I) quarterly reports, beginning with the first quarter of the calendar year in which a contribution is accepted or expenditure is made, which shall be filed not later than the fifteenth day after the last day of each calendar quarter, except that the report for the quarter ending on December 31 of such calendar year shall be filed not later than January 31 of the following calendar year,
 
 &emsp;&emsp;&emsp;(II) a pre-election report, which shall be filed not later than the twelfth day before (or posted by registered or certified mail not later than the fifteenth day before) any election with respect to which the organization makes a contribution or expenditure, and which shall be complete as of the twentieth day before the election, and
 
@@ -368,7 +368,7 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18,1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934.)
 
 #### References in Text
 

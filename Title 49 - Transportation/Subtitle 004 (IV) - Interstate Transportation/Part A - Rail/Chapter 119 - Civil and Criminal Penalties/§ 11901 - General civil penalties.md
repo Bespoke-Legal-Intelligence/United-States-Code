@@ -1,6 +1,6 @@
 ### §11901. General civil penalties
 
-(a) Except as otherwise provided in this section, a rail carrier providing transportation subject to the jurisdiction of the Board under this part, an officer or agent of that rail carrier, or a receiver, trustee, lessee, or agent of one of them, knowingly violating this part or an order of the Board under this part is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. Liability under this subsection is incurred for each distinct violation. A separate violation occurs for each day the violation continues.
+(a) Except as otherwise provided in this section, a rail carrier providing transportation subject to the jurisdiction of the Board under this part, an officer or agent of that rail carrier, or a receiver, trustee, lessee, or agent of one of them, knowingly violating this part or an orderof the Board under this part is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. Liability under this subsection is incurred for each distinct violation. A separate violation occurs for each day the violation continues.
 
 (b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, or a receiver or trustee of that rail carrier, violating a regulation or order of the Board under section 11124(a)(2) or (b) of this title is liable to the United States Government for a civil penalty of $500 for each violation and for $25 for each day the violation continues.
 

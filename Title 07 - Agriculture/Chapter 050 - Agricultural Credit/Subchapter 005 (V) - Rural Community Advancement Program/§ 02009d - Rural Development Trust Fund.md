@@ -72,11 +72,11 @@ The function categories described in this subsection are the following:
 
 #### (f) Allocation among States
 
-The Secretary shall allocate the amounts in each account specified in subsection (c) of this section among the States in a fair, reasonable,and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
+The Secretary shall allocate the amounts in each account specified in subsection (c) of this section among the States in a fair, reasonable, and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
 
 #### (g) Availability of funds allocated for States
 
-The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying section 2009f of this title.
+The Secretary shall make available to each State the total amount allocated for the Stateunder subsection (f) of this section that remains after applying section 2009f of this title.
 
 (Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372.)
 

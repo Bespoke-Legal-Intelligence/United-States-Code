@@ -4,8 +4,6 @@
 
 This subchapter is referred to in sections 2014, 5842 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

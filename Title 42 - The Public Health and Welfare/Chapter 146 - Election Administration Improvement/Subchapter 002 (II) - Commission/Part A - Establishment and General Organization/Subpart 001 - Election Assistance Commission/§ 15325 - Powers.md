@@ -6,7 +6,7 @@ The Commission may hold such hearings for the purpose of carrying out this chapt
 
 #### (b) Information from Federal agencies
 
-The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out this chapter. Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
+The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carryout this chapter. Upon request of the Commission, the head of such department or agency shall furnish such information to the Commission.
 
 #### (c) Postal services
 

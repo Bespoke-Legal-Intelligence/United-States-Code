@@ -98,7 +98,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (3) Approval
 
-&emsp;The Secretary shall approve for participation in pilot projects under this subsection elementary schools under the jurisdiction of not more than 6 nominated school food authorities selected so as to—
+&emsp;The Secretary shall approve for participation in pilot projects under this subsectionelementary schools under the jurisdiction of not more than 6 nominated school food authorities selected so as to—
 
 &emsp;&emsp;(A) provide for an equitable distribution of pilot projects among urban and rural elementary schools;
 
@@ -112,7 +112,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (5) Duration of pilot projects
 
-&emsp;Subject to the availability of funds made available to carry out this subsection, a schoolfood authority receiving amounts under a grant to conduct a pilot project described in paragraph (1) shall conduct the project during a period of 3 successive school years.
+&emsp;Subject to the availability of funds made available to carry out this subsection, a school food authority receiving amounts under a grant to conduct a pilot project described in paragraph (1) shall conduct the project during a period of 3 successive school years.
 
 #### (6) Waiver authority
 
@@ -210,7 +210,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (2) Pilot projects
 
-&emsp;During the period of fiscal years 2001 through 2003, the Secretary shall carry out a summer food pilot project in each eligible State to increase the number of children participating in the summer food service program in the State.
+&emsp;During the period beginning October 1, 2000, and ending March 31, 2004, the Secretary shall carry out a summer food pilot project in each eligible State to increase the number of children participating in the summer food service program in the State.
 
 #### (3) Support levels for service institutions
 
@@ -264,7 +264,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (1) In general
 
-&emsp;In the school year beginning July 2002, the Secretary shall carry out a pilot program to make available to students in 25 elementary or secondary schools in each of 4 States, and in elementary or secondary schools on 1 Indian reservation, free fresh and dried fruits and fresh vegetables throughout the school day in 1 or more areas designated by the school.
+&emsp;In the school year beginning July 2002, the Secretary shall carry out a pilot program to make available to students in 25 elementaryor secondary schools in each of 4 States, and in elementary or secondary schools on 1 Indian reservation, free fresh and dried fruits and fresh vegetables throughout the school day in 1 or more areas designated by the school.
 
 #### (2) Publicity
 
@@ -276,9 +276,9 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (4) Funding
 
-&emsp;The Secretary shall use not more than $6,000,000 of funds made available under section 612c of title 7, to carry out this subsection (other than paragraph (3)).
+&emsp;The Secretary shall use not more than $6,000,000 of funds made available under section 612c of title 7, to carry out this subsection (other than paragraph (3)), to remain available until the close of the school year beginning July 2003.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390.)
 
 #### References in Text
 
@@ -293,6 +293,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to section 1767 of this title, was repealed.
 
 #### Amendments
+
+2003—Subsec. (f)(2). Pub. L. 108–134 substituted “beginning October 1, 2000, and ending March 31, 2004” for “of fiscal years 2001 through 2003”.
+
+Subsec. (g)(4). Pub. L. 108–30 inserted before period at end “, to remain available until the close of the school year beginning July 2003”.
 
 2002—Subsec. (g). Pub. L. 107–171 added subsec (g).
 
@@ -352,7 +356,7 @@ Subsec. (d). Pub. L. 101–147, §311(1), redesignated subsec. (g) as (d). Forme
 
 Subsec. (e). Pub. L. 101–147, §311(1), redesignated subsec. (e) as (b).
 
-Subsec. (e)(1). Pub. L. 101–147, §107(1)(A), substituted “beginning July 1, 1987, and ending September 30, 1992” for “for the duration beginning July 1, 1987, and ending December 31, 1990” and inserted at end “The Secretary,directly or through contract, shall administer the project under this subsection.”
+Subsec. (e)(1). Pub. L. 101–147, §107(1)(A), substituted “beginning July 1, 1987, and ending September 30, 1992” for “for the duration beginning July 1, 1987, and ending December 31, 1990” and inserted at end “The Secretary, directly or through contract, shall administer the project under this subsection.”
 
 Subsec. (f). Pub. L. 101–147, §311(1), redesignated subsec. (f) as (c).
 

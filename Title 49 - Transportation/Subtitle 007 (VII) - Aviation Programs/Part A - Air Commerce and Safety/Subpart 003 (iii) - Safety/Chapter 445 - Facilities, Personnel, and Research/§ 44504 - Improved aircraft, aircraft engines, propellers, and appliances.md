@@ -8,7 +8,7 @@ Developmental Work and Service Testing.—The Administrator of the Federal Aviat
 
 Research.—The Administrator shall conduct or supervise research—
 
-&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigue on the life of aircraft, including nonstructural aircraft systems, and air safety;
+&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigueon the life of aircraft, including nonstructural aircraft systems, and air safety;
 
 &emsp;(2) to develop methods of analyzing and improving aircraft maintenance technology and practices, including nondestructive evaluation of aircraft structures;
 
@@ -75,6 +75,44 @@ In subsection (a), the words “to improve” are substituted for “such . . 
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### FAA Center for Excellence for Applied Research and Training in the Use of Advanced Materials in Transport Aircraft
+
+Pub. L. 108–176, title VII, §708, Dec. 12, 2003, 117 Stat. 2582, provided that:
+
+“(a)
+
+In General.—The Administrator of the Federal Aviation Administration shall develop a Center for Excellence focused on applied research and training on the durability and maintainability of advanced materials in transport airframe structures. The Center shall—
+
+&emsp;“(1) promote and facilitate collaboration among academia, the Federal Aviation Administration's Transportation Division, and the commercial aircraft industry, including manufacturers, commercial air carriers, and suppliers; and
+
+&emsp;“(2) establish goals set to advance technology, improve engineering practices, and facilitate continuing education in relevant areas of study.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $500,000 for fiscal year 2004 to carry out this section.”
+
+#### Rotorcraft Research and Development Initiative
+
+Pub. L. 108–176, title VII, §711, Dec. 12, 2003, 117 Stat. 2585, provided that:
+
+“(a)
+
+Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
+
+&emsp;“(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
+
+&emsp;“(2) Factor of 10 reduction in vibration.
+
+&emsp;“(3) 30 percent reduction in empty weight.
+
+&emsp;“(4) Predicted accident rate equivalent to that of fixed-wing aircraft in commercial service within 10 years after the date of the enactment of this Act.
+
+&emsp;“(5) Capability for zero-ceiling, zero-visibility operations.
+
+“(b)
+
+Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
 
 #### Specialty Metals Consortium
 

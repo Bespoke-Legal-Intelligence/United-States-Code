@@ -104,7 +104,7 @@
 
 &emsp;(17) Assist the Director in preparing the E-Government report established under section 3606.
 
-(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevant offices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
+(g) The Director shall ensure that the Office of Management and Budget, including the Office of Electronic Government, the Office of Information and Regulatory Affairs, and other relevantoffices, have adequate staff and resources to properly fulfill all functions under the E-Government Act of 2002.
 
 (Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2902.)
 

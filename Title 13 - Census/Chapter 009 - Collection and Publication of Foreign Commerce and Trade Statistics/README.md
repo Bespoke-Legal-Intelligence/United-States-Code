@@ -1,19 +1,19 @@
 ### <b>CHAPTER 9—COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS</b>
 
-|  |  |
+| Sec. |  |
 | :--- | ---: |
-| 301\. | Collection and publication. |
-| 302\. | Rules, regulations, and orders. |
-| 303\. | Secretary of Treasury, functions.<sup>1</sup> |
+| [301\.](%C2%A7%2000301%20-%20Collection%20and%20publication.md) | Collection and publication. |
+| [302\.](%C2%A7%2000302%20-%20Rules%2C%20regulations%2C%20and%20orders.md) | Rules, regulations, and orders. |
+| [303\.](%C2%A7%2000303%20-%20Secretary%20of%20Treasury%20functions.md) | Secretary of Treasury, functions.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |
 | :--- | ---: |
-| 304\. | Filing export information, delayed filings, penalties for failure to file. |
-| 305\. | Penalties for unlawful export information activities. |
-| 306\. | Delegation of functions. |
-| 307\. | Relationship to general census law. |
+| [304\.](%C2%A7%2000304%20-%20Filing%20export%20information%2C%20delayed%20filings%2C%20penalties%20for%20failure%20to%20file.md) | Filing export information, delayed filings, penalties for failure to file. |
+| [305\.](%C2%A7%2000305%20-%20Penalties%20for%20unlawful%20export%20information%20activities.md) | Penalties for unlawful export information activities. |
+| [306\.](%C2%A7%2000306%20-%20Delegation%20of%20functions.md) | Delegation of functions. |
+| [307\.](%C2%A7%2000307%20-%20Relationship%20to%20general%20census%20law.md) | Relationship to general census law. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) provide that the agency administering a fund is responsible and accountable by program and appropriation for the amounts provided for the purposes of each account in the fund; and
 
-&emsp;(3) include procedures for returning, subject to fiscal year limitations, an excess amount to participating executive agencies under the applicable appropriation. An excess amount of an expired appropriation lapses from the fund.
+&emsp;(3) include procedures for returning, subject to fiscal year limitations, an excess amount toparticipating executive agencies under the applicable appropriation. An excess amount of an expired appropriation lapses from the fund.
 
 (c) For each project financed through an account in a joint management fund, a recipient of an amount from the fund shall keep records prescribed by the head of the executive agency responsible for administering the fund. The records shall include—
 

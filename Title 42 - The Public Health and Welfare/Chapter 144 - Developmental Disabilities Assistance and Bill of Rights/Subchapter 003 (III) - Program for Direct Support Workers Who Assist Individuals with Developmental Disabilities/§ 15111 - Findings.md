@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) 4 factors have contributed to a decrease in the available pool of direct support workers, specifically—
 
-&emsp;&emsp;(A) the small population of individuals who are age 18 through 25, an age group that has been attracted to direct support work in the past;
+&emsp;&emsp;(A) the small population of individuals who are age 18 through 25, an age group thathas been attracted to direct support work in the past;
 
 &emsp;&emsp;(B) the rapid expansion of the service sector, which attracts individuals who previously would have elected to pursue employment as direct support workers;
 

@@ -106,7 +106,7 @@ A State which has adopted the certification program may use accreditation organi
 
 #### (2) Access to facilities and records
 
-&emsp;In conducting an inspection of an embryo laboratory under paragraph (1), the Secretaryshall have access to all facilities, equipment, materials, records, and information which the Secretary determines is necessary to determine if such laboratory is being operated in accordance with the standards in subsection (d) of this section. As part of such an inspection, the Secretary may copy any material, record, or information inspected or require it to be submitted to the Secretary. Such an inspection may be made only upon the presentation of identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;In conducting an inspection of an embryo laboratory under paragraph (1), the Secretary shall have access to all facilities, equipment, materials, records, and information which the Secretary determines is necessary to determine if such laboratory is being operated in accordance with the standards in subsection (d) of this section. As part of such an inspection, the Secretary may copy any material, record, or information inspected or require it to be submitted to the Secretary. Such an inspection may be made only upon the presentation of identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (3) Failure to comply
 

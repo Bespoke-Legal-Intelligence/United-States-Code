@@ -26,7 +26,7 @@ So much as pertains to the “orders, regulations, and instructions issued by th
 
 #### Navy Regulations Issued Before October 14, 1981
 
-Section 204(b) of Pub. L. 97–60 provided that: “United States Navy regulations issued under section 6011 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 14, 1981\] shall remain in effectin accordance with their terms until amended or revoked by the Secretary of the Navy.”
+Section 204(b) of Pub. L. 97–60 provided that: “United States Navy regulations issued under section 6011 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 14, 1981\] shall remain in effect in accordance with their terms until amended or revoked by the Secretary of the Navy.”
 
 #### Delegation of Functions
 

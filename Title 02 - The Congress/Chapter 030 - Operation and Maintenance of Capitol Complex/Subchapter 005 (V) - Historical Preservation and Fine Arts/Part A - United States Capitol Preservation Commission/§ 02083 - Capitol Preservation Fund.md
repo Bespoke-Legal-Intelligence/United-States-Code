@@ -26,7 +26,7 @@ In carrying out this section, the Commission shall, to the extent practicable, t
 
 #### (d) Deposits, credits, and disbursements
 
-The Commission shall deposit in the fund gifts of money and proceeds of transactions undersection 2082 of this title. The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund. Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the co-chairmen.
+The Commission shall deposit in the fund gifts of money and proceeds of transactions under section 2082 of this title. The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund. Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the co-chairmen.
 
 #### (e) Investments
 
@@ -44,7 +44,7 @@ Section was classified to section 188a–2 of former Title 40, prior to the enac
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–302, §312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–302, §312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
 
 Subsec. (b)(2). Pub. L. 101–302, §312(b)(2), inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
 

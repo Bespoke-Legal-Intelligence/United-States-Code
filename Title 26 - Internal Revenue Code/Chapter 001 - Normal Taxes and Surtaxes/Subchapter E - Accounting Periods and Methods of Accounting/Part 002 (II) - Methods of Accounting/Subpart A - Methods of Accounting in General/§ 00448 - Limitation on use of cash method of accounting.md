@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (A) Not in existence for entire 3-year period
 
-&emsp;&emsp;If the entity was not in existence for the entire 3-year period referred to in paragraph (1), such paragraph shall be applied on thebasis of the period during which such entity (or trade or business) was in existence.
+&emsp;&emsp;If the entity was not in existence for the entire 3-year period referred to in paragraph (1), such paragraph shall be applied on the basis of the period during which such entity (or trade or business) was in existence.
 
 #### (B) Short taxable years
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any institution of the Farm Credit System, or any director, officer, employee, or agent of a Farm Credit System institution, that discloses to a Government authority information proffered in good faith that may be relevant to a possible violation of any law or regulation shall not be liable to any person under any law of the United States or any State—
+Any institution of the Farm Credit System, or any director, officer, employee, or agent of aFarm Credit System institution, that discloses to a Government authority information proffered in good faith that may be relevant to a possible violation of any law or regulation shall not be liable to any person under any law of the United States or any State—
 
 &emsp;(1) for the disclosure; or
 

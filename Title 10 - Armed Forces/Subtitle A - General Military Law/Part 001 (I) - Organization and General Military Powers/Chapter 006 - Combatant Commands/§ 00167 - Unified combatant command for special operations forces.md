@@ -10,7 +10,7 @@ Assignment of Forces.—Unless otherwise directed by the Secretary of Defense, a
 
 (c)
 
-Grade of Commander.—The commander of the special operations command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating his permanent grade. The commander of such command shall be appointedto that grade by the President, by and with the advice and consent of the Senate, for service in that position.
+Grade of Commander.—The commander of the special operations command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating his permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
 (d)
 
@@ -170,7 +170,7 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 “(2) The commander of such command shall be responsible for monitoring the preparedness of special operations forces assigned to other unified combatant commands to carry out assigned missions.
 
-“(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.”
+“(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions throughthe special operations command and such other inspector general functions as may be assigned.”
 
 1987—Subsec. (e)(3). Pub. L. 100–180 added par. (3).
 

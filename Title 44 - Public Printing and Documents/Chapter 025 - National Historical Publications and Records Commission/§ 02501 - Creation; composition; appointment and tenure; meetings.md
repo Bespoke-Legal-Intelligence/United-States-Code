@@ -48,7 +48,7 @@
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §§391 (part), 393(a) (June 30, 1949, ch. 288, title I, §104, 63 Stat. 381, and title V, §503(a) as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
+Based on 44 U.S. Code, 1964 ed., §§391 (part), 393(a) (June 30, 1949, ch. 288, title I, §104, 63 Stat. 381, and titleV, §503(a) as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583).
 
 This section incorporates only the last sentence of paragraph (b) of former section 391. The balance of that section will be found in sections 1506, 2102, 2301, and 2902 of the revision.
 

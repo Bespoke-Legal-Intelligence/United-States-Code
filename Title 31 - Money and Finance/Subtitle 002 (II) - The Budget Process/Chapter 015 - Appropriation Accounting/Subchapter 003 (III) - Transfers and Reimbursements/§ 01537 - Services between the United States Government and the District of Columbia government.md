@@ -58,7 +58,7 @@ Dec. 24, 1973, Pub. L. 93–198, §731, 87 Stat. 822.
 
 In the section, the words “District of Columbia” are substituted for “District” for clarity and consistency.
 
-In subsection (a), the word “duplication” is substituted for “duplication of effort” to eliminate unnecessary words. The words “officer or employee of the United States Government” are substituted for “any Federal officer or agency”, and the words “officer or employee of the District of Columbia government” are substituted for “any District officer or agency”, for consistency.
+In subsection (a), the word “duplication” is substituted for “duplication of effort” to eliminate unnecessary words. The words “officer or employee of the United States Government” are substituted for “anyFederal officer or agency”, and the words “officer or employee of the District of Columbia government” are substituted for “any District officer or agency”, for consistency.
 
 In subsection (b)(1), before clause (A), the words “Except where the terms and conditions governing the furnishing of such services are prescribed by other provisions of law” are omitted as surplus. In clause (A), the words “officers and employees of the 2 governments” are substituted for “Federal and District authorities” for consistency. In clause (B), the words “of the District of Columbia” are added for clarity.
 

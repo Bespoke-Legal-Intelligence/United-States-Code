@@ -22,7 +22,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the Cooperative State Research, Education, and Extension Service, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities,including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the Cooperative State Research, Education, and Extension Service, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
 
 #### (B) Basis for grants
 

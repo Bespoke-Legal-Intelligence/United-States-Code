@@ -12,7 +12,7 @@ Definition of Temporary Organization.—For the purposes of this subchapter, the
 
 Employment Authority.—(1) Notwithstanding the provisions of chapter 51 of this title, the head of a temporary organization may appoint persons to positions of employment in a temporary organization in such numbers and with such skills as are necessary for the performance of the functions required of a temporary organization.
 
-(2) The period of an appointment under paragraph (1) may not exceed three years, except that under regulations prescribed by the Officeof Personnel Management the period of appointment may be extended for up to an additional two years.
+(2) The period of an appointment under paragraph (1) may not exceed three years, except that under regulations prescribed by the Office of Personnel Management the period of appointment may be extended for up to an additional two years.
 
 (3) The positions of employment in a temporary organization are in the excepted service of the civil service.
 
@@ -76,7 +76,7 @@ Acceptance of Volunteer Services.—(1) The head of a temporary organization may
 
 &emsp;(B) shall supervise the volunteer to the same extent as employees receiving compensation for similar services; and
 
-&emsp;(C) shall ensure that the volunteer has appropriate credentials or is otherwise qualified to perform in each capacity for which the volunteer's services are accepted.
+&emsp;(C) shall ensure that the volunteer has appropriate credentials or is otherwise qualifiedto perform in each capacity for which the volunteer's services are accepted.
 
 (4) A person providing volunteer services accepted under this subsection shall be considered an employee of the Federal Government in the performance of those services for the purposes of the following provisions of law:
 

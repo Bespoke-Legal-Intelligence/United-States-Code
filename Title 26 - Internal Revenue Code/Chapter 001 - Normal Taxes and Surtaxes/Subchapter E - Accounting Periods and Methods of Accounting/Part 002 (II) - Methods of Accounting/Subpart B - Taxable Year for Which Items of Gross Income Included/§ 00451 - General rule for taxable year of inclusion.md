@@ -80,7 +80,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;(A) the bankruptcy or insolvency of the qualified financial institution (or threat thereof), or
 
-&emsp;&emsp;(B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (or threat thereof) of 1 or more financial institutions in the State.
+&emsp;&emsp;(B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (orthreat thereof) of 1 or more financial institutions in the State.
 
 #### (5) Other definitions
 
@@ -234,7 +234,7 @@ Voluntary separation incentives paid to members of Armed Forces under 10 U.S.C. 
 
 #### Overpayments or Underpayments of Tax Attributable to Certain Amendments by Pub. L. 99–514 or Pub. L. 100–647
 
-For provisions relating to credit or refund of overpayments of tax, and assessment of underpayments of tax, due to amendments by section 905 of Pub. L. 99–514 orsection 1009(d) of Pub. L. 100–647, see section 1009(d)(4) of Pub. L. 100–647, set out as a note under section 165 of this title.
+For provisions relating to credit or refund of overpayments of tax, and assessment of underpayments of tax, due to amendments by section 905 of Pub. L. 99–514 or section 1009(d) of Pub. L. 100–647, see section 1009(d)(4) of Pub. L. 100–647, set out as a note under section 165 of this title.
 
 #### Modification of Regulations on the Completed Contract Method of Accounting
 
@@ -286,7 +286,7 @@ Determination of taxpayer's gross receipts.—For purposes of subparagraph (A), 
 
 &emsp;&emsp;“(C)
 
-Controlled group of corporations.—The term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
+Controlled group of corporations.—The term ‘controlled group of corporations’ has themeaning given to such term by section 1563(a), except that—
 
 &emsp;&emsp;&emsp;“(i) ‘more than 50 percent’ shall be substituted for ‘at least 80 percent’ each place it appears in section 1563(a)(1), and
 
@@ -382,7 +382,7 @@ Private Deferred Compensation Plan Defined.—
 
 In general.—For purposes of this section, the term ‘private deferred compensation plan’ means a plan, agreement, or arrangement—
 
-&emsp;&emsp;“(A) where the person for whom the service is performed is not a State (within the meaning ofparagraph (1) of section 457(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and not an organization which is exempt from tax under section 501 of such Code, and
+&emsp;&emsp;“(A) where the person for whom the service is performed is not a State (within the meaning of paragraph (1) of section 457(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) and not an organization which is exempt from tax under section 501 of such Code, and
 
 &emsp;&emsp;“(B) under which the payment or otherwise making available of compensation is deferred.
 

@@ -30,7 +30,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, in the case of distilled spirits, wines,and beer to which this part applies (other than subsection (b) of this section) which are withdrawn under bond for deferred payment of tax, the last day for payment of such tax shall be the 14th day after the last day of the semimonthly period during which the withdrawal occurs.
+&emsp;Except as otherwise provided in this subsection, in the case of distilled spirits, wines, and beer to which this part applies (other than subsection (b) of this section) which are withdrawn under bond for deferred payment of tax, the last day for payment of such tax shall be the 14th day after the last day of the semimonthly period during which the withdrawal occurs.
 
 #### (2) Imported articles
 
@@ -94,7 +94,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 &emsp;&emsp;Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869.)
 
 #### Prior Provisions
 

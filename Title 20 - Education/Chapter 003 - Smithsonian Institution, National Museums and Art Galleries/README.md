@@ -358,6 +358,44 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XIV—NATIONAL MUSEUM OF AFRICAN AMERICAN HISTORY AND CULTURE
+
+|  |  |
+| :--- | ---: |
+| [80r.](Subchapter%20014%20%28XIV%29%20-%20National%20Museum%20of%20African%20American%20History%20and%20Culture/%C2%A7%2000080r%20-%20Findings.md) | Findings. |
+| 80r–1. | Definitions. |
+| 80r–2. | Establishment of Museum. |
+| (a) | Establishment. |
+| (b) | Purpose. |
+| 80r–3. | Council. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Composition and appointment. |
+| (d) | Terms. |
+| (e) | Compensation. |
+| (f) | Chairperson. |
+| (g) | Meetings. |
+| (h) | Quorum. |
+| 80r–4. | Director and staff of the Museum. |
+| (a) | Director. |
+| (b) | Staff. |
+| (c) | Pay. |
+| 80r–5. | Educational and liaison programs. |
+| (a) | In general. |
+| (b) | Grant and scholarship programs. |
+| 80r–6. | Building for the National Museum of African American History and Culture. |
+| (a) | In general. |
+| (b) | Cost sharing. |
+| (c) | Authorization of appropriations. |
+| 80r–7. | Congressional Budget Act compliance. |
+| 80r–8. | Consideration of recommendations of Presidential Commission. |
+| 80r–9. | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Availability. |
+| (c) | Use of funds for fundraising. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -376,3 +414,4 @@
 - [Subchapter 011 (XI) - Woodrow Wilson International Center for Scholars](Subchapter%20011%20%28XI%29%20-%20Woodrow%20Wilson%20International%20Center%20for%20Scholars/README.md)
 - [Subchapter 012 (XII) - Museum of African Art](Subchapter%20012%20%28XII%29%20-%20Museum%20of%20African%20Art/README.md)
 - [Subchapter 013 (XIII) - National Museum of the American Indian](Subchapter%20013%20%28XIII%29%20-%20National%20Museum%20of%20the%20American%20Indian/README.md)
+- [Subchapter 014 (XIV) - National Museum of African American History and Culture](Subchapter%20014%20%28XIV%29%20-%20National%20Museum%20of%20African%20American%20History%20and%20Culture/README.md)

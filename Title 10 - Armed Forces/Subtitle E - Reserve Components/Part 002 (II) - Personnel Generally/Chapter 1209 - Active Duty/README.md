@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [12301\.](%C2%A7%2012301%20-%20Reserve%20components%20generally.md) | Reserve components generally. |
 | [12302\.](%C2%A7%2012302%20-%20Ready%20Reserve.md) | Ready Reserve. |
-| [12303\.](%C2%A7%2012303%20-%20Ready%20Reserve%3B%20members%20not%20assigned%20to%2C%20or%20participating%20satisfactorily%20in%2C%20units.md) | Ready Reserve: members not assigned to, or participating satisfactorily in, units. |
+| [12303\.](%C2%A7%2012303%20-%20Ready%20Reserve%20members%20not%20assigned%20to%2C%20or%20participating%20satisfactorily%20in%2C%20units.md) | Ready Reserve: members not assigned to, or participating satisfactorily in, units. |
 | [12304\.](%C2%A7%2012304%20-%20Selected%20Reserve%20and%20certain%20Individual%20Ready%20Reserve%20members%3B%20order%20to%20active%20duty%20other%20than%20during%20war%20or%20national%20emergency.md) | Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency. |
 | [12305\.](%C2%A7%2012305%20-%20Authority%20of%20President%20to%20suspend%20certain%20laws%20relating%20to%20promotion%2C%20retirement%2C%20and%20separation.md) | Authority of President to suspend certain laws relating to promotion, retirement, and separation. |
 | [12306\.](%C2%A7%2012306%20-%20Standby%20Reserve.md) | Standby Reserve. |
@@ -46,7 +46,7 @@ This chapter is referred to in section 672 of this title; title 37 section 205.
 
 - [&sect; 12301 - Reserve components generally](%C2%A7%2012301%20-%20Reserve%20components%20generally.md)
 - [&sect; 12302 - Ready Reserve](%C2%A7%2012302%20-%20Ready%20Reserve.md)
-- [&sect; 12303 - Ready Reserve; members not assigned to, or participating satisfactorily in, units](%C2%A7%2012303%20-%20Ready%20Reserve%3B%20members%20not%20assigned%20to%2C%20or%20participating%20satisfactorily%20in%2C%20units.md)
+- [&sect; 12303 - Ready Reserve members not assigned to, or participating satisfactorily in, units](%C2%A7%2012303%20-%20Ready%20Reserve%20members%20not%20assigned%20to%2C%20or%20participating%20satisfactorily%20in%2C%20units.md)
 - [&sect; 12304 - Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency](%C2%A7%2012304%20-%20Selected%20Reserve%20and%20certain%20Individual%20Ready%20Reserve%20members%3B%20order%20to%20active%20duty%20other%20than%20during%20war%20or%20national%20emergency.md)
 - [&sect; 12305 - Authority of President to suspend certain laws relating to promotion, retirement, and separation](%C2%A7%2012305%20-%20Authority%20of%20President%20to%20suspend%20certain%20laws%20relating%20to%20promotion%2C%20retirement%2C%20and%20separation.md)
 - [&sect; 12306 - Standby Reserve](%C2%A7%2012306%20-%20Standby%20Reserve.md)

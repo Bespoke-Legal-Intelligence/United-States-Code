@@ -40,7 +40,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 (5) If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).
 
-(Pub. L. 96–465, title I, §601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, §185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, §180(a)(6), Apr. 30, 1994, 108 Stat. 416; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §326\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437.)
+(Pub. L. 96–465, title I, §601, Oct. 17, 1980, 94 Stat. 2094; Pub. L. 100–204, title I, §185(b), Dec. 22, 1987, 101 Stat. 1366; Pub. L. 103–236, title I, §180(a)(6), Apr. 30, 1994, 108 Stat. 416; Pub. L. 106–113, div. B,§1000(a)(7) \[div. A, title III, §326\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437.)
 
 #### Amendments
 

@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-Subject to subsections (c) and (d) of this section, payment under this part may be made for inpatient hospital services or post-hospital extended care services furnished an individual in a religious nonmedical health care institution only if—
+Subject to subsections (c) and (d) of this section, payment under this part may be made for inpatient hospital services or post-hospital extended care services furnished an individual in a religious nonmedical health care institution and for home health services furnished an individual by a religious nonmedical health care institution only if—
 
 &emsp;(1) the individual has an election in effect for such benefits under subsection (b) of this section; and
 
-&emsp;(2) the individual has a condition such that the individual would qualify for benefits under this part for inpatient hospital services or extended care services, respectively, if the individual were an inpatient or resident in a hospital or skilled nursing facility that was not such an institution.
+&emsp;(2) the individual has a condition such that the individual would qualify for benefits under this part for inpatient hospital services, extended care services, or home health services, respectively, if the individual were an inpatient or resident in a hospital or skilled nursing facility, or receiving services from a home health agency, that was not such an institution.
 
 #### (b) Election
 
@@ -64,7 +64,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (A) Proportional adjustment
 
-&emsp;&emsp;If the Secretary determines that the level estimated under paragraph (1) for a fiscal year will exceed the trigger level (as defined in subparagraph (C)) for that fiscal year, the Secretary shall, subject to subparagraph (B), provide for such a proportional reduction in payment amounts under this part for services described in subsection (a) of this section for the fiscal year involved as will assure that such level (taking into account any adjustment under subparagraph (B))does not exceed the trigger level for that fiscal year.
+&emsp;&emsp;If the Secretary determines that the level estimated under paragraph (1) for a fiscal year will exceed the trigger level (as defined in subparagraph (C)) for that fiscal year, the Secretary shall, subject to subparagraph (B), provide for such a proportional reduction in payment amounts under this part for services described in subsection (a) of this section for the fiscal year involved as will assure that such level (taking into account any adjustment under subparagraph (B)) does not exceed the trigger level for that fiscal year.
 
 #### (B) Alternative adjustments
 
@@ -76,7 +76,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the “trigger level” for a year is the unadjusted trigger level described in clause (ii).
+&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the “trigger level” for a year is theunadjusted trigger level described in clause (ii).
 
 #### (ii) Unadjusted trigger level
 
@@ -124,7 +124,13 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 &emsp;(3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
+
+#### Amendments
+
+2003—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted “and for home health services furnished an individual by a religious nonmedical health care institution” after “religious nonmedical health care institution” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 108–173, §706(a)(2), substituted “, extended care services, or home health services” for “or extended care services” and inserted “, or receiving services from a home health agency,” after “skilled nursing facility”.
 
 #### Effective Date
 

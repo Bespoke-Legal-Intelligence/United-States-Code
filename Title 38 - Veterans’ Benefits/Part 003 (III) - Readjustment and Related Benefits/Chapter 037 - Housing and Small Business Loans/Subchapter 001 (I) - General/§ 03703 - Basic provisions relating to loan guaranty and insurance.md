@@ -1,6 +1,6 @@
 ### §3703. Basic provisions relating to loan guaranty and insurance
 
-(a)(1)(A) Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in section 3710 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
+(a)(1)(A) Any loan to a veteran eligible for benefits under this chapter, if made for any of thepurposes specified in section 3710 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
 
 &emsp;(i)(I) in the case of any loan of not more than $45,000, 50 percent of the loan;
 
@@ -14,7 +14,7 @@
 
 (B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, $60,000, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
 
-(2)(A) Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insuredby the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
+(2)(A) Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insured by the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
 
 (B) Loans insured under this section shall be made on such other terms, conditions, and restrictions as the Secretary may prescribe within the limitations set forth in this chapter.
 
@@ -64,7 +64,7 @@
 
 (C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
 
-(3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located,if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.
+(3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.
 
 (e)(1) Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title, or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989, shall have no liability to the Secretary with respect to the loan for any loss resulting from any default of such individual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
 
@@ -96,7 +96,7 @@ The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act
 
 1993—Subsec. (c)(4)(B). Pub. L. 103–78 in second sentence substituted “Except in the case of a loan for the purpose specified in section 3710(a)(8), 3710(b)(7), or 3712(a)(1)(F) of this title, discount” for “Discount”.
 
-1992—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted “applicable to” for “the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for” and struck out “, and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insured under such section 203(b) and on loans guaranteed or insured under this chapter” after “(12 U.S.C. 1709(b))”.
+1992—Subsec. (c)(1). Pub. L. 102–547, §10(a)(1), in first sentence substituted “applicable to” for “the Secretary of Housing and Urban Development considers necessary to meet the mortgage market for” and struck out “, and, to the maximum extent practicable, carry out a coordinated policy on interest rates on loans insuredunder such section 203(b) and on loans guaranteed or insured under this chapter” after “(12 U.S.C. 1709(b))”.
 
 Subsec. (c)(4). Pub. L. 102–547, §10(a)(2), added par. (4).
 
@@ -286,7 +286,7 @@ Section 10(b) of Pub. L. 102–547, as amended by Pub. L. 103–446, title XII, 
 
 #### Expiration of Loan Benefit Entitlement of Certain World War II Veterans
 
-Section 403(c) of Pub. L. 90–77 provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77\[see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title\].
+Section 403(c) of Pub. L. 90–77 provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77 \[see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title\].
 
 #### Section Referred to in Other Sections
 

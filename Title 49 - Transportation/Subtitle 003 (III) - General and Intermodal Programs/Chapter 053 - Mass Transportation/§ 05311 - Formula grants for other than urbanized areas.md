@@ -6,7 +6,7 @@ Definition.—In this section, “recipient” includes a State authority, a loc
 
 (b)
 
-General Authority.—(1) The Secretary of Transportation may make grants for transportation projects that are included in a State program of mass transportation service projects (including service agreements with private providers of mass transportation service) for areas other than urbanized areas. The program shall be submitted annually to the Secretary. The Secretary may approve the program only if the Secretary finds that the program provides a fair distribution of amounts in the State, including Indian reservations, and the maximum feasible coordination of mass transportation service assisted under this section with transportation service assisted by other United States Government sources.
+General Authority.—(1) The Secretary of Transportation may make grants for transportation projects that are included in a State program of mass transportation service projects\(including service agreements with private providers of mass transportation service) for areas other than urbanized areas. The program shall be submitted annually to the Secretary. The Secretary may approve the program only if the Secretary finds that the program provides a fair distribution of amounts in the State, including Indian reservations, and the maximum feasible coordination of mass transportation service assisted under this section with transportation service assisted by other United States Government sources.
 
 (2) The Secretary of Transportation shall carry out a rural transportation assistance program in nonurbanized areas. In carrying out this paragraph, the Secretary may make grants and contracts for transportation research, technical assistance, training, and related support services in nonurbanized areas.
 
@@ -184,5 +184,5 @@ Subsec. (f)(1). Pub. L. 105–178, §3014(a)(2), struck out “10 percent of the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5302, 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 24305, 31138 of this title.
+This section is referred to in sections 5302, 5307, 5310, 5319, 5323, 5327, 5331, 5333, 5334, 5336, 5338, 24305, 31138 of this title.
 

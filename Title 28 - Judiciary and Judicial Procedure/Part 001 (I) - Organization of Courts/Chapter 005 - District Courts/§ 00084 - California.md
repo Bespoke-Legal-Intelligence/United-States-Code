@@ -20,7 +20,7 @@ California is divided into four judicial districts to be known as the Northern, 
 
 &emsp;&emsp;(1) The Eastern Division comprises the counties of Riverside and San Bernardino.
 
-&emsp;&emsp;Court for the Eastern Division shall be held at a suitable site in the city of Riverside, the city of San Bernardino, or not more than 5 miles from the boundary of either such city.
+&emsp;&emsp;Court for the Eastern Division shall be held at a suitable site in the city of Riverside, the city of San Bernardino, or not morethan 5 miles from the boundary of either such city.
 
 &emsp;&emsp;(2) The Western Division comprises the counties of Los Angeles, San Luis Obispo, Santa Barbara, and Ventura.
 
@@ -102,7 +102,7 @@ Section 1 of Pub. L. 102–357 provided that: “The Congress makes the followin
 
 #### Study of Judicial Business in Central District, California and Eastern District, New York and Recommendations for Creation of New Judicial Districts
 
-Pub. L. 95–573, §5, Nov. 2, 1978, 92 Stat. 2458, required the Director of the Administrative Office of the United States Courts to conduct a study of the judicial business of the Central District of California and the Eastern District of New York, within one year of Nov. 2, 1978, and to make recommendations to Congress with respect to the need for creation of new judicial districts.
+Pub. L. 95–573, §5, Nov. 2, 1978, 92 Stat. 2458, required the Director of the Administrative Office of the United States Courts to conduct a study of the judicial business of the Central District of California and the Eastern District of New York, within one year of Nov. 2, 1978, and to make recommendations to Congress withrespect to the need for creation of new judicial districts.
 
 #### Creation of Eastern and Central Districts: Transfer of District Judges; Transfer and Appointment of United States Attorneys and United States Marshals
 

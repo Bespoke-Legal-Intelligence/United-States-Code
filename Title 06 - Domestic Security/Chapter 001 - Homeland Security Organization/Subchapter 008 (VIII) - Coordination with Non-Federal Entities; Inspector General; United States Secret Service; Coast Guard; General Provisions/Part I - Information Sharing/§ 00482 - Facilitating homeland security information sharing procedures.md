@@ -64,6 +64,22 @@
 
 &emsp;(C) Increased use of information-sharing partnerships that include appropriate State and local personnel, such as the Joint Terrorism Task Forces of the Federal Bureau of Investigation, the Anti-Terrorism Task Forces of the Department of Justice, and regional Terrorism Early Warning Groups.
 
+(3)(A) The Secretary shall establish a program to provide appropriate training to officials described in subparagraph (B) in order to assist such officials in—
+
+&emsp;(i) identifying sources of potential terrorist threats through such methods as the Secretary determines appropriate;
+
+&emsp;(ii) reporting information relating to such potential terrorist threats to the appropriate Federal agencies in the appropriate form and manner;
+
+&emsp;(iii) assuring that all reported information is systematically submitted to and passed on by the Department for use by appropriate Federal agencies; and
+
+&emsp;(iv) understanding the mission and roles of the intelligence community to promote more effective information sharing among Federal, State, and local officials and representatives of the private sector to prevent terrorist attacks against the United States.
+
+(B) The officials referred to in subparagraph (A) are officials of State and local government agencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
+
+(C) The Secretary shall consult with the Attorney General to ensure that the training program established in subparagraph (A) does not duplicate the training program established in section 908 of the USA PATRIOT Act (Public Law 107–56; 28 U.S.C. 509 note).
+
+(D) The Secretary shall carry out this paragraph in consultation with the Director of Central Intelligence and the Attorney General.
+
 #### (d) Responsible officials
 
 For each affected Federal agency, the head of such agency shall designate an official to administer this chapter with respect to such agency.
@@ -106,11 +122,45 @@ As used in this section:
 
 #### (g) Construction
 
-Nothing in this chapter shall be construed as authorizing any department, bureau, agency, officer, or employee of the Federal Government torequest, receive, or transmit to any other Government entity or personnel, or transmit to any State or local entity or personnel otherwise authorized by this chapter to receive homeland security information, any information collected by the Federal Government solely for statistical purposes in violation of any other provision of law relating to the confidentiality of such information.
+Nothing in this chapter shall be construed as authorizing any department, bureau, agency, officer, or employee of the Federal Government to request, receive, or transmit to any other Government entity or personnel, or transmit to any State or local entity or personnel otherwise authorized by this chapter to receive homeland security information, any information collected by the Federal Government solely for statistical purposes in violation of any other provision of law relating to the confidentiality of such information.
 
-(Pub. L. 107–296, title VIII, §892, Nov. 25, 2002, 116 Stat. 2253.)
+(Pub. L. 107–296, title VIII, §892, Nov. 25, 2002, 116 Stat. 2253; Pub. L. 108–177, title III, §316(a), Dec. 13, 2003, 117 Stat. 2610.)
+
+#### Amendments
+
+2003—Subsec. (c)(3). Pub. L. 108–177 added par. (3).
+
+#### Ex. Ord. No. 13311. Homeland Security Information Sharing
+
+Ex. Ord. No. 13311, July 29, 2003, 68 F.R. 45149, provided:
+
+By the authority vested in me by the Constitution and the laws of the United States, including sections 892 and 893 of the Homeland Security Act of 2002 (the “Act”) (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Assignment of Functions</i>. (a) The functions of the President under section 892 of the Act are assigned to the Secretary of Homeland Security (the “Secretary”), except the functions of the President under subsections 892(a)(2) and 892(b)(7).
+
+(b) Subject to section 2(b) of this order, the function of the President under section 893 of the Act is assigned to the Secretary.
+
+(c) Procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act shall apply to all agencies of the Federal Government. Such procedures shall specify that the President may make, or may authorize another officer of the United States to make, exceptions to the procedures.
+
+(d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of Central Intelligence, to be exercised jointly.
+
+(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Director of the Office of Management and Budget, the Director of Central Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
+
+(f) A determination, under the procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act, as to whether, or to what extent, an individual who falls within the category of “State and local personnel” as defined in sections 892(f)(3) and (f)(4) of the Act shall have access to information classified pursuant to Executive Order 12958 of April 17, 1995 \[50 U.S.C. 435 note\], as amended, is a discretionary determination and shall be conclusive and not subject to review or appeal.
+
+Sec. 2. <i>Rules of Construction</i>. Nothing in this order shall be construed to impair or otherwise affect:
+
+(a) the authority of the Director of Central Intelligence under section 103(c)(7) of the National Security Act of 1947, as amended (50 U.S.C. 403–3(c)(7)), to protect intelligence sources and methods from unauthorized disclosure;
+
+(b) the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals; or
+
+(c) the provisions of Executive Orders 12958 of April 17, 1995 \[50 U.S.C. 435 note\], as amended, and 12968 of August 2, 1995 \[50 U.S.C. 435 note\], as amended.
+
+Sec. 3. <i>General Provision</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 483, 484.
+This section is referred to in sections 483, 484 of this title.
 

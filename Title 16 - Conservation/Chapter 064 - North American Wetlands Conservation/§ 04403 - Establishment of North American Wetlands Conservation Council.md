@@ -26,7 +26,7 @@
 
 (2) Of the Council members first appointed under subsection (a)(1)(C) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and two shall be appointed for a term of three years.
 
-(3) Of the Council members first appointed under subsection (a)(1)(D) of this section afterDecember 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and one shall be appointed for a term of three years.
+(3) Of the Council members first appointed under subsection (a)(1)(D) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and one shall be appointed for a term of three years.
 
 (4) Whenever a vacancy occurs among members of the Council appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section, the Secretary shall appoint an individual in accordance with either such subsection to fill that vacancy for the remainder of the applicable term.
 
@@ -94,7 +94,7 @@ Pub. L. 105–312, title III, §304, Oct. 30, 1998, 112 Stat. 2958, provided tha
 
 “(a)
 
-In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
+In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands Conservation Act (16U.S.C. 4403(a)(1)(D)), during the period of 1999 through 2002, the membership of the North American Wetlands Conservation Council under section 4(a)(1)(D) of that Act shall consist of—
 
 &emsp;“(1) 1 individual who shall be the Group Manager for Conservation Programs of Ducks Unlimited, Inc. and who shall serve for 1 term of 3 years beginning in 1999; and
 

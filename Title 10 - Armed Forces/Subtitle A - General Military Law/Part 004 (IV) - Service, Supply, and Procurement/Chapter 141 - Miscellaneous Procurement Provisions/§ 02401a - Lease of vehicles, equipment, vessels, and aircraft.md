@@ -8,7 +8,7 @@ Leasing of Commercial Vehicles and Equipment.—The Secretary of Defense may use
 
 Limitation on Contracts With Terms of 18
 
-Months or More.—The Secretary of Defense or the Secretary of a military department maynot enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
+Months or More.—The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 
 (Added Pub. L. 103–355, title III, §3065(a)(1), Oct. 13, 1994, 108 Stat. 3337; amended Pub. L. 104–106, div. A, title VIII, §807(a)(1), Feb. 10, 1996, 110 Stat. 391; Pub. L. 105–85, div. A, title X, §1073(a)(52), Nov. 18, 1997, 111 Stat. 1903.)
 
@@ -22,11 +22,59 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “such leasing” for “leasing of such vehicles”.
 
-1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
+1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designatedexisting text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
+
+#### Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program
+
+Pub. L. 107–314, div. A, title I, §133, Dec. 2, 2002, 116 Stat. 2477, provided that: “The Secretary of the Air Force may not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284; 10 U.S.C. 2401a note) until—
+
+&emsp;“(1) the Secretary submits the report specified in subsection (c)(6) of such section; and
+
+&emsp;“(2) either—
+
+&emsp;&emsp;“(A) authorization and appropriation of funds necessary to enter into such lease are provided by law; or
+
+&emsp;&emsp;“(B) a new start reprogramming notification for the funds necessary to enter into such lease has been submitted in accordance with established procedures.”
 
 #### Multi-Year Aircraft Lease Pilot Program
 
-Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, provided that:
+Pub. L. 108–136, div. A, title I, §135, Nov. 24, 2003, 117 Stat. 1413, provided that:
+
+“(a)
+
+Leased Aircraft.—The Secretary of the Air Force may lease no more than 20 tanker aircraft under the multiyear aircraft lease pilot program referred to in subsection (d).
+
+“(b)
+
+Multiyear Procurement Authority.—(1) Beginning with the fiscal year 2004 program year, the Secretary of the Air Force may, in accordance with section 2306b of title 10, United States Code, enter into a multiyear contract for the purchase of tanker aircraft necessary to meet the requirements of the Air Force for which leasing of tanker aircraft is provided for under the multiyear aircraft lease pilot program but for which the number of tanker aircraft leased under the authority of subsection (a) is insufficient.
+
+“(2) The total number of tanker aircraft purchased through a multiyear contract under this subsection may not exceed 80.
+
+“(3) Notwithstanding subsection (k) of section 2306b of title 10, United States Code, a contract under this subsection may be for any period not in excess of 10 program years.
+
+“(4) A multiyear contract under this subsection may be initiated or continued for any fiscal year for which sufficient funds are available to pay the costs of such contract for that fiscal year, without regard to whether funds are available to pay the costs of such contract for any subsequent fiscal year. Such contract shall provide, however, that performance under the contract during the subsequent year or years of the contract is contingent upon the appropriation of funds and shall also provide for a cancellation payment to be made to the contractor if such appropriations are not made.
+
+“(c)
+
+Study of Long-Term Tanker Aircraft Maintenance and Training Requirements.—(1) The Secretary of Defense shall carry out a study to identify alternative means for meeting the long-term requirements of the Air Force for—
+
+&emsp;“(A) the maintenance of tanker aircraft leased under the multiyear aircraft lease pilot program or purchased under subsection (b); and
+
+&emsp;“(B) training in the operation of tanker aircraft leased under the multiyear aircraft lease pilot program or purchased under subsection (b).
+
+“(2) Not later than April 1, 2004, the Secretary of Defense shall submit a report on the results of the study to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\].
+
+“(d)
+
+Multiyear Aircraft Lease Pilot Program Defined.—In this section, the term ‘multiyear aircraft lease pilot program’ means the aerial refueling aircraft program authorized under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284 \[set out below\]).
+
+“(e)
+
+Sense of Congress.—It is the sense of Congress that, in budgeting for a program to acquire new tanker aircraft for the Air Force, the President should ensure that sufficient budgetary resources are provided to the Department of Defense to fully execute the program and to further ensure that all other critical defense programs are fully and properly funded.”
+
+Pub. L. 107–206, title I, §308, Aug. 2, 2002, 116 Stat. 841, provided that: “During the current fiscal year and hereafter, section 2533a of title 10, United States Code, shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284) \[set out below\].”
+
+Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as amended by Pub. L. 107–248, title VIII, §8117, Oct. 23, 2002, 116 Stat. 1564, provided that:
 
 “(a) The Secretary of the Air Force may, from funds provided in this Act \[see Tables for classification\] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration.
 
@@ -34,7 +82,7 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, pr
 
 “(c) Under the aircraft lease Pilot Program authorized by this section:
 
-&emsp;“(1) The Secretary may include terms and conditions in lease agreements that are customary in aircraft leases by a non-Government lessor to a non-Government lessee, but only those that are not inconsistent with any of the terms and conditions mandated herein.
+&emsp;“(1) The Secretary may include terms and conditions in lease agreements that are customary in aircraft leases by a non-Government lessor to a non-Government lessee, but only those that are not inconsistent with any of the terms and conditions mandated herein. Notwithstanding the provisions of Section 3324 of Title 31, United States Code, payment for the acquisition of leasehold interests under this section may be made for each annual term up to one year in advance.
 
 &emsp;“(2) The term of any individual lease agreement into which the Secretary enters under this section shall not exceed 10 years, inclusive of any options to renew or extend the initial lease term.
 
@@ -50,7 +98,7 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, pr
 
 &emsp;&emsp;“(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 
-&emsp;“(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program.
+&emsp;“(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be basedon at least 6 months of experience in operating the Pilot Program.
 
 &emsp;“(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration.
 
@@ -66,7 +114,9 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, pr
 
 “(e) The authority granted to the Secretary of the Air Force by this section is separate from and in addition to, and shall not be construed to impair or otherwise affect, the authority of the Secretary to procure transportation or enter into leases under a provision of law other than this section.
 
-“(f) The authority provided under this section may be used to lease not more than a total of 100 Boeing 767 aircraft and 4 Boeing 737 aircraft for the purposes specified herein.”
+“(f) The authority provided under this section may be used to lease not more than a total of 100 Boeing 767 aircraft and 4 Boeing 737 aircraft for the purposes specified herein.
+
+“(g) Notwithstanding any other provision of law, any payments required for a lease entered into under this Section, or any payments made pursuant to subsection (c)(3) above, may be made from appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the lease takes effect; appropriations available for operation and maintenance or for lease or procurement of aircraft at the time that the payment is due; or funds appropriated for those payments.”
 
 Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided that:
 

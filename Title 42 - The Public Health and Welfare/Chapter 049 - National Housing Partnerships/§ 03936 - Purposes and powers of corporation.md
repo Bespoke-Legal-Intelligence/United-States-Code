@@ -6,7 +6,7 @@ In order to achieve the objectives and carry out the purposes of this chapter, t
 
 &emsp;(1) plan, initiate, and carry out, pursuant to Federal programs or otherwise, the building, rehabilitation, acquisition, and financing of housing and related facilities primarily for the benefit of families and individuals of low or moderate income;
 
-&emsp;(2) buy, own, manage, lease, or otherwise acquire or dispose of property in connection with the developments, projects, or undertakings referred to in paragraph (1);
+&emsp;(2) buy, own, manage, lease, or otherwise acquire or dispose of property in connection withthe developments, projects, or undertakings referred to in paragraph (1);
 
 &emsp;(3) provide such funds as may be necessary to accomplish the developments, projects, or undertakings referred to in paragraph (1); and
 

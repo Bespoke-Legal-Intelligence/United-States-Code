@@ -14,7 +14,7 @@ Distributor or Dealer Installation.—The distributor or dealer shall install th
 
 (c)
 
-Establishing Amount Due and Civil Actions.—The parties shall establish the value of installation and the amount of reimbursement under this section. If the parties do not agree, or if a manufacturer or distributor refuses to comply with subsection (a) or (b) of this section, the distributor or dealer purchasing the motor vehicle or motor vehicle equipment may bring a civil action. The action may be brought in a United States district court for the judicial district in which the manufacturer or distributor resides, is found, or has an agent, to recover damages, court costs, and a reasonable attorney's fee. An action under this section must be brought not later than 3 years after the claim accrues.
+Establishing Amount Due and Civil Actions.—The parties shall establish the value of installation and the amount of reimbursement under this section. If the parties do not agree, orif a manufacturer or distributor refuses to comply with subsection (a) or (b) of this section, the distributor or dealer purchasing the motor vehicle or motor vehicle equipment may bring a civil action. The action may be brought in a United States district court for the judicial district in which the manufacturer or distributor resides, is found, or has an agent, to recover damages, court costs, and a reasonable attorney's fee. An action under this section must be brought not later than 3 years after the claim accrues.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 947.)
 

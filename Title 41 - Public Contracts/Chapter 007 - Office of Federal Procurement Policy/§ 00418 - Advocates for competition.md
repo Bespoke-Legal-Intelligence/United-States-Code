@@ -6,7 +6,7 @@
 
 (2) The head of each executive agency shall—
 
-&emsp;(A) designate for the executive agency and for each procuring activity of the executive agency one officer or employee serving in a position authorized for such executive agency on July 18, 1984 (other than the senior procurement executive designated pursuant to section 414(3) of this title) to serve as the advocate for competition;
+&emsp;(A) designate for the executive agency and for each procuring activity of the executive agency one officer or employee serving in a position authorized for such executive agency on July 18, 1984 (other than the senior procurement executive designated pursuant to section 414(3) <sup>1</sup> of this title) to serve as the advocate for competition;
 
 &emsp;(B) not assign such officers or employees any duties or responsibilities that are inconsistent with the duties and responsibilities of the advocates for competition; and
 
@@ -20,11 +20,11 @@ The advocate for competition of an executive agency shall—
 
 &emsp;(2) review the procurement activities of the executive agency;
 
-&emsp;(3) identify and report to the senior procurement executive of the executive agency designated pursuant to section 414(3) of this title—
+&emsp;(3) identify and report to the senior procurement executive of the executive agency designated pursuant to section 414(3) <sup>1</sup> of this title—
 
 &emsp;&emsp;(A) opportunities and actions taken to achieve full and open competition in the procurement activities of the executive agency; and
 
-&emsp;&emsp;(B) any condition or action which has the effect of unnecessarily restricting competition in the procurement actions of the executive agency; and <sup>1</sup>
+&emsp;&emsp;(B) any condition or action which has the effect of unnecessarily restricting competition in the procurement actions of the executive agency; and <sup>2</sup>
 
 &emsp;(4) prepare and transmit to such senior procurement executive an annual report describing—
 
@@ -34,7 +34,7 @@ The advocate for competition of an executive agency shall—
 
 &emsp;&emsp;(C) barriers to full and open competition that remain;
 
-&emsp;(5) recommend to the senior procurement executive of the executive agency goals and theplans for increasing competition on a fiscal year basis;
+&emsp;(5) recommend to the senior procurement executive of the executive agency goals and the plans for increasing competition on a fiscal year basis;
 
 &emsp;(6) recommend to the senior procurement executive of the executive agency a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in procurement programs; and
 
@@ -45,6 +45,10 @@ The advocate for competition of an executive agency shall—
 The advocate for competition for each procuring activity shall be responsible for promoting full and open competition, promoting the acquisition of commercial items, and challenging barriers to such acquisition, including such barriers as unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
 (Pub. L. 93–400, §20, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; amended Pub. L. 103–355, title VIII, §8303(a), Oct. 13, 1994, 108 Stat. 3398.)
+
+#### References in Text
+
+Section 414 of this title, referred to in subsecs. (a)(2)(A) and (b)(3), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
 #### Amendments
 
@@ -62,5 +66,7 @@ Section applicable to any solicitation for bids or proposals issued after Mar. 3
 
 This section is referred to in title 10 section 2318.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

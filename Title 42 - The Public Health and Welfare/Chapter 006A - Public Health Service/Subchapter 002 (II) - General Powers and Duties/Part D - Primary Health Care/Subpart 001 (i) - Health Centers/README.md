@@ -29,4 +29,5 @@ subpart i—health centers
 - [&sect; 00254c&#8211;14 - Telehealth network and telehealth resource centers grant programs](%C2%A7%2000254c%E2%80%9314%20-%20Telehealth%20network%20and%20telehealth%20resource%20centers%20grant%20programs.md)
 - [&sect; 00254c&#8211;15 - Rural emergency medical service training and equipment assistance program](%C2%A7%2000254c%E2%80%9315%20-%20Rural%20emergency%20medical%20service%20training%20and%20equipment%20assistance%20program.md)
 - [&sect; 00254c&#8211;16 - Mental health services delivered via telehealth](%C2%A7%2000254c%E2%80%9316%20-%20Mental%20health%20services%20delivered%20via%20telehealth.md)
-- [&sect; 00254c&#8211;17 - Telemedicine; incentive grants regarding coordination among States](%C2%A7%2000254c%E2%80%9317%20-%20Telemedicine%3B%20incentive%20grants%20regarding%20coordination%20among%20States.md)
+- [&sect; 00254c&#8211;17 - Repealed. Pub. L. 108&#8211;163, &sect;2(e)(2), Dec. 6, 2003, 117 Stat. 2021](%C2%A7%2000254c%E2%80%9317%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93163%2C%20%C2%A72%28e%29%282%29%2C%20Dec.%206%2C%202003%2C%20117%20Stat.%202021.md)
+- [&sect; 00254c&#8211;18 - Telemedicine; incentive grants regarding coordination among States](%C2%A7%2000254c%E2%80%9318%20-%20Telemedicine%3B%20incentive%20grants%20regarding%20coordination%20among%20States.md)

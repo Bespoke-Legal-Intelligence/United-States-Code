@@ -24,45 +24,89 @@
 
 &emsp;From the remainder of any sums appropriated under the authority of section 9123 of this title that are not reserved under subsection (a) of this section and not allotted under paragraph (1) for any fiscal year, the Director shall award grants to each State in an amount that bears the same relation to such remainder as the population of the State bears to the population of all States.
 
-#### (3) Minimum allotment
+#### (3) Minimum allotments
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this subsection, the minimum allotment for each State shall be $340,000, except that the minimum allotment shall be $40,000 in the case of the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;&emsp;For purposes of this subsection, the minimum allotment for each State shall be $340,000, except that the minimum allotment shall be $40,000 in the case of the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (B) Ratable reductions
 
-&emsp;&emsp;If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year is insufficient to fully satisfy the aggregate of the minimum allotments for all States for that purpose for such year, each of such minimum allotments shall be reduced ratably.
+&emsp;&emsp;Notwithstanding subparagraph (A), if the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year is insufficient to fully satisfy the requirement of subparagraph (A), each of the minimum allotments under such subparagraph shall be reduced ratably.
 
-#### (C) Special rule
+#### (C) Exception
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), if the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2003—
+
+&emsp;&emsp;&emsp;&emsp;(I) the minimum allotment for each State otherwise receiving a minimum allotment of $340,000 under subparagraph (A) shall be increased to $680,000; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the minimum allotment for each State otherwise receiving a minimum allotment of $40,000 under subparagraph (A) shall be increased to $60,000.
+
+#### (ii) Insufficient funds to award alternative minimum
+
+&emsp;&emsp;&emsp;If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2003 yet is insufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $340,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $40,000.
+
+#### (D) Special rule
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
 
 #### (ii) Award basis
 
-&emsp;&emsp;&emsp;The Director shall award grants pursuant to clause (i) on a competitive basis and pursuant to recommendations from the Pacific Region Educational Laboratory in Honolulu, Hawaii.
+&emsp;&emsp;&emsp;The Director shall award grants pursuant to clause (i) on a competitive basis and after taking into consideration available recommendations from the Pacific Region Educational Laboratory in Honolulu, Hawaii.
 
-#### (iii) Termination of eligibility
-
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau shall not receive any funds under this subchapter for any fiscal year that begins after September 30, 2001.
-
-#### (iv) Administrative costs
+#### (iii) Administrative costs
 
 &emsp;&emsp;&emsp;The Director may provide not more than 5 percent of the funds made available for grants under this subparagraph to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subparagraph.
 
 #### (4) Data
 
-&emsp;The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
+&emsp;The population of each State and of all the States shall be determined by the Director onthe basis of the most recent data available from the Bureau of the Census.
 
-(Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548.)
+(Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §204, Sept. 25, 2003, 117 Stat. 997.)
 
 #### Amendments
+
+2003—Subsec. (b)(3). Pub. L. 108–81 amended heading and text of par. (3) generally. Prior to amendment, text read as follows:
+
+“(A)
+
+In general.—For the purposes of this subsection, the minimum allotment for each State shall be $340,000, except that the minimum allotment shall be $40,000 in the case of the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+
+“(B)
+
+Ratable reductions.—If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year is insufficient to fully satisfy the aggregate of the minimum allotments for all States for that purpose for such year, each of such minimum allotments shall be reduced ratably.
+
+“(C)
+
+Special rule.—
+
+&emsp;“(i)
+
+In general.—Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
+
+&emsp;“(ii)
+
+Award basis.—The Director shall award grants pursuant to clause (i) on a competitive basis and pursuant to recommendations from the Pacific Region Educational Laboratory in Honolulu, Hawaii.
+
+&emsp;“(iii)
+
+Termination of eligibility.—Notwithstanding any other provision of law, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau shall not receive any funds under this subchapter for any fiscal year that begins after September 30, 2001.
+
+&emsp;“(iv)
+
+Administrative costs.—The Director may provide not more than 5 percent of the funds made available for grants under this subparagraph to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subparagraph.”
 
 1997—Subsec. (a)(1)(A). Pub. L. 105–128, §4(1), substituted “1.75 percent” for “11/2 percent”.
 
 Subsec. (a)(1)(B). Pub. L. 105–128, §4(2), substituted “3.75 percent” for “4 percent”.
+
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–81 effective Oct. 1, 2003, see section 506 of Pub. L. 108–81, set out as a note under section 9101 of this title.
 
 #### Section Referred to in Other Sections
 

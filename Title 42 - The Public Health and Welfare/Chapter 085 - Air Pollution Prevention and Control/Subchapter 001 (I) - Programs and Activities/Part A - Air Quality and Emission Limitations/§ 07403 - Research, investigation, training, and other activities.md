@@ -42,7 +42,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(1) Consideration of individual, as well as complex mixtures of, air pollutants and their chemical transformations in the atmosphere.
 
-&emsp;(2) Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trendsof air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
+&emsp;(2) Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trends of air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
 
 &emsp;(3) Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increase understanding of the sources of ozone percursors,<sup>1</sup> ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
 
@@ -144,7 +144,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 (1) The Director of the National Institute of Environmental Health Sciences may conduct a program of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
 
-(2) The Director of the National Institute of Environmental Health Sciences shall conduct aprogram for the education and training of physicians in environmental health.
+(2) The Director of the National Institute of Environmental Health Sciences shall conduct a program for the education and training of physicians in environmental health.
 
 (3) The Director shall assure that such programs shall not conflict with research undertaken by the Administrator.
 
@@ -182,7 +182,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;(C) Publication and maintenance of a National Acid Lakes Registry that tracks the condition and change over time of a statistically representative sample of lakes in regions that are known to be sensitive to surface water acidification.
 
-&emsp;(D) Submission every two years of a unified budget recommendation to the President for activities of the Federal Government in connection with the research program described in this subsection.
+&emsp;(D) Submission every two years of a unified budget recommendation to the President foractivities of the Federal Government in connection with the research program described in this subsection.
 
 &emsp;(E) Beginning in 1992 and biennially thereafter, submission of a report to Congress describing the results of its investigations and analyses. The reporting of technical information about acid deposition shall be provided in a format that facilitates communication with policymakers and the public. The report shall include—
 
@@ -238,7 +238,7 @@ Subsecs. (g) to (k). Pub. L. 101–549, §901(c), added subsecs. (g) to (k).
 
 1977—Subsec. (a). Pub. L. 95–95, §101(b), struck out reference to “training” in par. (1) and added par. (5).
 
-Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
+Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a),to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
 
 1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 

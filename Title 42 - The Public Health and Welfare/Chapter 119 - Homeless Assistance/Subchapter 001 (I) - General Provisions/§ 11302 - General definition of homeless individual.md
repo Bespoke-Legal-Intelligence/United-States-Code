@@ -18,7 +18,7 @@ For purposes of this chapter, the term “homeless” or “homeless individual 
 
 #### (1) In general
 
-&emsp;A homeless individual shall be eligible for assistance under any program provided by this chapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
+&emsp;A homeless individual shall be eligible for assistance under any program provided by thischapter, only if the individual complies with the income eligibility requirements otherwise applicable to such program.
 
 #### (2) Exception
 

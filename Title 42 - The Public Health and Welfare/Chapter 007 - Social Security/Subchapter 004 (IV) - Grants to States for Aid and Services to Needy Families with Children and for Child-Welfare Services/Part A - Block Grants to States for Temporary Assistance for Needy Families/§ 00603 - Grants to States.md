@@ -6,67 +6,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, and 2002, a grant in an amount equal to the State family assistance grant.
+&emsp;&emsp;Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003, a grant in an amount equal to the State family assistance grant.
 
-#### (B) “State family assistance grant” defined
+#### (B) State family assistance grant
 
-&emsp;&emsp;As used in this part, the term “State family assistance grant” means the greatest of—
+&emsp;&emsp;The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph as the amount required to be paid to the State under this paragraph for fiscal year 2002 (determined without regard to anyreduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
 
-&emsp;&emsp;&emsp;(i) 1/3 of the total amount required to be paid to the State under former section 603 of this title (as in effect on September 30, 1995) for fiscal years 1992, 1993, and 1994 (other than with respect to amounts expended by the State for child care under subsection (g) or (i) of former section 602 of this title (as so in effect));
+#### (C) Appropriation
 
-&emsp;&emsp;&emsp;(ii)(I) the total amount required to be paid to the State under former section 603 of this title for fiscal year 1994 (other than with respect to amounts expended by the State for child care under subsection (g) or (i) of former section 602 of this title (as so in effect)); plus
-
-&emsp;&emsp;&emsp;(II) an amount equal to 85 percent of the amount (if any) by which the total amount required to be paid to the State under former section 603(a)(5) of this title for emergency assistance for fiscal year 1995 exceeds the total amount required to be paid to the State under former section 603(a)(5) of this title for fiscal year 1994, if, during fiscal year 1994 or 1995, the Secretary approved under former section 602 of this title an amendment to the former State plan with respect to the provision of emergency assistance; or
-
-&emsp;&emsp;&emsp;(iii) 4/3 of the total amount required to be paid to the State under former section 603 of this title (as in effect on September 30, 1995) for the 1st 3 quarters of fiscal year 1995 (other than with respect to amounts expended by the State under the State plan approved under part F of this subchapter (as so in effect) or for child care under subsection (g) or (i) of former section 602 of this title (as so in effect)), plus the total amount required to be paid to the State for fiscal year 1995 under former section 603(<i>l</i>) of this title (as so in effect).
-
-#### (C) “Total amount required to be paid to the State under former section 603” defined
-
-&emsp;&emsp;As used in this part, the term “total amount required to be paid to the State under former section 603 of this title” means, with respect to a fiscal year—
-
-&emsp;&emsp;&emsp;(i) in the case of a State to which section 1308 of this title does not apply, the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the Federal share of maintenance assistance expenditures for the fiscal year, before reduction pursuant to subparagraph (B) or (C) of section 603(b)(2) of this title (as in effect on September 30, 1995), as reported by the State on ACF Form 231;
-
-&emsp;&emsp;&emsp;&emsp;(II) the Federal share of administrative expenditures (including administrative expenditures for the development of management information systems) for the fiscal year, as reported by the State on ACF Form 231;
-
-&emsp;&emsp;&emsp;&emsp;(III) the Federal share of emergency assistance expenditures for the fiscal year, as reported by the State on ACF Form 231;
-
-&emsp;&emsp;&emsp;&emsp;(IV) the Federal share of expenditures for the fiscal year with respect to child care pursuant to subsections (g) and (i) of former section 602 of this title (as in effect on September 30, 1995), as reported by the State on ACF Form 231; and
-
-&emsp;&emsp;&emsp;&emsp;(V) the Federal obligations made to the State under section 603 of this title for the fiscal year with respect to the State program operated under part F of this subchapter (as in effect on September 30, 1995), as determined by the Secretary, including additional obligations or reductions in obligations made after the close of the fiscal year; and
-
-&emsp;&emsp;&emsp;(ii) in the case of a State to which section 1308 of this title applies, the lesser of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the sum described in clause (i); or
-
-&emsp;&emsp;&emsp;&emsp;(II) the total amount certified by the Secretary under former section 603 of this title (as in effect during the fiscal year) with respect to the territory.
-
-#### (D) Information to be used in determining amounts
-
-#### (i) For fiscal years 1992 and 1993
-
-&emsp;&emsp;&emsp;(I) In determining the amounts described in subclauses (I) through (IV) of subparagraph (C)(i) for any State for each of fiscal years 1992 and 1993, the Secretary shall use information available as of April 28, 1995.
-
-&emsp;&emsp;&emsp;(II) In determining the amount described in subparagraph (C)(i)(V) for any State for each of fiscal years 1992 and 1993, the Secretary shall use information available as of January 6, 1995.
-
-#### (ii) For fiscal year 1994
-
-&emsp;&emsp;&emsp;In determining the amounts described in subparagraph (C)(i) for any State for fiscal year 1994, the Secretary shall use information available as of April 28, 1995.
-
-#### (iii) For fiscal year 1995
-
-&emsp;&emsp;&emsp;(I) In determining the amount described in subparagraph (B)(ii)(II) for any State for fiscal year 1995, the Secretary shall use the information which was reported by the States and estimates made by the States with respect to emergency assistance expenditures and was available as of August 11, 1995.
-
-&emsp;&emsp;&emsp;(II) In determining the amounts described in subclauses (I) through (III) of subparagraph (C)(i) for any State for fiscal year 1995, the Secretary shall use information available as of October 2, 1995.
-
-&emsp;&emsp;&emsp;(III) In determining the amount described in subparagraph (C)(i)(IV) for any State for fiscal year 1995, the Secretary shall use information available as of February 28, 1996.
-
-&emsp;&emsp;&emsp;(IV) In determining the amount described in subparagraph (C)(i)(V) for any State for fiscal year 1995, the Secretary shall use information available as of October 5, 1995.
-
-#### (E) Appropriation
-
-&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1996, 1997, 1998, 1999, 2000, 2001, and 2002 such sums as are necessary for grants under this paragraph.
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2003 $16,566,542,000 for grants under this paragraph.
 
 #### (2) Bonus to reward decrease in illegitimacy ratio
 
@@ -120,7 +68,7 @@
 
 #### (ii) Bonus year
 
-&emsp;&emsp;&emsp;The term “bonus year” means calendar years 1999, 2000, 2001, and 2002.
+&emsp;&emsp;&emsp;The term “bonus year” means calendar years 1999, 2000, 2001, 2002, and 2003.
 
 #### (iii) Illegitimacy ratio
 
@@ -132,7 +80,7 @@
 
 #### (D) Appropriation
 
-&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1999 through 2002, such sums as are necessary for grants under this paragraph.
+&emsp;&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1999 through 2003, such sums as are necessary for grants under this paragraph.
 
 #### (3) Supplemental grant for population increases in certain States
 
@@ -144,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(ii) for each of fiscal years 1999, 2000, and 2001, a grant in an amount equal to the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount (if any) required to be paid to the State under this paragraph for the immediately preceding fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(I) the amount (if any) required to be paid to the State under this paragraphfor the immediately preceding fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) 2.5 percent of the sum of—
 
@@ -154,7 +102,7 @@
 
 #### (B) Preservation of grant without increases for States failing to remain qualifying States
 
-&emsp;&emsp;Each State that is not a qualifying State for a fiscal year specified in subparagraph (A)(ii) but was a qualifying State for a prior fiscal year shall, subject to subparagraph (F), be entitled to receive from the Secretary for the specified fiscal year, a grant in an amount equal to the amount required to be paid to the State under this paragraphfor the most recent fiscal year for which the State was a qualifying State.
+&emsp;&emsp;Each State that is not a qualifying State for a fiscal year specified in subparagraph (A)(ii) but was a qualifying State for a prior fiscal year shall, subject to subparagraph (F), be entitled to receive from the Secretary for the specified fiscal year, a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year for which the State was a qualifying State.
 
 #### (C) Qualifying State
 
@@ -218,15 +166,15 @@
 
 &emsp;&emsp;Notwithstanding section 907(b)(2) of title 2, the baseline shall assume that no grant shall be made under this paragraph after fiscal year 2001.
 
-#### (H) Reauthorization of grants for fiscal year 2002
+#### (H) Reauthorization
 
 &emsp;&emsp;Notwithstanding any other provision of this paragraph—
 
-&emsp;&emsp;&emsp;(i) any State that was a qualifying State under this paragraph for fiscal year 2001 or any prior fiscal year shall be entitled to receive from the Secretary for fiscal year 2002 a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year in which the State was a qualifying State;
+&emsp;&emsp;&emsp;(i) any State that was a qualifying State under this paragraph for fiscal year 2001 or any prior fiscal year shall be entitled to receive from the Secretary for each of fiscal years 2002 and 2003 a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year in which the State was a qualifying State;
 
-&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “2002” were substituted for “2001”; and
+&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “March 31, 2004” were substituted for “fiscal year 2001”; and
 
-&emsp;&emsp;&emsp;(iii) out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2002 such sums as are necessary for grants under this subparagraph.
+&emsp;&emsp;&emsp;(iii) out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2002 and 2003 such sums as are necessary for grants under this subparagraph.
 
 #### (4) Bonus to reward high performance States
 
@@ -238,7 +186,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) of this subparagraph, the Secretary shall determine the amount of the grant payable under thisparagraph to a high performing State for a bonus year, which shall be based on the score assigned to the State under subparagraph (D)(i) for the fiscal year that immediately precedes the bonus year.
+&emsp;&emsp;&emsp;Subject to clause (ii) of this subparagraph, the Secretary shall determine the amount of the grant payable under this paragraph to a high performing State for a bonus year, which shall be based on the score assigned to the State under subparagraph (D)(i) for the fiscal year that immediately precedes the bonus year.
 
 #### (ii) Limitation
 
@@ -300,7 +248,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) contains evidence that the plan was developed in consultation and coordination with appropriate entitites <sup>1</sup> in sub-State areas;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) contains assurances by the Governor of the State that the private industry council (and any alternate agency designated by the Governor under item (ee)) for a service delivery area in the State will coordinate the expenditure of any funds provided under this subparagraph for the benefit of the service delivery area with the expenditure of the funds provided to the State under paragraph (1);
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) contains assurances by the Governor of the State that the private industry council (and any alternateagency designated by the Governor under item (ee)) for a service delivery area in the State will coordinate the expenditure of any funds provided under this subparagraph for the benefit of the service delivery area with the expenditure of the funds provided to the State under paragraph (1);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
 
@@ -412,7 +360,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) moving recipients of assistance under State programs funded under this part who are least job ready into unsubsidized employment, even in labor markets that have a shortage of low-skill jobs.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) moving recipients of assistance under State programs funded underthis part who are least job ready into unsubsidized employment, even in labor markets that have a shortage of low-skill jobs.
 
 &emsp;&emsp;&emsp;&emsp;(II) At the discretion of the Secretary of Labor, any of the following:
 
@@ -482,7 +430,7 @@
 
 #### (iii) Noncustodial parents
 
-&emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph may use the funds to provide services in a form described in clause (i) to noncustodial parents with respect to whom the requirements of the following subclauses are met:
+&emsp;&emsp;&emsp;An entity that operates a project with funds provided under this paragraph mayuse the funds to provide services in a form described in clause (i) to noncustodial parents with respect to whom the requirements of the following subclauses are met:
 
 &emsp;&emsp;&emsp;&emsp;(I) The noncustodial parent is unemployed, underemployed, or having difficulty in paying child support obligations.
 
@@ -492,7 +440,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) The minor child is eligible for, or is receiving, benefits under the program funded under this part.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) The minor child received benefits under the program funded underthis part in the 12-month period preceding the date of the determination but no longer receives such benefits.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) The minor child received benefits under the program funded under this part in the 12-month period preceding the date of the determination but no longer receives such benefits.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) The minor child is eligible for, or is receiving, assistance under the Food Stamp Act of 1977 \[7 U.S.C. 2011 et seq.\], benefits under the supplemental security income program under subchapter XVI of this chapter, medical assistance under subchapter XIX of this chapter, or child health assistance under subchapter XXI of this chapter.
 
@@ -524,7 +472,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) to custodial parents with incomes below 100 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section, applicable to a family of the size involved).
 
-&emsp;&emsp;&nbsp;To the extent that the entity does not expend such funds in accordance with thepreceding sentence, the entity shall expend such funds in accordance with clauses (ii) and (iii) and, as appropriate, clause (v).
+&emsp;&emsp;&nbsp;To the extent that the entity does not expend such funds in accordance with the preceding sentence, the entity shall expend such funds in accordance with clauses (ii) and (iii) and, as appropriate, clause (v).
 
 #### (v) Authority to provide work-related services to individuals who have reached the 5-year limit
 
@@ -580,7 +528,7 @@
 
 #### (E) Funding for Indian tribes
 
-&emsp;&emsp;1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants to Indian tribes under section 612(a)(3) of this title.
+&emsp;&emsp;1 percent of the amount specified in subparagraph (H) for fiscal year 1998 and $15,000,000 of the amount so specified for fiscal year 1999 shall be reserved for grants toIndian tribes under section 612(a)(3) of this title.
 
 #### (F) Funding for evaluations of welfare-to-work programs
 
@@ -594,7 +542,7 @@
 
 #### (ii) Authority to use funds for evaluations of welfare-to-work programs
 
-&emsp;&emsp;&emsp;Any such amount not required for such evaluations shall be available for use bythe Secretary to carry out section 613(j) of this title.
+&emsp;&emsp;&emsp;Any such amount not required for such evaluations shall be available for use by the Secretary to carry out section 613(j) of this title.
 
 #### (iii) Deadline for outlays
 
@@ -666,7 +614,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) prohibition of placement of a participant with an employer that has violated clause (i), (ii), or (iii);
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) where applicable, reinstatement of an employee, payment of lost wages and benefits, and reestablishment of other relevant terms, conditions and privileges of employment; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) where applicable, reinstatement of an employee, payment of lost wagesand benefits, and reestablishment of other relevant terms, conditions and privileges of employment; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) where appropriate, other equitable relief.
 
@@ -678,7 +626,7 @@
 
 #### (bb) Final determination
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Not later than 120 days after the State agency designated under item (aa) receives a grievance or complaint made under the procedure establishedby a State pursuant to subclause (I), the State agency shall make a final determination on the appeal.
+&emsp;&emsp;&emsp;&emsp;&emsp;Not later than 120 days after the State agency designated under item (aa) receives a grievance or complaint made under the procedure established by a State pursuant to subclause (I), the State agency shall make a final determination on the appeal.
 
 #### (v) Rule of interpretation
 
@@ -700,7 +648,7 @@
 
 #### (2) Deposits into Fund
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1997, 1998, 1999, 2000, 2001, and 2002 such sums as are necessary for payment to the Fund in a total amount not to exceed $2,000,000,000, reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii).
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003 such sums as are necessary for payment to the Fund in a total amount not to exceed $2,000,000,000, reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii).
 
 #### (3) Grants
 
@@ -720,7 +668,7 @@
 
 #### (ii) Payments to all States
 
-&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2002 shall not exceed the total amount appropriated pursuant to paragraph (2).
+&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2004 shall not exceed the total amount appropriated pursuant to paragraph (2).
 
 #### (4) “Eligible month” defined
 
@@ -738,7 +686,7 @@
 
 &emsp;&emsp;(B) as determined by the Secretary of Agriculture (in the discretion of the Secretary of Agriculture), the monthly average number of individuals (as of the last day of each month) participating in the food stamp program in the State in the then most recently concluded 3-month period for which data are available exceeds by not less than 10 percent the lesser of—
 
-&emsp;&emsp;&emsp;(i) the monthly average number of individuals (as of the last day of each month) in the State that would have participated in the food stamp program in the corresponding 3-month period in fiscal year 1994 if the amendments made by titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 had been in effect throughout fiscal year 1994; or
+&emsp;&emsp;&emsp;(i) the monthly average number of individuals (as of the last day of each month)in the State that would have participated in the food stamp program in the corresponding 3-month period in fiscal year 1994 if the amendments made by titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 had been in effect throughout fiscal year 1994; or
 
 &emsp;&emsp;&emsp;(ii) the monthly average number of individuals (as of the last day of each month) in the State that would have participated in the food stamp program in the corresponding 3-month period in fiscal year 1995 if the amendments made by titles IV and VIII of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 had been in effect throughout fiscal year 1995.
 
@@ -824,17 +772,15 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L.106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131.)
 
 #### References in Text
-
-Part F of this subchapter, referred to in subsec. (a)(1)(B)(iii), (C)(i)(V), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 603(a)(5)(K) of this title, referred to in subsec. (a)(5)(A)(ii)(I)(ff), was redesignated as section 603(a)(5)(J) by Pub. L. 106–554, §1(a)(1) \[title I, §107(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12.
 
 Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(5)(A)(vi)(I)(bb), (III), (C)(ii)(I), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(5)(C)(iii)(II)(dd), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(5)(C)(iii)(II)(dd), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Parts D and E of this subchapter, referred to in subsec. (a)(5)(C)(iii)(III), (iv)(II)(bb), are classified to sections 651 et seq. and 670 et seq., respectively, of this title.
 
@@ -849,6 +795,30 @@ Titles IV and VIII of the Personal Responsibility and Work Opportunity Reconcili
 A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+
+2003—Subsec. (a)(1)(A). Pub. L. 108–40, §3(a)(1), substituted “2002, and 2003” for “and 2002”.
+
+Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of “State family assistance grant”, in subpar. (C), definition of “total amount required to be paid to the State under former section 603 of this title”, in subpar. (D), information to be used in determining amounts of grants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
+
+Subsec. (a)(2)(C)(ii). Pub. L. 108–40, §3(c)(1), substituted “2002, and 2003” for “and 2002”.
+
+Subsec. (a)(2)(D). Pub. L. 108–40, §3(c)(2), substituted “2003” for “2002”.
+
+Subsec. (a)(3)(H). Pub. L. 108–40, §3(d)(1), and Pub. L. 108–89, §101(b)(1)(A), amended subpar. identically, striking out “of grants for fiscal year 2002” after “Reauthorization” in heading.
+
+Subsec. (a)(3)(H)(i). Pub. L. 108–40, §3(d)(2), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+
+Subsec. (a)(3)(H)(ii). Pub. L. 108–89, §101(b)(1)(B), substituted “March 31, 2004” for “2003” and “fiscal year 2001” for “2001”.
+
+Pub. L. 108–40, §3(d)(3), substituted “2003” for “2002”.
+
+Subsec. (a)(3)(H)(iii). Pub. L. 108–40, §3(d)(4), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+
+Subsec. (b)(2). Pub. L. 108–40, §3(e)(1), substituted “2002, and 2003” for “and 2002”.
+
+Subsec. (b)(3)(C)(ii). Pub. L. 108–89, §101(b)(2), substituted “2004” for “2003”.
+
+Pub. L. 108–40, §3(e)(2), substituted “2003” for “2002”.
 
 2002—Subsec. (a)(3)(H). Pub. L. 107–147, §616, added subpar. (H).
 
@@ -898,7 +868,7 @@ Subsec. (a)(5)(C)(ii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(a)\],
 
 Subsec. (a)(5)(C)(iii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(b)(1)(B)\], added cl. (iii). Former cl. (iii) redesignated (iv).
 
-Subsec. (a)(5)(C)(iv). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(c)\], inserted “hard to employ” before “individuals” in heading, substituted “clauses (ii) and (iii)and, as appropriate, clause (v)” for “clause (ii)” before period at end of concluding provisions, added subcls. (II) to (IV), and struck out former subcl. (II) which read as follows: “to individuals—
+Subsec. (a)(5)(C)(iv). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(c)\], inserted “hard to employ” before “individuals” in heading, substituted “clauses (ii) and (iii) and, as appropriate, clause (v)” for “clause (ii)” before period at end of concluding provisions, added subcls. (II) to (IV), and struck out former subcl. (II) which read as follows: “to individuals—
 
 &emsp;“(aa) who are noncustodial parents of minors whose custodial parent is such a recipient; and
 
@@ -1007,6 +977,10 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
 1996—Subsec. (b)(4)(A)(i)(II). Pub. L. 104–327, §1(b)(1), struck out “minus any Federal payment with respect to such child care expenditures” after “for fiscal year 1994”.
 
 Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted “the sum of” before “the expenditures” and “, and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990” before “; exceeds”.
+
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–40, §8, June 30, 2003, 117 Stat. 838, provided that: “The amendments made by this Act \[amending this section and sections 606, 609, 612, 614, 618, 710, 1308, 1320a–9, 1396a, and 1396r–6 of this title\] shall take effect on July 1, 2003.”
 
 #### Effective Date of 2000 Amendment
 

@@ -106,7 +106,7 @@
 
 (2) Service credited under subsection (b)(6) may not also be credited under any other retirement system provided for employees paid from nonappropriated funds of a nonappropriated fund instrumentality.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A,§901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243.)
 
 #### References in Text
 
@@ -116,7 +116,7 @@ Subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement
 
 The Foreign Service Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of the Act probably means subchapter II of chapter 8 of title I of the Act which is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), seesection 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 Section 10 of the Federal Reserve Act, referred to in subsecs. (g) and (i), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260, as amended. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 102–242 applicable with respect to any individual who tra
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dieson or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
+Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dies on or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 The Secretary of the Army is authorized to allot not to exceed $1,000,000 from any appropriations made prior to or after March 2, 1945, for any one fiscal year for improvement of rivers and harbors, for removing accumulated snags and other debris, and for protecting, clearing, and straightening channels in navigable harbors and navigable streams and tributaries thereof, when in the opinion of the Chief of Engineers such work is advisable in the interest of navigation or flood control.
 
-(Mar. 2, 1945, ch. 19, §3, 59 Stat. 23; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §915(g), Nov. 17, 1986, 100 Stat. 4191.)
+(Mar. 2, 1945, ch. 19, §3, 59 Stat. 23; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L.99–662, title IX, §915(g), Nov. 17, 1986, 100 Stat. 4191.)
 
 #### Amendments
 

@@ -8,13 +8,21 @@ Subject to such regulations as may be prescribed by the Capitol Police Board and
 
 &emsp;(2) within the District of Columbia, with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties when the crime is committed;
 
-&emsp;(3) within the District of Columbia, to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties when the authority is exercised; and
+&emsp;(3) within the District of Columbia, to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties when the authority is exercised;
 
-&emsp;(4) within the area described in subsection (b) of this section.
+&emsp;(4) within the area described under subsection (b)(1) of this section; and
+
+&emsp;(5) within the area described under subsection (b)(2) of this section—
+
+&emsp;&emsp;(A) with respect to any crime of violence committed in the presence of the member, if the member is in the performance of official duties, as defined under such regulations, when the crime is committed; and
+
+&emsp;&emsp;(B) to prevent imminent loss of life or injury to person or property, if the officer is in the performance of official duties, as defined under such regulations, when the authority is exercised.
 
 #### (b) Area
 
-The area referred to in subsection (a)(4) of this section is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
+(1) The area referred to in subsection (a)(4) of this section is that area bounded by the north curb of H Street from 3rd Street, N.W. to 7th Street, N.E., the east curb of 7th Street from H Street, N.E., to M Street, S.E., the south curb of M Street from 7th Street, S.E. to 1st Street, S.E., the east curb of 1st Street from M Street, S.E. to Potomac Avenue S.E., the southeast curb of Potomac Avenue from 1st Street, S.E. to South Capitol Street, S.W., the west curb of South Capitol Street from Potomac Avenue, S.W. to P Street, S.W., the north curb of P Street from South Capitol Street, S.W. to 3rd Street, S.W., and the west curb of 3rd Street from P Street, S.W. to H Street, N.W.
+
+(2) The area referred to under subsection (a)(5) of this section is that area bounded by the north curb of Constitution Avenue from 14th Street, N.W., to 3rd Street, N.W., the east curb of 3rd Street from Constitution Avenue, N.W., to Independence Avenue, S.W., the south curb of Independence Avenue from 3rd Street, S.W., to 14th Street, S.W., and the west curb of 14th Street from Independence Avenue, S.W., to Constitution Avenue, N.W.
 
 #### (c) Authority of Metropolitan Police unaffected
 
@@ -24,7 +32,7 @@ This section does not affect the authority of the Metropolitan Police force of t
 
 As used in this section, the term “crime of violence” has the meaning given that term in section 16 of title 18.
 
-(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug. 20, 1996, 110 Stat. 1750.)
+(July 31, 1946, ch. 707, §9B, as added Pub. L. 102–397, title I, §101, Oct. 6, 1992, 106 Stat. 1949; amended Pub. L. 104–186, title II, §221(13), Aug. 20, 1996, 110 Stat. 1750; Pub. L. 108–83, title I, §1003(a), Sept. 30, 2003, 117 Stat. 1021.)
 
 #### Codification
 
@@ -32,13 +40,29 @@ Section was classified to section 212a–3 of former Title 40, prior to the enac
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>2003</b>—Subsec. (a)(3). Pub. L. 108–83, §1003(a)(1)(A), struck out “and” after the semicolon.
+
+Subsec. (a)(4). Pub. L. 108–83, §1003(a)(1)(B), which directed the substitution of “under subsection (b)(1); and” for “in subsection (b) of this section.” was executed by making the substitution for language which read in the original “in subsection (b).”, to reflect the probable intent of Congress.
+
+Subsec. (a)(5). Pub. L. 108–83, §1003(a)(1)(C), added par. (5).
+
+Subsec. (b). Pub. L. 108–83, §1003(a)(2), designated existing provisions as par. (1) and added par. (2).
+
+<b>1996</b>—Subsec. (a). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Effective Date of 2003 Amendment
+
+Pub. L. 108–83, title I, §1003(c), Sept. 30, 2003, 117 Stat. 1022, provided that: “This section \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the date on which the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives approve regulations prescribed by the Capitol Police Board for the sole implementation, execution and maintenance of the truck interdiction program.” \[Regulations approved by Committee on Rules and Administration of the Senate on Jan. 5, 2004, and by Committee on House Administration of the House of Representatives on Dec. 18, 2003.\]
+
+#### Rule of Construction
+
+Pub. L. 108–83, title I, §1003(b), Sept. 30, 2003, 117 Stat. 1022, provided that: “Nothing in the amendments made by this section \[amending this section\] may be construed to limit the authority of the Capitol Police as in effect before the effective date of this section \[see Effective Date of 2003 Amendment note set out above\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1819, 1970, 2021, 2161 of this title; title 40 sections 5105, 5107, 5109, 8501.
+This section is referred to in sections 1819, 1961, 1970, 2021, 2161 of this title; title 40 sections 5105, 5107, 5109, 8501.
 

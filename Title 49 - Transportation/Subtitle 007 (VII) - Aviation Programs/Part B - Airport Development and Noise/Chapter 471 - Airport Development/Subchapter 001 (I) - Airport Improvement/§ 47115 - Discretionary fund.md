@@ -22,19 +22,31 @@ Minimum Percentage for Primary and Reliever Airports.—At least 75 percent of t
 
 (d)
 
-Considerations.—In selecting a project for a grant to preserve and enhance capacity as described in subsection (c)(1) of this section, the Secretary shall consider—
+Considerations.—
 
-&emsp;(1) the effect the project will have on the overall national air transportation system capacity;
+&emsp;(1)
 
-&emsp;(2) the project benefit and cost, including, in the case of a project at a reliever airport, the number of operations projected to be diverted from a primary airport to the reliever airport as a result of the project, as well as the cost savings projected to be realized by users of the local airport system;
+For capacity enhancement projects.—In selecting a project for a grant to preserve and improve capacity funded in whole or in part from the fund, the Secretary shall consider—
 
-&emsp;(3) the financial commitment from non-United States Government sources to preserve or enhance airport capacity;
+&emsp;&emsp;(A) the effect that the project will have on overall national transportation system capacity;
 
-&emsp;(4) the airport improvement priorities of the States, and regional offices of the Administration, to the extent such priorities are not in conflict with paragraphs (1) and (2);
+&emsp;&emsp;(B) the benefit and cost of the project, including, in the case of a project at a reliever airport, the number of operations projected to be diverted from a primary airport to the reliever airport as a result of the project, as well as the cost savings projected to be realized by users of the local airport system;
 
-&emsp;(5) the projected growth in the number of passengers that will be using the airport at which the project will be carried out; and
+&emsp;&emsp;(C) the financial commitment from non-United States Government sources to preserve or improve airport capacity;
 
-&emsp;(6) any increase in the number of passenger boardings in the preceding 12-month period at the airport at which the project will be carried out, with priority consideration to be given to projects at airports at which the number of passenger boardings increased by at least 20 percent as compared to the number of passenger boardings in the 12-month period preceding such period.
+&emsp;&emsp;(D) the airport improvement priorities of the States to the extent such priorities are not in conflict with subparagraphs (A) and (B);
+
+&emsp;&emsp;(E) the projected growth in the number of passengers or aircraft that will be using the airport at which the project will be carried out; and
+
+&emsp;&emsp;(F) the ability of the project to foster United States competitiveness in securing global air cargo activity at a United States airport.
+
+&emsp;(2)
+
+For all projects.—In selecting a project for a grant under this section, the Secretary shall consider among other factors whether—
+
+&emsp;&emsp;(A) funding has been provided for all other projects qualifying for funding during the fiscal year under this chapter that have attained a higher score under the numerical priority system employed by the Secretary in administering the fund; and
+
+&emsp;&emsp;(B) the sponsor will be able to commence the work identified in the project application in the fiscal year in which the grant is made or within 6 months after the grant is made, whichever is later.
 
 (e)
 
@@ -58,7 +70,7 @@ Minimum Amount To Be Credited.—
 
 &emsp;(1)
 
-General rule.—In a fiscal year, there shall be credited to the fund, out of amounts made available under section 48103 of this title, an amount that is at least equal to the sum of—
+General rule.—In a fiscal year, there shall be credited to the fund, out of amounts made available under section 48103 of thistitle, an amount that is at least equal to the sum of—
 
 &emsp;&emsp;(A) $148,000,000; plus
 
@@ -80,9 +92,13 @@ Priority for Letters of Intent.—In making grants in a fiscal year with funds m
 
 (i)
 
-Considerations for Project Under Expanded Security Eligibility.—In order to assure that funding under this subchapter is provided to the greatest needs, the Secretary, in selecting a project described in section 47102(3)(J) for a grant, shall consider the non-federal <sup>1</sup> resources available to sponsor, the use of suchnon-federal <sup>1</sup> resources, and the degree to which the sponsor is providing increased funding for the project.
+Considerations for Project Under Expanded Security Eligibility.—In order to assure that funding under this subchapter is provided to the greatest needs, the Secretary, in selecting a project described in section 47102(3)(J) <sup>1</sup> for a grant, shall consider the non-federal <sup>2</sup> resources available to sponsor, the use of such non-federal <sup>2</sup> resources, and the degree to which the sponsor is providing increased funding for the project.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628.)
+(j)
+
+Marshall Islands, Micronesia, and Palau.—For fiscal years 2004 through 2007, the sponsors of airports located in the Republic of the Marshall Islands, Federated States of Micronesia, and Republic of Palau shall be eligible for grants under this section and section 47116.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519.)
 
 Historical and Revision Notes
 
@@ -162,7 +178,13 @@ This redesignates 49:47115(f), as enacted by section 6(67) of the Act of October
 
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (g)(1)(B), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
+Section 47102(3)(J), referred to in subsec. (i), was repealed and subpar. (M) was redesignated (J) by Pub. L. 108–176, title I, §159(b)(1)(A), Dec. 12, 2003, 117 Stat. 2510.
+
 #### Amendments
+
+2003—Subsec. (d). Pub. L. 108–176, §148, amended subsec. (d) generally. Prior to amendment, subsec. (d) listed six things the Secretary was required to consider in selecting a project for a grant to preserve and enhance capacity as described in subsection (c)(1) of this section.
+
+Subsec. (j). Pub. L. 108–176, §188, added subsec. (j).
 
 2001—Subsec. (i). Pub. L. 107–71 added subsec. (i).
 
@@ -204,6 +226,10 @@ Subsec. (h). Pub. L. 104–264, §145(b), added subsec. (h).
 
 Pub. L. 103–305 added subsec. (f) relating to consideration of diversion of revenues in awarding discretionary grants.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
+
 #### Effective Date of 1996 Amendments
 
 Amendment by section 5(81)(B) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
@@ -214,5 +240,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 This section is referred to in sections 47107, 47108, 47109, 47110, 47114, 47117, 47118, 47119, 47137 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “non-Federal”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “non-Federal”.</i>
 

@@ -174,7 +174,7 @@ The General Schedule, the symbol for which is “GS”, is the basic pay schedul
 
 &emsp;&emsp;(B) to serve as head of a major organization within a bureau involving work of comparable level;
 
-&emsp;&emsp;(C) to plan and direct or to plan and execute specialized programs of marked difficulty, responsibility, and national significance, along professional, scientific, technical, administrative, fiscal, or other lines,requiring extended training and experience which has demonstrated leadership and unusual attainments in professional, scientific, or technical research, practice, or administration, or in administrative, fiscal, or other specialized activities; or
+&emsp;&emsp;(C) to plan and direct or to plan and execute specialized programs of marked difficulty, responsibility, and national significance, along professional, scientific, technical, administrative, fiscal, or other lines, requiring extended training and experience which has demonstrated leadership and unusual attainments in professional, scientific, or technical research, practice, or administration, or in administrative, fiscal, or other specialized activities; or
 
 &emsp;&emsp;(D) to perform consulting or other professional, scientific, technical, administrative, fiscal, or other specialized work of equal importance, difficulty, and responsibility, and requiring comparable qualifications.
 
@@ -284,7 +284,7 @@ Sec. 303. The Civil Service Commission is authorized to secure directly from any
 
 “
 
-Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to the President and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
+Sec. 304. (a) Within one year after the date of enactment of this Act, the Commission shall submit to thePresident and the Congress an interim progress report on the current status and results of its activities under this Act, together with its current findings.
 
 “(b) Within two years after the date of enactment of this Act \[Mar. 17, 1970\]—
 

@@ -34,7 +34,7 @@ The purposes and policies of this chapter are—
 
 &emsp;(6) to facilitate to the extent compatible with the primary objective of resource protection, all public and private uses of the resources of these marine areas not prohibited pursuant to other authorities;
 
-&emsp;(7) to develop and implement coordinated plans for the protection and management of these areas with appropriate Federal agencies, State and local governments, Native Americantribes and organizations, international organizations, and other public and private interests concerned with the continuing health and resilience of these marine areas;
+&emsp;(7) to develop and implement coordinated plans for the protection and management of these areas with appropriate Federal agencies, State and local governments, Native American tribes and organizations, international organizations, and other public and private interests concerned with the continuing health and resilience of these marine areas;
 
 &emsp;(8) to create models of, and incentives for, ways to conserve and manage these areas, including the application of innovative management techniques; and
 
@@ -120,7 +120,7 @@ Section 101 of title I of Pub. L. 98–498 provided that: “This title \[enacti
 
 #### Short Title
 
-Section 317 of title III, formerly section 316, of Pub. L. 92–532, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5047; renumbered §317 of title III, Pub. L. 104–283, §§6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364,3368; amended Pub. L. 106–562, title III, §307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Marine Sanctuaries Act’.”
+Section 317 of title III, formerly section 316, of Pub. L. 92–532, as added by Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5047; renumbered §317 of title III, Pub. L. 104–283, §§6(a), 9(f), Oct. 11, 1996, 110 Stat. 3364, 3368; amended Pub. L. 106–562, title III, §307(b), Dec. 23, 2000, 114 Stat. 2807, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Marine Sanctuaries Act’.”
 
 #### Congressional Findings, Policy, and Declaration of Purpose
 

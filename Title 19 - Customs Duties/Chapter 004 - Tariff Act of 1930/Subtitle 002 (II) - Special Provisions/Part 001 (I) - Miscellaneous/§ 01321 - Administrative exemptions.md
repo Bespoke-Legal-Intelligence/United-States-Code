@@ -36,7 +36,7 @@ Subsec. (a)(2)(B). Pub. L. 104–295, §3(a)(8), inserted “, 9804.00.65,” a
 
 Subsec. (a)(3). Pub. L. 104–295, §3(a)(12)(B), substituted “taxes, and interest” for “and taxes” and “taxes, or interest” for “or taxes”.
 
-1993—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than $10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
+1993—Subsec. (a)(1). Pub. L. 103–182, §651(1), substituted “of an amount specified by the Secretary by regulation, but not less than $20,” for “of less than$10”, inserted “, fees,” after “duties” wherever appearing, and struck out “and” at end.
 
 Subsec. (a)(2). Pub. L. 103–182, §651(2), substituted “shall not exceed an amount specified by the Secretary by regulation, but not less than—” for “shall not exceed—” in introductory provisions, substituted “$100” and “$200” for “$50” and “$100”, respectively, in subpar. (A), substituted “$200” for “$25” in subpar. (B), substituted “$200” for “$5” in subpar. (C), and substituted “; and” for period at end.
 
@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 103–182, §651(4), struck out “to diminish any dollar a
 
 1978—Subsec. (a)(1). Pub. L. 95–410, §205(a), substituted “$10” for “$3” and “duties and taxes” for “duties or taxes” in three places.
 
-Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A), “$25” and “$40” for “$10” and“$20”; subpar. (B), “$25” for “$10”; and subpar. (C), “$5” for “$1”.
+Subsec. (a)(2). Pub. L. 95–410, §205(b)(1)–(3), substituted in: subpar. (A), “$25” and “$40” for “$10” and “$20”; subpar. (B), “$25” for “$10”; and subpar. (C), “$5” for “$1”.
 
 1975—Subsec. (a)(2)(A). Pub. L. 93–618 inserted “($20, in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa)” after “United States”.
 

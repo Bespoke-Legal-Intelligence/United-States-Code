@@ -20,7 +20,7 @@
 
 (C) Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
 
-(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
+(2)(A) The Comptroller General shall provide a report on each major rule to the committees ofjurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
 
 (B) Federal agencies shall cooperate with the Comptroller General by providing information relevant to the Comptroller General's report under subparagraph (A).
 
@@ -46,7 +46,7 @@
 
 (b)(1) A rule shall not take effect (or continue), if the Congress enacts a joint resolution of disapproval, described under section 802, of the rule.
 
-(2) A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued ornew rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.
+(2) A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.
 
 (c)(1) Notwithstanding any other provision of this section (except subject to paragraph (3)), a rule that would not take effect by reason of subsection (a)(3) may take effect, if the President makes a determination under paragraph (2) and submits written notice of such determination to the Congress.
 
@@ -104,7 +104,7 @@
 
 #### References in Text
 
-Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec. (a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
+Sections 202, 203, 204, and 205 of the Unfunded Mandates Reform Act of 1995, referred to in subsec.\(a)(1)(B)(iii), are classified to sections 1532, 1533, 1534, and 1535, respectively, of Title 2, The Congress.
 
 The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), is the date of the enactment of Pub. L. 104–121, which was approved Mar. 29, 1996.
 

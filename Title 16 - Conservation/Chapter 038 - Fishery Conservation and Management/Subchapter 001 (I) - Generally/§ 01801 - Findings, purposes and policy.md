@@ -8,11 +8,11 @@ The Congress finds and declares the following:
 
 &emsp;(2) Certain stocks of fish have declined to the point where their survival is threatened, and other stocks of fish have been so substantially reduced in number that they could become similarly threatened as a consequence of (A) increased fishing pressure, (B) the inadequacy of fishery resource conservation and management practices and controls, or (C) direct and indirect habitat losses which have resulted in a diminished capacity to support existing fishing levels.
 
-&emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domesticfishing efforts, and caused destruction of the fishing gear of United States fishermen.
+&emsp;(3) Commercial and recreational fishing constitutes a major source of employment and contributes significantly to the economy of the Nation. Many coastal areas are dependent upon fishing and related activities, and their economies have been badly damaged by the overfishing of fishery resources at an ever-increasing rate over the past decade. The activities of massive foreign fishing fleets in waters adjacent to such coastal areas have contributed to such damage, interfered with domestic fishing efforts, and caused destruction of the fishing gear of United States fishermen.
 
 &emsp;(4) International fishery agreements have not been effective in preventing or terminating the overfishing of these valuable fishery resources. There is danger that irreversible effects from overfishing will take place before an effective international agreement on fishery management jurisdiction can be negotiated, signed, ratified, and implemented.
 
-&emsp;(5) Fishery resources are finite but renewable. If placed under sound management before overfishing has caused irreversible effects, the fisheries can be conserved and maintained so as to provide optimum yields on a continuing basis.
+&emsp;(5) Fishery resources are finite but renewable. If placed under sound management before overfishing has caused irreversible effects, the fisheries can be conserved and maintained soas to provide optimum yields on a continuing basis.
 
 &emsp;(6) A national program for the conservation and management of the fishery resources of the United States is necessary to prevent overfishing, to rebuild overfished stocks, to insure conservation, to facilitate long-term protection of essential fish habitats, and to realize the full potential of the Nation's fishery resources.
 
@@ -60,7 +60,7 @@ It is further declared to be the policy of the Congress in this chapter—
 
 &emsp;(7) to ensure that the fishery resources adjacent to a Pacific Insular Area, including resident or migratory stocks within the exclusive economic zone adjacent to such areas, be explored, developed, conserved, and managed for the benefit of the people of such area and of the United States.
 
-(Pub. L. 94–265, §2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, §2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, §233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, §101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, §301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §101, Oct. 11, 1996, 110 Stat. 3560.)
+(Pub. L. 94–265, §2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, §2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, §233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, §101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §101, Nov. 28,1990, 104 Stat. 4437; Pub. L. 102–251, title III, §301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §101, Oct. 11, 1996, 110 Stat. 3560.)
 
 #### Amendment of Subsection (b)(1)
 
@@ -124,11 +124,11 @@ Section 238(b) of title II of Pub. L. 96–561 provided that: “Effective 15 da
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary,signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–297 provided that: “This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the ‘Sustainable Fisheries Act’.”
+Section 1(a) of Pub. L. 104–297 provided that: “This Act \[enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerceand Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title\] may be cited as the ‘Sustainable Fisheries Act’.”
 
 #### Short Title of 1995 Amendment
 
@@ -182,7 +182,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent p
 
 (g) establishing cost-share programs, under existing authorities, that match or exceed Federal funds with nonfederal contributions;
 
-(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems andrecreational fisheries and document those effects relative to the purpose of this order; and
+(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems and recreational fisheries and document those effects relative to the purpose of this order; and
 
 (i) assisting private landowners to conserve and enhance aquatic resources on their lands.
 

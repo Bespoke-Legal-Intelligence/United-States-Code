@@ -24,7 +24,7 @@ Notwithstanding any other provision of this chapter, the following are permitted
 
 &emsp;(2) The provisions of this section shall not permit the reproduction of illustrations of obligations or other securities, by or through electronic methods used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press or others shall not be unduly restricted.
 
-&emsp;(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
+&emsp;(3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes ofparagraph (1), without the permission of the Secretary of the Treasury.
 
 For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
@@ -60,7 +60,7 @@ Par. (1)(ii). Pub. L. 98–369, §1077(b)(2), inserted “and illustrations of s
 
 1968—Par. (1). Pub. L. 90–353 inserted provisions so as to permit colored illustrations of canceled United States postage stamps in the exact size of genuine stamps and colored illustrations of uncanceled United States and foreign stamps if the size of the illustrations is less than three-fourths or more than one and one-half times the size of the genuine stamps and permitted the use of colored illustrations of stamps in public documents relating to stamps printed by the Government Printing Office at the request of the Postmaster General.
 
-1958—Pub. L. 85–921 permitted black and white illustrations of revenue stamps of the United States for philatelic and numismatic purposes, black and white illustrations of United States and foreign paper money and other obligations and securities for educational, historical, and newsworthy purposes, and permitted motion picture films, microfilms, and slides of UnitedStates and foreign postage and revenue stamps, paper money, and other obligations and securities, except films in connection with advertising.
+1958—Pub. L. 85–921 permitted black and white illustrations of revenue stamps of the United States for philatelic and numismatic purposes, black and white illustrations of United States and foreign paper money and other obligations and securities for educational, historical, and newsworthy purposes, and permitted motion picture films, microfilms, and slides of United States and foreign postage and revenue stamps, paper money, and other obligations and securities, except films in connection with advertising.
 
 #### Effective Date of 1984 Amendment
 

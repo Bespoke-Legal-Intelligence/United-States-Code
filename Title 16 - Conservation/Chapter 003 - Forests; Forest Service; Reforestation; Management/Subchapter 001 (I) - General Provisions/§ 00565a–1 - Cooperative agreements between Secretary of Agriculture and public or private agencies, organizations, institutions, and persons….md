@@ -10,7 +10,11 @@ To facilitate the administration of the programs and activities of the Forest Se
 
 #### Mutual Benefit of Agreements to Forest Service and Other Parties
 
-Pub. L. 107–63, title III, §328, Nov. 5, 2001, 115 Stat. 470, provided that: “Until September 30, 2003, the authority of the Secretary of Agriculture to enter into a cooperative agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities.”
+Pub. L. 108–7, div. F, title III, §321, Feb. 20, 2003, 117 Stat. 274, provided that: “Until September 30, 2005, the authority of the Secretary of Agriculture to enter into an agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities. An agreement entered into under this section shall not be subject to Public Law 95–224, Federal Grant and Cooperative Agreement Act (1977) \[see section 6301 et seq. of Title 31, Money and Finance\].”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–63, title III, §328, Nov. 5, 2001, 115 Stat. 470.
 
 #### Section Referred to in Other Sections
 

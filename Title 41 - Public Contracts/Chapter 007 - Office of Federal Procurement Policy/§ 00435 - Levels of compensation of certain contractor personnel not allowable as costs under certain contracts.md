@@ -12,7 +12,7 @@ The benchmark compensation amount applicable for a fiscal year is the median amo
 
 In this section:
 
-&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary,bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
 &emsp;(2) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
 
@@ -26,11 +26,11 @@ In this section:
 
 #### Codification
 
-Another section 39 of Pub. L. 93–400 is classified to section 436 of this title.
+Another section 39 of Pub. L. 93–400 was renumbered section 40 and is classified to section 436 of this title.
 
 #### Amendments
 
-1998—Subsec. (c)(2). Pub. L. 105–261 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“The term ‘senior executive’, with respect to a corporation, means—
+1998—Subsec. (c)(2). Pub. L. 105–261 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘senior executive’, with respect to a corporation, means—
 
 &emsp;“(A) the chief executive officer of the corporation or any individual acting in a similar capacity for the corporation;
 

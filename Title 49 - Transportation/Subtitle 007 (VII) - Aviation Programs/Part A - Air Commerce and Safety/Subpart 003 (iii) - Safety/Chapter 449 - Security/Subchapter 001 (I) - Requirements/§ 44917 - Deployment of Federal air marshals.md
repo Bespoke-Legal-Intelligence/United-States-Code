@@ -34,7 +34,7 @@ Long Distance Flights.—In making the determination under subsection (a)(2), no
 
 (c)
 
-Interim Measures.—Until the Under Secretary completes implementation of subsection (a), the Under Secretary may use, after consultation with and concurrence of the heads of other Federal agencies and departments, personnel from those agencies and departments, on a nonreimbursable basis, to provide air marshal service.
+Interim Measures.—Until the Under Secretary completes implementation of subsection\(a), the Under Secretary may use, after consultation with and concurrence of the heads of other Federal agencies and departments, personnel from those agencies and departments, on a nonreimbursable basis, to provide air marshal service.
 
 (Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606.)
 

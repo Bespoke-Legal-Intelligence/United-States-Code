@@ -40,7 +40,7 @@ Section 1(a)(2) of Pub. L. 105–129 provided that: “The amendment made by par
 
 Section 850(g) of Pub. L. 105–85 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section, section 2304 of this title, section 637 of Title 15, Commerce and Trade, section 1501 of Title 40, Public Buildings, Property, and Works, and sections 252c, 253, 416, 426, and 427 of Title 41, Public Contracts, repealing section 426a of Title 41, amending provisions set out as a note under section 413 of Title 41, and repealing provisions set out as a note under section 426a of Title 41\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section, section 2304 of this title, section 637 of Title 15, Commerce and Trade, section 1501 of former Title 40, Public Buildings, Property, and Works, and sections 252c, 253, 416, 426, and 427 of Title 41, Public Contracts, repealing section 426a of Title 41, amending provisions set out as a note under section 413 of Title 41, and repealing provisions set out as a note under section 426a of Title 41\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\].
 
 “(2) The repeal made by subsection (c) of this section \[repealing provisions set out as a note under section 426a of Title 41\] shall take effect on the date of the enactment of this Act.”
 

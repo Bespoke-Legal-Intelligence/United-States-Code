@@ -4,7 +4,7 @@ Section, acts Aug. 31, 1954, ch. 1158, 68 Stat. 1020; Aug. 28, 1957, Pub. L. 85�
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1998, see section 3(d) of Pub. L. 105–113, set out as an Effective Date of 1997 Amendment note note under section 1991 of Title 7, Agriculture.
+Repeal effective Oct. 1, 1998, see section 3(d) of Pub. L. 105–113, set out as an Effective Date of 1997 Amendment note under section 1991 of Title 7, Agriculture.
 
 #### 1997 Census of Agriculture
 

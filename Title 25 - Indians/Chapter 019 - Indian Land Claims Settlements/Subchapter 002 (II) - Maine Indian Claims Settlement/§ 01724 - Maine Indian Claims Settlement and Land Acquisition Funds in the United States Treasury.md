@@ -2,11 +2,11 @@
 
 #### (a) Establishment of Maine Indian Claims Settlement Fund; amount
 
-There is hereby established in the United States Treasury a fund to be known as the Maine Indian Claims Settlement Fund in which $27,000,000 shall be deposited following the appropriation of sums authorized by section 1733 of this title.
+There is hereby established in the United States Treasury a fund to be known as theMaine Indian Claims Settlement Fund in which $27,000,000 shall be deposited following the appropriation of sums authorized by section 1733 of this title.
 
 #### (b) Apportionment of settlement fund; administration; investments; limitation on distributions; quarterly investment income payments; expenditures for aged members; cessation of trust responsibility following Federal payments
 
-(1) One-half of the principal of the settlement fund shall be held in trust by the Secretary for the benefit of the Passamaquoddy Tribe, and theother half of the settlement fund shall be held in trust for the benefit of the Penobscot Nation. Each portion of the settlement fund shall be administered by the Secretary in accordance with reasonable terms established by the Passamaquoddy Tribe or the Penobscot Nation, respectively, and agreed to by the Secretary: <i>Provided</i>, That the Secretary may not agree to terms which provide for investment of the settlement fund in a manner not in accordance with section 162a of this title, unless the respective tribe or nation first submits a specific waiver of liability on the part of the United States for any loss which may result from such an investment: <i>Provided, further</i>, That until such terms have been agreed upon, the Secretary shall fix the terms for the administration of the portion of the settlement fund as to which there is no agreement.
+(1) One-half of the principal of the settlement fund shall be held in trust by the Secretary for the benefit of the Passamaquoddy Tribe, and the other half of the settlement fund shall be held in trust for the benefit of the Penobscot Nation. Each portion of the settlement fund shall be administered by the Secretary in accordance with reasonable terms established by the Passamaquoddy Tribe or the Penobscot Nation, respectively, and agreed to by the Secretary: <i>Provided</i>, That the Secretary may not agree to terms which provide for investment of the settlement fund in a manner not in accordance with section 162a of this title, unless the respective tribe or nation first submits a specific waiver of liability on the part of the United States for any loss which may result from such an investment: <i>Provided, further</i>, That until such terms have been agreed upon, the Secretary shall fix the terms for the administration of the portion of the settlement fund as to which there is no agreement.
 
 (2) Under no circumstances shall any part of the principal of the settlement fund be distributed to either the Passamaquoddy Tribe or the Penobscot Nation, or to any member of either tribe or nation: <i>Provided, however</i>, That nothing herein shall prevent the Secretary from investing the principal of said fund in accordance with paragraph (1) of this subsection.
 
@@ -118,7 +118,7 @@ Sec. 2. For purposes of this Act—
 
 &emsp;“(4) The term ‘Secretary’ means the Secretary of the Interior.
 
-&emsp;“(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(a)).
+&emsp;“(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) ofthe Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(a)).
 
 #### “houlton band tax fund
 

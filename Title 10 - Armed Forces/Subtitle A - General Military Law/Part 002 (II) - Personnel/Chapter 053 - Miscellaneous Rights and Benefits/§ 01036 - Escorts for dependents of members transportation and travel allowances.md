@@ -38,17 +38,17 @@ Sec. 6. The Comptroller General of the United States, or his designee, shall rel
 
 “
 
-Sec. 7. No regulations under section 1 of this Act \[enacting this section\] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare \[now Health and Human Services\] under section 1, 2, or 3 of this Act \[enacting this section and amending section 857a of Title 33, Navigation and Navigable Waters,and section 213a of Title 42, The Public Health and Welfare\] shall, to the extent practicable, agree with regulations so approved.”
+Sec. 7. No regulations under section 1 of this Act \[enacting this section\] relating to the military departments shall be prescribed by the Secretary of a military department unless such regulations are first approved under procedures prescribed by the Secretary of Defense. Regulations of the Secretaries of the Treasury, Commerce, and Health, Education, and Welfare \[now Health and Human Services\] under section 1, 2, or 3 of this Act \[enacting this section and amending section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare\] shall, to the extent practicable, agree with regulations so approved.”
 
 #### Public Health Service
 
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretaryof Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to Coast and Geodetic Survey \[now commissioned officer corps of National Oceanic and Atmospheric Administration\], by Secretary of Commerce or his designee, see section 857a of Title 33, Navigation and Navigable Waters.
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 33 section 857a; title 42 section 213a.
+This section is referred to in title 33 section 3071; title 42 section 213a.
 

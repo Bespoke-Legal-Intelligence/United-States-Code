@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding subsections of this section and section 300gg–44 of this title, each health insurance issuer that offers health insurance coverage (as defined in section 300gg–91(b)(1) of this title) in the individual market in a State may not, with respect to an eligible individual (as defined in subsection (b) of this section) desiring to enroll in individual health insurance coverage—
+&emsp;Subject to the succeeding subsections of this section and section 300gg–44 of this title, eachhealth insurance issuer that offers health insurance coverage (as defined in section 300gg–91(b)(1) of this title) in the individual market in a State may not, with respect to an eligible individual (as defined in subsection (b) of this section) desiring to enroll in individual health insurance coverage—
 
 &emsp;&emsp;(A) decline to offer such coverage to, or deny enrollment of, such individual; or
 
@@ -18,7 +18,7 @@
 
 In this part, the term “eligible individual” means an individual—
 
-&emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 300gg(c) of this title) is 18 or more months and (B) whose most recent prior creditable coverage was under agroup health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
+&emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 300gg(c) of this title) is 18 or more months and (B) whose most recent prior creditable coverage was under a group health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
 
 &emsp;(2) who is not eligible for coverage under (A) a group health plan, (B) part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], or (C) a State plan under title XIX of such Act \[42 U.S.C. 1396 et seq.\] (or any successor program), and does not have other health insurance coverage;
 

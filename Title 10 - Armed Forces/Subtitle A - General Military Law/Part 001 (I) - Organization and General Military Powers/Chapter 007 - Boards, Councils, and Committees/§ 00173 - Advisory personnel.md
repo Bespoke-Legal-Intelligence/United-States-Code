@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may establish such advisory committees and employ such part-time advisers as he considers necessary for the performance of his functions and those of the agencies under his control.
 
-(b) A person who serves as a member of a committee may not be paid for that service while holding another position or office under theUnited States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
+(b) A person who serves as a member of a committee may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 89–718, §2, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 104–106, div. A, title X, §1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| \[2481. | Renumbered.\] |
+| [2481\.](%C2%A7%2002481%20-%20Existence%20of%20defense%20commissary%20system%20and%20exchange%20stores%20system.md) | Existence of defense commissary system and exchange stores system. |
 | [2482\.](%C2%A7%2002482%20-%20Commissary%20stores%20operation.md) | Commissary stores: operation. |
 | [2482a.](%C2%A7%2002482a%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20and%20obtain%20goods%20and%20services.md) | Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services. |
 | [2483\.](%C2%A7%2002483%20-%20Commissary%20stores%20reimbursement%20for%20use%20of%20commissary%20facilities%20by%20military%20departments.md) | Commissary stores: reimbursement for use of commissary facilities by military departments. |
@@ -18,12 +18,17 @@
 | \[2491. | Renumbered.\] |
 | [2492\.](%C2%A7%2002492%20-%20Overseas%20commissary%20and%20exchange%20stores%20access%20and%20purchase%20restrictions.md) | Overseas commissary and exchange stores: access and purchase restrictions. |
 | [2493\.](%C2%A7%2002493%20-%20Fisher%20Houses%20administration%20as%20nonappropriated%20fund%20instrumentality.md) | Fisher Houses: administration as nonappropriated fund instrumentality. |
+| [2494\.](%C2%A7%2002494%20-%20Uniform%20funding%20and%20management%20of%20morale%2C%20welfare%2C%20and%20recreation%20programs.md) | Uniform funding and management of morale, welfare, and recreation programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2001—Pub. L. 107–107, div. A, title III, §§332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 and substituted “Commissary stores: release of certain commercially valuable information to the public” for “Commissary stores: limitations on release of sales information” in item 2487.
+2003—Pub. L. 108–136, div. A, title VI, §652(b), Nov. 24, 2003, 117 Stat. 1522, added item 2481.
+
+2002—Pub. L. 107–314, div. A, title III, §323(b), Dec. 2, 2002, 116 Stat. 2511, added item 2494.
+
+2001—Pub. L. 107–107, div. A, title III, §§332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 andsubstituted “Commissary stores: release of certain commercially valuable information to the public” for “Commissary stores: limitations on release of sales information” in item 2487.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §331(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, added item 2484 and struck out former item 2484 “Commissary stores: expenses”.
 
@@ -58,7 +63,7 @@ Pub. L. 98–407, title VIII, §810(b), Aug. 28, 1984, 98 Stat. 1523, added item
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02481 - Renumbered &sect;2686](%C2%A7%2002481%20-%20Renumbered%20%C2%A72686.md)
+- [&sect; 02481 - Existence of defense commissary system and exchange stores system](%C2%A7%2002481%20-%20Existence%20of%20defense%20commissary%20system%20and%20exchange%20stores%20system.md)
 - [&sect; 02482 - Commissary stores operation](%C2%A7%2002482%20-%20Commissary%20stores%20operation.md)
 - [&sect; 02482a - Nonappropriated fund instrumentalities contracts with other agencies and instrumentalities to provide and obtain goods and services](%C2%A7%2002482a%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20and%20obtain%20goods%20and%20services.md)
 - [&sect; 02483 - Commissary stores reimbursement for use of commissary facilities by military departments](%C2%A7%2002483%20-%20Commissary%20stores%20reimbursement%20for%20use%20of%20commissary%20facilities%20by%20military%20departments.md)
@@ -74,3 +79,4 @@ Pub. L. 98–407, title VIII, §810(b), Aug. 28, 1984, 98 Stat. 1523, added item
 - [&sect; 02491 - Renumbered &sect;2500](%C2%A7%2002491%20-%20Renumbered%20%C2%A72500.md)
 - [&sect; 02492 - Overseas commissary and exchange stores access and purchase restrictions](%C2%A7%2002492%20-%20Overseas%20commissary%20and%20exchange%20stores%20access%20and%20purchase%20restrictions.md)
 - [&sect; 02493 - Fisher Houses administration as nonappropriated fund instrumentality](%C2%A7%2002493%20-%20Fisher%20Houses%20administration%20as%20nonappropriated%20fund%20instrumentality.md)
+- [&sect; 02494 - Uniform funding and management of morale, welfare, and recreation programs](%C2%A7%2002494%20-%20Uniform%20funding%20and%20management%20of%20morale%2C%20welfare%2C%20and%20recreation%20programs.md)

@@ -5,16 +5,22 @@
 | [221\.](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md) | Future-years defense program: submission to Congress; consistency in budgeting. |
 | [222\.](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md) | Future-years mission budget. |
 | [223\.](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md) | Ballistic missile defense programs: program elements. |
+| [223a.](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md) | Ballistic missile defense programs: procurement. |
 | [224\.](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md) | Ballistic missile defense programs: display of amounts for research, development, test, and evaluation. |
 | [226\.](%C2%A7%2000226%20-%20Scoring%20of%20outlays.md) | Scoring of outlays. |
 | \[227. | Repealed.\] |
-| [228\.](%C2%A7%2000228%20-%20Monthly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md) | Monthly reports on allocation of funds within operation and maintenance budget subactivities. |
+| [228\.](%C2%A7%2000228%20-%20Quarterly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md) | Quarterly reports on allocation of funds within operation and maintenance budget subactivities. |
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
-| [230\.](%C2%A7%2000230%20-%20Amounts%20for%20declassification%20of%20records.md) | Amounts for declassification of records. |
+| \[230. | Repealed.\] |
+| [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title II, §223(a)(2), title X, §1031(a)(6)(B)(ii), Nov. 24, 2003, 117 Stat. 1420, 1596, added item 223a and substituted “Quarterly” for “Monthly” in item 228.
+
+2002—Pub. L. 107–314, div. A, title X, §§1022(b), 1041(a)(2)(B), Dec. 2, 2002, 116 Stat. 2640, 2645, struck out item 230 “Amounts for declassification of records” and added item 231.
 
 2001—Pub. L. 107–107, div. A, title II, §231(b)(2), Dec. 28, 2001, 115 Stat. 1037, substituted “research, development, test, and evaluation” for “procurement” in item 224.
 
@@ -40,9 +46,11 @@
 - [&sect; 00221 - Future-years defense program submission to Congress; consistency in budgeting](%C2%A7%2000221%20-%20Future-years%20defense%20program%20submission%20to%20Congress%3B%20consistency%20in%20budgeting.md)
 - [&sect; 00222 - Future-years mission budget](%C2%A7%2000222%20-%20Future-years%20mission%20budget.md)
 - [&sect; 00223 - Ballistic missile defense programs program elements](%C2%A7%2000223%20-%20Ballistic%20missile%20defense%20programs%20program%20elements.md)
+- [&sect; 00223a - Ballistic missile defense programs procurement](%C2%A7%2000223a%20-%20Ballistic%20missile%20defense%20programs%20procurement.md)
 - [&sect; 00224 - Ballistic missile defense programs display of amounts for research, development, test, and evaluation](%C2%A7%2000224%20-%20Ballistic%20missile%20defense%20programs%20display%20of%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation.md)
 - [&sect; 00226 - Scoring of outlays](%C2%A7%2000226%20-%20Scoring%20of%20outlays.md)
 - [&sect; 00227 - Repealed. Pub. L. 104&#8211;106, div. A, title X, &sect;1061(f)(1), Feb. 10, 1996, 110 Stat. 443](%C2%A7%2000227%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%28f%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20443.md)
-- [&sect; 00228 - Monthly reports on allocation of funds within operation and maintenance budget subactivities](%C2%A7%2000228%20-%20Monthly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md)
+- [&sect; 00228 - Quarterly reports on allocation of funds within operation and maintenance budget subactivities](%C2%A7%2000228%20-%20Quarterly%20reports%20on%20allocation%20of%20funds%20within%20operation%20and%20maintenance%20budget%20subactivities.md)
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
-- [&sect; 00230 - Amounts for declassification of records](%C2%A7%2000230%20-%20Amounts%20for%20declassification%20of%20records.md)
+- [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
+- [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)

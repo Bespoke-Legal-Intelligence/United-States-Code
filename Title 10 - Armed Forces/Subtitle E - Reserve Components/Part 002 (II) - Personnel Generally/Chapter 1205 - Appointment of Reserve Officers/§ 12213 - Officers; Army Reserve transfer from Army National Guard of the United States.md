@@ -4,7 +4,7 @@
 
 (b) Unless discharged from his appointment as a Reserve, an officer of the Army National Guard of the United States whose Federal recognition as a member of the Army National Guard is withdrawn becomes a member of the Army Reserve. An officer who so becomes a member of the Army Reserve ceases to be a member of the Army National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 194, §3352; Pub. L. 85–861, §1(80)(A), Sept. 2, 1958, 72 Stat. 1468; Pub. L. 86–559, §1(7), June 30, 1960, 74 Stat. 265; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12213 and amended Pub. L. 103–337, div. A, title XVI, §§1636(a), 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108Stat. 2968, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(b)(13)(A), (14), Feb. 10, 1996, 110 Stat. 496.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 194, §3352; Pub. L. 85–861, §1(80)(A), Sept. 2, 1958, 72 Stat. 1468; Pub. L. 86–559, §1(7), June 30, 1960, 74 Stat. 265; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12213 and amended Pub. L. 103–337, div. A, title XVI, §§1636(a), 1662(c)(3), 1675(b)(2), Oct. 5, 1994, 108 Stat. 2968, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(b)(13)(A), (14), Feb. 10, 1996, 110 Stat. 496.)
 
 Historical and Revision Notes<br>1956
 

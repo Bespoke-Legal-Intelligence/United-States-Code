@@ -6,9 +6,9 @@ The Oil Spill Liability Trust Fund shall be available to the Secretary for actio
 
 #### Amendments
 
-1990—Pub. L. 101–380 amended section generally. Prior to amendment, section read as follows: “The revolving fund established under section 1321(k) of this title shall be available to the Secretary for Federal actions and activities under section 1474 of this title.”
+1990—Pub. L. 101–380 amended section generally. Prior to amendment, section read as follows: “The revolvingfund established under section 1321(k) of this title shall be available to the Secretary for Federal actions and activities under section 1474 of this title.”
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
 

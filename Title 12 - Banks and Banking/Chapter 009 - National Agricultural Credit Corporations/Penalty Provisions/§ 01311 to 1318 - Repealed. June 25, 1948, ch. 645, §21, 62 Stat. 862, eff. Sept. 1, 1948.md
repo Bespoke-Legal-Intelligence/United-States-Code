@@ -6,7 +6,7 @@ Section 1312, act Mar. 4, 1923, ch. 252, title II, §216(b), 42 Stat. 1472, rela
 
 Section 1313, act Mar. 4, 1923, ch. 252, title II, §216(c), 42 Stat. 1472, related to overvaluation of property offered as security. See section 1014 of Title 18.
 
-Section 1314, act Mar. 4, 1923, ch. 252, title II, §216(d), 42 Stat. 1472, related to offenses by examiners. See sections 213, 1908, and 1909 of Title 18.
+Section 1314, act Mar. 4, 1923, ch. 252, title II, §216(d), 42 Stat. 1472, related to offenses by examiners. See sections 1908 and 1909 of Title 18.
 
 Section 1315, act Mar. 4, 1923, ch. 252, title II, §216(e), 42 Stat. 1472, related to acceptance of gifts by officers. See section 215 of Title 18.
 

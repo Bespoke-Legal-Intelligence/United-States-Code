@@ -2,7 +2,7 @@
 
 (a) The Longshore and Harbor Workers’ Compensation Act (33 U.S.C. 901 et seq.) applies with respect to disability or death resulting from injury, as defined by section 2(2) of such Act (33 U.S.C. 902(2)), occurring to an employee of a nonappropriated fund instrumentality described by section 2105(c) of this title, or to a volunteer providing such an instrumentality with services accepted under section 1588 of title 10, who is—
 
-&emsp;(1) a United States citizen or a permanent resident of the United States or a territory or possession of the United States employed outside the continental United States; or
+&emsp;(1) a United States citizen or a permanent resident of the United States or a territory orpossession of the United States employed outside the continental United States; or
 
 &emsp;(2) employed inside the continental United States.
 

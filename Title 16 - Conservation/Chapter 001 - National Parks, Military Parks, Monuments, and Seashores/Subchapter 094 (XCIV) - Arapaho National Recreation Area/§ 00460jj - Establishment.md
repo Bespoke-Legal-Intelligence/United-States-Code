@@ -6,7 +6,7 @@ An area of land comprising approximately thirty-six thousand two hundred thirty-
 
 #### (b) Administration
 
-The Secretary shall administer the Arapaho National Recreation Area, in accordance with the laws and regulations applicable to the national forests, in such a manner as will best provide for—
+The Secretary shall administer the Arapaho National Recreation Area, in accordance withthe laws and regulations applicable to the national forests, in such a manner as will best provide for—
 
 &emsp;(1) public recreation and enjoyment;
 

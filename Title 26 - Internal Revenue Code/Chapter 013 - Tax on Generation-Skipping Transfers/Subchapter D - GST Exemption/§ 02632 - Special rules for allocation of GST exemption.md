@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) before the date that the individual attains age 46,
 
-&emsp;&emsp;&emsp;&emsp;(II) on or before one or more dates specified in the trust instrument that will occur before the date that such individual attains age 46, or
+&emsp;&emsp;&emsp;&emsp;(II) on or before one or more dates specified in the trust instrument thatwill occur before the date that such individual attains age 46, or
 
 &emsp;&emsp;&emsp;&emsp;(III) upon the occurrence of an event that, in accordance with regulations prescribed by the Secretary, may reasonably be expected to occur before the date that such individual attains age 46,
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(iii) the trust instrument provides that, if one or more individuals who are non-skip persons die on or before a date or event described in clause (i) or (ii), more than 25 percent of the trust corpus either must be distributed to the estate or estates of one or more of such individuals or is subject to a general power of appointment exercisable by one or more of such individuals,
 
-&emsp;&emsp;&emsp;(iv) the trust is a trust any portion of which would be included in the gross estate of a non-skip person (other than thetransferor) if such person died immediately after the transfer,
+&emsp;&emsp;&emsp;(iv) the trust is a trust any portion of which would be included in the gross estate of a non-skip person (other than the transferor) if such person died immediately after the transfer,
 
 &emsp;&emsp;&emsp;(v) the trust is a charitable lead annuity trust (within the meaning of section 2642(e)(3)(A)) or a charitable remainder annuity trust or a charitable remainder unitrust (within the meaning of section 664(d)), or
 
@@ -148,7 +148,7 @@
 
 #### (B) Nonexempt portion
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (atthe time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, §1014(g)(16), Nov. 10, 1988, 102 Stat. 3566; Pub. L. 107–16, title V, §561(a), (b), June 7, 2001, 115 Stat. 86, 89.)
 

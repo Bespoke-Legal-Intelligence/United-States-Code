@@ -16,7 +16,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (3) Grantor trusts
 
-&emsp;A beneficiary of any trust described in paragraph (1) shall not be considered the owner ofany portion of such trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners).
+&emsp;A beneficiary of any trust described in paragraph (1) shall not be considered the owner of any portion of such trust under subpart E of part I of subchapter J (relating to grantors and others treated as substantial owners).
 
 #### (4) Failure to meet requirements of section 410(b)
 
@@ -26,7 +26,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (B) Failure to meet coverage tests
 
-&emsp;&emsp;If a trust is not exempt from tax under section 501(a) for any taxable year solely because such trust is part of a plan which fails to meet the requirements of section 401(a)(26) or 410(b), paragraphs (1) and (2) shall not apply by reason of such failure to any employee who was not a highly compensated employee during—
+&emsp;&emsp;If a trust is not exempt from tax under section 501(a) for any taxable year solely because such trust is part of a plan which fails to meet the requirements of section 401(a)(26) or 410(b), paragraphs (1) and (2)shall not apply by reason of such failure to any employee who was not a highly compensated employee during—
 
 &emsp;&emsp;&emsp;(i) such taxable year, or
 
@@ -94,7 +94,7 @@ Except as otherwise provided in this section, any amount actually distributed to
 
 #### (A) Transfer of proceeds from sale of distributed property treated as transfer of distributed property
 
-&emsp;&emsp;The transfer of an amount equal to any portion of the proceeds from the sale ofproperty received in the distribution shall be treated as the transfer of property received in the distribution.
+&emsp;&emsp;The transfer of an amount equal to any portion of the proceeds from the sale of property received in the distribution shall be treated as the transfer of property received in the distribution.
 
 #### (B) Proceeds attributable to increase in value
 
@@ -184,7 +184,7 @@ For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit
 
 #### (2) Distributions by United States to nonresident aliens
 
-&emsp;The amount includible under subsection (a) in the gross income of a nonresident alien with respect to a distribution made by theUnited States in respect of services performed by an employee of the United States shall not exceed an amount which bears the same ratio to the amount includible in gross income without regard to this paragraph as—
+&emsp;The amount includible under subsection (a) in the gross income of a nonresident alien with respect to a distribution made by the United States in respect of services performed by an employee of the United States shall not exceed an amount which bears the same ratio to the amount includible in gross income without regard to this paragraph as—
 
 &emsp;&emsp;(A) the aggregate basic pay paid by the United States to such employee for such services, reduced by the amount of such basic pay which was not includible in gross income by reason of being from sources without the United States, bears to
 
@@ -194,7 +194,7 @@ For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit
 
 #### (3) Cash or deferred arrangements
 
-&emsp;For purposes of this title, contributions made by an employer on behalf of an employee to a trust which is a part of a qualified cash or deferred arrangement (as defined in section 401(k)(2)) or which is part of a salary reduction agreement under section 403(b) shall not be treated as distributed or made available to the employee nor as contributions made to the trust by the employee merely because the arrangement includes provisions under which the employee has an election whether the contribution will be made to the trust or received by the employee in cash.
+&emsp;For purposes of this title, contributions made by an employer on behalf of an employee to a trust which is a part of a qualified cash or deferred arrangement (as defined in section401(k)(2)) or which is part of a salary reduction agreement under section 403(b) shall not be treated as distributed or made available to the employee nor as contributions made to the trust by the employee merely because the arrangement includes provisions under which the employee has an election whether the contribution will be made to the trust or received by the employee in cash.
 
 #### (4) Net unrealized appreciation
 
@@ -442,7 +442,7 @@ For purposes of this chapter—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), contributions made by an employer on behalf of an employee to an individual retirement plan pursuant to a simplified employee pension (as defined in section 408(k))—
+&emsp;Except as provided in paragraph (2), contributions made by an employer on behalf ofan employee to an individual retirement plan pursuant to a simplified employee pension (as defined in section 408(k))—
 
 &emsp;&emsp;(A) shall not be treated as distributed or made available to the employee or as contributions made by the employee, and
 
@@ -482,7 +482,7 @@ For purposes of this section, except as otherwise provided in subparagraph (A) o
 
 Rules similar to the rules of paragraphs (1) and (3) of subsection (h) shall apply to contributions and distributions with respect to a simple retirement account under section 408(p).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 135; Pub. L. 86–437, §§1, 2(a), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–792, §4(c), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §§221(c)(1), 232(e)(1)–(3), Feb. 26, 1964, 78 Stat. 75, 111; Pub. L. 91–172, title III, §321(b)(1), title V, §515(a)(1), Dec. 30, 1969, 83 Stat. 590, 643; Pub. L. 93–406, title II, §§2002(g)(5), 2005(a), (b)(1), (c)(1), (2), Sept. 2, 1974, 88 Stat. 968, 987, 990, 991: Pub. L. 94–267, §1(a), Apr. 15, 1976, 90 Stat. 365; Pub. L. 94–455, title XIV, §1402(b)(1)(C), (2), title XV, §1512(a), title XIX, §§1901(a)(57)(A)–(C)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1742, 1773, 1774, 1834; Pub. L. 95–30, title I, §102(b)(4), May 23, 1977, 91 Stat. 137; Pub. L. 95–458, §4(a), (c), Oct. 14, 1978, 92 Stat. 1257, 1259; Pub. L. 95–600, title I, §§101(d)(1), 135(b), 157(f)(1), (g)(1), (h)(1), Nov. 6, 1978, 92 Stat. 2770, 2787, 2806–2808; Pub. L. 96–222, title I, §101(a)(14)(C), (E)(i), Apr. 1, 1980, 94 Stat. 204, 205; Pub. L. 96–608, §2(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title III, §§311(b)(2), (3)(A), (c), 314(c)(1), Aug. 13, 1981, 95 Stat. 280, 286; Pub. L. 97–448, title I, §§101(b), 103(c)(7), (8)(A), (12)(D), Jan. 12, 1983, 96 Stat. 2366, 2376, 2377; Pub. L. 98–369, div. A, title IV, §491(c)(2), (d)(9)–(11), title V, §522(a)(1), (b)–(d)(8), title VII, §713(c)(3), title X, §1001(b)(3), (e), July 18, 1984, 98 Stat. 848, 849, 868–870, 957, 1011, 1012; Pub. L. 98–397, title II, §§204(c)(1), (3), (4), 207(a), Aug. 23, 1984, 98 Stat. 1448, 1449; Pub. L. 99–272, title XI, §11012(c), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title I, §104(b)(5), title XI, §§1105(a), 1106(c)(2), 1108(b),1112(c), 1121(c)(1), 1122(a), (b)(1)(A), (2), (e)(1), (2)(A), (g), title XVIII, §§1852(a)(5)(A), (b)(1)–(7), (c)(5), 1854(f)(2), 1875(c)(1)(A), 1898(a)(2), (3), (c)(1)(A), (7)(A)(i), (e), Oct. 22, 1986, 100 Stat. 2105, 2417, 2423, 2432, 2444, 2465, 2466, 2469, 2470, 2865–2867, 2881, 2894, 2942, 2943, 2951, 2954, 2955; Pub. L. 100–647, title I, §§1011(c)(1)–(6)(B), (11), (h)(4), 1011A(a)(1), (b)(4)(A)–(D), (5)–(8), (10), (c)(9), 1018(t)(8)(A), (C), (u)(1), (6), (7), title VI, §6068(a), Nov. 10, 1988, 102 Stat. 3457–3459, 3464, 3472–3474, 3476, 3589, 3590, 3703; Pub. L. 101–239, title VII, §7811(g)(2), (i)(13), Dec. 19, 1989, 103 Stat. 2409, 2411; Pub. L. 101–508, title XI, §11801(c)(9)(I), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 102–318, title V, §§521(a), (b)(9)–(11), 522(c)(1), July 3, 1992, 106 Stat. 300, 310, 311, 315; Pub. L. 103–465, title VII, §732(c), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1401(a)–(b)(2), (13), 1421(b)(3)(A), (9)(B), 1450(a)(2), 1704(t)(68), Aug. 20, 1996, 110 Stat. 1787–1789, 1796, 1798, 1814, 1891; Pub. L. 105–34, title XV, §1501(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 105–206, title VI, §6005(c)(2)(A), July 22, 1998, 112 Stat. 800; Pub. L. 107–16, title VI, §§611(d)(1)–(3)(A), 617(b), (c), 632(a)(3)(G), 636(b)(1), 641(a)(2)(A), (B), (b)(2)–(d), (e)(4)–(6), 643(a), 644(a), 657(b), June 7, 2001, 115 Stat. 97, 98, 105, 114, 117, 119–123, 136; Pub. L. 107–147, title IV, §411(<i>l</i>)(3), (<i>o</i>)(1), (p)(6), (q)(2), Mar. 9, 2002, 116 Stat. 47, 48, 51.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 135; Pub. L. 86–437, §§1, 2(a), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–792, §4(c), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §§221(c)(1), 232(e)(1)–(3), Feb. 26, 1964, 78 Stat. 75, 111; Pub. L. 91–172, title III, §321(b)(1), title V, §515(a)(1), Dec. 30, 1969, 83 Stat. 590, 643; Pub. L. 93–406, title II, §§2002(g)(5), 2005(a), (b)(1), (c)(1), (2), Sept. 2, 1974, 88 Stat. 968, 987, 990, 991: Pub. L. 94–267, §1(a), Apr. 15, 1976, 90 Stat. 365; Pub. L. 94–455, title XIV, §1402(b)(1)(C), (2), title XV, §1512(a), title XIX, §§1901(a)(57)(A)–(C)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1742, 1773, 1774, 1834; Pub. L. 95–30, title I, §102(b)(4), May 23, 1977, 91 Stat. 137; Pub. L. 95–458, §4(a), (c), Oct. 14, 1978, 92 Stat. 1257, 1259; Pub. L. 95–600, title I, §§101(d)(1), 135(b), 157(f)(1), (g)(1), (h)(1), Nov. 6, 1978, 92 Stat. 2770, 2787, 2806–2808; Pub. L. 96–222, title I, §101(a)(14)(C), (E)(i), Apr. 1, 1980, 94 Stat. 204, 205; Pub. L. 96–608, §2(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title III, §§311(b)(2), (3)(A), (c), 314(c)(1), Aug. 13, 1981, 95 Stat. 280, 286; Pub. L. 97–448, title I, §§101(b), 103(c)(7), (8)(A), (12)(D), Jan. 12, 1983, 96 Stat. 2366, 2376, 2377; Pub. L. 98–369, div. A, title IV, §491(c)(2), (d)(9)–(11), title V, §522(a)(1), (b)–(d)(8), title VII, §713(c)(3), title X, §1001(b)(3), (e), July 18, 1984, 98 Stat. 848, 849, 868–870, 957, 1011, 1012; Pub. L. 98–397, title II, §§204(c)(1), (3), (4), 207(a), Aug. 23, 1984, 98 Stat. 1448, 1449; Pub. L. 99–272, title XI, §11012(c), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title I, §104(b)(5), title XI, §§1105(a), 1106(c)(2), 1108(b), 1112(c), 1121(c)(1), 1122(a), (b)(1)(A), (2), (e)(1), (2)(A), (g), title XVIII, §§1852(a)(5)(A), (b)(1)–(7), (c)(5), 1854(f)(2), 1875(c)(1)(A), 1898(a)(2), (3), (c)(1)(A), (7)(A)(i), (e), Oct. 22, 1986, 100 Stat. 2105, 2417, 2423, 2432, 2444, 2465, 2466, 2469, 2470, 2865–2867, 2881, 2894, 2942, 2943, 2951, 2954, 2955; Pub. L. 100–647, title I, §§1011(c)(1)–(6)(B), (11), (h)(4), 1011A(a)(1), (b)(4)(A)–(D), (5)–(8), (10), (c)(9), 1018(t)(8)(A), (C), (u)(1), (6), (7), title VI, §6068(a), Nov. 10, 1988, 102 Stat. 3457–3459, 3464, 3472–3474, 3476, 3589, 3590, 3703; Pub. L. 101–239, title VII, §7811(g)(2), (i)(13), Dec. 19, 1989, 103 Stat. 2409, 2411; Pub. L. 101–508, title XI, §11801(c)(9)(I), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 102–318, title V, §§521(a), (b)(9)–(11), 522(c)(1), July 3, 1992, 106 Stat. 300, 310, 311, 315; Pub. L. 103–465, title VII, §732(c), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1401(a)–(b)(2), (13), 1421(b)(3)(A), (9)(B), 1450(a)(2), 1704(t)(68), Aug. 20, 1996, 110 Stat. 1787–1789, 1796, 1798, 1814, 1891; Pub. L. 105–34, title XV, §1501(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 105–206, title VI, §6005(c)(2)(A), July 22, 1998, 112 Stat. 800; Pub. L.107–16, title VI, §§611(d)(1)–(3)(A), 617(b), (c), 632(a)(3)(G), 636(b)(1), 641(a)(2)(A), (B), (b)(2)–(d), (e)(4)–(6), 643(a), 644(a), 657(b), June 7, 2001, 115 Stat. 97, 98, 105, 114, 117, 119–123, 136; Pub. L. 107–147, title IV, §411(<i>l</i>)(3), (<i>o</i>)(1), (p)(6), (q)(2), Mar. 9, 2002, 116 Stat. 47, 48, 51.)
 
 #### Amendment of Section
 
@@ -546,7 +546,7 @@ Subsec. (f)(1)(B). Pub. L. 107–16, §§641(e)(6), 901, temporarily substituted
 
 Subsec. (f)(1)(E). Pub. L. 107–16, §§641(c), 901, temporarily added subpar. (E). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (f)(2)(A). Pub. L. 107–16, §§641(e)(4), 901, temporarily substituted “, paragraph (4) of section 403(a), subparagraph (A) of section 403(b)(8), or subparagraph\(A) of section 457(e)(16)” for “or paragraph (4) of section 403(a)”. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (f)(2)(A). Pub. L. 107–16, §§641(e)(4), 901, temporarily substituted “, paragraph (4) of section 403(a), subparagraph (A) of section 403(b)(8), or subparagraph (A) of section 457(e)(16)” for “or paragraph (4) of section 403(a)”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (g)(1). Pub. L. 107–16, §§611(d)(1), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding subsections (e)(3) and (h)(1)(B), the elective deferrals of any individual for any taxable year shall be included in such individual's gross income to the extent the amount of such deferrals for the taxable year exceeds $7,000.” See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -908,7 +908,7 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(57)(B), struck out subsec. (d) which re
 
 Subsec. (e)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (e)(4)(A). Pub. L. 94–455, §1901(a)(57)(C)(i), substituted “Except for purposes of subsection (a)(2) andsection 403(a)(2)” for “For purposes of this subparagraph”.
+Subsec. (e)(4)(A). Pub. L. 94–455, §1901(a)(57)(C)(i), substituted “Except for purposes of subsection (a)(2) and section 403(a)(2)” for “For purposes of this subparagraph”.
 
 Subsec. (e)(4)(B), (J). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -996,7 +996,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 Retention of certain transition rules.—The amendments made by this section shall not apply to any distribution for which the taxpayer is eligible to elect the benefits of section 1122(h)(3) or (5) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out below\]. Notwithstanding the preceding sentence, individuals who elect such benefits after December 31, 1999, shall not be eligible for 5-year averaging under section 402(d) of the Internal Revenue Code of 1986 (as in effect immediately before such amendments).”
 
-Amendment by section 1421(b)(3)(A), (9)(B) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(3)(A), (9)(B) of Pub. L. 104–188 applicable to taxable years beginning after Dec.31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Amendment by section 1450(a)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1450(a)(3) of Pub. L. 104–188, set out in a Modifications of Subsection (b) of This Section note under section 403 of this title.
 
@@ -1088,7 +1088,7 @@ Reporting requirements.—The amendments made by subsection (b) \[amending secti
 
 Amendment by section 1106(c)(2) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1106(i) of Pub. L. 99–514, set out as a note under section 415 of this title.
 
-Amendment by section 1108(b) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section1108(h) of Pub. L. 99–514, set out as a note under section 219 of this title.
+Amendment by section 1108(b) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1108(h) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
 Amendment by section 1112(c) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -1192,7 +1192,7 @@ Special rule for state plans.—In the case of a plan maintained by a State whic
 
 Amendment by section 1852(a)(5)(A), (b)(1)–(7), (c)(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Section 1854(f)(4)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011(c)(6)(C), Nov. 10, 1988, 102Stat. 3458, provided that: “The amendments made by paragraph (2) \[amending this section\] shall apply to any transaction occurring after December 31, 1984, except that in the case of any transaction occurring before the date of the enactment of this Act \[Oct. 22, 1986\], the period under which proceeds are required to be invested under section 402(j) of the Internal Revenue Code of 1954 \[now 1986\] (as added by paragraph (2)) shall not end before the earlier of 1 year after the date of such transaction or 180 days after the date of the enactment of this Act.”
+Section 1854(f)(4)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1011(c)(6)(C), Nov. 10, 1988, 102 Stat. 3458, provided that: “The amendments made by paragraph (2) \[amending this section\] shall apply to any transaction occurring after December 31, 1984, except that in the case of any transaction occurring before the date of the enactment of this Act \[Oct. 22, 1986\], the period under which proceeds are required to be invested under section 402(j) of the Internal Revenue Code of 1954 \[now 1986\] (as added by paragraph (2)) shall not end before the earlier of 1 year after the date of such transaction or 180 days after the date of the enactment of this Act.”
 
 Section 1875(c)(1)(B) of Pub. L. 99–514 provided that: “The amendments made by subparagraph (A) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]. Such amendments shall apply also to distributions after 1983 and on or before the date of the enactment of this Act to individuals who are not 5-percent owners (as defined in section 402(a)(5)(F)(ii) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by this paragraph)).”
 
@@ -1268,7 +1268,7 @@ Validation of certain attempted rollovers.—If the taxpayer—
 
 &emsp;“(B) failed to meet the requirements of such section that all property received in the distribution be transferred,
 
-> such section (as amended by this section) shall be applied by treating any transfer of property made on or before December 31, 1978, as if it were made on or beforethe 60th day after the day on which the taxpayer received such property. For purposes of the preceding sentence, a transfer of money shall be treated as a transfer of property received in a distribution to the extent that the amount of the money transferred does not exceed the highest fair market value of the property distributed during the 60-day period beginning on the date on which the taxpayer received such property.”
+> such section (as amended by this section) shall be applied by treating any transfer of property made on or before December 31, 1978, as if it were made on or before the 60th day after the day on which the taxpayer received such property. For purposes of the preceding sentence, a transfer of money shall be treated as a transfer of property received in a distribution to the extent that the amount of the money transferred does not exceed the highest fair market value of the property distributed during the 60-day period beginning on the date on which the taxpayer received such property.”
 
 #### Effective Date of 1977 Amendment
 
@@ -1338,7 +1338,7 @@ Section 1011A(a)(5) of Pub. L. 100–647 provided that: “Section 402(a)(5)(F)(
 
 #### Applicability of Subsection (a)(5)(D)(i)(II)
 
-Section 1011A(b)(4)(E) of Pub. L. 100–647 provided that: “Section 402(a)(5)(D)(i)(II) of the 1986 Code (as in effect after the amendment made by subparagraph (A))shall not apply to distributions after December 31, 1986, and before March 31, 1988.”
+Section 1011A(b)(4)(E) of Pub. L. 100–647 provided that: “Section 402(a)(5)(D)(i)(II) of the 1986 Code (as in effect after the amendment made by subparagraph (A)) shall not apply to distributions after December 31, 1986, and before March 31, 1988.”
 
 #### Election To Treat Certain Lump Sum Distributions Received During 1987 as Received During 1986
 
@@ -1416,11 +1416,11 @@ Time of contribution.—
 
 &emsp;&emsp;&emsp;(i)
 
-General rule.—If the initial portion of a payment the applicable period for which is determined under subparagraph (A) is contributed before December 31, 1976, by an individual to a trust, plan, account, annuity, or bond described in subparagraph (A) and the remaining portion of such payment is contributed by such individual tosuch a trust, plan, account, annuity, or bond not later than 30 days after the date a credit or refund is allowed by the Secretary of the Treasury or his delegate under section 6402 of the Internal Revenue Code of 1986 with respect to the contribution, then, for purposes of subparagraph (A) and sections 402(a)(5) and 403(a)(4) of such Code, at the election of the individual (made in accordance with regulations prescribed by the Secretary or his delegate), such remaining portion shall be considered to have been contributed on the date the initial portion of the payment was contributed. For purposes of this subparagraph, the initial portion of a payment is the amount by which such payment exceeds the amount of the tax imposed on such payment by chapter 1 of such Code (determined without regard to this subparagraph). \[chapter 1 of this title\]
+General rule.—If the initial portion of a payment the applicable period for which is determined under subparagraph (A) is contributed before December 31, 1976, by an individual to a trust, plan, account, annuity, or bond described in subparagraph (A) and the remaining portion of such payment is contributed by such individual to such a trust, plan, account, annuity, or bond not later than 30 days after the date a credit or refund is allowed by the Secretary of the Treasury or his delegate under section 6402 of the Internal Revenue Code of 1986 with respect to the contribution, then, for purposes of subparagraph (A) and sections 402(a)(5) and 403(a)(4) of such Code, at the election of the individual (made in accordance with regulations prescribed by the Secretary or his delegate), such remaining portion shall be considered to have been contributed on the date the initial portion of the payment was contributed. For purposes of this subparagraph, the initial portion of a payment is the amount by which such payment exceeds the amount of the tax imposed on such payment by chapter 1 of such Code (determined without regard to this subparagraph). \[chapter 1 of this title\]
 
 &emsp;&emsp;&emsp;“(ii)
 
-Regulations.—For purposes of this subparagraph, the tax imposed on a payment by chapter 1 of the Internal Revenue Code of 1986, and the date a credit or refund is allowed by the Secretary of the Treasury or his delegate under section 6402 with respect to a contribution, shall be determined under regulations prescribed by the Secretary of the Treasury or his delegate.
+Regulations.—For purposes of this subparagraph, the tax imposed on a payment by chapter 1 of the Internal Revenue Code of 1986,and the date a credit or refund is allowed by the Secretary of the Treasury or his delegate under section 6402 with respect to a contribution, shall be determined under regulations prescribed by the Secretary of the Treasury or his delegate.
 
 &emsp;&emsp;“(C)
 

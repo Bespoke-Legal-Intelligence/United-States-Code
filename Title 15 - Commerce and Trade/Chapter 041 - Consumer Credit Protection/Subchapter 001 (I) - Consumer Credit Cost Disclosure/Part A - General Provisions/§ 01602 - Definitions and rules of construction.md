@@ -182,5 +182,5 @@ Section 156 of title I of Pub. L. 103–325 provided that: “This subtitle \[su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78m, 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1693a, 1693g of this title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 26 section 6311; title 42 section 5511.
+This section is referred to in sections 78m, 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1681a, 1681c–1, 1693a, 1693g of this title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 26 section 6311; title 42 section 5511.
 

@@ -52,7 +52,7 @@
 
 (2) The Inspector General of the Department shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Inspector General to monitor the quality-assurance program.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 214; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L.103–446, title XII, §1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 214; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ The Administrator, in coordination with the appropriate departments and agencies
 
 &emsp;(1) Methods and means by which pipes and other constructed conveyances utilized in public water systems could be destroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
 
-&emsp;(2) Methods and means by which collection, pretreatment, treatment, storage and distribution facilities utilized or used in connection with public water systems and collection and pretreatment storage facilities used in connection with public water systems could be destroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
+&emsp;(2) Methods and means by which collection, pretreatment, treatment, storage and distribution facilities utilized or used in connection with public water systems and collection and pretreatment storage facilities used in connection with public water systems could bedestroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
 
 &emsp;(3) Methods and means by which pipes, constructed conveyances, collection, pretreatment, treatment, storage and distribution systems that are utilized in connection with public water systems could be altered or affected so as to be subject to cross-contamination of drinking water supplies.
 

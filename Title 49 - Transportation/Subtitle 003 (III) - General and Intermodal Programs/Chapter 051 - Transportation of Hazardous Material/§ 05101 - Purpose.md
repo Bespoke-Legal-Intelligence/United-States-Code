@@ -32,7 +32,7 @@ Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–311, title I, §101, Aug. 26, 1994, 108 Stat. 1673, provided that: “This title \[amending sections 5102to 5104, 5107, 5108, 5110, 5116, 5117, 5121, and 5125 to 5127 of this title and enacting provisions set out as notes under this section, sections 5103, 5112, and 5121 of this title, and section 307 of Title 23, Highways\] may be cited as the ‘Hazardous Materials Transportation Authorization Act of 1994’.”
+Pub. L. 103–311, title I, §101, Aug. 26, 1994, 108 Stat. 1673, provided that: “This title \[amending sections 5102 to 5104, 5107, 5108, 5110, 5116, 5117, 5121, and 5125 to 5127 of this title and enacting provisions set out as notes under this section, sections 5103, 5112, and 5121 of this title, and section 307 of Title 23, Highways\] may be cited as the ‘Hazardous Materials Transportation Authorization Act of 1994’.”
 
 #### Buy American
 

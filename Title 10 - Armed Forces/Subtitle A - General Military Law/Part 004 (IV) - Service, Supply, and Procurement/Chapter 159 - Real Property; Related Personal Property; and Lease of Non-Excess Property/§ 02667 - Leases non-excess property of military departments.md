@@ -4,7 +4,7 @@
 
 &emsp;(1) under the control of that department; and
 
-&emsp;(2) not excess property, as defined by section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472).
+&emsp;(2) not excess property, as defined by section 102 of title 40.
 
 (b) A lease under subsection (a)—
 
@@ -16,7 +16,7 @@
 
 &emsp;(4) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Secretary; and
 
-&emsp;(5) may provide, notwithstanding section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
+&emsp;(5) may provide, notwithstanding section 1302 of title 40 or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
 
 (c)(1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
 
@@ -30,7 +30,7 @@
 
 &emsp;(E) Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate.
 
-(2) In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concernedthat are selected for that purpose by the Secretary concerned.
+(2) In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concerned that are selected for that purpose by the Secretary concerned.
 
 (3) Sections 2662 and 2802 of this title shall not apply to any new facilities whose construction is accepted as in-kind consideration under this subsection.
 
@@ -66,19 +66,15 @@
 
 (2) Payments for utilities and services furnished lessees pursuant to leases entered into under this section shall be credited to the appropriation account or working capital fund from which the cost of furnishing the utilities and services was paid.
 
-(3) Not later than March 15 each year, the Secretary of Defense shall submit to the congressional defense committees a report which shall include—
+\[(3) Repealed. Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645.\]
 
-&emsp;(A) an accounting of the receipt and use of all money rentals that were deposited and expended under this subsection during the fiscal year preceding the fiscal year in which the report is made; and
-
-&emsp;(B) a detailed explanation of each lease entered into, and of each amendment made to existing leases, during such preceding fiscal year.
-
-(4) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary of a military department (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
+(4) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary of a militarydepartment (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
 (5) Money rentals received by the United States from a lease under subsection (f) shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
 (e) The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-(f)(1) Notwithstanding subsection (a)(3) <sup>1</sup> or the Federal Property and Administrative Services Act of 1949 (to the extent such Act is inconsistent with this subsection), pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary of the military department concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
+(f)(1) Notwithstanding subsection (a)(3) <sup>1</sup> or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection), pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary of the military department concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
 
 (2) Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease interest if the Secretary concerned determines that—
 
@@ -110,27 +106,11 @@
 
 &emsp;(C) The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
 
-(h) In this section:
-
-&emsp;(1) The term “congressional defense committees” means:
-
-&emsp;&emsp;(A) The Committee on Armed Services and the Committee on Appropriations of the Senate.
-
-&emsp;&emsp;(B) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-&emsp;(2) The term “base closure law” means the following:
-
-&emsp;&emsp;(A) Section 2687 of this title.
-
-&emsp;&emsp;(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;(C) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
-
-&emsp;(3) The term “military installation” has the meaning given such term in section 2687(e)(1) of this title.
+(h) In this section, the term “military installation” has the meaning given such term in section 2687(e)(1) of this title.
 
 (i) This section does not apply to oil, mineral, or phosphate lands.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X,§1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -198,7 +178,7 @@ Aug. 5, 1947, ch. 493, §§1, 6, 61 Stat. 774, 775; Sept. 28, 1951, ch. 434. §6
 
 In subsection (a), the words “considers \* \* \* United States” are substituted for the words “shall deem \* \* \* Government”. The words “and conditions” are omitted as surplusage. The words “he considers” are substituted for the words “in his judgment”.
 
-In subsection (a)(3), the words “excess property, as defined by section 472 of title 40” are substituted for the words “surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944\[Act of October 3, 1944 (58 Stat. 765)\]”, in 5:626s–3, 10:1270, and 34:522a, since the words “excess property” are so defined by the Federal Property and Administrative Services Act of 1949.
+In subsection (a)(3), the words “excess property, as defined by section 472 of title 40” are substituted for the words “surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944 \[Act of October 3, 1944 (58 Stat. 765)\]”, in 5:626s–3, 10:1270, and 34:522a, since the words “excess property” are so defined by the Federal Property and Administrative Services Act of 1949.
 
 In subsection (b)(2), the words “may give” are substituted for the first 12 words of the third sentence of 5:626s–3, 10:1270, and 34:522a. The words “if the lease is revoked to allow the United States to sell the property” are substituted for the words “in the event of the revocation of the lease in order to permit sale thereof by the Government”. The words “under any other provision of law” are inserted for clarity. The words “the first right to buy” are substituted for the words “a right of first refusal”. The words “but this section shall not be construed as authorizing the sale of any property unless the sale thereof is otherwise authorized by law” are omitted as surplusage, since the revised section deals only with leases of property.
 
@@ -214,11 +194,27 @@ In subsection (e), the words “of property” are inserted for clarity. The wor
 
 Subsection (a)(3), referred to in subsec. (f)(1), was redesignated subsec. (a)(2) of this section by Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+2003—Subsec. (b)(5). Pub. L. 108–178 struck out comma after “of title 40”.
+
+Subsec. (h). Pub. L. 108–136 redesignated introductory provisions and par. (3) as entire subsec., substituted “section,” for “section:” and “this term” for “The term”, struck out par. (1) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and House of Representatives, and struck out par. (2) which defined “base closure law” to mean section 2687 of this title, the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Pub. L. 101–510), and title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Pub. L. 100–526).
+
+2002—Subsec. (a)(2). Pub. L. 107–217, §3(b)(12)(A), substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
+
+Subsec. (b)(5). Pub. L. 107–217, §3(b)(12)(B), substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
+
+Subsec. (d)(3). Pub. L. 107–314 struck out par. (3) which read as follows: “Not later than March 15 each year, the Secretary of Defense shall submit to the congressional defense committees a report which shall include—
+
+&emsp;“(A) an accounting of the receipt and use of all money rentals that were deposited and expended under this subsection during the fiscal year preceding the fiscal year in which the report is made; and
+
+&emsp;“(B) a detailed explanation of each lease entered into, and of each amendment made to existing leases, during such preceding fiscal year.”
+
+Subsec. (f)(1). Pub. L. 107–217, §3(b)(12)(C), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “subtitle I and title III are” for “such Act is”.
 
 2001—Subsec. (g)(3). Pub. L. 107–107 added par. (3).
 
@@ -316,6 +312,10 @@ Subsec. (f). Pub. L. 96–513, §511(92)(D), substituted “the Secretary” for
 
 1975—Subsec. (f). Pub. L. 94–107 added subsec. (f).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
@@ -330,7 +330,7 @@ Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provide
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2474, 2490a, 2668, 2669, 2814, 2878 of this title; title 16 section 670a; title 22 section 2796.
+This section is referred to in sections 2474, 2668, 2669, 2814, 2878 of this title; title 16 section 670a; title 22 section 2796; title 40 section 572.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

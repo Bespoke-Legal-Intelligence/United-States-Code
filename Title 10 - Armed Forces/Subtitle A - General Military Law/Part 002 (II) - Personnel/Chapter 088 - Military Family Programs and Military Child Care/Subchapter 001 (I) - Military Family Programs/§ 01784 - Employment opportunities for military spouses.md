@@ -22,7 +22,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations—
 
 (c)
 
-Status of Preference Eligibles.—Nothing in this section shall be construed to provide a spouse of a member of the armed forces with preference in hiring over an individual who is a preference eligible.
+Status of Preference Eligibles.—Nothing in this section shall be construed to providea spouse of a member of the armed forces with preference in hiring over an individual who is a preference eligible.
 
 (d)
 

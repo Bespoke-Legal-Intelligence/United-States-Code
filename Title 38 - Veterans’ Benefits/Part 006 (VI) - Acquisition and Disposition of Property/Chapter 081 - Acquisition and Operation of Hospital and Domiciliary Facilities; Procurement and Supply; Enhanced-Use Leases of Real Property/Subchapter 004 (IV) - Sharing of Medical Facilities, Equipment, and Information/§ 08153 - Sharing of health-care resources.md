@@ -4,7 +4,7 @@
 
 (2) The Secretary may enter into a contract or other agreement under paragraph (1) if such resources are not, or would not be, used to their maximum effective capacity.
 
-(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of thistitle, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
+(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
@@ -24,7 +24,7 @@
 
 (d) When a Department health care facility provides hospital care or medical services, pursuant to a contract or agreement authorized by this section, to an individual who is not eligible for such care or services under chapter 17 of this title and who is entitled to hospital or medical insurance benefits under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), such benefits shall be paid, notwithstanding any condition, limitation, or other provision in that title which would otherwise preclude such payment to such facility for such care or services or, if the contract or agreement so provides, to the community health care facility which is a party to the contract or agreement.
 
-(e) The Secretary may make an arrangement that authorizes the furnishing of services by the Secretary under this section to individuals who are not veterans only if the Secretary determines—
+(e) The Secretary may make an arrangement that authorizes the furnishing of services by the Secretary under this section to individuals whoare not veterans only if the Secretary determines—
 
 &emsp;(1) that veterans will receive priority under such an arrangement; and
 
@@ -36,19 +36,21 @@
 
 (f) Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscal year under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
 
-(g) The Secretary shall submit to the Congress not more than 60 days after the end of each fiscal year a report on the activities carried out under this section. Each report shall include—
+(g) The Secretary shall submit to the Congress not later than February 1 of each year a report on the activities carried out under this section during the preceding fiscal year. Each report shall include—
 
 &emsp;(1) an appraisal of the effectiveness of the activities authorized in this section and the degree of cooperation from other sources, financial and otherwise; and
 
 &emsp;(2) recommendations for the improvement or more effective administration of such activities.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L.106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1374, §5053; amended Pub. L. 91–496, §4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, §303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, §115(a)(1), title II, §§206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, §304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, §702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, §231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, §202(b), Aug. 15, 1990, 104 Stat. 438; renumbered §8153, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, §3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, §301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, §402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, §404(b)(2), Nov. 1, 2000, 114 Stat. 1866; Pub. L. 108–170, title IV, §405(d), Dec. 6, 2003, 117 Stat. 2063.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2003—Subsec. (g). Pub. L. 108–170, in introductory provisions, substituted “not later than February 1 of each year” for “not more than 60 days after the end of each fiscal year” and inserted “during the preceding fiscal year” after “under this section”.
 
 2000—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, §402(e). See 1997 Amendment note below.
 
@@ -146,5 +148,5 @@ Section 115(c) of Pub. L. 94–581 provided that at such time as the rates and p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8107, 8157, 8158 of this title.
+This section is referred to in sections 8157, 8158 of this title.
 

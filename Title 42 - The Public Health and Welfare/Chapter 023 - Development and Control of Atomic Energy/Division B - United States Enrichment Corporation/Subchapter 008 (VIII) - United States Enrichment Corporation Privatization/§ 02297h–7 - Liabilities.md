@@ -16,7 +16,7 @@
 
 #### (b) Liability of Corporation
 
-Notwithstanding any provision of any agreement to which the Corporation is a party, the Corporation shall not be considered in breach,default, or violation of any agreement because of the transfer of such agreement to the private corporation under section 2297h–6 of this title or any other action the Corporation is required to take under this subchapter.
+Notwithstanding any provision of any agreement to which the Corporation is a party, the Corporation shall not be considered in breach, default, or violation of any agreement because of the transfer of such agreement to the private corporation under section 2297h–6 of this title or any other action the Corporation is required to take under this subchapter.
 
 #### (c) Liability of private corporation
 

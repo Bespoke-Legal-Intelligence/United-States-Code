@@ -30,7 +30,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 &emsp;&emsp;(C) whether generally accepted accounting principles or the rules of the Commission result in financial statements of issuers reflecting the economics of such transactions to investors in a transparent fashion;
 
-&emsp;&emsp;(D) whether generally accepted accounting principles specifically result in the consolidation of special purpose entities sponsored by an issuer in cases in which the issuer hasthe majority of the risks and rewards of the special purpose entity; and
+&emsp;&emsp;(D) whether generally accepted accounting principles specifically result in the consolidation of special purpose entities sponsored by an issuer in cases in which the issuer has the majority of the risks and rewards of the special purpose entity; and
 
 &emsp;&emsp;(E) any recommendations of the Commission for improving the transparency and quality of reporting off-balance sheet transactions in the financial statements and disclosures required to be filed by an issuer with the Commission.
 

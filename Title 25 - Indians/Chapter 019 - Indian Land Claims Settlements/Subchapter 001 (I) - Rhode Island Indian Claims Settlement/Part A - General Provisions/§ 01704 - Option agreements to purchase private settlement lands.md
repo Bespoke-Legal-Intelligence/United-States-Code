@@ -2,7 +2,7 @@
 
 #### (a) Acceptance of option agreement assignments; reasonableness of terms and conditions
 
-The Secretary shall accept assignment of reasonable two-year option agreements negotiatedby the Governor of the State of Rhode Island or his designee for the purchase of the private settlement lands: <i>Provided</i>, That the terms and conditions specified in such options are reasonable and that the total price for the acquisition of such lands, including reasonable costs of acquisition, will not exceed the amount specified in section 1703 of this title. If the Secretary does not determine that any such option agreement is unreasonable within sixty days of its submission, the Secretary will be deemed to have accepted the assignment of the option.
+The Secretary shall accept assignment of reasonable two-year option agreements negotiated by the Governor of the State of Rhode Island or his designee for the purchase of the private settlement lands: <i>Provided</i>, That the terms and conditions specified in such options are reasonable and that the total price for the acquisition of such lands, including reasonable costs of acquisition, will not exceed the amount specified in section 1703 of this title. If the Secretary does not determine that any such option agreement is unreasonable within sixty days of its submission, the Secretary will be deemed to have accepted the assignment of the option.
 
 #### (b) Amount of payment
 

@@ -1,6 +1,6 @@
 ### §§981 to 987. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948
 
-Section 981, acts July 17, 1916, ch. 245, title I, §31, 39 Stat. 382; June 3, 1935, ch. 164, §21, 49 Stat. 319, related to false statements in applications for loans. See sections 213, 1014, and 1909 of Title 18, Crimes and Criminal Procedure.
+Section 981, acts July 17, 1916, ch. 245, title I, §31, 39 Stat. 382; June 3, 1935, ch. 164, §21, 49 Stat. 319, related to false statements in applications for loans. See section 1014 of Title 18, Crimes and Criminal Procedure.
 
 Section 982, act July 17, 1916, ch. 245, title I, §31, 39 Stat. 382, related to counterfeiting bonds or coupons. See section 493 of Title 18.
 

@@ -12,7 +12,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(i) Any veteran who died of a service-connected disability.
 
-&emsp;&emsp;&emsp;(ii) Any member of the Armed Forces serving on active duty who, at the time of application for assistance under this section, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than 90 days: (I) missing in action, (II) captured in line ofduty by a hostile force, or (III) forcibly detained or interned in line of duty by a foreign government or power.
+&emsp;&emsp;&emsp;(ii) Any member of the Armed Forces serving on active duty who, at the time of application for assistance under this section, is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than 90 days: (I) missing in action, (II) captured in line of duty by a hostile force, or (III) forcibly detained or interned in line of duty by a foreign government or power.
 
 &emsp;&emsp;&emsp;(iii) Any veteran who has a total disability resulting from a service-connected disability.
 

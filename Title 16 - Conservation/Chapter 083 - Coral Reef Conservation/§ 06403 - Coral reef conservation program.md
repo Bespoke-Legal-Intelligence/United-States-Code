@@ -46,7 +46,7 @@ Each proposal for a grant under this section shall include the following:
 
 &emsp;(7) A description of how the project meets one or more of the criteria in subsection (g) of this section.
 
-&emsp;(8) Any other information the Administrator considers to be necessary for evaluating theeligibility of the project for funding under this chapter.
+&emsp;(8) Any other information the Administrator considers to be necessary for evaluating the eligibility of the project for funding under this chapter.
 
 #### (f) Project review and approval
 

@@ -26,9 +26,11 @@ Exceptions for disclosure of communications.—A provider described in subsectio
 
 &emsp;(4) to a person employed or authorized or whose facilities are used to forward such communication to its destination;
 
-&emsp;(5) as may be necessarily incident to the rendition of the service or to the protection of therights or property of the provider of that service;
+&emsp;(5) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
 
-&emsp;(6) to a law enforcement agency—
+&emsp;(6) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032);
+
+&emsp;(7) to a law enforcement agency—
 
 &emsp;&emsp;(A) if the contents—
 
@@ -36,9 +38,9 @@ Exceptions for disclosure of communications.—A provider described in subsectio
 
 &emsp;&emsp;&emsp;(ii) appear to pertain to the commission of a crime; or
 
-&emsp;&emsp;(B) if required by section 227 of the Crime Control Act of 1990; or
+&emsp;&emsp;\[(B) Repealed. Pub. L. 108–21, title V, §508(b)(1)(A), Apr. 30, 2003, 117 Stat. 684\]
 
-&emsp;(7) to a Federal, State, or local governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
+&emsp;(8) to a Federal, State, or local governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
 
 (c)
 
@@ -50,27 +52,37 @@ Exceptions for Disclosure of Customer Records.—A provider described in subsect
 
 &emsp;(3) as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service;
 
-&emsp;(4) to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information; or
+&emsp;(4) to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;
 
-&emsp;(5) to any person other than a governmental entity.
+&emsp;(5) to the National Center for Missing and Exploited Children, in connection with a report submitted thereto under section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032); or
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157.)
+&emsp;(6) to any person other than a governmental entity.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, §7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, §604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, §212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title II, §225(d)(1), Nov. 25, 2002, 116 Stat. 2157; Pub. L. 108–21, title V, §508(b), Apr. 30, 2003, 117 Stat. 684.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
-#### References in Text
-
-Section 227 of the Crime Control Act of 1990, referred to in subsec. (b)(6)(B), is classified to section 13032 of Title 42, The Public Health and Welfare.
-
 #### Amendments
 
-2002—Subsec. (b)(6)(A). Pub. L. 107–296, §225(d)(1)(B), inserted “or” at end.
+2003—Subsec. (b)(5). Pub. L. 108–21, §508(b)(1)(C), which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
+
+Subsec. (b)(6). Pub. L. 108–21, §508(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
+
+Subsec. (b)(6)(B). Pub. L. 108–21, §508(b)(1)(A), struck out subpar. (B) which read as follows: “if required by section 227 of the Crime Control Act of 1990; or”.
+
+Subsec. (b)(7), (8). Pub. L. 108–21, §508(b)(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (c)(5), (6). Pub. L. 108–21, §508(b)(2), added par. (5) and redesignated former par. (5) as (6).
+
+2002—Subsec. (b)(5). Pub. L. 107–296, §225(d)(1)(A), struck out “or” at end.
+
+Subsec. (b)(6)(A). Pub. L. 107–296, §225(d)(1)(B), inserted “or” at end.
 
 Subsec. (b)(6)(C). Pub. L. 107–296, §225(d)(1)(C), struck out subpar. (C) which read as follows: “if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.”
 
-Subsec. (b)(7). Pub. L. 107–296, §225(d)(1)(A), (D), added par. (7).
+Subsec. (b)(7). Pub. L. 107–296, §225(d)(1)(D), added par. (7).
 
 2001—Pub. L. 107–56, §§212(a)(1)(A), 224, temporarily substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline. See Termination Date of 2001 Amendment note below.
 
@@ -96,7 +108,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Termination Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 ofPub. L. 107–56, set out as a note under section 2510 of this title.
 
 #### Section Referred to in Other Sections
 

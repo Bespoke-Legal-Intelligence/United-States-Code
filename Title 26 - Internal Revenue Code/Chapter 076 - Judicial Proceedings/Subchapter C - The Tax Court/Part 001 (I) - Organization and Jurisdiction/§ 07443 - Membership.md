@@ -72,7 +72,7 @@ Amendment by section 953 of Pub. L. 91–172 to take effect on Dec. 30, 1969, se
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1955 Amendment
 
@@ -89,6 +89,8 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 #### Certification by Judge of Travel Expenses
 
 Provisions authorizing the travel expenses of the judges of the United States Tax Court to be paid upon the written certificate of the judge were contained in the following appropriation acts:
+
+Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 460.
 
 Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 543.
 

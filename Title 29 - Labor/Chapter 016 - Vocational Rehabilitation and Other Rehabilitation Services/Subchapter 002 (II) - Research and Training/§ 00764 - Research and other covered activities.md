@@ -24,7 +24,7 @@
 
 #### (b) Research grants
 
-(1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (18). A research grant made under any of paragraphs (2) through (18) may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
+(1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred toin this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (18). A research grant made under any of paragraphs (2) through (18) may only be used in a manner consistent with priorities established in the 5-year plan described in section 762(h) of this title.
 
 (2)(A) Research grants may be used for the establishment and support of Rehabilitation Research and Training Centers, for the purpose of providing an integrated program of research, which Centers shall—
 
@@ -90,9 +90,9 @@
 
 (N) In conducting scientific peer review under section 762(f) of this title of an application for the renewal of a grant made under this paragraph, the peer review panel shall take into account the past performance of the applicant in carrying out the grant and input from individuals with disabilities and the individuals’ representatives.
 
-(O) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
+(O) An institution or provider that receives a grant under this paragraph to establish such aCenter may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
 
-(3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct researchor demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
+(3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
 (B) In order to carry out the purposes set forth in subparagraph (A), such a Center shall carry out the research or demonstration activities by—
 
@@ -148,9 +148,9 @@
 
 (G) Each Center established or supported through a grant made available under this paragraph shall—
 
-&emsp;(i) cooperate with State agencies and other local, State, regional, and national programs and organizations developing or delivering rehabilitation technology, including State programs funded under the Assistive Technology Act of 1998 \[29 U.S.C. 3001 et seq.\]; and
+&emsp;(i) cooperate with State agencies and other local, State, regional, and national programsand organizations developing or delivering rehabilitation technology, including State programs funded under the Assistive Technology Act of 1998 \[29 U.S.C. 3001 et seq.\]; and
 
-&emsp;(ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of theCenter in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
+&emsp;(ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of the Center in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
 
 (4)(A) Research grants may be used to conduct a program for spinal cord injury research, including conducting such a program by making grants to public or private agencies and organizations to pay part or all of the costs of special projects and demonstration projects for spinal cord injuries, that will—
 
@@ -260,7 +260,7 @@
 
 (1) In carrying out evaluations of covered activities under this section, the Director is authorized to make arrangements for site visits to obtain information on the accomplishments of the projects.
 
-(2) The Director shall not make a grant under this section that exceeds $500,000 unless the peerreview of the grant application has included a site visit.
+(2) The Director shall not make a grant under this section that exceeds $500,000 unless the peer review of the grant application has included a site visit.
 
 (Pub. L. 93–112, title II, §204, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, §402(b), Nov. 13, 1998, 112 Stat. 3661.)
 

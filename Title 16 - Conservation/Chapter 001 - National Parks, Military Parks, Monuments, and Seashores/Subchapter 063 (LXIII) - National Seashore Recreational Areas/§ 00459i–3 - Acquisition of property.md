@@ -10,7 +10,7 @@ A right of use and occupancy retained or enjoyed pursuant to this section may be
 
 #### (c) “Improved property” defined
 
-The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before February 1, 1970 (hereinafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term “improved property”, as used in this section shall mean a detached, noncommercialresidential dwelling, the construction of which was begun before February 1, 1970 (hereinafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 #### (d) Little Cumberland Island; acquisition restrictions
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
 
-> in the District of Columbia, a State, territory, or possession of the United States including the Commonwealth of Puerto Rico or the Trust Territory of the Pacific Islands. For the purpose of this subsection, “judicial proceeding” means any action, suit, or other judicial proceeding, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding.
+> in the District of Columbia, a State, territory, or possession of the United States including theCommonwealth of Puerto Rico or the Trust Territory of the Pacific Islands. For the purpose of this subsection, “judicial proceeding” means any action, suit, or other judicial proceeding, including any condemnation, preliminary, informational, or other proceeding of a judicial nature, but does not include an administrative proceeding.
 
 (b) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is performing official duty during the period with respect to which he is summoned, or assigned by his agency, to—
 

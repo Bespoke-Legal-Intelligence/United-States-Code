@@ -98,7 +98,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(D) in which Native Hawaiian health practitioners significantly participate in the planning, management, monitoring, and evaluation of health care services,
 
-&emsp;&emsp;(E) which may be composed of as many Native Hawaiian health centers as necessary to meet the health care needs of each island's Native Hawaiians, and
+&emsp;&emsp;(E) which may be composed of as many Native Hawaiian health centers as necessary tomeet the health care needs of each island's Native Hawaiians, and
 
 &emsp;&emsp;(F) which is—
 

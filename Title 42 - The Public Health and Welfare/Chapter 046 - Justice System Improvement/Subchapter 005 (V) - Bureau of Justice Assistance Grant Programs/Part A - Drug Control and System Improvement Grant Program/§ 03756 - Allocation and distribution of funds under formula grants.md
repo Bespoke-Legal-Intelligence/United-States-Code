@@ -16,7 +16,7 @@ Subject to subsection (f) of this section, of the total amount appropriated for 
 
 (3) Any funds not distributed to units of local government under paragraph (2) shall be available for expenditure by the State involved.
 
-(4) For purposes of determining the distribution of funds under paragraphs (1) and (2), the most accurate and complete data available for the fiscal year involved shall be used. If data for such fiscal year are not available, then the most accurate and complete data available for the most recent fiscal year preceding such fiscal year shall be used.
+(4) For purposes of determining the distribution of funds under paragraphs (1) and (2), themost accurate and complete data available for the fiscal year involved shall be used. If data for such fiscal year are not available, then the most accurate and complete data available for the most recent fiscal year preceding such fiscal year shall be used.
 
 #### (c) Programs eligible
 

@@ -2,7 +2,7 @@
 
 The Congress finds—
 
-&emsp;(1) despite the significant progress that has been made in making community mental health services available and in improving residential mental health facilities since the original community mental health centers legislation was enacted in 1963, unserved and underserved populations remain and there are certain groups in the population, such as chronically mentally ill individuals, childrenand youth, elderly individuals, racial and ethnic minorities, women, poor persons, and persons in rural areas, which often lack access to adequate private and public mental health services and support services;
+&emsp;(1) despite the significant progress that has been made in making community mental health services available and in improving residential mental health facilities since the original community mental health centers legislation was enacted in 1963, unserved and underserved populations remain and there are certain groups in the population, such as chronically mentally ill individuals, children and youth, elderly individuals, racial and ethnic minorities, women, poor persons, and persons in rural areas, which often lack access to adequate private and public mental health services and support services;
 
 &emsp;(2) the process of transferring or diverting chronically mentally ill individuals from unwarranted or inappropriate institutionalized settings to their home communities has frequently not been accompanied by a process of providing those individuals with the mental health and support services they need in community-based settings;
 

@@ -16,7 +16,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 &emsp;(D) convey to the State a deed granting the State (i) an exclusive-use easement for that portion of the right-of-way of the Alaska Railroad within the Denali National Park and Preserve extending not less than one hundred feet on either side of the main or branch line tracks, and eight feet on either side of the centerline of the “Y” track connecting the main line of the railroad to the power station at McKinley Park Station and (ii) title to railroad-related improvements within such right-of-way.
 
-> Prior to taking the action specified in subparagraphs (A) through (D) of this paragraph, the Secretary shall consult with the Secretary of the Interior. The exclusive-use easement granted pursuant to subparagraph (D) of this paragraph and all rights afforded by such easement shall be exercised only for railroad purposes, and for such other transportation, transmission, or communication purposes for which lands subject to such easement were utilized as of January 14, 1983. In the event of reversion to the United States, pursuant to section 1209 of this title, of the State's interests in all or part of the lands subject to such easement, such easement shall terminate with respect to the lands subject to such reversion, and no new exclusive-use easement with respect to such reverted lands shall be granted except by Act of Congress.
+> Prior to taking the action specified in subparagraphs (A) through (D) of this paragraph, the Secretary shall consult with the Secretary of the Interior. The exclusive-use easement granted pursuant to subparagraph (D) of this paragraph and all rights afforded by such easement shall be exercised only for railroad purposes, and for such other transportation, transmission, or communication purposes for which lands subject to such easement were utilized as of January 14, 1983.
 
 (2) The Secretary shall deliver to the State an interim conveyance of rail properties of the Alaska Railroad described in paragraph (1)(C) of this subsection that become available for conveyance to the State after the date of transfer as a result of settlement, relinquishment, or final administrative adjudication pursuant to section 1205 of this title. Where the rail properties to be conveyed pursuant to this paragraph are surveyed at the time they become available for conveyance to the State, the Secretary shall deliver a patent therefor in lieu of an interim conveyance.
 
@@ -60,13 +60,13 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 &emsp;(vi) for payment to transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, including for one year officers retained or separated under subparagraph (E) of this paragraph, of an amount equivalent to the cost-of-living allowance to which they are entitled as Federal employees on the day before the date of transfer, in accordance with the provisions of subparagraph (D) of this paragraph; and
 
-&emsp;(vii) for health and life insurance programs for transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, substantially equivalent to the Federal health and life insurance programs available to employees on the day before the date of transfer (except for officers of the Alaska Railroad,who shall receive such credit for one year following the date of transfer).
+&emsp;(vii) for health and life insurance programs for transferred employees retained by the State-owned railroad during the two-year period commencing on the date of transfer, substantially equivalent to the Federal health and life insurance programs available to employees on the day before the date of transfer (except for officers of the Alaska Railroad, who shall receive such credit for one year following the date of transfer).
 
 (B) The State-owned railroad shall adopt all collective bargaining agreements which are in effect on the date of transfer. Such agreements shall continue in effect for the two-year period commencing on the date of transfer, unless the parties agree to the contrary before the expiration of that two-year period. Such agreements shall be renegotiated during the two-year period, unless the parties agree to the contrary. Any labor-management negotiation impasse declared before the date of transfer shall be settled in accordance with chapter 71 of title 5. Any impasse declared after the date of transfer shall be subject to applicable State law.
 
 (C) Federal service shall be included in the computation of seniority for transferred employees with priority for reemployment, as provided in subparagraph (A)(iv) of this paragraph.
 
-(D) Payment to transferred employees pursuant to subparagraph (A)(vi) of this paragraph shall not exceed the percentage of any transferred employee's base salary level provided by the United States as a cost-of-living allowance on the day before the date of transfer, unless the parties agree to the contrary.
+(D) Payment to transferred employees pursuant to subparagraph (A)(vi) of this paragraph shall not exceed the percentage of any transferred employee's base salary level provided bythe United States as a cost-of-living allowance on the day before the date of transfer, unless the parties agree to the contrary.
 
 (E) Prior to the date of transfer, the Secretary shall also certify that the State-owned railroad has agreed to the retention, for at least one year from the date of transfer, of the offices of the Alaska Railroad, except in cases of separation for cause, resignation, retirement, or lack of work, at or above their base salaries in effect on the date of transfer, in such positions as the State-owned railroad may determine; or to the payment of lump-sum severance pay in an amount equal to such base salary for one year to officers not retained by the State-owned railroad upon transfer or, for officers separated within one year on or after the date of transfer, of a portion of such lump-sum severance payment (diminished pro rata for employment by the State-owned railroad within one year of the date of transfer prior to separation).
 
@@ -74,7 +74,7 @@ Subject to the provisions of this chapter, the United States, through the Secret
 
 (5) Prior to the date of transfer, the Secretary shall also certify that the State has agreed to compensate the United States at the value, if any, determined pursuant to section 1204(d) of this title.
 
-(Pub. L. 97–468, title VI, §604, Jan. 14, 1983, 96 Stat. 2559.)
+(Pub. L. 97–468, title VI, §604, Jan. 14, 1983, 96 Stat. 2559; Pub. L. 108–7, div. I, title III, §345(5), Feb. 20, 2003, 117 Stat. 418.)
 
 #### References in Text
 
@@ -82,13 +82,17 @@ Act of March 12, 1914, and such Act, referred to in subsec. (c)(1), is act Mar. 
 
 Section 615 of this title, referred to in subsec. (c)(1), means section 615 of title VI of Pub. L. 97–468, Jan. 14, 1983, 96 Stat. 2577. Title VI of Pub. L. 97–468 is known as the Alaska Railroad Transfer Act of 1982 and is classified principally to this chapter. Under section 615, the repeal is effective on the date of transfer to the State of Alaska (pursuant to section 1203 of this title) or other disposition (pursuant to section 1210 of this title), whichever first occurs.
 
+#### Amendments
+
+2003—Subsec. (b)(1). Pub. L. 108–7 struck out at end: “In the event of reversion to the United States, pursuant to section 1209 of this title, of the State's interests in all or part of the lands subject to such easement, such easement shall terminate with respect to the lands subject to such reversion, and no new exclusive-use easement with respect to such reverted lands shall be granted except by Act of Congress.”
+
 #### Transfer of Alaska Railroad to State of Alaska
 
 The State of Alaska accepted the certification requirements of the Alaska Railroad Transfer Act \[this chapter\] by 1984 SLA ch. 54, eff. May 19, 1984. Thereafter, by 1984 SLA ch. 153, eff. July 6, 1984, the Alaska Railroad Corporation was established to manage and operate the Alaska Railroad. The transfer of the Alaska Railroad to the State of Alaska was carried out on January 5, 1985.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1202, 1204, 1205, 1206, 1207, 1209, 1210, 1211 of this title.
+This section is referred to in sections 1202, 1204, 1205, 1206, 1207, 1210, 1211 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1979—Subsec. (a). Pub. L. 96–43 substituted “two private attorneys, one with substantial experience in the defense of criminal cases in the district and one with substantial experience in civil litigation in the district” for “a private attorney experienced in the defense of criminal cases in the district”.
+1979—Subsec. (a). Pub. L. 96–43 substituted “two private attorneys, one with substantial experience in the defense of criminal cases in the district and one withsubstantial experience in civil litigation in the district” for “a private attorney experienced in the defense of criminal cases in the district”.
 
 #### Change of Name
 

@@ -22,7 +22,7 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, 
 
 #### (2) Timely action
 
-&emsp;The Secretary shall make a decision on the exemption of a State or political subdivisionrequirement under paragraph (1) not later than 120 days after receiving the application of the State or political subdivision under paragraph (1).
+&emsp;The Secretary shall make a decision on the exemption of a State or political subdivision requirement under paragraph (1) not later than 120 days after receiving the application of the State or political subdivision under paragraph (1).
 
 #### (c) Scope
 
@@ -70,5 +70,5 @@ The Fair Packaging and Labeling Act, referred to in subsec. (a)(2), is Pub. L. 8
 
 #### Effective Date
 
-Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115,set out as an Effective Date of 1997 Amendment note under section 321 of this title.
 

@@ -16,7 +16,7 @@ Distilled spirits on which the internal revenue tax has not been paid or determi
 
 &emsp;(3) free of tax for nonbeverage purposes and not for resale or use in the manufacture of any product for sale—
 
-&emsp;&emsp;(A) for the use of any educational organization described in section 170(b)(1)(A)(ii)which is exempt from income tax under section 501(a), or for the use of any scientific university or college of learning;
+&emsp;&emsp;(A) for the use of any educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a), or for the use of any scientific university or college of learning;
 
 &emsp;&emsp;(B) for any laboratory for use exclusively in scientific research;
 
@@ -101,7 +101,7 @@ Subsec. (a)(11). Pub. L. 96–39, §807(a)(28)(D), added par. (11).
 
 Subsec. (b)(4) to (8). Pub. L. 96–39, §807(a)(28)(E), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-1977—Subsec. (a)(9). Pub. L. 95–176, §3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilledspirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
+1977—Subsec. (a)(9). Pub. L. 95–176, §3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
 
 Subsec. (a)(10). Pub. L. 95–176, §4(a), added par. (10).
 

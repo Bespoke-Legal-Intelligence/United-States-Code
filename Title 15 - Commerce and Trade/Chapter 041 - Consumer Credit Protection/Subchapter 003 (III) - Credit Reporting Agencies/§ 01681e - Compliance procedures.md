@@ -10,7 +10,7 @@ Whenever a consumer reporting agency prepares a consumer report it shall follow 
 
 #### (c) Disclosure of consumer reports by users allowed
 
-A consumer reporting agency may not prohibit a user of a consumer report furnished bythe agency on a consumer from disclosing the contents of the report to the consumer, if adverse action against the consumer has been taken by the user based in whole or in part on the report.
+A consumer reporting agency may not prohibit a user of a consumer report furnished by the agency on a consumer from disclosing the contents of the report to the consumer, if adverse action against the consumer has been taken by the user based in whole or in part on the report.
 
 #### (d) Notice to users and furnishers of information
 
@@ -56,11 +56,15 @@ A consumer reporting agency may not prohibit a user of a consumer report furnish
 
 &emsp;Notwithstanding paragraph (1) or (2), a person who procures a consumer report for purposes of reselling the report (or any information in the report) shall not disclose the identity of the end-user of the report under paragraph (1) or (2) if—
 
-&emsp;&emsp;(A) the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) of this title); and
+&emsp;&emsp;(A) the end user is an agency or department of the United States Government which procures the report from the person for purposes of determining the eligibility of the consumer concerned to receive access or continued access to classified information (as defined in section 1681b(b)(4)(E)(i) <sup>1</sup> of this title); and
 
 &emsp;&emsp;(B) the agency or department certifies in writing to the person reselling the report that nondisclosure is necessary to protect classified information or the safety of persons employed by or contracting with, or undergoing investigation for work or contracting with the agency or department.
 
 (Pub. L. 90–321, title VI, §607, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §2407, Sept. 30, 1996, 110 Stat. 3009–435; Pub. L. 105–107, title III, §311(b), Nov. 20, 1997, 111 Stat. 2256.)
+
+#### References in Text
+
+Section 1681b(b)(4) of this title, referred to in subsec. (e)(3)(A), was subsequently amended, and section 1681b(b)(4)(E) no longer defines the term “classified information”. However, such term is defined elsewhere in that section.
 
 #### Amendments
 
@@ -79,4 +83,6 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1681b, 1681g of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

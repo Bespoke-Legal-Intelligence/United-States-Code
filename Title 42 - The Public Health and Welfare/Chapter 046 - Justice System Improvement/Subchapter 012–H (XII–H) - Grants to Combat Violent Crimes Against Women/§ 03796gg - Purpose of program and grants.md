@@ -16,7 +16,7 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(4) developing, installing, or expanding data collection and communication systems, including computerized systems, linking police, prosecutors, and courts or for the purpose of identifying and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions for violent crimes against women, including the crimes of sexual assault and domestic violence;
 
-&emsp;(5) developing, enlarging, or strengthening victim services programs, including sexual assault, domestic violence, and dating violence programs, developing or improving delivery of victim services to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attritionrates for cases involving violent crimes against women, including crimes of sexual assault and domestic violence;
+&emsp;(5) developing, enlarging, or strengthening victim services programs, including sexual assault, domestic violence, and dating violence programs, developing or improving delivery of victim services to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of sexual assault and domestic violence;
 
 &emsp;(6) developing, enlarging, or strengthening programs addressing stalking;
 

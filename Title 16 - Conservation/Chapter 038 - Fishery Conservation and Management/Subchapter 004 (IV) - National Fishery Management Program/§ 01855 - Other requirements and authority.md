@@ -110,7 +110,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (4) The priority of security interests shall be determined in order of filing, the first filed having the highest priority. A validly-filed security interest shall remain valid and perfected notwithstanding a change in residence or place of business of the owner of record. For the purposes of this subsection, “security interest” shall include security interests, assignments, liens and other encumbrances of whatever kind.
 
-(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permit upon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
+(5)(A) Notwithstanding section 1854(d)(1) of this title, the Secretary shall collect a reasonable fee of not more than one-half of one percent of the value of a limited access system permitupon registration of the title to such permit with the central registry system and upon the transfer of such registered title. Any such fee collected shall be deposited in the Limited Access System Administration Fund established under subparagraph (B).
 
 (B) There is established in the Treasury a Limited Access System Administration Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purposes of—
 
@@ -210,7 +210,7 @@ Subsec. (b). Pub. L. 104–297, §110(a)(3), added subsec. (b). Former subsec. (
 
 Subsec. (c). Pub. L. 104–297, §110(b)(1), inserted “and interim measures” after “actions” in heading.
 
-Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of “or overfishing” after “emergency”,was executed by making the insertion after “the emergency” to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of “or overfishing” after “emergency”, was executed by making the insertion after “the emergency” to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §110(b)(2)(A), (B), substituted “or that interim measures are needed to reduce overfishing for” for “involving” and inserted “or interim measures” after “emergency regulations”.
 

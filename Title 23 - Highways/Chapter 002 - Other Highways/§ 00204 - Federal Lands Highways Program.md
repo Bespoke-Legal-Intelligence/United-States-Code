@@ -102,7 +102,7 @@ Contracts.—In carrying out paragraph (1), the Secretary and the Secretary of t
 
 Compliance with other law.—Funds made available for refuge roads shall be used only for projects that are in compliance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, §126(b), Jan. 6, 1983, 96 Stat. 2114;Pub. L. 100–17, title I, §133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§1030, 1032(b), title VI, §6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169; Pub. L. 105–178, title I, §1115(d), (e)(4), title V, §5119(a), June 9, 1998, 112 Stat. 156, 158, 452.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 907; Pub. L. 97–424, title I, §126(b), Jan. 6, 1983, 96 Stat. 2114; Pub. L. 100–17, title I, §133(b)(13), (14), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–240, title I, §§1030, 1032(b), title VI, §6004(c), Dec. 18, 1991, 105 Stat. 1970, 1974, 2169; Pub. L. 105–178, title I, §1115(d), (e)(4), title V, §5119(a), June 9, 1998, 112 Stat. 156, 158, 452.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Subsec. (e). Pub. L. 100–17, §133(b)(14), struck out “of 1975” after “E
 
 1983—Pub. L. 97–424 substituted “Federal Lands Highways Program” for “Forest highways” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 97–424 added subsec. (a), redesignated former subsec. (a) as (b), inserted reference to public lands highways, inserted “and improvement” after “construction”, inserted reference to reservations, Indian tribes, and the Secretary of the Interior, and inserted provision that funds available for park roads, parkways, and Indian reservation roads shall be used by the Secretary of the Interior to pay for the costof construction and improvement thereof. Former subsec. (b) redesignated (d).
+Subsecs. (a), (b). Pub. L. 97–424 added subsec. (a), redesignated former subsec. (a) as (b), inserted reference to public lands highways, inserted “and improvement” after “construction”, inserted reference to reservations, Indian tribes, and the Secretary of the Interior, and inserted provision that funds available for park roads, parkways, and Indian reservation roads shall be used by the Secretary of the Interior to pay for the cost of construction and improvement thereof. Former subsec. (b) redesignated (d).
 
 Subsec. (c). Pub. L. 97–424 added subsec. (c). Former subsec. (c) redesignated (e).
 

@@ -10,7 +10,7 @@ If funds appropriated under section 7241 of this title are insufficient to pay t
 
 #### (c) Excess funds
 
-If funds appropriated under section 7241 of this section are in excess of the amount determined under subsection (a) of this section, the Secretary shall ratably distribute any excess funds to all local educational agencies eligible for payment under section 7702(b) of this title.
+If funds appropriated under section 7241 of this title are in excess of the amount determined under subsection (a) of this section, the Secretary shall ratably distribute any excess funds to all local educational agencies eligible for payment under section 7702(b) of this title.
 
 (Pub. L. 89–10, title V, §5603, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1867.)
 

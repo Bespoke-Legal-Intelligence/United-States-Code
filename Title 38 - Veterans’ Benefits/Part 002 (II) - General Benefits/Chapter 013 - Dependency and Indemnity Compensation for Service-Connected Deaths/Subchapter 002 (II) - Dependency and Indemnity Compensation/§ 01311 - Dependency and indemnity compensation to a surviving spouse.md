@@ -110,13 +110,17 @@ $948
 
 (b) If there is a surviving spouse with one or more children below the age of eighteen of a deceased veteran, the dependency and indemnity compensation paid monthly to the surviving spouse shall be increased by $237 for each such child.
 
-(c) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $237 if the spouse is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
+(c) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $237 if the spouse is\(1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
 
 (d) The monthly rate of dependency and indemnity compensation payable to a surviving spouse shall be increased by $113 if the surviving spouse is, by reason of disability, permanently housebound but does not qualify for the aid and attendance allowance under subsection (c) of this section. For the purposes of this subsection, the requirement of “permanently housebound” will be considered to have been met when the surviving spouse is substantially confined to such surviving spouse's home (ward or clinical areas, if institutionalized) or immediate premises by reason of a disability or disabilities which it is reasonably certain will remain throughout such surviving spouse's lifetime.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §411; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–134, §1, Oct. 5, 1963, 77 Stat. 223; Pub. L. 91–24, §4(b), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §3, Oct. 27, 1969, 83 Stat. 144; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §1, Dec. 15, 1971, 85 Stat. 660; Pub. L. 92–455, §4, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–295, title II, §201, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §201, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title II, §201, Sept. 30, 1976, 90 Stat. 1375; Pub. L. 95–117, title II, §201, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title II, §201, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title II, §201, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title II, §201, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title II, §201, Oct. 17, 1981, 95 Stat. 1028; Pub. L. 97–253, title IV, §405(e), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§104, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §104, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §104, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §104, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §104, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–180, div. A, title XIII, §1314(d)\[(1)\], Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–227, title I, §104, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1104, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §104, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §5, Feb. 6, 1991, 105 Stat. 9; renumbered §1311 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §5, Nov. 12, 1991, 105 Stat. 986; Pub. L. 102–568, title I, §102(a), (b), Oct. 29, 1992, 106 Stat. 4321, 4322; Pub. L. 103–78, §4, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §5, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §5, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 105–178, title VIII, §8207(a), June 9, 1998, 112 Stat. 495; Pub. L. 106–117, title V, §502(b), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 106–118, §5, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §5, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(d), Dec. 6, 2002, 116 Stat. 2830.)
+(e) In the case of an individual who is eligible for dependency and indemnity compensation under this section by reason of section 103(d)(2)(B) of this title who is also eligible for benefits under another provision of law by reason of such individual's status as the surviving spouse of a veteran, then, notwithstanding any other provision of law (other than section 5304(b)(3) of this title), no reduction in benefits under such other provision of law shall be made by reason of such individual's eligibility for benefits under this section.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1127, §411; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §1, May 15, 1963, 77 Stat. 17; Pub. L. 88–134, §1, Oct. 5, 1963, 77 Stat. 223; Pub. L. 91–24, §4(b), June 11, 1969, 83 Stat. 33; Pub. L. 91–96, §3, Oct. 27, 1969, 83 Stat. 144; Pub. L. 91–588, §3(a), Dec. 24, 1970, 84 Stat. 1583; Pub. L. 92–197, §1, Dec. 15, 1971, 85 Stat. 660; Pub. L. 92–455, §4, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–295, title II, §201, May 31, 1974, 88 Stat. 182; Pub. L. 94–71, title II, §201, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title II, §201, Sept. 30, 1976, 90 Stat. 1375; Pub. L. 95–117, title II, §201, Oct. 3, 1977, 91 Stat. 1064; Pub. L. 95–479, title II, §201, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title II, §201, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title II, §201, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title II, §201, Oct. 17, 1981, 95 Stat. 1028; Pub. L. 97–253, title IV, §405(e), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§104, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §104, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §104, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §104, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §104, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–180, div. A, title XIII, §1314(d)\[(1)\], Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–227, title I, §104, Dec. 31, 1987, 101 Stat. 1554; Pub. L. 100–687, div. B, title XI, §1104, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §104, Dec. 18, 1989, 103 Stat. 2063; Pub. L. 102–3, §5, Feb. 6, 1991, 105 Stat. 9; renumbered §1311 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §5, Nov. 12, 1991, 105 Stat. 986; Pub. L. 102–568, title I, §102(a), (b), Oct. 29, 1992, 106 Stat. 4321, 4322; Pub. L. 103–78, §4, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §5, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §5, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 105–178, title VIII, §8207(a), June 9, 1998, 112 Stat. 495; Pub. L. 106–117, title V, §502(b), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 106–118, §5, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §5, Dec. 21, 2001, 115 Stat. 901; Pub. L. 107–330, title III, §309(d), Dec. 6, 2002, 116 Stat. 2830; Pub. L. 108–183, title I, §101(b), Dec. 16, 2003, 117 Stat. 2652.)
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–183 added subsec. (e).
 
 2002—Subsec. (a)(1). Pub. L. 107–330, §309(d)(1)(A), substituted “$948” for “$935”.
 
@@ -160,7 +164,7 @@ Pub. L. 106–117 struck out subsec. (e) which provided that the termination by 
 
 Subsec. (a)(2). Pub. L. 105–98, §5(a)(2), substituted “$185” for “$169”.
 
-Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1 to W–4, and O–1 to O–10, substituted “section 402 of this title” for “section 1302 of this title” and “$1,044” for “$943” in footnote 1, and substituted “section 402 of this title” for “section 1302 of this title” and “$1,941” for “$1,753” in footnote 2.
+Subsec. (a)(3). Pub. L. 105–98, §5(b), inserted table entries for pay grades E–1 to E–6, generally upgraded monthly rates in table for pay grades E–7 to E–9, W–1to W–4, and O–1 to O–10, substituted “section 402 of this title” for “section 1302 of this title” and “$1,044” for “$943” in footnote 1, and substituted “section 402 of this title” for “section 1302 of this title” and “$1,941” for “$1,753” in footnote 2.
 
 Subsec. (b). Pub. L. 105–98, §5(c), substituted “$215 for each such child.” for “$100 for each such child during fiscal year 1993, $150 for each such child during fiscal year 1994, and $200 for each such child thereafter.”
 
@@ -366,6 +370,10 @@ Subsec. (b). Pub. L. 88–21 substituted “$28” for “$25”.
 
 1961—Subsec. (d)(1). Pub. L. 87–268 substituted “section 412(a)” for “section 412”.
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–183 effective Jan. 1, 2004, see section 101(c) of Pub. L. 108–183, set out as a note under section 103 of this title.
+
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–94 effective Dec. 1, 2001, see section 7 of Pub. L. 107–94, set out as a note under section 1114 of this title.
@@ -491,6 +499,10 @@ Section 13(a) of Pub. L. 88–132, Oct. 2, 1963, 77 Stat. 218, provided that: �
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Retroactive Benefits Prohibited
+
+For provisions relating to prohibition of retroactive benefits by reason of amendments to this section by Pub. L. 108–183, see section 101(d) of Pub. L. 108–183, set out as a note under section 103 of this title.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 

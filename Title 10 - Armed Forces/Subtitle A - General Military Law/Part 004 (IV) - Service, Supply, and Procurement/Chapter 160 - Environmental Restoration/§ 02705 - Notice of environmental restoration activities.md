@@ -36,6 +36,8 @@ Restoration Advisory Board.—(1) In lieu of establishing a technical review com
 
 (B) The issuance of regulations under subparagraph (A) shall not be a precondition to the establishment of restoration advisory boards under this subsection.
 
+(C) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a restoration advisory board established under this subsection.
+
 (3) The Secretary may authorize the commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to pay routine administrative expenses of a restoration advisory board established for that installation. Such payments shall be made from funds available under subsection (g).
 
 (e)
@@ -74,19 +76,23 @@ Funding.—The Secretary shall, to the extent provided in appropriations Acts, m
 
 &emsp;(2) In the case of an installation approved for closure pursuant to such a law, the Department of Defense Base Closure Account 1990 established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-(h)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479; Pub. L. 108–136, div. A, title III, §317(b), title X, §1043(c)(5), Nov. 24, 2003, 117 Stat. 1432, 1612.)
 
-Definition.—In this section, the term “base closure law” means the following:
+#### References in Text
 
-&emsp;(1) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
-
-&emsp;(2) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-&emsp;(3) Section 2687 of this title.
-
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 103–337, div. A, title III, §326(a)–(c), Oct. 5, 1994, 108 Stat. 2712, 2713; Pub. L. 104–106, div. A, title III, §324(a)–(d)(1), (e), Feb. 10, 1996, 110 Stat. 252–254; Pub. L. 104–201, div. A, title III, §322(c), Sept. 23, 1996, 110 Stat. 2479.)
+The Federal Advisory Committee Act, referred to in subsec. (d)(2)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2003—Subsec. (d)(2)(C). Pub. L. 108–136, §317(b), added subpar. (C).
+
+Subsec. (h). Pub. L. 108–136, §1043(c)(5), struck out heading and text of subsec. (h). Text read as follows: “In this section, the term ‘base closure law’ means the following:
+
+&emsp;“(1) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;“(2) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;“(3) Section 2687 of this title.”
 
 1996—Subsec. (d)(2). Pub. L. 104–106, §324(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall prescribe regulations regarding the characteristics, composition, funding, and establishment of restoration advisory boards pursuant to this subsection. However, the issuance of regulations shall not be a precondition to the establishment of a restoration advisory board or affect the existence or operation of a restoration advisory board established before the date of the enactment of this section.”
 
@@ -105,6 +111,26 @@ Subsec. (h). Pub. L. 104–106, §324(e), added subsec. (h).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 322(e) of Pub. L. 104–201, set out as a note under section 2703 of this title.
+
+#### Requirements for Restoration Advisory Boards and Exemption From Federal Advisory Committee Act
+
+Pub. L. 108–136, div. A, title III, §317(a), Nov. 24, 2003, 117 Stat. 1432, provided that: “The Secretary of Defense shall amend the regulations required by section 2705(d)(2) of title 10, United States Code, relating to the establishment, characteristics, composition, and funding of restoration advisory boards to ensure that each restoration advisory board complies with the following requirements:
+
+&emsp;“(1) Each restoration advisory board shall be fairly balanced in its membership in terms of the points of view represented and the functions to be performed.
+
+&emsp;“(2) Unless a closed or partially closed meeting is determined to be proper in accordance with one or more of the exceptions listed in section 552b(c) of title 5, United States Code, each meeting of a restoration advisory board shall be—
+
+&emsp;&emsp;“(A) held at a reasonable time and in a manner or place reasonably accessible to the public, including individuals with disabilities; and
+
+&emsp;&emsp;“(B) open to the public.
+
+&emsp;“(3) Timely notice of each meeting of a restoration advisory board shall be published in a local newspaper of general circulation.
+
+&emsp;“(4) Interested persons may appear before or file statements with a restoration advisory board, subject to such reasonable restrictions as the Secretary may prescribe.
+
+&emsp;“(5) Subject to section 552 of title 5, United States Code, the records, reports, minutes, appendixes, working papers, drafts, studies, agenda, or other documents that were made available to, prepared for, or prepared by each restoration advisory board shall be available for public inspection and copying at a single, publicly accessible location, such as a public library or an appropriate office of the military installation for which the restoration advisory board is established, at least until the restoration advisory board is terminated.
+
+&emsp;“(6) Detailed minutes of each meeting of each restoration advisory board shall be kept and shall contain a record of the persons present, a complete and accurate description of matters discussed and conclusions reached, and copies of all reports received, issued, or approved by the restoration advisory board. The accuracy of the minutes of a restoration advisory board shall be certified by the chairperson of the board.”
 
 #### Implementation Requirements for Restoration Advisory Boards
 

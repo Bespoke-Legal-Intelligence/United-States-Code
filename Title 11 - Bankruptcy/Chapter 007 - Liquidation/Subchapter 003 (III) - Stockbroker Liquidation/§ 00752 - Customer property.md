@@ -1,6 +1,6 @@
 ### §752. Customer property
 
-(a) The trustee shall distribute customer property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims and in priority to all other claims, except claims of the kind specified in section 507(a)(1) of this title that are attributable to the administration of such customer property.
+(a) The trustee shall distribute customer property ratably to customers on the basis and tothe extent of such customers’ allowed net equity claims and in priority to all other claims, except claims of the kind specified in section 507(a)(1) of this title that are attributable to the administration of such customer property.
 
 (b)(1) The trustee shall distribute customer property in excess of that distributed under subsection (a) of this section in accordance with section 726 of this title.
 

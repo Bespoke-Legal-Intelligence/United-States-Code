@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man's activities;
 
-&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
+&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminishedbelow that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
 
 &emsp;(3) there is inadequate knowledge of the ecology and population dynamics of such marine mammals and of the factors which bear upon their ability to reproduce themselves successfully;
 
@@ -38,7 +38,7 @@ Section 4 of Pub. L. 92–522 provided that: “The provisions of this Act \[ena
 
 Pub. L. 106–555, §1, Dec. 21, 2000, 114 Stat. 2765, provided that: “This Act \[enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, 1434, 5101 to 5103, 5106, 5107a to 5108, and 5156 of this title, enacting provisions set out as notes under this section and sections 917a, 1433, 5101, and 5107 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Striped Bass Conservation, Atlantic Coastal Fisheries Management, and Marine Mammal Rescue Assistance Act of 2000’.”
 
-Pub. L. 106–555, title II, §201, Dec. 21, 2000, 114 Stat. 2767, provided that: “This title \[enacting section 1421f–1of this title, amending sections 1362, 1421g, 1421h, 1433, and 1434 of this title, enacting provisions set out as notes under sections 917a and 1433 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Marine Mammal Rescue Assistance Act of 2000’.”
+Pub. L. 106–555, title II, §201, Dec. 21, 2000, 114 Stat. 2767, provided that: “This title \[enacting section 1421f–1 of this title, amending sections 1362, 1421g, 1421h, 1433, and 1434 of this title, enacting provisions set out as notes under sections 917a and 1433 of this title, and amending provisions set out as a note under section 1855 of this title\] may be cited as the ‘Marine Mammal Rescue Assistance Act of 2000’.”
 
 #### Short Title of 1997 Amendment
 
@@ -74,7 +74,7 @@ Pub. L. 105–42, §2, Aug. 15, 1997, 111 Stat. 1122, provided that:
 
 Purposes.—The purposes of this Act \[see Short Title of 1997 Amendment note above\] are—
 
-&emsp;“(1) to give effect to the Declaration of Panama, signed October 4, 1995, by the Governments of Belize, Colombia, Costa Rica, Ecuador, France, Honduras, Mexico, Panama, Spain, the United States of America, Vanuatu, and Venezuela, including the establishment of the International Dolphin Conservation Program, relating to the protection of dolphins and other species, and the conservation and management of tuna in the eastern tropical Pacific Ocean;
+&emsp;“(1) to give effect to the Declaration of Panama, signed October 4, 1995, by the Governments of Belize,Colombia, Costa Rica, Ecuador, France, Honduras, Mexico, Panama, Spain, the United States of America, Vanuatu, and Venezuela, including the establishment of the International Dolphin Conservation Program, relating to the protection of dolphins and other species, and the conservation and management of tuna in the eastern tropical Pacific Ocean;
 
 &emsp;“(2) to recognize that nations fishing for tuna in the eastern tropical Pacific Ocean have achieved significant reductions in dolphin mortality associated with that fishery; and
 

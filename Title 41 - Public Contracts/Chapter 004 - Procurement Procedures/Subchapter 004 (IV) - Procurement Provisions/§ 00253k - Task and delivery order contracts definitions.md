@@ -18,5 +18,5 @@ Section not to be construed as modifying or superseding, or as intended to impai
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253h, 253i of this title.
+This section is referred to in sections 253h, 253i of this title; title 10 section 2382.
 

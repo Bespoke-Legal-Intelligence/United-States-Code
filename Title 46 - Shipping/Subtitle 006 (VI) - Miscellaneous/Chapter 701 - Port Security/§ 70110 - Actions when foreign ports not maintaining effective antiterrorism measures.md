@@ -16,7 +16,7 @@ Effective Date for Sanctions.—Any action taken by the Secretary under subsecti
 
 &emsp;(1) 90 days after the government of the foreign country with jurisdiction over or control of that port is notified under section 70109 unless the Secretary finds that the government has brought the antiterrorism measures at the port up to the security level the Secretary used in making an assessment under section 70108 before the end of that 90-day period; or
 
-&emsp;(2) immediately upon the finding of the Secretary under subsection (a) if the Secretary finds, after consulting with the Secretary of State, that a condition exists that threatens the safety or security of passengers, vessels, or crew traveling to or from the port.
+&emsp;(2) immediately upon the finding of the Secretary under subsection (a) if the Secretaryfinds, after consulting with the Secretary of State, that a condition exists that threatens the safety or security of passengers, vessels, or crew traveling to or from the port.
 
 (c)
 

@@ -26,7 +26,7 @@ Compensation shall not be required under subsection (a) of this section if the S
 
 &emsp;&emsp;(B) representation of which is necessary for a fair determination in the proceeding, and
 
-&emsp;(2) who are, or represent an interest which is, unable to effectively participate or intervene in the proceeding because such persons cannot afford to pay reasonable attorneys’ fees, expert witness fees, and other reasonable costs of preparing for, and participating or intervening in, such proceeding (including fees and costs of obtaining judicial review of such proceeding).
+&emsp;(2) who are, or represent an interest which is, unable to effectively participate or intervene in the proceeding because such persons cannot afford to pay reasonable attorneys’fees, expert witness fees, and other reasonable costs of preparing for, and participating or intervening in, such proceeding (including fees and costs of obtaining judicial review of such proceeding).
 
 #### (c) Transcripts
 

@@ -44,7 +44,7 @@
 
 #### Amendments
 
-2000—Pub. L. 106–554, §1(a)(7) \[title IV, §401(h)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650, which directed the amendment of the table of sections of subpart IV ofsubchapter P of chapter 1 by adding item 1234B, was executed by adding item 1234B to the table of sections for this part which is part IV of subchapter P of chapter 1 to reflect the probable intent of Congress.
+2000—Pub. L. 106–554, §1(a)(7) \[title IV, §401(h)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650, which directed the amendment of the table of sections of subpart IV of subchapter P of chapter 1 by adding item 1234B, was executed by adding item 1234B to the table of sections for this part which is part IV of subchapter P of chapter 1 to reflect the probable intent of Congress.
 
 1999—Pub. L. 106–170, title V, §534(b), Dec. 17, 1999, 113 Stat. 1934, added item 1260.
 

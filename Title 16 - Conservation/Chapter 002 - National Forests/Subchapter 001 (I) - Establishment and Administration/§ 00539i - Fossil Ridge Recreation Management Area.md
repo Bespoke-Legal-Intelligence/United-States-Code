@@ -8,7 +8,7 @@
 
 #### (b) Administration
 
-The Secretary of Agriculture shall administer the recreation management area in accordancewith this section and the laws and regulations generally applicable to the National Forest System.
+The Secretary of Agriculture shall administer the recreation management area in accordance with this section and the laws and regulations generally applicable to the National Forest System.
 
 #### (c) Withdrawal
 

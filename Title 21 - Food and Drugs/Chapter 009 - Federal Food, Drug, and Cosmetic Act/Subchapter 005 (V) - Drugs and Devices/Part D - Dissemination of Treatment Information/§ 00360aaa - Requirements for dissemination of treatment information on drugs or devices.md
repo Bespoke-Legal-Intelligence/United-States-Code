@@ -44,7 +44,7 @@ A manufacturer may disseminate information under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(ii) if applicable, that the information is being disseminated at the expense of the manufacturer;
 
-&emsp;&emsp;&emsp;(iii) if applicable, the name of any authors of the information who are employees of, consultants to, or have receivedcompensation from, the manufacturer, or who have a significant financial interest in the manufacturer;
+&emsp;&emsp;&emsp;(iii) if applicable, the name of any authors of the information who are employees of, consultants to, or have received compensation from, the manufacturer, or who have a significant financial interest in the manufacturer;
 
 &emsp;&emsp;&emsp;(iv) the official labeling for the drug or device and all updates with respect to the labeling;
 
@@ -70,7 +70,7 @@ If the Secretary determines, after providing notice of such determination and an
 
 #### Effective and Termination Dates
 
-Section 401(d) of Pub. L. 105–115 provided that: “The amendments made by this section \[enacting this part and amending section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Nov. 21, 1997\], or upon the Secretary's issuance of final regulations pursuant to subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\], whichever is sooner.”
+Section 401(d) of Pub. L. 105–115 provided that: “The amendments made by this section \[enacting this partand amending section 331 of this title\] shall take effect 1 year after the date of enactment of this Act \[Nov. 21, 1997\], or upon the Secretary's issuance of final regulations pursuant to subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\], whichever is sooner.”
 
 Section 401(e) of Pub. L. 105–115 provided that: “The amendments made by this section \[enacting this part and amending section 331 of this title\] cease to be effective September 30, 2006, or 7 years after the date on which the Secretary promulgates the regulations described in subsection (c) \[section 401(c) of Pub. L. 105–115 set out below\], whichever is later.”
 

@@ -20,5 +20,5 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3304 of this title; title 10 sections 1614, 1744, 2164; title 49 section 44506.
+This section is referred to in section 3304 of this title; title 10 sections 1614, 2164; title 49 section 44506.
 

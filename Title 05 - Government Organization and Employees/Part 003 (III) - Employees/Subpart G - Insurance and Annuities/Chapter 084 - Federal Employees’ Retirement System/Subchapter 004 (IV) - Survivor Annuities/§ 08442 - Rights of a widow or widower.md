@@ -1,6 +1,6 @@
 ### §8442. Rights of a widow or widower
 
-(a)(1) Except as provided in subsection (g), if an annuitant dies and is survived by a widow orwidower, the widow or widower is entitled to an annuity equal to 50 percent of an annuity computed under section 8415 with respect to the annuitant, (or one-half thereof, if designated for this purpose under section 8419 of this title), unless—
+(a)(1) Except as provided in subsection (g), if an annuitant dies and is survived by a widow or widower, the widow or widower is entitled to an annuity equal to 50 percent of an annuity computed under section 8415 with respect to the annuitant, (or one-half thereof, if designated for this purpose under section 8419 of this title), unless—
 
 &emsp;(A) the right to an annuity was waived under section 8416(a) (and no election was subsequently made under section 8416(d) nullifying the waiver); or
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) $15,000 as adjusted under section 8462(e); and
 
-&emsp;(B) if the employee or Member completed at least 10 years of service, an annuity equal to 50 percent of an annuity computed under section 8415 with respect to the employee or Member, but without regard to subsection (f) of such section.
+&emsp;(B) if the employee or Member completed at least 10 years of service, an annuity equal to 50 percent of an annuity computed under section8415 with respect to the employee or Member, but without regard to subsection (f) of such section.
 
 (2) The Office shall prescribe regulations under which the total amount payable to a widow or widower under paragraph (1)(A) may, at the election of the widow or widower, be paid—
 

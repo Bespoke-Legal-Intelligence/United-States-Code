@@ -1,0 +1,24 @@
+### §539m–10. Judicial review
+
+#### (a) Enforcement
+
+A civil action to enforce the provisions of sections 539m to 539m–12 of this title may be brought to the extent permitted under chapter 7 of title 5. Judicial review shall be based on the administrative record and subject to the applicable standard of review set forth in section 706 of title 5.
+
+#### (b) Waiver
+
+A civil action may be brought against the Pueblo for declaratory judgment or injunctive relief under sections 539m to 539m–12 of this title, but no money damages, including costs or attorney's fees, may be imposed on the Pueblo as a result of such judicial action.
+
+#### (c) Venue
+
+Venue for any civil action provided for in this section, as well as any civil action to contest the constitutionality of sections 539m to 539m–12 of this title, shall lie only in the United States District Court for the District of New Mexico.
+
+(Pub. L. 108–7, div. F, title IV, §412, Feb. 20, 2003, 117 Stat. 291.)
+
+#### References in Text
+
+Sections 539m to 539m–12 of this title, referred to in text, was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 539m, 539m–1, 539m–2, 539m–3, 539m–4, 539m–6, 539m–7, 539m–8, 539m–9, 539m–11, 539m–12 of this title.
+

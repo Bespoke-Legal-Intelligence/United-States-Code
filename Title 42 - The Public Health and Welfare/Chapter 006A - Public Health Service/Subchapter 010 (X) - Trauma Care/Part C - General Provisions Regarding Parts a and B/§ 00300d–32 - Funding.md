@@ -24,7 +24,7 @@ For the purpose of carrying out parts A and B of this subchapter, there are auth
 
 #### (1) In general
 
-&emsp;If the amounts made available under subsection (b)(3)(A) of this section for a fiscalyear are insufficient for providing each State with an allotment under section 300d–11(a) of this title of not less than the applicable amount under section 300d–18(a)(2) of this title, the Secretary shall, from such amounts as are made available under subsection (b)(3)(A) of this section, make grants to States described in paragraph (2) for carrying out part B of this subchapter.
+&emsp;If the amounts made available under subsection (b)(3)(A) of this section for a fiscal year are insufficient for providing each State with an allotment under section 300d–11(a) of this title of not less than the applicable amount under section 300d–18(a)(2) of this title, the Secretary shall, from such amounts as are made available under subsection (b)(3)(A) of this section, make grants to States described in paragraph (2) for carrying out part B of this subchapter.
 
 #### (2) Eligible States
 

@@ -112,7 +112,7 @@
 
 &emsp;(C) In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
 
-(b) Estimated expenditures and proposed appropriations for the legislative branch and thejudicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
+(b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
@@ -120,7 +120,7 @@
 
 (e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
-&emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
+&emsp;(A) an estimate of the current service levels of public civilian capital investment and ofmilitary capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
 &emsp;(B) the most recent assessment analysis and summary, in a standard format, of public civilian capital investment needs in each major program area over a period of ten years;
 
@@ -174,7 +174,7 @@
 
 &emsp;(B) the term “acquisition” includes the addition of land, sites, equipment, structures, facilities, or rolling stock by purchase, lease-purchase, trade, or donation; and
 
-&emsp;(C) the term “rehabilitation” includes the alteration of or correction of deficiencies in an existing structure or facility so as to extendthe useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
+&emsp;(C) the term “rehabilitation” includes the alteration of or correction of deficiencies in an existing structure or facility so as to extend the useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
 
 (f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.
 
@@ -196,7 +196,11 @@
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250.)
+(h)(1) If there is a medicare funding warning under section 801(a)(2) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 made in a year, the President shall submit to Congress, within the 15-day period beginning on the date of the budget submission toCongress under subsection (a) for the succeeding year, proposed legislation to respond to such warning.
+
+(2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641.)
 
 #### Termination of Subsection (f)
 
@@ -362,13 +366,19 @@ Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in sub
 
 Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(32), is classified to section 907(b)(2) of Title 2, The Congress.
 
+Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
+
 #### Amendments
+
+2003—Subsec. (g)(2)(B)(ii). Pub. L. 108–178 inserted “section” before “1102 of title 40”.
+
+Subsec. (h). Pub. L. 108–173 added subsec. (h).
 
 2002—Subsec. (a)(33). Pub. L. 107–296 added par. (33) relating to detailed, separate analysis of homeland security appropriations, obligational authority, and outlays.
 
 Subsec. (a)(34). Pub. L. 107–189 added par. (34).
 
-Subsec. (g)(2)(B)(ii). Pub. L. 107–217, which directed amendment of cl. (ii) to “strike ‘section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541)’ and substitute section ‘1102 of title 40’ ”, was executed by substituting “section 1102 of title 40” for the words stricken to reflect the probable intent of Congress.
+Subsec. (g)(2)(B)(ii). Pub. L. 107–217 substituted “1102 of title 40” for “section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541)”.
 
 2000—Subsec. (a)(33). Pub. L. 106–422 added par. (33) relating to separate account for Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory.
 
@@ -394,7 +404,7 @@ Subsec. (a)(28). Pub. L. 101–576 added par. (28).
 
 Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, substituting “The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.” for
 
-“(f)(1) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared on the basis of the best estimates then available, in such a manner as to ensure that the deficit for such fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974.
+“(f)(1) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared on the basis of thebest estimates then available, in such a manner as to ensure that the deficit for such fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974.
 
 “(2) The deficit set forth in the budget so transmitted for any fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974, with budget outlays and Federal revenues at such levels as the President may consider most desirable and feasible.
 
@@ -434,6 +444,10 @@ Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f)
 
 1983—Subsec. (a)(25). Pub. L. 97–452 added par. (25).
 
+#### Effective Date of 2003 Amendment
+
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -462,7 +476,159 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 
 #### Construction of 1993 Amendment
 
-Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction note under section 1115 of this title.
+Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement,see section 10 of Pub. L. 103–62, set out as a Construction note under section 1115 of this title.
+
+#### Procedures in the House of Representatives
+
+Pub. L. 108–173, title VIII, §803, Dec. 8, 2003, 117 Stat. 2360, provided that:
+
+“(a)
+
+Introduction and Referral of President's Legislative Proposal.—
+
+&emsp;“(1)
+
+Introduction.—In the case of a legislative proposal submitted by the President pursuant to section 1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader of the House of Representatives (or his designee) and the Minority Leader of the House of Representatives (or his designee) shall introduce such proposal (by request), the title of which is as follows: ‘A bill to respond to a medicare funding warning.’ Such bill shall be introduced within 3 legislative days after Congress receives such proposal.
+
+&emsp;“(2)
+
+Referral.—Any legislation introduced pursuant to paragraph (1) shall be referred to the appropriate committees of the House of Representatives.
+
+“(b)
+
+Direction to the Appropriate House Committees.—
+
+&emsp;“(1)
+
+In general.—In the House, in any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, the appropriate committees shall report medicare funding legislation by not later than June 30 of such year.
+
+&emsp;“(2)
+
+Medicare funding legislation.—For purposes of this section, the term ‘medicare funding legislation’ means—
+
+&emsp;&emsp;“(A) legislation introduced pursuant to subsection (a)(1), but only if the legislative proposal upon which the legislation is based was submitted within the 15-day period referred to in such subsection; or
+
+&emsp;&emsp;“(B) any bill the title of which is as follows: ‘A bill to respond to a medicare funding warning.’.
+
+&emsp;“(3)
+
+Certification.—With respect to any medicare funding legislation or any amendment to such legislation to respond to a medicare funding warning, the chairman of the Committee on the Budget of the House shall certify—
+
+&emsp;&emsp;“(A) whether or not such legislation eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period; and
+
+&emsp;&emsp;“(B) with respect to such an amendment, whether the legislation, as amended, would eliminate excess general revenue medicare funding (as defined in section 801(c)) for each fiscal year in such 7-fiscal-year reporting period.
+
+“(c)
+
+Fallback Procedure for Floor Consideration if the House Fails to Vote on Final Passage by July 30.—
+
+&emsp;“(1) After July 30 of any year during which the President is required to submit proposed legislation to Congress under section 1105(h) of title 31, United States Code, unless the House of Representatives has voted on final passage of any medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A), then, after the expiration of not less than 30 calendar days (and concurrently 5 legislative days), it is in order to move to discharge any committee to which medicare funding legislation which has such a certification and which has been referred to such committee for 30 calendar days from further consideration of the legislation.
+
+&emsp;“(2) A motion to discharge may be made only by an individual favoring the legislation, may be made only if supported by one-fifth of the total membership of the House (a quorum being present), and is highly privileged in the House. Debate thereon shall be limited to not more than one hour, the time to be divided in the House equally between those favoring and those opposing the motion. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+
+&emsp;“(3) Only one motion to discharge a particular committee may be adopted under this subsection in any session of a Congress.
+
+&emsp;“(4) Notwithstanding paragraph (1), it shall not be in order to move to discharge a committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if, during the previous session of the Congress, the House passed medicare funding legislation for which there is an affirmative certification under subsection (b)(3)(A).
+
+“(d)
+
+Floor Consideration in the House of Discharged Legislation.—
+
+&emsp;“(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
+
+&emsp;“(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+
+&emsp;“(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
+
+&emsp;“(4) Except to the extent specifically provided in the preceding provisions of this subsection, consideration of any such legislation and amendments thereto (or any conference report thereon) shall be governed by the Rules of the House of Representatives applicable to other bills and resolutions, amendments, and conference reports in similar circumstances.
+
+“(e)
+
+Legislative Day Defined.—As used in this section, the term ‘legislative day’ means a day on which the House of Representatives is in session.
+
+“(f)
+
+Restriction on Waiver.—In the House, the provisions of this section may be waived only by a rule or order proposing only to waive such provisions.
+
+“(g)
+
+Rulemaking Power.—The provisions of this section are enacted by the Congress—
+
+&emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and, as such, shall be considered as part of the rules of that House and shall supersede other rules only to the extent that they are inconsistent therewith; and
+
+&emsp;“(2) with full recognition of the constitutional right of that House to change the rules (so far as they relate to the procedures of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.”
+
+#### Procedures in the Senate
+
+Pub. L. 108–173, title VIII, §804, Dec. 8, 2003, 117 Stat. 2363, provided that:
+
+“(a)
+
+Introduction and Referral of President's Legislative Proposal.—
+
+&emsp;“(1)
+
+Introduction.—In the case of a legislative proposal submitted by the President pursuant to section 1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader and Minority Leader of the Senate (or their designees) shall introduce such proposal (by request), the title of which is as follows: ‘A bill to respond to a medicare funding warning.’ Such bill shall be introduced within 3 days of session after Congress receives such proposal.
+
+&emsp;“(2)
+
+Referral.—Any legislation introduced pursuant to paragraph (1) shall be referred to the Committee on Finance.
+
+“(b)
+
+Medicare Funding Legislation.—For purposes of this section, the term ‘medicare funding legislation’ means—
+
+&emsp;“(1) legislation introduced pursuant to subsection (a)(1), but only if the legislative proposal upon which the legislation is based was submitted within the 15-day period referred to in such subsection; or
+
+&emsp;“(2) any bill the title of which is as follows: ‘A bill to respond to a medicare funding warning.’.
+
+“(c)
+
+Qualification for Special Procedures.—
+
+&emsp;“(1)
+
+In general.—The special procedures set forth in subsections (d) and (e) shall apply to medicare funding legislation, as described in subsection (b), only if the legislation—
+
+&emsp;&emsp;“(A) is medicare funding legislation that is passed by the House of Representatives; or
+
+&emsp;&emsp;“(B) contains matter within the jurisdiction of the Committee on Finance in the Senate.
+
+&emsp;“(2)
+
+Failure to qualify for special procedures.—If the medicare funding legislation does not satisfy paragraph (1), then the legislation shall be considered under the ordinary procedures of the Standing Rules of the Senate.
+
+“(d)
+
+Discharge.—
+
+&emsp;“(1)
+
+In general.—If the Committee on Finance has not reported medicare funding legislation described in subsection (c)(1) by June 30 of a year in which the President is required to submit medicare funding legislation to Congress under section 1105(h) of title 31, United States Code, then any Senator may move to discharge the Committee of any single medicare funding legislation measure. Only one such motion shall be in order in any session of Congress.
+
+&emsp;“(2)
+
+Debate limits.—Debate in the Senate on any such motion to discharge, and all appeals in connection therewith, shall be limited to not more than 2 hours. The time shall be equally divided between, and controlled by, the maker of the motion and the Majority Leader, or their designees, except that in the event the Majority Leader is in favor of such motion, the time in opposition thereto shall be controlled by the Minority Leader or the Minority Leader's designee. A point of order under this subsection may be made at any time. It is not in order to move to proceed to another measure or matter while such motion (or the motion to reconsider such motion) is pending.
+
+&emsp;“(3)
+
+Amendments.—No amendment to the motion to discharge shall be in order.
+
+&emsp;“(4)
+
+Exception if certified legislation enacted.—Notwithstanding paragraph (1), it shall not be in order to discharge the Committee from further consideration of medicare funding legislation pursuant to this subsection during a session of a Congress if the chairman of the Committee on the Budget of the Senate certifies that medicare funding legislation has been enacted that eliminates excess general revenue medicare funding (as defined in section 801(c) \[set out as a note under section 1395i of Title 42, The Public Health and Welfare\]) for each fiscal year in the 7-fiscal-year reporting period.
+
+“(e)
+
+Consideration.—After the date on which the Committee on Finance has reported medicare funding legislation described in subsection (c)(1), or has been discharged (under subsection (d)) from further consideration of, such legislation, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of such legislation.
+
+“(f)
+
+Rules of the Senate.—This section is enacted by the Senate—
+
+&emsp;“(1) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of a bill described in this paragraph, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+
+&emsp;“(2) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.”
 
 #### Transportation Security Administration
 
@@ -548,7 +714,7 @@ Submission of 2
 
 “(c)
 
-Report.—Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee onMerchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
+Report.—Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
 
 &emsp;“(1) the Secretary's views on the advantages and disadvantages of operating the Coast Guard on a 2-year budget cycle;
 
@@ -618,7 +784,7 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 6 sections 162, 214, 453, 454; title 7 section 5603; title 10 sections 113, 113a, 114, 115, 115a, 118, 118a, 119, 139, 153, 168, 179, 221, 222, 223, 224, 226, 231, 483, 484, 1115, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2224, 2304a, 2304b, 2306b, 2350a, 2359b, 2431, 2433, 2475, 2515, 2521, 2703, 2721, 2809, 2815, 2835, 2836, 2859, 2884, 4342, 4541, 6954, 7902, 9342, 10543; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 22 section 5959; title 25 sections 450j–1, 458dd, 458aaa–12, 1621, 1671, 2008, 2015, 2504, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 11302, 11303, 11315, 11318, 17505, 17507; title 41 sections 253h, 253i, 433; title 42 sections 2286e, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 44 sections 3534, 3544; title 50 sections 404a, 404b, 404d, 415a, 1906, 2353, 2426, 2451, 2452, 2453.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 6 sections 162, 214, 453, 454; title 7 section 5603; title 10 sections 113, 113a, 114, 115, 115a, 118, 118a, 119, 139, 153, 168, 179, 221, 222, 223, 223a, 224, 226, 231, 483, 484, 488, 1115, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2304a, 2304b, 2306b, 2352, 2359b, 2431, 2433, 2475, 2515, 2703, 2721, 2809, 2815, 2835, 2836, 2865, 2869, 2884, 4342, 4541, 6954, 7902, 9342, 10543; title 12 section 5018; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 22 section 5959; title 25 sections 450j–1, 458dd, 458aaa–12, 1621, 1671, 2008, 2015, 2504, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 11302, 11303, 11315, 11318, 17505, 17507; title 41 sections 253h, 253i, 414, 433; title 42 sections 2286e, 7274c, 7274g, 8255, 11710, 13474; title 44 sections 3534, 3544; title 50 sections 404a, 404b, 404d, 415a, 1906, 2353, 2426, 2451, 2452, 2453, 2524, 2529, 2567, 2587, 2589, 2601, 2675.
 
 <i><sup>1</sup></i><i> So in original. Another par. (33) is set out after par. (34).</i>
 

@@ -96,7 +96,7 @@ For purposes of this chapter:
 
 &emsp;(30) The term “Yucca Mountain site” means the candidate site in the State of Nevada recommended by the Secretary to the President under section 10132(b)(1)(B) of this title on May 27, 1986.
 
-&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repositoryor a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
+&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repository or a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
 
 &emsp;(32) The term “Negotiator” means the Nuclear Waste Negotiator.
 
@@ -120,7 +120,7 @@ Section 10156(c) of this title, referred to in par. (26), was in the original a 
 
 #### Short Title of 1987 Amendment
 
-Section 101(d) \[title III\] of Pub. L. 100–202 and section 5001 of title V of Pub. L. 100–203 provided that: “This subtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
+Section 101(d) \[title III\] of Pub. L. 100–202 and section 5001 of title V of Pub. L. 100–203 provided that: “Thissubtitle \[subtitle A (§§5001–5065) of title V, enacting sections 10162, 10163, 10164, 10165, 10166, 10167, 10168, 10169, 10172, 10172a, 10173, 10173a, 10173b, 10173c, 10174, 10174a, 10175, 10204, 10241, 10242, 10243, 10244, 10245, 10246, 10247, 10248, 10249, 10250, 10251, 10261, 10262, 10263, 10264, 10265, 10266, 10267, 10268, 10269, and 10270 of this title, amending this section and sections 10132, 10133, 10134, 10136, 10137, and 10138 of this title and enacting provisions set out as a note under section 5841 of this title\] may be cited as the ‘Nuclear Waste Policy Amendments Act of 1987’.”
 
 #### Short Title
 

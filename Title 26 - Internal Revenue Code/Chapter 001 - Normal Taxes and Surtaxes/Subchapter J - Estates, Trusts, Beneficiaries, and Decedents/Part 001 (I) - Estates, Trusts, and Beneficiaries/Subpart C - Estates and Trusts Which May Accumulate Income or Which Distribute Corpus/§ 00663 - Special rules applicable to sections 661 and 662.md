@@ -54,7 +54,7 @@ Section 1307(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 101(j)(17) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L.91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by section 101(j)(17) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
 Amendment by section 331(b) of Pub. L. 91–172 applicable to taxable years beginning before Jan. 1, 1970, see section 331(d) of Pub. L. 91–172, set out as a note under section 665 of this title.
 

@@ -12,7 +12,7 @@ Whoever—
 
 &emsp;&emsp;&emsp;(ii) initiates the transmission of,
 
-> &emsp;&emsp;any comment, request, suggestion, proposal, image, or other communication which is obscene, lewd, lascivious, filthy, or indecent, with intent to annoy, abuse, threaten, or harass another person;
+> &emsp;&emsp;any comment, request, suggestion, proposal, image, or other communication which is obscene or child pornography, with intent to annoy, abuse, threaten, or harass another person;
 
 &emsp;&emsp;(B) by means of a telecommunications device knowingly—
 
@@ -20,7 +20,7 @@ Whoever—
 
 &emsp;&emsp;&emsp;(ii) initiates the transmission of,
 
-> &emsp;&emsp;any comment, request, suggestion, proposal, image, or other communication which is obscene or indecent, knowing that the recipient of the communication is under 18 years of age, regardless of whether the maker of such communication placed the call or initiated the communication;
+> &emsp;&emsp;any comment, request, suggestion, proposal, image, or other communication which is obscene or child pornography, knowing that the recipient of the communication is under 18 years of age, regardless of whether the maker of such communication placed the call or initiated the communication;
 
 &emsp;&emsp;(C) makes a telephone call or utilizes a telecommunications device, whether or not conversation or communication ensues, without disclosing his identity and with intent to annoy, abuse, threaten, or harass any person at the called number or who receives the communications;
 
@@ -88,7 +88,7 @@ Whoever—
 
 &emsp;&emsp;(B) uses any interactive computer service to display in a manner available to a person under 18 years of age,
 
-> &emsp;any comment, request, suggestion, proposal, image, or other communication that, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards, sexual or excretory activities or organs, regardless of whether the user of such service placed the call or initiated the communication; or
+> &emsp;any comment, request, suggestion, proposal, image, or other communication that is obscene or child pornography, regardless of whether the user of such service placed the call or initiated the communication; or
 
 &emsp;(2) knowingly permits any telecommunications facility under such person's control to be used for an activity prohibited by paragraph (1) with the intent that it be used for such activity,
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;(2) The term “interactive computer service” has the meaning provided in section 230(f)(2) of this title.
 
-&emsp;(3) The term “access software” means software (including client or server software) or enabling tools that do not create or provide the content of the communication but that allow a user to do any one or more of the following:
+&emsp;(3) The term “access software” means software (including client or server software) or enabling tools that do not create or providethe content of the communication but that allow a user to do any one or more of the following:
 
 &emsp;&emsp;(A) filter, screen, allow, or disallow content;
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;(5) The term “library” means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).
 
-(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739.)
+(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739; Pub. L. 108–21, title VI, §603, Apr. 30, 2003, 117 Stat. 687.)
 
 #### References in Text
 
@@ -157,6 +157,12 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(6), are set out
 The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended. Title III of the Act was classified generally to subchapter III (§355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 #### Amendments
+
+2003—Subsec. (a)(1)(A). Pub. L. 108–21, §603(1)(A), substituted “or child pornography” for “, lewd, lascivious, filthy, or indecent” in concluding provisions.
+
+Subsec. (a)(1)(B). Pub. L. 108–21, §603(1)(B), substituted “child pornography” for “indecent” in concluding provisions.
+
+Subsec. (d)(1). Pub. L. 108–21, §603(2), substituted “is obscene or child pornography” for “, in context, depicts or describes, in terms patently offensive as measured by contemporary community standards, sexual or excretory activities or organs” in concluding provisions.
 
 1998—Subsec. (h)(2). Pub. L. 105–277 substituted “230(f)(2)” for “230(e)(2)”.
 
@@ -222,7 +228,7 @@ Subsecs. (d) to (h). Pub. L. 104–104, §502(2), added subsecs. (d) to (h).
 
 “(4) The Attorney General may bring a suit in the appropriate district court of the United States to enjoin any act or practice which violates paragraph (1)(A) or (1)(B). An injunction may be granted in accordance with the Federal Rules of Civil Procedure.”
 
-Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) whichread as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedures which the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
+Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedures which the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
 
 1983—Subsec. (a). Pub. L. 98–214, §8(a)(1), (2), designated existing provisions as subsec. (a) and substituted “$50,000” for “$500” in provisions after par. (2).
 
@@ -266,5 +272,5 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 152, 153, 228, 230 of this title.
+This section is referred to in sections 152, 153, 228, 230 of this title; title 15 section 7707.
 

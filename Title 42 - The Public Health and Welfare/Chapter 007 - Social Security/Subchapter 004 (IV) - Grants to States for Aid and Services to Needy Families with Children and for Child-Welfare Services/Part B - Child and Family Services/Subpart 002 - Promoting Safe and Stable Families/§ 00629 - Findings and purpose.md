@@ -8,7 +8,7 @@ The Congress finds that there is a continuing urgent need to protect children an
 
 &emsp;(2) Family preservation programs have been shown to provide extensive and intensive services to families in crisis.
 
-&emsp;(3) The time lines established by the Adoption and Safe Families Act of 1997 have made the prompt availability of services to addressfamily problems (and in particular the prompt availability of appropriate services and treatment addressing substance abuse) an important factor in successful family reunification.
+&emsp;(3) The time lines established by the Adoption and Safe Families Act of 1997 have made the prompt availability of services to address family problems (and in particular the prompt availability of appropriate services and treatment addressing substance abuse) an important factor in successful family reunification.
 
 &emsp;(4) The rapid increases in the annual number of adoptions since the enactment of the Adoption and Safe Families Act of 1997 have created a growing need for postadoption services and for service providers with the particular knowledge and skills required to address the unique issues adoptive families and children may face.
 
@@ -24,7 +24,7 @@ The purpose of this program is to enable States to develop and establish, or exp
 
 &emsp;(4) To support adoptive families by providing support services as necessary so that they can make a lifetime commitment to their children.
 
-(Aug. 14, 1935, ch. 531, title IV, §430, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 649; amended Pub. L. 105–89, title III, §305(a)(1), (2), (b)(3)(A), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 107–133, title I, §101, Jan. 17, 2002, 115 Stat. 2414.)
+(Aug. 14, 1935, ch. 531, title IV, §430, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10,1993, 107 Stat. 649; amended Pub. L. 105–89, title III, §305(a)(1), (2), (b)(3)(A), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 107–133, title I, §101, Jan. 17, 2002, 115 Stat. 2414.)
 
 #### References in Text
 

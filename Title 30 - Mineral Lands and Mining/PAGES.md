@@ -1,6 +1,6 @@
 # Printed pages - Title 30 - Mineral Lands and Mining
 
-GPO's 2002 edition (laws in effect as of 2003-01-06), from its printed page marks. The exact position of
+GPO's 2003 edition (laws in effect as of 2004-01-19), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title30.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -56,8 +56,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00028k - Regulations](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000028k%20-%20Regulations.md) | 13–14 |
 | [&sect; 00029 - Patents; procurement procedure; filing application under oath, plat and field notes, notices, and affidavits; posting plat and notice on&#8230;](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000029%20-%20Patents%3B%20procurement%20procedure%3B%20filing%20application%20under%20oath%2C%20plat%20and%20field%20notes%2C%20notices%2C%20and%20affidavits%3B%20posting%20plat%20and%20notice%20on%E2%80%A6.md) | 14–15 |
 | [&sect; 00030 - Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession&#8230;](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000030%20-%20Adverse%20claims%3B%20oath%20of%20claimants%3B%20requisites%3B%20waiver%3B%20stay%20of%20land%20office%20proceedings%3B%20judicial%20determination%20of%20right%20of%20possession%E2%80%A6.md) | 15 |
-| [&sect; 00031 - Oath agent or attorney in fact, beyond district of claim](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000031%20-%20Oath%20agent%20or%20attorney%20in%20fact%2C%20beyond%20district%20of%20claim.md) | 15 |
-| [&sect; 00032 - Findings by jury; costs](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000032%20-%20Findings%20by%20jury%3B%20costs.md) | 15–16 |
+| [&sect; 00031 - Oath agent or attorney in fact, beyond district of claim](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000031%20-%20Oath%20agent%20or%20attorney%20in%20fact%2C%20beyond%20district%20of%20claim.md) | 15–16 |
+| [&sect; 00032 - Findings by jury; costs](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000032%20-%20Findings%20by%20jury%3B%20costs.md) | 16 |
 | [&sect; 00033 - Existing rights](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000033%20-%20Existing%20rights.md) | 16 |
 | [&sect; 00034 - Description of vein claims on surveyed and unsurveyed lands; monuments on ground to govern conflicting calls](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000034%20-%20Description%20of%20vein%20claims%20on%20surveyed%20and%20unsurveyed%20lands%3B%20monuments%20on%20ground%20to%20govern%20conflicting%20calls.md) | 16 |
 | [&sect; 00035 - Placer claims; entry and proceedings for patent under provisions applicable to vein or lode claims; conforming entry to legal subdivisions&#8230;](Chapter%20002%20-%20Mineral%20Lands%20and%20Regulations%20in%20General/%C2%A7%2000035%20-%20Placer%20claims%3B%20entry%20and%20proceedings%20for%20patent%20under%20provisions%20applicable%20to%20vein%20or%20lode%20claims%3B%20conforming%20entry%20to%20legal%20subdivisions%E2%80%A6.md) | 16–17 |

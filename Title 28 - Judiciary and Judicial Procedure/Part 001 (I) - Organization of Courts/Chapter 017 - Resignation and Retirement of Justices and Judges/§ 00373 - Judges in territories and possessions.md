@@ -42,7 +42,7 @@
 
 (4) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall be paid, while performing such duties, the same compensation (in lieu of the annuity payable under subsection (a) of this section) and the same allowances for travel and other expenses as a judge on active duty with the court being served.
 
-(5) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall at all times be governed by the code of judicial conduct for United States judges approved by the Judicial Conference of the United States.
+(5) Any senior judge performing judicial duties pursuant to recall under paragraph (2) of this subsection shall at all times be governed by thecode of judicial conduct for United States judges approved by the Judicial Conference of the United States.
 
 (d) Any judge who elects to become a senior judge under subsection (c) of this section and who thereafter—
 
@@ -98,7 +98,7 @@ Section 21(c) of Pub. L. 99–396 provided that: “The amendments made by this 
 
 #### Effective Date of 1959 Amendment
 
-Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the Union, see note set out under section 91 of this title. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, upon issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the Union, see note set out undersection 91 of this title. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, upon issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
 #### Effective Date of 1958 Amendment
 

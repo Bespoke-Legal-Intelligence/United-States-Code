@@ -20,7 +20,7 @@ Authority for family to select.—
 
 &emsp;&emsp;(i)
 
-In general.—A family residing in a public housing dwelling shall pay as monthly rent for the unit the amount determined under clause (i) or (ii) of subparagraph (B), subject to the requirement under paragraph (3) (relating to minimum rents). Each public housing agency shall provide for each family residing in a public housing dwelling unitowned, assisted, or operated by the agency to elect annually whether the rent paid by such family shall be determined under clause (i) or (ii) of subparagraph (B). A public housing agency may not at any time fail to provide both such rent options for any public housing dwelling unit owned, assisted, or operated by the agency.
+In general.—A family residing in a public housing dwelling shall pay as monthly rent for the unit the amount determined under clause (i) or (ii) of subparagraph (B), subject to the requirement under paragraph (3) (relating to minimum rents). Each public housing agency shall provide for each family residing in a public housing dwelling unit owned, assisted, or operated by the agency to elect annually whether the rent paid by such family shall be determined under clause (i) or (ii) of subparagraph (B). A public housing agency may not at any time fail to provide both such rent options for any public housing dwelling unit owned, assisted, or operated by the agency.
 
 &emsp;&emsp;(ii)
 
@@ -32,7 +32,7 @@ Allowable rent structures.—
 
 &emsp;&emsp;(i)
 
-Flat rents.—Except as otherwise provided under this clause, each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall—
+Flat rents.—Except as otherwise provided under this clause, each public housingagency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall—
 
 &emsp;&emsp;&emsp;(I) be based on the rental value of the unit, as determined by the public housing agency; and
 
@@ -84,7 +84,7 @@ Requirement.—Notwithstanding paragraph (1) of this subsection, the method for 
 
 &emsp;&emsp;&emsp;(II) each family who is assisted under the certificate or moderate rehabilitation program under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce themonthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
+&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
 
 &emsp;&emsp;(ii) The Secretary shall require each family who is assisted under any other program for rental assistance under section 1437f of this title to pay such minimum monthly rental amount, which amount shall be determined by the Secretary.
 
@@ -94,7 +94,7 @@ Exception for hardship circumstances.—
 
 &emsp;&emsp;(i)
 
-In general.—Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting an eligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
+In general.—Notwithstanding subparagraph (A), a public housing agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)) shall immediately grant an exemption from application of the minimum monthly rental under such subparagraph to any family unable to pay such amount because of financial hardship, which shall include situations in which (I) the family has lost eligibility for or is awaiting an eligibility determination for a Federal, State, or local assistance program, including a family that includes a member who is analien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] who would be entitled to public benefits but for title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996; (II) the family would be evicted as a result of the imposition of the minimum rent requirement under subparagraph (A); (III) the income of the family has decreased because of changed circumstance, including loss of employment; (IV) a death in the family has occurred; and (V) other situations as may be determined by the agency (or the Secretary, in the case of a family described in subparagraph (A)(ii)).
 
 &emsp;&emsp;(ii)
 
@@ -216,7 +216,7 @@ Child care expenses.—Any reasonable child care expenses necessary to enable a 
 
 &emsp;&emsp;(iv)
 
-Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
+Minors, students, and persons with disabilities.—$480 for each member of thefamily residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.
 
 &emsp;&emsp;(v)
 
@@ -358,7 +358,7 @@ When used in reference to public housing:
 
 #### (2) Deposits to account
 
-&emsp;The public housing agency shall deposit in any savings account established under this subsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) of this section as a result of employment.
+&emsp;The public housing agency shall deposit in any savings account established under thissubsection an amount equal to the total amount that otherwise would be applied to the family's rent payment under subsection (a) of this section as a result of employment.
 
 #### (3) Withdrawal from account
 
@@ -498,7 +498,7 @@ Subsec. (b)(5)(G). Pub. L. 104–330, §501(b)(1)(A)(ii), (iii), redesignated su
 
 Subsec. (b)(5)(H). Pub. L. 104–330, §501(b)(1)(A)(iii), redesignated subpar. (H) as (G).
 
-Pub. L. 104–99, §402(c), (f), temporarily added subpar. (H) which read “for public housing, any other adjustments to earned income established by the public housing agency. If a public housing agency adopts other adjustments to income pursuant to subparagraph (H), the Secretary shall not take into account any reduction of or increase in the public housing agency's per unit dwelling rental income resulting from those adjustments when calculating the contributions under section 1437g of this title for the public housing agency for the operation of the public housing.” See Effective and Termination Dates of 1996 Amendments note below.
+Pub. L. 104–99, §402(c), (f), temporarily added subpar. (H) which read “for public housing, any other adjustments to earned income established by the public housing agency. If a public housing agency adopts other adjustments to income pursuant to subparagraph (H), the Secretary shall not take into account any reduction of or increase in the public housing agency's per unitdwelling rental income resulting from those adjustments when calculating the contributions under section 1437g of this title for the public housing agency for the operation of the public housing.” See Effective and Termination Dates of 1996 Amendments note below.
 
 Subsec. (b)(6). Pub. L. 104–330, §501(b)(1)(B), struck out at end “The term includes any Indian housing authority.”
 
@@ -568,7 +568,7 @@ Subsecs. (b)(6), (10), (11)(A), (c). Pub. L. 101–625, §572(2), substituted �
 
 1989—Subsec. (a)(2)(A). Pub. L. 101–235, §302(1), substituted “5-year period” for “3-year period”.
 
-Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation” for “3-year limitation” and inserted at end “The terms of all ceiling rents establishedprior to December 15, 1989, shall be extended for the 5-year period beginning on December 15, 1989.”
+Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation” for “3-year limitation” and inserted at end “The terms of all ceiling rents established prior to December 15, 1989, shall be extended for the 5-year period beginning on December 15, 1989.”
 
 1988—Subsec. (a). Pub. L. 100–242, §102(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a” for “A”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
@@ -718,7 +718,7 @@ Ceiling rents from balanced budget act, I.—An agency may utilize the authority
 
 &emsp;“(3)
 
-Transitional ceiling rents for balanced budget act, I.—An agency may utilize the authority with respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note), notwithstanding any other provision of law (including the expiration of the applicability of such section or the repeal of such section).”
+Transitional ceiling rents for balanced budget act, I.—An agency may utilize the authority with respect to ceiling rents under section 402(b)(2) of The Balanced Budget Downpayment Act, I \[Pub. L. 104–99\] (42 U.S.C. 1437a note), notwithstanding any other provision of law (including the expiration of theapplicability of such section or the repeal of such section).”
 
 #### Certain Payments Made to Victims of Nazi Persecution Disregarded in Determining Eligibility for and Amount of Need-Based Benefits and Services
 
@@ -800,7 +800,7 @@ Section 206(d) of Pub. L. 98–181 provided that:
 
 “(1) The following provisions of this paragraph apply to determinations of the rent to be paid by or the contribution required of a tenant occupying housing assisted under the authorities amended by this section \[amending this section\] or subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981 \[amending sections 1437 to 1437d, 1437f, 1437g, 1437i, 1437j, and 1437<i>l</i> of this title and sections 1701s and 1715z–1 of Title 12, Banks and Banking, and repealing provisions set out as notes under this section and section 1701s of Title 12\] (hereinafter referred to as ‘assisted housing’) on or before the effective date of regulations implementing this section:
 
-&emsp;“(A) Notwithstanding any other provision of this section or subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981, the Secretary of Housing and Urban Development (hereinafter referred to as the 'Secretary’) may provide for delayed applicability, or for staged implementation, of the procedures for determining rents or contributions, as appropriate, required by such provisions if the Secretary determines that immediate application of such procedures would be impracticable, would violate the terms of existing leases, or would result in extraordinary hardship for any class of tenants.
+&emsp;“(A) Notwithstanding any other provision of this section or subsections (a) through (h) of section 322 ofthe Housing and Community Development Amendments of 1981, the Secretary of Housing and Urban Development (hereinafter referred to as the 'Secretary’) may provide for delayed applicability, or for staged implementation, of the procedures for determining rents or contributions, as appropriate, required by such provisions if the Secretary determines that immediate application of such procedures would be impracticable, would violate the terms of existing leases, or would result in extraordinary hardship for any class of tenants.
 
 &emsp;“(B) The Secretary shall provide that the rent or contribution, as appropriate, required to be paid by a tenant shall not increase as a result of the amendments made by this section and subsections (a) through (h) of section 322 of the Housing and Community Development Amendments of 1981, and as a result of any other provision of Federal law or regulation, by more than 10 per centum during any twelve-month period, unless the increase above 10 per centum is attributable to increases in income which are unrelated to such amendments, law, or regulation.
 

@@ -80,7 +80,7 @@ Section 106 of Pub. L. 98–497 provided that: “With respect to any functions 
 
 #### Spending Authority
 
-Section 302 of Pub. L. 98–497 provided that: “Any new spending authority (within the meaning of section 401of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriations Acts.”
+Section 302 of Pub. L. 98–497 provided that: “Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as provided in appropriations Acts.”
 
 #### Definitions
 

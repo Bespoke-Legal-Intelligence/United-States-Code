@@ -14,7 +14,7 @@ Performance bond.—A performance bond with a surety satisfactory to the officer
 
 &emsp;(2)
 
-Payment bond.—A payment bond with a surety satisfactory to the officer for the protection of all persons supplying labor and material in carrying out the work provided for in the contract for the use of each person. The amount of the payment bond shall equal the total amount payable by the terms of the contract unless the officer awarding the contract determines, in a writing supported by specificfindings, that a payment bond in that amount is impractical, in which case the contracting officer shall set the amount of the payment bond. The amount of the payment bond shall not be less than the amount of the performance bond.
+Payment bond.—A payment bond with a surety satisfactory to the officer for the protection of all persons supplying labor and material in carrying out the work provided for in the contract for the use of each person. The amount of the payment bond shall equal the total amount payable by the terms of the contract unless the officer awarding the contract determines, in a writing supported by specific findings, that a payment bond in that amount is impractical, in which case the contracting officer shall set the amount of the payment bond. The amount of the payment bond shall not be less than the amount of the performance bond.
 
 (c)
 

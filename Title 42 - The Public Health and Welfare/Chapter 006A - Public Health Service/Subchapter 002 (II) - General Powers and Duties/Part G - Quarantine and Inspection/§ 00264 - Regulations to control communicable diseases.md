@@ -54,17 +54,31 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
-#### Ex. Ord. No. 12452. Revised List of Quarantinable Communicable Diseases
+#### Executive Order No. 12452
 
-Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, provided:
+Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of such diseases, was revoked by Ex. Ord. No. 13295, §5, Apr. 4, 2003, 68 F.R. 17255, set out below.
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 264(b) of Title 42 of the United States Code, it is hereby ordered as follows:
+#### Ex. Ord. No. 13295. Revised List of Quarantinable Communicable Diseases
 
-Section 1. Based upon the recommendation of the National Advisory Health Council and the Assistant Secretary for Health of the Department of Health and Human Services, and for the purposes of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of communicable diseases, the following named communicable diseases are hereby specified pursuant to Section 264(b) of Title 42 of the United States Code: Cholera or suspected Cholera, Diphtheria, infectious Tuberculosis, Plague, suspected Smallpox, Yellow Fever, and suspected Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Congo-Crimean, and others not yet isolated or named).
+Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, provided:
 
-Sec. 2. Executive Order No. 9708 of March 26, 1946, Executive Order No. 10532 of May 28, 1954, and Executive Order No. 11070 of December 12, 1962, are hereby revoked.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
 
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Section 1. Based upon the recommendation of the Secretary of Health and Human Services (the “Secretary”), in consultation with the Surgeon General, and for the purpose of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of suspected communicable diseases, the following communicable diseases are hereby specified pursuant to section 361(b) of the Public Health Service Act:
+
+(a) Cholera; Diphtheria; infectious Tuberculosis; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
+
+(b) Severe Acute Respiratory Syndrome (SARS), which is a disease associated with fever and signs and symptoms of pneumonia or other respiratory illness, is transmitted from person to person predominantly by the aerosolized or droplet route, and, if spread in the population, would have severe public health consequences.
+
+Sec. 2. The Secretary, in the Secretary's discretion, shall determine whether a particular condition constitutes a communicable disease of the type specified in section 1 of this order.
+
+Sec. 3. The functions of the President under sections 362 and 364(a) of the Public Health Service Act (42 U.S.C. 265 and 267(a)) are assigned to the Secretary.
+
+Sec. 4. This order is not intended to, and does not, create any right or benefit enforceable at law or equity by any party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
+
+Sec. 5. Executive Order 12452 of December 22, 1983, is hereby revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

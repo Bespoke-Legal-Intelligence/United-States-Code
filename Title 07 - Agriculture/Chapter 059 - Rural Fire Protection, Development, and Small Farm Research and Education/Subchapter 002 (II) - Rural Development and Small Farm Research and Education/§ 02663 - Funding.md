@@ -14,7 +14,7 @@ Such sums as are appropriated to carry out the provisions of section 2662(a) and
 
 &emsp;(3) 20 per centum shall be allocated equally among the States; and
 
-&emsp;(4) 66 per centum shall be allocated to each State as follows: One-half in an amount that bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States, as determined by the last preceding decennial census current at that time; and one-half in an amount that bears the same ratio to the total amount to be allotted as the farmpopulation of the State bears to the total farm population of all the States, as determined by the last preceding decennial census current at that time:
+&emsp;(4) 66 per centum shall be allocated to each State as follows: One-half in an amount that bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States, as determined by the last preceding decennial census current at that time; and one-half in an amount that bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States, as determined by the last preceding decennial census current at that time:
 
 > <i>Provided</i>, That, beginning with the fiscal year ending September 30, 1982, no State may receive more than $75,000 until all States have been allotted a minimum of $75,000.
 
@@ -38,7 +38,7 @@ Funds shall be available for use by each State in the fiscal year for which appr
 
 Funds provided to each State under this subchapter may be used to finance programs through or at private and publicly supported colleges and universities other than the institutions responsible for administering the programs, as provided under section 2664 of this title.
 
-(Pub. L. 92–419, title V, §503, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1324; amended Pub. L. 99–198, title XIV, §1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, §403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, §792(b)(2), Apr. 4, 1996, 110 Stat. 1152.)
+(Pub. L. 92–419, title V, §503, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat.1324; amended Pub. L. 99–198, title XIV, §1440(b), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 101–624, title XXIII, §§2389(c)(2), 2390(b)(2), Nov. 28, 1990, 104 Stat. 4055, 4056; Pub. L. 102–237, title IV, §403(b), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VII, §792(b)(2), Apr. 4, 1996, 110 Stat. 1152.)
 
 #### References in Text
 

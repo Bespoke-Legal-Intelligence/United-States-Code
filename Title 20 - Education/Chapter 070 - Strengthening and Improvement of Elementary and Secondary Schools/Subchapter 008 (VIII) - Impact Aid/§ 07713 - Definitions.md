@@ -80,7 +80,7 @@ For purposes of this subchapter:
 
 #### (E) Property with respect to which State or local tax revenues may not be expended, allocated, or available for free public education
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, “Federal property” does not include any property on which children reside that is otherwise described in this paragraph if—
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, “Federal property” does notinclude any property on which children reside that is otherwise described in this paragraph if—
 
 &emsp;&emsp;&emsp;(i) no tax revenues of the State or of any political subdivision of the State may be expended for the free public education of children who reside on that Federal property; or
 

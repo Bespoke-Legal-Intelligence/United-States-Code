@@ -4,7 +4,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(1) raw garbage is one of the primary media through which numerous infectious or communicable diseases of swine are transmitted;
 
-&emsp;(2) if certain exotic animal diseases, such as foot-and-mouth disease, African swine fever,hog cholera, and swine vesicular diseases, gain entrance into the United States, such diseases may be spread through the medium of raw or improperly treated garbage which is fed to swine;
+&emsp;(2) if certain exotic animal diseases, such as foot-and-mouth disease, African swine fever, hog cholera, and swine vesicular diseases, gain entrance into the United States, such diseases may be spread through the medium of raw or improperly treated garbage which is fed to swine;
 
 &emsp;(3) African swine fever, which is potentially the most dangerous and destructive of all communicable swine diseases, has been confirmed in several countries of the Western Hemisphere, including the Dominican Republic, Haiti, and Cuba;
 

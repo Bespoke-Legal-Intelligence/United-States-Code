@@ -38,7 +38,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 &emsp;&emsp;(A) be made for a term not exceeding 30 years;
 
-&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under section 404 <sup>2</sup> and service charges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, which may not exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
+&emsp;&emsp;(B) bear interest (exclusive of the guarantee fee under section 404 <sup>2</sup> and servicecharges, if any) at a rate agreed upon by the borrower and the lender and determined by the Secretary to be reasonable, which may not exceed the rate generally charged in the area (as determined by the Secretary) for home mortgage loans not guaranteed or insured by any agency or instrumentality of the Federal Government;
 
 &emsp;&emsp;(C) involve a principal obligation not exceeding—
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate shall provide written notice of the default to the Secretary. Upon providing such notice, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
+&emsp;&emsp;In the event of default by the borrower on a loan guaranteed under this section, theholder of the guarantee certificate shall provide written notice of the default to the Secretary. Upon providing such notice, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
 
 #### (i) Foreclosure
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of theguarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
@@ -166,7 +166,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Limitations on costs of guarantees
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscalyear only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
 
 #### (C) Limitation on outstanding aggregate principal amount
 
@@ -182,7 +182,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (j) Requirements for standard housing
 
-The Secretary shall, by regulation, establish housing safety and quality standards for useunder this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
+The Secretary shall, by regulation, establish housing safety and quality standards for use under this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
 
 &emsp;(1) be decent, safe, sanitary, and modest in size and design;
 
@@ -268,7 +268,7 @@ Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indi
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat.2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There is established in the Department of Homeland Security a board to be known as the “Transportation Security Oversight Board”.
+In General.—There is established in the Department of Homeland Security a board to beknown as the “Transportation Security Oversight Board”.
 
 (b)
 
@@ -74,5 +74,5 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 114 of this title.
+This section is referred to in sections 114, 46111 of this title.
 

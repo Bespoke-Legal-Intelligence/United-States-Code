@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) bywhatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade; or
 
-&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted tofire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
+&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
 (17)(A) The term “ammunition” means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
 
@@ -72,7 +72,7 @@
 
 &emsp;(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
 
-(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
+(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any otherprojectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
 
 (18) The term “Attorney General” means the Attorney General of the United States <sup>1</sup>
 
@@ -224,7 +224,7 @@
 
 &emsp;(B) a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
 
-&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can beused to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
 
 (35) The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
@@ -378,7 +378,7 @@ Section 907 of title IV of Pub. L. 90–351 provided that: “The amendments mad
 
 #### Short Title of 1994 Amendment
 
-Section 110101 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Public Safety and Recreational Firearms Use Protection Act’.”
+Section 110101 of title XI of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§110101–110106) of title XI of Pub. L. 103–322, amending this section and sections 922 to 924 of this title and enacting provisions setout as notes under this section\] may be cited as the ‘Public Safety and Recreational Firearms Use Protection Act’.”
 
 \[Section 110101 of Pub. L. 103–322, set out above, repealed effective 10 years after Sept. 13, 1994, see Effective and Termination Dates of 1994 Amendment note above.\]
 
@@ -498,7 +498,7 @@ Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2
 
 #### Definition of “Handgun”
 
-Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. Theterm also includes any combination of parts from which a handgun can be assembled.”
+Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
 
 #### Section Referred to in Other Sections
 

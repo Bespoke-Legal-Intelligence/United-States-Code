@@ -14,7 +14,7 @@ Provision of R.S. §1816 relating to purchase of furniture or carpets for House 
 
 #### Amendments
 
-1951—Act Oct. 31, 1951, struck out requirement that such improvements, etc., should be paid for by Secretary of the Interior out of appropriations for Capitol extension, and from no other appropriation.
+<b>1951</b>—Act Oct. 31, 1951, struck out requirement that such improvements, etc., should be paid for by Secretary of the Interior out of appropriations for Capitol extension, and from no other appropriation.
 
 #### Change of Name
 
@@ -30,7 +30,7 @@ Pub. L. 101–520, title III, §306, Nov. 5, 1990, 104 Stat. 2277, provided that
 
 &emsp;“(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under the procurement conducted by the Administrator of General Services known as ‘FTS2000’.
 
-“(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
+“(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect ofthe Capitol, the Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
 
 Similar provisions were contained in the following prior appropriations acts:
 

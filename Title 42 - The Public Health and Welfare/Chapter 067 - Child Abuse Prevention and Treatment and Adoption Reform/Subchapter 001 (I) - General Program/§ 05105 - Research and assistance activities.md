@@ -4,15 +4,25 @@
 
 #### (1) Topics
 
-&emsp;The Secretary shall, in consultation with other Federal agencies and recognized experts in the field, carry out a continuing interdisciplinary program of research that is designed to provide information needed to better protect children from abuse or neglect and to improve the well-being of abused or neglected children, with at least a portion of such research being field initiated. Such research program may focus on—
+&emsp;The Secretary shall, in consultation with other Federal agencies and recognized experts in the field, carry out a continuing interdisciplinary program of research, including longitudinal research, that is designed to provide information needed to better protect children from abuse or neglect and to improve the well-being of abused or neglected children, with at least a portion of such research being field initiated. Such research program may focus on—
 
 &emsp;&emsp;(A) the nature and scope of child abuse and neglect;
 
-&emsp;&emsp;(B) causes, prevention, assessment, identification, treatment, cultural and socio-economic distinctions, and the consequences of child abuse and neglect;
+&emsp;&emsp;(B) causes, prevention, assessment, identification, treatment, cultural and socio-economic distinctions, and the consequences of child abuse and neglect, including the effects of abuse and neglect on a child's development and the identification of successful early intervention services or other services that are needed;
 
-&emsp;&emsp;(C) appropriate, effective and culturally sensitive investigative, administrative, and judicial procedures with respect to cases of child abuse; and
+&emsp;&emsp;(C) appropriate, effective and culturally sensitive investigative, administrative, and judicial systems, including multidisciplinary, coordinated decisionmaking procedures with respect to cases of child abuse;
 
-&emsp;&emsp;(D) the national incidence of child abuse and neglect, including—
+&emsp;&emsp;(D) the evaluation and dissemination of best practices consistent with the goals of achieving improvements in the child protective services systems of the States in accordance with paragraphs (1) through (12) of section 5106a(a) of this title;
+
+&emsp;&emsp;(E) effective approaches to interagency collaboration between the child protection system and the juvenile justice system that improve the delivery of services and treatment, including methods for continuity of treatment plan and services as children transition between systems;
+
+&emsp;&emsp;(F) an evaluation of the redundancies and gaps in the services in the field of child abuse and neglect prevention in order to make better use of resources;
+
+&emsp;&emsp;(G) the nature, scope, and practice of voluntary relinquishment for foster care or State guardianship of low income children who need health services, including mental health services;
+
+&emsp;&emsp;(H) the information on the national incidence of child abuse and neglect specified in clauses (i) through (xi) of subparagraph (H); <sup>1</sup> and
+
+&emsp;&emsp;(I) the national incidence of child abuse and neglect, including—
 
 &emsp;&emsp;&emsp;(i) the extent to which incidents of child abuse are increasing or decreasing in number and severity;
 
@@ -28,25 +38,31 @@
 
 &emsp;&emsp;&emsp;(vii) the extent to which unsubstantiated reports return as more serious cases of child abuse or neglect;
 
-&emsp;&emsp;&emsp;(viii) the incidence and prevalence of physical, sexual, and emotional abuse and physical and emotional neglect in substitute care; and
+&emsp;&emsp;&emsp;(viii) the incidence and prevalence of physical, sexual, and emotional abuse and physical and emotional neglect in substitute care;
 
-&emsp;&emsp;&emsp;(ix) the incidence and outcomes of abuse allegations reported within the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
+&emsp;&emsp;&emsp;(ix) the incidence and prevalence of child maltreatment by a wide array of demographic characteristics such as age, sex, race, family structure, household relationship (including the living arrangement of the resident parent and family size), school enrollment and education attainment, disability, grandparents as caregivers, labor force status, work status in previous year, and income in previous year; and
 
-#### (2) Priorities
+&emsp;&emsp;&emsp;(x) the incidence and outcomes of abuse allegations reported within the context of divorce, custody, or other family court proceedings, and the interaction between this venue and the child protective services system.
+
+#### (2) Research
+
+&emsp;The Secretary shall conduct research on the national incidence of child abuse and neglect, including the information on the national incidence on child abuse and neglect specified in subparagraphs (i) through (ix) of paragraph (1)(I).
+
+#### (3) Report
+
+&emsp;Not later than 4 years after June 25, 2003, the Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that contains the results of the research conducted under paragraph (2).
+
+#### (4) Priorities
 
 &emsp;(A) The Secretary shall establish research priorities for making grants or contracts for purposes of carrying out paragraph (1).
 
-&emsp;(B) In establishing research priorities as required by subparagraph (A), the Secretary shall—
-
-&emsp;&emsp;(i) publish proposed priorities in the Federal Register for public comment; and
-
-&emsp;&emsp;(ii) allow not less than 60 days for public comment on such proposed priorities.
+&emsp;(B) Not later than 2 years after June 25, 2003, and every 2 years thereafter, the Secretary shall provide an opportunity for public comment concerning the priorities proposed undersubparagraph (A) and maintain an official record of such public comment.
 
 #### (b) Provision of technical assistance
 
 #### (1) In general
 
-&emsp;The Secretary shall provide technical assistance to State and local public and nonprofit private agencies and organizations, including disability organizations and persons who work with children with disabilities, to assist such agencies and organizations in planning, improving, developing, and carrying out programs and activities relating to the prevention, assessment, identification, and treatment of child abuse and neglect.
+&emsp;The Secretary shall provide technical assistance to State and local public and private agencies and community-based organizations, including disability organizations and persons who work with children with disabilities, to assist such agencies and organizations in planning, improving, developing, and carrying out programs and activities, including replicating successful program models, relating to the prevention, assessment, identification, and treatment of child abuse and neglect.
 
 #### (2) Evaluation
 
@@ -54,9 +70,11 @@
 
 &emsp;&emsp;(A) various methods and procedures for the investigation, assessment, and prosecution of child physical and sexual abuse cases;
 
-&emsp;&emsp;(B) ways to mitigate psychological trauma to the child victim; and
+&emsp;&emsp;(B) ways to mitigate psychological trauma to the child victim;
 
-&emsp;&emsp;(C) effective programs carried out by the States under this subchapter and subchapter III of this chapter.
+&emsp;&emsp;(C) effective programs carried out by the States under this subchapter and subchapter III of this chapter; and
+
+&emsp;&emsp;(D) effective approaches being utilized to link child protective service agencies with health care, mental health care, and developmental services to improve forensic diagnosis and health evaluations, and barriers and shortages to such linkages.
 
 #### (3) Dissemination
 
@@ -84,7 +102,7 @@
 
 #### (1) Establishment of peer review process
 
-&emsp;(A) The Secretary shall, in consultation with experts in the field and other federal <sup>1</sup> agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for grants under this section and determining the relative merits of the projects for which such assistance is requested. The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.
+&emsp;(A) The Secretary shall, in consultation with experts in the field and other federal <sup>2</sup> agencies, establish a formal, rigorous, and meritorious peer review process for purposes of evaluating and reviewing applications for grants under this section and determining the relative merits of the projects for which such assistance is requested. The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.
 
 &emsp;(B) In establishing the process required by subparagraph (A), the Secretary shall appoint to the peer review panels only members who are experts in the field of child abuse and neglect or related disciplines, with appropriate expertise in the application to be reviewed, and who are not individuals who are officers or employees of the Administration on Children and Families. The panels shall meet as often as is necessary to facilitate the expeditious review of applications for grants and contracts under this section, but may not meet less than once a year. The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.
 
@@ -106,13 +124,69 @@
 
 &emsp;(B) In the instance in which the Secretary approves an application for a program without having approved all applications ranked above such application (as determined under paragraph (2)(B)), the Secretary shall append to the approved application a detailed explanation of the reasons relied on for approving the application and for failing to approve each pending application that is superior in merit, as indicated on the list under paragraph (2)(B).
 
-(Pub. L. 93–247, title I, §104, formerly §6, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §105, Apr. 24, 1978, 92 Stat. 207; Pub. L. 98–457, title I, §105, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 99–401, title I, §104, Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 106; renumbered title I, §105, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(3), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §§112, 141(5), May 28, 1992, 106 Stat. 190, 200; renumbered §104 and amended Pub. L. 104–235, title I, §§105, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3067, 3079.)
+#### (e) Demonstration programs and projects
+
+The Secretary may award grants to, and enter into contracts with, States or public or privateagencies or organizations (or combinations of such agencies or organizations) for time-limited, demonstration projects for the following:
+
+#### (1) Promotion of safe, family-friendly physical environments for visitation and exchange
+
+&emsp;The Secretary may award grants under this subsection to entities to assist such entities in establishing and operating safe, family-friendly physical environments—
+
+&emsp;&emsp;(A) for court-ordered, supervised visitation between children and abusing parents; and
+
+&emsp;&emsp;(B) to safely facilitate the exchange of children for visits with noncustodial parents in cases of domestic violence.
+
+#### (2) Education identification, prevention, and treatment
+
+&emsp;The Secretary may award grants under this subsection to entities for projects that provide educational identification, prevention, and treatment services in cooperation with preschool and elementary and secondary schools.
+
+#### (3) Risk and safety assessment tools
+
+&emsp;The Secretary may award grants under this subsection to entities for projects that provide for the development of research-based strategies for risk and safety assessments relating to child abuse and neglect.
+
+#### (4) Training
+
+&emsp;The Secretary may award grants under this subsection to entities for projects that involve research-based strategies for innovative training for mandated child abuse and neglect reporters.
+
+(Pub. L. 93–247, title I, §104, formerly §6, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §105, Apr. 24, 1978, 92 Stat. 207; Pub. L. 98–457, title I, §105, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 99–401, title I, §104, Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 106; renumbered title I, §105, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(3), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §§112, 141(5), May 28, 1992, 106 Stat. 190, 200; renumbered §104 and amended Pub. L. 104–235, title I, §§105, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3067, 3079; Pub. L. 108–36, title I, §112, June 25, 2003, 117 Stat. 803.)
 
 #### Prior Provisions
 
 A prior section 104 of Pub. L. 93–247 was renumbered section 103 and is classified to section 5104 of this title.
 
 #### Amendments
+
+2003—Subsec. (a)(1). Pub. L. 108–36, §112(a)(1)(A), inserted “, including longitudinal research,” after “interdisciplinary program of research” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 108–36, §112(a)(1)(B), inserted before semicolon “, including the effects of abuse and neglect on a child's development and the identification of successful early intervention services or other services that are needed”.
+
+Subsec. (a)(1)(C). Pub. L. 108–36, §112(a)(1)(C), substituted “judicial systems, including multidisciplinary, coordinated decisionmaking procedures” for “judicial procedures” and struck out “and” at end.
+
+Subsec. (a)(1)(D). Pub. L. 108–36, §112(a)(1)(F), added subpar. (D). Former subpar. (D) redesignated (I).
+
+Subsec. (a)(1)(D)(ix), (x). Pub. L. 108–36, §112(a)(1)(D), added cl. (ix) and redesignated former cl. (ix) as (x).
+
+Subsec. (a)(1)(E) to (H). Pub. L. 108–36, §112(a)(1)(F), added subpars. (E) to (H).
+
+Subsec. (a)(1)(I). Pub. L. 108–36, §112(a)(1)(E), redesignated subpar. (D) as (I).
+
+Subsec. (a)(2). Pub. L. 108–36, §112(a)(4), added par. (2). Former par. (2) redesignated (4).
+
+Subsec. (a)(2)(B). Pub. L. 108–36, §112(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “In establishing research priorities as required by subparagraph (A), the Secretary shall—
+
+&emsp;“(i) publish proposed priorities in the Federal Register for public comment; and
+
+&emsp;“(ii) allow not less than 60 days for public comment on such proposed priorities.”
+
+Subsec. (a)(3). Pub. L. 108–36, §112(a)(4), added par. (3).
+
+Subsec. (a)(4). Pub. L. 108–36, §112(a)(3), redesignated par. (2) as (4).
+
+Subsec. (b)(1). Pub. L. 108–36, §112(b)(1), substituted “private agencies and community-based” for “nonprofit private agencies and” and inserted “, including replicating successful program models,” after “programs and activities”.
+
+Subsec. (b)(2)(D). Pub. L. 108–36, §112(b)(2), added subpar. (D).
+
+Subsec. (e). Pub. L. 108–36, §112(c), added subsec. (e).
 
 1996—Pub. L. 104–235, §105(f), struck out “of the National Center on Child Abuse and Neglect” after “activities” in section catchline.
 
@@ -136,7 +210,7 @@ Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1
 
 Subsec. (c). Pub. L. 104–235, §105(d), redesignated subsec. (d) as (c) and in par. (2) struck out at end “The Secretary shall review each such grant at least annually, utilizing peer review mechanisms to assure the quality and progress of research conducted under such grant.” Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 104–235, §105(e), redesignated subsec. (e) as (d), in par. (1)(A) substituted “, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious” for “establish a formal”, struck out “and contracts” after“for grants”, and inserted at end “The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.”, in par. (1)(B) substituted “Administration on Children and Families” for “Office of Human Development” and inserted at end “The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.”, in par. (2) struck out “, contract, or other financial assistance” after “grant” in introductory provisions and inserted “The Secretary shall award grants under this section on the basis of competitive review.” as concluding provisions, and in par. (3)(B) substituted “paragraph (2)(B)” for “subsection (e)(2)(B) of this section” in two places. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 104–235, §105(e), redesignated subsec. (e) as (d), in par. (1)(A) substituted “, in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious” for “establish a formal”, struck out “and contracts” after “for grants”, and inserted at end “The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.”, in par. (1)(B) substituted “Administration on Children and Families” for “Office of Human Development” and inserted at end “The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.”, in par. (2) struck out “, contract, or other financial assistance” after “grant” in introductory provisions and inserted “The Secretary shall award grants under this section on the basis of competitive review.” as concluding provisions, and in par. (3)(B) substituted “paragraph (2)(B)” for “subsection (e)(2)(B) of this section” in two places. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 104–235, §105(e)(1), redesignated subsec. (e) as (d).
 
@@ -192,11 +266,17 @@ Section 103 of Pub. L. 100–294 directed Director of National Center on Child A
 
 #### Study of Guardian-Ad-Litem
 
-Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use of guardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information anddata, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
+Section 104 of Pub. L. 100–294 directed Director of National Center on Child Abuse and Neglect to conduct a study of how individual legal representation of children in cases of child abuse or neglect has been provided in each State, and effectiveness of legal representation of children in cases of abuse or neglect through use ofguardian-ad-litem and court appointed special advocates, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to improve legal representation of children in cases of abuse or neglect.
 
 #### High Risk Study
 
 Section 105 of Pub. L. 100–294 directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5106h of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should refer to clauses (i) through (x) of subparagraph (I).</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

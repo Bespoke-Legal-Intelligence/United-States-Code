@@ -8,7 +8,7 @@ The Secretary, subject to regulations prescribed by the Secretary, is authorized
 
 #### (2) Damages and costs
 
-&emsp;All damages and costs recovered against any officer or employee of the United States in any suit brought against him by reason ofanything done in the due performance of his official duty under this title.
+&emsp;All damages and costs recovered against any officer or employee of the United States in any suit brought against him by reason of anything done in the due performance of his official duty under this title.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 877; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

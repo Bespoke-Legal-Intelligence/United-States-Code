@@ -8,7 +8,7 @@ A Federal land bank or a merged bank having a Federal land bank as one of its co
 
 &emsp;(2) the Board of Directors of both institutions; and
 
-&emsp;(3) a majority of the stockholders of the bank and of the association, in accordancewith the voting provisions of sections 2279a and 2279c–1 of this title, respectively.
+&emsp;(3) a majority of the stockholders of the bank and of the association, in accordance with the voting provisions of sections 2279a and 2279c–1 of this title, respectively.
 
 #### (b) Direct loans and financial assistance
 

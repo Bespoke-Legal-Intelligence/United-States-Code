@@ -20,7 +20,7 @@ For purposes of this section:
 
 &emsp;(4)
 
-Mortgage.—The term “mortgage” means a first mortgage or first lien on real estate, infee simple, on all stock allocated to a dwelling in a residential cooperative housing corporation, or on a leasehold—
+Mortgage.—The term “mortgage” means a first mortgage or first lien on real estate, in fee simple, on all stock allocated to a dwelling in a residential cooperative housing corporation, or on a leasehold—
 
 &emsp;&emsp;(A) under a lease for not less than 99 years that is renewable; or
 
@@ -96,7 +96,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f) of this section;
 
-&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies withrespect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
+&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
@@ -270,7 +270,7 @@ Subsec. (g). Pub. L. 104–120, §6(a), (b), substituted “2000” for “1996�
 
 Pub. L. 104–99 substituted “1996” for “1995” and “30,000” for “25,000”.
 
-1992—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting “for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located” for “for a 1-family residence”.
+1992—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting“for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located” for “for a 1-family residence”.
 
 Subsec. (j). Pub. L. 102–550, §520, inserted at end “Section 1647(b) of title 15) and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.”
 

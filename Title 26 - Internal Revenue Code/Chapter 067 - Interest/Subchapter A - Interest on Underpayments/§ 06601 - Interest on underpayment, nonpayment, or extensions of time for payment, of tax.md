@@ -44,7 +44,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (2) Foreign tax credit carrybacks
 
-&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paidor accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;If any credit allowed for any taxable year is increased by reason of a carryback of tax paid or accrued to foreign countries or possessions of the United States, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which such taxes were in fact paid or accrued, or, with respect to any portion of such credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (3) Certain credit carrybacks
 
@@ -146,7 +146,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### Adjustment of Dollar Amount Used in Determining “2-Percent Portion”
 
-<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2003, see section 3.31 of Revenue Procedure 2002–70, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2004, see section 3.32 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -242,7 +242,7 @@ Subsecs. (j), (k). Pub. L. 94–455, §2004(b), added subsec. (j) and redesignat
 
 1975—Subsec. (a). Pub. L. 93–625, §7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
+Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to\(h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
 
 1974—Subsec. (d). Pub. L. 93–406 inserted reference to chapter 43 in heading, and substituted “certain excise” for “chapter 42” in text.
 
@@ -250,7 +250,7 @@ Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) 
 
 1969—Subsec. (d). Pub. L. 91–172, §101(j)(49), inserted reference to chapter 42 both in subsec. heading and in text.
 
-Subsec. (e)(1). Pub. L. 91–172, §512(e)(3)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or netcapital loss” for “net operating loss” wherever it appears in text.
+Subsec. (e)(1). Pub. L. 91–172, §512(e)(3)(A), (B), substituted “loss or capital loss carryback” for “loss carryback” in heading, and “net operating loss or net capital loss” for “net operating loss” wherever it appears in text.
 
 Subsec. (e)(2). Pub. L. 91–172, §512(e)(3)(C), substituted “loss carryback or a capital loss carryback” for “loss carryback”.
 
@@ -334,7 +334,7 @@ Effective date.—The amendment made by subsection (a) \[amending this section\]
 
 “(2)
 
-Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
+Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at anytime before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
 
 #### Effective Date of 1984 Amendment
 
@@ -426,7 +426,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Administration of Penalties and Interest
 
-Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxationand the Secretary of the Treasury shall each conduct a separate study—
+Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided that: “The Joint Committee on Taxation and the Secretary of the Treasury shall each conduct a separate study—
 
 &emsp;“(1) reviewing the administration and implementation by the Internal Revenue Service of the interest and penalty provisions of the Internal Revenue Code of 1986 (including the penalty reform provisions of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, see Tables for classification\]); and
 

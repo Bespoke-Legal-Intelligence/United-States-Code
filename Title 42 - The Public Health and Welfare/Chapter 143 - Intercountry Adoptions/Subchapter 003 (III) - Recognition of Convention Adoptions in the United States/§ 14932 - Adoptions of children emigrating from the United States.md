@@ -10,7 +10,7 @@ In the case of a Convention adoption involving the emigration of a child residin
 
 &emsp;&emsp;(B) the accredited agency or approved person—
 
-&emsp;&emsp;&emsp;(i) has made reasonable efforts to actively recruit and make a diligent searchfor prospective adoptive parents to adopt the child in the United States; and
+&emsp;&emsp;&emsp;(i) has made reasonable efforts to actively recruit and make a diligent search for prospective adoptive parents to adopt the child in the United States; and
 
 &emsp;&emsp;&emsp;(ii) despite such efforts, has not been able to place the child for adoption in the United States in a timely manner; and
 
@@ -34,7 +34,7 @@ In the case of a Convention adoption involving the emigration of a child residin
 
 &emsp;&emsp;(B) the information and documents described in paragraph (2), to the extent required by the United States central authority; and
 
-&emsp;&emsp;(C) any other information concerning the case required by the United States central authority to perform the functions specified in subsection (c) of this section or otherwise to carry out the duties of the United States central authority under the Convention.
+&emsp;&emsp;(C) any other information concerning the case required by the United States central authority to perform the functions specifiedin subsection (c) of this section or otherwise to carry out the duties of the United States central authority under the Convention.
 
 #### (b) Conditions on State court orders
 

@@ -32,7 +32,7 @@
 
 &emsp;(iv) prevails in obtaining forfeiture with respect to one or more of the other claims.
 
-(D) If the court enters judgment in part for the claimant and in part for the Government, the court shall reduce the award of costs and attorney fees accordingly.
+(D) If the court enters judgment in part for the claimant and in part for the Government, thecourt shall reduce the award of costs and attorney fees accordingly.
 
 (June 25, 1948, ch. 646, 62 Stat. 975; Pub. L. 106–185, §4(a), Apr. 25, 2000, 114 Stat. 211.)
 

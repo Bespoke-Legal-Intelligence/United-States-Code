@@ -106,7 +106,7 @@ Virgin Islands, British
 
 &emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership or association which is 50 per centum or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
-&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and he reports those assurances to the Congress;
+&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverseeffect, and he reports those assurances to the Congress;
 
 &emsp;(5) if a government-owned entity in such country engages in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
 
@@ -138,7 +138,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(9) the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
 
-&emsp;(10) the extent to which such country prohibits its nationals from engaging in thebroadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
+&emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
 &emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
@@ -216,7 +216,7 @@ Subsec. (e)(1). Pub. L. 106–200, § 211(b)(1), designated existing provisions 
 
 Subsec. (e)(3). Pub. L. 106–200, §211(b)(2), added par. (3).
 
-Subsec. (f). Pub. L. 106–200, §211(c)(1), inserted heading and amended text generally. Prior to amendment,text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
+Subsec. (f). Pub. L. 106–200, §211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
 
 1996—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 
@@ -245,6 +245,10 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1214(q)(1) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+
+#### Delegation of Functions
+
+Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
 
 #### Caribbean Basin Initiative
 

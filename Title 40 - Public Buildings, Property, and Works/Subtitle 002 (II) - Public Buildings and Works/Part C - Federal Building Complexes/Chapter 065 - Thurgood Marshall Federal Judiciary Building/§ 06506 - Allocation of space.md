@@ -6,11 +6,11 @@ Priority.—
 
 &emsp;(1)
 
-Judicial branch.—Subject to this section, the Architect of the Capitol shall make available to the judicial branch of the Federal Government all space in the Thurgood Marshall Federal Judiciary Building and other improvements constructed under this chapter. The space shall be made available on a reimbursable basis and substantially in accordance with the report referred to in section 3(b)(1) of the Judiciary Office Building Development Act (Public Law 100–480, 102 Stat. 2330).
+Judicial branch.—Subject to this section, the Architect of the Capitol shall makeavailable to the judicial branch of the Federal Government all space in the Thurgood Marshall Federal Judiciary Building and other improvements constructed under this chapter. The space shall be made available on a reimbursable basis and substantially in accordance with the report referred to in section 3(b)(1) of the Judiciary Office Building Development Act (Public Law 100–480, 102 Stat. 2330).
 
 &emsp;(2)
 
-Other federal governmental entities.—The Architect may make available to federal governmental entities which are notpart of the judicial branch and which are not staff of Members of Congress or congressional committees any space in the Building and other improvements that the Chief Justice decides is not needed by the judicial branch. The space shall be made available on a reimbursable basis.
+Other federal governmental entities.—The Architect may make available to federal governmental entities which are not part of the judicial branch and which are not staff of Members of Congress or congressional committees any space in the Building and other improvements that the Chief Justice decides is not needed by the judicial branch. The space shall be made available on a reimbursable basis.
 
 &emsp;(3)
 
@@ -140,7 +140,7 @@ In subsection (f), the reference to “this subsection” is translated as “th
 
 #### References in Text
 
-Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in subsec. (a)(1), is section3(b)(1) of Pub. L. 100–480, Oct. 7, 1988, 102 Stat. 2330, which was classified to section 1202(b)(1) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
+Section 3(b)(1) of the Judiciary Office Building Development Act, referred to in subsec. (a)(1), is section 3(b)(1) of Pub. L. 100–480, Oct. 7, 1988, 102 Stat. 2330, which was classified to section 1202(b)(1) of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Section Referred to in Other Sections
 

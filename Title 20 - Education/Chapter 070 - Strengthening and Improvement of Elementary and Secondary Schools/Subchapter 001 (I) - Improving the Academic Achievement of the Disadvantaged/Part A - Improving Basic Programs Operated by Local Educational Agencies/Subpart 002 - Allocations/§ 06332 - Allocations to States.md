@@ -6,7 +6,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 &emsp;(1) an amount equal to the amount made available to carry out section 6333 of this title for fiscal year 2001 shall be allocated in accordance with section 6333 of this title;
 
-&emsp;(2) an amount equal to the amount made available to carry out section 6334 of this titlefor fiscal year 2001 shall be allocated in accordance with section 6334 of this title; and
+&emsp;(2) an amount equal to the amount made available to carry out section 6334 of this title for fiscal year 2001 shall be allocated in accordance with section 6334 of this title; and
 
 &emsp;(3) an amount equal to 100 percent of the amount, if any, by which the amount made available to carry out sections 6333, 6334, and 6335 of this title for the current fiscal year for which the determination is made exceeds the amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be allocated in accordance with section 6335 of this title.
 
@@ -42,7 +42,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 #### (4) Population data
 
-&emsp;For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs (1) and (2) to counties and, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
+&emsp;For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs\(1) and (2) to counties and, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
 
 #### (d) Ratable reductions
 

@@ -8,7 +8,7 @@ The Corporation is hereby authorized to do the following:
 
 &emsp;(A) inability to convert into United States dollars other currencies, or credits in such currencies, received as earnings or profits from the approved project, as repayment or return of the investment therein, in whole or in part, or as compensation for the sale or disposition of all or any part thereof;
 
-&emsp;(B) loss of investment, in whole or in part, in the approved project due to expropriation or confiscation by action of a foreign government;
+&emsp;(B) loss of investment, in whole or in part, in the approved project due to expropriation or confiscation by action of a foreign government or any political subdivision thereof;
 
 &emsp;(C) loss due to war, revolution, insurrection, or civil strife; and
 
@@ -88,7 +88,17 @@ To administer and manage special projects and programs, including programs of fi
 
 &emsp;The Corporation shall consult annually with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on the implementation of the pilot equity finance program established under this subsection.
 
-(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112.)
+#### (h) Local currency guaranties for eligible investors
+
+To issue to—
+
+&emsp;(1) eligible investors, or
+
+&emsp;(2) local financial institutions, guaranties,
+
+> denominated in currencies other than United States dollars, of loans and other investments made to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
+
+(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950.)
 
 #### References in Text
 
@@ -104,9 +114,13 @@ In subsec. (c), “section 1306 of title 31” substituted for “section 1415 o
 
 #### Amendments
 
+2003—Subsec. (a)(1)(B). Pub. L. 108–158, §4(a), inserted “or any political subdivision thereof” after “government”.
+
+Subsec. (h). Pub. L. 108–158, §5(a), added subsec. (h).
+
 1999—Subsec. (g). Pub. L. 106–31, §6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.”
 
-Subsec. (g)(2). Pub. L. 106–31, §6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “section 2702 of title 19”.
+Subsec. (g)(2). Pub. L. 106–31, §6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”,and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “section 2702 of title 19”.
 
 Subsec. (g)(5). Pub. L. 106–31, §6001(3), added par. (5).
 
@@ -174,7 +188,7 @@ Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112, provided that t
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget. For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
 

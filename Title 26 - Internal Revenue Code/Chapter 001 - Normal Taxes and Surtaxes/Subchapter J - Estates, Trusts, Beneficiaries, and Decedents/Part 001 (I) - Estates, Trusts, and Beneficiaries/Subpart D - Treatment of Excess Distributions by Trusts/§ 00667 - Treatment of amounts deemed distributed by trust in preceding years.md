@@ -32,7 +32,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (3) Certain preceding taxable years not taken into account
 
-&emsp;For purposes of paragraph (1), if the amount of the undistributed net income deemed distributed in any preceding taxable year of the trust is less than 25 percent of the amount of the accumulation distribution divided by the number of preceding taxable years to which the accumulation distribution is allocated under section 666(a), the number of preceding taxable years of the trust with respect to which an amount is deemed distributed to a beneficiary under section 666(a) shall be determined without regard to such year.
+&emsp;For purposes of paragraph (1), if the amount of the undistributed net income deemed distributed in any preceding taxable year of the trust is less than 25 percent of the amount of the accumulation distribution divided by thenumber of preceding taxable years to which the accumulation distribution is allocated under section 666(a), the number of preceding taxable years of the trust with respect to which an amount is deemed distributed to a beneficiary under section 666(a) shall be determined without regard to such year.
 
 #### (4) Effect of other accumulation distributions
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable yearsbeginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
+Amendment by section 701(q)(1)(B), (C) of Pub. L. 95–600 applicable to distributions made in taxable years beginning after Dec. 31, 1975, see section 701(q)(3)(A) of Pub. L. 95–600, set out as a note under section 665 of this title.
 
 Section 702(<i>o</i>)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply—
 

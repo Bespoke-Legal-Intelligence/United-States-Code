@@ -14,7 +14,7 @@ Section 1749ee, act June 27, 1934, ch. 847, title X, §1006, formerly §1005, as
 
 Section 1749ff, act June 27, 1934, ch. 847, title X, §1007, formerly §1006, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1007, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to release or subordination of mortgaged property.
 
-Section 1749gg, act June 27, 1934, ch. 847, title X, §1008, formerly §1007, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1008, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat.1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to premium rates and other charges for mortgage insurance and report to Congress thereon.
+Section 1749gg, act June 27, 1934, ch. 847, title X, §1008, formerly §1007, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1008, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to premium rates and other charges for mortgage insurance and report to Congress thereon.
 
 Section 1749hh, act June 27, 1934, ch. 847, title X, §1009, formerly §1008, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1009, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to applicability of other provisions of law to this subchapter.
 

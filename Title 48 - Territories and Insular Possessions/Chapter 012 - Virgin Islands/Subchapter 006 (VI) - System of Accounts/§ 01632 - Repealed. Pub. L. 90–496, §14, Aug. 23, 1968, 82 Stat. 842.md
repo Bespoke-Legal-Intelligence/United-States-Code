@@ -1,6 +1,6 @@
 ### §1632. Repealed. Pub. L. 90–496, §14, Aug. 23, 1968, 82 Stat. 842
 
-Section, act July 22, 1954, ch. 558, §19, 68 Stat. 505, authorized Comptroller General of United States to review annually the office and activities of GovernmentComptroller of Virgin Islands, and report thereon to Governor, Secretary of the Interior, and Congress.
+Section, act July 22, 1954, ch. 558, §19, 68 Stat. 505, authorized Comptroller General of United States to review annually the office and activities of Government Comptroller of Virgin Islands, and report thereon to Governor, Secretary of the Interior, and Congress.
 
 #### Effective Date of Repeal
 

@@ -18,7 +18,7 @@ A prior section 5361, act Aug. 16, 1954, ch. 736, 68A Stat. 664, consisted of pr
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quarter that begins at least 180 daysafter Aug. 5, 1997, see section 1416(c) of Pub. L. 105–34, set out as a note under section 5044 of this title.
+Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quarter that begins at least 180 days after Aug. 5, 1997, see section 1416(c) of Pub. L. 105–34, set out as a note under section 5044 of this title.
 
 #### Effective Date of 1979 Amendment
 

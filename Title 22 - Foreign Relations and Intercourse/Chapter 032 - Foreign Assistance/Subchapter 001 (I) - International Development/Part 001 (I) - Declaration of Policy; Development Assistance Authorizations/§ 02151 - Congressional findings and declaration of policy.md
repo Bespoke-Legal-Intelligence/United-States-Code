@@ -74,9 +74,15 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
 
+#### Short Title of 2003 Amendments
+
+Pub. L. 108–179, §1, Dec. 15, 2003, 117 Stat. 2643, provided that: “This Act \[enacting and amending provisions set out as notes under section 2152 of this title\] may be cited as the ‘Torture Victims Relief Reauthorization Act of 2003’.”
+
+Pub. L. 108–158, §1, Dec. 3, 2003, 117 Stat. 1949, provided that: “This Act \[amending sections 2193, 2194, 2195, 2198, and 2200 of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 2003’.”
+
 #### Short Title of 2002 Amendments
 
-Pub. L. 107–246, §1, Oct. 23, 2002, 116 Stat. 1511, provided that: “This Act \[amending sections 2295 and 2295b of this title and enacting provisions set out as notesunder section 2295 of this title\] may be cited as the ‘Russian Democracy Act of 2002’.”
+Pub. L. 107–246, §1, Oct. 23, 2002, 116 Stat. 1511, provided that: “This Act \[amending sections 2295 and 2295b of this title and enacting provisions set out as notes under section 2295 of this title\] may be cited as the ‘Russian Democracy Act of 2002’.”
 
 Pub. L. 107–228, div. A, title VI, §661, Sept. 30, 2002, 116 Stat. 1405, provided that: “This subtitle \[subtitle E (§§661–665) of title VI of div. A of Pub. L. 107–228, enacting section 2151n–2 of this title, amending sections 2151n and 2304 of this title, and enacting provisions set out as notes under sections 2151n and 2151n–2 of this title\] may be cited as the ‘Freedom Investment Act of 2002’.”
 
@@ -126,7 +132,7 @@ Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Ac
 
 Pub. L. 102–583, §1, Nov. 2, 1992, 106 Stat. 4914, provided that Pub. L. 102–583 could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 
-Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, andamending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
+Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
 
 Pub. L. 102–549, title VI, §601, Oct. 28, 1992, 106 Stat. 3664, provided that: “This title \[enacting sections 2077 and 2430 to 2430i of this title, amending section 1738i of Title 7, Agriculture, repealing section 2296 of this title, and enacting provisions set out as a note under section 2296 of this title\] may be cited as the ‘Enterprise for the Americas Act of 1992’.”
 
@@ -154,7 +160,7 @@ Pub. L. 100–461, title V, §555 \[H.R. 5263, title I, §101, and S. 2757, titl
 
 Pub. L. 99–570, title II, §2001, Oct. 27, 1986, 100 Stat. 3207–60, provided that title II of Pub. L. 99–570 could be cited as the “International Narcotics Control Act of 1986”, prior to repeal by Pub. L. 103–447, title I, §103(c), Nov. 2, 1994, 108 Stat. 4694.
 
-Pub. L. 99–529, §1, Oct. 24, 1986, 100 Stat. 3010, provided that: “This Act \[enacting section 2151p–1 of this title, amending sections 290f, 2151b, 2151p, 2151q, 2222, 2291a, 2427, and 3929 of this title, and enacting provisions set out as a note under section 290f of this title\] may be cited as the ‘Special Foreign Assistance Act of 1986’.”
+Pub. L. 99–529, §1, Oct. 24, 1986, 100 Stat. 3010, provided that: “This Act \[enacting section 2151p–1 of this title, amending sections 290f, 2151b, 2151p, 2151q, 2222, 2291a,2427, and 3929 of this title, and enacting provisions set out as a note under section 290f of this title\] may be cited as the ‘Special Foreign Assistance Act of 1986’.”
 
 #### Short Title of 1985 Amendments
 
@@ -174,7 +180,7 @@ Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part tha
 
 Pub. L. 97–113, §1, Dec. 29, 1981, 95 Stat. 1519, provided that: “This Act \[see Tables for classification\] may be cited as the ‘International Security and Development Cooperation Act of 1981’.”
 
-Pub. L. 97–65, §1, Oct. 16, 1981, 95 Stat. 1021, provided that: “This Act \[enacting sections 2194a and 2200b of this title, amending sections 2191, 2193, 2194, 2195, 2197, 2198, 2199, and 2200a of this title, and enacting provisions set out as notes under sections 2193 and 2200a ofthis title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1981’.”
+Pub. L. 97–65, §1, Oct. 16, 1981, 95 Stat. 1021, provided that: “This Act \[enacting sections 2194a and 2200b of this title, amending sections 2191, 2193, 2194, 2195, 2197, 2198, 2199, and 2200a of this title, and enacting provisions set out as notes under sections 2193 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1981’.”
 
 #### Short Title of 1980 Amendments
 
@@ -212,7 +218,7 @@ Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sect
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f,2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
+Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
 
 Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
 
@@ -240,7 +246,7 @@ Pub. L. 90–554, §1, Oct. 8, 1968, 82 Stat. 960, provided: “That this Act \[
 
 #### Short Title of 1967 Amendment
 
-Section 1 of Pub. L. 90–137 provided: “That this Act \[enacting sections 2167 to 2169, 2178, 2219, 2219a, 2220, 2224, 2243, 2302, 2341 to 2345, and 2409 of this title, amending this section and sections 276, 276c–1, 1928b to 1928d, 1934, 2161, 2162, 2165, 2171, 2172, 2174, 2181 to 2184, 2192, 2211, 2212, 2218, 2221, 2222, 2241, 2242, 2261, 2271, 2301, 2302, 2311, 2312, 2314, 2318 to 2321, 2341 to 2345, 2351, 2358, 2360, 2361, 2364, 2384 to 2386, 2389, 2392, 2394 to 2397, 2399a, and 2403 of this title, repealing sections 2217b and 2317(a) of this title, and enacting provision set out as a note under section 2395 of this title\] may be cited as the ‘Foreign Assistance Act of 1967’.”
+Section 1 of Pub. L. 90–137 provided: “That this Act \[enacting sections 2167 to 2169, 2178, 2219, 2219a, 2220, 2224, 2243, 2302, 2341 to 2345, and 2409 of this title, amending this section and sections 276, 276c–1, 1928b to 1928d, 1934, 2161, 2162, 2165, 2171, 2172, 2174, 2181 to 2184, 2192, 2211, 2212, 2218, 2221, 2222, 2241, 2242, 2261, 2271, 2301, 2302,2311, 2312, 2314, 2318 to 2321, 2341 to 2345, 2351, 2358, 2360, 2361, 2364, 2384 to 2386, 2389, 2392, 2394 to 2397, 2399a, and 2403 of this title, repealing sections 2217b and 2317(a) of this title, and enacting provision set out as a note under section 2395 of this title\] may be cited as the ‘Foreign Assistance Act of 1967’.”
 
 #### Short Title of 1966 Amendment
 
@@ -264,7 +270,7 @@ Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 221
 
 #### Short Title
 
-Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this sectionand sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
+Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
 
 Section 101 of Pub. L. 87–195 which provided that this subchapter should be cited as the “Act for International Development of 1961” was repealed by section 101(b) of Pub. L. 88–205.
 
@@ -300,9 +306,309 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Syria Accountability and Lebanese Sovereignty Restoration
+
+Pub. L. 108–175, Dec. 12, 2003, 117 Stat. 2482, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Syria Accountability and Lebanese Sovereignty Restoration Act of 2003’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) On June 24, 2002, President Bush stated ‘Syria must choose the right side in the war on terror by closing terrorist camps and expelling terrorist organizations’.
+
+&emsp;“(2) United Nations Security Council Resolution 1373 (September 28, 2001) mandates that all states ‘refrain from providing any form of support, active or passive, to entities or persons involved in terrorist acts’, take ‘the necessary steps to prevent the commission of terrorist acts’, and ‘deny safe haven to those who finance, plan, support, or commit terrorist acts’.
+
+&emsp;“(3) The Government of Syria is currently prohibited by United States law from receiving United States assistance because it has repeatedly provided support for acts of international terrorism, as determined by the Secretary of State for purposes of section 6(j)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)) and other relevant provisions of law.
+
+&emsp;“(4) Although the Department of State lists Syria as a state sponsor of terrorism and reports that Syria provides ‘safe haven and support to several terrorist groups’, fewer United States sanctions apply with respect to Syria than with respect to any other country that is listed as a state sponsor of terrorism.
+
+&emsp;“(5) Terrorist groups, including Hizballah, Hamas, Palestinian Islamic Jihad, the Popular Front for the Liberation of Palestine, and the Popular Front for the Liberation of Palestine—General Command, maintain offices, training camps, and other facilities on Syrian territory, and operate in areas of Lebanon occupied by the Syrian armed forces and receive supplies from Iran through Syria.
+
+&emsp;“(6) United Nations Security Council Resolution 520 (September 17, 1982) calls for ‘strict respect of the sovereignty, territorial integrity, unity and political independence of Lebanon under the sole and exclusive authority of the Government of Lebanon through the Lebanese Army throughout Lebanon’.
+
+&emsp;“(7) Approximately 20,000 Syrian troops and security personnel occupy much of the sovereign territory of Lebanon exerting undue influence upon its government and undermining its political independence.
+
+&emsp;“(8) Since 1990 the Senate and House of Representatives have passed seven bills and resolutions which call for the withdrawal of Syrian armed forces from Lebanon.
+
+&emsp;“(9) On March 3, 2003, Secretary of State Colin Powell declared that it is the objective of the United States to ‘let Lebanon be ruled by the Lebanese people without the presence of \[the Syrian\] occupation army’.
+
+&emsp;“(10) Large and increasing numbers of the Lebanese people from across the political spectrum in Lebanon have mounted peaceful and democratic calls for the withdrawal of the Syrian Army from Lebanese soil.
+
+&emsp;“(11) Israel has withdrawn all of its armed forces from Lebanon in accordance with United Nations Security Council Resolution 425 (March 19, 1978), as certified by the United Nations Secretary General.
+
+&emsp;“(12) Even in the face of this United Nations certification that acknowledged Israel's full compliance with Security Council Resolution 425, Syrian- and Iranian-supported Hizballah continues to attack Israeli outposts at Shebaa Farms, under the pretense that Shebaa Farms is territory from which Israel was required to withdraw by Security Counsel Resolution 425, and Syrian- and Iranian-supported Hizballah and other militant organizations continue to attack civilian targets in Israel.
+
+&emsp;“(13) Syria will not allow Lebanon—a sovereign country—to fulfill its obligation in accordance with Security Council Resolution 425 to deploy its troops to southern Lebanon.
+
+&emsp;“(14) As a result, the Israeli-Lebanese border and much of southern Lebanon is under the control of Hizballah, which continues to attack Israeli positions, allows Iranian Revolutionary Guards and other militant groups to operate freely in the area, and maintains thousands of rockets along Israel's northern border, destabilizing the entire region.
+
+&emsp;“(15) On February 12, 2003, Director of Central Intelligence George Tenet stated the following with respect to the Syrian- and Iranian-supported Hizballah: ‘\[A\]s an organization with capability and worldwide presence \[it\] is \[al Qaeda's\] equal if not a far more capable organization \* \* \* \[T\]hey're a notch above in many respects, in terms of in their relationship with the Iranians and the training they receive, \[which\] puts them in a state-sponsored category with a potential for lethality that's quite great.’.
+
+&emsp;“(16) In the State of the Union address on January 29, 2002, President Bush declared that the United States will ‘work closely with our coalition to deny terrorists and their state sponsors the materials, technology, and expertise to make and deliver weapons of mass destruction’.
+
+&emsp;“(17) The Government of Syria continues to develop and deploy short- and medium-range ballistic missiles.
+
+&emsp;“(18) According to the December 2001 unclassified Central Intelligence Agency report entitled ‘Foreign Missile Developments and the Ballistic Missile Threat through 2015’, ‘Syria maintains a ballistic missile and rocket force of hundreds of FROG rockets, Scuds, and SS–21 SRBMs \[and\] Syria has developed \[chemical weapons\] warheads for its Scuds’.
+
+&emsp;“(19) The Government of Syria is pursuing the development and production of biological and chemical weapons and has a nuclear research and development program that is cause for concern.
+
+&emsp;“(20) According to the Central Intelligence Agency's ‘Unclassified Report to Congress on the Acquisition of Technology Relating to Weapons of Mass Destruction and Advanced Conventional Munitions’, released January 7, 2003: ‘\[Syria\] already holds a stockpile of the nerve agent sarin but apparently is trying to develop more toxic and persistent nerve agents. Syria remains dependent on foreign sources for key elements of its \[chemical weapons\] program, including precursor chemicals and key production equipment. It is highly probable that Syria also is developing an offensive \[biological weapons\] capability.’.
+
+&emsp;“(21) On May 6, 2002, the Under Secretary of State for Arms Control and International Security, John Bolton, stated: ‘The United States also knows that Syria has long had a chemical warfare program. It has a stockpile of the nerve agent sarin and is engaged in research and development of the more toxic and persistent nerve agent VX. Syria, which has signed but not ratified the \[Biological Weapons Convention\], is pursuing the development of biological weapons and is able to produce at least small amounts of biological warfare agents.’.
+
+&emsp;“(22) According to the Central Intelligence Agency's ‘Unclassified Report to Congress on the Acquisition of Technology Relating to Weapons of Mass Destruction and Advanced Conventional Munitions’, released January 7, 2003: ‘Russia and Syria have approved a draft cooperative program on cooperation on civil nuclear power. In principal, broader access to Russian expertise provides opportunities for Syria to expand its indigenous capabilities, should it decide to pursue nuclear weapons.’.
+
+&emsp;“(23) Under the Treaty on the Non-Proliferation of Nuclear Weapons (21 UST 483), which entered force on March 5, 1970, and to which Syria is a party, Syria has undertaken not to acquire or produce nuclear weapons and has accepted full scope safeguards of the International Atomic Energy Agency to detect diversions of nuclear materials from peaceful activities to the production of nuclear weapons or other nuclear explosive devices.
+
+&emsp;“(24) Syria is not a party to the Chemical Weapons Convention or the Biological Weapons Convention, which entered into force on April 29, 1997, and on March 26, 1975, respectively.
+
+&emsp;“(25) Syrian President Bashar Assad promised Secretary of State Powell in February 2001 to end violations of Security Council Resolution 661, which restricted the sale of oil and other commodities by Saddam Hussein's regime, except to the extent authorized by other relevant resolutions, but this pledge was never fulfilled.
+
+&emsp;“(26) Syria's illegal imports and transshipments of Iraqi oil during Saddam Hussein's regime earned Syria $50,000,000 or more per month as Syria continued to sell its own Syrian oil at market prices.
+
+&emsp;“(27) Syria's illegal imports and transshipments of Iraqi oil earned Saddam Hussein's regime $2,000,000 per day.
+
+&emsp;“(28) On March 28, 2003, Secretary of Defense Donald Rumsfeld warned: ‘\[W\]e have information that shipments of military supplies have been crossing the border from Syria into Iraq, including night-vision goggles \* \* \* These deliveries pose a direct threat to the lives of coalition forces. We consider such trafficking as hostile acts, and will hold the Syrian government accountable for such shipments.’.
+
+&emsp;“(29) According to Article 23(1) of the United Nations Charter, members of the United Nations are elected as nonpermanent members of the United Nations Security Council with ‘due regard being specially paid, in the first instance to the contribution of members of the United Nations to the maintenance of international peace and security and to other purposes of the Organization’.
+
+&emsp;“(30) Despite Article 23(1) of the United Nations Charter, Syria was elected on October 8, 2001, to a 2-year term as a nonpermanent member of the United Nations Security Council beginning January 1, 2002, and served as President of the Security Council during June 2002 and August 2003.
+
+&emsp;“(31) On March 31, 2003, the Syrian Foreign Minister, Farouq al-Sharra, made the Syrian regime's intentions clear when he explicitly stated that ‘Syria's interest is to see the invaders defeated in Iraq’.
+
+&emsp;“(32) On April 13, 2003, Secretary of Defense Donald Rumsfeld charged that ‘busloads’ of Syrian fighters entered Iraq with ‘hundreds of thousands of dollars’ and leaflets offering rewards for dead American soldiers.
+
+&emsp;“(33) On September 16, 2003, the Under Secretary of State for Arms Control and International Security, John Bolton, appeared before the Subcommittee on the Middle East and Central Asia of the Committee on International Relations of the House of Representatives, and underscored Syria's ‘hostile actions’ toward coalition forces during Operation Iraqi Freedom. Under Secretary Bolton added that: ‘Syria allowed military equipment to flow into Iraq on the eve of and during the war. Syria permitted volunteers to pass into Iraq to attack and kill our service members during the war, and is still doing so \* \* \* \[Syria's\] behavior during Operation Iraqi Freedom underscores the importance of taking seriously reports and information on Syria's WMD capabilities.’.
+
+&emsp;“(34) During his appearance before the Committee on International Relations of the House of Representatives on September 25, 2003, Ambassador L. Paul Bremer, III, Administrator of the Coalition Provisional Authority in Iraq, stated that out of the 278 third-country nationals who were captured by coalition forces in Iraq, the ‘single largest group are Syrians’.
+
+#### “SEC. 3. SENSE OF CONGRESS.
+
+“It is the sense of Congress that—
+
+&emsp;“(1) the Government of Syria should immediately and unconditionally halt support for terrorism, permanently and openly declare its total renunciation of all forms of terrorism, and close all terrorist offices and facilities in Syria, including the offices of Hamas, Hizballah, Palestinian Islamic Jihad, the Popular Front for the Liberation of Palestine, and the Popular Front for the Liberation of Palestine—General Command;
+
+&emsp;“(2) the Government of Syria should—
+
+&emsp;&emsp;“(A) immediately and unconditionally stop facilitating transit from Syria to Iraq of individuals, military equipment, and all lethal items, except as authorized by the Coalition Provisional Authority or a representative, internationally recognized Iraqi government;
+
+&emsp;&emsp;“(B) cease its support for ‘volunteers’ and terrorists who are traveling from and through Syria into Iraq to launch attacks; and
+
+&emsp;&emsp;“(C) undertake concrete, verifiable steps to deter such behavior and control the use of territory under Syrian control;
+
+&emsp;“(3) the Government of Syria should immediately declare its commitment to completely withdraw its armed forces, including military, paramilitary, and security forces, from Lebanon, and set a firm timetable for such withdrawal;
+
+&emsp;“(4) the Government of Lebanon should deploy the Lebanese armed forces to all areas of Lebanon, including South Lebanon, in accordance with United Nations Security Council Resolution 520 (September 17, 1982), in order to assert the sovereignty of the Lebanese state over all of its territory, and should evict all terrorist and foreign forces from southern Lebanon, including Hizballah and the Iranian Revolutionary Guards;
+
+&emsp;“(5) the Government of Syria should halt the development and deployment of medium- and long-range surface-to-surface missiles and cease the development and production of biological and chemical weapons;
+
+&emsp;“(6) the Governments of Lebanon and Syria should enter into serious unconditional bilateral negotiations with the Government of Israel in order to realize a full and permanent peace;
+
+&emsp;“(7) the United States should continue to provide humanitarian and educational assistance to the people of Lebanon only through appropriate private, nongovernmental organizations and appropriate international organizations, until such time as the Government of Lebanon asserts sovereignty and control over all of its territory and borders and achieves full political independence, as called for in United Nations Security Council Resolution 520; and
+
+&emsp;“(8) as a violator of several key United Nations Security Council resolutions and as a nation that pursues policies which undermine international peace and security, Syria should not have been permitted to join the United Nations Security Council or serve as the Security Council's President, and should be removed from the Security Council.
+
+#### “SEC. 4. STATEMENT OF POLICY.
+
+“It is the policy of the United States that—
+
+&emsp;“(1) Syria should bear responsibility for attacks committed by Hizballah and other terrorist groups with offices, training camps, or other facilities in Syria, or bases in areas of Lebanon occupied by Syria;
+
+&emsp;“(2) the United States will work to deny Syria the ability to support acts of international terrorism and efforts to develop or acquire weapons of mass destruction;
+
+&emsp;“(3) the Secretary of State will continue to list Syria as a state sponsor of terrorism until Syria ends its support for terrorism, including its support of Hizballah and other terrorist groups in Lebanon and its hosting of terrorist groups in Damascus, and comes into full compliance with United States law relating to terrorism and United Nations Security Council Resolution 1373 (September 28, 2001);
+
+&emsp;“(4) the full restoration of Lebanon's sovereignty, political independence, and territorial integrity is in the national security interest of the United States;
+
+&emsp;“(5) Syria is in violation of United Nations Security Council Resolution 520 (September 17, 1982) through its continued occupation of Lebanese territory and its encroachment upon Lebanon's political independence;
+
+&emsp;“(6) Syria's obligation to withdraw from Lebanon is not conditioned upon progress in the Israeli-Syrian orIsraeli-Lebanese peace process but derives from Syria's obligation under Security Council Resolution 520;
+
+&emsp;“(7) Syria's acquisition of weapons of mass destruction and ballistic missile programs threaten the security of the Middle East and the national security interests of the United States;
+
+&emsp;“(8) Syria will be held accountable for any harm to Coalition armed forces or to any United States citizen in Iraq if the government of Syria is found to be responsible due to its facilitation of terrorist activities and its shipments of military supplies to Iraq; and
+
+&emsp;“(9) the United States will not provide any assistance to Syria and will oppose multilateral assistance for Syria until Syria ends all support for terrorism, withdraws its armed forces from Lebanon, and halts the development and deployment of weapons of mass destruction and medium- and long-range surface-to-surface ballistic missiles.
+
+#### “SEC. 5. PENALTIES AND AUTHORIZATION.
+
+“(a)
+
+Penalties.—Until the President makes the determination that Syria meets all the requirements described in paragraphs (1) through (4) of subsection (d) and certifies such determination to Congress in accordance with such subsection—
+
+&emsp;“(1) the President shall prohibit the export to Syria of any item, including the issuance of a license for the export of any item, on the United States Munitions List or Commerce Control List of dual-use items in the Export Administration Regulations (15 CFR part 730 et seq.); and
+
+&emsp;“(2) the President shall impose two or more of the following sanctions:
+
+&emsp;&emsp;“(A) Prohibit the export of products of the United States (other than food and medicine) to Syria.
+
+&emsp;&emsp;“(B) Prohibit United States businesses from investing or operating in Syria.
+
+&emsp;&emsp;“(C) Restrict Syrian diplomats in Washington, D.C., and at the United Nations in New York City, to travel only within a 25-mile radius of Washington, D.C., or the United Nations headquarters building, respectively.
+
+&emsp;&emsp;“(D) Prohibit aircraft of any air carrier owned or controlled by Syria to take off from, land in, or overfly the United States.
+
+&emsp;&emsp;“(E) Reduce United States diplomatic contacts with Syria (other than those contacts required to protect United States interests or carry out the purposes of this Act).
+
+&emsp;&emsp;“(F) Block transactions in any property in which the Government of Syria has any interest, by any person, or with respect to any property, subject to the jurisdiction of the United States.
+
+“(b)
+
+Waiver.—The President may waive the application of subsection (a)(1), (a)(2), or both if the President determines that it is in the national security interest of the United States to do so and submits to the appropriate congressional committees a report containing the reasons for the determination.
+
+“(c)
+
+Authority To Provide Assistance To Syria.—If the President—
+
+&emsp;“(1) makes the determination that Syria meets the requirements described in paragraphs (1) through (4) of subsection (d) and certifies such determination to Congress in accordance with such subsection;
+
+&emsp;“(2) determines that substantial progress has been made both in negotiations aimed at achieving a peace agreement between Israel and Syria and in negotiations aimed at achieving a peace agreement between Israel and Lebanon; and
+
+&emsp;“(3) determines that the Government of Syria is strictly respecting the sovereignty, territorial integrity, unity, and political independence of Lebanon under the sole and exclusive authority of the Government of Lebanon through the Lebanese army throughout Lebanon, as required under paragraph (4) of United Nations Security Council Resolution 520 (1982),
+
+> then the President is authorized to provide assistance to Syria under chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] (relating to development assistance).
+
+“(d)
+
+Certification.—A certification under this subsection is a certification transmitted to the appropriate congressional committees of a determination made by the President that—
+
+&emsp;“(1) the Government of Syria has ceased providing support for international terrorist groups and does not allow terrorist groups, such as Hamas, Hizballah, Palestinian Islamic Jihad, the Popular Front for the Liberation of Palestine, and the Popular Front for the Liberation of Palestine—General Command to maintain facilities in territory under Syrian control;
+
+&emsp;“(2) the Government of Syria ended its occupation of Lebanon described in section 2(7) of this Act;
+
+&emsp;“(3) the Government of Syria has ceased the development and deployment of medium- and long-range surface-to-surface ballistic missiles, is not pursuing or engaged in the research, development, acquisition, production, transfer, or deployment of biological, chemical, or nuclear weapons, has provided credible assurances that such behavior will not be undertaken in the future, and has agreed to allow United Nations and other international observers to verify such actions and assurances; and
+
+&emsp;“(4) the Government of Syria has ceased all support for, and facilitation of, all terrorist activities inside of Iraq, including preventing the use of territory under its control by any means whatsoever to support those engaged in terrorist activities inside of Iraq.
+
+#### “SEC. 6. REPORT.
+
+“(a)
+
+Report.—Not later than 6 months after the date of the enactment of this Act \[Dec. 12, 2003\], and every 12 months thereafter until the conditions described in paragraphs (1) through (4) of section 5(d) are satisfied, the Secretary of State shall submit to the appropriate congressional committees a report on—
+
+&emsp;“(1) Syria's progress toward meeting the conditions described in paragraphs (1) through (4) of section 5(d);
+
+&emsp;“(2) connections, if any, between individual terrorists and terrorist groups which maintain offices, training camps, or other facilities on Syrian territory, or operate in areas of Lebanon occupied by the Syrian armed forces, and terrorist attacks on the United States or its citizens, installations, or allies; and
+
+&emsp;“(3) how the United States is increasing its efforts against Hizballah and other terrorist organizations supported by Syria.
+
+“(b)
+
+Form.—The report submitted under subsection (a) shall be in unclassified form but may include a classified annex.
+
+#### “SEC. 7. DEFINITION OF APPROPRIATE CONGRESSIONAL COMMITTEES.
+
+“In this Act, the term ‘appropriate congressional committees’ means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.”
+
+#### Iraq Relief and Reconstruction Fund
+
+Pub. L. 108–106, title II, §§2207, 2208, Nov. 6, 2003, 117 Stat. 1231, provided that:
+
+“
+
+Sec. 2207. (a) The Director of the Office of Management and Budget, in consultation with the Administrator of the Coalition Provisional Authority (CPA) and the Committees on Appropriations, shall submit to the Committees on Appropriations not later than January 5, 2004 and prior to the initial obligation of funds appropriated by this Act under the heading ‘Iraq Relief and Reconstruction Fund’ \[117 Stat. 1225\] a report on the proposed uses of all funds under this heading on a project-by-project basis, for which the obligation of funds is anticipated during the 3 month period from such date, including estimates by the CPA of the costs required to complete each such project: <i>Provided</i>, That up to 20 percent of funds appropriated under such heading may be obligated before the submission of the report: <i>Provided further</i>, That in addition such report shall include the following:
+
+&emsp;“(1) The use of all funds on a project-by-project basis for which funds appropriated under such heading were obligated prior to the submission of the report, including estimates by the CPA of the costs required to complete each project.
+
+&emsp;“(2) The distribution of duties and responsibilities regarding such projects among the agencies of the United States Government.
+
+&emsp;“(3) Revenues to the CPA attributable to or consisting of funds provided by foreign governments and international organizations, disaggregated by donor, any obligations or expenditures of such revenues, and the purpose of such obligations and expenditures.
+
+&emsp;“(4) Revenues to the CPA attributable to or consisting of foreign assets seized or frozen, any obligations or expenditures of such revenues, and the purpose of such obligations and expenditures.
+
+“(b) Any proposed new projects and increases in funding of ongoing projects shall be reported to the Committees on Appropriations in accordance with regular notification procedures.
+
+“(c) The report required by subsection (a) shall be updated and submitted to the Committees on Appropriations every 3 months and shall include information on how the estimates and assumptions contained in previous reports have changed.
+
+“(d) The requirements of this section shall expire on October 1, 2007.
+
+“
+
+Sec. 2208. Any reference in this chapter \[chapter 2 of title II of Pub. L. 108–106, enacting section 7554 of this title, amending sections 7518 and 7532 of this title, and enacting this note and section 2215(a) of Pub. L. 108–106, set out as a note below\] to the ‘Coalition Provisional Authority in Iraq’ or the ‘Coalition Provisional Authority’ shall be deemed to include any successor United States Government entity with the same or substantially the same authorities and responsibilities as the Coalition Provisional Authority in Iraq.”
+
+#### Reports on Iraqi Oil Production and Revenues
+
+Pub. L. 108–106, title II, §2215(a), Nov. 6, 2003, 117 Stat. 1232, provided that:
+
+“(1) The Coalition Provisional Authority (CPA) shall, on a monthly basis until September 30, 2006, submit a report to the Committees on Appropriations which details, for the preceding month, Iraqi oil production and oil revenues, and uses of such revenues.
+
+“(2) The first report required by this subsection shall be submitted not later than 30 days after enactment of this Act \[Nov. 6, 2003\].
+
+“(3) The reports required by this subsection shall also be made publicly available in both English and Arabic, including through the CPA's Internet website.”
+
+#### Reports on United States Strategy for Relief and Reconstruction in Iraq
+
+Pub. L. 108–11, title I, §1506, Apr. 16, 2003, 117 Stat. 580, provided that:
+
+“(a)
+
+Initial Report.—Not later than 45 days after the date of enactment of this Act \[Apr. 16, 2003\], the President shall submit to the Committees on Appropriations a report on the United States strategy regarding activities related to post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq that are undertaken as a result of Operation Iraqi Freedom. The report shall include the following:
+
+&emsp;“(1) The distribution of duties and responsibilities regarding such activities among agencies of the United States Government, including the Department of State, the United States Agency for International Development, and the Department of Defense (to be provided within 30 days of enactment of this Act).
+
+&emsp;“(2) A detailed plan describing the roles and responsibilities of foreign governments and international organizations including the United Nations, in carrying out activities related to post-conflict security, humanitarian assistance, governance, and reconstruction in Iraq.
+
+&emsp;“(3) A strategy for coordinating such activities among the United States Government, foreign governments and international organizations, including the United Nations.
+
+&emsp;“(4) An initial estimate of the costs expected to be associated with such activities.
+
+&emsp;“(5) A strategy for distributing the responsibility for paying costs associated with reconstruction activities in Iraq among the United States, foreign governments, and international organizations, including the United Nations, and an estimate of the revenue expected to be generated by Iraqi oil production that could be used to pay such costs.
+
+“(b)
+
+Subsequent Reports.—Not later than 90 days after the date of enactment of this Act \[Apr. 16, 2003\], and every 90 days thereafter until September 30, 2004, the President shall submit to the Committees on Appropriations a report that contains:
+
+&emsp;“(1) A list of significant United States Government-funded activities related to reconstruction in Iraq that, during the 90-day period ending 15 days prior to the date the report is submitted to the Committees on Appropriations—
+
+&emsp;&emsp;“(A) were initiated; or
+
+&emsp;&emsp;“(B) were completed.
+
+&emsp;“(2) A list of the significant activities related to reconstruction in Iraq that the President anticipates initiating during the 90-day period beginning on the date the report is submitted to the Committees on Appropriations, including:
+
+&emsp;&emsp;“(A) Cost estimates for carrying out the proposed activities.
+
+&emsp;&emsp;“(B) The source of the funds that will be used to pay such costs.
+
+&emsp;“(3) Updated strategies, if changes are proposed regarding matters included in the reports required under subsection (a).
+
+&emsp;“(4) An updated list of the financial pledges and contributions made by foreign governments or international organizations to fund activities related to humanitarian, governance, and reconstruction assistance in Iraq.”
+
+#### Community-Based Police Assistance for Jamaica and El Salvador
+
+Pub. L. 108–7, div. E, title V, §582, Feb. 20, 2003, 117 Stat. 214, provided that:
+
+“(a)
+
+Authority.—Funds made available to carry out the provisions of chapter 1 of part I \[22 U.S.C. 2151 et seq.\] and chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961, may be used, notwithstanding section 660 of that Act \[22 U.S.C. 2420\], to enhance the effectiveness and accountability of civilian police authority in Jamaica and El Salvador through training and technical assistance in human rights, the rule of law, strategic planning, and through assistance to foster civilian police roles that support democratic governance including assistance for programs to prevent conflict and foster improved police relations with the communities they serve.
+
+“(b)
+
+Report.—
+
+&emsp;“(1) The Administrator of the United States Agency for International Development shall submit, at the time of submission of the agency's Congressional Budget Justification Document for fiscal year 2004, and annually thereafter, a report to the Committees on Appropriations describing the progress these programs are making toward improving police relations with the communities they serve and institutionalizing an effective community-based police program.
+
+&emsp;“(2) The requirements of paragraph (1) are in lieu of the requirements contains \[sic\] in section 587(b) of Public Law 107–115 \[see Similar Provisions note below\].
+
+“(c)
+
+Notification.—Assistance provided under subsection (a) shall be subject to the regular notification procedures of the Committees on Appropriations.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–115, title V, §587, Jan. 10, 2002, 115 Stat. 2173.
+
 #### Assistance for Zimbabwe
 
-Pub. L. 107–115, title V, §560, Jan. 10, 2002, 115 Stat. 2162, provided that: “The Secretary of the Treasury shall instruct the United States executive director to each international financial institution to vote against any extension by the respective institution of any loans, to the Government of Zimbabwe, except to meet basic human needs or to promote democracy, unless the Secretary of State determines and certifies to the Committees on Appropriations that the rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association.”
+Pub. L. 108–7, div. E, title V, §556, Feb. 20, 2003, 117 Stat. 202, provided that: “The Secretary of the Treasury shall instruct the United States executive director to each international financial institution to vote against any extension by the respective institution of any loans, to the Government of Zimbabwe, except to meet basic human needs or to promote democracy, unless the Secretary of State determines and certifies to the Committees on Appropriations that the rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 107–115, title V, §560, Jan. 10, 2002, 115 Stat. 2162.
 
 Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, provided that:
 
@@ -352,7 +658,7 @@ Bilateral debt relief.—Upon receipt by the appropriate congressional committee
 
 &emsp;“(2)
 
-Multilateral debt relief and other financial assistance.—It is the sense of Congress that,upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
+Multilateral debt relief and other financial assistance.—It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
 
 &emsp;&emsp;“(A) direct the United States executive director of each multilateral development bank to propose that the bank should undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by that bank; and
 
@@ -396,7 +702,7 @@ Fulfillment of agreement ending war in democratic republic of congo.—The Gover
 
 &emsp;“(5)
 
-Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and other state security forces are responsible to and serve the elected civilian government.
+Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and otherstate security forces are responsible to and serve the elected civilian government.
 
 “(e)
 
@@ -454,7 +760,7 @@ Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2805, Oct. 21, 1998, 112 S
 
 #### Iraq Liberation
 
-Pub. L. 105–338, Oct. 31, 1998, 112 Stat. 3178, provided that:
+Pub. L. 105–338, Oct. 31, 1998, 112 Stat. 3178, as amended by Pub. L. 108–11, title I, §1309(b), Apr. 16, 2003, 117 Stat. 568, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -510,6 +816,8 @@ Military assistance.—(A) The President is authorized to direct the drawdown of
 
 &emsp;“(B) The aggregate value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of assistance provided under this paragraph may not exceed $97,000,000.
 
+&emsp;“(C) The aggregate value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of assistance provided under this paragraph may not exceed $86,500,000 in fiscal year 2003.
+
 “(b)
 
 Humanitarian Assistance.—The Congress urges the President to use existing authorities under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] to provide humanitarian assistance to individuals living in areas of Iraq controlled by organizations designated in accordance with section 5, with emphasis on addressing the needs of individuals who have fled to such areas from areas under the control of the Saddam Hussein regime.
@@ -532,7 +840,7 @@ In general.—Defense articles, defense services, and military education and tra
 
 &emsp;“(2)
 
-Authorization of appropriations.—There are authorized to be appropriated to the President for each of the fiscal years 1998 and 1999 such sums as may be necessary to reimburse the applicable appropriation, fund, or account for the value (as defined in section 644(m) of the Foreign Assistance Act of 1961\[22 U.S.C. 2403(m)\]) of defense articles, defense services, or military education and training provided under subsection (a)(2).
+Authorization of appropriations.—There are authorized to be appropriated to the President for each of the fiscal years 1998 and 1999 such sums as may be necessary to reimburse the applicable appropriation, fund, or account for the value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of defense articles, defense services, or military education and training provided under subsection (a)(2).
 
 “(f)
 
@@ -572,7 +880,7 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### “SEC. 7. ASSISTANCE FOR IRAQ UPON REPLACEMENT OF SADDAM HUSSEIN REGIME.
 
-“It is the sense of the Congress that once the Saddam Hussein regime is removed from power in Iraq, the United States should support Iraq's transition to democracy by providing immediate and substantial humanitarian assistance to the Iraqi people, by providing democracy transition assistance to Iraqi parties and movements with democratic goals, and by convening Iraq's foreign creditors to develop a multilateral response to Iraq's foreign debt incurred by Saddam Hussein's regime.
+“It is the sense of the Congress that once the Saddam Hussein regime is removed from power in Iraq, the United States should support Iraq's transition to democracy by providing immediate and substantial humanitarian assistance to the Iraqi people, by providingdemocracy transition assistance to Iraqi parties and movements with democratic goals, and by convening Iraq's foreign creditors to develop a multilateral response to Iraq's foreign debt incurred by Saddam Hussein's regime.
 
 #### “SEC. 8. RULE OF CONSTRUCTION.
 
@@ -630,7 +938,7 @@ Military assistance or arms transfers.—The term ‘military assistance or arms
 
 &emsp;&emsp;“(C) assistance under the ‘Foreign Military Financing Program’ under section 23 of the Arms Export Control Act (22 U.S.C. 2763); or
 
-&emsp;&emsp;“(D) the transfer of defense articles, defense services, or design and construction services under theArms Export Control Act (22 U.S.C. 2751 et seq.), including defense articles and defense services licensed or approved for export under section 38 of that Act (22 U.S.C. 2778).”
+&emsp;&emsp;“(D) the transfer of defense articles, defense services, or design and construction services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), including defense articles and defense services licensed or approved for export under section 38 of that Act (22 U.S.C. 2778).”
 
 #### Authority for Anticrime Assistance
 
@@ -836,7 +1144,7 @@ Pub. L. 102–583, §11(b), Nov. 2, 1992, 106 Stat. 4935, provided that as used 
 
 #### Impact on Employment in United States
 
-Pub. L. 102–549, title VIII, §801, Oct. 28, 1992, 106 Stat. 3671, provided that: “No funds made available to carryout any provision of this Act \[see Short Title of 1992 Amendments note above\] or the amendments made by this Act may be obligated or expended for any financial incentive to a business enterprise currently located in the United States for the purpose of inducing such an enterprise to relocate outside the United States, if such incentive or inducement is likely to reduce the number of employees in the United States because United States production is being replaced by such enterprise outside the United States.”
+Pub. L. 102–549, title VIII, §801, Oct. 28, 1992, 106 Stat. 3671, provided that: “No funds made available to carry out any provision of this Act \[see Short Title of 1992 Amendments note above\] or the amendments made by this Act may be obligated or expended for any financial incentive to a business enterprise currently located in the United States for the purpose of inducing such an enterprise to relocate outside the United States, if such incentive or inducement is likely to reduce the number of employees in the United States because United States production is being replaced by such enterprise outside the United States.”
 
 #### Internationally Recognized Worker Rights
 
@@ -866,7 +1174,7 @@ Authorization of Limited Assistance.—The President is authorized to provide—
 
 &emsp;“(2) assistance for the resettlement of refugees, the demobilization and retraining of troops, and the provision of other appropriate assistance:
 
-> <i>Provided</i>, That the President determines and so certifies to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives that Liberia has made significant progress toward democratization and that the provision of such assistance will assist that country in making further progress and is otherwise in the national interest of the United States. A separate determination and certification shall be required for each fiscal year in which such assistance is to be provided.”
+> <i>Provided</i>, That the President determines and so certifies to the Committee on Foreign Relations and theCommittee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives that Liberia has made significant progress toward democratization and that the provision of such assistance will assist that country in making further progress and is otherwise in the national interest of the United States. A separate determination and certification shall be required for each fiscal year in which such assistance is to be provided.”
 
 #### Suspension of Certain Programs and Activities Relating to the People's Republic of China
 
@@ -1106,7 +1414,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 &emsp;“(5) a detailed projection of the administrative budgetary impact of the establishment of the section on minority business; and
 
-&emsp;“(6) a detailed set of objective criteria upon which determinations will be made as to the qualifications of minority business enterprises to receive contracts funded by such agency.
+&emsp;“(6) a detailed set of objective criteria upon which determinations will be made as to the qualificationsof minority business enterprises to receive contracts funded by such agency.
 
 “(c)(1) Upon the enactment of the International Development Cooperation Act of 1979 \[Aug. 14, 1979\], the section on minority business established pursuant to subsection (a) shall be redesignated as the Minority Resource Center (hereafter in this section referred to as the ‘Center’) which shall be responsible for increasing the participation of economically and socially disadvantaged business enterprises in contract, procurement, grant, and research and development activities funded by the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[this subchapter\] (hereafter in this section referred to as the ‘agency’).
 

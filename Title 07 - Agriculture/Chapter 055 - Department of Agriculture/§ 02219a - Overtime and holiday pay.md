@@ -20,3 +20,7 @@ The Federal Meat Inspection Act, referred to in subsec. (a)(1), is titles I to I
 
 The Poultry Products Inspection Act, referred to in subsec. (a)(1), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 5 section 5549.
+

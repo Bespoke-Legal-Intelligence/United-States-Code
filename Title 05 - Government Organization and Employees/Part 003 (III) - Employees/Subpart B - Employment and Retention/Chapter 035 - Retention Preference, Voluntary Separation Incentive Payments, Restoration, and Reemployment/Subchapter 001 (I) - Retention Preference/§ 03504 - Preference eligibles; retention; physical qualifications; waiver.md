@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 27, 1944, ch. 287, §5 (1st 2 sentences, so much as relates to retention), 58 Stat. 388.
 
-The words “in the competitive service, an Executive agency, or the government of the District of Columbia” are added on authority of former sections 851, 858, and 869 which are carried into this title. The words “preference eligible” are substituted for “veteran”.
+The words “in the competitive service, an Executive agency, or the government of the District of Columbia” are added on authority of former sections 851, 858, and869 which are carried into this title. The words “preference eligible” are substituted for “veteran”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

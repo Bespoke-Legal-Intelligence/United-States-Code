@@ -8,7 +8,7 @@
 
 #### (2) Interns
 
-&emsp;For the purposes of this section, the term “covered employee” does not include an internas defined in regulations under subsection (c) of this section.
+&emsp;For the purposes of this section, the term “covered employee” does not include an intern as defined in regulations under subsection (c) of this section.
 
 #### (3) Compensatory time
 
@@ -26,7 +26,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;Except as provided in paragraph (3), the regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) of this section except insofar as the Board may determine, for good cause shown and stated together with the regulation, thata modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Irregular work schedules
 
@@ -54,7 +54,7 @@ Section is comprised of section 203 of Pub. L. 104–1. Subsec. (d) of section 2
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–197, §312(a), inserted “and in subsection (c)(4) of this section” after “subsection (c)(3) of this section”.
 
 Subsec. (c)(4). Pub. L. 104–197, §312(b), added par. (4).
 

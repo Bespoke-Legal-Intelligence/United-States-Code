@@ -26,7 +26,7 @@ Pub. L. 104–132, title VIII, §807, Apr. 24, 1996, 110 Stat. 1308, provided th
 
 “(a)
 
-In General.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’),in consultation with the advanced counterfeit deterrence steering committee, shall—
+In General.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’), in consultation with the advanced counterfeit deterrence steering committee, shall—
 
 &emsp;“(1) study the use and holding of United States currency in foreign countries; and
 

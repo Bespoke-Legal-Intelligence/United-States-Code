@@ -168,7 +168,7 @@
 
 #### (i) Conviction reversal
 
-&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of an individual under subsection (a)(2) of this section or clause (i), (ii), (iii), or (iv) of subsection (b)(2)(B) or subsection (b)(3) of this section is reversed, the Secretary shall withdraw the order of debarment.
+&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of an individual under subsection (a)(2) of this section or clause (i), (ii), (iii), or (iv) of subsection\(b)(2)(B) or subsection (b)(3) of this section is reversed, the Secretary shall withdraw the order of debarment.
 
 #### (ii) Application
 
@@ -194,7 +194,7 @@
 
 #### (C) Individuals
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that such individual has provided substantial assistance in the investigations or prosecutions of offenses which are described in subsection (a) or (b) of this section or which relate to any matter under the jurisdiction of the Food and Drug Administration.
 
 #### (D) Secretarial action
 
@@ -264,7 +264,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 &emsp;&emsp;&emsp;(i) that a person has engaged in conduct described in subparagraph (B) of subsection (f)(1) of this section in connection with 2 or more drugs under abbreviated drug applications, or
 
-&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratorypractice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
+&emsp;&emsp;&emsp;(ii) that a person has engaged in flagrant and repeated, material violations of good manufacturing practice or good laboratory practice in connection with the development, manufacturing, or distribution of one or more drugs approved under an abbreviated drug application during a 2-year period, and—
 
 &emsp;&emsp;&emsp;&emsp;(I) such violations may undermine the safety and efficacy of such drugs, and
 
@@ -292,7 +292,7 @@ The Secretary shall withdraw an order of suspension of the distribution of a dru
 
 &emsp;(2) the initial determination was in error.
 
-> The Secretary shall act on a submission of a petition under this subsection within 180 days of the date of its submission and the Secretary may consider the petition concurrently with the suspension proceeding. Any information submitted to the Secretary under this subsection does not constitute an amendment or supplement to a pending or approved abbreviated drug application.
+> The Secretary shall act on a submission of a petition under this subsection within 180 days of the date of its submission and the Secretary may consider the petition concurrently with thesuspension proceeding. Any information submitted to the Secretary under this subsection does not constitute an amendment or supplement to a pending or approved abbreviated drug application.
 
 #### (i) Procedure
 
@@ -322,7 +322,7 @@ Any application for approval of a drug product shall include—
 
 &emsp;For purposes of this section, a person is considered to have been convicted of a criminal offense—
 
-&emsp;&emsp;(A) when a judgment of conviction has been entered against the person by a Federalor State court, regardless of whether there is an appeal pending,
+&emsp;&emsp;(A) when a judgment of conviction has been entered against the person by a Federal or State court, regardless of whether there is an appeal pending,
 
 &emsp;&emsp;(B) when a plea of guilty or nolo contendere by the person has been accepted by a Federal or State court, or
 
@@ -350,7 +350,7 @@ Any application for approval of a drug product shall include—
 
 &emsp;Subsections (c)(3), (d), (e), (i), (j), and (<i>l</i>)(1) of this section apply with respect to a person (other than an individual) or an individual who is debarred under paragraph (1) to the same extent and in the same manner as such subsections apply with respect to a person who is debarred under subsection (a)(1) of this section, or an individual who is debarred under subsection (a)(2) of this section, respectively.
 
-(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
+(June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997,111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610.)
 
 #### Prior Provisions
 

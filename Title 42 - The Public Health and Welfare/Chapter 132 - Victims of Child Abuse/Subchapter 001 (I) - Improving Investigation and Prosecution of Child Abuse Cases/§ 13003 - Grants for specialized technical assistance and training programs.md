@@ -18,7 +18,7 @@ An organization to which a grant is made pursuant to subsection (a) of this sect
 
 #### References in Text
 
-This title, referred to in subsec. (c)(2), means title II of Pub. L. 101–647, known as the Victims of Child Abuse Act of 1990, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 13001 of this title and Tables.
+This title, referred to in subsec. (c)(2), means title II of Pub. L. 101–647, known as the Victims of Child AbuseAct of 1990, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 13001 of this title and Tables.
 
 #### Amendments
 
@@ -28,7 +28,7 @@ This title, referred to in subsec. (c)(2), means title II of Pub. L. 101–647, 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Section Referred to in Other Sections
 

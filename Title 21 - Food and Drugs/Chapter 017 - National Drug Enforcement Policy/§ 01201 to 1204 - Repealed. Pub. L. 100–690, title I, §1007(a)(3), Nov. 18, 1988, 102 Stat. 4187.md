@@ -1,6 +1,6 @@
 ### §§1201 to 1204. Repealed. Pub. L. 100–690, title I, §1007(a)(3), Nov. 18, 1988, 102 Stat. 4187
 
-Section 1201, Pub. L. 98–473, title II, §1302, Oct. 12, 1984, 98 Stat. 2168, set forth Congressional findings anddeclaration of purpose relating to illegal flow of narcotics into United States.
+Section 1201, Pub. L. 98–473, title II, §1302, Oct. 12, 1984, 98 Stat. 2168, set forth Congressional findings and declaration of purpose relating to illegal flow of narcotics into United States.
 
 Section 1202, Pub. L. 98–473, title II, §1303, Oct. 12, 1984, 98 Stat. 2168, established National Drug Enforcement Policy Board.
 

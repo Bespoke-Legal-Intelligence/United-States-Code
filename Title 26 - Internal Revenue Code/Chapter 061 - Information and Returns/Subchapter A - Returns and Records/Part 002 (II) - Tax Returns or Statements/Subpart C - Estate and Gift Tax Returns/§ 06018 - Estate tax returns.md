@@ -12,7 +12,7 @@
 
 #### (3) Adjustment for certain gifts
 
-&emsp;The amount applicable under paragraph (1) and the amount set forth in paragraph (2) shalleach be reduced (but not below zero) by the sum of—
+&emsp;The amount applicable under paragraph (1) and the amount set forth in paragraph (2) shall each be reduced (but not below zero) by the sum of—
 
 &emsp;&emsp;(A) the amount of the adjusted taxable gifts (within the meaning of section 2001(b)) made by the decedent after December 31, 1976, plus
 
@@ -100,7 +100,7 @@ If the executor is unable to make a complete return as to any part of the gross 
 
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in subsec. (a)(3)(B), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, asamended. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (a)(3)(B), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. For complete classification of this Act to the Code, see Tables.
 
 Section 2521 of this title, referred to in subsec. (a)(3)(B), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
 

@@ -16,7 +16,7 @@ Authorization for federal participation.—Notwithstanding section 301 of this t
 
 &emsp;&emsp;(D) reconstruction of a toll-free Federal-aid highway (other than a highway on the Interstate System) and conversion of the highway to a toll facility; and
 
-&emsp;&emsp;(E) preliminary studies to determine the feasibility of a toll facility for which Federalparticipation is authorized under subparagraph (A), (B), (C), or (D);
+&emsp;&emsp;(E) preliminary studies to determine the feasibility of a toll facility for which Federal participation is authorized under subparagraph (A), (B), (C), or (D);
 
 > &emsp;on the same basis and in the same manner as in the construction of free highways under this chapter.
 
@@ -58,7 +58,7 @@ Compliance with federal laws.—As a condition of receiving a loan under this pa
 
 &emsp;&emsp;(C)
 
-Subordination of debt.—The amount of any loan received for a project under this paragraph may be subordinated to any other debt financing for the project.
+Subordination of debt.—The amount of any loan received for a project under thisparagraph may be subordinated to any other debt financing for the project.
 
 &emsp;&emsp;(D)
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by 
 
 “(5)
 
-Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until thescheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991).”
+Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until the scheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991).”
 
 Subsec. (a)(7). Pub. L. 104–59, §313(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows:
 
@@ -172,7 +172,7 @@ Subsec. (j)(10). Pub. L. 100–457, §326(2), added par. (10).
 
 Subsec. (j)(1). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (1) by substituting “(9)” for “(9)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
-Subsec. (j)(3). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(A)\], as amended by Pub. L. 100–457, §335,which directed the amendment of par. (3) by substituting “(9)” for “(7)” was executed by substituting “9” for “7” as the probable intent of Congress.
+Subsec. (j)(3). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(A)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (3) by substituting “(9)” for “(7)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
 Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(B)–(D)\], as amended by Pub. L. 100–457, §335, substituted “States of Pennsylvania and West Virginia” for “State of Pennsylvania” in two places and inserted “States of Georgia and West Virginia,” and “The toll facility in Orange County, California, may be located in more than 1 highway corridor to relieve congestion on existing interstate routes in such County.”
 
@@ -260,7 +260,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;“(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitan planning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
 
-&emsp;“(C) An analysis demonstrating that the facility could not be maintained or improved to meet currentor future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
+&emsp;“(C) An analysis demonstrating that the facility could not be maintained or improved to meet current or future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
 
 &emsp;“(D) A facility management plan that includes—
 
@@ -368,7 +368,7 @@ Section 164 of Pub. L. 95–599, as amended by Pub. L. 96–106, §16, Nov. 19, 
 
 #### Richmond-Petersburg Turnpike
 
-Section 131 of Pub. L. 91–605 provided that: “The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpikeof two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date.”
+Section 131 of Pub. L. 91–605 provided that: “The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpike of two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date.”
 
 #### Section Referred to in Other Sections
 

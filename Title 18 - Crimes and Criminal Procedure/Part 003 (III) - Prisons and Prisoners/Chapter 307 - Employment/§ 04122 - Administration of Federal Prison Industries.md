@@ -42,7 +42,7 @@
 
 (c) Its board of directors may provide for the vocational training of qualified inmates without regard to their industrial or other assignments.
 
-(d)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any department or agency comprising the Department of Defense, to the extent and under terms and conditions agreed upon by theSecretary of Defense, the Attorney General and the Board of Directors of Federal Prison Industries.
+(d)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any department or agency comprising the Department of Defense, to the extent and under terms and conditions agreed upon by the Secretary of Defense, the Attorney General and the Board of Directors of Federal Prison Industries.
 
 (2) Any department or agency of the Department of Defense may, without exchange of funds, transfer to Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under paragraph (1) of this subsection.
 

@@ -24,7 +24,7 @@ In the course of its negotiations, or in the establishment, unilaterally, of the
 
 1982—Subsec. (b)(5). Pub. L. 97–369 struck out par. (5) which directed that the rates provide for revenues sufficient to amortize the principal of the debts and obligations of the Corporation over a period of not to exceed 50 years.
 
-1970—Subsec. (a). Pub. L. 91–469, §43(b)(1), inserted requirement that any formula for a division of revenues which takes into consideration annual debt chargesshall include the total cost, including both interest and debt principal, incurred by the United States in financing activities authorized by this chapter, whether or not reimbursable by the Corporation.
+1970—Subsec. (a). Pub. L. 91–469, §43(b)(1), inserted requirement that any formula for a division of revenues which takes into consideration annual debt charges shall include the total cost, including both interest and debt principal, incurred by the United States in financing activities authorized by this chapter, whether or not reimbursable by the Corporation.
 
 Subsec. (b)(4). Pub. L. 91–469, §43(b)(2), struck out “, payment of interest on the obligations of the Corporation,” after “depreciation”.
 

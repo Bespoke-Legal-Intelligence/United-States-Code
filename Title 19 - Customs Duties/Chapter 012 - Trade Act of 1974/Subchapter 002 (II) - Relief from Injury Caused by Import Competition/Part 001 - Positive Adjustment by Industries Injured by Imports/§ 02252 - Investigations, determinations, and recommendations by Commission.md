@@ -22,7 +22,7 @@
 
 (B) A request for any consultation under subparagraph (A) must be made to the Trade Representative. Upon receiving such a request, the Trade Representative shall confer with the petitioner and provide such assistance, including publication of appropriate notice in the Federal Register, as may be practicable in obtaining other participants in the consultation. No consultation may occur under subparagraph (A) unless the Trade Representative, or his delegate, is in attendance.
 
-(6)(A) In the course of any investigation under subsection (b) of this section, the Commissionshall seek information (on a confidential basis, to the extent appropriate) on actions being taken, or planned to be taken, or both, by firms and workers in the industry to make a positive adjustment to import competition.
+(6)(A) In the course of any investigation under subsection (b) of this section, the Commission shall seek information (on a confidential basis, to the extent appropriate) on actions being taken, or planned to be taken, or both, by firms and workers in the industry to make a positive adjustment to import competition.
 
 (B) Regardless whether an adjustment plan is submitted under paragraph (4) by the petitioner, if the Commission makes an affirmative determination under subsection (b) of this section, any—
 
@@ -40,7 +40,7 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], and title II of the United States-Jordan Free Trade Area Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], title II of the United States-Jordan Free Trade Area Implementation Act, title III of the United States-Chile Free Trade Agreement Implementation Act, and title III of the United States-Singapore Free Trade Agreement Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
@@ -80,7 +80,7 @@
 
 &emsp;(A) consider the condition of the domestic industry over the course of the relevant business cycle, but may not aggregate the causes of declining demand associated with a recession or economic downturn in the United States economy into a single cause of serious injury or threat of injury; and
 
-&emsp;(B) examine factors other than imports which may be a cause of serious injury, orthreat of serious injury, to the domestic industry.
+&emsp;(B) examine factors other than imports which may be a cause of serious injury, or threat of serious injury, to the domestic industry.
 
 > The Commission shall include the results of its examination under subparagraph (B) in the report submitted by the Commission to the President under subsection (e) of this section.
 
@@ -132,7 +132,7 @@
 
 (D) At the request of the Commission, the Secretary of Agriculture shall promptly provide to the Commission any relevant information that the Department of Agriculture may have for purposes of making determinations and findings under this subsection.
 
-(E) Whenever the Commission makes an affirmative preliminary determination under subparagraph (C), the Commission shall find theamount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(E) Whenever the Commission makes an affirmative preliminary determination under subparagraph (C), the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (F) The Commission shall immediately report to the President its determination under subparagraph (C) and, if the determination is affirmative, the finding under subparagraph (E).
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
-(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (withthe exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
+(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
 
 #### (g) Expedited consideration of adjustment assistance petitions
 
@@ -290,9 +290,13 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250; Pub. L. 108–77, title III, §316, Sept. 3, 2003, 117 Stat. 937; Pub. L. 108–78, title III, §316, Sept. 3, 2003, 117 Stat. 967.)
 
-#### Termination of Amendment
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–78, see Effective and Termination Dates of 2003 Amendments note below.</i>
+
+<i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendments note below.</i>
 
 <i>For termination of amendment by section 404(c) of Pub. L. 107–43, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -300,13 +304,21 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 The antitrust laws, referred to in subsec. (a)(7), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally tosubpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
+
+Title III of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–77, Sept. 3, 2003, 117 Stat. 909, which is set out in a note under section 3805 of this title.
+
+Title III of the United States-Singapore Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–78, Sept. 3, 2003, 117 Stat. 948, which is set out in a note under section 3805 of this title.
 
 The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
+
+2003—Subsec. (a)(8). Pub. L. 108–78, §§107(c), 316, in first sentence, temporarily struck out “and” before “title III of the United States-Chile” and inserted before period at end “, and title III of the United States-Singapore Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2003 Amendments note below.
+
+Pub. L. 108–77, §§107(c), 316, in first sentence, temporarily struck out “and” before “title II” and inserted before period at end “, and title III of the United States-Chile Free Trade Agreement Implementation Act”. See Effective and Termination Dates of 2003 Amendments note below.
 
 2001—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted “, part 1” for “and part 1” and inserted before period at end “, and title II of the United States-Jordan Free Trade Area Implementation Act”. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -365,6 +377,12 @@ Subsec. (d)(1)(C). Pub. L. 103–182, §315(2), in cl. (i) and provisions before
 Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 1988—Pub. L. 100–418, in amending section generally, substituted provisions relating to investigations, determinations and recommendations by Commission for provisions relating to Presidential action after investigations. See section 2253 of this title.
+
+#### Effective and Termination Dates of 2003 Amendments
+
+Amendment by Pub. L. 108–78 effective on the date the United States-Singapore Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–78, set out in a note under section 3805 of this title.
+
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 

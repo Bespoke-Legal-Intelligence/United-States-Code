@@ -12,7 +12,7 @@ Architectural, Engineering, and Design Contracts.—A contract or requirement fo
 
 Efficient Procurement.—A recipient may award a procurement contract under this chapter to other than the lowest bidder when the award furthers an objective consistent with the purposes of this chapter, including improved long-term operating efficiency and lower long-term costs.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat.3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302.)
 
 Historical and Revision Notes
 
@@ -50,7 +50,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(3); added Apr. 2, 1987, Pu
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(4); added Apr. 2, 1987, Pub. L. 100–17, §316, 101 Stat. 232.
 
-In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency inthe revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49 App.:1608(b)(2) (last sentence) is omitted as executed.
 

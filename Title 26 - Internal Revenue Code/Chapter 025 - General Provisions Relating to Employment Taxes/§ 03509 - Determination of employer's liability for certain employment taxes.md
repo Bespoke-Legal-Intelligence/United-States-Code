@@ -10,7 +10,7 @@ If any employer fails to deduct and withhold any tax under chapter 24 or subchap
 
 #### (2) Employee social security tax
 
-&emsp;Taxes under subchapter A of chapter 21 with respect to such employee shall be determinedas if the taxes imposed under such subchapter were 20 percent of the amount imposed under such subchapter without regard to this subparagraph.
+&emsp;Taxes under subchapter A of chapter 21 with respect to such employee shall be determined as if the taxes imposed under such subchapter were 20 percent of the amount imposed under such subchapter without regard to this subparagraph.
 
 #### (b) Employer's liability increased where employer disregards reporting requirements
 
@@ -28,7 +28,7 @@ If any employer fails to deduct and withhold any tax under chapter 24 or subchap
 
 #### (c) Section not to apply in cases of intentional disregard
 
-This section shall not apply to the determination of the employer's liability for tax under chapter 24 or subchapter A of chapter 21 if such liability is due to the employer's intentional disregard of the requirement to deduct and withhold such tax.
+This section shall not apply to the determination of the employer's liability for tax underchapter 24 or subchapter A of chapter 21 if such liability is due to the employer's intentional disregard of the requirement to deduct and withhold such tax.
 
 #### (d) Special rules
 

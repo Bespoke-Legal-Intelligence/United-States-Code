@@ -8,13 +8,13 @@
 
 &emsp;(A) continue in the service of the fellow's agency at the end of the fellowship for a period of at least 2 years unless the fellow is involuntarily separated from the service of such agency; and
 
-&emsp;(B) pay to the United States Information Agency any additional expenses incurred by the Federal Government in connection with the fellowship if the fellow is voluntarily separated from service with the fellow's agency before the end of the period for which the fellow has agreed to continue in the service of such agency.
+&emsp;(B) pay to the United States Information Agency any additional expenses incurred bythe Federal Government in connection with the fellowship if the fellow is voluntarily separated from service with the fellow's agency before the end of the period for which the fellow has agreed to continue in the service of such agency.
 
 (3) The payment agreed to under paragraph (2)(B) may not be required of a fellow who leaves the service of such agency to enter into the service of another agency in any branch of the United States Government unless the head of the agency that authorized the fellowship notifies the employee before the effective date of entry into the service of the other agency that payment will be required under this section.
 
 #### (b) Status as Government employee
 
-A fellow detailed under subsection (a) of this section is deemed, for the purpose of preservingallowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with section 5536 of title 5.
+A fellow detailed under subsection (a) of this section is deemed, for the purpose of preserving allowances, privileges, rights, seniority, and other benefits, an employee of the agency from which detailed, and is entitled to pay, allowances, and benefits from funds available to that agency. The authorization and payment of such allowances and other benefits from appropriations available therefore is deemed to comply with section 5536 of title 5.
 
 #### (c) Reimbursement
 

@@ -30,7 +30,7 @@ The Secretary is authorized to accept and hold in trust for the benefit of the W
 
 #### (g) Application
 
-The terms of this section shall apply to land in the town of Gay Head. Any land acquired bythe Wampanoag Tribal Council of Gay Head, Inc., that is located outside the town of Gay Head shall be subject to all the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts.
+The terms of this section shall apply to land in the town of Gay Head. Any land acquired by the Wampanoag Tribal Council of Gay Head, Inc., that is located outside the town of Gay Head shall be subject to all the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts.
 
 #### (h) Spending authority
 

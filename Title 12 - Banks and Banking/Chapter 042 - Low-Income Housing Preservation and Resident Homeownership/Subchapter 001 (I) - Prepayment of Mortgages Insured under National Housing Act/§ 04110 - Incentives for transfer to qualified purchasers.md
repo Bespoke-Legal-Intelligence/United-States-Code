@@ -16,7 +16,7 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (3) Information
 
-&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with information on the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
+&emsp;Within 30 days of receipt of an expression of interest by a priority purchaser, the Secretary shall provide such purchaser with informationon the assistance available from the Federal Government to facilitate a transfer and the owner shall provide appropriate information on the housing, as determined by the Secretary.
 
 #### (c) Right of refusal for other qualified purchasers
 
@@ -26,7 +26,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (1) Approval
 
-&emsp;If the qualified purchaser is a resident council, the Secretary may not approve a plan ofaction for assistance under this section unless the council's proposed resident homeownership program meets the requirements under section 4116 of this title. For all other qualified purchasers, the Secretary may not approve the plan unless the Secretary finds that the criteria for approval under section 4112 of this title have been satisfied.
+&emsp;If the qualified purchaser is a resident council, the Secretary may not approve a plan of action for assistance under this section unless the council's proposed resident homeownership program meets the requirements under section 4116 of this title. For all other qualified purchasers, the Secretary may not approve the plan unless the Secretary finds that the criteria for approval under section 4112 of this title have been satisfied.
 
 #### (2) Amount
 

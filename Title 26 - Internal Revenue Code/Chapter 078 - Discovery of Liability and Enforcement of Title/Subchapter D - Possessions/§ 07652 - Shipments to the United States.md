@@ -26,7 +26,7 @@
 
 #### (3) Disposition of internal revenue collections
 
-&emsp;The Secretary shall determine the amount of all taxes imposed by, and collected under the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+&emsp;The Secretary shall determine the amount of all taxes imposed by, and collected underthe internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
 &emsp;&emsp;(A) The payment of an estimated amount shall be made to the government of the Virgin Islands before the commencement of each fiscal year as set forth in section 4(c)(2) of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved August 18, 1978 (48 U.S.C. 1645), as in effect on the date of the enactment of the Trade and Development Act of 2000. The payment so made shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
 
@@ -100,7 +100,7 @@ For purposes of this section, with respect to taxes imposed under section 5001 o
 
 #### (g) Drawback for medicinal alcohol, etc.
 
-In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
+In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts,or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
 
 &emsp;(1) subpart F of part II of subchapter A of chapter 51 shall be applied as if—
 
@@ -132,7 +132,7 @@ The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred t
 
 2002—Subsec. (f)(1). Pub. L. 107–147 substituted “January 1, 2004” for “January 1, 2002”.
 
-2000—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarterending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+2000—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
 &emsp;“(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
 
@@ -226,7 +226,7 @@ limitation.—In the case of such articles brought into the United States after 
 
 &emsp;&emsp;“(i) $130,000,000, over
 
-&emsp;&emsp;“(ii) the aggregate amount payable to Puerto Rico under section 7652(a) of the Internal RevenueCode of 1986 \[formerly I.R.C. 1954\] with respect to such articles which were brought into the United States after June 30, 1983, and before March 1, 1984, and which would not meet the requirements of section 7652(c) of such Code.
+&emsp;&emsp;“(ii) the aggregate amount payable to Puerto Rico under section 7652(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to such articles which were brought into the United States after June 30, 1983, and before March 1, 1984, and which would not meet the requirements of section 7652(c) of such Code.
 
 &emsp;“(C) $75,000,000
 

@@ -1,6 +1,6 @@
 ### §7701. Purpose
 
-In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 574 of title 50, Appendix, place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet challenging State standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
+In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 571 of title 50, Appendix, place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet challenging State standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
 
 &emsp;(1) experience a substantial and continuing financial burden due to the acquisition of real property by the United States;
 
@@ -12,7 +12,7 @@ In order to fulfill the Federal responsibility to assist with the provision of e
 
 &emsp;(5) need special assistance with capital expenditures for construction activities because of the enrollments of substantial numbers of children who reside on Federal lands and because of the difficulty of raising local revenue through bond referendums for capital projects due to the inability to tax Federal property.
 
-(Pub. L. 89–10, title VIII, §8001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368.)
+(Pub. L. 89–10, title VIII, §8001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368; Pub. L. 108–189, §2(f), Dec. 19, 2003, 117 Stat. 2866.)
 
 #### Prior Provisions
 
@@ -21,6 +21,8 @@ A prior section 8001 of Pub. L. 89–10 was classified to section 3351 of this t
 Another prior section 8001 of Pub. L. 89–10 was renumbered section 9001 and was classified to section 3381 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Amendments
+
+2003—Pub. L. 108–189 substituted “section 571” for “section 574” in introductory provisions.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(1)\], in introductory provisions, inserted “in a manner that promotes control by local educational agencies with little or no Federal or State involvement” after “educational services to federally connected children” and “, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 574 of title 50, Appendix,” after “certain activities of the Federal Government”.
 

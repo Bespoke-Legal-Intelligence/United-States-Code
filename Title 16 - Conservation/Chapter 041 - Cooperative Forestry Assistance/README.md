@@ -33,7 +33,14 @@
 | (f) | Duties of owners. |
 | (g) | Stewardship recognition. |
 | (h) | Authorization of appropriations. |
-| [2103b.](%C2%A7%2002103b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VIII%2C%20%C2%A78001%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20468.md) | Repealed. |
+| [2103b.](%C2%A7%2002103b%20-%20Watershed%20forestry%20assistance%20program.md) | Watershed forestry assistance program. |
+| (a) | Definition of nonindustrial private forest land. |
+| (b) | General authority and purpose. |
+| (c) | Technical assistance to protect water quality. |
+| (d) | Watershed forestry cost-share program. |
+| (e) | Distribution. |
+| (f) | Willing owners. |
+| (g) | Authorization of appropriations. |
 | [2103c.](%C2%A7%2002103c%20-%20Forest%20Legacy%20Program.md) | Forest Legacy Program. |
 | (a) | Establishment and purpose. |
 | (b) | State and regional forest legacy programs. |
@@ -144,7 +151,7 @@ This chapter is referred to in sections 1606, 1650, 2106a of this title; title 7
 - [&sect; 02102 - Rural forestry assistance](%C2%A7%2002102%20-%20Rural%20forestry%20assistance.md)
 - [&sect; 02103 - Forest land enhancement program](%C2%A7%2002103%20-%20Forest%20land%20enhancement%20program.md)
 - [&sect; 02103a - Forest Stewardship Program](%C2%A7%2002103a%20-%20Forest%20Stewardship%20Program.md)
-- [&sect; 02103b - Repealed. Pub. L. 107&#8211;171, title VIII, &sect;8001(a), May 13, 2002, 116 Stat. 468](%C2%A7%2002103b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VIII%2C%20%C2%A78001%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20468.md)
+- [&sect; 02103b - Watershed forestry assistance program](%C2%A7%2002103b%20-%20Watershed%20forestry%20assistance%20program.md)
 - [&sect; 02103c - Forest Legacy Program](%C2%A7%2002103c%20-%20Forest%20Legacy%20Program.md)
 - [&sect; 02104 - Forest health protection](%C2%A7%2002104%20-%20Forest%20health%20protection.md)
 - [&sect; 02105 - Urban and community forestry assistance](%C2%A7%2002105%20-%20Urban%20and%20community%20forestry%20assistance.md)

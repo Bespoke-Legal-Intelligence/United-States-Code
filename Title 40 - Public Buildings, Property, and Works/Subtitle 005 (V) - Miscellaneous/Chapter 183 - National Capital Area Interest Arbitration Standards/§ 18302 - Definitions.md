@@ -12,7 +12,7 @@ Arbitration.—The term “arbitration”—
 
 &emsp;(2)
 
-Arbitrator.—The term “arbitrator” refers to either a single arbitrator, or a board of arbitrators, chosen under applicable procedures.
+Arbitrator.—The term “arbitrator” refers to either a single arbitrator, or a board ofarbitrators, chosen under applicable procedures.
 
 &emsp;(3)
 

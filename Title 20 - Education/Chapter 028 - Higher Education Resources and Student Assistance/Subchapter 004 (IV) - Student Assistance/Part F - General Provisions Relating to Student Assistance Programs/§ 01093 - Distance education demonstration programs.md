@@ -24,7 +24,7 @@ It is the purpose of this section—
 
 #### (2) Waivers
 
-&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortiumparticipating in a Distance Education Demonstration Program, the requirements of section 1087<i>ll</i>(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(<i>l</i>)(1) of this title, or one or more of the regulations prescribed under this part or part E of this subchapter which inhibit the operation of quality distance education programs.
+&emsp;The Secretary is authorized to waive for any institution of higher education, system of institutions of higher education, or consortium participating in a Distance Education Demonstration Program, the requirements of section 1087<i>ll</i>(5) of this title as the section relates to computer costs, sections 1088(a) and 1088(b) of this title as such sections relate to requirements for a minimum number of weeks of instruction, sections 1002(a)(3)(A), 1002(a)(3)(B), and 1091(<i>l</i>)(1) of this title, or one or more of the regulations prescribed under this part or part E of this subchapter which inhibit the operation of quality distance education programs.
 
 #### (3) Eligible applicants
 

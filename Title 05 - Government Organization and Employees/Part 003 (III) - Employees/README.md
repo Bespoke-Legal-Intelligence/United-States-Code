@@ -45,7 +45,7 @@
 | :--- | :---: | ---: |
 | [<b>51.</b>](Subpart%20D%20-%20Pay%20and%20Allowances/Chapter%20051%20-%20Classification/README.md) | <b>Classification</b> | <b>5101</b> |
 | [<b>53.</b>](Subpart%20D%20-%20Pay%20and%20Allowances/Chapter%20053%20-%20Pay%20Rates%20and%20Systems/README.md) | <b>Pay Rates and Systems</b> | <b>5301</b> |
-| <b>\[54.</b> | <b>Repealed.\]</b> |  |
+| [<b>54.</b>](Subpart%20D%20-%20Pay%20and%20Allowances/Chapter%20054%20-%20Human%20Capital%20Performance%20Fund/README.md) | <b>Human Capital Performance Fund</b> | <b>5401</b> |
 | [<b>55.</b>](Subpart%20D%20-%20Pay%20and%20Allowances/Chapter%20055%20-%20Pay%20Administration/README.md) | <b>Pay Administration</b> | <b>5501</b> |
 | [<b>57.</b>](Subpart%20D%20-%20Pay%20and%20Allowances/Chapter%20057%20-%20Travel%2C%20Transportation%2C%20and%20Subsistence/README.md) | <b>Travel, Transportation, and Subsistence</b> | <b>5701</b> |
 | [<b>59.</b>](Subpart%20D%20-%20Pay%20and%20Allowances/Chapter%20059%20-%20Allowances/README.md) | <b>Allowances</b> | <b>5901</b> |
@@ -107,10 +107,13 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>97.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md) | <b>Department of Homeland Security</b> | <b>9701</b> |
+| [<b>99.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20099%20-%20Department%20of%20Defense%20National%20Security%20Personnel%20System/README.md) | <b>Department of Defense National Security Personnel System</b> | <b>9901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title XI, §§1101(a)(2), 1129(b), Nov. 24, 2003, 117 Stat. 1633, 1645, added items for chapters 54 and 99.
 
 2002—Pub. L. 107–347, title II, §209(c)(3), Dec. 17, 2002, 116 Stat. 2930, added item for chapter 37.
 

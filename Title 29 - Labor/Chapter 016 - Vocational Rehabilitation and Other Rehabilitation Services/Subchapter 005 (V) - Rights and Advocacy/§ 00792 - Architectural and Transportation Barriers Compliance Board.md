@@ -128,7 +128,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 (B) Any funds appropriated to such a department or agency for the purpose of providing technical assistance may be transferred to the Access Board. Any funds appropriated to the Access Board for the purpose of providing such technical assistance may be transferred to such department or agency.
 
-(C) The Access Board may arrange to carry out the technical assistance responsibilities of the Board under this section through such otherdepartments and agencies for such periods as the Board determines to be appropriate.
+(C) The Access Board may arrange to carry out the technical assistance responsibilities of the Board under this section through such other departments and agencies for such periods as the Board determines to be appropriate.
 
 (D) The Access Board shall establish a procedure to ensure separation of its compliance and technical assistance responsibilities under this section.
 
@@ -170,7 +170,7 @@ Subsecs. (h) and (i)(3) of this section, which required the Board to submit an a
 
 Subsec. (b)(2). Pub. L. 105–220, §408(a)(2)(B)(i), substituted “information” for “guidelines”.
 
-Subsec. (b)(3). Pub. L. 105–220, §408(a)(2)(B)(ii), added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to theAct commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
+Subsec. (b)(3). Pub. L. 105–220, §408(a)(2)(B)(ii), added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
 
 Subsec. (b)(11). Pub. L. 105–220, §408(a)(2)(B)(iii)–(v), added par. (11).
 
@@ -234,7 +234,7 @@ Pub. L. 102–569, §102(p)(30), substituted “individuals with disabilities”
 
 Subsec. (h)(2). Pub. L. 102–569, §504(g)(4), which directed the addition of par. (2) “at the end” of subsec. (h), was executed by adding par. (2) before par. (3) to reflect the probable intent of Congress. Former par. (2) redesignated (1).
 
-Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 through 1997.” for “fiscal years 1987through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
+Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 through 1997.” for “fiscal years 1987 through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
 
 1991—Subsec. (a)(1)(B)(ix). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 

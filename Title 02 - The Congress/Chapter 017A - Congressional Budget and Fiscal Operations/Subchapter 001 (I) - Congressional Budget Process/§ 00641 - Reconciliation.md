@@ -52,7 +52,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
 
-(2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendationthat shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
+(2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendation that shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
 (B) Upon the submission to the Senate of a conference report recommending a reconciliation bill or resolution in which a committee shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
@@ -84,13 +84,13 @@ It shall not be in order in the House of Representatives to consider any resolut
 
 #### (g) Limitation on changes to Social Security Act
 
-Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
+Notwithstanding any other provision of law, it shall not be in order in the Senate or the Houseof Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act \[42 U.S.C. 401 et seq.\].
 
 (Pub. L. 93–344, title III, §310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, §201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, §10111, Aug. 5, 1997, 111 Stat. 685.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classificationof this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -98,11 +98,11 @@ Section was formerly classified to section 1331 of Title 31 prior to the general
 
 #### Amendments
 
-1997—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
+<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–33, §10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
 Subsec. (c)(1)(A)(ii). Pub. L. 105–33, §10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
 
-1990—Subsec. (a)(4). Pub. L. 101–508, §13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508, §13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
 
 Subsec. (c). Pub. L. 101–508, §13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
 
@@ -110,7 +110,7 @@ Subsec. (f). Pub. L. 101–508, §13210(2), struck out par. (1) heading “In ge
 
 Subsec. (g). Pub. L. 101–508, §13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “section 907d of this title” for “section 904(b) of this title”.
 
-1985—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
+<b>1985</b>—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
 
 Subsec. (a). Pub. L. 99–177 amended subsec. (a) generally, inserting provisions relating to new entitlement authority and credit authority, and deleting provision that any such concurrent resolution could be reported, and the report accompanying it could be filed, in either House notwithstanding that that House was not in session on the day on which such concurrent resolution is reported.
 

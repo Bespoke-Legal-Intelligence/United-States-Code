@@ -28,7 +28,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (1) Subsection (a) of this section shall not apply to a particular activity of longshore work in and about a local port if—
 
-&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
+&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshorework and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
 
 &emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
@@ -52,7 +52,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) of this section is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) of this section (and accompanying documentation) and each such list filed by the entity.
 
-(B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the lastsentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
+(B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
 (ii) Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
 

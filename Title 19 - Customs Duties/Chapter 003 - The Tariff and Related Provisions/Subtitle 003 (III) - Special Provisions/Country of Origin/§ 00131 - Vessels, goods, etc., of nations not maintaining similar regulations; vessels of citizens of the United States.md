@@ -6,7 +6,7 @@ Section 130 of this title shall not apply to vessels or goods, wares, or merchan
 
 #### Codification
 
-Section is a composite of acts Oct. 3, 1913, ch. 16, and Mar. 4, 1915, ch. 171, as amended. The words “nor to any vessel owned by citizens of the United States but not a vessel of the United States if such vessel after entering an American port shall, before leaving the same, be documented under chapter 121 of title 46” are based on the nonspecific amendment of act Oct. 3, 1913, by act Mar. 4, 1915, as amended.
+Section is a composite of acts Oct. 3, 1913, ch. 16, and Mar. 4, 1915, ch. 171, as amended. The words “nor to anyvessel owned by citizens of the United States but not a vessel of the United States if such vessel after entering an American port shall, before leaving the same, be documented under chapter 121 of title 46” are based on the nonspecific amendment of act Oct. 3, 1913, by act Mar. 4, 1915, as amended.
 
 #### Amendments
 

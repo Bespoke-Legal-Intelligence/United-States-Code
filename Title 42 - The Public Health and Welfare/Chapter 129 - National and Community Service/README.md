@@ -258,6 +258,12 @@ I74subpart a—school-based programs for students
 | (e) | Interest payments during forbearance on loan repayment. |
 | (f) | Exception. |
 | (g) | “Institution of higher education” defined. |
+| [12605\.](Subchapter%20001%20%28I%29%20-%20National%20and%20Community%20Service%20State%20Grant%20Program/Division%20D%20-%20National%20Service%20Trust%20and%20Provision%20of%20National%20Service%20Educational%20Awards/%C2%A7%2012605%20-%20Process%20of%20approval%20of%20national%20service%20positions.md) | Process of approval of national service positions. |
+| (a) | Definitions. |
+| (b) | Timing and recording requirements. |
+| (c) | Reserve account. |
+| (d) | Audits. |
+| (e) | Availability of amounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

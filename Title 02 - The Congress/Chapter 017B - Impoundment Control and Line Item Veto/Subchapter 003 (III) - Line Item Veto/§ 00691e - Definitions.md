@@ -48,7 +48,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) which does not have a preamble; and
 
-&emsp;&emsp;(C) which provides only the following after the enacting clause: “That Congress disapproves of cancellations \_\_\_\_\_\_\_\_”, the blank space being filled in with a list by reference number of one or more cancellations contained in the President's special message, “as transmitted by the President in a special message on \_\_\_\_\_\_\_\_”, the blank space being filled in with the appropriate date, “regarding \_\_\_\_\_\_\_\_.”, the blank space being filled in with the public law number to which the special message relates.
+&emsp;&emsp;(C) which provides only the following after the enacting clause: “That Congress disapproves of cancellations \_\_\_\_\_\_\_\_”, theblank space being filled in with a list by reference number of one or more cancellations contained in the President's special message, “as transmitted by the President in a special message on \_\_\_\_\_\_\_\_”, the blank space being filled in with the appropriate date, “regarding \_\_\_\_\_\_\_\_.”, the blank space being filled in with the public law number to which the special message relates.
 
 #### (7) Dollar amount of discretionary budget authority
 
@@ -138,7 +138,7 @@ As used in this subchapter:
 
 #### Amendments
 
-1997—Par. (7)(A)(iv). Pub. L. 105–33 substituted “; or” for “; and”.
+<b>1997</b>—Par. (7)(A)(iv). Pub. L. 105–33 substituted “; or” for “; and”.
 
 #### Section Referred to in Other Sections
 

@@ -25,6 +25,7 @@
 | [304\.](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md) | Special pay: diving duty. |
 | [305\.](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md) | Special pay: hardship duty pay. |
 | [305a.](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md) | Special pay: career sea pay. |
+| [305b.](%C2%A7%2000305b%20-%20Special%20pay%20service%20as%20member%20of%20Weapons%20of%20Mass%20Destruction%20Civil%20Support%20Team.md) | Special pay: service as member of Weapons of Mass Destruction Civil Support Team. |
 | [306\.](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md) | Special pay: officers holding positions of unusual responsibility and of critical nature. |
 | [306a.](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
 | [307\.](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md) | Special pay: special duty assignment pay for enlisted members. |
@@ -47,7 +48,7 @@
 | [312b.](%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md) | Special pay: nuclear career accession bonus. |
 | [312c.](%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md) | Special pay: nuclear career annual incentive bonus. |
 | \[313. | Repealed.\] |
-| [314\.](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20enlisted%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay or bonus: qualified enlisted members extending duty at designated locations overseas. |
+| [314\.](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md) | Special pay or bonus: qualified members extending duty at designated locations overseas. |
 | [315\.](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md) | Special pay: engineering and scientific career continuation pay. |
 | [316\.](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md) | Special pay: foreign language proficiency pay. |
 | [316a.](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md) | Waiver of certification requirement. |
@@ -60,10 +61,13 @@
 | [323\.](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20a%20critical%20military%20skill.md) | Special pay: retention incentives for members qualified in a critical military skill. |
 | [324\.](%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md) | Special pay: accession bonus for new officers in critical skills. |
 | [325\.](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md) | Incentive bonus: savings plan for education expenses and other contingencies. |
+| [326\.](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md) | Incentive bonus: conversion to military occupational specialty to ease personnel shortage. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title VI, §§621(a)(2)(B), 624(b), 625(b), Nov. 24, 2003, 117 Stat. 1505–1507, added items 305b and 326 and substituted “qualified members” for “qualified enlisted members” in item 314.
 
 2002—Pub. L. 107–314, div. A, title VI, §616(a)(2), Dec. 2, 2002, 116 Stat. 2570, added item 307a.
 
@@ -163,6 +167,7 @@ This chapter is referred to in sections 907, 909, 1003 of this title; title 5 se
 - [&sect; 00304 - Special pay diving duty](%C2%A7%2000304%20-%20Special%20pay%20diving%20duty.md)
 - [&sect; 00305 - Special pay hardship duty pay](%C2%A7%2000305%20-%20Special%20pay%20hardship%20duty%20pay.md)
 - [&sect; 00305a - Special pay career sea pay](%C2%A7%2000305a%20-%20Special%20pay%20career%20sea%20pay.md)
+- [&sect; 00305b - Special pay service as member of Weapons of Mass Destruction Civil Support Team](%C2%A7%2000305b%20-%20Special%20pay%20service%20as%20member%20of%20Weapons%20of%20Mass%20Destruction%20Civil%20Support%20Team.md)
 - [&sect; 00306 - Special pay officers holding positions of unusual responsibility and of critical nature](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md)
 - [&sect; 00306a - Special pay members assigned to international military headquarters](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md)
 - [&sect; 00307 - Special pay special duty assignment pay for enlisted members](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md)
@@ -185,7 +190,7 @@ This chapter is referred to in sections 907, 909, 1003 of this title; title 5 se
 - [&sect; 00312b - Special pay nuclear career accession bonus](%C2%A7%2000312b%20-%20Special%20pay%20nuclear%20career%20accession%20bonus.md)
 - [&sect; 00312c - Special pay nuclear career annual incentive bonus](%C2%A7%2000312c%20-%20Special%20pay%20nuclear%20career%20annual%20incentive%20bonus.md)
 - [&sect; 00313 - Repealed. Pub. L. 96&#8211;513, title IV, &sect;414(a), Dec. 12, 1980, 94 Stat. 2906](%C2%A7%2000313%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20IV%2C%20%C2%A7414%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202906.md)
-- [&sect; 00314 - Special pay or bonus qualified enlisted members extending duty at designated locations overseas](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20enlisted%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
+- [&sect; 00314 - Special pay or bonus qualified members extending duty at designated locations overseas](%C2%A7%2000314%20-%20Special%20pay%20or%20bonus%20qualified%20members%20extending%20duty%20at%20designated%20locations%20overseas.md)
 - [&sect; 00315 - Special pay engineering and scientific career continuation pay](%C2%A7%2000315%20-%20Special%20pay%20engineering%20and%20scientific%20career%20continuation%20pay.md)
 - [&sect; 00316 - Special pay foreign language proficiency pay](%C2%A7%2000316%20-%20Special%20pay%20foreign%20language%20proficiency%20pay.md)
 - [&sect; 00316a - Waiver of certification requirement](%C2%A7%2000316a%20-%20Waiver%20of%20certification%20requirement.md)
@@ -198,3 +203,4 @@ This chapter is referred to in sections 907, 909, 1003 of this title; title 5 se
 - [&sect; 00323 - Special pay retention incentives for members qualified in a critical military skill](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20a%20critical%20military%20skill.md)
 - [&sect; 00324 - Special pay accession bonus for new officers in critical skills](%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md)
 - [&sect; 00325 - Incentive bonus savings plan for education expenses and other contingencies](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md)
+- [&sect; 00326 - Incentive bonus conversion to military occupational specialty to ease personnel shortage](%C2%A7%2000326%20-%20Incentive%20bonus%20conversion%20to%20military%20occupational%20specialty%20to%20ease%20personnel%20shortage.md)

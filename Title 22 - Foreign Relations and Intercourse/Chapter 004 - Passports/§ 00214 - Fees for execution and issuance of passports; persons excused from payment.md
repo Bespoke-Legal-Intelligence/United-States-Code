@@ -26,7 +26,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §233(c)\], Nov. 29,
 
 #### Effective and Termination Date of 1971 Amendment
 
-Section 2 of Pub. L. 92–14, as amended by Pub. L. 93–126, §8, Oct. 18, 1973, 87 Stat. 453, provided that: “The amendment made by this Act \[amending this section\] shall become effective on the date of enactment \[May 14, 1971\] and shall continue in effect until June 30, 1974.”
+Section 2 of Pub. L. 92–14, as amended by Pub. L. 93–126, §8, Oct. 18, 1973, 87 Stat. 453, provided that: “Theamendment made by this Act \[amending this section\] shall become effective on the date of enactment \[May 14, 1971\] and shall continue in effect until June 30, 1974.”
 
 #### Effective Date of 1968 Amendment
 

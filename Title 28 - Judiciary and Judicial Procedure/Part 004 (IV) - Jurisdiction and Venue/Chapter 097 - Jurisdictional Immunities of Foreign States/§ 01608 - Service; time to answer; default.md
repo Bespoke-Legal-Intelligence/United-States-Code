@@ -18,7 +18,7 @@
 
 &emsp;(2) if no special arrangement exists, by delivery of a copy of the summons and complaint either to an officer, a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process in the United States; or in accordance with an applicable international convention on service of judicial documents; or
 
-&emsp;(3) if service cannot be made under paragraphs (1) or (2), and if reasonably calculated to give actual notice, by delivery of a copy of the summons and complaint, together with atranslation of each into the official language of the foreign state—
+&emsp;(3) if service cannot be made under paragraphs (1) or (2), and if reasonably calculated to give actual notice, by delivery of a copy of the summons and complaint, together with a translation of each into the official language of the foreign state—
 
 &emsp;&emsp;(A) as directed by an authority of the foreign state or political subdivision in response to a letter rogatory or request or
 

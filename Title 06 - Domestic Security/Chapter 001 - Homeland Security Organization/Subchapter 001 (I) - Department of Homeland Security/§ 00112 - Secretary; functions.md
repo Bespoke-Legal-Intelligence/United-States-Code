@@ -66,7 +66,7 @@ The Secretary shall appoint a Special Assistant to the Secretary who shall be re
 
 #### (g) Standards policy
 
-All standards activities of the Department shall be conducted in accordance with section12(d) of the National Technology Transfer Advancement Act of 1995 (15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
+All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 (15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
 
 (Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142.)
 

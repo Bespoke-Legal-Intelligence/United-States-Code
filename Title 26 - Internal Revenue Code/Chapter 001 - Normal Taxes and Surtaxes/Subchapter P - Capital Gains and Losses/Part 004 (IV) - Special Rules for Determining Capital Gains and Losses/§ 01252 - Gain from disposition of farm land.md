@@ -73,5 +73,5 @@ Section 214(c) of Pub. L. 91–172 provided that: “The amendments made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 341, 751 of this title.
+This section is referred to in sections 170, 751 of this title.
 

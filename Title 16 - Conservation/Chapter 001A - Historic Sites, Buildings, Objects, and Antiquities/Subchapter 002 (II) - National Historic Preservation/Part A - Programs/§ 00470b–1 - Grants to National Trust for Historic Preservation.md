@@ -12,5 +12,5 @@ There are authorized to be appropriated such sums as may be necessary for the gr
 
 #### Codification
 
-Section was enacted as part of the Demonstration Cities and Metropolitan Development Act of 1966, and not as part of the National Historic Preservation Act, Pub. L. 89–665, which is classified generally to this subchapter.
+Section was enacted as part of the Demonstration Cities and Metropolitan Development Act of 1966, andnot as part of the National Historic Preservation Act, Pub. L. 89–665, which is classified generally to this subchapter.
 

@@ -40,7 +40,7 @@ Two-for-one exception.—An air carrier that otherwise could not use 2 slots as 
 
 &emsp;(3)
 
-Withdrawal of slot.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation, the Secretary shall withdraw the slot that is being used under paragraph (2).
+Withdrawal of slot.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providingthe air transportation that replaced the turboprop air transportation, the Secretary shall withdraw the slot that is being used under paragraph (2).
 
 &emsp;(4)
 

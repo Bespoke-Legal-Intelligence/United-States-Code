@@ -1,6 +1,6 @@
 ### \[§453C. Repealed. Pub. L. 100–203, title X, §10202(a)(1), Dec. 22, 1987, 101 Stat. 1330–388\]
 
-Section, added Pub. L. 99–514, title VIII, §811(a), Oct. 22, 1986, 100 Stat. 2365; amended Pub. L. 100–647, title I, §1008(f)(1)–(5), Nov. 10, 1988, 102 Stat. 3441, 3442, relatedto treatment of certain indebtedness as payment on installment obligations.
+Section, added Pub. L. 99–514, title VIII, §811(a), Oct. 22, 1986, 100 Stat. 2365; amended Pub. L. 100–647, title I, §1008(f)(1)–(5), Nov. 10, 1988, 102 Stat. 3441, 3442, related to treatment of certain indebtedness as payment on installment obligations.
 
 #### Effective Date of Repeal
 

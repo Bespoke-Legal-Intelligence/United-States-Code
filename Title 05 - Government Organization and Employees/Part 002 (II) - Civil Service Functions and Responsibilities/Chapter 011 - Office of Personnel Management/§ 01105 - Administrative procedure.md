@@ -1,6 +1,6 @@
 ### §1105. Administrative procedure
 
-Subject to section 1103(b) of this title, in the exercise of the functions assigned under this chapter, the Director shall be subject to subsections (b), (c), and (d) of section 553 of this title, notwithstanding subsection (a) of such section 553.
+Subject to section 1103(b) of this title, in the exercise of the functions assigned under thischapter, the Director shall be subject to subsections (b), (c), and (d) of section 553 of this title, notwithstanding subsection (a) of such section 553.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 400; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1121.)
 

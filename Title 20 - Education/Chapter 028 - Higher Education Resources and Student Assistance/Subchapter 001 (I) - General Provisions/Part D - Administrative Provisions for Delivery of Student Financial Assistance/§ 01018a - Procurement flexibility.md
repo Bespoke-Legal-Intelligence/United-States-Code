@@ -56,7 +56,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (A) In general
 
-&emsp;&emsp;The contracting officer shall conduct the second phase of the source selection process in accordance with sections 253a and 253b of title 41.
+&emsp;&emsp;The contracting officer shall conduct the second phase of the source selection processin accordance with sections 253a and 253b of title 41.
 
 #### (B) Eligible participants
 
@@ -232,7 +232,7 @@ In this section:
 
 #### References in Text
 
-Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
+Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (e)(2), is section 4202(e) of Pub. L.104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
 #### Prior Provisions
 

@@ -36,7 +36,7 @@
 
 (B) Whenever the Secretary makes a determination referred to in subparagraph (A) in the case of a major defense acquisition program during the second quarter of a fiscal year and before the date on which the President transmits the budget for the following fiscal year to Congress pursuant to section 1105 of title 31, the Secretary is not required to file a Selected Acquisition Report under subparagraph (A) but shall include the information described in subsection (g) regarding that program in the comprehensive annual Selected Acquisition Report submitted in that quarter.
 
-(2) If the percentage increase in the program acquisition unit cost or procurement unit cost of a major defense acquisition program (as determined by the Secretary under subsection (d)) exceeds 25 percent, the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title—
+(2) If the percentage increase in the program acquisition unit cost or procurement unit cost of a major defense acquisition program (as determined by the Secretary under subsection (d)) exceeds 25 percent, the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the SelectedAcquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title—
 
 &emsp;(A) a written certification, stating that—
 
@@ -154,7 +154,7 @@ Subsec. (d)(1), (2). Pub. L. 102–484, §817(d)(4)(A), substituted “at least�
 
 Subsec. (d)(3). Pub. L. 102–484, §817(d)(4)(B), substituted “at least” for “more than” wherever appearing and “program. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.” for “program within 30 days after the date on which the service acquisition executive reports his determination of such increase in such unit cost to the Secretary and shall include in such notification the date on which the determination was made.”
 
-Subsec. (e)(1)(A). Pub. L. 102–484, §817(d)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the current program acquisition cost of a major defense acquisition program has increased by more than 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination and such report shall include the information described in section 2432(e) of this title. The report shall be submitted within 45 days after the end of that quarter.”
+Subsec. (e)(1)(A). Pub. L. 102–484, §817(d)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Except as provided in subparagraph\(B), whenever the Secretary concerned determines under subsection (d) that the current program acquisition cost of a major defense acquisition program has increased by more than 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination and such report shall include the information described in section 2432(e) of this title. The report shall be submitted within 45 days after the end of that quarter.”
 
 Subsec. (e)(2). Pub. L. 102–484, §817(d)(5)(B), substituted “program acquisition unit cost or current procurement unit cost” for “current program acquisition cost”.
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 effective Jan. 1, 1987, see section 101(c)\[§961(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 961(c) of Pub. L. 99–661, set out as a note under section 2432 of this title.
+Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 effective Jan. 1, 1987, see section 101(c) \[§961(c)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 961(c) of Pub. L. 99–661, set out as a note under section 2432 of this title.
 
 #### Effective Date
 

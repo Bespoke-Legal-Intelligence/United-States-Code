@@ -158,7 +158,7 @@ Rules governing Section 2254 cases, and the amendments thereto by Pub. L. 94–4
 
 Applicable to cases involving custody pursuant to a judgment of a state court. These rules govern the procedure in the United States district courts on applications under 28 U.S.C. §2254:
 
-&emsp;(1) by a person in custody pursuant to a judgment of a state court, for a determinationthat such custody is in violation of the Constitution, laws, or treaties of the United States; and
+&emsp;(1) by a person in custody pursuant to a judgment of a state court, for a determination that such custody is in violation of the Constitution, laws, or treaties of the United States; and
 
 &emsp;(2) by a person in custody pursuant to a judgment of either a state or a federal court, who makes application for a determination that custody to which he may be subject in the future under a judgment of a state court will be in violation of the Constitution, laws, or treaties of the United States.
 
@@ -190,7 +190,7 @@ The courts are not unanimous in dealing with the above situations, and the bound
 
 <i>Hammond v. Lenfest</i>, 398 F.2d 705 (2d Cir. 1968), reviewed prior “custody” doctrine and reaffirmed a generalized flexible approach to the issue. In speaking about 28 U.S.C. §2241, the first section in the habeas corpus statutes, the court said:
 
-&emsp;While the language of the Act indicates that a writ of habeas corpus is appropriate only when a petitioner is “in custody,” \* \* \* the Act “does not attempt to mark the boundaries of ‘custody’ nor in any way other than by use of that word attempt to limit the situations in which the writ can be used.” \* \* \* And, recent Supreme Court decisions have made clear that “\[i\]t \[habeas corpus\] is not now and never has been a static, narrow, formalistic remedy; its scope has grown to achieve its grand purpose—the protection of individuals against erosion of their right to be free from wrongful restraints upon their liberty.” \* \* \* “\[B\]esides physical imprisonment, there are other restraints on a man's liberty, restraints not shared by the public generally, which have been thought sufficient in the English-speaking world to support the issuance of habeas corpus.”
+&emsp;While the language of the Act indicates that a writ of habeas corpus is appropriate only when a petitioner is “in custody,” \* \* \* the Act “does not attempt to mark the boundaries of ‘custody’ nor in any way other than by use of that word attempt to limit the situations in which the writ can be used.” \* \* \* And, recent Supreme Court decisions have made clear that “\[i\]t \[habeas corpus\] is not now and never has been a static, narrow, formalistic remedy; its scope has grown to achieve its grand purpose—the protection of individuals against erosion of their right to be free from wrongful restraints upon their liberty.”\* \* \* “\[B\]esides physical imprisonment, there are other restraints on a man's liberty, restraints not shared by the public generally, which have been thought sufficient in the English-speaking world to support the issuance of habeas corpus.”
 
 #### 398 F.2d at 710–711
 
@@ -208,7 +208,7 @@ Applicants in present custody. If the applicant is presently in custody pursuant
 
 (b)
 
-Applicants subject to future custody. If the applicant is not presently in custody pursuant to the state judgment against which he seeks relief but may be subject to such custody in the future, the application shall be in the form of a petition for a writ of habeas corpuswith an added prayer for appropriate relief against the judgment which he seeks to attack. In such a case the officer having present custody of the applicant and the attorney general of the state in which the judgment which he seeks to attack was entered shall each be named as respondents.
+Applicants subject to future custody. If the applicant is not presently in custody pursuant to the state judgment against which he seeks relief but may be subject to such custody in the future, the application shall be in the form of a petition for a writ of habeas corpus with an added prayer for appropriate relief against the judgment which he seeks to attack. In such a case the officer having present custody of the applicant and the attorney general of the state in which the judgment which he seeks to attack was entered shall each be named as respondents.
 
 (c)
 
@@ -240,7 +240,7 @@ Since the concept of “custody” requisite to the consideration of a petition 
 
 (3) The applicant is in custody in any other manner differing from (1) and (2) above due to the effects of the state action he seeks relief from. The named respondent should be the attorney general of the state wherein such action was taken.
 
-(4) The applicant is in jail, prison, or other actual physical restraint but is attacking a state action which will cause him to be kept in custody in the future rather than the government action under which he is presently confined. The named respondents shall be the state or federal officer who has official custody of him at the time the petition is filed and the attorney general of the state whose action subjects the petitioner to future custody.
+(4) The applicant is in jail, prison, or other actual physical restraint but is attacking a state action which will cause him to be kept in custody in the future rather than the government action under which he is presently confined. The named respondents shall be the state or federal officer who has official custody of himat the time the petition is filed and the attorney general of the state whose action subjects the petitioner to future custody.
 
 (5) The applicant is in custody, although not physically restrained, and is attacking a state action which will result in his future custody rather than the government action out of which his present custody arises. The named respondent(s) shall be the attorney general of the state whose action subjects the petitioner to future custody, as well as the government officer who has present official custody of the petitioner if there is such an officer and his identity is ascertainable.
 
@@ -278,7 +278,7 @@ Subdivision (d) provides that a single petition may assert a claim only against 
 
 Subdivision (e) allows the clerk to return an insufficient petition to the petitioner, and it must be returned if the clerk is so directed by a judge of the court. Any failure to comply with the requirements of rule 2 or 3 is grounds for insufficiency. In situations where there may be arguable noncompliance with another rule, such as rule 9, the judge, not the clerk, must make the decision. If the petition is returned it must be accompanied by a statement of the reason for its return. No petitioner should be left to speculate as to why or in what manner his petition failed to conform to these rules.
 
-Subdivision (e) also provides that the clerk shall retain one copy of the insufficient petition. If the prisoner files another petition, the clerk will be in a better position to determine the sufficiency of the new petition. If the new petition is insufficient, comparison with the prior petition may indicate whether the prisoner has failed to understand the clerk's prior explanation for its insufficiency, so that the clerk can make another, hopefully successful, attempt at transmitting this information to the petitioner. If the petitioner insists that the original petition was in compliance with the rules, a copy of the original petition is available for the consideration of the judge. It is probably better practice to make a photocopy of a petition which can be corrected by the petitioner, thus saving the petitioner the task of completing an additional copy.
+Subdivision (e) also provides that the clerk shall retain one copy of the insufficient petition. If the prisoner files another petition, the clerk will be in a better position to determine the sufficiency of the new petition. If the new petition is insufficient, comparison with the prior petition may indicate whether the prisoner has failed to understand the clerk's prior explanation for its insufficiency, so that the clerk can make another, hopefully successful, attempt at transmittingthis information to the petitioner. If the petitioner insists that the original petition was in compliance with the rules, a copy of the original petition is available for the consideration of the judge. It is probably better practice to make a photocopy of a petition which can be corrected by the petitioner, thus saving the petitioner the task of completing an additional copy.
 
 #### 1982 Amendment
 
@@ -294,7 +294,7 @@ Subd. (e). Pub. L. 94–426, §2(2), inserted “substantially” after “distr
 
 (a)
 
-Place of filing; copies; filing fee. A petition shall be filed in the office of the clerk of the district court. It shall be accompanied by two conformed copies thereof. It shall also be accompanied by the filing fee prescribed by law unless the petitioner applies for and is given leave to prosecute the petition in forma pauperis. If thepetitioner desires to prosecute the petition in forma pauperis, he shall file the affidavit required by 28 U.S.C. §1915. In all such cases the petition shall also be accompanied by a certificate of the warden or other appropriate officer of the institution in which the petitioner is confined as to the amount of money or securities on deposit to the petitioner's credit in any account in the institution, which certificate may be considered by the court in acting upon his application for leave to proceed in forma pauperis.
+Place of filing; copies; filing fee. A petition shall be filed in the office of the clerk of the district court. It shall be accompanied by two conformed copies thereof. It shall also be accompanied by the filing fee prescribed by law unless the petitioner applies for and is given leave to prosecute the petition in forma pauperis. If the petitioner desires to prosecute the petition in forma pauperis, he shall file the affidavit required by 28 U.S.C. §1915. In all such cases the petition shall also be accompanied by a certificate of the warden or other appropriate officer of the institution in which the petitioner is confined as to the amount of money or securities on deposit to the petitioner's credit in any account in the institution, which certificate may be considered by the court in acting upon his application for leave to proceed in forma pauperis.
 
 (b)
 
@@ -322,7 +322,7 @@ Subdivision (b) details the clerk's duties with regard to filing the petition. I
 
 ### Rule 4. Preliminary Consideration by Judge
 
-The original petition shall be presented promptly to a judge of the district court in accordance with the procedure of the court for the assignment of its business. The petition shall be examined promptly by the judge to whom it is assigned. If it plainly appears from the face of the petition and any exhibits annexed to it that the petitioner is not entitled to relief in the district court, the judge shall make an order for its summary dismissal and cause the petitioner to be notified. Otherwise the judge shall order the respondent to file an answer or other pleading within the period of time fixed by the court or to take such other action as the judge deems appropriate. In every case a copy of the petition and any order shall be served by certified mail on the respondent and the attorney general of the state involved.
+The original petition shall be presented promptly to a judge of the district court in accordance with the procedure of the court for the assignment of its business. The petition shall be examined promptly by the judge to whom it isassigned. If it plainly appears from the face of the petition and any exhibits annexed to it that the petitioner is not entitled to relief in the district court, the judge shall make an order for its summary dismissal and cause the petitioner to be notified. Otherwise the judge shall order the respondent to file an answer or other pleading within the period of time fixed by the court or to take such other action as the judge deems appropriate. In every case a copy of the petition and any order shall be served by certified mail on the respondent and the attorney general of the state involved.
 
 #### Advisory Committee Note
 
@@ -330,7 +330,7 @@ Rule 4 outlines the options available to the court after the petition is properl
 
 28 U.S.C. §2243 requires that the writ shall be awarded, or an order to show cause issued, “unless it appears from the application that the applicant or person detained is not entitled thereto.” Such consideration may properly encompass any exhibits attached to the petition, including, but not limited to, transcripts, sentencing records, and copies of state court opinions. The judge may order any of these items for his consideration if they are not yet included with the petition. See 28 U.S.C. §753(f) which authorizes payment for transcripts in habeas corpus cases.
 
-It has been suggested that an answer should be required in every habeas proceeding, taking into account the usual petitioner's lack of legal expertise and the important functions served by the return. See Developments in the Law—Federal Habeas Corpus, 83Harv.L.Rev. 1038, 1178 (1970). However, under §2243 it is the duty of the court to screen out frivolous applications and eliminate the burden that would be placed on the respondent by ordering an unnecessary answer. <i>Allen v. Perini</i>, 424 F.2d 134, 141 (6th Cir. 1970). In addition, “notice” pleading is not sufficient, for the petition is expected to state facts that point to a “real possibility of constitutional error.” See <i>Aubut v. State of Maine</i>, 431 F.2d 688, 689 (1st Cir. 1970).
+It has been suggested that an answer should be required in every habeas proceeding, taking into account the usual petitioner's lack of legal expertise and the important functions served by the return. See Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1178 (1970). However, under §2243 it is the duty of the court to screen out frivolous applications and eliminate the burden that would be placed on the respondent by ordering an unnecessary answer. <i>Allen v. Perini</i>, 424 F.2d 134, 141 (6th Cir. 1970). In addition, “notice” pleading is not sufficient, for the petition is expected to state facts that point to a “real possibility of constitutional error.” See <i>Aubut v. State of Maine</i>, 431 F.2d 688, 689 (1st Cir. 1970).
 
 In the event an answer is ordered under rule 4, the court is accorded greater flexibility than under §2243 in determining within what time period an answer must be made. Under §2243, the respondent must make a return within three days after being so ordered, with additional time of up to forty days allowed under the Federal Rules of Civil Procedure, Rule 81(a)(2), for good cause. In view of the widespread state of work overload in prosecutors’ offices (see, <i>e.g., Allen</i>, 424 F.2d at 141), additional time is granted in some jurisdictions as a matter of course. Rule 4, which contains no fixed time requirement, gives the court the discretion to take into account various factors such as the respondent's workload and the availability of transcripts before determining a time within which an answer must be made.
 
@@ -350,7 +350,7 @@ Rule 5 details the contents of the “answer”. (This is a change in terminolog
 
 &emsp;Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1083, 1178 (1970).
 
-The answer must respond to the allegations of the petition. While some districts require this by local rule (see, <i>e.g</i>., E.D.N.C.R. 17(B)), under 28 U.S.C. §2243 little specificity is demanded. As a result, courts occasionally receive answers which contain only a statement certifying the true cause of detention, or a series of delaying motions such as motions to dismiss. The requirement of the proposed rule that the “answer shall respond to the allegations of the petition” is intended to ensure that a responsive pleading will be filed and thus the functions of the answer fully served.
+The answer must respond to the allegations of the petition. While some districts require this by local rule (see, <i>e.g</i>., E.D.N.C.R. 17(B)), under 28 U.S.C. §2243 little specificity is demanded. As a result, courts occasionally receive answers which contain only a statement certifying the true cause of detention, or a series of delaying motions such as motions to dismiss. The requirement of the proposed rule that the “answer shallrespond to the allegations of the petition” is intended to ensure that a responsive pleading will be filed and thus the functions of the answer fully served.
 
 The answer must also state whether the petitioner has exhausted his state remedies. This is a prerequisite to eligibility for the writ under 28 U.S.C. §2254(b) and applies to every ground the petitioner raises. Most form petitions now in use contain questions requiring information relevant to whether the petitioner has exhausted his remedies. However, the exhaustion requirement is often not understood by the unrepresented petitioner. The attorney general has both the legal expertise and access to the record and thus is in a much better position to inform the court on the matter of exhaustion of state remedies. An alleged failure to exhaust state remedies as to any ground in the petition may be raised by a motion by the attorney general, thus avoiding the necessity of a formal answer as to that ground.
 
@@ -358,7 +358,7 @@ The rule requires the answer to indicate what transcripts are available, when th
 
 Where transcripts are unavailable, the rule provides that a narrative summary of the evidence may be submitted.
 
-Rule 5 (and the general procedure set up by this entire set of rules) does not contemplate a traverse to the answer, except under special circumstances. See advisory committee note to rule 9. Therefore, the old common law assumption of verity of the allegations of a return until impeached, as codified in 28 U.S.C. §2248, is no longer applicable. The meaning of the section, with its exception to the assumption “to the extent that thejudge finds from the evidence that they (the allegations) are not true,” has given attorneys and courts a great deal of difficulty. It seems that when the petition and return pose an issue of fact, no traverse is required; <i>Stewart v. Overholser</i>, 186 F.2d 339 (D.C. Cir. 1950).
+Rule 5 (and the general procedure set up by this entire set of rules) does not contemplate a traverse to the answer, except under special circumstances. See advisory committee note to rule 9. Therefore, the old common law assumption of verity of the allegations of a return until impeached, as codified in 28 U.S.C. §2248, is no longer applicable. The meaning of the section, with its exception to the assumption “to the extent that the judge finds from the evidence that they (the allegations) are not true,” has given attorneys and courts a great deal of difficulty. It seems that when the petition and return pose an issue of fact, no traverse is required; <i>Stewart v. Overholser</i>, 186 F.2d 339 (D.C. Cir. 1950).
 
 &emsp;We read §2248 of the Judicial Code as not requiring a traverse when a factual issue has been clearly framed by the petition and the return or answer. This section provides that the allegations of a return or answer to an order to show cause shall be accepted as true if not traversed, except to the extent the judge finds from the evidence that they are not true. This contemplates that where the petition and return or answer do present an issue of fact material to the legality of detention, evidence is required to resolve that issue despite the absence of a traverse. This reference to evidence assumes a hearing on issues raised by the allegations of the petition and the return or answer to the order to show cause.
 
@@ -452,7 +452,7 @@ The record may be expanded to include additional material relevant to the merits
 
 Authorizing expansion of the record will, hopefully, eliminate some unnecessary hearings. The value of this approach was articulated in <i>Raines v. United States</i>, 423 F.2d 526, 529–530 (4th Cir. 1970):
 
-&emsp;Unless it is clear from the pleadings and the files and records that the prisoner is entitled to no relief, the statute makes a hearing mandatory. We think there is a permissible intermediate step that may avoid the necessity for an expensive and time consuming evidentiary hearing in every Section 2255 case. It may instead be perfectly appropriate, depending upon the nature of the allegations, for the district court to proceed by requiring that the record be expanded to include letters, documentary evidence, and, in an appropriate case, even affidavits. <i>United States v. Carlino</i>, 400 F.2d 56 (2nd Cir. 1968); <i>Mirra v. United States</i>, 379 F.2d 782 (2nd Cir. 1967); <i>Accardi v.</i><i>United States</i>, 379 F.2d 312 (2nd Cir. 1967). When the issue is one of credibility, resolution on the basis of affidavits can rarely be conclusive, but that is not to say they may not be helpful.
+&emsp;Unless it is clear from the pleadings and the files and records that the prisoner is entitled to no relief, the statute makes a hearing mandatory. We think there is a permissible intermediate step that may avoid the necessity for an expensive and time consuming evidentiary hearing in every Section 2255 case. It may instead be perfectly appropriate, depending upon the nature of the allegations, for the district court to proceed by requiring that the record be expanded to include letters, documentary evidence, and, in an appropriate case, even affidavits. <i>United States v. Carlino</i>, 400 F.2d 56 (2nd Cir. 1968); <i>Mirra v. United States</i>, 379 F.2d 782 (2nd Cir. 1967); <i>Accardi v. United States</i>, 379 F.2d 312 (2nd Cir. 1967). When the issue is one of credibility, resolution on the basis of affidavits can rarely be conclusive, but that is not to say they may not be helpful.
 
 In <i>Harris v. Nelson</i>, 394 U.S. 286, 300 (1969), the court said:
 
@@ -542,7 +542,7 @@ While the rule does not make specific provision for a prehearing conference, the
 
 > See also Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1188 (1970).
 
-The rule does not contain a specific provision on the subpoenaing of witnesses. It is left to local practice to determine the method for doing this. The implementation of 28 U.S.C. §1825 on the payment of witness fees is dealt with in an opinion of the Comptroller General, February 28, 1974.
+The rule does not contain a specific provision on the subpoenaing of witnesses. It is left to local practice to determine the method for doing this. The implementation of 28 U.S.C. §1825 on the payment of witness feesis dealt with in an opinion of the Comptroller General, February 28, 1974.
 
 #### Amendments
 
@@ -560,7 +560,7 @@ Section 2(c) of Pub. L. 94–577 provided that: “The amendments made by this s
 
 (a)
 
-Delayed petitions. A petition may be dismissed if it appears that the state of which the respondent is an officer has been prejudiced inits ability to respond to the petition by delay in its filing unless the petitioner shows that it is based on grounds of which he could not have had knowledge by the exercise of reasonable diligence before the circumstances prejudicial to the state occurred.
+Delayed petitions. A petition may be dismissed if it appears that the state of which the respondent is an officer has been prejudiced in its ability to respond to the petition by delay in its filing unless the petitioner shows that it is based on grounds of which he could not have had knowledge by the exercise of reasonable diligence before the circumstances prejudicial to the state occurred.
 
 (b)
 
@@ -602,7 +602,7 @@ Subdivision (a) establishes the presumption that the passage of more than five y
 
 The presumption of prejudice does not come into play if the time lag is not more than five years.
 
-The time limitation should have a positive effect in encouraging petitioners who have knowledge of it toassert all their claims as soon after conviction as possible. The implementation of this rule can be substantially furthered by the development of greater legal resources for prisoners. See ABA Standards Relating to Post-Conviction Remedies §3.1, pp. 49–50 (Approved Draft, 1968).
+The time limitation should have a positive effect in encouraging petitioners who have knowledge of it to assert all their claims as soon after conviction as possible. The implementation of this rule can be substantially furthered by the development of greater legal resources for prisoners. See ABA Standards Relating to Post-Conviction Remedies §3.1, pp. 49–50 (Approved Draft, 1968).
 
 Subdivision (a) does not constitute an abridgement or modification of a substantive right under 28 U.S.C. §2072. There are safeguards for the hardship case. The rule provides a flexible standard for determining when a petition will be barred.
 
@@ -652,7 +652,7 @@ Some commentators contend that the problem of abuse of the writ of habeas corpus
 
 If it appears to the court after examining the petition and answer (where appropriate) that there is a high probability that the petition will be barred under either subdivision of rule 9, the court ought to afford petitioner an opportunity to explain his apparent abuse. One way of doing this is by the use of the form annexed hereto. The use of a form will ensure a full airing of the issue so that the court is in a better position to decide whether the petition should be barred. This conforms with <i>Johnson v. Copinger</i>, 420 F.2d 395 (4th Cir. 1969), where the court stated:
 
-> &emsp;\[T\]he petitioner is obligated to present facts demonstrating that his earlier failure to raise his claims is excusable and does not amount to an abuse of the writ. However, it is inherent in this obligation placed upon the petitioner that he must be given an opportunity to make his explanation, if he has one. If heis not afforded such an opportunity, the requirement that he satisfy the court that he has not abused the writ is meaningless. Nor do we think that a procedure which allows the imposition of a forfeiture for abuse of the writ, without allowing the petitioner an opportunity to be heard on the issue, comports with the minimum requirements of fairness.
+> &emsp;\[T\]he petitioner is obligated to present facts demonstrating that his earlier failure to raise his claims is excusable and does not amount to an abuse of the writ. However, it is inherent in this obligation placed upon the petitioner that he must be given an opportunity to make his explanation, if he has one. If he is not afforded such an opportunity, the requirement that he satisfy the court that he has not abused the writ is meaningless. Nor do we think that a procedure which allows the imposition of a forfeiture for abuse of the writ, without allowing the petitioner an opportunity to be heard on the issue, comports with the minimum requirements of fairness.
 
 #### 420 F.2d at 399
 
@@ -694,7 +694,7 @@ The reference to particular rules is stricken, as under §636(b)(1)(A) a judge m
 
 #### Amendments
 
-1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties” after “rule of the district court”.
+1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria forthe performance of such duties” after “rule of the district court”.
 
 #### Change of Name
 
@@ -708,7 +708,7 @@ The Federal Rules of Civil Procedure, to the extent that they are not inconsiste
 
 Habeas corpus proceedings are characterized as civil in nature. See <i>e.g., Fisher v. Baker</i>, 203 U.S. 174, 181 (1906). However, under Fed.R.Civ.P. 81(a)(2), the applicability of the civil rules to habeas corpus actions has been limited, although the various courts which have considered this problem have had difficulty in setting out the boundaries of this limitation. See <i>Harris v. Nelson</i>, 394 U.S. 286 (1969) at 289, footnote 1. Rule 11 is intended to conform with the Supreme Court's approach in the <i>Harris</i> case. There the court was dealing with the petitioner's contention that Civil Rule 33 granting the right to discovery via written interrogatories is wholly applicable to habeas corpus proceedings. The court held:
 
-> &emsp;We agree with the Ninth Circuit that Rule 33 of the Federal Rules of Civil Procedure is not applicable to habeas corpus proceedings and that 28 U.S.C. §2246 does not authorize interrogatories except in limited circumstances not applicable to this case; but we conclude that, in appropriate circumstances, a district court, confronted by a petition for habeas corpuswhich establishes a prima facie case for relief, may use or authorize the use of suitable discovery procedures, including interrogatories, reasonably fashioned to elicit facts necessary to help the court to “dispose of the matter as law and justice require” 28 U.S.C. §2243.
+> &emsp;We agree with the Ninth Circuit that Rule 33 of the Federal Rules of Civil Procedure is not applicable to habeas corpus proceedings and that 28 U.S.C. §2246 does not authorize interrogatories except in limited circumstances not applicable to this case; but we conclude that, in appropriate circumstances, a district court, confronted by a petition for habeas corpus which establishes a prima facie case for relief, may use or authorize the use of suitable discovery procedures, including interrogatories, reasonably fashioned to elicit facts necessary to help the court to “dispose of the matter as law and justice require” 28 U.S.C. §2243.
 
 #### 394 U.S. at 290
 
@@ -774,7 +774,7 @@ Rule 11 permits application of the civil rules only when it would be appropriate
 
 (3) Upon receipt of a fee of $5 your petition will be filed if it is in proper order.
 
-(4) If you do not have the necessary filing fee, you may request permission to proceed <i>in forma pauperis</i>, in which event you must execute the declaration on the last page, setting forth information establishing your inability to prepay the fees and costs or give security therefor. If you wish to proceed <i>in forma pauperis</i>, you must have an authorized officer at the penal institution complete the certificate as to the amount of money and securities on deposit to your credit in any account in the institution. If your prison account exceeds $\_\_\_\_\_\_, you must pay the filing fee as required by the rule of the district court.
+(4) If you do not have the necessary filing fee, you may request permission to proceed <i>in forma pauperis</i>, in which event you must execute the declaration on the last page, setting forth information establishing your inability to prepay the fees and costs or give security therefor. If you wish to proceed <i>in forma pauperis</i>, you must have an authorized officerat the penal institution complete the certificate as to the amount of money and securities on deposit to your credit in any account in the institution. If your prison account exceeds $\_\_\_\_\_\_, you must pay the filing fee as required by the rule of the district court.
 
 (5) Only judgments entered by one court may be challenged in a single petition. If you seek to challenge judgments entered by different courts either in the same state or in different states, you must file separate petitions as to each court.
 
@@ -1368,7 +1368,7 @@ Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
 
-5\. If your petition is in jeopardy under rule 9(b) because it asserts the same grounds as a previous petition, explain why you feel it deserves a reconsideration. If its fault under rule 9(b) is that it asserts new grounds which should have been included in a prior petition, explain why you are raising these grounds now rather than previously. Your explanation should rely on FACTS, not your opinions or conclusions.
+5\. If your petition is in jeopardy under rule 9(b) because it asserts the same grounds as a previous petition, explain why you feel it deserves a reconsideration. If its fault under rule 9(b) is that it asserts new grounds which should have been included in a priorpetition, explain why you are raising these grounds now rather than previously. Your explanation should rely on FACTS, not your opinions or conclusions.
 
 &emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;
 

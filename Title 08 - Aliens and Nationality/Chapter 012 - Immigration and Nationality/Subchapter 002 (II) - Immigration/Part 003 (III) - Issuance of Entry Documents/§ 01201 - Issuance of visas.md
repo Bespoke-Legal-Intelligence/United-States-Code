@@ -2,7 +2,7 @@
 
 #### (a) Immigrants; nonimmigrants
 
-(1) Under the conditions hereinafter prescribed and subject to the limitations prescribed in this chapter or regulations issued thereunder, a consular officer may issue
+(1) Under the conditions hereinafter prescribed and subject to the limitations prescribed in thischapter or regulations issued thereunder, a consular officer may issue
 
 &emsp;(A) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and
 
@@ -42,7 +42,7 @@ Nothing in this chapter shall be construed to entitle any alien, to whom a visa 
 
 After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552.)
+(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552.)
 
 #### Amendments
 
@@ -176,7 +176,7 @@ Aliens Covered.—An alien is described in this subsection if the alien—
 
 &emsp;“(1)(A) is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] to Hong Kong or China, and
 
-&emsp;“(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issued an immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
+&emsp;“(B)(i) is residing in Hong Kong as of the date of the enactment of this Act \[Nov. 29, 1990\] and is issuedan immigrant visa under paragraph (1), (2), (4), or (5) of section 203(a) of the Immigration and Nationality Act \[8 U.S.C. 1153(a)\] (as in effect on the date of the enactment of this Act) or under section 203(a) or 203(b)(1) of such Act (as in effect on and after October 1, 1991), or (ii) is the spouse or child (as defined in subsection (d)) of an alien described in clause (i), if accompanying or following to join the alien in coming to the United States; or
 
 &emsp;“(2) is issued a visa under section 124 of this Act \[enacting provisions set out as a note under section 1153 of this title\].
 
@@ -210,7 +210,7 @@ Pub. L. 100–204, title IX, §903, Dec. 22, 1987, 101 Stat. 1401, as amended by
 
 “(a)
 
-Processing of Certain Cuban Political Prisoners as Refugees.—In light of the announcement of the Government of Cuba on November 20, 1987, that it would reimplement immediately the agreement of December 14, 1984, establishing normal migration procedures between the United States and Cuba, on and after the date of the enactment of this Act \[Dec. 22, 1987\],consular officers of the Department of State and appropriate officers of the Immigration and Naturalization Service shall, in accordance with the procedures applicable to such cases in other countries, process any application for admission to the United States as a refugee from any Cuban national who was imprisoned for political reasons by the Government of Cuba on or after January 1, 1959, without regard to the duration of such imprisonment, except as may be necessary to reassure the orderly process of available applicants.
+Processing of Certain Cuban Political Prisoners as Refugees.—In light of the announcement of the Government of Cuba on November 20, 1987, that it would reimplement immediately the agreement of December 14, 1984, establishing normal migration procedures between the United States and Cuba, on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State and appropriate officers of the Immigration and Naturalization Service shall, in accordance with the procedures applicable to such cases in other countries, process any application for admission to the United States as a refugee from any Cuban national who was imprisoned for political reasons by the Government of Cuba on or after January 1, 1959, without regard to the duration of such imprisonment, except as may be necessary to reassure the orderly process of available applicants.
 
 “(b)
 

@@ -6,7 +6,7 @@ Every importer of record making an entry under the provisions of section 1484 of
 
 &emsp;(1) Whether the merchandise is imported in pursuance of a purchase or an agreement to purchase, or whether it is imported otherwise than in pursuance of a purchase or agreement to purchase;
 
-&emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case of merchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
+&emsp;(2) That the prices set forth in the invoice are true, in the case of merchandise purchased or agreed to be purchased; or in the case ofmerchandise secured otherwise than by purchase or agreement to purchase, that the statements in such invoice as to value or price are true to the best of his knowledge and belief;
 
 &emsp;(3) That all other statements in the invoice or other documents filed with the entry, or in the entry itself, are true and correct; and
 
@@ -62,7 +62,7 @@ Prior provisions requiring a bond to be taken when entry was made by an agent, f
 
 Provisions concerning the statement to be presented to the collector when merchandise entered for customs duty had been consigned for sale to a person, agent, partner, or consignee, were contained in act Oct. 3, 1913, ch. 16, §III, J, 38 Stat. 185, which reenacted the provisions of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, and the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 96, and which was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-A prior provision relative to oaths to invoices when merchandise belonged to estates of deceased persons or of persons insolvent was contained in R.S. §2846, which was superseded, in part, by the abolition of all oaths administered by officers of the customs, except as provided therein, by the Customs Administrative Act ofJune 10, 1890, ch. 407, §22, 26 Stat. 140, and by the repeal, by section 29 of that act, 26 Stat. 141, of R.S. §§2841, 2843, 2845, which required oaths to accompany invoices on entry of merchandise, and the substitution of declarations for such oaths, by sections 3–5 of said act, 26 Stat. 131, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, D, F, and §IV, S, 38 Stat. 181.
+A prior provision relative to oaths to invoices when merchandise belonged to estates of deceased persons or of persons insolvent was contained in R.S. §2846, which was superseded, in part, by the abolition of all oaths administered by officers of the customs, except as provided therein, by the Customs Administrative Act of June 10, 1890, ch. 407, §22, 26 Stat. 140, and by the repeal, by section 29 of that act, 26 Stat. 141, of R.S. §§2841, 2843, 2845, which required oaths to accompany invoices on entry of merchandise, and the substitution of declarations for such oaths, by sections 3–5 of said act, 26 Stat. 131, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 102, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, D, F, and §IV, S, 38 Stat. 181.
 
 #### Amendments
 

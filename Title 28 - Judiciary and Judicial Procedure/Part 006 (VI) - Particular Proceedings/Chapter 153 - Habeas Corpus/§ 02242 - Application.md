@@ -6,7 +6,7 @@ It shall allege the facts concerning the applicant's commitment or detention, th
 
 It may be amended or supplemented as provided in the rules of procedure applicable to civil actions.
 
-If addressed to the Supreme Court, a justice thereof or a circuit judge it shall state the reasons for not making application to the district court of the district in which the applicant is held.
+If addressed to the Supreme Court, a justice thereof or a circuit judge it shall state the reasons for not making application to the districtcourt of the district in which the applicant is held.
 
 (June 25, 1948, ch. 646, 62 Stat. 965.)
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) seasonal employees or less than half-time employees,
 
-&emsp;&emsp;(D) employees not included in the plan who are included in a unit of employees covered by an agreement between employee representatives and 1 or more employers whichthe Secretary finds to be a collective bargaining agreement if the class of benefits involved was the subject of good faith bargaining between such employee representatives and such employer or employers, and
+&emsp;&emsp;(D) employees not included in the plan who are included in a unit of employees covered by an agreement between employee representatives and 1 or more employers which the Secretary finds to be a collective bargaining agreement if the class of benefits involved was the subject of good faith bargaining between such employee representatives and such employer or employers, and
 
 &emsp;&emsp;(E) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
 
@@ -54,7 +54,7 @@
 
 #### (7) Compensation limit
 
-&emsp;A plan shall not be treated as meeting the requirements of this subsection unless under the plan the annual compensation of each employee taken into account for any year does not exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). This paragraph shall not apply in determining whether the requirements of section 79(d) are met.
+&emsp;A plan shall not be treated as meeting the requirements of this subsection unless underthe plan the annual compensation of each employee taken into account for any year does not exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). This paragraph shall not apply in determining whether the requirements of section 79(d) are met.
 
 #### (c) Requirement that organization notify Secretary that it is applying for tax-exempt status
 
@@ -134,7 +134,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1899A(16), substituted “July 18, 1984” f
 
 Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1993 Amendment
 

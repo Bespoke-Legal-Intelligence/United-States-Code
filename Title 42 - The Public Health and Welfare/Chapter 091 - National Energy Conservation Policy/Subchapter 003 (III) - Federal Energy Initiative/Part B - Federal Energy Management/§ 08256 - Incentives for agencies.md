@@ -32,7 +32,7 @@
 
 (2) Each agency may accept any financial incentive, goods, or services generally available from any such utility, to increase energy efficiency or to conserve water or manage electricity demand.
 
-(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand managementand conservation incentive programs to address the unique needs of facilities utilized by such agency.
+(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand management and conservation incentive programs to address the unique needs of facilities utilized by such agency.
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 

@@ -76,7 +76,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by sections 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily,five semimonthly copies, and one hundred and fifty bound copies;
+&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by sections 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, five semimonthly copies, and one hundred and fifty bound copies;
 
 &emsp;to the library of the Senate, three copies of the daily, two semimonthly copies, and not to exceed fifteen bound copies;
 

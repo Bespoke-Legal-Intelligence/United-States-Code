@@ -74,7 +74,7 @@
 
 #### (B) Earliest day examination notice may be provided
 
-&emsp;&emsp;The examination notice described in subparagraph (A) shall not be provided to the church before the 15th day after the date on which the church tax inquiry notice was provided to the church under subsection (a).
+&emsp;&emsp;The examination notice described in subparagraph (A) shall not be provided to thechurch before the 15th day after the date on which the church tax inquiry notice was provided to the church under subsection (a).
 
 #### (C) Opinion of regional counsel with respect to examination
 
@@ -256,7 +256,7 @@ This section shall not apply to—
 
 &emsp;(5) any knowing failure to file a return of tax imposed by this title.
 
-(Added Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L. 99–514, title XVIII, §1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, §10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, §1018(u)(49), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 101–239, title VII, §7822(d)(1), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 104–188, title I, §1704(t)(59), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title I, §1102(e)(3), July 22, 1998, 112 Stat. 705.)
+(Added Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L.99–514, title XVIII, §1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, §10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, §1018(u)(49), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 101–239, title VII, §7822(d)(1), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 104–188, title I, §1704(t)(59), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title I, §1102(e)(3), July 22, 1998, 112 Stat. 705.)
 
 #### Prior Provisions
 

@@ -34,7 +34,7 @@ For purposes of this chapter:
 
 #### (6) Federal financial institutions regulatory agencies
 
-&emsp;The term “Federal financial institutions regulatory agencies” means the Board of Governors of the Federal Reserve System, theFederal Deposit Insurance Corporations, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the National Credit Union Administration.
+&emsp;The term “Federal financial institutions regulatory agencies” means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporations, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the National Credit Union Administration.
 
 #### (7) Financial institution
 

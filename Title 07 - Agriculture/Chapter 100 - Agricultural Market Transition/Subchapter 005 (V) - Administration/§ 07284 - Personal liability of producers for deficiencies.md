@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, no producer shall be personally liable for any deficiency arising from the sale of thecollateral securing any nonrecourse loan made under this chapter and title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\] unless the loan was obtained through a fraudulent representation by the producer.
+Except as provided in subsection (b) of this section, no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any nonrecourse loan made under this chapter and title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\] unless the loan was obtained through a fraudulent representation by the producer.
 
 #### (b) Limitations
 

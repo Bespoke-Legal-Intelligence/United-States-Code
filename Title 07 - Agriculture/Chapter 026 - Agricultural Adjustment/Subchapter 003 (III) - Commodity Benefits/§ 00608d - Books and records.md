@@ -10,7 +10,7 @@ Collection of cranberry inventory data.—
 
 &emsp;(A)
 
-In general.—If an order is in effect with respect to cranberries, the Secretary of Agriculture may require persons engaged in the handling or importation of cranberries or cranberry products (including producer-handlers, second handlers, processors, brokers, and importers) to provide such information as the Secretary considers necessary to effectuate the declared policy of this chapter, including information on acquisitions, inventories, and dispositions of cranberries and cranberry products.
+In general.—If an order is in effect with respect to cranberries, the Secretary of Agriculture may require persons engaged in the handling or importation of cranberries or cranberry products (including producer-handlers, second handlers, processors, brokers, and importers) to provide such information asthe Secretary considers necessary to effectuate the declared policy of this chapter, including information on acquisitions, inventories, and dispositions of cranberries and cranberry products.
 
 &emsp;(B)
 

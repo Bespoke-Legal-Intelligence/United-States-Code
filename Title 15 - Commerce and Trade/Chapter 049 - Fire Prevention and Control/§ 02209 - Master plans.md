@@ -4,13 +4,31 @@
 
 The establishment of master plans for fire prevention and control are the responsibility of the States and the political subdivisions thereof. The Administrator is authorized to encourage and assist such States and political subdivisions in such planning activities, consistent with his powers and duties under this chapter.
 
-#### (b) “Master plan” defined
+#### (b) Mutual aid systems
 
-For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resources and personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis of short and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
+#### (1) In general
 
-(Pub. L. 93–498, §10, Oct. 29, 1974, 88 Stat. 1542; Pub. L. 106–503, title I, §110(a)(1)(A), Nov. 13, 2000, 114 Stat. 2302.)
+&emsp;The Administrator shall provide technical assistance and training to State and local fire service officials to establish nationwide and State mutual aid systems for dealing with national emergencies that—
+
+&emsp;&emsp;(A) include threat assessment and equipment deployment strategies;
+
+&emsp;&emsp;(B) include means of collecting asset and resource information to provide accurate and timely data for regional deployment; and
+
+&emsp;&emsp;(C) are consistent with the Federal Response Plan.
+
+#### (2) Model mutual aid plans
+
+&emsp;The Administrator shall develop and make available to State and local fire service officials model mutual aid plans for both intrastate and interstate assistance.
+
+#### (c) “Master plan” defined
+
+For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resources and personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis ofshort and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
+
+(Pub. L. 93–498, §10, Oct. 29, 1974, 88 Stat. 1542; Pub. L. 106–503, title I, §110(a)(1)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §203(a), Dec. 6, 2003, 117 Stat. 2038.)
 
 #### Amendments
+
+2003—Subsecs. (b), (c). Pub. L. 108–169 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 2000—Subsecs. (b), (c). Pub. L. 106–503 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required Secretary to submit to Congress a report on establishment and effectiveness of master plans four years after Oct. 29, 1974.
 

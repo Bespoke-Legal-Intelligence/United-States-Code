@@ -42,47 +42,7 @@ To the extent provided in advance in appropriations Acts, the Secretary may reta
 
 #### Pilot Program Relating to Use of Proceeds of Disposal or Utilization of Certain Department of Energy Assets
 
-Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039, provided that:
-
-“(a)
-
-Purpose.—The purpose of this section is to encourage the Secretary of Energy to dispose of or otherwise utilize certain assets of the Department of Energy by making available to the Secretary the proceeds of such disposal or utilization for purposes of defraying the costs of such disposal or utilization.
-
-“(b)
-
-Use of Proceeds To Defray Costs.—(1) Notwithstanding section 3302 of title 31, United States Code, the Secretary may retain from the proceeds of the sale, lease, or disposal of an asset under subsection (c) an amount equal to the cost of the sale, lease, or disposal of the asset. The Secretary shall utilize amounts retained under this paragraph to defray the cost of the sale, lease, or disposal.
-
-“(2) For purposes of paragraph (1), the cost of a sale, lease, or disposal shall include—
-
-&emsp;“(A) the cost of administering the sale, lease, or disposal;
-
-&emsp;“(B) the cost of recovering or preparing the asset concerned for the sale, lease, or disposal; and
-
-&emsp;“(C) any other cost associated with the sale, lease, or disposal.
-
-“(c)
-
-Covered Transactions.—Subsection (b) applies to the following transactions:
-
-&emsp;“(1) The sale of heavy water at the Savannah River Site, South Carolina, that is under the jurisdiction of the Defense Environmental Management Program.
-
-&emsp;“(2) The sale of precious metals that are under the jurisdiction of the Defense Environmental Management Program.
-
-&emsp;“(3) The lease of buildings and other facilities located at the Hanford Reservation, Washington, that are under the jurisdiction of the Defense Environmental Management Program.
-
-&emsp;“(4) The lease of buildings and other facilities located at the Savannah River Site that are under the jurisdiction of the Defense Environmental Management Program.
-
-&emsp;“(5) The disposal of equipment and other personal property located at the Rocky Flats Defense Environmental Technology Site, Colorado, that is under the jurisdiction of the Defense Environmental Management Program.
-
-&emsp;“(6) The disposal of materials at the National Electronics Recycling Center, Oak Ridge, Tennessee that are under the jurisdiction of the Defense Environmental Management Program.
-
-“(d)
-
-Applicability of Disposal Authority.—Nothing in this section shall be construed to limit the application of sections 202 and 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483 and 484(j)) \[now 40 U.S.C. 521–527, 529, 549(a)–(e)\] to the disposal of equipment and other personal property covered by this section.
-
-“(e)
-
-Report.—Not later than January 31, 1999, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on amounts retained by the Secretary under subsection (b) during fiscal year 1998.”
+Pub. L. 105–85, div. C, title XXXI, §3138, Nov. 18, 1997, 111 Stat. 2039, which was formerly set out as a note under this section, was renumbered section 4833 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(13)(A)–(C), Nov. 24, 2003, 117 Stat. 1786, and is classified to section 2813 of Title 50, War and National Defense.
 
 #### Contract Goal for Small Disadvantaged Businesses and Certain Institutions of Higher Education
 
@@ -90,7 +50,7 @@ Section 3159 of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, titl
 
 “(a)
 
-Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Energy in carrying out national security programs of the Department in each of fiscal years 1994 through 2000 for the total combined amount obligated for contracts and subcontracts entered into with—
+Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount described in subsection (b) shall be the objective of the Department of Energy in carrying out national security programs of the Department in each of fiscal years 1994 through 2000 forthe total combined amount obligated for contracts and subcontracts entered into with—
 
 &emsp;“(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
 

@@ -10,7 +10,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 &emsp;The permanent board of directors of a consolidated bank shall consist of—
 
-&emsp;&emsp;(A) three members, elected by the voting stockholders of the consolidated bank, from each of the farm credit districts that had been served by constituent banks, as such districts existed on January 6, 1988, at least one of whom, from each such district, shall be a farmer;
+&emsp;&emsp;(A) three members, elected by the voting stockholders of the consolidated bank, from each of the farm credit districts that hadbeen served by constituent banks, as such districts existed on January 6, 1988, at least one of whom, from each such district, shall be a farmer;
 
 &emsp;&emsp;(B) one member elected by the voting stockholders of each district bank for cooperatives that is not a constituent of the consolidated bank; and
 
@@ -50,7 +50,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 #### (B) Timing of elections
 
-&emsp;&emsp;Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that thebeginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
+&emsp;&emsp;Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
 
 #### (4) FCA regulations
 

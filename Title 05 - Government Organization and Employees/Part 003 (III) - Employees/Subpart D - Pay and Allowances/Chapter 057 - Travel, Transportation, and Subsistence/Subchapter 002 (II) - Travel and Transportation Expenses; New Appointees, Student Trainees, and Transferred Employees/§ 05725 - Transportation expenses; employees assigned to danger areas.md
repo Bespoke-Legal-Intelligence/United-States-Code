@@ -1,6 +1,6 @@
 ### §5725. Transportation expenses; employees assigned to danger areas
 
-(a) When an employee of the Government is on duty, or is transferred or assigned to duty, at a place designated by the head of the agency concerned as inside a zone—
+(a) When an employee of the Government is on duty, or is transferred or assigned to duty, at aplace designated by the head of the agency concerned as inside a zone—
 
 &emsp;(1) from which his immediate family should be evacuated; or
 

@@ -6,7 +6,7 @@ General Grant Authority.—The Secretary of Transportation may make a grant of f
 
 &emsp;(1) be prepared to develop practicable plans that meet zoning, land use, and other requirements of the applicable State and local jurisdictions in which the terminal is located;
 
-&emsp;(2) incorporate into the designs and plans proposed for converting the terminal, featuresthat reasonably appear likely to attract private investors willing to carry out the planned conversion and its subsequent maintenance and operation; and
+&emsp;(2) incorporate into the designs and plans proposed for converting the terminal, features that reasonably appear likely to attract private investors willing to carry out the planned conversion and its subsequent maintenance and operation; and
 
 &emsp;(3) complete the designs and plans for the conversion within the period of time prescribed by the Secretary.
 

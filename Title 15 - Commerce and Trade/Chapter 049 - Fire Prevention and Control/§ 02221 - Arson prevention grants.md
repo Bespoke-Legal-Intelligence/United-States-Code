@@ -42,7 +42,7 @@ In carrying out this section, the Administrator shall award 2-year grants on a c
 
 &emsp;(8) To combat domestic violence as a cause of arson and to advance research at the State and local levels on the prevention of arson arising from domestic violence.
 
-&emsp;(9) To combat arson in rural areas and to improve the capability of firefighters to identify and prevent arson initiated fires in rural areas and public forests.
+&emsp;(9) To combat arson in rural areas and to improve the capability of firefighters to identifyand prevent arson initiated fires in rural areas and public forests.
 
 &emsp;(10) To improve the capability of firefighters to identify and combat arson through expanded training programs, including—
 

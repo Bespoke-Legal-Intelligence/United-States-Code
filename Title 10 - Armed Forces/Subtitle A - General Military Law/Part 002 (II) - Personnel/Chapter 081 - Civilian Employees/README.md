@@ -22,16 +22,20 @@
 | [1595\.](%C2%A7%2001595%20-%20Civilian%20faculty%20members%20at%20certain%20Department%20of%20Defense%20schools%20employment%20and%20compensation.md) | Civilian faculty members at certain Department of Defense schools: employment and compensation. |
 | [1596\.](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20intelligence%20interests.md) | Foreign language proficiency: special pay for proficiency beneficial for intelligence interests. |
 | [1596a.](%C2%A7%2001596a%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20other%20national%20security%20interests.md) | Foreign language proficiency: special pay for proficiency beneficial for other national security interests. |
+| [1596b.](%C2%A7%2001596b%20-%20Foreign%20language%20proficiency%20National%20Foreign%20Language%20Skills%20Registry.md) | Foreign language proficiency: National Foreign Language Skills Registry. |
 | [1597\.](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md) | Civilian positions: guidelines for reductions. |
 | [1598\.](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md) | Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides. |
 | \[1599. | Renumbered.\] |
 | [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
 | [1599c.](%C2%A7%2001599c%20-%20Appointment%20in%20excepted%20service%20of%20certain%20health%20care%20professionals.md) | Appointment in excepted service of certain health care professionals. |
+| [1599d.](%C2%A7%2001599d%20-%20Professional%20accounting%20positions%20authority%20to%20prescribe%20certification%20and%20credential%20standards.md) | Professional accounting positions: authority to prescribe certification and credential standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title X, §1064(a)(2), title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2654, 2661, added items 1596b and 1599d.
 
 2001—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
@@ -112,9 +116,11 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 01595 - Civilian faculty members at certain Department of Defense schools employment and compensation](%C2%A7%2001595%20-%20Civilian%20faculty%20members%20at%20certain%20Department%20of%20Defense%20schools%20employment%20and%20compensation.md)
 - [&sect; 01596 - Foreign language proficiency special pay for proficiency beneficial for intelligence interests](%C2%A7%2001596%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20intelligence%20interests.md)
 - [&sect; 01596a - Foreign language proficiency special pay for proficiency beneficial for other national security interests](%C2%A7%2001596a%20-%20Foreign%20language%20proficiency%20special%20pay%20for%20proficiency%20beneficial%20for%20other%20national%20security%20interests.md)
+- [&sect; 01596b - Foreign language proficiency National Foreign Language Skills Registry](%C2%A7%2001596b%20-%20Foreign%20language%20proficiency%20National%20Foreign%20Language%20Skills%20Registry.md)
 - [&sect; 01597 - Civilian positions guidelines for reductions](%C2%A7%2001597%20-%20Civilian%20positions%20guidelines%20for%20reductions.md)
 - [&sect; 01598 - Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers&#8217; aides](%C2%A7%2001598%20-%20Assistance%20to%20terminated%20employees%20to%20obtain%20certification%20and%20employment%20as%20teachers%20or%20employment%20as%20teachers%E2%80%99%20aides.md)
 - [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)
 - [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
 - [&sect; 01599c - Appointment in excepted service of certain health care professionals](%C2%A7%2001599c%20-%20Appointment%20in%20excepted%20service%20of%20certain%20health%20care%20professionals.md)
+- [&sect; 01599d - Professional accounting positions authority to prescribe certification and credential standards](%C2%A7%2001599d%20-%20Professional%20accounting%20positions%20authority%20to%20prescribe%20certification%20and%20credential%20standards.md)

@@ -154,7 +154,7 @@ Continuation of Orders, Resolutions, Determinations, and Regulations.—Subject 
 
 Identification of Regulations Which Remain in Effect Pursuant to This Section.—Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision and the Chairperson of the Federal Deposit Insurance Corporation shall—
 
-&emsp;“(1) identify the regulations and orders which relate to the conduct of conservatorships and receiverships in accordance with the allocation of authoritybetween them under this Act \[see Tables for classification\] and the amendments made by this Act; and
+&emsp;“(1) identify the regulations and orders which relate to the conduct of conservatorships and receiverships in accordance with the allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
 
 &emsp;“(2) promptly publish notice of such identification in the Federal Register.
 
@@ -252,7 +252,7 @@ Substitution for indexes.—If any index used to calculate the applicable intere
 
 &emsp;&emsp;“(A) made available by the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board pursuant to paragraph (3); or
 
-&emsp;&emsp;“(B) determined by the Director of the Office of Thrift Supervision, the Chairperson of the FederalDeposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
+&emsp;&emsp;“(B) determined by the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
 
 > &emsp;may be substituted by the holder of any such adjustable rate mortgage instrument upon notice to the borrower.
 
@@ -308,7 +308,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;“(4) If any agency or entity to which employees are transferred determines, after the end of the 1-year period beginning on the date the transfer of functions to such agency or entity is completed, that a reorganization of the combined work force is required, that reorganization shall be deemed a ‘major reorganization’ for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
 
-&emsp;“(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membershipin any employee benefit program of the Federal Home Loan Bank Board, including insurance, to which such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
+&emsp;“(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, to which such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
 
 &emsp;&emsp;“(A) the employee does not elect to give up the benefit or membership in the program; and
 
@@ -538,7 +538,7 @@ Study Required.—The Federal Home Loan Bank Board shall conduct a study of the 
 
 “(b)
 
-Report Required.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report containing the findings and conclusions of the Board with respect to the study required under subsection (a), including—
+Report Required.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 1987\], the Federal Home Loan Bank Board shall submit to the Committee on Banking, Finance and Urban Affairs ofthe House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report containing the findings and conclusions of the Board with respect to the study required under subsection (a), including—
 
 &emsp;“(1) the findings and conclusions of the Board concerning the losses to the insurance fund and the degree to which such losses were the result of direct investment activities with respect to each of the classes of institutions described in subsection (a); and
 

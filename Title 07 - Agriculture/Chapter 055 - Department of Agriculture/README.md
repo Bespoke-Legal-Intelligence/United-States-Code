@@ -119,7 +119,7 @@
 | [2257\.](%C2%A7%2002257%20-%20Interchangeability%20of%20funds%20for%20miscellaneous%20expenses%20and%20general%20expenses.md) | Interchangeability of funds for miscellaneous expenses and general expenses. |
 | [2258\.](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md) | Purchase of newspapers. |
 | [2259\.](%C2%A7%2002259%20-%20Market-inspection%20certificates%20as%20prima%20facie%20evidence.md) | Market-inspection certificates as prima facie evidence. |
-| 2260, 2260a. | Repealed. |
+| 2260, 2260a. Repealed. |  |
 | [2261\.](%C2%A7%2002261%20-%20Credit%20of%20donations%20and%20proceeds%20from%20exhibitions%20to%20appropriations%20concerned%20with%20foreign%20market%20development%20programs.md) | Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs. |
 | [2262\.](%C2%A7%2002262%20-%20Employee%20liability%20insurance%20on%20motor%20vehicles%20in%20foreign%20countries.md) | Employee liability insurance on motor vehicles in foreign countries. |
 | [2262a.](%C2%A7%2002262a%20-%20Overseas%20tort%20claims.md) | Overseas tort claims. |
@@ -204,6 +204,7 @@
 | (d) | Compensation. |
 | (e) | Procedures. |
 | (f) | Scope of subpoena. |
+| [2279g.](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md) | Marketing services; cooperative agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -333,3 +334,4 @@
 - [&sect; 02279d - Compensatory damages in claims under Rehabilitation Act of 1973](%C2%A7%2002279d%20-%20Compensatory%20damages%20in%20claims%20under%20Rehabilitation%20Act%20of%201973.md)
 - [&sect; 02279e - Civil penalty](%C2%A7%2002279e%20-%20Civil%20penalty.md)
 - [&sect; 02279f - Subpoena authority](%C2%A7%2002279f%20-%20Subpoena%20authority.md)
+- [&sect; 02279g - Marketing services; cooperative agreements](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md)

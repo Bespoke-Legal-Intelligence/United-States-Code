@@ -1,6 +1,6 @@
 ### §1184. Removal of officer: action by Secretary upon recommendation of board of inquiry
 
-The Secretary of the military department concerned may remove an officer from active duty if the removal of such officer from active duty isrecommended by a board of inquiry convened under section 1182 of this title.
+The Secretary of the military department concerned may remove an officer from active duty if the removal of such officer from active duty is recommended by a board of inquiry convened under section 1182 of this title.
 
 (Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2874; amended Pub. L. 105–261, div. A, title V, §503(b)(2), (c)(1), Oct. 17, 1998, 112 Stat. 2003.)
 
@@ -10,5 +10,5 @@ The Secretary of the military department concerned may remove an officer from ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1186 of this title.
+This section is referred to in sections 707a, 1186 of this title.
 

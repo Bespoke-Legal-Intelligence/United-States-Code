@@ -4,7 +4,7 @@
 
 &emsp;(1) to receive from or make grants to and enter into contracts with Federal, State, and general units of local government, public and private agencies, educational institutions, organizations, and individuals to carry out the purposes of this chapter;
 
-&emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, and dissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training of corrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
+&emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, and dissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training ofcorrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
 
 &emsp;(3) to assist and serve in a consulting capacity to Federal, State, and local courts, departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
 
@@ -44,7 +44,7 @@
 
 1990—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
 
-1982—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations,activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
+1982—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
 
 #### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
 
@@ -60,7 +60,7 @@ Pub. L. 100–690, title VI, §6292, Nov. 18, 1988, 102 Stat. 4369, provided tha
 
 “(a)
 
-In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the ‘center’) for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
+In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the ‘center’) for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted ofdrug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
 
 “(b)
 

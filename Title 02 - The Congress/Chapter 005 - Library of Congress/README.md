@@ -28,7 +28,10 @@
 | [138\.](%C2%A7%2000138%20-%20Law%20library%3B%20hours%20kept%20open.md) | Law library; hours kept open. |
 | [139\.](%C2%A7%2000139%20-%20Omitted.md) | Omitted. |
 | [140\.](%C2%A7%2000140%20-%20Employees%3B%20fitness.md) | Employees; fitness. |
-| [141\.](%C2%A7%2000141%20-%20Duties%20of%20Architect%20of%20the%20Capitol%20and%20Librarian%20of%20Congress.md) | Duties of Architect of the Capitol and Librarian of Congress. |
+| [141\.](%C2%A7%2000141%20-%20Allocation%20of%20responsibilities%20for%20Library%20buildings%20and%20grounds.md) | Allocation of responsibilities for Library buildings and grounds. |
+| (a) | Architect of the Capitol. |
+| (b) | Librarian of Congress. |
+| (c) | Transfer of funds. |
 | [141a.](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md) | Design, installation, and maintenance of security systems; transfer of responsibility. |
 | [142\.](%C2%A7%2000142%20-%20Omitted.md) | Omitted. |
 | [142a.](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md) | Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian. |
@@ -229,7 +232,7 @@
 - [&sect; 00138 - Law library; hours kept open](%C2%A7%2000138%20-%20Law%20library%3B%20hours%20kept%20open.md)
 - [&sect; 00139 - Omitted](%C2%A7%2000139%20-%20Omitted.md)
 - [&sect; 00140 - Employees; fitness](%C2%A7%2000140%20-%20Employees%3B%20fitness.md)
-- [&sect; 00141 - Duties of Architect of the Capitol and Librarian of Congress](%C2%A7%2000141%20-%20Duties%20of%20Architect%20of%20the%20Capitol%20and%20Librarian%20of%20Congress.md)
+- [&sect; 00141 - Allocation of responsibilities for Library buildings and grounds](%C2%A7%2000141%20-%20Allocation%20of%20responsibilities%20for%20Library%20buildings%20and%20grounds.md)
 - [&sect; 00141a - Design, installation, and maintenance of security systems; transfer of responsibility](%C2%A7%2000141a%20-%20Design%2C%20installation%2C%20and%20maintenance%20of%20security%20systems%3B%20transfer%20of%20responsibility.md)
 - [&sect; 00142 - Omitted](%C2%A7%2000142%20-%20Omitted.md)
 - [&sect; 00142a - Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian](%C2%A7%2000142a%20-%20Office%20of%20administrative%20assistant%20and%20disbursing%20officer%20in%20Library%20of%20Congress%20abolished%3B%20transfer%20of%20duties%20to%20appointee%20of%20Librarian.md)

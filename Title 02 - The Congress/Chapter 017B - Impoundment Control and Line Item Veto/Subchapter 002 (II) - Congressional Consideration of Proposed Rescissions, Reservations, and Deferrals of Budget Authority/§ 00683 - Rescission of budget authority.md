@@ -26,7 +26,7 @@ Section was formerly classified to section 1402 of Title 31 prior to the general
 
 #### Amendments
 
-1987—Subsec. (b). Pub. L. 100–119 inserted at end “Funds made available for obligation under this procedure may not be proposed for rescission again.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–119 inserted at end “Funds made available for obligation under this procedure may not be proposed for rescission again.”
 
 #### Section Referred to in Other Sections
 

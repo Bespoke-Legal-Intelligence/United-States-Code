@@ -56,7 +56,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (2) Condition for allowance of deduction
 
-&emsp;No deduction shall be allowed under paragraph (1) for a State death tax or a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
+&emsp;No deduction shall be allowed under paragraph (1) for a State death tax or a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
 
 #### (3) Effect on credits for State and foreign death taxes of deduction under this subsection
 
@@ -104,7 +104,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 2002—Subsec. (d)(3)(B). Pub. L. 107–134 substituted “section 2011(d)” for “section 2011(e)”.
 
-1997—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
+1997—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not applyto any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
 Subsec. (c)(1)(D). Pub. L. 105–34, §503(b)(1), added subpar. (D).
 
@@ -116,7 +116,7 @@ Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted “For provisions treati
 
 1976—Subsec. (d)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in provisions preceding subpar. (A) and following subpar. (B) and struck out “or Territory” after “a State” in subpar. (A).
 
-1959—Subsec. (d). Pub. L. 86–175 inserted a reference to foreign death taxes in heading of subsection and par.\(3) and in text of par. (2), redesignated provisions of par. (1) as par. (1)(A) and sentence pertaining to exercise of privilege of election, added par. (2) and sentence for determining location of property, redesignated provisions of par. (3) as par. (3)(B) in part, and added par. (3)(A) and the part of (B) relating to foreign death taxes.
+1959—Subsec. (d). Pub. L. 86–175 inserted a reference to foreign death taxes in heading of subsection and par. (3) and in text of par. (2), redesignated provisions of par. (1) as par. (1)(A) and sentence pertaining to exercise of privilege of election, added par. (2) and sentence for determining location of property, redesignated provisions of par. (3) as par. (3)(B) in part, and added par. (3)(A) and the part of (B) relating to foreign death taxes.
 
 1958—Subsec. (d)(1). Pub. L. 85–866 struck out “or any possession of the United States,” after “District of Columbia,”.
 

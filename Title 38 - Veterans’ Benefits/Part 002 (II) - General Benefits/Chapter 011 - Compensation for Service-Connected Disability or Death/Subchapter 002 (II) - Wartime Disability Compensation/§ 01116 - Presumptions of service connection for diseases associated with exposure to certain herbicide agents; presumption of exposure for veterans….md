@@ -36,7 +36,7 @@
 
 (c)(1)(A) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, the Secretary shall determine whether a presumption of service connection is warranted for each disease covered by the report. If the Secretary determines that such a presumption is warranted, the Secretary, not later than 60 days after making the determination, shall issue proposed regulations setting forth the Secretary's determination.
 
-(B) If the Secretary determines that a presumption of service connection is not warranted, the Secretary, not later than 60 days after making the determination, shall publish in the Federal Register a notice of that determination. The notice shall include an explanation ofthe scientific basis for that determination. If the disease already is included in regulations providing for a presumption of service connection, the Secretary, not later than 60 days after publication of the notice of a determination that the presumption is not warranted, shall issue proposed regulations removing the presumption for the disease.
+(B) If the Secretary determines that a presumption of service connection is not warranted, the Secretary, not later than 60 days after making the determination, shall publish in the Federal Register a notice of that determination. The notice shall include an explanation of the scientific basis for that determination. If the disease already is included in regulations providing for a presumption of service connection, the Secretary, not later than 60 days after publication of the notice of a determination that the presumption is not warranted, shall issue proposed regulations removing the presumption for the disease.
 
 (2) Not later than 90 days after the date on which the Secretary issues any proposed regulations under this subsection, the Secretary shall issue final regulations. Such regulations shall be effective on the date of issuance.
 
@@ -68,7 +68,7 @@ Subsec. (a)(3), (4). Pub. L. 107–103, §201(c)(1)(B), redesignated par. (4) as
 
 Subsec. (e). Pub. L. 107–103, §201(d)(1), substituted “on September 30, 2015” for “10 years after the first day of the fiscal year in which the National Academy of Sciences transmits to the Secretary the first report under section 3 of the Agent Orange Act of 1991”.
 
-Subsec. (f). Pub. L. 107–103, §201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
+Subsec. (f). Pub. L. 107–103, §201(c)(1)(A), (C), redesignated subsec. (a)(3) as (f), substituted “For purposes of establishing service connection for a disability or deathresulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran” for “For the purposes of this subsection, a veteran”, and struck out “and has a disease referred to in paragraph (1)(B) of this subsection” after “May 7, 1975,”.
 
 2000—Subsec. (a)(2)(F). Pub. L. 106–419 inserted “of disability” after “to a degree”.
 
@@ -176,7 +176,7 @@ Alternative Contract Scientific Organization.—If the Secretary is unable withi
 
 “(k)
 
-Liability Insurance.—(1) The Secretary may provide liability insurance for the National Academy ofSciences or any other contract scientific organization to cover any claim for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission of any person referred to in paragraph (2) in carrying out any of the following responsibilities of the Academy or such other organization, as the case may be, under an agreement entered into with the Secretary pursuant to this section:
+Liability Insurance.—(1) The Secretary may provide liability insurance for the National Academy of Sciences or any other contract scientific organization to cover any claim for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission of any person referred to in paragraph (2) in carrying out any of the following responsibilities of the Academy or such other organization, as the case may be, under an agreement entered into with the Secretary pursuant to this section:
 
 &emsp;“(A) The review, summarization, and assessment of scientific evidence referred to in subsection (c).
 
@@ -266,7 +266,7 @@ Funding.—The authority of the Secretary to carry out this section is effective
 
 “(f)
 
-Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on thedate on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
+Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on the date on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
 
 &emsp;“(A) determines that it is not feasible or cost-effective to carry out this section or that carrying out this section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
 
@@ -364,7 +364,7 @@ Pub. L. 99–272, title XIX, §19031, Apr. 7, 1986, 100 Stat. 385, provided that
 
 “(a)
 
-Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph (2), the Administrator of Veterans’ Affairs shall provide for the conduct of an epidemiological study of any long-term adverse health effects (particularly gender-specific health effects) which have been experienced by women whoserved in the Armed Forces of the United States in the Republic of Vietnam during the Vietnam era and which may have resulted from traumatic experiences during such service, from exposure during such service to phenoxy herbicides (including the herbicide known as Agent Orange), to other herbicides, chemicals, or medications that may have deleterious health effects, or to environmental hazards, or from any other experience or exposure during such service.
+Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph (2), the Administrator of Veterans’ Affairs shall provide for the conduct of an epidemiological study of any long-term adverse health effects (particularly gender-specific health effects) which have been experienced by women who served in the Armed Forces of the United States in the Republic of Vietnam during the Vietnam era and which may have resulted from traumatic experiences during such service, from exposure during such service to phenoxy herbicides (including the herbicide known as Agent Orange), to other herbicides, chemicals, or medications that may have deleterious health effects, or to environmental hazards, or from any other experience or exposure during such service.
 
 “(B) The Administrator may include in the study conducted under this paragraph an evaluation of the means of detecting and treating long-term adverse health effects (particularly gender-specific health effects) found through the study.
 
@@ -422,7 +422,7 @@ OTA Monitoring of Compliance.—(1) In order to ensure compliance with the proto
 
 “(e)
 
-Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submitted under subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
+Duration of Study.—The study conducted pursuant to subsection (a) shall be continued for as long after the date on which the first report is submittedunder subsection (f)(1) as the Administrator determines that there is a reasonable possibility of developing, through such study, significant new information on the health effects described in subsection (a)(1).
 
 “(f)
 

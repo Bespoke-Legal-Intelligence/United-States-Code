@@ -18,7 +18,7 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 #### (b) Duration of period of entitlement
 
-Subject to subsection (c) of this section, entitlement of an individual to benefits under partA and eligibility to enroll under part B of subchapter XVIII of this chapter by reasons of this section on the basis of end stage renal disease—
+Subject to subsection (c) of this section, entitlement of an individual to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter by reasons of this section on the basis of end stage renal disease—
 
 &emsp;(1) shall begin with—
 
@@ -90,7 +90,7 @@ Section effective with respect to services, supplies, and equipment furnished af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410, 418, 1320a–7a, 1395c, 1395i–2a, 1395w–23, 1395y, 1395rr of this title; title 10 section 1086.
+This section is referred to in sections 410, 418, 1320a–7a, 1395c, 1395i–2a, 1395w–23, 1395w–113, 1395y, 1395rr of this title; title 10 section 1086.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
 

@@ -20,7 +20,7 @@ Of the funds authorized to be appropriated for part IV of subchapter II of this 
 
 #### (e) Guarantee commitments limit
 
-Commitments to guarantee under subsection (a) of this section are authorized only to the extent and in the amounts provided in appropriations Acts, except that the aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $300,000,000 of contingent liability for loan principal during fiscal year 1986 and may not exceed $400,000,000 of contingent liability for loan principal during fiscal year 1987.
+Commitments to guarantee under subsection (a) of this section are authorized only to the extent and in the amounts provided in appropriations Acts, except that the aggregate amount of outstanding commitments under subsection (a) of this section may not exceed $300,000,000 ofcontingent liability for loan principal during fiscal year 1986 and may not exceed $400,000,000 of contingent liability for loan principal during fiscal year 1987.
 
 #### (f) Credits to reserve fund
 

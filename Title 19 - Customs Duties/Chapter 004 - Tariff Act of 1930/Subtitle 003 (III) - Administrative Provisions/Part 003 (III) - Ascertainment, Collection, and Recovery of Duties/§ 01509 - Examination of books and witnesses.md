@@ -272,6 +272,10 @@ Subsec. (c)(1)(A). Pub. L. 99–570, §3117(2), amended subpar. (A) generally. P
 
 1948—Act June 25, 1948, struck out “and judges and divisions of the United States Customs Court” after “Collectors and appraisers” in first sentence.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under section 1321 of this title.

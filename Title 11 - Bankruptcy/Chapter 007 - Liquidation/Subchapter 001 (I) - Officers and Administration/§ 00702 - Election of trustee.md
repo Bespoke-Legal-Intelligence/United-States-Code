@@ -12,7 +12,7 @@
 
 (c) A candidate for trustee is elected trustee if—
 
-&emsp;(1) creditors holding at least 20 percent in amount of the claims of a kind specified in subsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
+&emsp;(1) creditors holding at least 20 percent in amount of the claims of a kind specified insubsection (a)(1) of this section that are held by creditors that may vote under subsection (a) of this section vote; and
 
 &emsp;(2) such candidate receives the votes of creditors holding a majority in amount of claims specified in subsection (a)(1) of this section that are held by creditors that vote for a trustee.
 

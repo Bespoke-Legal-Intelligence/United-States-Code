@@ -37,7 +37,7 @@
 | [5132\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Mint/%C2%A7%2005132%20-%20Administrative.md) | Administrative. |
 | [5133\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Mint/%C2%A7%2005133%20-%20Settlement%20of%20accounts.md) | Settlement of accounts. |
 | [5134\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Mint/%C2%A7%2005134%20-%20Numismatic%20Public%20Enterprise%20Fund.md) | Numismatic Public Enterprise Fund. |
-| [5135\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Mint/%C2%A7%2005135%20-%20Citizens%20Commemorative%20Coin%20Advisory%20Committee.md) | Numismatic Public Enterprise Fund.<sup>1</sup> |
+| [5135\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Mint/%C2%A7%2005135%20-%20Citizens%20Coinage%20Advisory%20Committee.md) | Numismatic Public Enterprise Fund.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

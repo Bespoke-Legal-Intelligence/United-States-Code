@@ -14,7 +14,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 This section shall not apply to any falsely made, forged, altered, counterfeited or spurious representation of an obligation or other security of the United States, or of an obligation, bond, certificate, security, treasury note, bill, promise to pay or bank note issued by any foreign government. This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, §45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, §2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885;Pub. L. 100–690, title VII, §§7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, §1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -44,7 +44,7 @@ Changes were made in phraseology and arrangement.
 
 #### 1949 Act
 
-This amendment \[see section 45\] restates and clarifies the first paragraph of section 2314 of title 18, U.S.C., toconform to the original law upon which the section is based.
+This amendment \[see section 45\] restates and clarifies the first paragraph of section 2314 of title 18, U.S.C., to conform to the original law upon which the section is based.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “accredited laboratory” means a fastener testing facility used to perform end-of-line testing required by a consensus standard or standards to verify that a lot of fasteners conforms to the grade identification markingcalled for in the consensus standard or standards to which the lot of fasteners has been manufactured, and which—
+&emsp;(1) “accredited laboratory” means a fastener testing facility used to perform end-of-line testing required by a consensus standard or standards to verify that a lot of fasteners conforms to the grade identification marking called for in the consensus standard or standards to which the lot of fasteners has been manufactured, and which—
 
 &emsp;&emsp;(A) meets the requirements of ISO/IEC Guide 25 (or another document approved by the Director under section 5411a(c) of this title), including revisions from time-to-time; and
 

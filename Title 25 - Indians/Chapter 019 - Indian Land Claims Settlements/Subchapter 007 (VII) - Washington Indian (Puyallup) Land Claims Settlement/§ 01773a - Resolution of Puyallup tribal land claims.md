@@ -2,7 +2,7 @@
 
 #### (a) Relinquishment
 
-In accordance with the Settlement Agreement and in return for the land and other benefits derived from the Settlement Agreement and this subchapter, the Tribe, and the United States as trustee for the Tribe and its members, relinquish all claims to tidelands, submerged lands, and any other lands, and including any mineral claims and nonfisheries water rights connected with such relinquished land, known or unknown, within the State of Washington, subject to the exceptions referred to in subsection (b) of this section.
+In accordance with the Settlement Agreement and in return for the land and other benefits derived from the Settlement Agreement and this subchapter, the Tribe, and the United States astrustee for the Tribe and its members, relinquish all claims to tidelands, submerged lands, and any other lands, and including any mineral claims and nonfisheries water rights connected with such relinquished land, known or unknown, within the State of Washington, subject to the exceptions referred to in subsection (b) of this section.
 
 #### (b) Exception for certain lands
 

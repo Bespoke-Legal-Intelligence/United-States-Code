@@ -12,7 +12,7 @@ The Secretary may award grants under this section to colleges, universities, and
 
 &emsp;(4) other industrial hydrocarbons or triglycerides made from agricultural commodities and forest products; and
 
-&emsp;(5) the development of the most economical and commercially feasible means of producing,collecting, and transporting agricultural crops, wastes, residues, and byproducts for use as feedstocks for the production of alcohol and other forms of biomass energy and the development of new markets for byproducts.
+&emsp;(5) the development of the most economical and commercially feasible means of producing, collecting, and transporting agricultural crops, wastes, residues, and byproducts for use as feedstocks for the production of alcohol and other forms of biomass energy and the development of new markets for byproducts.
 
 #### (b) Set aside of funds for certain grant projects
 

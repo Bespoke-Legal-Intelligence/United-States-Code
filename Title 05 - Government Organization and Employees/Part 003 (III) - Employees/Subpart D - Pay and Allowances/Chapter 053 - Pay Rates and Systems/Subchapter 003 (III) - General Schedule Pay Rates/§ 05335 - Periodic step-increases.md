@@ -50,7 +50,7 @@ Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 701”, 76 Stat. 847.
 
 Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 703 (as applicable to §701)”, 76 Stat. 847.
 
-In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated thenecessity of referring to rates as scheduled or longevity.
+In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
 
 In subsection (a)(B), the words “except a hearing examiner appointed under section 3105 of this title” are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 

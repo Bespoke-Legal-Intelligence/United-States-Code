@@ -14,7 +14,7 @@ Concurrence in Appointment.—(1) Before submitting a recommendation to the Pres
 
 &emsp;(B) The Director of the National Reconnaissance Office.
 
-&emsp;(C) The Director of the National Imagery and Mapping Agency.
+&emsp;(C) The Director of the National Geospatial-Intelligence Agency.
 
 (c)
 
@@ -26,15 +26,17 @@ Performance Evaluations.—(1) The Director of Central Intelligence shall provid
 
 &emsp;(B) The Director of the National Reconnaissance Office.
 
-&emsp;(C) The Director of the National Imagery and Mapping Agency.
+&emsp;(C) The Director of the National Geospatial-Intelligence Agency.
 
-(Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676.)
+(Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, §921(d)(4), Nov. 24, 2003, 117 Stat. 1569.)
 
 #### Prior Provisions
 
 A prior section 201 was renumbered section 202 of this title and subsequently repealed.
 
 #### Amendments
+
+2003—Subsecs. (b)(2)(C), (c)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1996—Pub. L. 104–201 substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency or Director of the National Security Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.”
 

@@ -34,7 +34,7 @@ June 28, 1950, ch. 383, §306(b), 64 Stat. 269.
 
 10:1g(b) (words of 1st sentence after semicolon).
 
-In subsection (a), the words “The special branches of the Army” are substituted for the words “There shall be in the Army certain branches, which shall be known as special branches, and which shall”. The words “authorized by sections 61–1, 81–1, and 231a of this title” are omitted as surplusage. The words “and the sections prescribed in this chapter” are inserted, since some ofthe corps of the Army Medical Service consist of members and sections. Clauses (1), (2), and (3) are substituted for 10:1g(b) (last sentence).
+In subsection (a), the words “The special branches of the Army” are substituted for the words “There shall be in the Army certain branches, which shall be known as special branches, and which shall”. The words “authorized by sections 61–1, 81–1, and 231a of this title” are omitted as surplusage. The words “and the sections prescribed in this chapter” are inserted, since some of the corps of the Army Medical Service consist of members and sections. Clauses (1), (2), and (3) are substituted for 10:1g(b) (last sentence).
 
 In subsection (b), the words “who has been appointed and commissioned in some other special branch, or \* \* \* without specification of branch” are omitted as surplusage.
 

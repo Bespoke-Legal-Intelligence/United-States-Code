@@ -60,7 +60,7 @@ There is authorized to be appropriated to carry out this section $15,000,000 for
 
 #### (f) Allotment for Indian tribes
 
-Not less than 5 percent of the total amount made available for each fiscal year to carry out this section shall be available for grants to Indian tribal governments.
+Not less than 5 percent of the total amount made available for each fiscal year to carry outthis section shall be available for grants to Indian tribal governments.
 
 (Pub. L. 106–386, div. B, title III, §1301, Oct. 28, 2000, 114 Stat. 1509.)
 

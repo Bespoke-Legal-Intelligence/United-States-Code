@@ -58,7 +58,7 @@ In general.—Notwithstanding subsection (b)(2)(D), a State or metropolitan plan
 
 &emsp;(B)
 
-Action by secretary.—Action by the Secretary shall be required for a State or metropolitan planning organization to select any project from the illustrative list of additional projects included in the plan under subsection (b)(2) for inclusion in an approved transportation improvement plan.
+Action by secretary.—Action by the Secretary shall be required for a State or metropolitan planning organization to select any project from the illustrative list of additionalprojects included in the plan under subsection (b)(2) for inclusion in an approved transportation improvement plan.
 
 (5)
 

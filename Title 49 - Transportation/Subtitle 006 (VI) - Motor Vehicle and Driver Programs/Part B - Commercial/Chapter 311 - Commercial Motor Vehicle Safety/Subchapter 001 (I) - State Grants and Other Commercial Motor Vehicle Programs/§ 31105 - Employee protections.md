@@ -36,7 +36,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (c)
 
-Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may file a petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. The review shall be heard and decided expeditiously. An order of the Secretary subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
+Judicial Review and Venue.—A person adversely affected by an order issued after a hearing under subsection (b) of this section may filea petition for review, not later than 60 days after the order is issued, in the court of appeals of the United States for the circuit in which the violation occurred or the person resided on the date of the violation. The review shall be heard and decided expeditiously. An order of the Secretary subject to review under this subsection is not subject to judicial review in a criminal or other civil proceeding.
 
 (d)
 

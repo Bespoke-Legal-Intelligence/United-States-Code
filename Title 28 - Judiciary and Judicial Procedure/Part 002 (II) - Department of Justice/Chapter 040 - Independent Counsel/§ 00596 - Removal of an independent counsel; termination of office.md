@@ -10,7 +10,7 @@ Grounds for removal.—An independent counsel appointed under this chapter may b
 
 &emsp;(2)
 
-Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the court and the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
+Report to division of the court and congress.—If an independent counsel is removed from office, the Attorney General shall promptly submit to the division of the courtand the Committees on the Judiciary of the Senate and the House of Representatives a report specifying the facts found and the ultimate grounds for such removal. The committees shall make available to the public such report, except that each committee may, if necessary to protect the rights of any individual named in the report or to prevent undue interference with any pending prosecution, postpone or refrain from publishing any or all of the report. The division of the court may release any or all of such report in accordance with section 594(h)(2).
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ Subsecs. (a)(2), (3), (b). Pub. L. 97–409, §2(a)(1)(A), substituted “indepe
 
 #### Change of Name
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee onGovernment Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 

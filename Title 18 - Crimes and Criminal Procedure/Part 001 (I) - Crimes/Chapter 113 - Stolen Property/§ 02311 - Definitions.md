@@ -18,7 +18,7 @@ As used in this chapter:
 
 “Value” means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, titleII, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### Historical and Revision Notes
 

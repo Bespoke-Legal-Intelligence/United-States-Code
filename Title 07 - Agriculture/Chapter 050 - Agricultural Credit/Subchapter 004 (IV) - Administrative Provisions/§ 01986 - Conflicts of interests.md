@@ -2,7 +2,7 @@
 
 #### (a) Acceptance of fees, commissions, gifts, or other considerations prohibited
 
-No officer, attorney, or other employee of the Secretary shall, directly or indirectly, be the beneficiary of or receive any fee, commission, gift, or other consideration for or in connection with any transaction or business under this chapter other than such salary, fee, or other compensation as he may receive as such officer, attorney, or employee.
+No officer, attorney, or other employee of the Secretary shall, directly or indirectly, be the beneficiary of or receive any fee, commission, gift, or other consideration for or in connection with any transaction or business under thischapter other than such salary, fee, or other compensation as he may receive as such officer, attorney, or employee.
 
 #### (b) Acquisition of interest in land by certain officers or employees of Department of Agriculture prohibited; 3-year period
 

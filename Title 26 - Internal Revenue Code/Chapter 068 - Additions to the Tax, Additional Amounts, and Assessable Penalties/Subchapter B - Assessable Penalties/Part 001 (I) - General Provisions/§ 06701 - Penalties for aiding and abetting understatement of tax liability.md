@@ -46,7 +46,7 @@ Subsection (a) shall apply whether or not the understatement is with the knowled
 
 #### (e) Certain actions not treated as aid or assistance
 
-For purposes of subsection (a)(1), a person furnishing typing, reproducing, or other mechanical assistance with respect to a document shall not be treated as having aided or assisted in the preparation of such document by reason of such assistance.
+For purposes of subsection (a)(1), a person furnishing typing, reproducing, or other mechanical assistance with respect to a document shallnot be treated as having aided or assisted in the preparation of such document by reason of such assistance.
 
 #### (f) Penalty in addition to other penalties
 

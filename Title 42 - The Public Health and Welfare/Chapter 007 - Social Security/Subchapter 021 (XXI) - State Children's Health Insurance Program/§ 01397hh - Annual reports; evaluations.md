@@ -46,7 +46,7 @@ The State shall—
 
 #### (2) Report of the Secretary
 
-&emsp;The Secretary shall submit to Congress and make available to the public by December 31,2001, a report based on the evaluations submitted by States under paragraph (1), containing any conclusions and recommendations the Secretary considers appropriate.
+&emsp;The Secretary shall submit to Congress and make available to the public by December 31, 2001, a report based on the evaluations submitted by States under paragraph (1), containing any conclusions and recommendations the Secretary considers appropriate.
 
 #### (c) Federal evaluation
 

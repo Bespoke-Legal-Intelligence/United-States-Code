@@ -48,7 +48,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (3) Personnel employed regularly and full time in the immediate offices of Commissioners other than the Chairman shall not be affected by the provisions of this reorganization plan.
 
-(4) There are hereby reserved to the Commission its functions with respect to revising budget estimates andwith respect to determining upon the distribution of appropriated funds according to major programs and purposes.
+(4) There are hereby reserved to the Commission its functions with respect to revising budget estimates and with respect to determining upon the distribution of appropriated funds according to major programs and purposes.
 
 #### Sec. 2. Performance of Transferred Functions
 
@@ -56,7 +56,7 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 #### Sec. 3. Designation of Chairman
 
-The functions of the Commission with respect to choosing a chairman from among the commissioners composing the Commission are hereby transferred to the President.
+The functions of the Commission with respect to choosing a chairman from among the commissionerscomposing the Commission are hereby transferred to the President.
 
 #### Message of the President
 

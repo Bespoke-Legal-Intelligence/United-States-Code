@@ -70,7 +70,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(C) the agreement among the recipient corporation, the lender, and the qualified trust relating to the loan meets the requirements of this section.
 
-(2) An employee stock ownership plan does not meet the requirements of this subsection unless the governing instrument of the plan provides that—
+(2) An employee stock ownership plan does not meet the requirements of this subsection unlessthe governing instrument of the plan provides that—
 
 &emsp;(A) the amount of the loan paid under paragraph (1)(A) to the qualified trust will be used to purchase qualified employer securities,
 
@@ -96,7 +96,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(A) “employee stock ownership plan” means a plan described in section 4975(e)(7) of title 26,
 
-&emsp;(B) “qualified trust” means a trust established under an employee stock ownership plan and meeting the requirements of title I ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and section 401 of title 26,
+&emsp;(B) “qualified trust” means a trust established under an employee stock ownership plan and meeting the requirements of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and section 401 of title 26,
 
 &emsp;(C) “qualified employer securities” means common stock issued by the recipient corporation or by a parent or subsidiary of such corporation with voting power and dividend rights no less favorable than the voting power and dividend rights on other common stock issued by the issuing corporation and with voting power being exercised by the participants in the employee stock ownership plan after it is allocated to their plan accounts, and
 

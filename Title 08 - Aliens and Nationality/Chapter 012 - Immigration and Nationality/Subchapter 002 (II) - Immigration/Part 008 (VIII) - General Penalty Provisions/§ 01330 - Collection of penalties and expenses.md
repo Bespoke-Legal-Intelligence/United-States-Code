@@ -20,7 +20,7 @@
 
 (B) The amounts which are required to be refunded under subparagraph (A) shall be refunded at least quarterly on the basis of estimates made by the Attorney General of the expenses referred to in subparagraph (A). Proper adjustments shall be made in the amounts subsequently refunded under subparagraph (A) to the extent prior estimates were in excess of, or less than, the amount required to be refunded under subparagraph (A).
 
-(C) The amounts required to be refunded from the Immigration Enforcement Account for fiscal year 1996 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in such budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 605 of Public Law 104–134.
+(C) The amounts required to be refunded from the Immigration Enforcement Account for fiscal year 1996 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years. Any proposed changes in the amounts designated in such budget requests shall only bemade after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 605 of Public Law 104–134.
 
 (D) The Attorney General shall prepare and submit annually to the Congress statements of financial condition of the Immigration Enforcement Account, including beginning account balance, revenues, withdrawals, and ending account balance and projection for the ensuing fiscal year.
 
@@ -60,7 +60,7 @@ Section 382(c) of div. C of Pub. L. 104–208 provided that: “The amendments m
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 

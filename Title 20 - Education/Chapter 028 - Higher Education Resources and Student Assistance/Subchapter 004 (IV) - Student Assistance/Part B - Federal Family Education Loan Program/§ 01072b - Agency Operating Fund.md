@@ -32,7 +32,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (2) Special rule
 
-&emsp;The guaranty agency may, in the agency's discretion, transfer funds from the Operating Fund to the Federal Fund for use pursuant to section 1072a of this title. Such transfer shall be irrevocable, and any funds so transferred shall become the sole property of the United States.
+&emsp;The guaranty agency may, in the agency's discretion, transfer funds from the OperatingFund to the Federal Fund for use pursuant to section 1072a of this title. Such transfer shall be irrevocable, and any funds so transferred shall become the sole property of the United States.
 
 #### (3) Definitions
 
@@ -44,7 +44,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (B) Default aversion activities
 
-&emsp;&emsp;The term “default aversion activities” means activities of a guaranty agency that are directly related to providing collection assistance to the lender on a delinquentloan, prior to the loan's being legally in a default status, including due diligence activities required pursuant to regulations of the Secretary.
+&emsp;&emsp;The term “default aversion activities” means activities of a guaranty agency that are directly related to providing collection assistance to the lender on a delinquent loan, prior to the loan's being legally in a default status, including due diligence activities required pursuant to regulations of the Secretary.
 
 #### (C) Enrollment and repayment status management
 

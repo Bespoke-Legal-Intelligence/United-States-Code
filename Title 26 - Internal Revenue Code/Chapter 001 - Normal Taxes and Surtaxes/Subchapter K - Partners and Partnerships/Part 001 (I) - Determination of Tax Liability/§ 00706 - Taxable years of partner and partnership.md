@@ -42,7 +42,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “majority interest taxable year” means the taxable year (if any) which, on each testing day, constituted the taxable year of 1 or more partners having (on such day) an aggregate interest inpartnership profits and capital of more than 50 percent.
+&emsp;&emsp;&emsp;The term “majority interest taxable year” means the taxable year (if any) which, on each testing day, constituted the taxable year of 1 or more partners having (on such day) an aggregate interest in partnership profits and capital of more than 50 percent.
 
 #### (ii) Testing days
 
@@ -200,13 +200,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 806(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,with special provisions applicable to taxpayers who are required to change their accounting periods, see section 806(e) of Pub. L. 99–514, set out as a note under section 1378 of this title.
+Amendment by section 806(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with special provisions applicable to taxpayers who are required to change their accounting periods, see section 806(e) of Pub. L. 99–514, set out as a note under section 1378 of this title.
 
 Amendment by section 1805(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Section 72(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall apply—
+Section 72(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[amending this section\] shall apply—
 
 &emsp;“(1) in the case of items described in section 706(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)), to amounts attributable to periods after March 31, 1984, and
 

@@ -24,7 +24,7 @@
 
 &emsp;(3) appropriate arrangements for employees adversely affected by the exercise of any function under this section by such management officials.
 
-(Pub. L. 96–465, title I, §1005, Oct. 17, 1980, 94 Stat. 2131; Pub. L. 103–236, title I, §181(b), Apr. 30, 1994, 108 Stat. 417; Pub. L. 103–415, §1(jj)(2), Oct. 25, 1994, 108 Stat. 4303.)
+(Pub. L. 96–465, title I, §1005, Oct. 17, 1980, 94 Stat. 2131; Pub. L. 103–236, title I, §181(b), Apr.30, 1994, 108 Stat. 417; Pub. L. 103–415, §1(jj)(2), Oct. 25, 1994, 108 Stat. 4303.)
 
 #### Amendments
 

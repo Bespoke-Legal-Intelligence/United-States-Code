@@ -38,7 +38,7 @@ The Federal Property and Administrative Services Act of 1949, as amended, referr
 
 #### Amendments
 
-2000—Pub. L. 106–291, §149(c)(2), substituted “the park” for “the recreation area” wherever appearing and “The park” for “The recreation area” in subsec. (a).
+2000—Pub. L. 106–291, §149(c)(2), substituted “the park” for “the recreation area” wherever appearingand “The park” for “The recreation area” in subsec. (a).
 
 Subsec. (a). Pub. L. 106–291, §149(b), substituted “The park shall” for “The recreational area shall” and “National Park” for “National Recreation Area”.
 

@@ -4,39 +4,39 @@
 
 Subject to subsection (c) of this section, any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
-(1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
+&emsp;(1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
 
-(2) In accordance with the written instructions of the consumer to whom it relates.
+&emsp;(2) In accordance with the written instructions of the consumer to whom it relates.
 
-(3) To a person which it has reason to believe—
+&emsp;(3) To a person which it has reason to believe—
 
-&emsp;(A) intends to use the information in connection with a credit transaction involving the consumer on whom the information is to be furnished and involving the extension of credit to, or review or collection of an account of, the consumer; or
+&emsp;&emsp;(A) intends to use the information in connection with a credit transaction involving the consumer on whom the information is to be furnished and involving the extension of credit to, or review or collection of an account of, the consumer; or
 
-&emsp;(B) intends to use the information for employment purposes; or
+&emsp;&emsp;(B) intends to use the information for employment purposes; or
 
-&emsp;(C) intends to use the information in connection with the underwriting of insurance involving the consumer; or
+&emsp;&emsp;(C) intends to use the information in connection with the underwriting of insurance involving the consumer; or
 
-&emsp;(D) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefit granted by a governmental instrumentality required by law to consider an applicant's financial responsibility or status; or
+&emsp;&emsp;(D) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefit granted by a governmental instrumentality required by law to consider an applicant's financial responsibility or status; or
 
-&emsp;(E) intends to use the information, as a potential investor or servicer, or current insurer, in connection with a valuation of, or an assessment of the credit or prepayment risks associated with, an existing credit obligation; or
+&emsp;&emsp;(E) intends to use the information, as a potential investor or servicer, or current insurer, in connection with a valuation of, or an assessment of the credit or prepayment risks associated with, an existing credit obligation; or
 
-&emsp;(F) otherwise has a legitimate business need for the information—
+&emsp;&emsp;(F) otherwise has a legitimate business need for the information—
 
-&emsp;&emsp;(i) in connection with a business transaction that is initiated by the consumer; or
+&emsp;&emsp;&emsp;(i) in connection with a business transaction that is initiated by the consumer; or
 
-&emsp;&emsp;(ii) to review an account to determine whether the consumer continues to meet the terms of the account.
+&emsp;&emsp;&emsp;(ii) to review an account to determine whether the consumer continues to meet the terms of the account.
 
-(4) In response to a request by the head of a State or local child support enforcement agency (or a State or local government official authorized by the head of such an agency), if the person making the request certifies to the consumer reporting agency that—
+&emsp;(4) In response to a request by the head of a State or local child support enforcement agency (or a State or local government official authorized by the head of such an agency), if the person making the request certifies to the consumer reporting agency that—
 
-&emsp;(A) the consumer report is needed for the purpose of establishing an individual's capacity to make child support payments or determining the appropriate level of such payments;
+&emsp;&emsp;(A) the consumer report is needed for the purpose of establishing an individual's capacity to make child support payments or determining the appropriate level of such payments;
 
-&emsp;(B) the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
+&emsp;&emsp;(B) the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
 
-&emsp;(C) the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
+&emsp;&emsp;(C) the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
 
-&emsp;(D) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
+&emsp;&emsp;(D) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
 
-(5) To an agency administering a State plan under section 654 of title 42 for use to set an initial or modified child support award.
+&emsp;(5) To an agency administering a State plan under section 654 of title 42 for use to set an initial or modified child support award.
 
 #### (b) Conditions for furnishing and using consumer reports for employment purposes
 
@@ -50,7 +50,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(ii) information from the consumer report will not be used in violation of any applicable Federal or State equal employment opportunity law or regulation; and
 
-&emsp;&emsp;(B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer's rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+&emsp;&emsp;(B) the consumer reporting agency provides with the report, or has previously provided, a summary of the consumer's rights under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) <sup>1</sup> of this title.
 
 #### (2) Disclosure to consumer
 
@@ -86,7 +86,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(i) a copy of the report; and
 
-&emsp;&emsp;&emsp;(ii) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+&emsp;&emsp;&emsp;(ii) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under section 1681g(c)(3) <sup>1</sup> of this title.
 
 #### (B) Application by mail, telephone, computer, or other similar means
 
@@ -100,7 +100,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;&emsp;(IV) that the consumer may, upon providing proper identification, request a free copy of a report and may dispute with the consumer reporting agency the accuracy or completeness of any information in a report.
 
-&emsp;&emsp;(ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer's request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer's rights as prescribed by the Federal Trade Commission under section 1681g(c)(3) of this title.
+&emsp;&emsp;(ii) If, under clause (B)(i)(IV), the consumer requests a copy of a consumer report from the person who procured the report, then, within 3 business days of receiving the consumer's request, together with proper identification, the person must send or provide to the consumer a copy of a report and a copy of the consumer's rights as prescribed by the Federal Trade Commission under section 1681g(c)(3) <sup>1</sup> of this title.
 
 #### (C) Scope
 
@@ -148,15 +148,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;For purposes of subparagraphs (A) and (B), the head of any agency or department of the United States Government may delegate his or her authorities under this paragraph to an official of such agency or department who has personnel security responsibilities and is a member of the Senior Executive Service or equivalent civilian or military rank.
 
-#### (D) Report to the Congress
-
-&emsp;&emsp;Except as provided in subparagraph (E), not later than January 31 of each year, the head of each agency and department of the United States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
-
-#### (E) Reports to congressional intelligence committees
-
-&emsp;&emsp;In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
-
-#### (F) Definitions
+#### (D) Definitions
 
 &emsp;&emsp;For purposes of this paragraph, the following definitions shall apply:
 
@@ -216,7 +208,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;Upon receipt of notification of the election of a consumer under paragraph (1) through the notification system maintained by the agency under paragraph (5), a consumer reporting agency shall—
 
-&emsp;&emsp;(A) inform the consumer that the election is effective only for the 2-year period following the election if the consumer does not submit to the agency a signed notice of election form issued by the agency for purposes of paragraph (2)(B); and
+&emsp;&emsp;(A) inform the consumer that the election is effective only for the 5-year period following the election if the consumer does not submit to the agency a signed notice of election form issued by the agency for purposes of paragraph (2)(B); and
 
 &emsp;&emsp;(B) provide to the consumer a notice of election form, if requested by the consumer, not later than 5 business days after receipt of the notification of the election through the system established under paragraph (5), in the case of a request made at the time the consumer provides notification through the system.
 
@@ -228,7 +220,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;&emsp;(B) shall be effective with respect to a consumer reporting agency—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (C), during the 2-year period beginning 5 business days after the date on which the consumer notifies the agency of the election, in the case of an election for which a consumer notifies the agency only in accordance with paragraph (2)(A); or
+&emsp;&emsp;&emsp;(i) subject to subparagraph (C), during the 5-year period beginning 5 business days after the date on which the consumer notifies the agency of the election, in the case of an election for which a consumer notifies the agency only in accordance with paragraph (2)(A); or
 
 &emsp;&emsp;&emsp;(ii) until the consumer notifies the agency under subparagraph (C), in the case of an election for which a consumer notifies the agency in accordance with paragraph (2)(B);
 
@@ -266,17 +258,91 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;(2) the purpose is certified in accordance with section 1681e of this title by a prospective user of the report through a general or specific certification.
 
-#### (g) Furnishing reports containing medical information
+#### (g) Protection of medical information
 
-A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.
+#### (1) Limitation on consumer reporting agencies
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div.A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426.)
+&emsp;A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless—
+
+&emsp;&emsp;(A) if furnished in connection with an insurance transaction, the consumer affirmatively consents to the furnishing of the report;
+
+&emsp;&emsp;(B) if furnished for employment purposes or in connection with a credit transaction—
+
+&emsp;&emsp;&emsp;(i) the information to be furnished is relevant to process or effect the employment or credit transaction; and
+
+&emsp;&emsp;&emsp;(ii) the consumer provides specific written consent for the furnishing of the report that describes in clear and conspicuous language the use for which the information will be furnished; or
+
+&emsp;&emsp;(C) the information to be furnished pertains solely to transactions, accounts, or balances relating to debts arising from the receipt of medical services, products, or devises, where such information, other than account status or amounts, is restricted or reported using codes that do not identify, or do not provide information sufficient to infer, the specific provider or the nature of such services, products, or devices, as provided in section 1681c(a)(6) of this title.
+
+#### (2) Limitation on creditors
+
+&emsp;Except as permitted pursuant to paragraph (3)(C) or regulations prescribed under paragraph (5)(A), a creditor shall not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit.
+
+#### (3) Actions authorized by Federal law, insurance activities and regulatory determinations
+
+&emsp;Section 1681a(d)(3) of this title shall not be construed so as to treat information or any communication of information as a consumer report if the information or communication is disclosed—
+
+&emsp;&emsp;(A) in connection with the business of insurance or annuities, including the activities described in section 18B of the model Privacy of Consumer Financial and Health Information Regulation issued by the National Association of Insurance Commissioners (as in effect on January 1, 2003);
+
+&emsp;&emsp;(B) for any purpose permitted without authorization under the Standards for Individually Identifiable Health Information promulgated by the Department of Health and Human Services pursuant to the Health Insurance Portability and Accountability Act of 1996, or referred to under section 1179 of such Act,<sup>2</sup> or described in section 6802(e) of this title; or
+
+&emsp;&emsp;(C) as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of section 1681s(b) of this title,<sup>3</sup> or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).
+
+#### (4) Limitation on redisclosure of medical information
+
+&emsp;Any person that receives medical information pursuant to paragraph (1) or (3) shall not disclose such information to any other person, except as necessary to carry out the purpose for which the information was initially disclosed, or as otherwise permitted by statute, regulation, or order.
+
+#### (5) Regulations and effective date for paragraph (2)
+
+#### (A) Regulations required
+
+&emsp;&emsp;Each Federal banking agency and the National Credit Union Administration shall, subject to paragraph (6) and after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
+
+#### (B) Final regulations required
+
+&emsp;&emsp;The Federal banking agencies and the National Credit Union Administration shall issue the regulations required under subparagraph (A) in final form before the end of the 6-month period beginning on December 4, 2003.
+
+#### (6) Coordination with other laws
+
+&emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
+
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625.)
+
+#### Amendment of Subsection (g)
+
+<i>Pub. L. 108–159, title IV, §412(f), (g), Dec. 4, 2003, 117 Stat. 2003, provided that, effective at the end of the 15-month period beginning on Dec. 4, 2003, subsection (g) of this section is amended:</i>
+
+<i>(1) in paragraph (1), by inserting “(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)” after “a consumer report that contains medical information”; and</i>
+
+<i>(2) in paragraph (2), by inserting “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.</i>
 
 #### References in Text
 
+Section 1681g(c) of this title, referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by Pub. L. 108–159, title II, §211(c), Dec. 4, 2003, 117 Stat. 1970, and, as so amended, no longer contains a par. (3).
+
 Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
 
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(3)(B), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
+
+Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by section 262(a) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2030, which is classified to section 1320d–8 of Title 42, The Public Health and Welfare.
+
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–159, §811(b), realigned margins.
+
+Subsec. (b)(4)(D) to (F). Pub. L. 108–177 struck out subpars. (D) and (E) and redesignated subpar. (F) as (D). Prior to amendment, subpars. (D) and (E) read as follows:
+
+“(D)
+
+Report to the congress.—Except as provided in subparagraph (E), not later than January 31 of each year, the head of each agency and department of the United States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
+
+“(E)
+
+Reports to congressional intelligence committees.—In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.”
+
+Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, §213(c), substituted “5-year period” for “2-year period”.
+
+Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
 
 2002—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
 
@@ -314,19 +380,39 @@ Pars. (4), (5). Pub. L. 104–193, §352, added pars. (4) and (5).
 
 1989—Par. (1). Pub. L. 101–73 inserted “, or a subpoena issued in connection with proceedings before a Federal grand jury” before period at end.
 
+#### Effective Date of 2003 Amendments
+
+Amendment by Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pub. L. 108–177, set out as a note under section 1611 of Title 10, Armed Forces.
+
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
+
+Amendment by section 411 of Pub. L. 108–159 effective at end of 180-day period beginning on Dec. 4, 2003, with certain exceptions, see section 411(d) of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681a of this title.
+
+Pub. L. 108–159, title IV, §412(g), Dec. 4, 2003, 117 Stat. 2003, provided that: “The amendments made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall take effect at the end of the 15-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\].”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory PaperworkReduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1996 Amendments
 
 Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42, The Public Health and Welfare.
+
+#### Public Awareness Campaign
+
+Pub. L. 108–159, title II, §213(d), Dec. 4, 2003, 117 Stat. 1979, provided that: “The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act (15 U.S.C. 1681b(e)), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening.”
+
+\[For definitions of terms used in section 213(d) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+
+#### Coordination With Federal Laws Relating to Medical Confidentiality
+
+Pub. L. 108–159, title IV, §412(d), Dec. 4, 2003, 117 Stat. 2002, provided that: “No provision of any amendment made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
 
 #### FTC Guidelines Regarding Prescreening for Insurance Transactions
 
@@ -335,4 +421,10 @@ Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Tra
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1681a, 1681e, 1681f, 1681g, 1681k, 1681m, 1681s–1, 1681t, 1681u, 1681v, 1692d of this title; title 31 section 3711; title 50 section 415b.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
 

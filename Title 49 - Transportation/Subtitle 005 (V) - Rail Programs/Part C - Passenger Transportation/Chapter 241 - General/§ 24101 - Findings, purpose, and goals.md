@@ -44,7 +44,7 @@ Goals.—Amtrak shall—
 
 &emsp;(3) carry out strategies to achieve immediately maximum productivity and efficiency consistent with safe and efficient transportation;
 
-&emsp;(4) operate Amtrak trains, to the maximum extent feasible, to all station stops within 15 minutes of the time established in public timetables;
+&emsp;(4) operate Amtrak trains, to the maximum extent feasible, to all station stops within 15minutes of the time established in public timetables;
 
 &emsp;(5) develop transportation on rail corridors subsidized by States and private parties;
 
@@ -114,7 +114,7 @@ The Amtrak Reform and Accountability Act of 1997, referred to in subsec. (d), is
 
 1997—Subsec. (c)(2). Pub. L. 105–134, §105(b), inserted “, separately or in combination,” after “and the private sector”.
 
-Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reformand Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
+Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
 
 #### Amtrak Findings
 
@@ -136,7 +136,7 @@ Pub. L. 105–134, §2, Dec. 2, 1997, 111 Stat. 2571, provided that: “The Cong
 
 &emsp;“(8) Amtrak and its employees should proceed quickly with proposals to modify collective bargaining agreements to make more efficient use of manpower and to realize cost savings which are necessary to reduce Federal financial assistance;
 
-&emsp;“(9) Amtrak and intercity bus service providers should work cooperatively and develop coordinated intermodal relationships promoting seamless transportation services which enhance travel options and increase operating efficiencies;
+&emsp;“(9) Amtrak and intercity bus service providers should work cooperatively and develop coordinatedintermodal relationships promoting seamless transportation services which enhance travel options and increase operating efficiencies;
 
 &emsp;“(10) Amtrak's Strategic Business Plan calls for the establishment of a dedicated source of capital funding for Amtrak in order to ensure that Amtrak will be able to fulfill the goals of maintaining—
 
@@ -382,7 +382,7 @@ Motion nondebatable.—A motion to proceed to consideration of a liquidation dis
 
 Limit on consideration.—
 
-&emsp;&emsp;“(A) After no more than 20 hours of consideration of a liquidation disapproval resolution, the Senate shall proceed, without intervening action or debate (except as permitted under paragraph (9)), to vote on the final disposition thereof to the exclusion of all amendments not then pending and to the exclusion of all motions, except a motion to reconsider or table.
+&emsp;&emsp;“(A) After no more than 20 hours of consideration of a liquidation disapproval resolution, the Senate shall proceed, without intervening action or debate (except as permitted under paragraph (9)), to vote on the final disposition thereof to the exclusion ofall amendments not then pending and to the exclusion of all motions, except a motion to reconsider or table.
 
 &emsp;&emsp;“(B) The time for debate on the liquidation disapproval resolution shall be equally divided between the Majority Leader and the Minority Leader or their designees.
 

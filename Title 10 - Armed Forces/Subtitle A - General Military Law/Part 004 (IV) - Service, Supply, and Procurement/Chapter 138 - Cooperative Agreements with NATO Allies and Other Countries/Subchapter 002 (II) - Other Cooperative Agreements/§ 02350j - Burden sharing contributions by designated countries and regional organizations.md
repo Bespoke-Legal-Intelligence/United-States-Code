@@ -28,7 +28,7 @@ Authorization of Military Construction.—Contributions placed in an account est
 
 (e)
 
-Notice and Wait Requirements.—(1) When a decision is made to carry out a military construction project under subsection (d), the Secretary of Defense shall submit to the congressional committees specified in subsection (g) a report containing—
+Notice and Wait Requirements.—(1) When a decision is made to carry out a military construction project under subsection (d), the Secretary of Defense shall submit to the congressional defense committees a report containing—
 
 &emsp;(A) an explanation of the need for the project;
 
@@ -36,11 +36,11 @@ Notice and Wait Requirements.—(1) When a decision is made to carry out a milit
 
 &emsp;(C) a justification for carrying out the project under that subsection.
 
-(2) The Secretary of Defense or the Secretary of a military department may not commence a military construction project under subsection (d) until the end of the 21-day period beginning on the date on which the Secretary of Defense submits the report under paragraph (1) regarding the project.
+(2) The Secretary of Defense or the Secretary of a military department may not commence a military construction project under subsection (d) until the end of the 21-day period beginning on the date on which the Secretary of Defense submits the report under paragraph (1) regarding the project or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title.
 
 (3)(A) A military construction project under subsection (d) may be carried out without regard to the requirement in paragraph (1) and the limitation in paragraph (2) if the project is necessary to support the armed forces in the country or region in which the project is carried out by reason of a declaration of war, or a declaration by the President of a national emergency pursuant to the National Emergencies Act (50 U.S.C. 1601 et seq.), that is in force at the time of the commencement of the project.
 
-(B) When a decision is made to carry out a military construction project under subparagraph (A), the Secretary of Defense shall submit to the congressional committees specified in subsection (g)—
+(B) When a decision is made to carry out a military construction project under subparagraph (A), the Secretary of Defense shall submit to the congressional defense committees—
 
 &emsp;(i) a notice of the decision; and
 
@@ -54,15 +54,7 @@ Reports.—Not later than 30 days after the end of each fiscal year, the Secreta
 
 &emsp;(2) the amount of the contributions expended by the Secretary during the preceding fiscal year and the purposes for which the contributions were expended.
 
-(g)
-
-Congressional Committees.—The congressional committees referred to in subsection (e) are—
-
-&emsp;(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-&emsp;(2) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2801, Oct. 5, 1999, 113 Stat. 774, 845.)
+(Added Pub. L. 103–160, div. A, title XIV, §1402(a), Nov. 30, 1993, 107 Stat. 1825; amended Pub. L. 103–337, div. A, title X, §1070(a)(10), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XIII, §1331, Feb. 10, 1996, 110 Stat. 482; Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2801, Oct. 5, 1999, 113 Stat. 774, 845; Pub. L. 108–136, div. A, title X, §§1031(a)(18), 1043(b)(12), Nov. 24, 2003, 117 Stat. 1597, 1611.)
 
 #### References in Text
 
@@ -73,6 +65,14 @@ The National Emergencies Act, referred to in subsec. (e)(3), is Pub. L. 94–412
 Section, as added by Pub. L. 103–160, consists of text of Pub. L. 102–190, div. A, title X, §1045, Dec. 5, 1991, 105 Stat. 1465, as amended by Pub. L. 102–484, div. A, title XIII, §1305(a), (b), Oct. 23, 1992, 106 Stat. 2546, and revised by Pub. L. 103–160, in subsec. (a), by substituting “The Secretary” for “During fiscal years 1992 and 1993, the Secretary”, inserting “, after consultation with the Secretary of State,” after “Secretary of Defense”, and substituting “from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State” for “from Japan, Kuwait, and the Republic of Korea”, and in subsec. (f), by substituting “each fiscal year” for “each quarter of fiscal years 1992 and 1993”, “Congress” for “congressional defense committees”, “each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)” for “Japan, Kuwait, and the Republic of Korea”, and “the preceding fiscal year” for “the preceding quarter” in pars. (1) and (2).
 
 #### Amendments
+
+2003—Subsec. (e)(1). Pub. L. 108–136, §1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 108–136, §1031(a)(18), inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of that report is provided in an electronic medium pursuant to section 480 of this title”.
+
+Subsec. (e)(3)(B). Pub. L. 108–136, §1043(b)(12)(A), substituted “congressional defense committees” for “congressional committees specified in subsection (g)” in introductory provisions.
+
+Subsec. (g). Pub. L. 108–136, §1043(b)(12)(B), struck out subsec. (g) which listed the congressional committees referred to in subsec. (e).
 
 1999—Subsec. (e)(3). Pub. L. 106–65, §2801(a), added par. (3).
 

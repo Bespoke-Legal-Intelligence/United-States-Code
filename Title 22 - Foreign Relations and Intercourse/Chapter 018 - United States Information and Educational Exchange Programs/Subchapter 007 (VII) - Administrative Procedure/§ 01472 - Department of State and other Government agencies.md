@@ -22,7 +22,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 &emsp;&emsp;(i) the need of the Government for the property or service being acquired over the period of the contract is reasonably firm and continuing;
 
-&emsp;&emsp;(ii) such a contract will serve the best interests of the United States by encouragingeffective competition or promoting economies in performance and operation; and
+&emsp;&emsp;(ii) such a contract will serve the best interests of the United States by encouraging effective competition or promoting economies in performance and operation; and
 
 &emsp;&emsp;(iii) such method of contracting will not inhibit small business participation.
 
@@ -56,7 +56,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Ex. Ord. No. 10477, Aug. 1, 1953, 18 F.R. 4540, as amended by Ex. Ord. No. 10822, May 20, 1959, 24 F.R. 4159; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; provided:
 
-Section 1. <i>Determination</i>. It is hereby determined that it is necessary, in order to carry out the functions transferred to the Director of the United States Information Agency (hereinafter referred to as the Director) by the provisions of subsections (a), (b), and (c) of section 2 of the said Reorganization Plan No. 8 of 1953, to authorize the Director to exercise, in relation to respective functions so transferred, the authority specified in sections 2 and 3 hereof.
+Section 1. <i>Determination</i>. It is hereby determined that it is necessary, in order to carry out the functions transferred to the Director of the United States Information Agency (hereinafter referred to as the Director) by the provisions of subsections (a), (b), and (c) of section 2 of the said Reorganization Plan No. 8 of 1953, toauthorize the Director to exercise, in relation to respective functions so transferred, the authority specified in sections 2 and 3 hereof.
 
 Sec. 2. \[Revoked by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967.\]
 

@@ -25,10 +25,13 @@
 | [<b>869.</b>](Chapter%20869%20-%20Retired%20Grade/README.md) | <b>Retired Grade</b> | <b>8961</b> |
 | [<b>871.</b>](Chapter%20871%20-%20Computation%20of%20Retired%20Pay/README.md) | <b>Computation of Retired Pay</b> | <b>8991</b> |
 | [<b>873.</b>](Chapter%20873%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>9021</b> |
+| [<b>875.</b>](Chapter%20875%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>9061</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
 
@@ -70,3 +73,4 @@ Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 - [Chapter 869 - Retired Grade](Chapter%20869%20-%20Retired%20Grade/README.md)
 - [Chapter 871 - Computation of Retired Pay](Chapter%20871%20-%20Computation%20of%20Retired%20Pay/README.md)
 - [Chapter 873 - Civilian Employees](Chapter%20873%20-%20Civilian%20Employees/README.md)
+- [Chapter 875 - Miscellaneous Investigation Requirements and Other Duties](Chapter%20875%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md)

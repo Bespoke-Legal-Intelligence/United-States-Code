@@ -10,7 +10,7 @@ If the case stated by the initial pleading is not removable, a notice of removal
 
 (2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds which exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
 
-(3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment of conviction shall not be entered unless the prosecution is first remanded.
+(3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment ofconviction shall not be entered unless the prosecution is first remanded.
 
 (4) The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of the notice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
 
@@ -18,7 +18,7 @@ If the case stated by the initial pleading is not removable, a notice of removal
 
 (d) Promptly after the filing of such notice of removal of a civil action the defendant or defendants shall give written notice thereof to all adverse parties and shall file a copy of the notice with the clerk of such State court, which shall effect the removal and the State court shall proceed no further unless and until the case is remanded.
 
-(e) If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custodyand deliver a copy of the writ to the clerk of such State court.
+(e) If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court.
 
 (f) With respect to any counterclaim removed to a district court pursuant to section 337(c) of the Tariff Act of 1930, the district court shall resolve such counterclaim in the same manner as an original complaint under the Federal Rules of Civil Procedure, except that the payment of a filing fee shall not be required in such cases and the counterclaim shall relate back to the date of the original complaint in the proceeding before the International Trade Commission under section 337 of that Act.
 
@@ -60,7 +60,7 @@ The provisions of section 74 of title 28, U.S.C., 1940 ed., requiring the advers
 
 Subsection (b) of section 1446 of title 28, U.S.C., as revised, has been found to create difficulty in those States, such as New York, where suit is commenced by the service of a summons and the plaintiff's initial pleading is not required to be served or filed until later.
 
-The first paragraph of the amendment to subsection (b) corrects this situation by providing that the petition for removal need not be filed until 20 days after the defendant has received a copy of the plaintiff's initial pleading.
+The first paragraph of the amendment to subsection (b) corrects this situation by providing that the petition for removal need not be filed until 20 days afterthe defendant has received a copy of the plaintiff's initial pleading.
 
 This provision, however, without more, would create further difficulty in those States, such as Kentucky, where suit is commenced by the filing of the plaintiff's initial pleading and the issuance and service of a summons without any requirement that a copy of the pleading be served upon or otherwise furnished to the defendant. Accordingly the first paragraph of the amendment provides that in such cases the petition for removal shall be filed within 20 days after the service of the summons.
 

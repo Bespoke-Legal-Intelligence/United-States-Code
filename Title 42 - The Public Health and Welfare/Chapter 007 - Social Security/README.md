@@ -230,7 +230,7 @@ Deductions on account of noncovered work outside United States or failure to hav
 
 (d)
 
-Deductions from dependent's benefits on account of noncovered work outside United States by old-age insurance beneficiary.
+Deductions from dependents’ benefits on account of noncovered work outside United States by old-age insurance beneficiary.
 
 (e)
 
@@ -2918,10 +2918,6 @@ Limitations on authorization of appropriations.
 
 Technical assistance.
 
-(j)
-
-Supplemental grants.
-
 |  |  |
 | :--- | ---: |
 | [674\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000674%20-%20Payments%20to%20States.md) | Payments to States. |
@@ -2947,6 +2943,10 @@ Reduction for violation of plan requirement.
 (e)
 
 Discretionary grants for educational and training vouchers for youths aging out of foster care.
+
+(f)
+
+Reduction for failure to submit required data.
 
 |  |  |
 | :--- | ---: |
@@ -3178,19 +3178,48 @@ Appropriations.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—GRANTS TO STATES FOR SERVICES TO AGED, BLIND, OR DISABLED
+#### SUBCHAPTER VI—TEMPORARY STATE FISCAL RELIEF
 
 |  |  |
 | :--- | ---: |
-| 801 to 805. | Repealed. |
+| [801\.](Subchapter%20006%20%28VI%29%20-%20Temporary%20State%20Fiscal%20Relief/%C2%A7%2000801%20-%20Temporary%20State%20fiscal%20relief.md) | Temporary State fiscal relief. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Appropriation.
+
+(b)
+
+Payments.
+
+(c)
+
+Payments based on population.
+
+(d)
+
+Use of payment.
+
+(e)
+
+Certification.
+
+(f)
+
+Definition of State.
+
+(g)
+
+Repeal.
 
 #### SUBCHAPTER VII—ADMINISTRATION
 
 |  |  |
 | :--- | ---: |
 | [901\.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000901%20-%20Social%20Security%20Administration.md) | Social Security Administration. |
+| [901a.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000901a%20-%20Repealed.%20Aug.%2028%2C%201950%2C%20ch.%20809%2C%20title%20IV%2C%20%C2%A7401%28b%29%2C%2064%20Stat.%20558.md) | Repealed. |
 | [902\.](Subchapter%20007%20%28VII%29%20-%20Administration/%C2%A7%2000902%20-%20Commissioner%3B%20Deputy%20Commissioner%3B%20other%20officers.md) | Commissioner; Deputy Commissioner; other officers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3947,10 +3976,6 @@ Compensation and travel expenses.
 
 Exemption from conflict of interest laws of members of Council or advisory committees; exceptions.
 
-(i)
-
-Nonvoting members and experts.
-
 |  |  |
 | :--- | ---: |
 | [1314a.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001314a%20-%20Measurement%20and%20reporting%20of%20welfare%20receipt.md) | Measurement and reporting of welfare receipt. |
@@ -4027,7 +4052,7 @@ Items covered under other subchapters; disallowance.
 
 |  |  |
 | :--- | ---: |
-| [1317\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001317%20-%20Appointment%20of%20Administrator%20and%20Chief%20Actuary%20of%20Health%20Care%20Financing%20Administration.md) | Appointment of Administrator and Chief Actuary of Health Care Financing Administration. |
+| [1317\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001317%20-%20Appointment%20of%20the%20Administrator%20and%20Chief%20Actuary%20of%20the%20Centers%20for%20Medicare%20%26%20Medicaid%20Services.md) | Appointment of the Administrator and Chief Actuary of the Centers for Medicare \& Medicaid Services. |
 | [1318\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001318%20-%20Alternative%20Federal%20payment%20with%20respect%20to%20public%20assistance%20expenditures.md) | Alternative Federal payment with respect to public assistance expenditures. |
 | [1319\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001319%20-%20Federal%20participation%20in%20payments%20for%20repairs%20to%20home%20owned%20by%20recipient%20of%20aid%20or%20assistance.md) | Federal participation in payments for repairs to home owned by recipient of aid or assistance. |
 | [1320\.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20A%20-%20General%20Provisions/%C2%A7%2001320%20-%20Approval%20of%20certain%20projects.md) | Approval of certain projects. |
@@ -4819,7 +4844,7 @@ Mandatory provision of statements.
 
 |  |  |
 | :--- | ---: |
-| 1320b–14. | Outreach efforts to increase awareness of the availability of medicare cost-sharing. |
+| 1320b–14. | Outreach efforts to increase awareness of the availability of medicare cost-sharing and subsidies for low-income individuals under subchapter XVIII. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -5993,6 +6018,58 @@ In general.
 
 Request for itemized statement for medicare items and services.
 
+|  |  |
+| :--- | ---: |
+| 1395b–8. | Chronic care improvement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Implementation of chronic care improvement programs.
+
+(b)
+
+Developmental phase (Phase I).
+
+(c)
+
+Expanded implementation phase (Phase II).
+
+(d)
+
+Identification and enrollment of prospective program participants.
+
+(e)
+
+Chronic care improvement programs.
+
+(f)
+
+Terms of agreements.
+
+(g)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 1395b–9. | Provisions relating to administration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Coordinated administration of medicare prescription drug and Medicare Advantage programs.
+
+(b)
+
+Employment of management staff.
+
+(c)
+
+Medicare Beneficiary Ombudsman.
+
 #### Part A—Hospital Insurance Benefits for Aged and Disabled
 
 |  |  |
@@ -6364,7 +6441,7 @@ Grants.
 
 (h)
 
-Grandfathering of certain facilities.
+Grandfathering provisions.
 
 (i)
 
@@ -6503,6 +6580,10 @@ Other prepaid organizations.
 
 Prospective payment system for hospital outpatient department services.
 
+(u)
+
+Incentive payments for physician scarcity areas.
+
 |  |  |
 | :--- | ---: |
 | [1395m.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395m%20-%20Special%20payment%20rules%20for%20particular%20items%20and%20services.md) | Special payment rules for particular items and services. |
@@ -6519,7 +6600,7 @@ Fee schedules for radiologist services.
 
 (c)
 
-Payments and standards for screening mammography.
+Payment and standards for screening mammography.
 
 (d)
 
@@ -6693,6 +6774,14 @@ Limitation on increase in monthly premium.
 (g)
 
 Exclusions from estimate of benefits and administrative costs.
+
+(h)
+
+Potential application of comparative cost adjustment in CCA areas.
+
+(i)
+
+Reduction in premium subsidy based on income.
 
 |  |  |
 | :--- | ---: |
@@ -6929,29 +7018,97 @@ Election under section 1395w–24.
 | :--- | ---: |
 | 1395w–1. | Repealed. |
 | 1395w–2. | Intermediate sanctions for providers or suppliers of clinical diagnostic laboratory tests. |
-| 1395w–3. | Demonstration projects for competitive acquisition of items and services. |
+| 1395w–3. | Competitive acquisition of certain items and services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Establishment of demonstration project bidding areas.
+Establishment of competitive acquisition programs.
 
 (b)
 
-Awarding of contracts in areas.
+Program requirements.
 
 (c)
 
-Expansion of projects.
+Program Advisory and Oversight Committee.
 
 (d)
 
-Services described.
+Report.
 
 (e)
 
-Termination.
+Demonstration project for clinical laboratory services.
+
+|  |  |
+| :--- | ---: |
+| 1395w–3a. | Use of average sales price payment methodology. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Application.
+
+(b)
+
+Payment amount.
+
+(c)
+
+Manufacturer's average sales price.
+
+(d)
+
+Monitoring of market prices.
+
+(e)
+
+Authority to use alternative payment in response to public health emergency.
+
+(f)
+
+Quarterly report on average sales price.
+
+(g)
+
+Judicial review.
+
+|  |  |
+| :--- | ---: |
+| 1395w–3b. | Competitive acquisition of outpatient drugs and biologicals. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Implementation of competitive acquisition.
+
+(b)
+
+Program requirements.
+
+(c)
+
+Bidding process.
+
+(d)
+
+Computation of payment amounts.
+
+(e)
+
+Cost-sharing.
+
+(f)
+
+Special payment rules.
+
+(g)
+
+Judicial review.
 
 |  |  |
 | :--- | ---: |
@@ -7125,7 +7282,7 @@ Special rules for individuals electing MSA plans.
 
 (f)
 
-Payments from Trust Fund.
+Payments from Trust Funds.
 
 (g)
 
@@ -7257,6 +7414,44 @@ Medicare+Choice program compatibility with employer or union group health plans.
 
 |  |  |
 | :--- | ---: |
+| 1395w–27a. | Special rules for MA regional plans. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Regional service area; establishment of MA regions.
+
+(b)
+
+Application of single deductible and catastrophic limit on out-of-pocket expenses.
+
+(c)
+
+Portion of total payments to an organization subject to risk for 2006 and 2007.
+
+(d)
+
+Organizational and financial requirements.
+
+(e)
+
+Stabilization Fund.
+
+(f)
+
+Computation of applicable MA region-specific non-drug monthly benchmark amounts.
+
+(g)
+
+Election of uniform coverage determination.
+
+(h)
+
+Assuring network adequacy.
+
+|  |  |
+| :--- | ---: |
 | 1395w–28. | Definitions; miscellaneous provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7281,11 +7476,503 @@ Coordinated acute and long-term care benefits under Medicare+Choice plan.
 
 Restriction on enrollment for certain Medicare+Choice plans.
 
-#### Part D—Miscellaneous Provisions
+(f)
+
+Restriction on enrollment for specialized MA plans for special needs individuals.
 
 |  |  |
 | :--- | ---: |
-| [1395x.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395x%20-%20Definitions.md) | Definitions. |
+| 1395w–29. | Comparative cost adjustment (CCA) program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of program.
+
+(b)
+
+Requirements for selection of CCA areas.
+
+(c)
+
+Selection of CCA areas.
+
+(d)
+
+Application of comparative cost adjustment.
+
+(e)
+
+Computation of CCA benchmark amount.
+
+(f)
+
+Premium adjustment.
+
+#### Part D—Voluntary Prescription Drug Benefit Program
+
+I74subpart 1—part d eligible individuals and prescription drug benefits
+
+|  |  |
+| :--- | ---: |
+| 1395w–101. | Eligibility, enrollment, and information. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Provision of qualified prescription drug coverage through enrollment in plans.
+
+(b)
+
+Enrollment process for prescription drug plans.
+
+(c)
+
+Providing information to beneficiaries.
+
+|  |  |
+| :--- | ---: |
+| 1395w–102. | Prescription drug benefits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Requirements.
+
+(b)
+
+Standard prescription drug coverage.
+
+(c)
+
+Alternative prescription drug coverage requirements.
+
+(d)
+
+Access to negotiated prices.
+
+(e)
+
+Covered part D drug defined.
+
+|  |  |
+| :--- | ---: |
+| 1395w–103. | Access to a choice of qualified prescription drug coverage. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Assuring access to a choice of coverage.
+
+(b)
+
+Flexibility in risk assumed and application of fallback plan.
+
+|  |  |
+| :--- | ---: |
+| 1395w–104. | Beneficiary protections for qualified prescription drug coverage. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Dissemination of information.
+
+(b)
+
+Access to covered part D drugs.
+
+(c)
+
+Cost and utilization management; quality assurance; medication therapy management program.
+
+(d)
+
+Consumer satisfaction surveys.
+
+(e)
+
+Electronic prescription program.
+
+(f)
+
+Grievance mechanism.
+
+(g)
+
+Coverage determinations and reconsiderations.
+
+(h)
+
+Appeals.
+
+(i)
+
+Privacy, confidentiality, and accuracy of enrollee records.
+
+(j)
+
+Treatment of accreditation.
+
+(k)
+
+Public disclosure of pharmaceutical prices for equivalent drugs.
+
+#### subpart 2—prescription drug plans; pdp sponsors; financing
+
+|  |  |
+| :--- | ---: |
+| 1395w–111. | PDP regions; submission of bids; plan approval. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of PDP regions; service areas.
+
+(b)
+
+Submission of bids, premiums, and related information.
+
+(c)
+
+Actuarial valuation.
+
+(d)
+
+Review of information and negotiation.
+
+(e)
+
+Approval of proposed plans.
+
+(f)
+
+Application of limited risk plans.
+
+(g)
+
+Guaranteeing access to coverage.
+
+(h)
+
+Annual report on use of limited risk plans and fallback plans.
+
+(i)
+
+Noninterference.
+
+(j)
+
+Coordination of benefits.
+
+|  |  |
+| :--- | ---: |
+| 1396w–112. | Requirements for and contracts with prescription drug plan (PDP) sponsors. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+General requirements.
+
+(b)
+
+Contract requirements.
+
+(c)
+
+Waiver of certain requirements to expand choice.
+
+(d)
+
+Solvency standards for non-licensed entities.
+
+(e)
+
+Licensure does not substitute for or constitute certification.
+
+(f)
+
+Periodic review and revision of standards.
+
+(g)
+
+Prohibition of State imposition of premium taxes; relation to State laws.
+
+|  |  |
+| :--- | ---: |
+| 1395w–113. | Premiums; late enrollment penalty. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Monthly beneficiary premium.
+
+(b)
+
+Late enrollment penalty.
+
+(c)
+
+Collection of monthly beneficiary premiums.
+
+|  |  |
+| :--- | ---: |
+| 1395w–114. | Premium and cost-sharing subsidies for low-income individuals. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Income-related subsidies for individuals with income up to 150 percent of poverty line.
+
+(b)
+
+Premium subsidy amount.
+
+(c)
+
+Administration of subsidy program.
+
+(d)
+
+Relation to medicaid program.
+
+|  |  |
+| :--- | ---: |
+| 1395w–115. | Subsidies for part D eligible individuals for qualified prescription drug coverage. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Subsidy payment.
+
+(b)
+
+Reinsurance payment amount.
+
+(c)
+
+Adjustments relating to bids.
+
+(d)
+
+Payment methods.
+
+(e)
+
+Portion of total payments to a sponsor or organization subject to risk (application of risk corridors).
+
+(f)
+
+Disclosure of information.
+
+(g)
+
+Payment for fallback prescription drug plans.
+
+|  |  |
+| :--- | ---: |
+| 1395w–116. | Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment and operation of Account.
+
+(b)
+
+Payments from Account.
+
+(c)
+
+Deposits into Account.
+
+#### subpart 3—application to medicare advantage program and treatment of employer-sponsored programs and other prescription drug plans
+
+|  |  |
+| :--- | ---: |
+| 1395w–131. | Application to Medicare Advantage program and related managed care programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Special rules relating to offering of qualified prescription drug coverage.
+
+(b)
+
+Application of default enrollment rules.
+
+(c)
+
+Application of part D rules for prescription drug coverage.
+
+(d)
+
+Special rules for private fee-for-service plans that offer prescription drug coverage.
+
+(e)
+
+Application to reasonable cost reimbursement contractors.
+
+(f)
+
+Application to PACE.
+
+|  |  |
+| :--- | ---: |
+| 1395w–132. | Special rules for employer-sponsored programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Subsidy payment.
+
+(b)
+
+Application of MA waiver authority.
+
+(c)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 1395w–133. | State Pharmaceutical Assistance Programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Requirements for benefit coordination.
+
+(b)
+
+State Pharmaceutical Assistance Program.
+
+(c)
+
+Relation to other provisions.
+
+(d)
+
+Facilitation of transition and coordination with State Pharmaceutical Assistance Programs.
+
+|  |  |
+| :--- | ---: |
+| 1395w–134. | Coordination requirements for plans providing prescription drug coverage. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Application of benefit coordination requirements to additional plans.
+
+(b)
+
+Rx Plan.
+
+(c)
+
+Relation to other provisions.
+
+#### subpart 4—medicare prescription drug discount card and transitional assistance program
+
+|  |  |
+| :--- | ---: |
+| 1395w–141. | Medicare prescription drug discount card and transitional assistance program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of program.
+
+(b)
+
+Eligibility for discount card and for transitional assistance.
+
+(c)
+
+Enrollment and enrollment fees.
+
+(d)
+
+Provision of information on enrollment and program features.
+
+(e)
+
+Discount card features.
+
+(f)
+
+Eligibility procedures for endorsed programs and transitional assistance.
+
+(g)
+
+Transitional assistance.
+
+(h)
+
+Qualification of prescription drug card sponsors and endorsement of discount card programs; beneficiary protections.
+
+(i)
+
+Disclosure and oversight.
+
+(j)
+
+Treatment of territories.
+
+(k)
+
+Funding.
+
+#### subpart 5—definitions and miscellaneous provisions
+
+|  |  |
+| :--- | ---: |
+| 1395w–151. | Definitions; treatment of references to provisions in part C. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Application of part C provisions under this part.
+
+|  |  |
+| :--- | ---: |
+| 1395w–152. | Miscellaneous provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Access to coverage in territories.
+
+(b)
+
+Application of demonstration authority.
+
+#### Part E—Miscellaneous Provisions
+
+|  |  |
+| :--- | ---: |
+| [1395x.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395x%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7303,7 +7990,7 @@ Inpatient psychiatric hospital services.
 
 (d)
 
-Repealed.
+Supplier.
 
 (e)
 
@@ -7481,9 +8168,29 @@ Screening for glaucoma.
 
 Medical nutrition therapy services; registered dietitian or nutrition professional.
 
+(ww)
+
+Initial preventive physical examination.
+
+(xx)
+
+Cardiovascular screening blood test.
+
+(yy)
+
+Diabetes screening tests.
+
+(zz)
+
+Intravenous immune globulin.
+
+(aaa)
+
+Extended care in religious nonmedical health care institutions.
+
 |  |  |
 | :--- | ---: |
-| [1395y.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395y%20-%20Exclusions%20from%20coverage%20and%20medicare%20as%20secondary%20payer.md) | Exclusions from coverage and medicare as secondary payer. |
+| [1395y.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395y%20-%20Exclusions%20from%20coverage%20and%20medicare%20as%20secondary%20payer.md) | Exclusions from coverage and medicare as secondary payer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7501,7 +8208,7 @@ Drug products.
 
 (d)
 
-Repealed.
+Items or services provided for emergency medical conditions.
 
 (e)
 
@@ -7523,10 +8230,26 @@ Waiver of electronic form requirement.
 
 Awards and contracts for original research and experimentation of new and existing medical procedures; conditions.
 
+(j)
+
+Nonvoting members and experts.
+
+(k)
+
+Dental benefits under group health plans.
+
+(<i>l</i>)
+
+National and local coverage determination process.
+
+(m)
+
+Coverage of routine costs associated with certain clinical trials of category A devices.
+
 |  |  |
 | :--- | ---: |
-| [1395z.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395z%20-%20Consultation%20with%20State%20agencies%20and%20other%20organizations%20to%20develop%20conditions%20of%20participation%20for%20providers%20of%20services.md) | Consultation with State agencies and other organizations to develop conditions of participation for providers of services. |
-| [1395aa.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395aa%20-%20Agreements%20with%20States.md) | Agreements with States. |
+| [1395z.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395z%20-%20Consultation%20with%20State%20agencies%20and%20other%20organizations%20to%20develop%20conditions%20of%20participation%20for%20providers%20of%20services.md) | Consultation with State agencies and other organizations to develop conditions of participation for providers of services. |
+| [1395aa.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395aa%20-%20Agreements%20with%20States.md) | Agreements with States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7552,7 +8275,7 @@ Prohibition of user fees for survey and certification.
 
 |  |  |
 | :--- | ---: |
-| [1395bb.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395bb%20-%20Effect%20of%20accreditation.md) | Effect of accreditation. |
+| [1395bb.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395bb%20-%20Effect%20of%20accreditation.md) | Effect of accreditation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7578,7 +8301,7 @@ State or local accreditation.
 
 |  |  |
 | :--- | ---: |
-| [1395cc.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395cc%20-%20Agreements%20with%20providers%20of%20services.md) | Agreements with providers of services. |
+| [1395cc.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395cc%20-%20Agreements%20with%20providers%20of%20services%3B%20enrollment%20processes.md) | Agreements with providers of services; enrollment processes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7617,6 +8340,10 @@ Dissatisfaction with determination of Secretary; appeal by institutions or agenc
 (i)
 
 Intermediate sanctions for psychiatric hospitals.
+
+(j)
+
+Enrollment process for providers of services and suppliers.
 
 |  |  |
 | :--- | ---: |
@@ -7672,7 +8399,45 @@ Reports to Congress.
 
 |  |  |
 | :--- | ---: |
-| [1395dd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
+| 1395cc–3. | Health care quality demonstration program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Demonstration projects.
+
+(c)
+
+Administration by contract.
+
+(d)
+
+Eligibility criteria.
+
+(e)
+
+Waiver authority.
+
+(f)
+
+Budget neutrality.
+
+(g)
+
+Notice requirements.
+
+(h)
+
+Participation and support by Federal agencies.
+
+|  |  |
+| :--- | ---: |
+| [1395dd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7714,25 +8479,21 @@ Whistleblower protections.
 
 |  |  |
 | :--- | ---: |
-| [1395ee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council.md) | Practicing Physicians Advisory Council. |
+| [1395ee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council%3B%20Council%20for%20Technology%20and%20Innovation.md) | Practicing Physicians Advisory Council; Council for Technology and Innovation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Appointment.
+Practicing Physicians Advisory Council.
 
 (b)
 
-Meetings.
-
-(c)
-
-Reimbursement of expenses.
+Council for Technology and Innovation.
 
 |  |  |
 | :--- | ---: |
-| [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md) | Determinations; appeals. |
+| [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md) | Determinations; appeals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7750,7 +8511,7 @@ Conduct of reconsiderations by independent contractors.
 
 (d)
 
-Deadlines for hearings by the Secretary.
+Deadlines for hearings by the Secretary; notice.
 
 (e)
 
@@ -7760,9 +8521,21 @@ Administrative provisions.
 
 Review of coverage determinations.
 
+(g)
+
+Qualifications of reviewers.
+
+(h)
+
+Prior determination process for certain items and services.
+
+(i)
+
+Mediation process for local coverage determinations.
+
 |  |  |
 | :--- | ---: |
-| [1395gg.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395gg%20-%20Overpayment%20on%20behalf%20of%20individuals%20and%20settlement%20of%20claims%20for%20benefits%20on%20behalf%20of%20deceased%20individuals.md) | Overpayment on behalf of individuals and settlement of claims for benefits on behalf of deceased individuals. |
+| [1395gg.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395gg%20-%20Overpayment%20on%20behalf%20of%20individuals%20and%20settlement%20of%20claims%20for%20benefits%20on%20behalf%20of%20deceased%20individuals.md) | Overpayment on behalf of individuals and settlement of claims for benefits on behalf of deceased individuals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7794,9 +8567,13 @@ Settlement of claims for section 1395k benefits on behalf of deceased individual
 
 Refund of premiums for deceased individuals.
 
+(h)
+
+Appeals by providers of services or suppliers.
+
 |  |  |
 | :--- | ---: |
-| [1395hh.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395hh%20-%20Regulations.md) | Regulations. |
+| [1395hh.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395hh%20-%20Regulations.md) | Regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7812,11 +8589,19 @@ Notice of proposed regulations; public comment.
 
 Publication of certain rules; public inspection; changes in data collection and retrieval.
 
+(e)
+
+Retroactivity of substantive changes; reliance upon written guidance.
+
+(f)
+
+Report on areas of inconsistency or conflict.
+
 |  |  |
 | :--- | ---: |
-| [1395ii.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ii%20-%20Application%20of%20certain%20provisions%20of%20subchapter%20II.md) | Application of certain provisions of subchapter II. |
-| [1395jj.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395jj%20-%20Designation%20of%20organization%20or%20publication%20by%20name.md) | Designation of organization or publication by name. |
-| [1395kk.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395kk%20-%20Administration%20of%20insurance%20programs.md) | Administration of insurance programs. |
+| [1395ii.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ii%20-%20Application%20of%20certain%20provisions%20of%20subchapter%20II.md) | Application of certain provisions of subchapter II. |
+| [1395jj.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395jj%20-%20Designation%20of%20organization%20or%20publication%20by%20name.md) | Designation of organization or publication by name. |
+| [1395kk.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395kk%20-%20Administration%20of%20insurance%20programs.md) | Administration of insurance programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7834,6 +8619,44 @@ Oaths and affirmations.
 
 |  |  |
 | :--- | ---: |
+| 1395kk–1. | Contracts with medicare administrative contractors. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority.
+
+(b)
+
+Contracting requirements.
+
+(c)
+
+Terms and conditions.
+
+(d)
+
+Limitation on liability of medicare administrative contractors and certain officers.
+
+(e)
+
+Requirements for information security.
+
+(f)
+
+Incentives to improve contractor performance in provider education and outreach.
+
+(g)
+
+Communications with beneficiaries, providers of services and suppliers.
+
+(h)
+
+Conduct of prepayment review.
+
+|  |  |
+| :--- | ---: |
 | 1395<i>ll.</i> | Studies and recommendations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7848,7 +8671,7 @@ Operation and administration of insurance programs.
 
 |  |  |
 | :--- | ---: |
-| [1395mm.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395mm%20-%20Payments%20to%20health%20maintenance%20organizations%20and%20competitive%20medical%20plans.md) | Payments to health maintenance organizations and competitive medical plans. |
+| [1395mm.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395mm%20-%20Payments%20to%20health%20maintenance%20organizations%20and%20competitive%20medical%20plans.md) | Payments to health maintenance organizations and competitive medical plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7898,7 +8721,7 @@ Risk-sharing contracts.
 
 |  |  |
 | :--- | ---: |
-| [1395nn.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395nn%20-%20Limitation%20on%20certain%20physician%20referrals.md) | Limitation on certain physician referrals. |
+| [1395nn.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395nn%20-%20Limitation%20on%20certain%20physician%20referrals.md) | Limitation on certain physician referrals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7982,7 +8805,7 @@ Technical and clerical assistance.
 
 |  |  |
 | :--- | ---: |
-| [1395pp.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395pp%20-%20Limitation%20on%20liability%20where%20claims%20are%20disallowed.md) | Limitation on liability where claims are disallowed. |
+| [1395pp.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395pp%20-%20Limitation%20on%20liability%20where%20claims%20are%20disallowed.md) | Limitation on liability where claims are disallowed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8020,7 +8843,7 @@ Supplier responsibility for items furnished on assignment basis.
 
 |  |  |
 | :--- | ---: |
-| [1395qq.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395qq%20-%20Indian%20health%20service%20facilities.md) | Indian health service facilities. |
+| [1395qq.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395qq%20-%20Indian%20health%20service%20facilities.md) | Indian health service facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8050,7 +8873,7 @@ Cross reference.
 
 |  |  |
 | :--- | ---: |
-| [1395rr.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395rr%20-%20End%20stage%20renal%20disease%20program.md) | End stage renal disease program. |
+| [1395rr.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395rr%20-%20End%20stage%20renal%20disease%20program.md) | End stage renal disease program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8084,7 +8907,7 @@ Conditional approval of dialysis facilities; restriction-of-payments notice to p
 
 |  |  |
 | :--- | ---: |
-| [1395ss.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ss%20-%20Certification%20of%20medicare%20supplemental%20health%20insurance%20policies.md) | Certification of medicare supplemental health insurance policies. |
+| [1395ss.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ss%20-%20Certification%20of%20medicare%20supplemental%20health%20insurance%20policies.md) | Certification of medicare supplemental health insurance policies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8172,9 +8995,17 @@ Medicare select policies.
 
 Additional rules relating to individuals enrolled in MSA plans and in private fee-for-service plans.
 
+(v)
+
+Rules relating to medigap policies that provide prescription drug coverage.
+
+(w)
+
+Development of new standards for medicare supplemental policies.
+
 |  |  |
 | :--- | ---: |
-| [1395tt.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395tt%20-%20Hospital%20providers%20of%20extended%20care%20services.md) | Hospital providers of extended care services. |
+| [1395tt.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395tt%20-%20Hospital%20providers%20of%20extended%20care%20services.md) | Hospital providers of extended care services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8208,7 +9039,7 @@ Agreements on demonstration basis.
 
 |  |  |
 | :--- | ---: |
-| [1395uu.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395uu%20-%20Payments%20to%20promote%20closing%20or%20conversion%20of%20underutilized%20hospital%20facilities.md) | Payments to promote closing or conversion of underutilized hospital facilities. |
+| [1395uu.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395uu%20-%20Payments%20to%20promote%20closing%20or%20conversion%20of%20underutilized%20hospital%20facilities.md) | Payments to promote closing or conversion of underutilized hospital facilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8230,7 +9061,7 @@ Hearing to review determination.
 
 |  |  |
 | :--- | ---: |
-| [1395vv.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395vv%20-%20Withholding%20payments%20from%20certain%20medicaid%20providers.md) | Withholding payments from certain medicaid providers. |
+| [1395vv.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395vv%20-%20Withholding%20payments%20from%20certain%20medicaid%20providers.md) | Withholding payments from certain medicaid providers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8248,7 +9079,7 @@ Payment to States of amounts recovered.
 
 |  |  |
 | :--- | ---: |
-| [1395ww.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ww%20-%20Payments%20to%20hospitals%20for%20inpatient%20hospital%20services.md) | Payments to hospitals for inpatient hospital services. |
+| [1395ww.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ww%20-%20Payments%20to%20hospitals%20for%20inpatient%20hospital%20services.md) | Payments to hospitals for inpatient hospital services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8302,7 +9133,7 @@ Payment for nursing and allied health education for managed care enrollees.
 
 |  |  |
 | :--- | ---: |
-| [1395xx.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395xx%20-%20Payment%20of%20provider-based%20physicians%20and%20payment%20under%20certain%20percentage%20arrangements.md) | Payment of provider-based physicians and payment under certain percentage arrangements. |
+| [1395xx.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395xx%20-%20Payment%20of%20provider-based%20physicians%20and%20payment%20under%20certain%20percentage%20arrangements.md) | Payment of provider-based physicians and payment under certain percentage arrangements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8316,7 +9147,7 @@ Prohibition of recognition of payments under certain percentage agreements.
 
 |  |  |
 | :--- | ---: |
-| [1395yy.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395yy%20-%20Payment%20to%20skilled%20nursing%20facilities%20for%20routine%20service%20costs.md) | Payment to skilled nursing facilities for routine service costs. |
+| [1395yy.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395yy%20-%20Payment%20to%20skilled%20nursing%20facilities%20for%20routine%20service%20costs.md) | Payment to skilled nursing facilities for routine service costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8342,8 +9173,42 @@ Prospective payment.
 
 |  |  |
 | :--- | ---: |
-| 1395zz, 1395aaa. Repealed or Transferred. |  |
-| [1395bbb.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395bbb%20-%20Conditions%20of%20participation%20for%20home%20health%20agencies%3B%20home%20health%20quality.md) | Conditions of participation for home health agencies; home health quality. |
+| [1395zz.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395zz%20-%20Provider%20education%20and%20technical%20assistance.md) | Provider education and technical assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Coordination of education funding.
+
+(b)
+
+Enhanced education and training.
+
+(c)
+
+Tailoring education and training activities for small providers or suppliers.
+
+(d)
+
+Internet websites; FAQs.
+
+(e)
+
+Encouragement of participation in education program activities.
+
+(f)
+
+Construction.
+
+(g)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| [1395aaa.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395aaa%20-%20Transferred.md) | Transferred. |
+| [1395bbb.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395bbb%20-%20Conditions%20of%20participation%20for%20home%20health%20agencies%3B%20home%20health%20quality.md) | Conditions of participation for home health agencies; home health quality. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8377,7 +9242,7 @@ Payment on basis of location of service.
 
 |  |  |
 | :--- | ---: |
-| [1395ccc.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ccc%20-%20Offset%20of%20payments%20to%20individuals%20to%20collect%20past-due%20obligations%20arising%20from%20breach%20of%20scholarship%20and%20loan%20contract.md) | Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract. |
+| [1395ccc.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ccc%20-%20Offset%20of%20payments%20to%20individuals%20to%20collect%20past-due%20obligations%20arising%20from%20breach%20of%20scholarship%20and%20loan%20contract.md) | Offset of payments to individuals to collect past-due obligations arising from breach of scholarship and loan contract. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8403,7 +9268,7 @@ Transfer from trust funds.
 
 |  |  |
 | :--- | ---: |
-| [1395ddd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ddd%20-%20Medicare%20Integrity%20Program.md) | Medicare Integrity Program. |
+| [1395ddd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ddd%20-%20Medicare%20Integrity%20Program.md) | Medicare Integrity Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8427,9 +9292,13 @@ Process for entering into contracts.
 
 Limitation on contractor liability.
 
+(f)
+
+Recovery of overpayments.
+
 |  |  |
 | :--- | ---: |
-| [1395eee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395eee%20-%20Payments%20to%2C%20and%20coverage%20of%20benefits%20under%2C%20programs%20of%20all-inclusive%20care%20for%20elderly%20%28PACE%29.md) | Payments to, and coverage of benefits under, programs of all-inclusive care for elderly (PACE). |
+| [1395eee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395eee%20-%20Payments%20to%2C%20and%20coverage%20of%20benefits%20under%2C%20programs%20of%20all-inclusive%20care%20for%20elderly%20%28PACE%29.md) | Payments to, and coverage of benefits under, programs of all-inclusive care for elderly (PACE). |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8471,7 +9340,7 @@ Miscellaneous provisions.
 
 |  |  |
 | :--- | ---: |
-| [1395fff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395fff%20-%20Prospective%20payment%20for%20home%20health%20services.md) | Prospective payment for home health services. |
+| [1395fff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395fff%20-%20Prospective%20payment%20for%20home%20health%20services.md) | Prospective payment for home health services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8497,7 +9366,7 @@ Construction related to home health services.
 
 |  |  |
 | :--- | ---: |
-| [1395ggg.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20D%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ggg%20-%20Medicare%20subvention%20demonstration%20project%20for%20military%20retirees.md) | Medicare subvention demonstration project for military retirees. |
+| [1395ggg.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ggg%20-%20Medicare%20subvention%20demonstration%20project%20for%20military%20retirees.md) | Medicare subvention demonstration project for military retirees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8544,6 +9413,44 @@ Maintenance of effort.
 (k)
 
 Evaluation and reports.
+
+|  |  |
+| :--- | ---: |
+| [1395hhh.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395hhh%20-%20Health%20care%20infrastructure%20improvement%20program.md) | Health care infrastructure improvement program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Application.
+
+(c)
+
+Selection criteria.
+
+(d)
+
+Projects.
+
+(e)
+
+State and local permits.
+
+(f)
+
+Forgiveness of indebtedness.
+
+(g)
+
+Funding.
+
+(h)
+
+Report to Congress.
 
 #### SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS
 
@@ -9287,6 +10194,10 @@ Limitation on certain State DSH expenditures.
 
 Requirement for direct payment.
 
+(j)
+
+Annual reports and other requirements regarding payment adjustments.
+
 |  |  |
 | :--- | ---: |
 | 1396r–5. | Treatment of income and resources for certain institutionalized spouses. |
@@ -9496,7 +10407,7 @@ Secretarial responsibilities.
 
 (<i>l</i>)
 
-Waiver of statewideness.
+Waiver of Statewideness.
 
 (m)
 
@@ -9654,6 +10565,10 @@ Limitation on entitlement.
 
 Coverage of costs through part B of medicare program.
 
+(g)
+
+Special rule.
+
 |  |  |
 | :--- | ---: |
 | 1396u–4. | Program of all-inclusive care for elderly (PACE). |
@@ -9699,6 +10614,32 @@ Post-eligibility treatment of income.
 (j)
 
 Miscellaneous provisions.
+
+|  |  |
+| :--- | ---: |
+| 1396u–5. | Special provisions relating to medicare prescription drug benefit. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Requirements relating to medicare prescription drug low-income subsidies and medicare transitional prescription drug assistance.
+
+(b)
+
+Regular Federal subsidy of administrative costs.
+
+(c)
+
+Federal assumption of medicaid prescription drug costs for dually eligible individuals.
+
+(d)
+
+Coordination of prescription drug benefits.
+
+(e)
+
+Treatment of territories.
 
 |  |  |
 | :--- | ---: |
@@ -9923,7 +10864,7 @@ Procedure for redistribution of unused allotments.
 
 (g)
 
-Rule for redistribution and extended availability of fiscal years 1998 and 1999 allotments.
+Rule for redistribution and extended availability of fiscal years 1998, 1999, 2000, and 2001 allotments.
 
 |  |  |
 | :--- | ---: |
@@ -9954,6 +10895,10 @@ Advance payment; retrospective adjustment.
 (f)
 
 Flexibility in submittal of claims.
+
+(g)
+
+Authority for qualifying States to use certain funds for medicaid expenditures.
 
 |  |  |
 | :--- | ---: |
@@ -10075,7 +11020,7 @@ This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12
 - [Subchapter 003 (III) - Grants to States for Unemployment Compensation Administration](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/README.md)
 - [Subchapter 004 (IV) - Grants to States for Aid and Services to Needy Families with Children and for Child-Welfare Services](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/README.md)
 - [Subchapter 005 (V) - Maternal and Child Health Services Block Grant](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/README.md)
-- [Subchapter 006 (VI) - Grants to States for Services to Aged, Blind, or Disabled](Subchapter%20006%20%28VI%29%20-%20Grants%20to%20States%20for%20Services%20to%20Aged%2C%20Blind%2C%20or%20Disabled/README.md)
+- [Subchapter 006 (VI) - Temporary State Fiscal Relief](Subchapter%20006%20%28VI%29%20-%20Temporary%20State%20Fiscal%20Relief/README.md)
 - [Subchapter 007 (VII) - Administration](Subchapter%20007%20%28VII%29%20-%20Administration/README.md)
 - [Subchapter 008 (VIII) - Special Benefits for Certain World War II Veterans](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/README.md)
 - [Subchapter 009 (IX) - Employment Security Administrative Financing](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/README.md)

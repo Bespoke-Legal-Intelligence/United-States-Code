@@ -36,7 +36,7 @@
 
 &emsp;(6) the fees and mileage payable under chapter 119 of title 28.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2581; Pub. L. 98–353, title III, §446, July 10, 1984, 98 Stat. 374;Pub. L. 99–554, title II, §283(g), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title I, §110, title II, §213(c), title III, §304(h)(2), Oct. 22, 1994, 108 Stat. 4113, 4126, 4134.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2581; Pub. L. 98–353, title III, §446, July 10, 1984, 98 Stat. 374; Pub. L. 99–554, title II, §283(g), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title I, §110, title II, §213(c), title III, §304(h)(2), Oct. 22, 1994, 108 Stat. 4113, 4126, 4134.)
 
 #### Historical and Revision Notes
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set outas a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

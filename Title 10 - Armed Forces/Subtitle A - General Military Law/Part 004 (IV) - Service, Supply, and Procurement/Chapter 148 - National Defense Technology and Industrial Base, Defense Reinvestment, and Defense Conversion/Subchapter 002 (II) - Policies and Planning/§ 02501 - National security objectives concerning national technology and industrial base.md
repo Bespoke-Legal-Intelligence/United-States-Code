@@ -46,7 +46,7 @@ Subsec. (a). Pub. L. 104–106, §1081(a)(1)(A)(i), substituted “National Secu
 
 Subsec. (a)(5). Pub. L. 104–201 added par. (5).
 
-Pub. L. 104–106, §1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policyobjectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
+Pub. L. 104–106, §1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
 
 Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
 
@@ -55,6 +55,156 @@ Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec.
 Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
+
+#### Essential Items Identification and Domestic Production Capabilities Improvement Program
+
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, provided that:
+
+#### “SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.
+
+“No provision of this subtitle \[subtitle B (§§811–828) of title VIII of div. A of Pub. L. 108–136, enacting section 2436 of this title, amending sections 2533a and 2534 of this title, and enacting provisions set out as notes under sections 2436, 2505, 2521, and 2534 of this title\] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement.
+
+#### “SEC. 812. ASSESSMENT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES.
+
+“(a)
+
+Assessment Program.—(1) The Secretary of Defense shall establish a program to assess—
+
+&emsp;“(A) the degree to which the United States is dependent on foreign sources of supply; and
+
+&emsp;“(B) the capabilities of the United States defense industrial base to produce military systems necessary to support the national security objectives set forth in section 2501 of title 10, United States Code.
+
+“(2) For purposes of the assessment program, the Secretary shall use existing data, as required under subsection (b), and submit an annual report, as required under subsection (c).
+
+“(b)
+
+Use of Existing Data.—(1) At a minimum, with respect to each prime contract with a value greater than $25,000 for the procurement of defense items and components, the following information from existing sources shall be used for purposes of the assessment program:
+
+&emsp;“(A) Whether the contractor is a United States or foreign contractor.
+
+&emsp;“(B) The principal place of business of the contractor and the principal place of performance of the contract.
+
+&emsp;“(C) Whether the contract was awarded on a sole source basis or after receipt of competitive offers.
+
+&emsp;“(D) The dollar value of the contract.
+
+“(2) The Federal Procurement Data System described in section 6(d)(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(4)(A)), or any successor system, shall collect from contracts described in paragraph (1) the information specified in that paragraph.
+
+“(3) Information obtained in the implementation of this section is subject to the same limitations on disclosure, and penalties for violation of such limitations, as is provided under section 2507 of title 10, United States Code. Such information also shall be exempt from release under section 552 of title 5, United States Code.
+
+“(4) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
+
+“(c)
+
+Annual Report.—(1) Not later than February 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the assessment program covering the preceding fiscal year. The first report under this subsection shall cover fiscal year 2004 and shall be submitted to the Committees no later than February 1, 2005.
+
+“(2)(A) The report shall include the following with respect to contracts described in subsection (b):
+
+&emsp;“(i) The total number and value of such contracts awarded by the Department of Defense.
+
+&emsp;“(ii) The total number and value of such contracts awarded on a sole source basis.
+
+&emsp;“(iii) The total number and value of contracts described in clause (ii) awarded to foreign contractors, summarized by country.
+
+&emsp;“(iv) The total number and value of contracts awarded to foreign contractors through competitive procedures, summarized by country.
+
+“(B) The report also shall include—
+
+&emsp;“(i) the status of the matters described in subparagraphs (A) and (B) of subsection (a)(1);
+
+&emsp;“(ii) the status of implementation of successor procurement data management systems; and
+
+&emsp;“(iii) such other matters as the Secretary considers appropriate.
+
+#### “SEC. 813. IDENTIFICATION OF ESSENTIAL ITEMS: MILITARY SYSTEM BREAKOUT LIST.
+
+“(a)
+
+Identification Process.—(1) The Secretary of Defense shall establish a process, using the Defense Logistics Information System existing database, to identify, with respect to each military system—
+
+&emsp;“(A) the essential items, assemblies, and components of the system that are active items, assemblies, and components;
+
+&emsp;“(B) foreign and domestic sources of supply for active items, assemblies, and components of the system;
+
+&emsp;“(C) the active items, assemblies, and components of the system that are commercial; and
+
+&emsp;“(D) Federal Supply Class and North American Industry Classification System Codes for active items, assemblies, and components of the system.
+
+“(2) Any modification to the logistics management system or any successor system of the Department of Defense shall maintain the capability to identify—
+
+&emsp;“(A) essential items, assemblies, and components described in paragraph (1)(A);
+
+&emsp;“(B) foreign and domestic sources of supply for active items, assemblies, and components;
+
+&emsp;“(C) the active items, assemblies, and components of the system that are commercial; and
+
+&emsp;“(D) Federal Supply Class and North American Industry Classification System Codes for active items, assemblies, and components.
+
+“(3) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department ofDefense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
+
+“(b)
+
+Military System Essential Item Breakout List.—The Secretary of Defense shall produce a list, to be known as the ‘military system essential item breakout list’, consisting of the items, assemblies, and components identified under subsection (a)(1)(A). In producing the list, the Secretary of Defense shall consider the results of the report under subsection (c).
+
+“(c)
+
+Assessment.—Not later than 18 months after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense, acting through a federally funded research and development center, shall prepare a report that—
+
+&emsp;“(1) assesses the criteria that should be used for identifying whether an item, assembly, or component is essential to a military system; and
+
+&emsp;“(2) recommends which items, assemblies, and components should be included on the military system essential item breakout list under subsection (b).
+
+“(d)
+
+Report.—(1) Not later than November 1 of each year, beginning with November 1, 2005, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section. The report may be submitted in classified and unclassified form.
+
+“(2) The report shall include the following:
+
+&emsp;“(A) A list of each military system covered by the process established under subsection (a).
+
+&emsp;“(B) A list of the items, assemblies, and components on the military system essential item breakout list that are manufactured or produced outside the United States, setting forth military and commercial separately.
+
+&emsp;“(C) The portion of the entire military system essential item breakout list that consists of the items, assemblies, and components listed under subparagraph (B) (stated as a percentage).
+
+&emsp;“(D) A list of each Federal Supply Class and North American Industry Classification System Code represented on the military system essential item breakout list, and the portion of the entire military system essential item breakout list that consists of items, assemblies, or components in such classes or codes (stated as a percentage).
+
+&emsp;“(E) A list of each country outside the United States where the items, assemblies, and components listed under subparagraph (B) are manufactured or produced, and the portion of the entire military system essential item breakout list that consists of—
+
+&emsp;&emsp;“(i) the items, assemblies, or components manufactured or produced in that country, setting forth military and commercial separately (stated as a percentage); and
+
+&emsp;&emsp;“(ii) the Federal Supply Classes and North American Industry Classification System Codes represented by those items, assemblies, or components (stated as a percentage).
+
+“(3) The Secretary shall submit an interim version of the report required by this subsection not later than February 1, 2005, containing as much information as is practicable to be included by such date.
+
+#### “SEC. 814. PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.
+
+“(a)
+
+Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
+
+“(b)
+
+Moneys in Fund.—There shall be credited to the Fund amounts appropriated to it.
+
+“(c)
+
+Use of Fund.—The Secretary of Defense is authorized to use all amounts in the Fund, subject to appropriation, for the purposes of enhancing or reconstituting United States industrial capability to produce items on the military system essential item breakout list (as described in section 812(b)) or items subject to section 2534 of title 10, United States Code, in the quantity and of the quality necessary to achieve national security objectives.
+
+“(d)
+
+Limitation on Use of Fund.—Before the obligation of any amounts in the Fund, the Secretary of Defense shall submit to Congress a report describing the Secretary's plans for implementing the Fund established in subsection (a), including the priorities for the obligation of amounts in the Fund, the criteria for determining the recipients of such amounts, and the mechanisms through which such amounts may be provided to the recipients.
+
+“(e)
+
+Availability of Funds.—Amounts in the Fund shall remain available until expended.
+
+“(f)
+
+Fund Manager.—The Secretary of Defense shall designate a Fund manager. The duties of the Fund manager shall include—
+
+&emsp;“(1) ensuring the visibility and accountability of transactions engaged in through the Fund; and
+
+&emsp;“(2) reporting to Congress each year regarding activities of the Fund during the previous fiscal year.”
 
 #### Air Force Science and Technology Planning
 
@@ -248,7 +398,7 @@ Content.—The report shall include the actions that have been taken or are plan
 
 #### Sense of Congress on Defense Science and Technology Program
 
-Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, provided that:
+Pub. L. 106–65, div. A, title II, §212, Oct. 5, 1999, 113 Stat. 542, as amended by Pub. L. 108–136, div. A, title X, §1031(h)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 “(a)
 
@@ -256,19 +406,7 @@ Failure To Comply With Funding Objective.—It is the sense of Congress that the
 
 “(b)
 
-Funding Objective.—It is further the sense of Congress that, for each of the fiscal years 2001 through 2009, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program, including the science and technology program within each military department, for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.
-
-“(c)
-
-Certification.—If the proposed budget for a fiscal year covered by subsection (b) fails to comply with the objective set forth in that subsection—
-
-&emsp;“(1) the Secretary of Defense shall submit to Congress—
-
-&emsp;&emsp;“(A) the certification of the Secretary that the budget does not jeopardize the stability of the defense technology base or increase the risk of failure to maintain technological superiority in future weapon systems; or
-
-&emsp;&emsp;“(B) a statement of the Secretary explaining why the Secretary is unable to submit such certification; and
-
-&emsp;“(2) the Defense Science Board shall, not more than 60 days after the date on which the Secretary submits the certification or statement under paragraph (1), submit to the Secretary and Congress a report assessing the effect such failure to comply is likely to have on defense technology and the national defense.”
+Funding Objective.—It is further the sense of Congress that, for each of the fiscal years 2001 through 2009, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program, including the science and technology program within each military department, for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.”
 
 Pub. L. 105–261, div. A, title II, §214, Oct. 17, 1998, 112 Stat. 1948, provided that:
 
@@ -282,7 +420,7 @@ Guidelines for the Defense Science and Technology Program.—
 
 &emsp;“(1)
 
-Relationship of defense science and technology program to university research.—It is the sense of Congress that the following should be key objectives of the Defense Science and Technology Program:
+Relationship of defense science and technology program to university research.—It is the sense of Congress that the following should be keyobjectives of the Defense Science and Technology Program:
 
 &emsp;&emsp;“(A) The sustainment of research capabilities in scientific and engineering disciplines critical to the Department of Defense.
 
@@ -496,7 +634,9 @@ Maximum department of defense share.—The Secretary of Defense shall ensure tha
 
 &emsp;“(2)
 
-Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financialcommitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
+Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Armament Retooling and Manufacturing Support Initiative
 
@@ -542,7 +682,7 @@ Notice to Subcontractors.—Not later than 60 days after the date on which the p
 
 Contractor Notice to Employees and State Dislocated Worker Unit.—Not later than two weeks after a defense contractor receives notice under subsection (a), the contractor shall provide notice of such termination or substantial reduction to—
 
-&emsp;“(1)(A) each representative of employees whose work is directly related to the defense contract under such program and who are employed by the defense contractor; or
+&emsp;“(1)(A) each representative of employees whose work is directly related to the defense contract undersuch program and who are employed by the defense contractor; or
 
 &emsp;“(B) if there is no such representative at that time, each such employee; and
 

@@ -50,7 +50,7 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 #### (d) Voting standards
 
-(1) An amendment or resolution described in subsection (a) of this section shall be considered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
+(1) Except as otherwise set forth in subsection (d)(3) of this section, an amendment or resolution described in subsection (a) of this section shall be considered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
 
 &emsp;(A) a majority of the total voting power of the corporation, or
 
@@ -58,15 +58,37 @@ Notwithstanding any provision of the articles of incorporation and bylaws of a N
 
 (2) A Native Corporation in amending its articles of incorporation pursuant to section 1606(g)(2) of this title to authorize the issuance of a new class or series of stock may provide that a majority (or more than a majority) of the shares of such class or series must vote in favor of an amendment or resolution described in subsection (a) of this section (other than an amendment authorized by section 1629c of this title) in order for such amendment or resolution to be approved.
 
+(3) A resolution described in subsection (a)(3) of this section shall be considered to be approved by the shareholders of a Native Corporation if it receives the affirmative vote of shares representing—
+
+&emsp;(A) a majority of the shares present or represented by proxy at the meeting relating to such resolution, or
+
+&emsp;(B) an amount of shares greater than a majority of the shares present or represented by proxy at the meeting relating to such resolution (but not greater than two-thirds of the total voting power of the corporation) if the corporation establishes such a level by an amendment to its articles of incorporation.
+
 #### (e) Voting power
 
 For the purposes of this section, the determination of total voting power of a Native Corporation shall include all outstanding shares of stock that carry voting rights except shares that are not permitted to vote on the amendment or resolution in question because of restrictions in the articles of incorporation of the corporation.
 
-(Pub. L. 92–203, §36, as added Pub. L. 100–241, §7, Feb. 3, 1988, 101 Stat. 1795.)
+#### (f) Substantially all of the assets
+
+For purposes of this section and section 1629e of this title, a Native Corporation shall be considered to be transferring all or substantially all of its assets to a Settlement Trust only if such assets represent two-thirds or more of the fair market value of the Native Corporation's total assets.
+
+(Pub. L. 92–203, §36, as added Pub. L. 100–241, §7, Feb. 3, 1988, 101 Stat. 1795; amended Pub. L. 108–7, div. F, title III, §337(a), Feb. 20, 2003, 117 Stat. 278.)
 
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (c)(1)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+#### Codification
+
+Section 337(a) of Pub. L. 108–7, which directed the amendment of section 1629b of title 43, United States Code, was executed to section 36 of Pub. L. 92–203, which is classified to this section, to reflect the probable intent of Congress. See 2003 Amendment notes below.
+
+#### Amendments
+
+2003—Subsec. (d)(1). Pub. L. 108–7, §337(a)(1), substituted “Except as otherwise set forth in subsection (d)(3) of this section, an” for “An”. See Codification note above.
+
+Subsec. (d)(3). Pub. L. 108–7, §337(a)(2), which directed the creation of a new subsection “(d)(3)”, was executed by adding par. (3) to subsec. (d). See Codification note above.
+
+Subsec. (f). Pub. L. 108–7, §337(a)(3), added subsec. (f). See Codification note above.
 
 #### Section Referred to in Other Sections
 

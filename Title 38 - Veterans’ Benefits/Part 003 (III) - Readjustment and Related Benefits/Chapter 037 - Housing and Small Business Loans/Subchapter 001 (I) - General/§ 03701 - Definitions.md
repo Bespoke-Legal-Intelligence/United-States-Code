@@ -4,7 +4,7 @@
 
 (b) For the purposes of housing loans under this chapter—
 
-&emsp;(1) The term “World War II” (A) means the period beginning on September 16, 1940, and ending on July 25, 1947, and (B) includes, in the case of any veteran who enlisted or reenlisted in a Regular component of the Armed Forces after October 6, 1945, and before October 7, 1946, the period of the first such enlistment or reenlistment.
+&emsp;(1) The term “World War II” (A) means the period beginning on September 16, 1940, and ending on July 25, 1947, and (B) includes, in the case of any veteran who enlisted or reenlisted in a Regular component of the Armed Forces after October 6, 1945, and before October 7,1946, the period of the first such enlistment or reenlistment.
 
 &emsp;(2) The term “veteran” includes the surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability, but only if such surviving spouse is not eligible for benefits under this chapter on the basis of the spouse's own active duty. The active duty or service in the Selected Reserve of the deceased spouse shall be deemed to have been active duty or service in the Selected Reserve by such surviving spouse for the purposes of this chapter.
 
@@ -12,7 +12,7 @@
 
 &emsp;(4) The term “veteran” also includes an individual serving on active duty.
 
-&emsp;(5)(A) The term “veteran” also includes an individual who is not otherwise eligible for thebenefits of this chapter and (i) who has completed a total service of at least 6 years in the Selected Reserve and, following the completion of such service, was discharged from service with an honorable discharge, was placed on the retired list, was transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service, or continues serving in the Selected Reserve, or (ii) who was discharged or released from the Selected Reserve before completing 6 years of service because of a service-connected disability.
+&emsp;(5)(A) The term “veteran” also includes an individual who is not otherwise eligible for the benefits of this chapter and (i) who has completed a total service of at least 6 years in the Selected Reserve and, following the completion of such service, was discharged from service with an honorable discharge, was placed on the retired list, was transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service, or continues serving in the Selected Reserve, or (ii) who was discharged or released from the Selected Reserve before completing 6 years of service because of a service-connected disability.
 
 &emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -420,7 +420,7 @@ Purpose.
 
 (b)
 
-Allotment and provision of cash or commodities.
+Allotment and provision and payment.
 
 (c)
 
@@ -428,7 +428,7 @@ Donation of products.
 
 (d)
 
-Cash payments in lieu of food commodities.
+Option to obtain commodities from Secretary of Agriculture.
 
 (e)
 
@@ -607,37 +607,11 @@ Availability of funds.
 
 #### subpart ii—national innovation programs
 
-|  |  |
-| :--- | ---: |
-| 3030s–11. | Innovation grant program. |
+|  |
+| :--- |
+| 3030s–11, 3030s–12. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Evaluation and dissemination of results.
-
-(c)
-
-Sunset provision.
-
-|  |  |
-| :--- | ---: |
-| 3030s–12. | Activities of national significance. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Sunset provision.
 
 #### SUBCHAPTER IV—TRAINING, RESEARCH, AND DISCRETIONARY PROJECTS AND PROGRAMS
 

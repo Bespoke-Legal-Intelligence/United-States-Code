@@ -8,7 +8,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(2) The number of officers with the joint specialty, shown by grade and branch or specialty and by education.
 
-&emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty who—
+&emsp;(3) The number of officers on the active-duty list with a military occupational specialtydesignated under section 661(c)(2) of this title as a critical occupational specialty who—
 
 &emsp;&emsp;(A) have been selected for the joint specialty;
 

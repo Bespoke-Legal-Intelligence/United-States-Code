@@ -12,7 +12,7 @@ The activities referred to in subsection (a) of this section are activities that
 
 &emsp;(2) establishing channels of communication between school staff and their counterparts (including teachers, social workers, and health staff) in such Head Start agencies or other entities carrying out early childhood development programs such as the Early Reading First program, as appropriate, to facilitate coordination of programs;
 
-&emsp;(3) conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start teachers or, if appropriate, teachers from other early childhood development programs such as the Early Reading First program, to discuss the developmental and other needs of individual children;
+&emsp;(3) conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start teachers or, if appropriate, teachers from other early childhood development programs such as the Early ReadingFirst program, to discuss the developmental and other needs of individual children;
 
 &emsp;(4) organizing and participating in joint transition-related training of school staff, Head Start program staff, Early Reading First program staff, and, where appropriate, other early childhood development program staff; and
 

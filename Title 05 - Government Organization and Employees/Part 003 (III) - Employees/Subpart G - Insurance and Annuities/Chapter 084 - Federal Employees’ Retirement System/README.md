@@ -163,11 +163,11 @@ Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, a
 
 #### Change of Name
 
-Words “magistrate judges” substituted for “magistrates” in item 8440b pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judges” substituted for “magistrates” in item 8440b pursuant to section 321 of Pub.L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8432c, 8901, 9001 of this title; title 2 sections 60c–5, 92, 162b, 2064; title 7 section 7657; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h, 7002; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 364, 375, 376, 377, 611, 627, 636, 753, 797; title 31 sections 732a, 772; title 37 section 211; title 38 sections 7257, 7297, 7438, 7453, 7458; title 39 section 1005; title 42 sections 402, 410, 3020e–1, 7237, 10704; title 49 sections 40122, 49107; title 50 sections 409a, 2021, 2151, 2152, 2153, 2154, 2155, 2157, 2442.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5407, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8432c, 8901, 9001 of this title; title 2 sections 60c–5, 92, 162b, 2064; title 7 section 7657; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h, 7002; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 364, 375, 376, 377, 611, 627, 636, 753, 797; title 31 sections 732a, 772; title 37 section 211; title 38 sections 7257, 7297, 7438, 7453, 7458; title 39 section 1005; title 42 sections 402, 410, 3020e–1, 7237, 10704; title 49 sections 40122, 49107; title 50 sections 409a, 2021, 2151, 2152, 2153, 2154, 2155, 2157, 2442.
 
 
 ---

@@ -14,7 +14,7 @@
 
 &emsp;(E) testified or is about to testify in any such proceeding or;
 
-&emsp;(F) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other manner in such a proceeding or in any other action to carry out the purposes of this chapter or the Atomic Energy Act of 1954, as amended.
+&emsp;(F) assisted or participated or is about to assist or participate in any manner in such aproceeding or in any other manner in such a proceeding or in any other action to carry out the purposes of this chapter or the Atomic Energy Act of 1954, as amended.
 
 (2) For purposes of this section, the term “employer” includes—
 
@@ -90,7 +90,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 The Atomic Energy Act of 1954, referred to in subsecs. (a)(1) and (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification on this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, which is set out as a note under section 7158 of this title.
+Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 12344, Feb. 1, 1982, 47 F.R. 4979, which is set out as a note under section 2511 of Title 50, War and National Defense.
 
 #### Amendments
 

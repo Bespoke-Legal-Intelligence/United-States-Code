@@ -44,7 +44,7 @@ For purposes of this subchapter:
 
 #### (11) Person
 
-&emsp;The term “person” includes one or more individuals, governments (including the Federal Government and the governments of the States), governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, receivers, trustees, and trustees in cases under title 11.
+&emsp;The term “person” includes one or more individuals, governments (including the FederalGovernment and the governments of the States), governmental agencies, political subdivisions, labor unions, partnerships, associations, corporations, legal representatives, mutual companies, joint-stock companies, trusts, unincorporated organizations, receivers, trustees, and trustees in cases under title 11.
 
 #### (12) State
 

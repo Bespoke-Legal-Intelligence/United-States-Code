@@ -8,7 +8,7 @@ Except as provided in subsection (b), all reports of the Tax Court and all evide
 
 #### (1) Trade secrets or other confidential information
 
-&emsp;The Tax Court may make any provision which is necessary to prevent the disclosure oftrade secrets or other confidential information, including a provision that any document or information be placed under seal to be opened only as directed by the court.
+&emsp;The Tax Court may make any provision which is necessary to prevent the disclosure of trade secrets or other confidential information, including a provision that any document or information be placed under seal to be opened only as directed by the court.
 
 #### (2) Evidence, etc.
 

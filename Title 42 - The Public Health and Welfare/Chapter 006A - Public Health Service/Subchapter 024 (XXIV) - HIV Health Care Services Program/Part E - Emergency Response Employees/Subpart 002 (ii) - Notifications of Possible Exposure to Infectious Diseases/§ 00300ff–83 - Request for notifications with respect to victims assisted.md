@@ -20,7 +20,7 @@ The duties referred to in subsection (a) of this section are that—
 
 #### (2) Form of request
 
-&emsp;A request under paragraph (1) shall be in writing and be signed by the designated officer involved, and shall contain a statement of the facts collected pursuant to subsection (b)(1) of this section.
+&emsp;A request under paragraph (1) shall be in writing and be signed by the designated officerinvolved, and shall contain a statement of the facts collected pursuant to subsection (b)(1) of this section.
 
 #### (d) Evaluation and response regarding request to medical facility
 

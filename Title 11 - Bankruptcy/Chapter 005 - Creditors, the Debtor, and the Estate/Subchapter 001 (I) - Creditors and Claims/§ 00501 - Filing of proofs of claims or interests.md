@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of Bankruptcy Procedure free to determine where a proof of claim must be filed.
+The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of BankruptcyProcedure free to determine where a proof of claim must be filed.
 
 Section 501(c) expands language contained in section 501(c) of the House bill and Senate amendment to permit the debtor to file a proof of claim if a creditor does not timely file a proof of the creditor's claim in a case under title 11.
 
@@ -24,7 +24,7 @@ For purposes of section 501, a proof of “interest” includes the interest of 
 
 #### senate report no. 95–989
 
-This section governs the means by which creditors and equity security holders present their claims or interests to the court. Subsection (a) permits a creditor to file a proof of claim or interest. An indenture trusteerepresenting creditors may file a proof of claim on behalf of the creditors he represents.
+This section governs the means by which creditors and equity security holders present their claims or interests to the court. Subsection (a) permits a creditor to file a proof of claim or interest. An indenture trustee representing creditors may file a proof of claim on behalf of the creditors he represents.
 
 This subsection is permissive only, and does not require filing of a proof of claim by any creditor. It permits filing where some purpose would be served, such as where a claim that appears on a list filed under proposed 11 U.S.C. 924 or 1111 was incorrectly stated or listed as disputed, contingent, or unliquidated, where a creditor with a lien is undersecured and asserts a claim for the balance of the debt owed him (his unsecured claim, as determined under proposed 11 U.S.C. 506(a)), or in a liquidation case where there will be a distribution of assets to the holders of allowed claims. In other instances, such as in no-asset liquidation cases, in situations where a secured creditor does not assert any claim against the estate and a determination of his claim is not made under proposed 11 U.S.C. 506, or in situations where the claim asserted would be subordinated and the creditor would not recover from the estate in any event, filing of a proof of claim may simply not be necessary. The Rules of Bankruptcy Procedure and practice under the law will guide creditors as to when filing is necessary and when it may be dispensed with. In general, however, unless a claim is listed in a chapter 9 or chapter 11 case and allowed as a result of the list, a proof of claim will be a prerequisite to allowance for unsecured claims, including priority claims and the unsecured portion of a claim asserted by the holder of a lien.
 

@@ -62,7 +62,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;&emsp;&emsp;(II) there is a reasonable basis for the tax treatment of such item by the taxpayer.
 
-> &emsp;&emsp;For purposes of clause (ii)(II), in no event shall a corporation be treated as having a reasonable basis for its tax treatment of an item attributable to a multiple-party financing transaction if such treatment does notclearly reflect the income of the corporation.
+> &emsp;&emsp;For purposes of clause (ii)(II), in no event shall a corporation be treated as having a reasonable basis for its tax treatment of an item attributable to a multiple-party financing transaction if such treatment does not clearly reflect the income of the corporation.
 
 #### (C) Special rules in cases involving tax shelters
 
@@ -218,7 +218,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 103–465, §744(a), added cl. (ii). Former cl. (
 
 Subsec. (d)(2)(C)(iii). Pub. L. 103–465, §744(a), (b)(2), redesignated cl. (ii) as (iii) and substituted “this subparagraph” for “clause (i)” in introductory provisions.
 
-1993—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any item with respect to which therelevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return.”
+1993—Subsec. (d)(2)(B)(ii). Pub. L. 103–66, §13251(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “any item with respect to which the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return.”
 
 Subsec. (e)(1)(B)(ii). Pub. L. 103–66, §13236(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the net section 482 transfer price adjustment for the taxable year exceeds $10,000,000.”
 

@@ -28,9 +28,9 @@
 
 &emsp;(3) does not fall within any other of the classes described in that subsection; and
 
-&emsp;(4) is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense, and with the concurrence of the Attorney General, to have made a contribution to the national security or to the national intelligence mission of the United States.
+&emsp;(4) is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense when Department of Defense activities are relevant to the determination, and with the concurrence of the Attorney General and the Secretary of Homeland Security, to have made a contribution to the national security or to the national intelligence mission of the United States.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, titleIII, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–120, title III, §306, Dec. 3, 1999, 113 Stat. 1612.)
+(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, title III, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–120, title III, §306, Dec. 3, 1999, 113 Stat. 1612; Pub. L. 108–177, title III, §373, Dec. 13, 2003, 117 Stat. 2628.)
 
 #### References in Text
 
@@ -38,11 +38,13 @@ Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of act
 
 #### Amendments
 
+2003—Subsec. (e)(4). Pub. L. 108–177 inserted “when Department of Defense activities are relevant to the determination” after “Secretary of Defense” and “and the Secretary of Homeland Security” after “Attorney General”.
+
 1999—Subsec. (e). Pub. L. 106–120 added subsec. (e).
 
 1994—Subsec. (a)(2). Pub. L. 103–416 substituted “or” for “and” before “(F)”.
 
-1991—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
+1991—Subsec. (a)(2). Pub. L. 102–232 inserted “and” before “(F)” and struck out “; (G) who, regardless ofwhether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-action organization during the time it is registered or required to be registered under the provisions of section 786 of title 50; or (H) who, regardless of whether he is within any of the other provisions of this section, is a member of or affiliated with any Communist-front organization during the time it is registered or required to be registered under section 786 of title 50” after “may hereafter adopt”.
 
 1990—Subsec. (c). Pub. L. 101–649 substituted “application” for “petition” wherever appearing.
 

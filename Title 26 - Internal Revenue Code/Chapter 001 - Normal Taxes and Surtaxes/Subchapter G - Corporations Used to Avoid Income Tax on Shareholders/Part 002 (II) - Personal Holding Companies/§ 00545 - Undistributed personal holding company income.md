@@ -26,7 +26,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (5) Net capital gains
 
-&emsp;There shall be allowed as a deduction the net capital gain for the taxable year, minus the taxes imposed by this subtitle attributable to such net capital gain. The taxes attributable to such net capital gain shall be an amount equal to the difference between—
+&emsp;There shall be allowed as a deduction the net capital gain for the taxable year, minus the taxes imposed by this subtitle attributableto such net capital gain. The taxes attributable to such net capital gain shall be an amount equal to the difference between—
 
 &emsp;&emsp;(A) the taxes imposed by this subtitle (except the tax imposed by this part) for such year, and
 
@@ -50,7 +50,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 In the case of a foreign corporation all of the outstanding stock of which during the last half of the taxable year is owned by nonresident alien individuals (whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations), the taxable income for purposes of subsection (a) shall be the income which constitutes personal holding company income under section 543(a)(7), reduced by the deductions attributable to such income, and adjusted, with respect to such income, in the manner provided in subsection (b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 189; Pub. L. 85–866, title I, §32(a), (b), Sept. 2, 1958, 72 Stat.1631; Pub. L. 87–403, §3(d), Feb. 2, 1962, 76 Stat. 7; Pub. L. 87–834, §9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §§207(b)(5), 209(c)(2), 225(i)(1), (2), Feb. 26, 1964, 78 Stat. 42, 46, 90; Pub. L. 89–719, title I, §101(b)(2), Nov. 2, 1966, 80 Stat. 1132; Pub. L. 89–809, title I, §104(h)(3), Nov. 13, 1966, 80 Stat. 1560; Pub. L. 91–172, title II, §201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title X, §1033(b)(4), title XIX, §§1901(a)(77), (b)(20)(B), (32)(E), (33)(D), 1906(b)(13)(A), 1951(b)(9)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834, 1839; Pub. L. 97–448, title I, §102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, title XII, §1225(b), Oct. 22, 1986, 100 Stat. 2559; Pub. L. 101–508, title XI, §11801(a)(24), (c)(10)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 189; Pub. L. 85–866, title I, §32(a), (b), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 87–403, §3(d), Feb. 2, 1962, 76 Stat. 7; Pub. L. 87–834, §9(d)(2), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 88–272, title II, §§207(b)(5), 209(c)(2), 225(i)(1), (2), Feb. 26, 1964, 78 Stat. 42, 46, 90; Pub. L. 89–719, title I, §101(b)(2), Nov. 2, 1966, 80 Stat. 1132; Pub. L. 89–809, title I, §104(h)(3), Nov. 13, 1966, 80 Stat. 1560; Pub. L. 91–172, title II, §201(a)(2)(B), Dec. 30, 1969, 83 Stat. 558; Pub. L. 94–455, title X, §1033(b)(4), title XIX, §§1901(a)(77), (b)(20)(B), (32)(E), (33)(D), 1906(b)(13)(A), 1951(b)(9)(A), Oct. 4, 1976, 90 Stat. 1628, 1777, 1797, 1800, 1801, 1834, 1839; Pub. L. 97–448, title I, §102(m)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, title XII, §1225(b), Oct. 22, 1986, 100 Stat. 2559; Pub. L. 101–508, title XI, §11801(a)(24), (c)(10)(B), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 88–272, §225(i)(2), added subsec. (c).
 
 Subsec. (b)(10), (11). Pub. L. 87–403 added pars. (10) and (11).
 
-1958—Subsec. (b)(2). Pub. L. 85–866, §32(a), substituted in first sentence “, but in computing such deduction the limitations in section 170(b)(1)(A) and (B) shall apply, and section 170(b) shall not apply” for “but with the limitations in section 170(b)(1)(A) and (B) (in lieu of the limitation in section 170(b)(2)”, and inserted in second sentence “(other than the 5-percent limitation)” and “the first sentence” after “with the adjustments” and “provided in”, respectively.
+1958—Subsec. (b)(2). Pub. L. 85–866, §32(a), substituted in first sentence “, but in computing such deduction the limitations in section 170(b)(1)(A) and (B) shall apply, and section 170(b) shall not apply” for “but with the limitations in section 170(b)(1)(A) and (B) (in lieu of the limitation in section 170(b)(2)”, and inserted in second sentence “(other than the 5-percent limitation)” and “the first sentence” after “with the adjustments” and “provided in”, respectively.
 
 Subsec. (b)(4). Pub. L. 85–866, §32(b), inserted “computed without the deductions provided in part VIII (except section 248) of subchapter B”.
 
@@ -122,7 +122,7 @@ Amendment by section 1951(b)(9)(A) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 201(g) ofPub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 201(g) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 1966 Amendments
 
@@ -158,5 +158,5 @@ Section 1951(b)(9)(B) of Pub. L. 94–455 provided that: “Notwithstanding subp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 316, 508, 541, 564, 631, 4947, 4948 of this title.
+This section is referred to in sections 170, 316, 501, 508, 541, 564, 631, 4947, 4948 of this title.
 

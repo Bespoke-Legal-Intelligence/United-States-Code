@@ -14,7 +14,7 @@ Criteria for assistance.—
 
 &emsp;(A)
 
-In general.—Any development company assisted under this section or section 697 of this title must meet the criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration.
+In general.—Any development company assisted under this section or section 697 ofthis title must meet the criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration.
 
 &emsp;(B)
 

@@ -6,37 +6,51 @@
 
 &emsp;(1) The Deputy Secretary of Defense.
 
-&emsp;(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+&emsp;(2) The Under Secretaries of Defense, as follows:
 
-&emsp;(3) The Under Secretary of Defense for Policy.
+&emsp;&emsp;(A) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-&emsp;(4) The Under Secretary of Defense (Comptroller).
+&emsp;&emsp;(B) The Under Secretary of Defense for Policy.
 
-&emsp;(5) The Under Secretary of Defense for Personnel and Readiness.
+&emsp;&emsp;(C) The Under Secretary of Defense (Comptroller).
 
-&emsp;(6) The Director of Defense Research and Engineering.
+&emsp;&emsp;(D) The Under Secretary of Defense for Personnel and Readiness.
 
-&emsp;(7) The Assistant Secretaries of Defense.
+&emsp;&emsp;(E) The Under Secretary of Defense for Intelligence.
 
-&emsp;(8) The Director of Operational Test and Evaluation.
+&emsp;(3) The Director of Defense Research and Engineering.
 
-&emsp;(9) The General Counsel of the Department of Defense.
+&emsp;(4) The Assistant Secretaries of Defense.
 
-&emsp;(10) The Inspector General of the Department of Defense.
+&emsp;(5) The Director of Operational Test and Evaluation.
 
-&emsp;(11) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
+&emsp;(6) The General Counsel of the Department of Defense.
+
+&emsp;(7) The Inspector General of the Department of Defense.
+
+&emsp;(8) Such other offices and officials as may be established by law or the Secretary of Defense may establish or designate in the Office.
 
 (c) Officers of the armed forces may be assigned or detailed to permanent duty in the Office of the Secretary of Defense. However, the Secretary may not establish a military staff in the Office of the Secretary of Defense.
 
 (d) The Secretary of each military department, and the civilian employees and members of the armed forces under the jurisdiction of the Secretary, shall cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719.)
+(Added Pub. L. 99–433, title I, §104, Oct. 1, 1986, 100 Stat. 996; amended Pub. L. 103–160, div. A, title IX, §906(a), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 103–337, div. A, title IX, §903(b)(1), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title IX, §903(e)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §901(b)(1), Dec. 2, 2002, 116 Stat. 2619.)
 
 #### Prior Provisions
 
 A prior section 131 was renumbered section 111 of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(2) to (11). Pub. L. 107–314 added par. (2), redesignated pars. (6) to (11) as (3) to (8), respectively, and struck out former pars. (2) to (5) which read as follows:
+
+“(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+“(3) The Under Secretary of Defense for Policy.
+
+“(4) The Under Secretary of Defense (Comptroller).
+
+“(5) The Under Secretary of Defense for Personnel and Readiness.”
 
 1999—Subsec. (b)(2). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -140,7 +154,7 @@ Secretary of Defense Study.—The Secretary of Defense shall conduct a study of 
 
 “(b)
 
-Service Secretaries Joint Study.—(1) The Secretaries of the military departments shall conduct a joint study of the functions and organization of the Office of the Secretary of Defense. The study shall be conducted independently of the study conducted by the Secretary of Defense under subsection (a). The Secretaries shall submit a joint report to the Secretary of Defense on such study at a time specified by the Secretary. Except as provided in paragraph (2), the report shall include a discussion of and recommendations concerning each of the matters specified in subsection (d).
+Service Secretaries Joint Study.—(1) The Secretaries of the military departments shall conduct a joint study of the functions and organization of the Office of the Secretary of Defense. The study shall be conducted independently of the study conducted by the Secretary of Defense under subsection (a). The Secretaries shall submit a joint report to the Secretary of Defense on such study at a time specified by the Secretary. Except as provided in paragraph (2), the reportshall include a discussion of and recommendations concerning each of the matters specified in subsection (d).
 
 “(2) The Secretary of Defense shall determine the extent to which, and prescribe the procedures under which, the Secretaries of the military departments shall study the matters specified in subsection (d)(1)(A) relating to contingency planning and military operations.
 

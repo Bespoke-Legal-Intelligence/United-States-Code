@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, an individual or entity shall not be eligible to receive any benefit described in paragraph (2) during a crop year if the average adjusted gross income of the individual or entity exceeds $2,500,000, unless not less than 75 percent of the average adjusted gross income of the individual or entity is derived from farming, ranching, or forestry operations, as determined by the Secretary.
+&emsp;Notwithstanding any other provision of law, an individual or entity shall not be eligible to receive any benefit described in paragraph (2)during a crop year if the average adjusted gross income of the individual or entity exceeds $2,500,000, unless not less than 75 percent of the average adjusted gross income of the individual or entity is derived from farming, ranching, or forestry operations, as determined by the Secretary.
 
 #### (2) Covered benefits
 
@@ -36,7 +36,7 @@ To comply with the limitation under subsection (b) of this section, an individua
 
 #### (d) Commensurate reduction
 
-In the case of a benefit described in subsection (b)(2) of this section made in a crop year to an entity, general partnership, or joint venture, the amount of the benefit shall be reduced by anamount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each individual who has an average adjusted gross income in excess of the limitation specified in subsection (b) of this section for the average of the 3 preceding crop years.
+In the case of a benefit described in subsection (b)(2) of this section made in a crop year to an entity, general partnership, or joint venture, the amount of the benefit shall be reduced by an amount that is commensurate with the direct and indirect ownership interest in the entity, general partnership, or joint venture of each individual who has an average adjusted gross income in excess of the limitation specified in subsection (b) of this section for the average of the 3 preceding crop years.
 
 #### (e) Effective period
 

@@ -12,7 +12,7 @@ Every individual who—
 
 &emsp;(4) is not otherwise entitled to benefits under this part,
 
-> shall be eligible to enroll in the insurance program established by this part.
+> shall be eligible to enroll in the insurance program established by this part. Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title.
 
 #### (b) Time, manner, and form of enrollment
 
@@ -112,7 +112,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part under this section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
 
-(B) A person described in this subparagraph for a month is a person who establishes to the satisfaction of the Secretary that, as of the last day of the previous month—
+(B) A person described in this subparagraph for a month is a person who establishes to thesatisfaction of the Secretary that, as of the last day of the previous month—
 
 &emsp;(i)(I) the person was receiving cash benefits under a qualified State or local government retirement system (as defined in subparagraph (C)) on the basis of the person's employment in one or more positions covered under any such system, and (II) the person would have at least 40 quarters of coverage under subchapter II of this chapter if remuneration for medicare qualified government employment (as defined in paragraph (1) of section 410(p) of this title, but determined without regard to paragraph (3) of such section) paid to such person were treated as wages paid to such person and credited for purposes of determining quarters of coverage under section 413 of this title;
 
@@ -120,7 +120,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
-&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of thedivorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
+&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
 
 (C) For purposes of subparagraph (B)(i)(I), the term “qualified State or local government retirement system” means a retirement system that—
 
@@ -130,7 +130,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) does not adjust cash retirement benefits based on eligibility for a reduction in premium under this paragraph.
 
-(6)(A) In the case where a State, a political subdivision of a State, or an agency or instrumentality of a State or political subdivision thereof determines to pay, for the life of each individual, the monthly premiums due under paragraph (1) on behalf of each of the individuals in a qualified State or local government retiree group who meets the conditions of subsection (a) of this section, the amount of any increase otherwise applicable under section 1395r(b) of this title (as applied and modified by subsection (c)(6) of this section) with respect to the monthly premium for benefits under this part for an individual who is a member of such group shall be reduced by the total amount of taxes paid under section 3101(b) of the Internal Revenue Code of 1986 by such individual and under section 3111(b) by the employers of such individual on behalf of such individual with respect to employment (as defined in section 3121(b) of such Code).
+(6)(A) In the case where a State, a political subdivision of a State, or an agency or instrumentality of a State or political subdivision thereof determines to pay, for the life of each individual, the monthly premiums due under paragraph (1) on behalf of each of the individuals in a qualified State or local government retiree group who meets the conditions of subsection (a) of this section, the amount of any increase otherwise applicable under section 1395r(b) of this title (as applied and modified by subsection (c)(6) of this section) with respect to the monthly premium for benefits under this part for an individual who is a member of such group shall be reduced by the total amount of taxes paid under section 3101(b) of the Internal Revenue Code of 1986 by such individual and under section 3111(b) of such Code by the employers of such individual on behalf of such individual with respect to employment (as defined in section 3121(b) of such Code).
 
 (B) For purposes of this paragraph, the term “qualified State or local government retiree group” means all of the individuals who retire prior to a specified date that is before January 1, 2002, from employment in one or more occupations or other broad classes of employees of—
 
@@ -154,9 +154,9 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (2)(A) Except as provided in subparagraph (B), the provisions of subsections (c), (d), (e), and (f) of section 1395v of this title shall apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in the program established by this part in the same manner and to the same extent as they apply to qualified medicare beneficiaries enrolled, pursuant to such agreement, in part B of this subchapter.
 
-(B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b).”.<sup>2</sup>
+(B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b)”.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI,§§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
 
 #### References in Text
 
@@ -165,6 +165,12 @@ Part B of this subchapter, referred to in subsecs. (a)(2), (c)(1), and (g)(2)(A)
 The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2003—Subsec. (a). Pub. L. 108–173, §101(e)(5), inserted at end of concluding provisions “Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title.”
+
+Subsec. (d)(6)(A). Pub. L. 108–173, §736(a)(7)(A), inserted “of such Code” after “3111(b)”.
+
+Subsec. (g)(2)(B). Pub. L. 108–173, §736(a)(7)(B), substituted “subsection (b)” for “subsection (b).”
 
 2000—Subsec. (c)(6). Pub. L. 106–554, §1(a)(6) \[title III, §331(a)(1)\], inserted “and shall be subject to reduction in accordance with subsection (d)(6) of this section” before semicolon.
 
@@ -236,7 +242,7 @@ Section 6013(c) of Pub. L. 101–239 provided that: “The amendments made by th
 
 Amendment by Pub. L. 100–485 effective as if originally included in the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 103 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or afterJan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(b)(8)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -309,6 +315,4 @@ Pub. L. 97–248, title I, §125, Sept. 3, 1982, 96 Stat. 365, provided that:
 This section is referred to in sections 1395i–2a, 1395p, 1395v, 1395ff, 1395gg, 1396d of this title; title 25 section 1644; title 26 section 6103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

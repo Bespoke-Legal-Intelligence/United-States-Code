@@ -8,18 +8,34 @@
 | [9102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009102%20-%20Institute%20of%20Museum%20and%20Library%20Services.md) | Institute of Museum and Library Services. |
 | (a) | Establishment. |
 | (b) | Offices. |
+| (c) | Museum and Library Services Board. |
 | [9103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009103%20-%20Director%20of%20Institute.md) | Director of Institute. |
 | (a) | Appointment. |
 | (b) | Compensation. |
 | (c) | Duties and powers. |
 | (d) | Nondelegation. |
 | (e) | Coordination. |
+| (f) | Regulatory authority. |
+| (g) | Application procedures. |
 | [9104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009104%20-%20Deputy%20Directors.md) | Deputy Directors. |
 | [9105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105%20-%20Personnel.md) | Personnel. |
 | (a) | In general. |
 | (b) | Appointment and compensation of technical and professional employees. |
 | (c) | Voluntary services. |
+| [9105a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009105a%20-%20National%20Museum%20and%20Library%20Services%20Board.md) | National Museum and Library Services Board. |
+| (a) | Establishment. |
+| (b) | Membership. |
+| (c) | Terms. |
+| (d) | Duties and powers. |
+| (e) | Chairperson. |
+| (f) | Meetings. |
+| (g) | Quorum. |
+| (h) | Compensation and travel expenses. |
+| (i) | Coordination. |
 | [9106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009106%20-%20Contributions.md) | Contributions. |
+| [9107\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009107%20-%20Awards.md) | Awards. |
+| [9108\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009108%20-%20Analysis%20of%20impact%20of%20museum%20and%20library%20services.md) | Analysis of impact of museum and library services. |
+| [9109\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2009109%20-%20Prohibition%20on%20use%20of%20funds%20for%20construction.md) | Prohibition on use of funds for construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,7 +46,7 @@
 | [9121\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/%C2%A7%2009121%20-%20Purpose.md) | Purpose. |
 | [9122\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/%C2%A7%2009122%20-%20Definitions.md) | Definitions. |
 | [9123\.](Subchapter%20002%20%28II%29%20-%20Library%20Services%20and%20Technology/%C2%A7%2009123%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization of appropriations. |
+| (a) | In general. |
 | (b) | Forward funding. |
 | (c) | Administration. |
 
@@ -100,21 +116,11 @@ I74subpart a—state requirements
 | [9171\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009171%20-%20Purpose.md) | Purpose. |
 | [9172\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009172%20-%20Definitions.md) | Definitions. |
 | [9173\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009173%20-%20Museum%20services%20activities.md) | Museum services activities. |
-| (a) | Grants. |
-| (b) | Contracts and cooperative agreements. |
-| (c) | Federal share. |
-| (d) | Review and evaluation. |
-| [9174\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009174%20-%20Award.md) | Award. |
-| [9175\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009175%20-%20National%20Museum%20Services%20Board.md) | National Museum Services Board. |
-| (a) | Establishment. |
-| (b) | Composition and qualifications. |
-| (c) | Terms. |
-| (d) | Duties and powers. |
-| (e) | Chairperson. |
-| (f) | Meetings. |
-| (g) | Quorum. |
-| (h) | Compensation and travel expenses. |
-| (i) | Coordination. |
+| (a) | In general. |
+| (b) | Federal share. |
+| (c) | Review and evaluation. |
+| (d) | Services for Native Americans. |
+| 9174, 9175. | Repealed. |
 | [9176\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009176%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Grants. |
 | (b) | Administration. |
@@ -125,10 +131,6 @@ I74subpart a—state requirements
 #### Codification
 
 Title II of Pub. L. 94–462, comprising this chapter, was originally enacted as Pub. L. 94–462, title II, Oct. 8, 1976, 90 Stat. 1975; Pub. L. 96–496, title II, §201, Dec. 4, 1980, 94 Stat. 2591; Pub. L. 98–306, §§8–11, May 31, 1984, 98 Stat. 225; Pub. L. 99–194, title II, Dec. 20, 1985, 99 Stat. 1344; Pub. L. 101–512, title III, §318 \[title II, §§201, 202(a)(1), (b), 203–205\], Nov. 5, 1990, 104 Stat. 1960, 1974, 1975, known as the Museum Services Act, and classified to section 961 et seq. of this title. Title II is shown, herein, however, as having been added by Pub. L. 104–208 without reference to such intervening amendments because of the extensive amendments to the provisions of title II by Pub. L. 104–208.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1504 of this title.
 
 
 ---

@@ -1,10 +1,10 @@
 ### §5701. Confidential nature of claims
 
-(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
+(a) All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretaryand the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
 (b) The Secretary shall make disclosure of such files, records, reports, and other papers and documents as are described in subsection (a) of this section as follows:
 
-&emsp;(1) To a claimant or duly authorized agent or representative of a claimant as to mattersconcerning the claimant alone when, in the judgment of the Secretary, such disclosure would not be injurious to the physical or mental health of the claimant and to an independent medical expert or experts for an advisory opinion pursuant to section 5109 or 7109 of this title.
+&emsp;(1) To a claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone when, in the judgment of the Secretary, such disclosure would not be injurious to the physical or mental health of the claimant and to an independent medical expert or experts for an advisory opinion pursuant to section 5109 or 7109 of this title.
 
 &emsp;(2) When required by process of a United States court to be produced in any suit or proceeding therein pending.
 
@@ -40,9 +40,9 @@
 
 &emsp;(B) obtaining a consumer report in order to assess the ability of a person described in subparagraph (A)(i) of this paragraph to repay the indebtedness of such person to the United States, but the Secretary may release the name or address of such person for the purpose stated in this clause only if the Secretary determines under such regulations that such person has failed to respond appropriately to administrative efforts to collect such indebtedness.
 
-(3) The Secretary may also release to a consumer reporting agency, for the purposes specified in subparagraph (A) or (B) of paragraph (2) of this subsection, such other information as the Secretary determines under such regulations is reasonably necessary to identify a person described in such paragraph, except that the Secretary may not release to a consumer reporting agency any information which indicates any indebtedness on the part of such person to the United States or any information which reflects adversely on such person. Before releasing any information under this paragraph, the Secretary shall, under such regulations, take reasonable steps to provide for the protection of the personal privacy of persons about whom information is proposed to be released under this paragraph.
+(3) The Secretary may also release to a consumer reporting agency, for the purposes specified in subparagraph (A) or (B) of paragraph (2) of this subsection, such other information as the Secretary determines under such regulations is reasonably necessary to identify a person described in such paragraph, except that the Secretary may not release to a consumer reporting agency any information which indicates any indebtedness on the part of such person to theUnited States or any information which reflects adversely on such person. Before releasing any information under this paragraph, the Secretary shall, under such regulations, take reasonable steps to provide for the protection of the personal privacy of persons about whom information is proposed to be released under this paragraph.
 
-(4)(A) If the Secretary determines, under regulations which the Secretary shall prescribe, that a person described in paragraph (1) of this subsection has failed to respond appropriately toreasonable administrative efforts to collect an indebtedness of such person described in paragraph (2)(A)(i) of this subsection, the Secretary may release information concerning the indebtedness, including the name and address of such person, to a consumer reporting agency for the purpose of making such information available for inclusion in consumer reports regarding such person and, if necessary, for the purpose of locating such person, if—
+(4)(A) If the Secretary determines, under regulations which the Secretary shall prescribe, that a person described in paragraph (1) of this subsection has failed to respond appropriately to reasonable administrative efforts to collect an indebtedness of such person described in paragraph (2)(A)(i) of this subsection, the Secretary may release information concerning the indebtedness, including the name and address of such person, to a consumer reporting agency for the purpose of making such information available for inclusion in consumer reports regarding such person and, if necessary, for the purpose of locating such person, if—
 
 &emsp;(i) the Secretary has (I) made reasonable efforts to notify such person of such person's right to dispute through prescribed administrative processes the existence or amount of such indebtedness and of such person's right to request a waiver of such indebtedness under section 5302 of this title, (II) afforded such person a reasonable opportunity to exercise such rights, and (III) made a determination with respect to any such dispute or request; and
 
@@ -80,11 +80,11 @@
 
 &emsp;&emsp;(i) a consumer reporting agency as such term is defined in subsection (f) of section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a(f)), or
 
-&emsp;&emsp;(ii) any person who, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of (I) obtaining credit or other information on consumers for the purpose of furnishing such information to consumer reporting agencies (as defined in clause (i) of this paragraph), or (II) serving as a marketing agent under arrangements enabling third parties to obtain such information from such reporting agencies.
+&emsp;&emsp;(ii) any person who, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of (I) obtaining credit or other information on consumers for the purpose offurnishing such information to consumer reporting agencies (as defined in clause (i) of this paragraph), or (II) serving as a marketing agent under arrangements enabling third parties to obtain such information from such reporting agencies.
 
 (j) Except as provided in subsection (i)(1) of this section, any disclosure made pursuant to this section shall be made in accordance with the provisions of section 552a of title 5.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557;Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered §5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, §3301; Pub. L. 87–671, §2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, §11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, §412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, §1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, §210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, §606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, §302(a), Aug. 16, 1989, 103 Stat. 628; renumbered §5701 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, §8(a)(13), June 5, 2001, 115 Stat. 35.)
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 94–321, §1(a)(3), (5), redesignated par. (9) as subsec. 
 
 Subsec. (g). Pub. L. 94–321, §1(a)(5), added subsec. (g).
 
-1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present or former personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
+1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present orformer personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
 
 1969—Par. (1). Pub. L. 91–24 substituted “the claimant and to an independent” for “the claimant. And to an independent”.
 
@@ -182,7 +182,7 @@ Subsec. (g). Pub. L. 94–321, §1(a)(5), added subsec. (g).
 
 #### Effective Date of 1989 Amendment
 
-Section 302(c) of Pub. L. 101–94 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4092 \[now 7292\] of this title\]shall take effect as if included in the Veterans’ Judicial Review Act \[div. A of Pub. L. 100–687\].”
+Section 302(c) of Pub. L. 101–94 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4092 \[now 7292\] of this title\] shall take effect as if included in the Veterans’ Judicial Review Act \[div. A of Pub. L. 100–687\].”
 
 #### Effective Date of 1980 Amendment
 

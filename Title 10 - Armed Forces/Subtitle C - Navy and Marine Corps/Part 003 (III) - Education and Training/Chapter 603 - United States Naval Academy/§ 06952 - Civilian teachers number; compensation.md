@@ -36,7 +36,7 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 The words “for the proper instruction of naval personnel” and the words “be paid out of naval appropriations” are omitted as surplusage.
 
-In subsection (c) the words “except the authority to prescribe regulations” are omitted, since 34 U.S.C. 1071contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
+In subsection (c) the words “except the authority to prescribe regulations” are omitted, since 34 U.S.C. 1071 contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
 #### Amendments
 

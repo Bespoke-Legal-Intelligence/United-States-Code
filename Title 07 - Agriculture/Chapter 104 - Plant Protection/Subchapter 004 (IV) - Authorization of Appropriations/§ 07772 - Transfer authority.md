@@ -2,7 +2,7 @@
 
 #### (a) Authority to transfer certain funds
 
-In connection with an emergency in which a plant pest or noxious weed threatens any segment of the agricultural production of the United States, the Secretary may transfer from other appropriations or funds available to the agencies or corporations of the Department of Agriculture such amounts as the Secretary considers necessary to be available in the emergency for the arrest, control, eradication, and prevention of the spread of the plant pest or noxious weed and for related expenses.
+In connection with an emergency in which a plant pest or noxious weed threatens any segment of the agricultural production of the United States, the Secretary may transfer from other appropriations or funds available to theagencies or corporations of the Department of Agriculture such amounts as the Secretary considers necessary to be available in the emergency for the arrest, control, eradication, and prevention of the spread of the plant pest or noxious weed and for related expenses.
 
 #### (b) Availability
 
@@ -20,7 +20,7 @@ This Act, referred to in subsec. (c), probably should read “this title” mean
 
 #### Codification
 
-Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests are contained in section 129 of Title 21, Food and Drugs, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases are contained in section 129a of Title 21.
+Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests were contained in section 129 of Title 21, Food and Drugs, prior to its omission from the Code, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases were contained in section 129a of Title 21, prior to repeal by Pub. L. 107–171, title X, §10418(a)(1), May 13, 2002, 116 Stat. 507.
 
 #### Amendments
 

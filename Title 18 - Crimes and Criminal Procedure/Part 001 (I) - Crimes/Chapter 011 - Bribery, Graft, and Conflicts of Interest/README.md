@@ -13,8 +13,8 @@
 | [209\.](%C2%A7%2000209%20-%20Salary%20of%20Government%20officials%20and%20employees%20payable%20only%20by%20United%20States.md) | Salary of Government officials and employees payable only by United States. |
 | [210\.](%C2%A7%2000210%20-%20Offer%20to%20procure%20appointive%20public%20office.md) | Offer to procure appointive public office. |
 | [211\.](%C2%A7%2000211%20-%20Acceptance%20or%20solicitation%20to%20obtain%20appointive%20public%20office.md) | Acceptance or solicitation to obtain appointive public office. |
-| [212\.](%C2%A7%2000212%20-%20Offer%20of%20loan%20or%20gratuity%20to%20bank%20examiner.md) | Offer of loan or gratuity to bank examiner. |
-| [213\.](%C2%A7%2000213%20-%20Acceptance%20of%20loan%20or%20gratuity%20by%20bank%20examiner.md) | Acceptance of loan or gratuity by bank examiner. |
+| [212\.](%C2%A7%2000212%20-%20Offer%20of%20loan%20or%20gratuity%20to%20financial%20institution%20examiner.md) | Offer of loan or gratuity to financial institution examiner. |
+| [213\.](%C2%A7%2000213%20-%20Acceptance%20of%20loan%20or%20gratuity%20by%20financial%20institution%20examiner.md) | Acceptance of loan or gratuity by financial institution examiner. |
 | [214\.](%C2%A7%2000214%20-%20Offer%20for%20procurement%20of%20Federal%20Reserve%20bank%20loan%20and%20discount%20of%20commercial%20paper.md) | Offer for procurement of Federal Reserve bank loan and discount of commercial paper. |
 | [215\.](%C2%A7%2000215%20-%20Receipt%20of%20commissions%20or%20gifts%20for%20procuring%20loans.md) | Receipt of commissions or gifts for procuring loans. |
 | [216\.](%C2%A7%2000216%20-%20Penalties%20and%20injunctions.md) | Penalties and injunctions. |
@@ -29,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2003—Pub. L. 108–198, §2(b), Dec. 19, 2003, 117 Stat. 2900, added items 212 and 213 and struck out formeritems 212 “Offer of loan or gratuity to bank examiner” and 213 “Acceptance of loan or gratuity by bank examiner”.
 
 1994—Pub. L. 103–322, title XXXIII, §330010(12), Sept. 13, 1994, 108 Stat. 2144, substituted “officers, and others in” for “officers and others, in” in item 203 and inserted “the” after “Federal Claims or” in item 204.
 
@@ -70,8 +72,8 @@ This chapter is referred to in title 5 section 3161; title 10 section 1588; titl
 - [&sect; 00209 - Salary of Government officials and employees payable only by United States](%C2%A7%2000209%20-%20Salary%20of%20Government%20officials%20and%20employees%20payable%20only%20by%20United%20States.md)
 - [&sect; 00210 - Offer to procure appointive public office](%C2%A7%2000210%20-%20Offer%20to%20procure%20appointive%20public%20office.md)
 - [&sect; 00211 - Acceptance or solicitation to obtain appointive public office](%C2%A7%2000211%20-%20Acceptance%20or%20solicitation%20to%20obtain%20appointive%20public%20office.md)
-- [&sect; 00212 - Offer of loan or gratuity to bank examiner](%C2%A7%2000212%20-%20Offer%20of%20loan%20or%20gratuity%20to%20bank%20examiner.md)
-- [&sect; 00213 - Acceptance of loan or gratuity by bank examiner](%C2%A7%2000213%20-%20Acceptance%20of%20loan%20or%20gratuity%20by%20bank%20examiner.md)
+- [&sect; 00212 - Offer of loan or gratuity to financial institution examiner](%C2%A7%2000212%20-%20Offer%20of%20loan%20or%20gratuity%20to%20financial%20institution%20examiner.md)
+- [&sect; 00213 - Acceptance of loan or gratuity by financial institution examiner](%C2%A7%2000213%20-%20Acceptance%20of%20loan%20or%20gratuity%20by%20financial%20institution%20examiner.md)
 - [&sect; 00214 - Offer for procurement of Federal Reserve bank loan and discount of commercial paper](%C2%A7%2000214%20-%20Offer%20for%20procurement%20of%20Federal%20Reserve%20bank%20loan%20and%20discount%20of%20commercial%20paper.md)
 - [&sect; 00215 - Receipt of commissions or gifts for procuring loans](%C2%A7%2000215%20-%20Receipt%20of%20commissions%20or%20gifts%20for%20procuring%20loans.md)
 - [&sect; 00216 - Penalties and injunctions](%C2%A7%2000216%20-%20Penalties%20and%20injunctions.md)

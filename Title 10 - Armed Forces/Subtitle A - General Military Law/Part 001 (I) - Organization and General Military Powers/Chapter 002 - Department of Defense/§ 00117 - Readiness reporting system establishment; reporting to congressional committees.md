@@ -16,7 +16,7 @@ Readiness Reporting System Characteristics.—In establishing the readiness repo
 
 &emsp;(1) that the readiness reporting system is applied uniformly throughout the Department of Defense;
 
-&emsp;(2) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
+&emsp;(2) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element ofdefense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
 
 &emsp;(3) that sufficient resources are provided to establish and maintain the system so as to allow reporting of changes in readiness status as required by this section.
 
@@ -50,19 +50,21 @@ Quarterly and Monthly Joint Readiness Reviews.—(1) The Chairman of the Joint C
 
 (e)
 
-Submission to Congressional Committees.—The Secretary shall each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
+Submission to Congressional Committees.—The Secretary shall each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
 
 (f)
 
 Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80.)
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595.)
 
 #### Prior Provisions
 
 A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1287, §133a; renumbered §117 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(d)(3), Oct. 1, 1986, 100 Stat. 994, 1002, required annual report on North Atlantic Treaty Organization readiness, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(1), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+2003—Subsec. (e). Pub. L. 108–136 substituted “each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)” for “each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)”.
 
 2000—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
 

@@ -50,7 +50,7 @@
 
 &emsp;(A) as soon as practicable, but no later than the date of publication of a notice of proposed rulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information and any information requested by the Director necessary to make the determination required under this subsection; and
 
-&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth insection 3508 on the collection of information contained in the proposed rule;
+&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
 
 (2) When a final rule is published in the Federal Register, the agency shall explain—
 
@@ -94,7 +94,7 @@
 
 &emsp;(B) an exercise of authority under subsection (d) of section 3507 concerning that agency.
 
-(2) The agency shall certify each vote to void such disapproval or exercise to the Director, and explain the reasons for such vote. The Director shall without further delay assign a control number to such collection of information, and such vote to void the disapproval or exercise shall be valid for a period of 3 years.
+(2) The agency shall certify each vote to void such disapproval or exercise to the Director, and explain the reasons for such vote. The Directorshall without further delay assign a control number to such collection of information, and such vote to void the disapproval or exercise shall be valid for a period of 3 years.
 
 (g) The Director may not approve a collection of information for a period in excess of 3 years.
 
@@ -112,7 +112,7 @@
 
 (3) An agency may not make a substantive or material modification to a collection of information after such collection has been approved by the Director, unless the modification has been submitted to the Director for review and approval under this subchapter.
 
-(i)(1) If the Director finds that a senior official of an agency designated under section 3506(a) issufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved and has sufficient resources to carry out this responsibility effectively, the Director may, by rule in accordance with the notice and comment provisions of chapter 5 of title 5, United States Code, delegate to such official the authority to approve proposed collections of information in specific program areas, for specific purposes, or for all agency purposes.
+(i)(1) If the Director finds that a senior official of an agency designated under section 3506(a) is sufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved and has sufficient resources to carry out this responsibility effectively, the Director may, by rule in accordance with the notice and comment provisions of chapter 5 of title 5, United States Code, delegate to such official the authority to approve proposed collections of information in specific program areas, for specific purposes, or for all agency purposes.
 
 (2) A delegation by the Director under this section shall not preclude the Director from reviewing individual collections of information if the Director determines that circumstances warrant such a review. The Director shall retain authority to revoke such delegations, both in general and with regard to any specific matter. In acting for the Director, any official to whom approval authority has been delegated under this section shall comply fully with the rules and regulations promulgated by the Director.
 

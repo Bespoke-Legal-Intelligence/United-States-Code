@@ -4,9 +4,9 @@
 
 The purpose of this section is to provide incentives to encourage and reward effective performance by States and tribal organizations in the efficient delivery of nutritious meals to older individuals.
 
-#### (b) Allotment and provision of cash or commodities
+#### (b) Allotment and provision and payment
 
-(1) The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to each State agency with a plan approved under this subchapter for a fiscal year, and to each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears tothe total number of such meals served in all States and by all subchapter X grantees under all such plans and applications approved for such preceding fiscal year.
+(1) The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency with a plan approved under this subchapter for a fiscal year, and to or on behalf of each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all subchapter X grantees underall such plans and applications approved for such preceding fiscal year.
 
 (2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X of this chapter for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the subchapter X grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the subchapter X grantee in the fiscal year for which the application was approved.
 
@@ -18,15 +18,17 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 (3) Dairy products purchased by the Secretary of Agriculture under section 1446a–1 of title 7 shall be used to meet the requirements of programs providing nutrition services in accordance with the provisions of this subchapter.
 
-#### (d) Cash payments in lieu of food commodities
+#### (d) Option to obtain commodities from Secretary of Agriculture
 
-(1) In any case in which a State elects to receive cash payments,,<sup>1</sup> the Secretary of Agriculture shall make cash payments to such State in an amount equivalent in value to the donated foods which the State otherwise would have received if such State had retained its commodity distribution.
+(1) Each State agency and each grantee under subchapter X of this chapter shall be entitled to use all or any part of amounts allotted under subsection (b) of this section to obtain from the Secretary of Agriculture commodities available through any Federal food commodity processing program, at the rates at which such commodities are valued for purposes of such program.
 
-(2) When such payments are made, the State agency shall promptly and equitably disburse any cash it receives in lieu of commodities to recipients of grants or contracts. Such disbursements shall only be used by such recipients of grants or contracts to purchase United States agricultural commodities and other foods for their nutrition projects.
+(2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (if any) of its allotment under subsection (b) of this section which each State agency and subchapter X grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or subchapter X grantee under this subsection bears to the total value of commodities so received.
 
-(3) Nothing in this subsection shall be construed to authorize the Secretary of Agriculture to require any State to elect to receive cash payments under this subsection.
+(3) From the allotment under subsection (b) of this section for each State agency and subchapter X grantee, the Secretary shall first reimburse the Secretary of Agriculture for costs of commodities received by such State agency or grantee under this subsection, and shall then pay the balance (if any) to such State agency or grantee.
 
-(4) Among the commodities delivered under subsection (c) of this section, the Secretary of Agriculture shall give special emphasis to high protein foods. The Secretary of Agriculture, in consultation with the Assistant Secretary, is authorized to prescribe the terms and conditions respecting the donating of commodities under this subsection.
+(4) Each State agency shall promptly and equitably disburse amounts received under this subsection to recipients of grants and contracts. Such disbursements shall only be used by such recipients of grants or contracts to purchase United States agricultural commodities and other foods for their nutrition projects.
+
+(5) Among the commodities delivered under subsection (c) of this section, the Secretary of Agriculture shall give special emphasis to high protein foods. The Secretary of Agriculture, in consultation with the Assistant Secretary, is authorized to prescribe the terms and conditions respecting the provision of commodities under this subsection.
 
 #### (e) Authorization of appropriations
 
@@ -40,9 +42,29 @@ In each fiscal year, the Secretary of Agriculture and the Secretary of Health an
 
 &emsp;(2) the procedures to be followed to participate in the program.
 
-(Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246.)
+(Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G, title II, §217(a), Feb. 20, 2003, 117 Stat. 325.)
 
 #### Amendments
+
+2003—Subsec. (b). Pub. L. 108–7, §217(a)(1)(A), substituted “and payment” for “of cash or commodities” in heading that had been supplied editorially.
+
+Subsec. (b)(1). Pub. L. 108–7, §217(a)(1)(B), substituted “The Secretary shall allot and provide, in accordance with this section, to or on behalf of each State agency” for “The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to each State agency” and “to or on behalf of each grantee” for “to each grantee”.
+
+Subsec. (d). Pub. L. 108–7, §217(a)(2)(A), inserted heading.
+
+Subsec. (d)(1). Pub. L. 108–7, §217(a)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any case in which a State elects to receive cash payments,, the Secretary of Agriculture shall make cash payments to such State in an amount equivalent in value to the donated foods which the State otherwise would have received if such State had retained its commodity distribution.”
+
+Subsec. (d)(2). Pub. L. 108–7, §217(a)(2)(E), added par. (2). Former par. (2) redesignated (4).
+
+Subsec. (d)(3). Pub. L. 108–7, §217(a)(2)(D), (E), added par. (3) and struck out former par. (3) which read as follows: “Nothing in this subsection shall be construed to authorize the Secretary of Agriculture to require any State to elect to receive cash payments under this subsection.”
+
+Subsec. (d)(4). Pub. L. 108–7, §217(a)(2)(F), amended first sentence generally. Prior to amendment, first sentence read as follows: “When such payments are made, the State agency shall promptly and equitably disburse any cash it receives in lieu of commodities to recipients of grants or contracts.”
+
+Pub. L. 108–7, §217(a)(2)(C), redesignated par. (2) as par. (4). Former par. (4) redesignated (5).
+
+Subsec. (d)(5). Pub. L. 108–7, §217(a)(2)(G), which directed the substitution of “provision” for “donation”, was executed by substituting “provision” for “donating”, to reflect the probable intent of Congress.
+
+Pub. L. 108–7, §217(a)(2)(C), redesignated par. (4) as (5).
 
 2000—Pub. L. 106–501, §309(1), in section catchline substituted “Nutrition services incentive program” for “Availability of surplus commodities”.
 
@@ -66,7 +88,7 @@ Subsec. (f). Pub. L. 106–501, §309(2), redesignated subsec. (d) as (f).
 
 1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
 
-Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989,$183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
+Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
 
 Subsec. (c)(2). Pub. L. 102–375, §310(2)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), in” for “In”, and added subpar. (B).
 
@@ -108,7 +130,7 @@ Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable wit
 
 #### Effective Date of 1986 Amendment
 
-Section 5 of Pub. L. 99–269 provided that: “This Act and the amendments made by this Act \[amending this section and enacting provisions set out as notes under this section and section 3001 of this title\] shall take effect on October 1, 1985.”
+Section 5 of Pub. L. 99–269 provided that: “This Act and the amendments made by this Act \[amending this section and enacting provisions set out as notes underthis section and section 3001 of this title\] shall take effect on October 1, 1985.”
 
 #### Effective Date of 1984 Amendment
 
@@ -129,6 +151,4 @@ Pub. L. 99–269, §3(a), Apr. 1, 1986, 100 Stat. 78, authorized appropriations 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1762a, 3030g–22 of this title; title 7 section 1431e.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -40,5 +40,5 @@ Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, which established the Presiden
 
 #### Executive Order No. 12202
 
-Ex. Ord. No. 12202, Mar. 18, 1980, 45 F.R. 17939, as amended by Ex. Ord. No. 12240, Sept. 26, 1980, 45 F.R. 64545, which established the Nuclear Safety Oversight Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §22, Aug. 17, 1982, 47 F.R. 36100 and Ex. Ord. No. 12399, §4(c), Dec. 31, 1982, 48 F.R. 380, set out as notes under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12202, Mar. 18, 1980, 45 F.R. 17939, as amended by Ex. Ord. No. 12240, Sept. 26, 1980, 45 F.R.64545, which established the Nuclear Safety Oversight Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §22, Aug. 17, 1982, 47 F.R. 36100 and Ex. Ord. No. 12399, §4(c), Dec. 31, 1982, 48 F.R. 380, set out as notes under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

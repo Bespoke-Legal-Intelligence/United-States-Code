@@ -2,7 +2,7 @@
 
 (a)
 
-Conditions for Recordation.—Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the personwho executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document.
+Conditions for Recordation.—Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document.
 
 (b)
 
@@ -66,7 +66,7 @@ Deposit of Copies in Library of Congress.—In the case of public domain compute
 
 “(d)
 
-Regulations.—The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established bythe Register are subject to the approval of the Librarian of Congress.”
+Regulations.—The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established by the Register are subject to the approval of the Librarian of Congress.”
 
 #### Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
 

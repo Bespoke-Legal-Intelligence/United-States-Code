@@ -106,7 +106,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151q, 2346c, 2398 of this title.
+This section is referred to in sections 2151q, 2152d, 2346c, 2398 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

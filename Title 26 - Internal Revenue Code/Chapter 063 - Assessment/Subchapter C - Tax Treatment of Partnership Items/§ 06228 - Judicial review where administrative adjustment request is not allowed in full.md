@@ -90,7 +90,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary fails to allow any part of an administrative adjustment request filedunder subsection (d) of section 6227 by a partner and paragraph (1) does not apply—
+&emsp;&emsp;If the Secretary fails to allow any part of an administrative adjustment request filed under subsection (d) of section 6227 by a partner and paragraph (1) does not apply—
 
 &emsp;&emsp;&emsp;(i) such partner may, pursuant to section 7422, begin a civil action for refund of any amount due by reason of the adjustments described in such part of the request, and
 

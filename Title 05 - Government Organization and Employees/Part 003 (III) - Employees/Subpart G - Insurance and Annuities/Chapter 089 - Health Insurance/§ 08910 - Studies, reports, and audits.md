@@ -6,11 +6,11 @@
 
 &emsp;(1) furnish such reasonable reports as the Office determines to be necessary to enable it to carry out its functions under this chapter; and
 
-&emsp;(2) permit the Office and representatives of the General Accounting Office to examinerecords of the carriers as may be necessary to carry out the purposes of this chapter.
+&emsp;(2) permit the Office and representatives of the General Accounting Office to examine records of the carriers as may be necessary to carry out the purposes of this chapter.
 
 (c) Each Government agency shall keep such records, make such certifications, and furnish the Office with such information and reports as may be necessary to enable the Office to carry out its functions under this chapter.
 
-(d) The Office, in consultation with the Department of Health and Human Services, shall develop and implement a system through which the carrier for an approved health benefits plan described by section 8903 or 8903a will be able to identify those annuitants or other individuals covered by such plan who are entitled to benefits under part A or B of title XVIII of the Social Security Act in order to ensure that payments under coordination of benefits with Medicare do not exceed the statutory maximums which physicians may charge Medicare enrollees.
+(d) The Office, in consultation with the Department of Health and Human Services, shall develop and implement a system through which the carrier for an approved health benefits plan described by section 8903 or 8903a will be able to identify those annuitants or other individuals covered by such plan who are entitled to benefits under part A or B of title XVIII of the SocialSecurity Act in order to ensure that payments under coordination of benefits with Medicare do not exceed the statutory maximums which physicians may charge Medicare enrollees.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, §7002(d), Nov. 5, 1990, 104 Stat. 1388–330.)
 

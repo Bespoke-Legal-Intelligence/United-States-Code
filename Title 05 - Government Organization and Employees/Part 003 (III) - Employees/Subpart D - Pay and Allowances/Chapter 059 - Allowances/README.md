@@ -66,13 +66,13 @@
 
 Pub. L. 95–426, title IV, §411(b), Oct. 7, 1978, 92 Stat. 981, added item 5926.
 
-1971—Pub. L. 91–656, §§6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “duty on California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
+1971—Pub. L. 91–656, §§6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “dutyon California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
 
 1967—Pub. L. 90–83, §1(40)(B), (42), Sept. 11, 1967, 81 Stat. 206, 207, added items 5902 and 5903, and inserted “or at Nevada Test Site” in item 5942.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 5307, 9701 of this title; title 22 section 3664.
+This chapter is referred to in sections 5307, 9701, 9902 of this title; title 22 section 3664.
 
 
 ---
